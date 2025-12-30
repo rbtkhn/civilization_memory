@@ -1,4 +1,4 @@
-CMC–CIV-PROTOCOL — V1.0
+CMC–CIV–PROTOCOL — V1.0
 Civilizational Memory Codex (CMC)
 Civilization Engine Protocol · Canonical
 
