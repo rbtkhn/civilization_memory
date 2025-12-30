@@ -1,9 +1,10 @@
 Title: CMC–MEM–CHINA–XIONGNU
-Status: ACTIVE
-Version: 1.0
+Status: LOCKED
+Version: 1.1
+Last Update: December 2025
 Civilization: CHINA (中华文明)
 Subject: Xiongnu Confederation (匈奴)
-Dates: c. 3rd century BC – 1st century AD
+Dates: c. 3rd century BCAD – 1st century AD
 Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
@@ -20,77 +21,93 @@ internal regimes.
 Contradictions are retained without forced synthesis.
 
 ────────────────────────────────────────────────────────────
-II. POLITICAL IDENTITY & OVERVIEW (MEMORY)
+II. FORMATION & EMERGENCE MEMORY
 ────────────────────────────────────────────────────────────
-The Xiongnu emerged as a nomadic confederation north of the Chinese agrarian
-zone, organized around mobility, cavalry warfare, and personal allegiance.
+The Xiongnu confederation crystallized in response to **Qin northern expansion**,
+including Meng Tian’s campaigns and early Great Wall construction.
+
+Unification occurred under **Modu Chanyu (冒顿单于, r. 209–174 BC)**, who consolidated
+steppe tribes through violence, discipline, and expansion, transforming loose
+nomadic groups into a coherent confederation capable of sustained pressure
+on agrarian empires.
+
+Emergence logic:
+• Reactive consolidation to agrarian encroachment  
+• Militarization through existential pressure  
+• Centralization around charismatic authority  
+
+The Xiongnu formed as a **response system**, not an imitation state.
+
+────────────────────────────────────────────────────────────
+III. POLITICAL IDENTITY & OVERVIEW (MEMORY)
+────────────────────────────────────────────────────────────
+Xiongnu society was organized around mobility, cavalry warfare, and personal
+allegiance to the **Chanyu**.
 
 Core characteristics:
 • Nomadic–pastoral economy  
 • Confederative political structure  
-• Charismatic leadership (单于 Chanyu)  
-• Raiding and tribute extraction  
+• Charismatic leadership (单于)  
+• Raiding, tribute, and extraction  
 
-Political identity emphasized mobility and autonomy:
+Political identity emphasized movement and autonomy:
 > “逐水草而居。”
 (Following water and pasture to live.)
 
 Authority was personal and situational, not bureaucratic.
 
 ────────────────────────────────────────────────────────────
-III. LEGITIMACY & AUTHORITY MEMORY
+IV. LEGITIMACY & AUTHORITY MEMORY
 ────────────────────────────────────────────────────────────
 Xiongnu legitimacy rested on:
 • Military success  
 • Distribution of plunder  
 • Elite loyalty to the Chanyu  
 
-There was no concept equivalent to Mandate of Heaven.
+There was no moralized mandate equivalent to Heaven.
 Authority dissolved when success failed.
 
-Chinese observers summarized the contrast bluntly:
-> “胡无城郭常居。”
-(The Hu have no cities or fixed dwellings.)
+Succession norms emphasized strength:
+> “单于死，立其贤子，故其国常强。”
+(When the Chanyu dies, the worthiest son succeeds; thus the state remains strong.)
 
-Legitimacy was kinetic, not moralized.
+Legitimacy was kinetic, not ethical.
 
 ────────────────────────────────────────────────────────────
-IV. GOVERNANCE & ORGANIZATIONAL MEMORY
+V. GOVERNANCE & ORGANIZATIONAL MEMORY
 ────────────────────────────────────────────────────────────
-Xiongnu governance was hierarchical but non-bureaucratic.
+Governance was hierarchical but non-bureaucratic.
 
 Key elements:
 • Tribal aristocracy  
-• Command through kinship and oath  
+• Kinship and oath-based command  
 • Loose territorial control  
 
-Governance favored speed over stability:
+The system favored speed over durability:
 > “以兵立国。”
 (The state is founded on arms.)
 
-This limited endurance but maximized shock potential.
-
 ────────────────────────────────────────────────────────────
-V. ECONOMIC & MATERIAL MEMORY
+VI. ECONOMIC & MATERIAL MEMORY
 ────────────────────────────────────────────────────────────
 The Xiongnu economy relied on:
 • Pastoral production  
-• Raiding  
-• Tribute and trade with China  
+• Raiding and tribute  
+• Trade extraction from China  
 
 Chinese goods were strategically essential:
 > “以汉物养胡众。”
 (Using Han goods to sustain the Hu population.)
 
-Economic dependence reinforced conflict cycles.
+Tribute pressure contributed indirectly to **early Silk Road dynamics**.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY & STRATEGIC MEMORY
+VII. MILITARY & STRATEGIC MEMORY
 ────────────────────────────────────────────────────────────
-Xiongnu military power was based on cavalry mobility.
+Military dominance rested on cavalry mobility.
 
 Characteristics:
-• Horse-archer dominance  
+• Horse-archer warfare  
 • Rapid concentration and dispersal  
 • Avoidance of siege warfare  
 
@@ -98,77 +115,63 @@ Strategic asymmetry defined the frontier:
 > “来如风，去如电。”
 (They come like wind and leave like lightning.)
 
-This exposed weaknesses in early Chinese infantry systems.
-
 ────────────────────────────────────────────────────────────
-VII. DIPLOMACY & EXTERNAL INTERFACE
+VIII. DIPLOMACY & EXTERNAL INTERFACE
 ────────────────────────────────────────────────────────────
-The Xiongnu forced China into unprecedented diplomacy.
+The Xiongnu forced China into parity diplomacy.
 
 Key features:
 • Heqin (和亲) marriage diplomacy  
 • Tribute-peace treaties  
 • Alternation between war and accommodation  
 
-Han court realism is evident:
-> “战不如和。”
-(War is inferior to peace.)
-
-Parity diplomacy contradicted Chinese universalist ideology.
+Zhonghang Yue observed:
+> “汉法弱民以文，匈奴养民以武。”
+(Han customs weaken the people with refinement; Xiongnu keep them hardy for war.)
 
 ────────────────────────────────────────────────────────────
-VIII. STRESS, FRACTURE, & DECLINE
+IX. FRACTURE, SPLIT, & DECLINE
 ────────────────────────────────────────────────────────────
-Xiongnu cohesion weakened due to:
-• Internal succession disputes  
-• Chinese divide-and-rule strategies  
+Decline followed:
+• Succession disputes  
+• Chinese divide-and-rule strategy  
 • Economic dependency  
 
-Fracture became irreversible:
-> “众散而势衰。”
-(The people scattered and power declined.)
-
-Confederative systems proved brittle under sustained pressure.
+Split outcomes:
+• Southern Xiongnu — absorbed into Han frontier systems  
+• Northern Xiongnu — defeated, dispersed, or migrated west  
 
 ────────────────────────────────────────────────────────────
-IX. ABSORPTION, DISPERSAL, & LEGACY
+X. ABSORPTION, DISPERSAL, & LEGACY
 ────────────────────────────────────────────────────────────
-The Xiongnu did not collapse into China but **dissolved outward**.
+The Xiongnu dissolved outward rather than collapsing inward.
 
-Absorption dynamics:
-• Southern Xiongnu incorporated into Han frontier commanderies  
-• Northern Xiongnu migrated west  
-• Steppe warfare patterns persisted  
-
-Later memory remained archetypal:
-> “匈奴不灭，边患不息。”
-(If the Xiongnu are not eliminated, border troubles do not cease.)
-
-The Xiongnu became the **template enemy**.
+Legacy:
+• Steppe warfare template  
+• Permanent frontier logic  
+• Debated elite links to later steppe polities  
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Steppe mobility exposes agrarian state vulnerabilities.
+• Steppe mobility exposes agrarian vulnerabilities.
 • Frontier pressure accelerates imperial militarization.
 • Diplomacy with equals destabilizes universalist ideology.
-• Xiongnu forced China to invent long-term frontier strategy.
-
-Tension preserved without verdict.
+• Barfield’s “shadow empire” model links Xiongnu power to Han vitality.
+• Archaeology/genetics confirm a multi-ethnic confederation with elite lineages.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
-• 《史记·匈奴列传》 Records of the Xiongnu  
-• 《汉书》 Book of Han  
+• 《史记·匈奴列传》  
+• 《汉书》  
 
 Secondary:
-• 司马迁  
-• 班固  
-• Nicola Di Cosmo  
-• Thomas Barfield  
+• Thomas Barfield — *The Perilous Frontier*  
+• Nicola Di Cosmo — *Ancient China and Its Enemies*  
+• Miller et al. — Xiongnu archaeology & elite genetics  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CMC–MEM–CHINA–XIONGNU v1.0
+END OF FILE — CMC–MEM–CHINA–XIONGNU v1.1
 ────────────────────────────────────────────────────────────
