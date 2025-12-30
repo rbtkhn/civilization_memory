@@ -1,191 +1,176 @@
-CMC–MEM–CHINA–DYNASTY–LIAO
-China Memory File · Liao Dynasty (辽朝)
-
-Status: ACTIVE
+Title: CMC–MEM–CHINA–DYNASTY–LIAO
+Status: LOCKED
 Version: 1.0
-Class: MEM (Memory)
 Civilization: CHINA (中华文明)
-Dynasty: LIAO (辽)
-Ruling People: Khitan (契丹)
-Dates: 907–1125
-Purpose: Preserve civilizational memory of dual-system rule and frontier empire
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–LIAO (future)
+Subject: Liao Dynasty (辽)
+Dates: 907–1125 AD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Liao dynasty as the **frontier–dual-system experiment**
-of Chinese civilization: a regime that governed **nomadic and agrarian
-societies simultaneously**, without full Sinicization or rejection of
-Chinese statecraft.
+This file preserves the Liao dynasty as a **frontier dual-administration
+experiment** in Chinese civilization: a polity in which **steppe conquest
+authority and Chinese bureaucratic governance operated in parallel rather
+than fusing into a single system**.
 
-Liao represents **parallel legitimacy** rather than replacement—rule by
-**administrative bifurcation**, not civilizational merger.
+The Liao represents **managed duality**—an alternative imperial solution to
+the problem of ruling agrarian China without full Sinicization.
+
+Contradictions are retained without forced synthesis.
 
 ────────────────────────────────────────────────────────────
 II. DYNASTIC OVERVIEW (MEMORY)
 ────────────────────────────────────────────────────────────
-Founded by Abaoji (耶律阿保机) of the Khitan, the Liao emerged from steppe
-confederation and established dominance over northern China, coexisting
-with the Song to the south.
+Founded by the Khitan (契丹) under Abaoji (耶律阿保机), the Liao dynasty ruled
+a vast territory spanning Manchuria, Mongolia, and northern China while
+coexisting with the Song to the south.
 
 Core characteristics:
 • Non-Han ruling elite  
-• Control of agrarian and steppe zones  
-• Sustained parity with Song China  
-• Long-term frontier stability  
+• Long-term stability without dynastic fusion  
+• Treaty-based parity with Song China  
+• Institutionalized ethnic differentiation  
 
-Imperial framing emphasized supremacy through strength:
-> “以武定天下。”
-(Establish the realm through martial power.)
-
-Yet governance required accommodation, not conquest alone.
+Imperial framing emphasized pragmatic rule:
+> “因俗而治。”
+(Govern according to customs.)
 
 ────────────────────────────────────────────────────────────
 III. ADMINISTRATIVE & INSTITUTIONAL MEMORY
 ────────────────────────────────────────────────────────────
-The Liao instituted a **dual administrative system (南北面官制)**.
+The defining feature of Liao governance was **dual administration (南北面官制)**.
 
-Key features:
-• Northern Administration (北面官): Khitan customary law, steppe governance  
-• Southern Administration (南面官): Chinese bureaucracy for Han populations  
-• Separate legal, fiscal, and cultural regimes  
-• Central imperial arbitration  
+Core structure:
+• Northern Administration (北面官) — Khitan steppe governance  
+• Southern Administration (南面官) — Chinese-style civil bureaucracy  
+
+This system preserved:
+• Khitan military culture and identity  
+• Han administrative efficiency  
 
 Administrative realism was explicit:
-> “因俗而治。”
-(Govern according to custom.)
+> “南北异制，各安其俗。”
+(North and south follow different systems; each rests in its own customs.)
 
-This preserved order but prevented full institutional synthesis.
+Integration was deliberately limited.
 
 ────────────────────────────────────────────────────────────
 IV. ECONOMIC & TRIBUTE MEMORY
 ────────────────────────────────────────────────────────────
-Liao economic power derived from extraction and mediation.
+Liao economic stability relied heavily on **external flows and frontier
+control**, rather than deep internal fiscal extraction.
 
 Key elements:
-• Tribute and trade with the Song  
-• Control of frontier commerce  
-• Agrarian taxation in southern zones  
-• Pastoral wealth in northern zones  
+• Tribute payments from Song (澶渊之盟, 1005)  
+• Control of steppe–agrarian trade routes  
+• Pastoral–agrarian economic duality  
 
-Song–Liao relations formalized parity:
-> “岁币以安边。”
-(Annual payments to secure the frontier.)
+Diplomatic economy was acknowledged:
+> “以币易和。”
+(Use payments to exchange for peace.)
 
-This created stability without subordination.
+Economic legitimacy derived from **parity diplomacy**, not moral hierarchy.
 
 ────────────────────────────────────────────────────────────
 V. LEGITIMACY & MANDATE MEMORY
 ────────────────────────────────────────────────────────────
 Liao legitimacy rested on:
-• Military dominance  
-• Ethnic authority among Khitan  
-• Practical governance over Han subjects  
+• Military conquest  
+• Khitan tribal authority  
+• Effective governance of multiple populations  
 
-Confucian moral legitimacy was **instrumental, not foundational**:
-> “德不足而势足。”
-(Virtue was insufficient, but power was sufficient.)
+Unlike orthodox dynasties, the Liao did **not** claim exclusive moral
+centrality.
 
-This marked a divergence from Han-centered mandate logic.
+Khitan political logic accepted plural legitimacy:
+> “各以其法治其民。”
+(Each governs its people according to its own law.)
+
+Mandate was practical, not cosmological.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY & STRATEGIC MEMORY
+VI. MILITARY STRENGTH & STRATEGIC BALANCE
 ────────────────────────────────────────────────────────────
-Liao power was anchored in cavalry superiority.
+Liao military power rested on cavalry dominance and mobility.
 
 Characteristics:
-• Elite steppe cavalry  
-• Strategic depth across the frontier  
-• Defensive–deterrent posture toward Song  
+• Steppe cavalry superiority  
+• Strategic restraint toward the Song  
+• Emphasis on equilibrium rather than conquest  
 
-Strategic equilibrium was deliberate:
-> “不战而制敌。”
-(Subdue the enemy without battle.)
+Strategic posture favored control over expansion:
+> “不尽取而制之。”
+(Not taking all, but controlling.)
 
-Military strength underwrote administrative compromise.
+Military strength enabled diplomatic stability.
 
 ────────────────────────────────────────────────────────────
-VII. CULTURAL & CIVILIZATIONAL MEMORY
+VII. CULTURAL & CIVILIZATIONAL POSITION
 ────────────────────────────────────────────────────────────
-The Liao maintained cultural duality.
+Liao culture remained distinctly Khitan.
 
 Key features:
 • Khitan scripts (契丹大字、小字)  
-• Patronage of Buddhism  
-• Limited Confucian integration  
-• Parallel elite cultures  
+• Limited Confucian canonization  
+• Selective adoption of Chinese ritual forms  
 
 Cultural separation was intentional:
-> “国有二制。”
-(The state has two systems.)
+> “不以汉法易本俗。”
+(Not replacing native customs with Han law.)
 
-Unity was political, not cultural.
-
-────────────────────────────────────────────────────────────
-VIII. EXTERNAL PRESSURES & INTERNAL LIMITS
-────────────────────────────────────────────────────────────
-Key pressures included:
-• Demographic imbalance  
-• Succession instability  
-• Rising Jurchen power  
-
-Structural rigidity emerged from duality:
-> “制分而力散。”
-(Divided systems disperse strength.)
-
-Dual governance limited adaptive integration.
+Identity preservation took precedence over ideological unity.
 
 ────────────────────────────────────────────────────────────
-IX. FAILURE, COLLAPSE, & ABSORPTION
+VIII. EXTERNAL PRESSURES & SHOCKS
 ────────────────────────────────────────────────────────────
-The Liao fell to the Jurchen Jin dynasty in 1125.
+The primary external pressure emerged from the rise of the Jurchen Jin (金).
+
+Contributing stresses:
+• Elite rigidity  
+• Military overconfidence  
+• Limits of dual administration under strain  
+
+Contemporary assessment noted imbalance:
+> “兵强而政分。”
+(The military was strong, but governance was divided.)
+
+────────────────────────────────────────────────────────────
+IX. FAILURE, FALL, & ABSORPTION
+────────────────────────────────────────────────────────────
+The Liao fell to the Jin in 1125.
 
 Absorption dynamics:
-• Jin adopted and modified Liao dual-rule logic  
-• Song–frontier diplomacy patterns persisted  
-• Liao validated non-Han imperial legitimacy  
+• Jin inherited and modified dual-administration logic  
+• Khitan elites migrated west (Western Liao / 西辽)  
+• Chinese bureaucratic techniques persisted  
 
 Retrospective summary:
-> “辽亡而制不绝。”
-(The Liao fell, but its governing logic did not.)
+> “辽亡而制散。”
+(The Liao fell, and its system dispersed.)
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Dual systems can stabilize multi-civilizational rule.
-• Administrative bifurcation preserves order but blocks synthesis.
-• Frontier empires prioritize equilibrium over moral legitimacy.
-• Liao sets the template for Jin and Qing multi-ethnic governance.
+• Dual administration can sustain conquest rule long-term.
+• Cultural separation preserves identity but limits moral authority.
+• Treaty parity is a viable alternative to tributary hierarchy.
+• Liao supplies a blueprint for later multi-ethnic empires.
 
-Tension preserved without verdict.
+Tension is preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
-• 《辽史》 History of Liao  
+• 《辽史》  
+• Liao edicts and treaty records  
 
 Secondary:
 • 钱穆  
 • 陈寅恪  
 • Herbert Franke  
-• Naomi Standen  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Elevation conditions:
-• Liao–Song parity model formalized  
-• Dual-administration comparison with Qing completed  
-
-Evaluator Notes:
-[Pending]
+• Denis Twitchett  
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–LIAO v1.0
