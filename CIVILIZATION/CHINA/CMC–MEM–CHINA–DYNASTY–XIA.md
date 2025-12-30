@@ -1,14 +1,11 @@
-CMC–MEM–CHINA–DYNASTY–XIA
-China Memory File · Xia Dynasty (夏朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–XIA
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: XIA (夏)
+Subject: Xia Dynasty (夏)
 Dates: c. 2070–1600 BCAD (traditional chronology)
+Class: MEM (Memory)
 Classification: MYTH–PROTO-HISTORICAL
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–XIA (future, conditional)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -39,10 +36,10 @@ Traditional accounts describe the Xia as founded by Yu the Great (大禹),
 who tamed catastrophic floods and established hereditary kingship.
 
 Core characteristics:
-• Flood-control legitimacy
-• Hereditary succession
-• Early territorial authority
-• Moral kingship narrative
+• Flood-control legitimacy  
+• Hereditary succession  
+• Early territorial authority  
+• Moral kingship narrative  
 
 Foundational claim:
 > “禹平水土，定九州。”
@@ -56,9 +53,9 @@ IV. LEGITIMACY & MORAL MEMORY
 Xia legitimacy is framed as **earned through labor and sacrifice**.
 
 Key elements:
-• Kingship as burden, not privilege
-• Authority derived from public works
-• Moral example over coercion
+• Kingship as burden, not privilege  
+• Authority derived from public works  
+• Moral example over coercion  
 
 Canonical maxim:
 > “劳而不伐，有功而不德。”
@@ -72,9 +69,9 @@ V. POLITICAL & INSTITUTIONAL MEMORY
 Xia governance is portrayed as transitional.
 
 Features:
-• Shift from abdication to heredity
-• Personal authority over institutions
-• Minimal bureaucratic abstraction
+• Shift from abdication to heredity  
+• Personal authority over institutions  
+• Minimal bureaucratic abstraction  
 
 Succession marks a civilizational turning point:
 > “天下为家。”
@@ -88,9 +85,9 @@ VI. ECONOMIC & ENVIRONMENTAL MEMORY
 Environmental management dominates Xia memory.
 
 Key themes:
-• Flood control
-• Agricultural stabilization
-• Territorial ordering
+• Flood control  
+• Agricultural stabilization  
+• Territorial ordering  
 
 Flood control is civilizational genesis:
 > “治水为政之本。”
@@ -104,9 +101,9 @@ VII. CULTURAL & SYMBOLIC MEMORY
 Xia culture is symbolic rather than documented.
 
 Key motifs:
-• Bronze precursors
-• Totemic kingship
-• Sacred geography
+• Bronze precursors  
+• Totemic kingship  
+• Sacred geography  
 
 Cultural memory emphasizes order from chaos:
 > “洪水既平，天下乃定。”
@@ -133,9 +130,9 @@ IX. ABSORPTION & CIVILIZATIONAL FUNCTION
 Xia functions as a **moral precedent** for later legitimacy doctrines.
 
 Absorption dynamics:
-• Shang adopts ritual kingship
-• Zhou moralizes overthrow
-• Mandate logic traces back to Xia narrative
+• Shang adopts ritual kingship  
+• Zhou moralizes overthrow  
+• Mandate logic traces back to Xia narrative  
 
 Later synthesis:
 > “夏亡而道存。”
@@ -146,9 +143,9 @@ Xia is memory, not administration.
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Civilizational origins are framed through environmental mastery.
-• Moral legitimacy precedes law and ritual.
-• Hereditary rule introduces legitimacy risk.
+• Civilizational origins are framed through environmental mastery.  
+• Moral legitimacy precedes law and ritual.  
+• Hereditary rule introduces legitimacy risk.  
 • Xia supplies the narrative grammar for later dynastic judgment.
 
 Tensions preserved without verdict.
@@ -165,21 +162,6 @@ Secondary:
 • 李学勤  
 • 许倬云  
 • Sarah Allan  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file:
-• Meets native-language proportion rule
-• Meets bilingual quotation requirement
-• Is explicitly marked myth–proto-historical
-
-Elevation conditions:
-• Archaeological correlation must be bracketed, not asserted
-• Narrative function must be preserved as primary value
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–XIA
