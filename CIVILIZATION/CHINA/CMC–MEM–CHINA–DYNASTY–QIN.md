@@ -1,13 +1,9 @@
-CMC–MEM–CHINA–DYNASTY–QIN
-China Memory File · Qin Dynasty (秦朝)
-
+Title: CMC–MEM–CHINA–DYNASTY–QIN
 Status: ACTIVE
-Class: MEM (Memory)
 Civilization: CHINA (中华文明)
-Dynasty: QIN (秦)
-Dates: 221–206 BC
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–QIN (future)
+Subject: Qin Dynasty (秦)
+Dates: 221–206 BCAD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -168,21 +164,6 @@ Secondary:
 • 钱穆  
 • 李零  
 • Mark Edward Lewis  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Legalist doctrine is mapped comparatively  
-• Qin–Han institutional transition is formalized  
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–QIN
