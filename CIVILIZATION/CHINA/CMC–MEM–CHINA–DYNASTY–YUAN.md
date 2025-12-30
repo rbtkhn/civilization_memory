@@ -1,13 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–YUAN
-China Memory File · Yuan Dynasty (元朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–YUAN
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: YUAN (元)
-Dates: 1271–1368
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–YUAN (future)
+Subject: Yuan Dynasty (元)
+Dates: 1271–1368 AD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -168,21 +165,6 @@ Secondary:
 • 陈寅恪  
 • Herbert Franke  
 • Morris Rossabi  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Ethnic hierarchy is mapped institutionally  
-• Fiscal collapse mechanisms are formalized  
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–YUAN
