@@ -1,13 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–MING
-China Memory File · Ming Dynasty (明朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–MING
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: MING (明)
-Dates: 1368–1644
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–MING (future)
+Subject: Ming Dynasty (明)
+Dates: 1368–1644 AD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -165,21 +162,6 @@ Secondary:
 • 顾诚  
 • Ray Huang  
 • Timothy Brook  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Fiscal–silver dependency is formalized  
-• Civil–military imbalance is mapped  
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–MING
