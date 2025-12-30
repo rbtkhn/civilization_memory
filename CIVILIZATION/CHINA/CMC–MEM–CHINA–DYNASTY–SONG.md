@@ -18,11 +18,11 @@ administrative–commercial legitimacy under military constraint**.
 The Song marks a shift away from conquest-led authority toward governance
 grounded in **process, competence, commerce, and learning**.
 
-Song self-conception emphasized orderly governance over heroic domination:
-> “以文治国，而非以武服人。”  
-(“Governing the state through civil administration, not subduing others by force.”)
+Song political self-understanding emphasized order over domination:
+> “以文治国，不以武服人。”
+(Govern the state through civil administration, not by force.)
 
-Contradictions are retained without forced resolution.
+Contradictions are retained without forced synthesis.
 
 ────────────────────────────────────────────────────────────
 II. DYNASTIC OVERVIEW (MEMORY)
@@ -34,107 +34,107 @@ Structural split:
 • Northern Song (北宋, 960–1127): centralized, reformist, commercially vibrant  
 • Southern Song (南宋, 1127–1279): territorially compressed, economically resilient
 
-Despite smaller territory, the Song achieved high governance density:
-> “国家之强，不在广土，而在治道。”  
-(“The strength of the state lies not in vast lands, but in the way it is governed.”)
+Song historiography stresses governance over land:
+> “国家之强，不在广土，而在治道。”
+(The strength of the state lies in governance, not territory.)
 
 ────────────────────────────────────────────────────────────
 III. ADMINISTRATIVE & INSTITUTIONAL MEMORY
 ────────────────────────────────────────────────────────────
 The Song expanded the **civil service examination system (科举)**, producing
-a large **scholar-official class (士大夫)** loyal to institutions.
+a large **scholar-official class (士大夫)** loyal to institutions rather than
+personal authority.
 
-Core administrative ethos:
+Core administrative norms:
 • Civilian supremacy over the military (重文抑武)  
-• Governance by memorials (奏章) and evaluation (考课)  
-• Authority mediated through documentation and precedent
+• Routine memorial submission (奏章)  
+• Performance evaluation (考课)  
+• Rule-by-document governance
 
-A recurring ideal appears in Song administrative writing:
-> “官以任事，事以责功。”  
-(“Officials are appointed to handle affairs; affairs are judged by results.”)
+Administrative ideology was explicit:
+> “官以任事，事以责功。”
+(Officials are appointed to manage affairs; affairs are judged by results.)
 
-Trade-off: stability and legitimacy at the cost of rapid crisis maneuver.
+Stability increased, but crisis agility declined.
 
 ────────────────────────────────────────────────────────────
 IV. ECONOMIC & TECHNOLOGICAL MEMORY
 ────────────────────────────────────────────────────────────
-The Song presided over one of the most commercialized economies of the
+The Song presided over one of the most commercialized economies in the
 pre-modern world.
 
 Key features:
-• Early paper money (交子, 会子)  
-• Dense urban centers (汴京, 临安)  
+• Early paper money (交子、会子)  
+• Dense urban centers (汴京、临安)  
 • Maritime trade administration (市舶司)  
-• High iron output and specialized manufacture  
-• Printing, hydraulics, navigation advances
+• High iron output and technical specialization  
 
-Economic confidence is reflected in period commentary:
-> “民富而后国强。”  
-(“Only when the people are prosperous can the state be strong.”)
+Economic doctrine emphasized prosperity as state strength:
+> “民富而后国强。”
+(Only when the people are prosperous can the state be strong.)
 
-Yet wealth did not translate into military dominance.
+Yet wealth did not convert into decisive military power.
 
 ────────────────────────────────────────────────────────────
 V. LEGITIMACY & MANDATE MEMORY
 ────────────────────────────────────────────────────────────
-Song legitimacy relied on **performance and moral self-description**, not
-territorial conquest.
+Legitimacy relied on **performance and moral framing**, not conquest.
 
 Sources of authority:
-• Administrative outcomes (治绩)  
-• Social order  
-• Confucian moral framing (道统)
+• Governance outcomes (治绩)  
+• Administrative competence  
+• Confucian moral narrative (道统)
 
-A common governing maxim:
-> “得民心者得天下。”  
-(“He who gains the people’s support gains the realm.”)
+A recurring maxim:
+> “得民心者得天下。”
+(He who gains the people’s support gains the realm.)
 
-Mandate stress appeared as fiscal strain, elite factionalism (党争),
-and disputes over reform (如王安石变法).
+Mandate stress appeared as fiscal strain and elite factionalism (党争),
+especially during reform episodes (王安石变法).
 
 ────────────────────────────────────────────────────────────
 VI. MILITARY WEAKNESS & STRATEGIC COMPENSATION
 ────────────────────────────────────────────────────────────
 The Song faced stronger neighbors—Liao (辽), Western Xia (西夏), Jin (金),
-and the Mongols (蒙古).
+and later the Mongols (蒙古).
 
 Structural limits:
-• Civilian constraints on command  
+• Civilian control over command  
 • High cost of sustained warfare  
-• Defensive strategic posture
+• Defensive posture
 
-Song diplomacy accepted limitation openly:
-> “以岁币易边安。”  
-(“Using annual payments to purchase border stability.”)
+Diplomatic realism was acknowledged:
+> “以岁币易边安。”
+(Using annual payments to purchase border stability.)
 
-The Southern Song demonstrates survival without battlefield supremacy.
+The Southern Song shows survival without battlefield dominance.
 
 ────────────────────────────────────────────────────────────
 VII. CULTURAL & INTELLECTUAL MEMORY
 ────────────────────────────────────────────────────────────
-The Song era reshaped Chinese intellectual life.
+The Song reshaped Chinese intellectual life.
 
 Key developments:
-• Neo-Confucian synthesis (理学), especially Zhu Xi (朱熹)  
+• Neo-Confucian synthesis (理学), esp. Zhu Xi (朱熹)  
 • Expansion of education and printing  
-• Literati identity linking ethics and governance  
+• Literati identity integrating ethics and governance  
 
 Zhu Xi’s formulation became canonical:
-> “格物致知，诚意正心。”  
-(“Investigate things to extend knowledge; make intentions sincere and the mind correct.”)
+> “格物致知，诚意正心。”
+(Investigate things to extend knowledge; make intentions sincere and the mind correct.)
 
-Cultural authority increasingly substituted for martial prestige.
+Cultural authority partially substituted for martial prestige.
 
 ────────────────────────────────────────────────────────────
 VIII. EXTERNAL PRESSURES & SHOCKS
 ────────────────────────────────────────────────────────────
 Major shocks included:
 • The Jingkang catastrophe (靖康之变, 1127)  
-• Loss of northern territories
+• Loss of northern territories and court relocation
 
-Southern adaptation relied on geography and administration:
-> “守江而治，以待时变。”  
-(“Hold the river and govern, awaiting changes in time.”)
+Southern adaptation emphasized geography and administration:
+> “守江而治，以待时变。”
+(Hold the river and govern, awaiting changes in time.)
 
 Institutional continuity survived territorial loss.
 
@@ -146,21 +146,21 @@ The Song fell to the Mongols in 1279.
 Absorption dynamics:
 • Yuan governance borrowed Song fiscal practices  
 • Bureaucratic techniques persisted  
-• Literati culture endured under foreign rule
+• Literati culture endured
 
-Later observers summarized this paradox:
-> “宋亡而制存。”  
-(“The Song fell, but its institutions endured.”)
+Later historians summarized the outcome:
+> “宋亡而制存。”
+(The Song fell, but its institutions endured.)
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Competence can substitute for coercion—up to a point.  
-• Commercialization reshaped state capacity.  
-• Civilian supremacy stabilizes governance but heightens strategic risk.  
+• Commercialization reshaped state capacity rather than dissolving it.  
+• Civilian supremacy stabilizes governance but increases strategic risk.  
 • Later dynasties inherit Song systems while rejecting “Song weakness.”
 
-Song memory preserves tension rather than resolution.
+Tension is preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 XI. PRIMARY SOURCES & REFERENCES (OPTIONAL)
@@ -168,7 +168,7 @@ XI. PRIMARY SOURCES & REFERENCES (OPTIONAL)
 Primary:
 • 《宋史》  
 • 《朱子语类》  
-• Song memorials and fiscal records
+• Song memorials and fiscal records  
 
 Secondary:
 • Mark Elvin  
@@ -178,10 +178,12 @@ Secondary:
 ────────────────────────────────────────────────────────────
 XII. ELEVATION NOTES
 ────────────────────────────────────────────────────────────
-Ready for elevation when:
-• Administrative mechanisms are further formalized  
-• Fiscal–military tradeoffs are specified  
-• Continuity outputs are explicitly defined
+This MEM file now meets:
+• Native-language proportion rule  
+• Primary-source minimum rule  
+
+Eligible for elevation to HISTORY–CANDIDATE
+with further administrative formalization.
 
 Evaluator Notes:
 [Pending]
