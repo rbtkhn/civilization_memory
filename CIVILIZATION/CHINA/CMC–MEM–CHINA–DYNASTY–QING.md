@@ -1,13 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–QING
-China Memory File · Qing Dynasty (清朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–QING
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: QING (清)
-Dates: 1644–1912
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–QING (future)
+Subject: Qing Dynasty (清)
+Dates: 1644–1912 AD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -168,21 +165,6 @@ Secondary:
 • 赵冈  
 • Mark Elliott  
 • Philip Kuhn  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Military modernization failure is formalized  
-• Fiscal–population imbalance is quantified  
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–QING
