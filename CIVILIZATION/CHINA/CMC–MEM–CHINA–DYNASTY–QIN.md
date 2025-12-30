@@ -5,7 +5,7 @@ Status: ACTIVE
 Class: MEM (Memory)
 Civilization: CHINA (中华文明)
 Dynasty: QIN (秦)
-Dates: 221–206 BCAD
+Dates: 221–206 BC
 Purpose: Preserve civilizational memory for later elevation
 Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–QIN (future)
 
