@@ -1,4 +1,4 @@
-CMC-MEMORY-PROTOCOL — V1.0
+CMC-MEM-PROTOCOL — V1.0
 Civilizational Memory Codex (CMC)
 Memory Object Protocol · Canonical
 
