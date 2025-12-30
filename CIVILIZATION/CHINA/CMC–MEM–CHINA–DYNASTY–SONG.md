@@ -1,13 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–SONG
-China Memory File · Song Dynasty (宋朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–SONG
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: SONG (宋)
-Dates: 960–1279
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–SONG (future)
+Subject: Song Dynasty (宋)
+Dates: 960–1279 AD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -32,7 +29,7 @@ elite militarization and stabilize rule through institutions.
 
 Structural split:
 • Northern Song (北宋, 960–1127): centralized, reformist, commercially vibrant  
-• Southern Song (南宋, 1127–1279): territorially compressed, economically resilient
+• Southern Song (南宋, 1127–1279): territorially compressed, economically resilient  
 
 Song historiography stresses governance over land:
 > “国家之强，不在广土，而在治道。”
@@ -49,7 +46,7 @@ Core administrative norms:
 • Civilian supremacy over the military (重文抑武)  
 • Routine memorial submission (奏章)  
 • Performance evaluation (考课)  
-• Rule-by-document governance
+• Rule-by-document governance  
 
 Administrative ideology was explicit:
 > “官以任事，事以责功。”
@@ -83,7 +80,7 @@ Legitimacy relied on **performance and moral framing**, not conquest.
 Sources of authority:
 • Governance outcomes (治绩)  
 • Administrative competence  
-• Confucian moral narrative (道统)
+• Confucian moral narrative (道统)  
 
 A recurring maxim:
 > “得民心者得天下。”
@@ -101,7 +98,7 @@ and later the Mongols (蒙古).
 Structural limits:
 • Civilian control over command  
 • High cost of sustained warfare  
-• Defensive posture
+• Defensive posture  
 
 Diplomatic realism was acknowledged:
 > “以岁币易边安。”
@@ -130,7 +127,7 @@ VIII. EXTERNAL PRESSURES & SHOCKS
 ────────────────────────────────────────────────────────────
 Major shocks included:
 • The Jingkang catastrophe (靖康之变, 1127)  
-• Loss of northern territories and court relocation
+• Loss of northern territories and court relocation  
 
 Southern adaptation emphasized geography and administration:
 > “守江而治，以待时变。”
@@ -146,7 +143,7 @@ The Song fell to the Mongols in 1279.
 Absorption dynamics:
 • Yuan governance borrowed Song fiscal practices  
 • Bureaucratic techniques persisted  
-• Literati culture endured
+• Literati culture endured  
 
 Later historians summarized the outcome:
 > “宋亡而制存。”
@@ -163,7 +160,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension is preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES (OPTIONAL)
+XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《宋史》  
@@ -174,19 +171,6 @@ Secondary:
 • Mark Elvin  
 • Peter Bol  
 • Robert Hartwell  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file now meets:
-• Native-language proportion rule  
-• Primary-source minimum rule  
-
-Eligible for elevation to HISTORY–CANDIDATE
-with further administrative formalization.
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–SONG
