@@ -1,13 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–TANG
-China Memory File · Tang Dynasty (唐朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–TANG
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: TANG (唐)
-Dates: 618–907
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–TANG (future)
+Subject: Tang Dynasty (唐)
+Dates: 618–907 AD
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -161,21 +158,6 @@ Secondary:
 • 陈寅恪《唐代政治史述论稿》  
 • Denis Twitchett  
 • Charles Benn  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Frontier administration is formalized  
-• Post–An Lushan institutional changes are mapped  
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–TANG
