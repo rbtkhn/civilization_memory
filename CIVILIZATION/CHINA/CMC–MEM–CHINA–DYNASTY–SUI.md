@@ -1,5 +1,5 @@
 CMC–MEM–CHINA–DYNASTY–SUI
-China Memory File · Sui Dynasty (隋朝)
+China Memory · Sui Dynasty (隋朝)
 
 Status: LOCKED
 Version: 1.0
