@@ -1,5 +1,6 @@
 Title: CMC–MEM–CHINA–DYNASTY–QIN
-Status: ACTIVE
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Qin Dynasty (秦)
 Dates: 221–206 BCAD
