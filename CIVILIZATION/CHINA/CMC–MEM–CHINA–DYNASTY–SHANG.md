@@ -1,13 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–SHANG
-China Memory File · Shang Dynasty (商朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–SHANG
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: SHANG (商)
+Subject: Shang Dynasty (商)
 Dates: c. 1600–1046 BCAD
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–SHANG (future)
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -153,9 +150,9 @@ Sacral authority was transformed, not eliminated.
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Authority initially rests on sacral mediation, not morality.
-• Ritual precedes law and administration.
-• Shang theology sets preconditions for Mandate of Heaven.
+• Authority initially rests on sacral mediation, not morality.  
+• Ritual precedes law and administration.  
+• Shang theology sets preconditions for Mandate of Heaven.  
 • Later dynasties inherit ritual logic even as they moralize it.
 
 Tensions preserved without verdict.
@@ -164,29 +161,14 @@ Tensions preserved without verdict.
 XI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
-• Oracle bone inscriptions (甲骨文)
-• 《尚书》 (early Shang references)
+• Oracle bone inscriptions (甲骨文)  
+• 《尚书》 (early Shang references)  
 
 Secondary:
 • 李学勤  
 • 许倬云  
 • K.C. Chang  
 • David Keightley  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Shang → Zhou legitimacy transition is formalized
-• Sacral → moral authority shift is mapped
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–SHANG
