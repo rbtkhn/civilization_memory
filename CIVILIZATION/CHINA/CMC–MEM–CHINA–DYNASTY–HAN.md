@@ -5,7 +5,7 @@ Status: ACTIVE
 Class: MEM (Memory)
 Civilization: CHINA (中华文明)
 Dynasty: HAN (汉)
-Dates: 206 BCAD – 220 AD
+Dates: 206 BC – 220 AD
 Sub-Periods: Western Han (西汉), Eastern Han (东汉)
 Purpose: Preserve civilizational memory for later elevation
 Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–HAN (future)
