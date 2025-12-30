@@ -1,14 +1,10 @@
-CMC–MEM–CHINA–DYNASTY–HAN
-China Memory File · Han Dynasty (汉朝)
-
-Status: ACTIVE
-Class: MEM (Memory)
+Title: CMC–MEM–CHINA–DYNASTY–HAN
+Status: LOCKED
+Version: 1.0
 Civilization: CHINA (中华文明)
-Dynasty: HAN (汉)
+Subject: Han Dynasty (汉)
 Dates: 206 BC – 220 AD
-Sub-Periods: Western Han (西汉), Eastern Han (东汉)
-Purpose: Preserve civilizational memory for later elevation
-Derived Outputs: CHSH–CIV–CHINA–HIST–DYNASTY–HAN (future)
+Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -169,21 +165,6 @@ Secondary:
 • 班固  
 • 钱穆  
 • Mark Edward Lewis  
-
-────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
-────────────────────────────────────────────────────────────
-This MEM file satisfies:
-• Native-language proportion rule  
-• Primary-source quotation rule  
-• Bilingual quotation requirement  
-
-Ready for elevation when:
-• Qin–Han transition is formalized comparatively  
-• Late Han institutional failure is mapped  
-
-Evaluator Notes:
-[Pending]
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CMC–MEM–CHINA–DYNASTY–HAN
