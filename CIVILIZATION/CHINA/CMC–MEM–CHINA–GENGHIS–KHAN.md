@@ -1,165 +1,149 @@
-Title: CMC–MEM–CHINA–GENGHIS–KHAN
-Status: ACTIVE
-Version: 1.0
+CMC–MEM–CHINA–GENGHIS–KHAN
+Status: LOCKED
+Version: 1.1
 Civilization: CHINA (中华文明)
-Subject: Genghis Khan / Chinggis Khan (成吉思汗)
-Dates: c. 1162–1227
+Subject: Genghis Khan (Chinggis Khan, scholarly variant; 成吉思汗)
+Dates: c. 1162–1227 AD
 Class: MEM (Memory)
-Last Update: December 2025
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Genghis Khan as the **external catalytic force** that
-irreversibly reconfigured Chinese civilizational strategy.
+This file preserves Genghis Khan as **pure external shock** to the Chinese
+civilizational system: a figure of **non-assimilative conquest, tempo dominance,
+and structural rupture**, not dynastic integration.
 
-He is not a Chinese ruler, but a **structural disruptor** whose campaigns
-forced China to confront the limits of walls, agrarian defense, and static
-frontiers. Genghis Khan represents **shock without assimilation**—power
-applied from outside the Chinese legitimacy grammar.
+He is remembered here not as an imperial founder within China, but as the
+**exposure mechanism** that revealed the limits of sedentary defense,
+bureaucratic inertia, and frontier management.
 
-────────────────────────────────────────────────────────────
-II. BIOGRAPHICAL POSITION (MEMORY)
-────────────────────────────────────────────────────────────
-Born Temüjin, Genghis Khan unified the Mongol tribes and created a mobile
-imperial war machine unprecedented in scale and speed.
-
-Key identifiers:
-• Founder of the Mongol Empire
-• Unifier of steppe polities through charisma and violence
-• Architect of transcontinental conquest
-• Non-Sinicized conqueror of northern Chinese states (Jin, Western Xia)
-
-Identity was conquest-defined:
-> “天助我征服四方。”
-(Heaven aids me in conquering the four directions.)
-
-Authority derived from victory, not ritual.
+No institutional synthesis is imposed.
 
 ────────────────────────────────────────────────────────────
-III. RELATION TO CHINA (STRUCTURAL)
+II. FORMATION & MOBILIZATION MEMORY
 ────────────────────────────────────────────────────────────
-Genghis Khan never sought Chinese dynastic legitimacy.
+Genghis Khan unified fragmented steppe tribes into a **mobile imperial war
+machine** built on loyalty, discipline, and speed.
 
-Chinese interaction points:
-• Destruction of Western Xia (西夏)
-• Prolonged war against Jin (金)
-• Forced tribute, population transfers, and terror
+Key features:
+• Merit-based command replacing lineage fragmentation  
+• Total loyalty enforced through annihilation of defectors  
+• Cavalry-centric force projection across vast distances  
 
-Chinese chroniclers emphasized rupture:
-> “其来如风，其去如电。”
-(They came like the wind and departed like lightning.)
+Environmental amplifier:
+• Early-13th-century pluvial phase (c. 1211–1225) followed a late-12th-century
+  drought, sharply increasing grassland productivity, horse herds, and sustained
+  mobilization capacity.
 
-He destabilized, but did not govern China.
-
-────────────────────────────────────────────────────────────
-IV. LEGITIMACY MODEL (STEPPE)
-────────────────────────────────────────────────────────────
-Genghis Khan’s legitimacy rested on steppe principles:
-
-Core elements:
-• Personal charisma
-• Military success
-• Distribution of plunder
-• Loyalty enforced through law (札撒, Yassa)
-
-Succession logic was pragmatic:
-> “以能者立。”
-(The capable are elevated.)
-
-This stood in direct contrast to Chinese moral cosmology.
+This climate window **amplified**—but did not determine—tempo dominance.
 
 ────────────────────────────────────────────────────────────
-V. MILITARY & STRATEGIC MEMORY
+III. LEGITIMACY WITHOUT INTEGRATION
 ────────────────────────────────────────────────────────────
-Genghis Khan perfected mobile warfare.
+Genghis Khan did not seek Chinese legitimacy.
 
-Key characteristics:
-• Horse archer supremacy
-• Decentralized command
-• Intelligence and deception
-• Psychological warfare
+Authority rested on:
+• Victory
+• Loyalty enforcement
+• Distribution of spoils
+• Fear as stabilizer
 
-Strategic ethos was absolute:
+Rule was kinetic, not ritualized:
 > “如风如火。”
 (Like wind, like fire.)
 
-Chinese defenses proved structurally inadequate.
+No appeal was made to Heaven, Mandate, or Confucian moral language.
 
 ────────────────────────────────────────────────────────────
-VI. ADMINISTRATIVE NON-INTEGRATION
+IV. MILITARY SHOCK & SYSTEM BREACH
 ────────────────────────────────────────────────────────────
-Unlike successors, Genghis Khan did not pursue sedentary administration.
+His campaigns collapsed frontier systems through:
+• Operational speed exceeding bureaucratic response time  
+• Psychological warfare and reputation effects  
+• Multi-axis maneuver impossible for fixed defenses  
 
-Key points:
-• Minimal bureaucratic absorption
-• Use of conquered elites instrumentally
-• Governance delegated or postponed
+Northern Chinese states failed structurally, not tactically.
 
-Chinese systems were exploited, not adopted:
-> “取其力，不取其道。”
-(Taking their strength, not their way.)
+Battlefield logic:
+> “射如飞电。”
+(Arrows like flying lightning.)
 
-This preserved Mongol flexibility.
-
-────────────────────────────────────────────────────────────
-VII. ECONOMIC & EXTRACTION MEMORY
-────────────────────────────────────────────────────────────
-Economic logic was predatory rather than developmental.
-
-Key elements:
-• Tribute extraction
-• Plunder redistribution
-• Control of trade routes
-
-China functioned as resource pool, not state partner.
+Defense failed before adaptation could occur.
 
 ────────────────────────────────────────────────────────────
-VIII. DEATH & SUCCESSION SHOCK
+V. GOVERNANCE BY ABSENCE
 ────────────────────────────────────────────────────────────
-Genghis Khan’s death did not collapse the system.
+Genghis Khan deliberately avoided sedentary governance.
 
-Implications:
-• Empire continued expansion under successors
-• Institutionalization accelerated posthumously
-• Sinicization pressures increased only later
+Characteristics:
+• No Chinese-style bureaucracy  
+• No codified civil administration  
+• Minimal taxation structures  
+• Delegated extraction through intermediaries  
 
-Chinese exposure deepened after his death.
+Control was exercised through **movement and punishment**, not institutions.
+
+────────────────────────────────────────────────────────────
+VI. CIVILIZATIONAL IMPACT (IMMEDIATE)
+────────────────────────────────────────────────────────────
+Immediate effects on the Chinese world:
+• Destruction of frontier buffer systems  
+• Population displacement and demographic shock  
+• Collapse of northern political orders  
+
+The impact was **systemic**, not reformist.
+
+No moral lesson was offered—only exposure.
+
+────────────────────────────────────────────────────────────
+VII. LIMITS OF THE FIGURE
+────────────────────────────────────────────────────────────
+Genghis Khan did not:
+• Build a Chinese dynasty  
+• Establish lasting civil institutions  
+• Seek cultural integration  
+
+His model was **non-transferrable** without modification.
+
+This constraint shaped posthumous adaptations.
+
+────────────────────────────────────────────────────────────
+VIII. DEATH & PIVOT POINT
+────────────────────────────────────────────────────────────
+His death marked a structural pivot.
+
+Posthumous shift:
+• Successors (Ögödei onward) initiated bureaucratic and fiscal experiments
+  absent during his lifetime.
+• Partial Sinicization occurred **after**, not during, his rule.
+
+The Mongol–Chinese synthesis is therefore **successor-driven**, not his.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• External shock can reshape civilization without integration.
-• Chinese frontier defense assumptions failed catastrophically.
-• Mobility defeated fortification.
-• Genghis Khan forced China into adaptive cycles later exploited by Yuan.
-• He represents **pure disruption**, not governance.
+• Shock without assimilation can collapse systems but cannot govern them.
+• Tempo dominance outpaces institutional adaptation.
+• Climate windows (pluvial phases post-drought) act as mobilization amplifiers.
+• Genghis Khan exposes limits; successors attempt synthesis.
 
-Contradictions preserved without verdict.
-
-────────────────────────────────────────────────────────────
-X. OPTIONAL TAGS (INDEXING)
-────────────────────────────────────────────────────────────
-• EXTERNAL-SHOCK
-• STEPPE-CONQUEST
-• ANTI-DYNASTIC
-• MOBILITY-SUPREMACY
-• FRONTIER-COLLAPSE
+Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+X. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
-• 《蒙古秘史》
 • 《元史》 (retrospective accounts)
-• Jin and Song chronicler references
+• Persian and steppe chronicles
 
 Secondary:
-• David Morgan
-• Thomas Allsen
-• Timothy May
-• Nicola Di Cosmo
+• Thomas Allsen  
+• Jack Weatherford  
+• Frank McLynn  
+• Nicola Di Cosmo  
+• Morris Rossabi  
+• Paleoclimate: Hessl, Pederson, Di Cosmo (2014–2025)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CMC–MEM–CHINA–GENGHIS–KHAN v1.0
+END OF FILE — CMC–MEM–CHINA–GENGHIS–KHAN
 ────────────────────────────────────────────────────────────
