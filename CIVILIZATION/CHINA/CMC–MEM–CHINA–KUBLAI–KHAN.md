@@ -1,175 +1,163 @@
-Title: CMC–MEM–CHINA–KUBLAI–KHAN
-Status: ACTIVE
-Version: 1.0
+CMC–MEM–CHINA–KUBLAI–KHAN
+Status: LOCKED
+Version: 1.1
 Civilization: CHINA (中华文明)
-Subject: Kublai Khan (忽必烈)
-Dates: 1215–1294 (r. as Great Khan 1260–1294; Yuan Emperor 1271–1294)
+Subject: Kublai Khan (Khubilai Khan, variant; 忽必烈)
+Dates: 1215–1294 AD
 Class: MEM (Memory)
-Last Update: December 2025
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Kublai Khan as the **civilizational translator** figure
-within Mongol–Chinese history: the ruler who attempted to **convert steppe
-conquest into sedentary imperial governance**.
+This file preserves Kublai Khan as a **civilizational translator**: the ruler
+who attempted to convert Mongol conquest into a sedentary, legitimate empire
+within the Chinese world—without ever fully belonging to either system.
 
-Kublai represents a **liminal authority**—neither purely Mongol conqueror nor
-fully Chinese emperor—whose reign exposes the limits of legitimacy transfer
-across civilizational grammars.
+Kublai embodies **dual sovereignty**:
+• Steppe legitimacy by conquest and lineage
+• Chinese legitimacy by ritual, law, and administration
 
-────────────────────────────────────────────────────────────
-II. BIOGRAPHICAL POSITION (MEMORY)
-────────────────────────────────────────────────────────────
-Grandson of Chinggis Khan, Kublai emerged victorious from the Toluid civil war
-and reoriented Mongol power toward China.
-
-Key identifiers:
-• First Mongol ruler to govern primarily from China
-• Founder of the Yuan dynasty (元朝)
-• Patron of Chinese institutions alongside Mongol supremacy
-• Ruler at the apex of Mongol imperial scale
-
-Self-conception fused conquest and rule:
-> “朕既为天下主，当行中国之政。”
-(As ruler of all under Heaven, I must practice the governance of China.)
+The translation remains incomplete by design and by structure.
 
 ────────────────────────────────────────────────────────────
-III. LEGITIMACY STRATEGY (DUAL MODE)
+II. POSITION IN MONGOL CONTINUITY
 ────────────────────────────────────────────────────────────
-Kublai pursued **dual legitimacy**:
+Kublai inherited a system forged by Genghis Khan that was optimized for
+**mobility, extraction, and terror**, not governance.
 
-Mongol axis:
-• Chinggisid lineage
-• Conquest authority
-• Steppe military elite loyalty
+His reign marks the pivot from:
+• Shock → Settlement
+• Movement → Administration
+• Fear → Legitimacy performance
 
-Chinese axis:
-• Adoption of dynastic title (Yuan)
-• Use of Chinese imperial ritual
-• Invocation of Heaven (天命)
-
-Tension was structural:
-> “外示中国之礼，内守蒙古之权。”
-(Outwardly displaying Chinese ritual, inwardly guarding Mongol power.)
-
-Legitimacy was layered, not unified.
+This pivot generated contradictions that no single ideology could resolve.
 
 ────────────────────────────────────────────────────────────
-IV. ADMINISTRATIVE & INSTITUTIONAL MEMORY
+III. LEGITIMACY STACK (TRIPLE AXIS)
 ────────────────────────────────────────────────────────────
-Kublai expanded and formalized imperial administration.
+Kublai layered legitimacy rather than replacing it.
+
+Axes of authority:
+• Mongol: lineage, conquest, military supremacy
+• Chinese: Heaven (天), ritual order, dynastic form (元)
+• Third axis: Tibetan Buddhist sacral authority
+
+Tibetan Buddhism functioned as a **supra-ethnic bridge**:
+• Phagspa Lama (八思巴) installed as Imperial Preceptor
+• Khan framed as universal ruler beyond Confucian monopoly
+• Moral authority outsourced to trans-civilizational cosmology
+
+This bypassed—but did not erase—Chinese literati resistance.
+
+Hybrid legitimacy remained unstable:
+> “杂而不化。”
+(Mixed, but not fused.)
+
+────────────────────────────────────────────────────────────
+IV. CAPITAL & ARCHITECTURAL MEMORY
+────────────────────────────────────────────────────────────
+Kublai founded **Dadu / Khanbaliq (大都 / 汗八里)** as a planned imperial capital.
+
+Symbolic synthesis:
+• Chinese axial cosmology and bureaucratic zoning
+• Steppe elements: hunting parks, seasonal mobility logic
+• Cosmopolis hosting Mongols, Chinese, Muslims, Tibetans
+
+Dadu represents **translation made stone**—grand, rational, and fragile.
+
+Architecture encoded ambition; legitimacy lagged behind form.
+
+────────────────────────────────────────────────────────────
+V. ADMINISTRATION & CONTROL
+────────────────────────────────────────────────────────────
+The Yuan state expanded administrative reach but fractured trust.
 
 Key features:
-• Retention of Song bureaucratic techniques
-• Ethnic hierarchy (蒙古、色目、汉人、南人)
-• Partial suppression of civil examinations
-• Heavy reliance on non-Han administrators
+• Retention of Chinese bureaucratic techniques
+• Ethnic hierarchy institutionalized (四等人)
+• Suspended / restricted examinations
+• Heavy reliance on non-Confucian intermediaries
 
-Chinese critique captured the gap:
+Chinese governance operated, but ownership was absent:
 > “有其名而失其实。”
-(Having the name, but losing the substance.)
-
-Administrative capacity grew, moral legitimacy lagged.
+(It had the name, but not the substance.)
 
 ────────────────────────────────────────────────────────────
-V. MILITARY & STRATEGIC MEMORY
+VI. FISCAL & MONETARY MEMORY
 ────────────────────────────────────────────────────────────
-Kublai completed the conquest of Southern Song (1279), but faced limits beyond.
-
-Characteristics:
-• Naval expansion (failed Japan invasions)
-• Large standing forces with rising costs
-• Declining steppe mobility advantage
-
-Strategic overreach was noted:
-> “兵疲而国困。”
-(The troops were exhausted, and the state strained.)
-
-The transition from expansion to maintenance proved difficult.
-
-────────────────────────────────────────────────────────────
-VI. ECONOMIC & FISCAL MEMORY
-────────────────────────────────────────────────────────────
-Kublai presided over ambitious fiscal experiments.
+Kublai aggressively expanded state finance.
 
 Key elements:
-• Expansion of paper currency (交钞)
-• State monopolies and requisitions
-• Support for continental trade
-• Rising inflation and fiscal stress
+• Large-scale paper currency (交钞)
+• Centralized monopolies (salt, trade)
+• Redistribution to Mongol elite networks
 
-Economic warning appeared early:
-> “钞多则信失。”
-(When currency multiplies, trust is lost.)
+Fiscal stressors:
+• Costly overseas expeditions (Japan, Vietnam, Java, Korea)
+• Military overreach without commensurate returns
+• Currency debasement and inflation
 
-Fiscal fragility undermined imperial credibility.
+Economic legitimacy eroded through overextension:
+> “钞多而民贫。”
+(More currency, poorer people.)
 
 ────────────────────────────────────────────────────────────
-VII. CULTURAL & INTELLECTUAL MEMORY
+VII. CULTURAL & RELIGIOUS POLICY
 ────────────────────────────────────────────────────────────
-Kublai patronized diverse traditions without fully integrating them.
+Kublai patronized plural traditions without fully integrating any.
 
-Key features:
-• Tolerance of multiple religions
-• Marginalization of Confucian literati
-• Use of Tibetan Buddhism for sacral authority
+Policies included:
+• Support for Buddhism (especially Lamaist)
+• Protection of Islam, Christianity, Daoism
+• Conditional accommodation of Confucianism
 
-Cultural hybridity lacked synthesis:
-> “杂而不化。”
-(Mixed, but not transformed.)
+Strategic intent:
+• Dilute Confucian monopoly on moral order
+• Prevent literati capture of legitimacy discourse
 
-This limited long-term cultural absorption.
+Outcome:
+• Cultural breadth
+• Ideological fragmentation
 
 ────────────────────────────────────────────────────────────
 VIII. FAILURE MODES & LIMITS
 ────────────────────────────────────────────────────────────
-Kublai’s project failed to resolve core contradictions.
+Kublai’s project failed structurally, not personally.
 
-Key limits:
-• Mongol elite resisted Sinicization
-• Chinese elites withheld moral allegiance
-• Fiscal and military systems overstretched
-• Succession instability followed his death
+Limits:
+• Conquest legitimacy does not transfer cleanly
+• Ritual without moral trust breeds resentment
+• Bureaucracy without ownership lacks resilience
 
-Posthumous assessment:
-> “忽必烈得天下，而失人心。”
-(Kublai gained the realm, but lost the people’s hearts.)
+Later Yuan weakness traces directly to unresolved hybridity.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Conquest does not automatically translate into legitimacy.
-• Dual systems stabilize temporarily but decay without synthesis.
-• Scale amplifies administrative strain faster than culture adapts.
-• Kublai marks the high-water attempt at Mongol–Chinese fusion.
-• Yuan failure sharpened Ming restoration logic.
+• Translation between civilizational systems produces friction, not synthesis.
+• Third-legitimacy strategies can bypass but not replace native moral orders.
+• Architecture and administration can precede legitimacy—but not secure it.
+• Kublai reveals the ceiling of imperial hybridity.
 
-Contradictions preserved without verdict.
-
-────────────────────────────────────────────────────────────
-X. OPTIONAL TAGS (INDEXING)
-────────────────────────────────────────────────────────────
-• LEGITIMACY-TRANSLATOR
-• DUAL-SOVEREIGNTY
-• CONQUEST-TO-GOVERNANCE
-• IMPERIAL-SCALE-STRESS
-• YUAN-FOUNDATION
+Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+X. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
-• 《元史·世祖本纪》
-• Yuan imperial edicts
-• 《蒙古秘史》 (retrospective context)
+• 《元史》
+• Yuan edicts and fiscal records
+• Tibetan court documents
 
 Secondary:
-• Morris Rossabi
-• David Morgan
+• Morris Rossabi (updated editions, 2023)
+• Michal Biran
+• Francesca Fiaschetti
 • Thomas Allsen
+• Nancy Steinhardt (Yuan architecture)
 • Nicola Di Cosmo
+• Jack Weatherford
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CMC–MEM–CHINA–KUBLAI–KHAN v1.0
+END OF FILE — CMC–MEM–CHINA–KUBLAI–KHAN
 ────────────────────────────────────────────────────────────
