@@ -1,9 +1,9 @@
-CMC–CIV–CHINA — V1.0
-Civilizational Memory Codex · Civilization Continuity Engine
+CIV–CORE–CHINA — V1.0
+Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Absorption–Mandate Edition
 
-Status: ACTIVE · CANONICAL · CMC-BOUND · SCHOLAR-ENABLED · STAND-ALONE
-Compatibility: CMC V1.x
+Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
+Compatibility: CIV / MEM Architecture
 Conceptual Lineage: SCE–CIV–CHINA V9.8 (doctrinal ancestry preserved)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
@@ -215,7 +215,7 @@ XIV. FAILURE PHYSICS
 ────────────────────────────────────────────────────────────
 
 A) Split-Axis Failure (SAF-CH)
-Belief axis: MSI, SOC, EAL  
+Belief axis: MSI, SOC, EAL
 Feasibility axis: IRR, AT, Spatial Integrity
 
 MANDATORY OUTPUT:
@@ -289,5 +289,5 @@ XX. MANDATORY VERDICT BLOCK
   CONTINUITY-DOMINANT / EXIT-ACCELERATING / SYSTEM-NEGATIVE / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CMC–CIV–CHINA — V1.0
+END OF FILE — CIV–CORE–CHINA — V1.0
 ────────────────────────────────────────────────────────────
