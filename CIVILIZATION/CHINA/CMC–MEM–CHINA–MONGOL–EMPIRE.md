@@ -1,168 +1,173 @@
 Title: CMC–MEM–CHINA–MONGOL–EMPIRE
-Status: ACTIVE
-Version: 1.0
+Status: LOCKED
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Mongol Empire (蒙古帝国)
-Dates: 1206–1368 (imperial phase; Yuan absorption thereafter)
+Dates: c. 1206–1368 (China-facing arc)
 Class: MEM (Memory)
 Last Update: December 2025
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Mongol Empire as a **civilizational rupture–accelerator**:
-a steppe-origin polity that **collapsed Eurasian distance**, reordered
-imperial scale, and forced China to confront power not merely at its borders
-but across the entire continental system.
+This file preserves the Mongol Empire as a **system-breaking accelerator**
+within Chinese and Eurasian history: a polity that shattered scale, tempo,
+and legitimacy assumptions, forcing agrarian civilizations to confront
+**steppe-driven total mobility**.
 
-The Mongol Empire is remembered not as a dynasty alone, but as a
-**system-breaking event** whose effects reshaped administration, warfare,
-trade, and legitimacy across civilizations.
-
-────────────────────────────────────────────────────────────
-II. IMPERIAL FORMATION (MEMORY)
-────────────────────────────────────────────────────────────
-The Mongol Empire was unified under Chinggis Khan (成吉思汗) in 1206,
-transforming fragmented steppe clans into a disciplined imperial war machine.
-
-Core formation drivers:
-• Charismatic war leadership
-• Meritocratic command promotion
-• Total mobilization of steppe society
-• Extreme enforcement of loyalty
-
-Foundational claim:
-> “天命在我。”
-(The Mandate of Heaven rests with me.)
-
-This assertion bypassed Chinese moral grammar and asserted **conquest-as-proof**.
+The Mongol Empire is remembered not as a civilization-builder in the Chinese
+mode, but as a **force that redefined what civilization had to survive**.
 
 ────────────────────────────────────────────────────────────
-III. IMPERIAL SCALE & STRUCTURE
+II. FORMATION & MOBILIZATION MEMORY
 ────────────────────────────────────────────────────────────
-The Mongol Empire operated at unprecedented continental scale.
+Unified under **Chinggis Khan (成吉思汗)**, the Mongols transformed steppe
+coalitions into a conquest engine.
+
+Key formation dynamics:
+• Meritocratic command replacing aristocratic lineage  
+• Extreme enforcement of loyalty and discipline  
+• Total integration of military, logistics, and intelligence  
+• Favorable **early 13th-century pluvial phase** (c. 1210s–1230s) expanding
+  pasture productivity and surplus, amplifying mobilization capacity  
+
+Expansion was ecological as well as political.
+
+Foundational maxim:
+> “一人犯律，众皆坐罪。”
+(If one violates the law, all share the punishment.)
+
+────────────────────────────────────────────────────────────
+III. MULTI-ETHNIC INTEGRATION & GOVERNANCE
+────────────────────────────────────────────────────────────
+The Mongol Empire functioned as a **multi-ethnic integrator**, not a tribal
+monolith.
 
 Key features:
-• Multi-theater conquest (China, Central Asia, Middle East, Eastern Europe)
-• Division into ulus (汗国) under supreme authority
-• Rapid communication (yam relay system 驿站)
-• Law code (大札撒, Yassa) emphasizing discipline and obedience
+• Incorporation of Turks, Persians, Chinese, Khitans, and others  
+• Patronage of multiple religions and knowledge systems  
+• Transfer of astronomy, medicine, engineering, and cartography  
+• Administrative borrowing from conquered civilizations  
 
-Governance was functional, not cultural:
-> “以法治众，不以俗同。”
-(Rule the many by law, not by shared custom.)
+Governance was adaptive rather than uniform.
 
-────────────────────────────────────────────────────────────
-IV. MILITARY & STRATEGIC MEMORY
-────────────────────────────────────────────────────────────
-Mongol military power fused mobility with intelligence.
-
-Defining characteristics:
-• Composite bow cavalry dominance
-• Feigned retreat and deep encirclement
-• Psychological warfare and terror signaling
-• Multi-ethnic troop integration
-
-Strategic maxim preserved:
-> “兵贵神速。”
-(Speed is the essence of warfare.)
-
-The empire’s advantage lay in **tempo control**, not numbers alone.
+Imperial pragmatism prevailed:
+> “因俗而治。”
+(Govern according to local custom.)
 
 ────────────────────────────────────────────────────────────
-V. ADMINISTRATION & ADAPTATION (CHINA INTERFACE)
+IV. MILITARY TEMPO & SHOCK
 ────────────────────────────────────────────────────────────
-In China, Mongol rule evolved into the Yuan dynasty.
+Mongol warfare prioritized **speed, deception, and annihilation of resistance**.
 
-Key adaptations:
-• Retention of Song fiscal and bureaucratic techniques
-• Ethnic stratification (蒙古、色目、汉人、南人)
-• Reduced reliance on Confucian examinations
-• Heavy use of Central Asian administrators
+Characteristics:
+• Horse-archer supremacy  
+• Feigned retreat and encirclement  
+• Integrated intelligence networks  
+• Psychological warfare as force multiplier  
 
-Chinese observation captured tension:
-> “有天下之实，而无中国之治。”
-(Possessing the realm, but not governing it in the Chinese way.)
+Contemporary memory emphasized velocity:
+> “射如飞电。”
+(Arrows like flying lightning.)
+
+Tempo itself became a weapon.
 
 ────────────────────────────────────────────────────────────
-VI. ECONOMIC & TRADE MEMORY
+V. ADMINISTRATION, CITIES, & INFRASTRUCTURE
 ────────────────────────────────────────────────────────────
-The Mongol Empire created a **continental trade corridor**.
+Though born on the steppe, the empire built urban and administrative systems.
 
 Key elements:
-• Secured Silk Road routes
-• Merchant protection (including foreign traders)
-• Paper currency experimentation in China
-• Resource extraction to sustain military elites
+• Yam postal relay network across Eurasia  
+• Census and taxation experiments  
+• Planned imperial capitals (e.g., Dadu / Khanbaliq 大都)  
+• Architectural synthesis blending Chinese, Islamic, and steppe forms  
 
-Trade was strategic infrastructure:
-> “通商则国富。”
-(When commerce flows, the state prospers.)
-
-Yet fiscal overreach destabilized later governance.
+Recent scholarship highlights Yuan urban innovation as **cosmopolitan design**,
+not mere imitation.
 
 ────────────────────────────────────────────────────────────
-VII. LEGITIMACY & CIVILIZATIONAL TENSION
+VI. LEGITIMACY & RULE
 ────────────────────────────────────────────────────────────
-Mongol legitimacy rested on:
-• Victory and redistribution
-• Chinggisid lineage
-• Sacral destiny concepts (Heaven, Eternal Blue Sky)
+Mongol legitimacy rested on **victory and order**, not moral cosmology.
 
-This clashed with Confucian moral conditionality:
-> “得之以力，失之亦速。”
-(What is gained by force is also quickly lost.)
+Authority derived from:
+• Conquest success  
+• Distribution of spoils  
+• Maintenance of order across diversity  
 
-The Yuan collapse reflected unresolved legitimacy translation.
+Mandate language was secondary:
+> “得天下者，强也。”
+(He who gains the realm is the strong.)
+
+This clashed directly with Confucian legitimacy grammar.
 
 ────────────────────────────────────────────────────────────
-VIII. FRAGMENTATION & ABSORPTION
+VII. ECONOMIC & CONNECTIVITY MEMORY
 ────────────────────────────────────────────────────────────
-The empire fragmented after the mid-13th century.
+The empire enabled unprecedented transcontinental exchange.
 
 Key outcomes:
-• Autonomous khanates (Golden Horde, Ilkhanate, Chagatai)
-• Divergent religious and administrative paths
-• In China, absorption into Ming restoration logic
+• Secure Silk Road corridors (Pax Mongolica)  
+• Movement of goods, technologies, and ideas  
+• Intensified horse, metal, and craft production  
+• Fiscal systems strained by scale and later climate stress  
 
-Retrospective Chinese synthesis:
-> “元亡而天下复归中国。”
-(The Yuan fell, and the realm returned to China.)
+Connectivity outlasted the empire itself.
+
+────────────────────────────────────────────────────────────
+VIII. FRAGMENTATION & COLLAPSE
+────────────────────────────────────────────────────────────
+Fragmentation followed success.
+
+Key stressors:
+• Succession disputes  
+• Regionalization of khanates  
+• Information diffusion (collapse news emboldening rebellions)  
+• Later droughts and fiscal exhaustion  
+
+In China, Yuan legitimacy eroded rapidly once military dominance faltered.
+
+A later assessment summarized the reversal:
+> “强而不久。”
+(Strong, but not enduring.)
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Mobility plus discipline can overwhelm sedentary systems.
-• Scale transforms governance problems faster than ideology can adapt.
-• Continental empires require legitimacy translation, not just conquest.
-• Mongol acceleration permanently altered Eurasian connectivity.
-• China absorbed Mongol techniques while rejecting Mongol authority.
+• Climate windows act as expansion amplifiers; variability accelerates collapse.  
+• Steppe polities integrate diversity faster than agrarian states expect.  
+• Mongol systems forced Chinese states to rethink defense, logistics, and scale.  
+• Permanent Eurasian connectivity survived imperial collapse.  
+• Ming and Qing absorbed Mongol techniques (military, postal, fiscal) while
+  rejecting Mongol legitimacy narratives.
 
-Contradictions preserved without verdict.
+Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 X. OPTIONAL TAGS (INDEXING)
 ────────────────────────────────────────────────────────────
-• CONTINENTAL-ACCELERATOR
-• STEPPE-EMPIRE
-• SCALE-SHOCK
-• MOBILITY-SUPREMACY
-• LEGITIMACY-TRANSLATION-FAILURE
+• SYSTEM-BREAKER  
+• TEMPO-DOMINANCE  
+• STEPPE-IMPERIUM  
+• MULTI-ETHNIC-EMPIRE  
+• EURASIAN-CONNECTIVITY  
 
 ────────────────────────────────────────────────────────────
 XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
-• 《元史》
-• 《蒙古秘史》
-• Yuan edicts and fiscal records
+• 《元史》 History of Yuan  
+• Mongol legal and administrative records  
 
 Secondary:
-• Thomas Allsen
-• David Morgan
-• Morris Rossabi
-• Nicola Di Cosmo
+• Thomas Allsen, *Culture and Conquest*  
+• Morris Rossabi  
+• Michal Biran  
+• Nicola Di Cosmo  
+• Pederson / Hessl et al. (paleoclimate studies)  
+• Nancy Steinhardt (Yuan architecture, 2023)  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CMC–MEM–CHINA–MONGOL–EMPIRE v1.0
+END OF FILE — CMC–MEM–CHINA–MONGOL–EMPIRE v1.1
 ────────────────────────────────────────────────────────────
