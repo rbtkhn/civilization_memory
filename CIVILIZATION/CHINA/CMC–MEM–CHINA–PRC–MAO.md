@@ -1,7 +1,8 @@
-Title: CMC–MEM–CHINA–MAO
+Title: CMC–MEM–CHINA–PRC–MAO
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
+Regime: PRC (中华人民共和国)
 Subject: Mao Zedong (毛泽东)
 Dates: 1893–1976 AD
 Class: MEM (Memory)
@@ -10,14 +11,13 @@ Last Update: December 2025
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Mao Zedong as the **revolutionary reconstitutor** of
-Chinese state power: the figure who **destroyed the old order, rebuilt the
-state through mass mobilization, and permanently altered the grammar of
-authority in modern China**.
+This file preserves Mao Zedong as the revolutionary reconstitutor of Chinese
+state power: the figure who destroyed the old order, rebuilt the state through
+mass mobilization, and permanently altered the grammar of authority in modern
+China.
 
-Mao represents **foundational rupture**—not continuity—yet his actions
-produced the institutional conditions that later enabled durable
-centralization.
+Mao represents foundational rupture—not continuity—yet his actions produced
+the institutional conditions that later enabled durable centralization.
 
 Contradictions are preserved without synthesis.
 
@@ -181,5 +181,5 @@ Secondary:
 • Odd Arne Westad  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CMC–MEM–CHINA–MAO v1.1
+END OF FILE — CMC–MEM–CHINA–PRC–MAO v1.1
 ────────────────────────────────────────────────────────────
