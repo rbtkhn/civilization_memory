@@ -1,4 +1,4 @@
-CMC–MEM–CHINA–KUBLAI–KHAN
+CMC–MEM–CHINA–LIFE–KUBLAI–KHAN
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
