@@ -1,4 +1,4 @@
-Title: CMC–MEM–CHINA–MANCHURIA
+Title: CMC–MEM–CHINA–GEO–MANCHURIA
 Status: ACTIVE
 Version: 1.1
 Civilization: CHINA (中华文明)
