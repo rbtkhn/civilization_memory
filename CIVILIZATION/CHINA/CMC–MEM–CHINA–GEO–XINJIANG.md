@@ -1,4 +1,4 @@
-CMC–MEM–CHINA–XINJIANG
+CMC–MEM–CHINA–GEO–XINJIANG
 Status: ACTIVE
 Version: 1.1
 Civilization: CHINA (中华文明)
