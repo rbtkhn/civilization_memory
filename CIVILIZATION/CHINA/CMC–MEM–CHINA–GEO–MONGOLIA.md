@@ -1,4 +1,4 @@
-Title: CMC–MEM–CHINA–MONGOLIA
+Title: CMC–MEM–CHINA–GEO–MONGOLIA
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
