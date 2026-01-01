@@ -1,4 +1,4 @@
-MEM–GERMANIA–PERSON–CHARLEMAGNE — v1.0
+MEM–GERMANIA–CHARLEMAGNE — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE
