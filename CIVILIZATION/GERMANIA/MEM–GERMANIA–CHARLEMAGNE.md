@@ -1,8 +1,8 @@
-MEM–GERMANIA–CHARLEMAGNE
+MEM–GERMANIA–PERSON–CHARLEMAGNE — v1.0
+Civilizational Memory Codex · Memory File
+Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE
-Version: 1.0
 Civilization: GERMANIA
-Regime: IMPERIAL / SACRAL MONARCHY (768–814)
 Subject: Charlemagne (Karl der Große)
 Dates: c. 742–814 AD
 Class: MEM (Memory)
@@ -87,7 +87,7 @@ VII. POST-CHARLEMAGNE TRAJECTORY
 After fragmentation:
 • East Francia retains imperial logic
 • Sacral kingship persists
-• Foundations laid for Holy Roman Empire
+• Foundations laid for the Holy Roman Empire
 
 German imperial identity endures without unity.
 
@@ -103,4 +103,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–CHARLEMAGNE v1.0
+END OF FILE — MEM–GERMANIA–PERSON–CHARLEMAGNE — v1.0
+────────────────────────────────────────────────────────────
