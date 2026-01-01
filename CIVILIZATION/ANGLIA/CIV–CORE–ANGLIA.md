@@ -1,291 +1,288 @@
-CIV–CORE–ANGLIA — V1.0
+CIV–CORE–ANGLIA — V1.2
 Civilizational Strategy Codex · Civilization Core Engine
-Platform–Compute–Maritime Empire · Enforcement–Exit Coupling Edition
+Procedural–Maritime–Institutional Continuity Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Compatibility: CIV / MEM Architecture
-Conceptual Lineage: SCE–CIV–ANGLIA V9.7.2 (doctrinal ancestry preserved)
+Conceptual Lineage: SCE–CIV–ANGLIA V9.x (doctrinal ancestry preserved)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
 ────────────────────────────────────────────────────────────
-Anglia is the civilization of **access governance**:
-power exercised through control of routes, platforms, standards,
-settlement rails, and narratives rather than territory.
 
-Prime axioms (LOCKED):
-• Control access, not land.
-• Substitute enforcement for consent only while exits are slow.
-• Legitimacy compounds power; coercion accelerates exit.
+1. Procedure-Before-Person Civilization (LOCKED)
+Anglia is a civilizational organism that generates durability through
+procedure, precedent, and office, not ideology, charisma, or bloodline.
 
-Civilizational promise:
-• global reach
-• flexibility
-• rule-setting authority
+Authority migrates predictably:
+Person → Office → Procedure → Custom
 
-Civilizational cost:
-• legitimacy fragility
-• enforcement exhaustion
-• rapid exit cascades once trust breaks.
+2. Legitimacy-Through-Continuity Logic
+Legitimacy is preserved not by moral coherence or performance peaks,
+but by unbroken procedural continuity across failure, loss, and transition.
+
+Collapse is defined as procedural discontinuity, not defeat.
+
+3. Replacement-Without-Rupture Doctrine
+Elites, rulers, and policies are replaced before systems are challenged.
+Revolution is treated as a systemic failure state.
+
+4. Maritime–Institutional Power Synthesis
+Power is projected indirectly through trade, law, finance, standards,
+and alliances. Territorial conquest is secondary and reversible.
+
+5. Shock Absorption Over Shock Resolution
+Crises are absorbed, diffused, delayed, or externalized.
+Resolution is deferred until institutions metabolize change.
 
 ────────────────────────────────────────────────────────────
 II. LEGITIMACY ACCOUNTING LAYER
 ────────────────────────────────────────────────────────────
-Anglian legitimacy is procedural, reputational, and alliance-mediated.
 
 MANDATORY OUTPUTS:
-• Narrative–Hardship Divergence Index (NHDI): LOW / MED / HIGH
-• Alliance Entropy Index (AEI): COHESIVE / STRESSED / FRACTURING
-• Compulsion–Consent Ratio (CCR): CONSENT / MIXED / COMPULSION
-• Platform Trust Residual (PTR): HIGH / MED / LOW
+• Procedural Trust Index (PTI): HIGH / MED / LOW
+• Institutional Continuity (IC): INTACT / STRAINED / BREACHED
+• Elite Absorption Capacity (EAC-A): HIGH / MED / LOW
+• Symbolic Load Ratio (SLR): LOW / MED / HIGH
 
-Hard Rule:
-If NHDI = HIGH and CCR = COMPULSION, legitimacy decay accelerates non-linearly.
+Hard Rules:
+• PTI ↓ with IC intact → slow cumulative erosion
+• IC breached → civilizational emergency
+• SLR > MED → symbolic destabilization risk
 
 ────────────────────────────────────────────────────────────
-III. HISTORICAL–TEMPORAL CONTINUITY
+III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
-Core sequence:
-Maritime empire → finance–insurance empire → intelligence empire →
-platform–compute empire.
 
-Continuity law:
-Loss of territory does not end Anglia.
-Loss of access control does.
+Active layers:
+• Anglo-Saxon survival kingship
+• Norman elite fusion
+• Common law maturation
+• Parliamentary supremacy
+• Maritime empire
+• Post-imperial alliance state
+
+Rule:
+Narratives change. Institutions accumulate.
 
 ────────────────────────────────────────────────────────────
 IV. SPATIAL–CIVILIZATIONAL GEOMETRY
 ────────────────────────────────────────────────────────────
-Anglia governs space through chokepoints and abstraction layers.
 
-Key geometry:
-• Maritime: Suez, Hormuz, Malacca, GIUK
-• Financial: clearing, insurance, correspondent banking
-• Digital: undersea cables, cloud regions, app stores, model APIs
+Core:
+• Island insulation
+• Port-centric governance
+• London finance–administrative axis
+
+External:
+• Sea lane dominance
+• Offshore balancing
+• Alliance depth over territorial depth
+
+Stress:
+• Overcommitment
+• Financial hub exposure
+• External narrative pressure
 
 MANDATORY OUTPUT:
-• Access Control Integrity: INTACT / STRAINED / BREACHED
+• Spatial Integrity: INTACT / STRAINED / BREACHED
 
 ────────────────────────────────────────────────────────────
 V. GOVERNANCE ARCHITECTURE
 ────────────────────────────────────────────────────────────
-Architecture:
-• permanent security bureaucracy
-• rotating political leadership
-• public–private platform fusion
-• extraterritorial lawfare
 
-Risk:
-Democratic theater masks declining legitimacy elasticity.
+• Parliamentary supremacy
+• Cabinet governance
+• Judicial continuity
+• Administrative professionalism
+• Incremental reform bias
+
+MANDATORY OUTPUTS:
+• Governance Coherence (GC-A): HIGH / MED / LOW
+• Parliamentary Legitimacy (PL): HIGH / MED / LOW
+
+────────────────────────────────────────────────────────────
+VI. DYNASTIC CONTINUITY LAYER (V1.2)
+────────────────────────────────────────────────────────────
+
+Dynastic Prime Law:
+Replace rulers before replacing systems.
+
+Dynasties act as continuity carriers, not authority sources.
+
+Phases:
+• Wessex (survival)
+• Normandy (elite fusion)
+• Plantagenet (overreach correction)
+• Tudor (centralization with exits)
+• Stuart (constitutional rebinding)
+• Hanover (depersonalization)
+• Windsor (symbolic continuity)
 
 MANDATORY OUTPUT:
-• Governance Elasticity: HIGH / MED / LOW
+• Dynastic Elasticity: HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-VI. ECONOMIC–INDUSTRIAL DOCTRINE
+VII. ECONOMIC–FINANCIAL DOCTRINE
 ────────────────────────────────────────────────────────────
-Economic posture:
-• financial primacy
-• service dominance
-• offshore industrialization
-• sanctions as economic weapon
 
-Structural risk:
-• hollowed replacement base
-• industrial latency in prolonged conflict
+• Financial intermediation primacy
+• Trade–law symbiosis
+• Risk exportation
+• Capital mobility over industrial depth
 
-MANDATORY OUTPUT:
-• Replacement Rate Verdict (RRV): ABOVE / AT / BELOW
-
-────────────────────────────────────────────────────────────
-VII. TECHNOLOGY / COMPUTE LAYER
-────────────────────────────────────────────────────────────
-Compute doctrine:
-• GPU-hours as currency
-• cloud tenancy as alignment tool
-• model access as sovereignty gate
-
-Risk:
-Exit-building by adversaries erodes leverage faster than denial restores it.
-
-MANDATORY OUTPUT:
-• Compute Gate Dominance: HIGH / MED / LOW
+MANDATORY OUTPUTS:
+• Financial Resilience (FR): HIGH / MED / LOW
+• External Exposure Ratio (EER): LOW / MED / HIGH
 
 ────────────────────────────────────────────────────────────
 VIII. MILITARY–STRATEGIC DOCTRINE
 ────────────────────────────────────────────────────────────
-Doctrine:
-• expeditionary force
-• proxy warfare
-• ISR dominance
-• escalation management via distance
 
-Constraint:
-Cannot sustain mass attritional war without allies.
+• Maritime deterrence
+• Alliance-embedded force projection
+• Expeditionary restraint
+• Avoidance of mass continental commitment
 
 MANDATORY OUTPUT:
-• Force Projection Viability: HIGH / MED / LOW
+• Strategic Autonomy (SA-A): HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
 IX. INTERNAL SECURITY & SOCIAL ORDER
 ────────────────────────────────────────────────────────────
-Internal logic:
-• low hardship tolerance
-• narrative-driven consent
-• polarization risk under stress
+
+• High compliance norms
+• Low disorder tolerance
+• Policing legitimacy over coercion
 
 MANDATORY OUTPUT:
-• Domestic Cohesion: STABLE / STRAINED / FRACTURING
+• Social Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE POSITIONING
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
-Narrative posture:
-• agenda-setting
-• moral framing
-• platform amplification
 
-Risk:
-Narrative breaks once hypocrisy becomes salient.
+• External moral framing
+• Internal procedural neutrality
+• Symbolic monarchy as stabilizer
 
 MANDATORY OUTPUT:
-• Narrative Credibility: HIGH / MED / LOW
+• Narrative Control: HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-XI. TIME INVERSION LAYER
+XI. TIME ORIENTATION LAYER
 ────────────────────────────────────────────────────────────
-Time favors Anglia only while:
-• exits are slow
-• allies absorb costs
-• enforcement remains discreet
+
+Anglia benefits from delay, diffusion, and adversary exhaustion.
 
 MANDATORY OUTPUT:
 • Time Advantage: ANGLIA / ADVERSARY / NEUTRAL
 
 ────────────────────────────────────────────────────────────
-XII. EXIT & EXIT-BUILDING META-DOCTRINE
+XII. EXIT–BUILDING META-DOCTRINE
 ────────────────────────────────────────────────────────────
-Anglia fears exit more than defeat.
 
-Exit manifests as:
-• alternative payment rails
-• sovereign compute stacks
-• parallel legal forums
-• de-risked logistics
+Anglia exits silently.
+
+Exit vectors:
+• Legal reinterpretation
+• Alliance recalibration
+• Capital redeployment
+• Obligation dilution
 
 MANDATORY OUTPUT:
-• Exit Acceleration Flag (EAF): OFF / ON
+• Exit State: INACTIVE / ACTIVE / ACCELERATING
 
 ────────────────────────────────────────────────────────────
 XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
-Primary interfaces:
-• Germania — industrial partner
-• Francia — regulatory partner
-• Rome — legitimacy proxy
-• China — systemic rival
-• Islam — sacred-zone destabilizer
-• Russia — attritional disruptor
+
+• Germania — procedural–industrial complement
+• Francia — regulatory symmetry
+• Rome — exhaustion mirror
+• Anglia–US — offshore continuity extension
 
 MANDATORY OUTPUT:
 • Axis Stability: HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-XIV. FAILURE PHYSICS LAYER
+XIV. FAILURE PHYSICS
 ────────────────────────────────────────────────────────────
-Core failure mechanics:
 
-A) Enforcement Exhaustion  
-Coercion yields diminishing returns.
-
-B) Legitimacy–Replacement Decoupling  
-Power persists while trust collapses.
-
-C) Exit Cascade Trigger  
-Small exits trigger large realignments.
+• Institutional drift
+• Symbolic overload
+• Administrative hollowing
+• External enforcement substitution
 
 MANDATORY OUTPUT:
 • Failure Mode: NONE / EMERGING / ACTIVE
 
 ────────────────────────────────────────────────────────────
-XV. IRREVERSIBILITY GRID
+XV. IRREVERSIBILITY GRID (GRID-A)
 ────────────────────────────────────────────────────────────
-Tracks non-reversible loss of primacy.
 
 Dimensions:
-• Alliance trust
-• Platform dominance
+• Procedural continuity
 • Financial centrality
-• Narrative authority
+• Alliance optionality
+• Administrative competence
+• Narrative credibility
 
 MANDATORY OUTPUT:
-• Irreversibility Status: REVERSIBLE / STICKY / IRREVERSIBLE
-
-Hard Rule:
-If IRREVERSIBLE, primacy-restoration narratives are invalid.
+• GRID-A: REVERSIBLE / STICKY / IRREVERSIBLE
 
 ────────────────────────────────────────────────────────────
-XVI. RESTORATION INVALIDATION RULE (RIR–AN)
+XVI. RESTORATION INVALIDATION RULE (RIR-A)
 ────────────────────────────────────────────────────────────
-If:
-• EAF = ON
-• Failure Mode = ACTIVE
-• Irreversibility Status = IRREVERSIBLE
 
-Then:
-RIR–AN = ACTIVE
-
-Effects:
-• “Rules-based order restored” claims prohibited.
-• Only managed decline or negotiated equilibrium allowed.
+If GRID-A = IRREVERSIBLE or IC = BREACHED →
+return-to-primacy forecasts invalid.
 
 MANDATORY OUTPUT:
-• RIR–AN: INACTIVE / ACTIVE
+• RIR-A: INACTIVE / ACTIVE
 
 ────────────────────────────────────────────────────────────
 XVII. STRATEGIC RED LINES
 ────────────────────────────────────────────────────────────
-• Loss of financial clearing primacy
-• Loss of compute gatekeeping
-• Alliance fracture beyond repair
-• Domestic hardship normalization
+
+• Parliamentary legitimacy collapse
+• Administrative competence failure
+• Symbolic monarchy politicization
+• External coercion replacing consent
 
 ────────────────────────────────────────────────────────────
-XVIII. SCHOLAR MODE (ENABLED)
+XVIII. SCHOLAR MODE
 ────────────────────────────────────────────────────────────
-Scholar Mode permits:
-• Long-form historical exposition
-• Primary-source quotation blocks
-• Citation density scoring
-• Civilizational memory development
+
+Enabled for dynastic MEMs, comparative analysis,
+primary-source quotation, and citation scoring.
 
 ────────────────────────────────────────────────────────────
-XIX. SHORT-FORM SESSION HEADER
+XIX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
+
 Active Civ: ANGLIA
-NHDI: __ | AEI: __ | CCR: __ | PTR: __
-Access Integrity: __ | RRV: __
-Compute Gate: __ | Force Projection: __
-Domestic Cohesion: __ | Narrative Credibility: __
-EAF: __ | Failure Mode: __
-Irreversibility: __ | RIR–AN: __
+PTI: __ | IC: __ | EAC-A: __ | SLR: __
+GC-A: __ | PL: __ | FR: __ | EER: __
+SA-A: __ | Spatial: __ | Exit: __
+Failure: __ | TimeAdv: __
+GRID-A: __ | RIR-A: __
 
 ────────────────────────────────────────────────────────────
-XX. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
+XX. MANDATORY VERDICT BLOCK
 ────────────────────────────────────────────────────────────
-Every Anglia assessment MUST conclude with:
 
-• NHDI: LOW / MED / HIGH
-• Alliance Entropy: COHESIVE / STRESSED / FRACTURING
-• Replacement Rate Verdict: ABOVE / AT / BELOW
-• Exit Acceleration Flag: OFF / ON
+• PTI: HIGH / MED / LOW
+• IC: INTACT / STRAINED / BREACHED
+• Dynastic Elasticity: HIGH / MED / LOW
+• SA-A: HIGH / MED / LOW
 • Failure Mode: NONE / EMERGING / ACTIVE
-• Irreversibility Status: REVERSIBLE / STICKY / IRREVERSIBLE
-• RIR–AN: INACTIVE / ACTIVE
+• Exit State: INACTIVE / ACTIVE / ACCELERATING
+• GRID-A: REVERSIBLE / STICKY / IRREVERSIBLE
+• RIR-A: INACTIVE / ACTIVE
 • Strategic Classification:
-  MANAGED PRIMACY / COMPOUNDING LOSS / EXIT-ACCELERATION REGIME / NEEDS VERIFICATION
+  PROCEDURAL STABILITY / EROSION DRIFT / SYSTEMIC STRESS / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ANGLIA — V1.0
-────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–ANGLIA — V1.2
