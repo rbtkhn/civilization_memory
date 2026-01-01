@@ -1,4 +1,4 @@
-MEM–ROME–LIFE–MARCO–POLO
+MEM–ROME–MARCO–POLO
 Status: LOCKED
 Version: 1.0
 Civilization: ROME (Latin Christendom)
