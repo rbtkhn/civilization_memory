@@ -1,135 +1,79 @@
-MEM–INDIA–INDEX — v1.0
-Civilizational Memory Codex · Index File
+MEM–INDIA–INDEX — v1.1
+Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE
 Civilization: INDIA
-Class: MEM–INDEX
+Class: INDEX (Memory Registry)
 Last Update: December 2025
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
 ────────────────────────────────────────────────────────────
-This file serves as the authoritative index of all Civilizational Memory
-(MEM) files associated with the INDIA civilization.
+This index provides the authoritative registry of all MEM–INDIA files.
+It enforces structural comparability with other civilization indexes
+(ANGLIA, FRANCIA, GERMANIA, RUSSIA, CHINA).
 
-The index enforces:
-• Structural comparability with other civilization indexes
-• Coverage balance across dynastic, geographic, ideological, and conflict domains
-• Auditability for omissions, asymmetries, and future expansion
-
-This file contains no interpretation.
-It is a navigation, governance, and completeness instrument.
-
-────────────────────────────────────────────────────────────
-II. INDEX STRUCTURE RULES (BINDING)
-────────────────────────────────────────────────────────────
-• All MEM files must be listed exactly once
-• Filenames must match repository entries verbatim
-• Sections are ordered by civilizational function, not chronology
-• Absence of a category signals an intentional gap, not an error
-
-This index may expand, but section headers must not be renumbered.
+Rules:
+• Every MEM file must appear in exactly one category
+• Filenames are canonical identifiers
+• Ordering is chronological or structural, not prestige-based
+• Index records existence, not interpretation
 
 ────────────────────────────────────────────────────────────
-III. GEOGRAPHIC & SPATIAL MEMORY (GEO)
+II. DYNASTIES & STATE FORMATION
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–DYNASTY–MAURYA.md
+• MEM–INDIA–DYNASTY–GUPTA.md
+• MEM–INDIA–DYNASTY–MUGHAL.md
 
+────────────────────────────────────────────────────────────
+III. COLONIAL & IMPERIAL INTERACTION
+────────────────────────────────────────────────────────────
+• MEM–INDIA–BRITISH–EMPIRE.md
+• MEM–INDIA–PARTITION.md
+
+────────────────────────────────────────────────────────────
+IV. KEY CIVILIZATIONAL FIGURES
+────────────────────────────────────────────────────────────
+• MEM–INDIA–GANDHI.md
+• MEM–INDIA–NEHRU.md
+
+────────────────────────────────────────────────────────────
+V. GEOGRAPHY & CIVILIZATIONAL SPACE
+────────────────────────────────────────────────────────────
 • MEM–INDIA–GEO–KASHMIR.md
 • MEM–INDIA–GEO–TIBET.md
-
-Scope:
-Borderlands, buffers, sacred geographies, corridor friction zones,
-and civilizational interface regions.
-
-────────────────────────────────────────────────────────────
-IV. DYNASTIC & STATE FORMATION MEMORY (DYNASTY)
-────────────────────────────────────────────────────────────
-
-— NONE CURRENTLY REGISTERED —
-
-Expected future entries (illustrative, not prescriptive):
-• Maurya
-• Gupta
-• Mughal
-• British Raj
-• Republic of India (as continuity state)
+• MEM–INDIA–GEO–SRI–LANKA.md
+• MEM–INDIA–GEO–INDUS.md
+• MEM–INDIA–GEO–GANGES.md
 
 ────────────────────────────────────────────────────────────
-V. IDEOLOGICAL / PHILOSOPHICAL MEMORY
+VI. WAR & EXTERNAL SHOCKS
 ────────────────────────────────────────────────────────────
-
-— NONE CURRENTLY REGISTERED —
-
-Scope:
-Dharmic frameworks, political philosophy, civilizational doctrines,
-and legitimizing worldviews.
+• MEM–INDIA–WAR–ALEXANDER.md
+• MEM–INDIA–WAR–CLIVE.md
 
 ────────────────────────────────────────────────────────────
-VI. ADMINISTRATIVE & INSTITUTIONAL MEMORY
+VII. INDEX COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
+Total MEM–INDIA files indexed: 13
 
-— NONE CURRENTLY REGISTERED —
-
-Scope:
-Revenue systems, bureaucratic forms, legal continuity, federal mechanics,
-and procedural inheritance.
-
-────────────────────────────────────────────────────────────
-VII. CONFLICT & WAR MEMORY
-────────────────────────────────────────────────────────────
-
-— NONE CURRENTLY REGISTERED —
-
-Scope:
-Wars, insurgencies, standoffs, and militarized crises with civilizational impact.
+Unindexed files: NONE
+Naming conflicts detected: NONE
+Cross-civilization parity: MAINTAINED
 
 ────────────────────────────────────────────────────────────
-VIII. GEO-ECONOMIC & CORRIDOR MEMORY
+VIII. FORWARD EXTENSION NOTES (NON-BINDING)
 ────────────────────────────────────────────────────────────
+Candidate future MEM domains (not commitments):
+• MEM–INDIA–DYNASTY–CHOLA
+• MEM–INDIA–DYNASTY–DELHI–SULTANATE
+• MEM–INDIA–WAR–1962–CHINA
+• MEM–INDIA–ECON–LIBERALIZATION
+• MEM–INDIA–IDEOLOGY–HINDUTVA
 
-— NONE CURRENTLY REGISTERED —
-
-Scope:
-Trade routes, logistics corridors, maritime geometry, energy flows,
-and sanctions-relevant infrastructure.
-
-────────────────────────────────────────────────────────────
-IX. MODERN POLITICAL FIGURE MEMORY
-────────────────────────────────────────────────────────────
-
-— NONE CURRENTLY REGISTERED —
-
-Note:
-Individual figures are indexed only when they function as
-civilizational inflection points, not partisan actors.
+Index does not imply prioritization.
 
 ────────────────────────────────────────────────────────────
-X. INDEX AUDIT STATUS
-────────────────────────────────────────────────────────────
-Total MEM–INDIA files indexed: 2
-
-Coverage balance:
-• Geographic: PRESENT
-• Dynastic: ABSENT
-• Administrative: ABSENT
-• Ideological: ABSENT
-• Conflict: ABSENT
-• Geo-economic: ABSENT
-
-Interpretation:
-Index reflects an early-stage India memory build focused on
-borderland geometry and civilizational interface zones.
-
-────────────────────────────────────────────────────────────
-XI. UPDATE & EXPANSION RULE
-────────────────────────────────────────────────────────────
-When a new MEM–INDIA file is created:
-1. It must be added to the appropriate section above
-2. Total count must be incremented
-3. Audit status must be updated
-
-Failure to update this index constitutes a governance error.
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–INDEX — v1.0
+END OF FILE — MEM–INDIA–INDEX — v1.1
 ────────────────────────────────────────────────────────────
