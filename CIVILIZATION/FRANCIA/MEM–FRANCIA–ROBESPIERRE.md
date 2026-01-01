@@ -1,4 +1,4 @@
-MEM–FRANCIA–PERSON–ROBESPIERRE — v1.0
+MEM–FRANCIA–ROBESPIERRE — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE
@@ -158,5 +158,5 @@ X. CONTINUITY INSIGHTS (RAW)
 Rupture preserved without absolution.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–PERSON–ROBESPIERRE — v1.0
+END OF FILE — MEM–FRANCIA–ROBESPIERRE — v1.0
 ────────────────────────────────────────────────────────────
