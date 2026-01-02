@@ -1,4 +1,4 @@
-MEM–ANGLIA–LAW–COMMON–LAW — v1.0
+MEM–ANGLIA–COMMON–LAW — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -118,5 +118,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LAW–COMMON–LAW — v1.0
+END OF FILE — MEM–ANGLIA–COMMON–LAW — v1.0
 ────────────────────────────────────────────────────────────
