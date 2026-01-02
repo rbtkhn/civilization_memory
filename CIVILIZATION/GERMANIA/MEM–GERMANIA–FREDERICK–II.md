@@ -1,4 +1,4 @@
-MEM–GERMANIA–FREDERICK–GREAT
+MEM–GERMANIA–FREDERICK–II
 Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
@@ -136,5 +136,5 @@ Secondary:
 • Johannes Kunisch
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–FREDERICK–GREAT v1.0
+END OF FILE — MEM–GERMANIA–FREDERICK–II v1.0
 ────────────────────────────────────────────────────────────
