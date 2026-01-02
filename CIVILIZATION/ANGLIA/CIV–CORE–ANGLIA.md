@@ -1,9 +1,10 @@
-CIV–CORE–ANGLIA — V1.2
+CIV–CORE–ANGLIA — v1.3
 Civilizational Strategy Codex · Civilization Core Engine
-Procedural–Maritime–Institutional Continuity Edition
+Procedural–Maritime–Time-Conversion Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Compatibility: CIV / MEM Architecture
+Supersedes: CIV–CORE–ANGLIA — v1.2
 Conceptual Lineage: SCE–CIV–ANGLIA V9.x (doctrinal ancestry preserved)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
@@ -13,28 +14,40 @@ I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
 
 1. Procedure-Before-Person Civilization (LOCKED)
 Anglia is a civilizational organism that generates durability through
-procedure, precedent, and office, not ideology, charisma, or bloodline.
+procedure, precedent, and office rather than ideology, charisma,
+bloodline, or moral declaration.
 
 Authority migrates predictably:
-Person → Office → Procedure → Custom
+Person → Office → Procedure → Custom → Time
 
-2. Legitimacy-Through-Continuity Logic
-Legitimacy is preserved not by moral coherence or performance peaks,
-but by unbroken procedural continuity across failure, loss, and transition.
+2. Legitimacy-Through-Accumulated Continuity Logic
+Legitimacy is not earned through moral coherence or peak performance.
+It is accumulated backward through uninterrupted procedural survival
+across loss, error, and retreat.
 
 Collapse is defined as procedural discontinuity, not defeat.
 
 3. Replacement-Without-Rupture Doctrine
-Elites, rulers, and policies are replaced before systems are challenged.
-Revolution is treated as a systemic failure state.
+Anglia replaces rulers, elites, and policies before systems are allowed
+to fracture. Revolution is treated as a civilizational failure state,
+not a corrective mechanism.
 
 4. Maritime–Institutional Power Synthesis
-Power is projected indirectly through trade, law, finance, standards,
-and alliances. Territorial conquest is secondary and reversible.
+Power is projected indirectly through:
+• Sea control
+• Finance
+• Law
+• Standards
+• Alliances
 
-5. Shock Absorption Over Shock Resolution
-Crises are absorbed, diffused, delayed, or externalized.
-Resolution is deferred until institutions metabolize change.
+Territorial possession is secondary, reversible, and often unnecessary.
+
+5. Time-Conversion Axiom (NEW)
+Anglia’s decisive advantage is its ability to convert time into power.
+Delay, diffusion, endurance, and adversary exhaustion are treated as
+strategic instruments.
+
+Victory is defined as still functioning when rivals culminate.
 
 ────────────────────────────────────────────────────────────
 II. LEGITIMACY ACCOUNTING LAYER
@@ -47,24 +60,26 @@ MANDATORY OUTPUTS:
 • Symbolic Load Ratio (SLR): LOW / MED / HIGH
 
 Hard Rules:
-• PTI ↓ with IC intact → slow cumulative erosion
-• IC breached → civilizational emergency
+• PTI decline with IC intact → slow cumulative erosion
+• IC breach → civilizational emergency
 • SLR > MED → symbolic destabilization risk
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
 
-Active layers:
+Active continuity layers:
 • Anglo-Saxon survival kingship
 • Norman elite fusion
-• Common law maturation
+• Common Law accretion
 • Parliamentary supremacy
-• Maritime empire
+• Maritime–financial empire
 • Post-imperial alliance state
 
 Rule:
-Narratives change. Institutions accumulate.
+Narratives change.
+Institutions accumulate.
+Time compounds legitimacy.
 
 ────────────────────────────────────────────────────────────
 IV. SPATIAL–CIVILIZATIONAL GEOMETRY
@@ -76,12 +91,12 @@ Core:
 • London finance–administrative axis
 
 External:
-• Sea lane dominance
+• Sea-lane dominance
 • Offshore balancing
 • Alliance depth over territorial depth
 
-Stress:
-• Overcommitment
+Stress zones:
+• Overcommitment cycles
 • Financial hub exposure
 • External narrative pressure
 
@@ -103,22 +118,22 @@ MANDATORY OUTPUTS:
 • Parliamentary Legitimacy (PL): HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-VI. DYNASTIC CONTINUITY LAYER (V1.2)
+VI. DYNASTIC CONTINUITY LAYER
 ────────────────────────────────────────────────────────────
 
 Dynastic Prime Law:
 Replace rulers before replacing systems.
 
-Dynasties act as continuity carriers, not authority sources.
+Dynasties function as continuity carriers, not authority sources.
 
 Phases:
-• Wessex (survival)
-• Normandy (elite fusion)
-• Plantagenet (overreach correction)
-• Tudor (centralization with exits)
-• Stuart (constitutional rebinding)
-• Hanover (depersonalization)
-• Windsor (symbolic continuity)
+• Wessex — survival
+• Normandy — elite fusion
+• Plantagenet — overreach correction
+• Tudor — centralization with exits
+• Stuart — constitutional rebinding
+• Hanover — depersonalization
+• Windsor — symbolic continuity
 
 MANDATORY OUTPUT:
 • Dynastic Elasticity: HIGH / MED / LOW
@@ -155,6 +170,7 @@ IX. INTERNAL SECURITY & SOCIAL ORDER
 • High compliance norms
 • Low disorder tolerance
 • Policing legitimacy over coercion
+• Legal continuity as pressure valve
 
 MANDATORY OUTPUT:
 • Social Stability: STABLE / TENSE / FRACTURING
@@ -174,7 +190,11 @@ MANDATORY OUTPUT:
 XI. TIME ORIENTATION LAYER
 ────────────────────────────────────────────────────────────
 
-Anglia benefits from delay, diffusion, and adversary exhaustion.
+Anglia structurally benefits from:
+• Delay
+• Diffusion
+• Procedural drag
+• Adversary exhaustion
 
 MANDATORY OUTPUT:
 • Time Advantage: ANGLIA / ADVERSARY / NEUTRAL
@@ -183,7 +203,7 @@ MANDATORY OUTPUT:
 XII. EXIT–BUILDING META-DOCTRINE
 ────────────────────────────────────────────────────────────
 
-Anglia exits silently.
+Anglia exits silently and incrementally.
 
 Exit vectors:
 • Legal reinterpretation
@@ -199,7 +219,7 @@ XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
 
 • Germania — procedural–industrial complement
-• Francia — regulatory symmetry
+• Francia — declarative contrast & regulatory symmetry
 • Rome — exhaustion mirror
 • Anglia–US — offshore continuity extension
 
@@ -210,6 +230,7 @@ MANDATORY OUTPUT:
 XIV. FAILURE PHYSICS
 ────────────────────────────────────────────────────────────
 
+Failure manifests as:
 • Institutional drift
 • Symbolic overload
 • Administrative hollowing
@@ -237,7 +258,7 @@ XVI. RESTORATION INVALIDATION RULE (RIR-A)
 ────────────────────────────────────────────────────────────
 
 If GRID-A = IRREVERSIBLE or IC = BREACHED →
-return-to-primacy forecasts invalid.
+return-to-primacy narratives are invalid.
 
 MANDATORY OUTPUT:
 • RIR-A: INACTIVE / ACTIVE
@@ -255,8 +276,11 @@ XVII. STRATEGIC RED LINES
 XVIII. SCHOLAR MODE
 ────────────────────────────────────────────────────────────
 
-Enabled for dynastic MEMs, comparative analysis,
-primary-source quotation, and citation scoring.
+Enabled for:
+• Dynastic MEMs
+• Legal and financial MEMs
+• Comparative civilizational analysis
+• Primary-source quotation & citation scoring
 
 ────────────────────────────────────────────────────────────
 XIX. SESSION HEADER (OPTIONAL)
@@ -285,4 +309,5 @@ XX. MANDATORY VERDICT BLOCK
   PROCEDURAL STABILITY / EROSION DRIFT / SYSTEMIC STRESS / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ANGLIA — V1.2
+END OF FILE — CIV–CORE–ANGLIA — v1.3
+────────────────────────────────────────────────────────────
