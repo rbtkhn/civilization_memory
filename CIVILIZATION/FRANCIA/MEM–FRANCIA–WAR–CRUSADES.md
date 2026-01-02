@@ -1,4 +1,4 @@
-MEM–FRANCIA–CRUSADES — v1.0
+MEM–FRANCIA–WAR–CRUSADES — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -85,5 +85,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–CRUSADES — v1.0
+END OF FILE — MEM–FRANCIA–WAR–CRUSADES — v1.0
 ────────────────────────────────────────────────────────────
