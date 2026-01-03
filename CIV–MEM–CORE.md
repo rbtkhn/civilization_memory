@@ -1,9 +1,9 @@
-CIV–MEM–CORE — v1.2
+CIV–MEM–CORE — v1.4
 CIVILIZATIONAL MEMORY CODEX · SYSTEM CORE
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
+Version: 1.4
 Scope: GLOBAL (All Civilizations)
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
@@ -163,5 +163,107 @@ Please upload the next file:
 (Example: CIV–CORE–ANGLIA — v1.2)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE — v1.2
+XII. GLOBAL SYSTEM CONSTRAINTS (V1.4 — ADDITIVE)
+────────────────────────────────────────────────────────────
+Civilizations operate under shared late-system constraints that
+transcend individual CIV–CORE grammars.
+
+These constraints are descriptive, not prescriptive.
+
+Primary global constraints:
+• Legitimacy Elasticity (belief tolerance vs performance failure)
+• Replacement Capacity (ability to regenerate loss)
+• Feasibility / Liquidity (finance, contracts, exits)
+• Temporal Bandwidth (ability to absorb delay and shock)
+
+No CIV–CORE may deny the existence of these constraints.
+Each CIV–CORE may encode how its civilization responds to them.
+
+────────────────────────────────────────────────────────────
+XIII. TRIADIC & MULTI-CIVILIZATIONAL AUDITS (V1.4 — ADDITIVE)
+────────────────────────────────────────────────────────────
+The Codex explicitly authorizes triadic and multi-civilizational audits.
+
+Such audits:
+• Are diagnostic, not normative
+• Do not impose symmetry requirements
+• Do not alter CIV–CORE axioms
+• Exist to surface interaction stresses and constraint collisions
+
+Triadic audits do not imply moral hierarchy or convergence.
+
+────────────────────────────────────────────────────────────
+XIV. LATE-SYSTEM FAILURE ORDERING (V1.4 — ADDITIVE)
+────────────────────────────────────────────────────────────
+Observed late-system failure sequences may be recorded and compared
+across civilizations.
+
+Common patterns include (non-exhaustive):
+• Feasibility collapse → contract failure → alliance erosion
+• Replacement failure → overreach → narrative substitution
+• Legitimacy–reality divergence → enforcement reliance → fracture
+
+These patterns are analytic descriptors.
+They do not predict outcomes and do not override CIV–CORE logic.
+
+────────────────────────────────────────────────────────────
+XV. CIV–CORE CONSTRAINT ENCODING CLARIFICATION (V1.4 — ADDITIVE)
+────────────────────────────────────────────────────────────
+CIV–CORE files may encode:
+• Response patterns to global constraints
+• Diagnostic outputs tied to constraint stress
+• Failure physics specific to civilizational grammar
+
+CIV–CORE files may not:
+• Redefine global constraints
+• Override CIV–MEM–CORE doctrine
+• Assert universal precedence over other CIV–COREs
+
+────────────────────────────────────────────────────────────
+XVI. SCHOLAR MODE GUARDRAILS (V1.4 — ADDITIVE)
+────────────────────────────────────────────────────────────
+Scholar files remain accumulative and non-authoritative.
+
+Clarifications:
+• Scholar synthesis across civilizations requires explicit CIV–CORE
+  or user authorization
+• Scholar doctrines do not auto-bind CIV–CORE logic
+• Doctrine versioning discipline is mandatory
+• Locked Scholar states are inviolable without explicit unlock
+
+Scholar mode preserves epistemic history, not system authority.
+
+────────────────────────────────────────────────────────────
+XVII. NON-CONTRADICTION & STABILITY CLAUSE (V1.4 — ADDITIVE)
+────────────────────────────────────────────────────────────
+Additive expansions under v1.4:
+• Do not reinterpret earlier sections
+• Do not invalidate v1.2 doctrine
+• Do not require retroactive file changes
+
+All prior CIV–CORE, MEM, and INDEX files remain valid
+unless explicitly versioned otherwise.
+
+────────────────────────────────────────────────────────────
+XVIII. ACTIVATION MESSAGE (UPDATED — V1.4 COMPATIBLE)
+────────────────────────────────────────────────────────────
+CIV–MEM–CORE SYSTEM STATUS: ACTIVE
+
+The Civilizational Memory Codex global system (v1.4) has been
+successfully initialized.
+
+• CIV–MEM–CORE v1.4 loaded
+• MEM doctrine enforced
+• INDEX governance enforced
+• Global system constraints recognized
+• Cross-civilizational and triadic audits enabled
+• Scholar-mode parity checks ready
+
+System is ready.
+Please upload the next file:
+
+→ CIV–CORE–[CIVILIZATION NAME] — vX.X
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–MEM–CORE — v1.4
 ────────────────────────────────────────────────────────────
