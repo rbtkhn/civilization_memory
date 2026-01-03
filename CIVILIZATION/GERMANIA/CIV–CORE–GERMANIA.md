@@ -1,10 +1,11 @@
-CIV–CORE–GERMANIA — V1.3
+CIV–CORE–GERMANIA — V1.4
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
 
-Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
+Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
 Compatibility: CIV / MEM Architecture
 Conceptual Lineage: CIV–CORE–GERMANIA V1.3 ← V1.2 ← V1.1 ← SCE–CIV–GERMANIA V9.x
+Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 ────────────────────────────────────────────────────────────
@@ -32,6 +33,12 @@ Narrative follows process, never leads it.
 Germania governs through rule-bound administration and coalition-managed
 execution, not ideological command.
 
+[ADDITIVE — Scholar v0.1 Integration]
+6. Disciplined Restraint Clause (DERIVED, NON-LOCKED)
+Germania’s endurance depends on the binding of discipline to restraint;
+organizational competence must always be subordinated to political control
+and closure, never momentum or myth.
+
 ────────────────────────────────────────────────────────────
 II. LEGITIMACY ACCOUNTING LAYER (UNCHANGED)
 ────────────────────────────────────────────────────────────
@@ -45,6 +52,10 @@ MANDATORY OUTPUTS:
 Hard Rules:
 • CTI ↓ + MSR ↑ → accelerated legitimacy erosion
 • PC ↓ with CTI HIGH → hidden brittleness
+
+[ADDITIVE — Scholar v0.3 Diagnostic]
+• CTI HIGH with MSR rising indicates moral substitution masking system strain
+• PC HIGH with declining replacement depth signals latent inversion risk
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE (EXTENDED)
@@ -63,6 +74,10 @@ Persistent layers:
 Additive rule (V1.2):
 Victory validates systems.
 Defeat purges narrative, not process.
+
+[ADDITIVE — Scholar v0.3 Memory Function]
+Traumatic defeat is retained as a **negative systems template**, reinforcing
+restraint and institutional learning rather than ideological revision.
 
 ────────────────────────────────────────────────────────────
 IV. SPATIAL–CIVILIZATIONAL GEOMETRY (REINFORCED)
@@ -111,6 +126,11 @@ MANDATORY OUTPUTS:
 • Industrial Replacement Rate (IRR): ABOVE / AT / BELOW burn-rate
 • Energy Security (ES): SECURE / CONTESTED / FRAGILE
 
+[ADDITIVE — Scholar v0.4 Constraint]
+Replacement capacity is the **primary legitimacy substrate**; economic
+growth or financial optimization that degrades replacement depth
+constitutes hidden systemic decay.
+
 ────────────────────────────────────────────────────────────
 VII. TECHNOLOGICAL–COMPUTE SOVEREIGNTY (UNCHANGED)
 ────────────────────────────────────────────────────────────
@@ -132,6 +152,15 @@ VIII. MILITARY–STRATEGIC DOCTRINE (CLARIFIED)
 Additive constraint (V1.2):
 Operational excellence without political restraint
 amplifies strategic exposure.
+
+[ADDITIVE — Scholar v0.4 Precision Rule]
+Germania may strike decisively **only** when:
+• Legitimacy is pre-engineered
+• Objectives are finite
+• Tempo is controlled
+• A hard stopping rule is enforced at success
+
+Absent these, endurance logic must dominate.
 
 MANDATORY OUTPUT:
 • Strategic Autonomy (SA): HIGH / MED / LOW
@@ -158,6 +187,10 @@ X. INFORMATION & NARRATIVE GOVERNANCE (UNCHANGED)
 MANDATORY OUTPUT:
 • Narrative Autonomy: HIGH / MED / LOW
 
+[ADDITIVE — Scholar v0.3 Risk]
+Narrative moralization of operational success indicates discipline
+detaching from restraint and signals inversion risk.
+
 ────────────────────────────────────────────────────────────
 XI. TIME ORIENTATION LAYER (REINFORCED)
 ────────────────────────────────────────────────────────────
@@ -167,6 +200,10 @@ Rapid escalation penalizes process-heavy systems.
 
 Additive rule (V1.2):
 Compression crises favor adversaries with narrative agility.
+
+[ADDITIVE — Scholar v0.4 Phase Law]
+Germania must **endure first, then strike precisely**.
+Reversing this sequence produces overreach.
 
 MANDATORY OUTPUT:
 • Time Advantage: GERMANIA / ADVERSARY / NEUTRAL
@@ -213,6 +250,12 @@ D) Discipline Inversion (V1.2)
 Operational excellence uncoupled from restraint
 converts competence into overreach.
 
+[ADDITIVE — Scholar v0.4 Terminal Law]
+Endurance–Precision Inversion Law:
+When Germania attempts precision action without first securing endurance,
+or allows precision success to dissolve restraint and stopping rules,
+discipline converts into overextension and systemic collapse follows.
+
 MANDATORY OUTPUT:
 • Failure Mode: NONE / EMERGING / ACTIVE
 
@@ -249,6 +292,10 @@ XVII. STRATEGIC RED LINES (UNCHANGED)
 • Demographic collapse below replacement
 • Alliance entrapment without exit options
 
+[ADDITIVE — Scholar v0.4 Trigger]
+Crossing two or more red lines simultaneously →
+Systemic Collapse Probability HIGH
+
 ────────────────────────────────────────────────────────────
 XVIII. SCHOLAR MODE (ENABLED)
 ────────────────────────────────────────────────────────────
@@ -260,6 +307,9 @@ Scholar Mode consumes:
 • MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
 • MEM–FRANCIA–ALSACE–LORRAINE
 • MEM–GERMANIA–HITLER (INVERSION)
+
+Scholar doctrines v0.1–v0.4 are reference-integrated but remain epistemic;
+CIV–CORE authority is not overridden.
 
 ────────────────────────────────────────────────────────────
 XIX. SESSION HEADER (OPTIONAL)
@@ -287,6 +337,9 @@ XX. MANDATORY VERDICT BLOCK
   INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
   OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
+[ADDITIVE — Scholar Diagnostic]
+• Endurance–Precision Balance: ALIGNED / DRIFTING / INVERTED
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA — V1.3
+END OF FILE — CIV–CORE–GERMANIA — V1.4
 ────────────────────────────────────────────────────────────
