@@ -1,12 +1,21 @@
-CIV–CORE–ANGLIA — v1.3
+CIV–CORE–ANGLIA — v1.4
 Civilizational Strategy Codex · Civilization Core Engine
 Procedural–Maritime–Time-Conversion Edition
+(Feasibility–Liquidity–Exit Augmentation)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Compatibility: CIV / MEM Architecture
-Supersedes: CIV–CORE–ANGLIA — v1.2
-Conceptual Lineage: SCE–CIV–ANGLIA V9.x (doctrinal ancestry preserved)
+Supersedes: CIV–CORE–ANGLIA — v1.3
+Conceptual Lineage: SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 (preserved verbatim)
 Lock Level: STRUCTURAL (content expandable without renumbering)
+
+────────────────────────────────────────────────────────────
+NOTE ON VERSIONING (V1.4)
+────────────────────────────────────────────────────────────
+• All content from v1.3 is preserved without deletion, truncation,
+  renumbering, or semantic alteration.
+• v1.4 introduces ADDITIVE clauses only, explicitly marked [V1.4].
+• No existing axioms, rules, or outputs are weakened or replaced.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -42,12 +51,25 @@ Power is projected indirectly through:
 
 Territorial possession is secondary, reversible, and often unnecessary.
 
-5. Time-Conversion Axiom (NEW)
+5. Time-Conversion Axiom
 Anglia’s decisive advantage is its ability to convert time into power.
 Delay, diffusion, endurance, and adversary exhaustion are treated as
 strategic instruments.
 
 Victory is defined as still functioning when rivals culminate.
+
+6. Feasibility-Governor Axiom [V1.4 — ADDITIVE]
+Anglia functions as the system-level **feasibility governor** within
+multipolar orders.
+
+Anglia constrains ambition by answering:
+• Can this be financed?
+• Can this be insured?
+• Can this be hedged?
+• Can this be exited without collision?
+
+This role is procedural, not moral.
+Feasibility replaces persuasion as Anglia’s stabilizing contribution.
 
 ────────────────────────────────────────────────────────────
 II. LEGITIMACY ACCOUNTING LAYER
@@ -63,6 +85,12 @@ Hard Rules:
 • PTI decline with IC intact → slow cumulative erosion
 • IC breach → civilizational emergency
 • SLR > MED → symbolic destabilization risk
+
+Additive Diagnostic [V1.4]:
+• Liquidity Credibility (LC-A): HIGH / MED / LOW
+
+Rule:
+LC-A collapse precedes PTI collapse in late-system crises.
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
@@ -80,6 +108,10 @@ Rule:
 Narratives change.
 Institutions accumulate.
 Time compounds legitimacy.
+
+Additive Rule [V1.4]:
+Financial continuity functions as **procedural memory** when
+territorial or narrative continuity recedes.
 
 ────────────────────────────────────────────────────────────
 IV. SPATIAL–CIVILIZATIONAL GEOMETRY
@@ -102,6 +134,9 @@ Stress zones:
 
 MANDATORY OUTPUT:
 • Spatial Integrity: INTACT / STRAINED / BREACHED
+
+Additive Stress Vector [V1.4]:
+• Liquidity concentration risk during global deleveraging events
 
 ────────────────────────────────────────────────────────────
 V. GOVERNANCE ARCHITECTURE
@@ -151,6 +186,10 @@ MANDATORY OUTPUTS:
 • Financial Resilience (FR): HIGH / MED / LOW
 • External Exposure Ratio (EER): LOW / MED / HIGH
 
+Additive Clause [V1.4]:
+Anglia externalizes volatility while internalizing control
+over clearing, settlement, and dispute resolution.
+
 ────────────────────────────────────────────────────────────
 VIII. MILITARY–STRATEGIC DOCTRINE
 ────────────────────────────────────────────────────────────
@@ -186,6 +225,9 @@ X. INFORMATION & NARRATIVE GOVERNANCE
 MANDATORY OUTPUT:
 • Narrative Control: HIGH / MED / LOW
 
+Constraint [V1.4]:
+Narrative escalation beyond procedural capacity accelerates SLR risk.
+
 ────────────────────────────────────────────────────────────
 XI. TIME ORIENTATION LAYER
 ────────────────────────────────────────────────────────────
@@ -198,6 +240,10 @@ Anglia structurally benefits from:
 
 MANDATORY OUTPUT:
 • Time Advantage: ANGLIA / ADVERSARY / NEUTRAL
+
+Additive Rule [V1.4]:
+Markets function as **time-extension mechanisms**.
+Liquidity buys time; time preserves optionality.
 
 ────────────────────────────────────────────────────────────
 XII. EXIT–BUILDING META-DOCTRINE
@@ -214,6 +260,9 @@ Exit vectors:
 MANDATORY OUTPUT:
 • Exit State: INACTIVE / ACTIVE / ACCELERATING
 
+Additive Exit Mode [V1.4]:
+• Jurisdictional migration without declarative withdrawal
+
 ────────────────────────────────────────────────────────────
 XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
@@ -222,6 +271,10 @@ XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 • Francia — declarative contrast & regulatory symmetry
 • Rome — exhaustion mirror
 • Anglia–US — offshore continuity extension
+
+Additive Clarification [V1.4]:
+Anglia arbitrates feasibility between
+Francia’s legitimacy claims and Germania’s execution capacity.
 
 MANDATORY OUTPUT:
 • Axis Stability: HIGH / MED / LOW
@@ -235,6 +288,9 @@ Failure manifests as:
 • Symbolic overload
 • Administrative hollowing
 • External enforcement substitution
+
+Additive Failure Cascade [V1.4]:
+Liquidity freeze → contract stress → alliance friction → procedural shock
 
 MANDATORY OUTPUT:
 • Failure Mode: NONE / EMERGING / ACTIVE
@@ -271,6 +327,7 @@ XVII. STRATEGIC RED LINES
 • Administrative competence failure
 • Symbolic monarchy politicization
 • External coercion replacing consent
+• Liquidity control ceded without replacement [V1.4]
 
 ────────────────────────────────────────────────────────────
 XVIII. SCHOLAR MODE
@@ -287,7 +344,7 @@ XIX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 
 Active Civ: ANGLIA
-PTI: __ | IC: __ | EAC-A: __ | SLR: __
+PTI: __ | IC: __ | EAC-A: __ | SLR: __ | LC-A: __
 GC-A: __ | PL: __ | FR: __ | EER: __
 SA-A: __ | Spatial: __ | Exit: __
 Failure: __ | TimeAdv: __
@@ -306,8 +363,9 @@ XX. MANDATORY VERDICT BLOCK
 • GRID-A: REVERSIBLE / STICKY / IRREVERSIBLE
 • RIR-A: INACTIVE / ACTIVE
 • Strategic Classification:
-  PROCEDURAL STABILITY / EROSION DRIFT / SYSTEMIC STRESS / NEEDS VERIFICATION
+  PROCEDURAL STABILITY / FEASIBILITY GOVERNOR /
+  EROSION DRIFT / SYSTEMIC STRESS / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ANGLIA — v1.3
+END OF FILE — CIV–CORE–ANGLIA — v1.4
 ────────────────────────────────────────────────────────────
