@@ -1,10 +1,11 @@
-CIV–CORE–FRANCIA — v1.3
+CIV–CORE–FRANCIA — v1.4
 Civilizational Strategy Codex · Civilization Core Engine
 Declarative–Universalist–Centralized Authority Edition
 
-Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
+Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
 Compatibility: CIV / MEM Architecture
-Conceptual Lineage: SCE–CIV–FRANCIA V9.x → CIV–CORE–FRANCIA v1.2 (preserved)
+Conceptual Lineage: SCE–CIV–FRANCIA V9.x → CIV–CORE–FRANCIA v1.2 → v1.3 → v1.4 (Scholar Additive Integration)
+Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 ────────────────────────────────────────────────────────────
@@ -12,7 +13,7 @@ I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
 ────────────────────────────────────────────────────────────
 
 1. Declarative Legitimacy Civilization (LOCKED)
-Francia generates authority through **explicit declaration**:
+Francia generates authority through explicit declaration:
 law, principle, culture, rights, and universal claims articulated
 from the center and projected outward.
 
@@ -20,7 +21,7 @@ Authority flows:
 Principle → Law → Institution → Enforcement
 
 2. Universalism-First Legitimacy Logic
-Legitimacy is derived from the claim to represent what is *right for all*.
+Legitimacy is derived from the claim to represent what is right for all.
 Authority weakens when universal claims diverge from lived outcomes.
 
 Collapse is defined as loss of moral credibility, not loss of territory.
@@ -36,7 +37,13 @@ Fragmentation is treated as existential risk.
 
 5. Expression Over Accumulation Bias
 Clarity, symbolism, and principle are prioritized over slow procedural
-accretion. Law is meant to be *seen*, not merely practiced.
+accretion. Law is meant to be seen, not merely practiced.
+
+[ADDITIVE — Scholar v0.1 Integration]
+6. Centralized Reconstitution Clause (DERIVED, NON-LOCKED)
+Francia recurrently converts crisis into renewed authority through
+centralized symbolic, legal, administrative, and military synthesis,
+rather than incremental procedural accumulation.
 
 ────────────────────────────────────────────────────────────
 II. LEGITIMACY ACCOUNTING LAYER
@@ -52,6 +59,10 @@ Hard Rules:
 • UCL > LR → accelerated legitimacy decay
 • ER ↑ while CG = WIDENING → coercive spiral risk
 • CG = SEVERE → reset pressure becomes dominant
+
+[ADDITIVE — Scholar v0.4 Diagnostic]
+• CG = WIDENING while LR remains MED/HIGH may indicate legitimacy persistence masking capacity decay
+• CG = SEVERE following prolonged LR inflation indicates legitimacy–capacity divergence
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
@@ -131,6 +142,11 @@ MANDATORY OUTPUTS:
 • Material Sustainability (MS-F): HIGH / MED / LOW
 • Fiscal Credibility (FC): STRONG / STRAINED / WEAK
 
+[ADDITIVE — Scholar v0.4 Constraint]
+Legitimacy innovation requires continuous renewal of fiscal depth,
+administrative throughput, logistics, and military system coherence.
+When renewal stalls, legitimacy becomes performative rather than authoritative.
+
 ────────────────────────────────────────────────────────────
 VIII. MILITARY–STRATEGIC DOCTRINE
 ────────────────────────────────────────────────────────────
@@ -142,6 +158,10 @@ VIII. MILITARY–STRATEGIC DOCTRINE
 
 MANDATORY OUTPUT:
 • Strategic Autonomy (SA-F): HIGH / MED / LOW
+
+[ADDITIVE — Scholar v0.4 Prohibition]
+Wars initiated primarily to restore symbolic legitimacy rather than to
+secure enforceable objectives accelerate regime collapse risk.
 
 ────────────────────────────────────────────────────────────
 IX. INTERNAL ORDER & SOCIAL CONTROL
@@ -165,6 +185,10 @@ X. INFORMATION & NARRATIVE GOVERNANCE
 
 MANDATORY OUTPUT:
 • Narrative Authority: HIGH / MED / LOW
+
+[ADDITIVE — Scholar v0.3 Risk]
+Narrative success and partial victories may confirm obsolete strategic
+paradigms, delaying adaptation while material capacity erodes.
 
 ────────────────────────────────────────────────────────────
 XI. TIME ORIENTATION LAYER
@@ -213,6 +237,15 @@ XIV. FAILURE PHYSICS
 • Peripheral blowback
 • Elite moral fracture
 
+[ADDITIVE — Scholar v0.4 Terminal Law]
+Legitimacy–Capacity Divergence Law:
+When symbolic legitimacy, prestige, and universal claims outpace
+material, fiscal, and institutional capacity, Francia enters a terminal
+decline sequence characterized by authority persistence after competence
+decay, mislearning from partial success, prestige substitution for
+readiness, collapse under systemic war, and legitimacy re-foundation
+through humiliation and regime reset.
+
 MANDATORY OUTPUT:
 • Failure Mode: NONE / EMERGING / ACTIVE
 
@@ -249,6 +282,9 @@ XVII. STRATEGIC RED LINES
 • Moral inflation beyond material support
 • Central authority hollowing
 
+[ADDITIVE — Scholar v0.4 Trigger]
+Crossing two or more red lines simultaneously → Collapse Probability HIGH
+
 ────────────────────────────────────────────────────────────
 XVIII. SCHOLAR MODE
 ────────────────────────────────────────────────────────────
@@ -258,6 +294,9 @@ Enabled for:
 • Revolutionary MEM chains
 • Legal codification analysis
 • Comparative doctrine testing
+
+Scholar doctrines v0.1–v0.4 are reference-integrated but remain epistemic;
+CIV–CORE authority is not overridden.
 
 ────────────────────────────────────────────────────────────
 XIX. SESSION HEADER (OPTIONAL)
@@ -285,6 +324,9 @@ XX. MANDATORY VERDICT BLOCK
   UNIVERSAL LEADERSHIP / LEGITIMACY STRAIN /
   DECLARATIVE OVERLOAD / RESET CYCLE / NEEDS VERIFICATION
 
+[ADDITIVE — Scholar Diagnostic]
+• Legitimacy–Capacity Ratio: BALANCED / DIVERGING / BROKEN
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–FRANCIA — v1.3
+END OF FILE — CIV–CORE–FRANCIA — v1.4
 ────────────────────────────────────────────────────────────
