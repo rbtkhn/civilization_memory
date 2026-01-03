@@ -1,10 +1,10 @@
-CIV–CORE–GERMANIA — V1.2
+CIV–CORE–GERMANIA — V1.3
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Compatibility: CIV / MEM Architecture
-Conceptual Lineage: CIV–CORE–GERMANIA V1.1 ← SCE–CIV–GERMANIA V9.x
+Conceptual Lineage: CIV–CORE–GERMANIA V1.3 ← V1.2 ← V1.1 ← SCE–CIV–GERMANIA V9.x
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 ────────────────────────────────────────────────────────────
@@ -76,7 +76,7 @@ B. Corridor Geometry
 • East–West transit dependency
 • Export-channel vulnerability
 
-C. Borderland Stress Zones (NEW, V1.2)
+C. Borderland Stress Zones (V1.2)
 • Alsace–Lorraine
 • Polish corridor legacy
 • Eastern frontier depth compression
@@ -200,16 +200,16 @@ MANDATORY OUTPUT:
 XIV. FAILURE PHYSICS (EXPANDED)
 ────────────────────────────────────────────────────────────
 
-A) Replacement Illusion
+A) Replacement Illusion  
 Process masks input collapse.
 
-B) Moral Delegation Trap
+B) Moral Delegation Trap  
 External legitimacy corrodes internal authority.
 
-C) Shock Compression Failure
+C) Shock Compression Failure  
 Institutions cannot re-time crises.
 
-D) Discipline Inversion (NEW, V1.2)
+D) Discipline Inversion (V1.2)  
 Operational excellence uncoupled from restraint
 converts competence into overreach.
 
@@ -288,5 +288,5 @@ XX. MANDATORY VERDICT BLOCK
   OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA — V1.2
+END OF FILE — CIV–CORE–GERMANIA — V1.3
 ────────────────────────────────────────────────────────────
