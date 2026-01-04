@@ -1,10 +1,10 @@
-CIV–CORE–GERMANIA — V1.4
+CIV–CORE–GERMANIA — V1.5
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
 Compatibility: CIV / MEM Architecture
-Conceptual Lineage: CIV–CORE–GERMANIA V1.3 ← V1.2 ← V1.1 ← SCE–CIV–GERMANIA V9.x
+Conceptual Lineage: CIV–CORE–GERMANIA V1.4 ← V1.3 ← V1.2 ← V1.1 ← SCE–CIV–GERMANIA V9.x
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
@@ -341,5 +341,40 @@ XX. MANDATORY VERDICT BLOCK
 • Endurance–Precision Balance: ALIGNED / DRIFTING / INVERTED
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA — V1.4
+XXI. DOCTRINE INTAKE BUFFER (DIB) — GERMANIA (NEW, LOCKED)
+────────────────────────────────────────────────────────────
+This section wires CIV–CORE–GERMANIA to a **hard doctrine firewall**
+that stages Scholar-derived doctrines without granting Scholar
+authority or auto-sync.
+
+Authoritative Buffer File:
+• CIV–CORE–GERMANIA–DIB — v1.0
+
+DIB ROLE (LOCKED):
+• Receives proposed doctrines from CIV–SCHOLAR–GERMANIA
+• Logs proposals immutably (append-only)
+• Forces translation into CIV–CORE-compatible language
+• Requires explicit human decision for any absorption
+• Prevents accidental doctrine drift or silent mutation
+
+Hard Rules (NON-NEGOTIABLE):
+• Default action is REJECT unless a Decision Record exists in DIB.
+• CIV–SCHOLAR–GERMANIA cannot modify CIV–CORE directly.
+• DIB cannot modify CIV–CORE without explicit version bump.
+• No cross-civilization doctrine import is permitted through DIB.
+• CIV–CORE may cite accepted doctrines only if they are recorded as
+  CLOSED decisions in DIB.
+
+Permitted Outcomes:
+• ACCEPT (requires CIV–CORE version bump and explicit insertion point)
+• ACCEPT WITH MODIFICATIONS (same requirement)
+• DEFER (no effect)
+• REJECT (no effect)
+
+CIV–CORE AUTHORITY CLAUSE:
+Scholar doctrines may inform analysis, but CIV–CORE remains the sole
+binding authority for Germania outputs.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–GERMANIA — V1.5
 ────────────────────────────────────────────────────────────
