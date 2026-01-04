@@ -1,4 +1,4 @@
-MEM–GERMANIA–CRUSADES — v1.0
+MEM–GERMANIA–WAR–CRUSADES — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
