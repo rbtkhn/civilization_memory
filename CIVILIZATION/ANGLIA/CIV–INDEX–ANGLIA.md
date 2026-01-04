@@ -1,21 +1,25 @@
-CIV–INDEX–ANGLIA — v1.3
+CIV–INDEX–ANGLIA — v1.4
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.3
+Version: 1.4
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
+TOTAL REGISTERED FILES: 78 MEM–ANGLIA OBJECTS
+
+Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
+
 ────────────────────────────────────────────────────────────
 I. PURPOSE & GOVERNANCE (INDEX LAW)
 ────────────────────────────────────────────────────────────
 This file is the authoritative index of all MEM–ANGLIA files.
 
-INDEX ROLE (v1.3 CLARIFIED):
+INDEX ROLE:
 • Canonical registry for Anglia memory objects
 • Parity enforcement surface (ANGLIA ↔ FRANCIA ↔ GERMANIA)
 • Scholar-mode discovery spine
@@ -39,16 +43,12 @@ II. FILE REGISTER — ANGLIA
 
 A) GEO
 • MEM–ANGLIA–GEO–ATLANTIC.md  
-  Dates: Early modern–present  
-  Function: Maritime–financial system spine; global circulation and projection.
-
 • MEM–ANGLIA–GEO–MEDITERRANEAN.md  
-  Dates: Medieval–modern  
-  Function: Peripheral engagement zone; access without civilizational origin.
-
 • MEM–ANGLIA–GEO–ENGLISH–CHANNEL.md  
-  Dates: Medieval–present  
-  Function: Defensive moat and connective corridor; invasion filter and trade artery.
+• MEM–ANGLIA–GEO–PACIFIC.md  
+• MEM–ANGLIA–GEO–ARCTIC.md  
+• MEM–ANGLIA–GEO–MISSISSIPPI.md  
+• MEM–ANGLIA–GEO–GREAT–LAKES.md  
 
 B) DYNASTY
 • MEM–ANGLIA–DYNASTY–WESSEX.md
@@ -64,20 +64,28 @@ B) DYNASTY
 C) WAR
 • MEM–ANGLIA–WAR–VIKINGS.md
 • MEM–ANGLIA–WAR–CRUSADES.md
+• MEM–ANGLIA–WAR–HUNDRED–YEARS.md
 • MEM–ANGLIA–WAR–SPANISH–SUCCESSION.md
 • MEM–ANGLIA–WAR–AUSTRIAN–SUCCESSION.md
 • MEM–ANGLIA–WAR–SEVEN–YEARS.md
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE.md
 • MEM–ANGLIA–WAR–NAPOLEON.md
 • MEM–ANGLIA–WAR–TRAFALGAR.md
+• MEM–ANGLIA–WAR–1812.md
+• MEM–ANGLIA–WAR–MEXICAN–AMERICAN.md
+• MEM–ANGLIA–WAR–AMERICAN–CIVIL.md
+• MEM–ANGLIA–WAR–CRIMEAN.md
+• MEM–ANGLIA–WAR–WATERLOO.md
 
 D) LAW
 • MEM–ANGLIA–COMMON–LAW.md
 • MEM–ANGLIA–MAGNA–CARTA.md
 • MEM–ANGLIA–DECLARATION–INDEPENDENCE.md
+• MEM–ANGLIA–EMANCIPATION–PROCLAMATION.md
 
 E) ECON
-• (No standalone ECON MEM files registered)
+• MEM–ANGLIA–BRITISH–EMPIRE.md
+• MEM–ANGLIA–INDIA.md
 
 F) RELIGION
 • MEM–ANGLIA–PAPACY.md
@@ -92,6 +100,9 @@ G) PERSON
 • MEM–ANGLIA–ELIZABETH–I.md
 • MEM–ANGLIA–WOLSEY.md
 • MEM–ANGLIA–RICHARD–LIONHEART.md
+• MEM–ANGLIA–SHAKESPEARE.md
+• MEM–ANGLIA–MILTON.md
+• MEM–ANGLIA–DICKENS.md
 • MEM–ANGLIA–PITT–ELDER.md
 • MEM–ANGLIA–PITT–YOUNGER.md
 • MEM–ANGLIA–MARLBOROUGH.md
@@ -99,6 +110,11 @@ G) PERSON
 • MEM–ANGLIA–WELLINGTON.md
 • MEM–ANGLIA–WASHINGTON.md
 • MEM–ANGLIA–JEFFERSON.md
+• MEM–ANGLIA–MADISON.md
+• MEM–ANGLIA–MONROE.md
+• MEM–ANGLIA–JACKSON.md
+• MEM–ANGLIA–LINCOLN.md
+• MEM–ANGLIA–GRANT.md
 • MEM–ANGLIA–FRANKLIN.md
 • MEM–ANGLIA–HAMILTON.md
 • MEM–ANGLIA–BURKE.md
@@ -106,7 +122,18 @@ G) PERSON
 • MEM–ANGLIA–CHURCHILL.md
 
 H) OTHER / MISC
-• (None)
+• MEM–ANGLIA–ENGLAND.md
+• MEM–ANGLIA–SCOTLAND.md
+• MEM–ANGLIA–WALES.md
+• MEM–ANGLIA–IRELAND.md
+• MEM–ANGLIA–UNITED–STATES–AMERICA.md
+• MEM–ANGLIA–CANADA.md
+• MEM–ANGLIA–AUSTRALIA.md
+• MEM–ANGLIA–NEW–ZEALAND.md
+• MEM–ANGLIA–NETHERLANDS.md
+• MEM–ANGLIA–BELGIUM.md
+• MEM–ANGLIA–AFRICAN–SLAVERY.md
+• MEM–ANGLIA–NATIVE–AMERICANS.md
 
 ────────────────────────────────────────────────────────────
 III. DEPRECATIONS
@@ -117,9 +144,10 @@ III. DEPRECATIONS
 ────────────────────────────────────────────────────────────
 IV. VERSION NOTE
 ────────────────────────────────────────────────────────────
-v1.3 aligns index governance with CIV–CORE–ANGLIA v1.3.
-This file replaces any prior MEM–ANGLIA–INDEX naming.
+v1.4 registers all newly created MEM–ANGLIA files since v1.3.
+This upgrade is additive only and preserves all prior index structure,
+ordering, and governance rules.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v1.3
+END OF FILE — CIV–INDEX–ANGLIA — v1.4
 ────────────────────────────────────────────────────────────
