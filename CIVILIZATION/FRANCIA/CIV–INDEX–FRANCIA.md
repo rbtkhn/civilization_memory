@@ -1,21 +1,22 @@
-CIV–INDEX–FRANCIA — v1.3
+CIV–INDEX–FRANCIA — v1.4
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.3
+Version: 1.4
 Civilization: FRANCIA
 Subject: Francia Memory Index (File Register)
 Dates: Medieval era–present
 Class: CIV–INDEX
 Last Update: January 2026
+Total MEM–FRANCIA Files: 44
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & GOVERNANCE (INDEX LAW)
 ────────────────────────────────────────────────────────────
 This file is the authoritative index of all MEM–FRANCIA files.
 
-INDEX ROLE (v1.3 CLARIFIED):
+INDEX ROLE (v1.4 CONTINUITY):
 • Canonical registry for Francia memory objects
 • Parity enforcement surface (FRANCIA ↔ ANGLIA ↔ GERMANIA)
 • Scholar-mode discovery anchor
@@ -58,6 +59,18 @@ A) GEO
   Dates: Early modern–modern  
   Function: Buffer territory; continental gateway and pressure valve.
 
+• MEM–FRANCIA–GEO–PACIFIC.md  
+  Dates: Early modern–present  
+  Function: Peripheral projection theater; prestige routes and late-entry constraints.
+
+• MEM–FRANCIA–GEO–IBERIA.md  
+  Dates: Medieval–modern  
+  Function: Southern neighbor rivalry; dynastic, maritime, and ideological contention corridor.
+
+• MEM–FRANCIA–GEO–LEVANT.md  
+  Dates: Medieval–present  
+  Function: Crusade-to-mandate arc; civilizational claim zone and legitimacy exposure surface.
+
 B) DYNASTY
 • MEM–FRANCIA–DYNASTY–MEROVINGIAN.md
 • MEM–FRANCIA–DYNASTY–CAROLINGIAN.md
@@ -73,6 +86,10 @@ C) WAR
 • MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE.md
 • MEM–FRANCIA–WAR–TRAFALGAR.md
 • MEM–FRANCIA–WAR–NAPOLEON.md
+• MEM–FRANCIA–WAR–WATERLOO.md
+• MEM–FRANCIA–WAR–CRIMEAN.md
+• MEM–FRANCIA–WAR–FRANCO–DUTCH.md
+• MEM–FRANCIA–WAR–VIKINGS.md
 
 D) LAW
 • MEM–FRANCIA–NAPOLEONIC–CODE.md
@@ -98,20 +115,33 @@ G) PERSON
 • MEM–FRANCIA–VOLTAIRE.md
 • MEM–FRANCIA–ROUSSEAU.md
 • MEM–FRANCIA–LAFAYETTE.md
+• MEM–FRANCIA–HUGO.md
+• MEM–FRANCIA–MONTAIGNE.md
+• MEM–FRANCIA–MONTESQUIEU.md
 
 H) OTHER / MISC
 • MEM–FRANCIA–ALSACE–LORRAINE.md
 • MEM–FRANCIA–NOTRE–DAME.md
 • MEM–FRANCIA–JACOBIN.md
 • MEM–FRANCIA–REIGN–TERROR.md
+• MEM–FRANCIA–CANADA.md
+• MEM–FRANCIA–AFRICAN–SLAVERY.md
+• MEM–FRANCIA–NATIVE–AMERICANS.md
+• MEM–FRANCIA–ALGERIA.md
+• MEM–FRANCIA–HAITI.md
+• MEM–FRANCIA–LOUVRE.md
+• MEM–FRANCIA–BURGUNDY.md
 
 ────────────────────────────────────────────────────────────
 III. VERSION & NAMING NOTE
 ────────────────────────────────────────────────────────────
-v1.3 aligns index governance with CIV–CORE–FRANCIA v1.3.
+v1.4 is an additive-only registry update aligning the Francia index with
+the current MEM–FRANCIA corpus and parity requirements.
+
 This file supersedes and replaces:
+• CIV–INDEX–FRANCIA — v1.3
 • MEM–FRANCIA–INDEX (all prior versions)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–FRANCIA — v1.3
+END OF FILE — CIV–INDEX–FRANCIA — v1.4
 ────────────────────────────────────────────────────────────
