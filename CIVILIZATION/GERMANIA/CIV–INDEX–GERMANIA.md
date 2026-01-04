@@ -1,12 +1,18 @@
-CIV–INDEX–GERMANIA — v1.3
+CIV–INDEX–GERMANIA — v1.5
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
+
 Status: ACTIVE · CANONICAL · LOCKED
 Civilization: GERMANIA
 Subject: Germania Memory Index (Authoritative File Register)
 Dates: Roman era–present
 Class: CIV (Index)
 Last Update: January 2026
+
+WORDCOUNT: 1,245 words
+TOTAL REGISTERED FILES: 49 MEM–GERMANIA OBJECTS
+
+Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -52,7 +58,7 @@ C) WAR
 • MEM–GERMANIA–WAR–TEUTOBURG–FOREST.md
 • MEM–GERMANIA–WAR–VIKINGS.md
 • MEM–GERMANIA–WAR–THIRTY–YEARS.md
-• MEM–GERMANIA–WAR–SEVEN–YEARS
+• MEM–GERMANIA–WAR–SEVEN–YEARS.md
 • MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION.md
 • MEM–GERMANIA–WAR–AUSTERLITZ.md
 • MEM–GERMANIA–WAR–WATERLOO.md
@@ -104,7 +110,7 @@ H) OTHER / MISC
 ────────────────────────────────────────────────────────────
 III. INDEX LOCK & PROPAGATION CLAUSE
 ────────────────────────────────────────────────────────────
-This index is LOCKED at v1.3.
+This index is LOCKED.
 
 • Structural changes require version increment.
 • Content additions permitted without renumbering.
@@ -112,5 +118,23 @@ This index is LOCKED at v1.3.
 • Scholar Mode consumes this index as authoritative scope.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–GERMANIA — v1.3
+IV. TEMPLATE v1.5 COMPATIBILITY & AUTHORITY NOTE
+────────────────────────────────────────────────────────────
+This index is registrational only and does not participate in
+doctrine evaluation, belief synthesis, or Scholar learning.
+
+v1.5 Alignment Clarifications:
+• This index does NOT interface with the Doctrine Intake Buffer (DIB)
+• This index does NOT resolve Scholar divergence
+• This index does NOT evaluate doctrine or belief validity
+
+Authority Boundaries:
+• CIV–CORE–GERMANIA retains sole doctrinal authority
+• CIV–SCHOLAR–GERMANIA may learn ONLY within this index’s scope
+• No doctrine, belief, synthesis, or Scholar state may alter this index
+
+This file remains LOCKED except for additive registration.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–INDEX–GERMANIA — v1.5
 ────────────────────────────────────────────────────────────
