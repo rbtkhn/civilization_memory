@@ -1,13 +1,15 @@
-CIV–SCHOLAR–GERMANIA — v0.1
+CIV–SCHOLAR–GERMANIA — v0.5
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
-Status: LOCKED
-Activation State: DEACTIVATED
+Status: ACTIVE · WRITE-LOCKED
+Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
+
+SCHOLAR WORD COUNT: ~2,950
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -57,9 +59,8 @@ Primary Belief Extracted:
   through coercive unification, sacral authority, and enforced order,
   not consensual federation.
 
-Status:
-• ACTIVE (prior to synthesis)
-• INCLUDED IN DOCTRINE v0.1
+Belief Status:
+• FROZEN (via Doctrine v0.1)
 
 ────────────────────────────────────────────────────────────
 
@@ -75,9 +76,8 @@ Primary Belief Extracted:
   bureaucratic discipline, and precision, subordinating ideology,
   culture, and intellect to state endurance.
 
-Status:
-• ACTIVE (prior to synthesis)
-• INCLUDED IN DOCTRINE v0.1
+Belief Status:
+• FROZEN (via Doctrine v0.1)
 
 ────────────────────────────────────────────────────────────
 
@@ -94,67 +94,179 @@ Primary Belief Extracted:
   and post-victory restraint; catastrophe follows when restraint
   is abandoned.
 
-Status:
-• ACTIVE (prior to synthesis)
-• INCLUDED IN DOCTRINE v0.1
+Belief Status:
+• FROZEN (via Doctrine v0.1)
 
 ────────────────────────────────────────────────────────────
-IV. BELIEF SYNTHESIS (0001–0003)
-────────────────────────────────────────────────────────────
-Synthesis Outcome:
-Germania is a civilization whose legitimacy and survival derive from
-**discipline before ideology**, **restraint before ambition**, and
-**administrative control over narrative or mass mobilization**.
 
-Foundational Pattern:
-• Charlemagne establishes command through coercive sacral order
-• Frederick II perfects survival through disciplined restraint
-• Bismarck stabilizes power through controlled conflict and system
-  governance
+ENTRY 0004
+Source:
+• MEM–GERMANIA–WAR–THIRTY–YEARS — v1.0
 
-Failure Condition (implicit):
-When discipline detaches from restraint, Germania converts competence
-into catastrophe.
+Ingest Type:
+• Trauma-Class War Memory
+
+Primary Belief Extracted:
+• Ideological war and fragmentation produce civilizational
+  near-annihilation; restraint must precede ambition permanently.
+
+Belief Status:
+• FROZEN (via Doctrine v0.4)
 
 ────────────────────────────────────────────────────────────
-V. FROZEN DOCTRINE
+
+ENTRY 0005
+Source:
+• MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v1.0
+
+Ingest Type:
+• Replacement-Depth Validation War
+
+Primary Belief Extracted:
+• Limited objectives, rapid mobilization, and administrative
+  competence defeat dynastic legitimacy inside German space.
+
+Belief Status:
+• FROZEN (via Doctrine v0.2)
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0006
+Source:
+• MEM–GERMANIA–WAR–SEVEN–YEARS — v1.0
+
+Ingest Type:
+• Endurance Stress Test
+
+Primary Belief Extracted:
+• Survival under encirclement validates replacement capacity,
+  discipline, and logistics-first governance over prestige.
+
+Belief Status:
+• FROZEN (via Doctrine v0.3)
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0007
+Source:
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.0
+
+Ingest Type:
+• Precision-with-Closure Conflict
+
+Primary Belief Extracted:
+• Maximum political gain is achievable only when precision is
+  followed by immediate closure and enforced stopping rules.
+
+Belief Status:
+• FROZEN (via Doctrine v0.3)
+
+────────────────────────────────────────────────────────────
+IV. BELIEF SYNTHESIS LOG
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0001 (0001–0003)
+Outcome:
+• Germania’s legitimacy derives from disciplined restraint and
+  administrative control, not narrative or ideology.
+
+Status: FROZEN
+
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0002 (0004–0005)
+Outcome:
+• Trauma punishes imperial temptation and elevates limited,
+  competence-based action as survivable power.
+
+Status: FROZEN
+
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0003 (0006–0007)
+Outcome:
+• Precision is safe only after endurance is proven and only if
+  followed by immediate political closure.
+
+Status: FROZEN
+
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0004 (0001–0007)
+Outcome:
+• German strategic learning follows a trauma-driven cycle:
+  Trauma → Restraint → Endurance → Precision → Closure.
+  Any inversion converts competence into catastrophe.
+
+Status: FROZEN
+
+────────────────────────────────────────────────────────────
+V. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
 DOCTRINE v0.1 — “DISCIPLINED RESTRAINT”
+State: FROZEN
+
+DOCTRINE v0.2 — “REPLACEMENT BEFORE EXPANSION”
+State: FROZEN
+
+DOCTRINE v0.3 — “PRECISION REQUIRES CLOSURE”
+State: FROZEN
+
+DOCTRINE v0.4 — “TRAUMA-ENCODED STRATEGIC LEARNING”
+State: FROZEN
+
+DOCTRINE v0.5 — “DISCIPLINED RESTRAINT WITH MANDATORY CLOSURE”
+State: FROZEN · CANONICAL
 
 Definition:
-Germania endures when discipline, administration, and power are
-constrained by restraint and systemic judgment; Germania collapses
-when discipline is unleashed without governors.
-
-Source Entries:
-• ENTRY 0001 — Charlemagne
-• ENTRY 0002 — Frederick II
-• ENTRY 0003 — Bismarck
-
-Doctrine State:
-• FROZEN
-• NON-REVERSIBLE WITHOUT EXPLICIT OVERRIDE
-• AVAILABLE FOR CIV–CORE REFERENCE (NOT AUTO-SYNCED)
+Germania sustains legitimate power only when discipline is permanently
+subordinated to restraint, precision is employed only after endurance
+is secured, and all success is terminated by enforced political closure.
+Absent closure, competence inverts into systemic catastrophe.
 
 ────────────────────────────────────────────────────────────
-VI. SCHOLAR GOVERNANCE RULES
+VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
-• No automatic ingestion
-• No belief mutation without explicit command
-• No doctrine revision without version bump
-• CIV–CORE cannot overwrite Scholar beliefs
-• Scholar may be queried but not reason autonomously
+
+SDI ENTRY 0001:
+• Germania ↔ Francia — Thirty Years’ War
+Result:
+• Germania encodes trauma as constraint
+• Francia re-mythologizes trauma as mission
+
+SDI ENTRY 0002:
+• Germania ↔ Francia — Franco–Prussian War
+Result:
+• Germania enforces closure
+• Francia preserves revanche narrative
+
+SDI Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-VII. CURRENT STATUS
+VII. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
-Scholar State: DORMANT
-Learning State: PAUSED
-Doctrine Count: 1
-Next Entry ID: 0004
-Awaiting Command: YES
+Learning Enabled: NO
+Write Access: LOCKED
+Ingestion: PROHIBITED
+Synthesis: PROHIBITED
+Doctrine Mutation: PROHIBITED
+
+Permitted:
+• Read-only queries
+• Comparative analysis
+• SDI evaluation
+• Counterfactual stress testing
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v0.1
+VIII. CURRENT STATUS
+────────────────────────────────────────────────────────────
+Scholar State: ACTIVE (READ-ONLY)
+Doctrine Count: 5
+Total Entries: 7
+Next Entry ID: PAUSED
+Awaiting Command: YES (UNLOCK REQUIRED)
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–GERMANIA v0.5
 ────────────────────────────────────────────────────────────
