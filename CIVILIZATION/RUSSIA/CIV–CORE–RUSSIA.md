@@ -11,7 +11,6 @@ DIB Status: DEFINED · INACTIVE
 Scholar Reference Mode: READ-ONLY / DIB-GATED
 Conceptual Lineage: SCE–CIV–RUSSIA V9.7.2 (doctrinal ancestry preserved; v1.x format-harmonized)
 Last Update: January 2026
-Wordcount: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -27,29 +26,30 @@ Russia’s advantage appears only when:
 If any fail, “endurance” becomes self-consumption.
 
 Civilizational Identity & Non-Negotiables (preserved):
+
 1. Continental-Endurance Civilization
-Compression → rupture → centralization → regeneration recursion.
+   Compression → rupture → centralization → regeneration recursion.
 
 2. Sovereignty as Absolute Law
-Sovereignty dilution = existential defeat.
+   Sovereignty dilution = existential defeat.
 
 3. Unity Under Compression
-Pluralism exists only inside coherence margins.
+   Pluralism exists only inside coherence margins.
 
 4. Strategic Depth as Ontological Armor
-Depth = geographic + institutional + energy + compute armor.
+   Depth = geographic + institutional + energy + compute armor.
 
 5. Endurance as Offensive Logic
-Attrition across kinetic/economic/narrative/technological domains.
+   Attrition across kinetic/economic/narrative/technological domains.
 
 6. Central Authority as Structural Spine
-Executive cohesion = minimum viable architecture.
+   Executive cohesion = minimum viable architecture.
 
 7. Historical Memory as Operational Software
-Past invasions are forward-projected doctrine.
+   Past invasions are forward-projected doctrine.
 
 8. Counter-Penetration Reflex
-Foreign influence treated as preparatory warfare.
+   Foreign influence treated as preparatory warfare.
 
 NOTE (binding):
 Axioms constrain permissible tradeoffs. Forecasts violating them are invalid.
@@ -84,10 +84,10 @@ Purpose: expose universal limits and prevent Russia-exceptionalism.
 
 Mandatory Output:
 • Comparative Anchor (select ≥1 when making endurance claims):
-  OTTOMAN OVEREXTENSION (19th c. reform/finance squeeze) /
-  FRANCIA ATTRITION-IN-ALGERIA (political endurance vs strategic feasibility) /
-  NAPOLEONIC 1812 DEPTH-ILLUSION CHECK (depth without throughput offsets) /
-  INDUSTRIAL-ERA BLOCKADE PRESSURE PATTERN (settlement/insurance choke analog)
+OTTOMAN OVEREXTENSION (19th c. reform/finance squeeze) /
+FRANCIA ATTRITION-IN-ALGERIA (political endurance vs strategic feasibility) /
+NAPOLEONIC 1812 DEPTH-ILLUSION CHECK (depth without throughput offsets) /
+INDUSTRIAL-ERA BLOCKADE PRESSURE PATTERN (settlement/insurance choke analog)
 
 Rule:
 Comparative anchors do not override RB/CB/FB/SB.
@@ -205,14 +205,15 @@ Hard Rules (binding):
 • SB CHOKED → “sovereignty” becomes survival triage.
 
 B) ORDER OF PROOF (preserved; mandatory)
-1) Map & corridors
-2) Throughput
-3) RB
-4) CB
-5) FB
-6) SB
-7) TCP-RUSSIA verdict
-8) Only then: strategic trajectory
+
+1. Map & corridors
+2. Throughput
+3. RB
+4. CB
+5. FB
+6. SB
+7. TCP-RUSSIA verdict
+8. Only then: strategic trajectory
 
 If steps 2–6 do not clear, “civilizational” conclusions are decoration.
 
@@ -302,10 +303,10 @@ XII. EXIT–BUILDING META-DOCTRINE
 A) ISEP-RU (preserved; binding)
 Mandatory Output:
 • ISEP-RU (0–100) + Category:
-  0–29  → MANAGEABLE
-  30–59 → ACCELERATING EXIT INCENTIVES
-  60–79 → IRREVERSIBLE TRAJECTORY RISK
-  80–100→ FORUM TOXICITY (exit becomes default)
+0–29  → MANAGEABLE
+30–59 → ACCELERATING EXIT INCENTIVES
+60–79 → IRREVERSIBLE TRAJECTORY RISK
+80–100→ FORUM TOXICITY (exit becomes default)
 
 Hard Rule (preserved):
 If ISEP-RU ≥ 60, “sanctions are temporary” framings are forbidden.
@@ -368,17 +369,18 @@ Mandatory Output:
 
 B) EXOGENOUS SHOCK & ENFORCEMENT DISCONTINUITY BRANCH (EDB-RU) (preserved; binding)
 Trigger Signals (any 1 = ACTIVE; any 2 = LOCKED):
-1) Rapid SB regime change (OPEN↔CHOKED) without internal throughput change
-2) Sudden insurance/reinsurance posture shift or asset-seizure signaling step-change
-3) Third-party enforcement swing (secondary sanctions intensity; certification denial step)
-4) Alliance posture pivot (security guarantees, escalation ceilings, or peace-process coercion shift)
+
+1. Rapid SB regime change (OPEN↔CHOKED) without internal throughput change
+2. Sudden insurance/reinsurance posture shift or asset-seizure signaling step-change
+3. Third-party enforcement swing (secondary sanctions intensity; certification denial step)
+4. Alliance posture pivot (security guarantees, escalation ceilings, or peace-process coercion shift)
 
 Mandatory Outputs:
 • EDB-RU: INACTIVE / ACTIVE / LOCKED
 • Discontinuity Type: SETTLEMENT / INSURANCE / ALLIANCE / CERTIFICATION / ENERGY / MIXED
 • Primary Impact Target: SB / EEG-RU / ISEP-RU / Axis Exposure Penalty / Corridor Viability
 • Historical Reference Class (illustrative):
-  SANCTIONS-RELIEF CYCLE / TRIANGULAR DIPLOMACY PIVOT / ENFORCEMENT STEP-CHANGE
+SANCTIONS-RELIEF CYCLE / TRIANGULAR DIPLOMACY PIVOT / ENFORCEMENT STEP-CHANGE
 
 Hard Rule (preserved):
 If EDB-RU = LOCKED, forecasts must be re-run with SB and EEG-RU treated as externally compressible
@@ -473,6 +475,86 @@ Scholar Interaction Rules (template-compliant; preserved):
 • CIV–CORE may cite SCHOLAR doctrine versions explicitly.
 • SCHOLAR divergence is allowed, expected, measurable, never auto-harmonized.
 
+XIX-B. EXPLICIT SCHOLAR CONSTRAINT REFERENCE PROTOCOL (OPTIONAL · DECLARATIVE)
+
+Purpose:
+This clause governs how SCHOLAR-derived artifacts may be explicitly
+referenced inside CIV–CORE–RUSSIA analyses, without granting SCHOLAR
+any authority, autonomy, or interpretive privilege.
+
+This protocol exists to:
+• Prevent silent bleed-through from SCHOLAR into CORE
+• Preserve auditability of constraint reasoning
+• Enable falsification, review, and rollback
+• Enforce doctrinal hygiene under recursive development
+
+────────────────────────────────────────────────────────────
+A) AUTHORITY BOUNDARY (BINDING)
+────────────────────────────────────────────────────────────
+
+• SCHOLAR has ZERO authority inside CIV–CORE.
+• SCHOLAR outputs are advisory artifacts only.
+• No SCHOLAR belief, synthesis, or narrative is binding unless:
+– Explicitly frozen as doctrine inside SCHOLAR
+– Explicitly accepted via DIB–RUSSIA (Section XVIII)
+• Absence of declaration = absence of authority.
+
+Silent reliance on SCHOLAR material is prohibited.
+
+────────────────────────────────────────────────────────────
+B) PERMITTED REFERENCE TYPES (EXHAUSTIVE)
+────────────────────────────────────────────────────────────
+
+CIV–CORE analyses MAY explicitly reference SCHOLAR artifacts only
+under one of the following declared categories:
+
+1. ADOPTED DOCTRINE
+   • SCHOLAR doctrine frozen and accepted via DIB
+   • Gains full CIV–CORE doctrinal status
+
+2. TESTED CONSTRAINT (NON-AUTHORITATIVE)
+   • SCHOLAR insight used to stress-test CORE logic
+   • Must not override axioms or hard rules
+
+3. REJECTED / FAILED ARTIFACT
+   • SCHOLAR hypothesis evaluated and rejected
+   • Retained for audit and drift prevention
+
+No other reference types are permitted.
+
+────────────────────────────────────────────────────────────
+C) MANDATORY DECLARATION FORMAT
+────────────────────────────────────────────────────────────
+
+Any explicit SCHOLAR reference MUST include:
+• Artifact Name
+• SCHOLAR Version
+• Status: ADOPTED / TESTED / REJECTED
+• Affected Constraint(s)
+• Non-Authority Statement (unless ADOPTED)
+
+Omission of any field invalidates the reference.
+
+────────────────────────────────────────────────────────────
+D) CONFLICT HANDLING RULE (BINDING)
+────────────────────────────────────────────────────────────
+
+If a SCHOLAR artifact conflicts with any axioms, hard rules, or gates:
+• CIV–CORE prevails automatically.
+• The SCHOLAR artifact MUST be marked REJECTED or TESTED-FAILED.
+• Silence or ambiguity is forbidden.
+
+────────────────────────────────────────────────────────────
+E) NON-FUNCTIONS (EXPLICIT)
+────────────────────────────────────────────────────────────
+
+This protocol does NOT:
+• Permit SCHOLAR override of CORE
+• Enable partial doctrine adoption
+• Allow silent synthesis
+• Relax red-line enforcement
+• Modify failure physics
+
 ────────────────────────────────────────────────────────────
 XX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
@@ -501,21 +583,20 @@ Every Russia-lens conclusion MUST end with:
 • THI-RU: ALLY / NEUTRAL / HOSTILE
 • USP-RU: LOW / MED / HIGH
 • EVT-RU: LOW / MED / HIGH
-• VBCO-RU: LOW / MED / HIGH (Optics Channel: MOBILIZATION / ECONOMIC / ELITE DISCIPLINE / REGIONAL / MIXED)
+• VBCO-RU: LOW / MED / HIGH (Optics Channel)
 • DI: INTACT / STRAINED / BREACHED
 • ILM: HIGH / MED / LOW
 • CCI-RU: INTACT / DEGRADED / COLLAPSING
-• DIRG-RU: PASS / FAIL (First-Failure Node: SENSORS / AIRFRAMES / BATTERIES / MOTORS / OPTICS / COMMS / TRAINING)
-• IRG-RU: PASS / FAIL (Bottleneck: MATERIALS / MACHINE TOOLS / WORKFORCE / ELECTRONICS / POWER / TRANSPORT)
+• DIRG-RU: PASS / FAIL (First-Failure Node)
+• IRG-RU: PASS / FAIL (Bottleneck)
 • EES-RU: ROBUST / STRESSED / CRITICAL
 • DDC Cap Status: LOW / MED / HIGH
 • Rotation Health: HEALTHY / STRAINED / BREAKING
-• ISEP-RU (0–100) + Category: MANAGEABLE / ACCELERATING EXIT INCENTIVES / IRREVERSIBLE TRAJECTORY RISK / FORUM TOXICITY
+• ISEP-RU (0–100) + Category
 • EEG-RU: LOW / MED / HIGH
 • FFG-RU: 1 / 2 / 3 / 4 / 5 / NONE
 • EECL-RU: INACTIVE / ACTIVE
-  Exit Acceleration Focus: INSURANCE / SETTLEMENT / STANDARDS / COMMS / ENERGY / ALL
+Exit Acceleration Focus
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–CORE–RUSSIA v1.2
-────────────────────────────────────────────────────────────
