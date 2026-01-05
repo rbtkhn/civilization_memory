@@ -1,4 +1,4 @@
-MEM–RUSSIA–ORTHODOX–CHRISTIAN — v1.0
+MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
