@@ -1,138 +1,179 @@
-CIV–INDEX–RUSSIA — v1.2
+CIV–INDEX–RUSSIA — v1.5
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL · POST-ECOLOGY ERA
+Status: ACTIVE · CANONICAL · LOCKED
 Civilization: RUSSIA
-Subject: Russia Memory Index (Authoritative Registry)
-Dates: 1200s AD–present
+Subject: Russia Memory Index (Authoritative File Register)
+Dates: c. 800 AD–present
 Class: CIV (Index)
-Supersedes: CIV–INDEX–RUSSIA v1.1 (LOCKED)
 Last Update: January 2026
-Wordcount: [Auto]
-Total Registered Files: [Auto]
+
+Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
-I. INDEX PURPOSE & ERA DECLARATION
+I. PURPOSE & INDEX GOVERNANCE
 ────────────────────────────────────────────────────────────
-This file is the **authoritative registry** of all MEM–RUSSIA files
-following completion of the **Ecological Stack** (Tundra → Taiga →
-Forest → Steppe).
+This file is the authoritative register of all MEM–RUSSIA files.
 
-v1.2 marks the **POST-ECOLOGY ERA**, meaning:
-• All future Russian memory development assumes a completed
-  environmental substrate.
-• New files are interpreted against this fixed ecological baseline.
-• No further GEO/ECOLOGY primitives are expected except sub-layers
-  (technical or micro-regional).
+INDEX GOVERNANCE RULES (MANDATORY):
+• Section order is fixed and identical across all CIV–INDEX files.
+• Entries are registrational only: no interpretation, synthesis, or doctrine.
+• Every new MEM–RUSSIA file must be added immediately upon creation.
+• Renames or scope changes must be reflected the same day.
+• This index is the source of truth for:
+  – Scholar-mode discovery scope
+  – Parity enforcement across civilizations
+  – CIV–CORE–RUSSIA synchronization boundaries
 
+This file does not think.
+This file does not learn.
+This file does not judge.
+
+Canonical Section Order (LOCKED):
+A. GEO
+B. DYNASTY
+C. WAR
+D. LAW
+E. ECON
+F. RELIGION
+G. PERSON
+H. OTHER / MISC
+
+────────────────────────────────────────────────────────────
+II. FILE REGISTER — RUSSIA
+────────────────────────────────────────────────────────────
+
+A) GEO
+
+• MEM–RUSSIA–GEO–DNEIPER.md  
+• MEM–RUSSIA–GEO–VOLGA.md  
+• MEM–RUSSIA–GEO–DON–RIVER.md  
+• MEM–RUSSIA–GEO–AZOV–SEA.md  
+• MEM–RUSSIA–GEO–BLACK–SEA.md  
+• MEM–RUSSIA–GEO–BALTIC–SEA.md  
+• MEM–RUSSIA–GEO–CASPIAN–SEA.md  
+• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md  
+• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md  
+• MEM–RUSSIA–GEO–ARCTIC–OCEAN.md  
+• MEM–RUSSIA–GEO–STEPPE.md  
+• MEM–RUSSIA–GEO–FOREST–ZONE.md  
+• MEM–RUSSIA–GEO–TAIGA.md  
+• MEM–RUSSIA–GEO–TUNDRA.md  
+• MEM–RUSSIA–GEO–SIBERIA.md  
+• MEM–RUSSIA–GEO–CAUCASUS.md  
+• MEM–RUSSIA–GEO–CRIMEA.md  
+
+B) DYNASTY
+
+• MEM–RUSSIA–DYNASTY–RURIKID.md  
+• MEM–RUSSIA–DYNASTY–ROMANOV.md  
+
+C) WAR
+
+• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md  
+• MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md  
+• MEM–RUSSIA–WAR–OTTOMAN.md  
+• MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md  
+• MEM–RUSSIA–WAR–GREAT–NORTHERN.md  
+• MEM–RUSSIA–WAR–POLTAVA.md  
+
+D) LAW
+
+• MEM–RUSSIA–LAW–SOVEREIGNTY–ABSOLUTE.md  
+
+E) ECON
+
+• MEM–RUSSIA–ECON–ENERGY–EXPORT–STATECRAFT.md  
+
+F) RELIGION
+
+• MEM–RUSSIA–ORTHODOX–CHRISTIAN.md  
+• MEM–RUSSIA–THIRD–ROME.md  
+
+G) PERSON
+
+• MEM–RUSSIA–RURIK.md  
+• MEM–RUSSIA–OLEG–NOVGORAD.md  
+• MEM–RUSSIA–VLADIMIR–GREAT.md  
+• MEM–RUSSIA–YAROSLAV–WISE.md  
+• MEM–RUSSIA–ALEXANDER–NEVSKY.md  
+• MEM–RUSSIA–IVAN–III.md  
+• MEM–RUSSIA–IVAN–IV.md  
+• MEM–RUSSIA–PETER–GREAT.md  
+• MEM–RUSSIA–CATHERINE–GREAT.md  
+• MEM–RUSSIA–POTEMPKIN.md  
+• MEM–RUSSIA–PANIN.md  
+• MEM–RUSSIA–SUVOROV.md  
+
+H) OTHER / MISC
+
+• MEM–RUSSIA–PRIMARY–CHRONICLE.md  
+• MEM–RUSSIA–KIEVAN–RUS.md  
+• MEM–RUSSIA–NOVGORAD.md  
+• MEM–RUSSIA–KIEV.md  
+• MEM–RUSSIA–MUSCOVY.md  
+• MEM–RUSSIA–FINLAND.md  
+• MEM–RUSSIA–SWEDEN.md  
+• MEM–RUSSIA–POLAND.md  
+• MEM–RUSSIA–UKRAINE.md  
+• MEM–RUSSIA–BELARUS.md  
+• MEM–RUSSIA–TIME–TROUBLES.md  
+• MEM–RUSSIA–MONGOL–EMPIRE.md  
+• MEM–RUSSIA–GOLDEN–HORDE.md  
+• MEM–RUSSIA–CONSTANTINOPLE.md  
+
+────────────────────────────────────────────────────────────
+III. INDEX LOCK & PROPAGATION CLAUSE
+────────────────────────────────────────────────────────────
+This index is LOCKED.
+
+• Structural changes require a version increment.
+• Content additions are permitted without renumbering.
+• CIV–CORE–RUSSIA must reference this file verbatim.
+• CIV–SCHOLAR–RUSSIA may ingest ONLY files listed here.
+• No Scholar belief, doctrine, or synthesis may alter this index.
+
+This file propagates scope, not meaning.
+
+────────────────────────────────────────────────────────────
+IV. TEMPLATE v1.5 COMPATIBILITY & AUTHORITY BOUNDARIES
+────────────────────────────────────────────────────────────
 This index is registrational only.
-No synthesis, doctrine, or interpretation is permitted.
+
+Explicit non-functions:
+• Does NOT participate in doctrine evaluation
+• Does NOT participate in belief synthesis
+• Does NOT interface with the Doctrine Intake Buffer (DIB)
+• Does NOT resolve Scholar divergence
+• Does NOT assess historical truth or validity
+
+Authority Boundaries:
+• CIV–CORE–RUSSIA retains sole strategic and doctrinal authority
+• CIV–SCHOLAR–RUSSIA learns only from MEM files listed here
+• This index constrains what may be learned, not what is believed
 
 ────────────────────────────────────────────────────────────
-II. INDEX GOVERNANCE (LOCKED RULES)
+V. VERSIONING & ADDITIVE-ONLY GUARANTEE
 ────────────────────────────────────────────────────────────
-• Additive entries only
-• No deletions or reordering
-• Filenames must match repository exactly
-• Contradictions are preserved without resolution
-• Version bump required for any structural change
+v1.5 establishes:
+• Canonical section order (A–H)
+• Explicit authority boundary declarations
+• Full compatibility with divergent Scholar development paths
+• Footer-based audit metadata (WORDCOUNT)
 
-This index is **authoritative for Scholar ingestion order**.
-
-────────────────────────────────────────────────────────────
-III. CANONICAL FILE LIST (MEM–RUSSIA)
-────────────────────────────────────────────────────────────
-
-A) CIVILIZATIONAL ORIGINS & FORMATION
-• MEM–RUSSIA–PRIMARY–CHRONICLE.md
-• MEM–RUSSIA–KIEVAN–RUS.md
-• MEM–RUSSIA–RURIK.md
-• MEM–RUSSIA–OLEG–NOVGORAD.md
-• MEM–RUSSIA–VLADIMIR–GREAT.md
-• MEM–RUSSIA–YAROSLAV–WISE.md
-
-B) STATE CORE & DYNASTIC CONTINUITY
-• MEM–RUSSIA–MUSCOVY.md
-• MEM–RUSSIA–IVAN–III.md
-• MEM–RUSSIA–IVAN–IV.md
-• MEM–RUSSIA–TIME–TROUBLES.md
-• MEM–RUSSIA–DYNASTY–RURIKID.md
-• MEM–RUSSIA–DYNASTY–ROMANOV.md
-
-C) RELIGION, LEGITIMACY & IDEOLOGY
-• MEM–RUSSIA–ORTHODOX–CHRISTIAN.md
-• MEM–RUSSIA–CONSTANTINOPLE.md
-• MEM–RUSSIA–THIRD–ROME.md
-
-D) WAR SYSTEMS & STRUCTURAL CONFLICTS
-• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
-• MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md
-• MEM–RUSSIA–WAR–OTTOMAN.md
-• MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
-• MEM–RUSSIA–WAR–GREAT–NORTHERN.md
-• MEM–RUSSIA–WAR–POLTAVA.md
-
-E) KEY FIGURES & COMMANDERS
-• MEM–RUSSIA–ALEXANDER–NEVSKY.md
-• MEM–RUSSIA–PETER–GREAT.md
-• MEM–RUSSIA–CATHERINE–GREAT.md
-• MEM–RUSSIA–POTEMPKIN.md
-• MEM–RUSSIA–PANIN.md
-• MEM–RUSSIA–SUVOROV.md
-
-F) BORDERLANDS, NEIGHBORS & CIVILIZATIONAL MIRRORS
-• MEM–RUSSIA–UKRAINE.md
-• MEM–RUSSIA–BELARUS.md
-• MEM–RUSSIA–POLAND.md
-• MEM–RUSSIA–FINLAND.md
-• MEM–RUSSIA–SWEDEN.md
-
-G) GEOGRAPHY — MACRO REGIONS & CORRIDORS
-• MEM–RUSSIA–GEO–STEPPE.md
-• MEM–RUSSIA–GEO–FOREST–ZONE.md
-• MEM–RUSSIA–GEO–TAIGA.md
-• MEM–RUSSIA–GEO–TUNDRA.md
-• MEM–RUSSIA–GEO–SIBERIA.md
-
-H) GEOGRAPHY — RIVERS, SEAS & OCEANS
-• MEM–RUSSIA–GEO–DNEIPER.md
-• MEM–RUSSIA–GEO–VOLGA.md
-• MEM–RUSSIA–GEO–DON–RIVER.md
-• MEM–RUSSIA–GEO–AZOV–SEA.md
-• MEM–RUSSIA–GEO–BLACK–SEA.md
-• MEM–RUSSIA–GEO–BALTIC–SEA.md
-• MEM–RUSSIA–GEO–CASPIAN–SEA.md
-• MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
-• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
-• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
-
-I) CITIES, NODES & STRATEGIC PLACES
-• MEM–RUSSIA–NOVGORAD.md
-• MEM–RUSSIA–KIEV.md
-• MEM–RUSSIA–CRIMEA.md
-• MEM–RUSSIA–GEO–CRIMEA.md
+Future versions:
+• May add metadata
+• May NOT reorder sections
+• May NOT delete registered files
+• May NOT introduce interpretation
 
 ────────────────────────────────────────────────────────────
-IV. POST-ECOLOGY DEVELOPMENT BOUNDARIES
+FOOTER METADATA
 ────────────────────────────────────────────────────────────
-Future MEM–RUSSIA files should prioritize:
-• Institutional mechanisms
-• Legal-administrative evolution
-• Economic extraction systems
-• Security organs
-• Modern-era transformation shocks
-
-Pure ecology files are now **out-of-scope** unless micro-technical.
+WORDCOUNT: [Auto-calculated]
+TOTAL REGISTERED FILES:  Fifty-six (56) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
-V. SCHOLAR MODE CONSUMPTION RULE
-────────────────────────────────────────────────────────────
-Scholar engines must:
-• Ingest Sections G–H before war or doctrine synthesis
-• Treat ecological layers as fixed constraints
-• Flag violations of ecological feasibility
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v1.2
+END OF FILE — CIV–INDEX–RUSSIA — v1.5
 ────────────────────────────────────────────────────────────
