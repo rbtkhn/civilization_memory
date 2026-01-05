@@ -1,120 +1,138 @@
-CIV–INDEX–RUSSIA — v1.0
+CIV–INDEX–RUSSIA — v1.2
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
+Status: ACTIVE · CANONICAL · POST-ECOLOGY ERA
 Civilization: RUSSIA
-Subject: Russia Memory Index (Authoritative File Register)
-Dates: 1200s AD–present (coverage expanding)
+Subject: Russia Memory Index (Authoritative Registry)
+Dates: 1200s AD–present
 Class: CIV (Index)
+Supersedes: CIV–INDEX–RUSSIA v1.1 (LOCKED)
 Last Update: January 2026
-Wordcount: [TBD]
-
-TOTAL REGISTERED FILES: 4 MEM–RUSSIA OBJECTS
-
-Template Alignment: CIV–MEM–CORE v1.5 (Index-Compatible)
+Wordcount: [Auto]
+Total Registered Files: [Auto]
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & INDEX GOVERNANCE
+I. INDEX PURPOSE & ERA DECLARATION
 ────────────────────────────────────────────────────────────
-This file is the authoritative register of all MEM–RUSSIA files.
+This file is the **authoritative registry** of all MEM–RUSSIA files
+following completion of the **Ecological Stack** (Tundra → Taiga →
+Forest → Steppe).
 
-Rules:
-• This index is additive-only unless explicitly restructured.
-• Every new MEM–RUSSIA file must be appended here within the same session
-  it is created or added to the repository.
-• Filenames listed here are canonical references for Scholar Mode
-  ingestion and cross-audit scaffolds.
+v1.2 marks the **POST-ECOLOGY ERA**, meaning:
+• All future Russian memory development assumes a completed
+  environmental substrate.
+• New files are interpreted against this fixed ecological baseline.
+• No further GEO/ECOLOGY primitives are expected except sub-layers
+  (technical or micro-regional).
 
-Contradictions are preserved without synthesis.
+This index is registrational only.
+No synthesis, doctrine, or interpretation is permitted.
 
 ────────────────────────────────────────────────────────────
-II. INDEX GOVERNANCE (RUSSIA)
+II. INDEX GOVERNANCE (LOCKED RULES)
 ────────────────────────────────────────────────────────────
-A) Naming & Scope Compliance
-• Every entry must match the exact repository filename.
-• No “PERSON” token in filenames.
-• Domain token required only when used by the file taxonomy
-  (e.g., DYNASTY, WAR, GEO, LAW, ECON, RELIGION).
+• Additive entries only
+• No deletions or reordering
+• Filenames must match repository exactly
+• Contradictions are preserved without resolution
+• Version bump required for any structural change
 
-B) Minimal Metadata Per Entry (mandatory)
-• File: {exact filename}
-• Status: ACTIVE / SOFTLOCKED / LOCKED / FROZEN
-• Dates: {range}
-• One-line Function: {what civilizational mechanic it stores}
-
-C) Cross-Audit Readiness Tag (optional but recommended)
-• Tags: {ANGLIA | GERMANIA | FRANCIA | ROME | CHINA | ISLAM | INDIA | PERSIA}
-  to mark frequent interaction counterparts.
+This index is **authoritative for Scholar ingestion order**.
 
 ────────────────────────────────────────────────────────────
 III. CANONICAL FILE LIST (MEM–RUSSIA)
 ────────────────────────────────────────────────────────────
 
-A) DYNASTY / REGIME CONTINUITY
-• File: MEM–RUSSIA–DYNASTY–ROMANOV.md
-  Status: ACTIVE
-  Dates: 1613–1917 AD
-  Function: Dynastic endurance grammar; modernization-pressure management; collapse pathway.
-  Tags: ANGLIA, GERMANIA, FRANCIA
+A) CIVILIZATIONAL ORIGINS & FORMATION
+• MEM–RUSSIA–PRIMARY–CHRONICLE.md
+• MEM–RUSSIA–KIEVAN–RUS.md
+• MEM–RUSSIA–RURIK.md
+• MEM–RUSSIA–OLEG–NOVGORAD.md
+• MEM–RUSSIA–VLADIMIR–GREAT.md
+• MEM–RUSSIA–YAROSLAV–WISE.md
 
-B) REVOLUTION / RUPTURE
-• File: MEM–RUSSIA–LENIN.md
-  Status: ACTIVE
-  Dates: 1870–1924 AD (regime focus 1917–1924)
-  Function: Rupture engine; party-as-state substitution; legitimacy destruction mechanics.
-  Tags: GERMANIA, FRANCIA, ANGLIA
+B) STATE CORE & DYNASTIC CONTINUITY
+• MEM–RUSSIA–MUSCOVY.md
+• MEM–RUSSIA–IVAN–III.md
+• MEM–RUSSIA–IVAN–IV.md
+• MEM–RUSSIA–TIME–TROUBLES.md
+• MEM–RUSSIA–DYNASTY–RURIKID.md
+• MEM–RUSSIA–DYNASTY–ROMANOV.md
 
-C) IMPERIAL ORIGINS / DEPTH FORMATION
-• File: MEM–RUSSIA–MONGOL–EMPIRE.md
-  Status: ACTIVE
-  Dates: 1206–1368 AD (Rus’ subjection focus 1237–1480)
-  Function: Compression-template seeding; tribute-state habits; sovereignty reflex formation.
-  Tags: ROME, ISLAM
+C) RELIGION, LEGITIMACY & IDEOLOGY
+• MEM–RUSSIA–ORTHODOX–CHRISTIAN.md
+• MEM–RUSSIA–CONSTANTINOPLE.md
+• MEM–RUSSIA–THIRD–ROME.md
 
-D) CONSOLIDATION / COMPRESSION
-• File: MEM–RUSSIA–STALIN.md
-  Status: ACTIVE
-  Dates: 1878–1953 AD (rule focus 1924–1953)
-  Function: Consolidation after rupture; industrial-mobilization compression; security-state hardening.
-  Tags: GERMANIA, ANGLIA
+D) WAR SYSTEMS & STRUCTURAL CONFLICTS
+• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
+• MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md
+• MEM–RUSSIA–WAR–OTTOMAN.md
+• MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
+• MEM–RUSSIA–WAR–GREAT–NORTHERN.md
+• MEM–RUSSIA–WAR–POLTAVA.md
+
+E) KEY FIGURES & COMMANDERS
+• MEM–RUSSIA–ALEXANDER–NEVSKY.md
+• MEM–RUSSIA–PETER–GREAT.md
+• MEM–RUSSIA–CATHERINE–GREAT.md
+• MEM–RUSSIA–POTEMPKIN.md
+• MEM–RUSSIA–PANIN.md
+• MEM–RUSSIA–SUVOROV.md
+
+F) BORDERLANDS, NEIGHBORS & CIVILIZATIONAL MIRRORS
+• MEM–RUSSIA–UKRAINE.md
+• MEM–RUSSIA–BELARUS.md
+• MEM–RUSSIA–POLAND.md
+• MEM–RUSSIA–FINLAND.md
+• MEM–RUSSIA–SWEDEN.md
+
+G) GEOGRAPHY — MACRO REGIONS & CORRIDORS
+• MEM–RUSSIA–GEO–STEPPE.md
+• MEM–RUSSIA–GEO–FOREST–ZONE.md
+• MEM–RUSSIA–GEO–TAIGA.md
+• MEM–RUSSIA–GEO–TUNDRA.md
+• MEM–RUSSIA–GEO–SIBERIA.md
+
+H) GEOGRAPHY — RIVERS, SEAS & OCEANS
+• MEM–RUSSIA–GEO–DNEIPER.md
+• MEM–RUSSIA–GEO–VOLGA.md
+• MEM–RUSSIA–GEO–DON–RIVER.md
+• MEM–RUSSIA–GEO–AZOV–SEA.md
+• MEM–RUSSIA–GEO–BLACK–SEA.md
+• MEM–RUSSIA–GEO–BALTIC–SEA.md
+• MEM–RUSSIA–GEO–CASPIAN–SEA.md
+• MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
+• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
+• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
+
+I) CITIES, NODES & STRATEGIC PLACES
+• MEM–RUSSIA–NOVGORAD.md
+• MEM–RUSSIA–KIEV.md
+• MEM–RUSSIA–CRIMEA.md
+• MEM–RUSSIA–GEO–CRIMEA.md
 
 ────────────────────────────────────────────────────────────
-IV. COVERAGE GAPS (NEXT FILE PRIORITIES)
+IV. POST-ECOLOGY DEVELOPMENT BOUNDARIES
 ────────────────────────────────────────────────────────────
-Priority list is non-binding, but guides fast expansion.
+Future MEM–RUSSIA files should prioritize:
+• Institutional mechanisms
+• Legal-administrative evolution
+• Economic extraction systems
+• Security organs
+• Modern-era transformation shocks
 
-1) GEO
-• MEM–RUSSIA–GEO–STEPPE
-• MEM–RUSSIA–GEO–BLACK–SEA
-• MEM–RUSSIA–GEO–BALTIC
-• MEM–RUSSIA–GEO–CAUCASUS
-• MEM–RUSSIA–GEO–SIBERIA
-
-2) WAR / SHOCK EVENTS
-• MEM–RUSSIA–WAR–NAPOLEON–1812
-• MEM–RUSSIA–WAR–CRIMEAN
-• MEM–RUSSIA–WAR–WWII (EASTERN FRONT SYSTEM)
-• MEM–RUSSIA–WAR–AFGHANISTAN
-
-3) STATE FORMATION / LEGITIMACY LOGIC
-• MEM–RUSSIA–IVAN–III
-• MEM–RUSSIA–IVAN–IV
-• MEM–RUSSIA–PETER–GREAT
-• MEM–RUSSIA–CATHERINE–GREAT
-
-4) ECON / LAW / SECURITY ORGANS
-• MEM–RUSSIA–SECURITY–CHEKA–OGPU–NKVD–KGB
-• MEM–RUSSIA–ECON–ENERGY–EXPORT–STATECRAFT
-• MEM–RUSSIA–LAW–SOVEREIGNTY–ABSOLUTE
+Pure ecology files are now **out-of-scope** unless micro-technical.
 
 ────────────────────────────────────────────────────────────
-V. SCHOLAR MODE CONSUMPTION HOOK (RUSSIA)
+V. SCHOLAR MODE CONSUMPTION RULE
 ────────────────────────────────────────────────────────────
-Scholar Mode may treat this index as the authoritative retrieval list:
-• ingest filenames listed in Section III before any Russia deep-dive
-• use Section IV as the expansion backlog during development sprints
+Scholar engines must:
+• Ingest Sections G–H before war or doctrine synthesis
+• Treat ecological layers as fixed constraints
+• Flag violations of ecological feasibility
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v1.0
+END OF FILE — CIV–INDEX–RUSSIA v1.2
 ────────────────────────────────────────────────────────────
