@@ -1,19 +1,23 @@
-MEM–RUSSIA–INDEX — v1.0
-Civilizational Memory Codex · Memory File
+CIV–INDEX–RUSSIA — v1.0
+Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
+
 Status: ACTIVE
 Civilization: RUSSIA
-Subject: Russia Memory Index
+Subject: Russia Memory Index (Authoritative File Register)
 Dates: 1200s AD–present (coverage expanding)
-Class: MEM (Memory)
+Class: CIV (Index)
 Last Update: January 2026
+Wordcount: [TBD]
+
+TOTAL REGISTERED FILES: 4 MEM–RUSSIA OBJECTS
+
+Template Alignment: CIV–MEM–CORE v1.5 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
-I. MEMORY PURPOSE & SCOPE
+I. PURPOSE & INDEX GOVERNANCE
 ────────────────────────────────────────────────────────────
-This file preserves a complete, navigable index of all MEM–RUSSIA files.
-It functions as the authoritative inventory layer for Scholar Mode and
-cross-civilizational audits.
+This file is the authoritative register of all MEM–RUSSIA files.
 
 Rules:
 • This index is additive-only unless explicitly restructured.
@@ -112,5 +116,5 @@ Scholar Mode may treat this index as the authoritative retrieval list:
 • use Section IV as the expansion backlog during development sprints
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–INDEX — v1.0
+END OF FILE — CIV–INDEX–RUSSIA — v1.0
 ────────────────────────────────────────────────────────────
