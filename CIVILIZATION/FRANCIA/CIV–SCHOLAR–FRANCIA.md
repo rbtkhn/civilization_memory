@@ -1,15 +1,15 @@
-CIV–SCHOLAR–FRANCIA — v1.0
+CIV–SCHOLAR–FRANCIA — v1.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
-Activation State: ACTIVATED (READ-ONLY)
+Activation State: DEACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-SCHOLAR WORD COUNT: ~3,050
+SCHOLAR WORD COUNT: ~3,900
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -164,6 +164,54 @@ Belief Status:
 • UNFROZEN
 
 ────────────────────────────────────────────────────────────
+
+ENTRY 0008
+Source:
+• MEM–FRANCIA–WAR–CRUSADES — v1.0
+
+Ingest Type:
+• Pre-State Martial Identity Memory
+
+Primary Belief Extracted:
+• Francia forges civilizational identity through outward noble
+  violence and sacred myth prior to centralized sovereignty.
+
+Belief Status:
+• UNFROZEN
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0009
+Source:
+• MEM–FRANCIA–NAPOLEONIC–CODE — v1.0
+
+Ingest Type:
+• Legal Reset Memory
+
+Primary Belief Extracted:
+• Francia restores legitimacy after rupture through declarative
+  codification, substituting universal law for procedural trust.
+
+Belief Status:
+• UNFROZEN
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0010
+Source:
+• MEM–FRANCIA–NOTRE–DAME — v1.0
+
+Ingest Type:
+• Symbolic Continuity Memory
+
+Primary Belief Extracted:
+• Francia preserves legitimacy across regime and belief rupture
+  through enduring symbolic architecture that absorbs ideological change.
+
+Belief Status:
+• UNFROZEN
+
+────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
@@ -197,6 +245,17 @@ Outcome:
 
 Status:
 • FROZEN
+
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0004 (ENTRIES 0006, 0008, 0009, 0010)
+Outcome:
+• Francia repeatedly converts defeat and rupture into renewed
+  authority by reasserting universal legitimacy through myth,
+  law, and symbol rather than procedural continuity.
+
+Status:
+• FROZEN (CONTROLLED SYNTHESIS)
 
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
@@ -272,9 +331,9 @@ Permitted:
 ────────────────────────────────────────────────────────────
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
-Scholar State: ACTIVE (READ-ONLY)
+Scholar State: INACTIVE (READ-ONLY)
 Doctrine Count: 4
-Total Entries: 7
+Total Entries: 10
 Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
@@ -300,5 +359,19 @@ New beliefs, if ingested in future versions, must be staged as:
 No belief may advance stages without explicit command.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–FRANCIA v1.0
+XI. RECORDED LEARNING EVENTS (META)
+────────────────────────────────────────────────────────────
+LEARNING EVENT 0001
+Description:
+• Upgrade from v1.0 to v1.1 expanded Francia’s scholar depth by
+  integrating pre-state myth (Crusades), systemic defeat (Seven
+  Years’ War), legal reset (Napoleonic Code), and symbolic continuity
+  (Notre-Dame), producing a clearer model of how Francia converts
+  rupture into renewed declarative authority.
+
+Status:
+• RECORDED · NON-DOCTRINAL
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–FRANCIA v1.1
 ────────────────────────────────────────────────────────────
