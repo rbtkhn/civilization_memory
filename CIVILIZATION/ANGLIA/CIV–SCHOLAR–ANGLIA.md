@@ -1,24 +1,22 @@
-CIV–SCHOLAR–ANGLIA — v0.5
+CIV–SCHOLAR–ANGLIA — v0.6
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
-Status: ACTIVE · CANONICAL · WRITE-LOCKED
+Status: ACTIVE · WRITE-LOCKED
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-Derived from: CIV–SCHOLAR–TEMPLATE v1.0
-Upgrade Type: INITIAL INSTANTIATION (Parallel to CIV–SCHOLAR–RUSSIA v0.5)
+Upgrade Type: ADDITIVE EXTENSION (v0.5 → v0.6)
 Upgrade Scope:
-• Structural instantiation only
-• No ingestion
-• No synthesis
-• No doctrine
+• No modification to Sections I–XII
+• Sections XIII–XV appended only
+• No retroactive edits
 • No CIV–CORE propagation
 
-WORDCOUNT: 1186
+WORDCOUNT: ~4,100
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -180,5 +178,161 @@ Future versions:
 • May NOT bypass governance rules
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ANGLIA v0.5
+XIII. INGESTED LEARNING EVENTS (ADDITIVE LOG)
+────────────────────────────────────────────────────────────
+
+ENTRY 0001
+Source:
+• MEM–ANGLIA–ALFRED — v1.0
+Ingest Type:
+• Survival Sovereign Memory
+Primary Belief Extracted:
+• Civilizational survival precedes sovereignty; law and learning function
+  as continuity infrastructure under existential threat.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0002
+Source:
+• MEM–ANGLIA–WAR–VIKINGS — v1.0
+Ingest Type:
+• Existential Conflict Memory
+Primary Belief Extracted:
+• Prolonged annihilation pressure accelerates institutional maturity;
+  defense systems and law emerge before political unity.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0003
+Source:
+• MEM–ANGLIA–DYNASTY–WESSEX — v1.0
+Ingest Type:
+• State Formation Memory
+Primary Belief Extracted:
+• Personal kingship can unify territory but fails to generate durable
+  institutional continuity.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0004
+Source:
+• MEM–ANGLIA–WAR–HASTINGS — v1.3
+Ingest Type:
+• Rupture & Elite Replacement Memory
+Primary Belief Extracted:
+• Catastrophic defeat is survivable when institutions persist through
+  elite replacement rather than annihilation.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0005
+Source:
+• MEM–ANGLIA–DYNASTY–NORMANDY — v1.2
+Ingest Type:
+• Administrative Hybridization Memory
+Primary Belief Extracted:
+• Conquest can function as administrative upgrade when new elites adopt
+  and extend existing procedural grammars.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0006
+Source:
+• MEM–ANGLIA–MAGNA–CARTA — v1.0
+Ingest Type:
+• Constraint Formation Memory
+Primary Belief Extracted:
+• Legitimacy migrates from personal authority to negotiated procedure
+  through survivable precedent rather than enforcement success.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0007
+Source:
+• MEM–ANGLIA–COMMON–LAW — v1.0
+Ingest Type:
+• Procedural Continuity Memory
+Primary Belief Extracted:
+• Law can function as accumulated civilizational memory, enabling regime
+  replacement and defeat without reset.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0008
+Source:
+• MEM–ANGLIA–ATHELSTAN — v1.1
+Ingest Type:
+• Post-Survival Unification Memory
+Primary Belief Extracted:
+• Law and delegated institutions scale authority more durably than
+  charisma, enabling unity to survive succession.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0009
+Source:
+• MEM–ANGLIA–WAR–YORKTOWN — v1.1
+Ingest Type:
+• Procedural Defeat Memory
+Primary Belief Extracted:
+• Defeat can preserve legitimacy when processed through recognized
+  institutions and negotiated exit.
+Belief Status:
+• UNFROZEN
+
+────────────────────────────────────────────────────────────
+XIV. BELIEF SYNTHESIS LOG (ADDITIVE)
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0001 (0001–0002)
+Outcome:
+• Survival pressure forces early institutionalization of law, defense,
+  and memory before sovereignty stabilizes.
+Status:
+• UNFROZEN
+
+SYNTHESIS 0002 (0003–0004)
+Outcome:
+• Personal kingship collapses under invasion; elite replacement enables
+  continuity when institutions persist.
+Status:
+• FROZEN
+
+SYNTHESIS 0003 (0006–0007)
+Outcome:
+• Procedure functions as civilizational memory, enabling continuity
+  across defeat, regime change, and moral contradiction.
+Status:
+• FROZEN
+
+SYNTHESIS 0010 (0001–0007)
+Outcome:
+• Anglia survives defeat through sequenced absorption: survival →
+  rupture → elite replacement → procedural constraint → legal memory.
+Status:
+• FROZEN
+
+────────────────────────────────────────────────────────────
+XV. DOCTRINE FREEZE RECORD (REFERENCE ONLY)
+────────────────────────────────────────────────────────────
+
+DOCTRINE v0.1 — “PROCEDURE AS CIVILIZATIONAL MEMORY”
+Source:
+• SYNTHESIS 0003
+State:
+• FROZEN · CANONICAL
+
+DOCTRINE v0.4 — “SEQUENCED SURVIVAL: FROM RUPTURE TO MEMORY”
+Source:
+• SYNTHESIS 0010
+State:
+• FROZEN · CANONICAL
+
+Note:
+• Doctrines are authoritatively registered in CIV–DOCTRINE–ANGLIA
+• This section records provenance only
+• No doctrine authority originates here
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–ANGLIA v0.6
 ────────────────────────────────────────────────────────────
