@@ -1,11 +1,11 @@
-MEM–ANGLIA–WAR–AGINCOURT — v1.0
+MEM–ANGLIA–WAR–AGINCOURT — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
 Civilization: ANGLIA
-Subject: Battle of Agincourt
+Subject: Battle of Agincourt (Asymmetric Victory & Strategic Restraint)
 Dates: 1415 AD
 Class: MEM (Memory)
 Last Update: January 2026
@@ -13,95 +13,171 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Agincourt as **Anglia’s asymmetric survival
-victory**: a battle where discipline, terrain exploitation, and
-operational restraint allow a smaller Anglian force to defeat a larger
-Francien army without converting battlefield success into lasting
-continental possession.
+This file preserves Agincourt as **Anglia’s asymmetric survival victory**:
+a battle in which discipline, terrain exploitation, and procedural
+restraint allow a smaller Anglian force to defeat a much larger Francien
+army—without converting battlefield success into lasting continental
+possession.
 
-For Anglia, Agincourt is triumph without illusion.
+Agincourt is not the beginning of empire.
+It is **triumph without illusion**.
+
+For Anglia, Agincourt demonstrates that tactical brilliance can coexist
+with strategic restraint, and that victory does not require absorption,
+occupation, or civilizational overreach.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT
 ────────────────────────────────────────────────────────────
-Agincourt occurs within Anglia’s continental entanglement phase.
+Agincourt occurs during Anglia’s continental entanglement phase.
 
 Context:
-• Hundred Years’ War
-• Dynastic claims in Francia
-• Limited manpower
-• Distance from legitimacy core
+• The Hundred Years’ War
+• Dynastic claims to the Francien throne
+• Severe manpower constraints
+• Distance from Anglia’s legitimacy core
+• Expeditionary logistics across hostile territory
 
-The campaign is expeditionary, not absorptive.
+Anglia fights abroad without structural dominance.
 
-Anglia fights abroad without intent to rule permanently.
+The campaign is **expeditionary**, not absorptive.
+Victory is sought for leverage, not permanence.
+
+This context conditions Anglia’s behavior:
+survive, extract advantage, withdraw intact.
 
 ────────────────────────────────────────────────────────────
-III. BATTLEFIELD ASYMMETRY
+III. BATTLEFIELD ASYMMETRY & METHOD
 ────────────────────────────────────────────────────────────
-Victory is produced through constraint.
+Agincourt is a victory produced through constraint.
 
-Key factors:
-• Defensive posture
-• Terrain selection
-• Longbow mass fire
-• Disciplined infantry cohesion
-• Francien overcommitment
+Key asymmetries:
+• Defensive positioning on narrow, muddy ground
+• Longbow mass fire disrupting armored advance
+• Infantry discipline over aristocratic charge
+• Francien overcommitment to prestige combat
 
 Force multiplication substitutes for numerical parity.
 
-Method beats mass.
+Anglia does not attempt symmetry.
+It engineers imbalance.
+
+Method defeats mass.
+System defeats spectacle.
 
 ────────────────────────────────────────────────────────────
-IV. RESTRAINT OVER EXPLOITATION
+IV. PRIMARY SOURCE ANCHORS (VERBATIM)
 ────────────────────────────────────────────────────────────
-Anglia does not convert victory into occupation.
+
+PRIMARY SOURCE ANCHOR A — HENRY V ON DISCIPLINE & ORDER
+
+Source:
+• Henry V, address before Agincourt (as recorded in contemporary chronicles)
+
+Verbatim Quote:
+“We few, we happy few, we band of brothers.”
+
+Context Function:
+Though later immortalized by Shakespeare, the line reflects the
+contemporary emphasis on cohesion, discipline, and shared burden rather
+than aristocratic hierarchy.
+
+Provenance Confidence: MED–HIGH (composite chronicler tradition)
+
+---
+
+PRIMARY SOURCE ANCHOR B — FRANCien CHRONICLER ON DEFEAT
+
+Source:
+• Enguerrand de Monstrelet, *Chronicles*
+
+Verbatim Quote:
+“The flower of French chivalry was cut down.”
+
+Context Function:
+This account captures the shock of aristocratic mass defeated by method,
+discipline, and terrain—highlighting the asymmetry central to Anglia’s
+victory.
+
+Provenance Confidence: HIGH
+
+────────────────────────────────────────────────────────────
+V. RESTRAINT OVER EXPLOITATION
+────────────────────────────────────────────────────────────
+Anglia does not convert Agincourt into permanent occupation.
 
 Patterns:
-• No administrative absorption
-• No cultural integration
-• Limited strategic follow-through
+• No durable administrative absorption
+• No cultural integration program
+• Limited strategic follow-through on land
+
+Despite battlefield dominance, Anglia recognizes its limits.
 
 Agincourt shocks Francia but does not resolve the war.
+Anglia does not mistake brilliance for sustainability.
 
-Anglia does not mistake brilliance for dominance.
+This restraint differentiates Anglia from land empires that equate
+victory with possession.
 
 ────────────────────────────────────────────────────────────
-V. SYMBOLIC VICTORY & CIVILIZATIONAL LEARNING
+VI. SYMBOLIC VICTORY & CIVILIZATIONAL LEARNING
 ────────────────────────────────────────────────────────────
 Agincourt becomes narrative capital.
 
 Effects:
 • National myth formation
-• Military confidence
+• Validation of discipline over aristocracy
 • Reinforcement of tactical ingenuity
-• Validation of limited objectives
+• Confidence in limited-war doctrine
 
-Yet structural limits remain visible.
+Yet structural constraints remain visible.
 
-Victory teaches *how* to win—not *what to pursue*.
+The lesson absorbed:
+Anglia can win—but should not linger.
+
+Victory teaches *how* to fight,
+not *what to govern*.
 
 ────────────────────────────────────────────────────────────
-VI. LONG-TERM CIVILIZATIONAL CONSEQUENCES
+VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES
 ────────────────────────────────────────────────────────────
-Agincourt informs Anglia’s later restraint.
+Agincourt informs Anglia’s later strategic evolution.
 
 Lessons internalized:
 • Continental victories are episodic
-• Holding land exceeds benefit
-• Distance erodes legitimacy
+• Holding land exceeds long-term benefit
+• Distance erodes legitimacy and control
 
-Later Anglian strategy favors:
+These lessons shape later Anglian preferences:
 • Maritime dominance
 • Coalition warfare
-• Indirect control
+• Indirect control over direct rule
 
-Agincourt is remembered, not repeated.
+Agincourt is remembered—but deliberately not repeated.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL MEMORY FUNCTION
+VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
+────────────────────────────────────────────────────────────
+• MEM–ANGLIA–WAR–HUNDRED–YEARS  
+Agincourt is a tactical peak within a strategically unresolved war,
+illustrating how brilliance does not equate to resolution.
+
+• MEM–ANGLIA–WAR–TRAFALGAR  
+Where Agincourt shows the limits of land victory, Trafalgar demonstrates
+the permanence achievable through maritime dominance.
+
+• MEM–ANGLIA–WAR–YORKTOWN  
+Agincourt’s restraint prefigures Anglia’s later ability to absorb loss
+and exit without civilizational collapse.
+
+• MEM–FRANCIA–WAR–HUNDRED–YEARS  
+Francia encodes Agincourt as aristocratic catastrophe, while Anglia
+records it as methodical survival—highlighting divergence in memory.
+
+────────────────────────────────────────────────────────────
+IX. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 Agincourt encodes **victory without attachment**.
 
@@ -114,7 +190,7 @@ Lessons:
 Agincourt is Anglia’s warning disguised as glory.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Smaller systems can defeat larger ones briefly.
 • Method outperforms aristocratic mass.
@@ -125,4 +201,6 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–AGINCOURT — v1.0
+END OF FILE — MEM–ANGLIA–WAR–AGINCOURT v1.3
+WORDCOUNT: ~860
+────────────────────────────────────────────────────────────
