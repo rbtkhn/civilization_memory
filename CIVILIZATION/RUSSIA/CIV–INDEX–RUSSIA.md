@@ -65,6 +65,9 @@ A) GEO
 • MEM–RUSSIA–GEO–CRIMEA.md  
 • MEM–RUSSIA–GEO–WHITE–SEA.md  
 • MEM–RUSSIA–GEO–URALS.md  
+• MEM–RUSSIA–GEO–NEVA.md  
+• MEM–RUSSIA–GEO–LAKE–BAIKAL.md  
+• MEM–RUSSIA–GEO–LAKE–LADOGA.md  
 
 B) DYNASTY
 
@@ -83,6 +86,9 @@ C) WAR
 • MEM–RUSSIA–WAR–SEVEN–YEARS.md  
 • MEM–RUSSIA–WAR–CRIMEAN.md  
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md  
+• MEM–RUSSIA–WAR–VIKINGS.md  
+• MEM–RUSSIA–WAR–BORODINO.md  
+• MEM–RUSSIA–WAR–NAPOLEON.md  
 
 D) LAW
 
@@ -111,6 +117,8 @@ G) PERSON
 • MEM–RUSSIA–POTEMPKIN.md  
 • MEM–RUSSIA–PANIN.md  
 • MEM–RUSSIA–SUVOROV.md  
+• MEM–RUSSIA–KUTUZOV.md  
+• MEM–RUSSIA–ALEXANDER–I.md  
 
 H) OTHER / MISC
 
@@ -131,6 +139,8 @@ H) OTHER / MISC
 • MEM–RUSSIA–JAPAN.md  
 • MEM–RUSSIA–SERFDOM.md  
 • MEM–RUSSIA–EMANCIPATION.md  
+• MEM–RUSSIA–VARANGIANS.md  
+• MEM–RUSSIA–CONGRESS–OF–VIENNA.md  
 
 ────────────────────────────────────────────────────────────
 III. INDEX LOCK & PROPAGATION CLAUSE
@@ -181,7 +191,7 @@ Future versions:
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 WORDCOUNT: [Auto-calculated]
-TOTAL REGISTERED FILES:  Sixty-six (66) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES:  Seventy-nine (79) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–RUSSIA — v1.5
