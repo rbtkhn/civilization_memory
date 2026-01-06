@@ -1,16 +1,16 @@
-CIV–INDEX–ANGLIA — v1.4
+CIV–INDEX–ANGLIA — v1.5
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL
-Version: 1.4
+Status: ACTIVE · CANONICAL · LOCKED
+Version: 1.5
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 78 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 93 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -76,6 +76,14 @@ C) WAR
 • MEM–ANGLIA–WAR–AMERICAN–CIVIL.md
 • MEM–ANGLIA–WAR–CRIMEAN.md
 • MEM–ANGLIA–WAR–WATERLOO.md
+• MEM–ANGLIA–WAR–GETTYSBURG.md
+• MEM–ANGLIA–WAR–VICKSBURG.md
+• MEM–ANGLIA–WAR–APPOMATTOX.md
+• MEM–ANGLIA–WAR–YORKTOWN.md
+• MEM–ANGLIA–WAR–AGINCOURT.md
+• MEM–ANGLIA–WAR–HASTINGS.md
+• MEM–ANGLIA–WAR–CRECY.md
+• MEM–ANGLIA–WAR–SPANISH–AMERICAN.md
 
 D) LAW
 • MEM–ANGLIA–COMMON–LAW.md
@@ -120,6 +128,12 @@ G) PERSON
 • MEM–ANGLIA–BURKE.md
 • MEM–ANGLIA–NEWTON.md
 • MEM–ANGLIA–CHURCHILL.md
+• MEM–ANGLIA–DARWIN.md
+• MEM–ANGLIA–LOCKE.md
+• MEM–ANGLIA–HOBBES.md
+• MEM–ANGLIA–HUME.md
+• MEM–ANGLIA–SMITH.md
+• MEM–ANGLIA–PAINE.md
 
 H) OTHER / MISC
 • MEM–ANGLIA–ENGLAND.md
@@ -134,6 +148,8 @@ H) OTHER / MISC
 • MEM–ANGLIA–BELGIUM.md
 • MEM–ANGLIA–AFRICAN–SLAVERY.md
 • MEM–ANGLIA–NATIVE–AMERICANS.md
+• MEM–ANGLIA–SOUTH–AFRICA.md
+• MEM–ANGLIA–FEDERALIST–PAPERS.md
 
 ────────────────────────────────────────────────────────────
 III. DEPRECATIONS
@@ -144,15 +160,15 @@ III. DEPRECATIONS
 ────────────────────────────────────────────────────────────
 IV. VERSION NOTE
 ────────────────────────────────────────────────────────────
-v1.4 registers all newly created MEM–ANGLIA files since v1.3.
+v1.5 registers all newly created MEM–ANGLIA files since v1.4.
 This upgrade is additive only and preserves all prior index structure,
 ordering, and governance rules.
 
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-WORDCOUNT: 623
+WORDCOUNT: 686
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v1.4
+END OF FILE — CIV–INDEX–ANGLIA — v1.5
 ────────────────────────────────────────────────────────────
