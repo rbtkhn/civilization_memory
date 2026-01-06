@@ -45,153 +45,100 @@ II. FILE REGISTER — RUSSIA
 ────────────────────────────────────────────────────────────
 
 A) GEO
-
-• MEM–RUSSIA–GEO–DNEIPER.md  
-• MEM–RUSSIA–GEO–VOLGA.md  
-• MEM–RUSSIA–GEO–DON–RIVER.md  
-• MEM–RUSSIA–GEO–AZOV–SEA.md  
-• MEM–RUSSIA–GEO–BLACK–SEA.md  
-• MEM–RUSSIA–GEO–BALTIC–SEA.md  
-• MEM–RUSSIA–GEO–CASPIAN–SEA.md  
-• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md  
-• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md  
-• MEM–RUSSIA–GEO–ARCTIC–OCEAN.md  
-• MEM–RUSSIA–GEO–STEPPE.md  
-• MEM–RUSSIA–GEO–FOREST–ZONE.md  
-• MEM–RUSSIA–GEO–TAIGA.md  
-• MEM–RUSSIA–GEO–TUNDRA.md  
-• MEM–RUSSIA–GEO–SIBERIA.md  
-• MEM–RUSSIA–GEO–CAUCASUS.md  
-• MEM–RUSSIA–GEO–CRIMEA.md  
-• MEM–RUSSIA–GEO–WHITE–SEA.md  
-• MEM–RUSSIA–GEO–URALS.md  
-• MEM–RUSSIA–GEO–NEVA.md  
-• MEM–RUSSIA–GEO–LAKE–BAIKAL.md  
-• MEM–RUSSIA–GEO–LAKE–LADOGA.md  
+• MEM–RUSSIA–GEO–DNEIPER.md
+• MEM–RUSSIA–GEO–VOLGA.md
+• MEM–RUSSIA–GEO–DON–RIVER.md
+• MEM–RUSSIA–GEO–AZOV–SEA.md
+• MEM–RUSSIA–GEO–BLACK–SEA.md
+• MEM–RUSSIA–GEO–BALTIC–SEA.md
+• MEM–RUSSIA–GEO–CASPIAN–SEA.md
+• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
+• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
+• MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
+• MEM–RUSSIA–GEO–STEPPE.md
+• MEM–RUSSIA–GEO–FOREST–ZONE.md
+• MEM–RUSSIA–GEO–TAIGA.md
+• MEM–RUSSIA–GEO–TUNDRA.md
+• MEM–RUSSIA–GEO–SIBERIA.md
+• MEM–RUSSIA–GEO–CAUCASUS.md
+• MEM–RUSSIA–GEO–CRIMEA.md
+• MEM–RUSSIA–GEO–WHITE–SEA.md
+• MEM–RUSSIA–GEO–URALS.md
+• MEM–RUSSIA–GEO–NEVA.md
+• MEM–RUSSIA–GEO–LAKE–BAIKAL.md
+• MEM–RUSSIA–GEO–LAKE–LADOGA.md
 
 B) DYNASTY
-
-• MEM–RUSSIA–DYNASTY–RURIKID.md  
-• MEM–RUSSIA–DYNASTY–ROMANOV.md  
+• MEM–RUSSIA–DYNASTY–RURIKID.md
+• MEM–RUSSIA–DYNASTY–ROMANOV.md
 
 C) WAR
-
-• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md  
-• MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md  
-• MEM–RUSSIA–WAR–OTTOMAN.md  
-• MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md  
-• MEM–RUSSIA–WAR–GREAT–NORTHERN.md  
-• MEM–RUSSIA–WAR–POLTAVA.md  
-• MEM–RUSSIA–WAR–LIVONIAN.md  
-• MEM–RUSSIA–WAR–SEVEN–YEARS.md  
-• MEM–RUSSIA–WAR–CRIMEAN.md  
-• MEM–RUSSIA–WAR–RUSSO–JAPANESE.md  
-• MEM–RUSSIA–WAR–VIKINGS.md  
-• MEM–RUSSIA–WAR–BORODINO.md  
-• MEM–RUSSIA–WAR–NAPOLEON.md  
+• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
+• MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md
+• MEM–RUSSIA–WAR–OTTOMAN.md
+• MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
+• MEM–RUSSIA–WAR–GREAT–NORTHERN.md
+• MEM–RUSSIA–WAR–POLTAVA.md
+• MEM–RUSSIA–WAR–LIVONIAN.md
+• MEM–RUSSIA–WAR–SEVEN–YEARS.md
+• MEM–RUSSIA–WAR–CRIMEAN.md
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
+• MEM–RUSSIA–WAR–VIKINGS.md
+• MEM–RUSSIA–WAR–BORODINO.md
+• MEM–RUSSIA–WAR–NAPOLEON.md
 
 D) LAW
-
-• MEM–RUSSIA–LAW–SOVEREIGNTY–ABSOLUTE.md  
+• MEM–RUSSIA–LAW–SOVEREIGNTY–ABSOLUTE.md
 
 E) ECON
-
-• MEM–RUSSIA–ECON–ENERGY–EXPORT–STATECRAFT.md  
+• MEM–RUSSIA–ECON–ENERGY–EXPORT–STATECRAFT.md
 
 F) RELIGION
-
-• MEM–RUSSIA–ORTHODOX–CHRISTIAN.md  
-• MEM–RUSSIA–THIRD–ROME.md  
+• MEM–RUSSIA–ORTHODOX–CHRISTIAN.md
+• MEM–RUSSIA–THIRD–ROME.md
 
 G) PERSON
-
-• MEM–RUSSIA–RURIK.md  
-• MEM–RUSSIA–OLEG–NOVGORAD.md  
-• MEM–RUSSIA–VLADIMIR–GREAT.md  
-• MEM–RUSSIA–YAROSLAV–WISE.md  
-• MEM–RUSSIA–ALEXANDER–NEVSKY.md  
-• MEM–RUSSIA–IVAN–III.md  
-• MEM–RUSSIA–IVAN–IV.md  
-• MEM–RUSSIA–PETER–GREAT.md  
-• MEM–RUSSIA–CATHERINE–GREAT.md  
-• MEM–RUSSIA–POTEMPKIN.md  
-• MEM–RUSSIA–PANIN.md  
-• MEM–RUSSIA–SUVOROV.md  
-• MEM–RUSSIA–KUTUZOV.md  
-• MEM–RUSSIA–ALEXANDER–I.md  
+• MEM–RUSSIA–RURIK.md
+• MEM–RUSSIA–OLEG–NOVGORAD.md
+• MEM–RUSSIA–VLADIMIR–GREAT.md
+• MEM–RUSSIA–YAROSLAV–WISE.md
+• MEM–RUSSIA–ALEXANDER–NEVSKY.md
+• MEM–RUSSIA–IVAN–III.md
+• MEM–RUSSIA–IVAN–IV.md
+• MEM–RUSSIA–PETER–GREAT.md
+• MEM–RUSSIA–CATHERINE–GREAT.md
+• MEM–RUSSIA–POTEMPKIN.md
+• MEM–RUSSIA–PANIN.md
+• MEM–RUSSIA–SUVOROV.md
+• MEM–RUSSIA–KUTUZOV.md
+• MEM–RUSSIA–ALEXANDER–I.md
 
 H) OTHER / MISC
-
-• MEM–RUSSIA–PRIMARY–CHRONICLE.md  
-• MEM–RUSSIA–KIEVAN–RUS.md  
-• MEM–RUSSIA–NOVGORAD.md  
-• MEM–RUSSIA–KIEV.md  
-• MEM–RUSSIA–MUSCOVY.md  
-• MEM–RUSSIA–FINLAND.md  
-• MEM–RUSSIA–SWEDEN.md  
-• MEM–RUSSIA–POLAND.md  
-• MEM–RUSSIA–UKRAINE.md  
-• MEM–RUSSIA–BELARUS.md  
-• MEM–RUSSIA–TIME–TROUBLES.md  
-• MEM–RUSSIA–MONGOL–EMPIRE.md  
-• MEM–RUSSIA–GOLDEN–HORDE.md  
-• MEM–RUSSIA–CONSTANTINOPLE.md  
-• MEM–RUSSIA–JAPAN.md  
-• MEM–RUSSIA–SERFDOM.md  
-• MEM–RUSSIA–EMANCIPATION.md  
-• MEM–RUSSIA–VARANGIANS.md  
-• MEM–RUSSIA–CONGRESS–OF–VIENNA.md  
-
-────────────────────────────────────────────────────────────
-III. INDEX LOCK & PROPAGATION CLAUSE
-────────────────────────────────────────────────────────────
-This index is LOCKED.
-
-• Structural changes require a version increment.
-• Content additions are permitted without renumbering.
-• CIV–CORE–RUSSIA must reference this file verbatim.
-• CIV–SCHOLAR–RUSSIA may ingest ONLY files listed here.
-• No Scholar belief, doctrine, or synthesis may alter this index.
-
-This file propagates scope, not meaning.
-
-────────────────────────────────────────────────────────────
-IV. TEMPLATE v1.5 COMPATIBILITY & AUTHORITY BOUNDARIES
-────────────────────────────────────────────────────────────
-This index is registrational only.
-
-Explicit non-functions:
-• Does NOT participate in doctrine evaluation
-• Does NOT participate in belief synthesis
-• Does NOT interface with the Doctrine Intake Buffer (DIB)
-• Does NOT resolve Scholar divergence
-• Does NOT assess historical truth or validity
-
-Authority Boundaries:
-• CIV–CORE–RUSSIA retains sole strategic and doctrinal authority
-• CIV–SCHOLAR–RUSSIA learns only from MEM files listed here
-• This index constrains what may be learned, not what is believed
-
-────────────────────────────────────────────────────────────
-V. VERSIONING & ADDITIVE-ONLY GUARANTEE
-────────────────────────────────────────────────────────────
-v1.5 establishes:
-• Canonical section order (A–H)
-• Explicit authority boundary declarations
-• Full compatibility with divergent Scholar development paths
-• Footer-based audit metadata (WORDCOUNT)
-
-Future versions:
-• May add metadata
-• May NOT reorder sections
-• May NOT delete registered files
-• May NOT introduce interpretation
+• MEM–RUSSIA–PRIMARY–CHRONICLE.md
+• MEM–RUSSIA–KIEVAN–RUS.md
+• MEM–RUSSIA–NOVGORAD.md
+• MEM–RUSSIA–KIEV.md
+• MEM–RUSSIA–MUSCOVY.md
+• MEM–RUSSIA–FINLAND.md
+• MEM–RUSSIA–SWEDEN.md
+• MEM–RUSSIA–POLAND.md
+• MEM–RUSSIA–UKRAINE.md
+• MEM–RUSSIA–BELARUS.md
+• MEM–RUSSIA–TIME–TROUBLES.md
+• MEM–RUSSIA–MONGOL–EMPIRE.md
+• MEM–RUSSIA–GOLDEN–HORDE.md
+• MEM–RUSSIA–CONSTANTINOPLE.md
+• MEM–RUSSIA–JAPAN.md
+• MEM–RUSSIA–SERFDOM.md
+• MEM–RUSSIA–EMANCIPATION.md
+• MEM–RUSSIA–VARANGIANS.md
+• MEM–RUSSIA–CONGRESS–OF–VIENNA.md
 
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-WORDCOUNT: [Auto-calculated]
-TOTAL REGISTERED FILES:  Seventy-nine (79) MEM–RUSSIA OBJECTS
+WORDCOUNT: 556
+TOTAL REGISTERED FILES: Seventy-nine (79) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–RUSSIA — v1.5
