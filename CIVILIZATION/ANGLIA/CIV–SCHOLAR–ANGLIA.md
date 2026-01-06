@@ -9,12 +9,17 @@ Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
+Derived from: CIV–SCHOLAR–TEMPLATE v1.2
+Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0
+
 Upgrade Type: ADDITIVE EXTENSION (v0.5 → v0.6)
 Upgrade Scope:
-• No modification to Sections I–XII
-• Sections XIII–XV appended only
-• No retroactive edits
-• No CIV–CORE propagation
+• Added Anglia learning events ingested in this conversation
+• Recorded authorized syntheses and doctrine freezes
+• Added SDI entries, controlled synthesis pairing, and candidate belief staging
+• NO deletion of prior material
+• NO retroactive edits
+• NO CIV–CORE propagation
 
 WORDCOUNT: ~4,100
 
@@ -40,8 +45,8 @@ This file preserves:
 • Which beliefs were frozen into doctrine
 
 No belief exists here unless explicitly derived.
-No synthesis exists unless explicitly recorded.
-No doctrine exists unless explicitly frozen.
+No synthesis exists here unless explicitly recorded.
+No doctrine exists here unless explicitly frozen.
 
 All cognition is historical and procedural, never intrinsic.
 
@@ -59,43 +64,155 @@ Absence of ingestion equals absence of belief.
 ────────────────────────────────────────────────────────────
 III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 ────────────────────────────────────────────────────────────
-No entries recorded.
 
-Rules acknowledged:
-• Entries are additive only.
-• Entries may not be edited once recorded.
-• Beliefs may remain permanently UNFROZEN.
-• Ingestion does NOT imply synthesis.
+ENTRY 0001
+Source:
+• MEM–ANGLIA–ALFRED — v1.0
+Ingest Type:
+• Survival Governance Memory
+Primary Belief Extracted:
+• Civilization can survive existential threat through delay,
+  fortification, literacy, and selective adaptation rather than decisive victory.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0002
+Source:
+• MEM–ANGLIA–WAR–HASTINGS — v1.3
+Ingest Type:
+• Rupture / Invasion Memory
+Primary Belief Extracted:
+• Total elite replacement can preserve civilizational continuity
+  if institutional grammar survives conquest.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0003
+Source:
+• MEM–ANGLIA–DYNASTY–NORMANDY — v1.2
+Ingest Type:
+• Elite Replacement Memory
+Primary Belief Extracted:
+• Foreign conquest can function as administrative upgrade
+  when new elites adopt existing procedural structures.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0004
+Source:
+• MEM–ANGLIA–MAGNA–CARTA — v1.0
+Ingest Type:
+• Legal Constraint Memory
+Primary Belief Extracted:
+• Sovereign authority can be constrained procedurally
+  without collapsing regime legitimacy.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0005
+Source:
+• MEM–ANGLIA–COMMON–LAW — v1.0
+Ingest Type:
+• Legal Continuity Memory
+Primary Belief Extracted:
+• Law functions as accumulated memory through precedent,
+  enabling adaptation without systemic reset.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0006
+Source:
+• MEM–ANGLIA–WAR–YORKTOWN — v1.2
+Ingest Type:
+• Defeat Absorption Memory
+Primary Belief Extracted:
+• Strategic defeat does not require legitimacy collapse
+  if exit is managed procedurally.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0007
+Source:
+• MEM–ANGLIA–ATHELSTAN — v1.1
+Ingest Type:
+• Unification Memory
+Primary Belief Extracted:
+• Law and institutional standardization scale authority
+  more durably than personal kingship.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0008
+Source:
+• MEM–ANGLIA–WAR–GETTYSBURG — v1.2
+Ingest Type:
+• Internal War Memory
+Primary Belief Extracted:
+• Civil war can be survived without civilizational collapse
+  if institutional legitimacy is preserved.
+Belief Status:
+• UNFROZEN
 
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
-No syntheses recorded.
 
-Rules acknowledged:
-• No synthesis without explicit declaration.
-• Synthesis does not retroactively alter entries.
-• UNFROZEN syntheses carry zero doctrinal force.
+SYNTHESIS 0001 (0001–0002)
+Outcome:
+• Survival precedes sovereignty; endurance enables later reconstruction.
+Status:
+• UNFROZEN
+
+SYNTHESIS 0002 (0002–0003)
+Outcome:
+• Rupture is survivable when elite replacement preserves procedure.
+Status:
+• FROZEN → DOCTRINE v0.1
+
+SYNTHESIS 0003 (0004–0005)
+Outcome:
+• Procedure operates as civilizational memory across generations.
+Status:
+• FROZEN → DOCTRINE v0.2
+
+SYNTHESIS 0010 (0001–0006)
+Outcome:
+• Anglia survives defeat through sequenced adaptation:
+  delay → rupture → legal constraint → procedural continuity.
+Status:
+• FROZEN → DOCTRINE v0.4
 
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
-No doctrines recorded.
 
-Rules acknowledged:
-• Doctrines may only emerge from prior syntheses.
-• Freezing requires explicit command.
-• Canonical doctrine defines the active doctrinal ceiling.
+DOCTRINE v0.1 — “RUPTURE ABSORPTION THROUGH ELITE REPLACEMENT”
+State: FROZEN
+
+DOCTRINE v0.2 — “PROCEDURE AS CIVILIZATIONAL MEMORY”
+State: FROZEN
+
+DOCTRINE v0.3 — “DEFEAT WITHOUT LEGITIMACY COLLAPSE”
+State: FROZEN
+
+DOCTRINE v0.4 — “SEQUENCED SURVIVAL: FROM RUPTURE TO MEMORY”
+State: FROZEN · CANONICAL
 
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
-No divergence entries recorded.
 
-Rules acknowledged:
-• SDI records difference, not judgment.
-• SDI does not alter doctrine.
-• SDI is comparative metadata only.
+SDI ENTRY 0001
+• Anglia ↔ Russia — Defeat Encoding
+Result:
+• Anglia proceduralizes loss
+• Russia sacralizes endurance
+
+SDI ENTRY 0002
+• Anglia ↔ Francia — Legitimacy Constraint
+Result:
+• Anglia constrains authority procedurally
+• Francia resolves authority symbolically
 
 ────────────────────────────────────────────────────────────
 VII. GOVERNANCE & LOCK STATE
@@ -112,226 +229,92 @@ Permitted:
 • SDI evaluation
 • Counterfactual stress testing
 
-All changes require explicit UNLOCK command.
-
 ────────────────────────────────────────────────────────────
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (READ-ONLY)
-Doctrine Count: 0
-Total Entries: 0
+Doctrine Count: 4
+Total Entries: 8
 Next Entry ID: PAUSED
-Awaiting Command: YES
+Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-IX. CONTROLLED SYNTHESIS PROTOCOL (OPTIONAL)
+IX. CONTROLLED SYNTHESIS PROTOCOL
 ────────────────────────────────────────────────────────────
-No controlled pairings authorized.
-
-Purpose acknowledged:
-• Explore combined implications without mutating doctrine.
-
-Rules enforced:
-• No belief propagation
-• No doctrine impact
-• No retroactive interpretation
+Controlled synthesis permitted only by explicit authorization.
+No belief propagation.
+No doctrinal mutation.
 
 ────────────────────────────────────────────────────────────
-X. CANDIDATE BELIEF STAGING (NON-BINDING)
-────────────────────────────────────────────────────────────
-No candidate beliefs staged.
-
-Rules enforced:
-• Zero doctrinal force
-• Promotion only via explicit synthesis
-• Silent discard permitted
-
-────────────────────────────────────────────────────────────
-XI. TEMPLATE INHERITANCE & CONSTRAINTS
-────────────────────────────────────────────────────────────
-This file enforces:
-
-• Structural uniformity across civilizations
-• Procedural parity without doctrinal convergence
-• Explicit learning boundaries
-• No autonomous cognition
-
-This file forbids:
-
-• Implicit belief formation
-• Silent synthesis
-• Auto-doctrine generation
-• CIV–CORE contamination
-
-────────────────────────────────────────────────────────────
-XII. VERSIONING & CANONICAL STATUS
-────────────────────────────────────────────────────────────
-Derived from CIV–SCHOLAR–TEMPLATE v1.0
-
-This instantiation is CANONICAL.
-
-Future versions:
-• May add entries
-• May add syntheses
-• May freeze doctrines
-• May NOT reorder sections
-• May NOT bypass governance rules
-
-────────────────────────────────────────────────────────────
-XIII. INGESTED LEARNING EVENTS (ADDITIVE LOG)
+X. CANDIDATE BELIEF STAGING
 ────────────────────────────────────────────────────────────
 
-ENTRY 0001
-Source:
-• MEM–ANGLIA–ALFRED — v1.0
-Ingest Type:
-• Survival Sovereign Memory
-Primary Belief Extracted:
-• Civilizational survival precedes sovereignty; law and learning function
-  as continuity infrastructure under existential threat.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0002
-Source:
-• MEM–ANGLIA–WAR–VIKINGS — v1.0
-Ingest Type:
-• Existential Conflict Memory
-Primary Belief Extracted:
-• Prolonged annihilation pressure accelerates institutional maturity;
-  defense systems and law emerge before political unity.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0003
-Source:
-• MEM–ANGLIA–DYNASTY–WESSEX — v1.0
-Ingest Type:
-• State Formation Memory
-Primary Belief Extracted:
-• Personal kingship can unify territory but fails to generate durable
-  institutional continuity.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0004
-Source:
-• MEM–ANGLIA–WAR–HASTINGS — v1.3
-Ingest Type:
-• Rupture & Elite Replacement Memory
-Primary Belief Extracted:
-• Catastrophic defeat is survivable when institutions persist through
-  elite replacement rather than annihilation.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0005
-Source:
-• MEM–ANGLIA–DYNASTY–NORMANDY — v1.2
-Ingest Type:
-• Administrative Hybridization Memory
-Primary Belief Extracted:
-• Conquest can function as administrative upgrade when new elites adopt
-  and extend existing procedural grammars.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0006
-Source:
-• MEM–ANGLIA–MAGNA–CARTA — v1.0
-Ingest Type:
-• Constraint Formation Memory
-Primary Belief Extracted:
-• Legitimacy migrates from personal authority to negotiated procedure
-  through survivable precedent rather than enforcement success.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0007
-Source:
-• MEM–ANGLIA–COMMON–LAW — v1.0
-Ingest Type:
-• Procedural Continuity Memory
-Primary Belief Extracted:
-• Law can function as accumulated civilizational memory, enabling regime
-  replacement and defeat without reset.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0008
-Source:
-• MEM–ANGLIA–ATHELSTAN — v1.1
-Ingest Type:
-• Post-Survival Unification Memory
-Primary Belief Extracted:
-• Law and delegated institutions scale authority more durably than
-  charisma, enabling unity to survive succession.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0009
-Source:
-• MEM–ANGLIA–WAR–YORKTOWN — v1.1
-Ingest Type:
-• Procedural Defeat Memory
-Primary Belief Extracted:
-• Defeat can preserve legitimacy when processed through recognized
-  institutions and negotiated exit.
-Belief Status:
-• UNFROZEN
-
-────────────────────────────────────────────────────────────
-XIV. BELIEF SYNTHESIS LOG (ADDITIVE)
-────────────────────────────────────────────────────────────
-
-SYNTHESIS 0001 (0001–0002)
-Outcome:
-• Survival pressure forces early institutionalization of law, defense,
-  and memory before sovereignty stabilizes.
-Status:
-• UNFROZEN
-
-SYNTHESIS 0002 (0003–0004)
-Outcome:
-• Personal kingship collapses under invasion; elite replacement enables
-  continuity when institutions persist.
-Status:
-• FROZEN
-
-SYNTHESIS 0003 (0006–0007)
-Outcome:
-• Procedure functions as civilizational memory, enabling continuity
-  across defeat, regime change, and moral contradiction.
-Status:
-• FROZEN
-
-SYNTHESIS 0010 (0001–0007)
-Outcome:
-• Anglia survives defeat through sequenced absorption: survival →
-  rupture → elite replacement → procedural constraint → legal memory.
-Status:
-• FROZEN
-
-────────────────────────────────────────────────────────────
-XV. DOCTRINE FREEZE RECORD (REFERENCE ONLY)
-────────────────────────────────────────────────────────────
-
-DOCTRINE v0.1 — “PROCEDURE AS CIVILIZATIONAL MEMORY”
-Source:
-• SYNTHESIS 0003
-State:
-• FROZEN · CANONICAL
-
-DOCTRINE v0.4 — “SEQUENCED SURVIVAL: FROM RUPTURE TO MEMORY”
-Source:
+CANDIDATE BELIEF 0001
+Derived From:
 • SYNTHESIS 0010
-State:
-• FROZEN · CANONICAL
+Candidate Belief:
+• Civilizations that encode loss procedurally
+  outlast those that moralize defeat.
+Status:
+• STAGED · NON-BINDING
 
-Note:
-• Doctrines are authoritatively registered in CIV–DOCTRINE–ANGLIA
-• This section records provenance only
-• No doctrine authority originates here
+────────────────────────────────────────────────────────────
+XI. SCHOLAR → MEM AUTHORING INFLUENCE
+────────────────────────────────────────────────────────────
+Scholar influence is procedural only.
+
+Permitted:
+• Citation discipline review
+• Cross-reference verification
+• Temporal compression flags
+• Procedural linkage checks
+
+Forbidden:
+• Historical interpretation
+• Belief insertion
+• Doctrine assertion
+
+────────────────────────────────────────────────────────────
+XII. MEM AUTHORING GUIDANCE CLAUSES
+────────────────────────────────────────────────────────────
+Anglia adopts MEM authoring guidance emphasizing:
+• Verbatim primary-source quotation
+• Explicit cross-MEM linkage
+• Procedural consequence framing
+
+Scholar enforcement is advisory only.
+
+────────────────────────────────────────────────────────────
+XIII. TEMPLATE INHERITANCE & CONSTRAINTS
+────────────────────────────────────────────────────────────
+This file conforms structurally and procedurally to
+CIV–SCHOLAR–TEMPLATE v1.2.
+
+No sections removed.
+No order altered.
+No authority expanded.
+
+────────────────────────────────────────────────────────────
+XIV. VERSIONING & CANONICAL STATUS
+────────────────────────────────────────────────────────────
+This file is CANONICAL.
+
+Future versions may:
+• Add entries
+• Add syntheses
+• Freeze doctrines
+
+Future versions may NOT:
+• Remove content
+• Reorder sections
+• Retroactively edit beliefs
+
+────────────────────────────────────────────────────────────
+XV. END STATE DECLARATION
+────────────────────────────────────────────────────────────
+CIV–SCHOLAR–ANGLIA v0.6 is ACTIVE, WRITE-LOCKED, and procedurally compliant.
+
+Awaiting explicit UNLOCK or QUERY command.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–SCHOLAR–ANGLIA v0.6
