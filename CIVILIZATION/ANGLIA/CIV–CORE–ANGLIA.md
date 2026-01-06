@@ -1,21 +1,23 @@
-CIV–CORE–ANGLIA — v1.4
+CIV–CORE–ANGLIA — v1.5
 Civilizational Strategy Codex · Civilization Core Engine
 Procedural–Maritime–Time-Conversion Edition
 (Feasibility–Liquidity–Exit Augmentation)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Compatibility: CIV / MEM Architecture
-Supersedes: CIV–CORE–ANGLIA — v1.3
-Conceptual Lineage: SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 (preserved verbatim)
+Supersedes: CIV–CORE–ANGLIA — v1.4
+Conceptual Lineage:
+SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 (preserved verbatim)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 ────────────────────────────────────────────────────────────
-NOTE ON VERSIONING (V1.4)
+NOTE ON VERSIONING (V1.5)
 ────────────────────────────────────────────────────────────
-• All content from v1.3 is preserved without deletion, truncation,
+• All content from v1.4 is preserved without deletion, truncation,
   renumbering, or semantic alteration.
-• v1.4 introduces ADDITIVE clauses only, explicitly marked [V1.4].
-• No existing axioms, rules, or outputs are weakened or replaced.
+• v1.5 introduces ADDITIVE clauses only, explicitly marked [V1.5].
+• No axioms, diagnostics, constraints, or verdict logic are weakened.
+• Illustrative material is NON-AUTHORITATIVE and pedagogical only.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -58,8 +60,8 @@ strategic instruments.
 
 Victory is defined as still functioning when rivals culminate.
 
-6. Feasibility-Governor Axiom [V1.4 — ADDITIVE]
-Anglia functions as the system-level **feasibility governor** within
+6. Feasibility-Governor Axiom [V1.4]
+Anglia functions as the system-level feasibility governor within
 multipolar orders.
 
 Anglia constrains ambition by answering:
@@ -70,6 +72,11 @@ Anglia constrains ambition by answering:
 
 This role is procedural, not moral.
 Feasibility replaces persuasion as Anglia’s stabilizing contribution.
+
+[V1.5 — ILLUSTRATIVE VECTORS · NON-AUTHORITATIVE]
+• Spanish Armada failure (1588)
+• Napoleonic exhaustion culminating in 1815
+• Suez Crisis withdrawal (1956)
 
 ────────────────────────────────────────────────────────────
 II. LEGITIMACY ACCOUNTING LAYER
@@ -92,6 +99,15 @@ Additive Diagnostic [V1.4]:
 Rule:
 LC-A collapse precedes PTI collapse in late-system crises.
 
+[V1.5 — CLARIFICATION]
+LC-A collapse accelerates failure cascades when:
+• External Exposure Ratio (EER) = HIGH
+• Spatial Integrity = STRAINED
+
+LC-A decay is delayed when:
+• Alliance Depth remains HIGH
+• Clearing and settlement control remains intact
+
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
@@ -110,8 +126,13 @@ Institutions accumulate.
 Time compounds legitimacy.
 
 Additive Rule [V1.4]:
-Financial continuity functions as **procedural memory** when
-territorial or narrative continuity recedes.
+Financial continuity functions as procedural memory when territorial
+or narrative continuity recedes.
+
+[V1.5 — ILLUSTRATIVE VECTORS]
+• Norman administrative absorption (post-1066)
+• Common Law accretion (12th–17th c.)
+• Post-1945 alliance-state continuity
 
 ────────────────────────────────────────────────────────────
 IV. SPATIAL–CIVILIZATIONAL GEOMETRY
@@ -138,6 +159,10 @@ MANDATORY OUTPUT:
 Additive Stress Vector [V1.4]:
 • Liquidity concentration risk during global deleveraging events
 
+[V1.5 — ILLUSTRATIVE VECTORS]
+• Offshore balancing in Europe (18th–19th c.)
+• Global basing without territorial empire (post-1945)
+
 ────────────────────────────────────────────────────────────
 V. GOVERNANCE ARCHITECTURE
 ────────────────────────────────────────────────────────────
@@ -151,6 +176,10 @@ V. GOVERNANCE ARCHITECTURE
 MANDATORY OUTPUTS:
 • Governance Coherence (GC-A): HIGH / MED / LOW
 • Parliamentary Legitimacy (PL): HIGH / MED / LOW
+
+[V1.5 — ILLUSTRATIVE VECTORS]
+• Cabinet primacy over monarchic direction
+• Administrative continuity across party rotation
 
 ────────────────────────────────────────────────────────────
 VI. DYNASTIC CONTINUITY LAYER
@@ -173,6 +202,10 @@ Phases:
 MANDATORY OUTPUT:
 • Dynastic Elasticity: HIGH / MED / LOW
 
+[V1.5 — ILLUSTRATIVE VECTORS]
+• Hanoverian depersonalization
+• Windsor symbolic stabilization
+
 ────────────────────────────────────────────────────────────
 VII. ECONOMIC–FINANCIAL DOCTRINE
 ────────────────────────────────────────────────────────────
@@ -187,8 +220,13 @@ MANDATORY OUTPUTS:
 • External Exposure Ratio (EER): LOW / MED / HIGH
 
 Additive Clause [V1.4]:
-Anglia externalizes volatility while internalizing control
-over clearing, settlement, and dispute resolution.
+Anglia externalizes volatility while internalizing control over
+clearing, settlement, and dispute resolution.
+
+[V1.5 — ILLUSTRATIVE VECTORS]
+• City of London clearing dominance
+• Eurodollar system externalization
+• Legal arbitration over industrial primacy
 
 ────────────────────────────────────────────────────────────
 VIII. MILITARY–STRATEGIC DOCTRINE
@@ -201,6 +239,10 @@ VIII. MILITARY–STRATEGIC DOCTRINE
 
 MANDATORY OUTPUT:
 • Strategic Autonomy (SA-A): HIGH / MED / LOW
+
+[V1.5 — ILLUSTRATIVE VECTORS]
+• Royal Navy denial doctrine
+• Alliance-embedded expeditionary warfare
 
 ────────────────────────────────────────────────────────────
 IX. INTERNAL SECURITY & SOCIAL ORDER
@@ -242,8 +284,12 @@ MANDATORY OUTPUT:
 • Time Advantage: ANGLIA / ADVERSARY / NEUTRAL
 
 Additive Rule [V1.4]:
-Markets function as **time-extension mechanisms**.
+Markets function as time-extension mechanisms.
 Liquidity buys time; time preserves optionality.
+
+[V1.5 — ILLUSTRATIVE VECTORS]
+• Prolonged coalition warfare
+• Financial delay as strategic insulation
 
 ────────────────────────────────────────────────────────────
 XII. EXIT–BUILDING META-DOCTRINE
@@ -263,6 +309,10 @@ MANDATORY OUTPUT:
 Additive Exit Mode [V1.4]:
 • Jurisdictional migration without declarative withdrawal
 
+[V1.5 — ADDITIVE EXIT MODES]
+• Regulatory arbitrage migration
+• Standard fragmentation with retained interoperability
+
 ────────────────────────────────────────────────────────────
 XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
@@ -273,11 +323,13 @@ XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 • Anglia–US — offshore continuity extension
 
 Additive Clarification [V1.4]:
-Anglia arbitrates feasibility between
-Francia’s legitimacy claims and Germania’s execution capacity.
+Anglia arbitrates feasibility between Francia’s legitimacy claims and
+Germania’s execution capacity.
 
-MANDATORY OUTPUT:
-• Axis Stability: HIGH / MED / LOW
+[V1.5 — EXPLICIT LINKAGE]
+Anglia’s feasibility-governor function directly counters:
+DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENCE
+(CIV–DOCTRINE–FRANCIA v1.0)
 
 ────────────────────────────────────────────────────────────
 XIV. FAILURE PHYSICS
@@ -362,10 +414,19 @@ XX. MANDATORY VERDICT BLOCK
 • Exit State: INACTIVE / ACTIVE / ACCELERATING
 • GRID-A: REVERSIBLE / STICKY / IRREVERSIBLE
 • RIR-A: INACTIVE / ACTIVE
+• LC-A: HIGH / MED / LOW
+
+[V1.5 — DIAGNOSTIC PRIORITY RULE]
+In case of indicator conflict:
+IC > LC-A > PTI governs final verdict weighting.
+
 • Strategic Classification:
-  PROCEDURAL STABILITY / FEASIBILITY GOVERNOR /
-  EROSION DRIFT / SYSTEMIC STRESS / NEEDS VERIFICATION
+PROCEDURAL STABILITY /
+FEASIBILITY GOVERNOR /
+EROSION DRIFT /
+SYSTEMIC STRESS /
+NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ANGLIA — v1.4
+END OF FILE — CIV–CORE–ANGLIA v1.5
 ────────────────────────────────────────────────────────────
