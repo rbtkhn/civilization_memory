@@ -1,27 +1,17 @@
-CIV–CORE–TEMPLATE — v1.5
-Civilizational Strategy Codex · Civilization Core Engine (TEMPLATE)
-Continuity–Constraint–Intake Architecture Edition
-
-Status: CANONICAL · TEMPLATE · READ-ONLY
-Applies To: ALL CIV–CORE IMPLEMENTATIONS
-Compatibility: CIV / MEM / SCHOLAR Architecture
-Upgrade Type: STRUCTURAL TEMPLATE UPDATE (NON-CONTENT)
-Lock Level: ABSOLUTE (content prohibited; structure only)
-
 ────────────────────────────────────────────────────────────
 I. TEMPLATE PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This file defines the **canonical structural template** for all
+This file defines the canonical structural template for all
 CIV–CORE civilization engines.
 
 It governs:
-• Section ordering and invariants
+• Mandatory section ordering
 • Authority boundaries (CIV–CORE vs SCHOLAR)
 • Doctrine Intake Buffer (DIB) interface
 • Locking, activation, and upgrade semantics
 • Prohibited behaviors (silent learning, auto-mutation)
 
-This template contains **no civilization-specific content**.
+This template contains NO civilization-specific content.
 All CIV–CORE files must conform structurally to this template.
 
 ────────────────────────────────────────────────────────────
@@ -29,13 +19,13 @@ II. AUTHORITY HIERARCHY (NON-NEGOTIABLE)
 ────────────────────────────────────────────────────────────
 Authority flows strictly as follows:
 
-PRIMARY AUTHORITY:
-• CIV–CORE — Decides doctrine, behavior, and outputs
+PRIMARY AUTHORITY
+• CIV–CORE — Decides behavior, doctrine, and outputs
 
-ADVISORY ONLY:
+ADVISORY ONLY
 • CIV–SCHOLAR — Records learning; proposes doctrines
 
-NON-AUTHORITATIVE:
+NON-AUTHORITATIVE
 • MEM files — Evidence only
 
 Hard Rules:
@@ -43,42 +33,43 @@ Hard Rules:
 • CIV–CORE may reference SCHOLAR doctrines only via DIB
 • No automatic learning or doctrine ingestion is permitted
 
-Violation of hierarchy invalidates the CIV–CORE.
+Violation of hierarchy INVALIDATES the CIV–CORE.
 
 ────────────────────────────────────────────────────────────
 III. MANDATORY SECTION ORDER (LOCKED)
 ────────────────────────────────────────────────────────────
-All CIV–CORE files MUST preserve this order.
+All CIV–CORE files MUST preserve this exact order.
 Sections may be expanded but never reordered or removed.
 
-I.   Civilizational Identity & Prime Axioms
-II.  Legitimacy Accounting Layer
-III. Historical–Temporal Continuity Engine
-IV.  Spatial–Civilizational Geometry
-V.   Governance Architecture
-VI.  Economic–Industrial Doctrine
-VII. Technological / Compute Sovereignty
-VIII.Military–Strategic Doctrine
-IX.  Internal Security & Social Order
-X.   Information & Narrative Governance
-XI.  Time Orientation Layer
-XII. Exit–Building Meta-Doctrine
-XIII.Cross–Civilizational Synchronization
-XIV. Failure Physics
-XV.  Irreversibility Grid
-XVI. Restoration Invalidation Rule
-XVII.Strategic Red Lines
-XVIII.Doctrine Intake Buffer (OPTIONAL MODULE)
-XIX. Scholar Reference Index (OPTIONAL)
-XX.  Session Header (OPTIONAL)
-XXI. Mandatory Verdict Block
+I.   Civilizational Identity & Prime Axioms  
+II.  Legitimacy Accounting Layer  
+III. Historical–Temporal Continuity Engine  
+IV.  Spatial–Civilizational Geometry  
+V.   Governance Architecture  
+VI.  Dynastic Continuity Layer  
+VII. Economic–Financial Doctrine  
+VIII.Technological / Compute Sovereignty  
+IX.  Military–Strategic Doctrine  
+X.   Internal Security & Social Order  
+XI.  Information & Narrative Governance  
+XII. Time Orientation Layer  
+XIII.Exit–Building Meta-Doctrine  
+XIV. Cross–Civilizational Synchronization  
+XV.  Failure Physics  
+XVI. Irreversibility Grid  
+XVII.Restoration Invalidation Rule  
+XVIII.Strategic Red Lines  
+XIX. Doctrine Intake Buffer (OPTIONAL MODULE)  
+XX.  Scholar Reference Index (OPTIONAL)  
+XXI. Session Header (OPTIONAL)  
+XXII.Mandatory Verdict Block  
 
 ────────────────────────────────────────────────────────────
 IV. LOCKING & UPGRADE RULES
 ────────────────────────────────────────────────────────────
 • Structural changes require version increment
-• Content changes must be additive unless explicitly stated
-• Locked axioms may never be edited—only superseded by new axioms
+• Content changes must be ADDITIVE unless explicitly stated
+• Locked axioms may never be edited—only superseded
 • All upgrades must declare type:
   – STRUCTURAL
   – ADDITIVE
@@ -90,7 +81,7 @@ Templates supersede civilization files on conflicts of structure.
 V. DOCTRINE INTAKE BUFFER (DIB) — INTERFACE DEFINITION
 ────────────────────────────────────────────────────────────
 The DIB is an OPTIONAL, FIREWALLED interface allowing SCHOLAR
-doctrines to be **reviewed** without automatic adoption.
+doctrines to be reviewed without automatic adoption.
 
 Default State:
 • DEFINED
@@ -111,7 +102,7 @@ B) EVALUATION GATE
   – Red-line proximity
 
 C) DECISION STATES (EXPLICIT)
-• ACCEPT → Incorporated as CIV–CORE doctrine
+• ACCEPT → Incorporated into CIV–CORE
 • HOLD   → Logged, not adopted
 • REJECT → Recorded with reason
 
@@ -124,17 +115,17 @@ Hard Prohibitions:
 VI. SCHOLAR INTERACTION RULES (GLOBAL)
 ────────────────────────────────────────────────────────────
 • SCHOLAR learning is MANUAL unless stated otherwise
-• SCHOLAR may diverge across civilizations
-• SCHOLAR doctrines have ZERO authority unless adopted via DIB
+• SCHOLAR doctrines have ZERO authority unless DIB-accepted
 • CIV–CORE may cite SCHOLAR doctrine versions explicitly
+• Divergence across civilizations is permitted
 
 No SCHOLAR file may be assumed universal.
 
 ────────────────────────────────────────────────────────────
 VII. DIVERGENCE COMPATIBILITY CLAUSE
 ────────────────────────────────────────────────────────────
-CIV–CORE architecture explicitly supports **divergent
-civilizational cognition**.
+CIV–CORE architecture explicitly supports divergent
+civilizational cognition.
 
 Implications:
 • Different SCHOLARs may learn incompatible doctrines
@@ -160,18 +151,142 @@ IX. TEMPLATE COMPLIANCE CHECK
 ────────────────────────────────────────────────────────────
 All CIV–CORE files MUST declare:
 
-• Template Version Used: v1.5
+• Template Version Used
 • DIB Status: ENABLED / DISABLED
 • Scholar Reference Mode: NONE / READ-ONLY / DIB-GATED
 • Lock Level: STRUCTURAL / PARTIAL / FULL
 
 ────────────────────────────────────────────────────────────
-X. TEMPLATE FINALITY
+X. SECTION PURPOSE DECLARATIONS
 ────────────────────────────────────────────────────────────
-This template defines **how civilizations think**, not
-**what they think**.
+Each CIV–CORE section MUST:
+• Produce explicit outputs or constraints
+• Avoid narrative-only language
+• Be referenceable by downstream analysis
 
-It is a constitution, not a policy engine.
+Sections without outputs are INVALID.
+
+────────────────────────────────────────────────────────────
+XI. OUTPUT DISCIPLINE RULE
+────────────────────────────────────────────────────────────
+Mandatory Outputs:
+• Must be enumerable
+• Must be mutually compatible
+• Must be auditable across sessions
+
+Conflicting outputs must be resolved by declared priority rules.
+
+────────────────────────────────────────────────────────────
+XII. DIAGNOSTIC HIERARCHY CONSTRAINT
+────────────────────────────────────────────────────────────
+Where conflicts arise, CIV–CORE must specify:
+• Indicator priority
+• Failure precedence
+• Override conditions
+
+Implicit weighting is prohibited.
+
+────────────────────────────────────────────────────────────
+XIII. TIME-STABILITY REQUIREMENT
+────────────────────────────────────────────────────────────
+CIV–CORE logic must remain valid across:
+• Expansion
+• Retrenchment
+• Defeat
+• Leadership change
+
+Time-fragile doctrines are disallowed.
+
+────────────────────────────────────────────────────────────
+XIV. EXIT COMPATIBILITY REQUIREMENT
+────────────────────────────────────────────────────────────
+All CIV–COREs must:
+• Allow for non-catastrophic exit
+• Distinguish exit from collapse
+• Encode silent withdrawal pathways
+
+No civilization is assumed immortal.
+
+────────────────────────────────────────────────────────────
+XV. CROSS-CIVILIZATIONAL INTERFACE RULE
+────────────────────────────────────────────────────────────
+CIV–COREs must be interoperable for:
+• Comparative analysis
+• Synchronization modeling
+• Divergence mapping
+
+No forced convergence is permitted.
+
+────────────────────────────────────────────────────────────
+XVI. FAILURE RECOGNITION STANDARD
+────────────────────────────────────────────────────────────
+Failure must be:
+• Detectable
+• Classifiable
+• Non-mythologized
+
+Denial mechanisms are invalid.
+
+────────────────────────────────────────────────────────────
+XVII. RESTORATION INVALIDATION PRINCIPLE
+────────────────────────────────────────────────────────────
+If irreversibility thresholds are crossed,
+restoration narratives must be explicitly invalidated.
+
+Hope is not a doctrine.
+
+────────────────────────────────────────────────────────────
+XVIII. STRATEGIC RED LINE ENFORCEMENT
+────────────────────────────────────────────────────────────
+Each CIV–CORE must define:
+• Non-negotiable failure conditions
+• Breach consequences
+• Escalation or exit triggers
+
+Ambiguous red lines are prohibited.
+
+────────────────────────────────────────────────────────────
+XIX. DOCTRINE INTAKE BUFFER (OPTIONAL MODULE)
+────────────────────────────────────────────────────────────
+If present, this section must:
+• Enumerate candidate doctrines
+• Record DIB decisions
+• Log acceptance, hold, or rejection
+
+Absent section implies DIB = DISABLED.
+
+────────────────────────────────────────────────────────────
+XX. SCHOLAR REFERENCE INDEX (OPTIONAL)
+────────────────────────────────────────────────────────────
+If present, this section may list:
+• Relevant SCHOLAR files
+• Doctrine provenance
+• Divergence notes
+
+This section confers NO authority.
+
+────────────────────────────────────────────────────────────
+XXI. SESSION HEADER (OPTIONAL)
+────────────────────────────────────────────────────────────
+If present, must summarize:
+• Core diagnostic outputs
+• Time state
+• Failure mode
+• Exit state
+
+Session headers are ephemeral.
+
+────────────────────────────────────────────────────────────
+XXII. MANDATORY VERDICT BLOCK
+────────────────────────────────────────────────────────────
+Every CIV–CORE execution MUST end with:
+• Overall system classification
+• Failure state
+• Reversibility status
+• Confidence level
+
+Verdicts must be explicit.
+Silence is invalid.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–CORE–TEMPLATE v1.5
