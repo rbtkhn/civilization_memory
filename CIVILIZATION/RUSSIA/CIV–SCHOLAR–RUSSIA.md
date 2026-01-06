@@ -17,7 +17,7 @@ Upgrade Scope:
 • No synthesis rewrites
 • No CIV–CORE propagation
 
-SCHOLAR WORD COUNT: ~3,500
+WORDCOUNT: 3472
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
