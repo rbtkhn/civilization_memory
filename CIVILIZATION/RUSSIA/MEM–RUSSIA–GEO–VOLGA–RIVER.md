@@ -1,4 +1,4 @@
-MEM–RUSSIA–GEO–VOLGA — v1.0
+MEM–RUSSIA–GEO–VOLGA–RIVER — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
