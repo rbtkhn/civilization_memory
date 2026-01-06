@@ -1,27 +1,28 @@
-CIV–SCHOLAR–TEMPLATE — v1.1
+CIV–SCHOLAR–TEMPLATE — v1.2
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.0
-Upgrade Type: ADDITIVE · ROLE-CLARIFYING
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.1
+Upgrade Type: ADDITIVE · GOVERNANCE-BINDING
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
+Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.1)
+UPGRADE NOTE (v1.2)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, and authority
-constraints from v1.0.
+constraints from v1.1.
 
-v1.1 introduces ADDITIVE clarification only:
-• Explicit recognition of Scholar influence on MEM authoring quality
-• Explicit limits on that influence (non-authoritative, non-doctrinal)
-• Template-level compatibility with civilization-specific
-  MEM Authoring Guidance Clauses
+v1.2 introduces ADDITIVE clarification only:
+• Explicit constitutional binding to CIV–SCHOLAR–GOVERNANCE–LAW
+• Formalization of additivity, immutability, and section integrity
+• Prevention of historical erasure or retroactive correction
 
 No Scholar authority is expanded.
 No CIV–CORE boundary is weakened.
@@ -226,7 +227,7 @@ Rules:
 • Candidates may be abandoned without record.
 
 ────────────────────────────────────────────────────────────
-XI. SCHOLAR → MEM AUTHORING INFLUENCE (NEW · CLARIFIED)
+XI. SCHOLAR → MEM AUTHORING INFLUENCE
 ────────────────────────────────────────────────────────────
 When ACTIVE, a CIV–SCHOLAR MAY influence **how MEM files are authored**
 without influencing **what MEM files assert**.
@@ -297,8 +298,34 @@ Future versions:
 • May NOT introduce civilization-specific content
 
 Derived files must note:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.1”
+“Derived from CIV–SCHOLAR–TEMPLATE v1.2”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.1
+XV. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
+────────────────────────────────────────────────────────────
+This template and all derivative CIV–SCHOLAR instances are irrevocably
+bound by:
+
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+
+This binding is absolute.
+
+Governance effects:
+• All updates must be strictly ADDITIVE
+• No prior entries, syntheses, doctrines, or logs may be altered or removed
+• Section order is immutable
+• Historical ledger semantics override editor intent
+
+Any update that violates the Governance Law is INVALID, regardless of:
+• Intent
+• Version labeling
+• Claimed compliance
+• Downstream approval
+
+Derived files MUST include, verbatim, the following declaration:
+
+“Governed by CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher).”
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–TEMPLATE v1.2
 ────────────────────────────────────────────────────────────
