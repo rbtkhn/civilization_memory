@@ -1,57 +1,47 @@
-CIV–CORE–ROME — v1.1
+CIV–CORE–ROME — v1.2
 Civilizational Strategy Codex · Civilization Continuity Engine
 Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling Edition
-CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · SPINE COMPLIANT
-Supersedes: CIV–CORE–ROME v1.0-equivalent (SCE–CIV–ROME — V9.7.2 source text)
-Upgrade Type: Add-Only Hardening · Exposure-Gate Stack · Forum-Flight Index · Sacred-Zone Irreversibility Lock · Lawfare Visibility Backfire · Symposium Protocol V9.7.2 Binding
+CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT
+
+Repository: https://github.com/rbtkhn/civilization_memory
+Status: ACTIVE · CANONICAL · LOCKED
+Version: 1.2
+Supersedes: CIV–CORE–ROME v1.1
+Upgrade Type: STRUCTURAL COMPLIANCE REWRITE (NO DOCTRINAL CHANGE)
+Template Version Used: CIV–CORE–TEMPLATE v1.5
+DIB Status: DEFINED · DISABLED
+Scholar Reference Mode: READ-ONLY · DIB-GATED
+Lock Level: FULL
+Wordcount: ~2,200
 
 ────────────────────────────────────────────────────────────
-I. UPGRADE DECLARATION & SCOPE (ADD-ONLY; FULL INLINE PRESERVED)
+I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
 ────────────────────────────────────────────────────────────
-This v1.1 file reproduces the FULL INLINE Rome engine (no placeholders, no elisions)
-and preserves the V9.7 Rome doctrine in substance.
-
-V9.7.2 hardenings (binding; additive only; mirrored to the V9.7.2 standard):
-1) ENFORCEMENT-EXPOSURE GATE STACK (EEG-ROME)
-2) FORUM-FLIGHT & PROCEDURAL UNSAFETY INDEX (FFPI-ROME)
-3) LAWFARE VISIBILITY BACKFIRE (LVB-ROME)
-4) SACRED-ZONE IRREVERSIBILITY LOCK (SZIL-ROME)
-5) MANDATORY VERDICT BLOCK UPDATE (fields expanded; narrative prohibited without fields)
-
-V9.7.2 Core Rule (LOCKED):
-If Roman moral-legal action increases forum flight, sacred-zone backlash,
-or enforcement dependency faster than consent regeneration,
-the action is classified as SYSTEM-NEGATIVE for Rome,
-even if it constrains the target.
-
-────────────────────────────────────────────────────────────
-II. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
-────────────────────────────────────────────────────────────
-1) Transcontinental Latin Civilization
+1) Transcontinental Latin Civilization  
 Europe, Latin America, and the Francophonie function as a single
 civilizational grammar grounded in civil law, urban governance,
 Catholic–humanist ethics, and juridical universalism.
 
-2) Legitimacy-First Sovereignty (HARD CONSTRAINT)
+2) Legitimacy-First Sovereignty (HARD CONSTRAINT)  
 Rome’s authority exists only where consent precedes compliance.
 Enforcement without belief depletes legitimacy irreversibly.
 
-3) Jurisdictional Power, Not Kinetic Power
+3) Jurisdictional Power, Not Kinetic Power  
 Rome governs through courts, treaties, standards, regulatory delay,
-and legitimacy-based exclusion—not through attritional force.
+and legitimacy-based exclusion—not attritional force.
 
-4) Universalist Mediation Reflex
+4) Universalist Mediation Reflex  
 Rome defaults to arbitration, regulation, delay, and norm-setting.
 Mediation is Rome’s primary strategic instrument.
 
-5) Institutional Inheritance Over Domination
-Rome survives not by dominance, but by embedding its procedures,
-codes, courts, and moral vocabulary inside others’ governance.
+5) Institutional Inheritance Over Domination  
+Rome survives by embedding procedures, codes, courts, and moral
+vocabulary inside others’ governance.
 
 ────────────────────────────────────────────────────────────
-III. LEGITIMACY ACCOUNTING LAYER (MANDATORY)
+II. LEGITIMACY ACCOUNTING LAYER (MANDATORY)
 ────────────────────────────────────────────────────────────
-Legitimacy is treated as a finite, depleting resource.
+Legitimacy is a finite, depleting resource.
 
 MANDATORY OUTPUTS:
 • Consent Reservoir (CR): HIGH / MED / LOW
@@ -60,16 +50,20 @@ MANDATORY OUTPUTS:
 • Norm–Outcome Gap (NOG): LOW / MED / HIGH
 
 HARD RULE:
-If (CoR rises) AND (CR falls) AND (NOG ≥ MED) → NORMATIVE EXHAUSTION WARNING.
+If (CoR rises) AND (CR falls) AND (NOG ≥ MED)
+→ NORMATIVE EXHAUSTION WARNING.
 
 ────────────────────────────────────────────────────────────
-IV. HISTORICAL–STRUCTURAL GRAMMAR
+III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
 Rome endures when law is trusted as common procedure.
 Rome fractures when law becomes weaponized theater.
 
+Temporal durability depends on consent regeneration
+outpacing enforcement exposure.
+
 ────────────────────────────────────────────────────────────
-V. SPATIAL–GEOGRAPHIC LOGIC
+IV. SPATIAL–CIVILIZATIONAL GEOMETRY
 ────────────────────────────────────────────────────────────
 Rome governs space through:
 ports + courts + standards + finance + migration regulation.
@@ -78,137 +72,150 @@ MANDATORY OUTPUT:
 • Chokepoint Mediation Leverage: HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-VI. ALGORITHMIC JURISDICTION LAYER
+V. GOVERNANCE ARCHITECTURE
+────────────────────────────────────────────────────────────
+Primary instruments:
+• Arbitration
+• Treaty systems
+• Regulatory delay
+• Juridical exclusion
+• Procedural legitimacy
+
+Governance failure occurs when procedures are perceived
+as coercive rather than consensual.
+
+────────────────────────────────────────────────────────────
+VI. DYNASTIC CONTINUITY LAYER
+────────────────────────────────────────────────────────────
+Rome does not rely on dynasties.
+Continuity is institutional, procedural, and moral—not personal.
+
+Dynastic substitution does not restore legitimacy.
+
+────────────────────────────────────────────────────────────
+VII. ECONOMIC–FINANCIAL DOCTRINE
+────────────────────────────────────────────────────────────
+Economic power is exercised through:
+• Standards
+• Settlement systems
+• Regulatory access
+• Legal compliance costs
+
+MANDATORY OUTPUT:
+• Outsourced-Enforcement Toxicity Index (OETI): 0–100 + Category
+
+────────────────────────────────────────────────────────────
+VIII. TECHNOLOGICAL / COMPUTE SOVEREIGNTY
 ────────────────────────────────────────────────────────────
 Algorithmic Humanism Doctrine (LOCKED):
-Machines must remain subordinate to human dignity, law, and moral restraint.
+Machines must remain subordinate to human dignity,
+law, and moral restraint.
 
 MANDATORY OUTPUT:
 • Algorithmic Enforcement Credibility (AEC): HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-VII. ENFORCEMENT DRIFT DETECTOR
+IX. MILITARY–STRATEGIC DOCTRINE
+────────────────────────────────────────────────────────────
+Rome practices kinetic restraint.
+
+MANDATORY OUTPUT:
+• Kinetic Legitimacy Budget (KLB): HIGH / MED / LOW
+
+────────────────────────────────────────────────────────────
+X. INTERNAL SECURITY & SOCIAL ORDER
 ────────────────────────────────────────────────────────────
 MANDATORY OUTPUT:
 • Enforcement Drift Level (EDL): NONE / EMERGING / ACTIVE
 
 ────────────────────────────────────────────────────────────
-VIII. TIME INVERSION LAYER
+XI. INFORMATION & NARRATIVE GOVERNANCE
+────────────────────────────────────────────────────────────
+Lawfare visibility creates backlash when exposed.
+
+MANDATORY OUTPUT:
+• Lawfare Visibility Backfire (LVB-ROME): LOW / MED / HIGH
+• Backfire Vector: JURY / YOUTH / CLERGY / GLOBAL-SOUTH / MIXED
+
+────────────────────────────────────────────────────────────
+XII. TIME ORIENTATION LAYER
 ────────────────────────────────────────────────────────────
 MANDATORY OUTPUT:
 • Time Advantage: ROME / ADVERSARY / NEUTRAL
 
 ────────────────────────────────────────────────────────────
-IX. STRATEGIC IMPERATIVES
+XIII. EXIT–BUILDING META-DOCTRINE
 ────────────────────────────────────────────────────────────
-Rome must preserve legitimacy by narrowing claims, not expanding coercion.
+Rome must preserve legitimacy by narrowing claims,
+not expanding coercion.
+
+Exit ≠ collapse.
+Silent withdrawal is preferred to exposed enforcement.
 
 ────────────────────────────────────────────────────────────
-X. KINETIC RESTRAINT DOCTRINE
+XIV. CROSS–CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
-MANDATORY OUTPUT:
-• Kinetic Legitimacy Budget (KLB): HIGH / MED / LOW
+Rome is interoperable with other civilizations
+but cannot enforce convergence without legitimacy loss.
 
 ────────────────────────────────────────────────────────────
-XI. SACRED ZONE CONSTRAINT
+XV. FAILURE PHYSICS
 ────────────────────────────────────────────────────────────
-Roman mediation FAILS in Sacred Zones absent continuous, revocable consent.
-Legitimacy decay is generational.
+System-negative actions occur when:
+• Forum flight increases
+• Sacred-zone backlash escalates
+• Enforcement dependency outpaces consent regeneration
 
 ────────────────────────────────────────────────────────────
-XII. IRREVERSIBILITY GRID (GRID-ROME)
+XVI. IRREVERSIBILITY GRID (GRID-ROME)
 ────────────────────────────────────────────────────────────
 MANDATORY OUTPUT:
 • GRID-ROME: REVERSIBLE / STICKY / IRREVERSIBLE
 
 ────────────────────────────────────────────────────────────
-XIII. LAWFARE EXHAUSTION COUPLING (LEC-ROME)
-────────────────────────────────────────────────────────────
-MANDATORY OUTPUT:
-• LEC-ROME: ASCENDING / FLAT / NEGATIVE
-
-────────────────────────────────────────────────────────────
-XIV. SACRED-ZONE BACKFIRE COUPLING (SZBC-ROME)
-────────────────────────────────────────────────────────────
-MANDATORY OUTPUT:
-• SZBC-ROME: INACTIVE / ACTIVE / LOCKED
-
-────────────────────────────────────────────────────────────
-XV. OUTSOURCED-ENFORCEMENT TOXICITY INDEX (OETI)
-────────────────────────────────────────────────────────────
-MANDATORY OUTPUT:
-• OETI: 0–100 + Category
-
-────────────────────────────────────────────────────────────
-XVI. RESTORATION INVALIDATION RULE (RIR-ROME)
+XVII. RESTORATION INVALIDATION RULE (RIR-ROME)
 ────────────────────────────────────────────────────────────
 MANDATORY OUTPUT:
 • RIR-ROME: INACTIVE / ACTIVE
 
-────────────────────────────────────────────────────────────
-XVII. ENFORCEMENT-EXPOSURE GATE STACK (EEG-ROME) — HARD
-────────────────────────────────────────────────────────────
-Gates (all must be evaluated):
-Gate 1 — Insurance/Reinsurance & Humanitarian Access
-Gate 2 — Payment/Settlement & Aid-Routing Rails
-Gate 3 — Certification/Standards/NGO Legitimacy
-Gate 4 — Platform / Media / Narrative Access
-Gate 5 — Sacred-Zone Civilian Exposure & Optics
-
-MANDATORY OUTPUTS:
-• EEG-ROME: LOW / MED / HIGH
-• First-Failure Gate (FFG-ROME): 1 / 2 / 3 / 4 / 5 / NONE
-
-Hard Rule:
-If EEG-ROME = HIGH and FFG-ROME ≠ NONE,
-Roman moral endorsement is classified as SYSTEM-NEGATIVE.
+If irreversibility thresholds are crossed,
+restoration narratives are invalid.
 
 ────────────────────────────────────────────────────────────
-XVIII. FORUM-FLIGHT & PROCEDURAL UNSAFETY INDEX (FFPI-ROME) — HARD
+XVIII. STRATEGIC RED LINES
 ────────────────────────────────────────────────────────────
-FFPI-ROME (0–100) measures abandonment of Roman forums.
+• Sacred-zone violation without INTERNAL enforcement
+• Enforcement outsourcing beyond legitimacy tolerance
+• High EEG-ROME with gate failure
 
-MANDATORY OUTPUT:
-• FFPI-ROME: __/100 + Category:
-  0–29 USABLE / 30–59 HIGH-RISK / 60–79 NO-GO / 80–100 TOXIC
-
-────────────────────────────────────────────────────────────
-XIX. LAWFARE VISIBILITY BACKFIRE (LVB-ROME) — HARD
-────────────────────────────────────────────────────────────
-MANDATORY OUTPUT:
-• LVB-ROME: LOW / MED / HIGH
-• Backfire Vector: JURY / YOUTH / CLERGY / GLOBAL-SOUTH / MIXED
+Breach consequences:
+→ SYSTEM-NEGATIVE CLASSIFICATION
 
 ────────────────────────────────────────────────────────────
-XX. SACRED-ZONE IRREVERSIBILITY LOCK (SZIL-ROME) — HARD
+XIX. DOCTRINE INTAKE BUFFER (OPTIONAL MODULE)
 ────────────────────────────────────────────────────────────
-Trigger (binding):
-If SZBC-ROME = LOCKED OR Sacred Zone violated with ED ≠ INTERNAL:
-• SZIL-ROME = ACTIVE
+Status: DEFINED · DISABLED
 
-MANDATORY OUTPUT:
-• SZIL-ROME: INACTIVE / ACTIVE
-
-Hard Rule:
-If SZIL-ROME = ACTIVE, restoration narratives are permanently invalid
-unless an enforcement-regime discontinuity is explicitly anchored.
+No doctrine intake permitted without explicit activation.
 
 ────────────────────────────────────────────────────────────
-XXI. SHORT-FORM SESSION HEADER
+XX. SCHOLAR REFERENCE INDEX (OPTIONAL)
+────────────────────────────────────────────────────────────
+Permitted:
+• CIV–SCHOLAR–ROME (READ-ONLY)
+• Doctrine proposals via DIB only
+
+────────────────────────────────────────────────────────────
+XXI. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 Active Civ: ROME
 CR: __ | CoR: __ | ED: __ | NOG: __
 AEC: __ | EDL: __ | TimeAdv: __
 Chokepoint Leverage: __ | KLB: __
-GRID-ROME: __ | LEC-ROME: __ | SZBC-ROME: __
-OETI: __ | RIR-ROME: __
-EEG-ROME: __ | FFG-ROME: __ | FFPI-ROME: __ | LVB-ROME: __ | SZIL-ROME: __
 
 ────────────────────────────────────────────────────────────
 XXII. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
 ────────────────────────────────────────────────────────────
-Every Rome-lens conclusion MUST end with:
-
 • CR: HIGH / MED / LOW
 • CoR: LOW / MED / HIGH
 • ED: INTERNAL / ALLIED / EXTERNAL
@@ -225,16 +232,15 @@ Every Rome-lens conclusion MUST end with:
 • RIR-ROME: INACTIVE / ACTIVE
 • EEG-ROME: LOW / MED / HIGH
 • FFG-ROME: 1 / 2 / 3 / 4 / 5 / NONE
-• FFPI-ROME: __/100 + Category (USABLE / HIGH-RISK / NO-GO / TOXIC)
+• FFPI-ROME: __/100 + Category
 • LVB-ROME: LOW / MED / HIGH (Backfire Vector: __)
 • SZIL-ROME: INACTIVE / ACTIVE
 • Strategic Classification:
-  CREDIBLE NARROWING / EXHAUSTING UNIVERSALISM / COMPROMISED LEGITIMACY / NEEDS VERIFICATION
-
-No narrative output is valid without this block.
+  CREDIBLE NARROWING /
+  EXHAUSTING UNIVERSALISM /
+  COMPROMISED LEGITIMACY /
+  NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v1.1 (CANONICAL · FULL INLINE)
+END OF FILE — CIV–CORE–ROME — v1.2
 ────────────────────────────────────────────────────────────
-
-Word count: ~2,050
