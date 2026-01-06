@@ -42,13 +42,13 @@ II. FILE REGISTER — ANGLIA
 ────────────────────────────────────────────────────────────
 
 A) GEO
-• MEM–ANGLIA–GEO–ATLANTIC.md  
-• MEM–ANGLIA–GEO–MEDITERRANEAN.md  
-• MEM–ANGLIA–GEO–ENGLISH–CHANNEL.md  
-• MEM–ANGLIA–GEO–PACIFIC.md  
-• MEM–ANGLIA–GEO–ARCTIC.md  
-• MEM–ANGLIA–GEO–MISSISSIPPI.md  
-• MEM–ANGLIA–GEO–GREAT–LAKES.md  
+• MEM–ANGLIA–GEO–ATLANTIC.md
+• MEM–ANGLIA–GEO–MEDITERRANEAN.md
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL.md
+• MEM–ANGLIA–GEO–PACIFIC.md
+• MEM–ANGLIA–GEO–ARCTIC.md
+• MEM–ANGLIA–GEO–MISSISSIPPI.md
+• MEM–ANGLIA–GEO–GREAT–LAKES.md
 
 B) DYNASTY
 • MEM–ANGLIA–DYNASTY–WESSEX.md
@@ -138,7 +138,7 @@ H) OTHER / MISC
 ────────────────────────────────────────────────────────────
 III. DEPRECATIONS
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–WAR–VIKING–INVASIONS → DEPRECATED  
+• MEM–ANGLIA–WAR–VIKING–INVASIONS → DEPRECATED
   Replaced by: MEM–ANGLIA–WAR–VIKINGS
 
 ────────────────────────────────────────────────────────────
@@ -147,6 +147,11 @@ IV. VERSION NOTE
 v1.4 registers all newly created MEM–ANGLIA files since v1.3.
 This upgrade is additive only and preserves all prior index structure,
 ordering, and governance rules.
+
+────────────────────────────────────────────────────────────
+FOOTER METADATA
+────────────────────────────────────────────────────────────
+WORDCOUNT: 623
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–ANGLIA — v1.4
