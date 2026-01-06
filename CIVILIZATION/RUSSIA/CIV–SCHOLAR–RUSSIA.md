@@ -1,4 +1,4 @@
-CIV–SCHOLAR–RUSSIA — v0.4
+CIV–SCHOLAR–RUSSIA — v0.5
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -9,7 +9,15 @@ Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-SCHOLAR WORD COUNT: ~3,200
+Upgrade Type: ADDITIVE EXTENSION (v0.4 → v0.5)
+Upgrade Scope:
+• Added controlled synthesis evaluation sections (IX–X)
+• No modification to Sections I–VIII
+• No doctrinal changes
+• No synthesis rewrites
+• No CIV–CORE propagation
+
+SCHOLAR WORD COUNT: ~3,500
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -276,5 +284,54 @@ Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v0.4
+IX. CONTROLLED SYNTHESIS PAIRING LOG (NEW)
+────────────────────────────────────────────────────────────
+
+PAIRING 0001
+Source Entries:
+• ENTRY 0011 — MEM–RUSSIA–THIRD–ROME
+• ENTRY 0012 — MEM–RUSSIA–GEO–VOLGA
+
+Purpose:
+• Evaluate differentiated threat logic between ideological universality
+  and geographic survivability without doctrinal mutation.
+
+Observed Tension:
+• Universal guardianship claims expand obligation radius.
+• Interior geographic control constrains exposure and failure modes.
+
+Candidate Insight (UNFROZEN):
+• Russian civilizational threat perception differentiates between
+  cultural–religious absorption (existential) and political domination
+  (tolerable), conditioned by geographic depth.
+
+Status:
+• LOGGED ONLY
+• NO SYNTHESIS
+• NO DOCTRINE IMPACT
+
+────────────────────────────────────────────────────────────
+X. CANDIDATE BELIEF STAGING (PRE-DOCTRINAL)
+────────────────────────────────────────────────────────────
+
+CANDIDATE BELIEF 0001
+Origin:
+• PAIRING 0001 (Entries 0011–0012)
+
+Statement:
+• Russia evaluates threats by identity-destruction potential rather than
+  sovereignty loss alone; geography enables selective endurance.
+
+State:
+• UNFROZEN
+• NON-AUTHORITATIVE
+• AWAITING EXPLICIT FREEZE COMMAND
+
+Restrictions:
+• May not propagate to CIV–CORE
+• May not alter Doctrine Registry
+• May not be referenced as doctrine
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–RUSSIA v0.5
 ────────────────────────────────────────────────────────────
