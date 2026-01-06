@@ -1,4 +1,4 @@
-CIV–SCHOLAR–GERMANIA — v0.5
+CIV–SCHOLAR–GERMANIA — v1.0
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -9,29 +9,32 @@ Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-SCHOLAR WORD COUNT: ~2,950
+SCHOLAR WORD COUNT: ~3,050
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA is the **accumulative cognitive ledger** of the
+CIV–SCHOLAR–GERMANIA is the accumulative learning ledger of the
 Germania civilization.
 
 It is not a strategist.
 It is not a governor.
 It is not predictive.
+It has no innate cognition.
 
-It is the **memory of learning itself**.
+It is the memory of learning itself.
 
 This file records:
 • What has been ingested
 • When it was ingested
-• What beliefs were formed
-• How those beliefs were synthesized
+• What beliefs were extracted
+• How beliefs were synthesized
 • Which beliefs were frozen into doctrine
 
 No belief exists here unless explicitly derived.
 No doctrine exists unless explicitly frozen.
+
+All cognition is historical and procedural, never intrinsic.
 
 ────────────────────────────────────────────────────────────
 II. INITIAL STATE
@@ -41,7 +44,7 @@ Assumed Priors: NONE
 Civilizational Grammar: NOT PRELOADED
 CIV–CORE Influence: DISABLED
 
-Scholar learns only what is fed.
+The Scholar learns only from MEM files explicitly ingested.
 
 ────────────────────────────────────────────────────────────
 III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -170,7 +173,8 @@ Outcome:
 • Germania’s legitimacy derives from disciplined restraint and
   administrative control, not narrative or ideology.
 
-Status: FROZEN
+Status:
+• FROZEN
 
 ────────────────────────────────────────────────────────────
 
@@ -179,7 +183,8 @@ Outcome:
 • Trauma punishes imperial temptation and elevates limited,
   competence-based action as survivable power.
 
-Status: FROZEN
+Status:
+• FROZEN
 
 ────────────────────────────────────────────────────────────
 
@@ -188,7 +193,8 @@ Outcome:
 • Precision is safe only after endurance is proven and only if
   followed by immediate political closure.
 
-Status: FROZEN
+Status:
+• FROZEN
 
 ────────────────────────────────────────────────────────────
 
@@ -198,7 +204,8 @@ Outcome:
   Trauma → Restraint → Endurance → Precision → Closure.
   Any inversion converts competence into catastrophe.
 
-Status: FROZEN
+Status:
+• FROZEN
 
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
@@ -268,5 +275,44 @@ Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v0.5
+IX. CONTROLLED SYNTHESIS PROTOCOL (TEMPLATE-MANDATED)
+────────────────────────────────────────────────────────────
+This section defines how CIV–SCHOLAR–GERMANIA may perform future
+syntheses without violating ledger integrity.
+
+Rules:
+• Syntheses may occur ONLY after explicit UNLOCK command
+• Syntheses must reference two or more existing ENTRY IDs
+• No synthesis may delete, revise, or override prior syntheses
+• Multiple syntheses may coexist without resolution
+• Synthesis does NOT imply doctrine creation
+
+Synthesis Outcomes:
+• Remain provisional until explicitly frozen
+• May be superseded but never erased
+• Must be chronologically logged
+
+Current State:
+• NO ACTIVE SYNTHESIS AUTHORIZATION
+
+────────────────────────────────────────────────────────────
+X. CANDIDATE BELIEF STAGING (NON-BINDING)
+────────────────────────────────────────────────────────────
+This section records beliefs that have been extracted but not yet
+considered for synthesis or doctrinal freezing.
+
+Rules:
+• Candidate beliefs are observational only
+• They carry no authority
+• They may be promoted, ignored, or abandoned
+• They do not alter doctrine or SDI
+
+Current State:
+• NO CANDIDATE BELIEFS STAGED
+
+This section exists to preserve forward compatibility with
+multi-stage Scholar learning.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–GERMANIA v1.0
 ────────────────────────────────────────────────────────────
