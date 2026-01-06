@@ -1,6 +1,6 @@
-CIV–DOCTRINE–ANGLIA — v1.0
+CIV–DOCTRINE–ANGLIA — v1.1
 Civilizational Strategy Codex · Doctrine Register
-Doctrine-Only Extraction Layer
+Doctrine-Only Extraction Layer (With Illustrative Commentary)
 
 Status: ACTIVE · CANONICAL · LOCKED
 Civilization: ANGLIA
@@ -8,7 +8,7 @@ Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–ANGLIA (Explicit Acceptance Only)
 Compatibility: CIV–CORE–ANGLIA v1.x
 Last Update: January 2026
-Wordcount: ~1,250
+Wordcount: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -19,9 +19,8 @@ civilizational doctrines**.
 It contains:
 • Doctrines explicitly accepted via DIB–ANGLIA
 • Definitions suitable for CIV–CORE citation
-• No learning history
-• No beliefs
-• No rejected or provisional material
+• Operational meaning for strategic reasoning
+• **Illustrative, non-authoritative case references for training**
 
 This file:
 • Does NOT learn
@@ -55,6 +54,11 @@ Operational Meaning:
 • Continuity survives defeat if procedure remains intact
 • Law, precedent, and institutional habit substitute for ideology
 
+Illustrative Cases (Non-Authoritative):
+• Magna Carta (1215) — constraint survives royal repudiation
+• Common Law evolution — precedent preserves continuity across regime change
+• Post-Yorktown parliamentary governance — defeat absorbed procedurally
+
 Hard Constraints:
 • Procedure fails if enforcement collapses entirely
 • Procedure degrades if legitimacy outpaces perceived fairness
@@ -77,6 +81,11 @@ Operational Meaning:
 • Defeat is survivable if institutions are repurposed, not erased
 • Elite continuity is less important than institutional continuity
 • Hybridization can strengthen long-term durability
+
+Illustrative Cases (Non-Authoritative):
+• Norman Conquest (1066) — elite replacement with institutional survival
+• Anglo-Norman legal fusion — hybridization strengthens governance
+• Domesday Book — administrative continuity through conquest
 
 Hard Constraints:
 • Rupture becomes terminal if procedures are fully dismantled
@@ -101,6 +110,11 @@ Operational Meaning:
 • Exit preserves legitimacy better than denial
 • Retrenchment is a strategic option, not failure
 
+Illustrative Cases (Non-Authoritative):
+• Yorktown (1781) — imperial loss without regime collapse
+• Decolonization (20th century) — sovereignty loss managed legally
+• Treaty-based exits — legitimacy preserved through process
+
 Hard Constraints:
 • Defeat becomes destabilizing if framed as illegitimate
 • Procedural exit requires elite compliance
@@ -122,6 +136,11 @@ Operational Meaning:
 • Delay favors systems with fiscal and legal continuity
 • Attrition is preferable to decisive confrontation
 • Victory is achieved by outlasting, not overpowering
+
+Illustrative Cases (Non-Authoritative):
+• Napoleonic Wars — endurance defeats decisiveness
+• Cold War posture — persistence substitutes for confrontation
+• Financial war financing over decades
 
 Hard Constraints:
 • Time advantage collapses if fiscal solvency fails
@@ -145,6 +164,11 @@ Operational Meaning:
 • Victory legitimacy is externalized
 • Balance matters more than dominance
 
+Illustrative Cases (Non-Authoritative):
+• Waterloo — coalition terminates Napoleon
+• World Wars — coalition mass substitutes for solo dominance
+• NATO structure — durability over authorship
+
 Hard Constraints:
 • Coalitions fail without financial and naval underpinning
 • Delegation fails if command integration collapses
@@ -166,6 +190,11 @@ Operational Meaning:
 • Sea control substitutes for land mass
 • Invasion prevention outweighs battlefield victory
 • Maritime dominance converts geography into security
+
+Illustrative Cases (Non-Authoritative):
+• Trafalgar (1805) — invasion threat permanently neutralized
+• Blockade systems — denial more decisive than conquest
+• Atlantic control — continental wars externalized
 
 Hard Constraints:
 • Naval failure exposes the core immediately
@@ -189,6 +218,11 @@ Operational Meaning:
 • Symbolism sustains morale during loss
 • Myth follows system success; it does not create it
 
+Illustrative Cases (Non-Authoritative):
+• “Rule of Law” narrative — stabilizes compliance
+• Wartime symbolism — morale without structural change
+• Imperial mythology — follows success, does not cause it
+
 Hard Constraints:
 • Myth collapses if contradicted by procedure
 • Symbolism cannot override institutional failure
@@ -197,13 +231,8 @@ Hard Constraints:
 ────────────────────────────────────────────────────────────
 III. EXPLICITLY REJECTED DOCTRINES (NON-AUTHORITATIVE)
 ────────────────────────────────────────────────────────────
-The following are **explicitly excluded** from this registry:
-
-• PERMANENT MORAL SUPERIORITY — REJECTED  
-  Reason: Violates procedural neutrality; destabilizes legitimacy under loss
-
-• INEVITABLE PROGRESS — REJECTED  
-  Reason: Incompatible with Anglia’s defeat-absorption model
+• PERMANENT MORAL SUPERIORITY — REJECTED
+• INEVITABLE PROGRESS — REJECTED
 
 Rejected doctrines:
 • Have zero authority
@@ -215,29 +244,28 @@ IV. CITATION RULES
 ────────────────────────────────────────────────────────────
 CIV–CORE–ANGLIA may reference doctrines from this file only.
 
+Illustrative cases:
+• Are NON-AUTHORITATIVE
+• Are NON-CITABLE
+• Exist solely for training and comprehension
+
 Required citation format:
 • Doctrine Name
 • CIV–DOCTRINE–ANGLIA version
 • Doctrine number
-
-Example:
-“Per DOCTRINE 01 (PROCEDURE AS CIVILIZATIONAL MEMORY),
-defeat does not invalidate authority if procedural continuity holds.”
-
-Silent doctrine usage is prohibited.
 
 ────────────────────────────────────────────────────────────
 V. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 This file is LOCKED.
 
-• Additions require DIB–ANGLIA approval
-• Modifications require version bump
+• Doctrinal changes require DIB–ANGLIA approval
+• Illustrative additions require version bump
 • Deletions are forbidden
 
 Supersedes:
-• No prior CIV–DOCTRINE–ANGLIA file (initial issuance)
+• CIV–DOCTRINE–ANGLIA v1.0 (Statute-only edition)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–ANGLIA v1.0
+END OF FILE — CIV–DOCTRINE–ANGLIA v1.1
 ────────────────────────────────────────────────────────────
