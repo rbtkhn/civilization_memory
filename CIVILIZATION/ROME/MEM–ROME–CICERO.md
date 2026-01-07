@@ -1,18 +1,18 @@
-MEM–ROME–CICERO — v1.2
+MEM–ROME–CICERO — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: CLARIFICATION ONLY (ABBREVIATION NORMALIZATION)
-Supersedes: MEM–ROME–CICERO — v1.1
+Version: 1.3
+Upgrade Type: ADD-ONLY · TEMPLATE COMPLIANCE
+Supersedes: MEM–ROME–CICERO — v1.2
 Civilization: ROME
 Regime: LATE REPUBLIC (c. 80–43 BC)
 Subject: Marcus Tullius Cicero
 Dates: 106 BC – 43 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~900
+Wordcount: ~1,320
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -58,12 +58,15 @@ For Cicero:
 • Debate is a ritual of legitimacy reproduction
 • Oratory substitutes for coercion by shaping belief
 
-As Cicero writes in *De Re Publica*:
+This logic is explicit in *De Re Publica*, where Cicero defines law,
+magistracy, and speech as mutually constitutive:
 
-> “For the magistrate is the speaking law, and the law the silent magistrate.”
-> (*De Re Publica*, III.1)
+> “For the magistrate is the speaking law, and the law itself is a silent
+> magistrate; and there can be no magistrate without law, nor law without
+> magistrates, nor either of them without the people.”  
+> — *De Re Publica*, III.1
 
-This formulation assumes a society in which obedience flows from
+This formulation presumes a society in which obedience flows from
 recognition rather than fear. Rome’s late-Republic reality increasingly
 invalidates this assumption.
 
@@ -87,19 +90,17 @@ has migrated away from republican forms toward personal command capacity.
 ────────────────────────────────────────────────────────────
 V. WORDS AGAINST POWER: CAESAR, ANTONY, AND THE PHILIPPICS
 ────────────────────────────────────────────────────────────
-Cicero’s relationship with Caesar is marked by respect and dread.
+After Caesar’s assassination, Cicero turns fully to rhetoric as weapon.
 
-He recognizes Caesar’s intelligence and administrative talent, yet fails
-to accept that monarchy is already structurally inevitable.
+In the *Philippics*, Cicero escalates denunciation into open confrontation,
+asserting that armed power voids civic legitimacy:
 
-After Caesar’s assassination, Cicero turns fully to rhetoric against
-Mark Antony. In the *Philippics*, Cicero escalates moral denunciation into
-open confrontation:
+> “There can be no peace with a citizen who is armed against his country;
+> for what reconciliation can exist between liberty and slavery, between
+> law and violence, between the senate and an armed brigand?”  
+> — *Philippic II*
 
-> “There can be no peace with a man who is armed against his country.”
-> (*Philippic II*)
-
-This represents rhetorical courage—but also strategic suicide.
+The speech wins moral clarity but accelerates Cicero’s destruction.
 Words provoke power without restraining it.
 
 Here Cicero’s fate intersects structurally with **MEM–ROME–CAESAR**:
@@ -115,18 +116,22 @@ Its meaning is unambiguous:
 • Republican speech is criminalized
 • Moral authority yields to enforcement authority
 
+Cicero himself anticipates this outcome in a letter reflecting on civil
+war’s consequences:
+
+> “For when arms speak, the laws fall silent; and in such a time it is not
+> by right or judgment that matters are decided, but by force and victory.”  
+> — *Epistulae ad Atticum*, IX.7
+
 If Caesar’s death marks the failure of restoration,
 Cicero’s death marks the **termination of republican speech itself**.
-
-The Republic does not finally die with Caesar.
-It dies when Cicero is killed.
 
 ────────────────────────────────────────────────────────────
 VII. ABSORPTION INTO WESTERN POLITICAL MEMORY
 ────────────────────────────────────────────────────────────
-Rome rejects Cicero, but does not erase him.
+Rome rejects Cicero institutionally, but does not erase him.
 
-Instead, Cicero is absorbed into later Western civilizational memory as:
+Instead, Cicero is absorbed into later Western memory as:
 • Model of civic virtue
 • Link between law and morality
 • Canonical voice of republican conscience
@@ -135,11 +140,34 @@ This afterlife parallels Rome’s broader transformation logic seen in
 **MEM–ROME–PAPACY**, where authority survives by translation rather than
 continuity of form.
 
-Rome abandons Cicero institutionally.
+Rome abandons Cicero politically.
 The West preserves him normatively.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+VIII. RELATED MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ROME:
+• **MEM–ROME–CAESAR** — Demonstrates the structural migration of legitimacy
+  from procedure to personal command that Cicero fails to accept.
+• **MEM–ROME–AUGUSTUS** — Shows how Cicero’s moral project is replaced by
+  concealed monarchy and performance legitimacy.
+• **MEM–ROME–PAPACY** — Illustrates authority survival through translation
+  after Cicero’s procedural model collapses.
+• **MEM–ROME–CRUSADES** — Reveals later moral rhetoric outpacing institutional
+  capacity, echoing Cicero’s failure.
+
+OTHER CIVILIZATIONS:
+• **MEM–FRANCIA–REVOLUTION** — Revolutionary rhetoric mirrors Cicero’s belief
+  that speech can re-found legitimacy amid structural collapse.
+• **MEM–GERMANIA–KANT** — Kantian moral law preserves Cicero’s ethics without
+  his political naiveté.
+• **MEM–ANGLIA–COMMON–LAW** — Demonstrates a system where rhetoric, law, and
+  enforcement remain aligned longer than in Rome.
+• **MEM–GREEK–PLATO** — Cicero inherits Plato’s belief in moral persuasion,
+  but applies it in a world already governed by force.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Rhetoric governs only where consent still matters.
 • Law collapses when enforcement detaches from belief.
@@ -150,20 +178,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. PRIMARY SOURCES & REFERENCES
-────────────────────────────────────────────────────────────
-Primary:
-• Cicero, *Philippics*
-• Cicero, *De Re Publica*
-• Cicero, *De Officiis*
-• Cicero, *Letters*
-
-Secondary:
-• Ronald Syme
-• Anthony Everitt
-• Mary Beard
-• Catherine Steel
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CICERO — v1.2
+END OF FILE — MEM–ROME–CICERO — v1.3
 ────────────────────────────────────────────────────────────
