@@ -1,49 +1,80 @@
-MEM–ROME–CHRIST — v1.0
+MEM–ROME–CHRIST — v1.1
 Civilizational Memory Codex · Memory File
-Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
+Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · HARMONIZED
+Version: 1.1
+Upgrade Type: COMPLIANCE + CONTEXTUAL ALIGNMENT
 Civilization: ROME
+Regime: IMPERIAL JURISDICTION → METAPHYSICAL DISPLACEMENT
 Subject: Jesus of Nazareth (Christ)
-Dates: c. 4 BCAD – 30/33 AD
+Dates: c. 4 BC – AD 30/33
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Christ as **Rome’s unintended legitimacy disruptor**:
-the figure whose execution as a marginal provincial criminal generated a
-metaphysical system that eventually hollowed out Roman sovereignty and
-reconfigured imperial authority from within.
+This file preserves Christ as **Rome’s unintended legitimacy
+transformer**: the executed provincial figure whose moral framework,
+temporal logic, and concept of authority hollowed out Roman sovereignty
+from within and redefined imperial legitimacy across subsequent
+civilizations.
 
-For Rome, Christ is not a founder of power.
-He is the **redefinition of power’s moral axis**.
+Christ is not Rome’s enemy.
+He is Rome’s **redefinition**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. KINGDOM WITHOUT TERRITORY
+II. IMPERIAL CONTEXT & CATEGORY ERROR
 ────────────────────────────────────────────────────────────
-Christ introduces a form of authority that bypasses Roman categories.
+Rome encounters Christ as a local disturbance.
 
-Core claims:
+Roman framing:
+• Provincial unrest
+• Religious dispute
+• Crowd-control risk
+• Delegated adjudication
+
+Christ is processed through:
+• Pilate’s jurisdiction
+• Roman penal logic
+• Deterrence-oriented execution
+
+This is a category error.
+
+Rome applies criminal law
+to a metaphysical claim.
+
+────────────────────────────────────────────────────────────
+III. KINGDOM WITHOUT TERRITORY
+────────────────────────────────────────────────────────────
+Christ introduces a form of authority incompatible with Roman grammar.
+
+Core characteristics:
 • Kingship without land
 • Authority without coercion
-• Obedience without enforcement
+• Loyalty without enforcement
 • Sovereignty located in conscience
 
-“My kingdom is not of this world” is not withdrawal.
-It is **jurisdictional displacement**.
+“My kingdom is not of this world”
+signals jurisdictional displacement, not withdrawal.
 
-Rome governs bodies.
-Christ addresses allegiance.
+Rome governs space.
+Christ governs allegiance.
 
 ────────────────────────────────────────────────────────────
-III. INVERSION OF POWER LOGIC
+IV. INVERSION OF LEGITIMACY LOGIC
 ────────────────────────────────────────────────────────────
-Christ reverses classical legitimacy hierarchies.
+Christ reverses classical authority hierarchies.
+
+Roman legitimacy:
+→ Power demonstrates righteousness.
+
+Christic legitimacy:
+→ Righteousness exposes power’s limits.
 
 Inversions:
 • Strength through weakness
@@ -51,115 +82,119 @@ Inversions:
 • Authority through suffering
 • Rule through service
 
-Roman logic:
-→ Power proves righteousness.
-
-Christic logic:
-→ Righteousness exposes power’s limits.
-
-This does not confront Rome militarily.
-It **renders Rome morally irrelevant** over time.
+This does not overthrow Rome.
+It **outlasts** it.
 
 ────────────────────────────────────────────────────────────
-IV. LAW, JUDGMENT, & INTERNALIZATION
+V. LAW INTERNALIZED
 ────────────────────────────────────────────────────────────
-Christ relocates law inward.
+Christ relocates law from institution to conscience.
 
-Key transformation:
+Transformations:
 • Sin becomes internal condition
 • Judgment becomes universal and final
 • Moral failure precedes legal guilt
 
-This bypasses Roman jurisprudence.
+Rome adjudicates acts.
+Christ adjudicates being.
 
-Rome adjudicates actions.
-Christ adjudicates souls.
-
-A parallel legal order emerges—without courts.
-
-────────────────────────────────────────────────────────────
-V. EXECUTION AS SYSTEMIC MISREADING
-────────────────────────────────────────────────────────────
-Rome treats Christ as a routine security matter.
-
-Characteristics:
-• Provincial execution
-• Delegated authority (Pilate)
-• Public deterrence logic
-• No strategic concern
-
-This is a category error.
-
-Crucifixion destroys the body
-but **amplifies the message**.
-
-Rome eliminates a man.
-It creates a martyr-framework.
+A parallel legal system emerges—
+without courts, prisons, or enforcement.
 
 ────────────────────────────────────────────────────────────
-VI. MARTYRDOM AS COUNTER-SOVEREIGN TECHNOLOGY
+VI. EXECUTION AS AMPLIFICATION EVENT
 ────────────────────────────────────────────────────────────
-Christ’s death establishes martyrdom as legitimacy engine.
+Crucifixion is intended as deterrence.
+
+Roman assumptions:
+• Pain enforces obedience
+• Death dissolves movements
+• Public execution ends dissent
+
+Actual outcome:
+• Martyrdom converts suffering into proof
+• Death becomes testimony
+• Fear loses leverage
+
+Rome destroys a body.
+It activates a legitimacy engine.
+
+────────────────────────────────────────────────────────────
+VII. MARTYRDOM AS COUNTER-SOVEREIGN TECHNOLOGY
+────────────────────────────────────────────────────────────
+Christ establishes martyrdom as a durable authority mechanism.
 
 Effects:
-• Suffering becomes proof, not failure
-• Death loses deterrent power
-• Obedience shifts beyond fear
+• Deterrence inverted
+• Suffering validates truth
+• Power unable to terrify loses control
 
-Roman enforcement relies on pain.
+Roman enforcement depends on fear.
 Christian witness neutralizes it.
 
-Power that cannot terrify loses leverage.
+Authority shifts beyond pain.
 
 ────────────────────────────────────────────────────────────
-VII. TIME, ESCHATOLOGY, & IMPERIAL PATIENCE
+VIII. TIME, ESCHATOLOGY, & IMPERIAL PATIENCE
 ────────────────────────────────────────────────────────────
 Christ introduces compressed moral time.
 
 Features:
-• History has judgment
+• History moves toward judgment
 • Delay has ethical weight
-• Endurance becomes spiritual resistance
+• Endurance becomes resistance
 
-Unlike Zoroastrian cosmic dualism,
-Christian eschatology personalizes time.
+Empire persists—
+but under a countdown it cannot command.
 
-The empire continues—
-but under a countdown it cannot control.
+Rome governs duration.
+Christ governs destiny.
 
 ────────────────────────────────────────────────────────────
-VIII. ABSORPTION, CO-OPTION, & TRANSFORMATION
+IX. ABSORPTION WITHOUT DOMINATION
 ────────────────────────────────────────────────────────────
 Rome eventually absorbs Christianity.
 
-Dynamics:
+Trajectory:
 • Persecution → toleration → establishment
-• Imperial theology replaces imperial cult
-• Caesar submits symbolically to Christ
+• Imperial cult replaced by imperial theology
+• Caesar kneels symbolically to Christ
 
-Yet absorption is asymmetric.
+Absorption is asymmetric.
 
-Rome gains survival.
-It loses metaphysical supremacy.
+Rome survives administratively.
+It yields metaphysically.
 
-The empire kneels to what it killed.
+The empire submits to what it executed.
 
 ────────────────────────────────────────────────────────────
-IX. CIVILIZATIONAL AFTERSHOCK
+X. CONTINUITY & CIVILIZATIONAL AFTERSHOCK
 ────────────────────────────────────────────────────────────
-Christ reshapes Rome’s descendants.
+Christ reshapes Rome’s successors.
 
 Enduring effects:
 • Moral universalism
 • Dignity detached from citizenship
 • Authority constrained by conscience
-• Sovereignty judged, not absolute
+• Sovereignty rendered accountable
 
-Empire persists—
-but never again morally unquestioned.
+Empire continues—
+but never again unquestioned.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. RELATIONAL MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–ROME–PALESTINE contextualizes Christ within the covenantal
+  incompatibility Rome fails to administer.
+
+• MEM–ROME–PALESTINE–JERUSALEM frames crucifixion and Temple destruction
+  as parallel transmission events producing portable legitimacy systems.
+
+• MEM–ROME–CHRISTIANITY (forthcoming) will trace institutionalization,
+  doctrinal stabilization, and imperial absorption pathways.
+
+────────────────────────────────────────────────────────────
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Power collapses fastest when its moral grammar is inverted.
 • Execution can amplify what repression misunderstands.
@@ -171,12 +206,12 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XIII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Canonical Gospels
 • Pauline Epistles
-• Tacitus, *Annals*
+• Tacitus, *Annals* XV.44
 • Josephus (Testimonium Flavianum, contested)
 
 Secondary:
@@ -186,5 +221,5 @@ Secondary:
 • Rowan Williams
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CHRIST — v1.0
+END OF FILE — MEM–ROME–CHRIST — v1.1
 ────────────────────────────────────────────────────────────
