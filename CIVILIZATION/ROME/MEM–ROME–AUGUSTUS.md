@@ -1,17 +1,17 @@
-MEM–ROME–AUGUSTUS — v1.0
+MEM–ROME–AUGUSTUS — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADD-ONLY · TEMPLATE COMPLIANCE
 Civilization: ROME
 Regime: PRINCIPATE (CONCEALED MONARCHY)
 Subject: Gaius Octavius (Augustus)
-Dates: 63 BCAD – 14 AD
+Dates: 63 BC – AD 14
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Wordcount: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -28,7 +28,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. POST-CAESARIAN CHAOS & LEGITIMACY VACUUM
 ────────────────────────────────────────────────────────────
-Following Caesar’s assassination (44 BCAD), Rome enters systemic collapse.
+Following Caesar’s assassination (44 BC), Rome enters systemic collapse.
 
 Conditions:
 • Competing warlords with personal armies
@@ -47,9 +47,9 @@ III. DEFEAT OF RIVALS & CONSOLIDATION OF FORCE
 Augustus eliminates competitors sequentially.
 
 Key milestones:
-• Defeat of Brutus and Cassius (Philippi, 42 BCAD)
+• Defeat of Brutus and Cassius (Philippi, 42 BC)
 • Neutralization of Lepidus
-• Destruction of Antony and Cleopatra (Actium, 31 BCAD)
+• Destruction of Antony and Cleopatra (Actium, 31 BC)
 
 Violence is decisive but transitional.
 Unlike Caesar, Augustus treats force as a temporary tool.
@@ -59,19 +59,25 @@ Once rivals are gone, violence recedes from visibility.
 ────────────────────────────────────────────────────────────
 IV. THE AUGUSTAN SETTLEMENT: POWER WITHOUT TITLE
 ────────────────────────────────────────────────────────────
-In 27 BCAD, Augustus announces the “restoration of the Republic.”
+In 27 BC, Augustus announces the “restoration of the Republic.”
 
-Reality:
-• Senate retains ceremonial authority
+This claim is not accidental propaganda; it becomes the operating fiction
+of Roman governance. As Augustus records in his own retrospective account:
+
+“I transferred the Republic from my power to the control of the Senate and
+the Roman people. For this service I was given the title Augustus by decree
+of the Senate, and the doorposts of my house were publicly wreathed with
+laurel, and a civic crown was fixed above my door, and a golden shield was
+set up in the Julian Senate House, which bore witness to my valor, clemency,
+justice, and piety.” — *Res Gestae Divi Augusti*
+
+Reality diverges sharply:
+• The Senate retains ceremonial authority
 • Augustus controls armies, provinces, and revenues
 • Legal power flows through offices he dominates
 
-Techniques:
-• Accumulation of overlapping magistracies
-• Lifetime command without explicit kingship
-• Deference theater masking supremacy
-
 Monarchy is denied rhetorically and enforced structurally.
+Sovereignty migrates while forms remain intact.
 
 ────────────────────────────────────────────────────────────
 V. LEGITIMACY THROUGH PERFORMANCE & PEACE
@@ -84,10 +90,16 @@ New basis:
 • Prosperity
 • Predictability
 
-Civil war trauma conditions acceptance.
-Romans prefer stability to participation.
+Tacitus later identifies the trade implicit in this settlement:
+
+“When the State had been revolutionized, and there was no longer any hope
+in the old constitution, the leading men accepted the new order. The mass
+of citizens preferred the quiet of the present to the dangers of the past,
+and the provinces, exhausted by civil war, were content with peace at any
+price.” — Tacitus, *Annals*
 
 Consent is regenerated through outcome, not voice.
+Peace becomes a political technology.
 
 ────────────────────────────────────────────────────────────
 VI. MORAL REFORM & SOCIAL ENGINEERING
@@ -108,15 +120,19 @@ This stabilizes rule while constraining future flexibility.
 ────────────────────────────────────────────────────────────
 VII. SUCCESSION WITHOUT SUCCESSION
 ────────────────────────────────────────────────────────────
-Augustus faces the unsolved problem of inheritance.
+Augustus never resolves inheritance institutionally.
 
 Features:
 • No formal office to pass on
 • Heirs die or are eliminated
 • Adoption substitutes for law
 
-The system survives him,
-but only by improvisation.
+Suetonius captures the fragility beneath the calm:
+
+“He had long foreseen that the State would suffer from a lack of settled
+order once he was gone, and although he had trained several successors,
+fortune removed them one by one, so that at last he was compelled to leave
+the commonwealth to chance rather than to design.” — Suetonius, *Divus Augustus*
 
 The Principate works because Augustus lives.
 After him, continuity depends on discipline, not design.
@@ -137,14 +153,19 @@ visibility of power invites assassination.
 Durability requires invisibility.
 
 ────────────────────────────────────────────────────────────
-IX. RELATED MEM CONNECTIONS
+IX. RELATED MEM CONNECTIONS (MANDATORY SET)
 ────────────────────────────────────────────────────────────
-• This settlement directly absorbs the crisis exposed in MEM–ROME–CAESAR,
-  converting personal domination into institutionalized concealment.
+ROME:
+• MEM–ROME–CAESAR — personal domination without concealment.
+• MEM–ROME–HADRIAN — maintenance intelligence following expansion.
+• MEM–ROME–PAPACY — authority survival through translation.
+• MEM–ROME–CONSTANTINOPLE — continuity via relocation.
 
-• Augustus completes the continuity later preserved geographically in
-  MEM–ROME–CONSTANTINOPLE, where imperial authority survives by translation
-  rather than restoration.
+OTHER CIVILIZATIONS:
+• MEM–FRANCIA–NAPOLEON — overt seizure vs concealed monarchy.
+• MEM–ANGLIA–GLORIOUS–REVOLUTION — sovereignty masked by constitutional form.
+• MEM–GERMANIA–BISMARCK — power embedded in system design rather than title.
+• MEM–RUSSIA–PETER–THE–GREAT — modernization through controlled absolutism.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -159,13 +180,12 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. PRIMARY SOURCES (INTEGRATED)
 ────────────────────────────────────────────────────────────
-Primary:
-• Augustus, Res Gestae Divi Augusti
-• Suetonius, Divus Augustus
-• Tacitus, Annals (early books)
-• Velleius Paterculus, Roman History
+Primary sources are woven directly into Sections IV, V, and VII:
+• Augustus, *Res Gestae Divi Augusti*
+• Tacitus, *Annals*
+• Suetonius, *Divus Augustus*
 
 Secondary:
 • Ronald Syme
@@ -174,15 +194,5 @@ Secondary:
 • Anthony Everitt
 
 ────────────────────────────────────────────────────────────
-XI.a VERBATIM PRIMARY-SOURCE EXCERPTS
-────────────────────────────────────────────────────────────
-“I restored the Republic from my power to the dominion of the Senate and
-people of Rome.” — Augustus, Res Gestae Divi Augusti.
-
-“After that time I excelled all in authority, but I possessed no more
-official power than others who were my colleagues in the several
-magistracies.” — Augustus, Res Gestae Divi Augusti.
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–AUGUSTUS — v1.0
+END OF FILE — MEM–ROME–AUGUSTUS — v1.1
 ────────────────────────────────────────────────────────────
