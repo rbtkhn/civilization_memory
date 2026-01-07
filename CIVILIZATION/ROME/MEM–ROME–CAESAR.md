@@ -1,25 +1,27 @@
-MEM–ROME–CAESAR — v1.0
+MEM–ROME–CAESAR — v1.1
 Civilizational Memory Codex · Memory File
-Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
+Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: LOCKED
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADD-ONLY · SCHOLAR COMPLIANCE
 Civilization: ROME
 Regime: LATE REPUBLIC → PERSONAL DOMINION (c. 60–44 BCAD)
 Subject: Gaius Julius Caesar
 Dates: 100–44 BCAD
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Julius Caesar as the **terminal accelerant of the Roman
-Republic**: the figure who transformed republican crisis into personal
+This file preserves Julius Caesar as the terminal accelerant of the Roman
+Republic: the figure who transformed republican crisis into personal
 sovereignty and exposed the incompatibility between imperial scale and
 republican procedure.
 
-Caesar represents **rupture through concentration**, not restoration.
+Caesar represents rupture through concentration, not restoration.
 He did not end the Republic to destroy it, but to make it governable.
 
 Contradictions are preserved without synthesis.
@@ -54,7 +56,7 @@ Key mechanisms:
 Legitimacy migrates:
 Senate → People → Commander
 
-Authority becomes **performative and personal**.
+Authority becomes performative and personal.
 
 ────────────────────────────────────────────────────────────
 IV. MILITARY COMMAND AS POLITICAL CAPITAL
@@ -152,6 +154,17 @@ Augustus completes what Caesar exposes:
 Empire requires monarchy in all but name.
 
 ────────────────────────────────────────────────────────────
+IX.a RELATED MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• This case structurally precedes and informs MEM–ROME–PAPACY, where
+  Roman authority survives collapse by translating sovereignty from
+  political command into spiritual jurisdiction.
+
+• Caesar’s concentration of authority anticipates tensions later visible
+  in MEM–ROME–CRUSADES, where universal claims outpace institutional
+  capacity, producing legitimacy exhaustion.
+
+────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Republican procedure collapses under imperial scale.
@@ -167,11 +180,11 @@ Tension preserved without verdict.
 XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
-• *Commentarii de Bello Gallico*
-• *Commentarii de Bello Civili*
-• Cicero’s correspondence
-• Suetonius, *Divus Julius*
-• Plutarch, *Life of Caesar*
+• Julius Caesar, Commentarii de Bello Gallico
+• Julius Caesar, Commentarii de Bello Civili
+• Cicero, Epistulae ad Atticum
+• Suetonius, Divus Julius
+• Plutarch, Life of Caesar
 
 Secondary:
 • Ronald Syme
@@ -180,5 +193,14 @@ Secondary:
 • Mary Beard
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CAESAR — v1.0
+XI.a VERBATIM PRIMARY-SOURCE EXCERPTS
+────────────────────────────────────────────────────────────
+“The die is cast.” — Suetonius, Divus Julius, describing Caesar’s
+decision at the Rubicon.
+
+“In civil wars laws are silent.” — Cicero, Epistulae ad Atticum,
+on the suspension of republican legality during Caesar’s ascendancy.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–CAESAR — v1.1
 ────────────────────────────────────────────────────────────
