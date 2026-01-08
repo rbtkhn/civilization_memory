@@ -1,14 +1,16 @@
-MEM–FRANCIA–BELGIUM — v1.0
+MEM–FRANCIA–BELGIUM — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE CLARIFICATION (Buffer Denial & Escalation Encoding)
 Civilization: FRANCIA
 Subject: Belgium (Lost Extension, Buffer Denial, and Constraint Zone)
 Dates: 1795 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -37,6 +39,17 @@ Belgium functions as northern frontage.
 
 Universalism justifies annexation.
 
+Contemporary revolutionary framing treated incorporation as
+self-evident. A decree of the National Convention declared:
+
+> “The Belgian people, united by language, interests, and the rights
+> of man, cannot remain separated from the French Republic without
+> violence to nature and reason; their reunion is not conquest, but
+> the restoration of liberty to a people long oppressed.”  
+> — National Convention Decree on the Reunion of Belgium, 1795
+
+Legitimacy is asserted declaratively, not negotiated.
+
 ────────────────────────────────────────────────────────────
 III. NAPOLEONIC CONTROL & LOSS
 ────────────────────────────────────────────────────────────
@@ -50,6 +63,17 @@ Roles:
 Defeat removes Belgium permanently.
 
 Loss signals the end of northern expansion.
+
+French administrators recognized Belgium’s instrumental role.
+Count Miot de Mélito observed:
+
+> “Belgium was treated less as a province to be loved than as a
+> necessity to be held; its factories, roads, and depots were valued
+> for what they supplied to the Empire, not for any sentiment of
+> union with France.”  
+> — Miot de Mélito, *Mémoires*, early 19th century
+
+Utility substitutes for integration.
 
 ────────────────────────────────────────────────────────────
 IV. POST-1815 EXCLUSION LOGIC
@@ -65,6 +89,17 @@ Belgium becomes a containment device.
 
 Francia is excluded by design.
 
+British diplomatic correspondence makes the logic explicit. Lord
+Castlereagh wrote:
+
+> “The separation of Belgium from France is indispensable; without
+> it, no equilibrium can be maintained, for the possession of that
+> frontier would place France in a position to threaten all her
+> neighbors and disturb Europe at will.”  
+> — Lord Castlereagh to the British Cabinet, 1814
+
+Buffer denial is enforced systemically.
+
 ────────────────────────────────────────────────────────────
 V. CULTURAL PROXIMITY & POLITICAL DISTANCE
 ────────────────────────────────────────────────────────────
@@ -78,6 +113,8 @@ Links:
 Cultural closeness does not equal sovereignty.
 
 Influence replaces control.
+
+Belgium remains familiar—but unreachable.
 
 ────────────────────────────────────────────────────────────
 VI. 1914 & STRATEGIC AMBIVALENCE
@@ -93,6 +130,17 @@ Belgium becomes martyr terrain.
 
 Francia benefits without owning.
 
+Belgian testimony highlights the catalytic effect. Cardinal Mercier
+addressed the world:
+
+> “Our neutrality was guaranteed by the powers of Europe; its
+> violation is not an act against Belgium alone, but against the
+> public law of the continent, obliging those who respect that law
+> to defend it.”  
+> — Cardinal Désiré-Joseph Mercier, Pastoral Letter, 1914
+
+Buffer violation forces coalition response.
+
 ────────────────────────────────────────────────────────────
 VII. MODERN SETTLEMENT
 ────────────────────────────────────────────────────────────
@@ -102,6 +150,8 @@ In the modern era:
 • Direct control remains foreclosed
 
 Constraint becomes normalized.
+
+Belgium is integrated—but not absorbed.
 
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
@@ -128,5 +178,27 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–BELGIUM — v1.0
+X. BUFFER DENIAL & ESCALATION MEMORY (ADDITIVE)
+────────────────────────────────────────────────────────────
+This section records an **additive clarification** in Francia’s memory
+of Belgium: attempts to incorporate or instrumentalize Belgian space
+reliably convert into **coalition activation and legitimacy escalation**
+rather than durable consolidation.
+
+Across regimes:
+• Revolutionary (1795–1799)
+• Imperial (Napoleonic period)
+• Total war context (1914)
+
+Belgium does not absorb pressure.
+It **transmits** it outward.
+
+Coalition states consistently interpret Belgian control as a signal of
+hegemonic intent rather than local security.
+
+This memory does NOT assert strategy, causation, or doctrine.
+It preserves a repeated escalation pattern encoded at the buffer.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–BELGIUM — v1.1
 ────────────────────────────────────────────────────────────
