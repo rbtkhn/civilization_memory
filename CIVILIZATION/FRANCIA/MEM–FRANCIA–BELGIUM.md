@@ -1,16 +1,16 @@
-MEM–FRANCIA–BELGIUM — v1.2
+MEM–FRANCIA–BELGIUM — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE CLARIFICATION (Buffer Transmission Contrast Encoding)
+Version: 1.3
+Upgrade Type: ADDITIVE COMPLIANCE COMPLETION
 Civilization: FRANCIA
 Subject: Belgium (Lost Extension, Buffer Denial, and Constraint Zone)
 Dates: 1795 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Wordcount: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -231,5 +231,74 @@ This clarification:
 It records **how pressure behaves** at this specific frontier.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–BELGIUM — v1.2
+XII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+This section records **explicit structural connections** between
+Belgium and other civilizational memory files, as required.
+
+Connected MEM files include:
+
+• MEM–FRANCIA–NETHERLANDS  
+  The Netherlands function as a partially diffusive buffer where
+  escalation can be delayed through finance, coalition signaling,
+  and maritime depth—contrasting Belgium’s instant transmission.
+
+• MEM–FRANCIA–DENMARK  
+  Denmark encodes controlled chokepoint buffering, where pressure
+  may be managed incrementally without immediate coalition cascade.
+
+• MEM–FRANCIA–SWEDEN  
+  Sweden demonstrates buffered autonomy through distance and
+  institutional insulation absent in Belgium’s geography.
+
+• MEM–GERMANIA–AUSTRIA–HUNGARY  
+  Austria–Hungary represents delayed collapse via internal
+  compartmentalization, whereas Belgium denies delay entirely.
+
+• MEM–GERMANIA–POLAND–LITHUANIA–COMMONWEALTH  
+  Poland–Lithuania encodes buffer diffusion through plural structure,
+  contrasting Belgium’s entangled exposure.
+
+• MEM–GERMANIA–NETHERLANDS  
+  German interaction with the Low Countries confirms coalition
+  sensitivity independent of French ambition alone.
+
+• MEM–ANGLIA–NETHERLANDS (planned)  
+  Anglia’s buffer logic prioritizes maritime insulation over
+  continental exposure, clarifying why Belgium triggers Anglian
+  intervention reflexively.
+
+• MEM–ANGLIA–BELGIUM (planned)  
+  Anglia’s perspective frames Belgium as a “danger hinge” whose
+  neutrality violation mandates escalation.
+
+Connections are preservational, not synthesizing.
+
+────────────────────────────────────────────────────────────
+XIII. GAME & ENGINE COMPATIBILITY ENCODING (MANDATORY)
+────────────────────────────────────────────────────────────
+This memory encodes the following **engine-relevant signals**:
+
+Warnings:
+• Attempts to consolidate Belgium reliably activate coalition
+  escalation beyond local control.
+
+Temptations:
+• Belgium presents recurring illusions of administrative ease,
+  cultural proximity, and strategic depth.
+
+Remembered Failures:
+• 1795 incorporation
+• Napoleonic retention
+• Indirect benefit without ownership in 1914
+
+Latent Risks:
+• Misreading Belgium as absorbent rather than transmissive
+• Treating buffer control as local rather than systemic signal
+
+This file does NOT generate actions.
+It constrains option space through remembered escalation.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–BELGIUM — v1.3
 ────────────────────────────────────────────────────────────
