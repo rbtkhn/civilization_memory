@@ -1,16 +1,16 @@
-MEM–FRANCIA–BELGIUM — v1.1
+MEM–FRANCIA–BELGIUM — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE CLARIFICATION (Buffer Denial & Escalation Encoding)
+Version: 1.2
+Upgrade Type: ADDITIVE CLARIFICATION (Buffer Transmission Contrast Encoding)
 Civilization: FRANCIA
 Subject: Belgium (Lost Extension, Buffer Denial, and Constraint Zone)
 Dates: 1795 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Wordcount: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -200,5 +200,36 @@ This memory does NOT assert strategy, causation, or doctrine.
 It preserves a repeated escalation pattern encoded at the buffer.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–BELGIUM — v1.1
+XI. BUFFER TRANSMISSION CONTRAST (ADDITIVE)
+────────────────────────────────────────────────────────────
+This section records an **additional Francia-specific clarification**
+derived from comparative northern experience:
+
+Belgium functions not as a **diffusive buffer**, but as an
+**entangled buffer**.
+
+In Francia’s memory:
+• Pressure applied to Belgium propagates immediately into
+  coalition mobilization, diplomatic escalation, and legitimacy
+  framing beyond the local theater.
+• Control attempts are interpreted externally as systemic threat,
+  not regional adjustment.
+• Time, attrition, and gradual rollback are denied.
+
+By contrast (without comparison being resolved here):
+• Other northern spaces permit diffusion, delay, or negotiated
+  rollback before escalation.
+
+Belgium therefore encodes **instant transmission**, not resistance.
+
+This clarification:
+• Does NOT rank buffers
+• Does NOT generate doctrine
+• Does NOT imply strategic prescription
+• Does NOT alter prior sections
+
+It records **how pressure behaves** at this specific frontier.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–BELGIUM — v1.2
 ────────────────────────────────────────────────────────────
