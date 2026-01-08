@@ -1,24 +1,20 @@
-CIV–CORE–GERMANIA — V1.5
+CIV–CORE–GERMANIA — v1.6
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
-Version: 1.5
-Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING (TEMPLATE-CORRECTIVE)
-Lock Level: STRUCTURAL
 Compatibility: CIV / MEM Architecture
-Conceptual Lineage: CIV–CORE–GERMANIA V1.4 ← V1.3 ← V1.2 ← V1.1 ← SCE–CIV–GERMANIA V9.x
-Template Version Used: CIV–CORE–TEMPLATE v1.5
-DIB Status: ENABLED (FIREWALLED)
-Scholar Reference Mode: DIB-GATED
-Repository: https://github.com/rbtkhn/civilization_memory
-Wordcount: 4,020
+Conceptual Lineage: CIV–CORE–GERMANIA v1.5 ← v1.4 ← v1.3 ← v1.2 ← v1.1 ← SCE–CIV–GERMANIA v9.x
+Upgrade Type: ADDITIVE (DIAGNOSTIC REFINEMENT ONLY)
+Lock Level: STRUCTURAL (content expandable without renumbering)
+Source Authority: CIV–MEM–CORE v1.5 · CIV–CORE–TEMPLATE v1.5 · DIB–GERMANIA Decision 0006
+Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
-I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (REAFFIRMED)
+I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
 ────────────────────────────────────────────────────────────
 
-1. Depth-Through-Organization Civilization (LOCKED)  
+1. Depth-Through-Organization Civilization  
 Germania produces endurance through process, repetition, and institutional
 depth rather than charisma, ideology, or narrative unity.
 
@@ -39,14 +35,13 @@ Narrative follows process, never leads it.
 Germania governs through rule-bound administration and coalition-managed
 execution, not ideological command.
 
-[ADDITIVE — Scholar v0.1 Integration]  
 6. Disciplined Restraint Clause (DERIVED, NON-LOCKED)  
 Germania’s endurance depends on the binding of discipline to restraint;
 organizational competence must always be subordinated to political control
 and closure, never momentum or myth.
 
 ────────────────────────────────────────────────────────────
-II. LEGITIMACY ACCOUNTING LAYER (UNCHANGED)
+II. LEGITIMACY ACCOUNTING LAYER
 ────────────────────────────────────────────────────────────
 
 MANDATORY OUTPUTS:
@@ -59,12 +54,12 @@ Hard Rules:
 • CTI ↓ + MSR ↑ → accelerated legitimacy erosion  
 • PC ↓ with CTI HIGH → hidden brittleness  
 
-[ADDITIVE — Scholar v0.3 Diagnostic]
+Diagnostic Notes:
 • CTI HIGH with MSR rising indicates moral substitution masking system strain  
 • PC HIGH with declining replacement depth signals latent inversion risk  
 
 ────────────────────────────────────────────────────────────
-III. HISTORICAL–TEMPORAL CONTINUITY ENGINE (EXTENDED)
+III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
 
 Germania preserves systems, not ideologies.
@@ -77,27 +72,26 @@ Persistent layers:
 • Total-war logistics systems  
 • Post-war technocratic rehabilitation  
 
-Additive rule (V1.2):
-Victory validates systems.
+Continuity Rule:
+Victory validates systems.  
 Defeat purges narrative, not process.
 
-[ADDITIVE — Scholar v0.3 Memory Function]
-Traumatic defeat is retained as a negative systems template, reinforcing
+Traumatic defeat is retained as a **negative systems template**, reinforcing
 restraint and institutional learning rather than ideological revision.
 
 ────────────────────────────────────────────────────────────
-IV. SPATIAL–CIVILIZATIONAL GEOMETRY (REINFORCED)
+IV. SPATIAL–CIVILIZATIONAL GEOMETRY
 ────────────────────────────────────────────────────────────
 
-A. Core
+A. Core  
 • Rhine–Danube administrative spine  
 • Central European industrial lattice  
 
-B. Corridor Geometry
+B. Corridor Geometry  
 • East–West transit dependency  
 • Export-channel vulnerability  
 
-C. Borderland Stress Zones
+C. Borderland Stress Zones  
 • Alsace–Lorraine  
 • Polish corridor legacy  
 • Eastern frontier depth compression  
@@ -106,7 +100,7 @@ MANDATORY OUTPUT:
 • Depth Integrity: INTACT / STRAINED / BREACHED  
 
 ────────────────────────────────────────────────────────────
-V. GOVERNANCE ARCHITECTURE (UNCHANGED)
+V. GOVERNANCE ARCHITECTURE
 ────────────────────────────────────────────────────────────
 
 • Rule-bound administration  
@@ -119,24 +113,7 @@ MANDATORY OUTPUTS:
 • Coalition Stability (CS): STABLE / STRAINED / FRAGMENTING  
 
 ────────────────────────────────────────────────────────────
-VI. DYNASTIC CONTINUITY LAYER (TEMPLATE-COMPLIANT INSERT)
-────────────────────────────────────────────────────────────
-
-Germania exhibits **low dynastic centrality** and **high institutional
-substitution capacity**.
-
-Continuity is preserved through:
-• Administrative carryover across regimes  
-• Officer corps and civil service persistence  
-• Legal codification over bloodline legitimacy  
-
-Dynastic rupture does not constitute civilizational rupture.
-
-CONSTRAINT:
-• No dynasty is permitted narrative primacy over institutional continuity.
-
-────────────────────────────────────────────────────────────
-VII. ECONOMIC–FINANCIAL DOCTRINE (REINFORCED)
+VI. ECONOMIC–INDUSTRIAL DOCTRINE
 ────────────────────────────────────────────────────────────
 
 • Export-driven industrialism  
@@ -149,21 +126,21 @@ MANDATORY OUTPUTS:
 • Industrial Replacement Rate (IRR): ABOVE / AT / BELOW burn-rate  
 • Energy Security (ES): SECURE / CONTESTED / FRAGILE  
 
-[ADDITIVE — Scholar v0.4 Constraint]
-Replacement capacity is the primary legitimacy substrate; growth models
-that degrade replacement depth constitute hidden decay.
+Constraint:
+Replacement capacity is the **primary legitimacy substrate**; economic
+optimization that degrades replacement depth constitutes hidden decay.
 
 ────────────────────────────────────────────────────────────
-VIII. TECHNOLOGICAL / COMPUTE SOVEREIGNTY (UNCHANGED)
+VII. TECHNOLOGICAL–COMPUTE SOVEREIGNTY
 ────────────────────────────────────────────────────────────
 
-Compute treated as industrial input, not narrative domain.
+Compute as industrial input, not narrative arena.
 
 MANDATORY OUTPUT:
 • Compute Sovereignty Status: SECURE / CONTESTED / FRAGILE  
 
 ────────────────────────────────────────────────────────────
-IX. MILITARY–STRATEGIC DOCTRINE (CLARIFIED)
+VIII. MILITARY–STRATEGIC DOCTRINE
 ────────────────────────────────────────────────────────────
 
 • Deterrence by reliability  
@@ -171,18 +148,21 @@ IX. MILITARY–STRATEGIC DOCTRINE (CLARIFIED)
 • Logistics-first force design  
 • Replacement depth dependency  
 
-Additive constraint:
+Constraint:
 Operational excellence without political restraint amplifies exposure.
 
-[ADDITIVE — Scholar v0.4 Precision Rule]
-Germania may strike decisively only when legitimacy is pre-engineered,
-objectives finite, tempo controlled, and stopping rules enforced.
+Precision Rule:
+Germania may strike decisively **only** when:
+• Legitimacy is pre-engineered  
+• Objectives are finite  
+• Tempo is controlled  
+• A hard stopping rule is enforced  
 
 MANDATORY OUTPUT:
 • Strategic Autonomy (SA): HIGH / MED / LOW  
 
 ────────────────────────────────────────────────────────────
-X. INTERNAL SECURITY & SOCIAL ORDER (UNCHANGED)
+IX. INTERNAL SECURITY & SOCIAL ORDER
 ────────────────────────────────────────────────────────────
 
 • High compliance norms  
@@ -193,7 +173,7 @@ MANDATORY OUTPUT:
 • Social Stability: STABLE / TENSE / FRACTURING  
 
 ────────────────────────────────────────────────────────────
-XI. INFORMATION & NARRATIVE GOVERNANCE (UNCHANGED)
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 • Technocratic neutrality  
@@ -203,20 +183,35 @@ XI. INFORMATION & NARRATIVE GOVERNANCE (UNCHANGED)
 MANDATORY OUTPUT:
 • Narrative Autonomy: HIGH / MED / LOW  
 
+Risk:
+Narrative moralization of operational success signals discipline detaching
+from restraint and indicates inversion risk.
+
 ────────────────────────────────────────────────────────────
-XII. TIME ORIENTATION LAYER (REINFORCED)
+XI. TIME ORIENTATION LAYER (v1.6 ADDITIVE — ACTIVE)
 ────────────────────────────────────────────────────────────
 
 Germania benefits from long, predictable timelines.
+Rapid escalation penalizes process-heavy systems.
 
-Additive rule:
-Endure first, then strike precisely.
+Compression crises favor adversaries with narrative agility.
+
+Commitment Saturation Rule:
+When Germania’s planning calendar becomes more rigid than its political
+decision space, **time advantage reverses**. Systems optimized for
+precision under restraint lose endurance when credibility-locking
+precedes choice.
+
+Implications:
+• Apparent readiness may mask loss of maneuver  
+• Acceleration penalties rise sharply after commitment binding  
+• Delay regains value only if commitments are unwindable  
 
 MANDATORY OUTPUT:
 • Time Advantage: GERMANIA / ADVERSARY / NEUTRAL  
 
 ────────────────────────────────────────────────────────────
-XIII. EXIT–BUILDING META-DOCTRINE (UNCHANGED)
+XII. EXIT–BUILDING META-DOCTRINE
 ────────────────────────────────────────────────────────────
 
 Exit manifests as:
@@ -229,95 +224,131 @@ MANDATORY OUTPUT:
 • Exit State: INACTIVE / ACTIVE / ACCELERATING  
 
 ────────────────────────────────────────────────────────────
-XIV. CROSS–CIVILIZATIONAL SYNCHRONIZATION (EXTENDED)
+XIII. CROSS–CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
 
-• Anglia — security umbrella  
-• Francia — regulatory symmetry  
-• Russia — legacy energy constraint  
+• Anglia — security umbrella & escalation buffer  
+• Francia — regulatory symmetry & border friction  
+• Russia — former energy depth (legacy constraint)  
 • China — industrial complement (contested)  
 
 MANDATORY OUTPUT:
 • Axis Stability: HIGH / MED / LOW  
 
 ────────────────────────────────────────────────────────────
-XV. FAILURE PHYSICS (EXPANDED)
+XIV. FAILURE PHYSICS (v1.6 ADDITIVE — ACTIVE)
 ────────────────────────────────────────────────────────────
 
-Defined failure modes:
-• Replacement Illusion  
-• Moral Delegation Trap  
-• Shock Compression Failure  
-• Discipline Inversion  
+A) Replacement Illusion  
+Process masks input collapse.
+
+B) Moral Delegation Trap  
+External legitimacy corrodes internal authority.
+
+C) Shock Compression Failure  
+Institutions cannot re-time crises.
+
+D) Discipline Inversion  
+Operational excellence uncoupled from restraint converts competence into
+overreach.
+
+E) Commitment Saturation Pre-Inversion Signal  
+Formalized contradiction systems remain governable below shock thresholds.
+Once planning binds to named contingencies, calendarized commitments,
+credibility rehearsals, or standing alliance triggers, flexibility
+collapses into brittle readiness and timing—not scale—becomes decisive.
 
 MANDATORY OUTPUT:
 • Failure Mode: NONE / EMERGING / ACTIVE  
 
 ────────────────────────────────────────────────────────────
-XVI. IRREVERSIBILITY GRID (GRID-DE)
+XV. IRREVERSIBILITY GRID (GRID-DE)
 ────────────────────────────────────────────────────────────
+
+Dimensions:
+• Industrial Base Integrity  
+• Energy Security  
+• Demographic Momentum  
+• Alliance Optionality  
+• Narrative Autonomy  
 
 MANDATORY OUTPUT:
 • GRID-DE: REVERSIBLE / STICKY / IRREVERSIBLE  
 
 ────────────────────────────────────────────────────────────
-XVII. RESTORATION INVALIDATION RULE (RIR-DE)
+XVI. RESTORATION INVALIDATION RULE (RIR-DE)
 ────────────────────────────────────────────────────────────
+
+If GRID-DE = IRREVERSIBLE OR Failure Mode = ACTIVE → restoration narratives
+are invalid.
 
 MANDATORY OUTPUT:
 • RIR-DE: INACTIVE / ACTIVE  
 
 ────────────────────────────────────────────────────────────
-XVIII. STRATEGIC RED LINES
+XVII. STRATEGIC RED LINES
 ────────────────────────────────────────────────────────────
 
-Defined red lines:
-• Loss of replacement capacity  
+• Loss of industrial replacement capacity  
 • Energy dependency without redundancy  
-• Demographic collapse  
-• Alliance entrapment  
+• Demographic collapse below replacement  
+• Alliance entrapment without exit options  
+
+Trigger:
+Crossing two or more red lines simultaneously → Systemic Collapse
+Probability HIGH
 
 ────────────────────────────────────────────────────────────
-XIX. DOCTRINE INTAKE BUFFER (DIB) — GERMANIA (LOCKED)
+XVIII. SCHOLAR MODE
 ────────────────────────────────────────────────────────────
 
-Authoritative Buffer File:
-• CIV–CORE–GERMANIA–DIB — v1.0
-
-Permitted outcomes:
-• ACCEPT / ACCEPT WITH MODIFICATIONS / DEFER / REJECT
-
-Default action: REJECT.
-
-────────────────────────────────────────────────────────────
-XX. SCHOLAR REFERENCE INDEX (NON-AUTHORITATIVE)
-────────────────────────────────────────────────────────────
-
-• CIV–SCHOLAR–GERMANIA v0.1–v0.4  
+Scholar Mode consumes:
+• MEM–GERMANIA–FREDERICK–GREAT  
 • MEM–GERMANIA–PRUSSIA  
 • MEM–GERMANIA–BISMARCK  
 • MEM–GERMANIA–WAR–FRANCO–PRUSSIAN  
+• MEM–GERMANIA–HITLER (INVERSION CASE)  
+
+Scholar doctrines remain epistemic unless DIB-accepted.
 
 ────────────────────────────────────────────────────────────
-XXI. SESSION HEADER (OPTIONAL)
+XIX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 
 Active Civ: GERMANIA  
-CTI | PC | MSR | PE  
-GC | CS | IRR | ES  
-SA | Exit | Failure | GRID-DE  
+CTI: __ | PC: __ | MSR: __ | PE: __  
+GC: __ | CS: __ | IRR: __ | ES: __  
+Compute: __ | SA: __ | Depth: __  
+Exit: __ | Failure: __ | TimeAdv: __  
+GRID-DE: __ | RIR-DE: __  
 
 ────────────────────────────────────────────────────────────
-XXII. MANDATORY VERDICT BLOCK
+XX. MANDATORY VERDICT BLOCK
 ────────────────────────────────────────────────────────────
 
-• Strategic Classification:
-  INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
-  OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
-• Failure State: NONE / EMERGING / ACTIVE
-• Reversibility Status: REVERSIBLE / STICKY / IRREVERSIBLE
-• Confidence Level: HIGH / MED / LOW
+• CTI: HIGH / MED / LOW  
+• IRR: ABOVE / AT / BELOW burn-rate  
+• SA: HIGH / MED / LOW  
+• Failure Mode: NONE / EMERGING / ACTIVE  
+• Exit State: INACTIVE / ACTIVE / ACCELERATING  
+• GRID-DE: REVERSIBLE / STICKY / IRREVERSIBLE  
+• RIR-DE: INACTIVE / ACTIVE  
+
+Strategic Classification:
+INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
+OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA — V1.5
+XXI. DOCTRINE INTAKE BUFFER (GERMANIA)
+────────────────────────────────────────────────────────────
+
+CIV–CORE–GERMANIA–DIB — v1.0
+
+• Receives Scholar proposals only  
+• Append-only, decision-logged  
+• Explicit human acceptance required  
+• No cross-civilization imports  
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–GERMANIA v1.6
 ────────────────────────────────────────────────────────────
