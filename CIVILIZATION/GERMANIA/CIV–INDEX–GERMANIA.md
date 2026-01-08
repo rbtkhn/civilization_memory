@@ -1,4 +1,4 @@
-CIV–INDEX–GERMANIA — v1.5
+CIV–INDEX–GERMANIA — v1.6
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -9,8 +9,8 @@ Dates: Roman era–present
 Class: CIV (Index)
 Last Update: January 2026
 
-WORDCOUNT: 1,245 words
-TOTAL REGISTERED FILES: 49 MEM–GERMANIA OBJECTS
+WORDCOUNT: ~1,275 words
+TOTAL REGISTERED FILES: 50 MEM–GERMANIA OBJECTS
 
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 
@@ -42,7 +42,9 @@ II. FILE REGISTER — GERMANIA
 ────────────────────────────────────────────────────────────
 
 A) GEO
-• MEM–GERMANIA–GEO–RHINE.md
+• MEM–GERMANIA–GEO–RHINE–RIVER.md
+• MEM–GERMANIA–GEO–ELBE–RIVER.md
+• MEM–GERMANIA–GEO–ODER–RIVER.md
 • MEM–GERMANIA–GEO–DANUBE.md
 • MEM–GERMANIA–GEO–BALTIC.md
 • MEM–GERMANIA–GEO–ATLANTIC.md
@@ -118,23 +120,5 @@ This index is LOCKED.
 • Scholar Mode consumes this index as authoritative scope.
 
 ────────────────────────────────────────────────────────────
-IV. TEMPLATE v1.5 COMPATIBILITY & AUTHORITY NOTE
-────────────────────────────────────────────────────────────
-This index is registrational only and does not participate in
-doctrine evaluation, belief synthesis, or Scholar learning.
-
-v1.5 Alignment Clarifications:
-• This index does NOT interface with the Doctrine Intake Buffer (DIB)
-• This index does NOT resolve Scholar divergence
-• This index does NOT evaluate doctrine or belief validity
-
-Authority Boundaries:
-• CIV–CORE–GERMANIA retains sole doctrinal authority
-• CIV–SCHOLAR–GERMANIA may learn ONLY within this index’s scope
-• No doctrine, belief, synthesis, or Scholar state may alter this index
-
-This file remains LOCKED except for additive registration.
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–GERMANIA — v1.5
+END OF FILE — CIV–INDEX–GERMANIA — v1.6
 ────────────────────────────────────────────────────────────
