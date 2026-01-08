@@ -1,16 +1,16 @@
-MEM–FRANCIA–NETHERLANDS — v1.1
+MEM–FRANCIA–NETHERLANDS — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE CLARIFICATION (Buffer Escalation Encoding)
+Version: 1.2
+Upgrade Type: ADDITIVE CLARIFICATION (Diffusive Buffer Precision)
 Civilization: FRANCIA
 Subject: The Netherlands (Frontier, Rival, and Buffer)
 Dates: 16th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,250
+Wordcount: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -170,5 +170,33 @@ This memory does NOT assert causation, strategy, or doctrine.
 It preserves a repeated pattern of escalation encoding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NETHERLANDS — v1.1
+X. DIFFUSIVE BUFFER CLARIFICATION (ADDITIVE)
+────────────────────────────────────────────────────────────
+This section records a **precision clarification** derived from
+comparative buffer analysis across northern Europe.
+
+While the Netherlands reliably convert pressure into coalition
+activation, they do so with **temporal elasticity** rather than
+instantaneous transmission.
+
+In Francia’s memory, the Netherlands function as a **diffusive buffer**:
+
+• Escalation occurs through delay, staging, and accumulation
+• Rollback, negotiation, and coalition calibration remain possible
+• Pressure propagates outward, but not immediately
+• Absorption fails, yet time is not fully denied
+
+This behavior contrasts with **entangled buffers**, where pressure
+transmits instantly and eliminates intermediate maneuver space.
+
+This clarification:
+• Does NOT revise prior sections
+• Does NOT negate escalation memory
+• Does NOT rank buffer systems
+• Does NOT assert doctrine or strategy
+
+It refines **how pressure behaves over time** at this frontier.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–NETHERLANDS — v1.2
 ────────────────────────────────────────────────────────────
