@@ -1,162 +1,208 @@
-CIV–MEM–TEMPLATE — v1.0
-Civilizational Memory Codex · Canonical MEM Enforcement Template
-Repository: https://github.com/rbtkhn/civilization_memory
+CIV–MEM–TEMPLATE — v1.1
+Civilizational Memory Codex · Memory File Enforcement Template
+Canonical Standards · Source–Causality–Connectivity Edition
 
-Status: CANONICAL · ENFORCED
-Version: 1.0
-Class: CIV–MEM–TEMPLATE
-Scope: ALL NEW & UPGRADED MEM FILES
-Effective: IMMEDIATE
-Supersedes: ALL PRIOR IMPLICIT OR AD-HOC MEM FORMATS
-Lock Level: STRUCTURAL (content additive only)
+Status: ACTIVE · CANONICAL · LOCKED
+Class: CIV–MEM–TEMPLATE (Authoring Law)
+Compatibility: CIV–MEM–CORE v1.5+ · All CIV–CORE Engines
+Supersedes: CIV–MEM–TEMPLATE v1.0
+Upgrade Type: ADDITIVE · CLARIFICATION ONLY
+Last Update: January 2026
+Wordcount: ~1,420
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This template defines the **mandatory structural, evidentiary, and
-connective standards** for all Civilizational Memory Codex (MEM) files.
+This file defines the **mandatory structure, standards, and constraints**
+for all MEM (Civilizational Memory) files.
 
-It exists to:
-• Enforce analytical consistency
-• Prevent narrative drift
-• Ensure cross-civilizational comparability
-• Preserve evidentiary rigor
-• Distinguish MEMORY from ANALYSIS, DOCTRINE, or SCHOLAR synthesis
+It enforces:
+• Historical rigor
+• Cross-civilizational linkage
+• Source discipline
+• Game and engine compatibility
+• Non-teleological interpretation
 
-No MEM file is canonical unless it conforms to this template.
+Authority Flow:
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / GAME / CORE
+
+No MEM file is valid unless compliant with this template.
 
 ────────────────────────────────────────────────────────────
-II. FILE METADATA (REQUIRED)
+II. FILE IDENTITY & METADATA (MANDATORY)
 ────────────────────────────────────────────────────────────
-Every MEM file MUST include, at minimum:
+Every MEM file MUST begin with:
 
-• Filename (MEM–[CIV]–[SUBJECT])
-• Repository URL
+• Filename (canonical)
+• Repository reference
 • Status (ACTIVE / LOCKED)
-• Version
-• Upgrade Type (NEW / ADD-ONLY / CLARIFICATION)
+• Version (semantic)
+• Upgrade Type (if applicable)
 • Civilization
-• Regime (if applicable)
+• Regime / Mode (if applicable)
 • Subject
-• Dates (BC / AD only)
+• Dates (BC / AD only; no hybrids)
 • Class: MEM (Memory)
 • Last Update
-• Wordcount (≥600 REQUIRED)
+• Wordcount (≥600 mandatory)
 
-Failure to include metadata = NON-COMPLIANT.
-
-────────────────────────────────────────────────────────────
-III. STRUCTURAL SECTION REQUIREMENTS
-────────────────────────────────────────────────────────────
-Each MEM file MUST include the following core sections,
-in substantially similar order and function:
-
-1. MEMORY PURPOSE & SCOPE  
-2. STRUCTURAL / HISTORICAL CONTEXT  
-3. PRIMARY MECHANISM OF POWER / FAILURE / TRANSFORMATION  
-4. KEY ACTIONS / DYNAMICS / DECISIONS  
-5. LIMITS, CONTRADICTIONS, OR FAILURE MODES  
-6. COMPARATIVE OR CONTEXTUAL POSITIONING  
-7. CIVILIZATIONAL ROLE OR AFTERLIFE  
-8. RELATED MEM CONNECTIONS (MANDATORY)  
-9. CONTINUITY INSIGHTS (RAW)
-
-Sections may be expanded but not removed or collapsed.
+Failure to include any field invalidates the file.
 
 ────────────────────────────────────────────────────────────
-IV. PRIMARY SOURCE REQUIREMENTS (HARD RULES)
+III. MEMORY PURPOSE & SCOPE (REQUIRED)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST contain:
+Each MEM file MUST clearly state:
 
-• **Minimum 3 primary-source quotations**
-• **Each quotation MUST be ≥25 words**
-• **Quotations MUST be woven directly into the narrative**
-• Stand-alone “quotes sections” are NOT permitted
-• Quotations MUST materially support analytical claims
+• What is being preserved
+• Why it matters civilizationally
+• What function it serves in memory
+• What it is NOT attempting to resolve
 
-Acceptable primary sources include:
-• Contemporary texts
-• Near-contemporary accounts
-• Canonical legal, religious, or philosophical works
+MANDATORY CLAUSE:
+“Contradictions are preserved without synthesis.”
 
-Failure to meet ANY of the above = NON-COMPLIANT.
+MEM files record memory — not doctrine.
 
 ────────────────────────────────────────────────────────────
-V. MEM CONNECTION REQUIREMENTS (HARD RULES)
+IV. STRUCTURAL CONTENT RULES
+────────────────────────────────────────────────────────────
+• Minimum 8 numbered sections (excluding sources)
+• Sections must be analytical, not narrative
+• No speculative counterfactuals
+• No moral adjudication
+• No hindsight inevitability
+
+Permitted:
+• Tension
+• Failure
+• Ambiguity
+• Structural misalignment
+
+Forbidden:
+• Hero worship
+• Teleology
+• Victory bias
+• Retrospective optimization
+
+────────────────────────────────────────────────────────────
+V. PRIMARY SOURCE REQUIREMENTS (STRICT)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include:
 
-• **Minimum 8 explicit MEM connections**
-• **At least 3 connections MUST be from other civilizations**
-• Connections MUST explain structural relevance
-• Simple name-dropping is insufficient
+• At least THREE primary-source quotations
+• Each quotation MUST be ≥25 words
+• Quotes MUST be woven into analytical sections
+• A quote-only section is PROHIBITED
 
-Connections MAY reference:
-• Persons
-• Wars
-• Geographic systems
-• Institutions
-• Intellectual traditions
+Quotations MUST:
+• Be attributed (author + work)
+• Directly support a specific analytical claim
+• Represent different dimensions when possible
+  (political / moral / strategic / institutional)
 
-Connections serve **comparative memory**, not synthesis.
-
-────────────────────────────────────────────────────────────
-VI. ANALYTICAL CONSTRAINTS
-────────────────────────────────────────────────────────────
-MEM files MUST:
-
-• Preserve contradictions without resolving them
-• Avoid predictive or prescriptive language
-• Avoid doctrine creation
-• Avoid SCHOLAR synthesis
-• Avoid moral verdicts or optimization
-
-Required phrase (or functional equivalent):
-“Tension preserved without verdict.”
-
-MEM files are **records**, not arguments.
+Failure of any condition invalidates the MEM.
 
 ────────────────────────────────────────────────────────────
-VII. PROHIBITED CONTENT
+V.a PRIMARY SOURCE EXCEPTION CLAUSE — STRUCTURAL MEMORY FILES
 ────────────────────────────────────────────────────────────
-The following are NOT permitted inside MEM files:
+This clause is ADDITIVE and does not weaken the base requirement.
 
-• Forecasting
-• Normative policy guidance
-• Doctrine freezing
-• SCHOLAR synthesis
-• Meta-commentary about the Codex
-• Cross-file authority claims
+For MEM files classified as:
+• GEO
+• ENV
+• SYSTEM
 
-Violations require revision or rejection.
+Primary-source grounding MAY be satisfied by **either**:
 
-────────────────────────────────────────────────────────────
-VIII. VERSIONING & UPGRADES
-────────────────────────────────────────────────────────────
-Permitted upgrade types:
-• NEW
-• ADD-ONLY
-• CLARIFICATION (e.g., dating, terminology)
+A) Full compliance with Section V, OR  
+B) Structural Exception Compliance:
 
-Prohibited:
-• Deletions
-• Reframing conclusions
-• Retconning prior interpretations
+• Minimum of FIVE primary-source references
+• Sources must be primary (chronicles, charters, administrative records,
+  treaties, military geography, legal codes, or contemporaneous accounts)
+• Each reference must be explicitly tied to a concrete analytical claim
+• At least ONE Roman-era source where applicable
+• At least ONE pre-modern source where applicable
+• No fabricated or paraphrased pseudo-quotes permitted
 
-All upgrades must increment version number.
+This exception exists because structural memory preserves **function,
+constraint, and continuity**, which are often encoded procedurally rather
+than rhetorically.
 
-────────────────────────────────────────────────────────────
-IX. CANONICAL ENFORCEMENT CLAUSE
-────────────────────────────────────────────────────────────
-Effective immediately:
-
-• All new MEM files MUST conform to this template
-• All upgraded MEM files MUST be audited against this template
-• Non-compliant files are informational only and non-canonical
-• CIV–INDEX registration requires compliance
-
-No exception without explicit CIV–MEM–CORE amendment.
+This clause does NOT:
+• Permit speculative analysis
+• Reduce cross-MEM linkage requirements
+• Exempt WAR, PERSON, LAW, or RELIGION MEMs
+• Allow omission of sources
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v1.0
+VI. SECONDARY SOURCE DISCIPLINE
+────────────────────────────────────────────────────────────
+Secondary sources:
+• Are optional but encouraged
+• Must never override primary sources
+• May support framing but not conclusions
+
+Interpretive authority rests with:
+Primary sources + civilizational structure.
+
+────────────────────────────────────────────────────────────
+VII. MEM CONNECTION REQUIREMENTS (MANDATORY)
+────────────────────────────────────────────────────────────
+Each MEM file MUST reference:
+
+• At least EIGHT other MEM files total
+• At least THREE from OTHER civilizations
+• Connections must be substantive and explained
+
+Bare lists are forbidden.
+
+────────────────────────────────────────────────────────────
+VIII. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+Each MEM file MUST include a section titled:
+
+“CONTINUITY INSIGHTS (RAW)”
+
+Rules:
+• Bullet points only
+• No verdict language
+• No recommendations
+• No synthesis
+
+────────────────────────────────────────────────────────────
+IX. LANGUAGE & TONAL CONSTRAINTS
+────────────────────────────────────────────────────────────
+Required tone:
+• Analytical
+• Restrained
+• Civilizational
+
+Forbidden:
+• Teleology
+• Moralization
+• Destiny framing
+
+────────────────────────────────────────────────────────────
+X. GAME & ENGINE COMPATIBILITY
+────────────────────────────────────────────────────────────
+MEM files constrain options.
+They do not generate actions.
+
+────────────────────────────────────────────────────────────
+XI. VERSIONING & ENFORCEMENT
+────────────────────────────────────────────────────────────
+• Additive upgrades only unless specified
+• Deletions forbidden
+• Lock status enforced
+
+────────────────────────────────────────────────────────────
+XII. CANONICAL LOCK
+────────────────────────────────────────────────────────────
+This template is LOCKED.
+
+All future MEM files must comply.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–MEM–TEMPLATE v1.1
 ────────────────────────────────────────────────────────────
