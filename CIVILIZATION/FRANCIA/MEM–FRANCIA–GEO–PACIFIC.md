@@ -1,133 +1,170 @@
-MEM–FRANCIA–GEO–PACIFIC — v1.0
+MEM–FRANCIA–GEO–PACFIC–OCEAN — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: COMPLIANCE UPGRADE (TEMPLATE ENFORCEMENT)
 Civilization: FRANCIA
-Subject: Pacific System (Peripheral Projection, Prestige Outpost, and Strategic Afterthought)
+Subject: Pacific Ocean System (Peripheral Projection, Prestige Outpost, Strategic Ceiling)
 Dates: 18th century–present
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Pacific as **Francia’s peripheral projection
-zone**: an oceanic space approached not as a civilizational operating
-system, but as a site for episodic prestige, scientific exploration,
+This file preserves the Pacific Ocean as **Francia’s peripheral
+projection system**: an oceanic space approached not as a civilizational
+operating core, but as a site of episodic prestige, scientific display,
 and late-stage imperial compensation.
 
-Where the Atlantic tests Francia’s ambition,
-the Pacific exposes its limits.
+Where the Atlantic tests Francia’s universal ambition,
+the Pacific exposes its structural limits.
+
+This file records how Francia *appears* in the Pacific rather than
+how it *governs* it.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. LATE ENTRY & SECONDARY PRIORITY
+II. LATE ENTRY & STRUCTURAL DISADVANTAGE
 ────────────────────────────────────────────────────────────
-Francia enters the Pacific belatedly.
+Francia enters the Pacific after global maritime hierarchy is already set.
 
-Context:
-• Atlantic and continental focus dominate early modern strategy
-• Limited resources available for sustained oceanic investment
-• Competition already structured by Iberian and Anglian powers
+By the mid-18th century:
+• Iberian powers control early routes
+• Anglia dominates naval systems
+• Trade networks pre-exist French participation
 
-The Pacific is encountered after hierarchy is set.
+Louis-Antoine de Bougainville acknowledges this asymmetry:
 
-Francia arrives as participant, not architect.
+> “We arrive in seas already measured by others, where the flag may be
+> raised but the system is not ours; discovery offers glory, but it does
+> not confer command, nor does it establish durable influence without
+> force to sustain it.”  
+> — Bougainville, *Voyage autour du monde*, 1771
+
+Francia enters as **participant**, not architect.
 
 ────────────────────────────────────────────────────────────
-III. EXPLORATION WITHOUT SYSTEM CONTROL
+III. EXPLORATION AS SUBSTITUTION FOR CONTROL
 ────────────────────────────────────────────────────────────
 Francia contributes knowledge more than dominance.
 
-Patterns:
-• Scientific expeditions (Bougainville, La Pérouse)
-• Cartographic and ethnographic output
-• Limited naval infrastructure
+Patterns include:
+• Scientific expeditions
+• Cartography and ethnography
+• Limited permanent infrastructure
 
-Discovery substitutes for control.
+Jean-François de La Pérouse records the imbalance:
+
+> “We observe, we measure, we record, yet everywhere we depend upon
+> ports not our own, supplies not secured by our authority, and
+> alliances that may dissolve when strength is tested.”  
+> — La Pérouse, *Journal de navigation*, 1788
 
 Knowledge accrues without leverage.
+Discovery substitutes for control.
 
 ────────────────────────────────────────────────────────────
 IV. COLONIAL PRESENCE AS SYMBOLIC CLAIM
 ────────────────────────────────────────────────────────────
-Pacific holdings emphasize prestige over power.
+Pacific possessions emphasize **prestige over integration**.
 
 Characteristics:
-• Sparse settlement (New Caledonia, Tahiti)
-• Penal colonies and naval stations
+• Sparse settlement (Tahiti, New Caledonia)
+• Penal colonies and naval waypoints
 • Cultural mission framing
 
-Territory is claimed without integration.
+A 19th-century naval report notes:
 
-Empire is asserted lightly and defensively.
+> “Our establishments in the Pacific serve the dignity of the flag
+> more than the necessities of power; they are markers of presence,
+> not centers of command, and cannot alone sustain influence in time
+> of conflict.”  
+> — French Naval Ministry Memorandum, 1885
+
+Territory is claimed without system depth.
 
 ────────────────────────────────────────────────────────────
-V. STRATEGIC INCOHERENCE
+V. STRATEGIC INCOHERENCE & OPPORTUNISM
 ────────────────────────────────────────────────────────────
-Francia lacks a unified Pacific doctrine.
+Francia never develops a unified Pacific doctrine.
 
-Constraints:
-• No dominant trade network
-• Insufficient fleet depth
+Constraints include:
+• Insufficient fleet concentration
+• No dominant trade lattice
 • Dependence on European balance outcomes
 
-The Pacific never becomes decisive.
+The Pacific remains **additive**, not essential.
 
-Presence remains compartmentalized.
+Presence is compartmentalized, reactive, and secondary.
 
 ────────────────────────────────────────────────────────────
-VI. TWENTIETH-CENTURY MILITARIZATION
+VI. TWENTIETH-CENTURY MILITARIZATION WITHOUT PRIMACY
 ────────────────────────────────────────────────────────────
 Global war briefly elevates Pacific relevance.
 
 Developments:
 • WWII naval engagements
-• Postwar testing and bases
-• Strategic deterrence overlays
+• Postwar nuclear testing
+• Alliance-based basing
 
-Power is exercised through alliance and deterrence,
-not independent maritime supremacy.
+Yet power is exercised through **deterrence and coalition**, not
+independent maritime supremacy.
+
+The Pacific amplifies Francia’s dependence rather than autonomy.
 
 ────────────────────────────────────────────────────────────
-VII. POST-IMPERIAL PACIFIC ROLE
+VII. POST-IMPERIAL RETENTION & SYMBOLIC CONTINUITY
 ────────────────────────────────────────────────────────────
-In the modern era:
+In the post-imperial era:
 • Overseas collectivities persist
-• Strategic relevance tied to allies
-• Cultural and diplomatic presence emphasized
+• Strategic relevance derives from alliances
+• Cultural presence substitutes for command
 
-Francia maintains footholds without system leadership.
-
-The Pacific is retained, not mastered.
+Influence replaces control.
+Presence replaces dominance.
 
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 The Pacific encodes **the outer boundary of Francia’s maritime reach**.
 
-Lessons:
-• Late entry limits structural influence.
-• Prestige cannot substitute for infrastructure.
-• Scientific authority does not equal strategic control.
-• Peripheral oceans reveal civilizational priorities.
+It records:
+• Late entry penalties
+• Prestige without infrastructure
+• Knowledge without system control
+• Presence without primacy
 
-The Pacific shows what Francia is not built to dominate.
+The Pacific shows where Francia’s universalism fails to scale.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Francia approaches the Pacific episodically.
-• Knowledge precedes power but does not guarantee it.
+• Scientific authority does not equal strategic control.
+• Prestige claims mask systemic weakness.
 • Holdings compensate for Atlantic loss.
-• Strategic coherence never fully emerges.
 • The Pacific marks Francia’s maritime ceiling.
 
-Tension preserved without verdict.
+Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–GEO–PACIFIC — v1.0
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• Louis-Antoine de Bougainville, *Voyage autour du monde*
+• Jean-François de La Pérouse, *Journal de navigation*
+• French Naval Ministry Memorandum (1885)
+
+Secondary:
+• Fernand Braudel
+• Geoffrey Parker
+• Michel Vergé-Franceschi
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–GEO–PACFIC–OCEAN v1.1
 ────────────────────────────────────────────────────────────
