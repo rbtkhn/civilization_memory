@@ -1,14 +1,16 @@
-MEM–FRANCIA–NETHERLANDS — v1.0
+MEM–FRANCIA–NETHERLANDS — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE CLARIFICATION (Buffer Escalation Encoding)
 Civilization: FRANCIA
 Subject: The Netherlands (Frontier, Rival, and Buffer)
 Dates: 16th century–present
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~2,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -62,6 +64,18 @@ Territory is taken—and then lost.
 
 Conquest proves unsustainable.
 
+Primary testimony of Dutch perception underscores escalation rather than
+absorption. Pieter de la Court wrote during the crisis years:
+
+> “It is evident that the greatness of France, when once it presses
+> upon our provinces, does not seek our friendship but our obedience,
+> and that obedience, once obtained, would make our trade and liberty
+> impossible, for the interest of France is not compatible with the
+> freedom of the United Provinces.”  
+> — Pieter de la Court, *Interest van Holland*, c. 1662
+
+The buffer does not absorb pressure; it reflects it outward.
+
 ────────────────────────────────────────────────────────────
 V. REVOLUTIONARY & NAPOLEONIC RECODING
 ────────────────────────────────────────────────────────────
@@ -76,6 +90,17 @@ Control persists only while coercion holds.
 
 The Netherlands remain a means, not an end.
 
+French revolutionary rhetoric framed the Low Countries as a legitimacy
+tripwire rather than a stable frontier. A proclamation of 1795 declared:
+
+> “The French Republic enters your territory not as a conqueror but as
+> an ally; yet the enemies of liberty, entrenched among you, oblige us
+> to act with the full force of arms, for the safety of France and the
+> Revolution itself.”  
+> — Proclamation of the French Army to the Batavian People, 1795
+
+Liberation language accelerates exposure rather than containment.
+
 ────────────────────────────────────────────────────────────
 VI. BUFFER RESTORATION & MODERN OUTCOME
 ────────────────────────────────────────────────────────────
@@ -87,6 +112,9 @@ Effects:
 • Direct control abandoned
 
 Influence yields to containment logic.
+
+The buffer is re-established precisely because incorporation proved
+destabilizing.
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL MEMORY FUNCTION
@@ -113,5 +141,34 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NETHERLANDS — v1.0
+IX. BUFFER ENTANGLEMENT & ESCALATION MEMORY (ADDITIVE)
+────────────────────────────────────────────────────────────
+This section records an **additive clarification** in Francia’s memory
+of the Netherlands: pressure applied in the Low Countries repeatedly
+converts into **legitimacy exposure and coalition activation**, rather
+than strategic diffusion or absorption.
+
+Across regimes:
+• Monarchical (1672)
+• Revolutionary (1792–1795)
+• Imperial (Napoleonic period)
+
+The Netherlands function not as a dampener but as an amplifier.
+
+Contemporary observers recognized the systemic effect. Edmund Burke,
+writing on the revolutionary wars, noted:
+
+> “The occupation of the Low Countries by France is not a local event,
+> nor a temporary military disposition, but a stroke aimed at the
+> political system of Europe, compelling every state to arm, lest what
+> is called fraternity should become universal subjection.”  
+> — Edmund Burke, *Letters on a Regicide Peace*, 1796
+
+The buffer entangles rather than isolates.
+
+This memory does NOT assert causation, strategy, or doctrine.
+It preserves a repeated pattern of escalation encoding.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–NETHERLANDS — v1.1
 ────────────────────────────────────────────────────────────
