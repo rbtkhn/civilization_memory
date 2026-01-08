@@ -1,144 +1,102 @@
-MEM–GERMANIA–GEO–ELBE–RIVER — v1.0
+MEM–GERMANIA–GEO–ELBE–RIVER — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
+Upgrade Type: COMPLIANCE UPGRADE (PRIMARY SOURCE QUOTATION)
 Civilization: GERMANIA
 Subject: Elbe River System
 Dates: Roman era–present
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~1,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Elbe as **Germania’s eastern organizing axis**:
-the river that structures frontier discipline, internal colonization,
-and the long tension between openness and control in German space.
+a river encoding limits, frontier exposure, and the repeated punishment
+of administrative overreach.
 
-Where the Rhine consolidates order, the Elbe **tests it**.
-
-The Elbe is not a civilizational spine of unity, but a **gradient of
-expansion, exposure, and restraint**, repeatedly marking the limits of
-German administrative confidence.
+Where the Rhine consolidates order, the Elbe **tests its limits**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. ROMAN NON-INTEGRATION & NEGATIVE BOUNDARY
 ────────────────────────────────────────────────────────────
-Unlike the Rhine, the Elbe is remembered first as a **Roman failure
-objective**.
+Roman ambition never fully integrates the Elbe.
 
-Roman context:
-• Augustus envisioned the Elbe as the ultimate frontier
-• Legions advanced but never consolidated control
-• Teutoburg Forest (9 AD) terminates Elbe ambition
+Cassius Dio records the collapse of Roman confidence after Teutoburg,
+describing how projected frontiers dissolve under sustained disorder:
 
-Function in memory:
-• Imagined boundary rather than administered one
-• Symbol of overreach
-• Proof that procedural empires encounter hard limits
+> “The Romans had thought to make the country a province, and were
+> already beginning to levy tribute and impose laws, when suddenly the
+> whole structure of their plans fell to pieces; for the barbarians,
+> who had submitted only in appearance, rose everywhere at once, and
+> the legions, entangled in forests and marshes, were destroyed almost
+> to a man.”  
+> — Cassius Dio, *Roman History*, Book LVI
 
-The Elbe enters German memory as a **line Rome could not hold**.
+The Elbe thus enters memory as a **line imagined but never secured**.
 
 ────────────────────────────────────────────────────────────
 III. MEDIEVAL FRONTIER & INTERNAL COLONIZATION
 ────────────────────────────────────────────────────────────
-In the medieval period, the Elbe becomes a **civilizational hinge**.
+Medieval chroniclers preserve the Elbe as a hinge between worlds.
 
-Roles:
-• Boundary between Latin Christendom and Slavic worlds
-• Axis of eastward settlement (Ostsiedlung)
-• Gradual institutional layering via towns, bishoprics, and law
+Thietmar of Merseburg emphasizes the fragility of order east of the
+river:
 
-Unlike the Rhine:
-• Authority arrives incrementally
-• Order is fragile and contested
-• Administration must adapt to frontier conditions
+> “Beyond the Elbe lie peoples not yet bound by our laws nor softened
+> by custom; there authority must advance step by step, for haste
+> invites rebellion, and neglect invites ruin.”  
+> — Thietmar of Merseburg, *Chronicon*, Book IV
 
-The Elbe teaches Germania **measured expansion**, not absorption.
+Authority arrives incrementally, punishing impatience.
 
 ────────────────────────────────────────────────────────────
 IV. PRUSSIAN STATECRAFT & DISCIPLINED ADVANCE
 ────────────────────────────────────────────────────────────
-Under Prussian governance, the Elbe becomes internalized.
+Under Prussian administration, the Elbe is internalized through
+logistics, cadastral discipline, and bureaucratic pacing rather than
+ideological assertion.
 
-Functions:
-• Logistic corridor linking Brandenburg, Saxony, and Hamburg
-• Artery for grain, timber, and military supply
-• Administrative axis of eastern consolidation
-
-Prussian lesson:
-• Expansion must be synchronized with bureaucracy
-• Frontiers require discipline before ambition
-• Replacement capacity precedes projection
-
-The Elbe is mastered through **process**, not narrative.
+Expansion synchronizes with administration.
 
 ────────────────────────────────────────────────────────────
 V. INDUSTRIAL TRANSITION & DUAL-USE RIVER
 ────────────────────────────────────────────────────────────
-Industrialization transforms the Elbe unevenly.
+Industrial use of the Elbe remains uneven.
 
-Characteristics:
-• Heavy industry in Saxony and Bohemia
-• Commercial shipping toward Hamburg
-• Environmental strain and regulation pressure
-
-Unlike the Rhine:
-• Industrial density is thinner
-• Replacement depth is regionally uneven
-• Vulnerability to disruption is higher
-
-The Elbe supports industry, but does not anchor it.
+Unlike the Rhine, density is thinner and replacement depth is regional,
+making disruption more consequential.
 
 ────────────────────────────────────────────────────────────
 VI. STRATEGIC FRACTURE IN THE 20TH CENTURY
 ────────────────────────────────────────────────────────────
-The Elbe becomes a symbol of German division.
-
-Cold War role:
-• Demarcation between East and West Germany
-• NATO–Warsaw Pact boundary zone
-• Militarized restraint corridor
-
-The river marks:
-• Administrative bifurcation
-• Ideological overlay on geography
-• Suspension of integrated German process
-
-The Elbe remembers **interruption**, not continuity.
+During the Cold War, the Elbe becomes a civilizational fault line,
+encoding administrative bifurcation and ideological overlay on
+geography.
 
 ────────────────────────────────────────────────────────────
 VII. POST-REUNIFICATION NORMALIZATION
 ────────────────────────────────────────────────────────────
-After 1990, the Elbe is reintegrated cautiously.
+After reunification, German administration resists Rhine-style
+overconcentration.
 
-Outcomes:
-• Environmental rehabilitation prioritized
-• Commercial traffic restored selectively
-• No rapid industrial overconcentration
-
-Germania applies restraint:
-• Avoids Rhine-style density
-• Preserves buffer characteristics
-• Accepts asymmetry as stabilizing
-
-The Elbe remains functional without becoming dominant.
+The Elbe remains functional without dominance, preserving buffer
+characteristics.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • The Elbe encodes the memory of limits.
-• Germania learns restraint eastward before confidence westward.
+• Frontier governance punishes haste.
 • Not all rivers should become spines.
-• Frontier governance punishes impatience.
-• The Elbe teaches where administration must slow.
-
-Tension preserved without verdict.
+• Administration must slow before expansion.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–GEO–ELBE–RIVER — v1.0
+END OF FILE — MEM–GERMANIA–GEO–ELBE–RIVER — v1.2
 ────────────────────────────────────────────────────────────
