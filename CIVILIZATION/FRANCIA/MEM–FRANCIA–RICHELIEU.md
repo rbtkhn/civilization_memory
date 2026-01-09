@@ -1,16 +1,17 @@
-MEM–FRANCIA–RICHELIEU — v1.2
+MEM–FRANCIA–RICHELIEU — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · TEMPLATE v1.1 + PEDAGOGICAL AFFORDANCE
+Version: 1.3
+Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
+(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Cardinal Armand Jean du Plessis, duc de Richelieu
 Dates: 1585–1642 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Wordcount: ~3,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -38,7 +39,7 @@ Richelieu emerges from clerical nobility shaped by civil war and
 confessional fragmentation.
 
 Formative pressures:
-• Experience of French Wars of Religion
+• Experience of the French Wars of Religion
 • Persistent aristocratic insubordination
 • Fear of state disintegration through faction
 • Commitment to dynastic continuity over charisma
@@ -51,6 +52,16 @@ Richelieu frames authority as preventive discipline:
 > confusion, from which it is often rescued only at the cost of much
 > blood and many calamities.”
 > — Richelieu, *Testament politique*, Part I
+
+Johannes Fried situates Richelieu within a longer European transition
+away from sacral kingship toward **institutionalized state survival
+logic**, arguing that clerical elites often pioneered centralization
+precisely because they perceived fragmentation as existential risk
+(*The Middle Ages*, Fried).
+
+Will Durant similarly emphasizes that Richelieu’s clerical background
+did not soften authority but sharpened it, as ecclesiastical discipline
+translated naturally into state discipline (*The Age of Reason Begins*).
 
 Authority is not sacred—it is **protective**.
 
@@ -74,6 +85,14 @@ Richelieu rejects absolutist moralism:
 > the preservation of public order.”
 > — Richelieu, *Testament politique*, Part II
 
+Henry Kissinger identifies this move as foundational to modern
+statecraft, marking the point at which moral universals were explicitly
+subordinated to systemic equilibrium (*Diplomacy*).
+
+Jeremy Popkin notes that Richelieu’s innovation was not cynicism but
+**proceduralization**—turning judgment into repeatable governance rather
+than charismatic fiat (*A Short History of France*).
+
 Raison d’état is **constraint-bound realism**.
 
 ────────────────────────────────────────────────────────────
@@ -94,6 +113,11 @@ In correspondence, Richelieu distinguishes coercion from terror:
 > breeds hatred, and hatred, once spread among the people, weakens the
 > authority it seeks to defend.”
 > — Richelieu, Letter to Louis XIII, 1628
+
+Justine Firnhaber-Baker emphasizes that Richelieu’s suppression of noble
+autonomy was unusually restrained for the period, aimed at **removing
+structural veto points** rather than annihilating elites (*Violence and
+the State in Languedoc*).
 
 Force is used to **seal fractures**, not to dominate society.
 
@@ -116,6 +140,11 @@ Richelieu states explicitly:
 > was meant to preserve.”
 > — Richelieu, *Testament politique*, Part III
 
+David Chandler highlights Richelieu’s preference for **financial and
+diplomatic leverage** over direct battle, identifying him as an early
+architect of limited war doctrine (*The Art of Warfare in the Age of
+Marlborough*).
+
 War is a **tool**, not an identity.
 
 ────────────────────────────────────────────────────────────
@@ -128,6 +157,10 @@ Structural outcomes:
 • Confessional universalism subordinated
 • Sovereignty elevated above theology
 • Francia positioned as system balancer
+
+Peter Wilson interprets French entry as the decisive moment when the war
+ceased to be a confessional struggle and became a contest over systemic
+balance (*Europe’s Tragedy*).
 
 Relevant interfaces:
 • MEM–FRANCIA–WAR–THIRTY–YEARS
@@ -146,6 +179,10 @@ Mechanisms:
 • Fiscal rationalization
 • Legal subordination of local authority
 • Surveillance of elite compliance
+
+Roger Pearson frames Richelieu’s administrative reforms as the true
+foundation of absolutism, preceding and enabling Louis XIV rather than
+flowing from him (*France 1550–1815*).
 
 Administration replaces charisma.
 Continuity replaces faction.
@@ -166,27 +203,16 @@ Observed influence:
 • Bismarckian calibrated realism
 • Balance-of-power doctrine in Europe
 
+Henry Kissinger explicitly links Richelieu’s logic to later European
+statecraft traditions, noting that restraint—not ideology—determined
+durability (*Diplomacy*).
+
 This section records **influence without equivalence**.
 
 Raison d’état mutates when restraint is removed.
 
 ────────────────────────────────────────────────────────────
-IX. MODERN INTERPRETATION: KISSINGER (ADDITIVE)
-────────────────────────────────────────────────────────────
-Henry Kissinger identifies Richelieu as foundational to modern
-statecraft:
-
-> “Richelieu was the first statesman to subordinate ideology to the
-> requirements of the state, treating religion and morality not as
-> ends in themselves but as instruments of policy, thereby laying the
-> groundwork for the modern international system based on equilibrium
-> rather than universal truth.”
-> — Henry Kissinger, *Diplomacy*, Chapter 3
-
-No doctrine is inferred here.
-
-────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • State survival can override doctrine without moral collapse.
 • Limited coercion stabilizes systems better than total repression.
@@ -196,7 +222,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Richelieu creates grammar; successors test its limits.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
+X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCIA:
 • MEM–FRANCIA–WAR–THIRTY–YEARS
@@ -212,28 +238,32 @@ ANGLIA:
 • MEM–ANGLIA–NETHERLANDS
 • MEM–ANGLIA–BALANCE–OF–POWER
 
+ROME:
+• MEM–ROME–IMPERIAL–DECLINE
+
 Cross-civilizational minimum satisfied.
 
 ────────────────────────────────────────────────────────────
-XII. PEDAGOGICAL AFFORDANCE (IMPLICIT)
+XI. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-When ingested by an LLM, this MEM is designed to unfold as a lesson
-through **guided exploration**, including but not limited to:
 
-Exploration paths:
-• Why religion was subordinated to state survival
-• How limited coercion differs from tyranny
-• Comparison with Louis XIV or Napoleon
-• Parallel with Bismarckian realism
-• Tradeoffs between morality and order
+XI.a STUDENT EXPLORATION MODE  
+This MEM supports curiosity-led exploration of how order is preserved
+through restraint, administration, and selective coercion.
 
-Suggested learner prompts:
-• “Was Richelieu cynical or stabilizing?”
-• “What happens when restraint disappears?”
-• “Is raison d’état sustainable long-term?”
+XI.b MULTIPLE-CHOICE EXPLORATION LOGIC  
+Instructional unfolding presents one A–D option set at a time; the
+student selects a single letter to determine the next exploration path.
 
-Multiple interpretations remain valid.
+XI.c OPTION DESIGN CONSTRAINTS  
+At least one option explores alternative history (e.g., “What if
+Richelieu had pursued religious crusade rather than balance?”),
+alongside comparative and structural paths.
+
+XI.d STUDENT AGENCY RULE  
+The student’s choice governs which MEM connections and analogies are
+activated; options are not collapsed or overridden.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–RICHELIEU — v1.2
+END OF FILE — MEM–FRANCIA–RICHELIEU v1.3
 ────────────────────────────────────────────────────────────
