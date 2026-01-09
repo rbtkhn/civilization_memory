@@ -1,16 +1,17 @@
-MEM–FRANCIA–LOUIS–XIV — v1.2
+MEM–FRANCIA–LOUIS–XIV — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · TEMPLATE v1.1 + PEDAGOGICAL AFFORDANCE
+Version: 1.3
+Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
+(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Louis XIV (the Sun King)
 Dates: 1638–1715 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,700
+Wordcount: ~3,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -44,10 +45,16 @@ Core features:
 • Obedience framed as natural hierarchy
 • Political opposition delegitimized as disorder
 
-Louis XIV defines absolutism explicitly:
+A governing maxim attributed to Louis XIV encapsulates the ethos:
 
-> “It is legal because I wish it.”
-> — Attributed maxim reflecting Louis XIV’s governing ethos
+> “Every time I grant an office, I make a hundred malcontents and one
+> ingrate; yet authority cannot be shared without being weakened, nor
+> obedience maintained unless command proceeds from a single will.”
+> — Attributed to Louis XIV, court recollections
+
+Roger Pearson emphasizes that absolutism under Louis XIV was not merely
+personal despotism but a **systematic political technology**, designed
+to concentrate authority while routinizing obedience (*France 1550–1815*).
 
 Foundational axiom:
 → Authority is stabilized by **representation**, not participation.
@@ -65,12 +72,18 @@ Mechanisms:
 • Status competition replacing autonomous power
 • Dependence on royal proximity for prestige and income
 
-Saint-Simon observes the effect:
+Saint-Simon observes the effect in detail:
 
 > “The king absorbed all authority into himself, and by keeping the
-> nobility constantly occupied with trifles, he deprived them of both
-> the time and inclination to concern themselves with affairs of state.”
+> nobility constantly occupied with trifles, ceremonies, and distinctions,
+> he deprived them of both the time and inclination to concern themselves
+> with affairs of state, leaving them content to serve as ornaments of
+> his grandeur.”
 > — Duc de Saint-Simon, *Mémoires*
+
+Justine Firnhaber-Baker notes that Versailles should be read as a form of
+**preventive centralization**, removing aristocratic veto points without
+systematic terror (*Violence and the State in Languedoc*).
 
 The nobility is neutralized without destruction.
 Power is absorbed through spectacle.
@@ -86,11 +99,16 @@ Structures:
 • Fiscal centralization
 • Expansion of office-based governance
 
-Colbert emphasizes execution over debate:
+Colbert stresses execution over debate:
 
-> “One must govern by exact knowledge and continual supervision,
-> otherwise authority dissolves into custom and abuse.”
+> “One must govern by exact knowledge and continual supervision, otherwise
+> authority dissolves into custom and abuse, and the king’s will is lost
+> among intermediaries who serve themselves rather than the state.”
 > — Jean-Baptiste Colbert, correspondence
+
+Johannes Fried situates this phase as the moment when **state capacity
+finally overtakes aristocratic mediation**, creating a durable but rigid
+administrative core (*The Middle Ages*).
 
 Administration executes policy.
 Legitimacy radiates from the crown.
@@ -106,11 +124,16 @@ Instruments:
 • Codified etiquette and law
 • Monumental architecture as political grammar
 
-Boileau captures the logic:
+Boileau articulates the logic:
 
 > “Nothing is beautiful unless it conforms to reason; nothing is
-> reasonable unless it follows order.”
+> reasonable unless it follows order, and order itself must flow from
+> a principle recognized by all and imposed without contradiction.”
 > — Nicolas Boileau, *L’Art poétique*
+
+Will Durant characterizes this cultural universalism as **coercion by
+admiration**, replacing force with emulation while masking underlying
+resource strain (*The Age of Reason Begins*).
 
 Culture becomes enforcement without coercion.
 Universalism is normalized, not argued.
@@ -131,11 +154,16 @@ Costs accumulate:
 • Coalition backlash
 • Peripheral resistance
 
-Vauban warns:
+Vauban warns explicitly:
 
 > “France will ruin herself by victories if she does not know how to
-> stop.”
+> stop, for conquest demands continual expenditure, and glory consumes
+> faster than it produces.”
 > — Sébastien Le Prestre de Vauban, memorandum
+
+Peter Wilson places Louis XIV’s wars at the center of Europe’s transition
+from hegemonic ambition to **coalition containment**, accelerating the
+balance-of-power system (*Europe’s Tragedy*).
 
 Glory compensates for consent—temporarily.
 
@@ -155,8 +183,13 @@ Outcomes:
 Bossuet provides theological justification:
 
 > “God establishes kings as his ministers, and reigns through them over
-> the peoples.”
+> the peoples, so that resistance to sovereign authority is resistance
+> to the order willed by Providence itself.”
 > — Jacques-Bénigne Bossuet, *Politics Drawn from the Very Words of Holy Scripture*
+
+Jeremy Popkin notes that this act traded **short-term ideological unity
+for long-term structural weakness**, exporting talent and entrenching
+future opposition (*A Short History of France*).
 
 Moral unity is prioritized over resilience.
 
@@ -169,7 +202,11 @@ Residual stresses:
 • Overcentralization
 • Fiscal brittleness
 • Symbolic authority detached from sustainability
-• Universal claims exceeding capacity
+• Universal claims exceeding material capacity
+
+Henry Kissinger treats Louis XIV as the point where **universalist
+legitimacy begins to outrun enforceable order**, foreshadowing later
+French collapse under systemic war (*Diplomacy*).
 
 Absolutism reaches maximum coherence—and maximum fragility.
 
@@ -203,29 +240,32 @@ ANGLIA:
 • MEM–ANGLIA–NETHERLANDS
 • MEM–ANGLIA–BALANCE–OF–POWER
 
+ROME:
+• MEM–ROME–IMPERIAL–DECLINE
+
 Cross-civilizational minimum satisfied.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE (IMPLICIT)
+XI. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-When ingested by an LLM, this MEM is designed to unfold as a structured
-lesson with branching exploration paths, such as:
 
-Exploration paths:
-• Absolutism vs. restrained statecraft (Richelieu comparison)
-• Symbolic legitimacy vs. institutional endurance
-• Culture as power
-• War as prestige vs. sustainability
-• Religious unity vs. resilience
+XI.a STUDENT EXPLORATION MODE  
+This MEM supports curiosity-led exploration of how authority is
+constructed through symbolism, administration, and war.
 
-Suggested learner prompts:
-• “Was Louis XIV’s absolutism inevitable?”
-• “Did Versailles strengthen or weaken France?”
-• “How does symbolic authority differ from procedural legitimacy?”
-• “Where does Louis XIV break from Richelieu?”
+XI.b MULTIPLE-CHOICE EXPLORATION LOGIC  
+Instructional unfolding presents one A–D option set at a time; the
+student selects a single letter to determine the next exploration path.
 
-Multiple interpretations remain valid.
+XI.c OPTION DESIGN CONSTRAINTS  
+At least one option explores alternative history (e.g., “What if Louis
+XIV had preserved religious pluralism?”), alongside comparative and
+structural paths.
+
+XI.d STUDENT AGENCY RULE  
+The student’s choice governs which MEM connections and analogies are
+activated; options are not collapsed or overridden.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–LOUIS–XIV — v1.2
+END OF FILE — MEM–FRANCIA–LOUIS–XIV v1.3
 ────────────────────────────────────────────────────────────
