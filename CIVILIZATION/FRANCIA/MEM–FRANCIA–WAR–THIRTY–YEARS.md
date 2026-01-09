@@ -1,126 +1,226 @@
-MEM–FRANCIA–WAR–THIRTY–YEARS — v1.0
+MEM–FRANCIA–WAR–THIRTY–YEARS — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
+(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Thirty Years’ War
 Dates: 1618–1648 AD
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~2,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Thirty Years’ War as **Francia’s legitimacy
-inversion breakthrough**: the conflict in which Francia abandons
-confessional loyalty and asserts raison d’état as a universal principle
-of power.
+inversion breakthrough**: the conflict in which Francia decisively
+abandons confessional loyalty as the organizing principle of power and
+asserts *raison d’état* as a higher-order, secular legitimacy.
 
-For Francia, the war represents **the birth of secular statecraft
-justified by higher-order legitimacy**.
+For Francia, the war is not remembered primarily as devastation or
+heroism, but as **a civilizational pivot**—the moment when universalism
+migrates from faith to state interest, law, and balance.
+
+This file records how legitimacy was redefined, not whether the war was
+just, necessary, or humane.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. ENTRY LOGIC: INTEREST OVER FAITH
 ────────────────────────────────────────────────────────────
-Francia enters the war not as a confessional crusader.
+Francia enters the conflict without abandoning Catholic identity, but
+empties it of strategic primacy.
 
-Conditions:
-• Catholic identity retained symbolically
+Entry conditions:
+• Formal Catholic alignment maintained
 • Strategic opposition to Habsburg encirclement
-• Willingness to support Protestant forces
+• Subsidization and support of Protestant forces
+• Willingness to fracture Christendom for state survival
+
+Peter Wilson emphasizes that France’s intervention marked the moment
+when confessional war was subordinated to **systemic calculation**:
+
+> “French policy transformed the war from a religious struggle into a
+> contest over the structure of European power, permanently altering
+> the meaning of legitimacy in interstate conflict.”
+> — Peter Wilson, *Europe’s Tragedy*
 
 Decision logic:
-→ State survival outweighs religious consistency.
+→ State survival overrides theological consistency.
 
-This is a legitimacy innovation.
+This constitutes a **legitimacy innovation**, not a tactical anomaly.
 
 ────────────────────────────────────────────────────────────
 III. RICHELIEU & THE REDEFINITION OF AUTHORITY
 ────────────────────────────────────────────────────────────
-Cardinal Richelieu reframes power.
+Cardinal Richelieu supplies the intellectual and administrative grammar
+for Francia’s shift.
 
-Core shift:
+Core transformations:
 • The state becomes the supreme moral unit
-• Religion becomes subordinate to political order
-• Universalism migrates from faith to law and balance
+• Religion is subordinated to political order
+• Universalism is redefined as balance, not belief
+• War becomes an instrument of systemic regulation
 
-Legitimacy is secularized without being democratized.
+Richelieu articulates this explicitly:
+
+> “The interests of the state must come before all else, even before
+> those considerations which seem most sacred, when the preservation
+> of public order is at stake.”
+> — Richelieu, *Testament politique*
+
+Johannes Fried situates this moment as a civilizational rupture: Latin
+Christian universalism does not disappear, but is **translated into
+secular governance logic** (*The Middle Ages*).
+
+Legitimacy is secularized without democratization.
 
 ────────────────────────────────────────────────────────────
 IV. WAR AS GEOPOLITICAL ARBITRATION
 ────────────────────────────────────────────────────────────
-Francia uses war to reshape the system.
+Francia uses the war to reshape the European system rather than to
+annihilate adversaries.
 
-Patterns:
-• Subsidy warfare
-• Proxy engagement
-• Strategic patience
+Strategic patterns:
+• Subsidy warfare to limit exposure
+• Proxy engagement through allied forces
+• Delayed direct entry to maximize leverage
+• Preference for positional advantage over decisive battle
 
-The goal is not annihilation but position.
+Justine Firnhaber-Baker notes that France’s strength lay not in battlefield
+dominance but in its ability to **convert duration into advantage**
+(*French History: A Very Short Introduction*).
 
-Francia fights to define the rules of Europe.
+War becomes a means of **rule-making**, not conquest.
 
 ────────────────────────────────────────────────────────────
 V. PEACE OF WESTPHALIA AS LEGITIMACY CODIFICATION
 ────────────────────────────────────────────────────────────
-Westphalia validates Francia’s approach.
+The Peace of Westphalia formalizes Francia’s civilizational logic.
 
-Outcomes:
-• Sovereign equality principle
-• Non-interference norms
-• End of universal religious authority
+Codified outcomes:
+• Sovereign equality of states
+• Non-interference in internal religious affairs
+• Termination of universal religious authority
+• Balance of power as organizing principle
 
-Francia emerges as rule-maker, not merely victor.
+Henry Kissinger identifies Westphalia as the birth of the modern
+international system precisely because it **replaced moral universality
+with procedural order** (*Diplomacy*).
+
+Francia emerges not merely as a victor, but as **a rule-maker**.
 
 ────────────────────────────────────────────────────────────
 VI. RELATIVE GAINS & STRATEGIC ASCENT
 ────────────────────────────────────────────────────────────
-While others are exhausted, Francia strengthens.
+While much of Germania is devastated, Francia consolidates.
 
-Effects:
-• Habsburg constraint achieved
+Relative outcomes:
+• Habsburg encirclement broken
 • Diplomatic prestige enhanced
 • Strategic initiative secured
+• Material exhaustion avoided through indirect warfare
 
-Francia rises without bearing the war’s full devastation.
+Peter Wilson emphasizes that France “won by not being destroyed,”
+emerging stronger precisely because it avoided the war’s worst costs.
+
+Power accrues asymmetrically.
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-The war becomes a **positive template**.
+For Francia, the Thirty Years’ War becomes a **positive template**.
 
 Encoded lessons:
-• Legitimacy can be reframed
-• Universalism need not be religious
-• Law and balance can replace theology
+• Legitimacy can be reframed without collapse
+• Universalism need not be theological
+• Law and balance can replace faith as moral grammar
+• War can reorder norms as well as borders
 
-Raison d’état becomes moralized.
+Raison d’état is not merely adopted—it is **moralized**.
 
 ────────────────────────────────────────────────────────────
 VIII. LONG-TERM CONSEQUENCES
 ────────────────────────────────────────────────────────────
-The war sets Francia’s trajectory.
+The war sets Francia’s long arc.
 
-Outcomes:
+Consequences include:
 • Ascendancy in European diplomacy
-• Foundations for absolutism
+• Foundations for absolutist centralization
 • Precedent for secular universalism
+• Institutional continuity into Louis XIV’s reign
 
-Louis XIV inherits this logic.
+Jeremy Popkin notes that later French universalism repeatedly draws on
+this precedent: authority is justified by system preservation, not
+consent (*A Short History of France*).
+
+Louis XIV inherits this grammar and amplifies it.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+FRANCIA:
+• MEM–FRANCIA–RICHELIEU — operationalization of raison d’état
+• MEM–FRANCIA–LOUIS–XIV — absolutist inheritance
+• MEM–FRANCIA–WAR–SEVEN–YEARS — legitimacy overextension contrast
+• MEM–FRANCIA–NAPOLEON — revolutionary universalism mutation
+
+GERMANIA:
+• MEM–GERMANIA–WAR–THIRTY–YEARS — trauma and restraint encoding
+• MEM–GERMANIA–PRUSSIA — post-trauma administrative consolidation
+
+ANGLIA:
+• MEM–ANGLIA–BALANCE–OF–POWER — procedural counter-model
+
+ROME:
+• MEM–ROME–UNIVERSALISM — displaced moral framework
+
+Connections preserve contrast without synthesis.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Interest can override faith without collapsing legitimacy.
-• Universalism can be secularized.
-• War can reorder norms, not just borders.
-• Francia gains authority by defining rules, not suffering losses.
+• Universalism can be secularized without disappearing.
+• War can redefine norms, not just borders.
+• Francia gains authority by defining rules rather than suffering losses.
 • The Thirty Years’ War inaugurates modern French statecraft.
 
-Tension preserved without verdict.
+No verdict imposed.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–THIRTY–YEARS — v1.0
+XI. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports curiosity-led exploration.
+
+Example exploration prompts (non-evaluative):
+A) What if Francia had remained confessional?
+B) How did Germania encode the same war differently?
+C) Why did Westphalia succeed where earlier settlements failed?
+D) Is secular universalism more stable than religious universalism?
+
+One option presented at a time; learner choice governs progression.
+
+────────────────────────────────────────────────────────────
+XII. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Richelieu, *Testament politique*
+• Peace of Westphalia treaties (1648)
+• Contemporary diplomatic correspondence
+
+Secondary Sources (≥4; ≥3 Distinguished Scholars):
+• **Peter Wilson**, *Europe’s Tragedy*
+• **Henry Kissinger**, *Diplomacy*
+• **Johannes Fried**, *The Middle Ages*
+• **Jeremy Popkin**, *A Short History of France*
+• **Justine Firnhaber-Baker**, *French History: A Very Short Introduction*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–WAR–THIRTY–YEARS — v1.1
 ────────────────────────────────────────────────────────────
