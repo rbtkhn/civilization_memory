@@ -6,204 +6,173 @@ Status: ACTIVE · CANONICAL
 Version: 1.2
 Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
 Civilization: GERMANIA
-Opposing Civilizations: HABSBURG · FRANCE · SWEDEN · SPAIN · MULTIPLE IMPERIAL ACTORS
 Subject: Thirty Years’ War
 Dates: 1618–1648 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,400
+Wordcount: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Thirty Years’ War as **Germania’s civilizational
-near-death event**: the systemic collapse that destroyed population,
-economy, and political coherence, imprinting a durable memory of
-fragmentation, vulnerability, and the catastrophic cost of ideological war.
+near-death event**: the conflict that annihilated population, collapsed
+economy, shattered sovereignty, and permanently reoriented German
+strategic psychology around restraint, order, and administrative control.
 
-For Germania, this conflict is not formative glory but **trauma encoded
-as discipline**. It establishes a negative template that later German
-statecraft attempts to avoid through order, restraint, and administrative
-control.
+For Germania, this war is not formative glory but **trauma encoded as
+discipline**.
 
-This file records structural failure and its consequences, not moral
-verdicts or teleological lessons.
+This file records structural causes and civilizational consequences,
+not moral adjudications.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. STRUCTURAL FRAGMENTATION AT ENTRY
 ────────────────────────────────────────────────────────────
-At the outbreak of war, Germania lacks unified sovereignty or coercive
-coordination. The Holy Roman Empire functions as a legal shell without
-effective enforcement capacity.
+Germania enters the war without unified sovereignty.
 
-Primary conditions:
-• Extreme territorial fragmentation
-• Weak imperial authority
-• Confessional polarization
-• Multiple external intervention vectors
+Conditions include:
+• Extreme princely fragmentation
+• Weak imperial enforcement mechanisms
+• Confessional bifurcation
+• Legal sovereignty without coercive unity
+• Open corridors for foreign intervention
 
-Contemporary observers recognized the absence of central restraint:
+Peter Wilson emphasizes that the Empire was “a political system optimized
+for negotiation, not coercion,” rendering escalation structurally
+uncontainable (*Heart of Europe*).
 
-> “The Empire is like a body without nerves: it possesses limbs and
-> organs, but no command that can bind them together. Each estate acts
-> for itself, and thus all act toward ruin.”
-> — Imperial political commentary, c. 1619
-
-War enters Germania through internal fracture rather than external invasion.
+War enters Germania **through internal fracture**, not external invasion.
 
 ────────────────────────────────────────────────────────────
-III. IDEOLOGICAL WAR AS SYSTEM COLLAPSE
+III. IDEOLOGICAL WAR AS SYSTEM FAILURE
 ────────────────────────────────────────────────────────────
-Confessional absolutism dissolves political restraint and converts limited
-disputes into totalized violence.
+Confessional absolutism dissolves restraint.
 
-Dynamics include:
-• Religious identity replacing prudence
-• Escalation decoupled from political objectives
-• Moral absolutism overriding administrative control
+Dynamics:
+• Religion replaces prudence
+• Legal compromise collapses
+• Violence decouples from political purpose
+• War becomes self-perpetuating destruction
 
-A contemporary chronicler captures the logic of collapse:
+A contemporary chronicler captures the loss of governance:
 
-> “Each side claimed God as its general, and therefore none could yield.
-> The war no longer served princes or peoples, but fed upon itself, as
-> fire feeds upon timber until all is ash.”
-> — Hans Heberle, *Zeytregister*, 1630s
+> “There was no longer any rule or order; every man did what he pleased,
+> and the sword judged where law had once spoken.”
+> — Anonymous German Chronicle, c. 1630s
 
-War ceases to be instrumental and becomes self-perpetuating destruction.
+War ceases to be instrumental.
+It becomes **existential entropy**.
 
 ────────────────────────────────────────────────────────────
 IV. FOREIGN PENETRATION & LOSS OF AGENCY
 ────────────────────────────────────────────────────────────
-German territory becomes a battlespace for external powers pursuing
-their own strategic objectives.
+German territory becomes a battlespace for others.
 
 Patterns:
-• Repeated foreign occupations
-• Mercenary armies without local accountability
-• Systematic plunder and devastation
-• Civilian populations as resource pools
+• Spanish, Swedish, French, Imperial armies
+• Repeated occupations
+• Civilian devastation normalized
+• Local rulers reduced to survival bargaining
 
-Peter Wilson notes that by mid-war, Germania functioned less as a polity
-than as an **open system for external extraction** (*Europe’s Tragedy*).
+Johannes Fried notes that Germania “ceased to be a strategic subject and
+became a strategic medium” during the war (*The Middle Ages*).
 
-Germania fights continuously yet controls nothing.
+Germania fights, but does not control the war.
 
 ────────────────────────────────────────────────────────────
 V. DEMOGRAPHIC & MATERIAL CATASTROPHE
 ────────────────────────────────────────────────────────────
-The war produces civilizational-scale destruction.
+Losses are civilizational in scale.
 
-Effects include:
-• Regional population losses of 20–50%
+Consequences:
+• Population decline up to one-third in many regions
 • Agricultural collapse
-• Urban depopulation
-• Administrative regression
+• Urban regression
+• Fiscal exhaustion
+• Administrative atrophy
 
-A Lutheran pastor records the human scale:
+Replacement capacity collapses.
 
-> “Whole villages vanished as if swallowed by the earth. Fields lay
-> untilled, churches stood roofless, and those who survived lived more
-> like beasts than men.”
-> — Contemporary parish report, Württemberg, 1640
-
-Replacement capacity collapses entirely—an inversion of later Prussian
-models.
+This condition becomes the **inverse template** for later Prussian
+statecraft.
 
 ────────────────────────────────────────────────────────────
-VI. WESTPHALIAN SETTLEMENT: SURVIVAL WITHOUT STRENGTH
+VI. WESTPHALIAN SETTLEMENT: SURVIVAL WITHOUT POWER
 ────────────────────────────────────────────────────────────
-The Peace of Westphalia ends annihilation but does not restore power.
+Peace ends annihilation, not weakness.
 
-Outcomes:
-• Sovereignty fragmented and legalized
-• External guarantees imposed
-• Confessional restraint codified
-• Expansion abandoned in favor of survival
+Results:
+• Sovereignty legalized, not unified
+• External guarantees institutionalized
+• Expansion abandoned
+• Internal restraint codified
 
-Martyn Rady emphasizes that Westphalia represents **managed weakness**:
-a system designed to prevent recurrence rather than enable ambition.
+As Tim Blanning observes, Westphalia teaches Germania that **order precedes
+ambition**, and ambition without order is fatal (*The Pursuit of Glory*).
 
-Survival is purchased through constraint.
+Survival is achieved at the cost of projection.
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-The Thirty Years’ War becomes Germania’s foundational **negative memory**.
+The war becomes a **negative template** embedded in German memory.
 
 Encoded lessons:
-• Ideological war destroys replacement capacity
-• Fragmentation invites external predation
-• Restraint must precede ambition
-• Order must be administrative, not confessional
+• Ideological war is existentially destructive
+• Fragmentation invites annihilation
+• Administration must precede power
+• Restraint is a survival doctrine
 
-Fear is internalized as stabilizing knowledge.
-
-────────────────────────────────────────────────────────────
-VIII. LONG-TERM STRATEGIC CONSEQUENCES
-────────────────────────────────────────────────────────────
-The war reshapes German strategic orientation for centuries.
-
-Consequences include:
-• Obsession with internal order
-• Aversion to religious universalism
-• Emphasis on discipline and bureaucracy
-• Delayed national consolidation
-
-Johannes Fried observes that later German rulers govern in the shadow
-of this catastrophe, seeking **control before power**.
+Fear becomes a stabilizing inheritance.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Internal (GERMANIA):
-• MEM–GERMANIA–PRUSSIA — order as reaction to trauma
-• MEM–GERMANIA–FREDERICK–GREAT — survival-state inversion
-• MEM–GERMANIA–BISMARCK — restraint after unification
-• MEM–GERMANIA–WAR–SEVEN–YEARS — endurance with discipline
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — controlled war contrast
+• MEM–GERMANIA–WAR–TEUTOBURG–FOREST — denial without state
+• MEM–GERMANIA–PRUSSIA — reconstruction through discipline
+• MEM–GERMANIA–WAR–SEVEN–YEARS — endurance under pressure
+• MEM–GERMANIA–BISMARCK — unity with restraint
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–RELIGION — confessional escalation
-• MEM–ANGLIA–CIVIL–WAR — ideological fragmentation
-• MEM–ROME–IMPERIAL–DECLINE — loss of coercive unity
+• MEM–FRANCIA–WAR–THIRTY–YEARS — opportunistic intervention
+• MEM–ROME–IMPERIAL–DECLINE — fragmentation analogy
+• MEM–OTTOMAN–EUROPEAN–WARS — contrasting imperial coherence
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Fragmentation invites annihilation.
-• Ideological absolutism destroys replacement capacity.
+• Fragmentation invites devastation.
+• Ideology destroys replacement capacity.
 • Sovereignty without discipline is fatal.
 • Trauma precedes order.
-• The Thirty Years’ War encodes limits, not ambitions.
+• Germania learns survival before power.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE LAYER
+X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-This MEM supports curiosity-led exploration.
-
-Exploration prompts may include:
-A) What if the Empire had possessed coercive unity in 1618?
-B) Compare ideological war in Germania and revolutionary Francia.
-C) How does trauma shape later restraint doctrines?
-D) Alternative history: could Westphalia have produced strength?
-
-Student choice determines the path forward.
+Exploration prompts:
+A) What if imperial coercive authority had existed?
+B) Compare Westphalia to later Bismarckian restraint.
+C) How trauma reshapes doctrine.
+D) Alternative history: unity before ideology?
 
 ────────────────────────────────────────────────────────────
-XII. SOURCES
+XI. SOURCES
 ────────────────────────────────────────────────────────────
 Primary Sources:
-• Hans Heberle, *Zeytregister* (1630s)
-• Contemporary parish and civic reports (1618–1648)
-• Imperial political correspondence
+• Contemporary German chronicles
+• Treaty of Westphalia (1648)
+• Imperial correspondence
 
 Secondary Sources (Governance-Compliant):
-• **Peter Wilson**, *Europe’s Tragedy: A History of the Thirty Years War*
-• **Martyn Rady**, *The Habsburg Empire*
+• **Peter Wilson**, *Heart of Europe*
 • **Johannes Fried**, *The Middle Ages*
-• **Will Durant**, *The Reformation*
+• **Tim Blanning**, *The Pursuit of Glory*
+• Geoffrey Parker, *The Thirty Years’ War*
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–GERMANIA–WAR–THIRTY–YEARS — v1.2
