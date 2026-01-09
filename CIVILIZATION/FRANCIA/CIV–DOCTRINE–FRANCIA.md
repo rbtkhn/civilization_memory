@@ -1,4 +1,4 @@
-CIV–DOCTRINE–FRANCIA — v1.0
+CIV–DOCTRINE–FRANCIA — v1.1
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -8,7 +8,7 @@ Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–FRANCIA (Explicit Acceptance Only)
 Compatibility: CIV–CORE–FRANCIA v1.x
 Last Update: January 2026
-Wordcount: ~1,050
+Wordcount: ~1,220
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -124,12 +124,35 @@ Hard Constraints:
 • Universal language persists without hegemonic capacity
 
 ────────────────────────────────────────────────────────────
+
+DOCTRINE 05
+Name: LEGITIMACY–CAPACITY OSCILLATOR
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0006)
+
+Definition:
+Francia exhibits a recurrent oscillation between asserted legitimacy
+and enforceable capacity, in which divergence is periodically resolved
+through external war, defeat, or regime reset rather than gradual
+institutional correction.
+
+Operational Meaning:
+• War is used as legitimacy correction
+• Victory restores credibility; defeat enables reset
+• Conflict frequency rises independently of necessity
+
+Hard Constraints:
+• Oscillation increases cumulative war exposure
+• Externalization substitutes for internal reform
+• Repeated cycles erode long-term strategic patience
+
+────────────────────────────────────────────────────────────
 III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
-No doctrines have been rejected at this stage.
+No doctrines have been rejected.
 
-All frozen doctrines in CIV–SCHOLAR–FRANCIA v1.0
-are represented above.
+All frozen syntheses in CIV–SCHOLAR–FRANCIA
+through SYNTHESIS 0006 are represented.
 
 ────────────────────────────────────────────────────────────
 IV. CITATION RULES
@@ -142,8 +165,8 @@ Required citation format:
 • Doctrine number
 
 Example:
-“Per DOCTRINE 02 (UNIVERSALISM–CAPACITY DIVERGENCE), expansion
-claims must clear enforcement and fiscal feasibility gates.”
+“Per DOCTRINE 05 (LEGITIMACY–CAPACITY OSCILLATOR),
+external conflict frequency increases as divergence widens.”
 
 Silent doctrine usage is prohibited.
 
@@ -157,8 +180,8 @@ This file is LOCKED.
 • Deletions are forbidden
 
 Supersedes:
-• No prior CIV–DOCTRINE–FRANCIA file (initial issuance)
+• CIV–DOCTRINE–FRANCIA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–FRANCIA v1.0
+END OF FILE — CIV–DOCTRINE–FRANCIA v1.1
 ────────────────────────────────────────────────────────────
