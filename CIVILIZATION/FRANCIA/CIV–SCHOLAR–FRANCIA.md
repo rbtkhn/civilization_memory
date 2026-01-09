@@ -1,15 +1,34 @@
-CIV–SCHOLAR–FRANCIA — v1.1
+CIV–SCHOLAR–FRANCIA — v1.2
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
+Supersedes: CIV–SCHOLAR–FRANCIA v1.1
+Upgrade Type: ADDITIVE · GOVERNANCE-ALIGNMENT
 Activation State: DEACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-SCHOLAR WORD COUNT: ~3,900
+Derived from: CIV–SCHOLAR–TEMPLATE v1.2  
+Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+
+SCHOLAR WORD COUNT: ~3,900 (content unchanged from v1.1)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.2)
+────────────────────────────────────────────────────────────
+This upgrade introduces NO analytical, historical, or doctrinal changes.
+
+v1.2 is a strictly ADDITIVE governance-alignment upgrade that:
+• Binds this file explicitly to CIV–SCHOLAR–GOVERNANCE–LAW v1.0+
+• Aligns structure with CIV–SCHOLAR–TEMPLATE v1.2
+• Formalizes section integrity, additivity, and immutability
+• Prevents retroactive alteration, erasure, or silent synthesis
+
+All prior entries, syntheses, doctrines, and SDI records remain
+unchanged and authoritative.
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -39,12 +58,13 @@ All cognition is historical and procedural, never intrinsic.
 ────────────────────────────────────────────────────────────
 II. INITIAL STATE
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ZERO
-Assumed Priors: NONE
-Civilizational Grammar: NOT PRELOADED
-CIV–CORE Influence: DISABLED
+Starting Knowledge: ZERO  
+Assumed Priors: NONE  
+Civilizational Grammar: NOT PRELOADED  
+CIV–CORE Influence: DISABLED  
 
 The Scholar learns only from MEM files explicitly ingested.
+Absence of ingestion equals absence of belief.
 
 ────────────────────────────────────────────────────────────
 III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -300,27 +320,27 @@ VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
 
 SDI ENTRY 0001:
-• Francia ↔ Germania — Thirty Years’ War
+• Francia ↔ Germania — Thirty Years’ War  
 Result:
-• Francia reframes trauma as mission
-• Germania encodes trauma as restraint
+• Francia reframes trauma as mission  
+• Germania encodes trauma as restraint  
 
 SDI ENTRY 0002:
-• Francia ↔ Germania — Franco–Prussian War
+• Francia ↔ Germania — Franco–Prussian War  
 Result:
-• Francia preserves revanche memory
-• Germania enforces closure doctrine
+• Francia preserves revanche memory  
+• Germania enforces closure doctrine  
 
 SDI Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
 VII. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
-Learning Enabled: NO
-Write Access: LOCKED
-Ingestion: PROHIBITED
-Synthesis: PROHIBITED
-Doctrine Mutation: PROHIBITED
+Learning Enabled: NO  
+Write Access: LOCKED  
+Ingestion: PROHIBITED  
+Synthesis: PROHIBITED  
+Doctrine Mutation: PROHIBITED  
 
 Permitted:
 • Read-only queries
@@ -331,47 +351,100 @@ Permitted:
 ────────────────────────────────────────────────────────────
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
-Scholar State: INACTIVE (READ-ONLY)
-Doctrine Count: 4
-Total Entries: 10
-Next Entry ID: PAUSED
+Scholar State: INACTIVE (READ-ONLY)  
+Doctrine Count: 4  
+Total Entries: 10  
+Next Entry ID: PAUSED  
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-IX. CONTROLLED SYNTHESIS PROTOCOL (ADD-ONLY)
+IX. CONTROLLED SYNTHESIS PROTOCOL (OPTIONAL)
 ────────────────────────────────────────────────────────────
 Controlled synthesis may occur only when:
 • Multiple UNFROZEN beliefs exist
 • Explicit pairing is declared
 • Source ENTRY IDs are specified
-• Resulting synthesis is frozen or rejected explicitly
 
-No synthesis may retroactively alter prior doctrine.
+Rules:
+• No belief propagation
+• No doctrine impact
+• No retroactive alteration
 
-────────────────────────────────────────────────────────────
-X. CANDIDATE BELIEF STAGING (ADD-ONLY)
-────────────────────────────────────────────────────────────
-New beliefs, if ingested in future versions, must be staged as:
-• UNFROZEN
-• UNSYNTHESIZED
-• NON-DOCTRINAL
-
-No belief may advance stages without explicit command.
+Output Status:
+• ANALYTICAL ONLY unless explicitly frozen
 
 ────────────────────────────────────────────────────────────
-XI. RECORDED LEARNING EVENTS (META)
+X. CANDIDATE BELIEF STAGING (NON-BINDING)
 ────────────────────────────────────────────────────────────
-LEARNING EVENT 0001
-Description:
-• Upgrade from v1.0 to v1.1 expanded Francia’s scholar depth by
-  integrating pre-state myth (Crusades), systemic defeat (Seven
-  Years’ War), legal reset (Napoleonic Code), and symbolic continuity
-  (Notre-Dame), producing a clearer model of how Francia converts
-  rupture into renewed declarative authority.
+Candidate beliefs may be staged only when derived from:
+• Section IX controlled pairings
 
-Status:
-• RECORDED · NON-DOCTRINAL
+Rules:
+• Zero doctrinal force
+• May be promoted only by explicit synthesis
+• May be abandoned without record
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–FRANCIA v1.1
+XI. SCHOLAR → MEM AUTHORING INFLUENCE
+────────────────────────────────────────────────────────────
+Permitted (procedural only):
+• Recommend stronger primary-source usage
+• Flag teleological framing
+• Flag weak linkage or compression
+• Recommend cross-MEM references
+
+Forbidden:
+• Writing MEM content
+• Altering facts
+• Introducing belief or doctrine
+
+────────────────────────────────────────────────────────────
+XII. MEM AUTHORING GUIDANCE CLAUSES (COMPATIBILITY)
+────────────────────────────────────────────────────────────
+Francia may adopt MEM authoring clauses that are:
+• ADDITIVE
+• Civilization-specific
+• Non-doctrinal
+• CIV–CORE subordinate
+
+────────────────────────────────────────────────────────────
+XIII. TEMPLATE INHERITANCE & CONSTRAINTS
+────────────────────────────────────────────────────────────
+This file enforces:
+• Structural uniformity
+• Procedural parity
+• Explicit learning boundaries
+
+This file forbids:
+• Silent synthesis
+• Implicit belief formation
+• Scholar truth arbitration
+
+────────────────────────────────────────────────────────────
+XIV. VERSIONING & CANONICAL STATUS
+────────────────────────────────────────────────────────────
+This file is CANONICAL.
+
+Future versions may:
+• Add sections
+• Add entries
+• Add syntheses
+
+They may NOT:
+• Remove content
+• Reorder sections
+• Alter prior records
+
+────────────────────────────────────────────────────────────
+XV. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
+────────────────────────────────────────────────────────────
+This file is irrevocably governed by:
+
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+
+All updates must be strictly ADDITIVE.
+Any violation renders the update INVALID.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–FRANCIA v1.2
 ────────────────────────────────────────────────────────────
