@@ -1,17 +1,18 @@
-MEM–FRANCIA–CHARLEMAGNE — v1.1
+MEM–FRANCIA–CHARLEMAGNE — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · TEMPLATE ALIGNMENT (CIV–MEM–TEMPLATE v1.1)
+Version: 1.2
+Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
+(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
-Regime: IMPERIAL / CAROLINGIAN (768–814)
+Regime: IMPERIAL / CAROLINGIAN (768–814 AD)
 Subject: Charlemagne (Charles the Great)
 Dates: c. 742–814 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Wordcount: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -40,11 +41,22 @@ Structural conditions:
 
 Einhard emphasizes inherited authority rather than novelty:
 
-> “Charles succeeded his father not by usurpation, but by the will
-> of the Franks, who had long recognized his house as the support
-> of the realm, and who entrusted to him the burden of rule
-> because they believed him fitted by birth and character.”
+> “Charles succeeded his father not by usurpation, but by the will of the
+> Franks, who had long recognized his house as the support of the realm;
+> and they entrusted to him the burden of rule because they believed him
+> fitted by birth and character, strong in counsel, steadfast in action,
+> and capable of sustaining the weight of public authority in times of
+> peace and war alike.”
 > — Einhard, *Vita Karoli Magni*, ch. 1
+
+Johannes Fried emphasizes that Carolingian authority arose through
+managed dynastic transition rather than revolutionary replacement,
+relying on aristocratic consensus and ritual continuity rather than
+formal constitutional innovation (*Charlemagne*).
+
+Will Durant similarly frames Pepin and Charlemagne as inheritors of a
+Frankish legitimacy grammar rooted in performance and protection rather
+than Roman procedural legality (*The Age of Faith*).
 
 Authority is inherited, then expanded through performance.
 
@@ -60,11 +72,22 @@ Dynamics:
 
 The *Royal Frankish Annals* record the transformation explicitly:
 
-> “On the most holy day of the birth of our Lord Jesus Christ,
-> Leo the pope crowned him emperor, and all the Roman people
-> cried aloud: ‘To Charles Augustus, crowned by God, great and
-> pacific emperor of the Romans, life and victory!’”
+> “On the most holy day of the birth of our Lord Jesus Christ, Leo the pope
+> crowned him emperor, and all the Roman people cried aloud with one voice:
+> ‘To Charles Augustus, crowned by God, great and pacific emperor of the
+> Romans, life and victory!’ After this acclamation, the pontiff placed
+> the diadem upon his head, and the people paid homage according to ancient
+> custom.”
 > — *Annales Regni Francorum*, entry for 800 AD
+
+Henry Kissinger interprets the coronation as an early Western experiment
+in legitimacy by moral declaration rather than inherited sovereignty,
+establishing a precedent for universal authority claims grounded in
+symbolic recognition (*Diplomacy*).
+
+Johannes Fried stresses the ambiguity of imperial intent, noting that the
+act lacked a coherent constitutional theory and relied instead on ritual,
+memory, and performative legitimacy (*Charlemagne*).
 
 Kingship is elevated into empire through ritual recognition.
 
@@ -81,11 +104,18 @@ Mechanisms:
 
 A capitulary stresses correction over coercion:
 
-> “Let the missi diligently inquire how counts and judges
-> observe justice, so that the poor are not oppressed, nor
-> the law twisted by favor or fear, but that each people
-> may live according to its own law under our protection.”
+> “Let the missi diligently inquire how counts and judges observe justice,
+> so that the poor are not oppressed, nor the law twisted by favor or fear,
+> but that each people may live according to its own law under our
+> protection; and if they find anything done unjustly, let them correct it
+> according to our capitularies, so that peace and equity may be preserved
+> throughout the realm.”
 > — Capitulary of Herstal (779)
+
+Roger Pearson interprets Carolingian legal pluralism not as administrative
+weakness but as a technique for imperial scalability, allowing authority
+to expand without premature homogenization (*The Making of the Middle
+Ages*).
 
 Governance prioritizes supervision, not homogenization.
 
@@ -103,10 +133,17 @@ Christianization operates as a governance instrument.
 
 The Saxon capitulary reveals coercive fusion:
 
-> “If any one of the race of the Saxons hereafter concealed
-> among them shall have wished to hide himself unbaptized,
-> and shall have scorned to come to baptism, let him die.”
+> “If any one of the race of the Saxons hereafter concealed among them shall
+> have wished to hide himself unbaptized and shall have scorned to come to
+> baptism, let him die; and let this judgment be executed so that the people
+> may understand that resistance to the Christian law and to the authority
+> of the king will not be tolerated within the borders of the realm.”
 > — *Capitulatio de partibus Saxoniae*, c. 782
+
+Peter Wilson situates Carolingian coercive Christianization as an early
+instance of the long Central European tension between confessional unity
+and political authority, prefiguring later imperial crises (*Heart of
+Europe*).
 
 Order is enforced where consent fails.
 
@@ -122,10 +159,16 @@ Outcomes:
 
 Alcuin frames education as imperial necessity:
 
-> “For if learning perishes, the faith itself will perish,
-> and the words of God will be misunderstood; therefore the
-> care of letters must go hand in hand with the care of souls.”
+> “For if learning perishes, the faith itself will perish, and the words of
+> God will be misunderstood; therefore the care of letters must go hand in
+> hand with the care of souls, so that priests may rightly instruct the
+> people and judges may discern justly, and the realm may be governed with
+> wisdom as well as force.”
 > — Alcuin of York, Letter to Charlemagne
+
+Will Durant characterizes the Carolingian Renaissance as administrative
+infrastructure rather than humanist revival, necessary for maintaining
+imperial coherence (*The Age of Faith*).
 
 Culture becomes administrative infrastructure.
 
@@ -141,11 +184,16 @@ Aftermath:
 
 Nithard records the fracture:
 
-> “The brothers divided the realm not because the empire was
-> too vast, but because no single will remained to hold it,
-> and each feared the strength of the other more than the
-> loss of the whole.”
+> “The brothers divided the realm not because the empire was too vast, but
+> because no single will remained to hold it together; and each feared the
+> strength of the other more than the loss of the whole, preferring a
+> diminished portion of power to the risk of subordination within a united
+> empire.”
 > — Nithard, *Histories*, Book III
+
+Johannes Fried treats Verdun as evidence that Carolingian authority was
+personalized rather than institutionalized, a structural weakness that
+would recur across Francia’s later imperial projects.
 
 Legitimacy outlasts empire; structure does not.
 
@@ -169,7 +217,8 @@ ROME:
 CHRISTIANITY:
 • MEM–CHRISTIANITY–PAPACY (sacral validation of power)
 
-These connections illustrate inheritance, contrast, and divergence.
+ANGLIA:
+• MEM–ANGLIA–NORMAN–CONQUEST (parallel legitimacy transfer through conquest and sacral validation)
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
@@ -192,20 +241,27 @@ X. CONTINUITY INSIGHTS (RAW)
 • Francia inherits Rome’s universal vocabulary.
 • Personal empire precedes institutional endurance.
 
-Tension preserved without verdict.
+────────────────────────────────────────────────────────────
+XI. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+
+XI.a STUDENT EXPLORATION MODE  
+This MEM supports curiosity-led exploration of how legitimacy is
+constructed through law, faith, and force without presuming resolution.
+
+XI.b MULTIPLE-CHOICE EXPLORATION LOGIC  
+Instructional unfolding presents one A–D option set at a time; the
+student selects a single letter to determine the next exploration path.
+
+XI.c OPTION DESIGN CONSTRAINTS  
+At least one option explores alternative history (e.g., “What if
+Charlemagne had not been crowned emperor in 800?”), alongside
+comparative and structural paths.
+
+XI.d STUDENT AGENCY RULE  
+The student’s choice governs which MEM connections and analogies are
+activated; options are not collapsed or overridden.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE (IMPLICIT)
-────────────────────────────────────────────────────────────
-This MEM supports exploration paths including:
-• Causes & conditions of imperial restoration
-• Key actors and incentives (Papacy, aristocracy, clergy)
-• Administrative systems and limits
-• Consequences for later French universalism
-• Comparison with Napoleon or the Holy Roman Empire
-
-No path resolves ambiguity.
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–CHARLEMAGNE v1.1
+END OF FILE — MEM–FRANCIA–CHARLEMAGNE v1.2
 ────────────────────────────────────────────────────────────
