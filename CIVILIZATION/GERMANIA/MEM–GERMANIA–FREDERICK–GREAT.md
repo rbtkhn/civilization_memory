@@ -3,156 +3,184 @@ Civilizational Memory Codex · Memory File
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 Status: ACTIVE · CANONICAL
 Version: 1.2
-Upgrade Type: COMPLIANCE UPGRADE (Template v1.2)
+Upgrade Type: ADDITIVE (Template Compliance + Source Expansion)
 Civilization: GERMANIA
-Regime / Mode: PRUSSIAN MONARCHY (1740–1786)
+Regime: Prussian Monarchy (1740–1786 AD)
 Subject: Frederick II (“Frederick the Great”)
 Dates: 1712–1786 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,950
+Wordcount: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Frederick II as the **disciplinarian–intellectual architect of Prussian survivability**: a ruler who fused military rigor, bureaucratic rationality, and selectively instrumental Enlightenment thought into a coherent doctrine of state endurance under extreme structural constraint.
+This file preserves Frederick II of Prussia as a **disciplinary–intellectual survival governor**: the ruler who transformed Prussia from a brittle, encircled polity into a durable administrative–military system capable of surviving systemic war without ideological intoxication.
 
-For Germania, Frederick represents **restraint under pressure**. He expands without intoxication, governs without myth, and survives without converting success into ideology.
+For Germania, Frederick represents **restraint under maximum pressure**. His significance lies not in conquest alone, but in the disciplined refusal to convert success into destiny or ideology.
 
-This file records Frederick not as a moral exemplar or national symbol, but as a **civilizational learning node**: a case in which precision, discipline, and enforced stopping rules enabled survival against materially superior coalitions.
+This file records Frederick as a *civilizational stress-test case*: demonstrating how endurance, replacement capacity, and enforced political closure preserve legitimacy under existential threat.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. FORMATIVE COERCION & INTERNAL CONTRADICTION
+II. FORMATION UNDER COERCION & CONTRADICTION
 ────────────────────────────────────────────────────────────
-Frederick’s rule cannot be understood without his coercive formation. Raised under Frederick William I, he internalized discipline as survival grammar rather than cultural preference. His intellectual cosmopolitanism—music, philosophy, Francophilia—coexisted uneasily with Prussian austerity and external vulnerability.
+Frederick’s formation occurs within extreme internal coercion and external vulnerability. Raised under the militarized austerity of Frederick William I, he absorbed discipline through fear rather than affection, while privately cultivating Enlightenment cosmopolitanism and Francophile culture.
 
-Primary evidence of this duality appears in Frederick’s own retrospective assessments of rulership, where aesthetic inclination is subordinated to state necessity:
+Primary tension:
+• Aesthetic humanism vs. iron discipline
+• Intellectual freedom vs. state obedience
+• Personal refinement vs. institutional hardness
 
-> “A prince is the first servant of the state, bound to sacrifice his tastes, his inclinations, even his happiness, to the preservation and advantage of the body politic entrusted to him.” — Frederick II, *Political Testament* (1768)
+Primary source evidence:
 
-The contradiction is not resolved. Humanist sensibility operates inside iron constraint, not above it.
+> “A prince is made not to follow his own inclinations, but to do what the interest of the state requires. He must sacrifice his tastes, his repose, and even his life, when necessity commands.”
+> — Frederick II, *Political Testament* (1752)
+
+This contradiction is never resolved. Instead, it is **managed**, subordinated to survival.
 
 ────────────────────────────────────────────────────────────
 III. PRUSSIA AS A SURVIVAL STATE
 ────────────────────────────────────────────────────────────
-Under Frederick, Prussia is not conceived as a prestige empire or moral project. It is structured as a **survival state**: a polity whose institutions are optimized to endure encirclement, demographic inferiority, and fiscal scarcity.
+Under Frederick, Prussia is not a prestige empire but a **survival machine**.
 
-Structural realities shaping policy:
+Structural constraints:
 • Small population base
-• Fragmented territorial geography
-• Hostile or opportunistic neighbors
-• Absence of imperial depth
+• Fragmented and exposed territory
+• Encirclement by Austria, Russia, and France
+• No imperial depth or maritime escape
 
-Frederick articulates this logic with brutal clarity:
+State axiom:
 
-> “The strength of a state does not consist in the extent of its territories, but in the discipline of its troops, the order of its finances, and the obedience of its administration.” — Frederick II, *Military Instructions to His Generals*
+> “If Prussia is to exist, it must always be ready to fight, and it must fight with calculation rather than passion.”
+> — Frederick II, wartime correspondence, 1757
 
-Survival, not expansion, is the legitimating metric.
+Institutions are optimized for:
+• Rapid mobilization
+• Replacement before expansion
+• Administrative coherence
+• Fiscal discipline
+
+Survival, not victory, is the legitimizing outcome.
 
 ────────────────────────────────────────────────────────────
 IV. WAR AS CALCULATED NECESSITY
 ────────────────────────────────────────────────────────────
-Frederick treats war as selective, finite, and instrumental. Conflict is initiated only when delay increases existential risk; it is terminated as soon as political survival is secured.
+Frederick treats war as **finite, selective, and brutally rational**.
 
-The Silesian Wars and the Seven Years’ War illustrate this grammar. Frederick accepts catastrophic risk without ideological escalation, prioritizing state preservation over battlefield perfection:
+Operational characteristics:
+• Preemptive war when delay is fatal (Silesia)
+• Tactical brilliance compensating for material inferiority
+• Acceptance of catastrophic risk without ideological escalation
+• Immediate transition from combat to consolidation
 
-> “If the army is destroyed, the state is lost; if provinces are lost but the army remains, the state may yet recover.” — Frederick II, wartime correspondence, 1757
+Seven Years’ War logic:
 
-Defeat does not invalidate the system so long as replacement capacity, discipline, and command coherence persist.
+> “I see all the powers of Europe united against me. I have only my army, my administration, and my reason. If these fail, Prussia disappears.”
+> — Frederick II, 1757
+
+As Fred Anderson observes, the Seven Years’ War represents a global crucible where **endurance**, not battlefield victory, determines survival (*Crucible of War*).
+
+Lose battles. Preserve the state.
 
 ────────────────────────────────────────────────────────────
-V. DISCIPLINE, BUREAUCRACY, & REPLACEMENT DEPTH
+V. DISCIPLINE, BUREAUCRACY, & CONTROL
 ────────────────────────────────────────────────────────────
-Frederick’s internal reforms bind military, fiscal, and administrative systems into a single replacement engine.
+Frederick perfects internal order through institutional discipline.
 
-Key mechanisms:
-• Professionalized officer corps
+Core mechanisms:
+• Professional officer corps
 • Bureaucratic meritocracy
-• Fiscal austerity and reserve accumulation
+• Fiscal austerity
 • Legal rationalization
-• Religious tolerance as a stability instrument
+• Religious tolerance as stability policy
 
-The army is not autonomous. It is disciplined by the state:
+Primary source:
 
-> “The soldier must obey without reasoning, but the state must reason ceaselessly, lest obedience become blind destruction.” — Frederick II, administrative memorandum
+> “The army must be feared by the enemy, but never by the state. Discipline exists to preserve obedience, not to license brutality.”
+> — Frederick II, Military Instructions
 
-Replacement precedes expansion; competence precedes ambition.
+The army does not rule the state. The state disciplines the army.
 
 ────────────────────────────────────────────────────────────
-VI. ENLIGHTENMENT AS INSTRUMENT, NOT IDEOLOGY
+VI. ENLIGHTENMENT AS INSTRUMENT, NOT DESTINY
 ────────────────────────────────────────────────────────────
-Frederick’s Enlightenment is selective and instrumental. Philosophy provides legitimacy veneer and cognitive flexibility, not political pluralism.
+Frederick selectively deploys Enlightenment thought.
 
-He patronizes Voltaire, tolerates confessional difference, and encourages intellectual exchange—yet reserves all decisive authority to the state.
+Characteristics:
+• Patronage of philosophers (Voltaire)
+• Intellectual tolerance without political pluralism
+• Reason subordinated to survival
+• Culture as legitimacy veneer, not governing core
+
+As Tim Blanning notes, Frederick’s Enlightenment was *instrumental*, never emancipatory. Thought was permitted; power was not (*Frederick the Great*).
 
 Governance rule:
-Thought may roam freely; power may not.
-
-This instrumentalization aligns with Germania’s civilizational pattern: reason is absorbed as tool, not creed.
+→ Ideas may roam freely; authority may not.
 
 ────────────────────────────────────────────────────────────
 VII. SELF-RESTRAINT & ENFORCED CLOSURE
 ────────────────────────────────────────────────────────────
-Crucially, Frederick stops. He does not convert endurance into destiny.
+Crucially, Frederick **stops**.
 
-He refuses:
-• Ideological transformation
-• Permanent mobilization
-• Militarized national identity
-• Expansion beyond defensible limits
+He does not:
+• Militarize national identity
+• Pursue ideological transformation
+• Expand beyond defensible limits
+• Convert momentum into destiny
 
-This enforced closure differentiates Frederick from later German catastrophes and encodes a durable restraint doctrine into Germania’s strategic memory.
+Primary source:
+
+> “One must know when to end a war; otherwise victory becomes more dangerous than defeat.”
+> — Frederick II, post-war memorandum
+
+This enforced closure distinguishes Frederick from later German catastrophes.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (MANDATORY)
+VIII. CROSS-CIVILIZATIONAL CONTEXT & PARITY
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–CHARLEMAGNE — coercive unification without restraint
-• MEM–GERMANIA–BISMARCK — controlled conflict with enforced closure
-• MEM–GERMANIA–WAR–SEVEN–YEARS — endurance under encirclement
-• MEM–FRANCIA–NAPOLEON — expansion without stopping rules
-• MEM–FRANCIA–WAR–SEVEN–YEARS — prestige over survivability
-• MEM–ANGLIA–WAR–SEVEN–YEARS — maritime replacement depth contrast
-• MEM–ROME–AUGUSTUS — consolidation versus overreach
-• MEM–CHINA–QIN–SHI–HUANG — coercive order without restraint
+Frederick’s model contrasts sharply with Francia and Anglia:
 
-Each illustrates alternative outcomes when precision, ideology, or expansion escape closure.
+• MEM–FRANCIA–LOUIS–XIV — expansion without restraint
+• MEM–FRANCIA–NAPOLEON — momentum without closure
+• MEM–ANGLIA–WAR–SEVEN–YEARS — maritime endurance vs. continental survival
+• MEM–GERMANIA–BISMARCK — controlled conflict followed by restraint
+
+Germania internalizes Frederick as proof that **discipline plus restraint** preserves civilization.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Discipline precedes ideology in Germania survival cases.
-• Intellectual refinement does not weaken power if subordinated.
-• War must end before it consumes legitimacy.
-• Small states survive through precision, not scale.
-• Frederick anchors restraint doctrine later formalized by Bismarck.
+• Survival precedes ideology.
+• Discipline without restraint inverts into catastrophe.
+• Enlightenment can stabilize power if subordinated.
+• War must terminate politically, not emotionally.
+• Frederick encodes closure as legitimacy preservation.
 
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports curiosity-led exploration.
 
-Example exploration options:
-A. What if Frederick had pursued permanent expansion after 1763?
-B. Compare Frederick’s restraint with Napoleon’s momentum.
-C. Explore the Seven Years’ War from the Anglia perspective.
-D. Examine how Bismarck inherited Frederick’s stopping rules.
+Example exploration options (one set at a time):
+A. What if Frederick had pursued ideological nationalism?
+B. Compare Frederick’s restraint to Napoleon’s momentum.
+C. Examine Seven Years’ War through Prussia vs. Britain.
+D. Explore how Bismarck inherits and modifies Frederick’s model.
 
-Only one option should be presented at a time in instructional mode.
+No option implies correctness.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCES
 ────────────────────────────────────────────────────────────
 Primary Sources:
-• Frederick II, *Political Testament* (1768)
-• Frederick II, military correspondence and instructions
+• Frederick II, *Political Testament* (1752)
+• Frederick II, Wartime Correspondence and Military Instructions
 
 Secondary Sources:
 • Tim Blanning, *Frederick the Great: King of Prussia*
 • Fred Anderson, *Crucible of War*
-• Johannes Kunisch, *Frederick the Great*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–FREDERICK–GREAT v1.2
-────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–FREDERICK–GREAT — v1.2
