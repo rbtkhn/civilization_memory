@@ -1,15 +1,19 @@
-CIV–SCHOLAR–GERMANIA — v1.0
+CIV–SCHOLAR–GERMANIA — v1.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
-Status: ACTIVE · WRITE-LOCKED
+Status: ACTIVE · WRITE-LOCKED · CANONICAL
+Version: 1.1
+Civilization: GERMANIA
+Class: CIV–SCHOLAR
+Compatibility: MEM Architecture Only
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
-
-SCHOLAR WORD COUNT: ~3,050
+Last Update: January 2026
+Wordcount: 3050
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -59,8 +63,8 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Germania originates as a discipline-first civilization formed
-  through coercive unification, sacral authority, and enforced order,
-  not consensual federation.
+through coercive unification, sacral authority, and enforced order,
+not consensual federation.
 
 Belief Status:
 • FROZEN (via Doctrine v0.1)
@@ -76,8 +80,8 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Germania survives existential pressure through restraint,
-  bureaucratic discipline, and precision, subordinating ideology,
-  culture, and intellect to state endurance.
+bureaucratic discipline, and precision, subordinating ideology,
+culture, and intellect to state endurance.
 
 Belief Status:
 • FROZEN (via Doctrine v0.1)
@@ -93,9 +97,9 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Germania achieves consolidation and stability when power is
-  exercised through controlled conflict, alliance discipline,
-  and post-victory restraint; catastrophe follows when restraint
-  is abandoned.
+exercised through controlled conflict, alliance discipline,
+and post-victory restraint; catastrophe follows when restraint
+is abandoned.
 
 Belief Status:
 • FROZEN (via Doctrine v0.1)
@@ -111,7 +115,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Ideological war and fragmentation produce civilizational
-  near-annihilation; restraint must precede ambition permanently.
+near-annihilation; restraint must precede ambition permanently.
 
 Belief Status:
 • FROZEN (via Doctrine v0.4)
@@ -127,7 +131,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Limited objectives, rapid mobilization, and administrative
-  competence defeat dynastic legitimacy inside German space.
+competence defeat dynastic legitimacy inside German space.
 
 Belief Status:
 • FROZEN (via Doctrine v0.2)
@@ -143,7 +147,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Survival under encirclement validates replacement capacity,
-  discipline, and logistics-first governance over prestige.
+discipline, and logistics-first governance over prestige.
 
 Belief Status:
 • FROZEN (via Doctrine v0.3)
@@ -159,7 +163,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Maximum political gain is achievable only when precision is
-  followed by immediate closure and enforced stopping rules.
+followed by immediate closure and enforced stopping rules.
 
 Belief Status:
 • FROZEN (via Doctrine v0.3)
@@ -171,7 +175,7 @@ IV. BELIEF SYNTHESIS LOG
 SYNTHESIS 0001 (0001–0003)
 Outcome:
 • Germania’s legitimacy derives from disciplined restraint and
-  administrative control, not narrative or ideology.
+administrative control, not narrative or ideology.
 
 Status:
 • FROZEN
@@ -181,7 +185,7 @@ Status:
 SYNTHESIS 0002 (0004–0005)
 Outcome:
 • Trauma punishes imperial temptation and elevates limited,
-  competence-based action as survivable power.
+competence-based action as survivable power.
 
 Status:
 • FROZEN
@@ -191,7 +195,7 @@ Status:
 SYNTHESIS 0003 (0006–0007)
 Outcome:
 • Precision is safe only after endurance is proven and only if
-  followed by immediate political closure.
+followed by immediate political closure.
 
 Status:
 • FROZEN
@@ -201,8 +205,8 @@ Status:
 SYNTHESIS 0004 (0001–0007)
 Outcome:
 • German strategic learning follows a trauma-driven cycle:
-  Trauma → Restraint → Endurance → Precision → Closure.
-  Any inversion converts competence into catastrophe.
+Trauma → Restraint → Endurance → Precision → Closure.
+Any inversion converts competence into catastrophe.
 
 Status:
 • FROZEN
@@ -275,44 +279,5 @@ Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-IX. CONTROLLED SYNTHESIS PROTOCOL (TEMPLATE-MANDATED)
-────────────────────────────────────────────────────────────
-This section defines how CIV–SCHOLAR–GERMANIA may perform future
-syntheses without violating ledger integrity.
-
-Rules:
-• Syntheses may occur ONLY after explicit UNLOCK command
-• Syntheses must reference two or more existing ENTRY IDs
-• No synthesis may delete, revise, or override prior syntheses
-• Multiple syntheses may coexist without resolution
-• Synthesis does NOT imply doctrine creation
-
-Synthesis Outcomes:
-• Remain provisional until explicitly frozen
-• May be superseded but never erased
-• Must be chronologically logged
-
-Current State:
-• NO ACTIVE SYNTHESIS AUTHORIZATION
-
-────────────────────────────────────────────────────────────
-X. CANDIDATE BELIEF STAGING (NON-BINDING)
-────────────────────────────────────────────────────────────
-This section records beliefs that have been extracted but not yet
-considered for synthesis or doctrinal freezing.
-
-Rules:
-• Candidate beliefs are observational only
-• They carry no authority
-• They may be promoted, ignored, or abandoned
-• They do not alter doctrine or SDI
-
-Current State:
-• NO CANDIDATE BELIEFS STAGED
-
-This section exists to preserve forward compatibility with
-multi-stage Scholar learning.
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v1.0
+END OF FILE — CIV–SCHOLAR–GERMANIA v1.1
 ────────────────────────────────────────────────────────────
