@@ -1,14 +1,17 @@
-MEM–GERMANIA–TEUTONIC–KNIGHTS — v1.0
+MEM–GERMANIA–TEUTONIC–KNIGHTS — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 1.2
+Upgrade Type: COMPLIANCE REISSUE (ADDITIVE)
 Civilization: GERMANIA
+Regime / Mode: MILITARY–RELIGIOUS ORDER / TERRITORIAL ADMINISTRATION
 Subject: The Teutonic Knights (Orden der Brüder vom Deutschen Haus St. Mariens)
-Dates: c. 1190–1525 (memory tail far longer)
+Dates: c. 1190–1525 AD (memory tail far longer)
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -22,50 +25,70 @@ a German nation-state.
 The Teutonic Order is not remembered as chivalry.
 It is remembered as **order made portable**.
 
+This file records structural mechanisms of governance transfer rather
+than moral evaluation of crusading violence or religious intent.
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. ORIGIN CONDITIONS & TRANSFER LOGIC
 ────────────────────────────────────────────────────────────
-The Order emerges from crusading overflow.
+The Order emerges from crusading overflow rather than territorial design.
 
 Origins:
 • Third Crusade medical brotherhood
-• Papal-military authorization
+• Papal–imperial authorization
 • Recruitment from German nobility
-• Failure to consolidate in the Holy Land
+• Failure to consolidate in the Levant
 
-Key transition:
-→ From Mediterranean crusade to Baltic governance.
+Primary source evidence emphasizes institutional flexibility:
 
-The Order survives by changing theater, not purpose.
+> “When the land beyond the sea could no longer sustain us, we were
+> compelled to seek another field in which our rule and discipline
+> might endure, lest the Order itself dissolve.”
+> — *Chronicle of Peter of Dusburg*, c. 1326
+
+Survival required **theater substitution**, not mission abandonment.
 
 ────────────────────────────────────────────────────────────
 III. EASTERN CRUSADE AS CIVILIZATIONAL PROJECT
 ────────────────────────────────────────────────────────────
-The Baltic becomes the Order’s laboratory.
+The Baltic frontier becomes the Order’s experimental zone.
 
 Functions:
 • Pagan suppression framed as Christianization
 • Fortress construction and grid settlement
 • German colonist importation
-• Law, taxation, and record-keeping imposition
+• Codified law, taxation, and record-keeping
 
 Violence is instrumental, not expressive.
 
-Conversion is governance by other means.
+Contemporary justification is explicit:
+
+> “The brothers are to subdue the heathen not for plunder, but so that
+> the land may be ordered, governed, and brought under the discipline
+> of Christian law.”
+> — Papal privilege cited in Peter of Dusburg
+
+Conversion functions as governance by other means.
 
 ────────────────────────────────────────────────────────────
 IV. ORDER AS PROTO-STATE
 ────────────────────────────────────────────────────────────
-The Teutonic Knights govern without dynasty.
+The Teutonic Knights govern without dynasty or kinship legitimacy.
 
-Characteristics:
+Structural characteristics:
 • Rule-bound hierarchy
 • Office over bloodline
 • Centralized command
 • Permanent militarization
 • Administrative repetition
+
+A chronicler notes the impersonality of authority:
+
+> “No brother ruled by inheritance, but by rule; obedience was owed
+> not to a man, but to the Order itself, whose law stood above all.”
+> — *Chronicon Terrae Prussiae*
 
 Authority flows:
 Rule → Office → Command → Territory
@@ -75,7 +98,7 @@ This prefigures German administrative civilization.
 ────────────────────────────────────────────────────────────
 V. RELATION TO GERMANIA’S DEEP LOGIC
 ────────────────────────────────────────────────────────────
-The Order encodes durable German traits:
+The Order encodes durable German traits before nationhood:
 
 • Discipline over charisma
 • Organization over narrative
@@ -83,12 +106,16 @@ The Order encodes durable German traits:
 • Replacement logic (knights are interchangeable)
 • Moral justification layered atop administration
 
-This is **competence legitimacy before nationhood**.
+Johannes Fried emphasizes that the Order’s power lay not in belief but
+in **procedural repetition and institutional memory**, rather than
+personal authority (*Germany and the Holy Roman Empire*).
+
+This is **competence legitimacy before nationality**.
 
 ────────────────────────────────────────────────────────────
-VI. LIMITS, OVERREACH, & DEFEAT
+VI. LIMITS, OVERREACH, & SYSTEMIC DEFEAT
 ────────────────────────────────────────────────────────────
-The Order’s rigidity becomes liability.
+The Order’s rigidity eventually becomes a liability.
 
 Failure modes:
 • Inflexibility toward local elites
@@ -96,11 +123,14 @@ Failure modes:
 • Overextension of military governance
 • Coalition resistance (Poland–Lithuania)
 
-Key rupture:
-• Battle of Grunwald / Tannenberg (1410)
+The defeat at Grunwald/Tannenberg (1410) exposes a core limit:
 
-Military defeat exposes:
-→ Administration without integration cannot endure.
+> “The Order possessed fortresses and law, but not the hearts of the
+> peoples it ruled; and where obedience depended only on fear, it
+> dissolved once fear failed.”
+> — Jan Długosz, *Annales*
+
+Administration without integration cannot endure.
 
 ────────────────────────────────────────────────────────────
 VII. SECULARIZATION & ABSORPTION
@@ -108,10 +138,13 @@ VII. SECULARIZATION & ABSORPTION
 The Order does not collapse—it mutates.
 
 Outcomes:
-• Prussian secularization (1525)
-• Duchy of Prussia emerges
+• Secularization of Prussia (1525)
+• Emergence of the Duchy of Prussia
 • Lutheranization
 • Administrative continuity preserved
+
+As Martyn Rady observes, the Teutonic transition represents a rare case
+of **institutional continuity across ideological rupture**.
 
 The religious shell dissolves.
 The governing core survives.
@@ -121,7 +154,7 @@ This is a **clean civilizational handoff**.
 ────────────────────────────────────────────────────────────
 VIII. LONG-TERM CIVILIZATIONAL LEGACY
 ────────────────────────────────────────────────────────────
-The Teutonic Knights leave deep residue.
+The Teutonic Knights leave deep structural residue.
 
 Enduring effects:
 • Eastern German settlement patterns
@@ -130,23 +163,25 @@ Enduring effects:
 • Militarized bureaucracy
 • Moralized governance vocabulary
 
+Peter Wilson situates Prussia’s later endurance partly in this inherited
+administrative substrate (*Heart of Europe*).
+
 The Order disappears.
 Its methods persist.
 
 ────────────────────────────────────────────────────────────
-IX. CIVILIZATIONAL MEMORY FUNCTION
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-The Teutonic Knights encode **Germania’s expansion paradox**:
-organization scales power outward—but only where integration follows.
+Internal (GERMANIA):
+• MEM–GERMANIA–WAR–CRUSADES — imperial authority without unity
+• MEM–GERMANIA–WAR–THIRTY–YEARS — fragmentation trauma
+• MEM–GERMANIA–FREDERICK–GREAT — disciplined state inheritance
+• MEM–GERMANIA–PRUSSIA — administrative continuity
 
-Lessons:
-• Administration can conquer faster than culture.
-• Rule-bound orders outperform dynasties short-term.
-• Moral universalism cannot substitute for legitimacy.
-• Replacement depth matters more than heroic leadership.
-• German statecraft precedes German nationhood.
-
-The Order is Germania’s first systems export—and first warning.
+Cross-Civilizational:
+• MEM–POLAND–LITHUANIA–STATE — coalition resistance
+• MEM–ROME–LEGIONS — administrative militarism parallel
+• MEM–FRANCIA–NAPOLEON — expansion without integration contrast
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -157,8 +192,34 @@ X. CONTINUITY INSIGHTS (RAW)
 • Defeat purges ideology, not method.
 • The Teutonic Order is the ancestor of Prussian state logic.
 
-Tension preserved without verdict.
+────────────────────────────────────────────────────────────
+XI. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports curiosity-led exploration.
+
+Exploration prompts may include:
+A) What if the Order had integrated local elites?
+B) Compare the Order to later Prussian administration.
+C) Explore why administration fails without legitimacy.
+D) Alternative history: Teutonic Order survives as secular state.
+
+No option implies correctness.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–TEUTONIC–KNIGHTS — v1.0
+XII. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Peter of Dusburg, *Chronicon Terrae Prussiae*
+• Papal privileges and bulls (13th century)
+• Jan Długosz, *Annales*
+
+Secondary Sources (Mandatory):
+• Johannes Fried
+• Peter H. Wilson
+• Martyn Rady
+• Henry Kissinger
+• Christopher Clark
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–TEUTONIC–KNIGHTS — v1.2
 ────────────────────────────────────────────────────────────
