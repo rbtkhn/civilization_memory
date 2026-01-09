@@ -1,14 +1,15 @@
-CIV–DOCTRINE–GERMANIA — v1.0
+CIV–DOCTRINE–GERMANIA — v1.1
+
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
 Civilization: GERMANIA
 Class: CIV–DOCTRINE (Doctrine Registry)
-Source Authority: DIB–GERMANIA (Explicit Acceptance Only)
-Compatibility: CIV–CORE–GERMANIA v1.6
+Source Authority: CIV–MEM–CORE → CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → CIV–CORE–GERMANIA → DIB–GERMANIA
+Compatibility: CIV–CORE–GERMANIA v1.6+ (Post-Scholar Alignment)
 Last Update: January 2026
-Wordcount: ~1,050
+Wordcount: ~1,060
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -29,8 +30,9 @@ This file:
 • Does NOT synthesize
 • Does NOT evolve autonomously
 
-Authority Flow:
-CIV–MEM–CORE → CIV–CORE–GERMANIA → DIB–GERMANIA → CIV–DOCTRINE–GERMANIA
+Authority Flow (Canonical):
+CIV–MEM–CORE → CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit →
+CIV–CORE–GERMANIA → DIB–GERMANIA → CIV–DOCTRINE–GERMANIA
 
 Only doctrines listed here may be treated as authoritative.
 
@@ -63,7 +65,7 @@ Hard Constraints:
 DOCTRINE 02
 Name: REPLACEMENT BEFORE EXPANSION
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–GERMANIA (v0.2) → DIB ACCEPTANCE
+Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANCE
 
 Definition:
 Germania generates power by replacing personnel, materiel, and
@@ -86,7 +88,7 @@ DOCTRINE 03
 Name: SEQUENCED PRECISION DOCTRINE
 (Endurance → Precision → Closure)
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–CORE–GERMANIA v1.6 (Consolidated)
+Source: CIV–CORE–GERMANIA v1.6 (Consolidated Post-Scholar)
 
 Definition:
 Germania may employ decisive precision only after endurance is secured
@@ -108,7 +110,7 @@ Hard Constraints:
 DOCTRINE 04
 Name: DISCIPLINE INVERSION FAILURE
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–GERMANIA (v0.4) → DIB ACCEPTANCE
+Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANCE
 
 Definition:
 When operational excellence becomes uncoupled from political restraint,
@@ -151,7 +153,7 @@ Hard Constraints:
 III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
 The following are NOT included in this registry:
-• Deferred doctrines (e.g., Triple Brake Failure v0.7)
+• Deferred doctrines
 • Scholar-only syntheses
 • Historical commentary or case analysis
 • Non-binding heuristics
@@ -168,10 +170,6 @@ Required citation format:
 • CIV–DOCTRINE–GERMANIA version
 • Doctrine number
 
-Example:
-“Per DOCTRINE 03 (SEQUENCED PRECISION DOCTRINE),
-Germania forbids momentum-driven success.”
-
 Silent doctrine usage is prohibited.
 
 ────────────────────────────────────────────────────────────
@@ -184,8 +182,10 @@ This file is LOCKED.
 • Deletions are forbidden
 
 Supersedes:
-• No prior CIV–DOCTRINE–GERMANIA file (initial issuance)
+• CIV–DOCTRINE–GERMANIA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–GERMANIA v1.0
-────────────────────────────────────────────────────────────
+END OF FILE — CIV–DOCTRINE–GERMANIA v1.1
+
+⸻
+
