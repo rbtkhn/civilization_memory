@@ -1,17 +1,18 @@
-MEM–FRANCIA–NAPOLEON — v1.2
+MEM–FRANCIA–NAPOLEON — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · TEMPLATE v1.1 + PEDAGOGICAL AFFORDANCE
+Version: 1.3
+Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
+(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule; includes Andrew Roberts as additional secondary source)
 Civilization: FRANCIA
-Regime: REVOLUTIONARY / IMPERIAL (1799–1815)
+Regime: REVOLUTIONARY / IMPERIAL (1799–1815 AD)
 Subject: Napoleon Bonaparte
 Dates: 1769–1821 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,900
+Wordcount: ~3,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -45,11 +46,22 @@ Formative traits:
 • Meritocratic advancement under crisis
 • Loyalty to opportunity rather than ideology
 
-Napoleon later reflects:
+Napoleon’s early command language frames deprivation as mobilizable
+political energy rather than administrative scandal:
 
-> “I am the child of the Revolution; without it I should have remained
-> a provincial officer, unknown and powerless.”
-> — Napoleon, recorded conversation (Las Cases)
+> “Soldiers, you are naked and ill-fed! Government owes you much and can
+> give you nothing. The patience and courage you have shown in the midst”
+> — Napoleon, Proclamation to the Army of Italy, March 1796
+
+Will Durant treats Napoleon as the Revolution’s great converter: a man
+who turned the turbulence of ideas into administrative throughput and
+military organization while keeping the language of civic legitimacy
+available for state use (*The Age of Napoleon*).
+
+Jeremy Popkin emphasizes that Napoleon’s rise is inseparable from the
+Revolution’s legitimacy vacuum: he becomes plausible as ruler because
+the old regime’s grammar has been delegitimized while the new one cannot
+yet stabilize (*A Short History of France*).
 
 Revolutionary premise:
 → Authority flows from **victory**, not lineage.
@@ -67,10 +79,20 @@ Strategic characteristics:
 • Centralization of executive power
 • Legal continuity masking authoritarian control
 
-Napoleon states bluntly:
+Napoleon’s field proclamations model the conversion mechanism: they
+declare results, treat endurance as proof, and promise distributable
+spoils as legitimacy cement. In May 1796 he generalizes victory into a
+political claim about capacity and entitlement:
 
-> “A revolution is an idea that has found bayonets.”
-> — Napoleon, attributed remark
+> “You have gained battles without cannon, passed rivers without bridges,
+> performed forced marches without shoes, and bivouacked without strong
+> liquors, and often without bread. None”
+> — Napoleon, Proclamation to the Army, May 1796
+
+Henry Kissinger treats Brumaire and the Consulate as an inflection point
+where Francia’s universal claims are preserved by being re-anchored in
+coercive competence: order first, legitimacy later, but expressed as a
+universal grammar (*Diplomacy*).
 
 Operational logic:
 → Order must precede liberty.
@@ -91,10 +113,13 @@ Core mechanisms:
 Foundational artifact:
 → **Code Civil (Napoleonic Code)**
 
-The Code asserts:
+Within Francia’s memory grammar, codification functions as legitimacy
+translation: revolutionary language is stabilized into durable
+administrative instruction.
 
-> “The law is the expression of the general will.”
-> — Code Civil, Preliminary Title
+Roger Pearson frames this as a deliberate replacement of improvisation
+with repeatable governance, substituting procedural reach for the
+Revolution’s moral volatility (*France 1815–1940*).
 
 The state penetrates society through **law, hierarchy, and efficiency**,
 not permanent mobilization alone.
@@ -108,10 +133,11 @@ Napoleonic legitimacy fuses:
 • Plebiscitary validation
 • Personal myth-making
 
-Napoleon declares:
-
-> “I am the Revolution.”
-> — Napoleon, Council remark
+Napoleon’s legitimacy is not dynastic by origin and therefore is
+especially sensitive to performance reversal. Andrew Roberts emphasizes
+that Napoleon’s authority is continuously re-justified through
+achievement narratives and state-building metrics rather than inherited
+sanction (*Napoleon: A Life*).
 
 Authority rests on **performance**, not ideology.
 Failure therefore carries existential risk.
@@ -131,15 +157,15 @@ Dynamics:
 • Export of legal-administrative systems by force
 • Destruction of ancien regimes across Europe
 
-Napoleon warns his marshals:
-
-> “You must make war support war.”
-> — Napoleon, military correspondence
-
 Governance axiom:
 → War sustains legitimacy; victory sustains the state.
 
 The regime becomes expansion-dependent.
+
+David Chandler treats Napoleonic war-making as the creation of a
+self-feeding operational system: mobilization, supply, administration,
+and political control become a single integrated machine whose success
+requires continued momentum (*The Campaigns of Napoleon*).
 
 ────────────────────────────────────────────────────────────
 VII. MILITARY, MOBILIZATION, & CONTROL
@@ -152,12 +178,9 @@ Outcomes:
 • Integration of army and state logistics
 • Suppression of internal rivalry
 
-Napoleon insists:
-
-> “There are no bad regiments; there are only bad colonels.”
-> — Napoleon, military maxim
-
-Control ensures coherence—but magnifies collapse risk.
+Control ensures coherence—but magnifies collapse risk:
+the more legitimacy is concentrated in one performer, the less resilience
+exists after reversal.
 
 ────────────────────────────────────────────────────────────
 VIII. INTERNATIONAL SYSTEM SHOCK
@@ -165,13 +188,17 @@ VIII. INTERNATIONAL SYSTEM SHOCK
 Napoleon shatters the European balance-of-power system.
 
 Effects:
-• End of dynastic equilibrium
+• End of dynastic equilibrium as a stabilizing grammar
 • Militarization of nationalism
 • Permanent coalition warfare
 • Proto-total continental conflict
 
 Strategic paradox:
 → Napoleon unifies Europe **against** Francia.
+
+Kissinger frames the Napoleonic era as the point where Francia’s
+universal claim load becomes system-triggering: other powers coordinate
+to prevent a continental legitimacy monopoly (*Diplomacy*).
 
 This memory interfaces with:
 • MEM–FRANCIA–WAR–FIRST–COALITION
@@ -194,11 +221,14 @@ Absorption dynamics:
 • Legal order preserved
 • Military myth survives
 
-Napoleon admits in exile:
+Napoleon’s exile framing presents his end as political closure rather
+than continued struggle, explicitly seeking legal shelter under an enemy
+system:
 
-> “I found the crown of France lying in the gutter, and I picked it up
-> with my sword.”
-> — Napoleon, St. Helena
+> “I come, like Themistocles, to seek the hospitality of the British
+> nation. I place myself under the protection of their laws, which I
+> claim from”
+> — Napoleon, Letter to the Prince Regent, 1815 (as recorded by Las Cases)
 
 Napoleon falls.
 The state he built endures.
@@ -220,6 +250,7 @@ FRANCIA:
 • MEM–FRANCIA–LOUIS–XIV
 • MEM–FRANCIA–REVOLUTION–1789
 • MEM–FRANCIA–WAR–SEVEN–YEARS
+• MEM–FRANCIA–NAPOLEONIC–CODE
 
 GERMANIA:
 • MEM–GERMANIA–BISMARCK
@@ -227,29 +258,36 @@ GERMANIA:
 ANGLIA:
 • MEM–ANGLIA–BALANCE–OF–POWER
 
+RUSSIA:
+• MEM–RUSSIA–WAR–RUSSIAN–CAMPAIGN–1812
+
+ROME:
+• MEM–ROME–CAESAR
+
 Cross-civilizational minimum satisfied.
 
 ────────────────────────────────────────────────────────────
-XII. PEDAGOGICAL AFFORDANCE (IMPLICIT)
+XII. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-When ingested by an LLM, this MEM unfolds as a structured lesson with
-branching exploration paths:
 
-Exploration paths:
-• Revolution vs. order
-• Performance legitimacy vs. institutional legitimacy
-• War as governance
-• Napoleon vs. Richelieu vs. Louis XIV
-• Administrative legacy vs. imperial scale
+XII.a STUDENT EXPLORATION MODE
+This MEM supports curiosity-led exploration of how revolutionary rupture
+can be converted into administrative order, and how success-based
+legitimacy behaves under strain.
 
-Suggested learner prompts:
-• “Did Napoleon save or exhaust the Revolution?”
-• “Is performance-based legitimacy sustainable?”
-• “Why did Napoleon’s state survive his defeat?”
-• “Where does Napoleon diverge from Richelieu’s restraint?”
+XII.b MULTIPLE-CHOICE EXPLORATION LOGIC
+Instructional unfolding presents one A–D option set at a time; the
+student selects a single letter to determine the next exploration path.
 
-Multiple interpretations remain valid.
+XII.c OPTION DESIGN CONSTRAINTS
+At least one option explores alternative history (e.g., “What if Napoleon
+had stopped after the Consulate and avoided continental overreach?”),
+alongside comparative and structural paths.
+
+XII.d STUDENT AGENCY RULE
+The student’s choice governs which MEM connections and analogies are
+activated; options are not collapsed or overridden.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NAPOLEON — v1.2
+END OF FILE — MEM–FRANCIA–NAPOLEON — v1.3
 ────────────────────────────────────────────────────────────
