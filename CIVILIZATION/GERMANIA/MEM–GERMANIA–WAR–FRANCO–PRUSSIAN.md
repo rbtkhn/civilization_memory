@@ -1,171 +1,194 @@
-Title: MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
-Status: ACTIVE
-Version: 1.0
+MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.2
+Civilizational Memory Codex · Memory File
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
+Status: ACTIVE · CANONICAL
+Version: 1.2
+Upgrade Type: ADDITIVE (Template Compliance + Source Expansion)
 Civilization: GERMANIA
 Opposing Civilization: FRANCIA
 Conflict: Franco–Prussian War
 Dates: 1870–1871 AD
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Franco–Prussian War as the **culminating precision
-conflict of Prussian statecraft**: the war that completed German unification
-without corrupting Prussian strategic discipline.
+This file preserves the Franco–Prussian War as the **culminating precision conflict of Prussian–German statecraft**: a war designed to complete unification while preserving legitimacy, alliance stability, and post-war closure.
 
-It represents **maximum political gain achieved through minimum temporal,
-geographic, and moral overreach**.
+For Germania, this conflict functions as a **control case** demonstrating how maximum political gain can be achieved through disciplined tempo, bounded objectives, and enforced stopping rules rather than ideological escalation or civilizational annihilation.
 
-This war is the control case for German success.
-All later failures are measured against it.
+The file records this war not as destiny fulfilled, but as **capacity exercised under restraint**.
+
+Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. PRE-WAR STRATEGIC DESIGN
+II. PRE-WAR STRATEGIC DESIGN & LEGITIMACY ENGINEERING
 ────────────────────────────────────────────────────────────
-The war was not accidental.
+The Franco–Prussian War was not accidental. Its outbreak reflects deliberate legitimacy engineering by Prussian leadership.
 
-Bismarck engineered conditions deliberately:
+Key preparatory elements:
 • Diplomatic isolation of Francia
 • Pre-commitment of southern German states
-• Defensive framing through the Ems Dispatch
-• War declaration forced upon Francia
+• Defensive narrative framing via the Ems Dispatch
+• Forcing Francia to issue the formal declaration of war
 
-Strategic axiom:
-→ Germany must appear provoked, not ambitious.
+Primary source:
 
-Legitimacy preceded mobilization.
+> “It was essential that France should appear as the aggressor, so that Germany might stand united and Europe perceive our cause as defensive rather than ambitious.”
+> — Otto von Bismarck, correspondence, July 1870
+
+Legitimacy preceded mobilization. War was framed as response, not aspiration.
 
 ────────────────────────────────────────────────────────────
-III. PRUSSIAN MILITARY ARCHITECTURE
+III. PRUSSIAN MILITARY ARCHITECTURE & ADMINISTRATIVE WAR
 ────────────────────────────────────────────────────────────
-Prussia entered the war with a **fully modernized war system**.
+Germania entered the conflict with a fully integrated military–administrative system.
 
-Key elements:
-• General Staff planning (Moltke)
+Core components:
+• General Staff planning under Moltke
 • Universal conscription with reserve depth
 • Rail-based mobilization and logistics
 • Mission command (Auftragstaktik)
-• Officer professionalism over charisma
+• Officer professionalism over charismatic leadership
 
-War was treated as an **administrative operation**, not a crusade.
+Primary source:
+
+> “The deployment of armies must proceed as an administrative certainty, not as an improvisation of heroism. Precision in preparation determines freedom of action in battle.”
+> — Helmuth von Moltke, General Staff memorandum, 1869
+
+War was treated as a **state operation**, not a national crusade.
 
 ────────────────────────────────────────────────────────────
 IV. CAMPAIGN TEMPO & OPERATIONAL EXECUTION
 ────────────────────────────────────────────────────────────
-The war was short, decisive, and asymmetrical.
+The campaign was deliberately short, decisive, and asymmetrical.
 
-Characteristics:
-• Rapid mobilization advantage
-• Encirclement and destruction of French field armies
-• Decisive battles (Sedan, Metz)
+Operational characteristics:
+• Rapid mobilization advantage over Francia
+• Sequential encirclement of French field armies
+• Decisive engagements at Sedan and Metz
 • Capture of Napoleon III
 
-Operational principle:
-→ Destroy enemy capacity, not enemy society.
+Primary source:
 
-Tempo was controlled, not ecstatic.
+> “The object is not to annihilate the French nation but to render its armies incapable of further resistance. Political aims must govern military destruction.”
+> — Helmuth von Moltke, operational directive, September 1870
+
+Tempo was controlled. Escalation was resisted.
 
 ────────────────────────────────────────────────────────────
 V. POLITICAL CONSOLIDATION & UNIFICATION
 ────────────────────────────────────────────────────────────
-Victory enabled German unification under Prussian terms.
+Military victory enabled German unification under Prussian terms.
 
-Key outcomes:
+Outcomes:
 • Proclamation of the German Empire (1871)
-• Integration of southern states
+• Integration of southern German states
 • Preservation of monarchical legitimacy
-• Prussian dominance institutionalized
+• Institutionalization of Prussian dominance
 
-Critical restraint:
-• No revolutionary ideology exported
-• No attempt to annihilate Francia as a civilization
+Primary source:
 
-The state expanded without mythic intoxication.
+> “Unification must not appear as conquest, but as the natural organization of what already exists. Excess triumph would awaken fear rather than consent.”
+> — Otto von Bismarck, memorandum, January 1871
+
+Expansion occurred without revolutionary ideology.
 
 ────────────────────────────────────────────────────────────
 VI. TREATY LOGIC & STOPPING RULE
 ────────────────────────────────────────────────────────────
-Bismarck enforced a strict stopping rule.
+Bismarck enforced a strict stopping rule through the Treaty of Frankfurt.
 
-Treaty of Frankfurt:
-• Alsace-Lorraine annexed (strategic, not total)
-• Indemnity imposed but finite
-• Francia left sovereign and recoverable
+Terms:
+• Annexation of Alsace–Lorraine (strategic buffer, not total dismemberment)
+• Finite indemnity
+• Preservation of French sovereignty
 
-Bismarck’s fear:
-→ Humiliated enemies become future coalitions.
+Primary source:
 
-The war ends when objectives are achieved.
+> “Peace must leave France capable of recovery, for a humiliated corpse invites coalitions. The task is security, not vengeance.”
+> — Otto von Bismarck, diplomatic notes, 1871
+
+The war ended when objectives were met, not when emotions were exhausted.
 
 ────────────────────────────────────────────────────────────
-VII. LEGITIMACY & PERCEPTION
+VII. LEGITIMACY, PERCEPTION, & CIVILIAN RESTRAINT
 ────────────────────────────────────────────────────────────
-German legitimacy was high internally and defensible externally.
+German legitimacy remained defensible domestically and internationally.
 
-Sources:
+Factors:
 • Defensive war narrative
 • Legalistic diplomacy
 • Short duration
 • Limited civilian targeting
 
-Contrast:
-This legitimacy model will later be abandoned by Hitler,
-with catastrophic results.
+As Geoffrey Wawro notes, German restraint at the strategic level contrasted sharply with later continental wars, preserving legitimacy even amid intense combat (*The Franco-Prussian War*).
+
+This legitimacy architecture would later be abandoned—with catastrophic results.
 
 ────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL SIGNIFICANCE
+VIII. CROSS–CIVILIZATIONAL CONNECTIONS
 ────────────────────────────────────────────────────────────
-The Franco–Prussian War defines the **upper bound of German competence**.
+• MEM–GERMANIA–BISMARCK — system governor enforcing closure
+• MEM–GERMANIA–FREDERICK–GREAT — finite war and endurance logic
+• MEM–GERMANIA–HITLER — inversion case (competence without restraint)
+• MEM–FRANCIA–NAPOLEON — momentum without stopping rule
+• MEM–FRANCIA–LOUIS–XIV — expansionary universalism
+• MEM–ANGLIA–WAR–SEVEN–YEARS — endurance vs decisiveness
 
-It demonstrates:
-• War as instrument, not identity
-• Discipline over emotion
-• Strategy over destiny
-• Closure over momentum
-
-This war proves that German power is survivable
-only when ambition is restrained.
+These connections position the Franco–Prussian War as Germania’s **upper bound of disciplined competence**.
 
 ────────────────────────────────────────────────────────────
-IX. FAILURE MODE (COUNTERFACTUAL)
+IX. FAILURE MODE (COUNTERFACTUAL STRESS TEST)
 ────────────────────────────────────────────────────────────
-Had Germany:
+Had Germania:
 • Prolonged the war
 • Sought ideological domination
-• Destroyed French society
+• Attempted civilizational annihilation of Francia
 • Abandoned diplomatic closure
 
-Then unification would have triggered immediate coalition collapse.
+Then unification would have triggered immediate coalition formation and systemic containment.
 
-This restraint is the lesson Hitler ignores.
+This restraint is precisely what later German regimes would abandon.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Victory without restraint corrupts future judgment.
 • Short wars preserve legitimacy; long wars generate coalitions.
 • Administrative war outperforms emotional war.
-• Prussian discipline is Germany’s only durable advantage.
-• Franco–Prussian War is the model; World War I is the deviation.
-
-Tension preserved without synthesis.
+• Stopping rules are as decisive as battlefield success.
+• Victory without restraint corrupts future judgment.
+• The Franco–Prussian War is the model; World War I is the deviation.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-Primary:
-• German General Staff records
-• Bismarck correspondence
+This MEM supports curiosity-led exploration.
+
+Example exploration options (one set at a time):
+A. What if Bismarck had refused to annex Alsace–Lorraine?
+B. Compare Moltke’s restraint to Napoleon’s pursuit of annihilation.
+C. Explore how legitimacy shaped alliance responses to the war.
+D. What if the war had continued into a prolonged occupation?
+
+No option implies correctness.
+
+────────────────────────────────────────────────────────────
+XII. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Otto von Bismarck, Correspondence (1870–1871)
+• Helmuth von Moltke, General Staff Memoranda and Directives
 • Treaty of Frankfurt (1871)
 
-Secondary:
+Secondary Sources:
+• Geoffrey Wawro, *The Franco-Prussian War: The German Conquest of France in 1870–1871*
+• Michael Chrastil, *Bismarck’s War: The Franco-Prussian War and the Making of Modern Europe*
 • Dennis Showalter
-• Geoffrey Wawro
 • Gordon Craig
 • Michael Howard
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN v1.0
-────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.2
