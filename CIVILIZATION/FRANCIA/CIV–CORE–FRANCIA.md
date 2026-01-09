@@ -1,43 +1,49 @@
-CIV–CORE–FRANCIA — v1.4
+CIV–CORE–FRANCIA — v1.5
 Civilizational Strategy Codex · Civilization Core Engine
 Declarative–Universalist–Centralized Authority Edition
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
+Version: 1.5
+Civilization: FRANCIA
+Class: CIV–CORE
 Compatibility: CIV / MEM Architecture
-Conceptual Lineage: SCE–CIV–FRANCIA V9.x → CIV–CORE–FRANCIA v1.2 → v1.3 → v1.4 (Scholar Additive Integration)
+Conceptual Lineage: SCE–CIV–FRANCIA V9.x → CIV–CORE–FRANCIA v1.2 → v1.3 → v1.4 → v1.5 (Header Compliance)
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 Lock Level: STRUCTURAL (content expandable without renumbering)
+Last Update: January 2026
+Wordcount: 4185
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
 ────────────────────────────────────────────────────────────
 
 1. Declarative Legitimacy Civilization (LOCKED)
-Francia generates authority through explicit declaration:
-law, principle, culture, rights, and universal claims articulated
-from the center and projected outward.
+   Francia generates authority through explicit declaration:
+   law, principle, culture, rights, and universal claims articulated
+   from the center and projected outward.
 
 Authority flows:
 Principle → Law → Institution → Enforcement
 
 2. Universalism-First Legitimacy Logic
-Legitimacy is derived from the claim to represent what is right for all.
-Authority weakens when universal claims diverge from lived outcomes.
+   Legitimacy is derived from the claim to represent what is right for all.
+   Authority weakens when universal claims diverge from lived outcomes.
 
 Collapse is defined as loss of moral credibility, not loss of territory.
 
 3. Reset-as-Renewal Doctrine
-Francia treats rupture as a legitimate corrective mechanism.
-Regime reset is not civilizational failure but a means of reasserting
-coherence when legitimacy decays.
+   Francia treats rupture as a legitimate corrective mechanism.
+   Regime reset is not civilizational failure but a means of reasserting
+   coherence when legitimacy decays.
 
 4. Centralization-as-Coherence Engine
-Unity is produced through concentration of authority, not dispersion.
-Fragmentation is treated as existential risk.
+   Unity is produced through concentration of authority, not dispersion.
+   Fragmentation is treated as existential risk.
 
 5. Expression Over Accumulation Bias
-Clarity, symbolism, and principle are prioritized over slow procedural
-accretion. Law is meant to be seen, not merely practiced.
+   Clarity, symbolism, and principle are prioritized over slow procedural
+   accretion. Law is meant to be seen, not merely practiced.
 
 [ADDITIVE — Scholar v0.1 Integration]
 6. Centralized Reconstitution Clause (DERIVED, NON-LOCKED)
@@ -321,12 +327,12 @@ XX. MANDATORY VERDICT BLOCK
 • GRID-F: REVERSIBLE / STICKY / IRREVERSIBLE
 • RIR-F: INACTIVE / ACTIVE
 • Strategic Classification:
-  UNIVERSAL LEADERSHIP / LEGITIMACY STRAIN /
-  DECLARATIVE OVERLOAD / RESET CYCLE / NEEDS VERIFICATION
+UNIVERSAL LEADERSHIP / LEGITIMACY STRAIN /
+DECLARATIVE OVERLOAD / RESET CYCLE / NEEDS VERIFICATION
 
 [ADDITIVE — Scholar Diagnostic]
 • Legitimacy–Capacity Ratio: BALANCED / DIVERGING / BROKEN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–FRANCIA — v1.4
+END OF FILE — CIV–CORE–FRANCIA — v1.5
 ────────────────────────────────────────────────────────────
