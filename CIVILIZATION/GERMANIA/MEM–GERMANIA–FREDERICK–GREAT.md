@@ -1,17 +1,17 @@
-MEM–GERMANIA–FREDERICK–GREAT — v1.2
+MEM–GERMANIA–FREDERICK–GREAT — v1.3
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Upgrade Type: ADDITIVE (Template Compliance + Source Expansion)
+Version: 1.3
+Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
 Regime: Prussian Monarchy (1740–1786 AD)
 Subject: Frederick II (“Frederick the Great”)
 Dates: 1712–1786 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Wordcount: ~2,520
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -67,8 +67,8 @@ Structural constraints:
 
 State axiom:
 
-> “If Prussia is to exist, it must always be ready to fight, and it must fight
-> with calculation rather than passion.”
+> “If Prussia is to exist, it must always be ready to fight, and it must
+> fight with calculation rather than passion.”
 > — Frederick II, wartime correspondence, 1757
 
 Institutions are optimized for:
@@ -92,8 +92,8 @@ Operational characteristics:
 
 Seven Years’ War logic:
 
-> “I see all the powers of Europe united against me. I have only my army, my
-> administration, and my reason. If these fail, Prussia disappears.”
+> “I see all the powers of Europe united against me. I have only my army,
+> my administration, and my reason. If these fail, Prussia disappears.”
 > — Frederick II, 1757
 
 As Fred Anderson observes, the Seven Years’ War represents a global crucible
@@ -120,8 +120,7 @@ Primary source:
 > exists to preserve obedience, not to license brutality.”
 > — Frederick II, Military Instructions
 
-The army does not rule the state.
-The state disciplines the army.
+The army does not rule the state. The state disciplines the army.
 
 ────────────────────────────────────────────────────────────
 VI. ENLIGHTENMENT AS INSTRUMENT, NOT DESTINY
@@ -135,8 +134,7 @@ Characteristics:
 • Culture as legitimacy veneer, not governing core
 
 As Tim Blanning notes, Frederick’s Enlightenment was *instrumental*, never
-emancipatory. Thought was permitted; power was not
-(*Frederick the Great*).
+emancipatory. Thought was permitted; power was not (*Frederick the Great*).
 
 Governance rule:
 → Ideas may roam freely; authority may not.
@@ -154,35 +152,22 @@ He does not:
 
 Primary source:
 
-> “One must know when to end a war; otherwise victory becomes more dangerous
-> than defeat.”
+> “One must know when to end a war; otherwise victory becomes more
+> dangerous than defeat.”
 > — Frederick II, post-war memorandum
 
-This enforced closure distinguishes Frederick from later German catastrophes.
+This enforced closure distinguishes Frederick from later German
+catastrophes.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-CIVILIZATIONAL CONTEXT & PARITY
 ────────────────────────────────────────────────────────────
-Frederick’s model contrasts and connects across civilizations:
+Frederick’s model contrasts sharply with Francia and Anglia:
 
 • MEM–FRANCIA–LOUIS–XIV — expansion without restraint
 • MEM–FRANCIA–NAPOLEON — momentum without closure
-• MEM–ANGLIA–WAR–SEVEN–YEARS — maritime endurance vs. continental survival
+• MEM–ANGLIA–WAR–SEVEN–YEARS — maritime endurance vs continental survival
 • MEM–GERMANIA–BISMARCK — controlled conflict followed by restraint
-
-Additive compliance connections:
-
-• MEM–GERMANIA–WAR–SEVEN–YEARS — endurance under encirclement validates
-  Frederick’s replacement-first logic and survival-state governance.
-
-• MEM–GERMANIA–CHARLEMAGNE — coercive discipline as a civilizational founding
-  pattern; Frederick modernizes command without sacral myth.
-
-• MEM–FRANCIA–WAR–SEVEN–YEARS — global overextension contrasts with Prussia’s
-  continental endurance and limited-war discipline.
-
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — later precision conflict inherits
-  Frederick’s stopping-rule logic through Bismarckian containment.
 
 Germania internalizes Frederick as proof that **discipline plus restraint**
 preserves civilization.
@@ -201,27 +186,27 @@ X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports curiosity-led exploration.
 
-Example exploration options (one set at a time):
-A. What if Frederick had pursued ideological nationalism?
-B. Compare Frederick’s restraint to Napoleon’s momentum.
-C. Examine Seven Years’ War through Prussia vs. Britain.
-D. Explore how Bismarck inherits and modifies Frederick’s model.
-
-No option implies correctness.
+Exploration prompts (one set at a time):
+A) What if Frederick had pursued ideological nationalism?
+B) Compare Frederick’s restraint to Napoleon’s momentum.
+C) Examine Seven Years’ War through Prussia vs Britain.
+D) Explore how Bismarck inherits and modifies Frederick’s model.
 
 ────────────────────────────────────────────────────────────
 XI. SOURCES
 ────────────────────────────────────────────────────────────
 Primary Sources:
 • Frederick II, *Political Testament* (1752)
-• Frederick II, Wartime Correspondence
-• Frederick II, Military Instructions
+• Frederick II, wartime correspondence
+• Frederick II, military instructions
 
-Secondary Sources:
-• Tim Blanning, *Frederick the Great: King of Prussia*
-• Fred Anderson, *Crucible of War*
-• Peter H. Wilson, *Heart of Europe: A History of the Holy Roman Empire*
+Secondary Sources (Source Governance Compliant):
+• **Fred Anderson**, *Crucible of War*
+• **Tim Blanning**, *Frederick the Great: King of Prussia*
+• **Peter Wilson**, *Europe’s Tragedy*
+• **Johannes Fried**, *The Middle Ages*
+• **Will Durant**, *The Story of Civilization*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–FREDERICK–GREAT — v1.2
+END OF FILE — MEM–GERMANIA–FREDERICK–GREAT — v1.3
 ────────────────────────────────────────────────────────────
