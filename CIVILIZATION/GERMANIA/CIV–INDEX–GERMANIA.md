@@ -1,16 +1,16 @@
-CIV–INDEX–GERMANIA — v1.6
+CIV–INDEX–GERMANIA — v1.7
 Civilizational Memory Codex · Civilization Index File
-Repository: https://github.com/rbtkhn/civilization_memory
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · LOCKED
+Version: 1.7
 Civilization: GERMANIA
 Subject: Germania Memory Index (Authoritative File Register)
 Dates: Roman era–present
-Class: CIV (Index)
+Class: CIV–INDEX
 Last Update: January 2026
-
-WORDCOUNT: ~1,275 words
-TOTAL REGISTERED FILES: 50 MEM–GERMANIA OBJECTS
+Total Registered Files: 50 MEM–GERMANIA OBJECTS
+Wordcount: 1275
 
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 
@@ -25,7 +25,7 @@ INDEX GOVERNANCE RULES (MANDATORY):
 • Every new MEM–GERMANIA file must be added immediately.
 • Renames or scope changes must be reflected same day.
 • This index is the source of truth for Scholar-mode discovery,
-  parity checks, and CIV–CORE synchronization.
+parity checks, and CIV–CORE synchronization.
 
 Canonical Section Order (LOCKED):
 A. GEO
@@ -120,5 +120,5 @@ This index is LOCKED.
 • Scholar Mode consumes this index as authoritative scope.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–GERMANIA — v1.6
+END OF FILE — CIV–INDEX–GERMANIA — v1.7
 ────────────────────────────────────────────────────────────
