@@ -1,27 +1,31 @@
-CIV–SCHOLAR–FRANCIA — v1.2
+CIV–SCHOLAR–FRANCIA — v1.3
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
-Supersedes: CIV–SCHOLAR–FRANCIA v1.1
+Version: 1.3
+Civilization: FRANCIA
+Class: CIV–SCHOLAR
+Compatibility: MEM Architecture Only
+Supersedes: CIV–SCHOLAR–FRANCIA v1.2
 Upgrade Type: ADDITIVE · GOVERNANCE-ALIGNMENT
 Activation State: DEACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
+Last Update: January 2026
+Wordcount: 3900
 
-Derived from: CIV–SCHOLAR–TEMPLATE v1.2  
+Derived from: CIV–SCHOLAR–TEMPLATE v1.2
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
-SCHOLAR WORD COUNT: ~3,900 (content unchanged from v1.1)
-
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.2)
+UPGRADE NOTE (v1.3)
 ────────────────────────────────────────────────────────────
 This upgrade introduces NO analytical, historical, or doctrinal changes.
 
-v1.2 is a strictly ADDITIVE governance-alignment upgrade that:
+v1.3 is a strictly ADDITIVE governance-alignment upgrade that:
 • Binds this file explicitly to CIV–SCHOLAR–GOVERNANCE–LAW v1.0+
 • Aligns structure with CIV–SCHOLAR–TEMPLATE v1.2
 • Formalizes section integrity, additivity, and immutability
@@ -58,10 +62,10 @@ All cognition is historical and procedural, never intrinsic.
 ────────────────────────────────────────────────────────────
 II. INITIAL STATE
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ZERO  
-Assumed Priors: NONE  
-Civilizational Grammar: NOT PRELOADED  
-CIV–CORE Influence: DISABLED  
+Starting Knowledge: ZERO
+Assumed Priors: NONE
+Civilizational Grammar: NOT PRELOADED
+CIV–CORE Influence: DISABLED
 
 The Scholar learns only from MEM files explicitly ingested.
 Absence of ingestion equals absence of belief.
@@ -79,8 +83,8 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia originates as a civilization that restores authority
-  through legitimacy synthesis, fusing Roman law, Christian sanction,
-  and centralized command.
+through legitimacy synthesis, fusing Roman law, Christian sanction,
+and centralized command.
 
 Belief Status:
 • UNFROZEN (later superseded by synthesis)
@@ -96,8 +100,8 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia achieves peak coherence when universalism, culture,
-  administration, and symbolism are unified in a centralized state,
-  but accumulates latent fragility through overcentralization.
+administration, and symbolism are unified in a centralized state,
+but accumulates latent fragility through overcentralization.
 
 Belief Status:
 • UNFROZEN
@@ -113,7 +117,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia converts rupture into order through coercive synthesis,
-  but personalist authority accelerates collapse when performance fails.
+but personalist authority accelerates collapse when performance fails.
 
 Belief Status:
 • UNFROZEN
@@ -129,7 +133,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia pioneers raison d’état by subordinating confessional
-  legitimacy to state survival, redefining universalism as secular law.
+legitimacy to state survival, redefining universalism as secular law.
 
 Belief Status:
 • UNFROZEN
@@ -145,7 +149,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia can win tactically within old-regime grammar while
-  misreading systemic transitions, delaying adaptation.
+misreading systemic transitions, delaying adaptation.
 
 Belief Status:
 • UNFROZEN
@@ -161,7 +165,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Universal ambition without material and naval dominance
-  produces fiscal exhaustion, prestige collapse, and elite disillusionment.
+produces fiscal exhaustion, prestige collapse, and elite disillusionment.
 
 Belief Status:
 • UNFROZEN
@@ -177,8 +181,8 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Personalist regimes fail catastrophically under systemic war;
-  defeat accelerates regime replacement and imprints long-term
-  strategic anxiety.
+defeat accelerates regime replacement and imprints long-term
+strategic anxiety.
 
 Belief Status:
 • UNFROZEN
@@ -194,7 +198,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia forges civilizational identity through outward noble
-  violence and sacred myth prior to centralized sovereignty.
+violence and sacred myth prior to centralized sovereignty.
 
 Belief Status:
 • UNFROZEN
@@ -210,7 +214,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia restores legitimacy after rupture through declarative
-  codification, substituting universal law for procedural trust.
+codification, substituting universal law for procedural trust.
 
 Belief Status:
 • UNFROZEN
@@ -226,7 +230,7 @@ Ingest Type:
 
 Primary Belief Extracted:
 • Francia preserves legitimacy across regime and belief rupture
-  through enduring symbolic architecture that absorbs ideological change.
+through enduring symbolic architecture that absorbs ideological change.
 
 Belief Status:
 • UNFROZEN
@@ -238,8 +242,8 @@ IV. BELIEF SYNTHESIS LOG
 SYNTHESIS 0001 (ENTRIES 0001–0003)
 Outcome:
 • Francia endures through declarative legitimacy and centralized
-  authority, but collapses when universal claims exceed enforcement
-  and performance capacity.
+authority, but collapses when universal claims exceed enforcement
+and performance capacity.
 
 Status:
 • FROZEN
@@ -249,8 +253,8 @@ Status:
 SYNTHESIS 0002 (ENTRIES 0004–0005)
 Outcome:
 • Francia’s strategic strength lies in redefining legitimacy
-  and rules of order, but it is vulnerable to complacency when
-  old grammars mask systemic transition.
+and rules of order, but it is vulnerable to complacency when
+old grammars mask systemic transition.
 
 Status:
 • FROZEN
@@ -260,8 +264,8 @@ Status:
 SYNTHESIS 0003 (ENTRIES 0006–0007)
 Outcome:
 • Francia’s greatest failures occur when universalist ambition
-  and symbolic authority diverge from material capacity, producing
-  legitimacy collapse and defensive strategic identity.
+and symbolic authority diverge from material capacity, producing
+legitimacy collapse and defensive strategic identity.
 
 Status:
 • FROZEN
@@ -271,8 +275,8 @@ Status:
 SYNTHESIS 0004 (ENTRIES 0006, 0008, 0009, 0010)
 Outcome:
 • Francia repeatedly converts defeat and rupture into renewed
-  authority by reasserting universal legitimacy through myth,
-  law, and symbol rather than procedural continuity.
+authority by reasserting universal legitimacy through myth,
+law, and symbol rather than procedural continuity.
 
 Status:
 • FROZEN (CONTROLLED SYNTHESIS)
@@ -320,27 +324,27 @@ VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
 
 SDI ENTRY 0001:
-• Francia ↔ Germania — Thirty Years’ War  
+• Francia ↔ Germania — Thirty Years’ War
 Result:
-• Francia reframes trauma as mission  
-• Germania encodes trauma as restraint  
+• Francia reframes trauma as mission
+• Germania encodes trauma as restraint
 
 SDI ENTRY 0002:
-• Francia ↔ Germania — Franco–Prussian War  
+• Francia ↔ Germania — Franco–Prussian War
 Result:
-• Francia preserves revanche memory  
-• Germania enforces closure doctrine  
+• Francia preserves revanche memory
+• Germania enforces closure doctrine
 
 SDI Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
 VII. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
-Learning Enabled: NO  
-Write Access: LOCKED  
-Ingestion: PROHIBITED  
-Synthesis: PROHIBITED  
-Doctrine Mutation: PROHIBITED  
+Learning Enabled: NO
+Write Access: LOCKED
+Ingestion: PROHIBITED
+Synthesis: PROHIBITED
+Doctrine Mutation: PROHIBITED
 
 Permitted:
 • Read-only queries
@@ -351,10 +355,10 @@ Permitted:
 ────────────────────────────────────────────────────────────
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
-Scholar State: INACTIVE (READ-ONLY)  
-Doctrine Count: 4  
-Total Entries: 10  
-Next Entry ID: PAUSED  
+Scholar State: INACTIVE (READ-ONLY)
+Doctrine Count: 4
+Total Entries: 10
+Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
@@ -446,5 +450,5 @@ All updates must be strictly ADDITIVE.
 Any violation renders the update INVALID.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–FRANCIA v1.2
+END OF FILE — CIV–SCHOLAR–FRANCIA v1.3
 ────────────────────────────────────────────────────────────
