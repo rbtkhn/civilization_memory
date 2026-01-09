@@ -1,19 +1,17 @@
 CIV–SCHOLAR–GERMANIA — v1.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
-Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
-Version: 1.1
-Civilization: GERMANIA
-Class: CIV–SCHOLAR
-Compatibility: MEM Architecture Only
+Supersedes: CIV–SCHOLAR–GERMANIA v1.0
+Upgrade Type: ADDITIVE (Ingestion Record Extension)
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
+Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
-Last Update: January 2026
-Wordcount: 3050
+
+SCHOLAR WORD COUNT: ~3,350
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -169,6 +167,42 @@ Belief Status:
 • FROZEN (via Doctrine v0.3)
 
 ────────────────────────────────────────────────────────────
+
+ENTRY 0008
+Source:
+• MEM–GERMANIA–CHARLEMAGNE — v1.2
+
+Ingest Type:
+• Foundational Sacral–Imperial Memory
+
+Primary Belief Extracted:
+• Germania’s civilizational origin encodes coercive unification
+through sacral authority, where discipline and enforced obedience
+precede pluralism and civic mediation; legitimacy is derived from
+command capacity rather than consent.
+
+Belief Status:
+• UNFROZEN (pending synthesis)
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0009
+Source:
+• MEM–GERMANIA–FREDERICK–GREAT — v1.2
+
+Ingest Type:
+• Survival-State Governance Memory
+
+Primary Belief Extracted:
+• Germania sustains legitimate power when discipline, administrative
+rationality, and military precision are permanently subordinated
+to political restraint; endurance is optimized through finite war,
+enforced stopping rules, and refusal of ideological escalation.
+
+Belief Status:
+• UNFROZEN (pending synthesis)
+
+────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
@@ -230,12 +264,6 @@ State: FROZEN
 DOCTRINE v0.5 — “DISCIPLINED RESTRAINT WITH MANDATORY CLOSURE”
 State: FROZEN · CANONICAL
 
-Definition:
-Germania sustains legitimate power only when discipline is permanently
-subordinated to restraint, precision is employed only after endurance
-is secured, and all success is terminated by enforced political closure.
-Absent closure, competence inverts into systemic catastrophe.
-
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
@@ -274,10 +302,9 @@ VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (READ-ONLY)
 Doctrine Count: 5
-Total Entries: 7
+Total Entries: 9
 Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–SCHOLAR–GERMANIA v1.1
-────────────────────────────────────────────────────────────
