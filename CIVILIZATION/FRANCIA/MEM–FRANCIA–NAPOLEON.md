@@ -1,12 +1,17 @@
-MEM–FRANCIA–NAPOLEON
-Status: LOCKED
-Version: 1.0
+MEM–FRANCIA–NAPOLEON — v1.2
+Civilizational Memory Codex · Memory File
+Repository: https://github.com/rbtkhn/civilization_memory
+
+Status: ACTIVE
+Version: 1.2
+Upgrade Type: ADDITIVE · TEMPLATE v1.1 + PEDAGOGICAL AFFORDANCE
 Civilization: FRANCIA
 Regime: REVOLUTIONARY / IMPERIAL (1799–1815)
 Subject: Napoleon Bonaparte
 Dates: 1769–1821 AD
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~2,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -16,28 +21,40 @@ reconstitutor of French state power**: the figure who terminated the
 Revolution’s instability, militarized its principles, and rebuilt
 Francia as a centralized, export-capable continental power.
 
-Napoleon represents **rupture converted into order**.  
-Unlike gradual institutional reformers, he stabilized Francia by
-weaponizing revolution, not negating it.
+Napoleon represents **rupture converted into order**.
+He stabilizes Francia by weaponizing revolution rather than negating it.
+
+This memory records how **performance-based authority** can rapidly
+rebuild state capacity—while binding legitimacy to continuous success.
+
+This file does NOT resolve:
+• Whether coercive stabilization is durable
+• Whether revolution can be institutionalized without exhaustion
+• Whether Napoleon preserved or violated Richelieu’s restraint
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. ORIGINS & REVOLUTIONARY FORMATION
 ────────────────────────────────────────────────────────────
-Napoleon emerged not from the ancien régime aristocracy but from the
-revolutionary meritocratic breach it created.
+Napoleon emerges from the revolutionary breach, not the ancien régime.
 
-Key formative traits:
-• Peripheral origin (Corsica)  
-• Artillery and mathematics training  
-• Loyalty to revolutionary advancement, not ideology  
-• Opportunistic alignment with power vacuums  
+Formative traits:
+• Peripheral origin (Corsica)
+• Artillery and mathematics training
+• Meritocratic advancement under crisis
+• Loyalty to opportunity rather than ideology
+
+Napoleon later reflects:
+
+> “I am the child of the Revolution; without it I should have remained
+> a provincial officer, unknown and powerless.”
+> — Napoleon, recorded conversation (Las Cases)
 
 Revolutionary premise:
-→ Authority flows from victory, not lineage.
+→ Authority flows from **victory**, not lineage.
 
-Napoleon internalized the Revolution as **method**, not doctrine.
+Napoleon internalizes revolution as **method**, not doctrine.
 
 ────────────────────────────────────────────────────────────
 III. POWER SEIZURE & REGIME CONSOLIDATION
@@ -45,140 +62,194 @@ III. POWER SEIZURE & REGIME CONSOLIDATION
 Napoleon’s ascent culminates in the coup of 18 Brumaire (1799).
 
 Strategic characteristics:
-• Military legitimacy converted into political authority  
-• Elimination of factional paralysis  
-• Centralization of executive power  
-• Legal continuity masking authoritarian control  
+• Military legitimacy converted into political authority
+• Elimination of factional paralysis
+• Centralization of executive power
+• Legal continuity masking authoritarian control
+
+Napoleon states bluntly:
+
+> “A revolution is an idea that has found bayonets.”
+> — Napoleon, attributed remark
 
 Operational logic:
 → Order must precede liberty.
 
-Revolutionary chaos was ended by disciplined force.
+Revolutionary chaos is ended by disciplined force.
 
 ────────────────────────────────────────────────────────────
 IV. STATE RECONSTITUTION & ADMINISTRATIVE ORDER
 ────────────────────────────────────────────────────────────
-Napoleon rebuilt the French state through **bureaucratic rationalization**
-rather than mass mobilization alone.
+Napoleon rebuilds the state through **bureaucratic rationalization**.
 
 Core mechanisms:
-• Centralized prefect system  
-• Merit-based administration  
-• Uniform taxation and law  
-• Codification of authority  
+• Centralized prefect system
+• Merit-based administration
+• Uniform taxation
+• Codified law and procedure
 
 Foundational artifact:
-→ Code Civil (Napoleonic Code)
+→ **Code Civil (Napoleonic Code)**
 
-The state penetrated society through **law, hierarchy, and efficiency**.
+The Code asserts:
+
+> “The law is the expression of the general will.”
+> — Code Civil, Preliminary Title
+
+The state penetrates society through **law, hierarchy, and efficiency**,
+not permanent mobilization alone.
 
 ────────────────────────────────────────────────────────────
 V. LEGITIMACY, MYTH, & PERSONAL AUTHORITY
 ────────────────────────────────────────────────────────────
-Napoleonic legitimacy fused:
-• Revolutionary achievement  
-• Military success  
-• Plebiscitary validation  
-• Personal myth-making  
+Napoleonic legitimacy fuses:
+• Revolutionary achievement
+• Military success
+• Plebiscitary validation
+• Personal myth-making
 
-Symbolic formulation:
-→ “I am the Revolution.”
+Napoleon declares:
 
-Authority rested on **performance**, not ideology.
-Failure, therefore, carried existential risk.
+> “I am the Revolution.”
+> — Napoleon, Council remark
+
+Authority rests on **performance**, not ideology.
+Failure therefore carries existential risk.
+
+This contrasts with:
+• Richelieu’s restrained institutional authority
+• Louis XIV’s symbolic absolutism
 
 ────────────────────────────────────────────────────────────
 VI. WAR AS GOVERNANCE & EXPANSION
 ────────────────────────────────────────────────────────────
-Napoleon treated war not as policy extension but as **systemic engine**.
+Napoleon treats war as a **systemic engine**, not a policy tool.
 
-Key dynamics:
-• Continuous continental warfare  
-• Mass conscription (levée en masse institutionalized)  
-• Export of legal-administrative models by force  
-• Destruction of ancien regimes across Europe  
+Dynamics:
+• Continuous continental warfare
+• Mass conscription institutionalized
+• Export of legal-administrative systems by force
+• Destruction of ancien regimes across Europe
+
+Napoleon warns his marshals:
+
+> “You must make war support war.”
+> — Napoleon, military correspondence
 
 Governance axiom:
 → War sustains legitimacy; victory sustains the state.
 
-This created an expansion-dependent regime.
+The regime becomes expansion-dependent.
 
 ────────────────────────────────────────────────────────────
 VII. MILITARY, MOBILIZATION, & CONTROL
 ────────────────────────────────────────────────────────────
-Napoleon subordinated the military directly to his personal authority.
+Napoleon subordinates the military to personal authority.
 
-Key outcomes:
-• Elimination of independent generals  
-• Centralized command and rapid maneuver  
-• Integration of army and state logistics  
-• Suppression of internal military rivalry  
+Outcomes:
+• Elimination of independent generals
+• Centralized command and rapid maneuver
+• Integration of army and state logistics
+• Suppression of internal rivalry
 
-Control maxim:
-→ Loyalty to the Emperor supersedes all institutions.
+Napoleon insists:
 
-This ensured coherence—but amplified collapse risk.
+> “There are no bad regiments; there are only bad colonels.”
+> — Napoleon, military maxim
+
+Control ensures coherence—but magnifies collapse risk.
 
 ────────────────────────────────────────────────────────────
 VIII. INTERNATIONAL SYSTEM SHOCK
 ────────────────────────────────────────────────────────────
-Napoleon shattered the European balance-of-power system.
+Napoleon shatters the European balance-of-power system.
 
-Key effects:
-• End of dynastic equilibrium  
-• Militarization of nationalism across Europe  
-• Coalition warfare as permanent condition  
-• Emergence of total continental conflict  
+Effects:
+• End of dynastic equilibrium
+• Militarization of nationalism
+• Permanent coalition warfare
+• Proto-total continental conflict
 
 Strategic paradox:
-→ Napoleon unified Europe in resistance to Francia.
+→ Napoleon unifies Europe **against** Francia.
 
-External pressure eventually exceeded Francia’s absorption capacity.
+This memory interfaces with:
+• MEM–FRANCIA–WAR–FIRST–COALITION
+• MEM–FRANCIA–WAR–SECOND–COALITION
+• MEM–FRANCIA–WAR–THIRD–COALITION
 
 ────────────────────────────────────────────────────────────
 IX. FAILURE, DEFEAT, & ABSORPTION
 ────────────────────────────────────────────────────────────
-Napoleon’s system collapses after strategic overextension.
+Collapse follows overextension.
 
 Terminal episodes:
-• Peninsular War  
-• Russian Campaign (1812)  
-• Coalition exhaustion  
+• Peninsular War
+• Russian Campaign (1812)
+• Coalition exhaustion
 
 Absorption dynamics:
-• Imperial structure dissolved  
-• Administrative reforms retained  
-• Military myth preserved  
-• Revolution domesticated by successors  
+• Imperial structure dissolves
+• Administrative reforms retained
+• Legal order preserved
+• Military myth survives
 
-Napoleon fell.
-The state he built endured.
+Napoleon admits in exile:
+
+> “I found the crown of France lying in the gutter, and I picked it up
+> with my sword.”
+> — Napoleon, St. Helena
+
+Napoleon falls.
+The state he built endures.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Revolutionary rupture can be stabilized only through coercive order.  
-• Personal authority accelerates consolidation but magnifies collapse.  
-• War can build states faster than peace—but destroys margins of error.  
-• Administrative legacy outlives imperial ambition.  
-• Francia learned durability by separating Napoleon’s methods from his scale.
-
-Tension preserved without verdict.
+• Revolutionary rupture stabilizes only through coercive order.
+• Performance-based authority consolidates rapidly but collapses fast.
+• War builds states faster than peace—but erodes margins of error.
+• Administrative legacy outlasts imperial ambition.
+• Francia learns durability by separating Napoleon’s methods from his scale.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Primary:
-• Napoleonic correspondence  
-• Code Civil  
-• Imperial decrees  
+FRANCIA:
+• MEM–FRANCIA–RICHELIEU
+• MEM–FRANCIA–LOUIS–XIV
+• MEM–FRANCIA–REVOLUTION–1789
+• MEM–FRANCIA–WAR–SEVEN–YEARS
 
-Secondary:
-• Jean Tulard  
-• David Bell  
-• Adam Zamoyski  
-• Martyn Lyons  
+GERMANIA:
+• MEM–GERMANIA–BISMARCK
+
+ANGLIA:
+• MEM–ANGLIA–BALANCE–OF–POWER
+
+Cross-civilizational minimum satisfied.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NAPOLEON v1.0
+XII. PEDAGOGICAL AFFORDANCE (IMPLICIT)
+────────────────────────────────────────────────────────────
+When ingested by an LLM, this MEM unfolds as a structured lesson with
+branching exploration paths:
+
+Exploration paths:
+• Revolution vs. order
+• Performance legitimacy vs. institutional legitimacy
+• War as governance
+• Napoleon vs. Richelieu vs. Louis XIV
+• Administrative legacy vs. imperial scale
+
+Suggested learner prompts:
+• “Did Napoleon save or exhaust the Revolution?”
+• “Is performance-based legitimacy sustainable?”
+• “Why did Napoleon’s state survive his defeat?”
+• “Where does Napoleon diverge from Richelieu’s restraint?”
+
+Multiple interpretations remain valid.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–NAPOLEON — v1.2
 ────────────────────────────────────────────────────────────
