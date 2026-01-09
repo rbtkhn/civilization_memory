@@ -1,6 +1,6 @@
 MEM–GERMANIA–CHARLEMAGNE — v1.2
 Civilizational Memory Codex · Memory File
-Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
+Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
 Version: 1.2
@@ -108,7 +108,7 @@ sacral legitimacy over civic participation.
 
 Johannes Fried notes that Charlemagne’s empire functioned less as a
 coherent polity than as a command network bound by personal authority
-and ritual submission (*Charlemagne*, Johannes Fried).
+and ritual submission (*Charlemagne*).
 
 ────────────────────────────────────────────────────────────
 VII. POST-CHARLEMAGNE TRAJECTORY
@@ -153,6 +153,19 @@ C) Explore administrative discipline versus civic law.
 D) Trace how coercive unity shapes later restraint doctrines.
 
 Student choice determines which connections and analogies unfold next.
+
+────────────────────────────────────────────────────────────
+XI. SOURCES
+────────────────────────────────────────────────────────────
+Primary:
+• Einhard, *Vita Karoli Magni*
+• *Capitulatio de partibus Saxoniae*
+• *Capitulare missorum*
+
+Secondary:
+• Johannes Fried, *Charlemagne*
+• Peter H. Wilson, *Heart of Europe*
+• Martyn Rady, *The Holy Roman Empire*
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–GERMANIA–CHARLEMAGNE — v1.2
