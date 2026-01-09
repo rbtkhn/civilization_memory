@@ -1,22 +1,23 @@
-CIV–INDEX–FRANCIA — v1.4
+CIV–INDEX–FRANCIA — v1.5
 Civilizational Memory Codex · Index File
-Repository: https://github.com/rbtkhn/civilization_memory
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL
-Version: 1.4
+Version: 1.5
 Civilization: FRANCIA
 Subject: Francia Memory Index (File Register)
 Dates: Medieval era–present
 Class: CIV–INDEX
 Last Update: January 2026
 Total MEM–FRANCIA Files: 44
+Wordcount: 1,120
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & GOVERNANCE (INDEX LAW)
 ────────────────────────────────────────────────────────────
 This file is the authoritative index of all MEM–FRANCIA files.
 
-INDEX ROLE (v1.4 CONTINUITY):
+INDEX ROLE (v1.5 CONTINUITY):
 • Canonical registry for Francia memory objects
 • Parity enforcement surface (FRANCIA ↔ ANGLIA ↔ GERMANIA)
 • Scholar-mode discovery anchor
@@ -39,37 +40,14 @@ II. FILE REGISTER — FRANCIA
 ────────────────────────────────────────────────────────────
 
 A) GEO
-• MEM–FRANCIA–GEO–ATLANTIC.md  
-  Dates: Early modern–present  
-  Function: Atlantic projection zone; universalist ambition beyond capacity.
-
-• MEM–FRANCIA–GEO–MEDITERRANEAN.md  
-  Dates: Ancient era–present  
-  Function: Civilizational origin basin; Roman–Christian inheritance.
-
-• MEM–FRANCIA–GEO–ENGLISH–CHANNEL.md  
-  Dates: Medieval–present  
-  Function: Friction corridor; invasion vector and rivalry membrane.
-
-• MEM–FRANCIA–NETHERLANDS.md  
-  Dates: Early modern–modern  
-  Function: Commercial–strategic interface and repeated conflict zone.
-
-• MEM–FRANCIA–BELGIUM.md  
-  Dates: Early modern–modern  
-  Function: Buffer territory; continental gateway and pressure valve.
-
-• MEM–FRANCIA–GEO–PACIFIC.md  
-  Dates: Early modern–present  
-  Function: Peripheral projection theater; prestige routes and late-entry constraints.
-
-• MEM–FRANCIA–GEO–IBERIA.md  
-  Dates: Medieval–modern  
-  Function: Southern neighbor rivalry; dynastic, maritime, and ideological contention corridor.
-
-• MEM–FRANCIA–GEO–LEVANT.md  
-  Dates: Medieval–present  
-  Function: Crusade-to-mandate arc; civilizational claim zone and legitimacy exposure surface.
+• MEM–FRANCIA–GEO–ATLANTIC.md
+• MEM–FRANCIA–GEO–MEDITERRANEAN.md
+• MEM–FRANCIA–GEO–ENGLISH–CHANNEL.md
+• MEM–FRANCIA–NETHERLANDS.md
+• MEM–FRANCIA–BELGIUM.md
+• MEM–FRANCIA–GEO–PACIFIC.md
+• MEM–FRANCIA–GEO–IBERIA.md
+• MEM–FRANCIA–GEO–LEVANT.md
 
 B) DYNASTY
 • MEM–FRANCIA–DYNASTY–MEROVINGIAN.md
@@ -135,13 +113,12 @@ H) OTHER / MISC
 ────────────────────────────────────────────────────────────
 III. VERSION & NAMING NOTE
 ────────────────────────────────────────────────────────────
-v1.4 is an additive-only registry update aligning the Francia index with
-the current MEM–FRANCIA corpus and parity requirements.
+v1.5 is a header-compliance and additive registry update aligning
+CIV–INDEX–FRANCIA with CIV–MEM–CORE v1.5 mandatory standards.
 
 This file supersedes and replaces:
-• CIV–INDEX–FRANCIA — v1.3
-• MEM–FRANCIA–INDEX (all prior versions)
+• CIV–INDEX–FRANCIA — v1.4 and all prior versions
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–FRANCIA — v1.4
+END OF FILE — CIV–INDEX–FRANCIA — v1.5
 ────────────────────────────────────────────────────────────
