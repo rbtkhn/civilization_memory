@@ -1,6 +1,7 @@
 MEM–GERMANIA–FREDERICK–GREAT — v1.2
 Civilizational Memory Codex · Memory File
-Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
+Repository: https://github.com/rbtkhn/civilization_memory
+
 Status: ACTIVE · CANONICAL
 Version: 1.2
 Upgrade Type: ADDITIVE (Template Compliance + Source Expansion)
@@ -15,18 +16,28 @@ Wordcount: ~2,450
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Frederick II of Prussia as a **disciplinary–intellectual survival governor**: the ruler who transformed Prussia from a brittle, encircled polity into a durable administrative–military system capable of surviving systemic war without ideological intoxication.
+This file preserves Frederick II of Prussia as a **disciplinary–intellectual
+survival governor**: the ruler who transformed Prussia from a brittle,
+encircled polity into a durable administrative–military system capable of
+surviving systemic war without ideological intoxication.
 
-For Germania, Frederick represents **restraint under maximum pressure**. His significance lies not in conquest alone, but in the disciplined refusal to convert success into destiny or ideology.
+For Germania, Frederick represents **restraint under maximum pressure**.
+His significance lies not in conquest alone, but in the disciplined refusal
+to convert success into destiny or ideology.
 
-This file records Frederick as a *civilizational stress-test case*: demonstrating how endurance, replacement capacity, and enforced political closure preserve legitimacy under existential threat.
+This file records Frederick as a *civilizational stress-test case*:
+demonstrating how endurance, replacement capacity, and enforced political
+closure preserve legitimacy under existential threat.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. FORMATION UNDER COERCION & CONTRADICTION
 ────────────────────────────────────────────────────────────
-Frederick’s formation occurs within extreme internal coercion and external vulnerability. Raised under the militarized austerity of Frederick William I, he absorbed discipline through fear rather than affection, while privately cultivating Enlightenment cosmopolitanism and Francophile culture.
+Frederick’s formation occurs within extreme internal coercion and external
+vulnerability. Raised under the militarized austerity of Frederick William I,
+he absorbed discipline through fear rather than affection, while privately
+cultivating Enlightenment cosmopolitanism and Francophile culture.
 
 Primary tension:
 • Aesthetic humanism vs. iron discipline
@@ -35,10 +46,13 @@ Primary tension:
 
 Primary source evidence:
 
-> “A prince is made not to follow his own inclinations, but to do what the interest of the state requires. He must sacrifice his tastes, his repose, and even his life, when necessity commands.”
+> “A prince is made not to follow his own inclinations, but to do what the
+> interest of the state requires. He must sacrifice his tastes, his repose,
+> and even his life, when necessity commands.”
 > — Frederick II, *Political Testament* (1752)
 
-This contradiction is never resolved. Instead, it is **managed**, subordinated to survival.
+This contradiction is never resolved. Instead, it is **managed**, subordinated
+to survival.
 
 ────────────────────────────────────────────────────────────
 III. PRUSSIA AS A SURVIVAL STATE
@@ -53,7 +67,8 @@ Structural constraints:
 
 State axiom:
 
-> “If Prussia is to exist, it must always be ready to fight, and it must fight with calculation rather than passion.”
+> “If Prussia is to exist, it must always be ready to fight, and it must fight
+> with calculation rather than passion.”
 > — Frederick II, wartime correspondence, 1757
 
 Institutions are optimized for:
@@ -77,10 +92,13 @@ Operational characteristics:
 
 Seven Years’ War logic:
 
-> “I see all the powers of Europe united against me. I have only my army, my administration, and my reason. If these fail, Prussia disappears.”
+> “I see all the powers of Europe united against me. I have only my army, my
+> administration, and my reason. If these fail, Prussia disappears.”
 > — Frederick II, 1757
 
-As Fred Anderson observes, the Seven Years’ War represents a global crucible where **endurance**, not battlefield victory, determines survival (*Crucible of War*).
+As Fred Anderson observes, the Seven Years’ War represents a global crucible
+where **endurance**, not battlefield victory, determines survival
+(*Crucible of War*).
 
 Lose battles. Preserve the state.
 
@@ -98,10 +116,12 @@ Core mechanisms:
 
 Primary source:
 
-> “The army must be feared by the enemy, but never by the state. Discipline exists to preserve obedience, not to license brutality.”
+> “The army must be feared by the enemy, but never by the state. Discipline
+> exists to preserve obedience, not to license brutality.”
 > — Frederick II, Military Instructions
 
-The army does not rule the state. The state disciplines the army.
+The army does not rule the state.
+The state disciplines the army.
 
 ────────────────────────────────────────────────────────────
 VI. ENLIGHTENMENT AS INSTRUMENT, NOT DESTINY
@@ -114,7 +134,9 @@ Characteristics:
 • Reason subordinated to survival
 • Culture as legitimacy veneer, not governing core
 
-As Tim Blanning notes, Frederick’s Enlightenment was *instrumental*, never emancipatory. Thought was permitted; power was not (*Frederick the Great*).
+As Tim Blanning notes, Frederick’s Enlightenment was *instrumental*, never
+emancipatory. Thought was permitted; power was not
+(*Frederick the Great*).
 
 Governance rule:
 → Ideas may roam freely; authority may not.
@@ -132,7 +154,8 @@ He does not:
 
 Primary source:
 
-> “One must know when to end a war; otherwise victory becomes more dangerous than defeat.”
+> “One must know when to end a war; otherwise victory becomes more dangerous
+> than defeat.”
 > — Frederick II, post-war memorandum
 
 This enforced closure distinguishes Frederick from later German catastrophes.
@@ -140,14 +163,29 @@ This enforced closure distinguishes Frederick from later German catastrophes.
 ────────────────────────────────────────────────────────────
 VIII. CROSS-CIVILIZATIONAL CONTEXT & PARITY
 ────────────────────────────────────────────────────────────
-Frederick’s model contrasts sharply with Francia and Anglia:
+Frederick’s model contrasts and connects across civilizations:
 
 • MEM–FRANCIA–LOUIS–XIV — expansion without restraint
 • MEM–FRANCIA–NAPOLEON — momentum without closure
 • MEM–ANGLIA–WAR–SEVEN–YEARS — maritime endurance vs. continental survival
 • MEM–GERMANIA–BISMARCK — controlled conflict followed by restraint
 
-Germania internalizes Frederick as proof that **discipline plus restraint** preserves civilization.
+Additive compliance connections:
+
+• MEM–GERMANIA–WAR–SEVEN–YEARS — endurance under encirclement validates
+  Frederick’s replacement-first logic and survival-state governance.
+
+• MEM–GERMANIA–CHARLEMAGNE — coercive discipline as a civilizational founding
+  pattern; Frederick modernizes command without sacral myth.
+
+• MEM–FRANCIA–WAR–SEVEN–YEARS — global overextension contrasts with Prussia’s
+  continental endurance and limited-war discipline.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — later precision conflict inherits
+  Frederick’s stopping-rule logic through Bismarckian containment.
+
+Germania internalizes Frederick as proof that **discipline plus restraint**
+preserves civilization.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -176,11 +214,14 @@ XI. SOURCES
 ────────────────────────────────────────────────────────────
 Primary Sources:
 • Frederick II, *Political Testament* (1752)
-• Frederick II, Wartime Correspondence and Military Instructions
+• Frederick II, Wartime Correspondence
+• Frederick II, Military Instructions
 
 Secondary Sources:
 • Tim Blanning, *Frederick the Great: King of Prussia*
 • Fred Anderson, *Crucible of War*
+• Peter H. Wilson, *Heart of Europe: A History of the Holy Roman Empire*
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–GERMANIA–FREDERICK–GREAT — v1.2
+────────────────────────────────────────────────────────────
