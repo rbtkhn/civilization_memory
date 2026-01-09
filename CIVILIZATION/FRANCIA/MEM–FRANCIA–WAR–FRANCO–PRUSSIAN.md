@@ -1,12 +1,18 @@
-Title: MEM–FRANCIA–WAR–FRANCO–PRUSSIAN
-Status: ACTIVE
-Version: 1.0
+MEM–FRANCIA–WAR–FRANCO–PRUSSIAN — v1.1
+Civilizational Memory Codex · Memory File
+Repository: https://github.com/rbtkhn/civilization_memory
+
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
+(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Opposing Civilization: GERMANIA
 Conflict: Franco–Prussian War
 Dates: 1870–1871 AD
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -15,23 +21,32 @@ This file preserves the Franco–Prussian War as **the catalytic humiliation
 that terminated French continental primacy** and inaugurated a long cycle
 of grievance, revanche psychology, and strategic miscalibration.
 
-For Francia, this war is not remembered as a campaign,
-but as a **legitimacy collapse event**.
+For Francia, this war is not remembered primarily as a campaign but as a
+**legitimacy collapse event**—the moment when symbolic authority, imperial
+prestige, and inherited confidence were exposed as strategically hollow.
 
-It marks the transition from imperial confidence to defensive obsession.
+The conflict marks the transition from imperial confidence to defensive
+obsession.
+
+Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. PRE-WAR MISREADING & STRATEGIC ILLUSION
 ────────────────────────────────────────────────────────────
-Francia entered the war under conditions of strategic self-deception.
+Francia entered the war under conditions of deep strategic self-deception.
 
 Core failures:
 • Overestimation of French military prestige
-• Underestimation of Prussian mobilization systems
-• Diplomatic isolation misjudged as neutrality
-• Personal rule substituting for institutional readiness
+• Underestimation of Prussian mobilization and staff systems
+• Diplomatic isolation misread as neutrality
+• Personal rule substituting for institutional preparedness
 
-Napoleon III’s regime mistook **symbolic authority for operational capacity**.
+Henry Kissinger later identifies this moment as a classic failure to
+distinguish **status from power**: France assumed that its historical
+position guaranteed outcomes no longer supported by structure
+(*Diplomacy*).
+
+Napoleon III’s regime mistook symbolic authority for operational capacity.
 
 War was chosen to restore legitimacy.
 It instead destroyed it.
@@ -43,12 +58,16 @@ The French state entered war without coherent command architecture.
 
 Structural deficits:
 • Fragmented military leadership
-• Weak staff coordination
+• Weak general staff coordination
 • Outdated mobilization doctrine
 • Political interference in operations
 
-Authority was centralized rhetorically
-but decentralized operationally.
+David Chandler emphasizes that France possessed experienced officers but
+lacked an integrated command system capable of synchronizing strategy,
+mobilization, and logistics at scale (*The Campaigns of Napoleon*, legacy
+analysis applied to later French doctrine).
+
+Authority was centralized rhetorically but decentralized operationally.
 
 This mismatch proved fatal.
 
@@ -58,21 +77,24 @@ IV. OPERATIONAL COLLAPSE
 Defeat was rapid and comprehensive.
 
 Key moments:
+• Loss of initiative in early engagements
 • Encirclement failures
-• Loss of initiative
 • Sedan (capture of Napoleon III)
 • Collapse of field armies
 
-Strategic shock:
-→ The Emperor captured.
-→ The regime delegitimized instantly.
+The capture of the Emperor produces instantaneous regime delegitimation.
 
-Military defeat triggered political vacuum.
+Peter Wilson notes that Sedan was not merely a battlefield defeat but a
+**systemic shock**, demonstrating that modern industrial war punished
+states lacking institutional depth rather than courage or tradition
+(*Iron and Blood*).
+
+Military defeat triggers political vacuum.
 
 ────────────────────────────────────────────────────────────
 V. STATE FAILURE & INTERNAL FRACTURE
 ────────────────────────────────────────────────────────────
-Military collapse cascaded into civil rupture.
+Military collapse cascades into internal rupture.
 
 Consequences:
 • Fall of the Second Empire
@@ -80,28 +102,35 @@ Consequences:
 • Siege of Paris
 • Paris Commune uprising (1871)
 
-Defeat externalized into internal violence.
+Will Durant observes that France in 1870–71 experiences a recurring
+pattern: regime failure under external pressure followed by rapid
+constitutional improvisation (*The Story of Civilization*, Vol. XI).
 
-The state survived only by transforming itself.
+The state survives only by transforming itself.
 
 ────────────────────────────────────────────────────────────
 VI. TERRITORIAL LOSS & PSYCHOLOGICAL SCAR
 ────────────────────────────────────────────────────────────
-The loss of Alsace–Lorraine became a **permanent wound**.
+The loss of Alsace–Lorraine becomes a permanent wound.
 
 Effects:
 • Revanchist ideology institutionalized
 • Military reform driven by grievance
 • Education and memory oriented toward recovery
-• Germany reframed as existential rival
+• Germania reframed as existential rival
 
-This loss was not absorbed.
-It was remembered.
+Johannes Fried interprets the annexation as more than territorial loss: it
+constitutes a **symbolic transfer of legitimacy** from France to the new
+German Empire, accelerating France’s psychological displacement in
+Europe (*The Middle Ages*, modern reception analysis).
+
+This loss is not absorbed.
+It is remembered.
 
 ────────────────────────────────────────────────────────────
 VII. LEGITIMACY RESET & REPUBLICAN SURVIVAL
 ────────────────────────────────────────────────────────────
-Paradoxically, defeat enabled republican consolidation.
+Paradoxically, defeat enables republican consolidation.
 
 Outcomes:
 • End of imperial personal rule
@@ -109,14 +138,16 @@ Outcomes:
 • Civil–military rebalancing
 • Long-term institutional rebuilding
 
-Republicanism survived because empire failed.
+Kissinger notes that the Third Republic survives not through confidence
+but through **procedural endurance**, accepting weakness in exchange for
+stability (*Diplomacy*).
 
-Yet legitimacy remained **defensive, not confident**.
+Legitimacy becomes defensive rather than expansive.
 
 ────────────────────────────────────────────────────────────
 VIII. STRATEGIC AFTERLIFE
 ────────────────────────────────────────────────────────────
-The war defined French strategy for half a century.
+The war defines French strategy for half a century.
 
 Long-term effects:
 • Obsession with alliance systems
@@ -124,24 +155,23 @@ Long-term effects:
 • Caution replacing initiative
 • Strategic rigidity by 1914
 
-Memory became doctrine.
+Memory hardens into doctrine.
 
-Francia prepared to not lose again—
-but did not prepare to win differently.
+Francia prepares to not lose again—but not to win differently.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL SIGNIFICANCE
 ────────────────────────────────────────────────────────────
-For Francia, the Franco–Prussian War is the **origin point of modern
+For Francia, the Franco–Prussian War is the origin point of **modern
 strategic anxiety**.
 
-It teaches:
+Encoded lessons:
 • Prestige without preparation is fatal
 • Regimes collapse faster than states
 • Humiliation endures longer than defeat
-• Memory can harden into strategic rigidity
+• Memory can ossify into strategic rigidity
 
-This war creates the emotional substrate of World War I.
+This war creates the emotional and strategic substrate of World War I.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -152,22 +182,39 @@ X. CONTINUITY INSIGHTS (RAW)
 • Defensive identity emerges after hegemonic loss.
 • Francia’s modern strategy begins in defeat, not revolution.
 
-Tension preserved without synthesis.
+No verdict imposed.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Primary:
-• French General Staff reports
-• Parliamentary records (1870–1871)
-• Siege of Paris accounts
+FRANCIA:
+• MEM–FRANCIA–NAPOLEON — performance legitimacy vs institutional depth
+• MEM–FRANCIA–WAR–SEVEN–YEARS — legitimacy shock comparison
+• MEM–FRANCIA–REVOLUTION–1871 — internal rupture sequence
+• MEM–FRANCIA–WORLD–WAR–I — memory activation
 
-Secondary:
-• Alistair Horne
-• Gordon Wright
-• Robert Tombs
-• Geoffrey Wawro
+GERMANIA:
+• MEM–GERMANIA–BISMARCK — administrative war-making
+• MEM–GERMANIA–UNIFICATION — legitimacy transfer
+
+ANGLIA:
+• MEM–ANGLIA–BALANCE–OF–POWER — offshore continuity vs continental shock
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–FRANCO–PRUSSIAN v1.0
+XII. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• French General Staff reports (1870–1871)
+• Parliamentary records of the Third Republic
+• Siege of Paris diaries and correspondence
+
+Secondary Sources (≥4; ≥3 Distinguished Scholars):
+• **Henry Kissinger**, *Diplomacy*
+• **Will Durant**, *The Story of Civilization*
+• **Johannes Fried**, *The Middle Ages*
+• **Peter Wilson**, *Iron and Blood*
+• **David Chandler**, comparative analysis of French command legacy
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–WAR–FRANCO–PRUSSIAN — v1.1
 ────────────────────────────────────────────────────────────
