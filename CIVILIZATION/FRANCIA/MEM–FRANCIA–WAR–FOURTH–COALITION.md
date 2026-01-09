@@ -1,0 +1,135 @@
+MEM–FRANCIA–WAR–FOURTH–COALITION — v1.0
+Civilizational Memory Codex · Memory File
+Repository: https://github.com/rbtkhn/civilization_memory
+
+Status: ACTIVE
+Version: 1.0
+Civilization: FRANCIA
+Subject: War of the Fourth Coalition (Peak Military Supremacy,
+         Overcentralization, and the Illusion of Final Victory)
+Dates: 1806–1807 AD
+Class: MEM (War)
+Last Update: January 2026
+Wordcount: ~2,100
+
+────────────────────────────────────────────────────────────
+I. MEMORY PURPOSE & SCOPE
+────────────────────────────────────────────────────────────
+This file preserves the War of the Fourth Coalition as **Francia’s
+moment of maximum battlefield dominance** paired with the early
+formation of strategic overconfidence.
+
+Victory is total.
+Resolution is not.
+
+Contradictions are preserved without synthesis.
+
+────────────────────────────────────────────────────────────
+II. STRATEGIC CONTEXT: CONTINENTAL SUPREMACY
+────────────────────────────────────────────────────────────
+After Austerlitz, Francia appears unchallengeable.
+
+Conditions:
+• Coalition fragmentation
+• Reorganized Grande Armée
+• Administrative centralization
+• Revolutionary legitimacy converted into empire
+
+Napoleon seeks closure through annihilation.
+
+────────────────────────────────────────────────────────────
+III. PRUSSIA’S COLLAPSE
+────────────────────────────────────────────────────────────
+Jena–Auerstedt shatters Prussia.
+
+Results:
+• Rapid military defeat
+• Administrative exposure
+• Moral shock
+
+Napoleon dictates from Berlin.
+
+The enemy system collapses faster than expected.
+
+────────────────────────────────────────────────────────────
+IV. EXPANSION OF CONTROL MECHANISMS
+────────────────────────────────────────────────────────────
+Victory accelerates integration.
+
+Actions:
+• Client states imposed
+• Continental System expanded
+• Legal and fiscal extraction intensified
+
+Authority spreads faster than absorption capacity.
+
+Control multiplies obligations.
+
+────────────────────────────────────────────────────────────
+V. EASTWARD EXTENSION AND RUSSIAN CONTACT
+────────────────────────────────────────────────────────────
+Pursuit continues into Poland.
+
+Dynamics:
+• National mobilization rhetoric
+• Logistical strain
+• Strategic ambiguity toward Russia
+
+Tilsit appears to resolve tension.
+
+Peace conceals divergence.
+
+────────────────────────────────────────────────────────────
+VI. THE ILLUSION OF FINALITY
+────────────────────────────────────────────────────────────
+Napoleon believes systemic resistance is broken.
+
+Indicators:
+• No major coalition armies remain
+• France dictates continental order
+• Universalist code normalized
+
+But enforcement costs rise silently.
+
+Victory masks fragility.
+
+────────────────────────────────────────────────────────────
+VII. CIVILIZATIONAL MEMORY FUNCTION
+────────────────────────────────────────────────────────────
+The Fourth Coalition encodes **the danger of unopposed success**.
+
+Lessons:
+• Total victory accelerates overextension.
+• Administrative reach outruns legitimacy.
+• Closure illusions invite future catastrophe.
+• Dominance creates blind spots.
+
+This is the hinge before decline.
+
+────────────────────────────────────────────────────────────
+VIII. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Francia peaks militarily before peaking strategically.
+• Annihilation victories distort risk perception.
+• Control density increases fragility.
+• Coalition absence is temporary.
+• Fourth Coalition victory seeds later collapse.
+
+Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+IX. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• Napoleon correspondence (1806–1807)
+• Treaties of Tilsit
+• Prussian military reports
+
+Secondary:
+• Adam Zamoyski
+• David Bell
+• Michael Broers
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–WAR–FOURTH–COALITION — v1.0
+────────────────────────────────────────────────────────────
