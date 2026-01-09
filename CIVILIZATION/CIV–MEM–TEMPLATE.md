@@ -1,14 +1,12 @@
 CIV–MEM–TEMPLATE — v1.1
 Civilizational Memory Codex · Memory File Enforcement Template
-Source–Causality–Connectivity–Pedagogy Edition
+Canonical Standards · Source–Causality–Connectivity · Pedagogical Affordance Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
+Supersedes: CIV–MEM–TEMPLATE v1.0
+Upgrade Type: ADDITIVE (Education & LLM Interaction Layer)
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility:
-• CIV–MEM–CORE v1.5+
-• CIV–SCHOLAR (Read-Only)
-• CIV–GAME
-• LLM Runtime Educational Overlays
+Compatibility: CIV–MEM–CORE v1.5+ · All CIV–CORE Engines · CIV–SCHOLAR · CIV–GAME
 Last Update: January 2026
 Wordcount: ~1,900
 
@@ -18,19 +16,20 @@ I. PURPOSE & AUTHORITY
 This file defines the **mandatory structure, standards, constraints,
 and pedagogical affordances** for all MEM (Civilizational Memory) files.
 
-A MEM file is:
-• A historical memory record
-• A constraint object
-• A lesson-seeding artifact
+It enforces:
+• Historical rigor
+• Source discipline
+• Cross-civilizational connectivity
+• Engine compatibility
+• Non-teleological interpretation
+• **Dynamic lesson generation capability**
 
-It is NOT:
-• Doctrine
-• Synthesis
-• Narrative history
-• Prescriptive instruction
+Authority Flow:
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / GAME / LLM / CORE
 
-Authority Flow (Unchanged):
-CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / GAME / LLM
+A MEM file is both:
+• A historical memory artifact
+• A **latent instructional substrate**
 
 No MEM file is valid unless compliant with this template.
 
@@ -45,211 +44,231 @@ Every MEM file MUST begin with:
 • Version (semantic)
 • Upgrade Type (if applicable)
 • Civilization
+• Regime / Mode (if applicable)
 • Subject
 • Dates (BC / AD only)
 • Class: MEM (Memory)
 • Last Update
-• Wordcount (≥600)
+• Wordcount (≥600 mandatory)
 
 Failure to include any field invalidates the file.
 
 ────────────────────────────────────────────────────────────
 III. MEMORY PURPOSE & SCOPE (REQUIRED)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST clearly state:
+Each MEM file MUST explicitly state:
 
 • What is being preserved
 • Why it matters civilizationally
 • What function it serves in memory
-• What it explicitly does NOT resolve
+• What it does NOT attempt to resolve
 
 MANDATORY CLAUSE (verbatim):
 “Contradictions are preserved without synthesis.”
 
+MEM files record **memory**, not doctrine.
+
 ────────────────────────────────────────────────────────────
 IV. STRUCTURAL CONTENT RULES
 ────────────────────────────────────────────────────────────
-• Minimum 8 numbered analytical sections
-• Sections must be structural, not narrative
-• No counterfactual optimization
+• Minimum 8 numbered analytical sections (excluding sources)
+• Sections must be analytical, not narrative
+• No speculative counterfactuals in analysis sections
 • No moral adjudication
-• No inevitability framing
+• No hindsight inevitability
 
 Permitted:
-• Constraint
-• Tradeoff
-• Failure
+• Tension
 • Ambiguity
+• Structural failure
 • Misalignment
+• Constraint recognition
 
 Forbidden:
-• Hero worship
 • Teleology
-• Victory bias
-• “Lessons learned” conclusions
+• Hero worship
+• Retrospective optimization
+• Presentist judgment
 
 ────────────────────────────────────────────────────────────
 V. PRIMARY SOURCE REQUIREMENTS (STRICT)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include:
 
-• ≥3 primary-source quotations
-• Each quotation ≥25 words
-• Quotes embedded in analytical sections
-• Attribution required (author + work)
+• At least THREE primary-source quotations
+• Each quotation MUST be ≥25 words
+• Quotes MUST be embedded in analytical sections
+• Quote-only sections are PROHIBITED
 
-A quote-only section is PROHIBITED.
+Quotations MUST:
+• Be attributed (author + work)
+• Directly support a specific analytical claim
+• Span different dimensions when possible
+  (political / moral / strategic / institutional)
 
 Failure invalidates the MEM.
 
 ────────────────────────────────────────────────────────────
 VI. SECONDARY SOURCE DISCIPLINE
 ────────────────────────────────────────────────────────────
-• Optional, never authoritative
-• May frame, never conclude
-• Cannot override primary sources
+Secondary sources:
+• Are optional but encouraged
+• May frame but never override primary sources
+• Must not introduce teleology
 
 Interpretive authority rests with:
 Primary sources + civilizational structure.
 
 ────────────────────────────────────────────────────────────
-VII. MEM CONNECTION REQUIREMENTS
+VII. MEM CONNECTION REQUIREMENTS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST reference:
+Each MEM file MUST explicitly reference:
 
-• ≥8 other MEM files total
-• ≥3 from OTHER civilizations
-• Each connection must explain:
-  – Parallel
-  – Contrast
-  – Inheritance
-  – Or tension
+• At least EIGHT other MEM files total
+• At least THREE from OTHER civilizations
+
+Each connection MUST explain:
+• Structural parallel
+• Contrast
+• Inheritance
+• Or causal tension
 
 Bare lists are forbidden.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW) (REQUIRED)
 ────────────────────────────────────────────────────────────
+Each MEM file MUST include:
+
+Title:
+“CONTINUITY INSIGHTS (RAW)”
+
 Rules:
 • Bullet points only
 • No verdicts
 • No recommendations
 • No synthesis
 
-These are memory fragments, not conclusions.
+These are **memory fragments**, not conclusions.
 
 ────────────────────────────────────────────────────────────
-IX. LANGUAGE & TONAL CONSTRAINTS
+IX. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
 ────────────────────────────────────────────────────────────
-Required:
+Each MEM file MUST be capable of unfolding into a **student-directed
+lesson** when processed by an LLM.
+
+This section defines how.
+
+────────────────────────────────────────
+IX.a STUDENT EXPLORATION MODE (REQUIRED)
+────────────────────────────────────────
+MEM files MUST implicitly support **curiosity-led exploration** rather
+than assessment.
+
+Rules:
+• NO quiz framing
+• NO right/wrong language
+• NO recall testing
+• NO evaluative scoring
+
+The MEM file should invite exploration, not demand answers.
+
+────────────────────────────────────────
+IX.b MULTIPLE-CHOICE EXPLORATION LOGIC
+────────────────────────────────────────
+When used in instructional mode, the LLM MUST:
+
+• Present **only ONE multiple-choice set at a time**
+• Limit each set to **4 options (A–D)**
+• Require the student to respond with **a single letter**
+• Proceed sequentially, not cumulatively
+
+These options are **exploration prompts**, not questions.
+
+────────────────────────────────────────
+IX.c OPTION DESIGN CONSTRAINTS
+────────────────────────────────────────
+Each multiple-choice set MUST satisfy:
+
+• Low cognitive load
+• Curiosity appeal
+• No prerequisite knowledge
+• No implied correctness
+
+MANDATORY OPTION:
+• **At least ONE option MUST be alternative history**
+  (e.g., “What if X had not occurred?”)
+
+Other options MAY include:
+• Comparative extension
+• Structural deepening
+• Biographical focus
+• Modern analogy
+• System-level consequence
+
+────────────────────────────────────────
+IX.d STUDENT AGENCY RULE
+────────────────────────────────────────
+The student’s choice determines:
+• Which aspect is explored next
+• Which MEM connections are activated
+• Which analogies are introduced
+
+The LLM MUST NOT override or collapse choices.
+
+────────────────────────────────────────────────────────────
+X. GAME & ENGINE COMPATIBILITY
+────────────────────────────────────────────────────────────
+All MEM files MUST be usable by:
+
+• CIV–SCHOLAR (READ-ONLY)
+• CIV–CORE (constraint shaping)
+• CIV–GAME (option biasing)
+• Educational LLMs (lesson unfolding)
+
+MEM files:
+• Do NOT generate actions
+• DO shape available paths
+• DO encode warnings, temptations, and limits
+
+────────────────────────────────────────────────────────────
+XI. LANGUAGE & TONAL CONSTRAINTS
+────────────────────────────────────────────────────────────
+Required tone:
 • Analytical
 • Restrained
-• Civilizational
+• Civilizational (not nationalistic)
+• Educationally neutral
 
-Forbidden terms:
-• inevitable
-• obviously
-• destined
-• had to
-• failure because
+Forbidden language:
+• “inevitable”
+• “obviously”
+• “had to”
+• “destined”
+• “failure because”
 
-MEM files describe pressure, not destiny.
-
-────────────────────────────────────────────────────────────
-X. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
-────────────────────────────────────────────────────────────
-Each MEM file MUST be written so that an LLM can dynamically generate
-a **high-school supplemental lesson** from it WITHOUT adding facts.
-
-This is achieved by embedding **exploration-ready structure**, not by
-adding teaching commentary.
-
-────────────────────────────────────────────
-X.1 MULTIPLE-CHOICE EXPLORATION LOGIC (EMBEDDED)
-────────────────────────────────────────────
-Every MEM file MUST implicitly support the following runtime menu,
-derived directly from its sections:
-
-MANDATORY 6-OPTION MENU:
-A) Causes & Conditions
-B) Key Actors & Incentives
-C) Systems & Structures
-D) Let the conversation develop organically
-E) Consequences & Memory
-F) Compare & Contrast (declared comparator)
-
-Authoring Requirement:
-• Each MEM section must clearly map to at least one menu option.
-• No section may collapse all options into one interpretation.
-
-────────────────────────────────────────────
-X.2 PATH TERMINATION BLOCK (IMPLICIT)
-────────────────────────────────────────────
-Each analytical section MUST encode:
-• ≥1 constraint
-• ≥1 tradeoff
-• ≥1 unresolved tension
-
-These must be *extractable*, not labeled explicitly in prose.
-
-────────────────────────────────────────────
-X.3 NON-CONCLUSION LAW
-────────────────────────────────────────────
-MEM files MUST NOT:
-• State “the lesson is…”
-• Offer takeaways
-• Resolve ambiguity
-
-The lesson emerges through exploration, not declaration.
+History is presented as **pressure and choice**, not fate.
 
 ────────────────────────────────────────────────────────────
-XI. LLM INTERACTION SAFETY CONSTRAINTS
+XII. VERSIONING & ENFORCEMENT
 ────────────────────────────────────────────────────────────
-When used by an LLM:
-• No new facts may be added
-• No new primary quotes may be invented
-• Comparisons must be declared or hypothetical
-• All uncertainty must be preserved
-
-If information is insufficient, the LLM must offer:
-• To explore another MEM
-• Or to generate a new MEM file
-
-────────────────────────────────────────────────────────────
-XII. GAME & ENGINE COMPATIBILITY
-────────────────────────────────────────────────────────────
-All MEM files MUST:
-• Bias option generation
-• Encode remembered failure
-• Encode latent risk
-• Encode temptation
-
-MEM files never generate actions.
-They constrain and shape choice spaces.
-
-────────────────────────────────────────────────────────────
-XIII. VERSIONING & ENFORCEMENT
-────────────────────────────────────────────────────────────
-• Upgrades are additive only
-• Deletions forbidden
-• Lock status must be respected
+• All upgrades must be additive unless specified
+• Deletions are prohibited
+• Canonical lock is absolute
 
 Non-compliant MEM files:
-• May not be cited by CIV–CORE
-• May not influence CIV–GAME
-• May not seed LLM lessons
+• May not be cited
+• May not shape CIV–CORE
+• May not be used for instruction
 
 ────────────────────────────────────────────────────────────
-XIV. CANONICAL LOCK
+XIII. CANONICAL LOCK
 ────────────────────────────────────────────────────────────
 This template is LOCKED.
 
-• All future MEM files must comply
-• Exceptions require explicit override
-• Enforcement is automatic
+All future MEM files MUST comply.
 
-Supersedes:
-• CIV–MEM–TEMPLATE v1.0
+Exceptions require explicit override logged in CIV–MEM–CORE.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–MEM–TEMPLATE v1.1
