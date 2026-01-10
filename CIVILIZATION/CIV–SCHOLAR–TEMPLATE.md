@@ -1,10 +1,10 @@
-CIV–SCHOLAR–TEMPLATE — v1.2
+CIV–SCHOLAR–TEMPLATE — v1.3
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.1
-Upgrade Type: ADDITIVE · GOVERNANCE-BINDING
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.2
+Upgrade Type: ADDITIVE · GOVERNANCE CLARIFICATION · AUDIT & HEURISTIC FORMALIZATION
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -14,24 +14,26 @@ Lock Level: TOTAL (no autonomous learning)
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.2)
+UPGRADE NOTE (v1.3)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, and authority
-constraints from v1.1.
+constraints from v1.2.
 
-v1.2 introduces ADDITIVE clarification only:
-• Explicit constitutional binding to CIV–SCHOLAR–GOVERNANCE–LAW
-• Formalization of additivity, immutability, and section integrity
-• Prevention of historical erasure or retroactive correction
+v1.3 introduces ADDITIVE clarification only:
+• Formal recognition of Heuristic Rules as non-doctrinal artifacts
+• Formal recognition of Compliance Audit Events
+• Explicit guardrails for dyadic vs triadic synthesis
+• Clarification of extended SDI structural comparisons
 
 No Scholar authority is expanded.
+No synthesis powers are added.
+No doctrine rules are altered.
 No CIV–CORE boundary is weakened.
-No synthesis or doctrine rules are modified.
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–[CIVILIZATION] is the **accumulative learning ledger** of a
+CIV–SCHOLAR–[CIVILIZATION] is the accumulative learning ledger of a
 civilization.
 
 It is not a strategist.
@@ -63,14 +65,13 @@ Assumed Priors: NONE
 Civilizational Grammar: NOT PRELOADED
 CIV–CORE Influence: DISABLED
 
-The Scholar learns **only** from MEM files explicitly ingested.
+The Scholar learns only from MEM files explicitly ingested.
 Absence of ingestion equals absence of belief.
 
 ────────────────────────────────────────────────────────────
 III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 ────────────────────────────────────────────────────────────
-This section records **all learning inputs** in strict chronological
-order.
+This section records all learning inputs in strict chronological order.
 
 Each ENTRY must include:
 
@@ -96,7 +97,7 @@ Rules:
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
-This section records **explicit syntheses** between prior entries.
+This section records explicit syntheses between prior entries.
 
 Each SYNTHESIS must include:
 
@@ -116,7 +117,7 @@ Rules:
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
-This section records **frozen civilizational doctrines**.
+This section records frozen civilizational doctrines.
 
 Each DOCTRINE must include:
 
@@ -135,7 +136,7 @@ Rules:
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
-This section records **comparative divergence** with other civilizations.
+This section records comparative divergence with other civilizations.
 
 Each SDI ENTRY must include:
 
@@ -179,7 +180,7 @@ Awaiting Command: YES | NO
 ────────────────────────────────────────────────────────────
 IX. CONTROLLED SYNTHESIS PROTOCOL (OPTIONAL)
 ────────────────────────────────────────────────────────────
-This section records **explicitly authorized analytical pairings**
+This section records explicitly authorized analytical pairings
 between entries.
 
 Purpose:
@@ -207,7 +208,7 @@ Rules:
 ────────────────────────────────────────────────────────────
 X. CANDIDATE BELIEF STAGING (NON-BINDING)
 ────────────────────────────────────────────────────────────
-This section stages **potential beliefs** derived from Section IX.
+This section stages potential beliefs derived from Section IX.
 
 Each CANDIDATE must include:
 
@@ -229,8 +230,8 @@ Rules:
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE
 ────────────────────────────────────────────────────────────
-When ACTIVE, a CIV–SCHOLAR MAY influence **how MEM files are authored**
-without influencing **what MEM files assert**.
+When ACTIVE, a CIV–SCHOLAR MAY influence how MEM files are authored
+without influencing what MEM files assert.
 
 Permitted Scholar Influence:
 • Recommend improved primary-source usage
@@ -247,12 +248,12 @@ Explicit Limits:
 • Scholar may NOT insert beliefs into MEM files
 • Scholar may NOT assert doctrine or synthesis
 
-Scholar influence is **procedural and advisory only**.
+Scholar influence is procedural and advisory only.
 
 ────────────────────────────────────────────────────────────
 XII. MEM AUTHORING GUIDANCE CLAUSES (COMPATIBILITY)
 ────────────────────────────────────────────────────────────
-Civilizations MAY adopt **MEM Authoring Guidance Clauses** that shape
+Civilizations MAY adopt MEM Authoring Guidance Clauses that shape
 authoring discipline (sources, structure, cross-references, metadata).
 
 Constraints:
@@ -262,7 +263,7 @@ Constraints:
 • Clauses must not alter CIV–CORE supremacy
 • Clauses must not imply doctrine or synthesis
 
-The Scholar may assist in enforcing such clauses **procedurally only**.
+The Scholar may assist in enforcing such clauses procedurally only.
 
 ────────────────────────────────────────────────────────────
 XIII. TEMPLATE INHERITANCE & CONSTRAINTS
@@ -298,7 +299,7 @@ Future versions:
 • May NOT introduce civilization-specific content
 
 Derived files must note:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.2”
+“Derived from CIV–SCHOLAR–TEMPLATE v1.3”
 
 ────────────────────────────────────────────────────────────
 XV. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
@@ -327,5 +328,121 @@ Derived files MUST include, verbatim, the following declaration:
 “Governed by CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher).”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.2
+XVI. HEURISTIC RULE REGISTRY (NON-DOCTRINAL)
+────────────────────────────────────────────────────────────
+This section records permanent analytical heuristics derived from
+counterfactuals, alternative-history stress tests, or comparative
+failure-mode analysis.
+
+Heuristics are:
+• NOT beliefs
+• NOT syntheses
+• NOT doctrines
+• NOT predictive rules
+
+Each HEURISTIC ENTRY must include:
+
+HEURISTIC ####
+Derived From:
+• Counterfactual / Stress Test / Comparative Analysis
+
+Heuristic Statement:
+• Procedural pattern or warning
+
+Scope:
+• ANALYTICAL ONLY
+
+Rules:
+• Heuristics may be permanent
+• Heuristics may guide analysis prospectively
+• Heuristics may NOT propagate into Sections III–V
+• Heuristics may NOT alter doctrine
+• Heuristics may NOT be cited as belief
+
+Heuristics encode risk awareness, not truth claims.
+
+────────────────────────────────────────────────────────────
+XVII. COMPLIANCE AUDIT EVENTS (FORMALIZED)
+────────────────────────────────────────────────────────────
+This section records retroactive or contemporaneous compliance audits
+against governance law, templates, or procedural constraints.
+
+Each AUDIT EVENT must include:
+
+AUDIT ####
+Target:
+• File / Template / Section / Version
+
+Audit Basis:
+• Governance law or template invoked
+
+Finding:
+• PASS | BORDERLINE | FAIL
+
+Notes:
+• Procedural observations only
+
+Rules:
+• Audits produce NO beliefs
+• Audits produce NO syntheses
+• Audits produce NO doctrines
+• Audits may be recorded even when Scholar is WRITE-LOCKED
+• Audits are non-mutating by definition
+
+Audits preserve system integrity without altering history.
+
+────────────────────────────────────────────────────────────
+XVIII. SYNTHESIS DEGREE CONSTRAINTS (CLARIFICATION)
+────────────────────────────────────────────────────────────
+The Scholar permits only the following synthesis degrees:
+
+• DYADIC — ENTRY A ↔ ENTRY B
+• TRIADIC — ENTRY A ↔ ENTRY B ↔ ENTRY C
+
+Triadic synthesis is permitted ONLY when:
+• All entries are independently ingested
+• No single entry dominates causal weight
+• Outcome describes interaction or contrast, not optimization
+• No prescriptive conclusion is drawn
+
+Forbidden:
+• Quadratic or higher synthesis
+• Weighted aggregation
+• Implicit synthesis
+
+This constraint is absolute.
+
+────────────────────────────────────────────────────────────
+XIX. SDI EXTENDED STRUCTURAL COMPARISONS (CLARIFICATION)
+────────────────────────────────────────────────────────────
+The SDI may record structural mode contrasts, including but not limited to:
+
+• Exit vs Absorption
+• Procedure vs Symbol
+• Replacement vs Integration
+• Constraint vs Sacralization
+
+Rules:
+• SDI records difference, not superiority
+• SDI may not rank civilizations
+• SDI may not generate belief or doctrine
+• SDI remains comparative metadata only
+
+────────────────────────────────────────────────────────────
+XX. TEMPLATE VERSIONING DECLARATION
+────────────────────────────────────────────────────────────
+This template is CANONICAL.
+
+Future versions:
+• May add sections only
+• May clarify language only
+• May not remove or reorder sections
+• May not alter authority flow
+• May not introduce cognition or prediction
+
+Derived files MUST state:
+“Derived from CIV–SCHOLAR–TEMPLATE v1.3”
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–TEMPLATE v1.3
 ────────────────────────────────────────────────────────────
