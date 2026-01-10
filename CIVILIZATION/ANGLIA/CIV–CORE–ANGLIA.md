@@ -1,23 +1,25 @@
-CIV–CORE–ANGLIA — v1.5
+CIV–CORE–ANGLIA — v1.6
 Civilizational Strategy Codex · Civilization Core Engine
 Procedural–Maritime–Time-Conversion Edition
 (Feasibility–Liquidity–Exit Augmentation)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Compatibility: CIV / MEM Architecture
-Supersedes: CIV–CORE–ANGLIA — v1.4
+Supersedes: CIV–CORE–ANGLIA — v1.5
 Conceptual Lineage:
-SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 (preserved verbatim)
+SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 → v1.5 (preserved verbatim)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 ────────────────────────────────────────────────────────────
-NOTE ON VERSIONING (V1.5)
+NOTE ON VERSIONING (V1.6)
 ────────────────────────────────────────────────────────────
-• All content from v1.4 is preserved without deletion, truncation,
+• All content from v1.5 is preserved without deletion, truncation,
   renumbering, or semantic alteration.
-• v1.5 introduces ADDITIVE clauses only, explicitly marked [V1.5].
+• v1.6 introduces ADDITIVE governance interface clauses only.
 • No axioms, diagnostics, constraints, or verdict logic are weakened.
-• Illustrative material is NON-AUTHORITATIVE and pedagogical only.
+• Scholar-derived material is formally gated via DIB (Doctrine Intake Buffer).
+• Heuristics are registered as NON-DOCTRINAL unless explicitly bound.
+• Illustrative material remains NON-AUTHORITATIVE and pedagogical only.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -313,6 +315,11 @@ Additive Exit Mode [V1.4]:
 • Regulatory arbitrage migration
 • Standard fragmentation with retained interoperability
 
+[V1.6 — SCHOLAR REFERENCE (NON-AUTHORITATIVE)]
+• Scholar–Anglia Doctrine v0.5 (“Exit Superiority”) is recognized as
+  interpretive support only and carries no independent CORE authority
+  unless explicitly bound via DIB.
+
 ────────────────────────────────────────────────────────────
 XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
@@ -381,6 +388,9 @@ XVII. STRATEGIC RED LINES
 • External coercion replacing consent
 • Liquidity control ceded without replacement [V1.4]
 
+[V1.6 — ADDITIVE WARNING]
+• Continental absorption commitments without procedural exit design
+
 ────────────────────────────────────────────────────────────
 XVIII. SCHOLAR MODE
 ────────────────────────────────────────────────────────────
@@ -392,7 +402,44 @@ Enabled for:
 • Primary-source quotation & citation scoring
 
 ────────────────────────────────────────────────────────────
-XIX. SESSION HEADER (OPTIONAL)
+XIX. DOCTRINE INTAKE BUFFER (DIB) — ANGLIA
+(OPTIONAL · DISABLED BY DEFAULT)
+────────────────────────────────────────────────────────────
+
+Purpose:
+• To provide a formal interface between CIV–SCHOLAR outputs and CORE logic
+  without permitting silent doctrine propagation.
+
+Default State:
+• DISABLED
+• READ-ONLY
+
+Permitted States:
+• HOLD (default)
+• ACCEPT (explicit binding required)
+• REJECT (recorded, no effect)
+
+Registered Scholar References (NON-DOCTRINAL):
+
+• SCHOLAR–ANGLIA DOCTRINE v0.5 — “EXIT SUPERIORITY”
+  Status: HOLD
+  Effect: NONE (interpretive reference only)
+
+• HEURISTIC A–HYW–01 (Hundred Years’ War Exit Rule)
+  Status: HOLD
+  Effect: ANALYTICAL ONLY
+
+• HEURISTIC CAR–01 (Continental Absorption Risk)
+  Status: HOLD
+  Effect: ANALYTICAL ONLY
+
+Rules:
+• No DIB entry alters verdict weighting unless explicitly ACCEPTED.
+• Acceptance requires a new CORE version.
+• Heuristics never self-bind.
+
+────────────────────────────────────────────────────────────
+XX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 
 Active Civ: ANGLIA
@@ -403,7 +450,7 @@ Failure: __ | TimeAdv: __
 GRID-A: __ | RIR-A: __
 
 ────────────────────────────────────────────────────────────
-XX. MANDATORY VERDICT BLOCK
+XXI. MANDATORY VERDICT BLOCK
 ────────────────────────────────────────────────────────────
 
 • PTI: HIGH / MED / LOW
@@ -428,5 +475,5 @@ SYSTEMIC STRESS /
 NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ANGLIA v1.5
+END OF FILE — CIV–CORE–ANGLIA v1.6
 ────────────────────────────────────────────────────────────
