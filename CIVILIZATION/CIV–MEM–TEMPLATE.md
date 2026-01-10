@@ -1,31 +1,36 @@
-CIV–MEM–TEMPLATE — v1.5
+CIV–MEM–TEMPLATE — v1.6
 Civilizational Memory Codex · Memory File Enforcement Template
-Canonical Standards · Source–Causality–Connectivity · Mandatory Ingest Bootstrap Edition
+Canonical Standards · Source–Causality–Connectivity · Scholar Authorization Gate Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v1.3
-Upgrade Type: ADDITIVE · INGEST LAW HARDENING · FAILURE MODE SPECIFICATION
+Supersedes: CIV–MEM–TEMPLATE v1.5
+Upgrade Type: ADDITIVE · SCHOLAR AUTHORIZATION GATE · GOVERNANCE HARDENING
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v1.6+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
 Last Update: January 2026
-Wordcount: ~3,050
+Wordcount: ~3,250
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This file defines the **mandatory structure, evidentiary standards,
-scholarly constraints, behavioral rules, and ingest behavior** for all
+This file defines the mandatory structure, evidentiary standards,
+scholarly constraints, behavioral rules, and ingest behavior for all
 MEM (Civilizational Memory) files within the Civilizational Memory Codex.
 
 Core principle:
-A MEM file must function as a *self-contained historical intelligence
-object*—capable of activating structured inquiry even when ingested
+A MEM file must function as a self-contained historical intelligence
+object—capable of activating structured inquiry even when ingested
 alone into a new conversation.
 
 v1.5 clarification:
 The ingest bootstrap is not a UI convenience.
-It is a **jurisdictional transfer mechanism** that temporarily substitutes
+It is a jurisdictional transfer mechanism that temporarily substitutes
 for CIV–MEM–CORE when CORE is absent.
+
+v1.6 clarification:
+MEM authoring is a jurisdictional act. A MEM file may be created only
+under an active and unlocked CIV–SCHOLAR authority for the relevant
+civilization. This template enforces that gate.
 
 This template enforces:
 • Historical rigor
@@ -36,13 +41,14 @@ This template enforces:
 • Mandatory MEM ingest behavior
 • Non-teleological interpretation
 • Student-directed analytical unfolding
+• Scholar authorization for MEM creation (NEW IN v1.6)
 
 Authority Flow (NON-REVERSIBLE):
 CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
 
 A MEM file is both:
 • A historical memory artifact
-• A **high-friction analytical substrate**
+• A high-friction analytical substrate
 
 No MEM file is valid unless compliant with this template.
 
@@ -81,12 +87,12 @@ MANDATORY CLAUSE (verbatim, non-negotiable):
 
 “Contradictions are preserved without synthesis.”
 
-MEM files preserve **memory**, not doctrine, verdict, or optimization.
+MEM files preserve memory, not doctrine, verdict, or optimization.
 
 ────────────────────────────────────────────────────────────
 IV. STRUCTURAL CONTENT RULES (HARD)
 ────────────────────────────────────────────────────────────
-• Minimum **8 numbered analytical sections**
+• Minimum 8 numbered analytical sections
 • Sections must be analytical, not narrative
 • No speculative counterfactuals inside analysis sections
 • No moral adjudication
@@ -104,15 +110,15 @@ Forbidden:
 • Retrospective optimization
 • Presentist judgment
 
-History is treated as **pressure and choice**, not destiny.
+History is treated as pressure and choice, not destiny.
 
 ────────────────────────────────────────────────────────────
 V. PRIMARY SOURCE REQUIREMENTS (HARDENED)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include:
 
-• **At least THREE (3) primary-source quotations**
-• Each quotation MUST be **≥25 words**
+• At least THREE (3) primary-source quotations
+• Each quotation MUST be ≥25 words
 • Quotations MUST be embedded inside analytical sections
 • Quote-only sections are PROHIBITED
 
@@ -131,9 +137,9 @@ Each MEM file MUST demonstrate engagement with serious secondary
 scholarship.
 
 MANDATORY MINIMUM:
-• **At least FOUR (4) secondary-source engagements**
-• **At least THREE (3)** MUST come from the civilization’s
-  **Distinguished Scholar List**
+• At least FOUR (4) secondary-source engagements
+• At least THREE (3) MUST come from the civilization’s
+  Distinguished Scholar List
 
 Distinguished Scholars are:
 • Civilization-specific
@@ -168,8 +174,8 @@ VIII. MEM CONNECTION REQUIREMENTS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST explicitly reference:
 
-• **At least EIGHT (8) other MEM files**
-• **At least THREE (3) from OTHER civilizations**
+• At least EIGHT (8) other MEM files
+• At least THREE (3) from OTHER civilizations
 
 Each reference MUST explain:
 • Structural parallel
@@ -192,13 +198,13 @@ Rules:
 • No verdicts
 • No recommendations
 
-These are **memory fragments**, not conclusions.
+These are memory fragments, not conclusions.
 
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST be capable of unfolding into a
-**student-directed exploration**.
+student-directed exploration.
 
 Rules:
 • NO quizzes
@@ -211,8 +217,8 @@ Curiosity replaces assessment.
 ────────────────────────────────────────────────────────────
 XI. MEM INGEST BOOTSTRAP (MANDATORY · HARDENED)
 ────────────────────────────────────────────────────────────
-This section governs **automatic behavior** when a MEM file is ingested
-into a new conversation—**even if it is the only file present**.
+This section governs automatic behavior when a MEM file is ingested
+into a new conversation—even if it is the only file present.
 
 Absence INVALIDATES the MEM.
 
@@ -242,7 +248,7 @@ This substitutes for CORE activation.
 ────────────────────────────
 XI.c MANDATORY EIGHT-OPTION EXPLORATION SET
 ────────────────────────────
-Exactly **EIGHT (8)** options MUST be presented:
+Exactly EIGHT (8) options MUST be presented:
 
 1–2. Primary Source Paths
    • Each tied to a specific primary source in the MEM
@@ -292,6 +298,32 @@ The LLM MUST:
 
 Silent failure is PROHIBITED.
 
+────────────────────────────
+XI.g SCHOLAR AUTHORIZATION GATE (NEW IN v1.6)
+────────────────────────────
+MEM creation is permitted ONLY when the corresponding
+CIV–SCHOLAR–[CIVILIZATION] file is UNLOCKED.
+
+This gate applies to:
+• New MEM authoring
+• Canonical MEM upgrade authoring that adds new claims
+• Initial connection declaration for new MEMs
+
+The system MUST verify prior to authoring:
+• Presence of CIV–SCHOLAR–[CIVILIZATION]
+• Status: UNLOCKED
+• Governance compatibility with CIV–MEM–CORE
+
+If the Scholar is LOCKED or absent:
+• MEM authoring MUST be refused
+• The system MUST instruct to unlock the relevant Scholar
+• No draft may be canonized
+• If a MEM is ingested that was authored without an unlocked Scholar,
+  the system MUST treat that as a compliance failure and default to
+  Option 8 (Compliance & Integrity Audit)
+
+Silent bypass is PROHIBITED.
+
 ────────────────────────────────────────────────────────────
 XII. GAME & ENGINE COMPATIBILITY
 ────────────────────────────────────────────────────────────
@@ -338,5 +370,5 @@ All future MEM files MUST comply.
 Exceptions require explicit override logged in CIV–MEM–CORE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v1.5
+END OF FILE — CIV–MEM–TEMPLATE v1.6
 ────────────────────────────────────────────────────────────
