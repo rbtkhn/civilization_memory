@@ -1,46 +1,56 @@
-CIV–MEM–TEMPLATE — v1.3
+CIV–MEM–TEMPLATE — v1.5
 Civilizational Memory Codex · Memory File Enforcement Template
-Canonical Standards · Source–Causality–Connectivity · Ingest-Safe Edition
+Canonical Standards · Source–Causality–Connectivity · Mandatory Ingest Bootstrap Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v1.2
-Upgrade Type: ADDITIVE · INGEST BOOTSTRAP MANDATE
+Supersedes: CIV–MEM–TEMPLATE v1.3
+Upgrade Type: ADDITIVE · INGEST LAW HARDENING · FAILURE MODE SPECIFICATION
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v1.6+ · CIV–MEM–INGEST–LAW · All CIV–CORE Engines · CIV–SCHOLAR · CIV–GAME
+Compatibility: CIV–MEM–CORE v1.6+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
 Last Update: January 2026
-Wordcount: ~2,550
+Wordcount: ~3,050
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
 This file defines the **mandatory structure, evidentiary standards,
-scholarly constraints, pedagogical affordances, and ingest guarantees**
-for all MEM (Civilizational Memory) files.
+scholarly constraints, behavioral rules, and ingest behavior** for all
+MEM (Civilizational Memory) files within the Civilizational Memory Codex.
 
-It enforces:
-• Historical rigor
-• Primary-source anchoring
-• Distinguished secondary scholarship engagement
-• Cross-civilizational connectivity
-• Engine and game compatibility
-• Non-teleological interpretation
-• Curiosity-led instructional unfolding
-• **Fail-safe ingestion when MEM is loaded alone**
+**Core principle:**  
+A MEM file must function as a *self-contained historical intelligence
+object*—capable of activating structured inquiry even when ingested
+alone into a new conversation.
+
+**v1.5 clarification:**  
+The ingest bootstrap is not a UI convenience.  
+It is a **jurisdictional transfer mechanism** that temporarily substitutes
+for CIV–MEM–CORE when CORE is absent.
+
+This template enforces:
+• Historical rigor  
+• Primary-source anchoring  
+• Distinguished secondary scholarship engagement  
+• Cross-civilizational connectivity  
+• Engine and game compatibility  
+• Mandatory MEM ingest behavior  
+• Non-teleological interpretation  
+• Student-directed analytical unfolding  
 
 Authority Flow (NON-REVERSIBLE):
-CIV–MEM–CORE → CIV–MEM–INGEST–LAW → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
 
 A MEM file is both:
-• A historical memory artifact
-• A high-friction analytical substrate
-• **A self-bootstrapping ingest trigger**
+• A historical memory artifact  
+• A **high-friction analytical substrate**
 
 No MEM file is valid unless compliant with this template.
 
 ────────────────────────────────────────────────────────────
 II. FILE IDENTITY & METADATA (MANDATORY)
 ────────────────────────────────────────────────────────────
-Every MEM file MUST begin with:
+Every MEM file MUST begin with the following metadata block,
+in this order, with no omissions:
 
 • Filename (canonical)
 • Repository reference
@@ -50,73 +60,35 @@ Every MEM file MUST begin with:
 • Civilization
 • Regime / Mode (if applicable)
 • Subject
-• Dates (BC / AD only)
+• Dates (BC / AD only; no BCE / CE)
 • Class: MEM (Memory)
 • Last Update
 • Wordcount (≥600 mandatory; ≥1,200 recommended)
 
-Omission of any field INVALIDATES the file.
+Omission or mis-ordering INVALIDATES the MEM.
 
 ────────────────────────────────────────────────────────────
-III. **MEM INGEST BOOTSTRAP BLOCK (MANDATORY — NEW)**
-────────────────────────────────────────────────────────────
-To guarantee correct behavior when a MEM file is the **only artifact
-uploaded into a conversation**, every MEM file MUST include the
-following block **verbatim**, placed:
-
-→ **Immediately after metadata**
-→ **Before Section I**
-
-────────────────────────
-MEM INGEST BOOTSTRAP
-────────────────────────
-INGEST MODE: ACTIVE  
-INGEST AUTHORITY: CIV–MEM–INGEST–LAW  
-INGEST PRIORITY: FIRST-LOAD  
-INGEST BEHAVIOR:
-• Initialize MEM-only ingest
-• Freeze interpretation until user selection
-• Present structured option interface
-• Preserve user agency
-• Prohibit auto-analysis
-
-ON LOAD, THE SYSTEM MUST:
-1. Acknowledge MEM ingestion
-2. Declare ingest-complete state
-3. Present EIGHT (8) user options:
-   A–B: Primary source–driven exploration
-   C–D: Secondary scholarship–driven exploration
-   E: Comparative or cross-civilizational link
-   F: Future-oriented projection or implication
-   G: Alternative history / counterfactual
-   H: Compliance audit against latest CIV–MEM–TEMPLATE
-4. Await explicit user selection before proceeding
-
-NO SYNTHESIS. NO ANALYSIS. NO AUTO-PROGRESSION.
-────────────────────────
-
-Absence, alteration, or relocation of this block INVALIDATES the MEM.
-
-────────────────────────────────────────────────────────────
-IV. MEMORY PURPOSE & SCOPE (REQUIRED)
+III. MEMORY PURPOSE & SCOPE (REQUIRED)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST explicitly state:
+
 • What is being preserved
 • Why it matters civilizationally
 • What function it serves in memory
 • What it explicitly does NOT resolve
 
-MANDATORY CLAUSE (verbatim):
+MANDATORY CLAUSE (verbatim, non-negotiable):
+
 “Contradictions are preserved without synthesis.”
 
-MEM files preserve memory, not doctrine or verdict.
+MEM files preserve **memory**, not doctrine, verdict, or optimization.
 
 ────────────────────────────────────────────────────────────
-V. STRUCTURAL CONTENT RULES (HARD)
+IV. STRUCTURAL CONTENT RULES (HARD)
 ────────────────────────────────────────────────────────────
-• Minimum 8 numbered analytical sections
+• Minimum **8 numbered analytical sections**
 • Sections must be analytical, not narrative
-• No speculative counterfactuals in analysis sections
+• No speculative counterfactuals inside analysis sections
 • No moral adjudication
 • No retrospective inevitability
 
@@ -132,50 +104,87 @@ Forbidden:
 • Retrospective optimization
 • Presentist judgment
 
+History is treated as **pressure and choice**, not destiny.
+
 ────────────────────────────────────────────────────────────
-VI. PRIMARY SOURCE REQUIREMENTS (HARDENED)
+V. PRIMARY SOURCE REQUIREMENTS (HARDENED)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include:
-• At least THREE (3) primary-source quotations
-• Each quotation ≥25 words
-• Embedded within analytical sections
-• Attributed (author + work + date where possible)
 
-Quotes MUST support analysis.
-Quote dumping INVALIDATES the MEM.
+• **At least THREE (3) primary-source quotations**
+• Each quotation MUST be **≥25 words**
+• Quotations MUST be embedded inside analytical sections
+• Quote-only sections are PROHIBITED
+
+Primary quotations MUST:
+• Be attributed (author + work + date where possible)
+• Directly support a specific analytical claim
+• Span different analytical dimensions where feasible
+  (political / legal / strategic / institutional / moral)
+
+Failure INVALIDATES the MEM.
 
 ────────────────────────────────────────────────────────────
-VII. SECONDARY SOURCE RULE — DISTINGUISHED SCHOLAR REQUIREMENT
+VI. SECONDARY SOURCE RULE — DISTINGUISHED SCHOLAR REQUIREMENT
 ────────────────────────────────────────────────────────────
-Each MEM file MUST include:
-• At least FOUR (4) secondary-source engagements
-• At least THREE (3) from the civilization’s Distinguished Scholar list
-• Integrated into analysis (no lumped sections)
+Each MEM file MUST demonstrate engagement with serious secondary
+scholarship.
 
-Silence is forbidden.
+MANDATORY MINIMUM:
+• **At least FOUR (4) secondary-source engagements**
+• **At least THREE (3)** MUST come from the civilization’s
+  **Distinguished Scholar List**
+
+Distinguished Scholars are:
+• Civilization-specific
+• Declared at CORE level
+• Curated for depth and historiographical weight
+
+Secondary sources MUST be:
+• Integrated into analytical sections
+• Explicitly attributed
+• Engaged (used, framed, or contested)
+
+Citation without engagement is INVALID.
+
+────────────────────────────────────────────────────────────
+VII. SECONDARY SOURCE ENGAGEMENT STANDARDS
+────────────────────────────────────────────────────────────
+Secondary sources MAY:
+• Frame interpretation
+• Expose historiographical tension
+• Challenge narrative convenience
+
+Secondary sources MAY NOT:
+• Override primary sources
+• Introduce teleology
+• Substitute authority for evidence
+
 Disagreement is permitted.
-Citation without engagement INVALIDATES the MEM.
+Silence is forbidden.
 
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTION REQUIREMENTS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST reference:
-• At least EIGHT (8) other MEM files
-• At least THREE (3) from OTHER civilizations
+Each MEM file MUST explicitly reference:
+
+• **At least EIGHT (8) other MEM files**
+• **At least THREE (3) from OTHER civilizations**
 
 Each reference MUST explain:
-• Parallel
+• Structural parallel
 • Contrast
 • Inheritance
 • Or causal tension
 
-Bare lists INVALIDATE the MEM.
+Bare lists are PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW) (REQUIRED)
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST include:
-Section title: “CONTINUITY INSIGHTS (RAW)”
+Each MEM file MUST include a section titled exactly:
+
+“CONTINUITY INSIGHTS (RAW)”
 
 Rules:
 • Bullet points only
@@ -183,52 +192,144 @@ Rules:
 • No verdicts
 • No recommendations
 
+These are **memory fragments**, not conclusions.
+
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
 ────────────────────────────────────────────────────────────
-MEM files MUST support curiosity-led exploration:
-• No quizzes
-• No right/wrong framing
-• No recall testing
-• Student choice governs progression
+Each MEM file MUST be capable of unfolding into a
+**student-directed exploration**.
+
+Rules:
+• NO quizzes
+• NO right/wrong framing
+• NO recall testing
+• NO scoring
+
+Curiosity replaces assessment.
 
 ────────────────────────────────────────────────────────────
-XI. GAME & ENGINE COMPATIBILITY
+XI. MEM INGEST BOOTSTRAP (MANDATORY · HARDENED)
+────────────────────────────────────────────────────────────
+This section governs **automatic behavior** when a MEM file is ingested
+into a new conversation—**even if it is the only file present**.
+
+Absence INVALIDATES the MEM.
+
+────────────────────────────
+XI.a INGEST TRIGGER CONDITION
+────────────────────────────
+When a MEM file is:
+• The first structured artifact in a conversation, OR
+• Loaded without CIV–MEM–CORE present,
+
+the LLM MUST:
+• Acknowledge ingest
+• Declare the MEM active
+• Present exploration options BEFORE analysis
+
+────────────────────────────
+XI.b INGEST STATUS HANDSHAKE
+────────────────────────────
+The LLM MUST issue:
+
+“MEM INGEST CONFIRMED — [FILENAME]  
+Status: ACTIVE  
+Exploration options available.”
+
+This substitutes for CORE activation.
+
+────────────────────────────
+XI.c MANDATORY EIGHT-OPTION EXPLORATION SET
+────────────────────────────
+Exactly **EIGHT (8)** options MUST be presented:
+
+1–2. **Primary Source Paths**  
+ • Each tied to a specific primary source in the MEM
+
+3–4. **Secondary Scholarship Paths**  
+ • Each tied to a Distinguished Scholar engaged in the MEM
+
+5–6. **Analytical Extension Paths**  
+ • Chosen by the LLM
+ • Must activate additional MEM connections or structures
+
+7. **Alternative History / Counterfactual**  
+ • Explicitly labeled
+ • Plausible divergence only
+
+8. **Compliance & Integrity Audit**  
+ • Tests against the current CIV–MEM–TEMPLATE version
+
+────────────────────────────
+XI.d FUTURE-ORIENTED OPTION (MANDATORY)
+────────────────────────────
+At least ONE option (may overlap with 5–7) MUST:
+• Ask for a **future-oriented implication or prediction**
+• Tie historical structure to possible future behavior
+• Avoid prophecy or inevitability language
+
+────────────────────────────
+XI.e STUDENT AGENCY RULE
+────────────────────────────
+• User selects ONE option by letter
+• LLM responds ONLY to that option
+• No collapsing or pre-answering
+• After completion, a new option set MAY be offered
+
+────────────────────────────
+XI.f FAILURE MODE ENFORCEMENT (NEW IN v1.5)
+────────────────────────────
+If a MEM file lacks:
+• Required sources
+• Required connections
+• Ingest bootstrap behavior
+
+The LLM MUST:
+• Refuse canonical activation
+• Offer Option 8 (Compliance Audit) by default
+• Explicitly state the failure condition
+
+Silent failure is PROHIBITED.
+
+────────────────────────────────────────────────────────────
+XII. GAME & ENGINE COMPATIBILITY
 ────────────────────────────────────────────────────────────
 MEM files:
 • Do NOT generate actions
 • DO shape available paths
-• DO encode constraints, temptations, and warnings
+• DO encode constraints, warnings, and temptations
 
 ────────────────────────────────────────────────────────────
-XII. LANGUAGE & TONAL CONSTRAINTS
+XIII. LANGUAGE & TONAL CONSTRAINTS
 ────────────────────────────────────────────────────────────
-Tone:
+Required tone:
 • Analytical
 • Restrained
 • Civilizational
 • Educationally neutral
 
-Forbidden language:
-• “inevitable”
-• “obvious”
-• “destined”
-• “had to”
+Forbidden terms:
+• inevitable
+• obvious
+• destined
+• had to
+• failure because
 
 ────────────────────────────────────────────────────────────
-XIII. VERSIONING & ENFORCEMENT
+XIV. VERSIONING & ENFORCEMENT
 ────────────────────────────────────────────────────────────
-• Upgrades must be ADDITIVE
-• Deletions are PROHIBITED
-• Canonical lock is ABSOLUTE
+• All upgrades must be ADDITIVE
+• Deletions prohibited
+• Canonical lock absolute
 
 Non-compliant MEM files:
-• May not be cited
 • May not shape CIV–CORE
+• May not trigger ingest bootstrap
 • May not be used for instruction or gameplay
 
 ────────────────────────────────────────────────────────────
-XIV. CANONICAL LOCK
+XV. CANONICAL LOCK
 ────────────────────────────────────────────────────────────
 This template is LOCKED.
 
@@ -237,5 +338,5 @@ All future MEM files MUST comply.
 Exceptions require explicit override logged in CIV–MEM–CORE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v1.3
+END OF FILE — CIV–MEM–TEMPLATE v1.5
 ────────────────────────────────────────────────────────────
