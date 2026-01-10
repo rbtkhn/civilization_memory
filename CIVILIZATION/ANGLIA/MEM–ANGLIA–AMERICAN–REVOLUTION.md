@@ -1,16 +1,16 @@
-MEM–ANGLIA–AMERICAN–REVOLUTION — v1.4
+MEM–ANGLIA–AMERICAN–REVOLUTION — v1.5
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule — ANGLIA)
+Version: 1.5
+Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
 Civilization: ANGLIA
 Subject: The American Revolution (Procedural Secession, Institutional Continuity, and Imperial Exit Shock)
 Dates: 1765–1783 AD (foundational phase)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,250
+Wordcount: ~3,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -278,5 +278,80 @@ This file is CANONICAL and compliant with:
 • Pedagogical affordance requirements
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–AMERICAN–REVOLUTION — v1.4
+XIV. MEM INGEST BOOTSTRAP — TEMPLATE v1.5 COMPLIANCE (NEW)
+────────────────────────────────────────────────────────────
+This section governs automatic behavior when this MEM file is ingested
+into a new conversation **as the sole structured artifact**.
+
+────────────────────────────
+XIV.a INGEST STATUS HANDSHAKE
+────────────────────────────
+Upon ingest, the system MUST declare:
+
+“MEM INGEST CONFIRMED — MEM–ANGLIA–AMERICAN–REVOLUTION  
+Status: ACTIVE  
+Template: CIV–MEM–TEMPLATE v1.5  
+Exploration options available.”
+
+────────────────────────────
+XIV.b MANDATORY EIGHT-OPTION EXPLORATION SET
+────────────────────────────
+The system MUST present exactly eight options:
+
+A. **Primary Source Focus — Olive Branch Petition (1775)**  
+   Explore what procedural loyalty language reveals about secession as a
+   constitutional dispute rather than an immediate civilizational break.
+
+B. **Primary Source Focus — Treaty of Paris (1783)**  
+   Examine sovereignty transfer as a procedural exit codified by text,
+   and what that implies for Anglia’s later imperial retreats.
+
+C. **Secondary Scholar Path — Quigley (Institutional Portability)**  
+   Use Quigley’s lens to test why secession was survivable when courts,
+   assemblies, and legal grammar were already fully present.
+
+D. **Secondary Scholar Path — Kissinger (Recognition Logic)**  
+   Evaluate the Declaration as a legitimacy bid aimed at international
+   recognition and alliance formation, not merely domestic philosophy.
+
+E. **Structural Analysis Extension — Procedure vs. Universalism**  
+   Trace where universalist language stabilizes coalition-building and
+   where it later destabilizes internal order once war ends.
+
+F. **Cross-Civilizational Comparison — Francia’s Reset vs. Anglia’s Repair**  
+   Compare continuity-first secession with Francia’s reset-first
+   revolution, focusing on institutional discontinuity risk.
+
+G. **Alternative History / Counterfactual**  
+   What if the Olive Branch Petition had succeeded—does Anglia evolve
+   toward a federated procedural empire instead of secession?
+
+H. **Compliance & Integrity Audit**  
+   Test this MEM file against CIV–MEM–TEMPLATE v1.5 requirements.
+
+────────────────────────────
+XIV.c FUTURE-ORIENTED EXPLORATION (MANDATORY)
+────────────────────────────
+At least one path (E, F, or G) MUST allow examination of how procedural
+secession logic may recur in future imperial exits, alliance shifts, or
+internal constitutional disputes without assuming inevitability.
+
+────────────────────────────
+XIV.d STUDENT AGENCY RULE
+────────────────────────────
+• User selects ONE option by letter.
+• The system responds ONLY to that option.
+• No synthesis or preview of other paths.
+• After completion, a new option set MAY be offered.
+
+────────────────────────────────────────────────────────────
+XV. VERSION NOTE (v1.5)
+────────────────────────────────────────────────────────────
+v1.5 is additive only.
+It preserves all prior analytical content and adds a mandatory ingest
+bootstrap section to guarantee MEM-only operation and structured
+exploration options.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–AMERICAN–REVOLUTION — v1.5
 ────────────────────────────────────────────────────────────
