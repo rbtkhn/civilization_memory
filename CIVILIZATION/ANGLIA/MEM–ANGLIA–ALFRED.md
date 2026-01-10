@@ -1,194 +1,210 @@
-MEM–ANGLIA–ALFRED — v1.2
+MEM–ANGLIA–ALFRED — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE (Distinguished Scholar Compliance · Historiography Layer)
+Version: 1.1
+Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
 Dates: 849–899 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Wordcount: ~2,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Alfred of Wessex as **Anglia’s survival sovereign**:
-the ruler who prevented civilizational extinction under sustained
-external invasion and encoded continuity through law, learning, and
-defensive organization.
+the ruler who prevented civilizational extinction under external
+invasion and re-encoded continuity through law, learning, and defensive
+organization.
 
-This file does not present Alfred as a conqueror, reformer, or imperial
-founder. It preserves him as a **custodian of survival**, whose primary
-achievement was preventing collapse long enough for later institutional
-accumulation.
+Alfred does not found Anglia’s dominance.
+He prevents its erasure.
+
+This file records survival logic under collapse conditions.
+It does not present Alfred as an imperial founder or institutional
+endpoint.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. EXISTENTIAL CONDITIONS OF GOVERNANCE
+II. EXISTENTIAL CONDITIONS (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Alfred governs under near-terminal conditions:
+Alfred governs during near-collapse.
 
-• Viking military dominance across England
-• Collapse or subjugation of multiple Anglo-Saxon kingdoms
-• Breakdown of ecclesiastical, legal, and educational continuity
-• Severe loss of cultural memory infrastructure
+Conditions include:
+• Viking military superiority across much of England
+• Destruction of monasteries and learning centers
+• Collapse of multiple Anglo-Saxon kingdoms
+• Severe contraction of legal and cultural memory
 
-Winston Churchill frames Alfred not as a heroic anomaly but as a
-*hinge of survival*—a ruler whose greatness lay in “holding the line
-until history could resume.” Churchill’s emphasis is not on conquest,
-but on delay and endurance as civilizational acts.
+The *Anglo-Saxon Chronicle* records the severity without embellishment:
 
-> “In the same year came a great fleet into the Thames, and took
-> winter-quarters at Fulham… and there was no small terror through all
-> England.”
-> — *Anglo-Saxon Chronicle*, 878 AD
+> “And in this year the raiding-army went from Repton, and there was no
+> king in all the land of the West Saxons save Alfred; and the heathen
+> held the greater part of the kingdom, and many of the people submitted
+> to them for fear.”
+> — *Anglo-Saxon Chronicle*, entry for 878 AD
 
-Survival precedes sovereignty.
-
-────────────────────────────────────────────────────────────
-III. DEFENSE AS SYSTEM, NOT EPISODE
-────────────────────────────────────────────────────────────
-Alfred converts episodic resistance into durable structure.
-
-John Keegan’s analysis of early English warfare emphasizes that Alfred’s
-true innovation was not battlefield brilliance but **organizational
-adaptation**: fortified depth, local responsibility, and denial of
-enemy mobility rather than decisive annihilation.
-
-This includes:
-• Strategic retreat followed by coordinated counteroffensive
-• Construction of fortified burhs across Wessex
-• Defense-in-depth through local garrisons
-• Early naval experimentation to contest Viking movement
-
-> “He ordered the towns to be rebuilt… and appointed men to guard them,
-> so that the enemy might not easily break in.”
-> — Asser, *Life of King Alfred*
-
-Defense becomes institutional memory.
+Winston Churchill frames this period as one in which England survives
+not by victory, but by **refusal to disappear**, noting that Alfred’s
+greatness lies in preservation under annihilating pressure rather than
+expansion.
 
 ────────────────────────────────────────────────────────────
-IV. LAW AS CIVILIZATIONAL MEMORY PRESERVATION
+III. DEFENSE AS SYSTEM, NOT EPISODE (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Alfred treats law as **memory storage**, not innovation.
+Alfred converts resistance into structure.
 
-Will Durant places Alfred within a longer Anglian tradition in which
-law functions as *continuity under stress*: the codification of inherited
-norms precisely when custom risks erasure.
+Actions include:
+• Strategic retreat followed by counteroffensive
+• Construction of fortified burhs
+• Establishment of rotational defense obligations
+• Early naval experimentation
 
-Alfred explicitly situates his authority within precedent:
+As Alfred himself explains in correspondence attributed to his reign:
 
-> “I, Alfred, king, have gathered together these laws… which our
-> forefathers held… those which I approved I ordered to be written.”
-> — Preface to Alfred’s Law Code
+> “I desired to live worthily while I lived, and after my life to leave
+> to those who come after me my memory in good works; for we have lost
+> both the wealth and the wisdom of former times.”
+> — Alfred, Preface to the *Pastoral Care* (translation tradition)
 
-Law constrains sovereignty while preserving identity.
-
-────────────────────────────────────────────────────────────
-V. LEARNING AS STRATEGIC INFRASTRUCTURE
-────────────────────────────────────────────────────────────
-Alfred frames learning as a **defensive asset**, not cultural ornament.
-
-Niall Ferguson’s work on institutional persistence emphasizes literacy
-and translation as *force multipliers of continuity*: civilizations that
-translate survive longer than those that merely conquer.
-
-Alfred’s own diagnosis is explicit:
-
-> “So clean was learning fallen away in England that very few were there
-> on this side of the Humber who could understand their services in
-> English…”
-> — Alfred, Preface to Gregory’s *Pastoral Care*
-
-Memory becomes survivability infrastructure.
+John Keegan emphasizes that Alfred’s innovation lies not in decisive
+battle, but in **making defense repeatable**, transforming survival into
+a standing condition rather than a singular event.
 
 ────────────────────────────────────────────────────────────
-VI. KINGSHIP AS STEWARDSHIP, NOT DOMINION
+IV. LAW AS MEMORY PRESERVATION (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Alfred’s conception of kingship is custodial.
+Alfred treats law as civilizational storage.
 
-Andrew Roberts, contrasting Alfred with later imperial figures, notes
-that Alfred’s authority rests on **restraint under pressure** rather
-than expansion under opportunity.
+Initiatives include:
+• Compilation of earlier law codes
+• Integration of Christian moral authority
+• Reassertion of justice as legitimacy
+• Continuity with Anglo-Saxon custom
 
-> “He sought to live worthily while he lived, and after his life to
-> leave… a good memory.”
-> — Asser, *Life of King Alfred*
+Alfred states the logic explicitly:
 
-Kingship is framed as guardianship, not glory.
+> “I, Alfred, king, gathered these laws together, and commanded many of
+> those to be written which our forefathers observed; and those which I
+> liked not, I rejected by the counsel of my wise men.”
+> — Alfred, Law Code Prologue
+
+Will Durant situates Alfred as an early example of **law functioning as
+memory**, preserving identity when population, territory, and wealth
+are under threat.
 
 ────────────────────────────────────────────────────────────
-VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES
+V. LEARNING AS STRATEGIC ASSET (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Alfred’s reign produces durable outcomes:
+Cultural reconstruction is deliberate.
 
-• Survival of Anglo-Saxon institutional grammar
-• Law as continuity carrier across rupture
+Measures include:
+• Promotion of literacy among elites
+• Translation of foundational texts into English
+• Restoration of clerical learning
+• Framing education as defense
+
+Alfred articulates the crisis with clarity:
+
+> “So general was the decay of learning in England that there were very
+> few on this side of the Humber who could understand their rituals in
+> English, or translate a letter from Latin into English.”
+> — Alfred, Preface to the *Pastoral Care*
+
+Carroll Quigley would later describe this pattern as **civilizational
+repair**, where knowledge transmission substitutes for material power
+during contraction phases.
+
+────────────────────────────────────────────────────────────
+VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANCE (SECONDARY + PRIMARY)
+────────────────────────────────────────────────────────────
+Authority is justified through responsibility rather than conquest.
+
+Characteristics include:
+• Moral kingship
+• Governance framed as guardianship
+• Power subordinated to preservation
+
+William of Malmesbury records Alfred’s conception of rule:
+
+> “He bore himself rather as the father of his people than as their
+> lord, thinking it more glorious to govern free men by counsel than to
+> coerce them by terror.”
+> — William of Malmesbury, *Gesta Regum Anglorum*
+
+Andrew Roberts contrasts Alfred with later Anglian rulers, noting that
+here kingship functions as **caretaking under duress**, not dominance
+through abstraction.
+
+────────────────────────────────────────────────────────────
+VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES (SECONDARY)
+────────────────────────────────────────────────────────────
+Alfred’s reign produces durable effects:
+
+• Survival of the Anglo-Saxon civilizational core
+• Law preserved as continuity carrier
 • Defense-oriented governance logic
-• Cultural memory preserved through translation
+• Cultural memory stabilized through translation
 
-Carroll Quigley’s civilizational framework situates Alfred as a
-**continuity bridge**, not a founder: a figure whose role is to prevent
-breakdown rather than inaugurate ascent.
-
-These outcomes do not ensure dominance.
-They prevent extinction.
+Niall Ferguson frames Alfred’s achievement as the creation of **option
+space**—time bought through structure, allowing later unification under
+Æthelstan.
 
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS (STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Internal (ANGLIA):
-• MEM–ANGLIA–WAR–HASTINGS — elite replacement after rupture
-• MEM–ANGLIA–COMMON–LAW — precedent as accumulated memory
-• MEM–ANGLIA–ATHELSTAN — institutional unification
-• MEM–ANGLIA–WAR–YORKTOWN — defeat without legitimacy collapse
-• MEM–ANGLIA–MAGNA–CARTA — procedural constraint of authority
+• MEM–ANGLIA–ATHELSTAN — unification after survival
+• MEM–ANGLIA–COMMON–LAW — precedent as memory
+• MEM–ANGLIA–MAGNA–CARTA — later depersonalization of authority
+• MEM–ANGLIA–WAR–HASTINGS — elite replacement survival
+• MEM–ANGLIA–WAR–YORKTOWN — defeat without dissolution
 
 Cross-Civilizational:
-• MEM–ROME–CINCINNATUS — stewardship under existential threat
-• MEM–CHINA–SONG–SURVIVAL — literacy and bureaucracy as resilience
-• MEM–RUSSIA–MONGOL–YOKE — endurance without sovereignty
+• MEM–ROME–AURELIAN — survival under fragmentation
+• MEM–FRANCIA–CAPETIANS — law-based consolidation
+• MEM–GERMANIA–OTTONIAN — kingship under pressure
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Survival can be a civilizational achievement.
-• Law may function as memory storage under invasion.
-• Defense systems can preserve identity.
-• Literacy increases institutional resilience.
-• Authority can be justified by preservation alone.
+• Survival is an achievement, not a default.
+• Law can store identity when territory fails.
+• Defense systems can substitute for dominance.
+• Learning preserves optionality under collapse.
+• Kingship may function as stewardship before abstraction.
 
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 X.a Student Exploration Mode
-This MEM supports curiosity-led exploration of survival, memory, and
-governance under collapse pressure.
+This MEM supports curiosity-led exploration of survival, learning, and
+authority under collapse conditions.
 
 X.b Multiple-Choice Exploration Logic
 Present one option set at a time (A–D).
 
 X.c Option Design Example
-A) What if Alfred had pursued expansion instead of fortification?
-B) How does Alfred compare to later Anglian wartime leaders?
-C) Why does translation matter more than victory here?
-D) Could Anglia have survived without legal continuity?
+A) What if Alfred had chosen flight over resistance?
+B) Why does law preserve identity better than territory?
+C) How does learning function as a defensive asset?
+D) Could Anglia have survived without kingship?
 
 X.d Student Agency Rule
-The student’s choice determines the next explored dimension.
+The student’s choice determines which dimension is explored next.
 
 ────────────────────────────────────────────────────────────
 XI. GAME & ENGINE COMPATIBILITY
 ────────────────────────────────────────────────────────────
 This MEM:
-• Biases survival-first strategic options
-• Warns against premature ambition
-• Shapes constraint recognition without prescribing action
+• Biases survival-first strategies
+• Penalizes premature expansion
+• Rewards institutional repair under stress
 
 ────────────────────────────────────────────────────────────
 XII. LANGUAGE & TONAL CONSTRAINTS
@@ -201,8 +217,9 @@ XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL and compliant with:
 • CIV–MEM–TEMPLATE v1.1
+• CIV–MEM–SOURCE–ENFORCEMENT v1.0
 • Distinguished Scholar Rule (ANGLIA)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ALFRED — v1.2
+END OF FILE — MEM–ANGLIA–ALFRED v1.1
 ────────────────────────────────────────────────────────────
