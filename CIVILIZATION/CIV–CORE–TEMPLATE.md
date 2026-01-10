@@ -1,382 +1,254 @@
-CIV–CORE–TEMPLATE — v1.6
-Civilizational Strategy Codex · Civilization Core Engine Template
-Constraint–Continuity–Failure Physics Master Template
-(Exit, Doctrine Intake, Scholar Hygiene Hardened)
+CIV–CORE–TEMPLATE — v1.6.1
+Civilizational Strategy Codex · Civilization Core Engine
+Global Structural Template (WORDCOUNT ENFORCEMENT EDITION)
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–CORE–TEMPLATE v1.5
-Upgrade Type: ADDITIVE · GOVERNANCE + AUDIT HARDENING
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
-Lock Level: STRUCTURAL (section order immutable; content expandable only)
+Supersedes: CIV–CORE–TEMPLATE v1.6
+Upgrade Type: ADDITIVE · GOVERNANCE-BINDING
+Activation State: INACTIVE BY DEFAULT
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC V1.x+)
+Governance Mode: STRUCTURAL LOCK
+Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–CORE–GOVERNANCE–LAW v1.0 (or higher)
-• CIV–MEM–CORE v1.6+
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0+
+• CIV–MEM–CORE (global system law)
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+• CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
+
+Last Update: January 2026
+WORDCOUNT: ~3,200
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.6)
+UPGRADE NOTE (v1.6.1)
 ────────────────────────────────────────────────────────────
-v1.6 introduces NO deletions and NO semantic weakening.
+This version preserves **all structural, semantic, and governance
+constraints** from CIV–CORE–TEMPLATE v1.6.
 
-Additions ONLY:
-• Universal Doctrine Intake Buffer (DIB) normalization
-• Explicit Scholar–Core authority firewall (all civilizations)
-• Heuristic containment & permanence rules
-• Mandatory audit trace fields
-• Failure-mode precedence clarification
-• Exit-state classification harmonization
-• Template version forward-lock (prevents regression)
+v1.6.1 introduces ONE additive, globally binding clarification:
 
-All v1.5 content is preserved verbatim unless explicitly marked
-[V1.6 — ADDITIVE].
+• **Mandatory WORDCOUNT field in the header of every CIV–CORE instance**
+
+This rule is retroactive for compliance audits but **non-invalidating**
+for legacy files until formally reissued.
+
+No axioms, diagnostics, constraints, verdict logic, or module ordering
+are modified.
 
 ────────────────────────────────────────────────────────────
-I. TEMPLATE PURPOSE & AUTHORITY
+I. TEMPLATE PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-This template defines the **structural, diagnostic, and governance
-requirements** for all CIV–CORE–[CIVILIZATION] files.
+CIV–CORE–[CIVILIZATION] defines the **structural operating logic** of a
+civilization.
 
-A CIV–CORE file is:
+It is:
 • A constraint engine
-• A failure-physics map
-• A feasibility filter
-• A non-predictive structural classifier
+• A diagnostic framework
+• A failure-physics model
+• A legitimacy-accounting system
 
 It is NOT:
-• A narrative
-• A strategist
-• A forecaster
-• A doctrine generator
+• A narrative history
+• A prediction engine
+• A moral framework
+• A policy prescription
+• A SCHOLAR substitute
 
-Authority hierarchy (non-reversible):
-
-CIV–CORE–GOVERNANCE–LAW
-→ CIV–CORE–TEMPLATE
-→ CIV–CORE–[CIV]
-→ MEM / SCHOLAR (advisory only)
-
-No downstream artifact may override CORE constraints.
+CIV–CORE files encode **what a civilization can and cannot do** under
+pressure — not what it claims to be.
 
 ────────────────────────────────────────────────────────────
-II. VERSIONING & IMMUTABILITY LAW
+II. HEADER REQUIREMENTS (MANDATORY)
 ────────────────────────────────────────────────────────────
+Every CIV–CORE instance MUST include, verbatim and explicitly, the
+following header fields:
+
+• Filename (CIV–CORE–[CIV] — vX.X)
+• Full Title
+• Status
+• Template Version Used
+• Compatibility
+• Supersedes (if applicable)
+• Conceptual Lineage (if applicable)
+• Lock Level
+• Governance / DIB status (if applicable)
+• Scholar Reference Mode (if applicable)
+• Last Update (Month Year)
+• **WORDCOUNT**
+
+RULES:
+• WORDCOUNT must reflect approximate total document length.
+• WORDCOUNT is informational, not interpretive.
+• WORDCOUNT omission = structural noncompliance.
+
+────────────────────────────────────────────────────────────
+III. STRUCTURAL IMMUTABILITY RULE
+────────────────────────────────────────────────────────────
+This template enforces:
+
+• Fixed section ordering
+• Non-deletable sections
+• Additive-only upgrades
+• Explicit version lineage
+• No silent renumbering
+• No semantic drift under version bump
+
+A CIV–CORE file may EXPAND but may not:
+• Remove sections
+• Reorder sections
+• Downgrade constraints
+• Soften hard rules
+• Override axioms implicitly
+
+────────────────────────────────────────────────────────────
+IV. CIV–CORE ↔ SCHOLAR AUTHORITY SEPARATION
+────────────────────────────────────────────────────────────
+SCHOLAR artifacts are **advisory only**.
+
 Hard rules:
+• SCHOLAR has ZERO authority inside CIV–CORE.
+• No SCHOLAR belief, synthesis, or doctrine is binding unless:
+  – Explicitly frozen in SCHOLAR
+  – Explicitly accepted via a Doctrine Intake Buffer (DIB)
+• Silent bleed-through is forbidden.
 
-• Version numbers MUST increase monotonically.
-• Regression (e.g., v1.5 → v1.3) is INVALID.
-• All upgrades must be explicitly ADDITIVE.
-• No section may be removed or reordered.
-• Illustrative material is NON-AUTHORITATIVE.
-
-[V1.6 — ADDITION]
-Template Forward-Lock Rule:
-Once a higher template version exists, lower-numbered
-templates are automatically deprecated and invalid for audit.
+CIV–CORE remains the **supreme constraint surface**.
 
 ────────────────────────────────────────────────────────────
-III. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
+V. REQUIRED CORE SECTIONS (ORDER LOCKED)
 ────────────────────────────────────────────────────────────
-Each CIV–CORE MUST define:
+All CIV–CORE instances MUST include, in this exact order:
 
-• Civilizational identity (what kind of system this is)
-• Non-negotiable axioms
-• Failure definitions
-• Replacement logic
+I.   Civilizational Identity & Prime Axioms  
+II.  Legitimacy Accounting Layer  
+III. Historical–Temporal Continuity Engine  
+IV.  Spatial–Civilizational Geometry  
+V.   Governance Architecture  
+VI.  Economic–Industrial Doctrine  
+VII. Technological / Compute Sovereignty  
+VIII. Military–Strategic Doctrine  
+IX.  Internal Security & Social Order  
+X.   Information & Narrative Governance  
+XI.  Time Orientation Layer  
+XII. Exit–Building Meta-Doctrine  
+XIII.Cross-Civilizational Synchronization  
+XIV. Failure Physics  
+XV.  Irreversibility Grid  
+XVI. Restoration Invalidation Rule  
+XVII.Strategic Red Lines  
+XVIII.SCHOLAR Mode  
+XIX. Session Header (Optional)  
+XX.  Mandatory Verdict Block  
 
-Rules:
-• Axioms constrain permissible analysis.
-• Forecasts violating axioms are INVALID.
-• Identity ≠ virtue; identity = constraint shape.
-
-────────────────────────────────────────────────────────────
-IV. LEGITIMACY ACCOUNTING LAYER
-────────────────────────────────────────────────────────────
-Each CIV–CORE MUST implement a legitimacy accounting system.
-
-Mandatory outputs (example schema):
-• Procedural Trust Index (PTI)
-• Institutional Continuity (IC)
-• Elite Absorption Capacity (EAC)
-• Symbolic Load Ratio (SLR)
-
-Rules:
-• Defeat ≠ collapse unless IC is breached.
-• Symbolic overload accelerates failure cascades.
-• Legitimacy is cumulative, not moral.
+Optional modules MAY be appended **after Section XX** only.
 
 ────────────────────────────────────────────────────────────
-V. HISTORICAL–TEMPORAL CONTINUITY ENGINE
+VI. DIAGNOSTIC DISCIPLINE RULE
 ────────────────────────────────────────────────────────────
-CIV–CORE must encode:
-• How time compounds legitimacy
-• How memory survives defeat
-• How institutions outlast narratives
+All indicators must be:
+• Explicit
+• Bounded
+• Declared
+• Non-narrative
 
-Rules:
-• Narratives change.
-• Institutions accumulate.
-• Time converts survival into authority.
-
-────────────────────────────────────────────────────────────
-VI. SPATIAL–CIVILIZATIONAL GEOMETRY
-────────────────────────────────────────────────────────────
-CIV–CORE must specify:
-• Core spatial logic
-• External projection geometry
-• Stress zones and overextension risks
-
-Mandatory outputs:
-• Spatial Integrity: INTACT / STRAINED / BREACHED
+Illegal practices:
+• Indicator substitution
+• Metaphorical scoring
+• Narrative override
+• “Vibes-based” assessment
+• Soft language replacing hard outputs
 
 ────────────────────────────────────────────────────────────
-VII. GOVERNANCE ARCHITECTURE
+VII. FAILURE PHYSICS SUPREMACY
 ────────────────────────────────────────────────────────────
-Must define:
-• Authority flow
-• Replacement mechanisms
-• Reform vs rupture bias
+Failure physics override:
+• Intent
+• Ideology
+• Moral framing
+• Historical grievance
+• Narrative momentum
 
-Rules:
-• Replacement precedes revolution.
-• Governance failure is structural, not moral.
-
-────────────────────────────────────────────────────────────
-VIII. DYNASTIC / ELITE CONTINUITY LAYER
-────────────────────────────────────────────────────────────
-Must specify:
-• How elites are replaced
-• How legitimacy survives personnel change
-• When elite failure triggers rupture
-
-Mandatory output:
-• Dynastic / Elite Elasticity: HIGH / MED / LOW
+If indicators conflict:
+• Structural continuity > liquidity > legitimacy optics
 
 ────────────────────────────────────────────────────────────
-IX. ECONOMIC–FINANCIAL DOCTRINE
+VIII. EXIT LOGIC ENFORCEMENT
 ────────────────────────────────────────────────────────────
-Must define:
-• Financial centrality
-• Risk externalization
-• Liquidity–time coupling
+Exit is a **first-class civilizational function**, not a defeat state.
 
-Mandatory outputs:
-• Financial Resilience
-• External Exposure Ratio
+All CIV–CORE files must encode:
+• Exit triggers
+• Exit acceleration states
+• Exit invalidation rules
 
-Rules:
-• Liquidity buys time.
-• Time preserves optionality.
+Failure to encode exit = analytical incompleteness.
 
 ────────────────────────────────────────────────────────────
-X. MILITARY–STRATEGIC DOCTRINE
+IX. VERDICT INTEGRITY RULE
 ────────────────────────────────────────────────────────────
-Must define:
-• Force projection logic
-• Replacement thresholds
-• Escalation ceilings
+Every CIV–CORE analysis MUST terminate in a **Mandatory Verdict Block**
+containing civilization-specific required outputs.
 
-Rules:
-• Endurance without replacement is decay.
-• Attrition claims require throughput proof.
-
-────────────────────────────────────────────────────────────
-XI. INTERNAL SECURITY & SOCIAL ORDER
-────────────────────────────────────────────────────────────
-Must encode:
-• Compliance mechanisms
-• Disorder tolerance
-• Coercion vs legitimacy tradeoffs
+Verdicts may NOT:
+• Contradict axioms
+• Ignore hard gates
+• Skip failed indicators
+• Override irreversibility status
 
 ────────────────────────────────────────────────────────────
-XII. INFORMATION & NARRATIVE GOVERNANCE
+X. VERSIONING & UPGRADE LAW
 ────────────────────────────────────────────────────────────
-Must define:
-• Narrative role
-• Visibility penalties
-• Optics vs capacity mismatch risks
+Permitted:
+• Additive clauses
+• New diagnostics
+• Clarifications
+• Optional modules
 
-Rule:
-Narrative escalation beyond procedural capacity accelerates collapse.
+Forbidden:
+• Deletions
+• Renumbering
+• Constraint weakening
+• Retroactive semantic edits
 
-────────────────────────────────────────────────────────────
-XIII. TIME ORIENTATION LAYER
-────────────────────────────────────────────────────────────
-Must specify:
-• Delay advantages
-• Exhaustion asymmetries
-• Time-hostility indicators
-
-Mandatory output:
-• Time Advantage: SELF / ADVERSARY / NEUTRAL
-
-────────────────────────────────────────────────────────────
-XIV. EXIT–BUILDING META-DOCTRINE
-────────────────────────────────────────────────────────────
-Each CIV–CORE MUST encode exit logic.
-
-Mandatory outputs:
-• Exit State: INACTIVE / ACTIVE / ACCELERATING
-• Exit Vectors (legal, financial, alliance, standards)
-
-Rules:
-• Exit ≠ collapse.
-• Silent exit is preferred to declarative failure.
+All upgrades must declare:
+• Version delta
+• Upgrade type
+• Scope
+• Non-impact guarantees
 
 ────────────────────────────────────────────────────────────
-XV. FAILURE PHYSICS
+XI. GLOBAL WORDCOUNT LAW (NEW · BINDING)
 ────────────────────────────────────────────────────────────
-Must define:
-• Failure cascades
-• Trigger thresholds
-• Irreversibility markers
-
-Rules:
-• Failure is processual.
-• Collapse = discontinuity, not loss.
-
-────────────────────────────────────────────────────────────
-XVI. IRREVERSIBILITY GRID
-────────────────────────────────────────────────────────────
-Mandatory output:
-• GRID: REVERSIBLE / STICKY / IRREVERSIBLE
-
-Rule:
-If GRID = IRREVERSIBLE, restoration narratives are invalid.
-
-────────────────────────────────────────────────────────────
-XVII. STRATEGIC RED LINES
-────────────────────────────────────────────────────────────
-Each CIV–CORE MUST enumerate non-negotiable red lines.
-
-Crossing a red line:
-• Invalidates optimistic forecasts
-• Forces contraction logic
-
-────────────────────────────────────────────────────────────
-XVIII. DOCTRINE INTAKE BUFFER (DIB) — MANDATORY
-────────────────────────────────────────────────────────────
-[V1.6 — NORMALIZED]
-
-Every CIV–CORE MUST define a Doctrine Intake Buffer.
-
-Default State:
-• DEFINED
-• INACTIVE
-• NO DATA FLOW
+Every CIV–CORE instance MUST declare a WORDCOUNT in its header.
 
 Purpose:
-• Prevent silent doctrine bleed-in
-• Preserve auditability
-• Enforce adoption discipline
-
-DIB REQUIREMENTS:
-A) Input Filter
-• Accepts ONLY frozen SCHOLAR doctrines
-• Rejects beliefs, drafts, syntheses
-
-B) Evaluation Gate
-• Axiom compatibility
-• Failure-physics interaction
-• Red-line proximity
-
-C) Decision States (EXPLICIT)
-• ACCEPT
-• HOLD
-• REJECT
-
-Hard Prohibitions:
-• No silent intake
-• No partial adoption
-• No retroactive mutation
-
-────────────────────────────────────────────────────────────
-XIX. SCHOLAR–CORE AUTHORITY FIREWALL
-────────────────────────────────────────────────────────────
-[V1.6 — HARDENED]
+• Auditability
+• Drift detection
+• Truncation prevention
+• External storage verification
 
 Rules:
-• SCHOLAR has ZERO authority inside CORE.
-• SCHOLAR outputs are advisory artifacts only.
-• No SCHOLAR belief, synthesis, or heuristic is binding unless:
-  – Frozen as doctrine in SCHOLAR
-  – Explicitly accepted via DIB
+• WORDCOUNT is approximate.
+• WORDCOUNT omission flags noncompliance.
+• WORDCOUNT falsification is a governance violation.
 
-Permitted reference types:
-1) ADOPTED DOCTRINE
-2) TESTED CONSTRAINT (non-authoritative)
-3) REJECTED / FAILED ARTIFACT
-
-Silent reliance is PROHIBITED.
+Retroactivity:
+• Legacy CIV–CORE files remain valid.
+• Reissue is REQUIRED for full compliance.
 
 ────────────────────────────────────────────────────────────
-XX. HEURISTIC CONTAINMENT RULE
-────────────────────────────────────────────────────────────
-[V1.6 — NEW]
-
-Heuristics (e.g., alternative-history rules) MUST:
-• Be explicitly named
-• Be scoped
-• Be non-authoritative
-• Never override axioms or hard rules
-
-Heuristics may:
-• Stress-test logic
-• Expose fragility
-• Explore counterfactual bounds
-
-Heuristics may NOT:
-• Generate doctrine
-• Bypass DIB
-• Mutate CORE logic
-
-────────────────────────────────────────────────────────────
-XXI. AUDIT TRACE REQUIREMENTS
-────────────────────────────────────────────────────────────
-[V1.6 — NEW]
-
-Every CIV–CORE analysis MUST declare:
-• Template Version Used
-• Doctrine Intake Status
-• Scholar Reference Status
-• Exit State
-• GRID State
-
-Absence of trace = INVALID analysis.
-
-────────────────────────────────────────────────────────────
-XXII. SESSION HEADER (OPTIONAL)
-────────────────────────────────────────────────────────────
-Active Civ: __
-Template Version: v1.6
-Exit State: __
-GRID: __
-Failure Mode: __
-Doctrine Intake: NONE / ACTIVE
-
-────────────────────────────────────────────────────────────
-XXIII. MANDATORY VERDICT BLOCK
-────────────────────────────────────────────────────────────
-Every CIV–CORE analysis MUST end with:
-
-• Institutional Continuity: INTACT / STRAINED / BREACHED
-• Failure Mode: NONE / EMERGING / ACTIVE
-• Exit State: INACTIVE / ACTIVE / ACCELERATING
-• GRID: REVERSIBLE / STICKY / IRREVERSIBLE
-• Strategic Classification:
-  STABLE / FEASIBILITY-GOVERNOR / EROSION-DRIFT /
-  SYSTEMIC-STRESS / INVALID
-
-────────────────────────────────────────────────────────────
-XXIV. CANONICAL STATUS
+XII. TEMPLATE CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 
-All CIV–CORE files must declare:
-“Template Version Used: CIV–CORE–TEMPLATE v1.6”
+All future CIV–CORE files MUST declare:
+“Template Version Used: CIV–CORE–TEMPLATE v1.6.1”
 
-Lower template versions are deprecated for audit and authoring.
+Noncompliant files may be:
+• Flagged
+• Quarantined
+• Excluded from synthesis
+• Barred from SCHOLAR reference
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v1.6
+END OF FILE — CIV–CORE–TEMPLATE v1.6.1
 ────────────────────────────────────────────────────────────
