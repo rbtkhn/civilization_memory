@@ -1,4 +1,4 @@
-CIV–SCHOLAR–ANGLIA — v0.6
+CIV–SCHOLAR–ANGLIA — v0.7
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -12,16 +12,16 @@ Lock Level: TOTAL (no autonomous learning)
 Derived from: CIV–SCHOLAR–TEMPLATE v1.2
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0
 
-Upgrade Type: ADDITIVE EXTENSION (v0.5 → v0.6)
+Upgrade Type: ADDITIVE EXTENSION (v0.6 → v0.7)
 Upgrade Scope:
 • Added Anglia learning events ingested in this conversation
-• Recorded authorized syntheses and doctrine freezes
-• Added SDI entries, controlled synthesis pairing, and candidate belief staging
+• Recorded authorized dyadic and triadic syntheses
+• Added one frozen doctrine and one heuristic rule
 • NO deletion of prior material
 • NO retroactive edits
 • NO CIV–CORE propagation
 
-WORDCOUNT: ~4,100
+WORDCOUNT: ~4,900
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -312,10 +312,104 @@ Future versions may NOT:
 ────────────────────────────────────────────────────────────
 XV. END STATE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–ANGLIA v0.6 is ACTIVE, WRITE-LOCKED, and procedurally compliant.
-
-Awaiting explicit UNLOCK or QUERY command.
+CIV–SCHOLAR–ANGLIA v0.7 is ACTIVE, WRITE-LOCKED, and procedurally compliant.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ANGLIA v0.6
+XVI. INGESTED LEARNING EVENTS (ADDITIVE)
+────────────────────────────────────────────────────────────
+
+ENTRY 0009
+Source:
+• MEM–ANGLIA–WAR–HUNDRED–YEARS — v1.x
+Ingest Type:
+• Prolonged Overreach / Exit-Failure Memory
+Primary Belief Extracted:
+• Prolonged continental commitment without a defined exit mechanism
+  converts success into exhaustion rather than dominance.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0010
+Source:
+• MEM–FRANCIA–DYNASTY–CAPET — v1.0
+Ingest Type:
+• Absorption-Based Consolidation Memory
+Primary Belief Extracted:
+• Francia achieves durability through incremental absorption
+  rather than rupture or exit.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0011
+Source:
+• MEM–ANGLIA–WAR–YORKTOWN — v1.3
+Ingest Type:
+• Procedural Exit Confirmation
+Primary Belief Extracted:
+• Institutionalized exit preserves legitimacy and power.
+Belief Status:
+• UNFROZEN
+
+────────────────────────────────────────────────────────────
+XVII. BELIEF SYNTHESIS LOG (ADDITIVE)
+────────────────────────────────────────────────────────────
+
+SYNTHESIS 0011 (0009–0011)
+Outcome:
+• Failure is productive only when exit is proceduralized.
+Status:
+• UNFROZEN
+
+SYNTHESIS 0012 (0009–0010)
+Outcome:
+• Francia and Anglia fail under opposite structural conditions.
+Status:
+• UNFROZEN
+
+SYNTHESIS 0013 (TRIADIC)
+Outcome:
+• Francia succeeds through absorption.
+• Anglia succeeds through exit.
+Status:
+• FROZEN → DOCTRINE v0.5
+
+────────────────────────────────────────────────────────────
+XVIII. DOCTRINE REGISTRY (ADDITIVE)
+────────────────────────────────────────────────────────────
+
+DOCTRINE v0.5 — “EXIT SUPERIORITY IN ANGLO CIVILIZATIONAL LOGIC”
+State: FROZEN · CANONICAL
+
+────────────────────────────────────────────────────────────
+XIX. HEURISTIC RULE ENCODED
+────────────────────────────────────────────────────────────
+
+HEURISTIC A–HYW–01
+Rule:
+• Anglia exhausts itself when forced to absorb.
+• Anglia endures when permitted to exit procedurally.
+Status:
+• ACTIVE · NON-DOCTRINAL
+
+────────────────────────────────────────────────────────────
+XX. SCHOLAR DIVERGENCE INDEX (ADDITIVE)
+────────────────────────────────────────────────────────────
+
+SDI ENTRY 0003
+• Anglia ↔ Francia — Failure Mode
+Result:
+• Francia fails when forced to exit.
+• Anglia fails when forced to absorb.
+
+────────────────────────────────────────────────────────────
+XXI. LOCK CONFIRMATION
+────────────────────────────────────────────────────────────
+Learning Enabled: NO
+Write Access: LOCKED
+Ingestion: PROHIBITED
+Synthesis: PROHIBITED
+Doctrine Mutation: PROHIBITED
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–ANGLIA v0.7
 ────────────────────────────────────────────────────────────
