@@ -1,42 +1,42 @@
 MEM–ANGLIA–ALFRED — v1.2
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
+Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE
 Version: 1.2
-Upgrade Type: PROCEDURAL ALIGNMENT (Option Engine Compliance)
+Upgrade Type: CANONICAL REISSUE (v1.6 TEMPLATE ALIGNMENT)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
 Dates: 849–899 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Word Count: ~2,600
+Wordcount: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Alfred of Wessex as **Anglia’s survival sovereign**:
-the ruler who prevented civilizational extinction under external
-invasion and re-encoded continuity through law, learning, and defensive
-organization.
+the ruler who prevented civilizational erasure under external invasion
+and re-encoded continuity through law, learning, and defensive structure
+rather than expansion or domination.
 
 Alfred does not found Anglia’s dominance.
-He prevents its erasure.
+He prevents its disappearance.
 
-This file records survival logic under collapse conditions.
-It does not present Alfred as an imperial founder or institutional
-endpoint.
+This file records **survival logic under collapse conditions**.
+It does not present Alfred as an imperial founder, constitutional endpoint,
+or abstract institutional architect.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. EXISTENTIAL CONDITIONS (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Alfred governs during near-collapse.
+Alfred governs during near-terminal collapse.
 
 Conditions include:
-• Viking military superiority across much of England
+• Viking military superiority across England
 • Destruction of monasteries and learning centers
 • Collapse of multiple Anglo-Saxon kingdoms
 • Severe contraction of legal and cultural memory
@@ -47,34 +47,38 @@ The *Anglo-Saxon Chronicle* records the severity without embellishment:
 > king in all the land of the West Saxons save Alfred; and the heathen
 > held the greater part of the kingdom, and many of the people submitted
 > to them for fear.”
-> — *Anglo-Saxon Chronicle*, entry for 878 AD
+> — *Anglo-Saxon Chronicle*, 878 AD
 
-Winston Churchill frames this period as one in which England survives
-not by victory, but by **refusal to disappear**, noting that Alfred’s
-greatness lies in preservation under annihilating pressure rather than
-expansion.
+Here collapse is not metaphorical.
+It is demographic, territorial, and institutional.
+
+Winston Churchill frames Alfred’s achievement not as victory, but as
+**refusal to vanish**, emphasizing endurance rather than conquest as the
+core civilizational act.
 
 ────────────────────────────────────────────────────────────
 III. DEFENSE AS SYSTEM, NOT EPISODE (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Alfred converts resistance into structure.
+Alfred converts resistance into repeatable structure.
 
 Actions include:
 • Strategic retreat followed by counteroffensive
 • Construction of fortified burhs
-• Establishment of rotational defense obligations
+• Rotational defense obligations
 • Early naval experimentation
 
-As Alfred himself explains in correspondence attributed to his reign:
+Alfred explains his intent directly:
 
 > “I desired to live worthily while I lived, and after my life to leave
 > to those who come after me my memory in good works; for we have lost
 > both the wealth and the wisdom of former times.”
 > — Alfred, Preface to the *Pastoral Care*
 
-John Keegan emphasizes that Alfred’s innovation lies not in decisive
-battle, but in **making defense repeatable**, transforming survival into
-a standing condition rather than a singular event.
+John Keegan emphasizes that Alfred’s genius lies not in decisive battle,
+but in **making defense sustainable**, transforming survival from event
+into condition.
+
+Defense becomes governance.
 
 ────────────────────────────────────────────────────────────
 IV. LAW AS MEMORY PRESERVATION (PRIMARY + SECONDARY)
@@ -87,43 +91,47 @@ Initiatives include:
 • Reassertion of justice as legitimacy
 • Continuity with Anglo-Saxon custom
 
-Alfred states the logic explicitly:
+Alfred states this explicitly:
 
 > “I, Alfred, king, gathered these laws together, and commanded many of
 > those to be written which our forefathers observed; and those which I
 > liked not, I rejected by the counsel of my wise men.”
 > — Alfred, Law Code Prologue
 
-Will Durant situates Alfred as an early example of **law functioning as
-memory**, preserving identity when population, territory, and wealth
-are under threat.
+Will Durant situates Alfred as an early case of **law functioning as memory**,
+preserving identity when territory, wealth, and population are unstable.
+
+Law does not innovate.
+It **remembers**.
 
 ────────────────────────────────────────────────────────────
 V. LEARNING AS STRATEGIC ASSET (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Cultural reconstruction is deliberate.
+Cultural reconstruction is deliberate and strategic.
 
 Measures include:
 • Promotion of literacy among elites
 • Translation of foundational texts into English
 • Restoration of clerical learning
-• Framing education as defense
+• Framing education as defensive infrastructure
 
-Alfred articulates the crisis with clarity:
+Alfred articulates the crisis plainly:
 
 > “So general was the decay of learning in England that there were very
 > few on this side of the Humber who could understand their rituals in
 > English, or translate a letter from Latin into English.”
 > — Alfred, Preface to the *Pastoral Care*
 
-Carroll Quigley would later describe this pattern as **civilizational
-repair**, where knowledge transmission substitutes for material power
-during contraction phases.
+Carroll Quigley later identifies this pattern as **civilizational repair**,
+where knowledge transmission substitutes for material power during
+contraction phases.
+
+Learning preserves optionality.
 
 ────────────────────────────────────────────────────────────
 VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANCE (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Authority is justified through responsibility rather than conquest.
+Authority is justified through responsibility, not spectacle.
 
 Characteristics include:
 • Moral kingship
@@ -132,9 +140,9 @@ Characteristics include:
 
 William of Malmesbury records Alfred’s conception of rule:
 
-> “He bore himself rather as the father of his people than as their
-> lord, thinking it more glorious to govern free men by counsel than to
-> coerce them by terror.”
+> “He bore himself rather as the father of his people than as their lord,
+> thinking it more glorious to govern free men by counsel than to coerce
+> them by terror.”
 > — William of Malmesbury, *Gesta Regum Anglorum*
 
 Andrew Roberts contrasts Alfred with later Anglian rulers, noting that
@@ -152,8 +160,10 @@ Alfred’s reign produces durable effects:
 • Cultural memory stabilized through translation
 
 Niall Ferguson frames Alfred’s achievement as the creation of **option
-space**—time bought through structure, allowing later unification under
-Æthelstan.
+space**—time purchased through structure, enabling later unification
+under Æthelstan.
+
+Survival precedes sovereignty.
 
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS (STRUCTURAL)
@@ -182,55 +192,53 @@ IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-This MEM implements **CIV–MEM–OPTION–ENGINE v1.0**.
-
-Only ONE option set is presented at a time.
-Options are category-typed.
-Student choice governs progression.
-
-────────────────────────────────────────
-X.a OPTION SET — INITIAL
-────────────────────────────────────────
-A) **Organic Curiosity**  
-What makes Alfred’s reign feel more like emergency management than
-state-building?
-
-B) **Historical Continuity**  
-How does Alfred’s survival logic reappear later in Anglia’s civilizational
-responses to crisis?
-
-C) **Biographical Inquiry**  
-How do Alfred’s writings reshape our understanding of medieval kingship?
-
-D) **Primary Source Inquiry**  
-Which Alfredian text most clearly frames learning as a defensive weapon?
-
-(Student selects ONE letter.)
+This MEM supports curiosity-led exploration of survival, learning, and
+authority under collapse conditions.
 
 ────────────────────────────────────────────────────────────
-XI. GAME & ENGINE COMPATIBILITY
+XI. MEM INGEST BOOTSTRAP (v1.6 COMPLIANT)
+────────────────────────────────────────────────────────────
+If this MEM is ingested without CIV–MEM–CORE present, the system MUST:
+
+Declare:
+“MEM INGEST CONFIRMED — MEM–ANGLIA–ALFRED–WESSEX
+Status: ACTIVE
+Exploration options available.”
+
+Then present exactly eight (8) exploration options:
+
+1. Primary Source: Alfred’s Law Code Prologue
+2. Primary Source: Preface to the *Pastoral Care*
+3. Secondary: Churchill on survival vs. victory
+4. Secondary: Quigley on civilizational repair
+5. Structural: Defense as system logic
+6. Structural: Learning as continuity technology
+7. Alternative History: What if Alfred fled permanently?
+8. Compliance & Integrity Audit (v1.6)
+
+────────────────────────────────────────────────────────────
+XII. GAME & ENGINE COMPATIBILITY
 ────────────────────────────────────────────────────────────
 This MEM:
 • Biases survival-first strategies
 • Penalizes premature expansion
 • Rewards institutional repair under stress
-• Encodes collapse-management logic for CIV–GAME
 
 ────────────────────────────────────────────────────────────
-XII. LANGUAGE & TONAL CONSTRAINTS
+XIII. LANGUAGE & TONAL CONSTRAINTS
 ────────────────────────────────────────────────────────────
 This file avoids inevitability, hero worship, and moral adjudication.
 History is presented as pressure and choice, not destiny.
 
 ────────────────────────────────────────────────────────────
-XIII. CANONICAL STATUS
+XIV. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL and compliant with:
-• CIV–MEM–CORE v1.6+
-• CIV–MEM–TEMPLATE v1.2
-• CIV–MEM–OPTION–ENGINE v1.0
+• CIV–MEM–TEMPLATE v1.6
+• Primary Source Requirement
 • Distinguished Scholar Rule (ANGLIA)
+• Scholar Authorization Gate (UNLOCKED)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ALFRED v1.2
+END OF FILE — MEM–ANGLIA–ALFRED — v1.2
 ────────────────────────────────────────────────────────────
