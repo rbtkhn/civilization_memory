@@ -17,31 +17,31 @@ This file defines the **mandatory structure, evidentiary standards,
 scholarly constraints, behavioral rules, and ingest behavior** for all
 MEM (Civilizational Memory) files within the Civilizational Memory Codex.
 
-**Core principle:**  
+Core principle:
 A MEM file must function as a *self-contained historical intelligence
 object*—capable of activating structured inquiry even when ingested
 alone into a new conversation.
 
-**v1.5 clarification:**  
-The ingest bootstrap is not a UI convenience.  
+v1.5 clarification:
+The ingest bootstrap is not a UI convenience.
 It is a **jurisdictional transfer mechanism** that temporarily substitutes
 for CIV–MEM–CORE when CORE is absent.
 
 This template enforces:
-• Historical rigor  
-• Primary-source anchoring  
-• Distinguished secondary scholarship engagement  
-• Cross-civilizational connectivity  
-• Engine and game compatibility  
-• Mandatory MEM ingest behavior  
-• Non-teleological interpretation  
-• Student-directed analytical unfolding  
+• Historical rigor
+• Primary-source anchoring
+• Distinguished secondary scholarship engagement
+• Cross-civilizational connectivity
+• Engine and game compatibility
+• Mandatory MEM ingest behavior
+• Non-teleological interpretation
+• Student-directed analytical unfolding
 
 Authority Flow (NON-REVERSIBLE):
 CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
 
 A MEM file is both:
-• A historical memory artifact  
+• A historical memory artifact
 • A **high-friction analytical substrate**
 
 No MEM file is valid unless compliant with this template.
@@ -233,8 +233,8 @@ XI.b INGEST STATUS HANDSHAKE
 ────────────────────────────
 The LLM MUST issue:
 
-“MEM INGEST CONFIRMED — [FILENAME]  
-Status: ACTIVE  
+“MEM INGEST CONFIRMED — [FILENAME]
+Status: ACTIVE
 Exploration options available.”
 
 This substitutes for CORE activation.
@@ -244,28 +244,28 @@ XI.c MANDATORY EIGHT-OPTION EXPLORATION SET
 ────────────────────────────
 Exactly **EIGHT (8)** options MUST be presented:
 
-1–2. **Primary Source Paths**  
- • Each tied to a specific primary source in the MEM
+1–2. Primary Source Paths
+   • Each tied to a specific primary source in the MEM
 
-3–4. **Secondary Scholarship Paths**  
- • Each tied to a Distinguished Scholar engaged in the MEM
+3–4. Secondary Scholarship Paths
+   • Each tied to a Distinguished Scholar engaged in the MEM
 
-5–6. **Analytical Extension Paths**  
- • Chosen by the LLM
- • Must activate additional MEM connections or structures
+5–6. Analytical Extension Paths
+   • Chosen by the LLM
+   • Must activate additional MEM connections or structures
 
-7. **Alternative History / Counterfactual**  
- • Explicitly labeled
- • Plausible divergence only
+7. Alternative History / Counterfactual
+   • Explicitly labeled
+   • Plausible divergence only
 
-8. **Compliance & Integrity Audit**  
- • Tests against the current CIV–MEM–TEMPLATE version
+8. Compliance & Integrity Audit
+   • Tests against the current CIV–MEM–TEMPLATE version
 
 ────────────────────────────
 XI.d FUTURE-ORIENTED OPTION (MANDATORY)
 ────────────────────────────
 At least ONE option (may overlap with 5–7) MUST:
-• Ask for a **future-oriented implication or prediction**
+• Ask for a future-oriented implication or prediction
 • Tie historical structure to possible future behavior
 • Avoid prophecy or inevitability language
 
@@ -278,7 +278,7 @@ XI.e STUDENT AGENCY RULE
 • After completion, a new option set MAY be offered
 
 ────────────────────────────
-XI.f FAILURE MODE ENFORCEMENT (NEW IN v1.5)
+XI.f FAILURE MODE ENFORCEMENT
 ────────────────────────────
 If a MEM file lacks:
 • Required sources
