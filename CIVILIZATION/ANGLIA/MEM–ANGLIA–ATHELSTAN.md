@@ -1,17 +1,17 @@
-MEM–ANGLIA–ATHELSTAN — v1.4
+MEM–ANGLIA–ATHELSTAN — v1.5
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE (Distinguished Scholar Compliance Restored)
+Version: 1.5
+Upgrade Type: ADDITIVE (v1.6 Ingest Bootstrap + Compliance Alignment)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Æthelstan
 Dates: 894–939 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Wordcount: ~2,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -42,10 +42,6 @@ Conditions include:
 • Hybrid Anglo-Saxon and Danelaw systems
 • Emergent but uneven defense infrastructure
 
-Winston Churchill frames this moment as one in which England “emerged
-from ruin not into peace, but into the chance of order,” emphasizing the
-fragility of unity after prolonged civilizational stress.
-
 > “In this year King Æthelstan drove out King Guthfrith, and deprived him
 > of his kingdom; and the king obtained all the territory which
 > belonged to the kings of Northumbria, and ruled all the land of the
@@ -54,6 +50,10 @@ fragility of unity after prolonged civilizational stress.
 
 The Chronicle records unification as a **contemporary political fact**,
 not a retrospective nationalist claim.
+
+Winston Churchill frames this moment as one in which England “emerged
+from ruin not into peace, but into the chance of order,” emphasizing the
+fragility of unity after prolonged civilizational stress.
 
 ────────────────────────────────────────────────────────────
 III. UNIFICATION THROUGH LAW AND KINGSHIP
@@ -66,17 +66,14 @@ Actions include:
 • Integration of former Danelaw territories
 • Ritual and diplomatic affirmation of supremacy
 
-John Keegan observes that early English unification succeeded less
-through decisive battlefield annihilation than through **the extension
-of legal authority beyond zones of immediate coercion**, a pattern that
-recurs throughout Anglia’s later imperial history.
-
 > “I, Æthelstan, king of the English, ordained this law with the counsel
 > of my bishops and reeves, that peace be kept throughout all my realm,
 > and that justice be established alike for rich and poor.”
 > — Law Code of Æthelstan, Prologue (c. 930 AD)
 
-Law operates here as a **binding technology**, not a moral ornament.
+John Keegan observes that early English unification succeeded less
+through decisive battlefield annihilation than through **the extension
+of legal authority beyond zones of immediate coercion**.
 
 ────────────────────────────────────────────────────────────
 IV. DIPLOMACY & EXTERNAL LEGITIMACY
@@ -84,20 +81,18 @@ IV. DIPLOMACY & EXTERNAL LEGITIMACY
 Æthelstan secures recognition beyond England.
 
 Mechanisms include:
-• Dynastic marriages linking English royalty to continental courts
+• Dynastic marriages linking England to continental courts
 • Treaty systems with neighboring powers
-• Participation in broader European diplomatic norms
-
-Henry Kissinger’s legitimacy framework is instructive: he argues that
-internal authority stabilizes when it is recognized as legitimate by
-external peers within a shared order.
+• Participation in European diplomatic norms
 
 > “Æthelstan, king of the English, whose power and renown were so widely
 > spread that foreign princes sought him as a friend and ally, giving
 > their sons and daughters into his household and care.”
-> — William of Malmesbury, *Gesta Regum Anglorum*
+> — William of Malmesbury, *Gesta Regum Anglorum* (12th c.)
 
-External recognition converts conquest into accepted sovereignty.
+Henry Kissinger’s legitimacy framework clarifies the function of this
+recognition: authority stabilizes internally when acknowledged
+externally by peers within a shared order.
 
 ────────────────────────────────────────────────────────────
 V. LAW AS UNIFICATION TECHNOLOGY
@@ -107,25 +102,21 @@ Legal uniformity replaces coercive occupation.
 Effects include:
 • Standardized justice across regions
 • Alignment of elites under shared legal norms
-• Reduction of internal revolt incentives
+• Reduction of revolt incentives
 • Administrative predictability
 
-Will Durant situates Æthelstan within a longer Anglian pattern in which
-law transforms temporary dominance into enduring structure, preventing
-unity from dissolving upon succession.
-
-> “The king commanded that one law and one measure should hold
-> throughout the whole realm, and that no man should set aside the law
-> for kinship, wealth, or favor.”
+> “The king commanded that one law and one measure should hold throughout
+> the whole realm, and that no man should set aside the law for kinship,
+> wealth, or favor.”
 > — Law Code of Æthelstan (Council of Grately tradition)
 
-Law scales authority more cheaply and durably than force.
+Will Durant situates Æthelstan within a longer Anglian pattern in which
+law transforms temporary dominance into enduring structure.
 
 ────────────────────────────────────────────────────────────
 VI. LIMITED DE-PERSONALIZATION OF AUTHORITY
 ────────────────────────────────────────────────────────────
-Æthelstan strengthens institutional practices that reduce dependence on
-personal charisma, though authority remains monarch-centered.
+Authority begins to generalize, but remains monarch-centered.
 
 Characteristics:
 • Delegated governance through reeves and councils
@@ -135,14 +126,6 @@ Characteristics:
 Andrew Roberts emphasizes that **institutions historically follow
 consolidation rather than precede it**, cautioning against reading later
 bureaucratic maturity backward into early unifiers.
-
-> “Though mighty in arms, Æthelstan ruled more by law than by terror,
-> binding the kingdom together by counsel and judgment rather than
-> sword alone.”
-> — Contemporary ecclesiastical commentary (10th century compilation)
-
-Authority begins to generalize,
-but has not yet escaped the monarch.
 
 ────────────────────────────────────────────────────────────
 VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES
@@ -154,9 +137,8 @@ VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES
 • Defense and administration centralize
 • Foreign recognition normalizes unity
 
-Carroll Quigley’s civilizational model places Æthelstan at the moment
-where **integration overtakes survival**, though procedural autonomy
-remains incomplete.
+Carroll Quigley places Æthelstan at the moment where **integration
+overtakes survival**, though procedural autonomy remains incomplete.
 
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS (STRUCTURAL)
@@ -164,13 +146,13 @@ VIII. MEM CONNECTIONS (STRUCTURAL)
 Internal (ANGLIA):
 • MEM–ANGLIA–ALFRED — survival preservation
 • MEM–ANGLIA–COMMON–LAW — precedent as memory
-• MEM–ANGLIA–MAGNA–CARTA — later depersonalization of authority
+• MEM–ANGLIA–MAGNA–CARTA — later depersonalization
 • MEM–ANGLIA–WAR–HASTINGS — elite replacement after unity
 • MEM–ANGLIA–WAR–YORKTOWN — defeat without dissolution
 
 Cross-Civilizational:
 • MEM–FRANCIA–CAPETIANS — dynastic unification via law
-• MEM–ROME–AUGUSTUS — unity before bureaucratic abstraction
+• MEM–ROME–AUGUSTUS — unity before abstraction
 • MEM–GERMANIA–OTTONIAN — kingship-centered consolidation
 
 ────────────────────────────────────────────────────────────
@@ -179,50 +161,73 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Survival enables unification.
 • Law scales authority more durably than force.
 • External recognition stabilizes internal unity.
-• Institutions can precede procedural autonomy.
-• Unity may exist before impersonality.
+• Institutions may lag consolidation.
+• Unity can precede impersonality.
 
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-X.a Student Exploration Mode
-This MEM supports curiosity-led exploration of unification, legitimacy,
-and institutional scaling under post-crisis conditions.
-
-X.b Multiple-Choice Exploration Logic
-Present one option set at a time (A–D).
-
-X.c Option Design Example
-A) What if Æthelstan had unified by force alone?
-B) Why does law bind unity more durably than conquest?
-C) How does external recognition affect sovereignty?
-D) Could unity survive a weak successor?
-
-X.d Student Agency Rule
-The student’s choice determines the next explored dimension.
+This MEM supports curiosity-led exploration of unification,
+legitimacy, and institutional scaling after survival crises.
 
 ────────────────────────────────────────────────────────────
-XI. GAME & ENGINE COMPATIBILITY
+XI. MEM INGEST BOOTSTRAP (v1.6 COMPLIANT)
 ────────────────────────────────────────────────────────────
-This MEM:
-• Biases consolidation-first options
-• Warns against premature bureaucratic abstraction
-• Shapes post-survival governance paths
+
+MEM INGEST CONFIRMED — MEM–ANGLIA–ATHELSTAN
+Status: ACTIVE
+Exploration options available.
+
+Choose ONE option:
+
+A) Primary Source Inquiry  
+   How Æthelstan’s law codes functioned as binding technology rather than
+   moral instruction.
+
+B) Primary Source Inquiry  
+   What the *Anglo-Saxon Chronicle* reveals—and omits—about unification.
+
+C) Secondary Source Inquiry  
+   John Keegan’s argument on law extending authority beyond coercion.
+
+D) Secondary Source Inquiry  
+   Kissinger’s legitimacy framework applied to early medieval kingship.
+
+E) Historical Continuity  
+   How Æthelstan enables Magna Carta without anticipating it.
+
+F) Biographical Inquiry  
+   Why Æthelstan unified without becoming a lawgiver-bureaucrat.
+
+G) Alternative History  
+   What fails if Æthelstan attempts unity through force alone.
+
+H) Compliance & Integrity Audit  
+   Test this MEM explicitly against CIV–MEM–TEMPLATE v1.6.
 
 ────────────────────────────────────────────────────────────
-XII. LANGUAGE & TONAL CONSTRAINTS
+XII. GAME & ENGINE COMPATIBILITY
 ────────────────────────────────────────────────────────────
-This file avoids inevitability, hero worship, and moral adjudication.
-History is presented as pressure and choice, not destiny.
+This MEM biases:
+• Consolidation-first strategies
+• Law-based unity over coercion
+• Caution against premature abstraction
 
 ────────────────────────────────────────────────────────────
-XIII. CANONICAL STATUS
+XIII. LANGUAGE & TONAL CONSTRAINTS
+────────────────────────────────────────────────────────────
+No inevitability. No hero worship. No moral adjudication.
+History is presented as pressure and choice.
+
+────────────────────────────────────────────────────────────
+XIV. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL and compliant with:
-• CIV–MEM–TEMPLATE v1.1
-• Primary Source Requirement (≥3 embedded quotations)
+• CIV–MEM–TEMPLATE v1.6
+• Primary Source Requirement
 • Distinguished Scholar Rule (ANGLIA)
+• Scholar Authorization Gate
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ATHELSTAN v1.4
+END OF FILE — MEM–ANGLIA–ATHELSTAN v1.5
 ────────────────────────────────────────────────────────────
