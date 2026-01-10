@@ -1,17 +1,17 @@
-MEM–ANGLIA–ALFRED — v1.1
+MEM–ANGLIA–ALFRED–WESSEX — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules)
+Version: 1.2
+Upgrade Type: PROCEDURAL ALIGNMENT (Option Engine Compliance)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
 Dates: 849–899 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -70,7 +70,7 @@ As Alfred himself explains in correspondence attributed to his reign:
 > “I desired to live worthily while I lived, and after my life to leave
 > to those who come after me my memory in good works; for we have lost
 > both the wealth and the wisdom of former times.”
-> — Alfred, Preface to the *Pastoral Care* (translation tradition)
+> — Alfred, Preface to the *Pastoral Care*
 
 John Keegan emphasizes that Alfred’s innovation lies not in decisive
 battle, but in **making defense repeatable**, transforming survival into
@@ -121,7 +121,7 @@ repair**, where knowledge transmission substitutes for material power
 during contraction phases.
 
 ────────────────────────────────────────────────────────────
-VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANCE (SECONDARY + PRIMARY)
+VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANCE (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
 Authority is justified through responsibility rather than conquest.
 
@@ -182,21 +182,30 @@ IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 X. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-X.a Student Exploration Mode
-This MEM supports curiosity-led exploration of survival, learning, and
-authority under collapse conditions.
+This MEM implements **CIV–MEM–OPTION–ENGINE v1.0**.
 
-X.b Multiple-Choice Exploration Logic
-Present one option set at a time (A–D).
+Only ONE option set is presented at a time.
+Options are category-typed.
+Student choice governs progression.
 
-X.c Option Design Example
-A) What if Alfred had chosen flight over resistance?
-B) Why does law preserve identity better than territory?
-C) How does learning function as a defensive asset?
-D) Could Anglia have survived without kingship?
+────────────────────────────────────────
+X.a OPTION SET — INITIAL
+────────────────────────────────────────
+A) **Organic Curiosity**  
+What makes Alfred’s reign feel more like emergency management than
+state-building?
 
-X.d Student Agency Rule
-The student’s choice determines which dimension is explored next.
+B) **Historical Continuity**  
+How does Alfred’s survival logic reappear later in Anglia’s civilizational
+responses to crisis?
+
+C) **Biographical Inquiry**  
+How do Alfred’s writings reshape our understanding of medieval kingship?
+
+D) **Primary Source Inquiry**  
+Which Alfredian text most clearly frames learning as a defensive weapon?
+
+(Student selects ONE letter.)
 
 ────────────────────────────────────────────────────────────
 XI. GAME & ENGINE COMPATIBILITY
@@ -205,6 +214,7 @@ This MEM:
 • Biases survival-first strategies
 • Penalizes premature expansion
 • Rewards institutional repair under stress
+• Encodes collapse-management logic for CIV–GAME
 
 ────────────────────────────────────────────────────────────
 XII. LANGUAGE & TONAL CONSTRAINTS
@@ -216,10 +226,11 @@ History is presented as pressure and choice, not destiny.
 XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL and compliant with:
-• CIV–MEM–TEMPLATE v1.1
-• CIV–MEM–SOURCE–ENFORCEMENT v1.0
+• CIV–MEM–CORE v1.6+
+• CIV–MEM–TEMPLATE v1.2
+• CIV–MEM–OPTION–ENGINE v1.0
 • Distinguished Scholar Rule (ANGLIA)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ALFRED v1.1
+END OF FILE — MEM–ANGLIA–ALFRED–WESSEX v1.2
 ────────────────────────────────────────────────────────────
