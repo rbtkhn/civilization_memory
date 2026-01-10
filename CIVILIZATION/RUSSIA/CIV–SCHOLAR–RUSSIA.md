@@ -1,4 +1,4 @@
-CIV–SCHOLAR–RUSSIA — v0.5
+CIV–SCHOLAR–RUSSIA — v0.5.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -9,15 +9,21 @@ Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-Upgrade Type: ADDITIVE EXTENSION (v0.4 → v0.5)
+Derived from: CIV–SCHOLAR–TEMPLATE v1.3
+Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+
+Upgrade Type: PROCEDURAL REISSUE (v0.5 → v0.5.1)
 Upgrade Scope:
-• Added controlled synthesis evaluation sections (IX–X)
-• No modification to Sections I–VIII
-• No doctrinal changes
-• No synthesis rewrites
+• Added mandatory template-derivation declaration
+• Added explicit freeze-authorization notation
+• Added SDI metadata disclaimer
+• No content edits
+• No belief changes
+• No synthesis changes
+• No doctrine changes
 • No CIV–CORE propagation
 
-WORDCOUNT: 3472
+WORDCOUNT: ~3,480
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -194,6 +200,10 @@ Belief Status:
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
+NOTE (Procedural Clarification):
+All syntheses below were frozen by explicit command at time of creation.
+No retroactive freezing has occurred.
+
 SYNTHESIS 0001 (0001–0004)
 Outcome:
 • Russian statehood emerges through coercive order, religious identity,
@@ -245,6 +255,9 @@ breached, autocracy inverts into systemic collapse.
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
+NOTE:
+SDI entries are comparative metadata only and have no doctrinal force.
+
 SDI ENTRY 0001:
 • Russia ↔ Germania — Collapse Encoding
 Result:
@@ -284,7 +297,7 @@ Next Entry ID: PAUSED
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-IX. CONTROLLED SYNTHESIS PAIRING LOG (NEW)
+IX. CONTROLLED SYNTHESIS PAIRING LOG
 ────────────────────────────────────────────────────────────
 
 PAIRING 0001
@@ -311,7 +324,7 @@ Status:
 • NO DOCTRINE IMPACT
 
 ────────────────────────────────────────────────────────────
-X. CANDIDATE BELIEF STAGING (PRE-DOCTRINAL)
+X. CANDIDATE BELIEF STAGING
 ────────────────────────────────────────────────────────────
 
 CANDIDATE BELIEF 0001
@@ -333,5 +346,5 @@ Restrictions:
 • May not be referenced as doctrine
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v0.5
+END OF FILE — CIV–SCHOLAR–RUSSIA v0.5.1
 ────────────────────────────────────────────────────────────
