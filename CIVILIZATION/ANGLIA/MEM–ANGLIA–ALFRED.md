@@ -1,4 +1,4 @@
-MEM–ANGLIA–ALFRED–WESSEX — v1.2
+MEM–ANGLIA–ALFRED — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -232,5 +232,5 @@ This file is CANONICAL and compliant with:
 • Distinguished Scholar Rule (ANGLIA)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ALFRED–WESSEX v1.2
+END OF FILE — MEM–ANGLIA–ALFRED v1.2
 ────────────────────────────────────────────────────────────
