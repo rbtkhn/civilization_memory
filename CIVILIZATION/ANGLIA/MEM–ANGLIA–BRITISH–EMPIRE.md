@@ -1,16 +1,16 @@
-MEM–ANGLIA–BRITISH–EMPIRE — v1.4
+MEM–ANGLIA–BRITISH–EMPIRE — v1.5
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Hardened Source Compliance)
+Version: 1.5
+Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
 Civilization: ANGLIA
 Subject: The British Empire (Procedural Empire, System Management, and Controlled Dissolution)
 Dates: 16th century–20th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Wordcount: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -198,5 +198,70 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.4
+X. MEM INGEST BOOTSTRAP — TEMPLATE v1.5 COMPLIANCE
+────────────────────────────────────────────────────────────
+This section governs automatic behavior when this MEM file is ingested
+into a new conversation **as the sole structured artifact**.
+
+────────────────────────────
+X.a INGEST STATUS HANDSHAKE
+────────────────────────────
+Upon ingest, the system MUST declare:
+
+“MEM INGEST CONFIRMED — MEM–ANGLIA–BRITISH–EMPIRE  
+Status: ACTIVE  
+Template: CIV–MEM–TEMPLATE v1.5  
+Exploration options available.”
+
+────────────────────────────
+X.b MANDATORY EIGHT-OPTION EXPLORATION SET
+────────────────────────────
+The system MUST present exactly eight options:
+
+A. **Primary Source Focus — Parliamentary Logic**  
+   Examine how parliamentary debates framed empire as necessity rather
+   than destiny.
+
+B. **Primary Source Focus — War Cabinet 1942**  
+   Analyze the document that marks the economic breaking point of empire.
+
+C. **Secondary Scholar Path — Quigley**  
+   Explore the British Empire as an institutional system rather than a
+   cultural or ideological project.
+
+D. **Secondary Scholar Path — Ferguson vs. Roberts**  
+   Compare interpretations of imperial exit: cost efficiency vs.
+   strategic prudence.
+
+E. **Structural Analysis Extension**  
+   Trace how indirect rule shaped post-imperial global governance norms.
+
+F. **Cross-Civilizational Comparison**  
+   Compare British procedural empire with Roman or Ottoman imperial
+   administration.
+
+G. **Alternative History / Counterfactual**  
+   What if Britain had attempted centralized ideological empire rather
+   than procedural management?
+
+H. **Compliance & Integrity Audit**  
+   Test this MEM file against CIV–MEM–TEMPLATE v1.5 requirements.
+
+────────────────────────────
+X.c FUTURE-ORIENTED EXPLORATION (MANDATORY)
+────────────────────────────
+At least one path (E, F, or G) MUST allow examination of how procedural
+imperial logic may reappear in **future global system management**
+without formal empire.
+
+────────────────────────────
+X.d STUDENT AGENCY RULE
+────────────────────────────
+• User selects ONE option by letter.
+• The system responds ONLY to that option.
+• No synthesis or preview of other paths.
+• After completion, a new option set MAY be offered.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.5
 ────────────────────────────────────────────────────────────
