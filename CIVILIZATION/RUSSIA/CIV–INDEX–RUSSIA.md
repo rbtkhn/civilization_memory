@@ -1,4 +1,4 @@
-CIV–INDEX–RUSSIA — v1.5
+CIV–INDEX–RUSSIA — v1.6
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -9,7 +9,14 @@ Dates: c. 800 AD–present
 Class: CIV (Index)
 Last Update: January 2026
 
-Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
+Template Alignment: CIV–CORE–TEMPLATE v1.6.1 (Index-Compatible)
+
+Upgrade Type: ADDITIVE · METADATA EXTENSION ONLY
+Upgrade Note:
+• Added Academic References Registry (Section III)
+• No changes to MEM register sections A–H
+• No interpretation, synthesis, or doctrine added
+• No impact on CIV–CORE or SCHOLAR authority boundaries
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -135,11 +142,46 @@ H) OTHER / MISC
 • MEM–RUSSIA–CONGRESS–OF–VIENNA.md
 
 ────────────────────────────────────────────────────────────
+III. ACADEMIC REFERENCES REGISTRY (RUSSIA)
+────────────────────────────────────────────────────────────
+This registry defines **approved secondary-source engagement** for
+MEM–RUSSIA files.
+
+Rules:
+• Registrational only
+• No ranking or endorsement
+• No interpretive summaries
+• No doctrinal authority
+• Inclusion does not imply agreement
+• Engagement is mandatory; deference is forbidden
+
+Russian Canonical Historiography:
+• Vasily Klyuchevsky — state formation, legitimacy grammar
+• Sergey Solovyov — longue durée civilizational continuity
+• Nikolai Karamzin — dynastic historiography, early Rus’
+
+Ethnogenesis & Early Rus’:
+• Lev Gumilev — steppe interaction, ethnogenesis
+• Boris Rybakov — archaeology, pre-Christian substrate
+• Mikhail Tikhomirov — medieval Rus’ institutions
+
+Imperial, Military, and Endurance History:
+• Evgeny Tarle — Napoleonic invasion, mobilization under pressure
+• John Erickson — WWII operational history
+• David Glantz — modern military historiography (contextual use)
+
+Comparative & External Analysts (Controlled Use):
+• Dominic Lieven — empire and grand strategy
+• Orlando Figes — social fracture and cultural history
+• Robert Massie — biographical synthesis
+• Henry Kissinger — external grand-strategic framing
+
+────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-WORDCOUNT: 556
+WORDCOUNT: ~830
 TOTAL REGISTERED FILES: Seventy-nine (79) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v1.5
+END OF FILE — CIV–INDEX–RUSSIA — v1.6
 ────────────────────────────────────────────────────────────
