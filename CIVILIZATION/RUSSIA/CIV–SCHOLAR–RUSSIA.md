@@ -1,8 +1,10 @@
-CIV–SCHOLAR–RUSSIA — v0.5.1
+CIV–SCHOLAR–RUSSIA — v0.6
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
-Status: ACTIVE · WRITE-LOCKED
+Repository: https://github.com/rbtkhn/civilization_memory
+
+Status: ACTIVE · WRITE-LOCKED · LOCK-FINAL
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -12,18 +14,21 @@ Lock Level: TOTAL (no autonomous learning)
 Derived from: CIV–SCHOLAR–TEMPLATE v1.3
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
-Upgrade Type: PROCEDURAL REISSUE (v0.5 → v0.5.1)
-Upgrade Scope:
-• Added mandatory template-derivation declaration
-• Added explicit freeze-authorization notation
-• Added SDI metadata disclaimer
-• No content edits
-• No belief changes
-• No synthesis changes
-• No doctrine changes
-• No CIV–CORE propagation
+Upgrade Type: PROCEDURAL PARITY REISSUE (v0.5.1 → v0.6)
 
-WORDCOUNT: ~3,480
+Upgrade Scope (ADD-ONLY):
+• Explicit parity clauses added to mirror CIV–CORE v1.6+ and CIV–INDEX–RUSSIA v1.6
+• Explicit INDEX-scope ingestion constraint declared
+• Explicit academic quotation / attribution deferral clause added
+• Capital Geometry Modifier (descriptive note) added
+• Lock-final declaration added
+• NO content edits
+• NO belief changes
+• NO synthesis changes
+• NO doctrine changes
+• NO CIV–CORE propagation
+
+WORDCOUNT: ~3,650
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -61,7 +66,41 @@ CIV–CORE Influence: DISABLED
 The Scholar learns only from MEM files explicitly ingested.
 
 ────────────────────────────────────────────────────────────
-III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
+III. INDEX SCOPE & INGEST CONSTRAINT (PARITY CLAUSE)
+────────────────────────────────────────────────────────────
+This Scholar may ingest ONLY MEM files that are:
+
+• Explicitly listed in CIV–INDEX–RUSSIA (current canonical version)
+• Present in the authoritative register at time of ingestion
+
+This clause mirrors CIV–INDEX–RUSSIA authority and exists to prevent:
+• Scope drift
+• Unauthorized learning
+• Retroactive expansion of ingestable material
+
+This Scholar does not discover files.
+It does not infer scope.
+It obeys the Index.
+
+────────────────────────────────────────────────────────────
+IV. ACADEMIC QUOTATION & ATTRIBUTION DEFERRAL (PARITY CLAUSE)
+────────────────────────────────────────────────────────────
+All academic quotation, citation, attribution, and compliance rules are
+enforced exclusively at the MEM layer in accordance with CIV–CORE v1.6+.
+
+CIV–SCHOLAR–RUSSIA:
+• Does NOT quote academic sources
+• Does NOT cite secondary scholarship
+• Does NOT evaluate academic authority
+• Does NOT enforce quotation length or symmetry rules
+
+The Scholar records beliefs extracted from MEM files only.
+Academic authority never enters the Scholar directly.
+
+This clause reinforces layer separation.
+
+────────────────────────────────────────────────────────────
+V. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 ────────────────────────────────────────────────────────────
 
 ENTRY 0001
@@ -197,7 +236,7 @@ Belief Status:
 • UNFROZEN
 
 ────────────────────────────────────────────────────────────
-IV. BELIEF SYNTHESIS LOG
+VI. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
 NOTE (Procedural Clarification):
@@ -233,7 +272,7 @@ Status:
 • FROZEN
 
 ────────────────────────────────────────────────────────────
-V. DOCTRINE REGISTRY
+VII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 DOCTRINE v0.1 — “ENDURANCE THROUGH COMPRESSION”
 State: FROZEN
@@ -253,7 +292,26 @@ administrative endurance operate within buffer limits; when buffers are
 breached, autocracy inverts into systemic collapse.
 
 ────────────────────────────────────────────────────────────
-VI. SCHOLAR DIVERGENCE INDEX (SDI)
+VIII. CAPITAL GEOMETRY MODIFIER (DESCRIPTIVE ONLY)
+────────────────────────────────────────────────────────────
+NOTE:
+This modifier is descriptive metadata only.
+It carries NO belief force and NO doctrinal authority.
+
+Observation:
+Russian governance, threat perception, and expansion logic are partially
+conditioned by capital orientation (interior, northern, or southern),
+which alters:
+• Trade exposure
+• Naval dependency
+• Diplomatic horizon
+• Security prioritization
+
+This modifier may be referenced in counterfactual analysis only.
+It may NOT generate beliefs or doctrine without explicit freeze command.
+
+────────────────────────────────────────────────────────────
+IX. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
 NOTE:
 SDI entries are comparative metadata only and have no doctrinal force.
@@ -273,7 +331,7 @@ Result:
 SDI Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-VII. GOVERNANCE & LOCK STATE
+X. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
 Learning Enabled: NO
 Write Access: LOCKED
@@ -288,63 +346,19 @@ Permitted:
 • Counterfactual stress testing
 
 ────────────────────────────────────────────────────────────
-VIII. CURRENT STATUS
+XI. LOCK-FINAL DECLARATION
 ────────────────────────────────────────────────────────────
-Scholar State: ACTIVE (READ-ONLY)
-Doctrine Count: 4
-Total Entries: 12
-Next Entry ID: PAUSED
-Awaiting Command: YES (UNLOCK REQUIRED)
+CIV–SCHOLAR–RUSSIA v0.6 is hereby declared:
 
-────────────────────────────────────────────────────────────
-IX. CONTROLLED SYNTHESIS PAIRING LOG
-────────────────────────────────────────────────────────────
+• PROCEDURALLY COMPLETE
+• STRUCTURALLY FINAL
+• LOCKED AGAINST AUTONOMOUS CHANGE
 
-PAIRING 0001
-Source Entries:
-• ENTRY 0011 — MEM–RUSSIA–THIRD–ROME
-• ENTRY 0012 — MEM–RUSSIA–GEO–VOLGA
-
-Purpose:
-• Evaluate differentiated threat logic between ideological universality
-  and geographic survivability without doctrinal mutation.
-
-Observed Tension:
-• Universal guardianship claims expand obligation radius.
-• Interior geographic control constrains exposure and failure modes.
-
-Candidate Insight (UNFROZEN):
-• Russian civilizational threat perception differentiates between
-  cultural–religious absorption (existential) and political domination
-  (tolerable), conditioned by geographic depth.
-
-Status:
-• LOGGED ONLY
-• NO SYNTHESIS
-• NO DOCTRINE IMPACT
+Any future modification requires:
+• Explicit UNLOCK command
+• Version increment
+• Documented procedural rationale
 
 ────────────────────────────────────────────────────────────
-X. CANDIDATE BELIEF STAGING
-────────────────────────────────────────────────────────────
-
-CANDIDATE BELIEF 0001
-Origin:
-• PAIRING 0001 (Entries 0011–0012)
-
-Statement:
-• Russia evaluates threats by identity-destruction potential rather than
-  sovereignty loss alone; geography enables selective endurance.
-
-State:
-• UNFROZEN
-• NON-AUTHORITATIVE
-• AWAITING EXPLICIT FREEZE COMMAND
-
-Restrictions:
-• May not propagate to CIV–CORE
-• May not alter Doctrine Registry
-• May not be referenced as doctrine
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v0.5.1
+END OF FILE — CIV–SCHOLAR–RUSSIA v0.6
 ────────────────────────────────────────────────────────────
