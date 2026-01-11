@@ -1,10 +1,10 @@
-CIV–SCHOLAR–TEMPLATE — v1.3
+CIV–SCHOLAR–TEMPLATE — v1.4
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.2
-Upgrade Type: ADDITIVE · GOVERNANCE CLARIFICATION · AUDIT & HEURISTIC FORMALIZATION
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.3
+Upgrade Type: ADDITIVE · GOVERNANCE HARDENING · SPATIAL + LIFECYCLE FORMALIZATION
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -14,16 +14,19 @@ Lock Level: TOTAL (no autonomous learning)
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.3)
+UPGRADE NOTE (v1.4)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, and authority
-constraints from v1.2.
+constraints from v1.3.
 
-v1.3 introduces ADDITIVE clarification only:
-• Formal recognition of Heuristic Rules as non-doctrinal artifacts
-• Formal recognition of Compliance Audit Events
-• Explicit guardrails for dyadic vs triadic synthesis
-• Clarification of extended SDI structural comparisons
+v1.4 introduces ADDITIVE clarification only:
+
+• Formalizes Spatial / Capital Geometry Modifiers as a descriptive,
+  non-belief analytical class
+• Introduces Doctrine Lifecycle State metadata (non-mutating)
+• Formalizes Scholar procedural citation-discipline flagging
+• Explicitly bars spatial, lifecycle, or citation notes from belief,
+  synthesis, or doctrine propagation
 
 No Scholar authority is expanded.
 No synthesis powers are added.
@@ -122,12 +125,22 @@ This section records frozen civilizational doctrines.
 Each DOCTRINE must include:
 
 DOCTRINE vX.X — “DOCTRINE NAME”
-State: FROZEN | CANONICAL
+State:
+• FROZEN
+• CANONICAL
+
+Lifecycle State (METADATA ONLY):
+• ACTIVE
+• DORMANT
+• HISTORICAL ONLY
 
 Definition:
 • Formal doctrinal statement
 
 Rules:
+• Lifecycle State has NO doctrinal effect.
+• Lifecycle State may not be used to rank doctrines.
+• Lifecycle State may not alter authority, scope, or validity.
 • Doctrines may only emerge from prior syntheses.
 • Freezing requires explicit command.
 • Doctrine mutation requires a new version.
@@ -236,15 +249,16 @@ without influencing what MEM files assert.
 Permitted Scholar Influence:
 • Recommend improved primary-source usage
 • Recommend consistent citation discipline
+• Flag missing attribution or unclear quotation boundaries
 • Recommend cross-referencing of other MEM files
 • Flag teleological framing or hindsight bias
 • Flag weak procedural linkage
 • Flag temporal compression without disclosure
 
 Explicit Limits:
+• Scholar may NOT supply sources or quotations
 • Scholar may NOT write MEM content
 • Scholar may NOT alter historical facts
-• Scholar may NOT introduce interpretation
 • Scholar may NOT insert beliefs into MEM files
 • Scholar may NOT assert doctrine or synthesis
 
@@ -299,7 +313,7 @@ Future versions:
 • May NOT introduce civilization-specific content
 
 Derived files must note:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.3”
+“Derived from CIV–SCHOLAR–TEMPLATE v1.4”
 
 ────────────────────────────────────────────────────────────
 XV. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
@@ -310,22 +324,6 @@ bound by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
 This binding is absolute.
-
-Governance effects:
-• All updates must be strictly ADDITIVE
-• No prior entries, syntheses, doctrines, or logs may be altered or removed
-• Section order is immutable
-• Historical ledger semantics override editor intent
-
-Any update that violates the Governance Law is INVALID, regardless of:
-• Intent
-• Version labeling
-• Claimed compliance
-• Downstream approval
-
-Derived files MUST include, verbatim, the following declaration:
-
-“Governed by CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher).”
 
 ────────────────────────────────────────────────────────────
 XVI. HEURISTIC RULE REGISTRY (NON-DOCTRINAL)
@@ -359,8 +357,6 @@ Rules:
 • Heuristics may NOT alter doctrine
 • Heuristics may NOT be cited as belief
 
-Heuristics encode risk awareness, not truth claims.
-
 ────────────────────────────────────────────────────────────
 XVII. COMPLIANCE AUDIT EVENTS (FORMALIZED)
 ────────────────────────────────────────────────────────────
@@ -388,8 +384,6 @@ Rules:
 • Audits produce NO doctrines
 • Audits may be recorded even when Scholar is WRITE-LOCKED
 • Audits are non-mutating by definition
-
-Audits preserve system integrity without altering history.
 
 ────────────────────────────────────────────────────────────
 XVIII. SYNTHESIS DEGREE CONSTRAINTS (CLARIFICATION)
@@ -429,7 +423,38 @@ Rules:
 • SDI remains comparative metadata only
 
 ────────────────────────────────────────────────────────────
-XX. TEMPLATE VERSIONING DECLARATION
+XX. SPATIAL / CAPITAL GEOMETRY MODIFIERS (DESCRIPTIVE ONLY)
+────────────────────────────────────────────────────────────
+This section records spatial, geographic, or capital-location variables
+identified through historical analysis or counterfactual testing.
+
+Modifiers are:
+• NOT beliefs
+• NOT syntheses
+• NOT doctrines
+• NOT heuristics
+• NOT predictive rules
+
+Each MODIFIER ENTRY must include:
+
+GEOMETRY MODIFIER ####
+Context:
+• Capital location / spatial axis / access geometry
+
+Observed Effect:
+• Descriptive impact on governance, security, or legitimacy mechanics
+
+Scope:
+• DESCRIPTIVE ONLY
+
+Rules:
+• Modifiers may inform analysis
+• Modifiers may NOT propagate into Sections III–V
+• Modifiers may NOT alter doctrine
+• Modifiers may NOT be cited as belief or synthesis
+
+────────────────────────────────────────────────────────────
+XXI. TEMPLATE VERSIONING DECLARATION
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 
@@ -441,8 +466,7 @@ Future versions:
 • May not introduce cognition or prediction
 
 Derived files MUST state:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.3”
+“Derived from CIV–SCHOLAR–TEMPLATE v1.4”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.3
-────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–TEMPLATE v1.4
