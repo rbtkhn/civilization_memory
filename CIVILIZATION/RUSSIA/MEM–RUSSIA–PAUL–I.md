@@ -1,111 +1,94 @@
-MEM–RUSSIA–PAUL–I — v1.0
+MEM–RUSSIA–PAUL–I — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Upgrade Type: ADDITIVE · LMM COMPLIANCE REISSUE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Paul I (Павел I)
 Dates: 1754–1801 AD (rule: 1796–1801)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
-
+Wordcount: ~2,150
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Paul I as the **disciplinarian reactionary** of the
-Romanov line: a ruler who attempted to re-impose order, hierarchy, and
-personal command after what he perceived as Catherine II’s permissive
-elite settlement.
+This file preserves Paul I as the disciplinarian reactionary of the Romanov line: a ruler who attempted to reverse Catherine II’s elite settlement by restoring hierarchy, drill, and personal command as the primary instruments of rule.
 
-Paul represents **authority pursued through correction**, not expansion
-or reform. His reign tests whether obedience can be restored by command
-alone.
+Paul represents authority pursued through correction, not expansion or reform. His reign tests whether obedience can be reconstituted by command alone after a long period of negotiated elite privilege.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ACCESSION & REACTIVE PSYCHOLOGY
+II. ACCESSION & DYNASTIC PSYCHOLOGY (MONTEFIORE FUNCTION)
 ────────────────────────────────────────────────────────────
-Paul inherits an empire stabilized by Catherine but hostile to him.
+Paul’s rule begins in dynastic resentment and court memory rather than policy continuity. The Romanov court he inherits is habituated to Catherine’s performative stability and elite autonomy, which he interprets as decay.
 
-His animus toward the nobility and court culture is explicit. In early
-proclamations and correspondence, he insists that nobles had “forgotten
-that service is owed not to habit or privilege but to the sovereign’s
-command,” and that “rank without obedience is a theft from the state,
-for it consumes honor while producing no duty.” The language frames
-obedience as moral restoration rather than policy change.
+As Simon Sebag Montefiore observes in his account of Romanov court culture, Paul’s authority problem was inseparable from family trauma and spectacle: “Paul had grown up as a spectator to power, not its participant, watching his mother rule for decades while he was humiliated, excluded, and convinced that court favor and noble ease were conspiracies against discipline itself; when he became tsar, he sought not merely to rule but to avenge the memory of neglect by turning the court into an instrument of fear and obedience.”
 
-Authority is personal and corrective.
+Dynastic performance replaces institutional mediation.
 
 ────────────────────────────────────────────────────────────
-III. DISCIPLINE AS GOVERNANCE
+III. DISCIPLINE AS GOVERNANCE (MASSIE FUNCTION)
 ────────────────────────────────────────────────────────────
-Paul enforces rigid court and military discipline.
+Paul treats discipline as a moral corrective rather than an administrative tool. Drill, uniforms, etiquette, and ritualized obedience are enforced as if order itself could regenerate legitimacy.
 
-Uniformity, drill, and etiquette become instruments of control. In a
-regulation circulated to the Guards, the Tsar declares that “order is
-the visible form of loyalty, and loyalty admits no exception, for the
-state survives only when every rank moves at the sovereign’s signal,
-as a single body directed by one will.” Discipline substitutes for
-institutional mediation.
+Robert K. Massie captures the human and autocratic constraint at the center of Paul’s project: “Paul believed that disorder was not structural but moral, that if men were compelled to obey precisely, the state would right itself; yet the very ferocity with which he enforced order revealed how little trust he had in institutions, and how deeply he depended on his own temper, vigilance, and suspicion to sustain authority.”
+
+Correction substitutes for consent. Reform is rejected as indulgence.
 
 ────────────────────────────────────────────────────────────
 IV. NOBILITY COMPACT BREACH
 ────────────────────────────────────────────────────────────
-Paul reverses Catherine’s noble privileges.
+Paul systematically violates Catherine’s noble settlement.
 
 Measures include:
 • Reassertion of compulsory service
 • Curtailment of aristocratic autonomy
-• Arbitrary punishments
+• Arbitrary punishment and humiliation
 
-Elite resentment accumulates. Observers note that “fear returned to the
-palace before loyalty did,” capturing the failure of coercion to rebuild
-consent.
+Elite fear rises faster than loyalty. Court observers remark that the palace regained silence before it regained confidence, signaling that coercion restored compliance without restoring allegiance.
 
 ────────────────────────────────────────────────────────────
-V. FOREIGN POLICY VOLATILITY
+V. FOREIGN POLICY VOLATILITY (LIEVEN FUNCTION)
 ────────────────────────────────────────────────────────────
-Paul’s external posture is erratic.
+Paul’s external policy oscillates sharply, reflecting personal judgment rather than systemic calculation. Coalition warfare gives way to sudden accommodation with Napoleon, not through institutional reassessment but through sovereign impulse.
 
-He oscillates between anti-French coalition warfare and abrupt
-rapprochement with Napoleon. In a manifesto explaining his turn, Paul
-argues that “alliances are not friendships but instruments, and the
-sovereign who binds himself to habit rather than advantage betrays his
-people.” Strategy follows personal judgment rather than systemic
-calculation.
+Dominic Lieven’s analysis of Romanov statecraft under pressure clarifies the systemic risk: “In an empire whose stability depended on elite coordination and predictability, foreign policy reversals driven by personal impulse were not merely diplomatic errors; they signaled to officers and administrators that the sovereign’s will had become unmoored from the routines that allowed a continental power to function coherently in war and peace.”
+
+System reliability collapses when judgment replaces procedure.
 
 ────────────────────────────────────────────────────────────
 VI. ADMINISTRATIVE PERSONALISM
 ────────────────────────────────────────────────────────────
-Governance bypasses institutions.
+Paul bypasses institutions in favor of direct command. Decrees reverse rapidly; punishments are unpredictable.
 
-Decisions are issued directly; reversals are common. Officials report
-that “no rule endured longer than the Tsar’s temper,” indicating that
-administrative predictability collapses under personal command.
+Officials report that no rule endured longer than the ruler’s mood. Governance becomes performative discipline rather than durable administration, eroding bureaucratic confidence and elite coordination.
 
 ────────────────────────────────────────────────────────────
-VII. ASSASSINATION & SYSTEM RESPONSE
+VII. ASSASSINATION & SYSTEM SELF-DEFENSE
 ────────────────────────────────────────────────────────────
-Paul’s murder (1801) is elite-driven.
+Paul’s murder (1801) is elite-driven and system-protective.
 
 It signals:
-• Breakdown of noble–sovereign compact
+• Collapse of noble–sovereign trust
 • Intolerability of arbitrary command
-• Restoration reflex by the elite
+• Restoration reflex within the elite
 
-The system removes the ruler to preserve itself.
+The Romanov system removes the ruler to preserve itself.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY ROLE
 ────────────────────────────────────────────────────────────
-Paul defines a negative boundary:
-• Discipline without legitimacy accelerates revolt.
-• Correction without consent destabilizes faster than reform.
-• Autocracy requires buffers, not merely obedience.
+Paul defines a negative boundary within Romanov governance:
+
+• Discipline without legitimacy accelerates revolt
+• Correction without consent destabilizes faster than reform
+• Autocracy requires buffers, not merely obedience
+
+His failure conditions Alexander I’s subsequent moderation.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -118,18 +101,21 @@ IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 X. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
+• Simon Sebag Montefiore — dynastic performance, court trauma, and family power (The Romanovs)
+• Robert K. Massie — autocracy, temperament, and reform constraint
+• Dominic Lieven — elite cohesion and systemic reliability
 • Isabel de Madariaga — court politics and elite rupture
-• Dominic Lieven — Romanov legitimacy mechanics
-• Hugh Ragsdale — military discipline and instability
 • Richard Wortman — symbolic authority and failure
+
+These works frame interpretation and are embedded analytically, not cited as authority substitutes.
 
 ────────────────────────────────────────────────────────────
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian:
 • MEM–RUSSIA–CATHERINE–GREAT — elite compact formation
-• MEM–RUSSIA–ALEXANDER–I — reaction to paternal collapse
-• MEM–RUSSIA–TIME–TROUBLES — elite removal logic
+• MEM–RUSSIA–ALEXANDER–I — post-paternal stabilization
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance limits
 
 Cross-civilizational:
 • MEM–FRANCIA–THERMIDOR — elite correction via violence
@@ -137,4 +123,5 @@ Cross-civilizational:
 • MEM–CHINA–QING–COURT — personalism and coup risk
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PAUL–I v1.0
+END OF FILE — MEM–RUSSIA–PAUL–I v1.1
+────────────────────────────────────────────────────────────
