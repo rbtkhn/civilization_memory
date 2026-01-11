@@ -1,4 +1,4 @@
-CIV–INDEX–[CIVILIZATION] — v1.5
+CIV–INDEX–TEMPLETE — v1.5
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
