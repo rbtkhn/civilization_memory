@@ -1,8 +1,10 @@
-CIV–INDEX–RUSSIA — v1.6
+CIV–INDEX–RUSSIA — v1.7
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
+Version: 1.7
+Upgrade Type: ADDITIVE · REGISTER RECONCILIATION + NAMING NORMALIZATION
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -10,25 +12,21 @@ Class: CIV (Index)
 Last Update: January 2026
 
 Template Alignment: CIV–CORE–TEMPLATE v1.6.1 (Index-Compatible)
-
-Upgrade Type: ADDITIVE · METADATA EXTENSION ONLY
-Upgrade Note:
-• Added Academic References Registry (Section III)
-• No changes to MEM register sections A–H
-• No interpretation, synthesis, or doctrine added
-• No impact on CIV–CORE or SCHOLAR authority boundaries
+Governance Parity: CORE–RUSSIA MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
 ────────────────────────────────────────────────────────────
 This file is the authoritative register of all MEM–RUSSIA files.
 
-INDEX GOVERNANCE RULES (MANDATORY):
-• Section order is fixed and identical across all CIV–INDEX files.
-• Entries are registrational only: no interpretation, synthesis, or doctrine.
-• Every new MEM–RUSSIA file must be added immediately upon creation.
-• Renames or scope changes must be reflected the same day.
-• This index is the source of truth for:
+INDEX GOVERNANCE RULES (REINFORCED · CORE-MATCHED):
+• Registrational only — no interpretation, synthesis, or doctrine
+• Section order is fixed and identical across all CIV–INDEX files
+• Every MEM–RUSSIA object MUST appear exactly once
+• Filenames MUST match canonical MEM filenames verbatim
+• Renames or scope changes MUST be reflected immediately
+• Redundancy with CIV–CORE is intentional and reinforcing
+• This index is the sole source of truth for:
   – Scholar-mode discovery scope
   – Parity enforcement across civilizations
   – CIV–CORE–RUSSIA synchronization boundaries
@@ -48,51 +46,50 @@ G. PERSON
 H. OTHER / MISC
 
 ────────────────────────────────────────────────────────────
-II. FILE REGISTER — RUSSIA
+II. FILE REGISTER — RUSSIA (RECONCILED)
 ────────────────────────────────────────────────────────────
 
 A) GEO
-• MEM–RUSSIA–GEO–DNEIPER.md
-• MEM–RUSSIA–GEO–VOLGA.md
-• MEM–RUSSIA–GEO–DON–RIVER.md
-• MEM–RUSSIA–GEO–AZOV–SEA.md
-• MEM–RUSSIA–GEO–BLACK–SEA.md
-• MEM–RUSSIA–GEO–BALTIC–SEA.md
-• MEM–RUSSIA–GEO–CASPIAN–SEA.md
-• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
-• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
 • MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
-• MEM–RUSSIA–GEO–STEPPE.md
-• MEM–RUSSIA–GEO–FOREST–ZONE.md
-• MEM–RUSSIA–GEO–TAIGA.md
-• MEM–RUSSIA–GEO–TUNDRA.md
-• MEM–RUSSIA–GEO–SIBERIA.md
+• MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
+• MEM–RUSSIA–GEO–AZOV–SEA.md
+• MEM–RUSSIA–GEO–BALTIC–SEA.md
+• MEM–RUSSIA–GEO–BLACK–SEA.md
+• MEM–RUSSIA–GEO–CASPIAN–SEA.md
 • MEM–RUSSIA–GEO–CAUCASUS.md
 • MEM–RUSSIA–GEO–CRIMEA.md
-• MEM–RUSSIA–GEO–WHITE–SEA.md
-• MEM–RUSSIA–GEO–URALS.md
-• MEM–RUSSIA–GEO–NEVA.md
+• MEM–RUSSIA–GEO–DNEIPER–RIVER.md
+• MEM–RUSSIA–GEO–DON–RIVER.md
+• MEM–RUSSIA–GEO–FOREST–ZONE.md
 • MEM–RUSSIA–GEO–LAKE–BAIKAL.md
 • MEM–RUSSIA–GEO–LAKE–LADOGA.md
+• MEM–RUSSIA–GEO–NEVA–RIVER.md
+• MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
+• MEM–RUSSIA–GEO–SIBERIA.md
+• MEM–RUSSIA–GEO–STEPPE.md
+• MEM–RUSSIA–GEO–TAIGA.md
+• MEM–RUSSIA–GEO–TUNDRA.md
+• MEM–RUSSIA–GEO–URALS.md
+• MEM–RUSSIA–GEO–VOLGA–RIVER.md
+• MEM–RUSSIA–GEO–WHITE–SEA.md
 
 B) DYNASTY
 • MEM–RUSSIA–DYNASTY–RURIKID.md
 • MEM–RUSSIA–DYNASTY–ROMANOV.md
 
 C) WAR
-• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
+• MEM–RUSSIA–WAR–BORODINO.md
+• MEM–RUSSIA–WAR–CRIMEAN.md
 • MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md
+• MEM–RUSSIA–WAR–GREAT–NORTHERN.md
+• MEM–RUSSIA–WAR–LIVONIAN.md
+• MEM–RUSSIA–WAR–NAPOLEON.md
 • MEM–RUSSIA–WAR–OTTOMAN.md
 • MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
-• MEM–RUSSIA–WAR–GREAT–NORTHERN.md
 • MEM–RUSSIA–WAR–POLTAVA.md
-• MEM–RUSSIA–WAR–LIVONIAN.md
-• MEM–RUSSIA–WAR–SEVEN–YEARS.md
-• MEM–RUSSIA–WAR–CRIMEAN.md
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
-• MEM–RUSSIA–WAR–VIKINGS.md
-• MEM–RUSSIA–WAR–BORODINO.md
-• MEM–RUSSIA–WAR–NAPOLEON.md
+• MEM–RUSSIA–WAR–SEVEN–YEARS.md
+• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
 
 D) LAW
 • MEM–RUSSIA–LAW–SOVEREIGNTY–ABSOLUTE.md
@@ -101,29 +98,38 @@ E) ECON
 • MEM–RUSSIA–ECON–ENERGY–EXPORT–STATECRAFT.md
 
 F) RELIGION
-• MEM–RUSSIA–ORTHODOX–CHRISTIAN.md
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY.md
 • MEM–RUSSIA–THIRD–ROME.md
 
 G) PERSON
 • MEM–RUSSIA–RURIK.md
-• MEM–RUSSIA–OLEG–NOVGORAD.md
+• MEM–RUSSIA–OLEG–NOVGOROD.md
 • MEM–RUSSIA–VLADIMIR–GREAT.md
 • MEM–RUSSIA–YAROSLAV–WISE.md
 • MEM–RUSSIA–ALEXANDER–NEVSKY.md
 • MEM–RUSSIA–IVAN–III.md
 • MEM–RUSSIA–IVAN–IV.md
+• MEM–RUSSIA–MICHAEL–ROMANOV.md
+• MEM–RUSSIA–ALEXEI–ROMANOV.md
+• MEM–RUSSIA–FYODOR–III.md
 • MEM–RUSSIA–PETER–GREAT.md
+• MEM–RUSSIA–ELIZABETH.md
 • MEM–RUSSIA–CATHERINE–GREAT.md
-• MEM–RUSSIA–POTEMPKIN.md
+• MEM–RUSSIA–PAUL–I.md
+• MEM–RUSSIA–ALEXANDER–I.md
+• MEM–RUSSIA–ALEXANDER–II.md
+• MEM–RUSSIA–NICHOLAS–II.md
 • MEM–RUSSIA–PANIN.md
+• MEM–RUSSIA–POTEMPKIN.md
 • MEM–RUSSIA–SUVOROV.md
 • MEM–RUSSIA–KUTUZOV.md
-• MEM–RUSSIA–ALEXANDER–I.md
+• MEM–RUSSIA–LENIN.md
+• MEM–RUSSIA–STALIN.md
 
 H) OTHER / MISC
 • MEM–RUSSIA–PRIMARY–CHRONICLE.md
 • MEM–RUSSIA–KIEVAN–RUS.md
-• MEM–RUSSIA–NOVGORAD.md
+• MEM–RUSSIA–NOVGOROD.md
 • MEM–RUSSIA–KIEV.md
 • MEM–RUSSIA–MUSCOVY.md
 • MEM–RUSSIA–FINLAND.md
@@ -138,50 +144,49 @@ H) OTHER / MISC
 • MEM–RUSSIA–JAPAN.md
 • MEM–RUSSIA–SERFDOM.md
 • MEM–RUSSIA–EMANCIPATION.md
+• MEM–RUSSIA–CONGRESS–VIENNA.md
 • MEM–RUSSIA–VARANGIANS.md
-• MEM–RUSSIA–CONGRESS–OF–VIENNA.md
 
 ────────────────────────────────────────────────────────────
-III. ACADEMIC REFERENCES REGISTRY (RUSSIA)
+III. ACADEMIC REFERENCES REGISTRY (RUSSIA · CORE-ALIGNED)
 ────────────────────────────────────────────────────────────
-This registry defines **approved secondary-source engagement** for
-MEM–RUSSIA files.
+This registry enforces **secondary-source engagement rules** identical
+to CIV–CORE–RUSSIA.
 
-Rules:
-• Registrational only
-• No ranking or endorsement
-• No interpretive summaries
-• No doctrinal authority
-• Inclusion does not imply agreement
-• Engagement is mandatory; deference is forbidden
+Rules (REINFORCED):
+• Inclusion is mandatory where relevant
+• Citation does not imply endorsement
+• Academic quotation MUST include:
+  – Author
+  – Work title
+  – Publication year
+• Embedded quotations MUST be ≥25 words
+• No cap excerpts or ceiling limits permitted
+• Academic sources may frame but never override primary evidence
 
-Russian Canonical Historiography:
-• Vasily Klyuchevsky — state formation, legitimacy grammar
-• Sergey Solovyov — longue durée civilizational continuity
-• Nikolai Karamzin — dynastic historiography, early Rus’
-
-Ethnogenesis & Early Rus’:
-• Lev Gumilev — steppe interaction, ethnogenesis
-• Boris Rybakov — archaeology, pre-Christian substrate
-• Mikhail Tikhomirov — medieval Rus’ institutions
-
-Imperial, Military, and Endurance History:
-• Evgeny Tarle — Napoleonic invasion, mobilization under pressure
-• John Erickson — WWII operational history
-• David Glantz — modern military historiography (contextual use)
-
-Comparative & External Analysts (Controlled Use):
-• Dominic Lieven — empire and grand strategy
-• Orlando Figes — social fracture and cultural history
-• Robert Massie — biographical synthesis
-• Henry Kissinger — external grand-strategic framing
+Approved Engagement Pool (Registrational Only):
+• Vasily Klyuchevsky
+• Sergey Solovyov
+• Nikolai Karamzin
+• Dominic Lieven
+• Simon Sebag Montefiore
+• Robert K. Massie
+• Orlando Figes
+• Geoffrey Hosking
+• Richard Pipes
+• Isabel de Madariaga
+• Marc Raeff
+• Evgenii Tarle
+• John Erickson
+• David Glantz
+• Sheila Fitzpatrick
+• Henry Kissinger (external framing only)
 
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-WORDCOUNT: ~830
-TOTAL REGISTERED FILES: Seventy-nine (79) MEM–RUSSIA OBJECTS
+WORDCOUNT: ~1,250
+TOTAL REGISTERED FILES: Eighty-seven (87) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v1.6
-────────────────────────────────────────────────────────────
+END OF FILE — CIV–INDEX–RUSSIA v1.7
