@@ -1,4 +1,4 @@
-MEM–ROME–GREEK–HIST–HERODOTUS — v1.2
+MEM–ROME–HIST–GREEK–HERODOTUS — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
