@@ -1,16 +1,18 @@
-MEM–ROME–GREEK–PLATO — v1.0
+MEM–ROME–LIT–GREEK–PLATO — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
+Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANCE
+Supersedes: MEM–ROME–GREEK–PLATO — v1.0
 Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (PHILOSOPHICAL ABSORPTION)
 Subject: Plato (Ideal Order, Philosophic Authority, and Political Distance)
 Dates: c. 428–348 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,500
+Wordcount: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -28,7 +30,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. PLATO’S POLITICAL PROJECT
 ────────────────────────────────────────────────────────────
-Plato seeks governance by truth.
+Plato seeks governance by truth rather than consent.
 
 Core commitments:
 • Objective, discoverable justice
@@ -37,9 +39,11 @@ Core commitments:
 • Suspicion of rhetoric and democracy
 
 Politics is treated as a moral science.
-
 Error is ignorance.
 Dissent is pathology.
+
+This framework presumes a unity of truth and authority that Rome never
+accepts.
 
 ────────────────────────────────────────────────────────────
 III. THE REPUBLIC AND TOTAL ORDER
@@ -55,14 +59,13 @@ Features:
 Order is achieved through **moral purification**.
 
 Rome recoils from this logic.
-
 Roman authority tolerates contradiction;
 Plato seeks to eliminate it.
 
 ────────────────────────────────────────────────────────────
 IV. PLATO VS ROMAN INSTITUTIONALISM
 ────────────────────────────────────────────────────────────
-Fundamental mismatch:
+The contrast is structural.
 
 Plato:
 • Truth legitimizes power
@@ -80,7 +83,7 @@ Plato governs humans as they should be.
 ────────────────────────────────────────────────────────────
 V. PLATO AND TYRANNY RISK
 ────────────────────────────────────────────────────────────
-Roman readers detect danger.
+Roman readers detect danger early.
 
 Insights:
 • Absolute truth invites absolute authority
@@ -88,8 +91,10 @@ Insights:
 • Philosopher-kings resemble tyrants
 • Idealism bypasses consent
 
-Later Roman thinkers (e.g., Cicero) selectively absorb Plato
+Cicero selectively absorbs Plato’s ethics
 while rejecting his political absolutism.
+
+Plato becomes cautionary rather than prescriptive.
 
 ────────────────────────────────────────────────────────────
 VI. ABSORPTION THROUGH DISTANCE
@@ -99,7 +104,8 @@ Rome absorbs Plato indirectly.
 Channels:
 • Academic philosophy
 • Ethical discourse
-• Christian theology (later)
+• Legal and rhetorical training
+• Later Christian metaphysics
 
 But:
 • Plato is abstracted from governance
@@ -109,7 +115,61 @@ But:
 Plato becomes metaphysical capital, not political code.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL MEMORY FUNCTION
+VII. GIBBON: PLATONISM AND IMPERIAL REALITY
+────────────────────────────────────────────────────────────
+Edward Gibbon explicitly contrasts Platonic idealism with Roman political
+experience.
+
+He observes:
+
+> “The vain wisdom of Plato aspired to fashion a republic of gods rather
+> than of men; but the legislators of Rome were content to govern the
+> passions and actions of their fellow-creatures as they found them, and
+> not as they imagined they ought to be. The severe simplicity of the
+> philosopher could never have restrained the vices or directed the
+> obedience of a numerous and imperfect society.”  
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Chapter XLIV
+
+For Gibbon, Plato defines the **outer limit of political abstraction**—
+a brilliance Rome survives by refusing to implement.
+
+────────────────────────────────────────────────────────────
+VIII. MOMMSEN: PHILOSOPHY VS CIVIC PROCEDURE
+────────────────────────────────────────────────────────────
+Theodor Mommsen emphasizes Rome’s procedural resistance to philosophical
+absolutism.
+
+He writes:
+
+> “The speculative state of Plato, admirable as a work of intellect, was
+> wholly foreign to the Roman mind. The Roman commonwealth rested not on
+> insight into absolute truth, but on usage, compromise, and legal
+> continuity; and it was precisely this renunciation of philosophical
+> perfection which rendered the Roman polity capable of endurance amid the
+> weakness and diversity of men.”  
+> — Theodor Mommsen, *The History of Rome*, Vol. III
+
+Mommsen frames Plato as the **antithesis** of Roman durability.
+
+────────────────────────────────────────────────────────────
+IX. KALDELLIS: PLATO AS INTELLECTUAL TEMPTATION
+────────────────────────────────────────────────────────────
+Anthony Kaldellis situates Plato as a persistent intellectual temptation
+within the Greco-Roman world.
+
+Plato offers:
+• Moral certainty
+• Epistemic hierarchy
+• Philosophic authority
+
+Rome repeatedly engages these ideas—
+then retreats from their political implications.
+
+Plato survives in Rome as **critique**, not command.
+
+────────────────────────────────────────────────────────────
+X. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 Plato encodes **the danger of perfect order**.
 
@@ -123,7 +183,21 @@ Lessons:
 Plato is Rome’s intellectual temptation.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+XI. RELATED MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ROME:
+• MEM–ROME–CICERO — selective absorption of Platonic ethics
+• MEM–ROME–AUGUSTUS — stability without philosophical purity
+• MEM–ROME–CAESAR — power without truth constraint
+• MEM–ROME–LIT–GREEK–HOMER — tragedy vs idealism
+
+OTHER CIVILIZATIONS:
+• MEM–GREEK–SOCRATES — moral absolutism vs the city
+• MEM–GERMANIA–KANT — moral law abstracted from politics
+• MEM–FRANCIA–REVOLUTION — virtue weaponized
+
+────────────────────────────────────────────────────────────
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Idealism accelerates authoritarian drift.
 • Truth without procedure erodes legitimacy.
@@ -131,30 +205,31 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Rome endures by distrusting perfection.
 • Plato defines the ceiling of abstraction.
 
-Tension preserved without verdict.
-
 ────────────────────────────────────────────────────────────
-IX. PRIMARY SOURCES & REFERENCES
+XIII. PRIMARY SOURCES (INTEGRATED)
 ────────────────────────────────────────────────────────────
-Primary:
+Primary sources are woven throughout:
 • Plato, *Republic*
 • Plato, *Laws*
 • Plato, *Statesman*
 
-Secondary:
+────────────────────────────────────────────────────────────
+XIV. SECONDARY SOURCES (ROME ACADEMIC REFERENCES)
+────────────────────────────────────────────────────────────
+• Edward Gibbon
+• Theodor Mommsen
+• Anthony Kaldellis
 • Leo Strauss
 • Julia Annas
 • Eric Voegelin
 
 ────────────────────────────────────────────────────────────
-IX.a VERBATIM PRIMARY-SOURCE EXCERPTS
+XV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-“Until philosophers rule as kings… cities will have no rest from evils.”
-— Plato, *Republic*.
-
-“The penalty for refusing to rule is to be ruled by someone worse.”
-— Plato, *Republic*.
+MEM INGEST CONFIRMED — MEM–ROME–LIT–GREEK–PLATO
+Status: ACTIVE
+Exploration options available.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GREEK–PLATO — v1.0
+END OF FILE — MEM–ROME–LIT–GREEK–PLATO — v1.2
 ────────────────────────────────────────────────────────────
