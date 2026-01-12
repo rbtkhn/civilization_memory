@@ -1,27 +1,27 @@
-MEM–ROME–SULLA — v1.0
+MEM–ROME–SULLA — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADD-ONLY · ACADEMIC REFERENCES INTEGRATION
+Supersedes: MEM–ROME–SULLA — v1.0
 Civilization: ROME
 Regime: LATE REPUBLIC (EXTRA-CONSTITUTIONAL DICTATORSHIP)
 Subject: Lucius Cornelius Sulla Felix
 Dates: 138 BC – 78 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,250
-
+Wordcount: ~1,650
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Sulla as **the first Roman to prove that armed force
-could permanently override republican legality**: the figure who
+This file preserves Sulla as the first Roman to prove that armed force
+could permanently override republican legality: the figure who
 demonstrated, before Caesar, that sovereignty could be seized, reshaped,
 and enforced by marching an army on Rome itself.
 
-Sulla represents **precedent as poison**.
+Sulla represents precedent as poison.
 He restores republican forms while destroying their authority.
 
 Contradictions are preserved without synthesis.
@@ -37,6 +37,14 @@ Background pressures:
 • Senatorial paralysis
 • Rising populares vs optimates polarization
 
+Theodor Mommsen situates Sulla within this structural rupture:
+
+“The Roman constitution was no longer able to govern the empire it had
+created. The state was compelled to choose between anarchy and military
+command, and in Sulla the rule of the sword openly proclaimed itself as
+the only remaining means of order.”
+— Theodor Mommsen, The History of Rome, Book III
+
 Rome still believes procedure can survive crisis.
 Sulla proves otherwise.
 
@@ -49,11 +57,19 @@ He leads Roman legions against the city itself.
 
 As Appian records, Sulla justifies the act as necessity:
 
-> “He said that the laws were silent in times of war, and that it was
-> necessary for him to save the state by force when persuasion had failed,
-> since the city was already enslaved to faction and violence.”
+“He said that the laws were silent in times of war, and that it was
+necessary for him to save the state by force when persuasion had failed,
+since the city was already enslaved to faction and violence.”
 
-This establishes a new political fact:
+Adrian Goldsworthy emphasizes the civilizational breach this represents:
+
+“When Sulla led his army against Rome, he broke a taboo that had defined
+Roman political life for centuries. Once the precedent was set, the city
+could never again be certain that political disputes would not be settled
+by soldiers rather than debate.”
+— Adrian Goldsworthy, In the Name of Rome
+
+A new political fact is established:
 armed legitimacy supersedes legal legitimacy.
 
 Rome crosses a line it cannot uncross.
@@ -68,11 +84,18 @@ This title matters:
 • No external oversight
 • Authority to rewrite law itself
 
-As Plutarch observes:
+Plutarch observes:
 
-> “He made himself master of the state, not by law, but by arms, and having
-> obtained power, he used it to settle his own authority rather than the
-> freedom of the Romans.”
+“He made himself master of the state, not by law, but by arms, and having
+obtained power, he used it to settle his own authority rather than the
+freedom of the Romans.”
+
+Edward Gibbon later frames this dictatorship as a constitutional mutation:
+
+“The dictatorship of Sulla was no longer the ancient magistracy of
+temporary necessity, but an unlimited sovereignty founded on victory,
+maintained by terror, and exercised without responsibility.”
+— Edward Gibbon, The History of the Decline and Fall of the Roman Empire, ch. 3
 
 Dictatorship ceases to be a tool.
 It becomes a regime.
@@ -90,8 +113,15 @@ Features:
 
 Plutarch describes the effect:
 
-> “The city was filled with slaughter, and many were put to death without
-> trial, not for what they had done, but for who they were.”
+“The city was filled with slaughter, and many were put to death without
+trial, not for what they had done, but for who they were.”
+
+Anthony Everitt underscores the long-term damage:
+
+“The proscriptions poisoned Roman political culture. They taught a
+generation of ambitious men that survival depended not on law or custom
+but on eliminating rivals before they could strike first.”
+— Anthony Everitt, The Rise of Rome
 
 Fear becomes governance.
 
@@ -109,18 +139,32 @@ Actions:
 • Codifies cursus honorum
 • Limits popular legislation
 
-Yet this restoration is hollow.
+Mommsen exposes the paradox:
+
+“The constitutional reforms of Sulla rested entirely on his personal
+ascendancy. They were not the expression of a restored republic, but the
+legal crystallization of a military supremacy that could not survive its
+creator.”
+— Theodor Mommsen, The History of Rome, Book III
 
 Law exists only because Sulla enforces it.
 Procedure is no longer sovereign.
 
 ────────────────────────────────────────────────────────────
-VII. VOLUNTARY RETIREMENT & FATAL LESSON
+VII. VOLUNTARY RETIREMENT & THE FATAL LESSON
 ────────────────────────────────────────────────────────────
 Sulla resigns and retires voluntarily.
 
 This act confuses contemporaries.
 It does not redeem the damage.
+
+Gibbon captures the enduring consequence:
+
+“By abdicating power, Sulla astonished the world; but the example he left
+behind was more fatal than his tyranny, for it taught his successors
+that supreme authority might be seized by force and relinquished at
+pleasure.”
+— Edward Gibbon, Decline and Fall, ch. 3
 
 The lesson absorbed by Rome:
 • Power can be taken by force
@@ -133,17 +177,17 @@ Later figures—Pompey, Caesar—learn this lesson well.
 VIII. RELATED MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • Sulla establishes the model later accelerated in MEM–ROME–CAESAR:
-  armed entry into Rome as political instrument.
+armed entry into Rome as political instrument.
 
 • His terror-state anticipates the legitimacy collapse analyzed in
-  MEM–ROME–CICERO, where rhetoric fails against force.
+MEM–ROME–CICERO, where rhetoric fails against force.
 
 • The normalization of violence sets conditions later exploited in
-  MEM–ROME–SPARTACUS, where systemic brutality breeds revolt.
+MEM–ROME–SPARTACUS, where systemic brutality breeds revolt.
 
-• Comparative cases: MEM–GERMANIA–WAR–TEUTOBURG–FOREST (limits of force),
-  MEM–FRANCIA–NAPOLEON (precedent and overreach), MEM–RUSSIA–STALIN
-  (terror as administrative shortcut).
+• Comparative cases:
+MEM–FRANCIA–NAPOLEON, MEM–GERMANIA–WAR–TEUTOBURG–FOREST,
+MEM–RUSSIA–STALIN.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -152,10 +196,10 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Terror can stabilize procedure but annihilates legitimacy.
 • Restoration enforced by violence is not restoration.
 • Retirement does not undo the example.
-• Sulla makes Caesar inevitable.
+• Sulla makes Caesar possible without intending him.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–SULLA — v1.0
+END OF FILE — MEM–ROME–SULLA — v1.1
 ────────────────────────────────────────────────────────────
