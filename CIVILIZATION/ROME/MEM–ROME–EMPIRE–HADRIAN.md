@@ -1,4 +1,4 @@
-MEM–ROME–HADRIAN — v1.1
+MEM–ROME–EMPIRE–HADRIAN — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
