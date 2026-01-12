@@ -1,4 +1,4 @@
-MEM–ROME–GREEK–HIST–THUCYDIDES — v1.2
+MEM–ROME–HIST–GREEK–THUCYDIDES — v1.2
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
