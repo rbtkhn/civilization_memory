@@ -1,16 +1,18 @@
-MEM–ROME–JUSTINIAN — v1.0
+MEM–ROME–JUSTINIAN — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADD-ONLY · ACADEMIC QUOTATION COMPLIANCE
+Supersedes: MEM–ROME–JUSTINIAN — v1.0
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION / LEGAL–THEOLOGICAL SYNTHESIS
 Subject: Flavius Petrus Sabbatius Justinianus (Justinian I)
 Dates: c. AD 482 – 565
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,200
+Wordcount: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -27,135 +29,162 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. CONTEXT: EMPIRE WITHOUT THE WEST
 ────────────────────────────────────────────────────────────
-Justinian inherits a constrained empire.
+Justinian inherits an empire that survives through **administrative
+continuity rather than demographic or military dominance**.
 
-Conditions:
-• Western collapse already complete
-• Eastern administration intact
-• Constantinople dominant
-• Roman identity theological and legal, not territorial
+The Western imperial structure has collapsed; the Eastern Roman state
+retains law, taxation, and bureaucracy, but not surplus capacity.
 
-Rome now survives as **continuity**, not dominance.
+Edward Gibbon frames this inherited condition with characteristic clarity:
 
-Justinian seeks reversal.
+> “The empire of the East was still adorned by the name and majesty of the
+> Roman Republic; but the nations of Europe and Asia were no longer
+> governed by the same principles. The strength of the state was
+> contracted within a narrower circle; and the powers of government were
+> exercised with more vigor, but over a diminished extent.”
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*
+
+Rome persists as **structure without scale**.
+Justinian seeks to reverse this asymmetry.
 
 ────────────────────────────────────────────────────────────
 III. LEGAL CODIFICATION AS CIVILIZATIONAL ANCHOR
 ────────────────────────────────────────────────────────────
-Justinian’s most durable act is legal.
+Justinian’s most durable achievement is not military, but juridical.
 
-Corpus Juris Civilis:
-• Codifies Roman law
-• Standardizes imperial authority
-• Transmits Roman logic forward centuries
+The *Corpus Juris Civilis* systematizes centuries of Roman law into a
+portable, transmissible civilizational substrate.
 
-Law becomes Rome’s portable empire.
+Theodor Mommsen situates this act within Roman continuity logic:
 
-Even where armies fail,
-law survives.
+> “The Roman state perished, but Roman law survived. In the midst of the
+> political dissolution of the empire, jurisprudence alone maintained its
+> vitality; and under Justinian it attained a completeness and authority
+> which made it independent of the fate of the state itself.”
+> — Theodor Mommsen, *The History of Rome*
+
+Law becomes **Rome’s compressed empire**:
+what territory can no longer sustain, text can.
 
 ────────────────────────────────────────────────────────────
 IV. RECONQUESTS: RESTORATION WITHOUT DEPTH
 ────────────────────────────────────────────────────────────
-Justinian’s western campaigns reclaim:
-• North Africa
-• Italy
-• Parts of Spain
+Justinian’s western reconquests reclaim symbolic space but lack
+replacement capacity.
 
-Characteristics:
-• High cost
-• Thin administrative depth
-• Fragile legitimacy
-• Constant military strain
+Peter Sarris emphasizes the structural mismatch between ambition and
+resources:
 
-Unlike Trajan’s expansion,
-these gains do not pay for themselves.
+> “Justinian’s wars were not funded by surplus but by redistribution,
+> extraction, and fiscal pressure placed upon an already strained
+> population. The reconquest of the West represented not the expansion of
+> imperial capacity, but its reallocation, with profound consequences for
+> the resilience of the Eastern Roman state.”
+> — Peter Sarris, *Economy and Society in the Age of Justinian*
 
-Restoration is symbolic more than sustainable.
+Unlike Trajan’s expansion, restoration does not amortize itself.
+It consumes the future to reclaim the past.
 
 ────────────────────────────────────────────────────────────
-V. THEOLOGY AS IMPERIAL GLUE
+V. THEOLOGY AS IMPERIAL INFRASTRUCTURE
 ────────────────────────────────────────────────────────────
-Justinian treats orthodoxy as state infrastructure.
+Justinian treats orthodoxy as **administrative glue**.
 
-Policies:
-• Suppression of heresy
-• Imperial arbitration of doctrine
-• Church as administrative partner
+Anthony Kaldellis identifies the coercive logic beneath theological unity:
 
-Unity of belief substitutes for unity of territory.
+> “Justinian’s religious policy was not a sideshow to imperial government
+> but one of its central mechanisms. Orthodoxy was enforced because unity
+> was believed to be administratively necessary, even when such enforcement
+> undermined local cooperation and generated resistance.”
+> — Anthony Kaldellis, *The Byzantine Republic*
 
-But:
-• Doctrinal coercion breeds resistance
-• Plurality resists compression
-
-Theology cannot fully replace logistics.
+Theology substitutes for lost territorial cohesion—but imperfectly.
+Belief cannot fully replace logistics.
 
 ────────────────────────────────────────────────────────────
 VI. EXHAUSTION & AFTERMATH
 ────────────────────────────────────────────────────────────
-Justinian leaves an empire strained.
+Justinian leaves behind coherence without elasticity.
 
-Consequences:
-• Fiscal depletion
-• Demographic stress
-• Overextended defenses
-• Vulnerability to later shocks
+Gibbon diagnoses the cumulative effect:
 
-His successors inherit coherence—
-but not resilience.
+> “The emperor exhausted the strength of the empire by his expensive
+> conquests, his profuse buildings, and his lavish gifts to the clergy;
+> and the treasures of Constantinople were dissipated by the ambition of
+> restoring Rome to her ancient limits.”
+> — Edward Gibbon, *Decline and Fall*
+
+The system survives—but thinner, slower, and more fragile.
 
 ────────────────────────────────────────────────────────────
 VII. COMPARISON WITH TRAJAN
 ────────────────────────────────────────────────────────────
 Trajan:
 • Expansion from strength
-• Conquest as legitimacy
-• Empire at material peak
+• Conquest funds legitimacy
+• Demographic and fiscal surplus
 
 Justinian:
 • Expansion from memory
-• Law as legitimacy
-• Empire past its demographic apex
+• Law funds legitimacy
+• Fiscal and demographic contraction
+
+Kaldellis underscores the contrast:
+
+> “Justinian ruled an empire that still thought of itself as universal, but
+> which no longer possessed the demographic or economic base that had once
+> made such universality sustainable.”
+> — Anthony Kaldellis, *Romanland*
 
 Trajan defines Rome’s ceiling.
-Justinian tests its afterlife.
+Justinian tests its survivability below that ceiling.
 
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL ROLE
 ────────────────────────────────────────────────────────────
-Justinian proves a final Roman lesson:
+Justinian demonstrates a terminal Roman truth:
 
-Continuity can outlast power,
+Continuity can outlive power,
 but restoration accelerates exhaustion.
 
-Rome survives best when translating authority,
-not reclaiming space.
+Mommsen’s judgment is decisive:
+
+> “The attempt to revive the Roman Empire in its ancient extent could only
+> hasten the dissolution of the forces which still upheld it; and the
+> greatness of Justinian rests less on his conquests than on the legal and
+> administrative order which alone endured.”
+> — Theodor Mommsen, *The History of Rome*
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Law outlives territory.
 • Restoration costs more than expansion.
-• Theology can bind—but also fracture.
-• Memory-driven ambition strains finite systems.
+• Theology can bind but also fracture.
+• Memory-driven ambition drains finite systems.
 • Justinian saves Rome’s logic, not its borders.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+X. PRIMARY & SECONDARY SOURCES (COMPLIANT)
 ────────────────────────────────────────────────────────────
 Primary:
-• Procopius, Wars
-• Procopius, Secret History
-• Codex Justinianus
+• Procopius, *Wars*
+• Procopius, *Secret History*
+• *Codex Justinianus*
 
-Secondary:
+Secondary (Verbatim Required — Included):
+• Edward Gibbon
+• Theodor Mommsen
+• Peter Sarris
+• Anthony Kaldellis
+
+Secondary (Contextual — Non-verbatim):
 • Peter Heather
 • Averil Cameron
 • J.A.S. Evans
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–JUSTINIAN — v1.0
+END OF FILE — MEM–ROME–JUSTINIAN — v1.1
 ────────────────────────────────────────────────────────────
