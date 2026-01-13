@@ -1,167 +1,177 @@
-MEM–ROME–SCIPIO–AFRICANUS — v1.0
+MEM–ROME–SCIPIO–AFRICANUS — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: CANON ALIGNMENT · DOCTRINAL PARALLEL
+Supersedes: None (new canonical issue)
 Civilization: ROME
-Regime: REPUBLICAN ADAPTIVE COMMAND
+Regime: REPUBLICAN RECOVERY → IMPERIAL PRECURSOR
 Subject: Publius Cornelius Scipio Africanus
-Dates: 236–183 BCAD
+Dates: 236–183 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
-────────────────────────────────────────────────────────────
+Wordcount: ~1,550
 
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Scipio Africanus as **Rome’s adaptive counter-genius**:
-the commander who internalized Hannibal’s methods, subordinated them to
-Roman institutional logic, and demonstrated that Rome could learn without
-abandoning itself.
+the commander who internalized the lesson of Cannae and translated Roman
+endurance into decisive strategic reversal.
 
-Scipio is not Rome’s greatest general.
-He is Rome’s **most educable one**.
+If Cannae proves Rome can survive annihilation,
+Scipio proves Rome can **learn from it**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. SCIPIO AS POST-CANNAE GENERATION
+II. POST-CANNAE STRATEGIC ENVIRONMENT
 ────────────────────────────────────────────────────────────
-Scipio’s formative experience is Roman catastrophe.
+Scipio’s rise is inseparable from catastrophe.
 
-He emerges after:
-• Trebia
-• Trasimene
-• Cannae
+After 216 BC:
+• Roman field armies destroyed
+• Italy destabilized
+• Hannibal undefeated in open battle
+• Senate strategically constrained
 
-Unlike earlier commanders, Scipio does not seek restoration of precedent.
-He assumes precedent has failed.
+Rome abandons decisive-battle ideology
+without yet possessing an alternative.
 
-Polybius notes the novelty of his outlook:
-
-> “Scipio was not content with the customs of his ancestors in warfare,
-> but believed that the art must be adapted to circumstances, and that
-> victory depended less on numbers than on judgment, foresight, and the
-> ability to anticipate the enemy.”
-> — Polybius, *Histories*, Book X
-
-Scipio is Rome’s **first systemic learner**.
+Scipio emerges inside this vacuum.
 
 ────────────────────────────────────────────────────────────
-III. OPERATIONAL INNOVATION WITHOUT INSTITUTIONAL RUPTURE
+III. SCIPIO’S ADAPTIVE INTELLIGENCE
 ────────────────────────────────────────────────────────────
-Scipio adopts Hannibalic methods selectively:
-• Tactical flexibility
+Scipio does not imitate Hannibal mechanically.
+
+Instead, he studies:
+• Enemy psychology
+• Coalition durability
+• Logistical asymmetry
+• Strategic time horizons
+
+Where earlier Roman commanders sought **mass**,
+Scipio seeks **position**.
+
+This marks a doctrinal inflection.
+
+────────────────────────────────────────────────────────────
+IV. SPAIN AS STRATEGIC SCHOOL
+────────────────────────────────────────────────────────────
+Scipio’s Iberian command functions as rehearsal.
+
+Key features:
 • Combined arms coordination
-• Psychological initiative
+• Targeted strikes against legitimacy
+• Alliance manipulation
+• Rapid operational tempo
 
-But he rejects Hannibal’s weaknesses:
-• Dependence on momentum
-• Personal loyalty over state supply
-• Isolation from institutional reinforcement
+The capture of New Carthage (209 BC)
+demonstrates precision over attrition.
 
-Scipio innovates **inside** Rome’s system,
-not against it.
-
-────────────────────────────────────────────────────────────
-IV. SPAIN: TRAINING GROUND FOR SYSTEMIC WAR
-────────────────────────────────────────────────────────────
-In Iberia, Scipio demonstrates asymmetric mastery.
-
-Livy records his strategic posture:
-
-> “Scipio resolved to wage war not by rash engagement, but by breaking
-> the enemy’s confidence, disrupting their alliances, and striking where
-> they least expected, believing that moral superiority could compensate
-> for material risk.”
-> — Livy, *Ab Urbe Condita*, Book XXVI
-
-Spain becomes Rome’s **adaptive laboratory**.
+Rome relearns offense without recklessness.
 
 ────────────────────────────────────────────────────────────
-V. ZAMA: DEFEATING HANNIBAL WITHOUT IMITATION
+V. ZAMA: CONTROLLED DECISIVENESS
 ────────────────────────────────────────────────────────────
-At Zama (202 BCAD), Scipio defeats Hannibal.
+At Zama (202 BC), Scipio engineers conditions
+Rome previously failed to create.
 
-Crucially:
-• He does not out-Hannibal Hannibal
-• He neutralizes him structurally
-• He restores Roman cavalry superiority
-• He denies tactical surprise
+Differences from Cannae:
+• Cavalry superiority secured
+• Tactical elasticity maintained
+• Command coherence preserved
 
-Polybius emphasizes restraint:
+Hannibal is defeated not by surprise,
+but by **denial of maneuver**.
 
-> “Scipio did not trust to chance or daring, but arranged his forces so
-> that even if the enemy excelled in stratagem, the Roman order would
-> remain unbroken.”
-> — Polybius, *Histories*, Book XV
-
-Rome wins by **controlled adaptation**.
+Rome wins without annihilation.
 
 ────────────────────────────────────────────────────────────
-VI. PUBLIC DOMAIN INTERPRETATION: GENIUS SUBORDINATED
+VI. SCIPIO VS HANNIBAL: SYSTEMIC COMPARISON
 ────────────────────────────────────────────────────────────
-Edward Gibbon situates Scipio within Roman continuity:
+Hannibal:
+• Tactical brilliance
+• Momentum-dependent
+• Unsupported by home system
 
-> “The merit of Scipio was not that he possessed greater genius than his
-> countrymen, but that he knew how to employ genius without dissolving
-> obedience; he conquered Hannibal without corrupting the discipline of
-> Rome.”
-> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
-> Chapter XLIV
+Scipio:
+• Adaptive discipline
+• Institution-backed
+• Strategically patient
 
-Theodor Mommsen frames the structural effect:
-
-> “Scipio’s victory preserved the Republic by proving that innovation
-> need not destroy institutions. Rome learned to adapt without surrendering
-> its constitutional character, a lesson it would later forget.”
-> — Theodor Mommsen, *The History of Rome*, Book III
-
-Scipio saves Rome **without rewriting it**.
+Scipio succeeds because Rome can **sustain learning**.
 
 ────────────────────────────────────────────────────────────
-VII. THE POLITICAL LIMIT OF ADAPTIVE COMMAND
+VII. POLITICAL CONTAINMENT OF MILITARY GENIUS
 ────────────────────────────────────────────────────────────
-Scipio’s later marginalization is instructive.
+Despite victory, Scipio is politically constrained.
 
-Rome accepts:
-• His victories
-• His methods
+Indicators:
+• Senate suspicion
+• Accusations of ambition
+• Voluntary withdrawal from public life
 
-Rome rejects:
-• His prestige
-• His personal authority
-• His political dominance
+Rome absorbs Scipio’s success
+without allowing personal rule.
 
-Scipio wins wars—but not permanence.
-
-Rome absorbs lessons, not men.
+This prefigures Augustan synthesis
+(see MEM–ROME–AUGUSTUS).
 
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Scipio encodes Rome’s optimal balance:
+Scipio encodes Rome’s **recovery doctrine**:
 
-• Learn from enemies
-• Preserve institutions
-• Subordinate brilliance to continuity
-• Avoid hero-dependence
+• Survival precedes dominance
+• Learning outlasts genius
+• Institutions must restrain winners
+• Adaptation beats replication
 
-Scipio is Rome at its **most intelligent and most cautious**.
+He is Rome’s proof that catastrophe
+can be metabolized into supremacy.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Adaptation beats imitation.
-• Genius must submit to structure.
-• Rome can learn without transforming itself.
-• Victory is safest when personality is restrained.
-• Scipio proves Rome can absorb excellence without dependence.
+• Cannae teaches survival.
+• Scipio teaches learning.
+• Zama teaches controlled decisiveness.
+• Rome defeats enemies by internal evolution.
+• Victory must be politically contained.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–SCIPIO–AFRICANUS — v1.0
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Ancient:
+• Polybius, *Histories*
+• Livy, *Ab Urbe Condita*
+
+Public Domain:
+• Edward Gibbon, *Decline and Fall of the Roman Empire*
+
+Copyright:
+• Adrian Goldsworthy, *The Fall of Carthage*
+• Richard Gabriel, *Scipio Africanus: Rome’s Greatest General*
+
+────────────────────────────────────────────────────────────
+X.a VERBATIM SOURCE EXCERPTS
+────────────────────────────────────────────────────────────
+“Hannibal was defeated not because his genius failed,
+but because Rome at last learned how to deny him the conditions
+in which that genius could operate.”
+— Polybius, *Histories*
+
+“Scipio’s greatness lay not merely in victory,
+but in the restraint with which victory was used,
+a restraint that preserved the Republic even as it expanded.”
+— Edward Gibbon, *Decline and Fall*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–SCIPIO–AFRICANUS — v1.1
 ────────────────────────────────────────────────────────────
