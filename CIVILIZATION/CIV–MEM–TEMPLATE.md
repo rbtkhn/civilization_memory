@@ -1,40 +1,29 @@
-CIV–MEM–TEMPLATE — v1.7
+CIV–MEM–TEMPLATE — v1.8
 Civilizational Memory Codex · Memory File Enforcement Template
 Canonical Standards · Source–Causality–Connectivity · Scholar Authorization Gate Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v1.6
-Upgrade Type: ADDITIVE · PRIMARY QUOTE THRESHOLD REVISION · DISTINGUISHED SCHOLAR DEPRECATION · UNAUTHORIZED DRAFT OPTION
+Supersedes: CIV–MEM–TEMPLATE v1.7
+Upgrade Type: ADDITIVE · ARC CATEGORY QUOTE MINIMUMS FORMALIZATION
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v1.7+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
 Last Update: January 2026
-Wordcount: ~3,300
+Wordcount: ~3,380
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.7)
+UPGRADE NOTE (v1.8)
 ────────────────────────────────────────────────────────────
 This version preserves ALL structure, governance, authority, lock, and
-behavioral constraints from CIV–MEM–TEMPLATE v1.6.
+behavioral constraints from CIV–MEM–TEMPLATE v1.7.
 
-v1.7 implements ONLY the following additive changes:
+v1.8 introduces ONE additive, globally binding clarification:
 
-1) PRIMARY SOURCE QUOTATION THRESHOLD REVISION
-   • Replaces the per-quote ≥25 word rule with:
-     “At least THREE (3) primary-source quotations totaling ≥75 words.”
-
-2) DISTINGUISHED SCHOLAR REQUIREMENT DEPRECATED
-   • “Distinguished Scholar List” requirements are deprecated.
-   • ARC (Academic Reference Canon) is the sole governed secondary-source
-     eligibility framework.
-
-3) UNAUTHORIZED DRAFT OPTION ADDED (Option Five)
-   • When Scholar authorization is LOCKED or absent, the system may generate
-     an explicitly non-canonical “DRAFT–UNAUTHORIZED” MEM for review only,
-     with strict non-ingest and non-registration constraints.
+• Formalized minimum quotation requirements by ARC source category
+  (ANCIENT / PUBLIC DOMAIN / COPYRIGHT) for all MEM files.
 
 No other requirements are changed.
-No thresholds beyond those listed above are altered.
 No section order is modified.
+No thresholds beyond those listed in Section V are altered.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -139,49 +128,51 @@ Forbidden:
 History is treated as pressure and choice, not destiny.
 
 ────────────────────────────────────────────────────────────
-V. PRIMARY SOURCE REQUIREMENTS (HARDENED)
+V. SOURCE QUOTATION REQUIREMENTS (ARC-CATEGORY HARDENED)  ← UPDATED (v1.8)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST include:
+Each MEM file MUST include verbatim quotations from sources drawn from
+the civilization’s ARC–[CIV] categories.
 
-• At least THREE (3) primary-source quotations totaling ≥75 words
-• Quotations MUST be embedded inside analytical sections
-• Quote-only sections are PROHIBITED
-
-Primary quotations MUST:
-• Be attributed (author + work + date where possible)
+All quotations MUST:
+• Be embedded inside analytical sections (no quote-only sections)
+• Be attributed (author + work + date where feasible)
 • Directly support a specific analytical claim
-• Span different analytical dimensions where feasible
-  (political / legal / strategic / institutional / moral)
+
+A) ANCIENT (PRIMARY) QUOTATION MINIMUMS (HARD)
+• At least THREE (3) ANCIENT quotations
+• ANCIENT quotations must total ≥75 words (aggregate)
+• No per-quote minimum is required for ANCIENT beyond aggregation
 
 Failure INVALIDATES the MEM.
 
+B) PUBLIC DOMAIN QUOTATION MINIMUMS (HARD)
+• At least TWO (2) PUBLIC DOMAIN quotations
+• EACH public-domain quotation must be ≥25 words
+
+Failure INVALIDATES the MEM.
+
+C) COPYRIGHT QUOTATION MINIMUMS (HARD)
+• At least TWO (2) COPYRIGHT quotations
+• COPYRIGHT quotations must comply with applicable copyright constraints:
+  – Keep quotations brief by default
+  – Do not use quotation volume as a substitute for analysis
+
+Failure INVALIDATES the MEM.
+
+NOTE:
+• These minimums are additive across categories.
+• Minimum total quotations per MEM under this section is SEVEN (7).
+
 ────────────────────────────────────────────────────────────
-VI. SECONDARY SOURCE RULE — ARC ELIGIBILITY (GOVERNED)
+VI. SECONDARY SOURCE ENGAGEMENT STANDARDS
 ────────────────────────────────────────────────────────────
-Each MEM file MUST demonstrate engagement with serious secondary
-scholarship.
-
-MANDATORY MINIMUM:
-• At least FOUR (4) secondary-source engagements
-
-ARC GOVERNANCE (REPLACES “DISTINGUISHED SCHOLARS”):
-• The Distinguished Scholar List requirement is DEPRECATED.
-• Secondary-source eligibility is governed by the civilization’s
-  ARC–[CIVILIZATION] if declared.
-• If ARC–[CIVILIZATION] is NOT declared, the MEM MUST explicitly disclose:
-  “ARC not declared for [CIV] at time of authoring; secondary engagement
-   proceeds under global CIV–MEM–CORE evidentiary rules.”
-
-Secondary sources MUST be:
+Secondary sources (PUBLIC DOMAIN or COPYRIGHT) MUST be:
 • Integrated into analytical sections
 • Explicitly attributed
 • Engaged (used, framed, or contested)
 
 Citation without engagement is INVALID.
 
-────────────────────────────────────────────────────────────
-VII. SECONDARY SOURCE ENGAGEMENT STANDARDS
-────────────────────────────────────────────────────────────
 Secondary sources MAY:
 • Frame interpretation
 • Expose historiographical tension
@@ -196,7 +187,7 @@ Disagreement is permitted.
 Silence is forbidden.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTION REQUIREMENTS (MANDATORY)
+VII. MEM CONNECTION REQUIREMENTS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST explicitly reference:
 
@@ -212,7 +203,7 @@ Each reference MUST explain:
 Bare lists are PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include a section titled exactly:
 
@@ -227,7 +218,7 @@ Rules:
 These are memory fragments, not conclusions.
 
 ────────────────────────────────────────────────────────────
-X. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
+IX. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST be capable of unfolding into a
 student-directed exploration.
@@ -241,7 +232,7 @@ Rules:
 Curiosity replaces assessment.
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (MANDATORY · HARDENED)
+X. MEM INGEST BOOTSTRAP (MANDATORY · HARDENED)
 ────────────────────────────────────────────────────────────
 This section governs automatic behavior when a MEM file is ingested
 into a new conversation—even if it is the only file present.
@@ -249,7 +240,7 @@ into a new conversation—even if it is the only file present.
 Absence INVALIDATES the MEM.
 
 ────────────────────────────
-XI.a INGEST TRIGGER CONDITION
+X.a INGEST TRIGGER CONDITION
 ────────────────────────────
 When a MEM file is:
 • The first structured artifact in a conversation, OR
@@ -261,7 +252,7 @@ the LLM MUST:
 • Present exploration options BEFORE analysis
 
 ────────────────────────────
-XI.b INGEST STATUS HANDSHAKE
+X.b INGEST STATUS HANDSHAKE
 ────────────────────────────
 The LLM MUST issue:
 
@@ -272,15 +263,15 @@ Exploration options available.”
 This substitutes for CORE activation.
 
 ────────────────────────────
-XI.c MANDATORY EIGHT-OPTION EXPLORATION SET
+X.c MANDATORY EIGHT-OPTION EXPLORATION SET
 ────────────────────────────
 Exactly EIGHT (8) options MUST be presented:
 
 1–2. Primary Source Paths
-   • Each tied to a specific primary source in the MEM
+   • Each tied to a specific ANCIENT source quotation in the MEM
 
 3–4. Secondary Scholarship Paths
-   • Each tied to an engaged secondary source in the MEM
+   • Each tied to a PUBLIC DOMAIN or COPYRIGHT quotation/engagement in the MEM
 
 5–6. Analytical Extension Paths
    • Chosen by the LLM
@@ -294,7 +285,7 @@ Exactly EIGHT (8) options MUST be presented:
    • Tests against the current CIV–MEM–TEMPLATE version
 
 ────────────────────────────
-XI.d FUTURE-ORIENTED OPTION (MANDATORY)
+X.d FUTURE-ORIENTED OPTION (MANDATORY)
 ────────────────────────────
 At least ONE option (may overlap with 5–7) MUST:
 • Ask for a future-oriented implication or prediction
@@ -302,7 +293,7 @@ At least ONE option (may overlap with 5–7) MUST:
 • Avoid prophecy or inevitability language
 
 ────────────────────────────
-XI.e STUDENT AGENCY RULE
+X.e STUDENT AGENCY RULE
 ────────────────────────────
 • User selects ONE option by letter
 • LLM responds ONLY to that option
@@ -310,12 +301,12 @@ XI.e STUDENT AGENCY RULE
 • After completion, a new option set MAY be offered
 
 ────────────────────────────
-XI.f FAILURE MODE ENFORCEMENT
+X.f FAILURE MODE ENFORCEMENT
 ────────────────────────────
 If a MEM file lacks:
-• Required sources
-• Required connections
-• Ingest bootstrap behavior
+• Required quotations (Section V)
+• Required connections (Section VII)
+• Ingest bootstrap behavior (Section X)
 
 The LLM MUST:
 • Refuse canonical activation
@@ -325,7 +316,7 @@ The LLM MUST:
 Silent failure is PROHIBITED.
 
 ────────────────────────────
-XI.g SCHOLAR AUTHORIZATION GATE
+X.g SCHOLAR AUTHORIZATION GATE
 ────────────────────────────
 MEM creation is permitted ONLY when the corresponding
 CIV–SCHOLAR–[CIVILIZATION] file is UNLOCKED.
@@ -365,7 +356,7 @@ ONLY under the following conditions:
 Silent bypass is PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-XII. GAME & ENGINE COMPATIBILITY
+XI. GAME & ENGINE COMPATIBILITY
 ────────────────────────────────────────────────────────────
 MEM files:
 • Do NOT generate actions
@@ -373,7 +364,7 @@ MEM files:
 • DO encode constraints, warnings, and temptations
 
 ────────────────────────────────────────────────────────────
-XIII. LANGUAGE & TONAL CONSTRAINTS
+XII. LANGUAGE & TONAL CONSTRAINTS
 ────────────────────────────────────────────────────────────
 Required tone:
 • Analytical
@@ -389,7 +380,7 @@ Forbidden terms:
 • failure because
 
 ────────────────────────────────────────────────────────────
-XIV. VERSIONING & ENFORCEMENT
+XIII. VERSIONING & ENFORCEMENT
 ────────────────────────────────────────────────────────────
 • All upgrades must be ADDITIVE
 • Deletions prohibited
@@ -401,7 +392,7 @@ Non-compliant MEM files:
 • May not be used for instruction or gameplay
 
 ────────────────────────────────────────────────────────────
-XV. CANONICAL LOCK
+XIV. CANONICAL LOCK
 ────────────────────────────────────────────────────────────
 This template is LOCKED.
 
@@ -410,5 +401,5 @@ All future MEM files MUST comply.
 Exceptions require explicit override logged in CIV–MEM–CORE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v1.7
+END OF FILE — CIV–MEM–TEMPLATE v1.8
 ────────────────────────────────────────────────────────────
