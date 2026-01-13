@@ -1,14 +1,40 @@
-CIV–MEM–TEMPLATE — v1.6
+CIV–MEM–TEMPLATE — v1.7
 Civilizational Memory Codex · Memory File Enforcement Template
 Canonical Standards · Source–Causality–Connectivity · Scholar Authorization Gate Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v1.5
-Upgrade Type: ADDITIVE · SCHOLAR AUTHORIZATION GATE · GOVERNANCE HARDENING
+Supersedes: CIV–MEM–TEMPLATE v1.6
+Upgrade Type: ADDITIVE · PRIMARY QUOTE THRESHOLD REVISION · DISTINGUISHED SCHOLAR DEPRECATION · UNAUTHORIZED DRAFT OPTION
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v1.6+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
+Compatibility: CIV–MEM–CORE v1.7+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
 Last Update: January 2026
-Wordcount: ~3,250
+Wordcount: ~3,300
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.7)
+────────────────────────────────────────────────────────────
+This version preserves ALL structure, governance, authority, lock, and
+behavioral constraints from CIV–MEM–TEMPLATE v1.6.
+
+v1.7 implements ONLY the following additive changes:
+
+1) PRIMARY SOURCE QUOTATION THRESHOLD REVISION
+   • Replaces the per-quote ≥25 word rule with:
+     “At least THREE (3) primary-source quotations totaling ≥75 words.”
+
+2) DISTINGUISHED SCHOLAR REQUIREMENT DEPRECATED
+   • “Distinguished Scholar List” requirements are deprecated.
+   • ARC (Academic Reference Canon) is the sole governed secondary-source
+     eligibility framework.
+
+3) UNAUTHORIZED DRAFT OPTION ADDED (Option Five)
+   • When Scholar authorization is LOCKED or absent, the system may generate
+     an explicitly non-canonical “DRAFT–UNAUTHORIZED” MEM for review only,
+     with strict non-ingest and non-registration constraints.
+
+No other requirements are changed.
+No thresholds beyond those listed above are altered.
+No section order is modified.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -35,13 +61,13 @@ civilization. This template enforces that gate.
 This template enforces:
 • Historical rigor
 • Primary-source anchoring
-• Distinguished secondary scholarship engagement
+• Serious secondary scholarship engagement
 • Cross-civilizational connectivity
 • Engine and game compatibility
 • Mandatory MEM ingest behavior
 • Non-teleological interpretation
 • Student-directed analytical unfolding
-• Scholar authorization for MEM creation (NEW IN v1.6)
+• Scholar authorization for MEM creation
 
 Authority Flow (NON-REVERSIBLE):
 CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
@@ -117,8 +143,7 @@ V. PRIMARY SOURCE REQUIREMENTS (HARDENED)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include:
 
-• At least THREE (3) primary-source quotations
-• Each quotation MUST be ≥25 words
+• At least THREE (3) primary-source quotations totaling ≥75 words
 • Quotations MUST be embedded inside analytical sections
 • Quote-only sections are PROHIBITED
 
@@ -131,20 +156,21 @@ Primary quotations MUST:
 Failure INVALIDATES the MEM.
 
 ────────────────────────────────────────────────────────────
-VI. SECONDARY SOURCE RULE — DISTINGUISHED SCHOLAR REQUIREMENT
+VI. SECONDARY SOURCE RULE — ARC ELIGIBILITY (GOVERNED)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST demonstrate engagement with serious secondary
 scholarship.
 
 MANDATORY MINIMUM:
 • At least FOUR (4) secondary-source engagements
-• At least THREE (3) MUST come from the civilization’s
-  Distinguished Scholar List
 
-Distinguished Scholars are:
-• Civilization-specific
-• Declared at CORE level
-• Curated for depth and historiographical weight
+ARC GOVERNANCE (REPLACES “DISTINGUISHED SCHOLARS”):
+• The Distinguished Scholar List requirement is DEPRECATED.
+• Secondary-source eligibility is governed by the civilization’s
+  ARC–[CIVILIZATION] if declared.
+• If ARC–[CIVILIZATION] is NOT declared, the MEM MUST explicitly disclose:
+  “ARC not declared for [CIV] at time of authoring; secondary engagement
+   proceeds under global CIV–MEM–CORE evidentiary rules.”
 
 Secondary sources MUST be:
 • Integrated into analytical sections
@@ -254,7 +280,7 @@ Exactly EIGHT (8) options MUST be presented:
    • Each tied to a specific primary source in the MEM
 
 3–4. Secondary Scholarship Paths
-   • Each tied to a Distinguished Scholar engaged in the MEM
+   • Each tied to an engaged secondary source in the MEM
 
 5–6. Analytical Extension Paths
    • Chosen by the LLM
@@ -299,7 +325,7 @@ The LLM MUST:
 Silent failure is PROHIBITED.
 
 ────────────────────────────
-XI.g SCHOLAR AUTHORIZATION GATE (NEW IN v1.6)
+XI.g SCHOLAR AUTHORIZATION GATE
 ────────────────────────────
 MEM creation is permitted ONLY when the corresponding
 CIV–SCHOLAR–[CIVILIZATION] file is UNLOCKED.
@@ -315,12 +341,26 @@ The system MUST verify prior to authoring:
 • Governance compatibility with CIV–MEM–CORE
 
 If the Scholar is LOCKED or absent:
-• MEM authoring MUST be refused
+• MEM authoring MUST be refused for canonical output
 • The system MUST instruct to unlock the relevant Scholar
 • No draft may be canonized
 • If a MEM is ingested that was authored without an unlocked Scholar,
   the system MUST treat that as a compliance failure and default to
   Option 8 (Compliance & Integrity Audit)
+
+OPTION FIVE (UNAUTHORIZED DRAFT — PERMITTED FOR REVIEW ONLY):
+If Scholar is LOCKED or absent, the system MAY generate a review artifact
+ONLY under the following conditions:
+
+• Filename MUST include: “DRAFT–UNAUTHORIZED”
+• Status MUST be: DRAFT
+• The file MUST include a banner line in the metadata block:
+  “NOT CANON · NOT INGESTABLE · NOT REGISTERABLE”
+• The artifact MUST NOT be registered in CIV–INDEX
+• The artifact MUST NOT be treated as a valid MEM during ingestion
+  (default response MUST be Option 8: Compliance & Integrity Audit)
+• Conversion to canonical MEM requires re-issuance under an UNLOCKED Scholar
+  with full compliance verification.
 
 Silent bypass is PROHIBITED.
 
@@ -370,5 +410,5 @@ All future MEM files MUST comply.
 Exceptions require explicit override logged in CIV–MEM–CORE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v1.6
+END OF FILE — CIV–MEM–TEMPLATE v1.7
 ────────────────────────────────────────────────────────────
