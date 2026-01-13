@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v1.4
+CIV–SCHOLAR–ROME — v1.5
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v1.3
-Upgrade Type: ADDITIVE · LEARNING SYNTHESIS FORMALIZATION · EXPORT HARDENING
+Supersedes: CIV–SCHOLAR–ROME v1.4
+Upgrade Type: ADDITIVE · ARC–ROME CANON CORRECTION (NO EPISTEMIC CHANGE)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -15,19 +15,17 @@ Lock Level: TOTAL (no autonomous learning)
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
 Last Update: January 2026
-Wordcount: ~3,450
+Wordcount: ~3,500
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.4)
+UPGRADE NOTE (v1.5)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, authority, and lock
-constraints from v1.3.
+constraints from v1.4.
 
-v1.4 introduces ADDITIVE formalization only:
-• Explicit capture of recent paired-synthesis learning outputs
-• Formal Scholar Heuristic Table derived from learning-mode synthesis
-• Export boundary clarification (diagnostic vs doctrinal use)
-• Reinforcement of WRITE-readiness safeguards without unlocking authority
+v1.5 introduces ONE corrective change only:
+• Section IX is corrected to match the frozen Academic References Canon
+  (ARC–ROME) with three categories: Ancient / Public Domain / Copyright.
 
 No prior entries are modified.
 No beliefs are reclassified.
@@ -307,16 +305,52 @@ Doctrine Count: 3
 Total Entries: 24
 
 ────────────────────────────────────────────────────────────
-IX. ROME SECONDARY SOURCE CONFIGURATION (RSA-ROME)
+IX. ACADEMIC REFERENCES CANON — ARC–ROME (CANONICAL)
 ────────────────────────────────────────────────────────────
-Required Authors:
+ARC–ROME is the exclusive, authoritative scholarly reference canon for
+all ROME materials in the Codex. It replaces all prior “secondary source”
+or reference-configuration concepts in full.
+
+APPLIES TO:
+• MEM–ROME authoring and audits
+• CIV–INDEX–ROME enforcement
+• CIV–SCHOLAR–ROME audits and learning validation
+• Doctrine admissibility review
+
+GENERAL RULES:
+• No author outside ARC–ROME may be cited in ROME materials.
+• Any listed author MUST be quoted verbatim if invoked.
+• Category-specific quotation requirements are enforced by MEM Writing Mode law.
+• Canon amendment requires CIV–CORE–ROME version upgrade only.
+• Canon drift is prohibited across CORE / INDEX / SCHOLAR.
+
+A. ANCIENT AUTHORS (CANONICAL — 10)
+• Herodotus
+• Thucydides
+• Polybius
+• Livy
+• Tacitus
+• Suetonius
+• Cassius Dio
+• Plutarch
+• Strabo
+• Pliny the Elder
+
+B. PUBLIC DOMAIN AUTHORS (CANONICAL — CLOSED LIST)
 • Edward Gibbon
 • Theodor Mommsen
+• Gaetano De Sanctis
+• Mikhail Rostovtzeff
+
+C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
 • Adrian Goldsworthy
 • Anthony Kaldellis
-
-Public Domain: ≥25-word verbatim excerpts required
-Copyrighted: longest lawful excerpt required
+• Anthony Everitt
+• Peter Sarris
+• Peter Heather
+• Hans-Ulrich Wiemer
+• Richard Gabriel
+• Will Durant
 
 ────────────────────────────────────────────────────────────
 X. SCHOLAR ↔ CORE PARITY CHECKSUM
@@ -326,7 +360,7 @@ procedurally consistent with CIV–CORE–ROME; no epistemic authority is
 added, removed, or contradicted.”
 
 ────────────────────────────────────────────────────────────
-XI. EXPORT BOUNDARY & USE CLAUSE (NEW)
+XI. EXPORT BOUNDARY & USE CLAUSE
 ────────────────────────────────────────────────────────────
 This file is a diagnostic and heuristic accumulation artifact.
 
@@ -343,7 +377,7 @@ It may not be used to:
 All downstream use must respect LOCK state and governance law.
 
 ────────────────────────────────────────────────────────────
-XII. SCHOLAR HEURISTIC TABLE (NEW)
+XII. SCHOLAR HEURISTIC TABLE
 ────────────────────────────────────────────────────────────
 Heuristic ID | Trigger Pattern | Observed Roman Response | Risk Signal
 ────────────|────────────────-|────────────────---------|------------
@@ -357,5 +391,5 @@ H-ROME-06 | Moral corrosion under stability | Incentive decay | Hollow legitimac
 These heuristics are descriptive, not predictive.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v1.4
+END OF FILE — CIV–SCHOLAR–ROME — v1.5
 ────────────────────────────────────────────────────────────
