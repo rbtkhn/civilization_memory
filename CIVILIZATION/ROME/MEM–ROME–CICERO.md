@@ -1,11 +1,11 @@
-MEM–ROME–CICERO — v1.7
+MEM–ROME–CICERO — v1.8
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.7
-Upgrade Type: ADD-ONLY · ACADEMIC REFERENCES QUOTATION COMPLIANCE
-Supersedes: MEM–ROME–CICERO — v1.6
+Version: 1.8
+Upgrade Type: CARDINALITY COMPLIANCE · CONNECTION SCOPE CORRECTION
+Supersedes: MEM–ROME–CICERO — v1.7
 Civilization: ROME
 Regime: LATE REPUBLIC (c. 80–43 BC)
 Subject: Marcus Tullius Cicero
@@ -13,7 +13,6 @@ Dates: 106 BC – 43 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Wordcount: ~1,850
-```
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -160,19 +159,18 @@ Rome abandons Cicero politically.
 The West preserves him normatively.
 
 ────────────────────────────────────────────────────────────
-VIII. RELATED MEM CONNECTIONS (MANDATORY)
+VIII. RELATED MEM CONNECTIONS (MANDATORY — ROME ONLY)
 ────────────────────────────────────────────────────────────
-ROME:
-• MEM–ROME–CAESAR — Legitimacy migration from procedure to command
-• MEM–ROME–AUGUSTUS — Concealed monarchy replacing rhetoric
-• MEM–ROME–PAPACY — Authority survival through translation
-• MEM–ROME–CRUSADES — Moral rhetoric outpacing capacity
-
-OTHER CIVILIZATIONS:
-• MEM–FRANCIA–REVOLUTION
-• MEM–GERMANIA–KANT
-• MEM–ANGLIA–COMMON–LAW
-• MEM–GREEK–PLATO
+1. MEM–ROME–CAESAR — Migration of legitimacy from republican procedure to personal command power  
+2. MEM–ROME–AUGUSTUS — Resolution of Cicero’s failed rhetoric through concealed monarchy  
+3. MEM–ROME–CATILINE — Internal conspiracy revealing the limits of persuasion under stress  
+4. MEM–ROME–POMPEY — Senatorial legitimacy attempting to coexist with military authority  
+5. MEM–ROME–ANTONY — Personal power openly supplanting civic speech and legal restraint  
+6. MEM–ROME–SULLA — Precedent for violence overriding constitutional norms  
+7. MEM–ROME–CATO — Stoic moral resistance parallel to Cicero’s rhetorical resistance  
+8. MEM–ROME–CIVIL–WAR–LATE–REPUBLIC — Structural collapse rendering republican speech obsolete  
+9. MEM–ROME–AUGUSTAN–SETTLEMENT — Institutional absorption of Cicero’s ideals without his methods  
+10. MEM–ROME–PAPACY — Survival of moral–legal authority through non-military institutional translation  
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -186,5 +184,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CICERO — v1.7
+END OF FILE — MEM–ROME–CICERO — v1.8
 ────────────────────────────────────────────────────────────
