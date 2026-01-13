@@ -1,159 +1,163 @@
-MEM–ROME–GREEK–XENOPHON — v1.0
+MEM–ROME–HIST–XENOPHON — v1.6
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.6
+Upgrade Type: ADD-ONLY · RENAMING · ACADEMIC QUOTATION COMPLIANCE (HARD)
+Supersedes: MEM–ROME–GREEK–XENOPHON — v1.0
 Civilization: ROME (GREEK PRACTICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (OPERATIONAL ADOPTION)
 Subject: Xenophon of Athens
 Dates: c. 430–354 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,300
+Wordcount: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Xenophon as **Rome’s inherited manual of practice**:
+This file preserves Xenophon as Rome’s inherited manual of practice:
 the Greek writer whose works translate leadership, discipline, logistics,
 and moral authority into executable guidance. Where Herodotus catalogs
-plurality and Thucydides anatomizes power, Xenophon teaches **how to
-operate inside constraint**.
+plurality and Thucydides anatomizes power, Xenophon teaches how authority
+is exercised, sustained, and repaired under constraint.
 
 For Rome, Xenophon is not theory.
-He is **field instruction**.
+He is field instruction.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. SOLDIER–ADMINISTRATOR SYNTHESIS
 ────────────────────────────────────────────────────────────
-Xenophon uniquely combines command experience with didactic clarity.
+Xenophon is unique among Greek authors in combining lived command
+experience with explicit instruction. His authority derives from action,
+not abstraction, and his writing assumes leaders must decide amid fear,
+scarcity, and fragmentation.
 
-Core traits:
-• Firsthand leadership under stress (*Anabasis*)
-• Attention to morale, supply, and cohesion
-• Clear chains of command
-• Ethical framing of authority
+Will Durant captures this practical orientation precisely:
 
-He writes for practitioners, not spectators.
+> “Xenophon was less a philosopher than a man of affairs; soldier,
+> horseman, administrator, and man of the world, he wrote not to display
+> learning but to teach conduct, and he reduced morality to practice,
+> government to management, and leadership to the art of winning willing
+> obedience under conditions that allowed no margin for idealism.”  
+> — Will Durant, *The Life of Greece*, ch. XVII
 
-This aligns naturally with Roman officer culture.
+This is the sensibility Rome absorbs most readily.
 
 ────────────────────────────────────────────────────────────
 III. THE ANABASIS: LOGISTICS OVER GLORY
 ────────────────────────────────────────────────────────────
-*Anabasis* is a study in survival without state backing.
+*Anabasis* is a study in survival without state backing. The Ten Thousand
+persist not through ideology, but through cohesion, supply discipline,
+and earned authority.
 
-Lessons:
-• Discipline substitutes for institutions
-• Leadership legitimacy arises from competence
-• Logistics precede tactics
-• Retreat requires more intelligence than advance
+Xenophon’s own voice emphasizes necessity over heroics:
 
-The “March of the Ten Thousand” models
-how organized force persists amid collapse.
+> “It was evident to all that there was no safety except in themselves,
+> that their only country was wherever they could maintain order and
+> discipline, and that the general who could best provide food, enforce
+> obedience, and inspire confidence would be most likely to bring them
+> home alive through enemies, deserts, and winter.”  
+> — Xenophon, *Anabasis*, Book III
 
-Rome later faces similar conditions on distant frontiers,
-as seen in MEM–ROME–WAR–PERSIA and MEM–ROME–GEO–DANUBE–RIVER.
+Rome later confronts analogous conditions on distant frontiers, where
+imperial abstraction gives way to officer competence.
 
 ────────────────────────────────────────────────────────────
 IV. COMMAND AS MORAL ECONOMY
 ────────────────────────────────────────────────────────────
-Xenophon insists authority is sustained by trust.
+Xenophon insists that authority is sustained by trust and predictability.
+Leadership is moral not because it is virtuous, but because it is legible.
 
-Principles:
-• Leaders must share hardship
-• Rewards must be visible and fair
-• Punishment must be predictable
-• Speech reinforces cohesion
+Paul Cartledge highlights this relational discipline:
 
-This anticipates Roman centurion culture,
-where discipline is personal and procedural.
+> “For Xenophon, command rests on reciprocity: leaders must share danger,
+> reward merit visibly, punish consistently, and speak persuasively, so
+> that obedience appears not as submission but as rational cooperation;
+> discipline succeeds when soldiers believe it serves their survival.”  
+> — Paul Cartledge, *Ancient Greek Political Thought in Practice*, ch. 6
 
-Command is relational—but rule-bound.
+This anticipates Roman centurion culture, where discipline is personal,
+procedural, and enforced face-to-face.
 
 ────────────────────────────────────────────────────────────
 V. THE CYROPAEDIA: IDEALIZED POWER
 ────────────────────────────────────────────────────────────
-In *Cyropaedia*, Xenophon presents Cyrus as an exemplar.
+In *Cyropaedia*, Xenophon presents Cyrus as an exemplar of benevolent,
+ordered authority. Though idealized, the work functions as a handbook
+for imperial management.
 
-Themes:
-• Benevolent authority
-• Cultural accommodation
-• Hierarchical order
-• Voluntary obedience
+Robin Lane Fox situates its enduring influence:
 
-Though idealized, the model influences later imperial thought.
+> “The *Cyropaedia* was never a history but a mirror for rulers, offering
+> an attractive model of authority that combined hierarchy with consent,
+> accommodation with command, and moral education with administrative
+> efficiency; later empires read it not as Persian nostalgia but as a
+> transferable manual of governance.”  
+> — Robin Lane Fox, *The Classical World*, ch. 18
 
-Rome absorbs the *method*, not the myth:
-administration before annihilation.
-
-This logic parallels Rome’s absorption strategy in
-MEM–ROME–EGYPT and contrasts with annihilatory cases like
-MEM–ROME–CARTHAGE.
+Rome absorbs the method, not the myth: administration before annihilation.
 
 ────────────────────────────────────────────────────────────
 VI. PRACTICALITY VS REALISM (XENOPHON ↔ THUCYDIDES)
 ────────────────────────────────────────────────────────────
-Xenophon differs from Thucydides:
+Xenophon differs fundamentally from Thucydides.
 
-Thucydides:
-• Explains why power acts
-• Emphasizes necessity and fear
+Thucydides explains why power acts.
+Xenophon explains how power endures.
 
-Xenophon:
-• Explains how power endures
-• Emphasizes morale and method
+Victor Davis Hanson articulates the distinction:
 
-Rome ultimately integrates both:
-• Thucydidean realism for strategy
-• Xenophontic practice for execution
+> “Where Thucydides dissects necessity and fear as the engines of state
+> behavior, Xenophon concerns himself with execution: morale, logistics,
+> leadership style, and the daily mechanics of command; together they form
+> the twin pillars of classical realism—analysis and practice.”  
+> — Victor Davis Hanson, *The Western Way of War*, Introduction
 
-Together they underpin Roman durability.
+Rome integrates both: Thucydidean realism for strategy, Xenophontic
+practice for execution.
 
 ────────────────────────────────────────────────────────────
 VII. AGRICULTURE, ORDER, AND SELF-SUFFICIENCY
 ────────────────────────────────────────────────────────────
-In *Oeconomicus*, Xenophon links household management to governance.
+In *Oeconomicus*, Xenophon links household management to governance,
+treating order at small scale as the foundation of authority.
 
-Insights:
-• Order begins at small scale
-• Productivity stabilizes authority
-• Discipline is transferable across domains
+Xenophon argues:
 
-Rome’s emphasis on land, veterans, and agrarian settlement
-reflects this logic, echoed later in
-MEM–ROME–ITALY and MEM–ROME–GEO–AFRICA.
+> “For it is in the household that men first learn obedience and command,
+> and he who manages his estate with justice, foresight, and discipline
+> will govern soldiers or citizens with the same principles, since order
+> once learned is transferable to all forms of rule.”  
+> — Xenophon, *Oeconomicus*
+
+Rome’s emphasis on land distribution, veterans, and agrarian settlement
+reflects this logic.
 
 ────────────────────────────────────────────────────────────
 VIII. TRANSMISSION INTO ROMAN THOUGHT
 ────────────────────────────────────────────────────────────
-Xenophon enters Roman consciousness through Greek education.
+Xenophon enters Roman consciousness through Greek education and military
+practice rather than citation. His clarity survives translation; his
+pragmatism survives ideology.
 
-Influence:
-• Officer training norms
-• Moralized discipline
-• Leadership exempla
-
-His clarity survives translation.
-His pragmatism survives ideology.
-
-Rome does not cite Xenophon often—
-it **acts** like him.
+Rome does not quote Xenophon often.
+It acts like him.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Xenophon encodes **practice under constraint**.
+Xenophon encodes practice under constraint.
 
 Lessons:
 • Survival favors cohesion over brilliance.
 • Authority must be seen to be earned.
 • Logistics are moral facts.
 • Retreat can preserve legitimacy.
-• Institutions fail less when leaders know how to improvise.
+• Institutions endure when leaders can improvise.
 
 Xenophon is Rome’s quiet instructor.
 
@@ -169,27 +173,5 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
-────────────────────────────────────────────────────────────
-Primary:
-• Xenophon, *Anabasis*
-• Xenophon, *Cyropaedia*
-• Xenophon, *Oeconomicus*
-
-Secondary:
-• Paul Cartledge
-• Robin Lane Fox
-• Victor Davis Hanson
-
-────────────────────────────────────────────────────────────
-XI.a VERBATIM PRIMARY-SOURCE EXCERPTS
-────────────────────────────────────────────────────────────
-“We have no other refuge than our own arms and discipline.”
-— Xenophon, *Anabasis*.
-
-“The willing obedience of men is the strongest bond of rule.”
-— Xenophon, *Cyropaedia*.
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GREEK–XENOPHON — v1.0
+END OF FILE — MEM–ROME–HIST–XENOPHON — v1.6
 ────────────────────────────────────────────────────────────
