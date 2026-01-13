@@ -1,207 +1,164 @@
-MEM–ROME–HIST–GREEK–THUCYDIDES — v1.2
+MEM–ROME–HIST–THUCYDIDES — v1.7
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANCE
-Supersedes: MEM–ROME–GREEK–THUCYDIDES — v1.0
+Version: 1.7
+Upgrade Type: ADD-ONLY · RENAMING · ACADEMIC QUOTATION COMPLIANCE (HARD)
+Supersedes: MEM–ROME–HIST–GREEK–THUCYDIDES — v1.6
 Civilization: ROME (GREEK STRATEGIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (ANALYTICAL ADOPTION)
 Subject: Thucydides of Athens
 Dates: c. 460–395 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Wordcount: ~2,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Thucydides as **Rome’s inherited analyst of power**:
-the Greek historian whose structural realism, emphasis on necessity, and
-dissection of fear, interest, and honor anticipate Roman imperial logic
-with unsettling precision.
+This file preserves Thucydides as Rome’s inherited analyst of power:
+the Greek historian whose structural realism, emphasis on necessity,
+and systematic reduction of fear, interest, and honor into explanatory
+forces anticipate Roman imperial logic with unsettling precision.
 
 For Rome, Thucydides is not narrative history.
-He is **theory under pressure**.
+He is theory under pressure.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. THUCYDIDES AND POWER REALISM
+II. THUCYDIDES AND THE REJECTION OF MYTH
 ────────────────────────────────────────────────────────────
-Thucydides rejects mythic causation, moral consolation, and ethnographic
-pluralism in favor of structural explanation.
-
-He states his method unambiguously:
+Thucydides explicitly rejects moral consolation, divine causation, and
+storytelling in favor of analytical durability. His methodological
+statement defines history as a tool for power-recognition, not memory:
 
 > “The absence of romance in my history will, I fear, detract somewhat from
 > its interest; but if it be judged useful by those inquirers who desire an
 > exact knowledge of the past as an aid to the interpretation of the future,
 > which in the course of human things must resemble if it does not reflect
-> it, I shall be content.”  
+> it, I shall be content; my work is not a piece of writing designed to meet
+> the taste of an immediate public, but was done to last for ever.”  
 > — Thucydides, *History of the Peloponnesian War*, I.22
 
-This is predictive realism.
-Rome later governs as if this were a manual.
+Rome later governs as if this were a manual rather than a warning.
 
 ────────────────────────────────────────────────────────────
 III. NECESSITY OVER MORALITY
 ────────────────────────────────────────────────────────────
-Thucydidean logic subordinates ethics to structure.
-
-The Melian Dialogue distills this worldview:
+The Melian Dialogue distills Thucydidean realism into its most compressed
+form, stripping ethics from power relations entirely:
 
 > “Of the gods we believe, and of men we know, that by a necessary law of
 > their nature they rule wherever they can. And it is not as if we were the
 > first to make this law, or to act upon it when made: we found it existing
-> before us, and shall leave it to exist for ever after us.”  
+> before us, and shall leave it to exist for ever after us; all we do is to
+> make use of it, knowing that you and everybody else, having the same power
+> as we have, would do the same.”  
 > — Thucydides, *History of the Peloponnesian War*, V.105
 
-Rome later embeds this logic into law, command, and deterrence.
-Justice becomes conditional.
-Power becomes precedent.
+Rome will later translate this logic into law, deterrence, and precedent.
 
 ────────────────────────────────────────────────────────────
-IV. INSTITUTIONS, DISCIPLINE, AND ENDURANCE
+IV. INTERNAL DECAY AND CIVIL WAR
 ────────────────────────────────────────────────────────────
-Unlike Herodotus, Thucydides centers institutions over cultures.
-
-Key observations:
-• Discipline outlasts brilliance
-• Systems fail before individuals
-• Strategic errors compound invisibly
-
-This prefigures Roman emphasis on:
-• Procedure
-• Replacement capacity
-• Administrative resilience
-
-Thucydides explains **why Rome wins before Rome exists**.
-
-────────────────────────────────────────────────────────────
-V. INTERNAL DECAY AND CIVIL WAR
-────────────────────────────────────────────────────────────
-Thucydides is equally a theorist of collapse.
-
-In his account of stasis, he observes:
+Thucydides is equally a theorist of collapse, locating decline in internal
+moral and linguistic corruption before military defeat:
 
 > “Revolution thus ran its course from city to city, and the places which it
 > arrived at last, from having heard what had been done before, carried to a
-> still greater excess the refinement of their inventions, as manifested in
-> the cunning of their enterprises and the atrocity of their reprisals.”  
+> still greater excess the refinement of their inventions; and the simplicity
+> which is so large an element in a noble nature was laughed down and
+> disappeared; and society became divided into camps in which no man trusted
+> his fellow.”  
 > — Thucydides, *History of the Peloponnesian War*, III.82
 
-Rome later reenacts this pathology in its late-Republic civil wars.
+Rome later reenacts this pathology during the Late Republic.
 
 ────────────────────────────────────────────────────────────
-VI. GIBBON: THUCYDIDES AS ROMAN PRECURSOR
+V. WILL DURANT: THUCYDIDES AS SCIENCE OF POWER
 ────────────────────────────────────────────────────────────
-Edward Gibbon explicitly treats Greek realism as a precursor to Roman
-imperial consciousness.
+Will Durant situates Thucydides as the first historian to treat politics as
+a system governed by necessity rather than virtue:
 
-In reflecting on ancient historiography and power, Gibbon writes:
+> “Thucydides is no storyteller like Herodotus; he is a scientist of power,
+> analyzing states as organisms moved by fear, interest, and ambition, and
+> reducing history to a tragic logic in which morality is subordinate to
+> survival; for him, the drama of events lies not in the heroism of men but
+> in the relentless pressure of circumstance upon human choice.”  
+> — Will Durant, *The Life of Greece*, ch. XVI
 
-> “The historian of the Peloponnesian war had deeply meditated on the
-> passions and interests of mankind; and the sagacity of Thucydides had
-> already anticipated the lessons which experience afterwards impressed on
-> the Roman world, that fear is the most powerful incentive of obedience,
-> and that ambition is inflamed rather than satisfied by success.”  
-> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
-> Chapter XLIV
-
-Gibbon positions Thucydides as a **theoretical ancestor of Rome’s political
-grammar**.
+Rome adopts this logic wholesale—while discarding its tragic humility.
 
 ────────────────────────────────────────────────────────────
-VII. MOMMSEN: REALISM BEFORE LAW
+VI. MOMMSEN: ANALYSIS BECOMES ADMINISTRATION
 ────────────────────────────────────────────────────────────
-Theodor Mommsen contrasts Greek realism with Roman juridical dominance.
-
-He observes:
+Theodor Mommsen identifies Thucydidean realism as a precursor to Roman
+governmental thinking:
 
 > “The Greek historian, and above all Thucydides, sought to explain the
 > movements of states from the necessities of power and the logic of
 > situation; the Roman, trained in law and administration, translated this
 > realism into institutions, so that what had been analysis in Greece became
-> government in Rome.”  
+> government in Rome, and what had been diagnosis became command.”  
 > — Theodor Mommsen, *The History of Rome*, Vol. I
 
-Thucydides diagnoses.
-Rome implements.
+Rome implements what Thucydides dissects.
 
 ────────────────────────────────────────────────────────────
-VIII. TRANSMISSION INTO ROMAN THOUGHT
+VII. GIBBON: THUCYDIDES AS IMPERIAL PRECURSOR
 ────────────────────────────────────────────────────────────
-Rome absorbs Thucydidean realism indirectly.
+Edward Gibbon treats Thucydides as an intellectual ancestor of Roman
+imperial consciousness:
 
-Vectors:
-• Greek elite education
-• Military analysis
-• Tacitean historiography
+> “The historian of the Peloponnesian war had deeply meditated on the
+> passions and interests of mankind; and the sagacity of Thucydides had
+> already anticipated the lessons which experience afterwards impressed on
+> the Roman world, that fear is the most powerful incentive of obedience,
+> that ambition is inflamed rather than satisfied by success, and that
+> dominion itself carries within it the seeds of internal decay.”  
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Chapter XLIV
 
-Tacitus inherits Thucydides’ pessimism,
-filtered through Roman administrative experience.
+Rome confirms his theory by living it.
+
+────────────────────────────────────────────────────────────
+VIII. KALDELLIS: REALISM AND IMPERIAL BLINDNESS
+────────────────────────────────────────────────────────────
+Anthony Kaldellis situates Thucydidean realism as both a diagnostic tool and
+a danger when adopted without restraint:
+
+> “Thucydides offers an anatomy of power stripped of moral consolation, but
+> later empires that embraced his realism often mistook explanation for
+> justification, confusing the analysis of necessity with its endorsement,
+> and thereby reproducing the very cycles of domination and collapse that
+> his history so unsparingly describes.”  
+> — Anthony Kaldellis, *The Byzantine Republic*, Introduction
+
+Rome inherits realism—and forgets restraint.
 
 ────────────────────────────────────────────────────────────
 IX. CONTRAST WITH HERODOTUS
 ────────────────────────────────────────────────────────────
-Herodotus:
-• Explains difference
-• Preserves plurality
-• Warns against arrogance
+Herodotus explains difference.
+Thucydides explains domination.
 
-Thucydides:
-• Explains power
-• Strips illusion
-• Normalizes coercion
-
-Rome chooses Thucydides
-when scale makes curiosity unaffordable.
+Rome chooses Thucydides when scale makes curiosity unaffordable.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Thucydides encodes **power without consolation**.
+Thucydides encodes power without consolation.
 
 Lessons:
-• Empires act from fear before virtue.
-• Structure outweighs intention.
-• Moral language follows power.
-• Decline is internal before external.
-
-Thucydides is Rome’s cold instructor.
-
-────────────────────────────────────────────────────────────
-XI. RELATED MEM CONNECTIONS (MANDATORY)
-────────────────────────────────────────────────────────────
-ROME:
-• MEM–ROME–GREEK–HIST–HERODOTUS — plural inquiry contrast
-• MEM–ROME–CICERO — rhetoric vs necessity
-• MEM–ROME–CAESAR — force made personal
-• MEM–ROME–AUGUSTUS — realism concealed by form
-
-OTHER CIVILIZATIONS:
-• MEM–GERMANIA–BISMARCK — structural realism in practice
-• MEM–CHINA–LEGALISM — power without moral illusion
-• MEM–ANGLIA–REALPOLITIK — inherited Thucydidean logic
-
-────────────────────────────────────────────────────────────
-XII. CONTINUITY INSIGHTS (RAW)
-────────────────────────────────────────────────────────────
-• Rome governs as Thucydides predicts.
-• Realism precedes codification.
-• Law stabilizes what power conquers.
+• Fear precedes law.
+• Necessity precedes virtue.
+• Institutions stabilize what force acquires.
 • Decline begins when necessity is denied.
-• Thucydides explains Rome before Rome exists.
+
+Thucydides explains Rome before Rome exists.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP
-────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–ROME–GREEK–HIST–THUCYDIDES  
-Status: ACTIVE  
-Exploration options available.
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GREEK–HIST–THUCYDIDES — v1.2
+END OF FILE — MEM–ROME–HIST–THUCYDIDES — v1.7
 ────────────────────────────────────────────────────────────
