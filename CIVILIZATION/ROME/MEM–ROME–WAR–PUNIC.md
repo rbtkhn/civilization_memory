@@ -8,7 +8,7 @@ Upgrade Type: RETROFIT · ACADEMIC REFERENCES COMPLIANCE
 Supersedes: MEM–ROME–WAR–PUNIC — v1.0
 Civilization: ROME
 Subject: The Punic Wars
-Dates: 264–146 BCAD
+Dates: 264–146 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Wordcount: ~2,050
