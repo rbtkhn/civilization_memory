@@ -1,15 +1,15 @@
-CIV–INDEX–ROME — v1.8
+CIV–INDEX–ROME — v1.9
 Civilizational Memory Codex · Civilization Index
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.8
-Upgrade Type: ADDITIVE REGISTRATION + ERROR CORRECTION
+Version: 1.9
+Upgrade Type: ADDITIVE REGISTRATION + SYNC CORRECTION
 Civilization: ROME
 Class: CIV–INDEX
 Last Update: January 2026
-Wordcount: ~1,450
-Total Registered Files:  ninety-plus (authoritative count governed by this index)
+Wordcount: ~1,520
+Total Registered Files: authoritative count governed exclusively by this index
 
 Template Alignment: CIV–MEM–CORE v1.7 (Index-Compatible)
 
@@ -26,13 +26,14 @@ INDEX GOVERNANCE RULES (MANDATORY):
 • Absence of a file implies non-existence, not error
 • Canonical designation requires explicit declaration
 • This index supersedes all prior ROME indices
+• Filename normalization is binding
 
 ────────────────────────────────────────────────────────────
 II. CANONICAL CIV–CORE ENGINE
 ────────────────────────────────────────────────────────────
 • CIV–CORE–ROME — v1.2
   Status: ACTIVE · CANONICAL · LOCKED
-  Template Compliance: CIV–CORE–TEMPLATE v1.5 (FULL)
+  Template Compliance: CIV–CORE–TEMPLATE v1.6.1 (FULL)
   Supersedes: ALL prior ROME CIV–CORE engines
   Lock Level: FULL
 
@@ -43,10 +44,10 @@ III. REGISTERED MEM FILES — PERSONS & FIGURES (ROME)
 • MEM–ROME–CAESAR.md
 • MEM–ROME–CATO.md
 • MEM–ROME–CICERO.md
-• MEM–ROME–CLAUDIUS.md
 • MEM–ROME–HANNIBAL.md
 • MEM–ROME–JUSTINIAN.md
 • MEM–ROME–POMPEY.md
+• MEM–ROME–SCIPIO–AFRICANUS.md
 • MEM–ROME–SPARTACUS.md
 • MEM–ROME–SULLA.md
 • MEM–ROME–TRAJAN.md
@@ -72,10 +73,13 @@ V. REGISTERED MEM FILES — HISTORIANS / AUTHORS (ROME-LENS)
 • MEM–ROME–HIST–MOMMSEN.md
 • MEM–ROME–HIST–KALDELLIS.md
 • MEM–ROME–HIST–LIVY.md
-• MEM–ROME–PLUTARCH.md
-• MEM–ROME–POLYBIUS.md
-• MEM–ROME–SUETONIUS.md
-• MEM–ROME–TACITUS.md
+• MEM–ROME–HIST–SUETONIUS.md
+• MEM–ROME–HIST–TACITUS.md
+• MEM–ROME–HIST–POLYBIUS.md
+• MEM–ROME–HIST–PLUTARCH.md
+• MEM–ROME–HIST–HERODOTUS.md
+• MEM–ROME–HIST–THUCYDIDES.md
+• MEM–ROME–HIST–XENOPHON.md
 
 ────────────────────────────────────────────────────────────
 VI. REGISTERED MEM FILES — GREEK WORLD (ROME-LENS)
@@ -86,15 +90,14 @@ VI. REGISTERED MEM FILES — GREEK WORLD (ROME-LENS)
 • MEM–ROME–GREEK–PERICLES.md
 • MEM–ROME–GREEK–SOCRATES.md
 • MEM–ROME–GREEK–SOPHOCLES.md
-• MEM–ROME–GREEK–XENOPHON.md
 • MEM–ROME–GREEK–LIT–HOMER.md
 
 ────────────────────────────────────────────────────────────
 VII. REGISTERED MEM FILES — LITERATURE / PHILOSOPHICAL CANON
 ────────────────────────────────────────────────────────────
 • MEM–ROME–LIT–VIRGIL.md
-• MEM–ROME–LIT–GREEK–ARISTOTLE.md
 • MEM–ROME–LIT–GREEK–PLATO.md
+• MEM–ROME–LIT–GREEK–ARISTOTLE.md
 
 ────────────────────────────────────────────────────────────
 VIII. REGISTERED MEM FILES — INSTITUTIONS & CIVIL STRUCTURES
@@ -131,9 +134,9 @@ XI. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL
 • MEM–ROME–SYRIA.md
 • MEM–ROME–PALESTINE.md
 • MEM–ROME–PALESTINE–JERUSALEM.md
+
 • MEM–ROME–GEO–LEVANT.md
 • MEM–ROME–GEO–AFRICA.md
-
 • MEM–ROME–GEO–ADRIATIC–SEA.md
 • MEM–ROME–GEO–AEGEAN–SEA.md
 • MEM–ROME–GEO–ALPS.md
@@ -191,7 +194,8 @@ Changes require:
 • Explicit version increment
 • Additive registration only
 • No retroactive deletion
+• Filename normalization compliance
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v1.8
+END OF FILE — CIV–INDEX–ROME v1.9
 ────────────────────────────────────────────────────────────
