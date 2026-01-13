@@ -1,148 +1,213 @@
 CIV–INDEX–TEMPLATE — v1.6
-Civilizational Memory Codex · Civilization Index File
-Repository: https://github.com/rbtkhn/civilization_memory
+Civilizational Memory Codex · Civilization Index Template
+Academic Reference Canon (ARC) Integration Edition
 
-Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.6
-Upgrade Type: ADDITIVE · CORE PARITY + ACADEMIC RULE REINFORCEMENT
-Civilization: [CIVILIZATION]
-Subject: [Civilization] Memory Index (Authoritative File Register)
-Dates: [Temporal scope, e.g. Ancient–present]
-Class: CIV (Index)
-Last Update: [Month Year]
+Status: ACTIVE · CANONICAL · TEMPLATE
+Supersedes: CIV–INDEX–TEMPLATE v1.5
+Upgrade Type: ADDITIVE · GOVERNANCE ALIGNMENT
+Activation State: INACTIVE BY DEFAULT
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
+Governance Mode: STRUCTURAL LOCK
+Lock Level: TOTAL (no silent mutation)
 
-WORDCOUNT: [Auto-calculated]
-TOTAL REGISTERED FILES: [##] MEM–[CIVILIZATION] OBJECTS
+Governed by:
+• CIV–MEM–CORE (global system law)
+• CIV–INDEX–GOVERNANCE–LAW v1.0 (implicit)
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (for parity constraints)
 
-Template Alignment: CIV–CORE–TEMPLATE v1.6+ (Index-Compatible)
-Governance Parity: CORE–[CIVILIZATION] MATCH REQUIRED
-
-────────────────────────────────────────────────────────────
-I. PURPOSE & INDEX GOVERNANCE
-────────────────────────────────────────────────────────────
-This file is the authoritative register of all MEM–[CIVILIZATION] files.
-
-INDEX GOVERNANCE RULES (MANDATORY · CORE-ALIGNED):
-• Section order is fixed and identical across all CIV–INDEX files
-• Entries are registrational only: no interpretation, synthesis, or doctrine
-• Every new MEM–[CIVILIZATION] file MUST be added immediately
-• Renames or scope changes MUST be reflected the same day
-• Filenames MUST match canonical MEM filenames verbatim
-• Redundancy with CIV–CORE is intentional and reinforcing
-• This index is the sole source of truth for:
-  – Scholar-mode discovery scope
-  – Parity enforcement across civilizations
-  – CIV–CORE synchronization boundaries
-
-This file does not think.
-This file does not learn.
-This file does not judge.
-
-Canonical Section Order (LOCKED):
-A. GEO
-B. DYNASTY
-C. WAR
-D. LAW
-E. ECON
-F. RELIGION
-G. PERSON
-H. OTHER / MISC
+Last Update: January 2026
+WORDCOUNT: ~1,900
 
 ────────────────────────────────────────────────────────────
-II. FILE REGISTER — [CIVILIZATION]
+UPGRADE NOTE (v1.6)
 ────────────────────────────────────────────────────────────
+This version preserves all structural, semantic, and governance
+constraints from CIV–INDEX–TEMPLATE v1.5.
 
-A) GEO
-• MEM–[CIVILIZATION]–GEO–[SUBJECT].md
+v1.6 introduces one additive, system-wide clarification:
 
-B) DYNASTY
-• MEM–[CIVILIZATION]–DYNASTY–[NAME].md
+• Formal recognition of the **Academic Reference Canon (ARC)** as a
+  governed, registrable, non-interpretive civilizational object
 
-C) WAR
-• MEM–[CIVILIZATION]–WAR–[CONFLICT].md
-
-D) LAW
-• MEM–[CIVILIZATION]–LAW–[CODE / CHARTER / SOVEREIGNTY].md
-
-E) ECON
-• MEM–[CIVILIZATION]–ECON–[SYSTEM / REGION].md
-
-F) RELIGION
-• MEM–[CIVILIZATION]–[RELIGIOUS INSTITUTION / MOVEMENT].md
-
-G) PERSON
-• MEM–[CIVILIZATION]–[PERSON].md
-
-H) OTHER / MISC
-• MEM–[CIVILIZATION]–[PLACE / REGION / CONCEPT].md
+No MEM registration logic is altered.
+No index authority is expanded.
+No interpretive power is added.
+No retroactive invalidation occurs.
 
 ────────────────────────────────────────────────────────────
-III. ACADEMIC REFERENCES REGISTRY (INDEX-LEVEL · CORE-REDUNDANT)
+I. TEMPLATE PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-This section **reinforces** (but does not override) CIV–CORE academic
-engagement rules.
+CIV–INDEX–[CIVILIZATION] is the authoritative registry of all files,
+objects, and canonical artifacts associated with a civilization.
 
-Rules (MANDATORY · REGISTRATIONAL ONLY):
-• Inclusion here does NOT imply endorsement
-• Ranking, synthesis, or interpretation is forbidden
-• Academic engagement in MEM files MUST follow CORE rules:
-  – Author name required
-  – Work title required
-  – Publication year required
-  – Embedded quotations MUST be ≥25 words
-  – No excerpt ceilings permitted
-  – Academic sources may frame but never override primary evidence
+It is:
+• A registry
+• A visibility surface
+• A canonical existence ledger
 
-This registry defines the **approved engagement pool only**.
+It is NOT:
+• An interpretive document
+• A synthesis engine
+• A doctrinal authority
+• A historical narrative
 
-[Populate per civilization]
+The index records **what exists**, not **what it means**.
 
 ────────────────────────────────────────────────────────────
-IV. INDEX LOCK & PROPAGATION CLAUSE
+II. INDEX GOVERNANCE PRINCIPLES (MANDATORY)
 ────────────────────────────────────────────────────────────
-This index is LOCKED.
+All CIV–INDEX instances are governed by the following rules:
 
-• Structural changes require a version increment
-• Content additions are permitted without renumbering
-• CIV–CORE–[CIVILIZATION] MUST reference this file verbatim
-• CIV–SCHOLAR–[CIVILIZATION] may ingest ONLY files listed here
-• No Scholar belief, doctrine, or synthesis may alter this index
+• Section order is fixed and enforced
+• Entries are registrational only
+• No interpretation, synthesis, or belief extraction is permitted
+• Absence of a file implies non-existence, not error
+• Canonical designation requires explicit declaration
+• This index supersedes all prior indices for the same civilization
 
-This file propagates scope, not meaning.
-
-────────────────────────────────────────────────────────────
-V. AUTHORITY BOUNDARIES & NON-FUNCTIONS
-────────────────────────────────────────────────────────────
-This index is registrational only.
-
-Explicit non-functions:
-• Does NOT participate in doctrine evaluation
-• Does NOT participate in belief synthesis
-• Does NOT interface with Doctrine Intake Buffers
-• Does NOT resolve Scholar divergence
-• Does NOT assess historical truth or validity
-
-Authority boundaries:
-• CIV–CORE retains sole doctrinal and strategic authority
-• CIV–SCHOLAR learns only from MEM files listed here
-• This index constrains *what may be learned*, not *what is believed*
-
-This file exists to prevent scope drift.
+Violation of index neutrality constitutes a governance breach.
 
 ────────────────────────────────────────────────────────────
-VI. VERSIONING & ADDITIVE-ONLY GUARANTEE
+III. REQUIRED INDEX SECTIONS (ORDER LOCKED)
 ────────────────────────────────────────────────────────────
-v1.6 establishes:
-• Explicit CORE parity requirement
-• Mandatory academic quotation rules (redundant with CORE)
-• Filename-verbatim enforcement
-• Hardened propagation constraints
+All CIV–INDEX instances MUST include, in this exact order:
+
+I.    Purpose & Index Governance  
+II.   Canonical CIV–CORE Engine  
+III.  Registered MEM Files — Persons & Figures  
+IV.   Registered MEM Files — Emperors / Regimes (if applicable)  
+V.    Registered MEM Files — Historians / Authors (Lens-Specific)  
+VI.   Registered MEM Files — External Civilizations (Lens-Specific)  
+VII.  Registered MEM Files — Literature / Philosophy  
+VIII. Registered MEM Files — Institutions & Civil Structures  
+IX.   Registered MEM Files — Sub-Epochs / Transformations  
+X.    Registered MEM Files — Wars / Conflicts  
+XI.   Registered MEM Files — Geography & Spatial Control  
+XII.  Registered MEM Files — Language & Civilizational Grammar  
+XIII. Registered MEM Files — Afterlife / Post-Civilizational Continuity  
+XIV.  Index Parity & Mirror Status  
+XV.   Canonical Lock Notice  
+XVI.  Academic Reference Canon (ARC)  ← **NEW (v1.6)**
+
+Sections may be expanded but not reordered, renamed, or removed.
+
+────────────────────────────────────────────────────────────
+IV. CANONICAL CIV–CORE ENGINE REGISTRATION
+────────────────────────────────────────────────────────────
+Each CIV–INDEX MUST explicitly register the canonical CIV–CORE engine
+for the civilization.
+
+Rules:
+• Only ONE CIV–CORE may be canonical
+• Superseded versions must be noted
+• Lock level must be declared
+• Template compliance must be stated
+
+No SCHOLAR artifact may substitute for CIV–CORE authority.
+
+────────────────────────────────────────────────────────────
+V. MEM REGISTRATION RULES (GLOBAL)
+────────────────────────────────────────────────────────────
+All MEM registrations must:
+
+• Use exact filenames
+• Reflect canonical version where applicable
+• Be additive only
+• Never be silently removed
+• Never be reclassified retroactively
+
+The index MAY contain legacy or deprecated files, but must mark
+canonical status explicitly.
+
+────────────────────────────────────────────────────────────
+VI. INDEX PARITY & MIRROR LOGIC
+────────────────────────────────────────────────────────────
+Parity with other civilizations is:
+
+• Encouraged
+• Informational
+• Non-binding
+
+Absence of parity does not imply deficiency.
+
+The index performs no parity enforcement.
+
+────────────────────────────────────────────────────────────
+VII. ACADEMIC REFERENCE CANON (ARC) — NEW (MANDATORY IF PRESENT)
+────────────────────────────────────────────────────────────
+A civilization MAY define an **Academic Reference Canon (ARC–[CIV])**.
+
+If defined, the ARC MUST be explicitly declared in this section.
+
+ARC DEFINITION:
+The ARC is the authoritative list of academic authors whose works are
+permitted to govern **citation eligibility and quotation discipline**
+within MEM authoring for a civilization.
+
+ARC RULES:
+• ARC entries are NOT MEM files
+• ARC entries are NOT interpreted here
+• ARC entries are NOT doctrine
+• ARC entries confer NO analytical authority by themselves
+• ARC governs **source eligibility and quotation requirements only**
+
+IMPLICIT CANON IS FORBIDDEN:
+Academic authority MAY NOT be implied by:
+• MEM filenames alone
+• Historical prominence
+• Frequency of citation
+
+All canonical academic authority MUST be declared via ARC.
+
+────────────────────────────────────────────────────────────
+VIII. ARC MIRRORING REQUIREMENT (MANDATORY)
+────────────────────────────────────────────────────────────
+If an ARC is declared for a civilization:
+
+• It MUST be mirrored verbatim into:
+  – CIV–CORE–[CIV]
+  – CIV–SCHOLAR–[CIV]
+
+• ARC mirroring MUST NOT:
+  – Alter doctrine
+  – Add interpretation
+  – Introduce synthesis
+  – Modify CIV–CORE supremacy
+
+The index serves as the **visibility anchor** for ARC existence.
+
+────────────────────────────────────────────────────────────
+IX. ARC GOVERNANCE CONSTRAINTS
+────────────────────────────────────────────────────────────
+The ARC MAY impose:
+• Minimum citation counts
+• Category requirements (e.g., Ancient / Public Domain / Copyright)
+• Verbatim quotation thresholds
+• Author eligibility constraints
+
+The ARC MAY NOT:
+• Generate beliefs
+• Generate syntheses
+• Generate doctrine
+• Override MEM factual content
+• Substitute for primary sources
+
+ARC violations are procedural failures, not historical falsifications.
+
+────────────────────────────────────────────────────────────
+X. CANONICAL LOCK NOTICE
+────────────────────────────────────────────────────────────
+This template is LOCKED.
 
 Future versions:
-• May add metadata
-• May NOT reorder sections
-• May NOT delete registered files
-• May NOT introduce interpretation or doctrine
+• May add sections only
+• May clarify governance language only
+• May not remove sections
+• May not reorder sections
+• May not introduce interpretive authority
+
+All CIV–INDEX files MUST declare:
+“Derived from CIV–INDEX–TEMPLATE v1.6”
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–TEMPLATE v1.6
