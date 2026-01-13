@@ -1,18 +1,34 @@
-CIV–CORE–ROME — v1.2
+CIV–CORE–ROME — v1.4
 Civilizational Strategy Codex · Civilization Continuity Engine
 Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling Edition
 CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT
 
 Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.2
-Supersedes: CIV–CORE–ROME v1.1
-Upgrade Type: STRUCTURAL COMPLIANCE REWRITE (NO DOCTRINAL CHANGE)
+Version: 1.4
+Supersedes: CIV–CORE–ROME v1.3
+Upgrade Type: ADDITIVE · ARC–ROME CANON CORRECTION (NO DOCTRINAL CHANGE)
 Template Version Used: CIV–CORE–TEMPLATE v1.5
 DIB Status: DEFINED · DISABLED
 Scholar Reference Mode: READ-ONLY · DIB-GATED
 Lock Level: FULL
-Wordcount: ~2,200
+Wordcount: ~2,350
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.4)
+────────────────────────────────────────────────────────────
+This version preserves all structure, doctrine, metrics, thresholds,
+and enforcement logic from v1.3 without alteration.
+
+v1.4 introduces ONE corrective change only:
+• Section XXIII (ARC–ROME) is replaced to match the frozen Academic
+  Reference Canon exactly, as mirrored in CIV–SCHOLAR–ROME and
+  CIV–INDEX–ROME.
+
+No doctrine is added, removed, or revised.
+No analytical outputs are changed.
+No CIV–CORE authority boundaries are altered.
+No Scholar authority is expanded.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -242,5 +258,53 @@ XXII. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
   NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v1.2
+XXIII. ACADEMIC REFERENCES CANON — ROME (ARC–ROME) [CORE LAW]
+────────────────────────────────────────────────────────────
+ARC–ROME is the exclusive, authoritative scholarly reference canon for
+all ROME materials in the Codex. It replaces all prior “secondary source”
+or reference-configuration concepts in full.
+
+APPLIES TO:
+• MEM–ROME authoring and audits
+• CIV–INDEX–ROME enforcement
+• CIV–SCHOLAR–ROME audits and learning validation
+• Doctrine admissibility review
+
+GENERAL RULES:
+• No author outside ARC–ROME may be cited in ROME materials.
+• Any listed author MUST be quoted verbatim if invoked.
+• Category-specific quotation requirements are enforced by MEM Writing Mode law.
+• Canon amendment requires CIV–CORE–ROME version upgrade only.
+• Canon drift is prohibited across CORE / INDEX / SCHOLAR.
+
+A. ANCIENT AUTHORS (CANONICAL — 10)
+• Herodotus
+• Thucydides
+• Polybius
+• Livy
+• Tacitus
+• Suetonius
+• Cassius Dio
+• Plutarch
+• Strabo
+• Pliny the Elder
+
+B. PUBLIC DOMAIN AUTHORS (CANONICAL — CLOSED LIST)
+• Edward Gibbon
+• Theodor Mommsen
+• Gaetano De Sanctis
+• Mikhail Rostovtzeff
+
+C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
+• Adrian Goldsworthy
+• Anthony Kaldellis
+• Anthony Everitt
+• Peter Sarris
+• Peter Heather
+• Hans-Ulrich Wiemer
+• Richard Gabriel
+• Will Durant
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–ROME — v1.4
 ────────────────────────────────────────────────────────────
