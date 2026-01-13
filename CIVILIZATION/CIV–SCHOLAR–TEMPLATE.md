@@ -1,32 +1,32 @@
-CIV–SCHOLAR–TEMPLATE — v1.4
+CIV–SCHOLAR–TEMPLATE — v1.5
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.3
-Upgrade Type: ADDITIVE · GOVERNANCE HARDENING · SPATIAL + LIFECYCLE FORMALIZATION
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.4
+Upgrade Type: ADDITIVE · ACADEMIC REFERENCE CANON INTEGRATION
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+Governed by:
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+• CIV–ARC–SCHEMA v1.0 (mandatory)
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.4)
+UPGRADE NOTE (v1.5)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, and authority
-constraints from v1.3.
+constraints from v1.4.
 
-v1.4 introduces ADDITIVE clarification only:
+v1.5 introduces ADDITIVE clarification only:
 
-• Formalizes Spatial / Capital Geometry Modifiers as a descriptive,
-  non-belief analytical class
-• Introduces Doctrine Lifecycle State metadata (non-mutating)
-• Formalizes Scholar procedural citation-discipline flagging
-• Explicitly bars spatial, lifecycle, or citation notes from belief,
-  synthesis, or doctrine propagation
+• Integrates Academic References Canon (ARC) enforcement awareness
+• Explicitly replaces all “secondary source configuration” concepts
+• Formalizes Scholar’s procedural role in ARC compliance audits
+• Prohibits Scholar from supplying, selecting, or inventing sources
 
 No Scholar authority is expanded.
 No synthesis powers are added.
@@ -313,7 +313,7 @@ Future versions:
 • May NOT introduce civilization-specific content
 
 Derived files must note:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.4”
+“Derived from CIV–SCHOLAR–TEMPLATE v1.5”
 
 ────────────────────────────────────────────────────────────
 XV. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
@@ -349,13 +349,6 @@ Heuristic Statement:
 
 Scope:
 • ANALYTICAL ONLY
-
-Rules:
-• Heuristics may be permanent
-• Heuristics may guide analysis prospectively
-• Heuristics may NOT propagate into Sections III–V
-• Heuristics may NOT alter doctrine
-• Heuristics may NOT be cited as belief
 
 ────────────────────────────────────────────────────────────
 XVII. COMPLIANCE AUDIT EVENTS (FORMALIZED)
@@ -447,12 +440,6 @@ Observed Effect:
 Scope:
 • DESCRIPTIVE ONLY
 
-Rules:
-• Modifiers may inform analysis
-• Modifiers may NOT propagate into Sections III–V
-• Modifiers may NOT alter doctrine
-• Modifiers may NOT be cited as belief or synthesis
-
 ────────────────────────────────────────────────────────────
 XXI. TEMPLATE VERSIONING DECLARATION
 ────────────────────────────────────────────────────────────
@@ -466,7 +453,37 @@ Future versions:
 • May not introduce cognition or prediction
 
 Derived files MUST state:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.4”
+“Derived from CIV–SCHOLAR–TEMPLATE v1.5”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.4
+XXII. ACADEMIC REFERENCES CANON (ARC) AWARENESS (MANDATORY)
+────────────────────────────────────────────────────────────
+This section formalizes the Scholar’s procedural awareness of the
+Academic References Canon (ARC).
+
+ARC replaces all prior notions of:
+• “secondary sources”
+• “recommended historians”
+• “supporting scholarship”
+
+ARC is authoritative for MEM authoring compliance, but NOT for belief,
+synthesis, or doctrine formation.
+
+ARC categories are defined externally in CIV–ARC–SCHEMA v1.0 and include:
+• Ancient
+• Public Domain
+• Copyright
+
+Rules:
+• The Scholar may audit MEM files for ARC compliance
+• The Scholar may flag missing categories or quotation violations
+• The Scholar may NOT supply quotations
+• The Scholar may NOT select authors
+• The Scholar may NOT infer canon membership
+• The Scholar may NOT relax ARC constraints
+
+ARC violations are procedural failures only.
+ARC compliance produces no beliefs, syntheses, or doctrines.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–TEMPLATE v1.5
