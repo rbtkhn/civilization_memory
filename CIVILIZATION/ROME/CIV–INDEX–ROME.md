@@ -1,17 +1,18 @@
-CIV–INDEX–ROME — v1.9
+CIV–INDEX–ROME — v1.9.1
 Civilizational Memory Codex · Civilization Index
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.9
-Upgrade Type: ADDITIVE REGISTRATION + SYNC CORRECTION
+Version: 1.9.1
+Supersedes: CIV–INDEX–ROME v1.9
+Upgrade Type: ADDITIVE · REGISTRATION CORRECTION ONLY
 Civilization: ROME
 Class: CIV–INDEX
 Last Update: January 2026
-Wordcount: ~1,520
+Wordcount: ~1,540
 Total Registered Files: authoritative count governed exclusively by this index
 
-Template Alignment: CIV–MEM–CORE v1.7 (Index-Compatible)
+Template Alignment: CIV–MEM–CORE v1.8 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -31,9 +32,9 @@ INDEX GOVERNANCE RULES (MANDATORY):
 ────────────────────────────────────────────────────────────
 II. CANONICAL CIV–CORE ENGINE
 ────────────────────────────────────────────────────────────
-• CIV–CORE–ROME — v1.2
+• CIV–CORE–ROME — v1.6
   Status: ACTIVE · CANONICAL · LOCKED
-  Template Compliance: CIV–CORE–TEMPLATE v1.6.1 (FULL)
+  Template Compliance: CIV–CORE–TEMPLATE v1.6.2 (FULL)
   Supersedes: ALL prior ROME CIV–CORE engines
   Lock Level: FULL
 
@@ -173,7 +174,21 @@ XIII. REGISTERED MEM FILES — ITALY (POST-ROMAN AFTERLIFE)
 • MEM–ROME–CHARLEMAGNE.md
 
 ────────────────────────────────────────────────────────────
-XIV. INDEX PARITY & MIRROR STATUS
+XIV. ACADEMIC REFERENCE CANON — ROME (ARC–ROME) [DECLARATIVE POINTER]
+────────────────────────────────────────────────────────────
+The Academic Reference Canon governing all ROME materials is defined
+exclusively in the following file:
+
+• CIV–SCHOLAR–ROME–ARC — v1.8
+
+Rules:
+• ARC–ROME is external, canonical, and category-locked
+• This index does not embed, quote, summarize, or interpret ARC content
+• ARC compliance is mandatory for MEM–ROME validity and audits
+• Any deviation from CIV–SCHOLAR–ROME–ARC v1.8 invalidates compliance
+
+────────────────────────────────────────────────────────────
+XV. INDEX PARITY & MIRROR STATUS
 ────────────────────────────────────────────────────────────
 Mirror parity with other civilizations is:
 • Encouraged
@@ -183,7 +198,7 @@ Mirror parity with other civilizations is:
 No parity enforcement is performed at the index level.
 
 ────────────────────────────────────────────────────────────
-XV. CANONICAL LOCK NOTICE
+XVI. CANONICAL LOCK NOTICE
 ────────────────────────────────────────────────────────────
 This index is LOCKED.
 
@@ -197,5 +212,5 @@ Changes require:
 • Filename normalization compliance
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v1.9
+END OF FILE — CIV–INDEX–ROME v1.9.1
 ────────────────────────────────────────────────────────────
