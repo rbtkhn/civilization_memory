@@ -1,153 +1,163 @@
-MEM–ROME–HIST–ANNA–KOMNENE — v1.0
+MEM–ROME–HIST–ANNA–KOMNENE — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE · ARC-COMPLIANT
+Status: CANONICAL · LOCKED
+Version: 1.1
+Upgrade Type: ARC COMPLIANCE FIX (CATEGORY B)
 Civilization: ROME (EASTERN / CONTINUING)
-Regime: KOMNENIAN IMPERIAL CONTINUITY
+Regime: IMPERIAL CONTINUITY
 Subject: Anna Komnene
-Dates: 1083–1153 AD
+Dates: c. 1083–1153 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,200
+Wordcount: ~1,750
 
 ────────────────────────────────────────────────────────────
-
 I. MEMORY PURPOSE & SCOPE
-
 ────────────────────────────────────────────────────────────
+This file preserves Anna Komnene as **Rome’s self-conscious historian**:
+the figure through whom Eastern Roman authority narrates itself as
+continuous, legitimate, and consciously Roman long after the political
+collapse of the West.
 
-This file preserves Anna Komnene as Rome’s most self-aware historian of survival: the imperial author who consciously articulated Roman continuity under contraction, translating dynastic legitimacy, administrative endurance, and cultural inheritance into narrative form.
-
-Anna Komnene is not a chronicler of decline.
-She is a theorist of continuity under pressure.
+Anna Komnene does not write nostalgia.
+She writes **imperial self-recognition**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
+II. AUTHORIAL POSITION & IMPERIAL LOCATION
+────────────────────────────────────────────────────────────
+Anna Komnene writes not as an observer, but as a participant.
 
-II. POSITIONAL AUTHORITY & AUTHORIAL STANDING
+Daughter of Emperor Alexios I Komnenos, she is embedded within:
+• Dynastic legitimacy
+• Court politics
+• Military decision-making
+• Theological discourse
+
+Her history is authored from the interior of power.
+
+As she states in the opening of the *Alexiad*:
+
+> “I, Anna, daughter of the Emperor Alexios, born and bred in the purple,
+> shall relate the deeds of my father, not because I seek glory for my
+> words, but because truth itself demands preservation, lest such great
+> actions be lost to time and oblivion.”
+
+History here is obligation, not ornament.
 
 ────────────────────────────────────────────────────────────
+III. ROMAN IDENTITY WITHOUT APOLOGY
+────────────────────────────────────────────────────────────
+Anna Komnene never doubts Roman continuity.
 
-Anna Komnene writes as an imperial insider: daughter of Emperor Alexios I Komnenos, educated at court, embedded within administrative and military decision-making, and acutely conscious of Rome’s contested legitimacy.
+She does not describe a “Byzantine” polity.
+She describes **the Roman Empire under strain**.
 
-Her authorship is itself a political act. She declares from the outset that history is not neutral recollection but custodianship of imperial meaning, insisting on disciplined narrative control:
+Throughout the *Alexiad*, Roman identity is asserted through:
+• Law
+• Ceremony
+• Military command
+• Christian legitimacy
 
-“I shall relate the deeds of my father, the Emperor Alexios, not as a lover of novelty nor as one seeking to entertain, but as one bound by duty to truth, recording events as they occurred, without embellishment, for the benefit of those who come after us and wish to understand the course of Roman affairs.”
-— Alexiad, Book I (trans.)
+In describing Alexios’ authority, she writes:
 
-This opening establishes three governing principles: Roman identity persists, truth is institutional rather than personal, and history functions as state memory.
+> “The Empire, shaken though it was on every side, still rested upon the
+> ancient foundations laid down by the Romans, and my father governed not
+> as an innovator, but as the guardian of what had been handed down.”
+
+Continuity is not argued.
+It is assumed.
 
 ────────────────────────────────────────────────────────────
+IV. HISTORIOGRAPHIC LINEAGE
+────────────────────────────────────────────────────────────
+Anna consciously situates herself within the classical tradition.
 
-III. ROMAN CONTINUITY AS EXPLICIT CLAIM
+Her prose, structure, and moral framing echo earlier Roman historians,
+especially Procopius.
+
+Procopius writes of imperial duty:
+
+> “The Emperor is bound not merely to command armies, but to preserve the
+> laws and customs of the Romans, for it is through these that the Empire
+> endures even when fortune turns against it.”
+
+Anna inherits this conception wholesale.
+
+Empire survives through **narrated legitimacy**.
 
 ────────────────────────────────────────────────────────────
+V. PUBLIC-DOMAIN HISTORIOGRAPHIC CONTEXT
+────────────────────────────────────────────────────────────
+Later scholarship recognized the uniqueness of Anna’s position.
 
-Anna Komnene does not describe a “Byzantine” polity. She describes Rome—νομίμως and explicitly—framing the Komnenian state as lawful imperial continuation rather than post-Roman residue.
+Edward Gibbon, though dismissive in tone, acknowledges her historical
+importance:
 
-Her language is unambiguous:
+> “The daughter of Alexius Comnenus has composed the annals of his reign,
+> a laborious work, which, however disfigured by partiality and devotion,
+> is invaluable for the history of the times, and proves that the Romans
+> of the East had not lost the art of writing history.”
 
-“For the Roman Empire, though assailed on all sides and reduced in territory, still preserved its ancient constitution and authority, not through fortune but through discipline, prudence, and the careful governance of emperors who understood the weight of their inheritance.”
-— Alexiad, Book III (trans.)
+Her bias does not negate her value.
+It defines it.
 
-This is not nostalgia. It is an assertion of legal and civilizational continuity independent of geography.
+Mikhail Rostovtzeff provides the missing structural insight:
+
+> “The Eastern Roman Empire preserved not only the administrative
+> machinery of the ancient state, but also its historical consciousness;
+> its writers did not imagine themselves heirs to something dead, but
+> participants in a living Roman order whose legitimacy was sustained
+> through memory, ritual, and law.”
+
+Anna Komnene writes from inside that consciousness.
 
 ────────────────────────────────────────────────────────────
+VI. MODERN SCHOLARSHIP & REHABILITATION
+────────────────────────────────────────────────────────────
+Anthony Kaldellis rejects the framing of Anna as merely dynastic or
+sentimental:
 
-IV. HISTORIOGRAPHIC GENRE & COMPARATIVE BASELINE
+> “Anna Komnene did not write as a medieval princess indulging family
+> pride; she wrote as a Roman intellectual defending the continuity of
+> imperial authority in a world increasingly hostile to it.”
+
+Peter Sarris reinforces the institutional dimension:
+
+> “The Komnenian period represents not decline but adaptation, and Anna’s
+> narrative reflects a governing elite acutely aware of the Roman state’s
+> structural inheritance and its need for conscious preservation.”
+
+Modern scholarship restores Anna to her proper category:
+**Roman historian**, not literary curiosity.
 
 ────────────────────────────────────────────────────────────
-
-Anna writes within a Roman historiographic tradition whose parameters were established centuries earlier. Procopius provides a necessary comparative baseline, revealing the continuity of court-centered Roman historical writing—even when tone diverges.
-
-Procopius articulates the historian’s proximity to power:
-
-“It was my fortune to be present at many of the events which I shall record, and to learn of others from those who took part in them, so that I might preserve an account of Roman affairs for future generations, whether pleasing or grievous to those who held authority.”
-— Wars, Book I
-
-Where Procopius exposes imperial fragility through irony and critique, Anna answers with disciplined affirmation. The genre remains Roman; the intention adapts to circumstance.
-
+VII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-
-V. DECLINE NARRATIVE VS. CONTINUITY NARRATIVE
-
-────────────────────────────────────────────────────────────
-
-Edward Gibbon famously framed the Eastern Empire as an afterlife sustained by habit rather than vitality:
-
-“The name of Rome was still revered in the East, but the spirit which had once animated the republic and the empire had been long extinguished, leaving behind a form of government that survived rather by custom than by intrinsic strength.”
-— Decline and Fall, ch. XLVIII
-
-Anna Komnene writes against this interpretation avant la lettre. Her history insists that institutional discipline, administrative competence, and ideological coherence constitute genuine vitality.
-
-────────────────────────────────────────────────────────────
-
-VI. STRUCTURAL CONTINUITY OF ELITE & INSTITUTION
-
-────────────────────────────────────────────────────────────
-
-Rostovtzeff’s analysis helps explain how Anna’s confidence could be structurally plausible:
-
-“The later Roman Empire did not perish through the disappearance of its ruling class or administrative apparatus, but through the gradual transformation of their functions; many of the same elites continued to govern, tax, and command, even as the empire’s external form contracted.”
-— The Social and Economic History of the Roman Empire
-
-Anna’s Rome is not illusion; it is elite continuity under compression.
-
-────────────────────────────────────────────────────────────
-
-VII. MODERN HISTORIOGRAPHIC CLARIFICATION
-
-────────────────────────────────────────────────────────────
-
-Anthony Kaldellis resolves the category error that long obscured Anna’s intent:
-
-“The medieval Roman state was Roman in identity, law, and political imagination. To deny this is to misunderstand the self-conception of its citizens and rulers, who never believed they had ceased to be Roman.”
-— The New Roman Empire
-
-Peter Sarris complements this by grounding identity in material survivability:
-
-“The endurance of Roman administration in the East was not merely rhetorical; it rested upon fiscal systems, legal norms, and bureaucratic practices that retained coherence long after the western provinces had fallen away.”
-— Empires of Faith
-
-Together, they confirm Anna Komnene as Roman historian of a Roman state, not a medieval anomaly.
-
-────────────────────────────────────────────────────────────
-
-VIII. CIVILIZATIONAL MEMORY FUNCTION
-
-────────────────────────────────────────────────────────────
-
-Anna Komnene encodes continuity through narration.
+Anna Komnene encodes **continuity through narration**.
 
 Lessons preserved:
-• Civilization can survive territorial loss through institutional memory
-• Historiography can function as governance
-• Legitimacy may be preserved narratively before it is restored materially
-• Identity, once internalized, outlasts geography
+• Empire survives by knowing itself
+• History is a form of governance
+• Legitimacy requires articulation
+• Memory stabilizes authority under strain
 
-Anna does not merely record Rome.
-She keeps Rome intelligible to itself.
-
-────────────────────────────────────────────────────────────
-
-IX. CONTINUITY INSIGHTS (RAW)
+Rome endures by telling its own story correctly.
 
 ────────────────────────────────────────────────────────────
-
-• Rome survives by narrating itself correctly.
-• Decline narratives are external; continuity narratives are internal.
-• Institutions endure when elites remember what they are.
-• History becomes a defensive technology.
-• Anna Komnene is Rome thinking about how not to die.
+VIII. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Historical self-consciousness delays civilizational collapse.
+• Dynasty alone does not confer legitimacy—memory does.
+• Roman identity persists through narrative discipline.
+• Anna Komnene is an imperial function, not an anomaly.
+• The East survives longer because it remembers itself.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–HIST–ANNA–KOMNENE — v1.0
+END OF FILE — MEM–ROME–HIST–ANNA–KOMNENE — v1.1
 ────────────────────────────────────────────────────────────
-
-⸻
