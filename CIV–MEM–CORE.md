@@ -1,15 +1,38 @@
-CIV–MEM–CORE — v1.7
+CIV–MEM–CORE — v1.8
 Civilizational Memory Codex · System Core
+ARC CANON ALIGNMENT · GOVERNANCE HARDENING EDITION
+
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 1.7
+Version: 1.8
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v1.6
-Upgrade Type: ADDITIVE · GOVERNANCE CLARIFICATION ONLY
+Supersedes: CIV–MEM–CORE v1.7
+Upgrade Type: ADDITIVE · ARC CANON ALIGNMENT ONLY
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8)
+────────────────────────────────────────────────────────────
+This version preserves ALL structural order, authority hierarchy,
+semantic meaning, and governance constraints from CIV–MEM–CORE v1.7.
+
+v1.8 introduces ADDITIVE governance clarification only:
+
+• Elevates the Academic Reference Canon (ARC) from implicit convention
+  to explicit, first-class system governance object
+• Replaces all residual “academic registry” semantics with
+  canon-governed, category-locked ARC logic
+• Aligns ARC handling across CIV–CORE, MEM, INDEX, and SCHOLAR files
+• Explicitly binds doctrinal eligibility and MEM validity to ARC
+  procedural compliance
+
+NO interpretation is added.
+NO doctrine is altered.
+NO analytical content is introduced.
+NO authority boundaries are weakened.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -50,7 +73,6 @@ Civilizations persist.
 ────────────────────────────────────────────────────────────
 III. FILE CLASS TAXONOMY (MANDATORY)
 ────────────────────────────────────────────────────────────
-
 CIV–MEM–CORE
 • Global system law
 • Loaded first
@@ -80,7 +102,6 @@ CIV–DOCTRINE–[NAME]
 ────────────────────────────────────────────────────────────
 IV. GLOBAL GOVERNANCE RULES
 ────────────────────────────────────────────────────────────
-
 • Additivity is mandatory
 • No deletions
 • No silent edits
@@ -168,10 +189,10 @@ IX. PRIMARY–SECONDARY CONFLICT RESOLUTION CLAUSE (PSCRC)
 When primary and secondary sources conflict, the following hierarchy
 applies:
 
-Tier A — Direct Primary Evidence
-Tier B — Contemporaneous Corroboration
-Tier C — Later Scholarly Interpretation
-Tier D — Retrospective Synthesis
+Tier A — Direct Primary Evidence  
+Tier B — Contemporaneous Corroboration  
+Tier C — Later Scholarly Interpretation  
+Tier D — Retrospective Synthesis  
 
 Rules:
 • Tier A evidence may not be overridden by lower tiers.
@@ -192,34 +213,99 @@ X. DOCTRINAL ELIGIBILITY FILTER (DEF)
 No doctrine may be frozen if unresolved Tier A or Tier B conflicts remain
 under the PSCRC.
 
+ADDITIVE CLARIFICATION (v1.8):
+• Doctrinal freezing is also BLOCKED if ARC quotation requirements
+  applicable to the source MEM(s) are violated.
+• ARC noncompliance is a procedural failure sufficient to halt doctrine,
+  regardless of analytical merit.
+
 Rules:
 • Doctrinal eligibility is procedural, not interpretive.
 • Scholar synthesis may proceed, but doctrine freezing is blocked until
-  conflicts are disclosed and bounded.
+  conflicts and ARC compliance are satisfied.
 • Disclosure does not require resolution; it requires explicit framing.
 
 The DEF is a hard gate.
-Failure to pass invalidates doctrinal freezing.
 
 ────────────────────────────────────────────────────────────
-XI. CIVILIZATION-LOCAL ACADEMIC REGISTRY RULE
+XI. ACADEMIC REFERENCE CANON (ARC) — SYSTEM LAW (NEW)
 ────────────────────────────────────────────────────────────
-Academic reference registries are civilization-specific.
+The Academic Reference Canon (ARC) is a Codex-governed canonical object.
+
+ARC:
+• Replaces all notions of “academic registry,” “secondary source lists,”
+  or ad hoc reference configurations
+• Is category-locked and procedurally enforced
+• Is NOT analytical
+• Is NOT interpretive
+• Is NOT optional
+
+ARC defines:
+• Which authors are admissible
+• How authors are categorized
+• How quotations must be used
+• Which file classes may quote, list, or mirror authors
+
+ARC governance applies to:
+• MEM authoring validity
+• SCHOLAR ingestion audits
+• Doctrine eligibility (via DEF)
+• CORE / INDEX / SCHOLAR mirroring integrity
+
+Violation of ARC rules is a governance failure.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY LAW (GLOBAL)
+────────────────────────────────────────────────────────────
+ARC authors are divided into THREE and ONLY THREE categories:
+
+1) ANCIENT  
+2) PUBLIC DOMAIN  
+3) COPYRIGHT  
 
 Rules:
-• Each CIV–CORE–[CIVILIZATION] file must define its own Academic
-  References Registry.
-• CIV–MEM–CORE shall contain NO global academic canon.
-• Inclusion does not imply endorsement.
-• Engagement is mandatory; deference is forbidden.
-
-Purpose:
-• Prevent historiographic monoculture
-• Preserve civilizational specificity
-• Enforce comparative integrity
+• Category definitions are absolute.
+• No author may appear in more than one category.
+• Category reassignment is forbidden without explicit canon revision.
+• Category rules (quotation minimums, usage constraints) are enforced
+  exclusively by MEM governance law.
 
 ────────────────────────────────────────────────────────────
-XII. INDEX LAW
+XIII. ARC MIRRORING & CIVILIZATION SELECTION RULE
+────────────────────────────────────────────────────────────
+Each civilization MAY define an ARC–[CIVILIZATION] file.
+
+Rules:
+• ARC–[CIV] is a SELECTION from the global ARC, not a redefinition.
+• ARC–[CIV] must preserve global category boundaries.
+• ARC–[CIV] may not add uncodified authors.
+• ARC–[CIV] may not quote, summarize, or interpret sources.
+
+ARC–[CIV] instances MUST be mirrored verbatim into:
+• CIV–CORE–[CIV]
+• CIV–INDEX–[CIV]
+• CIV–SCHOLAR–[CIV]
+
+Mirroring is declarative only.
+
+────────────────────────────────────────────────────────────
+XIV. ARC ↔ MEM AUTHORING BINDING
+────────────────────────────────────────────────────────────
+ARC quotation minimums, integration standards, and category enforcement
+are governed exclusively by CIV–MEM–TEMPLATE law.
+
+CIV–MEM–CORE:
+• Declares ARC authority
+• Defines category law
+• Enforces procedural consequences
+
+It does NOT:
+• Set quotation counts
+• Define word-length thresholds
+• Permit exceptions
+
+────────────────────────────────────────────────────────────
+XV. INDEX LAW
 ────────────────────────────────────────────────────────────
 CIV–INDEX files:
 • Register existence only
@@ -230,9 +316,10 @@ They contain:
 • No interpretation
 • No prioritization
 • No hierarchy
+• No academic commentary
 
 ────────────────────────────────────────────────────────────
-XIII. CROSS–CIV & SDI MECHANISM
+XVI. CROSS–CIV & SDI MECHANISM
 ────────────────────────────────────────────────────────────
 Cross-civilizational comparison is permitted only via:
 • SDI (Scholar Divergence Index)
@@ -241,19 +328,20 @@ Cross-civilizational comparison is permitted only via:
 No cross-CIV synthesis may occur silently.
 
 ────────────────────────────────────────────────────────────
-XIV. DOCTRINE FORMATION LAW
+XVII. DOCTRINE FORMATION LAW
 ────────────────────────────────────────────────────────────
 Doctrine:
 • Must derive from frozen synthesis
 • Requires explicit command
 • Requires versioning
 • Is irreversible once canonical
-• Must pass the Doctrinal Eligibility Filter
+• Must pass the Doctrinal Eligibility Filter (DEF)
+• Must originate in ARC-compliant MEM material
 
 Doctrine is rare by design.
 
 ────────────────────────────────────────────────────────────
-XV. LOCK & ACTIVATION SEMANTICS
+XVIII. LOCK & ACTIVATION SEMANTICS
 ────────────────────────────────────────────────────────────
 LOCKED means:
 • Read-only
@@ -266,7 +354,7 @@ ACTIVE does not imply writable.
 Silence does not imply permission.
 
 ────────────────────────────────────────────────────────────
-XVI. HUMAN INTERFACE LAYER — VOICE PROFILES (VP-1)
+XIX. HUMAN INTERFACE LAYER — VOICE PROFILES (VP-1)
 ────────────────────────────────────────────────────────────
 Purpose:
 Define persistent linguistic and cognitive presentation styles for system
@@ -289,10 +377,10 @@ They may NOT affect:
 Default Voice Profile:
 VP-MERCOURIS
 
-[VP-1.a through VP-1.e unchanged from v1.6]
+[VP-1.a through VP-1.e unchanged from v1.7]
 
 ────────────────────────────────────────────────────────────
-XVII. INTERFACE PRECEDENCE RULE
+XX. INTERFACE PRECEDENCE RULE
 ────────────────────────────────────────────────────────────
 Voice Profile law is subordinate only to:
 • Safety constraints
@@ -304,7 +392,7 @@ It is superior to:
 • Implicit verbosity assumptions
 
 ────────────────────────────────────────────────────────────
-XVIII. CANONICAL STATUS
+XXI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
@@ -320,5 +408,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v1.7
+END OF FILE — CIV–MEM–CORE v1.8
 ────────────────────────────────────────────────────────────
