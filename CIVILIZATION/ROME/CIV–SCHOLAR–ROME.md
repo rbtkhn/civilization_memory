@@ -1,38 +1,43 @@
-CIV–SCHOLAR–ROME — v1.5
+CIV–SCHOLAR–ROME — v1.6
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v1.4
-Upgrade Type: ADDITIVE · ARC–ROME CANON CORRECTION (NO EPISTEMIC CHANGE)
+Supersedes: CIV–SCHOLAR–ROME v1.5
+Upgrade Type: ADDITIVE · ARC–ROME CANON SYNCHRONIZATION (NO EPISTEMIC CHANGE)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+Governed by:
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+• CIV–SCHOLAR–ROME–ARC v1.8 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
 Wordcount: ~3,500
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.5)
+UPGRADE NOTE (v1.6)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, authority, and lock
-constraints from v1.4.
+constraints from v1.5.
 
-v1.5 introduces ONE corrective change only:
-• Section IX is corrected to match the frozen Academic References Canon
-  (ARC–ROME) with three categories: Ancient / Public Domain / Copyright.
+v1.6 introduces ONE corrective change only:
+• Section IX is removed and replaced with an explicit pointer to the
+  externally stored and mirrored Academic Reference Canon:
+  CIV–SCHOLAR–ROME–ARC v1.8.
 
-No prior entries are modified.
+No learning entries are modified.
 No beliefs are reclassified.
 No syntheses are altered.
 No doctrines are added, removed, or revised.
 No CIV–CORE boundary is weakened.
 No predictive or prescriptive logic is introduced.
+
+This upgrade restores full ARC parity and external-storage readiness.
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -89,7 +94,7 @@ Ingest Type: Institution / Continuity Node / Geography
 Primary Belief Extracted:
 • Rome survives collapse by relocating authority into a new administrative-theological center while preserving institutional continuity.
 Belief Status:
-• FROZEN (see DOCTRINE v1.0 — “Imperial Continuity Through Authority Translation”)
+• FROZEN
 
 ENTRY 0003
 Source: MEM–ROME–PAPACY — v1.0
@@ -305,59 +310,28 @@ Doctrine Count: 3
 Total Entries: 24
 
 ────────────────────────────────────────────────────────────
-IX. ACADEMIC REFERENCES CANON — ARC–ROME (CANONICAL)
+IX. ACADEMIC REFERENCE CANON POINTER (ARC–ROME)
 ────────────────────────────────────────────────────────────
-ARC–ROME is the exclusive, authoritative scholarly reference canon for
-all ROME materials in the Codex. It replaces all prior “secondary source”
-or reference-configuration concepts in full.
+The Academic Reference Canon governing all ROME materials is defined
+exclusively in the following file:
 
-APPLIES TO:
-• MEM–ROME authoring and audits
-• CIV–INDEX–ROME enforcement
-• CIV–SCHOLAR–ROME audits and learning validation
-• Doctrine admissibility review
+• CIV–SCHOLAR–ROME–ARC — v1.8
 
-GENERAL RULES:
-• No author outside ARC–ROME may be cited in ROME materials.
-• Any listed author MUST be quoted verbatim if invoked.
-• Category-specific quotation requirements are enforced by MEM Writing Mode law.
-• Canon amendment requires CIV–CORE–ROME version upgrade only.
-• Canon drift is prohibited across CORE / INDEX / SCHOLAR.
+This canon:
+• Is stored externally
+• Is mirrored verbatim into CIV–CORE–ROME
+• Is mirrored verbatim into CIV–SCHOLAR–ROME–ARC
+• Is authoritative for all MEM–ROME authoring and audits
 
-A. ANCIENT AUTHORS (CANONICAL — 10)
-• Herodotus
-• Thucydides
-• Polybius
-• Livy
-• Tacitus
-• Suetonius
-• Cassius Dio
-• Plutarch
-• Strabo
-• Pliny the Elder
-
-B. PUBLIC DOMAIN AUTHORS (CANONICAL — CLOSED LIST)
-• Edward Gibbon
-• Theodor Mommsen
-• Gaetano De Sanctis
-• Mikhail Rostovtzeff
-
-C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
-• Adrian Goldsworthy
-• Anthony Kaldellis
-• Anthony Everitt
-• Peter Sarris
-• Peter Heather
-• Hans-Ulrich Wiemer
-• Richard Gabriel
-• Will Durant
+No ARC content is embedded in this file.
+Any deviation from CIV–SCHOLAR–ROME–ARC v1.8 invalidates compliance.
 
 ────────────────────────────────────────────────────────────
 X. SCHOLAR ↔ CORE PARITY CHECKSUM
 ────────────────────────────────────────────────────────────
-“CIV–SCHOLAR–ROME enforces Rome-specific authoring constraints that are
-procedurally consistent with CIV–CORE–ROME; no epistemic authority is
-added, removed, or contradicted.”
+“CIV–SCHOLAR–ROME enforces ROME-specific authoring and evidentiary
+constraints that are procedurally consistent with CIV–CORE–ROME; no
+epistemic authority is added, removed, or contradicted.”
 
 ────────────────────────────────────────────────────────────
 XI. EXPORT BOUNDARY & USE CLAUSE
@@ -391,5 +365,4 @@ H-ROME-06 | Moral corrosion under stability | Incentive decay | Hollow legitimac
 These heuristics are descriptive, not predictive.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v1.5
-────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–ROME — v1.6
