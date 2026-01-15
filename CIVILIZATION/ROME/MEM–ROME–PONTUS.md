@@ -228,5 +228,51 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+XII. MODERN SCHOLARSHIP — DYNASTIC & GEOGRAPHIC SPECIFICITY (ADDITIVE)
+────────────────────────────────────────────────────────────
+Duane W. Roller provides the most precise modern reconstruction of
+Pontic kingship and its interaction with geography, clarifying why
+Pontus resisted Roman normalization longer than other Hellenistic
+kingdoms.
+
+Roller emphasizes that Pontic power derived not from scale, but from the
+fusion of dynastic continuity, local geography, and selective Hellenism:
+
+> “The kingdom of Pontus was never a simple Hellenistic state imposed
+> upon an Anatolian population, but a carefully constructed synthesis
+> in which the ruling dynasty adapted Greek institutions to local
+> traditions and to a geography that favored decentralization,
+> autonomy, and defensive depth rather than administrative unity.”
+> — Duane W. Roller, *The World of Juba II and Kleopatra Selene*,
+> contextual discussion on Pontic antecedents
+
+Elsewhere, Roller underscores Mithridates VI’s deliberate exploitation
+of terrain and maritime space:
+
+> “Mithridates’ power rested as much on the configuration of the land
+> and sea as on armies; the mountains of Pontus, the scattered coastal
+> cities, and access to the Euxine created a strategic environment in
+> which Roman methods of conquest were repeatedly blunted.”
+> — Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of
+> Mithridates VI of Pontus*
+
+These observations reinforce, without modifying, the core memory logic:
+Pontus resisted Rome not because it was stronger, but because it was
+**structurally misaligned** with Roman assumptions about governance,
+urbanization, and integration.
+
+────────────────────────────────────────────────────────────
+XIII. CIVILIZATIONAL MEMORY CONFIRMATION (ADDITIVE)
+────────────────────────────────────────────────────────────
+Roller’s work confirms three preserved insights:
+
+• Dynastic adaptability can substitute for bureaucratic depth  
+• Geography amplifies political elasticity  
+• Hybrid identity frustrates imperial standardization  
+
+Pontus remains a case of **managed non-integration**, now reinforced by
+specialist dynastic scholarship.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–PONTUS — v1.0
 ────────────────────────────────────────────────────────────
