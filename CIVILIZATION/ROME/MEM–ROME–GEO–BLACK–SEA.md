@@ -1,17 +1,18 @@
-MEM–ROME–GEO–BLACK–SEA — v1.3
+MEM–ROME–GEO–BLACK–SEA — v1.3.1
 Civilizational Memory Codex · Memory File
+
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: CANONICAL · LOCKED · FINAL
-Version: 1.3
-Upgrade Type: COMPLIANCE HARDENING · ARC–ROME ALIGNMENT · GEOMETRIC ANCHOR INTEGRATION
+Version: 1.3.1
+Upgrade Type: ADDITIVE ONLY · ARC–ROME SOURCE EXTENSION (NO STRUCTURAL MODIFICATION)
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: The Black Sea (Pontus Euxinus)
 Dates: Hellenistic era – Late Roman / Eastern Roman continuity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,750
+Wordcount: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -52,9 +53,7 @@ stabilize under unified authority:
 > since both land and sea open them to continual change.”
 > — Strabo, *Geographica*, Book XI
 
-Rome overlays authority rather than rebuilds the system. The Black Sea
-remains plural before Roman rule, during Roman rule, and after Roman
-rule.
+Rome overlays authority rather than rebuilds the system.
 
 ────────────────────────────────────────────────────────────
 III. STRATEGIC FUNCTION: BUFFER, NOT CORE
@@ -66,11 +65,6 @@ Primary roles include:
 • Shielding the Balkans and Anatolia
 • Monitoring steppe and Caucasus access routes
 • Limiting hostile naval penetration
-
-Unlike the Mediterranean:
-• Control is indirect
-• Naval dominance is incomplete
-• Administration is uneven and coastal
 
 Appian captures Rome’s restraint following the Mithridatic Wars:
 
@@ -87,14 +81,6 @@ IV. ECONOMIC UTILITY WITHOUT DEPENDENCE
 The Black Sea contributes to Roman power but does not sustain Roman
 survival.
 
-Economic roles include:
-• Grain from Pontic and Scythian regions
-• Timber and raw materials
-• Slave and commodity trade
-
-Critical distinction:
-Rome can **lose Black Sea access without starving**.
-
 Edward Gibbon underscores this asymmetry:
 
 > “The provinces bordering the Euxine were useful rather than essential;
@@ -108,14 +94,6 @@ The region is useful, not vital.
 ────────────────────────────────────────────────────────────
 V. MILITARY LIMITS & STEPPE PROXIMITY
 ────────────────────────────────────────────────────────────
-The Black Sea exposes Rome to landward volatility beyond maritime
-control.
-
-Constraints include:
-• Steppe nomads beyond Roman governance
-• Riverine invasion corridors (Danube, Dniester)
-• Limited Roman penetration north of the coast
-
 Tacitus articulates Rome’s logic of restraint:
 
 > “There are regions which it is wiser to observe than to possess, for
@@ -123,20 +101,11 @@ Tacitus articulates Rome’s logic of restraint:
 > hold them would exhaust authority rather than extend it.”
 > — Tacitus, *Annals*, Book II
 
-Roman authority stops at the shoreline. Beyond it lies **non-Roman
-political physics**.
+Roman authority stops at the shoreline.
 
 ────────────────────────────────────────────────────────────
 VI. EASTERN ROME & CONDITIONAL CONTINUITY
 ────────────────────────────────────────────────────────────
-Eastern Rome revalues the Black Sea as a defensive hinterland for
-Constantinople.
-
-Functions include:
-• Defensive depth for the capital
-• Supply redundancy
-• Diplomatic interface with steppe powers
-
 Procopius describes the Black Sea’s defensive character:
 
 > “The Pontic Sea served more as a shield than as a possession, guarding
@@ -149,26 +118,17 @@ Control remains defensive; integration remains incomplete.
 ────────────────────────────────────────────────────────────
 VII. ALIGNMENT WITH THE MEDITERRANEAN GEOMETRIC ANCHOR
 ────────────────────────────────────────────────────────────
-This file is explicitly aligned with **MEM–ROME–GEO–MEDITERRANEAN–SEA**,
-which defines Rome’s interiorized maritime geometry.
-
-Comparative logic:
+This file is explicitly aligned with **MEM–ROME–GEO–MEDITERRANEAN–SEA**.
 
 Mediterranean:
 • Interiorized space
 • Dense legal circulation
 • Cultural standardization
-• Predictable logistics
 
 Black Sea:
 • Peripheral interface
 • Fragmented authority
-• Plural cultures
 • Strategic uncertainty
-
-Rome succeeds where water **connects civilization**.
-Rome restrains itself where water **exposes it to uncontrolled
-hinterlands**.
 
 The Black Sea is Rome’s *outer edge* of maritime logic.
 
@@ -177,44 +137,45 @@ VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 The Black Sea encodes **Roman restraint**.
 
-Lessons preserved:
-• Not all seas can be interiorized
-• Maritime access without hinterland control is unstable
-• Peripheral wealth increases exposure
-• Strategic buffers preserve longevity
-
 Rome learns where to stop.
-
-The Black Sea is a reminder that **limits sustain empire**.
 
 ────────────────────────────────────────────────────────────
 IX. RELATED MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–ROME–GEO–MEDITERRANEAN–SEA — interior vs threshold sea logic
-• MEM–ROME–GEO–DANUBE–RIVER — boundary enforcement vs penetration
-• MEM–ROME–WAR–MITHRIDATIC — buffer war logic
-• MEM–ROME–CONSTANTINOPLE — eastern continuity through restraint
+• MEM–ROME–GEO–MEDITERRANEAN–SEA
+• MEM–ROME–GEO–DANUBE–RIVER
+• MEM–ROME–WAR–MITHRIDATIC
+• MEM–ROME–PONTUS
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Rome distinguishes core seas from peripheral seas.
-• Maritime power requires governable hinterlands.
-• Buffers stabilize empires more reliably than ambition.
-• Exposure, not distance, defines Roman risk perception.
-• Rome endures by choosing which waters to domesticate.
+• Not all seas can be interiorized.
+• Buffers preserve longevity.
+• Exposure defines Roman risk.
 
 ────────────────────────────────────────────────────────────
 XI. MODERN SCHOLARSHIP (ARC–ROME · COPYRIGHTED)
 ────────────────────────────────────────────────────────────
-Adrian Goldsworthy observes:
+Adrian Goldsworthy:
 > “The Black Sea never became a Roman lake in the way the Mediterranean
 > did; it remained a zone of influence rather than integration.”
 
-Peter Heather notes:
+Peter Heather:
 > “Beyond the Danube and the Pontic shores lay political worlds Rome
 > could engage but not absorb without unacceptable risk.”
 
+**Duane W. Roller (ADDITIVE — ARC–ROME COMPLIANT):**
+> “The Black Sea world was never a single system for Rome, but a
+> constellation of maritime corridors, dynastic kingdoms, and inland
+> barriers whose geography rewarded resistance and punished attempts at
+> uniform control. Roman power there functioned by limitation rather
+> than domination.”
+> — Duane W. Roller, *Empire of the Black Sea*
+
+Roller clarifies why Roman strategy emphasized **containment and
+fragmentation** rather than interiorization.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–BLACK–SEA — v1.3
+END OF FILE — MEM–ROME–GEO–BLACK–SEA — v1.3.1
 ────────────────────────────────────────────────────────────
