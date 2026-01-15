@@ -1,17 +1,18 @@
-MEM–ROME–ALEXANDRIA — v1.3
+MEM–ROME–ALEXANDRIA — v1.3.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: CANONICAL · LOCKED · FINAL
-Version: 1.3
-Upgrade Type: ARC–ROME COMPLIANCE CORRECTION · PUBLIC DOMAIN INSERTION · COPYRIGHT SCHOLARSHIP REPLACEMENT
+Version: 1.3.1
+Upgrade Type: ADDITIVE CLARIFICATION · GEOGRAPHIC COMPARATIVE HARDENING
+Supersedes: MEM–ROME–ALEXANDRIA — v1.3
 Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / INTELLECTUAL METROPOLIS
 Subject: Alexandria (Egypt)
 Dates: 331 BC – AD 641
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,950
+Wordcount: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -101,7 +102,8 @@ sometimes exploited—but rarely empowered politically.
 This tension matters because Alexandria is not merely a “city of books,”
 but a **city of competing truth authorities**: Greek paideia, Egyptian
 sacred tradition, Jewish scriptural reasoning, and later Christian
-theological sovereignty.
+theological sovereignty. These traditions do not merely coexist; they
+compete for moral jurisdiction and civic allegiance.
 
 Volatility is therefore not incidental; it is an output of density.
 
@@ -151,6 +153,11 @@ This creates a structural loop:
 Alexandria becomes a place where Rome’s dependence is visible—and
 visibility converts economic logic into political risk.
 
+During the High Empire (c. AD 100–200), Alexandria’s relative surface
+stability is not the result of civic integration, but of constant
+imperial attention. Calm is maintained administratively rather than
+earned socially.
+
 ────────────────────────────────────────────────────────────
 VII. PUBLIC DOMAIN SCHOLARSHIP (ARC–ROME · WEAVED)
 ────────────────────────────────────────────────────────────
@@ -182,8 +189,8 @@ religious and cultural conflict could turn knowledge itself into spoil:
 
 This does not settle the historiographic dispute about which “library”
 or which episode; it preserves the deeper civilizational point: in a
-plural metropolis under legitimacy stress, **knowledge becomes a target
-category**.
+plural metropolis under legitimacy stress, **knowledge itself becomes a
+target category**.
 
 ────────────────────────────────────────────────────────────
 VIII. COPYRIGHT SCHOLARSHIP (ARC–ROME · MINIMUM INSERTIONS)
@@ -203,7 +210,7 @@ Second: Alexandria’s knowledge function is both civilizational asset and
 governance risk. Durant frames the costs of knowledge loss in terms that
 fit Alexandria’s role as an intellectual metropolis:
 
-> “the Alexandrian Library was a tragedy of some moment, for it was
+> “The Alexandrian Library was a tragedy of some moment, for it was
 > believed to contain the complete published works of Æschylus,
 > Sophocles, Euripides, and Aristophanes.”
 > — Will Durant
@@ -231,10 +238,20 @@ sovereignties.
 X. ALIGNMENT WITH ROMAN MARITIME GEOMETRY
 ────────────────────────────────────────────────────────────
 Alexandria must be read alongside:
-• **MEM–ROME–GEO–MEDITERRANEAN–SEA** (grain logistics and circulation)
-• **MEM–ROME–CONSTANTINOPLE** (administrative trust and continuity)
-• **MEM–ROME–GEO–AEGEAN–SEA** (intellectual inheritance integrated with
-  lower coercion cost)
+• **MEM–ROME–GEO–MEDITERRANEAN–SEA** — grain logistics and circulation
+• **MEM–ROME–GEO–AEGEAN–SEA** — intellectual inheritance with lower
+  coercion cost
+• **MEM–ROME–CONSTANTINOPLE** — designed synthesis of legitimacy,
+  administration, and learning
+
+Unlike the Aegean basin, where intellectual inheritance diffused
+authority and lowered enforcement costs, Alexandria concentrated
+metabolic necessity, demographic mass, and competing truth claims into a
+single node—raising coercion pressure rather than alleviating it.
+
+Unlike Constantinople, which Rome intentionally engineered as a trusted
+administrative and symbolic capital, Alexandria remained an inherited
+metropolis whose loyalty was never fully presumed.
 
 Alexandria is a **critical node without legitimacy**: economically
 essential, intellectually dominant, but politically unstable.
@@ -267,5 +284,5 @@ XII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–ALEXANDRIA — v1.3
+END OF FILE — MEM–ROME–ALEXANDRIA — v1.3.1
 ────────────────────────────────────────────────────────────
