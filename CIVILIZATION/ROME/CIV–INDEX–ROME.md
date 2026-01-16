@@ -1,15 +1,15 @@
-CIV–INDEX–ROME — v1.9.1
+CIV–INDEX–ROME — v1.10
 Civilizational Memory Codex · Civilization Index
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.9.1
-Supersedes: CIV–INDEX–ROME v1.9
-Upgrade Type: ADDITIVE · REGISTRATION CORRECTION ONLY
+Version: 1.10
+Supersedes: CIV–INDEX–ROME v1.9.1
+Upgrade Type: ADDITIVE · PARITY RESTORATION · REGISTRATION COMPLETION
 Civilization: ROME
 Class: CIV–INDEX
 Last Update: January 2026
-Wordcount: ~1,540
+Wordcount: ~1,900
 Total Registered Files: authoritative count governed exclusively by this index
 
 Template Alignment: CIV–MEM–CORE v1.8 (Index-Compatible)
@@ -28,6 +28,7 @@ INDEX GOVERNANCE RULES (MANDATORY):
 • Canonical designation requires explicit declaration
 • This index supersedes all prior ROME indices
 • Filename normalization is binding
+• Additive registration only; no retroactive deletion
 
 ────────────────────────────────────────────────────────────
 II. CANONICAL CIV–CORE ENGINE
@@ -66,6 +67,11 @@ IV. REGISTERED MEM FILES — EMPERORS / IMPERIAL SYSTEM
 • MEM–ROME–EMPIRE–CONSTANTINE.md
 • MEM–ROME–EMPIRE–THEODOSIUS.md
 • MEM–ROME–EMPIRE–THEODORIC.md
+• MEM–ROME–EMPIRE–HERACLIUS.md
+• MEM–ROME–EMPIRE–LEO–III.md
+• MEM–ROME–EMPIRE–ALEXIOS–I–KOMNENOS.md
+• MEM–ROME–EMPIRE–MANUEL–I–KOMNENOS.md
+• MEM–ROME–EMPIRE–BASIL–II.md
 
 ────────────────────────────────────────────────────────────
 V. REGISTERED MEM FILES — HISTORIANS / AUTHORS (ROME-LENS)
@@ -81,6 +87,7 @@ V. REGISTERED MEM FILES — HISTORIANS / AUTHORS (ROME-LENS)
 • MEM–ROME–HIST–HERODOTUS.md
 • MEM–ROME–HIST–THUCYDIDES.md
 • MEM–ROME–HIST–XENOPHON.md
+• MEM–ROME–HIST–ANNA–KOMNENE.md
 
 ────────────────────────────────────────────────────────────
 VI. REGISTERED MEM FILES — GREEK WORLD (ROME-LENS)
@@ -101,11 +108,17 @@ VII. REGISTERED MEM FILES — LITERATURE / PHILOSOPHICAL CANON
 • MEM–ROME–LIT–GREEK–ARISTOTLE.md
 
 ────────────────────────────────────────────────────────────
-VIII. REGISTERED MEM FILES — INSTITUTIONS & CIVIL STRUCTURES
+VIII. REGISTERED MEM FILES — INSTITUTIONS & CITIES
 ────────────────────────────────────────────────────────────
+• MEM–ROME–ATHENS.md
 • MEM–ROME–ALEXANDRIA.md
 • MEM–ROME–ANTIOCH.md
+• MEM–ROME–CARTHAGE.md
 • MEM–ROME–CONSTANTINOPLE.md
+• MEM–ROME–CONSTANTINOPLE–GOLDEN–HORN.md
+• MEM–ROME–CONSTANTINOPLE–GREEK–FIRE.md
+• MEM–ROME–CONSTANTINOPLE–HAGIA–SOPHIA.md
+• MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS.md
 • MEM–ROME–PAPACY.md
 • MEM–ROME–CHRISTIANITY.md
 • MEM–ROME–CHRIST.md
@@ -118,26 +131,40 @@ IX. REGISTERED MEM FILES — PAPACY SUB-EPOCHS
 • MEM–ROME–PAPACY–PROTESTANT–REFORMATION.md
 
 ────────────────────────────────────────────────────────────
-X. REGISTERED MEM FILES — WARS / BATTLES & STRATEGIC CONFLICTS
+X. REGISTERED MEM FILES — WARS / STRATEGIC CONFLICTS
 ────────────────────────────────────────────────────────────
 • MEM–ROME–WAR–ACTIUM.md
 • MEM–ROME–WAR–CANNAE.md
-• MEM–ROME–WAR–PERSIA.md
+• MEM–ROME–WAR–PHARSALUS.md
 • MEM–ROME–WAR–PUNIC.md
 • MEM–ROME–WAR–TEUTOBURG–FOREST.md
+• MEM–ROME–WAR–PERSIA.md
+• MEM–ROME–WAR–MITHRIDATES–VI.md
+• MEM–ROME–WAR–ARAB–CONQUEST.md
 • MEM–ROME–WAR–ATTILA.md
+• MEM–ROME–WAR–GOTHS.md
+• MEM–ROME–WAR–VISIGOTHS.md
+• MEM–ROME–WAR–HUNS.md
+• MEM–ROME–WAR–VANDALS.md
+• MEM–ROME–WAR–FRANKS.md
+• MEM–ROME–WAR–LOMBARDS.md
+• MEM–ROME–WAR–ODOACER.md
 
 ────────────────────────────────────────────────────────────
 XI. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL
 ────────────────────────────────────────────────────────────
-• MEM–ROME–CARTHAGE.md
 • MEM–ROME–EGYPT.md
 • MEM–ROME–SYRIA.md
 • MEM–ROME–PALESTINE.md
 • MEM–ROME–PALESTINE–JERUSALEM.md
+• MEM–ROME–ARMENIA.md
+• MEM–ROME–PONTUS.md
 
 • MEM–ROME–GEO–LEVANT.md
 • MEM–ROME–GEO–AFRICA.md
+• MEM–ROME–GEO–ANATOLIA.md
+• MEM–ROME–GEO–ARABIA.md
+• MEM–ROME–GEO–CASPIAN–SEA.md
 • MEM–ROME–GEO–ADRIATIC–SEA.md
 • MEM–ROME–GEO–AEGEAN–SEA.md
 • MEM–ROME–GEO–ALPS.md
@@ -147,20 +174,27 @@ XI. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL
 • MEM–ROME–GEO–CRETE.md
 • MEM–ROME–GEO–CYPRUS.md
 • MEM–ROME–GEO–DANUBE–RIVER.md
+• MEM–ROME–GEO–EGYPT.md
+• MEM–ROME–GEO–GAUL.md
 • MEM–ROME–GEO–IBERIA.md
+• MEM–ROME–GEO–LIBYA.md
 • MEM–ROME–GEO–MALTA.md
 • MEM–ROME–GEO–MEDITERRANEAN–SEA.md
+• MEM–ROME–GEO–NILE–RIVER.md
+• MEM–ROME–GEO–RED–SEA.md
 • MEM–ROME–GEO–RHINE–RIVER.md
 • MEM–ROME–GEO–SARDINIA.md
 • MEM–ROME–GEO–SICILY.md
+• MEM–ROME–GEO–SYRIA.md
 
 ────────────────────────────────────────────────────────────
 XII. REGISTERED MEM FILES — LANGUAGE & CIVILIZATIONAL GRAMMAR
 ────────────────────────────────────────────────────────────
 • MEM–ROME–LATIN.md
+• MEM–ROME–GREEK.md
 
 ────────────────────────────────────────────────────────────
-XIII. REGISTERED MEM FILES — ITALY (POST-ROMAN AFTERLIFE)
+XIII. REGISTERED MEM FILES — ITALY & POST-ROMAN AFTERLIFE
 ────────────────────────────────────────────────────────────
 • MEM–ROME–ITALY.md
 • MEM–ROME–ITALY–FLORENCE.md
@@ -169,6 +203,7 @@ XIII. REGISTERED MEM FILES — ITALY (POST-ROMAN AFTERLIFE)
 • MEM–ROME–ITALY–MACHIAVELLI.md
 • MEM–ROME–ITALY–MEDICI.md
 • MEM–ROME–ITALY–VENICE.md
+• MEM–ROME–ITALY–RENAISSANCE.md
 • MEM–ROME–DANTE.md
 • MEM–ROME–MARCO–POLO.md
 • MEM–ROME–CHARLEMAGNE.md
@@ -212,5 +247,5 @@ Changes require:
 • Filename normalization compliance
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v1.9.1
+END OF FILE — CIV–INDEX–ROME v1.10
 ────────────────────────────────────────────────────────────
