@@ -1,42 +1,42 @@
-CIV–CORE–ROME — v1.6
-Civilizational Strategy Codex · Civilization Continuity Engine
-Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling Edition
-CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT
+CIV–CORE–ROME — v1.7  
+Civilizational Strategy Codex · Civilization Continuity Engine  
+Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling · Pedagogical Interface Edition  
+CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT  
 
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.6
-Supersedes: CIV–CORE–ROME v1.5
-Upgrade Type: ADDITIVE · SCHOLAR WRITE-SCOPE FORMALIZATION · ARC EXPORT HARDENING
-Template Version Used: CIV–CORE–TEMPLATE v1.6.2
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
-Conceptual Lineage: SCE–CIV–ROME V9.x
-DIB Status: DEFINED · DISABLED
-Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)
-Lock Level: FULL
-Last Update: January 2026
-WORDCOUNT: ~2,550
+Repository: https://github.com/rbtkhn/civilization_memory  
+Status: ACTIVE · CANONICAL · LOCKED  
+Version: 1.7  
+Supersedes: CIV–CORE–ROME v1.6  
+Upgrade Type: ADDITIVE · PEDAGOGICAL INTERFACE FORMALIZATION · SCHOLAR–LECTURE LINKAGE  
+Template Version Used: CIV–CORE–TEMPLATE v1.6.2  
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)  
+Conceptual Lineage: SCE–CIV–ROME V9.x  
+DIB Status: DEFINED · DISABLED  
+Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)  
+Lock Level: FULL  
+Last Update: January 2026  
+WORDCOUNT: ~2,700  
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.6)
+UPGRADE NOTE (v1.7)
 ────────────────────────────────────────────────────────────
-This version performs a strictly ADDITIVE upgrade to v1.5.
+This version performs a strictly ADDITIVE upgrade to v1.6.
 
 Guarantees:
-• NO doctrinal change
-• NO metric change
-• NO threshold change
-• NO semantic reinterpretation
-• NO analytical drift
+• NO doctrinal change  
+• NO metric change  
+• NO threshold change  
+• NO semantic reinterpretation  
+• NO analytical drift  
 
-Additions introduced in v1.6:
-• Explicit Scholar → CORE write-scope boundaries
-• Formal CORE receptacles for Scholar-authored procedural doctrine
-• Hardened ARC export and mirroring guarantees
-• Explicit freeze and external-storage readiness clauses
+Additions introduced in v1.7:
+• Explicit CORE recognition of SCHOLAR Lecture Mode as pedagogical-only
+• Formal CORE ↔ SCHOLAR ↔ LECTURE interface compatibility declaration
+• Non-epistemic back-link to the Lecture Option Generation Engine (LOGE)
+• Clarification that pedagogical branching does NOT constitute strategy
 
 All axioms, indicators, verdict logic, and failure physics remain
-identical in meaning and authority to v1.5.
+identical in meaning and authority to v1.6.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -226,32 +226,50 @@ Rules:
 • CIV–CORE constraints override SCHOLAR output at all times.
 
 ────────────────────────────────────────────────────────────
-XIX. SCHOLAR → CORE WRITE-SCOPE (NEW · ADDITIVE)
+XIX. SCHOLAR → CORE WRITE-SCOPE (ADD-ONLY)
 ────────────────────────────────────────────────────────────
 The SCHOLAR may write into CIV–CORE ONLY the following categories:
 
 PERMITTED WRITE TARGETS:
-• Procedural governance doctrines
-• Compliance enforcement clauses
-• Template-alignment clarifications
-• ARC mirroring declarations
-• Export / freeze / versioning metadata
+• Procedural governance doctrines  
+• Compliance enforcement clauses  
+• Template-alignment clarifications  
+• ARC mirroring declarations  
+• Export / freeze / versioning metadata  
 
 ABSOLUTELY FORBIDDEN:
-• Civilizational axioms
-• Metrics or thresholds
-• Strategic verdict logic
-• Predictive judgments
-• Normative preference injection
+• Civilizational axioms  
+• Metrics or thresholds  
+• Strategic verdict logic  
+• Predictive judgments  
+• Normative preference injection  
 
 All Scholar-authored CORE insertions MUST:
-• Be explicitly labeled as procedural
-• Introduce no analytical meaning
-• Be additive only
-• Be traceable to a SCHOLAR governance action
+• Be explicitly labeled as procedural  
+• Introduce no analytical meaning  
+• Be additive only  
+• Be traceable to a SCHOLAR governance action  
 
 ────────────────────────────────────────────────────────────
-XX. SESSION HEADER (OPTIONAL)
+XX. PEDAGOGICAL INTERFACE COMPATIBILITY (NEW)
+────────────────────────────────────────────────────────────
+CIV–CORE–ROME explicitly recognizes SCHOLAR Lecture Mode as
+a pedagogical surface only.
+
+Rules:
+• Lecture Mode introduces NO belief, NO doctrine, NO verdict
+• Pedagogical branching does NOT constitute strategic reasoning
+• CORE metrics and outputs remain authoritative and unchanged
+• Teaching pathways must preserve unresolved tension
+
+This section affirms compatibility with:
+• CIV–SCHOLAR–PROTOCOL v1.4 (LOGE-enabled)
+• Lecture Option Generation Engine (LOGE)
+
+LOGE is non-epistemic and non-authoritative.
+
+────────────────────────────────────────────────────────────
+XXI. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 Active Civ: ROME  
 CR: __ | CoR: __ | ED: __ | NOG: __  
@@ -259,7 +277,7 @@ AEC: __ | EDL: __ | TimeAdv: __
 Chokepoint Leverage: __ | KLB: __  
 
 ────────────────────────────────────────────────────────────
-XXI. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
+XXII. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
 ────────────────────────────────────────────────────────────
 • CR: HIGH / MED / LOW  
 • CoR: LOW / MED / HIGH  
@@ -287,7 +305,7 @@ XXI. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
   NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-XXII. ACADEMIC REFERENCE CANON — ROME (ARC-ROME) [DECLARATIVE MIRROR]
+XXIII. ACADEMIC REFERENCE CANON — ROME (ARC-ROME) [DECLARATIVE MIRROR]
 ────────────────────────────────────────────────────────────
 ARC-ROME is a DECLARATIVE MIRROR of the Codex Academic Reference Canon
 selected for the ROME civilization.
@@ -301,12 +319,6 @@ Rules:
 • ARC-ROME MAY NOT quote, summarize, or interpret sources.
 • ARC mutation requires explicit Codex-level canon revision.
 • Canon drift across CORE / INDEX / SCHOLAR is prohibited.
-
-APPLIES TO (procedural validity only):
-• MEM–ROME authoring and audits
-• CIV–INDEX–ROME enforcement
-• CIV–SCHOLAR–ROME learning validation
-• Doctrine admissibility review
 
 A. ANCIENT AUTHORS (CANONICAL)
 • Herodotus
@@ -337,18 +349,19 @@ C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
 • Will Durant
 
 ────────────────────────────────────────────────────────────
-XXIII. FREEZE & EXPORT READINESS DECLARATION (NEW)
+XXIV. FREEZE & EXPORT READINESS DECLARATION
 ────────────────────────────────────────────────────────────
 This file is structurally sealed, procedurally explicit, and suitable
 for external archival storage.
 
-• No hidden dependencies exist
-• All Scholar interfaces are gated
-• ARC references are declarative only
-• No runtime cognition is embedded
+• No hidden dependencies exist  
+• All Scholar interfaces are gated  
+• Pedagogical engines are non-epistemic  
+• ARC references are declarative only  
+• No runtime cognition is embedded  
 
 This version is EXPORT-READY.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v1.6
+END OF FILE — CIV–CORE–ROME — v1.7
 ────────────────────────────────────────────────────────────
