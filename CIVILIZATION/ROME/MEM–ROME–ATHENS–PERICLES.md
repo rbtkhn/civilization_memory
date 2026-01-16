@@ -1,11 +1,12 @@
-MEM–ROME–GREEK–PERICLES — v1.0
+MEM–ROME–ATHENS–PERICLES — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
-Civilization: ROME (GREEK INHERITANCE)
+Version: 1.1
+Upgrade Type: RENAME · METADATA NORMALIZATION (NO CONTENT CHANGE)
+Supersedes: MEM–ROME–GREEK–PERICLES — v1.0
+Civilization: ROME (HELLENIC INHERITANCE / COMPARATIVE MIRROR)
 Regime: CLASSICAL DEMOCRATIC IMPERIALISM (ATHENS)
 Subject: Pericles
 Dates: c. 495 BC – 429 BC
@@ -39,7 +40,7 @@ Foundations:
 Power flows through the sea, not land.
 
 This model deeply influences Roman maritime logic later visible in
-**MEM–ROME–GEO–MEDITERRANEAN–SEA**.
+MEM–ROME–GEO–MEDITERRANEAN–SEA.
 
 ────────────────────────────────────────────────────────────
 III. DEMOCRACY AS LEGITIMACY ENGINE
@@ -88,7 +89,6 @@ This is rational—but brittle.
 
 Plague undermines demographic assumptions.
 Popular patience erodes.
-
 Systemic risk concentrates.
 
 ────────────────────────────────────────────────────────────
@@ -145,5 +145,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GREEK–PERICLES — v1.0
+END OF FILE — MEM–ROME–ATHENS–PERICLES — v1.1
 ────────────────────────────────────────────────────────────
