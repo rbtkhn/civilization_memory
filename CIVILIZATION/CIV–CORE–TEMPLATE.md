@@ -1,35 +1,38 @@
-CIV–CORE–TEMPLATE — v1.6.2
+CIV–CORE–TEMPLATE — v1.7
 Civilizational Strategy Codex · Civilization Core Engine
-Global Structural Template (ARC GOVERNANCE EDITION)
+Global Structural Template (ARC + LECTURE INTERFACE GOVERNANCE EDITION)
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–CORE–TEMPLATE v1.6.1
-Upgrade Type: ADDITIVE · GOVERNANCE-BINDING
+Supersedes: CIV–CORE–TEMPLATE v1.6.2
+Upgrade Type: ADDITIVE · GOVERNANCE-BINDING ONLY
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC V1.x+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
 • CIV–MEM–CORE (global system law)
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+• CIV–SCHOLAR–PROTOCOL v1.4 (or higher)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
 
 Last Update: January 2026
-WORDCOUNT: ~3,500
+WORDCOUNT: ~3,750
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.6.2)
+UPGRADE NOTE (v1.7)
 ────────────────────────────────────────────────────────────
 This version preserves ALL structural, semantic, diagnostic, and
-governance constraints from CIV–CORE–TEMPLATE v1.6.1.
+governance constraints from CIV–CORE–TEMPLATE v1.6.2.
 
-v1.6.2 introduces ONE additive, globally binding governance object:
+v1.7 introduces ONE additive, globally binding governance object:
 
-• **Academic Reference Canon (ARC) Governance Layer**
+• LECTURE INTERFACE GOVERNANCE LAYER (LOGE COMPATIBILITY)
 
-ARC governance is structural and procedural only.
-ARC introduces NO doctrine, NO analysis, and NO cognition.
+This layer:
+• Introduces NO doctrine
+• Introduces NO analysis
+• Introduces NO cognition
+• Introduces NO new CIV–CORE authority
 
 No existing CIV–CORE file is invalidated.
 No doctrine is altered.
@@ -67,13 +70,15 @@ following header fields:
 • Filename (CIV–CORE–[CIV] — vX.X)
 • Full Title
 • Status
+• Version
+• Supersedes (if applicable)
+• Upgrade Type
 • Template Version Used
 • Compatibility
-• Supersedes (if applicable)
 • Conceptual Lineage (if applicable)
-• Lock Level
-• Governance / DIB status (if applicable)
+• DIB Status (if applicable)
 • Scholar Reference Mode (if applicable)
+• Lock Level
 • Last Update (Month Year)
 • WORDCOUNT
 
@@ -120,26 +125,26 @@ V. REQUIRED CORE SECTIONS (ORDER LOCKED)
 ────────────────────────────────────────────────────────────
 All CIV–CORE instances MUST include, in this exact order:
 
-I.   Civilizational Identity & Prime Axioms  
-II.  Legitimacy Accounting Layer  
-III. Historical–Temporal Continuity Engine  
-IV.  Spatial–Civilizational Geometry  
-V.   Governance Architecture  
-VI.  Economic–Industrial Doctrine  
-VII. Technological / Compute Sovereignty  
-VIII. Military–Strategic Doctrine  
-IX.  Internal Security & Social Order  
-X.   Information & Narrative Governance  
-XI.  Time Orientation Layer  
-XII. Exit–Building Meta-Doctrine  
-XIII.Cross-Civilizational Synchronization  
-XIV. Failure Physics  
-XV.  Irreversibility Grid  
-XVI. Restoration Invalidation Rule  
-XVII.Strategic Red Lines  
-XVIII.SCHOLAR Mode  
-XIX. Session Header (Optional)  
-XX.  Mandatory Verdict Block  
+I.    Civilizational Identity & Prime Axioms
+II.   Legitimacy Accounting Layer
+III.  Historical–Temporal Continuity Engine
+IV.   Spatial–Civilizational Geometry
+V.    Governance Architecture
+VI.   Economic–Industrial Doctrine
+VII.  Technological / Compute Sovereignty
+VIII. Military–Strategic Doctrine
+IX.   Internal Security & Social Order
+X.    Information & Narrative Governance
+XI.   Time Orientation Layer
+XII.  Exit–Building Meta-Doctrine
+XIII. Cross-Civilizational Synchronization
+XIV.  Failure Physics
+XV.   Irreversibility Grid
+XVI.  Restoration Invalidation Rule
+XVII. Strategic Red Lines
+XVIII. SCHOLAR Mode
+XIX.  Session Header (Optional)
+XX.   Mandatory Verdict Block
 
 Optional modules MAY be appended only after Section XX.
 
@@ -232,9 +237,9 @@ Retroactivity:
 • Reissue required for compliance
 
 ────────────────────────────────────────────────────────────
-XII. ACADEMIC REFERENCE CANON (ARC) — GOVERNANCE LAYER (NEW)
+XII. ACADEMIC REFERENCE CANON (ARC) — GOVERNANCE LAYER
 ────────────────────────────────────────────────────────────
-ARC is a **Codex-wide governed object**.
+ARC is a Codex-wide governed object.
 
 ARC:
 • Replaces all “secondary sources,” “reference configurations,” and
@@ -256,8 +261,8 @@ XIII. ARC CATEGORY LAW (GLOBAL)
 ────────────────────────────────────────────────────────────
 ARC authors are divided into THREE and ONLY THREE categories:
 
-1) ANCIENT  
-2) PUBLIC DOMAIN  
+1) ANCIENT
+2) PUBLIC DOMAIN
 3) COPYRIGHT
 
 Category definitions are absolute.
@@ -322,13 +327,43 @@ Noncompliant ARC handling may result in:
 ARC compliance affects procedural validity, not truth.
 
 ────────────────────────────────────────────────────────────
-XVIII. TEMPLATE CANONICAL STATUS
+XVIII. LECTURE INTERFACE GOVERNANCE LAYER (LOGE COMPATIBILITY) (NEW)
+────────────────────────────────────────────────────────────
+This template explicitly recognizes Lecture Mode as a pedagogical surface
+that may be driven by CIV–CORE and CIV–SCHOLAR without modifying either.
+
+Definitions:
+• Lecture Mode is expressive, not epistemic.
+• Lecture Mode introduces NO belief, NO doctrine, and NO governance change.
+• Lecture branching does NOT constitute strategic analysis.
+
+LOGE Compatibility:
+• CIV–CORE instances MAY include an optional “Pedagogical Interface” module
+  appended after Section XX.
+• If present, this module MUST be explicitly labeled as non-epistemic.
+• The module MUST reference CIV–SCHOLAR–PROTOCOL (LOGE) as the governing
+  lecture option engine.
+• The module MAY request option generation in Lecture Mode.
+• The module MAY NOT alter any core indicators, thresholds, axioms, or verdicts.
+
+This layer formalizes interface behavior only and does not alter CIV–CORE
+authority.
+
+────────────────────────────────────────────────────────────
+XIX. TEMPLATE CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 
 All future CIV–CORE files MUST declare:
-“Template Version Used: CIV–CORE–TEMPLATE v1.6.2”
+“Template Version Used: CIV–CORE–TEMPLATE v1.7”
+
+No CIV–CORE file may claim template compliance with v1.7 unless it
+respects:
+• Locked section order (I–XX)
+• ARC governance layer
+• CIV–CORE ↔ SCHOLAR authority separation
+• Lecture interface governance (if invoked)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v1.6.2
+END OF FILE — CIV–CORE–TEMPLATE v1.7
 ────────────────────────────────────────────────────────────
