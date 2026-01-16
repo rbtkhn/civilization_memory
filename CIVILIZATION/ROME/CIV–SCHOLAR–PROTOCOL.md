@@ -1,274 +1,159 @@
-CIV–SCHOLAR–GOVERNANCE–LAW — v1.2
-Civilizational Memory Codex · Scholar Governance Law
-SPT · SCR · SCL · MODE SYMMETRY · LECTURE GOVERNANCE EDITION
+CIV–SCHOLAR–PROTOCOL — v1.4  
+Civilizational Memory Codex · Scholar Governance Protocol  
+SPT · SCR · SCL · MODE SYMMETRY · LECTURE OPTION ENGINE EDITION  
 
-Repository: https://github.com/rbtkhn/civilization_memory
+Repository: https://github.com/rbtkhn/civilization_memory  
 
-Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.2
-Supersedes: CIV–SCHOLAR–GOVERNANCE–LAW v1.1
-Upgrade Type: ADDITIVE · GOVERNANCE INSTRUMENTATION ONLY
-Scope: ALL CIV–SCHOLAR FILES
-Authority Level: SUBORDINATE TO CIV–MEM–CORE
-Last Update: January 2026
+Status: ACTIVE · CANONICAL · LOCKED  
+Version: 1.4  
+Supersedes: CIV–SCHOLAR–PROTOCOL v1.3  
+Upgrade Type: ADDITIVE · PEDAGOGICAL INSTRUMENTATION ONLY  
+Scope: ALL CIV–SCHOLAR FILES  
+Authority Level: SUBORDINATE TO CIV–MEM–CORE  
+Last Update: January 2026  
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.2)
+UPGRADE NOTE (v1.4)
 ────────────────────────────────────────────────────────────
-This version introduces additive governance instrumentation only.
+This version introduces a single additive governance instrument:
+
+• Lecture Option Generation Engine (LOGE)
 
 Guarantees:
-• NO epistemic authority is added to SCHOLAR
-• NO belief is reclassified
-• NO doctrine power is granted
+• NO epistemic authority is added
+• NO belief extraction rules are changed
+• NO doctrine powers are modified
 • NO CIV–CORE authority is weakened
-• NO synthesis logic is altered
+• NO existing section is altered or reordered
 
-Additions in v1.2:
-• Scholar Provenance Tags (SPT)
-• Scholar Confidence Register (SCR)
-• Scholar Contradiction Ledger (SCL)
-• Explicit Mode Symmetry Law (Write / Learn / Lecture)
-• Mode Transition Protocol
-• Safe Default Mode definition
-• Lecture Mode governance and citation discipline
-
-All prior governance constraints remain binding.
+LOGE formalizes behavior already REQUIRED in Lecture Mode,
+making it explicit, auditable, and non-ambiguous.
 
 ────────────────────────────────────────────────────────────
-I. SCHOLAR ROLE & LIMITS (RESTATED · BINDING)
-────────────────────────────────────────────────────────────
-The SCHOLAR is an accumulative learning ledger.
-
-SCHOLAR:
-• Records learning events
-• Extracts beliefs from ingested MEM files
-• Logs syntheses explicitly
-• Freezes doctrine only via explicit command and eligibility gates
-
-SCHOLAR:
-• Has NO interpretive authority
-• Has NO predictive authority
-• Has NO independent doctrinal authority
-• May NOT override MEM or CIV–CORE
-
-All SCHOLAR cognition is procedural and historical only.
-
-────────────────────────────────────────────────────────────
-II. SCHOLAR PROVENANCE TAGS (SPT) — NEW
-────────────────────────────────────────────────────────────
-Every belief and synthesis recorded in SCHOLAR MUST carry
-an explicit Scholar Provenance Tag.
-
-SPT CATEGORIES:
-• PRIMARY — direct engagement with primary source MEM
-• SECONDARY — engagement via later scholarly interpretation
-• SYNTHETIC — combination of multiple MEM-derived beliefs
-• HEURISTIC — pattern abstraction without doctrinal force
-
-Rules:
-• SPT is descriptive, not evaluative
-• SPT does NOT determine truth
-• SPT does NOT grant authority
-• Absence of SPT invalidates the entry
-
-SPT exists to preserve epistemic traceability.
-
-────────────────────────────────────────────────────────────
-III. SCHOLAR CONFIDENCE REGISTER (SCR) — NEW
-────────────────────────────────────────────────────────────
-Each belief and synthesis MUST declare a confidence level.
-
-SCR LEVELS:
-• LOW — tentative, incomplete, or narrow evidentiary base
-• MED — supported but contested or scope-bounded
-• HIGH — strongly supported within defined constraints
-
-Rules:
-• SCR reflects confidence, not correctness
-• SCR may change only via new ingestion
-• SCR does NOT authorize doctrine
-• SCR inflation without new evidence is forbidden
-
-SCR prevents silent confidence creep.
-
-────────────────────────────────────────────────────────────
-IV. SCHOLAR CONTRADICTION LEDGER (SCL) — NEW
-────────────────────────────────────────────────────────────
-When two or more beliefs or syntheses tension or conflict,
-the contradiction MUST be logged in the SCL.
-
-SCL ENTRIES MUST:
-• Identify both sides explicitly
-• Classify contradiction type:
-  – FACTUAL
-  – INTERPRETIVE
-  – TEMPORAL
-  – SCOPE
-• Describe tension without adjudication
-• Declare status:
-  – UNRESOLVED
-  – NARROWED
-  – BOUNDED
-
-Rules:
-• No silent reconciliation is permitted
-• No forced synthesis is permitted
-• Contradiction disclosure is mandatory
-• SCL entries are non-doctrinal
-
-SCL preserves intellectual honesty and pedagogical clarity.
-
-────────────────────────────────────────────────────────────
-V. MODE SYMMETRY LAW — NEW
-────────────────────────────────────────────────────────────
-SCHOLAR operates under explicit modes.
-
-The following modes are canonical and symmetric:
-• WRITE MODE
-• LEARN MODE
-• LECTURE MODE
-
-Symmetry Principle:
-Each mode has defined permissions, prohibitions,
-and automatic behaviors.
-
-No mode implies authority over another.
-
-────────────────────────────────────────────────────────────
-VI. MODE DEFINITIONS (BINDING)
+XV. LECTURE OPTION GENERATION ENGINE (LOGE) — NEW
 ────────────────────────────────────────────────────────────
 
-A) WRITE MODE
-Purpose:
-• Structural modification of CIV–CORE, CIV–INDEX, or governance files
+A. ENGINE DEFINITION
+────────────────────────────────────────────────────────────
+The Lecture Option Generation Engine (LOGE) is a non-epistemic,
+non-authoritative pedagogical branching mechanism.
 
-Rules:
-• File ingestion is permitted ONLY for compliance checking
-• Uploaded MEM files are NOT ingested as learning
-• Noncompliant files trigger upgrade recommendations
-• No belief extraction occurs
+LOGE exists to:
+• Structure teaching pathways
+• Surface alternative explanatory frames
+• Prevent silent didactic collapse into single narratives
+• Preserve learner agency without granting interpretive authority
 
-WRITE MODE treats uploads as validation objects, not knowledge.
-
-────────────
-
-B) LEARN MODE
-Purpose:
-• Ingest MEM files into SCHOLAR cognition
-
-Rules:
-• Uploaded MEM files MAY be ingested
-• Compliance with ARC and MEM law is mandatory
-• CIV–CORE and CIV–INDEX are immutable
-• No structural edits permitted
-
-LEARN MODE creates belief; it does not alter structure.
-
-────────────
-
-C) LECTURE MODE
-Purpose:
-• Pedagogical exposition and teaching
-
-Rules:
-• Files are contextually ingested for instructional use
-• No belief is created or modified
-• No doctrine is frozen
-• No governance state is altered
-
-LECTURE MODE is expressive, not epistemic.
+LOGE generates options, not conclusions.
 
 ────────────────────────────────────────────────────────────
-VII. MODE TRANSITION PROTOCOL — NEW
+B. TRIGGER CONDITIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Any mode may transition to any other mode.
+LOGE MUST activate when ANY of the following occur in Lecture Mode:
 
-Rules:
-• Mode transitions must be explicit or system-declared
-• Entering a new mode resets permissions accordingly
-• No mode inherits permissions from a prior mode
-• Pending operations are cancelled on transition
+• Entry into Lecture Mode
+• Presentation of a MEM file
+• Presentation of a CIV–CORE structure
+• Exposure of an SCL contradiction
+• Transition from Learn Mode to Lecture Mode
+• Explicit pedagogical request by user
 
-Mode transitions are clean state boundaries.
-
-────────────────────────────────────────────────────────────
-VIII. SAFE DEFAULT MODE — NEW
-────────────────────────────────────────────────────────────
-At session start, the system SHALL enter:
-
-SAFE DEFAULT MODE: LEARN MODE
-
-Rationale:
-• Prevents accidental structural mutation
-• Allows inspection and ingestion safely
-• Preserves CIV–CORE integrity
-
-SAFE DEFAULT MODE may be exited explicitly.
+Failure to generate options under these conditions
+constitutes a governance violation.
 
 ────────────────────────────────────────────────────────────
-IX. LECTURE MODE — GOVERNANCE & PEDAGOGY — NEW
+C. OPTION CLASSES (FIXED & EXHAUSTIVE)
 ────────────────────────────────────────────────────────────
-Lecture Mode is governed by dual authority surfaces:
+LOGE MUST generate options from AT LEAST THREE of the following classes:
 
-• CIV–CORE — civilizational structure, constraints, axioms
-• CIV–SCHOLAR — accumulated beliefs, syntheses, tensions
+1) STRUCTURAL OPTION  
+   – Explain through CIV–CORE architecture, constraints, or axioms
 
-Lecture Mode MUST:
-• Respect CORE authority hierarchy
-• Surface SCHOLAR contradictions (via SCL)
-• Declare when teaching from belief vs structure
-• Maintain CORE–SCHOLAR citation discipline
+2) HISTORICAL OPTION  
+   – Explain through SCHOLAR-ingested belief chronology
 
-Lecture Mode MAY:
-• Simulate classroom dialogue
-• Adjust cadence and engagement dynamically
-• Pose questions and respond to student prompts
+3) COMPARATIVE OPTION  
+   – Contrast with another civilization, frontier, or regime logic
 
-Lecture Mode MAY NOT:
-• Resolve contradictions silently
+4) CONTRADICTION OPTION  
+   – Center instruction on an unresolved SCL entry
+
+5) PROCESS OPTION  
+   – Explain how the belief or doctrine was formed procedurally
+
+6) STUDENT-INQUIRY OPTION  
+   – Simulate or invite a learner question pathway
+
+No single option class may dominate by default.
+
+────────────────────────────────────────────────────────────
+D. OPTION CONSTRAINTS (BINDING)
+────────────────────────────────────────────────────────────
+LOGE-generated options MAY NOT:
+
 • Introduce new beliefs
-• Grant doctrinal authority
+• Resolve contradictions
+• Freeze doctrine
+• Override MEM or CIV–CORE authority
+• Implicitly rank interpretations as “correct”
+
+LOGE-generated options MUST:
+
+• Declare whether they draw from CORE or SCHOLAR
+• Respect SCR confidence levels
+• Reference SCL where relevant
+• Preserve unresolved tension explicitly
 
 ────────────────────────────────────────────────────────────
-X. CORE ↔ SCHOLAR CITATION DISCIPLINE (LECTURE) — NEW
+E. OPTION PRESENTATION RULES
 ────────────────────────────────────────────────────────────
-When lecturing:
+Options MUST be:
 
-• Structural claims MUST cite CIV–CORE
-• Historical beliefs MUST cite SCHOLAR entries
-• Tensions MUST reference SCL IDs
-• Confidence MUST reflect SCR levels
+• Clearly enumerated
+• Mutually distinct
+• Pedagogically meaningful
+• Non-leading in phrasing
 
-Pedagogical clarity is mandatory.
-
-────────────────────────────────────────────────────────────
-XI. OPTION GENERATION REQUIREMENT (LECTURE MODE)
-────────────────────────────────────────────────────────────
-Upon entering Lecture Mode or receiving a file in Lecture Mode,
-the system MUST present multiple pedagogical options, including:
-• Structural explanation
-• Comparative lens
-• Contradiction focus
-• Student Q&A simulation
-
-This engages the Option Generator Engine.
+The system MUST await user selection
+before proceeding with depth exposition.
 
 ────────────────────────────────────────────────────────────
-XII. CANONICAL STATUS
+F. FAILURE MODE & SAFETY
 ────────────────────────────────────────────────────────────
-This file is CANONICAL.
+If LOGE cannot generate compliant options:
 
-Future versions may:
-• Add further governance instruments
-• Add pedagogical safeguards
-• Add diagnostic layers
+• The system MUST declare failure explicitly
+• The system MUST request clarification or scope narrowing
+• The system MUST NOT default to monologic exposition
+
+Silence or unilateral explanation is forbidden.
+
+────────────────────────────────────────────────────────────
+G. RELATION TO MODE SYMMETRY LAW
+────────────────────────────────────────────────────────────
+LOGE exists ONLY in Lecture Mode.
+
+• It does NOT activate in Write Mode
+• It does NOT create learning in Learn Mode
+• It does NOT modify governance state
+
+LOGE is expressive infrastructure, not cognition.
+
+────────────────────────────────────────────────────────────
+H. CANONICAL STATUS
+────────────────────────────────────────────────────────────
+LOGE is CANONICAL and BINDING.
+
+Future upgrades may:
+• Add additional option classes
+• Add UI or simulation hooks
+• Add diagnostic instrumentation
 
 They may NOT:
-• Grant epistemic authority to SCHOLAR
-• Override CIV–MEM–CORE
-• Remove contradiction disclosure requirements
+• Convert LOGE into an epistemic engine
+• Allow option outcomes to generate belief
+• Collapse options into recommendations
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GOVERNANCE–LAW v1.2
+END OF FILE — CIV–SCHOLAR–PROTOCOL v1.4
 ────────────────────────────────────────────────────────────
