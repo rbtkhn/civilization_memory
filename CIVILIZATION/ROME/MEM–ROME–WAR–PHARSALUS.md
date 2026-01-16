@@ -205,5 +205,27 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+VII.a MODERN SCHOLARSHIP — MILITARY REALITY & COMMAND LOYALTY
+────────────────────────────────────────────────────────────
+Adrian Goldsworthy emphasizes that Pharsalus was not merely the defeat of
+Pompey, but the exposure of a long-developing structural reality in Roman
+warfare and command culture:
+
+> “By the time of the civil wars the legions were no longer instruments
+> of the state in any meaningful sense. Their loyalty was to the
+> commander who led them, rewarded them, and shared their dangers.
+> Pharsalus demonstrated with brutal clarity that no republican
+> institution could compete with a general who possessed the devotion
+> of veteran soldiers and the confidence to use them decisively.”
+> — Adrian Goldsworthy, *Caesar: Life of a Colossus*
+
+Goldsworthy’s analysis reinforces the core claim of this MEM file:
+Pharsalus does not *cause* the fall of the Republic; it **reveals** that
+the Republic has already lost control of its primary instrument of
+power.
+
+Military loyalty precedes constitutional legitimacy.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–WAR–PHARSALUS — v1.0
 ────────────────────────────────────────────────────────────
