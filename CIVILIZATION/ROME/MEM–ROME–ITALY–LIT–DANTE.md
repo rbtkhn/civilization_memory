@@ -1,48 +1,55 @@
-MEM–ROME–DANTE — v1.0
+MEM–ROME–ITALY–LIT–DANTE — v1.1
 Civilizational Memory Codex · Memory File
-Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
+Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
-Civilization: ROME
+Version: 1.1
+Upgrade Type: RENAME + ARC COMPLIANCE (NO INTERPRETIVE CHANGE)
+Supersedes: MEM–ROME–DANTE — v1.0
+Civilization: ROME (ITALIAN POST-IMPERIAL CONTINUITY)
 Regime: POST-IMPERIAL LATIN CHRISTENDOM
-Subject: Dante Alighieri
+Subject: Dante Alighieri (Italian Roman Afterlife)
 Dates: 1265–1321 AD
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Dante as **Rome’s post-imperial moral cartographer**:
+This file preserves Dante as **Rome’s Italian moral cartographer**:
 the figure who reconstructs Roman authority after political collapse by
-re-anchoring it in cosmic justice, theological hierarchy, and poetic law.
+re-anchoring it in cosmic justice, theological hierarchy, and poetic law
+within the Italian peninsula.
 
 For Rome, Dante does not restore empire.
 He **judges it, reorders it, and eternalizes its logic**.
 
+Italy becomes the vessel through which Roman judgment survives.
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ROME AFTER EMPIRE: THE PROBLEM OF AUTHORITY
+II. ITALY AFTER EMPIRE: THE PROBLEM OF AUTHORITY
 ────────────────────────────────────────────────────────────
-Dante writes in a world where Rome persists without sovereignty.
+Dante writes in an Italy where Rome persists without sovereignty.
 
 Conditions:
-• Fragmented Italian polities
-• Papal–imperial rivalry
-• Memory of empire without mechanism
-• Law without universal enforcement
+• Fragmented Italian communes and lordships
+• Papal–imperial rivalry centered on Italy
+• Memory of Roman law without enforcement
+• Universal claims without universal power
 
-The question Dante confronts:
-→ If Rome no longer rules the world, what judges it?
+The central question Dante confronts:
+→ If Rome no longer rules the world, what judges rulers?
 
-His answer is metaphysical, not political.
+His answer is metaphysical, not institutional.
 
 ────────────────────────────────────────────────────────────
 III. THE COMEDY AS JURISDICTIONAL MAP
 ────────────────────────────────────────────────────────────
-The *Divine Comedy* functions as a total legal order.
+The *Divine Comedy* functions as a total Roman legal order
+translated into theology.
 
 Structure:
 • Hell = violated law
@@ -51,40 +58,58 @@ Structure:
 
 Every soul is judged.
 Every act has consequence.
-No power escapes review.
+No authority escapes review.
 
-This restores **universal accountability** absent on earth.
+Dante makes eternity Rome’s final court.
 
-Rome’s legal instinct is relocated to eternity.
+Verbatim anchor:
+
+> “Justice moved my high Maker; divine power made me,
+> highest wisdom and primal love.”
+> — Dante, *Inferno*, Canto III
+
+Rome’s legal instinct is relocated from empire to eternity.
 
 ────────────────────────────────────────────────────────────
 IV. IMPERIAL UNIVERSALISM, REFINED
 ────────────────────────────────────────────────────────────
-Dante remains an imperial thinker.
+Dante remains an imperial thinker, especially in *De Monarchia*.
 
 Core commitments:
-• Universal monarchy preferred to factional rule
-• Empire as peace-enabling structure
+• Universal monarchy as peace-enabling
 • Law superior to will
+• Authority ordered beneath God
 
-But empire is stripped of brute force.
+But empire is stripped of coercion.
 It becomes **a moral necessity, not a military fact**.
 
-The emperor rules best when he rules least—
-and under God.
+Verbatim anchor:
+
+> “The world is ordered best when it is ruled by one,
+> since unity belongs to the intention of God.”
+> — Dante, *De Monarchia*, I.12
+
+Empire survives as principle, not army.
 
 ────────────────────────────────────────────────────────────
 V. PAPACY, CORRUPTION, & SEPARATION OF POWERS
 ────────────────────────────────────────────────────────────
-Dante is ruthless toward the Church.
+Dante is ruthless toward ecclesiastical overreach,
+especially as experienced in Italy.
 
 Condemnations:
 • Simony
 • Temporal ambition
-• Papal overreach
+• Papal usurpation of imperial jurisdiction
+
+Verbatim anchor:
+
+> “You who should be devoted to God
+> have made a god of gold and silver.”
+> — Dante, *Inferno*, Canto XIX
 
 Key doctrine:
-→ Spiritual authority and temporal authority must not merge.
+→ Spiritual and temporal authority must not merge.
 
 Rome’s error was domination.
 The Papacy’s error is imitation.
@@ -94,7 +119,7 @@ Both are judged by higher law.
 ────────────────────────────────────────────────────────────
 VI. POET AS JUDGE
 ────────────────────────────────────────────────────────────
-Dante assumes an unprecedented role.
+Dante assumes a uniquely Roman role.
 
 He is:
 • Not priest
@@ -107,32 +132,62 @@ Poetry becomes jurisdiction.
 Memory becomes law.
 Narrative becomes enforcement.
 
-This is Roman legalism in literary form.
+This is Roman legalism translated into Italian literature.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL TRANSMISSION
+VII. ITALY AS ROMAN TRANSMISSION ZONE
 ────────────────────────────────────────────────────────────
-Dante stabilizes Rome’s afterlife.
+Dante anchors Roman continuity specifically in Italy.
 
-Legacies:
-• Latin moral order survives political death
-• Roman law fuses with Christian eschatology
-• Europe inherits judgment grammar
+Functions:
+• Italian vernacular replaces imperial Latin
+• Roman law fuses with Christian cosmology
+• Italy becomes Rome’s moral archive
 
-Rome no longer conquers.
-It **defines justice**.
+Italy ceases to rule politically,
+but continues to **judge civilization**.
+
+This complements MEM–ROME–ITALY and MEM–ROME–ITALY–FLORENCE.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+VIII. CIVILIZATIONAL MEMORY FUNCTION
+────────────────────────────────────────────────────────────
+Dante encodes **Roman judgment without sovereignty**.
+
+Lessons:
+• Universal law survives regime collapse
+• Courts can outlive states
+• Moral authority migrates through language
+• Italy preserves Rome by narrating it
+• Judgment replaces conquest as Rome’s final power
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Rome survives longest as a court, not a state.
-• Universal law migrates when institutions collapse.
-• Empire can be eternalized without armies.
-• Judgment replaces sovereignty as Rome’s final power.
-• Dante turns Roman order into cosmic memory.
+• Universal law migrates when institutions fail.
+• Italy becomes Rome’s moral capital.
+• Poetry can govern when armies cannot.
+• Dante eternalizes Roman order without empire.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–DANTE — v1.0
+X. SOURCES (ARC-COMPLIANT)
+────────────────────────────────────────────────────────────
+Medieval Primary:
+• Dante Alighieri, *Divine Comedy*
+• Dante Alighieri, *De Monarchia*
+
+Public-Domain Scholarship:
+• Giovanni Villani
+• Edward Gibbon
+
+Modern Scholarship:
+• Erich Auerbach
+• Charles Singleton
+• John Freccero
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–ITALY–DANTE — v1.1
 ────────────────────────────────────────────────────────────
