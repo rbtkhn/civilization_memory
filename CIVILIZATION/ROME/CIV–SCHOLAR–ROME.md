@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v1.6
+CIV–SCHOLAR–ROME — v1.7
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v1.5
-Upgrade Type: ADDITIVE · ARC–ROME CANON SYNCHRONIZATION (NO EPISTEMIC CHANGE)
+Supersedes: CIV–SCHOLAR–ROME v1.6
+Upgrade Type: ADDITIVE · LEARNING INGEST CONSOLIDATION (NO DOCTRINAL CHANGE)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -13,31 +13,35 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
 • CIV–SCHOLAR–ROME–ARC v1.8 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
-Wordcount: ~3,500
+Wordcount: ~3,900
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.6)
+UPGRADE NOTE (v1.7)
 ────────────────────────────────────────────────────────────
-This version preserves all structural, governance, authority, and lock
-constraints from v1.5.
+This version preserves all structural, governance, authority, ARC, and
+lock constraints from v1.6.
 
-v1.6 introduces ONE corrective change only:
-• Section IX is removed and replaced with an explicit pointer to the
-  externally stored and mirrored Academic Reference Canon:
-  CIV–SCHOLAR–ROME–ARC v1.8.
+v1.7 introduces NO new doctrine and NO epistemic reclassification.
 
-No learning entries are modified.
-No beliefs are reclassified.
-No syntheses are altered.
-No doctrines are added, removed, or revised.
+This version increment formally records a material expansion of the
+learning ledger, including:
+• Frontier river systems (Rhine, Danube)
+• Corridor vs boundary logic
+• Exposure vs absorption geography
+• Expansion ceiling formalization (Trajan ↔ Hadrian)
+• Frontier legibility as a recurring failure mode
+
+All newly consolidated beliefs remain UNFROZEN.
+
+No syntheses are promoted.
+No doctrine is added, removed, or revised.
 No CIV–CORE boundary is weakened.
-No predictive or prescriptive logic is introduced.
 
-This upgrade restores full ARC parity and external-storage readiness.
+This is a consolidation release only.
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -84,7 +88,8 @@ ENTRY 0001
 Source: MEM–ROME–CAESAR — v1.0
 Ingest Type: Person / Political Order
 Primary Belief Extracted:
-• Republican procedure collapses under imperial scale; personal command fills institutional voids faster than reform.
+• Republican procedure collapses under imperial scale; personal command
+  fills institutional voids faster than reform.
 Belief Status:
 • FROZEN (see DOCTRINE v1.0 — “Imperial Continuity Through Authority Translation”)
 
@@ -92,7 +97,9 @@ ENTRY 0002
 Source: MEM–ROME–CONSTANTINOPLE — v1.0
 Ingest Type: Institution / Continuity Node / Geography
 Primary Belief Extracted:
-• Rome survives collapse by relocating authority into a new administrative-theological center while preserving institutional continuity.
+• Rome survives collapse by relocating authority into a new
+  administrative–theological center while preserving institutional
+  continuity.
 Belief Status:
 • FROZEN
 
@@ -100,7 +107,8 @@ ENTRY 0003
 Source: MEM–ROME–PAPACY — v1.0
 Ingest Type: Institution / Religion / Law
 Primary Belief Extracted:
-• Roman universal authority can outlive empire by translating sovereignty into spiritual jurisdiction and canon-law procedure.
+• Roman universal authority can outlive empire by translating sovereignty
+  into spiritual jurisdiction and canon-law procedure.
 Belief Status:
 • FROZEN
 
@@ -108,7 +116,8 @@ ENTRY 0004
 Source: MEM–ROME–CRUSADES — v1.0
 Ingest Type: War / Universalism Stress Test
 Primary Belief Extracted:
-• Militarizing spiritual primacy via delegated warfare degrades legitimacy and exposes the outer limit of papal universalism.
+• Militarizing spiritual primacy via delegated warfare degrades legitimacy
+  and exposes the outer limit of papal universalism.
 Belief Status:
 • FROZEN
 
@@ -116,7 +125,8 @@ ENTRY 0005
 Source: MEM–ROME–CARTHAGE — v1.0
 Ingest Type: Civilization / Rival Mirror
 Primary Belief Extracted:
-• Rome defines itself by destroying non-absorbable rivals; victor control of memory compounds territorial victory.
+• Rome defines itself by destroying non-absorbable rivals; victor control
+  of memory compounds territorial victory.
 Belief Status:
 • UNFROZEN
 
@@ -124,7 +134,8 @@ ENTRY 0006
 Source: MEM–ROME–GEO–MEDITERRANEAN–SEA — v1.0
 Ingest Type: Geography / Circulation System
 Primary Belief Extracted:
-• Mediterranean circulation enables Rome to scale law, logistics, and legitimacy; sea coherence mirrors political coherence.
+• Mediterranean circulation enables Rome to scale law, logistics, and
+  legitimacy; sea coherence mirrors political coherence.
 Belief Status:
 • UNFROZEN
 
@@ -132,7 +143,8 @@ ENTRY 0007
 Source: MEM–ROME–ALEXANDRIA — v1.0
 Ingest Type: City / Economic–Intellectual Node
 Primary Belief Extracted:
-• Alexandria functions as a specialization node that can absorb economic-intellectual volatility for imperial systems.
+• Alexandria functions as a specialization node that can absorb
+  economic–intellectual volatility for imperial systems.
 Belief Status:
 • UNFROZEN
 
@@ -140,7 +152,8 @@ ENTRY 0008
 Source: MEM–ROME–ANTIOCH — v1.0
 Ingest Type: City / Military–Logistical Node
 Primary Belief Extracted:
-• Antioch functions as a frontier-adjacent node absorbing military-logistical strain and strategic exposure.
+• Antioch functions as a frontier-adjacent node absorbing
+  military–logistical strain and strategic exposure.
 Belief Status:
 • UNFROZEN
 
@@ -148,7 +161,8 @@ ENTRY 0009
 Source: MEM–ROME–WAR–PUNIC — v1.0
 Ingest Type: War / Civilizational Shock
 Primary Belief Extracted:
-• Existential defeat-risk can be metabolized into stronger institutions when absorbed into a durable legitimacy grammar.
+• Existential defeat-risk can be metabolized into stronger institutions
+  when absorbed into a durable legitimacy grammar.
 Belief Status:
 • FROZEN
 
@@ -156,7 +170,8 @@ ENTRY 0010
 Source: MEM–ROME–WAR–CANNAE — v1.0
 Ingest Type: Battle / Catastrophic Shock
 Primary Belief Extracted:
-• Catastrophic tactical defeat can become strategic endurance if institutions prevent panic from becoming regime fracture.
+• Catastrophic tactical defeat can become strategic endurance if
+  institutions prevent panic from becoming regime fracture.
 Belief Status:
 • FROZEN
 
@@ -164,7 +179,8 @@ ENTRY 0011
 Source: MEM–ROME–HANNIBAL — v1.0
 Ingest Type: Person / Adversary System Pressure
 Primary Belief Extracted:
-• A superior operational mind can still fail against institutional replacement depth and absorption capacity.
+• A superior operational mind can still fail against institutional
+  replacement depth and absorption capacity.
 Belief Status:
 • FROZEN
 
@@ -172,7 +188,8 @@ ENTRY 0012
 Source: MEM–ROME–TACITUS — v1.0
 Ingest Type: Literature / History / Legitimacy Critique
 Primary Belief Extracted:
-• Moral corrosion and elite incentive decay can hollow legitimacy even when institutions appear intact.
+• Moral corrosion and elite incentive decay can hollow legitimacy even
+  when institutions appear intact.
 Belief Status:
 • UNFROZEN
 
@@ -180,7 +197,8 @@ ENTRY 0013
 Source: MEM–ROME–GIBBON — v1.0
 Ingest Type: Literature / History / Civilizational Decline Model
 Primary Belief Extracted:
-• Long-run decline can be narrated as interaction of moral exhaustion, institutional overreach, and systemic substitution.
+• Long-run decline can be narrated as interaction of moral exhaustion,
+  institutional overreach, and systemic substitution.
 Belief Status:
 • UNFROZEN
 
@@ -188,7 +206,8 @@ ENTRY 0014
 Source: MEM–ROME–POLYBIUS — v1.0
 Ingest Type: Literature / Constitution / Mixed Regime Logic
 Primary Belief Extracted:
-• Institutional design and cycle dynamics explain endurance until scale and incentive drift outpace constitutional balance.
+• Institutional design and cycle dynamics explain endurance until scale
+  and incentive drift outpace constitutional balance.
 Belief Status:
 • UNFROZEN
 
@@ -196,7 +215,8 @@ ENTRY 0015
 Source: MEM–ROME–LIVY — v1.0
 Ingest Type: Literature / Moral Memory
 Primary Belief Extracted:
-• Roman moral memory is governance infrastructure via exempla and ritual recall.
+• Roman moral memory is governance infrastructure via exempla and ritual
+  recall.
 Belief Status:
 • UNFROZEN
 
@@ -204,7 +224,8 @@ ENTRY 0016
 Source: MEM–ROME–SUETONIUS — v1.0
 Ingest Type: Literature / Imperial Personality
 Primary Belief Extracted:
-• Court-centered power produces legitimacy failures when personality substitutes for lawful continuity.
+• Court-centered power produces legitimacy failures when personality
+  substitutes for lawful continuity.
 Belief Status:
 • UNFROZEN
 
@@ -212,7 +233,8 @@ ENTRY 0017
 Source: MEM–ROME–PLUTARCH — v1.0
 Ingest Type: Literature / Comparative Biography
 Primary Belief Extracted:
-• Character comparison reveals structural limits through repeated moral choices.
+• Character comparison reveals structural limits through repeated moral
+  choices.
 Belief Status:
 • UNFROZEN
 
@@ -257,7 +279,7 @@ Belief Status:
 • UNFROZEN
 
 ENTRY 0023
-Source: MEM–ROME–TRAJAN — v1.0
+Source: MEM–ROME–TRAJAN — v1.2
 Ingest Type: Person / Expansion Logic
 Primary Belief Extracted:
 • Expansion raises prestige while increasing exposure.
@@ -365,4 +387,4 @@ H-ROME-06 | Moral corrosion under stability | Incentive decay | Hollow legitimac
 These heuristics are descriptive, not predictive.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v1.6
+END OF FILE — CIV–SCHOLAR–ROME — v1.7
