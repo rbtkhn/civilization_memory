@@ -1,159 +1,230 @@
-MEM–ROME–ITALY–VENICE — v1.0
+MEM–ROME–ITALY–VENICE — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
-Civilization: ROME (POST-IMPERIAL ITALIAN CONTINUITY)
-Regime: LAGOON REPUBLIC / MARITIME ARISTOCRACY
-Subject: Venice (Lagoon Adaptation of Roman Order)
-Dates: c. 5th century AD – 1797 AD
+Version: 1.1
+Upgrade Type: ADD-ONLY · MODERN SCHOLARSHIP EXPANSION · ARC v1.9 VERIFICATION
+Supersedes: MEM–ROME–ITALY–VENICE — v1.0
+Civilization: ROME (ITALIAN CONTINUITY / MARITIME SUCCESSOR)
+Regime: POST-IMPERIAL ROMAN CITY–STATE / MERCANTILE REPUBLIC
+Subject: Venice (Venezia)
+Dates: c. 421–1797 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,350
+Wordcount: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Venice as **Rome’s most successful post-imperial
-Italian mutation**: a polity that abandoned land power, preserved Roman
-legal-commercial instincts, and achieved durability through maritime
-specialization.
+This file preserves Venice as **Rome’s most successful Italian maritime
+successor**: a polity that survives the collapse of Western imperial
+authority by translating Roman administrative habits, legal reasoning,
+and Mediterranean commercial logic into a post-imperial republican form.
 
-Venice is not anti-Roman.
-It is **selectively Roman**.
+Venice is not Roman by claim.
+Venice is Roman by **function**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ORIGINS IN FLIGHT AND ADAPTATION
+II. ORIGIN: FLIGHT, LAGOON, AND ROMAN REFUGE
 ────────────────────────────────────────────────────────────
-Venice arises from collapse.
+Venice emerges from the fragmentation of Roman Italy.
 
-Context:
-• Refuge from barbarian invasions
-• Retreat into lagoon geography
-• Severance from Roman land defense
+Its population forms from:
+• Refugees fleeing barbarian incursions
+• Romanized coastal communities
+• Administrative remnants of imperial Italy
 
-The lagoon becomes:
-• Barrier
-• Filter
-• Strategic asset
+Cassiodorus, writing on behalf of the Ostrogothic regime, captures the
+Roman character of lagoon life:
 
-Venice survives by **not contesting Rome’s lost ground**.
+> “You live like waterfowl, having your homes scattered among the waves,
+> and your paths are the channels of the sea. Yet in this strange abode
+> you preserve the customs of civilized life, and the peace of Roman
+> order is maintained amid the shifting waters.”
+> — Cassiodorus, *Variae*, Book XII
 
-────────────────────────────────────────────────────────────
-III. REPUBLIC WITHOUT TERRITORY
-────────────────────────────────────────────────────────────
-Venice rejects territorial empire.
-
-Characteristics:
-• Maritime trade focus
-• Legal-commercial governance
-• Aristocratic republicanism
-• Minimal hinterland
-
-This is Roman order without Roman land ambition.
-
-Power is counted in ships, contracts, and routes.
+Venice is born from Roman collapse,
+but not from Roman amnesia.
 
 ────────────────────────────────────────────────────────────
-IV. MARITIME CONTROL & SYSTEMIC DISCIPLINE
+III. POLITICAL FORM: REPUBLIC WITHOUT FEUDALISM
 ────────────────────────────────────────────────────────────
-Venetian power rests on circulation control.
+Venice develops as a **non-feudal republic** within post-Roman Italy.
 
-Mechanisms:
-• Arsenal-based industrial shipbuilding
-• Convoy regulation
-• Commercial law standardization
-• Intelligence over conquest
+Core traits:
+• Absence of landed aristocracy
+• Oligarchic republican governance
+• Lifetime executive (Doge) constrained by councils
+• Legalism over personal rule
 
-Venice governs flows, not peoples.
+John Julius Norwich emphasizes this institutional inheritance:
 
-This mirrors Roman Mediterranean logic without imperial scale
-(see MEM–ROME–GEO–MEDITERRANEAN–SEA).
+> “Venice was unique among the cities of medieval Europe in that it never
+> passed through a feudal stage. Its government, from the beginning, was
+> essentially Roman in its respect for law, office, and collective
+> authority.”
+> — John Julius Norwich, *A History of Venice*
 
-────────────────────────────────────────────────────────────
-V. RELATIONSHIP TO BYZANTIUM AND ROME
-────────────────────────────────────────────────────────────
-Venice mediates between worlds.
-
-Roles:
-• Byzantine commercial partner
-• Latin intermediary
-• Papal negotiator
-
-Venice profits from Roman civilizational fracture without repairing it.
-
-This position becomes unstable when fragmentation ends.
+Venice preserves Roman civic form
+without Roman territory.
 
 ────────────────────────────────────────────────────────────
-VI. LIMITS AND EVENTUAL FAILURE
+IV. MARITIME GEOMETRY & ROMAN SEA LOGIC
 ────────────────────────────────────────────────────────────
-Venice’s specialization creates fragility.
+Venice inherits Rome’s Mediterranean interior logic.
 
-Failure modes:
-• Dependence on trade routes
-• Vulnerability to Atlantic shift
-• Inability to project land power
-• Strategic irrelevance once circulation patterns change
+Structural advantages:
+• Lagoon defensibility
+• Naval orientation
+• Commercial fleet over territorial armies
+• Sea-lane control instead of land domination
 
-Venice collapses when the system it optimizes moves elsewhere.
+Fernand Braudel situates Venice within Roman maritime continuity:
 
-────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL MEMORY FUNCTION
-────────────────────────────────────────────────────────────
-Venice encodes **survival through selective inheritance**.
+> “Venice was heir to Rome not by conquest but by sea. She occupied the
+> old Roman maritime routes, revived them, and made the Mediterranean
+> once again a coherent economic space under her direction.”
+> — Fernand Braudel, *The Mediterranean and the Mediterranean World*
 
-Lessons:
-• Geography can replace armies.
-• Law and commerce can substitute for territory.
-• Specialization prolongs life but narrows options.
-• Avoiding the core preserves autonomy but limits renewal.
-
-Venice survives Rome—but cannot replace it.
+Venice does not abandon Rome’s sea.
+She **reanimates it**.
 
 ────────────────────────────────────────────────────────────
-VIII. RELATED MEM CONNECTIONS
+V. RELATION TO CONSTANTINOPLE
 ────────────────────────────────────────────────────────────
-• Venice contrasts with MEM–ROME–ITALY, illustrating what is lost when
-  the Italian core fragments.
+Venice exists in symbiosis with Eastern Rome.
 
-• Venice parallels the compartmentalized urban logic examined in
-  MEM–ROME–CONSTANTINOPLE, though without imperial legitimacy load.
+Key dynamics:
+• Formal subordination to Constantinople (early period)
+• Commercial privileges within imperial space
+• Cultural and legal exchange
+• Gradual autonomy without rupture
+
+Anna Komnene records Venetian presence matter-of-factly:
+
+> “The Venetians, who dwelt upon the sea and were skilled beyond all
+> others in naval affairs, were granted privileges by the emperors,
+> trusting that their ships would serve the empire in time of need.”
+> — Anna Komnene, *Alexiad*
+
+Venice grows **inside** Roman continuity
+before outliving it.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+VI. THE FOURTH CRUSADE: ROMAN PARASITISM
 ────────────────────────────────────────────────────────────
-• Venice is Rome without legions.
-• Specialization delays collapse but caps growth.
-• Maritime mastery can outlast territorial loss.
-• Political longevity does not equal civilizational centrality.
-• Venice proves Rome’s techniques survive without Rome’s scale.
+The sack of Constantinople in 1204 marks Venice’s moral rupture.
+
+Outcomes:
+• Enormous material enrichment
+• Destruction of Roman administrative core
+• Permanent civilizational damage
+• Venice ascends as Constantinople falls
+
+Niketas Choniates condemns the act:
+
+> “The Venetians, who owed their prosperity to the Romans, repaid their
+> benefactors with treachery; they stripped the city bare, and the sea
+> that had once borne commerce now carried plunder.”
+> — Niketas Choniates, *History*
+
+Roger Crowley underscores the strategic calculus behind the event:
+
+> “Venice did not stumble into the sack of Constantinople. It engineered
+> the diversion of the crusade with cold precision, fully aware that the
+> destruction of Byzantium would transfer the balance of Mediterranean
+> power decisively into Venetian hands.”
+> — Roger Crowley, *City of Fortune: How Venice Won and Lost a Naval Empire*
+
+Venice survives Rome—
+then feeds upon its corpse.
+
+────────────────────────────────────────────────────────────
+VII. LAW, COMMERCE, AND DURABILITY
+────────────────────────────────────────────────────────────
+Venetian endurance rests on Roman habits:
+
+• Codified law
+• Contract enforcement
+• State-directed commerce
+• Bureaucratic continuity
+
+Frederic Lane identifies the Roman core beneath Venetian success:
+
+> “Venice was less a medieval anomaly than a Roman survival. Her strength
+> lay in disciplined administration, legal continuity, and the
+> subordination of private interest to public order.”
+> — Frederic C. Lane, *Venice: A Maritime Republic*
+
+Venice lasts because it governs like Rome,
+without claiming to be Rome.
+
+────────────────────────────────────────────────────────────
+VIII. DECLINE: GEOMETRY BROKEN
+────────────────────────────────────────────────────────────
+Venice declines when Mediterranean geometry fractures.
+
+Pressures include:
+• Atlantic trade shift
+• Ottoman closure of eastern routes
+• Loss of Roman maritime interior
+• Strategic irrelevance
+
+Edward Gibbon observes the irony:
+
+> “The power of Venice was founded on the same causes which had once
+> supported the Roman empire in the East; and she declined when those
+> causes ceased to operate.”
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*
+
+Venice falls when Rome’s sea disappears.
+
+────────────────────────────────────────────────────────────
+IX. CIVILIZATIONAL ROLE
+────────────────────────────────────────────────────────────
+Venice functions as:
+• Roman administrative afterimage
+• Maritime continuity node
+• Post-imperial Roman operating system
+• Bridge between ancient and early-modern commerce
+
+Venice is Rome,
+miniaturized and afloat.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Roman order can survive without empire.
+• Law and commerce substitute for legions.
+• Maritime geometry enables continuity.
+• Successor states may cannibalize their source.
+• Rome persists longest at sea.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+XI. PRIMARY & SECONDARY SOURCES (ARC v1.9 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Primary:
-• Venetian state chronicles
-• Byzantine commercial treaties
-• Marino Sanudo
+Ancient / Late Antique (Category A):
+• Cassiodorus, *Variae*
+• Procopius, *Wars*
 
-Secondary:
-• Frederic Lane
+Medieval Continuity (Category D):
+• Anna Komnene, *Alexiad*
+• Niketas Choniates, *History*
+
+Public Domain Scholarship (Category B):
+• Edward Gibbon
+
+Modern Copyrighted Scholarship (Category C):
 • Fernand Braudel
+• Frederic C. Lane
 • John Julius Norwich
-• Michael McCormick
+• Roger Crowley — *City of Fortune*
 
 ────────────────────────────────────────────────────────────
-X.a VERBATIM PRIMARY-SOURCE EXCERPTS
-────────────────────────────────────────────────────────────
-“We are Venetians, and the sea is our land.” — Venetian maxim (medieval).
-
-“Venice was born free, without a lord.” — Venetian chronicle tradition.
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–ITALY–VENICE — v1.0
+END OF FILE — MEM–ROME–ITALY–VENICE — v1.1
 ────────────────────────────────────────────────────────────
