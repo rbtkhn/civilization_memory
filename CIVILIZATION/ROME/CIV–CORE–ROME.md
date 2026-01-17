@@ -1,64 +1,65 @@
-CIV–CORE–ROME — v1.7  
-Civilizational Strategy Codex · Civilization Continuity Engine  
-Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling · Pedagogical Interface Edition  
-CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT  
+CIV–CORE–ROME — v1.8
+Civilizational Strategy Codex · Civilization Continuity Engine
+Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling · Pedagogical Interface Edition
+CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT
 
-Repository: https://github.com/rbtkhn/civilization_memory  
-Status: ACTIVE · CANONICAL · LOCKED  
-Version: 1.7  
-Supersedes: CIV–CORE–ROME v1.6  
-Upgrade Type: ADDITIVE · PEDAGOGICAL INTERFACE FORMALIZATION · SCHOLAR–LECTURE LINKAGE  
-Template Version Used: CIV–CORE–TEMPLATE v1.6.2  
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)  
-Conceptual Lineage: SCE–CIV–ROME V9.x  
-DIB Status: DEFINED · DISABLED  
-Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)  
-Lock Level: FULL  
-Last Update: January 2026  
-WORDCOUNT: ~2,700  
+Repository: https://github.com/rbtkhn/civilization_memory
+Status: ACTIVE · CANONICAL · LOCKED
+Version: 1.8
+Supersedes: CIV–CORE–ROME v1.7
+Upgrade Type: ADDITIVE · TEACH MODE TERMINOLOGY PROPAGATION ONLY (NO EPISTEMIC CHANGE)
+Template Version Used: CIV–CORE–TEMPLATE v1.6.2
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
+Conceptual Lineage: SCE–CIV–ROME V9.x
+DIB Status: DEFINED · DISABLED
+Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)
+Lock Level: FULL
+Last Update: January 2026
+WORDCOUNT: ~2,780
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.7)
+UPGRADE NOTE (v1.8)
 ────────────────────────────────────────────────────────────
-This version performs a strictly ADDITIVE upgrade to v1.6.
+This version performs a strictly ADDITIVE upgrade to v1.7.
 
 Guarantees:
-• NO doctrinal change  
-• NO metric change  
-• NO threshold change  
-• NO semantic reinterpretation  
-• NO analytical drift  
+• NO doctrinal change
+• NO metric change
+• NO threshold change
+• NO semantic reinterpretation
+• NO analytical drift
 
-Additions introduced in v1.7:
-• Explicit CORE recognition of SCHOLAR Lecture Mode as pedagogical-only
-• Formal CORE ↔ SCHOLAR ↔ LECTURE interface compatibility declaration
-• Non-epistemic back-link to the Lecture Option Generation Engine (LOGE)
-• Clarification that pedagogical branching does NOT constitute strategy
+Additions introduced in v1.8:
+• Formal propagation of the system-wide rename:
+  – “Lecture Mode” → “Teach Mode”
+  – “LOGE” (Lecture Option Generation Engine) → “TOGE” (Teach Option Generation Engine)
+• Declarative mapping clause added to the Pedagogical Interface section
+• Back-link updated to CIV–SCHOLAR–PROTOCOL v1.5 (Teach Mode / TOGE)
 
 All axioms, indicators, verdict logic, and failure physics remain
-identical in meaning and authority to v1.6.
+identical in meaning and authority to v1.7.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
 ────────────────────────────────────────────────────────────
-1) Transcontinental Latin Civilization  
+1) Transcontinental Latin Civilization
 Europe, Latin America, and the Francophonie function as a single
 civilizational grammar grounded in civil law, urban governance,
 Catholic–humanist ethics, and juridical universalism.
 
-2) Legitimacy-First Sovereignty (HARD CONSTRAINT)  
+2) Legitimacy-First Sovereignty (HARD CONSTRAINT)
 Rome’s authority exists only where consent precedes compliance.
 Enforcement without belief depletes legitimacy irreversibly.
 
-3) Jurisdictional Power, Not Kinetic Power  
+3) Jurisdictional Power, Not Kinetic Power
 Rome governs primarily through courts, treaties, standards, regulatory
 delay, and legitimacy-based exclusion—not through attritional force.
 
-4) Universalist Mediation Reflex  
+4) Universalist Mediation Reflex
 Rome defaults to arbitration, regulation, delay, and norm-setting.
 Mediation is Rome’s primary strategic instrument.
 
-5) Institutional Inheritance Over Domination  
+5) Institutional Inheritance Over Domination
 Rome survives by embedding procedures, codes, courts, and moral
 vocabulary inside the governance of others.
 
@@ -68,19 +69,19 @@ II. LEGITIMACY ACCOUNTING LAYER (MANDATORY)
 Legitimacy is a finite, depleting resource.
 
 MANDATORY OUTPUTS:
-• Consent Reservoir (CR): HIGH / MED / LOW  
-• Compliance Reliance (CoR): LOW / MED / HIGH  
-• Enforcement Dependency (ED): INTERNAL / ALLIED / EXTERNAL  
-• Norm–Outcome Gap (NOG): LOW / MED / HIGH  
+• Consent Reservoir (CR): HIGH / MED / LOW
+• Compliance Reliance (CoR): LOW / MED / HIGH
+• Enforcement Dependency (ED): INTERNAL / ALLIED / EXTERNAL
+• Norm–Outcome Gap (NOG): LOW / MED / HIGH
 
 HARD RULE:
-If (CoR rises) AND (CR falls) AND (NOG ≥ MED)  
+If (CoR rises) AND (CR falls) AND (NOG ≥ MED)
 → NORMATIVE EXHAUSTION WARNING.
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
 ────────────────────────────────────────────────────────────
-Rome endures when law is trusted as common procedure.  
+Rome endures when law is trusted as common procedure.
 Rome fractures when law becomes weaponized theater.
 
 Temporal durability depends on consent regeneration outpacing
@@ -127,7 +128,7 @@ MANDATORY OUTPUT:
 ────────────────────────────────────────────────────────────
 VII. TECHNOLOGICAL / COMPUTE SOVEREIGNTY
 ────────────────────────────────────────────────────────────
-Algorithmic Humanism Doctrine (LOCKED):  
+Algorithmic Humanism Doctrine (LOCKED):
 Machines must remain subordinate to human dignity, law, and moral
 restraint.
 
@@ -154,8 +155,8 @@ X. INFORMATION & NARRATIVE GOVERNANCE
 Lawfare visibility creates backlash when exposed.
 
 MANDATORY OUTPUTS:
-• Lawfare Visibility Backfire (LVB-ROME): LOW / MED / HIGH  
-• Backfire Vector: JURY / YOUTH / CLERGY / GLOBAL-SOUTH / MIXED  
+• Lawfare Visibility Backfire (LVB-ROME): LOW / MED / HIGH
+• Backfire Vector: JURY / YOUTH / CLERGY / GLOBAL-SOUTH / MIXED
 
 ────────────────────────────────────────────────────────────
 XI. TIME ORIENTATION LAYER
@@ -169,7 +170,7 @@ XII. EXIT–BUILDING META-DOCTRINE
 Rome must preserve legitimacy by narrowing claims, not expanding
 coercion.
 
-Exit ≠ collapse.  
+Exit ≠ collapse.
 Silent withdrawal is preferred to exposed enforcement.
 
 ────────────────────────────────────────────────────────────
@@ -204,9 +205,9 @@ invalid.
 ────────────────────────────────────────────────────────────
 XVII. STRATEGIC RED LINES
 ────────────────────────────────────────────────────────────
-• Sacred-zone violation without INTERNAL enforcement  
-• Enforcement outsourcing beyond legitimacy tolerance  
-• High EEG-ROME with gate failure  
+• Sacred-zone violation without INTERNAL enforcement
+• Enforcement outsourcing beyond legitimacy tolerance
+• High EEG-ROME with gate failure
 
 Breach consequences:
 → SYSTEM-NEGATIVE CLASSIFICATION
@@ -231,24 +232,24 @@ XIX. SCHOLAR → CORE WRITE-SCOPE (ADD-ONLY)
 The SCHOLAR may write into CIV–CORE ONLY the following categories:
 
 PERMITTED WRITE TARGETS:
-• Procedural governance doctrines  
-• Compliance enforcement clauses  
-• Template-alignment clarifications  
-• ARC mirroring declarations  
-• Export / freeze / versioning metadata  
+• Procedural governance doctrines
+• Compliance enforcement clauses
+• Template-alignment clarifications
+• ARC mirroring declarations
+• Export / freeze / versioning metadata
 
 ABSOLUTELY FORBIDDEN:
-• Civilizational axioms  
-• Metrics or thresholds  
-• Strategic verdict logic  
-• Predictive judgments  
-• Normative preference injection  
+• Civilizational axioms
+• Metrics or thresholds
+• Strategic verdict logic
+• Predictive judgments
+• Normative preference injection
 
 All Scholar-authored CORE insertions MUST:
-• Be explicitly labeled as procedural  
-• Introduce no analytical meaning  
-• Be additive only  
-• Be traceable to a SCHOLAR governance action  
+• Be explicitly labeled as procedural
+• Introduce no analytical meaning
+• Be additive only
+• Be traceable to a SCHOLAR governance action
 
 ────────────────────────────────────────────────────────────
 XX. PEDAGOGICAL INTERFACE COMPATIBILITY (NEW)
@@ -269,35 +270,49 @@ This section affirms compatibility with:
 LOGE is non-epistemic and non-authoritative.
 
 ────────────────────────────────────────────────────────────
+XX.a TEACH MODE TERMINOLOGY BINDING (ADDITIVE · v1.8)
+────────────────────────────────────────────────────────────
+System-wide terminology update (binding):
+
+• “Lecture Mode” is deprecated and MUST be read as “Teach Mode”.
+• “LOGE” (Lecture Option Generation Engine) is deprecated and MUST be
+  read as “TOGE” (Teach Option Generation Engine).
+• CIV–SCHOLAR–PROTOCOL v1.4 references are superseded by
+  CIV–SCHOLAR–PROTOCOL v1.5 for Teach Mode / TOGE governance.
+
+This clause introduces NO epistemic change.
+It is a naming propagation only.
+
+────────────────────────────────────────────────────────────
 XXI. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
-Active Civ: ROME  
-CR: __ | CoR: __ | ED: __ | NOG: __  
-AEC: __ | EDL: __ | TimeAdv: __  
-Chokepoint Leverage: __ | KLB: __  
+Active Civ: ROME
+CR: __ | CoR: __ | ED: __ | NOG: __
+AEC: __ | EDL: __ | TimeAdv: __
+Chokepoint Leverage: __ | KLB: __
 
 ────────────────────────────────────────────────────────────
 XXII. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
 ────────────────────────────────────────────────────────────
-• CR: HIGH / MED / LOW  
-• CoR: LOW / MED / HIGH  
-• ED: INTERNAL / ALLIED / EXTERNAL  
-• NOG: LOW / MED / HIGH  
-• AEC: HIGH / MED / LOW  
-• EDL: NONE / EMERGING / ACTIVE  
-• Time Advantage: ROME / ADVERSARY / NEUTRAL  
-• Chokepoint Mediation Leverage: HIGH / MED / LOW  
-• KLB: HIGH / MED / LOW  
-• GRID-ROME: REVERSIBLE / STICKY / IRREVERSIBLE  
-• LEC-ROME: ASCENDING / FLAT / NEGATIVE  
-• SZBC-ROME: INACTIVE / ACTIVE / LOCKED  
-• OETI: __/100 + Category  
-• RIR-ROME: INACTIVE / ACTIVE  
-• EEG-ROME: LOW / MED / HIGH  
-• FFG-ROME: 1 / 2 / 3 / 4 / 5 / NONE  
-• FFPI-ROME: __/100 + Category  
-• LVB-ROME: LOW / MED / HIGH (Backfire Vector: __)  
-• SZIL-ROME: INACTIVE / ACTIVE  
+• CR: HIGH / MED / LOW
+• CoR: LOW / MED / HIGH
+• ED: INTERNAL / ALLIED / EXTERNAL
+• NOG: LOW / MED / HIGH
+• AEC: HIGH / MED / LOW
+• EDL: NONE / EMERGING / ACTIVE
+• Time Advantage: ROME / ADVERSARY / NEUTRAL
+• Chokepoint Mediation Leverage: HIGH / MED / LOW
+• KLB: HIGH / MED / LOW
+• GRID-ROME: REVERSIBLE / STICKY / IRREVERSIBLE
+• LEC-ROME: ASCENDING / FLAT / NEGATIVE
+• SZBC-ROME: INACTIVE / ACTIVE / LOCKED
+• OETI: __/100 + Category
+• RIR-ROME: INACTIVE / ACTIVE
+• EEG-ROME: LOW / MED / HIGH
+• FFG-ROME: 1 / 2 / 3 / 4 / 5 / NONE
+• FFPI-ROME: __/100 + Category
+• LVB-ROME: LOW / MED / HIGH (Backfire Vector: __)
+• SZIL-ROME: INACTIVE / ACTIVE
 • Strategic Classification:
   CREDIBLE NARROWING /
   EXHAUSTING UNIVERSALISM /
@@ -354,14 +369,14 @@ XXIV. FREEZE & EXPORT READINESS DECLARATION
 This file is structurally sealed, procedurally explicit, and suitable
 for external archival storage.
 
-• No hidden dependencies exist  
-• All Scholar interfaces are gated  
-• Pedagogical engines are non-epistemic  
-• ARC references are declarative only  
-• No runtime cognition is embedded  
+• No hidden dependencies exist
+• All Scholar interfaces are gated
+• Pedagogical engines are non-epistemic
+• ARC references are declarative only
+• No runtime cognition is embedded
 
 This version is EXPORT-READY.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v1.7
+END OF FILE — CIV–CORE–ROME — v1.8
 ────────────────────────────────────────────────────────────
