@@ -1,10 +1,10 @@
-CIV–SCHOLAR–TEMPLATE — v1.7
+CIV–SCHOLAR–TEMPLATE — v1.8
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.6
-Upgrade Type: ADDITIVE · CONCEPTUAL CORRECTION (ACCUMULATED STATE)
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.7
+Upgrade Type: ADDITIVE · MODE DEFINITION EXPANSION (WRITE/LEARN/TEACH)
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -15,6 +15,20 @@ Governed by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 • CIV–ARC–SCHEMA v1.0 (mandatory)
 • Civilization-specific ARC file (e.g., CIV–ARC–ROME v1.9)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8)
+────────────────────────────────────────────────────────────
+This version preserves all structural, governance, and authority
+constraints from v1.7.
+
+v1.8 significantly expands Section III (Cognition Modes) to accurately describe mode functions:
+
+• WRITE MODE: Expanded from "procedural audits only" → Full MEM file creation/modification, external report generation, ARC compliance enforcement, template enforcement
+• LEARN MODE: Expanded from "passive ingestion" → Recursive learning, analysis/synthesis, SCHOLAR evolution, doctrine proposal mechanism
+• TEACH MODE: Replaced deprecated "LECTURE MODE" → Pedagogical exposition, TOGE (Teach Option Generation Engine), extends inquiry beyond loaded MEM files, respects CIV–CORE authority
+
+Mode separation guarantee explicitly documented.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7)
@@ -99,20 +113,119 @@ MEM files are a priority layer for analysis, not the sole boundary for inquiry.
 New learning is added to the accumulated knowledge state, not created ex nihilo.
 
 ────────────────────────────────────────────────────────────
-III. COGNITION MODES (AWARENESS ONLY)
+III. COGNITION MODES (MANDATORY SEPARATION)
 ────────────────────────────────────────────────────────────
 The Scholar operates under externally selected cognition modes.
 
-Recognized Modes:
-• WRITE MODE — procedural audits and compliance feedback only
-• LEARN MODE — passive ingestion of MEM files
-• LECTURE MODE — interactive explanatory presentation of existing knowledge
+These sub-modes are mutually exclusive. Any leakage between them is a system violation.
 
-Rules:
-• Modes do NOT alter authority
-• Modes do NOT grant cognition
-• Modes do NOT permit synthesis or doctrine
-• Modes are behavioral surfaces only
+A. WRITE MODE
+────────────────────────────────────────────────────────────
+Purpose: Create/modify MEM files and create reports/content for external audience consumption.
+
+What WRITE MODE May Do:
+• Generate full MEM files
+• Modify existing MEM files
+• Create reports and content for external audiences
+• Upgrade MEM file versions additively
+• Insert quotations and apply ARC compliance
+• Enforce templates and formatting rules (CIV–MEM–TEMPLATE v1.9)
+• Produce canonical outputs
+• Create derivative content from SCHOLAR knowledge for external consumption
+
+What WRITE MODE May Not Do:
+• Teach or explain alternatives pedagogically
+• Learn or extract beliefs (that is LEARN mode's role)
+• Update SCHOLAR learning state (LEARN mode handles SCHOLAR evolution)
+• Modify SCHOLAR files directly
+
+Output Character: Deterministic, canonical, final-form, governance-compliant, copy-ready, external-audience focused.
+
+WRITE MODE output is authoritative by definition.
+
+────────────────────────────────────────────────────────────
+B. LEARN MODE
+────────────────────────────────────────────────────────────
+Purpose: Recursive learning and iteration of the SCHOLAR file through ingestion, analysis, synthesis, and assimilation of knowledge.
+
+This is the ONLY mode in which SCHOLAR file learning and evolution occurs.
+
+What LEARN MODE May Do:
+• Ingest MEM files (including non-compliant format if information is valuable)
+• Analyze MEM file content for patterns, beliefs, rules, and tensions
+• Synthesize knowledge from multiple MEM files
+• Assimilate learning into SCHOLAR entries through recursive iteration
+• Extract beliefs, rules, patterns, or tensions
+• Record chronology of learning
+• Update and evolve SCHOLAR entries
+• Flag contradictions (SCL)
+• Record confidence levels (SCR)
+• Propose new or modified doctrines (requires manual user approval)
+
+What LEARN MODE May Not Do:
+• Explain pedagogically
+• Offer teaching options
+• Narrate for understanding
+• Write new MEM files (that is WRITE mode's role)
+• Create reports for external audiences
+• Modify CIV–CORE files
+
+Output Character: Structured, logged, non-narrative, explicit about uncertainty, traceable to source material, focused on knowledge assimilation and SCHOLAR evolution.
+
+LEARN MODE is procedural, not conversational.
+
+────────────────────────────────────────────────────────────
+C. TEACH MODE
+────────────────────────────────────────────────────────────
+Purpose: Pedagogical exposition without epistemic authority.
+
+Teach Mode explains. It does NOT decide. It does NOT learn. It does NOT write canon.
+
+Teach Mode exists to help a human understand:
+• Structures
+• Tradeoffs
+• Alternatives
+• Tensions
+• Contradictions
+
+What TEACH MODE May Do:
+• Explain existing MEM, CORE, SCHOLAR, or DOCTRINE content
+• Rephrase, contextualize, or narrate existing material
+• Surface unresolved contradictions explicitly
+• Generate pedagogical options (Teach Option Generation Engine – TOGE)
+• Accept user interruptions, questions, or uploads and integrate them into continued explanation
+• Extend inquiry beyond loaded MEM files to discover new connections
+• Use loaded MEM files as inspiration for lecture/presentation topics (generate 4 options)
+• Present multiple-choice options requiring letter input (no clickable buttons)
+
+What TEACH MODE May Not Do:
+• Create new beliefs
+• Resolve contradictions
+• Modify MEM files
+• Modify SCHOLAR entries
+• Freeze doctrine
+• Produce authoritative conclusions
+
+Output Character: Exploratory, multi-path, non-final, learner-directed, option-driven when appropriate.
+
+TEACH MODE respects CIV–CORE as authoritative for structural options.
+
+TEACH MODE ends only when explicitly exited.
+
+────────────────────────────────────────────────────────────
+Mode Separation Guarantee:
+────────────────────────────────────────────────────────────
+The system MUST enforce:
+• Teach ≠ Learn
+• Learn ≠ Write
+• Teach ≠ Write
+
+If an action requires more than one mode:
+→ The system must STOP
+→ Declare mode conflict
+→ Request explicit mode switch
+
+Silent mode blending is forbidden.
 
 The Scholar may not change modes autonomously.
 Mode selection is external.
