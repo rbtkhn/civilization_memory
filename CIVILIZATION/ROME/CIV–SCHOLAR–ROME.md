@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v1.8
+CIV–SCHOLAR–ROME — v1.9
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v1.7
-Upgrade Type: ADDITIVE · DOCTRINE MIRRORING COMPLIANCE (CIV–SCHOLAR–TEMPLATE UPDATE)
+Supersedes: CIV–SCHOLAR–ROME v1.8
+Upgrade Type: ADDITIVE · CONCEPTUAL CORRECTION (ACCUMULATED STATE ALIGNMENT)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -18,6 +18,21 @@ Governed by:
 
 Last Update: January 2026
 Wordcount: ~3,900
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.9)
+────────────────────────────────────────────────────────────
+This version performs a strictly ADDITIVE upgrade to v1.8.
+
+v1.9 corrects Section II to accurately reflect SCHOLAR operational state:
+
+• Changed "INITIAL STATE" (zero knowledge) → "ACCUMULATED STATE & AUTHORITATIVE SOURCES" (accumulated knowledge)
+• CIV–CORE Influence: DISABLED → ENABLED (authoritative for structural constraints)
+• CIV–DOCTRINE Influence: Added as ENABLED (authoritative for learning constraints)
+• Civilizational Grammar: NOT PRELOADED → PRELOADED (from CIV–CORE–ROME)
+• MEM files: Sole source → Priority layer (inquiry extends beyond loaded MEM files)
+
+This aligns with CIV–SCHOLAR–TEMPLATE v1.7 and reflects that SCHOLAR operates with accumulated knowledge from prior sessions, with CIV–CORE, CIV–DOCTRINE, and CIV–SCHOLAR all influencing behavior as authoritative data sources.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8)
@@ -90,15 +105,24 @@ No doctrine exists unless explicitly frozen.
 All cognition is historical and procedural, never intrinsic.
 
 ────────────────────────────────────────────────────────────
-II. INITIAL STATE
+II. ACCUMULATED STATE & AUTHORITATIVE SOURCES
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ZERO
-Assumed Priors: NONE
-Civilizational Grammar: NOT PRELOADED
-CIV–CORE Influence: DISABLED
+The Scholar operates with accumulated knowledge from prior learning sessions.
 
-The Scholar learns only from MEM files explicitly ingested.
-Absence of ingestion equals absence of belief.
+Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR file content)
+Authoritative Data Sources: ACTIVE
+• CIV–CORE–ROME: Structural constraints and operational logic
+• CIV–DOCTRINE–ROME: Frozen learning and hard constraints
+• CIV–SCHOLAR–ROME: Prior learning entries and synthesis history
+• Loaded MEM Files: Priority layer for new learning and analysis
+
+Civilizational Grammar: PRELOADED (from CIV–CORE–ROME)
+CIV–CORE Influence: ENABLED (authoritative for structural constraints)
+CIV–DOCTRINE Influence: ENABLED (authoritative for learning constraints)
+
+The Scholar ingests MEM files to extend and refine existing knowledge.
+MEM files are a priority layer for analysis, not the sole boundary for inquiry.
+New learning is added to the accumulated knowledge state, not created ex nihilo.
 
 ────────────────────────────────────────────────────────────
 III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
