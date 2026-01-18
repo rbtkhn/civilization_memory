@@ -12,7 +12,7 @@ Last Update: January 2026
 Wordcount: ~1,900
 Total Registered Files: authoritative count governed exclusively by this index
 
-Template Alignment: CIV–MEM–CORE v1.8 (Index-Compatible)
+Template Alignment: CIV–MEM–CORE v1.9 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -33,9 +33,9 @@ INDEX GOVERNANCE RULES (MANDATORY):
 ────────────────────────────────────────────────────────────
 II. CANONICAL CIV–CORE ENGINE
 ────────────────────────────────────────────────────────────
-• CIV–CORE–ROME — v1.6
+• CIV–CORE–ROME — v1.9
   Status: ACTIVE · CANONICAL · LOCKED
-  Template Compliance: CIV–CORE–TEMPLATE v1.6.2 (FULL)
+  Template Compliance: CIV–CORE–TEMPLATE v1.7 (FULL)
   Supersedes: ALL prior ROME CIV–CORE engines
   Lock Level: FULL
 
@@ -214,13 +214,13 @@ XIV. ACADEMIC REFERENCE CANON — ROME (ARC–ROME) [DECLARATIVE POINTER]
 The Academic Reference Canon governing all ROME materials is defined
 exclusively in the following file:
 
-• CIV–SCHOLAR–ROME–ARC — v1.8
+• CIV–ARC–ROME — v1.9
 
 Rules:
 • ARC–ROME is external, canonical, and category-locked
 • This index does not embed, quote, summarize, or interpret ARC content
 • ARC compliance is mandatory for MEM–ROME validity and audits
-• Any deviation from CIV–SCHOLAR–ROME–ARC v1.8 invalidates compliance
+• Any deviation from CIV–ARC–ROME v1.9 invalidates compliance
 
 ────────────────────────────────────────────────────────────
 XV. INDEX PARITY & MIRROR STATUS

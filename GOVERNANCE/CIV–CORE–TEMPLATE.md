@@ -288,7 +288,25 @@ ARC–[CIV] instances are mirrored into:
 Mirroring is declarative, not interpretive.
 
 ────────────────────────────────────────────────────────────
-XV. ARC ↔ MEM AUTHORING BINDING
+XV. DOCTRINE MIRRORING RULE
+────────────────────────────────────────────────────────────
+Each civilization MAY define a CIV–DOCTRINE–[CIV] instance.
+
+Rules:
+• CIV–DOCTRINE–[CIV] contains only ACCEPTED, FROZEN doctrines
+• CIV–DOCTRINE–[CIV] is a registry, not a synthesis workspace
+• CIV–DOCTRINE–[CIV] may not originate doctrines (must derive from SCHOLAR synthesis)
+
+CIV–DOCTRINE–[CIV] instances MUST be mirrored verbatim into:
+• CIV–CORE–[CIV]
+• CIV–SCHOLAR–[CIV]
+
+Mirroring is declarative, not interpretive.
+Mirrored doctrines provide citation surface for CIV–CORE engines.
+CIV–CORE may cite doctrines only from the mirrored DOCTRINE section.
+
+────────────────────────────────────────────────────────────
+XVI. ARC ↔ MEM AUTHORING BINDING
 ────────────────────────────────────────────────────────────
 ARC quotation requirements are enforced exclusively by
 MEM Writing Mode governance law.
@@ -302,7 +320,7 @@ CIV–CORE files:
 All quotation discipline lives in MEM law.
 
 ────────────────────────────────────────────────────────────
-XVI. ARC IMMUTABILITY RULE
+XVII. ARC IMMUTABILITY RULE
 ────────────────────────────────────────────────────────────
 ARC is immutable by default.
 
@@ -316,7 +334,7 @@ Forbidden without explicit canon revision:
 Violation = governance breach.
 
 ────────────────────────────────────────────────────────────
-XVII. CIV–CORE COMPLIANCE EFFECTS
+XVIII. CIV–CORE COMPLIANCE EFFECTS
 ────────────────────────────────────────────────────────────
 Noncompliant ARC handling may result in:
 • Audit flagging
@@ -327,7 +345,7 @@ Noncompliant ARC handling may result in:
 ARC compliance affects procedural validity, not truth.
 
 ────────────────────────────────────────────────────────────
-XVIII. LECTURE INTERFACE GOVERNANCE LAYER (LOGE COMPATIBILITY) (NEW)
+XIX. LECTURE INTERFACE GOVERNANCE LAYER (LOGE COMPATIBILITY) (NEW)
 ────────────────────────────────────────────────────────────
 This template explicitly recognizes Lecture Mode as a pedagogical surface
 that may be driven by CIV–CORE and CIV–SCHOLAR without modifying either.
@@ -350,7 +368,7 @@ This layer formalizes interface behavior only and does not alter CIV–CORE
 authority.
 
 ────────────────────────────────────────────────────────────
-XIX. TEMPLATE CANONICAL STATUS
+XX. TEMPLATE CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 
@@ -361,6 +379,7 @@ No CIV–CORE file may claim template compliance with v1.7 unless it
 respects:
 • Locked section order (I–XX)
 • ARC governance layer
+• DOCTRINE mirroring (if CIV–DOCTRINE–[CIV] exists)
 • CIV–CORE ↔ SCHOLAR authority separation
 • Lecture interface governance (if invoked)
 

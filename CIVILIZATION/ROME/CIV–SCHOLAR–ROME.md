@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v1.7
+CIV–SCHOLAR–ROME — v1.8
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v1.6
-Upgrade Type: ADDITIVE · LEARNING INGEST CONSOLIDATION (NO DOCTRINAL CHANGE)
+Supersedes: CIV–SCHOLAR–ROME v1.7
+Upgrade Type: ADDITIVE · DOCTRINE MIRRORING COMPLIANCE (CIV–SCHOLAR–TEMPLATE UPDATE)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -14,10 +14,30 @@ Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
-• CIV–SCHOLAR–ROME–ARC v1.8 (EXTERNAL · MIRRORED)
+• CIV–ARC–ROME v1.9 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
 Wordcount: ~3,900
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8)
+────────────────────────────────────────────────────────────
+This version performs a strictly ADDITIVE upgrade to v1.7.
+
+Guarantees:
+• NO doctrinal change
+• NO metric change
+• NO threshold change
+• NO semantic reinterpretation
+• NO analytical drift
+
+Additions introduced in v1.8:
+• Full DOCTRINE mirroring section (Section V) — mirrors CIV–DOCTRINE–ROME v1.0 verbatim
+• All 5 doctrines now included with complete definitions, operational meaning, and hard constraints
+• Template compliance with CIV–SCHOLAR–TEMPLATE (DOCTRINE mirroring requirement)
+
+All axioms, indicators, verdict logic, and failure physics remain
+identical in meaning and authority to v1.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7)
@@ -307,9 +327,143 @@ SYNTHESIS 0013: Expansion Ceiling vs Maintenance → AUTHORIZED
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
-DOCTRINE v1.0 — Imperial Continuity Through Authority Translation
-DOCTRINE v1.0 — Universalism Without Capacity Produces Legitimacy Backfire
-DOCTRINE v1.0 — Institutional Absorption of Defeat
+This section records frozen civilizational doctrines.
+
+MIRRORING REQUIREMENT (MANDATORY):
+CIV–DOCTRINE–ROME v1.0 contents are mirrored verbatim into this section.
+This ensures doctrines are available for SCHOLAR learning and reference.
+
+DOCTRINE 01
+Name: INSTITUTIONAL ABSORPTION OF SHOCK
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–ROME (SYNTHESIS 0009)
+• CIV–DOCTRINE–ROME v1.0 (mirrored)
+
+Definition:
+Rome survives crises by absorbing military defeat, political rupture,
+and social stress into institutional continuity rather than treating
+loss as delegitimizing failure.
+
+Operational Meaning:
+• Defeat is processed, not denied
+• Institutions outlive commanders
+• Continuity is prioritized over vindication
+
+Hard Constraints:
+• Absorption requires functioning institutions
+• Repeated shocks without reform accumulate brittleness
+• Institutional inertia can mask long-term decay
+
+Lifecycle State (METADATA ONLY):
+• ACTIVE
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 02
+Name: AUTHORITY TRANSLATION OVER RESTORATION
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–ROME (SYNTHESIS 0001)
+• CIV–DOCTRINE–ROME v1.0 (mirrored)
+
+Definition:
+When Roman authority collapses in one form, it is translated into
+another domain (legal, religious, administrative) rather than
+restored in its original configuration.
+
+Operational Meaning:
+• Power migrates instead of disappearing
+• Legitimacy shifts venue rather than vanishing
+• Survival depends on adaptability of form
+
+Hard Constraints:
+• Translation requires recognized continuity symbols
+• Excessive translation weakens original institutions
+• Loss of shared legitimacy grammar halts transfer
+
+Lifecycle State (METADATA ONLY):
+• ACTIVE
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 03
+Name: MARITIME COHERENCE AS IMPERIAL STABILITY
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–ROME (SYNTHESIS 0005)
+• CIV–DOCTRINE–ROME v1.0 (mirrored)
+
+Definition:
+Rome achieves durability through control of circulatory systems
+(seas, ports, routes) rather than permanent dominance of extended
+land frontiers.
+
+Operational Meaning:
+• Seas unify faster than roads
+• Law and logistics scale through circulation
+• Maritime interiors outperform territorial edges
+
+Hard Constraints:
+• Loss of circulation fragments authority
+• Land overextension erodes replacement capacity
+• Maritime systems fail if political unity fractures
+
+Lifecycle State (METADATA ONLY):
+• ACTIVE
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 04
+Name: ADMINISTRATION PRECEDES IDEOLOGY
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–ROME (SYNTHESIS 0006)
+• CIV–DOCTRINE–ROME v1.0 (mirrored)
+
+Definition:
+Roman endurance depends on administrative regularity and legal
+predictability more than moral narrative or ideological coherence.
+
+Operational Meaning:
+• Bureaucracy sustains what conquest creates
+• Law substitutes for charisma
+• Inclusion stabilizes diversity
+
+Hard Constraints:
+• Administration without legitimacy becomes brittle
+• Excess complexity slows response
+• Bureaucratic capture undermines trust
+
+Lifecycle State (METADATA ONLY):
+• ACTIVE
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 05
+Name: EXPANSION CEILING AWARENESS
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–ROME (SYNTHESIS 0008)
+• CIV–DOCTRINE–ROME v1.0 (mirrored)
+
+Definition:
+Rome reaches maximum strength when it recognizes and respects
+its expansion ceiling, shifting from territorial growth to
+maintenance intelligence.
+
+Operational Meaning:
+• Consolidation follows conquest
+• Borders are hardened, not chased
+• Durability replaces glory
+
+Hard Constraints:
+• Political culture may demand expansion
+• Overextension accelerates legitimacy loss
+• Maintenance requires elite discipline
+
+Lifecycle State (METADATA ONLY):
+• ACTIVE
 
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX
@@ -328,7 +482,7 @@ Ingestion: PROHIBITED
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (READ-ONLY)
-Doctrine Count: 3
+Doctrine Count: 5
 Total Entries: 24
 
 ────────────────────────────────────────────────────────────
@@ -337,16 +491,16 @@ IX. ACADEMIC REFERENCE CANON POINTER (ARC–ROME)
 The Academic Reference Canon governing all ROME materials is defined
 exclusively in the following file:
 
-• CIV–SCHOLAR–ROME–ARC — v1.8
+• CIV–ARC–ROME — v1.9
 
 This canon:
 • Is stored externally
 • Is mirrored verbatim into CIV–CORE–ROME
-• Is mirrored verbatim into CIV–SCHOLAR–ROME–ARC
+• Is mirrored verbatim into CIV–ARC–ROME
 • Is authoritative for all MEM–ROME authoring and audits
 
 No ARC content is embedded in this file.
-Any deviation from CIV–SCHOLAR–ROME–ARC v1.8 invalidates compliance.
+Any deviation from CIV–ARC–ROME v1.9 invalidates compliance.
 
 ────────────────────────────────────────────────────────────
 X. SCHOLAR ↔ CORE PARITY CHECKSUM
@@ -387,4 +541,4 @@ H-ROME-06 | Moral corrosion under stability | Incentive decay | Hollow legitimac
 These heuristics are descriptive, not predictive.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v1.7
+END OF FILE — CIV–SCHOLAR–ROME — v1.8

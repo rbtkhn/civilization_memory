@@ -1,14 +1,14 @@
-CIV–CORE–ROME — v1.8
+CIV–CORE–ROME — v1.9
 Civilizational Strategy Codex · Civilization Continuity Engine
 Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling · Pedagogical Interface Edition
 CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT
 
 Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.8
-Supersedes: CIV–CORE–ROME v1.7
-Upgrade Type: ADDITIVE · TEACH MODE TERMINOLOGY PROPAGATION ONLY (NO EPISTEMIC CHANGE)
-Template Version Used: CIV–CORE–TEMPLATE v1.6.2
+Version: 1.9
+Supersedes: CIV–CORE–ROME v1.8
+Upgrade Type: ADDITIVE · DOCTRINE MIRRORING COMPLIANCE (CIV–CORE–TEMPLATE v1.7)
+Template Version Used: CIV–CORE–TEMPLATE v1.7
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
 Conceptual Lineage: SCE–CIV–ROME V9.x
 DIB Status: DEFINED · DISABLED
@@ -16,6 +16,25 @@ Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)
 Lock Level: FULL
 Last Update: January 2026
 WORDCOUNT: ~2,780
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.9)
+────────────────────────────────────────────────────────────
+This version performs a strictly ADDITIVE upgrade to v1.8.
+
+Guarantees:
+• NO doctrinal change
+• NO metric change
+• NO threshold change
+• NO semantic reinterpretation
+• NO analytical drift
+
+Additions introduced in v1.9:
+• DOCTRINE MIRROR section (Section XXIV) — mirrors CIV–DOCTRINE–ROME v1.0 verbatim
+• Template compliance with CIV–CORE–TEMPLATE v1.7 (DOCTRINE mirroring requirement)
+
+All axioms, indicators, verdict logic, and failure physics remain
+identical in meaning and authority to v1.8.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8)
@@ -31,8 +50,8 @@ Guarantees:
 
 Additions introduced in v1.8:
 • Formal propagation of the system-wide rename:
-  – “Lecture Mode” → “Teach Mode”
-  – “LOGE” (Lecture Option Generation Engine) → “TOGE” (Teach Option Generation Engine)
+  – "Lecture Mode" → "Teach Mode"
+  – "LOGE" (Lecture Option Generation Engine) → "TOGE" (Teach Option Generation Engine)
 • Declarative mapping clause added to the Pedagogical Interface section
 • Back-link updated to CIV–SCHOLAR–PROTOCOL v1.5 (Teach Mode / TOGE)
 
@@ -364,7 +383,129 @@ C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
 • Will Durant
 
 ────────────────────────────────────────────────────────────
-XXIV. FREEZE & EXPORT READINESS DECLARATION
+XXIV. DOCTRINE MIRROR — ROME (DECLARATIVE MIRROR)
+────────────────────────────────────────────────────────────
+CIV–DOCTRINE–ROME doctrines are mirrored verbatim from
+CIV–DOCTRINE–ROME v1.0 for citation and reference.
+
+Mirroring Rules:
+• Mirroring is declarative, not interpretive
+• All ACCEPTED doctrines are mirrored (REJECTED doctrines are excluded)
+• Mirrored doctrines provide citation surface for CIV–CORE engines
+• CIV–DOCTRINE–ROME remains the single source of truth for doctrine definitions
+
+DOCTRINE REGISTRY (AUTHORITATIVE):
+────────────────────────────────────────────────────────────
+
+DOCTRINE 01
+Name: INSTITUTIONAL ABSORPTION OF SHOCK
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0009)
+
+Definition:
+Rome survives crises by absorbing military defeat, political rupture,
+and social stress into institutional continuity rather than treating
+loss as delegitimizing failure.
+
+Operational Meaning:
+• Defeat is processed, not denied
+• Institutions outlive commanders
+• Continuity is prioritized over vindication
+
+Hard Constraints:
+• Absorption requires functioning institutions
+• Repeated shocks without reform accumulate brittleness
+• Institutional inertia can mask long-term decay
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 02
+Name: AUTHORITY TRANSLATION OVER RESTORATION
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0001)
+
+Definition:
+When Roman authority collapses in one form, it is translated into
+another domain (legal, religious, administrative) rather than
+restored in its original configuration.
+
+Operational Meaning:
+• Power migrates instead of disappearing
+• Legitimacy shifts venue rather than vanishing
+• Survival depends on adaptability of form
+
+Hard Constraints:
+• Translation requires recognized continuity symbols
+• Excessive translation weakens original institutions
+• Loss of shared legitimacy grammar halts transfer
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 03
+Name: MARITIME COHERENCE AS IMPERIAL STABILITY
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0005)
+
+Definition:
+Rome achieves durability through control of circulatory systems
+(seas, ports, routes) rather than permanent dominance of extended
+land frontiers.
+
+Operational Meaning:
+• Seas unify faster than roads
+• Law and logistics scale through circulation
+• Maritime interiors outperform territorial edges
+
+Hard Constraints:
+• Loss of circulation fragments authority
+• Land overextension erodes replacement capacity
+• Maritime systems fail if political unity fractures
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 04
+Name: ADMINISTRATION PRECEDES IDEOLOGY
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0006)
+
+Definition:
+Roman endurance depends on administrative regularity and legal
+predictability more than moral narrative or ideological coherence.
+
+Operational Meaning:
+• Bureaucracy sustains what conquest creates
+• Law substitutes for charisma
+• Inclusion stabilizes diversity
+
+Hard Constraints:
+• Administration without legitimacy becomes brittle
+• Excess complexity slows response
+• Bureaucratic capture undermines trust
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 05
+Name: EXPANSION CEILING AWARENESS
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0008)
+
+Definition:
+Rome reaches maximum strength when it recognizes and respects
+its expansion ceiling, shifting from territorial growth to
+maintenance intelligence.
+
+Operational Meaning:
+• Consolidation follows conquest
+• Borders are hardened, not chased
+• Durability replaces glory
+
+Hard Constraints:
+• Political culture may demand expansion
+• Overextension accelerates legitimacy loss
+• Maintenance requires elite discipline
+
+────────────────────────────────────────────────────────────
+XXV. FREEZE & EXPORT READINESS DECLARATION
 ────────────────────────────────────────────────────────────
 This file is structurally sealed, procedurally explicit, and suitable
 for external archival storage.
@@ -378,5 +519,5 @@ for external archival storage.
 This version is EXPORT-READY.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v1.8
+END OF FILE — CIV–CORE–ROME — v1.9
 ────────────────────────────────────────────────────────────

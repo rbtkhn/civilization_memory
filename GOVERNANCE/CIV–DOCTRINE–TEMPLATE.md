@@ -133,7 +133,21 @@ If no exclusions exist, the section MUST state:
 “No doctrines have been rejected at this stage.”
 
 ────────────────────────────────────────────────────────────
-VIII. CITATION RULES
+VIII. DOCTRINE MIRRORING REQUIREMENT (MANDATORY)
+────────────────────────────────────────────────────────────
+CIV–DOCTRINE–[CIVILIZATION] instances MUST be mirrored verbatim into:
+• CIV–CORE–[CIVILIZATION]
+• CIV–SCHOLAR–[CIVILIZATION]
+
+Mirroring Rules:
+• Mirroring is declarative, not interpretive
+• All ACCEPTED doctrines must be mirrored (REJECTED doctrines are excluded)
+• Mirrored doctrines provide citation surface for CIV–CORE engines
+• Mirrored doctrines inform SCHOLAR learning without constraining it
+• CIV–DOCTRINE remains the single source of truth for doctrine definitions
+
+────────────────────────────────────────────────────────────
+IX. CITATION RULES
 ────────────────────────────────────────────────────────────
 Only doctrines listed in a CIV–DOCTRINE file may be cited as
 **authoritative doctrine** by CIV–CORE engines.
@@ -145,8 +159,11 @@ Required citation format:
 
 Silent doctrine usage is prohibited.
 
+Note: CIV–CORE may cite doctrines from its mirrored DOCTRINE section,
+but the citation must reference CIV–DOCTRINE–[CIVILIZATION] as the source.
+
 ────────────────────────────────────────────────────────────
-IX. GOVERNANCE & LOCK STATE
+X. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
 This template enforces:
 
@@ -159,7 +176,7 @@ This template enforces:
 All derived CIV–DOCTRINE files MUST be LOCKED by default.
 
 ────────────────────────────────────────────────────────────
-X. TEMPLATE INHERITANCE & CONSTRAINTS
+XI. TEMPLATE INHERITANCE & CONSTRAINTS
 ────────────────────────────────────────────────────────────
 This template:
 

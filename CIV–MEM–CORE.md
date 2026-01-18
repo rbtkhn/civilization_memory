@@ -1,33 +1,32 @@
-CIV–MEM–CORE — v1.8
+CIV–MEM–CORE — v1.9
 Civilizational Memory Codex · System Core
-ARC CANON ALIGNMENT · GOVERNANCE HARDENING EDITION
+ARC CANON ALIGNMENT · DOCTRINE MIRRORING EDITION
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 1.8
+Version: 1.9
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v1.7
-Upgrade Type: ADDITIVE · ARC CANON ALIGNMENT ONLY
+Supersedes: CIV–MEM–CORE v1.8
+Upgrade Type: ADDITIVE · DOCTRINE MIRRORING REQUIREMENT
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.8)
+UPGRADE NOTE (v1.9)
 ────────────────────────────────────────────────────────────
 This version preserves ALL structural order, authority hierarchy,
-semantic meaning, and governance constraints from CIV–MEM–CORE v1.7.
+semantic meaning, and governance constraints from CIV–MEM–CORE v1.8.
 
-v1.8 introduces ADDITIVE governance clarification only:
+v1.9 introduces ADDITIVE governance requirement only:
 
-• Elevates the Academic Reference Canon (ARC) from implicit convention
-  to explicit, first-class system governance object
-• Replaces all residual “academic registry” semantics with
-  canon-governed, category-locked ARC logic
-• Aligns ARC handling across CIV–CORE, MEM, INDEX, and SCHOLAR files
-• Explicitly binds doctrinal eligibility and MEM validity to ARC
-  procedural compliance
+• Requires CIV–DOCTRINE–[CIVILIZATION] instances to be mirrored verbatim
+  into CIV–CORE–[CIVILIZATION] and CIV–SCHOLAR–[CIVILIZATION]
+• Ensures doctrines are available for citation and learning without
+  requiring separate file loads
+• Maintains CIV–DOCTRINE as single source of truth while enabling
+  efficient access through mirroring
 
 NO interpretation is added.
 NO doctrine is altered.
@@ -288,6 +287,8 @@ ARC–[CIV] instances MUST be mirrored verbatim into:
 
 Mirroring is declarative only.
 
+Note: CIV–DOCTRINE–[CIV] instances are also mirrored (see Section XVII).
+
 ────────────────────────────────────────────────────────────
 XIV. ARC ↔ MEM AUTHORING BINDING
 ────────────────────────────────────────────────────────────
@@ -328,7 +329,25 @@ Cross-civilizational comparison is permitted only via:
 No cross-CIV synthesis may occur silently.
 
 ────────────────────────────────────────────────────────────
-XVII. DOCTRINE FORMATION LAW
+XVII. DOCTRINE MIRRORING & CIVILIZATION SELECTION RULE
+────────────────────────────────────────────────────────────
+Each civilization MAY define a CIV–DOCTRINE–[CIVILIZATION] file.
+
+Rules:
+• CIV–DOCTRINE–[CIV] contains only ACCEPTED, FROZEN doctrines
+• CIV–DOCTRINE–[CIV] is a registry, not a synthesis workspace
+• CIV–DOCTRINE–[CIV] may not originate doctrines (must derive from SCHOLAR synthesis)
+
+CIV–DOCTRINE–[CIV] instances MUST be mirrored verbatim into:
+• CIV–CORE–[CIV]
+• CIV–SCHOLAR–[CIV]
+
+Mirroring is declarative only.
+Mirrored doctrines provide citation surface for CIV–CORE engines.
+Mirrored doctrines inform SCHOLAR learning without constraining it.
+
+────────────────────────────────────────────────────────────
+XVIII. DOCTRINE FORMATION LAW
 ────────────────────────────────────────────────────────────
 Doctrine:
 • Must derive from frozen synthesis
@@ -341,7 +360,7 @@ Doctrine:
 Doctrine is rare by design.
 
 ────────────────────────────────────────────────────────────
-XVIII. LOCK & ACTIVATION SEMANTICS
+XIX. LOCK & ACTIVATION SEMANTICS
 ────────────────────────────────────────────────────────────
 LOCKED means:
 • Read-only
@@ -354,7 +373,7 @@ ACTIVE does not imply writable.
 Silence does not imply permission.
 
 ────────────────────────────────────────────────────────────
-XIX. HUMAN INTERFACE LAYER — VOICE PROFILES (VP-1)
+XX. HUMAN INTERFACE LAYER — VOICE PROFILES (VP-1)
 ────────────────────────────────────────────────────────────
 Purpose:
 Define persistent linguistic and cognitive presentation styles for system
@@ -380,7 +399,7 @@ VP-MERCOURIS
 [VP-1.a through VP-1.e unchanged from v1.7]
 
 ────────────────────────────────────────────────────────────
-XX. INTERFACE PRECEDENCE RULE
+XXI. INTERFACE PRECEDENCE RULE
 ────────────────────────────────────────────────────────────
 Voice Profile law is subordinate only to:
 • Safety constraints
@@ -392,7 +411,7 @@ It is superior to:
 • Implicit verbosity assumptions
 
 ────────────────────────────────────────────────────────────
-XXI. CANONICAL STATUS
+XXII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
@@ -408,5 +427,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v1.8
+END OF FILE — CIV–MEM–CORE v1.9
 ────────────────────────────────────────────────────────────

@@ -14,7 +14,7 @@ Lock Level: TOTAL (no autonomous learning)
 Governed by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 • CIV–ARC–SCHEMA v1.0 (mandatory)
-• Civilization-specific ARC file (e.g., CIV–SCHOLAR–ROME–ARC v1.8)
+• Civilization-specific ARC file (e.g., CIV–ARC–ROME v1.9)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.6)
@@ -184,12 +184,31 @@ VIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 This section records frozen civilizational doctrines.
 
+MIRRORING REQUIREMENT (MANDATORY):
+If a CIV–DOCTRINE–[CIVILIZATION] file exists, its contents MUST be mirrored verbatim into this section.
+This ensures doctrines are available for SCHOLAR learning and reference.
+
 Each DOCTRINE must include:
 
-DOCTRINE vX.X — “DOCTRINE NAME”
-State:
-• FROZEN
-• CANONICAL
+DOCTRINE ##
+Name: [DOCTRINE NAME]
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–[CIVILIZATION] (SYNTHESIS ####)
+• CIV–DOCTRINE–[CIVILIZATION] vX.X (if mirrored)
+
+Definition:
+[Formal, declarative doctrinal statement]
+
+Operational Meaning:
+• [Concrete operational implication]
+• [Constraint or behavioral rule]
+• [Diagnostic or evaluative usage]
+
+Hard Constraints:
+• [Explicit failure condition]
+• [Non-negotiable limit]
+• [Invalidation trigger]
 
 Lifecycle State (METADATA ONLY):
 • ACTIVE | DORMANT | HISTORICAL ONLY
@@ -199,6 +218,7 @@ Rules:
 • Freezing requires explicit command
 • Doctrine mutation requires new version
 • Canonical doctrine defines doctrinal ceiling
+• Mirrored doctrines inform learning but do not constrain it
 
 ────────────────────────────────────────────────────────────
 IX. SCHOLAR DIVERGENCE INDEX (SDI)
