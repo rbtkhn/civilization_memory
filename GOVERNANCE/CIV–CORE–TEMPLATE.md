@@ -259,11 +259,12 @@ ARC governance is GLOBAL and binding.
 ────────────────────────────────────────────────────────────
 XIII. ARC CATEGORY LAW (GLOBAL)
 ────────────────────────────────────────────────────────────
-ARC authors are divided into THREE and ONLY THREE categories:
+ARC authors are divided into FOUR and ONLY FOUR temporal categories:
 
 1) ANCIENT
-2) PUBLIC DOMAIN
-3) COPYRIGHT
+2) MEDIEVAL
+3) EARLY MODERN
+4) MODERN
 
 Category definitions are absolute.
 No author may appear in more than one category.

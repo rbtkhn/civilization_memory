@@ -256,11 +256,12 @@ Violation of ARC rules is a governance failure.
 ────────────────────────────────────────────────────────────
 XII. ARC CATEGORY LAW (GLOBAL)
 ────────────────────────────────────────────────────────────
-ARC authors are divided into THREE and ONLY THREE categories:
+ARC authors are divided into FOUR and ONLY FOUR temporal categories:
 
-1) ANCIENT  
-2) PUBLIC DOMAIN  
-3) COPYRIGHT  
+1) ANCIENT
+2) MEDIEVAL
+3) EARLY MODERN
+4) MODERN  
 
 Rules:
 • Category definitions are absolute.

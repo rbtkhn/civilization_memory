@@ -102,22 +102,26 @@ Permitted:
 V. SOURCE QUOTATION REQUIREMENTS (ARC-CATEGORY HARDENED)
 ────────────────────────────────────────────────────────────
 Each MEM file MUST include verbatim quotations drawn exclusively from
-the civilization’s ARC–[CIV] canon.
+the civilization's ARC–[CIV] canon.
 
 All quotations MUST:
 • Be embedded within analytical sections
 • Be attributed (author + work)
 • Support a specific analytical claim
 
-A) ANCIENT (PRIMARY)
+A) ANCIENT
 • ≥3 quotations
 • Aggregate ≥75 words
 
-B) PUBLIC DOMAIN
+B) MEDIEVAL (when applicable)
+• ≥2 quotations (when medieval continuity is relevant)
+• EACH ≥25 words
+
+C) EARLY MODERN
 • ≥2 quotations
 • EACH ≥25 words
 
-C) COPYRIGHT
+D) MODERN
 • ≥2 quotations
 • Fair use only
 
@@ -133,8 +137,9 @@ Citation without engagement is INVALID.
 VII. MEM CONNECTION REQUIREMENTS
 ────────────────────────────────────────────────────────────
 Each MEM MUST reference:
-• ≥8 other MEM files
-• ≥3 cross-civilization MEMs
+• ≥10 other MEM files
+• All connections must be to MEM files from the same civilization
+• ≥2 connections must be to GEO (geography) MEM files
 Each reference MUST explain structural relevance.
 
 ────────────────────────────────────────────────────────────

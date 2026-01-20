@@ -181,7 +181,7 @@ IX. ARC GOVERNANCE CONSTRAINTS
 ────────────────────────────────────────────────────────────
 The ARC MAY impose:
 • Minimum citation counts
-• Category requirements (e.g., Ancient / Public Domain / Copyright)
+• Category requirements (e.g., Ancient / Medieval / Early Modern / Modern)
 • Verbatim quotation thresholds
 • Author eligibility constraints
 

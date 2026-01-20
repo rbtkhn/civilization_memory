@@ -255,7 +255,7 @@ V. ARC COMPLIANCE PREFLIGHT GATE
 MEM files MUST pass ARC compliance preflight before ingestion.
 
 Preflight checks include:
-• Category completeness (Ancient / Public Domain / Copyright)
+• Category completeness (Ancient / Medieval / Early Modern / Modern)
 • Quotation-count minimums per category
 • Verbatim quotation-length enforcement
 • Author admissibility verification
