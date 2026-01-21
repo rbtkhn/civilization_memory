@@ -1,177 +1,246 @@
-MEM–RUSSIA–IVAN–IV — v1.2
+MEM–RUSSIA–IVAN–IV — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL
-Version: 1.2
-Upgrade Type: PROCEDURAL REISSUE ONLY · PRIMARY SOURCE INTEGRATION FIX
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Version: 2.0
+Upgrade Type: TEMPLATE v2.2 COMPLIANCE + LEGITIMACY SEQUENCING REBIND + RLL INTEGRATION
 Civilization: RUSSIA (Русская цивилизация)
-Regime: TSARDOM / RURIKID
+Regime / Mode: TSARDOM · UNBUFFERED MUSCOVITE AUTOCRACY
 Subject: Ivan IV “the Terrible” (Иван IV Грозный)
 Dates: 1530–1584 AD (rule: 1547–1584)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Wordcount: ~2,750
 
-Governed by: CIV–MEM–TEMPLATE v1.6
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.2
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Ivan IV as the **radicalizer of Muscovite
-autocracy**: the ruler who fused absolute sovereignty with terror,
-expanded Russian territory dramatically, and exposed both the
-mobilizing power and the structural pathology of unconstrained
-central rule.
+This file preserves Ivan IV as the saturation-point ruler of Muscovite
+autocracy: the moment at which coercive centralization, unbuffered
+sovereignty, and sacral absolutism cease to generate stability and
+instead accelerate elite destruction, institutional collapse, and
+succession failure.
 
-For Russian civilizational memory, Ivan IV represents **autocracy
-without buffers**—the point at which centralization ceases to
-produce stability and instead accelerates elite destruction and
-institutional decay.
+For Russian civilizational memory, Ivan IV represents autocracy without
+buffers—the upper bound at which survival logic mutates into systemic
+pathology.
+
+This file explicitly does NOT resolve:
+• whether Ivan’s terror was rational, pathological, or both
+• whether different personal traits would have altered outcomes
+• whether Muscovy could have introduced stabilizing buffers under
+  compression
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. FROM PRINCELY RULE TO TSARDOM
+II. POSITION IN LEGITIMACY SEQUENCING (REBIND)
 ────────────────────────────────────────────────────────────
-Ivan IV’s coronation as Tsar in 1547 marks a qualitative rupture in
-Russian authority. In Muscovite political theology, the ruler is no
-longer merely first among princes, but the sole bearer of judgment
-before God. This logic is explicit in Ivan’s own formulation of rule,
-where he insists that the sovereign “stands alone before God, bearing
-the burden of judgment for all sins of the land, and answers to no
-earthly council for the sword entrusted to him, which must strike
-without hesitation when treason poisons the body of the realm.”
-(derived from coronation texts and later royal correspondence)
+Ivan IV must be read in sequence, not in isolation.
 
-Sovereignty is elevated from dynastic inheritance to ontological
-necessity. Authority ceases to be mediated.
+Inherited sequence (from Ivan III / Muscovy):
+1. Corridor control
+2. Coercive consolidation
+3. Elite dependency
+4. Sacral ratification
 
-────────────────────────────────────────────────────────────
-III. EARLY REFORM & STATE EXPANSION
-────────────────────────────────────────────────────────────
-The early reign combines reformist energy with aggressive expansion.
-Administrative rationalization, military restructuring, and legal
-consolidation proceed alongside the conquest of Kazan (1552) and
-Astrakhan (1556).
+Ivan IV does not alter this sequence.
+He removes the remaining buffers within it.
 
-Service statutes and legal decrees emphasize direct subordination,
-asserting that “all men of service are bound to the sovereign’s will,
-to ride where ordered and judge only by the Tsar’s law, without
-intercession, favor, or exception, so that no custom or kinship may
-stand between command and obedience.” Authority is personalized;
-institutions remain extensions of the ruler.
+Critical rebind (RLL–0003 applied):
+→ Ivan IV represents coercion and sacrality without mediation.
+→ Law, elite consensus, and institutional continuity are no longer
+  limiting forces.
 
-Expansion precedes institutional depth.
+This file therefore functions as the failure case of Muscovite
+sequencing, not its fulfillment.
 
 ────────────────────────────────────────────────────────────
-IV. OPRICHNINA: TERROR AS GOVERNANCE
+III. FROM PRINCELY RULE TO ONTOLOGICAL SOVEREIGNTY
 ────────────────────────────────────────────────────────────
-The oprichnina (1565–1572) represents a structural rupture in Russian
-statecraft. Contemporary chronicles describe Ivan’s decree dividing
-the realm with chilling clarity: “The Tsar separated his own land and
-people from the rest, granting himself the right to punish without
-trial, to seize estates, and to spill blood without appeal, so that
-fear might cleanse treason from the realm and the wicked be cut away
-like rot from sound flesh.”
+Ivan IV’s coronation as Tsar (1547) elevates sovereignty from dynastic
+inheritance to ontological necessity.
 
-This is terror as system, not excess.
+In Muscovite political theology, the Tsar stands:
+• alone before God
+• unanswerable to councils
+• morally obligated to judge without restraint
 
-Features include:
-• Dual state structure
-• Confiscation and redistribution
-• Elite liquidation
-• Destruction of Novgorod (1570)
+Authority is no longer merely centralized; it is existentialized.
 
-Fear replaces mediation; loyalty replaces law.
+Constraint removed:
+→ No earthly institution may legitimately restrain sovereign judgment.
+
+Autocracy becomes absolute in principle, not merely in practice.
 
 ────────────────────────────────────────────────────────────
-V. WAR, OVERREACH, & INTERNAL DECAY
+IV. EARLY REFORM UNDER ABSOLUTE PREMISE
 ────────────────────────────────────────────────────────────
-Simultaneous wars expose the fragility of Ivan’s system. Foreign
-observers report not merely battlefield failure but internal collapse,
-noting that “lands lie empty, villages burned, and those who remain
-flee the Tsar’s justice more than the enemy’s sword, for they know
-neither mercy nor measure awaits them at home.” This is endogenous
-decay, not defeat imposed from without.
+Ivan’s early reign combines reform and expansion under this absolute
+frame.
 
-Expansion without institutional resilience accelerates collapse.
+Key developments:
+• Administrative rationalization
+• Service hierarchy consolidation
+• Sudebnik continuity
+• Conquest of Kazan (1552) and Astrakhan (1556)
 
-────────────────────────────────────────────────────────────
-VI. PSYCHOLOGICAL RULE & PERSONALISM
-────────────────────────────────────────────────────────────
-Ivan’s rule becomes intensely personal, fusing penitence, cruelty,
-and moral absolutism. In his letters to Prince Kurbsky, Ivan rejects
-any external restraint, insisting that “mercy is betrayal when
-directed at traitors, and cruelty is righteousness when it defends
-the God-ordained realm, for the ruler answers not to men but to God
-alone for the blood he spills in judgment.”
+However, reform does not introduce buffering institutions.
+It deepens direct subordination.
 
-Moral reasoning collapses into sovereign psychology. Autocracy detaches
-from rational constraint.
+Analytical constraint:
+→ Institutional growth occurs inside personal sovereignty, not alongside
+  it.
+
+Expansion precedes resilience.
 
 ────────────────────────────────────────────────────────────
-VII. SUCCESSION CRISIS & AFTERMATH
+V. OPRICHNINA: UNBUFFERED TERROR AS SYSTEM
 ────────────────────────────────────────────────────────────
-Ivan leaves no stable succession architecture. His reign ends with
-dynastic weakness, administrative exhaustion, and elite devastation,
-creating the conditions that will erupt into the Time of Troubles.
+The oprichnina (1565–1572) marks a structural rupture, not an excess.
 
-Unbuffered autocracy proves unsustainable.
+Core characteristics:
+• Division of the state into sovereign and disposable zones
+• Punishment without adjudication
+• Confiscation without limit
+• Elite liquidation without replacement logic
 
-────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
-────────────────────────────────────────────────────────────
-• Absolute sovereignty amplifies both power and collapse.
-• Terror accelerates compliance but destroys elite capacity.
-• Expansion without institutional depth is self-defeating.
-• Personalist rule destabilizes succession.
-• Ivan IV defines the outer limit of Muscovite autocracy.
+Terror becomes governance, not instrument.
 
-Tension preserved without verdict.
+Critical distinction:
+→ Fear replaces mediation.
+→ Loyalty replaces law.
 
-────────────────────────────────────────────────────────────
-IX. ACADEMIC REFERENCES (ENGAGED)
-────────────────────────────────────────────────────────────
-Engaged scholarship includes:
-• Vasily Klyuchevsky — autocracy and elite destruction
-• Sergei Platonov — oprichnina as systemic rupture
-• Isabel de Madariaga — governance failure and war strain
-• Orlando Figes — terror, memory, and state pathology
-• Nancy Shields Kollmann — law subordinated to sovereignty
-
-These scholars frame interpretation; they do not override sources.
+This is autocracy beyond saturation.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY)
+VI. WAR, OVERREACH, AND ENDOGENOUS DECAY
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–IVAN–III — absorbed coercive systems without terror
+Simultaneous wars expose internal fragility.
+
+Failure mode:
+• Elite depletion
+• Administrative exhaustion
+• Demographic flight
+• Collapse of local governance
+
+Defeat is not imposed externally.
+It is generated internally.
+
+Analytical axiom:
+→ Unbuffered sovereignty destroys its own execution capacity.
+
+────────────────────────────────────────────────────────────
+VII. SOVEREIGN PSYCHOLOGY AS GOVERNANCE VARIABLE
+────────────────────────────────────────────────────────────
+Ivan’s correspondence (notably with Kurbsky) reveals the collapse of
+external restraint.
+
+Key pattern:
+• Mercy framed as betrayal
+• Cruelty framed as righteousness
+• Judgment personalized and moralized
+
+This is not psychologism.
+It is structural exposure: when no buffers exist, sovereign psychology
+becomes policy.
+
+Autocracy detaches from correction mechanisms.
+
+────────────────────────────────────────────────────────────
+VIII. SUCCESSION FAILURE VS SACRAL ENDURANCE (RLL–0005)
+────────────────────────────────────────────────────────────
+Ivan IV leaves no survivable succession architecture.
+
+Outcomes:
+• Dynastic weakness
+• Elite vacuum
+• Institutional ruin
+
+Yet civilizational identity persists.
+
+Critical distinction (binding RLL–0005):
+• Sacral legitimacy does NOT prevent collapse
+• Sacral legitimacy DOES preserve identity through collapse
+
+The Time of Troubles follows structurally, not accidentally.
+
+────────────────────────────────────────────────────────────
+IX. FUNCTIONAL ROLE IN RUSSIAN MEMORY
+────────────────────────────────────────────────────────────
+Ivan IV serves as:
+• Upper bound of Muscovite autocracy
+• Warning case for unbuffered sovereignty
+• Bridge between consolidation and collapse
+
+He is neither aberration nor archetype.
+He is the limit case.
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
+────────────────────────────────────────────────────────────
+Russia (core):
+• MEM–RUSSIA–IVAN–III — coercive absorption with buffers
+• MEM–RUSSIA–MUSCOVY — sequencing solution under compression
 • MEM–RUSSIA–TIME–TROUBLES — downstream collapse
-• MEM–RUSSIA–NOVGORAD — elite destruction precedent
+• MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion
+• MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
 
-Cross-civilizational:
-• MEM–FRANCIA–WAR–RELIGION
-• MEM–GERMANIA–THIRTY–YEARS
-• MEM–CHINA–MING–EUNUCHS
+Comparative (structural):
+• MEM–FRANCIA–WAR–RELIGION — terror without institutional buffering
+• MEM–GERMANIA–THIRTY–YEARS — elite annihilation cycles
+• MEM–CHINA–MING–EUNUCHS — personalism saturation
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (MANDATORY)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–IVAN–IV
+• Autocracy saturates before it stabilizes.
+• Terror accelerates compliance while destroying execution capacity.
+• Removing buffers converts sovereignty into pathology.
+• Sacral legitimacy preserves identity, not institutions.
+• Ivan IV defines the upper bound of Muscovite rule.
+
+Contradictions preserved without synthesis.
+
+────────────────────────────────────────────────────────────
+XII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports inquiry into:
+• Autocracy saturation thresholds
+• Terror as governance vs terror as instrument
+• Sequencing failure under compression
+• Succession collapse dynamics
+• Comparative personalist rule
+
+No evaluative conclusions imposed.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+“MEM INGEST CONFIRMED — MEM–RUSSIA–IVAN–IV
 Status: ACTIVE
-Exploration options available.
+Exploration options available.”
 
-User must select ONE option:
-A. Ivan–Kurbsky correspondence  
-B. Oprichnina chronicles  
-C. Klyuchevsky vs Platonov  
-D. Terror memory (Figes)  
-E. Comparative: French Wars of Religion  
-F. Comparative: Ming personalism  
-G. Counterfactual: buffered autocracy  
-H. Compliance & integrity audit  
+MANDATORY EIGHT-OPTION SET:
+1) Ivan–Kurbsky correspondence (sovereign psychology)
+2) Oprichnina as system, not excess
+3) Autocracy saturation (RLL–0006 candidate)
+4) Ivan III → Ivan IV sequencing failure
+5) Sacral endurance vs institutional collapse
+6) Comparative terror regimes
+7) Counterfactual: buffered autocracy
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.2)
+
+User selects ONE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–IV v1.2
+END OF FILE — MEM–RUSSIA–IVAN–IV v2.0
 ────────────────────────────────────────────────────────────
