@@ -4,7 +4,7 @@ Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · TEMPLATE
 Version: 2.0
-Supersedes: CIV–DOCTRINE–TEMPLATE v2.0
+Supersedes: CIV–DOCTRINE–TEMPLATE v1.0
 Upgrade Type: COMPATIBILITY UPDATE · CIV–MEM–CORE v2.0 ALIGNMENT
 Class: CIV–DOCTRINE (Template)
 Scope: GLOBAL (All Civilizations)
@@ -17,7 +17,7 @@ Last Update: January 2026
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This version preserves ALL structure, authority model, governance
-constraints, and admissibility rules from CIV–DOCTRINE–TEMPLATE v2.0.
+constraints, and admissibility rules from CIV–DOCTRINE–TEMPLATE v1.0.
 
 v2.0 introduces COMPATIBILITY UPDATE only:
 
@@ -227,7 +227,7 @@ Future versions:
 • May NOT alter admissibility rules
 
 Derived files MUST include:
-“Derived from CIV–DOCTRINE–TEMPLATE v2.0”
+"Derived from CIV–DOCTRINE–TEMPLATE v2.0"
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–DOCTRINE–TEMPLATE v2.0
