@@ -259,7 +259,7 @@ XI. ACADEMIC REFERENCE CANON (ARC) — SYSTEM LAW (NEW)
 The Academic Reference Canon (ARC) is a Codex-governed canonical object.
 
 ARC:
-• Replaces all notions of “academic registry,” “secondary source lists,”
+• Replaces all notions of "academic registry," "secondary source lists,"
   or ad hoc reference configurations
 • Is category-locked and procedurally enforced
 • Is NOT analytical
