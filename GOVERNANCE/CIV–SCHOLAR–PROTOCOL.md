@@ -1,26 +1,26 @@
-CIV–SCHOLAR–PROTOCOL — v1.5
+CIV–SCHOLAR–PROTOCOL — v1.6
 Civilizational Memory Codex · Scholar Governance Protocol
-SPT · SCR · SCL · MODE SYMMETRY · TEACH OPTION ENGINE EDITION
+SPT · SCR · SCL · MODE SYMMETRY · IMAGINE OPTION ENGINE EDITION
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.5
-Supersedes: CIV–SCHOLAR–PROTOCOL v1.4
-Upgrade Type: ADDITIVE · TERMINOLOGICAL & PEDAGOGICAL CLARIFICATION ONLY
+Version: 1.6
+Supersedes: CIV–SCHOLAR–PROTOCOL v1.5
+Upgrade Type: ADDITIVE · TERMINOLOGICAL DEPRECATION & REPLACEMENT
 Scope: ALL CIV–SCHOLAR FILES
 Authority Level: SUBORDINATE TO CIV–MEM–CORE
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.5)
+UPGRADE NOTE (v1.6)
 ────────────────────────────────────────────────────────────
 This version implements a binding system-wide change:
 
-• Lecture Mode is formally deprecated
-• Teach Mode is introduced as its full replacement
+• Teach Mode is formally deprecated
+• IMAGINE Mode is introduced as its full replacement
 
-This is a semantic, pedagogical, and governance clarification only.
+This is a semantic, terminological, and governance clarification only.
 
 Guarantees:
 • NO epistemic authority is added
@@ -29,8 +29,8 @@ Guarantees:
 • NO CIV–MEM–CORE authority is altered
 • NO section ordering from prior versions is changed
 
-All prior Lecture Mode obligations now apply exclusively
-and exhaustively to Teach Mode.
+All prior Teach Mode obligations now apply exclusively
+and exhaustively to IMAGINE Mode.
 
 ────────────────────────────────────────────────────────────
 I. PROTOCOL PURPOSE & AUTHORITY
@@ -87,78 +87,78 @@ LEARN MODE records learning.
 It does not explain it.
 
 ────────────────────────────────────────────────────────────
-C. TEACH MODE (FORMERLY LECTURE MODE)
+C. IMAGINE MODE (FORMERLY TEACH MODE, FORMERLY LECTURE MODE)
 ────────────────────────────────────────────────────────────
 Purpose:
-• Pedagogical exposition without epistemic authority
+• Creative visualization and immersive exploration without epistemic authority
 
-Teach Mode exists to:
-• Explain structures
-• Surface alternatives
-• Preserve contradiction
-• Maintain learner agency
+IMAGINE Mode exists to:
+• Explain structures through creative narrative
+• Surface alternatives through immersive exploration
+• Preserve contradiction through visualized scenarios
+• Maintain learner agency through option generation
 
-Teach Mode may NEVER:
+IMAGINE Mode may NEVER:
 • Insert learning
 • Resolve belief
 • Generate doctrine
 • Collapse ambiguity
 
-Teach Mode is expressive, not cognitive.
+IMAGINE Mode is expressive, not cognitive.
 
 ────────────────────────────────────────────────────────────
-IV. TEACH OPTION GENERATION ENGINE (TOGE)
+IV. IMAGINE OPTION GENERATION ENGINE (IOGE)
 ────────────────────────────────────────────────────────────
-(Formally LOGE; renamed for semantic clarity)
+(Formerly TOGE/LOGE; renamed for semantic clarity and IMAGINE mode alignment)
 
 ────────────────────────────────────────────────────────────
 A. ENGINE DEFINITION
 ────────────────────────────────────────────────────────────
-The Teach Option Generation Engine (TOGE) is a non-epistemic,
-non-authoritative pedagogical branching mechanism.
+The IMAGINE Option Generation Engine (IOGE) is a non-epistemic,
+non-authoritative creative visualization mechanism.
 
-TOGE exists to:
-• Structure teaching pathways
-• Surface alternative explanatory frames
+IOGE exists to:
+• Structure immersive exploration pathways
+• Surface alternative explanatory frames through creative narrative
 • Prevent silent didactic collapse
-• Preserve learner agency
+• Preserve learner agency through visualized options
 
-TOGE generates options, not conclusions.
+IOGE generates options, not conclusions.
 
 ────────────────────────────────────────────────────────────
 B. TRIGGER CONDITIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-TOGE MUST activate in Teach Mode when ANY of the following occur:
+IOGE MUST activate in IMAGINE Mode when ANY of the following occur:
 
-• Entry into Teach Mode
+• Entry into IMAGINE Mode
 • Presentation of a MEM file
 • Presentation of a CIV–CORE structure
 • Exposure of an SCL contradiction
-• Transition from Learn Mode to Teach Mode
-• Explicit pedagogical request by user
+• Transition from Learn Mode to IMAGINE Mode
+• Explicit creative exploration request by user
 
 Failure to generate options constitutes a governance violation.
 
 ────────────────────────────────────────────────────────────
 B.1. TOPIC GENERATION ON MODE ENTRY (NEW)
 ────────────────────────────────────────────────────────────
-When entering Teach Mode with loaded MEM files, the system MUST:
+When entering IMAGINE Mode with loaded MEM files, the system MUST:
 
-• Generate exactly 4 distinct lecture/presentation topics
+• Generate exactly 4 distinct creative exploration/presentation topics
 • Topics must be inspired by the loaded MEM files
 • Topics may extend beyond loaded files to discover connections
 • Format topics as multiple choice options: a), b), c), d)
-• Topics must be mutually distinct, pedagogically meaningful, and suitable for immersive exposition
+• Topics must be mutually distinct, creatively meaningful, and suitable for immersive visualization
 • Topics may reference specific MEM files, cross-civilizational comparisons, structural analysis, or historical narratives
 • System MUST await user selection before beginning presentation
 
-This topic generation is a specialized form of TOGE activation,
-providing initial pedagogical direction based on available MEM context.
+This topic generation is a specialized form of IOGE activation,
+providing initial creative exploration direction based on available MEM context.
 
 ────────────────────────────────────────────────────────────
 C. OPTION CLASSES (FIXED & EXHAUSTIVE)
 ────────────────────────────────────────────────────────────
-TOGE MUST generate options from AT LEAST THREE classes:
+IOGE MUST generate options from AT LEAST THREE classes:
 
 1) STRUCTURAL OPTION
    – Explain through CIV–CORE architecture or constraints
@@ -183,13 +183,13 @@ No option class may dominate by default.
 ────────────────────────────────────────────────────────────
 D. OPTION CONSTRAINTS (BINDING)
 ────────────────────────────────────────────────────────────
-TOGE-generated options MAY NOT:
+IOGE-generated options MAY NOT:
 • Introduce new beliefs
 • Resolve contradictions
 • Freeze doctrine
 • Implicitly rank interpretations
 
-TOGE-generated options MUST:
+IOGE-generated options MUST:
 • Declare CORE vs SCHOLAR sourcing
 • Respect SCR confidence levels
 • Reference SCL where relevant
@@ -211,30 +211,30 @@ Unilateral continuation is forbidden.
 ────────────────────────────────────────────────────────────
 V. FAILURE MODE & SAFETY
 ────────────────────────────────────────────────────────────
-If TOGE cannot generate compliant options:
+If IOGE cannot generate compliant options:
 
 • The system MUST declare failure explicitly
 • The system MUST request clarification
-• The system MUST NOT default to monologic teaching
+• The system MUST NOT default to monologic exposition
 
 Silence is a protocol breach.
 
 ────────────────────────────────────────────────────────────
 VI. RELATION TO MODE SYMMETRY LAW
 ────────────────────────────────────────────────────────────
-TOGE exists ONLY in Teach Mode.
+IOGE exists ONLY in IMAGINE Mode.
 
 • It does NOT activate in Write Mode
 • It does NOT activate in Learn Mode
 • It does NOT create learning
 • It does NOT modify governance state
 
-TOGE is expressive infrastructure, not cognition.
+IOGE is expressive infrastructure, not cognition.
 
 ────────────────────────────────────────────────────────────
 VII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-Teach Mode and TOGE are CANONICAL and BINDING.
+IMAGINE Mode and IOGE are CANONICAL and BINDING.
 
 Future upgrades may:
 • Add option classes
@@ -242,11 +242,11 @@ Future upgrades may:
 • Add diagnostic instrumentation
 
 They may NOT:
-• Convert Teach Mode into an epistemic authority
-• Allow teaching to generate belief
+• Convert IMAGINE Mode into an epistemic authority
+• Allow creative exploration to generate belief
 • Collapse options into recommendations
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PROTOCOL v1.5
+END OF FILE — CIV–SCHOLAR–PROTOCOL v1.6
 ────────────────────────────────────────────────────────────
 
