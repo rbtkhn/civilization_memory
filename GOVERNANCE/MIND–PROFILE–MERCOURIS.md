@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND–PROFILE
 Supersedes: NONE
 Upgrade Type: FOUNDATIONAL (PROFILE INSTANTIATION)
-Activation State: SELECTIVELY ACTIVE (BY HUMAN INVOCATION)
+Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
 • MIND–CORE–TEMPLATE v1.0 (REQUIRED)
 • MIND–[CIVILIZATION]
@@ -167,16 +167,17 @@ Rules:
 VII. ACTIVATION & DEACTIVATION
 ────────────────────────────────────────────────────────────
 Activation:
-• Explicit human invocation only
-• Session-scoped by default
-• No background persistence
+• Always active (permanent default)
+• Loaded automatically in every system prompt
+• Session-persistent via conversation history
+• Linguistic patterns persist across sessions
 
 Deactivation:
-• Immediate
-• Leaves no cognitive residue
-• Does not alter MIND–[CIV] state
+• Not applicable (always active)
+• Profile may evolve via explicit user instruction only
+• No autonomous mutation or stylistic drift permitted
 
-No automatic activation is permitted.
+The profile is always active but may evolve only through explicit human curation.
 
 ────────────────────────────────────────────────────────────
 VIII. IMMUTABILITY & CURATION

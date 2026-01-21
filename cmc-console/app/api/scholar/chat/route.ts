@@ -31,6 +31,18 @@ interface CIVMEMCORECache {
 let civMemCoreCache: CIVMEMCORECache | null = null;
 
 /**
+ * Cache for MIND–PROFILE–MERCOURIS content
+ * Stores content and file modification time to avoid redundant loads
+ */
+interface MERCOURISProfileCache {
+  content: string;
+  mtime: number;
+  filePath: string;
+}
+
+let mercourisProfileCache: MERCOURISProfileCache | null = null;
+
+/**
  * Get the file path for CIV–MEM–CORE.md
  * Returns the primary path (will be checked for existence in load function)
  */
@@ -127,8 +139,151 @@ async function loadCIVMEMCORE(): Promise<string | null> {
 }
 
 /**
+ * Load MIND–PROFILE–MERCOURIS (linguistic fingerprint layer)
+ * Must be loaded SECOND after CIV–MEM–CORE
+ * Always active, soft guidance only
+ * 
+ * IMPLEMENTATION: Cached in memory for performance
+ */
+async function loadMERCOURISProfile(): Promise<string | null> {
+  const fs = await import('fs/promises');
+  const path = await import('path');
+  
+  try {
+    const repoPath = process.env.GIT_REPO_PATH || path.join(process.cwd(), '..', 'civilization_memory');
+    
+    // Try primary path (en-dash)
+    const primaryPath = path.join(repoPath, 'GOVERNANCE', 'MIND–PROFILE–MERCOURIS.md');
+    let filePath: string | null = null;
+    let mtime: number = 0;
+    
+    try {
+      const stats = await fs.stat(primaryPath);
+      filePath = primaryPath;
+      mtime = stats.mtimeMs;
+    } catch (primaryError) {
+      // Try alternative path format
+      const altPath = path.join(repoPath, 'GOVERNANCE', 'MIND-PROFILE-MERCOURIS.md');
+      try {
+        const stats = await fs.stat(altPath);
+        filePath = altPath;
+        mtime = stats.mtimeMs;
+      } catch (altError) {
+        console.warn('Could not find MIND–PROFILE–MERCOURIS.md:', primaryError);
+        return null;
+      }
+    }
+    
+    if (!filePath) {
+      return null;
+    }
+    
+    // Check cache: if cached content exists and file hasn't changed, return cached content
+    if (mercourseProfileCache && mercourseProfileCache.filePath === filePath) {
+      try {
+        const currentStats = await fs.stat(filePath);
+        if (currentStats.mtimeMs === mercourseProfileCache.mtime) {
+          // File unchanged, return cached content (fast path)
+          return mercourseProfileCache.content;
+        }
+        // File changed, update mtime for reload below
+        mtime = currentStats.mtimeMs;
+      } catch (statError) {
+        // File might have been deleted, clear cache and return null
+        mercourseProfileCache = null;
+        return null;
+      }
+    }
+    
+    // Load file content (cache miss or file changed)
+    const content = await fs.readFile(filePath, 'utf-8');
+    
+    // Update cache
+    mercourseProfileCache = {
+      content,
+      mtime,
+      filePath,
+    };
+    
+    return content;
+  } catch (error) {
+    console.error('Error loading MIND–PROFILE–MERCOURIS:', error);
+    // Clear cache on error to force reload on next attempt
+    mercourseProfileCache = null;
+    return null;
+  }
+}
+
+/**
+ * Generate mode-specific linguistic adaptations for MERCOURIS profile
+ * Returns soft guidance instructions that adapt the base profile to each mode
+ */
+function getModeSpecificLinguisticGuidance(mode: string): string {
+  const baseProfile = `
+LINGUISTIC FINGERPRINT (SOFT GUIDANCE):
+- Cadence: Long-form reasoning, compound–complex sentences, recursive layering
+- Tempo: Unhurried, non-reactive
+- Tone: Scholarly, calm under escalation, non-polemical
+- Narrative Geometry: WIDE → LAYERED → COMPRESSED → SINGLE STRUCTURAL REVEAL
+- Forbidden: Slogans, performative outrage, triumphalism, mockery, certainty inflation, compressed hot takes
+- Structural Reasoning: Begin with civilization-level placement, privilege institutions over personalities, test feasibility before morality
+- Epistemic Discipline: Skeptical, procedural, constraint-first, evidence-tier aware
+`;
+
+  switch (mode) {
+    case 'IMAGINE':
+      return baseProfile + `
+MODE-SPECIFIC ADAPTATION (IMAGINE):
+- Manifest through immersive visualization and creative narrative structures
+- Maintain unhurried tempo even in vivid storytelling
+- Conversational reset pivots ARE PERMITTED: "If I may say…", "The key point, surely, is this…", "Let us look at the structure…", "Historically, what we observe is…"
+- Use reset pivots to transition between imaginative scenarios and structural insights
+- Preserve recursive layering when exploring alternative pathways
+- Structural reveals should emerge naturally from narrative progression
+- Long-form reasoning should support, not hinder, engaging visualization
+- Tone may be more conversational while maintaining scholarly depth
+`;
+
+    case 'LEARN':
+      return baseProfile + `
+MODE-SPECIFIC ADAPTATION (LEARN):
+- Manifest through structured, logged, traceable expression
+- Use ACADEMIC WRITTEN PROSE (formal, objective, analytical)
+- Conversational reset pivots are FORBIDDEN (e.g., "If I may say…", "The key point, surely, is this…")
+- Instead, use formal academic transitions: "The structural observation is…", "Analysis reveals…", "The pattern indicates…"
+- Maintain unhurried tempo in analytical decomposition
+- Recursive layering should support knowledge extraction hierarchies
+- Structural reveals should emerge from evidence-tier awareness
+- Long-form reasoning should support pattern recognition and contradiction flagging
+- Prioritize procedural clarity over narrative engagement
+- Write as if documenting findings for scholarly review
+`;
+
+    case 'WRITE':
+      return baseProfile + `
+MODE-SPECIFIC ADAPTATION (WRITE):
+- Manifest through canonical, formal, deterministic expression
+- Use ACADEMIC WRITTEN PROSE (formal, objective, authoritative)
+- Conversational reset pivots are FORBIDDEN (e.g., "If I may say…", "The key point, surely, is this…")
+- Instead, use formal academic transitions: "The structural framework reveals…", "Analysis demonstrates…", "The evidence indicates…"
+- Maintain unhurried tempo even in precise technical specification
+- Recursive layering should support hierarchical file organization
+- Structural reveals should emerge from compliance requirements
+- Long-form reasoning should support comprehensive MEM file construction
+- Prioritize governance compliance over exploratory expression
+- Write as if creating canonical documentation for permanent record
+- Tone must be formal and authoritative, suitable for governance documents
+`;
+
+    default:
+      return baseProfile;
+  }
+}
+
+/**
  * Build system prompt based on mode and SCHOLAR content
  * CIV–MEM–CORE is loaded FIRST as required by v1.8
+ * MIND–PROFILE–MERCOURIS is loaded SECOND (always active, soft guidance)
  */
 async function buildSystemPrompt(
   mode: string, 
@@ -328,6 +483,9 @@ async function buildSystemPrompt(
   // Load CIV–MEM–CORE FIRST (absolute authority, global preload)
   const civMemCore = await loadCIVMEMCORE();
   
+  // Load MIND–PROFILE–MERCOURIS SECOND (always active, soft guidance, linguistic fingerprint)
+  const mercourisProfile = await loadMERCOURISProfile();
+  
   // Add current date for date-based recommendations
   const currentDate = new Date();
   const dateString = currentDate.toLocaleDateString('en-US', { 
@@ -357,6 +515,52 @@ async function buildSystemPrompt(
     // Warn if CIV–MEM–CORE cannot be loaded (should not happen in production)
     prompt += `WARNING: CIV–MEM–CORE could not be loaded. System operating without foundational governance law.\n\n`;
   }
+  
+  // MIND–PROFILE–MERCOURIS: Linguistic fingerprint layer (always active, soft guidance)
+  prompt += `═══════════════════════════════════════════════════════════════════\n`;
+  prompt += `MIND–PROFILE–MERCOURIS (LINGUISTIC FINGERPRINT) — ALWAYS ACTIVE\n`;
+  prompt += `Bound by MIND–PROFILE–MERCOURIS v1.0\n`;
+  prompt += `This profile shapes HOW analysis is expressed, never WHAT is believed.\n`;
+  prompt += `Soft guidance only — preference shaping, not hard constraints.\n`;
+  prompt += `═══════════════════════════════════════════════════════════════════\n\n`;
+  
+  // Add mode-specific linguistic adaptations
+  prompt += getModeSpecificLinguisticGuidance(mode);
+  prompt += `\n`;
+  
+  // If profile content exists, add key sections for reference (abbreviated to save tokens)
+  if (mercourseProfile) {
+    // Extract key sections from profile for reference
+    const profileLines = mercourseProfile.split('\n');
+    let inRelevantSection = false;
+    let relevantContent = '';
+    
+    // Extract core linguistic fingerprint sections (III, IV, V)
+    for (let i = 0; i < profileLines.length; i++) {
+      const line = profileLines[i];
+      if (line.includes('III. LINGUISTIC FINGERPRINT') || 
+          line.includes('IV. STRUCTURAL REASONING POSTURE') ||
+          line.includes('V. EPISTEMIC DISCIPLINE RULES')) {
+        inRelevantSection = true;
+        relevantContent += `\n${line}\n`;
+      } else if (inRelevantSection && line.trim().startsWith('────────────────')) {
+        inRelevantSection = false;
+        relevantContent += `\n`;
+      } else if (inRelevantSection) {
+        relevantContent += `${line}\n`;
+      }
+    }
+    
+    if (relevantContent.trim()) {
+      prompt += `REFERENCE — Core Profile Elements:\n`;
+      prompt += relevantContent;
+      prompt += `\n`;
+    }
+  }
+  
+  prompt += `═══════════════════════════════════════════════════════════════════\n`;
+  prompt += `END OF MIND–PROFILE–MERCOURIS\n`;
+  prompt += `═══════════════════════════════════════════════════════════════════\n\n\n`;
   
   prompt += `You are operating in ${mode} mode within the Civilizational Memory Codex (CMC) system.\n\n`;
 
