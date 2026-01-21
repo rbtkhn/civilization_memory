@@ -58,18 +58,19 @@ This document outlines all changes that should be made before upgrading CIV–ME
 
 ### 2.1 Template Version References
 **Current State:**
-- CIV–MEM–CORE: v1.10
-- CIV–MEM–TEMPLATE: v1.9 (references CIV–MEM–CORE v1.8+)
+- CIV–MEM–CORE: v2.0 ✅
+- CIV–MEM–TEMPLATE: v2.0 (references CIV–MEM–CORE v2.0+) ✅
 - CIV–CORE–TEMPLATE: v1.7 (references CIV–SCHOLAR–PROTOCOL v1.4+)
 - CIV–SCHOLAR–PROTOCOL: v1.6
 - CIV–SCHOLAR–TEMPLATE: v1.9
 - CIV–INDEX–TEMPLATE: v1.6
-- CIV–DOCTRINE–TEMPLATE: v1.0 (references CIV–MEM–CORE v1.5+)
+- CIV–DOCTRINE–TEMPLATE: v2.0 (references CIV–MEM–CORE v2.0+) ✅
 
 **Required Updates:**
-- CIV–MEM–TEMPLATE: Update compatibility to "CIV–MEM–CORE v1.10+"
+- ✅ CIV–MEM–CORE: Upgraded to v2.0 (MERCOURIS Integration Edition)
+- ✅ CIV–MEM–TEMPLATE: Updated compatibility to "CIV–MEM–CORE v2.0+"
 - CIV–CORE–TEMPLATE: Update to reference CIV–SCHOLAR–PROTOCOL v1.6+
-- CIV–DOCTRINE–TEMPLATE: Update to reference CIV–MEM–CORE v1.10+
+- ✅ CIV–DOCTRINE–TEMPLATE: Updated to reference CIV–MEM–CORE v2.0+
 
 ---
 
@@ -97,11 +98,12 @@ This document outlines all changes that should be made before upgrading CIV–ME
 ## 4. CIV–MEM–CORE STRUCTURAL IMPROVEMENTS
 
 ### 4.1 Upgrade Note Consolidation
-**Current Issue:** Multiple upgrade notes (v1.9, v1.10) accumulate
-**Proposed:** For v2.0, consolidate upgrade notes into a single "v2.0 Upgrade Summary" that:
-- Lists all major changes from v1.0 → v2.0
+**Status:** ✅ COMPLETED in v2.0
+**Resolution:** v2.0 upgrade note consolidates MERCOURIS integration as major architectural milestone
+- Single "v2.0 Upgrade Summary" created
+- Lists major architectural change (MERCOURIS Integration)
 - Maintains backward compatibility guarantees
-- Documents breaking changes (if any)
+- Documents structural transformation (not governance change)
 
 ---
 
