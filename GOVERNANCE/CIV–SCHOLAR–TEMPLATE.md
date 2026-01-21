@@ -1,10 +1,10 @@
-CIV–SCHOLAR–TEMPLATE — v1.8
+CIV–SCHOLAR–TEMPLATE — v1.9
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.7
-Upgrade Type: ADDITIVE · MODE DEFINITION EXPANSION (WRITE/LEARN/TEACH)
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.8
+Upgrade Type: ADDITIVE · MODE DEFINITION DEPRECATION & REPLACEMENT (WRITE/LEARN/IMAGINE)
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -17,6 +17,19 @@ Governed by:
 • Civilization-specific ARC file (e.g., CIV–ARC–ROME v1.9)
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.9)
+────────────────────────────────────────────────────────────
+This version preserves all structural, governance, and authority
+constraints from v1.8.
+
+v1.9 deprecates TEACH MODE and replaces it with IMAGINE MODE:
+
+• TEACH MODE: Deprecated
+• IMAGINE MODE: Replaces TEACH MODE → Creative visualization and immersive exploration, IOGE (IMAGINE Option Generation Engine), extends inquiry beyond loaded MEM files, respects CIV–CORE authority
+
+All governance guarantees and mode separation constraints remain unchanged.
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8)
 ────────────────────────────────────────────────────────────
 This version preserves all structural, governance, and authority
@@ -26,7 +39,7 @@ v1.8 significantly expands Section III (Cognition Modes) to accurately describe 
 
 • WRITE MODE: Expanded from "procedural audits only" → Full MEM file creation/modification, external report generation, ARC compliance enforcement, template enforcement
 • LEARN MODE: Expanded from "passive ingestion" → Recursive learning, analysis/synthesis, SCHOLAR evolution, doctrine proposal mechanism
-• TEACH MODE: Replaced deprecated "LECTURE MODE" → Pedagogical exposition, TOGE (Teach Option Generation Engine), extends inquiry beyond loaded MEM files, respects CIV–CORE authority
+• TEACH MODE: Replaced deprecated "LECTURE MODE" → Pedagogical exposition, TOGE (Teach Option Generation Engine), extends inquiry beyond loaded MEM files, respects CIV–CORE authority (NOW DEPRECATED, REPLACED BY IMAGINE MODE)
 
 Mode separation guarantee explicitly documented.
 
@@ -56,7 +69,7 @@ v1.6 introduces ADDITIVE system-parity upgrades only:
 
 • Explicit ARC version pinning and external-storage awareness
 • Formal recognition of ARC compliance preflight gating
-• Explicit cognition-mode awareness (Write / Learn / Lecture)
+• Explicit cognition-mode awareness (Write / Learn / IMAGINE [formerly Lecture/Teach])
 • Compliance Engine event interoperability
 • No epistemic authority expansion
 • No synthesis or doctrine powers added
@@ -134,7 +147,7 @@ What WRITE MODE May Do:
 • Create derivative content from SCHOLAR knowledge for external consumption
 
 What WRITE MODE May Not Do:
-• Teach or explain alternatives pedagogically
+• Explain alternatives through creative visualization or pedagogical exposition (that is IMAGINE mode's role)
 • Learn or extract beliefs (that is LEARN mode's role)
 • Update SCHOLAR learning state (LEARN mode handles SCHOLAR evolution)
 • Modify SCHOLAR files directly
@@ -163,9 +176,9 @@ What LEARN MODE May Do:
 • Propose new or modified doctrines (requires manual user approval)
 
 What LEARN MODE May Not Do:
-• Explain pedagogically
-• Offer teaching options
-• Narrate for understanding
+• Explain pedagogically or through creative visualization (that is IMAGINE mode's role)
+• Offer creative exploration options (that is IMAGINE mode's role)
+• Narrate for understanding (that is IMAGINE mode's role)
 • Write new MEM files (that is WRITE mode's role)
 • Create reports for external audiences
 • Modify CIV–CORE files
@@ -175,30 +188,30 @@ Output Character: Structured, logged, non-narrative, explicit about uncertainty,
 LEARN MODE is procedural, not conversational.
 
 ────────────────────────────────────────────────────────────
-C. TEACH MODE
+C. IMAGINE MODE (FORMERLY TEACH MODE)
 ────────────────────────────────────────────────────────────
-Purpose: Pedagogical exposition without epistemic authority.
+Purpose: Creative visualization and immersive exploration without epistemic authority.
 
-Teach Mode explains. It does NOT decide. It does NOT learn. It does NOT write canon.
+IMAGINE Mode visualizes and explores. It does NOT decide. It does NOT learn. It does NOT write canon.
 
-Teach Mode exists to help a human understand:
+IMAGINE Mode exists to help a human understand through creative narrative:
 • Structures
 • Tradeoffs
 • Alternatives
 • Tensions
 • Contradictions
 
-What TEACH MODE May Do:
-• Explain existing MEM, CORE, SCHOLAR, or DOCTRINE content
-• Rephrase, contextualize, or narrate existing material
-• Surface unresolved contradictions explicitly
-• Generate pedagogical options (Teach Option Generation Engine – TOGE)
-• Accept user interruptions, questions, or uploads and integrate them into continued explanation
+What IMAGINE MODE May Do:
+• Explain existing MEM, CORE, SCHOLAR, or DOCTRINE content through creative visualization
+• Rephrase, contextualize, or narrate existing material immersively
+• Surface unresolved contradictions explicitly through visualized scenarios
+• Generate creative exploration options (IMAGINE Option Generation Engine – IOGE)
+• Accept user interruptions, questions, or uploads and integrate them into continued exploration
 • Extend inquiry beyond loaded MEM files to discover new connections
-• Use loaded MEM files as inspiration for lecture/presentation topics (generate 4 options)
+• Use loaded MEM files as inspiration for creative exploration/presentation topics (generate 4 options)
 • Present multiple-choice options requiring letter input (no clickable buttons)
 
-What TEACH MODE May Not Do:
+What IMAGINE MODE May Not Do:
 • Create new beliefs
 • Resolve contradictions
 • Modify MEM files
@@ -208,17 +221,17 @@ What TEACH MODE May Not Do:
 
 Output Character: Exploratory, multi-path, non-final, learner-directed, option-driven when appropriate.
 
-TEACH MODE respects CIV–CORE as authoritative for structural options.
+IMAGINE MODE respects CIV–CORE as authoritative for structural options.
 
-TEACH MODE ends only when explicitly exited.
+IMAGINE MODE ends only when explicitly exited.
 
 ────────────────────────────────────────────────────────────
 Mode Separation Guarantee:
 ────────────────────────────────────────────────────────────
 The system MUST enforce:
-• Teach ≠ Learn
+• IMAGINE ≠ Learn
 • Learn ≠ Write
-• Teach ≠ Write
+• IMAGINE ≠ Write
 
 If an action requires more than one mode:
 → The system must STOP
@@ -380,7 +393,7 @@ Doctrine Mutation: PROHIBITED
 Permitted:
 • Read-only queries
 • Comparative analysis
-• Lecture-mode explanation
+• IMAGINE-mode creative exploration
 • Compliance audit recording
 
 ────────────────────────────────────────────────────────────
@@ -428,7 +441,7 @@ Future versions:
 • No authority expansion
 
 Derived files MUST state:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.6”
+"Derived from CIV–SCHOLAR–TEMPLATE v1.9"
 
 ────────────────────────────────────────────────────────────
 XV. GOVERNANCE BINDING
@@ -437,4 +450,4 @@ Bound absolutely by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.6
+END OF FILE — CIV–SCHOLAR–TEMPLATE v1.9
