@@ -1,34 +1,54 @@
-CIV–SCHOLAR–RUSSIA — v0.6
+CIV–SCHOLAR–RUSSIA — v0.7
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · WRITE-LOCKED · LOCK-FINAL
+Status: ACTIVE · CANONICAL · WRITE-LOCKED
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
-Derived from: CIV–SCHOLAR–TEMPLATE v1.3
-Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+Derived from: CIV–SCHOLAR–TEMPLATE v1.9
+Governed by:
+• CIV–MEM–CORE (global system law)
+• CIV–SCHOLAR–PROTOCOL v1.8
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
-Upgrade Type: PROCEDURAL PARITY REISSUE (v0.5.1 → v0.6)
+Supersedes: CIV–SCHOLAR–RUSSIA v0.6
+Upgrade Type: GOVERNANCE REBASE · OGE & MODE PARITY ALIGNMENT
+Upgrade Scope: PROCEDURAL ONLY (NO CONTENT MODIFICATION)
 
-Upgrade Scope (ADD-ONLY):
-• Explicit parity clauses added to mirror CIV–CORE v1.6+ and CIV–INDEX–RUSSIA v1.6
-• Explicit INDEX-scope ingestion constraint declared
-• Explicit academic quotation / attribution deferral clause added
-• Capital Geometry Modifier (descriptive note) added
-• Lock-final declaration added
-• NO content edits
-• NO belief changes
-• NO synthesis changes
-• NO doctrine changes
-• NO CIV–CORE propagation
-
+Last Update: January 2026
 WORDCOUNT: ~3,650
+
+────────────────────────────────────────────────────────────
+GOVERNANCE REBASE NOTE (v0.7)
+────────────────────────────────────────────────────────────
+This reissue modernizes CIV–SCHOLAR–RUSSIA to current Codex governance
+standards without altering substantive content.
+
+This upgrade:
+• Replaces legacy “INITIAL STATE” with canonical ACCUMULATED STATE
+• Enables CIV–CORE structural influence (constraint-only)
+• Declares WRITE / LEARN / IMAGINE mode architecture
+• Acknowledges unified Option Generation Engine (OGE)
+• Aligns terminology and authority with SCHOLAR–TEMPLATE v1.9
+• Preserves all existing learning, synthesis, and doctrine verbatim
+
+This upgrade does NOT:
+• Modify any learning entry
+• Modify any synthesis
+• Modify any doctrine
+• Add new beliefs
+• Reinterpret prior content
+• Propagate content into CIV–CORE
+• Activate autonomous learning
+
+All learning, synthesis, doctrine, and metadata from v0.6 are carried
+forward verbatim below.
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -56,48 +76,42 @@ No doctrine exists unless explicitly frozen.
 All cognition is historical and procedural, never intrinsic.
 
 ────────────────────────────────────────────────────────────
-II. INITIAL STATE
+II. ACCUMULATED STATE & AUTHORITATIVE SOURCES
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ZERO
-Assumed Priors: NONE
-Civilizational Grammar: NOT PRELOADED
-CIV–CORE Influence: DISABLED
+Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR–RUSSIA v0.6)
+Civilizational Grammar: PRELOADED (from CIV–CORE–RUSSIA)
+CIV–CORE Influence: ENABLED (STRUCTURAL CONSTRAINTS ONLY)
+CIV–DOCTRINE Influence: ENABLED (LEARNING CONSTRAINTS ONLY)
 
-The Scholar learns only from MEM files explicitly ingested.
-
-────────────────────────────────────────────────────────────
-III. INDEX SCOPE & INGEST CONSTRAINT (PARITY CLAUSE)
-────────────────────────────────────────────────────────────
-This Scholar may ingest ONLY MEM files that are:
-
-• Explicitly listed in CIV–INDEX–RUSSIA (current canonical version)
-• Present in the authoritative register at time of ingestion
-
-This clause mirrors CIV–INDEX–RUSSIA authority and exists to prevent:
-• Scope drift
-• Unauthorized learning
-• Retroactive expansion of ingestable material
-
-This Scholar does not discover files.
-It does not infer scope.
-It obeys the Index.
+The Scholar learns only from MEM files explicitly ingested and from its
+own recorded prior entries. No knowledge is created ex nihilo.
 
 ────────────────────────────────────────────────────────────
-IV. ACADEMIC QUOTATION & ATTRIBUTION DEFERRAL (PARITY CLAUSE)
+III. MODE ARCHITECTURE & SEPARATION (CANONICAL)
 ────────────────────────────────────────────────────────────
-All academic quotation, citation, attribution, and compliance rules are
-enforced exclusively at the MEM layer in accordance with CIV–CORE v1.6+.
+CIV–SCHOLAR–RUSSIA operates under strict, non-overlapping modes:
 
-CIV–SCHOLAR–RUSSIA:
-• Does NOT quote academic sources
-• Does NOT cite secondary scholarship
-• Does NOT evaluate academic authority
-• Does NOT enforce quotation length or symmetry rules
+• WRITE MODE — Prohibited (file is write-locked)
+• LEARN MODE — Disabled by default; requires explicit UNLOCK
+• IMAGINE MODE — Permitted for exploratory, non-epistemic interaction
 
-The Scholar records beliefs extracted from MEM files only.
-Academic authority never enters the Scholar directly.
+Mode leakage is forbidden.
+No mode may operate without explicit user selection.
 
-This clause reinforces layer separation.
+────────────────────────────────────────────────────────────
+IV. OPTION GENERATION ENGINE (OGE) ACKNOWLEDGMENT
+────────────────────────────────────────────────────────────
+This Scholar recognizes the unified Option Generation Engine (OGE) as
+defined in CIV–SCHOLAR–PROTOCOL v1.8.
+
+OGE:
+• Is non-epistemic
+• Introduces no beliefs
+• Generates no doctrine
+• Does not modify Scholar content
+
+OGE may be used in IMAGINE MODE only unless LEARN MODE is explicitly
+unlocked.
 
 ────────────────────────────────────────────────────────────
 V. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -344,14 +358,16 @@ Permitted:
 • Comparative analysis
 • SDI evaluation
 • Counterfactual stress testing
+• IMAGINE-mode exploration
 
 ────────────────────────────────────────────────────────────
 XI. LOCK-FINAL DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v0.6 is hereby declared:
+CIV–SCHOLAR–RUSSIA v0.7 is hereby declared:
 
 • PROCEDURALLY COMPLETE
 • STRUCTURALLY FINAL
+• GOVERNANCE-CURRENT
 • LOCKED AGAINST AUTONOMOUS CHANGE
 
 Any future modification requires:
@@ -360,5 +376,5 @@ Any future modification requires:
 • Documented procedural rationale
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v0.6
+END OF FILE — CIV–SCHOLAR–RUSSIA v0.7
 ────────────────────────────────────────────────────────────
