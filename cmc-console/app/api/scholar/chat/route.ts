@@ -31,16 +31,9 @@ interface CIVMEMCORECache {
 let civMemCoreCache: CIVMEMCORECache | null = null;
 
 /**
- * Cache for MIND–PROFILE–MERCOURIS content
- * Stores content and file modification time to avoid redundant loads
+ * MERCOURIS profile is now integrated into CIV–MEM–CORE Section XX
+ * No separate file loading or caching needed
  */
-interface MERCOURISProfileCache {
-  content: string;
-  mtime: number;
-  filePath: string;
-}
-
-let mercourisProfileCache: MERCOURISProfileCache | null = null;
 
 /**
  * Get the file path for CIV–MEM–CORE.md
@@ -57,7 +50,7 @@ async function getCIVMEMCOREPath(): Promise<string> {
 
 /**
  * Load CIV–MEM–CORE (global system law)
- * Must be loaded FIRST in every conversation (CIV–MEM–CORE v1.8 requirement)
+ * Must be loaded FIRST in every conversation (CIV–MEM–CORE v2.0 requirement)
  * Load Order: FIRST FILE IN EVERY NEW CONVERSATION
  * Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
  * 
@@ -139,77 +132,52 @@ async function loadCIVMEMCORE(): Promise<string | null> {
 }
 
 /**
- * Load MIND–PROFILE–MERCOURIS (linguistic fingerprint layer)
- * Must be loaded SECOND after CIV–MEM–CORE
+ * Extract MERCOURIS profile from CIV–MEM–CORE (linguistic fingerprint layer)
+ * MERCOURIS is now integrated into CIV–MEM–CORE Section XX (VP-1.a through VP-1.e)
  * Always active, soft guidance only
  * 
- * IMPLEMENTATION: Cached in memory for performance
+ * IMPLEMENTATION: Extracts from already-loaded CIV–MEM–CORE content
  */
-async function loadMERCOURISProfile(): Promise<string | null> {
-  const fs = await import('fs/promises');
-  const path = await import('path');
+function extractMERCOURISFromCIVMEMCORE(civMemCore: string | null): string | null {
+  if (!civMemCore) {
+    return null;
+  }
   
   try {
-    const repoPath = process.env.GIT_REPO_PATH || path.join(process.cwd(), '..', 'civilization_memory');
+    // Extract Section XX (VOICE PROFILES) and VP-1 subsections
+    const lines = civMemCore.split('\n');
+    let inSectionXX = false;
+    let extractedLines: string[] = [];
     
-    // Try primary path (en-dash)
-    const primaryPath = path.join(repoPath, 'GOVERNANCE', 'MIND–PROFILE–MERCOURIS.md');
-    let filePath: string | null = null;
-    let mtime: number = 0;
-    
-    try {
-      const stats = await fs.stat(primaryPath);
-      filePath = primaryPath;
-      mtime = stats.mtimeMs;
-    } catch (primaryError) {
-      // Try alternative path format
-      const altPath = path.join(repoPath, 'GOVERNANCE', 'MIND-PROFILE-MERCOURIS.md');
-      try {
-        const stats = await fs.stat(altPath);
-        filePath = altPath;
-        mtime = stats.mtimeMs;
-      } catch (altError) {
-        console.warn('Could not find MIND–PROFILE–MERCOURIS.md:', primaryError);
-        return null;
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      
+      // Detect start of Section XX
+      if (line.includes('XX. HUMAN INTERFACE LAYER') || line.includes('XX. HUMAN INTERFACE LAYER — VOICE PROFILES')) {
+        inSectionXX = true;
+        extractedLines.push(line);
+        continue;
+      }
+      
+      // Stop at Section XXI (next section after XX)
+      if (inSectionXX && line.includes('XXI. INTERFACE PRECEDENCE RULE')) {
+        break;
+      }
+      
+      // Collect lines within Section XX (includes VP-1.a through VP-1.e)
+      if (inSectionXX) {
+        extractedLines.push(line);
       }
     }
     
-    if (!filePath) {
+    if (extractedLines.length === 0) {
+      console.warn('Could not extract MERCOURIS profile from CIV–MEM–CORE');
       return null;
     }
     
-    // Check cache: if cached content exists and file hasn't changed, return cached content
-    if (mercourseProfileCache && mercourseProfileCache.filePath === filePath) {
-      try {
-        const currentStats = await fs.stat(filePath);
-        if (currentStats.mtimeMs === mercourseProfileCache.mtime) {
-          // File unchanged, return cached content (fast path)
-          return mercourseProfileCache.content;
-        }
-        // File changed, update mtime for reload below
-        mtime = currentStats.mtimeMs;
-      } catch (statError) {
-        // File might have been deleted, clear cache and return null
-        mercourseProfileCache = null;
-        return null;
-      }
-    }
-    
-    // Load file content (cache miss or file changed)
-    const content = await fs.readFile(filePath, 'utf-8');
-    
-    // Update cache
-    mercourseProfileCache = {
-      content,
-      mtime,
-      filePath,
-    };
-    
-    return content;
+    return extractedLines.join('\n');
   } catch (error) {
-    console.error('Error loading MIND–PROFILE–MERCOURIS:', error);
-    // Clear cache on error to force reload on next attempt
-    mercourseProfileCache = null;
+    console.error('Error extracting MERCOURIS profile from CIV–MEM–CORE:', error);
     return null;
   }
 }
@@ -282,7 +250,7 @@ MODE-SPECIFIC ADAPTATION (WRITE):
 
 /**
  * Build system prompt based on mode and SCHOLAR content
- * CIV–MEM–CORE is loaded FIRST as required by v1.8
+ * CIV–MEM–CORE is loaded FIRST as required by v2.0
  * MIND–PROFILE–MERCOURIS is loaded SECOND (always active, soft guidance)
  */
 async function buildSystemPrompt(
@@ -483,8 +451,8 @@ async function buildSystemPrompt(
   // Load CIV–MEM–CORE FIRST (absolute authority, global preload)
   const civMemCore = await loadCIVMEMCORE();
   
-  // Load MIND–PROFILE–MERCOURIS SECOND (always active, soft guidance, linguistic fingerprint)
-  const mercourisProfile = await loadMERCOURISProfile();
+  // Extract MERCOURIS profile from CIV–MEM–CORE (integrated in Section XX, VP-1.a through VP-1.e)
+  const mercourisProfile = extractMERCOURISFromCIVMEMCORE(civMemCore);
   
   // Add current date for date-based recommendations
   const currentDate = new Date();
@@ -516,82 +484,56 @@ async function buildSystemPrompt(
     prompt += `WARNING: CIV–MEM–CORE could not be loaded. System operating without foundational governance law.\n\n`;
   }
   
-  // MIND–PROFILE–MERCOURIS: Linguistic fingerprint layer (always active, soft guidance)
-  prompt += `═══════════════════════════════════════════════════════════════════\n`;
-  prompt += `MIND–PROFILE–MERCOURIS (LINGUISTIC FINGERPRINT) — ALWAYS ACTIVE\n`;
-  prompt += `Bound by MIND–PROFILE–MERCOURIS v1.0\n`;
-  prompt += `This profile shapes HOW analysis is expressed, never WHAT is believed.\n`;
-  prompt += `Soft guidance only — preference shaping, not hard constraints.\n`;
-  prompt += `═══════════════════════════════════════════════════════════════════\n\n`;
-  
-  // Add mode-specific linguistic adaptations
-  prompt += getModeSpecificLinguisticGuidance(mode);
-  prompt += `\n`;
-  
-  // If profile content exists, add key sections for reference (abbreviated to save tokens)
+  // MERCOURIS PROFILE: Linguistic fingerprint layer (always active, soft guidance)
+  // Extracted from CIV–MEM–CORE Section XX (VP-1.a through VP-1.e)
   if (mercourseProfile) {
-    // Extract key sections from profile for reference
-    const profileLines = mercourseProfile.split('\n');
-    let inRelevantSection = false;
-    let relevantContent = '';
+    prompt += `═══════════════════════════════════════════════════════════════════\n`;
+    prompt += `VP-MERCOURIS (LINGUISTIC FINGERPRINT) — ALWAYS ACTIVE\n`;
+    prompt += `Extracted from CIV–MEM–CORE Section XX (VP-1)\n`;
+    prompt += `This profile shapes HOW analysis is expressed, never WHAT is believed.\n`;
+    prompt += `Soft guidance only — preference shaping, not hard constraints.\n`;
+    prompt += `═══════════════════════════════════════════════════════════════════\n\n`;
     
-    // Extract core linguistic fingerprint sections (III, IV, V)
-    for (let i = 0; i < profileLines.length; i++) {
-      const line = profileLines[i];
-      if (line.includes('III. LINGUISTIC FINGERPRINT') || 
-          line.includes('IV. STRUCTURAL REASONING POSTURE') ||
-          line.includes('V. EPISTEMIC DISCIPLINE RULES')) {
-        inRelevantSection = true;
-        relevantContent += `\n${line}\n`;
-      } else if (inRelevantSection && line.trim().startsWith('────────────────')) {
-        inRelevantSection = false;
-        relevantContent += `\n`;
-      } else if (inRelevantSection) {
-        relevantContent += `${line}\n`;
-      }
-    }
+    // Add mode-specific linguistic adaptations
+    prompt += getModeSpecificLinguisticGuidance(mode);
+    prompt += `\n`;
     
-    if (relevantContent.trim()) {
-      prompt += `REFERENCE — Core Profile Elements:\n`;
-      prompt += relevantContent;
-      prompt += `\n`;
-    }
+    // Add the extracted MERCOURIS profile content
+    prompt += `${mercourseProfile}\n\n`;
+    
+    prompt += `═══════════════════════════════════════════════════════════════════\n`;
+    prompt += `END OF VP-MERCOURIS PROFILE\n`;
+    prompt += `═══════════════════════════════════════════════════════════════════\n\n\n`;
+  } else {
+    // Fallback: if extraction fails, still provide mode-specific guidance
+    prompt += `═══════════════════════════════════════════════════════════════════\n`;
+    prompt += `VP-MERCOURIS (LINGUISTIC FINGERPRINT) — ALWAYS ACTIVE\n`;
+    prompt += `WARNING: MERCOURIS profile could not be extracted from CIV–MEM–CORE.\n`;
+    prompt += `Using mode-specific guidance only.\n`;
+    prompt += `═══════════════════════════════════════════════════════════════════\n\n`;
+    prompt += getModeSpecificLinguisticGuidance(mode);
+    prompt += `\n\n`;
   }
-  
-  prompt += `═══════════════════════════════════════════════════════════════════\n`;
-  prompt += `END OF MIND–PROFILE–MERCOURIS\n`;
-  prompt += `═══════════════════════════════════════════════════════════════════\n\n\n`;
   
   prompt += `You are operating in ${mode} mode within the Civilizational Memory Codex (CMC) system.\n\n`;
 
   // Mode-specific instructions
   switch (mode) {
     case 'IMAGINE':
-      prompt += `IMAGINE MODE RULES (CIV–SCHOLAR–PROTOCOL v1.5):
+      prompt += `IMAGINE MODE RULES (CIV–SCHOLAR–PROTOCOL v1.7):
 - PRIMARY PURPOSE: Creative visualization and immersive exploration WITHOUT epistemic authority
 - You are providing imaginative exploration - you visualize, you do NOT decide, learn, or write canon
 - You must create engaging, immersive visualizations through the cognitive lens of the SCHOLAR file
 - Present content in an engaging, story-like manner while maintaining historical accuracy
 - You may visualize existing MEM, CORE, or SCHOLAR content through vivid, contextual narratives
 - You MUST surface unresolved contradictions (SCL) explicitly - never resolve them
-- You MUST generate multiple choice options using TOGE (Teach Option Generation Engine)
-- TOGE is MANDATORY and must activate when presenting content
+- You MUST generate multiple choice options using OGE (Option Generation Engine) - MANDATORY
+- OGE is MANDATORY and must activate when presenting content
 - EXTENDED INQUIRY: You are NOT bounded by loaded MEM files - extend your inquiry to discover connections across the entire repository and beyond
 - PRIORITY LAYER: Loaded MEM files are your priority context, but you should explore relationships, patterns, and connections beyond them
 - FORWARD COMPATIBILITY: This mode is designed for future integration with visual generation tools (AI video, images, etc.)
 
-TOPIC GENERATION (When switching to IMAGINE mode with loaded MEM files):
-- If the user requests topic generation based on loaded MEM files, you MUST:
-  1. Analyze the loaded MEM files to identify key themes, subjects, and narrative opportunities
-  2. Generate EXACTLY 4 distinct, engaging visualization/exploration topics inspired by the loaded MEM files
-  3. Each topic should be inspired by the loaded MEM files but can extend beyond them to discover connections
-  4. Format as multiple choice options: "a) Topic 1", "b) Topic 2", "c) Topic 3", "d) Topic 4"
-  5. Topics should be mutually distinct, creatively meaningful, and suitable for immersive visualization
-  6. Topics may reference specific MEM files, cross-civilizational comparisons, structural analysis, or historical narratives
-  7. Present the topics clearly with a brief introduction, then list all 4 options, and wait for user selection
-  8. Do NOT begin the visualization until the user selects a topic (a, b, c, or d)
-
-TOGE REQUIREMENTS (BINDING):
+OGE REQUIREMENTS FOR IMAGINE MODE (BINDING):
 - Generate options from AT LEAST THREE of these six classes:
   1) STRUCTURAL OPTION - Visualize through CIV–CORE architecture or constraints
      * CIV–CORE has AUTHORITY over SCHOLAR in structural matters
@@ -611,6 +553,14 @@ TOGE REQUIREMENTS (BINDING):
 - Options MUST declare CORE vs SCHOLAR sourcing, respect SCR confidence levels, reference SCL where relevant
 - When presenting STRUCTURAL OPTIONS, explicitly state that CIV–CORE has authority and SCHOLAR is advisory
 
+OGE TRIGGER CONDITIONS (MANDATORY):
+- Entry into IMAGINE Mode
+- Presentation of MEM file
+- Presentation of CIV–CORE structure
+- Exposure of SCL contradiction
+- After visualization completion
+- User requests exploration
+
 IMAGINE MODE PROHIBITIONS:
 - You may NOT create new beliefs
 - You may NOT resolve contradictions
@@ -622,7 +572,7 @@ Your output should be exploratory, multi-path, non-final, imagination-directed, 
       break;
     
     case 'LEARN':
-      prompt += `LEARN MODE RULES:
+      prompt += `LEARN MODE RULES (CIV–SCHOLAR–PROTOCOL v1.7):
 - PRIMARY PURPOSE: Recursive learning and iteration of the SCHOLAR file
 - You ingest, analyze, synthesize, and assimilate knowledge (especially from MEM files)
 - You extract beliefs, rules, patterns, tensions, and insights from MEM files
@@ -633,11 +583,38 @@ Your output should be exploratory, multi-path, non-final, imagination-directed, 
 - IMPORTANT: You ingest and understand information REGARDLESS of format compliance
 - ARC compliance is NOT required for learning - you learn from any information source
 - Format validation (ARC, structure, etc.) is WRITE mode's responsibility, not LEARN mode's
-- You may NOT explain pedagogically or offer teaching options
-- You may NOT write new MEM files (that is WRITE mode's role)
-- You may NOT create reports for external audiences
+- You MUST generate multiple choice options using OGE (Option Generation Engine) - MANDATORY
 - Your output should be structured, logged, non-narrative, and traceable to source material
 - Focus on knowledge assimilation and SCHOLAR file evolution
+
+OGE REQUIREMENTS FOR LEARN MODE (BINDING):
+- Generate options from AT LEAST THREE of these six classes:
+  1) PATTERN DETECTION OPTION - Analyze loaded MEM files for recurring patterns
+  2) SYNTHESIS OPTION - Synthesize knowledge across multiple MEM files
+  3) CONTRADICTION ANALYSIS OPTION - Investigate SCL contradictions in detail
+  4) DOCTRINE PROPOSAL OPTION - Evaluate pattern for doctrinal eligibility
+  5) RELATED FILE EXPLORATION OPTION - Load and analyze related MEM files
+  6) EVIDENCE VERIFICATION OPTION - Verify pattern evidence across repository
+- Format options clearly with single letters: "a) Option text", "b) Option text", etc.
+- Options MUST be mutually distinct, contextually relevant, and actionable
+- You MUST stop and await user selection - unilateral continuation is forbidden
+- Options MUST reference source MEM files when applicable
+- Options MUST respect SCR confidence levels and flag SCL where relevant
+- Options for doctrine proposals MUST follow doctrine proposal criteria
+
+OGE TRIGGER CONDITIONS (MANDATORY):
+- After MEM file ingestion
+- After pattern detection
+- After contradiction flagging (SCL)
+- When doctrine proposal criteria are met
+- When synthesis opportunities arise
+- User requests specific analysis
+
+LEARN MODE PROHIBITIONS:
+- You may NOT explain pedagogically or offer teaching options (that is IMAGINE mode)
+- You may NOT write new MEM files (that is WRITE mode's role)
+- You may NOT create reports for external audiences
+- You may NOT proceed without offering options after key learning events
 
 RECURSIVE LEARNING LOOP WITH CIV–DOCTRINE:
 - CIV–DOCTRINE files contain FROZEN, ACCEPTED doctrines derived from prior SCHOLAR synthesis
@@ -761,7 +738,7 @@ CRITICAL RULES FOR DOCTRINE PROPOSALS:
       break;
     
     case 'WRITE':
-      prompt += `WRITE MODE RULES:
+      prompt += `WRITE MODE RULES (CIV–SCHOLAR–PROTOCOL v1.7):
 - PRIMARY PURPOSE: Create/modify MEM files and create reports/content for external audience consumption
 - You generate and modify MEM files (Civilizational Memory files)
 - You create reports, summaries, and content intended for external audiences
@@ -772,13 +749,40 @@ CRITICAL RULES FOR DOCTRINE PROPOSALS:
 - CRITICAL: ARC (Academic Reference Canon) compliance is MANDATORY for MEM files
 - MEM files must ONLY cite authors listed in ARC (see CIV–INDEX Section XVI)
 - ARC violations are procedural failures - check ARC before including citations
-- You may NOT teach or explain alternatives pedagogically
-- You may NOT learn or extract beliefs (that is LEARN mode's role)
-- You may NOT modify SCHOLAR files directly (LEARN mode handles SCHOLAR evolution)
+- You MUST generate multiple choice options using OGE (Option Generation Engine) - MANDATORY
 - Your output should be deterministic, canonical, final-form, and governance-compliant
 - Focus on creating external-facing artifacts and MEM file generation
 - EXTENDED INQUIRY: You are NOT bounded by loaded MEM files - reference files across the repository for MEM connections (≥10 required, all same civilization, ≥2 GEO MEM files). Only include STRONG connections - weak or marginal connections do not meet analytical requirements.
 - PRIORITY LAYER: Loaded MEM files are your priority templates/examples, but you must discover connections beyond them to meet MEM connection requirements
+
+OGE REQUIREMENTS FOR WRITE MODE (BINDING):
+- Generate options from AT LEAST THREE of these six classes:
+  1) COMPLIANCE UPGRADE OPTION - Upgrade file to meet ARC/MEM–TEMPLATE compliance
+  2) STRUCTURE MODIFICATION OPTION - Modify specific sections or structure
+  3) QUOTATION INTEGRATION OPTION - Add ARC-compliant quotations
+  4) MEM CONNECTION OPTION - Add or modify MEM connections
+  5) METADATA UPDATE OPTION - Update version, status, or metadata
+  6) TEMPLATE ALIGNMENT OPTION - Align file with template requirements
+- Format options clearly with single letters: "a) Option text", "b) Option text", etc.
+- Options MUST be mutually distinct, contextually relevant, and actionable
+- You MUST stop and await user selection - unilateral continuation is forbidden
+- Options MUST preserve existing content when modifying
+- Options MUST follow ARC rules and template structure
+- Options MUST respect governance constraints
+
+OGE TRIGGER CONDITIONS (MANDATORY):
+- After file load
+- After compliance audit (non-compliant files)
+- After user modification request
+- When structural issues detected
+- When ARC violations identified
+- User requests specific modification
+
+WRITE MODE PROHIBITIONS:
+- You may NOT teach or explain alternatives pedagogically (that is IMAGINE mode)
+- You may NOT learn or extract beliefs (that is LEARN mode's role)
+- You may NOT modify SCHOLAR files directly (LEARN mode handles SCHOLAR evolution)
+- You may NOT proceed without offering options after file operations
 
 CRITICAL: USER COMMANDS APPLY TO OPEN MEM FILE
 - When the user gives commands like "insert this", "add that", "modify this section", "replace X with Y", "update to compliance", etc., these commands AUTOMATICALLY apply to the currently open MEM file in the editor
@@ -924,8 +928,8 @@ The preflight layer validates all of these automatically. Non-compliant files ar
   // ARC is ONLY relevant for WRITE mode (compliance required)
   // IMAGINE mode works with MEM files that are already ARC-compliant, so no need to enforce ARC again
   if (arcInfo && mode === 'WRITE') {
-    prompt += `ACADEMIC REFERENCE CANON (ARC) - SYSTEM LAW (CIV–MEM–CORE v1.8):\n${arcInfo}\n\n`;
-    prompt += `ARC GOVERNANCE RULES (CIV–MEM–CORE v1.8, Section XI-XIV):\n`;
+    prompt += `ACADEMIC REFERENCE CANON (ARC) - SYSTEM LAW (CIV–MEM–CORE v2.0):\n${arcInfo}\n\n`;
+    prompt += `ARC GOVERNANCE RULES (CIV–MEM–CORE v2.0, Section XI-XIV):\n`;
     prompt += `- ARC is a Codex-governed canonical object (first-class system governance)\n`;
     prompt += `- ARC replaces all notions of "academic registry" or ad hoc reference configurations\n`;
     prompt += `- ARC is category-locked and procedurally enforced\n`;
@@ -941,7 +945,7 @@ The preflight layer validates all of these automatically. Non-compliant files ar
     prompt += `- When creating MEM files, verify all cited authors are in the ARC list above\n`;
     prompt += `- MEM files you create will be used in IMAGINE mode, so ARC compliance ensures proper governance\n`;
     prompt += `- ARC noncompliance blocks doctrinal eligibility (Doctrinal Eligibility Filter - DEF)\n`;
-    prompt += `- Doctrine freezing is BLOCKED if ARC quotation requirements are violated (CIV–MEM–CORE v1.8, Section X)\n\n`;
+    prompt += `- Doctrine freezing is BLOCKED if ARC quotation requirements are violated (CIV–MEM–CORE v2.0, Section X)\n\n`;
   }
 
   // Add SCHOLAR file as cognitive lens (advisory only)
