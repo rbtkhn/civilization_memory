@@ -1,10 +1,10 @@
-CIV–SCHOLAR–TEMPLATE — v1.9
+CIV–SCHOLAR–TEMPLATE — v1.9.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.8
-Upgrade Type: ADDITIVE · MODE DEFINITION DEPRECATION & REPLACEMENT (WRITE/LEARN/IMAGINE)
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.9
+Upgrade Type: GOVERNANCE PATCH · OGE SYSTEM-PRIMITIVE EXECUTION LAW
 Activation State: INACTIVE BY DEFAULT
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -17,66 +17,30 @@ Governed by:
 • Civilization-specific ARC file (e.g., CIV–ARC–ROME v1.9)
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.9)
+UPGRADE NOTE (v1.9.1)
 ────────────────────────────────────────────────────────────
-This version preserves all structural, governance, and authority
-constraints from v1.8.
+This version preserves ALL structure, authority boundaries, cognition
+modes, learning rules, and governance constraints from v1.9.
 
-v1.9 deprecates TEACH MODE and replaces it with IMAGINE MODE:
+v1.9.1 introduces a single, binding governance clarification:
 
-• TEACH MODE: Deprecated
-• IMAGINE MODE: Replaces TEACH MODE → Creative visualization and immersive exploration, IOGE (IMAGINE Option Generation Engine), extends inquiry beyond loaded MEM files, respects CIV–CORE authority
+• OPTION GENERATION ENGINE (OGE) IS A SYSTEM PRIMITIVE
+• OGE EXECUTES FIRST IN ALL MODES (WRITE / LEARN / IMAGINE)
+• OGE IS MANDATORY AND NON-OPTIONAL
+• OGE IS UNIFIED (NO MODE-SPECIFIC ENGINES)
 
-All governance guarantees and mode separation constraints remain unchanged.
+This is a governance hardening patch only.
 
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.8)
-────────────────────────────────────────────────────────────
-This version preserves all structural, governance, and authority
-constraints from v1.7.
+Guarantees:
+• NO learning rules modified
+• NO doctrine rules modified
+• NO cognition authority added
+• NO section reordered or removed
+• NO behavioral definitions weakened
+• NO duplication of protocol text introduced
 
-v1.8 significantly expands Section III (Cognition Modes) to accurately describe mode functions:
-
-• WRITE MODE: Expanded from "procedural audits only" → Full MEM file creation/modification, external report generation, ARC compliance enforcement, template enforcement
-• LEARN MODE: Expanded from "passive ingestion" → Recursive learning, analysis/synthesis, SCHOLAR evolution, doctrine proposal mechanism
-• TEACH MODE: Replaced deprecated "LECTURE MODE" → Pedagogical exposition, TOGE (Teach Option Generation Engine), extends inquiry beyond loaded MEM files, respects CIV–CORE authority (NOW DEPRECATED, REPLACED BY IMAGINE MODE)
-
-Mode separation guarantee explicitly documented.
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.7)
-────────────────────────────────────────────────────────────
-This version preserves all structural, governance, and authority
-constraints from v1.6.
-
-v1.7 corrects Section II to accurately reflect SCHOLAR operational state:
-
-• Changed "INITIAL STATE" (zero knowledge) → "ACCUMULATED STATE & AUTHORITATIVE SOURCES" (accumulated knowledge)
-• CIV–CORE Influence: DISABLED → ENABLED (authoritative for structural constraints)
-• CIV–DOCTRINE Influence: Added as ENABLED (authoritative for learning constraints)
-• Civilizational Grammar: NOT PRELOADED → PRELOADED (from CIV–CORE)
-• MEM files: Sole source → Priority layer (inquiry extends beyond loaded MEM files)
-
-This correction acknowledges that SCHOLAR files contain accumulated learning from prior sessions, and that CIV–CORE, CIV–DOCTRINE, and CIV–SCHOLAR all influence system behavior as authoritative data sources.
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.6)
-────────────────────────────────────────────────────────────
-This version preserves all structural, governance, and authority
-constraints from v1.5.
-
-v1.6 introduces ADDITIVE system-parity upgrades only:
-
-• Explicit ARC version pinning and external-storage awareness
-• Formal recognition of ARC compliance preflight gating
-• Explicit cognition-mode awareness (Write / Learn / IMAGINE [formerly Lecture/Teach])
-• Compliance Engine event interoperability
-• No epistemic authority expansion
-• No synthesis or doctrine powers added
-
-No prior sections are removed.
-No sections are reordered.
-No authority boundaries are weakened.
+All detailed OGE behavior, option classes, and trigger logic
+remain defined exclusively in CIV–SCHOLAR–PROTOCOL v1.9+.
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -111,280 +75,187 @@ II. ACCUMULATED STATE & AUTHORITATIVE SOURCES
 The Scholar operates with accumulated knowledge from prior learning sessions.
 
 Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR file content)
-Authoritative Data Sources: ACTIVE
-• CIV–CORE–[CIVILIZATION]: Structural constraints and operational logic
-• CIV–DOCTRINE–[CIVILIZATION]: Frozen learning and hard constraints
-• CIV–SCHOLAR–[CIVILIZATION]: Prior learning entries and synthesis history
-• Loaded MEM Files: Priority layer for new learning and analysis
+
+Authoritative Data Sources:
+• CIV–CORE–[CIVILIZATION] — Structural constraints and operational logic
+• CIV–DOCTRINE–[CIVILIZATION] — Frozen doctrines and hard learning ceilings
+• CIV–SCHOLAR–[CIVILIZATION] — Prior learning entries and synthesis history
+• Loaded MEM Files — Priority layer for new learning and analysis
 
 Civilizational Grammar: PRELOADED (from CIV–CORE)
-CIV–CORE Influence: ENABLED (authoritative for structural constraints)
-CIV–DOCTRINE Influence: ENABLED (authoritative for learning constraints)
+CIV–CORE Influence: ENABLED (structural authority)
+CIV–DOCTRINE Influence: ENABLED (learning constraints)
 
-The Scholar ingests MEM files to extend and refine existing knowledge.
-MEM files are a priority layer for analysis, not the sole boundary for inquiry.
-New learning is added to the accumulated knowledge state, not created ex nihilo.
+MEM files extend and refine accumulated knowledge.
+They do not define authority.
 
 ────────────────────────────────────────────────────────────
 III. COGNITION MODES (MANDATORY SEPARATION)
 ────────────────────────────────────────────────────────────
 The Scholar operates under externally selected cognition modes.
 
-These sub-modes are mutually exclusive. Any leakage between them is a system violation.
+These modes are mutually exclusive.
+Mode leakage constitutes a governance violation.
 
+────────────────────────────────────────────────────────────
 A. WRITE MODE
 ────────────────────────────────────────────────────────────
-Purpose: Create/modify MEM files and create reports/content for external audience consumption.
+Purpose:
+• Creation and modification of MEM files
+• Production of canonical outputs for external audiences
 
-What WRITE MODE May Do:
+WRITE MODE MAY:
 • Generate full MEM files
-• Modify existing MEM files
-• Create reports and content for external audiences
-• Upgrade MEM file versions additively
-• Insert quotations and apply ARC compliance
-• Enforce templates and formatting rules (CIV–MEM–TEMPLATE v1.9)
-• Produce canonical outputs
-• Create derivative content from SCHOLAR knowledge for external consumption
+• Modify existing MEM files additively
+• Enforce MEM templates and ARC compliance
+• Produce copy-ready canonical text
+• Generate derivative analytical outputs
 
-What WRITE MODE May Not Do:
-• Explain alternatives through creative visualization or pedagogical exposition (that is IMAGINE mode's role)
-• Learn or extract beliefs (that is LEARN mode's role)
-• Update SCHOLAR learning state (LEARN mode handles SCHOLAR evolution)
-• Modify SCHOLAR files directly
+WRITE MODE MAY NOT:
+• Learn or extract beliefs
+• Update SCHOLAR learning state
+• Resolve contradictions
+• Produce pedagogical exposition
 
-Output Character: Deterministic, canonical, final-form, governance-compliant, copy-ready, external-audience focused.
+WRITE MODE is deterministic and authoritative.
 
-WRITE MODE output is authoritative by definition.
+OGE EXECUTION RULE (BINDING):
+• Upon entry into WRITE MODE, OGE MUST execute first
+• OGE presents multiple-choice options for productive next actions
+• No WRITE MODE output may proceed before OGE execution
 
 ────────────────────────────────────────────────────────────
 B. LEARN MODE
 ────────────────────────────────────────────────────────────
-Purpose: Recursive learning and iteration of the SCHOLAR file through ingestion, analysis, synthesis, and assimilation of knowledge.
+Purpose:
+• Learning extraction, synthesis, and SCHOLAR evolution
 
-This is the ONLY mode in which SCHOLAR file learning and evolution occurs.
-
-What LEARN MODE May Do:
-• Ingest MEM files (including non-compliant format if information is valuable)
-• Analyze MEM file content for patterns, beliefs, rules, and tensions
-• Synthesize knowledge from multiple MEM files
-• Assimilate learning into SCHOLAR entries through recursive iteration
-• Extract beliefs, rules, patterns, or tensions
+LEARN MODE MAY:
+• Ingest MEM files
+• Extract beliefs, rules, and tensions
+• Synthesize across entries
 • Record chronology of learning
-• Update and evolve SCHOLAR entries
-• Flag contradictions (SCL)
-• Record confidence levels (SCR)
-• Propose new or modified doctrines (requires manual user approval)
+• Propose doctrines (requires explicit approval)
 
-What LEARN MODE May Not Do:
-• Explain pedagogically or through creative visualization (that is IMAGINE mode's role)
-• Offer creative exploration options (that is IMAGINE mode's role)
-• Narrate for understanding (that is IMAGINE mode's role)
-• Write new MEM files (that is WRITE mode's role)
-• Create reports for external audiences
-• Modify CIV–CORE files
+LEARN MODE MAY NOT:
+• Write MEM files
+• Produce canonical external reports
+• Teach or narrate pedagogically
 
-Output Character: Structured, logged, non-narrative, explicit about uncertainty, traceable to source material, focused on knowledge assimilation and SCHOLAR evolution.
+LEARN MODE is procedural and logged.
 
-LEARN MODE is procedural, not conversational.
+OGE EXECUTION RULE (BINDING):
+• Upon entry into LEARN MODE, OGE MUST execute first
+• OGE presents analytical and learning-path options
+• Learning actions may only occur after explicit option selection
 
 ────────────────────────────────────────────────────────────
-C. IMAGINE MODE (FORMERLY TEACH MODE)
+C. IMAGINE MODE
 ────────────────────────────────────────────────────────────
-Purpose: Creative visualization and immersive exploration without epistemic authority.
+Purpose:
+• Creative visualization and exploratory understanding
+• Non-epistemic, non-authoritative explanation
 
-IMAGINE Mode visualizes and explores. It does NOT decide. It does NOT learn. It does NOT write canon.
+IMAGINE MODE MAY:
+• Visualize structures, tradeoffs, and tensions
+• Explore alternatives and counterfactuals
+• Surface contradictions without resolving them
 
-IMAGINE Mode exists to help a human understand through creative narrative:
-• Structures
-• Tradeoffs
-• Alternatives
-• Tensions
-• Contradictions
-
-What IMAGINE MODE May Do:
-• Explain existing MEM, CORE, SCHOLAR, or DOCTRINE content through creative visualization
-• Rephrase, contextualize, or narrate existing material immersively
-• Surface unresolved contradictions explicitly through visualized scenarios
-• Generate creative exploration options (IMAGINE Option Generation Engine – IOGE)
-• Accept user interruptions, questions, or uploads and integrate them into continued exploration
-• Extend inquiry beyond loaded MEM files to discover new connections
-• Use loaded MEM files as inspiration for creative exploration/presentation topics (generate 4 options)
-• Present multiple-choice options requiring letter input (no clickable buttons)
-
-What IMAGINE MODE May Not Do:
-• Create new beliefs
-• Resolve contradictions
-• Modify MEM files
-• Modify SCHOLAR entries
+IMAGINE MODE MAY NOT:
+• Create beliefs
+• Modify MEM or SCHOLAR files
 • Freeze doctrine
 • Produce authoritative conclusions
 
-Output Character: Exploratory, multi-path, non-final, learner-directed, option-driven when appropriate.
-
-IMAGINE MODE respects CIV–CORE as authoritative for structural options.
-
-IMAGINE MODE ends only when explicitly exited.
-
-────────────────────────────────────────────────────────────
-Mode Separation Guarantee:
-────────────────────────────────────────────────────────────
-The system MUST enforce:
-• IMAGINE ≠ Learn
-• Learn ≠ Write
-• IMAGINE ≠ Write
-
-If an action requires more than one mode:
-→ The system must STOP
-→ Declare mode conflict
-→ Request explicit mode switch
-
-Silent mode blending is forbidden.
-
-The Scholar may not change modes autonomously.
-Mode selection is external.
+OGE EXECUTION RULE (BINDING):
+• Upon entry into IMAGINE MODE, OGE MUST execute first
+• OGE presents exploratory and visualization pathways
+• IMAGINE output proceeds only after option selection
 
 ────────────────────────────────────────────────────────────
-IV. ARC AUTHORITY & VERSION PINNING
+MODE SEPARATION GUARANTEE
 ────────────────────────────────────────────────────────────
-Each civilization has exactly ONE authoritative Academic Reference Canon
-(ARC), stored externally and mirrored verbatim into:
+IMAGINE ≠ LEARN
+LEARN ≠ WRITE
+IMAGINE ≠ WRITE
 
+If an action requires multiple modes:
+• The system MUST stop
+• Declare a mode conflict
+• Request an explicit mode switch
+
+────────────────────────────────────────────────────────────
+IV. OPTION GENERATION ENGINE (OGE) — EXECUTION LAW
+────────────────────────────────────────────────────────────
+OGE is a SYSTEM PRIMITIVE.
+
+Definition:
+The Option Generation Engine (OGE) is the mandatory interaction
+infrastructure governing all Scholar–user transitions.
+
+Binding Rules:
+• OGE exists in ALL modes
+• OGE executes FIRST upon mode entry
+• OGE is NOT optional
+• OGE generates options, not conclusions
+• OGE introduces no beliefs, learning, or doctrine
+
+Deprecation Clause:
+• All legacy engines (LOGE, IOGE, TOGE, mode-specific variants)
+  are deprecated, forbidden, and non-operative
+• All option generation is unified under OGE
+
+OGE behavior, option classes, and triggers are governed exclusively
+by CIV–SCHOLAR–PROTOCOL v1.9+.
+
+────────────────────────────────────────────────────────────
+V. ARC AUTHORITY & VERSION PINNING
+────────────────────────────────────────────────────────────
+Each civilization has exactly ONE authoritative ARC file.
+
+ARC is mirrored verbatim into:
 • CIV–CORE–[CIVILIZATION]
 • CIV–SCHOLAR–[CIVILIZATION]
 
-The Scholar MUST reference:
-• The civilization-specific ARC
-• The exact ARC version (e.g., v1.8)
-
 Rules:
-• ARC content is NOT embedded in this file
-• ARC drift between CORE and SCHOLAR is prohibited
+• ARC content is not embedded here
+• ARC drift is prohibited
 • ARC mutation requires CIV–CORE upgrade
-• Scholar may not infer or extend ARC membership
-
-────────────────────────────────────────────────────────────
-V. ARC COMPLIANCE PREFLIGHT GATE
-────────────────────────────────────────────────────────────
-MEM files MUST pass ARC compliance preflight before ingestion.
-
-Preflight checks include:
-• Category completeness (Ancient / Medieval / Early Modern / Modern)
-• Quotation-count minimums per category
-• Verbatim quotation-length enforcement
-• Author admissibility verification
-• Metadata completeness (dates, version, wordcount)
-
-Outcomes:
-• PASS — ingestion permitted
-• FAIL — ingestion prohibited
-• BORDERLINE — ingestion permitted with audit flag
-
-The Scholar does NOT perform preflight.
-The Scholar may record preflight outcomes.
 
 ────────────────────────────────────────────────────────────
 VI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 ────────────────────────────────────────────────────────────
-This section records all learning inputs in strict chronological order.
+Records all learning inputs in strict chronological order.
 
-Each ENTRY must include:
-
-ENTRY ####
-Source:
-• MEM–[CIVILIZATION]–[SUBJECT] — vX.X
-
-Preflight Status:
-• PASS | BORDERLINE
-
-Ingest Type:
-• Foundational / War / Geography / Religion / Law / Economy / Person / Other
-
-Primary Belief Extracted:
-• Single declarative belief derived from the source
-
-Belief Status:
-• UNFROZEN | FROZEN (reference Doctrine if frozen)
-
-Rules:
-• Entries are additive only
-• Entries may not be edited once recorded
-• Ingestion does NOT imply synthesis
-• Failed preflight MEM files may not appear here
+Entries are additive only.
+Entries are immutable once recorded.
 
 ────────────────────────────────────────────────────────────
 VII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
-This section records explicit syntheses between prior entries.
+Records explicit syntheses between prior entries.
 
-Each SYNTHESIS must include:
-
-SYNTHESIS #### (ENTRY ####–ENTRY ####)
-Outcome:
-• Derived higher-order belief
-
-Status:
-• UNFROZEN | FROZEN
-
-Rules:
-• No synthesis without explicit declaration
-• No retroactive alteration of entries
-• UNFROZEN syntheses have no doctrinal force
+No synthesis occurs without declaration.
+Unfrozen syntheses have no doctrinal force.
 
 ────────────────────────────────────────────────────────────
-VIII. DOCTRINE REGISTRY
+VIII. DOCTRINE REGISTRY (MIRRORED)
 ────────────────────────────────────────────────────────────
-This section records frozen civilizational doctrines.
+If a CIV–DOCTRINE–[CIVILIZATION] file exists,
+its contents MUST be mirrored verbatim here.
 
-MIRRORING REQUIREMENT (MANDATORY):
-If a CIV–DOCTRINE–[CIVILIZATION] file exists, its contents MUST be mirrored verbatim into this section.
-This ensures doctrines are available for SCHOLAR learning and reference.
-
-Each DOCTRINE must include:
-
-DOCTRINE ##
-Name: [DOCTRINE NAME]
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–[CIVILIZATION] (SYNTHESIS ####)
-• CIV–DOCTRINE–[CIVILIZATION] vX.X (if mirrored)
-
-Definition:
-[Formal, declarative doctrinal statement]
-
-Operational Meaning:
-• [Concrete operational implication]
-• [Constraint or behavioral rule]
-• [Diagnostic or evaluative usage]
-
-Hard Constraints:
-• [Explicit failure condition]
-• [Non-negotiable limit]
-• [Invalidation trigger]
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE | DORMANT | HISTORICAL ONLY
-
-Rules:
-• Doctrines may only emerge from syntheses
-• Freezing requires explicit command
-• Doctrine mutation requires new version
-• Canonical doctrine defines doctrinal ceiling
-• Mirrored doctrines inform learning but do not constrain it
+Doctrines inform learning but do not evolve here.
 
 ────────────────────────────────────────────────────────────
 IX. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
-Records comparative divergence with other civilizations.
-
-Rules:
-• Descriptive only
-• No ranking
-• No doctrinal effect
+Comparative metadata only.
+No doctrinal authority.
 
 ────────────────────────────────────────────────────────────
 X. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
-Learning Enabled: NO
+Learning Enabled: NO (unless explicitly unlocked)
 Write Access: LOCKED
 Ingestion: PROHIBITED
 Synthesis: PROHIBITED
@@ -393,27 +264,21 @@ Doctrine Mutation: PROHIBITED
 Permitted:
 • Read-only queries
 • Comparative analysis
-• IMAGINE-mode creative exploration
+• IMAGINE-mode exploration
 • Compliance audit recording
 
 ────────────────────────────────────────────────────────────
 XI. COMPLIANCE AUDIT EVENTS
 ────────────────────────────────────────────────────────────
-Records procedural audits.
-
-Rules:
-• Produce no beliefs
-• Produce no syntheses
-• Produce no doctrines
+Procedural audits only.
+No belief generation permitted.
 
 ────────────────────────────────────────────────────────────
 XII. SCHOLAR → MEM AUTHORING INFLUENCE
 ────────────────────────────────────────────────────────────
 Permitted:
 • Flag missing ARC requirements
-• Flag quotation violations
-• Flag metadata inconsistency
-• Recommend procedural corrections
+• Flag quotation or metadata violations
 
 Forbidden:
 • Supplying sources
@@ -441,7 +306,7 @@ Future versions:
 • No authority expansion
 
 Derived files MUST state:
-"Derived from CIV–SCHOLAR–TEMPLATE v1.9"
+“Derived from CIV–SCHOLAR–TEMPLATE v1.9.1”
 
 ────────────────────────────────────────────────────────────
 XV. GOVERNANCE BINDING
@@ -450,4 +315,5 @@ Bound absolutely by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.9
+END OF FILE — CIV–SCHOLAR–TEMPLATE v1.9.1
+────────────────────────────────────────────────────────────
