@@ -1,22 +1,23 @@
-MEM–RUSSIA–MUSCOVY — v1.1
+MEM–RUSSIA–MUSCOVY — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.0)
-Version: 1.1
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
+Status: ACTIVE · CANONICAL
+Version: 2.0
+Upgrade Type: MAJOR VERSION · STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 CANONICAL LOCK
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Muscovite Rus’ → Early Russian Empire
 Subject: Muscovy (Compression Core & Autocratic Seed State)
 Dates: c. 1300–1721 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Wordcount: ~2,480
 
 Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.0
 • ARC–RUSSIA (pinned)
+• RLL–RUSSIA (0001, 0003, 0005 active)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -54,6 +55,8 @@ It **radicalizes it under survival pressure**.
 
 Survival requires adaptation, not revolt.
 
+(RLL-0001 enforced: corridor & coercive continuity over institutional break)
+
 ────────────────────────────────────────────────────────────
 III. CORRIDOR & COERCIVE LEGITIMACY FIRST
 ────────────────────────────────────────────────────────────
@@ -66,7 +69,7 @@ Core mechanisms:
 • Enforcement capacity delegated upward from tribute extraction
 • Gradual elimination of rival centers via compliance advantage
 
-Legitimacy sequence (critical):
+Legitimacy sequence (binding; RLL-0003):
 1. Coercive compliance
 2. Corridor dominance
 3. Elite dependency
@@ -142,7 +145,7 @@ Failure modes:
 • Famine and social collapse
 • Foreign intervention
 
-Critical distinction (RLL–0005):
+Critical distinction (RLL-0005):
 → Sacral legitimacy does NOT prevent succession collapse.
 → It DOES preserve civilizational identity through collapse.
 
@@ -241,5 +244,5 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MUSCOVY v1.1
+END OF FILE — MEM–RUSSIA–MUSCOVY v2.0
 ────────────────────────────────────────────────────────────
