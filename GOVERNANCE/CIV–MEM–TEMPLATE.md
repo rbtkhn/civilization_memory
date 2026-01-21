@@ -1,14 +1,32 @@
-CIV–MEM–TEMPLATE — v1.9
+CIV–MEM–TEMPLATE — v2.0
 Civilizational Memory Codex · Memory File Enforcement Template
 Canonical Standards · Source–Causality–Connectivity · ARC Preflight & Metadata Hardening Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v1.8
-Upgrade Type: ADDITIVE · ARC PREFLIGHT DELEGATION · WORDCOUNT VERIFICATION · TIER-AWARE ENFORCEMENT
+Supersedes: CIV–MEM–TEMPLATE v1.9
+Upgrade Type: COMPATIBILITY UPDATE · CIV–MEM–CORE v2.0 ALIGNMENT
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v1.8+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
+Compatibility: CIV–MEM–CORE v2.0+ · MEM-ONLY OPERATION SUPPORTED · CIV–SCHOLAR · CIV–GAME
 Last Update: January 2026
 Wordcount: ~3,650
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This version preserves ALL structure, authority, lock state, behavioral
+constraints, and analytical standards from CIV–MEM–TEMPLATE v1.9.
+
+v2.0 introduces COMPATIBILITY UPDATE only:
+
+• Compatibility requirement updated to CIV–MEM–CORE v2.0+
+• Aligns with CIV–MEM–CORE v2.0 (MERCOURIS Integration Edition)
+• No functional changes to MEM authoring requirements
+• No changes to ARC compliance rules
+• No changes to quotation requirements
+• No changes to structural requirements
+
+This is a version alignment update to reflect the major architectural
+milestone of CIV–MEM–CORE v2.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)
@@ -273,5 +291,5 @@ XIX. VERSIONING & CANONICAL LOCK
 • Canonical lock absolute
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v1.9
+END OF FILE — CIV–MEM–TEMPLATE v2.0
 ────────────────────────────────────────────────────────────
