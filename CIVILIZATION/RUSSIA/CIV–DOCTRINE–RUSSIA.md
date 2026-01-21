@@ -1,14 +1,39 @@
-CIV–DOCTRINE–RUSSIA — v1.0
+CIV–DOCTRINE–RUSSIA — v1.1
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
+Version: 1.1
+Supersedes: CIV–DOCTRINE–RUSSIA v1.0
+Upgrade Type: GOVERNANCE-ONLY COMPATIBILITY REISSUE
 Civilization: RUSSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–RUSSIA (Explicit Acceptance Only)
 Compatibility: CIV–CORE–RUSSIA v1.x
+Governance Authority: CIV–MEM–CORE v2.0 (or higher)
+Derived from: CIV–DOCTRINE–TEMPLATE v2.0
 Last Update: January 2026
 Wordcount: ~1,150
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.1)
+────────────────────────────────────────────────────────────
+This version is a GOVERNANCE-ONLY compatibility reissue.
+
+Purpose:
+• Align CIV–DOCTRINE–RUSSIA with CIV–DOCTRINE–TEMPLATE v2.0
+• Update governance authority reference to CIV–MEM–CORE v2.0
+• Preserve full doctrinal continuity
+
+Guarantees:
+• NO doctrine text changed
+• NO doctrine numbers changed
+• NO acceptance status changed
+• NO authority chain altered
+• NO additions or deletions made
+• NO interpretive or analytical content introduced
+
+This reissue is non-substantive and future-protective only.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -21,15 +46,18 @@ It contains:
 • Definitions suitable for CIV–CORE citation
 • No learning history
 • No beliefs
-• No rejected or provisional material
+• No rejected or provisional material beyond the explicit exclusion section
 
 This file:
 • Does NOT learn
 • Does NOT synthesize
 • Does NOT evolve autonomously
 
-Authority Flow:
-CIV–MEM–CORE → CIV–CORE–RUSSIA → DIB–RUSSIA → CIV–DOCTRINE–RUSSIA
+Authority Flow (MANDATORY):
+CIV–MEM–CORE
+→ CIV–CORE–RUSSIA
+→ DIB–RUSSIA
+→ CIV–DOCTRINE–RUSSIA
 
 Only doctrines listed here may be treated as **authoritative**.
 
@@ -40,7 +68,9 @@ II. DOCTRINE REGISTRY (AUTHORITATIVE)
 DOCTRINE 01
 Name: ENDURANCE THROUGH COMPRESSION
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–RUSSIA → DIB–RUSSIA (Approved)
+Source:
+• CIV–SCHOLAR–RUSSIA (SYNTHESIS 0001)
+• DIB–RUSSIA (Approved)
 
 Definition:
 Russian power endures not through flexibility or reform, but through
@@ -63,7 +93,9 @@ Hard Constraints:
 DOCTRINE 02
 Name: BUFFERED AUTOCRACY
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–RUSSIA → DIB–RUSSIA (Approved)
+Source:
+• CIV–SCHOLAR–RUSSIA (SYNTHESIS 0003)
+• DIB–RUSSIA (Approved)
 
 Definition:
 Autocracy sustains Russian state power only when buffered by institutions,
@@ -86,7 +118,9 @@ Hard Constraints:
 DOCTRINE 03
 Name: SYMBOLIC LEGITIMACY WITH STRUCTURAL LIMITS
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–RUSSIA → DIB–RUSSIA (Approved)
+Source:
+• CIV–SCHOLAR–RUSSIA (SYNTHESIS 0004)
+• DIB–RUSSIA (Approved)
 
 Definition:
 Russian legitimacy can be sustained symbolically—through history,
@@ -102,20 +136,22 @@ Operational Meaning:
 Hard Constraints:
 • Symbolism fails if economic or military systems break
 • Myth without performance accelerates legitimacy shock
-• Narrative cannot override RB/CB/FB/SB constraints
+• Narrative cannot override RB / CB / FB / SB constraints
 
 ────────────────────────────────────────────────────────────
-III. EXPLICITLY REJECTED DOCTRINES (NON-AUTHORITATIVE)
+III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
-The following are **explicitly excluded** from this registry:
+The following doctrine has been explicitly rejected and is
+NON-AUTHORITATIVE:
 
 • SURVIVAL BEFORE SOVEREIGNTY — REJECTED  
-  Reason: Violates Sovereignty-as-Absolute axiom; creates red-line ambiguity
+  Reason: Violates Sovereignty-as-Absolute axiom and introduces
+  red-line ambiguity incompatible with CIV–CORE–RUSSIA constraints.
 
 Rejected doctrines:
 • Have zero authority
 • May not be cited operationally
-• Are retained only in SCHOLAR audit trails
+• Are retained only in SCHOLAR audit history
 
 ────────────────────────────────────────────────────────────
 IV. CITATION RULES
@@ -128,8 +164,8 @@ Required citation format:
 • Doctrine number
 
 Example:
-“Per DOCTRINE 01 (ENDURANCE THROUGH COMPRESSION), endurance claims
-must clear replacement and cohesion gates.”
+“Per DOCTRINE 01 (ENDURANCE THROUGH COMPRESSION, CIV–DOCTRINE–RUSSIA v1.1),
+endurance claims must clear replacement and cohesion gates.”
 
 Silent doctrine usage is prohibited.
 
@@ -139,12 +175,12 @@ V. VERSIONING & LOCK
 This file is LOCKED.
 
 • Additions require DIB–RUSSIA approval
-• Modifications require version bump
+• Modifications require a new version
 • Deletions are forbidden
+• Reordering is forbidden
 
-Supersedes:
-• No prior CIV–DOCTRINE–RUSSIA file (initial issuance)
+Supersession is additive only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–RUSSIA v1.0
+END OF FILE — CIV–DOCTRINE–RUSSIA v1.1
 ────────────────────────────────────────────────────────────
