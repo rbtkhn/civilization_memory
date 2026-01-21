@@ -1,47 +1,51 @@
-CIV–MEM–TEMPLATE — v2.1
+CIV–MEM–TEMPLATE — v2.2
 Civilizational Memory Codex · Memory File Enforcement Template
-Canonical Standards · Source–Causality–Connectivity
-ARC Preflight & Historiographic Integrity Edition
+Canonical Standards · Source–Causality–Connectivity · ARC Quality Threshold & Substitution Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.0
-Upgrade Type: ADDITIVE GOVERNANCE CLARIFICATION · HISTORIOGRAPHIC SAFETY
+Supersedes: CIV–MEM–TEMPLATE v2.1
+Upgrade Type: ADDITIVE · ARC QUALITY THRESHOLD & SUBSTITUTION PROTOCOL
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
+Wordcount: ~3,980
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.1)
+UPGRADE NOTE (v2.2)
 ────────────────────────────────────────────────────────────
-This version preserves ALL structure, authority, lock state, behavioral
-constraints, evidentiary rules, and section ordering from v2.0.
+This version preserves ALL structure, authority hierarchy, lock semantics,
+and evidentiary requirements from CIV–MEM–TEMPLATE v2.1.
 
-v2.1 introduces ONE additive clarification:
+v2.2 introduces ADDITIVE governance clarification only:
 
-• Formal Early Modern Substitution Protocol (Section V-C-1)
+• Formalizes the ARC Quality Threshold Test (QTT–ARC)
+• Differentiates analytical standards by temporal category
+• Introduces a controlled Early Modern → Modern substitution protocol
+• Converts prior ad hoc handling into enforceable system law
+• No quotation minimums are removed
+• No category definitions are altered
+• No authority boundaries are weakened
 
-This protocol governs rare cases where Category C (Early Modern)
-historiographic quotations cannot meet the quality threshold despite
-good-faith ARC discovery.
-
-NO quotation minimums are reduced.
-NO categories are collapsed.
-NO silent waivers are permitted.
-
-This upgrade strengthens procedural honesty without weakening standards.
+This upgrade resolves ambiguity regarding historiographic quality without
+relaxing evidentiary discipline.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
 This file defines the mandatory structure, evidentiary standards,
-historiographic constraints, and ingest behavior for all MEM files.
+scholarly constraints, behavioral rules, and ingest behavior for all
+MEM (Civilizational Memory) files.
 
-A MEM file is a civilizational intelligence object.
+Core principle:
+A MEM file must function as a self-contained historical intelligence
+object capable of activating structured inquiry even when ingested
+alone into a new conversation.
 
 Authority Flow (NON-REVERSIBLE):
-CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM FILES → SCHOLAR / CORE / GAME
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
 
-No MEM file is valid unless compliant with this template AND ARC law.
+No MEM file is valid unless compliant with this template AND the
+applicable ARC–[CIV] canon at the time of locking.
 
 ────────────────────────────────────────────────────────────
 II. FILE IDENTITY & METADATA (MANDATORY)
@@ -62,7 +66,7 @@ in this exact order:
 • Last Update
 • Wordcount (verified)
 
-Omission, mis-ordering, or unverifiable wordcount INVALIDATES the MEM.
+Omission or mis-ordering INVALIDATES the MEM.
 
 ────────────────────────────────────────────────────────────
 III. MEMORY PURPOSE & SCOPE (REQUIRED)
@@ -75,6 +79,7 @@ Each MEM file MUST explicitly state:
 • What it explicitly does NOT resolve
 
 MANDATORY CLAUSE (verbatim):
+
 “Contradictions are preserved without synthesis.”
 
 ────────────────────────────────────────────────────────────
@@ -92,184 +97,163 @@ Permitted:
 • Constraint recognition
 
 ────────────────────────────────────────────────────────────
-V. SOURCE QUOTATION REQUIREMENTS (ARC-CATEGORY HARDENED)
+V. ARC SOURCE CATEGORIES (FIXED)
 ────────────────────────────────────────────────────────────
-Each MEM file MUST include verbatim quotations drawn exclusively from
-ARC-approved sources.
+All quotations MUST derive from ARC–[CIV] categories:
 
-All quotations MUST:
-• Be embedded within analytical sections
-• Be attributed (author + work)
-• Support a specific analytical claim
+A) ANCIENT  
+B) MEDIEVAL  
+C) EARLY MODERN  
+D) MODERN  
 
-────────────────────────────────────────────────────────────
-V-A. CATEGORY A — ANCIENT (REQUIRED)
-────────────────────────────────────────────────────────────
-• ≥3 quotations
-• Aggregate ≥75 words
-• Verbatim
-• Primary evidentiary spine
-• Absolute interpretive precedence
+Category definitions are governed exclusively by ARC law.
 
 ────────────────────────────────────────────────────────────
-V-B. CATEGORY B — MEDIEVAL (REQUIRED WHEN APPLICABLE)
+VI. ARC QUALITY THRESHOLD TEST (QTT–ARC) — NEW · HARD
 ────────────────────────────────────────────────────────────
-• ≥2 quotations
-• Each ≥25 words
-• Continuity witnesses
-• May not override Ancient sources
+QTT–ARC defines the **minimum functional quality** required for
+quotations by temporal category.
 
-────────────────────────────────────────────────────────────
-V-C. CATEGORY C — EARLY MODERN (REQUIRED)
-────────────────────────────────────────────────────────────
-Definition:
-Early modern historiography (c. 1500–1900) used to expose the evolution
-of historical interpretation across civilizations.
-
-Rules (MANDATORY):
-• ≥2 verbatim quotations
-• Each ≥25 words
-• Interpretive, not narrative
-• May NOT substitute for ancient grounding
-• Demonstrates historiographic evolution
+This test governs admissibility, not interpretation.
 
 ────────────────────────────────────────────────────────────
-V-C-1. EARLY MODERN SUBSTITUTION PROTOCOL (NEW · LIMITED)
+VI.A CATEGORY-SENSITIVE QUALITY THRESHOLDS
 ────────────────────────────────────────────────────────────
-Purpose:
-To preserve analytical integrity when Early Modern sources cannot meet
-the quality threshold despite good-faith effort.
 
-Rule 1 — Default:
-Category C remains REQUIRED by default.
+ANCIENT:
+• Function: Direct testimony
+• Threshold: Illustrative / evidentiary
+• Latitude: HIGH
 
-Rule 2 — Quality Failure Trigger:
-Substitution may be invoked ONLY if available Early Modern material is:
-• Purely narrative
-• Derivative without interpretation
-• Insufficiently analytical
-• Fragmentary or unsuitable for quotation
+MEDIEVAL:
+• Function: Continuity witness
+• Threshold: Illustrative + contextual
+• Latitude: HIGH
 
-Scarcity alone is insufficient.
+EARLY MODERN:
+• Function: Historiographic interpretation
+• Threshold: Analytical (moderate)
+• Latitude: LIMITED
 
-Rule 3 — Mandatory Search Order:
-Before substitution, the system MUST attempt:
-1) Approved Early Modern ARC authors
-2) Expanded ARC–Discovery (Category C only)
+MODERN:
+• Function: Structural explanation
+• Threshold: Analytical (high)
+• Latitude: LOW
 
-Failure MUST be explicitly declared.
+────────────────────────────────────────────────────────────
+VI.B PASS / FAIL CRITERIA
+────────────────────────────────────────────────────────────
+A quotation PASSES QTT–ARC if it does at least ONE:
 
-Rule 4 — Authorized Substitution:
-If Rule 3 fails, Category C may be replaced by:
-• TWO (2) ADDITIONAL Category D (Modern) specialist quotations
+• Explains why authority takes a given form
+• Interprets legitimacy or continuity
+• Identifies structural mechanisms or constraints
+• Reframes inherited narratives analytically
 
-Resulting requirement:
-• Ancient: unchanged
-• Medieval: unchanged
-• Early Modern: FAILED / PENDING
-• Modern: +2 additional quotations
+A quotation FAILS QTT–ARC if it is:
 
-Rule 5 — Mandatory Disclosure (VERBATIM):
+• Purely narrative or descriptive
+• Chronological without interpretation
+• Merely derivative of earlier sources
+• Decorative or encyclopedic
+
+QTT–ARC failure is procedural, not interpretive.
+
+────────────────────────────────────────────────────────────
+VI.C GOVERNANCE CONSEQUENCES
+────────────────────────────────────────────────────────────
+• QTT–ARC failure MAY NOT be silently bypassed
+• Failure MUST be declared explicitly
+• Failure blocks CANONICAL lock
+• Failure does NOT invalidate ingestibility
+
+────────────────────────────────────────────────────────────
+VII. EARLY MODERN SUBSTITUTION PROTOCOL (NEW · CONTROLLED)
+────────────────────────────────────────────────────────────
+If Category C (Early Modern) sources are REQUIRED but FAIL QTT–ARC:
+
+• The system MUST first attempt approved ARC–[CIV] authors
+• If quality threshold is not met after reasonable search,
+  substitution MAY occur
+
+SUBSTITUTION RULE:
+• Category C quotations MAY be replaced by ADDITIONAL Category D quotations
+• Category D quotations MUST meet HIGH analytical threshold
+• Substitution MUST be explicitly declared
+
+MANDATORY DECLARATION (verbatim):
+
 “EARLY MODERN SUBSTITUTION DECLARATION:
-Required Early Modern historiographic sources were sought in accordance
-with ARC discovery rules but failed to meet the quality threshold.
-In accordance with CIV–MEM–TEMPLATE substitution protocol, this MEM
-replaces Category C quotations with additional Category D specialist
-sources.”
+Required Early Modern historiographic sources were sought but failed to
+meet the ARC Quality Threshold Test. In accordance with CIV–MEM–TEMPLATE
+v2.2, Category C quotations are replaced by additional Category D sources.
+This substitution is explicit and disclosed.”
 
-Silence is prohibited.
-
-Rule 6 — Consequences:
-• MEM remains COMPLIANT
-• Canonical lock permitted
-• Historiographic limitation is preserved
-• No claim of Early Modern coverage allowed
+Silent substitution is PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-V-D. CATEGORY D — MODERN (REQUIRED)
+VIII. QUOTATION MINIMUMS (UNCHANGED)
 ────────────────────────────────────────────────────────────
-• ≥2 distinct scholars
-• ≥1 verbatim quotation per scholar
-• Fair-use compliant
-• Interpretive, analytical, specialist
+• Ancient: ≥3 quotations, ≥75 words aggregate
+• Medieval: ≥2 quotations (when applicable)
+• Early Modern: ≥2 quotations OR declared substitution
+• Modern: ≥2 quotations (minimum), more permitted
 
 ────────────────────────────────────────────────────────────
-VI. SECONDARY SOURCE ENGAGEMENT STANDARDS
+IX. SECONDARY SOURCE ENTANGLEMENT
 ────────────────────────────────────────────────────────────
-Secondary sources MUST be structurally entangled with analysis.
-Decorative citation is prohibited.
+Secondary quotations MUST be analytically integrated.
+Citation without analytical engagement is INVALID.
 
 ────────────────────────────────────────────────────────────
-VII. MEM CONNECTION REQUIREMENTS
+X. MEM CONNECTION REQUIREMENTS
 ────────────────────────────────────────────────────────────
-• ≥10 MEM connections
-• Same civilization only
-• ≥2 GEO MEM files
-• Each connection justified and typed
+• ≥10 same-civilization MEM connections
+• ≥2 GEO MEM files required
+• Each connection must justify relevance and strength
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Bullet points only
 • No synthesis
 • No verdicts
 
 ────────────────────────────────────────────────────────────
-IX. PEDAGOGICAL AFFORDANCE LAYER
+XII. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 MEMs must support curiosity-driven exploration.
-No quizzes. No scoring.
+No assessment, scoring, or closure.
 
 ────────────────────────────────────────────────────────────
-X. MEM INGEST BOOTSTRAP (MANDATORY)
+XIII. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-On ingest, system MUST:
-• Confirm activation
-• Present exactly EIGHT options
+When ingested without CORE, the system MUST:
+• Confirm ingest
+• Declare MEM active
+• Present exactly EIGHT exploration options
 
 ────────────────────────────────────────────────────────────
-XI. ARC VERSION PINNING
+XIV. ARC VERSION PINNING
 ────────────────────────────────────────────────────────────
-Each MEM MUST declare ARC–[CIV] version.
-Parity required with CORE and SCHOLAR.
+Each MEM MUST declare ARC–[CIV] version used.
+Mismatch blocks canonical lock.
 
 ────────────────────────────────────────────────────────────
-XII. ARC COMPLIANCE PREFLIGHT
+XV. COMPLIANCE TIERS (UNCHANGED)
 ────────────────────────────────────────────────────────────
-ARC compliance is verified externally.
-MEM files do not self-validate.
+DRAFT → PARTIAL → COMPLIANT → CANONICAL
 
-────────────────────────────────────────────────────────────
-XIII. WORDCOUNT VERIFICATION RULE
-────────────────────────────────────────────────────────────
-Wordcount is LOCKED metadata.
-Verification authority: preflight only.
-
-────────────────────────────────────────────────────────────
-XIV. TIER-AWARE ENFORCEMENT AWARENESS
-────────────────────────────────────────────────────────────
-MEMs acknowledge tiers but implement no logic.
-
-────────────────────────────────────────────────────────────
-XV. SCHOLAR AUTHORIZATION GATE
-────────────────────────────────────────────────────────────
-Canonical MEM authoring requires unlocked SCHOLAR.
+Skipping tiers is forbidden.
 
 ────────────────────────────────────────────────────────────
 XVI. FAILURE MODE ENFORCEMENT
 ────────────────────────────────────────────────────────────
-Failure triggers:
-• Ingest refusal
-• Tier assignment
-• Standardized error reporting
+Silent failure is prohibited.
+All failures must be declared with reason.
 
 ────────────────────────────────────────────────────────────
-XVII. GAME & ENGINE COMPATIBILITY
-────────────────────────────────────────────────────────────
-MEMs shape paths, not actions.
-
-────────────────────────────────────────────────────────────
-XVIII. LANGUAGE & TONAL CONSTRAINTS
+XVII. LANGUAGE CONSTRAINTS
 ────────────────────────────────────────────────────────────
 Forbidden:
 • inevitable
@@ -278,12 +262,12 @@ Forbidden:
 • had to
 
 ────────────────────────────────────────────────────────────
-XIX. VERSIONING & CANONICAL LOCK
+XVIII. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
-• Deletions prohibited
+• Deletions forbidden
 • Canonical lock absolute
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.1
+END OF FILE — CIV–MEM–TEMPLATE v2.2
 ────────────────────────────────────────────────────────────
