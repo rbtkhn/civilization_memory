@@ -1,184 +1,273 @@
-Title: MEM–RUSSIA–MONGOL–EMPIRE
-Status: ACTIVE
-Version: 1.0
+MEM–RUSSIA–MONGOL–EMPIRE — v1.1
+Civilizational Memory Codex · Memory File
+Repository: https://github.com/rbtkhn/civilization_memory
+
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.0)
+Version: 1.1
+Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
+Regime / Mode: External Sovereignty · Tributary Compression
 Subject: Mongol Empire / Golden Horde (Монгольская империя / Золотая Орда)
-Dates: c. 1223–1480 (Rus’-facing arc)
+Dates: c. 1223–1480 AD (Rus’-facing arc)
 Class: MEM (Memory)
-Last Update: December 2025
+Last Update: January 2026
+Wordcount: ~2,300
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.0
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Mongol Empire as a **formative domination shock**
-within Russian civilizational memory: a prolonged encounter with
-**external sovereignty, tribute extraction, and asymmetric power**
-that reshaped Russian political culture, statecraft, and survival logic.
+This file preserves the Mongol Empire as a **formative domination
+shock** within Russian civilizational memory: a prolonged condition of
+**external sovereignty, tribute extraction, and enforced asymmetry**
+that compressed Rus’ political forms and re-sequenced legitimacy,
+authority, and survival logic.
 
-The Mongol Empire is remembered not as a transient invasion,
-but as a **structural condition** under which Russian political forms
-were compressed, adapted, and later weaponized.
+The Mongol period is remembered not as a transient invasion, but as a
+**structural condition** under which Russian governance reflexes were
+hardened, selectively adapted, and later internalized by Muscovy.
+
+This file explicitly does NOT resolve:
+• whether Mongol domination “benefited” Russian state formation
+• whether alternative resistance paths were viable
+• whether Muscovite inheritance was imitation or convergence
+
+Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. FIRST CONTACT & CATASTROPHIC ENTRY
 ────────────────────────────────────────────────────────────
-Initial Mongol contact was sudden, violent, and incomprehensible to Rus’
-principalities.
+Initial Mongol contact was sudden, violent, and systemically disruptive.
 
-Key moments:
-• Battle of the Kalka River (1223)  
-• Batu Khan’s campaigns (1237–1240)  
-• Destruction of Kiev (1240)  
+Key shock events:
+• Battle of the Kalka River (1223)
+• Batu Khan’s campaigns (1237–1240)
+• Destruction of Kiev (1240)
 
-Memory emphasizes shock:
-• Fragmented principalities  
-• Absence of coordinated defense  
-• Rapid annihilation of urban centers  
+Structural conditions at impact:
+• Fragmented principalities
+• Absence of unified command
+• Trade-centered, lightly fortified urban cores
 
-Contemporary chroniclers framed the invasion as existential:
+Chronicler memory encodes existential rupture:
 > “Не бысть такова беда от начала мира.”
-(Never had there been such calamity since the beginning of the world.)
+> (“Never had there been such calamity since the beginning of the world.”)
+
+The invasion exposes the limits of plural, trade-based sovereignty under
+steppe-scale coercion.
 
 ────────────────────────────────────────────────────────────
-III. YOKE MEMORY (ОРДЫНСКОЕ ИГО)
+III. EXTERNAL SOVEREIGNTY, NOT OCCUPATION (THE YOKE)
 ────────────────────────────────────────────────────────────
-The Mongol period is remembered as the **“Tatar Yoke”**—a condition of
-subordination rather than occupation.
+Mongol rule is remembered as the **“Tatar Yoke”**—a condition of
+subordination without replacement.
 
-Core features:
-• Tribute (выход) extraction  
-• Census and taxation oversight  
-• Requirement of khan’s patent (ярлык) for princely legitimacy  
-• Limited direct administration  
+Core mechanisms:
+• Tribute extraction (выход)
+• Census and fiscal oversight
+• Khan’s patent (ярлык) as legitimacy gate
+• Episodic punitive expeditions
 
-Mongol power was **remote but absolute**.
+Critical distinction:
+→ Sovereignty is external; governance remains local.
 
-Political axiom:
+Political axiom preserved in memory:
 > “Князь без ярлыка — не князь.”
-(A prince without a khan’s charter is no prince.)
+> (“A prince without a khan’s charter is no prince.”)
+
+Legitimacy is detached from lineage and reattached to compliance.
 
 ────────────────────────────────────────────────────────────
-IV. INDIRECT RULE & ADAPTIVE SURVIVAL
+IV. INDIRECT RULE & ADAPTIVE COMPLIANCE
 ────────────────────────────────────────────────────────────
-Mongol governance relied on **delegated authority**, not replacement.
+Mongol governance relies on **delegated authority**, not assimilation.
 
 Key dynamics:
-• Local princes retained rule under Horde approval  
-• Church institutions preserved and often protected  
-• Punitive expeditions enforced compliance episodically  
+• Local princes govern under Horde approval
+• Church institutions preserved and exempted
+• Violence applied selectively to enforce predictability
 
-Survival strategy:
-• Submission outward, consolidation inward  
-• Patience over revolt  
-• Selective collaboration  
+Survival strategy crystallized:
+• Submission outward
+• Consolidation inward
+• Patience over revolt
+• Collaboration over martyrdom
 
-Russian political culture learned **obedience without assimilation**.
+This produces a critical Russian inheritance:
+**obedience without cultural assimilation**.
 
 ────────────────────────────────────────────────────────────
-V. MOSCOW’S ASCENT UNDER MONGOL CONDITIONS
+V. CORRIDOR, TRIBUTE, & LEGITIMACY RE-SEQUENCING
 ────────────────────────────────────────────────────────────
-Moscow rose by mastering Horde logic rather than resisting it.
+The Mongol system reorders legitimacy sequencing for Rus’.
 
-Key factors:
-• Reliable tribute collection for the khans  
-• Suppression of rival principalities  
-• Alliance with Orthodox Church  
-• Geographic positioning away from steppe axes  
+New order imposed:
+1. Compliance precedes recognition
+2. Tribute precedes authority
+3. Corridor control precedes sovereignty
+4. Sacral or dynastic legitimacy becomes secondary
 
-Moscow internalized Mongol administrative techniques:
-• Census practices  
-• Fiscal centralization  
-• Coercive enforcement  
+Tribute collection becomes the primary political skill.
 
-Later maxim:
+Later maxim encodes this lesson:
 > “Кто собирает дань, тот собирает власть.”
-(He who gathers tribute gathers power.)
+> (“He who gathers tribute gathers power.”)
+
+This sequencing is later internalized by Muscovy.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY & POLITICAL LEARNING
+VI. MOSCOW’S ASCENT UNDER EXTERNAL SOVEREIGNTY
 ────────────────────────────────────────────────────────────
-Russian warfare and statecraft absorbed steppe lessons.
+Moscow rises by **mastering Horde logic**, not resisting it.
+
+Key advantages:
+• Reliable tribute delivery
+• Suppression of rival princes
+• Geographic insulation from steppe axes
+• Strategic alliance with Orthodox Church
+
+Inherited techniques:
+• Census practices
+• Fiscal centralization
+• Coercive enforcement
+• Hierarchical delegation
+
+Muscovy learns to rule **as the Horde ruled**, but inwardly.
+
+────────────────────────────────────────────────────────────
+VII. MILITARY & POLITICAL LEARNING
+────────────────────────────────────────────────────────────
+Russian statecraft absorbs steppe lessons selectively.
 
 Key inheritances:
-• Cavalry emphasis  
-• Strategic depth and withdrawal logic  
-• Ruthless suppression of internal rivals  
-• Centralized command authority  
+• Cavalry mobility and operational depth
+• Strategic withdrawal and delay
+• Ruthless suppression of internal rivals
+• Centralized command authority
 
-The Mongols taught Russia how **to survive asymmetry**.
+Resistance becomes:
+• Delayed
+• Calculated
+• Structural rather than symbolic
 
-Resistance became delayed, calculated, and structural.
-
-────────────────────────────────────────────────────────────
-VII. RELIGIOUS & MORAL MEMORY
-────────────────────────────────────────────────────────────
-The Orthodox Church framed Mongol rule as:
-• Divine punishment  
-• Trial of faith  
-• Call for endurance, not rebellion  
-
-Church survival under Horde tolerance reinforced:
-• Moral authority independent of sovereignty  
-• Fusion of faith and political patience  
-
-The memory is ambivalent:
-• Trauma without martyrdom narrative  
-• Endurance without sanctification of the conqueror  
+The Mongols teach Rus’ how to **survive asymmetry**, not how to rebel
+against it.
 
 ────────────────────────────────────────────────────────────
-VIII. LIBERATION & REVERSAL
+VIII. RELIGIOUS MEMORY & SACRAL ENDURANCE
 ────────────────────────────────────────────────────────────
-The end of Mongol dominance was gradual, not climactic.
+The Orthodox Church frames Mongol rule as:
+• Divine punishment
+• Trial of faith
+• Call for endurance, not uprising
+
+Horde tolerance of Orthodoxy reinforces:
+• Moral authority independent of sovereignty
+• Separation of faith from political control
+• Sacral continuity without autonomy
+
+Critical RLL–0005 distinction:
+→ Faith preserves identity, not sovereignty.
+→ Sacral endurance outlives political submission.
+
+────────────────────────────────────────────────────────────
+IX. DECLINE, REVERSAL, & INHERITANCE
+────────────────────────────────────────────────────────────
+The end of Mongol dominance is gradual and non-climactic.
 
 Key markers:
-• Decline of the Golden Horde  
-• Rise of Muscovy as regional hegemon  
-• Stand on the Ugra River (1480)  
+• Fragmentation of the Golden Horde
+• Ascendance of Muscovy
+• Stand on the Ugra River (1480)
 
 Liberation memory emphasizes:
-• Quiet reversal  
-• Attrition of Mongol authority  
-• Transfer of dominance, not emancipation  
+• Attrition over rebellion
+• Inheritance over emancipation
+• Transfer of dominance structures
 
-Russia did not destroy the system; it **outlived and inherited it**.
-
-────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
-────────────────────────────────────────────────────────────
-• External domination accelerated internal centralization.  
-• Tribute systems trained fiscal discipline and coercive governance.  
-• Patience, not revolt, became a survival doctrine.  
-• Mongol indirect rule modeled authoritarian delegation.  
-• Moscow’s empire-building logic mirrors Horde hierarchy, inverted.  
-• Russian sovereignty matured through endurance, not conquest alone.  
-
-Tension preserved without synthesis.
+Russia does not destroy the system.
+It **outlives and internalizes it**.
 
 ────────────────────────────────────────────────────────────
-X. OPTIONAL TAGS (INDEXING)
+X. COMPARATIVE CONSTRAINTS (NEGATIVE DEFINITION)
 ────────────────────────────────────────────────────────────
-• DOMINATION-TRAUMA  
-• INDIRECT-RULE  
-• TRIBUTE-STATE  
-• STEPPE-INHERITANCE  
-• PATIENT-CONSOLIDATION  
+The Mongol experience differs from:
+
+• Roman conquest — no citizenship absorption
+• Islamic expansion — no religious conversion mandate
+• Western feudal domination — no reciprocal obligation
+
+Mongol rule imposes:
+• Absolute sovereignty
+• Minimal administration
+• Maximum extraction
+
+These constraints shape Russian adaptation uniquely.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Primary:
-• Russian chronicles (Лаврентьевская, Ипатьевская летописи)  
-• Mongol yarlik documents  
-• Church records  
+Core Russia MEM links:
+• MEM–RUSSIA–KIEVAN–RUS — vulnerability exposed
+• MEM–RUSSIA–DYNASTY–RURIKID — legitimacy detached from lineage
+• MEM–RUSSIA–ALEXANDER–NEVSKY — survival logic under asymmetry
+• MEM–RUSSIA–MUSCOVY — internalization of Horde governance
+• MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance layer
+• MEM–RUSSIA–TIME–TROUBLES — succession fragility persists
+• MEM–RUSSIA–GEO–VOLGA — tribute corridor
+• MEM–RUSSIA–GEO–STEPPE — coercive exposure axis
 
-Secondary:
-• Charles Halperin  
-• Janet Martin  
-• Donald Ostrowski  
-• Timothy May  
-• Alexander Presnyakov  
+Connections enforce continuity without inevitability.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MONGOL–EMPIRE v1.0
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
+• External sovereignty re-sequenced Russian legitimacy.
+• Tribute trained fiscal and coercive governance.
+• Compliance outperformed revolt under asymmetry.
+• Sacral identity endured without political autonomy.
+• Muscovy inherits Mongol logic inwardly.
+• Sovereignty matures through endurance, not conquest alone.
 
+Contradictions preserved without synthesis.
+
+────────────────────────────────────────────────────────────
+XIII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports inquiry into:
+• External sovereignty vs occupation
+• Tribute as political training
+• Corridor-first legitimacy sequencing
+• Faith as identity preservation under domination
+• Why Mongol rule is remembered, not erased
+
+No evaluative conclusions imposed.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+“MEM INGEST CONFIRMED — MEM–RUSSIA–MONGOL–EMPIRE
+Status: ACTIVE
+Exploration options available.”
+
+MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
+1) Tribute and legitimacy sequencing
+2) Indirect rule vs occupation models
+3) Moscow’s rise under Horde logic
+4) Orthodoxy under external sovereignty
+5) Comparative empire: Mongols vs Rome
+6) Comparative survival: Rus’ vs Islamic polities
+7) Counterfactual: full-scale revolt
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.0)
+
+User must select ONE option.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–MONGOL–EMPIRE v1.1
+────────────────────────────────────────────────────────────
