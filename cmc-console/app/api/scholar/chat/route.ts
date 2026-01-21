@@ -57,7 +57,7 @@ async function getCIVMEMCOREPath(): Promise<string> {
 
 /**
  * Load CIV–MEM–CORE (global system law)
- * Must be loaded FIRST in every conversation (CIV–MEM–CORE v1.8 requirement)
+ * Must be loaded FIRST in every conversation (CIV–MEM–CORE v2.0 requirement)
  * Load Order: FIRST FILE IN EVERY NEW CONVERSATION
  * Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
  * 
@@ -282,7 +282,7 @@ MODE-SPECIFIC ADAPTATION (WRITE):
 
 /**
  * Build system prompt based on mode and SCHOLAR content
- * CIV–MEM–CORE is loaded FIRST as required by v1.8
+ * CIV–MEM–CORE is loaded FIRST as required by v2.0
  * MIND–PROFILE–MERCOURIS is loaded SECOND (always active, soft guidance)
  */
 async function buildSystemPrompt(
@@ -924,8 +924,8 @@ The preflight layer validates all of these automatically. Non-compliant files ar
   // ARC is ONLY relevant for WRITE mode (compliance required)
   // IMAGINE mode works with MEM files that are already ARC-compliant, so no need to enforce ARC again
   if (arcInfo && mode === 'WRITE') {
-    prompt += `ACADEMIC REFERENCE CANON (ARC) - SYSTEM LAW (CIV–MEM–CORE v1.8):\n${arcInfo}\n\n`;
-    prompt += `ARC GOVERNANCE RULES (CIV–MEM–CORE v1.8, Section XI-XIV):\n`;
+    prompt += `ACADEMIC REFERENCE CANON (ARC) - SYSTEM LAW (CIV–MEM–CORE v2.0):\n${arcInfo}\n\n`;
+    prompt += `ARC GOVERNANCE RULES (CIV–MEM–CORE v2.0, Section XI-XIV):\n`;
     prompt += `- ARC is a Codex-governed canonical object (first-class system governance)\n`;
     prompt += `- ARC replaces all notions of "academic registry" or ad hoc reference configurations\n`;
     prompt += `- ARC is category-locked and procedurally enforced\n`;
@@ -941,7 +941,7 @@ The preflight layer validates all of these automatically. Non-compliant files ar
     prompt += `- When creating MEM files, verify all cited authors are in the ARC list above\n`;
     prompt += `- MEM files you create will be used in IMAGINE mode, so ARC compliance ensures proper governance\n`;
     prompt += `- ARC noncompliance blocks doctrinal eligibility (Doctrinal Eligibility Filter - DEF)\n`;
-    prompt += `- Doctrine freezing is BLOCKED if ARC quotation requirements are violated (CIV–MEM–CORE v1.8, Section X)\n\n`;
+    prompt += `- Doctrine freezing is BLOCKED if ARC quotation requirements are violated (CIV–MEM–CORE v2.0, Section X)\n\n`;
   }
 
   // Add SCHOLAR file as cognitive lens (advisory only)
