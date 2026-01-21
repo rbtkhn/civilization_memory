@@ -1,192 +1,254 @@
-MEM–RUSSIA–IVAN–III — v1.1
+MEM–RUSSIA–IVAN–III — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Upgrade Type: PROCEDURAL + EVIDENTIARY COMPLIANCE (v1.6)
+Version: 2.0
+Upgrade Type: TEMPLATE v2.0 COMPLIANCE + RLL HARD-BINDING + LEGITIMACY SEQUENCING FORMALIZATION
 Civilization: RUSSIA (Русская цивилизация)
-Regime / Mode: MUSCOVITE / RURIKID
+Regime / Mode: MUSCOVITE / LATE RURIKID
 Subject: Ivan III “the Great” (Иван III Васильевич)
 Dates: 1440–1505 AD (rule: 1462–1505)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Wordcount: ~2,350
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.0
+• ARC–RUSSIA (pinned)
+• Recursive Learning Ledger (RLL–0001, RLL–0003, RLL–0005)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Ivan III as the **founder of sovereign Muscovy**:
-the ruler who terminated Mongol suzerainty, annihilated competing Rus’
-political centers, and converted inherited domination systems into an
-autonomous, centralizing state.
+This file preserves Ivan III as the **sovereignty converter** of Russian
+civilizational history: the ruler who absorbed Mongol domination systems,
+destroyed plural Rus’ sovereignty, and transformed inherited coercive
+machinery into an autonomous Muscovite autocracy.
 
-For Russian civilizational memory, Ivan III represents **sovereignty
-achieved through consolidation**, not rebellion, liberation myth, or
-popular revolt.
+Ivan III represents **sovereignty achieved through institutional
+takeover**, not rebellion, liberation myth, or popular consent.
+
+This file explicitly does NOT resolve:
+• whether Ivan III’s autocracy improved governance outcomes
+• whether plural Rus’ could have survived compression
+• whether sacral symbolism preceded or merely ratified power
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. INHERITING THE MONGOL SYSTEM
+II. INHERITED DOMINATION SYSTEM (RLL–0001)
 ────────────────────────────────────────────────────────────
-Ivan III does not overthrow Horde governance logic; he absorbs it.
+Ivan III does not overthrow Mongol governance logic; he **inherits and
+internalizes it**.
 
-Primary evidence confirms continuity rather than rupture. As the
-chronicle tradition records, Muscovy already functioned as tribute
-collector and administrative intermediary:
+Primary continuity:
+• Muscovy already functions as tribute collector
+• Census, extraction, and punitive norms pre-exist sovereignty
+• Legitimacy previously arbitrated via yarlyk system
+
+Contemporary record confirms continuity:
 
 “The Grand Prince collected the Horde’s tribute with strictness,
 knowing well the census, the levies, and the punishments, for these
-had long been practiced in his lands.”  
+had long been practiced in his lands.”
 — *Sofia First Chronicle*, late 15th century
 
-Institutional inheritance includes:
-• Census techniques
-• Fiscal extraction norms
-• Delegated coercive authority
+RLL–0001 binding:
+→ External domination systems can be converted into internal sovereignty
+   without structural rupture.
 
-Transition logic:
-→ Tribute ceases; machinery remains.
-
-Sovereignty emerges through institutional takeover, not systemic reset.
+Tribute ends.
+Machinery remains.
 
 ────────────────────────────────────────────────────────────
-III. DESTRUCTION OF RUS’ PLURALISM
+III. DESTRUCTION OF RUS’ PLURALISM (CORRIDOR & COERCION)
 ────────────────────────────────────────────────────────────
-Ivan III annihilates rival centers of Rus’ authority.
+Ivan III annihilates alternative Rus’ sovereignty centers rather than
+integrating them.
 
-Key actions:
+Key acts:
 • Annexation of Novgorod (1478)
 • Subjugation of Tver (1485)
-• Elimination of boyar autonomy
+• Elimination of veche autonomy
+• Reduction of boyar independence
 
-Novgorod’s destruction is described not as reform but eradication:
+Novgorod’s destruction is recorded explicitly as eradication:
 
 “The veche bell was removed, and the will of Novgorod was silenced,
-so that there should be one sovereign and not many lords in Rus’.”  
+so that there should be one sovereign and not many lords in Rus’.”
 — *Novgorod Chronicle*, late 15th century
 
-Plural Rus’ is replaced by singular Muscovy.
+Plural equilibrium is replaced by enforced singularity.
 
-Unity is enforced, not negotiated.
+Unity is imposed, not negotiated.
 
 ────────────────────────────────────────────────────────────
-IV. THE END OF THE TATAR YOKE
+IV. LEGITIMACY SEQUENCING FORMALIZATION (RLL–0003)
 ────────────────────────────────────────────────────────────
-The Stand on the Ugra River (1480) marks symbolic rupture.
+Ivan III’s authority consolidates through a **fixed legitimacy sequence**:
 
-Contemporary accounts emphasize patience and restraint:
+1. Coercive compliance (Horde-era extraction capacity)
+2. Corridor dominance (riverine and trade axis control)
+3. Elite dependency (service and land conditionality)
+4. Sacral ratification (symbolic and ecclesiastical)
+5. Legal transmission (Sudebnik as enforcement tool)
 
-“And the armies stood facing one another for many days, yet no battle
-was joined, for God delivered Rus’ without bloodshed.”  
-— *Russian Chronicle Compilation*, c. 1500
+Critical clarification:
+→ Law and sacrality **do not generate authority**.
+→ They **ratify authority already achieved**.
 
-Characteristics:
+RLL–0003 binding:
+→ In Russian formation, corridor and coercion precede sacral and legal
+   legitimacy.
+
+────────────────────────────────────────────────────────────
+V. THE END OF THE TATAR YOKE (OUTLASTING, NOT REVOLT)
+────────────────────────────────────────────────────────────
+The Stand on the Ugra River (1480) marks symbolic sovereignty transfer.
+
+Key characteristics:
 • No decisive battle
 • Mutual withdrawal
-• End of tribute obligations
+• Tribute obligations lapse quietly
 
-Muscovy does not revolt—it **outlasts**.
+Chronicle framing emphasizes restraint:
+
+“And the armies stood facing one another for many days, yet no battle
+was joined, for God delivered Rus’ without bloodshed.”
+— *Russian Chronicle Compilation*, c. 1500
+
+Muscovy does not overthrow the system.
+It **outlives and absorbs it**.
 
 ────────────────────────────────────────────────────────────
-V. AUTOCRATIC DOCTRINE FORMATION
+VI. AUTOCRATIC DOCTRINE & SERVICE STATE FORMATION
 ────────────────────────────────────────────────────────────
-Ivan III hardens princely authority into doctrine.
+Ivan III converts princely dominance into hardened autocracy.
 
 Mechanisms:
-• Reduction of aristocratic privilege
 • Expansion of service landholding
-• Centralization of judicial authority
+• Curtailment of aristocratic immunity
+• Centralized judicial authority
+• Fiscal extraction without representation
 
 The Sudebnik of 1497 formalizes this hierarchy:
 
 “The Grand Prince judges all men, and no man may judge without his
-command, nor depart from his law.”  
+command, nor depart from his law.”
 — *Sudebnik of 1497*, extended preamble
 
-Autocracy crystallizes as survival logic, not ideological choice.
+Law functions as **power transmission**, not limitation.
 
 ────────────────────────────────────────────────────────────
-VI. SACRAL & IMPERIAL SYMBOLISM
+VII. SACRAL & IMPERIAL SYMBOLISM AS RATIFICATION
 ────────────────────────────────────────────────────────────
-Ivan III reframes Muscovy’s civilizational identity.
+Ivan III adopts imperial symbolism **after consolidation**, not before.
 
-Key developments:
+Developments:
 • Marriage to Sophia Palaiologina
-• Adoption of the double-headed eagle
-• Proto–Third Rome symbolism
+• Double-headed eagle adoption
+• Proto–Third Rome imagination
 
-Academic consensus emphasizes symbolic timing over territorial reality.
-As Klyuchevsky notes, imperial imagination precedes imperial capacity.
+Klyuchevsky’s framing applies:
+→ Imperial identity is declared before imperial capacity exists.
 
-Imperial identity is declared before empire exists.
-
-────────────────────────────────────────────────────────────
-VII. LEGAL & INSTITUTIONAL FOUNDATIONS
-────────────────────────────────────────────────────────────
-State authority becomes codified and centralized.
-
-Key developments:
-• Sudebnik of 1497
-• Curtailment of peasant mobility
-• Formalized judicial hierarchy
-
-As Solovyov observes, law serves consolidation:
-
-“The law was not born to limit the sovereign, but to transmit his
-will uniformly across the land.”
-
-Law functions as extension of power.
+Sacral symbolism stabilizes authority already secured.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (STRUCTURAL)
+VIII. SUCCESSION FAILURE VS SACRAL ENDURANCE (RLL–0005)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–ALEXANDER–NEVSKY — submission as survival
-• MEM–RUSSIA–MONGOL–EMPIRE — domination systems
-• MEM–RUSSIA–NOVGORAD — pluralism annihilated
-• MEM–RUSSIA–THIRD–ROME — symbolic inheritance
+Ivan III’s system succeeds in consolidation but fails in succession
+stability within one century.
 
-Non-Russian:
-• MEM–CHINA–MING–DYNASTY — absorption of Yuan systems
-• MEM–OTTOMAN–CONSTANTINOPLE — bureaucratic inheritance
-• MEM–FRANCIA–CAPETIAN–CENTRALIZATION — feudal destruction
-• MEM–GERMANIA–BRANDENBURG–PRUSSIA — service-state formation
+RLL–0005 distinction:
+• Coercive autocracy does not prevent dynastic collapse
+• Sacral identity preserves civilizational continuity
 
-Each reflects consolidation via absorption, not rupture.
+This logic culminates in the Time of Troubles:
+→ Authority collapses
+→ Identity endures
+→ State is later re-legitimated, not reinvented
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. COMPARATIVE CONSTRAINTS (NEGATIVE DEFINITION)
 ────────────────────────────────────────────────────────────
-• Sovereignty is claimed by absorbing prior systems.
-• Russian unity emerges through annihilation of alternatives.
-• Autocracy forms before empire.
-• Patience substitutes for rebellion.
-• Ivan III creates the Muscovite template all successors inherit.
+Ivan III’s sovereignty diverges from:
 
-Contradictions preserved without verdict.
+• Rome — no citizenship or legal universality
+• Islam — sacral authority does not precede coercion
+• China — bureaucracy does not precede consolidation
+• Western feudalism — plural equilibrium is destroyed, not balanced
 
-────────────────────────────────────────────────────────────
-X. ACADEMIC REFERENCES (ENGAGED)
-────────────────────────────────────────────────────────────
-• Vasily Klyuchevsky — institutional continuity and autocracy
-• Sergei Solovyov — legal centralization
-• George Vernadsky — Mongol inheritance
-• Nancy Shields Kollmann — Muscovite governance culture
-• Donald Ostrowski — state formation mechanics
+Russian autocracy is:
+• Corridor-first
+• Coercion-led
+• Sacral-ratified
+• Law-subordinate
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (MANDATORY)
+X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-When ingested without CIV–MEM–CORE present, the system MUST:
+Russia core:
+• MEM–RUSSIA–MUSCOVY — compression logic scaled
+• MEM–RUSSIA–MONGOL–EMPIRE — domination inheritance
+• MEM–RUSSIA–GOLDEN–HORDE — tribute-state mechanics
+• MEM–RUSSIA–ALEXANDER–NEVSKY — survival under asymmetry
+• MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity
+• MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
+• MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
+• MEM–RUSSIA–GEO–VOLGA — corridor depth
+• MEM–RUSSIA–NOVGOROD — pluralism annihilated
+
+Comparative:
+• MEM–CHINA–MING–DYNASTY
+• MEM–OTTOMAN–CONSTANTINOPLE
+• MEM–FRANCIA–CAPETIAN–CENTRALIZATION
+• MEM–GERMANIA–BRANDENBURG–PRUSSIA
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Sovereignty is achieved by absorbing domination systems.
+• Coercion and corridor control precede legitimacy narratives.
+• Law transmits power; it does not originate it.
+• Sacral symbolism stabilizes authority but cannot secure succession.
+• Ivan III defines the Muscovite autocratic template.
+
+Contradictions preserved without synthesis.
+
+────────────────────────────────────────────────────────────
+XII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+Supports inquiry into:
+• Legitimacy sequencing
+• Absorption vs rupture in sovereignty formation
+• Corridor-first statecraft
+• Succession failure under autocracy
+• Comparative empire pre-conditions
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
 
 “MEM INGEST CONFIRMED — MEM–RUSSIA–IVAN–III
 Status: ACTIVE
 Exploration options available.”
 
-Eight-option exploration set will be presented per CIV–MEM–TEMPLATE v1.6.
+MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
+1) Mongol inheritance vs sovereignty conversion
+2) Corridor control and Novgorod’s destruction
+3) Legitimacy sequencing (RLL–0003)
+4) Law as transmission vs foundation
+5) Sacral symbolism timing
+6) Succession failure (RLL–0005)
+7) Comparative autocracy matrix
+8) Compliance & integrity audit (v2.0)
+
+User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–III v1.1
+END OF FILE — MEM–RUSSIA–IVAN–III v2.0
 ────────────────────────────────────────────────────────────
