@@ -271,7 +271,7 @@ XII. ACADEMIC REFERENCE CANON (ARC) — GOVERNANCE LAYER
 ARC is a Codex-wide governed object.
 
 ARC:
-• Replaces all “secondary sources,” “reference configurations,” and
+• Replaces all "secondary sources," "reference configurations," and
   ad-hoc bibliographies
 • Is NOT analytical
 • Is NOT interpretive
@@ -396,7 +396,11 @@ OGE Architecture:
 • WRITE Mode options: COMPLIANCE UPGRADE, STRUCTURE MODIFICATION, QUOTATION INTEGRATION, MEM CONNECTION, METADATA UPDATE, TEMPLATE ALIGNMENT
 
 OGE Interface Compatibility:
+<<<<<<< HEAD
 • CIV–CORE instances MAY include an optional “OGE Interface” module
+=======
+• CIV–CORE instances MAY include an optional "OGE Interface" module
+>>>>>>> 72d65d62483cb541fbc88db7bbdf636e65ebc0c8
   appended after Section XX.
 • If present, this module MUST be explicitly labeled as non-epistemic.
 • The module MUST reference CIV–SCHOLAR–PROTOCOL v1.7 (OGE) as the governing
@@ -413,7 +417,11 @@ XX. TEMPLATE CANONICAL STATUS
 This template is CANONICAL.
 
 All future CIV–CORE files MUST declare:
+<<<<<<< HEAD
 “Template Version Used: CIV–CORE–TEMPLATE v1.8”
+=======
+"Template Version Used: CIV–CORE–TEMPLATE v1.8"
+>>>>>>> 72d65d62483cb541fbc88db7bbdf636e65ebc0c8
 
 No CIV–CORE file may claim template compliance with v1.8 unless it
 respects:
