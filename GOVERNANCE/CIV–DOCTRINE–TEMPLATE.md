@@ -1,14 +1,35 @@
-CIV–DOCTRINE–TEMPLATE — v1.0
+CIV–DOCTRINE–TEMPLATE — v2.0
 Civilizational Strategy Codex · Doctrine Registry Template
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Version: 1.0
+Version: 2.0
+Supersedes: CIV–DOCTRINE–TEMPLATE v2.0
+Upgrade Type: COMPATIBILITY UPDATE · CIV–MEM–CORE v2.0 ALIGNMENT
 Class: CIV–DOCTRINE (Template)
 Scope: GLOBAL (All Civilizations)
 Compatibility: CIV / MEM Architecture
-Governance Authority: CIV–MEM–CORE v1.5 (or higher)
+Governance Authority: CIV–MEM–CORE v2.0 (or higher)
 Lock Level: TOTAL (Doctrine-Only · No Learning)
+Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This version preserves ALL structure, authority model, governance
+constraints, and admissibility rules from CIV–DOCTRINE–TEMPLATE v2.0.
+
+v2.0 introduces COMPATIBILITY UPDATE only:
+
+• Governance Authority requirement updated to CIV–MEM–CORE v2.0 (or higher)
+• Aligns with CIV–MEM–CORE v2.0 (MERCOURIS Integration Edition)
+• No functional changes to doctrine admissibility rules
+• No changes to authority chain requirements
+• No changes to doctrine entry structure
+• No changes to mirroring requirements
+
+This is a version alignment update to reflect the major architectural
+milestone of CIV–MEM–CORE v2.0.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE
@@ -206,8 +227,8 @@ Future versions:
 • May NOT alter admissibility rules
 
 Derived files MUST include:
-“Derived from CIV–DOCTRINE–TEMPLATE v1.0”
+“Derived from CIV–DOCTRINE–TEMPLATE v2.0”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–TEMPLATE v1.0
+END OF FILE — CIV–DOCTRINE–TEMPLATE v2.0
 ────────────────────────────────────────────────────────────
