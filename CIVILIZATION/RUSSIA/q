@@ -1,0 +1,256 @@
+CIV–ARC–RUSSIA — v1.3
+Civilizational Memory Codex · Academic Reference Canon
+
+Status: CANONICAL · STAND-ALONE · MIRRORED
+Scope: CIV–CORE–RUSSIA and CIV–SCHOLAR–RUSSIA (IDENTICAL TEXT)
+Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+I. PURPOSE & AUTHORITY
+────────────────────────────────────────────────────────────
+This file defines the Academic Reference Canon (ARC) for the RUSSIA
+civilization.
+
+It specifies:
+• Which sources are admissible
+• How they must be quoted
+• How they are weighted
+• How they interact with MEM files
+• How discovery beyond listed sources is governed
+
+This file is governance infrastructure, not interpretation.
+
+This canon MUST be copied verbatim into:
+• CIV–CORE–RUSSIA
+• CIV–SCHOLAR–RUSSIA
+
+MEM files may consume this canon.
+They may not modify, reinterpret, or extend it.
+
+This file has authority over all MEM–RUSSIA files with respect to
+source admissibility, quotation discipline, and interpretive weighting.
+
+────────────────────────────────────────────────────────────
+II. SOURCE CATEGORIES (FIXED & EXHAUSTIVE)
+────────────────────────────────────────────────────────────
+ARC sources are divided into four and only four categories:
+
+A. ANCIENT
+B. MEDIEVAL
+C. EARLY MODERN
+D. MODERN
+
+No other category exists.
+No category may be collapsed into another.
+Misclassification is a compliance failure.
+
+Categories are chronological and functional, not ideological.
+
+────────────────────────────────────────────────────────────
+III. CATEGORY A — ANCIENT (REQUIRED)
+────────────────────────────────────────────────────────────
+Definition:
+Primary texts produced in antiquity that describe the Eurasian, Slavic,
+Steppe, Byzantine, Persian, or Near Eastern worlds that structurally
+preceded, conditioned, or interacted with the territories, populations,
+and civilizational substrates from which RUSSIA later emerged.
+
+This category exists to capture pre-Russian civilizational
+preconditions, not anachronistic “Russian statehood.”
+
+Classification is by temporal origin, not legal status.
+
+Temporal Scope:
+• From earliest Greek historiography through AD 800
+• Includes late antique authors writing before the Carolingian coronation
+
+Approved Ancient Authors (RUSSIA – PRECURSOR CONTEXT):
+• Herodotus
+• Thucydides
+• Xenophon
+• Polybius
+• Strabo
+• Pliny the Elder
+• Tacitus
+• Ptolemy
+• Ammianus Marcellinus
+• Procopius
+• Jordanes
+• Menander Protector
+• Theophylact Simocatta
+
+Rules (MANDATORY):
+• At least TWO distinct ancient-source quotations REQUIRED per MEM file
+• Quotations must be verbatim
+• Minimum length per quotation: 25 words
+• No maximum length
+• Translation must be identified if applicable
+• Quotations must materially support an analytic claim
+• Ancient quotations form the evidentiary spine of deep-historical MEMs
+
+Ancient sources have absolute precedence over all other categories.
+
+────────────────────────────────────────────────────────────
+IV. CATEGORY B — MEDIEVAL (REQUIRED WHEN APPLICABLE)
+────────────────────────────────────────────────────────────
+Definition:
+Primary and secondary sources produced after AD 800 that describe,
+record, or interpret the emergence of Rus’, East Slavic polities,
+Orthodox-Christian institutions, Mongol-Tatar domination, and the
+early formation of Muscovite authority.
+
+This category captures formation and continuity, not mature empire.
+
+Temporal Boundary:
+• Begins AD 800 (system-wide hinge)
+• Extends through approximately AD 1500
+
+Rationale:
+AD 800 marks the end of antiquity as a civilizational system and the
+beginning of medieval political–religious reorganization across Eurasia.
+
+Approved Medieval Sources (RUSSIA):
+
+Primary Chronicles and Texts:
+• Primary Chronicle (Povest’ vremennykh let)
+• Novgorod First Chronicle
+• Laurentian Chronicle
+• Hypatian Chronicle
+
+Ecclesiastical and Byzantine Transmission:
+• Byzantine ecclesiastical histories engaging Rus’
+• Slavic hagiographies and missionary accounts
+• Orthodox theological-political texts relevant to Rus’ conversion
+
+Mongol and Steppe Accounts:
+• Rashid al-Din (for Golden Horde context)
+• Persian and Turkic chronicles engaging Rus’ principalities
+
+Rules (MANDATORY):
+• Category B may NOT replace Category A where ancient precedent exists
+• Category B may establish continuity, mutation, or institutional origin
+• Quotations must be verbatim
+• Minimum quotation length: 25 words unless manuscript-limited
+• Medieval sources may not override ancient testimony
+
+────────────────────────────────────────────────────────────
+V. CATEGORY C — EARLY MODERN (REQUIRED)
+────────────────────────────────────────────────────────────
+Definition:
+Historical scholarship from approximately AD 1500–1900 interpreting
+Russian history, institutions, and civilizational logic, typically
+outside modern copyright.
+
+Function:
+Interpretive framing, synthesis, and foundational historiography.
+
+Approved Early Modern Scholars (RUSSIA):
+• Nikolai Karamzin — History of the Russian State
+• Sergey Solovyov — History of Russia from the Earliest Times
+• Vasily Klyuchevsky — Course of Russian History
+• Mikhail Pogodin
+• Konstantin Aksakov
+
+Rules (MANDATORY):
+• At least TWO early modern scholarly quotations REQUIRED per MEM file
+• Quotations must be verbatim
+• Minimum length per quotation: 25 words
+• Early modern sources contextualize; they do not anchor
+
+────────────────────────────────────────────────────────────
+VI. CATEGORY D — MODERN (REQUIRED)
+────────────────────────────────────────────────────────────
+Definition:
+Contemporary historians and scholars writing under copyright
+(approximately 1900–present) interpreting Russian history, state
+formation, imperial logic, military structure, and civilizational
+continuity.
+
+Function:
+Interpretive framing, historiographic contrast, and modern synthesis.
+
+Approved Modern Scholars (RUSSIA):
+
+Imperial & Dynastic Russia:
+• [Robert K. Massie](chatgpt://generic-entity?number=0) —
+  Imperial court culture, monarchy, legitimacy
+
+Military History, War, and Strategy:
+• [John Erickson](chatgpt://generic-entity?number=1) —
+  Soviet military history, Eastern Front operational analysis
+• [Alexander Mikaberidze](chatgpt://generic-entity?number=2) —
+  Russian military-diplomatic system, Napoleonic era
+
+Structural & Political History:
+• Richard Pipes
+• Dominic Lieven
+• Geoffrey Hosking
+• Orlando Figes
+• Stephen Kotkin
+
+Rules (MANDATORY):
+• At least TWO distinct modern scholars REQUIRED per MEM file
+• At least ONE verbatim quotation REQUIRED per modern scholar
+• Quotations must comply with fair-use norms
+• Modern scholarship may not serve as sole support for core claims
+
+────────────────────────────────────────────────────────────
+VII. QUOTATION HIERARCHY & INTERPRETIVE WEIGHT
+────────────────────────────────────────────────────────────
+Interpretive precedence is fixed:
+1. Category A — Ancient
+2. Category B — Medieval
+3. Category C — Early Modern
+4. Category D — Modern
+
+Later tiers may clarify or frame.
+They may not override earlier tiers.
+
+No synthesis may contradict Category A without explicit contradiction
+marking in SCHOLAR files.
+
+────────────────────────────────────────────────────────────
+VIII. ARC–DISCOVERY–FRAMEWORK (NORMALIZED)
+────────────────────────────────────────────────────────────
+ARC employs a tiered discovery protocol for Categories A and B only.
+
+Expanded discovery:
+• Does NOT add approved authors
+• Does NOT alter categories
+• Does NOT override quotation hierarchy
+
+────────────────────────────────────────────────────────────
+IX. PROHIBITIONS
+────────────────────────────────────────────────────────────
+• Mislabeling sources across categories
+• Collapsing categories
+• Omitting required categories
+• Using non-listed scholars without canon update
+• MEM-level modification of this file
+
+────────────────────────────────────────────────────────────
+X. STORAGE & MIRRORING RULE
+────────────────────────────────────────────────────────────
+This file MUST be mirrored verbatim into:
+• CIV–CORE–RUSSIA
+• CIV–SCHOLAR–RUSSIA
+
+Any divergence invalidates compliance.
+
+────────────────────────────────────────────────────────────
+XI. CANON STATE
+────────────────────────────────────────────────────────────
+Version: CIV–ARC–RUSSIA v1.3
+State: ACTIVE · CANONICAL · LOCKED
+Supersedes:
+• CIV–ARC–RUSSIA v1.2
+
+Upgrade Type:
+• ADDITIVE · MODERN SCHOLAR EXPANSION
+
+Mutation Rule:
+• ADDITIVE ONLY (explicit version bump required)
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–RUSSIA — v1.3
+────────────────────────────────────────────────────────────
