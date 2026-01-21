@@ -1,16 +1,16 @@
-MEM–RUSSIA–OLEG–NOVGOROD — v2.0
+MEM–RUSSIA–OLEG–NOVGOROD — v2.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: STRUCTURAL + EVIDENTIARY COMPLIANCE
+Version: 2.1
+Upgrade Type: STRUCTURAL CLARIFICATION · EPISTEMIC HARDENING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Oleg of Novgorod (Вещий Олег)
 Dates: c. 879–912 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Wordcount: ~2,210
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -46,15 +46,23 @@ The *Primary Chronicle* records this transition explicitly:
 Regency here functioned as **a legitimacy workaround**: power justified
 procedurally through protection of succession rather than inheritance.
 
+At this stage, Rus’ remains **administratively pre-mature**; authority
+cannot yet be stabilized through institutions, law, or bureaucracy.
+Guardianship backed by force therefore substitutes for dynastic purity.
+
 This establishes an enduring Russian pattern:
 authority may be temporarily detached from dynasty if territorial order
 and continuity are preserved.
+
+Chronicle citations in this file function as **contemporaneous legitimacy
+narratives**; modern scholarship is used analytically to constrain
+interpretation rather than to anchor factual testimony.
 
 ────────────────────────────────────────────────────────────
 III. CAPTURE OF KIEV & TERRITORIAL LOGIC
 ────────────────────────────────────────────────────────────
 Oleg’s seizure of Kiev marked the decisive shift from nodal trade power
-to **territorial sovereignty**.
+to **territorial anchoring without administrative sovereignty**.
 
 > “Oleg settled in Kiev, and said: ‘Let this be the mother of Rus’
 > cities.’”  
@@ -66,6 +74,9 @@ enduring leverage.
 
 Territory precedes administration.
 Geography precedes law.
+
+Because Rus’ lacks institutional density at this stage, territorial
+anchoring itself becomes the primary legitimacy signal.
 
 Oleg’s move southward encodes the Russian axiom:
 **sovereignty follows corridor dominance, not institutional density.**
@@ -87,6 +98,9 @@ As Simon Franklin and Jonathan Shepard note, early Rus’ authority
 operated as a “political economy of corridors,” where violence secured
 predictability rather than governance density.
 
+At this phase, expansion supplies legitimacy precisely because no
+administrative pedagogy yet exists to replace it.
+
 Expansion sustained legitimacy by preventing stagnation.
 
 ────────────────────────────────────────────────────────────
@@ -100,7 +114,7 @@ intimidation as validation of internal authority**.
 > — *Primary Chronicle*
 
 The resulting treaty secured trade privileges through coercion, not
-diplomacy.
+reciprocal diplomacy.
 
 George Vernadsky emphasizes that this pattern — legitimacy proven
 abroad — becomes a recurring Russian strategy when internal
@@ -108,6 +122,8 @@ institutions remain thin.
 
 Power is authenticated externally, then retroactively accepted
 internally.
+
+This external validation substitutes for internal procedural consent.
 
 ────────────────────────────────────────────────────────────
 VI. MYTH, PROPHECY, AND RETROSPECTIVE STABILIZATION
@@ -119,12 +135,13 @@ are later narrative accretions.
 > horse’s skull, a serpent came forth and stung him.”  
 > — *Primary Chronicle*
 
-Orlando Figes notes that such mythic closures function not as history
-but as **memory stabilization devices**, transforming violent rulers
-into fate-bound figures and dampening succession anxiety.
+Such mythic closures function not as history but as **memory
+stabilization devices**, transforming violent rulers into fate-bound
+figures and dampening succession anxiety.
 
 Myth here does not found authority.
-It **consolidates it after death**.
+It **consolidates authority after death**, smoothing violent transitions
+into narratively contained endpoints.
 
 ────────────────────────────────────────────────────────────
 VII. CONTINUITY ROLE IN RUSSIAN STATE FORMATION
@@ -138,24 +155,27 @@ He establishes:
 • Expansion-first legitimacy logic
 • External threat as internal validator
 
-Dominic Lieven observes that Russian political order repeatedly
-emerges from moments where **territorial coherence precedes legal
-coherence** — Oleg is the first clear exemplar.
+Territorial coherence precedes legal coherence.
+Spatial control precedes institutional order.
+
+Oleg is the first clear exemplar of this sequencing in Russian memory.
 
 ────────────────────────────────────────────────────────────
 VIII. COMPARATIVE CIVILIZATIONAL POSITION
 ────────────────────────────────────────────────────────────
 Oleg parallels figures such as:
-• Charlemagne (Germania) — territorial unifier via force
+• Charlemagne (Germania) — coercive territorial unification
 • Muhammad (early Arabia) — legitimacy through expansion
 • Qin Shi Huang (China) — coercive unification before doctrine
 
-Divergence:
-• Oleg does not fuse law or faith to conquest
-• Authority remains procedural and kinetic
+These parallels operate at the level of **coercive unification under
+institutional scarcity**.
 
-Russia’s early statehood prioritizes **movement dominance over moral
-or legal synthesis**.
+They do NOT imply shared administrative depth, governance maturity, or
+post-unification political models.
+
+Oleg does not fuse law, theology, or bureaucratic doctrine to conquest.
+Authority remains procedural, kinetic, and corridor-based.
 
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (EXPLICIT)
@@ -164,14 +184,14 @@ Connected MEM files include:
 
 RUSSIA:
 • MEM–RUSSIA–RURIK — succession & warlord origins
-• MEM–RUSSIA–KIEVAN–RUS — civilizational substrate
+• MEM–RUSSIA–KIEV — urban and sacred capital
 • MEM–RUSSIA–GEO–DNEIPER — corridor logic
 • MEM–RUSSIA–VARANGIANS — external warrior elite
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — later sacral overlay
 
 OTHER CIVILIZATIONS:
 • MEM–GERMANIA–CHARLEMAGNE — coercive unification
-• MEM–CHINA–QIN–SHI–HUANG — expansion before law
+• MEM–CHINA–QIN–SHI–HUANG — expansion before doctrine
 • MEM–FRANCIA–EARLY–CAPETIAN — weak institutions, dynastic glue
 
 These connections illustrate convergent patterns of coercive formation
@@ -181,10 +201,13 @@ under institutional scarcity.
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Russian legitimacy can arise without dynastic purity.
-• Territorial seizure precedes legal authority.
-• Expansion substitutes for institutional depth.
+• Territorial anchoring precedes administrative sovereignty.
+• Expansion substitutes for institutional depth in early phases.
 • External intimidation stabilizes internal order.
 • Myth retroactively consolidates violent transitions.
+
+This MEM is structurally suitable for downstream synthesis but contains
+no frozen doctrinal claims.
 
 ────────────────────────────────────────────────────────────
 XI. PEDAGOGICAL AFFORDANCE LAYER
@@ -194,7 +217,7 @@ This MEM supports exploration of:
 • Expansion vs administration tradeoffs
 • Myth as memory stabilization
 • Regency as legitimacy substitute
-• Comparative unification models
+• Comparative unification under scarcity
 
 No evaluative conclusions are imposed.
 
@@ -217,5 +240,5 @@ H) Compliance & Integrity Audit (v1.6)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–OLEG–NOVGOROD v2.0
+END OF FILE — MEM–RUSSIA–OLEG–NOVGOROD v2.1
 ────────────────────────────────────────────────────────────
