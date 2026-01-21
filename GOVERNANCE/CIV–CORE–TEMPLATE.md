@@ -1,10 +1,10 @@
-CIV–CORE–TEMPLATE — v1.7
+CIV–CORE–TEMPLATE — v1.8
 Civilizational Strategy Codex · Civilization Core Engine
-Global Structural Template (ARC + LECTURE INTERFACE GOVERNANCE EDITION)
+Global Structural Template (ARC + OGE INTERFACE GOVERNANCE EDITION)
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–CORE–TEMPLATE v1.6.2
-Upgrade Type: ADDITIVE · GOVERNANCE-BINDING ONLY
+Supersedes: CIV–CORE–TEMPLATE v1.7
+Upgrade Type: ADDITIVE · OGE ARCHITECTURE ALIGNMENT
 Activation State: INACTIVE BY DEFAULT
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
 Governance Mode: STRUCTURAL LOCK
@@ -12,11 +12,40 @@ Lock Level: TOTAL (no silent mutation)
 
 Governed by:
 • CIV–MEM–CORE (global system law)
-• CIV–SCHOLAR–PROTOCOL v1.4 (or higher)
+• CIV–SCHOLAR–PROTOCOL v1.7 (or higher)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
 
 Last Update: January 2026
 WORDCOUNT: ~3,750
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8)
+────────────────────────────────────────────────────────────
+This version preserves ALL structural, semantic, diagnostic, and
+governance constraints from CIV–CORE–TEMPLATE v1.7.
+
+v1.8 introduces terminology and architecture alignment:
+
+• OPTION GENERATION ENGINE (OGE) INTERFACE GOVERNANCE LAYER
+  (replaces LECTURE INTERFACE GOVERNANCE LAYER / LOGE COMPATIBILITY)
+
+Changes:
+• Section XIX updated from "LOGE COMPATIBILITY" to "OGE INTERFACE GOVERNANCE"
+• References to "Lecture Mode" → "IMAGINE Mode"
+• References to "LOGE" → "OGE" (Option Generation Engine)
+• Protocol version reference updated: v1.4 → v1.7
+
+This layer:
+• Introduces NO doctrine
+• Introduces NO analysis
+• Introduces NO cognition
+• Introduces NO new CIV–CORE authority
+• Aligns with unified OGE architecture across all modes (IMAGINE/LEARN/WRITE)
+
+No existing CIV–CORE file is invalidated.
+No doctrine is altered.
+No diagnostic logic is modified.
+No authority boundaries are weakened.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7)
@@ -346,23 +375,33 @@ Noncompliant ARC handling may result in:
 ARC compliance affects procedural validity, not truth.
 
 ────────────────────────────────────────────────────────────
-XIX. LECTURE INTERFACE GOVERNANCE LAYER (LOGE COMPATIBILITY) (NEW)
+XIX. OPTION GENERATION ENGINE (OGE) INTERFACE GOVERNANCE LAYER
 ────────────────────────────────────────────────────────────
-This template explicitly recognizes Lecture Mode as a pedagogical surface
-that may be driven by CIV–CORE and CIV–SCHOLAR without modifying either.
+This template explicitly recognizes the Option Generation Engine (OGE) as
+a unified interaction mechanism that may be driven by CIV–CORE and
+CIV–SCHOLAR without modifying either.
 
 Definitions:
-• Lecture Mode is expressive, not epistemic.
-• Lecture Mode introduces NO belief, NO doctrine, and NO governance change.
-• Lecture branching does NOT constitute strategic analysis.
+• OGE is a non-epistemic, non-authoritative interaction mechanism.
+• OGE structures user pathways through context-aware multiple choice options.
+• OGE operates across all three modes: IMAGINE, LEARN, and WRITE.
+• OGE generates options, not conclusions.
+• OGE introduces NO belief, NO doctrine, and NO governance change.
 
-LOGE Compatibility:
-• CIV–CORE instances MAY include an optional “Pedagogical Interface” module
+OGE Architecture:
+• OGE is unified across all modes (IMAGINE/LEARN/WRITE) per CIV–SCHOLAR–PROTOCOL v1.7
+• Each mode has mode-specific option types and trigger conditions
+• IMAGINE Mode options: STRUCTURAL, HISTORICAL, COMPARATIVE, CONTRADICTION, PROCESS, EXPLORATION
+• LEARN Mode options: PATTERN DETECTION, SYNTHESIS, CONTRADICTION ANALYSIS, DOCTRINE PROPOSAL, RELATED FILE EXPLORATION, EVIDENCE VERIFICATION
+• WRITE Mode options: COMPLIANCE UPGRADE, STRUCTURE MODIFICATION, QUOTATION INTEGRATION, MEM CONNECTION, METADATA UPDATE, TEMPLATE ALIGNMENT
+
+OGE Interface Compatibility:
+• CIV–CORE instances MAY include an optional “OGE Interface” module
   appended after Section XX.
 • If present, this module MUST be explicitly labeled as non-epistemic.
-• The module MUST reference CIV–SCHOLAR–PROTOCOL (LOGE) as the governing
-  lecture option engine.
-• The module MAY request option generation in Lecture Mode.
+• The module MUST reference CIV–SCHOLAR–PROTOCOL v1.7 (OGE) as the governing
+  option generation engine.
+• The module MAY request option generation in IMAGINE Mode (or other modes if applicable).
 • The module MAY NOT alter any core indicators, thresholds, axioms, or verdicts.
 
 This layer formalizes interface behavior only and does not alter CIV–CORE
@@ -374,16 +413,16 @@ XX. TEMPLATE CANONICAL STATUS
 This template is CANONICAL.
 
 All future CIV–CORE files MUST declare:
-“Template Version Used: CIV–CORE–TEMPLATE v1.7”
+“Template Version Used: CIV–CORE–TEMPLATE v1.8”
 
-No CIV–CORE file may claim template compliance with v1.7 unless it
+No CIV–CORE file may claim template compliance with v1.8 unless it
 respects:
 • Locked section order (I–XX)
 • ARC governance layer
 • DOCTRINE mirroring (if CIV–DOCTRINE–[CIV] exists)
 • CIV–CORE ↔ SCHOLAR authority separation
-• Lecture interface governance (if invoked)
+• OGE interface governance (if invoked)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v1.7
+END OF FILE — CIV–CORE–TEMPLATE v1.8
 ────────────────────────────────────────────────────────────
