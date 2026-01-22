@@ -99,7 +99,7 @@ III. GOVERNING STYLE: RESTRAINT OVER REFORM
 ────────────────────────────────────────────────────────────
 Elizabeth deliberately avoids reform escalation.
 
-
+Her political temperament is best illuminated by Robert K. Massie's
 portrait in *Catherine the Great: Portrait of a Woman*, where he situates
 Elizabeth within a Romanov tradition of personal governance:
 
