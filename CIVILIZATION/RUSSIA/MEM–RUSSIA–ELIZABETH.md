@@ -118,17 +118,9 @@ The Petrine system is **paused**, not dismantled.
 IV. MERCY AS GOVERNANCE TECHNOLOGY
 ────────────────────────────────────────────────────────────
 Elizabeth’s suspension of capital punishment functions as political
+Legal and court directives frame mercy as loyalty-binding technology:
 signal rather than humanitarian reform.
 
-
-Massie explains Elizabeth's elite management:
-
-"Elizabeth treated elite cohesion as the core security objective. Her
-policies reinforced noble privilege while leaving serfdom untouched,
-approach ensured elite loyalty but froze social structure, creating
-a system that was stable in the short term but increasingly rigid
-over time."
-— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
 
 severity hardens resistance, clemency personalizes authority.
 
