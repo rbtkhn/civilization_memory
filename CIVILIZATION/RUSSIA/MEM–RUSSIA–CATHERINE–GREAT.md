@@ -14,6 +14,32 @@ Class: MEM (Memory)
 Last Update: January 2026
 Wordcount: ~3,450
 
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.3
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Massie's presence through balanced
+integration of narrative and analytical quotations, while upgrading to
+v2.0 compliance with CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.3.
+
+CHANGES IMPLEMENTED:
+• Added 3 Massie verbatim quotations integrated into Sections III, V, VII
+• Total Massie quotations: 4 (1 existing + 3 new)
+• Quotations combine analytical depth with Catherine's governance context
+• Maintains QTT–ARC compliance (all quotations meet analytical threshold)
+• Preserves LMM symmetry (Lieven/Montefiore/Massie balance)
+• Upgraded governance references to CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.3
+• Ensures binary MEM connections compliance
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
+
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3)
 ────────────────────────────────────────────────────────────
