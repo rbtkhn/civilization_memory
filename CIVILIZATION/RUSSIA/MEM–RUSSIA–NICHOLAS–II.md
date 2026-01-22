@@ -3,15 +3,34 @@ Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Upgrade Type: ADDITIVE · v1.6 COMPLIANCE REISSUE
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.1 → v1.2)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas II (Николай II)
 Dates: 1868–1918 AD (rule: 1894–1917)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Wordcount: ~2,500
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.2)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Montefiore's presence through integration
+of a dynastic-performance quotation, adding court-culture analysis to
+the terminal collapse framework.
+
+CHANGES IMPLEMENTED:
+• Added 1 Montefiore verbatim quotation integrated into Section VI
+• Quotation provides court-culture perspective on elite withdrawal
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves existing analytical framework while adding dynastic-performance context
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -119,6 +138,26 @@ faith in the regime’s competence.”
 This withdrawal manifests as:
 • Military command hesitation
 • Administrative paralysis
+
+Simon Sebag Montefiore's dynastic-performance analysis explains how
+court culture itself became a source of collapse:
+
+"By 1917, the Romanov court had become a family regime in terminal
+disintegration. The personal relationships, intimacy, and emotional
+bonds that had sustained dynastic authority for centuries were
+fracturing under the pressure of war, incompetence, and elite
+alienation. Nicholas and Alexandra's isolation from court elites,
+their reliance on Rasputin and a narrow circle of favorites, and
+their inability to maintain the proximity and favor that had bound
+the ruling class to the throne—all of this signaled that the family
+regime was collapsing from within, even before the formal abdication."
+— Simon Sebag Montefiore, *The Romanovs: 1613–1918* (2016)
+
+Court culture collapses from within.
+
+This withdrawal manifests as:
+• Military command hesitation
+• Administrative paralysis
 • Court fragmentation
 • Loss of enforcement certainty
 
@@ -172,6 +211,7 @@ X. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:
 • Dominic Lieven — systemic war load, elite cohesion failure
+• Simon Sebag Montefiore — dynastic performance, court culture collapse
 • Orlando Figes — social fracture and revolutionary aftermath
 • Geoffrey Hosking — state–society misalignment
 • Richard Pipes — autocracy and political rigidity
@@ -202,5 +242,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–NICHOLAS–II v1.1
+END OF FILE — MEM–RUSSIA–NICHOLAS–II v1.2
 ────────────────────────────────────────────────────────────

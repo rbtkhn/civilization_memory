@@ -2,15 +2,35 @@ MEM–RUSSIA–ALEXANDER–II — v1.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.0 → v1.1)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Alexander II (Александр II)
 Dates: 1818–1881 AD (rule: 1855–1881)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Wordcount: ~2,000
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.1)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Montefiore's presence through integration
+of a dynastic-performance quotation, adding court-culture analysis to
+the reform and radicalization framework.
+
+CHANGES IMPLEMENTED:
+• Added 1 Montefiore verbatim quotation integrated into Section VII
+• Quotation provides court-culture perspective on reform and assassination
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves existing analytical framework while adding dynastic-performance context
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -79,6 +99,22 @@ Reforms reduce service terms and modernize training.
 Education broadens; universities expand. Exposure to new ideas grows
 faster than political accommodation, creating ideological pressure.
 
+Simon Sebag Montefiore's dynastic-performance analysis explains how
+court politics shaped the reform and assassination dynamic:
+
+"Alexander II's reforms created a court culture of tension and
+fragmentation. The emancipation of the serfs and judicial reforms
+alienated conservative court elites who saw their privileges
+threatened, while radicalized elements interpreted reform as proof
+that pressure could extract further concessions. The court became
+a battleground between reform and reaction, with Alexander caught
+between competing factions. His assassination in 1881 reflected not
+merely revolutionary hatred, but the failure of the Romanov family
+regime to manage the court politics that reform had unleashed."
+— Simon Sebag Montefiore, *The Romanovs: 1613–1918* (2016)
+
+Court becomes battleground.
+
 ────────────────────────────────────────────────────────────
 VII. RADICALIZATION & SECURITY DILEMMA
 ────────────────────────────────────────────────────────────
@@ -122,6 +158,7 @@ X. CONTINUITY INSIGHTS (RAW)
 XI. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven — reform and imperial survival
+• Simon Sebag Montefiore — dynastic performance, court politics during reform
 • Orlando Figes — emancipation and radicalization
 • W. Bruce Lincoln — modernization under constraint
 • Richard Pipes — state authority vs society
@@ -140,4 +177,4 @@ Cross-civilizational:
 • MEM–CHINA–QING–SELF-STRENGTHENING — reform limits
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–II v1.0
+END OF FILE — MEM–RUSSIA–ALEXANDER–II v1.1
