@@ -143,38 +143,6 @@ elastic defense, then transition to offensive pursuit once French collapse
 was assured. The strategy reflected Russian institutional capacity and
 strategic depth, enabling choices that would have been impossible for
 weaker states."
-
-Dominic Lieven explains how Russian state capacity enabled this strategic
-choice:
-
-"Russian victory depended on state capacity—the ability to mobilize
-resources, manage logistics, and coordinate operations across vast
-distances. This was not achieved through popular patriotism alone, but
-through administrative systems, fiscal extraction, and institutional
-coordination that enabled strategic choices impossible for weaker states.
-The ability to evacuate Moscow, preserve force integrity, and regenerate
-military capacity while maintaining administrative coherence demonstrated
-institutional foundations that French systems could not match."
-
-Dominic Lieven frames the transition from survival to arbitration:
-
-"The 1812 invasion was merely the first phase of a prolonged war. Russian
-success in 1813–1814 European campaigns was equally decisive. The ability
-to deploy over half a million troops across central Europe, to coordinate
-coalition warfare, and to sustain logistical operations across the
-continent demonstrated Russian institutional capacity and strategic
-coherence. This operational achievement transformed Alexander from a
-defensive survivor into a continental arbiter, enabling him to claim the
-right to shape post-war order based on the legitimacy earned through
-endurance and victory."
-— Dominic Lieven, *Russia Against Napoleon: The True Story of the
-Campaigns of War and Peace* (2009)
-
-Endurance converts into arbitration authority.
-— Dominic Lieven, *Russia Against Napoleon: The True Story of the
-Campaigns of War and Peace* (2009)
-
-State capacity enables strategic depth.
 — Dominic Lieven, *Russia Against Napoleon: The True Story of the
 Campaigns of War and Peace* (2009)
 
