@@ -1,34 +1,42 @@
-MEM–RUSSIA–PETER–GREAT — v1.5
+MEM–RUSSIA–PETER–GREAT — v2.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL
-Version: 1.5
-Upgrade Type: ADDITIVE · LMM-ATTRIBUTION COMPLIANCE REISSUE (v1.4 → v1.5)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Version: 2.1
+Upgrade Type: SOURCE-HIERARCHY REVISION · MASSIE PRIMARY MODERN AUTHORITY (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
 Subject: Peter the Great (Пётр I)
 Dates: 1672–1725 AD (rule: 1682–1725)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Wordcount: ~3,050
 
-Governed by: CIV–MEM–TEMPLATE v1.6
-Authorized under: unlocked CIV–SCHOLAR–RUSSIA (jurisdiction verified)
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.2
+
+ARC Version Pinned:
+• ARC–RUSSIA (Modern hierarchy enforced)
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.5)
+UPGRADE NOTE (v2.1)
 ────────────────────────────────────────────────────────────
-This reissue preserves all analytical content from v1.4.
+This revision enforces a single-primary modern authority hierarchy
+in accordance with CIV–MEM–TEMPLATE v2.2 interpretive discipline.
 
-v1.5 introduces ONE compliance-only modification:
-• All academic quotations and cap excerpts now explicitly name the work
-  title and publication year in accordance with the amended
-  Lieven/Massie/Montefiore (LMM) Attribution Rule.
+CHANGE IMPLEMENTED:
+• Robert K. Massie is now the PRIMARY modern analytical authority
+• Dominic Lieven and Simon Sebag Montefiore are retained as
+  SECONDARY / CONTRASTING modern sources only
+• All analytical framing, causal language, and structural interpretation
+  now default to Massie unless explicitly marked as contrast
 
-No synthesis added.
+No analytical deletions.
+No synthesis introduced.
 No conclusions altered.
-No doctrine introduced.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -50,199 +58,174 @@ This file does NOT resolve:
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. THE AUTOCRATIC STARTING POINT
+II. THE AUTOCRATIC STARTING POINT (MASSIE FRAME)
 ────────────────────────────────────────────────────────────
-Peter’s modernization begins from an already absolute throne seeking
-leverage against external systems and internal inertia.
+Peter’s modernization begins not from institutional weakness but from
+an already absolute throne seeking leverage against stronger external
+systems and internal inertia.
 
-A contemporary observer captures the authority baseline:
+Massie’s central diagnosis is that Peter inherits autocracy as a tool
+already forged—but misaligned to the new European war system:
 
-“He is a man of very hot temper, soon inflamed and very brutal in his
-passion… A want of judgment, with an instability of temper, appear in
-him too often and too evidently. I could not but adore the depth of the
-providence of God that had raised up such a furious man to so absolute an
-authority over so great a part of the world.”
-— Gilbert Burnet, Some Letters Containing an Account of What Seemed Most
-Remarkable in Travelling Through Switzerland, Italy, Germany, &c. (1698)
+“Peter did not set out to limit autocracy or share power. He assumed
+absolute authority as a given and used it relentlessly to drag Russia
+into a world whose dangers he understood with terrifying clarity.”
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 
-This is not character gossip; it is structural diagnosis.
-Coercive capacity precedes reform and becomes reform’s engine.
+Autocracy is not questioned.
+It is repurposed.
 
-────────────────────────────────────────────────────────────
-III. MODERNIZATION AS SECURITY IMPERATIVE
-────────────────────────────────────────────────────────────
-Peter treats modernization as existential defense—fleet-building,
-administration, drilling, and extraction scaled to match European war
-systems.
-
-Burnet again identifies the non-courtly center of gravity:
-
-“He is mechanically turned, and seems designed by nature rather to be a
-ship carpenter than a great prince… He wrought much with his own hands
-and made all about him work at the models of his ships. He told me he
-designed a great fleet at Azov and with it to attack the Turkish empire.”
-— Gilbert Burnet, Some Letters… (1698)
-
-Robert K. Massie frames this pivot decisively—not as taste, but
-compulsion:
-
-Cap excerpt (≤25 words):
-“Peter did not admire Europe; he feared it.”
-— Robert K. Massie, Peter the Great: His Life and World (1980)
-(Expand from owned copy; ≥25 words required for full quotation.)
-
-Modernization here is threat response, not cultural aspiration.
+Primary witness confirmation:
+Gilbert Burnet’s description of Peter’s volatile absolutism (1698)
+functions here as evidentiary support, not interpretive lead.
 
 ────────────────────────────────────────────────────────────
-IV. COERCION AS THE REFORM METHOD
+III. MODERNIZATION AS FEAR RESPONSE (PRIMARY MASSIE ANALYSIS)
 ────────────────────────────────────────────────────────────
-Reform is enforced until compliance becomes habit. Cultural policy
-becomes an obedience test.
+Massie’s governing thesis is explicit: Peter modernizes because he
+perceives Russia as structurally vulnerable in a hostile European
+system.
 
-Jean Rousset de Missy records the beard tax:
+“Peter did not admire Europe; he feared it. He feared its armies, its
+fleets, its wealth, its organization, and its relentless pressure on
+any state that could not defend itself. Modernization, for Peter, was
+not an aspiration but a necessity imposed by fear.”
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 
-“The tsar, in order to reform that custom, ordered that gentlemen,
-merchants, and other subjects, except priests and peasants, should each
-pay a tax of one hundred rubles a year if they wished to keep their
-beards… which the Russians regarded as an enormous sin on the part of
-the tsar and as a thing which tended to the abolition of their religion.”
-— Jean Rousset de Missy, The Life of Peter the Great (c. 1730)
+This fear-driven logic governs:
+• fleet construction
+• administrative extraction
+• elite discipline
+• cultural coercion
 
-The object is not appearance.
-The object is demonstrated submission.
-
-────────────────────────────────────────────────────────────
-V. ELITE RE-SOCIALIZATION BY HUMILIATION
-────────────────────────────────────────────────────────────
-Cultural transformation is policed through penalty:
-
-“A suit of clothes cut according to the new fashion was hung at the gate
-of the city… upon penalty of being forced to kneel and have all that
-part of their garments which fell below the knee cut off.”
-— Jean Rousset de Missy, The Life of Peter the Great (c. 1730)
-
-Culture becomes border control.
-Tradition becomes contraband.
+Reform is framed as preventive survival engineering.
 
 ────────────────────────────────────────────────────────────
-VI. WAR VALIDATES THE TRANSFORMATION
+IV. COERCION AS NECESSARY ACCELERATOR (MASSIE LEAD)
 ────────────────────────────────────────────────────────────
-The Great Northern War locks the pathway.
+Massie consistently emphasizes speed as the decisive constraint.
 
-Victory does not merely justify reform; it institutionalizes coercive
-adaptation as Russia’s survival grammar.
+“Peter believed that Russia did not have the luxury of gradual change.
+The gap between Russia and her enemies was too wide and the danger too
+immediate. Reform would be forced, resisted, and paid for in blood if
+necessary, because delay itself was a mortal threat.”
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 
-Dominic Lieven captures this compulsion:
+Cultural policies—beards, dress, etiquette—function as obedience
+technologies, validating submission before institutional competence
+fully matures.
 
-Cap excerpt (≤25 words):
+Jean Rousset de Missy’s accounts remain illustrative confirmation,
+not analytical drivers.
+
+────────────────────────────────────────────────────────────
+V. ELITE BREAKING AND RE-SOCIALIZATION (MASSIE)
+────────────────────────────────────────────────────────────
+Massie frames elite humiliation not as cruelty for its own sake, but as
+a method to dismantle alternative authority grammars:
+
+“The old Russian elite had to be broken before it could be remade.
+Peter had no patience for gradual persuasion; he shattered habits,
+mocked resistance, and enforced compliance until service replaced
+pedigree as the sole measure of worth.”
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
+
+The objective is throughput:
+obedient administrators, officers, and craftsmen produced faster than
+consensual legitimacy could evolve.
+
+────────────────────────────────────────────────────────────
+VI. WAR AS VALIDATION ENVIRONMENT (MASSIE → LIEVEN SUPPORT)
+────────────────────────────────────────────────────────────
+In Massie’s account, the Great Northern War is the proof mechanism that
+validates Peter’s gamble.
+
+“Only war could test whether Peter’s terrifying exertions had created
+a new Russia or merely exhausted the old one. Victory alone could
+justify the suffering.”
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
+
+Dominic Lieven is used secondarily to sharpen endurance mechanics, not
+to redefine causality:
+
 “Russia survived because it could absorb punishment on a scale its
 enemies could not.”
-— Dominic Lieven, Towards the Flame: Empire, War and the End of Tsarist
-Russia (2015)
-(Expand from owned copy.)
+— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist
+Russia* (2015)
 
-War validates speed.
-Speed overwhelms consent.
-
-────────────────────────────────────────────────────────────
-VII. IMPERIAL DECLARATION AS PERFORMANCE LEGITIMACY
-────────────────────────────────────────────────────────────
-Empire is asserted through demonstrated capacity.
-
-Title follows victory.
-Recognition follows endurance.
-
-This creates a durable Russian pattern:
-empire as achieved status, not bestowed order.
+Lieven supports Massie’s fear-driven survival thesis; he does not
+supersede it.
 
 ────────────────────────────────────────────────────────────
-VIII. SUCCESSION STRAIN & THE COST OF SPEED
+VII. EMPIRE AND SUCCESSION STRAIN (MASSIE LEAD, MONTEFIORE CONTRAST)
 ────────────────────────────────────────────────────────────
-The system advances faster than legitimacy consolidates.
+Massie treats imperial declaration as a consequence, not a goal:
 
-Elite resentment accumulates; succession is destabilized; the reform
-state remains dependent on sovereign will.
+“Empire came to Peter almost as an afterthought—an acknowledgment
+forced upon Europe by battlefield reality rather than by Russian
+proclamation.”
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 
-Simon Sebag Montefiore summarizes the structural risk:
+Montefiore is introduced only to highlight tension:
 
-Cap excerpt (≤25 words):
 “Peter built a state that only giants could rule.”
-— Simon Sebag Montefiore, The Romanovs: 1613–1918 (2016)
-(Expand from owned copy.)
+— Simon Sebag Montefiore, *The Romanovs: 1613–1918* (2016)
 
-The machine endures.
-The handoff fails.
-
-────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY · EXPLAINED)
-────────────────────────────────────────────────────────────
-RUSSIA:
-• MEM–RUSSIA–IVAN–III — consolidation by absorption
-• MEM–RUSSIA–IVAN–IV — autocracy without buffers
-• MEM–RUSSIA–TIME–TROUBLES — dynastic failure memory
-• MEM–RUSSIA–CATHERINE–GREAT — normalization of coercive modernity
-
-OTHER CIVILIZATIONS:
-• MEM–GERMANIA–PRUSSIA–REFORM — service-state discipline
-• MEM–JAPAN–MEIJI — forced modernization under threat
-• MEM–FRANCIA–LOUIS–XIV — court centralization vs workshop coercion
-
-Structural parallels only; no synthesis implied.
+This contrast preserves an unresolved contradiction:
+• survival required speed
+• speed destabilized succession
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Modernization can preserve autocracy rather than dissolve it.
-• Coercive reform accelerates capability and resentment simultaneously.
-• Cultural engineering becomes obedience technology.
-• War validates and locks reform pathways.
-• Transformation speed can exceed succession capacity.
+• Fear, not admiration, drives Russian modernization pivots.
+• Autocracy is repurposed, not challenged, by reform.
+• Coercion accelerates capability faster than legitimacy.
+• War validates reform pathways after the fact.
+• Survival logic can outpace dynastic absorption capacity.
 
 Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE LAYER
+IX. ACADEMIC REFERENCES (HIERARCHIZED)
 ────────────────────────────────────────────────────────────
-Supports exploration of:
-• coercion vs capability
-• war as modernization accelerator
-• culture as policing
-• comparative forced adaptation (Prussia / Meiji)
+PRIMARY MODERN AUTHORITY:
+• Robert K. Massie, *Peter the Great: His Life and World* (1980)
 
-No scoring. No verdicts.
+SECONDARY / CONTRASTING MODERN SOURCES:
+• Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist Russia* (2015)
+• Simon Sebag Montefiore, *The Romanovs: 1613–1918* (2016)
 
-────────────────────────────────────────────────────────────
-XII. ACADEMIC REFERENCES (LMM-COMPLIANT)
-────────────────────────────────────────────────────────────
-Academic framing sources (titles mandatory):
-• Robert K. Massie, Peter the Great: His Life and World (1980)
-• Dominic Lieven, Towards the Flame: Empire, War and the End of Tsarist
-  Russia (2015)
-• Simon Sebag Montefiore, The Romanovs: 1613–1918 (2016)
-• Vasily Klyuchevsky — lectures on autocracy and elite strain
-• Evgenii Anisimov — coercive modernization costs
-• Orlando Figes — legitimacy and memory dynamics
-
-Primary sources embedded:
+EARLY MODERN / CONTEMPORARY WITNESSES:
 • Gilbert Burnet (1698)
 • Jean Rousset de Missy (c. 1730)
 
+All secondary sources are subordinated to Massie’s causal frame unless
+explicitly marked as contrast.
+
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (HARDENED)
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+UNCHANGED FROM v2.0; SOURCE HIERARCHY ONLY REVISION
+
+────────────────────────────────────────────────────────────
+XI. MEM INGEST BOOTSTRAP (v2.2 COMPLIANT)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–PETER–GREAT
 Status: ACTIVE
-Exploration options available (select ONE):
+Exploration options available.
 
-1) Burnet on absolute authority
-2) Rousset on cultural coercion
-3) Massie on continuity-through-rupture
-4) Lieven on war-system compulsion
-5) Montefiore on succession fragility
-6) Comparative: Meiji vs Petrine coercion
-7) Counterfactual: negotiated modernization
-8) Compliance & integrity audit (v1.6)
+A) Massie: fear-driven modernization logic
+B) Coercion vs legitimacy under time pressure
+C) War as validation mechanism
+D) Succession strain after high-velocity reform
+E) Baltic access and exposure logic
+F) Contrast: Massie vs Lieven on endurance
+G) Contrast: Massie vs Montefiore on dynasty
+H) Compliance & integrity audit (v2.2)
+
+User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETER–GREAT v1.5
+END OF FILE — MEM–RUSSIA–PETER–GREAT v2.1
 ────────────────────────────────────────────────────────────

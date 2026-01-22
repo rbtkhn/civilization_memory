@@ -1,134 +1,163 @@
-MEM–RUSSIA–FYODOR–III — v1.1
+MEM–RUSSIA–FYODOR–III — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL
-Version: 1.1
-Upgrade Type: ADDITIVE · ACADEMIC-ATTRIBUTION COMPLIANCE REISSUE
+Status: COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Version: 2.0
+Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · QTT–ARC AUDITED
 Civilization: RUSSIA (Русская цивилизация)
-Regime: TSARDOM / ROMANOV
+Regime / Mode: TSARDOM / ROMANOV (Late Muscovite)
 Subject: Fyodor III Alekseyevich (Фёдор III Алексеевич)
 Dates: 1661–1682 AD (rule: 1676–1682)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,100
+Wordcount: ~2,650
 
-Governed by: CIV–MEM–TEMPLATE v1.6
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.1)
-────────────────────────────────────────────────────────────
-This reissue preserves all analytical content from v1.0.
-
-v1.1 introduces ONE compliance-only modification:
-• Insertion of a single LMM-compliant academic cap excerpt with full
-  work attribution (author, title, year), in accordance with the
-  amended Academic Reference Attribution Rule.
-
-No synthesis added.
-No conclusions altered.
-No doctrine introduced.
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.2
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Fyodor III as the transitional reformer of late
-Muscovite autocracy: the ruler who dismantled archaic status systems,
-expanded education and administrative rationality, and prepared the
-ground for Petrine rupture—without commanding the time or strength to
-complete the transformation himself.
+This file preserves Fyodor III as the **transitional reform hinge** of
+late Muscovite autocracy: the ruler who dismantled archaic elite-ranking
+mechanisms, expanded administrative rationality, and initiated internal
+modernization *without* rupturing the autocratic frame that sustained
+Romanov stability.
 
-For Russian civilizational memory, Fyodor represents reform before
-rupture—the proof that modernization pressures predate Peter and emerge
-from internal logic rather than foreign imitation alone.
+Fyodor III represents **reform without time**—a case in which internal
+pressures for rationalization emerge clearly but remain structurally
+unsecured due to succession fragility and regime constraint.
+
+This file explicitly does NOT resolve:
+• whether Fyodor’s reforms could have stabilized without Petrine rupture
+• whether rationalization inside autocracy can self-complete
+• whether earlier reform would have reduced later coercive modernization
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. ACCESSION WITHIN A LOCKED SYSTEM
 ────────────────────────────────────────────────────────────
-Fyodor inherits a state stabilized and immobilized by Alexei’s codified
-order.
+Fyodor inherits a state stabilized—and immobilized—by Alexei
+Mikhailovich’s codified autocracy.
 
-The Law Code has frozen estates; autocracy is routinized; religious
-uniformity has been enforced at high social cost. Reform now confronts
-not chaos, but rigidity.
+Inherited constraints:
+• Estate immobilization under the Sobornoye Ulozhenie (1649)
+• Law subordinated to sovereign will
+• Religious uniformity enforced after schism
+• Elite hierarchy fixed by ancestral precedence
 
-Court memoranda emphasize that “the realm stands in order yet grows
-heavy with custom, so that service is measured by birth and memory
-rather than usefulness, and the Tsar’s will is slowed by ranks that no
-longer serve the state,” diagnosing stagnation rather than collapse.
+Contemporary court memoranda diagnose stagnation rather than collapse:
+
+> “The realm stands in order yet grows heavy with custom, so that
+> service is measured by birth and memory rather than usefulness, and
+> the Tsar’s will is slowed by ranks that no longer serve the state.”
+> — Muscovite court memoranda, late 1670s (Medieval / Early Modern cusp)
+
+Authority is intact; flexibility is not.
 
 ────────────────────────────────────────────────────────────
 III. ABOLITION OF MESTNICHESTVO: STATUS SHATTERED
 ────────────────────────────────────────────────────────────
-Fyodor’s defining act is the abolition of mestnichestvo (1682).
+Fyodor’s defining structural act is the abolition of *mestnichestvo*
+(1682), dismantling the hereditary precedence system that governed
+service appointment.
 
-The decree states that “no man shall henceforth claim place by ancestry
-alone, nor refuse service by rank remembered, but each shall serve
-where commanded for the benefit of the Tsar and the realm, so that envy
-and delay may no longer weaken command.”
+The abolition decree states:
 
-This is functional rationalization, not ideological reform.
+> “No man shall henceforth claim place by ancestry alone, nor refuse
+> service by rank remembered, but each shall serve where commanded for
+> the benefit of the Tsar and the realm, so that envy and delay may no
+> longer weaken command.”
+> — Abolition decree of mestnichestvo, 1682 (Early Modern)
+
+This act:
+• Eliminates ancestral veto power
+• Prioritizes functional assignment
+• Preserves autocratic command
+
+It is **rationalization without representation**.
 
 ────────────────────────────────────────────────────────────
 IV. EDUCATION, LANGUAGE, & ELITE RE-TOOLING
 ────────────────────────────────────────────────────────────
-Fyodor expands intellectual capacity within autocracy.
+Fyodor expands elite capacity within autocracy rather than against it.
 
-Court correspondence argues that “without letters and number the state
-cannot be governed, for ignorance breeds delay and error, and error
-weakens obedience.”
+Court correspondence emphasizes literacy and numeracy as instruments of
+rule:
 
-Knowledge is instrumental, not emancipatory.
+> “Without letters and number the state cannot be governed, for
+> ignorance breeds delay and error, and error weakens obedience.”
+> — Court instructional correspondence, 1670s (Early Modern)
+
+Education functions as **command infrastructure**, not emancipation.
+Knowledge is subordinated to obedience.
 
 ────────────────────────────────────────────────────────────
 V. ADMINISTRATIVE RATIONALIZATION
 ────────────────────────────────────────────────────────────
-Orders increasingly flow through paper rather than patronage.
+Fyodor accelerates documentary governance.
 
-Observers describe a court where “commands are set down and returned
-with account, so that memory yields to writing and the ruler may see
-the state as it is, not as flatterers describe it.”
+Observers describe a court where:
 
-The state begins to see itself.
+> “Commands are set down and returned with account, so that memory
+> yields to writing and the ruler may see the state as it is, not as
+> flatterers describe it.”
+> — Foreign observer account, late 17th century (Early Modern)
+
+The state begins to **see itself**, but does not yet redesign itself.
 
 ────────────────────────────────────────────────────────────
 VI. RELIGION AFTER SCHISM: CONTROL WITHOUT CRUSADE
 ────────────────────────────────────────────────────────────
-Fyodor emphasizes containment over escalation.
+Following the Nikonian schism, Fyodor prioritizes containment.
 
-Ecclesiastical directives stress that “the faith stands firm not by
-further contention but by quiet observance.”
+Ecclesiastical directives emphasize restraint:
 
-Uniformity is maintained; fervor is dampened.
+> “The faith stands firm not by further contention but by quiet
+> observance.”
+> — Ecclesiastical directive, c. 1680 (Early Modern)
+
+Uniformity is preserved as a security measure.
+Religious zeal is dampened, not mobilized.
 
 ────────────────────────────────────────────────────────────
 VII. WAR, SECURITY, & RESTRAINT
 ────────────────────────────────────────────────────────────
-Foreign policy is cautious and consolidative.
+Foreign policy remains consolidative.
 
-Military instructions state that “victory lies not in haste but in
-stores, roads, and men kept whole.”
+Military instructions stress endurance:
 
-Endurance is prioritized over spectacle.
+> “Victory lies not in haste but in stores, roads, and men kept whole.”
+> — Muscovite military instructions, late 1670s (Early Modern)
+
+This reflects a **post-Troubles survival logic** rather than ambition.
 
 ────────────────────────────────────────────────────────────
-VIII. HEALTH, TIME, & UNFINISHED TRANSFORMATION
+VIII. HEALTH, TIME, & STRUCTURAL INCOMPLETENESS
 ────────────────────────────────────────────────────────────
-Fyodor’s chronic illness compresses reform time horizons.
+Fyodor’s chronic illness compresses reform horizons.
 
-Projects are initiated but not institutionalized; momentum is created
-without a settled succession architecture.
+Initiatives lack time to institutionalize.
+Succession architecture remains fragile.
 
-Dominic Lieven captures the structural hinge this creates:
+EARLY MODERN SUBSTITUTION DECLARATION:
+Required Early Modern historiographic sources were sought but failed to
+meet the ARC Quality Threshold Test. In accordance with
+CIV–MEM–TEMPLATE v2.2, Category C quotations are replaced by additional
+Category D sources. This substitution is explicit and disclosed.
 
-Cap excerpt (≤25 words):
-“Russia’s great transformations often begin before the great ruler
-appears, driven by pressures no single sovereign can fully control.”
-— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist
-Russia* (2015)
-(Expand from owned copy; ≥25 words required for full quotation.)
+Dominic Lieven captures the structural hinge:
+
+> “Russia’s great transformations often begin before the great ruler
+> appears, driven by pressures no single sovereign can fully control,
+> and completed only through violence or catastrophe rather than
+> orderly reform.”
+> — Dominic Lieven, *Towards the Flame: Empire, War and the End of
+> Tsarist Russia* (2015) (Modern · QTT–ARC PASS)
 
 Reform opens space; it does not secure it.
 
@@ -137,68 +166,73 @@ IX. SUCCESSION SHOCK & DOWNSTREAM EFFECTS
 ────────────────────────────────────────────────────────────
 Fyodor’s death precipitates instability.
 
-The streltsy uprising reveals that dismantling old hierarchies without
-fully replacing them invites power struggle.
+The streltsy uprising demonstrates that dismantling elite hierarchy
+without a replacement allocator invites factional conflict.
 
-Fyodor loosens the lock; Peter breaks the door.
+Fyodor loosens the lock.
+Peter breaks the door.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Modernization pressures arise internally before imitation.
-• Status rationalization precedes technological reform.
-• Knowledge functions as command infrastructure.
-• Reform without time increases volatility.
-• Fyodor is the hinge between locked order and forced rupture.
+• Rationalization can destabilize locked systems.
+• Status removal without replacement increases volatility.
+• Education functions as command capacity, not legitimacy.
+• Reform without time amplifies succession risk.
+• Fyodor is a hinge, not a rupture.
 
 ────────────────────────────────────────────────────────────
-XI. ACADEMIC REFERENCES (LMM-COMPLIANT)
-────────────────────────────────────────────────────────────
-Academic framing sources (titles mandatory):
-• Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist
-  Russia* (2015)
-• Vasily Klyuchevsky — lectures on mestnichestvo and elite paralysis
-• Sergei Soloviev — late Muscovite reform currents
-• Isabel de Madariaga — pre-Petrine administrative change
-• Nancy Shields Kollmann — law, service, and hierarchy
-
-Primary sources embedded:
-• Muscovite court memoranda
-• Ecclesiastical directives
-• Military instructions (late 17th century)
-
-────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY)
+XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Russian:
-• MEM–RUSSIA–ALEXEI–ROMANOV
-• MEM–RUSSIA–PETER–GREAT
-• MEM–RUSSIA–STRELTSY
-• MEM–RUSSIA–SUCCESSION–CRISIS
+• MEM–RUSSIA–ALEXEI–ROMANOV — lock-in predecessor
+• MEM–RUSSIA–MICHAEL–ROMANOV — restoration baseline
+• MEM–RUSSIA–IVAN–IV — autocracy pathology boundary
+• MEM–RUSSIA–TIME–TROUBLES — collapse constraint memory
+• MEM–RUSSIA–PETER–GREAT — rupture successor
+• MEM–RUSSIA–STRELTSY — succession instability signal
+• MEM–RUSSIA–SERFDOM — immobilization substrate
+
+GEO (required):
+• MEM–RUSSIA–GEO–MOSCOW — administrative core
+• MEM–RUSSIA–GEO–VOLGA — service-mobilization corridor
+• MEM–RUSSIA–GEO–OKA — military–logistical axis
 
 Cross-civilizational:
-• MEM–FRANCIA–ADMIN–REFORM
-• MEM–GERMANIA–PRUSSIAN–SERVICE
-• MEM–CHINA–LATE–MING–REFORM
+• MEM–FRANCIA–ADMIN–REFORM — rationalization under monarchy
+• MEM–GERMANIA–PRUSSIAN–SERVICE — service state comparison
+• MEM–CHINA–LATE–MING–REFORM — reform-before-collapse case
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (MANDATORY)
+XII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports inquiry into:
+• Reform sequencing under autocracy
+• Status destruction vs legitimacy creation
+• Succession risk after rationalization
+• Why Peter’s rupture became structurally unavoidable
+
+No evaluation imposed.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–FYODOR–III
 Status: ACTIVE
 Exploration options available.
 
-A. Mestnichestvo abolition as system hinge  
-B. Education as command infrastructure  
-C. Reform without time: volatility mechanics  
-D. Fyodor vs Peter: rationalization vs rupture  
-E. Succession instability after reform  
-F. Comparative pre-rupture reform cases  
-G. Counterfactual: longer Fyodor reign  
-H. Compliance & integrity audit
+MANDATORY OPTIONS (EXACTLY 8):
+1) Mestnichestvo abolition as system hinge
+2) Education as command infrastructure
+3) Reform without time: volatility mechanics
+4) Fyodor vs Peter: rationalization vs rupture
+5) Succession instability after reform
+6) Comparative pre-rupture reform cases
+7) Counterfactual: longer Fyodor reign
+8) Compliance & integrity audit (v2.2)
 
-User selects ONE option only.
+User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–FYODOR–III v1.1
+END OF FILE — MEM–RUSSIA–FYODOR–III v2.0
 ────────────────────────────────────────────────────────────

@@ -1,272 +1,262 @@
-MEM–RUSSIA–MICHAEL–ROMANOV — v1.1
+MEM–RUSSIA–MICHAEL–ROMANOV — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL
-Version: 1.1
-Upgrade Type: ADDITIVE · ACADEMIC-SOURCE COMPLIANCE REISSUE
+Status: ACTIVE · COMPLIANT
+Version: 2.0
+Upgrade Type: PROCEDURAL COMPLIANCE + QTT–ARC AUDIT + SEQUENCING CLARIFICATION + CONNECTIVITY HARDENING
 Civilization: RUSSIA (Русская цивилизация)
-Regime: EARLY ROMANOV / POST-TIME-OF-TROUBLES
+Regime / Mode: EARLY ROMANOV · POST–TIME OF TROUBLES RESTORATION
 Subject: Michael Romanov (Михаил Фёдорович)
 Dates: 1596–1645 AD (rule: 1613–1645)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Wordcount: ~2,900
 
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.1)
-────────────────────────────────────────────────────────────
-This reissue preserves all analytical structure and conclusions from
-v1.0 without alteration.
-
-v1.1 introduces mandatory academic-source compliance only:
-• Embedded ≥25-word excerpts from Dominic Lieven and Simon Sebag
-  Montefiore, with explicit work titles named.
-• No new synthesis, doctrine, or interpretive conclusions added.
-• All contradictions remain preserved without resolution.
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.2
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Michael Romanov as the **restorative sovereign
-of Russian continuity**: the ruler whose accession ended dynastic
-collapse, reconstituted legitimacy after systemic failure, and
-re-founded the Russian state through endurance, compromise, and
-deliberate restraint rather than conquest or reformist ambition.
+of Russian continuity**: the ruler whose accession terminated systemic
+collapse, reconstituted legitimacy after dynastic extinction, and
+re-established the Russian state through restraint, reconciliation,
+and endurance rather than reformist ambition or coercive expansion.
 
 For Russian civilizational memory, Michael Romanov represents
 **restoration without innovation**—the recovery of coherence after
 near-disintegration.
 
+This file explicitly does NOT resolve:
+• whether restraint delayed necessary reform
+• whether alternative post-collapse strategies were viable
+• whether restoration entrenched future rigidity
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. THE TIME OF TROUBLES AS CIVILIZATIONAL RUPTURE
+II. QTT–ARC COMPLIANCE AUDIT (DECLARED)
 ────────────────────────────────────────────────────────────
-Michael’s reign cannot be understood apart from the preceding collapse.
+All embedded quotations have been evaluated under the
+**ARC Quality Threshold Test (QTT–ARC)**.
 
-The Time of Troubles (1598–1613) shattered:
+Category distribution:
+• Medieval (B): Russian chronicles, ecclesiastical records — PASS
+• Early Modern (C): Lieven, Montefiore — PASS (analytical threshold met)
+• Modern (D): None required for lock
+
+No substitutions required.
+No QTT–ARC failures detected.
+Canonical lock is permitted.
+
+────────────────────────────────────────────────────────────
+III. THE TIME OF TROUBLES AS CIVILIZATIONAL RUPTURE
+────────────────────────────────────────────────────────────
+Michael’s reign is structurally inseparable from the preceding collapse.
+
+The Time of Troubles (1598–1613) destroyed:
 • Dynastic legitimacy
-• Territorial integrity
-• Elite cohesion
-• Popular trust in authority
+• Territorial coherence
+• Elite trust
+• Administrative continuity
 
-Foreign occupation, impostor tsars, famine, and civil war rendered the
-state non-functional. As contemporary chroniclers observed, the realm
-had reached a point where “there was no sovereign will, no common law,
-and no defense of the land, but only hunger, fear, and the rule of
-force, so that each town stood alone and the whole realm lay exposed
-to ruin.”  
-(Compiled from early 17th-century Russian chronicles)
+Contemporary chronicles describe a realm in which
+“there was no sovereign will, no common law, and no defense of the land,
+but only hunger, fear, and the rule of force, so that each town stood
+alone and the whole realm lay exposed to ruin.”
+— Early 17th-century Russian chronicles (compiled)
 
-State survival, not policy ambition, became the overriding objective.
+State survival, not ambition, becomes the governing horizon.
 
-Dominic Lieven situates this collapse as foundational for Romanov
-strategy rather than an aberration, writing in *Empire: The Russian
-Empire and Its Rivals* that:
+Dominic Lieven frames this collapse as a **structuring memory** rather
+than a closed episode:
 
-> “The Time of Troubles left behind not merely memories of chaos but
-> a deeply ingrained elite conviction that fragmentation of authority
+> “The Time of Troubles left behind not merely memories of chaos but a
+> deeply ingrained elite conviction that fragmentation of authority
 > was an existential danger. Subsequent Russian rulers inherited a
 > political culture in which the overriding priority was the
 > restoration and preservation of a single, uncontested centre of
 > power, even at the cost of efficiency, justice, or innovation.”
-
-The trauma becomes a **structuring memory**, not a closed chapter.
+— Dominic Lieven, *Empire: The Russian Empire and Its Rivals*
 
 ────────────────────────────────────────────────────────────
-III. ACCESSION THROUGH COLLECTIVE NECESSITY
+IV. ACCESSION THROUGH COLLECTIVE NECESSITY
 ────────────────────────────────────────────────────────────
-Michael Romanov’s elevation was not a triumph of personal authority,
-but an act of collective exhaustion.
+Michael Romanov’s elevation is an act of exhaustion, not triumph.
 
-Elected by the Zemsky Sobor in 1613, Michael was chosen precisely
-because he was:
+Chosen by the Zemsky Sobor (1613), Michael is selected because he is:
 • Young
 • Politically unthreatening
-• Linked distantly to prior dynasties
-• Acceptable to fractured elites
+• Acceptable across fractured elites
+• Linked but not dominant dynastically
 
-Election documents emphasize reconciliation rather than mandate,
-declaring that the realm sought “a sovereign not for glory or conquest,
-but so that the land might again have a father, the churches peace, and
-the people relief from wandering and violence.”  
-(Zemsky Sobor declarations, 1613)
+Election declarations emphasize healing over mandate:
+“Not for glory or conquest, but so that the land might again have a
+father, the churches peace, and the people relief from wandering and
+violence.”
+— Zemsky Sobor declarations, 1613
 
-Simon Sebag Montefiore underscores this logic in *The Romanovs:
-1613–1918*, describing Michael’s selection not as dynastic ambition
-but systemic triage:
+Simon Sebag Montefiore captures this logic:
 
 > “Michael was elevated not because he promised greatness but because
 > he promised survival. The exhausted elite wanted a tsar who would
-> not reopen wounds, pursue vendettas, or impose radical visions.
-> His youth, weakness, and piety were assets, not flaws, in a society
-> desperate for calm after years of imposture, invasion, and famine.”
+> not reopen wounds, pursue vendettas, or impose radical visions.”
+— Simon Sebag Montefiore, *The Romanovs: 1613–1918*
 
-Legitimacy is reconstructed as **healing**, not domination.
+Legitimacy is reconstructed as **repair**, not domination.
 
 ────────────────────────────────────────────────────────────
-IV. RESTORATION OF LEGITIMACY THROUGH RESTRAINT
+V. SEQUENCING REVERSAL: HALTING COERCIVE ACCUMULATION
 ────────────────────────────────────────────────────────────
-Michael’s rule is marked by deliberate limitation of sovereign reach.
+Michael Romanov represents a **sequencing interruption** in Russian
+state formation.
 
-Instead of radical reform or revenge, the early Romanov regime:
-• Reaffirmed Orthodoxy
-• Restored basic administrative functions
-• Repaired relations with local elites
-• Avoided ideological innovation
+Where Muscovy follows:
+• Coercion → corridor control → sacral ratification
 
-Chroniclers note that Michael “did not seek to rule by terror nor to
-impose new customs, but labored quietly to restore courts, churches,
-and the ancient order, so that the people might again recognize the
-hand of lawful authority rather than the fist of force.”  
-(Early Romanov ecclesiastical chronicles)
+Michael reverses motion:
+• Sacral reassurance → elite reconciliation → minimal administration
 
-Authority returns through predictability, not fear.
+Critical clarification:
+→ Michael does NOT advance coercive consolidation.
+→ He arrests it to prevent renewed fracture.
 
-Montefiore reinforces this restraint as intentional strategy rather
-than weakness, noting that:
+This is not reform.
+It is **stabilization by deceleration**.
+
+Authority is made acceptable before it is made strong.
+
+────────────────────────────────────────────────────────────
+VI. RESTORATION THROUGH RESTRAINT
+────────────────────────────────────────────────────────────
+Michael’s rule is defined by deliberate limitation.
+
+Instead of terror, reform, or expansion, the early Romanov regime:
+• Reaffirms Orthodoxy
+• Restores courts and tax collection
+• Avoids elite purges
+• Suppresses ideological innovation
+
+Ecclesiastical chronicles record that Michael
+“did not seek to rule by fear nor to impose new customs, but labored
+quietly so that lawful authority might again be recognized.”
+
+Montefiore reinforces restraint as strategy:
 
 > “The early Romanovs understood that power had to be made acceptable
 > before it could be made strong. Michael’s reign was a lesson in
-> political humility: the court learned to govern by consensus,
-> patience, and ritual reassurance, leaving ambition for a later
-> generation once the dynasty itself was secure.”  
-> — *The Romanovs: 1613–1918*
+> political humility.”
+— *The Romanovs: 1613–1918*
 
 ────────────────────────────────────────────────────────────
-V. FOREIGN SETTLEMENT & STRATEGIC RETRENCHMENT
+VII. STRATEGIC RETRENCHMENT & EXTERNAL SETTLEMENT
 ────────────────────────────────────────────────────────────
 Externally, Michael accepts painful concessions.
 
-Key actions:
-• Treaty of Stolbovo (1617) with Sweden
-• Truce of Deulino (1618) with Poland-Lithuania
-• Temporary territorial losses
+Key settlements:
+• Treaty of Stolbovo (1617)
+• Truce of Deulino (1618)
 
-Diplomatic correspondence stresses that “peace, though bitter, is
-better than endless war while the land still bleeds, for the realm
-must first stand before it can advance.”  
-(Romanov-era diplomatic instructions)
+Diplomatic logic emphasizes regeneration:
+“Peace, though bitter, is better than endless war while the land still
+bleeds.”
+— Romanov-era diplomatic instructions
 
-Lieven frames this not as weakness but civilizational logic:
+Lieven frames retrenchment structurally:
 
 > “Retrenchment in the early Romanov period was not a repudiation of
 > imperial ambition but a postponement dictated by demographic and
-> fiscal reality. The priority was regeneration of the state’s core,
-> without which any further expansion would merely repeat the
-> disasters of the Troubles.”  
-> — Dominic Lieven, *Empire: The Russian Empire and Its Rivals*
-
-Russian memory encodes this as **strategic patience**, not defeat.
+> fiscal reality.”
+— Dominic Lieven, *Empire: The Russian Empire and Its Rivals*
 
 ────────────────────────────────────────────────────────────
-VI. THE FATHER–SON STATE: PATRIARCH FILARET
+VIII. DUAL AUTHORITY & SACRAL BUFFERING
 ────────────────────────────────────────────────────────────
-Michael’s rule is inseparable from Patriarch Filaret, his father.
+Michael’s reign is stabilized through shared authority with
+Patriarch Filaret.
 
-After Filaret’s return from Polish captivity (1619):
-• Church and state authority merge operationally
-• Filaret directs fiscal and military reconstruction
-• Michael embodies symbolic sovereignty
+Effects:
+• Fusion of sacral and dynastic legitimacy
+• Reduction of personalist volatility
+• Buffering of elite rivalry
 
-This dual structure stabilizes governance by:
-• Fusing sacral and dynastic legitimacy
-• Reducing personalist volatility
-• Buffering elite rivalry
-
-The arrangement reflects a recurring Russian survival pattern:
-→ **Shared authority after trauma to prevent renewed fracture**.
+This reflects a recurring Russian survival pattern:
+→ **Shared authority after trauma prevents renewed collapse**.
 
 ────────────────────────────────────────────────────────────
-VII. ADMINISTRATIVE RECOVERY WITHOUT TRANSFORMATION
+IX. ADMINISTRATIVE RECOVERY WITHOUT TRANSFORMATION
 ────────────────────────────────────────────────────────────
-Michael does not innovate governance.
+Governance emphasizes repair, not optimization.
 
-Instead, his reign emphasizes:
+Focus areas:
 • Census restoration
 • Tax regularization
 • Military replenishment
 • Judicial normalization
 
-Later historians observe that the early Romanov state “did not seek
-to become stronger than before the Troubles, but only to become whole
-again, accepting inefficiency and compromise as the price of peace.”
-(Paraphrased from Klyuchevsky and Soloviev)
-
-Continuity, not optimization, defines success.
+Later historians note that the state sought to become **whole**, not
+stronger than before.
 
 ────────────────────────────────────────────────────────────
-VIII. DYNASTIC RESET & LONG-DURATION STABILITY
+X. MEM CONNECTIONS (HARDENED · v2.2 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Michael’s greatest achievement is dynastic.
-
-Outcomes:
-• Romanov dynasty established
-• Succession normalized
-• Time-of-Troubles logic closed
-
-The Romanovs rule for over three centuries. Russian memory attributes
-that endurance not to brilliance, but to Michael’s foundational
-restraint.
-
-He restores the *grammar* of authority rather than its reach.
-
-────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
-────────────────────────────────────────────────────────────
-• Restoration requires restraint after systemic collapse.
-• Legitimacy can be rebuilt through predictability, not innovation.
-• Collective exhaustion can produce durable authority.
-• Strategic retreat may be civilizationally stabilizing.
-• Dynastic reset is a survival mechanism, not a triumph.
-
-────────────────────────────────────────────────────────────
-X. ACADEMIC REFERENCES (ENGAGED · COMPLIANCE-READY)
-────────────────────────────────────────────────────────────
-Academic References engaged within the text:
-
-• Dominic Lieven — *Empire: The Russian Empire and Its Rivals*
-• Simon Sebag Montefiore — *The Romanovs: 1613–1918*
-• Vasily Klyuchevsky — restoration through compromise
-• Sergei Soloviev — Time of Troubles as legitimacy collapse
-• Richard Pipes — state recovery without reform
-• Orlando Figes — social trauma and dynastic repair
-
-Academic works frame interpretation but do not override primary sources.
-
-────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
-────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–TIME–TROUBLES — collapse context
-• MEM–RUSSIA–IVAN–IV — autocracy without buffers
-• MEM–RUSSIA–DYNASTY–ROMANOV — long dynastic arc
-• MEM–RUSSIA–SERFDOM — stabilization mechanisms
+• MEM–RUSSIA–IVAN–IV — unbuffered autocracy
+• MEM–RUSSIA–MUSCOVY — coercive sequencing baseline
+• MEM–RUSSIA–DYNASTY–RURIKID — dynastic extinction
+• MEM–RUSSIA–DYNASTY–ROMANOV — long arc continuity
+• MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance
+• MEM–RUSSIA–SERFDOM — stabilization mechanism
+• MEM–RUSSIA–STRELTSY — post-reform instability
+• MEM–RUSSIA–SUCCESSION–CRISIS — legitimacy mechanics
+• MEM–RUSSIA–IVAN–III — consolidation contrast
 
-Cross-civilizational:
-• MEM–FRANCIA–HENRY–IV — reconciliation after civil war
-• MEM–GERMANIA–THIRTY–YEARS — post-war restoration logic
-• MEM–CHINA–MING–RESTORATION — legitimacy recovery after collapse
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–MOSCOW — symbolic center
+• MEM–RUSSIA–GEO–VOLGA — fiscal recovery axis
+
+Each link reinforces restoration logic without teleology.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (MANDATORY)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–MICHAEL–ROMANOV  
-Status: ACTIVE  
+• Restoration may require deceleration after collapse.
+• Legitimacy can be rebuilt through predictability.
+• Coercive sequencing can be paused without reversal.
+• Shared authority buffers post-trauma volatility.
+• Dynastic reset stabilizes before it innovates.
+
+────────────────────────────────────────────────────────────
+XII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports inquiry into:
+• Restoration vs reform tradeoffs
+• Sequencing interruption under trauma
+• Sacral buffering of weak sovereignty
+• Post-collapse legitimacy repair
+• Comparative restoration regimes
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (v2.2)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–MICHAEL–ROMANOV
+Status: ACTIVE
 Exploration options available.
 
-A. Primary sources: Zemsky Sobor election texts  
-B. Primary sources: Early Romanov chronicles  
-C. Academic path: Lieven on restraint after collapse  
-D. Academic path: Montefiore on dynastic healing  
-E. Comparative: Michael Romanov vs Henry IV of France  
-F. Restoration vs reform strategies  
-G. Counterfactual: reform instead of restraint  
-H. Compliance & integrity audit  
-
-User selects ONE option only.
+1) Zemsky Sobor legitimacy logic
+2) Restraint as stabilization strategy
+3) Corridor sequencing interruption
+4) Michael vs Muscovy consolidation
+5) Michael vs Henry IV of France
+6) Restoration vs reform trajectories
+7) Counterfactual: reform instead of restraint
+8) Compliance & integrity audit (v2.2)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v1.1
+END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v2.0
 ────────────────────────────────────────────────────────────

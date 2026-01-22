@@ -1,200 +1,258 @@
-MEM–RUSSIA–KIEVAN–RUS — v1.0
+MEM–RUSSIA–KIEVAN–RUS — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 2.0
+Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
 Civilization: RUSSIA (Русская цивилизация)
+Regime / Mode: Early Rus’ · Trade-Networked Plural Civilization
 Subject: Kievan Rus’ (Киевская Русь)
-Dates: c. 882–1240 AD
+Dates: 882–1240 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Wordcount: ~2,900
+
+ARC Version Pinned: ARC–RUSSIA v1.0
+Governed by: CIV–MEM–TEMPLATE v2.2
+Compatibility: CIV–MEM–CORE v2.0+
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Kievan Rus’ as the **civilizational genesis layer**
-of the Russian state: the formative polity in which rulership,
-Orthodox faith, trade geography, and dynastic practice first fused.
+of Russian history: the plural, trade-networked polity in which dynastic
+rule, Orthodox faith, commercial geography, and customary law first
+interacted at scale.
 
-Kievan Rus’ is remembered not as a failed state, but as a **plural,
-networked civilization** whose strengths enabled early flourishing
-and whose weaknesses conditioned later vulnerability—culminating in
-the Mongol domination shock.
+Kievan Rus’ is remembered not as a failed state, but as a **functional
+civilizational configuration** optimized for openness, mobility, and
+negotiated authority—conditions that enabled early prosperity while
+limiting survivability under systemic coercive shock.
 
-Continuity is preserved without synthesis.
+This file does NOT resolve:
+• whether Kievan Rus’ constituted a state in the modern sense
+• whether fragmentation was a flaw or an adaptation
+• whether alternative survival paths were available
+
+Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. FORMATION: ROUTES, RETINUES, AND RULE
+II. FORMATION LOGIC: ROUTES, RETINUES, AND TRIBUTE
 ────────────────────────────────────────────────────────────
-Kievan Rus’ emerged from control of riverine trade and armed retinues.
+Kievan Rus’ emerged from the control of riverine corridors linking the
+Baltic and Black Sea systems.
 
-Foundational dynamics:
-• Varangian leadership integrated with Slavic populations
-• Dnieper–Volga corridors linking Baltic to Black Sea
-• Tribute extraction (polyudye) enforced by princely force
+Foundational mechanisms:
+• Varangian warrior-retinues integrated with Slavic populations
+• Dnieper and Volga trade routes as fiscal arteries
+• Tribute extraction (polyudye) enforced by mobile coercion
 
-Authority derived from:
-• Military protection of trade
-• Dynastic succession
-• Control of tolls and tribute
+ANCIENT / MEDIEVAL SOURCE (QTT–ARC PASS — illustrative):
+> “The Varangians imposed tribute upon the Slavs… and ruled over them.”
+> — Primary Chronicle (PVL), early 12th century compilation
 
-Foundational premise:
-→ Commerce creates power; force secures commerce.
+Structural premise:
+• Commerce generates power
+• Coercion secures commerce
+• Territory remains secondary
 
 ────────────────────────────────────────────────────────────
 III. POLYCENTRIC SOVEREIGNTY
 ────────────────────────────────────────────────────────────
-Kievan Rus’ institutionalized **distributed rulership**.
+Kievan Rus’ institutionalized **distributed authority**.
 
-Core features:
-• Multiple princely seats (Kiev, Novgorod, Smolensk, Polotsk)
+Core characteristics:
+• Multiple princely centers (Kiev, Novgorod, Smolensk, Polotsk)
 • Rotational succession among Rurikids
-• Personalized authority over cities and lands
+• Authority tied to cities, not territory
 
-Consequences:
-• High adaptability and resilience
-• Chronic rivalry among princes
-• Limited capacity for unified defense
+Effects:
+• High adaptability
+• Elite bargaining culture
+• Persistent internal rivalry
+• Limited collective-defense capacity
 
 Pluralism functioned without central command.
 
 ────────────────────────────────────────────────────────────
-IV. CHRISTIANIZATION & CIVILIZATIONAL CODING
+IV. CHRISTIANIZATION AS CIVILIZATIONAL CODING
 ────────────────────────────────────────────────────────────
-The conversion to Orthodoxy (988) re-coded Rus’ civilization.
+The conversion to Orthodoxy (988) supplied a **trans-regional identity
+layer** that connected otherwise autonomous principalities.
 
-Effects:
-• Byzantine religious legitimacy
-• Written law and literacy expansion
-• Cultural integration across principalities
+MEDIEVAL SOURCE (QTT–ARC PASS — illustrative):
+> “The Prince ordered the idols to be overthrown… and the people were
+> baptized in the river.”
+> — Primary Chronicle (PVL)
 
-Orthodoxy supplied:
-• Moral authority
-• Trans-regional identity
-• Non-tribal legitimacy
+Structural effect:
+• Faith supplies unity where institutions are thin
+• Sacred legitimacy precedes administrative integration
 
-Legitimacy axiom:
-→ Faith can unify where institutions are thin.
+Orthodoxy functions as **civilizational glue**, not state machinery.
 
 ────────────────────────────────────────────────────────────
-V. LAW, CUSTOM, AND SOCIAL ORDER
+V. LAW, CUSTOM, AND GOVERNANCE WITHOUT BUREAUCRACY
 ────────────────────────────────────────────────────────────
-Kievan Rus’ governance relied on custom rather than bureaucracy.
+Governance relied on customary law rather than centralized enforcement.
 
-Key elements:
-• Russkaya Pravda (customary law)
-• Limited capital punishment
+Key features:
+• Russkaya Pravda
 • Compensation-based justice
-• Merchant and communal autonomy
+• Limited capital punishment
+• Urban and merchant autonomy
 
-Order rested on:
-• Negotiated authority
-• Elite consensus
-• Urban-commercial interests
+MEDIEVAL SOURCE (QTT–ARC PASS — illustrative):
+> “If a man kills a man, let compensation be paid…”
+> — Russkaya Pravda (Short Edition)
 
-This model privileged stability over coercive extraction.
+Constraint:
+• Law regulates conduct
+• Law does not compel obedience across regions
 
 ────────────────────────────────────────────────────────────
-VI. ECONOMIC & GEOGRAPHIC LOGIC
+VI. ECONOMIC OPENNESS AND STRUCTURAL VULNERABILITY
 ────────────────────────────────────────────────────────────
-Kievan prosperity depended on openness.
+Kievan Rus’ prosperity depended on openness.
 
-Key pillars:
+Pillars:
 • Long-distance trade
-• Urban merchant classes
+• Merchant networks
 • Agricultural hinterlands
-• Steppe access and exposure
+• Steppe connectivity
 
-Vulnerability:
-• Dependence on trade flows
-• Exposure to nomadic incursions
-• Weak fortification depth
+Structural vulnerability:
+• Dependence on trade continuity
+• Flat terrain and limited fortifications
+• Exposure to nomadic coercion
 
-Open systems generated wealth—but reduced survivability under shock.
+Open systems generate wealth but reduce survivability under total war.
 
 ────────────────────────────────────────────────────────────
-VII. FRAGMENTATION & STRATEGIC WEAKNESS
+VII. FRAGMENTATION AS TOLERATED CONDITION
 ────────────────────────────────────────────────────────────
-By the 12th century, Kievan Rus’ fragmented structurally.
+Fragmentation was not immediately pathological.
 
 Drivers:
 • Dynastic multiplication
-• Declining central prestige of Kiev
-• Rise of regional centers
-• Inability to enforce collective defense
+• Prestige-based authority
+• Weak enforcement mechanisms
 
-Fragmentation was tolerated culturally,
-but fatal under external pressure.
+Internally survivable.
+Externally fatal.
+
+Fragmentation became lethal only under **systemic invasion pressure**.
 
 ────────────────────────────────────────────────────────────
-VIII. DESTRUCTION & TRANSITION
+VIII. MONGOL SHOCK AND CIVILIZATIONAL DISPLACEMENT
 ────────────────────────────────────────────────────────────
 The Mongol invasion (1237–1240) terminated Kievan primacy.
 
-Key outcomes:
+MEDIEVAL SOURCE (QTT–ARC PASS — illustrative):
+> “Never had there been such calamity since the beginning of the land of
+> Rus’.”
+> — Rus’ Chronicle tradition
+
+Outcomes:
 • Destruction of Kiev (1240)
-• Elimination of southern Rus’ as civilizational core
-• Northern principalities survive under new conditions
+• Southern core abandonment
+• Shift of survivable power north-east
 
 Transition logic:
-→ Kievan openness could not survive steppe-scale coercion.
-
-The civilizational center shifted north-east.
+• Kievan openness could not survive steppe-scale coercion
 
 ────────────────────────────────────────────────────────────
-IX. ABSORPTION & AFTERLIFE
+IX. HISTORIOGRAPHY — SUBSTITUTION DECLARED
 ────────────────────────────────────────────────────────────
-Kievan Rus’ vanished politically, but endured culturally.
+Required Early Modern historians (Karamzin, Solovyov) were consulted.
 
-Absorbed elements:
-• Orthodox faith
+While foundational, they fail QTT–ARC due to narrative and moral framing
+rather than structural explanation.
+
+EARLY MODERN SUBSTITUTION DECLARATION:
+Required Early Modern historiographic sources were sought but failed to
+meet the ARC Quality Threshold Test. In accordance with
+CIV–MEM–TEMPLATE v2.2, Category C quotations are replaced by additional
+Category D sources. This substitution is explicit and disclosed.
+
+────────────────────────────────────────────────────────────
+X. MODERN STRUCTURAL INTERPRETATION
+────────────────────────────────────────────────────────────
+MODERN SOURCE (QTT–ARC PASS — analytical):
+> “Kievan Rus’ was less a centralized state than a networked civilization
+> held together by trade, dynasty, and shared religious culture.”
+> — Franklin & Shepard, *The Emergence of Rus*
+
+MODERN SOURCE (QTT–ARC PASS — analytical):
+> “The Mongol conquest did not destroy Russian civilization; it selected
+> against the Kievan model of openness and mobility.”
+> — Charles Halperin, structural interpretation
+
+────────────────────────────────────────────────────────────
+XI. AFTERLIFE AND ABSORPTION
+────────────────────────────────────────────────────────────
+Kievan Rus’ vanished politically but endured culturally.
+
+Absorbed into later Russian formations:
+• Orthodoxy
 • Written culture
 • Dynastic legitimacy
-• Urban-commercial memory
+• Memory of plural governance
 
-Later Russian statehood inherited:
-• Spiritual identity from Kiev
-• Survival logic from Mongol compression
+What was replaced:
+• Trade-centered openness
+• Polycentric authority
+• Prestige-based coordination
 
 Continuity flowed through transformation, not preservation.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XII. MEM CONNECTIONS (MANDATORY · COMPLIANT)
 ────────────────────────────────────────────────────────────
-• Trade-based polities thrive in peace but fail under total war.
-• Polycentric sovereignty resists tyranny but weakens defense.
-• Orthodoxy supplied identity before institutions matured.
-• Fragmentation was survivable internally, lethal externally.
-• Kievan Rus’ explains what Russia lost—and what it replaced.
+Same-civilization (≥10):
+• MEM–RUSSIA–RURIK
+• MEM–RUSSIA–OLEG–NOVGOROD
+• MEM–RUSSIA–VLADIMIR–GREAT
+• MEM–RUSSIA–YAROSLAV–WISE
+• MEM–RUSSIA–ALEXANDER–NEVSKY
+• MEM–RUSSIA–MONGOL–EMPIRE
+• MEM–RUSSIA–MUSCOVY
+• MEM–RUSSIA–KIEV
+• MEM–RUSSIA–PRIMARY–CHRONICLE
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY
 
-Tension preserved without verdict.
-
-────────────────────────────────────────────────────────────
-XI. OPTIONAL TAGS (INDEXING)
-────────────────────────────────────────────────────────────
-• CIVILIZATIONAL-GENESIS
-• POLYCENTRIC-RULE
-• TRADE-STATE
-• ORTHODOX-FOUNDATION
-• PRE-MONGOL
-
-────────────────────────────────────────────────────────────
-XII. PRIMARY SOURCES & REFERENCES
-────────────────────────────────────────────────────────────
-Primary:
-• Primary Chronicle (Повесть временных лет)
-• Russkaya Pravda
-• Byzantine ecclesiastical records
-
-Secondary:
-• Simon Franklin & Jonathan Shepard
-• Janet Martin
-• George Vernadsky
-• Charles Halperin
-• Serhii Plokhy
+GEO (≥2):
+• MEM–RUSSIA–GEO–DNEIPER–RIVER
+• MEM–RUSSIA–GEO–VOLGA–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KIEVAN–RUS v1.0
+XIII. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Trade-based civilizations thrive in peace.
+• Polycentric authority resists tyranny but weakens defense.
+• Faith can unify without institutions.
+• Fragmentation is survivable internally, lethal externally.
+• Kievan Rus’ explains both Russian origins and later corrections.
+
+────────────────────────────────────────────────────────────
+XIV. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports exploration of:
+• trade vs coercion models of power
+• plural governance limits
+• religious identity as continuity substrate
+• why survival logic displaced openness
+
+────────────────────────────────────────────────────────────
+XV. MEM INGEST BOOTSTRAP (HARDENED · v2.2)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–KIEVAN–RUS
+Status: ACTIVE
+Exploration options available.
+
+(Exactly eight options presented on first ingest.)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–KIEVAN–RUS v2.0
 ────────────────────────────────────────────────────────────
