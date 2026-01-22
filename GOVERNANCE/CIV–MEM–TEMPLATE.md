@@ -1,33 +1,31 @@
-CIV–MEM–TEMPLATE — v2.2
+CIV–MEM–TEMPLATE — v2.3
 Civilizational Memory Codex · Memory File Enforcement Template
-Canonical Standards · Source–Causality–Connectivity · ARC Quality Threshold & Substitution Edition
+Canonical Standards · Source–Causality–Connectivity · ARC Quality Threshold & Binary MEM Connection Edition
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.1
-Upgrade Type: ADDITIVE · ARC QUALITY THRESHOLD & SUBSTITUTION PROTOCOL
+Supersedes: CIV–MEM–TEMPLATE v2.2
+Upgrade Type: ADDITIVE · MEM CONNECTION BINARY ENFORCEMENT
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Wordcount: ~3,980
+Wordcount: ~4,150
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.2)
+UPGRADE NOTE (v2.3)
 ────────────────────────────────────────────────────────────
 This version preserves ALL structure, authority hierarchy, lock semantics,
-and evidentiary requirements from CIV–MEM–TEMPLATE v2.1.
+and evidentiary requirements from CIV–MEM–TEMPLATE v2.2.
 
-v2.2 introduces ADDITIVE governance clarification only:
+v2.3 introduces a single, additive governance clarification:
 
-• Formalizes the ARC Quality Threshold Test (QTT–ARC)
-• Differentiates analytical standards by temporal category
-• Introduces a controlled Early Modern → Modern substitution protocol
-• Converts prior ad hoc handling into enforceable system law
-• No quotation minimums are removed
-• No category definitions are altered
-• No authority boundaries are weakened
+• Formalizes binary MEM Connection enforcement
+• Prohibits weak, contextual, or illustrative connections
+• Eliminates strength grading, scoring, or ranking
+• Clarifies MEM topology as structural dependency mapping only
 
-This upgrade resolves ambiguity regarding historiographic quality without
-relaxing evidentiary discipline.
+No quotation minimums are altered.
+No ARC category rules are changed.
+No evidentiary thresholds are weakened.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -57,6 +55,7 @@ in this exact order:
 • Repository reference
 • Status (ACTIVE / LOCKED / DRAFT)
 • Version (semantic)
+• Supersedes (if applicable)
 • Upgrade Type (if applicable)
 • Civilization
 • Regime / Mode (if applicable)
@@ -101,17 +100,17 @@ V. ARC SOURCE CATEGORIES (FIXED)
 ────────────────────────────────────────────────────────────
 All quotations MUST derive from ARC–[CIV] categories:
 
-A) ANCIENT  
-B) MEDIEVAL  
-C) EARLY MODERN  
-D) MODERN  
+A) ANCIENT
+B) MEDIEVAL
+C) EARLY MODERN
+D) MODERN
 
 Category definitions are governed exclusively by ARC law.
 
 ────────────────────────────────────────────────────────────
-VI. ARC QUALITY THRESHOLD TEST (QTT–ARC) — NEW · HARD
+VI. ARC QUALITY THRESHOLD TEST (QTT–ARC)
 ────────────────────────────────────────────────────────────
-QTT–ARC defines the **minimum functional quality** required for
+QTT–ARC defines the minimum functional quality required for
 quotations by temporal category.
 
 This test governs admissibility, not interpretation.
@@ -119,7 +118,6 @@ This test governs admissibility, not interpretation.
 ────────────────────────────────────────────────────────────
 VI.A CATEGORY-SENSITIVE QUALITY THRESHOLDS
 ────────────────────────────────────────────────────────────
-
 ANCIENT:
 • Function: Direct testimony
 • Threshold: Illustrative / evidentiary
@@ -168,7 +166,7 @@ VI.C GOVERNANCE CONSEQUENCES
 • Failure does NOT invalidate ingestibility
 
 ────────────────────────────────────────────────────────────
-VII. EARLY MODERN SUBSTITUTION PROTOCOL (NEW · CONTROLLED)
+VII. EARLY MODERN SUBSTITUTION PROTOCOL
 ────────────────────────────────────────────────────────────
 If Category C (Early Modern) sources are REQUIRED but FAIL QTT–ARC:
 
@@ -186,7 +184,7 @@ MANDATORY DECLARATION (verbatim):
 “EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with CIV–MEM–TEMPLATE
-v2.2, Category C quotations are replaced by additional Category D sources.
+v2.3, Category C quotations are replaced by additional Category D sources.
 This substitution is explicit and disclosed.”
 
 Silent substitution is PROHIBITED.
@@ -197,7 +195,7 @@ VIII. QUOTATION MINIMUMS (UNCHANGED)
 • Ancient: ≥3 quotations, ≥75 words aggregate
 • Medieval: ≥2 quotations (when applicable)
 • Early Modern: ≥2 quotations OR declared substitution
-• Modern: ≥2 quotations (minimum), more permitted
+• Modern: ≥2 quotations (minimum)
 
 ────────────────────────────────────────────────────────────
 IX. SECONDARY SOURCE ENTANGLEMENT
@@ -206,11 +204,44 @@ Secondary quotations MUST be analytically integrated.
 Citation without analytical engagement is INVALID.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTION REQUIREMENTS
+X. MEM CONNECTION REQUIREMENTS (BINARY · HARD)
 ────────────────────────────────────────────────────────────
+Every MEM file MUST include a dedicated MEM CONNECTIONS section.
+
+Connection requirements:
+
 • ≥10 same-civilization MEM connections
 • ≥2 GEO MEM files required
-• Each connection must justify relevance and strength
+• Each listed connection MUST be structurally necessary
+
+────────────────────────────────────────────────────────────
+X.A BINARY CONNECTION RULE
+────────────────────────────────────────────────────────────
+MEM Connections are binary.
+
+A connection is either:
+• Structurally required → INCLUDED
+• Not structurally required → EXCLUDED
+
+Weak, contextual, illustrative, or optional connections
+MUST NOT be listed.
+
+Strength ratings, scoring, weighting, or gradation
+are explicitly PROHIBITED.
+
+Inclusion in the MEM Connections list itself constitutes
+affirmation of structural necessity.
+
+────────────────────────────────────────────────────────────
+X.B CONNECTION JUSTIFICATION (REQUIRED)
+────────────────────────────────────────────────────────────
+Each MEM Connection MUST include a concise justification explaining:
+
+• What dependency exists
+• Why the connected MEM is necessary for intelligibility
+• What breaks if the connection is removed
+
+Justification is explanatory, not evaluative.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)
@@ -240,7 +271,7 @@ Each MEM MUST declare ARC–[CIV] version used.
 Mismatch blocks canonical lock.
 
 ────────────────────────────────────────────────────────────
-XV. COMPLIANCE TIERS (UNCHANGED)
+XV. COMPLIANCE TIERS
 ────────────────────────────────────────────────────────────
 DRAFT → PARTIAL → COMPLIANT → CANONICAL
 
@@ -269,5 +300,5 @@ XVIII. VERSIONING & LOCK
 • Canonical lock absolute
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.2
+END OF FILE — CIV–MEM–TEMPLATE v2.3
 ────────────────────────────────────────────────────────────
