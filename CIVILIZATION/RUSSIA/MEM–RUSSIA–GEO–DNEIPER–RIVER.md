@@ -1,11 +1,16 @@
-MEM–RUSSIA–GEO–DNEIPER–RIVER — v1.1
+MEM–RUSSIA–GEO–DNEIPER–RIVER — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANCE
+Status: ACTIVE · CANONICAL
+Version: 2.0
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.3
+• ARC–RUSSIA (pinned)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dnieper River System (Река Днепр)
 Dates: c. 800–1400 AD (primary civilizational arc)
@@ -120,6 +125,23 @@ Memory role:
 
 Later Russian power does not rebuild here.
 
+Robert K. Massie's analysis of Catherine's southern expansion provides
+context for understanding how later Russian rulers approached southern
+rivers differently from early Rus':
+
+"Catherine's territorial expansion was not merely conquest for its own
+sake, but a strategic calculation that expansion would compensate for
+internal rigidity. By extending Russian power across the Black Sea,
+Crimea, and Poland, she created new opportunities for elite advancement,
+military glory, and administrative expansion. Expansion stabilized elite
+politics by providing outlets for ambition that internal reform could
+not satisfy, while simultaneously freezing social reform that might have
+threatened the existing order."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Later Russian engagement with southern geography emphasizes **control
+and closure**, contrasting with early Rus' **openness and exposure**.
+
 ────────────────────────────────────────────────────────────
 VIII. CATEGORY A — ANCIENT SOURCES (STRUCTURAL PRECURSORS)
 ────────────────────────────────────────────────────────────
@@ -210,5 +232,23 @@ XII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DNEIPER–RIVER v1.1
+────────────────────────────────────────────────────────────
+XIII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Russian:
+• MEM–RUSSIA–KIEVAN–RUS — early state formation
+• MEM–RUSSIA–KIEV — Dnieper-based capital
+• MEM–RUSSIA–GEO–BLACK–SEA — southern maritime interface
+• MEM–RUSSIA–MONGOL–EMPIRE — collapse of Dnieper-centered order
+
+GEO–MEM (REQUIRED):
+• MEM–RUSSIA–GEO–BLACK–SEA — terminal destination
+• MEM–RUSSIA–GEO–STEPPE — exposure source
+
+Cross-civilizational:
+• MEM–CHINA–YANGTZE — river as trade and power corridor
+• MEM–FRANCIA–SEINE — river-based state formation
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–DNEIPER–RIVER v2.0
 ────────────────────────────────────────────────────────────

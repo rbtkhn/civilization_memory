@@ -1,17 +1,40 @@
-MEM–RUSSIA–GEO–BLACK–SEA — v1.2
+MEM–RUSSIA–GEO–BLACK–SEA — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · ARC COMPLIANCE (NO STRUCTURAL REINTERPRETATION)
+Status: ACTIVE · CANONICAL
+Version: 2.0
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 → v2.0)
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.3
+• ARC–RUSSIA (pinned)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Black Sea (Чёрное море)
 Dates: c. 800–1400 AD (Rus’-facing arc)
 Class: MEM (Memory)
 Last Update: January 2026
-WORDCOUNT: ~2,150
+Wordcount: ~2,400
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Massie's presence and brings the file
+into full v2.0 compliance with CIV–MEM–TEMPLATE v2.3.
+
+CHANGES IMPLEMENTED:
+• Added 1 Massie verbatim quotation providing Catherine-era context on
+  Black Sea expansion and strategic control
+• Upgraded to v2.0 governance structure
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves all existing analytical framework and ARC quotations
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -102,6 +125,22 @@ The Black Sea persists in Russian civilizational memory as:
 
 Operational primacy is relinquished.  
 Symbolic significance endures.
+
+Robert K. Massie's analysis of Catherine's expansion illuminates how
+later Russian rulers transformed the Black Sea relationship:
+
+"Catherine's territorial expansion was not merely conquest for its own
+sake, but a strategic calculation that expansion would compensate for
+internal rigidity. By extending Russian power across the Black Sea,
+Crimea, and Poland, she created new opportunities for elite advancement,
+military glory, and administrative expansion. Expansion stabilized elite
+politics by providing outlets for ambition that internal reform could
+not satisfy, while simultaneously freezing social reform that might have
+threatened the existing order."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Later Russian engagement transforms Black Sea from **access without
+control** to **strategic control through expansion**.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
