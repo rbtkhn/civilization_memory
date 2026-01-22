@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v1.9
+CIV–INDEX–RUSSIA — v2.0
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.9
-Supersedes: CIV–INDEX–RUSSIA v1.8
-Upgrade Type: TEMPLATE ALIGNMENT · CIV–CORE–TEMPLATE v1.9 COMPATIBILITY
+Version: 2.0
+Supersedes: CIV–INDEX–RUSSIA v1.9
+Upgrade Type: REGISTER UPDATE · MISSING FILE ADDITION
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -14,6 +14,17 @@ Last Update: January 2026
 
 Template Alignment: CIV–CORE–TEMPLATE v1.9 (Index-Compatible)
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This version adds a missing file to the register.
+
+v2.0 changes:
+• Added missing file: MEM–RUSSIA–CYRILLIC–SCRIPT.md (in H) OTHER / MISC section)
+• Updated total count: 82 → 83 files
+
+All index entries now match actual MEM files in the directory.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)
@@ -175,6 +186,7 @@ H) OTHER / MISC
 • MEM–RUSSIA–VARANGIANS.md
 • MEM–RUSSIA–CRIMEA.md
 • MEM–RUSSIA–SIBERIA.md
+• MEM–RUSSIA–CYRILLIC–SCRIPT.md
 
 ────────────────────────────────────────────────────────────
 III. ACADEMIC REFERENCES REGISTRY (RUSSIA · CORE-ALIGNED)
@@ -215,7 +227,7 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 WORDCOUNT: ~1,250
-TOTAL REGISTERED FILES: Eighty-two (82) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: Eighty-three (83) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v1.9
+END OF FILE — CIV–INDEX–RUSSIA v2.0
