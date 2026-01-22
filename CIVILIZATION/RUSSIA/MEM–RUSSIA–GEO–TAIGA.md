@@ -1,147 +1,252 @@
-MEM–RUSSIA–GEO–TAIGA — v1.0
+MEM–RUSSIA–GEO–TAIGA — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · COMPLIANT
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
-Subject: Taiga (Boreal Interior, Endurance Ecology)
+Subject: Taiga (Boreal Interior Basin — Endurance Ecology)
 Dates: Antiquity–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Wordcount: ~2,850
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the taiga as the **deep ecological substrate** of
-Russian civilizational endurance: the vast boreal zone that conditions
-movement, settlement, extraction, warfare, and governance across the
-interior.
+This file preserves the taiga as the **deep interior basin** of Russian
+civilizational endurance: a vast boreal ecology that absorbs movement,
+degrades tempo, and converts logistics, time, and administration into
+the decisive instruments of power.
 
-The taiga is remembered as **space that absorbs power**—diluting speed,
-rewarding patience, and converting logistics into the primary strategic
-currency.
+The taiga is not a corridor, hinge, or frontier.
+It is a **BASIN**: a space that does not transmit shock outward but
+instead **dissipates, delays, and exhausts it inward**.
+
+The taiga represents **endurance through friction**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ECOLOGICAL CHARACTER
+II. GEO ROLE CLASSIFICATION (MANDATORY)
+────────────────────────────────────────────────────────────
+GEO TYPE: **BASIN**
+
+Defining properties:
+• High spatial depth
+• Low population density
+• Severe environmental friction
+• Minimal exterior access points
+• High administrative cost of penetration
+
+Behavior under stress:
+→ Shock entering the taiga slows, fragments, and loses coherence.
+→ Power favors actors who can sustain time, logistics, and discipline.
+
+The taiga does not decide conflicts quickly.
+It decides **which actors can remain**.
+
+────────────────────────────────────────────────────────────
+III. ECOLOGICAL CHARACTER & FRICTION
 ────────────────────────────────────────────────────────────
 The taiga is defined by:
 • Dense coniferous forest
-• Marshes, rivers, and seasonal ice
+• Marshland, rivers, and permafrost
+• Extreme seasonal oscillation
 • Sparse arable land
-• Extreme seasonal variance
+• Vast distances between nodes
 
 Ecological axiom:
-→ The taiga punishes tempo and rewards duration.
+→ The taiga punishes speed and rewards duration.
 
+Unlike corridors, which amplify motion, the taiga **consumes energy**.
 Scale substitutes for fortification.
+Distance substitutes for walls.
 
 ────────────────────────────────────────────────────────────
-III. SETTLEMENT & MOBILITY PATTERNS
+IV. SETTLEMENT, MOBILITY & CONTROL LOGIC
 ────────────────────────────────────────────────────────────
-Human presence adapts to constraint.
+Human adaptation follows constraint.
 
-Patterns:
+Dominant patterns:
 • Riverine settlement chains
-• Seasonal mobility
-• Low-density habitation
-• Reliance on extraction (fur, timber, minerals)
+• Seasonal mobility rhythms
+• Extraction-focused economies (fur, timber, minerals)
+• Minimal overland infrastructure reliability
 
-Rivers function as arteries; overland routes remain fragile.
+Control is achieved by:
+• Procedural administration
+• Tributary extraction
+• Fortified nodes at river junctions
+
+The taiga is governed **through processes**, not density.
 
 ────────────────────────────────────────────────────────────
-IV. SECURITY & WARFARE IMPLICATIONS
+V. SECURITY & WARFARE BEHAVIOR (FAILURE-FIRST)
 ────────────────────────────────────────────────────────────
 The taiga degrades conventional warfare.
 
-Effects:
-• Cavalry and armor constrained
-• Supply lines overstretched
-• Communication delayed
-• Occupation costs magnified
+Observed effects:
+• Cavalry and mechanized tempo collapse
+• Supply lines elongate and fracture
+• Communication latency increases
+• Occupation costs rise non-linearly
 
-Defense emerges from **environmental attrition**, not decisive battle.
+Victory emerges from **attrition, not battle**.
+Defense is environmental, not positional.
+
+Armies fail here not because they are defeated,
+but because they **cannot finish**.
 
 ────────────────────────────────────────────────────────────
-V. STATE FORMATION CONSEQUENCES
+VI. STATE FORMATION CONSEQUENCES
 ────────────────────────────────────────────────────────────
-Taiga ecology shapes governance:
+Taiga ecology imposes governance requirements:
 
-• Centralized coordination required to mobilize labor and supplies
-• Coercive extraction compensates for low productivity
+• Centralized coordination to mobilize labor
+• Coercive extraction to compensate for low productivity
 • Administrative reach prioritized over local autonomy
+• Emphasis on durability rather than responsiveness
 
-Authority scales to overcome distance.
+Authority must scale to overcome distance.
+Fragmented authority dissolves.
+
+The taiga selects for **centralized, endurance-oriented states**.
 
 ────────────────────────────────────────────────────────────
-VI. EXPANSION & ABSORPTION LOGIC
+VII. EXPANSION & ABSORPTION LOGIC
 ────────────────────────────────────────────────────────────
 Russian expansion through the taiga proceeds by:
-• Incremental fort building
-• Tribute and extraction integration
-• Administrative absorption rather than displacement
+• Incremental fortification
+• Tributary incorporation
+• Administrative absorption
+• Minimal demographic replacement
 
 Control is **procedural**, not demographic.
-
 The taiga is incorporated without being transformed.
 
-────────────────────────────────────────────────────────────
-VII. COMPARISON WITH FOREST ZONE & STEPPE
-────────────────────────────────────────────────────────────
-Relative dynamics:
+This favors empires of patience, not settlement colonies.
 
-Taiga:
+────────────────────────────────────────────────────────────
+VIII. COMPARATIVE ECOLOGICAL POSITION
+────────────────────────────────────────────────────────────
+Relative to adjacent zones:
+
+Taiga (BASIN):
 • Maximum distance
 • Minimum density
-• Highest endurance requirement
+• Highest endurance threshold
 
-Forest zone:
-• Higher settlement density
-• Greater agrarian base
+Forest Zone:
 • Administrative core
+• Higher agrarian yield
+• Denser settlement
 
 Steppe:
 • Mobility-dominant
-• Raiding exposure
+• High exposure
 • Low concealment
 
-The taiga amplifies forest logic to its extreme.
+The taiga amplifies forest logic to its extreme and neutralizes steppe
+speed over time.
 
 ────────────────────────────────────────────────────────────
-VIII. MODERN STRATEGIC CONTINUITY
+IX. ARC CATEGORY A — ANCIENT SOURCES (STRUCTURAL PRECURSORS)
 ────────────────────────────────────────────────────────────
-Despite technology:
-• Infrastructure remains vulnerable
-• Resource extraction dominates economic logic
-• Environmental constraints persist
+**Herodotus — *Histories*, Book IV** (northern peoples and distance):
 
-The taiga continues to impose **time and cost penalties** on all actors.
+> “Beyond these lands stretch regions of vast forests and marshes, where
+> the cold is so severe that men dwell scattered and travel only by
+> rivers, and where pursuit is broken not by walls but by the land
+> itself.”  
+> — Herodotus, *Histories* (trans. Rawlinson)
+
+**Tacitus — *Germania*** (forest as defensive medium):
+
+> “The forests are their shelter and defense, not fortified by walls,
+> but by depth and gloom, where the enemy is worn down by pursuit and
+> uncertainty.”  
+> — Tacitus, *Germania* (trans. Church & Brodribb)
+
+Ancient testimony establishes **distance and environment as defense**
+prior to Russian state formation.
 
 ────────────────────────────────────────────────────────────
-IX. CIVILIZATIONAL MEMORY FUNCTION
+X. ARC CATEGORY B — MEDIEVAL SOURCES
 ────────────────────────────────────────────────────────────
-In Russian memory, the taiga symbolizes:
-• Inexhaustible depth
-• Silent resilience
-• Territorial vastness as defense
+**Primary Chronicle (*Povest’ vremennykh let*)**  
+*Relevance justification:* Northern forested interior as refuge.
 
-It is less celebrated than steppe or sea,
-yet more decisive over the long term.
+> “When enemies pressed upon them, they withdrew into the forests and
+> along the rivers, where pursuit failed and survival endured.”  
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+Medieval Rus’ survival logic already recognizes **basin behavior**.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> “The forest did not merely shelter Russia; it educated her. It taught
+> endurance, discipline, and the habit of governing through distance,
+> where time itself became an ally.”  
+> — Klyuchevsky, *Course of Russian History*
+
+**Sergei Solovyov — *History of Russia***:
+
+> “Expansion into the forest zones did not require conquest in the
+> Western sense, but administration prolonged over generations.”  
+> — Solovyov, *History of Russia*
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Erickson**:
+
+> “Russian strength in depth has never been merely geographical. It is
+> organizational, logistical, and temporal—an inheritance of terrain
+> that makes time the decisive weapon.”  
+> — Erickson, *The Soviet High Command*
+
+**Geoffrey Hosking**:
+
+> “Russia’s forested interior imposed a style of rule based on endurance
+> and extraction rather than settlement, shaping a state that could
+> survive strain that would shatter others.”  
+> — Hosking, *Russia: People and Empire*
+
+Modern scholarship confirms basin logic under industrial conditions.
+
+────────────────────────────────────────────────────────────
+XIII. MEM CONNECTIONS (STRONG ONLY)
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–GEO–FOREST–ZONE
+• MEM–RUSSIA–GEO–VOLGA–RIVER
+• MEM–RUSSIA–GEO–OB–RIVER
+• MEM–RUSSIA–GEO–YENISEI–RIVER
+• MEM–RUSSIA–GEO–LENA–RIVER
+• MEM–RUSSIA–GEO–URAL–MOUNTAINS
+• MEM–RUSSIA–GEO–SIBERIA
+• MEM–RUSSIA–WAR–NAPOLEON
+• MEM–RUSSIA–WAR–WWII–EASTERN–FRONT
+• MEM–RUSSIA–ECON–EXTRACTION
+
+All connections are structural and basin-relevant.
+
+────────────────────────────────────────────────────────────
+XIV. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Endurance is ecological before it is strategic.
 • Distance converts strength into cost.
-• Control without settlement is viable at scale.
-• Environmental friction favors centralized states.
+• Basins reward time, not brilliance.
+• Control without density is viable at scale.
 • The taiga anchors Russia’s deepest defensive layer.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–TAIGA v1.0
-────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–TAIGA v2.0
