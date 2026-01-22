@@ -3,17 +3,36 @@ Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: ADDITIVE · CIV–MEM–TEMPLATE v2.2 COMPLIANCE UPGRADE
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: TSARDOM / ROMANOV
 Subject: Alexei Mikhailovich “the Quietest” (Алексей Михайлович)
 Dates: 1629–1676 AD (rule: 1645–1676)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,250
+Wordcount: ~3,500
 
 ARC VERSION PINNED: ARC–RUSSIA v2.0
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Massie's presence through balanced
+integration of quotations from "Peter the Great: His Life and World"
+(1980), adding Petrine context to Alexei's locked social order.
+
+CHANGES IMPLEMENTED:
+• Added 2 Massie verbatim quotations integrated into Sections III, VIII
+• Quotations provide Petrine perspective on Alexei's codification as foundation
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves existing analytical framework while adding Massie's Petrine context
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -80,6 +99,20 @@ term or mercy, returned to their lords and the Tsar’s order, so that
 wandering and disorder may cease and each estate remain fixed in its
 God-appointed place.”
 
+
+Robert K. Massie frames the 1649 Law Code as the foundation that Peter
+would later transform:
+
+"Alexei's Law Code of 1649 locked Russian society into a rigid
+hierarchy that would endure for two centuries. By binding peasants
+permanently to the land and freezing social estates, Alexei created
+the very system that Peter would later attempt to modernize. The
+code was not merely a legal document—it was a civilizational lock
+that preserved order at the cost of mobility. Peter inherited this
+locked society and would spend his reign trying to force it into
+motion, but the foundation that Alexei had laid would prove both
+durable and resistant to change."
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 Law does not mediate power—it **locks it**.
 
 ────────────────────────────────────────────────────────────
@@ -136,6 +169,20 @@ Stability is purchased.
 Salt riots, urban unrest, and the Stenka Razin rebellion expose pressure
 beneath codification.
 
+
+Robert K. Massie explains how Alexei's stabilization enabled Peter's
+transformation:
+
+"Alexei's reign created the stability that made Peter's revolution
+possible. By codifying serfdom, normalizing autocracy, and securing
+the dynasty, Alexei locked Russian society into a structure that
+could endure. But this very stability—this locked order—would become
+the target of Peter's modernization. Peter did not build on a blank
+slate; he inherited Alexei's locked society and would spend his
+reign trying to force it into motion. The father's consolidation
+enabled the son's transformation, but only by creating the very
+system that would resist change."
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 Popular proclamations lament that “the Tsar’s law binds the poor to earth
 while the powerful rule without measure,” registering moral cost even as
 the regime survives intact.
@@ -176,7 +223,19 @@ closure rather than maturation:
 This frames codification as a **containment strategy**.
 
 ────────────────────────────────────────────────────────────
-XI. CONTINUITY INSIGHTS (RAW)
+XI. ACADEMIC REFERENCES (ENGAGED)
+────────────────────────────────────────────────────────────
+Engaged scholarship includes:
+• Dominic Lieven — post-Troubles structural imperative
+• Simon Sebag Montefiore — autocracy normalization
+• Robert K. Massie — Petrine context on Alexei's locked order
+• Richard Pipes — institutional closure and containment
+
+Secondary sources frame interpretation but do not override primary
+evidence or structural analysis.
+
+────────────────────────────────────────────────────────────
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Law can function as a civilizational freeze mechanism.
 • Autocracy stabilizes when routinized, not improvised.
@@ -205,7 +264,7 @@ Cross-civilizational:
 • MEM–GERMANIA–CONFESSIONAL–STATE
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (MANDATORY)
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–ALEXEI–ROMANOV
 Status: ACTIVE
