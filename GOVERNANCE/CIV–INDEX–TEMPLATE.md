@@ -225,7 +225,7 @@ Future versions:
 • May not introduce interpretive authority
 
 All CIV–INDEX files MUST declare:
-“Derived from CIV–INDEX–TEMPLATE v1.6”
+"Derived from CIV–INDEX–TEMPLATE v1.7"
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–TEMPLATE v1.7
