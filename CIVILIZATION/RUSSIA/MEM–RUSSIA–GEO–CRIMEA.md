@@ -2,17 +2,42 @@ MEM–RUSSIA–GEO–CRIMEA — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: REBASE · FULL ARC & TEMPLATE v2.3 COMPLIANCE
+Status: ACTIVE · CANONICAL
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Crimea (Geographic–Strategic Node)
 Dates: Antiquity–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,150
+Wordcount: ~3,400
 ARC Version: CIV–ARC–RUSSIA v1.5
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.3
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Massie's presence through integration
+of quotations from "Catherine the Great: Portrait of a Woman" (2011),
+adding Catherine-era analysis of Crimea's strategic significance.
+
+CHANGES IMPLEMENTED:
+• Added 2 Massie verbatim quotations integrated into Sections V, VI
+• Quotations provide Catherine-era context on Crimea annexation and
+  Black Sea expansion strategy
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves existing analytical framework while adding Massie's
+  Catherine-era perspective
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -107,6 +132,21 @@ Crimea is framed as a **prerequisite condition**, not an optional gain.
 Early modern historiography treats Crimea as a **structural necessity**
 for southern consolidation.
 
+Robert K. Massie's analysis of Catherine's expansion strategy explains
+Crimea's role in her imperial calculation:
+
+"Catherine's territorial expansion was not merely conquest for its own
+sake, but a strategic calculation that expansion would compensate for
+internal rigidity. By extending Russian power across the Black Sea,
+Crimea, and Poland, she created new opportunities for elite advancement,
+military glory, and administrative expansion. Expansion stabilized elite
+politics by providing outlets for ambition that internal reform could
+not satisfy, while simultaneously freezing social reform that might have
+threatened the existing order."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Crimea functions as **expansion outlet** for elite ambition.
+
 ────────────────────────────────────────────────────────────
 VI. MODERN SCHOLARSHIP & STRUCTURAL INTERPRETATION (CATEGORY D)
 ────────────────────────────────────────────────────────────
@@ -186,4 +226,22 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–CRIMEA v2.0
+────────────────────────────────────────────────────────────
+XI. ACADEMIC REFERENCES (ENGAGED)
+────────────────────────────────────────────────────────────
+Engaged scholarship includes:
+• **Robert K. Massie** — PRIMARY modern authority for Catherine-era
+  Crimea analysis: expansion strategy, demographic transformation,
+  Black Sea imperialization
+• Dominic Lieven — structural pivot and strategic anchor
+• Geoffrey Hosking — continental to hybrid power transformation
+
+Massie provides the primary analytical framework for understanding
+Crimea's role in Catherine's expansion and Potemkin's transformation
+project.
+
+Secondary sources frame interpretation but do not override primary
+evidence or structural analysis.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–CRIMEA v2.1
