@@ -1,104 +1,118 @@
-MEM–RUSSIA–GEO–BLACK–SEA — v1.0
+MEM–RUSSIA–GEO–BLACK–SEA — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · STRUCTURAL CLARIFICATION (NO INTERPRETATION)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Black Sea (Чёрное море)
 Dates: c. 800–1400 AD (Rus’-facing arc)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Wordcount: [Updated]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Black Sea as the **southern civilizational
-interface** of Rus’: a zone of wealth, temptation, and vulnerability
-connecting Rus’ to Byzantium, steppe powers, and Mediterranean systems.
+interface** of Rus’: a high-yield maritime access zone that enabled
+religious transmission, prestige trade, and diplomatic contact—while
+simultaneously exposing Rus’ to steppe penetration and external naval
+dominance.
 
-The Black Sea represents **prosperity paired with exposure**.
+The Black Sea represents **wealth with asymmetrical control**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. BYZANTINE CONNECTION
+II. SOUTHERN ACCESS FUNCTIONS (FLOW)
 ────────────────────────────────────────────────────────────
-The Black Sea links Rus’ to Constantinople.
+The Black Sea channels multiple flows toward Rus’:
 
-Functions:
-• Diplomatic exchange
-• Religious transmission
-• Luxury trade
+• Religious transmission from Byzantium
+• Luxury and high-value trade
+• Diplomatic contact and prestige signaling
+• Urban incentives for southern riverine centers
 
-Orthodox Christianity enters via this axis.
-
-────────────────────────────────────────────────────────────
-III. ECONOMIC ATTRACTION
-────────────────────────────────────────────────────────────
-Southern trade offers:
-• High-value commerce
-• Prestige goods
-• Urban development incentives
-
-Kiev’s rise is inseparable from Black Sea access.
+These flows raise wealth and status but move **through** the sea rather
+than being **governed by** Rus’.
 
 ────────────────────────────────────────────────────────────
-IV. STEPPE INTERFACE
+III. CONTROL ASYMMETRY (ACCESS ≠ SOVEREIGNTY)
+────────────────────────────────────────────────────────────
+Rus’ benefits from Black Sea access without controlling the maritime
+system.
+
+Control characteristics:
+• Byzantine naval dominance
+• Littoral exposure tied to steppe mobility
+• Limited Rus’ coastal defense and fleet capacity
+• Dependence on river corridors for inland reach
+
+Access exists without interiorization.
+Use does not equal command.
+
+────────────────────────────────────────────────────────────
+IV. STEPPE INTERFACE & EXPOSURE
 ────────────────────────────────────────────────────────────
 The Black Sea littoral is inseparable from the steppe.
 
-Risks:
-• Nomadic raids
-• Open invasion corridors
-• Political instability
+Exposure effects:
+• Open invasion approaches
+• Rapid shock transmission from nomadic power
+• Vulnerable urban nodes along southern rivers
 
-Wealth flows along paths of danger.
-
-────────────────────────────────────────────────────────────
-V. MILITARY EXPOSURE
-────────────────────────────────────────────────────────────
-Rus’ lacks maritime control.
-
-Constraints:
-• Byzantine naval dominance
-• Steppe power projection
-• Limited coastal defense
-
-The Black Sea is an access point, not a shield.
+Southern wealth travels along paths that also transmit coercion.
 
 ────────────────────────────────────────────────────────────
-VI. POST-MONGOL WITHDRAWAL
+V. MILITARY BEHAVIOR UNDER PRESSURE (FAILURE MODE)
 ────────────────────────────────────────────────────────────
-After Mongol invasion:
+Under sustained pressure, the Black Sea interface behaves as an
+**amplifier of risk**:
+
+• Maritime control remains external
+• Coastal defense remains thin
+• River corridors transmit shock inland
+• Defense relies on upstream fortification rather than sea denial
+
+The sea functions as an access point, not a shield.
+
+────────────────────────────────────────────────────────────
+VI. MONGOL SHOCK & OPERATIONAL ABANDONMENT
+────────────────────────────────────────────────────────────
+Following Mongol invasion:
+
 • Southern orientation collapses
-• Black Sea access becomes liability
-• Strategic focus shifts north and inward
+• Coastal and riverine exposure becomes liability
+• Administrative and military focus shifts north and inward
+• Black Sea access is deprioritized operationally
 
-Southern openness is abandoned.
+Abandonment reflects survival logic, not cultural rejection.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY ROLE
+VII. MEMORY CONTINUITY VS OPERATIONAL ROLE
 ────────────────────────────────────────────────────────────
-The Black Sea remains:
-• Spiritual origin point
-• Lost economic horizon
-• Cautionary memory
+The Black Sea persists in Russian civilizational memory as:
 
-Later Russian strategy delays return for centuries.
+• Spiritual origin vector (Christianization)
+• Lost prosperity horizon
+• Reference point for southern temptation
+
+Operational primacy is relinquished.
+Symbolic significance endures.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Southern wealth accelerates both growth and collapse.
-• Maritime access without control invites domination.
-• Steppe adjacency magnifies exposure.
-• Black Sea logic explains Kievan vulnerability.
-• Russia remembers the Black Sea before re-entering it.
+• High-yield access without control accelerates exposure.
+• Maritime benefit does not offset steppe adjacency risk.
+• Shock travels faster through open southern corridors.
+• Abandonment preserves survival without erasing memory.
+• Later re-engagement requires altered control conditions.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–BLACK–SEA v1.0
-────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–BLACK–SEA v1.1
