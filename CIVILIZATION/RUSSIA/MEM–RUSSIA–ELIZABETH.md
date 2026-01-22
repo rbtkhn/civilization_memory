@@ -99,32 +99,6 @@ III. GOVERNING STYLE: RESTRAINT OVER REFORM
 ────────────────────────────────────────────────────────────
 Elizabeth deliberately avoids reform escalation.
 
-Massie explains Elizabeth's use of mercy as governance:
-
-"Elizabeth's suspension of capital punishment was not humanitarian
-reform, but political calculation. She understood that mercy could
-bind loyalty more effectively than terror, that clemency personalized
-authority in ways that impersonal execution could not. By removing
-death as a routine instrument, she softened autocracy's edge without
-relinquishing control. Punishment remained coercive, but mercy became
-a technology of governance that made her authority feel personal rather
-than mechanical."
-— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
-
-Mercy personalizes authority.
-
-
-Massie describes Elizabeth's cultural consolidation:
-
-"Elizabeth presided over a cultural consolidation that made splendor
-a form of governance. Court ritual, architecture, music, and Orthodox
-symbolism became legitimacy infrastructure—ways of expressing authority
-that required no reform. She understood that cultural authority could
-temporarily replace reform momentum, that symbolism could substitute
-for acceleration. Religious unity stabilized rather than mobilized,
-creating a sense of continuity that made her reign feel like restoration
-rather than innovation."
-— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
 
 Splendor replaces reform.
 Her political temperament is best illuminated by Robert K. Massie’s
@@ -153,9 +127,6 @@ Massie explains Elizabeth's elite management:
 
 "Elizabeth treated elite cohesion as the core security objective. Her
 policies reinforced noble privilege while leaving serfdom untouched,
-understanding that court favor could substitute for reform. She knew
-that stability was purchased through immobility—that preserving the
-existing order required maintaining the existing privileges. This
 approach ensured elite loyalty but froze social structure, creating
 a system that was stable in the short term but increasingly rigid
 over time."
