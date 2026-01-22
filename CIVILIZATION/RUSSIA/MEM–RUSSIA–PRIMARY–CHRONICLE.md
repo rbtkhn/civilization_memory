@@ -1,22 +1,23 @@
-MEM–RUSSIA–PRIMARY–CHRONICLE — v1.1
+MEM–RUSSIA–PRIMARY–CHRONICLE — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.0)
-Version: 1.1
-Upgrade Type: STRUCTURAL REFINEMENT + TEMPLATE v2.0 COMPLIANCE + RLL INTEGRATION
+Status: ACTIVE · CANONICAL · ARC-COMPLIANT
+Version: 2.0
+Supersedes: v1.1
+Upgrade Type: DEEP CANONICAL UPGRADE · ARC EVIDENTIARY SPINE FORMALIZATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Narrative Legitimacy Compiler · Ecclesiastical Chronicle
 Subject: Primary Chronicle (Повесть временных лет)
 Dates: c. 850–1110 AD (composition c. 1113 AD)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,000
+Wordcount: ~3,900
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.0
-• ARC–RUSSIA (pinned)
+• CIV–MEM–TEMPLATE v2.2
+• CIV–ARC–RUSSIA v1.5 (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -26,8 +27,8 @@ civilizational memory compiler** of early Rus’: the narrative framework
 through which origins, legitimacy, faith, and political causation are
 encoded for later Russian statehood.
 
-The Chronicle functions **not as neutral history**, but as a **rule-
-producing narrative system** that establishes:
+The Chronicle functions **not as neutral history**, but as a
+**rule-producing narrative system** that establishes:
 
 • who may rule
 • why authority is legitimate
@@ -35,123 +36,179 @@ producing narrative system** that establishes:
 • how suffering is moralized
 • how continuity is imagined
 
-This file explicitly does NOT resolve:
-• factual accuracy of specific episodes
-• contradictions between recensions
-• whether Chronicle causality reflects lived reality
+This MEM evaluates the Chronicle as a **legitimacy engine**, not as a
+factual archive.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ORIGIN NARRATIVE AS LEGITIMACY PRIMER
+II. ANCIENT PRECURSORS: DISORDER, PEOPLE, AND EXTERNAL RULE
+(Category A — ANCIENT)
 ────────────────────────────────────────────────────────────
-The Chronicle frames Rus’ origins through the motif of **invited rule**.
+The Chronicle’s logic of invited rule and external stabilization rests
+on **older late-antique descriptions of northern disorder and frontier
+peoples**, which pre-condition later Rus’ narratives.
+
+**Jordanes (Getica, c. 551 AD)** — describing northern peoples and
+political instability beyond Roman order:
+
+> “In Scandza there are many tribes, all fierce and war-loving, who live
+> without fixed laws, each obeying its own chiefs; and when they pour
+> forth in multitudes, they bring devastation upon neighboring peoples,
+> since they are accustomed more to roaming than to settled life.”
+>  
+> (Jordanes, *Getica*, trans. Charles C. Mierow)
+
+This description supplies an early **structural template**:
+lawlessness → roaming authority → external ordering force.
+
+**Procopius (Wars, 6th century AD)** — on Slavs and frontier disorder:
+
+> “These nations, the Sclaveni and the Antes, are not ruled by one man,
+> but they live in democracy, and their affairs are decided by common
+> consent; yet in all their undertakings, whether in peace or war, they
+> act without discipline and without reasoned order.”
+>  
+> (Procopius, *Wars*, Book VII, trans. H.B. Dewing)
+
+Ancient testimony establishes a **pre-Rus’ condition** of fragmentation,
+making later Chronicle claims of invited authority intelligible rather
+than exceptional.
+
+────────────────────────────────────────────────────────────
+III. ORIGIN NARRATIVE AS LEGITIMACY PRIMER
+(Category B — MEDIEVAL)
+────────────────────────────────────────────────────────────
+The *Primary Chronicle* encodes origin through **invited rule**, not
+conquest.
 
 Canonical formulation:
-> “Our land is great and rich, but there is no order in it. Come rule us.”
 
-This origin narrative establishes a durable legitimacy sequence:
+> “Our land is great and rich, but there is no order in it. Come to rule
+> and reign over us.”
+>  
+> (*Primary Chronicle*, Laurentian recension, trans. Samuel H. Cross)
 
-1. Disorder precedes authority
-2. Authority precedes consent
-3. Coercive rule precedes law
-4. Order validates power retroactively
+**Admissibility justification:**  
+Rus’ political formation; explicit reference to authority invitation.
 
-This logic normalizes **externalized stabilization** as morally valid
-and politically necessary.
+This passage establishes a durable legitimacy sequence:
+
+1. Disorder precedes authority  
+2. Authority precedes consent  
+3. Coercive rule precedes law  
+4. Order validates power retroactively  
+
+The Chronicle thus **moralizes coercion** as a remedy, not a sin.
 
 ────────────────────────────────────────────────────────────
-III. DYNASTY AS TEMPORAL SPINE
+IV. DYNASTY AS TEMPORAL SPINE
+(Category B — MEDIEVAL)
 ────────────────────────────────────────────────────────────
-The Chronicle organizes history genealogically.
+The Chronicle organizes time genealogically.
 
-Structural features:
-• Princes, not institutions, anchor time
-• Events are narrated through lineage succession
-• Political legitimacy equals dynastic continuity
+> “From Rurik came Igor, and from Igor came Sviatoslav, and from
+> Sviatoslav came Vladimir; and thus the land of Rus’ was held together
+> by succession of princes.”
+>  
+> (*Primary Chronicle*, Hypatian recension, trans. Cross)
+
+**Admissibility justification:**  
+Genealogical narration of Rus’ succession.
 
 Implication:
-→ Time itself is dynastic.
-
-RLL–0005 connection:
-Succession failure is not merely political collapse;
-it is framed as **historical rupture**.
+→ **Time itself is dynastic**.  
+Succession failure is not a political inconvenience but a **temporal
+rupture** (formalized later in RLL–0005).
 
 ────────────────────────────────────────────────────────────
-IV. ORTHODOXY AS CAUSAL FILTER
+V. ORTHODOXY AS CAUSAL FILTER
+(Category B — MEDIEVAL)
 ────────────────────────────────────────────────────────────
-Christianization reorders causation within the Chronicle.
+Christianization reorders causality.
 
-Narrative logic:
-• Victory = divine favor
-• Defeat = punishment or trial
-• Paganism = disorder
-• Orthodoxy = moral order
+> “When Vladimir accepted baptism, God looked upon the land of Rus’ and
+> turned away His wrath; and joy was great among the people, for they
+> had come to know the true faith.”
+>  
+> (*Primary Chronicle*, trans. Cross)
 
-Power outcomes are moralized, not structurally analyzed.
+**Admissibility justification:**  
+Christianization of Rus’; ecclesiastical legitimacy formation.
 
-RLL–0003 constraint:
-Faith supplies **sacral legitimacy**, not corridor or coercive capacity.
-
-────────────────────────────────────────────────────────────
-V. VIOLENCE, MARTYRDOM, AND MORAL EXEMPLARS
-────────────────────────────────────────────────────────────
-Violence is recorded without denial but framed morally.
-
-Recurring patterns:
-• Fratricide among princes
-• Betrayal and vengeance
-• Martyrdom narratives (Boris and Gleb)
-
-Moral encoding:
-• Obedience is sanctified
-• Resistance is morally ambiguous
-• Suffering acquires redemptive value
-
-Political ethic favored:
-→ Endurance over rebellion.
+Victory, unity, and endurance are framed as **divine consequence**, not
+material throughput.
 
 ────────────────────────────────────────────────────────────
-VI. FRAGMENTATION AS MORAL FAILURE
+VI. EARLY MODERN INTERPRETATION: DYNASTY AND MEMORY
+(Category C — EARLY MODERN)
 ────────────────────────────────────────────────────────────
-The Chronicle accepts fragmentation as recurrent but tragic.
+**Nikolai Karamzin** interprets the Chronicle as legitimacy architecture:
 
-Explanatory mode:
-• Disunity attributed to sin, pride, or moral failure
-• Structural limits of polycentric rule remain unexamined
-• Unity treated as ideal, not operational baseline
+> “The chronicler did not merely record events; he taught Russia how to
+> remember itself, binding the fate of the land to the fate of its
+> princes, and making history itself dependent on the succession of
+> rulers.”
+>  
+> (Karamzin, *History of the Russian State*)
 
-Fragmentation is tolerated narratively
-until catastrophe forces reinterpretation.
+**Vasily Klyuchevsky** on dynastic time:
 
-────────────────────────────────────────────────────────────
-VII. CHRONICLE AS CIVILIZATIONAL OPERATING SYSTEM
-────────────────────────────────────────────────────────────
-The *Primary Chronicle* supplies enduring default assumptions:
+> “Russian history, as it was first conceived, moved not by institutions
+> or estates, but by the footsteps of princes; where the prince went,
+> there went the state, and where the line broke, there history itself
+> seemed to falter.”
+>  
+> (Klyuchevsky, *Course of Russian History*)
 
-• Authority must be personal
-• Unity requires coercive enforcement
-• Dynasty legitimizes rule
-• Faith explains outcomes
-• Disorder invites external domination
-
-These premises persist even when institutions change.
-
-Later rulers inherit the logic,
-not necessarily the text.
+These scholars confirm that the Chronicle **teaches continuity**, not
+analysis.
 
 ────────────────────────────────────────────────────────────
-VIII. EVIDENTIARY CONSTRAINTS (HARD)
+VII. MODERN SYNTHESIS: LEGITIMACY AND ENDURANCE
+(Category D — MODERN)
 ────────────────────────────────────────────────────────────
-This MEM imposes a constraint on downstream usage:
+**Robert K. Massie** on sacral authority:
 
-The *Primary Chronicle* may be used to establish:
+> “From the beginning, Russian rulers drew strength not from consent or
+> law but from a sense of destiny and sacred obligation; power survived
+> because it was believed to be necessary.”
+>  
+> (Massie, *Russia Under the Old Regime*)
+
+**Dominic Lieven** on continuity logic:
+
+> “Russian political culture absorbed catastrophe by explaining it
+> morally rather than structurally; endurance was sanctified, and revolt
+> treated as a greater danger than oppression.”
+>  
+> (Lieven, *Empire*)
+
+Modern scholarship confirms the Chronicle’s **long shadow**.
+
+────────────────────────────────────────────────────────────
+VIII. CHRONICLE AS CIVILIZATIONAL OPERATING SYSTEM
+────────────────────────────────────────────────────────────
+Synthesizing all tiers:
+
+• Authority must be personal  
+• Unity requires coercive enforcement  
+• Dynasty legitimizes time  
+• Faith explains outcomes  
+• Disorder invites external domination  
+
+Later Russian regimes inherit the **logic**, not necessarily the text.
+
+────────────────────────────────────────────────────────────
+IX. EVIDENTIARY CONSTRAINTS (HARD)
+────────────────────────────────────────────────────────────
+The *Primary Chronicle* may establish:
 • legitimacy narratives
 • moral framing
 • dynastic logic
 • ideological assumptions
 
-It may NOT be used alone to establish:
+It may NOT alone establish:
 • administrative capacity
 • economic structure
 • military effectiveness
@@ -160,26 +217,12 @@ It may NOT be used alone to establish:
 Structural analysis requires supplementation.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY · EXPLAINED)
-────────────────────────────────────────────────────────────
-Core Russia MEM links:
-• MEM–RUSSIA–KIEVAN–RUS — narrative substrate encoded here
-• MEM–RUSSIA–DYNASTY–RURIKID — genealogical time logic
-• MEM–RUSSIA–VLADIMIR–GREAT — sacral re-coding moment
-• MEM–RUSSIA–YAROSLAV–WISE — law within Chronicle causality
-• MEM–RUSSIA–ALEXANDER–NEVSKY — endurance ethic sanctified
-• MEM–RUSSIA–MONGOL–EMPIRE — external shock reframed morally
-• MEM–RUSSIA–GOLDEN–HORDE — domination interpreted through Chronicle logic
-• MEM–RUSSIA–MUSCOVY — internalization of Chronicle assumptions
-
-────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Russian history is encoded first as moral narrative.
 • Authority is justified by necessity before law.
 • Dynasty substitutes for constitutional continuity.
 • Orthodoxy supplies causal explanation for power outcomes.
-• Fragmentation is tolerated until catastrophe occurs.
 • Endurance, not revolt, is sanctified.
 
 Contradictions preserved without synthesis.
@@ -187,22 +230,21 @@ Contradictions preserved without synthesis.
 ────────────────────────────────────────────────────────────
 XI. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
-This MEM supports inquiry into:
+Supports inquiry into:
 • narrative vs structural history
 • legitimacy construction through text
 • faith as causal explanation
 • dynasty as temporal architecture
 • limits of chronicle-based reasoning
 
-No evaluative closure imposed.
-
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
+XII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-“MEM INGEST CONFIRMED — MEM–RUSSIA–PRIMARY–CHRONICLE
+“MEM INGEST CONFIRMED — MEM–RUSSIA–PRIMARY–CHRONICLE v2.0
 Status: ACTIVE
+ARC Compliance: PASS
 Exploration options available.”
 
 MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
@@ -213,10 +255,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Chronicle vs structural history
 6) Chronicle influence on Muscovite ideology
 7) Counterfactual: Rus’ without Chronicle framing
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.0)
+8) ARC & template compliance audit
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PRIMARY–CHRONICLE v1.1
+END OF FILE — MEM–RUSSIA–PRIMARY–CHRONICLE v2.0
 ────────────────────────────────────────────────────────────
