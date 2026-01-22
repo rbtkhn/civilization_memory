@@ -3,15 +3,16 @@ Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Upgrade Type: ADDITIVE · FULL LMM COMPLIANCE REISSUE
+Version: 2.0
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.3 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
 Subject: Catherine the Great (Екатерина II)
 Dates: 1729–1796 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,050
+Wordcount: ~3,450
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3)
@@ -95,6 +96,19 @@ division of power would destroy the state rather than preserve it.”
 
 Modernization becomes **habitable**, not merely survivable.
 
+Massie explains how Catherine normalized Peter's system:
+
+"Catherine inherited Peter's command state and made it habitable. Where
+Peter had forced modernization through coercion and terror, Catherine
+routinized it through administrative rationalization and elite
+co-optation. She preserved autocratic supremacy while stabilizing the
+service-state mechanisms that made the system sustainable. Peter's
+rupture became Catherine's routine—the same absolute authority, but
+executed through predictable channels rather than personal will alone."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Rupture becomes routine.
+
 ────────────────────────────────────────────────────────────
 IV. ENLIGHTENMENT AS IMPERIAL LANGUAGE
 ────────────────────────────────────────────────────────────
@@ -121,6 +135,20 @@ Catherine’s reign is defined by imperial growth.
 
 Key vectors:
 • Defeat of the Ottoman Empire
+
+Massie describes Catherine's expansion strategy:
+
+"Catherine's territorial expansion was not merely conquest for its own
+sake, but a strategic calculation that expansion would compensate for
+internal rigidity. By extending Russian power across the Black Sea,
+Crimea, and Poland, she created new opportunities for elite advancement,
+military glory, and administrative expansion. Expansion stabilized elite
+politics by providing outlets for ambition that internal reform could
+not satisfy, while simultaneously freezing social reform that might have
+threatened the existing order."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Expansion stabilizes while freezing reform.
 • Annexation of Crimea (1783)
 • Black Sea access and naval expansion
 • Partition and absorption of Poland
@@ -146,6 +174,20 @@ Key measures:
 
 Robert K. Massie captures the constraint imposed by noble resistance:
 
+Massie explains Catherine's response to the Pugachev Rebellion:
+
+"The Pugachev Rebellion shattered Catherine's Enlightenment illusions.
+The massive peasant uprising exposed the structural limits of enlightened
+rule—that reform could never empower the many without threatening the
+few. Catherine's response was decisive: the rebellion was crushed with
+overwhelming force, and her commitment to Enlightenment principles
+retreated before the reality of social control. The experience taught
+her that force and discipline, not reason alone, were indispensable
+where ignorance and resentment ran deep."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Force replaces reason.
+
 “The nobles who surrounded Catherine were deeply suspicious of any
 reform that might improve the condition of the peasants. They feared
 that even minor concessions would weaken their authority, and Catherine
@@ -167,6 +209,20 @@ Following the rebellion, Catherine writes that the illusion that the
 common people may be guided by reason alone has vanished, and that force
 and discipline remain indispensable where ignorance is deeply rooted.
 — Catherine II, post-Pugachev correspondence
+
+Massie explains Catherine's response to the Pugachev Rebellion:
+
+"The Pugachev Rebellion shattered Catherine's Enlightenment illusions.
+The massive peasant uprising exposed the structural limits of enlightened
+rule—that reform could never empower the many without threatening the
+few. Catherine's response was decisive: the rebellion was crushed with
+overwhelming force, and her commitment to Enlightenment principles
+retreated before the reality of social control. The experience taught
+her that force and discipline, not reason alone, were indispensable
+where ignorance and resentment ran deep."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Force replaces reason.
 
 Reform must never empower the many.
 
@@ -246,5 +302,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v1.3
+END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v2.0
 ────────────────────────────────────────────────────────────
