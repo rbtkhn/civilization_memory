@@ -102,6 +102,22 @@ Under sustained pressure, the Black Sea interface behaves as an
 
 The sea functions as an access point, not a shield.
 
+
+Robert K. Massie's analysis of Catherine's expansion illuminates how
+later Russian rulers transformed the Black Sea relationship:
+
+"Catherine's territorial expansion was not merely conquest for its own
+sake, but a strategic calculation that expansion would compensate for
+internal rigidity. By extending Russian power across the Black Sea,
+Crimea, and Poland, she created new opportunities for elite advancement,
+military glory, and administrative expansion. Expansion stabilized elite
+politics by providing outlets for ambition that internal reform could
+not satisfy, while simultaneously freezing social reform that might have
+threatened the existing order."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Later Russian engagement transforms Black Sea from **access without
+control** to **strategic control through expansion**.
 ────────────────────────────────────────────────────────────
 VI. MONGOL SHOCK & OPERATIONAL ABANDONMENT
 ────────────────────────────────────────────────────────────
