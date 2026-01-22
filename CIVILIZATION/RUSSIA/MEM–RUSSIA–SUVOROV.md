@@ -146,7 +146,6 @@ could react, and used morale as a force multiplier that allowed smaller
 Russian forces to defeat larger opponents."
 — Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
 
-Speed and morale compress time.
 • Suppression of Polish uprisings
 • Italian and Swiss campaigns against Revolutionary France
 
