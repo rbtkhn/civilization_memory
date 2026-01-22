@@ -19,6 +19,25 @@ Governed by:
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This additive upgrade brings the file into full v2.0 compliance with
+CIV–MEM–TEMPLATE v2.3 and cleans up duplicate Massie quotations.
+
+CHANGES IMPLEMENTED:
+• Removed duplicate Massie quotations
+• Upgraded to v2.0 governance structure
+• Added MEM Connections section with GEO–MEM links
+• Added MEM INGEST BOOTSTRAP section
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves all existing analytical framework
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
+
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Battle of Poltava as the **decisive validation
