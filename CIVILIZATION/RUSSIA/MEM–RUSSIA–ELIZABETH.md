@@ -132,7 +132,6 @@ a system that was stable in the short term but increasingly rigid
 over time."
 — Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
 
-Stability through immobility.
 Legal and court directives frame mercy as loyalty-binding technology:
 severity hardens resistance, clemency personalizes authority.
 
