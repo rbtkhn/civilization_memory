@@ -100,7 +100,6 @@ III. GOVERNING STYLE: RESTRAINT OVER REFORM
 Elizabeth deliberately avoids reform escalation.
 
 
-Splendor replaces reform.
 Her political temperament is best illuminated by Robert K. Massie’s
 portrait in *Catherine the Great: Portrait of a Woman*, where he situates
 Elizabeth within a Romanov tradition of personal governance:
@@ -132,7 +131,6 @@ a system that was stable in the short term but increasingly rigid
 over time."
 — Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
 
-Legal and court directives frame mercy as loyalty-binding technology:
 severity hardens resistance, clemency personalizes authority.
 
 Massie explains Elizabeth's use of mercy as governance:
