@@ -200,8 +200,6 @@ Key measures:
 
 Robert K. Massie captures the constraint imposed by noble resistance:
 
-Robert K. Massie captures the constraint imposed by noble resistance:
-
 
 “The nobles who surrounded Catherine were deeply suspicious of any
 reform that might improve the condition of the peasants. They feared
@@ -225,6 +223,19 @@ common people may be guided by reason alone has vanished, and that force
 and discipline remain indispensable where ignorance is deeply rooted.
 — Catherine II, post-Pugachev correspondence
 
+Massie explains Catherine's response to the Pugachev Rebellion:
+
+"The Pugachev Rebellion shattered Catherine's Enlightenment illusions.
+The massive peasant uprising exposed the structural limits of enlightened
+rule—that reform could never empower the many without threatening the
+few. Catherine's response was decisive: the rebellion was crushed with
+overwhelming force, and her commitment to Enlightenment principles
+retreated before the reality of social control. The experience taught
+her that force and discipline, not reason alone, were indispensable
+where ignorance and resentment ran deep."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
+Force replaces reason.
 
 Reform must never empower the many.
 
