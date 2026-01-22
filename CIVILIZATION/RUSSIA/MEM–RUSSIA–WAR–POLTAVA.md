@@ -1,16 +1,22 @@
-MEM–RUSSIA–WAR–POLTAVA — v1.0
+MEM–RUSSIA–WAR–POLTAVA — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v1.0 → v1.1)
+Version: 2.0
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Poltava
 Dates: 1709 AD
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~1,600
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.3
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -58,19 +64,6 @@ the battle:
 "Peter did not command from a distance—he fought alongside his
 soldiers, shared their hardships, and risked his own life. At
 Poltava, Peter was everywhere: directing artillery, rallying troops,
-
-Robert K. Massie describes how Peter's personal leadership transformed
-the battle:
-
-"Peter did not command from a distance—he fought alongside his
-soldiers, shared their hardships, and risked his own life. At
-Poltava, Peter was everywhere: directing artillery, rallying troops,
-exposing himself to Swedish fire. When the army suffered, he suffered.
-When it triumphed, he triumphed. This personal involvement was not
-mere leadership style; it was proof that Peter was willing to stake
-everything, including his own survival, on the success of his
-modernization project."
-— Robert K. Massie, *Peter the Great: His Life and World* (1980)
 exposing himself to Swedish fire. When the army suffered, he suffered.
 When it triumphed, he triumphed. This personal involvement was not
 mere leadership style; it was proof that Peter was willing to stake
@@ -138,16 +131,58 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-VIII. ACADEMIC REFERENCES (ENGAGED)
+Russian:
+• MEM–RUSSIA–WAR–GREAT–NORTHERN — war context and validation framework
+• MEM–RUSSIA–WAR–NARVA — humiliation reversed by Poltava
+• MEM–RUSSIA–PETER–GREAT — modernization project and reform validation
+• MEM–RUSSIA–SWEDEN — strategic rivalry and military challenge
+
+GEO–MEM (REQUIRED):
+• MEM–RUSSIA–GEO–BALTIC–SEA — strategic objective and access point
+• MEM–RUSSIA–GEO–UKRAINE — battle location and territorial context
+
+Cross-civilizational:
+• MEM–GERMANIA–WAR–JENA — catastrophic defeat as reform catalyst
+• MEM–CHINA–OPIUM–WARS — early defeat exposing systemic weakness
+
+────────────────────────────────────────────────────────────
+IX. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:
-• Robert K. Massie — battle dynamics, Peter's leadership, psychological significance
+• **Robert K. Massie** — PRIMARY modern authority: battle dynamics,
+  Peter's leadership, psychological significance, civilizational
+  transformation
 • Dominic Lieven — endurance doctrine and strategic validation
+
+Massie provides the primary analytical framework for understanding
+Poltava's role as validation mechanism and civilizational turning point.
 
 Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–POLTAVA v1.1
+X. MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+"MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–POLTAVA
+Status: ACTIVE
+Exploration options available."
+
+Mandatory exploration options (8):
+A. Massie: Poltava as civilizational turning point  
+B. Peter's personal leadership and risk-taking  
+C. Poltava vs Narva: humiliation to vindication  
+D. Endurance doctrine and strategic patience  
+E. Battle dynamics: systemic mass vs tactical audacity  
+F. Comparative: decisive battles as civilizational proof  
+G. European recognition and great-power status  
+H. Compliance & integrity audit  
+
+User selects ONE option only.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–POLTAVA v2.0
 ────────────────────────────────────────────────────────────
