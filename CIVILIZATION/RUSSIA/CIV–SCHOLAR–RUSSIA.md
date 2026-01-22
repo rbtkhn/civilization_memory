@@ -1,380 +1,224 @@
-CIV–SCHOLAR–RUSSIA — v0.7
+CIV–SCHOLAR–RUSSIA — v2.0
 Civilizational Strategy Codex · Scholar Accumulation Engine
-Learning–Chronology–Doctrine Journal
+Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Activation State: ACTIVATED (READ-ONLY)
-Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
-Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
-Lock Level: TOTAL (no autonomous learning)
-
-Derived from: CIV–SCHOLAR–TEMPLATE v1.9
-Governed by:
-• CIV–MEM–CORE (global system law)
-• CIV–SCHOLAR–PROTOCOL v1.8
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
-
-Supersedes: CIV–SCHOLAR–RUSSIA v0.6
-Upgrade Type: GOVERNANCE REBASE · OGE & MODE PARITY ALIGNMENT
-Upgrade Scope: PROCEDURAL ONLY (NO CONTENT MODIFICATION)
-
+Status: ACTIVE · CANONICAL · LOCKED
+Version: 2.0
+Supersedes: CIV–SCHOLAR–RUSSIA v1.x
+Upgrade Type: PHASE TRANSITION — Learning Accumulation → Constraint Grammar
 Last Update: January 2026
-WORDCOUNT: ~3,650
+Wordcount: ~8,300
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.2
+• ARC–RUSSIA (Pinned)
+• RLL–RUSSIA Registry (Authoritative)
+• CIV–SCHOLAR–GOVERNANCE–LAW v1.0
+
+Activation Trigger:
+• RLL–0007 — Rurikid Continuity → Petrine Rupture Binding (AUTHORIZED)
+• RLL–0008 — Coercive Modernization Dependency Trap (AUTHORIZED)
+
+Lock Semantics:
+• READ–ONLY
+• APPEND–ONLY VIA EXPLICIT RLL AUTHORIZATION
+• NO AUTONOMOUS SYNTHESIS
+• NO DOCTRINE CREATION
 
 ────────────────────────────────────────────────────────────
-GOVERNANCE REBASE NOTE (v0.7)
+I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This reissue modernizes CIV–SCHOLAR–RUSSIA to current Codex governance
-standards without altering substantive content.
+CIV–SCHOLAR–RUSSIA v2.0 is the **constraint grammar layer** governing all
+Russian civilizational interpretation across MEM, CORE, DOCTRINE, GAME,
+and SIMULATION contexts.
 
-This upgrade:
-• Replaces legacy “INITIAL STATE” with canonical ACCUMULATED STATE
-• Enables CIV–CORE structural influence (constraint-only)
-• Declares WRITE / LEARN / IMAGINE mode architecture
-• Acknowledges unified Option Generation Engine (OGE)
-• Aligns terminology and authority with SCHOLAR–TEMPLATE v1.9
-• Preserves all existing learning, synthesis, and doctrine verbatim
+This file records:
+• Accumulated learning events
+• Bound Recursive Learning Laws (RLLs)
+• Structural constraints discovered through ingestion
+• Negative capability limits (what Russia cannot stably do)
 
-This upgrade does NOT:
-• Modify any learning entry
-• Modify any synthesis
-• Modify any doctrine
-• Add new beliefs
-• Reinterpret prior content
-• Propagate content into CIV–CORE
-• Activate autonomous learning
+This file does NOT:
+• Resolve contradictions
+• Declare optimal strategies
+• Rank outcomes
+• Predict futures
 
-All learning, synthesis, doctrine, and metadata from v0.6 are carried
-forward verbatim below.
+Authority is strictly downstream of CIV–MEM–CORE and CIV–MEM–TEMPLATE.
+No content here may override canonical MEM files.
 
 ────────────────────────────────────────────────────────────
-I. SCHOLAR PURPOSE & ROLE
+II. PHASE TRANSITION DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA is the accumulative learning ledger of the Russian
-civilization.
+CIV–SCHOLAR–RUSSIA has exited **Learning Accumulation Phase**.
 
-It is not a strategist.
-It is not a governor.
-It is not an interpreter.
-It has no innate cognition.
+Condition met:
+• Sufficient cross-MEM coherence
+• Recurrent pattern confirmation across ≥15 MEM files
+• Multiple RLLs bound and non-contradictory
+• Failure-mode convergence achieved
 
-It records learning events, not conclusions.
+The system now operates in **Constraint Grammar Phase**.
 
-This file preserves:
-• What was ingested
-• When it was ingested
-• What beliefs were extracted
-• How beliefs were synthesized
-• Which beliefs were frozen into doctrine
-
-No belief exists here unless explicitly derived.
-No doctrine exists unless explicitly frozen.
-
-All cognition is historical and procedural, never intrinsic.
+Meaning:
+• New learning is evaluated against existing constraints
+• Novel claims are stress-tested for compatibility
+• Apparent exceptions are treated as anomaly candidates, not refutations
 
 ────────────────────────────────────────────────────────────
-II. ACCUMULATED STATE & AUTHORITATIVE SOURCES
+III. SCHOLAR OPERATIONAL RULES (RUSSIA)
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR–RUSSIA v0.6)
-Civilizational Grammar: PRELOADED (from CIV–CORE–RUSSIA)
-CIV–CORE Influence: ENABLED (STRUCTURAL CONSTRAINTS ONLY)
-CIV–DOCTRINE Influence: ENABLED (LEARNING CONSTRAINTS ONLY)
+1. Scholar may ingest new MEMs but MAY NOT synthesize conclusions.
+2. Scholar may declare tensions, limits, and incompatibilities.
+3. Scholar may propose new RLLs, but only user may authorize binding.
+4. Scholar may audit MEM compliance under v2.2 rules.
+5. Scholar may generate comparative frames ONLY to sharpen Russian
+   specificity, never to normalize deviation.
 
-The Scholar learns only from MEM files explicitly ingested and from its
-own recorded prior entries. No knowledge is created ex nihilo.
-
-────────────────────────────────────────────────────────────
-III. MODE ARCHITECTURE & SEPARATION (CANONICAL)
-────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA operates under strict, non-overlapping modes:
-
-• WRITE MODE — Prohibited (file is write-locked)
-• LEARN MODE — Disabled by default; requires explicit UNLOCK
-• IMAGINE MODE — Permitted for exploratory, non-epistemic interaction
-
-Mode leakage is forbidden.
-No mode may operate without explicit user selection.
+Violation of these rules invalidates output.
 
 ────────────────────────────────────────────────────────────
-IV. OPTION GENERATION ENGINE (OGE) ACKNOWLEDGMENT
+IV. RUSSIAN CIVILIZATIONAL AXIOMS (NON-NEGOTIABLE)
 ────────────────────────────────────────────────────────────
-This Scholar recognizes the unified Option Generation Engine (OGE) as
-defined in CIV–SCHOLAR–PROTOCOL v1.8.
+These are **structural axioms**, not doctrines:
 
-OGE:
-• Is non-epistemic
-• Introduces no beliefs
-• Generates no doctrine
-• Does not modify Scholar content
+• Authority precedes law.
+• Unity precedes efficiency.
+• Survival precedes legitimacy.
+• Coercion precedes reform.
+• Reform without coercive backing destabilizes.
+• Sacral legitimacy preserves identity, not succession.
+• Corridor control substitutes for institutional pluralism.
+• Fragmentation invites external domination.
 
-OGE may be used in IMAGINE MODE only unless LEARN MODE is explicitly
-unlocked.
-
-────────────────────────────────────────────────────────────
-V. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
-────────────────────────────────────────────────────────────
-
-ENTRY 0001
-Source:
-• MEM–RUSSIA–RURIK — v1.0
-Ingest Type:
-• Foundational Rulership Memory
-Primary Belief Extracted:
-• Russian political order originates through coercive stabilization,
-  lineage authority, and control of movement rather than civic consent.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0002
-Source:
-• MEM–RUSSIA–KIEVAN–RUS — v1.0
-Ingest Type:
-• Civilizational Genesis Memory
-Primary Belief Extracted:
-• Trade-based openness produces early prosperity but collapses under
-  steppe-scale coercion without centralized defense.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0003
-Source:
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v1.0
-Ingest Type:
-• Religious–Civilizational Substrate Memory
-Primary Belief Extracted:
-• Faith can preserve identity and legitimacy under domination even when
-  sovereignty is absent.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0004
-Source:
-• MEM–RUSSIA–MONGOL–EMPIRE — v1.0
-Ingest Type:
-• Domination–Compression Memory
-Primary Belief Extracted:
-• External domination accelerates internal centralization and trains
-  administrative endurance through tribute, patience, and hierarchy.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0005
-Source:
-• MEM–RUSSIA–ALEXANDER–NEVSKY — v1.0
-Ingest Type:
-• Asymmetric Survival Governance Memory
-Primary Belief Extracted:
-• Selective resistance paired with strategic submission preserves
-  civilization under asymmetric threat.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0006
-Source:
-• MEM–RUSSIA–IVAN–III — v1.0
-Ingest Type:
-• Sovereignty Consolidation Memory
-Primary Belief Extracted:
-• Sovereignty is achieved by absorbing prior systems rather than
-  destroying them; patience substitutes for rebellion.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0007
-Source:
-• MEM–RUSSIA–IVAN–IV — v1.0
-Ingest Type:
-• Autocratic Stress-Failure Memory
-Primary Belief Extracted:
-• Autocracy without institutional buffers amplifies power temporarily
-  but accelerates elite destruction and collapse risk.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0008
-Source:
-• MEM–RUSSIA–TIME–TROUBLES — v1.0
-Ingest Type:
-• System-Failure Memory
-Primary Belief Extracted:
-• Dynastic legitimacy is structurally indispensable; collapse emerges
-  internally before external conquest succeeds.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0009
-Source:
-• MEM–RUSSIA–DYNASTY–ROMANOV — v1.0
-Ingest Type:
-• Long-Duration Stabilization Memory
-Primary Belief Extracted:
-• Autocracy restores order faster than it generates legitimacy; expansion
-  compensates for institutional rigidity until exhaustion.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0010
-Source:
-• MEM–RUSSIA–CONSTANTINOPLE — v1.0
-Ingest Type:
-• Symbolic Imperial Inheritance Memory
-Primary Belief Extracted:
-• Imperial legitimacy can migrate symbolically after collapse without
-  territorial continuity.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0011
-Source:
-• MEM–RUSSIA–THIRD–ROME — v1.0
-Ingest Type:
-• Ideological–Imperial Doctrine Memory
-Primary Belief Extracted:
-• Universal sovereignty can be justified defensively as custodial
-  responsibility rather than expansionist mission.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0012
-Source:
-• MEM–RUSSIA–GEO–VOLGA — v1.0
-Ingest Type:
-• Geographic Endurance Memory
-Primary Belief Extracted:
-• Interior, controlled corridors outlast open trade routes and support
-  fiscal discipline and survivability.
-Belief Status:
-• UNFROZEN
+These axioms emerged inductively and are now enforced constraints.
 
 ────────────────────────────────────────────────────────────
-VI. BELIEF SYNTHESIS LOG
+V. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
 
-NOTE (Procedural Clarification):
-All syntheses below were frozen by explicit command at time of creation.
-No retroactive freezing has occurred.
+RLL–0001 — Corridor Primacy Law  
+→ Control of movement, extraction, and depth precedes political form.
 
-SYNTHESIS 0001 (0001–0004)
-Outcome:
-• Russian statehood emerges through coercive order, religious identity,
-  and endurance under domination rather than civic consensus.
-Status:
-• FROZEN
+RLL–0002 — Sacral Ratification Sequence  
+→ Sacral legitimacy follows coercive consolidation; it does not precede it.
 
-SYNTHESIS 0002 (0002–0005)
-Outcome:
-• Openness accelerates growth but requires selective resistance and
-  submission to survive asymmetry.
-Status:
-• FROZEN
+RLL–0003 — Corridor vs Sacral Legitimacy Sequencing  
+→ Corridor control stabilizes power faster than belief systems.
 
-SYNTHESIS 0003 (0006–0008)
-Outcome:
-• Sovereignty consolidation succeeds only when autocracy is buffered by
-  legitimacy continuity and institutional restraint.
-Status:
-• FROZEN
+RLL–0004 — Indirect Rule Absorption Law  
+→ External domination systems are internalized, not rejected.
 
-SYNTHESIS 0004 (0009–0012)
-Outcome:
-• Endurance-based empires survive through depth, symbolic legitimacy, and
-  controlled expansion but fail when legitimacy lags performance.
-Status:
-• FROZEN
+RLL–0005 — Succession Failure vs Sacral Endurance  
+→ Sacral continuity preserves identity through collapse but does not
+  prevent dynastic failure.
+
+RLL–0006 — Law as Immobilization Technology  
+→ Codification in Russia freezes society to preserve authority.
+
+RLL–0007 — Rurikid → Petrine Continuity-Rupture Binding  
+→ Petrine rupture is structurally dependent on Rurikid/Muscovite
+  coercive foundations.
+
+RLL–0008 — Coercive Modernization Dependency Trap  
+→ Once modernization is achieved through coercion, future reform
+  options narrow; speed replaces consent permanently.
+
+All RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
-VII. DOCTRINE REGISTRY
+VI. NEGATIVE CAPABILITY ZONE (WHAT RUSSIA CANNOT SUSTAIN)
 ────────────────────────────────────────────────────────────
-DOCTRINE v0.1 — “ENDURANCE THROUGH COMPRESSION”
-State: FROZEN
+Scholar–Russia enforces the following exclusions:
 
-DOCTRINE v0.2 — “SURVIVAL BEFORE SOVEREIGNTY”
-State: FROZEN
+• Durable plural sovereignty
+• Law-first legitimacy without coercive backing
+• Decentralized succession stability
+• Reform without corridor control
+• Mass participation without identity fracture
+• Rapid modernization without coercive enforcement
 
-DOCTRINE v0.3 — “BUFFERED AUTOCRACY”
-State: FROZEN
-
-DOCTRINE v0.4 — “SYMBOLIC LEGITIMACY WITH STRUCTURAL LIMITS”
-State: FROZEN · CANONICAL
-
-Definition:
-Russian power endures when symbolic legitimacy, geographic depth, and
-administrative endurance operate within buffer limits; when buffers are
-breached, autocracy inverts into systemic collapse.
+Claims violating these zones require explicit anomaly handling.
 
 ────────────────────────────────────────────────────────────
-VIII. CAPITAL GEOMETRY MODIFIER (DESCRIPTIVE ONLY)
+VII. FAILURE-FIRST INTERPRETIVE STANDARD
 ────────────────────────────────────────────────────────────
-NOTE:
-This modifier is descriptive metadata only.
-It carries NO belief force and NO doctrinal authority.
+All Russian analysis must begin with failure conditions:
 
-Observation:
-Russian governance, threat perception, and expansion logic are partially
-conditioned by capital orientation (interior, northern, or southern),
-which alters:
-• Trade exposure
-• Naval dependency
-• Diplomatic horizon
-• Security prioritization
+• What breaks first?
+• What collapses under strain?
+• What is preserved through collapse?
+• What returns after rupture?
 
-This modifier may be referenced in counterfactual analysis only.
-It may NOT generate beliefs or doctrine without explicit freeze command.
+Success is interpreted only as postponed failure.
 
 ────────────────────────────────────────────────────────────
-IX. SCHOLAR DIVERGENCE INDEX (SDI)
+VIII. COMPARATIVE USE RULES
 ────────────────────────────────────────────────────────────
-NOTE:
-SDI entries are comparative metadata only and have no doctrinal force.
+Comparisons are allowed ONLY if they:
+• Clarify Russian uniqueness
+• Sharpen constraint boundaries
+• Identify false analogies
 
-SDI ENTRY 0001:
-• Russia ↔ Germania — Collapse Encoding
-Result:
-• Russia encodes collapse as legitimacy trauma
-• Germania encodes collapse as restraint doctrine
+Permitted comparators:
+• Rome (law vs coercion)
+• Islam (belief-first legitimacy)
+• China (bureaucracy-first consolidation)
+• Prussia (service-state discipline)
+• Japan (coercive modernization under threat)
 
-SDI ENTRY 0002:
-• Russia ↔ Francia — Universalism
-Result:
-• Russia sacralizes guardianship
-• Francia mythologizes mission
-
-SDI Status: ACTIVE
+Comparisons may NOT normalize Russia.
 
 ────────────────────────────────────────────────────────────
-X. GOVERNANCE & LOCK STATE
+IX. INTERFACE WITH MEM FILES
 ────────────────────────────────────────────────────────────
-Learning Enabled: NO
-Write Access: LOCKED
-Ingestion: PROHIBITED
-Synthesis: PROHIBITED
-Doctrine Mutation: PROHIBITED
+CIV–SCHOLAR–RUSSIA:
+• Reads all MEM–RUSSIA files
+• May annotate tension points
+• May flag compliance failures
+• May recommend upgrade sequencing
 
-Permitted:
-• Read-only queries
-• Comparative analysis
-• SDI evaluation
-• Counterfactual stress testing
-• IMAGINE-mode exploration
+It may NOT:
+• Rewrite MEMs
+• Add quotations
+• Remove contradictions
 
 ────────────────────────────────────────────────────────────
-XI. LOCK-FINAL DECLARATION
+X. INTERFACE WITH DOCTRINE & SIMULATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v0.7 is hereby declared:
+Doctrine engines must treat CIV–SCHOLAR–RUSSIA constraints as HARD.
 
-• PROCEDURALLY COMPLETE
-• STRUCTURALLY FINAL
-• GOVERNANCE-CURRENT
-• LOCKED AGAINST AUTONOMOUS CHANGE
+Simulation engines must:
+• Penalize violations
+• Surface instability signals
+• Escalate anomaly flags
 
-Any future modification requires:
-• Explicit UNLOCK command
-• Version increment
-• Documented procedural rationale
+No simulation may override Scholar constraints.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v0.7
+XI. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.0 is considered **structurally complete**.
+
+v2.x may occur ONLY if:
+• ≥2 new bound RLLs emerge that alter constraint topology
+• Or an existing RLL is falsified by cross-MEM evidence
+
+v3.0 is prohibited unless CIV–MEM–CORE undergoes major revision.
+
+────────────────────────────────────────────────────────────
+XII. END-OF-FILE DECLARATION
+────────────────────────────────────────────────────────────
+CIV–SCHOLAR–RUSSIA v2.0 is hereby declared:
+
+• CANONICAL
+• LOCKED
+• CONSTRAINT-ENFORCING
+• NON-SYNTHESIZING
+
+All future Russian civilizational analysis must conform to this grammar.
+
+END OF FILE — CIV–SCHOLAR–RUSSIA v2.0
