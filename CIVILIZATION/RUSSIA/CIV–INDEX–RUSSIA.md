@@ -1,19 +1,32 @@
-CIV–INDEX–RUSSIA — v1.8
+CIV–INDEX–RUSSIA — v1.9
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.8
-Supersedes: CIV–INDEX–RUSSIA v1.7
-Upgrade Type: REGISTER RECONCILIATION · FILE NAME CORRECTIONS + MISSING FILE ADDITIONS
+Version: 1.9
+Supersedes: CIV–INDEX–RUSSIA v1.8
+Upgrade Type: TEMPLATE ALIGNMENT · CIV–CORE–TEMPLATE v1.9 COMPATIBILITY
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
 Class: CIV (Index)
 Last Update: January 2026
 
-Template Alignment: CIV–CORE–TEMPLATE v1.6.1 (Index-Compatible)
+Template Alignment: CIV–CORE–TEMPLATE v1.9 (Index-Compatible)
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.9)
+────────────────────────────────────────────────────────────
+This version updates template alignment to reflect current CIV–CORE–TEMPLATE v1.9.
+
+v1.9 changes:
+• Template Alignment updated: v1.6.1 → v1.9
+• Aligns with CIV–CORE–TEMPLATE v1.9 (OGE System-Primitive Recognition Edition)
+
+No file register changes.
+No governance rules modified.
+No content alterations.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8)
@@ -205,4 +218,4 @@ WORDCOUNT: ~1,250
 TOTAL REGISTERED FILES: Eighty-two (82) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v1.8
+END OF FILE — CIV–INDEX–RUSSIA v1.9
