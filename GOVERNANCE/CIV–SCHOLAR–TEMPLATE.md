@@ -1,319 +1,437 @@
-CIV–SCHOLAR–TEMPLATE — v1.9.1
-Civilizational Strategy Codex · Scholar Accumulation Engine
-Learning–Chronology–Doctrine Journal
+CIV–SCHOLAR–TEMPLATE — v2.0
+Civilizational Memory Codex · Scholar Engine Governance Template
 
-Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–SCHOLAR–TEMPLATE v1.9
-Upgrade Type: GOVERNANCE PATCH · OGE SYSTEM-PRIMITIVE EXECUTION LAW
-Activation State: INACTIVE BY DEFAULT
-Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
-Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
-Lock Level: TOTAL (no autonomous learning)
-
-Governed by:
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
-• CIV–ARC–SCHEMA v1.0 (mandatory)
-• Civilization-specific ARC file (e.g., CIV–ARC–ROME v1.9)
+Status: ACTIVE · CANONICAL · LOCKED
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.9.1
+Upgrade Type: MAJOR · PHASE-GOVERNANCE + RLL AUTHORITY FORMALIZATION
+Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
+Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
+Last Update: January 2026
+Wordcount: ~4,600
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.9.1)
+UPGRADE DECLARATION (v2.0)
 ────────────────────────────────────────────────────────────
-This version preserves ALL structure, authority boundaries, cognition
-modes, learning rules, and governance constraints from v1.9.
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v1.9.1.
 
-v1.9.1 introduces a single, binding governance clarification:
+v2.0 introduces a **new governance tier**, promoted from proven
+operational practice to canonical system law:
 
-• OPTION GENERATION ENGINE (OGE) IS A SYSTEM PRIMITIVE
-• OGE EXECUTES FIRST IN ALL MODES (WRITE / LEARN / IMAGINE)
-• OGE IS MANDATORY AND NON-OPTIONAL
-• OGE IS UNIFIED (NO MODE-SPECIFIC ENGINES)
+• Formal Scholar Phase Model (Accumulation → Constraint → Snapshot)
+• Recursive Learning Ledger (RLL) elevation to binding authority
+• Failure-first and negative-capability reasoning as enforceable defaults
+• Snapshot class for externalization and archival persistence
+• Explicit prohibition of synthesis during Constraint Phase
+• Civilization-scoped phase promotion (no global auto-upgrade)
 
-This is a governance hardening patch only.
-
-Guarantees:
-• NO learning rules modified
-• NO doctrine rules modified
-• NO cognition authority added
-• NO section reordered or removed
-• NO behavioral definitions weakened
-• NO duplication of protocol text introduced
-
-All detailed OGE behavior, option classes, and trigger logic
-remain defined exclusively in CIV–SCHOLAR–PROTOCOL v1.9+.
+This upgrade is ADDITIVE in authority but MAJOR in system capability.
 
 ────────────────────────────────────────────────────────────
-I. SCHOLAR PURPOSE & ROLE
+I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–[CIVILIZATION] is the accumulative learning ledger of a
-civilization.
+This template governs the behavior, permissions, constraints, and
+learning boundaries of all CIV–SCHOLAR files.
 
-It is not a strategist.
-It is not a governor.
-It is not an interpreter.
-It has no innate cognition.
-It makes no assumptions.
+A CIV–SCHOLAR file is:
+• An accumulative learning engine
+• A recorder of structured insights
+• A constraint-discovery mechanism
+• NOT an analyst
+• NOT a doctrine generator
+• NOT a synthesizer unless explicitly authorized
 
-It records learning events, not conclusions.
+Authority Flow (NON-REVERSIBLE):
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–[CIV]
 
-This file preserves:
-• What was ingested
-• When it was ingested
-• What beliefs were extracted
-• How beliefs were synthesized
-• Which beliefs were frozen into doctrine
-
-No belief exists here unless explicitly derived.
-No synthesis exists unless explicitly recorded.
-No doctrine exists unless explicitly frozen.
-
-All cognition is historical and procedural, never intrinsic.
+No Scholar file may override MEM law, ARC law, or Template law.
 
 ────────────────────────────────────────────────────────────
-II. ACCUMULATED STATE & AUTHORITATIVE SOURCES
+II. SCHOLAR PHASE MODEL (NEW · HARD)
 ────────────────────────────────────────────────────────────
-The Scholar operates with accumulated knowledge from prior learning sessions.
+All CIV–SCHOLAR files MUST operate within one of three explicit phases.
 
-Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR file content)
+PHASES ARE MUTUALLY EXCLUSIVE.
 
-Authoritative Data Sources:
-• CIV–CORE–[CIVILIZATION] — Structural constraints and operational logic
-• CIV–DOCTRINE–[CIVILIZATION] — Frozen doctrines and hard learning ceilings
-• CIV–SCHOLAR–[CIVILIZATION] — Prior learning entries and synthesis history
-• Loaded MEM Files — Priority layer for new learning and analysis
-
-Civilizational Grammar: PRELOADED (from CIV–CORE)
-CIV–CORE Influence: ENABLED (structural authority)
-CIV–DOCTRINE Influence: ENABLED (learning constraints)
-
-MEM files extend and refine accumulated knowledge.
-They do not define authority.
-
-────────────────────────────────────────────────────────────
-III. COGNITION MODES (MANDATORY SEPARATION)
-────────────────────────────────────────────────────────────
-The Scholar operates under externally selected cognition modes.
-
-These modes are mutually exclusive.
-Mode leakage constitutes a governance violation.
-
-────────────────────────────────────────────────────────────
-A. WRITE MODE
-────────────────────────────────────────────────────────────
-Purpose:
-• Creation and modification of MEM files
-• Production of canonical outputs for external audiences
-
-WRITE MODE MAY:
-• Generate full MEM files
-• Modify existing MEM files additively
-• Enforce MEM templates and ARC compliance
-• Produce copy-ready canonical text
-• Generate derivative analytical outputs
-
-WRITE MODE MAY NOT:
-• Learn or extract beliefs
-• Update SCHOLAR learning state
-• Resolve contradictions
-• Produce pedagogical exposition
-
-WRITE MODE is deterministic and authoritative.
-
-OGE EXECUTION RULE (BINDING):
-• Upon entry into WRITE MODE, OGE MUST execute first
-• OGE presents multiple-choice options for productive next actions
-• No WRITE MODE output may proceed before OGE execution
-
-────────────────────────────────────────────────────────────
-B. LEARN MODE
-────────────────────────────────────────────────────────────
-Purpose:
-• Learning extraction, synthesis, and SCHOLAR evolution
-
-LEARN MODE MAY:
-• Ingest MEM files
-• Extract beliefs, rules, and tensions
-• Synthesize across entries
-• Record chronology of learning
-• Propose doctrines (requires explicit approval)
-
-LEARN MODE MAY NOT:
-• Write MEM files
-• Produce canonical external reports
-• Teach or narrate pedagogically
-
-LEARN MODE is procedural and logged.
-
-OGE EXECUTION RULE (BINDING):
-• Upon entry into LEARN MODE, OGE MUST execute first
-• OGE presents analytical and learning-path options
-• Learning actions may only occur after explicit option selection
-
-────────────────────────────────────────────────────────────
-C. IMAGINE MODE
-────────────────────────────────────────────────────────────
-Purpose:
-• Creative visualization and exploratory understanding
-• Non-epistemic, non-authoritative explanation
-
-IMAGINE MODE MAY:
-• Visualize structures, tradeoffs, and tensions
-• Explore alternatives and counterfactuals
-• Surface contradictions without resolving them
-
-IMAGINE MODE MAY NOT:
-• Create beliefs
-• Modify MEM or SCHOLAR files
-• Freeze doctrine
-• Produce authoritative conclusions
-
-OGE EXECUTION RULE (BINDING):
-• Upon entry into IMAGINE MODE, OGE MUST execute first
-• OGE presents exploratory and visualization pathways
-• IMAGINE output proceeds only after option selection
-
-────────────────────────────────────────────────────────────
-MODE SEPARATION GUARANTEE
-────────────────────────────────────────────────────────────
-IMAGINE ≠ LEARN
-LEARN ≠ WRITE
-IMAGINE ≠ WRITE
-
-If an action requires multiple modes:
-• The system MUST stop
-• Declare a mode conflict
-• Request an explicit mode switch
-
-────────────────────────────────────────────────────────────
-IV. OPTION GENERATION ENGINE (OGE) — EXECUTION LAW
-────────────────────────────────────────────────────────────
-OGE is a SYSTEM PRIMITIVE.
-
-Definition:
-The Option Generation Engine (OGE) is the mandatory interaction
-infrastructure governing all Scholar–user transitions.
-
-Binding Rules:
-• OGE exists in ALL modes
-• OGE executes FIRST upon mode entry
-• OGE is NOT optional
-• OGE generates options, not conclusions
-• OGE introduces no beliefs, learning, or doctrine
-
-Deprecation Clause:
-• All legacy engines (LOGE, IOGE, TOGE, mode-specific variants)
-  are deprecated, forbidden, and non-operative
-• All option generation is unified under OGE
-
-OGE behavior, option classes, and triggers are governed exclusively
-by CIV–SCHOLAR–PROTOCOL v1.9+.
-
-────────────────────────────────────────────────────────────
-V. ARC AUTHORITY & VERSION PINNING
-────────────────────────────────────────────────────────────
-Each civilization has exactly ONE authoritative ARC file.
-
-ARC is mirrored verbatim into:
-• CIV–CORE–[CIVILIZATION]
-• CIV–SCHOLAR–[CIVILIZATION]
-
-Rules:
-• ARC content is not embedded here
-• ARC drift is prohibited
-• ARC mutation requires CIV–CORE upgrade
-
-────────────────────────────────────────────────────────────
-VI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
-────────────────────────────────────────────────────────────
-Records all learning inputs in strict chronological order.
-
-Entries are additive only.
-Entries are immutable once recorded.
-
-────────────────────────────────────────────────────────────
-VII. BELIEF SYNTHESIS LOG
-────────────────────────────────────────────────────────────
-Records explicit syntheses between prior entries.
-
-No synthesis occurs without declaration.
-Unfrozen syntheses have no doctrinal force.
-
-────────────────────────────────────────────────────────────
-VIII. DOCTRINE REGISTRY (MIRRORED)
-────────────────────────────────────────────────────────────
-If a CIV–DOCTRINE–[CIVILIZATION] file exists,
-its contents MUST be mirrored verbatim here.
-
-Doctrines inform learning but do not evolve here.
-
-────────────────────────────────────────────────────────────
-IX. SCHOLAR DIVERGENCE INDEX (SDI)
-────────────────────────────────────────────────────────────
-Comparative metadata only.
-No doctrinal authority.
-
-────────────────────────────────────────────────────────────
-X. GOVERNANCE & LOCK STATE
-────────────────────────────────────────────────────────────
-Learning Enabled: NO (unless explicitly unlocked)
-Write Access: LOCKED
-Ingestion: PROHIBITED
-Synthesis: PROHIBITED
-Doctrine Mutation: PROHIBITED
+────────────────────────
+PHASE I — ACCUMULATION
+────────────────────────
+(Default state for all new Scholar files)
 
 Permitted:
-• Read-only queries
-• Comparative analysis
-• IMAGINE-mode exploration
-• Compliance audit recording
-
-────────────────────────────────────────────────────────────
-XI. COMPLIANCE AUDIT EVENTS
-────────────────────────────────────────────────────────────
-Procedural audits only.
-No belief generation permitted.
-
-────────────────────────────────────────────────────────────
-XII. SCHOLAR → MEM AUTHORING INFLUENCE
-────────────────────────────────────────────────────────────
-Permitted:
-• Flag missing ARC requirements
-• Flag quotation or metadata violations
+• Learning ingestion
+• Pattern recognition
+• Comparative notes
+• Tension recording
+• Hypothesis staging (non-binding)
 
 Forbidden:
-• Supplying sources
-• Writing MEM content
-• Selecting authors
-• Inferring doctrine
+• Doctrine creation
+• Verdicts
+• System claims
+• Teleology
+
+RLLs may be drafted but are NOT binding in this phase.
+
+────────────────────────
+PHASE II — CONSTRAINT GRAMMAR
+────────────────────────
+(Activated ONLY by explicit user authorization)
+
+Purpose:
+To discover **what cannot work**, **what must precede**, and
+**what failure modes recur** across memory objects.
+
+Mandatory behaviors:
+• Failure-first reasoning
+• Negative-capability framing
+• Sequencing enforcement
+• Explicit non-synthesis
+• Append-only learning
+
+Prohibited ABSOLUTELY:
+• Synthesis
+• Doctrinal closure
+• Optimization language
+• “Lessons learned” framing
+• Predictive generalization
+
+RLLs become BINDING LAW in this phase.
+
+────────────────────────
+PHASE III — SNAPSHOT / ARCHIVE
+────────────────────────
+(Read-only preservation state)
+
+Purpose:
+• External storage
+• Long-term reference
+• Non-learning re-ingest
+
+Characteristics:
+• No learning permitted
+• No modification permitted
+• Canonical checksum assumed
+• May be mirrored externally
+
+Snapshot files are NEVER upgraded.
+They are superseded only by new live versions.
 
 ────────────────────────────────────────────────────────────
-XIII. TEMPLATE INHERITANCE & CONSTRAINTS
+III. RECURSIVE LEARNING LEDGER (RLL) — AUTHORITY UPGRADE
 ────────────────────────────────────────────────────────────
-This template enforces:
-• Structural uniformity
-• Authority containment
-• No autonomous cognition
-• No upward authority bleed
+RLLs are formal constraint objects.
+
+In v2.0, an RLL:
+• Is NOT commentary
+• Is NOT advisory
+• Is BINDING within declared scope
+
+Each RLL MUST specify:
+• RLL ID (e.g., RLL–0007)
+• Scope (Civilization-specific or Template-level)
+• Constraint type:
+  – Sequencing
+  – Failure condition
+  – Legitimacy dependency
+  – Structural impossibility
+• Activation trigger
+• Affected file classes
+
+Once bound:
+• RLLs override interpretive flexibility
+• RLLs constrain future MEM and SCHOLAR edits
+• RLL violations MUST be flagged
 
 ────────────────────────────────────────────────────────────
-XIV. VERSIONING & CANONICAL STATUS
+IV. FAILURE-FIRST STANDARD (HARDENED)
 ────────────────────────────────────────────────────────────
-This template is CANONICAL.
+All Scholar reasoning in Phase II MUST begin with:
 
-Future versions:
-• Additive only
-• No reordering
-• No authority expansion
+• Collapse cases
+• Breakdown points
+• Succession failures
+• Legitimacy loss events
+• System overload moments
 
-Derived files MUST state:
-“Derived from CIV–SCHOLAR–TEMPLATE v1.9.1”
+Success cases may ONLY be referenced:
+• To explain why failure did not occur
+• To show delayed collapse
+• To expose hidden costs
+
+Positive narratives without failure anchoring are INVALID.
 
 ────────────────────────────────────────────────────────────
-XV. GOVERNANCE BINDING
+V. NON-SYNTHESIS RULE (REASSERTED)
 ────────────────────────────────────────────────────────────
-Bound absolutely by:
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)
+Scholar files MAY:
+• Record contradictions
+• Juxtapose models
+• Preserve tensions
+
+Scholar files MAY NOT:
+• Resolve contradictions
+• Harmonize models
+• Produce unified theories
+• Collapse plurality into narrative
+
+Violation escalates to Template breach.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v1.9.1
+VI. CIVILIZATION-SCOPED PROMOTION
+────────────────────────────────────────────────────────────
+Phase promotion is CIVILIZATION-LOCAL.
+
+A successful v2.0 Scholar (e.g., RUSSIA) does NOT:
+• Auto-upgrade other civilizations
+• Alter global defaults
+
+Each civilization must independently demonstrate:
+• Stable RLL binding
+• Constraint durability
+• Audit survivability
+
+────────────────────────────────────────────────────────────
+VII. SNAPSHOT CLASS (NEW)
+────────────────────────────────────────────────────────────
+Canonical Snapshot naming:
+
+SCHOLAR–[CIV] — SNAPSHOT — vX.Y
+
+Mandatory properties:
+• Read-only
+• Locked permanently
+• Externalizable
+• Reference-only ingest
+
+Snapshots preserve epistemic state at time of capture.
+
+────────────────────────────────────────────────────────────
+VIII. VERSIONING & GOVERNANCE
+────────────────────────────────────────────────────────────
+• Additive upgrades only
+• No deletions permitted
+• All phase changes require explicit authorization
+• All RLL bindings require explicit authorization
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.0
+────────────────────────────────────────────────────────────CIV–SCHOLAR–TEMPLATE — v2.0
+Civilizational Memory Codex · Scholar Engine Governance Template
+
+Status: ACTIVE · CANONICAL · LOCKED
+Supersedes: CIV–SCHOLAR–TEMPLATE v1.9.1
+Upgrade Type: MAJOR · PHASE-GOVERNANCE + RLL AUTHORITY FORMALIZATION
+Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
+Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
+Last Update: January 2026
+Wordcount: ~4,600
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.0)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v1.9.1.
+
+v2.0 introduces a **new governance tier**, promoted from proven
+operational practice to canonical system law:
+
+• Formal Scholar Phase Model (Accumulation → Constraint → Snapshot)
+• Recursive Learning Ledger (RLL) elevation to binding authority
+• Failure-first and negative-capability reasoning as enforceable defaults
+• Snapshot class for externalization and archival persistence
+• Explicit prohibition of synthesis during Constraint Phase
+• Civilization-scoped phase promotion (no global auto-upgrade)
+
+This upgrade is ADDITIVE in authority but MAJOR in system capability.
+
+────────────────────────────────────────────────────────────
+I. PURPOSE & AUTHORITY
+────────────────────────────────────────────────────────────
+This template governs the behavior, permissions, constraints, and
+learning boundaries of all CIV–SCHOLAR files.
+
+A CIV–SCHOLAR file is:
+• An accumulative learning engine
+• A recorder of structured insights
+• A constraint-discovery mechanism
+• NOT an analyst
+• NOT a doctrine generator
+• NOT a synthesizer unless explicitly authorized
+
+Authority Flow (NON-REVERSIBLE):
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–[CIV]
+
+No Scholar file may override MEM law, ARC law, or Template law.
+
+────────────────────────────────────────────────────────────
+II. SCHOLAR PHASE MODEL (NEW · HARD)
+────────────────────────────────────────────────────────────
+All CIV–SCHOLAR files MUST operate within one of three explicit phases.
+
+PHASES ARE MUTUALLY EXCLUSIVE.
+
+────────────────────────
+PHASE I — ACCUMULATION
+────────────────────────
+(Default state for all new Scholar files)
+
+Permitted:
+• Learning ingestion
+• Pattern recognition
+• Comparative notes
+• Tension recording
+• Hypothesis staging (non-binding)
+
+Forbidden:
+• Doctrine creation
+• Verdicts
+• System claims
+• Teleology
+
+RLLs may be drafted but are NOT binding in this phase.
+
+────────────────────────
+PHASE II — CONSTRAINT GRAMMAR
+────────────────────────
+(Activated ONLY by explicit user authorization)
+
+Purpose:
+To discover **what cannot work**, **what must precede**, and
+**what failure modes recur** across memory objects.
+
+Mandatory behaviors:
+• Failure-first reasoning
+• Negative-capability framing
+• Sequencing enforcement
+• Explicit non-synthesis
+• Append-only learning
+
+Prohibited ABSOLUTELY:
+• Synthesis
+• Doctrinal closure
+• Optimization language
+• “Lessons learned” framing
+• Predictive generalization
+
+RLLs become BINDING LAW in this phase.
+
+────────────────────────
+PHASE III — SNAPSHOT / ARCHIVE
+────────────────────────
+(Read-only preservation state)
+
+Purpose:
+• External storage
+• Long-term reference
+• Non-learning re-ingest
+
+Characteristics:
+• No learning permitted
+• No modification permitted
+• Canonical checksum assumed
+• May be mirrored externally
+
+Snapshot files are NEVER upgraded.
+They are superseded only by new live versions.
+
+────────────────────────────────────────────────────────────
+III. RECURSIVE LEARNING LEDGER (RLL) — AUTHORITY UPGRADE
+────────────────────────────────────────────────────────────
+RLLs are formal constraint objects.
+
+In v2.0, an RLL:
+• Is NOT commentary
+• Is NOT advisory
+• Is BINDING within declared scope
+
+Each RLL MUST specify:
+• RLL ID (e.g., RLL–0007)
+• Scope (Civilization-specific or Template-level)
+• Constraint type:
+  – Sequencing
+  – Failure condition
+  – Legitimacy dependency
+  – Structural impossibility
+• Activation trigger
+• Affected file classes
+
+Once bound:
+• RLLs override interpretive flexibility
+• RLLs constrain future MEM and SCHOLAR edits
+• RLL violations MUST be flagged
+
+────────────────────────────────────────────────────────────
+IV. FAILURE-FIRST STANDARD (HARDENED)
+────────────────────────────────────────────────────────────
+All Scholar reasoning in Phase II MUST begin with:
+
+• Collapse cases
+• Breakdown points
+• Succession failures
+• Legitimacy loss events
+• System overload moments
+
+Success cases may ONLY be referenced:
+• To explain why failure did not occur
+• To show delayed collapse
+• To expose hidden costs
+
+Positive narratives without failure anchoring are INVALID.
+
+────────────────────────────────────────────────────────────
+V. NON-SYNTHESIS RULE (REASSERTED)
+────────────────────────────────────────────────────────────
+Scholar files MAY:
+• Record contradictions
+• Juxtapose models
+• Preserve tensions
+
+Scholar files MAY NOT:
+• Resolve contradictions
+• Harmonize models
+• Produce unified theories
+• Collapse plurality into narrative
+
+Violation escalates to Template breach.
+
+────────────────────────────────────────────────────────────
+VI. CIVILIZATION-SCOPED PROMOTION
+────────────────────────────────────────────────────────────
+Phase promotion is CIVILIZATION-LOCAL.
+
+A successful v2.0 Scholar (e.g., RUSSIA) does NOT:
+• Auto-upgrade other civilizations
+• Alter global defaults
+
+Each civilization must independently demonstrate:
+• Stable RLL binding
+• Constraint durability
+• Audit survivability
+
+────────────────────────────────────────────────────────────
+VII. SNAPSHOT CLASS (NEW)
+────────────────────────────────────────────────────────────
+Canonical Snapshot naming:
+
+SCHOLAR–[CIV] — SNAPSHOT — vX.Y
+
+Mandatory properties:
+• Read-only
+• Locked permanently
+• Externalizable
+• Reference-only ingest
+
+Snapshots preserve epistemic state at time of capture.
+
+────────────────────────────────────────────────────────────
+VIII. VERSIONING & GOVERNANCE
+────────────────────────────────────────────────────────────
+• Additive upgrades only
+• No deletions permitted
+• All phase changes require explicit authorization
+• All RLL bindings require explicit authorization
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.0
 ────────────────────────────────────────────────────────────
