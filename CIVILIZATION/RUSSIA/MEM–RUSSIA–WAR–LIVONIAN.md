@@ -1,14 +1,22 @@
-MEM–RUSSIA–WAR–LIVONIAN — v1.0
+MEM–RUSSIA–WAR–LIVONIAN — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.0 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Livonian War
 Dates: 1558–1583 AD
 Class: MEM (Memory)
 Last Update: January 2026
+Wordcount: ~1,700
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.3
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -148,5 +156,61 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–LIVONIAN v1.0
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Russian:
+• MEM–RUSSIA–IVAN–IV — reign context and Oprichnina
+• MEM–RUSSIA–WAR–GREAT–NORTHERN — contrast: success after preparation
+• MEM–RUSSIA–WAR–NARVA — contrast: early failure leading to regeneration
+• MEM–RUSSIA–TIME–TROUBLES — preconditioning for collapse
+• MEM–RUSSIA–SWEDEN — Baltic rivalry
+• MEM–RUSSIA–POLAND — multi-front conflict
+
+GEO–MEM (REQUIRED):
+• MEM–RUSSIA–GEO–BALTIC–SEA — strategic objective
+• MEM–RUSSIA–GEO–CRIMEA — southern pressure during war
+
+Cross-civilizational:
+• MEM–CHINA–OPIUM–WARS — premature system entry failure
+• MEM–GERMANIA–WAR–THIRTY–YEARS — multi-front exhaustion
+
+────────────────────────────────────────────────────────────
+XI. ACADEMIC REFERENCES (ENGAGED)
+────────────────────────────────────────────────────────────
+Engaged scholarship includes:
+• **Robert K. Massie** — PRIMARY modern authority: Petrine-era context
+  on learning from Livonian failure, preparation before ambition
+• Dominic Lieven — endurance mechanics and strategic timing
+• Geoffrey Hosking — institutional capacity and premature expansion
+
+Massie provides the primary analytical framework for understanding how
+Peter learned from Livonian failure and approached Baltic access
+differently.
+
+Secondary sources frame interpretation but do not override primary
+evidence or structural analysis.
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+"MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–LIVONIAN
+Status: ACTIVE
+Exploration options available."
+
+Mandatory exploration options (8):
+A. Massie: Learning from Livonian failure  
+B. Ambition outrunning endurance analysis  
+C. Livonian vs Great Northern War contrast  
+D. Multi-front escalation and fiscal strain  
+E. Oprichnina and internal disruption  
+F. Premature system entry failure  
+G. Comparative: premature expansion costs  
+H. Compliance & integrity audit  
+
+User selects ONE option only.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–LIVONIAN v2.0
 ────────────────────────────────────────────────────────────
