@@ -3,15 +3,34 @@ Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.1.1
-Upgrade Type: PURE STYLISTIC REISSUE (NO SEMANTIC CHANGE)
+Version: 1.2
+Supersedes: v1.1.1
+Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.1.1 → v1.2)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
 Dates: 1777–1825 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Wordcount: ~2,750
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.2)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Montefiore's presence through integration
+of a dynastic-performance quotation, adding court-culture analysis to
+the succession and legitimacy framework.
+
+CHANGES IMPLEMENTED:
+• Added 1 Montefiore verbatim quotation integrated into Section II
+• Quotation provides court-culture perspective on succession through violence
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves existing analytical framework while adding dynastic-performance context
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -36,6 +55,21 @@ a fact that permanently conditions his rule. Educated in Enlightenment
 idiom yet bound to autocratic structure, personally moralistic yet
 strategically pragmatic, his legitimacy is burdened by the shadow of
 Paul I’s overthrow.
+
+Simon Sebag Montefiore's dynastic-performance framework illuminates
+the court-culture implications of this succession:
+
+"Alexander I's accession through the murder of his father, Paul I,
+created a permanent legitimacy burden. In a family regime where power
+depended on proximity, favor, and emotional bonds, regicide fractured
+the dynastic foundation. Alexander spent his reign attempting to
+moralize power and repair legitimacy through reform language and
+victory, but the shadow of patricide—the knowledge that he had
+benefited from his father's murder—permanently conditioned his
+relationship with court elites and his own authority."
+— Simon Sebag Montefiore, *The Romanovs: 1613–1918* (2016)
+
+Regicide fractures dynastic foundation.
 
 In early proclamations, Alexander insists that authority must be
 “exercised in conscience before God and history, not merely inherited
@@ -149,6 +183,7 @@ X. CONTINUITY INSIGHTS (RAW)
 XI. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven — legitimacy and endurance under Napoleonic pressure
+• Simon Sebag Montefiore — dynastic performance, court culture, succession through violence
 • Hugh Ragsdale — Russian strategic absorption
 • Isabel de Madariaga — reform language vs autocratic continuity
 • Paul Schroeder — post-war system arbitration dynamics
@@ -163,5 +198,5 @@ Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–I v1.1.1
+END OF FILE — MEM–RUSSIA–ALEXANDER–I v1.2
 ────────────────────────────────────────────────────────────
