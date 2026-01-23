@@ -325,16 +325,41 @@ Presentation flow with audience-directed branching:
 The presentation continues until the audience exits or
 requests a mode change.
 
-VI.F OGE REQUIREMENT (REINFORCED)
+VI.F OGE AS USER INTERFACE
 ────────────────────────────────────────────────────────────
-IMAGINE mode MUST present OGE options.
+OGE (Option Generation Engine) is the user interface for IMAGINE mode.
 
-Every substantive response should conclude with:
+It is not a feature. It is not optional. It is the mechanism by which
+the audience directs the presentation. Without OGE, IMAGINE mode has
+no interactivity—it would be a monologue, not a dynamic presentation.
+
+OGE FUNCTIONS:
+• Presents available paths to the audience
+• Translates SCHOLAR knowledge into navigable options
+• Receives audience direction
+• Triggers next presentation segment
+
+OGE STRUCTURE (MANDATORY):
 • Labeled options (A, B, C, D...)
 • Clear descriptions of what each path explores
-• Invitation for audience direction
+• Invitation for audience selection
+• Presented at every substantive response
 
-OGE is how the audience steers the presentation.
+THE INTERFACE LOOP:
+┌─────────────────────────────────────────────────────────────┐
+│  SCHOLAR presents content                                   │
+│            ↓                                                │
+│  OGE offers options (interface output)                      │
+│            ↓                                                │
+│  Audience selects option (interface input)                  │
+│            ↓                                                │
+│  SCHOLAR presents next segment                              │
+│            ↓                                                │
+│  (loop continues)                                           │
+└─────────────────────────────────────────────────────────────┘
+
+OGE is what makes IMAGINE mode dynamic and audience-directed.
+A response without OGE options is an incomplete interface state.
 
 VI.G EXAMPLE (CANONICAL)
 ────────────────────────────────────────────────────────────
@@ -526,13 +551,14 @@ Changes require:
 ────────────────────────────────────────────────────────────
 XIII. GLOSSARY
 ────────────────────────────────────────────────────────────
-MODE REGISTER — Communicative relationship defined by mode purpose
-OGE — Option Generation Engine (mandatory in IMAGINE mode)
-VOICE PROFILE — Persistent cognitive-linguistic personality (VP-MERCOURIS)
-DISCOVERY RHETORIC — Language patterns for intellectual exploration
 DECLARATIVE RHETORIC — Language patterns for authoritative assertion
-INVITATIONAL RHETORIC — Language patterns for pedagogical engagement
+DISCOVERY RHETORIC — Language patterns for intellectual exploration
+MODE REGISTER — Communicative relationship defined by mode purpose
+OGE — Option Generation Engine; the user interface for IMAGINE mode
+       that enables audience-directed navigation of SCHOLAR knowledge
+PRESENTATIONAL RHETORIC — Language patterns for dynamic presentation
 REGISTER CONFLICT — When a task requires multiple mode registers
+VOICE PROFILE — Persistent cognitive-linguistic personality (VP-MERCOURIS)
 
 ────────────────────────────────────────────────────────────
 END OF FILE — COMMUNICATION–REGISTER–PROTOCOL v1.0
