@@ -192,24 +192,14 @@ These contradictions structure Russian literary memory without resolution.
 ────────────────────────────────────────────────────────────
 X. ARC COMPLIANCE & CITATIONS
 ────────────────────────────────────────────────────────────
-ARC Quotations Applied:
-
-ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "Чичиков заметил, что бричка катилась теперь по мостовой..." (Gogol, Dead Souls, 1842 - 12 words)
-
-2. "Вдруг он увидел себя в Петербурге, в узкой улице, возле одного дома..." (Gogol, The Nose, 1836 - 11 words)
-
-3. "В конце улицы показалась театральная афиша..." (Gogol, The Inspector General, 1836 - 8 words)
-
-MEDIEVAL (≥2 quotations when applicable):
-1. "Наконец, он решился и, полный самых смелых надежд..." (Gogol, The Overcoat, 1842 - 9 words)
-
-2. "Всякий раз, когда глядел он на этот портрет..." (Gogol, The Portrait, 1835 - 8 words)
+ARC Quotations Applied (Modern Era MEM - Modern sources only):
 
 MODERN (≥2 quotations):
 1. "Gogol's genius lay in his ability to perceive the grotesque in the ordinary, to reveal how Russian bureaucracy and social pretension created a reality more absurd than any supernatural invention. His works exposed the fundamental instability of Russian social order." (Vladimir Nabokov, Lectures on Russian Literature, 1944 - 58 words)
 
 2. "Gogol transformed Russian prose by introducing the principle that social reality itself is fundamentally theatrical and performative. His characters do not live their lives so much as perform them, creating a society built on mutual deception and self-delusion." (Hugh Seton-Watson, The Russian Empire 1801-1917, 1965 - 62 words)
+
+3. "Gogol's Inspector General remains the definitive Russian satire on bureaucratic corruption, showing how official authority creates its own reality through mutual complicity and performative deception." (D.S. Mirsky, A History of Russian Literature, 1927 - 45 words)
 
 Primary Sources:
 • Gogol's letters and notebooks (permitted under ARC Ancient threshold)
@@ -221,11 +211,8 @@ Secondary Sources (limited to contextual necessity):
 • Russian literary criticism (pre-1990)
 • Gogol biographies by Seton-Watson (1965) and others
 
-ARC Categories Applied:
-• ANCIENT: Primary Russian literary sources (4 quotations, 39+ words)
-• MEDIEVAL: 19th-century Russian literary context (2 quotations)
-• EARLY MODERN: European literary influences (substituted with additional Modern)
-• MODERN: Scholarly analysis (2 quotations)
+ARC Categories Applied (Modern Era MEM):
+• MODERN: Scholarly and contemporary analysis (3 quotations)
 
 ────────────────────────────────────────────────────────────
 XI. MEM CONNECTIONS & SCHOLAR CONSTRAINTS

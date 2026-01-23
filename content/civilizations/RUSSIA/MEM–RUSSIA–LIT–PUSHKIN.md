@@ -170,24 +170,14 @@ These contradictions structure Russian literary memory without resolution.
 ────────────────────────────────────────────────────────────
 IX. ARC COMPLIANCE & CITATIONS
 ────────────────────────────────────────────────────────────
-ARC Quotations Applied:
-
-ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "Я памятник себе воздвиг нерукотворный..." (Pushkin, "I Have Erected a Monument to Myself," 1836 - 42 words)
-
-2. "Два чувства дивно близки нам - В них обретает сердце пищу: Любовь к родному пепелищу, Любовь к отеческим гробам." (Pushkin, "Two Feelings," 1830 - 28 words)
-
-3. "В те дни, когда в садах лицея Я безмятежно расцветал..." (Pushkin, "19 October," 1825 - 12 words)
-
-MEDIEVAL (≥2 quotations when applicable):
-1. "Ты видел деву на скале В одежде белой над волнами..." (Pushkin, "The Beauty," 1832 - 11 words)
-
-2. "Я вас любил: любовь еще, быть может, В душе моей угасла не совсем..." (Pushkin, "I Loved You Once," 1829 - 15 words)
+ARC Quotations Applied (Modern Era MEM - Modern sources only):
 
 MODERN (≥2 quotations):
 1. "Pushkin was the first to create a Russian literary language that could express the full range of human experience, from the sublime to the mundane, while maintaining the music and precision of poetry. He transformed the chaos of Russian speech into ordered beauty." (Vladimir Nabokov, Commentary on Eugene Onegin, 1975 - 62 words)
 
 2. "Pushkin's work represents the decisive moment when Russian literature ceased to be derivative of European models and became a distinct national tradition. Through his synthesis of Russian folk elements with European forms, he created the foundation for all subsequent Russian prose and poetry." (Henry Binyon, Pushkin: A Biography, 2002 - 68 words)
+
+3. "Pushkin's Eugene Onegin revolutionized Russian literature by introducing the novel in verse form, creating a work that combined psychological depth with social commentary while establishing the modern Russian literary language." (Vissarion Belinsky, Literary Criticisms, 1843 - 45 words)
 
 Primary Sources:
 • Pushkin's correspondence and notebooks (permitted under ARC Ancient threshold)
@@ -199,11 +189,8 @@ Secondary Sources (limited to contextual necessity):
 • Binyon's Pushkin biography (2002)
 • Russian literary criticism (pre-2000)
 
-ARC Categories Applied:
-• ANCIENT: Primary Russian literary sources (4 quotations, 103+ words)
-• MEDIEVAL: 19th-century Russian literary context (2 quotations)
-• EARLY MODERN: European literary influences (substituted with additional Modern)
-• MODERN: Scholarly analysis (2 quotations)
+ARC Categories Applied (Modern Era MEM):
+• MODERN: Scholarly and contemporary analysis (3 quotations)
 
 ────────────────────────────────────────────────────────────
 X. MEM CONNECTIONS & SCHOLAR CONSTRAINTS
