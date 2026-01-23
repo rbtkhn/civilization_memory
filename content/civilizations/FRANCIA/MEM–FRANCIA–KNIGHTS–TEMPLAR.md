@@ -1,0 +1,197 @@
+MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.0
+Civilizational Memory Codex · Memory File
+Repository: https://github.com/rbtkhn/civilization_memory
+
+Status: ACTIVE
+Version: 1.0
+Civilization: FRANCIA
+Subject: Knights Templar (Ordre du Temple)
+Dates: c. 1119–1314 AD
+Class: MEM (Memory)
+Last Update: January 2026
+Word Count: ~2,000
+────────────────────────────────────────────────────────────
+I. MEMORY PURPOSE & SCOPE
+────────────────────────────────────────────────────────────
+This file preserves the Knights Templar as **Francia’s most acute
+sovereignty challenge prior to modern statehood**: a sacral,
+military-financial order that accumulated authority, wealth, and
+transnational reach outside territorial control—and was therefore
+systematically dismantled once the French crown achieved sufficient
+central coherence.
+
+The Templars are remembered not as martyrs, but as **authority without
+territory**, an intolerable configuration for an ascending continental
+state.
+
+Contradictions are preserved without synthesis.
+
+────────────────────────────────────────────────────────────
+II. ORIGINS & FRENCH GRAVITATIONAL CENTER
+────────────────────────────────────────────────────────────
+The Order emerges from the First Crusade milieu.
+
+Foundational conditions:
+• Founded by French knights (c. 1119)
+• French aristocratic recruitment dominance
+• French as primary administrative language
+• Heavy estate concentration within Francia
+• Early royal patronage and proximity
+
+Although formally papal, the Order’s **institutional center of mass**
+rests inside Francia.
+
+Francia supplies:
+• Manpower
+• Land endowments
+• Political visibility
+• Financial exposure
+
+The Templars grow *within* French space, but **outside French law**.
+
+────────────────────────────────────────────────────────────
+III. SACRAL LEGITIMACY VS TERRITORIAL SOVEREIGNTY
+────────────────────────────────────────────────────────────
+The Templars embody a pre-state authority form.
+
+Key attributes:
+• Direct subordination to the Papacy
+• Exemption from secular courts
+• Independent command hierarchy
+• Trans-regional logistical autonomy
+
+Legitimacy flows vertically (God → Pope → Order),
+not horizontally (territory → ruler → law).
+
+This places the Templars beyond all emerging
+territorial sovereignty grammars.
+
+They are neither noble vassals nor royal instruments.
+
+────────────────────────────────────────────────────────────
+IV. FINANCIAL INNOVATION AS STRATEGIC THREAT
+────────────────────────────────────────────────────────────
+The Order pioneers mobile, institutional finance.
+
+Functions:
+• Secure long-distance fund transfer
+• Deposit banking for elites and monarchs
+• Treasury custodianship
+• Credit provision without territorial exposure
+
+Money becomes:
+• Armed
+• Mobile
+• Sacral
+• Legally insulated
+
+For the French crown, this creates a fatal asymmetry:
+→ The king depends on an entity he cannot command.
+
+The Templars prefigure modern finance without modern accountability.
+
+────────────────────────────────────────────────────────────
+V. MILITARY FUNCTION & PURPOSE EROSION
+────────────────────────────────────────────────────────────
+The Order’s legitimacy depends on crusading utility.
+
+Trajectory:
+• Early battlefield centrality
+• Professionalized shock troops
+• Fortress-network defense
+
+Terminal shift:
+• Fall of Acre (1291)
+• Loss of the Holy Land
+• Strategic redundancy
+
+After 1291, the Templars retain:
+• Wealth
+• Immunity
+• Privilege
+
+—but lose mission clarity.
+
+Sacral authority without purpose becomes politically naked.
+
+────────────────────────────────────────────────────────────
+VI. FRENCH STATE CONSOLIDATION PRESSURE
+────────────────────────────────────────────────────────────
+By the early 14th century, Francia has changed.
+
+New conditions:
+• Centralized fiscal extraction
+• Expanding royal legal reach
+• Administrative coherence
+• Sovereignty claims over all authority within territory
+
+The Templars now appear as:
+• Untaxed wealth concentration
+• Legal immunity zone
+• Armed body without loyalty
+• Competing legitimacy node
+
+Their continued existence violates emerging state logic.
+
+────────────────────────────────────────────────────────────
+VII. DESTRUCTION AS SOVEREIGNTY ASSERTION
+────────────────────────────────────────────────────────────
+Philip IV (r. 1285–1314) initiates elimination.
+
+Mechanisms:
+• Coordinated arrests (1307)
+• Heresy charges
+• Confession extraction
+• Papal pressure and capitulation
+• Asset seizure and redistribution
+
+The trial is not theological.
+It is **jurisdictional**.
+
+The issue is not belief.
+It is **who commands authority inside Francia**.
+
+────────────────────────────────────────────────────────────
+VIII. PAPAL SUBORDINATION & UNIVERSALISM COLLAPSE
+────────────────────────────────────────────────────────────
+The Papacy capitulates under French pressure.
+
+Implications:
+• Sacral authority yields to territorial power
+• Universalist institutions lose autonomy
+• Papal supremacy is revealed as conditional
+
+This marks a civilizational inflection:
+→ Universalism must now submit to sovereignty.
+
+Richelieu will later formalize this logic.
+Philip IV enforces it by force.
+
+────────────────────────────────────────────────────────────
+IX. LONG-TERM CIVILIZATIONAL CONSEQUENCES
+────────────────────────────────────────────────────────────
+Enduring effects:
+• Transnational sacral orders delegitimized
+• Finance re-territorialized
+• Military authority nationalized
+• Papal power bounded
+
+The Templars’ destruction becomes precedent:
+No authority may exist inside Francia
+without subordination to the state.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Authority without territory is unstable.
+• Sacral legitimacy collapses under fiscal sovereignty.
+• Finance accelerates state confrontation.
+• Universalism cannot survive territorial consolidation.
+• Francia destroys the Templars to prove sovereignty.
+• The Templars die so the modern state can live.
+
+Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.0
+────────────────────────────────────────────────────────────

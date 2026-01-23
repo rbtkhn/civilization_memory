@@ -1,0 +1,406 @@
+CIV–MEM–TEMPLATE — v2.5
+Civilizational Memory Codex · Memory File Enforcement Template
+20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
+
+Status: ACTIVE · CANONICAL · LOCKED
+Supersedes: CIV–MEM–TEMPLATE v2.3
+Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
+Class: CIV–MEM–TEMPLATE (Authoring Law)
+Compatibility: CIV–MEM–CORE v2.0+
+Last Update: January 2026
+Word Count: ~4,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD
+────────────────────────────────────────────────────────────
+This version implements mandatory 20% verbatim quote minimum with comprehensive safeguards:
+
+MANDATORY 20% QUOTE STANDARD:
+• All MEM files MUST contain ≥20% verbatim quotes by word count
+• Forces deeper scholarly engagement and evidentiary grounding
+• Automatic validation in canonical advancement process
+
+ANALYTICAL PROTECTION SAFEGUARDS:
+• 70% minimum analytical content floor prevents starvation
+• Balances evidentiary rigor with intellectual depth
+• Ensures MEMs remain analytical intelligence objects
+
+QUALITY SAFEGUARDS:
+• EQS compliance requirements prevent quote stuffing
+• Relevance thresholds ensure meaningful scholarly contribution
+• Scholarly diversity requirements prevent single-perspective dominance
+
+ENHANCED ADAPTIVE MATRIX:
+• Updated subject-type requirements to achieve 20% minimum
+• Modern subjects: Expanded secondary sources for volume
+• Sparse subjects: Optimized requirements for feasibility
+
+BREAKING CHANGE: Requires 20% compliance for canonical advancement
+MIGRATION: 6-month transition period for existing MEMs
+
+────────────────────────────────────────────────────────────
+I. PURPOSE & AUTHORITY
+────────────────────────────────────────────────────────────
+This file defines the mandatory structure, evidentiary standards,
+scholarly constraints, behavioral rules, and ingest behavior for all
+MEM (Civilizational Memory) files.
+
+Core principle:
+A MEM file must function as a self-contained historical intelligence
+object capable of activating structured inquiry even when ingested
+alone into a new conversation.
+
+Authority Flow (NON-REVERSIBLE):
+CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
+
+No MEM file is valid unless compliant with this template AND the
+applicable ARC–[CIV] canon at the time of locking.
+
+────────────────────────────────────────────────────────────
+II. FILE IDENTITY & METADATA (MANDATORY)
+────────────────────────────────────────────────────────────
+Every MEM file MUST begin with the following metadata block,
+in this exact order:
+
+• Filename (canonical)
+• Repository reference
+• Status (ACTIVE / LOCKED / DRAFT)
+• Version (semantic)
+• Supersedes (if applicable)
+• Upgrade Type (if applicable)
+• Civilization
+• Regime / Mode (if applicable)
+• Subject
+• Dates (BC / AD only)
+• Class: MEM (Memory)
+• Last Update
+• Wordcount (verified)
+
+Omission or mis-ordering INVALIDATES the MEM.
+
+────────────────────────────────────────────────────────────
+III. MEMORY PURPOSE & SCOPE (REQUIRED)
+────────────────────────────────────────────────────────────
+Each MEM file MUST explicitly state:
+
+• What is being preserved
+• Why it matters civilizationally
+• What function it serves in memory
+• What it explicitly does NOT resolve
+
+MANDATORY CLAUSE (verbatim):
+
+“Contradictions are preserved without synthesis.”
+
+────────────────────────────────────────────────────────────
+IV. STRUCTURAL CONTENT RULES (HARD)
+────────────────────────────────────────────────────────────
+• Minimum 8 numbered analytical sections
+• Analytical, not narrative
+• No teleology
+• No retrospective inevitability
+• No moral adjudication
+
+Permitted:
+• Structural tension
+• Ambiguity
+• Constraint recognition
+
+────────────────────────────────────────────────────────────
+V. ARC SOURCE CATEGORIES (EVIDENCE-BASED)
+────────────────────────────────────────────────────────────
+All quotations MUST derive from ARC evidence-based categories:
+
+A) PRIMARY — Direct evidence from the subject period
+B) CONTEXTUAL — Contemporary or near-contemporary analysis
+C) SECONDARY — Scholarly analysis and synthesis
+D) CRITICAL — Modern historiographical evaluation
+
+Category definitions are governed by evidentiary purpose, not temporal origin.
+
+────────────────────────────────────────────────────────────
+VI. EVIDENCE QUALITY STANDARDS (EQS)
+────────────────────────────────────────────────────────────
+EQS defines objective quality requirements for all quotations.
+
+This standard governs admissibility through demonstrable criteria.
+
+────────────────────────────────────────────────────────────
+VI.A PASS CRITERIA (Must Meet ≥2)
+────────────────────────────────────────────────────────────
+A quotation PASSES EQS if it demonstrates:
+
+• AUTHORITY: Source credibility clearly established
+• RELEVANCE: Direct connection to MEM claims shown
+• CONTEXT: Historical/cultural context provided
+• LIMITATION: Source constraints or biases acknowledged
+
+────────────────────────────────────────────────────────────
+VI.B FAIL CRITERIA
+────────────────────────────────────────────────────────────
+A quotation FAILS EQS if it exhibits:
+
+• No analytical engagement with source content
+• Pure description without interpretive value
+• Misrepresentation of source intent
+• Failure to acknowledge evidentiary limitations
+
+EQS failure blocks canonical advancement.
+
+────────────────────────────────────────────────────────────
+VI.C GOVERNANCE CONSEQUENCES
+────────────────────────────────────────────────────────────
+• QTT–ARC failure MAY NOT be silently bypassed
+• Failure MUST be declared explicitly
+• Failure blocks CANONICAL lock
+• Failure does NOT invalidate ingestibility
+
+────────────────────────────────────────────────────────────
+VII. EARLY MODERN SUBSTITUTION PROTOCOL
+────────────────────────────────────────────────────────────
+If Category C (Early Modern) sources are REQUIRED but FAIL QTT–ARC:
+
+• The system MUST first attempt approved ARC–[CIV] authors
+• If quality threshold is not met after reasonable search,
+  substitution MAY occur
+
+SUBSTITUTION RULE:
+• Category C quotations MAY be replaced by ADDITIONAL Category D quotations
+• Category D quotations MUST meet HIGH analytical threshold
+• Substitution MUST be explicitly declared
+
+MANDATORY DECLARATION (verbatim):
+
+“EARLY MODERN SUBSTITUTION DECLARATION:
+Required Early Modern historiographic sources were sought but failed to
+meet the ARC Quality Threshold Test. In accordance with CIV–MEM–TEMPLATE
+v2.3, Category C quotations are replaced by additional Category D sources.
+This substitution is explicit and disclosed.”
+
+Silent substitution is PROHIBITED.
+
+────────────────────────────────────────────────────────────
+VIII. MANDATORY 20% VERBATIM QUOTE STANDARD
+────────────────────────────────────────────────────────────
+All MEM files MUST contain at least 20% verbatim quotes by word count.
+
+PURPOSE: Force deeper scholarly engagement and stronger evidentiary grounding.
+
+CALCULATION: Quote words ÷ Total MEM words × 100 ≥ 20
+
+ENFORCEMENT: Automatic validation in canonical advancement process.
+
+────────────────────────────────────────────────────────────
+VIII.A ADAPTIVE QUOTATION REQUIREMENTS
+────────────────────────────────────────────────────────────
+Requirements scale based on subject complexity and source availability:
+
+PRIMARY CATEGORY (Direct Evidence):
+• ≥2 quotations, ≥50 words total (minimum)
+• ≥3 quotations for well-documented subjects
+• N/A for modern subjects with no primary sources
+
+CONTEXTUAL CATEGORY (Contemporary Analysis):
+• ≥1 quotation, ≥25 words (minimum)
+• ≥2 quotations for subjects with rich contemporary sources
+• ≥1 quotation for interpretive or modern subjects
+
+SECONDARY CATEGORY (Scholarly Analysis):
+• ≥2 distinct scholars, ≥1 quotation each (minimum)
+• ≥3 scholars for complex or contested subjects
+• ≥4 scholars for interpretive or theoretical topics
+
+CRITICAL CATEGORY (Historiographical Evaluation):
+• ≥1 quotation addressing methodology or limitations
+• ≥2 quotations for subjects requiring meta-analysis
+• Optional for straightforward factual subjects
+
+────────────────────────────────────────────────────────────
+VIII.F 20% COMPLIANCE MATRIX
+────────────────────────────────────────────────────────────
+For MEMs voluntarily adopting 20% quote enhancement:
+
+WELL-DOCUMENTED EVENT (Target: 20-25% quotes):
+• PRIMARY: ≥4 quotations (rich source base)
+• CONTEXTUAL: ≥3 quotations (multiple contemporary perspectives)
+• SECONDARY: ≥4 scholars (analytical depth needed)
+• CRITICAL: ≥2 quotations (methodological awareness)
+
+SPARSE SOURCES SUBJECT (Target: 18-22% quotes):
+• PRIMARY: ≥3 quotations (limited availability)
+• CONTEXTUAL: ≥2 quotations (when available)
+• SECONDARY: ≥3 scholars (compensate for source limitations)
+• CRITICAL: ≥1 quotation (scholarly context essential)
+
+MODERN SUBJECT (19th-20th century) (Target: 18-22% quotes):
+• PRIMARY: N/A (no primary sources exist)
+• CONTEXTUAL: ≥2 quotations (contemporary accounts)
+• SECONDARY: ≥5 scholars (primary analytical burden - expanded for volume)
+• CRITICAL: ≥3 quotations (modern historiography essential)
+
+INTERPRETIVE/THEORETICAL SUBJECT (Target: 20-25% quotes):
+• PRIMARY: ≥2 quotations (establish factual foundation)
+• CONTEXTUAL: ≥2 quotations (period context)
+• SECONDARY: ≥5 scholars (multiple perspectives needed)
+• CRITICAL: ≥3 quotations (theoretical evaluation required)
+
+────────────────────────────────────────────────────────────
+VIII.C REQUIREMENT DECLARATION
+────────────────────────────────────────────────────────────
+MEM files MUST declare their subject type and applied requirements:
+
+SUBJECT TYPE DECLARATION:
+"This MEM addresses a [WELL-DOCUMENTED/SPARSE SOURCES/MODERN/INTERPRETIVE] subject.
+Applied requirements: PRIMARY ≥X, CONTEXTUAL ≥Y, SECONDARY ≥Z, CRITICAL ≥W"
+
+This declaration enables governance validation and ensures appropriate evidentiary standards.
+
+────────────────────────────────────────────────────────────
+VIII.D ANALYTICAL PROTECTION SAFEGUARDS
+────────────────────────────────────────────────────────────
+To prevent analytical starvation while enforcing 20% quote minimum:
+
+ANALYTICAL CONTENT FLOOR:
+• Minimum 70% of MEM content MUST be original analytical synthesis
+• Quote integration sections count as analytical content
+• Pure quote blocks do not count toward analytical floor
+
+CALCULATION: Analytical words ÷ Total MEM words × 100 ≥ 70
+
+ENFORCEMENT: Automatic validation requires both 20% quotes AND 70% analysis.
+
+────────────────────────────────────────────────────────────
+VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
+────────────────────────────────────────────────────────────
+To ensure quote quality over quantity:
+
+EQS COMPLIANCE REQUIREMENT:
+• All quotes must meet Evidence Quality Standards (≥2 criteria)
+• Additional quotes beyond minimum must meet ≥3 EQS criteria
+• Marginal quotes automatically rejected in canonical review
+
+RELEVANCE THRESHOLD:
+• Each quote must materially advance MEM analysis
+• Decorative or volume-padding quotes prohibited
+• Quote selection must demonstrate scholarly judgment
+
+SCHOLARLY DIVERSITY REQUIREMENT:
+• Quotes must represent multiple scholarly perspectives
+• Single-author dominance prohibited
+• Must include both supportive and challenging viewpoints
+IX. SECONDARY SOURCE ENTANGLEMENT
+────────────────────────────────────────────────────────────
+Secondary quotations MUST be analytically integrated.
+Citation without analytical engagement is INVALID.
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTION REQUIREMENTS (BINARY · HARD)
+────────────────────────────────────────────────────────────
+Every MEM file MUST include a dedicated MEM CONNECTIONS section.
+
+Connection requirements:
+
+• ≥10 same-civilization MEM connections
+• ≥2 GEO MEM files required
+• Each listed connection MUST be structurally necessary
+
+────────────────────────────────────────────────────────────
+X.A BINARY CONNECTION RULE
+────────────────────────────────────────────────────────────
+MEM Connections are binary.
+
+A connection is either:
+• Structurally required → INCLUDED
+• Not structurally required → EXCLUDED
+
+Weak, contextual, illustrative, or optional connections
+MUST NOT be listed.
+
+Strength ratings, scoring, weighting, or gradation
+are explicitly PROHIBITED.
+
+Inclusion in the MEM Connections list itself constitutes
+affirmation of structural necessity.
+
+────────────────────────────────────────────────────────────
+X.B CONNECTION JUSTIFICATION (REQUIRED)
+────────────────────────────────────────────────────────────
+Each MEM Connection MUST include a concise justification explaining:
+
+• What dependency exists
+• Why the connected MEM is necessary for intelligibility
+• What breaks if the connection is removed
+
+Justification is explanatory, not evaluative.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Bullet points only
+• No synthesis
+• No verdicts
+
+────────────────────────────────────────────────────────────
+XII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+MEMs must support curiosity-driven exploration.
+No assessment, scoring, or closure.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP
+────────────────────────────────────────────────────────────
+When ingested without CORE, the system MUST:
+• Confirm ingest
+• Declare MEM active
+• Present exactly EIGHT exploration options
+
+────────────────────────────────────────────────────────────
+XIV. ARC VERSION PINNING
+────────────────────────────────────────────────────────────
+Each MEM MUST declare ARC–[CIV] version used.
+Mismatch blocks canonical lock.
+
+────────────────────────────────────────────────────────────
+XV. COMPLIANCE TIERS
+────────────────────────────────────────────────────────────
+DRAFT → PARTIAL → COMPLIANT → CANONICAL
+
+CANONICAL: Requires ≥20% quotes with 70% analytical content and EQS compliance
+
+Skipping tiers is forbidden.
+
+────────────────────────────────────────────────────────────
+XVI. FAILURE MODE ENFORCEMENT
+────────────────────────────────────────────────────────────
+Silent failure is prohibited.
+All failures must be declared with reason.
+
+────────────────────────────────────────────────────────────
+XVII. LANGUAGE CONSTRAINTS
+────────────────────────────────────────────────────────────
+Forbidden:
+• inevitable
+• destined
+• obvious
+• had to
+
+────────────────────────────────────────────────────────────
+XVIII. STORAGE & MIRRORING RULE
+────────────────────────────────────────────────────────────
+This file MUST be mirrored verbatim into:
+– CIV–CORE–[CIV] (all civilizations)
+– CIV–SCHOLAR–[CIV] (all civilizations)
+– CIV–INDEX–[CIV] (when applicable)
+
+Any divergence invalidates MEM compliance for that civilization.
+
+────────────────────────────────────────────────────────────
+XIX. VERSIONING & LOCK
+────────────────────────────────────────────────────────────
+• Additive upgrades only
+• Deletions forbidden
+• Canonical lock absolute
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–MEM–TEMPLATE v2.5
+────────────────────────────────────────────────────────────
