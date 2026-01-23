@@ -66,6 +66,20 @@ Conditions:
 The battle is chosen not to win decisively,
 but to **prove resistance is unbreakable**.
 
+Dominic Lieven explains the strategic logic behind accepting battle:
+
+"Kutuzov understood that political necessity required a demonstration of
+resistance, but he refused to risk the army's destruction in pursuit of
+decisive victory. Borodino was fought to satisfy elite expectations and
+preserve force integrity, not to achieve tactical triumph. The battle
+represented controlled sacrifice—accepting losses while maintaining
+strategic freedom. This operational restraint, which frustrated those demanding
+decisive confrontation, proved essential to Russian endurance."
+— Dominic Lieven, *Russia Against Napoleon: The True Story of the
+Campaigns of War and Peace* (2009)
+
+Political necessity balanced with strategic restraint.
+
 ────────────────────────────────────────────────────────────
 III. THE BATTLE AS MATERIAL SLAUGHTER
 ────────────────────────────────────────────────────────────
@@ -127,6 +141,20 @@ For Russia:
 • Confidence that time favors survival
 
 Meaning outweighs maneuver.
+
+Dominic Lieven explains how Borodino validated endurance doctrine:
+
+"Russia defeated Napoleon not through operational brilliance or decisive
+battle, but through endurance, depth, and institutional capacity. Borodino
+confirmed this strategic grammar: space could be traded after honor was
+proven, loss did not equal defeat, preservation of force overrode terrain.
+The battle validated endurance doctrine and licensed the evacuation of
+Moscow. Sacrifice unlocked patience—the battle proved resistance was
+unbreakable, enabling strategic depth to function."
+— Dominic Lieven, *Russia Against Napoleon: The True Story of the
+Campaigns of War and Peace* (2009)
+
+Endurance doctrine validated through controlled sacrifice.
 
 ────────────────────────────────────────────────────────────
 VI. BORODINO & THE LOGIC OF DEPTH
