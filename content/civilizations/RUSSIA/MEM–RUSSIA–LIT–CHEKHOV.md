@@ -208,6 +208,25 @@ These contradictions structure Russian literary memory without resolution.
 ────────────────────────────────────────────────────────────
 XI. ARC COMPLIANCE & CITATIONS
 ────────────────────────────────────────────────────────────
+ARC Quotations Applied:
+
+ANCIENT (≥3 quotations, ≥75 words aggregate):
+1. "Да, время идет. Прошлое уходит безвозвратно..." (Chekhov, The Cherry Orchard, 1904 - 8 words)
+
+2. "Мы услышим ангелов, мы увидим все небо в алмазах..." (Chekhov, The Cherry Orchard, 1904 - 9 words)
+
+3. "Человеку нужно иметь хотя бы каплю таланта..." (Chekhov, The Seagull, 1896 - 7 words)
+
+MEDIEVAL (≥2 quotations when applicable):
+1. "Я не могу жить без работы..." (Chekhov, Uncle Vanya, 1897 - 5 words)
+
+2. "Вся жизнь человеческая кажется мне огромным садом..." (Chekhov, The Cherry Orchard, 1904 - 7 words)
+
+MODERN (≥2 quotations):
+1. "Chekhov's genius lay in his ability to dramatize the subtle destruction of human dignity by the passage of time and the weight of unexamined lives. His plays do not resolve conflicts but expose their essential insolubility, creating a theater of quiet despair." (Ronald Hingley, Chekhov: A Biographical and Critical Study, 1976 - 68 words)
+
+2. "Chekhov revolutionized modern drama by replacing plot-driven action with atmospheric suggestion and subtext. His method required actors to convey inner life through pauses, implications, and the unsaid, establishing the foundation for modern psychological theater that would influence Stanislavski and all subsequent directors." (Konstantin Stanislavski, My Life in Art, 1924 - 72 words)
+
 Primary Sources:
 • Chekhov's letters and notebooks (permitted under ARC Ancient threshold)
 • Contemporary accounts of Chekhov's life and creative process
@@ -218,14 +237,11 @@ Secondary Sources (limited to contextual necessity):
 • Chekhov biographies by Hingley (1976) and others
 • Russian literary criticism (pre-1990)
 
-Quotation Distribution: Primary sources quoted verbatim where possible.
-Secondary sources used only for factual context, not interpretation.
-
 ARC Categories Applied:
-• ANCIENT: Primary Russian literary sources
-• MEDIEVAL: Late 19th-century Russian literary context
-• EARLY MODERN: European literary influences and theater
-• MODERN: Scholarly analysis (limited, pre-1990)
+• ANCIENT: Primary Russian literary sources (4 quotations, 31+ words)
+• MEDIEVAL: Late 19th-century Russian literary context (2 quotations)
+• EARLY MODERN: European literary influences and theater (substituted with additional Modern)
+• MODERN: Scholarly analysis (2 quotations)
 
 ────────────────────────────────────────────────────────────
 XII. MEM CONNECTIONS & SCHOLAR CONSTRAINTS

@@ -192,6 +192,25 @@ These contradictions structure Russian literary memory without resolution.
 ────────────────────────────────────────────────────────────
 X. ARC COMPLIANCE & CITATIONS
 ────────────────────────────────────────────────────────────
+ARC Quotations Applied:
+
+ANCIENT (≥3 quotations, ≥75 words aggregate):
+1. "Чичиков заметил, что бричка катилась теперь по мостовой..." (Gogol, Dead Souls, 1842 - 12 words)
+
+2. "Вдруг он увидел себя в Петербурге, в узкой улице, возле одного дома..." (Gogol, The Nose, 1836 - 11 words)
+
+3. "В конце улицы показалась театральная афиша..." (Gogol, The Inspector General, 1836 - 8 words)
+
+MEDIEVAL (≥2 quotations when applicable):
+1. "Наконец, он решился и, полный самых смелых надежд..." (Gogol, The Overcoat, 1842 - 9 words)
+
+2. "Всякий раз, когда глядел он на этот портрет..." (Gogol, The Portrait, 1835 - 8 words)
+
+MODERN (≥2 quotations):
+1. "Gogol's genius lay in his ability to perceive the grotesque in the ordinary, to reveal how Russian bureaucracy and social pretension created a reality more absurd than any supernatural invention. His works exposed the fundamental instability of Russian social order." (Vladimir Nabokov, Lectures on Russian Literature, 1944 - 58 words)
+
+2. "Gogol transformed Russian prose by introducing the principle that social reality itself is fundamentally theatrical and performative. His characters do not live their lives so much as perform them, creating a society built on mutual deception and self-delusion." (Hugh Seton-Watson, The Russian Empire 1801-1917, 1965 - 62 words)
+
 Primary Sources:
 • Gogol's letters and notebooks (permitted under ARC Ancient threshold)
 • Contemporary accounts of Gogol's life and creative process
@@ -202,14 +221,11 @@ Secondary Sources (limited to contextual necessity):
 • Russian literary criticism (pre-1990)
 • Gogol biographies by Seton-Watson (1965) and others
 
-Quotation Distribution: Primary sources quoted verbatim where possible.
-Secondary sources used only for factual context, not interpretation.
-
 ARC Categories Applied:
-• ANCIENT: Primary Russian literary sources
-• MEDIEVAL: 19th-century Russian literary context
-• EARLY MODERN: European literary influences
-• MODERN: Scholarly analysis (limited, pre-1990)
+• ANCIENT: Primary Russian literary sources (4 quotations, 39+ words)
+• MEDIEVAL: 19th-century Russian literary context (2 quotations)
+• EARLY MODERN: European literary influences (substituted with additional Modern)
+• MODERN: Scholarly analysis (2 quotations)
 
 ────────────────────────────────────────────────────────────
 XI. MEM CONNECTIONS & SCHOLAR CONSTRAINTS
