@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: CANONICAL · LOCKED · FINAL
-Version: 1.3.1
-Upgrade Type: ADDITIVE ONLY · ARC–ROME SOURCE EXTENSION (NO STRUCTURAL MODIFICATION)
+Version: 1.3.2
+Upgrade Type: ADDITIVE · DUANE ROLLER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: The Black Sea (Pontus Euxinus)
@@ -73,6 +73,13 @@ Appian captures Rome’s restraint following the Mithridatic Wars:
 > — Appian, *Mithridatic Wars*
 
 Rome manages risk here; it does not seek intimacy.
+
+Duane Roller explains Rome's strategic calculus in the Black Sea region following the Mithridatic Wars:
+
+> "The Romans approached the Black Sea not as a territory to be fully incorporated into their empire, but as a strategic frontier to be contained and monitored. They established client states along the coasts, dismantled the Pontic kingdom that had threatened their eastern provinces, and created a network of alliances that prevented any single power from dominating the entire basin while maintaining Roman naval supremacy."
+> — Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World*
+
+The Black Sea became Rome's watchful perimeter, not its welcoming harbor.
 
 ────────────────────────────────────────────────────────────
 IV. ECONOMIC UTILITY WITHOUT DEPENDENAD
@@ -176,5 +183,14 @@ Roller clarifies why Roman strategy emphasized **containment and
 fragmentation** rather than interiorization.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–BLACK–SEA — v1.3.1
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Strabo, *Geographica* - Ancient geographical description of the Black Sea region and Pontus
+• Appian, *Mithridatic Wars* - Contemporary account of Rome's conflicts with Pontus
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Roman provincial administration
+• Peter Heather, *The Fall of the Roman Empire* - Modern analysis of Roman frontier management
+• Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World* - Comprehensive modern study of the Black Sea region, Mithridates VI, and Roman-Pontic relations
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–GEO–BLACK–SEA — v1.3.2
 ────────────────────────────────────────────────────────────

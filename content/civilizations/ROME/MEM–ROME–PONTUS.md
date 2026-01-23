@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · DUANE ROLLER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: REPUBLICAN CONQUEST → IMPERIAL FRONTIER MANAGEMENT
 Subject: Pontus as Maritime–Frontier Hybrid and Persistent Strategic Irritant
@@ -101,6 +101,13 @@ Plutarch emphasizes the psychological and political toll:
 
 Pontus reveals that conquest without administrative depth produces
 recurrence, not resolution.
+
+Duane Roller provides comprehensive analysis of the Mithridatic Wars and their significance:
+
+> "The conflicts between Rome and Pontus were not merely territorial disputes but fundamental clashes between two imperial systems—the expansive, incorporative Roman Republic and the defensive, culturally hybrid Pontic kingdom. Mithridates VI understood that Rome's strength lay in its institutions, not just its armies, and waged a war that exploited Roman political divisions while mobilizing the diverse populations of the Black Sea region against Roman hegemony."
+> — Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World*
+
+The Mithridatic Wars exposed Rome's institutional vulnerabilities even as they demonstrated its ultimate resilience.
 
 ────────────────────────────────────────────────────────────
 V. TRANSITION TO IMPERIAL MANAGEMENT
@@ -273,5 +280,15 @@ Pontus remains a case of **managed non-integration**, now reinforced by
 specialist dynastic scholarship.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–PONTUS — v1.0
+XIV. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Strabo, *Geographica* (Book XII) - Ancient geographical description of Pontus and its strategic features
+• Plutarch, *Life of Lucullus* - Contemporary account of the Mithridatic Wars
+• Appian, *Mithridatic Wars* - Detailed narrative of Rome's conflicts with Pontus
+• Theodor Mommsen, *The History of Rome* - Analysis of Roman provincial administration
+• Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World* - Comprehensive modern study of Pontus and the Mithridatic Wars
+• Duane W. Roller, *The World of Juba II and Kleopatra Selene* - Analysis of Hellenistic dynasties and Roman client relationships
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–PONTUS — v1.1
 ────────────────────────────────────────────────────────────

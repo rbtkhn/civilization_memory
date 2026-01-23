@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · DUANE ROLLER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: LATE REPUBLIC → IMPERIAL TRANSITION (CRISIS WAR)
 Subject: The Wars of Mithridates VI Eupator
@@ -74,6 +74,13 @@ Strabo identifies the core structural problem:
 
 Roman legions excel on plains and roads.
 Pontus denies both.
+
+Duane Roller analyzes how the Black Sea region's geography fundamentally shaped the Mithridatic Wars:
+
+> "The rugged terrain of Pontus and the surrounding Black Sea region was not merely a defensive advantage for Mithridates VI—it was the strategic foundation of his entire approach to warfare. The mountainous interior provided secure refuges, the dispersed coastal cities offered multiple bases for naval operations, and the complex network of rivers and passes allowed for rapid movement while frustrating Roman attempts at encirclement and decisive battle."
+> — Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World*
+
+Geography transformed Mithridates from a regional king into Rome's most elusive adversary.
 
 ────────────────────────────────────────────────────────────
 IV. THE ASIATIC VESPERS — PSYCHOLOGICAL WAR
@@ -230,5 +237,14 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–MITHRIDATES–VI — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Appian, *Mithridatic Wars* - Contemporary detailed account of the conflicts
+• Plutarch, *Life of Lucullus* and *Life of Pompey* - Biographies of Roman commanders in the Mithridatic Wars
+• Cassius Dio, *Roman History* (Books 35-38) - Later historical account of the wars
+• Theodor Mommsen, *The History of Rome* - Analysis of Roman imperial expansion and the Mithridatic conflicts
+• Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World* - Definitive modern study of Mithridates VI and the Black Sea region
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–MITHRIDATES–VI — v1.1
 ────────────────────────────────────────────────────────────
