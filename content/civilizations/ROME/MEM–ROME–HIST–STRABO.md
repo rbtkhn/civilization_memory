@@ -8,7 +8,7 @@ Civilization: ROME (GREEK INTELLECTUAL MEDIATION)
 Regime: LATE REPUBLIC → EARLY EMPIRE
 Subject: Strabo (Geography as Imperial Intelligence)
 Dates: c. 64 BC–c. 24 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

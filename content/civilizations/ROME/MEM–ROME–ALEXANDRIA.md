@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / INTELLECTUAL METROPOLIS
 Subject: Alexandria (Egypt)
 Dates: 331 BC–AD 641
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Great Lakes System (Inland Seas, Industrial Engine, and Strategic Buffer)
 Dates: 18th century–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

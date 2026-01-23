@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Mexican–American War (Procedural Republic Turns Expansionist)
 Dates: 1846–1848 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

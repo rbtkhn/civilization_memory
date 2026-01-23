@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Novgorod the Great (Новгород Великий)
 Dates: c. 860–1478 AD (pre-1400 focus)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

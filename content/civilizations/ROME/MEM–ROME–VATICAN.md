@@ -8,7 +8,7 @@ Civilization: ROME (CHRISTIAN–PAPAL CONTINUITY)
 Regime: IMPERIAL MEMORY → ECCLESIASTICAL SOVEREIGNTY
 Subject: The Vatican (Papal Rome as Post-Imperial Authority Core)
 Dates: 1st century AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,600
 

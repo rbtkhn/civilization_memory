@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN EXPANSION → IMPERIAL CORE → LATE IMPERIAL FAILURE ZONE
 Subject: Balkan Peninsula (Exposure Core, Shock Corridor, and Imperial Stress Field)
 Dates: 2nd century BCAD–5th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

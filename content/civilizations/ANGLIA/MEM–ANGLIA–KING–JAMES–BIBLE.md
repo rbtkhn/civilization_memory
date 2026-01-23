@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: King James Bible (Authorized Version)
 Dates: 1611 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

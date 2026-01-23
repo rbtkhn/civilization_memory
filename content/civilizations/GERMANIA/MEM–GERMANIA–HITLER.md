@@ -5,7 +5,7 @@ Civilization: GERMANIA
 Regime: TOTALITARIAN / REVOLUTIONARY–IMPERIAL (1933–1945)
 Subject: Adolf Hitler
 Dates: 1889–1945 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

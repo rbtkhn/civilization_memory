@@ -7,7 +7,7 @@ Upgrade Type: INITIAL v2.0 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Narva
 Dates: 1700 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

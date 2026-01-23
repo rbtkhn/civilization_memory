@@ -5,7 +5,7 @@ Status: ACTIVE
 Civilization: PERSIA
 Subject: Caspian Sea System
 Dates: Ancient era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

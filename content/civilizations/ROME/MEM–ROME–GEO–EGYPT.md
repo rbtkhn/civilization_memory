@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL (PROVINCIAL CORE DEPENDENCY)
 Subject: Egypt (Grain Engine, Legitimacy Lever, Strategic Keystone)
 Dates: 30 BC–7th century AD (with afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

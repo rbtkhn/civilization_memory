@@ -5,7 +5,7 @@ Civilization: GERMANIA
 Regime: HABSBURG / RESTORATION-IMPERIAL (1809–1848)
 Subject: Klemens von Metternich
 Dates: 1773–1819–1848 (effective power period)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

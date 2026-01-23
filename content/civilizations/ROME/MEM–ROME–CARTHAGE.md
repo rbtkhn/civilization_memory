@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–CARTHAGE — v1.0
 Civilization: CARTHAGE (ROMAN ADVERSARIAL MIRROR)
 Subject: Carthaginian Civilization
 Dates: c. 814–146 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,950
 ────────────────────────────────────────────────────────────

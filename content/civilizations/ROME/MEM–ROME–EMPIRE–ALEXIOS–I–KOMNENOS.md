@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / KOMNENIAN RESTORATION)
 Subject: Alexios I Komnenos as Architect of Managed Recovery and Imperial Reconstitution
 Dates: AD 1081–1118
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,550
 

@@ -9,7 +9,7 @@ Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (PRACTICAL ABSORPTION)
 Subject: Aristotle (Empirical Order, Mixed Regimes, and Practical Reason)
 Dates: 384–322 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

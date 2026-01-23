@@ -6,7 +6,7 @@ Version: 1.1
 Civilization: FRANCIA  
 Subject: Ottoman–Safavid Wars (Intra-Imperial Fracture and Indirect Containment)  
 Dates: c. 1501–1736 AD  
-Class: MEM (Memory)  
+Class: MEM (Civilizational Memory)  
 Last Update: February 2026  
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

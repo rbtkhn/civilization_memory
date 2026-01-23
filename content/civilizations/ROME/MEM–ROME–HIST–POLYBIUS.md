@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: MID–REPUBLIC (c. 200–118 BC)
 Subject: Polybius of Megalopolis
 Dates: c. 200–118 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 

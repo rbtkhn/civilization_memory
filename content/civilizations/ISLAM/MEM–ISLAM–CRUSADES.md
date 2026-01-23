@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: CIVILIZATIONAL DEFENSE / LEGITIMACY RECOVERY (1095–1291 AD)
 Subject: The Crusades (Islamic Perspective)
 Dates: 11th–13th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

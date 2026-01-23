@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Rhône River System (Imperial Corridor, Mediterranean Gate, and Exposure Axis)
 Dates: Roman era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,350
 

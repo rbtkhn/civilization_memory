@@ -9,7 +9,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Elizabeth Petrovna (Елизавета Петровна)
 Dates: 1709–1762 AD (rule: 1741–1762)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,000
 

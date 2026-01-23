@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime / Mode: Elizabethan Settlement
 Subject: Elizabeth I
 Dates: 1533–1603 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,100
 

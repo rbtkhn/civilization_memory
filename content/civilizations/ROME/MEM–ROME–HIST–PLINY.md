@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: EARLY EMPIRE (FLAVIAN CONTEXT)
 Subject: Pliny the Elder (Knowledge as Imperial Inventory)
 Dates: c. AD 23–79
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

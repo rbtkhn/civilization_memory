@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Norway (Peripheral Partner, Maritime Observation Zone, and Strategic Non-Theater)
 Dates: Early modern era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,500
 

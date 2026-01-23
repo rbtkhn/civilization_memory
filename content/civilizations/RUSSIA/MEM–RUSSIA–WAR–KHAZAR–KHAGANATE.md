@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Khazar Khaganate Wars (Хазарские войны) — Trade Empire Confrontation
 Dates: 830s–965 AD (major conflicts: 880s–965)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

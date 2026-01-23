@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–WAR–PUNIC — v1.0
 Civilization: ROME
 Subject: The Punic Wars
 Dates: 264–146 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 ────────────────────────────────────────────────────────────

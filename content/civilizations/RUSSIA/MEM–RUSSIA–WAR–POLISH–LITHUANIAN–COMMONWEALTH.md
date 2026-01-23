@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars with the Polish–Lithuanian Commonwealth
 Dates: c. 1492–1795 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

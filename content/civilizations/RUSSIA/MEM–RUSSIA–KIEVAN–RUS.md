@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Early Rus’ · Trade-Networked Plural Civilization
 Subject: Kievan Rus’ (Киевская Русь)
 Dates: 882–1240 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,900
 

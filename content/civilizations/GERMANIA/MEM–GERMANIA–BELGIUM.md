@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Belgium (Administrative Frontier, Industrial Prize, and Strategic Trap)
 Dates: Medieval era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

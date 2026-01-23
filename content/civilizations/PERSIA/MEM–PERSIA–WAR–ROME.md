@@ -5,7 +5,7 @@ Status: ACTIVE
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
 Dates: c. 53 BCAD–628 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

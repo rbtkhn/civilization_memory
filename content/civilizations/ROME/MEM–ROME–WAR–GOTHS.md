@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL FRONTIER WARFARE → INTERNAL SECURITY CRISIS
 Subject: The Gothic Wars as Structural Stress-Test of Roman Military–Administrative Capacity
 Dates: c. AD 238–AD 382
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

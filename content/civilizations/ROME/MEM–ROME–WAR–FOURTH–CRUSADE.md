@@ -8,7 +8,7 @@ Civilization: ROME (LATIN CHRISTIAN ↔ ROMAN IMPERIAL CONTINUITY)
 Regime: PAPAL UNIVERSALISM / FRACTURED CHRISTENDOM
 Subject: The Fourth Crusade
 Dates: 1202–1204 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,200
 

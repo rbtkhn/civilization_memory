@@ -8,7 +8,7 @@ Opposing Civilization: OTTOMAN EMPIRE
 Regime / Mode: HABSBURG IMPERIAL FRONTIER (DEFENSIVE CONSOLIDATION)
 Subject: The Sieges of Vienna (1529 & 1683)
 Dates: 1529 AD · 1683 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

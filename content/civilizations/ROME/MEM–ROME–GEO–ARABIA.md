@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN CONTACT → IMPERIAL PERIMETER MANAGEMENT
 Subject: Arabia as Peripheral Corridor, Trade Interface, and Strategic Buffer
 Dates: c. 100 BC–AD 700
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,850
 

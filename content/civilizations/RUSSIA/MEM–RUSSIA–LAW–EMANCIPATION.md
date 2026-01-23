@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · v2.0 COMPLIANCE + RENAME (v1.0 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Emancipation of the Serfs (Освобождение крестьян)
 Dates: 1861 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,800
 

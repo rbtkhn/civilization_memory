@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Michel de Montaigne
 Dates: 1533–1592 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

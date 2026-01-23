@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pecheneg Wars (Печенежские войны) — Steppe Frontier Architecture
 Dates: 915–1036 AD (major conflicts: 968–1036)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,200
 

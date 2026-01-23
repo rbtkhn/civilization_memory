@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: IMPERIAL (EXTERNAL TRADE CORRIDOR)
 Subject: The Red Sea (Imperial Commerce Artery)
 Dates: 1st century BC–7th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,900
 

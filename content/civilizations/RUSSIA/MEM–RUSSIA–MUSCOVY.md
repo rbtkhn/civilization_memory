@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Muscovite Rus’ → Early Russian Empire
 Subject: Muscovy (Compression Core & Autocratic Seed State)
 Dates: c. 1300–1721 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,480
 

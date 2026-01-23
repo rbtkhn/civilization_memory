@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: MONARCHIC → REPUBLICAN → IMPERIAL → POST-IMPERIAL CONTINUITY
 Subject: The City of Rome (Urbs as Authority Engine)
 Dates: c. 753 BC–Present (civilizational afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,700
 

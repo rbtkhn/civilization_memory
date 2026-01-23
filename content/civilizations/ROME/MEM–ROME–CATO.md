@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC (STOIC RESISTANCE TO PERSONAL RULE)
 Subject: Marcus Porcius Cato Uticensis (Cato the Younger)
 Dates: 95 BC–46 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

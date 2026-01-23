@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC → PRINCIPATE TRANSITION
 Subject: The Battle of Actium
 Dates: 31 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,350
 

@@ -9,7 +9,7 @@ Civilization: ROME (GREEK STRATEGIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (ANALYTICAL ADOPTION)
 Subject: Thucydides of Athens
 Dates: c. 460–395 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

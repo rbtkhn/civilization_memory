@@ -4,7 +4,7 @@ Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Mongolia / Mongolian Plateau Interface Zone (蒙古高原)
 Dates: Ancient–Modern (continuity zone; rotating polities)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

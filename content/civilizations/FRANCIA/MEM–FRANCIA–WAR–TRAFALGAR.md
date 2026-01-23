@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Battle of Trafalgar
 Dates: 21 October 1805 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

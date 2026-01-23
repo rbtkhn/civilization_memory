@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL (EASTERN STRATEGIC CORE)
 Subject: Syria (Military–Commercial Hinge and Forward Governance Zone)
 Dates: 64 BC–7th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,520
 

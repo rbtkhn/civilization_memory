@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Alsace–Lorraine (Border Consolidation, Legitimacy Test, and Strategic Overreach)
 Dates: 1871–1945 (primary arc; extended memory)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

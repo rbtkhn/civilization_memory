@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANAD
 Civilization: FRANCIA
 Subject: Thirty Years’ War
 Dates: 1618–1648 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

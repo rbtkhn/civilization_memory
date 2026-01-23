@@ -8,7 +8,7 @@ Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY (MACEDONIAN DYNASTY)
 Subject: Basil II “the Bulgar-Slayer”
 Dates: 958–1025 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

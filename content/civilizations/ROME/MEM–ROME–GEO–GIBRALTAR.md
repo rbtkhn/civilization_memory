@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → POST-ROMAN CONTINUITY
 Subject: Gibraltar (Pillars of Hercules, Strait Control, Civilizational Threshold)
 Dates: Archaic Antiquity–Early Modern (continuous)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,500
 

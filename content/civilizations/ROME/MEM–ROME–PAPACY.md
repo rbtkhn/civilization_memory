@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: ECCLESIASTICAL CONTINUATION
 Subject: The Papacy
 Dates: c. 30 AD–Present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

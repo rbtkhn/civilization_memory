@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → CONTINUING FORMS
 Subject: Latin Language (Law, Command, and Administrative Universality)
 Dates: c. 7th century BC–medieval continuity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

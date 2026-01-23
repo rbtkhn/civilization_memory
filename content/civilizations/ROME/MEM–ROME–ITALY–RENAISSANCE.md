@@ -10,7 +10,7 @@ Civilization: ROME
 Region: ITALY
 Subject: The Renaissance
 Dates: c. 1300–1550 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,950
 

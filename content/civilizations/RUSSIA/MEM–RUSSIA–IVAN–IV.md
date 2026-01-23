@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM · UNBUFFERED MUSCOVITE AUTOCRACY
 Subject: Ivan IV “the Terrible” (Иван IV Грозный)
 Dates: 1530–1584 AD (rule: 1547–1584)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 

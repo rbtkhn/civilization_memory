@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивiliзация)
 Subject: Russo–Ottoman Wars (Imperial Systemic Arc)
 Dates: c. 1686–1792 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

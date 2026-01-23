@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: EARLY PRINCIPATE (AUGUSTAN)
 Subject: Battle of the Teutoburg Forest (Roman Perspective)
 Dates: 9 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,350
 

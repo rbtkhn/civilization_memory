@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY (BILINGUAL EMPIRE)
 Subject: Greek Language (Intellect, Mediation, and Civilizational Depth)
 Dates: c. 3rd century BC–Byzantine continuity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

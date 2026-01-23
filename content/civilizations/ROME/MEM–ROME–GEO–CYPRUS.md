@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: EASTERN OUTPOST / COMMODITY–SECURITY NODE (58 BC–Late Antiquity)
 Subject: Cyprus
 Dates: Hellenistic era–Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,150
 

@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: PRINCIPATE (INHERITED AUTOCRACY / DEFENSIVE GOVERNANCE)
 Subject: Tiberius Julius Caesar Augustus
 Dates: 42 BC–AD 37
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,250
 

@@ -6,7 +6,7 @@ Domain: PHILOSOPHICAL–STRATEGIC LITERATURE (道学)
 Subject: Laozi / Lao Tzu (老子)
 Text: 《道德经》 Dao De Jing
 Dates: Traditionally c. 6th–4th century BC (Warring States horizon)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

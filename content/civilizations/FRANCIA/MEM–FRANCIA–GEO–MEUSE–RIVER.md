@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Meuse River System (Frontier Corridor, Invasion Channel, and Buffer Fracture Line)
 Dates: Roman era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,300
 

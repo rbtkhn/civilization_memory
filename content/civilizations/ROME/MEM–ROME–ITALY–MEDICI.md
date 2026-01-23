@@ -9,7 +9,7 @@ Civilization: ROME (ITALIAN AFTERLIFE / CIVIC–FINANCIAL CONTINUITY)
 Regime: REPUBLICAN FORMS → OLIGARCHIC STEWARDSHIP (c. 1400–1530 AD)
 Subject: The Medici Family (Florence)
 Dates: c. 1377–1537 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

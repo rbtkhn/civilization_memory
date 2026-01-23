@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Vistula River System (Река Висла)
 Dates: c. 1795–1915 AD (primary Russian control arc), 1944–1991 AD (Soviet sphere)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: ~3,400

@@ -4,7 +4,7 @@ Version: 1.0
 Civilization: ANGLIA
 Dynasty: House of Wessex
 Dates: c. 519–1066 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

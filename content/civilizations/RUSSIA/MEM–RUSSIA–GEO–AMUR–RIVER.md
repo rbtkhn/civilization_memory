@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Amur River System (Река Амур)
 Dates: c. 1650–present (Far Eastern expansion arc)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 

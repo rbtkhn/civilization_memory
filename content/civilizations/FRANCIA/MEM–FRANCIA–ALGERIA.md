@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Algeria (Settler Colony, Imperial Mirror, and Trauma Archive)
 Dates: 1830–1962 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

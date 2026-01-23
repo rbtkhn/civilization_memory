@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN CONTINUITY)
 Subject: Heraclius as Last Universal Emperor and Architect of Survival Transition
 Dates: AD 610–641
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

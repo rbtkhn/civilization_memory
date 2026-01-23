@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE REPUBLICAN CIVIL WAR → PERSONAL SOVEREIGNTY
 Subject: The Battle of Pharsalus as the Irreversible Breakpoint of the Republic
 Dates: 48 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

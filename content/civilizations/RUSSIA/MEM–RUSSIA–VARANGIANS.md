@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY RUS’ · CORRIDOR–FOUNDED DYNASTIC FORMATION
 Subject: Varangians (Варяги)
 Dates: c. 750–1050 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Template Version Used: CIV–MEM–TEMPLATE v2.5
 ARC Version Pinned: ARC–RUSSIA v1.9
 Last Update: January 2026

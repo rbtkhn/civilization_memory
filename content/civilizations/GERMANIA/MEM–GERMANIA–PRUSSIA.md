@@ -4,7 +4,7 @@ Version: 1.0
 Civilization: GERMANIA
 Polity: PRUSSIA
 Dates: c. 1525–1871 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

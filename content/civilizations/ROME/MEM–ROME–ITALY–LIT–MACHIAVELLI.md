@@ -9,7 +9,7 @@ Civilization: ROME (ITALIAN POLITICAL AFTERLIFE)
 Regime: REPUBLICAN MEMORY → POST-IMPERIAL REALISM
 Subject: Niccolò Machiavelli (Florence)
 Dates: 1469–1527 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,600
 

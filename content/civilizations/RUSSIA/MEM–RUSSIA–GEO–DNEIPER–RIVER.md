@@ -13,7 +13,7 @@ Governed by:
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dnieper River System (Река Днепр)
 Dates: c. 800–1400 AD (primary civilizational arc)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

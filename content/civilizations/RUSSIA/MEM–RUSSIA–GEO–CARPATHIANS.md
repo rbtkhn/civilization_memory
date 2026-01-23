@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Carpathian Mountains (Карпаты)
 Dates: c. 1000 AD–present (medieval interaction to modern boundary)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: ~3,300

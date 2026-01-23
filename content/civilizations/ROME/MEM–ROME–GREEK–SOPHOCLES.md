@@ -7,7 +7,7 @@ Civilization: ROME (GREEK TRAGIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (MORAL DIAGNOSTIC ADOPTION)
 Subject: Sophocles (Tragedy, Law, and Irreversible Error)
 Dates: c. 496–406 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

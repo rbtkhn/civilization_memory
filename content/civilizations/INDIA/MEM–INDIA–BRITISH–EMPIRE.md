@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Regime: COLONIAL / IMPERIAL–ADMINISTRATIVE (c. 1757–1947)
 Subject: British Empire in India
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

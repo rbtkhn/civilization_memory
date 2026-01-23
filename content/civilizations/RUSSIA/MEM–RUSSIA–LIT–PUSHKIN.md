@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE · CANONICAL
 Version: 1.1
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 Civilization: RUSSIA (Русская цивилизация)

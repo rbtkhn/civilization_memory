@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL
 Subject: The Adriatic Sea
 Dates: Early Roman expansion–Late Imperial era
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 

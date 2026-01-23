@@ -7,7 +7,7 @@ Last Updated: January 2026
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This file defines the Academic Reference Canon (ARC) for the ROME civilization.
+This file defines the ARC (Academic Reference Canon) for the ROME civilization.
 
 It specifies:
 • Which sources are admissible

@@ -4,7 +4,7 @@ Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Xinjiang / Western Regions (新疆 / 西域)
 Dates: Antiquity–Present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

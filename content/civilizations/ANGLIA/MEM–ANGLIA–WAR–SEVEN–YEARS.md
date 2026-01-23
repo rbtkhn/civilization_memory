@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime: MARITIME–FINANCIAL ASCENT / IMPERIAL SYSTEM BREAKTHROUGH (1756–1763)
 Subject: Seven Years’ War
 Dates: 1756–1763 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

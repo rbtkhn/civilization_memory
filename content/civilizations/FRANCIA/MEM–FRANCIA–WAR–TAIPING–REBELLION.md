@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Taiping Rebellion (Indirect Intervention, Order Preservation, and Missionary–Commercial Interface)
 Dates: 1850–1864 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,350
 

@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · LIEVEN + TOLSTOY QUOTATION ENHANCEMENT + v2.0 COMPLIAN
 Civilization: RUSSIA (Русская цивилизация)
 Subject: War with Napoleonic France (Отечественная война 1812 года)
 Dates: 1812–1814 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Battle of Trafalgar (Maritime Irreversibility & System Lock-In)
 Dates: 21 October 1805 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Kiev (Киев) — Urban Core, Sacred Capital, and Civilizational Precursor
 Dates: c. 9th century–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

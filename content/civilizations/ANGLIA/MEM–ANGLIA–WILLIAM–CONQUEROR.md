@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime / Mode: Norman Kingship
 Subject: William of Normandy (William the Conqueror)
 Dates: 1028–1087 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,700
 

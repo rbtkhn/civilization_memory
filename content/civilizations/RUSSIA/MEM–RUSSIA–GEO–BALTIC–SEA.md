@@ -9,7 +9,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · PETRINE TRANSFORMATION
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Baltic Sea (Балтийское море)
 Dates: c. 800–1400 AD (Rus’-facing arc), 1700–1721 AD (Petrine transformation)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,850
 

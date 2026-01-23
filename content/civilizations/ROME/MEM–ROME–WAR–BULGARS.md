@@ -8,7 +8,7 @@ Civilization: ROME (EASTERN / CONTINUING)
 Adversary: BULGARIAN POLITIES (FIRST & SECOND BULGARIAN EMPIRES)
 Subject: Roman–Bulgar Wars
 Dates: c. 680–1018 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,550
 

@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: IMPERIAL PROVINCIAL RULE (63 BC–4th century AD)
 Subject: Palestine (Judaea / Syria Palaestina)
 Dates: 1st century BC → Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,300
 

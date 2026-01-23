@@ -7,7 +7,7 @@ Civilization: FRANCIA
 Regime: NOBLE MOBILIZATION / EARLY ROYAL MYTH FORMATION (1095–1291 AD)
 Subject: The Crusades (French Perspective)
 Dates: 11th–13th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

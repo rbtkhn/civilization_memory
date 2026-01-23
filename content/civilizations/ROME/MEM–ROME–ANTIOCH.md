@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / EASTERN METROPOLIS
 Subject: Antioch (Syria)
 Dates: 300 BC–AD 637
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,900
 

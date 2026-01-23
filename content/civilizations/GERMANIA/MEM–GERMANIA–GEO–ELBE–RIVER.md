@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE UPGRADE (PRIMARY SOURCE QUOTATION)
 Civilization: GERMANIA
 Subject: Elbe River System
 Dates: Roman era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,300
 

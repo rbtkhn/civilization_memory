@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime / Mode: Tudor Monarchy
 Subject: Henry VIII
 Dates: 1491–1547 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 

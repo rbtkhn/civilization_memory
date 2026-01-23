@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Chud Wars (Чудские войны) — Northern Frontier Expansion
 Dates: 1030s–1220s AD (major conflicts: 1030–1190s)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,100
 

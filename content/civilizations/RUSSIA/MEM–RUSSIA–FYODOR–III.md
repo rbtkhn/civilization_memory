@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM / ROMANOV (Late Muscovite)
 Subject: Fyodor III Alekseyevich (Фёдор III Алексеевич)
 Dates: 1661–1682 AD (rule: 1676–1682)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 

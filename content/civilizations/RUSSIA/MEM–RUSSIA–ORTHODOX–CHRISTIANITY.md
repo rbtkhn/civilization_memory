@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
 Subject: Orthodox Christianity (Православие)
 Dates: 988 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 

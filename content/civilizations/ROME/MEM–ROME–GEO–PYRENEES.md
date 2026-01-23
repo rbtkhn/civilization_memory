@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → POST-ROMAN CONTINUITY
 Subject: Pyrenees Mountains (Barrier, Filter, and Civilizational Boundary)
 Dates: Antiquity–Medieval Continuity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,300
 

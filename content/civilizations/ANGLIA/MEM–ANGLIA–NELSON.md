@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
 Civilization: ANGLIA
 Subject: Horatio Nelson
 Dates: 1758–1805 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,050
 

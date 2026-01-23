@@ -9,7 +9,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: TSARDOM / ROMANOV
 Subject: Alexei Mikhailovich “the Quietest” (Алексей Михайлович)
 Dates: 1629–1676 AD (rule: 1645–1676)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,500
 

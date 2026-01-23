@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Abraham Lincoln
 Dates: 1809–1865 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

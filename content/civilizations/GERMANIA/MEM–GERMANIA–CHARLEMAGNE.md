@@ -8,7 +8,7 @@ Civilization: GERMANIA
 Regime / Mode: Sacral–Imperial Monarchy
 Subject: Charlemagne (Karl der Große)
 Dates: c. 742–814 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,920
 

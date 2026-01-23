@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Native Americans (Displacement, Treaty Failure, and Expansion Logic)
 Dates: 17th century–19th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

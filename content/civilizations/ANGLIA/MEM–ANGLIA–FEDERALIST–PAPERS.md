@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule
 Civilization: ANGLIA
 Subject: The Federalist Papers (Procedural Containment of Revolution)
 Dates: 1787–1788 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

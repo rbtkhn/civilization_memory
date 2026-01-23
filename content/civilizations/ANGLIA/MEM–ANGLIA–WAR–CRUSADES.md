@@ -7,7 +7,7 @@ Civilization: ANGLIA
 Regime: DYNASTIC PARTICIPATION / EXTERNAL PRESTIGE WAR (1095–1291 AD)
 Subject: The Crusades (Anglian Perspective)
 Dates: 11th–13th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

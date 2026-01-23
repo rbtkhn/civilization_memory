@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Gulf of Finland (Финский залив)
 Dates: c. 800 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: ~3,400

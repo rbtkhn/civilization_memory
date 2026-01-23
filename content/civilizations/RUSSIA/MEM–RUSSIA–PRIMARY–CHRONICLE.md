@@ -9,7 +9,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Narrative Legitimacy Compiler · Ecclesiastical Chronicle
 Subject: Primary Chronicle (Повесть временных лет)
 Dates: c. 850–1110 AD (composition c. 1113 AD)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,900
 

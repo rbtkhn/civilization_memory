@@ -818,7 +818,7 @@ VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
 To ensure quote quality over quantity:
 
 EQS COMPLIANCE REQUIREMENT:
-• All quotes must meet Evidence Quality Standards (≥2 criteria)
+• All quotes must meet Evidence Quality Standards (EQS) (≥2 criteria)
 • Additional quotes beyond minimum must meet ≥3 EQS criteria
 • Marginal quotes automatically rejected in canonical review
 

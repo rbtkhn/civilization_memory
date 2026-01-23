@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Norway (Northern Periphery, Maritime Buffer, and Strategic Depth Without Absorption)
 Dates: Medieval era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,550
 

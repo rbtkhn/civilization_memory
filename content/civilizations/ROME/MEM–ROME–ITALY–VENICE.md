@@ -9,7 +9,7 @@ Civilization: ROME (ITALIAN CONTINUITY / MARITIME SUCCESSOR)
 Regime: POST-IMPERIAL ROMAN CITY–STATE / MERCANTILE REPUBLIC
 Subject: Venice (Venezia)
 Dates: c. 421–1797 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

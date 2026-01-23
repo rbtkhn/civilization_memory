@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN EMERGENCY MOBILIZATION
 Subject: Battle of Cannae (Systemic Defeat and Adaptive Inflection)
 Dates: 216 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,550
 

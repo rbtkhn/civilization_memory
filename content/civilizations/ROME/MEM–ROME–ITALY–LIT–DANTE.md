@@ -9,7 +9,7 @@ Civilization: ROME (ITALIAN POST-IMPERIAL CONTINUITY)
 Regime: POST-IMPERIAL LATIN CHRISTENDOM
 Subject: Dante Alighieri (Italian Roman Afterlife)
 Dates: 1265–1321 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

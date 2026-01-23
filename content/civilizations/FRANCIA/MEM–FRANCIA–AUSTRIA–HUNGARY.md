@@ -7,7 +7,7 @@ Upgrade Type: PARALLELIZATION + TEMPLATE COMPLIANAD
 Civilization: FRANCIA
 Subject: Austria–Hungary (Buffer Empire, Continental Shock Absorber, and Misaligned Stabilizer)
 Dates: 1867–1918 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

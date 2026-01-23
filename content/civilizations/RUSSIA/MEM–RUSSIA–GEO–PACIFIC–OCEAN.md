@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pacific Ocean (Terminal Expansion & Asymmetric Maritime Frontier)
 Dates: 17th century–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: ~2,650

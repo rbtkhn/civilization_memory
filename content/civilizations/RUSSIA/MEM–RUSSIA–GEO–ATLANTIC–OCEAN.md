@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · FULL ARC COMPLIANCE · STRUCTURAL EXPANSION
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Atlantic Ocean (Indirect Maritime Access & Structural Exclusion)
 Dates: c. 1500 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,150
 ARC Version Pinned: ARC–RUSSIA v1.5

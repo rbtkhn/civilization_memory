@@ -8,7 +8,7 @@ Sect: TWELVER SHI‘A
 Regime: SHI‘A STATE CRYSTALLIZATION / CIVILIZATIONAL TRANSFORMATION (1501–1736 AD)
 Subject: Safavid Dynasty
 Dates: 16th–18th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

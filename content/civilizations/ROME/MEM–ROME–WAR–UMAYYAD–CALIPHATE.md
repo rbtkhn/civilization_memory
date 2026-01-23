@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE IMPERIAL → EASTERN ROMAN TRANSITION
 Subject: Umayyad–Roman War System (Shock Conquest & Failed Universalization)
 Dates: AD 634–750
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

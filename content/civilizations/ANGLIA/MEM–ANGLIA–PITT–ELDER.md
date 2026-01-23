@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
 Civilization: ANGLIA
 Subject: William Pitt the Elder (Earl of Chatham)
 Dates: 1708–1778 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 

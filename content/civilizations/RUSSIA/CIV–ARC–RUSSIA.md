@@ -30,7 +30,7 @@ This is a governance correction and canon restoration, not analysis.
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This file defines the Academic Reference Canon (ARC) for the RUSSIA
+This file defines the ARC (Academic Reference Canon) for the RUSSIA
 civilization.
 
 It specifies:

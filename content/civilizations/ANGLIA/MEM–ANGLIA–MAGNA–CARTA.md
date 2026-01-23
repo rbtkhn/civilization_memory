@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Hardened Source Compliance · Primary Anchors · Disting
 Civilization: ANGLIA
 Subject: Magna Carta (Constraint Without Democracy)
 Dates: 1215 AD–present (derivative influence)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

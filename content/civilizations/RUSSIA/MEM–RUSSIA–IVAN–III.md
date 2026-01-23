@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: MUSCOVITE / LATE RURIKID
 Subject: Ivan III “the Great” (Иван III Васильевич)
 Dates: 1440–1505 AD (rule: 1462–1505)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

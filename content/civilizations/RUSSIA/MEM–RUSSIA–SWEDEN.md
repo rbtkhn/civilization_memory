@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Sweden (Northern Maritime Rival & Baltic Gatekeeper)
 Dates: Medieval period–19th century (with modern echoes)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

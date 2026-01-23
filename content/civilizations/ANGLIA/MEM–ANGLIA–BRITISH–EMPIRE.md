@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
 Civilization: ANGLIA
 Subject: The British Empire (Procedural Empire, System Management, and Controlled Dissolution)
 Dates: 16th century–20th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 

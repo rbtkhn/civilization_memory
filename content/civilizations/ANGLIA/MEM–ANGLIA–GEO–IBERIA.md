@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Iberia (Gateway, Opportunity Zone, and Managed Rival)
 Dates: Early modern era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -8,7 +8,7 @@ Civilization: ROME (IBERIAN CONTINUITY)
 Regime: MEDIEVAL KINGDOM → IMPERIAL CORE
 Subject: Castile
 Dates: c. 900 AD–1700 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,550
 

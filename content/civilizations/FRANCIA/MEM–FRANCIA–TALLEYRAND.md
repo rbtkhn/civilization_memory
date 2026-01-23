@@ -9,7 +9,7 @@ Civilization: FRANCIA
 Regime: REVOLUTIONARY / IMPERIAL / RESTORATION (1789–1830)
 Subject: Charles-Maurice de Talleyrand-Périgord
 Dates: 1754–1838 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,700
 

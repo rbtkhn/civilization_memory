@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
 Civilization: ANGLIA
 Subject: Arthur Wellesley, Duke of Wellington
 Dates: 1769–1852 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,000
 

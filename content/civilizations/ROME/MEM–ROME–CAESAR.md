@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC → PERSONAL DOMINION (c. 60–44 BC)
 Subject: Gaius Julius Caesar
 Dates: 100–44 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,450
 

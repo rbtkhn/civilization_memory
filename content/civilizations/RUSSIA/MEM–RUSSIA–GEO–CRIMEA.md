@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Crimea (Geographic–Strategic Node)
 Dates: Antiquity–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,400
 ARC Version: CIV–ARC–RUSSIA v1.5

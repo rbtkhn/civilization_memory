@@ -8,7 +8,7 @@ Civilization: ROME (LATIN CHRISTIAN CONTINUITY)
 Regime: MEDIEVAL PRINCIPALITY → COMPOSITE MONARCHY SUBSYSTEM
 Subject: Catalonia (Roman Law, Maritime Commerce, and Corporate Autonomy)
 Dates: c. 800–1714 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,400
 

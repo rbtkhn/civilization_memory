@@ -9,7 +9,7 @@ Civilization: ROME (LATIN CONTINUITY / IMPERIAL UNIVERSALISM)
 Regime: POST-IMPERIAL CHRISTIAN MONARCHY → TRANSOCEANIC IMPERIAL SYSTEM
 Subject: Spain (Territorial–Maritime Roman Continuation)
 Dates: c. 711 AD–early modern global empire (with afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,800
 ────────────────────────────────────────────────────────────

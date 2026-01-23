@@ -9,7 +9,7 @@ Civilization: FRANCIA
 Regime: IMPERIAL / CAROLINGIAN (768–814 AD)
 Subject: Charlemagne (Charles the Great)
 Dates: c. 742–814 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

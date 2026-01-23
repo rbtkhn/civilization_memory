@@ -9,7 +9,7 @@ Civilization: ROME (GREEK EPIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (MYTHIC ADOPTION)
 Subject: Homer (Epic Authority, War, and Moral Order)
 Dates: c. 8th century BC (traditional)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,250
 

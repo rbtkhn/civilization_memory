@@ -8,7 +8,7 @@ Opposing Civilization: OTTOMAN EMPIRE
 Regime / Mode: HABSBURG IMPERIAL FRONTIER (PRE-CONSOLIDATION)
 Subject: Battle of Mohács and the Opening of the Ottoman–Habsburg Struggle
 Dates: 1526 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLIC → PRINCIPATE → LATE IMPERIAL
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
 Dates: 53 BC–AD 628
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,850
 

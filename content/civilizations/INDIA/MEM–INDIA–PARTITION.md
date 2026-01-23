@@ -5,7 +5,7 @@ Civilization: INDIA
 Regime: DECOLONIZATION / CIVILIZATIONAL FRACTURE EVENT (1947)
 Subject: Partition of British India
 Dates: 1946–1948 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

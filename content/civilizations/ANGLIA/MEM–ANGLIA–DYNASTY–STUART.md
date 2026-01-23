@@ -5,7 +5,7 @@ Civilization: ANGLIA
 Regime Type: PERSONAL MONARCHY / CONSTITUTIONAL STRESS
 Subject: House of Stuart
 Dates: 1603–1714 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

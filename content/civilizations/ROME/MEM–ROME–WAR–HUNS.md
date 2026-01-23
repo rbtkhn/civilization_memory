@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE IMPERIAL DEFENSE → CRISIS MOBILIZATION
 Subject: The Huns as External Shock Force and Catalyst of Imperial Reconfiguration
 Dates: c. AD 370–AD 454
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

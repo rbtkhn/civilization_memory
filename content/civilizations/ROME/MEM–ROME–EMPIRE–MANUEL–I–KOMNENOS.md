@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / KOMNENIAN EXPANSION PHASE)
 Subject: Manuel I Komnenos as Emperor of Restored Ambition and Strategic Overextension
 Dates: AD 1143–1180
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

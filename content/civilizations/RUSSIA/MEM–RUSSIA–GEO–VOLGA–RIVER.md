@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Volga River System (Река Волга)
 Dates: c. 900–1400 AD (primary civilizational arc)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

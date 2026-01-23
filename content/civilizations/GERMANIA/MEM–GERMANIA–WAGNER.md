@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Richard Wagner
 Dates: 1813–1883 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

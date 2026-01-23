@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: WESTERN MARITIME BUFFER / TROUBLED PERIPHERY (238 BC–Late Antiquity)
 Subject: Corsica
 Dates: 3rd century BC–Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

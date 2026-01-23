@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Helmuth von Moltke the Elder (Operational War System)
 Dates: c. 1857–1888 AD (chief influence period)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

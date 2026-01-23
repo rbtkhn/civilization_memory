@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN CONSTITUTION / CIVIC–MILITARY SYNTHESIS
 Subject: The Roman Republic
 Dates: 509–27 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

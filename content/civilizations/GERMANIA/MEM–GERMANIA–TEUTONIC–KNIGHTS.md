@@ -8,7 +8,7 @@ Civilization: GERMANIA
 Regime / Mode: MILITARY–RELIGIOUS ORDER / TERRITORIAL ADMINISTRATION
 Subject: The Teutonic Knights (Orden der Brüder vom Deutschen Haus St. Mariens)
 Dates: c. 1190–1525 AD (memory tail far longer)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

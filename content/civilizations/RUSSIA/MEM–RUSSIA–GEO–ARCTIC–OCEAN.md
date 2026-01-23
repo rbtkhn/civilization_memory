@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · STRUCTURAL + ARC COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Arctic Ocean (Северный Ледовитый океан)
 Dates: c. AD 1100–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC Version Pinned: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: 2,540

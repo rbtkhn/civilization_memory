@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: MARITIME CONTROL / IMPERIAL BUFFER ZONE (264 BC–476 AD →)
 Subject: Sicily
 Dates: 3rd century BC–Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

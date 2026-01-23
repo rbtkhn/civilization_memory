@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: South Africa (Extraction Colony, Racial Codification, and Moral Fracture)
 Dates: 1795 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

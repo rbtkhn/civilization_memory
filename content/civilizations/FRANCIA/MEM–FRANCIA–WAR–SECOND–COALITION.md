@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: War of the Second Coalition (Revolutionary Survival, Coalition Saturation, and Regime Compression)
 Dates: 1798–1802 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,800
 

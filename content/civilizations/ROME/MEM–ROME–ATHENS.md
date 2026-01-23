@@ -10,7 +10,7 @@ Civilization: ROME
 Region: ATHENS (Attica · Aegean Basin)
 Subject: Athens as Cultural Precursor, Rival Model, and Absorbed Intellect
 Dates: c. 500 BC–AD 500
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,150
 

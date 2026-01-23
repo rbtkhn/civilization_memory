@@ -4,7 +4,7 @@ Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: People’s Republic of China (中华人民共和国)
 Dates: 1949–Present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

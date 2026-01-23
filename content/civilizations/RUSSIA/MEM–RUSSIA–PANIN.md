@@ -9,7 +9,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (Elizabeth I → Catherine II)  
 Subject: Nikita Ivanovich Panin (Никита Иванович Панин)  
 Dates: 1718–1783 AD  
-Class: MEM (Memory)  
+Class: MEM (Civilizational Memory)  
 Last Update: January 2026  
 Word Count: ~2,650  
 

@@ -9,7 +9,7 @@ Civilization: RUSSIA (Русская цивлизация)
 Regime: IMPERIAL / ROMANOV (Catherine II)
 Subject: Grigory Potemkin (Григорий Потёмкин)
 Dates: 1739–1791 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 

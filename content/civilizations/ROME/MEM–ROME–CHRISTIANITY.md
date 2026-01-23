@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: IMPERIAL → POST-IMPERIAL METAPHYSICAL CONTINUITY
 Subject: Christianity (as Roman Transformation System)
 Dates: 1st century AD → Late Antiquity and afterlife
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,400
 

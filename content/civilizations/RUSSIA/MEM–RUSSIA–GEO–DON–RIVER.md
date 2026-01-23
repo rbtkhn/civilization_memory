@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · FULL ARC–RUSSIA v1.5 COMPLIANCE · TEMPLATE SATURATI
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Don River (Steppe–Interior Artery)
 Dates: Antiquity–present (Rus’-facing civilizational arc emphasized post-AD 800)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 

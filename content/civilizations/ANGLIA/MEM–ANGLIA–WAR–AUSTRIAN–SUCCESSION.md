@@ -7,7 +7,7 @@ Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANAD
 Civilization: ANGLIA
 Subject: War of the Austrian Succession (Strategic Rehearsal & System Testing)
 Dates: 1740–1748 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

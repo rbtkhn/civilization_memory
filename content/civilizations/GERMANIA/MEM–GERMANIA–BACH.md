@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Johann Sebastian Bach
 Dates: 1685–1750 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

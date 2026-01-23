@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: MARITIME INFILTRATION / CULTURAL TRANSMISSION (827–1091 AD)
 Subject: Sicily
 Dates: 9th–11th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

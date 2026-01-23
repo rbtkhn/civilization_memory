@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Subject: Shi‘a Islam (*Shi‘at ‘Ali*)
 Dates: c. 632 AD–Present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

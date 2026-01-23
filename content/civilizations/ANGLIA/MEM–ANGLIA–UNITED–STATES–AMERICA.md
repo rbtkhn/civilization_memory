@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: United States of America (Externalized Core, Procedural Heir, and Scale Amplifier)
 Dates: 1776 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

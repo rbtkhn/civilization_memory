@@ -5,7 +5,7 @@ Status: ACTIVE
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
 Dates: c. 550–330 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -8,7 +8,7 @@ Civilization: ROME (IBERIAN PERIPHERY / LATIN–BASQUE INTERFACE)
 Regime: PYRENEAN KINGDOM → BUFFER STATE → DYNASTIC ABSORPTION
 Subject: Kingdom of Navarre
 Dates: c. 824 AD–1512 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,350
 

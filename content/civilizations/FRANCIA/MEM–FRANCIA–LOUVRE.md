@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: The Louvre (Universalist Archive, State Museum, and Symbolic Vault)
 Dates: Medieval era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

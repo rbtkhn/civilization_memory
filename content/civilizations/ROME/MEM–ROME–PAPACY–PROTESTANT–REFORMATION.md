@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: PAPAL UNIVERSALISM UNDER INTERNAL REVOLT
 Subject: The Protestant Reformation
 Dates: c. 1517–1648
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,400
 

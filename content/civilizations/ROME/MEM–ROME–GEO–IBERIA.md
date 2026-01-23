@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN CONQUEST → IMPERIAL PROVINCE → POST-ROMAN FRAGMENTATION
 Subject: Iberian Peninsula (Extraction Zone, Romanization Success, and Peripheral Exit)
 Dates: 3rd century BCAD–5th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

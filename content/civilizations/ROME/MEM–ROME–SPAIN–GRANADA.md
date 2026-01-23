@@ -8,7 +8,7 @@ Civilization: ROME (IBERIAN AFTERLIFE / ISLAMIC INTERREGNUM)
 Regime: NASRID EMIRATE → CONQUEST & ABSORPTION
 Subject: Emirate of Granada
 Dates: 1238 AD–1492 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,400
 

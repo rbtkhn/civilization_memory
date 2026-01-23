@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE IMPERIAL CRISIS → POST-IMPERIAL TRANSITION
 Subject: The Visigoths as the First Autonomous Post-Roman Military Polity
 Dates: AD 376–AD 418
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,200
 

@@ -7,7 +7,7 @@ Civilization: ROME (WESTERN CONTINUITY UNDER BARBARIAN RULE)
 Regime: POST-IMPERIAL ROMAN ADMINISTRATION / OSTROGOTHIC KINGSHIP
 Subject: Theoderic the Great (Flavius Theodericus)
 Dates: c. AD 454–526
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

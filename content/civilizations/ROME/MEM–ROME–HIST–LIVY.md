@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: AUGUSTAN AGE (RETROSPECTIVE / MORAL-HISTORIOGRAPHICAL)
 Subject: Titus Livius (Livy)
 Dates: 59 BC–AD 17
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

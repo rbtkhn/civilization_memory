@@ -5,7 +5,7 @@ Civilization: RUSSIA
 Regime: REVOLUTIONARY / INDUSTRIAL–SECURITY STATE (1924–1953)
 Subject: Joseph Vissarionovich Stalin
 Dates: 1878–1953 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

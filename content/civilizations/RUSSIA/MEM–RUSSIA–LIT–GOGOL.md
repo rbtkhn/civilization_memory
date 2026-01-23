@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Nikolai Gogol (Николай Гоголь) — Absurdity Memory Architect
 Dates: 1809–1852 AD (decisive works: 1835–1842)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 

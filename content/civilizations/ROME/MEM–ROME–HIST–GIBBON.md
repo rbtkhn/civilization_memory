@@ -9,7 +9,7 @@ Civilization: ROME (RETROSPECTIVE / HISTORIOGRAPHICAL)
 Regime: ENLIGHTENMENT INTERPRETATION
 Subject: Edward Gibbon
 Dates: 1737–1794 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

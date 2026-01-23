@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Battle of Crécy (Asymmetric Method & Anti-Chivalric Shock)
 Dates: 26 August 1346 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIA
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Eurasian Steppe (Open Frontier — Mobility Ecology)
 Dates: Antiquity–present (Rus’ interface from c. 9th c. AD)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5

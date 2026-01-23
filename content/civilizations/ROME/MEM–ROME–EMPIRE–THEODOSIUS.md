@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: IMPERIAL SACRALIZATION / FINAL LEGAL UNITY
 Subject: Flavius Theodosius I (Theodosius the Great)
 Dates: c. AD 347–395
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

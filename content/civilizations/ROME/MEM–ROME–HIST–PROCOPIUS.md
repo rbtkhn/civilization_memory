@@ -8,7 +8,7 @@ Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION (JUSTINIANIC ERA)
 Subject: Procopius (Imperial Reality, War, and Administrative Truth)
 Dates: c. AD 500–c. 565
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,550
 

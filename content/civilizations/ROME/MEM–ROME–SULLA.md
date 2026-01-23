@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC (EXTRA-CONSTITUTIONAL DICTATORSHIP)
 Subject: Lucius Cornelius Sulla Felix
 Dates: 138 BC–78 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 ────────────────────────────────────────────────────────────

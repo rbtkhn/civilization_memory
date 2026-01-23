@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE UPGRADE (TEMPLATE ENFORCEMENT)
 Civilization: FRANCIA
 Subject: Mediterranean Sea System (Origin Basin, Legitimacy Classroom, Inherited Arena)
 Dates: Ancient era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,200
 

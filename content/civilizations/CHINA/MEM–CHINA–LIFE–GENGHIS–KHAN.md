@@ -4,7 +4,7 @@ Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Genghis Khan (Chinggis Khan, scholarly variant; 成吉思汗)
 Dates: c. 1162–1227 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

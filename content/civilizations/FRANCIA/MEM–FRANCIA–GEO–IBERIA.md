@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Iberia (Rival Mirror, Southern Constraint, and Strategic Threshold)
 Dates: Medieval era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

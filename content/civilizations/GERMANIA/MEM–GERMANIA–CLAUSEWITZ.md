@@ -6,7 +6,7 @@ Domain: STRATEGIC LITERATURE
 Subject: Carl von Clausewitz
 Text: *Vom Kriege* (On War)
 Dates: 1780–1831 (text composed 1816–1830; posthumous publication 1832)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime / Mode: TERMINAL ANGLO-SAXON KINGSHIP / INVASION-INDUCED RESET
 Subject: Battle of Hastings (Elite Replacement & Forced Recomposition)
 Dates: 1066 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,150
 

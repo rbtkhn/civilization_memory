@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → CONTINUING FORMS
 Subject: The Mediterranean Sea (Mare Nostrum)
 Dates: Ancient era–medieval continuity (with afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

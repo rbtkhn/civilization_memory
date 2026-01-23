@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: FOUNDATIONAL / TRANSITIONAL CALIPHATE (632–661 AD)
 Subject: Rashidun Caliphate
 Dates: 7th century AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

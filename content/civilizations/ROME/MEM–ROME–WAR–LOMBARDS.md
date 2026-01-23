@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: EASTERN CONTINUITY → ITALIAN FRACTURE
 Subject: The Lombards as Delayed Conquerors and Fragmenters of Roman Italy
 Dates: AD 568–AD 774
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

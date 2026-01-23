@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: MARITIME–PROVINCIAL INTERFACE ZONE
 Subject: The Levant
 Dates: Hellenistic inheritance → Roman imperial era → Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

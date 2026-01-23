@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN CONQUEST → IMPERIAL PROVINCE → POST-ROMAN CONTINUITY
 Subject: Hispania (Western Consolidation, Romanization Depth, and Quiet Exit)
 Dates: 3rd century BC–8th century AD (with afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,500
 

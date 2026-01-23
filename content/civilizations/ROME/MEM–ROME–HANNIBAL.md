@@ -9,7 +9,7 @@ Civilization: ROME (ADVERSARIAL MIRROR)
 Regime: REPUBLICAN CRISIS ERA
 Subject: Hannibal Barca
 Dates: 247–183 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,850
 ────────────────────────────────────────────────────────────

@@ -5,7 +5,7 @@ Civilization: GERMANIA
 Regime: IMPERIAL / SACRAL MONARCHY (c. 751–911)
 Subject: Carolingian Dynasty
 Dates: 8th–10th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Swedish War (Peripheral Ally, Continental Leverage, and Coalition Geometry)
 Dates: 1630–1648 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

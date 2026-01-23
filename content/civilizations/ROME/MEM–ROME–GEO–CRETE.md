@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: MARITIME TRANSIT NODE / EASTERN MEDIATOR (67 BC–476 AD →)
 Subject: Crete
 Dates: Hellenistic era–Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,250
 

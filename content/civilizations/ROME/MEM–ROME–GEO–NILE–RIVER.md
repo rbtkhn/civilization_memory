@@ -10,7 +10,7 @@ Civilization: ROME
 Regime: IMPERIAL LOGISTICAL DEPENDENCY ZONE
 Subject: The Nile River
 Dates: Hellenistic inheritance → Roman imperial era → Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 

@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIA
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Tundra (Arctic Margin — Extreme Constraint Ecology)
 Dates: Antiquity–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5

@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule
 Civilization: ANGLIA
 Subject: Richard I (the Lionheart)
 Dates: 1157–1199 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,100
 

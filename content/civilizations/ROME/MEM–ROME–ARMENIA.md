@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN CONTACT → IMPERIAL BUFFER → EASTERN ROMAN FAULT LINE
 Subject: Armenia as Buffer Kingdom, Legitimacy Battleground, and Imperial Stress Amplifier
 Dates: c. 200 BC–AD 640
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

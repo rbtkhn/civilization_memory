@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: English Channel (Barrier, Bridge, and Frustration Zone)
 Dates: Ancient era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

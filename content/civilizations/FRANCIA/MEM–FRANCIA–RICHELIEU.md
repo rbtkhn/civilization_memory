@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 Civilization: FRANCIA
 Subject: Cardinal Armand Jean du Plessis, duc de Richelieu
 Dates: 1585–1642 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,050
 

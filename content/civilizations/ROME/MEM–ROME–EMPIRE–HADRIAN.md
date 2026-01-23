@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL CONSOLIDATION / DEFENSIVE GOVERNANAD
 Subject: Publius Aelius Hadrianus (Hadrian)
 Dates: 76–138 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,900
 

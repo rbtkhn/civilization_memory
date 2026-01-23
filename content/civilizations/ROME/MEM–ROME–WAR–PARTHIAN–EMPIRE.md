@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC → PRINCIPATE → HIGH IMPERIAL
 Subject: Roman–Parthian Conflict as Asymmetric Peer War
 Dates: 53 BC–AD 224
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,700
 

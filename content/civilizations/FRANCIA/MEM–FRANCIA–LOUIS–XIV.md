@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 Civilization: FRANCIA
 Subject: Louis XIV (the Sun King)
 Dates: 1638–1715 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,150
 

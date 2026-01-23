@@ -9,7 +9,7 @@ Civilization: FRANCIA
 Opposing Civilization: GERMANIA
 Conflict: Franco–Prussian War
 Dates: 1870–1871 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

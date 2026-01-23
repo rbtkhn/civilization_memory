@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Æthelstan
 Dates: 894–939 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 

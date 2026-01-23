@@ -7,7 +7,7 @@ Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (ETHICAL ABSORPTION)
 Subject: Socrates (Moral Inquiry, Civic Irritation, and the Limits of Speech)
 Dates: c. 469–399 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

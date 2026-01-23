@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: The Aegean Sea
 Dates: Archaic Greek era–Late Roman / Eastern Roman continuity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 

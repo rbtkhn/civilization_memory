@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: ADMINISTRATIVE–MILITARY CONTINUITY / IMPERIAL SUCCESSOR HUB
 Subject: Milan (Mediolanum)
 Dates: Roman era → Early Modern period
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,100
 

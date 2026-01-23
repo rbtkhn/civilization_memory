@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: MARITIME WAYPOINT / MICRO-ANCHOR (218 BC–Late Antiquity)
 Subject: Malta
 Dates: Punic era–Late Antiquity
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

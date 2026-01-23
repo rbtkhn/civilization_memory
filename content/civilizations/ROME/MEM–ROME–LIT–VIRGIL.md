@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: AUGUSTAN PRINCIPATE
 Subject: Publius Vergilius Maro (Virgil)
 Dates: 70–19 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,700
 

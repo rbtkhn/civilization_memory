@@ -9,7 +9,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas II (Николай II)
 Dates: 1868–1918 AD (rule: 1894–1917)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,500
 

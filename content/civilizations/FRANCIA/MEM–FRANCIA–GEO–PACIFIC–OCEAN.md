@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE UPGRADE (TEMPLATE ENFORCEMENT)
 Civilization: FRANCIA
 Subject: Pacific Ocean System (Peripheral Projection, Prestige Outpost, Strategic Ceiling)
 Dates: 18th century–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

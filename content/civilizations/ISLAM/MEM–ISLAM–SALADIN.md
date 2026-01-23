@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: SUNNI RESTORATIVE / ANTI-CRUSADER CONSOLIDATION (c. 1169–1193 AD)
 Subject: Salah al-Din Yusuf ibn Ayyub (Saladin)
 Dates: 1137/1138–1193 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

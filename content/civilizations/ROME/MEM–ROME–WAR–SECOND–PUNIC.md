@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–WAR–PUNIC — v1.3 (PARTIAL)
 Civilization: ROME
 Subject: Second Punic War
 Dates: 218–201 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,150
 

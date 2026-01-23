@@ -8,7 +8,7 @@ Sect: ISMA‘ILI SHI‘A
 Regime: SHI‘A UNIVERSAL CALIPHATE / LEGITIMACY RIVAL (909–1171 AD)
 Subject: Fatimid Caliphate
 Dates: 10th–12th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

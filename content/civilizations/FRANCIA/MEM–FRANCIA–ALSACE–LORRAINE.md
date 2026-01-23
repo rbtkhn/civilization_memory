@@ -4,7 +4,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Alsace–Lorraine (Alsace–Moselle)
 Dates: 1871–1945 (primary arc; longer memory tail)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

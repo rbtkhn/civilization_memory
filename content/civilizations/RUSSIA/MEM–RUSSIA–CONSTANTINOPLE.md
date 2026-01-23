@@ -7,7 +7,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: SYMBOLIC–IMPERIAL INHERITANAD
 Subject: Constantinople (Константинополь)
 Dates: 330–1453 AD (Russian reception: post-1453)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

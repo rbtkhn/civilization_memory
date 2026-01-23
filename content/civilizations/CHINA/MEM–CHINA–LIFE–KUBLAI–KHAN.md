@@ -4,7 +4,7 @@ Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Kublai Khan (Khubilai Khan, variant; 忽必烈)
 Dates: 1215–1294 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

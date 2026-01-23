@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Egypt (Civilizational Projection, Prestige Gamble, and Strategic Failure)
 Dates: 1798 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

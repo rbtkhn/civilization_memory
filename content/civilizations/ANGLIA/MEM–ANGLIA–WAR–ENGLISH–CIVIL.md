@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: English Civil War (Procedure vs Personal Rule)
 Dates: 1642–1651 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Deng Xiaoping (邓小平)
 Dates: 1904–1997 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

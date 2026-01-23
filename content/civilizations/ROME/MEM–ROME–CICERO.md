@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC (c. 80–43 BC)
 Subject: Marcus Tullius Cicero
 Dates: 106 BC–43 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,850
 

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: The Jacobins
 Dates: 1789–1794 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

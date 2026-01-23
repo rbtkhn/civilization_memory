@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: PRINCIPATE (PERSONAL DEGRADATION / LEGITIMACY SHOCK)
 Subject: Gaius Julius Caesar Augustus Germanicus (Caligula)
 Dates: 12–41 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,200
 

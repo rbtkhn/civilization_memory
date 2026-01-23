@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Alfred von Tirpitz (Fleet & Risk Theory)
 Dates: c. 1897–1916 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE CLARIFICATION (Diffusive Buffer Precision)
 Civilization: FRANCIA
 Subject: The Netherlands (Frontier, Rival, and Buffer)
 Dates: 16th century–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

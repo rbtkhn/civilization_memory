@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Thomas Hobbes (Order Before Liberty & Fear as Foundation)
 Dates: 1588–1679 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

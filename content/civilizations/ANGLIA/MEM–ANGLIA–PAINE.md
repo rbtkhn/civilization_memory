@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Thomas Paine (Revolutionary Simplifier and Anti-Procedural Catalyst)
 Dates: 1737–1809 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

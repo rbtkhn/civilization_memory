@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE IMPERIAL DISINTEGRATION → POST-IMPERIAL CONTINUITY
 Subject: Odoacer and the Termination of the Western Imperial Office
 Dates: AD 476–493
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,950
 

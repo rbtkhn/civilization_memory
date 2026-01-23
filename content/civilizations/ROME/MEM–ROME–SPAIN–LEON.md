@@ -8,7 +8,7 @@ Civilization: ROME (IBERIAN CONTINUITY)
 Regime: ASTURIAN KINGDOM → LEONESE MONARCHY → ABSORPTION INTO CASTILE
 Subject: Kingdom of León
 Dates: c. 910 AD–1230 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

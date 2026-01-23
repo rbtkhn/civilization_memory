@@ -9,7 +9,7 @@ Civilization: ROME (GREEK PRACTICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (OPERATIONAL ADOPTION)
 Subject: Xenophon of Athens
 Dates: c. 430–354 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

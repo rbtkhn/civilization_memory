@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: REPUBLICAN CONQUEST → IMPERIAL FRONTIER MANAGEMENT
 Subject: Pontus as Maritime–Frontier Hybrid and Persistent Strategic Irritant
 Dates: c. 300 BC–AD 400
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

@@ -4,7 +4,7 @@ Version: 1.0
 Civilization: ANGLIA
 Dynasty: House of Hanover
 Dates: 1714–1901 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

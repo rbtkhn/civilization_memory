@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Post-Kievan Collapse · Survival Under Asymmetry
 Subject: Alexander Nevsky (Александр Невский)
 Dates: 1221–1263 AD (rule focus 1252–1263)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 

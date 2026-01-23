@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: White Sea (Белое море)
 Dates: Medieval period–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: ~2,450

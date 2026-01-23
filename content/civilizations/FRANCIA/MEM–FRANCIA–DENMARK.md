@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Denmark (Peripheral Actor, Maritime Node, and Strategic Afterthought)
 Dates: Early modern era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,700
 

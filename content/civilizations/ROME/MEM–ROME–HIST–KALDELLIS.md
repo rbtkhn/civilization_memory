@@ -8,7 +8,7 @@ Civilization: ROME (CONTINUITY / SELF-INTERPRETATION)
 Regime: IMPERIAL → EASTERN ROMAN (REJECTED “BYZANTINE” FRAME)
 Subject: Anthony Kaldellis
 Dates: b. 1969 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,650
 

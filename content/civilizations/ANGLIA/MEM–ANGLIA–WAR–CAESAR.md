@@ -9,7 +9,7 @@ Civilization: ANGLIA
 Opposing Civilization: ROME
 Subject: Julius Caesar and the British Expeditions
 Dates: 55–54 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,250
 

@@ -7,7 +7,7 @@ Upgrade Type: HARDENED SOURCE INTEGRATION & COALITION ANALYSIS
 Civilization: ANGLIA
 Subject: War of the Spanish Succession (Coalition Management & System Containment)
 Dates: 1701–1714 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,500
 

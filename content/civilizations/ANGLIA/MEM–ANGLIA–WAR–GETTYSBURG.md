@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Gettysburg (Legitimacy Shock & Moral Reframing)
 Dates: July 1–3, 1863 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

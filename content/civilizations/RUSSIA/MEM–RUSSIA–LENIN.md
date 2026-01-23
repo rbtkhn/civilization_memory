@@ -5,7 +5,7 @@ Civilization: RUSSIA
 Regime: REVOLUTIONARY / TRANSITIONAL (1917–1924)
 Subject: Vladimir Ilyich Lenin
 Dates: 1870–1924 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

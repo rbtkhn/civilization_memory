@@ -5,7 +5,7 @@ Status: ACTIVE
 Civilization: PERSIA
 Subject: Zoroaster (Zarathustra)
 Dates: c. 1500–1000 BCAD (traditional range; uncertainty preserved)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

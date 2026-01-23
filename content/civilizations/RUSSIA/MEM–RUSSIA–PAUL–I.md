@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Paul I (Павел I)
 Dates: 1754–1801 AD (rule: 1796–1801)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,150
 ────────────────────────────────────────────────────────────

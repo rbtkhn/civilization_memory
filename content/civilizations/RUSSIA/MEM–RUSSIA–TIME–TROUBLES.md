@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANAD
 Subject: Time of Troubles (Смутное время)
 Dates: 1598–1613 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

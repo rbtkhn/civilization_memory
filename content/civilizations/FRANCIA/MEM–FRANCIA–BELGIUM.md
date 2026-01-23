@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE COMPLIANCE COMPLETION
 Civilization: FRANCIA
 Subject: Belgium (Lost Extension, Buffer Denial, and Constraint Zone)
 Dates: 1795 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 

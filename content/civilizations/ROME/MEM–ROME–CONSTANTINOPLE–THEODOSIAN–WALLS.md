@@ -10,7 +10,7 @@ Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: Theodosian Walls as Engineered Imperial Durability
 Dates: AD 408–413 (primary construction)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,100
 

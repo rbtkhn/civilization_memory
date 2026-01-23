@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Vicksburg (Logistical Severance & Inland Maritime Control)
 Dates: May 18–July 4, 1863 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

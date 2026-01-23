@@ -9,7 +9,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANAD
 Civilization: FRANCIA
 Subject: Hundred Years’ War
 Dates: 1337–1453 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Civilization: PERSIA
 Subject: Cyrus I / Cyrus II “the Great”
 Dates: c. 600–530 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

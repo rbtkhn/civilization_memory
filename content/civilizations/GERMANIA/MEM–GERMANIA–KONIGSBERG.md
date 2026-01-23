@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Königsberg (Kaliningrad) — Exclave Collapse and Final Severance
 Dates: 1255–1945 (memory tail to present)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

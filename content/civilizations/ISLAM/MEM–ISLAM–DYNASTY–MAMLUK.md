@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: MILITARY CUSTODIAN / SACRED-ZONE DEFENSE (c. 1250–1517 AD)
 Subject: Mamluk Sultanate
 Dates: 13th–16th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

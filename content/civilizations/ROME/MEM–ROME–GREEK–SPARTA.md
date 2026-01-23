@@ -8,7 +8,7 @@ Civilization: ROME (GREEK CONTRAST MODEL)
 Regime: MILITARIZED OLIGARCHIC DISCIPLINE STATE
 Subject: Sparta
 Dates: c. 700 BC–371 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,550
 

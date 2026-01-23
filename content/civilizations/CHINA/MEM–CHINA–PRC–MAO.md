@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Mao Zedong (毛泽东)
 Dates: 1893–1976 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

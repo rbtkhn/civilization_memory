@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC (EXTRAORDINARY COMMAND NORMALIZATION)
 Subject: Gnaeus Pompeius Magnus (Pompey the Great)
 Dates: 106 BC–48 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 ────────────────────────────────────────────────────────────

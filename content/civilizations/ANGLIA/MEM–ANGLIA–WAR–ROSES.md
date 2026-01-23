@@ -7,7 +7,7 @@ Civilization: ANGLIA
 Regime: LATE FEUDAL MONARCHY / DYNASTIC FRACTURE (1455–1487 AD)
 Subject: Wars of the Roses
 Dates: 1455–1487 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

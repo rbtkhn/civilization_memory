@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: ISLAMIC IMPERIAL MINORITY RULE / POST-STEPPE CONSOLIDATION (1526–1857 AD)
 Subject: Mughal Empire
 Dates: 16th–19th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

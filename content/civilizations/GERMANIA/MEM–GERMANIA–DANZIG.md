@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: GERMANIA
 Subject: Danzig (Gdańsk) — Corridor Trauma, Legal Ambiguity, and Escalation Trigger
 Dates: Medieval era–1945 (primary arc: 1919–1939)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

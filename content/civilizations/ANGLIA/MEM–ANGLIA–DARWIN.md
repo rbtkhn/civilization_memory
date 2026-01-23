@@ -6,7 +6,7 @@ Version: 1.3
 Civilization: ANGLIA
 Subject: Charles Darwin (Natural Selection and the Decentering of Design)
 Dates: 1809–1882 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

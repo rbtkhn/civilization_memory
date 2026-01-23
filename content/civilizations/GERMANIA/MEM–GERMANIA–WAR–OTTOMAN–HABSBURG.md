@@ -8,7 +8,7 @@ Opposing Civilization: OTTOMAN EMPIRE
 Regime: HABSBURG IMPERIAL DEFENSE SYSTEM
 Subject: Ottoman–Habsburg Wars (German Perspective)
 Dates: c. 1526–1791 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,100
 

@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Dynastic State Formation · Lineage Sovereignty
 Subject: Rurikid Dynasty
 Dates: c. 862–1598 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,900
 

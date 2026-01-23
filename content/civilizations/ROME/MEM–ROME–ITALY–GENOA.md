@@ -7,7 +7,7 @@ Civilization: ROME
 Regime: MARITIME–COMMERCIAL AFTERLIFE / REPUBLICAN MERCANTILE POWER
 Subject: Genoa
 Dates: Roman era foundations → Medieval–Early Modern peak
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,050
 

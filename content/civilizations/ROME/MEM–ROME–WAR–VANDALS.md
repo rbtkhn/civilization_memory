@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: WESTERN IMPERIAL DISINTEGRATION
 Subject: The Vandals as Maritime Secessionists and Imperial Asset Seizure Specialists
 Dates: AD 406–AD 534
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,250
 

@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Sea of Azov (Shallow Maritime–Riverine Interface)
 Dates: Antiquity–present (Rus’/Russia-facing civilizational arc emphasized post-AD 800)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,400
 

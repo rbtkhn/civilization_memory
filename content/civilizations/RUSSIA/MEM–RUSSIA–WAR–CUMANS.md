@@ -6,7 +6,7 @@ Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Cuman Wars (Половецкие войны) — Steppe Alliance Complexity
 Dates: 1055–1239 AD (major conflicts: 1090s–1220s)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

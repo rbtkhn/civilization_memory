@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Spain (Imperial Rival, Counter-Universalism, and Southern Constraint)
 Dates: Early modern era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,800
 

@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: EARLY EMPIRE (JULIO-CLAUDIAN → FLAVIAN MEMORY)
 Subject: Gaius Suetonius Tranquillus
 Dates: c. AD 69–after AD 122
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

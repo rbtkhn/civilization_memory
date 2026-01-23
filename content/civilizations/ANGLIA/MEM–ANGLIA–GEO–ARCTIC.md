@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Arctic System (Peripheral Frontier, Strategic Ceiling, and Future Corridor)
 Dates: Early modern era–future
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

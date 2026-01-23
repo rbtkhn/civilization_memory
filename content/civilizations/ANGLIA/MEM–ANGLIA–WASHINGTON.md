@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: George Washington
 Dates: 1732–1799 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

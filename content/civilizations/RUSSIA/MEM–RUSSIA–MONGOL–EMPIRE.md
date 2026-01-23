@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Sovereignty · Tributary Compression
 Subject: Mongol Empire / Golden Horde (Монгольская империя / Золотая Орда)
 Dates: c. 1223–1480 AD (Rus’-facing arc)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

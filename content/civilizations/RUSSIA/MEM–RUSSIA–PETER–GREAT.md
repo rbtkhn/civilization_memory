@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
 Subject: Peter the Great (Пётр I)
 Dates: 1672–1725 AD (rule: 1682–1725)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,650
 

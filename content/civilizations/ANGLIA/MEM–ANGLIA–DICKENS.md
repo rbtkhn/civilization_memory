@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Charles Dickens
 Dates: 1812–1870 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

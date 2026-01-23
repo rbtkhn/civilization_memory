@@ -9,7 +9,7 @@ Civilization: ROME (HELLENIC INHERITANCE / COMPARATIVE MIRROR)
 Regime: CLASSICAL DEMOCRATIC IMPERIALISM (ATHENS)
 Subject: Pericles
 Dates: c. 495 BC–429 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,350
 

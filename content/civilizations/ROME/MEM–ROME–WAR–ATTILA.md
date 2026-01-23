@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE IMPERIAL DEFENSIVE SYSTEM / FRONTIER DENIAL
 Subject: Attila the Hun (Roman System Stressor)
 Dates: c. AD 406–453
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,600
 

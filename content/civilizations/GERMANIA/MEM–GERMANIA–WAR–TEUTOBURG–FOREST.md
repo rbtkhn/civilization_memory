@@ -8,7 +8,7 @@ Civilization: GERMANIA
 Opposing Civilization: ROME
 Subject: Battle of the Teutoburg Forest
 Dates: 9 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

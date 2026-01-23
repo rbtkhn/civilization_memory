@@ -9,7 +9,7 @@ Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (PHILOSOPHICAL ABSORPTION)
 Subject: Plato (Ideal Order, Philosophic Authority, and Political Distance)
 Dates: c. 428–348 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

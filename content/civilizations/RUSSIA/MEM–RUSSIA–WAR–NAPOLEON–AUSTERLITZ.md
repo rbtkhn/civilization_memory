@@ -8,7 +8,7 @@ Upgrade Type: RENAME (MEM–RUSSIA–WAR–AUSTERLITZ → MEM–RUSSIA–WAR–N
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Austerlitz (Битва под Аустерлицем)
 Dates: 2 December 1805 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

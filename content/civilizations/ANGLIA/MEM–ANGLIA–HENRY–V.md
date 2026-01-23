@@ -8,7 +8,7 @@ Civilization: ANGLIA
 Regime / Mode: Lancastrian Kingship
 Subject: Henry V
 Dates: 1386–1422 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 

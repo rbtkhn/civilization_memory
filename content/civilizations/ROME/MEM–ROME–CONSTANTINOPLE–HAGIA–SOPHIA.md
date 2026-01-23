@@ -10,7 +10,7 @@ Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: Hagia Sophia as Architectural Statecraft
 Dates: AD 532–537 (construction)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

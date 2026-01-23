@@ -7,7 +7,7 @@ Upgrade Type: FOUNDATIONAL · ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Caucasus Region (Кавказ)
 Dates: Antiquity–present (Russian strategic salience from 18th c. AD)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5

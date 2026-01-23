@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIA
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Taiga (Boreal Interior Basin — Endurance Ecology)
 Dates: Antiquity–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,850
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5

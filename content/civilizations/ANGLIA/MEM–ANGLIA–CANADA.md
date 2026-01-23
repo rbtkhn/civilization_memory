@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Canada (Procedural Continuity State, Loyalist Absorber, and Managed Autonomy Model)
 Dates: 1763 AD–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -10,7 +10,7 @@ Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: The Golden Horn as Engineered Maritime Sovereignty
 Dates: c. 330 AD–1453 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

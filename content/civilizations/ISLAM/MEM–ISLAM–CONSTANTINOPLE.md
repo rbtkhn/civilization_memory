@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: IMPERIAL CONQUEST / LEGITIMACY TRANSLATION (1453 AD →)
 Subject: Constantinople (Istanbul)
 Dates: 1453 AD onward
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

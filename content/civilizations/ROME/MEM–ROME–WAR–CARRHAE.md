@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC
 Subject: Battle of Carrhae as Doctrinal Rupture
 Date: 53 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
 

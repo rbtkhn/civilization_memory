@@ -8,7 +8,7 @@ Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY
 Subject: Anna Komnene
 Dates: c. 1083–1153 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 

@@ -8,7 +8,7 @@ Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 AD)
 Subject: Constantinople
 Dates: 330–1453 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,150
 

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Subject: Muhammad ibn Abdullah (Prophet of Islam)
 Dates: c. 570–632 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → CONTINUING FORMS
 Subject: Alpine System (Boundary, Corridor, and Imperial Filter)
 Dates: Roman era–late antiquity (with civilizational afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,450
 

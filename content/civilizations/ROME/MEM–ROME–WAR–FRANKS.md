@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE IMPERIAL DEFENSE → POST-IMPERIAL TRANSFORMATION
 Subject: The Franks as Federated Insiders and Architects of Post-Roman Continuity
 Dates: c. AD 250–AD 511
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

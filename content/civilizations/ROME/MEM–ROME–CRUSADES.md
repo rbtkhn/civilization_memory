@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–CRUSADES — v1.0
 Civilization: ROME (LATIN CHRISTIAN)
 Regime: PAPAL UNIVERSALISM / MILITARIZED SPIRITUAL AUTHORITY
 Dates: 1095–1291 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,150
 

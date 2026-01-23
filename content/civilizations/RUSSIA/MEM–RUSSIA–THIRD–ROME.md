@@ -7,7 +7,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime: IDEOLOGICAL–IMPERIAL DOCTRINE
 Subject: “Third Rome” (Третий Рим)
 Dates: c. 1510s AD–present (doctrinal arc)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: [TBD]
 

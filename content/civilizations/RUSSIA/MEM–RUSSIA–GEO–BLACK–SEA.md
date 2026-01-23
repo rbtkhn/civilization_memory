@@ -13,7 +13,7 @@ Governed by:
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Black Sea (Чёрное море)
 Dates: c. 800–1400 AD (Rus’-facing arc)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Spanish War (Dynastic Overreach and Peripheral Exhaustion)
 Dates: 1635–1659 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,600
 

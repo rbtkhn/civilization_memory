@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
 Version: 1.0
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Word Count: ~2,000
 Civilization: ISLAM (دار الإسلام)
 Subject: Xinjiang / Eastern Turkestan

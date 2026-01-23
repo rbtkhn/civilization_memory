@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANAD
 Civilization: FRANCIA
 Subject: Napoleonic Code (Code civil)
 Dates: 1804 AD–present (derivative influence)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,250
 

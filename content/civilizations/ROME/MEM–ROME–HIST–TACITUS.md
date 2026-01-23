@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: EARLY IMPERIAL (PRINCIPATE)
 Subject: Publius Cornelius Tacitus
 Dates: c. AD 56–c. AD 120
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,700
 

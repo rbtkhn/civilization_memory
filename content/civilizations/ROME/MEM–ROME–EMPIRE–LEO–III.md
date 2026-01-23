@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / ISAURO–REFORM PHASE)
 Subject: Leo III the Isaurian as Emperor of Defensive Consolidation and Doctrinal Statecraft
 Dates: AD 717–741
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,450
 

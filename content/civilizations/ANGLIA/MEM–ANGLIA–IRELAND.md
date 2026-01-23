@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Ireland (Unresolved Periphery, Legitimacy Stressor, and Persistent Friction)
 Dates: Medieval era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

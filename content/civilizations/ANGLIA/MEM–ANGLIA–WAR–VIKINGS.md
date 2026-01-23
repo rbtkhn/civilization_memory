@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Subject: Viking Wars (Raids, Invasions, and Settlement)
 Dates: c. 793–954 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

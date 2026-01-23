@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: EASTERN ROMAN CONTINUITY → TERMINAL IMPERIAL CONFRONTATION
 Subject: Roman–Ottoman Conflict as Asymmetric Succession War
 Dates: c. AD 1299–1453 (with post-1453 afterlife)
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,900
 

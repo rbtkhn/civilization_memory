@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / BUREAUCRATIC EXPANSION  
 Subject: Tiberius Claudius Caesar Augustus Germanicus (Claudius)  
 Dates: 10 BC–AD 54  
-Class: MEM (Memory)  
+Class: MEM (Civilizational Memory)  
 Last Update: January 2026  
 Word Count: ~2,300  
 

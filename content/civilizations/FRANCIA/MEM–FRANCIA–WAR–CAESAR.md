@@ -9,7 +9,7 @@ Civilization: FRANCIA
 Opposing Civilization: ROME / GERMANIA (frontier interface)
 Subject: Julius Caesar and the Conquest of Gaul
 Dates: c. 58–50 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 

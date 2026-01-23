@@ -8,7 +8,7 @@ Civilization: GERMANIA
 Opposing Civilization: ROME
 Subject: Julius Caesar and the Germanic Frontier
 Dates: c. 58–51 BCAD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 

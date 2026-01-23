@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: IMPERIAL JURISDICTION → METAPHYSICAL DISPLACEMENT
 Subject: Jesus of Nazareth (Christ)
 Dates: c. 4 BC–AD 30/33
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 

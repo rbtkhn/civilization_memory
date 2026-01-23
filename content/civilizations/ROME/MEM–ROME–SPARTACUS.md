@@ -8,7 +8,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC (SLAVE ECONOMY CRISIS)
 Subject: Spartacus of Thrace
 Dates: d. 71 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 

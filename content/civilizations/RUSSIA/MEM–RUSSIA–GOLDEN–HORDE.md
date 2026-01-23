@@ -8,7 +8,7 @@ Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Suzerainty · Tributary Interface State
 Subject: Golden Horde (Золотая Орда)
 Dates: c. 1240–1502 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,050
 

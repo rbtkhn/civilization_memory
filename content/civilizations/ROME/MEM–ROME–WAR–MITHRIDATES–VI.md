@@ -9,7 +9,7 @@ Civilization: ROME
 Regime: LATE REPUBLIC → IMPERIAL TRANSITION (CRISIS WAR)
 Subject: The Wars of Mithridates VI Eupator
 Dates: 88 BC–63 BC
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 

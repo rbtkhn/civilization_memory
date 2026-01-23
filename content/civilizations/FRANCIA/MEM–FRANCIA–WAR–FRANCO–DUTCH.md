@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Dutch War
 Dates: 1672–1678 AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

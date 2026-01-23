@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Neva River (Река Нева)
 Dates: Antiquity–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 ARC–RUSSIA Version: v1.5
 Last Update: January 2026
 Word Count: ~3,850

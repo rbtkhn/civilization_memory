@@ -9,7 +9,7 @@ Civilization: ROME
 Region: SYRIA (Eastern Mediterranean)
 Subject: Syria as Imperial Depth, Transit Corridor, and Stress Multiplier
 Dates: c. 300 BC–AD 637
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,150
 

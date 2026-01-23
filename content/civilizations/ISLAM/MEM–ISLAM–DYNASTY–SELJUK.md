@@ -7,7 +7,7 @@ Civilization: ISLAM
 Regime: SUNNI IMPERIAL RESTORATION / TURKIC INTEGRATION (c. 1037–1194 AD)
 Subject: Seljuk Dynasty
 Dates: 11th–12th centuries AD
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

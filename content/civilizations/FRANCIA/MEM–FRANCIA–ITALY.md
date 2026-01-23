@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Italy (Legitimacy Mirror, Cultural Ancestor, and Strategic Temptation)
 Dates: Medieval era–present
-Class: MEM (Memory)
+Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,750
 
