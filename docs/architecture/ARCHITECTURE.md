@@ -51,6 +51,14 @@ The Civilizational Memory Codex (CMC) Console is a **local-first web application
 │  - file_registry                     │
 │  - validation_logs                   │
 │  - change_history                    │
+│                                      │
+│  Layer Interaction Tables (NEW):     │  ← Pipeline Tracking
+│  - learning_event_records            │     MEM ingestion events
+│  - rll_registry                      │     RLL lifecycle states
+│  - binding_event_records             │     SCHOLAR → CORE promotions
+│  - scholar_annotation_records        │     MEM annotations
+│  - cross_layer_conflicts             │     Conflict tracking
+│  - pipeline_audit_log                │     Append-only audit trail
 └─────────────────────────────────────┘
 ```
 
@@ -64,6 +72,13 @@ The Civilizational Memory Codex (CMC) Console is a **local-first web application
 │  Validator Service                   │  ← Structure, ARC compliance
 ├─────────────────────────────────────┤
 │  Mode Service                        │  ← Write/Learn/Lecture enforcement
+├─────────────────────────────────────┤
+│  Pipeline Services (NEW)             │  ← Layer Interaction Protocol
+│   ├─ Ingestion Service               │     MEM → SCHOLAR flow
+│   ├─ Promotion Service               │     SCHOLAR → CORE flow
+│   ├─ Lifecycle Service               │     RLL state management
+│   ├─ Conflict Service                │     Cross-layer resolution
+│   └─ Audit Service                   │     Traceability & audit
 └─────────────────────────────────────┘
 ```
 
@@ -75,6 +90,16 @@ The Civilizational Memory Codex (CMC) Console is a **local-first web application
 /api/validate/:id          - Validate specific file
 /api/mode/set              - Set active mode (Write/Learn/Lecture)
 /api/mode/status           - Get current mode status
+
+# Layer Interaction Pipeline (NEW)
+/api/pipeline/ingest       - MEM ingestion operations
+/api/pipeline/promote      - RLL promotion proposals
+/api/pipeline/bind         - Bind RLL to CORE
+/api/pipeline/conflicts    - Cross-layer conflict management
+/api/pipeline/audit        - Audit trail queries
+/api/rll/:id               - RLL registry operations
+/api/rll/:id/review        - Trigger RLL review
+/api/rll/:id/supersede     - Supersede RLL
 ```
 
 ### 4. UI Layer
@@ -326,11 +351,74 @@ tools/cmc-console/
 - Anchored insertion
 - Confirmation-gated writes
 
+### Phase 4.5: Layer Interaction Pipeline (NEW)
+- **Governed by**: LAYER–INTERACTION–PROTOCOL v1.0
+- **Implementation**: LAYER–INTERACTION–IMPLEMENTATION.md
+
+Components:
+- **Ingestion Pipeline** (MEM → SCHOLAR)
+  - Learning Event Records (LER)
+  - Extraction and pattern candidate generation
+  - Confidence assessment
+  - Confirmation-gated ingestion
+- **Promotion Pipeline** (SCHOLAR → CORE)
+  - RLL Registry and lifecycle management
+  - Coherence audit system
+  - Binding Event Records (BER)
+  - Propagation verification
+- **Cross-Layer Infrastructure**
+  - Conflict detection and resolution
+  - Scholar Annotation Records (SAR)
+  - Constraint feedback loops
+  - Pipeline audit trail
+
+Database Extensions:
+- `learning_event_records` — MEM ingestion tracking
+- `rll_registry` — RLL lifecycle states
+- `binding_event_records` — SCHOLAR → CORE promotions
+- `scholar_annotation_records` — MEM annotations
+- `cross_layer_conflicts` — Conflict tracking
+- `pipeline_audit_log` — Append-only audit trail
+
+Service Layer:
+- `ingestion.service` — MEM → SCHOLAR protocol
+- `promotion.service` — SCHOLAR → CORE protocol
+- `lifecycle.service` — RLL state management
+- `conflict.service` — Cross-layer conflict resolution
+- `audit.service` — Traceability and audit
+
+API Routes:
+- `/api/pipeline/ingest` — MEM ingestion operations
+- `/api/pipeline/promote` — RLL promotion
+- `/api/pipeline/bind` — RLL binding to CORE
+- `/api/pipeline/conflicts` — Conflict management
+- `/api/pipeline/audit` — Audit trail queries
+- `/api/rll/*` — RLL registry operations
+
+UI Components:
+- Pipeline Visualization dashboard
+- Ingestion Queue manager
+- Promotion Queue manager
+- RLL Registry browser
+- Conflict Resolution dashboard
+- Audit Explorer with traceability chains
+
 ### Phase 5: Lecture Mode
 - Mode locking
 - LOGE enforcement
 - Explicit branching control
 - Option generation UI
+
+---
+
+## Related Architecture Documents
+
+| Document | Purpose |
+|----------|---------|
+| [LAYER–INTERACTION–PROTOCOL.md](./LAYER–INTERACTION–PROTOCOL.md) | Formal governance for MEM → SCHOLAR → CORE knowledge pipeline |
+| [LAYER–INTERACTION–IMPLEMENTATION.md](./LAYER–INTERACTION–IMPLEMENTATION.md) | Database schemas, TypeScript interfaces, and service definitions |
+| [SCHOLAR_MODE_ARCHITECTURE.md](./SCHOLAR_MODE_ARCHITECTURE.md) | SCHOLAR sub-mode contracts (TEACH/LEARN/WRITE) |
+| [OGE_ARCHITECTURE.md](./OGE_ARCHITECTURE.md) | Option Generation Engine specification |
 
 ---
 
