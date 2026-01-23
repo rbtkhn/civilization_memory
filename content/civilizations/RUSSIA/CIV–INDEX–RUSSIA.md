@@ -1,4 +1,4 @@
-CIV–INDEX–RUSSIA — v2.0
+CIV–INDEX–RUSSIA — v2.2
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -271,4 +271,4 @@ Word Count: ~1,300
 TOTAL REGISTERED FILES: One hundred (100) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v2.1
+END OF FILE — CIV–INDEX–RUSSIA v2.2
