@@ -1,9 +1,11 @@
-MEM–RUSSIA–WAR–AUSTERLITZ — v2.0
+MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
 Version: 2.0
+Supersedes: v2.0 (renamed from MEM–RUSSIA–WAR–AUSTERLITZ)
+Upgrade Type: RENAME (MEM–RUSSIA–WAR–AUSTERLITZ → MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Austerlitz (Битва под Аустерлицем)
 Dates: 2 December 1805 AD
@@ -238,7 +240,7 @@ XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-"MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–AUSTERLITZ
+"MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ
 Status: ACTIVE
 Exploration options available."
 
@@ -255,5 +257,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–AUSTERLITZ v2.0
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ v2.0
 ────────────────────────────────────────────────────────────
