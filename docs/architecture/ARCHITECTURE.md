@@ -227,19 +227,20 @@ Rules:
 
 ---
 
-## ARC Compliance Validation
+## Evidence-Based Compliance Validation
 
-ARC (Source Requirements) validation without interpretation:
+EQS (Evidence Quality Standards) validation with objective criteria:
 
-- **Ancient era**: Require ancient primary sources
-- **Medieval era**: Require medieval primary sources
-- **Modern era**: Require modern primary sources
-- Verify verbatim quotations present where required
-- Check balance between source classes
-- Validate correct placement of quotations
+- **PRIMARY**: Direct evidence from subject period (≥2 quotations minimum)
+- **CONTEXTUAL**: Contemporary analysis (≥1 quotation minimum)
+- **SECONDARY**: Scholarly synthesis (≥2 scholars, ≥1 quote each minimum)
+- **CRITICAL**: Historiographical evaluation (≥1 quotation minimum)
+- Verify subject type declaration and applied requirements matrix
+- Validate EQS criteria: Authority, Relevance, Context, Limitation (≥2 must be met)
+- Confirm adaptive scaling based on source availability and complexity
 
-**May flag**: Missing sources, imbalanced sourcing, structural noncompliance  
-**May NOT**: Judge adequacy of arguments, decide historiographical merit
+**May flag**: Insufficient category coverage, EQS criteria not met, improper subject type application
+**May NOT**: Judge scholarly merit, impose additional requirements beyond matrix
 
 ---
 

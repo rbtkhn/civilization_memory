@@ -1,31 +1,39 @@
-CIV–MEM–TEMPLATE — v2.3
+CIV–MEM–TEMPLATE — v3.0
 Civilizational Memory Codex · Memory File Enforcement Template
-Canonical Standards · Source–Causality–Connectivity · ARC Quality Threshold & Binary MEM Connection Edition
+Evidence-Based Standards · Adaptive Requirements · Simplified Quality Assessment
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.2
-Upgrade Type: ADDITIVE · MEM CONNECTION BINARY ENFORCEMENT
+Supersedes: CIV–MEM–TEMPLATE v2.3
+Upgrade Type: MAJOR · EVIDENCE-BASED ARC REDESIGN
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
 Wordcount: ~4,150
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.3)
+UPGRADE NOTE (v3.0) — MAJOR ARC REDESIGN
 ────────────────────────────────────────────────────────────
-This version preserves ALL structure, authority hierarchy, lock semantics,
-and evidentiary requirements from CIV–MEM–TEMPLATE v2.2.
+This version implements fundamental ARC framework improvements:
 
-v2.3 introduces a single, additive governance clarification:
+EVIDENCE-BASED CATEGORIZATION:
+• Replaces temporal categories (Ancient/Medieval/Modern) with functional ones
+• PRIMARY: Direct evidence from subject period
+• CONTEXTUAL: Contemporary/near-contemporary analysis
+• SECONDARY: Scholarly analysis and synthesis
+• CRITICAL: Modern historiographical evaluation
 
-• Formalizes binary MEM Connection enforcement
-• Prohibits weak, contextual, or illustrative connections
-• Eliminates strength grading, scoring, or ranking
-• Clarifies MEM topology as structural dependency mapping only
+ADAPTIVE REQUIREMENTS MATRIX:
+• Requirements scale by subject complexity and source availability
+• Eliminates arbitrary fixed minimums
+• Enables appropriate evidentiary standards for all subject types
 
-No quotation minimums are altered.
-No ARC category rules are changed.
-No evidentiary thresholds are weakened.
+SIMPLIFIED QUALITY STANDARDS:
+• Replaces subjective QTT-ARC with objective EQS criteria
+• Clear pass/fail standards based on demonstrable elements
+• Authority, Relevance, Context, Limitation requirements
+
+MAINTAINS: All structural requirements, authority hierarchy, and evidentiary rigor
+BREAKS COMPATIBILITY: With temporal category-based ARC canons (requires migration)
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -96,66 +104,45 @@ Permitted:
 • Constraint recognition
 
 ────────────────────────────────────────────────────────────
-V. ARC SOURCE CATEGORIES (FIXED)
+V. ARC SOURCE CATEGORIES (EVIDENCE-BASED)
 ────────────────────────────────────────────────────────────
-All quotations MUST derive from ARC–[CIV] categories:
+All quotations MUST derive from ARC evidence-based categories:
 
-A) ANCIENT
-B) MEDIEVAL
-C) EARLY MODERN
-D) MODERN
+A) PRIMARY — Direct evidence from the subject period
+B) CONTEXTUAL — Contemporary or near-contemporary analysis
+C) SECONDARY — Scholarly analysis and synthesis
+D) CRITICAL — Modern historiographical evaluation
 
-Category definitions are governed exclusively by ARC law.
-
-────────────────────────────────────────────────────────────
-VI. ARC QUALITY THRESHOLD TEST (QTT–ARC)
-────────────────────────────────────────────────────────────
-QTT–ARC defines the minimum functional quality required for
-quotations by temporal category.
-
-This test governs admissibility, not interpretation.
+Category definitions are governed by evidentiary purpose, not temporal origin.
 
 ────────────────────────────────────────────────────────────
-VI.A CATEGORY-SENSITIVE QUALITY THRESHOLDS
+VI. EVIDENCE QUALITY STANDARDS (EQS)
 ────────────────────────────────────────────────────────────
-ANCIENT:
-• Function: Direct testimony
-• Threshold: Illustrative / evidentiary
-• Latitude: HIGH
+EQS defines objective quality requirements for all quotations.
 
-MEDIEVAL:
-• Function: Continuity witness
-• Threshold: Illustrative + contextual
-• Latitude: HIGH
-
-EARLY MODERN:
-• Function: Historiographic interpretation
-• Threshold: Analytical (moderate)
-• Latitude: LIMITED
-
-MODERN:
-• Function: Structural explanation
-• Threshold: Analytical (high)
-• Latitude: LOW
+This standard governs admissibility through demonstrable criteria.
 
 ────────────────────────────────────────────────────────────
-VI.B PASS / FAIL CRITERIA
+VI.A PASS CRITERIA (Must Meet ≥2)
 ────────────────────────────────────────────────────────────
-A quotation PASSES QTT–ARC if it does at least ONE:
+A quotation PASSES EQS if it demonstrates:
 
-• Explains why authority takes a given form
-• Interprets legitimacy or continuity
-• Identifies structural mechanisms or constraints
-• Reframes inherited narratives analytically
+• AUTHORITY: Source credibility clearly established
+• RELEVANCE: Direct connection to MEM claims shown
+• CONTEXT: Historical/cultural context provided
+• LIMITATION: Source constraints or biases acknowledged
 
-A quotation FAILS QTT–ARC if it is:
+────────────────────────────────────────────────────────────
+VI.B FAIL CRITERIA
+────────────────────────────────────────────────────────────
+A quotation FAILS EQS if it exhibits:
 
-• Purely narrative or descriptive
-• Chronological without interpretation
-• Merely derivative of earlier sources
-• Decorative or encyclopedic
+• No analytical engagement with source content
+• Pure description without interpretive value
+• Misrepresentation of source intent
+• Failure to acknowledge evidentiary limitations
 
-QTT–ARC failure is procedural, not interpretive.
+EQS failure blocks canonical advancement.
 
 ────────────────────────────────────────────────────────────
 VI.C GOVERNANCE CONSEQUENCES
@@ -190,14 +177,69 @@ This substitution is explicit and disclosed.”
 Silent substitution is PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-VIII. QUOTATION MINIMUMS (UNCHANGED)
+VIII. ADAPTIVE QUOTATION REQUIREMENTS
 ────────────────────────────────────────────────────────────
-• Ancient: ≥3 quotations, ≥75 words aggregate
-• Medieval: ≥2 quotations (when applicable)
-• Early Modern: ≥2 quotations OR declared substitution
-• Modern: ≥2 quotations (minimum)
+Requirements scale based on subject complexity and source availability:
+
+PRIMARY CATEGORY (Direct Evidence):
+• ≥2 quotations, ≥50 words total (minimum)
+• ≥3 quotations for well-documented subjects
+• N/A for modern subjects with no primary sources
+
+CONTEXTUAL CATEGORY (Contemporary Analysis):
+• ≥1 quotation, ≥25 words (minimum)
+• ≥2 quotations for subjects with rich contemporary sources
+• ≥1 quotation for interpretive or modern subjects
+
+SECONDARY CATEGORY (Scholarly Analysis):
+• ≥2 distinct scholars, ≥1 quotation each (minimum)
+• ≥3 scholars for complex or contested subjects
+• ≥4 scholars for interpretive or theoretical topics
+
+CRITICAL CATEGORY (Historiographical Evaluation):
+• ≥1 quotation addressing methodology or limitations
+• ≥2 quotations for subjects requiring meta-analysis
+• Optional for straightforward factual subjects
 
 ────────────────────────────────────────────────────────────
+VIII.B SUBJECT TYPE MATRIX
+────────────────────────────────────────────────────────────
+Apply requirements based on subject characteristics:
+
+WELL-DOCUMENTED EVENT:
+• PRIMARY: ≥3 quotations (rich source base)
+• CONTEXTUAL: ≥2 quotations (multiple contemporary perspectives)
+• SECONDARY: ≥3 scholars (analytical depth needed)
+• CRITICAL: ≥1 quotation (methodological awareness)
+
+SPARSE SOURCES SUBJECT:
+• PRIMARY: ≥2 quotations (limited availability)
+• CONTEXTUAL: ≥1 quotation (when available)
+• SECONDARY: ≥2 scholars (compensate for source limitations)
+• CRITICAL: Optional (may not be necessary)
+
+MODERN SUBJECT (19th-20th century):
+• PRIMARY: N/A (no primary sources exist)
+• CONTEXTUAL: ≥1 quotation (contemporary accounts)
+• SECONDARY: ≥3 scholars (primary analytical burden)
+• CRITICAL: ≥2 quotations (modern historiography essential)
+
+INTERPRETIVE/THEORETICAL SUBJECT:
+• PRIMARY: ≥1 quotation (establish factual foundation)
+• CONTEXTUAL: ≥1 quotation (period context)
+• SECONDARY: ≥4 scholars (multiple perspectives needed)
+• CRITICAL: ≥2 quotations (theoretical evaluation required)
+
+────────────────────────────────────────────────────────────
+VIII.C REQUIREMENT DECLARATION
+────────────────────────────────────────────────────────────
+MEM files MUST declare their subject type and applied requirements:
+
+SUBJECT TYPE DECLARATION:
+"This MEM addresses a [WELL-DOCUMENTED/SPARSE SOURCES/MODERN/INTERPRETIVE] subject.
+Applied requirements: PRIMARY ≥X, CONTEXTUAL ≥Y, SECONDARY ≥Z, CRITICAL ≥W"
+
+This declaration enables governance validation and ensures appropriate evidentiary standards.
 IX. SECONDARY SOURCE ENTANGLEMENT
 ────────────────────────────────────────────────────────────
 Secondary quotations MUST be analytically integrated.
