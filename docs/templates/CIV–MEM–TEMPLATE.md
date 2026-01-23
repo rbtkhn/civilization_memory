@@ -1,14 +1,26 @@
-CIV–MEM–TEMPLATE — v2.5
+CIV–MEM–TEMPLATE — v2.6
 Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
+20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection · Bibliography Integration
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.3
-Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
+Supersedes: CIV–MEM–TEMPLATE v2.5
+Upgrade Type: ADDITIVE · MANDATORY MEM BIBLIOGRAPHY
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Word Count: ~4,200
+Word Count: ~4,300
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.6) — MANDATORY MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+This version adds mandatory bibliography sections to all MEM files.
+
+NEW REQUIREMENT:
+• MEM BIBLIOGRAPHY section listing verbatim cited sources and unused scholarly sources
+• Ensures scholarly transparency and academic chain of custody
+• Supports future verification and comparative scholarship
+
+All existing MEM files require bibliography section addition for v2.6 compliance.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD
@@ -385,7 +397,22 @@ Forbidden:
 • had to
 
 ────────────────────────────────────────────────────────────
-XVIII. STORAGE & MIRRORING RULE
+XVIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Every MEM file MUST include a bibliography section listing all scholarly sources engaged with during development.
+
+Format:
+• VERBATIM CITED SOURCES: Full bibliographic entries for all sources with direct quotes
+• UNUSED SCHOLARLY SOURCES: Full bibliographic entries for important works referenced but not directly quoted
+
+Purpose:
+• Ensures scholarly transparency
+• Enables future source verification
+• Supports academic chain of custody
+• Facilitates comparative scholarship
+
+────────────────────────────────────────────────────────────
+XX. STORAGE & MIRRORING RULE
 ────────────────────────────────────────────────────────────
 This file MUST be mirrored verbatim into:
 – CIV–CORE–[CIV] (all civilizations)
@@ -395,12 +422,12 @@ This file MUST be mirrored verbatim into:
 Any divergence invalidates MEM compliance for that civilization.
 
 ────────────────────────────────────────────────────────────
-XIX. VERSIONING & LOCK
+XXI. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • Deletions forbidden
 • Canonical lock absolute
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.5
+END OF FILE — CIV–MEM–TEMPLATE v2.6
 ────────────────────────────────────────────────────────────

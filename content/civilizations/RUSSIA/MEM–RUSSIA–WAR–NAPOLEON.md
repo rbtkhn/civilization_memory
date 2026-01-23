@@ -2,9 +2,9 @@ MEM–RUSSIA–WAR–NAPOLEON — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · LIEVEN + TOLSTOY QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.0 → v2.0)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: War with Napoleonic France (Отечественная война 1812 года)
 Dates: 1812–1814 AD
@@ -255,7 +255,18 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
+• Leo Tolstoy, *War and Peace* (1869)
+
+UNUSED SCHOLARLY SOURCES:
+• Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Detailed analysis of Kutuzov's supreme command during the 1812 campaign and strategic decision-making
+• Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) - Comprehensive account of the campaign from multiple perspectives
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -276,5 +287,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v2.0
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v2.1
 ────────────────────────────────────────────────────────────

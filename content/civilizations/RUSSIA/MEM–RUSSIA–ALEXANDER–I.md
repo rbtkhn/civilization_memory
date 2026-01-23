@@ -2,9 +2,9 @@ MEM–RUSSIA–ALEXANDER–I — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · LIEVEN QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 → v2.0)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
@@ -293,7 +293,18 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
+
+UNUSED SCHOLARLY SOURCES:
+• Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Analysis of the complex relationship between Alexander I and Kutuzov during the 1812 campaign
+• Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) - Examination of Alexander's strategic decisions and court politics during the invasion
+• Janet Hartley, *Alexander I* (Pearson Education Limited, 1994) - Analysis of Alexander's personality and decision-making during the Napoleonic crisis
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -302,5 +313,5 @@ Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–I v1.2
+END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.1
 ────────────────────────────────────────────────────────────

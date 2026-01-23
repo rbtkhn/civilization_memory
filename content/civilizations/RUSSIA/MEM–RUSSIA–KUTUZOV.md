@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · TOLSTOY QUOTATION ENHANCEMENT (v2.0 → v2.1)
+Supersedes: v2.1
+Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.1 → v2.2)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Mikhail Illarionovich Kutuzov (Михаил Илларионович Кутузов)
 Dates: 1745–1813 AD (decisive role: 1812–1813)
@@ -327,7 +327,18 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (MANDATORY)
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
+• Leo Tolstoy, *War and Peace* (1869)
+
+UNUSED SCHOLARLY SOURCES:
+• Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Comprehensive modern biography providing detailed analysis of Kutuzov's military career, strategic thinking, and relationship with Tsar Alexander I
+• Alexander Mikaberidze, *The Battle of Borodino: Napoleon Against Kutuzov* (Pen & Sword, 2007) - Detailed tactical analysis of the Battle of Borodino from Russian perspective
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -348,5 +359,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KUTUZOV v2.1
+END OF FILE — MEM–RUSSIA–KUTUZOV v2.2
 ────────────────────────────────────────────────────────────

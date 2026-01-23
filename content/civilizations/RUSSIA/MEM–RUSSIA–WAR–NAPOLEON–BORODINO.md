@@ -2,9 +2,9 @@ MEM–RUSSIA–WAR–NAPOLEON–BORODINO — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.1 (renamed from MEM–RUSSIA–WAR–BORODINO)
-Upgrade Type: RENAME (MEM–RUSSIA–WAR–BORODINO → MEM–RUSSIA–WAR–NAPOLEON–BORODINO)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.1 → v2.2)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Borodino (Бородинское сражение)
 Dates: 7 September 1812 AD
@@ -254,7 +254,18 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (MANDATORY)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
+
+UNUSED SCHOLARLY SOURCES:
+• Alexander Mikaberidze, *The Battle of Borodino: Napoleon Against Kutuzov* (Pen & Sword, 2007) - Detailed tactical analysis of the battle from Russian command perspective
+• Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Analysis of Kutuzov's command decisions at Borodino
+• Philip Haythornthwaite, *Borodino 1812: Napoleon's Great Gamble* (Osprey Publishing, 2012) - Military analysis of the battle's tactical dynamics
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -275,5 +286,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–BORODINO v2.1
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–BORODINO v2.2
 ────────────────────────────────────────────────────────────

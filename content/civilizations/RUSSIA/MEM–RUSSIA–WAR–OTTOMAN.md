@@ -2,7 +2,9 @@ MEM–RUSSIA–WAR–OTTOMAN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v1.0 → v1.1)
 Civilization: RUSSIA (Русская цивiliзация)
 Subject: Russo–Ottoman Wars (Imperial Systemic Arc)
 Dates: c. 1686–1792 AD
@@ -102,5 +104,16 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–OTTOMAN v1.0
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+(None currently - analytical framework based on primary sources and structural analysis)
+
+UNUSED SCHOLARLY SOURCES:
+• Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Detailed analysis of Kutuzov's early campaigns against the Ottomans (1787-1791) and his facial wound
+• Virginia Aksan, *Ottoman Wars 1700-1870: An Empire Besieged* (Routledge, 2007) - Analysis of Ottoman military decline during the period of Russo-Ottoman conflicts
+• Brian Davies, *Empire and Military Revolution in Eastern Europe* (Continuum, 2011) - Examination of Russian military reforms during the Ottoman wars
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–OTTOMAN v1.1
 ────────────────────────────────────────────────────────────
