@@ -1,11 +1,10 @@
-CIV–CORE–TEMPLATE — v1.9
+CIV–CORE–TEMPLATE — v2.0
 Civilizational Strategy Codex · Civilization Core Engine
-Global Structural Template
-OGE SYSTEM-PRIMITIVE RECOGNITION EDITION
+Global Structural Template · Phase-Aware Enhanced Scholarly Edition
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–CORE–TEMPLATE v1.8
-Upgrade Type: GOVERNANCE PATCH · INTERACTION INFRASTRUCTURE HARDENING
+Supersedes: CIV–CORE–TEMPLATE v1.9
+Upgrade Type: MAJOR · PHASE MODEL INTEGRATION + SCHOLARLY ENHANCEMENT
 Activation State: INACTIVE BY DEFAULT
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.0+)
 Governance Mode: STRUCTURAL LOCK
@@ -14,10 +13,10 @@ Lock Level: TOTAL (no silent mutation)
 Governed by:
 • CIV–MEM–CORE v2.0 (global system law)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
-• CIV–SCHOLAR–PROTOCOL v1.9+ (interaction layer only)
+• CIV–SCHOLAR–PROTOCOL v2.0+ (interaction layer only)
 
 Last Update: January 2026
-Word Count: ~3,800
+Word Count: ~4,000
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)
@@ -41,6 +40,27 @@ No authority boundaries are weakened.
 No section ordering is changed.
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0) — PHASE MODEL INTEGRATION + SCHOLARLY ENHANCEMENT
+────────────────────────────────────────────────────────────
+This version achieves architecture consistency and enhanced scholarly integration across the CMC v2.0 ecosystem.
+
+NEW ELEMENTS (MAJOR):
+• Civilization Phase Model awareness (Foundation → Development → Maturity)
+• Enhanced scholarly integration with ARC v2.0 and MEM bibliography standards
+• RLL constraint compatibility for advanced civilization analysis
+• Phase-aware governance framework
+• Enhanced OGE integration with v2.0 interaction protocols
+
+PRESERVED ELEMENTS:
+• All v1.9 structural, semantic, diagnostic, and governance constraints
+• OGE system-primitive recognition
+• Civilization constraint engine function
+• Total structural lock governance
+• Clean separation from SCHOLAR cognition layer
+
+This upgrade synchronizes CORE template with SCHOLAR–PROTOCOL v2.0, SCHOLAR–TEMPLATE v2.0, and ARC–TEMPLATE v2.0 while maintaining CORE layer purity.
+
+────────────────────────────────────────────────────────────
 I. TEMPLATE PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
 CIV–CORE–[CIVILIZATION] defines the structural operating logic of a
@@ -62,7 +82,35 @@ It is NOT:
 CIV–CORE encodes what a civilization can and cannot do under pressure.
 
 ────────────────────────────────────────────────────────────
-II. HEADER REQUIREMENTS (MANDATORY)
+II. CIVILIZATION PHASE MODEL (NEW · v2.0)
+────────────────────────────────────────────────────────────
+CIV–CORE instances operate within three civilization development phases:
+
+PHASE I — FOUNDATION (Default State)
+• Basic structural constraints established
+• Core axioms identified
+• Fundamental boundaries defined
+• OGE infrastructure operational
+• Scholar integration minimal
+
+PHASE II — DEVELOPMENT (Enhanced Scholarly Integration)
+• Advanced constraint discovery
+• RLL compatibility enabled
+• ARC v2.0 scholarly standards integrated
+• Bibliography requirements activated
+• Phase-aware governance operational
+
+PHASE III — MATURITY (Full System Integration)
+• Complete scholarly ecosystem integration
+• Advanced diagnostic capabilities
+• Multi-civilization comparative frameworks
+• Full CMC v2.0+ compatibility
+• Optimal civilization constraint modeling
+
+Phase progression is civilization-specific, not automatic.
+
+────────────────────────────────────────────────────────────
+III. HEADER REQUIREMENTS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Every CIV–CORE instance MUST include, verbatim:
 
@@ -77,6 +125,7 @@ Every CIV–CORE instance MUST include, verbatim:
 • Conceptual Lineage (if applicable)
 • DIB Status (if applicable)
 • Scholar Reference Mode (if applicable)
+• Civilization Phase (v2.0+ requirement)
 • Lock Level
 • Last Update (Month Year)
 • WORDCOUNT
@@ -84,7 +133,7 @@ Every CIV–CORE instance MUST include, verbatim:
 Omission = structural noncompliance.
 
 ────────────────────────────────────────────────────────────
-III. STRUCTURAL IMMUTABILITY RULE
+IV. STRUCTURAL IMMUTABILITY RULE
 ────────────────────────────────────────────────────────────
 This template enforces:
 
@@ -102,7 +151,7 @@ CIV–CORE files may EXPAND but may not:
 • Override axioms implicitly
 
 ────────────────────────────────────────────────────────────
-IV. CIV–CORE ↔ SCHOLAR AUTHORITY SEPARATION
+V. CIV–CORE ↔ SCHOLAR AUTHORITY SEPARATION
 ────────────────────────────────────────────────────────────
 SCHOLAR artifacts are advisory only.
 
@@ -116,7 +165,7 @@ Hard rules:
 CIV–CORE remains the supreme constraint surface.
 
 ────────────────────────────────────────────────────────────
-V. REQUIRED CORE SECTIONS (ORDER LOCKED)
+VI. REQUIRED CORE SECTIONS (ORDER LOCKED)
 ────────────────────────────────────────────────────────────
 All CIV–CORE instances MUST include, in this exact order:
 
@@ -144,7 +193,7 @@ XX.   Mandatory Verdict Block
 Optional modules MAY be appended only after Section XX.
 
 ────────────────────────────────────────────────────────────
-VI. DIAGNOSTIC DISCIPLINE RULE
+VIII. DIAGNOSTIC DISCIPLINE RULE
 ────────────────────────────────────────────────────────────
 All indicators must be:
 • Explicit
@@ -159,7 +208,7 @@ Illegal practices:
 • Vibes-based assessment
 
 ────────────────────────────────────────────────────────────
-VII. FAILURE PHYSICS SUPREMACY
+VIII. FAILURE PHYSICS SUPREMACY
 ────────────────────────────────────────────────────────────
 Failure physics override:
 • Intent
@@ -171,7 +220,7 @@ If indicators conflict:
 Structural continuity > liquidity > legitimacy optics
 
 ────────────────────────────────────────────────────────────
-VIII. EXIT LOGIC ENFORCEMENT
+IX. EXIT LOGIC ENFORCEMENT
 ────────────────────────────────────────────────────────────
 Exit is a first-class civilizational function.
 
@@ -181,7 +230,7 @@ All CIV–CORE files must encode:
 • Exit invalidation rules
 
 ────────────────────────────────────────────────────────────
-IX. VERDICT INTEGRITY RULE
+X. VERDICT INTEGRITY RULE
 ────────────────────────────────────────────────────────────
 Every CIV–CORE analysis MUST terminate in a Mandatory Verdict Block.
 
@@ -191,7 +240,7 @@ Verdicts may NOT:
 • Override irreversibility status
 
 ────────────────────────────────────────────────────────────
-X. VERSIONING & UPGRADE LAW
+XI. VERSIONING & UPGRADE LAW
 ────────────────────────────────────────────────────────────
 Permitted:
 • Additive clauses
@@ -204,7 +253,7 @@ Forbidden:
 • Constraint weakening
 
 ────────────────────────────────────────────────────────────
-XI. GLOBAL WORDCOUNT LAW (BINDING)
+XII. GLOBAL WORDCOUNT LAW (BINDING)
 ────────────────────────────────────────────────────────────
 Every CIV–CORE instance MUST declare a WORDCOUNT.
 
@@ -214,7 +263,7 @@ Purpose:
 • Truncation prevention
 
 ────────────────────────────────────────────────────────────
-XII. ACADEMIC REFERENCE CANON (ARC)
+XIII. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
 ARC is a Codex-wide governed object.
 
@@ -231,14 +280,14 @@ ARC defines:
 ARC governance is GLOBAL and binding.
 
 ────────────────────────────────────────────────────────────
-XIII. DOCTRINE MIRRORING RULE
+XIV. DOCTRINE MIRRORING RULE
 ────────────────────────────────────────────────────────────
 If a CIV–DOCTRINE–[CIV] exists, it MUST be mirrored verbatim.
 
 CIV–CORE may cite doctrines ONLY from the mirrored registry.
 
 ────────────────────────────────────────────────────────────
-XIV. OPTION GENERATION ENGINE (OGE) — CORE RECOGNITION
+XV. OPTION GENERATION ENGINE (OGE) — CORE RECOGNITION
 ────────────────────────────────────────────────────────────
 OGE is recognized as SYSTEM-LEVEL INTERACTION INFRASTRUCTURE.
 
@@ -263,13 +312,13 @@ CIV–CORE merely acknowledges its mandatory presence.
 Legacy option engines (LOGE, IOGE, TOGE) are deprecated and non-operative.
 
 ────────────────────────────────────────────────────────────
-XV. TEMPLATE CANONICAL STATUS
+XVI. TEMPLATE CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 
 All future CIV–CORE files MUST declare:
-“Template Version Used: CIV–CORE–TEMPLATE v1.9”
+“Template Version Used: CIV–CORE–TEMPLATE v2.0”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v1.9
+END OF FILE — CIV–CORE–TEMPLATE v2.0
 ────────────────────────────────────────────────────────────
