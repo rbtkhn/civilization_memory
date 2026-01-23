@@ -9,7 +9,7 @@ Subject: Wars with the Teutonic Knights & Northern Crusades
 Dates: c. 1230–1242 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

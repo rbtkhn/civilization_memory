@@ -12,7 +12,7 @@ Subject: Armenia as Buffer Kingdom, Legitimacy Battleground, and Imperial Stress
 Dates: c. 200 BC – AD 640
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

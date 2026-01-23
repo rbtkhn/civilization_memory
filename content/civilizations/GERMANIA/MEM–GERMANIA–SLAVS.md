@@ -9,7 +9,7 @@ Subject: Germanic–Slavic Civilizational Interface
 Dates: Roman era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,950
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

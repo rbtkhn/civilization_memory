@@ -9,7 +9,7 @@ Subject: Portuguese Restoration War (Indirect War, Balance Intervention, and Per
 Dates: 1640–1668 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

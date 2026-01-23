@@ -9,7 +9,7 @@ Subject: Siberia (Сибирь)
 Dates: 16th century AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -10,7 +10,7 @@ Subject: Yaroslav the Wise (Ярослав Мудрый)
 Dates: c. 978–1054 AD (rule c. 1019–1054)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,250
+Word Count: ~2,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

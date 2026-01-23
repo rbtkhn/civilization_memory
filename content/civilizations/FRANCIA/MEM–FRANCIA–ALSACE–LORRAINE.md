@@ -6,7 +6,7 @@ Subject: Alsace–Lorraine (Alsace–Moselle)
 Dates: 1871–1945 (primary arc; longer memory tail)
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -10,7 +10,7 @@ Subject: Libya (Tripolitania and Cyrenaica)
 Dates: Republican era – Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

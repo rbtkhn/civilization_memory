@@ -9,7 +9,7 @@ Subject: American Civil War (Procedural Union vs Internal Secession)
 Dates: 1861–1865 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

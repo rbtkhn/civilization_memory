@@ -12,7 +12,7 @@ Subject: The Caspian Sea as Strategic Horizon and Non-Roman World Boundary
 Dates: Hellenistic era – Late Roman period
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,800
+Word Count: ~1,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

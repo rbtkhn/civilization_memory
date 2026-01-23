@@ -10,7 +10,7 @@ Subject: The Great Schism (East–West Schism)
 Dates: c. AD 1054 (with long prelude and aftershock)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,250
+Word Count: ~1,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

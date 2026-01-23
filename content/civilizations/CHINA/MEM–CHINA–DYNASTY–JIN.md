@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Jin Dynasty (金)
 Dates: 1115–1234 AD
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

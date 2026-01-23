@@ -10,7 +10,7 @@ Subject: War of the Fifth Coalition (Elastic Recovery,
 Dates: 1809 AD
 Class: MEM (War)
 Last Update: January 2026
-Wordcount: ~1,950
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

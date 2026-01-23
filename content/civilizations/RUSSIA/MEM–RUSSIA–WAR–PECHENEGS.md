@@ -9,11 +9,11 @@ Subject: Pecheneg Wars (Печенежские войны) — Steppe Frontier A
 Dates: 915–1036 AD (major conflicts: 968–1036)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,200
+Word Count: ~2,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

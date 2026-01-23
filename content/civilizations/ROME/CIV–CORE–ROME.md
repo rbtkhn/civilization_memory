@@ -15,7 +15,7 @@ DIB Status: DEFINED · DISABLED
 Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)
 Lock Level: FULL
 Last Update: January 2026
-WORDCOUNT: ~2,780
+Word Count: ~2,780
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)
@@ -528,12 +528,12 @@ Civilizational Memory Codex · Memory File Enforcement Template
 20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.3
+Supersedes: CIV–MEM–TEMPLATE v2.5
 Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Wordcount: ~4,200
+Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD

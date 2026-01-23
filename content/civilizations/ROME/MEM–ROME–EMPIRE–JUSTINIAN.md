@@ -12,7 +12,7 @@ Subject: Flavius Petrus Sabbatius Justinianus (Justinian I)
 Dates: c. AD 482–565
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,950
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

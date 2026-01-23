@@ -12,7 +12,7 @@ Subject: Florence (Civic Revival, Cultural Reconstitution, and Post-Imperial Rom
 Dates: c. 1100–1550 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

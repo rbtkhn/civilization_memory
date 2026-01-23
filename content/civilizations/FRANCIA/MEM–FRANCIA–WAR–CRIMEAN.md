@@ -9,7 +9,7 @@ Subject: Crimean War (Restored Prestige, Alliance Leadership, and Illusory Renew
 Dates: 1853–1856 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -11,7 +11,7 @@ Subject: Sparta
 Dates: c. 700 BC – 371 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

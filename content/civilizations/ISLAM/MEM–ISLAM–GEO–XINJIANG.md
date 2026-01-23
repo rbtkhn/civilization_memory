@@ -5,7 +5,7 @@ Civilization: ISLAM (دار الإسلام)
 Subject: Xinjiang / Eastern Turkestan (新疆 / تركستان الشرقية)
 Dates: 8th century – Present
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

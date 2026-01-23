@@ -2,7 +2,7 @@ MEM–RUSSIA–GOLDEN–HORDE — v1.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.0)
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 1.1
 Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
@@ -11,11 +11,11 @@ Subject: Golden Horde (Золотая Орда)
 Dates: c. 1240–1502 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.0
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -215,7 +215,7 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparison: Golden Horde vs Ottoman suzerainty
 6) Muscovy as successor-interface state
 7) Counterfactual: sustained Horde consolidation
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.0)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
 
 User must select ONE option.
 

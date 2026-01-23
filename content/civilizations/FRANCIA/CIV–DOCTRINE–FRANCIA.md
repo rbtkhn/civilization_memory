@@ -8,7 +8,7 @@ Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–FRANCIA (Explicit Acceptance Only)
 Compatibility: CIV–CORE–FRANCIA v1.x
 Last Update: January 2026
-Wordcount: ~1,220
+Word Count: ~1,220
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY

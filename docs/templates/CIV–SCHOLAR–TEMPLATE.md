@@ -7,7 +7,7 @@ Upgrade Type: MAJOR · PHASE-GOVERNANCE + RLL AUTHORITY FORMALIZATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
 Last Update: January 2026
-Wordcount: ~4,600
+Word Count: ~4,600
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.0)
@@ -225,7 +225,7 @@ Upgrade Type: MAJOR · PHASE-GOVERNANCE + RLL AUTHORITY FORMALIZATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
 Last Update: January 2026
-Wordcount: ~4,600
+Word Count: ~4,600
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.0)

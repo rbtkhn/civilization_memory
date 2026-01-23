@@ -11,7 +11,7 @@ Subject: Emirate of Granada
 Dates: 1238 AD – 1492 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,400
+Word Count: ~1,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

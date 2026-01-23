@@ -10,7 +10,7 @@ Subject: Pacific Ocean System (Peripheral Projection, Prestige Outpost, Strategi
 Dates: 18th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

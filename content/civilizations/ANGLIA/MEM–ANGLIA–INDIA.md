@@ -9,7 +9,7 @@ Subject: India (Imperial Backbone, Administrative Laboratory, and Exit Test)
 Dates: 1600 AD–1947 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

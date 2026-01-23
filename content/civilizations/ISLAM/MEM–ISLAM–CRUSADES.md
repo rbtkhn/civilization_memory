@@ -10,7 +10,7 @@ Subject: The Crusades (Islamic Perspective)
 Dates: 11th–13th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

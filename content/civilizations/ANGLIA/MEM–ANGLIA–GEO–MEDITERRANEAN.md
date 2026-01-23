@@ -9,7 +9,7 @@ Subject: Mediterranean System (Peripheral Arena & Strategic Classroom)
 Dates: Ancient era–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

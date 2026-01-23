@@ -9,11 +9,11 @@ Subject: Cuman Wars (Половецкие войны) — Steppe Alliance Comple
 Dates: 1055–1239 AD (major conflicts: 1090s–1220s)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,400
+Word Count: ~2,400
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

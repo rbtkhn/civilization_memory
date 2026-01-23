@@ -11,7 +11,7 @@ Subject: Continental System (Blocus continental)
 Dates: 1806–1814 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

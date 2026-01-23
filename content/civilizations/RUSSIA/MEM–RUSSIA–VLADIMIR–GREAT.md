@@ -11,10 +11,10 @@ Subject: Vladimir the Great (Владимир Святославич)
 Dates: c. 958–1015 AD (rule c. 980–1015)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,050
+Word Count: ~3,050
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.2
+Governed by: CIV–MEM–TEMPLATE v2.5
 Compatibility: CIV–MEM–CORE v2.0+
 
 ────────────────────────────────────────────────────────────
@@ -131,7 +131,7 @@ file due to descriptive rather than analytical framing.
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with
-CIV–MEM–TEMPLATE v2.2, Category C quotations are replaced by additional
+CIV–MEM–TEMPLATE v2.5, Category C quotations are replaced by additional
 Category D sources. This substitution is explicit and disclosed.
 
 ────────────────────────────────────────────────────────────

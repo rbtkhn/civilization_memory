@@ -11,7 +11,7 @@ Subject: Basque Country (Autonomy, Custom, and Roman Boundary)
 Dates: c. Roman era – 19th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,350
+Word Count: ~1,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

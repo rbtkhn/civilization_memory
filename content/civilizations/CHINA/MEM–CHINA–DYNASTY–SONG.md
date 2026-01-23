@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Song Dynasty (宋)
 Dates: 960–1279 AD
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

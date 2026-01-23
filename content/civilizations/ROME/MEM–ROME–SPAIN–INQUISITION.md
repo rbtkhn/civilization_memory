@@ -11,7 +11,7 @@ Subject: The Spanish Inquisition
 Dates: 1478–1834 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,400
+Word Count: ~1,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

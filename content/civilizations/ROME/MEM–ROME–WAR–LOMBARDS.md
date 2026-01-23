@@ -12,7 +12,7 @@ Subject: The Lombards as Delayed Conquerors and Fragmenters of Roman Italy
 Dates: AD 568 – AD 774
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Word Count: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

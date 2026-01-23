@@ -10,7 +10,7 @@ Dates: Roman era–present
 Class: CIV–INDEX
 Last Update: January 2026
 Total Registered Files: 50 MEM–GERMANIA OBJECTS
-Wordcount: 1275
+Word Count: 1275
 
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 

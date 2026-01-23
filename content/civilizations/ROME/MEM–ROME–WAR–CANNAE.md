@@ -12,7 +12,7 @@ Subject: Battle of Cannae (Systemic Defeat and Adaptive Inflection)
 Dates: 216 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

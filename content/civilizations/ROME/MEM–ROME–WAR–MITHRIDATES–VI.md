@@ -12,7 +12,7 @@ Subject: The Wars of Mithridates VI Eupator
 Dates: 88 BC – 63 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,800
+Word Count: ~2,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -9,7 +9,7 @@ Subject: Isaac Newton
 Dates: 1643–1727 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

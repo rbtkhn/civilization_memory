@@ -9,7 +9,7 @@ Upgrade Type: ADDITIVE · DIRECTORY PARITY RESTORATION · REGISTRATION COMPLETIO
 Civilization: ROME
 Class: CIV–INDEX
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 Total Registered Files: authoritative count governed exclusively by this index
 
 Template Alignment: CIV–MEM–CORE v1.9 (Index-Compatible)

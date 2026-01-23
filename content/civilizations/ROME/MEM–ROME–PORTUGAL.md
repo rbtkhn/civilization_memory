@@ -13,7 +13,7 @@ Subject: Portugal (Maritime Roman Continuation)
 Dates: c. 1139 AD – early modern global empire (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,700
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -9,7 +9,7 @@ Subject: Ottoman–Safavid Wars (Intra-Imperial Fracture and Indirect Containmen
 Dates: c. 1501–1736 AD  
 Class: MEM (Memory)  
 Last Update: February 2026  
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

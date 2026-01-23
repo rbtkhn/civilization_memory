@@ -11,7 +11,7 @@ Subject: The Teutonic Knights (Orden der Brüder vom Deutschen Haus St. Mariens)
 Dates: c. 1190–1525 AD (memory tail far longer)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

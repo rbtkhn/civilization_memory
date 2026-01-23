@@ -10,7 +10,7 @@ Subject: The Federalist Papers (Procedural Containment of Revolution)
 Dates: 1787–1788 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

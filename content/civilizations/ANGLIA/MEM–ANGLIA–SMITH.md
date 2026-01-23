@@ -186,5 +186,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–SMITH v1.3
-WORDCOUNT: ~840
+Word Count: ~840
 ────────────────────────────────────────────────────────────

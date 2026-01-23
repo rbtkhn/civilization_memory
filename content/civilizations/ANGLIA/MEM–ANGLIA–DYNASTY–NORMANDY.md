@@ -201,5 +201,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–DYNASTY–NORMANDY v1.2
-WORDCOUNT: ~900
+Word Count: ~900
 ────────────────────────────────────────────────────────────

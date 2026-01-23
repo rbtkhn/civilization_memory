@@ -12,7 +12,7 @@ Subject: The Vandals as Maritime Secessionists and Imperial Asset Seizure Specia
 Dates: AD 406 – AD 534
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,250
+Word Count: ~2,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

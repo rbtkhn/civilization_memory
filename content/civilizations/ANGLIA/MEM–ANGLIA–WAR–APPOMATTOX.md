@@ -191,5 +191,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–WAR–APPOMATTOX v1.3
-WORDCOUNT: ~860
+Word Count: ~860
 ────────────────────────────────────────────────────────────

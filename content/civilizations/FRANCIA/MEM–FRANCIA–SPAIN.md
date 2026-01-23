@@ -9,7 +9,7 @@ Subject: Spain (Imperial Rival, Counter-Universalism, and Southern Constraint)
 Dates: Early modern era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,800
+Word Count: ~1,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

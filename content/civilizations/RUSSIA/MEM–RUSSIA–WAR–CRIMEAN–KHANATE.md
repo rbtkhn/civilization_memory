@@ -9,7 +9,7 @@ Subject: Wars & Raiding Conflict with the Crimean Khanate
 Dates: c. 1441–1783 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

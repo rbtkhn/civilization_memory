@@ -2,7 +2,7 @@ MEM–RUSSIA–FYODOR–III — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Status: COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.0
 Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · QTT–ARC AUDITED
 Civilization: RUSSIA (Русская цивилизация)
@@ -11,11 +11,11 @@ Subject: Fyodor III Alekseyevich (Фёдор III Алексеевич)
 Dates: 1661–1682 AD (rule: 1676–1682)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -147,7 +147,7 @@ Succession architecture remains fragile.
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with
-CIV–MEM–TEMPLATE v2.2, Category C quotations are replaced by additional
+CIV–MEM–TEMPLATE v2.5, Category C quotations are replaced by additional
 Category D sources. This substitution is explicit and disclosed.
 
 Dominic Lieven captures the structural hinge:

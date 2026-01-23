@@ -13,7 +13,7 @@ Compatibility: CIV–CORE–RUSSIA v1.x
 Governance Authority: CIV–MEM–CORE v2.0 (or higher)
 Derived from: CIV–DOCTRINE–TEMPLATE v2.0
 Last Update: January 2026
-Wordcount: ~1,150
+Word Count: ~1,150
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

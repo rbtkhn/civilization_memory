@@ -9,7 +9,7 @@ Subject: Taiping Rebellion (Indirect Intervention, Order Preservation, and Missi
 Dates: 1850–1864 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,350
+Word Count: ~1,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

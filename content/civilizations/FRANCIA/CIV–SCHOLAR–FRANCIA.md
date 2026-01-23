@@ -15,7 +15,7 @@ Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Last Update: January 2026
-Wordcount: 3900
+Word Count: 3900
 
 Derived from: CIV–SCHOLAR–TEMPLATE v1.2
 Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (or higher)

@@ -11,7 +11,7 @@ Subject: Atlantic Ocean (Indirect Maritime Access & Structural Exclusion)
 Dates: c. 1500 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,150
+Word Count: ~3,150
 ARC Version Pinned: ARC–RUSSIA v1.5
 
 ────────────────────────────────────────────────────────────

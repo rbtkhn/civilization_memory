@@ -6,7 +6,7 @@ Subject: Mongol Empire (蒙古帝国)
 Dates: c. 1206–1368 (China-facing arc)
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

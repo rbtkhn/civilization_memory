@@ -9,7 +9,7 @@ Subject: Hungary (Constraint Civilization, Imperial Counter-Logic, and National 
 Dates: Roman era–1918 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

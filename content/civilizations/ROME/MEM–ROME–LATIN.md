@@ -12,7 +12,7 @@ Subject: Latin Language (Law, Command, and Administrative Universality)
 Dates: c. 7th century BC – medieval continuity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

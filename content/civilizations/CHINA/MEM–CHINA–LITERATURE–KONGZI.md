@@ -8,7 +8,7 @@ Text Corpus: 《论语》 Analects (+ later canonical expansions)
 Dates: 551–479 BC (Spring and Autumn period)
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

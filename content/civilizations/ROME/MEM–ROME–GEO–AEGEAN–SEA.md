@@ -11,7 +11,7 @@ Subject: The Aegean Sea
 Dates: Archaic Greek era – Late Roman / Eastern Roman continuity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,750
+Word Count: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

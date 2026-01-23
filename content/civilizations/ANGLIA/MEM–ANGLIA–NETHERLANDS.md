@@ -9,7 +9,7 @@ Subject: The Netherlands (Mirror, Ally, and System Prototype)
 Dates: 16th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

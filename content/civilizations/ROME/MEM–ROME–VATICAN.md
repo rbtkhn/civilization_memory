@@ -11,7 +11,7 @@ Subject: The Vatican (Papal Rome as Post-Imperial Authority Core)
 Dates: 1st century AD – present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,600
+Word Count: ~1,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

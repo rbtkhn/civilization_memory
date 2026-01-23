@@ -11,7 +11,7 @@ Subject: Gaius Julius Caesar
 Dates: 100–44 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,450
+Word Count: ~3,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

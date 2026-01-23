@@ -9,7 +9,7 @@ Subject: Germania–Poland Civilizational Interface
 Dates: Medieval era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

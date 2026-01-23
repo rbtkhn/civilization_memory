@@ -12,7 +12,7 @@ Subject: Marcus Ulpius Traianus (Trajan)
 Dates: 53–117 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,200
+Word Count: ~2,200
 
 SCHOLAR ↔ CORE PARITY VERIFIED (RSA-1)
 

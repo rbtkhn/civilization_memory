@@ -11,7 +11,7 @@ DIB Status: DEFINED · INACTIVE
 Scholar Reference Mode: READ-ONLY / DIB-GATED
 Conceptual Lineage: SCE–CIV–RUSSIA v9.7.2 (doctrinal ancestry preserved; format-harmonized)
 Last Update: January 2026
-WORDCOUNT: ~12,300
+Word Count: ~12,300
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
@@ -357,12 +357,12 @@ Civilizational Memory Codex · Memory File Enforcement Template
 20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.3
+Supersedes: CIV–MEM–TEMPLATE v2.5
 Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Wordcount: ~4,200
+Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD

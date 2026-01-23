@@ -12,7 +12,7 @@ Subject: The Visigoths as the First Autonomous Post-Roman Military Polity
 Dates: AD 376 – AD 418
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,200
+Word Count: ~2,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

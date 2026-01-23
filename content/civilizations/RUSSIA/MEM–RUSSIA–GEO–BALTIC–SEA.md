@@ -12,7 +12,7 @@ Subject: Baltic Sea (Балтийское море)
 Dates: c. 800–1400 AD (Rus’-facing arc), 1700–1721 AD (Petrine transformation)
 Class: MEM (Memory)
 Last Update: January 2026
-WORDCOUNT: ~2,850
+Word Count: ~2,850
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3)

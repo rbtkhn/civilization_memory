@@ -12,7 +12,7 @@ Subject: Greek Language (Intellect, Mediation, and Civilizational Depth)
 Dates: c. 3rd century BC – Byzantine continuity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

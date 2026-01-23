@@ -9,7 +9,7 @@ Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: CIV–MEM–CORE → CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → CIV–CORE–GERMANIA → DIB–GERMANIA
 Compatibility: CIV–CORE–GERMANIA v1.6+ (Post-Scholar Alignment)
 Last Update: January 2026
-Wordcount: ~1,060
+Word Count: ~1,060
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY

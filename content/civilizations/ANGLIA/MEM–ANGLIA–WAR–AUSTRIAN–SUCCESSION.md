@@ -10,7 +10,7 @@ Subject: War of the Austrian Succession (Strategic Rehearsal & System Testing)
 Dates: 1740–1748 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

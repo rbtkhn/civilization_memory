@@ -11,7 +11,7 @@ Subject: Seven Years’ War
 Dates: 1756–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -11,7 +11,7 @@ Subject: Napoleonic Code (Code civil)
 Dates: 1804 AD–present (derivative influence)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,250
+Word Count: ~2,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

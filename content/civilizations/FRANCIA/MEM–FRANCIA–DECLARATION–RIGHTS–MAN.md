@@ -9,7 +9,7 @@ Subject: Declaration of the Rights of Man and of the Citizen
 Dates: 1789 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

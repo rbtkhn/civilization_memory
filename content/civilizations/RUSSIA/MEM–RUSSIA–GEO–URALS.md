@@ -12,7 +12,7 @@ Dates: c. 500 BC–present AD
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
-Wordcount: ~3,400
+Word Count: ~3,400
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -20,7 +20,7 @@ UPGRADE NOTE (v2.0)
 This upgrade is strictly ADDITIVE and preserves all analytical claims,
 structure, and conclusions from v1.0.
 
-v2.0 implements mandatory CIV–MEM–TEMPLATE v2.3 compliance actions:
+v2.0 implements mandatory CIV–MEM–TEMPLATE v2.5 compliance actions:
 • Adds ARC version pinning (ARC–RUSSIA v1.5)
 • Adds Section IX: Source Quotations (3 Ancient, 2 Medieval, 2 Modern)
 • Adds Section X: MEM Connections with binary justifications (≥10, ≥2 GEO)

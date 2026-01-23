@@ -21,7 +21,7 @@ Governed by:
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Last Update: January 2026
-WORDCOUNT: ~2,300
+Word Count: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE

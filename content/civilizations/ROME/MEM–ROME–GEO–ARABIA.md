@@ -12,7 +12,7 @@ Subject: Arabia as Peripheral Corridor, Trade Interface, and Strategic Buffer
 Dates: c. 100 BC – AD 700
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -11,12 +11,12 @@ Subject: Crimea (Geographic–Strategic Node)
 Dates: Antiquity–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,400
+Word Count: ~3,400
 ARC Version: CIV–ARC–RUSSIA v1.5
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

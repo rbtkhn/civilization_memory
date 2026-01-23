@@ -10,7 +10,7 @@ Subject: The British Empire (Procedural Empire, System Management, and Controlle
 Dates: 16th century–20th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

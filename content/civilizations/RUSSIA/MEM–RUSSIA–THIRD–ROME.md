@@ -10,7 +10,7 @@ Subject: “Third Rome” (Третий Рим)
 Dates: c. 1510s AD–present (doctrinal arc)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

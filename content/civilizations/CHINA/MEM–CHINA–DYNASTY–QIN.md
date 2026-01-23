@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Qin Dynasty (秦)
 Dates: 221–206 BCAD
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

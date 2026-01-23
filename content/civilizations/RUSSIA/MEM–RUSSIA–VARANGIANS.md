@@ -10,10 +10,10 @@ Regime / Mode: EARLY RUS’ · CORRIDOR–FOUNDED DYNASTIC FORMATION
 Subject: Varangians (Варяги)
 Dates: c. 750–1050 AD
 Class: MEM (Memory)
-Template Version Used: CIV–MEM–TEMPLATE v2.2
+Template Version Used: CIV–MEM–TEMPLATE v2.5
 ARC Version Pinned: ARC–RUSSIA v1.9
 Last Update: January 2026
-Wordcount: ~3,650
+Word Count: ~3,650
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -21,7 +21,7 @@ UPGRADE NOTE (v2.0)
 This upgrade preserves ALL analytical content from v1.0.
 
 v2.0 introduces ADDITIVE compliance actions only:
-• Full CIV–MEM–TEMPLATE v2.2 alignment
+• Full CIV–MEM–TEMPLATE v2.5 alignment
 • ARC Quality Threshold Test (QTT–ARC) clearance
 • Category-balanced quotations (Ancient / Medieval / Modern)
 • Mandatory MEM connections expansion and justification

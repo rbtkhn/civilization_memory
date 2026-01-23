@@ -11,7 +11,7 @@ Subject: Corsica
 Dates: 3rd century BC–Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

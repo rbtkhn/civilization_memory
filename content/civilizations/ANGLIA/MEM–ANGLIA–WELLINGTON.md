@@ -10,7 +10,7 @@ Subject: Arthur Wellesley, Duke of Wellington
 Dates: 1769–1852 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,000
+Word Count: ~3,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

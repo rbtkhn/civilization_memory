@@ -11,7 +11,7 @@ Subject: Henry VIII
 Dates: 1491–1547 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,800
+Word Count: ~2,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

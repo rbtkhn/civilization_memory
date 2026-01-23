@@ -10,7 +10,7 @@ Subject: Syria (Military–Commercial Hinge and Forward Governance Zone)
 Dates: 64 BC – 7th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,520
+Word Count: ~1,520
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

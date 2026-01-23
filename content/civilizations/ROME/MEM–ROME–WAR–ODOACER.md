@@ -12,7 +12,7 @@ Subject: Odoacer and the Termination of the Western Imperial Office
 Dates: AD 476–493
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,950
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

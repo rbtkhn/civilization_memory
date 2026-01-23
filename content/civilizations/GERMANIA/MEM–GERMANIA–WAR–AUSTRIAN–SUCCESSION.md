@@ -11,7 +11,7 @@ Subject: War of the Austrian Succession (German Perspective)
 Dates: 1740–1748 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

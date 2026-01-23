@@ -7,7 +7,7 @@ Subject: Klemens von Metternich
 Dates: 1773–1819–1848 (effective power period)
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -11,7 +11,7 @@ Dates: c. AD 1100–present
 Class: MEM (Memory)
 ARC Version Pinned: ARC–RUSSIA v1.5
 Last Update: January 2026
-Wordcount: 2,540
+Word Count: 2,540
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

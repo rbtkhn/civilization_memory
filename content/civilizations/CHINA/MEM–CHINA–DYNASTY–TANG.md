@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Tang Dynasty (唐)
 Dates: 618–907 AD
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

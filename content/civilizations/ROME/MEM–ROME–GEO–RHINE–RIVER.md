@@ -11,7 +11,7 @@ Subject: Rhine River System (Limes, Discipline Spine, and Failed Interiorization
 Dates: 1st century BCAD – 5th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

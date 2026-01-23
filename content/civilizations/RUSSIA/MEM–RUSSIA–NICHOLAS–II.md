@@ -12,7 +12,7 @@ Subject: Nicholas II (Николай II)
 Dates: 1868–1918 AD (rule: 1894–1917)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,500
+Word Count: ~2,500
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2)

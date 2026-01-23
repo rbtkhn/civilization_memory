@@ -190,5 +190,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–PAINE v1.3
-WORDCOUNT: ~790
+Word Count: ~790
 ────────────────────────────────────────────────────────────

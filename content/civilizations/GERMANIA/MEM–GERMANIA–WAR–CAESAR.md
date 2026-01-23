@@ -11,7 +11,7 @@ Subject: Julius Caesar and the Germanic Frontier
 Dates: c. 58–51 BCAD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

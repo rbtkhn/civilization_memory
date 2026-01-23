@@ -11,7 +11,7 @@ Subject: Danube River System (Limes, Corridor, and Failure Line)
 Dates: 1st century BCAD – 5th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -10,7 +10,7 @@ Subject: Caucasus Region (Кавказ)
 Dates: Antiquity–present (Russian strategic salience from 18th c. AD)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,800
+Word Count: ~2,800
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 ────────────────────────────────────────────────────────────

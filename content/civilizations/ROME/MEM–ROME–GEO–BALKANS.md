@@ -11,7 +11,7 @@ Subject: Balkan Peninsula (Exposure Core, Shock Corridor, and Imperial Stress Fi
 Dates: 2nd century BCAD – 5th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

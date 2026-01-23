@@ -9,7 +9,7 @@ Subject: Battle of Trafalgar
 Dates: 21 October 1805 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

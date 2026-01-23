@@ -10,7 +10,7 @@ Subject: Thirty Years’ War
 Dates: 1618–1648 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

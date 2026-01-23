@@ -20,7 +20,7 @@ Lock Level:
 STRUCTURAL (content expandable without renumbering)
 
 Last Update: January 2026
-Wordcount: ~4,300
+Word Count: ~4,300
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS

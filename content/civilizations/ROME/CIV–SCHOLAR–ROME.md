@@ -17,7 +17,7 @@ Governed by:
 • CIV–ARC–ROME v1.9 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
-Wordcount: ~3,900
+Word Count: ~3,900
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)
@@ -574,12 +574,12 @@ Civilizational Memory Codex · Memory File Enforcement Template
 20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.3
+Supersedes: CIV–MEM–TEMPLATE v2.5
 Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Wordcount: ~4,200
+Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD

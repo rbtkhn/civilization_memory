@@ -9,7 +9,7 @@ Subject: Königsberg (Kaliningrad) — Exclave Collapse and Final Severance
 Dates: 1255–1945 (memory tail to present)
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

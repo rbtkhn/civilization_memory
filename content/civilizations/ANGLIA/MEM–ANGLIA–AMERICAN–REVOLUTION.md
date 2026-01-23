@@ -10,7 +10,7 @@ Subject: The American Revolution (Procedural Secession, Institutional Continuity
 Dates: 1765–1783 AD (foundational phase)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,550
+Word Count: ~3,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

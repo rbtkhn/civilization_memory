@@ -11,7 +11,7 @@ Subject: Ottoman–Habsburg Wars (German Perspective)
 Dates: c. 1526–1791 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

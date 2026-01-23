@@ -9,7 +9,7 @@ Subject: Arctic System (Peripheral Frontier, Strategic Ceiling, and Future Corri
 Dates: Early modern era–future
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

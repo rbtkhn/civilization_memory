@@ -9,7 +9,7 @@ Subject: Franco–Swedish War (Peripheral Ally, Continental Leverage, and Coalit
 Dates: 1630–1648 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

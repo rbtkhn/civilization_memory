@@ -8,7 +8,7 @@ Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–ROME (Explicit Acceptance Only)
 Compatibility: CIV–CORE–ROME v1.x
 Last Update: January 2026
-Wordcount: ~1,150
+Word Count: ~1,150
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY

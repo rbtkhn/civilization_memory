@@ -11,7 +11,7 @@ Subject: Marcus Aurelius Antoninus
 Dates: AD 121 – 180
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,700
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

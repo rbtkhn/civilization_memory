@@ -7,7 +7,7 @@ Subject: Atlantic Interface (North Sea & Atlantic Access)
 Dates: Early modern era–present
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

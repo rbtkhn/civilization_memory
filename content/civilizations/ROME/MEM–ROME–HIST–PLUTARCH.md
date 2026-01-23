@@ -12,7 +12,7 @@ Subject: Plutarch of Chaeronea
 Dates: c. AD 46 – c. AD 120
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

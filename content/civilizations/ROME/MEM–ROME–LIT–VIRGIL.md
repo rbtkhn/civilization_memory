@@ -12,7 +12,7 @@ Subject: Publius Vergilius Maro (Virgil)
 Dates: 70–19 BCAD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,700
+Word Count: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

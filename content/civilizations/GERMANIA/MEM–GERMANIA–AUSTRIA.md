@@ -9,7 +9,7 @@ Subject: Austria (Imperial Core, Administrative Spine, and Dynastic Anchor)
 Dates: c. 976 AD–1918 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

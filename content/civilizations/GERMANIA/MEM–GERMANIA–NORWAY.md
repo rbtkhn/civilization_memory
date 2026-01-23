@@ -9,7 +9,7 @@ Subject: Norway (Northern Periphery, Maritime Buffer, and Strategic Depth Withou
 Dates: Medieval era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

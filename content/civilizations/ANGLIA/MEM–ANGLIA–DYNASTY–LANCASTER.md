@@ -6,7 +6,7 @@ Dynasty: House of Lancaster
 Dates: 1399–1461 AD
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

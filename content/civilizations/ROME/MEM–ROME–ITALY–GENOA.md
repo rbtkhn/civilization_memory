@@ -10,7 +10,7 @@ Subject: Genoa
 Dates: Roman era foundations → Medieval–Early Modern peak
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,050
+Word Count: ~1,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -6,7 +6,7 @@ Subject: Marco Polo (马可·波罗)
 Dates: 1254–1324
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

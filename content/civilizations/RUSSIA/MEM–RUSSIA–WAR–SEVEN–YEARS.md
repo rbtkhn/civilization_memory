@@ -9,12 +9,12 @@ Subject: Seven Years’ War
 Dates: 1756–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.3.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
 
 CHANGES IMPLEMENTED:
 
@@ -22,7 +22,7 @@ CHANGES IMPLEMENTED:
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.3.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
 
 CHANGES IMPLEMENTED:
 • Added 1 Massie verbatim quotation providing Elizabeth-era context on

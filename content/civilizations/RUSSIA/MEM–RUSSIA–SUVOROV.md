@@ -12,11 +12,11 @@ Subject: Alexander Suvorov (Александр Суворов)
 Dates: 1730–1800 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,050
+Word Count: ~3,050
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -24,7 +24,7 @@ UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence through balanced
 integration of narrative and analytical quotations, while upgrading to
-v2.0 compliance with CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.3.
+v2.0 compliance with CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.5.
 
 CHANGES IMPLEMENTED:
 • Added 3 Massie verbatim quotations integrated into Sections III, IV, VI
@@ -32,7 +32,7 @@ CHANGES IMPLEMENTED:
 • Quotations combine analytical depth with Suvorov's operational context
 • Maintains QTT–ARC compliance (all quotations meet analytical threshold)
 • Preserves LMM symmetry (Lieven/Montefiore/Massie balance)
-• Upgraded governance references to CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.3
+• Upgraded governance references to CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.5
 • Ensures binary MEM connections compliance
 
 No analytical deletions.

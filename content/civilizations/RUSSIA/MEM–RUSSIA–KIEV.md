@@ -9,7 +9,7 @@ Subject: Kiev (Киев) — Urban Core, Sacred Capital, and Civilizational Prec
 Dates: c. 9th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

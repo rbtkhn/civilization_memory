@@ -9,20 +9,20 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 �
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Black Sea (Чёрное море)
 Dates: c. 800–1400 AD (Rus’-facing arc)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,400
+Word Count: ~2,400
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.3.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
 
 CHANGES IMPLEMENTED:
 • Added 1 Massie verbatim quotation providing Catherine-era context on

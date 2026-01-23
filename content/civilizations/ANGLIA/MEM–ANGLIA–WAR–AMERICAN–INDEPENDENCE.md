@@ -10,7 +10,7 @@ Subject: War of American Independence (Anglian Perspective)
 Dates: 1775–1783 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

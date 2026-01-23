@@ -10,7 +10,7 @@ Subject: The Red Sea (Imperial Commerce Artery)
 Dates: 1st century BC – 7th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

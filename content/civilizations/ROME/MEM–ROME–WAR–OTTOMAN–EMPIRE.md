@@ -11,7 +11,7 @@ Subject: Roman–Ottoman Conflict as Asymmetric Succession War
 Dates: c. AD 1299 – 1453 (with post-1453 afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,900
+Word Count: ~2,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

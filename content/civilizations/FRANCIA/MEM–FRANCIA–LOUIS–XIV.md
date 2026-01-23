@@ -11,7 +11,7 @@ Subject: Louis XIV (the Sun King)
 Dates: 1638–1715 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,150
+Word Count: ~3,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

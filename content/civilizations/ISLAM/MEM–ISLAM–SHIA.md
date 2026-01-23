@@ -9,7 +9,7 @@ Subject: Shi‘a Islam (*Shi‘at ‘Ali*)
 Dates: c. 632 AD – Present
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -12,7 +12,7 @@ Subject: Italy (Peninsula as Core, Engine, and Constraint)
 Dates: c. 800 BC – Late Antiquity (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,750
+Word Count: ~1,750
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

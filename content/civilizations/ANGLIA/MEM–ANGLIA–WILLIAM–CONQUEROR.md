@@ -11,7 +11,7 @@ Subject: William of Normandy (William the Conqueror)
 Dates: 1028–1087 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,700
+Word Count: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -10,7 +10,7 @@ Subject: Anatolia (Asia Minor)
 Dates: 2nd century BC → 1453 AD (continuity)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

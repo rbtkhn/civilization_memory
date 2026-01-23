@@ -12,7 +12,7 @@ Subject: The Arab Conquests as Systemic Exhaustion Event
 Dates: AD 622–750
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,700
+Word Count: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

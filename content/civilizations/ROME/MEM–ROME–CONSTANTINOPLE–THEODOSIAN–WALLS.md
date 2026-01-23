@@ -13,7 +13,7 @@ Subject: Theodosian Walls as Engineered Imperial Durability
 Dates: AD 408–413 (primary construction)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

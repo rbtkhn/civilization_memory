@@ -12,7 +12,7 @@ Subject: The Franks as Federated Insiders and Architects of Post-Roman Continuit
 Dates: c. AD 250 – AD 511
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

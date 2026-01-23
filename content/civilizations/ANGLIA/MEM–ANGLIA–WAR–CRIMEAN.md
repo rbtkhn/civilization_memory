@@ -9,7 +9,7 @@ Subject: Crimean War (Alliance War, Media Shock, and Administrative Reckoning)
 Dates: 1853–1856 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -11,7 +11,7 @@ Subject: The Levant
 Dates: Hellenistic inheritance → Roman imperial era → Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,400
+Word Count: ~2,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

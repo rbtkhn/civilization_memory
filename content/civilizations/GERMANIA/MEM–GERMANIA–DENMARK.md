@@ -9,7 +9,7 @@ Subject: Denmark (Maritime Gatekeeper, Northern Constraint, and Administrative R
 Dates: Medieval era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,750
+Word Count: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

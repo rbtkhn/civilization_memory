@@ -12,7 +12,7 @@ Subject: The Papacy
 Dates: c. 30 AD – Present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)
 ────────────────────────────────────────────────────────────

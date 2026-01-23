@@ -9,7 +9,7 @@ Subject: Australia (Penal Genesis, Continental Procedure, and Pacific Anchor)
 Dates: 1788 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

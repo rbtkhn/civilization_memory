@@ -12,7 +12,7 @@ Subject: The City of Rome (Urbs as Authority Engine)
 Dates: c. 753 BC – Present (civilizational afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,700
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

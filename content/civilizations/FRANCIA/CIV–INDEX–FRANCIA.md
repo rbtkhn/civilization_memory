@@ -10,7 +10,7 @@ Dates: Medieval era–present
 Class: CIV–INDEX
 Last Update: January 2026
 Total MEM–FRANCIA Files: 91
-Wordcount: ~1,950
+Word Count: ~1,950
 
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 Governed by: CIV–MEM–CORE v1.5 (or higher)

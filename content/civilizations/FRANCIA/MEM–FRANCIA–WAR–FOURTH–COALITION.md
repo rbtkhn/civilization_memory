@@ -10,7 +10,7 @@ Subject: War of the Fourth Coalition (Peak Military Supremacy,
 Dates: 1806–1807 AD
 Class: MEM (War)
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

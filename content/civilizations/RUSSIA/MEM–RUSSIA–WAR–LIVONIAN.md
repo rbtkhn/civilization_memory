@@ -11,18 +11,18 @@ Subject: Livonian War
 Dates: 1558–1583 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,700
+Word Count: ~1,700
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.3.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
 
 CHANGES IMPLEMENTED:
 • Added 1 Massie verbatim quotation providing Petrine-era context on

@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Xia Dynasty (夏)
 Dates: c. 2070–1600 BCAD (traditional chronology)
 Class: MEM (Memory)
-Classification: MYTH–PROTO-HISTORICAL
+Word Count: ~2,000Classification: MYTH–PROTO-HISTORICAL
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

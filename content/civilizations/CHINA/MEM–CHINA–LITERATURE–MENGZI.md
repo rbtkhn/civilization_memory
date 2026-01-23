@@ -8,7 +8,7 @@ Text Corpus: 《孟子》
 Dates: c. 372–289 BC (Warring States period)
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

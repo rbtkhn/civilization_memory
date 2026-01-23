@@ -12,7 +12,7 @@ Subject: Polybius of Megalopolis
 Dates: c. 200–118 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

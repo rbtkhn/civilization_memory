@@ -11,7 +11,7 @@ Subject: Mehmed II and the Fall of Constantinople
 Dates: 1451–1453 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,350
+Word Count: ~1,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

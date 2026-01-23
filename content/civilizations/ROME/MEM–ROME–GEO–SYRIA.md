@@ -12,7 +12,7 @@ Subject: Syria as Imperial Depth, Transit Corridor, and Stress Multiplier
 Dates: c. 300 BC – AD 637
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -10,7 +10,7 @@ Subject: Atlantic Ocean System (Western Seaboard, Oceanic Routes, and Maritime P
 Dates: 1500 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

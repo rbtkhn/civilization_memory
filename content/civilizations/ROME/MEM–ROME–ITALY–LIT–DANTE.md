@@ -12,7 +12,7 @@ Subject: Dante Alighieri (Italian Roman Afterlife)
 Dates: 1265–1321 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

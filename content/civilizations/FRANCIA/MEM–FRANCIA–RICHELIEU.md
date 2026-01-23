@@ -11,7 +11,7 @@ Subject: Cardinal Armand Jean du Plessis, duc de Richelieu
 Dates: 1585–1642 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,050
+Word Count: ~3,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

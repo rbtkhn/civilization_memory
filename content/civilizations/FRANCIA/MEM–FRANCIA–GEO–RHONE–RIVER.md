@@ -9,7 +9,7 @@ Subject: Rhône River System (Imperial Corridor, Mediterranean Gate, and Exposur
 Dates: Roman era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,350
+Word Count: ~1,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

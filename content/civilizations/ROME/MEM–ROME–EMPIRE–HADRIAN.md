@@ -12,7 +12,7 @@ Subject: Publius Aelius Hadrianus (Hadrian)
 Dates: 76–138 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -9,7 +9,7 @@ Subject: Wales (Early Absorption, Cultural Persistence, and Resource Base)
 Dates: Medieval era–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

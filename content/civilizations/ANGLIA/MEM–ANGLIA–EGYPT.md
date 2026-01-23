@@ -9,7 +9,7 @@ Subject: Egypt (Artery Control, Indirect Rule, and System Maintenance)
 Dates: 1798 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

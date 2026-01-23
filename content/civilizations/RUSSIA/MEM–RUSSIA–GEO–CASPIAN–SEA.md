@@ -11,14 +11,14 @@ Subject: Caspian Sea (Каспийское море)
 Dates: Antiquity–present (Russian strategic salience from 16th c. AD)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)
 ────────────────────────────────────────────────────────────
 This upgrade brings the file into full compliance with:
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • CIV–ARC–RUSSIA v1.5
 
 Additions include:

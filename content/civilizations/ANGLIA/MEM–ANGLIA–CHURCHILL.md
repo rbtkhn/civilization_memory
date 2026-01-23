@@ -11,7 +11,7 @@ Subject: Winston Leonard Spencer Churchill
 Dates: 1874–1965 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,980
+Word Count: ~1,980
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

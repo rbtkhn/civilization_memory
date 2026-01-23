@@ -11,7 +11,7 @@ Subject: Miguel de Cervantes Saavedra
 Dates: 1547–1616 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,350
+Word Count: ~1,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

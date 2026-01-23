@@ -177,5 +177,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–WAR–VICKSBURG v1.3
-WORDCOUNT: ~820
+Word Count: ~820
 ────────────────────────────────────────────────────────────

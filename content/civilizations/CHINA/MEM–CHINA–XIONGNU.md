@@ -2,7 +2,7 @@ Title: MEM–CHINA–XIONGNU
 Status: LOCKED
 Version: 1.1
 Last Update: December 2025
-Civilization: CHINA (中华文明)
+Word Count: ~2,000Civilization: CHINA (中华文明)
 Subject: Xiongnu Confederation (匈奴)
 Dates: c. 3rd century BCAD – 1st century AD
 Class: MEM (Memory)

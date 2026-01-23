@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Shang Dynasty (商)
 Dates: c. 1600–1046 BCAD
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

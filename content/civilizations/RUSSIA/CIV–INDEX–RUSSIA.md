@@ -229,7 +229,7 @@ Approved Engagement Pool (Registrational Only):
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-WORDCOUNT: ~1,300
+Word Count: ~1,300
 TOTAL REGISTERED FILES: Eighty-eight (88) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────

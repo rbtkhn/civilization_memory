@@ -10,7 +10,7 @@ Subject: Ottoman–Habsburg Conflict (Alliance by Negation, Balance-of-Power War
 Dates: 16th century–18th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

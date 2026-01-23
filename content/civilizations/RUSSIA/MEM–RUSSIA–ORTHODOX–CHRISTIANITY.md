@@ -2,7 +2,7 @@ MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.0)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.0
 Upgrade Type: STRUCTURAL + EVIDENTIARY HARDENING · ARC COMPLIANCE SATISFIED
 Civilization: RUSSIA (Русская цивилизация)
@@ -11,11 +11,11 @@ Subject: Orthodox Christianity (Православие)
 Dates: 988 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,200
+Word Count: ~3,200
 
 Governed by:
 • CIV–MEM–CORE v2.0
-• CIV–MEM–TEMPLATE v2.0
+• CIV–MEM–TEMPLATE v2.5
 • CIV–ARC–RUSSIA v1.5 (PINNED)
 
 ────────────────────────────────────────────────────────────

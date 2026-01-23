@@ -10,7 +10,7 @@ Subject: Oleg of Novgorod (Вещий Олег)
 Dates: c. 879–912 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,210
+Word Count: ~2,210
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

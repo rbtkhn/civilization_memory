@@ -9,7 +9,7 @@ Subject: African Slavery (Imperial Contradiction, Systemic Utility, Moral Ruptur
 Dates: 17th century–19th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

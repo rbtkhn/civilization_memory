@@ -11,10 +11,10 @@ Subject: Alexander Nevsky (Александр Невский)
 Dates: 1221–1263 AD (rule focus 1252–1263)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.2
+Governed by: CIV–MEM–TEMPLATE v2.5
 Compatibility: CIV–MEM–CORE v2.0+
 
 ────────────────────────────────────────────────────────────
@@ -122,7 +122,7 @@ moralized or descriptive framing rather than structural explanation.
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with
-CIV–MEM–TEMPLATE v2.2, Category C quotations are replaced by additional
+CIV–MEM–TEMPLATE v2.5, Category C quotations are replaced by additional
 Category D sources. This substitution is explicit and disclosed.
 
 ────────────────────────────────────────────────────────────

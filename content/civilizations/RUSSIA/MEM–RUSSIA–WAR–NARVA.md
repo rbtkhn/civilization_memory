@@ -10,18 +10,18 @@ Subject: Battle of Narva
 Dates: 1700 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,400
+Word Count: ~2,400
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This file is created as v2.0 compliant from inception, following
-CIV–MEM–TEMPLATE v2.3 requirements:
+CIV–MEM–TEMPLATE v2.5 requirements:
 • Includes Massie quotations (PRIMARY modern authority for Petrine analysis)
 • Establishes MEM connections including GEO–MEM links
 • Maintains QTT–ARC compliance

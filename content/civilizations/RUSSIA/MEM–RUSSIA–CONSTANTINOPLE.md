@@ -10,7 +10,7 @@ Subject: Constantinople (Константинополь)
 Dates: 330–1453 AD (Russian reception: post-1453)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

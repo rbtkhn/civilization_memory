@@ -8,7 +8,7 @@ Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
 Dates: c. 53 BCAD – 628 AD
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

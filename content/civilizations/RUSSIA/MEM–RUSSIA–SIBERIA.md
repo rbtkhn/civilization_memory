@@ -9,7 +9,7 @@ Subject: Siberia (Imperial Incorporation & Civilizational Process)
 Dates: c. 1580 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

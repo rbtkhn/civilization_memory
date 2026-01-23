@@ -10,7 +10,7 @@ Subject: War of the Spanish Succession (Coalition Management & System Containmen
 Dates: 1701–1714 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,500
+Word Count: ~1,500
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

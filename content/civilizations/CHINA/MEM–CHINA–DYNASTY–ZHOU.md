@@ -6,7 +6,7 @@ Subject: Zhou Dynasty (周)
 Dates: c. 1046–256 BC
 Sub-Periods: Western Zhou (西周), Eastern Zhou (东周: 春秋 / 战国)
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

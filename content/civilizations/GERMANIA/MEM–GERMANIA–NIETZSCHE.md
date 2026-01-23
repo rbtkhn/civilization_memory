@@ -7,7 +7,7 @@ Subject: Friedrich Nietzsche
 Dates: 1844–1900 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

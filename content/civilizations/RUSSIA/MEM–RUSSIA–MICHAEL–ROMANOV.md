@@ -11,11 +11,11 @@ Subject: Michael Romanov (Михаил Фёдорович)
 Dates: 1596–1645 AD (rule: 1613–1645)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,900
+Word Count: ~2,900
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

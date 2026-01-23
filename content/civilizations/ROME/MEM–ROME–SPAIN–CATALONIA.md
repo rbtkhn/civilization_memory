@@ -11,7 +11,7 @@ Subject: Catalonia (Roman Law, Maritime Commerce, and Corporate Autonomy)
 Dates: c. 800–1714 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,400
+Word Count: ~1,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

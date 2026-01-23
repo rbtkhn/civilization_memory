@@ -7,7 +7,7 @@ Subject: Deng Xiaoping (邓小平)
 Dates: 1904–1997 AD
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

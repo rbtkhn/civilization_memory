@@ -12,7 +12,7 @@ Subject: Marcus Porcius Cato Uticensis (Cato the Younger)
 Dates: 95 BC – 46 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

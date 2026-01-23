@@ -9,7 +9,7 @@ Subject: Burgundy (Rival Power, Near-State, and Internal Fracture)
 Dates: 14th–15th centuries AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

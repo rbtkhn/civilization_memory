@@ -9,7 +9,7 @@ Subject: Norway (Peripheral Partner, Maritime Observation Zone, and Strategic No
 Dates: Early modern era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,500
+Word Count: ~1,500
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

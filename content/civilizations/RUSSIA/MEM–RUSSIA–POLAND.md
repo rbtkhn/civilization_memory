@@ -9,7 +9,7 @@ Subject: Poland (Rival Civilization & Borderland State)
 Dates: Medieval period–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

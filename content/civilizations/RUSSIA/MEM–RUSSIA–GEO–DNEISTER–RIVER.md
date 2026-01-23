@@ -9,7 +9,7 @@ Subject: Dniester River System (Река Днестр)
 Dates: c. 1400–present (imperial expansion arc)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,800
+Word Count: ~2,800
 
 ARC VERSION PINNED: ARC–RUSSIA v1.5
 

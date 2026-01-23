@@ -21,7 +21,7 @@ Upgrade Scope:
 • NO retroactive edits
 • NO CIV–CORE propagation
 
-WORDCOUNT: ~4,900
+Word Count: ~4,900
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE

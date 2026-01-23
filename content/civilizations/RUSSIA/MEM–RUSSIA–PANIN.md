@@ -12,7 +12,7 @@ Subject: Nikita Ivanovich Panin (Никита Иванович Панин)
 Dates: 1718–1783 AD  
 Class: MEM (Memory)  
 Last Update: January 2026  
-Wordcount: ~2,650  
+Word Count: ~2,650  
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3)

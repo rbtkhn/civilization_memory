@@ -11,7 +11,7 @@ Subject: Flavius Theodosius I (Theodosius the Great)
 Dates: c. AD 347 – 395
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

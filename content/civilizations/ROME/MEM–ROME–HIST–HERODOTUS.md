@@ -12,7 +12,7 @@ Subject: Herodotus of Halicarnassus
 Dates: c. 484–425 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

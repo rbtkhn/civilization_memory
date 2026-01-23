@@ -12,7 +12,7 @@ Subject: Gaius Suetonius Tranquillus
 Dates: c. AD 69 – after AD 122
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

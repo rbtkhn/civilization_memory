@@ -9,7 +9,7 @@ Subject: Denmark (Peripheral Actor, Maritime Node, and Strategic Afterthought)
 Dates: Early modern era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,700
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

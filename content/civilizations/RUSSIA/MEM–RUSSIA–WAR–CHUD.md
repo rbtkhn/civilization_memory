@@ -9,11 +9,11 @@ Subject: Chud Wars (Чудские войны) — Northern Frontier Expansion
 Dates: 1030s–1220s AD (major conflicts: 1030–1190s)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

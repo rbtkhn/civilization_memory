@@ -10,7 +10,7 @@ Subject: The Netherlands (Frontier, Rival, and Buffer)
 Dates: 16th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

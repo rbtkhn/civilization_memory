@@ -11,7 +11,7 @@ Subject: Sea of Azov (Shallow Maritime–Riverine Interface)
 Dates: Antiquity–present (Rus’/Russia-facing civilizational arc emphasized post-AD 800)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,400
+Word Count: ~3,400
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2)
@@ -37,7 +37,7 @@ UPGRADE NOTE (v1.1)
 ────────────────────────────────────────────────────────────
 This upgrade brings the Sea of Azov file into **full compliance** with:
 
-• CIV–MEM–TEMPLATE v2.2  
+• CIV–MEM–TEMPLATE v2.5  
 • CIV–ARC–RUSSIA v1.5 (Categories A–D)  
 • Corridor Semantics Normalization (January 2026 learning event)
 

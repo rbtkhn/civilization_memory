@@ -10,7 +10,7 @@ Subject: War of 1812 (Peripheral System Test, Priority Discipline, and Naval Res
 Dates: 1812–1815 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,000
+Word Count: ~3,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

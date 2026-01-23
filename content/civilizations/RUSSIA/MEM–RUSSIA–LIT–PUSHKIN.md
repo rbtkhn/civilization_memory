@@ -9,7 +9,7 @@ Subject: Alexander Pushkin (Александр Пушкин) — National Memory
 Dates: 1799–1837 AD (decisive works: 1825–1837)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 Governed by:
 • CIV–MEM–CORE v2.0+

@@ -9,7 +9,7 @@ Subject: Amur River System (Река Амур)
 Dates: c. 1650–present (Far Eastern expansion arc)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,200
+Word Count: ~3,200
 
 ARC VERSION PINNED: ARC–RUSSIA v1.5
 

@@ -10,7 +10,7 @@ Subject: William Pitt the Elder (Earl of Chatham)
 Dates: 1708–1778 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,200
+Word Count: ~3,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

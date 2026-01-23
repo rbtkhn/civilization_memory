@@ -2,7 +2,7 @@ MEM–RUSSIA–CYRILLIC–SCRIPT — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.0
 Upgrade Type: FOUNDATIONAL RELEASE · TEMPLATE v2.2 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
@@ -11,11 +11,11 @@ Subject: Cyrillic Alphabet (Кириллица)
 Dates: c. 860s AD – present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,400
+Word Count: ~3,400
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • CIV–ARC–RUSSIA v1.5 (pinned)
 
 ────────────────────────────────────────────────────────────

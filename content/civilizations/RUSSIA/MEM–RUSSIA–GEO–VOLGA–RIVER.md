@@ -11,7 +11,7 @@ Subject: Volga River System (Река Волга)
 Dates: c. 900–1400 AD (primary civilizational arc)
 Class: MEM (Memory)
 Last Update: January 2026
-WORDCOUNT: ~2,400
+Word Count: ~2,400
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

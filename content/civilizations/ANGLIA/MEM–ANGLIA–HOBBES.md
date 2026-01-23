@@ -176,5 +176,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–HOBBES v1.3
-WORDCOUNT: ~830
+Word Count: ~830
 ────────────────────────────────────────────────────────────

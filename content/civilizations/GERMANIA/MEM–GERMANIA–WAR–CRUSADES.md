@@ -11,7 +11,7 @@ Subject: The Crusades (German Perspective)
 Dates: 11th–13th centuries AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,200
+Word Count: ~2,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -16,7 +16,7 @@ Governed by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (for parity constraints)
 
 Last Update: January 2026
-WORDCOUNT: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7)

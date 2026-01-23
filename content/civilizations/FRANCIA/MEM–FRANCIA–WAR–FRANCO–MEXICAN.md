@@ -9,7 +9,7 @@ Subject: Franco–Mexican War (Imperial Projection, Universalism Failure, and Co
 Dates: 1861–1867 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

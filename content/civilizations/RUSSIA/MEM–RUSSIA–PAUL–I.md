@@ -11,7 +11,7 @@ Subject: Paul I (Павел I)
 Dates: 1754–1801 AD (rule: 1796–1801)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -12,7 +12,7 @@ Subject: Spain (Territorial–Maritime Roman Continuation)
 Dates: c. 711 AD – early modern global empire (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,800
+Word Count: ~1,800
 ────────────────────────────────────────────────────────────
 
 I. MEMORY PURPOSE & SCOPE

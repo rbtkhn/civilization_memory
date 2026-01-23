@@ -9,7 +9,7 @@ Subject: Revolution of 1848 (Universalist Explosion, Republic without Capacity, 
 Dates: 1848–1851 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

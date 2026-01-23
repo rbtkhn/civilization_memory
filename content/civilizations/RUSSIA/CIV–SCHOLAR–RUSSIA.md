@@ -9,11 +9,11 @@ Version: 2.0
 Supersedes: CIV–SCHOLAR–RUSSIA v1.x
 Upgrade Type: PHASE TRANSITION — Learning Accumulation → Constraint Grammar
 Last Update: January 2026
-Wordcount: ~8,300
+Word Count: ~8,300
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (Pinned)
 • RLL–RUSSIA Registry (Authoritative)
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0
@@ -231,12 +231,12 @@ Civilizational Memory Codex · Memory File Enforcement Template
 20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.3
+Supersedes: CIV–MEM–TEMPLATE v2.5
 Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Wordcount: ~4,200
+Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD

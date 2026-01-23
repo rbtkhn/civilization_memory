@@ -13,7 +13,7 @@ Subject: Hagia Sophia as Architectural Statecraft
 Dates: AD 532–537 (construction)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

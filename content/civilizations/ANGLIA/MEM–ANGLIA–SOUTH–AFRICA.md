@@ -158,5 +158,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–SOUTH–AFRICA v1.3
-WORDCOUNT: ~860
+Word Count: ~860
 ────────────────────────────────────────────────────────────

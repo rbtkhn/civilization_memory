@@ -11,7 +11,7 @@ Subject: The Mediterranean Sea (Mare Nostrum)
 Dates: Ancient era–medieval continuity (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

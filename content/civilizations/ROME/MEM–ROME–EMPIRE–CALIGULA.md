@@ -11,7 +11,7 @@ Subject: Gaius Julius Caesar Augustus Germanicus (Caligula)
 Dates: 12–41 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,200
+Word Count: ~1,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

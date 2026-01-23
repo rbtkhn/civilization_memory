@@ -11,11 +11,11 @@ Subject: Time of Troubles (Смутное время)
 Dates: 1598–1613 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -238,7 +238,7 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparison: Roman interregna
 6) Comparison: Islamic succession crises
 7) Counterfactual: buffered succession
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.2)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
 
 User must select ONE option.
 

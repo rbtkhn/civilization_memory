@@ -11,7 +11,7 @@ Subject: Sicily
 Dates: 3rd century BC–Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

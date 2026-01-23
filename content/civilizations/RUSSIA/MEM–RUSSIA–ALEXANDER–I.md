@@ -12,18 +12,18 @@ Subject: Alexander I (Александр I)
 Dates: 1777–1825 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,200
+Word Count: ~3,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Lieven's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.3.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
 
 CHANGES IMPLEMENTED:
 • Added 3 Lieven verbatim quotations from "Russia Against Napoleon" (2009)

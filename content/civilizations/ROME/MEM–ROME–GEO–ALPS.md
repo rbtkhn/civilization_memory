@@ -11,7 +11,7 @@ Subject: Alpine System (Boundary, Corridor, and Imperial Filter)
 Dates: Roman era–late antiquity (with civilizational afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

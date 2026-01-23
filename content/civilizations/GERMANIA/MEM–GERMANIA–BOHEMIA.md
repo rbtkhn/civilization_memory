@@ -9,7 +9,7 @@ Subject: Germania–Bohemia Civilizational Interface
 Dates: Medieval era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

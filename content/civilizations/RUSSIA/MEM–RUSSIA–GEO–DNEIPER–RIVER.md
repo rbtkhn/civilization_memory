@@ -9,14 +9,14 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 �
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dnieper River System (Река Днепр)
 Dates: c. 800–1400 AD (primary civilizational arc)
 Class: MEM (Memory)
 Last Update: January 2026
-WORDCOUNT: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

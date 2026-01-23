@@ -9,7 +9,7 @@ Subject: United States of America (Externalized Core, Procedural Heir, and Scale
 Dates: 1776 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

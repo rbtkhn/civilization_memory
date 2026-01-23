@@ -13,7 +13,7 @@ Subject: Athens as Cultural Precursor, Rival Model, and Absorbed Intellect
 Dates: c. 500 BC – AD 500
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -7,7 +7,7 @@ Subject: Clive & the East India Company Conquest
 Dates: 1757–1764 AD
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

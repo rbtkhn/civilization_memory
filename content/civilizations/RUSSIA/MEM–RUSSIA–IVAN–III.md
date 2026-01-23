@@ -11,11 +11,11 @@ Subject: Ivan III “the Great” (Иван III Васильевич)
 Dates: 1440–1505 AD (rule: 1462–1505)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.0
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 • Recursive Learning Ledger (RLL–0001, RLL–0003, RLL–0005)
 

@@ -11,11 +11,11 @@ Subject: Rurikid Dynasty
 Dates: c. 862–1598 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,900
+Word Count: ~3,900
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA v1.5 (PINNED)
 
 ────────────────────────────────────────────────────────────

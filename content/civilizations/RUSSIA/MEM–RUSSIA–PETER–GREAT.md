@@ -2,7 +2,7 @@ MEM–RUSSIA–PETER–GREAT — v2.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.2
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v2.1 → v2.2)
 Civilization: RUSSIA (Русская цивилизация)
@@ -11,11 +11,11 @@ Subject: Peter the Great (Пётр I)
 Dates: 1672–1725 AD (rule: 1682–1725)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,650
+Word Count: ~3,650
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 
 ARC Version Pinned:
 • ARC–RUSSIA (Modern hierarchy enforced)
@@ -42,7 +42,7 @@ Contradictions preserved without synthesis.
 UPGRADE NOTE (v2.1)
 ────────────────────────────────────────────────────────────
 This revision enforces a single-primary modern authority hierarchy
-in accordance with CIV–MEM–TEMPLATE v2.2 interpretive discipline.
+in accordance with CIV–MEM–TEMPLATE v2.5 interpretive discipline.
 
 CHANGE IMPLEMENTED:
 • Robert K. Massie is now the PRIMARY modern analytical authority

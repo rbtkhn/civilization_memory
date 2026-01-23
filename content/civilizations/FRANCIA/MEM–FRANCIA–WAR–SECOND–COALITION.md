@@ -9,7 +9,7 @@ Subject: War of the Second Coalition (Revolutionary Survival, Coalition Saturati
 Dates: 1798–1802 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,800
+Word Count: ~1,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

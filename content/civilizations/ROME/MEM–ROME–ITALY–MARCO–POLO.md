@@ -12,7 +12,7 @@ Subject: Marco Polo (Italian Roman World-Recalibrator)
 Dates: 1254–1324 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,750
+Word Count: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

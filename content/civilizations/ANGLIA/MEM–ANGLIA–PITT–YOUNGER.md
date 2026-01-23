@@ -10,7 +10,7 @@ Subject: William Pitt the Younger
 Dates: 1759–1806 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,100
+Word Count: ~3,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -9,7 +9,7 @@ Subject: Mexico (Boundary Counterpart, Revolutionary Divergence, and Managed Fri
 Dates: 1821 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

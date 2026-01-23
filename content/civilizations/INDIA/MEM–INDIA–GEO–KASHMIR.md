@@ -5,7 +5,7 @@ Civilization: INDIA
 Subject: Kashmir / Jammu & Kashmir
 Dates: Antiquity – Present
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

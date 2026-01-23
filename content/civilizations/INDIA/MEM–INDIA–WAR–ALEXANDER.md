@@ -7,7 +7,7 @@ Subject: Alexander’s Invasion of the Subcontinent
 Dates: 327–325 BC
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

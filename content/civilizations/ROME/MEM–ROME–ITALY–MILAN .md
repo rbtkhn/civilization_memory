@@ -10,7 +10,7 @@ Subject: Milan (Mediolanum)
 Dates: Roman era → Early Modern period
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,100
+Word Count: ~1,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

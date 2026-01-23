@@ -11,11 +11,11 @@ Subject: Muscovy (Compression Core & Autocratic Seed State)
 Dates: c. 1300–1721 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,480
+Word Count: ~2,480
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.0
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 • RLL–RUSSIA (0001, 0003, 0005 active)
 
@@ -239,7 +239,7 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparative autocracy: Muscovy vs Rome
 6) Comparative survival: Muscovy vs Islam
 7) Counterfactual: law-first Muscovy
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.0)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
 
 User must select ONE option.
 

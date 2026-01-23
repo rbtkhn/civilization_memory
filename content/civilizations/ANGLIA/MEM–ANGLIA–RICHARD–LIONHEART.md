@@ -10,7 +10,7 @@ Subject: Richard I (the Lionheart)
 Dates: 1157–1199 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,100
+Word Count: ~3,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -10,7 +10,7 @@ Subject: Hundred Years’ War (Continental Overreach & Strategic Exit)
 Dates: 1337–1453 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

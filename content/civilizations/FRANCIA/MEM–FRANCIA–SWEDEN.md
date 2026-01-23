@@ -9,7 +9,7 @@ Subject: Sweden (Proxy Ally, Anti-Habsburg Instrument, and Northern Lever)
 Dates: Early modern era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,600
+Word Count: ~1,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

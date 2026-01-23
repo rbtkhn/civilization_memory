@@ -10,7 +10,7 @@ Dates: c. 1795–1915 AD (primary Russian control arc), 1944–1991 AD (Soviet s
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
-Wordcount: ~3,400
+Word Count: ~3,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

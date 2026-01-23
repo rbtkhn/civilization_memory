@@ -9,7 +9,7 @@ Subject: Viking Wars (Raids, Invasions, and Settlement)
 Dates: c. 793–954 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

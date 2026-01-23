@@ -12,7 +12,7 @@ Subject: Julius Caesar and the British Expeditions
 Dates: 55–54 BCAD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,250
+Word Count: ~2,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

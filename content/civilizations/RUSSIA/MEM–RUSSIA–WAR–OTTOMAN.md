@@ -9,7 +9,7 @@ Subject: Russo–Ottoman Wars (Imperial Systemic Arc)
 Dates: c. 1686–1792 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

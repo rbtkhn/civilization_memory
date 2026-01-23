@@ -12,7 +12,7 @@ Subject: Niccolò Machiavelli (Florence)
 Dates: 1469–1527 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,600
+Word Count: ~1,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

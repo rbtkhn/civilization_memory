@@ -13,7 +13,7 @@ Subject: The Nile River
 Dates: Hellenistic inheritance → Roman imperial era → Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

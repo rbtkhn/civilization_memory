@@ -12,7 +12,7 @@ Dates: Prehistory–present
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

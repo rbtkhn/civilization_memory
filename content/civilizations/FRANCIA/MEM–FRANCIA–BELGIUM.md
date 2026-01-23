@@ -10,7 +10,7 @@ Subject: Belgium (Lost Extension, Buffer Denial, and Constraint Zone)
 Dates: 1795 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

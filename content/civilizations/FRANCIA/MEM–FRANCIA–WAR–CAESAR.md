@@ -12,7 +12,7 @@ Subject: Julius Caesar and the Conquest of Gaul
 Dates: c. 58–50 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

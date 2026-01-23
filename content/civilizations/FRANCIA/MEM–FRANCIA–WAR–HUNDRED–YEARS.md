@@ -12,7 +12,7 @@ Subject: Hundred Years’ War
 Dates: 1337–1453 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

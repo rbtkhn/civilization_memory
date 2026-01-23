@@ -9,7 +9,7 @@ Subject: Haitian Revolution (Universalism, Race, and Imperial Contradiction)
 Dates: 1791–1804 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

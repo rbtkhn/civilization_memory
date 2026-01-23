@@ -9,7 +9,7 @@ Subject: War of the First Coalition (Revolutionary Universalism vs. Continental 
 Dates: 1792–1797 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,850
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

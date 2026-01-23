@@ -9,7 +9,7 @@ Subject: Egypt (Civilizational Projection, Prestige Gamble, and Strategic Failur
 Dates: 1798 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

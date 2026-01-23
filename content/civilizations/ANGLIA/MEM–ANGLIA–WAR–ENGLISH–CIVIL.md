@@ -9,7 +9,7 @@ Subject: English Civil War (Procedure vs Personal Rule)
 Dates: 1642–1651 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -12,7 +12,7 @@ Subject: Thucydides of Athens
 Dates: c. 460–395 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,400
+Word Count: ~2,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

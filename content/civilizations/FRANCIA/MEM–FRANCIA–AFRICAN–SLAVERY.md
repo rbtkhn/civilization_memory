@@ -9,7 +9,7 @@ Subject: African Slavery (Colonial Extraction, Moral Contradiction, and Revoluti
 Dates: 17th century–1848 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

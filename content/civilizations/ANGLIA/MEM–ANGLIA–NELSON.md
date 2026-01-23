@@ -10,7 +10,7 @@ Subject: Horatio Nelson
 Dates: 1758–1805 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,050
+Word Count: ~3,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

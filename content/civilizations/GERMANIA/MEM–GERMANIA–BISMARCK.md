@@ -11,7 +11,7 @@ Subject: Otto von Bismarck
 Dates: 1815–1898 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,720
+Word Count: ~2,720
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -11,7 +11,7 @@ Subject: Second Punic War
 Dates: 218–201 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,150
+Word Count: ~1,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

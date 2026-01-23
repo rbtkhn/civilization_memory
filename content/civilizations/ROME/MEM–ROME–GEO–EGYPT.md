@@ -11,7 +11,7 @@ Subject: Egypt (Grain Engine, Legitimacy Lever, Strategic Keystone)
 Dates: 30 BC – 7th century AD (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Word Count: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

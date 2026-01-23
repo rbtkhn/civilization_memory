@@ -10,7 +10,7 @@ Subject: War of the Sixth Coalition (Systemic Collapse,
 Dates: 1813–1814 AD
 Class: MEM (War)
 Last Update: January 2026
-Wordcount: ~2,200
+Word Count: ~2,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

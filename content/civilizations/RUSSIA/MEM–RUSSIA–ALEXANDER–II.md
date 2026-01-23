@@ -12,7 +12,7 @@ Subject: Alexander II (Александр II)
 Dates: 1818–1881 AD (rule: 1855–1881)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,000
+Word Count: ~2,000
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

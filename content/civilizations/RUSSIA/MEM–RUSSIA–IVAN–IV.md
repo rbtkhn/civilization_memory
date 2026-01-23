@@ -2,7 +2,7 @@ MEM–RUSSIA–IVAN–IV — v2.0
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.2)
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.0
 Upgrade Type: TEMPLATE v2.2 COMPLIANCE + LEGITIMACY SEQUENCING REBIND + RLL INTEGRATION
 Civilization: RUSSIA (Русская цивилизация)
@@ -11,11 +11,11 @@ Subject: Ivan IV “the Terrible” (Иван IV Грозный)
 Dates: 1530–1584 AD (rule: 1547–1584)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -237,7 +237,7 @@ MANDATORY EIGHT-OPTION SET:
 5) Sacral endurance vs institutional collapse
 6) Comparative terror regimes
 7) Counterfactual: buffered autocracy
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.2)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
 
 User selects ONE.
 

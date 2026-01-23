@@ -9,7 +9,7 @@ Subject: Pacific System (Late Expansion, Peripheral Control, and Alliance Ocean)
 Dates: 18th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

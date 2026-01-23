@@ -12,7 +12,7 @@ Subject: The Battle of Pharsalus as the Irreversible Breakpoint of the Republic
 Dates: 48 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -12,7 +12,7 @@ Subject: Publius Cornelius Scipio Africanus
 Dates: 236–183 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,750
+Word Count: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

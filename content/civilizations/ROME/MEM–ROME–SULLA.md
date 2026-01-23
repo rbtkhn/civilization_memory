@@ -12,7 +12,7 @@ Subject: Lucius Cornelius Sulla Felix
 Dates: 138 BC – 78 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

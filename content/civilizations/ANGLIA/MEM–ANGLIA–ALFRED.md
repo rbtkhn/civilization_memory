@@ -11,7 +11,7 @@ Subject: Alfred of Wessex (Alfred the Great)
 Dates: 849–899 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

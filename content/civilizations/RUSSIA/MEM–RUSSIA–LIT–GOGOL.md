@@ -9,11 +9,11 @@ Subject: Nikolai Gogol (Николай Гоголь) — Absurdity Memory Archit
 Dates: 1809–1852 AD (decisive works: 1835–1842)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,800
+Word Count: ~2,800
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

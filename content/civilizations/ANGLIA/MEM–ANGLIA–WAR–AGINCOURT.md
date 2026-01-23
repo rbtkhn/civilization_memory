@@ -10,7 +10,7 @@ Subject: Battle of Agincourt (Asymmetric Victory & Strategic Restraint)
 Dates: 1415 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

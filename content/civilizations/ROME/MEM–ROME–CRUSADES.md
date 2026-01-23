@@ -11,7 +11,7 @@ Regime: PAPAL UNIVERSALISM / MILITARIZED SPIRITUAL AUTHORITY
 Dates: 1095–1291 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,150
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

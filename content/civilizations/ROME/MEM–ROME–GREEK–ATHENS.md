@@ -11,7 +11,7 @@ Subject: Athens
 Dates: c. 600 BC – 322 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

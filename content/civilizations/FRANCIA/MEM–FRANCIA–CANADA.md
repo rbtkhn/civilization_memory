@@ -9,7 +9,7 @@ Subject: Canada (Lost Colony, Misread Asset, and Imperial Negative Space)
 Dates: 1608–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

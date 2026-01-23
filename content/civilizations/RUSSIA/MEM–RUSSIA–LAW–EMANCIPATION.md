@@ -11,18 +11,18 @@ Subject: Emancipation of the Serfs (Освобождение крестьян)
 Dates: 1861 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,800
+Word Count: ~1,800
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade brings the file into full v2.0 compliance with
-CIV–MEM–TEMPLATE v2.3 and renames from MEM–RUSSIA–EMANCIPATION to
+CIV–MEM–TEMPLATE v2.5 and renames from MEM–RUSSIA–EMANCIPATION to
 MEM–RUSSIA–LAW–EMANCIPATION to reflect legal system classification.
 
 CHANGES IMPLEMENTED:

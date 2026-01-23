@@ -9,7 +9,7 @@ Subject: Mexican–American War (Procedural Republic Turns Expansionist)
 Dates: 1846–1848 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -9,7 +9,7 @@ Subject: Wars with the Polish–Lithuanian Commonwealth
 Dates: c. 1492–1795 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

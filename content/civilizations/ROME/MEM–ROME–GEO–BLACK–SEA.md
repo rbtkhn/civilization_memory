@@ -12,7 +12,7 @@ Subject: The Black Sea (Pontus Euxinus)
 Dates: Hellenistic era – Late Roman / Eastern Roman continuity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -11,7 +11,7 @@ Subject: The Sieges of Vienna (1529 & 1683)
 Dates: 1529 AD · 1683 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Word Count: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

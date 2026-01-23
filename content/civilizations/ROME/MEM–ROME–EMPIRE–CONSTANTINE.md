@@ -11,7 +11,7 @@ Subject: Flavius Valerius Constantinus (Constantine I)
 Dates: c. AD 272 – 337
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

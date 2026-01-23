@@ -11,10 +11,10 @@ Subject: Kievan Rus’ (Киевская Русь)
 Dates: 882–1240 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,900
+Word Count: ~2,900
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.2
+Governed by: CIV–MEM–TEMPLATE v2.5
 Compatibility: CIV–MEM–CORE v2.0+
 
 ────────────────────────────────────────────────────────────
@@ -173,7 +173,7 @@ rather than structural explanation.
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with
-CIV–MEM–TEMPLATE v2.2, Category C quotations are replaced by additional
+CIV–MEM–TEMPLATE v2.5, Category C quotations are replaced by additional
 Category D sources. This substitution is explicit and disclosed.
 
 ────────────────────────────────────────────────────────────

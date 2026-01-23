@@ -9,7 +9,7 @@ Subject: Native Americans (Displacement, Treaty Failure, and Expansion Logic)
 Dates: 17th century–19th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

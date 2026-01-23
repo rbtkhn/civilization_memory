@@ -12,7 +12,7 @@ Subject: Charles-Maurice de Talleyrand-Périgord
 Dates: 1754–1838 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,700
+Word Count: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

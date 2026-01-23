@@ -116,7 +116,7 @@ Dates: c. 133 BC (Gracchi reforms) – 27 BC (Augustus's constitutional settleme
 Class: MEM (Memory)
 ARC Version: ARC–ROME v1.9
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -11,7 +11,7 @@ Subject: Antioch (Syria)
 Dates: 300 BC – AD 637
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,900
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

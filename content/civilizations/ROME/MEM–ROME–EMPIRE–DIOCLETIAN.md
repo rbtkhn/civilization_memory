@@ -11,7 +11,7 @@ Subject: Gaius Aurelius Valerius Diocletianus (Diocletian)
 Dates: c. AD 244 – 311
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,700
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

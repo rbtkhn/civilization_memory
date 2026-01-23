@@ -9,7 +9,7 @@ Subject: Haiti (Revolutionary Inversion & Universalist Collapse)
 Dates: 1791–1804 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

@@ -11,7 +11,7 @@ Subject: Pliny the Elder (Knowledge as Imperial Inventory)
 Dates: c. AD 23 – 79
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

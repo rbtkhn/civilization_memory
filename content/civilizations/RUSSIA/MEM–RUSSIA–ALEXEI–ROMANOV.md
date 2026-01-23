@@ -12,7 +12,7 @@ Subject: Alexei Mikhailovich “the Quietest” (Алексей Михайлов
 Dates: 1629–1676 AD (rule: 1645–1676)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,500
+Word Count: ~3,500
 
 ARC VERSION PINNED: ARC–RUSSIA v2.0
 
@@ -40,7 +40,7 @@ UPGRADE NOTE (v2.0)
 This upgrade is strictly ADDITIVE and preserves all analytical claims,
 structure, and conclusions from v1.1.
 
-v2.0 implements mandatory CIV–MEM–TEMPLATE v2.2 compliance actions:
+v2.0 implements mandatory CIV–MEM–TEMPLATE v2.5 compliance actions:
 • Adds ≥2 GEO–MEM connections (hard requirement)
 • Resolves Early Modern QTT–ARC failure via explicit substitution
 • Declares substitution verbatim per Template v2.2

@@ -11,7 +11,7 @@ Subject: Gaius Octavius (Augustus)
 Dates: 63 BC – AD 14
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,200
+Word Count: ~3,200
 
 SCHOLAR ↔ CORE PARITY VERIFIED (RSA-1)
 

@@ -11,7 +11,7 @@ Subject: Taiga (Boreal Interior Basin — Endurance Ecology)
 Dates: Antiquity–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,850
+Word Count: ~2,850
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 ────────────────────────────────────────────────────────────

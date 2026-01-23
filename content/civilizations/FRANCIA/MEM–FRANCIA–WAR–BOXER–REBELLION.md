@@ -9,7 +9,7 @@ Subject: Boxer Rebellion (Anti-Foreign Violence, Coalition Intervention, and Leg
 Dates: 1899–1901 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,300
+Word Count: ~1,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

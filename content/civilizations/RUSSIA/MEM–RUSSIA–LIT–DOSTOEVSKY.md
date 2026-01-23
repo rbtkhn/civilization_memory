@@ -9,11 +9,11 @@ Subject: Fyodor Dostoevsky (Фёдор Достоевский) — Psychological
 Dates: 1821–1881 AD (decisive works: 1866–1880)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Word Count: ~2,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

@@ -13,7 +13,7 @@ Upgrade Type: ADDITIVE (DIAGNOSTIC REFINEMENT ONLY)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Source Authority: CIV–MEM–CORE v1.5 · CIV–CORE–TEMPLATE v1.5 · DIB–GERMANIA Decision 0006
 Last Update: January 2026
-Wordcount: 3820
+Word Count: 3820
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)

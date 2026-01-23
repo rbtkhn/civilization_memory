@@ -9,7 +9,7 @@ Subject: Sunni Islam (*Ahl al-Sunna wa’l-Jama‘a*)
 Dates: c. 632 AD – Present
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

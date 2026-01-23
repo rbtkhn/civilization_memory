@@ -11,7 +11,7 @@ Subject: Pyrenees Mountains (Barrier, Filter, and Civilizational Boundary)
 Dates: Antiquity – Medieval Continuity
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,300
+Word Count: ~1,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

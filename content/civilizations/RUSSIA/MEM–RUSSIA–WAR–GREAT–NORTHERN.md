@@ -11,18 +11,18 @@ Subject: Great Northern War
 Dates: 1700–1721 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,600
+Word Count: ~1,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade brings the file into full v2.0 compliance with
-CIV–MEM–TEMPLATE v2.3 and cleans up duplicate Massie quotations.
+CIV–MEM–TEMPLATE v2.5 and cleans up duplicate Massie quotations.
 
 CHANGES IMPLEMENTED:
 • Removed duplicate Massie quotation in Section IV

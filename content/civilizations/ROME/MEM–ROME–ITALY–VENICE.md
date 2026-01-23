@@ -12,7 +12,7 @@ Subject: Venice (Venezia)
 Dates: c. 421–1797 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

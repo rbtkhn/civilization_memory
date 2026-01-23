@@ -8,7 +8,7 @@ Subject: Islam in Persia
 Dates: c. 650 AD–present
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

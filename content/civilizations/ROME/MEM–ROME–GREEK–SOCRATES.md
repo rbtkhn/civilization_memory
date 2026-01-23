@@ -10,7 +10,7 @@ Subject: Socrates (Moral Inquiry, Civic Irritation, and the Limits of Speech)
 Dates: c. 469–399 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

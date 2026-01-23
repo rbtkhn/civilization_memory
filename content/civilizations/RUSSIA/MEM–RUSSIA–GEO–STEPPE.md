@@ -11,7 +11,7 @@ Subject: Eurasian Steppe (Open Frontier — Mobility Ecology)
 Dates: Antiquity–present (Rus’ interface from c. 9th c. AD)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,650
+Word Count: ~2,650
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 ────────────────────────────────────────────────────────────

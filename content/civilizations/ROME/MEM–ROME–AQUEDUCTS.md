@@ -11,7 +11,7 @@ Subject: Aqueducts (Water, Law, and Urban Power)
 Dates: c. 312 BC – Late Antiquity (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,600
+Word Count: ~1,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

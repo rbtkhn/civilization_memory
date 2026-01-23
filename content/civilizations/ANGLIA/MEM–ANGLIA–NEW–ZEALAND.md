@@ -9,7 +9,7 @@ Subject: New Zealand (Treaty State, Moral Procedure, and Legitimacy Experiment)
 Dates: 1840 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

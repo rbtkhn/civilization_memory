@@ -11,18 +11,18 @@ Subject: Serfdom (Крепостное право)
 Dates: c. 1590s–1861 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,600
+Word Count: ~1,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade brings the file into full v2.0 compliance with
-CIV–MEM–TEMPLATE v2.3 and renames it to reflect LAW classification.
+CIV–MEM–TEMPLATE v2.5 and renames it to reflect LAW classification.
 
 CHANGES IMPLEMENTED:
 • Renamed from MEM–RUSSIA–SERFDOM to MEM–RUSSIA–LAW–SERFDOM

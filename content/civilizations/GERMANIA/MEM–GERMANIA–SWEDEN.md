@@ -9,7 +9,7 @@ Subject: Sweden (Baltic Counterweight, Military-Administrative Mirror, and North
 Dates: Medieval era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

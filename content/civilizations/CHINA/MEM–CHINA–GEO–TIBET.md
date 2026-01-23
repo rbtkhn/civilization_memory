@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Tibet / Tibetan Plateau (西藏高原)
 Dates: Antiquity – Present
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

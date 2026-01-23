@@ -12,7 +12,7 @@ Subject: Tiberius Claudius Caesar Augustus Germanicus (Claudius)
 Dates: 10 BC – AD 54  
 Class: MEM (Memory)  
 Last Update: January 2026  
-Wordcount: ~2,300  
+Word Count: ~2,300  
 
 SCHOLAR ↔ CORE PARITY VERIFIED (RSA-1)
 

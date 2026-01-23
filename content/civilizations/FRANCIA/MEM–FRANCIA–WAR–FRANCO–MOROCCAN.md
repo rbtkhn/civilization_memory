@@ -10,7 +10,7 @@ Subject: Franco–Moroccan Conflicts (Colonial Enforcement,
 Dates: 1901–1912 AD
 Class: MEM (War)
 Last Update: January 2026
-Wordcount: ~1,950
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -11,7 +11,7 @@ Subject: Attila the Hun (Roman System Stressor)
 Dates: c. AD 406–453
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,600
+Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

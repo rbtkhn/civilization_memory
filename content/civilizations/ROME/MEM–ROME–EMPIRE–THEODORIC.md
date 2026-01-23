@@ -10,7 +10,7 @@ Subject: Theoderic the Great (Flavius Theodericus)
 Dates: c. AD 454–526
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Word Count: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

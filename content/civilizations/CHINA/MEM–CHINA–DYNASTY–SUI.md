@@ -4,7 +4,7 @@ China Memory · Sui Dynasty (隋朝)
 Status: LOCKED
 Version: 1.0
 Class: MEM (Memory)
-Civilization: CHINA (中华文明)
+Word Count: ~2,000Civilization: CHINA (中华文明)
 Dynasty: SUI (隋)
 Dates: 581–618
 Purpose: Preserve civilizational memory of reunification and compression

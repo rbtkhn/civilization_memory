@@ -12,7 +12,7 @@ Subject: Heraclius as Last Universal Emperor and Architect of Survival Transitio
 Dates: AD 610–641
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,350
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

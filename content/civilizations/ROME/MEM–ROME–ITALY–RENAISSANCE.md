@@ -13,7 +13,7 @@ Subject: The Renaissance
 Dates: c. 1300–1550 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,950
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2)

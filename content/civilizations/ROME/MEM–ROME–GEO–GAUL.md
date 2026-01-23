@@ -11,7 +11,7 @@ Subject: Gaul as Roman Geographic, Administrative, and Civilizational Terrain
 Dates: c. 600 BC – 500 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,380
+Word Count: ~1,380
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

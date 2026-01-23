@@ -11,7 +11,7 @@ Subject: Tiberius Julius Caesar Augustus
 Dates: 42 BC – AD 37
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,250
+Word Count: ~1,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

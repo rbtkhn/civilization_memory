@@ -12,7 +12,7 @@ Subject: Iberian Peninsula (Extraction Zone, Romanization Success, and Periphera
 Dates: 3rd century BCAD – 5th century AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,650
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)

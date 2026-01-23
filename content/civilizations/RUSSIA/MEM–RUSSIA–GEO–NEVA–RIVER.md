@@ -12,7 +12,7 @@ Dates: Antiquity–present
 Class: MEM (Memory)
 ARC–RUSSIA Version: v1.5
 Last Update: January 2026
-Wordcount: ~3,850
+Word Count: ~3,850
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -36,7 +36,7 @@ Contradictions preserved without synthesis.
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This upgrade brings the file into FULL compliance with:
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA v1.5
 • Hinge / Corridor / Basin / Frontier taxonomy (locked)
 

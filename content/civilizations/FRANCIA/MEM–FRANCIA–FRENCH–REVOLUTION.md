@@ -9,7 +9,7 @@ Subject: The French Revolution
 Dates: 1789–1799 AD (extended legacy through Napoleonic era)
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

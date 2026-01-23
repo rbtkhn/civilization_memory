@@ -11,7 +11,7 @@ Subject: Castile
 Dates: c. 900 AD – 1700 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

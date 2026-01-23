@@ -9,7 +9,7 @@ Subject: Loire River System (Interior Legitimacy Spine and Royal Continuity Axis
 Dates: Roman era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,250
+Word Count: ~1,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

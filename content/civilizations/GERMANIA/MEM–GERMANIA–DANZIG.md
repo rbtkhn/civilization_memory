@@ -9,7 +9,7 @@ Subject: Danzig (Gdańsk) — Corridor Trauma, Legal Ambiguity, and Escalation T
 Dates: Medieval era–1945 (primary arc: 1919–1939)
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

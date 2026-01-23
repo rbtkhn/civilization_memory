@@ -9,7 +9,7 @@ Subject: Meuse River System (Frontier Corridor, Invasion Channel, and Buffer Fra
 Dates: Roman era–present
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,300
+Word Count: ~1,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

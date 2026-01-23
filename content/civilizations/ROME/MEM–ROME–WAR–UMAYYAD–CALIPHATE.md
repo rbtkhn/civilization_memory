@@ -12,7 +12,7 @@ Subject: Umayyad–Roman War System (Shock Conquest & Failed Universalization)
 Dates: AD 634–750
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

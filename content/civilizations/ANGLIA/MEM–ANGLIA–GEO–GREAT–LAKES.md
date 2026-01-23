@@ -9,7 +9,7 @@ Subject: Great Lakes System (Inland Seas, Industrial Engine, and Strategic Buffe
 Dates: 18th century–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

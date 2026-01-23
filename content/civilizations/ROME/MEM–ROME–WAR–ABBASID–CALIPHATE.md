@@ -12,7 +12,7 @@ Subject: Abbasid–Roman War System (Parity, Translation, and Strategic Freeze)
 Dates: AD 750–945
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,100
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

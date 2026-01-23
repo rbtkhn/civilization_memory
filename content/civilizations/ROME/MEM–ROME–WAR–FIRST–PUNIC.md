@@ -11,7 +11,7 @@ Subject: First Punic War
 Dates: 264–241 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,050
+Word Count: ~1,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

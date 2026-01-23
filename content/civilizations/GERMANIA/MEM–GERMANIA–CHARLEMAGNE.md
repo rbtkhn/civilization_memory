@@ -11,7 +11,7 @@ Subject: Charlemagne (Karl der Große)
 Dates: c. 742–814 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,920
+Word Count: ~1,920
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -9,7 +9,7 @@ Subject: Canada (Procedural Continuity State, Loyalist Absorber, and Managed Aut
 Dates: 1763 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

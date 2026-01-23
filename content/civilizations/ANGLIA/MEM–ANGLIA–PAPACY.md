@@ -9,7 +9,7 @@ Subject: The Papacy (Roman Church Authority)
 Dates: Late Roman era–Early Modern (formal rupture 1534)
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

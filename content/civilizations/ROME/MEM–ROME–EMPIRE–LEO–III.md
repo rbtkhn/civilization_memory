@@ -12,7 +12,7 @@ Subject: Leo III the Isaurian as Emperor of Defensive Consolidation and Doctrina
 Dates: AD 717–741
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

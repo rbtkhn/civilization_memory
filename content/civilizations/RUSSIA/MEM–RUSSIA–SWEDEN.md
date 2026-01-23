@@ -9,7 +9,7 @@ Subject: Sweden (Northern Maritime Rival & Baltic Gatekeeper)
 Dates: Medieval period–19th century (with modern echoes)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: [TBD]
+Word Count: [TBD]
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

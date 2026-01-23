@@ -12,11 +12,11 @@ Subject: Primary Chronicle (Повесть временных лет)
 Dates: c. 850–1110 AD (composition c. 1113 AD)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,900
+Word Count: ~3,900
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • CIV–ARC–RUSSIA v1.5 (pinned)
 
 ────────────────────────────────────────────────────────────

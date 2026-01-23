@@ -11,7 +11,7 @@ Conflict: Franco–Prussian War
 Dates: 1870–1871 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,750
+Word Count: ~2,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

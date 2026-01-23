@@ -10,7 +10,7 @@ Subject: The Crusades (Anglian Perspective)
 Dates: 11th–13th centuries AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

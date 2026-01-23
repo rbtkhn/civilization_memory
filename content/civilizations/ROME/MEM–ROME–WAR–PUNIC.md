@@ -11,7 +11,7 @@ Subject: The Punic Wars
 Dates: 264–146 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 ────────────────────────────────────────────────────────────
 
 I. MEMORY PURPOSE & SCOPE

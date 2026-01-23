@@ -10,7 +10,7 @@ Subject: Queen Victoria
 Dates: 1819–1901 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,420
+Word Count: ~1,420
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

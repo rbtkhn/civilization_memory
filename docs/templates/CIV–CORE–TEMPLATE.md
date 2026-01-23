@@ -17,7 +17,7 @@ Governed by:
 • CIV–SCHOLAR–PROTOCOL v1.9+ (interaction layer only)
 
 Last Update: January 2026
-WORDCOUNT: ~3,800
+Word Count: ~3,800
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)

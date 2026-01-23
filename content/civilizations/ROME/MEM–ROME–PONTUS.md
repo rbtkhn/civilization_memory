@@ -12,7 +12,7 @@ Subject: Pontus as Maritime–Frontier Hybrid and Persistent Strategic Irritant
 Dates: c. 300 BC – AD 400
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

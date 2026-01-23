@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Subject: Liao Dynasty (辽)
 Dates: 907–1125 AD
 Class: MEM (Memory)
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

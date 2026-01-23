@@ -9,11 +9,11 @@ Subject: Khazar Khaganate Wars (Хазарские войны) — Trade Empire 
 Dates: 830s–965 AD (major conflicts: 880s–965)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Word Count: ~2,300
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.3
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────

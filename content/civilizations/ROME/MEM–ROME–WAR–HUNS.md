@@ -12,7 +12,7 @@ Subject: The Huns as External Shock Force and Catalyst of Imperial Reconfigurati
 Dates: c. AD 370 – AD 454
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,300
+Word Count: ~2,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

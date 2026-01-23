@@ -6,7 +6,7 @@ Subject: Mongol Empire — Ilkhanate Arc
 Dates: c. 1219–1353
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

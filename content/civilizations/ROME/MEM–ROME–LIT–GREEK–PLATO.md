@@ -12,7 +12,7 @@ Subject: Plato (Ideal Order, Philosophic Authority, and Political Distance)
 Dates: c. 428–348 BC
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,450
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

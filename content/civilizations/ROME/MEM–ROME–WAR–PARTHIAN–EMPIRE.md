@@ -11,7 +11,7 @@ Subject: Roman–Parthian Conflict as Asymmetric Peer War
 Dates: 53 BC – AD 224
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,700
+Word Count: ~2,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

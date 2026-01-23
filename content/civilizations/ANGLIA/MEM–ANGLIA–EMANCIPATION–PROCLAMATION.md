@@ -9,7 +9,7 @@ Subject: Emancipation Proclamation (Procedural Morality Under War)
 Dates: 1863 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

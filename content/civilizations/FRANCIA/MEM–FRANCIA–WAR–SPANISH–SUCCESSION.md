@@ -9,7 +9,7 @@ Subject: War of the Spanish Succession
 Dates: 1701–1714 AD
 Class: MEM (Memory)
 Last Update: January 2026
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

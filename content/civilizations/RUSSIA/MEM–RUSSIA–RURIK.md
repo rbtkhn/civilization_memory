@@ -11,7 +11,7 @@ Subject: Rurik (Рюрик)
 Dates: c. 830–879 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,250
+Word Count: ~2,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

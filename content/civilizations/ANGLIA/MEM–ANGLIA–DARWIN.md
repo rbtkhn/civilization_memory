@@ -180,5 +180,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–DARWIN v1.3
-WORDCOUNT: ~820
+Word Count: ~820
 ────────────────────────────────────────────────────────────

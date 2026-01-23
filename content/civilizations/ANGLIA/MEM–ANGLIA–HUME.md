@@ -187,5 +187,5 @@ Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–HUME v1.3
-WORDCOUNT: ~820
+Word Count: ~820
 ────────────────────────────────────────────────────────────

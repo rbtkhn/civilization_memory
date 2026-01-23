@@ -11,7 +11,7 @@ Subject: Procopius (Imperial Reality, War, and Administrative Truth)
 Dates: c. AD 500 – c. 565
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,550
+Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

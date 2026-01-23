@@ -11,7 +11,7 @@ Subject: Hispania (Western Consolidation, Romanization Depth, and Quiet Exit)
 Dates: 3rd century BC – 8th century AD (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,500
+Word Count: ~1,500
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

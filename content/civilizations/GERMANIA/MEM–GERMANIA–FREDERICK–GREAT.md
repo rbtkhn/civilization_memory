@@ -11,7 +11,7 @@ Subject: Frederick II (“Frederick the Great”)
 Dates: 1712–1786 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~2,520
+Word Count: ~2,520
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

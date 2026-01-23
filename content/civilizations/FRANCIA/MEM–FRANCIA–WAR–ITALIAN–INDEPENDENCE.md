@@ -10,7 +10,7 @@ Subject: Wars of Italian Independence (Selective Intervention,
 Dates: 1848–1849 AD ; 1859 AD
 Class: MEM (War)
 Last Update: January 2026
-Wordcount: ~2,050
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

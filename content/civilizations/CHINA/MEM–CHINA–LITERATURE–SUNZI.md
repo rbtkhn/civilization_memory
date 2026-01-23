@@ -8,7 +8,7 @@ Text: 《孙子兵法》 The Art of War
 Dates: c. 5th century BC (Spring and Autumn–Warring States transition)
 Class: MEM (Memory)
 Last Update: December 2025
-
+Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

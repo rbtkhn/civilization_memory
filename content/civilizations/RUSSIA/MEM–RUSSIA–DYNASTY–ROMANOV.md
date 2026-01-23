@@ -12,11 +12,11 @@ Subject: Romanov Dynasty
 Dates: 1613–1917 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~3,550
+Word Count: ~3,550
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.2
+• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -87,7 +87,7 @@ This establishes the Romanovs as **repair dynasts**, not founders.
 ────────────────────────────────────────────────────────────
 III. LEGITIMACY SEQUENCING (POST-RURIKID REPAIR PHASE)
 ────────────────────────────────────────────────────────────
-Under CIV–MEM–TEMPLATE v2.2, the Romanovs clarify Russian legitimacy
+Under CIV–MEM–TEMPLATE v2.5, the Romanovs clarify Russian legitimacy
 sequencing:
 
 1. Sacral identity (Orthodoxy) survives collapse
@@ -355,7 +355,7 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Empire as buffer multiplication
 6) Romanovs → Soviet inheritance
 7) Counterfactual: constitutional Romanovs
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.2)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
 
 User must select ONE option.
 

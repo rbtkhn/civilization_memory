@@ -11,7 +11,7 @@ Subject: Strabo (Geography as Imperial Intelligence)
 Dates: c. 64 BC – c. 24 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,450
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
