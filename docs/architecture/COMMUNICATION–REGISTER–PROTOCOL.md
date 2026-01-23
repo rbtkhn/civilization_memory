@@ -219,6 +219,14 @@ IV.F.1 LEARN OGE CATEGORIES
    • Pause/bookmark this investigation
    • Review current SCHOLAR state
 
+6. OBSERVATION OPTIONS — Current events (if enabled)
+   • Observe current event against existing patterns
+   • Test RLL prediction against news
+   • Create provisional hypothesis from current events
+   • Flag observation for future MEM curation
+   • Review active ephemeral observations
+   (See: EPHEMERAL–OBSERVATION–PROTOCOL for full governance)
+
 IV.F.2 LEARN OGE INTERFACE LOOP
 ────────────────────────────────────────────────────────────
 
@@ -262,6 +270,7 @@ F. Record current pattern with confidence assessment
 G. Flag the evidence gaps explicitly
 H. Switch to WRITE mode to draft findings into a MEM
 I. Switch to IMAGINE mode to walk through what we've found
+J. Test this pattern against current events (enter ephemeral observation)
 
 IV.F.4 LEARN VS IMAGINE OGE COMPARISON
 ────────────────────────────────────────────────────────────

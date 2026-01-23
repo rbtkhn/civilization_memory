@@ -419,6 +419,8 @@ UI Components:
 | [LAYER–INTERACTION–IMPLEMENTATION.md](./LAYER–INTERACTION–IMPLEMENTATION.md) | Database schemas, TypeScript interfaces, and service definitions |
 | [SCHOLAR_MODE_ARCHITECTURE.md](./SCHOLAR_MODE_ARCHITECTURE.md) | SCHOLAR sub-mode contracts (TEACH/LEARN/WRITE) |
 | [OGE_ARCHITECTURE.md](./OGE_ARCHITECTURE.md) | Option Generation Engine specification |
+| [COMMUNICATION–REGISTER–PROTOCOL.md](./COMMUNICATION–REGISTER–PROTOCOL.md) | Mode-specific communication styles and OGE systematization |
+| [EPHEMERAL–OBSERVATION–PROTOCOL.md](./EPHEMERAL–OBSERVATION–PROTOCOL.md) | Current event observation and news ingestion governance |
 
 ---
 
