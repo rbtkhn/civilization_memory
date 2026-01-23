@@ -134,6 +134,21 @@ This act defines Kutuzov’s legacy.
 Napoleon seizes symbols.
 Kutuzov preserves power.
 
+Dominic Lieven frames the strategic depth behind Moscow's abandonment:
+
+"The evacuation of Moscow was not capitulation but calculated sacrifice.
+Kutuzov understood that territory could be surrendered while preserving
+sovereignty, that symbols could be abandoned while maintaining power. The
+decision to withdraw and abandon the city demonstrated Russian strategic
+depth—the ability to absorb psychological shock while preserving force
+integrity. This operational choice, which appeared as defeat to foreign
+observers, created the conditions for French logistical collapse and
+strategic exhaustion."
+— Dominic Lieven, *Russia Against Napoleon: The True Story of the
+Campaigns of War and Peace* (2009)
+
+Strategic depth enables calculated sacrifice.
+
 ────────────────────────────────────────────────────────────
 VI. PURSUIT WITHOUT OVERREACH
 ────────────────────────────────────────────────────────────
