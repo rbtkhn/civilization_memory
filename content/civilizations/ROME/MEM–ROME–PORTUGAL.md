@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–PORTUGAL — v1.1
 Civilization: ROME (LATIN CONTINUITY / MARITIME TRANSLATION)
 Regime: POST-IMPERIAL CHRISTIAN KINGDOM → OCEANIC IMPERIAL SYSTEM
 Subject: Portugal (Maritime Roman Continuation)
-Dates: c. 1139 CE–early modern global empire (with afterlife)
+Dates: c. 1139 AD–early modern global empire (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,700

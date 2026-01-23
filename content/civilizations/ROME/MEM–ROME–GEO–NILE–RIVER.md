@@ -85,7 +85,7 @@ It governs **a machine**.
 ────────────────────────────────────────────────────────────
 III. HELLENISTIC INHERITANCE & IMPERIAL CAUTION
 ────────────────────────────────────────────────────────────
-Rome inherits Egypt after Actium (31 BCE).
+Rome inherits Egypt after Actium (31 BC).
 
 Key imperial decisions:
 • Egypt treated as personal imperial domain
@@ -259,7 +259,7 @@ X. POST-ROMAN AFTERLIFE
 ────────────────────────────────────────────────────────────
 After Western collapse:
 • Eastern Rome retains Nile access temporarily
-• Islamic conquest (641 CE) ends Roman grain monopoly
+• Islamic conquest (641 AD) ends Roman grain monopoly
 • Constantinople adapts; Rome cannot
 
 Loss of the Nile finalizes the end of Roman urban supremacy.

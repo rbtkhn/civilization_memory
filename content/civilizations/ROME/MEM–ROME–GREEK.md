@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–GREEK — v1.0
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY (BILINGUAL EMPIRE)
 Subject: Greek Language (Intellect, Mediation, and Civilizational Depth)
-Dates: c. 3rd century BCE–Byzantine continuity
+Dates: c. 3rd century BC–Byzantine continuity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050

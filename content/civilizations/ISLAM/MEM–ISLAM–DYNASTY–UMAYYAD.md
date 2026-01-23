@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: IMPERIAL / POST-PROPHETIC EXPANSIONARY (c. 661–750 CE)
+Regime: IMPERIAL / POST-PROPHETIC EXPANSIONARY (c. 661–750 AD)
 Subject: Umayyad Caliphate
 Dates: 7th–8th centuries CE
 Class: MEM (Memory)
@@ -82,7 +82,7 @@ but legitimacy fragments.
 ────────────────────────────────────────────────────────────
 VI. OVERTHROW & MEMORY
 ────────────────────────────────────────────────────────────
-The Umayyads fall to Abbasid revolution (750 CE).
+The Umayyads fall to Abbasid revolution (750 AD).
 
 Consequences:
 • Dynasty delegitimized in orthodox memory

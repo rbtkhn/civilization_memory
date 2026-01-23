@@ -5,7 +5,7 @@ Status: LOCKED
 Version: 1.5
 Upgrade Type: ADD-ONLY · PROCEDURAL COMPLIANCE (CIV–MEM–TEMPLATE v1.6)
 Civilization: ROME
-Regime: LATE REPUBLIC → PERSONAL DOMINION (c. 60–44 BCE)
+Regime: LATE REPUBLIC → PERSONAL DOMINION (c. 60–44 BC)
 Subject: Gaius Julius Caesar
 Dates: 100–44 BC
 Class: MEM (Memory)

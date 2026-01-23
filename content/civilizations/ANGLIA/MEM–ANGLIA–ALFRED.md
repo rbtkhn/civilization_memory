@@ -191,7 +191,7 @@ Status: ACTIVE
 Exploration options available.”
 
 MANDATORY EIGHT-OPTION EXPLORATION SET:
-1. Primary Source Path — *Anglo-Saxon Chronicle* (878 CE)
+1. Primary Source Path — *Anglo-Saxon Chronicle* (878 AD)
 2. Primary Source Path — Alfred’s *Pastoral Care* Preface
 3. Secondary Scholar Path — Churchill on survival without victory
 4. Secondary Scholar Path — Keegan on repeatable defense

@@ -7,7 +7,7 @@ Supersedes: v1.0
 Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Eurasian Steppe (Open Frontier — Mobility Ecology)
-Dates: Antiquity–present (Rus’ interface from c. 9th c. CE)
+Dates: Antiquity–present (Rus’ interface from c. 9th c. AD)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,650

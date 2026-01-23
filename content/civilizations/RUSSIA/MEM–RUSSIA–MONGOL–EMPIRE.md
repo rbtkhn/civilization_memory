@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Sovereignty · Tributary Compression
 Subject: Mongol Empire / Golden Horde (Монгольская империя / Золотая Орда)
-Dates: c. 1223–1480 CE (Rus’-facing arc)
+Dates: c. 1223–1480 AD (Rus’-facing arc)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300

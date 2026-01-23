@@ -6,7 +6,7 @@ Version: 2.0
 Upgrade Type: ADDITIVE · STRUCTURAL + ARC COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Arctic Ocean (Северный Ледовитый океан)
-Dates: c. CE 1100–present
+Dates: c. AD 1100–present
 Class: MEM (Memory)
 ARC Version Pinned: ARC–RUSSIA v1.5
 Last Update: January 2026

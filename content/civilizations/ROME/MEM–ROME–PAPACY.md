@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–PAPACY v1.0
 Civilization: ROME
 Regime: ECCLESIASTICAL CONTINUATION
 Subject: The Papacy
-Dates: c. 30 CE–Present
+Dates: c. 30 AD–Present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

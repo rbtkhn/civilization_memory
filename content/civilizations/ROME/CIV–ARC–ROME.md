@@ -52,7 +52,7 @@ Primary texts produced in antiquity that directly describe Roman, pre-Roman, or 
 Classification is by temporal origin, not legal status.
 
 Temporal Scope:
-• From earliest Greek historiography through CE 800
+• From earliest Greek historiography through AD 800
 • Includes late antique authors writing before the Carolingian coronation
 
 Approved Ancient Authors (ROME):
@@ -105,13 +105,13 @@ Ancient sources have absolute precedence over all other categories.
 IV. CATEGORY B — MEDIEVAL (REQUIRED WHEN APPLICABLE)
 ────────────────────────────────────────────────────────────
 Definition:
-Primary and secondary sources produced after CE 800 that interpret, transmit, contest, or restructure Roman authority, legitimacy, law, theology, or civilizational memory within medieval contexts.
+Primary and secondary sources produced after AD 800 that interpret, transmit, contest, or restructure Roman authority, legitimacy, law, theology, or civilizational memory within medieval contexts.
 
 This category exists to capture Roman continuity, not rupture.
 
 Temporal Boundary:
-• Begins CE 800, marked by the coronation of Charlemagne
-• Extends through CE 1500
+• Begins AD 800, marked by the coronation of Charlemagne
+• Extends through AD 1500
 
 Rationale:
 The coronation of Charlemagne represents a civilizational hinge:
@@ -132,7 +132,7 @@ Approved Medieval Authors (ROME):
 
 Carolingian and Ottonian Imperial Chronicles/Histories:
 • Einhard (Vita Karoli Magni, early 9th century)
-• Royal Frankish Annals (Annales regni Francorum, late 8th–9th centuries)
+• Royal Frankish Annals (Annales regni Francorum, late 8th century)
 • Widukind of Corvey (Res gestae Saxonicae, mid-10th century)
 • Thietmar of Merseburg (Chronicon, early 11th century)
 
@@ -164,7 +164,7 @@ Definition:
 Historical scholarship from the early modern period (approximately 1500–1900) that interprets Roman history, institutions, and civilizational logic. These sources are typically no longer under copyright and serve as secondary interpretation rather than primary testimony.
 
 Temporal Scope:
-• From approximately CE 1500 through the late 19th century
+• From approximately AD 1500 through the late 19th century
 • Includes Enlightenment and 19th-century classical scholarship
 
 Function:
@@ -172,7 +172,7 @@ Interpretive framing, synthesis, historiographic contrast, and foundational mode
 
 Approved Early Modern Scholars (ROME):
 
-Enlightenment/Early Modern (18th–9th centuries):
+Enlightenment/Early Modern (18th century):
 • Montesquieu (Charles-Louis de Secondat, Baron de Montesquieu, 1689–1755) — Considerations on the Causes of the Greatness of the Romans and Their Decline (1734)
 • Voltaire (François-Marie Arouet, 1694–1778) — Essay on the Customs and the Spirit of Nations (1756) and related essays on Rome
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Vistula River System (Река Висла)
-Dates: c. 1795–1915 CE (primary Russian control arc), 1944–1991 CE (Soviet sphere)
+Dates: c. 1795–1915 AD (primary Russian control arc), 1944–1991 AD (Soviet sphere)
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
@@ -145,7 +145,7 @@ IX. SOURCE QUOTATIONS
 
 CATEGORY A — ANCIENT:
 
-Tacitus, *Germania* (c. 98 CE), on the geography of the northern regions:
+Tacitus, *Germania* (c. 98 AD), on the geography of the northern regions:
 "Beyond the Vistula lie the Venedae, occupying a great part of the
 territory. These peoples are said to be numerous and diverse, dwelling
 in the forests and along the rivers. The Vistula itself flows from the
@@ -159,7 +159,7 @@ known geographic feature in the region, relevant to understanding the
 historical geography of territories that would later come under Russian
 control, providing context for the river's role in regional geography.
 
-Pliny the Elder, *Natural History*, Book IV (c. 77 CE), on the geography
+Pliny the Elder, *Natural History*, Book IV (c. 77 AD), on the geography
 of Europe:
 "The Vistula River flows from the mountains of the north toward the
 northern sea. This river is navigable for a great distance and serves
@@ -174,7 +174,7 @@ navigable river system, establishing the conceptual framework for
 understanding how the river would later function as an administrative
 and economic corridor in Russian-controlled territory.
 
-Strabo, *Geography*, Book VII (c. 20 BCE), on the geography of northern
+Strabo, *Geography*, Book VII (c. 20 BC), on the geography of northern
 Europe:
 "The rivers that flow from the northern regions toward the sea are
 numerous and provide routes for trade and communication. Among these,
@@ -195,7 +195,7 @@ No medieval sources directly address the Vistula in the context of Rus'
 or early Russian expansion, as the river lay beyond the geographic and
 political knowledge of medieval Russian, Byzantine, or Islamic sources.
 The region's incorporation into documented Russian history occurs only
-with the partitions of Poland in the late 18th–9th centuries.
+with the partitions of Poland in the late 18th century.
 
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to

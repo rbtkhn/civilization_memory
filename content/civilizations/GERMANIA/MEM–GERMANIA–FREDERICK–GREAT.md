@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 1.3
 Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
-Regime: Prussian Monarchy (1740–1786 CE)
+Regime: Prussian Monarchy (1740–1786 AD)
 Subject: Frederick II (“Frederick the Great”)
 Dates: 1712–1786 CE
 Class: MEM (Memory)

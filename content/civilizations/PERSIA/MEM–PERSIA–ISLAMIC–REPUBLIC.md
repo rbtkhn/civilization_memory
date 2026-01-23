@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Islamic Republic of Iran
-Dates: 1979 CE–present
+Dates: 1979 AD–present
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.2
 Upgrade Type: COMPLIANCE HARDENING · ARC QUOTATION INTEGRATION (NO ANALYTICAL DRIFT)
 Civilization: ROME
-Regime: MARITIME TRANSIT NODE / EASTERN MEDIATOR (67 BCE–476 CE →)
+Regime: MARITIME TRANSIT NODE / EASTERN MEDIATOR (67 BC–476 AD →)
 Subject: Crete
 Dates: Hellenistic era–Late Antiquity
 Class: MEM (Memory)
@@ -46,7 +46,7 @@ discipline rather than creation.
 ────────────────────────────────────────────────────────────
 III. ROMAN INCORPORATION & PACIFICATION
 ────────────────────────────────────────────────────────────
-Rome annexes Crete in 67 BCE after extended anti-piracy campaigns. The
+Rome annexes Crete in 67 BC after extended anti-piracy campaigns. The
 objective is systemic: reduce maritime disorder that undermines the
 predictability of imperial movement.
 
@@ -176,7 +176,7 @@ A. Strabo and the “two-sided harbor” logic of opportunism
 B. Cassius Dio on piracy as authority corrosion
 C. Pliny on harbors and passage: circulation over fertility
 D. Crete vs Sicily vs Cyprus: initiation / circulation / denial
-E. Mommsen’s 268 CE raids: why Crete remains a target
+E. Mommsen’s 268 AD raids: why Crete remains a target
 F. Gibbon’s “nest of pirates”: reconquest as circulation repair
 G. Counterfactual: Crete unpacified—what breaks first?
 H. Compliance & Integrity Audit

@@ -53,7 +53,7 @@ III. AUGUSTAN SETTLEMENT & THE LIMIT OF EXPANSION
 Under Augustus, the Rhine becomes the anchor of Roman restraint.
 
 After early expansion attempts beyond the river,
-the disaster in Germania (9 CE) redefines policy.
+the disaster in Germania (9 AD) redefines policy.
 
 Rome chooses:
 • Consolidation west of the Rhine

@@ -5,9 +5,9 @@ Status: ACTIVE
 Version: 1.1
 Upgrade Type: COMPLIANCE REISSUE · ARC QUOTATION INTEGRATION
 Civilization: ROME
-Regime: WESTERN MARITIME BUFFER / TROUBLED PERIPHERY (238 BCE–Late Antiquity)
+Regime: WESTERN MARITIME BUFFER / TROUBLED PERIPHERY (238 BC–Late Antiquity)
 Subject: Corsica
-Dates: 3rd century BCE–Late Antiquity
+Dates: 3rd century BC–Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

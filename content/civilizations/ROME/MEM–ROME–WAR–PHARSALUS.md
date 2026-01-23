@@ -16,7 +16,7 @@ Word Count: ~2,450
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves **Pharsalus (48 BCE)** as the decisive *civilizational
+This file preserves **Pharsalus (48 BC)** as the decisive *civilizational
 rupture* of the Roman Republic: the battle in which legitimacy grounded
 in law, Senate, and collective command was permanently displaced by
 legitimacy grounded in **personal military authority**.
@@ -133,7 +133,7 @@ VII. MODERN SCHOLARSHIP — NECESSITY & INTENT
 ────────────────────────────────────────────────────────────
 Peter Heather emphasizes inevitability:
 
-> “By the mid-first century BCE the Roman Republic had already lost the
+> “By the mid-first century BC the Roman Republic had already lost the
 > mechanisms necessary to restrain its generals; Pharsalus merely
 > revealed openly what had long been true in practice.”  
 

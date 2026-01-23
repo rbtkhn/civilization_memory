@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: REPUBLICAN CONQUEST → IMPERIAL FRONTIER MANAGEMENT
 Subject: Pontus as Maritime–Frontier Hybrid and Persistent Strategic Irritant
-Dates: c. 300 BCE–CE 400
+Dates: c. 300 BC–AD 400
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450

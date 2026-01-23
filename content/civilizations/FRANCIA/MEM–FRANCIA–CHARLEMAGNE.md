@@ -6,7 +6,7 @@ Version: 1.2
 Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
-Regime: IMPERIAL / CAROLINGIAN (768–814 CE)
+Regime: IMPERIAL / CAROLINGIAN (768–814 AD)
 Subject: Charlemagne (Charles the Great)
 Dates: c. 742–814 CE
 Class: MEM (Memory)
@@ -62,7 +62,7 @@ Authority is inherited, then expanded through performance.
 ────────────────────────────────────────────────────────────
 III. IMPERIAL CROWNING & LEGITIMACY TRANSLATION
 ────────────────────────────────────────────────────────────
-The coronation of 800 CE reframes Western authority.
+The coronation of 800 AD reframes Western authority.
 
 Dynamics:
 • Papal anointing confers universal Christian claim

@@ -7,7 +7,7 @@ Upgrade Type: FOUNDATIONAL RELEASE · TEMPLATE v2.2 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Linguistic–Civilizational Infrastructure
 Subject: Cyrillic Alphabet (Кириллица)
-Dates: c. 860s CE–present
+Dates: c. 860s AD–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,400

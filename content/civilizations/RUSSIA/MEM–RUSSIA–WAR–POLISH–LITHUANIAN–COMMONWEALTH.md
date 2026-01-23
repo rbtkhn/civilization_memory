@@ -105,7 +105,7 @@ Shift occurs through endurance, not tactical brilliance.
 ────────────────────────────────────────────────────────────
 VII. STRATEGIC REVERSAL & PARTITIONS
 ────────────────────────────────────────────────────────────
-The 18th–9th centuries marks systemic reversal.
+The 18th century marks systemic reversal.
 
 Drivers:
 • Commonwealth political paralysis

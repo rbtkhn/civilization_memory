@@ -59,7 +59,7 @@ Governance becomes backdrop.
 ────────────────────────────────────────────────────────────
 IV. FIRE, SCAPEGOATS, AND CREDIBILITY COLLAPSE
 ────────────────────────────────────────────────────────────
-The Great Fire of Rome  (CE 64) marks rupture.
+The Great Fire of Rome   (AD 64) marks rupture.
 
 Outcomes:
 • Public suspicion
@@ -81,7 +81,7 @@ V. TERMINATION OF A DYNASTY
 ────────────────────────────────────────────────────────────
 Revolt spreads.
 Support collapses.
-Nero commits suicide  (CE 68).
+Nero commits suicide   (AD 68).
 
 The system survives.
 The dynasty does not.

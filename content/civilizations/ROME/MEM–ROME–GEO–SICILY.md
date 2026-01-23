@@ -5,9 +5,9 @@ Status: ACTIVE
 Version: 1.2
 Upgrade Type: COMPLIANCE HARDENING · ARC QUOTATION INTEGRATION
 Civilization: ROME
-Regime: MARITIME CONTROL / IMPERIAL BUFFER ZONE (264 BCE–476 CE →)
+Regime: MARITIME CONTROL / IMPERIAL BUFFER ZONE (264 BC–476 AD →)
 Subject: Sicily
-Dates: 3rd century BCE–Late Antiquity
+Dates: 3rd century BC–Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450
@@ -29,7 +29,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. SICILY AS IMPERIAL INITIATION
 ────────────────────────────────────────────────────────────
-Rome acquires Sicily during the First Punic War (264–241 BCE), marking its
+Rome acquires Sicily during the First Punic War (264–241 BC), marking its
 first permanent overseas possession and its first sustained encounter
 with maritime imperial logic.
 

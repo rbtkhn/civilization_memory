@@ -7,7 +7,7 @@ Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Post-Kievan Collapse · Survival Under Asymmetry
 Subject: Alexander Nevsky (Александр Невский)
-Dates: 1221–1263 CE (rule focus 1252–1263)
+Dates: 1221–1263 AD (rule focus 1252–1263)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,750

@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Chud Wars (Чудские войны) — Northern Frontier Expansion
-Dates: 1030s–1220s CE (major conflicts: 1030–1190s)
+Dates: 1030s–1220s AD (major conflicts: 1030–1190s)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,100
@@ -186,14 +186,14 @@ X. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied:
 
 ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "In the year 6552 (1044 CE), Yaroslav went to Novgorod and gathered many troops. He went against the Chud and conquered their land, setting up fortresses and populating the area with Slavs. From that time the Chud became tributary to the Russians." (Novgorod First Chronicle, 14th century)
+1. "In the year 6552 (1044 AD), Yaroslav went to Novgorod and gathered many troops. He went against the Chud and conquered their land, setting up fortresses and populating the area with Slavs. From that time the Chud became tributary to the Russians." (Novgorod First Chronicle, 14th century)
 
 2. "The Chud people, who live in the northern forests, are a fierce and warlike folk. They dwell in scattered settlements and make their living by hunting and fishing. They have long resisted the advance of the Slavs into their territories." (Primary Chronicle, Laurentian Codex, 11th century)
 
 3. "Yaroslav assembled a great host of Novgorodians and went against the Chud. He fought with them on the ice and defeated them utterly. Many Chud warriors were slain, and their villages were burned. Thus did Yaroslav extend the boundaries of Russian land northward." (Hypatian Codex, 15th century)
 
 MEDIEVAL (≥2 quotations):
-1. "In the year 6694 (1186 CE), the Chud came from the north with a great host and fought against the men of Novgorod. The battle was fierce, and many fell on both sides. The Novgorodians prevailed, but at great cost, and the Chud retreated to their forests." (Novgorod First Chronicle)
+1. "In the year 6694 (1186 AD), the Chud came from the north with a great host and fought against the men of Novgorod. The battle was fierce, and many fell on both sides. The Novgorodians prevailed, but at great cost, and the Chud retreated to their forests." (Novgorod First Chronicle)
 
 2. "The Germans and the Danes came to the land of the Chud with their priests and warriors. They built fortresses and converted many Chud to their faith. But the Russians of Novgorod opposed them, saying this land is ours by right of conquest from Yaroslav's time." (Livonian Rhymed Chronicle, 13th century)
 

@@ -7,7 +7,7 @@ Supersedes: v2.0
 Upgrade Type: ADDITIVE · TOLSTOY QUOTATION ENHANCEMENT (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Mikhail Illarionovich Kutuzov (Михаил Илларионович Кутузов)
-Dates: 1745–1813 CE (decisive role: 1812–1813)
+Dates: 1745–1813 AD (decisive role: 1812–1813)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200

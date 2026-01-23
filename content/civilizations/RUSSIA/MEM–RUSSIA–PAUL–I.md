@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · LMM COMPLIANCE REISSUE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Paul I (Павел I)
-Dates: 1754–1801 CE (rule: 1796–1801)
+Dates: 1754–1801 AD (rule: 1796–1801)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

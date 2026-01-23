@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: EASTERN ROMAN IMPERIAL DEFENSE → POST-IMPERIAL TRANSITION
 Subject: The Arab Conquests as Systemic Exhaustion Event
-Dates: CE 622–750
+Dates: AD 622–750
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,700
@@ -54,7 +54,7 @@ Victory has become non-regenerative.
 ────────────────────────────────────────────────────────────
 III. THE HERACLIAN RECOVERY — A PYRRHIC TRIUMPH
 ────────────────────────────────────────────────────────────
-Heraclius’ defeat of Persia  (CE 628) restores Roman territory but not
+Heraclius’ defeat of Persia   (AD 628) restores Roman territory but not
 Roman depth.
 
 Characteristics:

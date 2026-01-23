@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: IMPERIAL / CALIPHAL CUSTODIANSHIP (c. 1299–1924 CE)
+Regime: IMPERIAL / CALIPHAL CUSTODIANSHIP (c. 1299–1924 AD)
 Subject: Ottoman Dynasty
 Dates: 14th–20th centuries CE
 Class: MEM (Memory)

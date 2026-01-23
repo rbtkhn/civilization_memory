@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Region: SYRIA (Eastern Mediterranean)
 Subject: Syria as Imperial Depth, Transit Corridor, and Stress Multiplier
-Dates: c. 300 BCE–CE 637
+Dates: c. 300 BC–AD 637
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150
@@ -54,7 +54,7 @@ Syria is defined less by borders than by **movement**.
 ────────────────────────────────────────────────────────────
 III. ROMAN INCORPORATION & PROVINCIAL FUNCTION
 ────────────────────────────────────────────────────────────
-Rome annexes Syria in 64 BCE under Pompey, immediately recognizing its
+Rome annexes Syria in 64 BC under Pompey, immediately recognizing its
 strategic primacy.
 
 Provincial roles include:
@@ -183,7 +183,7 @@ Procopius records the exhaustion preceding loss:
 > the weight of empire.”  
 > — Procopius, *Wars*, Book II
 
-Syria falls in CE 637, not as surprise, but as culmination.
+Syria falls in AD 637, not as surprise, but as culmination.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION

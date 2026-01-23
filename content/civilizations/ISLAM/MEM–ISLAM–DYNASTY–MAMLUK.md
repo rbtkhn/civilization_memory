@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: MILITARY CUSTODIAN / SACRED-ZONE DEFENSE (c. 1250–1517 CE)
+Regime: MILITARY CUSTODIAN / SACRED-ZONE DEFENSE (c. 1250–1517 AD)
 Subject: Mamluk Sultanate
 Dates: 13th–16th centuries CE
 Class: MEM (Memory)

@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.0 → v1.1)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Alexander II (Александр II)
-Dates: 1818–1881 CE (rule: 1855–1881)
+Dates: 1818–1881 AD (rule: 1855–1881)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

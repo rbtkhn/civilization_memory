@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: IMPERIAL SACRALIZATION / FINAL LEGAL UNITY
 Subject: Flavius Theodosius I (Theodosius the Great)
-Dates: c. CE 347–395
+Dates: c. AD 347–395
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650
@@ -48,7 +48,7 @@ III. CHRISTIANITY AS IMPERIAL LAW
 Theodosius completes the legal fusion of empire and orthodoxy.
 
 Key act:
-• Edict of Thessalonica  (CE 380)
+• Edict of Thessalonica   (AD 380)
 
 Outcome:
 • Nicene Christianity becomes state religion
@@ -75,7 +75,7 @@ IV. SACRAL AUTHORITY AND IMPERIAL HUMILIATION
 ────────────────────────────────────────────────────────────
 Theodosius submits publicly to episcopal authority.
 
-After the Thessalonica massacre  (CE 390):
+After the Thessalonica massacre   (AD 390):
 • Bishop Ambrose bars the emperor from communion
 • Imperial penitence is enforced
 
@@ -115,7 +115,7 @@ VI. UNITY BY DECREE, DIVISION BY PRACTICE
 ────────────────────────────────────────────────────────────
 Theodosius briefly reunites East and West.
 
-Yet upon his death  (CE 395):
+Yet upon his death   (AD 395):
 • Empire permanently divided between heirs
 • East and West follow divergent trajectories
 • Unity survives only in law and theology

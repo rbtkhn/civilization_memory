@@ -103,7 +103,7 @@ The frontier stabilizes as Russian capacity grows.
 ────────────────────────────────────────────────────────────
 VII. END OF THE KHANATE SYSTEM
 ────────────────────────────────────────────────────────────
-The 18th–9th centuries marks terminal decline.
+The 18th century marks terminal decline.
 
 Drivers:
 • Russian military modernization

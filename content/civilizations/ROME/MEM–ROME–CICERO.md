@@ -6,9 +6,9 @@ Version: 1.8
 Upgrade Type: CARDINALITY COMPLIANCE · CONNECTION SCOPE CORRECTION
 Supersedes: MEM–ROME–CICERO — v1.7
 Civilization: ROME
-Regime: LATE REPUBLIC (c. 80–43 BCE)
+Regime: LATE REPUBLIC (c. 80–43 BC)
 Subject: Marcus Tullius Cicero
-Dates: 106 BCE–43 BC
+Dates: 106 BC–43 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,850
@@ -125,7 +125,7 @@ Edward Gibbon later frames this moment with characteristic irony:
 ────────────────────────────────────────────────────────────
 VI. DEATH AS SYMBOLIC TERMINATION
 ────────────────────────────────────────────────────────────
-Cicero’s execution in 43 BCE is ritualized political violence.
+Cicero’s execution in 43 BC is ritualized political violence.
 
 Its meaning is unambiguous:
 • Oratory is silenced by command

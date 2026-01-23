@@ -66,7 +66,7 @@ The Domesday survey itself declares its intent:
 > realm, how much land each man held, and what it was worth, so that no
 > hide nor yard of land should be unknown, nor its value concealed from
 > the crown.”
-> — Domesday Book Prologue (1086 CE)
+> — Domesday Book Prologue (1086 AD)
 
 John Keegan treats Domesday as a military-administrative instrument:
 knowledge substitutes for garrisons, allowing control without permanent

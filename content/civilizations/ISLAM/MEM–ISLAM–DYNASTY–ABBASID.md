@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: IMPERIAL / CIVILIZATIONAL CONSOLIDATION (c. 750–1258 CE)
+Regime: IMPERIAL / CIVILIZATIONAL CONSOLIDATION (c. 750–1258 AD)
 Subject: Abbasid Caliphate
 Dates: 8th–13th centuries CE
 Class: MEM (Memory)

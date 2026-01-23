@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: WESTERN IMPERIAL DISINTEGRATION
 Subject: The Vandals as Maritime Secessionists and Imperial Asset Seizure Specialists
-Dates: CE 406–CE 534
+Dates: AD 406–AD 534
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,250
@@ -26,7 +26,7 @@ They **occupy its arteries**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. CROSSING INTO IMPERIAL SPACE  (CE 406)
+II. CROSSING INTO IMPERIAL SPACE   (AD 406)
 ────────────────────────────────────────────────────────────
 The Vandals enter Roman territory during systemic breakdown.
 
@@ -58,7 +58,7 @@ This reveals Rome’s loss of **internal coercive capacity**.
 ────────────────────────────────────────────────────────────
 IV. AFRICA: SEIZURE OF THE ECONOMIC CORE
 ────────────────────────────────────────────────────────────
-The capture of North Africa  (CE 429–439) is decisive.
+The capture of North Africa   (AD 429–439) is decisive.
 
 Consequences:
 • Loss of grain supply
@@ -93,7 +93,7 @@ Gibbon observes:
 This is **infrastructure inversion**, not primitive piracy.
 
 ────────────────────────────────────────────────────────────
-VI. THE SACK OF ROME  (CE 455)
+VI. THE SACK OF ROME   (AD 455)
 ────────────────────────────────────────────────────────────
 The Vandal sack is methodical rather than destructive.
 

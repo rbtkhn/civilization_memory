@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Belgium (Buffer State, Tripwire, and Treaty Object)
-Dates: 1830 CE–present
+Dates: 1830 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

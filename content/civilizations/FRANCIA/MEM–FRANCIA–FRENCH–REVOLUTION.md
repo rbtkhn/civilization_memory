@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: The French Revolution
-Dates: 1789–1799 CE (extended legacy through Napoleonic era)
+Dates: 1789–1799 AD (extended legacy through Napoleonic era)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

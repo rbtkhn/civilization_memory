@@ -5,9 +5,9 @@ Status: ACTIVE
 Version: 1.1
 Upgrade Type: COMPLIANCE REISSUE · ARC QUOTATION INTEGRATION
 Civilization: ROME
-Regime: MARITIME BUFFER / RESOURCE–SECURITY ISLAND (238 BCE–Late Antiquity)
+Regime: MARITIME BUFFER / RESOURCE–SECURITY ISLAND (238 BC–Late Antiquity)
 Subject: Sardinia
-Dates: 3rd century BCE–Late Antiquity
+Dates: 3rd century BC–Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,500
@@ -27,7 +27,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. ACQUISITION & STRATEGIC LOGIC
 ────────────────────────────────────────────────────────────
-Rome acquired Sardinia in 238 BCE in the aftermath of the First Punic
+Rome acquired Sardinia in 238 BC in the aftermath of the First Punic
 War. This followed the pattern Polybius describes for Roman expansion:
 not a single unified imperial agenda, but a sequence of decisions to
 address immediate pressure points.

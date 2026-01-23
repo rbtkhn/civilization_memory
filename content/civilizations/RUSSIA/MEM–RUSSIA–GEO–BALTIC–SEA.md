@@ -8,7 +8,7 @@ Supersedes: v1.2
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · PETRINE TRANSFORMATION (v1.2 → v1.3)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Baltic Sea (Балтийское море)
-Dates: c. 800–1400 CE (Rus’-facing arc), 1700–1721 CE (Petrine transformation)
+Dates: c. 800–1400 AD (Rus’-facing arc), 1700–1721 AD (Petrine transformation)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,850
@@ -217,7 +217,7 @@ Ancient testimony frames the Baltic as **plural, coastal, and resistant
 to unification** long before Rus’ entry.
 
 ────────────────────────────────────────────────────────────
-X. CATEGORY B — MEDIEVAL SOURCES (POST–CE 800 FORMATION)
+X. CATEGORY B — MEDIEVAL SOURCES (POST–AD 800 FORMATION)
 ────────────────────────────────────────────────────────────
 **Primary Chronicle (*Povest’ vremennykh let*)**  
 *Relevance justification:* Varangian route and northern trade interface.

@@ -101,7 +101,7 @@ Rome sharpens Persia’s identity.
 ────────────────────────────────────────────────────────────
 VII. TERMINAL PARADOX: MUTUAL EXHAUSTION
 ────────────────────────────────────────────────────────────
-The final Roman–Persian war (602–628 CE) produces no winner.
+The final Roman–Persian war (602–628 AD) produces no winner.
 
 Outcome:
 • Persia temporarily captures vast Roman territory

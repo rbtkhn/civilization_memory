@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Domain: STRATEGIC LITERATURE (兵学)
 Subject: Sunzi / Sun Tzu (孙子)
 Text: 《孙子兵法》 The Art of War
-Dates: c. 5th century BCE (Spring and Autumn–Warring States transition)
+Dates: c. 5th century BC (Spring and Autumn–Warring States transition)
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

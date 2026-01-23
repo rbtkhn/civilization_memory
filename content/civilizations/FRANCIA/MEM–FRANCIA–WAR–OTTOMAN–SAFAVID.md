@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.1  
 Civilization: FRANCIA  
 Subject: Ottoman–Safavid Wars (Intra-Imperial Fracture and Indirect Containment)  
-Dates: c. 1501–1736 CE  
+Dates: c. 1501–1736 AD  
 Class: MEM (Memory)  
 Last Update: February 2026  
 Word Count: ~2,000
@@ -110,7 +110,7 @@ For Francia, this demonstrates a critical lesson:
 ────────────────────────────────────────────────────────────
 VII. DECLINE PHASE & RESIDUAL EFFECTS
 ────────────────────────────────────────────────────────────
-By the 18th–9th centuries:
+By the 18th century:
 • Safavid collapse reduces eastern pressure temporarily
 • Ottoman internal decay replaces external rivalry
 • Structural weakening remains embedded  

@@ -108,7 +108,7 @@ The Roman state:
 • Retains legitimacy claims
 • Continues taxation, law, diplomacy, and war
 
-476 CE is a Western event—not a Roman one.
+476 AD is a Western event—not a Roman one.
 
 ────────────────────────────────────────────────────────────
 VII. POLEMIC AGAINST “BYZANTIUM”

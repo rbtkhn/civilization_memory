@@ -7,7 +7,7 @@ Upgrade Type: FULL ARC COMPLIANCE · CONCEPTUAL HARDENING
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL (PROVINCIAL CORE DEPENDENCY)
 Subject: Egypt (Grain Engine, Legitimacy Lever, Strategic Keystone)
-Dates: 30 BCE–7th century CE (with afterlife)
+Dates: 30 BC–7th century AD (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -57,7 +57,7 @@ It **commandeers** it.
 ────────────────────────────────────────────────────────────
 III. ACTIUM, AUGUSTUS, AND CONTROL ANXIETY
 ────────────────────────────────────────────────────────────
-After Actium (31 BCE), Egypt becomes Augustus’ personal domain.
+After Actium (31 BC), Egypt becomes Augustus’ personal domain.
 
 This is not symbolic.
 It is defensive.

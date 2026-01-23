@@ -21,7 +21,7 @@ The Sasanians represent **continuity through compression and revival**.
 ────────────────────────────────────────────────────────────
 II. DYNASTIC ORIGIN & RESTORATION
 ────────────────────────────────────────────────────────────
-Ardashir I’s overthrow of the Arsacid Parthians (224 CE) is framed not as
+Ardashir I’s overthrow of the Arsacid Parthians (224 AD) is framed not as
 a revolution but as a **return to rightful Persian order**.
 
 Early consolidation relied on:

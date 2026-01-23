@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ROME
 Regime: ECCLESIASTICAL UNIVERSALISM UNDER FRACTURE
 Subject: The Great Schism (East–West Schism)
-Dates: c. CE 1054 (with long prelude and aftershock)
+Dates: c. AD 1054 (with long prelude and aftershock)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,250

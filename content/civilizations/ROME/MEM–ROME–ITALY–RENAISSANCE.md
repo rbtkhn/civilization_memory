@@ -24,7 +24,7 @@ Confirmed:
 • Category A — Ancient Sources (≥2, verbatim, ≥25 words)
 • Category B — Public-Domain Scholarship (≥2, verbatim, ≥25 words)
 • Category C — Modern Copyrighted Scholarship (≥2 scholars, verbatim)
-• Category D — Medieval continuity logic applied implicitly (Italy, post-800 CE)
+• Category D — Medieval continuity logic applied implicitly (Italy, post-800 AD)
 
 No interpretive claims altered.
 No synthesis resolved.

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Gulf of Finland (Финский залив)
-Dates: c. 800 CE–present
+Dates: c. 800 AD–present
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
@@ -159,7 +159,7 @@ IX. SOURCE QUOTATIONS
 
 CATEGORY A — ANCIENT:
 
-Tacitus, *Germania* (c. 98 CE), on the northern seas and their
+Tacitus, *Germania* (c. 98 AD), on the northern seas and their
 exploration:
 "The sea itself has been but little explored, and beyond the Suiones,
 whose fleets are powerful, the waters are said to be frozen and
@@ -174,7 +174,7 @@ difficult but strategically valuable waterways, providing context for
 understanding how the Gulf of Finland would later function as a contested
 maritime corridor connecting different regions and peoples.
 
-Pliny the Elder, *Natural History*, Book IV (c. 77 CE), on the geography
+Pliny the Elder, *Natural History*, Book IV (c. 77 AD), on the geography
 of northern Europe:
 "The northern seas extend far to the east, forming many bays and inlets
 that penetrate deep into the land. These waters are navigable during
@@ -192,7 +192,7 @@ conceptual framework for understanding how the Gulf of Finland would
 later function as a gateway connecting Russian interior to Baltic maritime
 systems.
 
-Strabo, *Geography*, Book VII (c. 20 BCE), on the geography of northern
+Strabo, *Geography*, Book VII (c. 20 BC), on the geography of northern
 Europe:
 "The northern regions are characterized by extensive coastlines and
 many bays that extend far into the interior. These waters serve as routes

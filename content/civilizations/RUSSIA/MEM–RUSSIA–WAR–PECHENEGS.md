@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pecheneg Wars (Печенежские войны) — Steppe Frontier Architecture
-Dates: 915–1036 CE (major conflicts: 968–1036)
+Dates: 915–1036 AD (major conflicts: 968–1036)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200
@@ -164,9 +164,9 @@ IX. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied:
 
 ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "In the year 6406 (898 CE), the Pechenegs came to the Dnieper for the first time. Having made peace with the Russians, they passed through to the Danube, and there they fought with the Bulgars and made peace with them also." (Primary Chronicle, Laurentian Codex, 898 CE)
+1. "In the year 6406 (898 AD), the Pechenegs came to the Dnieper for the first time. Having made peace with the Russians, they passed through to the Danube, and there they fought with the Bulgars and made peace with them also." (Primary Chronicle, Laurentian Codex, 898 AD)
 
-2. "In the year 6454 (946 CE), the Pechenegs came to the Dnieper. Sviatoslav was then in Pereyaslavets. His mother Olga shut herself up in the city with her grandsons Yaropolk, Oleg, and Vladimir. The Pechenegs surrounded the city with a great host. The citizens were in great distress from hunger and thirst." (Primary Chronicle)
+2. "In the year 6454 (946 AD), the Pechenegs came to the Dnieper. Sviatoslav was then in Pereyaslavets. His mother Olga shut herself up in the city with her grandsons Yaropolk, Oleg, and Vladimir. The Pechenegs surrounded the city with a great host. The citizens were in great distress from hunger and thirst." (Primary Chronicle)
 
 3. "The Pechenegs are a Scythian people... they do not till the soil nor do they have any dwelling place, but they live in wagons with their children and wives, and they pasture their flocks winter and summer by the river Don." (Constantine Porphyrogenitus, De Administrando Imperio, 10th century)
 

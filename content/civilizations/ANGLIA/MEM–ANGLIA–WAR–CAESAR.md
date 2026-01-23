@@ -151,7 +151,7 @@ Shared traits:
 • Demonstration over domination
 
 Divergence:
-• Britain later becomes governable (1st c. CE)
+• Britain later becomes governable (1st c. AD)
 • Germania remains structurally resistant longer
 
 Caesar maps imperial feasibility before imperial overreach.

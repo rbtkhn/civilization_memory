@@ -59,7 +59,7 @@ It **converges**.
 ────────────────────────────────────────────────────────────
 IV. MEDINA: STATE FORMATION WITHOUT EMPIRE
 ────────────────────────────────────────────────────────────
-The Hijra (622 CE) marks Islam’s political birth.
+The Hijra (622 AD) marks Islam’s political birth.
 
 Medinan innovations:
 • Constitution of Medina (plural community order)

@@ -81,7 +81,7 @@ Buffer management replaces direct rivalry.
 ────────────────────────────────────────────────────────────
 VI. DECLINE OF DIRECT RIVALRY
 ────────────────────────────────────────────────────────────
-After the 18th–9th centuries:
+After the 18th century:
 • Sweden exits great-power competition
 • Northern wars diminish in scale
 • Rivalry becomes historical memory

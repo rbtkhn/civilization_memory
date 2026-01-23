@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS — v1.0
 Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: Theodosian Walls as Engineered Imperial Durability
-Dates: CE 408–413 (primary construction)
+Dates: AD 408–413 (primary construction)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,100
@@ -31,7 +31,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. IMPERIAL CONTEXT & STRATEGIC INTENT
 ────────────────────────────────────────────────────────────
-Constructed under Theodosius II between CE 408 and 413, the walls respond
+Constructed under Theodosius II between AD 408 and 413, the walls respond
 to a clear imperial diagnosis: the Western Empire is failing, and the
 East must survive alone.
 

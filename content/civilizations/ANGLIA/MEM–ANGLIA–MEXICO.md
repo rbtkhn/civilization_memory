@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Mexico (Boundary Counterpart, Revolutionary Divergence, and Managed Friction State)
-Dates: 1821 CE–present
+Dates: 1821 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

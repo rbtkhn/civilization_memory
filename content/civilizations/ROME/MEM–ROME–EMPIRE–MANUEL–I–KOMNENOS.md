@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / KOMNENIAN EXPANSION PHASE)
 Subject: Manuel I Komnenos as Emperor of Restored Ambition and Strategic Overextension
-Dates: CE 1143–1180
+Dates: AD 1143–1180
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600
@@ -198,7 +198,7 @@ Succession exposes brittleness.
 ────────────────────────────────────────────────────────────
 X. DEATH & SYSTEMIC AFTERSHOCK
 ────────────────────────────────────────────────────────────
-Manuel dies in CE 1180.
+Manuel dies in AD 1180.
 
 Immediate outcomes:
 • Weak regency

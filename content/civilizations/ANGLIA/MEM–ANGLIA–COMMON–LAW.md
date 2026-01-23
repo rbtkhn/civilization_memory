@@ -6,7 +6,7 @@ Version: 1.1
 Upgrade Type: ADDITIVE (CIV–MEM–TEMPLATE v1.6 Compliance)
 Civilization: ANGLIA
 Subject: Common Law
-Dates: c. 12th century CE–present
+Dates: c. 12th century AD–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

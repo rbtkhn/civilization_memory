@@ -6,7 +6,7 @@ Version: 1.1
 Upgrade Type: FULL CANONICAL COMPLIANCE · ACADEMIC SOURCE INTEGRATION
 Supersedes: MEM–ROME–POLYBIUS — v1.0
 Civilization: ROME
-Regime: MID–REPUBLIC (c. 200–118 BCE)
+Regime: MID–REPUBLIC (c. 200–118 BC)
 Subject: Polybius of Megalopolis
 Dates: c. 200–118 BC
 Class: MEM (Memory)
@@ -35,7 +35,7 @@ II. OUTSIDER POSITION & ANALYTICAL ADVANTAGE
 Polybius writes as an embedded outsider.
 
 Context:
-• Greek aristocrat taken to Rome after Pydna (168 BCE)
+• Greek aristocrat taken to Rome after Pydna (168 BC)
 • Political hostage integrated into Roman elite circles
 • Close associate of Scipio Aemilianus
 • Eyewitness to Roman military, political, and social systems

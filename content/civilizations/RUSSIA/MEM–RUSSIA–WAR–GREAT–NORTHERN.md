@@ -71,7 +71,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT
 ────────────────────────────────────────────────────────────
-At the turn of the 18th–9th centuries, Northern Europe was dominated by Sweden.
+At the turn of the 18th century, Northern Europe was dominated by Sweden.
 
 Initial conditions:
 • Sweden: disciplined army, Baltic control, experienced command

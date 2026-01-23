@@ -7,7 +7,7 @@ Upgrade Type: ADD-ONLY · FULL ACADEMIC QUOTATION COMPLIANCE
 Civilization: ROME
 Regime: PRINCIPATE (CONCEALED MONARCHY)
 Subject: Gaius Octavius (Augustus)
-Dates: 63 BCE–CE 14
+Dates: 63 BC–AD 14
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,200
@@ -57,9 +57,9 @@ III. DEFEAT OF RIVALS & CONTROLLED USE OF FORCE
 Augustus eliminates rivals sequentially.
 
 Key milestones:
-• Philippi (42 BCE)
+• Philippi (42 BC)
 • Removal of Lepidus
-• Actium (31 BCE)
+• Actium (31 BC)
 
 Anthony Everitt emphasizes the deliberate withdrawal of violence:
 

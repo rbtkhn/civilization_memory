@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · MEDIEVAL ARC COMPLIANT
 Civilization: ROME (IBERIAN PERIPHERY / LATIN–BASQUE INTERFACE)
 Regime: PYRENEAN KINGDOM → BUFFER STATE → DYNASTIC ABSORPTION
 Subject: Kingdom of Navarre
-Dates: c. 824 CE–1512 CE
+Dates: c. 824 AD–1512 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350

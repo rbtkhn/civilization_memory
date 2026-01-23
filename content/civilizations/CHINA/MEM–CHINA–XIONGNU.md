@@ -26,7 +26,7 @@ II. FORMATION & EMERGENCE MEMORY
 The Xiongnu confederation crystallized in response to **Qin northern expansion**,
 including Meng Tian’s campaigns and early Great Wall construction.
 
-Unification occurred under **Modu Chanyu (冒顿单于, r. 209–174 BCE)**, who consolidated
+Unification occurred under **Modu Chanyu (冒顿单于, r. 209–174 BC)**, who consolidated
 steppe tribes through violence, discipline, and expansion, transforming loose
 nomadic groups into a coherent confederation capable of sustained pressure
 on agrarian empires.

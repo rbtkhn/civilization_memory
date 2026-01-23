@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL + EVIDENTIARY HARDENING · ARC COMPLIANCE SATISFIED
 Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
 Subject: Orthodox Christianity (Православие)
-Dates: 988 CE–present
+Dates: 988 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,200
@@ -65,7 +65,7 @@ civilizational belt:
 > “The Scythians are nomads, carrying their dwellings with them, and
 > none of them dwell in cities or cultivate the soil; but they live
 > from their herds and wagons, and all their habitations are wagons.”
-> — Herodotus, *Histories*, Book IV (5th c. BCE), trans. Rawlinson
+> — Herodotus, *Histories*, Book IV (5th c. BC), trans. Rawlinson
 
 This zone produced **mobility without institutional permanence**.
 Christianization later supplies permanence without mobility.

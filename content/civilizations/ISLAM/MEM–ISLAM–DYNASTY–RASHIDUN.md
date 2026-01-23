@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: FOUNDATIONAL / TRANSITIONAL CALIPHATE (632–661 CE)
+Regime: FOUNDATIONAL / TRANSITIONAL CALIPHATE (632–661 AD)
 Subject: Rashidun Caliphate
 Dates: 7th century CE
 Class: MEM (Memory)

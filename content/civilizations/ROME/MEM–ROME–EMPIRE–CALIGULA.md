@@ -81,7 +81,7 @@ The empire survives **despite** the emperor.
 ────────────────────────────────────────────────────────────
 V. ASSASSINATION AS SYSTEM CORRECTION
 ────────────────────────────────────────────────────────────
-Caligula is murdered  (CE 41).
+Caligula is murdered   (AD 41).
 
 The act is not ideological.
 It is administrative.

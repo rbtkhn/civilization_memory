@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
 Subject: Shi‘a Islam (*Shi‘at ‘Ali*)
-Dates: c. 632 CE–Present
+Dates: c. 632 AD–Present
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -55,7 +55,7 @@ It confirms it.
 ────────────────────────────────────────────────────────────
 IV. MARTYRDOM AS LEGITIMACY ENGINE
 ────────────────────────────────────────────────────────────
-Karbala (680 CE) defines Shi‘a time.
+Karbala (680 AD) defines Shi‘a time.
 
 Husayn’s death establishes:
 • Suffering as proof of righteousness

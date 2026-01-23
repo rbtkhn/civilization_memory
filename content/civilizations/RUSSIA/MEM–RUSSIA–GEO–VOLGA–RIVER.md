@@ -7,7 +7,7 @@ Supersedes: v1.0
 Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Volga River System (Река Волга)
-Dates: c. 900–1400 CE (primary civilizational arc)
+Dates: c. 900–1400 AD (primary civilizational arc)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400
@@ -20,7 +20,7 @@ CIV–ARC–RUSSIA v1.5.
 
 • No existing descriptive content removed or altered
 • ARC Categories A–D added with required quotations
-• Temporal hinge  (CE 800) enforced
+• Temporal hinge   (AD 800) enforced
 • Interpretive hierarchy preserved
 • Contradictions retained without synthesis
 
@@ -140,7 +140,7 @@ Ancient sources frame the Volga space as **interior connective tissue**
 rather than maritime exposure.
 
 ────────────────────────────────────────────────────────────
-IX. CATEGORY B — MEDIEVAL SOURCES (POST–CE 800 FORMATION)
+IX. CATEGORY B — MEDIEVAL SOURCES (POST–AD 800 FORMATION)
 ────────────────────────────────────────────────────────────
 **Ibn Fadlan — *Risala***  
 *Relevance justification:* Direct observation of Volga-based trade,

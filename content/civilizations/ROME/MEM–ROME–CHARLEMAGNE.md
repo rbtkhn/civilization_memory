@@ -35,7 +35,7 @@ From this view, Charlemagne does not inherit empire—he **duplicates** it.
 ────────────────────────────────────────────────────────────
 III. PAPAL CORONATION AS LEGITIMACY BREACH
 ────────────────────────────────────────────────────────────
-The coronation of 800 CE is treated as a unilateral act.
+The coronation of 800 AD is treated as a unilateral act.
 
 Roman interpretation:
 • Papacy exceeds ecclesiastical mandate

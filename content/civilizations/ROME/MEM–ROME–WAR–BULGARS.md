@@ -34,7 +34,7 @@ Key features:
 • Steppe military traditions
 • Slavic demographic base
 • Rapid territorial consolidation
-• Early recognition by Rome (681 CE)
+• Early recognition by Rome (681 AD)
 
 The Bulgars are not raiders.
 They are builders.

@@ -5,7 +5,7 @@ Status: LOCKED · CANONICAL
 Version: 1.2
 Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
 Civilization: GERMANIA
-Regime / Mode: IMPERIAL PARTICIPATION · FRACTURED AUTHORITY (1095–1291 CE)
+Regime / Mode: IMPERIAL PARTICIPATION · FRACTURED AUTHORITY (1095–1291 AD)
 Subject: The Crusades (German Perspective)
 Dates: 11th–13th centuries CE
 Class: MEM (Memory)

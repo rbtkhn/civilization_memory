@@ -5,7 +5,7 @@ Status: CANONICAL · LOCKED · FINAL
 Version: 1.2
 Upgrade Type: ARC COMPLIANCE · GEOMETRIC ANCHOR ALIGNMENT · SCHOLARSHIP REFINEMENT
 Civilization: ROME (EASTERN / CONTINUING)
-Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 CE)
+Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 AD)
 Subject: Constantinople
 Dates: 330–1453 CE
 Class: MEM (Memory)
@@ -32,7 +32,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. FOUNDING AS STRATEGIC TRANSLATION
 ────────────────────────────────────────────────────────────
-Constantinople is founded by Constantine in 330 CE as *Nova Roma*.
+Constantinople is founded by Constantine in 330 AD as *Nova Roma*.
 
 Its selection reflects translation rather than innovation:
 • Control of the Bosporus (Mediterranean–Black Sea hinge)

@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: LATE REPUBLIC → IMPERIAL TRANSITION (CRISIS WAR)
 Subject: The Wars of Mithridates VI Eupator
-Dates: 88 BCE–63 BC
+Dates: 88 BC–63 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,800

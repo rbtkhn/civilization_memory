@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
 Version: 1.0
 Civilization: FRANCIA
-Regime: NOBLE MOBILIZATION / EARLY ROYAL MYTH FORMATION (1095–1291 CE)
+Regime: NOBLE MOBILIZATION / EARLY ROYAL MYTH FORMATION (1095–1291 AD)
 Subject: The Crusades (French Perspective)
 Dates: 11th–13th centuries CE
 Class: MEM (Memory)

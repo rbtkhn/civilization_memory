@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Bourbon Dynasty
-Dates: 1589–1792 CE (restored 1814–1830)
+Dates: 1589–1792 AD (restored 1814–1830)
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -58,7 +58,7 @@ It is earned.
 ────────────────────────────────────────────────────────────
 III. DACIAN WARS & RESOURCE LOGIC
 ────────────────────────────────────────────────────────────
-Trajan’s Dacian campaigns  (CE 101–102; 105–106) exemplify rational conquest.
+Trajan’s Dacian campaigns   (AD 101–102; 105–106) exemplify rational conquest.
 
 Outcomes:
 • Decisive military victory
@@ -82,7 +82,7 @@ This is expansion that pays for itself—for a time.
 ────────────────────────────────────────────────────────────
 IV. PARTHIAN CAMPAIGNS & OVERREACH
 ────────────────────────────────────────────────────────────
-Trajan’s eastern campaigns  (CE 113–117) reveal imperial limits.
+Trajan’s eastern campaigns   (AD 113–117) reveal imperial limits.
 
 Challenges:
 • Vast distances and long supply lines

@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · TEMPLATE COMPLIANCE
 Civilization: ROME
 Regime: LATE REPUBLIC (EXTRAORDINARY COMMAND NORMALIZATION)
 Subject: Gnaeus Pompeius Magnus (Pompey the Great)
-Dates: 106 BCE–48 BC
+Dates: 106 BC–48 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750
@@ -148,7 +148,7 @@ against a post-constitutional adversary.
 ────────────────────────────────────────────────────────────
 VII. PHARSALUS & THE FAILURE OF LEGAL AUTHORITY
 ────────────────────────────────────────────────────────────
-At Pharsalus (48 BCE), Pompey’s advantage collapses.
+At Pharsalus (48 BC), Pompey’s advantage collapses.
 
 Caesar’s veterans defeat Pompey’s coalition force.
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Australia (Penal Genesis, Continental Procedure, and Pacific Anchor)
-Dates: 1788 CE–present
+Dates: 1788 AD–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

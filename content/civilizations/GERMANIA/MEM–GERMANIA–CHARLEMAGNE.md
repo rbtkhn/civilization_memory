@@ -87,7 +87,7 @@ The *Capitulare missorum* formalized administrative penetration:
 
 > “Let the missi inquire diligently whether counts and judges have
 > rendered justice… and correct what they find amiss.”
-> — *Capitulare missorum*, late 8th–9th centuries
+> — *Capitulare missorum*, late 8th century
 
 Administration existed to enforce discipline, not negotiate autonomy.
 

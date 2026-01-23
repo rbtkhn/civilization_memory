@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–HIST–SUETONIUS — v1.6
 Civilization: ROME
 Regime: EARLY EMPIRE (JULIO-CLAUDIAN → FLAVIAN MEMORY)
 Subject: Gaius Suetonius Tranquillus
-Dates: c. CE 69–after CE 122
+Dates: c. AD 69–after AD 122
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350

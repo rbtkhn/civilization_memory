@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Islam in Persia
-Dates: c. 650 CE–present
+Dates: c. 650 AD–present
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -23,7 +23,7 @@ Islam is absorbed; Persia endures.
 ────────────────────────────────────────────────────────────
 II. CONQUEST WITHOUT ERASURE
 ────────────────────────────────────────────────────────────
-The Arab–Islamic conquest (7th century CE) defeats Sasanian state power
+The Arab–Islamic conquest (7th century AD) defeats Sasanian state power
 but does not annihilate Persian civilizational memory.
 
 Key dynamics:

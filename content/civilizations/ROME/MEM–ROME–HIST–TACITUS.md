@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–TACITUS — v1.0
 Civilization: ROME
 Regime: EARLY IMPERIAL (PRINCIPATE)
 Subject: Publius Cornelius Tacitus
-Dates: c. CE 56–c. CE 120
+Dates: c. AD 56–c. AD 120
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,700
@@ -36,7 +36,7 @@ Tacitus is not an outsider.
 
 Roles:
 • Senator
-• Consul  (CE 97)
+• Consul   (AD 97)
 • Participant in imperial administration
 
 He benefits from empire while documenting its deformities.

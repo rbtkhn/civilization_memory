@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–ALEXANDRIA — v1.3
 Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / INTELLECTUAL METROPOLIS
 Subject: Alexandria (Egypt)
-Dates: 331 BCE–CE 641
+Dates: 331 BC–AD 641
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050
@@ -58,7 +58,7 @@ universally.
 ────────────────────────────────────────────────────────────
 III. ROMAN CONQUEST & CONTROL ANXIETY
 ────────────────────────────────────────────────────────────
-Rome absorbs Alexandria after Actium (31 BCE), but does not treat it like
+Rome absorbs Alexandria after Actium (31 BC), but does not treat it like
 other provinces.
 
 Imperial posture toward Egypt includes:
@@ -152,7 +152,7 @@ This creates a structural loop:
 Alexandria becomes a place where Rome’s dependence is visible—and
 visibility converts economic logic into political risk.
 
-During the High Empire (c. CE 100–200), Alexandria’s relative surface
+During the High Empire (c. AD 100–200), Alexandria’s relative surface
 stability is not the result of civic integration, but of constant
 imperial attention. Calm is maintained administratively rather than
 earned socially.
@@ -220,7 +220,7 @@ authoritative override.
 ────────────────────────────────────────────────────────────
 IX. DECLINE, CONQUEST, & AFTERLIFE
 ────────────────────────────────────────────────────────────
-Alexandria falls to Arab-Muslim forces in CE 641.
+Alexandria falls to Arab-Muslim forces in AD 641.
 
 By this stage:
 • Roman authority is largely symbolic

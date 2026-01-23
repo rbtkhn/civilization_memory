@@ -154,7 +154,7 @@ It is survived because identity outlives authority.
 ────────────────────────────────────────────────────────────
 VIII. TRANSITION TO EMPIRE (SCALING, NOT TRANSFORMATION)
 ────────────────────────────────────────────────────────────
-By the early 18th–9th centuries:
+By the early 18th century:
 • Muscovite methods scale territorially
 • Administrative complexity increases
 • Autocracy is formalized, not invented

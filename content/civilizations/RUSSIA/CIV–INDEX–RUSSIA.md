@@ -8,7 +8,7 @@ Supersedes: CIV–INDEX–RUSSIA v2.1
 Upgrade Type: REGISTER UPDATE · MISSING FILES ADDED + NAMING CORRECTIONS
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
-Dates: c. 800 CE–present
+Dates: c. 800 AD–present
 Class: CIV (Index)
 Last Update: January 2026
 

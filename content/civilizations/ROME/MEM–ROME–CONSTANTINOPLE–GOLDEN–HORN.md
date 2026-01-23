@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–CONSTANTINOPLE–GOLDEN–HORN — v1.0
 Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: The Golden Horn as Engineered Maritime Sovereignty
-Dates: c. 330 CE–1453 CE
+Dates: c. 330 AD–1453 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050

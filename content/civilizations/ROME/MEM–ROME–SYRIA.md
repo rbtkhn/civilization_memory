@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL (EASTERN STRATEGIC CORE)
 Subject: Syria (Military–Commercial Hinge and Forward Governance Zone)
-Dates: 64 BCE–7th century CE
+Dates: 64 BC–7th century CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,520
@@ -26,7 +26,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. ANNEXATION & STRATEGIC NECESSITY
 ────────────────────────────────────────────────────────────
-Rome acquires Syria in 64 BCE under Pompey.
+Rome acquires Syria in 64 BC under Pompey.
 
 Reasons:
 • Collapse of Seleucid authority

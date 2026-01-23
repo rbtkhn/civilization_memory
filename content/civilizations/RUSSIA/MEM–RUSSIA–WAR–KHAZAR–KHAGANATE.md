@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Khazar Khaganate Wars (Хазарские войны) — Trade Empire Confrontation
-Dates: 830s–965 CE (major conflicts: 880s–965)
+Dates: 830s–965 AD (major conflicts: 880s–965)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -183,7 +183,7 @@ X. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied:
 
 ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "In the year 6472 (964 CE), Sviatoslav went campaigning against the Khazars. Hearing of this, the Khazar kagan came out against him with his prince and met him on the Volga. And they joined battle, and after fighting for a long time, Sviatoslav defeated the Khazars and took their city of Belaya Vezha." (Primary Chronicle, Laurentian Codex)
+1. "In the year 6472 (964 AD), Sviatoslav went campaigning against the Khazars. Hearing of this, the Khazar kagan came out against him with his prince and met him on the Volga. And they joined battle, and after fighting for a long time, Sviatoslav defeated the Khazars and took their city of Belaya Vezha." (Primary Chronicle, Laurentian Codex)
 
 2. "We have been much oppressed by the Khazars and the Kozars. So we have sent to you, for we have heard that you are a just king and your people are believers. We beg you to send us one of your servants to judge between us justly." (Kievan Letter, Hebrew correspondence to Hasdai ibn Shaprut, 10th century)
 

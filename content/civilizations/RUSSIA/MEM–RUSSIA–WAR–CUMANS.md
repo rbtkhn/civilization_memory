@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Cuman Wars (Половецкие войны) — Steppe Alliance Complexity
-Dates: 1055–1239 CE (major conflicts: 1090s–1220s)
+Dates: 1055–1239 AD (major conflicts: 1090s–1220s)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400
@@ -188,14 +188,14 @@ X. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied:
 
 ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "In the year 6601 (1093 CE), the Cumans came from the steppe in great force. They crossed the frozen rivers and surrounded Pereyaslavl. The prince there, Vladimir Vsevolodovich, sent messengers to his brothers saying: 'Come quickly, for the Cumans are upon us and Pereyaslavl is in great danger.' The brothers came with their troops but were defeated." (Primary Chronicle, Laurentian Codex)
+1. "In the year 6601 (1093 AD), the Cumans came from the steppe in great force. They crossed the frozen rivers and surrounded Pereyaslavl. The prince there, Vladimir Vsevolodovich, sent messengers to his brothers saying: 'Come quickly, for the Cumans are upon us and Pereyaslavl is in great danger.' The brothers came with their troops but were defeated." (Primary Chronicle, Laurentian Codex)
 
 2. "Vladimir Monomakh fought the Cumans nineteen times in his life, taking many of their khans prisoner and killing others. He captured horses, camels, and cattle without number. He freed many Russian captives from Cuman slavery and destroyed many Cuman camps." (Vladimir Monomakh's Autobiography, Primary Chronicle)
 
 3. "The Cumans are a nomadic people dwelling in felt tents. They move about with their herds and have no fixed abodes. They are skillful archers and fierce warriors. They pay tribute to no one and often raid the lands of settled peoples, carrying off captives and livestock." (Constantine Porphyrogenitus, De Administrando Imperio, 10th century)
 
 MEDIEVAL (≥2 quotations):
-1. "In the year 6732 (1224 CE), the Russians gathered a great host against the Cumans and met them at the river Kalka. The Cumans retreated before them, luring the Russians into pursuit. Then the Mongol forces fell upon the Russians from the rear, and there was a great slaughter. Few Russians escaped to tell the tale." (Novgorod First Chronicle, 14th century)
+1. "In the year 6732 (1224 AD), the Russians gathered a great host against the Cumans and met them at the river Kalka. The Cumans retreated before them, luring the Russians into pursuit. Then the Mongol forces fell upon the Russians from the rear, and there was a great slaughter. Few Russians escaped to tell the tale." (Novgorod First Chronicle, 14th century)
 
 2. "The Cuman khans Kotyan and Daniel came to the Russians at the river Kalka, offering peace and alliance against the Mongols. But when the battle turned against the Russians, the Cumans abandoned them and joined the Mongols in the slaughter. Thus ended the alliance and began the great tribulation of the Russian land." (Hypatian Codex, 15th century)
 

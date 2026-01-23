@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Han Dynasty (汉)
-Dates: 206 BCE–220 CE
+Dates: 206 BC–220 CE
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

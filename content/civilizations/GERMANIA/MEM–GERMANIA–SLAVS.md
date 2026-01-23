@@ -136,7 +136,7 @@ X. PRIMARY SOURCES & REFERENCES
 Primary:
 • Jordanes, *Getica*
 • Helmold of Bosau, *Chronica Slavorum*
-• Prussian state papers (18th–9th centuries)
+• Prussian state papers (18th century)
 • Otto von Bismarck correspondence
 • Winston Churchill, Parliamentary speeches
 

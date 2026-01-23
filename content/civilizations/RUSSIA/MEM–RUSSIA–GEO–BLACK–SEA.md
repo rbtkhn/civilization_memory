@@ -12,7 +12,7 @@ Governed by:
 • ARC–RUSSIA (pinned)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Black Sea (Чёрное море)
-Dates: c. 800–1400 CE (Rus’-facing arc)
+Dates: c. 800–1400 AD (Rus’-facing arc)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400

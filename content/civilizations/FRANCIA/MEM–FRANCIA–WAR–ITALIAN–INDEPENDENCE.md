@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Wars of Italian Independence (Selective Intervention,
          Controlled Universalism, and Managed Victory)
-Dates: 1848–1849 CE ; 1859 CE
+Dates: 1848–1849 AD ; 1859 CE
 Class: MEM (War)
 Last Update: January 2026
 Word Count: ~2,050

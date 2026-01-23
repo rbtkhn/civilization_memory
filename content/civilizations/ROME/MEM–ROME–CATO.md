@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–CATO — v1.1
 Civilization: ROME
 Regime: LATE REPUBLIC (STOIC RESISTANCE TO PERSONAL RULE)
 Subject: Marcus Porcius Cato Uticensis (Cato the Younger)
-Dates: 95 BCE–46 BC
+Dates: 95 BC–46 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650
@@ -108,7 +108,7 @@ but without Cicero’s rhetorical mediation.
 ────────────────────────────────────────────────────────────
 V. UTICA: SUICIDE AS POLITICAL ACT
 ────────────────────────────────────────────────────────────
-After Caesar’s victory at Thapsus (46 BCE), Cato chooses death.
+After Caesar’s victory at Thapsus (46 BC), Cato chooses death.
 
 Caesar offers pardon.
 Cato refuses.

@@ -68,7 +68,7 @@ Actions include:
 > “I, Æthelstan, king of the English, ordained this law with the counsel
 > of my bishops and reeves, that peace be kept throughout all my realm,
 > and that justice be established alike for rich and poor.”
-> — Law Code of Æthelstan, Prologue (c. 930 CE)
+> — Law Code of Æthelstan, Prologue (c. 930 AD)
 
 John Keegan observes that early English unification succeeded less
 through decisive battlefield annihilation than through **the extension

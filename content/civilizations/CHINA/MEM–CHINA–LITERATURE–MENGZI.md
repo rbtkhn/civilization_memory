@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Domain: POLITICAL–ETHICAL LITERATURE (儒学)
 Subject: Mengzi / Mencius (孟子)
 Text Corpus: 《孟子》
-Dates: c. 372–289 BCE (Warring States period)
+Dates: c. 372–289 BC (Warring States period)
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
