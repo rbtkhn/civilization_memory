@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Austria–Hungary (Dual Monarchy, Compromise State, and Imperial Delay Mechanism)
-Dates: 1867–1918 CE
+Dates: 1867–1918 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -67,7 +67,7 @@ The state functions.
 Belief does not.
 
 ────────────────────────────────────────────────────────────
-V. MILITARY STRAIN & COALITION DEPENDENCE
+V. MILITARY STRAIN & COALITION DEPENDENAD
 ────────────────────────────────────────────────────────────
 Military power degrades structurally.
 

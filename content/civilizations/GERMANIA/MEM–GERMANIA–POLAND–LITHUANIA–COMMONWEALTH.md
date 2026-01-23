@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Poland–Lithuania Commonwealth (Plural Sovereignty, Noble Liberty, and Administrative Incompatibility)
-Dates: 1569–1795 CE
+Dates: 1569–1795 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050

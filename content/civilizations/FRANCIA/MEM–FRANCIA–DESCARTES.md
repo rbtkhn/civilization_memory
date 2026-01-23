@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: René Descartes
-Dates: 1596–1650 CE
+Dates: 1596–1650 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

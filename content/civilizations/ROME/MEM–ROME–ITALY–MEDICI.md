@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–ITALY–MEDICI — v1.0
 Civilization: ROME (ITALIAN AFTERLIFE / CIVIC–FINANCIAL CONTINUITY)
 Regime: REPUBLICAN FORMS → OLIGARCHIC STEWARDSHIP (c. 1400–1530 AD)
 Subject: The Medici Family (Florence)
-Dates: c. 1377–1537 CE
+Dates: c. 1377–1537 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650
@@ -28,7 +28,7 @@ They **administer its Italian afterlife**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. FROM ROMAN PATRONAGE TO ITALIAN FINANCIAL DOMINANCE
+II. FROM ROMAN PATRONAGE TO ITALIAN FINANCIAL DOMINANAD
 ────────────────────────────────────────────────────────────
 The Medici inherit a Roman logic older than empire itself:
 authority flows through **obligation networks**, not merely through
@@ -131,7 +131,7 @@ Machiavelli identifies the structural vulnerability:
 Italian Rome is agile—but brittle.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Medici illustrate a late Roman truth:
 

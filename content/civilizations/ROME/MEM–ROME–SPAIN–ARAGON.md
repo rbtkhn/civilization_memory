@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · MEDIEVAL ARC COMPLIANT
 Civilization: ROME (IBERIAN CONTINUITY)
 Regime: MEDIEVAL CROWN → COMPOSITE MARITIME EMPIRE
 Subject: Crown of Aragon
-Dates: c. 1035 AD–1707 CE
+Dates: c. 1035 AD–1707 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

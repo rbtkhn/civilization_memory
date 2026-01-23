@@ -6,7 +6,7 @@ Version: 2.1
 Upgrade Type: STRUCTURAL CLARIFICATION · EPISTEMIC HARDENING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Oleg of Novgorod (Вещий Олег)
-Dates: c. 879–912 CE
+Dates: c. 879–912 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,210

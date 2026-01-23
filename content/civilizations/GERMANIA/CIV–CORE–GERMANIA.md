@@ -178,7 +178,7 @@ MANDATORY OUTPUT:
 • Social Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANCE
+X. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 
 • Technocratic neutrality

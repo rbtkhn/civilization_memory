@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.1
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC–RUSSIA v1.5 COMPLIANCE
+Upgrade Type: ADDITIVE · FULL ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Caspian Sea (Каспийское море)
 Dates: Antiquity–present (Russian strategic salience from 16th c. AD)

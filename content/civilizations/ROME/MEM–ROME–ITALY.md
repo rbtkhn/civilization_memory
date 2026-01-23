@@ -111,7 +111,7 @@ Even as provinces multiply, Italy remains Rome’s symbolic heart.
 To lose Italy is to lose Rome’s meaning.
 
 ────────────────────────────────────────────────────────────
-V. ITALY AND MEDITERRANEAN DOMINANCE
+V. ITALY AND MEDITERRANEAN DOMINANAD
 ────────────────────────────────────────────────────────────
 Italy’s central location transforms the Mediterranean into interior
 space rather than frontier.

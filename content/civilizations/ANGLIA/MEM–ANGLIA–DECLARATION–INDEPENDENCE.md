@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Declaration of Independence
-Dates: 1776 CE
+Dates: 1776 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

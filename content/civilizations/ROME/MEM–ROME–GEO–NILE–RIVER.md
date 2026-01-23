@@ -50,7 +50,7 @@ the Nile enables survival.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. GEOGRAPHIC LOGIC: CLOSED SYSTEM, TOTAL DEPENDENCE
+II. GEOGRAPHIC LOGIC: CLOSED SYSTEM, TOTAL DEPENDENAD
 ────────────────────────────────────────────────────────────
 The Nile is a singular river system.
 

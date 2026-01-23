@@ -7,7 +7,7 @@ Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
 Regime: Prussian Monarchy (1740–1786 AD)
 Subject: Frederick II (“Frederick the Great”)
-Dates: 1712–1786 CE
+Dates: 1712–1786 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,520

@@ -45,7 +45,7 @@ Outcomes:
 India adapts by **relocation, not collapse**.
 
 ────────────────────────────────────────────────────────────
-IV. GEOPOLITICAL SEVERANCE
+IV. GEOPOLITICAL SEVERANAD
 ────────────────────────────────────────────────────────────
 Islamic conquests and later Partition sever Indus from India.
 

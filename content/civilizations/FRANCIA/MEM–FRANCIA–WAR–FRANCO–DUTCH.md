@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Dutch War
-Dates: 1672–1678 CE
+Dates: 1672–1678 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -37,7 +37,7 @@ Francia assumes force can override finance.
 This assumption proves false.
 
 ────────────────────────────────────────────────────────────
-III. INITIAL SUCCESS & STRUCTURAL RESISTANCE
+III. INITIAL SUCCESS & STRUCTURAL RESISTANAD
 ────────────────────────────────────────────────────────────
 Early campaigns favor Francia.
 

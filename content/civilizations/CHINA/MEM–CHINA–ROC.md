@@ -128,7 +128,7 @@ Stability preceded liberalization:
 Legitimacy was postponed, not abandoned.
 
 ────────────────────────────────────────────────────────────
-VIII. DEMOCRATIZATION & IDENTITY DIVERGENCE
+VIII. DEMOCRATIZATION & IDENTITY DIVERGENAD
 ────────────────────────────────────────────────────────────
 From the late 1980s onward, the ROC underwent democratic transition.
 

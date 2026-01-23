@@ -137,7 +137,7 @@ Stabilizing reduction:
 Control increases as system temperature decreases.
 
 ────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL ABSORPTION & COMPARATIVE RESONANCE
+VIII. CIVILIZATIONAL ABSORPTION & COMPARATIVE RESONANAD
 ────────────────────────────────────────────────────────────
 Laozi persists as **corrective doctrine**, never as sole operating system.
 

@@ -29,7 +29,7 @@ language**, then rebuilds rapidly with familiar procedural components.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. PRE-REVOLUTIONARY CONDITIONS: ANGLIAN FORMS ALREADY IN PLACE
+II. PRE-REVOLUTIONARY CONDITIONS: ANGLIAN FORMS ALREADY IN PLAAD
 (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
 Colonial society is already Anglian in structure:
@@ -206,7 +206,7 @@ ANGLIA (internal continuity and exit logic):
    — Seven Years’ War gains create the fiscal/administrative pressures that sharpen imperial governance disputes.
 3) MEM–ANGLIA–PITT–YOUNGER
    — later model of endurance-through-credit parallels American endurance-through-institutions.
-4) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE
+4) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENAD
    — operational war memory: coalition timing, endurance, and Yorktown closure.
 5) MEM–ANGLIA–WAR–YORKTOWN
    — terminal containment event where imperial options collapse without homeland invasion.
@@ -216,7 +216,7 @@ ANGLIA (internal continuity and exit logic):
 Cross-Civilizational (structural contrasts and alliance effects):
 7) MEM–FRANCIA–REVOLUTION
    — contrast case: sovereignty rupture coupled to deeper institutional discontinuity pressure.
-8) MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE
+8) MEM–FRANCIA–WAR–AMERICAN–INDEPENDENAD
    — alliance-as-strategy: Francia uses the war to wound Anglia’s system, not to inherit it.
 9) MEM–ROME–SOCIAL–WAR
    — secession pressure as citizenship/rights dispute: “legal rebellion” dynamics under a larger imperial frame.

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Martin Luther
-Dates: 1483–1546 CE
+Dates: 1483–1546 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

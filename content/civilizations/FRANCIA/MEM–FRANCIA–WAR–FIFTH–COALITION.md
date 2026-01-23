@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: War of the Fifth Coalition (Elastic Recovery,
          Contained Defeat, and Conditional Resilience)
-Dates: 1809 CE
+Dates: 1809 AD
 Class: MEM (War)
 Last Update: January 2026
 Word Count: ~1,950

@@ -66,7 +66,7 @@ Scotland theorizes what England practices.
 Abstraction feeds administration.
 
 ────────────────────────────────────────────────────────────
-V. MILITARY & IMPERIAL SERVICE
+V. MILITARY & IMPERIAL SERVIAD
 ────────────────────────────────────────────────────────────
 Scots become imperial operators.
 
@@ -78,7 +78,7 @@ Patterns:
 Peripheral energy is redeployed outward.
 
 ────────────────────────────────────────────────────────────
-VI. IDENTITY PERSISTENCE
+VI. IDENTITY PERSISTENAD
 ────────────────────────────────────────────────────────────
 Scottish identity remains intact.
 

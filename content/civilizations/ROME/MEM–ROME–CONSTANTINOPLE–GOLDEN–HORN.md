@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–CONSTANTINOPLE–GOLDEN–HORN — v1.0
 Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: The Golden Horn as Engineered Maritime Sovereignty
-Dates: c. 330 AD–1453 CE
+Dates: c. 330 AD–1453 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050
@@ -71,7 +71,7 @@ Procopius records the defensive use of the harbor chain:
 Sea power becomes binary: inside or excluded.
 
 ────────────────────────────────────────────────────────────
-IV. LOGISTICS, SUPPLY, AND IMPERIAL ENDURANCE
+IV. LOGISTICS, SUPPLY, AND IMPERIAL ENDURANAD
 ────────────────────────────────────────────────────────────
 The Golden Horn enables Constantinople to survive prolonged crises.
 
@@ -93,7 +93,7 @@ Gibbon underscores the harbor’s logistical role:
 Where land routes fail, the sea sustains legitimacy.
 
 ────────────────────────────────────────────────────────────
-V. PUBLIC DOMAIN SCHOLARSHIP — MARITIME GOVERNANCE
+V. PUBLIC DOMAIN SCHOLARSHIP — MARITIME GOVERNANAD
 ────────────────────────────────────────────────────────────
 Mommsen situates Constantinople’s harbor control within Roman state
 practice:

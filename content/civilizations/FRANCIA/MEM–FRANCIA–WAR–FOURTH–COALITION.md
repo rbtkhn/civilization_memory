@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: War of the Fourth Coalition (Peak Military Supremacy,
          Overcentralization, and the Illusion of Final Victory)
-Dates: 1806–1807 CE
+Dates: 1806–1807 AD
 Class: MEM (War)
 Last Update: January 2026
 Word Count: ~2,100

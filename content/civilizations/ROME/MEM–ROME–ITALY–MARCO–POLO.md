@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–MARCO–POLO — v1.0
 Civilization: ROME (ITALIAN POST-IMPERIAL CONTINUITY / LATIN CHRISTENDOM)
 Regime: POST-IMPERIAL ITALIAN MERCHANT REPUBLICS
 Subject: Marco Polo (Italian Roman World-Recalibrator)
-Dates: 1254–1324 CE
+Dates: 1254–1324 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750
@@ -34,7 +34,7 @@ interpretive engine.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ITALY AS THE POST-ROMAN INTERFACE
+II. ITALY AS THE POST-ROMAN INTERFAAD
 ────────────────────────────────────────────────────────────
 Marco Polo emerges not from imperial Rome, but from **Italian continuity**.
 
@@ -83,7 +83,7 @@ Instead of enemies or souls,
 Polo presents **administrations**.
 
 ────────────────────────────────────────────────────────────
-V. EPISTEMIC SHOCK: SCALE, ORDER, AND COMPETENCE
+V. EPISTEMIC SHOCK: SCALE, ORDER, AND COMPETENAD
 ────────────────────────────────────────────────────────────
 The most destabilizing feature of Polo’s narrative is not marvel,
 but **competence at scale**.

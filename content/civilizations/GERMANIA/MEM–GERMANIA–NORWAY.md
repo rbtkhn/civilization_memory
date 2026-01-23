@@ -24,7 +24,7 @@ It is not Germanizable.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. GEOGRAPHIC SEPARATION & STRUCTURAL DISTANCE
+II. GEOGRAPHIC SEPARATION & STRUCTURAL DISTANAD
 ────────────────────────────────────────────────────────────
 Norway’s geography enforces separation.
 

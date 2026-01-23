@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Maximilien Robespierre
-Dates: 1758–1794 CE
+Dates: 1758–1794 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -72,7 +72,7 @@ The Republic is virtue; institutions are instruments.
 Pluralism collapses; moral density rises.
 
 ────────────────────────────────────────────────────────────
-V. TERROR AS GOVERNANCE
+V. TERROR AS GOVERNANAD
 ────────────────────────────────────────────────────────────
 The Terror institutionalizes righteousness over stability.
 

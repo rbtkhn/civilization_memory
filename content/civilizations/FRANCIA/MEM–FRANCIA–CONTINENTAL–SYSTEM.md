@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.1
-Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
+Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANAD
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Continental System (Blocus continental)
-Dates: 1806–1814 CE
+Dates: 1806–1814 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

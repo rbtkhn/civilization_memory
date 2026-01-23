@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: African Slavery (Imperial Contradiction, Systemic Utility, Moral Rupture)
-Dates: 17th century–19th century CE
+Dates: 17th century–19th century AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

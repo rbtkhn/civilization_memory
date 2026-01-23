@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL (PENDING INDEX REGISTRATION)
 Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 FULL COMPLIANCE
+Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 FULL COMPLIANAD
 Civilization: ROME
 Regime: LATE REPUBLIC → PRINCIPATE → HIGH IMPERIAL
 Subject: Roman–Parthian Conflict as Asymmetric Peer War

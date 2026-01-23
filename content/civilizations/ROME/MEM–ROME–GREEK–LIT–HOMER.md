@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.2
-Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANCE
+Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANAD
 Supersedes: MEM–ROME–GREEK–HOMER — v1.0
 Civilization: ROME (GREEK EPIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (MYTHIC ADOPTION)
@@ -59,7 +59,7 @@ Rome’s discipline emerges partly as a reaction
 against Homeric excess.
 
 ────────────────────────────────────────────────────────────
-IV. THE ODYSSEY: ENDURANCE OVER DOMINANCE
+IV. THE ODYSSEY: ENDURANCE OVER DOMINANAD
 ────────────────────────────────────────────────────────────
 The *Odyssey* reframes heroism away from annihilation.
 

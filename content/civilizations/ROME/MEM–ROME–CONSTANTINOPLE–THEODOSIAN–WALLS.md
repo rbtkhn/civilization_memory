@@ -85,7 +85,7 @@ Rome does not survive because it is stronger.
 It survives because it **endures longer**.
 
 ────────────────────────────────────────────────────────────
-V. PUBLIC DOMAIN SCHOLARSHIP — FORTIFICATION & GOVERNANCE
+V. PUBLIC DOMAIN SCHOLARSHIP — FORTIFICATION & GOVERNANAD
 ────────────────────────────────────────────────────────────
 Mommsen situates fortification within late Roman governance logic:
 

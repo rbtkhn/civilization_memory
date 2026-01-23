@@ -9,7 +9,7 @@ Last Update: January 2026
 Word Count: ~2,750
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Alexander Pushkin — National Memory Architect
-Dates: 1799–1837 CE
+Dates: 1799–1837 AD
 Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
 Compatibility: CMC v2.0+
 

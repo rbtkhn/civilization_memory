@@ -8,7 +8,7 @@ Last Update: January 2026
 Word Count: ~2,000
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Seven Years' War
-Dates: 1756–1763 CE
+Dates: 1756–1763 AD
 Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
 Compatibility: CMC v2.0+
 ────────────────────────────────────────────────────────────
@@ -83,7 +83,7 @@ Unlike Germania, the war is not existential.
 Russia fights to influence the system, not to prevent collapse.
 
 ────────────────────────────────────────────────────────────
-III. OPERATIONAL SCALE & EASTERN ENDURANCE
+III. OPERATIONAL SCALE & EASTERN ENDURANAD
 ────────────────────────────────────────────────────────────
 Russian forces demonstrate deep endurance.
 
@@ -112,7 +112,7 @@ Russian power proves credible at the continental core.
 Military feasibility exceeds political clarity.
 
 ────────────────────────────────────────────────────────────
-V. COMMAND FRICTION & STRATEGIC INCOHERENCE
+V. COMMAND FRICTION & STRATEGIC INCOHERENAD
 ────────────────────────────────────────────────────────────
 Despite battlefield success, strategic direction fractures.
 

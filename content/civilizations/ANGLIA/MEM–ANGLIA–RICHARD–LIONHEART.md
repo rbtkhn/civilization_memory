@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule — ANGLIA)
 Civilization: ANGLIA
 Subject: Richard I (the Lionheart)
-Dates: 1157–1199 CE
+Dates: 1157–1199 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,100
@@ -157,7 +157,7 @@ no governing legacy to contest.
 Richard becomes **myth without mandate**.
 
 ────────────────────────────────────────────────────────────
-VIII. LONG-TERM CIVILIZATIONAL SIGNIFICANCE
+VIII. LONG-TERM CIVILIZATIONAL SIGNIFICANAD
 (SECONDARY)
 ────────────────────────────────────────────────────────────
 Richard clarifies Anglia’s trajectory by contrast.

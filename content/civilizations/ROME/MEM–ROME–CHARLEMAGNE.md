@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: ROME
 Subject: Charlemagne (Carolus Magnus)
-Dates: c. 742–814 CE
+Dates: c. 742–814 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

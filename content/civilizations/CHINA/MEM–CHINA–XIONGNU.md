@@ -4,7 +4,7 @@ Version: 1.1
 Last Update: December 2025
 Word Count: ~2,000Civilization: CHINA (中华文明)
 Subject: Xiongnu Confederation (匈奴)
-Dates: c. 3rd century BCAD–1st century CE
+Dates: c. 3rd century BCAD–1st century AD
 Class: MEM (Memory)
 
 ────────────────────────────────────────────────────────────
@@ -116,7 +116,7 @@ Strategic asymmetry defined the frontier:
 (They come like wind and leave like lightning.)
 
 ────────────────────────────────────────────────────────────
-VIII. DIPLOMACY & EXTERNAL INTERFACE
+VIII. DIPLOMACY & EXTERNAL INTERFAAD
 ────────────────────────────────────────────────────────────
 The Xiongnu forced China into parity diplomacy.
 

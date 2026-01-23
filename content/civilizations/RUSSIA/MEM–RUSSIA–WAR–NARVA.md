@@ -3,10 +3,10 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
-Upgrade Type: INITIAL v2.0 COMPLIANCE
+Upgrade Type: INITIAL v2.0 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Narva
-Dates: 1700 CE
+Dates: 1700 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400

@@ -70,7 +70,7 @@ Resources:
 Extraction is state-centered and long-horizon.
 
 ────────────────────────────────────────────────────────────
-VI. DEMOGRAPHY, CONTROL, & GOVERNANCE
+VI. DEMOGRAPHY, CONTROL, & GOVERNANAD
 ────────────────────────────────────────────────────────────
 Governance emphasizes presence over density.
 

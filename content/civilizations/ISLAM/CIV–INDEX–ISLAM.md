@@ -62,7 +62,7 @@ VI. GEOGRAPHIC & REGIONAL MEMORY (GEO)
 • MEM–ISLAM–GEO–XINJIANG.md
 
 ────────────────────────────────────────────────────────────
-VII. INDEX STATUS & GOVERNANCE
+VII. INDEX STATUS & GOVERNANAD
 ────────────────────────────────────────────────────────────
 • This index must be updated whenever a new MEM–ISLAM file is added.
 • Filenames listed here are canonical.

@@ -151,7 +151,7 @@ Relative decline coincided with China’s **southward and westward economic
 pivot**, repositioning Manchuria away from growth leadership.
 
 ────────────────────────────────────────────────────────────
-VIII. SECURITY & GEOPOLITICAL INTERFACE
+VIII. SECURITY & GEOPOLITICAL INTERFAAD
 ────────────────────────────────────────────────────────────
 Manchuria remains a **strategic interface** with:
 

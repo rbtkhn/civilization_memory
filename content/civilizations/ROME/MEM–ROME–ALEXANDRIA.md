@@ -83,7 +83,7 @@ This is the governance signature of a node that is:
 • and politically unpredictable.
 
 ────────────────────────────────────────────────────────────
-IV. INTELLECTUAL CAPITAL & IMPERIAL AMBIVALENCE
+IV. INTELLECTUAL CAPITAL & IMPERIAL AMBIVALENAD
 ────────────────────────────────────────────────────────────
 Alexandria remains the Mediterranean’s premier intellectual center under
 Roman rule.
@@ -107,7 +107,7 @@ compete for moral jurisdiction and civic allegiance.
 Volatility is therefore not incidental; it is an output of density.
 
 ────────────────────────────────────────────────────────────
-V. PLURALITY, STATUS HIERARCHIES, & CIVIC VIOLENCE
+V. PLURALITY, STATUS HIERARCHIES, & CIVIC VIOLENAD
 ────────────────────────────────────────────────────────────
 Alexandria’s plurality generates chronic instability.
 

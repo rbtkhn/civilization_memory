@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–DANTE — v1.0
 Civilization: ROME (ITALIAN POST-IMPERIAL CONTINUITY)
 Regime: POST-IMPERIAL LATIN CHRISTENDOM
 Subject: Dante Alighieri (Italian Roman Afterlife)
-Dates: 1265–1321 CE
+Dates: 1265–1321 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650

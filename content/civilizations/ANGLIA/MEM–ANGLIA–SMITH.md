@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: Adam Smith (Moral Sentiment, Markets, and Order Without Command)
-Dates: 1723–1790 CE
+Dates: 1723–1790 AD
 Class: MEM (Memory)
 Last Update: January 2026
 

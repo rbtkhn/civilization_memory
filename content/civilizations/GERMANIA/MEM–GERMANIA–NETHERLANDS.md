@@ -68,7 +68,7 @@ They **recode it**.
 Administration migrates from empire to republic.
 
 ────────────────────────────────────────────────────────────
-V. COMMERCIAL ASCENDANCE & SYSTEMIC DIVERGENCE
+V. COMMERCIAL ASCENDANCE & SYSTEMIC DIVERGENAD
 ────────────────────────────────────────────────────────────
 Dutch success highlights a divergence from Germania.
 

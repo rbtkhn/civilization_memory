@@ -128,7 +128,7 @@ Cyprus survived by remaining embedded in the Eastern Roman security
 architecture.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Cyprus demonstrates Rome’s capacity to anchor the periphery without
 overextending authority.

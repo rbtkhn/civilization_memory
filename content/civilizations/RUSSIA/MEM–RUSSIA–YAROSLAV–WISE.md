@@ -36,7 +36,7 @@ Yaroslav’s reign begins not with law, but with civil war.
 Primary Chronicle anchor:
 > “And Yaroslav gathered the Varangians and the Slavs, and marched
 > against Sviatopolk… and Yaroslav prevailed, and Sviatopolk fled.”
-> — *Primary Chronicle*, entry for 1019 CE
+> — *Primary Chronicle*, entry for 1019 AD
 
 Civilizational implication:
 • Coercive victory remains the entry condition for authority

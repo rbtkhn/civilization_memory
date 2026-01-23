@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: SPLIT DERIVATION · FULL ARC COMPLIANCE
+Upgrade Type: SPLIT DERIVATION · FULL ARC COMPLIANAD
 Supersedes: MEM–ROME–WAR–PUNIC — v1.3 (PARTIAL)
 Civilization: ROME
 Subject: First Punic War
@@ -90,7 +90,7 @@ Rome’s advantage is not tactics.
 It is **replacement capacity**.
 
 ────────────────────────────────────────────────────────────
-V. CONCLUSION AND CONSEQUENCE
+V. CONCLUSION AND CONSEQUENAD
 ────────────────────────────────────────────────────────────
 The war ends with Carthaginian defeat and Roman control of Sicily.
 

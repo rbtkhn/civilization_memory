@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Haitian Revolution (Universalism, Race, and Imperial Contradiction)
-Dates: 1791–1804 CE
+Dates: 1791–1804 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,900
@@ -82,7 +82,7 @@ Outcomes:
 Haiti defeats Francia morally and militarily.
 
 ────────────────────────────────────────────────────────────
-VI. SILENCE, AMNESIA, & STRATEGIC CONSEQUENCE
+VI. SILENCE, AMNESIA, & STRATEGIC CONSEQUENAD
 ────────────────────────────────────────────────────────────
 Francia suppresses memory.
 

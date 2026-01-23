@@ -66,7 +66,7 @@ imperial, episcopal, and municipal institutions to cluster without
 requiring ideological unity.
 
 ────────────────────────────────────────────────────────────
-IV. COMMERCIAL & MUNICIPAL LATTICE
+IV. COMMERCIAL & MUNICIPAL LATTIAD
 ────────────────────────────────────────────────────────────
 The Rhine supports dense institutional layering through toll regimes,
 guild coordination, and standardized trade practices.
@@ -88,7 +88,7 @@ traffic as a strategic necessity for coal, steel, and armaments,
 concentrating German replacement capacity along the river corridor.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY–STRATEGIC SIGNIFICANCE
+VI. MILITARY–STRATEGIC SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Rhine operates simultaneously as shield and conduit.
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: Appomattox (Procedural Termination & Legitimacy Preservation)
-Dates: April 9, 1865 CE
+Dates: April 9, 1865 AD
 Class: MEM (Memory)
 Last Update: January 2026
 
@@ -41,7 +41,7 @@ destroying the system the war was fought to preserve**.
 The Union must win without becoming revolutionary.
 
 ────────────────────────────────────────────────────────────
-III. APPOMATTOX AS PROCEDURAL CHOICE
+III. APPOMATTOX AS PROCEDURAL CHOIAD
 ────────────────────────────────────────────────────────────
 The surrender at Appomattox Court House represents a conscious choice
 to frame victory as restoration rather than annihilation.
@@ -95,7 +95,7 @@ narrative escalation.
 Provenance Confidence: HIGH
 
 ────────────────────────────────────────────────────────────
-V. LEGITIMACY MANAGEMENT AT THE MOMENT OF FORCE
+V. LEGITIMACY MANAGEMENT AT THE MOMENT OF FORAD
 ────────────────────────────────────────────────────────────
 Appomattox demonstrates a core Anglian principle:
 **the manner of victory determines postwar stability**.

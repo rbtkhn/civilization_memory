@@ -38,7 +38,7 @@ The Pyrenees separate cultures more than distance would suggest.
 Geography limits absorption.
 
 ────────────────────────────────────────────────────────────
-III. MEDIEVAL DIVERGENCE
+III. MEDIEVAL DIVERGENAD
 ────────────────────────────────────────────────────────────
 Early trajectories diverge sharply.
 

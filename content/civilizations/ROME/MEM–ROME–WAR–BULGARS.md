@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: NEW FILE · FULL ARC COMPLIANCE
+Upgrade Type: NEW FILE · FULL ARC COMPLIANAD
 Civilization: ROME (EASTERN / CONTINUING)
 Adversary: BULGARIAN POLITIES (FIRST & SECOND BULGARIAN EMPIRES)
 Subject: Roman–Bulgar Wars
-Dates: c. 680–1018 CE
+Dates: c. 680–1018 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

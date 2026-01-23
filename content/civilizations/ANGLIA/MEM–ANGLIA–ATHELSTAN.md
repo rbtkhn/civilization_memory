@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (v1.6 Ingest Bootstrap + Compliance Alignment)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Æthelstan
-Dates: 894–939 CE
+Dates: 894–939 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,750
@@ -45,7 +45,7 @@ Conditions include:
 > of his kingdom; and the king obtained all the territory which
 > belonged to the kings of Northumbria, and ruled all the land of the
 > English.”
-> — *Anglo-Saxon Chronicle*, entry for 927 CE
+> — *Anglo-Saxon Chronicle*, entry for 927 AD
 
 The Chronicle records unification as a **contemporary political fact**,
 not a retrospective nationalist claim.

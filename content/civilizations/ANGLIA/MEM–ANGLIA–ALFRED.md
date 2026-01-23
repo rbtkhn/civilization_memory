@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (MEM INGEST BOOTSTRAP · v1.6 COMPLIANCE)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
-Dates: 849–899 CE
+Dates: 849–899 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,650
@@ -46,7 +46,7 @@ The *Anglo-Saxon Chronicle* records the severity without embellishment:
 > king in all the land of the West Saxons save Alfred; and the heathen
 > held the greater part of the kingdom, and many of the people submitted
 > to them for fear.”
-> — *Anglo-Saxon Chronicle*, entry for 878 CE
+> — *Anglo-Saxon Chronicle*, entry for 878 AD
 
 Winston Churchill frames this period as one in which England survives
 not by victory, but by **refusal to disappear**, noting that Alfred’s
@@ -120,7 +120,7 @@ repair**, where knowledge transmission substitutes for material power
 during contraction phases.
 
 ────────────────────────────────────────────────────────────
-VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANCE
+VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANAD
 ────────────────────────────────────────────────────────────
 Authority is justified through responsibility rather than conquest.
 

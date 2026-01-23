@@ -69,7 +69,7 @@ Naval power remains instrumental, not civilizational.
 The Atlantic never becomes Germania’s organizing space.
 
 ────────────────────────────────────────────────────────────
-V. INDUSTRIAL EXPORT DEPENDENCE
+V. INDUSTRIAL EXPORT DEPENDENAD
 ────────────────────────────────────────────────────────────
 With industrialization, Atlantic exposure intensifies.
 

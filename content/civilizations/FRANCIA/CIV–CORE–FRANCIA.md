@@ -191,7 +191,7 @@ MANDATORY OUTPUT:
 • Internal Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANCE
+X. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 
 • Narrative precedes action

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Mughal Dynasty
-Dates: 1526–1857 CE
+Dates: 1526–1857 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -43,7 +43,7 @@ The empire governs diversity **without erasing it**.
 This aligns with India’s plural cohesion engine.
 
 ────────────────────────────────────────────────────────────
-IV. CENTRALIZATION VS DHARMIC BALANCE
+IV. CENTRALIZATION VS DHARMIC BALANAD
 ────────────────────────────────────────────────────────────
 Later emperors tighten control.
 

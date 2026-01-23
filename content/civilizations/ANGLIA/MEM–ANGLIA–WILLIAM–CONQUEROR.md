@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules)
 Civilization: ANGLIA
 Regime / Mode: Norman Kingship
 Subject: William of Normandy (William the Conqueror)
-Dates: 1028–1087 CE
+Dates: 1028–1087 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,700
@@ -43,7 +43,7 @@ The *Anglo-Saxon Chronicle* records the rupture bluntly:
 > “Bishop Odo and Earl William stayed behind and built castles far and
 > wide throughout the land, oppressing the wretched people; and things
 > went ever from bad to worse. When God wills, may the end be good.”
-> — *Anglo-Saxon Chronicle*, entry for 1066–1067 CE
+> — *Anglo-Saxon Chronicle*, entry for 1066–1067 AD
 
 William Manchester emphasizes that conquest succeeded not because the
 Normans exterminated England, but because they **replaced the ruling

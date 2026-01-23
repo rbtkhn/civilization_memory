@@ -24,7 +24,7 @@ It oscillates between cooperation, rivalry, partition, and re-emergence.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. MEDIEVAL BORDER FORMATION & LEGAL DIVERGENCE
+II. MEDIEVAL BORDER FORMATION & LEGAL DIVERGENAD
 ────────────────────────────────────────────────────────────
 Early interaction occurs through settlement, trade, and law.
 

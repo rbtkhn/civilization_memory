@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Viking Incursions & Settlement
-Dates: c. 820–911 CE
+Dates: c. 820–911 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

@@ -7,7 +7,7 @@ Supersedes: v1.1
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Poltava
-Dates: 1709 CE
+Dates: 1709 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600
@@ -116,7 +116,7 @@ knew it could win."
 Poltava ends Sweden’s offensive capacity.
 
 ────────────────────────────────────────────────────────────
-V. SYMBOLIC & PSYCHOLOGICAL SIGNIFICANCE
+V. SYMBOLIC & PSYCHOLOGICAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Poltava becomes a civilizational marker.
 

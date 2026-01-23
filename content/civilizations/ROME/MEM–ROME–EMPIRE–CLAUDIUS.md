@@ -96,7 +96,7 @@ Authority migrates from lineage to office.
 Rome becomes less personal—and more durable.
 
 ────────────────────────────────────────────────────────────
-IV. BRITAIN: EXPANSION WITHOUT ROMANCE
+IV. BRITAIN: EXPANSION WITHOUT ROMANAD
 ────────────────────────────────────────────────────────────
 The conquest of Britain   (AD 43) exemplifies Claudius’ style.
 
@@ -158,7 +158,7 @@ Rome becomes:
 Inclusion trades purity for endurance.
 
 ────────────────────────────────────────────────────────────
-VI. LIMITS & ELITE RESISTANCE
+VI. LIMITS & ELITE RESISTANAD
 ────────────────────────────────────────────────────────────
 Administrative success provokes elite resentment.
 

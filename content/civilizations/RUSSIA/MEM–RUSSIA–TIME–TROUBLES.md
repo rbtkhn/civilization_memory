@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.2 COMPLIANCE
+Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.2 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
-Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANCE
+Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANAD
 Subject: Time of Troubles (Смутное время)
-Dates: 1598–1613 CE
+Dates: 1598–1613 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350

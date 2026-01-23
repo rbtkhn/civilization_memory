@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Regime: FOUNDATIONAL / TRANSITIONAL CALIPHATE (632–661 AD)
 Subject: Rashidun Caliphate
-Dates: 7th century CE
+Dates: 7th century AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -98,7 +98,7 @@ The Rashidun become idealized memory, not replicable system.
 Their perfection exists in retrospect.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Rashidun define Islam’s lost innocence.
 

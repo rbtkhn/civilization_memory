@@ -23,7 +23,7 @@ it **educates** Anglia.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. INHERITED SPACE, NOT ORIGIN SPACE
+II. INHERITED SPACE, NOT ORIGIN SPAAD
 ────────────────────────────────────────────────────────────
 Anglia does not emerge from the Mediterranean world.
 

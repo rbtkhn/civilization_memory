@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Crimean War
-Dates: 1853–1856 CE
+Dates: 1853–1856 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -54,7 +54,7 @@ Russia confronts not a neighbor, but a coalition-backed system.
 Strategic environment hardens unexpectedly.
 
 ────────────────────────────────────────────────────────────
-IV. MILITARY PERFORMANCE & ENDURANCE
+IV. MILITARY PERFORMANCE & ENDURANAD
 ────────────────────────────────────────────────────────────
 Russian forces fight with persistence.
 

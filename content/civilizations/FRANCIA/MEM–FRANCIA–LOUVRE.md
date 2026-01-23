@@ -95,7 +95,7 @@ The state claims stewardship over universal culture.
 Republican legitimacy is aestheticized.
 
 ────────────────────────────────────────────────────────────
-VII. UNIVERSALISM VS. PROVENANCE
+VII. UNIVERSALISM VS. PROVENANAD
 ────────────────────────────────────────────────────────────
 Modern critique targets origin.
 

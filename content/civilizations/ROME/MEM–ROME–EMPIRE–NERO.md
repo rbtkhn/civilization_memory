@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: PRINCIPATE (AESTHETIC AUTOCRACY / TERMINAL JULIO-CLAUDIAN)
 Subject: Nero Claudius Caesar Augustus Germanicus
-Dates: 37–68 CE
+Dates: 37–68 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,300

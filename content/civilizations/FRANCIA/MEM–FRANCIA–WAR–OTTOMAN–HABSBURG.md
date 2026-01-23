@@ -6,7 +6,7 @@ Version: 1.1
 Upgrade Type: CLARIFICATION & INTEGRATION (ADDITIVE)
 Civilization: FRANCIA
 Subject: Ottoman–Habsburg Conflict (Alliance by Negation, Balance-of-Power War, and Universalism Inversion)
-Dates: 16th century–18th century CE
+Dates: 16th century–18th century AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650

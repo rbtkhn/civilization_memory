@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
+Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
 Civilization: ANGLIA
 Regime / Mode: Elizabethan Settlement
 Subject: Elizabeth I
-Dates: 1533–1603 CE
+Dates: 1533–1603 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,100
@@ -29,7 +29,7 @@ than a moral achievement.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. SOVEREIGNTY THROUGH BALANCE
+II. SOVEREIGNTY THROUGH BALANAD
 (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
 Elizabeth governs by limiting closure.

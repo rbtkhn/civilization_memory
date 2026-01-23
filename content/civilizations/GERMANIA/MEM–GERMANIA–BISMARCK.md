@@ -7,7 +7,7 @@ Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
 Regime: Prussian / Imperial-Constitutional (1862–1890 AD)
 Subject: Otto von Bismarck
-Dates: 1815–1898 CE
+Dates: 1815–1898 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,720

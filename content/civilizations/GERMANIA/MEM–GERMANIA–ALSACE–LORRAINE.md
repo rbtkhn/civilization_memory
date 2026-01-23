@@ -55,7 +55,7 @@ Germany can impose order at scale.
 Victory substitutes for consent.
 
 ────────────────────────────────────────────────────────────
-IV. LEGITIMACY GAP & CULTURAL RESISTANCE
+IV. LEGITIMACY GAP & CULTURAL RESISTANAD
 ────────────────────────────────────────────────────────────
 Germania underestimates the legitimacy cost.
 

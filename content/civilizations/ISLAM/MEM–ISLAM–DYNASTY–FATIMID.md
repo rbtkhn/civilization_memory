@@ -7,7 +7,7 @@ Civilization: ISLAM
 Sect: ISMA‘ILI SHI‘A
 Regime: SHI‘A UNIVERSAL CALIPHATE / LEGITIMACY RIVAL (909–1171 AD)
 Subject: Fatimid Caliphate
-Dates: 10th–12th centuries CE
+Dates: 10th–12th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -100,7 +100,7 @@ Shi‘a universalism collapses politically—
 but survives doctrinally.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Fatimids prove Shi‘a universalism is possible—but fragile.
 

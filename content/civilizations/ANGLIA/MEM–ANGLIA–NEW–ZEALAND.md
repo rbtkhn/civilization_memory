@@ -50,7 +50,7 @@ Procedure is burdened with justice claims.
 Law must justify itself morally.
 
 ────────────────────────────────────────────────────────────
-IV. SMALL SCALE & SOCIAL COHERENCE
+IV. SMALL SCALE & SOCIAL COHERENAD
 ────────────────────────────────────────────────────────────
 Geography supports institutional intimacy.
 
@@ -91,7 +91,7 @@ Roles:
 Power is moralized rather than projected.
 
 ────────────────────────────────────────────────────────────
-VII. IDENTITY THROUGH GOVERNANCE
+VII. IDENTITY THROUGH GOVERNANAD
 ────────────────────────────────────────────────────────────
 National identity emphasizes fairness.
 

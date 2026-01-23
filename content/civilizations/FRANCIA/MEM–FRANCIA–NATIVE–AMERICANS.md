@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Native Americans (Alliance Partners, Imperial Instruments, and Abandoned Intermediaries)
-Dates: 16th century–1763 CE
+Dates: 16th century–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -52,7 +52,7 @@ This contrasts with Anglian settler logic.
 Accommodation substitutes for sovereignty.
 
 ────────────────────────────────────────────────────────────
-IV. MILITARY DEPENDENCE
+IV. MILITARY DEPENDENAD
 ────────────────────────────────────────────────────────────
 Native allies become essential to defense.
 

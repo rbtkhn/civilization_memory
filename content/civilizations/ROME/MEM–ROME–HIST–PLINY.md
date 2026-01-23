@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANCE
+Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANAD
 Civilization: ROME
 Regime: EARLY EMPIRE (FLAVIAN CONTEXT)
 Subject: Pliny the Elder (Knowledge as Imperial Inventory)

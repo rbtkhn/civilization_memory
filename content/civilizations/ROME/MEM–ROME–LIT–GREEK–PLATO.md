@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.2
-Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANCE
+Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANAD
 Supersedes: MEM–ROME–GREEK–PLATO — v1.0
 Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (PHILOSOPHICAL ABSORPTION)
@@ -96,7 +96,7 @@ while rejecting his political absolutism.
 Plato becomes cautionary rather than prescriptive.
 
 ────────────────────────────────────────────────────────────
-VI. ABSORPTION THROUGH DISTANCE
+VI. ABSORPTION THROUGH DISTANAD
 ────────────────────────────────────────────────────────────
 Rome absorbs Plato indirectly.
 

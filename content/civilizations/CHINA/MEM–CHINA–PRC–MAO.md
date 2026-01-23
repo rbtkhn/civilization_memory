@@ -4,7 +4,7 @@ Version: 1.1
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Mao Zedong (毛泽东)
-Dates: 1893–1976 CE
+Dates: 1893–1976 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -92,7 +92,7 @@ Symbolic formulation:
 Legitimacy required constant reaffirmation through struggle.
 
 ────────────────────────────────────────────────────────────
-VI. CATASTROPHE AS GOVERNANCE
+VI. CATASTROPHE AS GOVERNANAD
 ────────────────────────────────────────────────────────────
 Maoist rule produced systemic shocks.
 

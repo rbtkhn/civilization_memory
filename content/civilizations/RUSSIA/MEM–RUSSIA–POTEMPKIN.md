@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (
 Civilization: RUSSIA (Русская цивлизация)
 Regime: IMPERIAL / ROMANOV (Catherine II)
 Subject: Grigory Potemkin (Григорий Потёмкин)
-Dates: 1739–1791 CE
+Dates: 1739–1791 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,200
@@ -161,7 +161,7 @@ Logistics over spectacle.
 Crimea becomes **strategic depth**, not trophy.
 
 ────────────────────────────────────────────────────────────
-V. WAR ADMINISTRATION & LOGISTICAL GOVERNANCE
+V. WAR ADMINISTRATION & LOGISTICAL GOVERNANAD
 ────────────────────────────────────────────────────────────
 During Russo–Turkish conflicts, Potemkin emphasizes endurance over
 spectacle.

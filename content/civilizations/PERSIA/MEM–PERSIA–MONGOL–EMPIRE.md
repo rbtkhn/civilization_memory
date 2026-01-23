@@ -64,7 +64,7 @@ Persia experiences:
 • Trauma memory preserved in Persian literature
 
 ────────────────────────────────────────────────────────────
-IV. THE ILKHANATE: FROM DESTRUCTION TO GOVERNANCE
+IV. THE ILKHANATE: FROM DESTRUCTION TO GOVERNANAD
 ────────────────────────────────────────────────────────────
 With the establishment of the Ilkhanate under Hulagu Khan,
 Persia becomes the first major Mongol laboratory of sedentary rule.

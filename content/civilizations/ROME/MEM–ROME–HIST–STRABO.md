@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANCE
+Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANAD
 Civilization: ROME (GREEK INTELLECTUAL MEDIATION)
 Regime: LATE REPUBLIC → EARLY EMPIRE
 Subject: Strabo (Geography as Imperial Intelligence)
-Dates: c. 64 BC–c. 24 CE
+Dates: c. 64 BC–c. 24 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

@@ -66,7 +66,7 @@ Expansion is administrative, not ideological.
 The frontier is managed, not romanticized.
 
 ────────────────────────────────────────────────────────────
-V. GRADUAL SELF-GOVERNANCE
+V. GRADUAL SELF-GOVERNANAD
 ────────────────────────────────────────────────────────────
 Autonomy develops incrementally.
 

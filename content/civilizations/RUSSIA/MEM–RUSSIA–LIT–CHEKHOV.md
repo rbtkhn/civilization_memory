@@ -8,7 +8,7 @@ Last Update: January 2026
 Word Count: ~3,000
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Anton Chekhov — Everyday Suffering Architect
-Dates: 1860–1904 CE
+Dates: 1860–1904 AD
 Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
 Compatibility: CMC v2.0+
 

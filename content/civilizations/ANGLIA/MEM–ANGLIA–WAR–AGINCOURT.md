@@ -3,10 +3,10 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANCE
+Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANAD
 Civilization: ANGLIA
 Subject: Battle of Agincourt (Asymmetric Victory & Strategic Restraint)
-Dates: 1415 CE
+Dates: 1415 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

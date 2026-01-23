@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
-Regime: SYMBOLIC–IMPERIAL INHERITANCE
+Regime: SYMBOLIC–IMPERIAL INHERITANAD
 Subject: Constantinople (Константинополь)
 Dates: 330–1453 AD (Russian reception: post-1453)
 Class: MEM (Memory)

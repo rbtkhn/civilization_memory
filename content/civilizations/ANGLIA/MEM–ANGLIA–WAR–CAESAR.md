@@ -32,7 +32,7 @@ than conquest or integration.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. BRITANNIA AS PERIPHERAL SPACE
+II. BRITANNIA AS PERIPHERAL SPAAD
 ────────────────────────────────────────────────────────────
 In Roman strategic logic, Britannia occupies an ambiguous position.
 
@@ -93,7 +93,7 @@ Caesar achieves battlefield success but abandons permanence:
 Extraction substitutes for administration.
 
 ────────────────────────────────────────────────────────────
-V. NON-INCORPORATION AS STRATEGIC CHOICE
+V. NON-INCORPORATION AS STRATEGIC CHOIAD
 ────────────────────────────────────────────────────────────
 Caesar’s withdrawal is calculated, not forced.
 

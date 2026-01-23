@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Revolution of 1848 (Universalist Explosion, Republic without Capacity, and Anxiety Imprint)
-Dates: 1848–1851 CE
+Dates: 1848–1851 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

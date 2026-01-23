@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Ming Dynasty (明)
-Dates: 1368–1644 CE
+Dates: 1368–1644 AD
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
@@ -83,7 +83,7 @@ The dynasty framed authority as moral certainty:
 Over time, moral rigidity reduced adaptability to crisis.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY POSTURE & STRATEGIC CHOICE
+VI. MILITARY POSTURE & STRATEGIC CHOIAD
 ────────────────────────────────────────────────────────────
 The Ming adopted a largely defensive strategic posture.
 

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM (INTERACTING / TRANSFORMED)
 Regime: EXTERNAL CONQUEST → CIVILIZATIONAL ABSORPTION (c. 1218–1335 AD)
 Subject: Mongol Empire (Islamic Encounter Phase)
-Dates: 13th–14th centuries CE
+Dates: 13th–14th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -40,7 +40,7 @@ Imperial continuity is severed.
 Legitimacy is left unmoored.
 
 ────────────────────────────────────────────────────────────
-III. NON-ISLAMIC SOVEREIGNTY OVER ISLAMIC SPACE
+III. NON-ISLAMIC SOVEREIGNTY OVER ISLAMIC SPAAD
 ────────────────────────────────────────────────────────────
 Early Mongol rule is religiously indifferent and cosmopolitan.
 

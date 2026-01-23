@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Spanish–American War (Maritime Pivot, Informal Empire, and Procedural Projection)
-Dates: 1898 CE
+Dates: 1898 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -54,7 +54,7 @@ War is justified as **liberation**, not conquest.
 Procedure masks strategic expansion.
 
 ────────────────────────────────────────────────────────────
-IV. MARITIME–OPERATIONAL PERFORMANCE
+IV. MARITIME–OPERATIONAL PERFORMANAD
 ────────────────────────────────────────────────────────────
 The conflict is brief and decisive.
 
@@ -213,7 +213,7 @@ Why it did not persist:
 Procedure constrains ambition.
 
 ────────────────────────────────────────────────────────────
-XV. TEMPORAL COMPRESSION NOTICE
+XV. TEMPORAL COMPRESSION NOTIAD
 ────────────────────────────────────────────────────────────
 This file compresses a short conflict with long consequences to
 emphasize **strategic grammar transition**, not battlefield detail.

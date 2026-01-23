@@ -7,7 +7,7 @@ Upgrade Type: MAJOR VERSION · STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLAT
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Muscovite Rus’ → Early Russian Empire
 Subject: Muscovy (Compression Core & Autocratic Seed State)
-Dates: c. 1300–1721 CE
+Dates: c. 1300–1721 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,480
@@ -133,7 +133,7 @@ Prosperity is deferred.
 This logic is inherited, hardened, and normalized.
 
 ────────────────────────────────────────────────────────────
-VII. SUCCESSION FAILURE UNDER SACRAL ENDURANCE
+VII. SUCCESSION FAILURE UNDER SACRAL ENDURANAD
 ────────────────────────────────────────────────────────────
 Muscovy’s coercive-successional system **fails catastrophically** at the
 end of the Rurikid line (1598).

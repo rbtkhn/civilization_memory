@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Battle of Austerlitz
-Dates: 1805 CE
+Dates: 1805 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -21,7 +21,7 @@ decisive success**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. IMPERIAL LEGITIMACY AT FULL COHERENCE
+II. IMPERIAL LEGITIMACY AT FULL COHERENAD
 ────────────────────────────────────────────────────────────
 In 1805, Napoleonic authority is ascendant and internally aligned.
 
@@ -51,7 +51,7 @@ Genius substitutes for numerical parity.
 Control of perception becomes a weapon.
 
 ────────────────────────────────────────────────────────────
-IV. BATTLE AS LEGITIMACY PERFORMANCE
+IV. BATTLE AS LEGITIMACY PERFORMANAD
 ────────────────────────────────────────────────────────────
 Victory is total, visible, and narratively decisive.
 

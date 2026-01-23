@@ -6,7 +6,7 @@ Version: 1.5
 Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
 Civilization: ANGLIA
 Subject: The British Empire (Procedural Empire, System Management, and Controlled Dissolution)
-Dates: 16th century–20th century CE
+Dates: 16th century–20th century AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,650
@@ -197,7 +197,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. MEM INGEST BOOTSTRAP — TEMPLATE v1.5 COMPLIANCE
+X. MEM INGEST BOOTSTRAP — TEMPLATE v1.5 COMPLIANAD
 ────────────────────────────────────────────────────────────
 This section governs automatic behavior when this MEM file is ingested
 into a new conversation **as the sole structured artifact**.

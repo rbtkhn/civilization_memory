@@ -233,7 +233,7 @@ IX. INTERNAL SECURITY & SOCIAL ORDER
 • SHA deterioration accelerates CB stress unless counter-evidenced.
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANCE
+X. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 A) Urgency Signaling Pathology (USP-RU)
 • LOW / MED / HIGH
@@ -673,7 +673,7 @@ All sources MUST be:
 • Compliant with ARC admissibility rules
 
 ────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANCE
+XIII. VERSION CONTROL & GOVERNANAD
 ────────────────────────────────────────────────────────────
 • Version pinning to specific template/ARC versions
 • Clear upgrade trails

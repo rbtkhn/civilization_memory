@@ -202,7 +202,7 @@ Why it did not occur:
   food demand made non-absorption procedurally unsustainable.
 
 ────────────────────────────────────────────────────────────
-XV. TEMPORAL COMPRESSION NOTICE
+XV. TEMPORAL COMPRESSION NOTIAD
 ────────────────────────────────────────────────────────────
 This file compresses multiple decades of settlement, legal
 standardization, and ecological stress into thematic sections

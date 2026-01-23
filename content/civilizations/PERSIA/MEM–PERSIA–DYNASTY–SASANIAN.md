@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Sasanian Dynasty
-Dates: 224–651 CE
+Dates: 224–651 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

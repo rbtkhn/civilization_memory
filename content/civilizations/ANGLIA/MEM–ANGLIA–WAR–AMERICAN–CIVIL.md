@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: American Civil War (Procedural Union vs Internal Secession)
-Dates: 1861–1865 CE
+Dates: 1861–1865 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

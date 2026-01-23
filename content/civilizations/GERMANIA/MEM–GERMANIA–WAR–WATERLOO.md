@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Battle of Waterloo
-Dates: 1815 CE
+Dates: 1815 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -7,7 +7,7 @@ Supersedes: v1.0
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.0 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Livonian War
-Dates: 1558–1583 CE
+Dates: 1558–1583 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,700

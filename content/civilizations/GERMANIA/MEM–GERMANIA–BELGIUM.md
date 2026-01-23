@@ -22,7 +22,7 @@ For Germania, Belgium is **useful—but dangerous**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. IMPERIAL & ADMINISTRATIVE INHERITANCE
+II. IMPERIAL & ADMINISTRATIVE INHERITANAD
 ────────────────────────────────────────────────────────────
 Belgium’s territory develops within the Germanic–imperial system.
 

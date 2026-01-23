@@ -3,10 +3,10 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
+Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
 Civilization: ANGLIA
 Subject: Arthur Wellesley, Duke of Wellington
-Dates: 1769–1852 CE
+Dates: 1769–1852 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,000
@@ -89,7 +89,7 @@ William Manchester notes that Wellington’s discipline made British
 forces acceptable coalition partners rather than occupiers.
 
 ────────────────────────────────────────────────────────────
-V. COALITION WARFARE WITHOUT DOMINANCE
+V. COALITION WARFARE WITHOUT DOMINANAD
 (SECONDARY)
 ────────────────────────────────────────────────────────────
 Wellington operates **inside alliances**, not above them.

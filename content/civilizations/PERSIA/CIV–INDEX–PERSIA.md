@@ -8,7 +8,7 @@ Class: CIV–INDEX
 Last Update: December 2025
 
 ────────────────────────────────────────────────────────────
-I. INDEX PURPOSE & GOVERNANCE
+I. INDEX PURPOSE & GOVERNANAD
 ────────────────────────────────────────────────────────────
 This file serves as the **authoritative index** for all MEM–PERSIA files
 within the Civilizational Memory Codex.

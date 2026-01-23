@@ -259,7 +259,7 @@ MANDATORY OUTPUT:
 • Social Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANCE
+X. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 
 • External moral framing
@@ -335,7 +335,7 @@ Germania’s execution capacity.
 
 [V1.5 — EXPLICIT LINKAGE]
 Anglia’s feasibility-governor function directly counters:
-DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENCE
+DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENAD
 (CIV–DOCTRINE–FRANCIA v1.0)
 
 ────────────────────────────────────────────────────────────

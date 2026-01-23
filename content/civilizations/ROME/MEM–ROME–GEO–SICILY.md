@@ -50,7 +50,7 @@ Rome inherits this problem set: Sicily cannot be half-held, and cannot be
 ignored.
 
 ────────────────────────────────────────────────────────────
-III. WAR, LOGISTICS, & FORCED COMPETENCE
+III. WAR, LOGISTICS, & FORCED COMPETENAD
 ────────────────────────────────────────────────────────────
 The First Punic War compels Rome to improvise naval capacity, logistics,
 and overseas administration at unprecedented scale.
@@ -73,7 +73,7 @@ Sicily becomes the arena in which Rome learns that:
 Empire begins as forced competence, not ambition.
 
 ────────────────────────────────────────────────────────────
-IV. GRAIN, TAXATION, & STRUCTURAL DEPENDENCE
+IV. GRAIN, TAXATION, & STRUCTURAL DEPENDENAD
 ────────────────────────────────────────────────────────────
 Sicily becomes Rome’s principal grain supplier, embedding the island
 directly into the metabolic core of Roman power.
@@ -154,7 +154,7 @@ Procopius underscores Sicily’s enduring strategic value:
 Geography outlives empire.
 
 ────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL SIGNIFICANCE
+VIII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Sicily demonstrates how empires are trained.
 

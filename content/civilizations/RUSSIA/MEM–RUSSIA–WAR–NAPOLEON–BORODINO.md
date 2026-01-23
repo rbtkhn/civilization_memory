@@ -7,7 +7,7 @@ Supersedes: v2.1 (renamed from MEM–RUSSIA–WAR–BORODINO)
 Upgrade Type: RENAME (MEM–RUSSIA–WAR–BORODINO → MEM–RUSSIA–WAR–NAPOLEON–BORODINO)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Borodino (Бородинское сражение)
-Dates: 7 September 1812 CE
+Dates: 7 September 1812 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200

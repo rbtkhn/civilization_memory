@@ -71,7 +71,7 @@ Peace through mutual restraint among elites.
 The masses are excluded by design.
 
 ────────────────────────────────────────────────────────────
-V. SUPPRESSION AS GOVERNANCE
+V. SUPPRESSION AS GOVERNANAD
 ────────────────────────────────────────────────────────────
 Internally, Metternich substitutes surveillance for adaptation.
 

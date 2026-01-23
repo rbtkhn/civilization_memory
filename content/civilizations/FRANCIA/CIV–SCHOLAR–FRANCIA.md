@@ -389,7 +389,7 @@ Rules:
 • May be abandoned without record
 
 ────────────────────────────────────────────────────────────
-XI. SCHOLAR → MEM AUTHORING INFLUENCE
+XI. SCHOLAR → MEM AUTHORING INFLUENAD
 ────────────────────────────────────────────────────────────
 Permitted (procedural only):
 • Recommend stronger primary-source usage

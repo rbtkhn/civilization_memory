@@ -122,7 +122,7 @@ quiet durability: the island’s role is to serve the system, not to be
 personally possessed.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Crete illustrates Rome’s capacity to govern movement itself.
 

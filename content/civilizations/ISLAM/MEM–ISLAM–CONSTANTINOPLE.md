@@ -96,7 +96,7 @@ Constantinople’s fall announces
 a new world order.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Constantinople becomes Islam’s proof of maturity.
 

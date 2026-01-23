@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Mohandas Karamchand Gandhi
-Dates: 1869–1948 CE
+Dates: 1869–1948 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -54,7 +54,7 @@ Structural limits:
 Gandhi dissolves empire but cannot prevent rupture.
 
 ────────────────────────────────────────────────────────────
-V. CIVILIZATIONAL CONSEQUENCE
+V. CIVILIZATIONAL CONSEQUENAD
 ────────────────────────────────────────────────────────────
 Outcomes:
 • British legitimacy collapse

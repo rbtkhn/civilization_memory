@@ -3,10 +3,10 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANCE
+Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANAD
 Civilization: ANGLIA
 Subject: War of the Austrian Succession (Strategic Rehearsal & System Testing)
-Dates: 1740–1748 CE
+Dates: 1740–1748 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

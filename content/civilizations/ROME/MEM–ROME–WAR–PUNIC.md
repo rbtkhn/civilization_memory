@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
-Upgrade Type: RETROFIT · ACADEMIC REFERENCES COMPLIANCE
+Upgrade Type: RETROFIT · ACADEMIC REFERENCES COMPLIANAD
 Supersedes: MEM–ROME–WAR–PUNIC — v1.0
 Civilization: ROME
 Subject: The Punic Wars

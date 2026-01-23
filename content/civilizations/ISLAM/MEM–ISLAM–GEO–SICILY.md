@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Regime: MARITIME INFILTRATION / CULTURAL TRANSMISSION (827–1091 AD)
 Subject: Sicily
-Dates: 9th–11th centuries CE
+Dates: 9th–11th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -39,7 +39,7 @@ not absorbed by land.
 Islam expands here as network, not frontier.
 
 ────────────────────────────────────────────────────────────
-III. MULTI-CONFESSIONAL GOVERNANCE
+III. MULTI-CONFESSIONAL GOVERNANAD
 ────────────────────────────────────────────────────────────
 Islamic Sicily is pluralistic.
 
@@ -101,7 +101,7 @@ but not culturally.
 The memory persists after authority fades.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Sicily shows Islam’s non-imperial strength.
 

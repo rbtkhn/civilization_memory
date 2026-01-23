@@ -75,7 +75,7 @@ Appian captures Rome’s restraint following the Mithridatic Wars:
 Rome manages risk here; it does not seek intimacy.
 
 ────────────────────────────────────────────────────────────
-IV. ECONOMIC UTILITY WITHOUT DEPENDENCE
+IV. ECONOMIC UTILITY WITHOUT DEPENDENAD
 ────────────────────────────────────────────────────────────
 The Black Sea contributes to Roman power but does not sustain Roman
 survival.

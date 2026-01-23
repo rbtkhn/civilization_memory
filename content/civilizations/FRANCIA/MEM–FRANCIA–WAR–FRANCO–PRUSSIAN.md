@@ -3,12 +3,12 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.1
-Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
+Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANAD
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Opposing Civilization: GERMANIA
 Conflict: Franco–Prussian War
-Dates: 1870–1871 CE
+Dates: 1870–1871 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450
@@ -159,7 +159,7 @@ Memory hardens into doctrine.
 Francia prepares to not lose again—but not to win differently.
 
 ────────────────────────────────────────────────────────────
-IX. CIVILIZATIONAL SIGNIFICANCE
+IX. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 For Francia, the Franco–Prussian War is the origin point of **modern
 strategic anxiety**.

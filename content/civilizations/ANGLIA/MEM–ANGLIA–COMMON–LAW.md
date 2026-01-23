@@ -84,7 +84,7 @@ Precedent encodes:
 • Resistance to rupture
 
 ────────────────────────────────────────────────────────────
-IV. PROCEDURE OVER SUBSTANCE
+IV. PROCEDURE OVER SUBSTANAD
 ────────────────────────────────────────────────────────────
 Legitimacy in Common Law is procedural rather than moral.
 

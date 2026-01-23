@@ -100,7 +100,7 @@ Castlereagh wrote:
 Buffer denial is enforced systemically.
 
 ────────────────────────────────────────────────────────────
-V. CULTURAL PROXIMITY & POLITICAL DISTANCE
+V. CULTURAL PROXIMITY & POLITICAL DISTANAD
 ────────────────────────────────────────────────────────────
 Despite exclusion, ties persist.
 
@@ -116,7 +116,7 @@ Influence replaces control.
 Belgium remains familiar—but unreachable.
 
 ────────────────────────────────────────────────────────────
-VI. 1914 & STRATEGIC AMBIVALENCE
+VI. 1914 & STRATEGIC AMBIVALENAD
 ────────────────────────────────────────────────────────────
 Belgium’s violation reshapes conflict.
 

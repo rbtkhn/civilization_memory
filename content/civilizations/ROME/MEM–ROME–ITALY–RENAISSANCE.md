@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–ITALY–RENAISSANCE — v1.1
 Civilization: ROME
 Region: ITALY
 Subject: The Renaissance
-Dates: c. 1300–1550 CE
+Dates: c. 1300–1550 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,950
@@ -144,7 +144,7 @@ Modern scholarship frames the phenomenon but does not override ancient
 evidence.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Renaissance confirms a Roman pattern:
 

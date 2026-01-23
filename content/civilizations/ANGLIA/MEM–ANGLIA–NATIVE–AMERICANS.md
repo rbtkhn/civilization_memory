@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Native Americans (Displacement, Treaty Failure, and Expansion Logic)
-Dates: 17th century–19th century CE
+Dates: 17th century–19th century AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -36,7 +36,7 @@ Consent is temporary.
 Procedure becomes a tool of erasure.
 
 ────────────────────────────────────────────────────────────
-III. SETTLER LOGIC VS INDIGENOUS SPACE
+III. SETTLER LOGIC VS INDIGENOUS SPAAD
 ────────────────────────────────────────────────────────────
 Anglian expansion assumes land as alienable.
 
@@ -62,7 +62,7 @@ Violence is routinized.
 Removal is framed as order maintenance.
 
 ────────────────────────────────────────────────────────────
-V. LEGITIMACY PRESERVATION THROUGH DISTANCE
+V. LEGITIMACY PRESERVATION THROUGH DISTANAD
 ────────────────────────────────────────────────────────────
 Core legitimacy remains intact.
 

@@ -130,7 +130,7 @@ sources confirming the alliance and defeat, archaeological evidence of the
 battlefield location.
 
 ────────────────────────────────────────────────────────────
-VII. CUMAN CULTURAL AND MILITARY INFLUENCE
+VII. CUMAN CULTURAL AND MILITARY INFLUENAD
 ────────────────────────────────────────────────────────────
 Cuman conflicts encode lasting influences on Russian civilization.
 

@@ -120,7 +120,7 @@ Mountain frontiers generate hybrid cultural spaces.
 Integration remains incomplete.
 
 ────────────────────────────────────────────────────────────
-VIII. MODERN CONTINUITY & GEOPOLITICAL SIGNIFICANCE
+VIII. MODERN CONTINUITY & GEOPOLITICAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Carpathians remain a zone of strategic importance.
 

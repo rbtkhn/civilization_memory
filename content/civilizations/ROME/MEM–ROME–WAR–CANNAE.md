@@ -104,7 +104,7 @@ This marks a transition from decisive-battle ideology
 to endurance-based strategy.
 
 ────────────────────────────────────────────────────────────
-VI. INSTITUTIONAL RESILIENCE
+VI. INSTITUTIONAL RESILIENAD
 ────────────────────────────────────────────────────────────
 Rome’s survival after Cannae reveals exceptional institutional depth.
 

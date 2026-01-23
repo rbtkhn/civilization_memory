@@ -221,7 +221,7 @@ If RCM = EVAPORATING and CAS = ADVERSARIAL/SPLIT,
 Internal Stability cannot be forecast as STABLE without explicit counter-evidence.
 
 ────────────────────────────────────────────────────────────
-XI. INFORMATION & NARRATIVE GOVERNANCE
+XI. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 
 Narrative is not “messaging”; it is sacred-memory routing.

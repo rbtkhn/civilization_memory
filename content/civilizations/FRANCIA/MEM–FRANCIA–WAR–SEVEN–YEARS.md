@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Seven Years’ War
-Dates: 1756–1763 CE
+Dates: 1756–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

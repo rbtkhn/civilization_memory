@@ -162,7 +162,7 @@ MANDATORY OUTPUT:
 • Internal Stability: HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANCE
+X. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 
 Narrative is an administrative domain.

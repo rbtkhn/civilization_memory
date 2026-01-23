@@ -120,7 +120,7 @@ The literary memory:
 This memory framework **prioritizes meaning over maneuver**.
 
 ────────────────────────────────────────────────────────────
-VI. THE PEOPLE AS HISTORICAL FORCE
+VI. THE PEOPLE AS HISTORICAL FORAD
 ────────────────────────────────────────────────────────────
 Tolstoy elevates popular experience to historical agency.
 

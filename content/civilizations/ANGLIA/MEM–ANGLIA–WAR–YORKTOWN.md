@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: Siege of Yorktown (Procedural Defeat & Managed Imperial Exit)
-Dates: 1781 CE
+Dates: 1781 AD
 Class: MEM (Memory)
 Last Update: January 2026
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars with the Polish–Lithuanian Commonwealth
-Dates: c. 1492–1795 CE
+Dates: c. 1492–1795 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: [TBD]
@@ -43,7 +43,7 @@ Russia:
 The war is as much constitutional as military.
 
 ────────────────────────────────────────────────────────────
-III. BORDERLANDS AS BATTLESPACE
+III. BORDERLANDS AS BATTLESPAAD
 ────────────────────────────────────────────────────────────
 The primary arena is the western borderland.
 

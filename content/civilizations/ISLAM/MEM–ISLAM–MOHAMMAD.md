@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
 Subject: Muhammad ibn Abdullah (Prophet of Islam)
-Dates: c. 570–632 CE
+Dates: c. 570–632 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -88,7 +88,7 @@ It **extends an existing one**.
 This differentiates Islam from Rome’s post hoc legal absorption.
 
 ────────────────────────────────────────────────────────────
-VI. WAR, RESTRAINT, & MORALIZED VIOLENCE
+VI. WAR, RESTRAINT, & MORALIZED VIOLENAD
 ────────────────────────────────────────────────────────────
 Muhammad authorizes force—but bounds it.
 

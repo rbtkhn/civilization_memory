@@ -85,7 +85,7 @@ Jacques Necker observes:
 Centralization accelerates risk.
 
 ────────────────────────────────────────────────────────────
-VI. SYMBOLIC & CULTURAL DOMINANCE
+VI. SYMBOLIC & CULTURAL DOMINANAD
 ────────────────────────────────────────────────────────────
 The Seine carries:
 • Monuments

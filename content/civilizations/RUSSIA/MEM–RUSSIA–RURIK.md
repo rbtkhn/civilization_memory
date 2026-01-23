@@ -7,7 +7,7 @@ Upgrade Type: REFINEMENT PASS · TRADITION / STRUCTURE DISAGGREGATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Foundational Insertion Phase
 Subject: Rurik (Рюрик)
-Dates: c. 830–879 CE
+Dates: c. 830–879 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,250
@@ -109,7 +109,7 @@ This establishes a lasting Russian pattern:
 → Stability derives from succession more than administration.
 
 ────────────────────────────────────────────────────────────
-VI. PROCEDURAL LEGITIMACY AS CIVILIZATIONAL INHERITANCE
+VI. PROCEDURAL LEGITIMACY AS CIVILIZATIONAL INHERITANAD
 ────────────────────────────────────────────────────────────
 Rurik introduces a crucial Russian legitimacy mechanism:
 **procedural acceptance of authority regardless of origin**.

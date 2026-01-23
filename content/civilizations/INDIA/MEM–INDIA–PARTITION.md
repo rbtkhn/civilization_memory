@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Regime: DECOLONIZATION / CIVILIZATIONAL FRACTURE EVENT (1947)
 Subject: Partition of British India
-Dates: 1946–1948 CE
+Dates: 1946–1948 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -53,7 +53,7 @@ Identity becomes territorialized.
 Pluralism is recoded as incompatibility.
 
 ────────────────────────────────────────────────────────────
-IV. ADMINISTRATIVE SEVERANCE & BORDER VIOLENCE
+IV. ADMINISTRATIVE SEVERANCE & BORDER VIOLENAD
 ────────────────────────────────────────────────────────────
 The Radcliffe Line is drawn without demographic absorption capacity.
 

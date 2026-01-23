@@ -7,7 +7,7 @@ Supersedes: v2.0 (renamed from MEM–RUSSIA–WAR–AUSTERLITZ)
 Upgrade Type: RENAME (MEM–RUSSIA–WAR–AUSTERLITZ → MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Austerlitz (Битва под Аустерлицем)
-Dates: 2 December 1805 CE
+Dates: 2 December 1805 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400
@@ -60,7 +60,7 @@ Campaigns of War and Peace* (2009)
 Strategic overconfidence precedes operational education.
 
 ────────────────────────────────────────────────────────────
-III. THE BATTLE AS TACTICAL MASTERPIECE
+III. THE BATTLE AS TACTICAL MASTERPIEAD
 ────────────────────────────────────────────────────────────
 Napoleon transforms coalition advantage into operational trap.
 

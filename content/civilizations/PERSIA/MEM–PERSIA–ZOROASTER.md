@@ -83,7 +83,7 @@ Transmission channels:
 Religion operates as **civilizational software**, not personal mysticism.
 
 ────────────────────────────────────────────────────────────
-VI. ETHICS OF ENDURANCE
+VI. ETHICS OF ENDURANAD
 ────────────────────────────────────────────────────────────
 Zoroaster sanctifies endurance.
 

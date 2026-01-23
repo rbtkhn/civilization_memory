@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: FOUNDATIONAL · FULL ARC v1.9 COMPLIANCE
+Upgrade Type: FOUNDATIONAL · FULL ARC v1.9 COMPLIANAD
 Civilization: ROME
 Regime: REPUBLICAN CONSTITUTION / CIVIC–MILITARY SYNTHESIS
 Subject: The Roman Republic

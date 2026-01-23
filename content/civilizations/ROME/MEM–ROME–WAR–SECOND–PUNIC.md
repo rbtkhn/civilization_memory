@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: SPLIT DERIVATION · FULL ARC COMPLIANCE
+Upgrade Type: SPLIT DERIVATION · FULL ARC COMPLIANAD
 Supersedes: MEM–ROME–WAR–PUNIC — v1.3 (PARTIAL)
 Civilization: ROME
 Subject: Second Punic War

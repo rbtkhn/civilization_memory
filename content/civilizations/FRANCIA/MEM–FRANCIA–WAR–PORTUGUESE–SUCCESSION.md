@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Portuguese Restoration War (Indirect War, Balance Intervention, and Peripheral Leverage)
-Dates: 1640–1668 CE
+Dates: 1640–1668 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

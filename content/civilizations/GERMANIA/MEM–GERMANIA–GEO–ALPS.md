@@ -67,7 +67,7 @@ For Germania:
 The Alps convert space into delay.
 
 ────────────────────────────────────────────────────────────
-V. HABSBURG & AUSTRIAN CORE INTERFACE
+V. HABSBURG & AUSTRIAN CORE INTERFAAD
 ────────────────────────────────────────────────────────────
 The Alps become central to Habsburg survivability.
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars with the Teutonic Knights & Northern Crusades
-Dates: c. 1230–1242 CE
+Dates: c. 1230–1242 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: [TBD]

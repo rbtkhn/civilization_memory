@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Jawaharlal Nehru
-Dates: 1889–1964 CE
+Dates: 1889–1964 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -54,7 +54,7 @@ Costs of Nehru’s model:
 Continuity preserved at the expense of speed.
 
 ────────────────────────────────────────────────────────────
-V. CIVILIZATIONAL CONSEQUENCE
+V. CIVILIZATIONAL CONSEQUENAD
 ────────────────────────────────────────────────────────────
 Outcomes:
 • Durable republican framework

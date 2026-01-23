@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: COMPLIANT · CANONICAL
 Version: 2.0
-Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · ARC QTT CLEARANCE
+Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · ARC QTT CLEARANAD
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY RUS’ · CORRIDOR–FOUNDED DYNASTIC FORMATION
 Subject: Varangians (Варяги)
-Dates: c. 750–1050 CE
+Dates: c. 750–1050 AD
 Class: MEM (Memory)
 Template Version Used: CIV–MEM–TEMPLATE v2.5
 ARC Version Pinned: ARC–RUSSIA v1.9
@@ -70,7 +70,7 @@ This differentiates Varangians from agrarian conquerors: authority
 travels with circulation capacity.
 
 ────────────────────────────────────────────────────────────
-III. ENTRY INTO EAST SLAVIC SPACE
+III. ENTRY INTO EAST SLAVIC SPAAD
 ────────────────────────────────────────────────────────────
 Varangian entry occurs within a fragmented political ecology.
 

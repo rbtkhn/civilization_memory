@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Emancipation Proclamation (Procedural Morality Under War)
-Dates: 1863 CE
+Dates: 1863 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

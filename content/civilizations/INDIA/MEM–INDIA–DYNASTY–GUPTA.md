@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Gupta Dynasty
-Dates: c. 320–550 CE
+Dates: c. 320–550 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

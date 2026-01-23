@@ -7,7 +7,7 @@ Upgrade Type: ARC COMPLIANCE REISSUE (NO STRUCTURAL CHANGE)
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY (MACEDONIAN DYNASTY)
 Subject: Basil II “the Bulgar-Slayer”
-Dates: 958–1025 CE
+Dates: 958–1025 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -57,7 +57,7 @@ Here, authority is preserved not through consensus,
 but through sustained intimidation of the elite.
 
 ────────────────────────────────────────────────────────────
-IV. MILITARY EXECUTION & STRATEGIC ENDURANCE
+IV. MILITARY EXECUTION & STRATEGIC ENDURANAD
 ────────────────────────────────────────────────────────────
 Basil II wages continuous war, especially against Bulgaria.
 

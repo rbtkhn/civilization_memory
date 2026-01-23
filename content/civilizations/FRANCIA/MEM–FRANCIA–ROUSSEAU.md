@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Jean-Jacques Rousseau
-Dates: 1712–1778 CE
+Dates: 1712–1778 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -67,7 +67,7 @@ The state acquires ethical authority over the individual.
 Moral unanimity is prioritized over restraint.
 
 ────────────────────────────────────────────────────────────
-V. RELATION TO REVOLUTIONARY PRACTICE
+V. RELATION TO REVOLUTIONARY PRACTIAD
 ────────────────────────────────────────────────────────────
 Rousseau provides the grammar later actors weaponize.
 

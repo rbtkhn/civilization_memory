@@ -120,7 +120,7 @@ Distance converts presence into fragility.
 Control requires continual investment and subsidy.
 
 ────────────────────────────────────────────────────────────
-VIII. MODERN CONTINUITY & GEOPOLITICAL SIGNIFICANCE
+VIII. MODERN CONTINUITY & GEOPOLITICAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Amur remains a zone of strategic importance.
 

@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Liao Dynasty (辽)
-Dates: 907–1125 CE
+Dates: 907–1125 AD
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
@@ -90,7 +90,7 @@ Khitan political logic accepted plural legitimacy:
 Mandate was practical, not cosmological.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY STRENGTH & STRATEGIC BALANCE
+VI. MILITARY STRENGTH & STRATEGIC BALANAD
 ────────────────────────────────────────────────────────────
 Liao military power rested on cavalry dominance and mobility.
 

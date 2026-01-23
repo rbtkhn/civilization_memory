@@ -164,7 +164,7 @@ These scholars confirm that the Chronicle **teaches continuity**, not
 analysis.
 
 ────────────────────────────────────────────────────────────
-VII. MODERN SYNTHESIS: LEGITIMACY AND ENDURANCE
+VII. MODERN SYNTHESIS: LEGITIMACY AND ENDURANAD
 (Category D — MODERN)
 ────────────────────────────────────────────────────────────
 **Robert K. Massie** on sacral authority:

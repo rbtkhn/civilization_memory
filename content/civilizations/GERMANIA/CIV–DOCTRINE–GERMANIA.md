@@ -65,7 +65,7 @@ Hard Constraints:
 DOCTRINE 02
 Name: REPLACEMENT BEFORE EXPANSION
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANCE
+Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANAD
 
 Definition:
 Germania generates power by replacing personnel, materiel, and
@@ -110,7 +110,7 @@ Hard Constraints:
 DOCTRINE 04
 Name: DISCIPLINE INVERSION FAILURE
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANCE
+Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANAD
 
 Definition:
 When operational excellence becomes uncoupled from political restraint,

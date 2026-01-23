@@ -259,7 +259,7 @@ Status:
 • STAGED · NON-BINDING
 
 ────────────────────────────────────────────────────────────
-XI. SCHOLAR → MEM AUTHORING INFLUENCE
+XI. SCHOLAR → MEM AUTHORING INFLUENAD
 ────────────────────────────────────────────────────────────
 Scholar influence is procedural only.
 

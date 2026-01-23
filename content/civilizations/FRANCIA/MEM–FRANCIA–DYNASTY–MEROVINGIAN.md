@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Merovingian Dynasty
-Dates: c. 450–751 CE
+Dates: c. 450–751 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -70,7 +70,7 @@ Roles:
 Universalism begins ecclesiastically.
 
 ────────────────────────────────────────────────────────────
-VI. MAYORAL ASCENDANCE
+VI. MAYORAL ASCENDANAD
 ────────────────────────────────────────────────────────────
 Administrative weakness invites substitution.
 

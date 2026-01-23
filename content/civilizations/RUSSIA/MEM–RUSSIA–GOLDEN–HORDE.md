@@ -3,11 +3,11 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 1.1
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
+Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Suzerainty · Tributary Interface State
 Subject: Golden Horde (Золотая Орда)
-Dates: c. 1240–1502 CE
+Dates: c. 1240–1502 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050
@@ -96,7 +96,7 @@ Governance lessons learned:
 Muscovy excels by mastering these rules more consistently than rivals.
 
 ────────────────────────────────────────────────────────────
-VI. CHURCH AUTONOMY & SACRAL ENDURANCE
+VI. CHURCH AUTONOMY & SACRAL ENDURANAD
 ────────────────────────────────────────────────────────────
 The Orthodox Church is largely exempted from Horde extraction.
 

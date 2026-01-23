@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Swedish War (Peripheral Ally, Continental Leverage, and Coalition Geometry)
-Dates: 1630–1648 CE
+Dates: 1630–1648 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650
@@ -45,7 +45,7 @@ Richelieu articulates the logic:
 Francia chooses leverage over exposure.
 
 ────────────────────────────────────────────────────────────
-III. SWEDEN AS INSTRUMENTAL FORCE
+III. SWEDEN AS INSTRUMENTAL FORAD
 ────────────────────────────────────────────────────────────
 Sweden supplies what Francia avoids.
 

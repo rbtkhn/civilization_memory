@@ -59,7 +59,7 @@ Pliny the Elder highlights fiscal productivity:
 Rome inherits a ready-made system.
 
 ────────────────────────────────────────────────────────────
-IV. PUBLIC-DOMAIN SCHOLARSHIP: DURABLE PROVINCE
+IV. PUBLIC-DOMAIN SCHOLARSHIP: DURABLE PROVINAD
 ────────────────────────────────────────────────────────────
 Mommsen identifies Asia Minor as Rome’s model province:
 

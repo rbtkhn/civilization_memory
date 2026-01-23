@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 2.0
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANCE
+Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Lake Ladoga (Ладожское озеро)
 Dates: Prehistory–present

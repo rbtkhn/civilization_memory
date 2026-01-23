@@ -82,7 +82,7 @@ This principle functions **primarily ex post**—as moral justification after
 victory—rather than as a procedural mechanism for orderly regime change.
 
 ────────────────────────────────────────────────────────────
-V. HUMAN NATURE & GOVERNANCE
+V. HUMAN NATURE & GOVERNANAD
 ────────────────────────────────────────────────────────────
 Mengzi’s anthropology is optimistic but demanding.
 

@@ -60,7 +60,7 @@ Hard Constraints:
 ────────────────────────────────────────────────────────────
 
 DOCTRINE 02
-Name: UNIVERSALISM–CAPACITY DIVERGENCE
+Name: UNIVERSALISM–CAPACITY DIVERGENAD
 Status: ACCEPTED · LOCKED · CANONICAL
 Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0002)
 

@@ -15,7 +15,7 @@ Word Count: 1275
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & INDEX GOVERNANCE
+I. PURPOSE & INDEX GOVERNANAD
 ────────────────────────────────────────────────────────────
 This file is the authoritative register of all MEM–GERMANIA files.
 

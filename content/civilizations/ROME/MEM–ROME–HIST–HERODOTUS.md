@@ -148,7 +148,7 @@ Rome’s failures at the frontier, in religion, and in legitimacy often trace
 back to precisely this misrecognition.
 
 ────────────────────────────────────────────────────────────
-IX. ROME’S SELECTIVE INHERITANCE
+IX. ROME’S SELECTIVE INHERITANAD
 ────────────────────────────────────────────────────────────
 Rome learns Herodotus early and abandons him gradually.
 

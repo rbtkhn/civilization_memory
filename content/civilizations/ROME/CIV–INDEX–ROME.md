@@ -15,7 +15,7 @@ Total Registered Files: authoritative count governed exclusively by this index
 Template Alignment: CIV–MEM–CORE v1.9 (Index-Compatible)
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & INDEX GOVERNANCE
+I. PURPOSE & INDEX GOVERNANAD
 ────────────────────────────────────────────────────────────
 This file is the authoritative registry of all ROME-related
 CIV–CORE and MEM files.
@@ -268,7 +268,7 @@ Mirror parity with other civilizations is:
 No parity enforcement is performed at the index level.
 
 ────────────────────────────────────────────────────────────
-XVI. CANONICAL LOCK NOTICE
+XVI. CANONICAL LOCK NOTIAD
 ────────────────────────────────────────────────────────────
 This index is LOCKED.
 

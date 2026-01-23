@@ -99,7 +99,7 @@ Sunni Islam remains intact.
 Legitimacy is portable.
 
 ────────────────────────────────────────────────────────────
-VII. MODERN RESILIENCE
+VII. MODERN RESILIENAD
 ────────────────────────────────────────────────────────────
 In the post-caliphate world, Sunni Islam fragments institutionally
 but not civilizationally.

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Max Planck
-Dates: 1858–1947 CE
+Dates: 1858–1947 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

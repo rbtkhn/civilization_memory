@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: EARLY PRINCIPATE (AUGUSTAN)
 Subject: Battle of the Teutoburg Forest (Roman Perspective)
-Dates: 9 CE
+Dates: 9 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350
@@ -27,7 +27,7 @@ It is **forced self-recognition**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. AUGUSTAN CONTEXT & IMPERIAL OVERCONFIDENCE
+II. AUGUSTAN CONTEXT & IMPERIAL OVERCONFIDENAD
 ────────────────────────────────────────────────────────────
 By 9 AD, Rome believes Germania is administratively mature.
 

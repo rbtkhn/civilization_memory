@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.0
-Upgrade Type: FOUNDATIONAL RELEASE · TEMPLATE v2.2 COMPLIANCE
+Upgrade Type: FOUNDATIONAL RELEASE · TEMPLATE v2.2 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Linguistic–Civilizational Infrastructure
 Subject: Cyrillic Alphabet (Кириллица)

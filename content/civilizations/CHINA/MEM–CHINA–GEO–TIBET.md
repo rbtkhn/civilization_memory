@@ -111,7 +111,7 @@ Security logic:
 Power is about denial, not domination.
 
 ────────────────────────────────────────────────────────────
-VII. MODERN STATE INCORPORATION & GOVERNANCE
+VII. MODERN STATE INCORPORATION & GOVERNANAD
 ────────────────────────────────────────────────────────────
 Post-1950 incorporation represents a **qualitative shift**: from episodic
 ritual oversight to **permanent administrative and infrastructural presence**,

@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE HARDENING (Primary + Secondary · v1.6)
 Civilization: ANGLIA
 Regime / Mode: TERMINAL ANGLO-SAXON KINGSHIP / INVASION-INDUCED RESET
 Subject: Battle of Hastings (Elite Replacement & Forced Recomposition)
-Dates: 1066 CE
+Dates: 1066 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,150
@@ -47,7 +47,7 @@ The system is coherent, but lacks redundancy.
 Authority is embodied rather than abstracted.
 
 ────────────────────────────────────────────────────────────
-III. THE 1066 SHOCK SEQUENCE
+III. THE 1066 SHOCK SEQUENAD
 ────────────────────────────────────────────────────────────
 Anglia faces sequential existential threats without recovery time.
 
@@ -59,7 +59,7 @@ Michael’s Mass, and soon came to Hastings; and King Harold came against
 him with all the army that he could gather, and there was a great
 slaughter made on either side, and King Harold was slain, and the
 English army was put to flight.”
-— Anglo-Saxon Chronicle, entry for 1066 CE
+— Anglo-Saxon Chronicle, entry for 1066 AD
 
 The passage encodes simultaneity, exhaustion, and terminal defeat as a
 single civilizational shock.
@@ -74,7 +74,7 @@ William of Poitiers records the annihilation of the ruling elite:
 “So great was the slaughter of the English that the flower of their
 nobility was cut down; the king himself fell, struck by many wounds, and
 with him fell the power of the English.”
-— William of Poitiers, Gesta Guillelmi, c. 1070 CE
+— William of Poitiers, Gesta Guillelmi, c. 1070 AD
 
 Personal kingship proves non-transferable.
 When the king dies, the regime dies with him.

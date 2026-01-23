@@ -56,7 +56,7 @@ river:
 Authority arrives incrementally, punishing impatience.
 
 ────────────────────────────────────────────────────────────
-IV. PRUSSIAN STATECRAFT & DISCIPLINED ADVANCE
+IV. PRUSSIAN STATECRAFT & DISCIPLINED ADVANAD
 ────────────────────────────────────────────────────────────
 Under Prussian administration, the Elbe is internalized through
 logistics, cadastral discipline, and bureaucratic pacing rather than

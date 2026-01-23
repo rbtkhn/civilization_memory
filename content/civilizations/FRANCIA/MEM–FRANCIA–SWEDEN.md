@@ -63,7 +63,7 @@ The Peace of Westphalia confirms the logic:
 Francia claims architect status without northern exposure.
 
 ────────────────────────────────────────────────────────────
-V. LIMITS OF PROXY DEPENDENCE
+V. LIMITS OF PROXY DEPENDENAD
 ────────────────────────────────────────────────────────────
 Proxy power is unstable.
 

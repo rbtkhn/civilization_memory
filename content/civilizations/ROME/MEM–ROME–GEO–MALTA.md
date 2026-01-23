@@ -131,7 +131,7 @@ persist even as empires contract:
 Malta is preserved because its loss would have multiplied risk.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Malta demonstrates Rome’s mastery of **micro-geometry**.
 

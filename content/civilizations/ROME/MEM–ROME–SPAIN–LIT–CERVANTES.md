@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME (LATIN LITERARY CONTINUITY)
 Regime: EARLY MODERN MONARCHY / POST-IMPERIAL CULTURAL REFLECTION
 Subject: Miguel de Cervantes Saavedra
-Dates: 1547–1616 CE
+Dates: 1547–1616 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350
@@ -74,7 +74,7 @@ Rome’s grammar survives,
 but its referents dissolve.
 
 ────────────────────────────────────────────────────────────
-V. MEDIEVAL & EARLY MODERN VOICE
+V. MEDIEVAL & EARLY MODERN VOIAD
 ────────────────────────────────────────────────────────────
 Cervantes speaks from lived disillusionment.
 

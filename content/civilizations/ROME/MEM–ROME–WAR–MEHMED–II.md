@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · ARC-COMPLIANT INITIALIZATION
 Civilization: ROME (EASTERN / TERMINAL PHASE)
 Adversary: OTTOMAN STATE
 Subject: Mehmed II and the Fall of Constantinople
-Dates: 1451–1453 CE
+Dates: 1451–1453 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350

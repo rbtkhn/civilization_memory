@@ -23,7 +23,7 @@ core interests, yet grounded in a different civilizational alignment.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. CIVILIZATIONAL ALIGNMENT & DIFFERENCE
+II. CIVILIZATIONAL ALIGNMENT & DIFFERENAD
 ────────────────────────────────────────────────────────────
 Poland aligns with:
 • Latin Christianity

@@ -90,7 +90,7 @@ The emperor remains powerful—
 but not supreme.
 
 ────────────────────────────────────────────────────────────
-V. MILITARY REALITY AND BARBARIAN DEPENDENCE
+V. MILITARY REALITY AND BARBARIAN DEPENDENAD
 ────────────────────────────────────────────────────────────
 Theodosius governs amid demographic strain.
 
@@ -111,7 +111,7 @@ Defense persists.
 Control weakens.
 
 ────────────────────────────────────────────────────────────
-VI. UNITY BY DECREE, DIVISION BY PRACTICE
+VI. UNITY BY DECREE, DIVISION BY PRACTIAD
 ────────────────────────────────────────────────────────────
 Theodosius briefly reunites East and West.
 

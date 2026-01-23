@@ -42,7 +42,7 @@ Sidonius Apollinaris notes the Loire’s civilizing role:
 Order travels inward, not outward.
 
 ────────────────────────────────────────────────────────────
-III. EARLY KINGSHIP & TERRITORIAL COHERENCE
+III. EARLY KINGSHIP & TERRITORIAL COHERENAD
 ────────────────────────────────────────────────────────────
 The Loire becomes central to Frankish and Capetian consolidation.
 

@@ -87,7 +87,7 @@ Apartheid is proceduralized injustice.
 It survives because it is administered efficiently.
 
 ────────────────────────────────────────────────────────────
-VI. METROPOLE–COLONY DISSONANCE
+VI. METROPOLE–COLONY DISSONANAD
 ────────────────────────────────────────────────────────────
 Anglia tolerates contradiction at distance.
 

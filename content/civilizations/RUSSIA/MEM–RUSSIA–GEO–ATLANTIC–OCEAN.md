@@ -101,7 +101,7 @@ Atlantic pressure reinforces inward orientation and siege logic.
 Maritime ambition is constrained by system reality.
 
 ────────────────────────────────────────────────────────────
-VI. MODERN MILITARY INTERFACE
+VI. MODERN MILITARY INTERFAAD
 ────────────────────────────────────────────────────────────
 In the modern era:
 • The Atlantic is NATO’s core theater

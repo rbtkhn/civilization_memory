@@ -55,7 +55,7 @@ Edward Gibbon situates the moment:
 Greek Fire belongs to this phase of enforced ingenuity.
 
 ────────────────────────────────────────────────────────────
-III. ANCIENT EVIDENCE — FIRE AS CONTROLLED FORCE
+III. ANCIENT EVIDENCE — FIRE AS CONTROLLED FORAD
 ────────────────────────────────────────────────────────────
 Although the precise composition is never disclosed, Roman authors
 establish the *logic* of incendiary naval weapons and controlled flame.

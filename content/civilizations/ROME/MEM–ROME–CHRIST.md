@@ -134,7 +134,7 @@ Christian witness neutralizes it.
 Authority shifts beyond pain.
 
 ────────────────────────────────────────────────────────────
-VIII. TIME, ESCHATOLOGY, & IMPERIAL PATIENCE
+VIII. TIME, ESCHATOLOGY, & IMPERIAL PATIENAD
 ────────────────────────────────────────────────────────────
 Christ introduces compressed moral time.
 

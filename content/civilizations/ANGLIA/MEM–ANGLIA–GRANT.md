@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Ulysses S. Grant
-Dates: 1822–1885 CE
+Dates: 1822–1885 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -51,7 +51,7 @@ Victory is framed as inevitability, not spectacle.
 Time becomes a weapon.
 
 ────────────────────────────────────────────────────────────
-IV. CIVILIAN SUBORDINATION & OBEDIENCE
+IV. CIVILIAN SUBORDINATION & OBEDIENAD
 ────────────────────────────────────────────────────────────
 Grant’s legitimacy derives from compliance.
 

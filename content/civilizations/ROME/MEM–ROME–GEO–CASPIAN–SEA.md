@@ -81,7 +81,7 @@ Mommsen emphasizes non-integration:
 > — Theodor Mommsen, *History of Rome*
 
 ────────────────────────────────────────────────────────────
-V. MODERN SCHOLARSHIP — STEPPE INTERFACE
+V. MODERN SCHOLARSHIP — STEPPE INTERFAAD
 ────────────────────────────────────────────────────────────
 Peter Heather observes:
 > “Rome’s real eastern frontier was psychological as much as military,

@@ -24,7 +24,7 @@ It is **held at distance**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. DESERT GEOGRAPHY AND LIMIT GOVERNANCE
+II. DESERT GEOGRAPHY AND LIMIT GOVERNANAD
 ────────────────────────────────────────────────────────────
 Libya presents a governance environment defined by scarcity:
 

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Louis XV
-Dates: 1710–1774 CE
+Dates: 1710–1774 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -38,7 +38,7 @@ Deficit:
 Absolutism persists by inertia, not command.
 
 ────────────────────────────────────────────────────────────
-III. COURT DECADENCE & LEGITIMACY DISTANCE
+III. COURT DECADENCE & LEGITIMACY DISTANAD
 ────────────────────────────────────────────────────────────
 Versailles loses disciplinary function.
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Battle of Waterloo
-Dates: 1815 CE
+Dates: 1815 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

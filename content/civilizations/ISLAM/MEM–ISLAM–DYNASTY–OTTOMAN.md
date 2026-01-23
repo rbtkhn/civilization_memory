@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Regime: IMPERIAL / CALIPHAL CUSTODIANSHIP (c. 1299–1924 AD)
 Subject: Ottoman Dynasty
-Dates: 14th–20th centuries CE
+Dates: 14th–20th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

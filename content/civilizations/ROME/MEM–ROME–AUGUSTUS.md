@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
-Upgrade Type: ADD-ONLY · FULL ACADEMIC QUOTATION COMPLIANCE
+Upgrade Type: ADD-ONLY · FULL ACADEMIC QUOTATION COMPLIANAD
 Civilization: ROME
 Regime: PRINCIPATE (CONCEALED MONARCHY)
 Subject: Gaius Octavius (Augustus)
@@ -52,7 +52,7 @@ Adrian Goldsworthy frames the problem precisely:
 Civil war becomes the only available adjudicator of legitimacy.
 
 ────────────────────────────────────────────────────────────
-III. DEFEAT OF RIVALS & CONTROLLED USE OF FORCE
+III. DEFEAT OF RIVALS & CONTROLLED USE OF FORAD
 ────────────────────────────────────────────────────────────
 Augustus eliminates rivals sequentially.
 
@@ -94,7 +94,7 @@ Theodor Mommsen interprets the reality beneath the language:
 > — Theodor Mommsen, *The History of Rome*
 
 ────────────────────────────────────────────────────────────
-V. LEGITIMACY THROUGH PERFORMANCE & PEACE
+V. LEGITIMACY THROUGH PERFORMANCE & PEAAD
 ────────────────────────────────────────────────────────────
 Augustus substitutes outcome for participation.
 

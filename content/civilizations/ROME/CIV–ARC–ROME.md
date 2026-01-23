@@ -310,7 +310,7 @@ XI. CANON STATE
 Version: CIV–ARC–ROME v1.9
 State: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–ARC–ROME v1.8
-Upgrade Type: ADDITIVE · CHRONOLOGICAL EXPANSION · DISCOVERY GOVERNANCE
+Upgrade Type: ADDITIVE · CHRONOLOGICAL EXPANSION · DISCOVERY GOVERNANAD
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────

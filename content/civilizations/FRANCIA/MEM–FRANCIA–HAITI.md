@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Haiti (Revolutionary Inversion & Universalist Collapse)
-Dates: 1791–1804 CE
+Dates: 1791–1804 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

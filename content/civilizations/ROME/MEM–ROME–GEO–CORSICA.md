@@ -133,7 +133,7 @@ Corsica was maintained not because it prospered, but because abandoning
 it would have increased exposure elsewhere.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Corsica illustrates Rome’s acceptance of **incomplete control**.
 

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: War of the First Coalition (Revolutionary Universalism vs. Continental Order)
-Dates: 1792–1797 CE
+Dates: 1792–1797 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,850

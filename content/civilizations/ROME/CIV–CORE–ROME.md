@@ -169,7 +169,7 @@ MANDATORY OUTPUT:
 • Enforcement Drift Level (EDL): NONE / EMERGING / ACTIVE
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANCE
+X. INFORMATION & NARRATIVE GOVERNANAD
 ────────────────────────────────────────────────────────────
 Lawfare visibility creates backlash when exposed.
 
@@ -844,7 +844,7 @@ All sources MUST be:
 • Compliant with ARC admissibility rules
 
 ────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANCE
+XIII. VERSION CONTROL & GOVERNANAD
 ────────────────────────────────────────────────────────────
 • Version pinning to specific template/ARC versions
 • Clear upgrade trails

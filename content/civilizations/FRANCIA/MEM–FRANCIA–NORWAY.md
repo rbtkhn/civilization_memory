@@ -58,7 +58,7 @@ Coalitions determine outcomes without Norwegian centrality.
 Norway is peripheral even in extremis.
 
 ────────────────────────────────────────────────────────────
-V. MODERN ERA: NORWAY AS NEUTRAL SPACE
+V. MODERN ERA: NORWAY AS NEUTRAL SPAAD
 ────────────────────────────────────────────────────────────
 In the modern period, Norway appears as:
 • Neutral actor

@@ -3,12 +3,12 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.2
-Upgrade Type: ADD-ONLY · FULL ACADEMIC & TEMPLATE COMPLIANCE
+Upgrade Type: ADD-ONLY · FULL ACADEMIC & TEMPLATE COMPLIANAD
 Supersedes: MEM–ROME–TRAJAN — v1.0
 Civilization: ROME
 Regime: IMPERIAL EXPANSION / PEAK TERRITORIAL COMMAND
 Subject: Marcus Ulpius Traianus (Trajan)
-Dates: 53–117 CE
+Dates: 53–117 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200

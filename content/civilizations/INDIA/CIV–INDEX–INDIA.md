@@ -7,7 +7,7 @@ Class: CIV–INDEX
 Last Update: December 2025
 
 ────────────────────────────────────────────────────────────
-I. INDEX PURPOSE & GOVERNANCE
+I. INDEX PURPOSE & GOVERNANAD
 ────────────────────────────────────────────────────────────
 This index provides the authoritative registry of all MEM–INDIA files.
 It enforces structural comparability with other civilization indexes
@@ -39,7 +39,7 @@ IV. KEY CIVILIZATIONAL FIGURES
 • MEM–INDIA–NEHRU.md
 
 ────────────────────────────────────────────────────────────
-V. GEOGRAPHY & CIVILIZATIONAL SPACE
+V. GEOGRAPHY & CIVILIZATIONAL SPAAD
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–GEO–KASHMIR.md
 • MEM–INDIA–GEO–TIBET.md

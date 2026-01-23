@@ -129,7 +129,7 @@ Sardinia’s continued retention under fracturing authority confirms this
 broader Roman pattern.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Sardinia exemplifies **managed difficulty** within Roman imperial logic:
 a territory worth retaining for its **geometric value**, even when its

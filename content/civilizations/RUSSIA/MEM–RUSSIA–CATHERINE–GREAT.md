@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.3 �
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
 Subject: Catherine the Great (Екатерина II)
-Dates: 1729–1796 CE
+Dates: 1729–1796 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,450

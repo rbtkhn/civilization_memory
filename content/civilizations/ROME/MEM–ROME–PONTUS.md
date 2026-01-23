@@ -31,7 +31,7 @@ to align cleanly.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. GEOGRAPHIC LOGIC — SEA WITHOUT INTERIOR COHERENCE
+II. GEOGRAPHIC LOGIC — SEA WITHOUT INTERIOR COHERENAD
 ────────────────────────────────────────────────────────────
 Pontus occupies the southern Black Sea littoral, bounded by:
 • The Euxine Sea (Black Sea)

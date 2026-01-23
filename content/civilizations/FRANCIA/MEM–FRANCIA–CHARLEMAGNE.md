@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 Civilization: FRANCIA
 Regime: IMPERIAL / CAROLINGIAN (768–814 AD)
 Subject: Charlemagne (Charles the Great)
-Dates: c. 742–814 CE
+Dates: c. 742–814 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -77,7 +77,7 @@ The *Royal Frankish Annals* record the transformation explicitly:
 > Romans, life and victory!’ After this acclamation, the pontiff placed
 > the diadem upon his head, and the people paid homage according to ancient
 > custom.”
-> — *Annales Regni Francorum*, entry for 800 CE
+> — *Annales Regni Francorum*, entry for 800 AD
 
 Henry Kissinger interprets the coronation as an early Western experiment
 in legitimacy by moral declaration rather than inherited sovereignty,

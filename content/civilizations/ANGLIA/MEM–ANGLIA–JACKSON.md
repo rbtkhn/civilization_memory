@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Andrew Jackson
-Dates: 1767–1845 CE
+Dates: 1767–1845 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

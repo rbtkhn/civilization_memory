@@ -180,7 +180,7 @@ This volatility echoes later in
 MEM–ROME–ALEXANDRIA and MEM–ROME–ANTIOCH.
 
 ────────────────────────────────────────────────────────────
-IX. LOSS AND SYSTEMIC CONSEQUENCE
+IX. LOSS AND SYSTEMIC CONSEQUENAD
 ────────────────────────────────────────────────────────────
 When Egypt is lost in the 7th century:
 • Grain monopoly ends

@@ -159,7 +159,7 @@ Anthony Kaldellis situates this maneuver:
 The outsider exists to indict the center.
 
 ────────────────────────────────────────────────────────────
-VII. STYLE AS EVIDENCE
+VII. STYLE AS EVIDENAD
 ────────────────────────────────────────────────────────────
 Tacitus’ compressed style is itself diagnostic.
 

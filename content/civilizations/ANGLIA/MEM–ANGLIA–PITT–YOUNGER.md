@@ -3,10 +3,10 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
+Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
 Civilization: ANGLIA
 Subject: William Pitt the Younger
-Dates: 1759–1806 CE
+Dates: 1759–1806 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,100
@@ -154,7 +154,7 @@ ANGLIA:
 Cross-Civilizational:
 • MEM–FRANCIA–NAPOLEON
 • MEM–GERMANIA–PRUSSIA–REFORM–ERA
-• MEM–ROME–LATE–REPUBLIC–FINANCE
+• MEM–ROME–LATE–REPUBLIC–FINANAD
 • MEM–ANGLIA–HENRY–V
 
 ────────────────────────────────────────────────────────────

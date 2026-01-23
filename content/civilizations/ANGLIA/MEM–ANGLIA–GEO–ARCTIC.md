@@ -55,7 +55,7 @@ The Arctic privileges states with proximity and endurance,
 not circulation speed.
 
 ────────────────────────────────────────────────────────────
-IV. STRATEGIC REEMERGENCE
+IV. STRATEGIC REEMERGENAD
 ────────────────────────────────────────────────────────────
 Climate change alters relevance.
 
@@ -70,7 +70,7 @@ The Arctic shifts from void to vector.
 Control becomes existential, not commercial.
 
 ────────────────────────────────────────────────────────────
-V. ANGLIAN ROLE THROUGH ALLIANCE
+V. ANGLIAN ROLE THROUGH ALLIANAD
 ────────────────────────────────────────────────────────────
 Anglia approaches indirectly.
 

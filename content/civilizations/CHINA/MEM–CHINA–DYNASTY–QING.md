@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Qing Dynasty (清)
-Dates: 1644–1912 CE
+Dates: 1644–1912 AD
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

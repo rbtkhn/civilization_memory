@@ -137,7 +137,7 @@ Gibbon records the significance:
 Monetary credibility becomes a substitute for territorial control.
 
 ────────────────────────────────────────────────────────────
-VII. THE CRUSADES — STRATEGIC REFRAMING OF WESTERN FORCE
+VII. THE CRUSADES — STRATEGIC REFRAMING OF WESTERN FORAD
 ────────────────────────────────────────────────────────────
 Alexios’ most consequential decision is to **externalize military risk**
 by redirecting Western violence eastward.

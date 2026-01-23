@@ -203,7 +203,7 @@ Why it did not occur:
   external pressure favored rupture over inheritance.
 
 ────────────────────────────────────────────────────────────
-XV. TEMPORAL COMPRESSION NOTICE
+XV. TEMPORAL COMPRESSION NOTIAD
 ────────────────────────────────────────────────────────────
 This file compresses multiple cycles of revolution, reform,
 and stabilization to emphasize legitimacy mechanics over

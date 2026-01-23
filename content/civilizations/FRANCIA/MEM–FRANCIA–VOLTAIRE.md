@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Voltaire (François-Marie Arouet)
-Dates: 1694–1778 CE
+Dates: 1694–1778 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

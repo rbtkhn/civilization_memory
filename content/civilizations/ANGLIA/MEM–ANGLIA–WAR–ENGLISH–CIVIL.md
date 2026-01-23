@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: English Civil War (Procedure vs Personal Rule)
-Dates: 1642–1651 CE
+Dates: 1642–1651 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -212,7 +212,7 @@ Why it failed:
 Anglia chooses repair over reinvention.
 
 ────────────────────────────────────────────────────────────
-XV. TEMPORAL COMPRESSION NOTICE
+XV. TEMPORAL COMPRESSION NOTIAD
 ────────────────────────────────────────────────────────────
 This file emphasizes **legitimacy mechanics** over campaign detail,
 compressing events to foreground civilizational learning.

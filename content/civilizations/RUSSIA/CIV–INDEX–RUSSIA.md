@@ -78,7 +78,7 @@ v1.8 corrections:
 All index entries now match actual MEM files in the directory.
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & INDEX GOVERNANCE
+I. PURPOSE & INDEX GOVERNANAD
 ────────────────────────────────────────────────────────────
 This file is the authoritative register of all MEM–RUSSIA files.
 

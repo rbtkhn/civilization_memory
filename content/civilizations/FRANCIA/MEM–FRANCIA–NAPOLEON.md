@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 Civilization: FRANCIA
 Regime: REVOLUTIONARY / IMPERIAL (1799–1815 AD)
 Subject: Napoleon Bonaparte
-Dates: 1769–1821 CE
+Dates: 1769–1821 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,250

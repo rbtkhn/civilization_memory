@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT
 Version: 2.0
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANCE
+Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Eurasian Steppe (Open Frontier — Mobility Ecology)
 Dates: Antiquity–present (Rus’ interface from c. 9th c. AD)

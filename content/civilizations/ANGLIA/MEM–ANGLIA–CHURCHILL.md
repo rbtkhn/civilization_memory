@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Primary + Secondary Source Hardening)
 Civilization: ANGLIA
 Regime: PARLIAMENTARY / IMPERIAL–DECLINING
 Subject: Winston Leonard Spencer Churchill
-Dates: 1874–1965 CE
+Dates: 1874–1965 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,980

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: NEW FILE · TEMPLATE COMPLIANCE
+Upgrade Type: NEW FILE · TEMPLATE COMPLIANAD
 Civilization: ROME
 Regime: LATE REPUBLIC (EXTRAORDINARY COMMAND NORMALIZATION)
 Subject: Gnaeus Pompeius Magnus (Pompey the Great)
@@ -49,7 +49,7 @@ Pompey does not seize authority.
 He is invited into it.
 
 ────────────────────────────────────────────────────────────
-III. THE COMMAND STATE: AUTHORITY WITHOUT OFFICE
+III. THE COMMAND STATE: AUTHORITY WITHOUT OFFIAD
 ────────────────────────────────────────────────────────────
 Pompey’s defining feature is command divorced from civic integration.
 

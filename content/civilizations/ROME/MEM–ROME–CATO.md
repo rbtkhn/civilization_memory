@@ -83,7 +83,7 @@ Cato sees the threat correctly.
 He simply lacks leverage.
 
 ────────────────────────────────────────────────────────────
-IV. LAW WITHOUT FORCE
+IV. LAW WITHOUT FORAD
 ────────────────────────────────────────────────────────────
 Cato assumes law retains binding power.
 

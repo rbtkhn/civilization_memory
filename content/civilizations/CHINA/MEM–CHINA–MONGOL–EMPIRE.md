@@ -38,7 +38,7 @@ Foundational maxim:
 (If one violates the law, all share the punishment.)
 
 ────────────────────────────────────────────────────────────
-III. MULTI-ETHNIC INTEGRATION & GOVERNANCE
+III. MULTI-ETHNIC INTEGRATION & GOVERNANAD
 ────────────────────────────────────────────────────────────
 The Mongol Empire functioned as a **multi-ethnic integrator**, not a tribal
 monolith.

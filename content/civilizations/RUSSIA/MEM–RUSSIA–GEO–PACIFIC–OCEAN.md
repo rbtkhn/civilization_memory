@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 2.0
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE COMPLIANCE
+Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pacific Ocean (Terminal Expansion & Asymmetric Maritime Frontier)
 Dates: 17th century–present
@@ -168,7 +168,7 @@ XII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XIII. PEDAGOGICAL AFFORDANCE
+XIII. PEDAGOGICAL AFFORDANAD
 ────────────────────────────────────────────────────────────
 This MEM supports exploration of:
 • Terminal frontiers vs hinge spaces

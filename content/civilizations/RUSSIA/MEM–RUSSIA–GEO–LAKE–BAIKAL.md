@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 2.0
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANCE
+Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Lake Baikal (Озеро Байкал)
 Dates: Prehistory–present
@@ -44,7 +44,7 @@ It is an interior basin-anchor.
 Its strategic meaning derives from non-movement.
 
 ────────────────────────────────────────────────────────────
-III. LOCATION WITHIN CIVILIZATIONAL SPACE
+III. LOCATION WITHIN CIVILIZATIONAL SPAAD
 ────────────────────────────────────────────────────────────
 Baikal lies far from historical invasion corridors and maritime
 interfaces.
@@ -59,7 +59,7 @@ Baikal’s value is civilizational, not transactional.
 It exists beyond urgency, beyond reaction.
 
 ────────────────────────────────────────────────────────────
-IV. SYMBOLIC FUNCTION: DEPTH & PERMANENCE
+IV. SYMBOLIC FUNCTION: DEPTH & PERMANENAD
 ────────────────────────────────────────────────────────────
 Baikal acquires symbolic gravity within Russian memory.
 

@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Yuan Dynasty (元)
-Dates: 1271–1368 CE
+Dates: 1271–1368 AD
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

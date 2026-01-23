@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Dynasty: House of Lancaster
-Dates: 1399–1461 CE
+Dates: 1399–1461 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / SYSTEM–ARBITRATION
 Subject: Congress of Vienna (Венский конгресс)
-Dates: 1814–1815 CE
+Dates: 1814–1815 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

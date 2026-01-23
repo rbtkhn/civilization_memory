@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Capetian Dynasty
-Dates: 987–1328 CE
+Dates: 987–1328 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

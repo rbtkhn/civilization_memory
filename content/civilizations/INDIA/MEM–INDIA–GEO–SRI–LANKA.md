@@ -64,7 +64,7 @@ Effects:
 Colonialism converts interface into outpost.
 
 ────────────────────────────────────────────────────────────
-V. POST-INDEPENDENCE DIVERGENCE
+V. POST-INDEPENDENCE DIVERGENAD
 ────────────────────────────────────────────────────────────
 After 1948, Sri Lanka emerges as a separate state.
 

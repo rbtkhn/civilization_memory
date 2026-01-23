@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Regime: CIVILIZATIONAL DEFENSE / LEGITIMACY RECOVERY (1095–1291 AD)
 Subject: The Crusades (Islamic Perspective)
-Dates: 11th–13th centuries CE
+Dates: 11th–13th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -24,7 +24,7 @@ but a test of civilizational coherence.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. INITIAL SHOCK: INVASION OF SACRED SPACE
+II. INITIAL SHOCK: INVASION OF SACRED SPAAD
 ────────────────────────────────────────────────────────────
 The First Crusade succeeds because Islam is divided.
 

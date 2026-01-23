@@ -74,7 +74,7 @@ This is Roman technique
 without Roman burden.
 
 ────────────────────────────────────────────────────────────
-V. STRATEGIC LIMITS & DEPENDENCE
+V. STRATEGIC LIMITS & DEPENDENAD
 ────────────────────────────────────────────────────────────
 Genoa’s weaknesses mirror its strengths.
 
@@ -109,7 +109,7 @@ Both inherit Rome’s sea,
 neither inherits Rome’s universality.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Genoa demonstrates what remains
 when empire dissolves but technique survives.

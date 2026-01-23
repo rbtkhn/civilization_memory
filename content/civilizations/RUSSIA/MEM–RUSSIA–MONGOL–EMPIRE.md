@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 1.1
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
+Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Sovereignty · Tributary Compression
 Subject: Mongol Empire / Golden Horde (Монгольская империя / Золотая Орда)
@@ -81,7 +81,7 @@ Political axiom preserved in memory:
 Legitimacy is detached from lineage and reattached to compliance.
 
 ────────────────────────────────────────────────────────────
-IV. INDIRECT RULE & ADAPTIVE COMPLIANCE
+IV. INDIRECT RULE & ADAPTIVE COMPLIANAD
 ────────────────────────────────────────────────────────────
 Mongol governance relies on **delegated authority**, not assimilation.
 
@@ -157,7 +157,7 @@ The Mongols teach Rus’ how to **survive asymmetry**, not how to rebel
 against it.
 
 ────────────────────────────────────────────────────────────
-VIII. RELIGIOUS MEMORY & SACRAL ENDURANCE
+VIII. RELIGIOUS MEMORY & SACRAL ENDURANAD
 ────────────────────────────────────────────────────────────
 The Orthodox Church frames Mongol rule as:
 • Divine punishment
@@ -174,7 +174,7 @@ Critical RLL–0005 distinction:
 → Sacral endurance outlives political submission.
 
 ────────────────────────────────────────────────────────────
-IX. DECLINE, REVERSAL, & INHERITANCE
+IX. DECLINE, REVERSAL, & INHERITANAD
 ────────────────────────────────────────────────────────────
 The end of Mongol dominance is gradual and non-climactic.
 

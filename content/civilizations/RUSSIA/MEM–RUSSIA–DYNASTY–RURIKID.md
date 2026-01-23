@@ -7,7 +7,7 @@ Upgrade Type: ARC-HARDENED EVIDENTIARY COMPLETION (v1.1 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Dynastic State Formation · Lineage Sovereignty
 Subject: Rurikid Dynasty
-Dates: c. 862–1598 CE
+Dates: c. 862–1598 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,900

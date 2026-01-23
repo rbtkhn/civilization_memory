@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · LIEVEN QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 �
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
-Dates: 1777–1825 CE
+Dates: 1777–1825 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,200
@@ -150,7 +150,7 @@ Strategic coherence, not improvisation.
 Russia prepares not to outmaneuver brilliance, but to outlast it.
 
 ────────────────────────────────────────────────────────────
-V. 1812: INVASION AS LEGITIMACY FURNACE
+V. 1812: INVASION AS LEGITIMACY FURNAAD
 ────────────────────────────────────────────────────────────
 The French invasion transforms the regime’s legitimacy substrate.
 Alexander reframes autocracy as guardianship, not command, as existential

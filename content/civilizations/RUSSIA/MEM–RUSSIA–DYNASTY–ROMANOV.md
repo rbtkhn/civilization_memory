@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: AUTOCRATIC EMPIRE · POST-CRISIS RESTORATION → SYSTEMIC OVERLOAD
 Subject: Romanov Dynasty
-Dates: 1613–1917 CE
+Dates: 1613–1917 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,550

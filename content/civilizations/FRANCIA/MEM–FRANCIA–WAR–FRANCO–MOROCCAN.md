@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Moroccan Conflicts (Colonial Enforcement,
          Peripheral Universalism, and Managed Escalation)
-Dates: 1901–1912 CE
+Dates: 1901–1912 AD
 Class: MEM (War)
 Last Update: January 2026
 Word Count: ~1,950

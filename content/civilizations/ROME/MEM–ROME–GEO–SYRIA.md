@@ -93,7 +93,7 @@ Tacitus emphasizes the province’s burden:
 Geography here amplifies threat faster than Rome can absorb it.
 
 ────────────────────────────────────────────────────────────
-V. ECONOMIC CIRCULATION & IMPERIAL DEPENDENCE
+V. ECONOMIC CIRCULATION & IMPERIAL DEPENDENAD
 ────────────────────────────────────────────────────────────
 Syria functions as an economic artery.
 

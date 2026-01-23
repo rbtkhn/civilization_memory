@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Regime: IMPERIAL / POST-PROPHETIC EXPANSIONARY (c. 661–750 AD)
 Subject: Umayyad Caliphate
-Dates: 7th–8th centuries CE
+Dates: 7th–8th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

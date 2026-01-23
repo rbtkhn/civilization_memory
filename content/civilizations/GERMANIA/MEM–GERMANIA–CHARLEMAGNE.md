@@ -7,7 +7,7 @@ Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
 Regime / Mode: Sacral–Imperial Monarchy
 Subject: Charlemagne (Karl der Große)
-Dates: c. 742–814 CE
+Dates: c. 742–814 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,920
@@ -30,7 +30,7 @@ on justice, necessity, or inevitability.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. AUSTRASIAN BASE & WARRIOR GOVERNANCE
+II. AUSTRASIAN BASE & WARRIOR GOVERNANAD
 ────────────────────────────────────────────────────────────
 Charlemagne’s power emerged from Austrasian military society structured
 around warrior retinues, land-for-service bonds, and personal loyalty

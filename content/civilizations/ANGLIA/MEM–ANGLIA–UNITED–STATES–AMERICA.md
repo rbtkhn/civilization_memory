@@ -84,7 +84,7 @@ Traits:
 Anglia’s restraint is magnified by distance.
 
 ────────────────────────────────────────────────────────────
-VI. GLOBAL ASCENT & SYSTEM INHERITANCE
+VI. GLOBAL ASCENT & SYSTEM INHERITANAD
 ────────────────────────────────────────────────────────────
 In the 20th century, the United States assumes Anglia’s system role.
 

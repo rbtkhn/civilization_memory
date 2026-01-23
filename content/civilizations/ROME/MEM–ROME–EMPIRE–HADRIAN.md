@@ -6,9 +6,9 @@ Version: 1.2
 Upgrade Type: ADD-ONLY · ARC v1.9 COMPLIANCE (ANCIENT & MODERN QUOTATION SATISFIED)
 Supersedes: MEM–ROME–EMPIRE–HADRIAN — v1.1
 Civilization: ROME
-Regime: IMPERIAL CONSOLIDATION / DEFENSIVE GOVERNANCE
+Regime: IMPERIAL CONSOLIDATION / DEFENSIVE GOVERNANAD
 Subject: Publius Aelius Hadrianus (Hadrian)
-Dates: 76–138 CE
+Dates: 76–138 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,900
@@ -79,7 +79,7 @@ Theodor Mommsen frames this shift structurally:
 > — Theodor Mommsen, *The History of Rome*
 
 ────────────────────────────────────────────────────────────
-IV. MOBILITY OF THE EMPEROR & SYSTEM MAINTENANCE
+IV. MOBILITY OF THE EMPEROR & SYSTEM MAINTENANAD
 ────────────────────────────────────────────────────────────
 Hadrian governs through inspection and presence.
 

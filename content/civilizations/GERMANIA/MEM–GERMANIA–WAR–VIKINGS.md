@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Viking Incursions & Northern War Pressure
-Dates: c. 8th–11th centuries CE
+Dates: c. 8th–11th centuries AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–RUSSIA v1.5 COMPLIANCE
+Upgrade Type: FOUNDATIONAL · ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Caucasus Region (Кавказ)
 Dates: Antiquity–present (Russian strategic salience from 18th c. AD)

@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Genghis Khan (Chinggis Khan, scholarly variant; 成吉思汗)
-Dates: c. 1162–1227 CE
+Dates: c. 1162–1227 AD
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
@@ -71,7 +71,7 @@ Battlefield logic:
 Defense failed before adaptation could occur.
 
 ────────────────────────────────────────────────────────────
-V. GOVERNANCE BY ABSENCE
+V. GOVERNANCE BY ABSENAD
 ────────────────────────────────────────────────────────────
 Genghis Khan deliberately avoided sedentary governance.
 

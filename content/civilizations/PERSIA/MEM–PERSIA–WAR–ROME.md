@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
-Dates: c. 53 BCAD–628 CE
+Dates: c. 53 BCAD–628 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -86,7 +86,7 @@ Both bleed without extinction.
 The war becomes a **systemic drain**, not a conquest path.
 
 ────────────────────────────────────────────────────────────
-VI. WAR AS LEGITIMACY MAINTENANCE
+VI. WAR AS LEGITIMACY MAINTENANAD
 ────────────────────────────────────────────────────────────
 Conflict with Rome becomes internal validation for Persia.
 

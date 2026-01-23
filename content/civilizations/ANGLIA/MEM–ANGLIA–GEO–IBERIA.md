@@ -22,7 +22,7 @@ but as **precedent and pressure**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. GEOGRAPHIC SIGNIFICANCE
+II. GEOGRAPHIC SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Iberia anchors Atlantic access.
 

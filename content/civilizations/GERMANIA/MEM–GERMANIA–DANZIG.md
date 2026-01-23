@@ -40,7 +40,7 @@ Identity formation:
 The city’s legitimacy rests on trade, not sovereignty.
 
 ────────────────────────────────────────────────────────────
-III. POLISH–GERMAN CONTESTED SPACE
+III. POLISH–GERMAN CONTESTED SPAAD
 ────────────────────────────────────────────────────────────
 Over centuries, Danzig shifts between spheres.
 

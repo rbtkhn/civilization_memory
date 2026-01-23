@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Subject: War of the Sixth Coalition (Systemic Collapse,
          Coalition Convergence, and Legitimacy Exhaustion)
-Dates: 1813–1814 CE
+Dates: 1813–1814 AD
 Class: MEM (War)
 Last Update: January 2026
 Word Count: ~2,200
@@ -40,7 +40,7 @@ Coalition resistance synchronizes.
 Fear dissolves.
 
 ────────────────────────────────────────────────────────────
-III. COALITION CONVERGENCE
+III. COALITION CONVERGENAD
 ────────────────────────────────────────────────────────────
 Unlike earlier coalitions:
 • Allies coordinate strategically

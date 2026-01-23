@@ -57,7 +57,7 @@ Geography makes Armenia valuable **precisely because it is hard to
 govern**.
 
 ────────────────────────────────────────────────────────────
-III. HELLENISTIC & DYNASTIC INDEPENDENCE
+III. HELLENISTIC & DYNASTIC INDEPENDENAD
 ────────────────────────────────────────────────────────────
 Armenia emerges after Alexander as a semi-Hellenized monarchy with
 strong indigenous traditions.

@@ -20,7 +20,7 @@ They are a **threshold to influence**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ROMAN & POST-ROMAN INHERITANCE
+II. ROMAN & POST-ROMAN INHERITANAD
 ────────────────────────────────────────────────────────────
 Francia inherits alpine access through Roman Gaul.
 

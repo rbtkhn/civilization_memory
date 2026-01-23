@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ISLAM
 Regime: IMPERIAL / CIVILIZATIONAL CONSOLIDATION (c. 750–1258 AD)
 Subject: Abbasid Caliphate
-Dates: 8th–13th centuries CE
+Dates: 8th–13th centuries AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

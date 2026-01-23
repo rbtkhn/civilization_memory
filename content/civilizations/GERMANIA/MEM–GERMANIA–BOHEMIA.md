@@ -50,7 +50,7 @@ Aeneas Silvius Piccolomini observes:
 Religious divergence converts internal diversity into civil war.
 
 ────────────────────────────────────────────────────────────
-IV. HABSBURG ADMINISTRATION & CULTURAL RESISTANCE
+IV. HABSBURG ADMINISTRATION & CULTURAL RESISTANAD
 ────────────────────────────────────────────────────────────
 Habsburg rule restores order but not harmony.
 

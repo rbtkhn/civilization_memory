@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
-Upgrade Type: ADD-ONLY · SECONDARY-SOURCE COMPLIANCE
+Upgrade Type: ADD-ONLY · SECONDARY-SOURCE COMPLIANAD
 Civilization: ROME
 Regime: REPUBLIC → PRINCIPATE → LATE IMPERIAL
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)

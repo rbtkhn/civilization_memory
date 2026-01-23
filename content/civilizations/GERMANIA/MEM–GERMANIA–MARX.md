@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Karl Marx
-Dates: 1818–1883 CE
+Dates: 1818–1883 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

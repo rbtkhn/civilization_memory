@@ -7,7 +7,7 @@ Upgrade Type: ARC COMPLIANCE FIX (CATEGORY B)
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY
 Subject: Anna Komnene
-Dates: c. 1083–1153 CE
+Dates: c. 1083–1153 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

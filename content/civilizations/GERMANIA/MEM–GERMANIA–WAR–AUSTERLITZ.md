@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Battle of Austerlitz
-Dates: 1805 CE
+Dates: 1805 AD
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -35,7 +35,7 @@ Authority is divided before battle begins.
 Unity exists on paper, not in execution.
 
 ────────────────────────────────────────────────────────────
-III. FAILURE OF COALITION COHERENCE
+III. FAILURE OF COALITION COHERENAD
 ────────────────────────────────────────────────────────────
 Austerlitz exposes coordination limits.
 
@@ -80,7 +80,7 @@ Austerlitz delegitimizes aristocratic command.
 Shock becomes instructional.
 
 ────────────────────────────────────────────────────────────
-VI. LONG-TERM CIVILIZATIONAL CONSEQUENCE
+VI. LONG-TERM CIVILIZATIONAL CONSEQUENAD
 ────────────────────────────────────────────────────────────
 Austerlitz plants seeds of reform.
 

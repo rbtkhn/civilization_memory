@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE (Template v1.6 Compliance · Source Hardening · Structural Synthesis)
 Civilization: ANGLIA
 Subject: Hundred Years’ War (Continental Overreach & Strategic Exit)
-Dates: 1337–1453 CE
+Dates: 1337–1453 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350
@@ -94,7 +94,7 @@ battles without possessing the institutional depth required to rule
 France.
 
 ────────────────────────────────────────────────────────────
-V. WAR AS MANAGED PERSISTENCE
+V. WAR AS MANAGED PERSISTENAD
 ────────────────────────────────────────────────────────────
 As decisive victory recedes, Anglia adapts.
 

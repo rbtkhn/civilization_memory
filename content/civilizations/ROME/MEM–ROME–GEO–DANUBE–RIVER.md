@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → LATE IMPERIAL FRONTIER
 Subject: Danube River System (Limes, Corridor, and Failure Line)
-Dates: 1st century BCAD–5th century CE
+Dates: 1st century BCAD–5th century AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

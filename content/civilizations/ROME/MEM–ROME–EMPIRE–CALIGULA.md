@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: PRINCIPATE (PERSONAL DEGRADATION / LEGITIMACY SHOCK)
 Subject: Gaius Julius Caesar Augustus Germanicus (Caligula)
-Dates: 12–41 CE
+Dates: 12–41 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,200
@@ -24,7 +24,7 @@ Caligula represents **power without discipline**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. CHARISMA WITHOUT GOVERNANCE
+II. CHARISMA WITHOUT GOVERNANAD
 ────────────────────────────────────────────────────────────
 Caligula inherits popular goodwill.
 

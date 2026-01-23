@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Boxer Rebellion (Anti-Foreign Violence, Coalition Intervention, and Legitimacy Shock)
-Dates: 1899–1901 CE
+Dates: 1899–1901 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,300
@@ -51,7 +51,7 @@ Eyewitness testimony records:
 Religious presence becomes liability.
 
 ────────────────────────────────────────────────────────────
-IV. FRANCIA’S DECISION FOR FORCE
+IV. FRANCIA’S DECISION FOR FORAD
 ────────────────────────────────────────────────────────────
 Francia abandons restraint.
 

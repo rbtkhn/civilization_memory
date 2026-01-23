@@ -73,7 +73,7 @@ This is Roman order
 without Roman universality.
 
 ────────────────────────────────────────────────────────────
-V. CONTRAST WITH FLORENCE & VENICE
+V. CONTRAST WITH FLORENCE & VENIAD
 ────────────────────────────────────────────────────────────
 Milan differs sharply from Italy’s other poles.
 
@@ -112,7 +112,7 @@ not its culture.
 Rome’s logic is portable.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Milan demonstrates the durability of **Roman administration**.
 

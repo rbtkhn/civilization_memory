@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
 Civilization: GERMANIA
 Regime / Mode: IMPERIAL PARTICIPATION · FRACTURED AUTHORITY (1095–1291 AD)
 Subject: The Crusades (German Perspective)
-Dates: 11th–13th centuries CE
+Dates: 11th–13th centuries AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200

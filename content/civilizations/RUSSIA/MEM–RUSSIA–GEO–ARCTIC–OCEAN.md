@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 2.0
-Upgrade Type: ADDITIVE · STRUCTURAL + ARC COMPLIANCE
+Upgrade Type: ADDITIVE · STRUCTURAL + ARC COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Arctic Ocean (Северный Ледовитый океан)
 Dates: c. AD 1100–present

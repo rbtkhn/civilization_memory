@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT
 Version: 2.0
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANCE
+Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Tundra (Arctic Margin — Extreme Constraint Ecology)
 Dates: Antiquity–present
@@ -64,7 +64,7 @@ Movement may be possible, but **sustainment collapses quickly**.
 Time becomes the dominant adversary.
 
 ────────────────────────────────────────────────────────────
-IV. SETTLEMENT & HUMAN PRESENCE
+IV. SETTLEMENT & HUMAN PRESENAD
 ────────────────────────────────────────────────────────────
 Permanent settlement is rare and fragile.
 

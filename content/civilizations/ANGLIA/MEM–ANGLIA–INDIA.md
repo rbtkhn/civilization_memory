@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: India (Imperial Backbone, Administrative Laboratory, and Exit Test)
-Dates: 1600 AD–1947 CE
+Dates: 1600 AD–1947 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
@@ -38,7 +38,7 @@ Sovereignty is initially avoided.
 Control emerges through contracts, not crowns.
 
 ────────────────────────────────────────────────────────────
-III. COMPANY RULE AS PROTOTYPE GOVERNANCE
+III. COMPANY RULE AS PROTOTYPE GOVERNANAD
 ────────────────────────────────────────────────────────────
 The East India Company functions as a hybrid state.
 

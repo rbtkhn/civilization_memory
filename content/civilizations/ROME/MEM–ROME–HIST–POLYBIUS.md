@@ -78,7 +78,7 @@ Power flows from **constraint**, not domination.
 No element can rule alone without provoking correction.
 
 ────────────────────────────────────────────────────────────
-IV. DISCIPLINE, RELIGION, & FEAR AS GOVERNANCE
+IV. DISCIPLINE, RELIGION, & FEAR AS GOVERNANAD
 ────────────────────────────────────────────────────────────
 Polybius identifies religion as a civic technology.
 

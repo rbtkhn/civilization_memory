@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–ITALY–MACHIAVELLI — v1.0
 Civilization: ROME (ITALIAN POLITICAL AFTERLIFE)
 Regime: REPUBLICAN MEMORY → POST-IMPERIAL REALISM
 Subject: Niccolò Machiavelli (Florence)
-Dates: 1469–1527 CE
+Dates: 1469–1527 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600
@@ -131,7 +131,7 @@ too late to save itself,
 early enough to instruct its heirs.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANCE
+VII. CIVILIZATIONAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Machiavelli marks the moment Roman political knowledge becomes explicit,
 portable, and morally disenchanted.

@@ -890,7 +890,7 @@ All sources MUST be:
 • Compliant with ARC admissibility rules
 
 ────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANCE
+XIII. VERSION CONTROL & GOVERNANAD
 ────────────────────────────────────────────────────────────
 • Version pinning to specific template/ARC versions
 • Clear upgrade trails

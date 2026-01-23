@@ -39,7 +39,7 @@ It is additive.
 Anglia arrives with a system already formed.
 
 ────────────────────────────────────────────────────────────
-III. NODAL CONTROL OVER OCEANIC DOMINANCE
+III. NODAL CONTROL OVER OCEANIC DOMINANAD
 ────────────────────────────────────────────────────────────
 Unlike the Atlantic, Anglia does not seek total circulation control.
 

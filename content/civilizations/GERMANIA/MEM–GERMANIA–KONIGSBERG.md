@@ -56,7 +56,7 @@ It anchors Prussian identity east of the Vistula.
 Distance reinforces discipline.
 
 ────────────────────────────────────────────────────────────
-IV. INTELLECTUAL SIGNIFICANCE
+IV. INTELLECTUAL SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 Königsberg produces symbolic depth.
 
@@ -105,7 +105,7 @@ This is not loss.
 It is erasure.
 
 ────────────────────────────────────────────────────────────
-VII. POST-1945 SILENCE & ACCEPTANCE
+VII. POST-1945 SILENCE & ACCEPTANAD
 ────────────────────────────────────────────────────────────
 Unlike other border losses, Königsberg fades quietly.
 

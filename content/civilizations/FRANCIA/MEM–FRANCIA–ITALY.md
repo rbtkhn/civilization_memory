@@ -41,7 +41,7 @@ Italy supplies the legal metaphysics of universality.
 Francia inherits claim—without origin control.
 
 ────────────────────────────────────────────────────────────
-III. MEDIEVAL ECCLESIASTICAL DEPENDENCE
+III. MEDIEVAL ECCLESIASTICAL DEPENDENAD
 ────────────────────────────────────────────────────────────
 Italy mediates sacred legitimacy.
 

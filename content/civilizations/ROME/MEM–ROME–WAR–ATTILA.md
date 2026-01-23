@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.1
-Upgrade Type: ADD-ONLY · ACADEMIC REFERENCE & PRIMARY SOURCE COMPLIANCE
+Upgrade Type: ADD-ONLY · ACADEMIC REFERENCE & PRIMARY SOURCE COMPLIANAD
 Civilization: ROME
 Regime: LATE IMPERIAL DEFENSIVE SYSTEM / FRONTIER DENIAL
 Subject: Attila the Hun (Roman System Stressor)
@@ -101,7 +101,7 @@ Force here is **non-transmissible**.
 Victory does not reproduce itself.
 
 ────────────────────────────────────────────────────────────
-V. ROME’S DEFENSIVE INTELLIGENCE
+V. ROME’S DEFENSIVE INTELLIGENAD
 ────────────────────────────────────────────────────────────
 Rome adapts to Attila not by annihilation, but by **containment**.
 

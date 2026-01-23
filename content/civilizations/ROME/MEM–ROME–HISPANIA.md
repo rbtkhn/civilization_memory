@@ -27,7 +27,7 @@ It is **Rome successfully reproduced**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ENTRY THROUGH WAR: FROM CARTHAGINIAN THEATER TO ROMAN PROVINCE
+II. ENTRY THROUGH WAR: FROM CARTHAGINIAN THEATER TO ROMAN PROVINAD
 ────────────────────────────────────────────────────────────
 Rome enters Hispania through the Punic Wars.
 

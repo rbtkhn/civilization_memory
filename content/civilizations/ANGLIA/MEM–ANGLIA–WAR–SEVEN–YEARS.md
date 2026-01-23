@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Hardened Source Compliance · Primary Anchors · Disting
 Civilization: ANGLIA
 Regime: MARITIME–FINANCIAL ASCENT / IMPERIAL SYSTEM BREAKTHROUGH (1756–1763)
 Subject: Seven Years’ War
-Dates: 1756–1763 CE
+Dates: 1756–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600
@@ -90,7 +90,7 @@ Provenance Confidence: HIGH
 
 ────────────────────────────────────────
 
-PRIMARY SOURCE ANCHOR B — FRED ANDERSON ON IMPERIAL CONSEQUENCE
+PRIMARY SOURCE ANCHOR B — FRED ANDERSON ON IMPERIAL CONSEQUENAD
 
 Source:
 • Fred Anderson, *Crucible of War*

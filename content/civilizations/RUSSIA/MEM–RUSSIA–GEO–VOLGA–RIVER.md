@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.1
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANCE
+Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Volga River System (Река Волга)
 Dates: c. 900–1400 AD (primary civilizational arc)

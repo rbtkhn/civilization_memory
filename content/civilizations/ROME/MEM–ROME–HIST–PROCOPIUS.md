@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANCE
+Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANAD
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION (JUSTINIANIC ERA)
 Subject: Procopius (Imperial Reality, War, and Administrative Truth)

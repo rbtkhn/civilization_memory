@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 �
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (Catherine II → Paul I)
 Subject: Alexander Suvorov (Александр Суворов)
-Dates: 1730–1800 CE
+Dates: 1730–1800 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,050
@@ -125,7 +125,7 @@ Discipline is strict, but not impersonal.
 Authority is enforced through example as much as punishment.
 
 ────────────────────────────────────────────────────────────
-IV. OPERATIONAL RECORD & BATTLEFIELD PERFORMANCE
+IV. OPERATIONAL RECORD & BATTLEFIELD PERFORMANAD
 ────────────────────────────────────────────────────────────
 Suvorov’s career is defined by operational success.
 

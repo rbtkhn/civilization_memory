@@ -4,10 +4,10 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 2.0
 Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANCE
+Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Ural Mountains (Уральские горы)
-Dates: c. 500 BC–present CE
+Dates: c. 500 BC–present AD
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
@@ -90,7 +90,7 @@ Industry embeds geography into endurance.
 The Urals absorb shocks.
 
 ────────────────────────────────────────────────────────────
-V. MILITARY–STRATEGIC SIGNIFICANCE
+V. MILITARY–STRATEGIC SIGNIFICANAD
 ────────────────────────────────────────────────────────────
 The Urals enable strategic elasticity.
 
