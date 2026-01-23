@@ -1,8 +1,28 @@
-CIV–ARC–[CIVILIZATION] — v1.0
+CIV–ARC–[CIVILIZATION] — v2.0
 Civilizational Memory Codex · Academic Reference Canon
+Enhanced Scholarly Standards · Synced with MEM–TEMPLATE v2.6
 Status: CANONICAL · STAND-ALONE · MIRRORED
 Scope: CIV–CORE–[CIVILIZATION] and CIV–SCHOLAR–[CIVILIZATION] (IDENTICAL TEXT)
-Last Updated: [Month Year]
+Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0) — ENHANCED SCHOLARLY STANDARDS
+────────────────────────────────────────────────────────────
+This version synchronizes ARC standards with CIV–MEM–TEMPLATE v2.6 enhanced scholarly rigor.
+
+NEW ELEMENTS:
+• Reinforced 25-word minimum quotation standard across all categories
+• Enhanced fair-use compliance guidance for modern sources
+• Strengthened evidentiary requirements for scholarly admissibility
+• Improved discovery framework for comprehensive source coverage
+
+PRESERVED ELEMENTS:
+• Four-category temporal structure
+• Quotation hierarchy and interpretive precedence
+• Discovery protocols and expansion rules
+• Mirroring requirements for CORE and SCHOLAR files
+
+This upgrade ensures ARC governance supports MEM–TEMPLATE v2.6's enhanced evidentiary standards.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -169,10 +189,12 @@ Approved Modern Scholars ([CIVILIZATION]):
 Rules (MANDATORY):
 • At least TWO distinct modern scholars REQUIRED per MEM file
 • At least ONE verbatim quotation REQUIRED per modern scholar
-• Quotations must comply with fair-use norms
+• Quotations must comply with fair-use norms (educational use, transformative purpose, limited scope)
+• Minimum quotation length: 25 words to ensure meaningful scholarly engagement
 • Short quotations preferred, but length is governed by fair use, not an artificial word cap
 • Paraphrase may supplement but may NOT replace verbatim quotation
 • Modern scholarship may not serve as sole support for core claims
+• All modern quotations must include full bibliographic attribution
 
 ────────────────────────────────────────────────────────────
 VII. QUOTATION HIERARCHY & INTERPRETIVE WEIGHT
@@ -243,12 +265,12 @@ Any divergence invalidates compliance.
 ────────────────────────────────────────────────────────────
 XI. CANON STATE
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–[CIVILIZATION] v1.0
+Version: CIV–ARC–[CIVILIZATION] v2.0
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: [None for initial version]
-Upgrade Type: [INITIAL VERSION / ADDITIVE ONLY]
+Supersedes: CIV–ARC–[CIVILIZATION] v1.0
+Upgrade Type: ENHANCED SCHOLARLY STANDARDS · SYNCED WITH MEM–TEMPLATE v2.6
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] — v1.0
+END OF FILE — CIV–ARC–[CIVILIZATION] — v2.0
 ────────────────────────────────────────────────────────────
