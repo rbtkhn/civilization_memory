@@ -1608,6 +1608,17 @@ export function buildKnowledgeGraph(civilization?: string): KnowledgeGraph;
 
 ---
 
+## Related Architecture Documents
+
+| Document | Purpose | Scope |
+|----------|---------|-------|
+| `SCHOLAR_MODE_ARCHITECTURE.md` | Mode definitions and contracts | LEARN/WRITE/IMAGINE separation |
+| `LAYER–INTERACTION–PROTOCOL.md` | Knowledge pipeline governance | MEM → SCHOLAR → CORE flow |
+| `LAYER–INTERACTION–IMPLEMENTATION.md` | Technical implementation spec | Database, services, APIs |
+| `COMMUNICATION–REGISTER–PROTOCOL.md` | Communication style governance | Voice Profile + Mode Register |
+
+---
+
 ## Notes
 
 - All writes must be explicit, additive, and confirmed

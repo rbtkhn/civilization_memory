@@ -333,6 +333,7 @@ XIII. MEM BIBLIOGRAPHY (MANDATORY)
 • Leo Tolstoy, *War and Peace* (1869)
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Comprehensive modern biography providing detailed analysis of Kutuzov's military career, strategic thinking, and relationship with Tsar Alexander I
 • Alexander Mikaberidze, *The Battle of Borodino: Napoleon Against Kutuzov* (Pen & Sword, 2007) - Detailed tactical analysis of the battle from Russian command perspective
+• Tacitus, *Annals* - Contemporary Roman analysis of imperial governance and political dynamics
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)
