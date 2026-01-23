@@ -385,12 +385,22 @@ Forbidden:
 • had to
 
 ────────────────────────────────────────────────────────────
-XVIII. VERSIONING & LOCK
+XVIII. STORAGE & MIRRORING RULE
+────────────────────────────────────────────────────────────
+This file MUST be mirrored verbatim into:
+– CIV–CORE–[CIV] (all civilizations)
+– CIV–SCHOLAR–[CIV] (all civilizations)
+– CIV–INDEX–[CIV] (when applicable)
+
+Any divergence invalidates MEM compliance for that civilization.
+
+────────────────────────────────────────────────────────────
+XIX. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • Deletions forbidden
 • Canonical lock absolute
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.3
+END OF FILE — CIV–MEM–TEMPLATE v2.5
 ────────────────────────────────────────────────────────────
