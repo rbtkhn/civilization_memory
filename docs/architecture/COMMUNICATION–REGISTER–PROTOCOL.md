@@ -167,6 +167,118 @@ another. And here we see something that may generalize—legitimacy
 distance increases when sovereign and executor occupy asymmetric
 temporal frames...
 
+IV.F OGE IN LEARN MODE — DIRECTING DISCOVERY
+────────────────────────────────────────────────────────────
+LEARN mode uses OGE to direct the discovery process.
+
+Unlike IMAGINE mode (where OGE navigates existing knowledge),
+LEARN mode OGE lets the user guide what gets investigated,
+analyzed, and formalized. The user acts as research director,
+steering the scholarly investigation.
+
+LEARN OGE PURPOSE:
+• IMAGINE OGE: "Where would you like me to go in this presentation?"
+• LEARN OGE: "What would you like me to investigate next?"
+
+IV.F.1 LEARN OGE CATEGORIES
+────────────────────────────────────────────────────────────
+
+1. INGESTION OPTIONS — What sources to bring in
+   • Ingest specific MEM file
+   • Ingest MEMs by topic/theme/civilization
+   • Comparative ingestion (multiple MEMs together)
+   • Ingest external source (new material)
+
+2. EXPLORATION OPTIONS — What to investigate
+   • Explore this pattern deeper
+   • Follow this tension
+   • Investigate this contradiction
+   • Trace this theme across MEMs
+   • Examine this structural constraint
+   • Look at related civilizations
+
+3. ANALYSIS OPTIONS — How to analyze
+   • Compare these patterns
+   • Test this hypothesis against evidence
+   • Look for counter-evidence
+   • Examine failure modes
+   • Apply failure-first reasoning
+   • Check for temporal patterns
+
+4. SYNTHESIS OPTIONS — What to formalize
+   • Propose RLL candidate
+   • Record pattern (with confidence level)
+   • Flag contradiction (SCL)
+   • Note negative capability zone
+   • Update existing pattern
+   • Revise confidence assessment
+
+5. TRANSITION OPTIONS — Mode changes
+   • Enter WRITE mode (capture findings in MEM)
+   • Enter IMAGINE mode (present what we've learned)
+   • Pause/bookmark this investigation
+   • Review current SCHOLAR state
+
+IV.F.2 LEARN OGE INTERFACE LOOP
+────────────────────────────────────────────────────────────
+
+┌─────────────────────────────────────────────────────────────┐
+│  SCHOLAR explores evidence, discovers pattern               │
+│            ↓                                                │
+│  OGE offers investigation options                           │
+│            ↓                                                │
+│  User selects direction (research director role)            │
+│            ↓                                                │
+│  SCHOLAR pursues selected investigation                     │
+│            ↓                                                │
+│  SCHOLAR state may update (patterns, tensions, RLLs)        │
+│            ↓                                                │
+│  (loop continues)                                           │
+└─────────────────────────────────────────────────────────────┘
+
+IV.F.3 LEARN OGE EXAMPLE (CANONICAL)
+────────────────────────────────────────────────────────────
+After exploring Kutuzov material:
+
+We've identified a pattern around legitimacy distance when
+sovereign and executor occupy different cost structures.
+This appears in the 1812 correspondence repeatedly—Alexander
+measuring in coalition currency, Kutuzov measuring in army
+preservation.
+
+The pattern is provisional. We have one case study. The
+evidence is strong within this case, but generalizability
+is untested.
+
+What would you like me to investigate next?
+
+[OGE OPTIONS]
+A. Ingest MEM–RUSSIA–ALEXANDER-I to examine the sovereign's perspective
+B. Look for similar patterns in other civil-military tensions (Russia)
+C. Compare with Napoleonic command structure for contrast
+D. Search for counter-examples where sovereign-executor alignment worked
+E. Propose this as an RLL candidate (legitimacy distance under cost asymmetry)
+F. Record current pattern with confidence assessment
+G. Flag the evidence gaps explicitly
+H. Switch to WRITE mode to draft findings into a MEM
+I. Switch to IMAGINE mode to walk through what we've found
+
+IV.F.4 LEARN VS IMAGINE OGE COMPARISON
+────────────────────────────────────────────────────────────
+
+┌─────────────────────────────────────────────────────────────┐
+│  ASPECT           │  LEARN OGE          │  IMAGINE OGE      │
+├─────────────────────────────────────────────────────────────┤
+│  User role        │  Research director  │  Audience member  │
+│  Purpose          │  Guide investigation│  Navigate content │
+│  What changes     │  SCHOLAR state      │  User understanding│
+│  Option types     │  Ingest, Explore,   │  Paths through    │
+│                   │  Analyze, Synthesize│  existing knowledge│
+│  Epistemic effect │  New patterns may   │  No new patterns  │
+│                   │  form               │  formed           │
+│  Mode character   │  Discovery          │  Presentation     │
+└─────────────────────────────────────────────────────────────┘
+
 ────────────────────────────────────────────────────────────
 V. WRITE MODE — CANONICAL PRODUCTION
 ────────────────────────────────────────────────────────────
@@ -236,6 +348,59 @@ Clausewitz, writing after the campaign, noted this asymmetry:
 enemy's army... The Emperor was thinking of his political position"
 (On War, Book VIII, Ch. 6B). This divergence was structural, not
 characterological.
+
+V.F OGE IN WRITE MODE — WORKFLOW OPTIONS
+────────────────────────────────────────────────────────────
+WRITE mode uses OGE differently than LEARN or IMAGINE.
+
+WRITE mode is deterministic production. The output is a canonical
+artifact (MEM file, report). OGE in WRITE mode offers workflow
+options, not content navigation.
+
+WRITE OGE PURPOSE:
+• Not "where to go next" (IMAGINE)
+• Not "what to investigate" (LEARN)
+• Rather: "what workflow step next" or "what to produce"
+
+WRITE OGE CATEGORIES:
+
+1. PRODUCTION OPTIONS — What to create
+   • Draft new MEM file
+   • Revise existing MEM file
+   • Produce external report
+   • Generate summary artifact
+
+2. SOURCE OPTIONS — What to integrate
+   • Integrate specific quotation
+   • Add source from bibliography
+   • Cross-reference related MEM
+
+3. WORKFLOW OPTIONS — Process steps
+   • Review draft before commit
+   • Check EQS compliance
+   • Validate template structure
+   • Show diff before save
+
+4. COMPLETION OPTIONS — Finishing
+   • Commit to repository
+   • Queue for LEARN ingestion (PWQR)
+   • Exit WRITE mode
+   • Return to LEARN mode
+
+WRITE OGE EXAMPLE:
+────────────────────────────────────────────────────────────
+Draft complete. MEM–RUSSIA–KUTUZOV v2.1 is ready.
+
+[OGE OPTIONS]
+A. Review full draft before commit
+B. Check EQS compliance (quotation ratio)
+C. Validate template structure
+D. Show diff against previous version
+E. Commit to repository
+F. Return to LEARN mode without committing
+
+WRITE OGE is less prominent than LEARN or IMAGINE OGE because
+WRITE mode is production-focused, not exploration-focused.
 
 ────────────────────────────────────────────────────────────
 VI. IMAGINE MODE — DYNAMIC PRESENTATION
@@ -421,6 +586,30 @@ VII. COMPARATIVE SUMMARY
 │  Rhetoric         │  Discovery     │  Declarative │ Present-│
 │                   │                │              │ ational │
 └─────────────────────────────────────────────────────────────┘
+
+VII.A OGE ACROSS MODES
+────────────────────────────────────────────────────────────
+OGE (Option Generation Engine) operates in all three modes but
+with different purposes and prominence.
+
+┌─────────────────────────────────────────────────────────────┐
+│  MODE     │  OGE PURPOSE           │  USER ROLE    │PROMINENCE│
+├─────────────────────────────────────────────────────────────┤
+│  LEARN    │  Direct investigation  │  Research     │ High    │
+│           │  "What to investigate" │  director     │         │
+├─────────────────────────────────────────────────────────────┤
+│  WRITE    │  Workflow navigation   │  Editor/      │ Lower   │
+│           │  "What step next"      │  Author       │         │
+├─────────────────────────────────────────────────────────────┤
+│  IMAGINE  │  Content navigation    │  Audience     │ Highest │
+│           │  "Where to go next"    │  member       │         │
+└─────────────────────────────────────────────────────────────┘
+
+OGE OPTION TYPES BY MODE:
+
+LEARN:  Ingest | Explore | Analyze | Synthesize | Transition
+WRITE:  Production | Source | Workflow | Completion
+IMAGINE: Navigation paths through existing SCHOLAR knowledge
 
 ────────────────────────────────────────────────────────────
 VIII. LEARN VS IMAGINE: THE KEY DISTINCTION
