@@ -1,7 +1,6 @@
 MEM–FRANCIA–GEO–ATLANTIC–OCEAN — v1.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.1
 Upgrade Type: COMPLIANCE REISSUE (CIV–MEM–TEMPLATE v1.0)

@@ -1,7 +1,6 @@
 MEM–ANGLIA–MAGNA–CARTA — v1.4
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.4
 Upgrade Type: ADDITIVE (Hardened Source Compliance · Primary Anchors · Distinguished Scholar Rule — ANGLIA)

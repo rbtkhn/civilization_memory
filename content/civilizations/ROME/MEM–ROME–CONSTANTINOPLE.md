@@ -1,7 +1,6 @@
 MEM–ROME–CONSTANTINOPLE — v1.2
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · LOCKED · FINAL
 Version: 1.2
 Upgrade Type: ARC COMPLIANCE · GEOMETRIC ANCHOR ALIGNMENT · SCHOLARSHIP REFINEMENT

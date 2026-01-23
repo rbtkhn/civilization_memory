@@ -1,7 +1,6 @@
 MEM–RUSSIA–IVAN–III — v2.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
 Upgrade Type: TEMPLATE v2.0 COMPLIANCE + RLL HARD-BINDING + LEGITIMACY SEQUENCING FORMALIZATION

@@ -1,7 +1,6 @@
 MEM–ROME–HIST–PLUTARCH — v1.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL (ROME–HIST)
 Version: 1.1
 Upgrade Type: FULL CANONICAL COMPLIANCE · ACADEMIC SOURCE INTEGRATION

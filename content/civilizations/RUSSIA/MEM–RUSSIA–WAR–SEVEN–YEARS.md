@@ -1,15 +1,16 @@
 MEM–RUSSIA–WAR–SEVEN–YEARS — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Civilization: RUSSIA (Русская цивилизация)
-Subject: Seven Years’ War
-Dates: 1756–1763 AD
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000
+Civilization: RUSSIA (Русская цивилизация)
+Subject: Seven Years' War
+Dates: 1756–1763 AD
+Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
+Compatibility: CMC v2.0+
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────

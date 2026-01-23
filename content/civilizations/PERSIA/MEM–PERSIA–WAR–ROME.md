@@ -1,7 +1,6 @@
 MEM–PERSIA–WAR–ROME — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)

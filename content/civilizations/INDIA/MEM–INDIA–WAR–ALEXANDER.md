@@ -1,7 +1,6 @@
 MEM–INDIA–WAR–ALEXANDER — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Alexander’s Invasion of the Subcontinent
 Dates: 327–325 BC

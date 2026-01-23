@@ -1,7 +1,6 @@
 MEM–RUSSIA–GEO–NEVA–RIVER — v2.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: COMPLIANT
 Version: 2.1
 Supersedes: v2.0

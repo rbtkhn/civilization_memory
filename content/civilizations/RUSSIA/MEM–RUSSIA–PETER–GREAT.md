@@ -1,7 +1,6 @@
 MEM–RUSSIA–PETER–GREAT — v2.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 2.2
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v2.1 → v2.2)

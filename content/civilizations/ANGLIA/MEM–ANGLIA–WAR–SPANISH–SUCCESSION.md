@@ -1,7 +1,6 @@
 MEM–ANGLIA–WAR–SPANISH–SUCCESSION — v1.4
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
 Upgrade Type: HARDENED SOURCE INTEGRATION & COALITION ANALYSIS

@@ -1,7 +1,6 @@
 MEM–RUSSIA–VARANGIANS — v2.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: COMPLIANT · CANONICAL
 Version: 2.0
 Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · ARC QTT CLEARANCE

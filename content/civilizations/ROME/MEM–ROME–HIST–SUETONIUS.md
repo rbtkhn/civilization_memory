@@ -1,7 +1,6 @@
 MEM–ROME–HIST–SUETONIUS — v1.7
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.7
 Upgrade Type: ADD-ONLY · ACADEMIC QUOTATION RULE CORRECTION (≥25 WORDS)

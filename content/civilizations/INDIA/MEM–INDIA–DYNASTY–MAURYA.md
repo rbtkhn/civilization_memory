@@ -1,7 +1,6 @@
 MEM–INDIA–DYNASTY–MAURYA — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Maurya Dynasty
 Dates: c. 322–185 BCAD

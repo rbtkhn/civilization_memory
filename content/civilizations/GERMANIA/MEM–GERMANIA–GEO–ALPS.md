@@ -1,7 +1,6 @@
 MEM–GERMANIA–GEO–ALPS — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Alpine System (Southern Barrier & Compression Zone)
 Dates: Roman era–present

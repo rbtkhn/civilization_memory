@@ -1,7 +1,6 @@
 MEM–GERMANIA–GUTENBERG — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Johannes Gutenberg
 Dates: c. 1400–1468 AD

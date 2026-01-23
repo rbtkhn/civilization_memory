@@ -1,20 +1,17 @@
-MEM–RUSSIA–LIT–PUSHKIN — v1.0
+MEM–RUSSIA–LIT–PUSHKIN — v1.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
+ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE · CANONICAL
 Version: 1.1
-Civilization: RUSSIA (Русская цивилизация)
-Subject: Alexander Pushkin (Александр Пушкин) — National Memory Architect
-Dates: 1799–1837 AD (decisive works: 1825–1837)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,750
-
-Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+Civilization: RUSSIA (Русская цивилизация)
+Subject: Alexander Pushkin — National Memory Architect
+Dates: 1799–1837 AD
+Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
+Compatibility: CMC v2.0+
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

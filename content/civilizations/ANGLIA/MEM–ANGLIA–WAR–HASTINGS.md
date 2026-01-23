@@ -1,7 +1,6 @@
 MEM–ANGLIA–WAR–HASTINGS — v1.4
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.4
 Upgrade Type: COMPLIANCE HARDENING (Primary + Secondary · v1.6)

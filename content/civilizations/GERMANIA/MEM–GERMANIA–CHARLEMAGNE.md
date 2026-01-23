@@ -1,7 +1,6 @@
 MEM–GERMANIA–CHARLEMAGNE — v1.3
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.3
 Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)

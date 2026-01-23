@@ -1,7 +1,6 @@
 MEM–FRANCIA–VOLTAIRE — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Voltaire (François-Marie Arouet)
 Dates: 1694–1778 AD

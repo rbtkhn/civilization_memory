@@ -1,7 +1,6 @@
 MEM–ROME–EMPIRE–HADRIAN — v1.2
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.2
 Upgrade Type: ADD-ONLY · ARC v1.9 COMPLIANCE (ANCIENT & MODERN QUOTATION SATISFIED)

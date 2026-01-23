@@ -1,7 +1,6 @@
 MEM–FRANCIA–SWITZERLAND — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Switzerland (Neutral Buffer, Mercenary Reservoir, Financial Mirror)
 Dates: Medieval era–present

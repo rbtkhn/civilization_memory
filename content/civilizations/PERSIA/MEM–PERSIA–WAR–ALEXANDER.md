@@ -1,7 +1,6 @@
 MEM–PERSIA–WAR–ALEXANDER — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Macedonian Conquest under Alexander the Great

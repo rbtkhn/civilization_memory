@@ -1,7 +1,6 @@
 MEM–GERMANIA–LUTHER — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Martin Luther
 Dates: 1483–1546 AD

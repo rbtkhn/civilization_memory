@@ -1,7 +1,6 @@
 MEM–RUSSIA–MONGOL–EMPIRE — v1.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
 Version: 1.1
 Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE

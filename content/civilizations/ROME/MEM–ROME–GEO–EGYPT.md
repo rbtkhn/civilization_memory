@@ -1,7 +1,6 @@
 MEM–ROME–GEO–EGYPT — v1.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · LOCKED · ARC-COMPLIANT
 Version: 1.1
 Upgrade Type: FULL ARC COMPLIANCE · CONCEPTUAL HARDENING

@@ -1,7 +1,6 @@
 MEM–ROME–GEO–NILE–RIVER — v1.1
 Civilizational Memory Codex · Memory File
-
-Repository: https://github.com/rbtkhn/civilization_memory
+ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: CANONICAL · LOCKED
 Version: 1.1

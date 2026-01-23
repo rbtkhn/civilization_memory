@@ -1,7 +1,6 @@
 MEM–RUSSIA–DYNASTY–RURIKID — v2.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
 Upgrade Type: ARC-HARDENED EVIDENTIARY COMPLETION (v1.1 → v2.0)

@@ -1,20 +1,16 @@
 MEM–RUSSIA–LIT–CHEKHOV — v2.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
-Civilization: RUSSIA (Русская цивилизация)
-Subject: Anton Chekhov (Антон Чехов) — Everyday Suffering Architect
-Dates: 1860–1904 AD (decisive works: 1888–1904)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,000
-
-Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+Civilization: RUSSIA (Русская цивилизация)
+Subject: Anton Chekhov — Everyday Suffering Architect
+Dates: 1860–1904 AD
+Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
+Compatibility: CMC v2.0+
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

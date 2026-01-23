@@ -1,7 +1,6 @@
 MEM–RUSSIA–CATHERINE–GREAT — v1.3
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
 Supersedes: v1.3

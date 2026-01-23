@@ -1,7 +1,6 @@
 MEM–ROME–ITALY–VENICE — v1.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.1
 Upgrade Type: ADD-ONLY · MODERN SCHOLARSHIP EXPANSION · ARC v1.9 VERIFICATION

@@ -1,11 +1,16 @@
-Title: MEM–ISLAM–GEO–XINJIANG
+MEM–ISLAM–GEO–XINJIANG — v1.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
 Version: 1.0
-Civilization: ISLAM (دار الإسلام)
-Subject: Xinjiang / Eastern Turkestan (新疆 / تركستان الشرقية)
-Dates: 8th century – Present
 Class: MEM (Memory)
 Word Count: ~2,000
+Civilization: ISLAM (دار الإسلام)
+Subject: Xinjiang / Eastern Turkestan
+Dates: 8th century – Present
+Governed by: CIV–MEM–TEMPLATE v2.5, ARC–ISLAM v1.0
+Compatibility: CMC v2.0+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

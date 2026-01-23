@@ -1,7 +1,6 @@
 MEM–RUSSIA–MICHAEL–ROMANOV — v2.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT
 Version: 2.0
 Upgrade Type: PROCEDURAL COMPLIANCE + QTT–ARC AUDIT + SEQUENCING CLARIFICATION + CONNECTIVITY HARDENING

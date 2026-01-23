@@ -1,7 +1,6 @@
 MEM–INDIA–WAR–CLIVE — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Clive & the East India Company Conquest
 Dates: 1757–1764 AD

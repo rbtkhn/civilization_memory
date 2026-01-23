@@ -1,7 +1,6 @@
 MEM–ROME–CAESAR — v1.5
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
 Version: 1.5
 Upgrade Type: ADD-ONLY · PROCEDURAL COMPLIANCE (CIV–MEM–TEMPLATE v1.6)

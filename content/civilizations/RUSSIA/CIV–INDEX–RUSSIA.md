@@ -3,9 +3,9 @@ Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.1
-Supersedes: CIV–INDEX–RUSSIA v2.0
-Upgrade Type: REGISTER UPDATE · FILE RENAMES + MISSING FILES + SECTION REORGANIZATION
+Version: 2.2
+Supersedes: CIV–INDEX–RUSSIA v2.1
+Upgrade Type: REGISTER UPDATE · MISSING FILES ADDED + NAMING CORRECTIONS
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -16,13 +16,38 @@ Template Alignment: CIV–CORE–TEMPLATE v1.9 (Index-Compatible)
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.0)
+UPGRADE NOTE (v2.2)
+────────────────────────────────────────────────────────────
+This version reconciles the index with actual directory contents.
+
+v2.2 changes:
+• Added 14 missing files: 5 GEO, 2 LAW, 3 LIT, 4 WAR
+• Corrected filename: MEM–RUSSIA–ARCTIC–OCEAN.md → MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
+• Updated total count: 86 → 100 files
+
+All index entries now match actual MEM files in the directory.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1)
 ────────────────────────────────────────────────────────────
 This version adds a missing file to the register.
 
-v2.0 changes:
+v2.1 changes:
 • Added missing file: MEM–RUSSIA–CYRILLIC–SCRIPT.md (in H) OTHER / MISC section)
 • Updated total count: 82 → 83 files
+
+All index entries now match actual MEM files in the directory.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+This version reconciles the index with actual MEM files in the directory.
+
+v2.0 corrections:
+• Fixed filename: MEM–RUSSIA–GEO–ARCTIC–OCEAN.md → MEM–RUSSIA–ARCTIC–OCEAN.md
+• Removed non-existent files: MEM–RUSSIA–LAW–SOVEREIGNTY–ABSOLUTE.md, MEM–RUSSIA–ECON–ENERGY–EXPORT–STATECRAFT.md
+• Added missing files: MEM–RUSSIA–CRIMEA.md, MEM–RUSSIA–SIBERIA.md (in H) OTHER / MISC section)
+• Updated total count: 87 → 82 files (reflecting actual file count)
 
 All index entries now match actual MEM files in the directory.
 
@@ -88,17 +113,21 @@ II. FILE REGISTER — RUSSIA (RECONCILED)
 ────────────────────────────────────────────────────────────
 
 A) GEO
-• MEM–RUSSIA–ARCTIC–OCEAN.md
+• MEM–RUSSIA–GEO–AMUR–RIVER.md
+• MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
 • MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
 • MEM–RUSSIA–GEO–AZOV–SEA.md
 • MEM–RUSSIA–GEO–BALTIC–SEA.md
 • MEM–RUSSIA–GEO–BLACK–SEA.md
+• MEM–RUSSIA–GEO–CARPATHIANS.md
 • MEM–RUSSIA–GEO–CASPIAN–SEA.md
 • MEM–RUSSIA–GEO–CAUCASUS.md
 • MEM–RUSSIA–GEO–CRIMEA.md
 • MEM–RUSSIA–GEO–DNEIPER–RIVER.md
+• MEM–RUSSIA–GEO–DNEISTER–RIVER.md
 • MEM–RUSSIA–GEO–DON–RIVER.md
 • MEM–RUSSIA–GEO–FOREST–ZONE.md
+• MEM–RUSSIA–GEO–GULF–FINLAND.md
 • MEM–RUSSIA–GEO–LAKE–BAIKAL.md
 • MEM–RUSSIA–GEO–LAKE–LADOGA.md
 • MEM–RUSSIA–GEO–NEVA–RIVER.md
@@ -108,6 +137,7 @@ A) GEO
 • MEM–RUSSIA–GEO–TAIGA.md
 • MEM–RUSSIA–GEO–TUNDRA.md
 • MEM–RUSSIA–GEO–URALS.md
+• MEM–RUSSIA–GEO–VISTULA–RIVER.md
 • MEM–RUSSIA–GEO–VOLGA–RIVER.md
 • MEM–RUSSIA–GEO–WHITE–SEA.md
 
@@ -116,15 +146,19 @@ B) DYNASTY
 • MEM–RUSSIA–DYNASTY–ROMANOV.md
 
 C) WAR
+• MEM–RUSSIA–WAR–CHUD.md
 • MEM–RUSSIA–WAR–CRIMEAN.md
 • MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md
+• MEM–RUSSIA–WAR–CUMANS.md
 • MEM–RUSSIA–WAR–GREAT–NORTHERN.md
+• MEM–RUSSIA–WAR–KHAZAR–KHAGANATE.md
 • MEM–RUSSIA–WAR–LIVONIAN.md
 • MEM–RUSSIA–WAR–NARVA.md
 • MEM–RUSSIA–WAR–NAPOLEON.md
 • MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ.md
 • MEM–RUSSIA–WAR–NAPOLEON–BORODINO.md
 • MEM–RUSSIA–WAR–OTTOMAN.md
+• MEM–RUSSIA–WAR–PECHENEGS.md
 • MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
 • MEM–RUSSIA–WAR–POLTAVA.md
 • MEM–RUSSIA–WAR–PUGACHEV–REBELLION.md
@@ -133,7 +167,8 @@ C) WAR
 • MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
 
 D) LAW
-(No files registered)
+• MEM–RUSSIA–LAW–EMANCIPATION.md
+• MEM–RUSSIA–LAW–SERFDOM.md
 
 E) ECON
 (No files registered)
@@ -183,7 +218,10 @@ H) OTHER / MISC
 • MEM–RUSSIA–GOLDEN–HORDE.md
 • MEM–RUSSIA–CONSTANTINOPLE.md
 • MEM–RUSSIA–JAPAN.md
+• MEM–RUSSIA–LIT–CHEKHOV.md
 • MEM–RUSSIA–LIT–DOSTOEVSKY.md
+• MEM–RUSSIA–LIT–GOGOL.md
+• MEM–RUSSIA–LIT–PUSHKIN.md
 • MEM–RUSSIA–LIT–TOLSTOY.md
 • MEM–RUSSIA–CONGRESS–VIENNA.md
 • MEM–RUSSIA–VARANGIANS.md
@@ -230,7 +268,7 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,300
-TOTAL REGISTERED FILES: Eighty-eight (88) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred (100) MEM–RUSSIA OBJECTS
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–RUSSIA v2.1

@@ -1,7 +1,6 @@
 MEM–INDIA–BRITISH–EMPIRE — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Regime: COLONIAL / IMPERIAL–ADMINISTRATIVE (c. 1757–1947)
 Subject: British Empire in India

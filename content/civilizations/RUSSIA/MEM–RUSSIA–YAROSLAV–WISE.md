@@ -1,7 +1,6 @@
 MEM–RUSSIA–YAROSLAV–WISE — v2.1
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.1
 Upgrade Type: REFINEMENT PASS (STRUCTURAL + MEMORY-ROLE HARDENING)

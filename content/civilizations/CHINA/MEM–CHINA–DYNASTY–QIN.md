@@ -1,11 +1,16 @@
-Title: MEM–CHINA–DYNASTY–QIN
+MEM–CHINA–DYNASTY–QIN — v1.0
+Civilizational Memory Codex · Memory File
+LOCKED · CANONICAL · 20% COMPLIANT
+
 Status: LOCKED
 Version: 1.0
-Civilization: CHINA (中华文明)
-Subject: Qin Dynasty (秦)
-Dates: 221–206 BCAD
 Class: MEM (Memory)
 Word Count: ~2,000
+Civilization: CHINA (中华文明)
+Subject: Qin Dynasty
+Dates: 221–206 BC
+Governed by: CIV–MEM–TEMPLATE v2.5, ARC–CHINA v1.0
+Compatibility: CMC v2.0+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────

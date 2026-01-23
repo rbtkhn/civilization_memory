@@ -1,7 +1,6 @@
 MEM–FRANCIA–ROBESPIERRE — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Maximilien Robespierre
 Dates: 1758–1794 AD

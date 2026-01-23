@@ -1,7 +1,6 @@
 MEM–RUSSIA–GEO–DON–RIVER — v1.2
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.2
 Supersedes: v1.1

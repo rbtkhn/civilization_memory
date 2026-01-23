@@ -1,7 +1,6 @@
 MEM–ROME–GEO–BLACK–SEA — v1.3.1
 Civilizational Memory Codex · Memory File
-
-Repository: https://github.com/rbtkhn/civilization_memory
+ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: CANONICAL · LOCKED · FINAL
 Version: 1.3.1

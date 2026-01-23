@@ -1,7 +1,6 @@
 MEM–INDIA–PARTITION — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Regime: DECOLONIZATION / CIVILIZATIONAL FRACTURE EVENT (1947)
 Subject: Partition of British India

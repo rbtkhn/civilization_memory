@@ -1,7 +1,6 @@
 MEM–ROME–AUGUSTUS — v1.3
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
 Upgrade Type: ADD-ONLY · FULL ACADEMIC QUOTATION COMPLIANCE

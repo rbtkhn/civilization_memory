@@ -1,7 +1,6 @@
 MEM–GERMANIA–KANT — v1.0
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Immanuel Kant
 Dates: 1724–1804 AD

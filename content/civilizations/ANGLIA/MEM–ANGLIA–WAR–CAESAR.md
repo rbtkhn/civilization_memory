@@ -1,7 +1,6 @@
 MEM–ANGLIA–WAR–CAESAR — v1.6
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.6
 Upgrade Type: INITIAL ISSUE (Template v1.6 Alignment)

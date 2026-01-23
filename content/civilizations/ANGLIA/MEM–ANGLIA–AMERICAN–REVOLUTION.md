@@ -1,7 +1,6 @@
 MEM–ANGLIA–AMERICAN–REVOLUTION — v1.5
 Civilizational Memory Codex · Memory File
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.5
 Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
