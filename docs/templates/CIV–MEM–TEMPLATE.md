@@ -402,8 +402,8 @@ XVIII. MEM BIBLIOGRAPHY (MANDATORY)
 Every MEM file MUST include a bibliography section listing all scholarly sources engaged with during development.
 
 Format:
-• VERBATIM CITED SOURCES: Full bibliographic entries for all sources with direct quotes
-• UNUSED SCHOLARLY SOURCES: Full bibliographic entries for important works referenced but not directly quoted
+• Complete bibliographic entries for all sources referenced in MEM development
+• Includes both directly quoted sources and important scholarly works consulted
 
 Purpose:
 • Ensures scholarly transparency

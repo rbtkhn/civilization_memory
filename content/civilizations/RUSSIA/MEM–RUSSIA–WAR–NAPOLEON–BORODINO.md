@@ -256,10 +256,7 @@ evidence or structural analysis.
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-VERBATIM CITED SOURCES:
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
-
-UNUSED SCHOLARLY SOURCES:
 • Alexander Mikaberidze, *The Battle of Borodino: Napoleon Against Kutuzov* (Pen & Sword, 2007) - Detailed tactical analysis of the battle from Russian command perspective
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Analysis of Kutuzov's command decisions at Borodino
 • Philip Haythornthwaite, *Borodino 1812: Napoleon's Great Gamble* (Osprey Publishing, 2012) - Military analysis of the battle's tactical dynamics

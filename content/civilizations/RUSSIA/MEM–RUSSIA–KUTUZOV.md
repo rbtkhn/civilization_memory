@@ -329,13 +329,10 @@ evidence or structural analysis.
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-VERBATIM CITED SOURCES:
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
 • Leo Tolstoy, *War and Peace* (1869)
-
-UNUSED SCHOLARLY SOURCES:
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Comprehensive modern biography providing detailed analysis of Kutuzov's military career, strategic thinking, and relationship with Tsar Alexander I
-• Alexander Mikaberidze, *The Battle of Borodino: Napoleon Against Kutuzov* (Pen & Sword, 2007) - Detailed tactical analysis of the Battle of Borodino from Russian perspective
+• Alexander Mikaberidze, *The Battle of Borodino: Napoleon Against Kutuzov* (Pen & Sword, 2007) - Detailed tactical analysis of the battle from Russian command perspective
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)

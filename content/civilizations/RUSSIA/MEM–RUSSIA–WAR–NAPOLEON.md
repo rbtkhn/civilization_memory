@@ -257,11 +257,8 @@ evidence or structural analysis.
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-VERBATIM CITED SOURCES:
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
 • Leo Tolstoy, *War and Peace* (1869)
-
-UNUSED SCHOLARLY SOURCES:
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Detailed analysis of Kutuzov's supreme command during the 1812 campaign and strategic decision-making
 • Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) - Comprehensive account of the campaign from multiple perspectives
 

@@ -295,10 +295,7 @@ evidence or structural analysis.
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-VERBATIM CITED SOURCES:
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
-
-UNUSED SCHOLARLY SOURCES:
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Analysis of the complex relationship between Alexander I and Kutuzov during the 1812 campaign
 • Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) - Examination of Alexander's strategic decisions and court politics during the invasion
 • Janet Hartley, *Alexander I* (Pearson Education Limited, 1994) - Analysis of Alexander's personality and decision-making during the Napoleonic crisis
