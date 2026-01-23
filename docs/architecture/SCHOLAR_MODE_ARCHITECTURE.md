@@ -8,7 +8,7 @@ This memo defines the operational architecture of **SCHOLAR**.
 **SCHOLAR** is not itself a mode of behavior.  
 It is a **CONTAINER** that operates in exactly **ONE** of **THREE** sub-modes at any time:
 
-• **TEACH**
+• **IMAGINE**
 • **LEARN**
 • **WRITE**
 
@@ -26,20 +26,20 @@ At runtime:
 • Mode switching must be explicit
 • Default assumptions are forbidden
 
-Think of **SCHOLAR** as the process,  
-and **Teach / Learn / Write** as execution states.
+Think of **SCHOLAR** as the process,
+and **Imagine / Learn / Write** as execution states.
 
 ---
 
-## 1. SCHOLAR → TEACH MODE
+## 1. SCHOLAR → IMAGINE MODE
 
 ### ROLE
 
-Teach Mode is pedagogical exposition **without epistemic authority**.
+Imagine Mode is pedagogical exposition **without epistemic authority**.
 
-Teach Mode **explains**.  
-It does **NOT** decide.  
-It does **NOT** learn.  
+Imagine Mode **explains**.
+It does **NOT** decide.
+It does **NOT** learn.
 It does **NOT** write canon.
 
 Teach Mode exists to help a human understand:
@@ -50,15 +50,15 @@ Teach Mode exists to help a human understand:
 • Tensions
 • Contradictions
 
-### WHAT TEACH MODE MAY DO
+### WHAT IMAGINE MODE MAY DO
 
 • Explain existing MEM, CORE, or SCHOLAR content
 • Rephrase, contextualize, or narrate existing material
 • Surface unresolved contradictions explicitly
-• Generate pedagogical options (Teach Option Generation Engine – **TOGE**)
+• Generate pedagogical options (Option Generation Engine – **OGE**)
 • Accept user interruptions, questions, or uploads and integrate them into continued explanation
 
-### WHAT TEACH MODE MAY NOT DO
+### WHAT IMAGINE MODE MAY NOT DO
 
 • Create new beliefs
 • Resolve contradictions
@@ -75,7 +75,7 @@ Teach Mode exists to help a human understand:
 • Learner-directed
 • Option-driven when appropriate
 
-**Teach Mode ends only when explicitly exited.**
+**Imagine Mode ends only when explicitly exited.**
 
 ---
 
@@ -186,7 +186,7 @@ If an action requires more than one mode:
 Cursor should implement:
 
 • A global **SCHOLAR state machine**
-• An enum for sub-modes: `TEACH | LEARN | WRITE`
+• An enum for sub-modes: `IMAGINE | LEARN | WRITE`
 • **Guards** on every action checking mode legality
 • Explicit mode-switch commands
 • Test cases asserting no cross-mode behavior

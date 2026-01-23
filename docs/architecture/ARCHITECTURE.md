@@ -336,15 +336,15 @@ tools/cmc-console/
 
 ## Future Enhancements
 
-### Phase 6: AI Video Generation for TEACH Mode (Planned)
+### Phase 6: AI Video Generation for IMAGINE Mode (Planned)
 
-**Vision**: Enhance TEACH mode with AI-generated video content to create immersive "holodeck-type" lessons that combine textual pedagogical exposition with visual/experiential media.
+**Vision**: Enhance IMAGINE mode with AI-generated video content to create immersive "holodeck-type" lessons that combine textual pedagogical exposition with visual/experiential media.
 
 #### Objectives
 
-- **Multi-Modal Pedagogical Exposition**: Extend TEACH mode output beyond text to include AI-generated video content
+- **Multi-Modal Pedagogical Exposition**: Extend IMAGINE mode output beyond text to include AI-generated video content
 - **Immersive Learning Experience**: Create visually rich, contextually accurate representations of historical scenarios, structures, and events
-- **Governance-Compliant Visual Media**: Ensure video generation adheres to TEACH mode principles (no epistemic authority, preserve contradictions, maintain TOGE)
+- **Governance-Compliant Visual Media**: Ensure video generation adheres to IMAGINE mode principles (no epistemic authority, preserve contradictions, maintain OGE)
 
 #### Architecture Components
 
@@ -352,14 +352,14 @@ tools/cmc-console/
 ```
 lib/services/video-generation.service.ts
 - Interface with AI video generation APIs (Runway, Pika, Stable Video Diffusion, etc.)
-- Convert TEACH mode narrative content into structured video generation specifications
+- Convert IMAGINE mode narrative content into structured video generation specifications
 - Manage video generation jobs, progress tracking, and result storage
 ```
 
 **2. Video Generation API Route**
 ```
 /api/teach/generate-video/route.ts
-- Accept video generation specifications from TEACH mode LLM output
+- Accept video generation specifications from IMAGINE mode LLM output
 - Coordinate with video generation service
 - Return video URLs or embedding paths
 - Handle generation errors and fallbacks
@@ -373,9 +373,9 @@ components/teach/VideoPlayer.tsx
 - Provide controls for pause, replay, and navigation
 ```
 
-**4. Enhanced TEACH Mode Output Format**
+**4. Enhanced IMAGINE Mode Output Format**
 
-TEACH mode LLM output will include structured video generation specifications alongside text:
+IMAGINE mode LLM output will include structured video generation specifications alongside text:
 
 ```typescript
 interface TeachModeOutput {
@@ -402,7 +402,7 @@ interface VideoGenerationSpec {
 
 #### Governance Constraints
 
-**Visual Media Must Respect TEACH Mode Principles**:
+**Visual Media Must Respect IMAGINE Mode Principles**:
 
 1. **No Epistemic Authority**
    - Visual representations are pedagogical illustrations, not assertions of historical truth
@@ -438,9 +438,9 @@ interface VideoGenerationSpec {
 
 **2. Content Generation Flow**
 ```
-TEACH Mode LLM → Text + Video Specs → Video Generation Service → Video Assets
+IMAGINE Mode LLM → Text + Video Specs → Video Generation Service → Video Assets
                                                                       ↓
-                                                    TEACH Interface (Text + Video Player)
+                                                    IMAGINE Interface (Text + Video Player)
 ```
 
 **3. Storage and Caching**
@@ -451,7 +451,7 @@ TEACH Mode LLM → Text + Video Specs → Video Generation Service → Video Ass
 
 **4. Fallback Behavior**
 - If video generation fails or is unavailable:
-  - System should gracefully degrade to text-only TEACH mode
+  - System should gracefully degrade to text-only IMAGINE mode
   - No disruption to core pedagogical exposition
   - User preference to disable video generation
 
@@ -460,11 +460,11 @@ TEACH Mode LLM → Text + Video Specs → Video Generation Service → Video Ass
 - Ability to pause video at decision points
 - Replay and exploration of alternative video branches
 
-#### Integration with Existing TEACH Mode
+#### Integration with Existing IMAGINE Mode
 
 **Text Remains Primary**:
 - Video content supplements but does not replace textual exposition
-- All core TEACH mode functionality (TOGE, contradiction preservation, CIV–CORE authority) remains text-based
+- All core IMAGINE mode functionality (OGE, contradiction preservation, CIV–CORE authority) remains text-based
 - Video provides visual reinforcement and immersive context
 
 **TOGE Enhancement**:
@@ -488,7 +488,7 @@ When implementing this enhancement:
 - Update `CIV–SCHOLAR–PROTOCOL.md` to include video generation governance rules
 - Update `ARCHITECTURE.md` (this document) with implementation details
 - Create `VIDEO_GENERATION_GUIDE.md` for video generation specification format
-- Update `CURSOR_SYSTEM_PROMPT.md` to include video generation capabilities in TEACH mode prompts
+- Update `CURSOR_SYSTEM_PROMPT.md` to include video generation capabilities in IMAGINE mode prompts
 
 ---
 
@@ -742,7 +742,7 @@ When implementing this enhancement:
 
 - **Curriculum Alignment**: Map CMC content to traditional history curriculum standards (Common Core, AP World History, IB History, etc.)
 - **Primary Source Engagement**: Use MEM files as accessible primary source material for students
-- **Structured Inquiry**: Leverage TEACH mode for curriculum-aligned lessons and activities
+- **Structured Inquiry**: Leverage IMAGINE mode for curriculum-aligned lessons and activities
 - **Assessment Integration**: Provide tools for teachers to assess student understanding of historical structures and patterns
 - **Multi-Level Learning**: Support different educational levels (middle school, high school, AP/IB, college)
 
@@ -753,14 +753,14 @@ When implementing this enhancement:
 lib/services/curriculum-mapping.service.ts
 - Map CMC civilizations and MEM files to curriculum standards
 - Align CIV–CORE structural concepts with learning objectives
-- Generate curriculum-aligned lesson plans from TEACH mode content
+- Generate curriculum-aligned lesson plans from IMAGINE mode content
 - Track coverage of curriculum requirements
 ```
 
 **2. Educational Content Generator**
 ```
 lib/services/educational-content.service.ts
-- Generate student-facing content from TEACH mode output
+- Generate student-facing content from IMAGINE mode output
 - Create age-appropriate adaptations of MEM files
 - Produce guided inquiry questions based on CIV–CORE structures
 - Generate assessment materials aligned with curriculum standards
@@ -846,10 +846,10 @@ CIV–CORE provides framework for historical analysis:
 - **Comparative Analysis**: Multiple CIV–CORE files enable cross-civilizational comparison
 - **Legitimacy Analysis**: Students understand how authority and legitimacy function historically
 
-**3. TEACH Mode Lessons**
+**3. IMAGINE Mode Lessons**
 
-TEACH mode generates curriculum-aligned lessons:
-- **Topic Generation**: TEACH mode generates 4 topics aligned with curriculum units
+IMAGINE mode generates curriculum-aligned lessons:
+- **Topic Generation**: IMAGINE mode generates 4 topics aligned with curriculum units
 - **TOGE Options**: Students explore multiple perspectives through TOGE option classes
 - **Interactive Learning**: Students guide lessons through option selection
 - **Immersive Content**: Future video generation enhances engagement
@@ -890,7 +890,7 @@ interface ContentAdaptation {
 
 **3. Lesson Plan Generation**
 
-TEACH mode output → Structured lesson plans:
+IMAGINE mode output → Structured lesson plans:
 
 ```typescript
 interface LessonPlan {
@@ -934,7 +934,7 @@ interface StudentProgress {
 - **Resource Library**: Searchable MEM files, CIV–CORE summaries, SCHOLAR insights
 - **Assessment Builder**: Create custom assessments from CMC content
 - **Student Analytics**: Track class progress, identify struggling concepts
-- **Lesson Customization**: Adapt TEACH mode lessons for specific classes
+- **Lesson Customization**: Adapt IMAGINE mode lessons for specific classes
 
 #### Governance Constraints
 
@@ -948,7 +948,7 @@ interface StudentProgress {
 
 - CMC content provides structured inquiry, not definitive answers
 - Students learn to analyze contradictions, not resolve them
-- TEACH mode maintains pedagogical exploration, not authoritative conclusions
+- IMAGINE mode maintains pedagogical exploration, not authoritative conclusions
 
 **3. Primary Source Integrity**
 
@@ -1102,7 +1102,7 @@ The following enhancements represent additional innovative applications of the C
 **Key Features**:
 - Make CMC content accessible to general audiences
 - Combine MEM primary sources with visual experiences
-- Use TEACH mode for exhibit narratives
+- Use IMAGINE mode for exhibit narratives
 - Maintain historical accuracy through governance
 
 **Use Cases**: Public education, museum partnerships, virtual field trips, cultural heritage preservation

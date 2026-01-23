@@ -50,10 +50,10 @@ Guarantees:
 
 Additions introduced in v1.8:
 • Formal propagation of the system-wide rename:
-–"Lecture Mode" → "Teach Mode"
+–"Lecture Mode" → "Imagine Mode"
 –"LOGE" (Lecture Option Generation Engine) → "TOGE" (Teach Option Generation Engine)
 • Declarative mapping clause added to the Pedagogical Interface section
-• Back-link updated to CIV–SCHOLAR–PROTOCOL v1.5 (Teach Mode / TOGE)
+• Back-link updated to CIV–SCHOLAR–PROTOCOL v1.5 (Imagine Mode / TOGE)
 
 All axioms, indicators, verdict logic, and failure physics remain
 identical in meaning and authority to v1.7.
@@ -289,15 +289,15 @@ This section affirms compatibility with:
 LOGE is non-epistemic and non-authoritative.
 
 ────────────────────────────────────────────────────────────
-XX.a TEACH MODE TERMINOLOGY BINDING (ADDITIVE · v1.8)
+XX.a IMAGINE MODE TERMINOLOGY BINDING (ADDITIVE · v1.8)
 ────────────────────────────────────────────────────────────
 System-wide terminology update (binding):
 
-• “Lecture Mode” is deprecated and MUST be read as “Teach Mode”.
+• “Lecture Mode” is deprecated and MUST be read as “Imagine Mode”.
 • “LOGE” (Lecture Option Generation Engine) is deprecated and MUST be
   read as “TOGE” (Teach Option Generation Engine).
 • CIV–SCHOLAR–PROTOCOL v1.4 references are superseded by
-  CIV–SCHOLAR–PROTOCOL v1.5 for Teach Mode / TOGE governance.
+  CIV–SCHOLAR–PROTOCOL v1.5 for Imagine Mode / TOGE governance.
 
 This clause introduces NO epistemic change.
 It is a naming propagation only.

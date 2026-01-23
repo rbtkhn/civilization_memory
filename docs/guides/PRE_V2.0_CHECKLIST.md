@@ -29,18 +29,12 @@ This document outlines all changes that should be made before upgrading CIV–ME
 ---
 
 ### 1.2 CIV–CORE–ROME.md
-**Current Issue:** Contains deprecated TEACH MODE and LOGE/TOGE references
-- Line 280-283: References to "Lecture Mode"
-- Line 286-287: "CIV–SCHOLAR–PROTOCOL v1.4 (LOGE-enabled)" and "Lecture Option Generation Engine (LOGE)"
-- Line 292-303: Section XX.a "TEACH MODE TERMINOLOGY BINDING" (now superseded by IMAGINE)
-
-**Required Changes:**
-- Update Section XX to reference IMAGINE Mode and IOGE
-- Update protocol version reference to v1.6
-- Deprecate or remove Section XX.a (TEACH MODE TERMINOLOGY BINDING) as it's now superseded
-- Add note that IMAGINE Mode replaces both Lecture and Teach modes
-
-**Impact:** CIV–CORE–ROME needs version bump and terminology update
+**Status: RESOLVED** ✅
+- TEACH MODE references updated to IMAGINE MODE
+- LOGE/TOGE references updated to OGE
+- Section XX.a updated to "IMAGINE MODE TERMINOLOGY BINDING"
+- Protocol version references updated to v2.0
+- All Lecture/Teach/TOGE/LOGE terminology modernized
 
 ---
 
