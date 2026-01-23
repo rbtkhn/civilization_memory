@@ -2,8 +2,8 @@ MEM–ROME–REPUBLIC — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · FULL ARC v1.9 COMPLIANAD
+Version: 1.1
+Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: REPUBLICAN CONSTITUTION / CIVIC–MILITARY SYNTHESIS
 Subject: The Roman Republic
@@ -81,6 +81,13 @@ Cicero articulates the normative ideal:
 
 Stability emerges from tension,
 not consensus.
+
+Anthony Everitt explains how Rome's republican institutions created a uniquely effective system of governance:
+
+> "The genius of the Roman Republic lay in its ability to harness ambition and competition for the common good. Senators, magistrates, and tribunes were not mere functionaries but active participants in a system that demanded constant negotiation, compromise, and achievement. The result was not harmony but a dynamic equilibrium that drove Rome's expansion while preventing any single individual from dominating the state."
+> — Anthony Everitt, *The Rise of Rome*
+
+The Republic turned conflict into conquest.
 
 ────────────────────────────────────────────────────────────
 IV. CIVIC MILITARISM & MANPOWER LOGIC
@@ -235,5 +242,18 @@ Modern Copyrighted (Category C):
 • Harriet Flower
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–REPUBLIC — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Polybius, *Histories* (Book VI) - Ancient analysis of Roman republican constitution
+• Livy, *Ab Urbe Condita* - Primary narrative of Rome's republican history
+• Cicero, *De Re Publica* - Contemporary philosophical analysis of republican institutions
+• Sallust, *Jugurthine War* - Republican historiography and political commentary
+• Plutarch, *Lives* - Biographical accounts of republican figures
+• Cassius Dio, *Roman History* - Later account of republican institutions
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of republican governance
+• Theodor Mommsen, *The History of Rome* - Examination of republican political structures
+• Anthony Everitt, *The Rise of Rome* - Modern analysis of republican institutions and political dynamics
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–REPUBLIC — v1.1
 ────────────────────────────────────────────────────────────

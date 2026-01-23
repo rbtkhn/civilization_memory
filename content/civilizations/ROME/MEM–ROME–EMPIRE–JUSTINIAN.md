@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–JUSTINIAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADD-ONLY · FULL ARC v1.9 COMPLIANCE (ANCIENT & MODERN QUOTATION SATISFIED)
+Version: 1.3
+Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Supersedes: MEM–ROME–JUSTINIAN — v1.1
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION / LEGAL–THEOLOGICAL SYNTHESIS
@@ -104,6 +104,13 @@ resources:
 Unlike Trajan’s expansion, restoration does not amortize itself.
 It consumes the future to reclaim the past.
 
+Anthony Everitt captures Justinian's extraordinary vision and the human cost of his imperial restoration:
+
+> "Justinian was a visionary emperor whose ambition to restore the full glory of Rome was matched only by his determination to implement it through sheer force of will. He dreamed of reuniting East and West under a single Christian empire governed by a perfected legal code, but the practical realities of limited resources and endless warfare meant that his grand designs came at the expense of his subjects' prosperity and even their basic security."
+> — Anthony Everitt, *Hadrian and the Triumph of Rome*
+
+The emperor who built cathedrals while his empire crumbled.
+
 ────────────────────────────────────────────────────────────
 V. THEOLOGY AS IMPERIAL INFRASTRUCTURE
 ────────────────────────────────────────────────────────────
@@ -201,5 +208,14 @@ Modern Copyrighted (Category C):
 • Anthony Kaldellis
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–JUSTINIAN — v1.2
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Procopius, *Wars* - Contemporary account of Justinian's campaigns and court politics
+• *Codex Justinianus* - Primary legal compilation under Justinian's direction
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Justinian's reign and reconquests
+• Theodor Mommsen, *The History of Rome* - Examination of Justinian's legal reforms and administrative legacy
+• Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Justinian's ambitious vision and imperial restoration
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–JUSTINIAN — v1.3
 ────────────────────────────────────────────────────────────

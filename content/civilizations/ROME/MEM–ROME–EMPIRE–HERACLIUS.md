@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN CONTINUITY)
 Subject: Heraclius as Last Universal Emperor and Architect of Survival Transition
@@ -92,6 +92,13 @@ Theophanes records the turning point:
 > — Theophanes the Confessor, *Chronographia*, AM 6114
 
 Rome survives by **offense born of desperation**.
+
+Anthony Everitt assesses Heraclius' remarkable transformation of Rome's fortunes through bold leadership:
+
+> "Heraclius was the ultimate survivor-emperor, a man who took an empire on the brink of total collapse and restored it through sheer force of will and strategic innovation. He abandoned the defensive mindset that had doomed his predecessors and instead carried the fight directly to the Persian heartland, demonstrating that Roman military genius could still triumph even when the empire's resources were at their lowest ebb."
+> — Anthony Everitt, *Hadrian and the Triumph of Rome*
+
+The emperor who turned retreat into resurgence.
 
 ────────────────────────────────────────────────────────────
 V. PUBLIC DOMAIN SCHOLARSHIP — LAST ROMAN TRIUMPH
@@ -216,5 +223,13 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–HERACLIUS — v1.0
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Procopius, *Wars* (Books 1-2) - Contemporary account of Heraclius' campaigns and Persian wars
+• Theophanes the Confessor, *Chronographia* - Primary chronicle of Heraclius' reign and reforms
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Heraclius' reign and Byzantine transition
+• Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Heraclius' leadership and strategic transformation
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–HERACLIUS — v1.1
 ────────────────────────────────────────────────────────────

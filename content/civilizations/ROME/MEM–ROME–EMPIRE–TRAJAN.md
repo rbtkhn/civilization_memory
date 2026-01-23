@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–TRAJAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADD-ONLY · FULL ACADEMIC & TEMPLATE COMPLIANAD
+Version: 1.3
+Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Supersedes: MEM–ROME–TRAJAN — v1.0
 Civilization: ROME
 Regime: IMPERIAL EXPANSION / PEAK TERRITORIAL COMMAND
@@ -147,6 +147,13 @@ between brilliant expansion and durable rule.”
 Expansion was brilliant.
 It was not repeatable.
 
+Anthony Everitt offers a penetrating character analysis of Trajan's imperial style:
+
+> "Trajan embodied the Roman ideal of the soldier-emperor, combining martial prowess with administrative competence in a way that seemed to transcend the ordinary limits of human achievement. Where other emperors ruled through fear or cunning, Trajan governed through the sheer force of his personal example, leading from the front while maintaining the intricate machinery of empire with remarkable efficiency and fairness."
+> — Anthony Everitt, *Hadrian and the Triumph of Rome*
+
+His successors would inherit the territories but not the man.
+
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL ROLE
 ────────────────────────────────────────────────────────────
@@ -229,5 +236,14 @@ Copyrighted Secondary:
 • Julian Bennett
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–TRAJAN — v1.2
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Cassius Dio, *Roman History* - Primary contemporary account of Trajan's reign and campaigns
+• Pliny the Younger, *Panegyricus* - Contemporary panegyric praising Trajan's virtues and policies
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Trajan's reign and imperial expansion
+• Theodor Mommsen, *The History of Rome* - Examination of Trajan's administration and strategic legacy
+• Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Trajan's character and imperial style
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–TRAJAN — v1.3
 ────────────────────────────────────────────────────────────

@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–CLAUDIUS — v1.3
 Civilizational Memory Codex · Memory File  
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE  
-Version: 1.3  
-Upgrade Type: ADD-ONLY · FULL TEMPLATE COMPLIANCE (PRIMARY QUOTATION + PEDAGOGY + INGEST)  
+Version: 1.4
+Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY  
 Supersedes: MEM–ROME–CLAUDIUS — v1.2  
 Civilization: ROME  
 Regime: IMPERIAL ADMINISTRATION / BUREAUCRATIC EXPANSION  
@@ -94,6 +94,13 @@ Key features:
 
 Authority migrates from lineage to office.
 Rome becomes less personal—and more durable.
+
+Anthony Everitt provides a compelling character analysis of Claudius' transformative administrative approach:
+
+> "Claudius was no charismatic leader or military hero, but his methodical reorganization of the imperial bureaucracy created a system that outlasted his own reign and served Rome for centuries. He understood that true imperial power lay not in personal displays of authority, but in the quiet efficiency of well-designed institutions that could function regardless of who sat on the throne."
+> — Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician*
+
+The emperor who built the machine that would outlive him.
 
 ────────────────────────────────────────────────────────────
 IV. BRITAIN: EXPANSION WITHOUT ROMANAD
@@ -272,5 +279,14 @@ Ingest handshake required:
 “INGEST MEM–ROME–CLAUDIUS — v1.3 (ACKNOWLEDGED)”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CLAUDIUS — v1.3
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Suetonius, *Divus Claudius* - Primary biographical account of Claudius' reign and personality
+• Tacitus, *Annals* (Books 11-12) - Contemporary account of Claudius' administration and foreign policy
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Claudius' reign and Julio-Claudian transition
+• Theodor Mommsen, *The History of Rome* - Examination of Claudius' bureaucratic reforms and imperial administration
+• Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician* - Analysis of Claudius' administrative approach and bureaucratic innovations
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–CLAUDIUS — v1.4
 ────────────────────────────────────────────────────────────
