@@ -1,17 +1,17 @@
-CIV–MEM–TEMPLATE — v3.0
+CIV–MEM–TEMPLATE — v3.1
 Civilizational Memory Codex · Memory File Enforcement Template
-Evidence-Based Standards · Adaptive Requirements · Simplified Quality Assessment
+20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.3
-Upgrade Type: MAJOR · EVIDENCE-BASED ARC REDESIGN
+Supersedes: CIV–MEM–TEMPLATE v3.0
+Upgrade Type: MAJOR · 20% QUOTE MINIMUM WITH SAFEGUARDS
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Wordcount: ~4,150
+Wordcount: ~4,200
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v3.0) — MAJOR ARC REDESIGN
+UPGRADE NOTE (v3.1) — 20% EVIDENCE STANDARD
 ────────────────────────────────────────────────────────────
 This version implements fundamental ARC framework improvements:
 
@@ -177,7 +177,18 @@ This substitution is explicit and disclosed.”
 Silent substitution is PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-VIII. ADAPTIVE QUOTATION REQUIREMENTS
+VIII. 20% VERBATIM QUOTE MINIMUM
+────────────────────────────────────────────────────────────
+All MEM files MUST contain at least 20% verbatim quotes by word count.
+
+PURPOSE: Force deeper scholarly engagement and stronger evidentiary grounding.
+
+CALCULATION: Quote words ÷ Total MEM words × 100 ≥ 20
+
+ENFORCEMENT: Automatic validation in canonical advancement process.
+
+────────────────────────────────────────────────────────────
+VIII.A ADAPTIVE QUOTATION REQUIREMENTS
 ────────────────────────────────────────────────────────────
 Requirements scale based on subject complexity and source availability:
 
@@ -206,29 +217,29 @@ VIII.B SUBJECT TYPE MATRIX
 ────────────────────────────────────────────────────────────
 Apply requirements based on subject characteristics:
 
-WELL-DOCUMENTED EVENT:
-• PRIMARY: ≥3 quotations (rich source base)
-• CONTEXTUAL: ≥2 quotations (multiple contemporary perspectives)
-• SECONDARY: ≥3 scholars (analytical depth needed)
-• CRITICAL: ≥1 quotation (methodological awareness)
+WELL-DOCUMENTED EVENT (Target: 20-25% quotes):
+• PRIMARY: ≥4 quotations (rich source base)
+• CONTEXTUAL: ≥3 quotations (multiple contemporary perspectives)
+• SECONDARY: ≥4 scholars (analytical depth needed)
+• CRITICAL: ≥2 quotations (methodological awareness)
 
-SPARSE SOURCES SUBJECT:
-• PRIMARY: ≥2 quotations (limited availability)
-• CONTEXTUAL: ≥1 quotation (when available)
-• SECONDARY: ≥2 scholars (compensate for source limitations)
-• CRITICAL: Optional (may not be necessary)
+SPARSE SOURCES SUBJECT (Target: 18-22% quotes):
+• PRIMARY: ≥3 quotations (limited availability)
+• CONTEXTUAL: ≥2 quotations (when available)
+• SECONDARY: ≥3 scholars (compensate for source limitations)
+• CRITICAL: ≥1 quotation (scholarly context essential)
 
-MODERN SUBJECT (19th-20th century):
+MODERN SUBJECT (19th-20th century) (Target: 18-22% quotes):
 • PRIMARY: N/A (no primary sources exist)
-• CONTEXTUAL: ≥1 quotation (contemporary accounts)
-• SECONDARY: ≥3 scholars (primary analytical burden)
-• CRITICAL: ≥2 quotations (modern historiography essential)
+• CONTEXTUAL: ≥2 quotations (contemporary accounts)
+• SECONDARY: ≥5 scholars (primary analytical burden - expanded for volume)
+• CRITICAL: ≥3 quotations (modern historiography essential)
 
-INTERPRETIVE/THEORETICAL SUBJECT:
-• PRIMARY: ≥1 quotation (establish factual foundation)
-• CONTEXTUAL: ≥1 quotation (period context)
-• SECONDARY: ≥4 scholars (multiple perspectives needed)
-• CRITICAL: ≥2 quotations (theoretical evaluation required)
+INTERPRETIVE/THEORETICAL SUBJECT (Target: 20-25% quotes):
+• PRIMARY: ≥2 quotations (establish factual foundation)
+• CONTEXTUAL: ≥2 quotations (period context)
+• SECONDARY: ≥5 scholars (multiple perspectives needed)
+• CRITICAL: ≥3 quotations (theoretical evaluation required)
 
 ────────────────────────────────────────────────────────────
 VIII.C REQUIREMENT DECLARATION
@@ -240,6 +251,40 @@ SUBJECT TYPE DECLARATION:
 Applied requirements: PRIMARY ≥X, CONTEXTUAL ≥Y, SECONDARY ≥Z, CRITICAL ≥W"
 
 This declaration enables governance validation and ensures appropriate evidentiary standards.
+
+────────────────────────────────────────────────────────────
+VIII.D ANALYTICAL PROTECTION SAFEGUARDS
+────────────────────────────────────────────────────────────
+To prevent analytical starvation while enforcing 20% quote minimum:
+
+ANALYTICAL CONTENT FLOOR:
+• Minimum 70% of MEM content MUST be original analytical synthesis
+• Quote integration sections count as analytical content
+• Pure quote blocks do not count toward analytical floor
+
+CALCULATION: Analytical words ÷ Total MEM words × 100 ≥ 70
+
+ENFORCEMENT: Automatic validation requires both 20% quotes AND 70% analysis.
+
+────────────────────────────────────────────────────────────
+VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
+────────────────────────────────────────────────────────────
+To ensure quote quality over quantity:
+
+EQS COMPLIANCE REQUIREMENT:
+• All quotes must meet Evidence Quality Standards (≥2 criteria)
+• Additional quotes beyond minimum must meet ≥3 EQS criteria
+• Marginal quotes automatically rejected in canonical review
+
+RELEVANCE THRESHOLD:
+• Each quote must materially advance MEM analysis
+• Decorative or volume-padding quotes prohibited
+• Quote selection must demonstrate scholarly judgment
+
+SCHOLARLY DIVERSITY REQUIREMENT:
+• Quotes must represent multiple scholarly perspectives
+• Single-author dominance prohibited
+• Must include both supportive and challenging viewpoints
 IX. SECONDARY SOURCE ENTANGLEMENT
 ────────────────────────────────────────────────────────────
 Secondary quotations MUST be analytically integrated.
