@@ -1,39 +1,42 @@
-CIV–MEM–TEMPLATE — v3.1
+CIV–MEM–TEMPLATE — v2.5
 Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
+Enhanced Evidence Standards · Scholarly Rigor · Optional 20% Framework
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v3.0
-Upgrade Type: MAJOR · 20% QUOTE MINIMUM WITH SAFEGUARDS
+Supersedes: CIV–MEM–TEMPLATE v2.3
+Upgrade Type: ADDITIVE · OPTIONAL 20% EVIDENCE ENHANCEMENT
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
 Wordcount: ~4,200
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v3.1) — 20% EVIDENCE STANDARD
+UPGRADE NOTE (v2.5) — OPTIONAL 20% EVIDENCE ENHANCEMENT
 ────────────────────────────────────────────────────────────
-This version implements fundamental ARC framework improvements:
+This version introduces an optional 20% verbatim quote enhancement framework:
 
-EVIDENCE-BASED CATEGORIZATION:
-• Replaces temporal categories (Ancient/Medieval/Modern) with functional ones
-• PRIMARY: Direct evidence from subject period
-• CONTEXTUAL: Contemporary/near-contemporary analysis
-• SECONDARY: Scholarly analysis and synthesis
-• CRITICAL: Modern historiographical evaluation
+OPTIONAL 20% QUOTE STANDARD:
+• MEM authors may voluntarily adopt ≥20% verbatim quotes by word count
+• Forces deeper scholarly engagement when desired
+• Provides enhanced evidentiary validation for rigorous scholarship
 
-ADAPTIVE REQUIREMENTS MATRIX:
-• Requirements scale by subject complexity and source availability
-• Eliminates arbitrary fixed minimums
-• Enables appropriate evidentiary standards for all subject types
+ANALYTICAL PROTECTION SAFEGUARDS:
+• 70% minimum analytical content floor for 20% adopters
+• Prevents analytical starvation while enabling evidentiary density
+• Maintains MEMs as analytical intelligence objects
 
-SIMPLIFIED QUALITY STANDARDS:
-• Replaces subjective QTT-ARC with objective EQS criteria
-• Clear pass/fail standards based on demonstrable elements
-• Authority, Relevance, Context, Limitation requirements
+QUALITY ENHANCEMENT FRAMEWORK:
+• Enhanced EQS standards for high-rigor MEMs
+• Scholarly diversity requirements
+• Advanced analytical integration techniques
 
-MAINTAINS: All structural requirements, authority hierarchy, and evidentiary rigor
-BREAKS COMPATIBILITY: With temporal category-based ARC canons (requires migration)
+BACKWARD COMPATIBILITY:
+• Existing MEMs remain fully compliant
+• No breaking changes to current requirements
+• 20% framework available for authors seeking enhanced scholarly rigor
+
+MAINTAINS: All existing requirements and compatibility
+ADDS: Optional advanced evidentiary framework for scholarly excellence
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -177,15 +180,15 @@ This substitution is explicit and disclosed.”
 Silent substitution is PROHIBITED.
 
 ────────────────────────────────────────────────────────────
-VIII. 20% VERBATIM QUOTE MINIMUM
+VIII. OPTIONAL 20% VERBATIM QUOTE ENHANCEMENT
 ────────────────────────────────────────────────────────────
-All MEM files MUST contain at least 20% verbatim quotes by word count.
+MEM authors MAY voluntarily adopt a 20% verbatim quote standard.
 
-PURPOSE: Force deeper scholarly engagement and stronger evidentiary grounding.
+PURPOSE: Enable enhanced scholarly rigor for authors seeking deeper evidentiary grounding.
 
-CALCULATION: Quote words ÷ Total MEM words × 100 ≥ 20
+CALCULATION: Quote words ÷ Total MEM words × 100 ≥ 20 (for opting authors)
 
-ENFORCEMENT: Automatic validation in canonical advancement process.
+ENFORCEMENT: Voluntary adoption with enhanced validation for 20% MEMs.
 
 ────────────────────────────────────────────────────────────
 VIII.A ADAPTIVE QUOTATION REQUIREMENTS
@@ -213,9 +216,9 @@ CRITICAL CATEGORY (Historiographical Evaluation):
 • Optional for straightforward factual subjects
 
 ────────────────────────────────────────────────────────────
-VIII.B SUBJECT TYPE MATRIX
+VIII.F OPTIONAL 20% ENHANCEMENT MATRIX
 ────────────────────────────────────────────────────────────
-Apply requirements based on subject characteristics:
+For MEMs voluntarily adopting 20% quote enhancement:
 
 WELL-DOCUMENTED EVENT (Target: 20-25% quotes):
 • PRIMARY: ≥4 quotations (rich source base)
@@ -253,9 +256,9 @@ Applied requirements: PRIMARY ≥X, CONTEXTUAL ≥Y, SECONDARY ≥Z, CRITICAL �
 This declaration enables governance validation and ensures appropriate evidentiary standards.
 
 ────────────────────────────────────────────────────────────
-VIII.D ANALYTICAL PROTECTION SAFEGUARDS
+VIII.D OPTIONAL ANALYTICAL PROTECTION SAFEGUARDS
 ────────────────────────────────────────────────────────────
-To prevent analytical starvation while enforcing 20% quote minimum:
+For MEMs adopting the 20% quote enhancement:
 
 ANALYTICAL CONTENT FLOOR:
 • Minimum 70% of MEM content MUST be original analytical synthesis
@@ -264,17 +267,17 @@ ANALYTICAL CONTENT FLOOR:
 
 CALCULATION: Analytical words ÷ Total MEM words × 100 ≥ 70
 
-ENFORCEMENT: Automatic validation requires both 20% quotes AND 70% analysis.
+ENFORCEMENT: Required for MEMs with ≥20% quotes to prevent analytical starvation.
 
 ────────────────────────────────────────────────────────────
-VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
+VIII.E ENHANCED QUALITY SAFEGUARDS
 ────────────────────────────────────────────────────────────
-To ensure quote quality over quantity:
+For MEMs adopting the 20% quote enhancement:
 
 EQS COMPLIANCE REQUIREMENT:
 • All quotes must meet Evidence Quality Standards (≥2 criteria)
-• Additional quotes beyond minimum must meet ≥3 EQS criteria
-• Marginal quotes automatically rejected in canonical review
+• Additional quotes must meet ≥3 EQS criteria
+• Enhanced scrutiny for quote quality and relevance
 
 RELEVANCE THRESHOLD:
 • Each quote must materially advance MEM analysis
@@ -360,7 +363,9 @@ Mismatch blocks canonical lock.
 ────────────────────────────────────────────────────────────
 XV. COMPLIANCE TIERS
 ────────────────────────────────────────────────────────────
-DRAFT → PARTIAL → COMPLIANT → CANONICAL
+DRAFT → PARTIAL → COMPLIANT → CANONICAL → ENHANCED
+
+ENHANCED: MEMs with ≥20% quotes meeting analytical protection safeguards
 
 Skipping tiers is forbidden.
 

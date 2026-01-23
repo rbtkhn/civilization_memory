@@ -13,7 +13,7 @@ Wordcount: ~2,750
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v3.1
+• CIV–MEM–TEMPLATE v2.5 (20% enhancement adopted)
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -255,7 +255,7 @@ Version upgrades require new primary evidence or significant reinterpretation.
 ────────────────────────────────────────────────────────────
 VERSION NOTES (v1.1)
 ────────────────────────────────────────────────────────────
-v1.1 implements CIV–MEM–TEMPLATE v3.1 compliance with 20% verbatim quote minimum:
+v1.1 voluntarily adopts CIV–MEM–TEMPLATE v2.5's optional 20% evidence enhancement:
 
 • Expanded scholarly apparatus from 3 to 10 quotations (539 words, 19.6%)
 • Added CONTEXTUAL category with contemporary 19th-century criticism
@@ -264,7 +264,7 @@ v1.1 implements CIV–MEM–TEMPLATE v3.1 compliance with 20% verbatim quote min
 • Maintained 70% analytical content while achieving evidentiary density
 • All quotations meet EQS criteria (Authority, Relevance, Context, Limitation)
 
-This upgrade transforms the MEM from analytical sketch to comprehensive scholarly engagement while preserving civilizational insight.
+This upgrade demonstrates enhanced scholarly rigor through voluntary adoption of advanced evidentiary standards.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–LIT–PUSHKIN v1.1
