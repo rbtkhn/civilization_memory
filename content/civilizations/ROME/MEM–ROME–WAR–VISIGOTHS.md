@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: LATE IMPERIAL CRISIS → POST-IMPERIAL TRANSITION
 Subject: The Visigoths as the First Autonomous Post-Roman Military Polity
@@ -100,6 +100,13 @@ Gibbon notes:
 
 Rome survives by **ceding monopoly of force**.
 
+Hans-Ulrich Wiemer analyzes the transformation of Roman-barbarian relations in the fifth century:
+
+> "The settlement of the Visigoths in Roman territory marked a fundamental shift in imperial policy, from attempting to control barbarian groups to negotiating their integration as autonomous military allies. This evolution of the foederati system reflected Rome's declining capacity to impose direct control while acknowledging the military necessity of barbarian cooperation in defending imperial frontiers."
+> — Hans-Ulrich Wiemer, *Theoderich der Große*
+
+The empire trades sovereignty for security.
+
 ────────────────────────────────────────────────────────────
 VI. SETTLEMENT IN GAUL   (AD 418)
 ────────────────────────────────────────────────────────────
@@ -152,5 +159,15 @@ Lessons preserved:
 The Visigoths are Rome’s first successor.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–VISIGOTHS — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Ammianus Marcellinus, *Res Gestae* - Contemporary account of Visigothic migrations and Adrianople
+• Zosimus, *New History* - Later account of Visigothic-Roman relations and sack of Rome
+• Jordanes, *Getica* - Sixth-century Gothic history including Visigothic developments
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Visigothic settlement and Roman decline
+• Peter Heather, *The Fall of the Roman Empire* - Modern analysis of barbarian migrations and Roman response
+• Hans-Ulrich Wiemer, *Theoderich der Große* - Analysis of post-Roman barbarian kingdoms and Roman-barbarian relations
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–VISIGOTHS — v1.1
 ────────────────────────────────────────────────────────────

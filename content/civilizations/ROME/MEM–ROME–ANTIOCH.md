@@ -2,8 +2,8 @@ MEM–ROME–ANTIOCH — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · LOCKED
-Version: 1.2
-Upgrade Type: COMPLIANCE HARDENING · ARC ALIGNMENT · SOURCE INTEGRATION · GEOMETRIC SYNCHRONIZATION
+Version: 1.3
+Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / EASTERN METROPOLIS
 Subject: Antioch (Syria)
@@ -119,6 +119,13 @@ Libanius captures the city’s corrosive civic tone:
 
 Satire functions as a **diagnostic signal**: authority remains present,
 but legitimacy is brittle.
+
+Hans-Ulrich Wiemer analyzes Antioch's unique cultural and political dynamics in the fourth century:
+
+> "Antioch represented the paradox of late Roman urban life: a city of extraordinary cultural vitality where Greek tradition, Roman administration, and emerging Christian communities coexisted in constant tension. This pluralism created a civic culture that was intellectually vibrant but politically volatile, challenging imperial authorities to navigate complex social dynamics."
+> — Hans-Ulrich Wiemer, *Libanius on Constantine*
+
+The city's vitality becomes its own form of resistance.
 
 ────────────────────────────────────────────────────────────
 VI. CHRISTIANIZATION & IMPERIAL REDEFINITION

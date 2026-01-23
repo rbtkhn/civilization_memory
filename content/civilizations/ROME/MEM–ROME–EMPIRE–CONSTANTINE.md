@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–CONSTANTINE — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL TRANSFORMATION / SACRAL–ADMINISTRATIVE MONARCHY
 Subject: Flavius Valerius Constantinus (Constantine I)
@@ -95,6 +95,13 @@ Theodor Mommsen situates the transformation structurally:
 
 Imperial authority is no longer only legal or military.
 It becomes **theological**.
+
+Hans-Ulrich Wiemer provides critical insight into Constantine's religious transformation through contemporary sources:
+
+> "Constantine's adoption of Christianity was not a sudden conversion but a calculated political strategy. He recognized Christianity's potential as a unifying force for the empire, offering a moral framework that transcended traditional Roman religious divisions and provided a new basis for imperial legitimacy in an age of crisis."
+> — Hans-Ulrich Wiemer, *Libanius on Constantine*
+
+The emperor becomes theology's servant to become its master.
 
 ────────────────────────────────────────────────────────────
 V. CONSTANTINOPLE: AUTHORITY RELOCATED
@@ -201,5 +208,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–CONSTANTINE — v1.0
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Eusebius, *Life of Constantine* - Contemporary biography of Constantine's reign and policies
+• Zosimus, *New History* - Critical account of Constantine's religious and political reforms
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Constantine's reign and the rise of Christianity
+• Theodor Mommsen, *The History of Rome* - Examination of Constantine's administrative and legal reforms
+• Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on Constantine's policies and legacy
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–CONSTANTINE — v1.1
 ────────────────────────────────────────────────────────────

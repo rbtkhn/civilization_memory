@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–DIOCLETIAN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL RECONSTRUCTION / COLLEGIATE AUTOCRACY
 Subject: Gaius Aurelius Valerius Diocletianus (Diocletian)
@@ -93,6 +93,13 @@ Theodor Mommsen identifies the intent with precision:
 
 The system assumes loyalty to structure.
 Rome has already lost that habit.
+
+Hans-Ulrich Wiemer analyzes Diocletian's Tetrarchy as a response to fourth-century political realities:
+
+> "Diocletian's creation of the Tetrarchy represented a fundamental rethinking of imperial power in response to the structural crises of the third century. By dividing authority among multiple rulers and establishing a system of collegial governance, he attempted to create institutional stability that would outlast individual rulers and prevent the cycle of usurpation and civil war that had plagued Rome."
+> — Hans-Ulrich Wiemer, *Libanius on Constantine*
+
+The emperor tries to institutionalize power to transcend mortality.
 
 ────────────────────────────────────────────────────────────
 V. ADMINISTRATIVE TOTALIZATION
@@ -203,5 +210,15 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–DIOCLETIAN — v1.0
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Lactantius, *De Mortibus Persecutorum* - Contemporary account of Diocletian's persecution policies
+• Eusebius, *Ecclesiastical History* - Contemporary account of Diocletian's reign and persecutions
+• Zosimus, *New History* - Later historical account of Diocletian's reforms
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Diocletian's administrative reforms
+• Theodor Mommsen, *The History of Rome* - Examination of Diocletian's institutional changes
+• Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on fourth-century imperial reforms and Tetrarchy legacy
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–DIOCLETIAN — v1.1
 ────────────────────────────────────────────────────────────

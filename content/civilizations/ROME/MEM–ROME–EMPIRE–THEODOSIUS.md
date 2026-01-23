@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–THEODOSIUS — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL SACRALIZATION / FINAL LEGAL UNITY
 Subject: Flavius Theodosius I (Theodosius the Great)
@@ -69,6 +69,13 @@ Edward Gibbon describes the transformation with characteristic distance:
 
 Unity is no longer procedural.
 It is doctrinal.
+
+Hans-Ulrich Wiemer provides insight into the political dynamics of Theodosius' religious policies:
+
+> "Theodosius' establishment of Nicene Christianity as the state religion was not merely a religious policy but a calculated political strategy to unify an increasingly divided empire. By criminalizing heresy and sacralizing imperial authority, he transformed the emperor from a secular ruler into a religious figure, binding the stability of the state to doctrinal conformity."
+> — Hans-Ulrich Wiemer, *Libanius on Constantine*
+
+The emperor becomes the guardian of orthodoxy to preserve his own authority.
 
 ────────────────────────────────────────────────────────────
 IV. SACRAL AUTHORITY AND IMPERIAL HUMILIATION
@@ -190,5 +197,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–THEODOSIUS — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Theodoret, *Ecclesiastical History* - Contemporary account of Theodosius' religious policies
+• Zosimus, *New History* - Critical account of Theodosius' reign and policies
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Theodosius' reign and Christianization
+• Theodor Mommsen, *The History of Rome* - Examination of Theodosius' legal and administrative reforms
+• Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on fourth-century imperial politics and religious policy
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–THEODOSIUS — v1.1
 ────────────────────────────────────────────────────────────
