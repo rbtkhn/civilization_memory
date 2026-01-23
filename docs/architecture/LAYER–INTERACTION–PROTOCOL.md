@@ -575,11 +575,263 @@ SCHOLAR influence on WRITE is read-only and advisory.
 WRITE influence on SCHOLAR occurs only via LEARN mode ingestion.
 
 ────────────────────────────────────────────────────────────
-IX. CROSS-LAYER CONFLICT RESOLUTION
+IX. SCHOLAR ↔ IMAGINE MODE INTERFACE (NEW)
+────────────────────────────────────────────────────────────
+This section governs the relationship between SCHOLAR learning and IMAGINE mode
+pedagogical exposition.
+
+DESIGN PRINCIPLE:
+LEARN informs IMAGINE directly (one-way read).
+IMAGINE may produce observations that inform future LEARN (user-gated).
+IMAGINE never modifies SCHOLAR state directly.
+
+IX.A LEARN → IMAGINE: KNOWLEDGE SURFACING
+────────────────────────────────────────────────────────────
+IMAGINE mode reads SCHOLAR state to inform pedagogical exposition.
+
+IMAGINE MODE HAS READ ACCESS TO:
+
+1. ACCUMULATED PATTERNS
+   • Confirmed patterns from SCHOLAR learning
+   • Pattern confidence levels (SCR)
+   • Supporting MEM file references
+
+2. BOUND RLLs
+   • Constraints promoted to CORE
+   • Constraint rationale and scope
+   • Falsification conditions
+
+3. PRESERVED CONTRADICTIONS (SCLs)
+   • Unresolved tensions between sources
+   • Contradiction context and involved MEMs
+   • Contradiction type classification
+
+4. NEGATIVE CAPABILITY ZONES
+   • What the civilization cannot stably sustain
+   • Structural impossibilities discovered through LEARN
+
+5. CONFIDENCE TOPOLOGY
+   • High-confidence areas (well-supported by MEMs)
+   • Low-confidence areas (sparse evidence)
+   • Uncertainty markers
+
+SURFACING RULES:
+• IMAGINE must surface contradictions when explaining contested areas
+• IMAGINE must disclose low-confidence when explaining sparse areas
+• IMAGINE may not present patterns as more certain than SCHOLAR warrants
+• IMAGINE must reference source MEMs when asked for evidence
+
+IX.B IMAGINE → LEARN: PEDAGOGICAL OBSERVATION RECORDS (POR)
+────────────────────────────────────────────────────────────
+IMAGINE mode may produce Pedagogical Observation Records that capture
+signals about knowledge gaps, contradictions, or user challenges.
+
+PORs are OBSERVATIONAL, not ASSERTIVE.
+PORs do NOT automatically update SCHOLAR.
+PORs are surfaced to user, who decides whether to investigate in LEARN mode.
+
+POR FORMAT:
+
+┌─────────────────────────────────────────────────────────────┐
+│  PEDAGOGICAL OBSERVATION RECORD (POR)                       │
+├─────────────────────────────────────────────────────────────┤
+│  POR-ID:        POR–[CIV]–[SESSION]–[TIMESTAMP]             │
+│  Civilization:  [CIV]                                       │
+│  Session ID:    [IMAGINE session identifier]                │
+│  Duration:      [session duration]                          │
+│                                                             │
+│  OBSERVATION TYPE: [one of the types below]                 │
+│  OBSERVATION CONTENT: [specific details]                    │
+│  RELATED SCHOLAR CONTENT: [patterns/RLLs/SCLs affected]     │
+│  SUGGESTED ACTION: [what LEARN might investigate]           │
+│                                                             │
+│  Status: RECORDED / REVIEWED / DISMISSED / ACTED_UPON       │
+│  User Decision: [if reviewed]                               │
+│  Resulting LER: [if ACTED_UPON → LEARN ingestion]           │
+└─────────────────────────────────────────────────────────────┘
+
+IX.C POR OBSERVATION TYPES
+────────────────────────────────────────────────────────────
+
+1. EXPLANATION GAP
+   Definition: IMAGINE struggled to explain a topic clearly
+   Signal: SCHOLAR may lack sufficient patterns in this area
+   Contains:
+   • Topic where explanation was incomplete
+   • What context or connections were missing
+   • SCHOLAR confidence level in area
+   • Suggested MEMs to ingest
+
+2. CONTRADICTION SURFACED
+   Definition: New tension discovered during pedagogical exposition
+   Signal: Potential SCL not yet recorded in SCHOLAR
+   Contains:
+   • Description of contradiction
+   • Involved patterns or MEMs
+   • Why it wasn't previously visible
+   • Suggested SCL entry
+
+3. USER CHALLENGE
+   Definition: User disputed or corrected an explanation
+   Signal: SCHOLAR pattern may be incomplete or incorrect
+   Contains:
+   • Claim that was challenged
+   • User's counter-argument or evidence
+   • Pattern/MEM affected
+   • Confidence impact assessment
+
+4. QUESTION CLUSTER
+   Definition: Repeated questions in a subject area across session
+   Signal: Area of user interest or confusion, possibly knowledge gap
+   Contains:
+   • Subject area questioned
+   • Question types: CLARIFICATION / EXTENSION / CHALLENGE
+   • Frequency in session
+   • SCHOLAR coverage of area
+
+5. OPTION SELECTION PATTERN
+   Definition: User's OGE selections reveal preference or gap
+   Signal: Certain pedagogical paths are more/less valuable
+   Contains:
+   • Option classes consistently selected
+   • Option classes consistently ignored
+   • Aggregated across session(s)
+   • Possible SCHOLAR presentation improvements
+
+IX.D POR GENERATION RULES
+────────────────────────────────────────────────────────────
+POR generation is OPTIONAL and EVENT-TRIGGERED.
+
+PORs are generated when:
+• IMAGINE encounters an explanation gap (automatic)
+• IMAGINE surfaces a previously unrecorded contradiction (automatic)
+• User explicitly challenges or corrects content (automatic)
+• Session ends with significant question clustering (end-of-session)
+• User requests POR generation (manual)
+
+PORs are NOT generated for:
+• Routine explanations that proceed without friction
+• Single questions without pattern significance
+• User acknowledgments or agreements
+• Brief clarification requests
+
+GENERATION PRINCIPLE:
+Signal, not surveillance. PORs capture friction points, not all interactions.
+
+IX.E POR REVIEW AND ACTION
+────────────────────────────────────────────────────────────
+PORs are surfaced to user for review. User decides disposition.
+
+USER ACTIONS ON POR:
+
+1. DISMISS
+   • POR marked as dismissed
+   • No LEARN action taken
+   • Observation preserved for historical reference
+
+2. DEFER
+   • POR remains in queue for later review
+   • May be batched with similar PORs
+   • No immediate LEARN action
+
+3. INVESTIGATE
+   • User triggers LEARN mode investigation
+   • POR becomes input to LEARN session
+   • May result in:
+     - New MEM ingestion
+     - Pattern revision
+     - New SCL recording
+     - RLL stress-testing
+
+4. CONVERT TO LEARN TASK
+   • POR generates explicit LEARN task
+   • Task queued in LEARN backlog
+   • Processed in future LEARN session
+
+POST-ACTION TRACKING:
+• If ACTED_UPON, POR links to resulting LER
+• Traceability: POR → LEARN action → SCHOLAR update
+• Enables audit of pedagogical-to-learning flow
+
+IX.F THE LEARN ↔ IMAGINE CYCLE
+────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   ┌─────────────────┐                ┌─────────────────┐   │
+│   │  LEARN MODE     │                │  IMAGINE MODE   │   │
+│   │                 │                │                 │   │
+│   │  Updates        │    direct      │  Explains using │   │
+│   │  SCHOLAR state  │───── read ────▶│  SCHOLAR state  │   │
+│   │                 │                │                 │   │
+│   │  • Patterns     │                │  • Surfaces     │   │
+│   │  • RLLs         │                │    patterns     │   │
+│   │  • SCLs         │                │  • Discloses    │   │
+│   │  • Confidence   │                │    uncertainty  │   │
+│   │                 │                │  • Generates    │   │
+│   │                 │                │    OGE options  │   │
+│   └────────▲────────┘                └────────┬────────┘   │
+│            │                                  │            │
+│            │                                  │ POR        │
+│            │                                  │ (optional) │
+│            │                                  ▼            │
+│   ┌────────┴────────────────────────────────────────────┐  │
+│   │                                                     │  │
+│   │  USER REVIEW                                        │  │
+│   │                                                     │  │
+│   │  • Reviews POR observations                         │  │
+│   │  • Decides: DISMISS / DEFER / INVESTIGATE           │  │
+│   │  • May trigger LEARN investigation                  │  │
+│   │  • Maintains epistemic control                      │  │
+│   │                                                     │  │
+│   └─────────────────────────────────────────────────────┘  │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+
+CYCLE PROPERTIES:
+• LEARN → IMAGINE: Direct read, always available
+• IMAGINE → LEARN: Indirect, user-gated, optional
+• User remains in control of what gets investigated
+• No autonomous learning from pedagogical interactions
+
+IX.G COMPARISON: WRITE VS IMAGINE FEEDBACK
+────────────────────────────────────────────────────────────
+┌─────────────────────────────────────────────────────────────┐
+│  ASPECT              │  WRITE → LEARN    │  IMAGINE → LEARN │
+├─────────────────────────────────────────────────────────────┤
+│  Output type         │  Canonical (MEMs) │  Observational   │
+│  Contains claims     │  Yes (assertions) │  No (rephrases)  │
+│  Feedback mechanism  │  PWQR (queue)     │  POR (observe)   │
+│  Automaticity        │  Always queued    │  Event-triggered │
+│  User gate           │  Confirmation     │  Review/decision │
+│  SCHOLAR impact      │  Direct ingestion │  Indirect signal │
+│  Processing          │  Full MEM ingest  │  Investigation   │
+└─────────────────────────────────────────────────────────────┘
+
+IX.H IMAGINE MODE RESTRICTIONS (REINFORCED)
+────────────────────────────────────────────────────────────
+IMAGINE mode continues to be bound by existing restrictions:
+
+• IMAGINE mode may NOT update SCHOLAR state directly
+• IMAGINE mode may NOT create new beliefs
+• IMAGINE mode may NOT resolve contradictions
+• IMAGINE mode may NOT freeze doctrine
+• IMAGINE mode may NOT produce authoritative conclusions
+
+POR generation does NOT violate these restrictions because:
+• PORs are observations about the pedagogical process
+• PORs do not assert new historical claims
+• PORs require user action to affect SCHOLAR
+• PORs are signals, not beliefs
+
+IMAGINE influence on SCHOLAR occurs only via user-gated POR review.
+
+────────────────────────────────────────────────────────────
+X. CROSS-LAYER CONFLICT RESOLUTION
 ────────────────────────────────────────────────────────────
 When layers produce conflicting outputs, resolution follows authority hierarchy.
 
-IX.A CONFLICT TYPES
+X.A CONFLICT TYPES
 ────────────────────────────────────────────────────────────
 1. MEM ↔ MEM CONFLICT (Same Layer)
    • Preserved as contradiction (SCL)
@@ -601,7 +853,7 @@ IX.A CONFLICT TYPES
    • Conflict explicitly noted in both files
    • May trigger RLL review for potential falsification
 
-IX.B CONFLICT RESOLUTION PROCEDURE
+X.B CONFLICT RESOLUTION PROCEDURE
 ────────────────────────────────────────────────────────────
 Step 1: CONFLICT DETECTION
 • Identify conflicting layers and content
@@ -624,11 +876,11 @@ Step 4: REVIEW TRIGGER (if applicable)
 • RLL may be: REAFFIRMED / SCOPED / SUPERSEDED
 
 ────────────────────────────────────────────────────────────
-X. RLL LIFECYCLE MANAGEMENT
+XI. RLL LIFECYCLE MANAGEMENT
 ────────────────────────────────────────────────────────────
 RLLs have defined lifecycle states from proposal to supersession.
 
-X.A RLL STATES
+XI.A RLL STATES
 ────────────────────────────────────────────────────────────
 ┌─────────────────────────────────────────────────────────────┐
 │  STATE          │  LOCATION    │  AUTHORITY   │  MUTABLE   │
@@ -642,7 +894,7 @@ X.A RLL STATES
 
 * BOUND RLLs may only be modified via formal supersession process
 
-X.B STATE TRANSITIONS
+XI.B STATE TRANSITIONS
 ────────────────────────────────────────────────────────────
 CANDIDATE → PROPOSED
 • Trigger: Cross-MEM coherence threshold met
@@ -679,7 +931,7 @@ BOUND → SUPERSEDED (Direct)
 • Requirement: New RLL explicitly supersedes old
 • Authorization: Version upgrade authorization
 
-X.C SUPERSESSION RULES
+XI.C SUPERSESSION RULES
 ────────────────────────────────────────────────────────────
 • Superseded RLLs are NEVER deleted
 • Supersession record includes: superseding RLL, rationale, timestamp
@@ -687,11 +939,11 @@ X.C SUPERSESSION RULES
 • Supersession is additive (new constraint replaces old)
 
 ────────────────────────────────────────────────────────────
-XI. AUDIT & TRACEABILITY
+XII. AUDIT & TRACEABILITY
 ────────────────────────────────────────────────────────────
 All layer interactions must be auditable.
 
-XI.A AUDIT REQUIREMENTS
+XII.A AUDIT REQUIREMENTS
 ────────────────────────────────────────────────────────────
 1. INGESTION AUDIT
    • Every MEM ingestion logged with LER
@@ -713,7 +965,7 @@ XI.A AUDIT REQUIREMENTS
    • Transition triggers documented
    • Authorization recorded
 
-XI.B AUDIT LOG STRUCTURE
+XII.B AUDIT LOG STRUCTURE
 ────────────────────────────────────────────────────────────
 Audit logs are append-only and stored in SCHOLAR.
 
@@ -726,7 +978,7 @@ Each audit entry contains:
 • OUTPUTS: What resulted
 • AUTHORIZATION: Who/what authorized (if applicable)
 
-XI.C TRACEABILITY GUARANTEE
+XII.C TRACEABILITY GUARANTEE
 ────────────────────────────────────────────────────────────
 For any bound constraint in CORE, it must be possible to trace:
 • Which SCHOLAR phase produced it
@@ -749,7 +1001,7 @@ XII.A DATABASE EXTENSIONS
 • rll_registry — Tracks RLL lifecycle states
 • audit_log — Append-only audit trail
 
-XII.B SERVICE LAYER
+XIII.B SERVICE LAYER
 ────────────────────────────────────────────────────────────
 • ingestion.service — Implements MEM → SCHOLAR protocol
 • promotion.service — Implements SCHOLAR → CORE protocol
@@ -757,7 +1009,7 @@ XII.B SERVICE LAYER
 • lifecycle.service — Manages RLL state transitions
 • audit.service — Maintains audit trail
 
-XII.C API ENDPOINTS
+XIII.C API ENDPOINTS
 ────────────────────────────────────────────────────────────
 /api/pipeline/ingest      — Trigger MEM ingestion
 /api/pipeline/promote     — Propose RLL for promotion
@@ -766,7 +1018,7 @@ XII.C API ENDPOINTS
 /api/pipeline/audit       — Query audit trail
 /api/rll/[id]             — RLL lifecycle management
 
-XII.D UI COMPONENTS
+XIII.D UI COMPONENTS
 ────────────────────────────────────────────────────────────
 • Pipeline Visualization — Show MEM → SCHOLAR → CORE flow
 • Ingestion Queue — Manage pending MEM ingestions
@@ -776,7 +1028,7 @@ XII.D UI COMPONENTS
 • RLL Registry — View and manage RLL lifecycle
 
 ────────────────────────────────────────────────────────────
-XIII. VERSIONING & GOVERNANCE
+XIV. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • This protocol is additive-only
 • No section may be removed
@@ -784,18 +1036,21 @@ XIII. VERSIONING & GOVERNANCE
 • Compatibility with CIV–MEM–CORE is mandatory
 
 ────────────────────────────────────────────────────────────
-XIV. GLOSSARY
+XV. GLOSSARY
 ────────────────────────────────────────────────────────────
 BER — Binding Event Record
 CORE — CIV–CORE–[CIV] governance file
 LER — Learning Event Record
 MEM — MEM–[CIV]–[SUBJECT] memory file
 NCZ — Negative Capability Zone
+OGE — Option Generation Engine
+POR — Pedagogical Observation Record
 PWQR — Post-Write Queue Record
 RLL — Recursive Learning Law
 SAR — Scholar Annotation Record
 SCHOLAR — CIV–SCHOLAR–[CIV] learning file
 SCL — Scholar Contradiction Log (preserved contradiction)
+SCR — Scholar Confidence Rating
 WCP — Write Context Package
 
 ────────────────────────────────────────────────────────────
