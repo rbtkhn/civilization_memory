@@ -28,7 +28,7 @@ This upgrade advances CIV–CORE–RUSSIA from v1.2 to v1.9.
 This upgrade performs the following actions only:
 • Binds authorized Recursive Learning Ledger (RLL) entries
 • Aligns doctrine references with CIV–DOCTRINE–RUSSIA v1.3
-• Updates governance authority to CIV–MEM–CORE v2.2
+• Updates governance authority to CIV–MEM–CORE v2.0
 • Freezes causal lineage for endurance, autocracy, and legitimacy logic
 
 This is a governance-hardening upgrade.
