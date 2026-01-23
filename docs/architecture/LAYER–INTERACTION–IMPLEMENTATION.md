@@ -366,6 +366,103 @@ CREATE INDEX IF NOT EXISTS idx_wcp_civilization ON write_context_cache(civilizat
 CREATE INDEX IF NOT EXISTS idx_wcp_session ON write_context_cache(session_id);
 ```
 
+### 1.9 Pedagogical Observation Records (POR)
+
+```sql
+-- Captures observations from IMAGINE mode for potential LEARN investigation
+CREATE TABLE IF NOT EXISTS pedagogical_observation_records (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  por_id TEXT UNIQUE NOT NULL,              -- POR–[CIV]–[SESSION]–[TIMESTAMP]
+  civilization TEXT NOT NULL,
+  session_id TEXT NOT NULL,
+  session_duration INTEGER,                 -- Duration in seconds
+  
+  -- Observation classification
+  observation_type TEXT NOT NULL CHECK(observation_type IN (
+    'EXPLANATION_GAP',
+    'CONTRADICTION_SURFACED',
+    'USER_CHALLENGE',
+    'QUESTION_CLUSTER',
+    'OPTION_SELECTION_PATTERN'
+  )),
+  
+  -- Observation content (structure varies by type)
+  observation_content TEXT NOT NULL,        -- JSON: type-specific details
+  
+  -- Related SCHOLAR content
+  related_patterns TEXT,                    -- JSON: [pattern IDs]
+  related_rlls TEXT,                        -- JSON: [RLL IDs]
+  related_scls TEXT,                        -- JSON: [SCL IDs]
+  related_mem_files TEXT,                   -- JSON: [MEM file paths]
+  
+  -- Suggested action
+  suggested_action TEXT,                    -- What LEARN might investigate
+  
+  -- User review status
+  status TEXT NOT NULL CHECK(status IN (
+    'RECORDED',
+    'REVIEWED',
+    'DISMISSED',
+    'DEFERRED',
+    'ACTED_UPON'
+  )) DEFAULT 'RECORDED',
+  
+  -- User decision (populated when reviewed)
+  user_decision TEXT,
+  decision_rationale TEXT,
+  reviewed_at INTEGER,
+  reviewed_by TEXT,
+  
+  -- LEARN action tracking (populated if ACTED_UPON)
+  resulting_ler_id TEXT REFERENCES learning_event_records(ler_id),
+  learn_task_id TEXT,                       -- If converted to LEARN task
+  
+  -- Metadata
+  created_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_por_civilization ON pedagogical_observation_records(civilization);
+CREATE INDEX IF NOT EXISTS idx_por_session ON pedagogical_observation_records(session_id);
+CREATE INDEX IF NOT EXISTS idx_por_type ON pedagogical_observation_records(observation_type);
+CREATE INDEX IF NOT EXISTS idx_por_status ON pedagogical_observation_records(status);
+```
+
+### 1.10 IMAGINE Session Registry
+
+```sql
+-- Tracks IMAGINE mode sessions for POR aggregation
+CREATE TABLE IF NOT EXISTS imagine_session_registry (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  session_id TEXT UNIQUE NOT NULL,
+  civilization TEXT NOT NULL,
+  
+  -- Session details
+  started_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now')),
+  ended_at INTEGER,
+  duration INTEGER,                         -- Calculated on session end
+  
+  -- Topics covered
+  topics TEXT,                              -- JSON: [topic descriptions]
+  mem_files_referenced TEXT,                -- JSON: [MEM file paths]
+  
+  -- Interaction summary
+  oge_options_presented INTEGER DEFAULT 0,
+  oge_options_selected INTEGER DEFAULT 0,
+  questions_asked INTEGER DEFAULT 0,
+  contradictions_surfaced INTEGER DEFAULT 0,
+  
+  -- POR summary
+  por_count INTEGER DEFAULT 0,
+  por_acted_upon INTEGER DEFAULT 0,
+  
+  -- Session status
+  status TEXT NOT NULL CHECK(status IN ('ACTIVE', 'ENDED', 'ABANDONED')) DEFAULT 'ACTIVE'
+);
+
+CREATE INDEX IF NOT EXISTS idx_imagine_session_civ ON imagine_session_registry(civilization);
+CREATE INDEX IF NOT EXISTS idx_imagine_session_status ON imagine_session_registry(status);
+```
+
 ---
 
 ## 2. TypeScript Interfaces
@@ -721,6 +818,134 @@ export interface PostWriteQueueRecord {
   
   // Priority
   priority: number;
+}
+
+// ============================================
+// SCHOLAR ↔ IMAGINE MODE INTERFACE
+// ============================================
+
+export type PORObservationType = 
+  | 'EXPLANATION_GAP'
+  | 'CONTRADICTION_SURFACED'
+  | 'USER_CHALLENGE'
+  | 'QUESTION_CLUSTER'
+  | 'OPTION_SELECTION_PATTERN';
+
+export type PORStatus = 
+  | 'RECORDED'
+  | 'REVIEWED'
+  | 'DISMISSED'
+  | 'DEFERRED'
+  | 'ACTED_UPON';
+
+export type QuestionType = 'CLARIFICATION' | 'EXTENSION' | 'CHALLENGE';
+
+// Type-specific observation content structures
+
+export interface ExplanationGapContent {
+  topic: string;
+  missingContext: string[];
+  missingConnections: string[];
+  scholarConfidenceInArea: ConfidenceLevel;
+  suggestedMemsToIngest: string[];
+}
+
+export interface ContradictionSurfacedContent {
+  contradictionDescription: string;
+  involvedPatterns: string[];
+  involvedMemFiles: string[];
+  whyNotPreviouslyVisible: string;
+  suggestedSclEntry: string;
+}
+
+export interface UserChallengeContent {
+  claimChallenged: string;
+  userCounterArgument: string;
+  userEvidence?: string;
+  affectedPattern?: string;
+  affectedMemFile?: string;
+  confidenceImpact: 'NONE' | 'MINOR' | 'SIGNIFICANT';
+}
+
+export interface QuestionClusterContent {
+  subjectArea: string;
+  questionTypes: QuestionType[];
+  frequencyInSession: number;
+  scholarCoverageOfArea: ConfidenceLevel;
+  exampleQuestions: string[];
+}
+
+export interface OptionSelectionPatternContent {
+  optionClassesSelected: string[];
+  optionClassesIgnored: string[];
+  sessionCount: number;
+  possibleImplications: string;
+}
+
+export type PORObservationContent = 
+  | ExplanationGapContent
+  | ContradictionSurfacedContent
+  | UserChallengeContent
+  | QuestionClusterContent
+  | OptionSelectionPatternContent;
+
+export interface PedagogicalObservationRecord {
+  porId: string;                    // POR–[CIV]–[SESSION]–[TIMESTAMP]
+  civilization: string;
+  sessionId: string;
+  sessionDuration?: number;
+  
+  // Observation
+  observationType: PORObservationType;
+  observationContent: PORObservationContent;
+  
+  // Related SCHOLAR content
+  relatedPatterns?: string[];
+  relatedRlls?: string[];
+  relatedScls?: string[];
+  relatedMemFiles?: string[];
+  
+  // Suggested action
+  suggestedAction?: string;
+  
+  // Status and review
+  status: PORStatus;
+  userDecision?: string;
+  decisionRationale?: string;
+  reviewedAt?: Date;
+  reviewedBy?: string;
+  
+  // LEARN action tracking
+  resultingLerId?: string;
+  learnTaskId?: string;
+  
+  createdAt: Date;
+}
+
+export type ImagineSessionStatus = 'ACTIVE' | 'ENDED' | 'ABANDONED';
+
+export interface ImagineSessionSummary {
+  sessionId: string;
+  civilization: string;
+  startedAt: Date;
+  endedAt?: Date;
+  duration?: number;
+  
+  // Topics and references
+  topics: string[];
+  memFilesReferenced: string[];
+  
+  // Interaction metrics
+  ogeOptionsPresented: number;
+  ogeOptionsSelected: number;
+  questionsAsked: number;
+  contradictionsSurfaced: number;
+  
+  // POR summary
+  porCount: number;
+  porActedUpon: number;
+  
+  status: ImagineSessionStatus;
 }
 ```
 
@@ -1276,6 +1501,217 @@ export class PostWriteQueueService {
 }
 ```
 
+### 3.8 Pedagogical Observation Service
+
+```typescript
+// lib/services/pipeline/pedagogical-observation.service.ts
+
+import type {
+  PedagogicalObservationRecord,
+  PORObservationType,
+  PORObservationContent,
+  PORStatus,
+  LearningEventRecord
+} from '@/lib/types/pipeline.types';
+
+export interface PORGenerationContext {
+  sessionId: string;
+  civilization: string;
+  observationType: PORObservationType;
+  observationContent: PORObservationContent;
+  relatedPatterns?: string[];
+  relatedRlls?: string[];
+  relatedScls?: string[];
+  relatedMemFiles?: string[];
+}
+
+export interface PORReviewAction {
+  porId: string;
+  action: 'DISMISS' | 'DEFER' | 'INVESTIGATE' | 'CONVERT_TO_TASK';
+  userId: string;
+  rationale?: string;
+}
+
+export interface InvestigationResult {
+  porId: string;
+  success: boolean;
+  resultingLer?: LearningEventRecord;
+  learnTaskId?: string;
+  errors?: string[];
+}
+
+export class PedagogicalObservationService {
+  /**
+   * Generate a POR from an IMAGINE mode observation
+   */
+  async generatePOR(context: PORGenerationContext): Promise<PedagogicalObservationRecord>;
+  
+  /**
+   * Get all PORs for a session
+   */
+  async getSessionPORs(sessionId: string): Promise<PedagogicalObservationRecord[]>;
+  
+  /**
+   * Get PORs by status for a civilization
+   */
+  async getPORsByStatus(civilization: string, status: PORStatus): Promise<PedagogicalObservationRecord[]>;
+  
+  /**
+   * Get pending PORs awaiting review
+   */
+  async getPendingReview(civilization: string): Promise<PedagogicalObservationRecord[]>;
+  
+  /**
+   * Get a specific POR
+   */
+  async getPOR(porId: string): Promise<PedagogicalObservationRecord>;
+  
+  /**
+   * Review and act on a POR
+   */
+  async reviewPOR(action: PORReviewAction): Promise<PedagogicalObservationRecord>;
+  
+  /**
+   * Dismiss a POR (observation noted but no action taken)
+   */
+  async dismissPOR(porId: string, userId: string, rationale?: string): Promise<PedagogicalObservationRecord>;
+  
+  /**
+   * Defer a POR for later review
+   */
+  async deferPOR(porId: string, userId: string): Promise<PedagogicalObservationRecord>;
+  
+  /**
+   * Trigger LEARN investigation based on POR
+   */
+  async investigatePOR(porId: string, userId: string): Promise<InvestigationResult>;
+  
+  /**
+   * Convert POR to a LEARN task (queued for future processing)
+   */
+  async convertToLearnTask(porId: string, userId: string): Promise<PedagogicalObservationRecord>;
+  
+  /**
+   * Get POR statistics for a civilization
+   */
+  async getPORStats(civilization: string): Promise<{
+    recorded: number;
+    reviewed: number;
+    dismissed: number;
+    deferred: number;
+    actedUpon: number;
+    byType: Record<PORObservationType, number>;
+  }>;
+  
+  /**
+   * Check if automatic POR generation is warranted
+   * Called during IMAGINE mode at friction points
+   */
+  async shouldGeneratePOR(
+    sessionId: string, 
+    observationType: PORObservationType,
+    context: Partial<PORObservationContent>
+  ): Promise<boolean>;
+}
+```
+
+### 3.9 IMAGINE Session Service
+
+```typescript
+// lib/services/pipeline/imagine-session.service.ts
+
+import type {
+  ImagineSessionSummary,
+  ImagineSessionStatus,
+  PedagogicalObservationRecord,
+  ConfidenceLevel
+} from '@/lib/types/pipeline.types';
+
+export interface StartSessionRequest {
+  civilization: string;
+  initialTopics?: string[];
+}
+
+export interface SessionInteraction {
+  type: 'OGE_PRESENTED' | 'OGE_SELECTED' | 'QUESTION' | 'CONTRADICTION_SURFACED';
+  details: Record<string, unknown>;
+}
+
+export interface ImagineContext {
+  // SCHOLAR state read for IMAGINE exposition
+  patterns: Array<{ patternId: string; description: string; confidence: ConfidenceLevel }>;
+  boundRlls: Array<{ rllId: string; description: string }>;
+  activeContradictions: Array<{ sclId: string; description: string }>;
+  negativeCapabilityZones: string[];
+  confidenceTopology: Record<string, ConfidenceLevel>;
+}
+
+export class ImagineSessionService {
+  /**
+   * Start a new IMAGINE session
+   */
+  async startSession(request: StartSessionRequest): Promise<ImagineSessionSummary>;
+  
+  /**
+   * Get current session
+   */
+  async getCurrentSession(sessionId: string): Promise<ImagineSessionSummary>;
+  
+  /**
+   * End an IMAGINE session
+   */
+  async endSession(sessionId: string): Promise<ImagineSessionSummary>;
+  
+  /**
+   * Abandon a session (ended abnormally)
+   */
+  async abandonSession(sessionId: string): Promise<void>;
+  
+  /**
+   * Record an interaction within the session
+   */
+  async recordInteraction(sessionId: string, interaction: SessionInteraction): Promise<void>;
+  
+  /**
+   * Add a topic to the session
+   */
+  async addTopic(sessionId: string, topic: string): Promise<void>;
+  
+  /**
+   * Add a MEM file reference to the session
+   */
+  async addMemReference(sessionId: string, memFilePath: string): Promise<void>;
+  
+  /**
+   * Get IMAGINE context (SCHOLAR state for exposition)
+   * This is the LEARN → IMAGINE read interface
+   */
+  async getImagineContext(civilization: string, topics?: string[]): Promise<ImagineContext>;
+  
+  /**
+   * Get session history for a civilization
+   */
+  async getSessionHistory(civilization: string, limit?: number): Promise<ImagineSessionSummary[]>;
+  
+  /**
+   * Get PORs generated during a session
+   */
+  async getSessionPORs(sessionId: string): Promise<PedagogicalObservationRecord[]>;
+  
+  /**
+   * Get aggregate statistics across sessions
+   */
+  async getAggregateStats(civilization: string): Promise<{
+    totalSessions: number;
+    totalDuration: number;
+    avgSessionDuration: number;
+    totalQuestionsAsked: number;
+    totalContradictionsSurfaced: number;
+    porConversionRate: number;  // % of PORs that were ACTED_UPON
+  }>;
+}
+```
+
 ---
 
 ## 4. API Routes
@@ -1409,6 +1845,87 @@ GET /api/post-write-queue/stats?civilization=RUSSIA
 POST /api/post-write-queue/process-next
   Body: { civilization: string }
   Response: ProcessingResult | null
+
+// ============================================
+// PEDAGOGICAL OBSERVATION ROUTES
+// ============================================
+
+// app/api/por/route.ts
+POST /api/por
+  Body: PORGenerationContext
+  Response: PedagogicalObservationRecord
+
+// app/api/por/route.ts
+GET /api/por?civilization=RUSSIA&status=RECORDED
+  Response: PedagogicalObservationRecord[]
+
+// app/api/por/[porId]/route.ts
+GET /api/por/[porId]
+  Response: PedagogicalObservationRecord
+
+// app/api/por/[porId]/review/route.ts
+POST /api/por/[porId]/review
+  Body: PORReviewAction
+  Response: PedagogicalObservationRecord
+
+// app/api/por/[porId]/dismiss/route.ts
+POST /api/por/[porId]/dismiss
+  Body: { rationale?: string }
+  Response: PedagogicalObservationRecord
+
+// app/api/por/[porId]/defer/route.ts
+POST /api/por/[porId]/defer
+  Response: PedagogicalObservationRecord
+
+// app/api/por/[porId]/investigate/route.ts
+POST /api/por/[porId]/investigate
+  Response: InvestigationResult
+
+// app/api/por/[porId]/convert-to-task/route.ts
+POST /api/por/[porId]/convert-to-task
+  Response: PedagogicalObservationRecord
+
+// app/api/por/stats/route.ts
+GET /api/por/stats?civilization=RUSSIA
+  Response: { recorded, reviewed, dismissed, deferred, actedUpon, byType }
+
+// ============================================
+// IMAGINE SESSION ROUTES
+// ============================================
+
+// app/api/imagine-session/route.ts
+POST /api/imagine-session
+  Body: StartSessionRequest
+  Response: ImagineSessionSummary
+
+// app/api/imagine-session/route.ts
+GET /api/imagine-session?civilization=RUSSIA&limit=10
+  Response: ImagineSessionSummary[]
+
+// app/api/imagine-session/[sessionId]/route.ts
+GET /api/imagine-session/[sessionId]
+  Response: ImagineSessionSummary
+
+// app/api/imagine-session/[sessionId]/end/route.ts
+POST /api/imagine-session/[sessionId]/end
+  Response: ImagineSessionSummary
+
+// app/api/imagine-session/[sessionId]/interaction/route.ts
+POST /api/imagine-session/[sessionId]/interaction
+  Body: SessionInteraction
+  Response: void
+
+// app/api/imagine-session/[sessionId]/pors/route.ts
+GET /api/imagine-session/[sessionId]/pors
+  Response: PedagogicalObservationRecord[]
+
+// app/api/imagine-session/context/route.ts
+GET /api/imagine-session/context?civilization=RUSSIA&topics=reform,succession
+  Response: ImagineContext
+
+// app/api/imagine-session/stats/route.ts
+GET /api/imagine-session/stats?civilization=RUSSIA
+  Response: { totalSessions, totalDuration, avgSessionDuration, ... }
 ```
 
 ---
