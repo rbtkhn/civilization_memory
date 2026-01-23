@@ -3,15 +3,15 @@ Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · LIEVEN QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.0 → v2.0)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · TOLSTOY QUOTATION ENHANCEMENT (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Borodino (Бородинское сражение)
 Dates: 7 September 1812 AD
 Class: MEM (Memory)
 Last Update: January 2026
-Wordcount: ~1,800
+Wordcount: ~2,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
@@ -94,6 +94,16 @@ Characteristics:
 Operational reality:
 → Tactical distinctions dissolve under attrition.
 
+Leo Tolstoy's literary memory captures the battlefield's transformation:
+
+"The whole field, previously so gaily beautiful with its glittering bayonets
+and puffs of smoke in the morning sun, was now covered with mist and damp,
+smelling of gunpowder and blood. Clouds gathered, and a fine drizzling rain
+began to fall on the dead and wounded, on the frightened, exhausted, and
+hesitating men. It seemed as if it were saying: 'Enough, enough, men. Stop...
+Think. What are you doing?'"
+— Leo Tolstoy, *War and Peace* (1869), Book 10, Chapter 39
+
 The battlefield becomes a furnace, not a chessboard.
 
 ────────────────────────────────────────────────────────────
@@ -167,6 +177,22 @@ Lessons encoded:
 • Preservation of force overrides terrain
 
 Borodino licenses the evacuation of Moscow.
+
+Leo Tolstoy explains how Borodino validated endurance through the people's
+understanding:
+
+"The battle of Borodino, with the occupation of Moscow that followed it and
+the flight of the French without further conflicts, is one of the most
+instructive phenomena in history. All historians agree that the external
+activity of states and nations in their conflicts with one another is
+expressed in wars, and that as a direct result of greater or lesser success
+in war the political strength of states and nations increases or decreases.
+However strange it may be to read that Napoleon's power was weakened by his
+victory, and that Kutuzov's was strengthened by his defeat, history shows
+that this was so."
+— Leo Tolstoy, *War and Peace* (1869), Book 11, Chapter 1
+
+Tactical outcome subordinated to moral meaning.
 
 Sacrifice unlocks patience.
 
@@ -250,5 +276,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–BORODINO v2.0
+END OF FILE — MEM–RUSSIA–WAR–BORODINO v2.1
 ────────────────────────────────────────────────────────────

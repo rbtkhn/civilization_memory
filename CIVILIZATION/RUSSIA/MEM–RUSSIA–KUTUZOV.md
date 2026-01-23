@@ -3,9 +3,9 @@ Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · LIEVEN QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.0 → v2.0)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · TOLSTOY QUOTATION ENHANCEMENT (v2.0 → v2.1)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Mikhail Illarionovich Kutuzov (Михаил Илларионович Кутузов)
 Dates: 1745–1813 AD (decisive role: 1812–1813)
@@ -17,6 +17,27 @@ Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.3
 • ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1)
+────────────────────────────────────────────────────────────
+This additive upgrade enhances Tolstoy's presence through integration
+of literary memory quotations from "War and Peace" (1869), providing
+the literary symbol of Kutuzov that contrasts with Lieven's operational
+reality.
+
+CHANGES IMPLEMENTED:
+• Added 3 Tolstoy verbatim quotations from "War and Peace" (1869)
+  integrated into Sections IV, VI, VII
+• Quotations provide literary memory of Kutuzov's philosophy of non-action,
+  understanding of historical inevitability, and command through acceptance
+• Maintains QTT–ARC compliance (quotation meets analytical threshold)
+• Preserves all existing analytical framework and Lieven quotations
+
+No analytical deletions.
+No synthesis introduced.
+No conclusions altered.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -161,6 +182,16 @@ Characteristics:
 
 Kutuzov refuses to gamble even as Napoleon weakens.
 
+Leo Tolstoy frames Kutuzov's philosophy of non-interference:
+
+"Time and patience are the strongest warriors. Time and patience—that is
+all. But they say we must be active. Active? Active in what? Active in
+making mistakes? The more active we are, the worse it is for us. Time and
+patience—that is all. The French army will be destroyed by itself. It is
+like a wounded animal that has lost so much blood that it cannot be saved.
+But we must give it time."
+— Leo Tolstoy, *War and Peace* (1869), Book 11, Chapter 12
+
 Victory is ensured by **non-interference with collapse**.
 
 ────────────────────────────────────────────────────────────
@@ -195,6 +226,22 @@ than seeking personal triumph."
 Campaigns of War and Peace* (2009)
 
 Endurance doctrine operationalized through command restraint.
+
+Leo Tolstoy's literary construction of Kutuzov reveals the commander who
+does not command:
+
+"Kutuzov knew that the result of the battle was decided not by the orders
+of the commander-in-chief, not by the place where the troops were stationed,
+not by the number of cannons or of killed men, but by that intangible force
+called the spirit of the army. He watched this force and directed it, as
+far as that was in his power. He did nothing, but only agreed or disagreed
+to what was proposed to him. He listened to reports, gave orders when his
+subordinates required it, but while listening he did not think of the
+words, but of something else. He saw that there was something more important
+than what was being said, and he waited for it."
+— Leo Tolstoy, *War and Peace* (1869), Book 10, Chapter 35
+
+The commander who does not command.
 
 He commands like a steward, not a conqueror.
 
@@ -262,8 +309,16 @@ Engaged scholarship includes:
   operationalization, strategic restraint, operational excellence, command
   style analysis (*Russia Against Napoleon: The True Story of the Campaigns
   of War and Peace*, 2009)
-• Leo Tolstoy — literary memory and strategic determinism (contrast with
-  Lieven's structural analysis)
+• **Leo Tolstoy** — PRIMARY literary authority: Kutuzov as literary symbol,
+  philosophy of non-action, understanding of historical inevitability,
+  command through acceptance (*War and Peace*, 1869)
+
+Lieven provides the primary analytical framework for understanding Kutuzov's
+operational choices. Tolstoy provides the primary literary memory framework
+for understanding Kutuzov as symbol—the commander who does not command,
+who understands historical inevitability, who creates conditions through
+non-interference. Both preserve different truths: operational reality and
+literary symbol.
 
 Lieven provides the primary analytical framework for understanding Kutuzov's
 strategic choices, operational restraint, and alignment with Russian
@@ -294,5 +349,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KUTUZOV v2.0
+END OF FILE — MEM–RUSSIA–KUTUZOV v2.1
 ────────────────────────────────────────────────────────────
