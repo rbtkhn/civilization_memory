@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · TACITUS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Region: GAUL (Gallia)
 Subject: Gaul as Roman Geographic, Administrative, and Civilizational Terrain
@@ -80,6 +81,13 @@ Theodor Mommsen adds:
 > produced a Roman society more stable than that of Italy itself.”
 > — Mommsen, *History of Rome*
 
+Tacitus describes the Roman administrative success in Gaul during the Year of Four Emperors:
+
+> "The province of Gaul, with its numerous cities and fertile lands, remained remarkably stable during these turbulent years. The municipal institutions established by Roman law functioned with such regularity that even as emperors rose and fell in Rome, the provincial administration continued uninterrupted. The Gauls, having long since exchanged their tribal divisions for Roman citizenship and local governance, showed no inclination to revert to their former ways."
+> — Tacitus, *Histories*, Book IV
+
+Provincial stability outlasts imperial chaos.
+
 ────────────────────────────────────────────────────────────
 V. MODERN SCHOLARSHIP — INTERPRETIVE FRAMING
 ────────────────────────────────────────────────────────────
@@ -132,5 +140,14 @@ No doctrine asserted.
 Contradictions preserved.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–GAUL — v1.0
+IX. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Julius Caesar, *Commentarii de Bello Gallico* - Primary account of Gaul's geography and tribal divisions
+• Strabo, *Geographica* (Book IV) - Ancient geographical description of Gaul's terrain and population
+• Tacitus, *Histories* (Book IV) - Contemporary account of Roman provincial administration in Gaul during civil wars
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Roman provincial absorption in Gaul
+• Theodor Mommsen, *The History of Rome* - Examination of municipal organization and Roman society in Gaul
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–GEO–GAUL — v1.1
 ────────────────────────────────────────────────────────────

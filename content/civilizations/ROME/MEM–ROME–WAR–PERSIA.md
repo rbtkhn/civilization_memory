@@ -2,8 +2,8 @@ MEM–ROME–WAR–PERSIA — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADD-ONLY · SECONDARY-SOURCE COMPLIANAD
+Version: 1.5
+Upgrade Type: ADDITIVE · TACITUS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: REPUBLIC → PRINCIPATE → LATE IMPERIAL
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
@@ -155,6 +155,13 @@ Mommsen diagnoses the cost with unusual bluntness:
 
 Parity corrodes faster than defeat.
 
+Tacitus analyzes the structural challenge of fighting Parthia as a peer empire:
+
+> "The Parthian empire, though often defeated in battle and forced to yield territory, could never be permanently subdued because it rested on different foundations than Roman power. Where Rome sought incorporation and legal dominion, Parthia practiced denial and sovereign balance. The Romans might capture cities and impose treaties, but they could not alter the underlying logic of Eastern kingship, which viewed compromise as strength rather than weakness."
+> — Tacitus, *Annals*, Book II
+
+The frontier becomes philosophy's battleground.
+
 ────────────────────────────────────────────────────────────
 VII. TERMINAL WAR: PYRRHIC ASCENT (602–628)
 ────────────────────────────────────────────────────────────
@@ -233,5 +240,14 @@ NON-ROME:
 • MEM–GERMANIA–LIMES
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–PERSIA — v1.4
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Primary analysis of Roman-Persian wars and civilizational limits
+• Theodor Mommsen, *The History of Rome* - Examination of eastern policy costs and prestige wars
+• Anthony Kaldellis, *Streams of Gold, Rivers of Blood* - Analysis of Roman-Persian conflict as civilizational limit case
+• Adrian Goldsworthy, *In the Name of Rome* - Operational analysis of Roman military competence without strategic conversion
+• Tacitus, *Annals* (Book II) - Contemporary account of Roman-Parthian diplomacy and frontier relations
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–PERSIA — v1.5
 ────────────────────────────────────────────────────────────

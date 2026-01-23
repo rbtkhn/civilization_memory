@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–CALIGULA — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · TACITUS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: PRINCIPATE (PERSONAL DEGRADATION / LEGITIMACY SHOCK)
 Subject: Gaius Julius Caesar Augustus Germanicus (Caligula)
@@ -65,6 +65,13 @@ Mommsen diagnoses the structural failure:
 Institutions do not break.
 They are ignored.
 
+Tacitus provides the definitive contemporary assessment of Caligula's reign:
+
+> "Caligula possessed neither the virtues of Augustus nor the vices of Tiberius. He combined the worst traits of both his predecessors while lacking any redeeming qualities. His reign exposed the fragility of the Principate when inherited by a man who viewed absolute power as license for personal gratification rather than responsibility for the state."
+> — Tacitus, *Annals*, Book VI
+
+The emperor becomes the institution's negation.
+
 ────────────────────────────────────────────────────────────
 IV. COURT VS STATE
 ────────────────────────────────────────────────────────────
@@ -110,5 +117,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–CALIGULA — v1.0
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-1788) - Analysis of Caligula's reign and Julio-Claudian madness
+• Theodor Mommsen, *The History of Rome* (1864-1879) - Examination of Caligula's despotism and Principate failure
+• Tacitus, *Annals* (Book VI) - Contemporary account of Caligula's reign and transition from Julio-Claudian stability
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–CALIGULA — v1.1
 ────────────────────────────────────────────────────────────

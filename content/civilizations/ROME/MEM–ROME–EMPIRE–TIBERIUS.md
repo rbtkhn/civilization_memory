@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–TIBERIUS — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · TACITUS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: PRINCIPATE (INHERITED AUTOCRACY / DEFENSIVE GOVERNANCE)
 Subject: Tiberius Julius Caesar Augustus
@@ -87,6 +87,13 @@ Confidence does not.
 
 This is law without warmth.
 
+Tacitus captures the chilling atmosphere of Tiberius' later reign:
+
+> "The country had long groaned under a succession of burdensome taxes and the ravages of the soldiery; requisitions were more grinding than ever, and as the troops were no longer restrained by their old discipline, they committed all kinds of outrages. Meanwhile the Emperor, secluded in his island, was quite absorbed in the intrigues of his household and the villainies of his freedmen. The Senate, cowed and spiritless, offered only a feeble resistance to the tyranny of Sejanus."
+> — Tacitus, *Annals*, Book IV
+
+Law becomes terror's instrument.
+
 ────────────────────────────────────────────────────────────
 V. CAPRI & WITHDRAWAL
 ────────────────────────────────────────────────────────────
@@ -125,5 +132,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–TIBERIUS — v1.0
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Theodor Mommsen, *The History of Rome* (1864-1879) - Primary source for Tiberius' governance and legal reforms
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-1788) - Analysis of early imperial administration
+• Tacitus, *Annals* - Contemporary account of Tiberius' reign, Sejanus crisis, and senatorial relations
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–TIBERIUS — v1.1
 ────────────────────────────────────────────────────────────

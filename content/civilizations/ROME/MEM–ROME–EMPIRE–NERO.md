@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–NERO — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · TACITUS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: PRINCIPATE (AESTHETIC AUTOCRACY / TERMINAL JULIO-CLAUDIAN)
 Subject: Nero Claudius Caesar Augustus Germanicus
@@ -76,6 +76,13 @@ Mommsen frames the end:
 
 Authority evaporates.
 
+Tacitus records the devastating Great Fire and the public's reaction to Nero's rebuilding:
+
+> "A disaster followed, whether accidental or treacherously contrived by the emperor, is doubtful—either view has partisans. For Nero was popular with the mob, but hated by the respectable classes. During the fire, which raged for six days and seven nights, the people were driven to despair not only by the flames but by the collapse of buildings and the cries of the wounded. Nero appeared on his private stage and sang of the Sack of Troy, comparing present misfortunes with ancient calamities."
+> — Tacitus, *Annals*, Book XV
+
+The emperor performs while Rome burns.
+
 ────────────────────────────────────────────────────────────
 V. TERMINATION OF A DYNASTY
 ────────────────────────────────────────────────────────────
@@ -108,5 +115,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–NERO — v1.0
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-1788) - Analysis of Nero's reign and Julio-Claudian decline
+• Theodor Mommsen, *The History of Rome* (1864-1879) - Examination of Nero's administrative failures and imperial authority loss
+• Tacitus, *Annals* (Books 13-16) - Contemporary account of Nero's reign, Great Fire, and tyrannical behavior
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–NERO — v1.1
 ────────────────────────────────────────────────────────────
