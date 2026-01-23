@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN CONTINUITY)
 Subject: Heraclius as Last Universal Emperor and Architect of Survival Transition
-Dates: AD 610–641
+Dates: CE 610–641
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350
@@ -29,7 +29,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. IMPERIAL INHERITANCE — STATE AT THE EDGE OF EXTINCTION
 ────────────────────────────────────────────────────────────
-When Heraclius seizes power in AD 610, the Roman Empire faces systemic
+When Heraclius seizes power in CE 610, the Roman Empire faces systemic
 collapse.
 
 Conditions include:
@@ -77,7 +77,7 @@ IV. STRATEGIC REVERSAL — THE PERSIAN WAR
 ────────────────────────────────────────────────────────────
 Heraclius’ defining achievement is the reversal of the Sassanian war.
 
-Between AD 622–628:
+Between CE 622–628:
 • He abandons static defense
 • Conducts deep-field campaigning
 • Exploits Persian internal weakness
@@ -150,8 +150,8 @@ Survival is achieved at the price of **irreversibility**.
 VIII. THE ISLAMIC CONQUESTS — STRUCTURAL AFTERSHOCK
 ────────────────────────────────────────────────────────────
 Within a decade of Heraclius’ victory:
-• Syria falls (AD 637)
-• Egypt falls (AD 641)
+• Syria falls  (CE 637)
+• Egypt falls  (CE 641)
 • Persian collapse creates power vacuum
 
 These losses are not tactical failures.

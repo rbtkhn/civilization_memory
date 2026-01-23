@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Thirty Years’ War
-Dates: 1618–1648 AD
+Dates: 1618–1648 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400

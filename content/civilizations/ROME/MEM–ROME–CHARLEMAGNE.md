@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: ROME
 Subject: Charlemagne (Carolus Magnus)
-Dates: c. 742–814 AD
+Dates: c. 742–814 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -35,7 +35,7 @@ From this view, Charlemagne does not inherit empire—he **duplicates** it.
 ────────────────────────────────────────────────────────────
 III. PAPAL CORONATION AS LEGITIMACY BREACH
 ────────────────────────────────────────────────────────────
-The coronation of 800 AD is treated as a unilateral act.
+The coronation of 800 CE is treated as a unilateral act.
 
 Roman interpretation:
 • Papacy exceeds ecclesiastical mandate

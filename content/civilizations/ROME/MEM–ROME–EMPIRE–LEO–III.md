@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / ISAURO–REFORM PHASE)
 Subject: Leo III the Isaurian as Emperor of Defensive Consolidation and Doctrinal Statecraft
-Dates: AD 717–741
+Dates: CE 717–741
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450

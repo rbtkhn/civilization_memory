@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Crimean War (Restored Prestige, Alliance Leadership, and Illusory Renewal)
-Dates: 1853–1856 AD
+Dates: 1853–1856 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

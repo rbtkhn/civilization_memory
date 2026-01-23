@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANCE
 Civilization: ANGLIA
 Subject: Battle of Agincourt (Asymmetric Victory & Strategic Restraint)
-Dates: 1415 AD
+Dates: 1415 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

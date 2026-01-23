@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE HARDENING · ARC ALIGNMENT · SOURCE INTEGRATION · GEO
 Civilization: ROME
 Regime: IMPERIAL ADMINISTRATION / EASTERN METROPOLIS
 Subject: Antioch (Syria)
-Dates: 300 BC – AD 637
+Dates: 300 BCE–CE 637
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,900
@@ -182,7 +182,7 @@ Antioch is an **edge-of-capacity node**.
 ────────────────────────────────────────────────────────────
 IX. FALL & LEGACY
 ────────────────────────────────────────────────────────────
-Antioch falls to Muslim forces in AD 637.
+Antioch falls to Muslim forces in CE 637.
 
 By this point:
 • Roman authority is reactive

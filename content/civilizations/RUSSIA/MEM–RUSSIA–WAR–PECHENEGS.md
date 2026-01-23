@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pecheneg Wars (Печенежские войны) — Steppe Frontier Architecture
-Dates: 915–1036 AD (major conflicts: 968–1036)
+Dates: 915–1036 CE (major conflicts: 968–1036)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200
@@ -164,21 +164,21 @@ IX. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied:
 
 ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "In the year 6406 (898 AD), the Pechenegs came to the Dnieper for the first time. Having made peace with the Russians, they passed through to the Danube, and there they fought with the Bulgars and made peace with them also." (Primary Chronicle, Laurentian Codex, 898 AD - 52 words)
+1. "In the year 6406 (898 CE), the Pechenegs came to the Dnieper for the first time. Having made peace with the Russians, they passed through to the Danube, and there they fought with the Bulgars and made peace with them also." (Primary Chronicle, Laurentian Codex, 898 CE)
 
-2. "In the year 6454 (946 AD), the Pechenegs came to the Dnieper. Sviatoslav was then in Pereyaslavets. His mother Olga shut herself up in the city with her grandsons Yaropolk, Oleg, and Vladimir. The Pechenegs surrounded the city with a great host. The citizens were in great distress from hunger and thirst." (Primary Chronicle - 68 words)
+2. "In the year 6454 (946 CE), the Pechenegs came to the Dnieper. Sviatoslav was then in Pereyaslavets. His mother Olga shut herself up in the city with her grandsons Yaropolk, Oleg, and Vladimir. The Pechenegs surrounded the city with a great host. The citizens were in great distress from hunger and thirst." (Primary Chronicle)
 
-3. "The Pechenegs are a Scythian people... they do not till the soil nor do they have any dwelling place, but they live in wagons with their children and wives, and they pasture their flocks winter and summer by the river Don." (Constantine Porphyrogenitus, De Administrando Imperio, 10th century - 55 words)
+3. "The Pechenegs are a Scythian people... they do not till the soil nor do they have any dwelling place, but they live in wagons with their children and wives, and they pasture their flocks winter and summer by the river Don." (Constantine Porphyrogenitus, De Administrando Imperio, 10th century)
 
 MEDIEVAL (≥2 quotations):
-1. "Yaroslav assembled a great host and went forth to meet them at the river Alta. There was a great battle, and Yaroslav defeated the Pechenegs utterly, driving them from the Russian land. Many Pechenegs drowned in the river, and their khan was slain." (Novgorod First Chronicle, 15th century - 58 words)
+1. "Yaroslav assembled a great host and went forth to meet them at the river Alta. There was a great battle, and Yaroslav defeated the Pechenegs utterly, driving them from the Russian land. Many Pechenegs drowned in the river, and their khan was slain." (Novgorod First Chronicle, 15th century)
 
-2. "The Pechenegs, having been defeated by the Russians, fled beyond the Danube, and there they were attacked by the Uzes, who drove them from their pastures and compelled them to seek refuge in the theme of Bulgaria." (John Skylitzes, Synopsis Historion, 11th century - 45 words)
+2. "The Pechenegs, having been defeated by the Russians, fled beyond the Danube, and there they were attacked by the Uzes, who drove them from their pastures and compelled them to seek refuge in the theme of Bulgaria." (John Skylitzes, Synopsis Historion, 11th century)
 
 MODERN (≥2 quotations):
-1. "The Pecheneg threat fundamentally altered the military organization of Kievan Rus', forcing the development of permanent defensive fortifications and mercenary forces that would become characteristic of Russian military institutions for centuries thereafter." (Simon Franklin & Jonathan Shepard, The Emergence of Rus 750-1200, 1996 - 48 words)
+1. "The Pecheneg threat fundamentally altered the military organization of Kievan Rus', forcing the development of permanent defensive fortifications and mercenary forces that would become characteristic of Russian military institutions for centuries thereafter." (Simon Franklin & Jonathan Shepard, The Emergence of Rus 750-1200, 1996)
 
-2. "Archaeological evidence reveals a network of fortified settlements along the southern frontier of Kievan Rus', demonstrating the institutional depth of the Pecheneg-induced military transformation that created the defensive architecture persisting through Mongol and Tatar periods." (George Vernadsky, Kievan Russia, 1948 - 52 words)
+2. "Archaeological evidence reveals a network of fortified settlements along the southern frontier of Kievan Rus', demonstrating the institutional depth of the Pecheneg-induced military transformation that created the defensive architecture persisting through Mongol and Tatar periods." (George Vernadsky. Kievan Russia, 1948)
 
 Primary Sources:
 • Russian Primary Chronicle (Tale of Bygone Years)

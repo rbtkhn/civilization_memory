@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Mexican War (Imperial Projection, Universalism Failure, and Coalition Blindness)
-Dates: 1861–1867 AD
+Dates: 1861–1867 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

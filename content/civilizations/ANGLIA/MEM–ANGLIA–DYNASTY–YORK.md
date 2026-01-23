@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Dynasty: House of York
-Dates: 1461–1485 AD
+Dates: 1461–1485 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

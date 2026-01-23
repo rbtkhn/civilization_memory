@@ -7,7 +7,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 FULL COMPLIANCE
 Civilization: ROME
 Regime: LATE REPUBLIC → PRINCIPATE → HIGH IMPERIAL
 Subject: Roman–Parthian Conflict as Asymmetric Peer War
-Dates: 53 BC – AD 224
+Dates: 53 BCE–CE 224
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,700
@@ -55,7 +55,7 @@ Strabo identifies the structural challenge directly:
 Rome faces a system designed to **refuse decision**.
 
 ────────────────────────────────────────────────────────────
-III. CARRHAE (53 BC): DOCTRINAL SHOCK
+III. CARRHAE (53 BCE): DOCTRINAL SHOCK
 ────────────────────────────────────────────────────────────
 The defeat of Crassus at Carrhae marks Rome’s first catastrophic failure
 against a non-Mediterranean power.
@@ -179,7 +179,7 @@ Parthia masters **anti-Roman warfare**.
 ────────────────────────────────────────────────────────────
 IX. TRANSITION TO SASANIAN PERSIA
 ────────────────────────────────────────────────────────────
-In AD 224, the Sasanian dynasty replaces Parthia.
+In CE 224, the Sasanian dynasty replaces Parthia.
 
 What changes:
 • Centralization

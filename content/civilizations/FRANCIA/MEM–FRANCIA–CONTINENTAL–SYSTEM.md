@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Continental System (Blocus continental)
-Dates: 1806–1814 AD
+Dates: 1806–1814 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

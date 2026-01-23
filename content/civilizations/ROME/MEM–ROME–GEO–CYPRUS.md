@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.2
 Upgrade Type: COMPLIANCE HARDENING · ARC QUOTATION INTEGRATION (NO ANALYTICAL DRIFT)
 Civilization: ROME
-Regime: EASTERN OUTPOST / COMMODITY–SECURITY NODE (58 BC–Late Antiquity)
+Regime: EASTERN OUTPOST / COMMODITY–SECURITY NODE (58 BCE–Late Antiquity)
 Subject: Cyprus
 Dates: Hellenistic era–Late Antiquity
 Class: MEM (Memory)
@@ -48,7 +48,7 @@ vacuum awaiting Roman creation.
 ────────────────────────────────────────────────────────────
 III. ROMAN ANNEXATION & EASTERN SECURITY
 ────────────────────────────────────────────────────────────
-Rome annexed Cyprus in 58 BC as a preventive security consolidation.
+Rome annexed Cyprus in 58 BCE as a preventive security consolidation.
 The logic was denial rather than expansion.
 
 Cassius Dio frames the annexation in explicitly strategic terms:

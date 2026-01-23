@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: Charles Darwin (Natural Selection and the Decentering of Design)
-Dates: 1809–1882 AD
+Dates: 1809–1882 CE
 Class: MEM (Memory)
 Last Update: January 2026
 

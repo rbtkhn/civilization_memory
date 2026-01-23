@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Carpathian Mountains (Карпаты)
-Dates: c. 1000 AD–present (medieval interaction to modern boundary)
+Dates: c. 1000 CE–present (medieval interaction to modern boundary)
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
@@ -138,7 +138,7 @@ IX. SOURCE QUOTATIONS
 
 CATEGORY A — ANCIENT:
 
-Herodotus, *Histories*, Book IV (c. 440 BC), on the geography of Scythia
+Herodotus, *Histories*, Book IV (c. 440 BCE), on the geography of Scythia
 and the peoples of the region:
 "Beyond the Scythians, toward the setting sun, the land extends to the
 mountains that mark the boundary of the known world. These mountains are
@@ -153,7 +153,7 @@ boundaries and watersheds in the region that would later become the
 Carpathian frontier, providing historical context for the geographic
 concept of mountain boundaries in Russian expansion.
 
-Strabo, *Geography*, Book VII (c. 20 BC), on the geography of Europe and
+Strabo, *Geography*, Book VII (c. 20 BCE), on the geography of Europe and
 the boundaries of known regions:
 "The mountains that separate the northern regions from the lands to the
 south are said to extend in an arc, forming a natural boundary. These
@@ -169,7 +169,7 @@ understanding how the Carpathians would later function as both geographic
 divide and source of river systems flowing into Russian-controlled
 territories.
 
-Pliny the Elder, *Natural History*, Book IV (c. 77 AD), on the geography
+Pliny the Elder, *Natural History*, Book IV (c. 77 CE), on the geography
 of Europe:
 "The mountains that form the boundary between the northern and southern
 regions of Europe extend in a great arc. These mountains are forested
@@ -187,7 +187,7 @@ zone in Russian expansion, with river systems enabling movement and trade.
 
 CATEGORY B — MEDIEVAL:
 
-Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950 AD),
+Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950 CE),
 on the geography of the northern regions and the boundaries of Rus':
 "Beyond the lands of the Rus', toward the setting sun, there are mountains
 that extend in an arc. These mountains mark the boundary between the
@@ -203,7 +203,7 @@ providing context for how the mountains functioned as both geographic
 divide and contact zone in medieval Russian expansion, establishing the
 structural pattern of mountain-as-boundary.
 
-Ibn Fadlan, *Risala* (c. 922 AD), on the geography of the Volga region
+Ibn Fadlan, *Risala* (c. 922 CE), on the geography of the Volga region
 and the lands to the west:
 "Beyond the land of the Bulgars, toward the setting sun, there are
 mountains that form a barrier. These mountains are not high but serve

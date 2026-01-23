@@ -7,7 +7,7 @@ Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
 Opposing Civilization: FRANCIA
 Conflict: Franco–Prussian War
-Dates: 1870–1871 AD
+Dates: 1870–1871 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,750

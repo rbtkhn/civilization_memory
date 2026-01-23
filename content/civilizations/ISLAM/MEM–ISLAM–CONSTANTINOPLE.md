@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
 Version: 1.0
 Civilization: ISLAM
-Regime: IMPERIAL CONQUEST / LEGITIMACY TRANSLATION (1453 AD →)
+Regime: IMPERIAL CONQUEST / LEGITIMACY TRANSLATION (1453 CE →)
 Subject: Constantinople (Istanbul)
-Dates: 1453 AD onward
+Dates: 1453 CE onward
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → POST-ROMAN CONTINUITY
 Subject: Pyrenees Mountains (Barrier, Filter, and Civilizational Boundary)
-Dates: Antiquity – Medieval Continuity
+Dates: Antiquity–Medieval Continuity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,300
@@ -130,7 +130,7 @@ Alps:
 • Multidirectional passes
 • Imperial crossroads
 • High shock transmission
-• Core instability (see MEM–ROME–GEO–ALPS)
+• Core instability (See MEM–ROME–GEO–ALPS)
 
 Pyrenees:
 • Fewer controlled passages

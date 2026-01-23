@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–CLAUDIUS — v1.2
 Civilization: ROME  
 Regime: IMPERIAL ADMINISTRATION / BUREAUCRATIC EXPANSION  
 Subject: Tiberius Claudius Caesar Augustus Germanicus (Claudius)  
-Dates: 10 BC – AD 54  
+Dates: 10 BCE–CE 54  
 Class: MEM (Memory)  
 Last Update: January 2026  
 Word Count: ~2,300  
@@ -30,7 +30,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. ACCESSION BY ANOMALY
 ────────────────────────────────────────────────────────────
-Claudius ascends power after Caligula’s assassination (AD 41) through
+Claudius ascends power after Caligula’s assassination  (CE 41) through
 institutional necessity rather than acclaim.
 
 Suetonius records the moment with deliberate irony, emphasizing confusion
@@ -98,7 +98,7 @@ Rome becomes less personal—and more durable.
 ────────────────────────────────────────────────────────────
 IV. BRITAIN: EXPANSION WITHOUT ROMANCE
 ────────────────────────────────────────────────────────────
-The conquest of Britain (AD 43) exemplifies Claudius’ style.
+The conquest of Britain  (CE 43) exemplifies Claudius’ style.
 
 Cassius Dio emphasizes motive over drama:
 

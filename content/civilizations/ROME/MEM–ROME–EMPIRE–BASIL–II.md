@@ -7,7 +7,7 @@ Upgrade Type: ARC COMPLIANCE REISSUE (NO STRUCTURAL CHANGE)
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY (MACEDONIAN DYNASTY)
 Subject: Basil II “the Bulgar-Slayer”
-Dates: 958–1025 AD
+Dates: 958–1025 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300

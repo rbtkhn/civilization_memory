@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–CONSTANTINOPLE–HAGIA–SOPHIA — v1.0
 Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
 Subject: Hagia Sophia as Architectural Statecraft
-Dates: AD 532–537 (construction)
+Dates: CE 532–537 (construction)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050
@@ -33,7 +33,7 @@ Contradictions are preserved without synthesis.
 II. JUSTINIAN’S IMPERIAL INTENT
 ────────────────────────────────────────────────────────────
 Hagia Sophia was commissioned by Emperor Justinian I immediately after
-the Nika Riots (AD 532), an urban uprising that exposed the fragility of
+the Nika Riots  (CE 532), an urban uprising that exposed the fragility of
 imperial legitimacy in Constantinople.
 
 Procopius records Justinian’s response in unmistakably political terms:

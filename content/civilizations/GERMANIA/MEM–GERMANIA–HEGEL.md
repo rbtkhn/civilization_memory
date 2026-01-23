@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Georg Wilhelm Friedrich Hegel
-Dates: 1770–1831 AD
+Dates: 1770–1831 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

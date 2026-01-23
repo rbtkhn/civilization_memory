@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–CITY — v1.0
 Civilization: ROME
 Regime: MONARCHIC → REPUBLICAN → IMPERIAL → POST-IMPERIAL CONTINUITY
 Subject: The City of Rome (Urbs as Authority Engine)
-Dates: c. 753 BC – Present (civilizational afterlife)
+Dates: c. 753 BCE–Present (civilizational afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,700

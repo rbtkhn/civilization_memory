@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.1 → v1.2)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas II (Николай II)
-Dates: 1868–1918 AD (rule: 1894–1917)
+Dates: 1868–1918 CE (rule: 1894–1917)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,500

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: Appomattox (Procedural Termination & Legitimacy Preservation)
-Dates: April 9, 1865 AD
+Dates: April 9, 1865 CE
 Class: MEM (Memory)
 Last Update: January 2026
 

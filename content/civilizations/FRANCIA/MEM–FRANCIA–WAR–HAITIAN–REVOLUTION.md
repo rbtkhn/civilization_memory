@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Haitian Revolution (Universalism, Race, and Imperial Contradiction)
-Dates: 1791–1804 AD
+Dates: 1791–1804 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,900

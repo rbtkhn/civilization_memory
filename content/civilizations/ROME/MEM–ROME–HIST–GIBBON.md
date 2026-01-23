@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–GIBBON — v1.0
 Civilization: ROME (RETROSPECTIVE / HISTORIOGRAPHICAL)
 Regime: ENLIGHTENMENT INTERPRETATION
 Subject: Edward Gibbon
-Dates: 1737–1794 AD
+Dates: 1737–1794 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300

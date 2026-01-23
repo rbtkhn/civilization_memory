@@ -6,7 +6,7 @@ Version: 1.2
 Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
 Civilization: GERMANIA
 Subject: Thirty Years’ War
-Dates: 1618–1648 AD
+Dates: 1618–1648 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350

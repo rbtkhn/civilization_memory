@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE HARDENING · ARC–ROME ALIGNMENT · GEOMETRIC INTEGRAT
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL
 Subject: The Adriatic Sea
-Dates: Early Roman expansion – Late Imperial era
+Dates: Early Roman expansion–Late Imperial era
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

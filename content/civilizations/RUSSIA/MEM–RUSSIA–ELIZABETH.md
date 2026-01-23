@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 �
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Elizabeth Petrovna (Елизавета Петровна)
-Dates: 1709–1762 AD (rule: 1741–1762)
+Dates: 1709–1762 CE (rule: 1741–1762)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,000

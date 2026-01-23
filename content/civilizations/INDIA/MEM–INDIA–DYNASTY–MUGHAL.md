@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Mughal Dynasty
-Dates: 1526–1857 AD
+Dates: 1526–1857 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

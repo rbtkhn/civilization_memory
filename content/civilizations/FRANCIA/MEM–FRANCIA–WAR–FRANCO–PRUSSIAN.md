@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
 Civilization: FRANCIA
 Opposing Civilization: GERMANIA
 Conflict: Franco–Prussian War
-Dates: 1870–1871 AD
+Dates: 1870–1871 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450

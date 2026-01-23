@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: War of the Austrian Succession (French Perspective)
-Dates: 1740–1748 AD
+Dates: 1740–1748 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

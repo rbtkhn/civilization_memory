@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANCE
 Civilization: ROME
 Regime: EARLY EMPIRE (FLAVIAN CONTEXT)
 Subject: Pliny the Elder (Knowledge as Imperial Inventory)
-Dates: c. AD 23 – 79
+Dates: c. CE 23–79
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

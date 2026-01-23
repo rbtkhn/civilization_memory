@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · LIEVEN QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 �
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
-Dates: 1777–1825 AD
+Dates: 1777–1825 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,200

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Hungary (Constraint Civilization, Imperial Counter-Logic, and National Refusal Engine)
-Dates: Roman era–1918 AD
+Dates: Roman era–1918 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,850

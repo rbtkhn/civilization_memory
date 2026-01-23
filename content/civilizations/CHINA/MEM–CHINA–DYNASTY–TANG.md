@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Tang Dynasty (唐)
-Dates: 618–907 AD
+Dates: 618–907 CE
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

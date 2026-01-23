@@ -7,7 +7,7 @@ Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Kievan Rus’ · Sacralization Pivot (Pre-Christian → Orthodox)
 Subject: Vladimir the Great (Владимир Святославич)
-Dates: c. 958–1015 AD (rule c. 980–1015)
+Dates: c. 958–1015 CE (rule c. 980–1015)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,050

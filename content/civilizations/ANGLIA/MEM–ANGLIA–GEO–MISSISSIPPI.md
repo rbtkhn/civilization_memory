@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Mississippi System (Internal Ocean, Continental Spine, and Power Multiplier)
-Dates: 18th century–present
+Dates: 18th–9th centuries–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

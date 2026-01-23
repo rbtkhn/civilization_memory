@@ -7,7 +7,7 @@ Upgrade Type: ADD-ONLY · ACADEMIC REFERENCE & PRIMARY SOURCE COMPLIANCE
 Civilization: ROME
 Regime: LATE IMPERIAL DEFENSIVE SYSTEM / FRONTIER DENIAL
 Subject: Attila the Hun (Roman System Stressor)
-Dates: c. AD 406–453
+Dates: c. CE 406–453
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600
@@ -124,7 +124,7 @@ Attila forces Rome to accept **limits without surrender**.
 ────────────────────────────────────────────────────────────
 VI. THE BATTLEFIELD MYTH: CATALAUNIAN PLAINS
 ────────────────────────────────────────────────────────────
-The Battle of the Catalaunian Plains (AD 451) is often misread.
+The Battle of the Catalaunian Plains  (CE 451) is often misread.
 
 Reality:
 • Attila is checked, not destroyed

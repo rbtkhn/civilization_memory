@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.1
 Upgrade Type: COMPLIANCE REISSUE · ARC QUOTATION INTEGRATION
 Civilization: ROME
-Regime: MARITIME WAYPOINT / MICRO-ANCHOR (218 BC–Late Antiquity)
+Regime: MARITIME WAYPOINT / MICRO-ANCHOR (218 BCE–Late Antiquity)
 Subject: Malta
 Dates: Punic era–Late Antiquity
 Class: MEM (Memory)

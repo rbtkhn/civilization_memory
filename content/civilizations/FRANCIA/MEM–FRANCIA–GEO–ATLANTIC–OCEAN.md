@@ -6,7 +6,7 @@ Version: 1.1
 Upgrade Type: COMPLIANCE REISSUE (CIV–MEM–TEMPLATE v1.0)
 Civilization: FRANCIA
 Subject: Atlantic Ocean System (Western Seaboard, Oceanic Routes, and Maritime Projection)
-Dates: 1500 AD–present
+Dates: 1500 CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

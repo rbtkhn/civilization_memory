@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · ARC-COMPLIANT
 Civilization: ROME (CHRISTIAN–PAPAL CONTINUITY)
 Regime: IMPERIAL MEMORY → ECCLESIASTICAL SOVEREIGNTY
 Subject: The Vatican (Papal Rome as Post-Imperial Authority Core)
-Dates: 1st century AD – present
+Dates: 1st century CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600

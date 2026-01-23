@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–GREEK–HOMER — v1.0
 Civilization: ROME (GREEK EPIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (MYTHIC ADOPTION)
 Subject: Homer (Epic Authority, War, and Moral Order)
-Dates: c. 8th century BC (traditional)
+Dates: c. 8th–9th centuries BCE (traditional)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,250

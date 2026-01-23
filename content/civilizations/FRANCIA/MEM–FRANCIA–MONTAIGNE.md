@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Michel de Montaigne
-Dates: 1533–1592 AD
+Dates: 1533–1592 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

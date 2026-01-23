@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: REPUBLICAN CONTACT → IMPERIAL PERIMETER MANAGEMENT
 Subject: Arabia as Peripheral Corridor, Trade Interface, and Strategic Buffer
-Dates: c. 100 BC – AD 700
+Dates: c. 100 BCE–CE 700
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,850
@@ -57,7 +57,7 @@ Rome’s engagement with Arabia is selective.
 Roman methods include:
 • Client kingdoms (e.g., Nabataea)
 • Control of caravan termini
-• Limited annexation (Arabia Petraea, AD 106)
+• Limited annexation (Arabia Petraea, CE 106)
 • Diplomatic surveillance rather than depth occupation
 
 Cassius Dio describes Rome’s annexation logic:

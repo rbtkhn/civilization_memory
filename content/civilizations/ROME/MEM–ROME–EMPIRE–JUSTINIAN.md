@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–JUSTINIAN — v1.1
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION / LEGAL–THEOLOGICAL SYNTHESIS
 Subject: Flavius Petrus Sabbatius Justinianus (Justinian I)
-Dates: c. AD 482–565
+Dates: c. CE 482–565
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,950

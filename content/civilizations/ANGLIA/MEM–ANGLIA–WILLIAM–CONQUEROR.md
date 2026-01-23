@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules)
 Civilization: ANGLIA
 Regime / Mode: Norman Kingship
 Subject: William of Normandy (William the Conqueror)
-Dates: 1028–1087 AD
+Dates: 1028–1087 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,700
@@ -43,7 +43,7 @@ The *Anglo-Saxon Chronicle* records the rupture bluntly:
 > “Bishop Odo and Earl William stayed behind and built castles far and
 > wide throughout the land, oppressing the wretched people; and things
 > went ever from bad to worse. When God wills, may the end be good.”
-> — *Anglo-Saxon Chronicle*, entry for 1066–1067 AD
+> — *Anglo-Saxon Chronicle*, entry for 1066–1067 CE
 
 William Manchester emphasizes that conquest succeeded not because the
 Normans exterminated England, but because they **replaced the ruling
@@ -66,7 +66,7 @@ The Domesday survey itself declares its intent:
 > realm, how much land each man held, and what it was worth, so that no
 > hide nor yard of land should be unknown, nor its value concealed from
 > the crown.”
-> — Domesday Book Prologue (1086 AD)
+> — Domesday Book Prologue (1086 CE)
 
 John Keegan treats Domesday as a military-administrative instrument:
 knowledge substitutes for garrisons, allowing control without permanent

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Ulysses S. Grant
-Dates: 1822–1885 AD
+Dates: 1822–1885 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

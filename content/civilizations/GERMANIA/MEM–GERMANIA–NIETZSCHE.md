@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Friedrich Nietzsche
-Dates: 1844–1900 AD
+Dates: 1844–1900 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

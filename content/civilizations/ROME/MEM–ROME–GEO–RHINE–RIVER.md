@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → FRONTIER–CORE TRANSITION
 Subject: Rhine River System (Limes, Discipline Spine, and Failed Interiorization)
-Dates: 1st century BCAD – 5th century AD
+Dates: 1st century BCAD–5th century CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450
@@ -37,7 +37,7 @@ Core functions:
 • Customs and surveillance line
 • Platform for punitive and deterrent expeditions
 
-Unlike the Danube (see MEM–ROME–GEO–DANUBE–RIVER),
+Unlike the Danube (See MEM–ROME–GEO–DANUBE–RIVER),
 the Rhine is shorter, denser, and closer to Romanized Gaul.
 
 This proximity allows:
@@ -53,7 +53,7 @@ III. AUGUSTAN SETTLEMENT & THE LIMIT OF EXPANSION
 Under Augustus, the Rhine becomes the anchor of Roman restraint.
 
 After early expansion attempts beyond the river,
-the disaster in Germania (9 AD) redefines policy.
+the disaster in Germania (9 CE) redefines policy.
 
 Rome chooses:
 • Consolidation west of the Rhine
@@ -63,7 +63,7 @@ Rome chooses:
 The Rhine is accepted as a *terminal line*.
 
 This decision contrasts with Mediterranean integration
-(see MEM–ROME–GEO–MEDITERRANEAN–SEA),
+(See MEM–ROME–GEO–MEDITERRANEAN–SEA),
 where Rome absorbs space rather than freezes it.
 
 The Rhine marks Rome’s first conscious admission of limits.
@@ -138,7 +138,7 @@ Indicators:
 
 Once density drops, failure accelerates.
 
-Unlike the Alps (see MEM–ROME–GEO–ALPS),
+Unlike the Alps (See MEM–ROME–GEO–ALPS),
 the Rhine does not punish neglect.
 It exposes it.
 
@@ -175,7 +175,7 @@ Successor polities inherit:
 • River-centered logistics
 
 Unlike Rome, Germania internalizes the Rhine as a core axis
-(see MEM–GERMANIA–GEO–RHINE).
+(See MEM–GERMANIA–GEO–RHINE).
 
 For Rome, the Rhine is a wall.
 For Germania, it becomes a spine.

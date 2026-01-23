@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME (LATIN CHRISTIAN CONTINUITY)
 Regime: CONFESSIONAL MONARCHY / JURIDICAL–THEOLOGICAL STATE
 Subject: The Spanish Inquisition
-Dates: 1478–1834 AD
+Dates: 1478–1834 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,400

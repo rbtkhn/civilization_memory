@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE (Template v1.6 Compliance · Source Hardening · Structural Synthesis)
 Civilization: ANGLIA
 Subject: Hundred Years’ War (Continental Overreach & Strategic Exit)
-Dates: 1337–1453 AD
+Dates: 1337–1453 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350

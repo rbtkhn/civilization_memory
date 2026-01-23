@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · FULL ARC COMPLIANCE
 Civilization: ROME (EASTERN / CONTINUING)
 Adversary: BULGARIAN POLITIES (FIRST & SECOND BULGARIAN EMPIRES)
 Subject: Roman–Bulgar Wars
-Dates: c. 680–1018 AD
+Dates: c. 680–1018 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550
@@ -34,7 +34,7 @@ Key features:
 • Steppe military traditions
 • Slavic demographic base
 • Rapid territorial consolidation
-• Early recognition by Rome (681 AD)
+• Early recognition by Rome (681 CE)
 
 The Bulgars are not raiders.
 They are builders.

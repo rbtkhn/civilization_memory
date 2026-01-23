@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · ARC QTT CLEARANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY RUS’ · CORRIDOR–FOUNDED DYNASTIC FORMATION
 Subject: Varangians (Варяги)
-Dates: c. 750–1050 AD
+Dates: c. 750–1050 CE
 Class: MEM (Memory)
 Template Version Used: CIV–MEM–TEMPLATE v2.5
 ARC Version Pinned: ARC–RUSSIA v1.9

@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ROME
-Regime: IMPERIAL PROVINCIAL RULE (63 BC–4th century AD)
+Regime: IMPERIAL PROVINCIAL RULE (63 BCE–4th century CE)
 Subject: Palestine (Judaea / Syria Palaestina)
-Dates: 1st century BC → Late Antiquity
+Dates: 1st century BCE → Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,300
@@ -27,7 +27,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. ROMAN INCORPORATION & MISREADING
 ────────────────────────────────────────────────────────────
-Rome acquires Palestine through Pompey’s eastern settlement (63 BC).
+Rome acquires Palestine through Pompey’s eastern settlement (63 BCE).
 
 Initial Roman assumptions:
 • Province like Syria
@@ -72,9 +72,9 @@ Revolt is not strategic.
 It is obligatory.
 
 Major uprisings:
-• Great Jewish Revolt (66–73 AD)
-• Diaspora Revolt (115–117 AD)
-• Bar Kokhba Revolt (132–135 AD)
+• Great Jewish Revolt (66–73 CE)
+• Diaspora Revolt (115–117 CE)
+• Bar Kokhba Revolt (132–135 CE)
 
 Each revolt is catastrophic—
 yet inevitable.

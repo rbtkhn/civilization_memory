@@ -6,7 +6,7 @@ Version: 1.5
 Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
 Civilization: ANGLIA
 Subject: The American Revolution (Procedural Secession, Institutional Continuity, and Imperial Exit Shock)
-Dates: 1765–1783 AD (foundational phase)
+Dates: 1765–1783 CE (foundational phase)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,550

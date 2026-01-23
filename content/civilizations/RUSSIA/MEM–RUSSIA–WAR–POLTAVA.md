@@ -7,7 +7,7 @@ Supersedes: v1.1
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Poltava
-Dates: 1709 AD
+Dates: 1709 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600

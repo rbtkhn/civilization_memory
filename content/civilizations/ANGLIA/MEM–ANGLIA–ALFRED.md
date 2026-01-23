@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (MEM INGEST BOOTSTRAP · v1.6 COMPLIANCE)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
-Dates: 849–899 AD
+Dates: 849–899 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,650
@@ -46,7 +46,7 @@ The *Anglo-Saxon Chronicle* records the severity without embellishment:
 > king in all the land of the West Saxons save Alfred; and the heathen
 > held the greater part of the kingdom, and many of the people submitted
 > to them for fear.”
-> — *Anglo-Saxon Chronicle*, entry for 878 AD
+> — *Anglo-Saxon Chronicle*, entry for 878 CE
 
 Winston Churchill frames this period as one in which England survives
 not by victory, but by **refusal to disappear**, noting that Alfred’s
@@ -191,7 +191,7 @@ Status: ACTIVE
 Exploration options available.”
 
 MANDATORY EIGHT-OPTION EXPLORATION SET:
-1. Primary Source Path — *Anglo-Saxon Chronicle* (878 AD)
+1. Primary Source Path — *Anglo-Saxon Chronicle* (878 CE)
 2. Primary Source Path — Alfred’s *Pastoral Care* Preface
 3. Secondary Scholar Path — Churchill on survival without victory
 4. Secondary Scholar Path — Keegan on repeatable defense

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Johannes Gutenberg
-Dates: c. 1400–1468 AD
+Dates: c. 1400–1468 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

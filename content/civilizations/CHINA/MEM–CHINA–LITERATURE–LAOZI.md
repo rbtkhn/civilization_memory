@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Domain: PHILOSOPHICAL–STRATEGIC LITERATURE (道学)
 Subject: Laozi / Lao Tzu (老子)
 Text: 《道德经》 Dao De Jing
-Dates: Traditionally c. 6th–4th century BC (Warring States horizon)
+Dates: Traditionally c. 6th–4th century BCE (Warring States horizon)
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Sasanian Dynasty
-Dates: 224–651 AD
+Dates: 224–651 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -21,7 +21,7 @@ The Sasanians represent **continuity through compression and revival**.
 ────────────────────────────────────────────────────────────
 II. DYNASTIC ORIGIN & RESTORATION
 ────────────────────────────────────────────────────────────
-Ardashir I’s overthrow of the Arsacid Parthians (224 AD) is framed not as
+Ardashir I’s overthrow of the Arsacid Parthians (224 CE) is framed not as
 a revolution but as a **return to rightful Persian order**.
 
 Early consolidation relied on:

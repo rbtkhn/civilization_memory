@@ -132,7 +132,7 @@ IX. SOURCE QUOTATIONS
 
 CATEGORY A — ANCIENT:
 
-Herodotus, *Histories*, Book IV (c. 440 BC), on the geography of Scythia:
+Herodotus, *Histories*, Book IV (c. 440 BCE), on the geography of Scythia:
 "The river Tyras [Dniester] flows into the sea from a great lake, and
 between the Tyras and the Hypanis [Southern Bug] there is a space of three
 days' journey. The Tyras rises in the north, and at first its course is
@@ -145,7 +145,7 @@ in the ancient Black Sea–steppe region, relevant to understanding the
 historical geography of territories later incorporated into Russian
 civilization.
 
-Strabo, *Geography*, Book VII (c. 20 BC), on the rivers of Scythia:
+Strabo, *Geography*, Book VII (c. 20 BCE), on the rivers of Scythia:
 "After the Borysthenes [Dnieper] comes the Tyras [Dniester], which flows
 from the north; and on it lies a city of the same name. Then comes the
 Hypanis [Southern Bug], which flows from the Hypanis Lake; and on it is
@@ -158,7 +158,7 @@ Relevance: Documents the Dniester (Tyras) as part of the riverine network
 connecting the Black Sea coast to the interior, establishing its role in
 the geography that would later become the Russian imperial frontier.
 
-Pliny the Elder, *Natural History*, Book IV (c. 77 AD), on the rivers of
+Pliny the Elder, *Natural History*, Book IV (c. 77 CE), on the rivers of
 Scythia and the Black Sea region:
 "The Tyras [Dniester] rises in a large lake in Scythia and flows with a
 gentle current for a distance of one hundred and twenty miles, receiving
@@ -175,7 +175,7 @@ imperial expansion.
 
 CATEGORY B — MEDIEVAL:
 
-Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950 AD),
+Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950 CE),
 on the geography of the northern Black Sea region:
 "The river Dniester flows from the north and empties into the Black Sea.
 Beyond it lies the land of the Pechenegs, and beyond them the land of the

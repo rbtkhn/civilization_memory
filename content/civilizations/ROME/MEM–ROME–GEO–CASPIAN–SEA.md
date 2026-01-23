@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: REPUBLICAN AWARENESS → IMPERIAL CONTAINMENT → EASTERN ROMAN HORIZON
 Subject: The Caspian Sea as Strategic Horizon and Non-Roman World Boundary
-Dates: Hellenistic era – Late Roman period
+Dates: Hellenistic era–Late Roman period
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,800

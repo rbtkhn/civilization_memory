@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
-Regime: DYNASTIC PARTICIPATION / EXTERNAL PRESTIGE WAR (1095–1291 AD)
+Regime: DYNASTIC PARTICIPATION / EXTERNAL PRESTIGE WAR (1095–1291 CE)
 Subject: The Crusades (Anglian Perspective)
-Dates: 11th–13th centuries AD
+Dates: 11th–13th centuries CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: ISLAMIC IMPERIAL MINORITY RULE / POST-STEPPE CONSOLIDATION (1526–1857 AD)
+Regime: ISLAMIC IMPERIAL MINORITY RULE / POST-STEPPE CONSOLIDATION (1526–1857 CE)
 Subject: Mughal Empire
-Dates: 16th–19th centuries AD
+Dates: 16th–19th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

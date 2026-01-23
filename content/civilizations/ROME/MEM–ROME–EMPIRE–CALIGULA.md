@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: PRINCIPATE (PERSONAL DEGRADATION / LEGITIMACY SHOCK)
 Subject: Gaius Julius Caesar Augustus Germanicus (Caligula)
-Dates: 12–41 AD
+Dates: 12–41 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,200
@@ -81,7 +81,7 @@ The empire survives **despite** the emperor.
 ────────────────────────────────────────────────────────────
 V. ASSASSINATION AS SYSTEM CORRECTION
 ────────────────────────────────────────────────────────────
-Caligula is murdered (AD 41).
+Caligula is murdered  (CE 41).
 
 The act is not ideological.
 It is administrative.

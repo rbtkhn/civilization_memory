@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANCE
 Civilization: ANGLIA
 Subject: War of the Austrian Succession (Strategic Rehearsal & System Testing)
-Dates: 1740–1748 AD
+Dates: 1740–1748 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450
@@ -44,7 +44,7 @@ orientation:
 > “We engage not for the enlargement of dominion on the Continent, but
 > to prevent such an enlargement by others as would endanger our trade,
 > our balance, and our security at sea.”  
-> (Parliamentary debate, House of Commons, 1741)
+> (Parliamentary debate. House of Commons, 1741)
 
 This statement makes explicit that Anglia’s war aim is **denial**, not
 acquisition.
@@ -116,7 +116,7 @@ A contemporary pamphlet defending war finance argues:
 > “Public credit, once shaken, may ruin a nation more surely than any
 > defeat in the field; preserved, it enables us to endure reverses
 > without despair.”  
-> (*Observations on Public Credit*, London, 1746)
+> (*Observations on Public Credit*. London, 1746)
 
 This framing treats solvency as a **civilizational asset**.
 

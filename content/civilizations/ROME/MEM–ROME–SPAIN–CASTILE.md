@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · MEDIEVAL ARC COMPLIANT
 Civilization: ROME (IBERIAN CONTINUITY)
 Regime: MEDIEVAL KINGDOM → IMPERIAL CORE
 Subject: Castile
-Dates: c. 900 AD – 1700 AD
+Dates: c. 900 CE–1700 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

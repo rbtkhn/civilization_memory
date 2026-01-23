@@ -12,7 +12,7 @@ Governed by:
 • ARC–RUSSIA (pinned)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dnieper River System (Река Днепр)
-Dates: c. 800–1400 AD (primary civilizational arc)
+Dates: c. 800–1400 CE (primary civilizational arc)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450
@@ -25,7 +25,7 @@ CIV–ARC–RUSSIA v1.5.
 
 • No existing descriptive content removed or altered
 • ARC Categories A–D added with required quotations
-• Temporal hinge (AD 800) enforced
+• Temporal hinge  (CE 800) enforced
 • Interpretive hierarchy preserved
 • Contradictions retained without synthesis
 
@@ -168,7 +168,7 @@ Ancient sources establish the **trade–invasion coupling** intrinsic to
 the Dnieper corridor.
 
 ────────────────────────────────────────────────────────────
-IX. CATEGORY B — MEDIEVAL SOURCES (POST–AD 800 FORMATION)
+IX. CATEGORY B — MEDIEVAL SOURCES (POST–CE 800 FORMATION)
 ────────────────────────────────────────────────────────────
 **Primary Chronicle (*Povest’ vremennykh let*)**  
 *Relevance justification:* Direct description of the Dnieper trade route

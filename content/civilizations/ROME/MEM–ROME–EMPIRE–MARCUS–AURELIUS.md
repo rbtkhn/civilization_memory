@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: IMPERIAL STEWARDSHIP / PHILOSOPHICAL LEGITIMACY UNDER STRAIN
 Subject: Marcus Aurelius Antoninus
-Dates: AD 121 – 180
+Dates: CE 121–180
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,700

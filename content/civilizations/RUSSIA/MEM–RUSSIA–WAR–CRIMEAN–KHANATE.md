@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars & Raiding Conflict with the Crimean Khanate
-Dates: c. 1441–1783 AD
+Dates: c. 1441–1783 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: [TBD]
@@ -103,7 +103,7 @@ The frontier stabilizes as Russian capacity grows.
 ────────────────────────────────────────────────────────────
 VII. END OF THE KHANATE SYSTEM
 ────────────────────────────────────────────────────────────
-The 18th century marks terminal decline.
+The 18th–9th centuries marks terminal decline.
 
 Drivers:
 • Russian military modernization

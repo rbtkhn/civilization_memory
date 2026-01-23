@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–GREEK–PERICLES — v1.0
 Civilization: ROME (HELLENIC INHERITANCE / COMPARATIVE MIRROR)
 Regime: CLASSICAL DEMOCRATIC IMPERIALISM (ATHENS)
 Subject: Pericles
-Dates: c. 495 BC – 429 BC
+Dates: c. 495 BCE–429 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350

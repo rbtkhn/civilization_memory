@@ -8,7 +8,7 @@ Upgrade Type: ADD-ONLY · FULL ARC COMPLIANCE · QUOTATION ANCHORING
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → POST-IMPERIAL CONTINUITY
 Subject: Italy (Peninsula as Core, Engine, and Constraint)
-Dates: c. 800 BC – Late Antiquity (with afterlife)
+Dates: c. 800 BCE–Late Antiquity (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

@@ -7,7 +7,7 @@ Upgrade Type: MAJOR VERSION · STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLAT
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Muscovite Rus’ → Early Russian Empire
 Subject: Muscovy (Compression Core & Autocratic Seed State)
-Dates: c. 1300–1721 AD
+Dates: c. 1300–1721 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,480
@@ -154,7 +154,7 @@ It is survived because identity outlives authority.
 ────────────────────────────────────────────────────────────
 VIII. TRANSITION TO EMPIRE (SCALING, NOT TRANSFORMATION)
 ────────────────────────────────────────────────────────────
-By the early 18th century:
+By the early 18th–9th centuries:
 • Muscovite methods scale territorially
 • Administrative complexity increases
 • Autocracy is formalized, not invented

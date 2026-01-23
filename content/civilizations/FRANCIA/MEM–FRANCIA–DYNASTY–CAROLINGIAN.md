@@ -4,7 +4,7 @@ Version: 1.0
 Civilization: FRANCIA
 Regime: IMPERIAL / POST-ROMAN RESTORATIVE (c. 751–987)
 Subject: Carolingian Dynasty
-Dates: 8th–10th centuries AD
+Dates: 8th–10th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

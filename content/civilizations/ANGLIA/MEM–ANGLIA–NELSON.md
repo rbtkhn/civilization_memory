@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
 Civilization: ANGLIA
 Subject: Horatio Nelson
-Dates: 1758–1805 AD
+Dates: 1758–1805 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,050

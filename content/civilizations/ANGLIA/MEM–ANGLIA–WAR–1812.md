@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule — ANGLIA)
 Civilization: ANGLIA
 Subject: War of 1812 (Peripheral System Test, Priority Discipline, and Naval Resilience)
-Dates: 1812–1815 AD
+Dates: 1812–1815 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,000

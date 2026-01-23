@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.2
 Civilization: ANGLIA
 Dynasty: House of Normandy
-Dates: 1066–1154 AD
+Dates: 1066–1154 CE
 Class: MEM (Memory)
 Last Update: January 2026
 

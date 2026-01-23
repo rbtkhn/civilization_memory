@@ -8,7 +8,7 @@ Last Update: January 2026
 Word Count: ~3,000
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Anton Chekhov — Everyday Suffering Architect
-Dates: 1860–1904 AD
+Dates: 1860–1904 CE
 Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
 Compatibility: CMC v2.0+
 
@@ -207,11 +207,11 @@ XI. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied (Modern Era MEM - Modern sources only):
 
 MODERN (≥2 quotations):
-1. "Chekhov's genius lay in his ability to dramatize the subtle destruction of human dignity by the passage of time and the weight of unexamined lives. His plays do not resolve conflicts but expose their essential insolubility, creating a theater of quiet despair." (Ronald Hingley, Chekhov: A Biographical and Critical Study, 1976 - 68 words)
+1. "Chekhov's genius lay in his ability to dramatize the subtle destruction of human dignity by the passage of time and the weight of unexamined lives. His plays do not resolve conflicts but expose their essential insolubility, creating a theater of quiet despair." (Ronald Hingley. Chekhov: A Biographical and Critical Study, 1976)
 
-2. "Chekhov revolutionized modern drama by replacing plot-driven action with atmospheric suggestion and subtext. His method required actors to convey inner life through pauses, implications, and the unsaid, establishing the foundation for modern psychological theater that would influence Stanislavski and all subsequent directors." (Konstantin Stanislavski, My Life in Art, 1924 - 72 words)
+2. "Chekhov revolutionized modern drama by replacing plot-driven action with atmospheric suggestion and subtext. His method required actors to convey inner life through pauses, implications, and the unsaid, establishing the foundation for modern psychological theater that would influence Stanislavski and all subsequent directors." (Konstantin Stanislavski. My Life in Art, 1924)
 
-3. "Chekhov's short stories represent the pinnacle of modern Russian prose, combining psychological depth with social observation while avoiding didacticism. His technique of showing rather than telling created a new standard for literary realism." (Maxim Gorky, Literary Criticism, 1928 - 52 words)
+3. "Chekhov's short stories represent the pinnacle of modern Russian prose, combining psychological depth with social observation while avoiding didacticism. His technique of showing rather than telling created a new standard for literary realism." (Maxim Gorky. Literary Criticism, 1928)
 
 Primary Sources:
 • Chekhov's letters and notebooks (permitted under ARC Ancient threshold)

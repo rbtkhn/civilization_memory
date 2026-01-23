@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Leo Tolstoy (Лев Толстой) — Literary Memory Architect
-Dates: 1828–1910 AD (decisive works: 1869–1877)
+Dates: 1828–1910 CE (decisive works: 1869–1877)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600

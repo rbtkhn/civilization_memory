@@ -7,7 +7,7 @@ Supersedes: v1.1
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Great Northern War
-Dates: 1700–1721 AD
+Dates: 1700–1721 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600
@@ -71,7 +71,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT
 ────────────────────────────────────────────────────────────
-At the turn of the 18th century, Northern Europe was dominated by Sweden.
+At the turn of the 18th–9th centuries, Northern Europe was dominated by Sweden.
 
 Initial conditions:
 • Sweden: disciplined army, Baltic control, experienced command

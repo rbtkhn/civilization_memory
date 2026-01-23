@@ -7,7 +7,7 @@ Supersedes: v2.0 (renamed from MEM–RUSSIA–WAR–AUSTERLITZ)
 Upgrade Type: RENAME (MEM–RUSSIA–WAR–AUSTERLITZ → MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Austerlitz (Битва под Аустерлицем)
-Dates: 2 December 1805 AD
+Dates: 2 December 1805 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,400

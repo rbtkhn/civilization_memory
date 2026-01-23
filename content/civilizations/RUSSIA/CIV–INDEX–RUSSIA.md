@@ -8,7 +8,7 @@ Supersedes: CIV–INDEX–RUSSIA v2.1
 Upgrade Type: REGISTER UPDATE · MISSING FILES ADDED + NAMING CORRECTIONS
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
-Dates: c. 800 AD–present
+Dates: c. 800 CE–present
 Class: CIV (Index)
 Last Update: January 2026
 
@@ -90,9 +90,9 @@ INDEX GOVERNANCE RULES (REINFORCED · CORE-MATCHED):
 • Renames or scope changes MUST be reflected immediately
 • Redundancy with CIV–CORE is intentional and reinforcing
 • This index is the sole source of truth for:
-  – Scholar-mode discovery scope
-  – Parity enforcement across civilizations
-  – CIV–CORE–RUSSIA synchronization boundaries
+–Scholar-mode discovery scope
+–Parity enforcement across civilizations
+–CIV–CORE–RUSSIA synchronization boundaries
 
 This file does not think.
 This file does not learn.
@@ -239,9 +239,9 @@ Rules (REINFORCED):
 • Inclusion is mandatory where relevant
 • Citation does not imply endorsement
 • Academic quotation MUST include:
-  – Author
-  – Work title
-  – Publication year
+–Author
+–Work title
+–Publication year
 • Embedded quotations MUST be ≥25 words
 • No cap excerpts or ceiling limits permitted
 • Academic sources may frame but never override primary evidence

@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
 Version: 1.0
 Civilization: ISLAM
-Regime: CIVILIZATIONAL DEFENSE / LEGITIMACY RECOVERY (1095–1291 AD)
+Regime: CIVILIZATIONAL DEFENSE / LEGITIMACY RECOVERY (1095–1291 CE)
 Subject: The Crusades (Islamic Perspective)
-Dates: 11th–13th centuries AD
+Dates: 11th–13th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

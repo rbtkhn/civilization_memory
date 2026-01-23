@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE + CONTEXTUAL ALIGNMENT
 Civilization: ROME
 Regime: IMPERIAL JURISDICTION → METAPHYSICAL DISPLACEMENT
 Subject: Jesus of Nazareth (Christ)
-Dates: c. 4 BC – AD 30/33
+Dates: c. 4 BCE–CE 30/33
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

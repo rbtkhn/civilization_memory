@@ -5,7 +5,7 @@ Version: 1.0
 Civilization: ANGLIA
 Regime Type: FEUDAL / IMPERIAL-OVERREACH
 Subject: House of Plantagenet
-Dates: 1154–1399 AD
+Dates: 1154–1399 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

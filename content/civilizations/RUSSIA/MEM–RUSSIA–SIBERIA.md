@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Siberia (Imperial Incorporation & Civilizational Process)
-Dates: c. 1580 AD–present
+Dates: c. 1580 CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: [TBD]

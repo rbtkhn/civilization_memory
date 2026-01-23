@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Fyodor Dostoevsky (Фёдор Достоевский) — Psychological Memory Architect
-Dates: 1821–1881 AD (decisive works: 1866–1880)
+Dates: 1821–1881 CE (decisive works: 1866–1880)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600

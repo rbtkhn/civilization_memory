@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / KOMNENIAN RESTORATION)
 Subject: Alexios I Komnenos as Architect of Managed Recovery and Imperial Reconstitution
-Dates: AD 1081–1118
+Dates: CE 1081–1118
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,550
@@ -32,7 +32,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. IMPERIAL INHERITANCE — SYSTEMIC DISINTEGRATION
 ────────────────────────────────────────────────────────────
-When Alexios seizes power in AD 1081, the Roman Empire is structurally
+When Alexios seizes power in CE 1081, the Roman Empire is structurally
 hollowed.
 
 Inherited conditions include:
@@ -190,7 +190,7 @@ This echoes Heraclius—but with greater institutional control.
 ────────────────────────────────────────────────────────────
 X. ADMINISTRATIVE OUTCOME — A FUNCTIONAL, NOT UNIVERSAL EMPIRE
 ────────────────────────────────────────────────────────────
-By Alexios’ death in AD 1118:
+By Alexios’ death in CE 1118:
 • The Balkans are stabilized
 • Anatolian recovery has begun
 • Fiscal systems function

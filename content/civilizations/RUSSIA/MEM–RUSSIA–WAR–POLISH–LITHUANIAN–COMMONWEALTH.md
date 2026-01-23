@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars with the Polish–Lithuanian Commonwealth
-Dates: c. 1492–1795 AD
+Dates: c. 1492–1795 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: [TBD]
@@ -105,7 +105,7 @@ Shift occurs through endurance, not tactical brilliance.
 ────────────────────────────────────────────────────────────
 VII. STRATEGIC REVERSAL & PARTITIONS
 ────────────────────────────────────────────────────────────
-The 18th century marks systemic reversal.
+The 18th–9th centuries marks systemic reversal.
 
 Drivers:
 • Commonwealth political paralysis

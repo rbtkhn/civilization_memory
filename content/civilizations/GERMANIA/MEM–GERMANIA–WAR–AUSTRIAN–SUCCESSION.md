@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE REISSUE (ADDITIVE)
 Civilization: GERMANIA
 Opposing Civilizations: AUSTRIA · FRANCE · BAVARIA · SAXONY (COALITIONS)
 Subject: War of the Austrian Succession (German Perspective)
-Dates: 1740–1748 AD
+Dates: 1740–1748 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450

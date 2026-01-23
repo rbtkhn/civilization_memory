@@ -6,7 +6,7 @@ Version: 1.0
 Upgrade Type: FOUNDATIONAL · ARC–RUSSIA v1.5 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Caucasus Region (Кавказ)
-Dates: Antiquity–present (Russian strategic salience from 18th c. AD)
+Dates: Antiquity–present (Russian strategic salience from 18th c. CE)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,800

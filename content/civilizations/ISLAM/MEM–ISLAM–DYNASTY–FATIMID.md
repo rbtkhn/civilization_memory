@@ -5,9 +5,9 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
 Sect: ISMA‘ILI SHI‘A
-Regime: SHI‘A UNIVERSAL CALIPHATE / LEGITIMACY RIVAL (909–1171 AD)
+Regime: SHI‘A UNIVERSAL CALIPHATE / LEGITIMACY RIVAL (909–1171 CE)
 Subject: Fatimid Caliphate
-Dates: 10th–12th centuries AD
+Dates: 10th–12th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE (Hardened Source Compliance · Primary Anchors · Distinguished Scholar Rule — ANGLIA)
 Civilization: ANGLIA
 Subject: Magna Carta (Constraint Without Democracy)
-Dates: 1215 AD–present (derivative influence)
+Dates: 1215 CE–present (derivative influence)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Crimean War
-Dates: 1853–1856 AD
+Dates: 1853–1856 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

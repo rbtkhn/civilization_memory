@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
-Regime: LATE FEUDAL MONARCHY / DYNASTIC FRACTURE (1455–1487 AD)
+Regime: LATE FEUDAL MONARCHY / DYNASTIC FRACTURE (1455–1487 CE)
 Subject: Wars of the Roses
-Dates: 1455–1487 AD
+Dates: 1455–1487 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

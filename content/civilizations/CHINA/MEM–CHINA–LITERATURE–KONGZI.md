@@ -5,7 +5,7 @@ Civilization: CHINA (中华文明)
 Domain: POLITICAL–ETHICAL LITERATURE (儒学)
 Subject: Kongzi / Confucius (孔子)
 Text Corpus: 《论语》 Analects (+ later canonical expansions)
-Dates: 551–479 BC (Spring and Autumn period)
+Dates: 551–479 BCE (Spring and Autumn period)
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

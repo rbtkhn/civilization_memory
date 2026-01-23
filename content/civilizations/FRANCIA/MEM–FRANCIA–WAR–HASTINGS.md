@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA (NORMAN)
-Regime: EXPEDITIONARY CONQUEST / DYNASTIC EXPANSION (1066 AD)
+Regime: EXPEDITIONARY CONQUEST / DYNASTIC EXPANSION (1066 CE)
 Subject: Battle of Hastings
-Dates: 1066 AD
+Dates: 1066 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

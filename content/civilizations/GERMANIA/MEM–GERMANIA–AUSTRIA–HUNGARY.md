@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Austria–Hungary (Dual Monarchy, Compromise State, and Imperial Delay Mechanism)
-Dates: 1867–1918 AD
+Dates: 1867–1918 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

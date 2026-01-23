@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME (LATIN LITERARY CONTINUITY)
 Regime: EARLY MODERN MONARCHY / POST-IMPERIAL CULTURAL REFLECTION
 Subject: Miguel de Cervantes Saavedra
-Dates: 1547–1616 AD
+Dates: 1547–1616 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350

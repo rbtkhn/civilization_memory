@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Nikolai Gogol (Николай Гоголь) — Absurdity Memory Architect
-Dates: 1809–1852 AD (decisive works: 1835–1842)
+Dates: 1809–1852 CE (decisive works: 1835–1842)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,800
@@ -194,11 +194,11 @@ X. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied (Modern Era MEM - Modern sources only):
 
 MODERN (≥2 quotations):
-1. "Gogol's genius lay in his ability to perceive the grotesque in the ordinary, to reveal how Russian bureaucracy and social pretension created a reality more absurd than any supernatural invention. His works exposed the fundamental instability of Russian social order." (Vladimir Nabokov, Lectures on Russian Literature, 1944 - 58 words)
+1. "Gogol's genius lay in his ability to perceive the grotesque in the ordinary, to reveal how Russian bureaucracy and social pretension created a reality more absurd than any supernatural invention. His works exposed the fundamental instability of Russian social order." (Vladimir Nabokov. Lectures on Russian Literature, 1944)
 
-2. "Gogol transformed Russian prose by introducing the principle that social reality itself is fundamentally theatrical and performative. His characters do not live their lives so much as perform them, creating a society built on mutual deception and self-delusion." (Hugh Seton-Watson, The Russian Empire 1801-1917, 1965 - 62 words)
+2. "Gogol transformed Russian prose by introducing the principle that social reality itself is fundamentally theatrical and performative. His characters do not live their lives so much as perform them, creating a society built on mutual deception and self-delusion." (Hugh Seton-Watson, The Russian Empire 1801-1917, 1965)
 
-3. "Gogol's Inspector General remains the definitive Russian satire on bureaucratic corruption, showing how official authority creates its own reality through mutual complicity and performative deception." (D.S. Mirsky, A History of Russian Literature, 1927 - 45 words)
+3. "Gogol's Inspector General remains the definitive Russian satire on bureaucratic corruption, showing how official authority creates its own reality through mutual complicity and performative deception." (D.S. Mirsky, A History of Russian Literature, 1927)
 
 Primary Sources:
 • Gogol's letters and notebooks (permitted under ARC Ancient threshold)

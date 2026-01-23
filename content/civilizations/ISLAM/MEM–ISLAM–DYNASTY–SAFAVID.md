@@ -5,9 +5,9 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
 Sect: TWELVER SHI‘A
-Regime: SHI‘A STATE CRYSTALLIZATION / CIVILIZATIONAL TRANSFORMATION (1501–1736 AD)
+Regime: SHI‘A STATE CRYSTALLIZATION / CIVILIZATIONAL TRANSFORMATION (1501–1736 CE)
 Subject: Safavid Dynasty
-Dates: 16th–18th centuries AD
+Dates: 16th–18th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

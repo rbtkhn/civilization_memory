@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
 Civilization: ANGLIA
 Subject: William Pitt the Younger
-Dates: 1759–1806 AD
+Dates: 1759–1806 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,100

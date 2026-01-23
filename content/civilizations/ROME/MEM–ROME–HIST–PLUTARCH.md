@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–PLUTARCH — v1.0
 Civilization: ROME
 Regime: IMPERIAL ERA (GREEK INTELLECTUAL OBSERVER UNDER ROME)
 Subject: Plutarch of Chaeronea
-Dates: c. AD 46 – c. AD 120
+Dates: c. CE 46–c. CE 120
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,750

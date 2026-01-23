@@ -9,7 +9,7 @@ Last Update: January 2026
 Word Count: ~2,750
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Alexander Pushkin — National Memory Architect
-Dates: 1799–1837 AD
+Dates: 1799–1837 CE
 Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
 Compatibility: CMC v2.0+
 
@@ -178,27 +178,27 @@ Analytical Content: ~1,925 words / ~2,750 total words = 70%
 EVIDENCE-BASED ARC QUOTATIONS (20% MINIMUM COMPLIANCE)
 
 CONTEXTUAL CATEGORY (Contemporary Analysis):
-1. "Pushkin's Eugene Onegin revolutionized Russian literature by introducing the novel in verse form, creating a work that combined psychological depth with social commentary while establishing the modern Russian literary language." (Vissarion Belinsky, Literary Criticisms, 1843 - 45 words)
+1. "Pushkin's Eugene Onegin revolutionized Russian literature by introducing the novel in verse form, creating a work that combined psychological depth with social commentary while establishing the modern Russian literary language." (Vissarion Belinsky. Literary Criticisms, 1843)
 
-2. "The appearance of Eugene Onegin was epoch-making... Pushkin was the first Russian writer who succeeded in creating characters that were not merely Russian but European in their spiritual breadth and depth." (Ivan Goncharov, Literary Criticism, 1845 - 42 words)
+2. "The appearance of Eugene Onegin was epoch-making... Pushkin was the first Russian writer who succeeded in creating characters that were not merely Russian but European in their spiritual breadth and depth." (Ivan Goncharov. Literary Criticism, 1845)
 
 SECONDARY CATEGORY (Scholarly Analysis):
-1. "Pushkin was the first to create a Russian literary language that could express the full range of human experience, from the sublime to the mundane, while maintaining the music and precision of poetry. He transformed the chaos of Russian speech into ordered beauty." (Vladimir Nabokov, Commentary on Eugene Onegin, 1975 - 62 words)
+1. "Pushkin was the first to create a Russian literary language that could express the full range of human experience, from the sublime to the mundane, while maintaining the music and precision of poetry. He transformed the chaos of Russian speech into ordered beauty." (Vladimir Nabokov. Commentary on Eugene Onegin, 1975)
 
-2. "Pushkin's work represents the decisive moment when Russian literature ceased to be derivative of European models and became a distinct national tradition. Through his synthesis of Russian folk elements with European forms, he created the foundation for all subsequent Russian prose and poetry." (Henry Binyon, Pushkin: A Biography, 2002 - 68 words)
+2. "Pushkin's work represents the decisive moment when Russian literature ceased to be derivative of European models and became a distinct national tradition. Through his synthesis of Russian folk elements with European forms, he created the foundation for all subsequent Russian prose and poetry." (Henry Binyon. Pushkin: A Biography, 2002)
 
-3. "Pushkin achieved a miraculous balance between the classical tradition and romantic innovation. His poetry combines the precision of neoclassical form with the emotional depth of romantic expression, creating a uniquely Russian voice." (Boris Tomashevsky, Pushkin and His Contemporaries, 1961 - 54 words)
+3. "Pushkin achieved a miraculous balance between the classical tradition and romantic innovation. His poetry combines the precision of neoclassical form with the emotional depth of romantic expression, creating a uniquely Russian voice." (Boris Tomashevsky. Pushkin and His Contemporaries, 1961)
 
-4. "What distinguishes Pushkin is not merely his technical mastery but his ability to infuse Russian poetry with philosophical depth. He transformed lyric poetry from mere versification into a medium for exploring the human condition." (D.S. Mirsky, A History of Russian Literature, 1927 - 52 words)
+4. "What distinguishes Pushkin is not merely his technical mastery but his ability to infuse Russian poetry with philosophical depth. He transformed lyric poetry from mere versification into a medium for exploring the human condition." (D.S. Mirsky, A History of Russian Literature, 1927)
 
-5. "Pushkin's prose represents a quantum leap in Russian literary development. The Captain's Daughter demonstrates how he could blend historical narrative with psychological insight, creating works that are both entertaining and profoundly analytical." (Andrei Sinyavsky, In Pushkin's Light, 1995 - 48 words)
+5. "Pushkin's prose represents a quantum leap in Russian literary development. The Captain's Daughter demonstrates how he could blend historical narrative with psychological insight, creating works that are both entertaining and profoundly analytical." (Andrei Sinyavsky. In Pushkin's Light, 1995)
 
 CRITICAL CATEGORY (Historiographical Evaluation):
-1. "Pushkin scholarship has undergone significant evolution since the Soviet period. Early criticism focused on his 'progressive' social views, while contemporary analysis emphasizes his aesthetic achievements and complex relationship with Russian imperial culture." (Stephanie Sandler, Commemorating Pushkin, 2004 - 48 words)
+1. "Pushkin scholarship has undergone significant evolution since the Soviet period. Early criticism focused on his 'progressive' social views, while contemporary analysis emphasizes his aesthetic achievements and complex relationship with Russian imperial culture." (Stephanie Sandler. Commemorating Pushkin, 2004)
 
-2. "The Pushkin myth - the notion of Pushkin as Russia's 'national poet' - has been both a blessing and a burden for literary criticism. It has elevated his status but sometimes obscured the more complex, contradictory aspects of his work." (Marcus Levitt, Russian Literary Politics and the Pushkin Celebration of 1880, 1989 - 62 words)
+2. "The Pushkin myth - the notion of Pushkin as Russia's 'national poet' - has been both a blessing and a burden for literary criticism. It has elevated his status but sometimes obscured the more complex, contradictory aspects of his work." (Marcus Levitt. Russian Literary Politics and the Pushkin Celebration of 1880, 1989)
 
-3. "Recent scholarship has moved beyond hagiography to examine Pushkin's complex relationship with colonialism, slavery, and Russian imperialism. His African ancestry and experiences with serfdom add layers of complexity to his position in Russian cultural memory." (Susanne Fusso, Essays on Russian Literature and Music, 2008 - 58 words)
+3. "Recent scholarship has moved beyond hagiography to examine Pushkin's complex relationship with colonialism, slavery, and Russian imperialism. His African ancestry and experiences with serfdom add layers of complexity to his position in Russian cultural memory." (Susanne Fusso. Essays on Russian Literature and Music, 2008)
 
 Primary Sources:
 • Pushkin's correspondence and notebooks (permitted under ARC Ancient threshold)

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Alexander Hamilton
-Dates: 1755/57–1804 AD
+Dates: 1755/57–1804 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: African Slavery (Colonial Extraction, Moral Contradiction, and Revolutionary Inheritance)
-Dates: 17th century–1848 AD
+Dates: 17th century–1848 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

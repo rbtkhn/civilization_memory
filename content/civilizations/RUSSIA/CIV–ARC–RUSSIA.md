@@ -6,7 +6,7 @@ Scope: CIV–CORE–RUSSIA and CIV–SCHOLAR–RUSSIA (IDENTICAL TEXT)
 Last Updated: January 2026
 
 Supersedes: CIV–ARC–RUSSIA v1.4
-Upgrade Type: GOVERNANCE CORRECTION · TEMPORAL HINGE RESTORATION (AD 800) · ADDITIVE ONLY
+Upgrade Type: GOVERNANCE CORRECTION · TEMPORAL HINGE RESTORATION  (CE 800) · ADDITIVE ONLY
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────
@@ -16,7 +16,7 @@ This version corrects a governance error in v1.4.
 
 Correction:
 • The ANCIENT/MEDIEVAL temporal hinge is restored to the system-canonical
-  boundary used in CIV–ARC–ROME: AD 800 (coronation of Charlemagne).
+  boundary used in CIV–ARC–ROME: CE 800 (coronation of Charlemagne).
 
 Guarantees:
 • No category is removed.
@@ -83,7 +83,7 @@ testimony, not anachronistic “Russian statehood.”
 Classification is by temporal origin, not legal status.
 
 Temporal Scope (SYSTEM-CANONICAL):
-• From earliest Greek historiography through AD 800
+• From earliest Greek historiography through CE 800
 • Includes late antique authors writing before the Carolingian coronation
 
 VALIDITY STANDARD (BINDING):
@@ -135,7 +135,7 @@ Ancient sources have absolute precedence over all other categories.
 IV. CATEGORY B — MEDIEVAL (REQUIRED WHEN APPLICABLE)
 ────────────────────────────────────────────────────────────
 Definition:
-Primary and secondary sources produced after AD 800 that describe,
+Primary and secondary sources produced after CE 800 that describe,
 record, or interpret the emergence of Rus’, East Slavic polities,
 Orthodox-Christian institutional formation in Rus’, steppe domination
 cycles, and early Muscovite authority.
@@ -143,8 +143,8 @@ cycles, and early Muscovite authority.
 This category captures formation and continuity, not mature empire.
 
 Temporal Boundary (SYSTEM-CANONICAL):
-• Begins AD 800, marked by the coronation of Charlemagne
-• Extends through approximately AD 1500
+• Begins CE 800, marked by the coronation of Charlemagne
+• Extends through approximately CE 1500
 
 MEDIEVAL ADMISSIBILITY RELEVANCE GATE (HARD LAW):
 A Category B (MEDIEVAL) source is admissible for RUSSIA ONLY if it
@@ -206,7 +206,7 @@ Rules (MANDATORY):
 V. CATEGORY C — EARLY MODERN (REQUIRED)
 ────────────────────────────────────────────────────────────
 Definition:
-Historical scholarship from approximately AD 1500–1900 interpreting
+Historical scholarship from approximately CE 1500–1900 interpreting
 Russian history, institutions, and civilizational logic, typically
 outside modern copyright.
 
@@ -320,8 +320,8 @@ This file:
 • May be stored externally
 • May be versioned independently
 • MUST be mirrored verbatim into:
-  – CIV–CORE–RUSSIA
-  – CIV–SCHOLAR–RUSSIA
+–CIV–CORE–RUSSIA
+–CIV–SCHOLAR–RUSSIA
 
 Any divergence invalidates compliance.
 
@@ -331,7 +331,7 @@ XI. CANON STATE
 Version: CIV–ARC–RUSSIA v1.5
 State: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–ARC–RUSSIA v1.4
-Upgrade Type: GOVERNANCE CORRECTION · TEMPORAL HINGE RESTORATION (AD 800)
+Upgrade Type: GOVERNANCE CORRECTION · TEMPORAL HINGE RESTORATION  (CE 800)
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────

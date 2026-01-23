@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Cardinal Thomas Wolsey
-Dates: c. 1473–1530 AD
+Dates: c. 1473–1530 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

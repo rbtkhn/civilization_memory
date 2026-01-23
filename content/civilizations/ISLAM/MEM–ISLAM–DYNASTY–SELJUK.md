@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: SUNNI IMPERIAL RESTORATION / TURKIC INTEGRATION (c. 1037–1194 AD)
+Regime: SUNNI IMPERIAL RESTORATION / TURKIC INTEGRATION (c. 1037–1194 CE)
 Subject: Seljuk Dynasty
-Dates: 11th–12th centuries AD
+Dates: 11th–12th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

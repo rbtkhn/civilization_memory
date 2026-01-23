@@ -7,7 +7,7 @@ Upgrade Type: TEMPLATE COMPLIANCE (PRIMARY SOURCE QUOTES)
 Civilization: ROME (GREEK CONTRAST MODEL)
 Regime: MILITARIZED OLIGARCHIC DISCIPLINE STATE
 Subject: Sparta
-Dates: c. 700 BC – 371 BC
+Dates: c. 700 BCE–371 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

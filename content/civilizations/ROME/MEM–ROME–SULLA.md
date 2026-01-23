@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–SULLA — v1.0
 Civilization: ROME
 Regime: LATE REPUBLIC (EXTRA-CONSTITUTIONAL DICTATORSHIP)
 Subject: Lucius Cornelius Sulla Felix
-Dates: 138 BC – 78 BC
+Dates: 138 BCE–78 BC
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650

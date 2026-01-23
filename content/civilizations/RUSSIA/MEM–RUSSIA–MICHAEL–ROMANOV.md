@@ -7,7 +7,7 @@ Upgrade Type: PROCEDURAL COMPLIANCE + QTT–ARC AUDIT + SEQUENCING CLARIFICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY ROMANOV · POST–TIME OF TROUBLES RESTORATION
 Subject: Michael Romanov (Михаил Фёдорович)
-Dates: 1596–1645 AD (rule: 1613–1645)
+Dates: 1596–1645 CE (rule: 1613–1645)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,900

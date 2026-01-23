@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ROME (WESTERN CONTINUITY UNDER BARBARIAN RULE)
 Regime: POST-IMPERIAL ROMAN ADMINISTRATION / OSTROGOTHIC KINGSHIP
 Subject: Theoderic the Great (Flavius Theodericus)
-Dates: c. AD 454–526
+Dates: c. CE 454–526
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -30,7 +30,7 @@ By the late fifth century, the Western Roman Empire no longer exists as a
 sovereign political entity.
 
 Conditions:
-• Imperial office extinguished (AD 476)
+• Imperial office extinguished  (CE 476)
 • Roman senatorial elite still active
 • Administrative habits intact
 • Military power held by barbarian foederati

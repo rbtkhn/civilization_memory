@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL FRONTIER WARFARE → INTERNAL SECURITY CRISIS
 Subject: The Gothic Wars as Structural Stress-Test of Roman Military–Administrative Capacity
-Dates: c. AD 238 – AD 382
+Dates: c. CE 238–CE 382
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -87,9 +87,9 @@ Tacitus’ warning proves prophetic:
 The Goths reveal that **frontiers fail from inside first**.
 
 ────────────────────────────────────────────────────────────
-V. AD 376 — MASS ENTRY & POLICY FAILURE
+V. CE 376 — MASS ENTRY & POLICY FAILURE
 ────────────────────────────────────────────────────────────
-The Gothic crossing of the Danube in AD 376 marks a qualitative shift.
+The Gothic crossing of the Danube in CE 376 marks a qualitative shift.
 
 Causes include:
 • Hunnic pressure from the steppe
@@ -109,7 +109,7 @@ This is not invasion.
 It is **policy-induced rebellion**.
 
 ────────────────────────────────────────────────────────────
-VI. ADRIANOPLE (AD 378) — STRUCTURAL DEFEAT
+VI. ADRIANOPLE  (CE 378) — STRUCTURAL DEFEAT
 ────────────────────────────────────────────────────────────
 The Battle of Adrianople represents a decisive systemic failure.
 

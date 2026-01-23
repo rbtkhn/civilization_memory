@@ -7,7 +7,7 @@ Upgrade Type: ADD-ONLY · SECONDARY-SOURCE COMPLIANCE
 Civilization: ROME
 Regime: REPUBLIC → PRINCIPATE → LATE IMPERIAL
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
-Dates: 53 BC – AD 628
+Dates: 53 BCE–CE 628
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,850
@@ -59,7 +59,7 @@ It is **civilizational incompatibility**.
 ────────────────────────────────────────────────────────────
 III. PARTHIAN PHASE: ROMAN SHOCK & DOCTRINAL FAILURE
 ────────────────────────────────────────────────────────────
-The Battle of Carrhae (53 BC) inaugurates the pattern.
+The Battle of Carrhae (53 BCE) inaugurates the pattern.
 
 Roman assumptions collapse:
 • Heavy infantry dominance  

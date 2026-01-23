@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM (INTERACTING / TRANSFORMED)
-Regime: EXTERNAL CONQUEST → CIVILIZATIONAL ABSORPTION (c. 1218–1335 AD)
+Regime: EXTERNAL CONQUEST → CIVILIZATIONAL ABSORPTION (c. 1218–1335 CE)
 Subject: Mongol Empire (Islamic Encounter Phase)
-Dates: 13th–14th centuries AD
+Dates: 13th–14th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

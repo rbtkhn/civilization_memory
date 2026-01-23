@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.2 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANCE
 Subject: Time of Troubles (Смутное время)
-Dates: 1598–1613 AD
+Dates: 1598–1613 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,350

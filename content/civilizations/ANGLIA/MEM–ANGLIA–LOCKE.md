@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: John Locke (Procedural Liberalism & Consent Without Rupture)
-Dates: 1632–1704 AD
+Dates: 1632–1704 CE
 Class: MEM (Memory)
 Last Update: January 2026
 

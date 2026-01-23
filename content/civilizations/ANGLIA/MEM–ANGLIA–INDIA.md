@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: India (Imperial Backbone, Administrative Laboratory, and Exit Test)
-Dates: 1600 AD–1947 AD
+Dates: 1600 CE–1947 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

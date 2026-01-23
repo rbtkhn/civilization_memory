@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME (PERIPHERAL INTEGRATION / LIMITED ROMANIZATION)
 Regime: MOUNTAIN FUEROS → NEGOTIATED ROYAL INTEGRATION
 Subject: Basque Country (Autonomy, Custom, and Roman Boundary)
-Dates: c. Roman era – 19th century AD
+Dates: c. Roman era–19th century CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350

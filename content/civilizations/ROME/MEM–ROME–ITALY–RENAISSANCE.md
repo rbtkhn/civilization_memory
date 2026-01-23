@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–ITALY–RENAISSANCE — v1.1
 Civilization: ROME
 Region: ITALY
 Subject: The Renaissance
-Dates: c. 1300–1550 AD
+Dates: c. 1300–1550 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,950
@@ -24,7 +24,7 @@ Confirmed:
 • Category A — Ancient Sources (≥2, verbatim, ≥25 words)
 • Category B — Public-Domain Scholarship (≥2, verbatim, ≥25 words)
 • Category C — Modern Copyrighted Scholarship (≥2 scholars, verbatim)
-• Category D — Medieval continuity logic applied implicitly (Italy, post-800 AD)
+• Category D — Medieval continuity logic applied implicitly (Italy, post-800 CE)
 
 No interpretive claims altered.
 No synthesis resolved.

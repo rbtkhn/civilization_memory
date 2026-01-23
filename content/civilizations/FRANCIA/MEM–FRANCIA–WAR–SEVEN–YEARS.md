@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Seven Years’ War
-Dates: 1756–1763 AD
+Dates: 1756–1763 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150
@@ -72,7 +72,7 @@ Command coherence fragments as priorities multiply. Francia lacks the
 ability to impose decisive hierarchy among theaters, producing
 resource dispersion and strategic dilution.
 
-Peter Wilson emphasizes that by the mid-18th century, even “European”
+Peter Wilson emphasizes that by the mid-18th–9th centuries, even “European”
 wars were already system wars whose outcomes depended on maritime lift,
 credit, and coalition management more than battlefield brilliance (*Heart
 of Europe*).

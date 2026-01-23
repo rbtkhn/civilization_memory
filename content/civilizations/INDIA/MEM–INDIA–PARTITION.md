@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Regime: DECOLONIZATION / CIVILIZATIONAL FRACTURE EVENT (1947)
 Subject: Partition of British India
-Dates: 1946–1948 AD
+Dates: 1946–1948 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

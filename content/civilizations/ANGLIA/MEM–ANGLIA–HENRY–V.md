@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules · Distinguished Scho
 Civilization: ANGLIA
 Regime / Mode: Lancastrian Kingship
 Subject: Henry V
-Dates: 1386–1422 AD
+Dates: 1386–1422 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,650

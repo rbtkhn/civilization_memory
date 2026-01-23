@@ -7,7 +7,7 @@ Supersedes: v1.0
 Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Ural Mountains (Уральские горы)
-Dates: c. 500 BC–present AD
+Dates: c. 500 BCE–present CE
 Class: MEM (Memory)
 ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
@@ -149,7 +149,7 @@ IX. SOURCE QUOTATIONS
 
 CATEGORY A — ANCIENT:
 
-Herodotus, *Histories*, Book IV (c. 440 BC), on the geography of Scythia
+Herodotus, *Histories*, Book IV (c. 440 BCE), on the geography of Scythia
 and the peoples beyond:
 "Beyond the Scythians, toward the rising sun, the land extends to unknown
 limits. The peoples who inhabit these regions are said to be numerous and
@@ -164,7 +164,7 @@ dividing Europe from Asia, relevant to the geographic concept that would
 later be identified with the Urals, providing historical context for the
 civilizational boundary function of the mountain range.
 
-Strabo, *Geography*, Book XI (c. 20 BC), on the boundaries of Europe and
+Strabo, *Geography*, Book XI (c. 20 BCE), on the boundaries of Europe and
 Asia:
 "The boundary between Europe and Asia is marked by certain mountains that
 extend from the north toward the south. These mountains are not of great
@@ -181,7 +181,7 @@ for understanding how the Urals would later function as both geographic
 and civilizational divide, while noting the permeability and resource
 value that would characterize the range.
 
-Pliny the Elder, *Natural History*, Book VI (c. 77 AD), on the geography
+Pliny the Elder, *Natural History*, Book VI (c. 77 CE), on the geography
 of Asia and the boundaries of the known world:
 "The mountains that separate Europe from Asia are said to extend for a
 great distance from north to south. These mountains are not impassable,
@@ -200,7 +200,7 @@ region's strategic value.
 
 CATEGORY B — MEDIEVAL:
 
-Ibn Fadlan, *Risala* (c. 922 AD), on the geography of the Volga region
+Ibn Fadlan, *Risala* (c. 922 CE), on the geography of the Volga region
 and the lands beyond:
 "Beyond the land of the Bulgars, toward the rising sun, there are
 mountains that extend from north to south. These mountains are not high
@@ -216,7 +216,7 @@ the mountains functioned as both geographic divide and economic resource
 in the medieval period, providing context for later Russian industrial
 development.
 
-Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950 AD),
+Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950 CE),
 on the geography of the northern regions:
 "Beyond the lands of the Rus', toward the east, there are mountains that
 extend for a great distance. These mountains mark the boundary between

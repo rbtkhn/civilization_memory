@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE ONLY · ARC–ROME SOURCE EXTENSION (NO STRUCTURAL MODIFI
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: The Black Sea (Pontus Euxinus)
-Dates: Hellenistic era – Late Roman / Eastern Roman continuity
+Dates: Hellenistic era–Late Roman / Eastern Roman continuity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,900

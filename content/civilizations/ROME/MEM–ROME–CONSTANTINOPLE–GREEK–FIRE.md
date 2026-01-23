@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN DEFENSIVE SYSTEM)
 Subject: Greek Fire as Instrument of Strategic Asymmetry and Capital Survival
-Dates: c. AD 670 – AD 1204
+Dates: c. CE 670–CE 1204
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300

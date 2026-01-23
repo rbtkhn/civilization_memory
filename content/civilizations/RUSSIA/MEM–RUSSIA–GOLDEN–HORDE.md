@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Suzerainty · Tributary Interface State
 Subject: Golden Horde (Золотая Орда)
-Dates: c. 1240–1502 AD
+Dates: c. 1240–1502 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050

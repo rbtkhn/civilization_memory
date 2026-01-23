@@ -6,9 +6,9 @@ Version: 1.2
 Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
-Regime: IMPERIAL / CAROLINGIAN (768–814 AD)
+Regime: IMPERIAL / CAROLINGIAN (768–814 CE)
 Subject: Charlemagne (Charles the Great)
-Dates: c. 742–814 AD
+Dates: c. 742–814 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -62,7 +62,7 @@ Authority is inherited, then expanded through performance.
 ────────────────────────────────────────────────────────────
 III. IMPERIAL CROWNING & LEGITIMACY TRANSLATION
 ────────────────────────────────────────────────────────────
-The coronation of 800 AD reframes Western authority.
+The coronation of 800 CE reframes Western authority.
 
 Dynamics:
 • Papal anointing confers universal Christian claim
@@ -77,7 +77,7 @@ The *Royal Frankish Annals* record the transformation explicitly:
 > Romans, life and victory!’ After this acclamation, the pontiff placed
 > the diadem upon his head, and the people paid homage according to ancient
 > custom.”
-> — *Annales Regni Francorum*, entry for 800 AD
+> — *Annales Regni Francorum*, entry for 800 CE
 
 Henry Kissinger interprets the coronation as an early Western experiment
 in legitimacy by moral declaration rather than inherited sovereignty,

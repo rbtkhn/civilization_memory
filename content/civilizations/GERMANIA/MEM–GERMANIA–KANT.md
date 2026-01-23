@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
 Subject: Immanuel Kant
-Dates: 1724–1804 AD
+Dates: 1724–1804 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

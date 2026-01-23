@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–MARCO–POLO — v1.0
 Civilization: ROME (ITALIAN POST-IMPERIAL CONTINUITY / LATIN CHRISTENDOM)
 Regime: POST-IMPERIAL ITALIAN MERCHANT REPUBLICS
 Subject: Marco Polo (Italian Roman World-Recalibrator)
-Dates: 1254–1324 AD
+Dates: 1254–1324 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

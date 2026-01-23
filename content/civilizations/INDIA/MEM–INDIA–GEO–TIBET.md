@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: INDIA (भारतीय सभ्यता)
 Subject: Tibet / Tibetan Plateau (བོད་ / 西藏高原)
-Dates: Antiquity – Present
+Dates: Antiquity–Present
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

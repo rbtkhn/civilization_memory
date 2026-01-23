@@ -7,7 +7,7 @@ Supersedes: v1.0
 Upgrade Type: ADDITIVE · FULL ARC COMPLIANCE · STRUCTURAL EXPANSION
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Atlantic Ocean (Indirect Maritime Access & Structural Exclusion)
-Dates: c. 1500 AD–present
+Dates: c. 1500 CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,150

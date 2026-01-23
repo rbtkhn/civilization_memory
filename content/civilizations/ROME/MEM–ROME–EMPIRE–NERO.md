@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: PRINCIPATE (AESTHETIC AUTOCRACY / TERMINAL JULIO-CLAUDIAN)
 Subject: Nero Claudius Caesar Augustus Germanicus
-Dates: 37–68 AD
+Dates: 37–68 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,300
@@ -59,7 +59,7 @@ Governance becomes backdrop.
 ────────────────────────────────────────────────────────────
 IV. FIRE, SCAPEGOATS, AND CREDIBILITY COLLAPSE
 ────────────────────────────────────────────────────────────
-The Great Fire of Rome (AD 64) marks rupture.
+The Great Fire of Rome  (CE 64) marks rupture.
 
 Outcomes:
 • Public suspicion
@@ -81,7 +81,7 @@ V. TERMINATION OF A DYNASTY
 ────────────────────────────────────────────────────────────
 Revolt spreads.
 Support collapses.
-Nero commits suicide (AD 68).
+Nero commits suicide  (CE 68).
 
 The system survives.
 The dynasty does not.

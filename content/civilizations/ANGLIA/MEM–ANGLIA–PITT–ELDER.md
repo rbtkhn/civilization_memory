@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
 Civilization: ANGLIA
 Subject: William Pitt the Elder (Earl of Chatham)
-Dates: 1708–1778 AD
+Dates: 1708–1778 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,200

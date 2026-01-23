@@ -9,7 +9,7 @@ Supersedes: MEM–ROME–ATHENS — v1.0
 Civilization: ROME
 Region: ATHENS (Attica · Aegean Basin)
 Subject: Athens as Cultural Precursor, Rival Model, and Absorbed Intellect
-Dates: c. 500 BC – AD 500
+Dates: c. 500 BCE–CE 500
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150
@@ -132,7 +132,7 @@ Rome absorbs Athens by containment, not imitation.
 ────────────────────────────────────────────────────────────
 VI. ATHENS UNDER EMPIRE — SYMBOLIC CAPITAL ONLY
 ────────────────────────────────────────────────────────────
-Under Roman rule, especially between AD 100–200:
+Under Roman rule, especially between CE 100–200:
 
 • Athens becomes an educational capital
 • Philosophical schools persist under imperial patronage

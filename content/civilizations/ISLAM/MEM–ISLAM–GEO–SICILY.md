@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
 Version: 1.0
 Civilization: ISLAM
-Regime: MARITIME INFILTRATION / CULTURAL TRANSMISSION (827–1091 AD)
+Regime: MARITIME INFILTRATION / CULTURAL TRANSMISSION (827–1091 CE)
 Subject: Sicily
-Dates: 9th–11th centuries AD
+Dates: 9th–11th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

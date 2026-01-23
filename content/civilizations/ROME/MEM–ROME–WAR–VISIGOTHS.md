@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: LATE IMPERIAL CRISIS → POST-IMPERIAL TRANSITION
 Subject: The Visigoths as the First Autonomous Post-Roman Military Polity
-Dates: AD 376 – AD 418
+Dates: CE 376–CE 418
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200
@@ -29,7 +29,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. FROM GOTHS TO VISIGOTHS
 ────────────────────────────────────────────────────────────
-The Visigoths emerge from the broader Gothic confederation after AD 378.
+The Visigoths emerge from the broader Gothic confederation after CE 378.
 
 Key characteristics:
 • Permanent military identity
@@ -64,7 +64,7 @@ Zosimus records Roman mismanagement:
 Roman authority collapses through **credibility loss**, not force.
 
 ────────────────────────────────────────────────────────────
-IV. THE SACK OF ROME (AD 410)
+IV. THE SACK OF ROME  (CE 410)
 ────────────────────────────────────────────────────────────
 The sack of Rome is symbolic, not strategic.
 
@@ -101,7 +101,7 @@ Gibbon notes:
 Rome survives by **ceding monopoly of force**.
 
 ────────────────────────────────────────────────────────────
-VI. SETTLEMENT IN GAUL (AD 418)
+VI. SETTLEMENT IN GAUL  (CE 418)
 ────────────────────────────────────────────────────────────
 The Visigothic settlement in Aquitaine formalizes autonomy.
 

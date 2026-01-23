@@ -8,7 +8,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: LATE IMPERIAL → EASTERN ROMAN TRANSITION
 Subject: Umayyad–Roman War System (Shock Conquest & Failed Universalization)
-Dates: AD 634–750
+Dates: CE 634–750
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050
@@ -122,7 +122,7 @@ especially in cities and law.
 ────────────────────────────────────────────────────────────
 VII. STRATEGIC PLATEAU
 ────────────────────────────────────────────────────────────
-By the early 8th century:
+By the early 8th–9th centuries:
 • Umayyad expansion slows
 • Frontier stabilizes (Anatolia / Taurus)
 • Raiding replaces conquest

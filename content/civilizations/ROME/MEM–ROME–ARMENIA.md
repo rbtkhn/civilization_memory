@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: REPUBLICAN CONTACT → IMPERIAL BUFFER → EASTERN ROMAN FAULT LINE
 Subject: Armenia as Buffer Kingdom, Legitimacy Battleground, and Imperial Stress Amplifier
-Dates: c. 200 BC – AD 640
+Dates: c. 200 BCE–CE 640
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600
@@ -106,7 +106,7 @@ V. LIMITED INTERVENTION & FAILED PROVINCIALIZATION
 ────────────────────────────────────────────────────────────
 Rome intermittently attempts deeper control.
 
-Trajan briefly annexes Armenia as a province (AD 114–117).
+Trajan briefly annexes Armenia as a province  (CE 114–117).
 
 Cassius Dio records the reversal:
 

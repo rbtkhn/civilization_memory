@@ -7,7 +7,7 @@ Supersedes: v1.0
 Upgrade Type: ADDITIVE · FULL ARC–RUSSIA v1.5 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Caspian Sea (Каспийское море)
-Dates: Antiquity–present (Russian strategic salience from 16th c. AD)
+Dates: Antiquity–present (Russian strategic salience from 16th c. CE)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,650

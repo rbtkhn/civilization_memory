@@ -6,7 +6,7 @@ Version: 2.1
 Upgrade Type: REFINEMENT PASS (STRUCTURAL + MEMORY-ROLE HARDENING)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Yaroslav the Wise (Ярослав Мудрый)
-Dates: c. 978–1054 AD (rule c. 1019–1054)
+Dates: c. 978–1054 CE (rule c. 1019–1054)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,250
@@ -36,7 +36,7 @@ Yaroslav’s reign begins not with law, but with civil war.
 Primary Chronicle anchor:
 > “And Yaroslav gathered the Varangians and the Slavs, and marched
 > against Sviatopolk… and Yaroslav prevailed, and Sviatopolk fled.”
-> — *Primary Chronicle*, entry for 1019 AD
+> — *Primary Chronicle*, entry for 1019 CE
 
 Civilizational implication:
 • Coercive victory remains the entry condition for authority

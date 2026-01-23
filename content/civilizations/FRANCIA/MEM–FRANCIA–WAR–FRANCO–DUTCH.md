@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Franco–Dutch War
-Dates: 1672–1678 AD
+Dates: 1672–1678 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

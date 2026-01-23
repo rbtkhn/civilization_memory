@@ -6,9 +6,9 @@ Version: 1.1
 Upgrade Type: ADDITIVE · ARC COMPLIANCE (MEDIEVAL QUOTATION INSERTIONS ONLY)
 Supersedes: MEM–ROME–ITALY–MEDICI — v1.0
 Civilization: ROME (ITALIAN AFTERLIFE / CIVIC–FINANCIAL CONTINUITY)
-Regime: REPUBLICAN FORMS → OLIGARCHIC STEWARDSHIP (c. 1400–1530 AD)
+Regime: REPUBLICAN FORMS → OLIGARCHIC STEWARDSHIP (c. 1400–1530 CE)
 Subject: The Medici Family (Florence)
-Dates: c. 1377–1537 AD
+Dates: c. 1377–1537 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650
@@ -70,7 +70,7 @@ Niccolò Machiavelli observes this duality with precision:
 Florence preserves Roman civic language while hollowing out Roman
 republican substance.
 
-(See also: MEM–ROME–ITALY–FLORENCE)
+(See MEM–ROME–ITALY–FLORENCE)
 
 ────────────────────────────────────────────────────────────
 IV. CULTURE AS LEGITIMACY INFRASTRUCTURE

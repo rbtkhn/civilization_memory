@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Burgundy (Rival Power, Near-State, and Internal Fracture)
-Dates: 14th–15th centuries AD
+Dates: 14th–15th centuries CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

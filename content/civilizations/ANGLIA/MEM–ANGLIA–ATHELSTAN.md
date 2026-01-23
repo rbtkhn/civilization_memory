@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (v1.6 Ingest Bootstrap + Compliance Alignment)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Æthelstan
-Dates: 894–939 AD
+Dates: 894–939 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,750
@@ -45,7 +45,7 @@ Conditions include:
 > of his kingdom; and the king obtained all the territory which
 > belonged to the kings of Northumbria, and ruled all the land of the
 > English.”
-> — *Anglo-Saxon Chronicle*, entry for 927 AD
+> — *Anglo-Saxon Chronicle*, entry for 927 CE
 
 The Chronicle records unification as a **contemporary political fact**,
 not a retrospective nationalist claim.
@@ -68,7 +68,7 @@ Actions include:
 > “I, Æthelstan, king of the English, ordained this law with the counsel
 > of my bishops and reeves, that peace be kept throughout all my realm,
 > and that justice be established alike for rich and poor.”
-> — Law Code of Æthelstan, Prologue (c. 930 AD)
+> — Law Code of Æthelstan, Prologue (c. 930 CE)
 
 John Keegan observes that early English unification succeeded less
 through decisive battlefield annihilation than through **the extension

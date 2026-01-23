@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Notre-Dame de Paris
-Dates: 1163 AD–present
+Dates: 1163 CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

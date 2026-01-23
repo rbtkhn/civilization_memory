@@ -7,7 +7,7 @@ Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules · Distinguished Scho
 Civilization: ANGLIA
 Regime / Mode: Tudor Monarchy
 Subject: Henry VIII
-Dates: 1491–1547 AD
+Dates: 1491–1547 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,800

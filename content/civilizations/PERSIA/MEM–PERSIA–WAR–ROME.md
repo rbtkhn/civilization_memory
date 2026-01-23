@@ -4,7 +4,7 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
-Dates: c. 53 BCAD – 628 AD
+Dates: c. 53 BCAD–628 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000
@@ -101,7 +101,7 @@ Rome sharpens Persia’s identity.
 ────────────────────────────────────────────────────────────
 VII. TERMINAL PARADOX: MUTUAL EXHAUSTION
 ────────────────────────────────────────────────────────────
-The final Roman–Persian war (602–628 AD) produces no winner.
+The final Roman–Persian war (602–628 CE) produces no winner.
 
 Outcome:
 • Persia temporarily captures vast Roman territory

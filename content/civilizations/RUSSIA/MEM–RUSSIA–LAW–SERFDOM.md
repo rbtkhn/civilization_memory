@@ -7,7 +7,7 @@ Supersedes: v1.0 (renamed from MEM–RUSSIA–SERFDOM)
 Upgrade Type: ADDITIVE · v2.0 COMPLIANCE + RENAME (v1.0 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Serfdom (Крепостное право)
-Dates: c. 1590s–1861 AD
+Dates: c. 1590s–1861 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600

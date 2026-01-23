@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: EARLY PRINCIPATE (AUGUSTAN)
 Subject: Battle of the Teutoburg Forest (Roman Perspective)
-Dates: 9 AD
+Dates: 9 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,350
@@ -32,7 +32,7 @@ II. AUGUSTAN CONTEXT & IMPERIAL OVERCONFIDENCE
 By 9 AD, Rome believes Germania is administratively mature.
 
 Assumptions:
-• Post-Actium confidence in imperial control (see MEM–ROME–WAR–ACTIUM)
+• Post-Actium confidence in imperial control (See MEM–ROME–WAR–ACTIUM)
 • Success in Gaul as a transferable model
 • Census, taxation, and law already initiated
 • Military presence re-tasked from conquest to governance
@@ -78,7 +78,7 @@ Rome’s integrative strategy produces
 an adversary capable of inversion.
 
 This mirrors later frontier failures
-(see MEM–ROME–GEO–RHINE–RIVER).
+(See MEM–ROME–GEO–RHINE–RIVER).
 
 Rome is undone by **partial Romanization**.
 
@@ -135,9 +135,9 @@ Immediate adjustments:
 • Shift from absorption to containment
 
 This decision parallels later restraint
-along the Rhine (see MEM–ROME–GEO–RHINE–RIVER)
+along the Rhine (See MEM–ROME–GEO–RHINE–RIVER)
 and contrasts with overextension on the Danube
-(see MEM–ROME–GEO–DANUBE–RIVER).
+(See MEM–ROME–GEO–DANUBE–RIVER).
 
 Rome chooses **where not to rule**.
 
@@ -156,7 +156,7 @@ Rome internalizes a lesson:
 procedure cannot precede consent.
 
 This lesson informs Augustan consolidation
-(see MEM–ROME–AUGUSTUS).
+(See MEM–ROME–AUGUSTUS).
 
 ────────────────────────────────────────────────────────────
 IX. ROMAN MEMORY VS GERMANIC MEMORY
@@ -171,7 +171,7 @@ Germanic encoding:
 • Denial victory
 • Autonomy preserved
 • Proof of non-absorption
-(see MEM–GERMANIA–WAR–TEUTOBURG–FOREST)
+(See MEM–GERMANIA–WAR–TEUTOBURG–FOREST)
 
 The same event teaches opposite grammars.
 

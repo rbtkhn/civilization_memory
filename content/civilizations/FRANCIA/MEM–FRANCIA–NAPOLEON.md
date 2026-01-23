@@ -6,9 +6,9 @@ Version: 1.3
 Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule; includes Andrew Roberts as additional secondary source)
 Civilization: FRANCIA
-Regime: REVOLUTIONARY / IMPERIAL (1799–1815 AD)
+Regime: REVOLUTIONARY / IMPERIAL (1799–1815 CE)
 Subject: Napoleon Bonaparte
-Dates: 1769–1821 AD
+Dates: 1769–1821 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,250

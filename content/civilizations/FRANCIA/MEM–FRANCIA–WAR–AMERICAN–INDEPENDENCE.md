@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: FRANCIA
 Regime: UNIVERSALIST REVANCHISM / IMPERIAL PRESTIGE RECOVERY (1778–1783)
 Subject: War of American Independence (French Perspective)
-Dates: 1778–1783 AD
+Dates: 1778–1783 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: INDIA
 Subject: Kashmir / Jammu & Kashmir
-Dates: Antiquity – Present
+Dates: Antiquity–Present
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

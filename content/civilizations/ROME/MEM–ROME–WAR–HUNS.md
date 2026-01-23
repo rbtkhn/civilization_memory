@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: LATE IMPERIAL DEFENSE → CRISIS MOBILIZATION
 Subject: The Huns as External Shock Force and Catalyst of Imperial Reconfiguration
-Dates: c. AD 370 – AD 454
+Dates: c. CE 370–CE 454
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -106,7 +106,7 @@ Priscus describes Attila’s authority:
 Attila creates **empire-like effects without empire-like structure**.
 
 ────────────────────────────────────────────────────────────
-VI. THE BATTLE OF THE CATALAUNIAN PLAINS (AD 451)
+VI. THE BATTLE OF THE CATALAUNIAN PLAINS  (CE 451)
 ────────────────────────────────────────────────────────────
 The battle halts Hun expansion but does not destroy Hun power.
 
@@ -126,7 +126,7 @@ Rome survives through **coalition leadership**, not supremacy.
 ────────────────────────────────────────────────────────────
 VII. COLLAPSE AFTER ATTILA
 ────────────────────────────────────────────────────────────
-The Hun polity disintegrates rapidly after Attila’s death (AD 453).
+The Hun polity disintegrates rapidly after Attila’s death  (CE 453).
 
 Causes:
 • Lack of institutional continuity

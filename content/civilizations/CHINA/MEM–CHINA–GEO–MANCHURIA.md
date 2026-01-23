@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Manchuria (满洲 / 东北)
-Dates: Antiquity – Present
+Dates: Antiquity–Present
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

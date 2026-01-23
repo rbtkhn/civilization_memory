@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ANGLIA
 Regime: MARITIME–FINANCIAL WAR STATE / COALITION ANCHOR (1793–1815)
 Subject: The Napoleonic Wars (Anglian Perspective)
-Dates: 1793–1815 AD
+Dates: 1793–1815 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

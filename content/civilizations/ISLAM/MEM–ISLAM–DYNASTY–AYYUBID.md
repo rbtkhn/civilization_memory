@@ -4,9 +4,9 @@ ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ISLAM
-Regime: SUNNI RESTORATIVE / SACRED-ZONE RECOVERY (c. 1171–1250 AD)
+Regime: SUNNI RESTORATIVE / SACRED-ZONE RECOVERY (c. 1171–1250 CE)
 Subject: Ayyubid Dynasty
-Dates: 12th–13th centuries AD
+Dates: 12th–13th centuries CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

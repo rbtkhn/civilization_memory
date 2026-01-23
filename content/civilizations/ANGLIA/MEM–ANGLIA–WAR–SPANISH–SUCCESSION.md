@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: HARDENED SOURCE INTEGRATION & COALITION ANALYSIS
 Civilization: ANGLIA
 Subject: War of the Spanish Succession (Coalition Management & System Containment)
-Dates: 1701–1714 AD
+Dates: 1701–1714 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,500
@@ -39,7 +39,7 @@ pamphlet from 1701 framed the danger succinctly:
 > “The joining of Spain to France would give one Prince the keys of
 > Europe, the Indies, and the Seas; and such a power, if not prevented,
 > must in time give law to all its neighbours.”  
-> (*A Short View of the Danger of the Succession*, London, 1701)
+> (*A Short View of the Danger of the Succession*. London, 1701)
 
 The language is preventive rather than punitive. Anglia does not argue
 that Francia must be conquered—only that **consolidation must be
@@ -90,7 +90,7 @@ A contemporary defense of public credit argued:
 > “Whilst other nations exhaust themselves by sudden efforts, we are
 > enabled by the course of our funds to make war without dislocating the
 > state, and to continue when others must desist.”  
-> (*Considerations on the National Debt*, London, 1710)
+> (*Considerations on the National Debt*. London, 1710)
 
 Finance converts **time into leverage**.
 

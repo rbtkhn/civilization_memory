@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: James Monroe
-Dates: 1758–1831 AD
+Dates: 1758–1831 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

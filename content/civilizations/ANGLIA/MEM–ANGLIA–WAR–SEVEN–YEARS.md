@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE (Hardened Source Compliance · Primary Anchors · Disting
 Civilization: ANGLIA
 Regime: MARITIME–FINANCIAL ASCENT / IMPERIAL SYSTEM BREAKTHROUGH (1756–1763)
 Subject: Seven Years’ War
-Dates: 1756–1763 AD
+Dates: 1756–1763 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600

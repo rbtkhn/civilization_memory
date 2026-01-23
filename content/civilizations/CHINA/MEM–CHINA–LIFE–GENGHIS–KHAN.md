@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Genghis Khan (Chinggis Khan, scholarly variant; 成吉思汗)
-Dates: c. 1162–1227 AD
+Dates: c. 1162–1227 CE
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

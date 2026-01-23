@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
 Civilization: GERMANIA
 Opposing Civilization: ROME
 Subject: Battle of the Teutoburg Forest
-Dates: 9 AD
+Dates: 9 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300

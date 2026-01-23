@@ -3,7 +3,7 @@ Status: LOCKED
 Version: 1.0
 Civilization: CHINA (中华文明)
 Subject: Song Dynasty (宋)
-Dates: 960–1279 AD
+Dates: 960–1279 CE
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

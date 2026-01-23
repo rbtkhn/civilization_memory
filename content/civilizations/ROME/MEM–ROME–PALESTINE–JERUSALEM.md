@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ROME
 Regime: IMPERIAL OCCUPATION / SACRED CONFLICT ZONE
 Subject: Jerusalem
-Dates: 63 BC → 135 AD (destruction cycles)
+Dates: 63 BCE → 135 CE (destruction cycles)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,200

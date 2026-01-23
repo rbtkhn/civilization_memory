@@ -8,7 +8,7 @@ Last Update: January 2026
 Word Count: ~2,000
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Seven Years' War
-Dates: 1756–1763 AD
+Dates: 1756–1763 CE
 Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
 Compatibility: CMC v2.0+
 ────────────────────────────────────────────────────────────

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Austria (Imperial Core, Administrative Spine, and Dynastic Anchor)
-Dates: c. 976 AD–1918 AD
+Dates: c. 976 CE–1918 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

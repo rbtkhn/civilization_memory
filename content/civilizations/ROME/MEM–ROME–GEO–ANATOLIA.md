@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: Anatolia (Asia Minor)
-Dates: 2nd century BC → 1453 AD (continuity)
+Dates: 2nd century BCE → 1453 CE (continuity)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,100

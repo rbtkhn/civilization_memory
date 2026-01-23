@@ -4,7 +4,7 @@ Version: 1.0
 Civilization: ANGLIA
 Regime: REVOLUTIONARY / MILITARY–PURITAN (1642–1660)
 Subject: Oliver Cromwell
-Dates: 1599–1658 AD
+Dates: 1599–1658 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

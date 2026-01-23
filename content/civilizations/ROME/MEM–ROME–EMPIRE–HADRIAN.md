@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–EMPIRE–HADRIAN — v1.1
 Civilization: ROME
 Regime: IMPERIAL CONSOLIDATION / DEFENSIVE GOVERNANCE
 Subject: Publius Aelius Hadrianus (Hadrian)
-Dates: 76–138 AD
+Dates: 76–138 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,900

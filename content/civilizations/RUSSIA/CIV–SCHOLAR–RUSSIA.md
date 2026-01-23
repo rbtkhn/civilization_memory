@@ -585,9 +585,9 @@ Forbidden:
 XVIII. STORAGE & MIRRORING RULE
 ────────────────────────────────────────────────────────────
 This file MUST be mirrored verbatim into:
-– CIV–CORE–[CIV] (all civilizations)
-– CIV–SCHOLAR–[CIV] (all civilizations)
-– CIV–INDEX–[CIV] (when applicable)
+–CIV–CORE–[CIV] (all civilizations)
+–CIV–SCHOLAR–[CIV] (all civilizations)
+–CIV–INDEX–[CIV] (when applicable)
 
 Any divergence invalidates MEM compliance for that civilization.
 

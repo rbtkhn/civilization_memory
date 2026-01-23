@@ -101,7 +101,7 @@ Scipio represents **disciplined learning**, not brilliance unchecked.
 ────────────────────────────────────────────────────────────
 V. ZAMA: SYSTEMIC REVERSAL
 ────────────────────────────────────────────────────────────
-At Zama (202 BC), Scipio defeats Hannibal.
+At Zama (202 BCE), Scipio defeats Hannibal.
 
 Decisive factors:
 • Cavalry superiority through alliance

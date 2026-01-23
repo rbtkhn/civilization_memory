@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Thomas Jefferson
-Dates: 1743–1826 AD
+Dates: 1743–1826 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

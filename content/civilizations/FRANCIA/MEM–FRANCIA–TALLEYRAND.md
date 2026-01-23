@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
 Civilization: FRANCIA
 Regime: REVOLUTIONARY / IMPERIAL / RESTORATION (1789–1830)
 Subject: Charles-Maurice de Talleyrand-Périgord
-Dates: 1754–1838 AD
+Dates: 1754–1838 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,700

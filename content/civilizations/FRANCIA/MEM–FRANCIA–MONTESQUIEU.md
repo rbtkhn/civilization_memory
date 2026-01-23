@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Charles-Louis de Secondat, Baron de Montesquieu
-Dates: 1689–1755 AD
+Dates: 1689–1755 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

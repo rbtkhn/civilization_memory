@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Napoleonic Code (Code civil)
-Dates: 1804 AD–present (derivative influence)
+Dates: 1804 CE–present (derivative influence)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,250

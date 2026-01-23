@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → LATE IMPERIAL FRONTIER
 Subject: Danube River System (Limes, Corridor, and Failure Line)
-Dates: 1st century BCAD – 5th century AD
+Dates: 1st century BCAD–5th century CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550
@@ -96,7 +96,7 @@ Roman law operates strongly inside forts
 and weakly beyond them.
 
 This contrasts with Mediterranean integration
-(see MEM–ROME–GEO–MEDITERRANEAN–SEA).
+(See MEM–ROME–GEO–MEDITERRANEAN–SEA).
 
 The Danube remains a **managed edge**, not a Roman heartland.
 

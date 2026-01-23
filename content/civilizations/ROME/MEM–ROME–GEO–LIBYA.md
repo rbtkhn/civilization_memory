@@ -6,7 +6,7 @@ Version: 1.0
 Civilization: ROME
 Regime: IMPERIAL (FRONTIER DESERT PROVINCE)
 Subject: Libya (Tripolitania and Cyrenaica)
-Dates: Republican era – Late Antiquity
+Dates: Republican era–Late Antiquity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,850

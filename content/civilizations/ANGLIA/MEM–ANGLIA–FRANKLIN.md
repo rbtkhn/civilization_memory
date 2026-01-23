@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: Benjamin Franklin
-Dates: 1706–1790 AD
+Dates: 1706–1790 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

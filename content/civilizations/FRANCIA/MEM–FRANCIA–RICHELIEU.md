@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Cardinal Armand Jean du Plessis, duc de Richelieu
-Dates: 1585–1642 AD
+Dates: 1585–1642 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,050

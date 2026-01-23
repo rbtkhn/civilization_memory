@@ -7,7 +7,7 @@ Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
 Civilization: GERMANIA
 Regime / Mode: Sacral–Imperial Monarchy
 Subject: Charlemagne (Karl der Große)
-Dates: c. 742–814 AD
+Dates: c. 742–814 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,920
@@ -87,7 +87,7 @@ The *Capitulare missorum* formalized administrative penetration:
 
 > “Let the missi inquire diligently whether counts and judges have
 > rendered justice… and correct what they find amiss.”
-> — *Capitulare missorum*, late 8th century
+> — *Capitulare missorum*, late 8th–9th centuries
 
 Administration existed to enforce discipline, not negotiate autonomy.
 

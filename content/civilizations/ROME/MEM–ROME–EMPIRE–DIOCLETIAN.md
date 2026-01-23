@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: IMPERIAL RECONSTRUCTION / COLLEGIATE AUTOCRACY
 Subject: Gaius Aurelius Valerius Diocletianus (Diocletian)
-Dates: c. AD 244 – 311
+Dates: c. CE 244–311
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,700

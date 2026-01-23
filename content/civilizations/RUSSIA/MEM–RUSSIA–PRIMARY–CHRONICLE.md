@@ -8,7 +8,7 @@ Upgrade Type: DEEP CANONICAL UPGRADE · ARC EVIDENTIARY SPINE FORMALIZATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Narrative Legitimacy Compiler · Ecclesiastical Chronicle
 Subject: Primary Chronicle (Повесть временных лет)
-Dates: c. 850–1110 AD (composition c. 1113 AD)
+Dates: c. 850–1110 CE (composition c. 1113 CE)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,900
@@ -48,7 +48,7 @@ The Chronicle’s logic of invited rule and external stabilization rests
 on **older late-antique descriptions of northern disorder and frontier
 peoples**, which pre-condition later Rus’ narratives.
 
-**Jordanes (Getica, c. 551 AD)** — describing northern peoples and
+**Jordanes (Getica, c. 551 CE)** — describing northern peoples and
 political instability beyond Roman order:
 
 > “In Scandza there are many tribes, all fierce and war-loving, who live
@@ -61,7 +61,7 @@ political instability beyond Roman order:
 This description supplies an early **structural template**:
 lawlessness → roaming authority → external ordering force.
 
-**Procopius (Wars, 6th century AD)** — on Slavs and frontier disorder:
+**Procopius (Wars, 6th century CE)** — on Slavs and frontier disorder:
 
 > “These nations, the Sclaveni and the Antes, are not ruled by one man,
 > but they live in democracy, and their affairs are decided by common

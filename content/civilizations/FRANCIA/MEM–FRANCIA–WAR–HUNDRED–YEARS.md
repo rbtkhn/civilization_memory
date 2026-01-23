@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANCE
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
 Subject: Hundred Years’ War
-Dates: 1337–1453 AD
+Dates: 1337–1453 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,450

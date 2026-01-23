@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: GERMANIA
 Subject: Hohenzollern Dynasty
-Dates: c. 1415–1918 AD
+Dates: c. 1415–1918 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

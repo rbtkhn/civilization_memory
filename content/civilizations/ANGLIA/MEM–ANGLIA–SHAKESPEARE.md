@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: William Shakespeare
-Dates: 1564–1616 AD
+Dates: 1564–1616 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

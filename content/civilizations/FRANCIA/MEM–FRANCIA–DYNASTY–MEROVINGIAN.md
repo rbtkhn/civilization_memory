@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Merovingian Dynasty
-Dates: c. 450–751 AD
+Dates: c. 450–751 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

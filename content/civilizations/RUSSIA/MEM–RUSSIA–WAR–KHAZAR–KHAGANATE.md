@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Khazar Khaganate Wars (Хазарские войны) — Trade Empire Confrontation
-Dates: 830s–965 AD (major conflicts: 880s–965)
+Dates: 830s–965 CE (major conflicts: 880s–965)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -183,21 +183,21 @@ X. ARC COMPLIANCE & CITATIONS
 ARC Quotations Applied:
 
 ANCIENT (≥3 quotations, ≥75 words aggregate):
-1. "In the year 6472 (964 AD), Sviatoslav went campaigning against the Khazars. Hearing of this, the Khazar kagan came out against him with his prince and met him on the Volga. And they joined battle, and after fighting for a long time, Sviatoslav defeated the Khazars and took their city of Belaya Vezha." (Primary Chronicle, Laurentian Codex - 68 words)
+1. "In the year 6472 (964 CE), Sviatoslav went campaigning against the Khazars. Hearing of this, the Khazar kagan came out against him with his prince and met him on the Volga. And they joined battle, and after fighting for a long time, Sviatoslav defeated the Khazars and took their city of Belaya Vezha." (Primary Chronicle, Laurentian Codex)
 
-2. "We have been much oppressed by the Khazars and the Kozars. So we have sent to you, for we have heard that you are a just king and your people are believers. We beg you to send us one of your servants to judge between us justly." (Kievan Letter, Hebrew correspondence to Hasdai ibn Shaprut, 10th century - 58 words)
+2. "We have been much oppressed by the Khazars and the Kozars. So we have sent to you, for we have heard that you are a just king and your people are believers. We beg you to send us one of your servants to judge between us justly." (Kievan Letter, Hebrew correspondence to Hasdai ibn Shaprut, 10th century)
 
-3. "The Khazars dwell by the Caspian Sea... They are a people of Turks who came from the remotest north... They became a great and powerful nation, conquering many countries until they reached the Caspian Sea." (Al-Masudi, Meadows of Gold, 10th century - 49 words)
+3. "The Khazars dwell by the Caspian Sea... They are a people of Turks who came from the remotest north... They became a great and powerful nation, conquering many countries until they reached the Caspian Sea." (Al-Masudi, Meadows of Gold, 10th century)
 
 MEDIEVAL (≥2 quotations):
-1. "The Khazars were a mighty people with a king of their own, and they had subjected to their rule many peoples around them, taking tribute from the Russians and the Slavs and from various other nations." (Ibn al-Athir, Complete History, 13th century - 45 words)
+1. "The Khazars were a mighty people with a king of their own, and they had subjected to their rule many peoples around them, taking tribute from the Russians and the Slavs and from various other nations." (Ibn al-Athir, Complete History, 13th century)
 
-2. "The Khazar kagan, seeing that his forces were being defeated, sent messengers to Sviatoslav saying: 'Do not destroy my city, and I will give you tribute such as you have never received from any people.' Sviatoslav accepted the tribute and returned to Kiev." (Hypatian Codex, 15th century - 52 words)
+2. "The Khazar kagan, seeing that his forces were being defeated, sent messengers to Sviatoslav saying: 'Do not destroy my city, and I will give you tribute such as you have never received from any people.' Sviatoslav accepted the tribute and returned to Kiev." (Hypatian Codex, 15th century)
 
 MODERN (≥2 quotations):
-1. "The Khazar empire represented the dominant political and economic power in the western Eurasian steppe during the early Middle Ages, controlling the vital Volga-Don trade corridor that linked the Byzantine world with Central Asia and the Islamic caliphate." (Peter Golden, Khazar Studies: An Historico-Philological Inquiry into the Origins of the Khazars, 1980 - 62 words)
+1. "The Khazar empire represented the dominant political and economic power in the western Eurasian steppe during the early Middle Ages, controlling the vital Volga-Don trade corridor that linked the Byzantine world with Central Asia and the Islamic caliphate." (Peter Golden. Khazar Studies: An Historico-Philological Inquiry into the Origins of the Khazars, 1980)
 
-2. "The fall of the Khazar Khaganate to Sviatoslav's Rus' marked a critical turning point in Eurasian geopolitics, opening the Volga trade routes to Russian control and establishing the foundations for Russian expansion into the steppe and Caspian regions." (Thomas Noonan, The Khazar Economy, 1984 - 54 words)
+2. "The fall of the Khazar Khaganate to Sviatoslav's Rus' marked a critical turning point in Eurasian geopolitics, opening the Volga trade routes to Russian control and establishing the foundations for Russian expansion into the steppe and Caspian regions." (Thomas Noonan. The Khazar Economy, 1984)
 
 Primary Sources:
 • Russian Primary Chronicle (Tale of Bygone Years)

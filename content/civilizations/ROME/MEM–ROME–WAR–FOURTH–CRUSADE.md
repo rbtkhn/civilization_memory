@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · FULL ARC COMPLIANCE (A–B–C–D SATISFIED)
 Civilization: ROME (LATIN CHRISTIAN ↔ ROMAN IMPERIAL CONTINUITY)
 Regime: PAPAL UNIVERSALISM / FRACTURED CHRISTENDOM
 Subject: The Fourth Crusade
-Dates: 1202–1204 AD
+Dates: 1202–1204 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,200

@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: South Africa (Extraction Colony, Racial Codification, and Moral Fracture)
-Dates: 1795 AD–present
+Dates: 1795 CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 

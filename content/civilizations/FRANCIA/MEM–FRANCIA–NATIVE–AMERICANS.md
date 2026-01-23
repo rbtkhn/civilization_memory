@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Native Americans (Alliance Partners, Imperial Instruments, and Abandoned Intermediaries)
-Dates: 16th century–1763 AD
+Dates: 16th century–1763 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

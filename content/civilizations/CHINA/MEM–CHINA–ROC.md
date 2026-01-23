@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Republic of China (中华民国)
-Dates: 1912 – Present (fragmented sovereignty)
+Dates: 1912–Present (fragmented sovereignty)
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────

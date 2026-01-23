@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANCE
 Civilization: ANGLIA
 Regime / Mode: Elizabethan Settlement
 Subject: Elizabeth I
-Dates: 1533–1603 AD
+Dates: 1533–1603 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~3,100

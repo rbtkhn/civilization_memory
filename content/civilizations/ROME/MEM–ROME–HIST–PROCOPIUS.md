@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANCE
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION (JUSTINIANIC ERA)
 Subject: Procopius (Imperial Reality, War, and Administrative Truth)
-Dates: c. AD 500 – c. 565
+Dates: c. CE 500–c. 565
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,550

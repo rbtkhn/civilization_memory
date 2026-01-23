@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · ARC-COMPLIANT
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL (INFRASTRUCTURAL SOVEREIGNTY)
 Subject: Aqueducts (Water, Law, and Urban Power)
-Dates: c. 312 BC – Late Antiquity (with afterlife)
+Dates: c. 312 BCE–Late Antiquity (with afterlife)
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600
@@ -46,7 +46,7 @@ This is Rome’s earliest form of biopolitics.
 ────────────────────────────────────────────────────────────
 III. THE REPUBLICAN ORIGIN: AQUA APPIA
 ────────────────────────────────────────────────────────────
-The first Roman aqueduct (312 BC) coincides with republican expansion.
+The first Roman aqueduct (312 BCE) coincides with republican expansion.
 
 Livy records its civic intent:
 

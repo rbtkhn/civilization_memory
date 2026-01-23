@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · MEDIEVAL ARC COMPLIANT
 Civilization: ROME (IBERIAN CONTINUITY)
 Regime: ASTURIAN KINGDOM → LEONESE MONARCHY → ABSORPTION INTO CASTILE
 Subject: Kingdom of León
-Dates: c. 910 AD – 1230 AD
+Dates: c. 910 CE–1230 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,450

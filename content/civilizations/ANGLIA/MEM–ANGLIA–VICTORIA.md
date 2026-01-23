@@ -6,7 +6,7 @@ Version: 1.4
 Upgrade Type: ADDITIVE (Primary + Secondary Source Hardening)
 Civilization: ANGLIA
 Subject: Queen Victoria
-Dates: 1819–1901 AD
+Dates: 1819–1901 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,420

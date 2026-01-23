@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–ITALY–FLORENCE — v1.0
 Civilization: ROME (ITALIAN AFTERLIFE / LATIN CONTINUITY)
 Regime: MEDIEVAL COMMUNE → RENAISSANCE REPUBLIC → OLIGARCHIC CULTURAL STATE
 Subject: Florence (Civic Revival, Cultural Reconstitution, and Post-Imperial Rome)
-Dates: c. 1100–1550 AD
+Dates: c. 1100–1550 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,150

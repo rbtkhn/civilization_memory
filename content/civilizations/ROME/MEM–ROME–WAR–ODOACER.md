@@ -8,7 +8,7 @@ Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: LATE IMPERIAL DISINTEGRATION → POST-IMPERIAL CONTINUITY
 Subject: Odoacer and the Termination of the Western Imperial Office
-Dates: AD 476–493
+Dates: CE 476–493
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,950
@@ -76,7 +76,7 @@ It is **administrative confession**.
 ────────────────────────────────────────────────────────────
 IV. THE DEPOSITION OF ROMULUS AUGUSTULUS
 ────────────────────────────────────────────────────────────
-The removal of Romulus Augustulus (AD 476) is structurally modest but
+The removal of Romulus Augustulus  (CE 476) is structurally modest but
 symbolically decisive.
 
 Characteristics:

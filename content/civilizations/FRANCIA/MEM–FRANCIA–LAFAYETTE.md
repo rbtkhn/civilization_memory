@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: FRANCIA
 Subject: Gilbert du Motier, Marquis de Lafayette
-Dates: 1757–1834 AD
+Dates: 1757–1834 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

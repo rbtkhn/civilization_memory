@@ -7,7 +7,7 @@ Version: 1.0
 Civilization: ROME
 Region: GAUL (Gallia)
 Subject: Gaul as Roman Geographic, Administrative, and Civilizational Terrain
-Dates: c. 600 BC – 500 AD
+Dates: c. 600 BCE–500 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,380

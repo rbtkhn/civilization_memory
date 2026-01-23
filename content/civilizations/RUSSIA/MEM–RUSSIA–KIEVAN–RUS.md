@@ -7,7 +7,7 @@ Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Early Rus’ · Trade-Networked Plural Civilization
 Subject: Kievan Rus’ (Киевская Русь)
-Dates: 882–1240 AD
+Dates: 882–1240 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,900

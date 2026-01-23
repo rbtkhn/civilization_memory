@@ -6,7 +6,7 @@ Version: 1.1
 Upgrade Type: COMPLIANCE UPGRADE (TEMPLATE ENFORCEMENT)
 Civilization: FRANCIA
 Subject: Pacific Ocean System (Peripheral Projection, Prestige Outpost, Strategic Ceiling)
-Dates: 18th century–present
+Dates: 18th–9th centuries–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,050
@@ -32,7 +32,7 @@ II. LATE ENTRY & STRUCTURAL DISADVANTAGE
 ────────────────────────────────────────────────────────────
 Francia enters the Pacific after global maritime hierarchy is already set.
 
-By the mid-18th century:
+By the mid-18th–9th centuries:
 • Iberian powers control early routes
 • Anglia dominates naval systems
 • Trade networks pre-exist French participation

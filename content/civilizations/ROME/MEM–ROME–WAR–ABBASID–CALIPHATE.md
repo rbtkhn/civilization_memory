@@ -8,7 +8,7 @@ Upgrade Type: NEW FILE
 Civilization: ROME
 Regime: EASTERN ROMAN (MEDIEVAL CONTINUITY PHASE)
 Subject: Abbasid–Roman War System (Parity, Translation, and Strategic Freeze)
-Dates: AD 750–945
+Dates: CE 750–945
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,100

@@ -7,7 +7,7 @@ Upgrade Type: COMPLIANCE HARDENING · ARC–ROME ALIGNMENT · GEOMETRIC INTEGRAT
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: The Aegean Sea
-Dates: Archaic Greek era – Late Roman / Eastern Roman continuity
+Dates: Archaic Greek era–Late Roman / Eastern Roman continuity
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,750

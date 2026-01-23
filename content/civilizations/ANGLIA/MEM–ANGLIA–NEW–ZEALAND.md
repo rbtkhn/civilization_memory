@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Subject: New Zealand (Treaty State, Moral Procedure, and Legitimacy Experiment)
-Dates: 1840 AD–present
+Dates: 1840 CE–present
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,000

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: INDIA
 Subject: Clive & the East India Company Conquest
-Dates: 1757–1764 AD
+Dates: 1757–1764 CE
 Class: MEM (Memory)
 Last Update: December 2025
 Word Count: ~2,000

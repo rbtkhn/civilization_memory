@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–ITALY–MACHIAVELLI — v1.0
 Civilization: ROME (ITALIAN POLITICAL AFTERLIFE)
 Regime: REPUBLICAN MEMORY → POST-IMPERIAL REALISM
 Subject: Niccolò Machiavelli (Florence)
-Dates: 1469–1527 AD
+Dates: 1469–1527 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,600

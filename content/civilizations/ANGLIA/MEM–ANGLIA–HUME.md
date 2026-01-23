@@ -5,7 +5,7 @@ Status: ACTIVE
 Version: 1.3
 Civilization: ANGLIA
 Subject: David Hume (Skepticism, Convention, and Order Without Certainty)
-Dates: 1711–1776 AD
+Dates: 1711–1776 CE
 Class: MEM (Memory)
 Last Update: January 2026
 

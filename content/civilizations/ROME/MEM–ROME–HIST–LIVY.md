@@ -8,7 +8,7 @@ Supersedes: MEM–ROME–LIVY — v1.0
 Civilization: ROME
 Regime: AUGUSTAN AGE (RETROSPECTIVE / MORAL-HISTORIOGRAPHICAL)
 Subject: Titus Livius (Livy)
-Dates: 59 BC – AD 17
+Dates: 59 BCE–CE 17
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~2,600

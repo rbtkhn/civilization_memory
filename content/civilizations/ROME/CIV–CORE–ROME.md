@@ -50,8 +50,8 @@ Guarantees:
 
 Additions introduced in v1.8:
 • Formal propagation of the system-wide rename:
-  – "Lecture Mode" → "Teach Mode"
-  – "LOGE" (Lecture Option Generation Engine) → "TOGE" (Teach Option Generation Engine)
+–"Lecture Mode" → "Teach Mode"
+–"LOGE" (Lecture Option Generation Engine) → "TOGE" (Teach Option Generation Engine)
 • Declarative mapping clause added to the Pedagogical Interface section
 • Back-link updated to CIV–SCHOLAR–PROTOCOL v1.5 (Teach Mode / TOGE)
 
@@ -240,8 +240,8 @@ Define the boundary between CIV–CORE authority and SCHOLAR cognition.
 Rules:
 • SCHOLAR has ZERO interpretive authority inside CIV–CORE.
 • SCHOLAR beliefs, syntheses, or doctrines are NON-BINDING unless:
-  – Explicitly frozen in SCHOLAR
-  – Explicitly accepted via a Doctrine Intake Buffer (DIB)
+–Explicitly frozen in SCHOLAR
+–Explicitly accepted via a Doctrine Intake Buffer (DIB)
 • Silent bleed-through is forbidden.
 • CIV–CORE constraints override SCHOLAR output at all times.
 
@@ -882,9 +882,9 @@ Forbidden:
 XVIII. STORAGE & MIRRORING RULE
 ────────────────────────────────────────────────────────────
 This file MUST be mirrored verbatim into:
-– CIV–CORE–[CIV] (all civilizations)
-– CIV–SCHOLAR–[CIV] (all civilizations)
-– CIV–INDEX–[CIV] (when applicable)
+–CIV–CORE–[CIV] (all civilizations)
+–CIV–SCHOLAR–[CIV] (all civilizations)
+–CIV–INDEX–[CIV] (when applicable)
 
 Any divergence invalidates MEM compliance for that civilization.
 

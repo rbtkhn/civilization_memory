@@ -7,7 +7,7 @@ Upgrade Type: NEW FILE · HISTORIOGRAPHICAL REFRAME
 Civilization: ROME (CONTINUITY / SELF-INTERPRETATION)
 Regime: IMPERIAL → EASTERN ROMAN (REJECTED “BYZANTINE” FRAME)
 Subject: Anthony Kaldellis
-Dates: b. 1969 AD
+Dates: b. 1969 CE
 Class: MEM (Memory)
 Last Update: January 2026
 Word Count: ~1,650
@@ -108,7 +108,7 @@ The Roman state:
 • Retains legitimacy claims
 • Continues taxation, law, diplomacy, and war
 
-476 AD is a Western event—not a Roman one.
+476 CE is a Western event—not a Roman one.
 
 ────────────────────────────────────────────────────────────
 VII. POLEMIC AGAINST “BYZANTIUM”

@@ -3,7 +3,7 @@ Status: ACTIVE
 Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Xinjiang / Western Regions (新疆 / 西域)
-Dates: Antiquity – Present
+Dates: Antiquity–Present
 Class: MEM (Memory)
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
@@ -100,7 +100,7 @@ This created durable cultural depth resistant to surface governance.
 ────────────────────────────────────────────────────────────
 VI. QING INCORPORATION & NAMING
 ────────────────────────────────────────────────────────────
-The Qing conquest (18th century) marked the most durable incorporation.
+The Qing conquest (18th–9th centuries) marked the most durable incorporation.
 
 Key actions:
 • Defeat of the Dzungar Khanate  

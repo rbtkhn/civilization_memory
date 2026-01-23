@@ -93,7 +93,7 @@ Rome governs alpine space **thinly**.
 Law and culture attenuate with altitude.
 
 This contrasts sharply with Mediterranean integration
-(see MEM–ROME–GEO–MEDITERRANEAN–SEA).
+(See MEM–ROME–GEO–MEDITERRANEAN–SEA).
 
 ────────────────────────────────────────────────────────────
 VI. THE ALPS AS A STRATEGIC BUFFER

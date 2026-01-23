@@ -138,7 +138,7 @@ IX. SOURCE QUOTATIONS
 
 CATEGORY A — ANCIENT:
 
-Herodotus, *Histories*, Book IV (c. 440 BC), on the geography of Scythia
+Herodotus, *Histories*, Book IV (c. 440 BCE), on the geography of Scythia
 and the peoples of the far north:
 "Beyond the Scythians, to the north, the land is said to be covered with
 deep snow, and the air is so full of feathers that one cannot see through
@@ -152,7 +152,7 @@ eastern regions beyond the known world, relevant to the geographic context
 of territories that would later become the Russian Far East, including the
 Amur basin region.
 
-Strabo, *Geography*, Book VII (c. 20 BC), on the extent of known geography:
+Strabo, *Geography*, Book VII (c. 20 BCE), on the extent of known geography:
 "Beyond the Scythians and the Sauromatae, as far as the Caspian Sea and
 the countries beyond, the land is for the most part desert and uncultivated.
 The peoples who inhabit these regions are mostly nomads and live in a
@@ -166,7 +166,7 @@ known geography, establishing the conceptual framework for territories
 that would later be incorporated into Russian expansion, including the
 Far Eastern regions where the Amur flows.
 
-Pliny the Elder, *Natural History*, Book VI (c. 77 AD), on the geography
+Pliny the Elder, *Natural History*, Book VI (c. 77 CE), on the geography
 of Asia and the limits of knowledge:
 "Beyond the known regions of Asia, toward the rising sun, the land extends
 to unknown limits. The peoples of these regions are said to be numerous
