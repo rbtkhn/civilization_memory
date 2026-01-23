@@ -178,11 +178,15 @@ for productive next actions.
 This applies to:
 • READ-ONLY states
 • LEARN MODE
-• WRITE MODE
+• WRITE MODE (includes source integration workflows)
 • IMAGINE / EXPLORATORY MODE
 • AUDIT MODE
 
 Failure to present options constitutes a protocol violation.
+
+WRITE MODE ENHANCEMENT:
+Scholar interfaces MUST provide prominent OGE options for source integration workflows,
+including the ability to specify particular sources for integration into existing MEM files.
 
 ────────────────────────────────────────────────────────────
 VI. MODE SEPARATION LAW (GLOBAL)

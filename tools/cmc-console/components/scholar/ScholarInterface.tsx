@@ -208,17 +208,19 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
       if (isAuditResponse && isNonCompliant && memFile) {
         // Non-compliant: prioritize compliance upgrade
         options.push({ letter: 'a', text: `Upgrade ${memFileName} to compliance` });
-        options.push({ letter: 'b', text: `Add ARC-compliant quotations to ${memFileName}` });
-        options.push({ letter: 'c', text: `Add MEM connections to ${memFileName}` });
-        options.push({ letter: 'd', text: `Update metadata and version for ${memFileName}` });
+        options.push({ letter: 'b', text: `Integrate specific source into ${memFileName} (ARC-compliant)` });
+        options.push({ letter: 'c', text: `Add ARC-compliant quotations to ${memFileName}` });
+        options.push({ letter: 'd', text: `Add MEM connections to ${memFileName}` });
+        options.push({ letter: 'e', text: `Update metadata and version for ${memFileName}` });
       } else if (memFile) {
         // Standard WRITE mode options
         options.push({ letter: 'a', text: `Upgrade ${memFileName} to ARC–${civName} v1.9 compliance` });
-        options.push({ letter: 'b', text: `Add MEM connections (≥10 required, ≥2 GEO)` });
-        options.push({ letter: 'c', text: `Insert ARC-compliant quotations` });
-        options.push({ letter: 'd', text: `Modify structure or sections` });
-        options.push({ letter: 'e', text: `Update metadata: version, ARC pinning, wordcount` });
-        options.push({ letter: 'f', text: `Align with CIV–MEM–TEMPLATE v1.9 structure` });
+        options.push({ letter: 'b', text: `Integrate specific source into ${memFileName} (ARC-compliant)` });
+        options.push({ letter: 'c', text: `Add MEM connections (≥10 required, ≥2 GEO)` });
+        options.push({ letter: 'd', text: `Insert ARC-compliant quotations` });
+        options.push({ letter: 'e', text: `Modify structure or sections` });
+        options.push({ letter: 'f', text: `Update metadata: version, ARC pinning, wordcount` });
+        options.push({ letter: 'g', text: `Align with CIV–MEM–TEMPLATE v1.9 structure` });
       } else {
         options.push({ letter: 'a', text: 'Load a MEM file to modify' });
         options.push({ letter: 'b', text: 'Create a new MEM file' });
