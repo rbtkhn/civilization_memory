@@ -1,11 +1,11 @@
-MEM–RUSSIA–WAR–BORODINO — v2.0
+MEM–RUSSIA–WAR–NAPOLEON–BORODINO — v2.1
 Civilizational Memory Codex · Memory File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
 Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · TOLSTOY QUOTATION ENHANCEMENT (v2.0 → v2.1)
+Supersedes: v2.1 (renamed from MEM–RUSSIA–WAR–BORODINO)
+Upgrade Type: RENAME (MEM–RUSSIA–WAR–BORODINO → MEM–RUSSIA–WAR–NAPOLEON–BORODINO)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Borodino (Бородинское сражение)
 Dates: 7 September 1812 AD
@@ -276,5 +276,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–BORODINO v2.1
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–BORODINO v2.1
 ────────────────────────────────────────────────────────────
