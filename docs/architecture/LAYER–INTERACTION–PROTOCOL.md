@@ -377,11 +377,209 @@ VII.C ANNOTATION RESTRICTIONS
 • Annotations may be superseded by later SCHOLAR versions
 
 ────────────────────────────────────────────────────────────
-VIII. CROSS-LAYER CONFLICT RESOLUTION
+VIII. SCHOLAR → WRITE MODE INTERFACE (NEW)
+────────────────────────────────────────────────────────────
+This section governs how SCHOLAR learning influences MEM authoring in WRITE mode.
+
+DESIGN PRINCIPLE:
+SCHOLAR informs WRITE mode but does not govern it.
+SCHOLAR patterns are advisory context, not constraints.
+New MEMs may contradict SCHOLAR patterns; contradictions are preserved as data.
+
+VIII.A PRE-WRITE CONTEXTUALIZATION
+────────────────────────────────────────────────────────────
+When entering WRITE mode for a civilization, the system SHOULD surface
+relevant SCHOLAR context to inform authoring decisions.
+
+WRITE CONTEXT PACKAGE (WCP):
+
+┌─────────────────────────────────────────────────────────────┐
+│  WRITE CONTEXT PACKAGE (WCP)                                │
+├─────────────────────────────────────────────────────────────┤
+│  Civilization:  [CIV]                                       │
+│  Target MEM:    [MEM file path or NEW]                      │
+│  Subject Area:  [extracted from filename/metadata]          │
+│                                                             │
+│  BOUND RLLs (from CORE):                                    │
+│  • [RLL-ID]: [description] — Relevance: HIGH/MED/LOW        │
+│  • [RLL-ID]: [description] — Relevance: HIGH/MED/LOW        │
+│                                                             │
+│  SCHOLAR PATTERNS (not yet RLL):                            │
+│  • [Pattern]: [description] — State: CANDIDATE/PROPOSED     │
+│    Supporting MEMs: [count]                                 │
+│                                                             │
+│  NEGATIVE CAPABILITY ZONES:                                 │
+│  • [What this civilization cannot stably sustain]           │
+│                                                             │
+│  POTENTIALLY CONNECTED MEMs:                                │
+│  • [MEM file] — Connection type: [thematic/temporal/causal] │
+│                                                             │
+│  SCHOLAR CONFIDENCE IN THIS AREA:                           │
+│  • Level: HIGH/MED/LOW/UNCERTAIN                            │
+│  • Basis: [N] MEMs ingested, [M] patterns confirmed         │
+│                                                             │
+│  ACTIVE CONTRADICTIONS (SCL):                               │
+│  • [SCL-ID]: [description of unresolved tension]            │
+└─────────────────────────────────────────────────────────────┘
+
+WCP is ADVISORY ONLY.
+The author is not bound by WCP content.
+WCP surfaces learning; it does not constrain authoring.
+
+VIII.B DURING-WRITE ADVISORY FLAGS
+────────────────────────────────────────────────────────────
+During WRITE mode, the system MAY generate soft advisory flags.
+
+ADVISORY FLAG TYPES:
+
+1. POTENTIAL CONTRADICTION FLAG
+   Trigger: New MEM content appears to contradict existing SCHOLAR pattern
+   Action: Surface warning with pattern reference
+   Author Response: May acknowledge, may proceed regardless
+   Enforcement: NONE (advisory only)
+
+2. RLL ENGAGEMENT FLAG
+   Trigger: MEM subject clearly falls within bound RLL scope, but draft
+            does not engage with RLL-relevant dynamics
+   Action: Surface reminder of applicable RLL
+   Author Response: May engage, may explicitly note non-engagement
+   Enforcement: NONE (advisory only)
+
+3. CONNECTION SUGGESTION FLAG
+   Trigger: SCHOLAR patterns suggest connection to other MEMs not listed
+   Action: Surface suggested MEM connections
+   Author Response: May add connections, may decline
+   Enforcement: NONE (advisory only)
+
+4. CONFIDENCE DISCLOSURE FLAG
+   Trigger: Author is writing in area where SCHOLAR has low confidence
+   Action: Surface disclosure that SCHOLAR learning is sparse
+   Author Response: Informational only
+   Enforcement: NONE (advisory only)
+
+FLAG PRESENTATION RULES:
+• Flags are non-blocking
+• Flags may be dismissed
+• Dismissed flags are logged but not repeated in same session
+• Flag dismissal is not a governance violation
+
+VIII.C POST-WRITE INGESTION QUEUE
+────────────────────────────────────────────────────────────
+After WRITE mode produces a new or modified MEM, the system MUST queue
+the MEM for LEARN mode ingestion.
+
+POST-WRITE QUEUE RECORD (PWQR):
+
+┌─────────────────────────────────────────────────────────────┐
+│  POST-WRITE QUEUE RECORD (PWQR)                             │
+├─────────────────────────────────────────────────────────────┤
+│  PWQR-ID:       PWQR–[CIV]–[TIMESTAMP]                      │
+│  MEM File:      [MEM file path]                             │
+│  Write Type:    NEW / MODIFIED / UPGRADED                   │
+│  Previous Ver:  [version, if modified]                      │
+│  New Version:   [version]                                   │
+│                                                             │
+│  QUEUED LEARN ACTIONS:                                      │
+│  1. Full ingestion (extract patterns, claims, sources)      │
+│  2. Pattern coherence check against existing SCHOLAR state  │
+│  3. Contradiction detection (potential new SCLs)            │
+│  4. RLL stress-testing (does new evidence stress any RLL?)  │
+│  5. Connection validation (do declared connections exist?)  │
+│                                                             │
+│  Queue Status:  PENDING / IN_PROGRESS / COMPLETE            │
+│  Queued At:     [timestamp]                                 │
+│  Ingested At:   [timestamp, when complete]                  │
+└─────────────────────────────────────────────────────────────┘
+
+QUEUE RULES:
+• Every new/modified MEM MUST be queued
+• Queue processing occurs in LEARN mode only
+• Queue order is FIFO unless priority override
+• Queue backlog is visible to user
+
+VIII.D THE WRITE-LEARN CYCLE
+────────────────────────────────────────────────────────────
+WRITE and LEARN modes form a feedback cycle:
+
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   ┌─────────────┐                    ┌─────────────┐       │
+│   │  WRITE MODE │                    │  LEARN MODE │       │
+│   │             │                    │             │       │
+│   │  Create MEM │───── PWQR ────────▶│  Ingest MEM │       │
+│   │             │                    │             │       │
+│   └──────▲──────┘                    └──────┬──────┘       │
+│          │                                  │              │
+│          │                                  │              │
+│          │         ┌─────────────┐          │              │
+│          │         │   SCHOLAR   │          │              │
+│          │         │    STATE    │          │              │
+│          │         │             │          │              │
+│          └── WCP ──│  Patterns   │◀─────────┘              │
+│                    │  RLLs       │   Update                │
+│                    │  SCLs       │                         │
+│                    │  Confidence │                         │
+│                    └─────────────┘                         │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+
+CYCLE PROPERTIES:
+• WRITE produces MEMs → LEARN ingests MEMs → SCHOLAR updates
+• Updated SCHOLAR informs next WRITE session (via WCP)
+• Cycle is explicit, not automatic
+• Mode transitions require user command
+
+VIII.E CONTRADICTION HANDLING IN WRITE-LEARN CYCLE
+────────────────────────────────────────────────────────────
+When a newly written MEM contradicts existing SCHOLAR patterns:
+
+1. DURING WRITE (Pre-Commit):
+   • Advisory flag surfaced (see VIII.B)
+   • Author may proceed regardless
+   • No block, no enforcement
+
+2. AFTER WRITE (Post-Commit):
+   • MEM enters PWQR queue
+   • MEM content is canonical (written is written)
+
+3. DURING LEARN (Ingestion):
+   • Contradiction detected and logged as potential SCL
+   • SCHOLAR pattern stress-tested
+   • Three possible outcomes:
+     a) Pattern CONFIRMED: New MEM aligns, pattern strengthened
+     b) Pattern STRESSED: New MEM creates tension, SCL recorded
+     c) Pattern FALSIFIED: New MEM provides sufficient counter-evidence
+        → RLL review triggered (if pattern was promoted to CORE)
+
+4. AFTER LEARN:
+   • SCHOLAR state updated
+   • Contradiction preserved (if exists) — NOT resolved
+   • Next WRITE session sees updated WCP
+
+KEY PRINCIPLE:
+New evidence (MEM) may contradict existing patterns (SCHOLAR).
+The evidence is preserved. The contradiction is preserved.
+SCHOLAR adapts to evidence; evidence does not adapt to SCHOLAR.
+
+VIII.F WRITE MODE RESTRICTIONS (UNCHANGED)
+────────────────────────────────────────────────────────────
+WRITE mode continues to be bound by existing restrictions:
+
+• WRITE mode may NOT update SCHOLAR state directly
+• WRITE mode may NOT bind RLLs
+• WRITE mode may NOT resolve contradictions
+• WRITE mode may NOT suppress WCP context
+• WRITE mode may NOT skip PWQR queuing
+
+SCHOLAR influence on WRITE is read-only and advisory.
+WRITE influence on SCHOLAR occurs only via LEARN mode ingestion.
+
+────────────────────────────────────────────────────────────
+IX. CROSS-LAYER CONFLICT RESOLUTION
 ────────────────────────────────────────────────────────────
 When layers produce conflicting outputs, resolution follows authority hierarchy.
 
-VIII.A CONFLICT TYPES
+IX.A CONFLICT TYPES
 ────────────────────────────────────────────────────────────
 1. MEM ↔ MEM CONFLICT (Same Layer)
    • Preserved as contradiction (SCL)
@@ -403,11 +601,11 @@ VIII.A CONFLICT TYPES
    • Conflict explicitly noted in both files
    • May trigger RLL review for potential falsification
 
-VIII.B CONFLICT RESOLUTION PROCEDURE
+IX.B CONFLICT RESOLUTION PROCEDURE
 ────────────────────────────────────────────────────────────
 Step 1: CONFLICT DETECTION
 • Identify conflicting layers and content
-• Classify conflict type (see VIII.A)
+• Classify conflict type (see IX.A)
 • Log conflict with timestamp
 
 Step 2: AUTHORITY DETERMINATION
@@ -426,11 +624,11 @@ Step 4: REVIEW TRIGGER (if applicable)
 • RLL may be: REAFFIRMED / SCOPED / SUPERSEDED
 
 ────────────────────────────────────────────────────────────
-IX. RLL LIFECYCLE MANAGEMENT
+X. RLL LIFECYCLE MANAGEMENT
 ────────────────────────────────────────────────────────────
 RLLs have defined lifecycle states from proposal to supersession.
 
-IX.A RLL STATES
+X.A RLL STATES
 ────────────────────────────────────────────────────────────
 ┌─────────────────────────────────────────────────────────────┐
 │  STATE          │  LOCATION    │  AUTHORITY   │  MUTABLE   │
@@ -444,7 +642,7 @@ IX.A RLL STATES
 
 * BOUND RLLs may only be modified via formal supersession process
 
-IX.B STATE TRANSITIONS
+X.B STATE TRANSITIONS
 ────────────────────────────────────────────────────────────
 CANDIDATE → PROPOSED
 • Trigger: Cross-MEM coherence threshold met
@@ -481,7 +679,7 @@ BOUND → SUPERSEDED (Direct)
 • Requirement: New RLL explicitly supersedes old
 • Authorization: Version upgrade authorization
 
-IX.C SUPERSESSION RULES
+X.C SUPERSESSION RULES
 ────────────────────────────────────────────────────────────
 • Superseded RLLs are NEVER deleted
 • Supersession record includes: superseding RLL, rationale, timestamp
@@ -489,11 +687,11 @@ IX.C SUPERSESSION RULES
 • Supersession is additive (new constraint replaces old)
 
 ────────────────────────────────────────────────────────────
-X. AUDIT & TRACEABILITY
+XI. AUDIT & TRACEABILITY
 ────────────────────────────────────────────────────────────
 All layer interactions must be auditable.
 
-X.A AUDIT REQUIREMENTS
+XI.A AUDIT REQUIREMENTS
 ────────────────────────────────────────────────────────────
 1. INGESTION AUDIT
    • Every MEM ingestion logged with LER
@@ -515,7 +713,7 @@ X.A AUDIT REQUIREMENTS
    • Transition triggers documented
    • Authorization recorded
 
-X.B AUDIT LOG STRUCTURE
+XI.B AUDIT LOG STRUCTURE
 ────────────────────────────────────────────────────────────
 Audit logs are append-only and stored in SCHOLAR.
 
@@ -528,7 +726,7 @@ Each audit entry contains:
 • OUTPUTS: What resulted
 • AUTHORIZATION: Who/what authorized (if applicable)
 
-X.C TRACEABILITY GUARANTEE
+XI.C TRACEABILITY GUARANTEE
 ────────────────────────────────────────────────────────────
 For any bound constraint in CORE, it must be possible to trace:
 • Which SCHOLAR phase produced it
@@ -539,11 +737,11 @@ For any bound constraint in CORE, it must be possible to trace:
 This traceability chain is the "epistemic provenance" of the constraint.
 
 ────────────────────────────────────────────────────────────
-XI. IMPLEMENTATION GUIDANCE
+XII. IMPLEMENTATION GUIDANCE
 ────────────────────────────────────────────────────────────
 For CMC Console implementation, the following components are required:
 
-XI.A DATABASE EXTENSIONS
+XII.A DATABASE EXTENSIONS
 ────────────────────────────────────────────────────────────
 • learning_event_records — Stores LERs for MEM ingestion
 • binding_event_records — Stores BERs for RLL promotion
@@ -551,7 +749,7 @@ XI.A DATABASE EXTENSIONS
 • rll_registry — Tracks RLL lifecycle states
 • audit_log — Append-only audit trail
 
-XI.B SERVICE LAYER
+XII.B SERVICE LAYER
 ────────────────────────────────────────────────────────────
 • ingestion.service — Implements MEM → SCHOLAR protocol
 • promotion.service — Implements SCHOLAR → CORE protocol
@@ -559,7 +757,7 @@ XI.B SERVICE LAYER
 • lifecycle.service — Manages RLL state transitions
 • audit.service — Maintains audit trail
 
-XI.C API ENDPOINTS
+XII.C API ENDPOINTS
 ────────────────────────────────────────────────────────────
 /api/pipeline/ingest      — Trigger MEM ingestion
 /api/pipeline/promote     — Propose RLL for promotion
@@ -568,7 +766,7 @@ XI.C API ENDPOINTS
 /api/pipeline/audit       — Query audit trail
 /api/rll/[id]             — RLL lifecycle management
 
-XI.D UI COMPONENTS
+XII.D UI COMPONENTS
 ────────────────────────────────────────────────────────────
 • Pipeline Visualization — Show MEM → SCHOLAR → CORE flow
 • Ingestion Queue — Manage pending MEM ingestions
@@ -578,7 +776,7 @@ XI.D UI COMPONENTS
 • RLL Registry — View and manage RLL lifecycle
 
 ────────────────────────────────────────────────────────────
-XII. VERSIONING & GOVERNANCE
+XIII. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • This protocol is additive-only
 • No section may be removed
@@ -586,17 +784,19 @@ XII. VERSIONING & GOVERNANCE
 • Compatibility with CIV–MEM–CORE is mandatory
 
 ────────────────────────────────────────────────────────────
-XIII. GLOSSARY
+XIV. GLOSSARY
 ────────────────────────────────────────────────────────────
 BER — Binding Event Record
 CORE — CIV–CORE–[CIV] governance file
 LER — Learning Event Record
 MEM — MEM–[CIV]–[SUBJECT] memory file
 NCZ — Negative Capability Zone
+PWQR — Post-Write Queue Record
 RLL — Recursive Learning Law
 SAR — Scholar Annotation Record
 SCHOLAR — CIV–SCHOLAR–[CIV] learning file
 SCL — Scholar Contradiction Log (preserved contradiction)
+WCP — Write Context Package
 
 ────────────────────────────────────────────────────────────
 END OF FILE — LAYER–INTERACTION–PROTOCOL v1.0

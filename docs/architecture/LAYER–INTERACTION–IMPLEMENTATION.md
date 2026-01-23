@@ -283,6 +283,89 @@ CREATE INDEX IF NOT EXISTS idx_audit_event_type ON pipeline_audit_log(event_type
 CREATE INDEX IF NOT EXISTS idx_audit_timestamp ON pipeline_audit_log(timestamp);
 ```
 
+### 1.7 Post-Write Queue Records (PWQR)
+
+```sql
+-- Tracks MEMs queued for LEARN mode ingestion after WRITE mode
+CREATE TABLE IF NOT EXISTS post_write_queue_records (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  pwqr_id TEXT UNIQUE NOT NULL,             -- PWQR–[CIV]–[TIMESTAMP]
+  civilization TEXT NOT NULL,
+  
+  -- Target MEM
+  mem_file_id INTEGER NOT NULL REFERENCES file_registry(id),
+  mem_file_path TEXT NOT NULL,
+  write_type TEXT NOT NULL CHECK(write_type IN ('NEW', 'MODIFIED', 'UPGRADED')),
+  previous_version TEXT,                    -- Version before modification (if applicable)
+  new_version TEXT NOT NULL,
+  
+  -- Queue status
+  queue_status TEXT NOT NULL CHECK(queue_status IN (
+    'PENDING',
+    'IN_PROGRESS',
+    'COMPLETE',
+    'FAILED'
+  )) DEFAULT 'PENDING',
+  
+  -- Queued actions (JSON array of action types)
+  queued_actions TEXT NOT NULL DEFAULT '["FULL_INGESTION", "PATTERN_COHERENCE", "CONTRADICTION_DETECTION", "RLL_STRESS_TEST", "CONNECTION_VALIDATION"]',
+  
+  -- Processing results (populated when complete)
+  processing_results TEXT,                  -- JSON: results of each queued action
+  resulting_ler_id TEXT REFERENCES learning_event_records(ler_id),
+  
+  -- Timestamps
+  queued_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now')),
+  processing_started_at INTEGER,
+  completed_at INTEGER,
+  
+  -- Priority (lower = higher priority)
+  priority INTEGER NOT NULL DEFAULT 100
+);
+
+CREATE INDEX IF NOT EXISTS idx_pwqr_civilization ON post_write_queue_records(civilization);
+CREATE INDEX IF NOT EXISTS idx_pwqr_status ON post_write_queue_records(queue_status);
+CREATE INDEX IF NOT EXISTS idx_pwqr_priority ON post_write_queue_records(priority);
+CREATE INDEX IF NOT EXISTS idx_pwqr_queued_at ON post_write_queue_records(queued_at);
+```
+
+### 1.8 Write Context Cache
+
+```sql
+-- Caches Write Context Packages for active WRITE sessions
+CREATE TABLE IF NOT EXISTS write_context_cache (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  wcp_id TEXT UNIQUE NOT NULL,              -- WCP–[CIV]–[SESSION]–[TIMESTAMP]
+  civilization TEXT NOT NULL,
+  
+  -- Target MEM
+  target_mem_path TEXT,                     -- NULL for NEW MEMs
+  subject_area TEXT,
+  
+  -- Context data (JSON structures)
+  bound_rlls TEXT NOT NULL,                 -- JSON: [{ rllId, description, relevance }]
+  scholar_patterns TEXT NOT NULL,           -- JSON: [{ pattern, description, state, supportingMems }]
+  negative_capability_zones TEXT,           -- JSON: [descriptions]
+  suggested_connections TEXT,               -- JSON: [{ memPath, connectionType }]
+  active_contradictions TEXT,               -- JSON: [{ sclId, description }]
+  
+  -- Confidence assessment
+  confidence_level TEXT NOT NULL CHECK(confidence_level IN ('HIGH', 'MED', 'LOW', 'UNCERTAIN')),
+  confidence_basis TEXT,                    -- JSON: { memsIngested, patternsConfirmed }
+  
+  -- Session tracking
+  session_id TEXT NOT NULL,
+  created_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now')),
+  expires_at INTEGER,                       -- WCP expires after session ends
+  
+  -- Advisory flags generated during session
+  advisory_flags TEXT                       -- JSON: [{ flagType, content, dismissed }]
+);
+
+CREATE INDEX IF NOT EXISTS idx_wcp_civilization ON write_context_cache(civilization);
+CREATE INDEX IF NOT EXISTS idx_wcp_session ON write_context_cache(session_id);
+```
+
 ---
 
 ## 2. TypeScript Interfaces
@@ -520,6 +603,124 @@ export interface PipelineAuditEntry {
   authorizationType: AuthorizationType;
   authorizedBy?: string;
   timestamp: Date;
+}
+
+// ============================================
+// SCHOLAR → WRITE MODE INTERFACE
+// ============================================
+
+export type WriteType = 'NEW' | 'MODIFIED' | 'UPGRADED';
+export type QueueStatus = 'PENDING' | 'IN_PROGRESS' | 'COMPLETE' | 'FAILED';
+export type AdvisoryFlagType = 
+  | 'POTENTIAL_CONTRADICTION'
+  | 'RLL_ENGAGEMENT'
+  | 'CONNECTION_SUGGESTION'
+  | 'CONFIDENCE_DISCLOSURE';
+
+export type ConnectionType = 'THEMATIC' | 'TEMPORAL' | 'CAUSAL' | 'STRUCTURAL';
+export type Relevance = 'HIGH' | 'MED' | 'LOW';
+
+// Write Context Package — surfaces SCHOLAR learning for WRITE mode
+export interface BoundRLLContext {
+  rllId: string;
+  description: string;
+  relevance: Relevance;
+}
+
+export interface ScholarPatternContext {
+  patternId: string;
+  description: string;
+  state: 'CANDIDATE' | 'PROPOSED';
+  supportingMemCount: number;
+}
+
+export interface SuggestedConnection {
+  memFilePath: string;
+  connectionType: ConnectionType;
+  rationale: string;
+}
+
+export interface ActiveContradiction {
+  sclId: string;
+  description: string;
+  involvedMemFiles: string[];
+}
+
+export interface ConfidenceBasis {
+  memsIngested: number;
+  patternsConfirmed: number;
+  scholarPhase: ScholarPhase;
+}
+
+export interface WriteContextPackage {
+  wcpId: string;                    // WCP–[CIV]–[SESSION]–[TIMESTAMP]
+  civilization: string;
+  targetMemPath?: string;           // undefined for NEW MEMs
+  subjectArea?: string;
+  
+  // SCHOLAR context
+  boundRlls: BoundRLLContext[];
+  scholarPatterns: ScholarPatternContext[];
+  negativeCapabilityZones: string[];
+  suggestedConnections: SuggestedConnection[];
+  activeContradictions: ActiveContradiction[];
+  
+  // Confidence assessment
+  confidenceLevel: ConfidenceLevel;
+  confidenceBasis: ConfidenceBasis;
+  
+  // Session tracking
+  sessionId: string;
+  createdAt: Date;
+  expiresAt?: Date;
+}
+
+// Advisory Flag — generated during WRITE mode
+export interface AdvisoryFlag {
+  flagId: string;
+  flagType: AdvisoryFlagType;
+  content: string;
+  relatedRllId?: string;
+  relatedPatternId?: string;
+  relatedMemFiles?: string[];
+  dismissed: boolean;
+  dismissedAt?: Date;
+  createdAt: Date;
+}
+
+// Post-Write Queue Record — tracks MEMs awaiting LEARN ingestion
+export interface QueuedAction {
+  actionType: 'FULL_INGESTION' | 'PATTERN_COHERENCE' | 'CONTRADICTION_DETECTION' | 'RLL_STRESS_TEST' | 'CONNECTION_VALIDATION';
+  status: QueueStatus;
+  result?: string;
+  completedAt?: Date;
+}
+
+export interface PostWriteQueueRecord {
+  pwqrId: string;                   // PWQR–[CIV]–[TIMESTAMP]
+  civilization: string;
+  
+  // Target MEM
+  memFileId: number;
+  memFilePath: string;
+  writeType: WriteType;
+  previousVersion?: string;
+  newVersion: string;
+  
+  // Queue status
+  queueStatus: QueueStatus;
+  queuedActions: QueuedAction[];
+  
+  // Processing results
+  resultingLerId?: string;          // LER created when processing completes
+  
+  // Timestamps
+  queuedAt: Date;
+  processingStartedAt?: Date;
+  completedAt?: Date;
+  
+  // Priority
+  priority: number;
 }
 ```
 
@@ -891,6 +1092,190 @@ export class AuditService {
 }
 ```
 
+### 3.6 Write Context Service
+
+```typescript
+// lib/services/pipeline/write-context.service.ts
+
+import type {
+  WriteContextPackage,
+  AdvisoryFlag,
+  PostWriteQueueRecord,
+  ConfidenceLevel,
+  AdvisoryFlagType,
+  WriteType
+} from '@/lib/types/pipeline.types';
+
+export interface WriteSessionRequest {
+  civilization: string;
+  targetMemPath?: string;           // undefined for NEW MEMs
+  sessionId: string;
+}
+
+export interface AdvisoryCheckRequest {
+  wcpId: string;
+  draftContent: string;
+  memConnections: string[];
+}
+
+export class WriteContextService {
+  /**
+   * Generate Write Context Package when entering WRITE mode
+   * Surfaces relevant SCHOLAR learning for the author
+   */
+  async generateWriteContext(request: WriteSessionRequest): Promise<WriteContextPackage>;
+  
+  /**
+   * Get bound RLLs relevant to the target MEM subject area
+   */
+  async getRelevantRLLs(civilization: string, subjectArea?: string): Promise<BoundRLLContext[]>;
+  
+  /**
+   * Get SCHOLAR patterns (not yet RLL) relevant to the subject
+   */
+  async getRelevantPatterns(civilization: string, subjectArea?: string): Promise<ScholarPatternContext[]>;
+  
+  /**
+   * Get negative capability zones for the civilization
+   */
+  async getNegativeCapabilityZones(civilization: string): Promise<string[]>;
+  
+  /**
+   * Suggest MEM connections based on SCHOLAR patterns
+   */
+  async suggestConnections(civilization: string, subjectArea?: string): Promise<SuggestedConnection[]>;
+  
+  /**
+   * Get active contradictions (SCLs) in the subject area
+   */
+  async getActiveContradictions(civilization: string, subjectArea?: string): Promise<ActiveContradiction[]>;
+  
+  /**
+   * Assess SCHOLAR confidence in the subject area
+   */
+  async assessConfidence(civilization: string, subjectArea?: string): Promise<{
+    level: ConfidenceLevel;
+    basis: ConfidenceBasis;
+  }>;
+  
+  /**
+   * Run advisory checks on draft content during WRITE mode
+   * Returns flags but does NOT block writing
+   */
+  async runAdvisoryChecks(request: AdvisoryCheckRequest): Promise<AdvisoryFlag[]>;
+  
+  /**
+   * Check for potential contradictions between draft and SCHOLAR patterns
+   */
+  async checkPotentialContradictions(wcpId: string, draftContent: string): Promise<AdvisoryFlag[]>;
+  
+  /**
+   * Check if draft engages with relevant bound RLLs
+   */
+  async checkRLLEngagement(wcpId: string, draftContent: string): Promise<AdvisoryFlag[]>;
+  
+  /**
+   * Dismiss an advisory flag (author proceeds regardless)
+   */
+  async dismissFlag(flagId: string): Promise<void>;
+  
+  /**
+   * Get all flags for a WCP session
+   */
+  async getSessionFlags(wcpId: string): Promise<AdvisoryFlag[]>;
+}
+```
+
+### 3.7 Post-Write Queue Service
+
+```typescript
+// lib/services/pipeline/post-write-queue.service.ts
+
+import type {
+  PostWriteQueueRecord,
+  QueueStatus,
+  WriteType,
+  LearningEventRecord
+} from '@/lib/types/pipeline.types';
+
+export interface QueueRequest {
+  memFileId: number;
+  memFilePath: string;
+  civilization: string;
+  writeType: WriteType;
+  previousVersion?: string;
+  newVersion: string;
+  priority?: number;
+}
+
+export interface ProcessingResult {
+  pwqrId: string;
+  success: boolean;
+  resultingLer?: LearningEventRecord;
+  errors?: string[];
+}
+
+export class PostWriteQueueService {
+  /**
+   * Queue a newly written/modified MEM for LEARN mode ingestion
+   * Called automatically after WRITE mode commits
+   */
+  async queueForIngestion(request: QueueRequest): Promise<PostWriteQueueRecord>;
+  
+  /**
+   * Get pending queue items for a civilization
+   */
+  async getPendingQueue(civilization: string): Promise<PostWriteQueueRecord[]>;
+  
+  /**
+   * Get full queue (all statuses) for a civilization
+   */
+  async getFullQueue(civilization: string): Promise<PostWriteQueueRecord[]>;
+  
+  /**
+   * Get queue item by ID
+   */
+  async getQueueItem(pwqrId: string): Promise<PostWriteQueueRecord>;
+  
+  /**
+   * Process next item in queue (called during LEARN mode)
+   * Returns processing result including resulting LER
+   */
+  async processNextItem(civilization: string): Promise<ProcessingResult | null>;
+  
+  /**
+   * Process specific queue item
+   */
+  async processItem(pwqrId: string): Promise<ProcessingResult>;
+  
+  /**
+   * Update queue item status
+   */
+  async updateStatus(pwqrId: string, status: QueueStatus): Promise<PostWriteQueueRecord>;
+  
+  /**
+   * Set priority for queue item (lower = higher priority)
+   */
+  async setPriority(pwqrId: string, priority: number): Promise<PostWriteQueueRecord>;
+  
+  /**
+   * Get queue statistics
+   */
+  async getQueueStats(civilization: string): Promise<{
+    pending: number;
+    inProgress: number;
+    complete: number;
+    failed: number;
+    oldestPending?: Date;
+  }>;
+  
+  /**
+   * Retry failed queue item
+   */
+  async retryItem(pwqrId: string): Promise<PostWriteQueueRecord>;
+}
+```
+
 ---
 
 ## 4. API Routes
@@ -959,6 +1344,71 @@ POST /api/rll/[rllId]/reaffirm
 POST /api/rll/[rllId]/supersede
   Body: { replacementRllId: string, rationale: string }
   Response: RecursiveLearningLaw
+
+// ============================================
+// SCHOLAR → WRITE MODE INTERFACE ROUTES
+// ============================================
+
+// app/api/write-context/route.ts
+POST /api/write-context
+  Body: { civilization: string, targetMemPath?: string, sessionId: string }
+  Response: WriteContextPackage
+
+// app/api/write-context/[wcpId]/route.ts
+GET /api/write-context/[wcpId]
+  Response: WriteContextPackage
+
+// app/api/write-context/[wcpId]/advisory-check/route.ts
+POST /api/write-context/[wcpId]/advisory-check
+  Body: { draftContent: string, memConnections: string[] }
+  Response: AdvisoryFlag[]
+
+// app/api/write-context/[wcpId]/flags/route.ts
+GET /api/write-context/[wcpId]/flags
+  Response: AdvisoryFlag[]
+
+// app/api/write-context/[wcpId]/flags/[flagId]/dismiss/route.ts
+POST /api/write-context/[wcpId]/flags/[flagId]/dismiss
+  Response: void
+
+// ============================================
+// POST-WRITE QUEUE ROUTES
+// ============================================
+
+// app/api/post-write-queue/route.ts
+POST /api/post-write-queue
+  Body: QueueRequest
+  Response: PostWriteQueueRecord
+
+// app/api/post-write-queue/route.ts
+GET /api/post-write-queue?civilization=RUSSIA&status=PENDING
+  Response: PostWriteQueueRecord[]
+
+// app/api/post-write-queue/[pwqrId]/route.ts
+GET /api/post-write-queue/[pwqrId]
+  Response: PostWriteQueueRecord
+
+// app/api/post-write-queue/[pwqrId]/process/route.ts
+POST /api/post-write-queue/[pwqrId]/process
+  Response: ProcessingResult
+
+// app/api/post-write-queue/[pwqrId]/priority/route.ts
+PATCH /api/post-write-queue/[pwqrId]/priority
+  Body: { priority: number }
+  Response: PostWriteQueueRecord
+
+// app/api/post-write-queue/[pwqrId]/retry/route.ts
+POST /api/post-write-queue/[pwqrId]/retry
+  Response: PostWriteQueueRecord
+
+// app/api/post-write-queue/stats/route.ts
+GET /api/post-write-queue/stats?civilization=RUSSIA
+  Response: { pending, inProgress, complete, failed, oldestPending }
+
+// app/api/post-write-queue/process-next/route.ts
+POST /api/post-write-queue/process-next
+  Body: { civilization: string }
+  Response: ProcessingResult | null
 ```
 
 ---
