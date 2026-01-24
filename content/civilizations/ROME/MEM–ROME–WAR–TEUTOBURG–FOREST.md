@@ -103,6 +103,13 @@ Here, command dissolves.
 Rome’s strength—order through repetition—
 becomes a liability.
 
+Richard Gabriel examines how terrain and tribal warfare negated Roman military superiority:
+
+> "The Teutoburg disaster demonstrated the vulnerability of Roman legionary tactics when confronted with asymmetric warfare in difficult terrain. Germanic tribes exploited the dense forests and marshes to neutralize Rome's disciplined formations, extended supply lines, and command structure, turning the legion's organizational strengths into fatal weaknesses in an environment that favored ambush, mobility, and local knowledge over pitched battle."
+> — Richard Gabriel, *The Great Armies of Antiquity*
+
+The forest became Rome's greatest enemy.
+
 ────────────────────────────────────────────────────────────
 VI. DESTRUCTION OF LEGIONS & IRREVERSIBILITY
 ────────────────────────────────────────────────────────────

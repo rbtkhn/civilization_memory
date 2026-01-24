@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–TRAJAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
+Version: 1.5
+Upgrade Type: ADDITIVE · GABRIEL QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Supersedes: MEM–ROME–TRAJAN — v1.0
 Civilization: ROME
 Regime: IMPERIAL EXPANSION / PEAK TERRITORIAL COMMAND
@@ -108,6 +108,13 @@ province; and the fame of Trajan was sullied by the necessity of retreat.”
 
 Trajan captures territory he cannot integrate.
 Military success outpaces administrative absorption.
+
+Richard Gabriel analyzes the structural challenges of Trajan's Parthian campaigns:
+
+> "Trajan's Parthian War exposed the fundamental limitations of Roman imperial expansion. While Roman armies excelled at conquest and siege warfare, the empire lacked the administrative infrastructure and cultural integration mechanisms to transform occupied territories into stable provinces. The vast distances, hostile environments, and entrenched local resistance overwhelmed Rome's logistical capabilities despite tactical brilliance."
+> — Richard Gabriel, *The Great Armies of Antiquity*
+
+Conquest without consolidation becomes strategic regression.
 
 ────────────────────────────────────────────────────────────
 V. CONQUEST AS LEGITIMACY ENGINE
@@ -249,7 +256,8 @@ XIII. MEM BIBLIOGRAPHY (MANDATORY)
 • Theodor Mommsen, *The History of Rome* - Examination of Trajan's administration and strategic legacy
 • Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Trajan's character and imperial style
 • John Keegan, *A History of Warfare* - Analysis of Roman imperial military evolution and Trajan's campaigns
+• Richard Gabriel, *The Great Armies of Antiquity* - Analysis of Roman military organization and imperial expansion challenges
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–TRAJAN — v1.4
+END OF FILE — MEM–ROME–EMPIRE–TRAJAN — v1.5
 ────────────────────────────────────────────────────────────

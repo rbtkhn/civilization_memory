@@ -439,6 +439,112 @@ The system must display which layer is active:
 
 Switching between layers requires explicit user action.
 
+VII.D CURRENT EVENT UPLOAD OGE
+────────────────────────────────────────────────────────────
+When a user uploads a news story or current event, the system
+presents structured OGE options for analysis and observation.
+
+VII.D.1 INITIAL UPLOAD OGE
+────────────────────────────────────────────────────────────
+Upon receiving a current event story:
+
+You've uploaded [SOURCE: outlet] reporting on [TOPIC].
+
+[OGE OPTIONS]
+
+─── ANALYSIS ───
+A. Identify the structural dynamics at play
+B. Place this within civilization-level context
+C. Examine the institutional actors and their constraints
+D. Identify time asymmetries in the situation
+E. Apply failure-first reasoning to this situation
+
+─── HISTORICAL CONNECTION ───
+F. Search for similar patterns in canonical SCHOLAR
+G. Test against specific RLL (specify which)
+H. Compare to a historical case (specify civilization/period)
+I. Look for structural parallels across civilizations
+
+─── SOURCE EVALUATION ───
+J. Assess source position and potential bias
+K. Search for corroborating/conflicting reports
+L. Identify what this source can and cannot see
+
+─── OBSERVATION ACTION ───
+M. Create provisional observation (CEO/EOR)
+N. Note this for future MEM curation
+O. Archive without formal observation
+
+─── MODE TRANSITION ───
+P. Switch to IMAGINE mode (present analysis to audience)
+Q. Return to canonical LEARN (historical sources)
+
+VII.D.2 POST-ANALYSIS OGE
+────────────────────────────────────────────────────────────
+After initial structural analysis:
+
+Structural observation: [SUMMARY]
+
+This appears to engage [PATTERN/RLL] from our historical analysis.
+
+[OGE OPTIONS]
+
+─── DEEPEN ───
+A. Explore where this confirms the historical pattern
+B. Explore where this differs from the historical pattern
+C. Identify what this case reveals that history didn't
+D. Look for counter-evidence to this reading
+E. Trace the structural constraints operating here
+
+─── BROADEN ───
+F. Compare with another current situation
+G. Connect to a different historical pattern
+H. Examine implications for other actors/civilizations
+I. Look at this from a different civilization's perspective
+
+─── FORMALIZE ───
+J. Record this as a provisional hypothesis
+K. Flag for promotion to MEM when events settle
+L. Note confidence level and evidence gaps
+M. Specify what would need to happen to confirm/disconfirm
+
+─── CONTINUE ───
+N. Upload additional sources on this topic
+O. Explore a different aspect of this story
+P. Add corroborating or conflicting source
+Q. Finish observation and return to historical LEARN
+
+VII.D.3 OGE DESIGN PRINCIPLES FOR CURRENT EVENTS
+────────────────────────────────────────────────────────────
+
+1. ALWAYS OFFER HISTORICAL CONNECTION
+   The system instinctively seeks civilizational continuity.
+   Every current event is an opportunity to test patterns.
+
+2. ALWAYS OFFER SOURCE EVALUATION
+   Epistemic discipline requires understanding the source.
+   Bias disclosure is mandatory, not optional.
+
+3. ALWAYS OFFER FORMALIZATION OPTIONS
+   User decides what to record. System presents options.
+   Never auto-create observations without user direction.
+
+4. ALWAYS OFFER MODE TRANSITIONS
+   Easy switching to IMAGINE (present to audience) or
+   canonical LEARN (return to historical sources).
+
+5. NEVER ASSUME USER INTENT
+   Present options, don't pre-commit to a path.
+   User remains research director at all times.
+
+6. ALWAYS CONNECT TO STRUCTURAL ANALYSIS
+   Even initial OGE emphasizes structure, institutions,
+   constraints, and time asymmetries—the Mercouris lens.
+
+7. ALWAYS DISTINGUISH PROVISIONAL FROM CANONICAL
+   Every OGE in ephemeral mode must maintain awareness
+   that observations are provisional.
+
 ────────────────────────────────────────────────────────────
 VIII. IMAGINE MODE INTEGRATION
 ────────────────────────────────────────────────────────────
