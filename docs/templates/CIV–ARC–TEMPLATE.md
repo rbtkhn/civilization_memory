@@ -1,16 +1,16 @@
-CIV–ARC–[CIVILIZATION] — v3.0
+CIV–ARC–[CIVILIZATION] — v2.7
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
 Supersedes: CIV–ARC–[CIVILIZATION] v2.0
-Upgrade Type: MAJOR · SIMPLIFICATION + NAMESPACE ALIGNMENT
+Upgrade Type: SIMPLIFICATION + NAMESPACE ALIGNMENT
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.7+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v3.0) — SIMPLIFICATION + NAMESPACE ALIGNMENT
+UPGRADE NOTE (v2.7) — SIMPLIFICATION + NAMESPACE ALIGNMENT
 ────────────────────────────────────────────────────────────
 This version simplifies ARC to focus on its UNIQUE governance functions:
 
@@ -184,5 +184,5 @@ IX. VERSIONING
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v3.0
+END OF FILE — CIV–ARC–[CIVILIZATION] v2.7
 ────────────────────────────────────────────────────────────
