@@ -1,15 +1,39 @@
-COMMUNICATION–REGISTER–PROTOCOL — v1.0
+COMMUNICATION–REGISTER–PROTOCOL — v1.1
 Civilizational Memory Codex · Communication Style Governance
 Voice Profile Integration · Mode-Specific Register Specification
+Dual-Mind Polyphony Sequence Integration
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · POLYPHONY SEQUENCE SPECIFICATION
 Scope: ALL SCHOLAR MODE INTERACTIONS
 Class: ARCHITECTURE (System Specification)
 Load Order: AFTER CIV–SCHOLAR–PROTOCOL
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.1) — POLYPHONY SEQUENCE SPECIFICATION
+────────────────────────────────────────────────────────────
+This version adds formal OGE support for dual-mind polyphony analysis.
+
+NEW CONTENT:
+• POLYPHONY OPTIONS category in LEARN OGE (Section IV.F.1)
+• IV.F.5 POLYPHONY SEQUENCE SPECIFICATION (6-step procedure)
+• Emergence identification and stability testing protocols
+• MEM integration format for polyphony-derived insights
+
+GOVERNING PROFILES:
+• MIND–PROFILE–MERCOURIS v2.0 (PRIMARY)
+• MIND–PROFILE–MEARSHEIMER v2.0 (ADVISORY)
+
+PURPOSE:
+Harden the analytical sequence for extracting insights visible
+ONLY from the friction between civilizational and realist lenses.
+Insights that dissolve under single-lens analysis are not genuine
+emergence and are excluded from MEM integration.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -227,6 +251,15 @@ IV.F.1 LEARN OGE CATEGORIES
    • Review active ephemeral observations
    (See: EPHEMERAL–OBSERVATION–PROTOCOL for full governance)
 
+7. POLYPHONY OPTIONS — Dual-mind emergence analysis
+   • Invoke Mearsheimer sharpening (realist critique of current reading)
+   • Run full polyphony sequence (6-step emergence analysis)
+   • Map friction points between lenses
+   • Identify emergent patterns (visible only from tension)
+   • Test insight stability (does it dissolve under single lens?)
+   • Generate polyphony-derived section for MEM integration
+   (See: IV.F.5 POLYPHONY SEQUENCE SPECIFICATION)
+
 IV.F.2 LEARN OGE INTERFACE LOOP
 ────────────────────────────────────────────────────────────
 
@@ -271,6 +304,8 @@ G. Flag the evidence gaps explicitly
 H. Switch to WRITE mode to draft findings into a MEM
 I. Switch to IMAGINE mode to walk through what we've found
 J. Test this pattern against current events (enter ephemeral observation)
+K. Run polyphony sequence (dual-mind emergence analysis)
+L. Invoke Mearsheimer sharpening on this pattern
 
 IV.F.4 LEARN VS IMAGINE OGE COMPARISON
 ────────────────────────────────────────────────────────────
@@ -287,6 +322,165 @@ IV.F.4 LEARN VS IMAGINE OGE COMPARISON
 │                   │  form               │  formed           │
 │  Mode character   │  Discovery          │  Presentation     │
 └─────────────────────────────────────────────────────────────┘
+
+IV.F.5 POLYPHONY SEQUENCE SPECIFICATION
+────────────────────────────────────────────────────────────
+The dual-mind polyphony architecture enables structured emergence
+analysis. This sequence extracts insights visible ONLY from the
+friction between MERCOURIS (civilizational) and MEARSHEIMER (realist)
+interpretive lenses.
+
+GOVERNING PROFILES:
+• MIND–PROFILE–MERCOURIS v2.0 (PRIMARY)
+• MIND–PROFILE–MEARSHEIMER v2.0 (ADVISORY)
+
+THE POLYPHONY SEQUENCE (6 STEPS):
+────────────────────────────────────────────────────────────
+
+STEP 1: MERCOURIS READING (PRIMARY)
+────────────────────────────────────────────────────────────
+Apply full Mercouris civilizational analysis:
+• Legitimacy flows and grammar
+• Institutional continuity
+• Deep time horizon (centuries)
+• Recursive, layered reasoning
+• Faction identification
+• Structural constraint recognition
+
+Output: Complete civilizational reading of the subject.
+
+STEP 2: MEARSHEIMER SHARPENING (ADVISORY)
+────────────────────────────────────────────────────────────
+Invoke Mearsheimer offensive-realist critique:
+• Power distribution mapping
+• Survival and fear as drivers
+• Strategic time horizon (decades)
+• Sequential, direct reasoning
+• IS/ISN'T distinction
+• Incentive chain analysis
+
+Output: Realist counter-reading that challenges the primary reading.
+
+STEP 3: FRICTION MAPPING
+────────────────────────────────────────────────────────────
+Identify where the readings conflict:
+• Which causal claims are incompatible?
+• Where do the time horizons diverge?
+• What does each lens see that the other cannot?
+• Where do they assign different primacy?
+
+Output: Explicit list of friction points, not resolution.
+
+STEP 4: EMERGENCE IDENTIFICATION
+────────────────────────────────────────────────────────────
+Extract insights visible ONLY from the tension:
+• What patterns appear at the friction boundary?
+• What structures become visible when neither lens dominates?
+• What questions emerge that neither lens alone would ask?
+• What feedback loops, paradoxes, or thresholds appear?
+
+EMERGENCE CATEGORIES (non-exhaustive):
+• Legitimacy-power feedback loops
+• Interest-principle collapse
+• Violence as constitution (not adjudication)
+• External indifference as generative force
+• Impersonal state emergence
+• Time horizon gaps between actors and analysts
+• Recursive causation (A enables B enables A)
+
+Output: Candidate emergent insights with structural description.
+
+STEP 5: STABILITY TESTING
+────────────────────────────────────────────────────────────
+Test each emergent insight for genuine emergence:
+• Does the insight dissolve if you adopt only the Mercouris lens?
+• Does the insight dissolve if you adopt only the Mearsheimer lens?
+• Is the insight reducible to either framework?
+• Does the insight require BOTH readings to remain visible?
+
+STABILITY CRITERIA:
+• STABLE: Insight requires both lenses; dissolves under either alone
+• UNSTABLE: Insight is reducible to one lens; not genuine emergence
+• PARTIAL: Insight is enriched by polyphony but visible from one lens
+
+Only STABLE insights qualify for MEM integration as polyphony-derived.
+
+Output: Validated emergent insights with stability assessment.
+
+STEP 6: MEM INTEGRATION
+────────────────────────────────────────────────────────────
+Generate polyphony-derived content for MEM inclusion:
+• STRUCTURAL EMERGENCE PATTERNS section
+• Subsections for each validated insight
+• Clear attribution to polyphony derivation
+• Preservation of tension without resolution
+
+INTEGRATION FORMAT:
+• Section header: STRUCTURAL EMERGENCE PATTERNS (POLYPHONY-DERIVED)
+• Subsection headers: XI.A, XI.B, XI.C (pattern names)
+• Each subsection explains the friction that produced the insight
+• No synthesis or resolution permitted
+• Contradictions preserved
+
+Output: Draft MEM section ready for WRITE mode integration.
+
+POLYPHONY SEQUENCE INTERFACE:
+────────────────────────────────────────────────────────────
+
+┌─────────────────────────────────────────────────────────────┐
+│  Step 1: MERCOURIS reading complete                         │
+│            ↓                                                │
+│  Step 2: MEARSHEIMER sharpening complete                    │
+│            ↓                                                │
+│  Step 3: Friction points mapped                             │
+│            ↓                                                │
+│  Step 4: Emergent patterns identified                       │
+│            ↓                                                │
+│  Step 5: Stability tested — valid insights confirmed        │
+│            ↓                                                │
+│  Step 6: MEM section drafted                                │
+│            ↓                                                │
+│  [OGE OPTIONS]                                              │
+│  A. Review emergent insights in detail                      │
+│  B. Challenge a specific insight (re-test stability)        │
+│  C. Add additional friction points                          │
+│  D. Integrate into MEM (enter WRITE mode)                   │
+│  E. Run sequence on different subject                       │
+│  F. Return to standard LEARN exploration                    │
+└─────────────────────────────────────────────────────────────┘
+
+QUICK INVOCATION:
+────────────────────────────────────────────────────────────
+For rapid polyphony analysis without full sequence:
+
+• "Invoke Mearsheimer sharpening" — Steps 1-2 only
+• "Map friction" — Steps 1-3 only
+• "Run full polyphony sequence" — All 6 steps
+• "Test insight stability: [insight]" — Step 5 only on specific insight
+
+POLYPHONY PROMPT OPTIMIZATION:
+────────────────────────────────────────────────────────────
+The sequence yields highest emergence with prompts that:
+
+1. Both lenses produce plausible readings (not strawmen)
+2. The readings are incompatible (not complementary)
+3. The friction is structural (not terminological)
+4. Historical actors could not articulate the pattern
+5. The subject involves constitutional rupture, external arbitration,
+   violence-as-constitution, or state formation thresholds
+
+LOW-YIELD PROMPTS:
+• Questions with obvious realist or civilizational answers
+• Purely factual queries without interpretive depth
+• Subjects where one lens is clearly dominant
+
+HIGH-YIELD PROMPTS:
+• Constitutional rupture and succession crises
+• External arbiter effects on internal disputes
+• Violence as clarification mechanism
+• Impersonal state emergence thresholds
+• Interest-principle collapse during transformation
+• Time horizon gaps between actors and analysts
 
 ────────────────────────────────────────────────────────────
 V. WRITE MODE — CANONICAL PRODUCTION
@@ -616,7 +810,7 @@ with different purposes and prominence.
 
 OGE OPTION TYPES BY MODE:
 
-LEARN:  Ingest | Explore | Analyze | Synthesize | Transition
+LEARN:  Ingest | Explore | Analyze | Synthesize | Transition | Observation | Polyphony
 WRITE:  Production | Source | Workflow | Completion
 IMAGINE: Navigation paths through existing SCHOLAR knowledge
 
@@ -751,12 +945,22 @@ XIII. GLOSSARY
 ────────────────────────────────────────────────────────────
 DECLARATIVE RHETORIC — Language patterns for authoritative assertion
 DISCOVERY RHETORIC — Language patterns for intellectual exploration
+EMERGENCE — Insight visible only from friction between lenses,
+            not reducible to either lens alone
+FRICTION MAPPING — Process of identifying where interpretive lenses
+                   produce incompatible readings
 MODE REGISTER — Communicative relationship defined by mode purpose
-OGE — Option Generation Engine; the user interface for IMAGINE mode
-       that enables audience-directed navigation of SCHOLAR knowledge
+OGE — Option Generation Engine; user interface for directing SCHOLAR
+      in LEARN, WRITE, and IMAGINE modes
+POLYPHONY — Parallel presentation of distinct analytical readings
+            with tension preserved, not synthesized
+POLYPHONY SEQUENCE — 6-step procedure for extracting emergent insights
+                     from dual-mind analysis (see IV.F.5)
 PRESENTATIONAL RHETORIC — Language patterns for dynamic presentation
 REGISTER CONFLICT — When a task requires multiple mode registers
+STABILITY TESTING — Verification that an insight requires both lenses
+                    and dissolves under single-lens analysis
 VOICE PROFILE — Persistent cognitive-linguistic personality (VP-MERCOURIS)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — COMMUNICATION–REGISTER–PROTOCOL v1.0
+END OF FILE — COMMUNICATION–REGISTER–PROTOCOL v1.1

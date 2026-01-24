@@ -1,6 +1,6 @@
 CIV–MEM–TEMPLATE — v2.7
 Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection · Promotion Provenance
+20% Evidence Standard · Word Count Governance · Enhanced Scholarly Rigor · Analytical Protection
 
 Status: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–MEM–TEMPLATE v2.6
@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · CEO PROMOTION PROVENANCE
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-WORDCOUNT: ~4,500
+WORDCOUNT: ~4,800
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
@@ -538,7 +538,70 @@ See: EPHEMERAL–OBSERVATION–PROTOCOL VI (CEO → MEM Promotion Path)
 See: CIV–CEO–TEMPLATE XI (Promotion Requirements)
 
 ────────────────────────────────────────────────────────────
-XXI. VERSIONING & LOCK
+XXI. WORD COUNT GOVERNANCE
+────────────────────────────────────────────────────────────
+MEM files must remain focused intelligence objects, not encyclopedic
+narratives. Word count limits enforce compression discipline while
+preserving flexibility for genuinely complex subjects.
+
+XXI.A WORD COUNT LIMITS
+────────────────────────────────────────────────────────────
+TARGET RANGE: 2,500–4,000 words (RECOMMENDED)
+Most MEMs should fall within this range. Sufficient for structural
+analysis with proper evidentiary support.
+
+SOFT CEILING: 5,000 words (JUSTIFICATION REQUIRED)
+MEMs exceeding 4,000 words require explicit justification:
+• Multi-phase conflicts spanning decades
+• Subjects with complex internal structure
+• High quote density from unusually rich sources
+
+Justification must appear in MEM metadata or upgrade notes.
+
+HARD CEILING: 6,000 words (ABSOLUTE MAXIMUM)
+No MEM may exceed 6,000 words regardless of subject complexity.
+Exceeding this limit blocks CANONICAL advancement.
+
+If a subject genuinely requires more than 6,000 words, it must be
+split into multiple MEMs (e.g., WAR–PHASE–I, WAR–PHASE–II).
+
+XXI.B WORD COUNT CALCULATION
+────────────────────────────────────────────────────────────
+Word count includes:
+• All prose content
+• Verbatim quotations
+• Section headers
+• Metadata block
+
+Word count excludes:
+• File path and filename
+• Horizontal rule characters (────)
+• Empty lines
+
+XXI.C RELATIONSHIP TO QUOTE REQUIREMENTS
+────────────────────────────────────────────────────────────
+The 20% quote minimum and 70% analytical minimum constrain the
+relationship between quotes and analysis:
+
+MATHEMATICAL CONSTRAINT:
+• At 2,500 words: ~500 quote words minimum, ~1,750 analytical words minimum
+• At 4,000 words: ~800 quote words minimum, ~2,800 analytical words minimum
+• At 6,000 words: ~1,200 quote words minimum, ~4,200 analytical words minimum
+
+This prevents quote-stuffing as a means of inflating word count.
+
+XXI.D ENFORCEMENT
+────────────────────────────────────────────────────────────
+DRAFT: No word count enforcement
+PARTIAL: Soft ceiling applies (justification for >4,000)
+COMPLIANT: Soft ceiling applies
+CANONICAL: Hard ceiling enforced (>6,000 blocks lock)
+
+MEMs exceeding hard ceiling may not advance to CANONICAL status
+until reduced through revision or splitting.
+
+────────────────────────────────────────────────────────────
+XXII. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • Deletions forbidden
@@ -546,6 +609,7 @@ XXI. VERSIONING & LOCK
 
 v2.7 ADDITIONS:
 • CEO → MEM Promotion Provenance section
+• Word Count Governance section
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–MEM–TEMPLATE v2.7
