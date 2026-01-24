@@ -1,276 +1,188 @@
-CIV–ARC–[CIVILIZATION] — v2.0
+CIV–ARC–[CIVILIZATION] — v3.0
 Civilizational Memory Codex · Academic Reference Canon
-Enhanced Scholarly Standards · Synced with MEM–TEMPLATE v2.6
-Status: CANONICAL · STAND-ALONE · MIRRORED
-Scope: CIV–CORE–[CIVILIZATION] and CIV–SCHOLAR–[CIVILIZATION] (IDENTICAL TEXT)
+Author Admissibility & Temporal Precedence
+
+Status: ACTIVE · CANONICAL · SIMPLIFIED
+Supersedes: CIV–ARC–[CIVILIZATION] v2.0
+Upgrade Type: MAJOR · SIMPLIFICATION + NAMESPACE ALIGNMENT
+Scope: Author admissibility and temporal precedence ONLY
+Compatibility: CIV–MEM–TEMPLATE v2.7+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.0) — ENHANCED SCHOLARLY STANDARDS
+UPGRADE NOTE (v3.0) — SIMPLIFICATION + NAMESPACE ALIGNMENT
 ────────────────────────────────────────────────────────────
-This version synchronizes ARC standards with CIV–MEM–TEMPLATE v2.6 enhanced scholarly rigor.
+This version simplifies ARC to focus on its UNIQUE governance functions:
 
-NEW ELEMENTS:
-• Reinforced 25-word minimum quotation standard across all categories
-• Enhanced fair-use compliance guidance for modern sources
-• Strengthened evidentiary requirements for scholarly admissibility
-• Improved discovery framework for comprehensive source coverage
+1. AUTHOR ADMISSIBILITY — Which scholars may be quoted
+2. TEMPORAL PRECEDENCE — Ancient testimony overrides modern interpretation
+3. DISCOVERY FRAMEWORK — How to expand beyond listed authors
 
-PRESERVED ELEMENTS:
-• Four-category temporal structure
-• Quotation hierarchy and interpretive precedence
-• Discovery protocols and expansion rules
-• Mirroring requirements for CORE and SCHOLAR files
+REMOVED (now governed by CIV–MEM–TEMPLATE v2.7):
+• Quotation quantity requirements (see MEM-TEMPLATE VIII)
+• Quotation quality standards (see MEM-TEMPLATE VI: EQS)
+• Minimum word counts (see MEM-TEMPLATE VIII.A)
 
-This upgrade ensures ARC governance supports MEM–TEMPLATE v2.6's enhanced evidentiary standards.
-
-────────────────────────────────────────────────────────────
-I. PURPOSE & AUTHORITY
-────────────────────────────────────────────────────────────
-This file defines the Academic Reference Canon (ARC) for the [CIVILIZATION] civilization.
-
-It specifies:
-• Which sources are admissible
-• How they must be quoted
-• How they are weighted
-• How they interact with MEM files
-• How discovery beyond listed sources is governed
-
-This file is governance infrastructure, not interpretation.
-
-This canon MUST be copied verbatim into:
-• CIV–CORE–[CIVILIZATION]
-• CIV–SCHOLAR–[CIVILIZATION]
-
-MEM files may consume this canon.
-They may not modify, reinterpret, or extend it.
-
-This file has authority over all MEM–[CIVILIZATION] files with respect to source admissibility, quotation discipline, and interpretive weighting.
+NAMESPACE ALIGNMENT:
+• ARC temporal categories now use ARC-T-* prefix
+• See NAMESPACE–CLARIFICATION v1.0 for disambiguation
+• ARC-T categories are ORTHOGONAL to ERC evidence-role categories
 
 ────────────────────────────────────────────────────────────
-II. SOURCE CATEGORIES (FIXED & EXHAUSTIVE)
+I. PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-ARC sources are divided into four and only four categories:
+ARC governs TWO and ONLY TWO things:
 
-A. ANCIENT
-B. MEDIEVAL
-C. EARLY MODERN
-D. MODERN
+1. AUTHOR ADMISSIBILITY
+   Which historians, chroniclers, and scholars may be quoted
+   for a given civilization.
 
-No other category exists.
-No category may be collapsed into another.
-Misclassification is a compliance failure.
+2. TEMPORAL PRECEDENCE
+   When sources conflict, earlier testimony has priority.
 
-Categories are chronological and functional, not ideological.
-
-────────────────────────────────────────────────────────────
-III. CATEGORY A — ANCIENT (REQUIRED)
-────────────────────────────────────────────────────────────
-Definition:
-Primary texts produced in antiquity that directly describe [CIVILIZATION], pre-[CIVILIZATION], or [CIVILIZATION]-interfacing institutions, events, geography, law, or civilizational logic.
-
-Classification is by temporal origin, not legal status.
-
-Temporal Scope:
-• [Define temporal boundaries specific to civilization]
-• [Include any relevant late antique or transitional period definitions]
-
-Approved Ancient Authors ([CIVILIZATION]):
-• [List approved ancient authors specific to the civilization]
-• [Include primary sources, historians, chroniclers, legal texts, etc.]
-
-Rules (MANDATORY):
-• At least TWO distinct ancient-source quotations REQUIRED per MEM file
-• Quotations must be verbatim
-• Minimum length per quotation: 25 words
-• No maximum length
-• Translation must be identified if applicable
-• Quotations must materially support an analytic claim
-• Ancient quotations form the evidentiary spine of the MEM
-
-Ancient sources have absolute precedence over all other categories.
+ARC does NOT govern:
+• How much to quote (see MEM-TEMPLATE)
+• How to evaluate quote quality (see EQS in MEM-TEMPLATE)
+• Evidence role classification (see ERC in MEM-TEMPLATE)
 
 ────────────────────────────────────────────────────────────
-IV. CATEGORY B — MEDIEVAL (REQUIRED WHEN APPLICABLE)
+II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
-Definition:
-Primary and secondary sources produced after [DEFINE TEMPORAL BOUNDARY] that interpret, transmit, contest, or restructure [CIVILIZATION] authority, legitimacy, law, theology, or civilizational memory within medieval contexts.
+Authors are classified by the HISTORICAL PERIOD in which they wrote.
 
-This category exists to capture [CIVILIZATION] continuity, not rupture.
+ARC-T-ANCIENT
+Authors from the subject civilization's classical/foundational period.
+Direct witnesses to events, institutions, and practices.
 
-Temporal Boundary:
-• Begins [DEFINE START DATE/MARKER], marked by [DEFINE CIVILIZATIONAL HINGE EVENT]
-• Extends through [DEFINE END DATE/MARKER]
+ARC-T-MEDIEVAL
+Authors from the medieval transmission period.
+Continuity witnesses, not direct evidence of ancient practice.
 
-Rationale:
-[Define the civilizational hinge event and its significance]:
-• [Explain how this event represents continuity or transformation]
-• [Describe how medieval sources relate to ancient sources]
+ARC-T-EARLY-MOD
+Authors from the early modern critical period (c. 1500–1900).
+Historiographic interpretation, typically out of copyright.
 
-Category B sources are evaluated as continuity witnesses, not as direct evidence of ancient [CIVILIZATION] practice.
-
-Representative Medieval Source Classes ([CIVILIZATION]):
-• [List representative source classes: chronicles, legal commentaries, theological texts, etc.]
-
-Approved Medieval Authors ([CIVILIZATION]):
-
-[Organize by source class]:
-
-[Source Class 1]:
-• [Author 1] ([Work], [century])
-• [Author 2] ([Work], [century])
-
-[Source Class 2]:
-• [Author 3] ([Work], [century])
-• [Author 4] ([Work], [century])
-
-Rules (MANDATORY):
-• Category B may NOT replace Category A when ancient evidence exists
-• Category B may clarify survival, mutation, or reinterpretation of [CIVILIZATION] forms
-• Category B quotations must be verbatim
-• Minimum quotation length: 25 words unless limited by manuscript form
-• Medieval sources may not override ancient testimony
+ARC-T-MODERN
+Authors from contemporary scholarship (c. 1900–present).
+Current academic interpretation, under copyright.
 
 ────────────────────────────────────────────────────────────
-V. CATEGORY C — EARLY MODERN (REQUIRED)
+III. TEMPORAL PRECEDENCE RULE (ABSOLUTE)
 ────────────────────────────────────────────────────────────
-Definition:
-Historical scholarship from the early modern period (approximately 1500–1900) that interprets [CIVILIZATION] history, institutions, and civilizational logic. These sources are typically no longer under copyright and serve as secondary interpretation rather than primary testimony.
+When sources from different periods conflict:
 
-Temporal Scope:
-• From approximately AD 1500 through the late 19th century
-• Includes Enlightenment and 19th-century classical scholarship
+PRECEDENCE ORDER:
+1. ARC-T-ANCIENT (highest authority)
+2. ARC-T-MEDIEVAL
+3. ARC-T-EARLY-MOD
+4. ARC-T-MODERN (lowest authority)
 
-Function:
-Interpretive framing, synthesis, historiographic contrast, and foundational modern theoretical clarification of [CIVILIZATION] history.
+RULE: Later periods may CLARIFY or FRAME earlier testimony.
+      Later periods may NOT OVERRIDE earlier testimony.
 
-Approved Early Modern Scholars ([CIVILIZATION]):
-
-[Organize by period/region]:
-
-[Period/Region 1]:
-• [Scholar 1] ([Dates]) — [Major Work] ([Year])
-• [Scholar 2] ([Dates]) — [Major Work] ([Year])
-
-[Period/Region 2]:
-• [Scholar 3] ([Dates]) — [Major Work] ([Year])
-• [Scholar 4] ([Dates]) — [Major Work] ([Year])
-
-Rules (MANDATORY):
-• At least TWO early modern scholarly quotations REQUIRED per MEM file
-• Quotations must be verbatim
-• Minimum length per quotation: 25 words
-• No maximum length
-• Must be interpretive rather than evidentiary
-• May not substitute for ancient-source grounding
-• Early modern scholarship contextualizes; it does not anchor
+If a modern scholar contradicts ancient testimony:
+• The ancient testimony stands
+• The contradiction must be explicitly noted
+• Resolution is NOT required
 
 ────────────────────────────────────────────────────────────
-VI. CATEGORY D — MODERN (REQUIRED)
+IV. AUTHOR ADMISSIBILITY LISTS
 ────────────────────────────────────────────────────────────
-Definition:
-Contemporary historians and [FIELD] scholars writing under copyright (approximately 1900–present) that interpret [CIVILIZATION] history, institutions, and civilizational logic.
+Each ARC–[CIV] instance MUST include approved author lists.
 
-Function:
-Interpretive framing, synthesis, historiographic contrast, or contemporary theoretical clarification.
+FORMAT:
 
-Approved Modern Scholars ([CIVILIZATION]):
+ARC-T-ANCIENT:
+• [Author Name] — [Work(s)], [Date/Century]
+• [Author Name] — [Work(s)], [Date/Century]
 
-[Organize by thematic focus]:
+ARC-T-MEDIEVAL:
+• [Author Name] — [Work(s)], [Date/Century]
+• [Author Name] — [Work(s)], [Date/Century]
 
-[Thematic Focus 1]:
-• [Scholar 1] ([Birth year]) — [Major Works]
-• [Scholar 2] ([Birth year]) — [Major Works]
+ARC-T-EARLY-MOD:
+• [Author Name] ([Dates]) — [Major Work(s)]
+• [Author Name] ([Dates]) — [Major Work(s)]
 
-[Thematic Focus 2]:
-• [Scholar 3] ([Birth year]) — [Major Works]
-• [Scholar 4] ([Birth year]) — [Major Works]
+ARC-T-MODERN:
+• [Author Name] ([Birth year]) — [Major Work(s)]
+• [Author Name] ([Birth year]) — [Major Work(s)]
 
-Rules (MANDATORY):
-• At least TWO distinct modern scholars REQUIRED per MEM file
-• At least ONE verbatim quotation REQUIRED per modern scholar
-• Quotations must comply with fair-use norms (educational use, transformative purpose, limited scope)
-• Minimum quotation length: 25 words to ensure meaningful scholarly engagement
-• Short quotations preferred, but length is governed by fair use, not an artificial word cap
-• Paraphrase may supplement but may NOT replace verbatim quotation
-• Modern scholarship may not serve as sole support for core claims
-• All modern quotations must include full bibliographic attribution
+RULE: Only listed authors may be quoted without discovery flag.
 
 ────────────────────────────────────────────────────────────
-VII. QUOTATION HIERARCHY & INTERPRETIVE WEIGHT
+V. ARC DISCOVERY FRAMEWORK
 ────────────────────────────────────────────────────────────
-Interpretive precedence is fixed:
-	1.	Category A — Ancient
-	2.	Category B — Medieval
-	3.	Category C — Early Modern
-	4.	Category D — Modern
+When a MEM requires sources beyond the approved list:
 
-Later tiers may clarify or frame.
-They may not override earlier tiers.
+DISCOVERY SEQUENCE:
+1. Search listed authors first
+2. If insufficient, expand to adjacent authors/traditions
+3. Flag all non-listed sources
 
-No synthesis may contradict Category A without explicit contradiction marking in SCHOLAR files.
-
-────────────────────────────────────────────────────────────
-VIII. ARC–DISCOVERY–FRAMEWORK (NORMALIZED)
-────────────────────────────────────────────────────────────
-To prevent canon brittleness while preserving governance discipline, ARC employs a tiered discovery protocol.
-
-This framework applies to Category A (Ancient) and Category B (Medieval) sources.
-
-Discovery Sequence:
-	1.	Presumptive Canon Search
-• System first searches listed authors and standard editions
-• Time-bound internal discovery window
-	2.	Candidate Buffer Expansion
-• If insufficient material is found, system may expand search to:
-– Adjacent contemporaneous authors
-– Recognized manuscript traditions
-– System-accessible academic corpora
-	3.	Justification Requirement
-• Any non-listed source must be flagged as:
-"ARC–DISCOVERY: EXPANDED SEARCH"
-• Justification must be recorded in SCHOLAR ingestion metadata
+DISCOVERY FLAG (REQUIRED):
+"ARC–DISCOVERY: EXPANDED SEARCH
+Source: [Author/Work]
+Justification: [Why this source is necessary]"
 
 Expanded discovery does NOT:
-• Add new approved authors to the canon
-• Alter category definitions
-• Override quotation hierarchy
-
-Discovery flexibility serves completeness, not discretion.
+• Add authors to the permanent canon
+• Alter temporal precedence
+• Remove the requirement to flag
 
 ────────────────────────────────────────────────────────────
-IX. PROHIBITIONS
+VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
-The following are prohibited:
-• Mislabeling sources across temporal categories
-• Collapsing medieval sources into ancient categories
-• Collapsing early modern sources into modern categories
-• Omitting any required category
-• Using non-listed scholars without explicit canon update
-• Universal or cross-civilization canons
-• MEM-level modification of this file
+ARC-T (temporal categories) and ERC (evidence role categories)
+are ORTHOGONAL classification systems.
+
+A single quotation has BOTH classifications:
+
+EXAMPLE:
+A quote from Gibbon's Decline and Fall:
+• ARC-T: ARC-T-EARLY-MOD (18th century author)
+• ERC: ERC-SECONDARY (scholarly interpretation)
+
+EXAMPLE:
+A quote from Thucydides:
+• ARC-T: ARC-T-ANCIENT (5th century BCE author)
+• ERC: ERC-PRIMARY (direct evidence from period)
+
+See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
 
 ────────────────────────────────────────────────────────────
-X. STORAGE & MIRRORING RULE
+VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-This file:
-• May be stored externally
-• May be versioned independently
-• MUST be mirrored verbatim into:
-– CIV–CORE–[CIVILIZATION]
-– CIV–SCHOLAR–[CIVILIZATION]
+The following are governed by CIV–MEM–TEMPLATE v2.7, NOT by ARC:
 
-Any divergence invalidates compliance.
+• 20% verbatim quote minimum (MEM-TEMPLATE VIII)
+• Evidence Quality Standards / EQS (MEM-TEMPLATE VI)
+• Analytical content floor / 70% (MEM-TEMPLATE VIII.D)
+• Quote word counting rules (MEM-TEMPLATE VIII.D)
+• Subject-type adaptive requirements (MEM-TEMPLATE VIII.B)
+• ERC evidence-role classification (MEM-TEMPLATE V)
 
-────────────────────────────────────────────────────────────
-XI. CANON STATE
-────────────────────────────────────────────────────────────
-Version: CIV–ARC–[CIVILIZATION] v2.0
-State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–[CIVILIZATION] v1.0
-Upgrade Type: ENHANCED SCHOLARLY STANDARDS · SYNCED WITH MEM–TEMPLATE v2.6
-Mutation Rule: ADDITIVE ONLY (explicit version bump required)
+ARC determines WHO may be quoted.
+MEM-TEMPLATE determines HOW MUCH and HOW WELL.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] — v2.0
+VIII. MIRRORING RULE
+────────────────────────────────────────────────────────────
+Each ARC–[CIV] instance MUST be referenced in:
+• CIV–CORE–[CIV]
+• CIV–SCHOLAR–[CIV]
+
+Full embedding is no longer required (deprecation of mirror rule).
+Reference by version pointer is sufficient.
+
+────────────────────────────────────────────────────────────
+IX. VERSIONING
+────────────────────────────────────────────────────────────
+• Additive upgrades only for author lists
+• Temporal precedence rule is immutable
+• Discovery framework may be refined
+• Namespace alignment is permanent
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–[CIVILIZATION] v3.0
 ────────────────────────────────────────────────────────────
