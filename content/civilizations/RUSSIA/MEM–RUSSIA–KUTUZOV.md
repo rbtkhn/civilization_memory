@@ -1,10 +1,10 @@
-MEM–RUSSIA–KUTUZOV — v2.0
+MEM–RUSSIA–KUTUZOV — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.1
-Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.1 → v2.2)
+Version: 2.7
+Supersedes: v2.2
+Upgrade Type: v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Mikhail Illarionovich Kutuzov (Михаил Илларионович Кутузов)
 Dates: 1745–1813 AD (decisive role: 1812–1813)
@@ -14,8 +14,12 @@ Word Count: ~2,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• CIV–ARC–RUSSIA v2.7 (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -284,16 +288,21 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
+XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and endurance validation
 • MEM–RUSSIA–ALEXANDER–I — strategic planning and legitimacy conversion
 • MEM–RUSSIA–WAR–BORODINO — key battle and controlled sacrifice
 • MEM–RUSSIA–PAUL–I — contrast: strategic restraint vs personal impulse
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through endurance
+• MEM–RUSSIA–SUVOROV — contrast: offensive genius vs endurance doctrine
+• MEM–RUSSIA–PETER–GREAT — military modernization enabling 1812 capacity
+• MEM–RUSSIA–CATHERINE–GREAT — Russo-Turkish experience shaping Kutuzov
+• MEM–RUSSIA–MUSCOVY — coercive state formation as strategic foundation
+• MEM–RUSSIA–LIT–TOLSTOY — literary construction of Kutuzov in War and Peace
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth enabling endurance
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
@@ -357,5 +366,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KUTUZOV v2.2
+END OF FILE — MEM–RUSSIA–KUTUZOV v2.7
 ────────────────────────────────────────────────────────────

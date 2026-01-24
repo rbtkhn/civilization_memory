@@ -1,10 +1,10 @@
-MEM–RUSSIA–WAR–NAPOLEON — v2.0
+MEM–RUSSIA–WAR–NAPOLEON — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.0 → v2.1)
+Version: 2.7
+Supersedes: v2.1
+Upgrade Type: v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: War with Napoleonic France (Отечественная война 1812 года)
 Dates: 1812–1814 AD
@@ -14,8 +14,12 @@ Word Count: ~2,400
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• CIV–ARC–RUSSIA v2.7 (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -215,17 +219,21 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY)
+X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–WAR–BORODINO — key battle and endurance validation
 • MEM–RUSSIA–KUTUZOV — commander's strategic restraint and endurance doctrine
 • MEM–RUSSIA–ALEXANDER–I — strategic planning and legitimacy conversion
 • MEM–RUSSIA–WAR–AUSTERLITZ — contrast: strategic education through defeat
 • MEM–RUSSIA–CONGRESS–VIENNA — post-war arbitration and settlement
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through endurance
+• MEM–RUSSIA–PETER–GREAT — state capacity enabling 1812 victory
+• MEM–RUSSIA–SUVOROV — offensive doctrine contrast with endurance strategy
+• MEM–RUSSIA–MUSCOVY — coercive extraction as war-fighting foundation
+• MEM–RUSSIA–LIT–TOLSTOY — literary memory of the Patriotic War
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth enabling endurance
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
@@ -284,5 +292,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v2.1
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v2.7
 ────────────────────────────────────────────────────────────

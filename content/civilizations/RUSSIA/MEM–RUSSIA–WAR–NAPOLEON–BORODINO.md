@@ -1,10 +1,10 @@
-MEM–RUSSIA–WAR–NAPOLEON–BORODINO — v2.1
+MEM–RUSSIA–WAR–NAPOLEON–BORODINO — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.2
-Supersedes: v2.1
-Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.1 → v2.2)
+Version: 2.7
+Supersedes: v2.2
+Upgrade Type: v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Borodino (Бородинское сражение)
 Dates: 7 September 1812 AD
@@ -14,8 +14,12 @@ Word Count: ~2,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• CIV–ARC–RUSSIA v2.7 (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -219,16 +223,21 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY)
+IX. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and endurance validation
 • MEM–RUSSIA–KUTUZOV — commander's strategic restraint and controlled sacrifice
 • MEM–RUSSIA–ALEXANDER–I — strategic planning and legitimacy conversion
 • MEM–RUSSIA–WAR–SEVEN–YEARS — contrast: endurance vs decisive battle
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through endurance
+• MEM–RUSSIA–PETER–GREAT — military modernization enabling 1812 capacity
+• MEM–RUSSIA–SUVOROV — offensive doctrine contrast with endurance strategy
+• MEM–RUSSIA–MUSCOVY — coercive extraction as war-fighting foundation
+• MEM–RUSSIA–LIT–TOLSTOY — literary memory of Borodino in War and Peace
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy during existential crisis
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth enabling endurance
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
@@ -283,5 +292,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–BORODINO v2.2
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–BORODINO v2.7
 ────────────────────────────────────────────────────────────

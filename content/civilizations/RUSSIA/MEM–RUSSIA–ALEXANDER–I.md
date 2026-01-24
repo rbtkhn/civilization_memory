@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXANDER–I — v2.0
+MEM–RUSSIA–ALEXANDER–I — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · MEM BIBLIOGRAPHY ADDITION (v2.0 → v2.1)
+Version: 2.7
+Supersedes: v2.1
+Upgrade Type: v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
@@ -15,8 +15,12 @@ Word Count: ~3,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• CIV–ARC–RUSSIA v2.7 (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -254,17 +258,21 @@ X. CONTINUITY INSIGHTS (RAW)
 • External ideological exposure triggers internal consolidation.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
+XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and validation framework
 • MEM–RUSSIA–KUTUZOV — operational endurance doctrine
 • MEM–RUSSIA–WAR–BORODINO — key battle and strategic validation
 • MEM–RUSSIA–CONGRESS–VIENNA — post-war arbitration and settlement
 • MEM–RUSSIA–PAUL–I — contrast: strategic coherence vs personal impulse
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through victory
+• MEM–RUSSIA–PETER–GREAT — Petrine state capacity enabling 1812 victory
+• MEM–RUSSIA–CATHERINE–GREAT — territorial expansion preceding Napoleonic conflict
+• MEM–RUSSIA–MUSCOVY — coercive state formation as strategic foundation
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy during existential crisis
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth enabling endurance
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain and logistics
 
@@ -310,5 +318,5 @@ Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.1
+END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.7
 ────────────────────────────────────────────────────────────
