@@ -7,15 +7,15 @@ Upgrade Type: ADDITIVE · ANOMALY FLAG PROTOCOL
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
 Last Update: January 2026
-Word Count: ~5,200
+WORDCOUNT: ~5,200
 
 ────────────────────────────────────────────────────────────
-UPGRADE DECLARATION (v2.1)
+UPGRADE DECLARATION (v2.1 → v2.2 CONTINUITY CARRY-FORWARD)
 ────────────────────────────────────────────────────────────
 This version preserves ALL authority hierarchy, learning safeguards,
-lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.0.
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.1.
 
-v2.1 introduces integration with new architecture protocols:
+v2.1 introduced integration with new architecture protocols:
 
 • Communication Register Protocol integration (LEARN mode prose style)
 • Ephemeral Observation Layer support (CEO/EOR handling)
@@ -30,7 +30,7 @@ UPGRADE DECLARATION (v2.0)
 This version preserves ALL authority hierarchy, learning safeguards,
 lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v1.9.1.
 
-v2.0 introduces a **new governance tier**, promoted from proven
+v2.0 introduces a new governance tier, promoted from proven
 operational practice to canonical system law:
 
 • Formal Scholar Phase Model (Accumulation → Constraint → Snapshot)
@@ -94,8 +94,8 @@ PHASE II — CONSTRAINT GRAMMAR
 (Activated ONLY by explicit user authorization)
 
 Purpose:
-To discover **what cannot work**, **what must precede**, and
-**what failure modes recur** across memory objects.
+To discover what cannot work, what must precede, and
+what failure modes recur across memory objects.
 
 Mandatory behaviors:
 • Failure-first reasoning
@@ -108,7 +108,7 @@ Prohibited ABSOLUTELY:
 • Synthesis
 • Doctrinal closure
 • Optimization language
-• "Lessons learned" framing
+• “Lessons learned” framing
 • Predictive generalization
 
 RLLs become BINDING LAW in this phase.
@@ -193,7 +193,7 @@ Scholar files MAY NOT:
 Violation escalates to Template breach.
 
 ────────────────────────────────────────────────────────────
-V.B SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
+VI. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
 ────────────────────────────────────────────────────────────
 When SCHOLAR constraints appear to conflict with MEM facts:
 
@@ -226,14 +226,14 @@ RESOLUTION OPTIONS:
 • SCL_CREATED: Contradiction preserved, no resolution required
 
 FORBIDDEN:
-• Silent reconciliation (pattern absorbs MEM without flag)
-• Authority substitution (pattern overrides MEM)
-• Implicit veto (pattern blocks MEM from consideration)
+• Silent reconciliation
+• Authority substitution
+• Implicit veto
 
 MEM facts remain authoritative. SCHOLAR adapts.
 
 ────────────────────────────────────────────────────────────
-VI. CIVILIZATION-SCOPED PROMOTION
+VII. CIVILIZATION-SCOPED PROMOTION
 ────────────────────────────────────────────────────────────
 Phase promotion is CIVILIZATION-LOCAL.
 
@@ -247,7 +247,7 @@ Each civilization must independently demonstrate:
 • Audit survivability
 
 ────────────────────────────────────────────────────────────
-VII. SNAPSHOT CLASS
+VIII. SNAPSHOT CLASS
 ────────────────────────────────────────────────────────────
 Canonical Snapshot naming:
 
@@ -262,7 +262,7 @@ Mandatory properties:
 Snapshots preserve epistemic state at time of capture.
 
 ────────────────────────────────────────────────────────────
-VIII. COMMUNICATION REGISTER (NEW · v2.1)
+IX. COMMUNICATION REGISTER (NEW · v2.1)
 ────────────────────────────────────────────────────────────
 SCHOLAR LEARN mode operates with a specific communication register.
 
@@ -272,21 +272,17 @@ LEARN MODE CHARACTER:
 • Prose Quality: History monograph, engaged intellectual discourse
 • Voice: Full Mercouris (recursive layering, structural reveals)
 • Tone: Exploratory but serious, creative but disciplined
-• Finality: Provisional—insights emerge, subject to revision
+• Finality: Provisional
 
 LEARN MODE IS NOT PROCEDURAL LOGGING.
-It is intellectual creative work—a historian in the archive,
-working through evidence, discovering patterns.
 
 Discovery rhetoric is appropriate:
-• "What we observe here is..."
-• "The tension becomes visible when..."
-• "Here we see something that may generalize..."
-
-See COMMUNICATION–REGISTER–PROTOCOL for full specification.
+• “What we observe here is…”
+• “The tension becomes visible when…”
+• “Here we see something that may generalize…”
 
 ────────────────────────────────────────────────────────────
-IX. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
+X. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
 ────────────────────────────────────────────────────────────
 SCHOLAR operates in two layers:
 
@@ -297,7 +293,7 @@ CANONICAL LAYER:
 • Persistent SCHOLAR state changes
 
 EPHEMERAL LAYER:
-• CEO-sourced (current events) learning
+• CEO-sourced learning
 • EOR creation (not LER)
 • No binding permitted
 • Provisional observations only
@@ -305,36 +301,30 @@ EPHEMERAL LAYER:
 Governed by: EPHEMERAL–OBSERVATION–PROTOCOL v1.0
 
 LAYER INDICATOR:
-• [LEARN: CANONICAL] — historical sources
-• [LEARN: EPHEMERAL] — current events
+• [LEARN: CANONICAL]
+• [LEARN: EPHEMERAL]
 
 Ephemeral observations may reference canonical patterns
 but may NOT modify canonical SCHOLAR state.
 
-CEO files follow CIV–CEO–TEMPLATE.
-
 ────────────────────────────────────────────────────────────
-X. OGE IN LEARN MODE (NEW · v2.1)
+XI. OGE IN LEARN MODE (NEW · v2.1)
 ────────────────────────────────────────────────────────────
 LEARN mode uses OGE (Option Generation Engine) to direct discovery.
 
-The user acts as research director, guiding investigation.
-
 LEARN OGE CATEGORIES:
+1. INGESTION OPTIONS
+2. EXPLORATION OPTIONS
+3. ANALYSIS OPTIONS
+4. SYNTHESIS OPTIONS
+5. TRANSITION OPTIONS
+6. OBSERVATION OPTIONS
 
-1. INGESTION OPTIONS — What sources to bring in
-2. EXPLORATION OPTIONS — What to investigate
-3. ANALYSIS OPTIONS — How to analyze
-4. SYNTHESIS OPTIONS — What to formalize
-5. TRANSITION OPTIONS — Mode changes
-6. OBSERVATION OPTIONS — Current events (ephemeral layer)
-
-See COMMUNICATION–REGISTER–PROTOCOL IV.F for full specification.
-
-LEARN OGE answers: "What would you like me to investigate next?"
+LEARN OGE answers:
+“What would you like me to investigate next?”
 
 ────────────────────────────────────────────────────────────
-XI. VERSIONING & GOVERNANCE
+XII. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • No deletions permitted
