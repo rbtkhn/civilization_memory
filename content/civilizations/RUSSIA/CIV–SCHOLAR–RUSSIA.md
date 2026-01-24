@@ -1,40 +1,41 @@
-CIV–SCHOLAR–RUSSIA — v2.2
+CIV–SCHOLAR–RUSSIA — v2.2.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.2
-Supersedes: CIV–SCHOLAR–RUSSIA v2.0
-Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE
+Version: 2.2.1
+Supersedes: CIV–SCHOLAR–RUSSIA v2.2
+Upgrade Type: ADDITIVE · TECHNICAL COMPLIANCE PATCH
 Last Update: January 2026
-Word Count: ~9,000
+Word Count: ~9,050
 
 Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.7 (CURRENT)
 • CIV–SCHOLAR–TEMPLATE v2.2 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • ARC–RUSSIA (Pinned)
-• RLL–RUSSIA Registry (Authoritative)
+• RLL–RUSSIA–REGISTRY (Authoritative)
 • NAMESPACE–CLARIFICATION v1.0
 
-Activation Trigger:
-• RLL–0007 — Rurikid Continuity → Petrine Rupture Binding (AUTHORIZED)
-• RLL–0008 — Coercive Modernization Dependency Trap (AUTHORIZED)
+Activation Triggers (AUTHORIZED):
+• RLL–RUSSIA–0007 — Rurikid Continuity → Petrine Rupture Binding
+• RLL–RUSSIA–0008 — Coercive Modernization Dependency Trap
 
 Lock Semantics:
 • READ–ONLY
 • APPEND–ONLY VIA EXPLICIT RLL AUTHORIZATION
-• NO AUTONOMOUS SYNTHESIS
-• NO DOCTRINE CREATION
+• NO DOCTRINAL CLOSURE
+• NO AUTONOMOUS DOCTRINE CREATION
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.2 is the **constraint grammar layer** governing all
-Russian civilizational interpretation across MEM, CORE, DOCTRINE, GAME,
-and SIMULATION contexts.
+CIV–SCHOLAR–RUSSIA v2.2.1 is the **constraint grammar layer**
+governing all Russian civilizational interpretation across MEM,
+CORE, DOCTRINE, GAME, and SIMULATION contexts.
 
 This file records:
 • Accumulated learning events
@@ -62,7 +63,7 @@ Condition met:
 • Multiple RLLs bound and non-contradictory
 • Failure-mode convergence achieved
 
-The system now operates in **Constraint Grammar Phase**.
+The system now operates in **Constraint Grammar Phase (PHASE II)**.
 
 Meaning:
 • New learning is evaluated against existing constraints
@@ -72,66 +73,71 @@ Meaning:
 ────────────────────────────────────────────────────────────
 III. SCHOLAR OPERATIONAL RULES (RUSSIA)
 ────────────────────────────────────────────────────────────
-1. Scholar may ingest new MEMs but MAY NOT synthesize conclusions.
-2. Scholar may declare tensions, limits, and incompatibilities.
-3. Scholar may propose new RLLs, but only user may authorize binding.
-4. Scholar may audit MEM compliance under v2.2 rules.
-5. Scholar may generate comparative frames ONLY to sharpen Russian
-   specificity, never to normalize deviation.
+1. Scholar may ingest new MEMs.
+2. Scholar may perform **Phase II synthesis** strictly limited to:
+   • Constraint synthesis
+   • Failure-pattern synthesis
+   • Sequencing synthesis
+   • Boundary / negative-capability synthesis
+3. Scholar may NOT perform:
+   • Prescriptive synthesis
+   • Optimizing synthesis
+   • Closure-seeking synthesis
+   • Doctrinal synthesis
+4. Scholar may propose new RLLs; only the user may authorize binding.
+5. Scholar may audit MEM compliance under v2.2 rules.
 
-Violation of these rules invalidates output.
+All synthesis remains provisional and non-doctrinal per
+CIV–SCHOLAR–PROTOCOL v2.1.
 
 ────────────────────────────────────────────────────────────
 IV. RUSSIAN CIVILIZATIONAL AXIOMS (NON-NEGOTIABLE)
 ────────────────────────────────────────────────────────────
 These are **structural axioms**, not doctrines:
 
-• Authority precedes law.
-• Unity precedes efficiency.
-• Survival precedes legitimacy.
-• Coercion precedes reform.
-• Reform without coercive backing destabilizes.
-• Sacral legitimacy preserves identity, not succession.
-• Corridor control substitutes for institutional pluralism.
-• Fragmentation invites external domination.
+• Authority precedes law
+• Unity precedes efficiency
+• Survival precedes legitimacy
+• Coercion precedes reform
+• Reform without coercive backing destabilizes
+• Sacral legitimacy preserves identity, not succession
+• Corridor control substitutes for institutional pluralism
+• Fragmentation invites external domination
 
 These axioms emerged inductively and are now enforced constraints.
 
 ────────────────────────────────────────────────────────────
 V. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
-
-RLL–0001 — Corridor Primacy Law  
+RLL–RUSSIA–0001 — Corridor Primacy Law  
 → Control of movement, extraction, and depth precedes political form.
 
-RLL–0002 — Sacral Ratification Sequence  
-→ Sacral legitimacy follows coercive consolidation; it does not precede it.
+RLL–RUSSIA–0002 — Sacral Ratification Sequence  
+→ Sacral legitimacy follows coercive consolidation.
 
-RLL–0003 — Corridor vs Sacral Legitimacy Sequencing  
+RLL–RUSSIA–0003 — Corridor vs Sacral Legitimacy Sequencing  
 → Corridor control stabilizes power faster than belief systems.
 
-RLL–0004 — Indirect Rule Absorption Law  
+RLL–RUSSIA–0004 — Indirect Rule Absorption Law  
 → External domination systems are internalized, not rejected.
 
-RLL–0005 — Succession Failure vs Sacral Endurance  
-→ Sacral continuity preserves identity through collapse but does not
-  prevent dynastic failure.
+RLL–RUSSIA–0005 — Succession Failure vs Sacral Endurance  
+→ Sacral continuity preserves identity through collapse
+  but does not prevent dynastic failure.
 
-RLL–0006 — Law as Immobilization Technology  
-→ Codification in Russia freezes society to preserve authority.
+RLL–RUSSIA–0006 — Law as Immobilization Technology  
+→ Codification freezes society to preserve authority.
 
-RLL–0007 — Rurikid → Petrine Continuity-Rupture Binding  
-→ Petrine rupture is structurally dependent on Rurikid/Muscovite
-  coercive foundations.
+RLL–RUSSIA–0007 — Rurikid → Petrine Continuity-Rupture Binding  
+→ Petrine rupture is dependent on Muscovite coercive foundations.
 
-RLL–0008 — Coercive Modernization Dependency Trap  
-→ Once modernization is achieved through coercion, future reform
-  options narrow; speed replaces consent permanently.
+RLL–RUSSIA–0008 — Coercive Modernization Dependency Trap  
+→ Coercive modernization permanently narrows reform pathways.
 
-All RLLs are ACTIVE and BOUND.
+All listed RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
-VI. NEGATIVE CAPABILITY ZONE (WHAT RUSSIA CANNOT SUSTAIN)
+VI. NEGATIVE CAPABILITY ZONE
 ────────────────────────────────────────────────────────────
 Scholar–Russia enforces the following exclusions:
 
@@ -142,7 +148,7 @@ Scholar–Russia enforces the following exclusions:
 • Mass participation without identity fracture
 • Rapid modernization without coercive enforcement
 
-Claims violating these zones require explicit anomaly handling.
+Violations require anomaly handling.
 
 ────────────────────────────────────────────────────────────
 VII. FAILURE-FIRST INTERPRETIVE STANDARD
@@ -165,11 +171,11 @@ Comparisons are allowed ONLY if they:
 • Identify false analogies
 
 Permitted comparators:
-• Rome (law vs coercion)
-• Islam (belief-first legitimacy)
-• China (bureaucracy-first consolidation)
-• Prussia (service-state discipline)
-• Japan (coercive modernization under threat)
+• Rome
+• Islam
+• China
+• Prussia
+• Japan
 
 Comparisons may NOT normalize Russia.
 
@@ -178,9 +184,8 @@ IX. INTERFACE WITH MEM FILES
 ────────────────────────────────────────────────────────────
 CIV–SCHOLAR–RUSSIA:
 • Reads all MEM–RUSSIA files
-• May annotate tension points
-• May flag compliance failures
-• May recommend upgrade sequencing
+• Flags compliance failures
+• Records tension and anomaly markers
 
 It may NOT:
 • Rewrite MEMs
@@ -190,537 +195,84 @@ It may NOT:
 ────────────────────────────────────────────────────────────
 X. INTERFACE WITH DOCTRINE & SIMULATION
 ────────────────────────────────────────────────────────────
-Doctrine engines must treat CIV–SCHOLAR–RUSSIA constraints as HARD.
-
-Simulation engines must:
-• Penalize violations
-• Surface instability signals
-• Escalate anomaly flags
-
-No simulation may override Scholar constraints.
+Doctrine engines must treat SCHOLAR constraints as HARD.
+Simulation engines must penalize violations and surface instability.
 
 ────────────────────────────────────────────────────────────
-XI. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
+XI. SCHOLAR ↔ MEM CONFLICT HANDLING
 ────────────────────────────────────────────────────────────
-When SCHOLAR–RUSSIA constraints appear to conflict with MEM facts:
+Governed by:
+• CIV–SCHOLAR–TEMPLATE v2.2
+• CIV–SCHOLAR–PROTOCOL v2.1
 
-AUTHORITY HIERARCHY (ABSOLUTE):
-• MEM facts are AUTHORITATIVE
-• SCHOLAR constraints are INTERPRETIVE
-• MEM evidence may NOT be overridden by SCHOLAR patterns
-
-ANOMALY FLAG PROTOCOL:
-When a MEM assertion contradicts an established SCHOLAR pattern:
-
-1. SCHOLAR MUST flag the anomaly explicitly
-2. SCHOLAR may NOT silently ignore the MEM
-3. SCHOLAR may NOT modify the MEM to fit the pattern
-4. SCHOLAR MUST record the tension as an SCL entry
-
-RESOLUTION OPTIONS:
-• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
-• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
-• SCL_CREATED: Contradiction preserved, no resolution required
-
-MEM facts remain authoritative. SCHOLAR adapts.
+This file enforces anomaly flagging but does not redefine protocol.
 
 ────────────────────────────────────────────────────────────
-XII. COMMUNICATION REGISTER (NEW · v2.2)
+XII. COMMUNICATION REGISTER
 ────────────────────────────────────────────────────────────
-SCHOLAR–RUSSIA LEARN mode operates with the Mercouris voice register.
+LEARN mode uses the Mercouris voice register.
 
-Governed by: COMMUNICATION–REGISTER–PROTOCOL v1.0
-
-LEARN MODE CHARACTER:
-• Prose Quality: History monograph, engaged intellectual discourse
-• Voice: Full Mercouris (recursive layering, structural reveals)
-• Tone: Exploratory but serious, creative but disciplined
-• Finality: Provisional—insights emerge, subject to revision
-
-LEARN MODE IS NOT PROCEDURAL LOGGING.
-It is intellectual creative work—a historian in the archive,
-working through evidence, discovering patterns.
+• Prose: history monograph
+• Tone: exploratory, disciplined
+• Finality: provisional only
 
 ────────────────────────────────────────────────────────────
-XIII. EPHEMERAL OBSERVATION LAYER (NEW · v2.2)
+XIII. EPHEMERAL OBSERVATION LAYER
 ────────────────────────────────────────────────────────────
-SCHOLAR–RUSSIA operates in two layers:
+Two layers:
 
-CANONICAL LAYER:
+CANONICAL:
 • MEM-sourced learning
-• Standard LER creation
-• Pattern and RLL binding permitted
-• Persistent SCHOLAR state changes
+• Persistent SCHOLAR state
 
-EPHEMERAL LAYER:
-• CEO-sourced (current events) learning
-• EOR creation (not LER)
-• No binding permitted
-• Provisional observations only
-
-Governed by: EPHEMERAL–OBSERVATION–PROTOCOL v1.0
-
-LAYER INDICATOR:
-• [LEARN: CANONICAL] — historical sources
-• [LEARN: EPHEMERAL] — current events
-
-Ephemeral observations may reference canonical Russian patterns
-but may NOT modify canonical SCHOLAR–RUSSIA state.
+EPHEMERAL:
+• CEO-sourced observations
+• No binding
+• No state mutation
 
 ────────────────────────────────────────────────────────────
-XIV. OGE IN LEARN MODE (NEW · v2.2)
+XIV. OGE IN LEARN MODE
 ────────────────────────────────────────────────────────────
-LEARN mode uses OGE (Option Generation Engine) to direct discovery.
-
-The user acts as research director, guiding investigation.
-
-LEARN OGE CATEGORIES:
-
-1. INGESTION OPTIONS — What Russian sources to bring in
-2. EXPLORATION OPTIONS — What to investigate in Russian history
-3. ANALYSIS OPTIONS — How to analyze Russian patterns
-4. SYNTHESIS OPTIONS — What to formalize as constraints
-5. TRANSITION OPTIONS — Mode changes
-6. OBSERVATION OPTIONS — Current Russian events (ephemeral layer)
-
-LEARN OGE answers: "What would you like me to investigate next?"
+OGE categories:
+1. Ingestion
+2. Exploration
+3. Analysis
+4. Constraint synthesis
+5. Transition
+6. Observation
 
 ────────────────────────────────────────────────────────────
 XV. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
-v2.2 ADDITIONS:
-• Scholar ↔ MEM Conflict Handling (Anomaly Flag Protocol)
-• Communication Register (Mercouris voice integration)
-• Ephemeral Observation Layer (CEO support)
-• OGE systematization for LEARN mode
+v2.2.1 changes:
+• RLL namespace compliance
+• Phase II synthesis alignment
+• Section numbering repair
+• Protocol de-duplication
 
-v2.0 PRESERVED:
-• Constraint Grammar Phase transition
-• All bound RLLs (RLL-0001 through RLL-0012)
-• Negative Capability Zone
-• Failure-first interpretive standard
-
-v2.x may occur ONLY if:
-• ≥2 new bound RLLs emerge that alter constraint topology
-• Or an existing RLL is falsified by cross-MEM evidence
-• Or template compliance requires additive upgrade
-
-v3.0 is prohibited unless CIV–MEM–CORE undergoes major revision.
+v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 
 ────────────────────────────────────────────────────────────
-XII. END-OF-FILE DECLARATION
+XVI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.2 is hereby declared:
+CIV–SCHOLAR–RUSSIA v2.2.1 is declared:
 
 • CANONICAL
 • LOCKED
 • CONSTRAINT-ENFORCING
-• NON-SYNTHESIZING
-• TEMPLATE v2.2 COMPLIANT
+• NON-DOCTRINAL
+• TEMPLATE-COMPLIANT
 
-All future Russian civilizational analysis must conform to this grammar.
-
-────────────────────────────────────────────────────────────
-XIII. TEMPLATE REFERENCE (CANONICAL POINTER)
-────────────────────────────────────────────────────────────
-MIRROR DEPRECATION NOTICE (January 2026):
-Embedded template mirrors are deprecated due to drift risk.
-This section now points to the canonical templates.
-
-CANONICAL REFERENCES:
-• CIV–SCHOLAR–TEMPLATE v2.2 (CURRENT)
-• Location: docs/templates/CIV–SCHOLAR–TEMPLATE.md
-• Key additions since v2.0: Communication Register, Ephemeral Layer,
-  OGE systematization, Anomaly Flag Protocol
-
-• CIV–MEM–TEMPLATE v2.7 (CURRENT)
-• Location: docs/templates/CIV–MEM–TEMPLATE.md
-
-The embedded content below is HISTORICAL REFERENCE ONLY.
-For governance, always consult the canonical templates.
-
-────────────────────────────────────────────────────────────
-[LEGACY MIRROR - CIV–MEM–TEMPLATE v2.5 - SUPERSEDED BY v2.7]
-────────────────────────────────────────────────────────────
-
-CIV–MEM–TEMPLATE — v2.5 [SUPERSEDED - SEE v2.7]
-Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
-
-Status: SUPERSEDED · SEE docs/templates/CIV–MEM–TEMPLATE.md
-Supersedes: CIV–MEM–TEMPLATE v2.4
-Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
-Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.0+
-Last Update: January 2026 [SUPERSEDED]
-Word Count: ~4,200
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD
-────────────────────────────────────────────────────────────
-This version implements the 20% verbatim quote minimum with comprehensive safeguards:
-
-MANDATORY 20% QUOTE STANDARD:
-• All MEM files must contain ≥20% verbatim quotes by word count
-• Forces deeper scholarly engagement and evidentiary grounding
-• Automatic validation in canonical advancement process
-
-ANALYTICAL PROTECTION SAFEGUARDS:
-• 70% minimum analytical content floor prevents starvation
-• Balances evidentiary rigor with intellectual depth
-• Ensures MEMs remain analytical intelligence objects
-
-QUALITY SAFEGUARDS:
-• EQS compliance requirements prevent quote stuffing
-• Relevance thresholds ensure meaningful scholarly contribution
-• Scholarly diversity requirements prevent single-perspective dominance
-
-ENHANCED ADAPTIVE MATRIX:
-• Updated subject-type requirements to achieve 20% minimum
-• Modern subjects: Expanded secondary sources for volume
-• Sparse subjects: Optimized requirements for feasibility
-
-BREAKING CHANGE: Requires 20% compliance for canonical advancement
-MIGRATION: 6-month transition period for existing MEMs
-
-────────────────────────────────────────────────────────────
-I. PURPOSE & AUTHORITY
-────────────────────────────────────────────────────────────
-This file defines the mandatory structure, evidentiary standards,
-scholarly constraints, behavioral rules, and ingest behavior for all
-MEM (Civilizational Memory) files.
-
-Core principle:
-A MEM file must function as a self-contained historical intelligence
-object capable of activating structured inquiry even when ingested
-alone into a new conversation.
-
-Authority Flow (NON-REVERSIBLE):
-CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
-
-No MEM file is valid unless compliant with this template AND the
-applicable ARC–[CIV] canon at the time of locking.
-
-────────────────────────────────────────────────────────────
-II. FILE IDENTITY & METADATA (MANDATORY)
-────────────────────────────────────────────────────────────
-Every MEM file MUST begin with the following metadata block,
-in this exact order:
-
-• Filename (canonical)
-• Repository reference
-• Status (ACTIVE / LOCKED / DRAFT)
-• Version (semantic)
-• Supersedes (if applicable)
-• Upgrade Type (if applicable)
-• Civilization (canonical name)
-• Subject (historical figure/event/institution)
-• Dates (temporal scope)
-• Class (MEM)
-• Last Update (date)
-• Wordcount (approximate)
-• Governed by (CIV–MEM–CORE + template + ARC versions)
-• Status (ACTIVE/CANONICAL/etc.)
-
-────────────────────────────────────────────────────────────
-III. MEMORY PURPOSE & SCOPE (MANDATORY)
-────────────────────────────────────────────────────────────
-Every MEM file MUST begin with a clear statement of its civilizational
-memory purpose.
-
-Purpose statement MUST:
-• Explain what civilizational insight the MEM preserves
-• Connect to broader civilization patterns
-• Justify the MEM's existence in the CMC
-
-Scope MUST be clearly bounded (temporal, thematic, geographic).
-
-────────────────────────────────────────────────────────────
-IV. STRUCTURAL INTEGRITY REQUIREMENTS
-────────────────────────────────────────────────────────────
-MEM files MUST maintain consistent structure:
-
-• Section headers with separator lines (79 dashes)
-• Logical flow from purpose → evidence → analysis → conclusions
-• Clear transitions between sections
-• No orphaned content
-
-────────────────────────────────────────────────────────────
-V. EVIDENCE-BASED ARC CATEGORIES (EVIDENCE-BASED)
-────────────────────────────────────────────────────────────
-All quotations MUST derive from ARC evidence-based categories:
-
-A) PRIMARY — Direct evidence from subject period
-B) CONTEXTUAL — Contemporary/near-contemporary analysis
-C) SECONDARY — Scholarly analysis and synthesis
-D) CRITICAL — Modern historiographical evaluation
-
-Category definitions are governed by evidentiary purpose, not temporal origin.
-
-────────────────────────────────────────────────────────────
-VI. EVIDENCE QUALITY STANDARDS (EQS)
-────────────────────────────────────────────────────────────
-EQS defines objective quality requirements for all quotations.
-
-This standard governs admissibility through demonstrable criteria.
-
-────────────────────────────────────────────────────────────
-VI.A PASS CRITERIA (Must Meet ≥2)
-────────────────────────────────────────────────────────────
-A quotation PASSES EQS if it demonstrates:
-
-• AUTHORITY: Source credibility clearly established
-• RELEVANCE: Direct connection to MEM claims shown
-• CONTEXT: Historical/cultural context provided
-• LIMITATION: Source constraints or biases acknowledged
-
-────────────────────────────────────────────────────────────
-VI.B FAIL CRITERIA
-────────────────────────────────────────────────────────────
-A quotation FAILS EQS if it exhibits:
-
-• No analytical engagement with source content
-• Pure description without interpretive value
-• Misrepresentation of source intent
-• Failure to acknowledge evidentiary limitations
-
-EQS failure blocks canonical advancement.
-
-────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL CONSTRAINTS
-────────────────────────────────────────────────────────────
-MEMs MUST reflect civilization-specific constraint patterns:
-
-• Hard constraints (structural necessities)
-• Soft constraints (cultural preferences)
-• Failure-first analysis (what breaks the system)
-• Continuity preservation across regime change
-
-────────────────────────────────────────────────────────────
-VIII. MANDATORY 20% VERBATIM QUOTE STANDARD
-────────────────────────────────────────────────────────────
-All MEM files MUST contain at least 20% verbatim quotes by word count.
-
-PURPOSE: Force deeper scholarly engagement and stronger evidentiary grounding.
-
-CALCULATION: Quote words ÷ Total MEM words × 100 ≥ 20
-
-ENFORCEMENT: Automatic validation in canonical advancement process.
-
-────────────────────────────────────────────────────────────
-VIII.A ADAPTIVE QUOTATION REQUIREMENTS
-────────────────────────────────────────────────────────────
-Requirements scale based on subject complexity and source availability:
-
-PRIMARY CATEGORY (Direct Evidence):
-• ≥2 quotations, ≥50 words total (minimum)
-• ≥3 quotations for well-documented subjects
-• N/A for modern subjects with no primary sources
-
-CONTEXTUAL CATEGORY (Contemporary Analysis):
-• ≥1 quotation, ≥25 words (minimum)
-• ≥2 quotations for subjects with rich contemporary sources
-• ≥1 quotation for interpretive or modern subjects
-
-SECONDARY CATEGORY (Scholarly Analysis):
-• ≥2 distinct scholars, ≥1 quotation each (minimum)
-• ≥3 scholars for complex or contested subjects
-• ≥4 scholars for interpretive or theoretical topics
-
-CRITICAL CATEGORY (Historiographical Evaluation):
-• ≥1 quotation addressing methodology or limitations
-• ≥2 quotations for subjects requiring meta-analysis
-• Optional for straightforward factual subjects
-
-────────────────────────────────────────────────────────────
-VIII.B SUBJECT TYPE MATRIX
-────────────────────────────────────────────────────────────
-Apply requirements based on subject characteristics:
-
-WELL-DOCUMENTED EVENT (Target: 20-25% quotes):
-• PRIMARY: ≥4 quotations (rich source base)
-• CONTEXTUAL: ≥3 quotations (multiple contemporary perspectives)
-• SECONDARY: ≥4 scholars (analytical depth needed)
-• CRITICAL: ≥2 quotations (methodological awareness)
-
-SPARSE SOURCES SUBJECT (Target: 18-22% quotes):
-• PRIMARY: ≥3 quotations (limited availability)
-• CONTEXTUAL: ≥2 quotations (when available)
-• SECONDARY: ≥3 scholars (compensate for source limitations)
-• CRITICAL: ≥1 quotation (scholarly context essential)
-
-MODERN SUBJECT (19th-20th century) (Target: 18-22% quotes):
-• PRIMARY: N/A (no primary sources exist)
-• CONTEXTUAL: ≥2 quotations (contemporary accounts)
-• SECONDARY: ≥5 scholars (primary analytical burden - expanded for volume)
-• CRITICAL: ≥3 quotations (modern historiography essential)
-
-INTERPRETIVE/THEORETICAL SUBJECT (Target: 20-25% quotes):
-• PRIMARY: ≥2 quotations (establish factual foundation)
-• CONTEXTUAL: ≥2 quotations (period context)
-• SECONDARY: ≥5 scholars (multiple perspectives needed)
-• CRITICAL: ≥3 quotations (theoretical evaluation required)
-
-────────────────────────────────────────────────────────────
-VIII.C REQUIREMENT DECLARATION
-────────────────────────────────────────────────────────────
-MEM files MUST declare their subject type and applied requirements:
-
-SUBJECT TYPE DECLARATION:
-"This MEM addresses a [WELL-DOCUMENTED/SPARSE SOURCES/MODERN/INTERPRETIVE] subject.
-Applied requirements: PRIMARY ≥X, CONTEXTUAL ≥Y, SECONDARY ≥Z, CRITICAL ≥W"
-
-This declaration enables governance validation and ensures appropriate evidentiary standards.
-
-────────────────────────────────────────────────────────────
-VIII.D ANALYTICAL PROTECTION SAFEGUARDS
-────────────────────────────────────────────────────────────
-To prevent analytical starvation while enforcing 20% quote minimum:
-
-ANALYTICAL CONTENT FLOOR:
-• Minimum 70% of MEM content MUST be original analytical synthesis
-• Quote integration sections count as analytical content
-• Pure quote blocks do not count toward analytical floor
-
-CALCULATION: Analytical words ÷ Total MEM words × 100 ≥ 70
-
-ENFORCEMENT: Automatic validation requires both 20% quotes AND 70% analysis.
-
-────────────────────────────────────────────────────────────
-VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
-────────────────────────────────────────────────────────────
-To ensure quote quality over quantity:
-
-EQS COMPLIANCE REQUIREMENT:
-• All quotes must meet Evidence Quality Standards (EQS) (≥2 criteria)
-• Additional quotes beyond minimum must meet ≥3 EQS criteria
-• Marginal quotes automatically rejected in canonical review
-
-RELEVANCE THRESHOLD:
-• Each quote must materially advance MEM analysis
-• Decorative or volume-padding quotes prohibited
-• Quote selection must demonstrate scholarly judgment
-
-SCHOLARLY DIVERSITY REQUIREMENT:
-• Quotes must represent multiple scholarly perspectives
-• Single-author dominance prohibited
-• Must include both supportive and challenging viewpoints
-
-────────────────────────────────────────────────────────────
-IX. SECONDARY SOURCE ENTANGLEMENT
-────────────────────────────────────────────────────────────
-Secondary quotations MUST be analytically integrated.
-Citation without analytical engagement is INVALID.
-
-────────────────────────────────────────────────────────────
-X. MEM CONNECTION REQUIREMENTS (BINARY · HARD)
-────────────────────────────────────────────────────────────
-Every MEM file MUST include a dedicated MEM CONNECTIONS section.
-
-Connection requirements:
-
-• ≥10 same-civilization MEM connections
-• ≥2 GEO MEM files required
-• Each listed connection MUST be structurally necessary
-
-────────────────────────────────────────────────────────────
-X.A BINARY CONNECTION RULE
-────────────────────────────────────────────────────────────
-MEM Connections are binary.
-
-A connection is either:
-• PRESENT (structurally necessary)
-• ABSENT (not structurally necessary)
-
-No grading, scoring, or weighting of connection strength.
-
-────────────────────────────────────────────────────────────
-X.B CONNECTION JUSTIFICATION (REQUIRED)
-────────────────────────────────────────────────────────────
-Each MEM Connection MUST include a concise justification explaining:
-
-• What dependency exists
-• Why the connected MEM is necessary for intelligibility
-• What breaks if the connection is removed
-
-────────────────────────────────────────────────────────────
-XI. SCHOLAR CONSTRAINTS (MANDATORY)
-────────────────────────────────────────────────────────────
-Every MEM MUST include scholar constraints (RLLs - Recursive Learning Ledgers).
-
-Format: RLL–[NUMBER]: [CONSTRAINT DESCRIPTION]
-
-Constraints MUST be:
-• Binding law in Scholar Phase
-• Testable against evidence
-• Civilization-specific where applicable
-
-────────────────────────────────────────────────────────────
-XII. CITATION & ATTRIBUTION
-────────────────────────────────────────────────────────────
-All sources MUST be:
-• Properly attributed
-• Verifiably accessible
-• Compliant with ARC admissibility rules
-
-────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANCE
-────────────────────────────────────────────────────────────
-• Version pinning to specific template/ARC versions
-• Clear upgrade trails
-• Governance violation reporting mechanisms
-
-────────────────────────────────────────────────────────────
-XIV. ARC VERSION PINNING
-────────────────────────────────────────────────────────────
-Each MEM MUST declare ARC–[CIV] version used.
-Mismatch blocks canonical lock.
-
-────────────────────────────────────────────────────────────
-XV. COMPLIANCE TIERS
-────────────────────────────────────────────────────────────
-DRAFT → PARTIAL → COMPLIANT → CANONICAL
-
-CANONICAL: Requires ≥20% quotes with 70% analytical content and EQS compliance
-
-────────────────────────────────────────────────────────────
-XVI. FAILURE MODE ENFORCEMENT
-────────────────────────────────────────────────────────────
-Silent failure is prohibited.
-All failures must be declared with reason.
-
-────────────────────────────────────────────────────────────
-XVII. LANGUAGE CONSTRAINTS
-────────────────────────────────────────────────────────────
-Forbidden:
-• inevitable
-• destined
-• obvious
-• had to
-
-────────────────────────────────────────────────────────────
-XVIII. STORAGE & MIRRORING RULE
-────────────────────────────────────────────────────────────
-This file MUST be mirrored verbatim into:
-–CIV–CORE–[CIV] (all civilizations)
-–CIV–SCHOLAR–[CIV] (all civilizations)
-–CIV–INDEX–[CIV] (when applicable)
-
-Any divergence invalidates MEM compliance for that civilization.
-
-────────────────────────────────────────────────────────────
-XIX. VERSIONING & LOCK
-────────────────────────────────────────────────────────────
-• Additive upgrades only
-• Deletions forbidden
-• Canonical lock absolute
-
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.5
+XVII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
+• CIV–SCHOLAR–TEMPLATE v2.2
+• CIV–SCHOLAR–PROTOCOL v2.1
+• CIV–MEM–TEMPLATE v2.7
 
-[ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
+Embedded legacy mirrors are quarantined.
+For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v2.2
+END OF FILE — CIV–SCHOLAR–RUSSIA v2.2.1
 ────────────────────────────────────────────────────────────
