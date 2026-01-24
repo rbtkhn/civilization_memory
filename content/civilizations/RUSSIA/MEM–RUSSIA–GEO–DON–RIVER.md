@@ -1,261 +1,281 @@
-MEM–RUSSIA–GEO–DON–RIVER — v2.7
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Governed by: CIV–MEM–TEMPLATE v2.7
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
+MEM–RUSSIA–GEO–DON–RIVER — v2.8
+Civilizational Memory Codex · Geographic Memory File
+ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.8
+Supersedes: v2.7
+Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
 Civilization: RUSSIA (Русская цивилизация)
-Subject: Don River (Steppe–Interior Artery)
-Dates: Antiquity–present (Rus’-facing civilizational arc emphasized post-AD 800)
-Class: MEM (Civilizational Memory)
-ARC Version Pinned: CIV–ARC–RUSSIA v1.5
+Subject: Don River (Strategic–Geographic Corridor)
+Dates: Permanent terrain logic (applies across all periods)
+Class: GEO–MEM (Geographic Memory)
+Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
 Last Update: January 2026
-Word Count: ~3,400
+Word Count: ~2,200
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
-This MEM addresses an INTERPRETIVE subject.
-Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.2 → v2.7)
-────────────────────────────────────────────────────────────
-This upgrade brings the Don River file into **full compliance** with:
-
+Governed by:
+• CIV–MEM–CORE v2.1+
 • CIV–MEM–TEMPLATE v2.7
-• CIV–ARC–RUSSIA v1.5 (Categories A–D)
-• Scholar corridor-semantics normalization (January 2026 event)
-
-Actions performed:
-• No existing interpretive content removed
-• No contradictions resolved
-• ARC Category A–D quotation blocks added
-• Evidentiary hierarchy enforced (A → D)
-• Corridor language normalized (access, circulation, exposure, control)
-
-This upgrade is evidentiary and structural.
-It introduces **no new doctrine**.
+• CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────
-I. MEMORY PURPOSE & SCOPE
+GEO–MEM COGNITIVE DECLARATION
 ────────────────────────────────────────────────────────────
-This file preserves the Don River as a **steppe–interior civilizational
-artery** connecting Russia’s forest–steppe interior to the Sea of Azov
-and, conditionally, the Black Sea system.
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-The Don is remembered not as a symbolic heartland river, but as a
-**movement corridor**: a channel for trade, migration, warfare, and
-frontier society that repeatedly exposes the interior to external
-pressure while enabling southward projection.
+GEO–MEMs preserve geography as permanent structural constraint.
+They answer: "What does this terrain DO to actors within it?"
 
-The Don represents **circulation with exposure**.
+GEO–MEMs do NOT contain:
+• Historical narrative (see subject MEM)
+• Named rulers or dated events
+• Civilizational meaning or legitimacy claims
+• Polyphonic tension (GEO is pure Mearsheimer)
 
-Contradictions are preserved without synthesis.
-
-────────────────────────────────────────────────────────────
-II. GEOGRAPHIC COURSE & STRUCTURAL CHARACTER
-────────────────────────────────────────────────────────────
-The Don rises in central Russia and flows southward into the Sea of Azov.
-
-Key structural features:
-• Long navigable stretches
-• Gentle gradients favoring transport
-• Immediate adjacency to open steppe
-• Portage proximity to the Volga system
-
-Structural axiom:
-→ Rivers that open directly onto the steppe import risk as efficiently
-as they export power.
-
-The Don enables internal circulation but lacks insulating depth.
+For civilizational analysis, see: MEM–RUSSIA–DON–RIVER
 
 ────────────────────────────────────────────────────────────
-III. FRONTIER FUNCTION & COSSACK ZONE
+I. STRATEGIC PURPOSE
 ────────────────────────────────────────────────────────────
-Historically, the Don basin hosts frontier societies rather than
-consolidated cores.
+This file preserves the Don River as a **steppe–interior
+movement corridor**: a river that connects the Russian heartland
+to the Sea of Azov while traversing open steppe, creating both
+projection capability and invasion vulnerability.
 
-Enduring characteristics:
-• Semi-autonomous Cossack communities
+The fact is that the Don is not a protected artery. It is an
+**exposure corridor** that transmits power in both directions—
+enabling southern projection while channeling threats inward.
+
+States that control the Don project southward.
+States that lose the Don face steppe invasion.
+
+────────────────────────────────────────────────────────────
+II. RIVER GEOMETRY
+────────────────────────────────────────────────────────────
+The Don's strategic character derives from its course through
+open steppe.
+
+Physical structure:
+• ~1,870 km length
+• Rises in Central Russian Upland
+• Flows south through open steppe
+• Terminates in Sea of Azov
+• Portage proximity to Volga (~70 km at narrowest)
+
+Strategic implications:
+• Steppe-adjacent: no terrain protection
+• Exposed: flat terrain enables rapid movement
+• Maritime terminus: connects to Azov/Black Sea
+• Volga-linked: canal connects two systems
+
+The river geometry means that the Don provides **projection
+with exposure**. Control of the Don extends reach but imports
+risk.
+
+────────────────────────────────────────────────────────────
+III. STEPPE EXPOSURE DYNAMICS
+────────────────────────────────────────────────────────────
+The Don traverses open steppe without natural barriers.
+
+Exposure effects:
+• No terrain obstacles to lateral movement
+• Steppe forces can approach from any direction
+• River serves as route, not barrier
+• Movement corridor operates bidirectionally
+
+Strategic implications:
+• Invaders can use Don corridor to penetrate interior
+• Defenders must control both river AND flanking steppe
+• Speed favors the attacker
+• Static defense on Don alone is insufficient
+
+The Don does not protect.
+It **transmits**.
+
+────────────────────────────────────────────────────────────
+IV. SOUTHERN PROJECTION CAPABILITY
+────────────────────────────────────────────────────────────
+The Don enables projection toward Azov and Black Sea.
+
+Projection logic:
+• River corridor supports troop movement southward
+• Supply lines extend along river
+• Maritime terminus enables naval operations
+• Access to Black Sea system via Kerch
+
+Strategic implications:
+• Control of Don = southern projection capability
+• Azov access depends on Don corridor
+• Southern operations require secured river
+• Logistics flow north–south along axis
+
+The state that controls the Don can project toward the Black Sea.
+Loss of Don control severs southern reach.
+
+────────────────────────────────────────────────────────────
+V. VOLGA–DON CONNECTION
+────────────────────────────────────────────────────────────
+The Don approaches the Volga at a natural portage point.
+
+Connection logic:
+• ~70 km portage between rivers at narrowest
+• Volga–Don Canal (completed 1952) enables direct transit
+• Links interior (Caspian) to maritime (Azov/Black Sea)
+• Creates integrated waterway system
+
+Strategic implications:
+• Canal connects two enclosed basins to maritime system
+• Interior commerce gains maritime outlet
+• Industrial capacity linked to southern ports
+• Strategic redundancy in waterway network
+
+The Volga–Don connection converts isolated rivers into
+**integrated strategic system**.
+
+────────────────────────────────────────────────────────────
+VI. AZOV DEPENDENCY
+────────────────────────────────────────────────────────────
+The Don's value depends on Azov Sea control.
+
+Dependency logic:
+• Don terminates in Azov
+• Azov control determines Don utility
+• Kerch Strait controls Black Sea access
+• Maritime terminus conditions upstream value
+
+Strategic implications:
+• Loss of Azov negates Don projection value
+• Azov blockade severs Don–Black Sea connection
+• Don control alone is insufficient
+• Must control entire chain: Don → Azov → Kerch
+
+The Don is not an independent system.
+It is **contingent on Azov control**.
+
+────────────────────────────────────────────────────────────
+VII. FRONTIER ZONE CHARACTER
+────────────────────────────────────────────────────────────
+The Don basin has functioned as a frontier zone.
+
+Frontier logic:
+• Semi-autonomous forces historically controlled basin
+• Steppe exposure requires constant defense
 • Military–agrarian settlement patterns
-• Dual orientation toward state service and independent raiding
+• Buffer between steppe and interior
 
-Cossack functions include:
-• Border defense
-• Forward scouting
-• Irregular warfare and counter-raiding
+Strategic implications:
+• Frontier zones require continuous security investment
+• Control must be renewed constantly
+• Autonomous forces can stabilize or destabilize
+• Frontier function persists regardless of administration
 
-The Don becomes a **managed frontier corridor**, not a fully interiorized
-space.
-
-────────────────────────────────────────────────────────────
-IV. MILITARY & LOGISTICAL ROLE
-────────────────────────────────────────────────────────────
-The Don supports:
-• Rapid troop movement
-• Supply transport
-• Access to southern operational theaters
-
-Simultaneously, it:
-• Channels invasion routes inward
-• Requires persistent security investment
-• Amplifies failure when downstream access is lost
-
-Control of the Don is inseparable from southern defense.
+The Don creates a **permanent frontier condition** that
+demands continuous attention.
 
 ────────────────────────────────────────────────────────────
-V. INTEGRATION INTO IMPERIAL SYSTEM
+VIII. POWER DISTRIBUTION IMPLICATIONS
 ────────────────────────────────────────────────────────────
-Imperial consolidation transforms the Don from semi-autonomous frontier
-into regulated artery.
+In the international system, geography constrains state behavior.
+The Don constrains southern Russian operations.
 
-Processes include:
-• Fortification and administrative layering
-• Curtailment of Cossack autonomy
-• Integration into state logistics and mobilization systems
+For Russia:
+• Don provides southern projection corridor
+• Steppe exposure creates permanent vulnerability
+• Azov control conditions Don utility
+• Must secure both river AND flanking steppe
 
-The river is domesticated **without eliminating exposure**.
+For steppe actors:
+• Don corridor enables penetration of Russian interior
+• River serves as invasion route
+• Rapid movement possible through steppe
+• Don does not block; it channels
 
-────────────────────────────────────────────────────────────
-VI. RIVER–SEA STRATEGIC CHAIN
-────────────────────────────────────────────────────────────
-The Don participates in a chained corridor system:
+For Black Sea dynamics:
+• Don access links interior to maritime system
+• Rostov controls Don terminus
+• River corridor supports naval logistics
+• Loss of Don degrades southern posture
 
-Don → Sea of Azov → Black Sea
-
-Implications:
-• Disruption at Azov destabilizes Don utility
-• Maritime control conditions upstream security
-• Exposure propagates inward along the chain
-
-Southern defense therefore begins **upstream**, not at the coast alone.
-
-────────────────────────────────────────────────────────────
-VII. FAILURE MODES & STRESS CONDITIONS
-────────────────────────────────────────────────────────────
-Under sustained pressure, the Don corridor exhibits predictable failure
-patterns:
-
-• Steppe incursions transmit rapidly inland
-• Frontier autonomy becomes instability vector
-• Logistical arteries double as invasion channels
-• State control must be continuously renewed
-
-The Don amplifies both power and vulnerability.
+The structural reality is that the Don creates **bidirectional
+strategic exposure**.
 
 ────────────────────────────────────────────────────────────
-VIII. CATEGORY A — ANCIENT SOURCES (STRUCTURAL PRECURSORS)
+IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
-Ancient testimony establishes the Don region as a **corridor of movement
-and contest**, not a stable interior.
+Geography does not change. Political control changes.
+The Don's strategic logic remains constant across all regimes.
 
-**Strabo — *Geographica*, Book XI**:
+Permanent patterns:
+• Steppe-adjacent rivers transmit power bidirectionally
+• Exposure cannot be eliminated, only managed
+• Maritime terminus conditions upstream value
+• Frontier zones require continuous investment
 
-> “The regions about the Tanais are held by many tribes, ever shifting
-> their abodes, since the plains offer no natural defense and the rivers
-> serve rather as paths of passage than as boundaries of rule; thus no
-> power long secures what it holds there.”
-> — Strabo, *Geographica* XI (trans. Jones)
+This applied to:
+• Scythians, Khazars, Mongols, Cossacks, Russians
 
-**Ptolemy — *Geographia*, Book V**:
-
-> “The river Tanais divides Europe and Asia, yet in truth it divides
-> neither, for peoples cross it freely, and its banks are less a border
-> than a meeting place of nations differing in custom and allegiance.”
-> — Ptolemy, *Geographia* V (trans. Stevenson)
-
-Ancient sources frame the Don as **circulation without enclosure**.
+The terrain is permanent. The advantage goes to whoever
+controls the entire chain from interior to maritime terminus.
 
 ────────────────────────────────────────────────────────────
-IX. CATEGORY B — MEDIEVAL SOURCES (POST-AD 800 FORMATION)
+X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-**Primary Chronicle (*Povest’ vremennykh let*)**  
-*Relevance justification:* Steppe frontier and southern river exposure.
+• Steppe-adjacent rivers transmit power in both directions.
+• Exposure corridors enable projection but import risk.
+• Southern projection requires secured river AND flanking steppe.
+• Azov control conditions Don utility.
+• Volga–Don connection creates integrated waterway system.
+• Frontier zones demand continuous security investment.
+• Geography creates bidirectional strategic exposure.
 
-> “Beyond the forest lands lie the steppe, and along the rivers that flow
-> toward the southern seas come both traders and enemies alike; for these
-> rivers do not guard the land, but lead into it.”
-> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
-
-**Hypatian Chronicle**  
-*Relevance justification:* Southern vulnerability and frontier logic.
-
-> “The Polovtsians came swiftly along the rivers, for there was nothing
-> to hinder them, and the towns stood open where the waters ran toward
-> the steppe.”
-> — *Hypatian Chronicle* (trans. Hazzard Cross)
-
-Medieval testimony reinforces **river-borne exposure**.
+These insights apply regardless of regime, ideology, or era.
+Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-X. CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+XI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-**Vasily Klyuchevsky — *Course of Russian History***:
+Related GEO–MEMs:
+• MEM–RUSSIA–GEO–AZOV–SEA — maritime terminus
+• MEM–RUSSIA–GEO–BLACK–SEA — ultimate destination
+• MEM–RUSSIA–GEO–VOLGA–RIVER — via Volga–Don Canal
+• MEM–RUSSIA–GEO–STEPPE — exposure environment
+• MEM–RUSSIA–GEO–CRIMEA — Kerch control point
+• MEM–RUSSIA–GEO–CAUCASUS — southern flank
 
-> “The southern rivers gave Russia movement before they gave her safety;
-> they carried trade, tribute, and war alike, and long before the state
-> learned to close them, it learned to suffer through them.”
+Subject MEM (Mercouris cognition):
+• MEM–RUSSIA–DON–RIVER — civilizational narrative, Cossacks
 
-**Sergei Solovyov — *History of Russia from the Earliest Times***:
-
-> “The Don was never a calm possession; it was a road, and roads in the
-> steppe are never neutral, for they serve the strong and betray the
-> unprepared.”
-
-Early modern historians identify the Don as **artery before bastion**.
-
-────────────────────────────────────────────────────────────
-XI. CATEGORY D — MODERN SCHOLARSHIP
-────────────────────────────────────────────────────────────
-**John Erickson**:
-
-> “The southern river approaches, particularly those linked to the Don,
-> have always functioned as channels of movement rather than lines of
-> defense; in war they accelerate operations in both directions and thus
-> magnify the consequences of success or failure.”
-> — Erickson, *The Road to Stalingrad*
-
-**Dominic Lieven**:
-
-> “Russian power along the Don depended less on ownership than on the
-> continuous management of exposure, for the river connected the state
-> directly to the open steppe and beyond.”
-> — Lieven, *Empire*
-
-Modern scholarship confirms continuity of exposure logic.
+Cross-civilizational GEO:
+• MEM–UKRAINE–GEO–STEPPE — shared exposure zone
 
 ────────────────────────────────────────────────────────────
-XII. CONTINUITY INSIGHTS (RAW)
+XII. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-• Rivers extend state reach but import risk.
-• Steppe-adjacent corridors magnify shock transmission.
-• Frontier societies stabilize and destabilize simultaneously.
-• Don security is contingent on Azov control.
-• Southern defense begins upstream, not at the coastline.
-
-Tension preserved without verdict.
-
-────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (v2.7)
-────────────────────────────────────────────────────────────
-SOURCES CITED:
-• Strabo, *Geographica*, Book XI (trans. H.L. Jones, Loeb Classical Library)
-• Ptolemy, *Geographia*, Book V (trans. E.L. Stevenson)
-• *Primary Chronicle* (*Povest' vremennykh let*), trans. S.H. Cross & O.P. Sherbowitz-Wetzor
-• *Hypatian Chronicle*, trans. G. Hazzard Cross
-• Klyuchevsky, Vasily. *A Course in Russian History* (5 vols.)
-• Solovyov, Sergei. *History of Russia from the Earliest Times*
-• Erickson, John. *The Road to Stalingrad* (1975)
-• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
-
-ADDITIONAL SCHOLARLY SOURCES:
-• Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949)
-• McNeill, William H. *Europe's Steppe Frontier, 1500–1800* (1964)
-• Hellie, Richard. *Enserfment and Military Change in Muscovy* (1971)
+• Mearsheimer, John J. *The Tragedy of Great Power Politics*.
+  New York: Norton, 2001.
+• Mackinder, Halford J. "The Geographical Pivot of History."
+  *The Geographical Journal* 23, no. 4 (1904): 421–437.
+• Kaplan, Robert D. *The Revenge of Geography*. New York:
+  Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DON–RIVER v2.7
+XIII. GEO–MEM INGEST BOOTSTRAP
+────────────────────────────────────────────────────────────
+GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–DON–RIVER
+Status: ACTIVE
+Cognitive Layer: MEARSHEIMER STRATEGIC
+
+Exploration options (strategic analysis only):
+A) Steppe exposure dynamics
+B) Southern projection capability
+C) Volga–Don connection and integrated system
+D) Azov dependency logic
+E) Frontier zone character
+F) Power distribution implications
+G) Compare with other steppe rivers (Dnieper, Ural)
+
+For civilizational analysis, invoke: MEM–RUSSIA–DON–RIVER
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–DON–RIVER v2.8
 ────────────────────────────────────────────────────────────
