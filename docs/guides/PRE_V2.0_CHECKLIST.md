@@ -71,13 +71,13 @@ This document outlines all changes that should be made before upgrading CIV–ME
 ## 3. MERCOURIS PROFILE INTEGRATION REFERENCES
 
 ### 3.1 Separate File Status
-**Current State:** MIND–PROFILE–MERCOURIS.md still exists but is no longer loaded
-**Action Required:**
-- Option A: Archive the file (move to ARCHIVE/ or mark as superseded)
-- Option B: Add deprecation notice at top of file
-- Option C: Delete the file (if fully integrated)
+**Current State:** ✅ RESOLVED
+- MIND–PROFILE–MERCOURIS renamed to MIND–MERCOURIS v2.1
+- MIND–PROFILE–MEARSHEIMER renamed to MIND–MEARSHEIMER v2.1
+- CIV–MIND–TEMPLATE v1.0 created as governance foundation
+- Old MIND–PROFILE–* files deleted
 
-**Recommendation:** Add deprecation notice and archive
+**Resolution:** Naming standardized to match CIV– template convention
 
 ---
 

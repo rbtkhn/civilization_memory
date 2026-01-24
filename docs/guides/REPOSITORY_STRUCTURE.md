@@ -50,9 +50,11 @@ The `content/` directory contains:
 - `CIV–DOCTRINE–TEMPLATE.md` - Template for doctrine files
 - `CIV–INDEX–TEMPLATE.md` - Template for index files
 - `CIV–MEM–TEMPLATE.md` - Template for memory (MEM) files
+- `CIV–MIND–TEMPLATE.md` - Template for mind profiles
 - `CIV–SCHOLAR–PROTOCOL.md` - Scholar protocol governance
 - `CIV–SCHOLAR–TEMPLATE.md` - Template for Scholar files
-- `MIND–PROFILE–MERCOURIS.md` - Mind profile file
+- `MIND–MERCOURIS.md` - Primary mind profile
+- `MIND–MEARSHEIMER.md` - Advisory mind profile
 
 ---
 
