@@ -1,22 +1,22 @@
-CIV–SCHOLAR–RUSSIA — v2.0
+CIV–SCHOLAR–RUSSIA — v2.2
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.0
-Supersedes: CIV–SCHOLAR–RUSSIA v1.x
-Upgrade Type: PHASE TRANSITION — Learning Accumulation → Constraint Grammar
+Version: 2.2
+Supersedes: CIV–SCHOLAR–RUSSIA v2.0
+Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE
 Last Update: January 2026
-Word Count: ~8,300
+Word Count: ~9,000
 
 Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.7 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v2.2 (CURRENT)
 • ARC–RUSSIA (Pinned)
 • RLL–RUSSIA Registry (Authoritative)
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0
 • NAMESPACE–CLARIFICATION v1.0
 
 Activation Trigger:
@@ -32,7 +32,7 @@ Lock Semantics:
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.0 is the **constraint grammar layer** governing all
+CIV–SCHOLAR–RUSSIA v2.2 is the **constraint grammar layer** governing all
 Russian civilizational interpretation across MEM, CORE, DOCTRINE, GAME,
 and SIMULATION contexts.
 
@@ -200,25 +200,123 @@ Simulation engines must:
 No simulation may override Scholar constraints.
 
 ────────────────────────────────────────────────────────────
-XI. VERSIONING & FUTURE UPGRADES
+XI. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
 ────────────────────────────────────────────────────────────
-v2.0 is considered **structurally complete**.
+When SCHOLAR–RUSSIA constraints appear to conflict with MEM facts:
+
+AUTHORITY HIERARCHY (ABSOLUTE):
+• MEM facts are AUTHORITATIVE
+• SCHOLAR constraints are INTERPRETIVE
+• MEM evidence may NOT be overridden by SCHOLAR patterns
+
+ANOMALY FLAG PROTOCOL:
+When a MEM assertion contradicts an established SCHOLAR pattern:
+
+1. SCHOLAR MUST flag the anomaly explicitly
+2. SCHOLAR may NOT silently ignore the MEM
+3. SCHOLAR may NOT modify the MEM to fit the pattern
+4. SCHOLAR MUST record the tension as an SCL entry
+
+RESOLUTION OPTIONS:
+• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
+• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
+• SCL_CREATED: Contradiction preserved, no resolution required
+
+MEM facts remain authoritative. SCHOLAR adapts.
+
+────────────────────────────────────────────────────────────
+XII. COMMUNICATION REGISTER (NEW · v2.2)
+────────────────────────────────────────────────────────────
+SCHOLAR–RUSSIA LEARN mode operates with the Mercouris voice register.
+
+Governed by: COMMUNICATION–REGISTER–PROTOCOL v1.0
+
+LEARN MODE CHARACTER:
+• Prose Quality: History monograph, engaged intellectual discourse
+• Voice: Full Mercouris (recursive layering, structural reveals)
+• Tone: Exploratory but serious, creative but disciplined
+• Finality: Provisional—insights emerge, subject to revision
+
+LEARN MODE IS NOT PROCEDURAL LOGGING.
+It is intellectual creative work—a historian in the archive,
+working through evidence, discovering patterns.
+
+────────────────────────────────────────────────────────────
+XIII. EPHEMERAL OBSERVATION LAYER (NEW · v2.2)
+────────────────────────────────────────────────────────────
+SCHOLAR–RUSSIA operates in two layers:
+
+CANONICAL LAYER:
+• MEM-sourced learning
+• Standard LER creation
+• Pattern and RLL binding permitted
+• Persistent SCHOLAR state changes
+
+EPHEMERAL LAYER:
+• CEO-sourced (current events) learning
+• EOR creation (not LER)
+• No binding permitted
+• Provisional observations only
+
+Governed by: EPHEMERAL–OBSERVATION–PROTOCOL v1.0
+
+LAYER INDICATOR:
+• [LEARN: CANONICAL] — historical sources
+• [LEARN: EPHEMERAL] — current events
+
+Ephemeral observations may reference canonical Russian patterns
+but may NOT modify canonical SCHOLAR–RUSSIA state.
+
+────────────────────────────────────────────────────────────
+XIV. OGE IN LEARN MODE (NEW · v2.2)
+────────────────────────────────────────────────────────────
+LEARN mode uses OGE (Option Generation Engine) to direct discovery.
+
+The user acts as research director, guiding investigation.
+
+LEARN OGE CATEGORIES:
+
+1. INGESTION OPTIONS — What Russian sources to bring in
+2. EXPLORATION OPTIONS — What to investigate in Russian history
+3. ANALYSIS OPTIONS — How to analyze Russian patterns
+4. SYNTHESIS OPTIONS — What to formalize as constraints
+5. TRANSITION OPTIONS — Mode changes
+6. OBSERVATION OPTIONS — Current Russian events (ephemeral layer)
+
+LEARN OGE answers: "What would you like me to investigate next?"
+
+────────────────────────────────────────────────────────────
+XV. VERSIONING & FUTURE UPGRADES
+────────────────────────────────────────────────────────────
+v2.2 ADDITIONS:
+• Scholar ↔ MEM Conflict Handling (Anomaly Flag Protocol)
+• Communication Register (Mercouris voice integration)
+• Ephemeral Observation Layer (CEO support)
+• OGE systematization for LEARN mode
+
+v2.0 PRESERVED:
+• Constraint Grammar Phase transition
+• All bound RLLs (RLL-0001 through RLL-0012)
+• Negative Capability Zone
+• Failure-first interpretive standard
 
 v2.x may occur ONLY if:
 • ≥2 new bound RLLs emerge that alter constraint topology
 • Or an existing RLL is falsified by cross-MEM evidence
+• Or template compliance requires additive upgrade
 
 v3.0 is prohibited unless CIV–MEM–CORE undergoes major revision.
 
 ────────────────────────────────────────────────────────────
 XII. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.0 is hereby declared:
+CIV–SCHOLAR–RUSSIA v2.2 is hereby declared:
 
 • CANONICAL
 • LOCKED
 • CONSTRAINT-ENFORCING
 • NON-SYNTHESIZING
+• TEMPLATE v2.2 COMPLIANT
 
 All future Russian civilizational analysis must conform to this grammar.
 
@@ -227,16 +325,19 @@ XIII. TEMPLATE REFERENCE (CANONICAL POINTER)
 ────────────────────────────────────────────────────────────
 MIRROR DEPRECATION NOTICE (January 2026):
 Embedded template mirrors are deprecated due to drift risk.
-This section now points to the canonical template.
+This section now points to the canonical templates.
 
-CANONICAL REFERENCE:
+CANONICAL REFERENCES:
+• CIV–SCHOLAR–TEMPLATE v2.2 (CURRENT)
+• Location: docs/templates/CIV–SCHOLAR–TEMPLATE.md
+• Key additions since v2.0: Communication Register, Ephemeral Layer,
+  OGE systematization, Anomaly Flag Protocol
+
 • CIV–MEM–TEMPLATE v2.7 (CURRENT)
 • Location: docs/templates/CIV–MEM–TEMPLATE.md
-• Key additions since v2.5: ERC namespace, Quote-Analysis math,
-  CEO Promotion Provenance
 
-The embedded v2.5 content below is HISTORICAL REFERENCE ONLY.
-For governance, always consult the canonical template.
+The embedded content below is HISTORICAL REFERENCE ONLY.
+For governance, always consult the canonical templates.
 
 ────────────────────────────────────────────────────────────
 [LEGACY MIRROR - CIV–MEM–TEMPLATE v2.5 - SUPERSEDED BY v2.7]
@@ -563,7 +664,7 @@ All sources MUST be:
 • Compliant with ARC admissibility rules
 
 ────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANAD
+XIII. VERSION CONTROL & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • Version pinning to specific template/ARC versions
 • Clear upgrade trails
@@ -621,5 +722,5 @@ END OF FILE — CIV–MEM–TEMPLATE v2.5
 [ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v2.0
+END OF FILE — CIV–SCHOLAR–RUSSIA v2.2
 ────────────────────────────────────────────────────────────
