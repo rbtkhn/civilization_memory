@@ -1,10 +1,10 @@
-MEM–RUSSIA–CATHERINE–GREAT — v2.7
+MEM–RUSSIA–CATHERINE–GREAT — v2.8
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Supersedes: v1.3
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.3 → v2.0)
+Version: 2.8
+Supersedes: v2.7
+Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS (OPERATIONAL QUARTET)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
 Subject: Catherine the Great (Екатерина II)
@@ -21,6 +21,25 @@ Governed by:
 SUBJECT TYPE DECLARATION (v2.7):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8)
+────────────────────────────────────────────────────────────
+This upgrade adds structural emergence analysis of Catherine's
+operational quartet (Catherine–Panin–Potemkin–Suvorov).
+
+CHANGES IMPLEMENTED:
+• Added Section V-A: THE OPERATIONAL QUARTET
+• Deficiency-compensation unity analysis
+• Faction competition as loyalty mechanism
+• Partnership paradox (Potemkin model)
+• Arbiter's temporal solution (mortality as commitment resolution)
+• Enhanced continuity insights with quartet patterns
+• Cross-references to upgraded MEM–RUSSIA–SUVOROV and MEM–RUSSIA–PANIN
+
+No analytical deletions.
+No synthesis introduced.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -191,6 +210,58 @@ long exposed to instability.
 Expansion compensates for internal rigidity.
 
 ────────────────────────────────────────────────────────────
+V-A. THE OPERATIONAL QUARTET (STRUCTURAL EMERGENCE)
+────────────────────────────────────────────────────────────
+Catherine governed through a **distributed execution structure**
+compensating for triple deficiency: usurper (seized power from husband),
+woman (in military-aristocratic culture), foreigner (German-born).
+
+THE QUARTET STRUCTURE:
+
+| Figure | Function | Strategic Vision |
+|--------|----------|------------------|
+| Catherine | Arbiter, legitimacy source | Decision authority |
+| Panin | Northern strategic architect | System-diplomacy, balance |
+| Potemkin | Southern strategic architect | Territorial expansion |
+| Suvorov | Operational executor | Battlefield victory delivery |
+
+DEFICIENCY-COMPENSATION UNITY:
+The same mechanism solved BOTH legitimacy AND execution problems.
+Panin and Potemkin provided political cover (legitimacy support from
+powerful nobles) AND operational capability (strategy, administration,
+execution). This efficiency created concentrated risk: when nodes failed
+(Panin 1783, Potemkin 1791), Catherine lost both simultaneously.
+
+COMPETITION AS LOYALTY MECHANISM:
+The Panin–Potemkin rivalry wasn't a problem—it was a **loyalty-generating
+mechanism**. Both factions remained loyal because each hoped to win
+Catherine to their side. If she committed fully to either, the losing
+faction would have incentive to defect. The competition kept both in
+the game.
+
+THE ARBITER'S TEMPORAL SOLUTION:
+Catherine resolved the commitment dilemma through **mortality, not
+decision**. She didn't choose Potemkin over Panin—she waited until
+Panin died (1783), then committed to the southern project. The Crimean
+annexation occurred the same year as Panin's death. This was structural,
+not coincidental.
+
+THE PARTNERSHIP PARADOX:
+Potemkin was unique—a **governing partner**, not a servant. Catherine
+delegated the entire southern project with autonomous authority. This
+solved her execution problem: she couldn't be everywhere, so she created
+a trusted agent who COULD act in her name.
+
+But the partnership couldn't be institutionalized. Potemkin's role
+depended on PERSONAL TRUST accumulated over decades. When he died (1791),
+no one could replace him—not because no one was capable, but because
+no one had the accumulated trust relationship.
+
+Catherine's final years (1791–1796) lacked strategic drive because the
+partnership couldn't be transferred. She had subordinates but no new
+partner. The machine had lost its execution layer.
+
+────────────────────────────────────────────────────────────
 VI. NOBILITY COMPACT & SERFDOM ENTRENCHMENT
 (MASSIE FUNCTION)
 ────────────────────────────────────────────────────────────
@@ -272,6 +343,11 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Territorial expansion stabilizes elite politics while freezing social reform.
 • Administrative normalization converts reform into endurance.
 • Catherine completes the imperial system Peter initiated.
+• Same mechanism can solve multiple deficiencies; this creates concentrated failure risk.
+• Factional competition can generate loyalty if the ruler positions as arbiter.
+• Partnership models solve agency problems but cannot be institutionally reproduced.
+• Arbiters resolve commitment dilemmas through mortality, not decision.
+• Post-partner phases (1791–1796) lack strategic drive—the machine loses its executor.
 
 ────────────────────────────────────────────────────────────
 X. ACADEMIC REFERENCES (ENGAGED · LMM-COMPLIANT)
