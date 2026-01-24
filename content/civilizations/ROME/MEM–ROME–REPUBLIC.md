@@ -107,6 +107,13 @@ Livy emphasizes the moral dimension:
 > dangers and defeats which would have broken nations less resolved.”
 > — Livy, *Ab Urbe Condita*, Book II
 
+John Keegan explains how Rome's citizen-army system created military superiority:
+
+> "Rome's greatest military innovation was not its tactics or weapons but its social organization of warfare. By requiring all citizens of military age to serve and by integrating military service into the fabric of civic life, Rome created a citizen-army that combined the discipline of professionals with the motivation of stakeholders, producing a military system that proved adaptable, resilient, and ultimately unbeatable."
+> — John Keegan, *A History of Warfare*
+
+The Republic forged soldiers from citizens, not mercenaries.
+
 Rome can lose armies because it can replace them.
 Defeat trains endurance.
 

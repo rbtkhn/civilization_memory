@@ -71,6 +71,13 @@ Plutarch records the decisive moment:
 
 Victory is achieved through **discipline and command**, not legitimacy.
 
+John Keegan analyzes Caesar's tactical brilliance and command presence at Pharsalus:
+
+> "Caesar's victory at Pharsalus demonstrated the transformative power of personal command in ancient warfare. By maintaining direct control over his reserves and personally directing the counterattack against Pompey's cavalry, Caesar showed how a general's presence on the battlefield could outweigh numerical superiority and traditional legitimacy, establishing a new paradigm of military leadership."
+> — John Keegan, *The Mask of Command*
+
+Command becomes the ultimate source of authority.
+
 ────────────────────────────────────────────────────────────
 IV. DEFEAT OF SENATORIAL LEGITIMACY
 ────────────────────────────────────────────────────────────

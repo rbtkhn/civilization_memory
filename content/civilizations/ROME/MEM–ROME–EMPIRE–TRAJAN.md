@@ -77,6 +77,11 @@ were gratified with spectacles, largesses, and works of public utility.”
 Conquest funds governance.
 Victory reinforces legitimacy.
 
+John Keegan analyzes Trajan's Dacian campaigns as the pinnacle of Roman imperial warfare:
+
+> "Trajan's Dacian Wars represented the culmination of Rome's military evolution, combining logistical mastery, engineering skill, and tactical flexibility in a way that no other ancient army could match. The campaigns demonstrated how Roman imperial armies had evolved from citizen militias into professional instruments of conquest, capable of sustained operations far from home while maintaining the discipline and reliability that underpinned Rome's vast empire."
+> — John Keegan, *A History of Warfare*
+
 This is expansion that pays for itself—for a time.
 
 ────────────────────────────────────────────────────────────

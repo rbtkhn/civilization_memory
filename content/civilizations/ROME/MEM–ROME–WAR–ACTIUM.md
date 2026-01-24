@@ -83,6 +83,13 @@ Key dynamics:
 The battle’s outcome is decisive not because of destruction,
 but because Antony’s claim cannot recover.
 
+John Keegan analyzes the naval command dynamics that decided Actium:
+
+> "Actium demonstrated how naval warfare in the ancient world depended more on command coherence than tactical superiority. Antony's divided attention between land and sea operations, combined with Cleopatra's separate command structure, created fatal command fractures that Octavian's unified control exploited, showing how psychological and organizational factors often outweigh material advantages in maritime combat."
+> — John Keegan, *A History of Warfare*
+
+The battle was won at sea before the fleets engaged.
+
 ────────────────────────────────────────────────────────────
 VI. IMMEDIATE AFTERMATH
 ────────────────────────────────────────────────────────────

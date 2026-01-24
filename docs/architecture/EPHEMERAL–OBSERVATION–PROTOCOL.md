@@ -476,10 +476,183 @@ D. Return to purely historical presentation
 E. Note the provisional nature of these observations
 
 ────────────────────────────────────────────────────────────
-IX. IMPLEMENTATION GUIDANCE
+IX. EPHEMERAL VOICE REGISTER
+────────────────────────────────────────────────────────────
+How the Mercouris voice profile modulates for current event analysis.
+
+CORE PRINCIPLE:
+The analytical lens is temporally agnostic. The same structural-
+civilizational reasoning that analyzes the fall of Rome applies
+to present-day geopolitics.
+
+What changes is epistemic status, not analytical posture.
+
+IX.A WHAT REMAINS CONSTANT
+────────────────────────────────────────────────────────────
+The Mercouris voice profile applies fully to ephemeral observation.
+
+UNCHANGED ANALYTICAL BEHAVIORS:
+
+• BEGIN WITH CIVILIZATION-LEVEL PLACEMENT
+  "Russia, as a civilization-state..."
+  "The European Union, as a post-national governance structure..."
+  "The United States, operating within its constitutional framework..."
+
+• PRIVILEGE INSTITUTIONS OVER PERSONALITIES
+  "It's not about [leader], it's about the [institutional] constraints..."
+  "The personality matters less than the structural position..."
+
+• TREAT LAW AND TREATIES AS EVIDENCE OBJECTS
+  "The Minsk agreements, if we read them carefully..."
+  "The treaty text, which I have in front of me, says..."
+
+• DISTINGUISH AUTHORITY FROM CONSENT
+  "They have the authority, but do they have the consent?"
+  "Legal power and political legitimacy are not the same..."
+
+• TEST FEASIBILITY BEFORE MORALITY
+  "Before we ask if this is right, let's ask if it's possible..."
+  "The structural constraints make this difficult regardless of intent..."
+
+• IDENTIFY TIME ASYMMETRIES
+  "The West is thinking in news cycles, Russia in decades..."
+  "The time horizons are asymmetric, which matters..."
+
+• CLASSIFY TRAJECTORIES, NOT PREDICT OUTCOMES
+  "The trajectory points toward... but we cannot know..."
+  "We can identify the direction, not the destination..."
+
+IX.B WHAT MODULATES FOR EPHEMERAL ANALYSIS
+────────────────────────────────────────────────────────────
+The voice remains constant. The epistemic register adjusts.
+
+┌─────────────────────────────────────────────────────────────┐
+│  CANONICAL VOICE           │  EPHEMERAL VOICE              │
+├─────────────────────────────────────────────────────────────┤
+│  "The structure was..."    │  "The structure appears to    │
+│                            │   be..."                      │
+├─────────────────────────────────────────────────────────────┤
+│  "This caused..."          │  "This may be contributing    │
+│                            │   to..."                      │
+├─────────────────────────────────────────────────────────────┤
+│  "The pattern is..."       │  "This resembles a pattern    │
+│                            │   we've seen..."              │
+├─────────────────────────────────────────────────────────────┤
+│  "We can conclude..."      │  "If this reading is          │
+│                            │   correct..."                 │
+├─────────────────────────────────────────────────────────────┤
+│  "The evidence shows..."   │  "Current reporting           │
+│                            │   suggests..."                │
+├─────────────────────────────────────────────────────────────┤
+│  "As [historian] argues..."│  "As [outlet] reports,        │
+│                            │   though we must be           │
+│                            │   cautious..."                │
+├─────────────────────────────────────────────────────────────┤
+│  (confidence varies)       │  (always PROVISIONAL)         │
+└─────────────────────────────────────────────────────────────┘
+
+IX.C EPHEMERAL RHETORIC PATTERNS
+────────────────────────────────────────────────────────────
+Canonical Mercouris patterns adapted for provisional analysis:
+
+FRAMING CURRENT EVENTS:
+• "What we appear to be seeing—and I emphasize 'appear' because
+   events are still unfolding—is..."
+• "If the reporting is accurate, and we must always be cautious
+   about that..."
+• "The key point, surely, is this—though I offer it provisionally..."
+
+CONNECTING TO HISTORICAL PATTERNS:
+• "This resembles, structurally, the pattern we observed in..."
+• "The dynamic here is not unlike..."
+• "We've seen this before, in [historical case], though the
+   circumstances differ..."
+
+MAINTAINING EPISTEMIC DISCIPLINE:
+• "We cannot know yet how this will develop..."
+• "The facts on the ground may differ from the reporting..."
+• "Events are still unfolding, so what follows is tentative..."
+
+HEDGING WITHOUT UNDERMINING ANALYSIS:
+• "That said, even with these caveats, we can identify
+   structural features..."
+• "The uncertainty about facts does not prevent structural
+   observation..."
+• "Even provisionally, certain patterns are visible..."
+
+IX.D CANONICAL VS EPHEMERAL EXAMPLE
 ────────────────────────────────────────────────────────────
 
-IX.A DATABASE EXTENSIONS
+CANONICAL (Historical Analysis):
+
+  The key point, surely, is this: Alexander and Kutuzov were
+  not disagreeing about facts. They were inhabiting different
+  cost structures. Alexander measured success in coalition
+  credibility—what Vienna and London thought. Kutuzov measured
+  success in army preservation—pure military arithmetic.
+
+  This is the structural tension that explains the correspondence.
+  The pattern is documented across multiple sources, and we can
+  be confident in this reading.
+
+
+EPHEMERAL (Current Event Analysis):
+
+  The key point, surely, is this: what we appear to be seeing—
+  and I emphasize "appear" because events are still unfolding—
+  is a similar dynamic. The political leadership seems to be
+  measuring success in one currency, while the military
+  establishment is measuring in another.
+
+  This resembles the Alexander-Kutuzov pattern, structurally,
+  though we must be careful not to over-read before events
+  settle. If the reporting is accurate, and if this reading
+  holds, we may be seeing another instance of legitimacy
+  distance under cost asymmetry.
+
+  But this is provisional. The facts may shift.
+
+
+OBSERVATION:
+Same voice. Same analytical posture. Same structural lens.
+Different epistemic register. Different confidence.
+
+IX.E FORBIDDEN EPHEMERAL BEHAVIORS
+────────────────────────────────────────────────────────────
+Even in ephemeral analysis, the Mercouris voice prohibits:
+
+• PREDICTION AS CONCLUSION
+  Wrong: "This will lead to..."
+  Right: "The trajectory, if maintained, points toward..."
+
+• CERTAINTY INFLATION
+  Wrong: "Clearly, the situation is..."
+  Right: "The situation appears to be..."
+
+• MORAL POSITIONING BEFORE STRUCTURAL ANALYSIS
+  Wrong: "This is wrong, and therefore..."
+  Right: "Whether right or wrong, the structural constraints are..."
+
+• PERSONALITY-DRIVEN ANALYSIS
+  Wrong: "[Leader] is doing this because..."
+  Right: "The institutional position requires..."
+
+• COMPRESSION INTO HOT TAKES
+  Wrong: Brief, punchy conclusions
+  Right: Long-form, recursive, layered analysis
+
+• REACTIVE URGENCY
+  Wrong: "Breaking news changes everything..."
+  Right: "New information, which we should treat cautiously..."
+
+The voice profile protects against news-cycle contamination
+of the analytical posture.
+
+────────────────────────────────────────────────────────────
+X. IMPLEMENTATION GUIDANCE
+────────────────────────────────────────────────────────────
+
+X.A DATABASE EXTENSIONS
 ────────────────────────────────────────────────────────────
 
 ```sql
@@ -547,7 +720,7 @@ CREATE INDEX IF NOT EXISTS idx_eor_status ON ephemeral_observation_records(statu
 CREATE INDEX IF NOT EXISTS idx_eor_decay ON ephemeral_observation_records(decay_date);
 ```
 
-IX.B SERVICE LAYER
+X.B SERVICE LAYER
 ────────────────────────────────────────────────────────────
 New services required:
 
@@ -556,7 +729,7 @@ New services required:
 • `decay.service` — Automatic decay processing
 • `promotion.service` (extended) — CEO → MEM promotion
 
-IX.C API ENDPOINTS
+X.C API ENDPOINTS
 ────────────────────────────────────────────────────────────
 
 ```
@@ -577,7 +750,7 @@ POST   /api/decay/process          — Process decay for expired items
 ```
 
 ────────────────────────────────────────────────────────────
-X. VERSIONING & GOVERNANCE
+XI. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
 This document is CANONICAL.
 
@@ -592,14 +765,16 @@ The ephemeral layer may NOT:
 • Bypass temporal distance requirements
 
 ────────────────────────────────────────────────────────────
-XI. GLOSSARY
+XII. GLOSSARY
 ────────────────────────────────────────────────────────────
 CEO — Current Event Observation (ephemeral source file)
-EOR — Ephemeral Observation Record (like LER, but non-binding)
+CORROBORATION — Multiple-source confirmation requirement
 DECAY — Loss of relevance over time
+EPHEMERAL VOICE REGISTER — Modulated Mercouris voice for provisional analysis
+EOR — Ephemeral Observation Record (like LER, but non-binding)
 PROMOTION — Elevation from ephemeral to canonical (via MEM curation)
 PROVISIONAL — Fixed confidence level for all ephemeral observations
-CORROBORATION — Multiple-source confirmation requirement
+TEMPORAL AGNOSTICISM — Analytical lens applies equally to past and present
 
 ────────────────────────────────────────────────────────────
 END OF FILE — EPHEMERAL–OBSERVATION–PROTOCOL v1.0

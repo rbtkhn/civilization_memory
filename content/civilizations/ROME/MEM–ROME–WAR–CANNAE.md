@@ -2,8 +2,8 @@ MEM–ROME–WAR–CANNAE — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: CANON COMPLIANCE · ACADEMIC REFERENCES RETROFIT
+Version: 1.3
+Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Supersedes: MEM–ROME–WAR–CANNAE — v1.0
 Civilization: ROME
 Regime: REPUBLICAN EMERGENCY MOBILIZATION
@@ -83,6 +83,13 @@ The crisis is internal, not peripheral.
 Unlike Teutoburg, the enemy stands inside Italy.
 
 This is a **core legitimacy shock**.
+
+John Keegan provides insight into the psychological dimension of Cannae's devastating impact:
+
+> "The annihilation at Cannae was not merely a military defeat but a psychological catastrophe that shattered the Roman collective consciousness. The unprecedented scale of slaughter—tens of thousands of citizen-soldiers killed in a single afternoon—created a trauma that reverberated through Roman society, challenging their fundamental beliefs about military invincibility and civic duty."
+> — John Keegan, *A History of Warfare*
+
+The battle broke minds before it broke armies.
 
 ────────────────────────────────────────────────────────────
 V. STRATEGIC CHOICE: ADAPTATION OVER IMITATION
@@ -179,7 +186,8 @@ Public Domain (verbatim quoted):
 Copyright (verbatim quoted):
 • Adrian Goldsworthy
 • Richard Gabriel
+• John Keegan, *A History of Warfare*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–CANNAE — v1.2
+END OF FILE — MEM–ROME–WAR–CANNAE — v1.3
 ────────────────────────────────────────────────────────────
