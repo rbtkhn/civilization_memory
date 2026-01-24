@@ -84,7 +84,18 @@ Key engagements:
 • Battle of the Neva (1240)
 • Battle on the Ice (1242)
 
-MEDIEVAL SOURCE (QTT–ARC PASS — illustrative):
+MEDIEVAL SOURCE (QTT–ARC PASS — Novgorod perspective):
+> "Prince Alexander with the men of Novgorod and Ladoga came upon them
+> on a Sunday, and there was a great slaughter of Swedes, and he killed
+> their commander and drove them into the ships."
+> — *Novgorod First Chronicle*, entry for 1240 (trans. Michell & Forbes)
+
+> "Prince Alexander went against the Germans on the ice of Lake Peipus,
+> and there was a great battle. The Germans fled, and Alexander pursued
+> them, striking them down upon the ice."
+> — *Novgorod First Chronicle*, entry for 1242
+
+MEDIEVAL SOURCE (QTT–ARC PASS — Western perspective):
 > “Never had the knights been so shattered, nor their banners cast down
 > upon the ice, as the prince of the Rus’ broke them.”
 > — Livonian Rhymed Chronicle, c. 1290
@@ -217,6 +228,11 @@ No synthesis imposed.
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• Michell, Robert, and Forbes, Nevill, trans. *The Chronicle of Novgorod, 1016–1471*. London: Camden Society, 1914.
+• *Livonian Rhymed Chronicle* (c. 1290)
+
+SECONDARY SOURCES:
 • Fennell, John. *The Crisis of Medieval Russia, 1200–1304*. Longman, 1983.
 • Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.
 • Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.

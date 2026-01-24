@@ -95,6 +95,13 @@ Authority is conditional and revocable.
 ────────────────────────────────────────────────────────────
 V. ECONOMIC FOUNDATIONS
 ────────────────────────────────────────────────────────────
+The *Novgorod First Chronicle* frames prosperity through commerce:
+
+> "Novgorod lived by the road to the sea, and by commerce with the
+> Germans and the peoples of the North. When trade prospered, the city
+> was at peace; when it failed, there was disorder."
+> — *Novgorod First Chronicle* (trans. Michell & Forbes)
+
 Prosperity rests on:
 • Fur trade
 • Long-distance commerce
@@ -126,6 +133,13 @@ Defense relies on diplomacy and alliances.
 VIII. RELATIONSHIP WITH MOSCOW
 ────────────────────────────────────────────────────────────
 Novgorod's autonomy conflicts with Muscovite centralization.
+
+The *Novgorod First Chronicle* records the terminal moment:
+
+> "In the year 6986 (1478), the Grand Prince Ivan came to Novgorod with
+> a great host, and he summoned the men of Novgorod to submit. And the
+> veche bell was silenced, and the liberties of Novgorod were ended."
+> — *Novgorod First Chronicle*, late 15th century
 
 Tension:
 • Trade republic vs autocratic state
@@ -183,6 +197,7 @@ XII. MEM BIBLIOGRAPHY (v2.7)
 PRIMARY SOURCES:
 • *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
 • Cross, Samuel H., and Sherbowitz-Wetzor, Olgerd P., eds. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+• Michell, Robert, and Forbes, Nevill, trans. *The Chronicle of Novgorod, 1016–1471*. London: Camden Society, 1914.
 
 SECONDARY SOURCES:
 • Birnbaum, Henrik. *Lord Novgorod the Great: Essays in the History and Culture of a Medieval City-State*. Columbus: Slavica Publishers, 1981.

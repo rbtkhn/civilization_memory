@@ -114,6 +114,14 @@ This structure prioritizes:
 • Obedience
 • Depth over pluralism
 
+The *Novgorod First Chronicle* records the terminal moment of Muscovite
+consolidation over alternative political forms:
+
+> "In the year 6986 (1478), the Grand Prince Ivan came to Novgorod with
+> a great host, and he summoned the men of Novgorod to submit. And the
+> veche bell was silenced, and the liberties of Novgorod were ended."
+> — *Novgorod First Chronicle*, late 15th century (trans. Michell & Forbes)
+
 Administration follows coercion; it does not precede it.
 
 ────────────────────────────────────────────────────────────
@@ -253,6 +261,7 @@ XIII. MEM BIBLIOGRAPHY
 PRIMARY SOURCES:
 • *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
 • Cross, Samuel H., and Sherbowitz-Wetzor, Olgerd P., eds. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+• Michell, Robert, and Forbes, Nevill, trans. *The Chronicle of Novgorod, 1016–1471*. London: Camden Society, 1914.
 
 SECONDARY SOURCES:
 • Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.

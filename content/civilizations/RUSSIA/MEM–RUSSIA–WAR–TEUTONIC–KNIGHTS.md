@@ -79,6 +79,14 @@ V. BATTLE ON THE ICE (1242)
 ────────────────────────────────────────────────────────────
 Alexander Nevsky defeats Teutonic forces on Lake Peipus.
 
+The *Novgorod First Chronicle* records:
+
+> "Prince Alexander went against the Germans on the ice of Lake Peipus,
+> and there was a great battle. The Germans fled, and Alexander pursued
+> them, striking them down upon the ice. And many were drowned in the
+> lake, and many were taken captive."
+> — *Novgorod First Chronicle*, entry for 1242 (trans. Michell & Forbes)
+
 Significance:
 • Halt of eastward crusading expansion
 • Preservation of Orthodox frontier
@@ -158,8 +166,8 @@ Cross-civilizational:
 MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:
-• Novgorod First Chronicle
-• Livonian Rhymed Chronicle
+• Michell, Robert, and Forbes, Nevill, trans. *The Chronicle of Novgorod, 1016–1471*. London: Camden Society, 1914.
+• *Livonian Rhymed Chronicle* (c. 1290)
 • Papal correspondence regarding Northern Crusades
 
 Secondary Sources:

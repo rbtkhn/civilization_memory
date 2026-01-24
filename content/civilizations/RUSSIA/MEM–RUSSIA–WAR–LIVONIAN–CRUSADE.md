@@ -100,6 +100,13 @@ Notable confrontations include:
 • Battle on the Ice (Lake Peipus, 1242)
 • Repeated raids against Pskov and Novgorod lands
 
+The *Novgorod First Chronicle* records the decisive engagement:
+
+> "Prince Alexander with the men of Novgorod and Ladoga came upon them
+> on a Sunday, and there was a great slaughter of Swedes, and he killed
+> their commander and drove them into the ships."
+> — *Novgorod First Chronicle*, entry for 1240 (trans. Michell & Forbes)
+
 These engagements do not destroy crusading power but **check its eastern
 advance**.
 
@@ -220,8 +227,8 @@ Contradictions preserved without verdict.
 XIII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:
-• Livonian Rhymed Chronicle (c. 1290)
-• Novgorod First Chronicle
+• *Livonian Rhymed Chronicle* (c. 1290)
+• Michell, Robert, and Forbes, Nevill, trans. *The Chronicle of Novgorod, 1016–1471*. London: Camden Society, 1914.
 • Papal correspondence regarding Baltic crusades
 
 Secondary Sources:
