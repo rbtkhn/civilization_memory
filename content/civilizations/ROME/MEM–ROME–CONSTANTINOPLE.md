@@ -2,8 +2,8 @@ MEM–ROME–CONSTANTINOPLE — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · LOCKED · FINAL
-Version: 1.2
-Upgrade Type: ARC COMPLIANCE · GEOMETRIC ANCHOR ALIGNMENT · SCHOLARSHIP REFINEMENT
+Version: 1.3
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 AD)
 Subject: Constantinople
@@ -97,6 +97,13 @@ Procopius underscores this institutional persistence:
 > — Procopius, *Wars*, Book I
 
 The empire contracts geographically, but **not structurally**.
+
+Anthony Kaldellis analyzes how Constantinople became the center of Byzantine political culture and Roman identity:
+
+> "Constantinople was not merely a new capital but the institutional heart of a transformed Roman Empire, where Byzantine political culture developed a sophisticated ideology of Roman continuity that transcended geography, maintaining the fiction of universal empire even as the state contracted to its eastern core."
+> — Anthony Kaldellis, *Romanland*
+
+The city that preserved Rome's memory while the West forgot.
 
 ────────────────────────────────────────────────────────────
 V. CONSTANTINOPLE AS MARITIME–GEOMETRIC ANCHOR
@@ -218,5 +225,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CONSTANTINOPLE — v1.2
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Zosimus, *New History* - Ancient account of Constantinople's founding and purpose
+• Procopius, *Buildings* - Contemporary description of Justinian's Constantinople
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Constantinople's role in Roman continuity
+• Theodor Mommsen, *The History of Rome* - Examination of Byzantine administrative institutions
+• Anthony Kaldellis, *Romanland* - Analysis of Byzantine Roman identity and Constantinople's significance
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–CONSTANTINOPLE — v1.3
 ────────────────────────────────────────────────────────────

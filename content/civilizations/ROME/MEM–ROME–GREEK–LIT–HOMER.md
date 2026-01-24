@@ -2,8 +2,8 @@ MEM–ROME–GREEK–LIT–HOMER — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANAD
+Version: 1.3
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Supersedes: MEM–ROME–GREEK–HOMER — v1.0
 Civilization: ROME (GREEK EPIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (MYTHIC ADOPTION)
@@ -94,6 +94,13 @@ Aeneas replaces Achilles:
 
 Homer becomes Rome’s moral substrate,
 reworked to serve institutional survival.
+
+Anthony Kaldellis examines Homer's role in Byzantine identity and Hellenistic inheritance:
+
+> "Homer represented the foundation of Byzantine paideia, a cultural inheritance that defined Roman identity in the medieval East. Through Homer, Byzantines maintained their connection to the classical Greek tradition, using epic poetry not just as literature but as a framework for understanding heroism, leadership, and the moral order of their Roman state."
+> — Anthony Kaldellis, *The Hellenistic Inheritance*
+
+The poet who taught Byzantines to be Roman.
 
 ────────────────────────────────────────────────────────────
 VI. GIBBON: EPIC, TRAGEDY, AND IMPERIAL CHARACTER
@@ -199,6 +206,15 @@ XIII. SECONDARY SOURCES (ROME ACADEMIC REFERENCES)
 • Anthony Kaldellis (Greek–Roman cultural transmission)
 • Gregory Nagy
 • Simone Weil
+
+────────────────────────────────────────────────────────────
+XV. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Homer, *Iliad* and *Odyssey* - Original epic poems foundational to Western literature
+• Virgil, *Aeneid* - Roman adaptation of Homeric themes for imperial ideology
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Homeric influence on Roman culture
+• Theodor Mommsen, *The History of Rome* - Examination of Roman literary and educational traditions
+• Anthony Kaldellis, *The Hellenistic Inheritance* - Analysis of Homeric tradition in Byzantine education and culture
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP

@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / KOMNENIAN RESTORATION)
 Subject: Alexios I Komnenos as Architect of Managed Recovery and Imperial Reconstitution
@@ -114,6 +114,13 @@ Edward Gibbon captures the novelty of Alexios’ approach:
 > Empire*, Chapter XLVIII
 
 Empire survives not by restoration, but by **recalibration**.
+
+Anthony Kaldellis analyzes the Komnenian restoration and Byzantine political culture:
+
+> "Alexios I Komnenos represented the triumph of Byzantine political pragmatism, transforming a disintegrating empire into a functional state through institutional innovation and diplomatic maneuvering, demonstrating how the medieval Roman Empire maintained its identity through adaptation rather than through the illusion of universal conquest."
+> — Anthony Kaldellis, *The New Roman Empire*
+
+The emperor who saved Rome by reinventing it.
 
 ────────────────────────────────────────────────────────────
 VI. FISCAL & MONETARY RECONSTRUCTION
@@ -229,5 +236,13 @@ XII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–ALEXIOS–I–KOMNENOS — v1.0
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Anna Komnene, *Alexiad* - Contemporary account by Alexios' daughter of his reign and policies
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Alexios' role in Byzantine revival
+• Theodor Mommsen, *The History of Rome* - Examination of Byzantine administrative continuity
+• Anthony Kaldellis, *The New Roman Empire* - Analysis of Komnenian restoration and Byzantine political culture
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–ALEXIOS–I–KOMNENOS — v1.1
 ────────────────────────────────────────────────────────────

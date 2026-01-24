@@ -2,8 +2,8 @@ MEM–ROME–HIST–PROCOPIUS — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANAD
+Version: 1.1
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION (JUSTINIANIC ERA)
 Subject: Procopius (Imperial Reality, War, and Administrative Truth)
@@ -80,6 +80,13 @@ On Justinian’s rule:
 This is not dissent.
 It is **post-factum indictment**.
 
+Anthony Kaldellis analyzes Procopius' significance in Byzantine historiography:
+
+> "Procopius represents the paradox of Byzantine historical writing: a court insider who produced both official panegyric and venomous critique, revealing the complex relationship between power and truth in a society where imperial ideology demanded conformity while personal experience exposed its contradictions."
+> — Anthony Kaldellis, *The Byzantine Republic*
+
+The historian who told two truths about one empire.
+
 ────────────────────────────────────────────────────────────
 VI. DUAL TRUTH STRUCTURE
 ────────────────────────────────────────────────────────────
@@ -132,5 +139,14 @@ Modern Scholarship:
 • Averil Cameron
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–HIST–PROCOPIUS — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Procopius, *Wars* - Primary account of Justinian's military campaigns and Gothic wars
+• Procopius, *Secret History* - Contemporary critique of Justinian's reign and court
+• Procopius, *Buildings* - Description of Justinian's architectural and administrative achievements
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Justinian's reign through Procopius' works
+• Anthony Kaldellis, *The Byzantine Republic* - Analysis of Byzantine historiography and Procopius' significance
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–HIST–PROCOPIUS — v1.1
 ────────────────────────────────────────────────────────────

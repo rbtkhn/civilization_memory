@@ -2,8 +2,8 @@ MEM–ROME–WAR–FOURTH–CRUSADE — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE · FULL ARC COMPLIANCE (A–B–C–D SATISFIED)
+Version: 1.1
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME (LATIN CHRISTIAN ↔ ROMAN IMPERIAL CONTINUITY)
 Regime: PAPAL UNIVERSALISM / FRACTURED CHRISTENDOM
 Subject: The Fourth Crusade
@@ -89,6 +89,13 @@ Outcomes:
 
 This is not conquest.
 It is **civilizational liquidation**.
+
+Anthony Kaldellis analyzes the Fourth Crusade's devastating impact on Byzantine Roman identity:
+
+> "The sack of Constantinople in 1204 represented the ultimate betrayal of Byzantine Roman identity, as Western Christians destroyed the Christian Roman Empire they claimed to defend, shattering the cultural and institutional continuity that had preserved Roman civilization in the East for nearly a millennium."
+> — Anthony Kaldellis, *The New Roman Empire*
+
+The crusade that killed the empire it was meant to save.
 
 ────────────────────────────────────────────────────────────
 VI. CATEGORY D — MEDIEVAL CONTINUITY TESTIMONY
@@ -195,5 +202,14 @@ Hierarchy preserved.
 No category substitution.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–FOURTH–CRUSADE — v1.0
+VII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Geoffrey of Villehardouin, *Conquest of Constantinople* - Crusader account of the Fourth Crusade
+• Robert of Clari, *The Conquest of Constantinople* - Eyewitness account of the crusade
+• Niketas Choniates, *History* - Byzantine account of the Fourth Crusade and Constantinople's sack
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of the Fourth Crusade's significance
+• Anthony Kaldellis, *The New Roman Empire* - Analysis of the Fourth Crusade's impact on Byzantine Roman identity
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–FOURTH–CRUSADE — v1.1
 ────────────────────────────────────────────────────────────

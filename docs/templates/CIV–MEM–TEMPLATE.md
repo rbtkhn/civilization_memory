@@ -1,14 +1,29 @@
-CIV–MEM–TEMPLATE — v2.6
+CIV–MEM–TEMPLATE — v2.7
 Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection · Bibliography Integration
+20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection · Promotion Provenance
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.5
-Upgrade Type: ADDITIVE · MANDATORY MEM BIBLIOGRAPHY
+Supersedes: CIV–MEM–TEMPLATE v2.6
+Upgrade Type: ADDITIVE · CEO PROMOTION PROVENANCE
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Word Count: ~4,300
+Word Count: ~4,500
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
+────────────────────────────────────────────────────────────
+This version adds provenance tracking for MEMs promoted from
+Current Event Observations (CEOs).
+
+NEW SECTION:
+• CEO → MEM Promotion Provenance (Section XXI)
+• Documents observation-to-canonical pathway
+• Required only for MEMs promoted from ephemeral observations
+• Cross-references EPHEMERAL–OBSERVATION–PROTOCOL and CIV–CEO–TEMPLATE
+
+MEMs promoted from CEOs must include provenance block but still
+meet full template compliance including 20% EQS with upgraded sources.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — MANDATORY MEM BIBLIOGRAPHY
@@ -422,12 +437,48 @@ This file MUST be mirrored verbatim into:
 Any divergence invalidates MEM compliance for that civilization.
 
 ────────────────────────────────────────────────────────────
-XXI. VERSIONING & LOCK
+XXI. CEO → MEM PROMOTION PROVENANCE (NEW · v2.7)
+────────────────────────────────────────────────────────────
+When a MEM file is created from a promoted Current Event Observation,
+it must include provenance information.
+
+PROMOTION PROVENANCE BLOCK (when applicable):
+
+PROMOTION PROVENANCE:
+────────────────────────────────────────────────────────────
+• Promoted From: [CEO-ID, e.g., CEO–UKRAINE–2026-01-24–REUTERS]
+• Original Observation Date: [Date of CEO creation]
+• Promotion Date: [Date of MEM creation]
+• Temporal Distance: [Time between observation and promotion]
+• Source Upgrade: [What new sources enabled promotion]
+
+This block is OPTIONAL — only required for MEMs promoted from CEO files.
+
+PURPOSE:
+• Maintains epistemic chain of custody
+• Documents observation-to-canonical pathway
+• Enables audit of promotional decisions
+• Preserves connection to original ephemeral analysis
+
+REQUIREMENTS FOR PROMOTED MEMS:
+• Must meet full CIV–MEM–TEMPLATE compliance
+• Must achieve 20% EQS with upgraded sources
+• Original CEO sources alone are insufficient
+• Provenance block does not reduce evidentiary standards
+
+See: EPHEMERAL–OBSERVATION–PROTOCOL VI (CEO → MEM Promotion Path)
+See: CIV–CEO–TEMPLATE XI (Promotion Requirements)
+
+────────────────────────────────────────────────────────────
+XXII. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • Deletions forbidden
 • Canonical lock absolute
 
+v2.7 ADDITIONS:
+• CEO → MEM Promotion Provenance section
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.6
+END OF FILE — CIV–MEM–TEMPLATE v2.7
 ────────────────────────────────────────────────────────────

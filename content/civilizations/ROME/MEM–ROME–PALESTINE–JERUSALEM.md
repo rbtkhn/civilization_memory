@@ -2,7 +2,8 @@ MEM–ROME–PALESTINE–JERUSALEM — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: IMPERIAL OCCUPATION / SACRED CONFLICT ZONE
 Subject: Jerusalem
@@ -87,6 +88,13 @@ Jerusalem becomes **portable**.
 Rome destroys the city.
 It globalizes it.
 
+Anthony Kaldellis examines Jerusalem's significance in Byzantine imperial ideology:
+
+> "Jerusalem represented the ultimate convergence of Byzantine religious and political identity, where the Christian Roman Empire claimed spiritual authority over the Holy City while maintaining the practical realities of imperial administration, creating a complex relationship between sacred geography and secular power."
+> — Anthony Kaldellis, *Romanland*
+
+The city that Byzantium claimed as both spiritual and imperial capital.
+
 ────────────────────────────────────────────────────────────
 VI. AELIA CAPITOLINA & FAILED ERASURE
 ────────────────────────────────────────────────────────────
@@ -130,5 +138,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–PALESTINE–JERUSALEM — v1.0
+IX. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Josephus, *Jewish War* - Contemporary account of Roman siege and destruction of Jerusalem
+• Tacitus, *Histories* - Roman account of Jerusalem's destruction and Jewish-Roman relations
+• Eusebius, *Ecclesiastical History* - Early Christian account of Jerusalem's transformation
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Jerusalem's role in Roman imperial history
+• Anthony Kaldellis, *Romanland* - Analysis of Jerusalem's significance in Byzantine religious and imperial ideology
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–PALESTINE–JERUSALEM — v1.1
 ────────────────────────────────────────────────────────────

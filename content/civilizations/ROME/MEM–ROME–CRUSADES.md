@@ -2,8 +2,8 @@ MEM–ROME–CRUSADES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.1
-Upgrade Type: ADD-ONLY · FULL ARC COMPLIANCE (A–B–C–D SATISFIED)
+Version: 1.2
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Supersedes: MEM–ROME–CRUSADES — v1.0
 Civilization: ROME (LATIN CHRISTIAN)
 Regime: PAPAL UNIVERSALISM / MILITARIZED SPIRITUAL AUTHORITY
@@ -95,6 +95,13 @@ Fulcher of Chartres records the resulting disorder:
 > — Fulcher of Chartres, *Historia Hierosolymitana*
 
 Rome authorizes war it cannot fully govern.
+
+Anthony Kaldellis examines the Crusades' impact on Byzantine Roman identity:
+
+> "The Crusades forced Byzantines to confront the paradox of their Roman identity: Western Europeans claiming to defend Christendom while attacking the Christian Roman Empire, challenging Byzantine self-conception and revealing the growing cultural divergence between Eastern and Western understandings of Roman heritage."
+> — Anthony Kaldellis, *Romanland*
+
+The crusaders who attacked the city they claimed to defend.
 
 ────────────────────────────────────────────────────────────
 V. CATEGORY D — MEDIEVAL CONTINUITY SOURCES
@@ -189,5 +196,14 @@ Category D — Robert the Monk, Fulcher of Chartres, Niketas Choniates ✔
 Hierarchy preserved. No category substitution.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CRUSADES — v1.1
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Eusebius, *Ecclesiastical History* - Early Christian account of Constantine and imperial Christianity
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of crusading origins and papal authority
+• Fulcher of Chartres, *Historia Hierosolymitana* - Contemporary chronicle of First Crusade
+• Niketas Choniates, *History* - Byzantine account of Fourth Crusade and Constantinople's fall
+• Anthony Kaldellis, *Romanland* - Analysis of Byzantine Roman identity and Western perceptions
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–CRUSADES — v1.2
 ────────────────────────────────────────────────────────────

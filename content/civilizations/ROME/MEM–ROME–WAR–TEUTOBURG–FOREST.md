@@ -2,8 +2,8 @@ MEM–ROME–WAR–TEUTOBURG–FOREST — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+Version: 1.1
+Upgrade Type: ADDITIVE · GABRIEL QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: EARLY PRINCIPATE (AUGUSTAN)
 Subject: Battle of the Teutoburg Forest (Roman Perspective)
@@ -235,5 +235,16 @@ the confidence of Roman dominion beyond the Rhine.” — Velleius Paterculus.
 — Tacitus, *Annals*.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–TEUTOBURG–FOREST — v1.0
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Velleius Paterculus, *Roman History* - Contemporary account of the disaster and its impact
+• Tacitus, *Annals* - Primary historical account of Teutoburg and Roman-Germanic relations
+• Cassius Dio, *Roman History* - Later historical analysis of the battle and its consequences
+• Suetonius, *Divus Augustus* - Biographical account of Augustus' reaction to the disaster
+• Adrian Goldsworthy, *The Fall of the West* - Modern analysis of Roman military disasters
+• Peter Heather, *The Fall of the Roman Empire* - Examination of barbarian-Roman relations and Teutoburg
+• Richard Gabriel, *The Great Armies of Antiquity* - Analysis of Roman military tactics and terrain challenges
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–TEUTOBURG–FOREST — v1.1
 ────────────────────────────────────────────────────────────

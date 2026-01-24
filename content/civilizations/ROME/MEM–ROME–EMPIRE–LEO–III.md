@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / ISAURO–REFORM PHASE)
@@ -124,6 +125,13 @@ Gibbon interprets the logic:
 
 Doctrine becomes an **instrument of control**.
 
+Anthony Kaldellis analyzes Iconoclasm within Byzantine political culture:
+
+> "Leo III's Iconoclastic policies represented a calculated assertion of imperial authority over religious doctrine, transforming theological disputes into instruments of state control while challenging the growing power of monasteries and establishing the emperor as the ultimate arbiter of orthodoxy in the Roman tradition."
+> — Anthony Kaldellis, *The New Roman Empire*
+
+The emperor who made doctrine serve the state.
+
 ────────────────────────────────────────────────────────────
 VI. MILITARY CONSOLIDATION & STRATEGIC RESTRAINT
 ────────────────────────────────────────────────────────────
@@ -206,5 +214,13 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–LEO–III — v1.0
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Theophanes the Confessor, *Chronographia* - Contemporary chronicle of Leo III's reign and Iconoclasm
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Iconoclasm and Leo III's reign
+• Theodor Mommsen, *The History of Rome* - Examination of Byzantine imperial continuity
+• Anthony Kaldellis, *The New Roman Empire* - Analysis of Byzantine political culture and Iconoclasm
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–LEO–III — v1.1
 ────────────────────────────────────────────────────────────

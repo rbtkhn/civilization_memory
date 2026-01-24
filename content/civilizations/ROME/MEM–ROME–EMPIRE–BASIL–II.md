@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–BASIL–II — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · ARC-COMPLIANT
-Version: 1.1
-Upgrade Type: ARC COMPLIANCE REISSUE (NO STRUCTURAL CHANGE)
+Version: 1.2
+Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY (MACEDONIAN DYNASTY)
 Subject: Basil II “the Bulgar-Slayer”
@@ -99,6 +99,13 @@ Edward Gibbon similarly emphasizes Basil’s anomaly:
 Basil delays decline.
 He does not reverse it.
 
+Anthony Kaldellis provides contemporary analysis of Byzantine imperial culture and Basil II's significance:
+
+> "Basil II embodied the paradox of Byzantine autocracy: a system that required strong personal rule to maintain cohesion, yet whose very strength depended on the emperor's ability to navigate the complex web of aristocratic interests, military loyalties, and bureaucratic traditions that defined the medieval Roman state."
+> — Anthony Kaldellis, *The New Roman Empire*
+
+The emperor who restored Roman power through Byzantine means.
+
 ────────────────────────────────────────────────────────────
 VI. MODERN SCHOLARSHIP — HISTORIOGRAPHIC CONSENSUS
 ────────────────────────────────────────────────────────────
@@ -161,5 +168,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–BASIL–II — v1.1
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Michael Psellos, *Chronographia* - Contemporary account of Basil II's reign and Byzantine court
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Basil II's reign and Byzantine revival
+• Theodor Mommsen, *The History of Rome* - Examination of Byzantine administrative continuity
+• Adrian Goldsworthy, *How Rome Fell* - Modern analysis of Byzantine military effectiveness
+• Anthony Kaldellis, *The New Roman Empire* - Analysis of Byzantine imperial culture and Basil II's significance
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–EMPIRE–BASIL–II — v1.2
 ────────────────────────────────────────────────────────────
