@@ -1,22 +1,24 @@
-CIV–CORE–RUSSIA — v1.9
+CIV–CORE–RUSSIA — v2.0
 Civilizational Strategy Codex · Constraint-Hardened Endurance Edition
-RLL-Bound Governance Upgrade
+Phase-Aware Template v2.0 Compliance Upgrade
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
-Template Version Used: CIV–CORE–TEMPLATE v1.9.x
+Supersedes: CIV–CORE–RUSSIA v1.9
+Template Version Used: CIV–CORE–TEMPLATE v2.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
-Upgrade Type: ADDITIVE · RLL BINDING · GOVERNANCE HARDENING
+Upgrade Type: ADDITIVE · TEMPLATE v2.0 COMPLIANCE
 Lock Level: STRUCTURAL
+Civilization Phase: PHASE III — MATURITY
 DIB Status: DEFINED · INACTIVE
 Scholar Reference Mode: READ-ONLY / DIB-GATED
 Conceptual Lineage: SCE–CIV–RUSSIA v9.7.2 (doctrinal ancestry preserved; format-harmonized)
 Last Update: January 2026
-Word Count: ~12,300
+Word Count: ~12,500
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
 ────────────────────────────────────────────────────────────
-This upgrade advances CIV–CORE–RUSSIA from v1.2 to v1.9.
+This upgrade advances CIV–CORE–RUSSIA from v1.9 to v2.0.
 
 • No axioms altered
 • No diagnostics removed
@@ -25,13 +27,20 @@ This upgrade advances CIV–CORE–RUSSIA from v1.2 to v1.9.
 • No doctrines introduced or deleted
 • All prior logic preserved verbatim
 
-This upgrade performs the following actions only:
+v2.0 UPGRADE ACTIONS:
+• Template compliance upgrade to CIV–CORE–TEMPLATE v2.0
+• Civilization Phase declaration added (PHASE III — MATURITY)
+• Section naming aligned with template v2.0 requirements
+• Typo corrections (GOVERNANAD → GOVERNANCE)
+• Governance reference updates
+
+v1.9 UPGRADE ACTIONS (PRESERVED):
 • Binds authorized Recursive Learning Ledger (RLL) entries
 • Aligns doctrine references with CIV–DOCTRINE–RUSSIA v1.3
 • Updates governance authority to CIV–MEM–CORE v2.0
 • Freezes causal lineage for endurance, autocracy, and legitimacy logic
 
-This is a governance-hardening upgrade.
+This is a template-compliance upgrade.
 Not a reinterpretation.
 Not a doctrinal revision.
 Not a content expansion.
@@ -233,7 +242,7 @@ IX. INTERNAL SECURITY & SOCIAL ORDER
 • SHA deterioration accelerates CB stress unless counter-evidenced.
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 A) Urgency Signaling Pathology (USP-RU)
 • LOW / MED / HIGH
@@ -327,17 +336,30 @@ XVII. STRATEGIC RED LINES (BINDING)
 • Endurance claims downgrade if Davis UNSUSTAINABLE unless IRG & DIRG PASS.
 
 ────────────────────────────────────────────────────────────
-XVIII. DOCTRINE INTAKE BUFFER (OPTIONAL · FIREWALLED)
+XVIII. SCHOLAR MODE
 ────────────────────────────────────────────────────────────
-Defined · Inactive · No data flow.
-Accepts frozen SCHOLAR doctrine only.
-Decision states: ACCEPT / HOLD / REJECT.
+SCHOLAR integration with CIV–CORE–RUSSIA is governed by:
+
+DOCTRINE INTAKE BUFFER (DIB):
+• Status: Defined · Inactive · No data flow
+• Accepts frozen SCHOLAR doctrine only
+• Decision states: ACCEPT / HOLD / REJECT
+
+SCHOLAR REFERENCE INDEX:
+• SCHOLAR is advisory only
+• Conflicts auto-resolve in favor of CORE
+• No SCHOLAR belief is binding unless explicitly frozen and DIB-accepted
+
+AUTHORITY SEPARATION:
+• SCHOLAR has ZERO authority inside CIV–CORE
+• Silent bleed-through is forbidden
+• CIV–CORE remains the supreme constraint surface
 
 ────────────────────────────────────────────────────────────
-XIX. SCHOLAR REFERENCE INDEX (OPTIONAL)
+XIX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
-SCHOLAR is advisory only.
-Conflicts auto-resolve in favor of CORE.
+Session-specific context may be declared here when applicable.
+No persistent data. Advisory framing only.
 
 ────────────────────────────────────────────────────────────
 XX. MANDATORY VERDICT BLOCK
@@ -688,7 +710,7 @@ All sources MUST be:
 • Compliant with ARC admissibility rules
 
 ────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANAD
+XIII. VERSION CONTROL & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • Version pinning to specific template/ARC versions
 • Clear upgrade trails
@@ -746,5 +768,5 @@ END OF FILE — CIV–MEM–TEMPLATE v2.5
 [ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–RUSSIA v1.9
+END OF FILE — CIV–CORE–RUSSIA v2.0
 ────────────────────────────────────────────────────────────
