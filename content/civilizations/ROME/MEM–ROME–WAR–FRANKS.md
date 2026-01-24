@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · HEATHER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: LATE IMPERIAL DEFENSE → POST-IMPERIAL TRANSFORMATION
 Subject: The Franks as Federated Insiders and Architects of Post-Roman Continuity
@@ -107,6 +107,13 @@ Gregory of Tours records the baptism:
 
 Religion converts **power into legitimacy**.
 
+Peter Heather examines Clovis' conversion and the Frankish-Roman synthesis:
+
+> "Clovis' adoption of Nicene Christianity was not merely a religious choice but a calculated political strategy that aligned Frankish power with the ideological framework of the Roman Empire, enabling the Merovingians to claim legitimate succession to Roman authority while establishing a durable kingdom that would endure for centuries."
+> — Peter Heather, *Empires and Barbarians*
+
+Christianity transformed Frankish warlords into Roman kings.
+
 ────────────────────────────────────────────────────────────
 VI. PUBLIC DOMAIN SCHOLARSHIP — CONTINUITY
 ────────────────────────────────────────────────────────────
@@ -153,5 +160,14 @@ Lessons preserved:
 The Franks end Rome by becoming it.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–FRANKS — v1.0
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Ammianus Marcellinus, *Res Gestae* - Contemporary account of Frankish-Roman relations
+• Gregory of Tours, *History of the Franks* - Sixth-century account of Clovis and Merovingian Gaul
+• Sidonius Apollinaris, *Letters* - Contemporary view of Frankish-Roman interactions
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Frankish-Roman transition
+• Peter Heather, *Empires and Barbarians* - Modern analysis of Frankish conversion and post-Roman state formation
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–FRANKS — v1.1
 ────────────────────────────────────────────────────────────

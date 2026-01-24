@@ -122,10 +122,40 @@ MANDATORY CLAUSE (verbatim):
 ────────────────────────────────────────────────────────────
 IV. STRUCTURAL CONTENT RULES (HARD)
 ────────────────────────────────────────────────────────────
-• Minimum 8 numbered analytical sections
+• Minimum 8 numbered analytical sections (see counting rules below)
 • Analytical, not narrative
 • No teleology
 • No retrospective inevitability
+
+ANALYTICAL SECTION COUNTING RULES:
+────────────────────────────────────────────────────────────
+Sections that COUNT toward the 8-section minimum:
+• Substantive analytical sections (historical, structural, thematic analysis)
+• Quote integration sections with substantial commentary
+• MEM Connections section (if substantive, not just links)
+• Counterfactual section (if included)
+• Conclusion/synthesis sections
+
+Sections that DO NOT COUNT:
+• Metadata headers (title, version, status)
+• Upgrade notes
+• Governance declarations (ARC compliance, substitution declarations)
+• MEM Ingest Bootstrap (procedural, not analytical)
+• Bibliography/References (listing, not analysis)
+• END OF FILE marker
+
+EXAMPLE VALID STRUCTURE:
+I. Introduction/Context — COUNTS
+II. Primary Evidence — COUNTS
+III. Quote Analysis Section — COUNTS
+IV. Structural Analysis — COUNTS
+V. Pattern Identification — COUNTS
+VI. Tension/Contradiction — COUNTS
+VII. Comparative Frame — COUNTS
+VIII. Counterfactual — COUNTS
+IX. MEM Connections — COUNTS if substantive
+X. Ingest Bootstrap — DOES NOT COUNT
+XI. Bibliography — DOES NOT COUNT
 • No moral adjudication
 
 Permitted:
@@ -206,9 +236,9 @@ SUBSTITUTION RULE:
 MANDATORY DECLARATION (verbatim):
 
 “EARLY MODERN SUBSTITUTION DECLARATION:
-Required Early Modern historiographic sources were sought but failed to
-meet the ARC Quality Threshold Test. In accordance with CIV–MEM–TEMPLATE
-v2.3, Category C quotations are replaced by additional Category D sources.
+Required ARC-T-EARLY-MOD (Early Modern) sources were sought but failed to
+meet the ARC Quality Threshold Test. In accordance with CIV–MEM–TEMPLATE,
+ARC-T-EARLY-MOD quotations are replaced by additional ARC-T-MODERN sources.
 This substitution is explicit and disclosed.”
 
 Silent substitution is PROHIBITED.
@@ -459,7 +489,7 @@ Purpose:
 • Facilitates comparative scholarship
 
 ────────────────────────────────────────────────────────────
-XX. STORAGE & MIRRORING RULE
+XIX. STORAGE & MIRRORING RULE
 ────────────────────────────────────────────────────────────
 This file MUST be mirrored verbatim into:
 – CIV–CORE–[CIV] (all civilizations)
@@ -469,7 +499,7 @@ This file MUST be mirrored verbatim into:
 Any divergence invalidates MEM compliance for that civilization.
 
 ────────────────────────────────────────────────────────────
-XXI. CEO → MEM PROMOTION PROVENANCE (NEW · v2.7)
+XX. CEO → MEM PROMOTION PROVENANCE (NEW · v2.7)
 ────────────────────────────────────────────────────────────
 When a MEM file is created from a promoted Current Event Observation,
 it must include provenance information.
@@ -502,7 +532,7 @@ See: EPHEMERAL–OBSERVATION–PROTOCOL VI (CEO → MEM Promotion Path)
 See: CIV–CEO–TEMPLATE XI (Promotion Requirements)
 
 ────────────────────────────────────────────────────────────
-XXII. VERSIONING & LOCK
+XXI. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • Deletions forbidden

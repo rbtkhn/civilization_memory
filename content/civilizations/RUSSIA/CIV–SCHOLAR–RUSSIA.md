@@ -13,10 +13,11 @@ Word Count: ~8,300
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7 (CURRENT)
 • ARC–RUSSIA (Pinned)
 • RLL–RUSSIA Registry (Authoritative)
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.0
+• NAMESPACE–CLARIFICATION v1.0
 
 Activation Trigger:
 • RLL–0007 — Rurikid Continuity → Petrine Rupture Binding (AUTHORIZED)
@@ -222,20 +223,35 @@ CIV–SCHOLAR–RUSSIA v2.0 is hereby declared:
 All future Russian civilizational analysis must conform to this grammar.
 
 ────────────────────────────────────────────────────────────
-XIII. MIRRORED CIV–MEM–TEMPLATE v2.5
+XIII. TEMPLATE REFERENCE (CANONICAL POINTER)
 ────────────────────────────────────────────────────────────
-[BEGINS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5 - DO NOT EDIT DIRECTLY]
+MIRROR DEPRECATION NOTICE (January 2026):
+Embedded template mirrors are deprecated due to drift risk.
+This section now points to the canonical template.
 
-CIV–MEM–TEMPLATE — v2.5
+CANONICAL REFERENCE:
+• CIV–MEM–TEMPLATE v2.7 (CURRENT)
+• Location: docs/templates/CIV–MEM–TEMPLATE.md
+• Key additions since v2.5: ERC namespace, Quote-Analysis math,
+  CEO Promotion Provenance
+
+The embedded v2.5 content below is HISTORICAL REFERENCE ONLY.
+For governance, always consult the canonical template.
+
+────────────────────────────────────────────────────────────
+[LEGACY MIRROR - CIV–MEM–TEMPLATE v2.5 - SUPERSEDED BY v2.7]
+────────────────────────────────────────────────────────────
+
+CIV–MEM–TEMPLATE — v2.5 [SUPERSEDED - SEE v2.7]
 Civilizational Memory Codex · Memory File Enforcement Template
 20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
-Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.5
+Status: SUPERSEDED · SEE docs/templates/CIV–MEM–TEMPLATE.md
+Supersedes: CIV–MEM–TEMPLATE v2.4
 Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
-Last Update: January 2026
+Last Update: January 2026 [SUPERSEDED]
 Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────

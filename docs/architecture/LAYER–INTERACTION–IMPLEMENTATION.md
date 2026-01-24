@@ -50,12 +50,30 @@ CREATE INDEX IF NOT EXISTS idx_ler_created ON learning_event_records(created_at)
 
 ### 1.2 RLL Registry
 
+**VERSION PINNING (GOVERNANCE REQUIREMENT)**:
+The RLL registry is a versioned governance object. All references to
+RLLs in SCHOLAR, CORE, and MEM files MUST include the registry version
+at the time of binding.
+
+Registry Version Format: `RLL-REGISTRY-v[MAJOR].[MINOR]`
+Current Version: `RLL-REGISTRY-v1.0`
+
+When an RLL is modified, registry version increments:
+- MINOR: Metadata changes, description updates
+- MAJOR: Constraint changes, scope changes, binding changes
+
+Files referencing RLLs MUST declare: `RLL Registry: RLL-REGISTRY-v1.0`
+
 ```sql
 -- Tracks RLL lifecycle across SCHOLAR and CORE
 CREATE TABLE IF NOT EXISTS rll_registry (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   rll_id TEXT UNIQUE NOT NULL,              -- RLL–[NNNN]
   civilization TEXT NOT NULL,
+  
+  -- Registry version tracking
+  registry_version TEXT NOT NULL DEFAULT 'RLL-REGISTRY-v1.0',
+  rll_version INTEGER NOT NULL DEFAULT 1,   -- Increments on RLL modification
   
   -- RLL specification
   constraint_type TEXT NOT NULL CHECK(constraint_type IN (

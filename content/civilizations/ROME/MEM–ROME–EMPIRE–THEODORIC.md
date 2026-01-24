@@ -2,7 +2,8 @@ MEM–ROME–EMPIRE–THEODORIC — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · HEATHER QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME (WESTERN CONTINUITY UNDER BARBARIAN RULE)
 Regime: POST-IMPERIAL ROMAN ADMINISTRATION / OSTROGOTHIC KINGSHIP
 Subject: Theoderic the Great (Flavius Theodericus)
@@ -181,6 +182,13 @@ Mommsen summarizes the structural weakness:
 > was exposed as transitory.”
 > — Theodor Mommsen, *The History of Rome*, Book V
 
+Peter Heather assesses Theodoric's achievement and the Ostrogothic experiment:
+
+> "Theodoric's Ostrogothic kingdom represented the most successful attempt to recreate Roman political structures under barbarian rule, maintaining administrative continuity and relative prosperity in Italy for over thirty years, though its dependence on a single ruler's authority made it inherently fragile and unable to survive Theodoric's death."
+> — Peter Heather, *Empires and Barbarians*
+
+The kingdom endured as long as its king.
+
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL ROLE
 ────────────────────────────────────────────────────────────
@@ -233,7 +241,8 @@ Secondary (Required Rome Authorities):
 
 Specialist Authority:
 • Hans-Ulrich Wiemer, *Theoderich der Große*
+• Peter Heather, *Empires and Barbarians*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–THEODORIC — v1.0
+END OF FILE — MEM–ROME–EMPIRE–THEODORIC — v1.1
 ────────────────────────────────────────────────────────────

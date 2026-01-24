@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · HEATHER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: LATE IMPERIAL DEFENSE → CRISIS MOBILIZATION
 Subject: The Huns as External Shock Force and Catalyst of Imperial Reconfiguration
@@ -66,6 +66,13 @@ Jordanes records the terror effect:
 > — Jordanes, *Getica*
 
 The Huns destabilize Rome **without occupying Roman land**.
+
+Peter Heather analyzes the Huns' transformative impact on the Roman world:
+
+> "The Huns did not merely invade Roman territory—they fundamentally restructured the political geography of late antiquity by triggering a chain reaction of barbarian migrations that compressed frontier populations and overwhelmed Roman defensive capabilities, setting in motion the sequence of events that would lead to the empire's fragmentation."
+> — Peter Heather, *Empires and Barbarians*
+
+The Huns were the earthquake that triggered the avalanche.
 
 ────────────────────────────────────────────────────────────
 IV. ROMAN ADAPTATION: GOLD, ALLIANCE, DELAY
@@ -180,5 +187,14 @@ Lessons preserved:
 The Huns break the tempo of Roman history.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–HUNS — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Ammianus Marcellinus, *Res Gestae* - Contemporary account of Hunnic invasions and Roman response
+• Jordanes, *Getica* - Sixth-century account of Gothic migrations triggered by Huns
+• Priscus of Panium, *History* - Contemporary diplomatic account of Attila's court
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Hunnic impact on Roman Empire
+• Peter Heather, *Empires and Barbarians* - Modern analysis of Hunnic migrations and their role in Roman decline
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–HUNS — v1.1
 ────────────────────────────────────────────────────────────

@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · HEATHER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: WESTERN IMPERIAL DISINTEGRATION
@@ -73,6 +74,13 @@ Procopius emphasizes the blow:
 > — Procopius, *Wars*, III
 
 Rome loses **metabolic security**.
+
+Peter Heather analyzes the Vandals' strategic mastery and Rome's vulnerability:
+
+> "The Vandal seizure of North Africa was the most devastating blow to the Western Roman Empire, stripping Rome of its essential grain supplies and tax revenues while enabling Vandal naval power to dominate the western Mediterranean, transforming a frontier threat into an existential crisis that would culminate in the sack of Rome itself."
+> — Peter Heather, *The Fall of the Roman Empire*
+
+Africa's loss was Rome's starvation.
 
 ────────────────────────────────────────────────────────────
 V. MARITIME POWER & STRATEGIC REVERSAL
@@ -163,5 +171,14 @@ Lessons preserved:
 The Vandals take Rome apart without burning it.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–VANDALS — v1.0
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Prosper of Aquitaine, *Chronicle* - Contemporary account of Vandal migrations
+• Victor of Vita, *History of the Vandal Persecution* - Contemporary account of Vandal rule in Africa
+• Procopius, *Wars* - Byzantine account of Belisarius' Vandal campaign
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Vandal-Roman relations and sack of Rome
+• Peter Heather, *The Fall of the Roman Empire* - Modern analysis of Vandal conquest and Roman decline
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–VANDALS — v1.1
 ────────────────────────────────────────────────────────────

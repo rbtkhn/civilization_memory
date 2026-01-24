@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · HEATHER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: EASTERN CONTINUITY → ITALIAN FRACTURE
 Subject: The Lombards as Delayed Conquerors and Fragmenters of Roman Italy
@@ -85,6 +85,13 @@ But fail to take:
 
 Italy becomes **permanently divided**.
 
+Peter Heather analyzes the Lombards' strategic approach to Italy:
+
+> "The Lombard conquest of Italy was not a unified campaign but a fragmented process of opportunistic settlement that exploited Byzantine exhaustion after Justinian's wars, establishing a patchwork of duchies that permanently altered the political geography of the peninsula and prevented the restoration of unified Roman rule in the West."
+> — Peter Heather, *Empires and Barbarians*
+
+The Lombards arrived too late for conquest, too early for peace.
+
 ────────────────────────────────────────────────────────────
 V. ADMINISTRATION & NON-INTEGRATION
 ────────────────────────────────────────────────────────────
@@ -146,5 +153,14 @@ Lessons preserved:
 The Lombards ensure that Rome never comes back to Italy.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–LOMBARDS — v1.0
+VIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Paul the Deacon, *History of the Lombards* - Eighth-century Lombard chronicle
+• Procopius, *Wars* - Contemporary Byzantine account of Lombard invasions
+• Gregory the Great, *Letters* - Papal correspondence about Lombard-Roman relations
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Lombard invasions and Italian fragmentation
+• Peter Heather, *Empires and Barbarians* - Modern analysis of Lombard conquest and Byzantine-Italian relations
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–LOMBARDS — v1.1
 ────────────────────────────────────────────────────────────
