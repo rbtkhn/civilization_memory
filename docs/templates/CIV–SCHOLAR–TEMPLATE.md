@@ -1,9 +1,9 @@
-CIV–SCHOLAR–TEMPLATE — v2.1
+CIV–SCHOLAR–TEMPLATE — v2.2
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.0
-Upgrade Type: ADDITIVE · COMMUNICATION REGISTER + EPHEMERAL LAYER
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.1
+Upgrade Type: ADDITIVE · ANOMALY FLAG PROTOCOL
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
 Last Update: January 2026
@@ -193,6 +193,46 @@ Scholar files MAY NOT:
 Violation escalates to Template breach.
 
 ────────────────────────────────────────────────────────────
+V.B SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
+────────────────────────────────────────────────────────────
+When SCHOLAR constraints appear to conflict with MEM facts:
+
+AUTHORITY HIERARCHY (ABSOLUTE):
+• MEM facts are AUTHORITATIVE
+• SCHOLAR constraints are INTERPRETIVE
+• MEM evidence may NOT be overridden by SCHOLAR patterns
+
+ANOMALY FLAG PROTOCOL:
+When a MEM assertion contradicts an established SCHOLAR pattern:
+
+1. SCHOLAR MUST flag the anomaly explicitly
+2. SCHOLAR may NOT silently ignore the MEM
+3. SCHOLAR may NOT modify the MEM to fit the pattern
+4. SCHOLAR MUST record the tension as an SCL entry
+
+ANOMALY FLAG FORMAT:
+┌─────────────────────────────────────────────────────────────┐
+│  ANOMALY FLAG                                               │
+│  MEM: [MEM file ID]                                         │
+│  SCHOLAR Pattern: [Pattern ID]                              │
+│  Conflict: [Description of incompatibility]                 │
+│  Resolution: PENDING / PATTERN_REVISED / MEM_CONFIRMED      │
+│  Action: [What happens next]                                │
+└─────────────────────────────────────────────────────────────┘
+
+RESOLUTION OPTIONS:
+• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
+• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
+• SCL_CREATED: Contradiction preserved, no resolution required
+
+FORBIDDEN:
+• Silent reconciliation (pattern absorbs MEM without flag)
+• Authority substitution (pattern overrides MEM)
+• Implicit veto (pattern blocks MEM from consideration)
+
+MEM facts remain authoritative. SCHOLAR adapts.
+
+────────────────────────────────────────────────────────────
 VI. CIVILIZATION-SCOPED PROMOTION
 ────────────────────────────────────────────────────────────
 Phase promotion is CIVILIZATION-LOCAL.
@@ -301,11 +341,14 @@ XI. VERSIONING & GOVERNANCE
 • All phase changes require explicit authorization
 • All RLL bindings require explicit authorization
 
+v2.2 ADDITIONS:
+• Scholar ↔ MEM Conflict Handling (Anomaly Flag Protocol)
+
 v2.1 ADDITIONS:
 • Communication Register integration
 • Ephemeral Observation Layer support
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.1
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.2
 ────────────────────────────────────────────────────────────
