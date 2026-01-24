@@ -307,7 +307,7 @@ breaks the analytical framework.
   Breaks: Cannot explain the historical moment of Dniester incorporation or
   the administrative processes that transformed its status.
 
-• MEM–RUSSIA–POTEMPKIN
+• MEM–RUSSIA–POTEMKIN
   Dependency: Dniester's military and administrative integration is
   structurally dependent on Potemkin's frontier governance methods. The river's
   transformation from contested boundary to integrated territory requires

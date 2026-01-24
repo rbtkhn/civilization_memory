@@ -1,4 +1,4 @@
-MEM–RUSSIA–POTEMPKIN — v2.7
+MEM–RUSSIA–POTEMKIN — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
@@ -277,7 +277,7 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XI. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–POTEMPKIN
+MEM INGEST CONFIRMED — MEM–RUSSIA–POTEMKIN
 Status: ACTIVE
 Exploration options available.
 
@@ -309,5 +309,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Sebag Montefiore, Simon. *Prince of Princes: The Life of Potemkin*. London: Weidenfeld & Nicolson, 2000.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–POTEMPKIN v2.7
+END OF FILE — MEM–RUSSIA–POTEMKIN v2.7
 ────────────────────────────────────────────────────────────

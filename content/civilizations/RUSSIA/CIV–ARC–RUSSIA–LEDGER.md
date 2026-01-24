@@ -220,7 +220,7 @@ MONTEFIORE, Simon Sebag
   *Catherine the Great and Potemkin* (2000)
   ARC-T: ARC-T-MODERN
   Citations: 5
-  MEMs: NICHOLAS–II, POTEMPKIN, DYNASTY–ROMANOV, +2 others
+  MEMs: NICHOLAS–II, POTEMKIN, DYNASTY–ROMANOV, +2 others
 
 APPLEBAUM, Anne
   *Gulag: A History* (2003)
@@ -250,7 +250,7 @@ BILLINGTON, James H. | *The Icon and the Axe* (1966)
   Citations: 4 | MEMs: THIRD–ROME, ORTHODOX–CHRISTIANITY, +2 others
 
 DE MADARIAGA, Isabel | *Russia in the Age of Catherine the Great* (1981)
-  Citations: 4 | MEMs: CATHERINE–GREAT, LAW–SERFDOM, POTEMPKIN, PANIN
+  Citations: 4 | MEMs: CATHERINE–GREAT, LAW–SERFDOM, POTEMKIN, PANIN
 
 LINCOLN, W. Bruce | *The Conquest of a Continent: Siberia* (1994)
   Citations: 4 | MEMs: SIBERIA, LAW–EMANCIPATION, +2 others

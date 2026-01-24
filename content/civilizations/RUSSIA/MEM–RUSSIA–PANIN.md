@@ -320,7 +320,7 @@ IX. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–ELIZABETH — diplomatic inheritance
 • MEM–RUSSIA–CATHERINE–GREAT — expansion over equilibrium
-• MEM–RUSSIA–POTEMPKIN — territorial counter-logic
+• MEM–RUSSIA–POTEMKIN — territorial counter-logic
 • MEM–RUSSIA–SEVEN–YEARS — system shock context
 • MEM–RUSSIA–PETER–III — succession transition
 • MEM–RUSSIA–PAUL–I — tutor relationship
