@@ -179,8 +179,8 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian:
 • MEM–RUSSIA–IVAN–IV — reign context and Oprichnina
-• MEM–RUSSIA–WAR–GREAT–NORTHERN — contrast: success after preparation
-• MEM–RUSSIA–WAR–NARVA — contrast: early failure leading to regeneration
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — contrast: success after preparation
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA — contrast: early failure leading to regeneration
 • MEM–RUSSIA–TIME–TROUBLES — preconditioning for collapse
 • MEM–RUSSIA–SWEDEN — Baltic rivalry
 • MEM–RUSSIA–POLAND — multi-front conflict

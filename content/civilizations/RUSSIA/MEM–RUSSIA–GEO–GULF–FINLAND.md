@@ -357,7 +357,7 @@ connection breaks the analytical framework.
   blocked Russian access, or why Russian seizure of the Gulf was
   strategically significant.
 
-• MEM–RUSSIA–WAR–GREAT–NORTHERN
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA
   Dependency: Gulf of Finland's incorporation into Russian control is
   structurally dependent on the Great Northern War. The Gulf's role as
   Russian-controlled territory requires understanding of the war's

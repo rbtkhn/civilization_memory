@@ -152,8 +152,8 @@ Tension preserved without verdict.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian:
-• MEM–RUSSIA–WAR–GREAT–NORTHERN — war context and validation framework
-• MEM–RUSSIA–WAR–NARVA — humiliation reversed by Poltava
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — war context and validation framework
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA — humiliation reversed by Poltava
 • MEM–RUSSIA–PETER–GREAT — modernization project and reform validation
 • MEM–RUSSIA–SWEDEN — strategic rivalry and military challenge
 
