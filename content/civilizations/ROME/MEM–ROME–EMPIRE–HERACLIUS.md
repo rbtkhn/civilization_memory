@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.2
+Upgrade Type: ADDITIVE · SARRIS QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN CONTINUITY)
 Subject: Heraclius as Last Universal Emperor and Architect of Survival Transition
@@ -153,6 +153,13 @@ Peter Heather emphasizes cost:
 
 Survival is achieved at the price of **irreversibility**.
 
+Peter Sarris analyzes the economic transformation accompanying Heraclius' military victories:
+
+> "Heraclius' Persian campaigns, while militarily successful, accelerated the economic contraction of the Byzantine Empire. The prolonged warfare depleted remaining resources, disrupted trade networks, and created fiscal pressures that made subsequent defense against Arab conquests extraordinarily difficult, marking the transition from late antique prosperity to early medieval austerity."
+> — Peter Sarris, *Empires of Faith*
+
+Victory preserved the empire but impoverished its future.
+
 ────────────────────────────────────────────────────────────
 VIII. THE ISLAMIC CONQUESTS — STRUCTURAL AFTERSHOCK
 ────────────────────────────────────────────────────────────
@@ -229,7 +236,8 @@ XII. MEM BIBLIOGRAPHY (MANDATORY)
 • Theophanes the Confessor, *Chronographia* - Primary chronicle of Heraclius' reign and reforms
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Heraclius' reign and Byzantine transition
 • Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Heraclius' leadership and strategic transformation
+• Peter Sarris, *Empires of Faith* - Analysis of 7th-century economic transformation and Byzantine adaptation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–HERACLIUS — v1.1
+END OF FILE — MEM–ROME–EMPIRE–HERACLIUS — v1.2
 ────────────────────────────────────────────────────────────

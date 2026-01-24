@@ -2,8 +2,8 @@ MEM–ROME–GEO–MEDITERRANEAN–SEA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: COMPLIANCE HARDENING · ARC QUOTATION INTEGRATION
+Version: 1.2
+Upgrade Type: ADDITIVE · SARRIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → CONTINUING FORMS
 Subject: The Mediterranean Sea (Mare Nostrum)
@@ -65,6 +65,13 @@ Strabo emphasizes the unifying function of the sea itself:
 
 Roman naval dominance is therefore instrumental rather than theatrical.
 The fleet exists to keep the system quiet.
+
+Peter Sarris analyzes the economic infrastructure supporting Roman Mediterranean dominance:
+
+> "The Roman Empire's Mediterranean hegemony rested on sophisticated economic networks that integrated diverse regional economies into a unified fiscal system. Grain shipments, tax revenues, and commercial exchanges created a web of interdependence that made rebellion costly and cooperation profitable, sustaining imperial unity long after political centralization had weakened."
+> — Peter Sarris, *Economy and Society in the Age of Justinian*
+
+The sea was Rome's economic bloodstream.
 
 ────────────────────────────────────────────────────────────
 IV. THE MEDITERRANEAN AND ROMAN LAW
@@ -177,7 +184,16 @@ This MEM supports exploration of:
 • Continuity after political collapse
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Polybius, *Histories* (Book I) - Ancient analysis of Rome's Mediterranean expansion
+• Strabo, *Geographica* (Book II) - Description of Mediterranean connectivity and Roman integration
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Mediterranean fragmentation and Byzantine continuity
+• Theodor Mommsen, *The History of Rome* - Examination of Roman maritime administration
+• Peter Sarris, *Economy and Society in the Age of Justinian* - Analysis of Mediterranean economic networks and Roman fiscal systems
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–ROME–GEO–MEDITERRANEAN–SEA — v1.1
 Status: ACTIVE

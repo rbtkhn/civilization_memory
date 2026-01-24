@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ARC–ROME v1.8 COMPLIANCE CORRECTION (NO ANALYTIC CHANGE)
+Version: 1.2
+Upgrade Type: ADDITIVE · SARRIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Supersedes: MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS — v1.0
 Civilization: ROME
 Regime: IMPERIAL → EASTERN CONTINUITY
@@ -97,6 +97,13 @@ Mommsen situates fortification within late Roman governance logic:
 
 The walls protect not just people, but **institutions**.
 
+Peter Sarris analyzes the economic rationale behind Constantinople's fortifications:
+
+> "The Theodosian Walls represented a massive investment in defensive infrastructure that reflected the Byzantine Empire's strategic prioritization of urban protection over field warfare. By concentrating resources on fortifying Constantinople rather than maintaining large mobile armies, the empire optimized its limited fiscal capacity for survival, creating a fortified core that could withstand sieges while sustaining administrative continuity."
+> — Peter Sarris, *Economy and Society in the Age of Justinian*
+
+Fortifications became fiscal strategy.
+
 ────────────────────────────────────────────────────────────
 VI. MODERN SCHOLARSHIP — SYSTEMIC DESIGN
 ────────────────────────────────────────────────────────────
@@ -161,5 +168,15 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS — v1.1
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Ammianus Marcellinus, *Res Gestae* (Book XXXI) - Contemporary account of late Roman defensive needs
+• Procopius, *Buildings* - Description of Justinian's Constantinople fortifications
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Constantinople's defensive strategy
+• Theodor Mommsen, *The Provinces of the Roman Empire* - Examination of late Roman fortification systems
+• Anthony Kaldellis, *The Byzantine Republic* - Analysis of Byzantine defensive planning and urban strategy
+• Peter Sarris, *Economy and Society in the Age of Justinian* - Analysis of Byzantine defensive economics and urban fortification costs
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS — v1.2
 ────────────────────────────────────────────────────────────

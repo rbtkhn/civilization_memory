@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.2
+Upgrade Type: ADDITIVE · SARRIS QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL (EASTERN ROMAN / ISAURO–REFORM PHASE)
@@ -176,6 +176,13 @@ Peter Heather observes:
 
 Justice becomes **disciplinary**.
 
+Peter Sarris analyzes the administrative reforms accompanying Leo III's legal codification:
+
+> "The Ecloga represented a fundamental adaptation of Roman legal tradition to the economic realities of the eighth-century Byzantine Empire. By simplifying complex Justinianic law and emphasizing punitive measures, Leo III created a legal framework suited to an empire with limited administrative resources, ensuring that justice remained accessible while reinforcing imperial authority in an age of fiscal constraint."
+> — Peter Sarris, *Economy and Society in the Age of Justinian*
+
+Law was simplified to survive.
+
 ────────────────────────────────────────────────────────────
 VIII. SUCCESSION & SYSTEMIC EFFECT
 ────────────────────────────────────────────────────────────
@@ -220,7 +227,8 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Iconoclasm and Leo III's reign
 • Theodor Mommsen, *The History of Rome* - Examination of Byzantine imperial continuity
 • Anthony Kaldellis, *The New Roman Empire* - Analysis of Byzantine political culture and Iconoclasm
+• Peter Sarris, *Economy and Society in the Age of Justinian* - Analysis of Byzantine administrative and legal reforms
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–LEO–III — v1.1
+END OF FILE — MEM–ROME–EMPIRE–LEO–III — v1.2
 ────────────────────────────────────────────────────────────

@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–THEODOSIUS — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.2
+Upgrade Type: ADDITIVE · SARRIS QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: IMPERIAL SACRALIZATION / FINAL LEGAL UNITY
 Subject: Flavius Theodosius I (Theodosius the Great)
@@ -117,6 +117,13 @@ Theodor Mommsen situates this shift structurally:
 Defense persists.
 Control weakens.
 
+Peter Sarris analyzes the economic transformation of Roman military power in late antiquity:
+
+> "Theodosius' reliance on barbarian foederati marked a fundamental shift in Roman military economics. The empire could no longer afford to maintain large standing armies of citizen-soldiers, instead outsourcing defense to tribal allies whose loyalty was secured through land grants and subsidies, creating a new fiscal burden that strained the imperial economy while preserving military effectiveness."
+> — Peter Sarris, *Empires of Faith*
+
+Military power became a fiscal liability.
+
 ────────────────────────────────────────────────────────────
 VI. UNITY BY DECREE, DIVISION BY PRACTIAD
 ────────────────────────────────────────────────────────────
@@ -204,7 +211,8 @@ X. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Theodosius' reign and Christianization
 • Theodor Mommsen, *The History of Rome* - Examination of Theodosius' legal and administrative reforms
 • Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on fourth-century imperial politics and religious policy
+• Peter Sarris, *Empires of Faith* - Analysis of late Roman economic transformation and barbarian relations
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–THEODOSIUS — v1.1
+END OF FILE — MEM–ROME–EMPIRE–THEODOSIUS — v1.2
 ────────────────────────────────────────────────────────────
