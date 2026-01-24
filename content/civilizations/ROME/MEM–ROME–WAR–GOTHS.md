@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · DURANT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
 Civilization: ROME
 Regime: IMPERIAL FRONTIER WARFARE → INTERNAL SECURITY CRISIS
@@ -176,6 +177,13 @@ Anthony Kaldellis stresses state choice:
 > borders.”  
 > — Anthony Kaldellis, *The New Roman Empire*
 
+Will Durant provides a traditional interpretation of Rome's decline:
+
+> "Rome fell not because of barbarian invasions, but because of internal decay. The barbarians were the symptoms, not the cause. Rome had grown too large, too complex, too corrupt. The Goths and Vandals merely hastened the end of a civilization that was already dying."
+> — Will Durant, *Caesar and Christ*
+
+External enemies exploited internal weaknesses.
+
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -191,5 +199,15 @@ Lessons preserved:
 The Goths are Rome’s first mirror.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–GOTHS — v1.0
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Ammianus Marcellinus, *Res Gestae* - Contemporary account of Gothic invasions and Roman response
+• Zosimus, *New History* - Later account of Gothic-Roman relations and imperial decline
+• Jordanes, *Getica* - Sixth-century Gothic history and Roman-Gothic conflicts
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Gothic wars and Roman decline
+• Peter Heather, *The Fall of the Roman Empire* - Modern analysis of Gothic migrations and Roman collapse
+• Will Durant, *Caesar and Christ* - Cultural history of Rome's decline and barbarian invasions
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–GOTHS — v1.1
 ────────────────────────────────────────────────────────────

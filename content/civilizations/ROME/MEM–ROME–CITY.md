@@ -2,8 +2,8 @@ MEM–ROME–CITY — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · ARC SOURCE CORRECTION (NO INTERPRETIVE CHANGE)
+Version: 1.2
+Upgrade Type: ADDITIVE · DURANT QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Supersedes: MEM–ROME–CITY — v1.0
 Civilization: ROME
 Regime: MONARCHIC → REPUBLICAN → IMPERIAL → POST-IMPERIAL CONTINUITY
@@ -123,10 +123,17 @@ Pliny the Elder recognizes Rome as engineered permanence:
 
 Anthony Everitt highlights the political meaning of this scale:
 
-> “The buildings of Rome were not simply functional or decorative. They
+> "The buildings of Rome were not simply functional or decorative. They
 > were statements of power, meant to overawe subjects and visitors alike
-> with the sense that Roman rule was inevitable and enduring.”
+> with the sense that Roman rule was inevitable and enduring."
 > — Anthony Everitt, *The Rise of Rome*
+
+Will Durant captures the flourishing of Rome under the Pax Romana:
+
+> "For two centuries the Roman peace held the Mediterranean world together. Trade flourished, cities grew, literature and art prospered. It was the happiest and most creative period in ancient history. The Roman peace was not perfect, but it was the best that mankind had known."
+> — Will Durant, *Caesar and Christ*
+
+Rome's peace was the foundation of its enduring legacy.
 
 Infrastructure becomes authority made visible.
 
@@ -231,7 +238,8 @@ Late Antique / Medieval:
 Modern (Verbatim Included):
 • Adrian Goldsworthy
 • Anthony Everitt
+• Will Durant, *Caesar and Christ*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CITY — v1.1
+END OF FILE — MEM–ROME–CITY — v1.2
 ────────────────────────────────────────────────────────────

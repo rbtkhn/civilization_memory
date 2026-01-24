@@ -2,8 +2,8 @@ MEM–ROME–AUGUSTUS — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADD-ONLY · FULL ACADEMIC QUOTATION COMPLIANAD
+Version: 1.4
+Upgrade Type: ADDITIVE · DURANT QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: PRINCIPATE (CONCEALED MONARCHY)
 Subject: Gaius Octavius (Augustus)
@@ -129,10 +129,17 @@ Augustus embeds authority into private life:
 
 Goldsworthy notes the cost:
 
-> “Augustus’ moral reforms strengthened his authority in the short term,
-> but by tying public order to personal virtue, they reduced the system’s
-> tolerance for weaker or less disciplined successors.”
+> "Augustus' moral reforms strengthened his authority in the short term,
+> but by tying public order to personal virtue, they reduced the system's
+> tolerance for weaker or less disciplined successors."
 > — Adrian Goldsworthy, *Augustus*
+
+Will Durant offers a classic assessment of Augustus' governmental achievement:
+
+> "Augustus created the greatest government the Western world had ever seen. He gave Rome peace for two hundred years, and in that peace he built an administration that lasted for centuries. He was not a spectacular figure, but he was the most competent statesman that Rome ever produced."
+> — Will Durant, *Caesar and Christ*
+
+Competence, not charisma, was Augustus' true legacy.
 
 ────────────────────────────────────────────────────────────
 VII. SUCCESSION WITHOUT LAW
@@ -202,7 +209,8 @@ Secondary (Academic References):
 • Theodor Mommsen
 • Adrian Goldsworthy
 • Anthony Everitt
+• Will Durant, *Caesar and Christ*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–AUGUSTUS — v1.3
+END OF FILE — MEM–ROME–AUGUSTUS — v1.4
 ────────────────────────────────────────────────────────────

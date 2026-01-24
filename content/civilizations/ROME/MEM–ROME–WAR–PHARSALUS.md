@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.2
+Upgrade Type: ADDITIVE · KEEGAN & DURANT QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: LATE REPUBLICAN CIVIL WAR → PERSONAL SOVEREIGNTY
 Subject: The Battle of Pharsalus as the Irreversible Breakpoint of the Republic
@@ -232,6 +232,13 @@ power.
 
 Military loyalty precedes constitutional legitimacy.
 
+Will Durant provides a classic assessment of Caesar's transformative character:
+
+> "Caesar burned with a fire that would conquer the world. He was not a good man by the standards of any faith or philosophy, but he was a great man by the only test that history can apply—the test of power and success. He carried the Roman Republic to its highest point of glory, and prepared the way for the Empire."
+> — Will Durant, *Caesar and Christ*
+
+Caesar's greatness lay not in morality, but in achievement.
+
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
@@ -241,7 +248,8 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Theodor Mommsen, *The History of Rome* - Analysis of the Republic's collapse
 • Adrian Goldsworthy, *Caesar: Life of a Colossus* - Modern biography of Caesar
 • John Keegan, *The Mask of Command* - Analysis of Caesar's generalship and command style
+• Will Durant, *Caesar and Christ* - Cultural history of Caesar and the late Republic
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–PHARSALUS — v1.1
+END OF FILE — MEM–ROME–WAR–PHARSALUS — v1.2
 ────────────────────────────────────────────────────────────

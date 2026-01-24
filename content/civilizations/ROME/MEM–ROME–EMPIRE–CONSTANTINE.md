@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–CONSTANTINE — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · WIEMER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.2
+Upgrade Type: ADDITIVE · DURANT QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: IMPERIAL TRANSFORMATION / SACRAL–ADMINISTRATIVE MONARCHY
 Subject: Flavius Valerius Constantinus (Constantine I)
@@ -102,6 +102,13 @@ Hans-Ulrich Wiemer provides critical insight into Constantine's religious transf
 > — Hans-Ulrich Wiemer, *Libanius on Constantine*
 
 The emperor becomes theology's servant to become its master.
+
+Will Durant offers a classic assessment of Constantine's historical significance:
+
+> "Constantine was the most important emperor since Augustus. He gave Christianity the protection of the state, and thereby changed the course of Western history. His motives were mixed—political as well as religious—but his act was decisive. The Roman Empire became Christian, and Christendom was born."
+> — Will Durant, *Caesar and Christ*
+
+Constantine's legacy was not just political, but spiritual.
 
 ────────────────────────────────────────────────────────────
 V. CONSTANTINOPLE: AUTHORITY RELOCATED
@@ -215,7 +222,8 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Constantine's reign and the rise of Christianity
 • Theodor Mommsen, *The History of Rome* - Examination of Constantine's administrative and legal reforms
 • Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on Constantine's policies and legacy
+• Will Durant, *Caesar and Christ* - Cultural history of Constantine and the rise of Christianity
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–CONSTANTINE — v1.1
+END OF FILE — MEM–ROME–EMPIRE–CONSTANTINE — v1.2
 ────────────────────────────────────────────────────────────
