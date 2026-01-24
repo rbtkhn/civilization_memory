@@ -8,7 +8,7 @@ Upgrade Type: ADDITIVE · CEO PROMOTION PROVENANCE
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Compatibility: CIV–MEM–CORE v2.0+
 Last Update: January 2026
-Word Count: ~4,500
+WORDCOUNT: ~4,500
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
@@ -17,7 +17,7 @@ This version adds provenance tracking for MEMs promoted from
 Current Event Observations (CEOs).
 
 NEW SECTION:
-• CEO → MEM Promotion Provenance (Section XXI)
+• CEO → MEM Promotion Provenance (Section XX)
 • Documents observation-to-canonical pathway
 • Required only for MEMs promoted from ephemeral observations
 • Cross-references EPHEMERAL–OBSERVATION–PROTOCOL and CIV–CEO–TEMPLATE
@@ -280,7 +280,7 @@ CRITICAL CATEGORY (Historiographical Evaluation):
 • Optional for straightforward factual subjects
 
 ────────────────────────────────────────────────────────────
-VIII.F 20% COMPLIANCE MATRIX
+VIII.B 20% COMPLIANCE MATRIX
 ────────────────────────────────────────────────────────────
 For MEMs voluntarily adopting 20% quote enhancement:
 
@@ -377,6 +377,8 @@ SCHOLARLY DIVERSITY REQUIREMENT:
 • Quotes must represent multiple scholarly perspectives
 • Single-author dominance prohibited
 • Must include both supportive and challenging viewpoints
+
+────────────────────────────────────────────────────────────
 IX. SECONDARY SOURCE ENTANGLEMENT
 ────────────────────────────────────────────────────────────
 Secondary quotations MUST be analytically integrated.
@@ -527,6 +529,10 @@ REQUIREMENTS FOR PROMOTED MEMS:
 • Must achieve 20% EQS with upgraded sources
 • Original CEO sources alone are insufficient
 • Provenance block does not reduce evidentiary standards
+
+ENFORCEMENT (BINDING):
+If a MEM is promoted from a CEO, omission of this provenance block
+INVALIDATES CANONICAL LOCK.
 
 See: EPHEMERAL–OBSERVATION–PROTOCOL VI (CEO → MEM Promotion Path)
 See: CIV–CEO–TEMPLATE XI (Promotion Requirements)
