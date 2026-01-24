@@ -1,25 +1,42 @@
-CIV–SCHOLAR–PROTOCOL — v2.0.1
+CIV–SCHOLAR–PROTOCOL — v2.1
 Civilizational Strategy Codex · Scholar Operating Law
-Procedural Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
+Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 2.0.1
+Version: 2.1
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
-Supersedes: CIV–SCHOLAR–PROTOCOL v2.0
-Upgrade Type: ADDITIVE · SYNTHESIS SCOPE CLARIFICATION
+Supersedes: CIV–SCHOLAR–PROTOCOL v2.0.1
+Upgrade Type: ADDITIVE · TEMPLATE v2.2 ALIGNMENT
+Compatibility: CIV–SCHOLAR–TEMPLATE v2.2 · CIV–CORE–TEMPLATE v2.0
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1) — TEMPLATE v2.2 ALIGNMENT
+────────────────────────────────────────────────────────────
+This version aligns CIV–SCHOLAR–PROTOCOL with CIV–SCHOLAR–TEMPLATE v2.2.
+
+v2.1 introduces the following ADDITIVE changes:
+
+• CRITICAL FIX: LEARN MODE redefined as intellectual creative work
+  (resolves contradiction with CIV–SCHOLAR–TEMPLATE v2.2)
+• Communication Register integration (Mercouris voice specification)
+• Ephemeral Observation Layer support (CEO/EOR handling)
+• LEARN OGE Categories systematization (6 categories)
+• SCHOLAR ↔ MEM Conflict Handling (Anomaly Flag Protocol)
+• Template compatibility declaration added
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0.1) — SYNTHESIS SCOPE CLARIFICATION
 ────────────────────────────────────────────────────────────
-This version preserves ALL authority hierarchy, phase discipline,
-RLL binding rules, OGE enforcement, and lock semantics from v2.0.
-
-v2.0.1 introduces the following ADDITIVE clarifications:
+v2.0.1 introduced:
 
 • Synthesis is affirmed as a primary LEARN MODE operation
 • Phase II constrains the *form* of synthesis, not its existence
@@ -27,10 +44,6 @@ v2.0.1 introduces the following ADDITIVE clarifications:
 • Prescriptive, optimizing, or closure-seeking synthesis remains forbidden
 • OGE is authorized to surface synthesis frequently in LEARN MODE
 • Synthesis is formally distinguished from doctrinal closure
-
-No authority is weakened.
-No phase boundary is relaxed.
-No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -271,7 +284,16 @@ Forbidden:
 • Producing canonical outputs
 • Narrative closure
 
-LEARN MODE is procedural, not conversational.
+LEARN MODE CHARACTER (CORRECTED · v2.1):
+LEARN MODE is intellectual creative work, not procedural logging.
+It is a historian in the archive, working through evidence, discovering patterns.
+
+Communication style: History monograph, engaged intellectual discourse.
+Voice: Full Mercouris (recursive layering, structural reveals).
+Tone: Exploratory but serious, creative but disciplined.
+Finality: Provisional—insights emerge, subject to revision.
+
+See COMMUNICATION–REGISTER–PROTOCOL for full specification.
 
 ────────────────────────────────────────────────────────────
 VIII. WRITE MODE — OUTPUT WITHOUT LEARNING
@@ -363,7 +385,85 @@ ACTIVE does not imply writable.
 Silence does not imply permission.
 
 ────────────────────────────────────────────────────────────
-XIII. FINAL AUTHORITY CLAUSE
+XIII. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.1)
+────────────────────────────────────────────────────────────
+When SCHOLAR constraints appear to conflict with MEM facts:
+
+AUTHORITY HIERARCHY (ABSOLUTE):
+• MEM facts are AUTHORITATIVE
+• SCHOLAR constraints are INTERPRETIVE
+• MEM evidence may NOT be overridden by SCHOLAR patterns
+
+ANOMALY FLAG PROTOCOL:
+When a MEM assertion contradicts an established SCHOLAR pattern:
+
+1. SCHOLAR MUST flag the anomaly explicitly
+2. SCHOLAR may NOT silently ignore the MEM
+3. SCHOLAR may NOT modify the MEM to fit the pattern
+4. SCHOLAR MUST record the tension as an SCL entry
+
+RESOLUTION OPTIONS:
+• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
+• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
+• SCL_CREATED: Contradiction preserved, no resolution required
+
+FORBIDDEN:
+• Silent reconciliation (pattern absorbs MEM without flag)
+• Authority substitution (pattern overrides MEM)
+• Implicit veto (pattern blocks MEM from consideration)
+
+MEM facts remain authoritative. SCHOLAR adapts.
+
+────────────────────────────────────────────────────────────
+XIV. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
+────────────────────────────────────────────────────────────
+SCHOLAR operates in two layers:
+
+CANONICAL LAYER:
+• MEM-sourced learning
+• Standard LER creation
+• Pattern and RLL binding permitted
+• Persistent SCHOLAR state changes
+
+EPHEMERAL LAYER:
+• CEO-sourced (current events) learning
+• EOR creation (not LER)
+• No binding permitted
+• Provisional observations only
+
+Governed by: EPHEMERAL–OBSERVATION–PROTOCOL v1.0
+
+LAYER INDICATOR:
+• [LEARN: CANONICAL] — historical sources
+• [LEARN: EPHEMERAL] — current events
+
+Ephemeral observations may reference canonical patterns
+but may NOT modify canonical SCHOLAR state.
+
+CEO files follow CIV–CEO–TEMPLATE.
+
+────────────────────────────────────────────────────────────
+XV. LEARN OGE CATEGORIES (NEW · v2.1)
+────────────────────────────────────────────────────────────
+LEARN mode uses OGE (Option Generation Engine) to direct discovery.
+
+The user acts as research director, guiding investigation.
+
+LEARN OGE CATEGORIES:
+
+1. INGESTION OPTIONS — What sources to bring in
+2. EXPLORATION OPTIONS — What to investigate
+3. ANALYSIS OPTIONS — How to analyze
+4. SYNTHESIS OPTIONS — What to formalize
+5. TRANSITION OPTIONS — Mode changes
+6. OBSERVATION OPTIONS — Current events (ephemeral layer)
+
+See COMMUNICATION–REGISTER–PROTOCOL IV.F for full specification.
+
+LEARN OGE answers: "What would you like me to investigate next?"
+
+────────────────────────────────────────────────────────────
+XVI. FINAL AUTHORITY CLAUSE
 ────────────────────────────────────────────────────────────
 This protocol is CANONICAL.
 
@@ -376,5 +476,5 @@ No section may be removed.
 No authority may be weakened.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PROTOCOL v2.0.1
+END OF FILE — CIV–SCHOLAR–PROTOCOL v2.1
 ────────────────────────────────────────────────────────────
