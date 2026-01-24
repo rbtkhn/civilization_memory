@@ -2,8 +2,8 @@ MEM–ROME–EMPIRE–TRAJAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.4
+Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Supersedes: MEM–ROME–TRAJAN — v1.0
 Civilization: ROME
 Regime: IMPERIAL EXPANSION / PEAK TERRITORIAL COMMAND
@@ -248,7 +248,8 @@ XIII. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Trajan's reign and imperial expansion
 • Theodor Mommsen, *The History of Rome* - Examination of Trajan's administration and strategic legacy
 • Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Trajan's character and imperial style
+• John Keegan, *A History of Warfare* - Analysis of Roman imperial military evolution and Trajan's campaigns
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–TRAJAN — v1.3
+END OF FILE — MEM–ROME–EMPIRE–TRAJAN — v1.4
 ────────────────────────────────────────────────────────────

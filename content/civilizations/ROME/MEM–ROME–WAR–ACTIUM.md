@@ -2,8 +2,8 @@ MEM–ROME–WAR–ACTIUM — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE · CORRECTIVE SCOPE
+Version: 1.1
+Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: LATE REPUBLIC → PRINCIPATE TRANSITION
 Subject: The Battle of Actium
@@ -169,6 +169,7 @@ Secondary:
 • Adrian Goldsworthy
 • Werner Eck
 • Pat Southern
+• John Keegan, *A History of Warfare*
 
 ────────────────────────────────────────────────────────────
 XI.a VERBATIM PRIMARY-SOURCE EXCERPTS

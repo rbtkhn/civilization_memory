@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 COMPLIANCE VERIFIED
+Version: 1.1
+Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + MEM BIBLIOGRAPHY
 Civilization: ROME
 Regime: LATE REPUBLICAN CIVIL WAR → PERSONAL SOVEREIGNTY
 Subject: The Battle of Pharsalus as the Irreversible Breakpoint of the Republic
@@ -233,5 +233,15 @@ power.
 Military loyalty precedes constitutional legitimacy.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–WAR–PHARSALUS — v1.0
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Julius Caesar, *Commentarii de Bello Civili* - Primary account of the civil war and Pharsalus
+• Plutarch, *Life of Caesar* and *Life of Pompey* - Contemporary biographies of the protagonists
+• Appian, *Civil Wars* - Later historical account of the civil war period
+• Theodor Mommsen, *The History of Rome* - Analysis of the Republic's collapse
+• Adrian Goldsworthy, *Caesar: Life of a Colossus* - Modern biography of Caesar
+• John Keegan, *The Mask of Command* - Analysis of Caesar's generalship and command style
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–WAR–PHARSALUS — v1.1
 ────────────────────────────────────────────────────────────

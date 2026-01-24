@@ -2,8 +2,8 @@ MEM–ROME–REPUBLIC — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.2
+Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
 Civilization: ROME
 Regime: REPUBLICAN CONSTITUTION / CIVIC–MILITARY SYNTHESIS
 Subject: The Roman Republic
@@ -260,7 +260,8 @@ X. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of republican governance
 • Theodor Mommsen, *The History of Rome* - Examination of republican political structures
 • Anthony Everitt, *The Rise of Rome* - Modern analysis of republican institutions and political dynamics
+• John Keegan, *A History of Warfare* - Analysis of Roman military organization and citizen-army system
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–REPUBLIC — v1.1
+END OF FILE — MEM–ROME–REPUBLIC — v1.2
 ────────────────────────────────────────────────────────────
