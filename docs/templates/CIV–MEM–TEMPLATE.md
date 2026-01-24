@@ -134,16 +134,20 @@ Permitted:
 • Constraint recognition
 
 ────────────────────────────────────────────────────────────
-V. ARC SOURCE CATEGORIES (EVIDENCE-BASED)
+V. ERC — EVIDENCE ROLE CATEGORIES
 ────────────────────────────────────────────────────────────
-All quotations MUST derive from ARC evidence-based categories:
+All quotations MUST be classified by evidence role (ERC).
 
-A) PRIMARY — Direct evidence from the subject period
-B) CONTEXTUAL — Contemporary or near-contemporary analysis
-C) SECONDARY — Scholarly analysis and synthesis
-D) CRITICAL — Modern historiographical evaluation
+NOTE: ERC is ORTHOGONAL to ARC-Temporal categories.
+See NAMESPACE–CLARIFICATION for full disambiguation.
 
-Category definitions are governed by evidentiary purpose, not temporal origin.
+ERC-PRIMARY    — Direct evidence from the subject period
+ERC-CONTEXTUAL — Contemporary or near-contemporary analysis
+ERC-SECONDARY  — Scholarly analysis and synthesis
+ERC-CRITICAL   — Modern historiographical evaluation
+
+ERC classification is governed by evidentiary PURPOSE, not temporal origin.
+A modern author publishing a primary document is ERC-PRIMARY.
 
 ────────────────────────────────────────────────────────────
 VI. EVIDENCE QUALITY STANDARDS (EQS)
@@ -183,17 +187,20 @@ VI.C GOVERNANCE CONSEQUENCES
 • Failure does NOT invalidate ingestibility
 
 ────────────────────────────────────────────────────────────
-VII. EARLY MODERN SUBSTITUTION PROTOCOL
+VII. ARC-TEMPORAL SUBSTITUTION PROTOCOL
 ────────────────────────────────────────────────────────────
-If Category C (Early Modern) sources are REQUIRED but FAIL QTT–ARC:
+When ARC-T-EARLY-MOD (Early Modern period) sources are REQUIRED but FAIL QTT–ARC:
+
+NOTE: This protocol addresses ARC-Temporal (author period) substitution,
+not ERC (evidence role) substitution. See NAMESPACE–CLARIFICATION.
 
 • The system MUST first attempt approved ARC–[CIV] authors
 • If quality threshold is not met after reasonable search,
   substitution MAY occur
 
 SUBSTITUTION RULE:
-• Category C quotations MAY be replaced by ADDITIONAL Category D quotations
-• Category D quotations MUST meet HIGH analytical threshold
+• ARC-T-EARLY-MOD sources MAY be replaced by ADDITIONAL ARC-T-MODERN sources
+• Replacement sources MUST meet HIGH analytical threshold
 • Substitution MUST be explicitly declared
 
 MANDATORY DECLARATION (verbatim):
@@ -292,9 +299,34 @@ ANALYTICAL CONTENT FLOOR:
 • Quote integration sections count as analytical content
 • Pure quote blocks do not count toward analytical floor
 
-CALCULATION: Analytical words ÷ Total MEM words × 100 ≥ 70
+MATHEMATICAL DEFINITION (CANONICAL):
+────────────────────────────────────────────────────────────
+Let TOTAL = all words in MEM file
+Let Q = verbatim quote words (inside quotation marks)
+Let A = non-quote analytical words
+Let I = integrated quote analysis (words analyzing/contextualizing quotes)
 
-ENFORCEMENT: Automatic validation requires both 20% quotes AND 70% analysis.
+WORD SETS:
+• Q and A are DISJOINT (Q ∩ A = ∅)
+• TOTAL = Q + A
+• I ⊆ A (integration analysis is part of analytical words)
+
+COMPLIANCE RULES:
+• QUOTE REQUIREMENT: Q ≥ 0.20 × TOTAL
+• ANALYSIS REQUIREMENT: A ≥ 0.70 × TOTAL
+• COMBINED: Q + A = TOTAL, so Q ≤ 0.30 × TOTAL (implicit ceiling)
+
+VALID RANGE:
+• Q must be between 20% and 30% of TOTAL
+• A must be between 70% and 80% of TOTAL
+• Q + A = 100% (exact, no overlap)
+
+INTEGRATION CLARIFICATION:
+• Quote words (Q) are NEVER double-counted as analytical (A)
+• Words ABOUT quotes (analysis, context) count as A, not Q
+• Only verbatim text inside quotation marks counts as Q
+
+ENFORCEMENT: Automatic validation requires both Q ≥ 20% AND A ≥ 70%.
 
 ────────────────────────────────────────────────────────────
 VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
