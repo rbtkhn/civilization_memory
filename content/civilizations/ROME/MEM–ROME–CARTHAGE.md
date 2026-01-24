@@ -1,13 +1,13 @@
-MEM–ROME–CARTHAGE — v1.3
+MEM–ROME–CARTHAGE — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: RETROFIT · ACADEMIC REFERENCES COMPLIANCE (v1.3)
+Version: 1.4
+Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
 Supersedes: MEM–ROME–CARTHAGE — v1.0
 Civilization: CARTHAGE (ROMAN ADVERSARIAL MIRROR)
 Subject: Carthaginian Civilization
-Dates: c. 814–146 BCAD
+Dates: c. 814–146 BC
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,950
@@ -161,17 +161,33 @@ Richard A. Gabriel emphasizes the systemic contrast:
 The outcome is structural, not accidental.
 
 ────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL MEMORY FUNCTION
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Carthage encodes Rome’s negative self-definition.
+ROME:
+• MEM–ROME–WAR–SECOND–PUNIC — the peak existential trial that tested the
+  limits of the Carthaginian model against Roman endurance.
+• MEM–ROME–HANNIBAL — the systemic outlier whose genius exposed the structural
+  fragility of the Carthaginian state.
+• MEM–ROME–REPUBLIC — the territorial and civic rival that eventually erased the
+  Carthaginian commercial model.
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — the shared maritime system that Carthage
+  sought to dominate through trade and naval thalassocracy.
+• MEM–ROME–GEO–SICILY — the primary strategic hub and theater of the first
+  major collision between Rome and Carthage.
+• MEM–ROME–GEO–IBERIA — the resource-rich territory that provided the base for
+  the Barcid challenge to Roman power.
+• MEM–ROME–GEO–LIBYA — the agricultural and demographic heartland of the
+  Carthaginian state in North Africa.
+• MEM–ROME–SCIPIO–AFRICANUS — the Roman architect of Carthage's ultimate
+  defeat and strategic erasure.
+• MEM–ROME–HIST–POLYBIUS — the primary witness to the structural contrast and
+  civilizational misalignment between the two powers.
+• MEM–ROME–CITY — the urban center that Carthage mirrored in its commercial
+  sophistication but lost to in its civic-military resolve.
 
-Lessons absorbed by Rome:
-• Wealth does not replace cohesion
-• Trade empires fracture under existential war
-• Mercenary force cannot substitute for civic arms
-• Rivals must be erased, not merely defeated
-
-Rome learns what it must never become.
+NON-ROME:
+• MEM–ANGLIA–EMPIRE — parallel maritime commercial model that integrated
+  territorial depth more successfully than Carthage.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

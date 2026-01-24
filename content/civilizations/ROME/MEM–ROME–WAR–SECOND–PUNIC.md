@@ -1,9 +1,9 @@
-MEM–ROME–WAR–SECOND–PUNIC — v1.4
+MEM–ROME–WAR–SECOND–PUNIC — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: SPLIT DERIVATION · FULL ARC COMPLIANAD
+Version: 1.5
+Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
 Supersedes: MEM–ROME–WAR–PUNIC — v1.3 (PARTIAL)
 Civilization: ROME
 Subject: Second Punic War
@@ -95,7 +95,36 @@ Rome survives by hardening.
 The Republic does not emerge unchanged.
 
 ────────────────────────────────────────────────────────────
-VI. CONTINUITY INSIGHTS (RAW)
+VI. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ROME:
+• MEM–ROME–CARTHAGE — the adversarial mirror and existential threat whose
+  destruction enabled Roman Mediterranean supremacy.
+• MEM–ROME–SCIPIO–AFRICANUS — the architect of the strategic reversal who
+  carried the war to the Carthaginian heartland.
+• MEM–ROME–HANNIBAL — the tactical genius who tested Roman endurance and forced
+  the hardening of the Republic's institutions.
+• MEM–ROME–REPUBLIC — the structural system of city-state governance that
+  survived tactical annihilation through institutional resolve.
+• MEM–ROME–ITALY — the primary theater of Hannibal's tactical superiority and
+  the municipal base of Roman replacement depth.
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — the logistical system that enabled Rome's
+  globalized response and the isolation of Hannibal.
+• MEM–ROME–GEO–IBERIA — the secondary theater where Rome reversed the
+  initiative and severed Carthaginian resource lines.
+• MEM–ROME–GEO–SICILY — the strategic hub of the Punic conflicts and the hinge
+  between the western and eastern basins.
+• MEM–ROME–WAR–ACTIUM — provides a contrast between the annihilatory land
+  warfare of the Punic era and later maritime mastery.
+• MEM–ROME–HIST–POLYBIUS — the primary witness to Rome's systemic endurance and
+  the structural causes of Carthaginian failure.
+
+NON-ROME:
+• MEM–RUSSIA–WAR–NAPOLEON–BORODINO — parallel existential trial where depth and
+  resolve defeated tactical genius.
+
+────────────────────────────────────────────────────────────
+VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Systems defeat genius over time.
 • Refusal to negotiate is a strategic choice.

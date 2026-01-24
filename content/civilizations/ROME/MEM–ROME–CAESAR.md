@@ -1,9 +1,9 @@
-MEM–ROME–CAESAR — v1.5
+MEM–ROME–CAESAR — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.5
-Upgrade Type: ADD-ONLY · PROCEDURAL COMPLIANCE (CIV–MEM–TEMPLATE v1.6)
+Version: 1.6
+Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
 Civilization: ROME
 Regime: LATE REPUBLIC → PERSONAL DOMINION (c. 60–44 BC)
 Subject: Gaius Julius Caesar
@@ -152,6 +152,16 @@ ROME:
 • MEM–ROME–POMPEY — demonstrates elite rivalry without systemic resolution.
 • MEM–ROME–CLAUDIUS — contrasts charismatic rupture with bureaucratic
   stabilization.
+• MEM–ROME–GEO–GAUL — provides the military capital and resource base for
+  Caesar's challenge to the senatorial center.
+• MEM–ROME–GEO–ITALY — the site of the Rubicon crossing and the collapse of
+  republican geographic boundaries.
+• MEM–ROME–REPUBLIC — the structural system of city-state governance that
+  Caesar's career terminalized.
+• MEM–ROME–SCIPIO–AFRICANUS — provides a contrast in military command and its
+  relationship to civic legitimacy.
+• MEM–ROME–CITY — the urban center where the political fracture was finalized
+  through assassination.
 
 NON-ROME:
 • MEM–FRANCIA–NAPOLEON — mirrors Caesar as revolutionary legitimacy converted

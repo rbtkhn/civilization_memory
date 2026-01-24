@@ -1,9 +1,9 @@
-MEM–ROME–EMPIRE–JUSTINIAN — v1.2
+MEM–ROME–EMPIRE–JUSTINIAN — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · EVERITT QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.4
+Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
 Supersedes: MEM–ROME–JUSTINIAN — v1.1
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION / LEGAL–THEOLOGICAL SYNTHESIS
@@ -193,22 +193,45 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY & SECONDARY SOURCES (COMPLIANCE SET)
+X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Ancient (Category A):
-• Procopius, *Wars*
-• *Codex Justinianus*
+ROME:
+• MEM–ROME–CONSTANTINOPLE — the urban and institutional core of the Eastern
+  Empire that Justinian sought to preserve and expand.
+• MEM–ROME–EMPIRE–TRAJAN — provides a contrast in expansion from strength
+  versus Justinian's expansion from memory.
+• MEM–ROME–EMPIRE–HADRIAN — illustrates the defensive and bureaucratic
+  consolidation that Justinian's universalism sought to reverse.
+• MEM–ROME–AUGUSTUS — the architect of the original imperial settlement that
+  Justinian attempted to restore in its totality.
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — the site of the reconquests and the
+  logistical core of the universalist project.
+• MEM–ROME–GEO–ITALY — the symbolic heartland reclaimed at immense cost,
+  demonstrating the mismatch between ambition and resources.
+• MEM–ROME–GEO–EGYPT — the fiscal and demographic engine of the Eastern
+  Empire that funded the Western restoration.
+• MEM–ROME–PAPACY — the Western institutional survival of the theological-legal
+  synthesis Justinian attempted to unify.
+• MEM–ROME–WAR–GOTHS — the primary military obstacle to the Western
+  restoration and the catalyst for the exhaustion of Italy.
+• MEM–ROME–HIST–PROCOPIUS — the primary witness to the structural mismatch and
+  human cost of the Justinianic era.
 
-Public Domain (Category B):
-• Edward Gibbon
-• Theodor Mommsen
-
-Modern Copyrighted (Category C):
-• Peter Sarris
-• Anthony Kaldellis
+NON-ROME:
+• MEM–FRANCIA–CHARLEMAGNE — parallel attempt at Western imperial restoration
+  using Roman legal and sacral motifs.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (MANDATORY)
+XI. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports inquiry into:
+• The sustainability of restoration vs expansion
+• Law as a transmissible civilizational substrate
+• Theological unity as administrative glue
+• The human and structural cost of memory-driven ambition
+
+────────────────────────────────────────────────────────────
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Procopius, *Wars* - Contemporary account of Justinian's campaigns and court politics
 • *Codex Justinianus* - Primary legal compilation under Justinian's direction

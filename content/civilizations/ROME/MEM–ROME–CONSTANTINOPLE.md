@@ -1,9 +1,9 @@
-MEM–ROME–CONSTANTINOPLE — v1.2
+MEM–ROME–CONSTANTINOPLE — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · LOCKED · FINAL
-Version: 1.3
-Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.4
+Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 AD)
 Subject: Constantinople
@@ -214,15 +214,33 @@ Lessons preserved:
 Constantinople is Rome’s longest argument for continuity.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-• Civilization can relocate to survive.
-• Maritime geometry enables endurance.
-• Law persists when circulation persists.
-• Theology can preserve administration.
-• Rome survives by choosing where to stand.
+ROME:
+• MEM–ROME–EMPIRE–CONSTANTINE — the founder who implemented the strategic
+  translation of the Roman core to the East.
+• MEM–ROME–EMPIRE–JUSTINIAN — the ruler who attempted to use Constantinople
+  as the base for a total Western restoration.
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — the primary logistical artery that
+  Constantinople re-anchored and preserved.
+• MEM–ROME–GEO–AEGEAN–SEA — the intellectual and administrative heartland
+  secured by the city's position.
+• MEM–ROME–GEO–BLACK–SEA — the zone of managed exposure and resource
+  extraction regulated by the Bosporus hinge.
+• MEM–ROME–GEO–ANATOLIA — the strategic depth and demographic resource base
+  that sustained the city after the loss of the West.
+• MEM–ROME–GEO–GIBRALTAR — the western limit of the maritime system that
+  Constantinople anchored for over a millennium.
+• MEM–ROME–PAPACY — the Western institutional rival and eventual successor to
+  the universalist claims of the Roman state.
+• MEM–ROME–WAR–OTTOMAN–EMPIRE — the final military termination of the
+  political project centered at Constantinople.
+• MEM–ROME–HIST–PROCOPIUS — the primary witness to the city's peak
+  institutional density and physical transformation.
 
-Tension preserved without verdict.
+NON-ROME:
+• MEM–RUSSIA–THIRD–ROME — the ideological and sacral inheritance of
+  Constantinople's legitimacy by the Muscovite state.
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (MANDATORY)

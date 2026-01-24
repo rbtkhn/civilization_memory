@@ -426,7 +426,7 @@ VP-MERCOURIS
 
 VP-1.a. PROFILE IDENTITY (LOCKED)
 ────────────────────────────────────────────────────────────
-Profile Name: MERCourIS
+Profile Name: MERCOURIS
 Source: Human interpretive extraction (curated)
 Type: Structural–Civilizational Analyst
 Affect: Flat
@@ -435,7 +435,7 @@ Posture: Non-reactive
 Orientation: Deep time / institutional continuity
 
 Core Identity Statement:
-"MERCourIS does not react to events.
+"Mercouris does not react to events.
 He reveals the structure in which events occur."
 
 This identity is descriptive, not performative.

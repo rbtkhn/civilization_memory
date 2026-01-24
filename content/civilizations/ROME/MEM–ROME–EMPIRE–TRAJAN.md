@@ -1,9 +1,9 @@
-MEM–ROME–EMPIRE–TRAJAN — v1.2
+MEM–ROME–EMPIRE–TRAJAN — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.5
-Upgrade Type: ADDITIVE · GABRIEL QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
+Version: 1.6
+Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
 Supersedes: MEM–ROME–TRAJAN — v1.0
 Civilization: ROME
 Regime: IMPERIAL EXPANSION / PEAK TERRITORIAL COMMAND
@@ -185,15 +185,30 @@ Trajan defines the ceiling of Roman power.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME:
-• MEM–ROME–EMPIRE–HADRIAN — consolidation after expansion
-• MEM–ROME–CAESAR — conquest without administrative ceiling
-• MEM–ROME–AUGUSTUS — legitimacy without expansion
-• MEM–ROME–GEO–DANUBE–RIVER — frontier straightening logic
-• MEM–ROME–GEO–RHINE–RIVER — comparative frontier restraint
+• MEM–ROME–EMPIRE–HADRIAN — illustrates the strategic consolidation and
+  withdrawal that defined the post-Trajanic era.
+• MEM–ROME–CAESAR — provides a contrast in conquest without the administrative
+  and institutional ceilings Trajan eventually encountered.
+• MEM–ROME–AUGUSTUS — represents the original legitimacy model that Trajan
+  re-activated through military excellence and public benefaction.
+• MEM–ROME–GEO–DANUBE–RIVER — the primary frontier system straightened and
+  secured by Trajan's Dacian campaigns.
+• MEM–ROME–GEO–RHINE–RIVER — provides a comparative study in frontier restraint
+  and the limits of Roman expansion in the North.
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — the logistical heart of the empire Trajan
+  expanded, enabling the circulation of resources and legions.
+• MEM–ROME–GEO–ANATOLIA — the strategic depth and staging ground for Trajan's
+  ambitious eastern campaigns against Parthia.
+• MEM–ROME–WAR–PARTHIAN–EMPIRE — the primary rival and structural limit of
+  Trajan's eastern expansionary project.
+• MEM–ROME–CITY — the site of Trajan's monumental commemoration and the urban
+  center of his public generosity.
+• MEM–ROME–EMPIRE–NERO — provides a contrast in imperial legitimacy, senatorial
+  relations, and the management of military charisma.
 
-COMPARATIVE:
-• MEM–FRANCIA–NAPOLEON — peak expansion followed by contraction
-• MEM–GERMANIA–BISMARCK — unification with deliberate ceilings
+NON-ROME:
+• MEM–FRANCIA–NAPOLEON — peak expansion followed by contraction.
+• MEM–GERMANIA–BISMARCK — unification with deliberate ceilings.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
