@@ -16,23 +16,22 @@ Governed by:
 • CIV–SCHOLAR–PROTOCOL v2.0+ (interaction layer only)
 
 Last Update: January 2026
-Word Count: ~4,000
+WORDCOUNT: ~4,000
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.9)
+UPGRADE NOTE (v1.9 → v2.0 CONTINUITY CARRY-FORWARD)
 ────────────────────────────────────────────────────────────
 This version preserves ALL structural, semantic, diagnostic, and
-governance constraints from CIV–CORE–TEMPLATE v1.8.
+governance constraints from CIV–CORE–TEMPLATE v1.9.
 
-v1.9 introduces ONE governance clarification only:
+v1.9 introduced ONE governance clarification only:
 
 • OPTION GENERATION ENGINE (OGE) IS A SYSTEM-PRIMITIVE
 • OGE IS MANDATORY AND EXECUTES FIRST FOR ALL USER INTERACTIONS
 • OGE IS INTERACTION INFRASTRUCTURE, NOT COGNITION
 • OGE INTRODUCES NO DOCTRINE, NO ANALYSIS, NO AUTHORITY
 
-This patch recognizes OGE as required interface infrastructure
-without importing SCHOLAR cognition into CIV–CORE.
+This clarification remains fully operative in v2.0.
 
 No doctrine is altered.
 No diagnostic logic is modified.
@@ -42,7 +41,8 @@ No section ordering is changed.
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0) — PHASE MODEL INTEGRATION + SCHOLARLY ENHANCEMENT
 ────────────────────────────────────────────────────────────
-This version achieves architecture consistency and enhanced scholarly integration across the CMC v2.0 ecosystem.
+This version achieves architecture consistency and enhanced scholarly
+integration across the CMC v2.0 ecosystem.
 
 NEW ELEMENTS (MAJOR):
 • Civilization Phase Model awareness (Foundation → Development → Maturity)
@@ -58,7 +58,8 @@ PRESERVED ELEMENTS:
 • Total structural lock governance
 • Clean separation from SCHOLAR cognition layer
 
-This upgrade synchronizes CORE template with SCHOLAR–PROTOCOL v2.0, SCHOLAR–TEMPLATE v2.0, and ARC–TEMPLATE v2.0 while maintaining CORE layer purity.
+This upgrade synchronizes CORE template with SCHOLAR–PROTOCOL v2.0,
+SCHOLAR–TEMPLATE v2.0, and ARC–TEMPLATE v2.0 while maintaining CORE purity.
 
 ────────────────────────────────────────────────────────────
 I. TEMPLATE PURPOSE & ROLE
@@ -125,7 +126,7 @@ Every CIV–CORE instance MUST include, verbatim:
 • Conceptual Lineage (if applicable)
 • DIB Status (if applicable)
 • Scholar Reference Mode (if applicable)
-• Civilization Phase (v2.0+ requirement)
+• Civilization Phase (PHASE I / II / III)
 • Lock Level
 • Last Update (Month Year)
 • WORDCOUNT
@@ -193,7 +194,7 @@ XX.   Mandatory Verdict Block
 Optional modules MAY be appended only after Section XX.
 
 ────────────────────────────────────────────────────────────
-VIII. DIAGNOSTIC DISCIPLINE RULE
+VII. DIAGNOSTIC DISCIPLINE RULE
 ────────────────────────────────────────────────────────────
 All indicators must be:
 • Explicit
