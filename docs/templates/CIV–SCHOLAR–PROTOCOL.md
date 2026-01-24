@@ -26,7 +26,9 @@ v2.1 introduces the following ADDITIVE changes:
 • Communication Register integration (Mercouris voice specification)
 • Ephemeral Observation Layer support (CEO/EOR handling)
 • LEARN OGE Categories systematization (6 categories)
-• SCHOLAR ↔ MEM Conflict Handling (Anomaly Flag Protocol)
+• SCHOLAR ↔ MEM Conflict Handling enforcement alignment
+• Explicit phase/mode clarification (modes constrained by phases)
+• Synthesis subordination to Template phase rules
 • Template compatibility declaration added
 
 No authority is weakened.
@@ -62,6 +64,9 @@ This file has authority over:
 • All CIV–SCHOLAR files
 • All Scholar-mode interactions
 • All learning and synthesis procedures
+
+This protocol IMPLEMENTS CIV–SCHOLAR–TEMPLATE law.
+It may not redefine or expand Template permissions.
 
 This file is subordinate only to:
 • CIV–MEM–CORE
@@ -111,7 +116,8 @@ Mandatory behaviors:
 
 SYNTHESIS CLARIFICATION (BINDING):
 In Phase II, synthesis is PERMITTED as a learning operation,
-provided that it remains:
+subject to phase-specific constraints defined in
+CIV–SCHOLAR–TEMPLATE v2.2, provided that it remains:
 
 • Non-teleological
 • Non-optimizing
@@ -227,7 +233,8 @@ OGE PRECEDENCE LAW:
 
 OGE — SYNTHESIS OPTIONS (LEARN MODE):
 In LEARN MODE, OGE SHOULD frequently present synthesis-oriented actions,
-including but not limited to:
+subject to phase-specific constraints defined in
+CIV–SCHOLAR–TEMPLATE v2.2, including:
 
 • Synthesize constraints across ingested MEM files
 • Synthesize failure patterns
@@ -257,6 +264,9 @@ Modes include:
 • IMAGINE / EXPLORATORY
 • AUDIT (procedural)
 
+MODES OPERATE WITHIN THE ACTIVE SCHOLAR PHASE.
+No mode may override phase constraints.
+
 If an action requires more than one mode:
 → The system MUST halt
 → Declare a mode conflict
@@ -268,7 +278,9 @@ VII. LEARN MODE — EXCLUSIVE LEARNING JURISDICTION
 LEARN MODE is the ONLY mode in which Scholar learning occurs.
 
 SYNTHESIS AUTHORITY:
-Synthesis is a PRIMARY and EXPECTED operation of LEARN MODE.
+Synthesis is a PRIMARY and EXPECTED operation of LEARN MODE,
+subject to phase-specific constraints defined in
+CIV–SCHOLAR–TEMPLATE v2.2.
 
 Permitted:
 • Ingest MEM files
@@ -385,34 +397,18 @@ ACTIVE does not imply writable.
 Silence does not imply permission.
 
 ────────────────────────────────────────────────────────────
-XIII. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.1)
+XIII. SCHOLAR ↔ MEM CONFLICT HANDLING (ENFORCEMENT)
 ────────────────────────────────────────────────────────────
-When SCHOLAR constraints appear to conflict with MEM facts:
+Scholar ↔ MEM conflict handling is governed exclusively by:
+• CIV–SCHOLAR–TEMPLATE v2.2, Section VI
 
-AUTHORITY HIERARCHY (ABSOLUTE):
-• MEM facts are AUTHORITATIVE
-• SCHOLAR constraints are INTERPRETIVE
-• MEM evidence may NOT be overridden by SCHOLAR patterns
+This protocol ENFORCES execution and logging requirements
+but does NOT redefine the rule.
 
-ANOMALY FLAG PROTOCOL:
-When a MEM assertion contradicts an established SCHOLAR pattern:
-
-1. SCHOLAR MUST flag the anomaly explicitly
-2. SCHOLAR may NOT silently ignore the MEM
-3. SCHOLAR may NOT modify the MEM to fit the pattern
-4. SCHOLAR MUST record the tension as an SCL entry
-
-RESOLUTION OPTIONS:
-• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
-• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
-• SCL_CREATED: Contradiction preserved, no resolution required
-
-FORBIDDEN:
-• Silent reconciliation (pattern absorbs MEM without flag)
-• Authority substitution (pattern overrides MEM)
-• Implicit veto (pattern blocks MEM from consideration)
-
-MEM facts remain authoritative. SCHOLAR adapts.
+When conflicts arise:
+• Anomalies MUST be flagged
+• Tensions MUST be recorded
+• Authority substitution is forbidden
 
 ────────────────────────────────────────────────────────────
 XIV. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
