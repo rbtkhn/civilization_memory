@@ -44,6 +44,15 @@ II. ORIGINS: RIVER NODE AND TRADE CAPITAL
 ────────────────────────────────────────────────────────────
 Kiev emerged as a strategic node on the Dnieper corridor.
 
+The *Primary Chronicle* records the foundational moment of Kiev's primacy:
+
+> "Oleg settled in Kiev, and said: 'Let this be the mother of Rus'
+> cities.'"
+> — *Povest' vremennykh let* (c. 1113), Laurentian recension
+
+This declaration establishes Kiev as **civilizational center by fiat**:
+authority claimed, centrality proclaimed, legitimacy asserted through presence.
+
 Foundational advantages:
 • Control of north–south river trade
 • Access to Black Sea and Byzantine markets
@@ -77,6 +86,14 @@ Kiev ruled by recognition, not domination.
 IV. SACRED CAPITAL: CHRISTIANIZATION & MYTH
 ────────────────────────────────────────────────────────────
 Kiev's conversion under Vladimir (988) redefined its role.
+
+The *Primary Chronicle* records the mass baptism in Kiev:
+
+> "Vladimir sent heralds throughout the city to proclaim that whoever
+> did not come to the river would incur the Prince's displeasure. When
+> the people heard this, they came with joy, saying, 'If this were not
+> good, the Prince and his boyars would not have accepted it.'"
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
 
 Transformations:
 • Baptism of Rus' centered in Kiev
@@ -232,6 +249,11 @@ XIII. OPTIONAL TAGS (INDEXING)
 ────────────────────────────────────────────────────────────
 XIV. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
+• Cross, Samuel H., and Sherbowitz-Wetzor, Olgerd P., eds. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+
+SECONDARY SOURCES:
 • Franklin, Simon, and Shepard, Jonathan. *The Emergence of Rus 750–1200*. London: Longman, 1996.
 • Martin, Janet. *Medieval Russia 980–1584*. Cambridge: Cambridge University Press, 1995.
 • Vernadsky, George. *Kievan Russia*. New Haven: Yale University Press, 1948.

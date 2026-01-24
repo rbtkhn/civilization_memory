@@ -100,6 +100,17 @@ Characteristics:
 • Universal peace language
 • Framing repression as guardianship
 
+Robert K. Massie illuminates Alexander's psychological trajectory:
+
+"Victory over Napoleon transformed Alexander. The tsar who had begun
+his reign speaking of constitutions and the rights of man now saw
+himself as an instrument of Providence. At Vienna, he spoke constantly
+of Christian principles, of the brotherhood of monarchs, of their
+sacred duty to preserve the peace of Europe against the forces of
+revolution. His partners found his mysticism baffling, but they could
+not ignore the power he represented."
+— Robert K. Massie, *Nicholas and Alexandra* (1967)
+
 This is not sentiment.
 It is governance technology.
 
@@ -226,6 +237,7 @@ Category D (Modern Scholarship):
 • Jarrett, Mark. *The Congress of Vienna and Its Legacy*
 • Vick, Brian. *The Congress of Vienna: Power and Politics after Napoleon*
 • Lieven, Dominic. *Russia Against Napoleon*
+• Massie, Robert K. *Nicholas and Alexandra*. New York: Atheneum, 1967.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (v2.7)

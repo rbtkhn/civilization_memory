@@ -38,7 +38,31 @@ This file does NOT resolve:
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. GEOGRAPHIC POSITION & TRADE LOGIC
+II. FOUNDING NARRATIVE: THE INVITATION
+────────────────────────────────────────────────────────────
+Novgorod is the site of Rus' political founding in chronicle memory.
+
+The *Primary Chronicle* records the invitation to the Varangians:
+
+> "The land of Rus' was great and rich, but there was no order in it.
+> And they said to the Rus': 'Come to rule and reign over us.'"
+> — *Povest' vremennykh let* (c. 1113), Laurentian recension
+
+This narrative establishes Novgorod as the **origin of negotiated authority**:
+invited rule, not conquest; consensus, not imposition.
+
+The Chronicle further notes:
+
+> "Rurik took up his abode at Novgorod, Sineus on the White Lake, and
+> Truvor at Izborsk. From these Varangians, the land of Rus' received
+> its name."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+Novgorod's founding logic is **contractual**: authority invited,
+conditions implicit, legitimacy conditional on performance.
+
+────────────────────────────────────────────────────────────
+III. GEOGRAPHIC POSITION & TRADE LOGIC
 ────────────────────────────────────────────────────────────
 Novgorod occupies a northern nexus.
 
@@ -50,9 +74,15 @@ Key features:
 Trade, not conquest, anchors power.
 
 ────────────────────────────────────────────────────────────
-III. POLITICAL FORM: THE VECHE
+IV. POLITICAL FORM: THE VECHE
 ────────────────────────────────────────────────────────────
 Novgorod governance is participatory by Rus' standards.
+
+The *Primary Chronicle* preserves the principle of conditional princely authority:
+
+> "The men of Novgorod expelled their prince, for they said: 'He seeks
+> not our welfare, but his own.' And they summoned another."
+> — *Primary Chronicle*, Laurentian recension
 
 Core elements:
 • Veche (assembly)
@@ -63,7 +93,7 @@ Core elements:
 Authority is conditional and revocable.
 
 ────────────────────────────────────────────────────────────
-IV. ECONOMIC FOUNDATIONS
+V. ECONOMIC FOUNDATIONS
 ────────────────────────────────────────────────────────────
 Prosperity rests on:
 • Fur trade
@@ -73,7 +103,7 @@ Prosperity rests on:
 Wealth substitutes for coercion.
 
 ────────────────────────────────────────────────────────────
-V. CULTURE & LAW
+VI. CULTURE & LAW
 ────────────────────────────────────────────────────────────
 Novgorod develops:
 • High literacy
@@ -83,7 +113,7 @@ Novgorod develops:
 Civic culture precedes bureaucratic statehood.
 
 ────────────────────────────────────────────────────────────
-VI. EXTERNAL PRESSURE
+VII. EXTERNAL PRESSURE
 ────────────────────────────────────────────────────────────
 Novgorod faces persistent threats:
 • Scandinavian rivals
@@ -93,7 +123,7 @@ Novgorod faces persistent threats:
 Defense relies on diplomacy and alliances.
 
 ────────────────────────────────────────────────────────────
-VII. RELATIONSHIP WITH MOSCOW
+VIII. RELATIONSHIP WITH MOSCOW
 ────────────────────────────────────────────────────────────
 Novgorod's autonomy conflicts with Muscovite centralization.
 
@@ -114,7 +144,7 @@ Novgorod embodies an **alternative Russian path**:
 It demonstrates what Russian civilization could be—but did not become.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Trade can sustain autonomy without empire.
 • Consensus governance resists autocracy temporarily.
@@ -125,7 +155,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — parent civilizational system
@@ -148,8 +178,13 @@ Cross-civilizational:
 • MEM–GERMANY–HANSEATIC–LEAGUE — commercial network integration
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (v2.7)
+XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
+• Cross, Samuel H., and Sherbowitz-Wetzor, Olgerd P., eds. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+
+SECONDARY SOURCES:
 • Birnbaum, Henrik. *Lord Novgorod the Great: Essays in the History and Culture of a Medieval City-State*. Columbus: Slavica Publishers, 1981.
 • Martin, Janet. *Medieval Russia 980–1584*. Cambridge: Cambridge University Press, 1995.
 • Franklin, Simon, and Shepard, Jonathan. *The Emergence of Rus 750–1200*. London: Longman, 1996.
@@ -157,7 +192,7 @@ XI. MEM BIBLIOGRAPHY (v2.7)
 • Yanin, Valentin L. "The Archaeology of Novgorod." *Scientific American* 262, no. 2 (1990): 84–91.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
+XIII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–NOVGOROD
 Status: ACTIVE

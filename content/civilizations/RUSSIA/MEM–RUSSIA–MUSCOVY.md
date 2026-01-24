@@ -47,6 +47,16 @@ II. ORIGINS UNDER DOMINATION (RURIKID CONTINUITY)
 Muscovy emerges within the Mongol-dominated order as a **Rurikid
 continuation under compression**, not as a civilizational rupture.
 
+The *Primary Chronicle* establishes the precedent Muscovy inherits:
+
+> "The Varangians imposed tribute upon the Slavs, upon the Krivichians,
+> and upon the Finnic peoples, and they gave them silver and furs each
+> year."
+> — *Povest' vremennykh let* (c. 1113), Laurentian recension
+
+Tribute collection as the foundation of authority is not a Mongol
+invention—it is **early Rus' practice, inherited and intensified**.
+
 Inherited conditions:
 • Tributary subordination to the Golden Horde
 • External arbitration of legitimacy (yarlyk system)
@@ -65,6 +75,13 @@ III. CORRIDOR & COERCIVE LEGITIMACY FIRST
 ────────────────────────────────────────────────────────────
 Muscovy’s consolidation begins with **corridor control and coercive
 intermediation**, not sacral or legal authority.
+
+The *Primary Chronicle* records how early Rus' princes understood
+corridor control as the basis of power:
+
+> "Whoever held the river way commanded the towns upon it and drew
+> tribute from those who passed."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
 
 Core mechanisms:
 • Horde-sanctioned tax collection
@@ -233,6 +250,11 @@ No evaluative conclusions imposed.
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
+• Cross, Samuel H., and Sherbowitz-Wetzor, Olgerd P., eds. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+
+SECONDARY SOURCES:
 • Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.
 • Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.
 • Kollmann, Nancy Shields. *The Russian Empire 1450–1801*. Oxford University Press, 2017.

@@ -62,6 +62,17 @@ Drivers:
 • Strategic necessity for Black Sea fleet
 • End of Tatar raiding system
 
+Robert K. Massie captures the strategic and personal dimensions of
+the Crimean conquest:
+
+"Potemkin's greatest achievement was the conquest and annexation of
+the Crimea in 1783. For centuries, the Crimean Tatars had raided
+Russian and Ukrainian villages, carrying off hundreds of thousands
+into slavery. Now, with the peninsula absorbed into the empire, this
+threat was ended forever and Russia gained what Peter the Great had
+dreamed of: a permanent warm-water port on the Black Sea."
+— Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
+
 Actions:
 • Formal annexation
 • Naval base construction (Sevastopol)
@@ -177,6 +188,7 @@ Cross-civilizational:
 XI. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 • Figes, Orlando. *The Crimean War: A History*. New York: Metropolitan Books, 2010.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
 • Plokhy, Serhii. *The Gates of Europe: A History of Ukraine*. New York: Basic Books, 2015.
 • Lieven, Dominic. *Russia Against Napoleon*. New York: Viking, 2010.
 • Galeotti, Mark. *A Short History of Russia*. London: Ebury Press, 2020.

@@ -175,6 +175,17 @@ Fyodor’s death precipitates instability.
 The streltsy uprising demonstrates that dismantling elite hierarchy
 without a replacement allocator invites factional conflict.
 
+Robert K. Massie captures the succession crisis that Fyodor's death
+triggered:
+
+"Fyodor died without an heir, leaving Russia with a choice between
+two half-brothers: the sickly, half-blind Ivan, son of Tsar Alexis'
+first wife, Maria Miloslavskaya, and the robust, ten-year-old Peter,
+son of Alexis' second wife, Natalya Naryshkina. The boyars chose
+Peter, but Sophia and the Miloslavsky faction refused to accept this
+verdict. Within weeks, the streltsy were marching on the Kremlin."
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
+
 Fyodor loosens the lock.
 Peter breaks the door.
 
@@ -255,6 +266,7 @@ SCHOLARLY SOURCES CONSULTED:
 • Bushkovitch, Paul. *Peter the Great: The Struggle for Power, 1671–1725*. Cambridge: Cambridge University Press, 2001.
 • Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia, 1613–1689*. Princeton: Princeton University Press, 1983.
 • Hughes, Lindsey. *Sophia, Regent of Russia, 1657–1704*. New Haven: Yale University Press, 1990.
+• Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–FYODOR–III v2.7

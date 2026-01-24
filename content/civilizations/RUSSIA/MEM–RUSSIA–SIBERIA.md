@@ -46,6 +46,17 @@ Key dynamics:
 • Defeat and incorporation of khanates
 • Minimal settlement, maximal reach
 
+Robert K. Massie describes how Peter the Great systematized Siberian
+exploitation for imperial purposes:
+
+"Peter saw Siberia not as a frozen wasteland but as a vast storehouse
+of resources. He sent expeditions to map its rivers, catalog its
+minerals, and find a route to China. The tribute in furs that flowed
+westward helped finance his European wars, and Siberian iron fed his
+new foundries. What had been conquered by Cossack adventurers was now
+being organized by the state."
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
+
 Conquest is fast because resistance is dispersed.
 
 Imperial axiom:
@@ -212,6 +223,7 @@ PRIMARY SOURCES:
 
 SECONDARY SOURCES:
 • Etkind, Alexander. *Internal Colonization: Russia's Imperial Experience*. Polity, 2011.
+• Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
 • Slezkine, Yuri. *Arctic Mirrors: Russia and the Small Peoples of the North*. Cornell UP, 1994.
 • Forsyth, James. *A History of the Peoples of Siberia: Russia's North Asian Colony 1581–1990*. Cambridge UP, 1992.
 • Lincoln, W. Bruce. *The Conquest of a Continent: Siberia and the Russians*. Random House, 1994.

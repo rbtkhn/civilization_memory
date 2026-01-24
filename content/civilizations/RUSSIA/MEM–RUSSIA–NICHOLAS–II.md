@@ -81,6 +81,17 @@ Characteristics:
 • Preference for personal loyalty over systemic reform
 • Aversion to constitutional dilution of sovereignty
 
+Robert K. Massie's definitive portrait captures the psychological
+foundation of Nicholas's rule:
+
+"Nicholas II was not a stupid man, but he was weak. His mind, sharply
+focused on the ideal of personal autocracy, simply could not adjust
+to the need for sharing power. He believed absolutely in his sacred
+duty to preserve the autocracy and transmit it intact to his son.
+To yield an inch of this heritage would be to betray his forebears,
+his coronation oath, and his son."
+— Robert K. Massie, *Nicholas and Alexandra* (1967)
+
 His rule emphasizes **sincerity over structure**.
 
 This personalist approach narrows the regime’s margin for error as
@@ -275,6 +286,7 @@ XIII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 VERBATIM CITED SOURCES:
 • Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
+• Massie, Robert K. *Nicholas and Alexandra*. New York: Atheneum, 1967.
 • Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
 
 SCHOLARLY SOURCES CONSULTED:

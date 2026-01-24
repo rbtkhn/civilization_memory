@@ -185,6 +185,17 @@ VIII. DUAL AUTHORITY & SACRAL BUFFERING
 Michael’s reign is stabilized through shared authority with
 Patriarch Filaret.
 
+Robert K. Massie explains the unique constitutional arrangement:
+
+"For the first eight years of his reign, Michael ruled alone, advised
+by his mother's relatives and by the boyars who had elected him. Then,
+in 1619, his father, Filaret, who had been held prisoner in Poland,
+returned to Moscow. Immediately, Filaret was made Patriarch and given
+the title of Great Sovereign, equal to that of the Tsar himself.
+Thereafter, until his death in 1633, Russia was ruled by father and
+son together."
+— Robert K. Massie, *Peter the Great: His Life and World* (1980)
+
 Effects:
 • Fusion of sacral and dynastic legitimacy
 • Reduction of personalist volatility
@@ -277,6 +288,7 @@ SCHOLARLY SOURCES CONSULTED:
 • Bushkovitch, Paul. *Peter the Great: The Struggle for Power, 1671–1725*. Cambridge: Cambridge University Press, 2001.
 • Dunning, Chester. *Russia's First Civil War: The Time of Troubles and the Founding of the Romanov Dynasty*. University Park: Penn State University Press, 2001.
 • Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia, 1613–1689*. Princeton: Princeton University Press, 1983.
+• Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v2.7

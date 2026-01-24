@@ -244,6 +244,15 @@ The end of Alexander’s reign reveals unresolved pressures. Officers
 exposed to Europe absorb reformist expectations while governance remains
 autocratic.
 
+Robert K. Massie traces the dynasty's psychological inheritance:
+
+"The burden of autocracy weighed heavily on Alexander. He had seen his
+grandfather murdered by his father's supporters, his father murdered by
+his own intimates. He knew that absolute power in Russia carried with it
+absolute danger. This knowledge, combined with his mystical temperament,
+produced in Alexander a fatalism that deepened with the years."
+— Robert K. Massie, *Nicholas and Alexandra* (1967)
+
 Posthumous memory treats the Decembrist episode as confirmation that
 victory must be followed by consolidation, not relaxation.
 
@@ -304,6 +313,7 @@ evidence or structural analysis.
 XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
+• Massie, Robert K. *Nicholas and Alexandra*. New York: Atheneum, 1967.
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Analysis of the complex relationship between Alexander I and Kutuzov during the 1812 campaign
 • Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) - Examination of Alexander's strategic decisions and court politics during the invasion
 • Janet Hartley, *Alexander I* (Pearson Education Limited, 1994) - Analysis of Alexander's personality and decision-making during the Napoleonic crisis
