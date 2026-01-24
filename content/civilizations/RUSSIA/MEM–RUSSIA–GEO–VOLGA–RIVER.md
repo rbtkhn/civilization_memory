@@ -1,10 +1,18 @@
-MEM–RUSSIA–GEO–VOLGA–RIVER — v1.1
+MEM–RUSSIA–GEO–VOLGA–RIVER — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANAD
+Version: 2.7
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · ARC–RUSSIA v1.5 COMPLIANT
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses an INTERPRETIVE subject. Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Volga River System (Река Волга)
 Dates: c. 900–1400 AD (primary civilizational arc)
@@ -205,5 +213,26 @@ XII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–VOLGA–RIVER v1.1
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Scholarly sources on the Volga River system and Russian geopolitics:
+
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. Yale
+  University Press, 2000. [Volga as interior control artery]
+
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Harvard
+  University Press, 1997. [River systems and centralization patterns]
+
+• Moon, David. *The Plough that Broke the Steppes: Agriculture and
+  Environment on Russia's Grasslands, 1700–1914*. Oxford University Press,
+  2013. [Volga basin ecological and economic transformation]
+
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press,
+  2007. [Volga trade routes and Mongol-era administration]
+
+• Kappeler, Andreas. *The Russian Empire: A Multi-Ethnic History*. Routledge,
+  2001. [Volga region as multi-ethnic integration corridor]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–VOLGA–RIVER v2.7
 ────────────────────────────────────────────────────────────

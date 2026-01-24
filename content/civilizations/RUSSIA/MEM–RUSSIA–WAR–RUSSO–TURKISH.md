@@ -1,13 +1,10 @@
-MEM–RUSSIA–WAR–RUSSO–TURKISH — v2.0
+MEM–RUSSIA–WAR–RUSSO–TURKISH — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-
-Repository: https://github.com/rbtkhn/civilization_memory
-
+ACTIVE · CANONICAL · V2.7 COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.x (implicit)
-Upgrade Type: ADDITIVE · v2.0 CORE + TEMPLATE COMPLIANCE
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: MAJOR · V2.7 FULL COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russo–Turkish Wars (Southern Maritime–Imperial Contest)
 Dates: 1568–1918 AD
@@ -15,15 +12,14 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,500
 
-Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA v1.5 (pinned)
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Russo–Turkish Wars as **Russia’s centuries-long
+This file preserves the Russo–Turkish Wars as **Russia's centuries-long
 struggle to convert southern exposure into enforceable control**: a
 repeated confrontation with an older maritime–imperial system whose
 symbolic authority outlasted its coercive capacity.
@@ -82,11 +78,11 @@ Key changes:
 
 Crimea (1783) is the hinge.
 
-Robert K. Massie explains Catherine’s strategic calculus:
+Robert K. Massie explains Catherine's strategic calculus:
 
-“Expansion was not merely conquest for its own sake but a calculation
+"Expansion was not merely conquest for its own sake but a calculation
 that new territories would absorb pressures that internal reform could
-not safely release.”
+not safely release."
 — Massie, *Catherine the Great* (2011)
 
 Terminal control replaces episodic victory.
@@ -145,18 +141,7 @@ Ottoman memory records loss; Russian memory records **acquisition of
 grammar**.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (BINARY · STRUCTURAL)
-────────────────────────────────────────────────────────────
-• MEM–RUSSIA–GEO–BLACK–SEA
-• MEM–RUSSIA–GEO–CRIMEA
-• MEM–RUSSIA–WAR–GREAT–TURKISH
-• MEM–RUSSIA–WAR–OTTOMAN
-• MEM–RUSSIA–WAR–CRIMEAN
-• MEM–RUSSIA–GEO–CAUCASUS
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY
-
-────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Access without terminals creates exposure.
 • Endurance outlasts maritime prestige.
@@ -167,5 +152,77 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–RUSSO–TURKISH v2.0
+X. MEM CONNECTIONS (MANDATORY · V2.7)
+────────────────────────────────────────────────────────────
+Same-Civilization (RUSSIA) — ≥10 required:
+• MEM–RUSSIA–WAR–CRIMEAN — strategic defeat within larger rivalry
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — modernization failure parallel
+• MEM–RUSSIA–WAR–LIVONIAN — premature expansion contrast
+• MEM–RUSSIA–WAR–POLTAVA — endurance doctrine validation
+• MEM–RUSSIA–CATHERINE–II — Crimean annexation and southern strategy
+• MEM–RUSSIA–PETER–GREAT — naval modernization initiator
+• MEM–RUSSIA–NICHOLAS–I — 19th-century war architect
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious legitimation of intervention
+• MEM–RUSSIA–NAVY — Black Sea fleet development
+• MEM–RUSSIA–SEVASTOPOL — naval base and symbolic fortress
+• MEM–RUSSIA–ALEXANDER–II — post-Crimean reform architect
+
+GEO–MEM (REQUIRED) — ≥2 required:
+• MEM–RUSSIA–GEO–BLACK–SEA — strategic objective and access corridor
+• MEM–RUSSIA–GEO–CRIMEA — control node and permanent acquisition
+• MEM–RUSSIA–GEO–CAUCASUS — secondary theater and frontier zone
+
+Cross-Civilizational:
+• MEM–OTTOMAN–WAR–RUSSO–TURKISH — opposing perspective
+• MEM–ANGLIA–EASTERN–QUESTION — diplomatic intervention context
+• MEM–FRANCIA–CRIMEAN–WAR — coalition opposition
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY (V2.7)
+────────────────────────────────────────────────────────────
+Primary Military History Sources:
+
+1. Aksan, Virginia H. *Ottoman Wars 1700–1870: An Empire Besieged*.
+   London: Pearson, 2007.
+   — Comprehensive Ottoman perspective on Russo-Turkish military conflicts.
+
+2. Massie, Robert K. *Catherine the Great: Portrait of a Woman*.
+   New York: Random House, 2011.
+   — Catherinian era southern expansion and Crimean annexation.
+
+3. Fuller, William C. *Strategy and Power in Russia 1600–1914*.
+   New York: Free Press, 1992.
+   — Russian strategic thinking and southern corridor doctrine.
+
+4. Stone, David R. *A Military History of Russia: From Ivan the Terrible
+   to the War in Chechnya*. Westport: Praeger, 2006.
+   — Long-duration military history including Ottoman conflicts.
+
+5. Kappeler, Andreas. *The Russian Empire: A Multi-Ethnic History*.
+   London: Longman, 2001.
+   — Imperial expansion and southern frontier dynamics.
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+"MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–RUSSO–TURKISH
+Status: ACTIVE
+Exploration options available."
+
+Mandatory exploration options (8):
+A. Structural rivalry: steppe empire vs maritime empire  
+B. Petrine and Catherinian transformation  
+C. Crimea as control node  
+D. Learning asymmetry: Russian reform vs Ottoman decline  
+E. Black Sea access and straits control  
+F. Comparative: centuries-long imperial rivalries  
+G. Endurance doctrine and southern security  
+H. Compliance & integrity audit  
+
+User selects ONE option only.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–RUSSO–TURKISH v2.7
 ────────────────────────────────────────────────────────────

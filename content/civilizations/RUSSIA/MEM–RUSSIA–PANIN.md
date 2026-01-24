@@ -1,17 +1,23 @@
-MEM–RUSSIA–PANIN — v1.2  
+MEM–RUSSIA–PANIN — v2.7  
 Civilizational Memory Codex · Memory File  
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL  
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v1.2 → v1.3)  
+Version: 2.7
+Supersedes: v1.3
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION  
 Civilization: RUSSIA (Русская цивилизация)  
 Regime: IMPERIAL / ROMANOV (Elizabeth I → Catherine II)  
 Subject: Nikita Ivanovich Panin (Никита Иванович Панин)  
 Dates: 1718–1783 AD  
 Class: MEM (Civilizational Memory)  
 Last Update: January 2026  
-Word Count: ~2,650  
+Word Count: ~2,650
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2  
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3)
@@ -237,13 +243,23 @@ Academic sources frame interpretation without overriding primary
 diplomatic evidence.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY)
+IX. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–ELIZABETH — diplomatic inheritance
 • MEM–RUSSIA–CATHERINE–GREAT — expansion over equilibrium
 • MEM–RUSSIA–POTEMPKIN — territorial counter-logic
 • MEM–RUSSIA–SEVEN–YEARS — system shock context
+• MEM–RUSSIA–PETER–III — succession transition
+• MEM–RUSSIA–PAUL–I — tutor relationship
+• MEM–RUSSIA–NORTHERN–ACCORD — alliance project
+• MEM–RUSSIA–DIPLOMATIC–SERVICE — institutional professionalization
+• MEM–RUSSIA–ENLIGHTENED–ABSOLUTISM — governance philosophy
+• MEM–RUSSIA–FOREIGN–POLICY — strategic doctrine
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–ST–PETERSBURG — diplomatic center
+• MEM–RUSSIA–GEO–BALTIC — northern system axis
 
 Cross-civilizational:
 • MEM–GERMANIA–PRUSSIA–SYSTEM — alliance anchoring
@@ -269,5 +285,22 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PANIN v1.3
+XI. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
+• Panin correspondence to the College of Foreign Affairs, c. 1759
+• Policy memorandum to Catherine II, c. 1763
+• Foreign-policy circular, College of Foreign Affairs, c. 1765
+• Panin letter to Prince Golitsyn, c. 1778
+
+SCHOLARLY SOURCES CONSULTED:
+• de Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
+• Raeff, Marc. *The Well-Ordered Police State: Social and Institutional Change through Law in the Germanies and Russia, 1600–1800*. New Haven: Yale University Press, 1983.
+• Schroeder, Paul W. *The Transformation of European Politics, 1763–1848*. Oxford: Clarendon Press, 1994.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–PANIN v2.7
 ────────────────────────────────────────────────────────────

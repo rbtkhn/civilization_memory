@@ -1,9 +1,9 @@
-MEM–RUSSIA–MONGOL–EMPIRE — v1.1
+MEM–RUSSIA–MONGOL–EMPIRE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
-Version: 1.1
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANAD
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
+Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v1.1 → v2.7)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Sovereignty · Tributary Compression
 Subject: Mongol Empire / Golden Horde (Монгольская империя / Золотая Орда)
@@ -210,15 +210,21 @@ These constraints shape Russian adaptation uniquely.
 ────────────────────────────────────────────────────────────
 XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Core Russia MEM links:
-• MEM–RUSSIA–KIEVAN–RUS — vulnerability exposed
-• MEM–RUSSIA–DYNASTY–RURIKID — legitimacy detached from lineage
+Same-civilization connections (≥10):
+• MEM–RUSSIA–KIEVAN–RUS — vulnerability exposed by Mongol invasion
+• MEM–RUSSIA–DYNASTY–RURIKID — legitimacy detached from lineage under Horde rule
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival logic under asymmetry
-• MEM–RUSSIA–MUSCOVY — internalization of Horde governance
-• MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance layer
-• MEM–RUSSIA–TIME–TROUBLES — succession fragility persists
-• MEM–RUSSIA–GEO–VOLGA — tribute corridor
-• MEM–RUSSIA–GEO–STEPPE — coercive exposure axis
+• MEM–RUSSIA–MUSCOVY — internalization of Horde governance methods
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral endurance layer preserved under domination
+• MEM–RUSSIA–TIME–TROUBLES — succession fragility persists from Mongol-era patterns
+• MEM–RUSSIA–PRIMARY–CHRONICLE — source for early invasion memory
+• MEM–RUSSIA–VLADIMIR–GREAT — pre-Mongol legitimacy baseline
+• MEM–RUSSIA–CYRILLIC–SCRIPT — continuity through collapse
+• MEM–RUSSIA–IVAN–III — Ugra River and Horde termination
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–VOLGA — tribute corridor and Horde access route
+• MEM–RUSSIA–GEO–STEPPE — coercive exposure axis and invasion vector
 
 Connections enforce continuity without inevitability.
 
@@ -263,10 +269,24 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparative empire: Mongols vs Rome
 6) Comparative survival: Rus’ vs Islamic polities
 7) Counterfactual: full-scale revolt
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MONGOL–EMPIRE v1.1
+XV. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Medieval Rus' chronicles (Laurentian, Hypatian recensions)
+• Mongol-era administrative records and yarlyks
+
+Secondary Sources:
+• Halperin, Charles. *Russia and the Golden Horde* (1985)
+• Vernadsky, George. *The Mongols and Russia* (1953)
+• Ostrowski, Donald. *Muscovy and the Mongols* (1998)
+• Morgan, David. *The Mongols* (1986)
+• Allsen, Thomas T. *Mongol Imperialism* (1987)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–MONGOL–EMPIRE v2.7
 ────────────────────────────────────────────────────────────

@@ -1,16 +1,20 @@
-MEM–RUSSIA–RURIK — v2.1
+MEM–RUSSIA–RURIK — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Upgrade Type: REFINEMENT PASS · TRADITION / STRUCTURE DISAGGREGATION
+Version: 2.7
+Upgrade Type: v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Foundational Insertion Phase
 Subject: Rurik (Рюрик)
 Dates: c. 830–879 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,250
+Word Count: ~2,400
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -155,16 +159,25 @@ Distinctive Russian feature:
 Russia begins with **external authority internalized**, not expelled.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (EXPLICIT)
+IX. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Connected MEM files include:
 
-RUSSIA:
+RUSSIA (≥10):
 • MEM–RUSSIA–OLEG–NOVGOROD — territorial integrator
 • MEM–RUSSIA–NOVGOROD — plural alternative center
 • MEM–RUSSIA–KIEV — prestige capital
 • MEM–RUSSIA–VARANGIANS — warrior elite substrate
 • MEM–RUSSIA–MONGOL–EMPIRE — later external sovereignty pattern
+• MEM–RUSSIA–KIEVAN–RUS — polity formation
+• MEM–RUSSIA–PRIMARY–CHRONICLE — source tradition
+• MEM–RUSSIA–VLADIMIR–GREAT — sacral transformation successor
+• MEM–RUSSIA–YAROSLAV–WISE — institutional successor
+• MEM–RUSSIA–MUSCOVY — later state inheritor
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–NOVGOROD–REGION — initial Rurikid seat
+• MEM–RUSSIA–GEO–BALTIC–SEA — Varangian entry route
 
 OTHER CIVILIZATIONS:
 • MEM–ANGLIA–NORMANS — foreign elite normalization
@@ -184,7 +197,15 @@ X. CONTINUITY INSIGHTS (RAW)
 • Founding myths encode survival logic, not civic ideals.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE LAYER
+XI. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus, 750–1200*. London: Longman, 1996.
+• Cross, Samuel Hazzard, and Olgerd P. Sherbowitz-Wetzor, trans. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+• Duczko, Władysław. *Viking Rus: Studies on the Presence of Scandinavians in Eastern Europe*. Leiden: Brill, 2004.
+• Pritsak, Omeljan. *The Origin of Rus'*. Vol. 1. Cambridge, MA: Harvard Ukrainian Research Institute, 1981.
+
+────────────────────────────────────────────────────────────
+XIII. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports exploration of:
 • Invitation myths vs coercive reality
@@ -196,7 +217,7 @@ This MEM supports exploration of:
 No evaluative conclusions are imposed.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–RURIK
 Status: ACTIVE
@@ -214,5 +235,5 @@ H) Compliance & Integrity Audit (v1.6)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–RURIK v2.1
+END OF FILE — MEM–RUSSIA–RURIK v2.7
 ────────────────────────────────────────────────────────────

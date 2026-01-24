@@ -1,10 +1,18 @@
-MEM–RUSSIA–GEO–STEPPE — v2.0
+MEM–RUSSIA–GEO–STEPPE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANAD
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANT
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses an INTERPRETIVE subject. Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Eurasian Steppe (Open Frontier — Mobility Ecology)
 Dates: Antiquity–present (Rus’ interface from c. 9th c. AD)
@@ -239,4 +247,26 @@ XIV. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–STEPPE v2.0
+XV. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Scholarly sources on Russian steppe geography and geopolitics:
+
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Harvard
+  University Press, 1997. [Steppe–state interaction and frontier dynamics]
+
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. Yale
+  University Press, 2000. [Comparative analysis of steppe frontier expansion]
+
+• Khodarkovsky, Michael. *Russia's Steppe Frontier: The Making of a Colonial
+  Empire, 1500–1800*. Indiana University Press, 2002. [Steppe colonization
+  and incorporation processes]
+
+• LeDonne, John P. *The Grand Strategy of the Russian Empire, 1650–1831*.
+  Oxford University Press, 2004. [Steppe as strategic exposure zone]
+
+• Sunderland, Willard. *Taming the Wild Field: Colonization and Empire on
+  the Russian Steppe*. Cornell University Press, 2004. [Agricultural
+  transformation and steppe ecology]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–STEPPE v2.7

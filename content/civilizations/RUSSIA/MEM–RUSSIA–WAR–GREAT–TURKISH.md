@@ -1,13 +1,13 @@
-MEM–RUSSIA–WAR–GREAT–TURKISH — v2.0
+MEM–RUSSIA–WAR–GREAT–TURKISH — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.x (implicit)
-Upgrade Type: ADDITIVE · v2.0 CORE + TEMPLATE COMPLIANCE
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Great Turkish War (Russia’s Entry into Coalition Warfare)
 Dates: 1683–1699 AD
@@ -17,8 +17,14 @@ Word Count: ~2,800
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA v1.5 (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -106,14 +112,24 @@ The Great Turkish War is remembered as:
 Russia learns that **entry without infrastructure invites reversal**.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (BINARY · STRUCTURAL)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-• MEM–RUSSIA–WAR–RUSSO–TURKISH
-• MEM–RUSSIA–WAR–CRIMEAN
-• MEM–RUSSIA–GEO–AZOV–SEA
-• MEM–RUSSIA–GEO–CRIMEA
-• MEM–RUSSIA–STATE–PETER–GREAT
-• MEM–RUSSIA–WAR–OTTOMAN
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–WAR–RUSSO–TURKISH — Continuation of Ottoman conflict
+• MEM–RUSSIA–WAR–CRIMEAN — Later Crimean war context
+• MEM–RUSSIA–WAR–CRIMEAN–KHANATE — Southern raiding pressure
+• MEM–RUSSIA–PETER–GREAT — Initiator of Azov campaigns
+• MEM–RUSSIA–WAR–OTTOMAN — Broader Ottoman rivalry
+• MEM–RUSSIA–MUSCOVY — Pre-imperial state transformation
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Coalition religious dimension
+• MEM–RUSSIA–COSSACKS — Southern frontier forces
+• MEM–RUSSIA–GOLDEN–HORDE — Tatar legacy and steppe threat
+• MEM–RUSSIA–CATHERINE–GREAT — Later realization of southern goals
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–AZOV–SEA — Target of Azov campaign
+• MEM–RUSSIA–GEO–CRIMEA — Strategic peninsula
+• MEM–RUSSIA–GEO–STEPPE — Southern frontier environment
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -127,5 +143,25 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–TURKISH v2.0
+X. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Treaty of Karlowitz (1699)
+• Russian diplomatic correspondence
+• Ottoman campaign records
+• Austrian coalition documents
+
+Secondary Sources:
+• Klyuchevsky, Vasily. *A Course of Russian History*. Moscow, 1904–1922.
+• Hughes, Lindsey. *Russia in the Age of Peter the Great*. New Haven:
+  Yale University Press, 1998.
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Cambridge:
+  Harvard University Press, 1997.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London:
+  John Murray, 2000.
+• Finkel, Caroline. *Osman's Dream: The History of the Ottoman Empire*.
+  New York: Basic Books, 2005.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–GREAT–TURKISH v2.7
 ────────────────────────────────────────────────────────────

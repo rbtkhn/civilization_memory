@@ -1,21 +1,26 @@
-MEM–RUSSIA–DYNASTY–RURIKID — v2.0
+MEM–RUSSIA–DYNASTY–RURIKID — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: ARC-HARDENED EVIDENTIARY COMPLETION (v1.1 → v2.0)
+Version: 2.7
+Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v2.0 → v2.7)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Dynastic State Formation · Lineage Sovereignty
 Subject: Rurikid Dynasty
 Dates: c. 862–1598 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,900
+Word Count: ~4,200
 
-Governed by:
+Governed by: CIV–MEM–TEMPLATE v2.7
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA v1.5 (PINNED)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -170,7 +175,27 @@ X. CONTINUITY INSIGHTS (RAW)
 • Dynastic exhaustion produces collapse, not reform.
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (v2.2)
+XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
+────────────────────────────────────────────────────────────
+Same-civilization connections (≥10):
+
+• MEM–RUSSIA–RURIK — Dynastic founding and warlord origins
+• MEM–RUSSIA–OLEG–NOVGOROD — Regency and territorial anchoring
+• MEM–RUSSIA–VLADIMIR–GREAT — Sacral legitimacy transformation
+• MEM–RUSSIA–KIEVAN–RUS — Pre-fragmentation political apex
+• MEM–RUSSIA–MONGOL–EMPIRE — External domination and selection pressure
+• MEM–RUSSIA–MUSCOVY — Centralization and dynastic concentration
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Sacral authority multiplier
+• MEM–RUSSIA–ALEXANDER–NEVSKY — Survival under asymmetry
+• MEM–RUSSIA–TIME–TROUBLES — Succession failure consequences
+• MEM–RUSSIA–ROMANOV — Post-Rurikid dynastic inheritance
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–DNIEPER — Territorial corridor and Kievan anchoring
+• MEM–RUSSIA–GEO–VOLGA — Tribute routes and Muscovite expansion
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (v2.7)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–RURIKID
 Status: ACTIVE
@@ -183,8 +208,23 @@ Exploration options (select ONE):
 5) Muscovy as dynastic correction
 6) Succession failure physics
 7) Romanov inheritance logic
-8) Compliance & integrity audit (v2.2)
+8) Compliance & integrity audit (v2.7)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–RURIKID v2.0
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Primary Sources:
+• *Primary Chronicle* (Povest' vremennykh let), Laurentian recension
+• *Hypatian Chronicle* (12th century)
+
+Secondary Sources:
+• Solovyov, Sergei. *History of Russia from the Earliest Times*
+• Klyuchevsky, Vasily. *Course of Russian History*
+• Karamzin, Nikolai. *History of the Russian State*
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+• Hosking, Geoffrey. *Russia: People and Empire* (1997)
+• Pipes, Richard. *Russia under the Old Regime* (1974)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–DYNASTY–RURIKID v2.7
 ────────────────────────────────────────────────────────────

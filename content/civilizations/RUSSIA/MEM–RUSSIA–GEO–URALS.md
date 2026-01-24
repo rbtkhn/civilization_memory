@@ -1,10 +1,18 @@
-MEM–RUSSIA–GEO–URALS — v2.0
+MEM–RUSSIA–GEO–URALS — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.7 COMPLIANT
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses an INTERPRETIVE subject. Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Ural Mountains (Уральские горы)
 Dates: c. 500 BC–present AD
@@ -19,7 +27,7 @@ UPGRADE NOTE (v2.0)
 This upgrade is strictly ADDITIVE and preserves all analytical claims,
 structure, and conclusions from v1.0.
 
-v2.0 implements mandatory CIV–MEM–TEMPLATE v2.5 compliance actions:
+v2.7 implements mandatory CIV–MEM–TEMPLATE v2.7 compliance actions:
 • Adds ARC version pinning (ARC–RUSSIA v1.5)
 • Adds Section IX: Source Quotations (3 Ancient, 2 Medieval, 2 Modern)
 • Adds Section X: MEM Connections with binary justifications (≥10, ≥2 GEO)
@@ -393,12 +401,12 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (TEMPLATE v2.3)
+XII. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–CORE–RUSSIA, the system MUST:
 
 1) Confirm ingest:
-   "MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–URALS v2.0"
+   "MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–URALS v2.7"
 
 2) Declare MEM active:
    "Status: ACTIVE · GEOGRAPHIC MEMORY"
@@ -416,5 +424,26 @@ When ingested without CIV–CORE–RUSSIA, the system MUST:
 4) Wait for user selection before proceeding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–URALS v2.0
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Scholarly sources on the Ural Mountains and Russian geopolitics:
+
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. Yale
+  University Press, 2000. [Urals as civilizational hinge and expansion gateway]
+
+• Kotkin, Stephen. *Stalin: Waiting for Hitler, 1929–1941*. Penguin Press,
+  2017. [Urals as strategic depth anchor and industrial relocation zone]
+
+• Bassin, Mark. *Imperial Visions: Nationalist Imagination and Geographical
+  Expansion in the Russian Far East, 1840–1865*. Cambridge University Press,
+  1999. [Urals as symbolic Europe–Asia boundary]
+
+• Hughes, Lindsey. *Russia in the Age of Peter the Great*. Yale University
+  Press, 1998. [Early Ural industrial development under Peter I]
+
+• Lincoln, W. Bruce. *The Conquest of a Continent: Siberia and the Russians*.
+  Random House, 1994. [Urals as gateway to Siberian expansion]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–URALS v2.7
 ────────────────────────────────────────────────────────────

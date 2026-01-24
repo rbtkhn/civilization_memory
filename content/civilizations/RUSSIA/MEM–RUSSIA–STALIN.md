@@ -1,13 +1,27 @@
-MEM–RUSSIA–STALIN
-Status: ACTIVE
-Version: 1.0
-Civilization: RUSSIA
+MEM–RUSSIA–STALIN — v2.7
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE · CANONICAL
+Version: 2.7
+Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v1.0 → v2.7)
+Civilization: RUSSIA (Русская цивилизация)
 Regime: REVOLUTIONARY / INDUSTRIAL–SECURITY STATE (1924–1953)
 Subject: Joseph Vissarionovich Stalin
 Dates: 1878–1953 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,500
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.0+
+• ARC–RUSSIA v1.5 (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a MODERN subject (19th-20th century).
+Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -167,21 +181,61 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Primary:
-• Party congress transcripts  
-• Five-Year Plan documents  
-• NKVD records  
-• Wartime directives  
+Same-civilization connections (≥10):
+• MEM–RUSSIA–LENIN — Revolutionary predecessor and ideological foundation
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Regime origin and party seizure
+• MEM–RUSSIA–CIVIL–WAR — Violence institutionalization
+• MEM–RUSSIA–SOVIET–STATE — State structure consolidated
+• MEM–RUSSIA–WWII — Victory legitimization of terror
+• MEM–RUSSIA–GULAG — Repression infrastructure
+• MEM–RUSSIA–INDUSTRIALIZATION — Forced modernization
+• MEM–RUSSIA–COLLECTIVIZATION — Agricultural transformation
+• MEM–RUSSIA–COLD–WAR — International confrontation system
+• MEM–RUSSIA–KHRUSHCHEV — De-Stalinization successor
 
-Secondary:
-• Stephen Kotkin  
-• Sheila Fitzpatrick  
-• Orlando Figes  
-• Robert Service  
-• Timothy Snyder  
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–MOSCOW — Command center and political gravity
+• MEM–RUSSIA–GEO–SIBERIA — Gulag geography and resource extraction
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–STALIN v1.0
+XII. MEM INGEST BOOTSTRAP (v2.7)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–STALIN
+Status: ACTIVE
+
+Exploration options available:
+1) Terror as governance instrument
+2) Industrialization under coercion
+3) WWII and retroactive legitimization
+4) Party-state fusion mechanics
+5) Security organ expansion
+6) Succession failure patterns
+7) Comparative totalitarianism
+8) Compliance & integrity audit (v2.7)
+
+User must select ONE option.
+
+────────────────────────────────────────────────────────────
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Party congress transcripts
+• Five-Year Plan documents
+• NKVD records
+• Wartime directives
+
+Secondary Sources:
+• Kotkin, Stephen. *Stalin: Paradoxes of Power* (2014)
+• Kotkin, Stephen. *Stalin: Waiting for Hitler* (2017)
+• Fitzpatrick, Sheila. *Everyday Stalinism* (1999)
+• Figes, Orlando. *The Whisperers* (2007)
+• Service, Robert. *Stalin: A Biography* (2004)
+• Snyder, Timothy. *Bloodlands* (2010)
+• Conquest, Robert. *The Great Terror* (1968)
+• Applebaum, Anne. *Gulag: A History* (2003)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–STALIN v2.7
 ────────────────────────────────────────────────────────────

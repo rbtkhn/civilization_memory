@@ -1,15 +1,19 @@
-MEM–RUSSIA–YAROSLAV–WISE — v2.1
+MEM–RUSSIA–YAROSLAV–WISE — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Upgrade Type: REFINEMENT PASS (STRUCTURAL + MEMORY-ROLE HARDENING)
+Version: 2.7
+Upgrade Type: v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Yaroslav the Wise (Ярослав Мудрый)
 Dates: c. 978–1054 AD (rule c. 1019–1054)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,250
+Word Count: ~2,500
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -184,21 +188,29 @@ Russian divergence:
 Yaroslav functions as a warning, not a template.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
+XI. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Connected MEM files:
 
-RUSSIA:
-• MEM–RUSSIA–RURIK
-• MEM–RUSSIA–OLEG–NOVGOROD
-• MEM–RUSSIA–KIEV
-• MEM–RUSSIA–KIEVAN–RUS
-• MEM–RUSSIA–MONGOL–EMPIRE
-• MEM–RUSSIA–MUSCOVY
+RUSSIA (≥10):
+• MEM–RUSSIA–RURIK — foundational legitimacy
+• MEM–RUSSIA–OLEG–NOVGOROD — territorial predecessor
+• MEM–RUSSIA–VLADIMIR–GREAT — sacral predecessor
+• MEM–RUSSIA–KIEV — capital seat
+• MEM–RUSSIA–KIEVAN–RUS — polity framework
+• MEM–RUSSIA–MONGOL–EMPIRE — post-fragmentation pressure
+• MEM–RUSSIA–MUSCOVY — later centralization model
+• MEM–RUSSIA–PRIMARY–CHRONICLE — textual source
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — institutional partner
+• MEM–RUSSIA–NOVGOROD — alternative governance center
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–KIEV — seat of rule
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — territorial axis
 
 COMPARATIVE:
-• MEM–GERMANIA–CHARLEMAGNE
-• MEM–FRANCIA–EARLY–CAPETIAN
+• MEM–GERMANIA–CHARLEMAGNE — law-code parallels
+• MEM–FRANCIA–EARLY–CAPETIAN — fragmentation comparison
 
 These links establish Yaroslav as a structural hinge.
 
@@ -214,7 +226,7 @@ XII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XIII. PEDAGOGICAL AFFORDANCE LAYER
+XIV. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports exploration of:
 • Law vs coercion in state formation
@@ -243,5 +255,5 @@ H) Compliance & integrity audit (v1.6)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–YAROSLAV–WISE v2.1
+END OF FILE — MEM–RUSSIA–YAROSLAV–WISE v2.7
 ────────────────────────────────────────────────────────────

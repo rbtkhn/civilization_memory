@@ -1,19 +1,27 @@
-MEM–RUSSIA–WAR–KHAZAR–KHAGANATE — v2.0
+MEM–RUSSIA–WAR–KHAZAR–KHAGANATE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Khazar Khaganate Wars (Хазарские войны) — Trade Empire Confrontation
 Dates: 830s–965 AD (major conflicts: 880s–965)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,300
+Word Count: ~2,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -217,15 +225,28 @@ ARC Categories Applied:
 • MODERN: Archaeological and linguistic analysis (2 quotations)
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS & SCHOLAR CONSTRAINTS
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Connected MEM Files:
-• MEM–RUSSIA–SVIATOSLAV: Imperial campaigns and military organization
-• MEM–RUSSIA–VOLGA–TRADE: Economic corridor development
-• MEM–RUSSIA–KIEVAN–RUS: State formation and territorial expansion
-• MEM–RUSSIA–STEPPE–EMPIRES: Nomadic state models
-• MEM–RUSSIA–BYZANTINE–RELATIONS: Diplomatic and military alliances
-• MEM–RUSSIA–VARANGIAN–GUARD: Mercenary military tradition
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–SVIATOSLAV — Imperial campaigns and military organization
+• MEM–RUSSIA–KIEVAN–RUS — State formation and territorial expansion
+• MEM–RUSSIA–VARANGIANS — Mercenary military tradition and trade networks
+• MEM–RUSSIA–OLEG–NOVGOROD — Early expansion and Khazar tributary relations
+• MEM–RUSSIA–RURIK — Dynastic foundation preceding Khazar confrontation
+• MEM–RUSSIA–DYNASTY–RURIKID — Rurikid hegemony through Khazar defeat
+• MEM–RUSSIA–KIEV — Political center of anti-Khazar campaigns
+• MEM–RUSSIA–PRIMARY–CHRONICLE — Source documentation of Khazar wars
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious identity vs. Khazar Judaism
+• MEM–RUSSIA–NOVGOROD — Northern trade network alternative to Khazar routes
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–VOLGA–RIVER — Khazar-controlled trade corridor
+• MEM–RUSSIA–GEO–DON–RIVER — Strategic waterway and Sarkel location
+• MEM–RUSSIA–GEO–STEPPE — Khazar territorial domain
+
+Cross-civilizational:
+• MEM–BYZANTIUM–DIPLOMACY — Alliance against Khazar power
+• MEM–PERSIA–TRADE–ROUTES — Caspian economic context
 
 Scholar Constraints:
 • RLL–0001 (Corridor Primacy): Khazar control of Volga-Don corridor
@@ -251,5 +272,26 @@ Future versions may add:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–KHAZAR–KHAGANATE v2.0
+MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Russian Primary Chronicle (Tale of Bygone Years), Laurentian Codex
+• Kievan Letter (Hebrew correspondence, 10th century)
+• Al-Masudi, *Meadows of Gold* (10th century)
+• Constantine Porphyrogenitus, *De Administrando Imperio*
+
+Secondary Sources:
+• Dunlop, Douglas M. *The History of the Jewish Khazars*. Princeton:
+  Princeton University Press, 1954.
+• Golden, Peter B. *Khazar Studies: An Historico-Philological Inquiry
+  into the Origins of the Khazars*. Budapest: Akadémiai Kiadó, 1980.
+• Noonan, Thomas S. "The Khazar Economy." *Archivum Eurasiae Medii Aevi*
+  2 (1982): 253-318.
+• Artamonov, Mikhail I. *История Хазар* (History of the Khazars). Moscow:
+  Nauka, 1962.
+• Brook, Kevin Alan. *The Jews of Khazaria*. Lanham: Rowman & Littlefield,
+  2006.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–KHAZAR–KHAGANATE v2.7
 ────────────────────────────────────────────────────────────

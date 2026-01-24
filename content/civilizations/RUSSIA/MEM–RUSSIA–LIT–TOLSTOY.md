@@ -1,8 +1,8 @@
-MEM–RUSSIA–LIT–TOLSTOY — v2.0
+MEM–RUSSIA–LIT–TOLSTOY — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.7
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Leo Tolstoy (Лев Толстой) — Literary Memory Architect
 Dates: 1828–1910 AD (decisive works: 1869–1877)
@@ -12,8 +12,12 @@ Word Count: ~2,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -224,23 +228,42 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
+Russian (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary historical context encoded in literary memory
 • MEM–RUSSIA–WAR–BORODINO — battle transformed into literary symbol
 • MEM–RUSSIA–KUTUZOV — commander transformed into literary archetype
 • MEM–RUSSIA–ALEXANDER–I — tsar's role in literary vs operational memory
 • MEM–RUSSIA–WAR–AUSTERLITZ — contrast: literary memory of defeat
 • MEM–RUSSIA–DYNASTY–ROMANOV — elite culture vs popular experience
+• MEM–RUSSIA–LIT–DOSTOEVSKY — contrast: historical vs psychological memory architecture
+• MEM–RUSSIA–LIT–PUSHKIN — literary language foundation preceding Tolstoy
+• MEM–RUSSIA–SERFDOM — social structure encoded in War and Peace
+• MEM–RUSSIA–ARISTOCRACY — elite culture and moral tension in Anna Karenina
+• MEM–RUSSIA–ORTHODOXY — late religious conversion and moral philosophy
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — landscape of endurance in literary memory
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive terrain in narrative
 
 Cross-civilizational:
 • MEM–FRANCIA–NAPOLEON — enemy transformed into literary symbol
+• MEM–GERMANIA–PHILOSOPHY — Schopenhauer influence on Tolstoy's determinism
 
 ────────────────────────────────────────────────────────────
-XIII. ACADEMIC REFERENCES (ENGAGED)
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Lieven, Dominic. *Russia Against Napoleon: The True Story of the Campaigns
+  of War and Peace*. London: Allen Lane, 2009. [PRIMARY: literary memory vs
+  structural analysis framework]
+• Berlin, Isaiah. *The Hedgehog and the Fox: An Essay on Tolstoy's View of
+  History*. London: Weidenfeld & Nicolson, 1953. [philosophy of history]
+• Morson, Gary Saul. *Hidden in Plain View: Narrative and Creative Potentials
+  in 'War and Peace'*. Stanford: Stanford University Press, 1987.
+• Wilson, A.N. *Tolstoy: A Biography*. New York: Norton, 1988.
+• Eikhenbaum, Boris. *Tolstoy in the Sixties*. Ann Arbor: Ardis, 1982.
+
+────────────────────────────────────────────────────────────
+XIV. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:
 • **Dominic Lieven** — PRIMARY modern authority: contrast between literary
@@ -260,7 +283,7 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-XIV. MEM INGEST BOOTSTRAP (MANDATORY)
+XV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -281,5 +304,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–TOLSTOY v2.0
+END OF FILE — MEM–RUSSIA–LIT–TOLSTOY v2.7
 ────────────────────────────────────────────────────────────

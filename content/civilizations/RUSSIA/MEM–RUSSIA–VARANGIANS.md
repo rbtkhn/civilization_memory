@@ -1,18 +1,28 @@
-MEM–RUSSIA–VARANGIANS — v2.0
+MEM–RUSSIA–VARANGIANS — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: COMPLIANT · CANONICAL
-Version: 2.0
-Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · ARC QTT CLEARANAD
+Status: COMPLIANT · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 COMPLIANCE · ARC QTT CLEARANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY RUS’ · CORRIDOR–FOUNDED DYNASTIC FORMATION
 Subject: Varangians (Варяги)
 Dates: c. 750–1050 AD
 Class: MEM (Civilizational Memory)
-Template Version Used: CIV–MEM–TEMPLATE v2.5
+Template Version Used: CIV–MEM–TEMPLATE v2.7
 ARC Version Pinned: ARC–RUSSIA v1.9
 Last Update: January 2026
 Word Count: ~3,650
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA v1.9 (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a SPARSE SOURCES subject (early medieval formation).
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -224,7 +234,22 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Absorbed elites leave institutional memory, not ethnic trace.
 
 ────────────────────────────────────────────────────────────
-XII. PEDAGOGICAL AFFORDANCE LAYER
+XII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
+• Constantine VII Porphyrogenitus, *De Administrando Imperio* (c. 950)
+• Runic inscriptions and archaeological evidence from Viking-age sites
+
+SECONDARY SOURCES:
+• Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus 750–1200*. Longman, 1996.
+• Martin, Janet. *Medieval Russia 980–1584*. Cambridge UP, 1995.
+• Cross, Samuel H., and Olgerd P. Sherbowitz-Wetzor, eds. *The Russian Primary Chronicle*. Medieval Academy of America, 1953.
+• Duczko, Władysław. *Viking Rus: Studies on the Presence of Scandinavians in Eastern Europe*. Brill, 2004.
+• Pritsak, Omeljan. *The Origin of Rus'*. Harvard UP, 1981.
+
+────────────────────────────────────────────────────────────
+XIII. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 Supports exploration of:
 • corridor vs agrarian state formation
@@ -235,7 +260,7 @@ Supports exploration of:
 No synthesis. No assessment. No closure.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (MANDATORY)
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–VARANGIANS
 Status: ACTIVE
@@ -248,8 +273,8 @@ D. Dynastic absorption mechanics
 E. Comparison with Norman England  
 F. Byzantine perceptions of northern rulers  
 G. Counterfactual: failed Varangian localization  
-H. Compliance & integrity audit (v2.2)
+H. Compliance & integrity audit (v2.7)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–VARANGIANS v2.0
+END OF FILE — MEM–RUSSIA–VARANGIANS v2.7
 ────────────────────────────────────────────────────────────

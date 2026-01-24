@@ -1,21 +1,27 @@
-MEM–RUSSIA–WAR–SIBIR–KHANATE — v2.1
+MEM–RUSSIA–WAR–SIBIR–KHANATE — v2.7
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · ARC QUOTATION SATURATION + 20% COMPLIANCE
+Version: 2.7
+Supersedes: v2.1
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Conquest of the Sibir Khanate
 Dates: c. 1555–1598 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,400
+Word Count: ~3,600
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -163,16 +169,25 @@ It becomes the template for later eastward advance.
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (BINARY · REQUIRED)
 ────────────────────────────────────────────────────────────
+Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–KAZAN — Volga consolidation precedent
 • MEM–RUSSIA–WAR–ASTRAKHAN — Southern hinge secured
-• MEM–RUSSIA–GEO–URALS — Threshold crossing
-• MEM–RUSSIA–GEO–OB–RIVER — Expansion corridor
-• MEM–RUSSIA–GEO–STEPPE — Comparative frontier logic
-• MEM–RUSSIA–STATE–IMPERIAL–EXPANSION — Non-maritime empire
-• MEM–RUSSIA–COSSACKS — Irregular expansion agents
-• MEM–RUSSIA–ECON–FUR–TRADE — Tribute driver
 • MEM–RUSSIA–WAR–MONGOL–DOMINATION — Inherited steppe logic
-• MEM–RUSSIA–GEO–RIVERINE–SYSTEMS — Movement-based control
+• MEM–RUSSIA–IVAN–IV — Tsar who authorized Siberian expansion
+• MEM–RUSSIA–MUSCOVY — State structure enabling eastward projection
+• MEM–RUSSIA–SIBERIA — Long-term consequence and territorial integration
+• MEM–RUSSIA–VARANGIANS — Riverine movement precedent
+• MEM–RUSSIA–TIME–TROUBLES — Post-conquest instability period
+• MEM–RUSSIA–GOLDEN–HORDE — Successor khanate rivalry
+• MEM–RUSSIA–DYNASTY–RURIKID — Dynastic authorization of conquest
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–URALS — Threshold crossing
+• MEM–RUSSIA–GEO–STEPPE — Comparative frontier logic
+• MEM–RUSSIA–GEO–VOLGA–RIVER — Movement corridor and supply line
+
+Cross-civilizational:
+• MEM–MONGOL–SUCCESSOR–STATES — Khanate fragmentation context
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -186,5 +201,26 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–SIBIR–KHANATE v2.1
+MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Yesipov Chronicle (Siberian Chronicle), c. 1630
+• Stroganov Family Archive, late 16th century
+• Remezov Chronicle, 17th century
+
+Secondary Sources:
+• Lantzeff, George V., and Richard A. Pierce. *Eastward to Empire:
+  Exploration and Conquest on the Russian Open Frontier, to 1750*.
+  Montreal: McGill-Queen's University Press, 1973.
+• Forsyth, James. *A History of the Peoples of Siberia: Russia's North
+  Asian Colony, 1581-1990*. Cambridge: Cambridge University Press, 1992.
+• Khodarkovsky, Michael. *Russia's Steppe Frontier: The Making of a
+  Colonial Empire, 1500-1800*. Bloomington: Indiana University Press, 2002.
+• Hosking, Geoffrey. *Russia: People and Empire, 1552-1917*. Cambridge:
+  Harvard University Press, 1997.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London:
+  John Murray, 2000.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–SIBIR–KHANATE v2.7
 ────────────────────────────────────────────────────────────

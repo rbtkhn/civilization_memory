@@ -1,17 +1,23 @@
-MEM–RUSSIA–POTEMPKIN — v1.2
+MEM–RUSSIA–POTEMPKIN — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v1.2 → v1.3)
-Civilization: RUSSIA (Русская цивлизация)
+Version: 2.7
+Supersedes: v1.3
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
+Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (Catherine II)
 Subject: Grigory Potemkin (Григорий Потёмкин)
 Dates: 1739–1791 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3)
@@ -245,13 +251,23 @@ IX. ACADEMIC REFERENCES (LMM-COMPLIANT)
 Secondary scholarship contextualizes but does not override sources.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY)
+X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–CATHERINE–GREAT
-• MEM–RUSSIA–PANIN
-• MEM–RUSSIA–PETER–GREAT
-• MEM–RUSSIA–CRIMEA
+Same-civilization (≥10):
+• MEM–RUSSIA–CATHERINE–GREAT — sovereign partnership
+• MEM–RUSSIA–PANIN — strategic rival
+• MEM–RUSSIA–PETER–GREAT — southern vision precedent
+• MEM–RUSSIA–CRIMEA — territorial absorption
+• MEM–RUSSIA–SUVOROV — military coordination
+• MEM–RUSSIA–RUSSO–TURKISH–WARS — war administration
+• MEM–RUSSIA–NOVOROSSIYA — settlement project
+• MEM–RUSSIA–BLACK–SEA–FLEET — naval construction
+• MEM–RUSSIA–SERFDOM — settlement labor source
+• MEM–RUSSIA–ENLIGHTENED–ABSOLUTISM — governance philosophy
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–CRIMEA — strategic acquisition
+• MEM–RUSSIA–GEO–BLACK–SEA — imperial reorientation
 
 Cross-civilizational:
 • MEM–BRITANNIA–COLONIAL–SETTLEMENT
@@ -277,5 +293,21 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–POTEMPKIN v1.3
+XII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Potemkin memorandum on settlement, c. 1784
+• Imperial Manifesto on Crimea, 1783
+• Potemkin field correspondence, 1788
+
+SCHOLARLY SOURCES CONSULTED:
+• de Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
+• Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*. New York: Metropolitan Books, 2002.
+• Sebag Montefiore, Simon. *Prince of Princes: The Life of Potemkin*. London: Weidenfeld & Nicolson, 2000.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–POTEMPKIN v2.7
 ────────────────────────────────────────────────────────────

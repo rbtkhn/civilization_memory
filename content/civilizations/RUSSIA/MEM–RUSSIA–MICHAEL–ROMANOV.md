@@ -1,9 +1,10 @@
-MEM–RUSSIA–MICHAEL–ROMANOV — v2.0
+MEM–RUSSIA–MICHAEL–ROMANOV — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT
-Version: 2.0
-Upgrade Type: PROCEDURAL COMPLIANCE + QTT–ARC AUDIT + SEQUENCING CLARIFICATION + CONNECTIVITY HARDENING
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + BIBLIOGRAPHY ADDITION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY ROMANOV · POST–TIME OF TROUBLES RESTORATION
 Subject: Michael Romanov (Михаил Фёдорович)
@@ -12,10 +13,16 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,900
 
+Governed by: CIV–MEM–TEMPLATE v2.7
+
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a SPARSE SOURCES subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -257,5 +264,20 @@ Exploration options available.
 8) Compliance & integrity audit (v2.2)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v2.0
+XIV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Early 17th-century Russian chronicles (compiled)
+• Zemsky Sobor declarations, 1613
+• Romanov-era diplomatic instructions
+
+SCHOLARLY SOURCES CONSULTED:
+• Bushkovitch, Paul. *Peter the Great: The Struggle for Power, 1671–1725*. Cambridge: Cambridge University Press, 2001.
+• Dunning, Chester. *Russia's First Civil War: The Time of Troubles and the Founding of the Romanov Dynasty*. University Park: Penn State University Press, 2001.
+• Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia, 1613–1689*. Princeton: Princeton University Press, 1983.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v2.7
 ────────────────────────────────────────────────────────────

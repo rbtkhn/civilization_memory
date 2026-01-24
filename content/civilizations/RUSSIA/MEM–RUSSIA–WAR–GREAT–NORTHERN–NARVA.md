@@ -1,20 +1,27 @@
-MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA — v2.0
+MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: INITIAL v2.0 COMPLIANAD
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Narva
 Dates: 1700 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,400
+Word Count: ~2,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -227,15 +234,22 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
+Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — war context and validation framework
 • MEM–RUSSIA–WAR–POLTAVA — reversal and vindication
 • MEM–RUSSIA–PETER–GREAT — modernization project and reform acceleration
 • MEM–RUSSIA–SWEDEN — strategic rivalry and military challenge
+• MEM–RUSSIA–MUSCOVY — pre-reform state structure exposed at Narva
+• MEM–RUSSIA–TIME–TROUBLES — prior systemic collapse and recovery precedent
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic legitimacy tested by defeat
+• MEM–RUSSIA–NOVGOROD — historical Baltic connection and trade legacy
+• MEM–RUSSIA–SUVOROV — later military reform and professionalization
+• MEM–RUSSIA–KUTUZOV — endurance doctrine and strategic patience
 
-GEO–MEM (REQUIRED):
+GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–BALTIC–SEA — strategic objective and access point
 • MEM–RUSSIA–GEO–GULF–FINLAND — regional context and naval implications
+• MEM–RUSSIA–GEO–NEVA–RIVER — St. Petersburg foundation and Baltic gateway
 
 Cross-civilizational:
 • MEM–GERMANIA–WAR–JENA — catastrophic defeat as reform catalyst
@@ -255,6 +269,25 @@ diagnostic function and its role in Peter's transformation project.
 
 Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
+
+────────────────────────────────────────────────────────────
+MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Swedish military dispatches and battle reports (1700)
+• Russian archival records of the Narva campaign
+
+Secondary Sources:
+• Massie, Robert K. *Peter the Great: His Life and World*. New York:
+  Alfred A. Knopf, 1980.
+• Lieven, Dominic. *Russia Against Napoleon: The Battle for Europe,
+  1807-1814*. London: Allen Lane, 2009.
+• Hosking, Geoffrey. *Russia: People and Empire, 1552-1917*. Cambridge:
+  Harvard University Press, 1997.
+• Englund, Peter. *The Battle That Shook Europe: Poltava and the Birth
+  of the Russian Empire*. London: I.B. Tauris, 2003.
+• Hughes, Lindsey. *Russia in the Age of Peter the Great*. New Haven:
+  Yale University Press, 1998.
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -278,5 +311,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA v2.7
 ────────────────────────────────────────────────────────────

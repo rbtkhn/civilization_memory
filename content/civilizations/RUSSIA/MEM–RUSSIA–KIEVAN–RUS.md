@@ -1,8 +1,8 @@
-MEM–RUSSIA–KIEVAN–RUS — v2.0
+MEM–RUSSIA–KIEVAN–RUS — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Early Rus’ · Trade-Networked Plural Civilization
@@ -13,8 +13,12 @@ Last Update: January 2026
 Word Count: ~2,900
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.5
+Governed by: CIV–MEM–TEMPLATE v2.7
 Compatibility: CIV–MEM–CORE v2.0+
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -207,23 +211,27 @@ What was replaced:
 Continuity flowed through transformation, not preservation.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY · COMPLIANT)
+XII. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–RURIK
-• MEM–RUSSIA–OLEG–NOVGOROD
-• MEM–RUSSIA–VLADIMIR–GREAT
-• MEM–RUSSIA–YAROSLAV–WISE
-• MEM–RUSSIA–ALEXANDER–NEVSKY
-• MEM–RUSSIA–MONGOL–EMPIRE
-• MEM–RUSSIA–MUSCOVY
-• MEM–RUSSIA–KIEV
-• MEM–RUSSIA–PRIMARY–CHRONICLE
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY
+• MEM–RUSSIA–RURIK — founding dynasty
+• MEM–RUSSIA–OLEG–NOVGOROD — early consolidation
+• MEM–RUSSIA–VLADIMIR–GREAT — Christianization pivot
+• MEM–RUSSIA–YAROSLAV–WISE — legal codification
+• MEM–RUSSIA–ALEXANDER–NEVSKY — survival under Mongol rule
+• MEM–RUSSIA–MONGOL–EMPIRE — civilizational shock
+• MEM–RUSSIA–MUSCOVY — successor state formation
+• MEM–RUSSIA–KIEV — capital and symbolic center
+• MEM–RUSSIA–PRIMARY–CHRONICLE — memory compiler
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — civilizational coding
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–DNEIPER–RIVER
-• MEM–RUSSIA–GEO–VOLGA–RIVER
+• MEM–RUSSIA–GEO–DNIEPER–RIVER — trade corridor spine
+• MEM–RUSSIA–GEO–VOLGA–RIVER — eastern trade route
+
+Cross-civilizational:
+• MEM–BYZANTIUM–CONSTANTINOPLE — Orthodox transmission
+• MEM–SCANDINAVIA–VARANGIANS — elite formation origin
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)
@@ -244,7 +252,16 @@ This MEM supports exploration of:
 • why survival logic displaced openness
 
 ────────────────────────────────────────────────────────────
-XV. MEM INGEST BOOTSTRAP (HARDENED · v2.2)
+XV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Franklin, Simon, and Shepard, Jonathan. *The Emergence of Rus 750–1200*. London: Longman, 1996.
+• Halperin, Charles J. *Russia and the Golden Horde*. Bloomington: Indiana University Press, 1985.
+• Martin, Janet. *Medieval Russia 980–1584*. Cambridge: Cambridge University Press, 1995.
+• Raffensperger, Christian. *Reimagining Europe: Kievan Rus' in the Medieval World*. Cambridge: Harvard University Press, 2012.
+• Ostrowski, Donald. *Muscovy and the Mongols*. Cambridge: Cambridge University Press, 1998.
+
+────────────────────────────────────────────────────────────
+XVI. MEM INGEST BOOTSTRAP (HARDENED · v2.7)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–KIEVAN–RUS
 Status: ACTIVE
@@ -253,5 +270,5 @@ Exploration options available.
 (Exactly eight options presented on first ingest.)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KIEVAN–RUS v2.0
+END OF FILE — MEM–RUSSIA–KIEVAN–RUS v2.7
 ────────────────────────────────────────────────────────────

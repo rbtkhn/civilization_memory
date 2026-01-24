@@ -1,14 +1,25 @@
-MEM–RUSSIA–SIBERIA — v1.0
+MEM–RUSSIA–SIBERIA — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · v2.7 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Siberia (Imperial Incorporation & Civilizational Process)
 Dates: c. 1580 AD–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: [TBD]
+Word Count: ~2,800
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject (imperial territorial process).
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -172,21 +183,58 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Primary:
-• Siberian prikaz records
-• Yasak registers
-• Exile correspondence
-• Gulag administrative archives
+RUSSIA (≥10):
+• MEM–RUSSIA–COSSACKS — primary agents of Siberian conquest and frontier enforcement
+• MEM–RUSSIA–YERMAK — initiator of Siberian campaign; foundational conquest narrative
+• MEM–RUSSIA–KHANATE–SIBIR — conquered polity; entry point for Russian expansion
+• MEM–RUSSIA–IVAN–TERRIBLE — tsar who authorized Siberian conquest
+• MEM–RUSSIA–GULAG — Soviet intensification of Siberian penal function
+• MEM–RUSSIA–PETER–GREAT — administrative systematization of Siberian extraction
+• MEM–RUSSIA–EXILE–SYSTEM — Siberia as punishment geography; political removal
+• MEM–RUSSIA–TRANS–SIBERIAN — infrastructure binding Siberia to core Russia
+• MEM–RUSSIA–DECEMBRISTS — exiles who shaped Siberian intellectual culture
+• MEM–RUSSIA–INDUSTRIALIZATION — Soviet megaprojects and resource extraction
 
-Secondary:
-• Alexander Etkind
-• Yuri Slezkine
-• James Forsyth
-• W. Bruce Lincoln
-• Orlando Figes
+GEO (≥2):
+• MEM–GEO–SIBERIAN–PLAIN — territorial scale enabling thin governance
+• MEM–GEO–URAL–MOUNTAINS — geographic boundary marking Siberian entry
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SIBERIA v1.0
+XII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• Siberian prikaz records (17th–18th c.)
+• Yasak registers and tribute records
+• Exile correspondence and memoirs
+• Gulag administrative archives (GARF, RGASPI)
+
+SECONDARY SOURCES:
+• Etkind, Alexander. *Internal Colonization: Russia's Imperial Experience*. Polity, 2011.
+• Slezkine, Yuri. *Arctic Mirrors: Russia and the Small Peoples of the North*. Cornell UP, 1994.
+• Forsyth, James. *A History of the Peoples of Siberia: Russia's North Asian Colony 1581–1990*. Cambridge UP, 1992.
+• Lincoln, W. Bruce. *The Conquest of a Continent: Siberia and the Russians*. Random House, 1994.
+• Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*. Metropolitan, 2002.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–SIBERIA
+Status: ACTIVE
+
+Exploration options available:
+A. Cossack conquest and corridor control  
+B. Yasak tribute and thin governance  
+C. Indigenous peoples under imperial asymmetry  
+D. Exile as punishment geography  
+E. Siberian myth and national psychology  
+F. Soviet industrialization and Gulag  
+G. Counterfactual: Russia without Siberia  
+H. Compliance & integrity audit (v2.7)
+
+User selects ONE option only.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–SIBERIA v2.7
 ────────────────────────────────────────────────────────────

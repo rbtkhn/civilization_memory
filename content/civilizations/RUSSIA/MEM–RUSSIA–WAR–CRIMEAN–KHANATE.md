@@ -1,14 +1,28 @@
-MEM–RUSSIA–WAR–CRIMEAN–KHANATE — v1.0
+MEM–RUSSIA–WAR–CRIMEAN–KHANATE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+
+Status: ACTIVE · CANONICAL
+Version: 2.7
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars & Raiding Conflict with the Crimean Khanate
 Dates: c. 1441–1783 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: [TBD]
+Word Count: ~2,500
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -140,21 +154,51 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Primary:
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–GOLDEN–HORDE — Origin of Crimean Khanate
+• MEM–RUSSIA–IVAN–IV — Campaign against successor khanates
+• MEM–RUSSIA–MUSCOVY — State absorbing southern frontier
+• MEM–RUSSIA–CATHERINE–GREAT — Annexation of Crimea
+• MEM–RUSSIA–COSSACKS — Frontier defense force
+• MEM–RUSSIA–WAR–RUSSO–TURKISH — Ottoman connection
+• MEM–RUSSIA–WAR–KAZAN — Related successor khanate conflict
+• MEM–RUSSIA–WAR–ASTRAKHAN — Volga khanate capture
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Defense against Islamic raids
+• MEM–RUSSIA–SIBERIA — Eastern expansion parallel
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–STEPPE — Frontier warfare environment
+• MEM–RUSSIA–GEO–DON–RIVER — Southern defense corridor
+• MEM–RUSSIA–GEO–VOLGA–RIVER — Eastern anchor of defense lines
+
+Cross-civilizational:
+• MEM–ISLAM–OTTOMAN–EMPIRE — Crimean suzerain power
+• MEM–ISLAM–TATAR–LEGACY — Steppe warfare tradition
+
+Each connection is structurally required.
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
 • Muscovite chronicles
 • Diplomatic correspondence
 • Military line records (засечные черты)
 • Ottoman administrative sources
 
-Secondary:
-• Brian Davies
-• Alan Fisher
-• Janet Martin
-• Charles Halperin
-• Dominic Lieven
+Secondary Sources:
+• Davies, Brian L. *Warfare, State and Society on the Black Sea Steppe,
+  1500–1700*. London: Routledge, 2007.
+• Fisher, Alan. *The Crimean Tatars*. Stanford: Hoover Institution Press, 1978.
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge: Cambridge
+  University Press, 2007.
+• Halperin, Charles. *Russia and the Golden Horde*. Bloomington: Indiana
+  University Press, 1985.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London:
+  John Murray, 2000.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–CRIMEAN–KHANATE v1.0
+END OF FILE — MEM–RUSSIA–WAR–CRIMEAN–KHANATE v2.7
 ────────────────────────────────────────────────────────────

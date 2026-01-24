@@ -1,8 +1,8 @@
-MEM–RUSSIA–LAW–SERFDOM — v2.0
+MEM–RUSSIA–LAW–SERFDOM — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Supersedes: v1.0 (renamed from MEM–RUSSIA–SERFDOM)
 Upgrade Type: ADDITIVE · v2.0 COMPLIANCE + RENAME (v1.0 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
@@ -14,8 +14,12 @@ Word Count: ~1,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject (legal-institutional system).
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -143,32 +147,35 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–EMANCIPATION — abolition and reform (1861)
-• MEM–RUSSIA–ALEXANDER–II — reformer who abolished serfdom
-• MEM–RUSSIA–WAR–PUGACHEV–REBELLION — peasant uprising against serfdom
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynasty that maintained and abolished serfdom
-• MEM–RUSSIA–ALEXEI–ROMANOV — 1649 Law Code formalizing serfdom
-• MEM–RUSSIA–CATHERINE–GREAT — expansion of serfdom
+RUSSIA (≥10):
+• MEM–RUSSIA–LAW–EMANCIPATION — abolition; understanding serfdom requires its termination context
+• MEM–RUSSIA–ALEXANDER–II — reformer who decreed abolition; successor state response
+• MEM–RUSSIA–WAR–PUGACHEV–REBELLION — largest peasant uprising; demonstrates coercive cost
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynasty that codified, maintained, and abolished serfdom
+• MEM–RUSSIA–ALEXEI–ROMANOV — 1649 Ulozhenie formalizes serfdom as legal institution
+• MEM–RUSSIA–CATHERINE–GREAT — expansion of serfdom to new territories; nobility charter
+• MEM–RUSSIA–PETER–GREAT — intensification of peasant obligations for state projects
+• MEM–RUSSIA–SERVICE–NOBILITY — nobles receive serfs in exchange for state service
+• MEM–RUSSIA–CRIMEAN–WAR — strategic shock exposing serfdom as liability
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church legitimization of social hierarchy
 
-GEO–MEM (REQUIRED):
-• MEM–RUSSIA–GEO–STEPPE — agricultural foundation of serfdom
-• MEM–RUSSIA–GEO–FOREST–ZONE — territorial control through bondage
-
-Cross-civilizational:
-• (No direct cross-civilizational connections)
+GEO (≥2):
+• MEM–GEO–RUSSIAN–STEPPE — agricultural foundation; grain surplus extraction zone
+• MEM–GEO–RUSSIAN–FOREST–ZONE — territorial control through bondage; peasant flight prevention
 
 ────────────────────────────────────────────────────────────
-X. ACADEMIC REFERENCES (ENGAGED)
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-Engaged scholarship includes:
-• Jerome Blum — serfdom and agrarian structure
-• David Moon — serfdom abolition and reform
-• Isabel de Madariaga — Catherine the Great and serfdom expansion
-• Richard Pipes — serfdom and Russian state development
+PRIMARY SOURCES:
+• *Ulozhenie* (Law Code of 1649), Chapter XI: On Peasants
+• Estate records and fugitive peasant registers (17th–19th c.)
 
-Academic sources frame interpretation but do not override primary
-evidence or structural analysis.
+SECONDARY SOURCES:
+• Blum, Jerome. *Lord and Peasant in Russia from the Ninth to the Nineteenth Century*. Princeton UP, 1961.
+• Moon, David. *The Abolition of Serfdom in Russia, 1762–1907*. Longman, 2001.
+• de Madariaga, Isabel. *Russia in the Age of Catherine the Great*. Yale UP, 1981.
+• Pipes, Richard. *Russia Under the Old Regime*. Scribner, 1974.
+• Kolchin, Peter. *Unfree Labor: American Slavery and Russian Serfdom*. Harvard UP, 1987.
 
 ────────────────────────────────────────────────────────────
 XI. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -192,5 +199,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–SERFDOM v2.0
+END OF FILE — MEM–RUSSIA–LAW–SERFDOM v2.7
 ────────────────────────────────────────────────────────────

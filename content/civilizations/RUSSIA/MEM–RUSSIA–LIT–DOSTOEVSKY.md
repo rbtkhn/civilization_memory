@@ -1,8 +1,8 @@
-MEM–RUSSIA–LIT–DOSTOEVSKY — v2.0
+MEM–RUSSIA–LIT–DOSTOEVSKY — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.7
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Fyodor Dostoevsky (Фёдор Достоевский) — Psychological Memory Architect
 Dates: 1821–1881 AD (decisive works: 1866–1880)
@@ -12,8 +12,12 @@ Word Count: ~2,600
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -190,23 +194,44 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 XIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
+Russian (≥10):
 • MEM–RUSSIA–SERFDOM — suffering and redemption framework
 • MEM–RUSSIA–DYNASTY–ROMANOV — elite corruption vs popular faith
 • MEM–RUSSIA–ALEXANDER–II — reform era and moral tension
 • MEM–RUSSIA–NICHOLAS–II — suffering and legitimacy collapse
-• MEM–RUSSIA–GEO–STEPPE — landscape of endurance and suffering
 • MEM–RUSSIA–LIT–TOLSTOY — contrast: psychological vs historical memory
+• MEM–RUSSIA–LIT–PUSHKIN — literary language foundation preceding Dostoevsky
+• MEM–RUSSIA–LIT–GOGOL — grotesque predecessor to psychological depth
+• MEM–RUSSIA–ORTHODOXY — Orthodox Christianity as foundation of Russian identity
+• MEM–RUSSIA–SIBERIA — exile experience shaping suffering narrative
+• MEM–RUSSIA–NIHILISM — intellectual movement critiqued in Dostoevsky's works
+• MEM–RUSSIA–INTELLIGENTSIA — tension between Western and Slavophile thought
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — landscape of suffering and endurance
 • MEM–RUSSIA–GEO–FOREST–ZONE — isolation and introspection
 
 Cross-civilizational:
 • MEM–GERMANIA–PHILOSOPHY — contrast: Western rationalism vs Russian faith
+• MEM–FRANCIA–REVOLUTION — Western revolutionary thought as nihilist threat
 
 ────────────────────────────────────────────────────────────
-XIV. ACADEMIC REFERENCES (ENGAGED)
+XIV. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Frank, Joseph. *Dostoevsky: A Writer in His Time*. 5 vols. Princeton:
+  Princeton University Press, 1976–2002. [PRIMARY: comprehensive biographical
+  and literary analysis]
+• Bakhtin, Mikhail. *Problems of Dostoevsky's Poetics*. Trans. Caryl Emerson.
+  Minneapolis: University of Minnesota Press, 1984. [polyphonic novel theory]
+• Mochulsky, Konstantin. *Dostoevsky: His Life and Work*. Trans. Michael
+  Minihan. Princeton: Princeton University Press, 1967.
+• Jackson, Robert Louis. *The Art of Dostoevsky: Deliriums and Nocturnes*.
+  Princeton: Princeton University Press, 1981.
+• Terras, Victor, ed. *A Karamazov Companion*. Madison: University of
+  Wisconsin Press, 1981.
+
+────────────────────────────────────────────────────────────
+XV. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:
 • Joseph Frank — PRIMARY modern authority: comprehensive biographical
@@ -245,5 +270,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–DOSTOEVSKY v2.0
+END OF FILE — MEM–RUSSIA–LIT–DOSTOEVSKY v2.7
 ────────────────────────────────────────────────────────────

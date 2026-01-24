@@ -1,17 +1,24 @@
-MEM–RUSSIA–GEO–WHITE–SEA — v2.0
+MEM–RUSSIA–GEO–WHITE–SEA — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: White Sea (Белое море)
 Dates: Medieval period–present
 Class: MEM (Civilizational Memory)
-ARC Version: ARC–RUSSIA v1.5
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~2,450
+Word Count: ~2,650
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -219,5 +226,20 @@ XV. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–WHITE–SEA v2.0
+XVI. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Strabo, *Geographica* (trans. H.L. Jones, Loeb Classical Library)
+• *Novgorod Chronicles*, trans. R. Michell & N. Forbes (1914)
+• Fletcher, Giles the Elder. *Of the Russe Common Wealth* (1591)
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917* (1997)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Lincoln, W. Bruce. *The Conquest of a Continent: Siberia and the Russians* (1994)
+• Bushkovitch, Paul. *A Concise History of Russia* (2012)
+• Shaw, Denis J.B. *Russia in the Modern World: A New Geography* (1999)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–WHITE–SEA v2.7
 ────────────────────────────────────────────────────────────

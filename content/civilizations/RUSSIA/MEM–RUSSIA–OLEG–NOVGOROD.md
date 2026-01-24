@@ -1,15 +1,25 @@
-MEM–RUSSIA–OLEG–NOVGOROD — v2.1
+MEM–RUSSIA–OLEG–NOVGOROD — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Upgrade Type: STRUCTURAL CLARIFICATION · EPISTEMIC HARDENING
+Version: 2.7
+Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v2.1 → v2.7)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Oleg of Novgorod (Вещий Олег)
 Dates: c. 879–912 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,210
+Word Count: ~2,500
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.0+
+• ARC–RUSSIA v1.5 (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a SPARSE SOURCES subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -177,18 +187,25 @@ Oleg does not fuse law, theology, or bureaucratic doctrine to conquest.
 Authority remains procedural, kinetic, and corridor-based.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (EXPLICIT)
+IX. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Connected MEM files include:
-
-RUSSIA:
+Same-civilization connections (≥10):
 • MEM–RUSSIA–RURIK — succession & warlord origins
-• MEM–RUSSIA–KIEV — urban and sacred capital
-• MEM–RUSSIA–GEO–DNEIPER — corridor logic
-• MEM–RUSSIA–VARANGIANS — external warrior elite
+• MEM–RUSSIA–KIEVAN–RUS — urban and sacred capital established
+• MEM–RUSSIA–VARANGIANS — external warrior elite integration
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — later sacral overlay
+• MEM–RUSSIA–PRIMARY–CHRONICLE — principal source for Oleg narrative
+• MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity through regency
+• MEM–RUSSIA–IGOR — successor whom Oleg protected
+• MEM–RUSSIA–VLADIMIR–GREAT — later Kievan consolidation
+• MEM–RUSSIA–TRADE–ROUTES — Byzantine commercial connections
+• MEM–RUSSIA–MONGOL–EMPIRE — later pattern of external projection
 
-OTHER CIVILIZATIONS:
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–DNIEPER — corridor logic and Kievan anchoring
+• MEM–RUSSIA–GEO–BLACK–SEA — Byzantine projection and trade routes
+
+Cross-civilization connections:
 • MEM–GERMANIA–CHARLEMAGNE — coercive unification
 • MEM–CHINA–QIN–SHI–HUANG — expansion before doctrine
 • MEM–FRANCIA–EARLY–CAPETIAN — weak institutions, dynastic glue
@@ -234,10 +251,22 @@ D) Study myth-making as post-regime stabilization
 E) Cross-compare with Charlemagne or Qin unification  
 F) Trace corridor logic across Russian history  
 G) Counterfactual: Rus’ without the Kiev shift  
-H) Compliance & Integrity Audit (v1.6)
+H) Compliance & Integrity Audit (v2.7)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–OLEG–NOVGOROD v2.1
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Primary Sources:
+• *Primary Chronicle* (Povest' vremennykh let), Laurentian recension
+
+Secondary Sources:
+• Franklin, Simon & Shepard, Jonathan. *The Emergence of Rus 750–1200* (1996)
+• Vernadsky, George. *Kievan Russia* (1948)
+• Cross, Samuel H. & Sherbowitz-Wetzor, Olgerd P. *The Russian Primary Chronicle* (1953)
+• Martin, Janet. *Medieval Russia, 980–1584* (2007)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–OLEG–NOVGOROD v2.7
 ────────────────────────────────────────────────────────────

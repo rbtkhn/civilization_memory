@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXANDER–II — v1.0
+MEM–RUSSIA–ALEXANDER–II — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.0 → v1.1)
+Version: 2.7
+Supersedes: v1.1
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Alexander II (Александр II)
@@ -12,6 +12,12 @@ Dates: 1818–1881 AD (rule: 1855–1881)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a MODERN subject.
+Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)
@@ -163,12 +169,23 @@ XI. ACADEMIC REFERENCES (ENGAGED)
 • Richard Pipes — state authority vs society
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY)
+XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–SERFDOM — structural constraints
 • MEM–RUSSIA–EMANCIPATION — post-reform dynamics
 • MEM–RUSSIA–ALEXANDER–III — recoil after reform failure
+• MEM–RUSSIA–NICHOLAS–I — pre-reform autocracy
+• MEM–RUSSIA–NICHOLAS–II — terminal collapse successor
+• MEM–RUSSIA–CRIMEAN–WAR — defeat catalyst
+• MEM–RUSSIA–INTELLIGENTSIA — radicalization vector
+• MEM–RUSSIA–POPULISM — revolutionary ideology
+• MEM–RUSSIA–ZEMSTVO — local governance experiment
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic continuity
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–ST–PETERSBURG — administrative center
+• MEM–RUSSIA–GEO–BLACK–SEA — strategic vulnerability
 
 Cross-civilizational:
 • MEM–FRANCIA–1848 — reform triggering radicalization
@@ -176,4 +193,20 @@ Cross-civilizational:
 • MEM–CHINA–QING–SELF-STRENGTHENING — reform limits
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–II v1.1
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Alexander II, Emancipation Manifesto (1861)
+• Imperial security circular (internal)
+
+SCHOLARLY SOURCES CONSULTED:
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Figes, Orlando. *A People's Tragedy: The Russian Revolution, 1891–1924*. London: Jonathan Cape, 1996.
+• Lincoln, W. Bruce. *The Great Reforms: Autocracy, Bureaucracy, and the Politics of Change in Imperial Russia*. DeKalb: Northern Illinois University Press, 1990.
+• Pipes, Richard. *Russia Under the Old Regime*. New York: Charles Scribner's Sons, 1974.
+• Wcislo, Francis W. *Reforming Rural Russia: State, Local Society, and National Politics, 1855–1914*. Princeton: Princeton University Press, 1990.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–ALEXANDER–II v2.7
+────────────────────────────────────────────────────────────

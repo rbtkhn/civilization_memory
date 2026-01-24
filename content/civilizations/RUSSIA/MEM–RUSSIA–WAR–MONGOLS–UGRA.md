@@ -1,9 +1,9 @@
-MEM–RUSSIA–WAR–MONGOLS–UGRA — v2.0
+MEM–RUSSIA–WAR–MONGOLS–UGRA — v2.7
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.0
-Supersedes: —
-Upgrade Type: FOUNDATIONAL · TEMPLATE-COMPLIANT INITIAL ISSUE
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: v2.7 COMPLIANCE · SUBJECT TYPE DECLARATION · MEM BIBLIOGRAPHY
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Great Stand on the Ugra River
 Dates: 1480 AD
@@ -11,9 +11,13 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,300
 
-Governed by:
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+Additional Governance:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE (live GitHub version)
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -162,14 +166,39 @@ All verbatim quotations meet attribution, length, and placement
 requirements under the live CIV–MEM–TEMPLATE.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY)
+X. MEM BIBLIOGRAPHY (v2.7 REQUIRED)
 ────────────────────────────────────────────────────────────
-• MEM–RUSSIA–WAR–MONGOLS–KALKA — recognition phase
-• MEM–RUSSIA–WAR–MONGOLS–KIEV — domination phase
-• MEM–RUSSIA–GEO–UGRA–RIVER — geographic constraint
-• MEM–RUSSIA–IVAN–III — consolidation agent
-• MEM–RUSSIA–GOLDEN–HORDE — declining overlord
+Military History Sources:
+• John Fennell — *The Crisis of Medieval Russia 1200–1304* (1983)
+• Charles J. Halperin — *Russia and the Golden Horde* (1985)
+• Janet Martin — *Medieval Russia 980–1584* (1995)
+• Donald Ostrowski — *Muscovy and the Mongols* (1998)
+• Nancy Shields Kollmann — *The Russian Empire 1450–1801* (2017)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–MONGOLS–UGRA v2.0
+XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+────────────────────────────────────────────────────────────
+Same-Civilization (≥10):
+• MEM–RUSSIA–WAR–MONGOLS–KALKA — recognition phase (1223)
+• MEM–RUSSIA–WAR–MONGOLS–KIEV — domination phase (1240)
+• MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — symbolic resistance (1380)
+• MEM–RUSSIA–IVAN–III — consolidation agent and sovereign actor
+• MEM–RUSSIA–GOLDEN–HORDE — declining overlord structure
+• MEM–RUSSIA–MOSCOW — centralized Muscovite power base
+• MEM–RUSSIA–CRIMEAN–KHANATE — alternative Mongol successor power
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious continuity
+• MEM–RUSSIA–TRIBUTE–SYSTEMS — terminated fiscal subordination
+• MEM–RUSSIA–DYNASTY–RURIKID — Muscovite dynastic consolidation
+
+GEO–MEM (≥2):
+• MEM–RUSSIA–GEO–UGRA–RIVER — geographic barrier and strategic constraint
+• MEM–RUSSIA–GEO–OKA–RIVER — defensive river system
+• MEM–RUSSIA–GEO–FOREST–ZONE — Muscovite territorial depth
+
+Cross-civilizational:
+• MEM–MONGOL–IMPERIAL–DECLINE — fragmentation enabling release
+• MEM–EURASIA–TRIBUTE–SYSTEMS — termination of coercive hierarchy
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–MONGOLS–UGRA v2.7
 ────────────────────────────────────────────────────────────

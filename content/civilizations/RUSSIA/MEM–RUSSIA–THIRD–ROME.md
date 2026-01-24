@@ -1,15 +1,26 @@
-MEM–RUSSIA–THIRD–ROME — v1.0
+MEM–RUSSIA–THIRD–ROME — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · v2.7 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IDEOLOGICAL–IMPERIAL DOCTRINE
 Subject: “Third Rome” (Третий Рим)
 Dates: c. 1510s AD–present (doctrinal arc)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: [TBD]
+Word Count: ~1,800
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses an INTERPRETIVE subject (ideological-doctrinal formation).
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -89,5 +100,56 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–THIRD–ROME v1.0
+VII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+RUSSIA (≥10):
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious foundation; Third Rome is Orthodox claim
+• MEM–RUSSIA–MUSCOVY — political context; Moscow's rise enables doctrinal assertion
+• MEM–RUSSIA–IVAN–III — ruler who married Byzantine princess; dynastic claim basis
+• MEM–RUSSIA–IVAN–TERRIBLE — first tsar; Third Rome justifies tsarist title
+• MEM–RUSSIA–FILOFEI — monk who formulated the doctrine in epistolary form
+• MEM–RUSSIA–BYZANTIUM–FALL — 1453 collapse creates vacancy Third Rome fills
+• MEM–RUSSIA–AUTOCRACY — political form Third Rome sacralizes
+• MEM–RUSSIA–PATRIARCH — Moscow patriarchate (1589) institutionalizes claim
+• MEM–RUSSIA–PETER–GREAT — tension with Third Rome; westernization challenges doctrine
+• MEM–RUSSIA–SOVIET–MESSIANISM — secular transposition of Third Rome finality
+
+GEO (≥2):
+• MEM–GEO–CONSTANTINOPLE — fallen Second Rome; legitimacy transfer origin
+• MEM–GEO–MOSCOW — Third Rome city; sacral center claim
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• Filofei of Pskov, Epistle to Grand Prince Vasily III (c. 1510–1520)
+• Moscow Patriarchate founding documents (1589)
+
+SECONDARY SOURCES:
+• Poe, Marshall. "Moscow, the Third Rome: The Origins and Transformations of a 'Pivotal Moment'." *Jahrbücher für Geschichte Osteuropas* 49, no. 3 (2001): 412–429.
+• Cherniavsky, Michael. "Holy Russia: A Study in the History of an Idea." *The American Historical Review* 63, no. 3 (1958): 617–637.
+• Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier*. Cambridge UP, 1998.
+• Hosking, Geoffrey. *Russia and the Russians: A History*. Harvard UP, 2001.
+• Billington, James H. *The Icon and the Axe: An Interpretive History of Russian Culture*. Knopf, 1966.
+
+────────────────────────────────────────────────────────────
+IX. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–THIRD–ROME
+Status: ACTIVE
+
+Exploration options available:
+A. Doctrinal formulation and Filofei's epistle  
+B. Political implications for tsarist sovereignty  
+C. Defensive vs expansionist interpretation  
+D. Long-term afterlife through regime changes  
+E. Third Rome and Russian autocracy  
+F. Soviet secular messianism as transposition  
+G. Counterfactual: Russia without Third Rome doctrine  
+H. Compliance & integrity audit (v2.7)
+
+User selects ONE option only.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–THIRD–ROME v2.7
 ────────────────────────────────────────────────────────────

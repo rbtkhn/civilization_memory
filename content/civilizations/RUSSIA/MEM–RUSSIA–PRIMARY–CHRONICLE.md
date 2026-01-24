@@ -1,8 +1,8 @@
-MEM–RUSSIA–PRIMARY–CHRONICLE — v2.0
+MEM–RUSSIA–PRIMARY–CHRONICLE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · ARC-COMPLIANT
-Version: 2.0
+Status: ACTIVE · CANONICAL · ARC-COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Supersedes: v1.1
 Upgrade Type: DEEP CANONICAL UPGRADE · ARC EVIDENTIARY SPINE FORMALIZATION
 Civilization: RUSSIA (Русская цивилизация)
@@ -15,8 +15,12 @@ Word Count: ~3,900
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • CIV–ARC–RUSSIA v1.5 (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -237,7 +241,39 @@ Supports inquiry into:
 • limits of chronicle-based reasoning
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
+XII. MEM CONNECTIONS (v2.7 COMPLIANT)
+────────────────────────────────────────────────────────────
+Same-civilization (≥10):
+• MEM–RUSSIA–KIEVAN–RUS — civilizational context
+• MEM–RUSSIA–RURIK — founding dynasty narrated
+• MEM–RUSSIA–VLADIMIR–GREAT — Christianization narrative
+• MEM–RUSSIA–YAROSLAV–WISE — chronicle patronage
+• MEM–RUSSIA–OLEG–NOVGOROD — early ruler accounts
+• MEM–RUSSIA–ORTHODOXY — sacred legitimacy framework
+• MEM–RUSSIA–NESTOR — traditional compiler attribution
+• MEM–RUSSIA–MUSCOVY — ideological inheritance
+• MEM–RUSSIA–MONGOL–INVASION — terminus event
+• MEM–RUSSIA–DYNASTY–RURIKID — genealogical spine
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–KIEV — chronicle production center
+• MEM–RUSSIA–GEO–NOVGOROD — alternative chronicle tradition
+
+Cross-civilizational:
+• MEM–BYZANTIUM–HISTORIOGRAPHY — chronicle genre origin
+• MEM–SCANDINAVIA–SAGAS — comparative narrative tradition
+
+────────────────────────────────────────────────────────────
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Cross, Samuel Hazzard, and Sherbowitz-Wetzor, Olgerd P. *The Russian Primary Chronicle: Laurentian Text*. Cambridge: Medieval Academy of America, 1953.
+• Karamzin, Nikolai. *History of the Russian State* (Istoriya gosudarstva Rossiiskogo). 12 vols. St. Petersburg, 1816–1829.
+• Klyuchevsky, Vasily. *A Course of Russian History* (Kurs russkoy istorii). Moscow, 1904–1922.
+• Franklin, Simon, and Shepard, Jonathan. *The Emergence of Rus 750–1200*. London: Longman, 1996.
+• Ostrowski, Donald. *The Povest' vremennykh let: An Interlinear Collation and Paradosis*. Cambridge: Harvard Ukrainian Research Institute, 2003.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -259,5 +295,5 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PRIMARY–CHRONICLE v2.0
+END OF FILE — MEM–RUSSIA–PRIMARY–CHRONICLE v2.7
 ────────────────────────────────────────────────────────────

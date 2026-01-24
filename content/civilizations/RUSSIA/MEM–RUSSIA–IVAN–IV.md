@@ -1,8 +1,8 @@
-MEM–RUSSIA–IVAN–IV — v2.0
+MEM–RUSSIA–IVAN–IV — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
-Version: 2.0
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Upgrade Type: TEMPLATE v2.2 COMPLIANCE + LEGITIMACY SEQUENCING REBIND + RLL INTEGRATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM · UNBUFFERED MUSCOVITE AUTOCRACY
@@ -14,8 +14,12 @@ Word Count: ~2,750
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -182,14 +186,23 @@ He is neither aberration nor archetype.
 He is the limit case.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
+X. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russia (core):
+Same-civilization (≥10):
 • MEM–RUSSIA–IVAN–III — coercive absorption with buffers
 • MEM–RUSSIA–MUSCOVY — sequencing solution under compression
 • MEM–RUSSIA–TIME–TROUBLES — downstream collapse
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
+• MEM–RUSSIA–OPRICHNINA — unbuffered terror system
+• MEM–RUSSIA–KURBSKY — sovereign psychology exposure
+• MEM–RUSSIA–KAZAN–CONQUEST — eastern expansion success
+• MEM–RUSSIA–LIVONIAN–WAR — western expansion failure
+• MEM–RUSSIA–BOYAR–DUMA — elite destruction dynamics
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–VOLGA–RIVER — eastern expansion corridor
+• MEM–RUSSIA–GEO–MOSCOW — coercive center consolidation
 
 Comparative (structural):
 • MEM–FRANCIA–WAR–RELIGION — terror without institutional buffering
@@ -220,7 +233,16 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Madariaga, Isabel de. *Ivan the Terrible: First Tsar of Russia*. New Haven: Yale University Press, 2005.
+• Plokhy, Serhii. *The Gates of Europe: A History of Ukraine*. New York: Basic Books, 2015.
+• Perrie, Maureen. *The Image of Ivan the Terrible in Russian Folklore*. Cambridge: Cambridge University Press, 1987.
+• Pavlov, Andrei, and Perrie, Maureen. *Ivan the Terrible*. London: Pearson, 2003.
+• Cherniavsky, Michael. *Tsar and People: Studies in Russian Myths*. New Haven: Yale University Press, 1961.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -236,10 +258,10 @@ MANDATORY EIGHT-OPTION SET:
 5) Sacral endurance vs institutional collapse
 6) Comparative terror regimes
 7) Counterfactual: buffered autocracy
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
 
 User selects ONE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–IV v2.0
+END OF FILE — MEM–RUSSIA–IVAN–IV v2.7
 ────────────────────────────────────────────────────────────

@@ -1,15 +1,24 @@
-MEM–RUSSIA–GEO–CARPATHIANS — v2.0
+MEM–RUSSIA–GEO–CARPATHIANS — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE
-Version: 2.0
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Carpathian Mountains (Карпаты)
 Dates: c. 1000 AD–present (medieval interaction to modern boundary)
 Class: MEM (Civilizational Memory)
-ARC Version: ARC–RUSSIA v1.5
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~3,300
+Word Count: ~3,500
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -401,5 +410,22 @@ When ingested without CIV–CORE–RUSSIA, the system MUST:
 4) Wait for user selection before proceeding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–CARPATHIANS v2.0
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Herodotus, *Histories*, Book IV (trans. A.D. Godley, Loeb Classical Library, 1920)
+• Strabo, *Geography*, Book VII (trans. H.L. Jones, Loeb Classical Library, 1923)
+• Pliny the Elder, *Natural History*, Book IV (trans. H. Rackham, Loeb Classical Library, 1942)
+• Constantine VII Porphyrogenitus, *De Administrando Imperio* (trans. R.J.H. Jenkins, 1967)
+• Ibn Fadlan, *Risala* (trans. R. Frye, 2005)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+• Figes, Orlando. *The Crimean War: A History* (2010)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Snyder, Timothy. *The Reconstruction of Nations: Poland, Ukraine, Lithuania, Belarus, 1569–1999* (2003)
+• Subtelny, Orest. *Ukraine: A History* (4th ed., 2009)
+• Magocsi, Paul Robert. *A History of Ukraine: The Land and Its Peoples* (2nd ed., 2010)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–CARPATHIANS v2.7
 ────────────────────────────────────────────────────────────

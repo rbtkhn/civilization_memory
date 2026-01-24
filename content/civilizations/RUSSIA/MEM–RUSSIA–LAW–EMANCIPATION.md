@@ -1,8 +1,8 @@
-MEM–RUSSIA–LAW–EMANCIPATION — v2.0
+MEM–RUSSIA–LAW–EMANCIPATION — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Supersedes: v1.0 (MEM–RUSSIA–EMANCIPATION)
 Upgrade Type: ADDITIVE · v2.0 COMPLIANCE + RENAME (v1.0 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
@@ -14,8 +14,12 @@ Word Count: ~1,800
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject (legal reform event).
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -147,31 +151,35 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–LAW–SERFDOM — system being dissolved
-• MEM–RUSSIA–ALEXANDER–II — tsar who decreed emancipation
-• MEM–RUSSIA–WAR–CRIMEAN — strategic shock catalyst
-• MEM–RUSSIA–NICHOLAS–II — ultimate failure of incomplete reform
-• MEM–RUSSIA–DYNASTY–ROMANOV — autocratic reform from above
+RUSSIA (≥10):
+• MEM–RUSSIA–LAW–SERFDOM — system being dissolved; emancipation unintelligible without it
+• MEM–RUSSIA–ALEXANDER–II — tsar who decreed emancipation; reformer-autocrat
+• MEM–RUSSIA–WAR–CRIMEAN — strategic shock catalyst; exposed serfdom as liability
+• MEM–RUSSIA–NICHOLAS–II — ultimate failure of incomplete reform trajectory
+• MEM–RUSSIA–DYNASTY–ROMANOV — autocratic reform from above pattern
+• MEM–RUSSIA–ZEMSTVO — local government reform paired with emancipation
+• MEM–RUSSIA–REVOLUTION–1905 — peasant grievances from incomplete emancipation
+• MEM–RUSSIA–REVOLUTION–1917 — land question unresolved; emancipation's terminal failure
+• MEM–RUSSIA–SERVICE–NOBILITY — gentry compensation and resistance to reform
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church role in legitimizing social transformation
 
-GEO–MEM (REQUIRED):
-• MEM–RUSSIA–GEO–STEPPE — rural foundation of serfdom system
-• MEM–RUSSIA–GEO–FOREST–ZONE — village commune structure
-
-Cross-civilizational:
-• MEM–FRANCIA–REVOLUTION — contrast: bottom-up vs top-down liberation
+GEO (≥2):
+• MEM–GEO–RUSSIAN–STEPPE — rural foundation; grain-producing regions most affected
+• MEM–GEO–BLACK–SEA — Crimean defeat zone; strategic shock geography
 
 ────────────────────────────────────────────────────────────
-X. ACADEMIC REFERENCES (ENGAGED)
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-Engaged scholarship includes:
-• David Moon — emancipation and its consequences
-• Terence Emmons — emancipation legislation and implementation
-• W. Bruce Lincoln — Alexander II and reform era
-• Jerome Blum — comparative agrarian reform
+PRIMARY SOURCES:
+• Emancipation Manifesto of 19 February 1861 (Alexander II)
+• Redemption statutes and provincial implementation records
 
-Academic sources frame interpretation but do not override primary
-evidence or structural analysis.
+SECONDARY SOURCES:
+• Moon, David. *The Abolition of Serfdom in Russia, 1762–1907*. Longman, 2001.
+• Emmons, Terence. *The Russian Landed Gentry and the Peasant Emancipation of 1861*. Cambridge UP, 1968.
+• Lincoln, W. Bruce. *The Great Reforms: Autocracy, Bureaucracy, and the Politics of Change*. Northern Illinois UP, 1990.
+• Blum, Jerome. *The End of the Old Order in Rural Europe*. Princeton UP, 1978.
+• Field, Daniel. *The End of Serfdom: Nobility and Bureaucracy in Russia, 1855–1861*. Harvard UP, 1976.
 
 ────────────────────────────────────────────────────────────
 XI. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -195,5 +203,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–EMANCIPATION v2.0
+END OF FILE — MEM–RUSSIA–LAW–EMANCIPATION v2.7
 ────────────────────────────────────────────────────────────

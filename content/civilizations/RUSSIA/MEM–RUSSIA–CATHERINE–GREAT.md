@@ -1,8 +1,8 @@
-MEM–RUSSIA–CATHERINE–GREAT — v1.3
+MEM–RUSSIA–CATHERINE–GREAT — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Supersedes: v1.3
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.3 → v2.0)
 Civilization: RUSSIA (Русская цивилизация)
@@ -15,8 +15,12 @@ Word Count: ~3,450
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -282,13 +286,23 @@ X. ACADEMIC REFERENCES (ENGAGED · LMM-COMPLIANT)
 Secondary scholarship contextualizes but does not override primary sources.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
+XI. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–PETER–GREAT — rupture preceding normalization
 • MEM–RUSSIA–SERFDOM — social immobilization tradeoff
 • MEM–RUSSIA–POLAND — imperial absorption logic
-• MEM–RUSSIA–POTEMPKIN — southern empire execution layer
+• MEM–RUSSIA–POTEMKIN — southern empire execution layer
+• MEM–RUSSIA–PUGACHEV–REBELLION — Enlightenment limits exposed
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic legitimacy framework
+• MEM–RUSSIA–ORTHODOX–CHURCH — ecclesiastical subordination maintained
+• MEM–RUSSIA–NOBILITY–CHARTER — elite compact formalization
+• MEM–RUSSIA–RUSSIAN–NAVY — Black Sea power projection
+• MEM–RUSSIA–PARTITION–POLAND — territorial expansion mechanism
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–CRIMEA — strategic annexation (1783)
+• MEM–RUSSIA–GEO–BLACK–SEA — southern expansion vector
 
 Cross-civilizational:
 • MEM–FRANCIA–ABSOLUTISM–ENLIGHTENMENT — rhetoric vs authority
@@ -296,7 +310,16 @@ Cross-civilizational:
 • MEM–OTTOMAN–DECLINE — southern expansion pressure
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (MANDATORY)
+XII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• De Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
+• Alexander, John T. *Catherine the Great: Life and Legend*. Oxford: Oxford University Press, 1989.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–CATHERINE–GREAT
 Status: ACTIVE
@@ -314,5 +337,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v2.0
+END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v2.7
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
-MEM–RUSSIA–PETER–GREAT — v2.1
+MEM–RUSSIA–PETER–GREAT — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
-Version: 2.2
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v2.1 → v2.2)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
@@ -14,10 +14,14 @@ Word Count: ~3,650
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 
 ARC Version Pinned:
 • ARC–RUSSIA (Modern hierarchy enforced)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2)
@@ -303,12 +307,39 @@ All secondary sources are subordinated to Massie’s causal frame unless
 explicitly marked as contrast.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS
+X. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-UNCHANGED FROM v2.0; SOURCE HIERARCHY ONLY REVISION
+Same-civilization (≥10):
+• MEM–RUSSIA–CATHERINE–GREAT — successor normalization of Petrine reform
+• MEM–RUSSIA–IVAN–IV — autocracy precedent without buffers
+• MEM–RUSSIA–MUSCOVY — coercive state inheritance
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic succession framework
+• MEM–RUSSIA–STRELTSY — elite resistance and suppression
+• MEM–RUSSIA–GREAT–NORTHERN–WAR — military validation of reform
+• MEM–RUSSIA–ORTHODOX–CHURCH — subordination of ecclesiastical power
+• MEM–RUSSIA–SERFDOM — labor extraction for modernization
+• MEM–RUSSIA–TABLE–RANKS — meritocratic service hierarchy
+• MEM–RUSSIA–NAVY — Baltic power projection
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–SAINT–PETERSBURG — new capital as coercion technology
+• MEM–RUSSIA–GEO–BALTIC–SEA — strategic access and European integration
+
+Cross-civilizational:
+• MEM–EUROPA–ENLIGHTENMENT — modernization models observed
+• MEM–OTTOMAN–AZOV — southern expansion ambitions
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (v2.2 COMPLIANT)
+XI. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Massie, Robert K. *Peter the Great: His Life and World*. New York: Knopf, 1980.
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Hughes, Lindsey. *Russia in the Age of Peter the Great*. New Haven: Yale University Press, 1998.
+• Cracraft, James. *The Revolution of Peter the Great*. Cambridge: Harvard University Press, 2003.
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–PETER–GREAT
 Status: ACTIVE
@@ -321,10 +352,10 @@ D) Succession strain after high-velocity reform
 E) Baltic access and exposure logic
 F) Contrast: Massie vs Lieven on endurance
 G) Contrast: Massie vs Montefiore on dynasty
-H) Compliance & integrity audit (v2.2)
+H) Compliance & integrity audit (v2.7)
 
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETER–GREAT v2.2
+END OF FILE — MEM–RUSSIA–PETER–GREAT v2.7
 ────────────────────────────────────────────────────────────

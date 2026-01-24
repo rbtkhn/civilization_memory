@@ -1,9 +1,9 @@
-MEM–RUSSIA–VLADIMIR–GREAT — v2.0
+MEM–RUSSIA–VLADIMIR–GREAT — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
+Version: 2.7
+Upgrade Type: v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Kievan Rus’ · Sacralization Pivot (Pre-Christian → Orthodox)
 Subject: Vladimir the Great (Владимир Святославич)
@@ -13,8 +13,10 @@ Last Update: January 2026
 Word Count: ~3,050
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.5
+Governed by: CIV–MEM–TEMPLATE v2.7
 Compatibility: CIV–MEM–CORE v2.0+
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -186,7 +188,16 @@ GEO (≥2):
 Each connection reinforces the sacral-legitimacy axis.
 
 ────────────────────────────────────────────────────────────
-XI. CONTINUITY INSIGHTS (RAW)
+XI. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+• Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus, 750–1200*. London: Longman, 1996.
+• Cross, Samuel Hazzard, and Olgerd P. Sherbowitz-Wetzor, trans. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Klyuchevsky, Vasily. *A Course in Russian History: The Seventeenth Century*. Trans. Natalie Duddington. Chicago: Quadrangle Books, 1968.
+• Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier*. Cambridge: Cambridge University Press, 1998.
+
+────────────────────────────────────────────────────────────
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Coercion precedes sacral legitimacy.
 • Sacred authority substitutes for administration.
@@ -195,7 +206,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Succession conflict survives sacral unity.
 
 ────────────────────────────────────────────────────────────
-XII. PEDAGOGICAL AFFORDANCE LAYER
+XIII. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports exploration of:
 • coercion vs legitimacy
@@ -206,7 +217,7 @@ This MEM supports exploration of:
 No synthesis imposed.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (HARDENED)
+XIV. MEM INGEST BOOTSTRAP (HARDENED)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–VLADIMIR–GREAT
 Status: ACTIVE
@@ -215,5 +226,5 @@ Exploration options available.
 (Exactly eight options presented on first ingest.)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–VLADIMIR–GREAT v2.0
+END OF FILE — MEM–RUSSIA–VLADIMIR–GREAT v2.7
 ────────────────────────────────────────────────────────────

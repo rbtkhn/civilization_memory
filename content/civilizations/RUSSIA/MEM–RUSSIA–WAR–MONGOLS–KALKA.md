@@ -1,9 +1,9 @@
-MEM–RUSSIA–WAR–MONGOLS–KALKA — v2.0
+MEM–RUSSIA–WAR–MONGOLS–KALKA — v2.7
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.0
-Supersedes: —
-Upgrade Type: FOUNDATIONAL · TEMPLATE-COMPLIANT INITIAL ISSUE
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: v2.7 COMPLIANCE · SUBJECT TYPE DECLARATION · MEM BIBLIOGRAPHY
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of the Kalka River
 Dates: 1223 AD
@@ -11,9 +11,13 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 
-Governed by:
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+Additional Governance:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE (live GitHub version)
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -183,14 +187,39 @@ Secondary:
 Quotations embedded meet template verbatim and attribution requirements.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY)
+X. MEM BIBLIOGRAPHY (v2.7 REQUIRED)
 ────────────────────────────────────────────────────────────
-• MEM–RUSSIA–WAR–MONGOLS–KIEV — escalation from reconnaissance to conquest
-• MEM–RUSSIA–WAR–KULIKOVO — adaptation and partial reversal
-• MEM–RUSSIA–WAR–UGRA — release from domination
-• MEM–RUSSIA–GEO–STEPPE — operational environment
-• MEM–RUSSIA–DYNASTY–RURIKID — fragmentation context
+Military History Sources:
+• John Fennell — *The Crisis of Medieval Russia 1200–1304* (1983)
+• David Morgan — *The Mongols* (1986)
+• Timothy May — *The Mongol Conquests in World History* (2012)
+• Charles J. Halperin — *Russia and the Golden Horde* (1985)
+• Janet Martin — *Medieval Russia 980–1584* (1995)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–MONGOLS–KALKA v2.0
+XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+────────────────────────────────────────────────────────────
+Same-Civilization (≥10):
+• MEM–RUSSIA–WAR–MONGOLS–KIEV — escalation from reconnaissance to conquest
+• MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — adaptation and partial reversal
+• MEM–RUSSIA–WAR–MONGOLS–UGRA — release from domination
+• MEM–RUSSIA–KIEVAN–RUS — fragmented political structure
+• MEM–RUSSIA–DYNASTY–RURIKID — divided princely authority
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — ecclesiastical continuity amid defeat
+• MEM–RUSSIA–VLADIMIR–SUZDAL — subsequent target of Mongol invasion
+• MEM–RUSSIA–NOVGOROD — northern alternative surviving Kalka
+• MEM–RUSSIA–CUMANS — allied force at Kalka
+• MEM–RUSSIA–GOLDEN–HORDE — future dominating overlord
+
+GEO–MEM (≥2):
+• MEM–RUSSIA–GEO–STEPPE — operational environment and invasion vector
+• MEM–RUSSIA–GEO–DNIEPER–RIVER — campaign geography
+• MEM–RUSSIA–GEO–KALKA–RIVER — battle site
+
+Cross-civilizational:
+• MEM–MONGOL–IMPERIAL–WARFARE — reconnaissance-in-force doctrine
+• MEM–EURASIA–STEPPE–WARFARE — operational art and feigned retreat
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–MONGOLS–KALKA v2.7
 ────────────────────────────────────────────────────────────

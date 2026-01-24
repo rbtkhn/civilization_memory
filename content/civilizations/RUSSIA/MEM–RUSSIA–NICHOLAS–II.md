@@ -1,10 +1,10 @@
-MEM–RUSSIA–NICHOLAS–II — v1.1
+MEM–RUSSIA–NICHOLAS–II — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · MONTEFIORE QUOTATION ENHANCEMENT (v1.1 → v1.2)
+Version: 2.7
+Supersedes: v1.2
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY ADDITION + BIBLIOGRAPHY ADDITION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas II (Николай II)
@@ -12,6 +12,12 @@ Dates: 1868–1918 AD (rule: 1894–1917)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,500
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a MODERN subject.
+Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2)
@@ -241,5 +247,43 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–NICHOLAS–II v1.2
+XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+────────────────────────────────────────────────────────────
+Same-civilization (≥10):
+• MEM–RUSSIA–ALEXANDER–III — inherited autocratic rigidity
+• MEM–RUSSIA–ALEXANDER–II — reform precedent
+• MEM–RUSSIA–DYNASTY–ROMANOV — terminal dynasty moment
+• MEM–RUSSIA–REVOLUTION–1905 — legitimacy erosion
+• MEM–RUSSIA–REVOLUTION–1917 — system collapse
+• MEM–RUSSIA–WITTE — modernization under constraint
+• MEM–RUSSIA–STOLYPIN — reform attempt within collapse
+• MEM–RUSSIA–DUMA — constitutional concession
+• MEM–RUSSIA–WORLD–WAR–I — system stress test
+• MEM–RUSSIA–BOLSHEVIK — successor regime
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–ST–PETERSBURG — capital collapse
+• MEM–RUSSIA–GEO–EKATERINBURG — dynastic termination
+
+Cross-civilizational:
+• MEM–FRANCIA–LOUIS–XVI — comparative monarchical collapse
+• MEM–HABSBURG–FRANZ–JOSEPH — imperial dissolution parallel
+• MEM–OTTOMAN–COLLAPSE — multi-front imperial failure
+
+────────────────────────────────────────────────────────────
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+
+SCHOLARLY SOURCES CONSULTED:
+• Figes, Orlando. *A People's Tragedy: The Russian Revolution, 1891–1924*. London: Jonathan Cape, 1996.
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Cambridge: Harvard University Press, 1997.
+• Pipes, Richard. *The Russian Revolution*. New York: Alfred A. Knopf, 1990.
+• Fitzpatrick, Sheila. *The Russian Revolution*. Oxford: Oxford University Press, 1982.
+• Service, Robert. *A History of Modern Russia*. Cambridge: Harvard University Press, 2005.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–NICHOLAS–II v2.7
 ────────────────────────────────────────────────────────────

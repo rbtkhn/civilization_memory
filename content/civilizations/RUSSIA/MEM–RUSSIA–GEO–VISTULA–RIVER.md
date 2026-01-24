@@ -1,15 +1,24 @@
-MEM–RUSSIA–GEO–VISTULA–RIVER — v2.0
+MEM–RUSSIA–GEO–VISTULA–RIVER — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE
-Version: 2.0
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Vistula River System (Река Висла)
 Dates: c. 1795–1915 AD (primary Russian control arc), 1944–1991 AD (Soviet sphere)
 Class: MEM (Civilizational Memory)
-ARC Version: ARC–RUSSIA v1.5
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~3,400
+Word Count: ~3,600
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -386,5 +395,21 @@ When ingested without CIV–CORE–RUSSIA, the system MUST:
 4) Wait for user selection before proceeding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–VISTULA–RIVER v2.0
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Tacitus, *Germania* (trans. M. Hutton, Loeb Classical Library, 1914)
+• Pliny the Elder, *Natural History*, Book IV (trans. H. Rackham, Loeb Classical Library, 1942)
+• Strabo, *Geography*, Book VII (trans. H.L. Jones, Loeb Classical Library, 1923)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+• Figes, Orlando. *The Crimean War: A History* (2010)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Davies, Norman. *God's Playground: A History of Poland* (2 vols., 1981)
+• Wandycz, Piotr S. *The Lands of Partitioned Poland, 1795–1918* (1974)
+• Zamoyski, Adam. *Poland: A History* (2009)
+• Lukowski, Jerzy & Hubert Zawadzki. *A Concise History of Poland* (3rd ed., 2019)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–VISTULA–RIVER v2.7
 ────────────────────────────────────────────────────────────

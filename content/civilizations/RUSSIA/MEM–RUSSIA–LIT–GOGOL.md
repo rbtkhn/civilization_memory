@@ -1,8 +1,8 @@
-MEM–RUSSIA–LIT–GOGOL — v2.0
+MEM–RUSSIA–LIT–GOGOL — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.7
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Nikolai Gogol (Николай Гоголь) — Absurdity Memory Architect
 Dates: 1809–1852 AD (decisive works: 1835–1842)
@@ -12,8 +12,12 @@ Word Count: ~2,800
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -214,15 +218,27 @@ ARC Categories Applied (Modern Era MEM):
 • MODERN: Scholarly and contemporary analysis (3 quotations)
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS & SCHOLAR CONSTRAINTS
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Connected MEM Files:
-• MEM–RUSSIA–LIT–PUSHKIN: Literary language foundations
-• MEM–RUSSIA–LIT–DOSTOEVSKY: Psychological depth development
-• MEM–RUSSIA–BUREAUCRACY: Administrative absurdity
-• MEM–RUSSIA–PROVINCIAL–LIFE: Rural Russian reality
-• MEM–RUSSIA–UKRAINIAN–CULTURE: Regional diversity
-• MEM–RUSSIA–SERFDOM: Social hierarchy foundations
+Russian (≥10):
+• MEM–RUSSIA–LIT–PUSHKIN — literary language foundations
+• MEM–RUSSIA–LIT–DOSTOEVSKY — psychological depth development
+• MEM–RUSSIA–LIT–TOLSTOY — contrast: absurdist vs realist memory
+• MEM–RUSSIA–BUREAUCRACY — administrative absurdity in Dead Souls
+• MEM–RUSSIA–PROVINCIAL–LIFE — rural Russian reality
+• MEM–RUSSIA–UKRAINIAN–CULTURE — regional diversity and folk traditions
+• MEM–RUSSIA–SERFDOM — social hierarchy in Dead Souls
+• MEM–RUSSIA–NICHOLAS–I — tsarist censorship of Inspector General
+• MEM–RUSSIA–ORTHODOXY — late religious conversion and crisis
+• MEM–RUSSIA–ARISTOCRACY — elite corruption in satirical works
+• MEM–RUSSIA–INTELLIGENTSIA — Gogol's influence on Natural School
+
+GEO–MEM (≥2):
+• MEM–RUSSIA–GEO–UKRAINE — Dikanka tales and Cossack memory
+• MEM–RUSSIA–GEO–PETERSBURG — bureaucratic capital in The Overcoat, The Nose
+
+Cross-civilizational:
+• MEM–GERMANIA–ROMANTICISM — German Romantic influence on supernatural elements
 
 Scholar Constraints:
 • RLL–0001 (Corridor Primacy): Gogol's work spans multiple Russian regions
@@ -231,7 +247,21 @@ Scholar Constraints:
 • Failure-First Standard: Creative destruction and artistic crisis
 
 ────────────────────────────────────────────────────────────
-XII. VERSION & EVOLUTION NOTES
+XII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Nabokov, Vladimir. *Nikolai Gogol*. New York: New Directions, 1944.
+  [PRIMARY: definitive literary analysis]
+• Maguire, Robert A. *Exploring Gogol*. Stanford: Stanford University Press,
+  1994. [comprehensive critical study]
+• Fanger, Donald. *The Creation of Nikolai Gogol*. Cambridge: Harvard
+  University Press, 1979. [literary biography]
+• Setchkarev, Vsevolod. *Gogol: His Life and Works*. New York: New York
+  University Press, 1965. [biographical context]
+• Erlich, Victor, ed. *Gogol: A Collection of Critical Essays*. Englewood
+  Cliffs: Prentice-Hall, 1965. [critical anthology]
+
+────────────────────────────────────────────────────────────
+XIII. VERSION & EVOLUTION NOTES
 ────────────────────────────────────────────────────────────
 v1.0 represented initial encoding of Gogol's civilizational significance.
 
@@ -241,6 +271,11 @@ v2.0 Upgrade:
 • Expanded connections to Russian bureaucratic and social MEM files
 • Strengthened failure-first interpretive framework
 
+v2.7 Upgrade:
+• Expanded MEM Connections to ≥10 Russian + ≥2 GEO entries
+• Added MEM Bibliography section with 5 scholarly sources
+• Renumbered sections for template compliance
+
 Future versions may add:
 • Analysis of Gogol's influence on Russian theater
 • Deeper exploration of his religious writings
@@ -249,5 +284,5 @@ Future versions may add:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–GOGOL v2.0
+END OF FILE — MEM–RUSSIA–LIT–GOGOL v2.7
 ────────────────────────────────────────────────────────────

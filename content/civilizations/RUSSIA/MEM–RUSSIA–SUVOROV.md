@@ -1,10 +1,10 @@
-MEM–RUSSIA–SUVOROV — v1.1
+MEM–RUSSIA–SUVOROV — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (Catherine II → Paul I)
 Subject: Alexander Suvorov (Александр Суворов)
@@ -15,8 +15,12 @@ Word Count: ~3,050
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -264,7 +268,45 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. ACADEMIC REFERENCES (LMM-COMPLIANT)
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Russian (≥10):
+• MEM–RUSSIA–CATHERINE–II — patron and strategic commander
+• MEM–RUSSIA–PAUL–I — tension with parade-ground militarism
+• MEM–RUSSIA–WAR–OTTOMAN — campaigns against Ottoman Empire
+• MEM–RUSSIA–WAR–IZMAIL — decisive siege victory
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic myth and military legitimacy
+• MEM–RUSSIA–ARMY–IMPERIAL — Russian military doctrine and training
+• MEM–RUSSIA–KUTUZOV — successor commander, Suvorov legacy
+• MEM–RUSSIA–WAR–NAPOLEON — doctrinal legacy in Napoleonic campaigns
+• MEM–RUSSIA–ARISTOCRACY — military aristocratic culture
+• MEM–RUSSIA–SERFDOM — serf soldiers in imperial army
+
+GEO–MEM (≥2):
+• MEM–RUSSIA–GEO–STEPPE — terrain of mobility and endurance
+• MEM–RUSSIA–GEO–CAUCASUS — mountain campaign experience
+
+Cross-civilizational:
+• MEM–FRANCIA–REVOLUTION — campaigns against Revolutionary France
+• MEM–OTTOMAN–EMPIRE — primary strategic adversary
+• MEM–PRUSSIA–MILITARY — contrast with Prussian parade-ground doctrine
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York:
+  Random House, 2011. [PRIMARY: personality and military culture]
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld &
+  Nicolson, 2016. [dynastic myth and legitimacy]
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John
+  Murray, 2000. [imperial war systems]
+• Longworth, Philip. *The Art of Victory: The Life and Achievements of Field
+  Marshal Suvorov*. London: Constable, 1965. [military biography]
+• Duffy, Christopher. *Russia's Military Way to the West: Origins and Nature
+  of Russian Military Power 1700–1800*. London: Routledge, 1981.
+
+────────────────────────────────────────────────────────────
+XII. ACADEMIC REFERENCES (LMM-COMPLIANT)
 ────────────────────────────────────────────────────────────
 • Simon Sebag Montefiore — *The Romanovs: 1613–1918*
   (dynastic myth, court legitimacy, symbolic authority)
@@ -282,7 +324,7 @@ Additional contextual scholars:
 Secondary scholarship frames interpretation without overriding evidence.
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (MANDATORY)
+XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–SUVOROV
 Status: ACTIVE
@@ -300,5 +342,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SUVOROV v2.0
+END OF FILE — MEM–RUSSIA–SUVOROV v2.7
 ────────────────────────────────────────────────────────────

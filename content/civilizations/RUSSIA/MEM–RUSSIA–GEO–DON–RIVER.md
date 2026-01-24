@@ -1,23 +1,31 @@
-MEM–RUSSIA–GEO–DON–RIVER — v1.2
+MEM–RUSSIA–GEO–DON–RIVER — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · FULL ARC–RUSSIA v1.5 COMPLIANCE · TEMPLATE SATURATION
+Version: 2.7
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Don River (Steppe–Interior Artery)
 Dates: Antiquity–present (Rus’-facing civilizational arc emphasized post-AD 800)
 Class: MEM (Civilizational Memory)
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~3,200
+Word Count: ~3,400
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.2)
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.2 → v2.7)
 ────────────────────────────────────────────────────────────
 This upgrade brings the Don River file into **full compliance** with:
 
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • CIV–ARC–RUSSIA v1.5 (Categories A–D)
 • Scholar corridor-semantics normalization (January 2026 event)
 
@@ -231,5 +239,23 @@ XII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DON–RIVER v1.2
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Strabo, *Geographica*, Book XI (trans. H.L. Jones, Loeb Classical Library)
+• Ptolemy, *Geographia*, Book V (trans. E.L. Stevenson)
+• *Primary Chronicle* (*Povest' vremennykh let*), trans. S.H. Cross & O.P. Sherbowitz-Wetzor
+• *Hypatian Chronicle*, trans. G. Hazzard Cross
+• Klyuchevsky, Vasily. *A Course in Russian History* (5 vols.)
+• Solovyov, Sergei. *History of Russia from the Earliest Times*
+• Erickson, John. *The Road to Stalingrad* (1975)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949)
+• McNeill, William H. *Europe's Steppe Frontier, 1500–1800* (1964)
+• Hellie, Richard. *Enserfment and Military Change in Muscovy* (1971)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–DON–RIVER v2.7
 ────────────────────────────────────────────────────────────

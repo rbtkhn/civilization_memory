@@ -1,16 +1,24 @@
-MEM–RUSSIA–GEO–AMUR–RIVER — v1.0
+MEM–RUSSIA–GEO–AMUR–RIVER — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE
-Version: 1.0
+Version: 2.7
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Amur River System (Река Амур)
 Dates: c. 1650–present (Far Eastern expansion arc)
 Class: MEM (Civilizational Memory)
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~3,200
+Word Count: ~3,400
 
-ARC VERSION PINNED: ARC–RUSSIA v1.5
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -368,5 +376,21 @@ When ingested without CIV–CORE–RUSSIA, the system MUST:
 4) Wait for user selection before proceeding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–AMUR–RIVER v1.0
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Herodotus, *Histories*, Book IV (trans. A.D. Godley, Loeb Classical Library, 1920)
+• Strabo, *Geography*, Book VII (trans. H.L. Jones, Loeb Classical Library, 1923)
+• Pliny the Elder, *Natural History*, Book VI (trans. H. Rackham, Loeb Classical Library, 1942)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+• Kotkin, Stephen. *Stalin: Waiting for Hitler, 1929–1941* (2017)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Stephan, John J. *The Russian Far East: A History* (1994)
+• Mancall, Mark. *Russia and China: Their Diplomatic Relations to 1728* (1971)
+• Quested, R.K.I. *The Expansion of Russia in East Asia, 1857–1860* (1968)
+• Bassin, Mark. *Imperial Visions: Nationalist Imagination and Geographical Expansion in the Russian Far East, 1840–1865* (1999)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–AMUR–RIVER v2.7
 ────────────────────────────────────────────────────────────

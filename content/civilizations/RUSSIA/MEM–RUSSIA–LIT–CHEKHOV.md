@@ -1,16 +1,25 @@
-MEM–RUSSIA–LIT–CHEKHOV — v2.0
+MEM–RUSSIA–LIT–CHEKHOV — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.7
+Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v2.0 → v2.7)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,000
+Word Count: ~3,300
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Anton Chekhov — Everyday Suffering Architect
 Dates: 1860–1904 AD
-Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
-Compatibility: CMC v2.0+
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.0+
+• ARC–RUSSIA v1.5 (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a MODERN subject (19th-20th century).
+Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -227,16 +236,23 @@ ARC Categories Applied (Modern Era MEM):
 • MODERN: Scholarly and contemporary analysis (3 quotations)
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS & SCHOLAR CONSTRAINTS
+XII. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Connected MEM Files:
-• MEM–RUSSIA–LIT–PUSHKIN: Literary language foundations
-• MEM–RUSSIA–LIT–GOGOL: Provincial life and absurdity
-• MEM–RUSSIA–LIT–DOSTOEVSKY: Psychological depth
-• MEM–RUSSIA–PROVINCIAL–LIFE: Everyday Russian reality
-• MEM–RUSSIA–ARISTOCRACY–DECLINE: Gentry class transformation
-• MEM–RUSSIA–INTELLIGENTSIA: Intellectual suffering
-• MEM–RUSSIA–MODERNIZATION: Late imperial social change
+Same-civilization connections (≥10):
+• MEM–RUSSIA–LIT–PUSHKIN — Literary language foundations for Russian prose
+• MEM–RUSSIA–LIT–GOGOL — Provincial life and absurdity traditions
+• MEM–RUSSIA–LIT–DOSTOEVSKY — Psychological depth in Russian fiction
+• MEM–RUSSIA–LIT–TOLSTOY — Realist tradition and moral inquiry
+• MEM–RUSSIA–PROVINCIAL–LIFE — Everyday Russian reality encoded
+• MEM–RUSSIA–ARISTOCRACY–DECLINE — Gentry class transformation documented
+• MEM–RUSSIA–INTELLIGENTSIA — Intellectual suffering as cultural memory
+• MEM–RUSSIA–MODERNIZATION — Late imperial social change
+• MEM–RUSSIA–ROMANOV — Imperial regime context
+• MEM–RUSSIA–1905–REVOLUTION — Historical transition Chekhov witnessed
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–MOSCOW — Metropolitan aspiration in Three Sisters
+• MEM–RUSSIA–GEO–CRIMEA — Chekhov's final residence and health exile
 
 Scholar Constraints:
 • RLL–0002 (Sacral Ratification): Chekhov's canonization despite subtle style
@@ -264,5 +280,20 @@ Future versions may add:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–CHEKHOV v2.0
+XIV. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Chekhov, Anton. Collected Plays and Short Stories
+• Chekhov, Anton. Letters and Notebooks
+
+Secondary Sources:
+• Hingley, Ronald. *Chekhov: A Biographical and Critical Study* (1976)
+• Stanislavski, Konstantin. *My Life in Art* (1924)
+• Gorky, Maxim. *Literary Criticism* (1928)
+• Rayfield, Donald. *Anton Chekhov: A Life* (1997)
+• Nabokov, Vladimir. *Lectures on Russian Literature* (1981)
+• Pitcher, Harvey. *Chekhov's Leading Lady* (1979)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–LIT–CHEKHOV v2.7
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
-MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v2.0
+MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
-Version: 2.0
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
 Upgrade Type: STRUCTURAL + EVIDENTIARY HARDENING · ARC COMPLIANCE SATISFIED
 Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
@@ -14,8 +14,12 @@ Word Count: ~3,200
 
 Governed by:
 • CIV–MEM–CORE v2.0
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • CIV–ARC–RUSSIA v1.5 (PINNED)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses an INTERPRETIVE subject (religious-civilizational substrate).
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -197,20 +201,20 @@ Contradictions preserved without synthesis.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
-• MEM–RUSSIA–VARANGIANS
-• MEM–RUSSIA–PRIMARY–CHRONICLE
-• MEM–RUSSIA–VLADIMIR–GREAT
-• MEM–RUSSIA–YAROSLAV–WISE
-• MEM–RUSSIA–ALEXANDER–NEVSKY
-• MEM–RUSSIA–MONGOL–EMPIRE
-• MEM–RUSSIA–GOLDEN–HORDE
-• MEM–RUSSIA–MUSCOVY
-• MEM–RUSSIA–TIME–TROUBLES
-• MEM–RUSSIA–PETER–GREAT
+• MEM–RUSSIA–VARANGIANS — pre-Christian substrate; conversion follows Varangian arrival
+• MEM–RUSSIA–PRIMARY–CHRONICLE — source of Christianization narrative and legitimacy claims
+• MEM–RUSSIA–VLADIMIR–GREAT — architect of 988 baptism; establishes Orthodox foundation
+• MEM–RUSSIA–YAROSLAV–WISE — consolidates church-state symbiosis; builds Sophia cathedral
+• MEM–RUSSIA–ALEXANDER–NEVSKY — Orthodox defender against Latin pressure; saint-prince archetype
+• MEM–RUSSIA–MONGOL–EMPIRE — Orthodoxy survives Mongol domination as identity keeper
+• MEM–RUSSIA–GOLDEN–HORDE — church preservation under non-Christian overlordship
+• MEM–RUSSIA–MUSCOVY — Moscow as Orthodox center after Mongol period
+• MEM–RUSSIA–TIME–TROUBLES — church as continuity institution during dynastic collapse
+• MEM–RUSSIA–PETER–GREAT — state subordination of church; modernization tension
 
 GEO (≥2):
-• MEM–BYZANTIUM–ORTHODOXY — source of sacral legitimacy
-• MEM–LATIN–CHRISTIANITY — contrast boundary
+• MEM–GEO–CONSTANTINOPLE — source city of Orthodox legitimacy and sacral transfer
+• MEM–GEO–DNIEPER–CORRIDOR — axis of Christianization; Vladimir's Kyiv as conversion center
 
 ────────────────────────────────────────────────────────────
 XI. PEDAGOGICAL AFFORDANCE LAYER
@@ -223,7 +227,21 @@ Supports inquiry into:
 • narrative vs structural causation
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
+XII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+PRIMARY SOURCES:
+• Herodotus, *Histories*, Book IV (trans. Rawlinson)
+• *Povest' vremennykh let* (Primary Chronicle), Laurentian recension (c. 1113)
+
+SECONDARY SOURCES:
+• Klyuchevsky, Vasily. *Course of Russian History* (Lectures XXXIII–XXXV)
+• Solovyov, Sergei. *History of Russia from the Earliest Times*, Vols. I–III
+• Hosking, Geoffrey. *Russia and the Russians: A History*. Harvard UP, 2001.
+• Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*. Metropolitan, 2002.
+• Billington, James H. *The Icon and the Axe: An Interpretive History of Russian Culture*. Knopf, 1966.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–ORTHODOX–CHRISTIANITY
 Status: ACTIVE
@@ -241,5 +259,5 @@ Exploration options available:
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v2.0
+END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v2.7
 ────────────────────────────────────────────────────────────

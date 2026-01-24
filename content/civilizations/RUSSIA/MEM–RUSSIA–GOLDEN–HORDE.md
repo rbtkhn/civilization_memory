@@ -1,9 +1,9 @@
-MEM–RUSSIA–GOLDEN–HORDE — v1.1
+MEM–RUSSIA–GOLDEN–HORDE — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.5)
-Version: 1.1
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 COMPLIANAD
+ACTIVE · CANONICAL · 100% COMPLIANT
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
+Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: External Suzerainty · Tributary Interface State
 Subject: Golden Horde (Золотая Орда)
@@ -14,8 +14,12 @@ Word Count: ~2,050
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
+PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -161,15 +165,21 @@ These constraints shape Russian adaptation distinctly.
 ────────────────────────────────────────────────────────────
 X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Core Russia MEM links:
+Same-civilization (≥10):
 • MEM–RUSSIA–MONGOL–EMPIRE — imperial origin layer
 • MEM–RUSSIA–KIEVAN–RUS — pre-shock governance exposed
 • MEM–RUSSIA–DYNASTY–RURIKID — legitimacy detached from lineage
 • MEM–RUSSIA–ALEXANDER–NEVSKY — accommodation under suzerainty
 • MEM–RUSSIA–MUSCOVY — internalization of Horde logic
 • MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance
-• MEM–RUSSIA–GEO–VOLGA — tribute corridor
 • MEM–RUSSIA–TIME–TROUBLES — succession fragility persists
+• MEM–RUSSIA–VLADIMIR–GREAT — pre-Horde sacral substrate
+• MEM–RUSSIA–YAROSLAV–WISE — law-first model displaced
+• MEM–RUSSIA–IVAN–III — Horde liberation phase
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–VOLGA — tribute corridor
+• MEM–RUSSIA–GEO–STEPPE — nomadic pressure zone
 
 Connections preserve sequence without inevitability.
 
@@ -198,7 +208,16 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.
+• Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier*. Cambridge University Press, 1998.
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.
+• Allsen, Thomas T. *Mongol Imperialism: The Policies of the Grand Qan Möngke in China, Russia, and the Islamic Lands*. University of California Press, 1987.
+• Vernadsky, George. *The Mongols and Russia*. Yale University Press, 1953.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -214,10 +233,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparison: Golden Horde vs Ottoman suzerainty
 6) Muscovy as successor-interface state
 7) Counterfactual: sustained Horde consolidation
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GOLDEN–HORDE v1.1
+END OF FILE — MEM–RUSSIA–GOLDEN–HORDE v2.7
 ────────────────────────────────────────────────────────────

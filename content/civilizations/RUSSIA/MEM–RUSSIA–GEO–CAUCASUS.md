@@ -1,9 +1,18 @@
-MEM–RUSSIA–GEO–CAUCASUS — v1.0
+MEM–RUSSIA–GEO–CAUCASUS — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–RUSSIA v1.5 COMPLIANAD
+Version: 2.7
+Supersedes: v1.0
+Upgrade Type: FOUNDATIONAL · ARC–RUSSIA v1.5 COMPLIANT
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses an INTERPRETIVE subject. Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Caucasus Region (Кавказ)
 Dates: Antiquity–present (Russian strategic salience from 18th c. AD)
@@ -167,4 +176,26 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–CAUCASUS v1.0
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Scholarly sources on the Caucasus region and Russian geopolitics:
+
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. Yale
+  University Press, 2000. [Caucasus as permanent imperial friction zone]
+
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Harvard
+  University Press, 1997. [Caucasus as test of imperial stamina]
+
+• King, Charles. *The Ghost of Freedom: A History of the Caucasus*. Oxford
+  University Press, 2008. [Caucasus War and attritional incorporation]
+
+• Gammer, Moshe. *Muslim Resistance to the Tsar: Shamil and the Conquest
+  of Chechnia and Daghestan*. Frank Cass, 1994. [Caucasus counterinsurgency
+  and prolonged resistance]
+
+• Jersild, Austin. *Orientalism and Empire: North Caucasus Mountain Peoples
+  and the Georgian Frontier, 1845–1917*. McGill-Queen's University Press,
+  2002. [Imperial administration and cultural interface]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–CAUCASUS v2.7

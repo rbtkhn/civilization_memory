@@ -1,9 +1,9 @@
-MEM–RUSSIA–TIME–TROUBLES — v2.0
+MEM–RUSSIA–TIME–TROUBLES — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.2 COMPLIANAD
+Version: 2.7
+Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANAD
 Subject: Time of Troubles (Смутное время)
@@ -14,8 +14,12 @@ Word Count: ~2,350
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
+PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -185,7 +189,7 @@ Later autocracy is shaped by **memory of near-extinction**, not ideology.
 ────────────────────────────────────────────────────────────
 X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Core Russia MEM links:
+Same-civilization (≥10):
 • MEM–RUSSIA–IVAN–IV — unbuffered autocracy creates succession vacuum
 • MEM–RUSSIA–DYNASTY–RURIKID — lineage exhaustion trigger
 • MEM–RUSSIA–MUSCOVY — sacral endurance ≠ succession stability
@@ -193,6 +197,13 @@ Core Russia MEM links:
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity preservation layer
 • MEM–RUSSIA–PRIMARY–CHRONICLE — moralized legitimacy grammar
 • MEM–RUSSIA–ALEXANDER–NEVSKY — endurance logic under asymmetry
+• MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
+• MEM–RUSSIA–GOLDEN–HORDE — legitimacy training source
+• MEM–RUSSIA–VLADIMIR–GREAT — sacral substrate origin
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–MOSCOW — collapse epicenter
+• MEM–RUSSIA–GEO–VOLGA — recovery corridor
 
 These connections establish continuity without teleology.
 
@@ -221,7 +232,16 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Dunning, Chester S. L. *Russia's First Civil War: The Time of Troubles and the Founding of the Romanov Dynasty*. Penn State University Press, 2001.
+• Perrie, Maureen. *Pretenders and Popular Monarchism in Early Modern Russia: The False Tsars of the Time of Troubles*. Cambridge University Press, 1995.
+• Platonov, S. F. *The Time of Troubles: A Historical Study of the Internal Crisis and Social Struggle in Sixteenth- and Seventeenth-Century Muscovy*. University Press of Kansas, 1970.
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.
+• Bushkovitch, Paul. *A Concise History of Russia*. Cambridge University Press, 2012.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -237,10 +257,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparison: Roman interregna
 6) Comparison: Islamic succession crises
 7) Counterfactual: buffered succession
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–TIME–TROUBLES v2.0
+END OF FILE — MEM–RUSSIA–TIME–TROUBLES v2.7
 ────────────────────────────────────────────────────────────

@@ -1,11 +1,9 @@
-MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — v2.0
+MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-
-Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.x (pre-template consolidation)
-Upgrade Type: ADDITIVE · STRUCTURAL REFRAMING + ARC–RUSSIA v1.5 ALIGNMENT
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: v2.7 COMPLIANCE · SUBJECT TYPE DECLARATION · MEM BIBLIOGRAPHY
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Kulikovo (Куликовская битва)
 Dates: 1380 AD
@@ -13,10 +11,14 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 
-Governed by:
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+Additional Governance:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA v1.5 (pinned)
+• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -170,23 +172,40 @@ Despite limits, Kulikovo produces durable effects:
 Memory precedes control.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (BINARY · STRUCTURAL ONLY)
+XI. MEM BIBLIOGRAPHY (v2.7 REQUIRED)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–WAR–MONGOL–DOMINATION — structural context
-• MEM–RUSSIA–DMITRY–DONSKOY — leadership hinge
+Military History Sources:
+• John Fennell — *The Crisis of Medieval Russia 1200–1304* (1983)
+• David Morgan — *The Mongols* (1986)
+• Charles J. Halperin — *Russia and the Golden Horde* (1985)
+• Janet Martin — *Medieval Russia 980–1584* (1995)
+• Donald Ostrowski — *Muscovy and the Mongols* (1998)
+
+────────────────────────────────────────────────────────────
+XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+────────────────────────────────────────────────────────────
+Same-Civilization (≥10):
+• MEM–RUSSIA–WAR–MONGOLS–KALKA — first contact and cognitive defeat
+• MEM–RUSSIA–WAR–MONGOLS–KIEV — domination through annihilation
+• MEM–RUSSIA–WAR–MONGOLS–UGRA — final release from domination
+• MEM–RUSSIA–DMITRY–DONSKOY — leadership and calculated risk
 • MEM–RUSSIA–SERGIUS–RADONEZH — ecclesiastical legitimation
-• MEM–RUSSIA–MOSCOW — emergent center
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral framing
+• MEM–RUSSIA–MOSCOW — emergent center consolidating authority
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral framing of resistance
+• MEM–RUSSIA–GOLDEN–HORDE — fragmenting overlord structure
+• MEM–RUSSIA–TOKHTAMYSH — subsequent sack of Moscow (1382)
+• MEM–RUSSIA–TRIBUTE–SYSTEMS — persistence of material subordination
+
+GEO–MEM (≥2):
+• MEM–RUSSIA–GEO–DON–RIVER — Kulikovo Field location
+• MEM–RUSSIA–GEO–STEPPE — battle environment and tactical terrain
 
 Cross-civilizational:
 • MEM–STEPPE–IMPERIAL–WARFARE — tactical inheritance
 • MEM–EURASIA–TRIBUTE–SYSTEMS — sovereignty constraints
 
-Each connection is structurally required.
-
 ────────────────────────────────────────────────────────────
-XII. CONTINUITY INSIGHTS (RAW)
+XIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Symbolic victory can precede material independence.
 • Narrative confidence may outpace strategic reality.
@@ -197,5 +216,5 @@ XII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–KULIKOVO v2.0
+END OF FILE — MEM–RUSSIA–WAR–MONGOLS–KULIKOVO v2.7
 ────────────────────────────────────────────────────────────

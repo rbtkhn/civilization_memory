@@ -1,17 +1,24 @@
-MEM–RUSSIA–GEO–TUNDRA — v2.0
+MEM–RUSSIA–GEO–TUNDRA — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE · COMPLIANT
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · SCHOLAR COGNITION UPGRADE · ARC–RUSSIA v1.5 COMPLIANAD
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Tundra (Arctic Margin — Extreme Constraint Ecology)
 Dates: Antiquity–present
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
-Word Count: ~2,750
 ARC Version Pinned: CIV–ARC–RUSSIA v1.5
+Last Update: January 2026
+Word Count: ~2,950
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -247,4 +254,21 @@ XIV. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–TUNDRA v2.0
+XV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Strabo, *Geographica*, Book I (trans. H.L. Jones, Loeb Classical Library)
+• Pliny the Elder, *Natural History*, Book IV (trans. H. Rackham, Loeb Classical Library)
+• *Novgorod First Chronicle*, trans. R. Michell & N. Forbes (1914)
+• Klyuchevsky, Vasily. *A Course in Russian History* (5 vols.)
+• Solovyov, Sergei. *History of Russia from the Earliest Times*
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917* (1997)
+• Erickson, John. *The Soviet High Command: A Military-Political History, 1918–1941* (1962)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Forsyth, James. *A History of the Peoples of Siberia* (1992)
+• Slezkine, Yuri. *Arctic Mirrors: Russia and the Small Peoples of the North* (1994)
+• Josephson, Paul R. *The Conquest of the Russian Arctic* (2014)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–TUNDRA v2.7

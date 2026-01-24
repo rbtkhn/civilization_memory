@@ -1,15 +1,18 @@
-MEM–RUSSIA–GEO–DNEIPER–RIVER — v2.0
+MEM–RUSSIA–GEO–DNEIPER–RIVER — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.7 COMPLIANCE (v2.0 → v2.7)
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses an INTERPRETIVE subject. Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dnieper River System (Река Днепр)
 Dates: c. 800–1400 AD (primary civilizational arc)
@@ -249,5 +252,25 @@ Cross-civilizational:
 • MEM–FRANCIA–SEINE — river-based state formation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DNEIPER–RIVER v2.0
+XIV. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Scholarly sources on the Dnieper River system and Russian geopolitics:
+
+• Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus, 750–1200*.
+  Longman, 1996. [Dnieper trade routes and Kievan state formation]
+
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Harvard
+  University Press, 1997. [River corridors and political fragmentation]
+
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. Yale
+  University Press, 2000. [Southern river systems and strategic exposure]
+
+• Raffensperger, Christian. *The Kingdom of Rus'*. ARC Humanities Press,
+  2017. [Dnieper-based Rus' in European diplomatic networks]
+
+• Plokhy, Serhii. *The Gates of Europe: A History of Ukraine*. Basic Books,
+  2015. [Dnieper basin as contested civilizational space]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–DNEIPER–RIVER v2.7
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–RUSSIA–FYODOR–III — v2.0
+MEM–RUSSIA–FYODOR–III — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: COMPLIANT (CIV–MEM–TEMPLATE v2.5)
-Version: 2.0
-Upgrade Type: ADDITIVE · TEMPLATE v2.2 COMPLIANCE · QTT–ARC AUDITED
+Status: COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM / ROMANOV (Late Muscovite)
 Subject: Fyodor III Alekseyevich (Фёдор III Алексеевич)
@@ -12,10 +13,16 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,650
 
+Governed by: CIV–MEM–TEMPLATE v2.7
+
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a SPARSE SOURCES subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -233,5 +240,22 @@ MANDATORY OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–FYODOR–III v2.0
+XIV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
+• Muscovite court memoranda, late 1670s
+• Abolition decree of mestnichestvo, 1682
+• Court instructional correspondence, 1670s
+• Foreign observer account, late 17th century
+• Ecclesiastical directive, c. 1680
+• Muscovite military instructions, late 1670s
+
+SCHOLARLY SOURCES CONSULTED:
+• Bushkovitch, Paul. *Peter the Great: The Struggle for Power, 1671–1725*. Cambridge: Cambridge University Press, 2001.
+• Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia, 1613–1689*. Princeton: Princeton University Press, 1983.
+• Hughes, Lindsey. *Sophia, Regent of Russia, 1657–1704*. New Haven: Yale University Press, 1990.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–FYODOR–III v2.7
 ────────────────────────────────────────────────────────────

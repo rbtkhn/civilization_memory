@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXEI–ROMANOV — v2.0
+MEM–RUSSIA–ALEXEI–ROMANOV — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v2.0 → v2.1)
+Version: 2.7
+Supersedes: v2.1
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: TSARDOM / ROMANOV
 Subject: Alexei Mikhailovich “the Quietest” (Алексей Михайлович)
@@ -13,7 +13,13 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,500
 
+Governed by: CIV–MEM–TEMPLATE v2.7
+
 ARC VERSION PINNED: ARC–RUSSIA v2.0
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -243,17 +249,21 @@ XII. CONTINUITY INSIGHTS (RAW)
 • Stability increases endurance while accumulating latent revolt.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY)
+XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
+Same-civilization (≥10):
 • MEM–RUSSIA–MICHAEL–ROMANOV — restoration without consolidation
 • MEM–RUSSIA–FYODOR–III — reform within lock
 • MEM–RUSSIA–PETER–GREAT — rupture built atop locked society
 • MEM–RUSSIA–NIKON–SCHISM — faith as security doctrine
 • MEM–RUSSIA–STENKA–RAZIN — revolt beneath stability
 • MEM–RUSSIA–TIME–TROUBLES — collapse memory
+• MEM–RUSSIA–SERFDOM — codification substrate
+• MEM–RUSSIA–STRELTSY — military-political instability
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic continuity
+• MEM–RUSSIA–MUSCOVY — state formation baseline
 
-GEO–MEM (REQUIRED):
+GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–VOLGA — internal cohesion & rebellion corridor
 • MEM–RUSSIA–GEO–LEFT–BANK–UKRAINE — expansion, incorporation, strain
 
@@ -279,5 +289,20 @@ G. Counterfactual: reform before lock-in
 H. Compliance & integrity audit  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXEI–ROMANOV v2.0
+XV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
+• Pipes, Richard. *Russia Under the Old Regime*. New York: Charles Scribner's Sons, 1974.
+• Sobornoye Ulozhenie (1649 Law Code)
+
+SCHOLARLY SOURCES CONSULTED:
+• Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia, 1613–1689*. Princeton: Princeton University Press, 1983.
+• Hellie, Richard. *Enserfment and Military Change in Muscovy*. Chicago: University of Chicago Press, 1971.
+• Bushkovitch, Paul. *Religion and Society in Russia: The Sixteenth and Seventeenth Centuries*. Oxford: Oxford University Press, 1992.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–ALEXEI–ROMANOV v2.7
 ────────────────────────────────────────────────────────────

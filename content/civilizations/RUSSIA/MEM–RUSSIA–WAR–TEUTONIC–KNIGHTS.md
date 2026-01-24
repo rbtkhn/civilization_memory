@@ -1,14 +1,27 @@
-MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — v1.0
+MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 2.7
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars with the Teutonic Knights & Northern Crusades
 Dates: c. 1230–1242 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: [TBD]
+Word Count: ~2,400
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -118,5 +131,49 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS v1.0
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–ALEXANDER–NEVSKY — Commander and symbolic defender
+• MEM–RUSSIA–NOVGOROD — Political base and defense center
+• MEM–RUSSIA–KIEVAN–RUS — Fragmented state context
+• MEM–RUSSIA–GOLDEN–HORDE — Mongol domination during western threat
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Faith defended against Latin crusade
+• MEM–RUSSIA–WAR–MONGOLS–KALKA — Prior Mongol defeat weakening resistance
+• MEM–RUSSIA–WAR–MONGOLS–KIEV — Concurrent eastern devastation
+• MEM–RUSSIA–DYNASTY–RURIKID — Dynastic continuity through crisis
+• MEM–RUSSIA–SWEDEN — Coordinated Swedish-Teutonic pressure
+• MEM–RUSSIA–PSKOV — Western frontier principality
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–NEVA–RIVER — Battle of the Neva location
+• MEM–RUSSIA–GEO–GULF–FINLAND — Baltic access route defended
+• MEM–RUSSIA–GEO–FOREST–ZONE — Defensive terrain advantage
+
+Cross-civilizational:
+• MEM–GERMANIA–TEUTONIC–ORDER — Crusading military order
+• MEM–POLAND–NORTHERN–CRUSADES — Regional crusading context
+
+────────────────────────────────────────────────────────────
+MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Novgorod First Chronicle
+• Livonian Rhymed Chronicle
+• Papal correspondence regarding Northern Crusades
+
+Secondary Sources:
+• Christiansen, Eric. *The Northern Crusades*. London: Macmillan, 1980.
+• Urban, William. *The Teutonic Knights: A Military History*. London:
+  Greenhill Books, 2003.
+• Fennell, John. *The Crisis of Medieval Russia, 1200-1304*. London:
+  Longman, 1983.
+• Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact
+  on Medieval Russian History*. Bloomington: Indiana University Press, 1985.
+• Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences
+  on the Steppe Frontier, 1304-1589*. Cambridge: Cambridge University
+  Press, 1998.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS v2.7
 ────────────────────────────────────────────────────────────

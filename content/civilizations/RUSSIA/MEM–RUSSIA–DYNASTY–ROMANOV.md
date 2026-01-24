@@ -1,10 +1,10 @@
-MEM–RUSSIA–DYNASTY–ROMANOV — v2.0
+MEM–RUSSIA–DYNASTY–ROMANOV — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT · BALANCED INTEGRATION (v2.0 → v2.1)
+Version: 2.7
+Supersedes: v2.1
+Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: AUTOCRATIC EMPIRE · POST-CRISIS RESTORATION → SYSTEMIC OVERLOAD
 Subject: Romanov Dynasty
@@ -15,8 +15,12 @@ Word Count: ~3,550
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
+PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -302,20 +306,37 @@ Romanov buffer system and its role in dynastic endurance.
 All quotations meet QTT–ARC analytical threshold.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY · EXPLAINED)
+XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-Core Russian MEMs:
+• Massie, Robert K. *Peter the Great: His Life and World*. Alfred A. Knopf, 1980.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. Random House, 2011.
+• Bushkovitch, Paul. *A Concise History of Russia*. Cambridge University Press, 2012.
+• Lieven, Dominic. *Russia Against Napoleon: The True Story of the Campaigns of War and Peace*. Viking, 2010.
+• Figes, Orlando. *A People's Tragedy: The Russian Revolution, 1891–1924*. Penguin, 1996.
+
+────────────────────────────────────────────────────────────
+XIII. MEM CONNECTIONS (MANDATORY · EXPLAINED)
+────────────────────────────────────────────────────────────
+Same-civilization (≥10):
 • MEM–RUSSIA–IVAN–IV — unbuffered autocracy
 • MEM–RUSSIA–MUSCOVY — compression substrate
 • MEM–RUSSIA–TIME–TROUBLES — collapse baseline
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance
 • MEM–RUSSIA–SOVIET–STATE — buffer inheritance without sacrality
+• MEM–RUSSIA–ALEXANDER–NEVSKY — survival logic precursor
+• MEM–RUSSIA–GOLDEN–HORDE — coercive training substrate
+• MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
+• MEM–RUSSIA–PETER–GREAT — buffer stress test exemplar
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–MOSCOW — administrative center
+• MEM–RUSSIA–GEO–ST–PETERSBURG — imperial projection capital
 
 These establish Romanovs as a repair-and-delay dynasty.
 
 ────────────────────────────────────────────────────────────
-XIII. CONTINUITY INSIGHTS (RAW)
+XIV. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Autocracy with buffers outlasts unbuffered terror.
 • Bureaucracy delays but does not resolve legitimacy decay.
@@ -326,7 +347,7 @@ XIII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XIV. PEDAGOGICAL AFFORDANCE LAYER
+XV. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports inquiry into:
 • Buffered vs unbuffered autocracy
@@ -338,7 +359,7 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
-XV. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
+XVI. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -354,10 +375,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Empire as buffer multiplication
 6) Romanovs → Soviet inheritance
 7) Counterfactual: constitutional Romanovs
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV v2.1
+END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV v2.7
 ────────────────────────────────────────────────────────────

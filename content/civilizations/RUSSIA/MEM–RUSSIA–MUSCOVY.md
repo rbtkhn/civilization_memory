@@ -1,9 +1,9 @@
-MEM–RUSSIA–MUSCOVY — v2.0
+MEM–RUSSIA–MUSCOVY — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: MAJOR VERSION · STRUCTURAL REFINEMENT + RLL INTEGRATION + TEMPLATE v2.0 CANONICAL LOCK
+Version: 2.7
+Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Muscovite Rus’ → Early Russian Empire
 Subject: Muscovy (Compression Core & Autocratic Seed State)
@@ -14,9 +14,13 @@ Word Count: ~2,480
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
 • RLL–RUSSIA (0001, 0003, 0005 active)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
+PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -185,7 +189,7 @@ These constraints delimit uniqueness.
 ────────────────────────────────────────────────────────────
 X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Core Russia MEM links:
+Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — pluralism and openness replaced
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic logic inherited and hardened
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival under asymmetry
@@ -193,6 +197,11 @@ Core Russia MEM links:
 • MEM–RUSSIA–YAROSLAV–WISE — law-first model rejected
 • MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
+• MEM–RUSSIA–GOLDEN–HORDE — compression training source
+• MEM–RUSSIA–DYNASTY–ROMANOV — successor scaling mechanism
+• MEM–RUSSIA–IVAN–IV — unbuffered autocracy precursor
+
+GEO (≥2):
 • MEM–RUSSIA–GEO–VOLGA — corridor depth
 • MEM–RUSSIA–GEO–OKA — extraction axis
 
@@ -222,7 +231,16 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.
+• Kollmann, Nancy Shields. *The Russian Empire 1450–1801*. Oxford University Press, 2017.
+• Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier*. Cambridge University Press, 1998.
+• Crummey, Robert O. *The Formation of Muscovy, 1304–1613*. Longman, 1987.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -238,10 +256,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparative autocracy: Muscovy vs Rome
 6) Comparative survival: Muscovy vs Islam
 7) Counterfactual: law-first Muscovy
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.5)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MUSCOVY v2.0
+END OF FILE — MEM–RUSSIA–MUSCOVY v2.7
 ────────────────────────────────────────────────────────────

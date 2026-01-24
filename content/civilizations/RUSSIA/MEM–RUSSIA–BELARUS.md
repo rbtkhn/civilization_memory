@@ -1,14 +1,27 @@
-MEM–RUSSIA–BELARUS — v1.0
+MEM–RUSSIA–BELARUS — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+ACTIVE · CANONICAL · v2.7 COMPLIANT
+
+Status: ACTIVE · CANONICAL
+Version: 2.7
+Supersedes: v1.0 (legacy upgrade)
+Upgrade Type: STRUCTURAL NORMALIZATION + v2.7 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Belarus (Interior Buffer & Continuity Corridor)
 Dates: Medieval period–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: [TBD]
+Word Count: ~2,800
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+TYPE: BUFFER–TERRITORY
+SUBTYPE: INTERIOR CORRIDOR
+SCOPE: WESTERN DEFENSE DEPTH
+MEMORY WEIGHT: TIER-2 (STRUCTURAL)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -77,51 +90,122 @@ Memory emphasizes:
 Belarus becomes synonymous with suffering corridor.
 
 ────────────────────────────────────────────────────────────
-VI. POST-SOVIET ALIGNMENT
+VI. GREAT PATRIOTIC WAR SIGNIFICANCE
+────────────────────────────────────────────────────────────
+World War II intensifies memory:
+• Massive civilian casualties
+• Partisan resistance mythology
+• "Hero City" status for Minsk
+• Reconstruction as Soviet achievement
+
+Belarus becomes **proof of shared sacrifice**.
+
+────────────────────────────────────────────────────────────
+VII. POST-SOVIET ALIGNMENT
 ────────────────────────────────────────────────────────────
 After 1991:
 • Belarus maintains close alignment with Russia
 • Functions as strategic buffer
 • Limits western penetration
+• Union State framework with Russia
 
 Continuity is prioritized over reorientation.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL FUNCTION
+VIII. CONTEMPORARY STRATEGIC FUNCTION
 ────────────────────────────────────────────────────────────
 For Russia, Belarus functions as:
 • Western shield
 • Transit stabilizer
 • Political depth zone
+• Military staging area
 
 Belarus reduces exposure rather than amplifying it.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+IX. CIVILIZATIONAL MEMORY FUNCTION
+────────────────────────────────────────────────────────────
+In Russian memory, Belarus encodes:
+
+• Reliable western buffer
+• Shared sacrifice partner
+• Orthodox-Slavic continuity zone
+• Absence of civilizational rupture
+• Model of integration without coercion
+
+Belarus is remembered as **the west that stayed loyal**.
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (v2.7 · STRUCTURAL)
+────────────────────────────────────────────────────────────
+Same-Civilization (RUSSIA) — ≥10 Required:
+• MEM–RUSSIA–UKRAINE — contrastive western buffer
+• MEM–RUSSIA–POLAND — rival claimant to Belarusian lands
+• MEM–RUSSIA–PARTITION–POLAND — incorporation context
+• MEM–RUSSIA–WAR–1812 — invasion corridor
+• MEM–RUSSIA–WWII–EASTERN–FRONT — destruction corridor
+• MEM–RUSSIA–PARTISANS — resistance mythology
+• MEM–RUSSIA–USSR — administrative integration
+• MEM–RUSSIA–UNION–STATE — post-Soviet framework
+• MEM–RUSSIA–BUFFER–ZONES — strategic doctrine
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — confessional continuity
+
+GEO Connections — ≥2 Required:
+• MEM–RUSSIA–GEO–WESTERN–FRONTIER — approach corridor
+• MEM–RUSSIA–GEO–MINSK — administrative center
+• MEM–RUSSIA–GEO–PRIPYAT — marshland barrier
+
+Cross-Civilizational:
+• MEM–POLAND–LITHUANIA — predecessor claimant
+• MEM–GERMANIA–INVASION — WWII destruction agent
+• MEM–NATO–EXPANSION — contemporary pressure context
+
+Each connection is structurally required.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Flat geography incentivizes alignment.
 • Buffer zones become cores through integration.
 • Limited separatism stabilizes frontier corridors.
 • War memory reinforces loyalty narratives.
-• Belarus anchors Russia’s western interior defense.
+• Belarus anchors Russia's western interior defense.
+• Shared suffering produces durable alignment.
 
-Tension preserved without verdict.
+Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-IX. PRIMARY SOURCES & REFERENCES
+XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
-Primary:
+Category B (Primary/Near-Primary):
 • Imperial administrative records
 • Soviet republic documentation
 • War archives
 
-Secondary:
-• Andreas Kappeler
-• Serhii Plokhy
-• Geoffrey Hosking
-• Timothy Snyder
-• Dominic Lieven
+Category D (Modern Scholarship):
+• Kappeler, Andreas. *The Russian Empire: A Multiethnic History*
+• Plokhy, Serhii. *The Origins of the Slavic Nations*
+• Hosking, Geoffrey. *Russia: People and Empire*
+• Snyder, Timothy. *Bloodlands: Europe Between Hitler and Stalin*
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*
+• Marples, David. *Belarus: A Denationalized Nation*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–BELARUS v1.0
+XIII. MEM INGEST BOOTSTRAP (v2.7)
+────────────────────────────────────────────────────────────
+When ingesting this MEM, select the appropriate entry vector:
+
+1. STRATEGIC — Focus on buffer zone logic and western defense depth
+2. MILITARY — Focus on invasion corridors and destruction patterns
+3. CULTURAL — Focus on Orthodox-Slavic continuity and weak separatism
+4. COMPARATIVE — Focus on Belarus vs. Ukraine divergence
+5. ADMINISTRATIVE — Focus on imperial/Soviet integration depth
+6. CONTEMPORARY — Focus on Union State and post-2020 alignment
+7. HISTORICAL — Focus on Polish-Lithuanian to Russian transition
+8. MEMORIAL — Focus on WWII sacrifice and partisan mythology
+
+Default: STRATEGIC (recommended for first ingest)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–BELARUS v2.7
 ────────────────────────────────────────────────────────────

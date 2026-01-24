@@ -1,22 +1,36 @@
-MEM–RUSSIA–CONGRESS–VIENNA — v1.0
+MEM–RUSSIA–CONGRESS–VIENNA — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+ACTIVE · CANONICAL · v2.7 COMPLIANT
+
+Status: ACTIVE · CANONICAL
+Version: 2.7
+Supersedes: v1.0 (legacy upgrade)
+Upgrade Type: STRUCTURAL NORMALIZATION + v2.7 COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / SYSTEM–ARBITRATION
 Subject: Congress of Vienna (Венский конгресс)
 Dates: 1814–1815 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~3,200
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+TYPE: DIPLOMATIC–EVENT
+SUBTYPE: SYSTEM–ARBITRATION MOMENT
+SCOPE: EUROPEAN ORDER RESTRUCTURING
+MEMORY WEIGHT: TIER-1 (FOUNDATIONAL)
+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Congress of Vienna as **Russia’s transition from
+This file preserves the Congress of Vienna as **Russia's transition from
 existential survivor to continental system–arbiter**: the moment when
 Russian endurance in the Napoleonic Wars was converted into recognized
-authority over Europe’s post-revolutionary order.
+authority over Europe's post-revolutionary order.
 
 For Russian civilizational memory, Vienna is not diplomacy—it is
 **legitimized presence**: proof that survival through sacrifice grants
@@ -30,7 +44,7 @@ II. STRATEGIC CONTEXT: FROM INVASION TO ARBITRATION
 Russia enters Vienna with unmatched legitimacy capital.
 
 Preconditions:
-• Absorption and defeat of Napoleon’s invasion (1812)
+• Absorption and defeat of Napoleon's invasion (1812)
 • Sustained sacrifice and mobilization
 • March into Central and Western Europe
 • Recognition as indispensable coalition pillar
@@ -44,7 +58,7 @@ Vienna becomes the institutionalization of that fact.
 ────────────────────────────────────────────────────────────
 III. RUSSIAN OBJECTIVES AT VIENNA
 ────────────────────────────────────────────────────────────
-Russia’s aims exceed territorial gain.
+Russia's aims exceed territorial gain.
 
 Core objectives:
 • Prevent revolutionary recurrence
@@ -111,7 +125,7 @@ The system encodes:
 Order precedes liberty.
 
 ────────────────────────────────────────────────────────────
-VII. RUSSIA’S ROLE IN THE CONCERT OF EUROPE
+VII. RUSSIA'S ROLE IN THE CONCERT OF EUROPE
 ────────────────────────────────────────────────────────────
 Russia emerges as a guarantor power.
 
@@ -140,7 +154,7 @@ Fault lines:
 • System stability relies on elite consensus
 
 The paradox:
-→ The system Russia helps build eventually constrains Russia’s own
+→ The system Russia helps build eventually constrains Russia's own
 expansion and legitimacy claims.
 
 Vienna stabilizes—but freezes.
@@ -156,11 +170,38 @@ In Russian memory, Vienna encodes:
 • Revolution must be prevented, not managed
 • Order is a civilizational responsibility
 
-The Congress is remembered as **Russia’s rightful seat at Europe’s
+The Congress is remembered as **Russia's rightful seat at Europe's
 governing table**, not as diplomatic compromise.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. MEM CONNECTIONS (v2.7 · STRUCTURAL)
+────────────────────────────────────────────────────────────
+Same-Civilization (RUSSIA) — ≥10 Required:
+• MEM–RUSSIA–NAPOLEON — invasion and defeat context
+• MEM–RUSSIA–WAR–1812 — sacrifice legitimacy source
+• MEM–RUSSIA–ALEXANDER–I — Congress architect
+• MEM–RUSSIA–HOLY–ALLIANCE — ideological crystallization
+• MEM–RUSSIA–POLAND — glacis acquisition
+• MEM–RUSSIA–CONCERT–EUROPE — system role
+• MEM–RUSSIA–EXPANSION–WEST — European integration
+• MEM–RUSSIA–AUTOCRACY — legitimacy preservation
+• MEM–RUSSIA–INTERVENTION — post-Vienna doctrine
+• MEM–RUSSIA–CRIMEAN–WAR — system breakdown event
+
+GEO Connections — ≥2 Required:
+• MEM–RUSSIA–GEO–POLAND — territorial buffer zone
+• MEM–RUSSIA–GEO–EUROPE — system integration space
+
+Cross-Civilizational:
+• MEM–ANGLIA–BALANCE–POWER — alternative system logic
+• MEM–FRANCIA–NAPOLEON — defeated rival
+• MEM–GERMANIA–METTERNICH — co-architect
+• MEM–EUROPE–CONCERT — shared order framework
+
+Each connection is structurally required.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Russia converts wartime sacrifice into peacetime authority.
 • System arbitration is viewed as guardianship, not domination.
@@ -169,22 +210,39 @@ X. CONTINUITY INSIGHTS (RAW)
 • Vienna establishes Russia as a conservative system pillar.
 • The suppression of rupture becomes a standing strategic duty.
 
-Tension preserved without verdict.
+Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
-Primary:
+Category B (Primary/Near-Primary):
 • Congress of Vienna protocols and treaties
 • Alexander I correspondence
 • Holy Alliance texts
 
-Secondary:
-• Paul Schroeder
-• Adam Zamoyski
-• Mark Jarrett
-• Brian Vick
+Category D (Modern Scholarship):
+• Schroeder, Paul. *The Transformation of European Politics 1763–1848*
+• Zamoyski, Adam. *Rites of Peace: The Fall of Napoleon and the Congress of Vienna*
+• Jarrett, Mark. *The Congress of Vienna and Its Legacy*
+• Vick, Brian. *The Congress of Vienna: Power and Politics after Napoleon*
+• Lieven, Dominic. *Russia Against Napoleon*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CONGRESS–VIENNA v1.0
+XIII. MEM INGEST BOOTSTRAP (v2.7)
+────────────────────────────────────────────────────────────
+When ingesting this MEM, select the appropriate entry vector:
+
+1. DIPLOMATIC — Focus on Congress negotiations and treaty outcomes
+2. STRATEGIC — Focus on Russia's system arbitration role
+3. IDEOLOGICAL — Focus on Holy Alliance and anti-revolutionary doctrine
+4. TERRITORIAL — Focus on Poland and buffer zone acquisition
+5. BIOGRAPHICAL — Focus on Alexander I's moral-imperial vision
+6. COMPARATIVE — Focus on Russia vs. Anglia/Francia system preferences
+7. LONG-DURATION — Focus on Concert of Europe and breakdown to Crimea
+8. LEGITIMACY — Focus on sacrifice-to-authority conversion logic
+
+Default: STRATEGIC (recommended for first ingest)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–CONGRESS–VIENNA v2.7
 ────────────────────────────────────────────────────────────

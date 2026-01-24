@@ -1,15 +1,24 @@
-MEM–RUSSIA–GEO–GULF–FINLAND — v2.0
+MEM–RUSSIA–GEO–GULF–FINLAND — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE
-Version: 2.0
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Gulf of Finland (Финский залив)
 Dates: c. 800 AD–present
 Class: MEM (Civilizational Memory)
-ARC Version: ARC–RUSSIA v1.5
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~3,400
+Word Count: ~3,600
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -430,5 +439,22 @@ When ingested without CIV–CORE–RUSSIA, the system MUST:
 4) Wait for user selection before proceeding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–GULF–FINLAND v2.0
+XIII. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Tacitus, *Germania* (trans. M. Hutton, Loeb Classical Library, 1914)
+• Pliny the Elder, *Natural History*, Book IV (trans. H. Rackham, Loeb Classical Library, 1942)
+• Strabo, *Geography*, Book VII (trans. H.L. Jones, Loeb Classical Library, 1923)
+• *Primary Chronicle* (*Povest' vremennykh let*), trans. S.H. Cross & O.P. Sherbowitz-Wetzor (1953)
+• *Novgorod First Chronicle*, trans. R. Michell & N. Forbes (1914)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+• Massie, Robert K. *Peter the Great: His Life and World* (1980)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Frost, Robert I. *The Northern Wars: War, State and Society in Northeastern Europe, 1558–1721* (2000)
+• Hughes, Lindsey. *Russia in the Age of Peter the Great* (1998)
+• Kirby, David. *Northern Europe in the Early Modern Period: The Baltic World 1492–1772* (1990)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–GULF–FINLAND v2.7
 ────────────────────────────────────────────────────────────

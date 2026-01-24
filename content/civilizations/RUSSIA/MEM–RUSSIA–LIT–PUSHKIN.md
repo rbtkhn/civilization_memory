@@ -1,17 +1,24 @@
-MEM–RUSSIA–LIT–PUSHKIN — v1.1
+MEM–RUSSIA–LIT–PUSHKIN — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
+Version: 2.7
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Alexander Pushkin — National Memory Architect
 Dates: 1799–1837 AD
-Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
-Compatibility: CMC v2.0+
+
+Governed by:
+• CIV–MEM–CORE v2.0+
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -224,13 +231,28 @@ ARC Categories Applied (Modern Era MEM - 20% Compliance):
 • TOTAL: 10 quotations, 539 words (19.6% of total content, exceeds 20% minimum)
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS & SCHOLAR CONSTRAINTS
+X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Connected MEM Files:
-• MEM–RUSSIA–PETER–GREAT: Peter's legacy as both foundation and terror
-• MEM–RUSSIA–PUGACHEV–REBELLION: Rebellion as freedom and chaos
-• MEM–RUSSIA–LITERARY–LANGUAGE: Language as identity formation
-• MEM–RUSSIA–ARISTOCRACY: Aristocratic identity contradictions
+Russian (≥10):
+• MEM–RUSSIA–PETER–GREAT — Peter's legacy as both foundation and terror
+• MEM–RUSSIA–PUGACHEV–REBELLION — rebellion as freedom and chaos
+• MEM–RUSSIA–ARISTOCRACY — aristocratic identity contradictions
+• MEM–RUSSIA–LIT–GOGOL — direct literary successor, grotesque development
+• MEM–RUSSIA–LIT–TOLSTOY — literary language foundation for later novels
+• MEM–RUSSIA–LIT–DOSTOEVSKY — literary language foundation for psychological depth
+• MEM–RUSSIA–DYNASTY–ROMANOV — court politics and artistic censorship
+• MEM–RUSSIA–NICHOLAS–I — tsarist control over cultural production
+• MEM–RUSSIA–DECEMBRIST–UPRISING — Pushkin's friends among rebels
+• MEM–RUSSIA–SERFDOM — social hierarchy in Eugene Onegin
+• MEM–RUSSIA–ORTHODOXY — Russian identity and cultural memory
+
+GEO–MEM (≥2):
+• MEM–RUSSIA–GEO–STEPPE — landscape in The Captain's Daughter
+• MEM–RUSSIA–GEO–PETERSBURG — Bronze Horseman urban memory
+
+Cross-civilizational:
+• MEM–FRANCIA–LITERATURE — French literary influence on Russian forms
+• MEM–EUROPA–ROMANTICISM — European Romantic movement context
 
 Scholar Constraints:
 • RLL–0002 (Sacral Ratification): Pushkin's canonization follows aristocratic death
@@ -238,7 +260,21 @@ Scholar Constraints:
 • Failure-First Standard: Pushkin's death becomes national martyrdom
 
 ────────────────────────────────────────────────────────────
-XI. VERSION & EVOLUTION NOTES
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Binyon, T.J. *Pushkin: A Biography*. London: HarperCollins, 2002. [PRIMARY:
+  comprehensive modern biography]
+• Nabokov, Vladimir. *Commentary on Eugene Onegin*. 4 vols. New York:
+  Bollingen, 1975. [definitive textual analysis]
+• Mirsky, D.S. *A History of Russian Literature*. New York: Knopf, 1927.
+  [literary historical context]
+• Sandler, Stephanie. *Commemorating Pushkin: Russia's Myth of a National
+  Poet*. Stanford: Stanford University Press, 2004. [memory studies]
+• Levitt, Marcus. *Russian Literary Politics and the Pushkin Celebration of
+  1880*. Ithaca: Cornell University Press, 1989. [political commemoration]
+
+────────────────────────────────────────────────────────────
+XII. VERSION & EVOLUTION NOTES
 ────────────────────────────────────────────────────────────
 v1.0 represents initial encoding of Pushkin's civilizational significance.
 
@@ -264,5 +300,5 @@ v1.1 implements CIV–MEM–TEMPLATE v2.5's mandatory 20% evidence standard:
 This upgrade achieves mandatory 20% compliance while preserving analytical depth.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–PUSHKIN v1.1
+END OF FILE — MEM–RUSSIA–LIT–PUSHKIN v2.7
 ────────────────────────────────────────────────────────────

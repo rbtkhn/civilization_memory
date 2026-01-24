@@ -1,9 +1,9 @@
-MEM–RUSSIA–ALEXANDER–NEVSKY — v2.0
+MEM–RUSSIA–ALEXANDER–NEVSKY — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
+Version: 2.7
+Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Post-Kievan Collapse · Survival Under Asymmetry
 Subject: Alexander Nevsky (Александр Невский)
@@ -13,8 +13,12 @@ Last Update: January 2026
 Word Count: ~2,750
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.5
+Governed by: CIV–MEM–TEMPLATE v2.7
 Compatibility: CIV–MEM–CORE v2.0+
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
+PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -211,7 +215,16 @@ This MEM supports exploration of:
 No synthesis imposed.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (HARDENED · v2.2)
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Fennell, John. *The Crisis of Medieval Russia, 1200–1304*. Longman, 1983.
+• Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.
+• Ostrowski, Donald. *Muscovy and the Mongols: Cross-Cultural Influences on the Steppe Frontier*. Cambridge University Press, 1998.
+• Schenk, Frithjof Benjamin. *Aleksandr Nevskij: Heiliger—Fürst—Nationalheld*. Böhlau Verlag, 2004.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (HARDENED · v2.7)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–ALEXANDER–NEVSKY
 Status: ACTIVE
@@ -220,5 +233,5 @@ Exploration options available.
 (Exactly eight options presented on first ingest.)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–NEVSKY v2.0
+END OF FILE — MEM–RUSSIA–ALEXANDER–NEVSKY v2.7
 ────────────────────────────────────────────────────────────

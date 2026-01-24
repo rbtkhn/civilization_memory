@@ -1,13 +1,27 @@
-MEM–RUSSIA–LENIN
-Status: ACTIVE
-Version: 1.0
-Civilization: RUSSIA
+MEM–RUSSIA–LENIN — v2.7
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE · CANONICAL
+Version: 2.7
+Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v1.0 → v2.7)
+Civilization: RUSSIA (Русская цивилизация)
 Regime: REVOLUTIONARY / TRANSITIONAL (1917–1924)
 Subject: Vladimir Ilyich Lenin
 Dates: 1870–1924 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,500
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.0+
+• ARC–RUSSIA v1.5 (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a MODERN subject (19th-20th century).
+Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -162,20 +176,59 @@ X. CONTINUITY INSIGHTS (RAW)
 Rupture preserved without absolution.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
-Primary:
-• Lenin, State and Revolution
+Same-civilization connections (≥10):
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — October seizure and regime founding
+• MEM–RUSSIA–STALIN — Successor who completed Leninist compression
+• MEM–RUSSIA–CIVIL–WAR — Violence institutionalization during survival
+• MEM–RUSSIA–CHEKA — Security state genesis
+• MEM–RUSSIA–ROMANOV — Imperial continuity terminated
+• MEM–RUSSIA–1905–REVOLUTION — Failed precursor and learning event
+• MEM–RUSSIA–PROVISIONAL–GOVERNMENT — Liberal legitimacy destroyed
+• MEM–RUSSIA–WAR–COMMUNISM — Survival economics institutionalized
+• MEM–RUSSIA–NEP — Tactical retreat preserving monopoly
+• MEM–RUSSIA–INTELLIGENTSIA — Revolutionary intellectual tradition
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–PETROGRAD — Revolutionary seizure point
+• MEM–RUSSIA–GEO–MOSCOW — Capital relocation and command center
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (v2.7)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–LENIN
+Status: ACTIVE
+
+Exploration options available:
+1) Ideological rupture mechanics
+2) Party-as-state substitution
+3) Terror as governance origin
+4) War Communism survival logic
+5) NEP as tactical retreat
+6) Cheka and security state genesis
+7) Lenin–Stalin continuity problem
+8) Compliance & integrity audit (v2.7)
+
+User must select ONE option.
+
+────────────────────────────────────────────────────────────
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Lenin, Vladimir. *State and Revolution* (1917)
 • Decrees of the Soviet Government (1917–1922)
-• Cheka directives
+• Cheka directives and organizational documents
 
-Secondary:
-• Richard Pipes
-• Orlando Figes
-• Sheila Fitzpatrick
-• Stephen Kotkin
-• Moshe Lewin
+Secondary Sources:
+• Pipes, Richard. *The Russian Revolution* (1990)
+• Pipes, Richard. *Russia Under the Bolshevik Regime* (1994)
+• Figes, Orlando. *A People's Tragedy* (1996)
+• Fitzpatrick, Sheila. *The Russian Revolution* (1982)
+• Kotkin, Stephen. *Stalin: Paradoxes of Power* (2014)
+• Lewin, Moshe. *Lenin's Last Struggle* (1968)
+• Service, Robert. *Lenin: A Biography* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LENIN v1.0
+END OF FILE — MEM–RUSSIA–LENIN v2.7
 ────────────────────────────────────────────────────────────

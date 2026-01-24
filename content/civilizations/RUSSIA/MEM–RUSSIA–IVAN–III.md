@@ -1,9 +1,10 @@
-MEM–RUSSIA–IVAN–III — v2.0
+MEM–RUSSIA–IVAN–III — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Upgrade Type: TEMPLATE v2.0 COMPLIANCE + RLL HARD-BINDING + LEGITIMACY SEQUENCING FORMALIZATION
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: MUSCOVITE / LATE RURIKID
 Subject: Ivan III “the Great” (Иван III Васильевич)
@@ -12,11 +13,17 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,350
 
+Governed by: CIV–MEM–TEMPLATE v2.7
+
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
+• CIV–MEM–TEMPLATE v2.7
 • ARC–RUSSIA (pinned)
 • Recursive Learning Ledger (RLL–0001, RLL–0003, RLL–0005)
+
+SUBJECT TYPE DECLARATION (v2.7):
+This MEM addresses a SPARSE SOURCES subject.
+Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -187,9 +194,9 @@ Russian autocracy is:
 • Law-subordinate
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
+X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russia core:
+Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY — compression logic scaled
 • MEM–RUSSIA–MONGOL–EMPIRE — domination inheritance
 • MEM–RUSSIA–GOLDEN–HORDE — tribute-state mechanics
@@ -197,8 +204,13 @@ Russia core:
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity
 • MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
-• MEM–RUSSIA–GEO–VOLGA — corridor depth
 • MEM–RUSSIA–NOVGOROD — pluralism annihilated
+• MEM–RUSSIA–IVAN–IV — autocracy intensification
+• MEM–RUSSIA–SERFDOM — coercion substrate
+
+GEO MEMs (≥2):
+• MEM–RUSSIA–GEO–VOLGA — corridor depth
+• MEM–RUSSIA–GEO–MOSCOW — administrative core
 
 Comparative:
 • MEM–CHINA–MING–DYNASTY
@@ -249,5 +261,20 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–III v2.0
+XIV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+VERBATIM CITED SOURCES:
+• *Sofia First Chronicle*, late 15th century
+• *Novgorod Chronicle*, late 15th century
+• *Russian Chronicle Compilation*, c. 1500
+• *Sudebnik of 1497*
+
+SCHOLARLY SOURCES CONSULTED:
+• Fennell, John. *Ivan the Great of Moscow*. London: Macmillan, 1961.
+• Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Bloomington: Indiana University Press, 1985.
+• Martin, Janet. *Medieval Russia, 980–1584*. Cambridge: Cambridge University Press, 1995.
+• Klyuchevsky, Vasily. *A History of Russia*. Translated by C.J. Hogarth. New York: E.P. Dutton, 1911.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–IVAN–III v2.7
 ────────────────────────────────────────────────────────────

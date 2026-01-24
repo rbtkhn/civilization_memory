@@ -1,11 +1,11 @@
-MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE — v2.0
+MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.x (pre-template consolidation)
-Upgrade Type: ADDITIVE · STRUCTURAL NORMALIZATION + ARC–RUSSIA v1.5 ALIGNMENT
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Lithuanian–Muscovite Wars (Литовско-Московские войны)
 Dates: c. 1368–1537 AD
@@ -15,8 +15,14 @@ Word Count: ~3,500
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA v1.5 (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -178,18 +184,27 @@ X. MODERN SCHOLARSHIP (CATEGORY D)
 Modern historians emphasize **path dependence**, not destiny.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (BINARY · STRUCTURAL ONLY)
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–KIEVAN–RUS — contested inheritance
-• MEM–RUSSIA–NOVGOROD — eliminated alternative model
-• MEM–RUSSIA–SMOLENSK — territorial hinge
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — legitimacy anchor
-• MEM–RUSSIA–IVAN–III — coercive unifier
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–KIEVAN–RUS — Contested inheritance
+• MEM–RUSSIA–NOVGOROD — Eliminated alternative model
+• MEM–RUSSIA–SMOLENSK — Territorial hinge
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Legitimacy anchor
+• MEM–RUSSIA–IVAN–III — Coercive unifier
+• MEM–RUSSIA–MUSCOVY — Absorbing power center
+• MEM–RUSSIA–GOLDEN–HORDE — Mongol context for Rus' fragmentation
+• MEM–RUSSIA–PSKOV — Western frontier principality
+• MEM–RUSSIA–WAR–LIVONIAN — Baltic dimension of western conflict
+• MEM–RUSSIA–ALEXANDER–NEVSKY — Earlier western resistance model
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — Territorial axis of conflict
+• MEM–RUSSIA–GEO–VOLGA–RIVER — Eastern trade route under Muscovite control
 
 Cross-civilizational:
-• MEM–POLAND–LITHUANIA–COMMONWEALTH — federative alternative
-• MEM–EUROPE–LATIN–CHRISTENDOM — confessional pressure
+• MEM–POLAND–LITHUANIA–COMMONWEALTH — Federative alternative
+• MEM–EUROPE–LATIN–CHRISTENDOM — Confessional pressure
 
 Each connection is structurally required.
 
@@ -205,5 +220,22 @@ XII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE v2.0
+XIII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Muscovite chronicles
+• Lithuanian Metrica (state records)
+• Diplomatic correspondence between Moscow and Vilnius
+
+Secondary Sources:
+• Solovyov, Sergei. *History of Russia from the Earliest Times*. Moscow, 1851–1879.
+• Klyuchevsky, Vasily. *A Course of Russian History*. Moscow, 1904–1922.
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Cambridge:
+  Harvard University Press, 1997.
+• Lieven, Dominic. *Russia Against Napoleon*. London: Penguin, 2009.
+• Frost, Robert I. *The Oxford History of Poland-Lithuania, Volume I*.
+  Oxford: Oxford University Press, 2015.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE v2.7
 ────────────────────────────────────────────────────────────

@@ -1,16 +1,21 @@
-MEM–RUSSIA–PAUL–I — v1.1
+MEM–RUSSIA–PAUL–I — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Upgrade Type: ADDITIVE · LMM COMPLIANCE REISSUE
+Version: 2.7
+Upgrade Type: v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Paul I (Павел I)
 Dates: 1754–1801 AD (rule: 1796–1801)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,150
+Word Count: ~2,500
+
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -98,23 +103,32 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Autocracy without mediation invites elite violence.
 
 ────────────────────────────────────────────────────────────
-X. ACADEMIC REFERENCES (ENGAGED)
+X. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
-• Simon Sebag Montefiore — dynastic performance, court trauma, and family power (The Romanovs)
-• Robert K. Massie — autocracy, temperament, and reform constraint
-• Dominic Lieven — elite cohesion and systemic reliability
-• Isabel de Madariaga — court politics and elite rupture
-• Richard Wortman — symbolic authority and failure
-
-These works frame interpretation and are embedded analytically, not cited as authority substitutes.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• de Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
+• Wortman, Richard. *Scenarios of Power: Myth and Ceremony in Russian Monarchy*. Princeton: Princeton University Press, 1995.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY)
+XI. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–CATHERINE–GREAT — elite compact formation
-• MEM–RUSSIA–ALEXANDER–I — post-paternal stabilization
+RUSSIA (≥10):
+• MEM–RUSSIA–CATHERINE–GREAT — elite compact formation predecessor
+• MEM–RUSSIA–ALEXANDER–I — post-paternal stabilization successor
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance limits
+• MEM–RUSSIA–PETER–GREAT — discipline model reference
+• MEM–RUSSIA–ELIZABETH — restraint predecessor contrast
+• MEM–RUSSIA–GUARDS–COUPS — palace revolution mechanism
+• MEM–RUSSIA–NOBILITY — elite compact breach
+• MEM–RUSSIA–SERFDOM — compulsory service reassertion
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy claims
+• MEM–RUSSIA–NAPOLEONIC–WARS — foreign policy context
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–ST–PETERSBURG — court and assassination site
+• MEM–RUSSIA–GEO–GATCHINA — personal retreat and drill center
 
 Cross-civilizational:
 • MEM–FRANCIA–THERMIDOR — elite correction via violence
@@ -122,5 +136,35 @@ Cross-civilizational:
 • MEM–CHINA–QING–COURT — personalism and coup risk
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PAUL–I v1.1
+XII. PEDAGOGICAL AFFORDANCE LAYER
+────────────────────────────────────────────────────────────
+This MEM supports exploration of:
+• Discipline vs legitimacy in autocratic governance
+• Elite compact breach and system self-defense
+• Personalism as governance failure mode
+• Reactionary correction without consent
+• Assassination as elite restoration mechanism
+
+No normative verdict is imposed.
+
+────────────────────────────────────────────────────────────
+XIII. MEM INGEST BOOTSTRAP
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–PAUL–I
+Status: ACTIVE
+Exploration options available.
+
+A) Discipline without legitimacy as failure mode  
+B) Catherine's elite compact vs Paul's breach  
+C) Guards' coup as system self-defense  
+D) Compare Paul and Peter: discipline models  
+E) Foreign policy volatility and elite coordination  
+F) Counterfactual: Paul with institutional mediation  
+G) Assassination as Romanov governance mechanism  
+H) Compliance & integrity audit (v2.7)
+
+User selects ONE option.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–PAUL–I v2.7
 ────────────────────────────────────────────────────────────

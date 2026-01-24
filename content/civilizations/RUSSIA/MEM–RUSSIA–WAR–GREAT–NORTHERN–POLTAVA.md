@@ -1,10 +1,9 @@
-MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — v2.0
+MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.1 → v2.0)
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: v2.7 COMPLIANCE · SUBJECT TYPE DECLARATION · MEM BIBLIOGRAPHY
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Great Northern War
 Dates: 1700–1721 AD
@@ -12,9 +11,13 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,600
 
-Governed by:
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+Additional Governance:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
@@ -220,18 +223,34 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY)
+IX. MEM BIBLIOGRAPHY (v2.7 REQUIRED)
 ────────────────────────────────────────────────────────────
-Russian:
+Military History Sources:
+• Robert K. Massie — *Peter the Great: His Life and World* (1980)
+• Peter Englund — *The Battle That Shook Europe: Poltava* (2002)
+• Paul Bushkovitch — *Peter the Great: The Struggle for Power* (2001)
+• Lindsey Hughes — *Russia in the Age of Peter the Great* (1998)
+• Robert I. Frost — *The Northern Wars 1558–1721* (2000)
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+────────────────────────────────────────────────────────────
+Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–NARVA — initial failure and diagnostic shock
 • MEM–RUSSIA–WAR–POLTAVA — decisive validation event
 • MEM–RUSSIA–PETER–GREAT — modernization project and reform validation
 • MEM–RUSSIA–SWEDEN — strategic rivalry and military challenge
 • MEM–RUSSIA–WAR–LIVONIAN — contrast: premature Baltic attempt
+• MEM–RUSSIA–SAINT–PETERSBURG — new capital as proof of transformation
+• MEM–RUSSIA–IMPERIAL–NAVY — Baltic fleet construction
+• MEM–RUSSIA–ARMY–REFORM — systematic military modernization
+• MEM–RUSSIA–TREATY–NYSTAD — formal recognition of victory
+• MEM–RUSSIA–CHARLES–XII — adversary and strategic foil
 
-GEO–MEM (REQUIRED):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–BALTIC–SEA — strategic objective and access point
 • MEM–RUSSIA–GEO–NEVA–RIVER — St. Petersburg foundation
+• MEM–RUSSIA–GEO–UKRAINE — Poltava campaign terrain
 
 Cross-civilizational:
 • MEM–GERMANIA–WAR–JENA — catastrophic defeat as reform catalyst
@@ -275,5 +294,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA v2.7
 ────────────────────────────────────────────────────────────

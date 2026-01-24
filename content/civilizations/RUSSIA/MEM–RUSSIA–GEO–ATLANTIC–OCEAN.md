@@ -1,17 +1,24 @@
-MEM–RUSSIA–GEO–ATLANTIC–OCEAN — v2.0
+MEM–RUSSIA–GEO–ATLANTIC–OCEAN — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+Governed by: CIV–MEM–TEMPLATE v2.7
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC COMPLIANCE · STRUCTURAL EXPANSION
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Atlantic Ocean (Indirect Maritime Access & Structural Exclusion)
 Dates: c. 1500 AD–present
 Class: MEM (Civilizational Memory)
+ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 Last Update: January 2026
-Word Count: ~3,150
-ARC Version Pinned: ARC–RUSSIA v1.5
+Word Count: ~3,350
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses an INTERPRETIVE subject.
+Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -236,4 +243,21 @@ XIV. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–ATLANTIC–OCEAN v2.0
+XV. MEM BIBLIOGRAPHY (v2.7)
+────────────────────────────────────────────────────────────
+SOURCES CITED:
+• Strabo, *Geographica*, Book II (trans. H.L. Jones, Loeb Classical Library)
+• Pliny the Elder, *Natural History*, Book II (trans. H. Rackham, Loeb Classical Library)
+• Adam of Bremen, *Gesta Hammaburgensis ecclesiae pontificum*, Book IV
+• Mahan, Alfred Thayer. *The Influence of Sea Power upon History, 1660–1783* (1890)
+• Mackinder, Halford J. *Democratic Ideals and Reality* (1919)
+• Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949)
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Herwig, Holger H. *Politics of Frustration: The United States in German Naval Planning, 1889–1941* (1976)
+• Kennedy, Paul. *The Rise and Fall of British Naval Mastery* (1976)
+• Rodger, N.A.M. *The Command of the Ocean: A Naval History of Britain, 1649–1815* (2004)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–GEO–ATLANTIC–OCEAN v2.7

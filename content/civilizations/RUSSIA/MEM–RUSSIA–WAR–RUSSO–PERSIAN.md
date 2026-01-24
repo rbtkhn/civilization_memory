@@ -1,13 +1,13 @@
-MEM–RUSSIA–WAR–RUSSO–PERSIAN — v2.0
+MEM–RUSSIA–WAR–RUSSO–PERSIAN — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.x (implicit)
-Upgrade Type: ADDITIVE · v2.0 CORE + TEMPLATE COMPLIANCE
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russo–Persian Wars (Imperial Southern Frontier)
 Dates: 1722–1828 AD
@@ -17,8 +17,14 @@ Word Count: ~3,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA v1.5 (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -163,18 +169,27 @@ Persia is remembered not as an equal rival, but as a **civilizational
 warning**.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (BINARY · STRUCTURAL)
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-This MEM is structurally connected to:
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–WAR–OTTOMAN — Southern imperial rivalry
+• MEM–RUSSIA–WAR–MONGOL–DOMINATION — Endurance grammar
+• MEM–RUSSIA–WAR–KULIKOVO — Symbolic resistance logic
+• MEM–RUSSIA–PETER–GREAT — Initiator of Persian campaign
+• MEM–RUSSIA–CATHERINE–GREAT — Expansion as stabilization
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Sacral legitimacy contrast
+• MEM–RUSSIA–STATE–IMPERIAL–EXPANSION — Non-maritime empire
+• MEM–RUSSIA–SIBERIA — Eastern expansion parallel
+• MEM–RUSSIA–COSSACKS — Frontier military instrument
+• MEM–RUSSIA–MUSCOVY — Coercive administrative tradition
 
-• MEM–RUSSIA–GEO–CAUCASUS — corridor and buffer logic
-• MEM–RUSSIA–GEO–CASPIAN–SEA — enclosed dominance basin
-• MEM–RUSSIA–WAR–OTTOMAN — southern imperial rivalry
-• MEM–RUSSIA–WAR–MONGOL–DOMINATION — endurance grammar
-• MEM–RUSSIA–WAR–KULIKOVO — symbolic resistance logic
-• MEM–RUSSIA–STATE–IMPERIAL–EXPANSION — non-maritime empire
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy contrast
-• MEM–PERSIA–QAJAR–DECLINE — comparative collapse dynamics
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–CAUCASUS — Corridor and buffer logic
+• MEM–RUSSIA–GEO–CASPIAN–SEA — Enclosed dominance basin
+
+Cross-civilizational:
+• MEM–PERSIA–QAJAR–DECLINE — Comparative collapse dynamics
+• MEM–ISLAM–OTTOMAN–EMPIRE — Regional power context
 
 Only structurally necessary connections are listed.
 
@@ -203,5 +218,25 @@ Secondary sources frame interpretation but do not override primary
 structural analysis.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–RUSSO–PERSIAN v2.0
+XII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Russian diplomatic correspondence
+• Treaty of Gulistan (1813)
+• Treaty of Turkmenchay (1828)
+• Persian court records
+
+Secondary Sources:
+• Klyuchevsky, Vasily. *A Course of Russian History*. Moscow, 1904–1922.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London:
+  John Murray, 2000.
+• Hosking, Geoffrey. *Russia: People and Empire, 1552–1917*. Cambridge:
+  Harvard University Press, 1997.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York:
+  Random House, 2011.
+• Amanat, Abbas. *Iran: A Modern History*. New Haven: Yale University
+  Press, 2017.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–RUSSO–PERSIAN v2.7
 ────────────────────────────────────────────────────────────

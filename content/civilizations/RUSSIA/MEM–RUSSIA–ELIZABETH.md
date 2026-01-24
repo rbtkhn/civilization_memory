@@ -1,10 +1,10 @@
-MEM–RUSSIA–ELIZABETH — v1.2
+MEM–RUSSIA–ELIZABETH — v2.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · MASSIE QUOTATION ENHANCEMENT + v2.0 COMPLIANCE (v1.2 → v2.0)
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: v2.7 COMPLIANCE UPGRADE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Elizabeth Petrovna (Елизавета Петровна)
@@ -13,13 +13,12 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,000
 
-Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA (pinned)
+Governed by: CIV–MEM–TEMPLATE v2.7
+
+SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.0)
+UPGRADE NOTE (v2.7)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence through balanced
 integration of narrative and analytical quotations, while upgrading to
@@ -245,29 +244,32 @@ X. CONTINUITY INSIGHTS (RAW)
 • Elizabeth preserves the empire others later reshape.
 
 ────────────────────────────────────────────────────────────
-XI. ACADEMIC REFERENCES (LMM-COMPLIANT)
+XI. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
-Mandatory LMM References (explicit):
-• Simon Sebag Montefiore — *The Romanovs: 1613–1918*
-• Robert K. Massie — *Catherine the Great: Portrait of a Woman*
-• Dominic Lieven — *Empire: The Russian Empire and Its Rivals*
-
-Additional aligned scholarship:
-• Lindsey Hughes — Petrine inheritance and court culture
-• Isabel de Madariaga — imperial continuity and restraint
-• Marc Raeff — service state persistence
-
-Academic works frame interpretation but do not override embedded
-evidence.
+• Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
+• Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Hughes, Lindsey. *Russia in the Age of Peter the Great*. New Haven: Yale University Press, 1998.
+• de Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY)
+XII. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–PETER–GREAT — rupture and acceleration
-• MEM–RUSSIA–ANNA–IOANNOVNA — succession drift
-• MEM–RUSSIA–CATHERINE–GREAT — renewed reform and expansion
+RUSSIA (≥10):
+• MEM–RUSSIA–PETER–GREAT — rupture and acceleration predecessor
+• MEM–RUSSIA–ANNA–IOANNOVNA — succession drift predecessor
+• MEM–RUSSIA–CATHERINE–GREAT — renewed reform and expansion successor
 • MEM–RUSSIA–SEVEN–YEARS — imperial system engagement
+• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic continuity framework
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy infrastructure
+• MEM–RUSSIA–GUARDS–COUPS — palace revolution mechanism
+• MEM–RUSSIA–PAUL–I — succession consequence
+• MEM–RUSSIA–SERFDOM — social stasis preservation
+• MEM–RUSSIA–NOBILITY — elite compact maintenance
+
+GEO (≥2):
+• MEM–RUSSIA–GEO–ST–PETERSBURG — court and capital seat
+• MEM–RUSSIA–GEO–BALTIC–SEA — Petrine inheritance zone
 
 Cross-civilizational:
 • MEM–FRANCIA–LOUIS–XV — court stability without reform
@@ -293,5 +295,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ELIZABETH v2.0
+END OF FILE — MEM–RUSSIA–ELIZABETH v2.7
 ────────────────────────────────────────────────────────────

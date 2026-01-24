@@ -1,11 +1,11 @@
-MEM–RUSSIA–WAR–LIVONIAN–CRUSADE — v2.0
+MEM–RUSSIA–WAR–LIVONIAN–CRUSADE — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.x (pre-template consolidation)
-Upgrade Type: ADDITIVE · STRUCTURAL REFRAMING + ARC–RUSSIA v1.5 ALIGNMENT
+Version: 2.7
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Livonian Crusade (Northern Crusades against Rus’)
 Dates: c. 1198–1290 AD (Rus’ engagement: 13th century)
@@ -15,8 +15,14 @@ Word Count: ~3,300
 
 Governed by:
 • CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.5
-• ARC–RUSSIA v1.5 (pinned)
+• CIV–MEM–TEMPLATE v2.7
+• ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.7)
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -175,20 +181,27 @@ Long-term effects include:
 Memory encodes **identity defense under pressure**, not triumphalism.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (BINARY · STRUCTURAL ONLY)
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Russian:
-• MEM–RUSSIA–ALEXANDER–NEVSKY
-• MEM–RUSSIA–NOVGOROD
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY
-• MEM–RUSSIA–WAR–NEVA
-• MEM–RUSSIA–WAR–ICE
+Russian (≥10 same-civilization):
+• MEM–RUSSIA–ALEXANDER–NEVSKY — Commander of defensive resistance
+• MEM–RUSSIA–NOVGOROD — Primary Rus' defender against crusaders
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Faith under threat from Latin expansion
+• MEM–RUSSIA–WAR–NEVA — Victory against Swedish crusaders
+• MEM–RUSSIA–WAR–ICE — Decisive defeat of Teutonic Order
+• MEM–RUSSIA–KIEVAN–RUS — Fragmented polity facing western pressure
+• MEM–RUSSIA–PSKOV — Western frontier target
+• MEM–RUSSIA–GOLDEN–HORDE — Eastern domination during crusade period
+• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — Direct confrontation with Order
+• MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN — Coordinated western pressure
+
+GEO–MEM (REQUIRED ≥2):
+• MEM–RUSSIA–GEO–GULF–FINLAND — Baltic strategic dimension
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — Trade route under threat
 
 Cross-civilizational:
-• MEM–GERMANIA–TEUTONIC–ORDER
-• MEM–EUROPE–NORTHERN–CRUSADES
-• MEM–BALTIC–COLONIZATION
-• MEM–CHRISTENDOM–LATIN–UNIVERSALISM
+• MEM–GERMANIA–TEUTONIC–ORDER — Crusading military order
+• MEM–EUROPE–NORTHERN–CRUSADES — Broader crusading context
 
 Each connection is structurally required.
 
@@ -204,5 +217,22 @@ XII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–LIVONIAN–CRUSADE v2.0
+XIII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+────────────────────────────────────────────────────────────
+Primary Sources Consulted:
+• Livonian Rhymed Chronicle (c. 1290)
+• Novgorod First Chronicle
+• Papal correspondence regarding Baltic crusades
+
+Secondary Sources:
+• Karamzin, Nikolai. *History of the Russian State*. St. Petersburg, 1816–1829.
+• Klyuchevsky, Vasily. *A Course of Russian History*. Moscow, 1904–1922.
+• Christiansen, Eric. *The Northern Crusades*. London: Macmillan, 1980.
+• Urban, William. *The Teutonic Knights: A Military History*. London:
+  Greenhill Books, 2003.
+• Fennell, John. *The Crisis of Medieval Russia, 1200–1304*. London:
+  Longman, 1983.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–LIVONIAN–CRUSADE v2.7
 ────────────────────────────────────────────────────────────
