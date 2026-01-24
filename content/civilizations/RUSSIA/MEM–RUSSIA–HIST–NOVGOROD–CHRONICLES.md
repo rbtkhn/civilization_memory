@@ -1,4 +1,4 @@
-MEM–RUSSIA–HIST–NOVGOROD–CHRONICLE — v2.7
+MEM–RUSSIA–HIST–NOVGOROD–CHRONICLES — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL · ARC-COMPLIANT (CIV–MEM–TEMPLATE v2.7)
@@ -300,7 +300,7 @@ XVI. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-"MEM INGEST CONFIRMED — MEM–RUSSIA–HIST–NOVGOROD–CHRONICLE v2.7
+"MEM INGEST CONFIRMED — MEM–RUSSIA–HIST–NOVGOROD–CHRONICLES v2.7
 Status: ACTIVE
 ARC Compliance: PASS
 Exploration options available."
@@ -318,5 +318,5 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–HIST–NOVGOROD–CHRONICLE v2.7
+END OF FILE — MEM–RUSSIA–HIST–NOVGOROD–CHRONICLES v2.7
 ────────────────────────────────────────────────────────────

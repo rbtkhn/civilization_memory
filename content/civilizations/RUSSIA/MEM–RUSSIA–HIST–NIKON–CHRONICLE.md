@@ -249,7 +249,7 @@ XIII. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source absorbed and reframed
-• MEM–RUSSIA–HIST–NOVGOROD–CHRONICLE — alternative tradition suppressed
+• MEM–RUSSIA–HIST–NOVGOROD–CHRONICLES — alternative tradition suppressed
 • MEM–RUSSIA–MUSCOVY — political context of compilation
 • MEM–RUSSIA–IVAN–III — hero of "gathering" narrative
 • MEM–RUSSIA–IVAN–IV — Chronicle extended to justify his reign
