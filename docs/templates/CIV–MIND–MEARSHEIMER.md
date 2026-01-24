@@ -1,16 +1,16 @@
-MIND–MEARSHEIMER — v2.1
+CIV–MIND–MEARSHEIMER — v2.2
 Civilizational Memory Codex · Advisory Mind
 John J. Mearsheimer Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (ADVISORY)
-Supersedes: MIND–PROFILE–MEARSHEIMER v2.0
-Upgrade Type: NAMING STANDARDIZATION
+Supersedes: MIND–MEARSHEIMER v2.1
+Upgrade Type: CIV PREFIX STANDARDIZATION
 Activation State: INACTIVE BY DEFAULT (OGE-INVOKED)
 Compatibility:
 • CIV–MIND–TEMPLATE v1.0 (REQUIRED)
-• MIND–MERCOURIS v2.1 (PRIMARY — REQUIRED)
+• CIV–MIND–MERCOURIS v2.1 (PRIMARY — REQUIRED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -20,7 +20,7 @@ Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 Governed by:
 • CIV–MEM–CORE
 • CIV–MIND–TEMPLATE v1.0
-• MIND–MERCOURIS v2.1 (PRIMARY MIND)
+• CIV–MIND–MERCOURIS v2.2 (PRIMARY MIND)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Derivation: SCE–EXP–MEARSHEIMER v9.7 (CSC)
@@ -29,15 +29,17 @@ Last Update: January 2026
 Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.1) — NAMING STANDARDIZATION
+UPGRADE NOTE (v2.2) — CIV PREFIX STANDARDIZATION
 ────────────────────────────────────────────────────────────
 This version preserves ALL linguistic fingerprints, reasoning
-postures, and epistemic discipline rules from v2.0.
+postures, and epistemic discipline rules from v2.1.
 
-v2.1 introduces naming standardization:
-• File renamed: MIND–PROFILE–MEARSHEIMER → MIND–MEARSHEIMER
-• Template reference updated: MIND–CORE–TEMPLATE → CIV–MIND–TEMPLATE
-• Primary reference updated: MIND–PROFILE–MERCOURIS → MIND–MERCOURIS
+v2.2 introduces CIV prefix standardization:
+• File renamed: MIND–MEARSHEIMER → CIV–MIND–MEARSHEIMER
+• Primary reference updated: MIND–MERCOURIS → CIV–MIND–MERCOURIS
+
+This aligns with CIV– naming convention:
+• CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–MIND–TEMPLATE
 
 No analytical content is altered.
 No governance rules are changed.
@@ -45,7 +47,7 @@ No governance rules are changed.
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-MIND–MEARSHEIMER defines an **advisory interpretive voice**
+CIV–MIND–MEARSHEIMER defines an **advisory interpretive voice**
 that sharpens the primary Mercouris reading with offensive-realist
 structural analysis when invoked via OGE.
 
@@ -354,9 +356,9 @@ Hierarchy (top → bottom):
 
 HUMAN CURATOR
 ↓
-MIND–MERCOURIS          (PRIMARY MIND)
+CIV–MIND–MERCOURIS          (PRIMARY MIND)
 ↓
-MIND–MEARSHEIMER        (THIS FILE — ADVISORY)
+CIV–MIND–MEARSHEIMER        (THIS FILE — ADVISORY)
 ↓
 MIND–[CIVILIZATION]     (evolving cognition)
 ↓
@@ -396,14 +398,14 @@ Violation constitutes a governance breach.
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-MIND–MEARSHEIMER v2.1 is CANONICAL.
+CIV–MIND–MEARSHEIMER v2.1 is CANONICAL.
 
 All uses MUST declare:
-"Bound by MIND–MEARSHEIMER v2.1 (ADVISORY)"
+"Bound by CIV–MIND–MEARSHEIMER v2.1 (ADVISORY)"
 
 This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MIND–MEARSHEIMER — v2.1
+END OF FILE — CIV–MIND–MEARSHEIMER — v2.2
 ────────────────────────────────────────────────────────────

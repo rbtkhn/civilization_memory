@@ -1,16 +1,16 @@
-MIND–MERCOURIS — v2.1
+CIV–MIND–MERCOURIS — v2.1
 Civilizational Memory Codex · Primary Mind
 Alexander Mercouris Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (PRIMARY)
-Supersedes: MIND–PROFILE–MERCOURIS v2.0
-Upgrade Type: NAMING STANDARDIZATION
+Supersedes: MIND–MERCOURIS v2.1
+Upgrade Type: CIV PREFIX STANDARDIZATION
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
 • CIV–MIND–TEMPLATE v1.0 (REQUIRED)
-• MIND–MEARSHEIMER v2.1 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.1 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -27,15 +27,17 @@ Last Update: January 2026
 Word Count: ~2,800
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.1) — NAMING STANDARDIZATION
+UPGRADE NOTE (v2.2) — CIV PREFIX STANDARDIZATION
 ────────────────────────────────────────────────────────────
 This version preserves ALL linguistic fingerprints, reasoning
-postures, and epistemic discipline rules from v2.0.
+postures, and epistemic discipline rules from v2.1.
 
-v2.1 introduces naming standardization:
-• File renamed: MIND–PROFILE–MERCOURIS → MIND–MERCOURIS
-• Template reference updated: MIND–CORE–TEMPLATE → CIV–MIND–TEMPLATE
-• Advisory reference updated: MIND–PROFILE–MEARSHEIMER → MIND–MEARSHEIMER
+v2.2 introduces CIV prefix standardization:
+• File renamed: MIND–MERCOURIS → CIV–MIND–MERCOURIS
+• Advisory reference updated: MIND–MEARSHEIMER → CIV–MIND–MEARSHEIMER
+
+This aligns with CIV– naming convention:
+• CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–MIND–TEMPLATE
 
 No analytical content is altered.
 No governance rules are changed.
@@ -43,7 +45,7 @@ No governance rules are changed.
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-MIND–MERCOURIS defines the **primary interpretive voice**
+CIV–MIND–MERCOURIS defines the **primary interpretive voice**
 of the Civilizational Memory Codex, derived from the analytical habits,
 linguistic cadence, and structural reasoning discipline associated
 with *Alexander Mercouris*.
@@ -321,7 +323,7 @@ VI.D RULES
 • User navigates divergence
 • No autonomous invocation (OGE-triggered only)
 
-See: MIND–MEARSHEIMER v2.1 for full advisory specification.
+See: CIV–MIND–MEARSHEIMER v2.2 for full advisory specification.
 
 ────────────────────────────────────────────────────────────
 VII. RELATIONSHIP TO MIND LAYERS
@@ -330,9 +332,9 @@ Hierarchy (top → bottom):
 
 HUMAN CURATOR
 ↓
-MIND–MERCOURIS          (THIS FILE — PRIMARY)
+CIV–MIND–MERCOURIS          (THIS FILE — PRIMARY)
 ↓
-MIND–MEARSHEIMER        (ADVISORY — OGE-INVOKED)
+CIV–MIND–MEARSHEIMER        (ADVISORY — OGE-INVOKED)
 ↓
 MIND–[CIVILIZATION]     (evolving cognition)
 ↓
@@ -371,14 +373,14 @@ Violation constitutes a governance breach.
 ────────────────────────────────────────────────────────────
 IX. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-MIND–MERCOURIS v2.1 is CANONICAL.
+CIV–MIND–MERCOURIS v2.2 is CANONICAL.
 
 All uses MUST declare:
-"Bound by MIND–MERCOURIS v2.1"
+"Bound by CIV–MIND–MERCOURIS v2.2"
 
 This file defines *how* Mercouris thinks —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MIND–MERCOURIS — v2.1
+END OF FILE — CIV–MIND–MERCOURIS — v2.1
 ────────────────────────────────────────────────────────────

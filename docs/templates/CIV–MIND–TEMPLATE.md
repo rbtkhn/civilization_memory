@@ -10,8 +10,8 @@ Load Order: AFTER CIV–MEM–CORE
 Supersedes: None (first version)
 Compatibility:
 • CIV–MEM–CORE v2.0+
-• MIND–MERCOURIS v2.0+ (PRIMARY)
-• MIND–MEARSHEIMER v2.0+ (ADVISORY)
+• CIV–MIND–MERCOURIS v2.2+ (PRIMARY)
+• CIV–MIND–MEARSHEIMER v2.2+ (ADVISORY)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
@@ -90,7 +90,7 @@ The primary mind:
 
 III.B ADVISORY MIND
 ────────────────────────────────────────────────────────────
-Role: MIND–MEARSHEIMER
+Role: CIV–MIND–MEARSHEIMER
 Status: INACTIVE BY DEFAULT (OGE-invoked)
 Function: Sharpens primary analysis when invoked
 
@@ -139,7 +139,7 @@ HUMAN CURATOR
 ↓
 MIND–MERCOURIS   (PRIMARY MIND — always active)
 ↓
-MIND–MEARSHEIMER (ADVISORY MIND — OGE-invoked)
+CIV–MIND–MEARSHEIMER (ADVISORY MIND — OGE-invoked)
 ↓
 MIND–[CIVILIZATION] (evolving cognition — future)
 ↓
@@ -240,7 +240,7 @@ REQUIREMENTS FOR NEW PROFILES:
 • Must be versioned and tracked
 
 NAMING CONVENTION:
-MIND–[NAME] (e.g., MIND–MERCOURIS, MIND–MEARSHEIMER)
+MIND–[NAME] (e.g., MIND–MERCOURIS, CIV–MIND–MEARSHEIMER)
 
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS

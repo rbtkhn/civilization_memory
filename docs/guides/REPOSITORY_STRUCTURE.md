@@ -53,8 +53,8 @@ The `content/` directory contains:
 - `CIV–MIND–TEMPLATE.md` - Template for mind profiles
 - `CIV–SCHOLAR–PROTOCOL.md` - Scholar protocol governance
 - `CIV–SCHOLAR–TEMPLATE.md` - Template for Scholar files
-- `MIND–MERCOURIS.md` - Primary mind profile
-- `MIND–MEARSHEIMER.md` - Advisory mind profile
+- `CIV–MIND–MERCOURIS.md` - Primary mind profile
+- `CIV–MIND–MEARSHEIMER.md` - Advisory mind profile
 
 ---
 

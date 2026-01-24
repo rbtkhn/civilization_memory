@@ -30,8 +30,8 @@ Changes:
 • Advisory mind (MEARSHEIMER) now documented in Section XX
 • CIV–MIND–TEMPLATE v1.0 created as foundational governance for all MIND profiles
 • File naming standardized:
-  - MIND–PROFILE–MERCOURIS → MIND–MERCOURIS v2.1
-  - MIND–PROFILE–MEARSHEIMER → MIND–MEARSHEIMER v2.1
+  - MIND–PROFILE–MERCOURIS → CIV–MIND–MERCOURIS v2.2
+  - MIND–PROFILE–MEARSHEIMER → CIV–MIND–MEARSHEIMER v2.2
   - MIND–CORE–TEMPLATE → CIV–MIND–TEMPLATE v1.0
 
 Polyphony Architecture:
@@ -40,7 +40,7 @@ Polyphony Architecture:
 • Tension preserved, NOT synthesized
 • User navigates divergence between readings
 
-See: CIV–MIND–TEMPLATE v1.0, MIND–MERCOURIS v2.1, MIND–MEARSHEIMER v2.1
+See: CIV–MIND–TEMPLATE v1.0, MIND–MERCOURIS v2.1, CIV–MIND–MEARSHEIMER v2.1
 
 Backward Compatibility:
 • All existing MEM files remain valid
@@ -575,7 +575,7 @@ Rules:
 • User navigates divergence
 • No autonomous invocation (OGE-triggered only)
 
-See: CIV–MIND–TEMPLATE v1.0, MIND–MEARSHEIMER v2.1
+See: CIV–MIND–TEMPLATE v1.0, CIV–MIND–MEARSHEIMER v2.2
 
 VP-1.g. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────
@@ -583,8 +583,8 @@ All MIND profiles are governed by CIV–MIND–TEMPLATE v1.0.
 
 Hierarchy (top → bottom):
 • HUMAN CURATOR
-• MIND–MERCOURIS (PRIMARY)
-• MIND–MEARSHEIMER (ADVISORY)
+• CIV–MIND–MERCOURIS (PRIMARY)
+• CIV–MIND–MEARSHEIMER (ADVISORY)
 • MIND–[CIVILIZATION] (future)
 • CIV–SCHOLAR
 • ARCHIVE

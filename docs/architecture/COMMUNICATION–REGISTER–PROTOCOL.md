@@ -27,7 +27,7 @@ NEW CONTENT:
 
 GOVERNING PROFILES:
 • MIND–PROFILE–MERCOURIS v2.0 (PRIMARY)
-• MIND–MEARSHEIMER v2.0 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.0 (ADVISORY)
 
 PURPOSE:
 Harden the analytical sequence for extracting insights visible
@@ -332,7 +332,7 @@ interpretive lenses.
 
 GOVERNING PROFILES:
 • MIND–PROFILE–MERCOURIS v2.0 (PRIMARY)
-• MIND–MEARSHEIMER v2.0 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.0 (ADVISORY)
 
 THE POLYPHONY SEQUENCE (6 STEPS):
 ────────────────────────────────────────────────────────────

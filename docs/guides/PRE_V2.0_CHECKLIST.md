@@ -72,8 +72,8 @@ This document outlines all changes that should be made before upgrading CIV–ME
 
 ### 3.1 Separate File Status
 **Current State:** ✅ RESOLVED
-- MIND–PROFILE–MERCOURIS renamed to MIND–MERCOURIS v2.1
-- MIND–PROFILE–MEARSHEIMER renamed to MIND–MEARSHEIMER v2.1
+- MIND–PROFILE–MERCOURIS renamed to CIV–MIND–MERCOURIS v2.2
+- MIND–PROFILE–MEARSHEIMER renamed to CIV–MIND–MEARSHEIMER v2.2
 - CIV–MIND–TEMPLATE v1.0 created as governance foundation
 - Old MIND–PROFILE–* files deleted
 
