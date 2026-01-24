@@ -10,14 +10,14 @@ Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
 Supersedes: CIV–SCHOLAR–PROTOCOL v2.0.1
-Upgrade Type: ADDITIVE · TEMPLATE v2.2 ALIGNMENT
-Compatibility: CIV–SCHOLAR–TEMPLATE v2.2 · CIV–CORE–TEMPLATE v2.0
+Upgrade Type: ADDITIVE · TEMPLATE v2.3 ALIGNMENT
+Compatibility: CIV–SCHOLAR–TEMPLATE v2.3 · CIV–CORE–TEMPLATE v2.0
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.1) — TEMPLATE v2.2 ALIGNMENT
+UPGRADE NOTE (v2.1) — TEMPLATE v2.3 ALIGNMENT
 ────────────────────────────────────────────────────────────
-This version aligns CIV–SCHOLAR–PROTOCOL with CIV–SCHOLAR–TEMPLATE v2.2.
+This version aligns CIV–SCHOLAR–PROTOCOL with CIV–SCHOLAR–TEMPLATE v2.3.
 
 v2.1 introduces the following ADDITIVE changes:
 
@@ -117,7 +117,7 @@ Mandatory behaviors:
 SYNTHESIS CLARIFICATION (BINDING):
 In Phase II, synthesis is PERMITTED as a learning operation,
 subject to phase-specific constraints defined in
-CIV–SCHOLAR–TEMPLATE v2.2, provided that it remains:
+CIV–SCHOLAR–TEMPLATE v2.3, provided that it remains:
 
 • Non-teleological
 • Non-optimizing
@@ -234,7 +234,7 @@ OGE PRECEDENCE LAW:
 OGE — SYNTHESIS OPTIONS (LEARN MODE):
 In LEARN MODE, OGE SHOULD frequently present synthesis-oriented actions,
 subject to phase-specific constraints defined in
-CIV–SCHOLAR–TEMPLATE v2.2, including:
+CIV–SCHOLAR–TEMPLATE v2.3, including:
 
 • Synthesize constraints across ingested MEM files
 • Synthesize failure patterns
@@ -400,7 +400,7 @@ Silence does not imply permission.
 XIII. SCHOLAR ↔ MEM CONFLICT HANDLING (ENFORCEMENT)
 ────────────────────────────────────────────────────────────
 Scholar ↔ MEM conflict handling is governed exclusively by:
-• CIV–SCHOLAR–TEMPLATE v2.2, Section VI
+• CIV–SCHOLAR–TEMPLATE v2.3, Section VI
 
 This protocol ENFORCES execution and logging requirements
 but does NOT redefine the rule.

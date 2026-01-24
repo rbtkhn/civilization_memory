@@ -1,19 +1,38 @@
-CIV–SCHOLAR–TEMPLATE — v2.2
+CIV–SCHOLAR–TEMPLATE — v2.3
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.1
-Upgrade Type: ADDITIVE · ANOMALY FLAG PROTOCOL
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.2
+Upgrade Type: ADDITIVE · ALIGNMENT PATCH
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.2+
+Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.7+ · CIV–SCHOLAR–PROTOCOL v2.1+
 Last Update: January 2026
-WORDCOUNT: ~5,200
+WORDCOUNT: ~5,400
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.2 → v2.3 ALIGNMENT PATCH)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.2.
+
+v2.3 introduces the following ADDITIVE alignment fixes:
+
+• RLL identifier format updated to namespace-qualified standard
+  (aligns with CIV–SCHOLAR–PROTOCOL v2.1 deprecation of unqualified IDs)
+• Non-synthesis rule clarified: constraint-oriented synthesis exempt
+  (resolves apparent tension with PROTOCOL v2.1 synthesis permissions)
+• Compatibility reference updated to current template versions
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.1 → v2.2 CONTINUITY CARRY-FORWARD)
 ────────────────────────────────────────────────────────────
-This version preserves ALL authority hierarchy, learning safeguards,
-lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.1.
+v2.2 introduced:
+
+• SCHOLAR ↔ MEM Conflict Handling (Anomaly Flag Protocol)
 
 v2.1 introduced integration with new architecture protocols:
 
@@ -143,7 +162,10 @@ An RLL:
 • Is BINDING within declared scope
 
 Each RLL MUST specify:
-• RLL ID (e.g., RLL–0007)
+• RLL ID (namespace-qualified):
+  – Civilization-scoped: RLL–[CIV]–#### (e.g., RLL–RUSSIA–0007)
+  – Global: RLL–GLOBAL–#### (e.g., RLL–GLOBAL–0001)
+  – Unqualified RLL–#### identifiers are DEPRECATED
 • Scope (Civilization-specific or Template-level)
 • Constraint type:
   – Sequencing
@@ -177,7 +199,7 @@ Success cases may ONLY be referenced:
 Positive narratives without failure anchoring are INVALID.
 
 ────────────────────────────────────────────────────────────
-V. NON-SYNTHESIS RULE (REASSERTED)
+V. NON-SYNTHESIS RULE (CLARIFIED · v2.3)
 ────────────────────────────────────────────────────────────
 Scholar files MAY:
 • Record contradictions
@@ -191,6 +213,21 @@ Scholar files MAY NOT:
 • Collapse plurality into narrative
 
 Violation escalates to Template breach.
+
+CONSTRAINT-ORIENTED SYNTHESIS EXEMPTION (v2.3):
+The non-synthesis rule applies to CLOSURE-SEEKING synthesis—
+synthesis that resolves, harmonizes, or produces final theories.
+
+The following synthesis forms are EXEMPT and PERMITTED
+(per CIV–SCHOLAR–PROTOCOL v2.1):
+• Constraint synthesis
+• Failure-pattern synthesis
+• Negative-capability synthesis
+• Sequencing synthesis
+• Boundary identification synthesis
+
+These forms preserve tensions rather than resolve them.
+They identify what cannot work, not what should be done.
 
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
@@ -331,6 +368,11 @@ XII. VERSIONING & GOVERNANCE
 • All phase changes require explicit authorization
 • All RLL bindings require explicit authorization
 
+v2.3 ADDITIONS:
+• RLL namespace-qualified format enforcement
+• Constraint-oriented synthesis exemption clarification
+• Compatibility reference update to current versions
+
 v2.2 ADDITIONS:
 • Scholar ↔ MEM Conflict Handling (Anomaly Flag Protocol)
 
@@ -340,5 +382,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.2
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.3
 ────────────────────────────────────────────────────────────

@@ -1,31 +1,42 @@
-CIV–INDEX–RUSSIA — v2.2
+CIV–INDEX–RUSSIA — v2.3
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.2
-Supersedes: CIV–INDEX–RUSSIA v2.1
-Upgrade Type: REGISTER UPDATE · MISSING FILES ADDED + NAMING CORRECTIONS
+Version: 2.3
+Supersedes: CIV–INDEX–RUSSIA v2.2
+Upgrade Type: REGISTER RECONCILIATION · FULL DIRECTORY SYNC
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
 Class: CIV (Index)
 Last Update: January 2026
 
-Template Alignment: CIV–CORE–TEMPLATE v1.9 (Index-Compatible)
+Derived from: CIV–INDEX–TEMPLATE v1.8
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.3) — FULL DIRECTORY SYNC
+────────────────────────────────────────────────────────────
+This version performs complete reconciliation with actual directory.
+
+v2.3 changes:
+• Added 18 missing files (12 WAR, 2 HIST, 1 EXTERNAL CIV, 3 other)
+• Removed non-existent entry: MEM–RUSSIA–WAR–OTTOMAN.md
+• Added new HIST category for historiographical MEMs
+• Fixed typo: "GOVERNANAD" → "GOVERNANCE"
+• Updated template reference: CIV–INDEX–TEMPLATE v1.8
+• Updated total count: 100 → 117 files
+
+All index entries now verified against actual MEM files in directory.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2)
 ────────────────────────────────────────────────────────────
-This version reconciles the index with actual directory contents.
-
 v2.2 changes:
 • Added 14 missing files: 5 GEO, 2 LAW, 3 LIT, 4 WAR
 • Corrected filename: MEM–RUSSIA–ARCTIC–OCEAN.md → MEM–RUSSIA–GEO–ARCTIC–OCEAN.md
 • Updated total count: 86 → 100 files
-
-All index entries now match actual MEM files in the directory.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -78,7 +89,7 @@ v1.8 corrections:
 All index entries now match actual MEM files in the directory.
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & INDEX GOVERNANAD
+I. PURPOSE & INDEX GOVERNANCE
 ────────────────────────────────────────────────────────────
 This file is the authoritative register of all MEM–RUSSIA files.
 
@@ -90,9 +101,9 @@ INDEX GOVERNANCE RULES (REINFORCED · CORE-MATCHED):
 • Renames or scope changes MUST be reflected immediately
 • Redundancy with CIV–CORE is intentional and reinforcing
 • This index is the sole source of truth for:
-–Scholar-mode discovery scope
-–Parity enforcement across civilizations
-–CIV–CORE–RUSSIA synchronization boundaries
+  – Scholar-mode discovery scope
+  – Parity enforcement across civilizations
+  – CIV–CORE–RUSSIA synchronization boundaries
 
 This file does not think.
 This file does not learn.
@@ -106,7 +117,8 @@ D. LAW
 E. ECON
 F. RELIGION
 G. PERSON
-H. OTHER / MISC
+H. HIST (Historiographical)
+I. OTHER / MISC
 
 ────────────────────────────────────────────────────────────
 II. FILE REGISTER — RUSSIA (RECONCILED)
@@ -146,24 +158,38 @@ B) DYNASTY
 • MEM–RUSSIA–DYNASTY–ROMANOV.md
 
 C) WAR
+• MEM–RUSSIA–WAR–CHERVEN–CITIES.md
 • MEM–RUSSIA–WAR–CHUD.md
 • MEM–RUSSIA–WAR–CRIMEAN.md
 • MEM–RUSSIA–WAR–CRIMEAN–KHANATE.md
 • MEM–RUSSIA–WAR–CUMANS.md
-• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA.md
-• MEM–RUSSIA–WAR–KHAZAR–KHAGANATE.md
-• MEM–RUSSIA–WAR–LIVONIAN.md
 • MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA.md
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA.md
+• MEM–RUSSIA–WAR–GREAT–TURKISH.md
+• MEM–RUSSIA–WAR–KHAZAR–KHAGANATE.md
+• MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE.md
+• MEM–RUSSIA–WAR–LIVONIAN.md
+• MEM–RUSSIA–WAR–LIVONIAN–CRUSADE.md
+• MEM–RUSSIA–WAR–MONGOLS–KALKA.md
+• MEM–RUSSIA–WAR–MONGOLS–KIEV.md
+• MEM–RUSSIA–WAR–MONGOLS–KULIKOVO.md
+• MEM–RUSSIA–WAR–MONGOLS–UGRA.md
+• MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION.md
 • MEM–RUSSIA–WAR–NAPOLEON.md
 • MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ.md
 • MEM–RUSSIA–WAR–NAPOLEON–BORODINO.md
-• MEM–RUSSIA–WAR–OTTOMAN.md
 • MEM–RUSSIA–WAR–PECHENEGS.md
 • MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
 • MEM–RUSSIA–WAR–POLTAVA.md
+• MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE.md
 • MEM–RUSSIA–WAR–PUGACHEV–REBELLION.md
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
+• MEM–RUSSIA–WAR–RUSSO–KAZAN.md
+• MEM–RUSSIA–WAR–RUSSO–PERSIAN.md
+• MEM–RUSSIA–WAR–RUSSO–TURKISH.md
 • MEM–RUSSIA–WAR–SEVEN–YEARS.md
+• MEM–RUSSIA–WAR–SIBIR–KHANATE.md
+• MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN.md
 • MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS.md
 
 D) LAW
@@ -202,32 +228,37 @@ G) PERSON
 • MEM–RUSSIA–LENIN.md
 • MEM–RUSSIA–STALIN.md
 
-H) OTHER / MISC
+H) HIST (Historiographical)
+• MEM–RUSSIA–HIST–NIKON–CHRONICLE.md
+• MEM–RUSSIA–HIST–NOVGOROD–CHRONICLES.md
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE.md
-• MEM–RUSSIA–KIEVAN–RUS.md
-• MEM–RUSSIA–NOVGOROD.md
-• MEM–RUSSIA–KIEV.md
-• MEM–RUSSIA–MUSCOVY.md
-• MEM–RUSSIA–FINLAND.md
-• MEM–RUSSIA–SWEDEN.md
-• MEM–RUSSIA–POLAND.md
-• MEM–RUSSIA–UKRAINE.md
+
+I) OTHER / MISC
 • MEM–RUSSIA–BELARUS.md
-• MEM–RUSSIA–TIME–TROUBLES.md
-• MEM–RUSSIA–MONGOL–EMPIRE.md
-• MEM–RUSSIA–GOLDEN–HORDE.md
+• MEM–RUSSIA–CONGRESS–VIENNA.md
 • MEM–RUSSIA–CONSTANTINOPLE.md
+• MEM–RUSSIA–CRIMEA.md
+• MEM–RUSSIA–CYRILLIC–SCRIPT.md
+• MEM–RUSSIA–FINLAND.md
+• MEM–RUSSIA–GOLDEN–HORDE.md
 • MEM–RUSSIA–JAPAN.md
+• MEM–RUSSIA–KIEVAN–RUS.md
+• MEM–RUSSIA–KIEV.md
 • MEM–RUSSIA–LIT–CHEKHOV.md
 • MEM–RUSSIA–LIT–DOSTOEVSKY.md
 • MEM–RUSSIA–LIT–GOGOL.md
 • MEM–RUSSIA–LIT–PUSHKIN.md
 • MEM–RUSSIA–LIT–TOLSTOY.md
-• MEM–RUSSIA–CONGRESS–VIENNA.md
-• MEM–RUSSIA–VARANGIANS.md
-• MEM–RUSSIA–CRIMEA.md
+• MEM–RUSSIA–MONGOL–EMPIRE.md
+• MEM–RUSSIA–MUSCOVY.md
+• MEM–RUSSIA–NOVGOROD.md
+• MEM–RUSSIA–OTTOMAN–EMPIRE.md
+• MEM–RUSSIA–POLAND.md
 • MEM–RUSSIA–SIBERIA.md
-• MEM–RUSSIA–CYRILLIC–SCRIPT.md
+• MEM–RUSSIA–SWEDEN.md
+• MEM–RUSSIA–TIME–TROUBLES.md
+• MEM–RUSSIA–UKRAINE.md
+• MEM–RUSSIA–VARANGIANS.md
 
 ────────────────────────────────────────────────────────────
 III. ACADEMIC REFERENCES REGISTRY (RUSSIA · CORE-ALIGNED)
@@ -267,8 +298,19 @@ Approved Engagement Pool (Registrational Only):
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-Word Count: ~1,300
-TOTAL REGISTERED FILES: One hundred (100) MEM–RUSSIA OBJECTS
+Word Count: ~1,500
+TOTAL REGISTERED FILES: One hundred seventeen (117) MEM–RUSSIA OBJECTS
+
+Category Breakdown:
+• A) GEO: 27 files
+• B) DYNASTY: 2 files
+• C) WAR: 33 files
+• D) LAW: 2 files
+• E) ECON: 0 files
+• F) RELIGION: 2 files
+• G) PERSON: 23 files
+• H) HIST: 3 files
+• I) OTHER: 25 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v2.2
+END OF FILE — CIV–INDEX–RUSSIA v2.3

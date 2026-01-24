@@ -14,7 +14,7 @@ Word Count: ~9,050
 Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.7 (CURRENT)
-• CIV–SCHOLAR–TEMPLATE v2.2 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v2.3 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • ARC–RUSSIA (Pinned)
 • RLL–RUSSIA–REGISTRY (Authoritative)
@@ -266,7 +266,7 @@ CIV–SCHOLAR–RUSSIA v2.2.1 is declared:
 ────────────────────────────────────────────────────────────
 XVII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.2
+• CIV–SCHOLAR–TEMPLATE v2.3
 • CIV–SCHOLAR–PROTOCOL v2.1
 • CIV–MEM–TEMPLATE v2.7
 

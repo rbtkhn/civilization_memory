@@ -1,40 +1,47 @@
-CIV–INDEX–TEMPLATE — v1.7
+CIV–INDEX–TEMPLATE — v1.8
 Civilizational Memory Codex · Civilization Index Template
 Academic Reference Canon (ARC) Integration Edition
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–INDEX–TEMPLATE v1.6
-Upgrade Type: COMPATIBILITY UPDATE · CIV–MEM–CORE v2.0 ALIGNMENT
+Supersedes: CIV–INDEX–TEMPLATE v1.7
+Upgrade Type: ADDITIVE · ALIGNMENT PATCH
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.0+)
+Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.7+ · CIV–SCHOLAR–TEMPLATE v2.3+
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
 • CIV–MEM–CORE v2.0+ (global system law)
-• CIV–INDEX–GOVERNANCE–LAW v1.0 (implicit)
-• CIV–SCHOLAR–GOVERNANCE–LAW v1.0 (for parity constraints)
 
 Last Update: January 2026
-Word Count: ~1,900
+Word Count: ~2,000
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8) — ALIGNMENT PATCH
+────────────────────────────────────────────────────────────
+This version preserves ALL structural, semantic, and governance
+constraints from CIV–INDEX–TEMPLATE v1.7.
+
+v1.8 introduces the following ADDITIVE alignment fixes:
+
+• Explicit compatibility declaration for current template versions
+  (CIV–MEM–TEMPLATE v2.7+, CIV–SCHOLAR–TEMPLATE v2.3+)
+• Removed implicit governance law references (consolidated under CIV–MEM–CORE)
+• Clarified Section III: derived file structure vs. template structure
+• Removed stale "NEW" marker from ARC section (introduced in v1.6)
+
+No authority is weakened.
+No governance rule is removed.
+No structural requirements altered.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7)
 ────────────────────────────────────────────────────────────
-This version preserves ALL structural, semantic, and governance
-constraints from CIV–INDEX–TEMPLATE v1.6.
-
-v1.7 introduces COMPATIBILITY UPDATE only:
+v1.7 introduced:
 
 • Governance authority reference updated: CIV–MEM–CORE → CIV–MEM–CORE v2.0+
 • Compatibility requirement updated: CMC v1.x+ → CMC v2.0+
 • Aligns with CIV–MEM–CORE v2.0 (MERCOURIS Integration Edition)
-• No functional changes to index registration rules
-• No changes to ARC governance requirements
-• No changes to structural requirements
-
-This is a version alignment update to reflect the major architectural
-milestone of CIV–MEM–CORE v2.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.6)
@@ -105,7 +112,7 @@ XII.  Registered MEM Files — Language & Civilizational Grammar
 XIII. Registered MEM Files — Afterlife / Post-Civilizational Continuity  
 XIV.  Index Parity & Mirror Status  
 XV.   Canonical Lock Notice  
-XVI.  Academic Reference Canon (ARC)  ← **NEW (v1.6)**
+XVI.  Academic Reference Canon (ARC)
 
 Sections may be expanded but not reordered, renamed, or removed.
 
@@ -225,8 +232,8 @@ Future versions:
 • May not introduce interpretive authority
 
 All CIV–INDEX files MUST declare:
-"Derived from CIV–INDEX–TEMPLATE v1.7"
+"Derived from CIV–INDEX–TEMPLATE v1.8"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–TEMPLATE v1.7
+END OF FILE — CIV–INDEX–TEMPLATE v1.8
 ────────────────────────────────────────────────────────────

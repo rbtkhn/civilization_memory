@@ -1,35 +1,41 @@
-CIV–DOCTRINE–TEMPLATE — v2.0
+CIV–DOCTRINE–TEMPLATE — v2.1
 Civilizational Strategy Codex · Doctrine Registry Template
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Version: 2.0
-Supersedes: CIV–DOCTRINE–TEMPLATE v1.0
-Upgrade Type: COMPATIBILITY UPDATE · CIV–MEM–CORE v2.0 ALIGNMENT
+Version: 2.1
+Supersedes: CIV–DOCTRINE–TEMPLATE v2.0
+Upgrade Type: ADDITIVE · ALIGNMENT PATCH
 Class: CIV–DOCTRINE (Template)
 Scope: GLOBAL (All Civilizations)
-Compatibility: CIV / MEM Architecture
+Compatibility: CIV–MEM–CORE v2.0+ · CIV–SCHOLAR–TEMPLATE v2.3+ · CIV–SCHOLAR–PROTOCOL v2.1+
 Governance Authority: CIV–MEM–CORE v2.0 (or higher)
 Lock Level: TOTAL (Doctrine-Only · No Learning)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.0)
+UPGRADE NOTE (v2.1) — ALIGNMENT PATCH
 ────────────────────────────────────────────────────────────
 This version preserves ALL structure, authority model, governance
-constraints, and admissibility rules from CIV–DOCTRINE–TEMPLATE v1.0.
+constraints, and admissibility rules from CIV–DOCTRINE–TEMPLATE v2.0.
 
-v2.0 introduces COMPATIBILITY UPDATE only:
+v2.1 introduces the following ADDITIVE alignment fixes:
+
+• Explicit compatibility declaration for current template versions
+  (CIV–SCHOLAR–TEMPLATE v2.3+, CIV–SCHOLAR–PROTOCOL v2.1+)
+• Fixed section numbering (duplicate Section XI → XI and XII)
+• DIB role clarification added
+
+No authority is weakened.
+No governance rule is removed.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0)
+────────────────────────────────────────────────────────────
+v2.0 introduced:
 
 • Governance Authority requirement updated to CIV–MEM–CORE v2.0 (or higher)
 • Aligns with CIV–MEM–CORE v2.0 (MERCOURIS Integration Edition)
-• No functional changes to doctrine admissibility rules
-• No changes to authority chain requirements
-• No changes to doctrine entry structure
-• No changes to mirroring requirements
-
-This is a version alignment update to reflect the major architectural
-milestone of CIV–MEM–CORE v2.0.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE
@@ -61,6 +67,12 @@ CIV–MEM–CORE
 → CIV–CORE–[CIVILIZATION]
 → DIB–[CIVILIZATION] (Explicit Acceptance)
 → CIV–DOCTRINE–[CIVILIZATION]
+
+DIB CLARIFICATION (v2.1):
+The Doctrine Intake Board (DIB) is a governance checkpoint, not a
+separate file. DIB approval = explicit user authorization to freeze
+a SCHOLAR synthesis as doctrine. The DIB function is exercised by
+any explicit user command to freeze and accept a doctrine candidate.
 
 Rules:
 • No doctrine may bypass this chain
@@ -215,7 +227,7 @@ FORBIDS
 • Predictive usage
 
 ────────────────────────────────────────────────────────────
-XI. VERSIONING & CANONICAL STATUS
+XII. VERSIONING & CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 
@@ -227,8 +239,8 @@ Future versions:
 • May NOT alter admissibility rules
 
 Derived files MUST include:
-"Derived from CIV–DOCTRINE–TEMPLATE v2.0"
+"Derived from CIV–DOCTRINE–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–TEMPLATE v2.0
+END OF FILE — CIV–DOCTRINE–TEMPLATE v2.1
 ────────────────────────────────────────────────────────────
