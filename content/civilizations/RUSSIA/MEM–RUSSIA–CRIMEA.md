@@ -1,27 +1,50 @@
-MEM–RUSSIA–CRIMEA — v2.8
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · COMPLIANT
+MEM–RUSSIA–CRIMEA — v2.9
+Civilizational Memory Codex · Subject Memory File
+ACTIVE · CANONICAL · MERCOURIS CIVILIZATIONAL COGNITION
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Version: 2.9
+Supersedes: v2.8
+Upgrade Type: COGNITIVE LAYER CLARIFICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Imperial · Southern Expansion and Maritime Access
 Subject: Crimea (Imperial Incorporation, Contestation, Legitimacy)
 Dates: c. 1783 AD–present
-Class: MEM (Civilizational Memory)
+Class: MEM (Subject Memory)
+Cognitive Layer: CIV–MIND–MERCOURIS v2.2
 Last Update: January 2026
-Word Count: ~3,200
+Word Count: ~3,400
 
 ARC Version Pinned: ARC–RUSSIA v1.5
 Governed by:
 • CIV–MEM–CORE v2.1+
 • CIV–MEM–TEMPLATE v2.7
+• CIV–MIND–MERCOURIS v2.2 (CIVILIZATIONAL COGNITION)
+
+Strategic Geography: MEM–RUSSIA–GEO–CRIMEA (Mearsheimer cognition)
 
 ────────────────────────────────────────────────────────────
 SUBJECT TYPE DECLARATION (v2.7)
 ────────────────────────────────────────────────────────────
 This MEM addresses a MODERN subject (18th century–present).
 Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
+────────────────────────────────────────────────────────────
+COGNITIVE ARCHITECTURE NOTE (v2.9)
+────────────────────────────────────────────────────────────
+This Subject MEM expresses MERCOURIS CIVILIZATIONAL COGNITION.
+
+Subject MEMs preserve:
+• Historical narrative and institutional analysis
+• Civilizational meaning and legitimacy claims
+• Named rulers and dated events
+• Polyphonic tension with Mearsheimer sharpening
+
+For pure strategic geography (Mearsheimer cognition), see:
+→ MEM–RUSSIA–GEO–CRIMEA
+
+The file structure IS the polyphony:
+• GEO–MEM = Mearsheimer (strategic terrain logic)
+• Subject MEM = Mercouris (civilizational narrative)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — DUAL MIND AUDIT IMPLEMENTATION
@@ -322,9 +345,9 @@ Same-civilization (≥10):
 • MEM–RUSSIA–OTTOMAN–RIVALRY — geopolitical context
 • MEM–RUSSIA–PUTIN — 2014 decision-maker
 
-GEO (≥2):
-• MEM–RUSSIA–GEO–BLACK–SEA — maritime access objective
-• MEM–RUSSIA–GEO–CRIMEAN–PENINSULA — geographic specificity
+GEO (≥2) — Mearsheimer Strategic Cognition:
+• MEM–RUSSIA–GEO–CRIMEA — strategic geography (Mearsheimer layer)
+• MEM–RUSSIA–GEO–BLACK–SEA — maritime basin controlled
 
 Cross-civilizational:
 • MEM–OTTOMAN–CRIMEAN–KHANATE — predecessor polity
@@ -364,5 +387,5 @@ J) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CRIMEA v2.8
+END OF FILE — MEM–RUSSIA–CRIMEA v2.9
 ────────────────────────────────────────────────────────────
