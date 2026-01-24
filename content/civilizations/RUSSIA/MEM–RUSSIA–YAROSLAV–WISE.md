@@ -200,7 +200,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — polity framework
 • MEM–RUSSIA–MONGOL–EMPIRE — post-fragmentation pressure
 • MEM–RUSSIA–MUSCOVY — later centralization model
-• MEM–RUSSIA–PRIMARY–CHRONICLE — textual source
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — textual source
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — institutional partner
 • MEM–RUSSIA–NOVGOROD — alternative governance center
 

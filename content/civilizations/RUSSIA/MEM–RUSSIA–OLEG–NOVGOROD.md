@@ -194,7 +194,7 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — urban and sacred capital established
 • MEM–RUSSIA–VARANGIANS — external warrior elite integration
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — later sacral overlay
-• MEM–RUSSIA–PRIMARY–CHRONICLE — principal source for Oleg narrative
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — principal source for Oleg narrative
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity through regency
 • MEM–RUSSIA–IGOR — successor whom Oleg protected
 • MEM–RUSSIA–VLADIMIR–GREAT — later Kievan consolidation

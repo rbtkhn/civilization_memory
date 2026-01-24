@@ -170,7 +170,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–VARANGIANS — warrior elite substrate
 • MEM–RUSSIA–MONGOL–EMPIRE — later external sovereignty pattern
 • MEM–RUSSIA–KIEVAN–RUS — polity formation
-• MEM–RUSSIA–PRIMARY–CHRONICLE — source tradition
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source tradition
 • MEM–RUSSIA–VLADIMIR–GREAT — sacral transformation successor
 • MEM–RUSSIA–YAROSLAV–WISE — institutional successor
 • MEM–RUSSIA–MUSCOVY — later state inheritor

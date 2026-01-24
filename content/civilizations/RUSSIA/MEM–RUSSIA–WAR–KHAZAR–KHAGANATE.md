@@ -235,7 +235,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–RURIK — Dynastic foundation preceding Khazar confrontation
 • MEM–RUSSIA–DYNASTY–RURIKID — Rurikid hegemony through Khazar defeat
 • MEM–RUSSIA–KIEV — Political center of anti-Khazar campaigns
-• MEM–RUSSIA–PRIMARY–CHRONICLE — Source documentation of Khazar wars
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — Source documentation of Khazar wars
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious identity vs. Khazar Judaism
 • MEM–RUSSIA–NOVGOROD — Northern trade network alternative to Khazar routes
 

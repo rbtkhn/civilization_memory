@@ -163,7 +163,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–ALEXANDER–NEVSKY — Novgorod's defender against western crusaders
 • MEM–RUSSIA–MUSCOVY — absorbing power that ended Novgorod independence
 • MEM–RUSSIA–IVAN–III — architect of Novgorod's final subjugation
-• MEM–RUSSIA–PRIMARY–CHRONICLE — records Novgorod's early history
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — records Novgorod's early history
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — shared religious identity
 • MEM–RUSSIA–KIEV — rival urban center in early Rus' system
 • MEM–RUSSIA–VLADIMIR–GREAT — Christianization context

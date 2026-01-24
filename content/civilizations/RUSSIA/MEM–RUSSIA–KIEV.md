@@ -222,7 +222,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–RURIK — founding dynasty
 • MEM–RUSSIA–VLADIMIR–GREAT — Christianization in Kiev
 • MEM–RUSSIA–YAROSLAV–WISE — legal and cultural flowering
-• MEM–RUSSIA–PRIMARY–CHRONICLE — compiled in Kiev
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — compiled in Kiev
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — baptism site
 • MEM–RUSSIA–MONGOL–EMPIRE — destruction of Kiev (1240)
 • MEM–RUSSIA–MUSCOVY — successor that absorbed Kiev's legacy

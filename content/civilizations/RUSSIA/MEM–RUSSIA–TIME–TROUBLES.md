@@ -195,7 +195,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY — sacral endurance ≠ succession stability
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic reset mechanism
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity preservation layer
-• MEM–RUSSIA–PRIMARY–CHRONICLE — moralized legitimacy grammar
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — moralized legitimacy grammar
 • MEM–RUSSIA–ALEXANDER–NEVSKY — endurance logic under asymmetry
 • MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
 • MEM–RUSSIA–GOLDEN–HORDE — legitimacy training source

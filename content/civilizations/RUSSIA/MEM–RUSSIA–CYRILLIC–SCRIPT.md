@@ -232,7 +232,7 @@ X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 Same-civilization connections (≥10):
 
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — faith transmission layer
-• MEM–RUSSIA–PRIMARY–CHRONICLE — narrative encoded in script
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — narrative encoded in script
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic legitimacy replication
 • MEM–RUSSIA–KIEVAN–RUS — early script adoption zone
 • MEM–RUSSIA–VLADIMIR–GREAT — baptismal hinge

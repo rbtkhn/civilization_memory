@@ -222,7 +222,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MONGOL–EMPIRE — civilizational shock
 • MEM–RUSSIA–MUSCOVY — successor state formation
 • MEM–RUSSIA–KIEV — capital and symbolic center
-• MEM–RUSSIA–PRIMARY–CHRONICLE — memory compiler
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — memory compiler
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — civilizational coding
 
 GEO (≥2):
