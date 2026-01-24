@@ -1,22 +1,45 @@
-MEM–RUSSIA–SIBERIA — v2.7
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+MEM–RUSSIA–SIBERIA — v2.8
+Civilizational Memory Codex · Subject Memory File
+ACTIVE · CANONICAL · MERCOURIS CIVILIZATIONAL COGNITION
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · v2.7 COMPLIANCE
+Version: 2.8
+Supersedes: v2.7
+Upgrade Type: COGNITIVE LAYER CLARIFICATION
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Siberia (Imperial Incorporation & Civilizational Process)
 Dates: c. 1580 AD–present
-Class: MEM (Civilizational Memory)
+Class: MEM (Subject Memory)
+Cognitive Layer: CIV–MIND–MERCOURIS v2.2
 Last Update: January 2026
-Word Count: ~2,800
+Word Count: ~2,900
 
 Governed by:
-• CIV–MEM–CORE v2.0+
+• CIV–MEM–CORE v2.1+
 • CIV–MEM–TEMPLATE v2.7
+• CIV–MIND–MERCOURIS v2.2 (CIVILIZATIONAL COGNITION)
 • ARC–RUSSIA (pinned)
 
+Strategic Geography: MEM–RUSSIA–GEO–SIBERIA (Mearsheimer cognition)
+
+────────────────────────────────────────────────────────────
+COGNITIVE ARCHITECTURE NOTE (v2.8)
+────────────────────────────────────────────────────────────
+This Subject MEM expresses MERCOURIS CIVILIZATIONAL COGNITION.
+
+Subject MEMs preserve:
+• Historical narrative and institutional analysis
+• Civilizational meaning and legitimacy claims
+• Named rulers and dated events
+• Imperial process and state formation
+
+For pure strategic geography (Mearsheimer cognition), see:
+→ MEM–RUSSIA–GEO–SIBERIA
+
+The file structure IS the polyphony:
+• GEO–MEM = Mearsheimer (strategic depth, climate, resources)
+• Subject MEM = Mercouris (conquest, exile, Gulag, national myth)
+
+────────────────────────────────────────────────────────────
 SUBJECT TYPE DECLARATION (v2.7):
 This MEM addresses a WELL-DOCUMENTED subject (imperial territorial process).
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
@@ -208,9 +231,9 @@ RUSSIA (≥10):
 • MEM–RUSSIA–DECEMBRISTS — exiles who shaped Siberian intellectual culture
 • MEM–RUSSIA–INDUSTRIALIZATION — Soviet megaprojects and resource extraction
 
-GEO (≥2):
-• MEM–GEO–SIBERIAN–PLAIN — territorial scale enabling thin governance
-• MEM–GEO–URAL–MOUNTAINS — geographic boundary marking Siberian entry
+GEO (≥2) — Mearsheimer Strategic Cognition:
+• MEM–RUSSIA–GEO–SIBERIA — strategic geography (Mearsheimer layer)
+• MEM–RUSSIA–GEO–URALS — geographic boundary marking Siberian entry
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY
@@ -248,5 +271,5 @@ H. Compliance & integrity audit (v2.7)
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SIBERIA v2.7
+END OF FILE — MEM–RUSSIA–SIBERIA v2.8
 ────────────────────────────────────────────────────────────
