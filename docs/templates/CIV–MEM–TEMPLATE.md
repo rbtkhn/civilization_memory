@@ -1,12 +1,12 @@
-CIV–MEM–TEMPLATE — v2.7
+CIV–MEM–TEMPLATE — v2.8
 Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Word Count Governance · Enhanced Scholarly Rigor · Analytical Protection
+20% Evidence Standard · Proportional Blend Law · Enhanced Scholarly Rigor
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.6
-Upgrade Type: ADDITIVE · CEO PROMOTION PROVENANCE
+Supersedes: CIV–MEM–TEMPLATE v2.7
+Upgrade Type: ADDITIVE · PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.0+
+Compatibility: CIV–MEM–CORE v2.2+
 Last Update: January 2026
 WORDCOUNT: ~4,800
 
@@ -601,16 +601,89 @@ MEMs exceeding hard ceiling may not advance to CANONICAL status
 until reduced through revision or splitting.
 
 ────────────────────────────────────────────────────────────
-XXII. VERSIONING & LOCK
+XXII. GEO–MEM FILE TYPE REQUIREMENTS (NEW · v2.8)
+────────────────────────────────────────────────────────────
+GEO–MEM files follow the Proportional Blend Law with specific
+structural requirements.
+
+XXII.A BLEND RATIO
+────────────────────────────────────────────────────────────
+GEO–MEM files: 2/3 MEARSHEIMER + 1/3 MERCOURIS
+
+• 2/3 Strategic Analysis (Mearsheimer voice):
+  - Terrain geometry and constraints
+  - Power distribution implications
+  - Structural patterns across all periods
+  - "What does this terrain DO to actors?"
+
+• 1/3 ARC Verbatim Quotes (Mercouris evidence):
+  - Ancient sources demonstrating pattern permanence
+  - Medieval sources confirming continuity
+  - Early modern historiography
+  - Modern scholarship
+
+XXII.B REQUIRED SECTIONS
+────────────────────────────────────────────────────────────
+GEO–MEM files MUST contain:
+
+1. GEO–MEM COGNITIVE DECLARATION
+   - Declares Mearsheimer strategic cognition
+   - References CIV–MEM–CORE v2.2 Proportional Blend Law
+
+2. STRATEGIC ANALYSIS SECTIONS (≥6)
+   - Terrain geometry
+   - Power distribution implications
+   - Strategic constraints
+   - Defensibility analysis
+   - (Subject-specific sections as needed)
+
+3. ARC QUOTE SECTIONS (4 required)
+   - ARC CATEGORY A: Ancient Sources
+   - ARC CATEGORY B: Medieval Sources
+   - ARC CATEGORY C: Early Modern Historiography
+   - ARC CATEGORY D: Modern Scholarship
+
+4. GEO–MEM CONNECTIONS
+   - Related GEO–MEMs
+   - Subject MEM cross-reference (Mercouris cognition)
+   - Cross-civilizational GEO references
+
+XXII.C COGNITIVE DECLARATION FORMAT
+────────────────────────────────────────────────────────────
+Every GEO–MEM MUST include:
+
+"This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution
+• ARC verbatim quotes (~1/3): demonstrating permanent patterns
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM."
+
+XXII.D CROSS-REFERENCE REQUIREMENT
+────────────────────────────────────────────────────────────
+GEO–MEMs MUST reference corresponding subject MEM when it exists:
+
+• Subject MEM (Mercouris cognition): MEM–[CIV]–[SUBJECT]
+
+This creates complementary polyphony through file structure.
+
+────────────────────────────────────────────────────────────
+XXIII. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 • Additive upgrades only
 • Deletions forbidden
 • Canonical lock absolute
+
+v2.8 ADDITIONS:
+• Proportional Blend Law implementation
+• GEO–MEM File Type Requirements section
 
 v2.7 ADDITIONS:
 • CEO → MEM Promotion Provenance section
 • Word Count Governance section
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.7
+END OF FILE — CIV–MEM–TEMPLATE v2.8
 ────────────────────────────────────────────────────────────

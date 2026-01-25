@@ -18,8 +18,8 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE
-• CIV–MIND–TEMPLATE v1.0
+• CIV–MEM–CORE v2.2+
+• CIV–MIND–TEMPLATE v1.1
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Material: Transcript analysis (24 January 2026 program)
@@ -324,6 +324,18 @@ VI.D RULES
 • No autonomous invocation (OGE-triggered only)
 
 See: CIV–MIND–MEARSHEIMER v2.2 for full advisory specification.
+
+VI.E PROPORTIONAL BLEND LAW
+────────────────────────────────────────────────────────────
+MERCOURIS and MEARSHEIMER cognition manifest in different
+proportions depending on file type:
+
+• GEO–MEM: 2/3 Mearsheimer + 1/3 Mercouris
+• Subject MEM: 2/3 Mercouris + 1/3 Mearsheimer
+
+Neither voice is ever fully absent. File type determines emphasis.
+
+See: CIV–MEM–CORE v2.2, Section VP-1.g
 
 ────────────────────────────────────────────────────────────
 VII. RELATIONSHIP TO MIND LAYERS
