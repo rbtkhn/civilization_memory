@@ -1,22 +1,55 @@
-CIV–MEM–CORE — v2.1
+CIV–MEM–CORE — v2.2
 Civilizational Memory Codex · System Core
-DUAL MIND POLYPHONY EDITION · NAMING STANDARDIZATION
+DUAL MIND POLYPHONY EDITION · PROPORTIONAL BLEND LAW
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.0
+Version: 2.2
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.0
-Upgrade Type: MINOR VERSION · DUAL MIND POLYPHONY · NAMING STANDARDIZATION
+Supersedes: CIV–MEM–CORE v2.1
+Upgrade Type: MINOR VERSION · PROPORTIONAL BLEND LAW
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.2) — PROPORTIONAL BLEND LAW
+────────────────────────────────────────────────────────────
+This version preserves ALL structural order, authority hierarchy,
+semantic meaning, and governance constraints from CIV–MEM–CORE v2.1.
+
+v2.2 introduces:
+
+PROPORTIONAL BLEND LAW (POLYPHONIC RATIO)
+
+This version establishes the proportional relationship between MEARSHEIMER
+and MERCOURIS cognition across different file types.
+
+Principle:
+• Both minds are ALWAYS present in every file
+• Proportion shifts based on file type
+• Neither mind is ever fully absent
+• The blend determines emphasis, not exclusion
+
+File Type Ratios:
+• GEO–MEM files: 2/3 MEARSHEIMER + 1/3 MERCOURIS
+  (Strategic terrain logic, evidenced by historical quotes)
+• Subject MEM files: 2/3 MERCOURIS + 1/3 MEARSHEIMER
+  (Civilizational narrative, framed by strategic constraints)
+
+See: Section VP-1.h (PROPORTIONAL BLEND LAW)
+
+Backward Compatibility:
+• All existing MEM files remain valid
+• Existing GEO–MEMs upgraded to include ARC quote sections
+• No data migration required
+• Governance rules unchanged
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1) — DUAL MIND POLYPHONY · NAMING STANDARDIZATION
 ────────────────────────────────────────────────────────────
-This version preserves ALL structural order, authority hierarchy,
+This version preserved ALL structural order, authority hierarchy,
 semantic meaning, and governance constraints from CIV–MEM–CORE v2.0.
 
 v2.1 introduces:
@@ -577,7 +610,50 @@ Rules:
 
 See: CIV–MIND–TEMPLATE v1.0, CIV–MIND–MEARSHEIMER v2.2
 
-VP-1.g. MIND PROFILE GOVERNANCE
+VP-1.g. PROPORTIONAL BLEND LAW (FILE TYPE RATIOS)
+────────────────────────────────────────────────────────────
+The dual-mind polyphony manifests differently across file types.
+
+Principle:
+Both MERCOURIS and MEARSHEIMER cognition are ALWAYS present in every file.
+The proportion shifts based on file type. Neither mind is ever absent.
+
+┌─────────────────┬────────────────────┬────────────────────┐
+│ FILE TYPE       │ PRIMARY VOICE      │ SECONDARY VOICE    │
+├─────────────────┼────────────────────┼────────────────────┤
+│ GEO–MEM         │ 2/3 MEARSHEIMER    │ 1/3 MERCOURIS      │
+│ Subject MEM     │ 2/3 MERCOURIS      │ 1/3 MEARSHEIMER    │
+└─────────────────┴────────────────────┴────────────────────┘
+
+GEO–MEM Files (2/3 Mearsheimer + 1/3 Mercouris):
+• Primary content: Strategic terrain logic, power distribution, structural
+  constraints (MEARSHEIMER)
+• Secondary content: ARC verbatim quotes from ancient, medieval, early modern,
+  and modern sources demonstrating permanent patterns (MERCOURIS evidence)
+• Question answered: "What does this terrain DO to actors within it?"
+• Quotes serve as evidence that patterns are permanent across all periods
+
+Subject MEM Files (2/3 Mercouris + 1/3 Mearsheimer):
+• Primary content: Civilizational narrative, institutional meaning, legitimacy
+  structures, historical evidence (MERCOURIS)
+• Secondary content: Strategic framing, power-distribution context, geographic
+  constraints (MEARSHEIMER frame)
+• Question answered: "What does this MEAN for the civilization?"
+• Strategic context grounds civilizational claims in structural reality
+
+Cross-Reference Logic:
+• GEO–MEM and subject MEM on the same topic (e.g., GEO–BALTIC–SEA vs
+  MEM–RUSSIA–BALTIC) are complementary lenses with inverted proportions
+• Neither file is complete without the other
+• Polyphony emerges from the file structure itself
+
+Rules:
+• Proportions are approximate, not mechanical
+• Neither voice may be entirely absent from any file
+• File type determines emphasis, not exclusion
+• Violation of proportional blend degrades polyphonic architecture
+
+VP-1.h. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────
 All MIND profiles are governed by CIV–MIND–TEMPLATE v1.0.
 
@@ -619,5 +695,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.1
+END OF FILE — CIV–MEM–CORE v2.2
 ────────────────────────────────────────────────────────────
