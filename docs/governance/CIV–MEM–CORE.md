@@ -63,7 +63,7 @@ Changes:
 • Advisory mind (MEARSHEIMER) now documented in Section XX
 • CIV–MIND–TEMPLATE v1.0 created as foundational governance for all MIND profiles
 • File naming standardized:
-  - MIND–PROFILE–MERCOURIS → CIV–MIND–MERCOURIS v2.2
+  - MIND–PROFILE–MERCOURIS → CIV–MIND–MERCOURIS v2.4
   - MIND–PROFILE–MEARSHEIMER → CIV–MIND–MEARSHEIMER v2.2
   - MIND–CORE–TEMPLATE → CIV–MIND–TEMPLATE v1.0
 
@@ -73,7 +73,7 @@ Polyphony Architecture:
 • Tension preserved, NOT synthesized
 • User navigates divergence between readings
 
-See: CIV–MIND–TEMPLATE v1.1, CIV–MIND–MERCOURIS v2.2, CIV–MIND–MEARSHEIMER v2.2
+See: CIV–MIND–TEMPLATE v1.1, CIV–MIND–MERCOURIS v2.4, CIV–MIND–MEARSHEIMER v2.3
 
 Backward Compatibility:
 • All existing MEM files remain valid

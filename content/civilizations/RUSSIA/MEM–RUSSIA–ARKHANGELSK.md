@@ -253,7 +253,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–WHITE–SEA — immediate waters
 • MEM–RUSSIA–GEO–ARCTIC–OCEAN — northern access
-• MEM–RUSSIA–GEO–NORTHERN–DVINA — river connection
+• MEM–RUSSIA–GEO–DVINA–RIVER — river connection (city at terminus)
 
 Cross-Civilizational:
 • MEM–ANGLIA–MUSCOVY–COMPANY — English trade partner
