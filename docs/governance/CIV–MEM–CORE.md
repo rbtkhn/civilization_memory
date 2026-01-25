@@ -73,7 +73,7 @@ Polyphony Architecture:
 • Tension preserved, NOT synthesized
 • User navigates divergence between readings
 
-See: CIV–MIND–TEMPLATE v1.0, MIND–MERCOURIS v2.1, CIV–MIND–MEARSHEIMER v2.1
+See: CIV–MIND–TEMPLATE v1.1, CIV–MIND–MERCOURIS v2.2, CIV–MIND–MEARSHEIMER v2.2
 
 Backward Compatibility:
 • All existing MEM files remain valid
@@ -655,7 +655,7 @@ Rules:
 
 VP-1.h. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────
-All MIND profiles are governed by CIV–MIND–TEMPLATE v1.0.
+All MIND profiles are governed by CIV–MIND–TEMPLATE v1.1.
 
 Hierarchy (top → bottom):
 • HUMAN CURATOR

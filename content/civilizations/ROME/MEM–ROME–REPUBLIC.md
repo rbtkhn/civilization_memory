@@ -1,13 +1,14 @@
-MEM–ROME–REPUBLIC — v1.0
+MEM–ROME–REPUBLIC — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · KEEGAN QUOTE INTEGRATION + BIBLIOGRAPHY UPDATE
+Version: 1.3
+Upgrade Type: ADDITIVE · THUCYDIDES CITATION EXPANSION
+Supersedes: MEM–ROME–REPUBLIC — v1.2
 Civilization: ROME
 Regime: REPUBLICAN CONSTITUTION / CIVIC–MILITARY SYNTHESIS
 Subject: The Roman Republic
-Dates: 509–27 BCAD
+Dates: 509–27 BC
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -179,6 +180,20 @@ Plutarch captures the turning point:
 
 The Republic is not destroyed by enemies.
 It is **overloaded by victory**.
+
+Thucydides identifies this pattern of internal decay following external
+success:
+
+> “In peace and prosperity states and individuals have better sentiments,
+> because they do not find themselves suddenly confronted with imperious
+> necessities; but war takes away the easy supply of daily wants, and so
+> proves a rough master, that brings most men's characters to a level with
+> their fortunes.”
+> — Thucydides, *History of the Peloponnesian War*, III.82
+
+Rome’s mastery of the Mediterranean removed the “fear of the enemy” that
+had sustained republican sentiment, proving Thucydides’ anatomy of
+structural decay.
 
 ────────────────────────────────────────────────────────────
 VIII. TRANSITION TO EMPIRE

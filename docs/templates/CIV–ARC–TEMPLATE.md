@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · SIMPLIFIED
 Supersedes: CIV–ARC–[CIVILIZATION] v2.0
 Upgrade Type: SIMPLIFICATION + NAMESPACE ALIGNMENT
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–TEMPLATE v2.7+ · NAMESPACE–CLARIFICATION v1.0
+Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────

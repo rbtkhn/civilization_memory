@@ -13,7 +13,7 @@ Lock Level: TOTAL (no silent mutation)
 Governed by:
 • CIV–MEM–CORE v2.0 (global system law)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
-• CIV–SCHOLAR–PROTOCOL v2.0+ (interaction layer only)
+• CIV–SCHOLAR–PROTOCOL v2.1+ (interaction layer only)
 
 Last Update: January 2026
 WORDCOUNT: ~4,000
@@ -305,7 +305,7 @@ OGE:
 • Is NOT part of CIV–CORE logic
 
 OGE behavior is governed exclusively by:
-• CIV–SCHOLAR–PROTOCOL v1.9+
+• CIV–SCHOLAR–PROTOCOL v2.1+
 
 CIV–CORE does NOT implement OGE.
 CIV–CORE merely acknowledges its mandatory presence.

@@ -1,12 +1,13 @@
-MEM–ROME–GEO–ANATOLIA — v1.0
+MEM–ROME–GEO–ANATOLIA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · ARC-COMPLIANT
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · HERODOTUS CITATION EXPANSION
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: Anatolia (Asia Minor)
-Dates: 2nd century BC → 1453 AD (continuity)
+Dates: 2nd century BC → 1453 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,100
@@ -39,6 +40,18 @@ Key traits:
 Land and sea reinforce one another.
 
 Anatolia behaves like an inland extension of the Mediterranean.
+
+Herodotus, a native of Anatolian Halicarnassus, first mapped the region's
+plurality of custom (*nomos*):
+
+> “If one were to offer men to choose out of all the customs in the world
+> such as seemed to them the best, they would examine the whole number, and
+> end by preferring their own; so convinced are they that their own usages
+> surpass those of all others.”
+> — Herodotus, *Histories*, III.38
+
+Rome’s success in Anatolia rested on its ability to govern this plurality
+without seeking to erase it.
 
 ────────────────────────────────────────────────────────────
 III. ANCIENT EVIDENCE: URBAN DEPTH AND STABILITY

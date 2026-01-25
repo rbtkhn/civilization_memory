@@ -1,10 +1,10 @@
-MEM–ROME–HIST–HERODOTUS — v1.7
+MEM–ROME–HIST–HERODOTUS — v1.8
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.7
-Upgrade Type: ADD-ONLY · ACADEMIC QUOTATION COMPLIANCE (HARD)
-Supersedes: MEM–ROME–HIST–HERODOTUS — v1.6
+Version: 1.8
+Upgrade Type: ADDITIVE · THUCYDIDES CITATION EXPANSION
+Supersedes: MEM–ROME–HIST–HERODOTUS — v1.7
 Civilization: ROME (GREEK INTELLECTUAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (INTERPRETIVE ADOPTION)
 Subject: Herodotus of Halicarnassus
@@ -163,6 +163,18 @@ Discarded:
 • Non-legal explanation
 
 Herodotus survives as background wisdom, not governing logic.
+
+Thucydides, by contrast, provides the structural realism that Rome
+eventually prioritized over Herodotean inquiry:
+
+> “The absence of romance in my history will, I fear, detract somewhat from
+> its interest; but if it be judged useful by those inquirers who desire an
+> exact knowledge of the past as an aid to the interpretation of the future...
+> I shall be content.”
+> — Thucydides, *History of the Peloponnesian War*, I.22
+
+Rome’s transition from Herodotean curiosity to Thucydidean necessity marks
+its maturation as an imperial system.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

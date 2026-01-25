@@ -9,8 +9,8 @@ Supersedes: MIND–MEARSHEIMER v2.1
 Upgrade Type: CIV PREFIX STANDARDIZATION
 Activation State: INACTIVE BY DEFAULT (OGE-INVOKED)
 Compatibility:
-• CIV–MIND–TEMPLATE v1.0 (REQUIRED)
-• CIV–MIND–MERCOURIS v2.1 (PRIMARY — REQUIRED)
+• CIV–MIND–TEMPLATE v1.1 (REQUIRED)
+• CIV–MIND–MERCOURIS v2.2 (PRIMARY — REQUIRED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -413,10 +413,10 @@ Violation constitutes a governance breach.
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–MEARSHEIMER v2.1 is CANONICAL.
+CIV–MIND–MEARSHEIMER v2.2 is CANONICAL.
 
 All uses MUST declare:
-"Bound by CIV–MIND–MEARSHEIMER v2.1 (ADVISORY)"
+"Bound by CIV–MIND–MEARSHEIMER v2.2 (ADVISORY)"
 
 This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.

@@ -11,9 +11,28 @@ Last Update: January 2026
 WORDCOUNT: ~4,800
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8) — PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS
+────────────────────────────────────────────────────────────
+This version implements the Proportional Blend Law for polyphonic
+architecture across file types.
+
+NEW REQUIREMENT — FILE TYPE BLEND RATIOS:
+• GEO–MEM files: 2/3 Mearsheimer + 1/3 Mercouris
+• Subject MEM files: 2/3 Mercouris + 1/3 Mearsheimer
+
+GEO–MEM SPECIFIC REQUIREMENTS (NEW):
+• Must contain 4 ARC sections (ARC-T-ANCIENT, ARC-T-MEDIEVAL, 
+  ARC-T-EARLY-MOD, ARC-T-MODERN)
+• ARC quotes fulfill the 1/3 Mercouris requirement
+• Strategic analysis fulfills the 2/3 Mearsheimer requirement
+• Cognitive layer declaration required
+
+See: CIV–MEM–CORE v2.2, Section VP-1.g (Proportional Blend Law)
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
 ────────────────────────────────────────────────────────────
-This version adds provenance tracking for MEMs promoted from
+This version added provenance tracking for MEMs promoted from
 Current Event Observations (CEOs).
 
 NEW SECTION:
@@ -638,10 +657,10 @@ GEO–MEM files MUST contain:
    - (Subject-specific sections as needed)
 
 3. ARC QUOTE SECTIONS (4 required)
-   - ARC CATEGORY A: Ancient Sources
-   - ARC CATEGORY B: Medieval Sources
-   - ARC CATEGORY C: Early Modern Historiography
-   - ARC CATEGORY D: Modern Scholarship
+   - ARC-T-ANCIENT: Ancient Sources
+   - ARC-T-MEDIEVAL: Medieval Sources
+   - ARC-T-EARLY-MOD: Early Modern Historiography
+   - ARC-T-MODERN: Modern Scholarship
 
 4. GEO–MEM CONNECTIONS
    - Related GEO–MEMs

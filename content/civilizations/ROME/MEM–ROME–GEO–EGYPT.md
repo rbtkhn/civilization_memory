@@ -1,13 +1,13 @@
-MEM–ROME–GEO–EGYPT — v1.1
+MEM–ROME–GEO–EGYPT — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · LOCKED · ARC-COMPLIANT
-Version: 1.1
-Upgrade Type: FULL ARC COMPLIANCE · CONCEPTUAL HARDENING
+Version: 1.2
+Upgrade Type: ADDITIVE · HERODOTUS CITATION EXPANSION
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL (PROVINCIAL CORE DEPENDENCY)
 Subject: Egypt (Grain Engine, Legitimacy Lever, Strategic Keystone)
-Dates: 30 BC–7th century AD (with afterlife)
+Dates: 30 BC–7th century AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,300
@@ -81,6 +81,14 @@ Egypt feeds Rome.
 
 This is not metaphorical.
 
+Herodotus established the foundational civilizational insight:
+
+> “For any one who sees Egypt, without having heard a word about it before,
+> must perceive, if he has only common powers of observation, that the Egypt
+> to which the Greeks sail is all a gift of the river.”
+> — Herodotus, *Histories*, II.5
+
+Rome inherited this "gift" and converted it into a governing technology.
 Pliny the Elder underscores the asymmetry:
 
 > The fertility of Egypt is so great that it supplies grain not only for

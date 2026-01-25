@@ -1,9 +1,9 @@
-MEM–ROME–WAR–PARTHIA — v1.0
+MEM–ROME–WAR–PARTHIA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL (PENDING INDEX REGISTRATION)
-Version: 1.0
-Upgrade Type: FOUNDATIONAL · ARC–ROME v1.8 FULL COMPLIANAD
+Version: 1.1
+Upgrade Type: ADDITIVE · HERODOTUS CITATION EXPANSION
 Civilization: ROME
 Regime: LATE REPUBLIC → PRINCIPATE → HIGH IMPERIAL
 Subject: Roman–Parthian Conflict as Asymmetric Peer War
@@ -53,6 +53,18 @@ Strabo identifies the structural challenge directly:
 > — Strabo, *Geographica*, Book XI
 
 Rome faces a system designed to **refuse decision**.
+
+Herodotus’ account of the earlier Persian system provides the structural
+ancestry of Parthian strategic logic:
+
+> “The Persians are of all men the most ready to adopt foreign customs; and
+> they are also very brave in war, but they are not easily subdued, for
+> they have many ways of escape and many places of retreat.”
+> — Herodotus, *Histories*, I.135
+
+Parthia inherited this Persian capacity for strategic withdrawal and
+cultural refusal, which Herodotus first identified as a structural
+constraint on Western expansion.
 
 ────────────────────────────────────────────────────────────
 III. CARRHAE (53 BC): DOCTRINAL SHOCK

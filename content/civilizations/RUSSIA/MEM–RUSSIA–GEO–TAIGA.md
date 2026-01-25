@@ -246,6 +246,5 @@ XIV. CONTINUITY INSIGHTS (RAW)
 • The taiga anchors Russia’s deepest defensive layer.
 
 Tension preserved without verdict.
-
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–GEO–TAIGA v2.0

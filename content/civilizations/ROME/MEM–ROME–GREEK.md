@@ -1,10 +1,10 @@
-MEM–ROME–GREEK — v1.1
+MEM–ROME–GREEK — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADD-ONLY · FULL ARC COMPLIANCE (A–B–C–D SATISFIED)
-Supersedes: MEM–ROME–GREEK — v1.0
+Version: 1.2
+Upgrade Type: ADDITIVE · HERODOTUS CITATION EXPANSION
+Supersedes: MEM–ROME–GREEK — v1.1
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY (BILINGUAL EMPIRE)
 Subject: Greek Language (Intellect, Mediation, and Civilizational Depth)
@@ -52,6 +52,17 @@ Polybius describes the asymmetry directly:
 
 Rome conquers Greek cities,
 but governs through Greek culture.
+
+Herodotus first identified this power of *nomos* (custom) to transcend
+political authority:
+
+> “Custom is the king of all men; and it is not only among the Greeks that
+> this is so, but among all people, for each nation believes its own
+> customs to be by far the best.”
+> — Herodotus, *Histories*, III.38
+
+Rome’s bilingual imperial logic was a structural recognition of the
+sovereignty of custom that Herodotus first mapped.
 
 This asymmetry is not weakness.
 It is a Roman choice.

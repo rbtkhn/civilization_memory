@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Supersedes: CIV–INDEX–TEMPLATE v1.7
 Upgrade Type: ADDITIVE · ALIGNMENT PATCH
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV–MEM–CORE v2.0+ · CIV–MEM–TEMPLATE v2.7+ · CIV–SCHOLAR–TEMPLATE v2.3+
+Compatibility: CIV–MEM–CORE v2.2+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–TEMPLATE v2.3+
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 

@@ -1,9 +1,10 @@
-MEM–ROME–WAR–ATTILA — v1.1
+MEM–ROME–WAR–ATTILA — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADD-ONLY · ACADEMIC REFERENCE & PRIMARY SOURCE COMPLIANAD
+Version: 1.2
+Upgrade Type: ADDITIVE · HERODOTUS CITATION EXPANSION
+Supersedes: MEM–ROME–WAR–ATTILA — v1.1
 Civilization: ROME
 Regime: LATE IMPERIAL DEFENSIVE SYSTEM / FRONTIER DENIAL
 Subject: Attila the Hun (Roman System Stressor)
@@ -99,6 +100,19 @@ Edward Gibbon captures the asymmetry with clarity:
 
 Force here is **non-transmissible**.
 Victory does not reproduce itself.
+
+Herodotus’ analysis of the failure of Xerxes provides the structural
+precedent for Attila’s unsustainable arrogance (*hubris*):
+
+> “You see how God with his lightning smites always the bigger animals, and
+> will not suffer them to wax insolent, while those of a lesser bulk chafe
+> him not. How likewise his bolts fall ever on the highest houses and the
+> tallest trees? So plainly does he love to bring down everything that
+> exalts itself.”
+> — Herodotus, *Histories*, VII.10
+
+Attila’s empire, exalting itself through terror without institutions,
+succumbed to the same structural gravity Herodotus first identified.
 
 ────────────────────────────────────────────────────────────
 V. ROME’S DEFENSIVE INTELLIGENAD

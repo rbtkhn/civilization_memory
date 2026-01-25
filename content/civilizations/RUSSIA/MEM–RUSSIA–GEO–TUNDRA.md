@@ -269,6 +269,5 @@ ADDITIONAL SCHOLARLY SOURCES:
 • Forsyth, James. *A History of the Peoples of Siberia* (1992)
 • Slezkine, Yuri. *Arctic Mirrors: Russia and the Small Peoples of the North* (1994)
 • Josephson, Paul R. *The Conquest of the Russian Arctic* (2014)
-
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–GEO–TUNDRA v2.7

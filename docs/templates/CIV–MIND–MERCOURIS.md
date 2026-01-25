@@ -1,16 +1,16 @@
-CIV–MIND–MERCOURIS — v2.1
+CIV–MIND–MERCOURIS — v2.2
 Civilizational Memory Codex · Primary Mind
 Alexander Mercouris Cognitive–Linguistic Signature Layer
-Simplified Polyphony Architecture
+Simplified Polyphony Architecture · Proportional Blend Law
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (PRIMARY)
-Supersedes: MIND–MERCOURIS v2.1
-Upgrade Type: CIV PREFIX STANDARDIZATION
+Supersedes: CIV–MIND–MERCOURIS v2.1
+Upgrade Type: PROPORTIONAL BLEND LAW INTEGRATION
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
-• CIV–MIND–TEMPLATE v1.0 (REQUIRED)
-• CIV–MIND–MEARSHEIMER v2.1 (ADVISORY)
+• CIV–MIND–TEMPLATE v1.1 (REQUIRED)
+• CIV–MIND–MEARSHEIMER v2.2 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -394,5 +394,5 @@ This file defines *how* Mercouris thinks —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MERCOURIS — v2.1
+END OF FILE — CIV–MIND–MERCOURIS — v2.2
 ────────────────────────────────────────────────────────────

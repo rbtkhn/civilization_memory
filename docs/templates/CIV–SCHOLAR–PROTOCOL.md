@@ -280,7 +280,7 @@ LEARN MODE is the ONLY mode in which Scholar learning occurs.
 SYNTHESIS AUTHORITY:
 Synthesis is a PRIMARY and EXPECTED operation of LEARN MODE,
 subject to phase-specific constraints defined in
-CIV–SCHOLAR–TEMPLATE v2.2.
+CIV–SCHOLAR–TEMPLATE v2.3.
 
 Permitted:
 • Ingest MEM files

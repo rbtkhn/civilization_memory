@@ -1,10 +1,10 @@
-MEM–ROME–WAR–PUNIC — v1.3
+MEM–ROME–WAR–PUNIC — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: RETROFIT · ACADEMIC REFERENCES COMPLIANAD
-Supersedes: MEM–ROME–WAR–PUNIC — v1.0
+Version: 1.4
+Upgrade Type: ADDITIVE · THUCYDIDES CITATION EXPANSION
+Supersedes: MEM–ROME–WAR–PUNIC — v1.3
 Civilization: ROME
 Subject: The Punic Wars
 Dates: 264–146 BC
@@ -42,6 +42,16 @@ Polybius frames the conflict as systemic rather than episodic:
 
 The wars are not accidents.
 They are **ontological collisions**.
+
+Thucydides, though writing of an earlier Greek conflict, provides the
+structural template for such existential struggles:
+
+> “The real cause I consider to be the one which was formally most kept out of
+> sight. The growth of the power of Athens, and the alarm which this inspired
+> in Lacedaemon, made war inevitable.”
+> — Thucydides, *History of the Peloponnesian War*, I.23
+
+For Rome, the alarm was Carthage; the inevitability was structural.
 
 ────────────────────────────────────────────────────────────
 III. FIRST PUNIC WAR: ADAPTATION THROUGH IMITATION

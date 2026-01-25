@@ -1,8 +1,9 @@
-MEM–ROME–GEO–LIBYA — v1.0
+MEM–ROME–GEO–LIBYA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: CANONICAL · ARC-COMPLIANT
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE · HERODOTUS CITATION EXPANSION
 Civilization: ROME
 Regime: IMPERIAL (FRONTIER DESERT PROVINCE)
 Subject: Libya (Tripolitania and Cyrenaica)
@@ -56,6 +57,16 @@ Tacitus articulates Roman restraint as doctrine:
 > — Tacitus, *Annals*, Book IV
 
 Rome learns that not all land yields authority.
+
+Herodotus first recorded the nomadic plurality of the Libyan interior:
+
+> “The Libyans are many and of various tribes; and for the most part they
+> pay no regard to the king of the Persians, nor do they obey him, but
+> live according to their own customs.”
+> — Herodotus, *Histories*, IV.167
+
+Rome’s preference for fortified lines and urban anchors in Libya was a
+structural acceptance of the nomadic autonomy Herodotus first identified.
 
 ────────────────────────────────────────────────────────────
 IV. PUBLIC-DOMAIN SCHOLARSHIP: FRONTIER CONTAINMENT
