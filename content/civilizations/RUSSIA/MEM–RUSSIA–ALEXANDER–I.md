@@ -2,9 +2,9 @@ MEM–RUSSIA–ALEXANDER–I — v2.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.1
-Upgrade Type: v2.7 TEMPLATE COMPLIANCE
+Version: 2.8
+Supersedes: v2.7
+Upgrade Type: FAILED PEACETIME LEGITIMACY · HOLY ALLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
@@ -266,8 +266,20 @@ X. CONTINUITY INSIGHTS (RAW)
 • Reform rhetoric is constrained by cohesion and sovereignty.
 • External ideological exposure triggers internal consolidation.
 
+HOLY ALLIANCE AS FAILED PEACETIME LEGITIMACY (v2.8 — RLL–RUSSIA–0009):
+• Alexander's Holy Alliance attempted to encode peace through moralized
+  order—the brief, unsuccessful effort to make peacetime stable.
+• The attempt failed: officers exposed to Europe absorbed reformist
+  expectations, producing the Decembrist shock.
+• This confirms the pattern: prolonged peace after victory → elite
+  ideological diffusion → fragmentation risk.
+• Alexander's reign demonstrates that even triumphant endurance cannot
+  be converted into durable peacetime legitimacy.
+• The solution his successors learned: consolidation follows victory,
+  not relaxation. Peace must not be allowed to lengthen time.
+
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (MANDATORY · v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and validation framework
@@ -328,5 +340,5 @@ Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.7
+END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.8
 ────────────────────────────────────────────────────────────

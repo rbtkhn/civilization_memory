@@ -1,13 +1,13 @@
-CIV–SCHOLAR–RUSSIA — v2.2.1
+CIV–SCHOLAR–RUSSIA — v2.3
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.2.1
-Supersedes: CIV–SCHOLAR–RUSSIA v2.2
-Upgrade Type: ADDITIVE · TECHNICAL COMPLIANCE PATCH
+Version: 2.3
+Supersedes: CIV–SCHOLAR–RUSSIA v2.2.1
+Upgrade Type: ADDITIVE · MEARSHEIMER STRATEGIC COGNITION
 Last Update: January 2026
 Word Count: ~9,050
 
@@ -134,6 +134,23 @@ RLL–RUSSIA–0007 — Rurikid → Petrine Continuity-Rupture Binding
 RLL–RUSSIA–0008 — Coercive Modernization Dependency Trap  
 → Coercive modernization permanently narrows reform pathways.
 
+RLL–RUSSIA–0009 — Peace Rejection as Endurance Strategy  
+→ Peace lengthens time; it allows elites to bargain, ideologies to diffuse,
+  and institutional contradictions to surface. Emergency collapses time.
+  Russian rulers learn repeatedly that peacetime itself is destabilizing.
+
+RLL–RUSSIA–0010 — Elite Overproduction → Instability Binding  
+→ Russia consistently produces more elites than its political economy can
+  absorb. Expanding legitimacy mechanisms increases internal fragmentation;
+  suppressing elites outright risks rebellion. The solution is subordinating
+  elite claims to survival imperatives through war or emergency.
+
+RLL–RUSSIA–0011 — Temporal Compression as Governance Accelerant  
+→ Russian systems stabilize by shortening the interval in which legitimacy
+  questions can be asked. Under conditions of mobilization, elites compete
+  not over legitimacy but over usefulness. Power becomes functional rather
+  than moral.
+
 All listed RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
@@ -244,6 +261,13 @@ OGE categories:
 ────────────────────────────────────────────────────────────
 XV. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.3 changes:
+• Added RLL–RUSSIA–0009 (Peace Rejection as Endurance Strategy)
+• Added RLL–RUSSIA–0010 (Elite Overproduction → Instability Binding)
+• Added RLL–RUSSIA–0011 (Temporal Compression as Governance Accelerant)
+• Expanded Negative Capability Zone (4 new exclusions)
+• Mearsheimer strategic cognition integration
+
 v2.2.1 changes:
 • RLL namespace compliance
 • Phase II synthesis alignment

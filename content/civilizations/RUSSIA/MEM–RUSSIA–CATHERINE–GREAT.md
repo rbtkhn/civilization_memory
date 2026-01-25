@@ -349,6 +349,18 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Arbiters resolve commitment dilemmas through mortality, not decision.
 • Post-partner phases (1791–1796) lack strategic drive—the machine loses its executor.
 
+ELITE OVERPRODUCTION & EXPANSION (v2.9 — RLL–RUSSIA–0010):
+• Catherine's expansion solved elite overproduction: war and conquest
+  provided outlets for ambitious nobles that internal reform could not.
+• Territorial acquisition (Crimea, Poland) absorbed elite surplus into
+  military glory, administrative posts, and new estates.
+• The nobility compact (Charter 1785) was elite containment, not empowerment—
+  privileges granted in exchange for service and war participation.
+• Prolonged peace would have forced redistributive conflict among nobles;
+  expansion deferred this indefinitely.
+• Catherine's "stability through freezing" was temporal compression applied
+  through external war rather than internal emergency.
+
 ────────────────────────────────────────────────────────────
 X. ACADEMIC REFERENCES (ENGAGED · LMM-COMPLIANT)
 ────────────────────────────────────────────────────────────
@@ -413,5 +425,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v2.7
+END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v2.9
 ────────────────────────────────────────────────────────────

@@ -443,6 +443,18 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Survival logic can outpace dynastic absorption capacity.
 • Unstable succession becomes security vulnerability.
 
+TEMPORAL COMPRESSION INSIGHTS (v2.9 — RLL–RUSSIA–0009/0010/0011):
+• Peter's coercive modernization exemplifies temporal compression as
+  governance: elite claims subordinated to survival imperatives.
+• The Great Northern War provided the emergency that collapsed time—
+  elites competed over usefulness, not legitimacy.
+• Peter did not fail to achieve peacetime legitimacy; he recognized
+  that peacetime was destabilizing under structural vulnerability.
+• Elite overproduction (boyars, Streltsy, old nobility) was resolved
+  through war, service requirements, and institutional breaking.
+• The Table of Ranks institutionalized temporal compression: merit
+  under emergency replaced hereditary claims during peace.
+
 Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
@@ -518,5 +530,5 @@ K) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETER–GREAT v2.8
+END OF FILE — MEM–RUSSIA–PETER–GREAT v2.9
 ────────────────────────────────────────────────────────────

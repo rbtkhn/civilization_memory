@@ -18,23 +18,26 @@ Word Count: ~12,500
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
 ────────────────────────────────────────────────────────────
-This upgrade advances CIV–CORE–RUSSIA from v2.0 to v2.0.1.
+This upgrade advances CIV–CORE–RUSSIA from v2.0.1 to v2.1.
 
 SCOPE OF CHANGE (EXHAUSTIVE):
-• Corrects Recursive Learning Ledger (RLL) identifiers to
-  civilization-scoped namespace format per
-  CIV–SCHOLAR–PROTOCOL v2.1
+• Added Section XI.A: TEMPORAL COMPRESSION DOCTRINE
+• Integrates Mearsheimer strategic cognition insights
+• References new RLLs: 0009, 0010, 0011 from CIV–SCHOLAR–RUSSIA v2.3
+
+STRATEGIC INSIGHT ADDED:
+Russian authority stabilizes by shortening decision intervals. Peace
+extends time and enables elite bargaining; emergency compresses time
+and subordinates legitimacy to usefulness. This is not failure to
+achieve peace—it is recognition that peacetime is destabilizing
+under unfavorable structural conditions.
 
 NON-CHANGES (AFFIRMED):
 • No axioms altered
 • No diagnostics modified
 • No gates weakened
 • No constraints relaxed
-• No doctrines introduced or deleted
-• No analytical content changed
-
-This is a **technical namespace correction only**.
-Canonical meaning, logic, and authority remain continuous.
+• Existing RLL bindings preserved
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -255,6 +258,32 @@ Constraint:
 If DDC Cap = HIGH and Rotation ≠ HEALTHY,
 THI-RU cannot be ALLY unless RB POSITIVE and SB OPEN.
 
+XI.A TEMPORAL COMPRESSION DOCTRINE (RLL–RUSSIA–0011)
+────────────────────────────────────────────────────────────
+Russian authority stabilizes by shortening decision intervals.
+
+Core Logic:
+• Peace extends time → elites bargain → legitimacy demands surface
+• Emergency compresses time → elites compete over usefulness, not legitimacy
+• Power becomes functional rather than moral under compression
+
+Strategic Implication:
+Russian rulers do not fail to achieve peacetime legitimacy; they learn
+repeatedly that peacetime itself is destabilizing under unfavorable
+structural conditions. The denial of peace is therefore not failure—
+it is strategy.
+
+Application:
+• Legitimacy is deferred, survival foregrounded
+• War/emergency are governance tools, not aberrations
+• Prolonged peace triggers elite overproduction → instability
+• Time is the most dangerous variable for Russian governance
+
+RLL Binding:
+• RLL–RUSSIA–0009 (Peace Rejection as Endurance Strategy)
+• RLL–RUSSIA–0010 (Elite Overproduction → Instability Binding)
+• RLL–RUSSIA–0011 (Temporal Compression as Governance Accelerant)
+
 ────────────────────────────────────────────────────────────
 XII. EXIT–BUILDING META-DOCTRINE
 ────────────────────────────────────────────────────────────
@@ -368,5 +397,5 @@ CANONICAL REFERENCE:
 Embedded legacy mirrors are archival only and non-operative.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–RUSSIA v2.0.1
+END OF FILE — CIV–CORE–RUSSIA v2.1
 ────────────────────────────────────────────────────────────

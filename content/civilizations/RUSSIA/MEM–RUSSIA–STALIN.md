@@ -322,6 +322,18 @@ POLYPHONIC TENSIONS (v2.8):
 • WWII validated terror AND was the purpose of industrialization.
 • Victory was defensive survival AND offensive hegemonic expansion.
 
+PERMANENT MOBILIZATION (v2.9 — RLL–RUSSIA–0009/0011):
+• Stalin eliminated peace altogether—the state became a permanent
+  mobilization apparatus where war preparation was governance.
+• Temporal compression was total: no interval existed for legitimacy
+  questions because the emergency was permanent (capitalist encirclement).
+• Elite overproduction was resolved through purge, not war abroad—
+  the Great Terror was internal elimination of surplus claimants.
+• The Stalinist system is the logical terminus of Russian governance
+  under permanent external threat: denial of peace as strategy.
+• Post-Stalin "thaw" attempts at peacetime governance produced exactly
+  the instability the pattern predicts (1956, 1968, 1991).
+
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
@@ -388,5 +400,5 @@ J) Compliance & integrity audit (v2.8)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–STALIN v2.8
+END OF FILE — MEM–RUSSIA–STALIN v2.9
 ────────────────────────────────────────────────────────────
