@@ -391,7 +391,7 @@ EEG-RU · FFG-RU · EECL-RU
 XXI. TEMPLATE REFERENCE (CANONICAL POINTER)
 ────────────────────────────────────────────────────────────
 CANONICAL REFERENCE:
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–TEMPLATE v2.8
 • Location: docs/templates/CIV–MEM–TEMPLATE.md
 
 Embedded legacy mirrors are archival only and non-operative.
