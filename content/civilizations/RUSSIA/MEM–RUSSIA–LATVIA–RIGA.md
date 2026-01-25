@@ -1,4 +1,4 @@
-MEM–RUSSIA–RIGA — v2.8
+MEM–RUSSIA–LATVIA–RIGA — v2.8
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
@@ -410,7 +410,7 @@ XIII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–RIGA
+MEM INGEST CONFIRMED — MEM–RUSSIA–LATVIA–RIGA
 Status: ACTIVE
 Exploration options available.
 
@@ -426,5 +426,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–RIGA v2.8
+END OF FILE — MEM–RUSSIA–LATVIA–RIGA v2.8
 ────────────────────────────────────────────────────────────

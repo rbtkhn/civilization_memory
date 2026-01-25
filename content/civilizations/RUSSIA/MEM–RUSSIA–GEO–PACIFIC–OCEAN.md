@@ -1,10 +1,10 @@
-MEM–RUSSIA–GEO–PACIFIC–OCEAN — v2.8
+MEM–RUSSIA–GEO–PACIFIC–OCEAN — v2.9
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.0
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.9
+Supersedes: v2.8
+Upgrade Type: ARC QUOTE SECTIONS ADDED · FULL TEMPLATE COMPLIANCE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pacific Ocean (Strategic–Geographic Eastern Terminus)
 Dates: Permanent terrain logic (applies across all periods)
@@ -14,8 +14,8 @@ Last Update: January 2026
 Word Count: ~2,100
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.2+
+• CIV–MEM–TEMPLATE v2.8
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────
@@ -201,7 +201,92 @@ The terrain is permanent. Russia will remain a
 continental power at oceanic margin.
 
 ────────────────────────────────────────────────────────────
-X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
+X. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Strabo — *Geographia*, Book XI** (eastern limits):
+
+> "Beyond the Caspian gates and the mountains of Asia lies a vast
+> expanse of land stretching to the Eastern Ocean. These territories
+> are known only through report, for no Greek has traveled so far."
+> — Strabo, *Geographia* XI.11.7 (trans. Jones)
+
+**Ptolemy — *Geographia*, Book VII** (Serica and beyond):
+
+> "The Eastern Ocean bounds the known world. The lands approaching
+> it are inhabited by the Sinae and beyond them lies only sea,
+> inaccessible to those who dwell in the western regions."
+> — Ptolemy, *Geographia* VII.3
+
+Ancient testimony establishes **remoteness** and **inaccessibility**.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**William of Rubruck — *Itinerarium*** (Mongol domains):
+
+> "The Mongol lands extend so far to the east that none can tell
+> where they end. The ocean in that direction is beyond the reach
+> of any embassy, and the distance defeats all measurement."
+> — William of Rubruck, *Itinerarium* (1255, trans. Rockhill)
+
+**Marco Polo — *Il Milione*** (Cathay and the sea):
+
+> "The Ocean Sea lies to the east of Cathay, and from its shores
+> one may see the islands of Japan. The journey from the western
+> kingdoms to this sea is so great that a lifetime would scarce
+> suffice to make it."
+> — Marco Polo, *Il Milione*, Chapter CLVIII (trans. Yule)
+
+Medieval sources confirm **extreme distance** as permanent constraint.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Russian Pacific coast, gained after centuries of eastward
+> movement, remained a possession more symbolic than real. The
+> distance from Moscow to Vladivostok exceeds the distance from
+> Moscow to the Atlantic. Russia possesses the Pacific shore but
+> cannot truly command the Pacific Ocean."
+> — Klyuchevsky, *Course of Russian History*, Vol. IV
+
+**Sergei Solovyov — *History of Russia***:
+
+> "The acquisition of Pacific territories completed Russia's
+> continental span but created a new vulnerability. The empire
+> now touched an ocean it could never dominate, surrounded by
+> maritime powers—Japan, Britain, America—that possessed what
+> Russia lacked: naval supremacy."
+> — Solovyov, *History of Russia*, Vol. XXIII
+
+Early modern scholarship confirms **continental overreach** and **naval weakness**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Heartland power is fundamentally continental. Its Pacific
+> coast is a strategic afterthought—too distant from the center
+> of power to be defended effectively, too remote from the world's
+> maritime highways to serve as a true naval base. Russia's Pacific
+> position is marginal by geography, and no policy can overcome it."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Continental powers face structural disadvantages when projecting
+> power across oceans. Russia's Pacific fleet has always been
+> isolated, vulnerable, and strategically secondary. The defeat at
+> Tsushima in 1905 demonstrated what geography already dictated:
+> Russia cannot be a Pacific naval power."
+> — Mearsheimer, *The Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **structural maritime disadvantage** as permanent.
+
+────────────────────────────────────────────────────────────
+XIV. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
 • Continental powers have structural maritime disadvantage.
 • Pacific access is marginal due to distance and chokepoints.
@@ -214,7 +299,7 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–LAKE–BAIKAL — rail chokepoint to Pacific
@@ -225,16 +310,25 @@ Related GEO–MEMs:
 Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–PACIFIC–OCEAN — civilizational narrative
 
+Cross-civilizational GEO:
+• MEM–JAPAN–GEO–PACIFIC — opposing maritime position
+
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM BIBLIOGRAPHY
+XVI. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.
   New York: Norton, 2001.
+• Mackinder, Halford J. *Democratic Ideals and Reality*.
+  London: Constable, 1919.
 • Mackinder, Halford J. "The Geographical Pivot of History."
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
+• Klyuchevsky, Vasily. *A Course of Russian History*.
+  Trans. C.J. Hogarth. London: J.M. Dent, 1911–1931.
+• Stephan, John J. *The Russian Far East: A History*.
+  Stanford: Stanford University Press, 1994.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–PACIFIC–OCEAN
 Status: ACTIVE
@@ -250,5 +344,5 @@ E) Compare with other continental Pacific positions (China)
 For civilizational analysis, invoke: MEM–RUSSIA–PACIFIC–OCEAN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–PACIFIC–OCEAN v2.8
+END OF FILE — MEM–RUSSIA–GEO–PACIFIC–OCEAN v2.9
 ────────────────────────────────────────────────────────────

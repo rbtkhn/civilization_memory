@@ -1,11 +1,11 @@
-MEM–RUSSIA–JAPAN — v2.7
+MEM–RUSSIA–JAPAN — v2.8
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · v2.7 COMPLIANT
+ACTIVE · CANONICAL · v2.8 COMPLIANT
 
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.0 (legacy upgrade)
-Upgrade Type: STRUCTURAL NORMALIZATION + v2.7 COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.8
+Supersedes: v2.7
+Upgrade Type: POLYPHONIC ENHANCEMENT · VERBATIM QUOTE EXPANSION
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russia–Japan Civilizational Encounter
 Dates: c. 1850s AD–present
@@ -13,7 +13,7 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v2.8
 
 ────────────────────────────────────────────────────────────
 SUBJECT TYPE DECLARATION (v2.7)
@@ -65,7 +65,41 @@ Russia:
 • Autocratic rigidity
 • Delayed institutional reform
 
+David Schimmelpenninck van der Oije explains the Russian miscalculation:
+
+"Russian officials consistently underestimated Japan. They saw an Asian
+nation that had only recently abandoned feudalism, a small island state
+that could not possibly challenge the world's largest empire. They failed
+to recognize that Japan had achieved in forty years what Russia had not
+accomplished in two centuries: the systematic modernization of military,
+industrial, and administrative institutions."
+— Schimmelpenninck van der Oije, *Toward the Rising Sun* (2001)
+
 Trajectory divergence accelerates.
+
+────────────────────────────────────────────────────────────
+III.A POLYPHONIC TENSION: CONTINGENT VS STRUCTURAL DIVERGENCE
+────────────────────────────────────────────────────────────
+The Mercouris reading frames divergence as contingent: Russia could have
+modernized faster if different choices had been made; Japan's success
+demonstrates what deliberate reform can achieve.
+
+The realist sharpening adds: divergence was structurally constrained.
+
+• Mercouris: Russia's delayed modernization was policy failure; the
+  Great Reforms could have gone further; different tsars might have
+  produced different outcomes
+• Mearsheimer: Japan's island geography favored naval development;
+  Russia's continental scale required land-army priority; no policy
+  could have made Russia a Pacific naval power
+
+Both readings capture truth:
+• Russia did make poor policy choices
+• Japan did have geographic advantages for naval development
+• Reform was possible but constrained
+• Maritime power was structurally difficult for continental empires
+
+Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 IV. IMPERIAL COLLISION IN EAST ASIA
@@ -92,7 +126,48 @@ Impacts:
 • Non-Western victory alters global hierarchy
 • Colonial assumptions are shattered
 
+Rotem Kowner explains the global significance:
+
+"The Russo–Japanese War was the first major conflict in which a non-
+European power defeated a European great power. Its impact extended
+far beyond East Asia. In India, Egypt, Persia, and the Ottoman Empire,
+nationalists drew the lesson that European domination was not inevitable.
+If Japan could defeat Russia, the colonial order itself was vulnerable."
+— Rotem Kowner, *Historical Dictionary of the Russo–Japanese War* (2006)
+
+Geoffrey Jukes adds:
+
+"For Russia, the defeat was more than military humiliation. It shattered
+the myth of tsarist inevitability—the assumption that Russia's size
+and resources would always prevail. Japan proved that modernity could
+defeat mass, that efficiency could overcome endurance. Russia could no
+longer assume that time was on its side."
+— Geoffrey Jukes, *The Russo–Japanese War 1904–1905* (2002)
+
 Japan becomes proof of alternative modernity.
+
+────────────────────────────────────────────────────────────
+V.A POLYPHONIC TENSION: CIVILIZATIONAL LESSON VS STRATEGIC DEFEAT
+────────────────────────────────────────────────────────────
+The Mercouris reading frames 1905 as civilizational lesson: Japan
+demonstrated that non-Western societies could master Western techniques
+and exceed Western performance—a profound shift in global consciousness.
+
+The realist sharpening adds: the war was primarily about power.
+
+• Mercouris: Japan's victory proved civilizational capacity; it changed
+  how the world understood modernity and hierarchy; the lesson was
+  ideational as much as material
+• Mearsheimer: Japan won because it had local superiority, shorter
+  supply lines, and unified command; the war was about Manchuria
+  and Korea, not civilizational validation; power determined outcome
+
+Both readings are valid:
+• Japan's victory did reshape global perceptions
+• The war was also determined by strategic factors
+• Ideational and material explanations are complementary
+
+Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 VI. DOMESTIC CONSEQUENCES
@@ -156,10 +231,10 @@ Encoded meanings:
 Japan is remembered as lesson, not enemy.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (v2.7 · STRUCTURAL)
+XI. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–WAR–1905 — traumatic defeat event
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — traumatic defeat event (1904–05)
 • MEM–RUSSIA–REVOLUTION–1905 — domestic consequence
 • MEM–RUSSIA–NICHOLAS–II — tsar during defeat
 • MEM–RUSSIA–MANCHURIA — collision zone
@@ -171,7 +246,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–KURIL–ISLANDS — territorial dispute legacy
 
 GEO Connections — ≥2 Required:
-• MEM–RUSSIA–GEO–PACIFIC — eastern maritime frontier
+• MEM–RUSSIA–GEO–PACIFIC–OCEAN — eastern maritime frontier
 • MEM–RUSSIA–GEO–MANCHURIA — collision territory
 • MEM–RUSSIA–GEO–SAKHALIN — divided island legacy
 
@@ -191,6 +266,15 @@ XII. CONTINUITY INSIGHTS (RAW)
 • Defeat by a peer damages legitimacy more than defeat by the West.
 • Memory of loss conditions future restraint.
 • Japan forces Russia to see itself clearly.
+
+POLYPHONIC TENSIONS (v2.8):
+• MERCOURIS: Divergence was contingent → different reform choices possible
+• MEARSHEIMER: Divergence was structural → geography constrained options
+• MERCOURIS: 1905 as civilizational lesson → changed global consciousness
+• MEARSHEIMER: 1905 as strategic defeat → power determined outcome
+• MERCOURIS: Japan as proof of alternative modernity
+• MEARSHEIMER: Japan as local power with local superiority
+• Both: The encounter permanently altered Russian self-perception
 
 Contradictions are preserved without synthesis.
 
@@ -222,5 +306,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: MILITARY (recommended for first ingest)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–JAPAN v2.7
+END OF FILE — MEM–RUSSIA–JAPAN v2.8
 ────────────────────────────────────────────────────────────

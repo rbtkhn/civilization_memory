@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v2.4
+CIV–INDEX–RUSSIA — v2.7
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.4
-Supersedes: CIV–INDEX–RUSSIA v2.3
-Upgrade Type: REGISTER RECONCILIATION · FULL DIRECTORY SYNC
+Version: 2.7
+Supersedes: CIV–INDEX–RUSSIA v2.6
+Upgrade Type: ADDITIVE · NEW FILE REGISTRATION
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -14,6 +14,42 @@ Last Update: January 2026
 
 Derived from: CIV–INDEX–TEMPLATE v1.8
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.7) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers two new city MEMs.
+
+v2.7 changes:
+• Added MEM–RUSSIA–ARKHANGELSK.md (in I) OTHER / MISC section)
+• Added MEM–RUSSIA–KAZAN.md (in I) OTHER / MISC section)
+• Updated total count: 158 → 160 files
+
+Both files are v2.0, template-compliant, with polyphonic architecture.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.6) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers two new city MEMs.
+
+v2.6 changes:
+• Added MEM–RUSSIA–ASTRAKHAN.md (in I) OTHER / MISC section)
+• Added MEM–RUSSIA–MURMANSK.md (in I) OTHER / MISC section)
+• Updated total count: 156 → 158 files
+
+Both files are v2.0, template-compliant, with polyphonic architecture.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers two new civilizational encounter MEMs.
+
+v2.5 changes:
+• Added MEM–RUSSIA–CHINA.md (in I) OTHER / MISC section)
+• Added MEM–RUSSIA–KOREA.md (in I) OTHER / MISC section)
+• Updated total count: 154 → 156 files
+
+Both files are v2.0, template-compliant, with polyphonic architecture.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.4) — FULL DIRECTORY SYNC
@@ -266,7 +302,10 @@ H) HIST (Historiographical)
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE.md
 
 I) OTHER / MISC
+• MEM–RUSSIA–ARKHANGELSK.md
+• MEM–RUSSIA–ASTRAKHAN.md
 • MEM–RUSSIA–BELARUS.md
+• MEM–RUSSIA–CHINA.md
 • MEM–RUSSIA–CONGRESS–VIENNA.md
 • MEM–RUSSIA–CONSTANTINOPLE.md
 • MEM–RUSSIA–COSSACKS.md
@@ -277,8 +316,10 @@ I) OTHER / MISC
 • MEM–RUSSIA–GOLDEN–HORDE.md
 • MEM–RUSSIA–JAPAN.md
 • MEM–RUSSIA–KALININGRAD.md
+• MEM–RUSSIA–KAZAN.md
 • MEM–RUSSIA–KIEV.md
 • MEM–RUSSIA–KIEVAN–RUS.md
+• MEM–RUSSIA–KOREA.md
 • MEM–RUSSIA–LATVIA.md
 • MEM–RUSSIA–LIT–CHEKHOV.md
 • MEM–RUSSIA–LIT–DOSTOEVSKY.md
@@ -290,6 +331,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–MONGOL–EMPIRE.md
 • MEM–RUSSIA–MOSCOW.md
 • MEM–RUSSIA–MOSCOW–KREMLIN.md
+• MEM–RUSSIA–MURMANSK.md
 • MEM–RUSSIA–MUSCOVY.md
 • MEM–RUSSIA–NOVGOROD.md
 • MEM–RUSSIA–ODESSA.md
@@ -297,7 +339,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–PETERSBURG.md
 • MEM–RUSSIA–PETERSBURG–PETERHOF.md
 • MEM–RUSSIA–POLAND.md
-• MEM–RUSSIA–RIGA.md
+• MEM–RUSSIA–LATVIA–RIGA.md
 • MEM–RUSSIA–SIBERIA.md
 • MEM–RUSSIA–SLAVS.md
 • MEM–RUSSIA–SMOLENSK.md

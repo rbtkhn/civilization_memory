@@ -279,7 +279,8 @@ Russian (≥10):
 • MEM–RUSSIA–INDUSTRIAL–RELOCATION — material foundation
 
 GEO–MEM (≥2):
-• MEM–RUSSIA–GEO–VOLGA — strategic lifeline
+• MEM–RUSSIA–GEO–VOLGA–RIVER — strategic lifeline
+• MEM–RUSSIA–GEO–CASPIAN–SEA — ultimate oil objective (Case Blue terminus)
 • MEM–RUSSIA–GEO–STEPPE — operational terrain
 • MEM–RUSSIA–GEO–CAUCASUS — German oil objective
 

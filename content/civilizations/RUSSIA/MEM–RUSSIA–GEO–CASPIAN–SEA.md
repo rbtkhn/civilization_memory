@@ -1,7 +1,7 @@
 MEM–RUSSIA–GEO–CASPIAN–SEA — v2.8
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
 Version: 2.8
 Supersedes: v1.1
 Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
@@ -14,8 +14,8 @@ Last Update: January 2026
 Word Count: ~2,200
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.2+
+• CIV–MEM–TEMPLATE v2.8
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────

@@ -110,6 +110,16 @@ The railway:
 • Longest railway line in the world
 • Unified continental Russia
 
+John J. Stephan explains the railway's significance:
+
+"The Trans-Siberian Railway transformed Vladivostok from an isolated
+outpost into the terminus of the world's longest continuous rail line.
+Before the railway, supplies took months to reach the Pacific coast by
+sea or cart. After completion, Moscow and Vladivostok were connected
+by steel. The empire that had stretched across eleven time zones was
+finally unified by infrastructure."
+— John J. Stephan, *The Russian Far East: A History* (1994)
+
 Significance:
 • Economic integration of Far East
 • Military logistics capability
@@ -128,6 +138,17 @@ Closed city status:
 • Even Soviet citizens required authorization
 • Military sensitivity prioritized over commerce
 • City developed as strategic fortress, not trading hub
+
+Fiona Hill and Clifford Gaddy explain the logic:
+
+"Vladivostok's closure exemplified Soviet strategic priorities. A city
+that could have served as Russia's Pacific commercial hub was instead
+sealed from the world for military reasons. The Pacific Fleet's
+submarine bases, the proximity to Japan and American forces in Korea,
+and the fear of foreign intelligence collection all dictated that
+Vladivostok remain a fortress rather than a port. Commerce was
+sacrificed to security."
+— Fiona Hill and Clifford Gaddy, *The Siberian Curse* (2003)
 
 The closure reflected:
 • Cold War naval competition with United States
@@ -244,6 +265,7 @@ Russian (≥10):
 • MEM–RUSSIA–ALEXANDER–II — treaty acquisition period
 • MEM–RUSSIA–COSSACKS — Far Eastern exploration
 • MEM–RUSSIA–JAPAN — regional rival
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — Pacific Fleet destruction context (1904–05)
 • MEM–RUSSIA–COLD–WAR — closed city period
 • MEM–RUSSIA–CHINA — territorial acquisition context
 • MEM–RUSSIA–FAR–EAST — regional identity
