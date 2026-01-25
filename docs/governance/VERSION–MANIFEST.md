@@ -142,6 +142,7 @@ IV. VERSION HISTORY (RECENT)
 • CIV–MIND–MEARSHEIMER: v2.2 → v2.3 (linguistic refinement)
 • VERSION–MANIFEST: v1.0 created
 • SESSION–LEDGER: v1.0 created
+• CMC–BOOTSTRAP: v1.0 created (minimal startup payload)
 
 2026-01-24:
 • CIV–MIND–MERCOURIS: v2.2 → v2.3 (linguistic profile)

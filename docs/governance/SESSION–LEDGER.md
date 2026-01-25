@@ -50,6 +50,7 @@ Topics:
 • Contemplated "Memory Era" podcast and CMC implications
 • Created VERSION–MANIFEST v1.0
 • Created SESSION–LEDGER v1.0
+• Created CMC–BOOTSTRAP v1.0 (minimal startup payload)
 
 Decisions Made:
 • Polyphonic interaction patterns now documented
@@ -65,6 +66,7 @@ Files Modified:
 • docs/governance/CIV–MEM–CORE.md (references updated)
 • docs/governance/VERSION–MANIFEST.md (created)
 • docs/governance/SESSION–LEDGER.md (created)
+• docs/governance/CMC–BOOTSTRAP.md (created)
 
 ────────────────────────────────────────────────────────────
 
