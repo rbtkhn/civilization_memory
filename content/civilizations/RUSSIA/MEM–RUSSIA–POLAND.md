@@ -279,9 +279,11 @@ Polish-Russian memory preserves irreconcilable tensions:
 These contradictions structure Russian-Polish memory without resolution.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (v2.8 COMPLIANT)
+X. MEM CONNECTIONS (v2.8 COMPLIANT · TRIAD ALIGNED)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
+• MEM–RUSSIA–LITHUANIA — Commonwealth partner, parallel NATO case
+• MEM–RUSSIA–BELARUS — Commonwealth partner, contrast case (loyal west)
 • MEM–RUSSIA–TIME–TROUBLES — Polish intervention in Moscow
 • MEM–RUSSIA–UKRAINE — contested borderland between Russia and Poland
 • MEM–RUSSIA–MUSCOVY — early rivalry with Polish-Lithuanian state
@@ -289,15 +291,14 @@ Same-civilization (≥10):
 • MEM–RUSSIA–ALEXANDER–I — post-Napoleonic Polish settlement
 • MEM–RUSSIA–NICHOLAS–I — suppression of Polish uprising
 • MEM–RUSSIA–SOVIET–EXPANSION — post-WWII Polish incorporation
-• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — confessional boundary with Catholic Poland
-• MEM–RUSSIA–IMPERIAL–EXPANSION — western frontier management
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — confessional boundary
 • MEM–RUSSIA–WAR–NAPOLEON — Polish Legion context
 • MEM–RUSSIA–WAR–CHERVEN–CITIES — medieval Polish-Rus' rivalry
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–VISTULA–RIVER — Polish geographic core
 • MEM–RUSSIA–GEO–WESTERN–BORDERLANDS — buffer zone geography
-• MEM–RUSSIA–GEO–BUG–RIVER — historical boundary marker
+• MEM–RUSSIA–GEO–SUWALKI–GAP — NATO chokepoint with Lithuania
 
 Cross-civilizational:
 • MEM–POLAND–LITHUANIA–COMMONWEALTH — rival state formation

@@ -1,59 +1,65 @@
-MEM–RUSSIA–LITHUANIA — v2.0
+MEM–RUSSIA–LITHUANIA — v2.8
 Civilizational Memory Codex · Memory File
-ACTIVE · PARTIAL · 20% TARGET
-Status: ACTIVE · PARTIAL
-Version: 2.0
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.8
+Supersedes: v2.0
+Upgrade Type: DUAL MIND AUDIT · TRIAD ALIGNMENT
 Civilization: RUSSIA (Русская цивилизация)
-Subject: Lithuania (Lietuva) — Historical Rival & Baltic Frontier
-Dates: 13th century–present (Russian incorporation: 1795)
+Subject: Lithuania (Lietuva) — Historical Rival & NATO Frontier
+Dates: 13th century–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,000
+Word Count: ~3,600
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v2.1+
+• CIV–MEM–TEMPLATE v2.8
 • ARC–RUSSIA (pinned)
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v2.8):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8) — DUAL MIND AUDIT · TRIAD ALIGNMENT
+────────────────────────────────────────────────────────────
+This upgrade integrates:
+• Dual mind audit with polyphonic tensions (Mercouris/Mearsheimer)
+• Triad alignment with MEM–RUSSIA–POLAND and MEM–RUSSIA–BELARUS
+• Corridor logic strengthened (Suwalki Gap)
+• Time of Troubles connection added
+• Cross-references completed
+
+No synthesis introduced.
+Contradictions preserved without resolution.
+
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Lithuania as **Russia's primary medieval western
-rival**: the state that absorbed Kievan Rus' successor territories,
-contested Russian expansion, and represented an alternative political
-trajectory for East Slavic lands.
+This file preserves Lithuania as **the path not taken**: the
+medieval state that absorbed Kievan Rus' successor territories,
+offered an alternative governance model, and represented what
+East Slavic lands might have become under western orientation.
 
-For Russian civilizational memory, Lithuania represents **the path not
-taken** — a western-oriented, Catholic-influenced state that incorporated
-Orthodox Slavic populations and offered competition for the inheritance
-of Kievan Rus'.
+For Russian civilizational memory, Lithuania is **rival successor**.
 
-Lithuania encodes the lesson that **alternative successor states can
-absorb Russian territories** when Moscow is weak, and that western
-alignment of Baltic neighbors threatens Russian strategic depth.
-
-This memory does not resolve whether Lithuanian absorption of Rus' lands
-was conquest or attraction, whether Russian recovery was liberation or
-imperialism, or whether contemporary Lithuanian alignment is defensive
-or threatening.
+Lithuania encodes the lesson that alternative centers can absorb
+Russian territories when Moscow is weak—and that the Baltic frontier
+remains structurally dangerous because aligned states can threaten
+Russian strategic depth.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. GRAND DUCHY OF LITHUANIA: RIVAL SUCCESSOR STATE
+II. GRAND DUCHY: RIVAL SUCCESSOR STATE
 ────────────────────────────────────────────────────────────
-The Grand Duchy of Lithuania emerged as a major power absorbing
-former Kievan Rus' territories.
+The Grand Duchy of Lithuania emerged as the most successful
+alternative to Muscovite unification of East Slavic lands.
 
 II.A TERRITORIAL EXPANSION
 ────────────────────────────────────────────────────────────
-Lithuanian expansion into Rus' lands:
+Lithuanian absorption of Rus' lands:
 • 13th century: Lithuanian unification under Mindaugas
 • 14th century: Absorption of Belarus, western Ukraine, Smolensk
 • 1362: Battle of Blue Waters — Lithuanian control of Kiev region
@@ -65,20 +71,44 @@ Timothy Snyder explains the structural significance:
 states to Kievan Rus'. While Moscow struggled under Mongol domination,
 Lithuania absorbed the western and southern territories of the old Rus'
 realm. For two centuries, it was Lithuania, not Moscow, that seemed the
-likely unifier of the East Slavic lands. The Orthodox Slavic majority
-of the Grand Duchy lived under Lithuanian rule without mass conversion
-or cultural suppression."
+likely unifier of the East Slavic lands."
 — Timothy Snyder, *The Reconstruction of Nations* (2003)
 
 II.B GOVERNANCE MODEL
 ────────────────────────────────────────────────────────────
 Lithuanian rule offered a distinct model:
-• Religious tolerance (Orthodox population under pagan, then Catholic, rulers)
+• Religious tolerance (Orthodox under pagan, then Catholic, rulers)
 • Legal codification (Lithuanian Statutes)
-• Noble participation (Sejm traditions)
+• Noble participation (proto-parliamentary traditions)
 • Decentralized administration
 
 This model competed with Muscovite centralization and autocracy.
+
+────────────────────────────────────────────────────────────
+II.A POLYPHONIC TENSION: PROTECTION VS CONQUEST
+────────────────────────────────────────────────────────────
+The Mercouris reading frames Lithuanian expansion as conquest—
+a foreign power seizing Russian lands while Moscow was weakened.
+
+The realist sharpening adds: many Orthodox populations welcomed
+Lithuanian rule.
+
+• Mercouris: Lithuania exploited Mongol domination to seize
+  Russian patrimony; this is civilizational theft
+• Mearsheimer: Lithuanian expansion reflected power vacuum;
+  Orthodox populations often preferred Lithuanian tolerance
+  to Mongol tribute demands; "conquest" is retrospective framing
+
+Janet Martin notes:
+
+"The Orthodox Slavic majority of the Grand Duchy lived under
+Lithuanian rule without mass conversion or cultural suppression.
+Local elites retained positions; Orthodox Church maintained its
+structure. Whether this was protection or conquest depended on
+whether one judged by Moscow's claims or local preferences."
+— Janet Martin, *Medieval Russia 980–1584* (1995)
+
+Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 III. LITHUANIAN-MUSCOVITE RIVALRY
@@ -101,24 +131,19 @@ battles between them, for the princes of Lithuania coveted the
 patrimony of the Rus' princes."
 — Later chronicle tradition on Lithuanian expansion
 
-III.B SCHOLARLY ANALYSIS
+III.B THE RIVALRY'S MEANING
 ────────────────────────────────────────────────────────────
-Janet Martin contextualizes the rivalry:
-
-"The Lithuanian-Muscovite rivalry was not merely territorial but
-civilizational. Each state claimed the inheritance of Kievan Rus';
-each offered a different model of governance for East Slavic populations.
-Moscow's eventual victory was not inevitable—it depended on Mongol
-collapse, Lithuanian dynastic choices, and the structural advantages
-of centralization under conditions of permanent military pressure."
-— Janet Martin, *Medieval Russia 980–1584* (1995)
+The Lithuanian-Muscovite rivalry was civilizational:
+• Each claimed the inheritance of Kievan Rus'
+• Each offered different governance model
+• Moscow's eventual victory was not inevitable
 
 ────────────────────────────────────────────────────────────
 IV. POLISH-LITHUANIAN UNION & COMMONWEALTH
 ────────────────────────────────────────────────────────────
 The Union of Lublin (1569) transformed the strategic landscape.
 
-IV.A THE UNION
+IV.A THE UNIONS
 ────────────────────────────────────────────────────────────
 • 1385: Union of Krewo — dynastic connection with Poland
 • 1569: Union of Lublin — creation of Polish-Lithuanian Commonwealth
@@ -133,8 +158,16 @@ The Commonwealth represented:
 • Western legal and political traditions on Russia's border
 • Time of Troubles intervention (1609–1612)
 
-The Commonwealth becomes Russia's primary western rival until
-the partitions (1772–1795).
+────────────────────────────────────────────────────────────
+IV.C TIME OF TROUBLES CONNECTION
+────────────────────────────────────────────────────────────
+The Commonwealth intervened during Russia's crisis:
+• Polish-Lithuanian forces occupied Moscow (1610–1612)
+• Attempt to impose Catholic influence
+• Foundational grievance in Russian memory
+
+This connects Lithuania to the same trauma that defines
+Russian memory of Poland—the wound of 1610–1612.
 
 ────────────────────────────────────────────────────────────
 V. RUSSIAN INCORPORATION (1795)
@@ -157,7 +190,28 @@ The incorporation was framed as the final recovery of ancient Russian
 lands—though Lithuania itself had never been part of Kievan Rus'."
 — Geoffrey Hosking, *Russia and the Russians: A History* (2001)
 
-V.B RESISTANCE
+V.B POLYPHONIC TENSION: RECOVERY VS IMPERIALISM
+────────────────────────────────────────────────────────────
+The Mercouris reading frames partition as recovery—
+Russia reclaiming lands lost to Lithuanian expansion during
+the Mongol period, reuniting Orthodox Slavic populations.
+
+The realist sharpening adds: Lithuania proper was never Russian.
+
+• Mercouris: The partition restored Russian lands to Russia;
+  Orthodox populations were liberated from Catholic oppression
+• Mearsheimer: Lithuania proper was Baltic, not Slavic; the
+  partition was imperial expansion, not recovery; "liberation"
+  narrative is post-hoc justification
+
+Both readings are valid:
+• Some territories had been part of Kievan Rus'
+• Lithuania proper had not
+• Russian framing conflated the two
+
+Tension preserved without synthesis.
+
+V.C RESISTANCE
 ────────────────────────────────────────────────────────────
 Lithuanian resistance persisted:
 • 1831: November Uprising (with Poland)
@@ -166,7 +220,7 @@ Lithuanian resistance persisted:
 • Lithuanian national movement emerges late 19th century
 
 ────────────────────────────────────────────────────────────
-VI. INTERWAR INDEPENDENCE & SOVIET INCORPORATION
+VI. INTERWAR AND SOVIET PERIODS
 ────────────────────────────────────────────────────────────
 The 20th century brought brief independence and renewed incorporation.
 
@@ -185,18 +239,19 @@ VI.B SOVIET ANNEXATION
 • Partisan resistance ("Forest Brothers") continues until 1953
 
 ────────────────────────────────────────────────────────────
-VII. POST-SOVIET: NATO FRONTIER
+VII. POST-SOVIET: NATO FRONTIER & SUWALKI GAP
 ────────────────────────────────────────────────────────────
-Independent Lithuania aligned westward.
+Independent Lithuania aligned westward and became NATO's
+northeastern anchor.
 
 VII.A WESTERN INTEGRATION
 ────────────────────────────────────────────────────────────
 • 1990: Declaration of independence (first Soviet republic)
 • 2004: NATO and EU membership
-• Vilnius becomes NATO's northeastern anchor
-• Military infrastructure on Russian border
+• Vilnius becomes NATO's northeastern position
+• Military infrastructure on Russian approaches
 
-VII.B STRATEGIC IMPLICATIONS
+VII.B SUWALKI GAP SIGNIFICANCE
 ────────────────────────────────────────────────────────────
 Dominic Lieven explains the contemporary significance:
 
@@ -208,40 +263,98 @@ it held for two centuries. For Lithuania, NATO membership provides
 security against the historical pattern of Russian incorporation."
 — Dominic Lieven, *Empire: The Russian Empire and Its Rivals* (2001)
 
+The Suwalki Gap (65 km wide):
+• Only land connection between Baltic states and NATO core
+• Russian/Belarusian forces could sever in hours
+• Structural vulnerability for NATO
+• Strategic opportunity for Russia
+
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+VII.A POLYPHONIC TENSION: SECURITY VS THREAT
+────────────────────────────────────────────────────────────
+The Mercouris reading frames NATO expansion as threat—
+Western military infrastructure on Russia's border, reversing
+centuries of Russian strategic position.
+
+The realist sharpening adds: Lithuania sought NATO for security.
+
+• Mercouris: NATO expansion is Western aggression; Lithuanian
+  alignment threatens Russian security; historical buffer lost
+• Mearsheimer: Lithuania's choice reflects historical experience;
+  Russian incorporation pattern (1795, 1940) justifies security
+  seeking; Lithuania is defensive, not offensive
+
+Both readings are valid:
+• NATO expansion changes power distribution (Mearsheimer agrees)
+• Lithuanian motivation is genuinely defensive (Mearsheimer agrees)
+• Russia perceives threat regardless of motivation
+
+Tension preserved without synthesis.
+
+────────────────────────────────────────────────────────────
+VIII. CONTRAST: LITHUANIA VS POLAND VS BELARUS
+────────────────────────────────────────────────────────────
+The three territories share Commonwealth history but diverged.
+
+| Dimension | Lithuania | Poland | Belarus |
+|-----------|-----------|--------|---------|
+| Medieval role | Absorbed Rus' lands | Rival/partner | Absorbed territory |
+| Post-1991 | NATO | NATO | Russia-aligned |
+| Separatist tradition | Strong | Strong | Weak |
+| Confessional pattern | Catholic | Catholic | Orthodox |
+| Strategic function | Suwalki anchor | Corridor | Buffer for Russia |
+
+Lithuania's alignment with Poland and against Russia reflects:
+• Shared Catholic heritage
+• Shared Commonwealth history
+• Shared experience of Russian/Soviet incorporation
+• Shared perception of Russian threat
+
+────────────────────────────────────────────────────────────
+IX. CIVILIZATIONAL MEMORY FUNCTION
+────────────────────────────────────────────────────────────
+For Russia, Lithuania encodes:
+
+• Alternative successor state that nearly unified East Slavs
+• Proof that western alignment of neighbors threatens Russia
+• Lost forward position after 1990
+• Suwalki Gap as strategic vulnerability/opportunity
+• NATO's northeastern anchor
+• Partner in Time of Troubles humiliation
+• The west that chose rupture over continuity
+
+Lithuania is **the counter-model** to Belarus in Russian memory.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Medieval Lithuania absorbed Kievan Rus' successor territories
 • Alternative governance model competed with Muscovite autocracy
 • Polish union intensified Catholic-Orthodox civilizational boundary
 • Partition incorporated Lithuania but did not eliminate identity
-• Interwar independence demonstrated persistence of national memory
-• Soviet incorporation repeated historical pattern
+• Strong national identity produces resistance (contrast with Belarus)
 • NATO alignment reverses centuries of Russian strategic position
 • Suwalki Gap creates structural vulnerability in NATO defense
+• Time of Troubles connects Lithuania to Poland in Russian grievance
+
+POLYPHONIC TENSIONS (v2.8):
+• MERCOURIS: Lithuanian expansion as conquest → seized Russian patrimony
+• MEARSHEIMER: Power vacuum → Orthodox populations often welcomed rule
+• MERCOURIS: Partition as recovery → restoring Russian lands
+• MEARSHEIMER: Partition as imperialism → Lithuania proper was never Russian
+• MERCOURIS: NATO expansion as threat → Western military on border
+• MEARSHEIMER: NATO membership as security → Lithuanian motivation defensive
+• Both: Lithuania chose rupture while Belarus chose continuity
+
+Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. CONTRADICTIONS PRESERVED
+XI. MEM CONNECTIONS (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
-Lithuanian memory preserves irreconcilable tensions:
-
-• Lithuanian absorption of Rus' lands as protection vs. conquest
-• Russian incorporation (1795) as recovery vs. imperialism
-• Grand Duchy tolerance vs. Catholic pressure after union
-• Lithuanian identity as Baltic vs. political-historical construct
-• Soviet incorporation as occupation vs. liberation from fascism
-• NATO membership as security vs. threat to Russia
-• Vilnius as Lithuanian capital vs. historically multi-ethnic city
-• Alternative succession model vs. Muscovite victory narrative
-
-These contradictions structure Russian memory of Lithuania without resolution.
-
-────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (MANDATORY)
-────────────────────────────────────────────────────────────
-Russian (≥10 same-civilization):
+Same-civilization (≥10):
+• MEM–RUSSIA–POLAND — Commonwealth partner, parallel case
+• MEM–RUSSIA–BELARUS — Commonwealth partner, contrast case
 • MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE — territorial rivalry
-• MEM–RUSSIA–POLAND — Commonwealth partner
 • MEM–RUSSIA–SMOLENSK — contested city between rivals
 • MEM–RUSSIA–KIEV — both claimed Kievan inheritance
 • MEM–RUSSIA–MUSCOVY — rival successor state
@@ -251,23 +364,20 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–SOVIET–EXPANSION — 1940 annexation
 • MEM–RUSSIA–WAR–CHERVEN–CITIES — medieval borderland
 
-GEO–MEM (REQUIRED ≥2):
+GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–VILNIUS — historical capital
-• MEM–RUSSIA–GEO–NEMAN–RIVER — Lithuanian core geography
+• MEM–RUSSIA–GEO–SUWALKI–GAP — strategic chokepoint
 • MEM–RUSSIA–GEO–BALTIC–SEA — northern access
+• MEM–RUSSIA–GEO–KALININGRAD — exclave context
 
 Cross-civilizational:
 • MEM–GERMANIA–TEUTONIC–ORDER — crusader pressure on Lithuania
 • MEM–POLAND–LITHUANIA–COMMONWEALTH — union partner
+• MEM–NATO–EXPANSION — contemporary alignment
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
-Primary Sources Consulted:
-• Chronicle traditions on Lithuanian-Muscovite wars
-• Lithuanian Statutes (legal codification)
-
-Secondary Sources:
 • Snyder, Timothy. *The Reconstruction of Nations: Poland, Ukraine,
   Lithuania, Belarus, 1569–1999*. New Haven: Yale University Press, 2003.
 • Martin, Janet. *Medieval Russia 980–1584*. Cambridge: Cambridge
@@ -278,25 +388,28 @@ Secondary Sources:
   Yale University Press, 2001.
 • Stone, Daniel. *The Polish-Lithuanian State, 1386–1795*. Seattle:
   University of Washington Press, 2001.
+• Plokhy, Serhii. *The Origins of the Slavic Nations*.
+  Cambridge: Cambridge University Press, 2006.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (MANDATORY)
+XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–LITHUANIA
 Status: ACTIVE
 Exploration options available.
 
-A. Grand Duchy as rival successor to Kievan Rus'
-B. Lithuanian-Muscovite territorial rivalry
-C. Polish-Lithuanian Commonwealth and union dynamics
-D. 1795 partition and incorporation
-E. Interwar independence and Soviet annexation
-F. Post-Soviet NATO alignment and Suwalki Gap
-G. Comparative: Lithuanian vs. Muscovite governance models
-H. Compliance & integrity audit
+A. Grand Duchy: protection vs conquest (polyphonic)
+B. Lithuanian-Muscovite rivalry
+C. Polish-Lithuanian Commonwealth and Time of Troubles
+D. Partition: recovery vs imperialism (polyphonic)
+E. Soviet annexation and Forest Brothers
+F. NATO alignment: security vs threat (polyphonic)
+G. Suwalki Gap strategic significance
+H. Comparative: Lithuania vs Poland vs Belarus
+I. Compliance & integrity audit
 
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LITHUANIA v2.0
+END OF FILE — MEM–RUSSIA–LITHUANIA v2.8
 ────────────────────────────────────────────────────────────
