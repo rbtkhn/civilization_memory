@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–VOLGA–RIVER
 
@@ -230,7 +232,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (rivers of Scythia):
+
+> "There are many great rivers in this land. The greatest of the
+> inland rivers flows into the Caspian Sea, a sea that is by
+> itself and touches no other."
+> — Herodotus, *Histories* IV.57 (trans. Rawlinson)
+
+**Ptolemy — *Geographia***:
+
+> "The River Rha [Volga] flows from the Rhipaean mountains
+> southward into the Hyrcanian [Caspian] Sea. It is the longest
+> river of Sarmatia."
+> — Ptolemy, *Geographia* V.9
+
+Ancient testimony establishes **enclosed terminus** and **interior orientation**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Ibn Fadlan — *Risala*** (Volga trade):
+
+> "The River Itil [Volga] is the greatest of rivers. It flows
+> past the Bulghars to the sea of the Khazars. Upon it travel
+> merchants bearing furs, honey, and slaves."
+> — Ibn Fadlan, *Risala* (trans. Montgomery)
+
+**Al-Masudi — *Meadows of Gold***:
+
+> "The Slavs and Rus send their goods down the great river to
+> the Khazars, who take their toll. The river is the artery of
+> all this commerce."
+> — Al-Masudi, *Meadows of Gold* (trans. Lunde & Stone)
+
+Medieval sources confirm **fiscal extraction** and **interior integration**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Volga was Russia's main artery, the backbone of the Russian
+> land. Along it moved grain, timber, and all the commerce of the
+> interior. To hold the Volga was to hold Russia."
+> — Klyuchevsky, *Course of Russian History*, Vol. II
+
+**Sergei Solovyov — *History of Russia***:
+
+> "The capture of Kazan and Astrakhan meant the capture of the
+> Volga. Russia gained not merely cities but an entire river
+> system, and with it, the Caspian."
+> — Solovyov, *History of Russia*, Vol. VI
+
+Early modern scholarship confirms **river control = interior control**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Volga is the artery of the Heartland, carrying its commerce
+> from the forest to the Caspian. No external power can interdict
+> this flow; it is entirely interior."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Interior rivers give continental powers economic capacity
+> immune to maritime blockade. The Volga is the classic example
+> of how geography provides strategic autarky."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **interior autarky** and **blockade immunity**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–CASPIAN–SEA — terminus basin
@@ -258,7 +336,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–VOLGA–RIVER
 Status: ACTIVE

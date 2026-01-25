@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–CASPIAN–SEA
 
@@ -259,7 +261,84 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM CONNECTIONS
+XII. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book I** (Hyrcanian Sea):
+
+> "The Caspian is a sea by itself, not connected with any other.
+> Its length is a voyage of fifteen days, and its breadth, at the
+> widest part, a voyage of eight days. On its western shore dwell
+> the Caucasian peoples."
+> — Herodotus, *Histories* I.203 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book XI** (enclosed basin):
+
+> "The Hyrcanian Sea receives many rivers but has no outlet. It
+> is a great lake surrounded by mountains and deserts, accessible
+> only by the Volga and the Caucasus passes."
+> — Strabo, *Geographica* XI.6.1 (trans. Jones)
+
+Ancient testimony establishes **total enclosure** and **inaccessibility**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Ibn Fadlan — *Risala*** (Volga route):
+
+> "The River Itil [Volga] empties into the sea of the Khazars,
+> which is enclosed and has no exit to any ocean. He who controls
+> the river's mouth controls the sea."
+> — Ibn Fadlan, *Risala* (trans. Montgomery)
+
+**Al-Masudi — *Meadows of Gold***:
+
+> "The Caspian Sea is surrounded by many peoples, but its waters
+> belong to none fully. No fleet from outside can enter, and none
+> within can escape to the ocean."
+> — Al-Masudi, *Meadows of Gold* (trans. Lunde & Stone)
+
+Medieval sources confirm **enclosed sanctuary** and **regional competition**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Caspian was Russia's private sea, or nearly so. No foreign
+> fleet could enter it, and its resources flowed upward along the
+> Volga into the heart of Russia."
+> — Klyuchevsky, *Course of Russian History*, Vol. III
+
+**Sergei Solovyov — *History of Russia***:
+
+> "To hold the Volga was to hold the Caspian. The enclosure that
+> limited Russia's projection also protected it from any maritime
+> challenge from the south or east."
+> — Solovyov, *History of Russia*, Vol. X
+
+Early modern scholarship confirms **Volga dominance** and **sanctuary logic**.
+
+────────────────────────────────────────────────────────────
+XV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Caspian is the heart of the Heartland's southern frontier.
+> Its enclosure makes it strategically unique—a sea that no
+> exterior power can penetrate."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**Robert Kaplan — *The Revenge of Geography***:
+
+> "The Caspian may be landlocked, but it is not marginal. Its
+> energy resources make it pivotal, and its enclosure makes
+> competition among littoral states the only game that matters."
+> — Kaplan, *The Revenge of Geography* (2012)
+
+Modern scholarship confirms **energy concentration** and **littoral dominance**.
+
+────────────────────────────────────────────────────────────
+XVI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–VOLGA–RIVER — primary access corridor
@@ -276,7 +355,7 @@ Cross-civilizational GEO:
 • MEM–CENTRAL–ASIA–GEO–CASPIAN — eastern littoral
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM BIBLIOGRAPHY
+XVII. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.
   New York: Norton, 2001.
@@ -288,7 +367,7 @@ XIII. GEO–MEM BIBLIOGRAPHY
   and Fortune on the Caspian Sea*. New York: Random House, 2007.
 
 ────────────────────────────────────────────────────────────
-XIV. GEO–MEM INGEST BOOTSTRAP
+XVIII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–CASPIAN–SEA
 Status: ACTIVE

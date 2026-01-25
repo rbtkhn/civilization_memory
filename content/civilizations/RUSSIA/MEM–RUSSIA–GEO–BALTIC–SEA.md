@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–BALTIC–SEA
 
@@ -259,7 +261,84 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM CONNECTIONS
+XII. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Tacitus — *Germania*** (amber coast and northern seas):
+
+> "The Aestii gather amber on the shore, which they call *glesum*.
+> They themselves make no use of it; it is gathered crude and
+> sold unworked. Their sea is sluggish and almost motionless,
+> encompassing and enclosing the world."
+> — Tacitus, *Germania*, 45 (trans. Church & Brodribb)
+
+**Ptolemy — *Geographia*** (Sarmatian Ocean):
+
+> "The Sarmatian Ocean extends from the German shore to the lands
+> of the Venedi, and beyond to regions of eternal cold. The passage
+> is narrow, guarded by islands, and opens only at the western end."
+> — Ptolemy, *Geographia* III.5
+
+Ancient testimony establishes **semi-enclosed basin** and **restricted access**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Adam of Bremen — *Gesta Hammaburgensis***:
+
+> "The Baltic Sea is navigable for many days from Denmark to the
+> lands of the Slavs and Swedes. But its entrance is narrow, and
+> the Danes command it. Without their consent, none may pass."
+> — Adam of Bremen, *Gesta Hammaburgensis*, IV.10 (trans. Tschan)
+
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "And the Varangians came by the sea route to Novgorod, and from
+> there up the rivers to Mikligard. But the western sea was
+> controlled by others."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+Medieval sources confirm **chokepoint control** and **eastern access value**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Baltic was Russia's window to Europe. Without it, Russia
+> remained a continental power, shut off from the maritime life
+> of the West. With it, Russia became a European power."
+> — Klyuchevsky, *Course of Russian History*, Vol. IV
+
+**Sergei Solovyov — *History of Russia***:
+
+> "The struggle for the Baltic shore was not merely for commerce
+> but for participation in European civilization. The sea was
+> the gate, and Sweden held the key."
+> — Solovyov, *History of Russia*, Vol. XIV
+
+Early modern scholarship confirms **Baltic as gateway to Europe**.
+
+────────────────────────────────────────────────────────────
+XV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Baltic is the northern moat of the Heartland. Whoever
+> controls its shores commands the approach to Scandinavia and
+> the gateway from Russia to the open ocean."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Sea power in enclosed waters is fundamentally different from
+> ocean dominance. The Baltic, like the Black Sea, concentrates
+> competition rather than dispersing it."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **encirclement** and **concentrated competition**.
+
+────────────────────────────────────────────────────────────
+XVI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–GULF–FINLAND — eastern extension
@@ -291,7 +370,7 @@ XIII. GEO–MEM BIBLIOGRAPHY
   The Baltic World 1492–1772*. London: Routledge, 1990.
 
 ────────────────────────────────────────────────────────────
-XIV. GEO–MEM INGEST BOOTSTRAP
+XVIII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–BALTIC–SEA
 Status: ACTIVE

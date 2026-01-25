@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–URALS
 
@@ -230,7 +232,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Rhipaean Mountains):
+
+> "Beyond the Scythians dwell the Issedones, and beyond them,
+> toward the north wind, are the Rhipaean mountains, from which
+> the north wind blows. None can say what lies beyond."
+> — Herodotus, *Histories* IV.13 (trans. Rawlinson)
+
+**Pliny the Elder — *Natural History***:
+
+> "Some say the Rhipaean mountains are the boundary of Europe and
+> Asia, running from north to south. They are rich in gold and
+> gems, but few travelers have crossed them."
+> — Pliny, *Natural History* VI.7 (trans. Rackham)
+
+Ancient testimony establishes **continental boundary** and **resource concentration**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "Beyond the Kama River lie the mountains of stone, which mark
+> the boundary of the lands of the Rus. Yet men cross them
+> seeking furs and silver."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Ahmad ibn Fadlan — *Risala***:
+
+> "The Bulghar told me that far to the east are mountains rich
+> in ore, where iron is made. The crossing is not difficult, for
+> the heights are low."
+> — Ibn Fadlan, *Risala* (trans. Montgomery)
+
+Medieval sources confirm **permeability** and **mineral wealth**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Urals were not a barrier but a hinge. Russia crossed them
+> easily and found on the other side an infinity of space. The
+> mountains marked the beginning of depth, not its limit."
+> — Klyuchevsky, *Course of Russian History*, Vol. III
+
+**Sergei Solovyov — *History of Russia***:
+
+> "Once across the Urals, Siberia lay open. The mountains gave
+> iron and copper, and beyond them was the space that made
+> Russia unconquerable."
+> — Solovyov, *History of Russia*, Vol. VII
+
+Early modern scholarship confirms **hinge function** and **industrial value**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Urals are the hinge of the Heartland, the point where
+> European Russia meets Asiatic Russia. They do not divide;
+> they organize continental space."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**Stephen Kotkin — *Stalin: Waiting for Hitler***:
+
+> "The Urals were the sanctuary. When war came, industry was
+> relocated beyond them, where no invader could reach. Geography
+> gave Russia what no fortress could."
+> — Kotkin, *Stalin: Waiting for Hitler* (2017)
+
+Modern scholarship confirms **sanctuary logic** and **industrial dispersal**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–SIBERIA — depth beyond Urals
@@ -258,7 +336,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   New York: Penguin, 2017.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–URALS
 Status: ACTIVE

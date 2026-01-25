@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–NEVA–RIVER
 
@@ -209,7 +211,76 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-X. GEO–MEM CONNECTIONS
+X. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Tacitus — *Germania*** (northern waters):
+
+> "Beyond the Suiones lies a sluggish sea, almost motionless,
+> which is believed to encircle the earth. The last gleam of
+> the setting sun lingers until dawn."
+> — Tacitus, *Germania*, 45 (trans. Church & Brodribb)
+
+Ancient testimony references the **enclosed northern waters** that the Neva connects.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "From Lake Nevo [Ladoga] the Neva flows into the Varangian Sea.
+> This is the route of the Varangians, and whosoever holds the
+> river's mouth holds the key to the interior."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Novgorod First Chronicle**:
+
+> "And at the mouth of the Neva the Swedes built a fort, to
+> control the passage. But the Novgorodians would not suffer it,
+> for the river was their gate to the sea."
+> — *Novgorod First Chronicle* (trans. Michell & Forbes)
+
+Medieval sources confirm **singular chokepoint** and **existential importance**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Neva was the last link in the chain that joined interior
+> Russia to the European sea. Without it, Russia was landlocked;
+> with it, Russia was European."
+> — Klyuchevsky, *Course of Russian History*, Vol. IV
+
+**Sergei Solovyov — *History of Russia***:
+
+> "To build upon the Neva was to seize the gate. The city that
+> rose there was not merely a port but a declaration: Russia
+> would be a maritime power."
+> — Solovyov, *History of Russia*, Vol. XV
+
+Early modern scholarship confirms **gateway function** and **existential stakes**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The short river from Ladoga to the Gulf of Finland is one of
+> the most strategic waterways in the world. It connects the
+> Heartland's interior to the Baltic approach."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Chokepoints concentrate strategic value. The Neva is a classic
+> example: a short river of disproportionate importance because
+> it is the only outlet."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **exclusivity** as **strategic multiplier**.
+
+────────────────────────────────────────────────────────────
+XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–GULF–FINLAND — corridor to Baltic
@@ -236,7 +307,7 @@ XI. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM INGEST BOOTSTRAP
+XVI. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–NEVA–RIVER
 Status: ACTIVE

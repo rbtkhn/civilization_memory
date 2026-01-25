@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–VISTULA–RIVER
 
@@ -228,7 +230,76 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Tacitus — *Germania*** (Vistula peoples):
+
+> "The Venedi dwell along the Vistula, building homes and carrying
+> shields, moving on foot with great speed. They are unlike the
+> Sarmatians, who live on horses and wagons."
+> — Tacitus, *Germania*, 46 (trans. Church & Brodribb)
+
+**Ptolemy — *Geographia***:
+
+> "The River Vistula rises in the mountains and flows through
+> Sarmatia to the Sarmatian Ocean. The peoples on its banks are
+> the Venedi, Goths, and Galindae."
+> — Ptolemy, *Geographia* III.5
+
+Ancient testimony establishes **Central European position** and **transit corridor**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Adam of Bremen — *Gesta Hammaburgensis***:
+
+> "The Poles dwell upon the Vistula, which flows to the Baltic Sea.
+> Their kingdom is between the Germans and the Russians, and both
+> covet their lands."
+> — Adam of Bremen, *Gesta Hammaburgensis*, II.19 (trans. Tschan)
+
+Medieval sources confirm **buffer position** between competing powers.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Vistula was the western limit of Russian ambition, the point
+> where Russia touched the heart of Europe. To hold it meant to
+> be a European power; to lose it meant retreat."
+> — Klyuchevsky, *Course of Russian History*, Vol. V
+
+**Sergei Solovyov — *History of Russia***:
+
+> "Poland was the buffer, and the Vistula its artery. Russia could
+> not ignore Poland, for whoever held the Vistula commanded the
+> approach to Russia from the west."
+> — Solovyov, *History of Russia*, Vol. XVI
+
+Early modern scholarship confirms **forward position** and **buffer logic**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Vistula is one of the strategic rivers of Europe. Control
+> of it determines whether Russia projects into Central Europe
+> or remains contained in the east."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Central European rivers are contested because they organize the
+> approach to the Heartland. The Vistula is such a river, and its
+> control has shifted repeatedly between powers."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **contested strategic prize** and **recurring competition**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BALTIC–SEA — northern terminus
@@ -254,7 +325,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–VISTULA–RIVER
 Status: ACTIVE

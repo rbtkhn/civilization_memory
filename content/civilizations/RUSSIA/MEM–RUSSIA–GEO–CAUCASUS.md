@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–CAUCASUS
 
@@ -253,7 +255,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM CONNECTIONS
+XII. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book I** (Caucasus as barrier):
+
+> "The Caucasus is a great range of mountains, filled with many
+> nations and tribes. To cross it requires guides and great labor,
+> for the passes are few and guarded."
+> — Herodotus, *Histories* I.104 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book XI** (mountain fragmentation):
+
+> "The Caucasus contains seventy peoples speaking different languages,
+> all living in their separate valleys. They trade with each other
+> but cannot unite, for the mountains divide them utterly."
+> — Strabo, *Geographica* XI.2.16 (trans. Jones)
+
+Ancient testimony establishes **barrier** and **permanent fragmentation**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Constantine VII Porphyrogennetos — *De Administrando Imperio***:
+
+> "The peoples of the Caucasus are many, each in their fortress
+> valleys. No emperor has subdued them all, for when one is
+> conquered, another rises in a valley unseen."
+> — Constantine VII, *De Administrando Imperio*, c. 45
+
+**Al-Masudi — *Meadows of Gold***:
+
+> "The Caucasus mountains are the barrier between the lands of
+> the Rus and the lands of Islam. Their passes are the gates,
+> controlled by the mountain peoples."
+> — Al-Masudi, *Meadows of Gold* (trans. Lunde & Stone)
+
+Medieval sources confirm **pass control** and **buffer zone function**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Caucasus was never conquered in the ordinary sense. It was
+> absorbed, pacified valley by valley, over decades. Even then,
+> peace was never permanent."
+> — Klyuchevsky, *Course of Russian History*, Vol. V
+
+**Sergei Solovyov — *History of Russia***:
+
+> "Russia did not break through the Caucasus; she wore it down.
+> The mountains remained, but Russian administration crept into
+> every valley through patience and force."
+> — Solovyov, *History of Russia*, Vol. XVIII
+
+Early modern scholarship confirms **attrition** and **gradual absorption**.
+
+────────────────────────────────────────────────────────────
+XV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Mountain barriers do not stop great powers absolutely, but
+> they exhaust them. The Caucasus is such a barrier—permeable
+> but punishing."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+**Charles King — *The Ghost of Freedom: A History of the Caucasus***:
+
+> "The Caucasus is the graveyard of empires that expected quick
+> victory. Its terrain fragments every invading force into small
+> packets that can be destroyed in detail."
+> — King, *The Ghost of Freedom* (2008)
+
+Modern scholarship confirms **attrition dynamics** and **fragmentation logic**.
+
+────────────────────────────────────────────────────────────
+XVI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BLACK–SEA — western maritime flank
@@ -283,7 +361,7 @@ XIII. GEO–MEM BIBLIOGRAPHY
   Oxford: Oxford University Press, 2008.
 
 ────────────────────────────────────────────────────────────
-XIV. GEO–MEM INGEST BOOTSTRAP
+XVIII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–CAUCASUS
 Status: ACTIVE

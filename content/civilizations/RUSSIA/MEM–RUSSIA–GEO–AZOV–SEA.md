@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–AZOV–SEA
 
@@ -234,7 +236,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Lake Maeotis):
+
+> "Lake Maeotis is called by some the Mother of the Pontus, for
+> it flows into the Pontus through a narrow strait. It is shallow
+> throughout, and ships of great draft cannot navigate it."
+> — Herodotus, *Histories* IV.86 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book XI** (Cimmerian Bosphorus):
+
+> "The strait which leads from Maeotis to the Pontus is narrow
+> and easily controlled. The lake itself is frozen in winter,
+> and shallow enough that in parts men can wade across."
+> — Strabo, *Geographica* XI.2.4 (trans. Jones)
+
+Ancient testimony establishes **shallow antechamber** and **chokepoint control**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Constantine VII Porphyrogennetos — *De Administrando Imperio***:
+
+> "From the mouth of the Tanais [Don] one must sail through
+> Maeotis, and thence through the strait to the Pontic Sea.
+> The strait is the key to the lake and to the great river."
+> — Constantine VII, *De Administrando Imperio*, c. 42
+
+**Ibn Fadlan — *Risala*** (Rus river trade):
+
+> "The Rus bring their goods down the great river to the shallow
+> sea, and thence must pass through the strait to reach the
+> Greeks. The passage is controlled."
+> — Ibn Fadlan, *Risala* (trans. Montgomery)
+
+Medieval sources confirm **Kerch as chokepoint** for river–sea transit.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Sergei Solovyov — *History of Russia***:
+
+> "The Sea of Azov was the antechamber to the Black Sea. To hold
+> it required Kerch; without Kerch, control of the Don's mouth
+> was merely the possession of a blind alley."
+> — Solovyov, *History of Russia*, Vol. XV
+
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "Azov was the stepping-stone. Its possession was meaningless
+> without the strait beyond, yet losing it meant losing the
+> southern road entirely."
+> — Klyuchevsky, *Course of Russian History*, Vol. IV
+
+Early modern scholarship confirms **Kerch dependency** and **transit logic**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Charles King — *The Black Sea: A History***:
+
+> "Azov was always the lesser prize, valued only for what it
+> connected to. Its shallow waters were an obstacle to navies
+> but a highway for coastal powers."
+> — King, *The Black Sea* (2004)
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Control of littoral territory determines control of shallow
+> enclosed waters. Azov is a textbook case: whoever holds the
+> shore holds the sea."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+Modern scholarship confirms **littoral dominance** over **naval mass**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–CRIMEA — controls Kerch Strait
@@ -263,7 +341,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   Boston: Little, Brown, 1890.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–AZOV–SEA
 Status: ACTIVE

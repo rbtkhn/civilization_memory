@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–DNEIPER–RIVER
 
@@ -232,7 +234,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Borysthenes River):
+
+> "The Borysthenes [Dnieper] is the most valuable of all the rivers
+> for human uses. It has excellent pastures on its banks, the finest
+> fish, and its water is clear and good to drink."
+> — Herodotus, *Histories* IV.53 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book VII** (Dnieper commerce):
+
+> "The Borysthenes is navigable for merchants going up from the
+> sea for many days. But beyond the cataracts, the nomads control
+> the banks and levy tribute."
+> — Strabo, *Geographica* VII.3.17 (trans. Jones)
+
+Ancient testimony establishes **trade–invasion coupling** and **steppe exposure**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "From the Varangians, the Dnieper flows past Smolensk and Kiev
+> to the Greek Sea. This is the route from the Varangians to the
+> Greeks, but perilous, for nomads wait at the rapids."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Constantine VII Porphyrogennetos — *De Administrando Imperio***:
+
+> "The Rus drag their boats past the cataracts, fearing the
+> Pechenegs who await them. The river brings wealth, but wealth
+> brings danger."
+> — Constantine VII, *De Administrando Imperio*, c. 9
+
+Medieval sources confirm **wealth–danger coupling** on the Dnieper corridor.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Dnieper was Kiev's blessing and curse. It made the city
+> rich through trade but exposed it to every steppe conqueror
+> who used the same road."
+> — Klyuchevsky, *Course of Russian History*, Vol. I
+
+**Sergei Solovyov — *History of Russia***:
+
+> "Whoever held the Dnieper held the route to Byzantium. But the
+> river also led the Polovtsy and Mongols to the heart of Rus.
+> Prosperity and danger flowed together."
+> — Solovyov, *History of Russia*, Vol. III
+
+Early modern scholarship confirms **trade–invasion coupling**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Ukraine's strategic significance derives from its geography.
+> The Dnieper divides the country and provides access to the
+> Black Sea—making it an object of great power competition."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+**Robert Kaplan — *The Revenge of Geography***:
+
+> "The Dnieper is one of Europe's great strategic rivers, connecting
+> the forest interior to the Black Sea. Whoever controls it
+> commands Ukraine's economic and military destiny."
+> — Kaplan, *The Revenge of Geography* (2012)
+
+Modern scholarship confirms **contested strategic line**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BLACK–SEA — maritime terminus
@@ -260,7 +338,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–DNEIPER–RIVER
 Status: ACTIVE

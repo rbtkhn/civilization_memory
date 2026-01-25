@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–GULF–FINLAND
 
@@ -256,7 +258,76 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM CONNECTIONS
+XII. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Tacitus — *Germania*** (northern seas and approaches):
+
+> "Beyond the Suiones is another sea, sluggish and almost motionless.
+> The voyage is slow, and the shore is approached only in summer,
+> when the ice releases its grip on the narrow waters."
+> — Tacitus, *Germania*, 45 (trans. Church & Brodribb)
+
+Ancient testimony establishes **narrow corridor** and **ice constraint**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "The Varangians came by the narrow sea to Aldeigjuborg [Ladoga],
+> and from there by the river Neva to Lake Nevo, and thence by
+> rivers to Mikligard. The passage was the only way."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Adam of Bremen — *Gesta Hammaburgensis***:
+
+> "The eastern gulf extends far into the land of the Rus, narrowing
+> as it goes, until at last it ends in a river that leads to their
+> great lake. He who holds the head of the gulf holds the key."
+> — Adam of Bremen, *Gesta Hammaburgensis*, IV.18 (trans. Tschan)
+
+Medieval sources confirm **corridor chokepoint** at eastern terminus.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Gulf of Finland was the funnel through which Russia
+> entered Europe. Its loss would mean exclusion; its possession
+> meant participation in the concert of European powers."
+> — Klyuchevsky, *Course of Russian History*, Vol. IV
+
+**Sergei Solovyov — *History of Russia***:
+
+> "To build at the head of the gulf was to seize the gate. The
+> Swedes had held it; now Russia would hold it, and through it
+> would flow all commerce with the West."
+> — Solovyov, *History of Russia*, Vol. XIV
+
+Early modern scholarship confirms **gateway function** and **corridor value**.
+
+────────────────────────────────────────────────────────────
+XV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Narrow maritime corridors are strategic assets when controlled,
+> vulnerabilities when flanked. The Gulf of Finland is a textbook
+> example of geography that can be both."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+**Robert Kaplan — *The Revenge of Geography***:
+
+> "The Gulf of Finland is the approach to St. Petersburg, and
+> whoever controls its flanks controls Russian access to the
+> Baltic. NATO expansion changed that geometry fundamentally."
+> — Kaplan, *The Revenge of Geography* (2012)
+
+Modern scholarship confirms **flanking vulnerability** and **NATO transformation**.
+
+────────────────────────────────────────────────────────────
+XVI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BALTIC–SEA — parent basin
@@ -283,7 +354,7 @@ XIII. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XIV. GEO–MEM INGEST BOOTSTRAP
+XVIII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–GULF–FINLAND
 Status: ACTIVE

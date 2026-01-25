@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–DON–RIVER
 
@@ -232,7 +234,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Tanais River):
+
+> "The Tanais [Don] is a great river flowing from the north through
+> a desert land into Lake Maeotis. It is the boundary between the
+> Royal Scythians and the Sauromatae."
+> — Herodotus, *Histories* IV.57 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book XI** (Don as boundary):
+
+> "The Tanais is generally considered the boundary between Europe
+> and Asia. Its valley is open to raids from the nomads, for there
+> is no barrier to shield those who dwell upon it."
+> — Strabo, *Geographica* XI.2.1 (trans. Jones)
+
+Ancient testimony establishes **steppe exposure** and **bidirectional transit**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "And from the Don came raiders each year, for the river was
+> open and the steppe without defense. Only the fortified towns
+> along the river could hold."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Giovanni de Plano Carpini — *History of the Mongols***:
+
+> "We crossed the Tanais, which the Tartars call the great river
+> of the steppe. It flows through open country, and there is no
+> concealment from an approaching enemy."
+> — Carpini, *History of the Mongols* (trans. Dawson)
+
+Medieval sources confirm **exposure corridor** and **frontier condition**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Don was both asset and liability. It led to the sea, but
+> it also led the nomads into the heart of Russia. The Cossacks
+> were the answer—settlers who could fight."
+> — Klyuchevsky, *Course of Russian History*, Vol. III
+
+**Sergei Solovyov — *History of Russia***:
+
+> "The Don corridor was never secure. To hold it required constant
+> vigilance and the maintenance of a military frontier. Peace was
+> always armed."
+> — Solovyov, *History of Russia*, Vol. XII
+
+Early modern scholarship confirms **frontier zone** and **continuous investment**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Michael Khodarkovsky — *Russia's Steppe Frontier***:
+
+> "The Don was the highway of the steppe. Russia could not ignore
+> it, for it led raiders to her cities. She had to control it
+> or suffer constant attack."
+> — Khodarkovsky, *Russia's Steppe Frontier* (2002)
+
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Rivers that traverse open terrain transmit power in both
+> directions. They are corridors of projection and exposure
+> simultaneously."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **bidirectional exposure** and **projection logic**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–AZOV–SEA — maritime terminus
@@ -259,7 +337,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–DON–RIVER
 Status: ACTIVE

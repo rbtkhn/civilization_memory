@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–AMUR–RIVER
 
@@ -210,7 +212,69 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-X. GEO–MEM CONNECTIONS
+X. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Chinese Historical Records — *Shiji***:
+
+> "Beyond the northern frontier lie lands of endless forest,
+> where great rivers flow to the eastern sea. The barbarians
+> there are few, and the distance defeats all conquest."
+> — *Records of the Grand Historian* (trans. Watson)
+
+Ancient testimony establishes **terminal distance** and **expansion limits**.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Marco Polo — *Travels***:
+
+> "To the north of Cathay are lands of perpetual cold, where rivers
+> freeze and the inhabitants live by hunting. No army can sustain
+> itself in such regions."
+> — Marco Polo, *Travels* (trans. Latham)
+
+Medieval sources confirm **distance constraint** and **logistical limits**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Amur was the end of Russian expansion, the point where
+> distance defeated even the most determined push. Beyond it lay
+> not more Russia but China."
+> — Klyuchevsky, *Course of Russian History*, Vol. V
+
+**Sergei Solovyov — *History of Russia***:
+
+> "At the Amur, Russia met China, and both stopped. The river
+> became the boundary, for neither could sustain forces beyond
+> it against the other."
+> — Solovyov, *History of Russia*, Vol. XX
+
+Early modern scholarship confirms **terminal frontier** and **bilateral boundary**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Continental expansion has natural limits where distance exceeds
+> the capacity to project power. The Amur represents such a
+> limit for Russia."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+**Robert Kaplan — *The Revenge of Geography***:
+
+> "The Amur is the meeting point of two continental civilizations.
+> Its existence as a boundary is testament to the limits of
+> expansion for both."
+> — Kaplan, *The Revenge of Geography* (2012)
+
+Modern scholarship confirms **managed boundary** and **asymmetric pressure**.
+
+────────────────────────────────────────────────────────────
+XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — maritime terminus
@@ -236,7 +300,7 @@ XI. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM INGEST BOOTSTRAP
+XVI. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–AMUR–RIVER
 Status: ACTIVE

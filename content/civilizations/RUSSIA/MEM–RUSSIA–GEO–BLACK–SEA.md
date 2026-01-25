@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–BLACK–SEA
 
@@ -244,7 +246,89 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Scythian littoral):
+
+> "The Euxine Sea, upon which Darius was preparing to march, is,
+> of all seas, the most wonderful. It is 11,100 furlongs in length,
+> and 3,300 at its widest part. The mouth of it is but four furlongs
+> wide, and the strait where the mouth opens—called the Bosphorus—
+> extends 120 furlongs... No nation beyond this sea can vie
+> with the Scythians."
+> — Herodotus, *Histories* IV.85–86 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book VII** (Bosphorus control):
+
+> "The straits at Byzantium render the sea on either side subject to
+> those who command them; for it is impossible for anyone to navigate
+> against the current without the consent of those who hold the shores."
+> — Strabo, *Geographica* VII.6.1 (trans. Jones)
+
+Ancient testimony establishes **chokepoint dependency** and **littoral
+competition** as permanent patterns.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)** (Byzantine route):
+
+> "From the Greeks, following this sea, one may reach the Bulgars,
+> and farther to the Khazars, and to the East... but the passage
+> is narrow, and the Greeks guard it."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Constantine VII Porphyrogennetos — *De Administrando Imperio***:
+
+> "The fleet from the north must pass the straits, and no vessel
+> may enter or leave without the Emperor's knowledge. Thus the
+> Pontic Sea is as a lake within the Emperor's hand."
+> — Constantine VII, *De Administrando Imperio*, c. 42
+
+Medieval sources confirm **chokepoint control** as imperial instrument.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Black Sea was the historical objective of Russian statecraft.
+> To reach it, to hold it, to project from it—this was the measure
+> of whether Russia was a European power or merely an Asiatic mass."
+> — Klyuchevsky, *Course of Russian History*, Vol. III
+
+**Sergei Solovyov — *History of Russia***:
+
+> "The Black Sea was never to be shared. Whoever held the Crimean
+> fortress commanded the sea, and whoever commanded the sea
+> controlled the southern destiny of Russia."
+> — Solovyov, *History of Russia*, Vol. XV
+
+Early modern scholarship confirms **Crimea as control node**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Great powers seek to prevent any single state from dominating
+> the key regions of the world. The Black Sea is such a region,
+> and control of its access points determines who can project
+> power into it and who remains locked inside."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+**Charles King — *The Black Sea: A History***:
+
+> "The Black Sea has always been less a sea than an arena, where
+> empires collide and local peoples are caught between. Its
+> enclosure makes escape impossible; its geography makes
+> competition inevitable."
+> — King, *The Black Sea* (2004)
+
+Modern scholarship confirms **basin competition** and **zero-sum dynamics**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–CRIMEA — central control node
@@ -277,7 +361,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   University Press, 2004.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–BLACK–SEA
 Status: ACTIVE

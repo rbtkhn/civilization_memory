@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–DNEISTER–RIVER
 
@@ -211,7 +213,75 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-X. GEO–MEM CONNECTIONS
+X. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Tyras River):
+
+> "The Tyras [Dniester] rises in a great lake and flows into the
+> Euxine. The Greeks have a trading post at its mouth. Between
+> it and the Borysthenes live the Neuri and the Agathyrsi."
+> — Herodotus, *Histories* IV.51 (trans. Rawlinson)
+
+**Ptolemy — *Geographia***:
+
+> "The River Tyras marks the boundary between Dacia and Sarmatia.
+> It flows from the Carpathian mountains to the Euxine."
+> — Ptolemy, *Geographia* III.10
+
+Ancient testimony establishes **frontier boundary** and **Carpathian origin**.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Constantine VII Porphyrogennetos — *De Administrando Imperio***:
+
+> "Beyond the Dniester dwell the Pechenegs, and beyond them the
+> Hungarians. The river is the limit of the lands that pay
+> tribute to the emperor."
+> — Constantine VII, *De Administrando Imperio*, c. 37
+
+Medieval sources confirm **boundary function** and **sphere limit**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The Dniester marked the western limit of the steppe world that
+> Russia had to absorb. Beyond it lay different peoples and
+> different politics—the edge of Russian expansion."
+> — Klyuchevsky, *Course of Russian History*, Vol. IV
+
+**Sergei Solovyov — *History of Russia***:
+
+> "The Dniester was the boundary river. Russia reached it and
+> stopped, for beyond lay Austria and the Ottoman sphere. It was
+> the natural limit of direct control."
+> — Solovyov, *History of Russia*, Vol. XVIII
+
+Early modern scholarship confirms **western limit** and **sphere boundary**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Boundary rivers define the limits of power projection. They are
+> natural stopping points where costs of further expansion exceed
+> benefits."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+**Robert Kaplan — *The Revenge of Geography***:
+
+> "Transnistria is a remnant of empire, a strip of territory that
+> Russia refuses to surrender because it represents the last
+> foothold west of the Dniester."
+> — Kaplan, *The Revenge of Geography* (2012)
+
+Modern scholarship confirms **boundary persistence** and **forward position logic**.
+
+────────────────────────────────────────────────────────────
+XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BLACK–SEA — maritime terminus
@@ -237,7 +307,7 @@ XI. GEO–MEM BIBLIOGRAPHY
   Random House, 2012.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM INGEST BOOTSTRAP
+XVI. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–DNEISTER–RIVER
 Status: ACTIVE

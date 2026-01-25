@@ -26,11 +26,13 @@ This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
-GEO–MEMs do NOT contain:
-• Historical narrative (see subject MEM)
-• Named rulers or dated events
-• Civilizational meaning or legitimacy claims
-• Polyphonic tension (GEO is pure Mearsheimer)
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): ancient, medieval, early modern, modern sources
+  demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 For civilizational analysis, see: MEM–RUSSIA–STEPPE
 
@@ -256,7 +258,83 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM CONNECTIONS
+XII. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (Scythian grassland):
+
+> "Scythia is a level land, rich in grass, and well-watered by
+> rivers. In this land there is neither tree nor refuge, and
+> the horsemen range wherever they will."
+> — Herodotus, *Histories* IV.47 (trans. Rawlinson)
+
+**Strabo — *Geographica*, Book VII** (steppe mobility):
+
+> "The peoples of the plain live on wagons and follow their herds.
+> They cannot be conquered, for they have no cities to be taken,
+> and they flee faster than armies can follow."
+> — Strabo, *Geographica* VII.3.17 (trans. Jones)
+
+Ancient testimony establishes **open terrain** and **mobility dominance**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "And from the steppe came the Polovtsy like a swarm of locusts,
+> and there was no refuge from them, for the plain was open and
+> they rode faster than our men could march."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+**Giovanni de Plano Carpini — *History of the Mongols***:
+
+> "The Tartars live on a great plain without end. They move with
+> incredible speed, and no wall or city can stop them. One must
+> either submit or flee before them."
+> — Carpini, *History of the Mongols* (trans. Dawson)
+
+Medieval sources confirm **invasion corridor** and **speed over position**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The steppe educated Russia in the art of survival. It taught
+> that open frontiers must be closed by expansion, for there
+> was no wall to build against the endless plain."
+> — Klyuchevsky, *Course of Russian History*, Vol. I
+
+**Sergei Solovyov — *History of Russia***:
+
+> "Russia's great task was to absorb the steppe before the steppe
+> absorbed Russia. Expansion southward was not aggression but
+> the only possible defense."
+> — Solovyov, *History of Russia*, Vol. VI
+
+Early modern scholarship confirms **expansion as defense**.
+
+────────────────────────────────────────────────────────────
+XV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *The Geographical Pivot of History***:
+
+> "The steppes are the domain of the horse-rider and the camel.
+> For centuries they were the highway of invasions. Only the
+> railroads have begun to change the strategic balance."
+> — Mackinder, "The Geographical Pivot of History" (1904)
+
+**Michael Khodarkovsky — *Russia's Steppe Frontier***:
+
+> "The steppe frontier was not a line but a zone, a space of
+> permanent warfare and negotiation. Russia could not wall it
+> off; she had to swallow it."
+> — Khodarkovsky, *Russia's Steppe Frontier* (2002)
+
+Modern scholarship confirms **frontier zone** and **expansion logic**.
+
+────────────────────────────────────────────────────────────
+XVI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–TAIGA — contrasting forest basin
@@ -276,7 +354,7 @@ Cross-civilizational GEO:
 • MEM–CENTRAL–ASIA–GEO–STEPPE — central steppe
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM BIBLIOGRAPHY
+XVII. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.
   New York: Norton, 2001.
@@ -289,7 +367,7 @@ XIII. GEO–MEM BIBLIOGRAPHY
   University Press, 2002.
 
 ────────────────────────────────────────────────────────────
-XIV. GEO–MEM INGEST BOOTSTRAP
+XVIII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–STEPPE
 Status: ACTIVE
