@@ -1,4 +1,4 @@
-MEM–RUSSIA–RACHMANINOV — v2.0
+MEM–RUSSIA–ART–RACHMANINOV — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
@@ -263,5 +263,5 @@ G. Orthodox liturgical influence (*All-Night Vigil*)
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–RACHMANINOV v2.0
+END OF FILE — MEM–RUSSIA–ART–RACHMANINOV v2.0
 ────────────────────────────────────────────────────────────
