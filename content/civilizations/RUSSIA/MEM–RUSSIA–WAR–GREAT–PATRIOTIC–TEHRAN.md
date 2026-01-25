@@ -286,6 +286,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Erickson, John. *The Road to Berlin: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1983.
 • Feis, Herbert. *Churchill, Roosevelt, Stalin: The War They
   Waged and the Peace They Sought*. Princeton: Princeton
   University Press, 1957.

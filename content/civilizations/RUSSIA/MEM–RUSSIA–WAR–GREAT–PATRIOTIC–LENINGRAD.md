@@ -289,6 +289,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 • Salisbury, Harrison E. *The 900 Days: The Siege of Leningrad*.
   New York: Harper & Row, 1969.
 • Glantz, David M. *The Siege of Leningrad, 1941–1944*.

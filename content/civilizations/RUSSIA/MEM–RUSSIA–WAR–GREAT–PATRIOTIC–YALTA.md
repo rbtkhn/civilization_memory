@@ -316,10 +316,12 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-• Feis, Herbert. *Churchill, Roosevelt, Stalin*.
-  Princeton: Princeton University Press, 1957.
+• Erickson, John. *The Road to Berlin: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1983.
 • Plokhy, Serhii. *Yalta: The Price of Peace*.
   New York: Viking, 2010.
+• Feis, Herbert. *Churchill, Roosevelt, Stalin*.
+  Princeton: Princeton University Press, 1957.
 • Kennan, George F. *Memoirs: 1925–1950*.
   Boston: Little, Brown, 1967.
 • Gaddis, John Lewis. *The United States and the Origins of
