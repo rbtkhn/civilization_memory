@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXANDER–I — v2.7
+MEM–RUSSIA–ALEXANDER–I — v2.9
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: FAILED PEACETIME LEGITIMACY · HOLY ALLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.9
+Supersedes: v2.8
+Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
@@ -21,6 +21,32 @@ Governed by:
 SUBJECT TYPE DECLARATION (v2.7):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.9) — DUAL MIND AUDIT IMPLEMENTATION
+────────────────────────────────────────────────────────────
+This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v2.2
+and CIV–MIND–MEARSHEIMER v2.2.
+
+POLYPHONIC INSIGHTS ADDED:
+• Legitimacy → Power Distribution: Regicide burden as psychology
+  vs. survival in hostile multipolar system
+• Guardianship → Capability: 1812 as legitimacy furnace vs.
+  strategic depth exploitation
+• Holy Alliance: Moral governance technology vs. power-preservation
+  mechanism
+• Decembrist Shock: Ideological exposure vs. elite overproduction
+
+CHANGES IMPLEMENTED:
+• Added Section III.A: REALIST SHARPENING — Power Distribution
+• Added Section VI.A: VICTORY AS POWER PROJECTION
+• Added Section VII.A: HOLY ALLIANCE AS POWER MECHANISM
+• Enhanced continuity insights with polyphonic tension
+• Integrated RLL–RUSSIA–0009/0010 pattern references
+
+No analytical deletions.
+No synthesis introduced.
+Contradictions preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -124,6 +150,30 @@ cohesion limits.
 
 Reform is subordinated to regime survivability.
 
+III.A REALIST SHARPENING: POWER DISTRIBUTION
+────────────────────────────────────────────────────────────
+The Mercouris reading frames Alexander's burden as legitimacy repair
+through moralized power. The realist sharpening adds: Alexander
+operated in a hostile multipolar system where survival was structural,
+not psychological.
+
+Power distribution circa 1801–1812:
+• Napoleon had demonstrated capacity to destroy states entirely
+• Prussia was dismembered after Jena (1806)
+• The Holy Roman Empire was dissolved (1806)
+• Austria was repeatedly defeated and humiliated
+• No European power except Britain remained unconquered
+
+Alexander's early reform rhetoric was not merely legitimacy repair—it
+was capability assessment. The question was not "how do I moralize
+power?" but "can Russia survive what is coming?"
+
+The structural insight: Alexander's oscillation between accommodation
+(Tilsit 1807) and resistance was not psychological inconsistency but
+rational calculation under uncertainty. Settlement bought time;
+collision was structurally likely. He needed to know when the balance
+favored resistance.
+
 ────────────────────────────────────────────────────────────
 IV. NAPOLEONIC SYSTEM PRESSURE & STRATEGIC ORIENTATION
 ────────────────────────────────────────────────────────────
@@ -180,6 +230,27 @@ transforming military success into normative claim.
 
 Victory becomes mandate.
 
+VI.A VICTORY AS POWER PROJECTION (REALIST SHARPENING)
+────────────────────────────────────────────────────────────
+The Mercouris reading frames post-1812 arbitration as moral authority
+earned through suffering. The realist sharpening adds: this was power
+earned through operational victory.
+
+Russia's 1813–1814 campaigns demonstrated:
+• Deployment of over 500,000 troops across central Europe
+• Coordination of coalition warfare across the continent
+• Sustained logistical operations at continental scale
+• Military occupation of Paris (March 1814)
+
+This operational achievement—not moral authority—transformed Alexander
+from defensive survivor into continental arbiter. The claim to shape
+post-war order rested on demonstrated capability to project power
+beyond Russian borders.
+
+The Congress of Vienna was not a legitimacy forum—it was a power
+distribution negotiation. Russia's voice was loud because its army
+was large and victorious.
+
 ────────────────────────────────────────────────────────────
 VII. HOLY ALLIANCE IMPULSE: MORAL LANGUAGE AS ORDER-MECHANISM
 ────────────────────────────────────────────────────────────
@@ -191,6 +262,26 @@ revolutionary recurrence without constant coercion.
 The Alliance text itself emphasizes that rulers are bound to “act as
 guardians of peace and faith against the contagion of disorder,”
 revealing moral language as strategic instrument.
+
+VII.A HOLY ALLIANCE AS POWER MECHANISM (REALIST SHARPENING)
+────────────────────────────────────────────────────────────
+The Mercouris reading frames the Holy Alliance as governance technology
+encoding moral order. The realist sharpening adds: it was a power-
+preservation mechanism.
+
+Alexander and the conservative monarchies were attempting to prevent
+any redistribution of power that might emerge from revolutionary
+movements. The moral language was instrumental—its purpose was to
+delegitimize challenges to the existing power distribution.
+
+The mechanism failed because:
+• You cannot freeze a system indefinitely
+• New power claimants emerge (liberal movements, nationalist elites)
+• Elite overproduction creates internal pressure (RLL–RUSSIA–0010)
+• Peacetime lengthens time, allowing bargaining and ideological diffusion
+
+The Holy Alliance was not defeated by superior morality—it was eroded
+by the structural impossibility of permanent status quo enforcement.
 
 ────────────────────────────────────────────────────────────
 VIII. REACTION, CONTROL, & THE FEAR OF REVOLUTION
@@ -278,6 +369,19 @@ HOLY ALLIANCE AS FAILED PEACETIME LEGITIMACY (v2.8 — RLL–RUSSIA–0009):
 • The solution his successors learned: consolidation follows victory,
   not relaxation. Peace must not be allowed to lengthen time.
 
+POLYPHONIC TENSIONS (v2.9 — DUAL MIND AUDIT):
+• MERCOURIS: Regicide creates legitimacy burden → moralized power repair
+• MEARSHEIMER: Hostile multipolar system → survival calculation
+• MERCOURIS: 1812 as legitimacy furnace → guardianship conversion
+• MEARSHEIMER: Strategic depth exploitation → capability demonstration
+• MERCOURIS: Holy Alliance as governance technology → moral order
+• MEARSHEIMER: Power-preservation mechanism → status quo enforcement
+• MERCOURIS: Decembrist shock as ideological exposure
+• MEARSHEIMER: Elite overproduction under extended peace (RLL–RUSSIA–0010)
+
+Both readings are valid. Neither is dismissed.
+Resolution is the user's task.
+
 ────────────────────────────────────────────────────────────
 XI. MEM CONNECTIONS (MANDATORY · v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
@@ -340,5 +444,5 @@ Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.8
+END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.9
 ────────────────────────────────────────────────────────────
