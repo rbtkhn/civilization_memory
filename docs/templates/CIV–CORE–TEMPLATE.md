@@ -6,12 +6,12 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Supersedes: CIV–CORE–TEMPLATE v1.9
 Upgrade Type: MAJOR · PHASE MODEL INTEGRATION + SCHOLARLY ENHANCEMENT
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.0+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v2.0 (global system law)
+• CIV–MEM–CORE v2.2+ (global system law)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
 • CIV–SCHOLAR–PROTOCOL v2.1+ (interaction layer only)
 
@@ -58,8 +58,8 @@ PRESERVED ELEMENTS:
 • Total structural lock governance
 • Clean separation from SCHOLAR cognition layer
 
-This upgrade synchronizes CORE template with SCHOLAR–PROTOCOL v2.0,
-SCHOLAR–TEMPLATE v2.0, and ARC–TEMPLATE v2.0 while maintaining CORE purity.
+This upgrade synchronizes CORE template with SCHOLAR–PROTOCOL v2.1,
+SCHOLAR–TEMPLATE v2.3, and ARC–TEMPLATE v2.7 while maintaining CORE purity.
 
 ────────────────────────────────────────────────────────────
 I. TEMPLATE PURPOSE & ROLE

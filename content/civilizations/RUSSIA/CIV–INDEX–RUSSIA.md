@@ -1,10 +1,10 @@
-CIV–INDEX–RUSSIA — v2.3
+CIV–INDEX–RUSSIA — v2.4
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.3
-Supersedes: CIV–INDEX–RUSSIA v2.2
+Version: 2.4
+Supersedes: CIV–INDEX–RUSSIA v2.3
 Upgrade Type: REGISTER RECONCILIATION · FULL DIRECTORY SYNC
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
@@ -14,6 +14,26 @@ Last Update: January 2026
 
 Derived from: CIV–INDEX–TEMPLATE v1.8
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.4) — FULL DIRECTORY SYNC
+────────────────────────────────────────────────────────────
+This version performs complete reconciliation with actual directory.
+
+v2.4 changes:
+• Removed 2 phantom entries (files listed but non-existent):
+  – MEM–RUSSIA–WAR–POLTAVA.md (does not exist; WAR–GREAT–NORTHERN–POLTAVA exists)
+  – MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md (does not exist)
+• Added 39 missing files across multiple categories
+• Added new J) ART category (10 files)
+• Added 13 WAR files (Great Patriotic War series + Austrian Succession)
+• Added 11 city/location files to OTHER
+• Added 3 Baltic state files to OTHER
+• Added 2 ethnic/cultural files to OTHER
+• Updated total count: 117 → 154 files
+• Updated category breakdown
+
+All index entries now verified against actual MEM files in directory.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.3) — FULL DIRECTORY SYNC
@@ -119,6 +139,7 @@ F. RELIGION
 G. PERSON
 H. HIST (Historiographical)
 I. OTHER / MISC
+J. ART
 
 ────────────────────────────────────────────────────────────
 II. FILE REGISTER — RUSSIA (RECONCILED)
@@ -154,10 +175,11 @@ A) GEO
 • MEM–RUSSIA–GEO–WHITE–SEA.md
 
 B) DYNASTY
-• MEM–RUSSIA–DYNASTY–RURIKID.md
 • MEM–RUSSIA–DYNASTY–ROMANOV.md
+• MEM–RUSSIA–DYNASTY–RURIKID.md
 
 C) WAR
+• MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION.md
 • MEM–RUSSIA–WAR–CHERVEN–CITIES.md
 • MEM–RUSSIA–WAR–CHUD.md
 • MEM–RUSSIA–WAR–CRIMEAN.md
@@ -165,6 +187,18 @@ C) WAR
 • MEM–RUSSIA–WAR–CUMANS.md
 • MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA.md
 • MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–BERLIN.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KHARKOV.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KURSK.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOSCOW.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–ODESSA.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BAGRATION.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–STALINGRAD.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN.md
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–YALTA.md
 • MEM–RUSSIA–WAR–GREAT–TURKISH.md
 • MEM–RUSSIA–WAR–KHAZAR–KHAGANATE.md
 • MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE.md
@@ -179,8 +213,6 @@ C) WAR
 • MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ.md
 • MEM–RUSSIA–WAR–NAPOLEON–BORODINO.md
 • MEM–RUSSIA–WAR–PECHENEGS.md
-• MEM–RUSSIA–WAR–POLISH–LITHUANIAN–COMMONWEALTH.md
-• MEM–RUSSIA–WAR–POLTAVA.md
 • MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE.md
 • MEM–RUSSIA–WAR–PUGACHEV–REBELLION.md
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
@@ -204,29 +236,29 @@ F) RELIGION
 • MEM–RUSSIA–THIRD–ROME.md
 
 G) PERSON
-• MEM–RUSSIA–RURIK.md
-• MEM–RUSSIA–OLEG–NOVGOROD.md
-• MEM–RUSSIA–VLADIMIR–GREAT.md
-• MEM–RUSSIA–YAROSLAV–WISE.md
-• MEM–RUSSIA–ALEXANDER–NEVSKY.md
-• MEM–RUSSIA–IVAN–III.md
-• MEM–RUSSIA–IVAN–IV.md
-• MEM–RUSSIA–MICHAEL–ROMANOV.md
-• MEM–RUSSIA–ALEXEI–ROMANOV.md
-• MEM–RUSSIA–FYODOR–III.md
-• MEM–RUSSIA–PETER–GREAT.md
-• MEM–RUSSIA–ELIZABETH.md
-• MEM–RUSSIA–CATHERINE–GREAT.md
-• MEM–RUSSIA–PAUL–I.md
 • MEM–RUSSIA–ALEXANDER–I.md
 • MEM–RUSSIA–ALEXANDER–II.md
-• MEM–RUSSIA–NICHOLAS–II.md
-• MEM–RUSSIA–PANIN.md
-• MEM–RUSSIA–POTEMKIN.md
-• MEM–RUSSIA–SUVOROV.md
+• MEM–RUSSIA–ALEXANDER–NEVSKY.md
+• MEM–RUSSIA–ALEXEI–ROMANOV.md
+• MEM–RUSSIA–CATHERINE–GREAT.md
+• MEM–RUSSIA–ELIZABETH.md
+• MEM–RUSSIA–FYODOR–III.md
+• MEM–RUSSIA–IVAN–III.md
+• MEM–RUSSIA–IVAN–IV.md
 • MEM–RUSSIA–KUTUZOV.md
 • MEM–RUSSIA–LENIN.md
+• MEM–RUSSIA–MICHAEL–ROMANOV.md
+• MEM–RUSSIA–NICHOLAS–II.md
+• MEM–RUSSIA–OLEG–NOVGOROD.md
+• MEM–RUSSIA–PANIN.md
+• MEM–RUSSIA–PAUL–I.md
+• MEM–RUSSIA–PETER–GREAT.md
+• MEM–RUSSIA–POTEMKIN.md
+• MEM–RUSSIA–RURIK.md
 • MEM–RUSSIA–STALIN.md
+• MEM–RUSSIA–SUVOROV.md
+• MEM–RUSSIA–VLADIMIR–GREAT.md
+• MEM–RUSSIA–YAROSLAV–WISE.md
 
 H) HIST (Historiographical)
 • MEM–RUSSIA–HIST–NIKON–CHRONICLE.md
@@ -237,28 +269,56 @@ I) OTHER / MISC
 • MEM–RUSSIA–BELARUS.md
 • MEM–RUSSIA–CONGRESS–VIENNA.md
 • MEM–RUSSIA–CONSTANTINOPLE.md
+• MEM–RUSSIA–COSSACKS.md
 • MEM–RUSSIA–CRIMEA.md
 • MEM–RUSSIA–CYRILLIC–SCRIPT.md
+• MEM–RUSSIA–ESTONIA.md
 • MEM–RUSSIA–FINLAND.md
 • MEM–RUSSIA–GOLDEN–HORDE.md
 • MEM–RUSSIA–JAPAN.md
-• MEM–RUSSIA–KIEVAN–RUS.md
+• MEM–RUSSIA–KALININGRAD.md
 • MEM–RUSSIA–KIEV.md
+• MEM–RUSSIA–KIEVAN–RUS.md
+• MEM–RUSSIA–LATVIA.md
 • MEM–RUSSIA–LIT–CHEKHOV.md
 • MEM–RUSSIA–LIT–DOSTOEVSKY.md
 • MEM–RUSSIA–LIT–GOGOL.md
 • MEM–RUSSIA–LIT–PUSHKIN.md
 • MEM–RUSSIA–LIT–TOLSTOY.md
+• MEM–RUSSIA–LITHUANIA.md
+• MEM–RUSSIA–MINSK.md
 • MEM–RUSSIA–MONGOL–EMPIRE.md
+• MEM–RUSSIA–MOSCOW.md
+• MEM–RUSSIA–MOSCOW–KREMLIN.md
 • MEM–RUSSIA–MUSCOVY.md
 • MEM–RUSSIA–NOVGOROD.md
+• MEM–RUSSIA–ODESSA.md
 • MEM–RUSSIA–OTTOMAN–EMPIRE.md
+• MEM–RUSSIA–PETERSBURG.md
+• MEM–RUSSIA–PETERSBURG–PETERHOF.md
 • MEM–RUSSIA–POLAND.md
+• MEM–RUSSIA–RIGA.md
 • MEM–RUSSIA–SIBERIA.md
+• MEM–RUSSIA–SLAVS.md
+• MEM–RUSSIA–SMOLENSK.md
 • MEM–RUSSIA–SWEDEN.md
 • MEM–RUSSIA–TIME–TROUBLES.md
 • MEM–RUSSIA–UKRAINE.md
 • MEM–RUSSIA–VARANGIANS.md
+• MEM–RUSSIA–VILNIUS.md
+• MEM–RUSSIA–VLADIVOSTOK.md
+
+J) ART
+• MEM–RUSSIA–ART–BOLSHOI.md
+• MEM–RUSSIA–ART–BORODIN.md
+• MEM–RUSSIA–ART–HERMITAGE.md
+• MEM–RUSSIA–ART–MUSSORGSKY.md
+• MEM–RUSSIA–ART–PROKOFIEV.md
+• MEM–RUSSIA–ART–RACHMANINOV.md
+• MEM–RUSSIA–ART–RIMSKY–KORSAKOV.md
+• MEM–RUSSIA–ART–SHOSTAKOVICH.md
+• MEM–RUSSIA–ART–STRAVINSKY.md
+• MEM–RUSSIA–ART–TCHAIKOVSKY.md
 
 ────────────────────────────────────────────────────────────
 III. ACADEMIC REFERENCES REGISTRY (RUSSIA · CORE-ALIGNED)
@@ -270,9 +330,9 @@ Rules (REINFORCED):
 • Inclusion is mandatory where relevant
 • Citation does not imply endorsement
 • Academic quotation MUST include:
-–Author
-–Work title
-–Publication year
+  – Author
+  – Work title
+  – Publication year
 • Embedded quotations MUST be ≥25 words
 • No cap excerpts or ceiling limits permitted
 • Academic sources may frame but never override primary evidence
@@ -298,19 +358,20 @@ Approved Engagement Pool (Registrational Only):
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-Word Count: ~1,500
-TOTAL REGISTERED FILES: One hundred seventeen (117) MEM–RUSSIA OBJECTS
+Word Count: ~1,800
+TOTAL REGISTERED FILES: One hundred fifty-four (154) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 27 files
 • B) DYNASTY: 2 files
-• C) WAR: 33 files
+• C) WAR: 44 files
 • D) LAW: 2 files
 • E) ECON: 0 files
 • F) RELIGION: 2 files
 • G) PERSON: 23 files
 • H) HIST: 3 files
-• I) OTHER: 25 files
+• I) OTHER: 41 files
+• J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v2.3
+END OF FILE — CIV–INDEX–RUSSIA v2.4
