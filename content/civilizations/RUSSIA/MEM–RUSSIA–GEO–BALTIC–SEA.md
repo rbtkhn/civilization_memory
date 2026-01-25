@@ -1,10 +1,10 @@
-MEM–RUSSIA–GEO–BALTIC–SEA — v2.8
+MEM–RUSSIA–GEO–BALTIC–SEA — v2.8.1
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v1.3
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.8.1
+Supersedes: v2.8
+Upgrade Type: NORTHERN TRIAD ALIGNMENT
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Baltic Sea (Strategic–Geographic Basin)
 Dates: Permanent terrain logic (applies across all periods)
@@ -338,7 +338,7 @@ XV. ARC CATEGORY D — MODERN SCHOLARSHIP
 Modern scholarship confirms **encirclement** and **concentrated competition**.
 
 ────────────────────────────────────────────────────────────
-XVI. GEO–MEM CONNECTIONS
+XVI. GEO–MEM CONNECTIONS (v2.8.1 · TRIAD ALIGNED)
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–GULF–FINLAND — eastern extension
@@ -346,9 +346,18 @@ Related GEO–MEMs:
 • MEM–RUSSIA–GEO–LAKE–LADOGA — interior connection
 • MEM–RUSSIA–GEO–WHITE–SEA — alternative northern access
 • MEM–RUSSIA–GEO–ATLANTIC–OCEAN — ultimate projection goal
+• MEM–RUSSIA–GEO–SUWALKI–GAP — NATO chokepoint (Kaliningrad–Belarus)
+• MEM–RUSSIA–GEO–GOTLAND — Swedish island, central Baltic anchor
 
-Subject MEM (Mercouris cognition):
+Subject MEMs (Mercouris cognition):
 • MEM–RUSSIA–BALTIC–SEA — civilizational narrative, historical events
+• MEM–RUSSIA–FINLAND — northern buffer → NATO frontier (2022)
+• MEM–RUSSIA–SWEDEN — historical rival → NATO member (2024)
+
+Littoral Territory MEMs:
+• MEM–RUSSIA–LITHUANIA — Suwalki Gap anchor
+• MEM–RUSSIA–POLAND — southern shore power
+• MEM–RUSSIA–KALININGRAD — Russian exclave
 
 Cross-civilizational GEO:
 • MEM–SWEDEN–GEO–BALTIC — competing littoral power
