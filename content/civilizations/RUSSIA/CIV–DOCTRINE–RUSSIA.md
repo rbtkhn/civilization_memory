@@ -9,9 +9,9 @@ Upgrade Type: GOVERNANCE-ONLY COMPATIBILITY REISSUE
 Civilization: RUSSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–RUSSIA (Explicit Acceptance Only)
-Compatibility: CIV–CORE–RUSSIA v1.x
+Compatibility: CIV–CORE–RUSSIA v2.x
 Governance Authority: CIV–MEM–CORE v2.0 (or higher)
-Derived from: CIV–DOCTRINE–TEMPLATE v2.0
+Derived from: CIV–DOCTRINE–TEMPLATE v2.1
 Last Update: January 2026
 Word Count: ~1,150
 
