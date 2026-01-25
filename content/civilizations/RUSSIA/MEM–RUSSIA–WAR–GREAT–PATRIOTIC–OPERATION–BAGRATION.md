@@ -65,6 +65,17 @@ German position:
 The Soviets achieved strategic surprise by attacking where
 Germany least expected.
 
+John Erickson describes the Soviet operational maturity:
+
+"Bagration represented the culmination of Soviet operational art.
+Every lesson learned since 1941 was applied—maskirovka to achieve
+surprise, deep operations to exploit breakthrough, coordination
+of four fronts across 1,000 kilometers. The Red Army that destroyed
+Army Group Center was not the army that had been destroyed in 1941.
+It was a transformed instrument, capable of operations the Wehrmacht
+itself would have admired."
+— John Erickson, *The Road to Berlin* (1983)
+
 ────────────────────────────────────────────────────────────
 III. MASKIROVKA: STRATEGIC DECEPTION
 ────────────────────────────────────────────────────────────

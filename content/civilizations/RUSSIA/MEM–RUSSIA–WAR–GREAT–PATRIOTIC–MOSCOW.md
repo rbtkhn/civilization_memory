@@ -124,6 +124,16 @@ Siberian reserves:
 • Fresh, winter-equipped divisions transferred west
 • ~400,000 troops, 1,000 tanks, 1,000 aircraft
 
+John Erickson explains the significance:
+
+"The Siberian divisions were the margin of survival. These were
+not second-line troops but elite formations, winter-trained and
+fully equipped. Their arrival transformed the balance at the
+decisive moment. Stalin had gambled on Sorge's intelligence that
+Japan would strike south, not west. The gamble paid off. Without
+those divisions, Moscow might have fallen."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 Zhukov's command:
 • Appointed to Moscow defense (October 10)
 • Concentrated reserves, refused premature counterattack

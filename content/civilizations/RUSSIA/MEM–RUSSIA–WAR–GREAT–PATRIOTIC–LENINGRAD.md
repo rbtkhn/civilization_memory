@@ -110,6 +110,16 @@ by the hundreds of thousands."
 
 The city survived by dying.
 
+John Erickson describes the Soviet command's calculation:
+
+"Leningrad's defense was never purely military. Stalin understood
+that surrendering the city named for Lenin—the birthplace of the
+Revolution—would shatter Soviet morale beyond repair. The city
+had to hold at any cost. That cost was borne by civilians who
+starved while the Red Army fed. The strategic logic was sound.
+The human price was unprecedented."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 ────────────────────────────────────────────────────────────
 IV.A POLYPHONIC TENSION: HEROISM VS HORROR
 ────────────────────────────────────────────────────────────

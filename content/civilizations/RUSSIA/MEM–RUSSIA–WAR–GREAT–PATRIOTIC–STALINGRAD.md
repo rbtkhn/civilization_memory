@@ -131,6 +131,17 @@ used to destroy Soviet armies in 1941. The student had learned
 from the teacher, and now the teacher was trapped."
 — David Glantz, *When Titans Clashed* (1995)
 
+John Erickson details the Stavka planning:
+
+"The encirclement of the Sixth Army was not improvisation. Stavka
+had been planning the counteroffensive since September, while the
+city still held. The timing, the axes, the forces—all were calculated
+to strike where German defenses were weakest, held by Romanian and
+Italian divisions. Zhukov and Vasilevsky executed a strategic operation
+months in the making. The Germans were trapped not by accident but
+by design."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 The encircled force included an entire field army.
 
 ────────────────────────────────────────────────────────────

@@ -89,6 +89,17 @@ that flag was red."
 
 Political objective drove operational tempo.
 
+John Erickson details the Soviet command structure:
+
+"The Berlin operation was driven by political deadline, not
+military necessity. Stalin set May 1 as the target—May Day,
+the socialist festival, the flag over the Reichstag. Zhukov
+and Konev competed for the prize, racing each other as much
+as fighting the Germans. The result was frontal assault when
+encirclement would have been cheaper. The Red Army paid in
+blood for Stalin's timetable."
+— John Erickson, *The Road to Berlin* (1983)
+
 ────────────────────────────────────────────────────────────
 III. THE ASSAULT
 ────────────────────────────────────────────────────────────

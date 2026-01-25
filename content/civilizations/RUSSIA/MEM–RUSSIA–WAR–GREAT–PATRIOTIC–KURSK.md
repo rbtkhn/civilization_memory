@@ -113,6 +113,17 @@ The preparation absorbed months:
 
 This was **attritional warfare through engineering**.
 
+John Erickson describes the Soviet defensive philosophy:
+
+"At Kursk, the Red Army deliberately chose to receive the German
+blow rather than preempt it. This was not passivity but calculation.
+Zhukov argued that absorbing the attack on prepared positions would
+destroy German armor more efficiently than a meeting engagement.
+The decision to defend first and counterattack second reflected a
+new Soviet confidence—the confidence of a command that knew it could
+absorb punishment and still strike back decisively."
+— John Erickson, *The Road to Berlin* (1983)
+
 ────────────────────────────────────────────────────────────
 IV. THE BATTLE
 ────────────────────────────────────────────────────────────

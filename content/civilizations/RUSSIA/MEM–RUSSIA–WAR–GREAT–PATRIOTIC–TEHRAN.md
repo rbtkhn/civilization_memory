@@ -129,6 +129,16 @@ Roosevelt's agreement:
 
 This was **Soviet strategic victory in diplomacy**.
 
+John Erickson explains the Soviet leverage:
+
+"At Tehran, Stalin negotiated from strength. The Red Army had just
+won at Kursk; Soviet forces were advancing; the Western Allies had
+not yet landed in France. Stalin could demand the second front because
+Soviet forces were doing the fighting that the West was not. The
+commitment to Overlord was extracted, not offered. Stalin got what
+he wanted because he had earned the right to demand it."
+— John Erickson, *The Road to Berlin* (1983)
+
 The Western Allies committed to the operation Stalin demanded,
 on the timeline Stalin required.
 

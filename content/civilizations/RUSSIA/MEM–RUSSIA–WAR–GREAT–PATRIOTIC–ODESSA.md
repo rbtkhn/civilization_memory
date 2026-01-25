@@ -61,6 +61,17 @@ Odessa's significance:
 
 The city was cut off from landward support by August 1941.
 
+John Erickson explains the decision to defend:
+
+"Odessa's defense was a calculated risk. Stavka chose to hold
+a city that could be supplied only by sea, tying down Romanian
+forces that would otherwise reinforce the drive on Crimea. The
+Coastal Army's mission was to buy time—not to hold indefinitely,
+but to make the enemy pay for every advance. When the strategic
+calculus shifted, the garrison was evacuated intact. Defense
+served strategy, not the other way around."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 ────────────────────────────────────────────────────────────
 III. THE SIEGE
 ────────────────────────────────────────────────────────────

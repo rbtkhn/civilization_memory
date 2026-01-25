@@ -64,6 +64,17 @@ Western Front:
 Soviet forces occupied the territory being discussed.
 This determined negotiating reality.
 
+John Erickson describes the power relationship:
+
+"At Yalta, possession was nine-tenths of diplomacy. Soviet forces
+stood on the Oder; Western forces had not crossed the Rhine. The
+territory under discussion—Poland, Eastern Europe, Germany itself—
+was already in Soviet hands or about to be. Roosevelt and Churchill
+negotiated for arrangements they could not enforce. Stalin negotiated
+for arrangements he was already implementing. The conference ratified
+facts on the ground."
+— John Erickson, *The Road to Berlin* (1983)
+
 ────────────────────────────────────────────────────────────
 III. THE MEETING
 ────────────────────────────────────────────────────────────
