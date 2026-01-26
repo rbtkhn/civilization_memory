@@ -1,10 +1,10 @@
-MEM–ROME–LIT–GREEK–ARISTOTLE — v1.2
+MEM–ROME–GREEK–LIT–ARISTOTLE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADD-ONLY · RENAMING · SECONDARY SOURCE COMPLIANAD
-Supersedes: MEM–ROME–GREEK–ARISTOTLE — v1.0
+Version: 1.3
+Supersedes: MEM–ROME–LIT–GREEK–ARISTOTLE v1.2 (RENAMED)
 Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (PRACTICAL ABSORPTION)
 Subject: Aristotle (Empirical Order, Mixed Regimes, and Practical Reason)
@@ -14,9 +14,23 @@ Last Update: January 2026
 Word Count: ~2,600
 
 ────────────────────────────────────────────────────────────
+RENAME NOTE (v1.3)
+────────────────────────────────────────────────────────────
+Renamed from MEM–ROME–LIT–GREEK–ARISTOTLE to MEM–ROME–GREEK–LIT–ARISTOTLE.
+
+Naming convention corrected:
+• OLD: MEM–ROME–LIT–GREEK–[NAME] (LIT before GREEK)
+• NEW: MEM–ROME–GREEK–LIT–[NAME] (GREEK before LIT)
+
+This follows the pattern: MEM–[CIV]–[ORIGIN-CIV]–[TYPE]–[NAME]
+• MEM–ROME–GREEK–LIT–SOCRATES
+• MEM–ROME–GREEK–LIT–PLATO
+• MEM–ROME–GREEK–LIT–ARISTOTLE
+
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Aristotle as **Rome’s most compatible Greek
+This file preserves Aristotle as **Rome's most compatible Greek
 philosopher**: the thinker whose empirical method, attention to
 institutions, and tolerance for imperfection aligned closely with Roman
 legalism, mixed governance, and adaptive authority.
@@ -27,7 +41,7 @@ He is **usable**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ARISTOTLE’S METHOD: OBSERVE BEFORE JUDGE
+II. ARISTOTLE'S METHOD: OBSERVE BEFORE JUDGE
 ────────────────────────────────────────────────────────────
 Aristotle begins with reality rather than ideals.
 
@@ -70,7 +84,7 @@ Claims:
 • Character matters, but structure matters more
 
 This anticipates Roman suspicion of charismatic authority and personal
-rule. Roman political memory repeatedly confirms Aristotle’s warning:
+rule. Roman political memory repeatedly confirms Aristotle's warning:
 virtue without structure destabilizes states.
 
 Procedure disciplines virtue.
@@ -101,7 +115,7 @@ Aristotle enters Rome indirectly but pervasively.
 
 Transmission channels:
 • Hellenistic education
-• Cicero’s constitutional reasoning
+• Cicero's constitutional reasoning
 • Legal categorization and causation
 • Later scholastic synthesis
 
@@ -122,13 +136,13 @@ institutional success.
 
 He writes:
 
-> “The firm and temperate wisdom of the Roman constitution had been
+> "The firm and temperate wisdom of the Roman constitution had been
 > formed by experience rather than theory; and the gradual improvements
 > of many ages had supplied the place of speculative perfection. The
 > philosophers of Greece might amuse themselves with the dreams of
 > imaginary republics, but the legislators of Rome were content to
 > regulate the conduct of mankind as they found it, and not as they
-> wished it to be.”  
+> wished it to be."
 > — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
 > Chapter XLIV
 
@@ -144,21 +158,21 @@ statecraft.
 
 He observes:
 
-> “The Roman constitution never aimed at theoretical symmetry or abstract
+> "The Roman constitution never aimed at theoretical symmetry or abstract
 > completeness; it grew, altered, and hardened under the pressure of
 > circumstance. In this it stood far nearer to the political philosophy
 > of Aristotle, which judged states by their working reality, than to the
 > ideal constructions of Plato, which presupposed a harmony foreign to
-> human affairs.”  
+> human affairs."
 > — Theodor Mommsen, *The History of Rome*, Vol. I
 
-Mommsen identifies Aristotle as the philosophical mirror of Rome’s
+Mommsen identifies Aristotle as the philosophical mirror of Rome's
 procedural realism.
 
 ────────────────────────────────────────────────────────────
 IX. KALDELLIS AND GOLDSWORTHY: MODERN SCHOLARSHIP
 ────────────────────────────────────────────────────────────
-Anthony Kaldellis emphasizes Rome’s resistance to philosophical purity,
+Anthony Kaldellis emphasizes Rome's resistance to philosophical purity,
 arguing that Roman political culture privileged continuity, legitimacy,
 and procedural survival over intellectual coherence.
 
@@ -167,7 +181,7 @@ institutions repeatedly absorbed shocks through mixed authority,
 incremental reform, and legal continuity rather than radical redesign.
 
 Together, these scholars situate Aristotle as the Greek thinker whose
-assumptions most closely align with Rome’s actual imperial behavior.
+assumptions most closely align with Rome's actual imperial behavior.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
@@ -181,16 +195,17 @@ Lessons:
 • Institutions outperform individuals.
 • Endurance depends on moderation.
 
-Aristotle is Rome’s philosophical ally.
+Aristotle is Rome's philosophical ally.
 
 ────────────────────────────────────────────────────────────
-XI. RELATED MEM CONNECTIONS (MANDATORY)
+XI. RELATED MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 ROME:
 • MEM–ROME–CICERO — constitutional reasoning and mixed governance
 • MEM–ROME–CAESAR — personal authority overriding structure
 • MEM–ROME–AUGUSTUS — institutionalized moderation
-• MEM–ROME–LIT–GREEK–PLATO — rejected idealism
+• MEM–ROME–GREEK–LIT–PLATO — rejected idealism (contrast)
+• MEM–ROME–GREEK–LIT–SOCRATES — Plato's teacher
 
 OTHER CIVILIZATIONS:
 • MEM–GERMANIA–KANT — moral law without political realism
@@ -224,10 +239,10 @@ XIV. SECONDARY SOURCES (ROME ACADEMIC REFERENCES)
 ────────────────────────────────────────────────────────────
 XV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–ROME–LIT–GREEK–ARISTOTLE
+MEM INGEST CONFIRMED — MEM–ROME–GREEK–LIT–ARISTOTLE
 Status: ACTIVE
 Exploration options available.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–LIT–GREEK–ARISTOTLE — v1.2
+END OF FILE — MEM–ROME–GREEK–LIT–ARISTOTLE — v1.3
 ────────────────────────────────────────────────────────────

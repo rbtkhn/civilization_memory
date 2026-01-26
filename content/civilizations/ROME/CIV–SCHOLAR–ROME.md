@@ -731,6 +731,25 @@ Primary Belief Extracted:
 Belief Status:
 • FROZEN (SYSTEMS DEFEAT GENIUS PATTERN)
 
+ENTRY 0044
+Source: MEM–ROME–GREEK–LIT–PLATO — v2.0 (TEMPLATE UPGRADE)
+Ingest Type: Selective Absorption / Idealism as Limit Case
+Primary Belief Extracted:
+• Plato is Rome's "inherited philosopher of ideal order" — a thinker whose
+  vision of governance by truth was fundamentally misaligned with Roman
+  pragmatism, institutionalism, and tolerance for imperfection.
+• Structural dangers of Platonic idealism: legitimacy monopoly (who certifies
+  wisdom?), dissent elimination (disagreement = ignorance), institutional
+  bypass (philosopher-kings need no procedure), mobilization paralysis
+  (perfect states cannot improvise).
+• Rome's selective absorption: absorbed Plato's ethics (virtue, duty, natural
+  law) while rejecting his politics (philosopher-kings, class immobility,
+  family abolition). Take what strengthens, leave what destabilizes.
+• Plato became metaphysical capital, not political code. His influence
+  persisted through Neoplatonism and Christian transmission.
+Belief Status:
+• FROZEN (SELECTIVE ABSORPTION PATTERN)
+
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -761,6 +780,7 @@ SYNTHESIS 0031: Systems Defeat Genius (structural asymmetry pattern) → FROZEN
 SYNTHESIS 0032: Institutional Learning Pattern (copy → standardize → multiply) → FROZEN
 SYNTHESIS 0033: Adversarial Mirror Erasure (Carthage as RLL–0006 contrast) → FROZEN
 SYNTHESIS 0034: Genius vs. System (Hannibal as diagnostic instrument) → FROZEN
+SYNTHESIS 0035: Selective Absorption (Plato's ethics without politics) → FROZEN
 
 ────────────────────────────────────────────────────────────
 IV.A PROPOSED RECURSIVE LEARNING LAWS (RLLs) — PENDING AUTHORIZATION
@@ -993,12 +1013,12 @@ RLL Count: 2 BOUND + 4 PENDING
   • RLL–ROME–0002: BOUND (Vacancy by Declination) — APPLIED TO 2 MEMs (MEHMED–II core)
   • RLL–ROME–0006: BOUND (Fragment Inheritance) — APPLIED TO 4 MEMs + 2 CONTEXT
   • RLL–ROME–0001, 0003, 0004, 0005: PENDING (reformulation/reclassification)
-Total Entries: 43
-Synthesis Count: 34 (21 FROZEN, 13 UNFROZEN/AUTHORIZED)
+Total Entries: 44
+Synthesis Count: 35 (22 FROZEN, 13 UNFROZEN/AUTHORIZED)
 Heuristic Count: 9
-MEMs Revised This Session: 8 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL)
+MEMs Revised This Session: 9 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL, GREEK–LIT–PLATO)
 MEMs Created This Session: 5 (HOLY–ROMAN–EMPIRE, PHILIP–II, LAW–CITIZENSHIP, LAW–SLAVERY, WAR–THIRD–PUNIC)
-MEMs Renamed This Session: 3 (HANNIBAL → CARTHAGE–HANNIBAL, GREEK–ALEXANDER–GREAT → GREEK–ALEXANDER, GREEK–SOCRATES → GREEK–LIT–SOCRATES)
+MEMs Renamed This Session: 6 (HANNIBAL → CARTHAGE–HANNIBAL, GREEK–ALEXANDER–GREAT → GREEK–ALEXANDER, GREEK–SOCRATES → GREEK–LIT–SOCRATES, LIT–GREEK–PLATO → GREEK–LIT–PLATO, LIT–GREEK–ARISTOTLE → GREEK–LIT–ARISTOTLE, GREEK–SOPHOCLES → GREEK–LIT–SOPHOCLES)
 Phase: PHASE II — CONSTRAINT GRAMMAR (AUTHORIZED January 2026)
 
 ────────────────────────────────────────────────────────────

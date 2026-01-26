@@ -1,8 +1,10 @@
-MEM–ROME–GREEK–SOPHOCLES — v1.0
+MEM–ROME–GREEK–LIT–SOPHOCLES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: MEM–ROME–GREEK–SOPHOCLES v1.0 (RENAMED)
 Civilization: ROME (GREEK TRAGIC INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (MORAL DIAGNOSTIC ADOPTION)
 Subject: Sophocles (Tragedy, Law, and Irreversible Error)
@@ -12,9 +14,24 @@ Last Update: January 2026
 Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
+RENAME NOTE (v1.1)
+────────────────────────────────────────────────────────────
+Renamed from MEM–ROME–GREEK–SOPHOCLES to MEM–ROME–GREEK–LIT–SOPHOCLES.
+
+The "LIT" infix indicates this is a literary/philosophical figure
+transmitted through texts, rather than a political/military figure.
+
+Naming convention: MEM–[CIV]–[ORIGIN-CIV]–[TYPE]–[NAME]
+• MEM–ROME–GREEK–LIT–SOCRATES (philosopher)
+• MEM–ROME–GREEK–LIT–PLATO (philosopher)
+• MEM–ROME–GREEK–LIT–ARISTOTLE (philosopher)
+• MEM–ROME–GREEK–LIT–SOPHOCLES (tragedian)
+• MEM–ROME–GREEK–ALEXANDER (political/military — no LIT)
+
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Sophocles as **Rome’s inherited diagnostician of
+This file preserves Sophocles as **Rome's inherited diagnostician of
 authority failure**: the tragedian whose works reveal how law, power,
 and moral certainty collapse when leaders exceed human limits.
 
@@ -47,7 +64,7 @@ Conflict:
 • State law (Creon)
 • Moral/divine law (Antigone)
 
-Creon’s failure:
+Creon's failure:
 • Rigidity
 • Refusal to hear counsel
 • Confusion of authority with infallibility
@@ -124,7 +141,7 @@ Lessons:
 • Counsel is structural, not optional.
 • Some losses define civilizations.
 
-Sophocles is Rome’s silent brake.
+Sophocles is Rome's silent brake.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -152,12 +169,12 @@ Secondary:
 ────────────────────────────────────────────────────────────
 X.a VERBATIM PRIMARY-SOURCE EXCERPTS
 ────────────────────────────────────────────────────────────
-“There is no greater evil than disobedience to authority.”
+"There is no greater evil than disobedience to authority."
 — Sophocles, *Antigone* (spoken, then refuted).
 
-“Count no man happy until he dies, free of pain at last.”
+"Count no man happy until he dies, free of pain at last."
 — Sophocles, *Oedipus Rex*.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GREEK–SOPHOCLES — v1.0
+END OF FILE — MEM–ROME–GREEK–LIT–SOPHOCLES — v1.1
 ────────────────────────────────────────────────────────────
