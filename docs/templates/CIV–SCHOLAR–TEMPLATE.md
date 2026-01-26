@@ -1,13 +1,36 @@
-CIV–SCHOLAR–TEMPLATE — v2.3
+CIV–SCHOLAR–TEMPLATE — v2.4
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.2
-Upgrade Type: ADDITIVE · ALIGNMENT PATCH
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.3
+Upgrade Type: ADDITIVE · MULTI-MIND RLL INTEGRATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.2+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.1+
 Last Update: January 2026
-WORDCOUNT: ~5,400
+WORDCOUNT: ~6,200
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.3 → v2.4 MULTI-MIND RLL INTEGRATION)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.3.
+
+v2.4 introduces the following ADDITIVE enhancements:
+
+• RLL Cognitive Attribution requirement (Section III)
+  – RLLs should declare cognitive frame derivation
+  – Enables frame-appropriate application
+• RLL Domain Categorization guidance (Section III)
+  – Optional organization by MEM type (WAR, GEO, etc.)
+  – Aids retrieval without affecting authority
+• Secondary Voice Invocation guidance (Section IX)
+  – Barnes catalyst integration for LEARN mode
+  – Mearsheimer sharpening support
+  – Voice transitions should be explicit
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.2 → v2.3 ALIGNMENT PATCH)
@@ -180,6 +203,34 @@ Once bound:
 • RLLs constrain future MEM and SCHOLAR edits
 • RLL violations MUST be flagged
 
+RLL COGNITIVE ATTRIBUTION (NEW · v2.4):
+Each RLL SHOULD declare its cognitive derivation:
+• Mearsheimer frame: strategic-structural analysis
+• Barnes frame: material-liability analysis
+• Mercouris frame: civilizational-narrative analysis
+• Cross-frame: multiple sources integrated
+
+Attribution format:
+  **[Frame] derivation**: [Brief description of analytical basis]
+
+Example:
+  **Barnes derivation**: Material foundation analysis; toll collection
+  as basis for political authority; bypass as decline mechanism.
+
+Attribution enables frame-appropriate application and aids
+cross-frame consistency checking.
+
+RLL DOMAIN CATEGORIZATION (NEW · v2.4 · OPTIONAL):
+Scholar files MAY organize RLLs by domain:
+• General civilizational RLLs (core patterns)
+• WAR MEM RLLs (conflict-specific constraints)
+• GEO MEM RLLs (geographic constraints)
+• [Other domain categories as needed]
+
+Domain categorization aids retrieval and application without
+affecting RLL authority. Categorization is OPTIONAL but
+RECOMMENDED when RLL count exceeds 15.
+
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (HARDENED)
 ────────────────────────────────────────────────────────────
@@ -319,6 +370,32 @@ Discovery rhetoric is appropriate:
 • “Here we see something that may generalize…”
 
 ────────────────────────────────────────────────────────────
+SECONDARY VOICE INVOCATION (NEW · v2.4):
+LEARN mode MAY invoke secondary cognitive frames to supplement
+the primary Mercouris voice:
+
+BARNES CATALYST:
+• Purpose: Material-liability analysis, toll logic, defection exposure
+• Register: "Who profits? Who defects? Where does the money flow?"
+• Invocation: Explicit request or OGE selection
+• Output: Material foundation insights, candidate RLLs with Barnes attribution
+
+MEARSHEIMER SHARPENING:
+• Purpose: Strategic-structural refinement, power distribution analysis
+• Register: Geographic constraints, security competition, relative capabilities
+• Invocation: Explicit request or OGE selection
+• Output: Strategic constraint insights, GEO-frame RLLs
+
+VOICE TRANSITION PROTOCOL:
+• Voice transitions MUST be explicit
+• Format: "[LEARN MODE — BARNES CATALYST]" or "[MEARSHEIMER SHARPENING]"
+• Return to primary: "[LEARN MODE — MERCOURIS PRIMARY]"
+• Secondary voices supplement; they do not replace Mercouris primary
+
+Secondary voice outputs may generate RLLs with frame attribution.
+All RLLs remain subject to user authorization for binding.
+
+────────────────────────────────────────────────────────────
 X. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
 ────────────────────────────────────────────────────────────
 SCHOLAR operates in two layers:
@@ -368,6 +445,12 @@ XII. VERSIONING & GOVERNANCE
 • All phase changes require explicit authorization
 • All RLL bindings require explicit authorization
 
+v2.4 ADDITIONS:
+• RLL Cognitive Attribution (Section III)
+• RLL Domain Categorization guidance (Section III)
+• Secondary Voice Invocation (Section IX)
+• Barnes catalyst and Mearsheimer sharpening integration
+
 v2.3 ADDITIONS:
 • RLL namespace-qualified format enforcement
 • Constraint-oriented synthesis exemption clarification
@@ -382,5 +465,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.3
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.4
 ────────────────────────────────────────────────────────────
