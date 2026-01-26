@@ -31,7 +31,7 @@ CORE GOVERNANCE:
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.4 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.3 (ADVISORY)
-• CIV–MIND–BARNES: v1.2 (TERTIARY CATALYST)
+• CIV–MIND–BARNES: v1.3 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v1.1
 
 TEMPLATES:
@@ -140,6 +140,7 @@ IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
 2026-01-26:
+• CIV–MIND–BARNES: v1.2 → v1.3 (WRITE MODE harmonization with CIV–MEM–CORE)
 • CMC–BOOTSTRAP: v1.0 → v1.1 (Barnes WRITE MODE fix, phase updates)
 • ROME: Phase I → Phase II (26 GEO–MEMs at v2.0, doctrine binding active)
 • VERSION–MANIFEST: Updated ROME phase status
