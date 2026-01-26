@@ -6,7 +6,7 @@ Fast Coherence Without Full Governance Ingest
 UPGRADE NOTE (v1.1)
 ────────────────────────────────────────────────────────────
 This version corrects discrepancies identified in v1.0:
-• Barnes WRITE MODE: Corrected to "OGE-available" (per CIV–MEM–CORE v2.2)
+• Barnes WRITE MODE: Corrected to "OGE-available" (per CIV–MEM–CORE v2.5)
 • Added CIV–MIND–TEMPLATE to version bindings
 • Updated phase status (ROME now Phase II)
 • Added ARC structure reference
@@ -60,7 +60,7 @@ OGE REQUIREMENTS (LEARN/IMAGINE):
 • 1 option MUST be Barnes invocation
 • 4 options topic/context-specific
 
-BARNES MODE AVAILABILITY (per CIV–MIND–BARNES v1.5):
+BARNES MODE AVAILABILITY (per CIV–MIND–BARNES v2.5):
 • WRITE MODE: OGE-required (1 option REQUIRED)
 • LEARN MODE: OGE-required (1 option REQUIRED)
 • IMAGINE MODE: OGE-required (1 option REQUIRED)

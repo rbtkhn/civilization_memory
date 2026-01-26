@@ -10,7 +10,7 @@ Upgrade Type: POLYPHONIC INTERACTION REFINEMENT (December 2025 panel transcript)
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
 • CIV–MIND–TEMPLATE v2.5 (REQUIRED)
-• CIV–MIND–MEARSHEIMER v2.3 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -672,7 +672,7 @@ proportions depending on file type:
 
 Neither voice is ever fully absent. File type determines emphasis.
 
-See: CIV–MEM–CORE v2.2, Section VP-1.g
+See: CIV–MEM–CORE v2.5, Section VP-1.g
 
 VI.F TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────

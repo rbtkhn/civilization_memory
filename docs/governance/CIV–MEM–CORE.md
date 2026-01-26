@@ -681,7 +681,7 @@ OGE SHOULD present Barnes option when:
 Barnes does NOT participate in Proportional Blend Law.
 Barnes is exploratory only — never used in MEM production.
 
-See: CIV–MIND–BARNES v1.1 for full tertiary catalyst specification.
+See: CIV–MIND–BARNES v2.5 for full tertiary catalyst specification.
 
 VP-1.g. PROPORTIONAL BLEND LAW (FILE TYPE RATIOS)
 ────────────────────────────────────────────────────────────
