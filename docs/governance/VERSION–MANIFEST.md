@@ -31,7 +31,7 @@ CORE GOVERNANCE:
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.4 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.3 (ADVISORY)
-• CIV–MIND–BARNES: v1.5 (TERTIARY CATALYST)
+• CIV–MIND–BARNES: v1.6 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v1.1
 
 TEMPLATES:
@@ -140,6 +140,7 @@ IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
 2026-01-26:
+• CIV–MIND–BARNES: v1.5 → v1.6 (mode-specific interjection framing)
 • CIV–MIND–BARNES: v1.4 → v1.5 (uniform mode requirements — Barnes required in ALL modes)
 • CIV–MIND–BARNES: v1.3 → v1.4 (POST-BARNES OGE requirements)
 • CIV–MIND–BARNES: v1.2 → v1.3 (WRITE MODE harmonization with CIV–MEM–CORE)
