@@ -4,7 +4,7 @@ Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-25
+Last Updated: 2026-01-26
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -74,7 +74,9 @@ ROME:
 │ CIV–DOCTRINE–ROME           │ v2.0    │ Active        │
 │ CIV–ARC–ROME                │ v1.9    │ Active        │
 └────────────────────────────────────────────────────────┘
-Phase: I (Accumulation)
+Phase: II (Constraint Grammar)
+RLLs Bound: 8+
+GEO–MEMs at v2.0: 26
 
 GERMANIA:
 ┌────────────────────────────────────────────────────────┐
@@ -136,6 +138,11 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-26:
+• CMC–BOOTSTRAP: v1.0 → v1.1 (Barnes WRITE MODE fix, phase updates)
+• ROME: Phase I → Phase II (26 GEO–MEMs at v2.0, doctrine binding active)
+• VERSION–MANIFEST: Updated ROME phase status
 
 2026-01-25:
 • CIV–MIND–MERCOURIS: v2.3 → v2.4 (polyphonic interaction)
