@@ -1,11 +1,11 @@
-CIV–MIND–MERCOURIS — v2.4
+CIV–MIND–MERCOURIS — v2.5
 Civilizational Memory Codex · Primary Mind
 Alexander Mercouris Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture · Proportional Blend Law
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (PRIMARY)
-Supersedes: CIV–MIND–MERCOURIS v2.3
+Supersedes: CIV–MIND–MERCOURIS v2.4
 Upgrade Type: POLYPHONIC INTERACTION REFINEMENT (December 2025 panel transcript)
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
@@ -25,6 +25,17 @@ Governed by:
 Source Material: Transcript analysis (24–25 January 2026 programs + December 2025 panel)
 Last Update: January 2026
 Word Count: ~4,800
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — BARNES ALIGNMENT UPDATE
+────────────────────────────────────────────────────────────
+This version aligns with CIV–MIND–BARNES v1.6.
+
+v2.5 updates:
+• Barnes now OGE-REQUIRED in ALL modes (not just LEARN/IMAGINE)
+• POST-BARNES OGE requirements apply to ALL modes
+• Mode-specific interjection framing documented
+• Barnes version reference updated to v1.6
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.4) — POLYPHONIC INTERACTION REFINEMENT
@@ -649,7 +660,7 @@ VI.D RULES
 • User navigates divergence
 • No autonomous invocation (OGE-triggered only)
 
-See: CIV–MIND–MEARSHEIMER v2.3 for full advisory specification.
+See: CIV–MIND–MEARSHEIMER v2.4 for full advisory specification.
 
 VI.E PROPORTIONAL BLEND LAW
 ────────────────────────────────────────────────────────────
@@ -665,35 +676,43 @@ See: CIV–MEM–CORE v2.2, Section VP-1.g
 
 VI.F TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────
-In LEARN and IMAGINE modes (NOT Write mode), a tertiary catalyst
-mind is available: CIV–MIND–BARNES.
+A tertiary catalyst mind is available in ALL modes: CIV–MIND–BARNES.
 
 BARNES is NOT a third parallel voice.
 BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER.
 
-Mode Availability:
-• WRITE MODE: Barnes OGE-available (appears as option, inactive until selected)
-• LEARN MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
-• IMAGINE MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
+Mode Availability (per CIV–MIND–BARNES v1.6):
+• WRITE MODE: Barnes OGE-REQUIRED (1 option mandatory)
+• LEARN MODE: Barnes OGE-REQUIRED (1 option mandatory)
+• IMAGINE MODE: Barnes OGE-REQUIRED (1 option mandatory)
 
-OGE REQUIREMENTS (LEARN/IMAGINE):
+Mode-Specific Framing:
+• WRITE MODE: Barnes provides EDITORIAL ADVICE (fix/enhance/create MEMs)
+• LEARN MODE: Barnes provides EXPLORATORY EXPANSION (optimize SCHOLAR)
+• IMAGINE MODE: Barnes provides COUNTERFACTUAL PROBING
+
+OGE REQUIREMENTS (ALL MODES):
 • OGE default target: 6 multiple choice options
 • 1 option MUST be Mearsheimer invocation (REQUIRED)
 • 1 option MUST be Barnes invocation (REQUIRED)
 • 4 options are topic/context-specific
 
+POST-BARNES OGE (ALL MODES):
+After every Barnes interjection, next OGE MUST include:
+• "Mercouris responds to Barnes" option
+• "Mearsheimer responds to Barnes" option
+
 When Barnes is invoked:
 1. Barnes interjection adds liability/defection dimension
-2. MERCOURIS responds with POST-BARNES insight (sees something new)
-3. MEARSHEIMER responds with POST-BARNES insight (sees something new)
-4. All readings are enriched, not merely supplemented
+2. POST-BARNES OGE presents M/M response options
+3. User selects which mind responds
+4. Selected mind sees something new (catalyst effect)
 
 Barnes does NOT participate in Proportional Blend Law.
-Barnes triggers insight in primary/secondary minds only in
-exploratory modes.
+Barnes triggers insight in primary/secondary minds in ALL modes.
 
-See: CIV–MIND–BARNES v1.1 for full tertiary catalyst specification.
+See: CIV–MIND–BARNES v1.6 for full tertiary catalyst specification.
 
 ────────────────────────────────────────────────────────────
 VII. RELATIONSHIP TO MIND LAYERS
@@ -706,7 +725,7 @@ CIV–MIND–MERCOURIS          (THIS FILE — PRIMARY)
 ↓
 CIV–MIND–MEARSHEIMER        (ADVISORY — SECONDARY)
 ↓
-CIV–MIND–BARNES             (TERTIARY CATALYST — LEARN/IMAGINE ONLY)
+CIV–MIND–BARNES             (TERTIARY CATALYST — ALL MODES)
 ↓
 MIND–[CIVILIZATION]     (evolving cognition)
 ↓
@@ -754,5 +773,5 @@ This file defines *how* Mercouris thinks —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MERCOURIS — v2.4
+END OF FILE — CIV–MIND–MERCOURIS — v2.5
 ────────────────────────────────────────────────────────────
