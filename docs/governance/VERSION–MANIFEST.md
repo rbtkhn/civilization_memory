@@ -26,7 +26,7 @@ These documents govern all CMC operations.
 Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.2
+• CIV–MEM–CORE: v2.5
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
@@ -140,6 +140,7 @@ IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
 2026-01-26:
+• CIV–MEM–CORE: v2.2 → v2.5 (MIND profile version alignment)
 • CIV–MIND–BARNES: v1.6 → v2.5 (expanded empirical fingerprint from Viva Frei Jan 2026)
 • CIV–MIND–TEMPLATE: v1.1 → v2.5 (tertiary catalyst integration)
 • CIV–MIND–MERCOURIS: v2.4 → v2.5 (Barnes alignment update)

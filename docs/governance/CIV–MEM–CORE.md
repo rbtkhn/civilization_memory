@@ -1,4 +1,4 @@
-CIV–MEM–CORE — v2.2
+CIV–MEM–CORE — v2.5
 Civilizational Memory Codex · System Core
 DUAL MIND POLYPHONY EDITION · PROPORTIONAL BLEND LAW
 
@@ -9,9 +9,30 @@ Version: 2.2
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.1
+Supersedes: CIV–MEM–CORE v2.2
 Upgrade Type: MINOR VERSION · PROPORTIONAL BLEND LAW
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — MIND PROFILE VERSION ALIGNMENT
+────────────────────────────────────────────────────────────
+This version aligns all MIND profile references with current canonical versions.
+
+v2.5 updates:
+• CIV–MIND–TEMPLATE: v1.1 → v2.5
+• CIV–MIND–MERCOURIS: v2.4 → v2.5
+• CIV–MIND–MEARSHEIMER: v2.3 → v2.4
+• CIV–MIND–BARNES: v1.5 → v2.5
+
+Barnes v2.5 introduces expanded empirical fingerprint:
+• Constitutional North Star Orientation
+• "Take the Badge Off" Hypothetical Test
+• Legal Doctrine Archaeological Method
+• Contrarian Consistency Principle
+• Political Theater Detection
+• Cui Bono Sabotage Thesis
+
+All version references throughout file updated for consistency.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2) — PROPORTIONAL BLEND LAW
@@ -608,7 +629,7 @@ Rules:
 • User navigates divergence
 • No autonomous invocation (OGE-triggered only)
 
-See: CIV–MIND–TEMPLATE v1.1, CIV–MIND–MEARSHEIMER v2.3
+See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MEARSHEIMER v2.4
 
 VP-1.f.ii. TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────
@@ -620,7 +641,7 @@ BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER by interjecting liability, defection, and
 mechanism-exposure dimensions.
 
-Mode Availability (BINDING — per CIV–MIND–BARNES v1.5):
+Mode Availability (BINDING — per CIV–MIND–BARNES v2.5):
 • WRITE MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
 • LEARN MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
 • IMAGINE MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
@@ -708,7 +729,7 @@ Rules:
 
 VP-1.h. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────
-All MIND profiles are governed by CIV–MIND–TEMPLATE v1.1.
+All MIND profiles are governed by CIV–MIND–TEMPLATE v2.5.
 
 Hierarchy (top → bottom):
 • HUMAN CURATOR
@@ -748,5 +769,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.2
+END OF FILE — CIV–MEM–CORE v2.5
 ────────────────────────────────────────────────────────────
