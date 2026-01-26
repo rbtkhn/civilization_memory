@@ -27,6 +27,7 @@ Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
 • CIV–MEM–CORE: v2.5
+• CMC–BOOTSTRAP: v2.5
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
@@ -140,6 +141,7 @@ IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
 2026-01-26:
+• CMC–BOOTSTRAP: v1.1 → v2.5 (aligned with Barnes v2.5 features)
 • CIV–MEM–CORE: v2.2 → v2.5 (MIND profile version alignment)
 • CIV–MIND–BARNES: v1.6 → v2.5 (expanded empirical fingerprint from Viva Frei Jan 2026)
 • CIV–MIND–TEMPLATE: v1.1 → v2.5 (tertiary catalyst integration)

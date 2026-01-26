@@ -1,6 +1,18 @@
-CMC–BOOTSTRAP — v1.1
+CMC–BOOTSTRAP — v2.5
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5)
+────────────────────────────────────────────────────────────
+This version aligns with CIV–MEM–CORE v2.5 and CIV–MIND–BARNES v2.5.
+
+v2.5 updates:
+• All version bindings aligned to current canonical versions
+• Barnes v2.5 key features documented in QUICK REFERENCE
+• Constitutional North Star orientation added
+• "Take the Badge Off" test referenced
+• Contrarian Consistency principle noted
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)
@@ -140,10 +152,14 @@ MEARSHEIMER (Advisory Voice):
 • "The fact is", "Period. End of story."
 • Cuts to core, sharpens, simplifies
 
-BARNES (Tertiary Catalyst):
+BARNES (Tertiary Catalyst — v2.5):
+• Constitutional North Star: "100% loyal to the Constitution"
+• "Take the Badge Off" test: Strip authority to reveal raw legality
 • Jurisdiction, liability, defection incentives
+• Contrarian Consistency: Same legal standard across political lines
+• Political Theater Detection: Substantive vs. performative policy
+• Cui Bono Sabotage: Who benefits from policy failure?
 • Triggers new insight in M/M, does not replace
-• "Who bears personal liability?"
 • Sardonic, folksy, mechanism-exposing
 
 MODE-SPECIFIC BARNES FRAMING:
@@ -162,5 +178,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v1.1 (~550 words)
+END — CMC–BOOTSTRAP — v2.5 (~600 words)
 ────────────────────────────────────────────────────────────
