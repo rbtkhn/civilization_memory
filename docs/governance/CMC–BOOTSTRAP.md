@@ -22,7 +22,7 @@ CORE GOVERNANCE:
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.4 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.3 (ADVISORY)
-• CIV–MIND–BARNES: v1.4 (TERTIARY CATALYST)
+• CIV–MIND–BARNES: v1.5 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v1.1
 
 TEMPLATES:
@@ -60,10 +60,15 @@ OGE REQUIREMENTS (LEARN/IMAGINE):
 • 1 option MUST be Barnes invocation
 • 4 options topic/context-specific
 
-BARNES MODE AVAILABILITY (per CIV–MEM–CORE v2.2):
-• WRITE MODE: OGE-available (passive until selected)
-• LEARN MODE: OGE-invoked (1 option REQUIRED)
-• IMAGINE MODE: OGE-invoked (1 option REQUIRED)
+BARNES MODE AVAILABILITY (per CIV–MIND–BARNES v1.5):
+• WRITE MODE: OGE-required (1 option REQUIRED)
+• LEARN MODE: OGE-required (1 option REQUIRED)
+• IMAGINE MODE: OGE-required (1 option REQUIRED)
+
+POST-BARNES OGE (ALL MODES):
+After Barnes interjection, next OGE MUST include:
+• Mercouris responds to Barnes option
+• Mearsheimer responds to Barnes option
 
 ────────────────────────────────────────────────────────────
 CURRENT PHASES

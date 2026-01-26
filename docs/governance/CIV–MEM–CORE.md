@@ -620,10 +620,15 @@ BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER by interjecting liability, defection, and
 mechanism-exposure dimensions.
 
-Mode Availability (BINDING):
-• WRITE MODE: Barnes OGE-available (appears as option, inactive until selected)
-• LEARN MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
-• IMAGINE MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
+Mode Availability (BINDING — per CIV–MIND–BARNES v1.5):
+• WRITE MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
+• LEARN MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
+• IMAGINE MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
+
+POST-BARNES OGE (ALL MODES):
+After every Barnes interjection, next OGE MUST include:
+• Mercouris responds to Barnes option
+• Mearsheimer responds to Barnes option
 
 OGE REQUIREMENTS (LEARN/IMAGINE):
 • OGE default target: 6 multiple choice options
