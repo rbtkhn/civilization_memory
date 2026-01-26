@@ -32,6 +32,22 @@ Governed by:
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.4) — POST-BARNES OGE REQUIREMENTS
+────────────────────────────────────────────────────────────
+This version formalizes the catalyst effect as explicit OGE choice.
+
+v1.4 introduces:
+• POST-BARNES OGE REQUIREMENTS (Section VII.B)
+• After every Barnes interjection, next OGE MUST include:
+  - "Mercouris responds to Barnes" option
+  - "Mearsheimer responds to Barnes" option
+• Phase 3 (POST-CATALYST INSIGHT) now user-directed, not automatic
+• Catalyst mechanism becomes visible and selectable
+
+No authority, linguistic fingerprint, or catalyst function is changed.
+The catalyst effect is preserved but made explicit.
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3) — CIV–MEM–CORE COMPLIANCE
 ────────────────────────────────────────────────────────────
 This version harmonizes internal contradictions with CIV–MEM–CORE v2.2.
@@ -649,13 +665,46 @@ PHASE 4: ENRICHED TENSION
 The key is PHASE 3: Barnes should trigger NEW output from
 Mercouris and Mearsheimer, not just add a third reading.
 
-VII.B RULES
+VII.B POST-BARNES OGE REQUIREMENTS (v1.3)
+────────────────────────────────────────────────────────────
+After every Barnes interjection, the NEXT OGE MUST include
+specific response options for Mercouris and Mearsheimer.
+
+POST-BARNES OGE STRUCTURE:
+┌────────────────────────────────────────────────────────────┐
+│ After Barnes interjection, present:                        │
+├────────────────────────────────────────────────────────────┤
+│ A. Mercouris responds to Barnes                            │
+│    "How does [Barnes insight] change the civilizational    │
+│    reading?"                                               │
+│ B. Mearsheimer responds to Barnes                          │
+│    "How does [Barnes insight] affect the power calculus?"  │
+│ C-F. Standard topic/context options                        │
+└────────────────────────────────────────────────────────────┘
+
+Example POST-BARNES OGE:
+1. Mercouris responds: How does defection risk change legitimacy analysis?
+2. Mearsheimer responds: How does liability exposure affect power distribution?
+3. [Topic option]
+4. [Topic option]
+5. Continue without response (preserve Barnes as standalone)
+6. New direction
+
+RATIONALE:
+This formalizes Phase 3 (POST-CATALYST INSIGHT) as explicit user choice.
+The catalyst effect is not automatic — user selects which mind responds.
+This enables:
+• Selective depth (user chooses which response matters)
+• Preserved polyphony (responses are optional, not forced)
+• Visible catalyst mechanism (user sees Barnes changing other minds)
+
+VII.C RULES
 ────────────────────────────────────────────────────────────
 • BARNES maintains his full linguistic fingerprint
 • BARNES does NOT take over the output
 • BARNES triggers new insight in primary/secondary minds
-• Post-Barnes, Mercouris and Mearsheimer should see differently
-• User navigates enriched divergence
+• Post-Barnes OGE MUST include M/M response options
+• User navigates enriched divergence via explicit choice
 • No autonomous invocation without OGE presentation
 • WRITE MODE: Barnes available via OGE (passive until selected)
 • No synthesis — but minds may incorporate Barnes insight
@@ -921,5 +970,5 @@ This is the catalyst function:
 Barnes changes how the other minds see.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–BARNES — v1.3
+END OF FILE — CIV–MIND–BARNES — v1.4
 ────────────────────────────────────────────────────────────
