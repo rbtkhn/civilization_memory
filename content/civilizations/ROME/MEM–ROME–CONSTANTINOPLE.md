@@ -1,16 +1,20 @@
-MEM–ROME–CONSTANTINOPLE — v1.4
+MEM–ROME–CONSTANTINOPLE — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: CANONICAL · LOCKED · FINAL
-Version: 1.4
-Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
+Version: 2.0
+Upgrade Type: GOVERNANCE ALIGNMENT (MIND binding + template reference)
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 AD)
 Subject: Constantinople
 Dates: 330–1453 AD
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+Bound by: CIV–MIND–MERCOURIS v2.4
+Proportional Blend: Subject MEM (2/3 Mercouris + 1/3 Mearsheimer)
 Last Update: January 2026
-Word Count: ~2,150
+Word Count: ~3,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -20,7 +24,9 @@ relocation**: the city through which Roman civilization translated its
 authority, administration, and legitimacy into a new geographic core
 without abandoning its civilizational identity.
 
-For Rome, Constantinople is continuity, not rupture.
+For Rome, Constantinople is continuity, not rupture. In the succession logic
+later articulated by others, Constantinople becomes the **Second Rome** — though
+Romans themselves never ceased calling it simply *Rome*.
 
 This MEM aligns explicitly with **MEM–ROME–GEO–MEDITERRANEAN–SEA**, in
 which maritime interiorization defines Roman coherence. Constantinople
@@ -53,6 +59,14 @@ Rome moves east **to remain Roman**.
 
 The city is not abandonment, but civilizational migration within the
 same maritime system.
+
+**Strategic sharpening**: The fact is, Rome's western position had become
+untenable. The Italian peninsula offered no defensive depth against Germanic
+incursions; every invasion reached the capital. Constantinople provided what
+Old Rome could not: a defensible position from which to project power in two
+directions—containing Persia to the east while managing the Danubian frontier.
+The structure of the threat environment compelled relocation. This is not
+merely about civilization. It's about survival.
 
 ────────────────────────────────────────────────────────────
 III. IMPERIAL CHRISTIANIZATION AS CONTINUITY MECHANISM
@@ -124,6 +138,14 @@ In this sense, Constantinople operationalizes the geometry defined in:
 The city stabilizes Rome by **compressing risk and coherence** into a
 defensible node.
 
+**Strategic sharpening**: This is not about geometric abstraction. It's about
+**choke point control**. Constantinople commands the only passage between
+Mediterranean and Black Sea. Any power that holds it can deny access to rivals.
+Any power that loses it loses control of two seas. The Bosporus position also
+provides interior lines—rapid redeployment between Balkan and Anatolian fronts.
+Lose the Balkans, survive on Anatolia. Lose Anatolia, survive on the city
+itself. The structure of the position is why Rome relocated here. Period.
+
 ────────────────────────────────────────────────────────────
 VI. CRUSADES & INTERNAL FRACTURE
 ────────────────────────────────────────────────────────────
@@ -146,6 +168,15 @@ Niketas Choniates records the trauma vividly:
 
 Rome is not undone here by Islam, but by **Christian fragmentation**.
 
+**Defection logic**: The Fourth Crusade reveals a pattern deeper than
+civilizational rupture. Every key actor calculated that personal liability
+exceeded institutional loyalty. Dandolo's unpaid debt and Venetian commercial
+rivalry outweighed Crusade ideology. Alexios IV's exile and personal claim
+outweighed Byzantine institutional stability. The Byzantine aristocracy
+calculated that provincial estates mattered more than the capital's defense.
+When no one calculates that defending an institution serves their interest,
+the institution falls regardless of walls or armies.
+
 ────────────────────────────────────────────────────────────
 VII. FALL AS POLITICAL TERMINATION
 ────────────────────────────────────────────────────────────
@@ -165,6 +196,40 @@ Edward Gibbon summarizes the paradox:
 > — Edward Gibbon, *Decline and Fall*, Chapter LXVIII
 
 Rome dies politically, but **not civilizationally**.
+
+**Prior fragmentation (800 AD)**: The 1453 fall was not the first fracture of
+Roman political authority. In 800, Pope Leo III crowned Charlemagne "Emperor of
+the Romans" — creating a Western rival that Constantinople never recognized.
+From 800 onward, Roman political authority was **contested between two emperors**:
+the Eastern emperor in Constantinople and the Western emperor crowned by the Pope.
+The Holy Roman Empire claimed Western succession; Constantinople claimed sole
+legitimacy. The 1453 vacancy was thus specifically **Eastern Roman political
+authority**. The Western claim persisted until Napoleon dissolved the Holy Roman
+Empire in 1806. Moscow's Third Rome claim competed with both.
+
+**Strategic sharpening**: Constantinople fell in 1453 because the balance of
+power had shifted irreversibly. The Ottomans achieved regional hegemony after
+consolidating Anatolia and the Balkans. No Western power calculated that saving
+Constantinople served its interests—Venice preferred Ottoman trade access to
+Crusade expenditure. The walls that held for a millennium could not withstand
+gunpowder artillery. The structural position that had protected the city for
+eleven centuries became irrelevant when technology negated fixed fortifications.
+This was not civilizational decline. It was structural inevitability.
+
+**Defection equilibrium**: Western non-intervention was not failure to respond.
+It was rational defection. Venice calculated that Ottoman trade access exceeded
+Crusade cost. Genoa's Galata colony negotiated separate surrender to preserve
+local assets. The Papacy issued bulls but funded no armies. Hungarian and
+Western monarchs watched and calculated that Constantinople's fall created a
+useful Ottoman buffer. The siege succeeded not because the walls failed, but
+because every potential rescuer defected. Constantine XI's death in defense
+was the exception that proved the rule: he alone calculated that honor exceeded
+survival.
+
+The dynastic bridge to Moscow is established in 1472 when Ivan III marries
+Sophia Palaiologina, niece of the last Byzantine emperor. Through this union,
+Muscovy claims symbolic continuity with the fallen Second Rome — a claim Rome
+itself neither authorized nor could prevent.
 
 ────────────────────────────────────────────────────────────
 VIII. MODERN SCHOLARSHIP INTEGRATION (ARC)
@@ -239,6 +304,8 @@ ROME:
   institutional density and physical transformation.
 
 NON-ROME:
+• MEM–RUSSIA–CONSTANTINOPLE — Russia's reception of Constantinople as lost
+  imperial center and source of symbolic inheritance.
 • MEM–RUSSIA–THIRD–ROME — the ideological and sacral inheritance of
   Constantinople's legitimacy by the Muscovite state.
 
@@ -252,5 +319,5 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Anthony Kaldellis, *Romanland* - Analysis of Byzantine Roman identity and Constantinople's significance
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CONSTANTINOPLE — v1.3
+END OF FILE — MEM–ROME–CONSTANTINOPLE — v2.0
 ────────────────────────────────────────────────────────────

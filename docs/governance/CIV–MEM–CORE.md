@@ -621,7 +621,7 @@ and MEARSHEIMER by interjecting liability, defection, and
 mechanism-exposure dimensions.
 
 Mode Availability (BINDING):
-• WRITE MODE: Barnes FORBIDDEN
+• WRITE MODE: Barnes OGE-available (appears as option, inactive until selected)
 • LEARN MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
 • IMAGINE MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
 

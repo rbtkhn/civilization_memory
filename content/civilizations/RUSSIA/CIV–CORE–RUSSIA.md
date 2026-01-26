@@ -1,9 +1,9 @@
-CIV–CORE–RUSSIA — v2.0.1
+CIV–CORE–RUSSIA — v2.1
 Civilizational Strategy Codex · Constraint-Hardened Endurance Edition
-Phase-Aware Template v2.0 Compliance · RLL Namespace Correction
+Phase-Aware Template v2.0 Compliance · Temporal Compression Doctrine
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
-Supersedes: CIV–CORE–RUSSIA v2.0
+Supersedes: CIV–CORE–RUSSIA v2.0.1
 Template Version Used: CIV–CORE–TEMPLATE v2.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Upgrade Type: ADDITIVE · TECHNICAL COMPLIANCE FIX

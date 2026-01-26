@@ -122,8 +122,7 @@ POLYPHONY PRESERVED:
 • User navigates divergence
 
 TERTIARY CATALYST: BARNES
-• OGE-invoked in LEARN and IMAGINE modes only
-• FORBIDDEN in WRITE mode
+• OGE-available in all modes (passive until selected in WRITE)
 • Triggers new insight in both MERCOURIS and MEARSHEIMER
 • Post-Barnes, both primary and advisory minds see differently
 • Barnes does NOT participate in Proportional Blend Law
@@ -136,7 +135,7 @@ MECHANISM SIMPLIFIED:
 • No mode changes
 • No auto-reset rules
 • Single OGE option: "Invoke Mearsheimer sharpening"
-• Barnes OGE-invoked in LEARN/IMAGINE modes only
+• Barnes OGE-available in all modes (passive in WRITE until selected)
 
 OGE REQUIREMENTS (LEARN/IMAGINE):
 • OGE default target: 6 multiple choice options

@@ -33,7 +33,7 @@ Active Constraints:
 • Mode Separation Law: ACTIVE
 • Proportional Blend Law: ACTIVE
 • OGE 6-option requirement: ACTIVE (LEARN/IMAGINE modes)
-• Barnes FORBIDDEN in WRITE: ACTIVE
+• Barnes OGE-available in WRITE: ACTIVE (passive until selected)
 
 ────────────────────────────────────────────────────────────
 III. RECENT SESSIONS
@@ -81,7 +81,7 @@ Topics:
 
 Decisions Made:
 • Barnes is tertiary CATALYST, not third parallel voice
-• Barnes FORBIDDEN in WRITE mode
+• Barnes OGE-available in WRITE mode (passive until selected)
 • Barnes OGE-invoked in LEARN/IMAGINE (1 option REQUIRED)
 • GEO–MEM files must be pure Mearsheimer structure
 • Proportional Blend Law confirmed: GEO=2/3M, Subject=2/3M

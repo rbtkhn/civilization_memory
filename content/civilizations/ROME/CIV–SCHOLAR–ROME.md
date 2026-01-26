@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v1.9
-Civilizational Strategy Codex · Scholar Accumulation Engine
-Learning–Chronology–Doctrine Journal
+CIV–SCHOLAR–ROME — v2.3
+Civilizational Strategy Codex · Scholar Constraint Grammar Engine
+Constraint Grammar Phase · Rome Civilization
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v1.8
-Upgrade Type: ADDITIVE · CONCEPTUAL CORRECTION (ACCUMULATED STATE ALIGNMENT)
+Supersedes: CIV–SCHOLAR–ROME v2.2
+Upgrade Type: MAJOR · PHASE II TRANSITION (CONSTRAINT GRAMMAR)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -14,10 +14,118 @@ Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
-• CIV–ARC–ROME v1.9 (EXTERNAL · MIRRORED)
+• CIV–ARC–ROME v2.0 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
-Word Count: ~3,900
+Word Count: ~5,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.3) — PHASE II TRANSITION (CONSTRAINT GRAMMAR)
+────────────────────────────────────────────────────────────
+This version formally transitions CIV–SCHOLAR–ROME from Phase I
+(Accumulation) to Phase II (Constraint Grammar).
+
+PHASE TRANSITION CONDITIONS MET:
+• Sufficient cross-MEM coherence demonstrated
+• Recurrent pattern confirmation across ≥15 MEM files
+• Multiple RLLs bound and Mearsheimer-validated
+• Failure-mode convergence achieved (fragment thesis)
+• Builder-burner sequence identified (Philip/Alexander)
+
+PHASE II OPERATIONAL RULES:
+1. Scholar may ingest new MEMs
+2. Scholar may perform Phase II synthesis strictly limited to:
+   • Constraint synthesis
+   • Failure-pattern synthesis
+   • Sequencing synthesis
+   • Boundary / negative-capability synthesis
+3. Scholar may NOT perform:
+   • Prescriptive synthesis
+   • Optimizing synthesis
+   • Closure-seeking synthesis
+   • Doctrinal synthesis
+4. New learning is evaluated against existing RLLs
+5. Novel claims are stress-tested for RLL compatibility
+6. Apparent exceptions are treated as anomaly candidates, not refutations
+
+BOUND RLLs (Constraint Grammar):
+• RLL–ROME–0002: Vacancy by Declination Law
+• RLL–ROME–0006: Fragment Inheritance Law
+
+Session Summary:
+• MEMs Revised: 3 (PAPACY, CHARLEMAGNE, ALEXANDER)
+• MEMs Created: 2 (HOLY–ROMAN–EMPIRE, PHILIP–II)
+• Total Entries: 35
+• Total Syntheses: 26 (13 FROZEN)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.2) — MEM REVISION + CREATION BACK-PROPAGATION
+────────────────────────────────────────────────────────────
+This version records learning from RLL-informed MEM work:
+
+MEMs Revised:
+• MEM–ROME–PAPACY v1.1 → v2.0 (RLL–0006 applied: fragment inheritance)
+• MEM–ROME–CHARLEMAGNE v1.0 → v2.0 (RLL–0006 applied: first fragmentation)
+
+MEMs Created:
+• MEM–ROME–HOLY–ROMAN–EMPIRE v2.0 (RLL–0006 + RLL–0002: Western fragment arc)
+
+New Learning Entries:
+• ENTRY 0031: Papacy as religious fragment + immobility thesis
+• ENTRY 0032: First fragmentation 800 AD + HRE as fragment claimant
+• ENTRY 0033: HRE as pseudo-Roman + longevity through weakness
+
+New Syntheses (FROZEN):
+• SYNTHESIS 0018: Papacy as Religious Fragment
+• SYNTHESIS 0019: First Fragmentation 800 AD
+• SYNTHESIS 0020: Papal Liability Management (Mearsheimer sharpening)
+• SYNTHESIS 0021: HRE as Western Fragment Arc
+• SYNTHESIS 0022: Longevity Through Weakness
+
+Total Entries: 33
+Total Syntheses: 22 (9 FROZEN, 13 UNFROZEN/AUTHORIZED)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1) — RLL AUTHORIZATION (MEARSHEIMER-VALIDATED)
+────────────────────────────────────────────────────────────
+This version records RLL authorization decisions following Mearsheimer
+structural validity testing.
+
+RLL Binding Decisions:
+• RLL–ROME–0002 (Vacancy by Declination): BOUND — structural validity STRONG
+• RLL–ROME–0006 (Fragment Inheritance): BOUND — structural validity STRONG
+
+RLL Pending Decisions:
+• RLL–ROME–0001 (Legitimacy Bifurcation): PENDING REFORMULATION — weak as stated
+• RLL–ROME–0003 (Immobility Inheritance): PENDING CONDITIONAL STRENGTHENING
+• RLL–ROME–0004 (Acceleration vs Causation): PENDING RECLASSIFICATION as H-ROME-10
+• RLL–ROME–0005 (Prior Fragmentation): PENDING REFORMULATION — weak as stated
+
+Bound RLLs now carry binding force in SCHOLAR operations.
+Pending RLLs require additional work before authorization.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0) — SYNTHESIS BACK-PROPAGATION
+────────────────────────────────────────────────────────────
+This version back-propagates insights from extended LEARN mode synthesis
+on Roman civilizational fragmentation, legitimacy bifurcation, and
+the structure of succession claims.
+
+v2.0 introduces:
+• ENTRY 0025–0030: New learning events from Constantinople synthesis
+• SYNTHESIS 0014–0017: New constraint-oriented synthesis entries
+• RLL–ROME–0001 through RLL–ROME–0006: Proposed Recursive Learning Laws
+• Heuristic H-ROME-07 through H-ROME-09: New pattern observations
+
+Key theses back-propagated:
+• Bifurcation thesis: Legitimacy split (political → Constantinople, religious → Papacy)
+• Vacancy thesis: Eastern Roman political authority became genuinely vacant in 1453
+• Immobility thesis: Papacy inherited by default (couldn't relocate)
+• Fragment thesis: Post-1453 claimants held fragments, none held the whole
+• Acceleration thesis: 1204 accelerated but didn't cause 1453
+
+All new entries are UNFROZEN pending user authorization.
+Phase transition to PHASE II (Constraint Grammar) is proposed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9)
@@ -338,6 +446,291 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
+ENTRY 0025
+Source: MEM–ROME–CONSTANTINOPLE — v2.0 (SYNTHESIS SESSION)
+Ingest Type: Synthesis / Legitimacy Fragmentation
+Primary Belief Extracted:
+• Roman legitimacy bifurcated by 600 AD: political authority to Constantinople,
+  religious authority to Rome (Papacy). This was structural, not theological.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–ROME–0001)
+
+ENTRY 0026
+Source: MEM–ROME–CONSTANTINOPLE — v2.0 (SYNTHESIS SESSION)
+Ingest Type: Synthesis / Vacancy Logic
+Primary Belief Extracted:
+• Eastern Roman political authority became genuinely vacant in 1453 because
+  the Ottomans declined to claim Roman succession. Moscow and HRE claimed
+  the vacancy but neither inherited structurally.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–ROME–0002)
+
+ENTRY 0027
+Source: MEM–ROME–CITY — v1.2 / MEM–ROME–PAPACY (SYNTHESIS SESSION)
+Ingest Type: Synthesis / Immobility Inheritance
+Primary Belief Extracted:
+• The Papacy inherited Rome's religious authority by default because it
+  could not relocate (Peter's tomb). Institutions that cannot defect
+  inherit when others flee.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–ROME–0003)
+
+ENTRY 0028
+Source: MEM–ROME–CONSTANTINOPLE — v2.0 (SYNTHESIS SESSION)
+Ingest Type: Synthesis / Acceleration vs Causation
+Primary Belief Extracted:
+• The 1204 Fourth Crusade accelerated Constantinople's fall by 50–100 years
+  but did not cause it. Structural factors (Ottoman rise, gunpowder) were
+  determinative regardless of 1204.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–ROME–0004)
+
+ENTRY 0029
+Source: MEM–ROME–CONSTANTINOPLE — v2.0 (SYNTHESIS SESSION)
+Ingest Type: Synthesis / Prior Fragmentation
+Primary Belief Extracted:
+• Roman political authority first fragmented in 800 AD when Pope Leo III
+  crowned Charlemagne, creating a rival Western emperor Constantinople
+  never recognized. The 1453 vacancy was specifically Eastern Roman
+  political authority; the Western claim persisted until 1806.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–ROME–0005)
+
+ENTRY 0030
+Source: CROSS-CIVILIZATIONAL SYNTHESIS (ROME/RUSSIA/ISLAM)
+Ingest Type: Synthesis / Fragment Thesis
+Primary Belief Extracted:
+• Post-1453, four entities claimed fragments of Roman inheritance: Papacy
+  (religious West), HRE (political West), Moscow (political East + Orthodox),
+  Ottomans (territorial but declined title). No one inherited the whole;
+  each held fragments and claimed the rest.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–ROME–0006)
+
+ENTRY 0031
+Source: MEM–ROME–PAPACY — v2.0 (RLL APPLICATION)
+Ingest Type: RLL-Informed Revision / Immobility + Fragment
+Primary Belief Extracted:
+• The Papacy holds a fragment of Roman inheritance (religious authority in
+  the West), not universal authority. The Papacy's universal claims prove
+  its fragmentary status — actual universal authority needs no proclamation.
+• The Papacy inherited by immobility: Peter's tomb anchored it when all
+  others fled. Constraint became the basis of power.
+Belief Status:
+• FROZEN (RLL–ROME–0006 APPLIED)
+
+ENTRY 0032
+Source: MEM–ROME–CHARLEMAGNE — v2.0 (RLL APPLICATION)
+Ingest Type: RLL-Informed Revision / First Fragmentation
+Primary Belief Extracted:
+• Roman political authority first fragmented in 800 AD, not 1453. The Papacy,
+  not the Ottomans, created the first legitimacy rupture by crowning a rival
+  emperor Constantinople never recognized.
+• The Holy Roman Empire was a Western fragment claimant, not a Roman successor.
+  Its need to call itself "Roman" proves its fragmentary status.
+• Leo III's coronation was liability management (Mearsheimer): securing
+  Frankish protection by creating mutual papal-imperial dependence.
+Belief Status:
+• FROZEN (RLL–ROME–0006 APPLIED)
+
+ENTRY 0033
+Source: MEM–ROME–HOLY–ROMAN–EMPIRE — v2.0 (RLL-NATIVE CREATION)
+Ingest Type: RLL-Native MEM / Western Fragment Arc
+Primary Belief Extracted:
+• The HRE was pseudo-Roman — claiming what it could not structurally possess.
+  Voltaire's observation ("neither holy, nor Roman, nor an empire") captures
+  the fragment thesis: the claim exceeded the structural basis.
+• The HRE's longevity (1,006 years) derived from its weakness: no one needed
+  to destroy what could not threaten. Symbolic authority outlasted structural
+  authority.
+• After 1453, HRE became one of four fragment claimants. It exploited the
+  vacancy rhetorically but lacked structural basis to inherit Eastern authority.
+• Dissolution (1806) revealed what fragmentation had long established.
+Belief Status:
+• FROZEN (RLL–ROME–0006 + RLL–ROME–0002 APPLIED)
+
+ENTRY 0034
+Source: MEM–ROME–GREEK–ALEXANDER–GREAT — v2.1 (RLL DERIVATION)
+Ingest Type: RLL Derivation Source / Fragment Pattern Origin
+Primary Belief Extracted:
+• Alexander's fragmentation (323 BC) is the historical precedent for
+  RLL–ROME–0006. Rome observed the Diadochi and concluded: universal
+  authority fragments without institutional transmission.
+• The Diadochi pattern recurs: Alexander → 323 BC; Rome → 800/1054 AD;
+  Constantinople → 1453.
+• Alexander's failure was BOTH legitimacy crisis (charisma doesn't transmit)
+  AND structural inevitability (no institutions to hold).
+• Rome learned that the "Great Man" is a structural hazard; the system must
+  outlive the genius.
+Belief Status:
+• FROZEN (RLL–ROME–0006 DERIVATION SOURCE)
+
+ENTRY 0035
+Source: MEM–ROME–GREEK–PHILIP–II — v2.0 (RLL CONTEXT)
+Ingest Type: RLL Context / Builder-Burner Sequence
+Primary Belief Extracted:
+• Philip II built the institutional system that Alexander inherited and
+  depleted. The fragment pattern derives from this builder-burner sequence:
+  builder accumulates institutional capital; burner consumes it; death
+  reveals nothing remains to transmit.
+• Rome imitated Alexander rhetorically but Philip structurally. Augustus
+  governed like Philip — patient, diplomatic, institutional — while claiming
+  Alexander's glory.
+• Philip solved the power problem but not succession. Alexander inherited
+  the solution but failed to transmit it. Augustus attempted both.
+Belief Status:
+• FROZEN (RLL–ROME–0006 CONTEXT)
+
+ENTRY 0036
+Source: MEM–ROME–LAW–CITIZENSHIP — v2.0 (PHASE II CREATION)
+Ingest Type: Institutional Mechanism / Absorption Alternative to Fragment
+Primary Belief Extracted:
+• Citizenship was Rome's structural prevention of fragmentation. By making
+  conquered peoples citizens rather than subjects, Rome created stakeholders
+  who identified with Rome, not with local governors.
+• Citizenship was BOTH civilizational generosity AND structural efficiency.
+  Citizens defend themselves; subjects must be defended. Inclusion was
+  cheaper than occupation.
+• The Caracalla moment (212 AD) universalized citizenship, collapsing the
+  Roman/non-Roman distinction. "Roman" became legal status, not ethnicity.
+Belief Status:
+• FROZEN (RLL–ROME–0006 STRUCTURAL PREVENTION)
+
+ENTRY 0037
+Source: MEM–ROME–LAW–SLAVERY — v2.0 (PHASE II CREATION)
+Ingest Type: Legal Boundary / Absorption Pathway from Below
+Primary Belief Extracted:
+• Roman slavery was distinguished by institutionalized permeability: the
+  slave-freedman-citizen pathway converted property into persons within
+  two generations.
+• Manumission was BOTH humanitarian AND incentive structure. The possibility
+  of freedom encouraged productivity; the pathway absorbed conquered
+  populations into Roman identity.
+• Slavery and citizenship were structurally linked — slavery was the floor
+  of the legal order, citizenship the ceiling, with manumission as the
+  staircase.
+Belief Status:
+• FROZEN (CITIZENSHIP PATHWAY COMPLEMENT)
+
+ENTRY 0038
+Source: MEM–ROME–WAR–MEHMED–II — v2.0 (RLL–0002 CORE APPLICATION)
+Ingest Type: RLL Application / Vacancy Mechanism
+Primary Belief Extracted:
+• The Ottomans possessed Constantinople, Roman administration, and
+  structural power — but DECLINED to make Roman succession their primary
+  legitimacy claim. Islamic identity (Sultan, Khan, Caliph) was more
+  valuable than Roman pretension.
+• This declination created GENUINE VACANCY in Roman political authority.
+  Vacancy is created not by absence of claimants but by the possessor's
+  refusal to claim.
+• The vacancy enabled fragment competition: Moscow, Papacy, HRE could
+  assert partial inheritance because the possessor declined full claim.
+• Mearsheimer sharpening: Claiming Roman succession would have carried
+  obligations (reconquest) and liabilities (Christian unity against
+  Ottoman "usurper"). Declination was calculated preference.
+Belief Status:
+• FROZEN (RLL–ROME–0002 CORE APPLICATION)
+
+ENTRY 0039
+Source: MEM–ROME–WAR–THIRD–PUNIC — v2.0 (PHASE II CREATION)
+Ingest Type: Contrast Case / Vacancy Prevention
+Primary Belief Extracted:
+• Rome destroyed Carthage (146 BC) rather than absorbing it, preventing
+  any fragment inheritance. Total annihilation closed the vacancy before
+  it could open — no Carthaginian claimants, no fragment competition.
+• "Carthago delenda est" (Cato) represents preventive war doctrine:
+  eliminate potential rivals before they can recover, even if they pose
+  no current threat.
+• Scipio Aemilianus wept at Carthage's destruction, quoting Homer on
+  Troy's fall. Rome's first recorded acknowledgment of cyclical fate:
+  what Rome did to Carthage, others might do to Rome.
+• Contrast with citizenship model: Rome absorbed most enemies but
+  destroyed this one. Civilizational incompatibility + accumulated
+  hostility + demonstration effect made absorption impossible.
+Belief Status:
+• FROZEN (RLL–ROME–0006 CONTRAST CASE)
+
+ENTRY 0040
+Source: MEM–ROME–WAR–SECOND–PUNIC — v2.0 (TEMPLATE UPGRADE)
+Ingest Type: Survival Trial / Systemic Endurance Pattern
+Primary Belief Extracted:
+• The Second Punic War (218–201 BC) was Rome's survival trial: tactical
+  annihilation at Cannae did NOT produce strategic defeat. Rome lost
+  every major battle yet won the war.
+• Structural asymmetry explains outcome: Rome's manpower base (~700K vs.
+  ~200K), alliance structure (citizenship pathways held), geographic
+  advantage (interior lines), and naval control made Hannibal's tactical
+  genius structurally irrelevant.
+• The war hardened Rome. The Republic that survived Hannibal was
+  psychologically capable of destroying Carthage utterly (Third Punic
+  War). Hardening is causally prior to annihilation capacity.
+• Systems defeat genius over time. Refusal to negotiate under pressure
+  is a strategic choice. Fabian strategy = structural warfare.
+Belief Status:
+• FROZEN (SURVIVAL TRIAL PATTERN)
+
+ENTRY 0041
+Source: MEM–ROME–WAR–FIRST–PUNIC — v2.0 (TEMPLATE UPGRADE)
+Ingest Type: Institutional Learning / Adaptation Pattern
+Primary Belief Extracted:
+• The First Punic War (264–241 BC) was Rome's initiation into systemic
+  adaptation: a land power learned to defeat a maritime empire by copying,
+  standardizing, and multiplying Carthaginian naval capabilities.
+• The Roman adaptation pattern: encounter foreign competence → copy it →
+  standardize it → multiply it → deploy at scale. The corvus exemplifies
+  this: adapt the battlefield to Roman strengths, not Romans to battlefield.
+• Sicily became Rome's first overseas province — administrative
+  transformation from city-state to territorial empire begins here.
+• Replacement capacity defeats specialization. Rome lost more ships to
+  storms than battles but kept rebuilding. Carthage could not match
+  institutional persistence.
+• Rome's seizure of Sardinia (238 BC) after Carthage's Mercenary War
+  created grievance transmitted to Hannibal — First Punic War ended,
+  but Punic rivalry intensified.
+Belief Status:
+• FROZEN (INSTITUTIONAL LEARNING PATTERN)
+
+ENTRY 0042
+Source: MEM–ROME–CARTHAGE — v2.0 (TEMPLATE UPGRADE)
+Ingest Type: Adversarial Mirror / RLL Contrast Case
+Primary Belief Extracted:
+• Carthage represents Rome's "lost mirror" — a viable alternative imperial
+  model (maritime/commercial/oligarchic) that Rome erased rather than
+  absorbed.
+• Carthage was structurally unsuited to total war: mercenary unreliability,
+  limited manpower replacement, political hesitation, absence of mobilized
+  citizen ideology. Commercial oligarchies protect property; they do not
+  sacrifice it for survival.
+• Carthage is the definitive CONTRAST CASE for RLL–ROME–0006: Rome absorbed
+  most enemies through citizenship, but destroyed Carthage utterly. Factors:
+  civilizational incompatibility, accumulated hostility (3 wars), preventive
+  war logic, demonstration effect.
+• Rome closed Carthage's vacancy before it opened. No Carthaginian claimants
+  because there was no Carthage to inherit.
+Belief Status:
+• FROZEN (RLL–ROME–0006 CONTRAST CASE)
+
+ENTRY 0043
+Source: MEM–ROME–CARTHAGE–HANNIBAL — v2.0 (RENAMED + TEMPLATE UPGRADE)
+Ingest Type: Genius vs. System / Diagnostic Instrument
+Primary Belief Extracted:
+• Hannibal is Rome's "diagnostic instrument" — the commander whose genius
+  exposed Roman vulnerabilities with unprecedented precision, yet failed
+  because brilliance was not matched by sustaining institutional depth.
+• Structural constraints made Hannibal's defeat probable regardless of
+  tactical outcomes: manpower asymmetry (~700K vs. ~50K), alliance asymmetry
+  (citizenship pathways held), geographic asymmetry (interior vs. extended
+  lines), institutional asymmetry (Senate consistency vs. Carthaginian
+  oscillation).
+• The Barcid project was personal vendetta, not national policy. Hamilcar's
+  oath transmitted to Hannibal; family operated semi-independently in Spain.
+  This was both strength (operational freedom) and weakness (disconnection
+  from Carthage).
+• Hannibal killed more Romans than any other enemy. Rome won anyway.
+  Systems defeat genius; replacement defeats perfection.
+Belief Status:
+• FROZEN (SYSTEMS DEFEAT GENIUS PATTERN)
+
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -347,6 +740,95 @@ SYNTHESIS 0009: Institutional Absorption of Defeat → FROZEN
 SYNTHESIS 0010: Tacitus + Gibbon Decline Model → UNFROZEN
 SYNTHESIS 0012-A: Urban Shock Compartmentalization → UNFROZEN
 SYNTHESIS 0013: Expansion Ceiling vs Maintenance → AUTHORIZED
+SYNTHESIS 0014: Legitimacy Bifurcation (political/religious split) → UNFROZEN
+SYNTHESIS 0015: Vacancy Logic (1453 Eastern political authority) → UNFROZEN
+SYNTHESIS 0016: Immobility Inheritance (Papacy by default) → UNFROZEN
+SYNTHESIS 0017: Four-Way Fragment Rivalry (post-1453 claims) → UNFROZEN
+SYNTHESIS 0018: Papacy as Religious Fragment (RLL–0006 applied to MEM) → FROZEN
+SYNTHESIS 0019: First Fragmentation 800 AD (RLL–0006 applied to MEM) → FROZEN
+SYNTHESIS 0020: Papal Liability Management (Mearsheimer sharpening) → FROZEN
+SYNTHESIS 0021: HRE as Western Fragment Arc (RLL–0006 native MEM) → FROZEN
+SYNTHESIS 0022: Longevity Through Weakness (structural hollowness) → FROZEN
+SYNTHESIS 0023: Alexander as RLL–0006 Derivation Source (Diadochi pattern) → FROZEN
+SYNTHESIS 0024: Great Man as Structural Hazard (system > genius) → FROZEN
+SYNTHESIS 0025: Builder-Burner Sequence (Philip/Alexander contrast) → FROZEN
+SYNTHESIS 0026: Roman Philip-Imitation (structural vs. rhetorical) → FROZEN
+SYNTHESIS 0027: Citizenship as Fragment Prevention (absorption mechanism) → FROZEN
+SYNTHESIS 0028: Slavery-Citizenship Pathway (permeability from below) → FROZEN
+SYNTHESIS 0029: Vacancy by Declination (Ottoman refusal enables fragment competition) → FROZEN
+SYNTHESIS 0030: Vacancy Prevention by Annihilation (Carthage contrast case) → FROZEN
+SYNTHESIS 0031: Systems Defeat Genius (structural asymmetry pattern) → FROZEN
+SYNTHESIS 0032: Institutional Learning Pattern (copy → standardize → multiply) → FROZEN
+SYNTHESIS 0033: Adversarial Mirror Erasure (Carthage as RLL–0006 contrast) → FROZEN
+SYNTHESIS 0034: Genius vs. System (Hannibal as diagnostic instrument) → FROZEN
+
+────────────────────────────────────────────────────────────
+IV.A PROPOSED RECURSIVE LEARNING LAWS (RLLs) — PENDING AUTHORIZATION
+────────────────────────────────────────────────────────────
+The following RLLs are proposed based on synthesis session insights.
+User authorization required to bind.
+
+RLL–ROME–0001: LEGITIMACY BIFURCATION LAW
+When Roman political authority relocates, religious authority may remain
+anchored, producing bifurcated legitimacy streams that rival rather than
+reinforce each other.
+Source: ENTRY 0025, SYNTHESIS 0014
+Cognitive Frame: Mercouris (civilizational) + Mearsheimer (structural)
+Mearsheimer Validation: WEAK — contingent on anchor points, not structural necessity
+Reformulation Required: "Institutions anchored to non-transportable legitimacy
+  sources create bifurcation risk when political authority relocates."
+Status: PROPOSED · PENDING REFORMULATION
+
+RLL–ROME–0002: VACANCY BY DECLINATION LAW ✓ BOUND
+Political authority becomes genuinely vacant when the possessor of
+structural power declines to claim the associated title. Claimants
+without structural basis may claim the vacancy but cannot fill it.
+Source: ENTRY 0026, SYNTHESIS 0015
+Cognitive Frame: Barnes (liability calculation)
+Mearsheimer Validation: STRONG — describes actual power dynamics
+Status: BOUND · AUTHORIZED · January 2026
+
+RLL–ROME–0003: IMMOBILITY INHERITANCE LAW
+Institutions anchored to immovable legitimacy sources (sacred sites,
+tombs, relics) inherit authority by default when mobile institutions
+defect. The inability to flee becomes the basis of power.
+Source: ENTRY 0027, SYNTHESIS 0016
+Cognitive Frame: Barnes (defection logic)
+Mearsheimer Validation: MODERATE — valid structure but requires conditions
+Reformulation Required: "Immobile institutions inherit authority when (a) they
+  survive regime transition, (b) new powers value their legitimacy, and
+  (c) mobile rivals have defected."
+Status: PROPOSED · PENDING CONDITIONAL STRENGTHENING
+
+RLL–ROME–0004: ACCELERATION VS CAUSATION LAW
+Catastrophic events may accelerate civilizational decline without
+causing it. Structural factors (power distribution, technology shift)
+remain determinative even when dramatic events create narrative salience.
+Source: ENTRY 0028
+Cognitive Frame: Mearsheimer (structural)
+Mearsheimer Validation: METHODOLOGICAL — epistemological constraint, not ontological
+Reclassification: Should become H-ROME-10 (heuristic, not RLL)
+Status: PROPOSED · PENDING RECLASSIFICATION AS HEURISTIC
+
+RLL–ROME–0005: PRIOR FRAGMENTATION LAW
+Authority fragmentation may predate apparent collapse. Rival claimants
+established during periods of institutional stress may persist for
+centuries, creating multiple vacancy zones when the original holder falls.
+Source: ENTRY 0029
+Cognitive Frame: Mercouris (civilizational)
+Mearsheimer Validation: WEAK — "may predate" is not a law
+Reformulation Required: "Legitimacy fragmentation precedes visible collapse;
+  dramatic events reveal pre-existing fractures rather than creating them."
+Status: PROPOSED · PENDING REFORMULATION
+
+RLL–ROME–0006: FRAGMENT INHERITANCE LAW ✓ BOUND
+Universal civilizational authority cannot be wholly inherited after
+collapse. Multiple claimants will each hold fragments and claim the
+rest, producing permanent rivalry rather than succession.
+Source: ENTRY 0030, SYNTHESIS 0017
+Cognitive Frame: Mearsheimer + Barnes
+Mearsheimer Validation: STRONG — structural impossibility of universal succession
+Status: BOUND · AUTHORIZED · January 2026
 
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
@@ -505,9 +987,19 @@ Ingestion: PROHIBITED
 ────────────────────────────────────────────────────────────
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
-Scholar State: ACTIVE (READ-ONLY)
-Doctrine Count: 5
-Total Entries: 24
+Scholar State: ACTIVE — PHASE II (CONSTRAINT GRAMMAR)
+Doctrine Count: 5 (FROZEN)
+RLL Count: 2 BOUND + 4 PENDING
+  • RLL–ROME–0002: BOUND (Vacancy by Declination) — APPLIED TO 2 MEMs (MEHMED–II core)
+  • RLL–ROME–0006: BOUND (Fragment Inheritance) — APPLIED TO 4 MEMs + 2 CONTEXT
+  • RLL–ROME–0001, 0003, 0004, 0005: PENDING (reformulation/reclassification)
+Total Entries: 43
+Synthesis Count: 34 (21 FROZEN, 13 UNFROZEN/AUTHORIZED)
+Heuristic Count: 9
+MEMs Revised This Session: 8 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL)
+MEMs Created This Session: 5 (HOLY–ROMAN–EMPIRE, PHILIP–II, LAW–CITIZENSHIP, LAW–SLAVERY, WAR–THIRD–PUNIC)
+MEMs Renamed This Session: 3 (HANNIBAL → CARTHAGE–HANNIBAL, GREEK–ALEXANDER–GREAT → GREEK–ALEXANDER, GREEK–SOCRATES → GREEK–LIT–SOCRATES)
+Phase: PHASE II — CONSTRAINT GRAMMAR (AUTHORIZED January 2026)
 
 ────────────────────────────────────────────────────────────
 IX. ACADEMIC REFERENCE CANON POINTER (ARC–ROME)
@@ -561,6 +1053,9 @@ H-ROME-03 | Catastrophic defeat | Institutional absorption | Endurance or panic
 H-ROME-04 | Frontier illegibility | Boundary hardening | Permanent loss
 H-ROME-05 | Expansion beyond ceiling | Strategic contraction | Stabilization
 H-ROME-06 | Moral corrosion under stability | Incentive decay | Hollow legitimacy
+H-ROME-07 | Authority relocation | Legitimacy bifurcation | Rival claims
+H-ROME-08 | All defenders can flee | Immobile institutions inherit | Structural accident
+H-ROME-09 | Possessor declines title | Vacancy enables claim-making | Fragment rivalry
 
 These heuristics are descriptive, not predictive.
 
@@ -963,4 +1458,4 @@ END OF FILE — CIV–MEM–TEMPLATE v2.5
 [ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v1.8
+END OF FILE — CIV–SCHOLAR–ROME — v2.3 (PHASE II)

@@ -1,8 +1,10 @@
-MEM–ROME–GREEK–SOCRATES — v1.0
+MEM–ROME–GREEK–LIT–SOCRATES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: MEM–ROME–GREEK–SOCRATES v1.0 (RENAMED)
 Civilization: ROME (GREEK PHILOSOPHICAL INHERITANCE)
 Regime: REPUBLICAN → IMPERIAL (ETHICAL ABSORPTION)
 Subject: Socrates (Moral Inquiry, Civic Irritation, and the Limits of Speech)
@@ -12,9 +14,23 @@ Last Update: January 2026
 Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
+RENAME NOTE (v1.1)
+────────────────────────────────────────────────────────────
+Renamed from MEM–ROME–GREEK–SOCRATES to MEM–ROME–GREEK–LIT–SOCRATES.
+
+The "LIT" infix indicates this is a literary/philosophical figure
+transmitted through texts, rather than a political/military figure
+who directly interacted with Rome.
+
+Naming convention:
+• MEM–ROME–GREEK–ALEXANDER — political/military figure
+• MEM–ROME–GREEK–PHILIP — political/military figure
+• MEM–ROME–GREEK–LIT–SOCRATES — philosophical figure (textual transmission)
+
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Socrates as **Rome’s inherited figure of moral
+This file preserves Socrates as **Rome's inherited figure of moral
 disruption**: the philosopher whose method of relentless questioning
 exposed false authority, hollow virtue, and unexamined power—yet whose
 civic posture proved incompatible with both democratic impatience and
@@ -179,12 +195,12 @@ Secondary:
 ────────────────────────────────────────────────────────────
 X.a VERBATIM PRIMARY-SOURCE EXCERPTS
 ────────────────────────────────────────────────────────────
-“The unexamined life is not worth living.”
+"The unexamined life is not worth living."
 — Plato, *Apology*.
 
-“I obey the god rather than you.”
+"I obey the god rather than you."
 — Plato, *Apology*.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GREEK–SOCRATES — v1.0
+END OF FILE — MEM–ROME–GREEK–LIT–SOCRATES — v1.1
 ────────────────────────────────────────────────────────────

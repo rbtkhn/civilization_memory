@@ -673,7 +673,7 @@ BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER.
 
 Mode Availability:
-• WRITE MODE: Barnes FORBIDDEN
+• WRITE MODE: Barnes OGE-available (appears as option, inactive until selected)
 • LEARN MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
 • IMAGINE MODE: Barnes OGE-invoked (1 option REQUIRED in OGE menu)
 

@@ -1,17 +1,38 @@
-MEM–ROME–GEO–BLACK–SEA — v1.3.1
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+MEM–ROME–GEO–BLACK–SEA — v2.0
+Civilizational Memory Codex · Geographic Memory File
+ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
 
-Status: CANONICAL · LOCKED · FINAL
-Version: 1.3.2
-Upgrade Type: ADDITIVE · DUANE ROLLER QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.0
+Supersedes: v1.3.2
+Upgrade Type: MAJOR · GEO–MEM COGNITIVE DECLARATION + MEM CONNECTIONS EXPANSION
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
 Subject: The Black Sea (Pontus Euxinus)
 Dates: Hellenistic era–Late Roman / Eastern Roman continuity
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~1,900
+Word Count: ~2,400
+
+Governed by:
+• CIV–MEM–CORE v2.2+
+• CIV–MEM–TEMPLATE v2.8
+• CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION
+────────────────────────────────────────────────────────────
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+GEO–MEMs preserve geography as permanent structural constraint.
+They answer: "What does this terrain DO to actors within it?"
+
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution, structural constraints
+• ARC verbatim quotes (~1/3): demonstrating permanent patterns through historical evidence
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -82,7 +103,7 @@ Duane Roller explains Rome's strategic calculus in the Black Sea region followin
 The Black Sea became Rome's watchful perimeter, not its welcoming harbor.
 
 ────────────────────────────────────────────────────────────
-IV. ECONOMIC UTILITY WITHOUT DEPENDENAD
+IV. ECONOMIC UTILITY WITHOUT DEPENDENCE
 ────────────────────────────────────────────────────────────
 The Black Sea contributes to Roman power but does not sustain Roman
 survival.
@@ -148,10 +169,31 @@ Rome learns where to stop.
 ────────────────────────────────────────────────────────────
 IX. RELATED MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–ROME–GEO–MEDITERRANEAN–SEA
-• MEM–ROME–GEO–DANUBE–RIVER
-• MEM–ROME–WAR–MITHRIDATIC
-• MEM–ROME–PONTUS
+ROME (Same-Civilization):
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — the interiorized sea against which Black Sea
+  peripherality is measured; structural contrast for buffer logic.
+• MEM–ROME–GEO–DANUBE–RIVER — the land frontier axis connecting Balkan defense
+  to Black Sea monitoring; Rome's continental anchor to Pontic exposure.
+• MEM–ROME–GEO–ANATOLIA — the landmass shielded by Black Sea buffer function;
+  Roman provincial core protected by Pontic periphery.
+• MEM–ROME–GEO–AEGEAN–SEA — the intermediate basin connecting Mediterranean
+  core to Pontic approaches via straits system.
+• MEM–ROME–WAR–MITHRIDATES–VI — the conflict establishing Roman presence in
+  Pontus; origin of client-state architecture in Black Sea region.
+• MEM–ROME–PONTUS — the kingdom absorbed as client state; primary interface
+  between Roman authority and Black Sea littoral.
+• MEM–ROME–CONSTANTINOPLE — the city commanding straits access; Eastern Roman
+  control node for Pontic maritime traffic.
+• MEM–ROME–ARMENIA — the Caucasian buffer state mediating between Roman Black
+  Sea interests and Parthian/Persian pressure.
+• MEM–ROME–GEO–CASPIAN–SEA — contrasting enclosed basin beyond Roman reach;
+  demonstrates limits of Roman maritime extension.
+• MEM–ROME–WAR–PERSIA — the eastern rival whose pressure shaped Roman defensive
+  posture in Black Sea approaches.
+
+Cross-Civilizational:
+• MEM–RUSSIA–GEO–BLACK–SEA — Russian strategic perspective on the same basin;
+  demonstrates permanent terrain logic across civilizational succession.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -183,7 +225,7 @@ Roller clarifies why Roman strategy emphasized **containment and
 fragmentation** rather than interiorization.
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Strabo, *Geographica* - Ancient geographical description of the Black Sea region and Pontus
 • Appian, *Mithridatic Wars* - Contemporary account of Rome's conflicts with Pontus
@@ -192,5 +234,5 @@ X. MEM BIBLIOGRAPHY (MANDATORY)
 • Duane W. Roller, *Empire of the Black Sea: The Rise and Fall of the Mithridatic World* - Comprehensive modern study of the Black Sea region, Mithridates VI, and Roman-Pontic relations
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–BLACK–SEA — v1.3.2
+END OF FILE — MEM–ROME–GEO–BLACK–SEA — v2.0
 ────────────────────────────────────────────────────────────

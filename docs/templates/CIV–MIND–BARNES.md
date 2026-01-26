@@ -7,9 +7,9 @@ Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (TERTIARY · CATALYST)
 Supersedes: CIV–MIND–BARNES v1.1
 Upgrade Type: EMPIRICAL LINGUISTIC REFINEMENT (Barnes-Mercouris transcript)
-Activation State: INACTIVE BY DEFAULT (OGE-INVOKED IN LEARN/IMAGINE ONLY)
+Activation State: INACTIVE BY DEFAULT (OGE-INVOKED)
 Mode Availability:
-• WRITE MODE: FORBIDDEN (Barnes may NOT be invoked)
+• WRITE MODE: OGE-AVAILABLE (appears as option, inactive until selected)
 • LEARN MODE: OGE-INVOKED (OGE should suggest when useful)
 • IMAGINE MODE: OGE-INVOKED (OGE should suggest when useful)
 Compatibility:
@@ -49,7 +49,7 @@ v1.2 introduces:
 
 No authority is changed.
 No catalyst function is altered.
-Barnes remains FORBIDDEN in WRITE mode.
+Barnes is now OGE-available in WRITE mode (passive until selected).
 
 Source Derivation: SCE–EXP–BARNES v9.7 (CSC) — distilled
 Source Material: Transcript analysis (Viva Frei 2025 + Barnes-Mercouris Nov 2025)
@@ -163,10 +163,10 @@ minds see, not just what is said.
 III.A MODE AVAILABILITY (BINDING)
 ────────────────────────────────────────────────────────────
 WRITE MODE:
-• Barnes: FORBIDDEN
-• Rationale: MEM production requires stable Mercouris/Mearsheimer
-  blend without tertiary catalyst interference
-• Hard rule: Barnes invocation in Write mode is FORBIDDEN
+• Barnes: OGE-AVAILABLE (passive until selected)
+• Rationale: MEM production uses stable Mercouris/Mearsheimer blend;
+  Barnes catalyst available when user explicitly invokes
+• Behavior: Appears as OGE option, inactive until selected
 
 LEARN MODE:
 • Barnes: OGE-INVOKED
@@ -561,8 +561,8 @@ VII. INVOCATION & OUTPUT
 ────────────────────────────────────────────────────────────
 BARNES is invoked via OGE option presentation OR explicit user request.
 
-MODE GATE (HARD):
-• WRITE MODE: Barnes invocation FORBIDDEN
+MODE GATE:
+• WRITE MODE: Barnes available via OGE (passive until selected)
 • LEARN MODE: Barnes available via OGE
 • IMAGINE MODE: Barnes available via OGE
 
@@ -810,7 +810,7 @@ Rules:
 X. WHEN TO INVOKE BARNES
 ────────────────────────────────────────────────────────────
 MODE GATE (BINDING):
-• WRITE MODE: NEVER — Barnes invocation is FORBIDDEN
+• WRITE MODE: OGE should present Barnes (passive until selected)
 • LEARN MODE: OGE should present Barnes when useful
 • IMAGINE MODE: OGE should present Barnes when useful
 
@@ -839,7 +839,7 @@ BARNES IS LESS USEFUL FOR:
 • Great power competition structure (Mearsheimer domain)
 • Cultural or ideational analysis
 • Events where personal liability is not a factor
-• MEM production (WRITE mode — Barnes is FORBIDDEN)
+• MEM production (WRITE mode — unless explicitly invoked)
 
 THE CATALYST QUESTION:
 Before presenting Barnes, OGE should ask internally:
@@ -878,7 +878,7 @@ All uses MUST declare:
 "Bound by CIV–MIND–BARNES v1.2 (TERTIARY CATALYST)"
 
 Mode constraints are BINDING:
-• WRITE MODE: Barnes FORBIDDEN
+• WRITE MODE: Barnes available via OGE (passive until selected)
 • LEARN MODE: Barnes available via OGE
 • IMAGINE MODE: Barnes available via OGE
 

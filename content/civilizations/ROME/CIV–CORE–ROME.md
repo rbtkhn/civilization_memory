@@ -1,62 +1,49 @@
-CIV–CORE–ROME — v1.9
+CIV–CORE–ROME — v2.0
 Civilizational Strategy Codex · Civilization Continuity Engine
-Moral–Legal Exhaustion · Irreversibility–Sacred-Zone Coupling · Pedagogical Interface Edition
-CSC V9.7.2 HARDENED · FULL INLINE (NO ELISIONS) · TEMPLATE-COMPLIANT
+Phase-Aware Template v2.0 Compliance · Legitimacy-First Sovereignty
 
-Repository: https://github.com/rbtkhn/civilization_memory
-Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.9
-Supersedes: CIV–CORE–ROME v1.8
-Upgrade Type: ADDITIVE · DOCTRINE MIRRORING COMPLIANCE (CIV–CORE–TEMPLATE v1.7)
-Template Version Used: CIV–CORE–TEMPLATE v1.7
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v1.x+)
-Conceptual Lineage: SCE–CIV–ROME V9.x
-DIB Status: DEFINED · DISABLED
-Scholar Reference Mode: READ-ONLY (WRITE-GATED SECTIONS ONLY)
-Lock Level: FULL
+Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
+Supersedes: CIV–CORE–ROME v1.9
+Template Version Used: CIV–CORE–TEMPLATE v2.0
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Upgrade Type: MAJOR · TEMPLATE ALIGNMENT + LEGACY MIRROR REMOVAL
+Civilization Phase: PHASE I — FOUNDATION
+Lock Level: STRUCTURAL
+DIB Status: DEFINED · INACTIVE
+Scholar Reference Mode: READ-ONLY / DIB-GATED
+Conceptual Lineage: SCE–CIV–ROME V9.x (doctrinal ancestry preserved; format-harmonized)
 Last Update: January 2026
-Word Count: ~2,780
+Word Count: ~2,000
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.9)
+UPGRADE DECLARATION (BINDING)
 ────────────────────────────────────────────────────────────
-This version performs a strictly ADDITIVE upgrade to v1.8.
+This upgrade advances CIV–CORE–ROME from v1.9 to v2.0.
 
-Guarantees:
-• NO doctrinal change
-• NO metric change
-• NO threshold change
-• NO semantic reinterpretation
-• NO analytical drift
+SCOPE OF CHANGE (EXHAUSTIVE):
 
-Additions introduced in v1.9:
-• DOCTRINE MIRROR section (Section XXIV) — mirrors CIV–DOCTRINE–ROME v1.0 verbatim
-• Template compliance with CIV–CORE–TEMPLATE v1.7 (DOCTRINE mirroring requirement)
+STRUCTURAL CHANGES:
+• Template alignment: CIV–CORE–TEMPLATE v1.7 → v2.0
+• Compatibility: CMC v1.x+ → CMC v2.2+
+• Added Civilization Phase declaration: PHASE I — FOUNDATION
+• Fixed typo: "GOVERNANAD" → "GOVERNANCE" (Section X)
+• Removed embedded CIV–MEM–TEMPLATE v2.5 mirror (374 lines)
+• Replaced with canonical pointer to CIV–MEM–TEMPLATE v2.8
+• Deprecated legacy OGE references (LOGE/TOGE → unified OGE)
+• Consolidated Pedagogical Interface section
 
-All axioms, indicators, verdict logic, and failure physics remain
-identical in meaning and authority to v1.8.
+NON-CHANGES (AFFIRMED):
+• No axioms altered
+• No diagnostics modified
+• No gates weakened
+• No constraints relaxed
+• No verdict logic changed
+• All doctrine mirrors preserved
 
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.8)
-────────────────────────────────────────────────────────────
-This version performs a strictly ADDITIVE upgrade to v1.7.
-
-Guarantees:
-• NO doctrinal change
-• NO metric change
-• NO threshold change
-• NO semantic reinterpretation
-• NO analytical drift
-
-Additions introduced in v1.8:
-• Formal propagation of the system-wide rename:
-–"Lecture Mode" → "Imagine Mode"
-–"LOGE" (Lecture Option Generation Engine) → "TOGE" (Teach Option Generation Engine)
-• Declarative mapping clause added to the Pedagogical Interface section
-• Back-link updated to CIV–SCHOLAR–PROTOCOL v1.5 (Imagine Mode / TOGE)
-
-All axioms, indicators, verdict logic, and failure physics remain
-identical in meaning and authority to v1.7.
+HISTORICAL UPGRADE TRAIL:
+• v1.8: LOGE → TOGE rename propagation
+• v1.9: DOCTRINE MIRROR section added
+• v2.0: Template v2.0 alignment + legacy mirror removal
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -169,7 +156,7 @@ MANDATORY OUTPUT:
 • Enforcement Drift Level (EDL): NONE / EMERGING / ACTIVE
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 Lawfare visibility creates backlash when exposed.
 
@@ -271,27 +258,34 @@ All Scholar-authored CORE insertions MUST:
 • Be traceable to a SCHOLAR governance action
 
 ────────────────────────────────────────────────────────────
-XX. PEDAGOGICAL INTERFACE COMPATIBILITY (NEW)
+XX. OPTION GENERATION ENGINE (OGE) — CORE RECOGNITION
 ────────────────────────────────────────────────────────────
-CIV–CORE–ROME explicitly recognizes SCHOLAR Lecture Mode as
-a pedagogical surface only.
+OGE is recognized as SYSTEM-LEVEL INTERACTION INFRASTRUCTURE.
 
-Rules:
-• Lecture Mode introduces NO belief, NO doctrine, NO verdict
-• Pedagogical branching does NOT constitute strategic reasoning
-• CORE metrics and outputs remain authoritative and unchanged
-• Teaching pathways must preserve unresolved tension
+Binding Clarifications:
+• OGE is mandatory for all user-system interaction
+• OGE executes FIRST upon any mode entry or session start
+• OGE generates options, not conclusions
+• OGE introduces no belief, doctrine, or analysis
 
-This section affirms compatibility with:
-• CIV–SCHOLAR–PROTOCOL v1.4 (LOGE-enabled)
-• Lecture Option Generation Engine (LOGE)
+OGE:
+• Is NOT cognition
+• Is NOT authority
+• Is NOT a decision engine
+• Is NOT part of CIV–CORE logic
 
-LOGE is non-epistemic and non-authoritative.
+OGE behavior is governed exclusively by:
+• CIV–SCHOLAR–PROTOCOL v2.1+
+
+CIV–CORE does NOT implement OGE.
+CIV–CORE merely acknowledges its mandatory presence.
+
+Legacy option engines (LOGE, IOGE, TOGE) are deprecated and non-operative.
 
 ────────────────────────────────────────────────────────────
-XX.a IMAGINE MODE TERMINOLOGY BINDING (ADDITIVE · v1.8)
+XX.a LEGACY OGE TERMINOLOGY (DEPRECATED · ARCHIVED)
 ────────────────────────────────────────────────────────────
-System-wide terminology update (binding):
+Historical terminology update trail (archived):
 
 • “Lecture Mode” is deprecated and MUST be read as “Imagine Mode”.
 • “LOGE” (Lecture Option Generation Engine) is deprecated and MUST be
@@ -299,16 +293,13 @@ System-wide terminology update (binding):
 • CIV–SCHOLAR–PROTOCOL v1.4 references are superseded by
   CIV–SCHOLAR–PROTOCOL v1.5 for Imagine Mode / TOGE governance.
 
-This clause introduces NO epistemic change.
-It is a naming propagation only.
+This section is archival only. See Section XX for current OGE governance.
 
 ────────────────────────────────────────────────────────────
 XXI. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
-Active Civ: ROME
-CR: __ | CoR: __ | ED: __ | NOG: __
-AEC: __ | EDL: __ | TimeAdv: __
-Chokepoint Leverage: __ | KLB: __
+Session-specific context may be declared here when applicable.
+No persistent data. Advisory framing only.
 
 ────────────────────────────────────────────────────────────
 XXII. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
@@ -521,401 +512,14 @@ This version is EXPORT-READY.
 ────────────────────────────────────────────────────────────
 XXVI. TEMPLATE REFERENCE (CANONICAL POINTER)
 ────────────────────────────────────────────────────────────
-MIRROR DEPRECATION NOTICE (January 2026):
-Embedded template mirrors are deprecated due to drift risk.
-This section now points to the canonical template.
-
 CANONICAL REFERENCE:
-• CIV–MEM–TEMPLATE v2.7 (CURRENT)
+• CIV–MEM–TEMPLATE v2.8
 • Location: docs/templates/CIV–MEM–TEMPLATE.md
-• Key additions since v2.5: ERC namespace, Quote-Analysis math,
-  CEO Promotion Provenance
 
-The embedded v2.5 content below is HISTORICAL REFERENCE ONLY.
+Embedded legacy mirrors are archival only and non-operative.
 For governance, always consult the canonical template.
 
-────────────────────────────────────────────────────────────
-[LEGACY MIRROR - CIV–MEM–TEMPLATE v2.5 - SUPERSEDED BY v2.7]
-────────────────────────────────────────────────────────────
-
-CIV–MEM–TEMPLATE — v2.5 [SUPERSEDED - SEE v2.7]
-Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
-
-Status: SUPERSEDED · SEE docs/templates/CIV–MEM–TEMPLATE.md
-Supersedes: CIV–MEM–TEMPLATE v2.4
-Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
-Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.0+
-Last Update: January 2026 [SUPERSEDED]
-Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.5) — MANDATORY 20% EVIDENCE STANDARD
-────────────────────────────────────────────────────────────
-This version implements the 20% verbatim quote minimum with comprehensive safeguards:
-
-MANDATORY 20% QUOTE STANDARD:
-• All MEM files must contain ≥20% verbatim quotes by word count
-• Forces deeper scholarly engagement and evidentiary grounding
-• Automatic validation in canonical advancement process
-
-ANALYTICAL PROTECTION SAFEGUARDS:
-• 70% minimum analytical content floor prevents starvation
-• Balances evidentiary rigor with intellectual depth
-• Ensures MEMs remain analytical intelligence objects
-
-QUALITY SAFEGUARDS:
-• EQS compliance requirements prevent quote stuffing
-• Relevance thresholds ensure meaningful scholarly contribution
-• Scholarly diversity requirements prevent single-perspective dominance
-
-ENHANCED ADAPTIVE MATRIX:
-• Updated subject-type requirements to achieve 20% minimum
-• Modern subjects: Expanded secondary sources for volume
-• Sparse subjects: Optimized requirements for feasibility
-
-BREAKING CHANGE: Requires 20% compliance for canonical advancement
-MIGRATION: 6-month transition period for existing MEMs
-
-────────────────────────────────────────────────────────────
-I. PURPOSE & AUTHORITY
-────────────────────────────────────────────────────────────
-This file defines the mandatory structure, evidentiary standards,
-scholarly constraints, behavioral rules, and ingest behavior for all
-MEM (Civilizational Memory) files.
-
-Core principle:
-A MEM file must function as a self-contained historical intelligence
-object capable of activating structured inquiry even when ingested
-alone into a new conversation.
-
-Authority Flow (NON-REVERSIBLE):
-CIV–MEM–CORE → CIV–MEM–TEMPLATE → MEM Files → SCHOLAR / CORE / GAME / LLM
-
-No MEM file is valid unless compliant with this template AND the
-applicable ARC–[CIV] canon at the time of locking.
-
-────────────────────────────────────────────────────────────
-II. FILE IDENTITY & METADATA (MANDATORY)
-────────────────────────────────────────────────────────────
-Every MEM file MUST begin with the following metadata block,
-in this exact order:
-
-• Filename (canonical)
-• Repository reference
-• Status (ACTIVE / LOCKED / DRAFT)
-• Version (semantic)
-• Supersedes (if applicable)
-• Upgrade Type (if applicable)
-• Civilization (canonical name)
-• Subject (historical figure/event/institution)
-• Dates (temporal scope)
-• Class (MEM)
-• Last Update (date)
-• Wordcount (approximate)
-• Governed by (CIV–MEM–CORE + template + ARC versions)
-• Status (ACTIVE/CANONICAL/etc.)
-
-────────────────────────────────────────────────────────────
-III. MEMORY PURPOSE & SCOPE (MANDATORY)
-────────────────────────────────────────────────────────────
-Every MEM file MUST begin with a clear statement of its civilizational
-memory purpose.
-
-Purpose statement MUST:
-• Explain what civilizational insight the MEM preserves
-• Connect to broader civilization patterns
-• Justify the MEM's existence in the CMC
-
-Scope MUST be clearly bounded (temporal, thematic, geographic).
-
-────────────────────────────────────────────────────────────
-IV. STRUCTURAL INTEGRITY REQUIREMENTS
-────────────────────────────────────────────────────────────
-MEM files MUST maintain consistent structure:
-
-• Section headers with separator lines (79 dashes)
-• Logical flow from purpose → evidence → analysis → conclusions
-• Clear transitions between sections
-• No orphaned content
-
-────────────────────────────────────────────────────────────
-V. EVIDENCE-BASED ARC CATEGORIES (EVIDENCE-BASED)
-────────────────────────────────────────────────────────────
-All quotations MUST derive from ARC evidence-based categories:
-
-A) PRIMARY — Direct evidence from subject period
-B) CONTEXTUAL — Contemporary/near-contemporary analysis
-C) SECONDARY — Scholarly analysis and synthesis
-D) CRITICAL — Modern historiographical evaluation
-
-Category definitions are governed by evidentiary purpose, not temporal origin.
-
-────────────────────────────────────────────────────────────
-VI. EVIDENCE QUALITY STANDARDS (EQS)
-────────────────────────────────────────────────────────────
-EQS defines objective quality requirements for all quotations.
-
-This standard governs admissibility through demonstrable criteria.
-
-────────────────────────────────────────────────────────────
-VI.A PASS CRITERIA (Must Meet ≥2)
-────────────────────────────────────────────────────────────
-A quotation PASSES EQS if it demonstrates:
-
-• AUTHORITY: Source credibility clearly established
-• RELEVANCE: Direct connection to MEM claims shown
-• CONTEXT: Historical/cultural context provided
-• LIMITATION: Source constraints or biases acknowledged
-
-────────────────────────────────────────────────────────────
-VI.B FAIL CRITERIA
-────────────────────────────────────────────────────────────
-A quotation FAILS EQS if it exhibits:
-
-• No analytical engagement with source content
-• Pure description without interpretive value
-• Misrepresentation of source intent
-• Failure to acknowledge evidentiary limitations
-
-EQS failure blocks canonical advancement.
-
-────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL CONSTRAINTS
-────────────────────────────────────────────────────────────
-MEMs MUST reflect civilization-specific constraint patterns:
-
-• Hard constraints (structural necessities)
-• Soft constraints (cultural preferences)
-• Failure-first analysis (what breaks the system)
-• Continuity preservation across regime change
-
-────────────────────────────────────────────────────────────
-VIII. MANDATORY 20% VERBATIM QUOTE STANDARD
-────────────────────────────────────────────────────────────
-All MEM files MUST contain at least 20% verbatim quotes by word count.
-
-PURPOSE: Force deeper scholarly engagement and stronger evidentiary grounding.
-
-CALCULATION: Quote words ÷ Total MEM words × 100 ≥ 20
-
-ENFORCEMENT: Automatic validation in canonical advancement process.
-
-────────────────────────────────────────────────────────────
-VIII.A ADAPTIVE QUOTATION REQUIREMENTS
-────────────────────────────────────────────────────────────
-Requirements scale based on subject complexity and source availability:
-
-PRIMARY CATEGORY (Direct Evidence):
-• ≥2 quotations, ≥50 words total (minimum)
-• ≥3 quotations for well-documented subjects
-• N/A for modern subjects with no primary sources
-
-CONTEXTUAL CATEGORY (Contemporary Analysis):
-• ≥1 quotation, ≥25 words (minimum)
-• ≥2 quotations for subjects with rich contemporary sources
-• ≥1 quotation for interpretive or modern subjects
-
-SECONDARY CATEGORY (Scholarly Analysis):
-• ≥2 distinct scholars, ≥1 quotation each (minimum)
-• ≥3 scholars for complex or contested subjects
-• ≥4 scholars for interpretive or theoretical topics
-
-CRITICAL CATEGORY (Historiographical Evaluation):
-• ≥1 quotation addressing methodology or limitations
-• ≥2 quotations for subjects requiring meta-analysis
-• Optional for straightforward factual subjects
-
-────────────────────────────────────────────────────────────
-VIII.B SUBJECT TYPE MATRIX
-────────────────────────────────────────────────────────────
-Apply requirements based on subject characteristics:
-
-WELL-DOCUMENTED EVENT (Target: 20-25% quotes):
-• PRIMARY: ≥4 quotations (rich source base)
-• CONTEXTUAL: ≥3 quotations (multiple contemporary perspectives)
-• SECONDARY: ≥4 scholars (analytical depth needed)
-• CRITICAL: ≥2 quotations (methodological awareness)
-
-SPARSE SOURCES SUBJECT (Target: 18-22% quotes):
-• PRIMARY: ≥3 quotations (limited availability)
-• CONTEXTUAL: ≥2 quotations (when available)
-• SECONDARY: ≥3 scholars (compensate for source limitations)
-• CRITICAL: ≥1 quotation (scholarly context essential)
-
-MODERN SUBJECT (19th-20th century) (Target: 18-22% quotes):
-• PRIMARY: N/A (no primary sources exist)
-• CONTEXTUAL: ≥2 quotations (contemporary accounts)
-• SECONDARY: ≥5 scholars (primary analytical burden - expanded for volume)
-• CRITICAL: ≥3 quotations (modern historiography essential)
-
-INTERPRETIVE/THEORETICAL SUBJECT (Target: 20-25% quotes):
-• PRIMARY: ≥2 quotations (establish factual foundation)
-• CONTEXTUAL: ≥2 quotations (period context)
-• SECONDARY: ≥5 scholars (multiple perspectives needed)
-• CRITICAL: ≥3 quotations (theoretical evaluation required)
-
-────────────────────────────────────────────────────────────
-VIII.C REQUIREMENT DECLARATION
-────────────────────────────────────────────────────────────
-MEM files MUST declare their subject type and applied requirements:
-
-SUBJECT TYPE DECLARATION:
-"This MEM addresses a [WELL-DOCUMENTED/SPARSE SOURCES/MODERN/INTERPRETIVE] subject.
-Applied requirements: PRIMARY ≥X, CONTEXTUAL ≥Y, SECONDARY ≥Z, CRITICAL ≥W"
-
-This declaration enables governance validation and ensures appropriate evidentiary standards.
-
-────────────────────────────────────────────────────────────
-VIII.D ANALYTICAL PROTECTION SAFEGUARDS
-────────────────────────────────────────────────────────────
-To prevent analytical starvation while enforcing 20% quote minimum:
-
-ANALYTICAL CONTENT FLOOR:
-• Minimum 70% of MEM content MUST be original analytical synthesis
-• Quote integration sections count as analytical content
-• Pure quote blocks do not count toward analytical floor
-
-CALCULATION: Analytical words ÷ Total MEM words × 100 ≥ 70
-
-ENFORCEMENT: Automatic validation requires both 20% quotes AND 70% analysis.
-
-────────────────────────────────────────────────────────────
-VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
-────────────────────────────────────────────────────────────
-To ensure quote quality over quantity:
-
-EQS COMPLIANCE REQUIREMENT:
-• All quotes must meet Evidence Quality Standards (EQS) (≥2 criteria)
-• Additional quotes beyond minimum must meet ≥3 EQS criteria
-• Marginal quotes automatically rejected in canonical review
-
-RELEVANCE THRESHOLD:
-• Each quote must materially advance MEM analysis
-• Decorative or volume-padding quotes prohibited
-• Quote selection must demonstrate scholarly judgment
-
-SCHOLARLY DIVERSITY REQUIREMENT:
-• Quotes must represent multiple scholarly perspectives
-• Single-author dominance prohibited
-• Must include both supportive and challenging viewpoints
-
-────────────────────────────────────────────────────────────
-IX. SECONDARY SOURCE ENTANGLEMENT
-────────────────────────────────────────────────────────────
-Secondary quotations MUST be analytically integrated.
-Citation without analytical engagement is INVALID.
-
-────────────────────────────────────────────────────────────
-X. MEM CONNECTION REQUIREMENTS (BINARY · HARD)
-────────────────────────────────────────────────────────────
-Every MEM file MUST include a dedicated MEM CONNECTIONS section.
-
-Connection requirements:
-
-• ≥10 same-civilization MEM connections
-• ≥2 GEO MEM files required
-• Each listed connection MUST be structurally necessary
-
-────────────────────────────────────────────────────────────
-X.A BINARY CONNECTION RULE
-────────────────────────────────────────────────────────────
-MEM Connections are binary.
-
-A connection is either:
-• PRESENT (structurally necessary)
-• ABSENT (not structurally necessary)
-
-No grading, scoring, or weighting of connection strength.
-
-────────────────────────────────────────────────────────────
-X.B CONNECTION JUSTIFICATION (REQUIRED)
-────────────────────────────────────────────────────────────
-Each MEM Connection MUST include a concise justification explaining:
-
-• What dependency exists
-• Why the connected MEM is necessary for intelligibility
-• What breaks if the connection is removed
-
-────────────────────────────────────────────────────────────
-XI. SCHOLAR CONSTRAINTS (MANDATORY)
-────────────────────────────────────────────────────────────
-Every MEM MUST include scholar constraints (RLLs - Recursive Learning Ledgers).
-
-Format: RLL–[NUMBER]: [CONSTRAINT DESCRIPTION]
-
-Constraints MUST be:
-• Binding law in Scholar Phase
-• Testable against evidence
-• Civilization-specific where applicable
-
-────────────────────────────────────────────────────────────
-XII. CITATION & ATTRIBUTION
-────────────────────────────────────────────────────────────
-All sources MUST be:
-• Properly attributed
-• Verifiably accessible
-• Compliant with ARC admissibility rules
-
-────────────────────────────────────────────────────────────
-XIII. VERSION CONTROL & GOVERNANAD
-────────────────────────────────────────────────────────────
-• Version pinning to specific template/ARC versions
-• Clear upgrade trails
-• Governance violation reporting mechanisms
-
-────────────────────────────────────────────────────────────
-XIV. ARC VERSION PINNING
-────────────────────────────────────────────────────────────
-Each MEM MUST declare ARC–[CIV] version used.
-Mismatch blocks canonical lock.
-
-────────────────────────────────────────────────────────────
-XV. COMPLIANCE TIERS
-────────────────────────────────────────────────────────────
-DRAFT → PARTIAL → COMPLIANT → CANONICAL
-
-CANONICAL: Requires ≥20% quotes with 70% analytical content and EQS compliance
-
-────────────────────────────────────────────────────────────
-XVI. FAILURE MODE ENFORCEMENT
-────────────────────────────────────────────────────────────
-Silent failure is prohibited.
-All failures must be declared with reason.
-
-────────────────────────────────────────────────────────────
-XVII. LANGUAGE CONSTRAINTS
-────────────────────────────────────────────────────────────
-Forbidden:
-• inevitable
-• destined
-• obvious
-• had to
-
-────────────────────────────────────────────────────────────
-XVIII. STORAGE & MIRRORING RULE
-────────────────────────────────────────────────────────────
-This file MUST be mirrored verbatim into:
-–CIV–CORE–[CIV] (all civilizations)
-–CIV–SCHOLAR–[CIV] (all civilizations)
-–CIV–INDEX–[CIV] (when applicable)
-
-Any divergence invalidates MEM compliance for that civilization.
-
-────────────────────────────────────────────────────────────
-XIX. VERSIONING & LOCK
-────────────────────────────────────────────────────────────
-• Additive upgrades only
-• Deletions forbidden
-• Canonical lock absolute
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.5
-────────────────────────────────────────────────────────────
-
-[ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v1.9
+END OF FILE — CIV–CORE–ROME — v2.0
 ────────────────────────────────────────────────────────────

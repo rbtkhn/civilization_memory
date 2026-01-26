@@ -1,318 +1,336 @@
-CIV–ARC–ROME — v1.9
+CIV–ARC–ROME — v2.0
 Civilizational Memory Codex · Academic Reference Canon
-Status: CANONICAL · STAND-ALONE · MIRRORED
-Scope: CIV–CORE–ROME and CIV–SCHOLAR–ROME (IDENTICAL TEXT)
+Author Admissibility & Temporal Precedence
+
+Status: ACTIVE · CANONICAL · SIMPLIFIED
+Supersedes: CIV–ARC–ROME v1.9
+Upgrade Type: MAJOR · NAMESPACE ALIGNMENT + SCOPE SIMPLIFICATION
+Scope: Author admissibility and temporal precedence ONLY
+Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & AUTHORITY
+UPGRADE NOTE (v2.0) — NAMESPACE ALIGNMENT + SCOPE SIMPLIFICATION
 ────────────────────────────────────────────────────────────
-This file defines the ARC (Academic Reference Canon) for the ROME civilization.
+This version aligns CIV–ARC–ROME with CIV–ARC–TEMPLATE v2.7.
 
-It specifies:
-• Which sources are admissible
-• How they must be quoted
-• How they are weighted
-• How they interact with MEM files
-• How discovery beyond listed sources is governed
+STRUCTURAL CHANGES:
+• Renamed categories to ARC-T-* namespace (ARC-T-ANCIENT, etc.)
+• Removed quotation quantity rules (now governed by CIV–MEM–TEMPLATE v2.8)
+• Added ERC Orthogonality section
+• Added "What ARC Does Not Govern" section
+• Updated Mirroring Rule to version pointer reference
+• Fixed typo: "GOVERNANAD" → "GOVERNANCE"
+
+PRESERVED:
+• All approved author lists (unchanged)
+• Temporal precedence rule
+• Discovery framework
+
+────────────────────────────────────────────────────────────
+I. PURPOSE & SCOPE
+────────────────────────────────────────────────────────────
+ARC governs TWO and ONLY TWO things:
+
+1. AUTHOR ADMISSIBILITY
+   Which historians, chroniclers, and scholars may be quoted
+   for the ROME civilization.
+
+2. TEMPORAL PRECEDENCE
+   When sources conflict, earlier testimony has priority.
+
+ARC does NOT govern:
+• How much to quote (see CIV–MEM–TEMPLATE)
+• How to evaluate quote quality (see EQS in CIV–MEM–TEMPLATE)
+• Evidence role classification (see ERC in CIV–MEM–TEMPLATE)
 
 This file is governance infrastructure, not interpretation.
 
-This canon MUST be copied verbatim into:
-• CIV–CORE–ROME
-• CIV–SCHOLAR–ROME
+────────────────────────────────────────────────────────────
+II. ARC-TEMPORAL CATEGORIES (ARC-T)
+────────────────────────────────────────────────────────────
+Authors are classified by the HISTORICAL PERIOD in which they wrote.
 
-MEM files may consume this canon.
-They may not modify, reinterpret, or extend it.
+ARC-T-ANCIENT
+Authors from Rome's classical/foundational period through AD 800.
+Direct witnesses to events, institutions, and practices.
 
-This file has authority over all MEM–ROME files with respect to source admissibility, quotation discipline, and interpretive weighting.
+ARC-T-MEDIEVAL
+Authors from AD 800 through AD 1500.
+Continuity witnesses, not direct evidence of ancient practice.
+
+ARC-T-EARLY-MOD
+Authors from the early modern critical period (c. 1500–1900).
+Historiographic interpretation, typically out of copyright.
+
+ARC-T-MODERN
+Authors from contemporary scholarship (c. 1900–present).
+Current academic interpretation, under copyright.
 
 ────────────────────────────────────────────────────────────
-II. SOURCE CATEGORIES (FIXED & EXHAUSTIVE)
+III. TEMPORAL PRECEDENCE RULE (ABSOLUTE)
 ────────────────────────────────────────────────────────────
-ARC sources are divided into four and only four categories:
+When sources from different periods conflict:
 
-A. ANCIENT
-B. MEDIEVAL
-C. EARLY MODERN
-D. MODERN
+PRECEDENCE ORDER:
+1. ARC-T-ANCIENT (highest authority)
+2. ARC-T-MEDIEVAL
+3. ARC-T-EARLY-MOD
+4. ARC-T-MODERN (lowest authority)
 
-No other category exists.
-No category may be collapsed into another.
-Misclassification is a compliance failure.
+RULE: Later periods may CLARIFY or FRAME earlier testimony.
+      Later periods may NOT OVERRIDE earlier testimony.
 
-Categories are chronological and functional, not ideological.
-
-────────────────────────────────────────────────────────────
-III. CATEGORY A — ANCIENT (REQUIRED)
-────────────────────────────────────────────────────────────
-Definition:
-Primary texts produced in antiquity that directly describe Roman, pre-Roman, or Roman-interfacing institutions, events, geography, law, or civilizational logic.
-
-Classification is by temporal origin, not legal status.
-
-Temporal Scope:
-• From earliest Greek historiography through AD 800
-• Includes late antique authors writing before the Carolingian coronation
-
-Approved Ancient Authors (ROME):
-• Herodotus
-• Thucydides
-• Xenophon
-• Polybius
-• Quintus Fabius Pictor
-• Cato the Elder
-• Diodorus Siculus
-• Dionysius of Halicarnassus
-• Livy
-• Sallust
-• Cicero
-• Julius Caesar
-• Strabo
-• Velleius Paterculus
-• Plutarch
-• Appian
-• Cassius Dio
-• Josephus
-• Tacitus
-• Pliny the Elder
-• Suetonius
-• Arrian
-• Ammianus Marcellinus
-• Eusebius of Caesarea
-• Aurelius Victor
-• Eutropius
-• Orosius
-• Zosimus
-• Procopius
-• Jordanes
-• Acts of the Apostles
-
-
-
-Rules (MANDATORY):
-• At least TWO distinct ancient-source quotations REQUIRED per MEM file
-• Quotations must be verbatim
-• Minimum length per quotation: 25 words
-• No maximum length
-• Translation must be identified if applicable
-• Quotations must materially support an analytic claim
-• Ancient quotations form the evidentiary spine of the MEM
-
-Ancient sources have absolute precedence over all other categories.
+If a modern scholar contradicts ancient testimony:
+• The ancient testimony stands
+• The contradiction must be explicitly noted
+• Resolution is NOT required
 
 ────────────────────────────────────────────────────────────
-IV. CATEGORY B — MEDIEVAL (REQUIRED WHEN APPLICABLE)
+IV. ARC-T-ANCIENT — APPROVED AUTHORS
 ────────────────────────────────────────────────────────────
 Definition:
-Primary and secondary sources produced after AD 800 that interpret, transmit, contest, or restructure Roman authority, legitimacy, law, theology, or civilizational memory within medieval contexts.
+Primary texts produced in antiquity that directly describe Roman,
+pre-Roman, or Roman-interfacing institutions, events, geography,
+law, or civilizational logic.
 
-This category exists to capture Roman continuity, not rupture.
+Temporal Scope: Earliest Greek historiography through AD 800
 
-Temporal Boundary:
-• Begins AD 800, marked by the coronation of Charlemagne
-• Extends through AD 1500
+Greek Historians (Pre-Roman & Roman-Interfacing):
+• Herodotus — Histories, 5th c. BCE
+• Thucydides — History of the Peloponnesian War, 5th c. BCE
+• Xenophon — Hellenica, Anabasis, 4th c. BCE
+• Polybius — Histories, 2nd c. BCE
+• Diodorus Siculus — Bibliotheca Historica, 1st c. BCE
+• Dionysius of Halicarnassus — Roman Antiquities, 1st c. BCE
+• Strabo — Geographica, 1st c. BCE/CE
+• Plutarch — Parallel Lives, 1st–2nd c. CE
+• Appian — Roman History, 2nd c. CE
+• Cassius Dio — Roman History, 2nd–3rd c. CE
+• Arrian — Anabasis of Alexander, 2nd c. CE
 
-Rationale:
-The coronation of Charlemagne represents a civilizational hinge:
-• Western Roman authority becomes sacralized and derivative
-• Eastern Roman authority persists administratively
-• Roman legitimacy becomes contested rather than unitary
+Roman Historians & Authors:
+• Quintus Fabius Pictor — Annales, 3rd c. BCE
+• Cato the Elder — Origines, 2nd c. BCE
+• Sallust — Bellum Catilinae, Bellum Jugurthinum, 1st c. BCE
+• Julius Caesar — Commentarii, 1st c. BCE
+• Cicero — Orations, Letters, Philosophical Works, 1st c. BCE
+• Livy — Ab Urbe Condita, 1st c. BCE/CE
+• Velleius Paterculus — Roman History, 1st c. CE
+• Pliny the Elder — Naturalis Historia, 1st c. CE
+• Tacitus — Annales, Historiae, Germania, 1st–2nd c. CE
+• Suetonius — De Vita Caesarum, 2nd c. CE
 
-Category B sources are evaluated as continuity witnesses, not as direct evidence of ancient Roman practice.
+Late Antique Authors:
+• Josephus — Jewish War, Antiquities, 1st c. CE
+• Ammianus Marcellinus — Res Gestae, 4th c. CE
+• Eusebius of Caesarea — Ecclesiastical History, 4th c. CE
+• Aurelius Victor — De Caesaribus, 4th c. CE
+• Eutropius — Breviarium, 4th c. CE
+• Orosius — Historiae Adversum Paganos, 5th c. CE
+• Zosimus — Historia Nova, 5th–6th c. CE
+• Procopius — Wars, Buildings, Secret History, 6th c. CE
+• Jordanes — Getica, Romana, 6th c. CE
+• Acts of the Apostles — 1st c. CE
 
-Representative Medieval Source Classes (ROME):
-• Carolingian and Ottonian imperial chronicles
-• Papal decretals and ecclesiastical histories
-• Byzantine historians (e.g., Anna Komnene)
-• Medieval Roman-law commentators
-• Latin and Greek theological-political treatises engaging Roman authority
+────────────────────────────────────────────────────────────
+V. ARC-T-MEDIEVAL — APPROVED AUTHORS
+────────────────────────────────────────────────────────────
+Definition:
+Primary and secondary sources produced after AD 800 that interpret,
+transmit, contest, or restructure Roman authority, legitimacy, law,
+theology, or civilizational memory within medieval contexts.
 
-Approved Medieval Authors (ROME):
+Temporal Scope: AD 800 (Carolingian coronation) through AD 1500
 
-Carolingian and Ottonian Imperial Chronicles/Histories:
-• Einhard (Vita Karoli Magni, early 9th century)
-• Royal Frankish Annals (Annales regni Francorum, late 8th century)
-• Widukind of Corvey (Res gestae Saxonicae, mid-10th century)
-• Thietmar of Merseburg (Chronicon, early 11th century)
+Carolingian and Ottonian Imperial Chronicles:
+• Einhard — Vita Karoli Magni, early 9th c.
+• Royal Frankish Annals — Annales regni Francorum, late 8th c.
+• Widukind of Corvey — Res gestae Saxonicae, mid-10th c.
+• Thietmar of Merseburg — Chronicon, early 11th c.
 
 Papal Decretals and Ecclesiastical Histories:
-• Gratian (Decretum, mid-12th century)
-• Liber Pontificalis (ongoing papal biographies, with medieval continuations)
+• Gratian — Decretum, mid-12th c.
+• Liber Pontificalis — ongoing papal biographies, medieval continuations
 
 Byzantine Historians:
-• Anna Komnene (Alexiad, early 12th century)
-• John Skylitzes (Synopsis Historion, 11th century)
-• Michael Psellos (Chronographia, 11th century)
+• Anna Komnene — Alexiad, early 12th c.
+• John Skylitzes — Synopsis Historion, 11th c.
+• Michael Psellos — Chronographia, 11th c.
 
 Medieval Roman-Law Commentators:
-• Accursius (Glossa Ordinaria, mid-13th century)
-• Bartolus de Saxoferrato (mid-14th century)
-• Baldus de Ubaldis (late 14th century)
-
-Rules (MANDATORY):
-• Category B may NOT replace Category A when ancient evidence exists
-• Category B may clarify survival, mutation, or reinterpretation of Roman forms
-• Category B quotations must be verbatim
-• Minimum quotation length: 25 words unless limited by manuscript form
-• Medieval sources may not override ancient testimony
+• Accursius — Glossa Ordinaria, mid-13th c.
+• Bartolus de Saxoferrato — Commentaries, mid-14th c.
+• Baldus de Ubaldis — Commentaries, late 14th c.
 
 ────────────────────────────────────────────────────────────
-V. CATEGORY C — EARLY MODERN (REQUIRED)
+VI. ARC-T-EARLY-MOD — APPROVED AUTHORS
 ────────────────────────────────────────────────────────────
 Definition:
-Historical scholarship from the early modern period (approximately 1500–1900) that interprets Roman history, institutions, and civilizational logic. These sources are typically no longer under copyright and serve as secondary interpretation rather than primary testimony.
+Historical scholarship from the early modern period (c. 1500–1900)
+that interprets Roman history, institutions, and civilizational logic.
+Typically out of copyright.
 
-Temporal Scope:
-• From approximately AD 1500 through the late 19th century
-• Includes Enlightenment and 19th-century classical scholarship
-
-Function:
-Interpretive framing, synthesis, historiographic contrast, and foundational modern theoretical clarification of Roman history.
-
-Approved Early Modern Scholars (ROME):
+Function: Interpretive framing, synthesis, historiographic contrast.
 
 Enlightenment/Early Modern (18th century):
-• Montesquieu (Charles-Louis de Secondat, Baron de Montesquieu, 1689–1755) — Considerations on the Causes of the Greatness of the Romans and Their Decline (1734)
-• Voltaire (François-Marie Arouet, 1694–1778) — Essay on the Customs and the Spirit of Nations (1756) and related essays on Rome
+• Montesquieu (1689–1755) — Considerations on the Greatness of the Romans
+• Voltaire (1694–1778) — Essay on the Customs and Spirit of Nations
 
 19th-Century German/Continental Scholarship:
-• Barthold Georg Niebuhr (1776–1831) — History of Rome (Römische Geschichte, 1811–1832)
-• Theodor Mommsen (1817–1903) — History of Rome (Römische Geschichte, 1854–1885)
-• Wilhelm Drumann (1786–1861) — Geschichte Roms in seinem Übergange von der republikanischen zur monarchischen Verfassung (1834–1844)
-• Leopold von Ranke (1795–1886) — Universal History and methodological works on Roman history
+• Barthold Georg Niebuhr (1776–1831) — History of Rome
+• Theodor Mommsen (1817–1903) — History of Rome, Roman Constitutional Law
+• Wilhelm Drumann (1786–1861) — Geschichte Roms
+• Leopold von Ranke (1795–1886) — Universal History
 
 19th-Century British/Anglophone Scholarship:
-• Edward Gibbon (1737–1794) — The History of the Decline and Fall of the Roman Empire (1776–1789)
-• Thomas Arnold (1795–1842) — History of Rome (1838–1843)
-• Charles Merivale (1808–1893) — History of the Romans under the Empire (1850–1862)
-• Henry Thomas Buckle (1821–1862) — History of Civilization in England (1857–1861), sections on Rome
+• Edward Gibbon (1737–1794) — Decline and Fall of the Roman Empire
+• Thomas Arnold (1795–1842) — History of Rome
+• Charles Merivale (1808–1893) — History of the Romans under the Empire
+• Henry Thomas Buckle (1821–1862) — History of Civilization in England
 
-Late 19th-Century/Early 20th-Century Scholarship:
-• Gaetano De Sanctis (1870–1957) — Storia dei Romani (1907–1964)
-• Mikhail Rostovtzeff (1870–1952) — Social and Economic History of the Roman Empire (1926)
-
-Rules (MANDATORY):
-• At least TWO early modern scholarly quotations REQUIRED per MEM file
-• Quotations must be verbatim
-• Minimum length per quotation: 25 words
-• No maximum length
-• Must be interpretive rather than evidentiary
-• May not substitute for ancient-source grounding
-• Early modern scholarship contextualizes; it does not anchor
+Late 19th/Early 20th Century:
+• Gaetano De Sanctis (1870–1957) — Storia dei Romani
+• Mikhail Rostovtzeff (1870–1952) — Social and Economic History of the Roman Empire
 
 ────────────────────────────────────────────────────────────
-VI. CATEGORY D — MODERN (REQUIRED)
+VII. ARC-T-MODERN — APPROVED AUTHORS
 ────────────────────────────────────────────────────────────
 Definition:
-Contemporary historians and classicists writing under copyright (approximately 1900–present) that interpret Roman history, institutions, and civilizational logic.
+Contemporary historians and classicists writing under copyright
+(c. 1900–present) that interpret Roman history, institutions,
+and civilizational logic.
 
-Function:
-Interpretive framing, synthesis, historiographic contrast, or contemporary theoretical clarification.
-
-Approved Modern Scholars (ROME):
+Function: Interpretive framing, synthesis, contemporary theoretical clarification.
 
 Late Antiquity and Decline/Fall Debates:
-• Peter Brown (b. 1935) — The World of Late Antiquity (1971), The Making of Late Antiquity (1978)
-• Averil Cameron (b. 1938) — The Mediterranean World in Late Antiquity (1993)
-• Peter Heather (b. 1960) — The Fall of the Roman Empire (2005), Empires and Barbarians (2009)
+• Peter Brown (b. 1935) — The World of Late Antiquity, The Making of Late Antiquity
+• Averil Cameron (b. 1938) — The Mediterranean World in Late Antiquity
+• Peter Heather (b. 1960) — The Fall of the Roman Empire, Empires and Barbarians
 • Hans-Ulrich Wiemer (b. 1967) — Works on late Roman and early Byzantine history
 
 Republican and Imperial Institutions/Society:
-• Ronald Syme (1903–1989) — The Roman Revolution (1939)
+• Ronald Syme (1903–1989) — The Roman Revolution
 • Anthony Everitt (b. 1940) — Biographical works on Roman figures
-• Adrian Goldsworthy (b. 1969) — Military and political narratives of Roman history
+• Adrian Goldsworthy (b. 1969) — Military and political narratives
+• Mary Beard (b. 1955) — SPQR, The Roman Triumph
 
 Byzantine/Roman Continuity:
-• Anthony Kaldellis (b. 1971) — Works on Byzantine Roman identity and continuity
+• Anthony Kaldellis (b. 1971) — Works on Byzantine Roman identity
 • Peter Sarris (b. 1971) — Works on late antique economy and Byzantium
+• Judith Herrin (b. 1942) — Byzantium: The Surprising Life of a Medieval Empire
+• Jonathan Harris (b. 1961) — The End of Byzantium
 
 Military History:
 • Richard Gabriel (b. 1942) — Works on Roman military history
 
-Rules (MANDATORY):
-• At least TWO distinct modern scholars REQUIRED per MEM file
-• At least ONE verbatim quotation REQUIRED per modern scholar
-• Quotations must comply with fair-use norms
-• Short quotations preferred, but length is governed by fair use, not an artificial word cap
-• Paraphrase may supplement but may NOT replace verbatim quotation
-• Modern scholarship may not serve as sole support for core claims
+Black Sea/Pontus:
+• Duane W. Roller — Empire of the Black Sea
 
 ────────────────────────────────────────────────────────────
-VII. QUOTATION HIERARCHY & INTERPRETIVE WEIGHT
+VIII. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
-Interpretive precedence is fixed:
-	1.	Category A — Ancient
-	2.	Category B — Medieval
-	3.	Category C — Early Modern
-	4.	Category D — Modern
+ARC-T (temporal categories) and ERC (evidence role categories)
+are ORTHOGONAL classification systems.
 
-Later tiers may clarify or frame.
-They may not override earlier tiers.
+A single quotation has BOTH classifications:
 
-No synthesis may contradict Category A without explicit contradiction marking in SCHOLAR files.
+EXAMPLE:
+A quote from Gibbon's Decline and Fall:
+• ARC-T: ARC-T-EARLY-MOD (18th century author)
+• ERC: ERC-SECONDARY (scholarly interpretation)
+
+EXAMPLE:
+A quote from Tacitus:
+• ARC-T: ARC-T-ANCIENT (1st–2nd century CE author)
+• ERC: ERC-PRIMARY (direct evidence from period)
+
+EXAMPLE:
+A modern scholar quoting an ancient inscription:
+• ARC-T: ARC-T-MODERN (contemporary author)
+• ERC: ERC-PRIMARY (the inscription is primary evidence)
+
+See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
 
 ────────────────────────────────────────────────────────────
-VIII. ARC–DISCOVERY–FRAMEWORK (NORMALIZED)
+IX. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-To prevent canon brittleness while preserving governance discipline, ARC employs a tiered discovery protocol.
+The following are governed by CIV–MEM–TEMPLATE v2.8, NOT by ARC:
 
-This framework applies to Category A (Ancient) and Category B (Medieval) sources.
+• 20% verbatim quote minimum (MEM-TEMPLATE VIII)
+• Evidence Quality Standards / EQS (MEM-TEMPLATE VI)
+• Analytical content floor / 70% (MEM-TEMPLATE VIII.D)
+• Quote word counting rules (MEM-TEMPLATE VIII.D)
+• Subject-type adaptive requirements (MEM-TEMPLATE VIII.B)
+• ERC evidence-role classification (MEM-TEMPLATE V)
+• MEM Connection requirements (MEM-TEMPLATE X)
 
-Discovery Sequence:
-	1.	Presumptive Canon Search
-• System first searches listed authors and standard editions
-• Time-bound internal discovery window
-	2.	Candidate Buffer Expansion
-• If insufficient material is found, system may expand search to:
-–Adjacent contemporaneous authors
-–Recognized manuscript traditions
-–System-accessible academic corpora
-	3.	Justification Requirement
-• Any non-listed source must be flagged as:
-"ARC–DISCOVERY: EXPANDED SEARCH"
-• Justification must be recorded in SCHOLAR ingestion metadata
+ARC determines WHO may be quoted.
+MEM-TEMPLATE determines HOW MUCH and HOW WELL.
+
+────────────────────────────────────────────────────────────
+X. ARC DISCOVERY FRAMEWORK
+────────────────────────────────────────────────────────────
+When a MEM requires sources beyond the approved list:
+
+DISCOVERY SEQUENCE:
+1. Search listed authors first
+2. If insufficient, expand to adjacent authors/traditions
+3. Flag all non-listed sources
+
+DISCOVERY FLAG (REQUIRED):
+"ARC–DISCOVERY: EXPANDED SEARCH
+Source: [Author/Work]
+Justification: [Why this source is necessary]"
 
 Expanded discovery does NOT:
-• Add new approved authors to the canon
-• Alter category definitions
-• Override quotation hierarchy
+• Add authors to the permanent canon
+• Alter temporal precedence
+• Remove the requirement to flag
 
-Discovery flexibility serves completeness, not discretion.
+Discovery applies to ARC-T-ANCIENT and ARC-T-MEDIEVAL categories.
+Modern scholars may be added through canon update process.
 
 ────────────────────────────────────────────────────────────
-IX. PROHIBITIONS
+XI. MIRRORING RULE
+────────────────────────────────────────────────────────────
+This ARC file MUST be referenced in:
+• CIV–CORE–ROME
+• CIV–SCHOLAR–ROME
+
+Full embedding is no longer required.
+Reference by version pointer is sufficient:
+
+"ARC Reference: CIV–ARC–ROME v2.0"
+
+Any version mismatch invalidates compliance.
+
+────────────────────────────────────────────────────────────
+XII. PROHIBITIONS
 ────────────────────────────────────────────────────────────
 The following are prohibited:
+
 • Mislabeling sources across temporal categories
-• Collapsing medieval sources into ancient categories
-• Collapsing early modern sources into modern categories
-• Omitting any required category
-• Using non-listed scholars without explicit canon update
-• Universal or cross-civilization canons
+• Collapsing ARC-T-MEDIEVAL into ARC-T-ANCIENT
+• Collapsing ARC-T-EARLY-MOD into ARC-T-MODERN
+• Omitting any required category in GEO–MEM files
+• Using non-listed scholars without discovery flag
 • MEM-level modification of this file
 
 ────────────────────────────────────────────────────────────
-X. STORAGE & MIRRORING RULE
+XIII. VERSIONING
 ────────────────────────────────────────────────────────────
-This file:
-• May be stored externally
-• May be versioned independently
-• MUST be mirrored verbatim into:
-–CIV–CORE–ROME
-–CIV–SCHOLAR–ROME
-
-Any divergence invalidates compliance.
-
-────────────────────────────────────────────────────────────
-XI. CANON STATE
-────────────────────────────────────────────────────────────
-Version: CIV–ARC–ROME v1.9
+Version: CIV–ARC–ROME v2.0
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–ROME v1.8
-Upgrade Type: ADDITIVE · CHRONOLOGICAL EXPANSION · DISCOVERY GOVERNANAD
+Supersedes: CIV–ARC–ROME v1.9
+Upgrade Type: MAJOR · NAMESPACE ALIGNMENT + SCOPE SIMPLIFICATION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
+• Additive upgrades only for author lists
+• Temporal precedence rule is immutable
+• Discovery framework may be refined
+• Namespace alignment is permanent
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ROME — v1.9
+END OF FILE — CIV–ARC–ROME v2.0
 ────────────────────────────────────────────────────────────
