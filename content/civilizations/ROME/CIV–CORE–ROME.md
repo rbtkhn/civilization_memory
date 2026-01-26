@@ -377,7 +377,7 @@ C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
 XXIV. DOCTRINE MIRROR — ROME (DECLARATIVE MIRROR)
 ────────────────────────────────────────────────────────────
 CIV–DOCTRINE–ROME doctrines are mirrored verbatim from
-CIV–DOCTRINE–ROME v1.0 for citation and reference.
+CIV–DOCTRINE–ROME v2.0 for citation and reference.
 
 Mirroring Rules:
 • Mirroring is declarative, not interpretive
@@ -494,6 +494,172 @@ Hard Constraints:
 • Political culture may demand expansion
 • Overextension accelerates legitimacy loss
 • Maintenance requires elite discipline
+
+════════════════════════════════════════════════════════════
+PHASE II DOCTRINES (v2.0)
+════════════════════════════════════════════════════════════
+
+DOCTRINE 06
+Name: VACANCY BY DECLINATION
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0029) + RLL–ROME–0002
+
+Definition:
+Authority becomes genuinely vacant not through absence of claimants
+but through the possessor's refusal to claim. When those with
+structural power to hold a title decline it, the title becomes
+available to competitors who lack structural basis.
+
+Operational Meaning:
+• Possession without claim creates vacancy
+• Declination enables fragment competition
+• Structural power and titular claim are separable
+
+Hard Constraints:
+• Vacancy requires a declined claim, not mere absence
+• Competing claims require the declination to be recognized
+• False claims cannot fill genuine vacancy
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 07
+Name: FRAGMENT INHERITANCE
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0018–0021) + RLL–ROME–0006
+
+Definition:
+Universal authority cannot be wholly inherited after collapse.
+Multiple claimants will each hold fragments of the original
+authority and claim the rest, producing permanent rivalry rather
+than clean succession.
+
+Operational Meaning:
+• Collapse produces fragments, not successors
+• Each fragment claims universality
+• No fragment can absorb all others
+• Rivalry is structural, not resolvable
+
+Hard Constraints:
+• Fragment pattern requires genuine collapse (not mere transition)
+• Fragments must hold some structural basis for claim
+• Total annihilation (Carthage) prevents fragment pattern
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 08
+Name: ABSORPTION PREVENTS FRAGMENTATION
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0027)
+
+Definition:
+Empires that absorb conquered peoples through citizenship pathways
+prevent fragmentation by creating stakeholders rather than subjects.
+Absorption converts potential rivals into defenders.
+
+Operational Meaning:
+• Citizens defend their own status
+• Subjects require defense by others
+• Inclusion is cheaper than occupation
+• Stakeholders identify with the center
+
+Hard Constraints:
+• Absorption requires citizenship pathways
+• Some enemies cannot be absorbed (civilizational incompatibility)
+• Absorption dilutes original identity over time
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 09
+Name: SYSTEMS DEFEAT GENIUS
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0031)
+
+Definition:
+Institutional depth prevails over individual brilliance in prolonged
+conflict. Tactical genius cannot compensate for structural weakness;
+replacement capacity defeats operational excellence.
+
+Operational Meaning:
+• Systems replace losses; genius cannot
+• Time favors the institutionally deeper party
+• Tactical annihilation is not strategic victory
+• Attrition is a strategic choice, not a failure
+
+Hard Constraints:
+• Systems require time to manifest advantage
+• Catastrophic early defeat can preclude systemic response
+• Genius can accelerate outcomes within structural limits
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 10
+Name: INSTITUTIONAL LEARNING
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0032)
+
+Definition:
+Rome survives by copying, standardizing, and multiplying foreign
+capabilities rather than inventing new ones. Encounter foreign
+competence → copy it → standardize it → multiply it → deploy at scale.
+
+Operational Meaning:
+• Imitation is faster than invention
+• Standardization enables scaling
+• Discipline substitutes for expertise
+• Multiplication overwhelms specialization
+
+Hard Constraints:
+• Copying requires recognizing what to copy
+• Standardization loses edge cases
+• Multiplication requires institutional capacity
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 11
+Name: ANNIHILATION PREVENTS INHERITANCE
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0030)
+
+Definition:
+Total destruction of a rival closes the vacancy before it opens.
+Unlike defeated enemies who can be absorbed, annihilated enemies
+leave no fragments, no claimants, no inheritance competition.
+
+Operational Meaning:
+• Annihilation is vacancy prevention
+• Absorption leaves identity intact; annihilation does not
+• Preventive destruction eliminates future risk
+• Erasure secures memory monopoly
+
+Hard Constraints:
+• Annihilation is irreversible
+• Annihilation is morally corrosive
+• Annihilation creates demonstration effect (both deterrent and horror)
+• Most enemies should be absorbed, not annihilated
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 12
+Name: SELECTIVE ABSORPTION
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–ROME (SYNTHESIS 0035)
+
+Definition:
+Rome survives by absorbing foreign ideas selectively — taking what
+strengthens while rejecting what destabilizes. Philosophy, religion,
+and culture are filtered through pragmatic evaluation.
+
+Operational Meaning:
+• Absorb ethics, reject political absolutism
+• Absorb techniques, reject dependencies
+• Absorb symbols, reject incompatible structures
+• Absorption is active choice, not passive reception
+
+Hard Constraints:
+• Selective absorption requires judgment capacity
+• Over-absorption erodes original identity
+• Under-absorption loses competitive advantage
+• Some ideas resist selective extraction
 
 ────────────────────────────────────────────────────────────
 XXV. FREEZE & EXPORT READINESS DECLARATION
