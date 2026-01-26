@@ -12,7 +12,7 @@ Compatibility:
 • CIV–MEM–CORE v2.2+
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
-• CIV–MIND–BARNES v1.6 (TERTIARY CATALYST)
+• CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
@@ -117,7 +117,7 @@ The advisory mind:
 
 III.C TERTIARY CATALYST
 ────────────────────────────────────────────────────────────
-Role: CIV–MIND–BARNES v1.6
+Role: CIV–MIND–BARNES v2.5
 Status: INACTIVE BY DEFAULT (OGE-required in all modes)
 Function: Triggers new insight in primary and advisory minds
 
@@ -248,7 +248,7 @@ ADVISORY MIND (MEARSHEIMER v2.4):
 • Persistence: Per-invocation only
 • Mutation: Forbidden without explicit human revision
 
-TERTIARY CATALYST (BARNES v1.6):
+TERTIARY CATALYST (BARNES v2.5):
 • Activation: OGE-required in all modes (1 option mandatory)
 • Deactivation: After POST-BARNES OGE complete
 • Persistence: Per-invocation only

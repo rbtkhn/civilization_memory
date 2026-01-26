@@ -121,7 +121,7 @@ POLYPHONY PRESERVED:
 • Tension preserved, not synthesized
 • User navigates divergence
 
-TERTIARY CATALYST: BARNES (per CIV–MIND–BARNES v1.6)
+TERTIARY CATALYST: BARNES (per CIV–MIND–BARNES v2.5)
 • OGE-REQUIRED in ALL modes (1 option mandatory)
 • Triggers new insight in both MERCOURIS and MEARSHEIMER
 • Post-Barnes OGE MUST include M/M response options
@@ -132,7 +132,7 @@ Mode-Specific Framing:
 • LEARN MODE: Barnes provides EXPLORATORY EXPANSION
 • IMAGINE MODE: Barnes provides COUNTERFACTUAL PROBING
 
-See: CIV–MIND–BARNES v1.6 for full tertiary catalyst specification.
+See: CIV–MIND–BARNES v2.5 for full tertiary catalyst specification.
 
 MECHANISM SIMPLIFIED:
 • No profile switching

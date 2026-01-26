@@ -31,7 +31,7 @@ CORE GOVERNANCE:
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.4 (ADVISORY)
-• CIV–MIND–BARNES: v1.6 (TERTIARY CATALYST)
+• CIV–MIND–BARNES: v2.5 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
@@ -140,6 +140,7 @@ IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
 2026-01-26:
+• CIV–MIND–BARNES: v1.6 → v2.5 (expanded empirical fingerprint from Viva Frei Jan 2026)
 • CIV–MIND–TEMPLATE: v1.1 → v2.5 (tertiary catalyst integration)
 • CIV–MIND–MERCOURIS: v2.4 → v2.5 (Barnes alignment update)
 • CIV–MIND–MEARSHEIMER: v2.3 → v2.4 (Barnes alignment update)

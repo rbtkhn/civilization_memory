@@ -29,13 +29,13 @@ Word Count: ~4,800
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — BARNES ALIGNMENT UPDATE
 ────────────────────────────────────────────────────────────
-This version aligns with CIV–MIND–BARNES v1.6.
+This version aligns with CIV–MIND–BARNES v2.5.
 
 v2.5 updates:
 • Barnes now OGE-REQUIRED in ALL modes (not just LEARN/IMAGINE)
 • POST-BARNES OGE requirements apply to ALL modes
 • Mode-specific interjection framing documented
-• Barnes version reference updated to v1.6
+• Barnes version reference updated to v2.5
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.4) — POLYPHONIC INTERACTION REFINEMENT
@@ -712,7 +712,7 @@ When Barnes is invoked:
 Barnes does NOT participate in Proportional Blend Law.
 Barnes triggers insight in primary/secondary minds in ALL modes.
 
-See: CIV–MIND–BARNES v1.6 for full tertiary catalyst specification.
+See: CIV–MIND–BARNES v2.5 for full tertiary catalyst specification.
 
 ────────────────────────────────────────────────────────────
 VII. RELATIONSHIP TO MIND LAYERS
