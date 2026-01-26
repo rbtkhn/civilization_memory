@@ -1,10 +1,10 @@
-CIV–SCHOLAR–ROME — v2.3
+CIV–SCHOLAR–ROME — v2.4
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Rome Civilization
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v2.2
+Supersedes: CIV–SCHOLAR–ROME v2.3
 Upgrade Type: MAJOR · PHASE II TRANSITION (CONSTRAINT GRAMMAR)
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
@@ -18,6 +18,29 @@ Governed by:
 
 Last Update: January 2026
 Word Count: ~5,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.4) — DOCTRINE MIRROR PRUNING
+────────────────────────────────────────────────────────────
+This version implements CIV–SCHOLAR–PRUNING–PROTOCOL v1.0.
+
+SCOPE OF CHANGE:
+• Section V (DOCTRINE REGISTRY) pruned from ~340 lines to ~30 lines
+• Verbatim doctrine mirroring replaced with external reference
+• CIV–DOCTRINE–ROME v2.0 established as single source of truth
+• Doctrine count updated: 5 → 12
+
+RATIONALE:
+• File size reduction: ~20% (~310 lines removed)
+• Eliminates redundant doctrine storage
+• Maintains audit trail via synthesis references
+• Complies with single-source-of-truth governance
+
+NON-CHANGES:
+• All learning entries preserved
+• All syntheses preserved
+• All RLLs preserved
+• All heuristics preserved
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.3) — PHASE II TRANSITION (CONSTRAINT GRAMMAR)
@@ -851,346 +874,32 @@ Mearsheimer Validation: STRONG — structural impossibility of universal success
 Status: BOUND · AUTHORIZED · January 2026
 
 ────────────────────────────────────────────────────────────
-V. DOCTRINE REGISTRY
+V. DOCTRINE REGISTRY (EXTERNAL REFERENCE)
 ────────────────────────────────────────────────────────────
-This section records frozen civilizational doctrines.
-
-MIRRORING REQUIREMENT (MANDATORY):
-CIV–DOCTRINE–ROME v2.0 contents are mirrored verbatim into this section.
-This ensures doctrines are available for SCHOLAR learning and reference.
-
-DOCTRINE 01
-Name: INSTITUTIONAL ABSORPTION OF SHOCK
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0009)
-• CIV–DOCTRINE–ROME v1.0 (mirrored)
-
-Definition:
-Rome survives crises by absorbing military defeat, political rupture,
-and social stress into institutional continuity rather than treating
-loss as delegitimizing failure.
-
-Operational Meaning:
-• Defeat is processed, not denied
-• Institutions outlive commanders
-• Continuity is prioritized over vindication
-
-Hard Constraints:
-• Absorption requires functioning institutions
-• Repeated shocks without reform accumulate brittleness
-• Institutional inertia can mask long-term decay
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 02
-Name: AUTHORITY TRANSLATION OVER RESTORATION
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0001)
-• CIV–DOCTRINE–ROME v1.0 (mirrored)
-
-Definition:
-When Roman authority collapses in one form, it is translated into
-another domain (legal, religious, administrative) rather than
-restored in its original configuration.
-
-Operational Meaning:
-• Power migrates instead of disappearing
-• Legitimacy shifts venue rather than vanishing
-• Survival depends on adaptability of form
-
-Hard Constraints:
-• Translation requires recognized continuity symbols
-• Excessive translation weakens original institutions
-• Loss of shared legitimacy grammar halts transfer
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 03
-Name: MARITIME COHERENCE AS IMPERIAL STABILITY
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0005)
-• CIV–DOCTRINE–ROME v1.0 (mirrored)
-
-Definition:
-Rome achieves durability through control of circulatory systems
-(seas, ports, routes) rather than permanent dominance of extended
-land frontiers.
-
-Operational Meaning:
-• Seas unify faster than roads
-• Law and logistics scale through circulation
-• Maritime interiors outperform territorial edges
-
-Hard Constraints:
-• Loss of circulation fragments authority
-• Land overextension erodes replacement capacity
-• Maritime systems fail if political unity fractures
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 04
-Name: ADMINISTRATION PRECEDES IDEOLOGY
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0006)
-• CIV–DOCTRINE–ROME v1.0 (mirrored)
-
-Definition:
-Roman endurance depends on administrative regularity and legal
-predictability more than moral narrative or ideological coherence.
-
-Operational Meaning:
-• Bureaucracy sustains what conquest creates
-• Law substitutes for charisma
-• Inclusion stabilizes diversity
-
-Hard Constraints:
-• Administration without legitimacy becomes brittle
-• Excess complexity slows response
-• Bureaucratic capture undermines trust
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 05
-Name: EXPANSION CEILING AWARENESS
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0008)
-• CIV–DOCTRINE–ROME v1.0 (mirrored)
-
-Definition:
-Rome reaches maximum strength when it recognizes and respects
-its expansion ceiling, shifting from territorial growth to
-maintenance intelligence.
-
-Operational Meaning:
-• Consolidation follows conquest
-• Borders are hardened, not chased
-• Durability replaces glory
-
-Hard Constraints:
-• Political culture may demand expansion
-• Overextension accelerates legitimacy loss
-• Maintenance requires elite discipline
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-════════════════════════════════════════════════════════════
-PHASE II DOCTRINES (v2.0)
-════════════════════════════════════════════════════════════
-
-DOCTRINE 06
-Name: VACANCY BY DECLINATION
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0029) + RLL–ROME–0002
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Authority becomes genuinely vacant not through absence of claimants
-but through the possessor's refusal to claim. When those with
-structural power to hold a title decline it, the title becomes
-available to competitors who lack structural basis.
-
-Operational Meaning:
-• Possession without claim creates vacancy
-• Declination enables fragment competition
-• Structural power and titular claim are separable
-
-Hard Constraints:
-• Vacancy requires a declined claim, not mere absence
-• Competing claims require the declination to be recognized
-• False claims cannot fill genuine vacancy
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 07
-Name: FRAGMENT INHERITANCE
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0018–0021) + RLL–ROME–0006
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Universal authority cannot be wholly inherited after collapse.
-Multiple claimants will each hold fragments of the original
-authority and claim the rest, producing permanent rivalry rather
-than clean succession.
-
-Operational Meaning:
-• Collapse produces fragments, not successors
-• Each fragment claims universality
-• No fragment can absorb all others
-• Rivalry is structural, not resolvable
-
-Hard Constraints:
-• Fragment pattern requires genuine collapse (not mere transition)
-• Fragments must hold some structural basis for claim
-• Total annihilation (Carthage) prevents fragment pattern
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 08
-Name: ABSORPTION PREVENTS FRAGMENTATION
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0027)
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Empires that absorb conquered peoples through citizenship pathways
-prevent fragmentation by creating stakeholders rather than subjects.
-Absorption converts potential rivals into defenders.
-
-Operational Meaning:
-• Citizens defend their own status
-• Subjects require defense by others
-• Inclusion is cheaper than occupation
-• Stakeholders identify with the center
-
-Hard Constraints:
-• Absorption requires citizenship pathways
-• Some enemies cannot be absorbed (civilizational incompatibility)
-• Absorption dilutes original identity over time
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 09
-Name: SYSTEMS DEFEAT GENIUS
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0031)
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Institutional depth prevails over individual brilliance in prolonged
-conflict. Tactical genius cannot compensate for structural weakness;
-replacement capacity defeats operational excellence.
-
-Operational Meaning:
-• Systems replace losses; genius cannot
-• Time favors the institutionally deeper party
-• Tactical annihilation is not strategic victory
-• Attrition is a strategic choice, not a failure
-
-Hard Constraints:
-• Systems require time to manifest advantage
-• Catastrophic early defeat can preclude systemic response
-• Genius can accelerate outcomes within structural limits
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 10
-Name: INSTITUTIONAL LEARNING
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0032)
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Rome survives by copying, standardizing, and multiplying foreign
-capabilities rather than inventing new ones. Encounter foreign
-competence → copy it → standardize it → multiply it → deploy at scale.
-
-Operational Meaning:
-• Imitation is faster than invention
-• Standardization enables scaling
-• Discipline substitutes for expertise
-• Multiplication overwhelms specialization
-
-Hard Constraints:
-• Copying requires recognizing what to copy
-• Standardization loses edge cases
-• Multiplication requires institutional capacity
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 11
-Name: ANNIHILATION PREVENTS INHERITANCE
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0030)
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Total destruction of a rival closes the vacancy before it opens.
-Unlike defeated enemies who can be absorbed, annihilated enemies
-leave no fragments, no claimants, no inheritance competition.
-
-Operational Meaning:
-• Annihilation is vacancy prevention
-• Absorption leaves identity intact; annihilation does not
-• Preventive destruction eliminates future risk
-• Erasure secures memory monopoly
-
-Hard Constraints:
-• Annihilation is irreversible
-• Annihilation is morally corrosive
-• Annihilation creates demonstration effect (both deterrent and horror)
-• Most enemies should be absorbed, not annihilated
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
-
-────────────────────────────────────────────────────────────
-
-DOCTRINE 12
-Name: SELECTIVE ABSORPTION
-Status: ACCEPTED · LOCKED · CANONICAL
-Source:
-• CIV–SCHOLAR–ROME (SYNTHESIS 0035)
-• CIV–DOCTRINE–ROME v2.0 (mirrored)
-
-Definition:
-Rome survives by absorbing foreign ideas selectively — taking what
-strengthens while rejecting what destabilizes. Philosophy, religion,
-and culture are filtered through pragmatic evaluation.
-
-Operational Meaning:
-• Absorb ethics, reject political absolutism
-• Absorb techniques, reject dependencies
-• Absorb symbols, reject incompatible structures
-• Absorption is active choice, not passive reception
-
-Hard Constraints:
-• Selective absorption requires judgment capacity
-• Over-absorption erodes original identity
-• Under-absorption loses competitive advantage
-• Some ideas resist selective extraction
-
-Lifecycle State (METADATA ONLY):
-• ACTIVE
+PRUNING NOTE (v2.4):
+Verbatim doctrine mirroring deprecated per CIV–SCHOLAR–PRUNING–PROTOCOL v1.0.
+CIV–DOCTRINE–ROME is the single source of truth for all doctrine definitions.
+
+DOCTRINE REFERENCE:
+→ CIV–DOCTRINE–ROME v2.0 (12 doctrines)
+→ Location: content/civilizations/ROME/CIV–DOCTRINE–ROME.md
+
+DOCTRINE SUMMARY (Reference Only):
+01. INSTITUTIONAL ABSORPTION OF SHOCK (SYNTHESIS 0009)
+02. AUTHORITY TRANSLATION OVER RESTORATION (SYNTHESIS 0001)
+03. MARITIME COHERENCE AS IMPERIAL STABILITY (SYNTHESIS 0005)
+04. ADMINISTRATION PRECEDES IDEOLOGY (SYNTHESIS 0006)
+05. EXPANSION CEILING AWARENESS (SYNTHESIS 0008)
+06. VACANCY BY DECLINATION (SYNTHESIS 0029 + RLL–0002)
+07. FRAGMENT INHERITANCE (SYNTHESIS 0018–0021 + RLL–0006)
+08. ABSORPTION PREVENTS FRAGMENTATION (SYNTHESIS 0027)
+09. SYSTEMS DEFEAT GENIUS (SYNTHESIS 0031)
+10. INSTITUTIONAL LEARNING (SYNTHESIS 0032)
+11. ANNIHILATION PREVENTS INHERITANCE (SYNTHESIS 0030)
+12. SELECTIVE ABSORPTION (SYNTHESIS 0035)
+
+For full doctrine definitions, operational meanings, and hard constraints,
+consult CIV–DOCTRINE–ROME v2.0 directly.
 
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX
@@ -1209,16 +918,16 @@ Ingestion: PROHIBITED
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE — PHASE II (CONSTRAINT GRAMMAR)
-Doctrine Count: 5 (FROZEN)
+Doctrine Count: 12 (FROZEN) — See CIV–DOCTRINE–ROME v2.0
 RLL Count: 2 BOUND + 4 PENDING
-  • RLL–ROME–0002: BOUND (Vacancy by Declination) — APPLIED TO 2 MEMs (MEHMED–II core)
-  • RLL–ROME–0006: BOUND (Fragment Inheritance) — APPLIED TO 4 MEMs + 2 CONTEXT
+  • RLL–ROME–0002: BOUND (Vacancy by Declination) — APPLIED TO 3 MEMs (MEHMED–II core, OTTOMAN–EMPIRE)
+  • RLL–ROME–0006: BOUND (Fragment Inheritance) — APPLIED TO 8 MEMs (OTTOMAN–EMPIRE, RUSSIA, ISLAM, MONGOL–EMPIRE, HRE, + 3 CONTEXT)
   • RLL–ROME–0001, 0003, 0004, 0005: PENDING (reformulation/reclassification)
-Total Entries: 44
+Total Entries: 49
 Synthesis Count: 35 (22 FROZEN, 13 UNFROZEN/AUTHORIZED)
 Heuristic Count: 9
-MEMs Revised This Session: 9 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL, GREEK–LIT–PLATO)
-MEMs Created This Session: 5 (HOLY–ROMAN–EMPIRE, PHILIP–II, LAW–CITIZENSHIP, LAW–SLAVERY, WAR–THIRD–PUNIC)
+MEMs Revised This Session: 10 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL, GREEK–LIT–PLATO, SCIPIO–AFRICANUS)
+MEMs Created This Session: 9 (HOLY–ROMAN–EMPIRE, PHILIP–II, LAW–CITIZENSHIP, LAW–SLAVERY, WAR–THIRD–PUNIC, OTTOMAN–EMPIRE, MONGOL–EMPIRE, RUSSIA, ISLAM)
 MEMs Renamed This Session: 6 (HANNIBAL → CARTHAGE–HANNIBAL, GREEK–ALEXANDER–GREAT → GREEK–ALEXANDER, GREEK–SOCRATES → GREEK–LIT–SOCRATES, LIT–GREEK–PLATO → GREEK–LIT–PLATO, LIT–GREEK–ARISTOTLE → GREEK–LIT–ARISTOTLE, GREEK–SOPHOCLES → GREEK–LIT–SOPHOCLES)
 Phase: PHASE II — CONSTRAINT GRAMMAR (AUTHORIZED January 2026)
 

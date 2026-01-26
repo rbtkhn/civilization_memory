@@ -67,9 +67,9 @@ ROME:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–ROME            │ v2.3    │ Active        │
+│ CIV–SCHOLAR–ROME            │ v2.4    │ Active        │
 │ CIV–SCHOLAR–ROME–ARCHIVE    │ v1.0    │ Archive       │
-│ CIV–INDEX–ROME              │ v1.11   │ Active        │
+│ CIV–INDEX–ROME              │ v2.1    │ Active        │
 │ CIV–CORE–ROME               │ v2.0    │ Active        │
 │ CIV–DOCTRINE–ROME           │ v2.0    │ Active        │
 │ CIV–ARC–ROME                │ v1.9    │ Active        │
