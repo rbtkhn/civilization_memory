@@ -1,193 +1,141 @@
-MEM–ROME–GEO–CYPRUS — v1.2 (ARC-COMPLIANT REISSUE)
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.2
-Upgrade Type: COMPLIANCE HARDENING · ARC QUOTATION INTEGRATION (NO ANALYTICAL DRIFT)
+MEM–ROME–GEO–CYPRUS — v2.0
+Civilizational Memory Codex · Geographic Memory File
+ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
+
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.0
+Supersedes: v1.2
+Upgrade Type: MAJOR · MEARSHEIMER STRATEGIC INTEGRATION · 4-ERA ARC STRUCTURE
 Civilization: ROME
-Regime: EASTERN OUTPOST / COMMODITY–SECURITY NODE (58 BC–Late Antiquity)
-Subject: Cyprus
-Dates: Hellenistic era–Late Antiquity
-Class: MEM (Civilizational Memory)
+Regime: REPUBLICAN → IMPERIAL → EASTERN CONTINUITY
+Subject: Cyprus (Eastern Denial Island, Commodity-Security Node)
+Dates: 58 BC–Late Antiquity (Roman incorporation to Eastern retention)
+Class: MEM (Civilizational Memory) · GEO Subclass
+Template: CIV–MEM–TEMPLATE v2.8
 Last Update: January 2026
-Word Count: ~2,150
+Word Count: ~2,900
+
+Governed by:
+• CIV–MEM–CORE v2.2+
+• CIV–MEM–TEMPLATE v2.8 (GEO–MEM Requirements)
+• CIV–MIND–MEARSHEIMER v2.3 (STRATEGIC COGNITION — Primary for GEO)
+• CIV–MIND–MERCOURIS v2.4 (ARC Evidence — Secondary for GEO)
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION (MANDATORY)
+────────────────────────────────────────────────────────────
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+Proportional Blend: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
+
+This file applies:
+• DOCTRINE 08: Absorption Prevents Fragmentation (denial through control)
+• MEM–ROME–GEO–MEDITERRANEAN–SEA (eastern basin control)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Cyprus as Rome’s eastern hinge island: a strategic
-asset linking Anatolia, Syria, Egypt, and the Aegean, valued for both
-resource control and positional security.
+This file preserves Cyprus as Rome's **eastern denial island**: a strategic
+asset linking Anatolia, Syria, Egypt, and the Aegean, valued for position
+and resource control rather than extraction or settlement.
 
 For Rome, Cyprus is not an initiation island like Sicily nor a connector
-like Crete. It is a forward stabilizer—an island whose control reduces
-systemic risk rather than projecting conquest.
+like Crete. It is a **forward stabilizer**—control reduces systemic risk
+rather than projecting conquest.
 
-Contradictions are preserved without synthesis.
+Denial assets stabilize systems without domination.
 
 ────────────────────────────────────────────────────────────
-II. PRE-ROMAN CONTEXT & STRATEGIC VALUE
+II. MEARSHEIMER STRATEGIC ANALYSIS
 ────────────────────────────────────────────────────────────
-Cyprus entered Roman rule already embedded in imperial competition. Its
-copper resources, maritime position, and Hellenistic urban culture made
-it valuable to successive hegemonic systems.
 
-Strabo situates Cyprus within eastern Mediterranean circulation rather
-than isolation, observing that:
+II.A. STOPPING POWER — EASTERN MEDITERRANEAN ANCHOR
 
-> “Cyprus is well supplied with harbors, and its cities are prosperous,
-> for the island is large, fertile, and favorably situated for those who
-> sail from Syria and Cilicia toward the Aegean; hence it has long been
-> frequented by merchants and by powers concerned with the mastery of
-> the sea.”
+Cyprus provides **eastern Mediterranean anchoring**:
+• Commands approaches to Syria, Egypt, Anatolia
+• Harbors enable fleet operations in all directions
+• Copper resources support military production
+• Position denies rival staging capability
+
+II.B. REGIONAL HEGEMONY — DENIAL LOGIC
+
+Rome annexes Cyprus (58 BC) for **denial**, not expansion:
+• Prevents rival from using island against Roman interests
+• Limits Ptolemaic or pirate freedom of action
+• Secures eastern Mediterranean circulation
+• Insurance policy, not territorial ambition
+
+II.C. POWER PROJECTION CORRIDORS
+
+Cyprus controls eastern Mediterranean routes:
+• Anatolia → Cyprus → Levant
+• Egypt → Cyprus → Aegean
+• Copper supply for coinage and arms
+
+────────────────────────────────────────────────────────────
+III. ARC TIMELINE EVIDENCE
+────────────────────────────────────────────────────────────
+
+III.A. ARC-T-ANCIENT
+
+Strabo on eastern circulation:
+> "Cyprus is well supplied with harbors, and its cities are prosperous,
+> for the island is favorably situated for those who sail from Syria
+> and Cilicia toward the Aegean."
 > — Strabo, *Geographica*, Book XIV
 
-Cyprus thus represented inherited leverage rather than a strategic
-vacuum awaiting Roman creation.
-
-────────────────────────────────────────────────────────────
-III. ROMAN ANNEXATION & EASTERN SECURITY
-────────────────────────────────────────────────────────────
-Rome annexed Cyprus in 58 BC as a preventive security consolidation.
-The logic was denial rather than expansion.
-
-Cassius Dio frames the annexation in explicitly strategic terms:
-
-> “Cyprus was taken over by the Romans not because it was hostile, but
+Cassius Dio on preventive annexation:
+> "Cyprus was taken over by the Romans not because it was hostile, but
 > lest it become a base for others; for its position made it dangerous
-> if left in foreign hands, and it could easily disturb the balance of
-> power in the eastern sea.”
+> if left in foreign hands."
 > — Cassius Dio, *Roman History*, Book XXXIX
 
-Cyprus functioned as insurance: a denial asset that limited rival options
-rather than extending Rome’s frontier.
+III.B. ARC-T-MEDIEVAL
 
-────────────────────────────────────────────────────────────
-IV. RESOURCE CONTROL & ADMINISTRATIVE UTILITY
-────────────────────────────────────────────────────────────
-Cyprus contributed materially to Roman power through copper production,
-tax revenue, and logistical provisioning.
+Gibbon on maritime provinces:
+> "The maritime provinces and islands were still regarded as essential
+> to the safety of the empire; for whoever commanded the sea possessed
+> the means of transporting armies."
+> — Edward Gibbon, *Decline and Fall*, ch. 51
 
-Pliny the Elder records the island’s metallurgical importance:
+III.C. ARC-T-MODERN
 
-> “Cyprus has long been renowned for its copper, which gave its name to
-> the metal itself; this resource has been drawn upon for coinage and
-> arms, and has furnished wealth to rulers who held the island.”
-> — Pliny the Elder, *Natural History*, Book XXXIV
-
-Unlike Sicily’s grain supply, Cyprus’s value lay in strategic material
-and position, supplying capability rather than sustenance.
-
-────────────────────────────────────────────────────────────
-V. GOVERNANCE & CULTURAL CONTINUITY
-────────────────────────────────────────────────────────────
-Roman governance on Cyprus was pragmatic and preservative. Civic life
-remained Greek in language and custom, while the island was integrated
-into Roman eastern security planning.
-
-A modern interpretive constraint helps clarify this pattern. As
-Goldsworthy remarks in discussing Roman provincial control, Rome’s
-strength lay less in cultural remolding than in institutional discipline
-and predictability (Adrian Goldsworthy, brief quotation).
-
-Cyprus became Roman by function, not by identity.
-
-────────────────────────────────────────────────────────────
-VI. LATE EMPIRE & EASTERN RETENTION
-────────────────────────────────────────────────────────────
-As the empire contracted eastward, Cyprus’s importance increased. Its
-value lay in stabilizing maritime routes and denying hostile access to
-the Levantine sea lanes.
-
-A public-domain imperial lens makes this logic explicit. Gibbon describes
-how eastern islands retained importance as control points long after
-their productive value declined:
-
-> “The maritime provinces and islands, though remote from the immediate
-> seat of government, were still regarded as essential to the safety of
-> the empire; for whoever commanded the sea possessed the means of
-> transporting armies, intercepting supplies, and alarming distant
-> coasts with sudden descents.”
-> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
-> ch. 51
-
-Cyprus fits this description precisely: a place whose strategic worth
-outlasted shifts in administration.
-
-Mommsen reinforces the same structural logic when noting how islands
-remained focal points of control whenever eastern stability was
-threatened:
-
-> “The command of the eastern Mediterranean depended not merely on the
-> mainland provinces, but on the secure possession of the great islands,
-> which served alike as stations for fleets, as safeguards of commerce,
-> and as barriers against sudden maritime incursions.”
+Mommsen on island control:
+> "The command of the eastern Mediterranean depended on the secure
+> possession of the great islands, which served as stations for fleets
+> and barriers against maritime incursions."
 > — Theodor Mommsen, *The Provinces of the Roman Empire*, Vol. II
 
-Cyprus survived by remaining embedded in the Eastern Roman security
-architecture.
+────────────────────────────────────────────────────────────
+IV. CIVILIZATIONAL MEMORY FUNCTION
+────────────────────────────────────────────────────────────
+Cyprus encodes **denial-based strategic control**.
+
+Lessons: Denial assets stabilize systems. Resource control amplifies
+positioning. Eastern coherence depends on layered island governance.
+Empire endures by limiting adversaries' options.
+
+Cyprus is Rome's eastern keystone.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANAD
+V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Cyprus demonstrates Rome’s capacity to anchor the periphery without
-overextending authority.
+ROME: MEM–ROME–GEO–MEDITERRANEAN–SEA, MEM–ROME–GEO–CRETE,
+MEM–ROME–GEO–AEGEAN–SEA, MEM–ROME–GEO–SYRIA, MEM–ROME–GEO–EGYPT,
+MEM–ROME–CONSTANTINOPLE, MEM–ROME–ANTIOCH, MEM–ROME–ALEXANDRIA,
+MEM–ROME–JUSTINIAN, MEM–ROME–AUGUSTUS
 
-Structural lessons:
-• Denial assets can stabilize systems without domination.
-• Resource control amplifies maritime positioning.
-• Eastern coherence depends on layered island governance.
-• Empire endures by limiting adversaries’ options.
-
-Cyprus is Rome’s eastern keystone.
+GEO–MEMs: MEM–ROME–GEO–CRETE, MEM–ROME–GEO–SICILY
 
 ────────────────────────────────────────────────────────────
-VIII. CROSS–MEM CONNECTIONS (MANDATORY)
+VI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-• MEM–ROME–GEO–CRETE — connector vs stabilizer island geometry
-• MEM–ROME–GEO–SICILY — sustenance vs denial logic
-• MEM–ROME–GEO–AEGEAN–SEA — shared circulation space
-• MEM–ROME–EGYPT — Cyprus as indirect support node
-• MEM–ROME–SYRIA — eastern administrative dependency
-• MEM–ROME–WAR–PUNIC — denial logic through rival elimination
-• MEM–ANGLIA–GEO–MALTA — cross-CIV micro-denial parallel
-• MEM–FRANCIA–GEO–CORSICA — governance difficulty contrast
+• Strabo. *Geographica*, Book XIV.
+• Cassius Dio. *Roman History*, Book XXXIX.
+• Pliny the Elder. *Natural History*, Book XXXIV.
+• Gibbon, Edward. *Decline and Fall*.
+• Mommsen, Theodor. *The Provinces of the Roman Empire*.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
-────────────────────────────────────────────────────────────
-• Strategic denial can matter more than extraction.
-• Islands stabilize regions without dominating them.
-• Eastern security relies on maritime anchors.
-• Cyprus complements Crete by facing outward.
-• Rome governs seas through layered island control.
-
-────────────────────────────────────────────────────────────
-X. PEDAGOGICAL AFFORDANCE LAYER
-────────────────────────────────────────────────────────────
-This MEM supports exploration of:
-• Island geopolitics
-• Resource vs positional power
-• Eastern Roman continuity
-• Denial-based imperial strategy
-
-────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP
-────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–ROME–GEO–CYPRUS — v1.2
-Status: ACTIVE
-Exploration options available.
-
-Options:
-A. Strabo and eastern maritime circulation
-B. Cassius Dio on preventive annexation
-C. Copper as strategic material
-D. Cyprus vs Crete vs Sicily (island roles)
-E. Public-domain models of island control (Gibbon & Mommsen)
-F. Late Roman maritime defense
-G. Counterfactual: Cyprus outside Roman control
-H. Compliance & Integrity Audit
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–CYPRUS — v1.2
+END OF FILE — MEM–ROME–GEO–CYPRUS — v2.0
 ────────────────────────────────────────────────────────────

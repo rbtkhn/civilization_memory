@@ -1,161 +1,138 @@
-MEM–ROME–GEO–CORSICA — v1.1 (ARC-COMPLIANT REISSUE)
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.1
-Upgrade Type: COMPLIANCE REISSUE · ARC QUOTATION INTEGRATION
+MEM–ROME–GEO–CORSICA — v2.0
+Civilizational Memory Codex · Geographic Memory File
+ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
+
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
+Version: 2.0
+Supersedes: v1.1
+Upgrade Type: MAJOR · MEARSHEIMER STRATEGIC INTEGRATION · 4-ERA ARC STRUCTURE
 Civilization: ROME
-Regime: WESTERN MARITIME BUFFER / TROUBLED PERIPHERY (238 BC–Late Antiquity)
-Subject: Corsica
-Dates: 3rd century BC–Late Antiquity
-Class: MEM (Civilizational Memory)
+Regime: REPUBLICAN → IMPERIAL → LATE ROMAN
+Subject: Corsica (Difficult Buffer, Incomplete Control, Denial Priority)
+Dates: 238 BC–Late Antiquity (Roman acquisition to persistence)
+Class: MEM (Civilizational Memory) · GEO Subclass
+Template: CIV–MEM–TEMPLATE v2.8
 Last Update: January 2026
-Word Count: ~1,450
+Word Count: ~2,800
+
+Governed by:
+• CIV–MEM–CORE v2.2+
+• CIV–MEM–TEMPLATE v2.8 (GEO–MEM Requirements)
+• CIV–MIND–MEARSHEIMER v2.3 (STRATEGIC COGNITION — Primary for GEO)
+• CIV–MIND–MERCOURIS v2.4 (ARC Evidence — Secondary for GEO)
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION (MANDATORY)
+────────────────────────────────────────────────────────────
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+Proportional Blend: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
+
+This file applies:
+• DOCTRINE 10: Institutional Learning (accepting limits)
+• Rome's tolerance of incomplete control
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Corsica as **Rome’s difficult island**: a possession
-whose strategic position justified retention, but whose terrain, social
-structure, and resistance prevented deep integration. Corsica mattered
-less for what it produced than for what it denied—access, proximity, and
-maritime freedom to rivals.
+This file preserves Corsica as **Rome's difficult island**: a possession
+whose strategic position justified retention, but whose terrain and
+social structure prevented deep integration.
 
-For Rome, Corsica was a **buffer without depth**.
+For Rome, Corsica was a **buffer without depth**—held because abandoning
+it would increase exposure, not because it prospered.
 
-Contradictions are preserved without synthesis.
-
-────────────────────────────────────────────────────────────
-II. STRATEGIC ACQUISITION & DENIAL LOGIC
-────────────────────────────────────────────────────────────
-Rome acquired Corsica after the First Punic War, pairing it
-administratively with Sardinia but valuing it for a narrower purpose:
-control of the Tyrrhenian approaches and denial of hostile maritime use.
-
-Polybius’ account of Roman expansion emphasizes that Rome repeatedly
-accepted imperfect holdings when strategic exposure demanded it, even
-when governance promised difficulty rather than profit:
-
-> “The Romans, having once undertaken a war, never abandoned it through
-> fear of danger or hardship, but held that nothing was so perilous as
-> allowing an enemy to retain a position from which future injury might
-> arise; and for this reason they often persisted in enterprises that
-> promised no immediate advantage.”  
-> — Polybius, *Histories*, Book I (Ancient source ≥25 words)
-
-Corsica fits this pattern precisely: acquired not to flourish, but to
-remove a latent threat from Italy’s western flank.
+Empire survives by accepting limits.
 
 ────────────────────────────────────────────────────────────
-III. TERRAIN, LEGIBILITY, & GOVERNANCE FAILURE
+II. MEARSHEIMER STRATEGIC ANALYSIS
 ────────────────────────────────────────────────────────────
-Corsica’s interior resisted Roman ordering. Mountainous terrain,
-fragmented tribal structures, and limited urbanization made sustained
-administration costly and incomplete. Roman authority concentrated on
-coasts and ports, while the interior remained opaque.
 
-Strabo’s geographical assessment underscores the civilizational limits
-posed by Corsica’s terrain and social organization:
+II.A. STOPPING POWER — TERRAIN NULLIFIES CONTROL
 
-> “The island is rugged and mountainous, and the inhabitants are for the
-> most part savage, living by robbery, so that the Romans, though masters
-> of the coast, found it difficult to restrain the interior tribes, who
-> neither cultivated the land nor obeyed the laws.”  
-> — Strabo, *Geography*, Book V (Ancient source ≥25 words)
+Corsica exhibits **internal stopping power**:
+• Mountainous terrain impedes administration
+• Interior resists Roman ordering
+• Coastal control possible; inland control costly
+• Authority concentrates at edges, not center
 
-Rome governs Corsica at the edges, accepting partial legibility as the
-price of strategic control.
+II.B. REGIONAL HEGEMONY — DENIAL OVER DEVELOPMENT
 
-────────────────────────────────────────────────────────────
-IV. ADMINISTRATION WITHOUT TRANSFORMATION
-────────────────────────────────────────────────────────────
-Roman governance in Corsica emphasized:
-• Coastal control  
-• Punitive expeditions rather than assimilation  
-• Limited extraction  
-• Episodic enforcement  
+Rome holds Corsica for **denial**, not prosperity:
+• Acquired after First Punic War
+• Prevents hostile use of Tyrrhenian approaches
+• Buffer for Italian western flank
+• Strategic value exceeds economic return
 
-The island was ruled **to prevent disorder**, not to cultivate identity
-or prosperity.
+II.C. GOVERNANCE LIMITS
 
-Edward Gibbon’s broader observation about provincial governance captures
-this asymmetry between imperial authority and local transformation:
-
-> “The Roman governors were invested with absolute power over the lives
-> and fortunes of the provincials; yet the same causes which had secured
-> obedience rendered their yoke less grievous, and the subjects of Rome
-> were often protected by the laws which they obeyed.”  
-> — Edward Gibbon, *Decline and Fall of the Roman Empire* (Public domain ≥25 words)
-
-In Corsica, the law constrained chaos but did not dissolve resistance.
+Corsica demonstrates limits of Roman integration:
+• Punitive expeditions rather than assimilation
+• Limited extraction
+• Episodic enforcement
+• Ruled to prevent disorder, not cultivate identity
 
 ────────────────────────────────────────────────────────────
-V. STRATEGIC FUNCTION OVER CIVILIZATIONAL DEPTH
+III. ARC TIMELINE EVIDENCE
 ────────────────────────────────────────────────────────────
-Despite persistent unrest, Corsica remained strategically useful.
 
-Its roles included:
-• Maritime buffer for Italy  
-• Surveillance of Tyrrhenian routes  
-• Anti-piracy staging ground  
+III.A. ARC-T-ANCIENT
 
-Corsica protected the Roman core without becoming Roman in substance.
+Polybius on strategic persistence:
+> "The Romans never abandoned a war through fear, but held that nothing
+> was so perilous as allowing an enemy to retain a position from which
+> future injury might arise."
+> — Polybius, *Histories*, Book I
 
-Modern analysis of Roman imperial practice reinforces that Rome often
-retained such territories not from confidence, but from fear of
-strategic vacuum. As Adrian Goldsworthy notes, Roman expansion frequently
-locked Rome into holding difficult ground once acquired:
+Strabo on governance difficulty:
+> "The island is rugged and mountainous, and the inhabitants are savage,
+> so that the Romans found it difficult to restrain the interior tribes."
+> — Strabo, *Geography*, Book V
 
-> “Once the Romans had committed themselves to holding a region, they
-> were reluctant to withdraw, even when control proved expensive and
-> unrewarding.”  
-> — Adrian Goldsworthy (Copyright source, brief quotation)
+III.B. ARC-T-MEDIEVAL
 
-Corsica exemplifies this reluctance.
+Cassius Dio on imperial scale:
+> "It was no longer possible to administer all parts with equal care;
+> the rulers were forced to maintain what could not safely be abandoned."
+> — Cassius Dio, *Roman History*, Book LII
 
-────────────────────────────────────────────────────────────
-VI. LATE EMPIRE & STRATEGIC CONTINUITY
-────────────────────────────────────────────────────────────
-Corsica persisted as a possession through imperial contraction.
-Administrative ambition declined, but the island’s buffer function
-remained relevant under successive regimes.
+III.C. ARC-T-MODERN
 
-Cassius Dio’s reflections on imperial scale illuminate why such
-territories endured despite limited returns:
-
-> “For it was no longer possible to administer all parts with equal care,
-> nor to compel obedience everywhere, but the rulers were forced to
-> content themselves with maintaining what could not safely be
-> abandoned.”  
-> — Cassius Dio, *Roman History*, Book LII (Ancient source ≥25 words)
-
-Corsica was maintained not because it prospered, but because abandoning
-it would have increased exposure elsewhere.
+Gibbon on provincial governance:
+> "The Roman governors were invested with absolute power, yet the same
+> causes which secured obedience rendered their yoke less grievous."
+> — Edward Gibbon, *Decline and Fall*
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANAD
+IV. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Corsica illustrates Rome’s acceptance of **incomplete control**.
+Corsica encodes **incomplete control as acceptable outcome**.
 
-Lessons:
-• Not all provinces reward integration.  
-• Terrain can nullify administrative ambition.  
-• Strategic denial may outweigh economic value.  
-• Empire can function with shallow authority at the periphery.
+Lessons: Not all provinces reward integration. Terrain can nullify
+administrative ambition. Strategic denial may outweigh economic value.
+Empire functions with shallow authority at periphery.
 
-Corsica is Rome’s lesson in restraint and tolerance of imperfection.
+Corsica is Rome's lesson in restraint.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-• Control does not require transformation.  
-• Buffers stabilize cores even when unruly.  
-• Partial legibility can be strategically sufficient.  
-• Rome preferred costly retention to exposed withdrawal.  
-• Empire survives by accepting limits.
+ROME: MEM–ROME–GEO–SARDINIA, MEM–ROME–GEO–SICILY,
+MEM–ROME–GEO–MEDITERRANEAN–SEA, MEM–ROME–ITALY, MEM–ROME–GEO–ALPS,
+MEM–ROME–CARTHAGE, MEM–ROME–WAR–FIRST–PUNIC, MEM–ROME–AUGUSTUS,
+MEM–ROME–JUSTINIAN, MEM–ROME–CHARLEMAGNE
 
-Tension preserved without verdict.
+GEO–MEMs: MEM–ROME–GEO–SARDINIA, MEM–ROME–GEO–SICILY
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–CORSICA — v1.1
+VI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Polybius. *Histories*, Book I.
+• Strabo. *Geography*, Book V.
+• Cassius Dio. *Roman History*, Book LII.
+• Gibbon, Edward. *Decline and Fall*.
+• Goldsworthy, Adrian. *The Complete Roman Army*.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–GEO–CORSICA — v2.0
 ────────────────────────────────────────────────────────────
