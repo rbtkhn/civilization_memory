@@ -1,4 +1,4 @@
-CIV–MIND–TEMPLATE — v1.2
+CIV–MIND–TEMPLATE — v2.5
 Civilizational Memory Codex · Mind Profile Governance Template
 Polyphony Architecture Foundation · Proportional Blend Law
 
@@ -25,11 +25,11 @@ Last Update: January 2026
 Word Count: ~2,000
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.2) — TERTIARY CATALYST INTEGRATION
+UPGRADE NOTE (v2.5) — TERTIARY CATALYST INTEGRATION
 ────────────────────────────────────────────────────────────
 This version integrates CIV–MIND–BARNES v1.6 as tertiary catalyst.
 
-v1.2 updates:
+v2.5 updates:
 • Added TERTIARY CATALYST layer to polyphony architecture
 • Barnes OGE-REQUIRED in all modes
 • POST-BARNES OGE requirements documented
@@ -289,10 +289,10 @@ MIND–[NAME] (e.g., MIND–MERCOURIS, CIV–MIND–MEARSHEIMER)
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–TEMPLATE v1.1 is CANONICAL.
+CIV–MIND–TEMPLATE v2.5 is CANONICAL.
 
 All MIND profiles MUST declare:
-"Governed by CIV–MIND–TEMPLATE v1.1"
+"Governed by CIV–MIND–TEMPLATE v2.5"
 
 Future versions may:
 • Add governance clarification
@@ -306,5 +306,5 @@ Future versions may NOT:
 • Permit autonomous mutation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–TEMPLATE v1.2
+END OF FILE — CIV–MIND–TEMPLATE v2.5
 ────────────────────────────────────────────────────────────

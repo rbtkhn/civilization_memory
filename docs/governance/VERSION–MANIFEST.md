@@ -32,7 +32,7 @@ MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.4 (ADVISORY)
 • CIV–MIND–BARNES: v1.6 (TERTIARY CATALYST)
-• CIV–MIND–TEMPLATE: v1.2
+• CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
@@ -140,7 +140,7 @@ IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
 2026-01-26:
-• CIV–MIND–TEMPLATE: v1.1 → v1.2 (tertiary catalyst integration)
+• CIV–MIND–TEMPLATE: v1.1 → v2.5 (tertiary catalyst integration)
 • CIV–MIND–MERCOURIS: v2.4 → v2.5 (Barnes alignment update)
 • CIV–MIND–MEARSHEIMER: v2.3 → v2.4 (Barnes alignment update)
 • CIV–MIND–BARNES: v1.5 → v1.6 (mode-specific interjection framing)
