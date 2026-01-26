@@ -608,7 +608,7 @@ Rules:
 • User navigates divergence
 • No autonomous invocation (OGE-triggered only)
 
-See: CIV–MIND–TEMPLATE v1.0, CIV–MIND–MEARSHEIMER v2.2
+See: CIV–MIND–TEMPLATE v1.1, CIV–MIND–MEARSHEIMER v2.3
 
 VP-1.f.ii. TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────

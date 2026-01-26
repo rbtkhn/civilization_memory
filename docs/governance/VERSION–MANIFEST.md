@@ -53,9 +53,9 @@ RUSSIA (PRIMARY DEVELOPMENT):
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–RUSSIA          │ v2.4    │ Active        │
+│ CIV–SCHOLAR–RUSSIA          │ v2.5    │ Active        │
 │ CIV–INDEX–RUSSIA            │ v2.7    │ Active        │
-│ CIV–CORE–RUSSIA             │ v2.0.1  │ Active        │
+│ CIV–CORE–RUSSIA             │ v2.1    │ Active        │
 │ CIV–DOCTRINE–RUSSIA         │ v1.1    │ Active        │
 │ CIV–ARC–RUSSIA              │ v1.5    │ Active        │
 │ CIV–ARC–RUSSIA–LEDGER       │ v1.0    │ Active        │

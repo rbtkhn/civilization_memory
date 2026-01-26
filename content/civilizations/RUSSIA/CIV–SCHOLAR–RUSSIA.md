@@ -1,15 +1,15 @@
-CIV–SCHOLAR–RUSSIA — v2.4
+CIV–SCHOLAR–RUSSIA — v2.5
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.4
-Supersedes: CIV–SCHOLAR–RUSSIA v2.3
-Upgrade Type: ADDITIVE · WAR MEM CALIBRATION
+Version: 2.5
+Supersedes: CIV–SCHOLAR–RUSSIA v2.4
+Upgrade Type: ADDITIVE · THRESHOLD DEPTH + GEO RLL BINDING
 Last Update: January 2026
-Word Count: ~11,200
+Word Count: ~12,700
 
 Governed by:
 • CIV–MEM–CORE v2.0+
@@ -162,6 +162,10 @@ RLL–RUSSIA–0012 — Strategic Depth as Primary Weapon
 → Russia wins long wars through depth, not maneuver. Depth is traded for
   time; time is traded for enemy collapse. Decisive battle is optional
   when regenerative capacity exceeds opponent burn-rate.
+  **Threshold Condition**: Depth trading produces advantage only when
+  retreat moves toward protected zones (north of Oka / forest zone).
+  Depth traded into exposure zones (south of Oka / steppe) reduces
+  Russian advantage. The Oka marks the internal depth floor.
   **Template**: 1812, 1941–45, Great Northern War.
 
 RLL–RUSSIA–0013 — Defeat as Diagnostic Revelation  
@@ -304,6 +308,76 @@ WAR MEMs must specify time-hostility dynamics:
 • Frozen conflicts: favorable for status quo preservation, unfavorable for revision
 
 ────────────────────────────────────────────────────────────
+V.C GEO MEM RECURSIVE LEARNING LAWS (RLLs)
+────────────────────────────────────────────────────────────
+The following RLLs govern GEO MEM interpretation and geographic
+constraint analysis:
+
+RLL–RUSSIA–0018 — River Corridor Hierarchy Law  
+→ Interior arteries (Volga) enable integration without external dependency.
+  Threshold rivers (Oka) mark defensive perimeters and biome transitions.
+  Exposure corridors (Don, Dnieper) provide projection but import vulnerability.
+  Chokepoints (Neva) concentrate existential access value.
+  **Priority sequence**: Interior → Threshold → Chokepoint → Exposure.
+  Loss of interior destabilizes all systems. Loss of threshold exposes
+  interior to environmental threats. Loss of chokepoint severs external
+  connectivity. Loss of exposure corridors reduces reach but preserves core.
+  **Template**: River network analysis, strategic depth trading.
+
+RLL–RUSSIA–0019 — Threshold River Power Distribution Law  
+→ Threshold rivers mark environmental transitions where strategic advantage
+  resets rather than transfers. Crossing a threshold river does not extend
+  power—it transforms the conditions of power.
+  The Oka is Russia's southern threshold: steppe mobility halts, forest
+  defense begins. This constraint applies regardless of regime, technology,
+  or era.
+  States that ignore threshold logic overextend. States that respect
+  threshold logic preserve core advantage.
+  **Template**: 1812, 1941 (German advance halted at threshold zone).
+
+RLL–RUSSIA–0021 — Moscow Waterway Chain Dependency Law  
+→ Moscow's viability depends on a three-link waterway chain:
+  Moskva → Oka → Volga → Caspian.
+  Each link has distinct function:
+  • Moskva: first-mile connection (capital lifeline)
+  • Oka: threshold crossing (defensive frontier + integration)
+  • Volga: arterial hub (interior autarky backbone)
+  Chain failures cascade asymmetrically:
+  • Moskva failure = local catastrophe (capital isolation)
+  • Oka failure = regional catastrophe (heartland fragmentation)
+  • Volga failure = systemic catastrophe (interior collapse)
+  The chain's enclosed terminus (Caspian) ensures no external maritime
+  interdiction. Russia's interior integration depends on chain integrity.
+  **Attack Hierarchy**:
+  • Hub attacks (Volga) are existential—must defend forward
+  • Threshold attacks (Oka) are dangerous—depth trading constrained
+  • Head attacks (Moscow) are survivable—depth trading fully viable
+  **Historical Validation**:
+  • 1812: Head attack → depth trading → regeneration → enemy collapse
+  • 1942: Hub attack → forward defense → attrition → enemy collapse
+  Napoleon attacked the head; Russia survived by trading depth.
+  Germany attacked the hub; Russia survived by defending forward.
+  Both invasions failed because the chain remained intact.
+  **Template**: Stalingrad 1942 (chain defense), Moscow 1812 (head attack),
+  Moscow founding (chain exploitation), Moscow Canal 1937 (chain redundancy).
+
+RLL–RUSSIA–0024 — Chokepoint Permanence Law  
+→ River-interior chokepoints cannot be bypassed; maritime chokepoints can.
+  Maritime powers (Venice, Genoa, Hansa) declined when routes circumvented
+  their toll positions (Atlantic routes, state banking, national trade).
+  Moscow's chokepoints (Moskva–Oka–Volga) have no bypass—you cannot sail
+  around the Volga as you can around Africa.
+  **Implication**: Moscow's permanence derives from geographic lock-in.
+  Interior rivers are structural, not contingent. This enabled Moscow's
+  evolution from toll collector to territorial empire, while maritime
+  toll collectors remained commercial powers until bypassed.
+  **Barnes derivation**: Material foundation analysis; toll collection
+  as basis for political authority; bypass as decline mechanism.
+  **Template**: Venice post-1492, Hansa dissolution, Moscow continuity.
+
+All GEO RLLs are ACTIVE and BOUND.
+
+────────────────────────────────────────────────────────────
 VI. NEGATIVE CAPABILITY ZONE
 ────────────────────────────────────────────────────────────
 Scholar–Russia enforces the following exclusions:
@@ -421,6 +495,16 @@ OGE categories:
 ────────────────────────────────────────────────────────────
 XV. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.5 changes:
+• Amended RLL–RUSSIA–0012 with Threshold Condition
+• Integrated Oka River as internal depth floor
+• Depth trading logic now distinguishes protected vs. exposure zones
+• Added Section V.C: GEO MEM Recursive Learning Laws
+• Bound RLL–RUSSIA–0018 (River Corridor Hierarchy Law)
+• Bound RLL–RUSSIA–0019 (Threshold River Power Distribution Law)
+• Bound RLL–RUSSIA–0021 (Moscow Waterway Chain Dependency Law) + Attack Hierarchy extension
+• Geographic constraint grammar now formalized
+
 v2.4 changes:
 • Added Section V.A: WAR MEM Recursive Learning Laws (RLLs 0012–0017)
 • Added Section V.B: WAR MEM Production Calibration
@@ -447,7 +531,7 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XVI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.4 is declared:
+CIV–SCHOLAR–RUSSIA v2.5 is declared:
 
 • CANONICAL
 • LOCKED
@@ -467,5 +551,5 @@ Embedded legacy mirrors are quarantined.
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v2.4
+END OF FILE — CIV–SCHOLAR–RUSSIA v2.5
 ────────────────────────────────────────────────────────────
