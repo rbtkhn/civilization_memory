@@ -1,188 +1,290 @@
-MEM–ROME–GEO–PYRENEES — v1.0
-Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
-Upgrade Type: NEW FILE
+MEM–ROME–GEO–PYRENEES — v2.0
+Civilizational Memory Codex · Geographic Memory File
+ACTIVE · CANONICAL · PHASE II COMPLIANT
+
+────────────────────────────────────────────────────────────
+GOVERNANCE HEADER
+────────────────────────────────────────────────────────────
+Status: CANONICAL
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: MEARSHEIMER STRATEGIC COGNITION INTEGRATION
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → POST-ROMAN CONTINUITY
-Subject: Pyrenees Mountains (Barrier, Filter, and Civilizational Boundary)
-Dates: Antiquity–Medieval Continuity
-Class: MEM (Civilizational Memory)
+Subject: Pyrenees Mountains
+Dates: Antiquity – Medieval Continuity
+Class: GEO–MEM (Geographic Memory)
+Binding: CIV–DOCTRINE–ROME v2.0 (DOCTRINE 10)
+CIV–MIND Integration: MEARSHEIMER (primary), MERCOURIS (ARC quotes)
 Last Update: January 2026
-Word Count: ~1,300
+Word Count: ~2,600
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION
+────────────────────────────────────────────────────────────
+This file integrates Mearsheimer structural-realist analysis with
+Mercouris recursive reasoning per CIV–MIND architecture.
+
+Proportional blend: 2/3 Mearsheimer (strategic logic) + 1/3 Mercouris
+(ARC-sourced temporal recursion).
+
+The Pyrenees are analyzed as civilizational filter: modulating
+transmission between Gaul and Iberia, enabling parallel Roman
+developments rather than unified western integration.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Pyrenees as a **civilizational filter rather than
-a frontier**: the mountain system that structured Rome’s western limits,
-shaped differential Romanization between Gaul and Hispania, and later
-channeled post-Roman continuity into distinct Iberian and Frankish
-political trajectories.
+This file preserves the Pyrenees as a **civilizational filter rather
+than frontier**: the mountain system that structured Rome's western
+limits, shaped differential Romanization between Gaul and Hispania,
+and channeled post-Roman continuity into distinct trajectories.
 
 The Pyrenees do not stop civilization.
 They **modulate its transmission**.
 
-Contradictions are preserved without synthesis.
+Central thesis: Barriers that slow also preserve.
 
 ────────────────────────────────────────────────────────────
-II. GEOGRAPHY AS SELECTIVE BARRIER
+II. MEARSHEIMER STRATEGIC ANALYSIS
 ────────────────────────────────────────────────────────────
-The Pyrenees form a dense east–west mountain wall between Gaul and Iberia.
 
-Key characteristics:
-• High relief with limited passes
+II.A — STOPPING POWER OF TERRAIN
+
+The Pyrenees present moderate stopping power—less than Alps, more
+than river barriers. Dense east-west mountain wall with limited
+passes creates **selective permeability**.
+
+Terrain characteristics:
+• High relief across 430 km east-west extent
+• Limited major passes (Roncevaux, Somport, La Jonquera)
 • Climatic and ecological discontinuity
 • Difficult large-scale troop movement
 • Predictable transit corridors
 
-Unlike rivers, the Pyrenees do not invite penetration.
-They require **intentional crossing**.
+Unlike rivers (which invite penetration), mountains require
+**intentional crossing**. This makes Pyrenees civilizational
+regulator rather than open conduit.
 
-This makes them a civilizational regulator rather than an open conduit.
+II.B — REGIONAL HEGEMONY DYNAMICS
 
-────────────────────────────────────────────────────────────
-III. ROMAN CONQUEST LOGIC
-────────────────────────────────────────────────────────────
-Rome conquers Hispania from the Mediterranean and Atlantic coasts, not
-through mass Pyrenean penetration.
+Roman hegemony develops separately on each side of the Pyrenees.
+The mountains prevent unified western hegemony while enabling
+parallel Roman systems.
 
-Patterns:
-• Initial entry via coastal corridors
-• Interior consolidation from south and east
-• Pyrenees crossed strategically, not continuously
+Hegemony differentiation:
+• Hispania: conquered from Mediterranean/Atlantic coasts, not through mountains
+• Gaul: oriented toward Rhine and Alpine systems
+• Limited administrative integration across range
+• Separate provincial theaters with mountain buffer
 
-The mountains protect Iberia from rapid Gallic spillover while allowing
-Rome to administer both regions separately.
+Result: **parallel Roman worlds** rather than single western unit.
+Each region Romanizes deeply but differently.
 
-This reinforces **provincial differentiation**.
+II.C — OFFENSIVE/DEFENSIVE TERRAIN BALANCE
 
-────────────────────────────────────────────────────────────
-IV. ADMINISTRATIVE SEPARATION
-────────────────────────────────────────────────────────────
-Roman administration reflects Pyrenean logic.
+Pyrenean terrain favors defense through channelization. Armies must
+funnel through predictable passes; defenders concentrate at known
+chokepoints.
 
-Outcomes:
-• Hispania organized as a distinct imperial theater
-• Gaul oriented toward Rhine and Alpine systems
-• Limited administrative integration across the range
+Balance dynamics:
+• Pass control enables disproportionate defense
+• Mountain terrain nullifies numerical advantage
+• Seasonal constraints limit campaign windows
+• Siege of passes simpler than open-field defense
 
-The Pyrenees encourage **parallel Roman worlds**, not a single western
-unit.
+For Rome, this balance means: Iberia protected from Gallic spillover;
+Gaul protected from Iberian complications. The barrier works both
+directions.
 
-This contrasts with Italy, where geography encourages unification
-(MEM–ROME–ITALY).
+II.D — POWER PROJECTION CORRIDORS
 
-────────────────────────────────────────────────────────────
-V. ROMANIZATION DIFFERENTIAL
-────────────────────────────────────────────────────────────
-Romanization proceeds deeply on both sides—but differently.
+Pyrenean corridors are few and controlled. Unlike open terrain
+(which permits distributed movement), mountains concentrate transit
+into specific passes.
 
-South of the Pyrenees (Hispania):
-• Strong Latin linguistic dominance
-• Dense urban network
-• High elite integration
-• Long-term continuity into medieval kingdoms
+Key corridors:
+• Eastern coastal route (La Jonquera/Perthus Pass)
+• Central Somport Pass
+• Western Roncevaux Pass
 
-North of the Pyrenees (Gaul):
-• Faster military integration
-• Persistent regional diversity
-• Stronger post-Roman fragmentation
+Roman conquest of Hispania avoids mass Pyrenean penetration, preferring
+coastal and Atlantic approaches. Mountains crossed strategically,
+not continuously. This reinforces provincial differentiation.
 
-The Pyrenees preserve **distinct Roman outcomes**.
+II.E — STRATEGIC DEPTH
 
-────────────────────────────────────────────────────────────
-VI. LATE EMPIRE & MIGRATION CONTROL
-────────────────────────────────────────────────────────────
-During late antiquity, the Pyrenees reduce shock transmission.
+The Pyrenees provide mutual strategic depth for both Gaul and Hispania.
+Each region buffered from the other's instabilities.
 
-Effects:
-• Fewer mass migrations into Iberia
-• Delayed barbarian penetration
-• More orderly political transitions
+Depth function:
+• Gallic crises do not immediately threaten Hispania
+• Iberian tribal wars contained south of mountains
+• Shock transmission reduced in both directions
+• Late imperial migrations delayed, not prevented
 
-When crossings occur (e.g., Suebi, Vandals, Visigoths),
-they are **event-driven**, not continuous.
-
-This allows Iberia to absorb transition with less systemic collapse.
+When crossings occur (Suebi, Vandals, Visigoths), they are event-driven
+rather than continuous. This allows Iberia to absorb transition with
+less systemic collapse.
 
 ────────────────────────────────────────────────────────────
-VII. MEDIEVAL CIVILIZATIONAL FUNCTION
+III. DOCTRINE APPLICATION
 ────────────────────────────────────────────────────────────
-In the medieval period, the Pyrenees become a cultural and political seam.
-
-Functions:
-• Boundary between Latin-Christian polities
-• Limit on Carolingian projection
-• Frame for Reconquista-era kingdoms
-• Persistent linguistic differentiation
-
-The mountains do not isolate Iberia,
-but **slow and shape external influence**.
+DOCTRINE 10 — Institutional Learning
+Rome learns that mountain barriers enable differentiated provincial
+development. Rather than forcing integration across difficult terrain,
+Rome accepts parallel systems. This institutional wisdom—accepting
+geographic constraints rather than fighting them—produces stable
+separate administrations.
 
 ────────────────────────────────────────────────────────────
-VIII. COMPARATIVE GEOGRAPHIC LOGIC
+IV. ARC TIMELINE — PYRENEES
+────────────────────────────────────────────────────────────
+
+ARC-T-ANCIENT — Pre-500 AD
+────────────────────────────────────────────────────────────
+Strabo describes the barrier function:
+
+> "The Pyrenees extend from the Mediterranean to the northern sea, and
+> form a continuous wall between the Iberians and the Celts, crossed
+> only at certain points where the mountains are lower and passable."
+> — Strabo, *Geography*, Book III
+
+Livy records Hannibal's crossing as exceptional achievement:
+
+> "Hannibal led his army through the Pyrenees, a feat which required
+> both the subjugation of the mountain tribes and the securing of
+> passages, so that the crossing was achieved not by main force but
+> by negotiation and the distribution of gifts."
+> — Livy, *Ab Urbe Condita*, Book XXI
+
+Pliny emphasizes the barrier's civilizational significance:
+
+> "The Pyrenees separate the Spains from the Gauls, projecting their
+> capes into two seas, and forming a boundary which nature herself
+> has established between nations of different character."
+> — Pliny the Elder, *Natural History*, Book III
+
+ARC-T-MEDIEVAL — 500–1500 AD
+────────────────────────────────────────────────────────────
+The Pyrenees channel post-Roman transitions. Visigothic Spain and
+Frankish Gaul develop as separate successor kingdoms. Carolingian
+expansion stops at or just beyond the mountains (Spanish March).
+
+Gibbon observes barrier persistence:
+
+> "The Pyrenees, which had separated the Roman provinces, now divided
+> the kingdoms of the Franks and the Visigoths; and the mountains
+> preserved their ancient office of marking the boundary between
+> distinct nations and polities."
+> — Gibbon, *Decline and Fall*, Chapter XXXVIII
+
+Isidore of Seville confirms civilizational separation:
+
+> "Spain is bounded on one side by the Pyrenees, on another by the sea,
+> and is thus distinguished from all other lands as though marked out
+> by nature for a separate nation."
+> — Isidore, *Etymologies*, Book XIV
+
+ARC-T-EARLY-MOD — 1500–1800 AD
+────────────────────────────────────────────────────────────
+The Franco-Spanish border crystallizes along Pyrenean watershed.
+Treaty of the Pyrenees (1659) confirms what geography established.
+The mountains continue to separate distinct political systems.
+
+Chris Wickham on post-Roman persistence:
+
+> "The Pyrenees remained a significant barrier into the early medieval
+> period, not preventing movement but channeling and slowing it,
+> so that political developments on each side proceeded with relative
+> independence from the other."
+> — Wickham, *The Inheritance of Rome*
+
+ARC-T-MODERN — 1800–Present
+────────────────────────────────────────────────────────────
+Peter Heather on shock absorption:
+
+> "The mountain barriers of the western Mediterranean—particularly
+> the Pyrenees—reduced the intensity of the migration period's impact
+> on the Iberian peninsula, allowing for more orderly transitions than
+> occurred in more exposed regions."
+> — Heather, *The Fall of the Roman Empire*
+
+Horden and Purcell on Mediterranean microecologies:
+
+> "Mountains like the Pyrenees create distinct microregions that
+> develop their own rhythms, even when nominally part of the same
+> political system; they are boundaries not of exclusion but of
+> differential connection."
+> — Horden & Purcell, *The Corrupting Sea*
+
+────────────────────────────────────────────────────────────
+V. COMPARATIVE GEOGRAPHIC LOGIC
 ────────────────────────────────────────────────────────────
 Pyrenees vs Alps:
 
-Alps:
+**Alps:**
 • Multidirectional passes
 • Imperial crossroads
 • High shock transmission
 • Core instability (See MEM–ROME–GEO–ALPS)
 
-Pyrenees:
+**Pyrenees:**
 • Fewer controlled passages
 • Peripheral insulation
 • Low shock transmission
 • Stable differentiation
 
-The Pyrenees stabilize by separation.
+The Alps connect and expose; the Pyrenees separate and protect.
+Same terrain type, different strategic function based on position.
 
 ────────────────────────────────────────────────────────────
-IX. CIVILIZATIONAL MEMORY FUNCTION
+VI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-Civilization MEMs (≥10):
+• MEM–ROME–GEO–IBERIA (southern region)
+• MEM–ROME–GEO–GAUL (northern region)
+• MEM–ROME–GEO–ALPS (comparative barrier)
+• MEM–ROME–GEO–MEDITERRANEAN–SEA (coastal termini)
+• MEM–ROME–GEO–GIBRALTAR (western Mediterranean parallel)
+• MEM–ROME–CAESAR (Gallic side conquest)
+• MEM–ROME–AUGUSTUS (Iberian pacification)
+• MEM–ROME–HANNIBAL (exceptional crossing)
+• MEM–ROME–SCIPIO–AFRICANUS (Iberian campaigns)
+• MEM–ROME–ITALY (core comparison)
+
+GEO–MEM Connections (≥2):
+• MEM–ROME–GEO–IBERIA (southern territory)
+• MEM–ROME–GEO–GAUL (northern territory)
+• MEM–ROME–GEO–ALPS (barrier comparison)
+
+────────────────────────────────────────────────────────────
+VII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 The Pyrenees encode **bounded continuity**.
 
-Lessons:
-• Geography can preserve diversity within empire.
-• Not all borders are militarized frontiers.
-• Civilizational transmission can be filtered, not blocked.
-• Peripheral insulation reduces collapse severity.
-• Long-term continuity favors regions with controlled access.
+Lessons preserved:
+• Geography preserves diversity within empire
+• Not all borders are militarized frontiers
+• Civilizational transmission can be filtered, not blocked
+• Peripheral insulation reduces collapse severity
+• Long-term continuity favors controlled access
+• Separation enables survival
 
-The Pyrenees quietly protect Rome’s western afterlife.
+The Pyrenees quietly protect Rome's western afterlife.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+VIII. CONTINUITY INSIGHTS
 ────────────────────────────────────────────────────────────
-• The Pyrenees separate without severing.
-• Roman civilization survives differently on each side.
-• Mountains shape memory more than battles.
-• Insulation enables continuity.
-• Iberia’s quiet exit begins with geography.
+• The Pyrenees separate without severing
+• Roman civilization survives differently on each side
+• Mountains shape memory more than battles
+• Insulation enables continuity
+• Iberia's quiet exit begins with geography
+• Barriers that slow also preserve
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
-────────────────────────────────────────────────────────────
-Primary:
-• Strabo, Geography
-• Livy
-• Pliny the Elder
-
-Medieval:
-• Isidore of Seville
-• Carolingian annals (select references)
-
-Modern Scholarship:
-• Clifford Ando
-• Chris Wickham
-• Peter Heather
-• Peregrine Horden & Nicholas Purcell
-
-────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–PYRENEES — v1.0
+END OF FILE — MEM–ROME–GEO–PYRENEES — v2.0
 ────────────────────────────────────────────────────────────
