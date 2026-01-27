@@ -84,6 +84,17 @@ John Keegan analyzes Trajan's Dacian campaigns as the pinnacle of Roman imperial
 
 This is expansion that pays for itself—for a time.
 
+Goldsworthy situates Trajan within Rome's command tradition:
+
+> "Trajan was the last of Rome's great conquerors, the final emperor to
+> expand the empire's boundaries through aggressive war. His Dacian
+> campaigns showed that Roman military excellence remained formidable,
+> but his Parthian venture revealed that even the greatest commander
+> could not overcome the fundamental limits of Roman power in the East.
+> Trajan pushed the empire to its maximum extent; his successors would
+> spend generations learning to live within those limits."
+> — Adrian Goldsworthy, *In the Name of Rome*
+
 ────────────────────────────────────────────────────────────
 IV. PARTHIAN CAMPAIGNS & OVERREACH
 ────────────────────────────────────────────────────────────
@@ -235,7 +246,30 @@ Suggested comparative prompts:
 • Trajan vs Augustus: action-legitimacy vs peace-legitimacy
 
 ────────────────────────────────────────────────────────────
-XI. MEM INGEST BOOTSTRAP (MANDATORY)
+XI. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Trajan as the apex of confident expansion:
+
+> "The Roman world was in the full tide of prosperity and peace. Under the
+> mild and equitable government of Trajan, the empire flourished in arms and
+> arts; the provinces were secure, the laws respected, and the people happy.
+> It was natural that a prince so justly beloved should aspire to extend the
+> limits of dominion which seemed destined to universal empire."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 1
+
+On the Parthian overextension:
+
+> "The conquest of the East was easy and rapid; but the submission of
+> Mesopotamia was neither sincere nor permanent. The Romans, in the midst of
+> victories, discovered that they had acquired a new enemy rather than a new
+> province; and the fame of Trajan was sullied by the necessity of retreat."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 1
+
+Gibbon identifies the core paradox: triumph at the edge of unsustainability.
+Expansion that cannot be absorbed becomes structural burden.
+
+────────────────────────────────────────────────────────────
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 If ingested into CIV–SCHOLAR–ROME, this MEM enables:
 1) Expansion ceiling modeling
@@ -259,11 +293,12 @@ Public Domain Secondary:
 • Theodor Mommsen
 
 Copyrighted Secondary:
-• Adrian Goldsworthy
+• Adrian Goldsworthy, *Pax Romana* (2016)
+• Adrian Goldsworthy, *In the Name of Rome* (2003)
 • Julian Bennett
 
 ────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (MANDATORY)
+XIV. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Cassius Dio, *Roman History* - Primary contemporary account of Trajan's reign and campaigns
 • Pliny the Younger, *Panegyricus* - Contemporary panegyric praising Trajan's virtues and policies

@@ -156,6 +156,17 @@ while rejecting his political absolutism.
 
 Plato becomes cautionary rather than prescriptive.
 
+Will Durant captures the paradox of Plato's political vision:
+
+> "Plato's Republic is the most famous utopia in history, and the
+> most dangerous. It is a dream of perfect order achieved through
+> perfect control—a state in which philosophers rule, warriors obey,
+> and workers produce, all in their appointed places. It is also a
+> nightmare of totalitarian logic, in which individuality, freedom,
+> and even family are sacrificed to the ideal of unity. Plato meant
+> well; his successors have sometimes done otherwise."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 V.A. MEARSHEIMER SHARPENING: STRUCTURAL DANGERS OF IDEALISM
 ────────────────────────────────────────────────────────────
@@ -355,6 +366,7 @@ MODERN SCHOLARSHIP:
 • Strauss, Leo. *The City and Man*. University of Chicago Press, 1964.
 • Annas, Julia. *An Introduction to Plato's Republic*. Oxford UP, 1981.
 • Kaldellis, Anthony. *The New Roman Empire*. Oxford UP, 2023.
+• Durant, Will. *The Life of Greece*. Simon & Schuster, 1939.
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (v2.0)

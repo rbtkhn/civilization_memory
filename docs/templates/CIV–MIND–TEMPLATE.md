@@ -3,7 +3,7 @@ Civilizational Memory Codex · Mind Profile Governance Template
 Polyphony Architecture Foundation · Proportional Blend Law
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.2
+Version: 2.5
 Scope: ALL MIND PROFILES
 Class: CIV–MIND–TEMPLATE (Mind Governance Law)
 Load Order: AFTER CIV–MEM–CORE

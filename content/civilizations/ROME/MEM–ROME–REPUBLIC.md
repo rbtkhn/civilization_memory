@@ -181,6 +181,26 @@ Plutarch captures the turning point:
 The Republic is not destroyed by enemies.
 It is **overloaded by victory**.
 
+Adrian Goldsworthy diagnoses the structural collapse:
+
+> "The Roman Republic did not fall because it was weak, but because it
+> was too successful. Conquests brought wealth that corrupted politics,
+> commands that created private armies, and ambitions that no longer
+> fit within constitutional limits. The system that had conquered the
+> Mediterranean could not govern it without transforming into something
+> the founders would not have recognized."  
+> — Adrian Goldsworthy, *Augustus: First Emperor of Rome*
+
+Anthony Everitt frames the human cost:
+
+> "By the end of the Republic, Roman politics had become a blood sport.
+> The constitutional mechanisms designed to prevent tyranny had become
+> weapons in the hands of ambitious men. Sulla, Marius, Caesar—each
+> broke the rules further than the last, until there were no rules left,
+> only force. The Republic died not from a single wound but from a
+> thousand cuts, each inflicted by men who claimed to be saving it."  
+> — Anthony Everitt, *Augustus: The Life of Rome's First Emperor*
+
 Thucydides identifies this pattern of internal decay following external
 success:
 
@@ -217,6 +237,26 @@ Cassius Dio diagnoses the outcome:
 > — Cassius Dio, *Roman History*, Book LIII
 
 Empire is Republic under compression.
+
+Will Durant frames the Republic's final century as success devouring itself:
+
+> "The Roman Republic was destroyed not by its enemies but by its
+> victories. The wealth that poured in from conquered provinces
+> corrupted the old Roman virtues; the slaves that flooded Italy
+> displaced the peasant farmers; the generals who won the wars
+> came to command the loyalty that had once belonged to the state.
+> The Republic died of its own success."
+> — Will Durant, *Caesar and Christ*
+
+Anthony Everitt captures the constitutional exhaustion through Cicero's eyes:
+
+> "Cicero watched the Republic he loved tear itself apart, and he
+> understood better than anyone that the constitutional mechanisms
+> designed to prevent tyranny had become the instruments of ambitious
+> men. The Senate could debate but not decide; the assemblies could
+> vote but not govern; the magistrates could command but not cooperate.
+> The Republic had become a machine that produced only deadlock and war."  
+> — Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician*
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL ROLE
@@ -260,7 +300,8 @@ Public Domain (Category B):
 • Theodor Mommsen
 
 Modern Copyrighted (Category C):
-• Adrian Goldsworthy
+• Adrian Goldsworthy, *Augustus: First Emperor of Rome* (2014)
+• Anthony Everitt, *Augustus: The Life of Rome's First Emperor* (2006)
 • Harriet Flower
 
 ────────────────────────────────────────────────────────────
@@ -275,7 +316,9 @@ X. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of republican governance
 • Theodor Mommsen, *The History of Rome* - Examination of republican political structures
 • Anthony Everitt, *The Rise of Rome* - Modern analysis of republican institutions and political dynamics
+• Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician* (2001) - Constitutional exhaustion through Cicero's perspective
 • John Keegan, *A History of Warfare* - Analysis of Roman military organization and citizen-army system
+• Will Durant, *Caesar and Christ* (1944) - Cultural history of republican decline
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–REPUBLIC — v1.2

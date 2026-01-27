@@ -14,7 +14,7 @@ Word Count: ~12,700
 Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.8 (CURRENT)
-• CIV–SCHOLAR–TEMPLATE v2.3 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v2.4 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • ARC–RUSSIA (Pinned)
 • RLL–RUSSIA–REGISTRY (Authoritative)
@@ -33,7 +33,7 @@ Lock Semantics:
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.4 is the **constraint grammar layer**
+CIV–SCHOLAR–RUSSIA v2.5 is the **constraint grammar layer**
 governing all Russian civilizational interpretation across MEM,
 CORE, DOCTRINE, GAME, and SIMULATION contexts.
 
@@ -543,7 +543,7 @@ CIV–SCHOLAR–RUSSIA v2.5 is declared:
 ────────────────────────────────────────────────────────────
 XVII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.3
+• CIV–SCHOLAR–TEMPLATE v2.4
 • CIV–SCHOLAR–PROTOCOL v2.1
 • CIV–MEM–TEMPLATE v2.8
 

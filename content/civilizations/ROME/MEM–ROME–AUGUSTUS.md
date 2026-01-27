@@ -223,7 +223,8 @@ Primary:
 Secondary (Academic References):
 • Edward Gibbon
 • Theodor Mommsen
-• Adrian Goldsworthy
+• Adrian Goldsworthy, *Augustus: First Emperor of Rome* (2014)
+• Adrian Goldsworthy, *Pax Romana* (2016)
 • Anthony Everitt
 • Will Durant, *Caesar and Christ*
 

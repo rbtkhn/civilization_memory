@@ -124,6 +124,16 @@ but on eliminating rivals before they could strike first.”
 
 Fear becomes governance.
 
+Will Durant captures the civilizational rupture:
+
+> "Sulla showed Rome that the constitution was a sham, that behind
+> the forms of law lay the reality of force. His proscriptions
+> taught a generation that politics was war by other means, and
+> that the surest way to power was to make oneself feared. After
+> Sulla, the Republic was already dead; it only remained for
+> Caesar to bury it."
+> — Will Durant, *Caesar and Christ*
+
 The Republic survives formally,
 but obedience now rests on terror.
 
@@ -198,6 +208,17 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Sulla makes Caesar possible without intending him.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Appian, *Civil Wars* - Primary account of Sulla's march and proscriptions
+• Plutarch, *Life of Sulla* - Biographical account
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Classical analysis
+• Theodor Mommsen, *The History of Rome* - Constitutional analysis
+• Adrian Goldsworthy, *In the Name of Rome* (2003) - Military command precedent
+• Anthony Everitt, *The Rise of Rome* - Proscriptions analysis
+• Will Durant, *Caesar and Christ* (1944) - Cultural history of republican violence
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–SULLA — v1.1

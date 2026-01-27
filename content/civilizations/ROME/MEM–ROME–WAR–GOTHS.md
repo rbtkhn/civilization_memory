@@ -184,6 +184,17 @@ Will Durant provides a traditional interpretation of Rome's decline:
 
 External enemies exploited internal weaknesses.
 
+Hans-Ulrich Wiemer situates the Gothic settlement as precursor to
+post-Roman governance:
+
+> "The Gothic wars and their settlement created the conditions for
+> what would become Theodoric's kingdom: a military society that had
+> learned to operate within Roman institutional frameworks, adapting
+> Gothic arms to Roman administration rather than destroying what
+> they could not replace. The Goths became Rome's heirs precisely
+> because they had learned from decades of war what Rome required."
+> — Hans-Ulrich Wiemer, *Theoderich der Große*
+
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -207,6 +218,7 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Gothic wars and Roman decline
 • Peter Heather, *The Fall of the Roman Empire* - Modern analysis of Gothic migrations and Roman collapse
 • Will Durant, *Caesar and Christ* - Cultural history of Rome's decline and barbarian invasions
+• Hans-Ulrich Wiemer, *Theoderich der Große* (2018) - Gothic-Roman synthesis and post-Roman governance
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–WAR–GOTHS — v1.1

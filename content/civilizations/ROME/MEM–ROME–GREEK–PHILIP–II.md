@@ -77,6 +77,16 @@ Key institutional achievements:
 > conquering the world. Alexander inherited everything; Philip built it."
 > — N.G.L. Hammond, *Philip of Macedon* (1994)
 
+Will Durant captures Philip's systematic genius:
+
+> "Philip was one of the great organizers of history. He found Macedon
+> a weak and divided kingdom, surrounded by enemies, despised by the
+> Greeks. By a combination of military skill, diplomatic cunning, and
+> tireless patience, he made it the master of Greece in twenty years.
+> He prepared everything for Alexander; he left him nothing to do but
+> conquer the world."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 III. THE CONTRAST: BUILDER VS. BURNER
 ────────────────────────────────────────────────────────────
@@ -252,6 +262,7 @@ SECONDARY SOURCES:
   University of California Press, 1991.
 • Hammond, N.G.L. *Philip of Macedon*. Duckworth, 1994.
 • Worthington, Ian. *Philip II of Macedonia*. Yale UP, 2008.
+• Durant, Will. *The Life of Greece*. Simon & Schuster, 1939.
 
 ────────────────────────────────────────────────────────────
 XI. MEM INGEST BOOTSTRAP (v2.0)

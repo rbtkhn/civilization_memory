@@ -115,6 +115,15 @@ It:
 • Avoids the creation of republican martyrs
 • Enables postwar restraint
 
+Adrian Goldsworthy emphasizes that Actium was decided before the battle:
+
+> "Actium was won in Rome, not at sea. By the time the fleets met,
+> Octavian had already persuaded the Roman world that Antony had
+> ceased to be Roman—that he was fighting for a foreign queen against
+> his own people. The battle merely confirmed what propaganda had
+> already established: that there was only one possible Roman future."  
+> — Adrian Goldsworthy, *Antony and Cleopatra*
+
 The battle clears the stage.
 The settlement follows.
 
@@ -166,7 +175,7 @@ Primary:
 
 Secondary:
 • Ronald Syme
-• Adrian Goldsworthy
+• Adrian Goldsworthy, *Antony and Cleopatra* (2010)
 • Werner Eck
 • Pat Southern
 • John Keegan, *A History of Warfare*

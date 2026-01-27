@@ -37,7 +37,7 @@ Conditions:
 The Principate now exists as structure.
 Tiberius must inhabit it, not invent it.
 
-Edward Gibbon captures the burden precisely:
+(See Section VII for Gibbon quotation.)
 
 > “The firmness of Augustus had been supported by artifice, by force,
 > and by success; the gloomy temper of Tiberius was disdained by the
@@ -121,7 +121,22 @@ yet teaches Rome the cost of continuity
 without consent.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon situates Tiberius within the paradox of inherited autocracy:
+
+> "The firmness of Augustus had been supported by artifice, by force,
+> and by success; the gloomy temper of Tiberius was disdained by the
+> people, and detested by the nobles; yet his prudence preserved the
+> empire in peace, while his vices rendered him incapable of enjoying
+> it."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 6
+
+Gibbon identifies the core tension: competence without affection.
+The system survives; legitimacy erodes.
+
+────────────────────────────────────────────────────────────
+VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Inherited legitimacy is brittle.
 • Discipline preserves systems, not affection.
@@ -132,7 +147,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY (MANDATORY)
+IX. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Theodor Mommsen, *The History of Rome* (1864-1879) - Primary source for Tiberius' governance and legal reforms
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-1788) - Analysis of early imperial administration

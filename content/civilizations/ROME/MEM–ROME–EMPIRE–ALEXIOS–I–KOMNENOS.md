@@ -102,7 +102,7 @@ Anna Komnene emphasizes restraint as strategy:
 Roman endurance now depends on **judgment**, not mass.
 
 ────────────────────────────────────────────────────────────
-V. PUBLIC DOMAIN SCHOLARSHIP — SURVIVAL THROUGH ADAPTATION
+V. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
 ────────────────────────────────────────────────────────────
 Edward Gibbon captures the novelty of Alexios’ approach:
 

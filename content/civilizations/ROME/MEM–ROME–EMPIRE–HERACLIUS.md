@@ -101,7 +101,7 @@ Anthony Everitt assesses Heraclius' remarkable transformation of Rome's fortunes
 The emperor who turned retreat into resurgence.
 
 ────────────────────────────────────────────────────────────
-V. PUBLIC DOMAIN SCHOLARSHIP — LAST ROMAN TRIUMPH
+V. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
 ────────────────────────────────────────────────────────────
 Gibbon frames Heraclius as the last emperor of the ancient mold:
 

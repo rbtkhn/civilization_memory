@@ -138,6 +138,17 @@ Rome chooses:
 Sparta endures briefly.
 Rome endures transformatively.
 
+Will Durant captures the paradox of Spartan perfection:
+
+> "Sparta achieved the goal of almost all utopias: she survived
+> unchanged for centuries. But the cost was the complete sacrifice
+> of freedom, culture, and individuality. The Spartans conquered
+> their neighbors and enslaved them; they conquered themselves and
+> became slaves. Their very success was their failure, for they
+> created a state that could not grow, could not adapt, could not
+> survive any serious defeat."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 VIII. RELATED MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
@@ -161,6 +172,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Rome survives by combining discipline with flexibility.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Plutarch, *Life of Lycurgus* - Primary account of Spartan constitution
+• Aristotle, *Politics* - Critical analysis of Spartan system
+• Xenophon, *Constitution of the Lacedaemonians* - Sympathetic account
+• Will Durant, *The Life of Greece* (1939) - Cultural history of Sparta
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–GREEK–SPARTA — v1.1

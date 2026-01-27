@@ -98,7 +98,7 @@ Rome becomes less personal—and more durable.
 Anthony Everitt provides a compelling character analysis of Claudius' transformative administrative approach:
 
 > "Claudius was no charismatic leader or military hero, but his methodical reorganization of the imperial bureaucracy created a system that outlasted his own reign and served Rome for centuries. He understood that true imperial power lay not in personal displays of authority, but in the quiet efficiency of well-designed institutions that could function regardless of who sat on the throne."
-> — Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician*
+> — Anthony Everitt, *Augustus: The Life of Rome's First Emperor*
 
 The emperor who built the machine that would outlive him.
 
@@ -238,7 +238,38 @@ NON-ROME:
 • MEM–CHINA–IMPERIAL–BUREAUCRACY — clerical durability as civilizational glue  
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon treats Claudius' accession as institutional revelation:
+
+> "The man who was least expected to reign was called to the throne by the
+> soldiers, because in the confusion of the palace they found no other
+> master; and the empire, which had been acquired by arms, was now disposed
+> of by accident. The Senate, destitute of strength and courage, submitted
+> to the fortune of the times."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 3
+
+On the British campaign:
+
+> "The success of the Roman arms was not followed by the usual display of
+> triumphal vanity; the province was organized with silent diligence, and
+> Britain was reduced less by the presence of the emperor than by the
+> discipline of his officers and the regular establishment of law and tribute."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 3
+
+On the paradox of administrative success:
+
+> "The same system which strengthened the empire weakened the prince.
+> By offending the pride of the nobles, Claudius secured obedience but not
+> affection; and while the provinces obeyed the laws, the palace became a
+> theatre of domestic conspiracies and poisoned favors."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 3
+
+Gibbon identifies Claudius as the first emperor whose legitimacy derived
+primarily from function rather than charisma or conquest.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Bureaucracy sustains what conquest creates.  
 • Administrative legitimacy is quieter but deeper.  
@@ -249,7 +280,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
+XII. PEDAGOGICAL AFFORDANCE LAYER (MANDATORY)
 ────────────────────────────────────────────────────────────
 This MEM can be used to teach:
 • The difference between charismatic and procedural legitimacy  
@@ -262,7 +293,7 @@ Suggested comparative prompts:
 • Claudius vs Augustus: charisma concealed vs charisma absent  
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (MANDATORY · HARDENED)
+XIII. MEM INGEST BOOTSTRAP (MANDATORY · HARDENED)
 ────────────────────────────────────────────────────────────
 If ingested into CIV–SCHOLAR–ROME, this MEM enables:
 
@@ -279,13 +310,13 @@ Ingest handshake required:
 “INGEST MEM–ROME–CLAUDIUS — v1.3 (ACKNOWLEDGED)”
 
 ────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (MANDATORY)
+XIV. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Suetonius, *Divus Claudius* - Primary biographical account of Claudius' reign and personality
 • Tacitus, *Annals* (Books 11-12) - Contemporary account of Claudius' administration and foreign policy
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Claudius' reign and Julio-Claudian transition
 • Theodor Mommsen, *The History of Rome* - Examination of Claudius' bureaucratic reforms and imperial administration
-• Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician* - Analysis of Claudius' administrative approach and bureaucratic innovations
+• Anthony Everitt, *Augustus: The Life of Rome's First Emperor* - Analysis of Julio-Claudian administrative development
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–CLAUDIUS — v1.4

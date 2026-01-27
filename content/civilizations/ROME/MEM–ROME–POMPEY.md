@@ -142,6 +142,16 @@ Pompey because he seemed safe, but safety was no substitute for decisiveness
 once war began.”
 — Adrian Goldsworthy, Caesar: Life of a Colossus
 
+Goldsworthy situates Pompey's command style in Roman military tradition:
+
+> "Pompey was a great commander, his record of victories exceptional, but
+> his genius was organizational rather than inspirational. He could raise,
+> supply, and deploy armies with consummate skill. What he lacked was the
+> instinct for the decisive moment, the willingness to gamble everything
+> when fortune favored boldness. Against opponents like Sertorius or the
+> pirates, method sufficed. Against Caesar, it did not."
+> — Adrian Goldsworthy, *In the Name of Rome*
+
 Pompey fights as a constitutional general
 against a post-constitutional adversary.
 
@@ -210,6 +220,16 @@ X. CONTINUITY INSIGHTS (RAW)
 • Pompey clears the path he refuses to walk.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Theodor Mommsen, *The History of Rome* - Constitutional analysis of Pompey's exceptional commands
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Classical analysis of late Republican collapse
+• Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician* - Pompey through Cicero's perspective
+• Adrian Goldsworthy, *Caesar: Life of a Colossus* - Pompey as Caesar's rival and contrast
+• Adrian Goldsworthy, *In the Name of Rome* (2003) - Pompey's command style in Roman military tradition
+• Adrian Goldsworthy, *Roman Warfare* - Analysis of extraordinary commands
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–POMPEY — v1.0

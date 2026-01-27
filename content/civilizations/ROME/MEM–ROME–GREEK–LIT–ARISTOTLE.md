@@ -73,6 +73,16 @@ magistracies, popular assemblies, and customary law.
 
 Aristotle explains Rome before Rome explains itself.
 
+Will Durant captures Aristotle's empirical temperament:
+
+> "Aristotle was the first great scientist. He collected facts with
+> the patience of a German professor, classified them with the logic
+> of a Greek, and organized them with the genius of an encyclopedia.
+> He was wrong about many things, but he was the first to ask the
+> right questions. He taught men to look at the world instead of
+> dreaming about it, and that lesson alone was worth all his errors."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 IV. LAW OVER VIRTUE
 ────────────────────────────────────────────────────────────
@@ -235,6 +245,7 @@ XIV. SECONDARY SOURCES (ROME ACADEMIC REFERENCES)
 • Theodor Mommsen
 • Anthony Kaldellis
 • Adrian Goldsworthy
+• Will Durant, *The Life of Greece* (1939)
 
 ────────────────────────────────────────────────────────────
 XV. MEM INGEST BOOTSTRAP

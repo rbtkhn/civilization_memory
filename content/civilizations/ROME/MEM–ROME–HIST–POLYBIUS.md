@@ -55,6 +55,16 @@ Edward Gibbon emphasizes this advantage:
 
 Polybius explains Rome precisely because he is **not Roman**.
 
+Will Durant situates Polybius's unique analytical perspective:
+
+> "Polybius was the most scientific of ancient historians—a man who
+> sought not merely to narrate events but to explain them. He asked
+> why Rome conquered the world, and he answered with an analysis of
+> institutions, not a hymn to virtue. He was a Greek who admired Rome
+> without flattering her, and who understood her better than she
+> understood herself."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 III. MIXED CONSTITUTION THEORY (STRUCTURAL CORE)
 ────────────────────────────────────────────────────────────
@@ -200,6 +210,7 @@ Secondary (ROME–HIST Canon, Integrated):
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*
 • Theodor Mommsen, *The History of Rome*
 • Anthony Kaldellis, *Romanland*
+• Will Durant, *The Life of Greece* (1939)
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–HIST–POLYBIUS — v1.1

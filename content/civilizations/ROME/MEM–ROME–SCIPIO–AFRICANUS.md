@@ -197,6 +197,17 @@ Polybius emphasizes structural parity:
 Rome wins not by surprise,
 but by **systemic alignment**.
 
+Adrian Goldsworthy situates Scipio within the Roman command tradition:
+
+> "Scipio Africanus stands as the first of Rome's great generals to emerge
+> as a distinct personality from our sources. He was not merely a capable
+> commander but a charismatic leader who inspired exceptional devotion in
+> his soldiers. Yet for all his personal magnetism, Scipio's victories
+> depended on the Roman system—its discipline, its ability to replace
+> losses, its alliance networks. Genius and system combined at Zama;
+> neither alone would have sufficed."
+> — Adrian Goldsworthy, *In the Name of Rome*
+
 ────────────────────────────────────────────────────────────
 VI. INSTITUTIONAL CONTINUITY OVER PERSONAL RULE
 ────────────────────────────────────────────────────────────
@@ -324,6 +335,7 @@ VERBATIM CITED:
 • Gibbon, Edward. *The Decline and Fall of the Roman Empire*. 1776–1789.
 • Mommsen, Theodor. *The History of Rome*. 1854–1856.
 • Goldsworthy, Adrian. *The Punic Wars*. 2000.
+• Goldsworthy, Adrian. *In the Name of Rome*. 2003.
 • Gabriel, Richard A. *Hannibal*. 2011.
 
 CONSULTED (Not Quoted):

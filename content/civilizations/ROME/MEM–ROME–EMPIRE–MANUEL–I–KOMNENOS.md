@@ -141,7 +141,7 @@ This is not collapse.
 It is **ambition checked**.
 
 ────────────────────────────────────────────────────────────
-VII. PUBLIC DOMAIN SCHOLARSHIP — EXPANSION WITHOUT DEPTH
+VII. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
 ────────────────────────────────────────────────────────────
 Edward Gibbon identifies the structural flaw:
 

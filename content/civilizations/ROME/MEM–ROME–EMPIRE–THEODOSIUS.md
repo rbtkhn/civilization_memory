@@ -124,6 +124,16 @@ Peter Sarris analyzes the economic transformation of Roman military power in lat
 
 Military power became a fiscal liability.
 
+Peter Heather analyzes the long-term consequences of Theodosius' Gothic settlement:
+
+> "Theodosius' decision to settle the Goths inside the empire on their
+> own terms was not a sign of weakness but a pragmatic recognition of
+> changed realities. The empire could no longer destroy large barbarian
+> groups militarily; it could only accommodate or redirect them. But
+> accommodation created precedents that later emperors would find
+> impossible to reverse."
+> — Peter Heather, *The Fall of the Roman Empire*
+
 ────────────────────────────────────────────────────────────
 VI. UNITY BY DECREE, DIVISION BY PRACTIAD
 ────────────────────────────────────────────────────────────
@@ -193,7 +203,25 @@ NON-ROME:
 • MEM–PERSIA–SASANIAN–RELIGION–STATE
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Theodosius' fusion of state and church:
+
+> "The emperors who had so patiently endured the contempt of the Christians,
+> were at length provoked by their growing insolence to assume the language
+> of command, and to exert the authority of the laws. Theodosius, by a solemn
+> edict, declared his resolution of inflicting severe punishments on the
+> obstinate heretics who should dare to disturb the peace of the church; and
+> the spiritual weapons of excommunication and anathema were fortified by the
+> terrors of civil proscription."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. II, ch. 27
+
+Gibbon identifies the structural transformation: unity becomes doctrinal.
+The state no longer tolerates; it enforces belief.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Law can impose belief, not regenerate unity.
 • Sacral legitimacy outlives institutions.
@@ -204,7 +232,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Theodoret, *Ecclesiastical History* - Contemporary account of Theodosius' religious policies
 • Zosimus, *New History* - Critical account of Theodosius' reign and policies
@@ -212,6 +240,7 @@ X. MEM BIBLIOGRAPHY (MANDATORY)
 • Theodor Mommsen, *The History of Rome* - Examination of Theodosius' legal and administrative reforms
 • Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on fourth-century imperial politics and religious policy
 • Peter Sarris, *Empires of Faith* - Analysis of late Roman economic transformation and barbarian relations
+• Peter Heather, *The Fall of the Roman Empire* (2006) - Analysis of Gothic settlement and barbarian accommodation
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–THEODOSIUS — v1.2

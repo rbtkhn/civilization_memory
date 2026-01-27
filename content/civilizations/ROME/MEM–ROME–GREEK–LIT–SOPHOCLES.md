@@ -114,6 +114,16 @@ Tragedy becomes implicit legal wisdom.
 
 Rome governs to avoid Sophoclean endings.
 
+Will Durant captures Sophocles' tragic wisdom:
+
+> "Sophocles is the supreme artist of tragedy, the most perfect
+> literary figure in antiquity. His plays are not entertainment but
+> education—lessons in the limits of human power, the danger of
+> certainty, the inevitability of suffering. He shows us great men
+> destroyed not by their vices but by their virtues carried to
+> excess. He teaches the oldest lesson of Greece: nothing too much."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 VII. CONTRAST WITH HOMER
 ────────────────────────────────────────────────────────────
@@ -165,6 +175,7 @@ Secondary:
 • Bernard Knox
 • Jean-Pierre Vernant
 • Martha Nussbaum
+• Will Durant, *The Life of Greece* (1939)
 
 ────────────────────────────────────────────────────────────
 X.a VERBATIM PRIMARY-SOURCE EXCERPTS

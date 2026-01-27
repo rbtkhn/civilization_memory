@@ -157,7 +157,21 @@ Basil II is Rome’s last proof
 that the machine still worked.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Basil II as Rome's martial anomaly:
+
+> "The character of Basil was hardened by solitude and war; his virtues
+> were those of a camp rather than of a court, and the vigor of his
+> government suspended, for a time, the natural decline of a despotic
+> monarchy."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 48
+
+Gibbon identifies the structural paradox: Basil delays decline but cannot
+reverse it. Coercion compensates for legitimacy decay, but only temporarily.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Rome can still win when commanded absolutely.
 • Discipline substitutes for belief only briefly.
@@ -168,7 +182,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY (MANDATORY)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Michael Psellos, *Chronographia* - Contemporary account of Basil II's reign and Byzantine court
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Basil II's reign and Byzantine revival

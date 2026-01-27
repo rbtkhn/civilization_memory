@@ -217,7 +217,31 @@ OTHER CIVILIZATIONS:
 • MEM–ANGLIA–ROMAN–AFTERLIFE
 
 ────────────────────────────────────────────────────────────
-XI. CONTINUITY INSIGHTS (RAW)
+XI. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Theodoric's paradox of barbarian Roman rule:
+
+> "The empire of the West was extinguished, but the laws, the manners, and
+> the language of Rome still governed the provinces. The barbarian conquerors,
+> who respected the arts and institutions of the vanquished, assumed the
+> modest title of kings, and were content to rule under the forms of Roman
+> administration which they neither understood nor wished to destroy."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. IV, ch. 39
+
+On the fragility of tolerance:
+
+> "The toleration of Theodoric was dictated by prudence rather than principle;
+> and the seeds of discord, which his wisdom had repressed, sprang up with
+> fatal vigor when his authority was no longer able to restrain them."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. IV, ch. 39
+
+Gibbon identifies the structural logic: tolerance functions only while
+authority endures. Rome persists in practice, not authority.
+
+────────────────────────────────────────────────────────────
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Roman order can survive without Roman sovereignty.
 • Administration is more portable than authority.
@@ -228,7 +252,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XII. PRIMARY & SECONDARY SOURCES (INTEGRATED)
+XIII. PRIMARY & SECONDARY SOURCES (INTEGRATED)
 ────────────────────────────────────────────────────────────
 Primary:
 • Cassiodorus, *Variae*

@@ -103,7 +103,26 @@ Outcomes:
 
 Democracy proves dependent on exceptional leadership.
 
+Anthony Everitt analyzes the structural vulnerability:
+
+> "Pericles had held Athens together by force of personality and
+> strategic vision. Without him, the democracy he championed became
+> prey to demagogues who told the assembly what it wanted to hear
+> rather than what it needed to know. The same system that had
+> produced Periclean greatness now produced the Sicilian disaster."  
+> — Anthony Everitt, *The Rise of Athens*
+
 Rome internalizes this lesson by constraining mass participation.
+
+Will Durant captures the magnitude of Periclean achievement:
+
+> "Pericles guided Athens for thirty years, and in that time made
+> her the intellectual capital of the world. He adorned her with
+> buildings that have never been surpassed; he encouraged her poets,
+> her dramatists, her sculptors, her philosophers. He gave democracy
+> its highest expression and its most complete justification. And
+> then he died, and within a generation his work was in ruins."
+> — Will Durant, *The Life of Greece*
 
 ────────────────────────────────────────────────────────────
 VII. ROMAN RECEPTION & ADAPTATION
@@ -142,6 +161,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Rome survives by refusing to be Athens.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Thucydides, *History of the Peloponnesian War* - Primary source including Funeral Oration
+• Plutarch, *Life of Pericles* - Biographical account
+• Anthony Everitt, *The Rise of Athens* (2016) - Modern analysis of Periclean Athens
+• Will Durant, *The Life of Greece* (1939) - Cultural history of Periclean Athens
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–ATHENS–PERICLES — v1.1

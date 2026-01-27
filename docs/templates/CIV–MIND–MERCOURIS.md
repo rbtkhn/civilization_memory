@@ -18,8 +18,8 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.2+
-• CIV–MIND–TEMPLATE v1.1
+• CIV–MEM–CORE v2.5
+• CIV–MIND–TEMPLATE v2.5
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Material: Transcript analysis (24–25 January 2026 programs + December 2025 panel)

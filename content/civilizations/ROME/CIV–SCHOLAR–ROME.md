@@ -773,6 +773,30 @@ Primary Belief Extracted:
 Belief Status:
 • FROZEN (SELECTIVE ABSORPTION PATTERN)
 
+ENTRY 0045
+Source: MEM–ROME–CAESAR v1.6 + MEM–ROME–AUGUSTUS v1.5 (POLYPHONIC SYNTHESIS)
+Ingest Type: Multi-Frame Synthesis / Vacancy Contest Resolution
+Primary Belief Extracted:
+• The post-Caesar vacancy (44–31 BC) was resolved through the intersection
+  of three distinct logics:
+  (1) Liability Logic (Barnes): The conspirators incurred maximum exposure
+      while transferring all assets to whoever could claim inheritance.
+      Octavian filled the vacancy through material inheritance; the
+      conspirators held only ideological claims.
+  (2) Power Distribution Logic (Mearsheimer): Structural forces favored
+      the Triumvirate from day one. The conspirators achieved rough
+      legionary parity but faced insurmountable asymmetries: geographic
+      (periphery vs. center), logistical (extended vs. interior lines),
+      coalitional (ideology vs. shared liability).
+  (3) Legitimacy Grammar Logic (Mercouris): Republican ideology was not
+      exhausted but transformed. Augustus survived where Caesar was killed
+      because he spoke the language power alone could not speak.
+• Vacancy contests are resolved at three levels simultaneously: individual
+  (liability), systemic (power distribution), civilizational (legitimacy
+  grammar). The conspirators lost at all three; Octavian won at all three.
+Belief Status:
+• FROZEN (VACANCY CONTEST RESOLUTION — TRI-LEVEL ANALYSIS)
+
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -804,6 +828,7 @@ SYNTHESIS 0032: Institutional Learning Pattern (copy → standardize → multipl
 SYNTHESIS 0033: Adversarial Mirror Erasure (Carthage as RLL–0006 contrast) → FROZEN
 SYNTHESIS 0034: Genius vs. System (Hannibal as diagnostic instrument) → FROZEN
 SYNTHESIS 0035: Selective Absorption (Plato's ethics without politics) → FROZEN
+SYNTHESIS 0036: Vacancy Contest Resolution (Tri-Level: Barnes + Mearsheimer + Mercouris) → FROZEN
 
 ────────────────────────────────────────────────────────────
 IV.A PROPOSED RECURSIVE LEARNING LAWS (RLLs) — PENDING AUTHORIZATION
@@ -873,6 +898,19 @@ Cognitive Frame: Mearsheimer + Barnes
 Mearsheimer Validation: STRONG — structural impossibility of universal succession
 Status: BOUND · AUTHORIZED · January 2026
 
+RLL–ROME–0007: VACANCY CONTEST RESOLUTION LAW
+When a regime is violently terminated, the vacancy is filled by whoever
+simultaneously holds: (1) Material inheritance (assets, networks,
+obligations), (2) Favorable power distribution (center, not periphery),
+(3) Credible legitimacy performance (speaks the grammar, not merely
+claims it). Parties holding fewer than all three may contest but cannot
+prevail. Parties holding all three may fail only through internal fracture.
+Source: ENTRY 0045, SYNTHESIS 0036
+Cognitive Frame: Barnes + Mearsheimer + Mercouris (integrated)
+Mearsheimer Validation: PENDING — requires cross-civilizational testing
+  (Time of Troubles, Diadochi, 1453 fragment contest)
+Status: PROPOSED · PENDING VALIDATION · January 2026
+
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY (EXTERNAL REFERENCE)
 ────────────────────────────────────────────────────────────
@@ -919,12 +957,13 @@ VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE — PHASE II (CONSTRAINT GRAMMAR)
 Doctrine Count: 12 (FROZEN) — See CIV–DOCTRINE–ROME v2.0
-RLL Count: 2 BOUND + 4 PENDING
+RLL Count: 2 BOUND + 5 PENDING
   • RLL–ROME–0002: BOUND (Vacancy by Declination) — APPLIED TO 3 MEMs (MEHMED–II core, OTTOMAN–EMPIRE)
   • RLL–ROME–0006: BOUND (Fragment Inheritance) — APPLIED TO 8 MEMs (OTTOMAN–EMPIRE, RUSSIA, ISLAM, MONGOL–EMPIRE, HRE, + 3 CONTEXT)
+  • RLL–ROME–0007: PENDING (Vacancy Contest Resolution — awaiting cross-civ validation)
   • RLL–ROME–0001, 0003, 0004, 0005: PENDING (reformulation/reclassification)
-Total Entries: 49
-Synthesis Count: 35 (22 FROZEN, 13 UNFROZEN/AUTHORIZED)
+Total Entries: 50
+Synthesis Count: 36 (23 FROZEN, 13 UNFROZEN/AUTHORIZED)
 Heuristic Count: 9
 MEMs Revised This Session: 10 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL, GREEK–LIT–PLATO, SCIPIO–AFRICANUS)
 MEMs Created This Session: 9 (HOLY–ROMAN–EMPIRE, PHILIP–II, LAW–CITIZENSHIP, LAW–SLAVERY, WAR–THIRD–PUNIC, OTTOMAN–EMPIRE, MONGOL–EMPIRE, RUSSIA, ISLAM)

@@ -114,6 +114,16 @@ Anthony Kaldellis situates this approach within Roman continuity logic:
 Cultural absorption delays systemic stress.
 Cities metabolize variance so the center does not fracture.
 
+Adrian Goldsworthy emphasizes the maintenance logic of Hadrianic peace:
+
+> "Under Hadrian, the empire stopped trying to grow and started trying
+> to last. The peace he maintained was not passive—it required constant
+> supervision, adjustment, and the credible threat of force. But the
+> goal had shifted from conquest to preservation, from glory to
+> durability. This was the mature Pax Romana: not the absence of
+> violence, but its strategic management."  
+> — Adrian Goldsworthy, *Pax Romana: War, Peace and Conquest in the Roman World*
+
 ────────────────────────────────────────────────────────────
 VI. FAILURE CASE: THE BAR KOKHBA REVOLT
 ────────────────────────────────────────────────────────────
@@ -167,7 +177,23 @@ IX. MEM CONNECTIONS
 • MEM–ROME–GEO–MEDITERRANEAN–SEA
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon situates Hadrian as the pivot from expansion to maintenance:
+
+> "The Roman world was now bounded by the Rhine and Danube, the Euphrates
+> and the ocean; and the age of Hadrian may be fixed as the moment when
+> the empire ceased to advance, and for the first time learned the
+> necessity of respecting its own limits. The wisdom of Hadrian foresaw
+> the danger of unbounded conquest, and preferred the solid advantages
+> of security to the empty renown of extending dominion."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*
+
+Gibbon identifies the strategic logic: endurance requires renunciation.
+Expansion that outpaces absorption becomes liability.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Strategic restraint can be strength.
 • Borders are administrative technologies.
@@ -178,7 +204,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES (COMPLIANCE SET)
+XII. PRIMARY & SECONDARY SOURCES (COMPLIANCE SET)
 ────────────────────────────────────────────────────────────
 Ancient (Category A):
 • Cassius Dio, *Roman History*
@@ -191,7 +217,7 @@ Public Domain (Category B):
 Modern Copyrighted (Category C):
 • Anthony Everitt
 • Anthony Kaldellis
-• Adrian Goldsworthy
+• Adrian Goldsworthy, *Pax Romana* (2016)
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–HADRIAN — v1.2

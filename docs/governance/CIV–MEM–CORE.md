@@ -5,7 +5,7 @@ DUAL MIND POLYPHONY EDITION · PROPORTIONAL BLEND LAW
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.2
+Version: 2.5
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
@@ -94,7 +94,7 @@ Polyphony Architecture:
 • Tension preserved, NOT synthesized
 • User navigates divergence between readings
 
-See: CIV–MIND–TEMPLATE v1.1, CIV–MIND–MERCOURIS v2.4, CIV–MIND–MEARSHEIMER v2.3
+See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MERCOURIS v2.5, CIV–MIND–MEARSHEIMER v2.4
 
 Backward Compatibility:
 • All existing MEM files remain valid

@@ -141,6 +141,17 @@ the only stable authority remaining.
 > became the basis of their authority."
 > — Peter Brown, *The Rise of Western Christendom* (2003)
 
+Hans-Ulrich Wiemer emphasizes Theodoric's pragmatic relationship with
+the Papacy:
+
+> "Theodoric's tolerance of Catholic Christianity was not indifference
+> but calculation. An Arian king ruling a Catholic population required
+> the Church's cooperation for governance. The Pope provided legitimacy
+> the Gothic king could not claim for himself. This mutual dependence
+> preserved papal autonomy under barbarian rule and strengthened the
+> institution that would outlast its protectors."
+> — Hans-Ulrich Wiemer, *Theoderich der Große*
+
 Immobility as inheritance.
 Constraint as power.
 
@@ -312,6 +323,7 @@ SECONDARY SOURCES:
 • Heather, Peter. *The Fall of the Roman Empire*. Oxford UP, 2006.
 • Kaldellis, Anthony. *The New Roman Empire*. Oxford UP, 2023.
 • Mommsen, Theodor. *History of Rome*. 1854–1856.
+• Wiemer, Hans-Ulrich. *Theoderich der Große*. C.H. Beck, 2018.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–PAPACY — v2.0

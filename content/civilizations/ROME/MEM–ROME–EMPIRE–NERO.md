@@ -104,7 +104,30 @@ Rome learns:
 • Dynastic continuity requires discipline
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon situates Nero within Rome's collapse of aesthetic into political:
+
+> "The Roman world was oppressed by the eccentricities of a prince who
+> valued himself as a musician and actor, while the provinces groaned
+> under the weight of his profusion."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 7
+
+Gibbon identifies the core pathology: performance substituting for governance.
+Empire becomes stage; sovereignty becomes spectacle.
+
+Will Durant captures Nero's fatal confusion of art with power:
+
+> "Nero was not merely a bad emperor; he was a man who had mistaken
+> his vocation. He should have been an artist, and might have been
+> a great one; but fate made him an emperor, and he could never
+> forget that he was an artist. He sang while Rome burned because
+> his soul was on fire with poetry, not with government. The
+> tragedy of Nero was that he had genius, but for the wrong things."
+> — Will Durant, *Caesar and Christ*
+
+────────────────────────────────────────────────────────────
+VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Personal expression destabilizes impersonal authority.
 • Empire cannot function as theater.
@@ -115,11 +138,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY (MANDATORY)
+IX. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-1788) - Analysis of Nero's reign and Julio-Claudian decline
 • Theodor Mommsen, *The History of Rome* (1864-1879) - Examination of Nero's administrative failures and imperial authority loss
 • Tacitus, *Annals* (Books 13-16) - Contemporary account of Nero's reign, Great Fire, and tyrannical behavior
+• Will Durant, *Caesar and Christ* (1944) - Cultural history of Nero and Julio-Claudian decline
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–NERO — v1.1

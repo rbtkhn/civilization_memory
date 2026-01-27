@@ -401,7 +401,7 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,800
-TOTAL REGISTERED FILES: One hundred fifty-four (154) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred sixty (160) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 27 files
@@ -412,8 +412,8 @@ Category Breakdown:
 • F) RELIGION: 2 files
 • G) PERSON: 23 files
 • H) HIST: 3 files
-• I) OTHER: 41 files
+• I) OTHER: 47 files
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v2.4
+END OF FILE — CIV–INDEX–RUSSIA v2.7

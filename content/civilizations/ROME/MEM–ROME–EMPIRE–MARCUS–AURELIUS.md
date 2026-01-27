@@ -182,7 +182,34 @@ NON-ROME:
 • MEM–FRANCIA–PHILOSOPHER–KING–MYTH
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon situates Marcus Aurelius at the turning point of Roman fortune:
+
+> "The virtue of Marcus Aurelius was a source of terror to himself, and
+> of admiration to his subjects; but the progress of the empire was
+> sensibly checked by the calamities of his reign. The pestilence, which
+> followed the Roman armies from the East, diffused a slow but destructive
+> contagion over Italy and the provinces, and the human species was
+> sensibly diminished by the dreadful scourge."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. I, ch. 3
+
+Gibbon identifies the structural irony: virtue cannot prevent entropy.
+The philosopher-emperor governs decline with dignity, not reversal.
+
+Will Durant situates Marcus Aurelius at the apex of Roman moral achievement:
+
+> "Marcus Aurelius was the noblest of all the men who have held
+> supreme power. He gave himself to the state without reservation,
+> asked nothing for himself, and sought only to leave the empire
+> better than he found it. That he failed was not his fault but
+> his misfortune. He governed an empire already beginning to die,
+> and even his virtue could not arrest its decay."
+> — Will Durant, *Caesar and Christ*
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Moral authority can sustain legitimacy temporarily.
 • Virtue cannot replace institutional renewal.
@@ -192,6 +219,16 @@ X. CONTINUITY INSIGHTS (RAW)
 • Marcus governs decline with dignity, not reversal.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Marcus Aurelius, *Meditations* - Primary source, philosophical diary
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Classical analysis
+• Theodor Mommsen, *The History of Rome* - Structural assessment
+• Adrian Goldsworthy, *How Rome Fell* - Military and frontier analysis
+• Anthony Kaldellis, *The New Roman Empire* - Imperial ideology context
+• Will Durant, *Caesar and Christ* (1944) - Cultural history of the philosopher-emperor
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–MARCUS–AURELIUS — v1.0

@@ -75,6 +75,16 @@ Theodor Mommsen situates this act within Roman continuity logic:
 > which made it independent of the fate of the state itself.”
 > — Theodor Mommsen, *The History of Rome*
 
+Peter Sarris emphasizes the civilizational significance of the codification:
+
+> "The Corpus Juris Civilis was not merely a legal compilation but a
+> statement of imperial ideology and civilizational continuity. By
+> systematizing centuries of Roman jurisprudence, Justinian created
+> a portable empire—one that could be transmitted to future generations
+> regardless of territorial fate. The code outlived the empire that
+> produced it because it encoded principles rather than boundaries."
+> — Peter Sarris, *Justinian: Emperor, Soldier, Saint*
+
 ────────────────────────────────────────────────────────────
 IV. RECONQUESTS: RESTORATION WITHOUT DEPTH
 ────────────────────────────────────────────────────────────
@@ -111,6 +121,18 @@ Anthony Everitt captures Justinian's extraordinary vision and the human cost of 
 
 The emperor who built cathedrals while his empire crumbled.
 
+Hans-Ulrich Wiemer emphasizes the cost of destroying Theodoric's
+achievement:
+
+> "Justinian's reconquest of Italy destroyed what Theodoric had built:
+> a functioning Roman administration under Gothic protection. The
+> twenty years of war that followed replaced order with devastation,
+> prosperity with famine, and governance with military occupation.
+> What Justinian recovered was not the Italy of Theodoric but a
+> depopulated ruin that would never again sustain Roman civilization
+> at its former level."
+> — Hans-Ulrich Wiemer, *Theoderich der Große*
+
 ────────────────────────────────────────────────────────────
 V. THEOLOGY AS IMPERIAL INFRASTRUCTURE
 ────────────────────────────────────────────────────────────
@@ -126,6 +148,16 @@ Anthony Kaldellis identifies the coercive logic beneath theological unity:
 
 Theology substitutes for lost territorial cohesion—but imperfectly.
 Belief cannot fully replace logistics.
+
+Sarris illuminates the intersection of plague and policy:
+
+> "The Plague of Justinian (541–542) struck at the precise moment when
+> the emperor's ambitions required maximum resources. The demographic
+> catastrophe—perhaps reducing the empire's population by a third—
+> meant that Justinian's reconquest was pursued with a shrinking
+> population and collapsing tax revenues, transforming what might
+> have been consolidation into prolonged exhaustion."
+> — Peter Sarris, *Justinian: Emperor, Soldier, Saint*
 
 ────────────────────────────────────────────────────────────
 VI. EXHAUSTION & AFTERMATH
@@ -182,7 +214,40 @@ Mommsen’s judgment is decisive:
 > — Theodor Mommsen, *The History of Rome*
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Justinian's inherited condition:
+
+> "The empire of the East was still adorned by the name and majesty of the
+> Roman Republic; but the nations of Europe and Asia were no longer governed
+> by the same principles. The strength of the state was contracted within a
+> narrower circle; and the powers of government were exercised with more
+> vigor, but over a diminished extent."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*
+
+On the cost of reconquest:
+
+> "The emperor exhausted the strength of the empire by his expensive
+> conquests, his profuse buildings, and his lavish gifts to the clergy;
+> and the treasures of Constantinople were dissipated by the ambition of
+> restoring Rome to her ancient limits."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*
+
+Gibbon identifies the paradox: reconquest exhausts the system it seeks to restore.
+Rome persists as structure without scale; Justinian's ambition exceeds capacity.
+
+Peter Heather analyzes the exhaustion produced by Justinian's reconquest:
+
+> "Justinian's wars achieved their objectives, but at a cost the empire
+> could not sustain. Italy was devastated, North Africa drained of
+> resources, and the eastern frontier left vulnerable. The reconquests
+> looked backward to a Roman Mediterranean that no longer existed,
+> while ignoring the threats that would define the empire's future—
+> Persia, the Slavs, and eventually the Arabs."
+> — Peter Heather, *Empires and Barbarians*
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Law outlives territory.
 • Restoration costs more than expansion.
@@ -231,13 +296,17 @@ This MEM supports inquiry into:
 • The human and structural cost of memory-driven ambition
 
 ────────────────────────────────────────────────────────────
-XII. MEM BIBLIOGRAPHY (MANDATORY)
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Procopius, *Wars* - Contemporary account of Justinian's campaigns and court politics
 • *Codex Justinianus* - Primary legal compilation under Justinian's direction
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Justinian's reign and reconquests
 • Theodor Mommsen, *The History of Rome* - Examination of Justinian's legal reforms and administrative legacy
 • Anthony Everitt, *Hadrian and the Triumph of Rome* - Biographical analysis of Justinian's ambitious vision and imperial restoration
+• Peter Heather, *Empires and Barbarians* (2010) - Analysis of reconquest costs and post-Roman transformation
+• Hans-Ulrich Wiemer, *Theoderich der Große* (2018) - Cost of destroying Ostrogothic Italy
+• Peter Sarris, *Economy and Society in the Age of Justinian* (2006) - Economic analysis of reconquest
+• Peter Sarris, *Justinian: Emperor, Soldier, Saint* (2023) - Definitive biography
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–JUSTINIAN — v1.3

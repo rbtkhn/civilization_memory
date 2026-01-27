@@ -199,7 +199,33 @@ NON-ROME:
 • MEM–FRANCIA–NAPOLEON — system dependent on founder
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Diocletian's transformation of imperial style:
+
+> "The modest title of Prince was laid aside; the diadem encircled the
+> brow of the Roman emperor; the knees of the subjects were bent in
+> adoration; and the splendid robes of Diocletian and his successors
+> were adorned with the ensigns of Oriental royalty. The distance
+> between the prince and the people was immeasurably increased, and
+> the approach of the throne was rendered difficult and dangerous."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. I, ch. 13
+
+On the failure of persecution:
+
+> "The church, instead of sinking under oppression, derived new strength
+> from the zeal and patience of its sufferers; and the blood of the
+> martyrs, which had been shed in so many provinces of the empire,
+> became the fruitful seed of the Christian faith."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. II, ch. 16
+
+Gibbon identifies the core paradox: Diocletian builds order without consent.
+Coercion accelerates what it cannot absorb.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Order without belief is brittle.
 • Systems fail when loyalty is personal.
@@ -210,7 +236,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Lactantius, *De Mortibus Persecutorum* - Contemporary account of Diocletian's persecution policies
 • Eusebius, *Ecclesiastical History* - Contemporary account of Diocletian's reign and persecutions

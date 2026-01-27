@@ -106,7 +106,21 @@ or it becomes intolerable.
 This prepares the ground for Claudius.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon situates Caligula within the pathology of unchecked power:
+
+> "The madness of Caligula soon converted the favor of the Roman people
+> into abhorrence; and the vices which were concealed by the veil of
+> absolute power burst forth with unrestrained violence."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. 6
+
+Gibbon identifies the structural lesson: charisma without restraint
+accelerates collapse. The Principate survives Caligula only because
+institutions remained stronger than the individual degrading them.
+
+────────────────────────────────────────────────────────────
+VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Charisma without discipline is corrosive.
 • Absolute power tests personality faster than institutions.
@@ -117,7 +131,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY (MANDATORY)
+IX. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776-1788) - Analysis of Caligula's reign and Julio-Claudian madness
 • Theodor Mommsen, *The History of Rome* (1864-1879) - Examination of Caligula's despotism and Principate failure

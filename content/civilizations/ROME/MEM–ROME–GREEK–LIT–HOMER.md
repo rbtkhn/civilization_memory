@@ -122,6 +122,16 @@ He observes:
 Gibbon positions Homer as Rome’s **tragic conscience**, never erased,
 only suppressed.
 
+Will Durant captures Homer's foundational role:
+
+> "Homer is the Bible of Greece. For a thousand years he educated
+> the Greek mind, taught it patriotism and piety and self-restraint,
+> gave it its models of courage and eloquence, its ideals of manhood
+> and womanhood. Every Greek schoolboy knew him by heart; every Greek
+> statesman quoted him; every Greek general drew lessons from him.
+> He was Greece before Greece was Greece."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 VII. MOMMSEN: EPIC INDIVIDUALISM VS ROMAN INSTITUTION
 ────────────────────────────────────────────────────────────
@@ -215,6 +225,7 @@ XV. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Homeric influence on Roman culture
 • Theodor Mommsen, *The History of Rome* - Examination of Roman literary and educational traditions
 • Anthony Kaldellis, *The Hellenistic Inheritance* - Analysis of Homeric tradition in Byzantine education and culture
+• Will Durant, *The Life of Greece* (1939) - Cultural history of Homeric tradition
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP

@@ -178,6 +178,17 @@ Theodor Mommsen underscores Italy’s enduring primacy:
 
 Italy ceases to rule but continues to **define** Rome.
 
+Hans-Ulrich Wiemer emphasizes how Italy remained Roman even under
+Gothic rule:
+
+> "Theodoric's Italy was not a break with Roman tradition but its
+> continuation under new management. The peninsula retained its
+> administrative structures, its legal frameworks, its urban culture.
+> What changed was the source of military power, not the substance
+> of governance. Italy under the Ostrogoths remained recognizably
+> Roman to its inhabitants, its institutions, and its neighbors."
+> — Hans-Ulrich Wiemer, *Theoderich der Große*
+
 ────────────────────────────────────────────────────────────
 VIII. MODERN SCHOLARSHIP — STRUCTURAL FRAMING
 ────────────────────────────────────────────────────────────
@@ -256,6 +267,7 @@ Category B — Public Domain Scholarship (Verbatim, ≥25 words):
 Category C — Modern Scholarship (Verbatim, Fair Use):
 • Clifford Ando
 • Adrian Goldsworthy
+• Hans-Ulrich Wiemer
 
 All quotation hierarchy and weighting rules satisfied.
 

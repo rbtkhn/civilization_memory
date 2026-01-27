@@ -187,9 +187,10 @@ VI. QUICK BINDING DECLARATION
 For session startup, declare:
 
 "Bound by:
-• CIV–MEM–CORE v2.2
-• CIV–MIND–MERCOURIS v2.4
-• CIV–MIND–MEARSHEIMER v2.3
+• CIV–MEM–CORE v2.5
+• CIV–MIND–MERCOURIS v2.5 (PRIMARY)
+• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
+• CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.8"
 
 ────────────────────────────────────────────────────────────

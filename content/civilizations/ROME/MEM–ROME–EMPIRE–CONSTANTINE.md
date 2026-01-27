@@ -154,6 +154,16 @@ Adrian Goldsworthy underscores the continuity with earlier emperors:
 The empire becomes less personal,
 but more absolute.
 
+Peter Heather emphasizes the structural continuity beneath religious change:
+
+> "Constantine's conversion did not fundamentally alter the nature of
+> Roman government. The emperor remained an autocrat, the army remained
+> the ultimate source of power, and the bureaucracy remained the
+> mechanism of rule. What changed was the ideological language in which
+> authority was expressed—Christianity provided new legitimation
+> without requiring new institutions."
+> — Peter Heather, *The Fall of the Roman Empire*
+
 ────────────────────────────────────────────────────────────
 VII. LIMITS & LONG-TERM COSTS
 ────────────────────────────────────────────────────────────
@@ -204,7 +214,25 @@ NON-ROME:
 • MEM–RUSSIA–THIRD–ROME — continuity claim via Orthodoxy
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Constantine's rise through power, not piety:
+
+> "The elevation of Constantine was the result of force, and his reign
+> was a long series of military enterprises; but he gradually learned
+> to substitute the arts of policy for the violence of conquest, and
+> to secure his dominion by the establishment of order rather than by
+> the continuance of war. The Roman world obeyed the first of the
+> Christian emperors, not because he was a saint, but because he was
+> victorious."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*,
+> Vol. II, ch. 20
+
+Gibbon identifies the structural logic: victory precedes legitimacy.
+Christianity becomes the legitimacy technology that victory alone cannot provide.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Military victory opens legitimacy space; ideology fills it.
 • Religion can stabilize empire—but never depoliticize it.
@@ -215,7 +243,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Eusebius, *Life of Constantine* - Contemporary biography of Constantine's reign and policies
 • Zosimus, *New History* - Critical account of Constantine's religious and political reforms
@@ -223,6 +251,7 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Theodor Mommsen, *The History of Rome* - Examination of Constantine's administrative and legal reforms
 • Hans-Ulrich Wiemer, *Libanius on Constantine* - Contemporary perspectives on Constantine's policies and legacy
 • Will Durant, *Caesar and Christ* - Cultural history of Constantine and the rise of Christianity
+• Peter Heather, *The Fall of the Roman Empire* (2006) - Structural analysis of late Roman transformation
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–CONSTANTINE — v1.2

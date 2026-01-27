@@ -94,6 +94,16 @@ It is **systemic intolerance** of endless negation.
 
 Athens chooses stability over truth-seeking.
 
+Will Durant captures the tragedy of Socrates' position:
+
+> "Socrates was the gadfly of Athens, stinging her into thought and
+> sometimes into fury. He asked questions that no one could answer,
+> and he answered questions that no one dared ask. He was the most
+> honest man in Athens, and therefore the most dangerous. In the end,
+> Athens killed him—not because he was wrong, but because he made
+> her uncomfortable with being right."
+> — Will Durant, *The Life of Greece*
+
 ────────────────────────────────────────────────────────────
 V. SOCRATES VS ROMAN GOVERNANCE LOGIC
 ────────────────────────────────────────────────────────────
@@ -191,6 +201,7 @@ Secondary:
 • Gregory Vlastos
 • Robin Waterfield
 • Paul Cartledge
+• Will Durant, *The Life of Greece* (1939)
 
 ────────────────────────────────────────────────────────────
 X.a VERBATIM PRIMARY-SOURCE EXCERPTS

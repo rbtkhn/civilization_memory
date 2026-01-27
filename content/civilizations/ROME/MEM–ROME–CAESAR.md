@@ -54,6 +54,17 @@ competition for honour had escalated beyond constitutional containment.”
 The Republic could still deliberate,
 but could no longer decide.
 
+Anthony Everitt frames the tragedy through Cicero's perspective:
+
+> "Cicero believed to the end that the Republic could be saved by
+> reason, by eloquence, by the force of argument. What he could not
+> accept was that Caesar represented not the corruption of the system
+> but its logical conclusion—that when constitutional politics produces
+> only paralysis, men with armies will resolve what senators cannot.
+> Cicero's tragedy was that he was right about the Republic's value
+> and wrong about its viability."  
+> — Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician*
+
 ────────────────────────────────────────────────────────────
 III. POPULAR ALIGNMENT & PERSONAL LEGITIMACY
 ────────────────────────────────────────────────────────────
@@ -90,6 +101,16 @@ to possess: years of uninterrupted military authority, soldiers whose
 future depended on him personally, and the resources of an empire at war
 placed effectively at his discretion.”
 — Goldsworthy, *Caesar: Life of a Colossus*
+
+Goldsworthy situates Caesar within Rome's command tradition:
+
+> "Caesar was a great general, arguably the greatest Rome ever produced,
+> but his military genius was inseparable from his political ambition.
+> Unlike Scipio or Pompey, he never distinguished between winning wars
+> and winning power. His campaigns in Gaul were not merely conquest but
+> preparation—the creation of an army loyal to him personally and the
+> resources to challenge any rival."
+> — Adrian Goldsworthy, *In the Name of Rome*
 
 ────────────────────────────────────────────────────────────
 V. CROSSING THE RUBICON: PROCEDURAL NULLIFICATION
@@ -129,6 +150,17 @@ hand that struck the dictator.”
 VIII. ABSORPTION INTO THE IMPERIAL SYSTEM
 ────────────────────────────────────────────────────────────
 Augustus completes what Caesar exposes.
+
+Will Durant offers a classic assessment of Caesar's transformative character:
+
+> "Caesar was the most complete man that antiquity produced. He was
+> soldier, statesman, lawgiver, orator, historian, poet, and lover.
+> He had the courage of a lion, the cunning of a fox, the charm of
+> a woman, and the resolution of a god. He was not a good man by
+> the standards of any faith or philosophy, but he was a great man
+> by the only test that history can apply—the test of power and
+> success."
+> — Will Durant, *Caesar and Christ*
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -199,6 +231,7 @@ XII.c MANDATORY EIGHT-OPTION EXPLORATION SET
 1. Primary Source Path — Caesar’s *Civil War*
 2. Primary Source Path — Cicero’s *Letters*
 3. Secondary Path — Goldsworthy on command authority
+3a. Secondary Path — Everitt on Cicero's perspective
 4. Secondary Path — Mommsen on constitutional collapse
 5. Analytical Extension — Compare Caesar vs Augustus
 6. Analytical Extension — Compare Caesar vs Sulla
@@ -218,5 +251,18 @@ XII.g SCHOLAR AUTHORIZATION GATE
 This MEM was authored under unlocked CIV–SCHOLAR–ROME authority.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CAESAR — v1.5
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Caesar, *Commentarii de Bello Civili* - Primary source, Caesar's own account
+• Cicero, *Epistulae ad Atticum* - Primary source, contemporary perspective
+• Suetonius, *Divus Julius* - Primary biographical account
+• Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Classical analysis
+• Theodor Mommsen, *The History of Rome* - Constitutional collapse analysis
+• Adrian Goldsworthy, *Caesar: Life of a Colossus* - Definitive modern biography
+• Adrian Goldsworthy, *In the Name of Rome* (2003) - Caesar in Roman command tradition
+• Anthony Everitt, *Cicero: The Life and Times of Rome's Greatest Politician* - Caesar through Cicero's perspective
+• Will Durant, *Caesar and Christ* (1944) - Cultural history of Caesar and late Republic
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ROME–CAESAR — v1.6
 ────────────────────────────────────────────────────────────

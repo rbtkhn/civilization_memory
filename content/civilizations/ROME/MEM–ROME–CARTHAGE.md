@@ -241,6 +241,17 @@ Outcomes of 146 BC:
 This is not conquest.
 It is **preventive annihilation**.
 
+Anthony Everitt captures the totality of Rome's intent:
+
+> "The destruction of Carthage was not merely military victory; it was
+> civilizational extinction. Rome did not want to defeat Carthage—it
+> wanted Carthage never to have existed. The razing of the city, the
+> salting of the earth, the enslavement of the survivors, the burning
+> of the archives—all of this was designed to erase not just a rival
+> power but a rival possibility. After 146 BC, there could be only one
+> way to organize the Mediterranean: Rome's way."  
+> — Anthony Everitt, *The Rise of Rome*
+
 Rome ensures no rival system survives.
 
 ────────────────────────────────────────────────────────────
@@ -387,6 +398,8 @@ PUBLIC DOMAIN SCHOLARSHIP:
 • Mommsen, Theodor. *The History of Rome* (1854–1856)
 
 MODERN SCHOLARSHIP:
+• Everitt, Anthony. *The Rise of Rome: The Making of the World's
+  Greatest Empire*. Random House, 2012.
 • Eckstein, Arthur. *Mediterranean Anarchy, Interstate War, and the
   Rise of Rome*. University of California Press, 2006.
 • Gabriel, Richard A. *Hannibal: The Military Biography of Rome's

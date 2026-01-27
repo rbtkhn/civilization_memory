@@ -210,7 +210,28 @@ Lessons preserved:
 Leo proves Rome can survive without expansion.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. PUBLIC DOMAIN SCHOLARSHIP — GIBBON
+────────────────────────────────────────────────────────────
+Edward Gibbon frames Leo III's inheritance:
+
+> "The Roman empire was reduced to the narrow limits of the capital and
+> a few provinces; the calamities of war, famine, and pestilence had
+> depopulated the cities; and the throne was shaken by the crimes and
+> follies of successive tyrants."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. XLIX
+
+On the political logic of Iconoclasm:
+
+> "The Iconoclast emperors may be accused of error or impiety; but their
+> motives were often political, and the blow which they aimed at images
+> was directed against the wealth, power, and independence of the monks."
+> — Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, ch. LIV
+
+Gibbon identifies the structural insight: Leo inherits not decline but
+imminent extinction. Iconoclasm becomes an instrument of control.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Collapse is avoided through discipline, not charisma.
 • Ideology can substitute for resources.
@@ -221,7 +242,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (MANDATORY)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Theophanes the Confessor, *Chronographia* - Contemporary chronicle of Leo III's reign and Iconoclasm
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Iconoclasm and Leo III's reign

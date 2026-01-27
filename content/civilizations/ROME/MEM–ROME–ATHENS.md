@@ -179,6 +179,16 @@ Rome:
 Athens teaches.
 Rome survives.
 
+Anthony Everitt captures Athens' unique civilizational achievement:
+
+> "Athens invented a new way of being human. In the space of two
+> centuries, this small city-state produced democracy, philosophy,
+> tragedy, comedy, history, and an architecture that still defines
+> our sense of the classical. No other city has ever concentrated
+> so much creative genius in so short a time—yet Athens could not
+> translate cultural supremacy into political endurance."  
+> — Anthony Everitt, *The Rise of Athens*
+
 ────────────────────────────────────────────────────────────
 IX. LIMITS & DISCLOSURES
 ────────────────────────────────────────────────────────────
@@ -190,6 +200,14 @@ IX. LIMITS & DISCLOSURES
 No doctrine asserted.
 No synthesis forced.
 Tension preserved for SCHOLAR handling.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+• Thucydides, *History of the Peloponnesian War* - Primary source on Athenian democracy and imperialism
+• Xenophon, *Memorabilia* - Critical perspective on Athenian decision-making
+• Plutarch, *Lives* - Biographical accounts of Athenian statesmen
+• Anthony Everitt, *The Rise of Athens* (2016) - Modern narrative of Athenian civilization
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–ATHENS — v1.2
