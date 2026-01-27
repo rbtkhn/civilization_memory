@@ -294,6 +294,17 @@ Possible explanations:
 > Carthage had never shown."
 > — William V. Harris, *War and Imperialism in Republican Rome* (1979)
 
+Richard Gabriel emphasizes the finality of Rome's decision:
+
+> "The destruction of Carthage was not merely military victory but
+> civilizational extermination. Rome did not want vassals or tribute;
+> it wanted elimination. The systematic destruction of the city, the
+> enslavement of the population, and the ritual cursing of the ground
+> were designed to ensure that Carthage could never rise again—not
+> in a generation, not ever. Rome had learned from Hannibal what a
+> recovered Carthage could do."
+> — Richard A. Gabriel, *Hannibal*
+
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -366,6 +377,7 @@ MODERN SCHOLARSHIP:
 • Harris, William V. *War and Imperialism in Republican Rome, 327–70 B.C.*
   Oxford UP, 1979.
 • Goldsworthy, Adrian. *The Fall of Carthage*. Cassell, 2000.
+• Gabriel, Richard A. *Hannibal*. Potomac Books, 2011.
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (v2.0)

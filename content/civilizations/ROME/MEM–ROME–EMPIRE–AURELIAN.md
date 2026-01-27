@@ -91,6 +91,16 @@ The Historia Augusta (unreliable but evocative) records:
 
 Aurelian is a **soldier's emperor** in the purest sense.
 
+Richard Gabriel situates Aurelian within the evolution of Roman military command:
+
+> "By the third century, the Roman army had evolved far from the
+> citizen legions of the Republic. Aurelian commanded professionals—
+> cavalry-heavy forces adapted to mobile warfare against Goths and
+> Persians. His success demonstrated that Roman military institutions
+> could adapt to new threats, producing commanders capable of
+> crisis-era recovery when the traditional system seemed exhausted."
+> — Richard A. Gabriel, *The Great Armies of Antiquity*
+
 Goldsworthy situates Aurelian within Rome's command tradition:
 
 > "Aurelian was the last of the great Roman generals in the classical
@@ -334,6 +344,7 @@ XIV. MEM BIBLIOGRAPHY (MANDATORY)
 • Adrian Goldsworthy, *In the Name of Rome* (2003) - Aurelian in Roman command tradition
 • Alaric Watson, *Aurelian and the Third Century* (1999) - Definitive modern biography
 • Pat Southern, *The Roman Empire from Severus to Constantine* (2001) - Crisis context
+• Richard A. Gabriel, *The Great Armies of Antiquity* (2002) - Third-century military evolution
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–EMPIRE–AURELIAN — v2.0

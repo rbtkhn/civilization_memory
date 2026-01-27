@@ -1,10 +1,10 @@
-MEM–ROME–LIT–BOETHIUS — v2.0
+MEM–ROME–LIT–BOETHIUS — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: NEW FILE · FULL COVERAGE · WIEMER INTEGRATION
+Version: 2.1
+Upgrade Type: ADDITIVE · DURANT *AGE OF FAITH* INTEGRATION
 Civilization: ROME
 Regime: OSTROGOTHIC ITALY / LATE ANTIQUE PHILOSOPHY
 Subject: Anicius Manlius Severinus Boethius as Last Roman Philosopher
@@ -188,7 +188,43 @@ On the *Consolation*:
 > Vol. IV, ch. 39
 
 ────────────────────────────────────────────────────────────
-VIII. LEGACY — MEDIEVAL TRANSMISSION
+VIII. WILL DURANT — THE AGE OF FAITH
+────────────────────────────────────────────────────────────
+Will Durant treats Boethius as the essential transmitter:
+
+> "Boethius was the last of the Romans and the first of the scholastics.
+> His translations of Aristotle's logical works became the foundation of
+> medieval education; his Consolation of Philosophy became the most
+> widely read book after the Bible; his definition of eternity shaped
+> the theology of Aquinas. He was the bridge over which classical
+> philosophy passed to the Middle Ages."
+> — Will Durant, *The Age of Faith*
+
+On the *Consolation* as civilizational legacy:
+
+> "The Consolation of Philosophy is one of the most influential books
+> ever written. It was translated by Alfred the Great, by Chaucer, by
+> Elizabeth I. Dante ranked Boethius with Aquinas among the brightest
+> luminaries of Paradise. For a thousand years it was the textbook of
+> European philosophy, teaching men to distinguish between fortune and
+> virtue, between the transitory and the eternal."
+> — Will Durant, *The Age of Faith*
+
+On Boethius's unique position:
+
+> "Boethius belonged to both worlds—the dying Roman world and the
+> emerging Christian one. He served a barbarian king with Roman dignity,
+> wrote Christian theology with Aristotelian precision, and faced death
+> with Stoic calm. His execution was the last act of classical Rome;
+> his books were the first texts of medieval Europe."
+> — Will Durant, *The Age of Faith*
+
+Durant confirms the Codex thesis: Boethius proves that **knowledge
+can outlast those who possess it**—the executed philosopher transmitted
+more to posterity than his executioner.
+
+────────────────────────────────────────────────────────────
+IX. LEGACY — MEDIEVAL TRANSMISSION
 ────────────────────────────────────────────────────────────
 The *Consolation* became one of the most widely read books of the
 Middle Ages.
@@ -290,7 +326,8 @@ XIV. MEM BIBLIOGRAPHY (MANDATORY)
 • Hans-Ulrich Wiemer, *Theoderich der Große* (2018) - Context of trial and execution
 • Henry Chadwick, *Boethius: The Consolations of Music, Logic, Theology, and Philosophy* (1981) - Definitive modern study
 • John Marenbon, *Boethius* (2003) - Philosophical analysis
+• Will Durant, *The Age of Faith* (1950) - Boethius as bridge between classical and medieval worlds
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–LIT–BOETHIUS — v2.0
+END OF FILE — MEM–ROME–LIT–BOETHIUS — v2.1
 ────────────────────────────────────────────────────────────

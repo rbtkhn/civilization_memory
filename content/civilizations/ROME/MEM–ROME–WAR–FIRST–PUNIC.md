@@ -245,6 +245,16 @@ The corvus had disadvantages:
 But the corvus exemplifies the Roman pattern:
 **Adapt the battlefield to Roman strengths, not Romans to the battlefield.**
 
+Richard Gabriel analyzes Rome's naval transformation as institutional adaptation:
+
+> "The Roman navy that emerged from the First Punic War was not the
+> product of maritime tradition but of institutional will. Rome copied
+> Carthaginian ship designs, trained crews with characteristic discipline,
+> and converted naval combat into infantry engagement through the corvus.
+> What took Carthage centuries to develop, Rome replicated in years—
+> not through innovation, but through systematic imitation at scale."
+> — Richard A. Gabriel, *The Great Armies of Antiquity*
+
 ────────────────────────────────────────────────────────────
 VII. SICILY AS FIRST PROVINCE
 ────────────────────────────────────────────────────────────
@@ -376,6 +386,7 @@ MODERN SCHOLARSHIP:
 • Lazenby, J.F. *The First Punic War*. Stanford UP, 1996.
 • Hoyos, Dexter. *Mastering the West: Rome and Carthage at War*.
   Oxford UP, 2015.
+• Gabriel, Richard A. *The Great Armies of Antiquity*. Praeger, 2002.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (v2.0)

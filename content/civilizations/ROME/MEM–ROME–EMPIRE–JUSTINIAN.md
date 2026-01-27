@@ -1,9 +1,9 @@
-MEM–ROME–EMPIRE–JUSTINIAN — v1.4
+MEM–ROME–EMPIRE–JUSTINIAN — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)
+Version: 1.5
+Upgrade Type: ADDITIVE · DURANT *AGE OF FAITH* INTEGRATION
 Supersedes: MEM–ROME–JUSTINIAN — v1.1
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL RESTORATION / LEGAL–THEOLOGICAL SYNTHESIS
@@ -160,7 +160,46 @@ Sarris illuminates the intersection of plague and policy:
 > — Peter Sarris, *Justinian: Emperor, Soldier, Saint*
 
 ────────────────────────────────────────────────────────────
-VI. EXHAUSTION & AFTERMATH
+VI. WILL DURANT — THE AGE OF FAITH
+────────────────────────────────────────────────────────────
+Will Durant provides a sweeping assessment of Justinian's paradoxical achievement:
+
+> "Justinian was the most complete autocrat in Byzantine history. He
+> regulated everything: theology, law, trade, dress, amusements, and
+> morals. He built more churches than any Christian emperor before or
+> after him. He codified Roman law so completely that his code became
+> the basis of half the legal systems of the modern world. He reconquered
+> Africa, Italy, and part of Spain. And yet he exhausted the Treasury,
+> left the frontiers weaker than he found them, and bequeathed to his
+> successors an empire too extended to be held."
+> — Will Durant, *The Age of Faith*
+
+On the Corpus Juris Civilis as civilizational transmission:
+
+> "The great Code was Justinian's most lasting gift to mankind. It gathered
+> together the legal experience of a thousand years, clarified the chaos
+> of imperial edicts, and provided a portable empire of law that would
+> survive the state that created it. When the medieval jurists of Bologna
+> rediscovered Roman law, they found it in Justinian's Code. The law of
+> the Caesars conquered Europe again—not by armies but by reason."
+> — Will Durant, *The Age of Faith*
+
+On Hagia Sophia as architectural theology:
+
+> "Hagia Sophia was Justinian's proudest achievement. When it was
+> completed, he is said to have exclaimed: 'Solomon, I have surpassed
+> thee!' The great dome seemed to float upon a circle of light, as if
+> suspended from heaven. For a thousand years it remained the largest
+> enclosed space in the world, and Christianity's most magnificent
+> monument. It was Justinian's way of declaring that Rome still lived."
+> — Will Durant, *The Age of Faith*
+
+Durant captures the central paradox: Justinian's greatest achievements
+(law, architecture, reconquest) accelerated the exhaustion they were
+meant to prevent.
+
+────────────────────────────────────────────────────────────
+VII. EXHAUSTION & AFTERMATH
 ────────────────────────────────────────────────────────────
 Justinian leaves behind coherence without elasticity.
 
@@ -307,7 +346,8 @@ XIII. MEM BIBLIOGRAPHY (MANDATORY)
 • Hans-Ulrich Wiemer, *Theoderich der Große* (2018) - Cost of destroying Ostrogothic Italy
 • Peter Sarris, *Economy and Society in the Age of Justinian* (2006) - Economic analysis of reconquest
 • Peter Sarris, *Justinian: Emperor, Soldier, Saint* (2023) - Definitive biography
+• Will Durant, *The Age of Faith* (1950) - Civilizational synthesis of Justinian's achievement and paradox
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–JUSTINIAN — v1.3
+END OF FILE — MEM–ROME–EMPIRE–JUSTINIAN — v1.5
 ────────────────────────────────────────────────────────────

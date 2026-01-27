@@ -274,6 +274,17 @@ Richard Gabriel contrasts Scipio with Hannibal:
 > attack Carthage's political will rather than chase Hannibal's genius."
 > — Richard A. Gabriel, *Hannibal*
 
+Gabriel's dedicated study of Scipio emphasizes his innovative command:
+
+> "Scipio was Rome's first modern general—a commander who understood
+> that victory required not just tactical skill but strategic vision,
+> political acumen, and the ability to inspire men to fight beyond
+> their normal capacities. He reorganized the legion, integrated
+> cavalry as a decisive arm rather than a screening force, and
+> combined psychological warfare with military operations in ways
+> that anticipated later centuries of Roman practice."
+> — Richard A. Gabriel, *Scipio Africanus: Rome's Greatest General*
+
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -337,6 +348,7 @@ VERBATIM CITED:
 • Goldsworthy, Adrian. *The Punic Wars*. 2000.
 • Goldsworthy, Adrian. *In the Name of Rome*. 2003.
 • Gabriel, Richard A. *Hannibal*. 2011.
+• Gabriel, Richard A. *Scipio Africanus: Rome's Greatest General*. 2007.
 
 CONSULTED (Not Quoted):
 • Scullard, H.H. *Scipio Africanus: Soldier and Politician*. 1970.

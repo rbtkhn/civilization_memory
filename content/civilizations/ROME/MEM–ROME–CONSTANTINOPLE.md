@@ -1,10 +1,10 @@
-MEM–ROME–CONSTANTINOPLE — v2.0
+MEM–ROME–CONSTANTINOPLE — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: CANONICAL · LOCKED · FINAL
-Version: 2.0
-Upgrade Type: GOVERNANCE ALIGNMENT (MIND binding + template reference)
+Version: 2.1
+Upgrade Type: ADDITIVE · DURANT *AGE OF FAITH* INTEGRATION
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY / SACRAL ADMINISTRATION (330–1453 AD)
 Subject: Constantinople
@@ -232,7 +232,43 @@ Muscovy claims symbolic continuity with the fallen Second Rome — a claim Rome
 itself neither authorized nor could prevent.
 
 ────────────────────────────────────────────────────────────
-VIII. MODERN SCHOLARSHIP INTEGRATION (ARC)
+VIII. WILL DURANT — THE AGE OF FAITH
+────────────────────────────────────────────────────────────
+Will Durant situates Constantinople as civilization's essential bridge:
+
+> "For a thousand years Constantinople was the richest, most beautiful,
+> and most civilized city in the world. While Western Europe reverted
+> to barbarism, while the great libraries of Alexandria and Rome were
+> scattered or destroyed, Constantinople preserved Greek literature,
+> Roman law, and Christian theology. It held the gates of Europe against
+> the successive waves of Asiatic invasion. When it fell, the scholars
+> who fled westward carried the seeds of the Renaissance with them."
+> — Will Durant, *The Age of Faith*
+
+On the city's defensive function:
+
+> "The walls of Constantinople held for over a thousand years—the
+> longest successful defense of any city in history. Behind those
+> walls, Roman administration continued, Greek philosophy survived,
+> and Christian art achieved its most glorious expression. The city
+> was not merely a capital; it was a civilization's last stand."
+> — Will Durant, *The Age of Faith*
+
+On the cultural transmission function:
+
+> "Byzantium was the conduit through which the heritage of antiquity
+> reached the modern world. The manuscripts copied in Constantinople's
+> monasteries and libraries became the source texts for medieval and
+> Renaissance scholars. What Rome had been for law, what Athens had
+> been for philosophy, Constantinople was for preservation."
+> — Will Durant, *The Age of Faith*
+
+Durant's treatment reinforces Constantinople's role as **translation
+mechanism**—not merely a successor city but the instrument through
+which classical civilization survived its darkest centuries.
+
+────────────────────────────────────────────────────────────
+IX. MODERN SCHOLARSHIP INTEGRATION (ARC)
 ────────────────────────────────────────────────────────────
 Anthony Kaldellis explicitly rejects the notion of a post-Roman break at
 Constantinople, insisting on uninterrupted Roman identity:
@@ -317,7 +353,8 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of Constantinople's role in Roman continuity
 • Theodor Mommsen, *The History of Rome* - Examination of Byzantine administrative institutions
 • Anthony Kaldellis, *Romanland* - Analysis of Byzantine Roman identity and Constantinople's significance
+• Will Durant, *The Age of Faith* (1950) - Constantinople as civilization's essential bridge and preserver
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–CONSTANTINOPLE — v2.0
+END OF FILE — MEM–ROME–CONSTANTINOPLE — v2.1
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,9 @@
-MEM–ROME–EMPIRE–BASIL–II — v1.1
+MEM–ROME–EMPIRE–BASIL–II — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · ARC-COMPLIANT
-Version: 1.2
-Upgrade Type: ADDITIVE · KALDELLIS QUOTE INTEGRATION + MEM BIBLIOGRAPHY
+Version: 1.3
+Upgrade Type: ADDITIVE · DURANT *AGE OF FAITH* INTEGRATION
 Civilization: ROME (EASTERN / CONTINUING)
 Regime: IMPERIAL CONTINUITY (MACEDONIAN DYNASTY)
 Subject: Basil II “the Bulgar-Slayer”
@@ -107,7 +107,44 @@ Anthony Kaldellis provides contemporary analysis of Byzantine imperial culture a
 The emperor who restored Roman power through Byzantine means.
 
 ────────────────────────────────────────────────────────────
-VI. MODERN SCHOLARSHIP — HISTORIOGRAPHIC CONSENSUS
+VI. WILL DURANT — THE AGE OF FAITH
+────────────────────────────────────────────────────────────
+Will Durant situates Basil II as the apex of Byzantine power:
+
+> "Under Basil II the Byzantine Empire reached its medieval apogee.
+> For fifty years this grim, unmarried, parsimonious soldier devoted
+> himself to warfare and administration with a single-minded intensity
+> that left no room for culture or pleasure. He crushed the Bulgarians
+> so thoroughly that they did not recover for two centuries. He
+> subjugated Armenia, humbled the Arabs, and left behind him a treasury
+> overflowing with gold."
+> — Will Durant, *The Age of Faith*
+
+On the paradox of success without succession:
+
+> "The tragedy of Basil II was that his very success left no legacy.
+> He had ruled too completely to train successors, accumulated too
+> much power to share it, lived too long for anyone to learn from him.
+> When he died, the aristocracy he had suppressed rose again, the army
+> he had led fell into disorder, and within fifty years of his death
+> the empire had lost half its territory at Manzikert."
+> — Will Durant, *The Age of Faith*
+
+On the Byzantine state's structural limits:
+
+> "The Byzantine Empire was never stronger than under Basil II, yet
+> never weaker than in the generation after him. This paradox reveals
+> the fatal flaw of autocracy: it can produce extraordinary results
+> under an extraordinary ruler, but it cannot reproduce itself. The
+> system that made Basil possible also made his successors impossible."
+> — Will Durant, *The Age of Faith*
+
+Durant's assessment reinforces the Codex thesis: Basil II represents
+**terminal competence**—the last proof that the system worked, but also
+proof that it could not transmit what one man sustained.
+
+────────────────────────────────────────────────────────────
+VII. MODERN SCHOLARSHIP — HISTORIOGRAPHIC CONSENSUS
 ────────────────────────────────────────────────────────────
 Anthony Kaldellis frames Basil II as a uniquely Roman phenomenon:
 
@@ -189,7 +226,8 @@ XI. MEM BIBLIOGRAPHY (MANDATORY)
 • Theodor Mommsen, *The History of Rome* - Examination of Byzantine administrative continuity
 • Adrian Goldsworthy, *How Rome Fell* - Modern analysis of Byzantine military effectiveness
 • Anthony Kaldellis, *The New Roman Empire* - Analysis of Byzantine imperial culture and Basil II's significance
+• Will Durant, *The Age of Faith* (1950) - Byzantine apogee and paradox of autocratic success
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–EMPIRE–BASIL–II — v1.2
+END OF FILE — MEM–ROME–EMPIRE–BASIL–II — v1.3
 ────────────────────────────────────────────────────────────
