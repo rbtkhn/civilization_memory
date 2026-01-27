@@ -1,12 +1,17 @@
-MEM–GERMANIA–LUTHER — v1.0
+MEM–GERMANIA–LUTHER — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · ARC-COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: MEM–GERMANIA–LUTHER v1.0
 Civilization: GERMANIA
 Subject: Martin Luther
 Dates: 1483–1546 AD
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,350
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -37,6 +42,12 @@ Theological critique becomes structural challenge
 because enforcement mechanisms are exhausted.
 
 Doctrine meets fragmentation.
+
+Johannes Fried situates Luther within the broader crisis of late medieval
+Christendom, noting that "the Reformation succeeded not because of theological
+innovation alone, but because the institutional capacity of the universal
+Church had already eroded beyond the point of effective response"
+(*The Middle Ages*).
 
 ────────────────────────────────────────────────────────────
 III. CONSCIENCE OVER HIERARCHY
@@ -135,5 +146,19 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–LUTHER — v1.0
+X. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Martin Luther, *Ninety-Five Theses* (1517)
+• Martin Luther, *Address to the Christian Nobility* (1520)
+• Diet of Worms records (1521)
+
+Secondary Sources (ARC-Compliant):
+• **Johannes Fried**, *The Middle Ages*
+• **Peter H. Wilson**, *Heart of Europe* (2020)
+• Diarmaid MacCulloch, *The Reformation*
+• Heiko Oberman, *Luther: Man Between God and the Devil*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–LUTHER — v2.0
 ────────────────────────────────────────────────────────────

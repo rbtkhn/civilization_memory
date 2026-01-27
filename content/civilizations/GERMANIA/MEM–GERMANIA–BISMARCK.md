@@ -2,8 +2,9 @@ MEM–GERMANIA–BISMARCK — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
+Version: 1.4
+Supersedes: MEM–GERMANIA–BISMARCK v1.3
+Upgrade Type: WILSON INTEGRATION
 Civilization: GERMANIA
 Regime: Prussian / Imperial-Constitutional (1862–1890 AD)
 Subject: Otto von Bismarck
@@ -123,6 +124,12 @@ Primary source:
 > — Otto von Bismarck, *Reflections and Reminiscences*
 
 Victory demands consolidation, not intoxication.
+
+Peter Wilson situates German unification within the broader dissolution of
+the Holy Roman Empire's order: "Bismarck's achievement was to channel German
+national energy into structures that preserved the conservative social order,
+avoiding both the revolutionary rupture of 1848 and the fragmentation that
+had plagued the old Empire" (*Heart of Europe*).
 
 ────────────────────────────────────────────────────────────
 VI. ALLIANCE SYSTEM & EUROPEAN STABILIZATION

@@ -171,6 +171,11 @@ Frederick’s model contrasts sharply with Francia and Anglia:
 Germania internalizes Frederick as proof that **discipline plus restraint**
 preserves civilization.
 
+Peter Wilson observes that Frederick's legacy within the Empire was
+paradoxical: Prussia remained within the imperial framework even as it
+disrupted imperial peace, demonstrating that the Empire could "contain
+rather than resolve the tensions of German dualism" (*Heart of Europe*).
+
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────

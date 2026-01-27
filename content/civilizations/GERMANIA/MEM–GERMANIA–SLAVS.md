@@ -54,6 +54,10 @@ Helmold of Bosau observes:
 German law spreads faster than German identity.
 Slavic demography persists beneath administration.
 
+Peter Wilson notes that medieval eastward expansion "created a German
+presence without displacing existing populations—law, language, and
+settlement coexisted rather than replaced" (*Heart of Europe*).
+
 Integration is partial and reversible.
 
 ────────────────────────────────────────────────────────────

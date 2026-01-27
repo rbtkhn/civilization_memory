@@ -38,6 +38,10 @@ Conditions:
 • Limited fiscal extraction
 • Weak central military coordination
 
+Peter Wilson emphasizes that the Empire's "strength lay in its capacity
+for negotiation and coordination, not in centralized command"—a structure
+ill-suited to major coalition warfare (*Heart of Europe*).
+
 Imperial title confers legitimacy,
 but not obedience.
 

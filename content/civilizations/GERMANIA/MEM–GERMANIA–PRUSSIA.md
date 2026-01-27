@@ -1,12 +1,17 @@
-MEM–GERMANIA–PRUSSIA
+MEM–GERMANIA–PRUSSIA — v2.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–PRUSSIA v1.0
 Civilization: GERMANIA
 Polity: PRUSSIA
 Dates: c. 1525–1871 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
+Last Update: January 2026
+Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -124,11 +129,13 @@ Primary:
 • Prussian administrative records
 • Military codes
 
-Secondary:
-• Christopher Clark
+Secondary (ARC-Compliant):
+• **Peter H. Wilson**, *German Armies: War and German Society, 1648-1806* (1998)
+• **Peter H. Wilson**, *Heart of Europe* (2020)
+• Christopher Clark, *Iron Kingdom*
 • Hans-Ulrich Wehler
 • Gordon Craig
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–PRUSSIA v1.0
+END OF FILE — MEM–GERMANIA–PRUSSIA — v2.0
 ────────────────────────────────────────────────────────────

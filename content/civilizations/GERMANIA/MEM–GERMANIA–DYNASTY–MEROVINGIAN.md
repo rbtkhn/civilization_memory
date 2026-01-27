@@ -1,12 +1,17 @@
-MEM–GERMANIA–DYNASTY–MEROVINGIAN — v1.0
+MEM–GERMANIA–DYNASTY–MEROVINGIAN — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · ARC-COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: MEM–GERMANIA–DYNASTY–MEROVINGIAN v1.0
 Civilization: GERMANIA
 Subject: Merovingian Dynasty
 Dates: c. 450–751 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
+Last Update: January 2026
+Word Count: ~2,250
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -80,6 +85,11 @@ Pattern:
 
 Replacement precedes formal transition.
 
+Johannes Fried notes that Carolingian ascendancy was gradual rather than
+revolutionary: the mayors of the palace "accumulated real power while
+Merovingian kings retained ritual significance," until finally "symbol
+and substance were reunited in a single lineage" (*The Middle Ages*).
+
 ────────────────────────────────────────────────────────────
 VII. TERMINATION & ABSORPTION
 ────────────────────────────────────────────────────────────
@@ -101,4 +111,20 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Germania replaces dynasties before expanding.
 • Merovingians are a necessary but insufficient foundation.
 
-Tension preserved witho
+Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+IX. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Gregory of Tours, *Historia Francorum*
+• Fredegar Chronicle
+
+Secondary Sources (ARC-Compliant):
+• **Johannes Fried**, *The Middle Ages*
+• **Peter H. Wilson**, *The Holy Roman Empire* (2016)
+• Patrick Geary, *Before France and Germany*
+• Ian Wood, *The Merovingian Kingdoms*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–DYNASTY–MEROVINGIAN — v2.0

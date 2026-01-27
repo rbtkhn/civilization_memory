@@ -1,13 +1,18 @@
-MEM–GERMANIA–DYNASTY–CAROLINGIAN
+MEM–GERMANIA–DYNASTY–CAROLINGIAN — v2.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–DYNASTY–CAROLINGIAN v1.0
 Civilization: GERMANIA
 Regime: IMPERIAL / SACRAL MONARCHY (c. 751–911)
 Subject: Carolingian Dynasty
 Dates: 8th–10th centuries AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
+Last Update: January 2026
+Word Count: ~2,400
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -44,6 +49,11 @@ Defining traits:
 
 Imperial identity equals obedience.
 
+Johannes Fried emphasizes that Charlemagne's empire was less a territorial
+state than a "command network bound by ritual submission"—authority flowed
+downward through personal loyalty, military obligation, and Christian duty
+rather than through institutional continuity (*Charlemagne*, 2016).
+
 ────────────────────────────────────────────────────────────
 IV. SACRAL KINGSHIP & LEGAL COMMAND
 ────────────────────────────────────────────────────────────
@@ -66,6 +76,11 @@ After Verdun:
 
 Dynasty ends; imperial logic persists.
 
+Fried notes that the Treaty of Verdun (843) proved that "Carolingian
+authority was personal, not institutional"—the empire could be divided
+among sons because it had never been a coherent polity, only a network
+of command relationships (*Charlemagne*).
+
 ────────────────────────────────────────────────────────────
 VI. GERMAN IMPERIAL MEMORY
 ────────────────────────────────────────────────────────────
@@ -87,4 +102,18 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DYNASTY–CAROLINGIAN v1.0
+VIII. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Einhard, *Vita Karoli Magni*
+• Carolingian capitularies
+• Annales Regni Francorum
+
+Secondary Sources (ARC-Compliant):
+• **Johannes Fried**, *Charlemagne* (Harvard UP, 2016)
+• **Johannes Fried**, *The Middle Ages*
+• **Peter H. Wilson**, *The Holy Roman Empire* (2016)
+• Rosamond McKitterick, *Charlemagne*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–DYNASTY–CAROLINGIAN — v2.0

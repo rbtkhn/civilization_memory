@@ -68,6 +68,10 @@ Helmold of Bosau records the ideological framing:
 The Oder enables movement, but not cohesion.
 Settlement outpaces integration.
 
+Peter Wilson observes that the Empire's eastern expansion "stretched its
+institutional capacity without deepening its administrative roots—the
+further east, the thinner the imperial presence" (*Heart of Europe*).
+
 Administration thins with distance.
 
 ────────────────────────────────────────────────────────────

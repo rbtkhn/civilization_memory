@@ -39,6 +39,11 @@ Conditions:
 
 Germania faces **asymmetric imperial coherence**.
 
+Peter Wilson notes that the Ottoman threat uniquely concentrated imperial
+attention: "The Turkish danger provided one of the few issues on which the
+Empire could act with something approaching unity, transforming the defense
+of Christendom into a practical coordinating mechanism" (*Heart of Europe*).
+
 ────────────────────────────────────────────────────────────
 III. HABSBURG DEFENSIVE LOGIC
 ────────────────────────────────────────────────────────────

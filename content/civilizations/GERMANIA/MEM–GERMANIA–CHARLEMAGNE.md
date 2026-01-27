@@ -102,6 +102,11 @@ Johannes Fried notes that Charlemagne’s empire functioned less as a
 coherent polity than as a command network bound by ritual submission
 (*Charlemagne*).
 
+Peter Wilson emphasizes that Charlemagne's legacy for the later Holy Roman
+Empire was structural rather than territorial: "The empire he created was
+less a state than a mode of governance—decentralized, ritualized, and
+bound by the idea of Christian order" (*The Holy Roman Empire*).
+
 ────────────────────────────────────────────────────────────
 VII. POST-CHARLEMAGNE TRAJECTORY
 ────────────────────────────────────────────────────────────

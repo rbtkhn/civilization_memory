@@ -1,12 +1,17 @@
-MEM–GERMANIA–PAPACY — v1.0
+MEM–GERMANIA–PAPACY — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · ARC-COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: MEM–GERMANIA–PAPACY v1.0
 Civilization: GERMANIA
 Subject: The Papacy (Roman Church Authority)
 Dates: Late Roman era–Early Modern
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
+Last Update: January 2026
+Word Count: ~2,350
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -117,5 +122,19 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–PAPACY — v1.0
+IX. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Papal bulls and correspondence
+• Imperial coronation records
+• Dictatus Papae (Gregory VII)
+
+Secondary Sources (ARC-Compliant):
+• **Johannes Fried**, *The Middle Ages*
+• **Johannes Fried**, *Charlemagne* (2016)
+• **Peter H. Wilson**, *The Holy Roman Empire* (2016)
+• Uta-Renate Blumenthal, *The Investiture Controversy*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–PAPACY — v2.0
 ────────────────────────────────────────────────────────────
