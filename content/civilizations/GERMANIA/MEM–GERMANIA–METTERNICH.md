@@ -1,13 +1,18 @@
-MEM–GERMANIA–METTERNICH
+MEM–GERMANIA–METTERNICH — v2.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–METTERNICH v1.0
 Civilization: GERMANIA
 Regime: HABSBURG / RESTORATION-IMPERIAL (1809–1848)
 Subject: Klemens von Metternich
 Dates: 1773–1819–1848 (effective power period)
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
+Last Update: January 2026
+Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -96,6 +101,11 @@ Strategic logic:
 • Cultural pluralism managed by bureaucracy, not identity
 • Central authority must remain abstract and distant
 
+Rady notes that Metternich embodied the Habsburg belief in their
+destiny "to rule the world as defenders of the Roman Catholic Church,
+guarantors of peace, and patrons of learning"—a universalist vision
+incompatible with nationalist particularism (*The Habsburgs*, 2020).
+
 Empire survives by denying emotional legitimacy.
 
 ────────────────────────────────────────────────────────────
@@ -155,12 +165,12 @@ Primary:
 • Metternich correspondence
 • Congress of Vienna protocols
 
-Secondary:
-• Adam Zamoyski
-• Mark Jarrett
-• Brian Vick
-• Paul Schroeder
+Secondary (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• Adam Zamoyski, *Rites of Peace*
+• Mark Jarrett, *The Congress of Vienna*
+• Paul Schroeder, *The Transformation of European Politics*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–METTERNICH v1.0
+END OF FILE — MEM–GERMANIA–METTERNICH v2.0
 ────────────────────────────────────────────────────────────

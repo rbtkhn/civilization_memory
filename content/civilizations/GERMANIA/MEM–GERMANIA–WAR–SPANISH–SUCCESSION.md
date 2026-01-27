@@ -1,14 +1,17 @@
-MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v1.0
+MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–WAR–SPANISH–SUCCESSION v1.0
 Civilization: GERMANIA
 Subject: War of the Spanish Succession (German Perspective)
 Dates: 1701–1714 AD
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -74,6 +77,11 @@ The Empire functions as **battleground**, not actor.
 V. AUSTRIAN PARTICIPATION & DUALITY
 ────────────────────────────────────────────────────────────
 Habsburg Austria emerges as the effective German war leader.
+
+Rady emphasizes that the Habsburgs pursued this war driven by their
+belief that they were "destined to rule the world as defenders of the
+Roman Catholic Church"—a universalist claim that exceeded their
+administrative capacity to enforce (*The Habsburgs*, 2020).
 
 Tensions:
 • Austrian dynastic priorities diverge from imperial cohesion
@@ -157,5 +165,18 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v1.0
+XI. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Habsburg diplomatic correspondence
+• Treaty of Utrecht documents
+• Imperial Diet records
+
+Secondary Sources (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• **Peter Wilson**, *Heart of Europe*
+• John Lynn, *The Wars of Louis XIV*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v2.0
 ────────────────────────────────────────────────────────────

@@ -59,7 +59,7 @@ File Type Ratios:
 • Subject MEM files: 2/3 MERCOURIS + 1/3 MEARSHEIMER
   (Civilizational narrative, framed by strategic constraints)
 
-See: Section VP-1.h (PROPORTIONAL BLEND LAW)
+See: Section VP-1.g (PROPORTIONAL BLEND LAW)
 
 Backward Compatibility:
 • All existing MEM files remain valid

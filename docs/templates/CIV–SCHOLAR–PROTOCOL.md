@@ -117,7 +117,7 @@ Mandatory behaviors:
 SYNTHESIS CLARIFICATION (BINDING):
 In Phase II, synthesis is PERMITTED as a learning operation,
 subject to phase-specific constraints defined in
-CIV–SCHOLAR–TEMPLATE v2.3, provided that it remains:
+CIV–SCHOLAR–TEMPLATE v2.5, provided that it remains:
 
 • Non-teleological
 • Non-optimizing
@@ -234,7 +234,7 @@ OGE PRECEDENCE LAW:
 OGE — SYNTHESIS OPTIONS (LEARN MODE):
 In LEARN MODE, OGE SHOULD frequently present synthesis-oriented actions,
 subject to phase-specific constraints defined in
-CIV–SCHOLAR–TEMPLATE v2.3, including:
+CIV–SCHOLAR–TEMPLATE v2.5, including:
 
 • Synthesize constraints across ingested MEM files
 • Synthesize failure patterns
@@ -280,7 +280,7 @@ LEARN MODE is the ONLY mode in which Scholar learning occurs.
 SYNTHESIS AUTHORITY:
 Synthesis is a PRIMARY and EXPECTED operation of LEARN MODE,
 subject to phase-specific constraints defined in
-CIV–SCHOLAR–TEMPLATE v2.3.
+CIV–SCHOLAR–TEMPLATE v2.5.
 
 Permitted:
 • Ingest MEM files
@@ -396,11 +396,15 @@ ACTIVE does not imply writable.
 
 Silence does not imply permission.
 
+FILE SIZE MANAGEMENT:
+See: CIV–SCHOLAR–PRUNING–PROTOCOL v1.0 for guidance on managing
+SCHOLAR file size through doctrine mirror externalization and archival.
+
 ────────────────────────────────────────────────────────────
 XIII. SCHOLAR ↔ MEM CONFLICT HANDLING (ENFORCEMENT)
 ────────────────────────────────────────────────────────────
 Scholar ↔ MEM conflict handling is governed exclusively by:
-• CIV–SCHOLAR–TEMPLATE v2.3, Section VI
+• CIV–SCHOLAR–TEMPLATE v2.5, Section VI
 
 This protocol ENFORCES execution and logging requirements
 but does NOT redefine the rule.

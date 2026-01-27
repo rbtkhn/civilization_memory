@@ -1,14 +1,17 @@
-MEM–GERMANIA–HUNGARY — v1.0
+MEM–GERMANIA–HUNGARY — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–HUNGARY v1.0
 Civilization: GERMANIA
 Subject: Hungary (Constraint Civilization, Imperial Counter-Logic, and National Refusal Engine)
 Dates: Roman era–1918 AD
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~1,850
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -83,6 +86,11 @@ Defense does not equal obedience.
 V. HABSBURG RULE & STRUCTURAL NON-INTEGRATION
 ────────────────────────────────────────────────────────────
 Under Habsburg rule, Hungary remains **legally distinct**.
+
+Rady emphasizes that Hungary represented the most persistent challenge
+to Habsburg administrative uniformity—a crown land that could be
+governed but never fully integrated into the imperial imagination
+(*The Habsburgs*, 2020).
 
 Administration is negotiated, not imposed.
 
@@ -181,12 +189,12 @@ Primary:
 • Gyula Andrássy parliamentary records
 • Mihály Károlyi memoirs
 
-Secondary:
-• Norman Davies
-• Pieter Judson
-• István Deák
-• Alan Sked
+Secondary (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• Norman Davies, *Vanished Kingdoms*
+• Pieter Judson, *The Habsburg Empire*
+• István Deák, *Beyond Nationalism*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–HUNGARY — v1.0
+END OF FILE — MEM–GERMANIA–HUNGARY — v2.0
 ────────────────────────────────────────────────────────────

@@ -1,14 +1,17 @@
-MEM–GERMANIA–AUSTRIA — v1.0
+MEM–GERMANIA–AUSTRIA — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–AUSTRIA v1.0
 Civilization: GERMANIA
 Subject: Austria (Imperial Core, Administrative Spine, and Dynastic Anchor)
 Dates: c. 976 AD–1918 AD
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -19,6 +22,11 @@ nation-state.
 
 Austria is not Germania expanded.
 Austria is Germania **institutionalized as empire**.
+
+As Martyn Rady argues, "Austria was as much an idea as a geographical
+space"—a conceptual rather than purely territorial entity through which
+the Habsburgs understood and maintained their dynastic identity across
+far-flung domains (*The Habsburgs*, 2020).
 
 Contradictions are preserved without synthesis.
 
@@ -131,4 +139,17 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–AUSTRIA — v1.0
+X. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Habsburg administrative records
+• Imperial correspondence
+• Viennese court protocols
+
+Secondary Sources (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• **Peter Wilson**, *Heart of Europe*
+• **Pieter Judson**, *The Habsburg Empire*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–AUSTRIA — v2.0

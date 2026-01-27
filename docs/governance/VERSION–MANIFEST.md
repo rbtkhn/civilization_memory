@@ -87,7 +87,7 @@ GERMANIA:
 │ CIV–INDEX–GERMANIA          │ v1.13   │ Active        │
 │ CIV–CORE–GERMANIA           │ v1.8    │ Active        │
 │ CIV–DOCTRINE–GERMANIA       │ v1.3    │ Active        │
-│ CIV–ARC–GERMANIA            │ v1.0    │ Active        │
+│ CIV–ARC–GERMANIA            │ v1.1    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 

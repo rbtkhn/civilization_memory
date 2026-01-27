@@ -1,9 +1,12 @@
-MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v1.2
+MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Upgrade Type: COMPLIANCE REISSUE (ADDITIVE)
+Version: 2.0
+Supersedes: MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION v1.2
+Upgrade Type: RADY INTEGRATION
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Civilization: GERMANIA
 Opposing Civilizations: AUSTRIA · FRANCE · BAVARIA · SAXONY (COALITIONS)
 Subject: War of the Austrian Succession (German Perspective)
@@ -177,12 +180,13 @@ Primary Sources:
 • Frederick II, retrospective memoranda
 • Austrian imperial diplomatic papers
 
-Secondary Sources (Mandatory):
+Secondary Sources (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
 • Tim Blanning, *Frederick the Great: King of Prussia*
 • Peter H. Wilson, *Heart of Europe*
 • Dennis Showalter, *The Wars of Frederick the Great*
-• Christopher Clark
+• Christopher Clark, *Iron Kingdom*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v1.2
+END OF FILE — MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.0
 ────────────────────────────────────────────────────────────

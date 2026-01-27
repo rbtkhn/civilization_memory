@@ -764,10 +764,10 @@ Violation constitutes a governance breach.
 ────────────────────────────────────────────────────────────
 IX. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–MERCOURIS v2.4 is CANONICAL.
+CIV–MIND–MERCOURIS v2.5 is CANONICAL.
 
 All uses MUST declare:
-"Bound by CIV–MIND–MERCOURIS v2.4"
+"Bound by CIV–MIND–MERCOURIS v2.5"
 
 This file defines *how* Mercouris thinks —
 never *what* is true.

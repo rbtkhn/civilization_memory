@@ -1,14 +1,17 @@
-MEM–GERMANIA–BOHEMIA — v1.0
+MEM–GERMANIA–BOHEMIA — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–BOHEMIA v1.0
 Civilization: GERMANIA
 Subject: Germania–Bohemia Civilizational Interface
 Dates: Medieval era–present
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~1,850
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -50,11 +53,17 @@ Aeneas Silvius Piccolomini observes:
 Religious divergence converts internal diversity into civil war.
 
 ────────────────────────────────────────────────────────────
-IV. HABSBURG ADMINISTRATION & CULTURAL RESISTANAD
+IV. HABSBURG ADMINISTRATION & CULTURAL RESISTANCE
 ────────────────────────────────────────────────────────────
 Habsburg rule restores order but not harmony.
 
 Czech estates submit administratively while preserving memory.
+
+Rady emphasizes that Habsburg authority in Bohemia relied on the
+dynasty's ability to imagine and project themselves as a cohesive
+political and cultural force—"an empire of imagination as much as
+geography"—even where local identity resisted assimilation
+(*The Habsburgs*, 2020).
 
 Order exists without consent.
 
@@ -106,11 +115,12 @@ Primary:
 • Habsburg administrative records
 • Czech national revival texts
 
-Secondary:
-• Hugh Agnew
-• Pieter Judson
-• Peter Wilson
+Secondary (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• Hugh Agnew, *The Czechs and the Lands of the Bohemian Crown*
+• Pieter Judson, *The Habsburg Empire*
+• Peter Wilson, *Heart of Europe*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BOHEMIA v1.0
+END OF FILE — MEM–GERMANIA–BOHEMIA v2.0
 ────────────────────────────────────────────────────────────

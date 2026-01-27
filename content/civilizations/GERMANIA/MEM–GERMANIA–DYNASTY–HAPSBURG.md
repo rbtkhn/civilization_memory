@@ -1,12 +1,17 @@
-MEM–GERMANIA–DYNASTY–HAPSBURG
+MEM–GERMANIA–DYNASTY–HAPSBURG — v2.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–DYNASTY–HAPSBURG v1.0
 Civilization: GERMANIA
 Subject: Habsburg Dynasty
 Dates: c. 1273–1918 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
+Last Update: January 2026
+Word Count: ~2,400
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -31,6 +36,19 @@ Core method:
 Dynastic maxim:
 → “Bella gerant alii, tu felix Austria nube.”
 (Let others wage war; you, fortunate Austria, marry.)
+
+As Martyn Rady observes, the Habsburgs survived for over 900 years
+through their ability to produce heirs and expand territories via
+matrimonial alliances rather than conquest:
+
+> "The Habsburgs were the first rulers whose power encompassed the world...
+> Their empire was one of imagination as much as geography."
+> — Martyn Rady, *The Habsburgs* (2020)
+
+Between 1450 and 1750, the family branches "assiduously married their
+young off to each other," including four uncle-niece marriages—a
+breeding strategy that produced genetic consequences but ensured
+dynastic continuity (Rady).
 
 ────────────────────────────────────────────────────────────
 III. IMPERIAL FORMATION & STRUCTURE
@@ -82,6 +100,20 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Composite empires endure but adapt slowly.
 • Germania’s imperial memory is juridical, not national.
 • The Habsburgs represent endurance without synthesis.
+• Empire as imagination precedes empire as territory (Rady).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DYNASTY–HAPSBURG v1.0
+VIII. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Habsburg diplomatic correspondence
+• Imperial election records
+• Dynastic marriage contracts
+
+Secondary Sources (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• **Peter Wilson**, *Heart of Europe*
+• **Christopher Clark**, *Iron Kingdom*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–DYNASTY–HAPSBURG v2.0

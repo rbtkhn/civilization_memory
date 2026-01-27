@@ -280,6 +280,8 @@ ARC defines:
 
 ARC governance is GLOBAL and binding.
 
+See: NAMESPACE–CLARIFICATION v1.0 for ARC-T / ERC disambiguation.
+
 ────────────────────────────────────────────────────────────
 XIV. DOCTRINE MIRRORING RULE
 ────────────────────────────────────────────────────────────

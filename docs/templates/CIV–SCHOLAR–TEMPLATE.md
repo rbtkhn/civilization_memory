@@ -589,6 +589,10 @@ XII. VERSIONING & GOVERNANCE
 • All phase changes require explicit authorization
 • All RLL bindings require explicit authorization
 
+FILE SIZE MANAGEMENT:
+See: CIV–SCHOLAR–PRUNING–PROTOCOL v1.0 for guidance on managing
+SCHOLAR file size through doctrine mirror externalization and archival.
+
 v2.5 ADDITIONS:
 • Civilizational Axiom Section (Section IV.A)
   – RECOMMENDED structure for encoding first principles

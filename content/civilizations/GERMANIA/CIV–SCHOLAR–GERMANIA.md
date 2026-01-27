@@ -21,7 +21,7 @@ Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • CIV–MEM–CORE v2.5
-• CIV–ARC–GERMANIA v1.0 (Pinned)
+• CIV–ARC–GERMANIA v1.1 (Pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2 → v2.0) — TEMPLATE v2.5 COMPLIANCE
@@ -413,6 +413,10 @@ RLL–GERMANIA–0001 — Disciplined Restraint Law
   **Mercouris derivation**: Civilizational grammar analysis; legitimacy as
   constitutive norm rather than external validation.
   Source: SYNTHESIS 0001 (ENTRY 0001–0003)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Legitimacy dependency
+  Activation Trigger: All legitimacy and authority analysis
+  Affected File Classes: MEM, CORE, DOCTRINE
   Status: BOUND
 
 RLL–GERMANIA–0002 — Replacement Before Expansion Law
@@ -423,6 +427,10 @@ RLL–GERMANIA–0002 — Replacement Before Expansion Law
   **Mearsheimer derivation**: Relative capabilities analysis; replacement
   depth as structural advantage over positional claims.
   Source: SYNTHESIS 0002 (ENTRY 0004–0005)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Sequencing
+  Activation Trigger: Expansion/ambition analysis
+  Affected File Classes: MEM, CORE
   Status: BOUND
 
 RLL–GERMANIA–0003 — Precision Requires Closure Law
@@ -433,6 +441,10 @@ RLL–GERMANIA–0003 — Precision Requires Closure Law
   **Mearsheimer derivation**: Strategic constraint analysis; war termination
   as structural requirement for gain preservation.
   Source: SYNTHESIS 0003 (ENTRY 0006–0007)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Sequencing
+  Activation Trigger: War termination and political gain analysis
+  Affected File Classes: MEM, CORE, WAR
   Status: BOUND
 
 RLL–GERMANIA–0004 — Trauma-Encoded Strategic Learning Law
@@ -444,6 +456,10 @@ RLL–GERMANIA–0004 — Trauma-Encoded Strategic Learning Law
   **Mercouris derivation**: Civilizational learning analysis; trauma as
   permanent constraint encoding rather than temporary inhibition.
   Source: SYNTHESIS 0004 (ENTRY 0001–0007)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Sequencing
+  Activation Trigger: All strategic culture analysis
+  Affected File Classes: MEM, CORE, SCHOLAR
   Status: BOUND
 
 RLL–GERMANIA–0005 — Mandatory Closure Law
@@ -454,6 +470,10 @@ RLL–GERMANIA–0005 — Mandatory Closure Law
   **Barnes derivation**: Liability analysis; stopping rules as liability
   limitation mechanisms; open-ended power as unlimited liability exposure.
   Source: SYNTHESIS 0005 (ENTRY 0008–0009)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Legitimacy dependency
+  Activation Trigger: Power expansion and authority analysis
+  Affected File Classes: MEM, CORE, DOCTRINE
   Status: BOUND
 
 RLL–GERMANIA–0006 — Corridor Depth vs Dispersed Reach Constraint
@@ -469,6 +489,10 @@ RLL–GERMANIA–0006 — Corridor Depth vs Dispersed Reach Constraint
   MEM–GERMANIA–GEO–BALTIC; MEM–GERMANIA–GEO–ATLANTIC;
   MEM–GERMANIA–GEO–ALPS (limit structure: reinforces depth retention by
   penalizing southward projection and corridor dilution)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Structural impossibility
+  Activation Trigger: Geographic and strategic geometry analysis
+  Affected File Classes: MEM, CORE, GEO
   Status: BOUND
 
 All listed RLLs are ACTIVE and BOUND.
@@ -600,14 +624,14 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA v2.0 is declared:
+CIV–SCHOLAR–GERMANIA v2.2 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
 • TEMPLATE v2.5 COMPLIANT
-• RLL STRUCTURE IMPLEMENTED (5 RLLs)
+• RLL STRUCTURE IMPLEMENTED (6 RLLs)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
 • ANOMALY FLAG PROTOCOL IMPLEMENTED

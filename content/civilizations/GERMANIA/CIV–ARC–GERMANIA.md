@@ -1,10 +1,10 @@
-CIV–ARC–GERMANIA — v1.0
+CIV–ARC–GERMANIA — v1.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: N/A (new file)
-Upgrade Type: NEW FILE · AUTHOR ADMISSIBILITY REGISTER
+Supersedes: CIV–ARC–GERMANIA v1.0
+Upgrade Type: ADDITIVE · AUTHOR REGISTRY EXPANSION
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
@@ -85,6 +85,7 @@ ARC-T-MODERN:
 • Hagen Schulze (1943–2014) — The Course of German Nationalism
 • Mary Fulbrook (b. 1951) — A Concise History of Germany
 • Volker R. Berghahn (b. 1938) — Modern Germany
+• Martyn Rady (b. 1955) — The Habsburgs: The Rise and Fall of a World Power; The Middle Kingdoms
 
 RULE: Only listed authors may be quoted without discovery flag.
 
@@ -140,5 +141,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v1.0
+END OF FILE — CIV–ARC–GERMANIA v1.1
 ────────────────────────────────────────────────────────────

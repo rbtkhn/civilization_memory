@@ -1,6 +1,6 @@
 MEM–GERMANIA–WAR–THIRTY–YEARS — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.2
 Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
@@ -49,6 +49,11 @@ War enters Germania **through internal fracture**, not external invasion.
 III. IDEOLOGICAL WAR AS SYSTEM FAILURE
 ────────────────────────────────────────────────────────────
 Confessional absolutism dissolves restraint.
+
+Rady emphasizes that the Habsburgs entered this war believing themselves
+"destined to rule as defenders of the Roman Catholic Church"—a
+universalist mission that proved catastrophically mismatched with
+Germania's fragmented political reality (*The Habsburgs*, 2020).
 
 Dynamics:
 • Religion replaces prudence
@@ -167,12 +172,13 @@ Primary Sources:
 • Treaty of Westphalia (1648)
 • Imperial correspondence
 
-Secondary Sources (Governance-Compliant):
+Secondary Sources (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs* (2020)
 • **Peter Wilson**, *Heart of Europe*
 • **Johannes Fried**, *The Middle Ages*
 • **Tim Blanning**, *The Pursuit of Glory*
 • Geoffrey Parker, *The Thirty Years’ War*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–THIRTY–YEARS — v1.2
+END OF FILE — MEM–GERMANIA–WAR–THIRTY–YEARS — v2.0
 ────────────────────────────────────────────────────────────

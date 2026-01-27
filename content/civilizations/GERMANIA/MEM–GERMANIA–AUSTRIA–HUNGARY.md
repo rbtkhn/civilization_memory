@@ -1,14 +1,17 @@
-MEM–GERMANIA–AUSTRIA–HUNGARY — v1.0
+MEM–GERMANIA–AUSTRIA–HUNGARY — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 2.0
+Supersedes: MEM–GERMANIA–AUSTRIA–HUNGARY v1.0
 Civilization: GERMANIA
 Subject: Austria–Hungary (Dual Monarchy, Compromise State, and Imperial Delay Mechanism)
 Dates: 1867–1918 AD
 Class: MEM (Civilizational Memory)
+Template: CIV–MEM–TEMPLATE v2.8
+ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -18,6 +21,11 @@ collapse by formalizing internal contradiction rather than resolving it.
 
 Austria–Hungary is not synthesis.
 It is **managed suspension**.
+
+Rady emphasizes that the late Habsburg state survived through
+"bureaucratic management and propaganda as primary means of sustaining
+authority, rather than persecution or aggressive warfare"—a strategy
+that purchased time but could not renew legitimacy (*The Habsburgs*, 2020).
 
 Contradictions are preserved without synthesis.
 
@@ -133,4 +141,17 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–AUSTRIA–HUNGARY — v1.0
+X. SOURCES
+────────────────────────────────────────────────────────────
+Primary Sources:
+• Ausgleich treaty documents
+• Dual Monarchy administrative records
+• Parliamentary proceedings
+
+Secondary Sources (ARC-Compliant):
+• **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
+• **Pieter Judson**, *The Habsburg Empire*
+• **A. J. P. Taylor**, *The Habsburg Monarchy*
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–AUSTRIA–HUNGARY — v2.0

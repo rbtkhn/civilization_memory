@@ -158,11 +158,13 @@ Absence of parity does not imply deficiency.
 The index performs no parity enforcement.
 
 ────────────────────────────────────────────────────────────
-VII. ACADEMIC REFERENCE CANON (ARC) — NEW (MANDATORY IF PRESENT)
+VII. ACADEMIC REFERENCE CANON (ARC) — (MANDATORY IF PRESENT)
 ────────────────────────────────────────────────────────────
 A civilization MAY define an **Academic Reference Canon (ARC–[CIV])**.
 
 If defined, the ARC MUST be explicitly declared in this section.
+
+See: NAMESPACE–CLARIFICATION v1.0 for ARC-T / ERC disambiguation.
 
 ARC DEFINITION:
 The ARC is the authoritative list of academic authors whose works are

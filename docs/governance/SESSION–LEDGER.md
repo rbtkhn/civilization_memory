@@ -33,7 +33,7 @@ Active Constraints:
 • Mode Separation Law: ACTIVE
 • Proportional Blend Law: ACTIVE
 • OGE 6-option requirement: ACTIVE (LEARN/IMAGINE modes)
-• Barnes OGE-available in WRITE: ACTIVE (passive until selected)
+• Barnes OGE-required in all modes: ACTIVE
 
 ────────────────────────────────────────────────────────────
 III. RECENT SESSIONS
@@ -81,8 +81,7 @@ Topics:
 
 Decisions Made:
 • Barnes is tertiary CATALYST, not third parallel voice
-• Barnes OGE-available in WRITE mode (passive until selected)
-• Barnes OGE-invoked in LEARN/IMAGINE (1 option REQUIRED)
+• Barnes OGE-required in all modes (1 option REQUIRED)
 • GEO–MEM files must be pure Mearsheimer structure
 • Proportional Blend Law confirmed: GEO=2/3M, Subject=2/3M
 
@@ -142,8 +141,8 @@ To resume context in a new session:
 2. Read VERSION–MANIFEST for current bindings
 3. Review pending tasks
 4. Declare version bindings:
-   "Bound by CIV–MEM–CORE v2.2, CIV–MIND–MERCOURIS v2.4,
-    CIV–MIND–MEARSHEIMER v2.3"
+   "Bound by CIV–MEM–CORE v2.5, CIV–MIND–MERCOURIS v2.5,
+    CIV–MIND–MEARSHEIMER v2.4"
 5. Proceed with pending tasks or new work
 
 ────────────────────────────────────────────────────────────
