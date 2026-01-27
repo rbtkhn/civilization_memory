@@ -1,10 +1,10 @@
-MEM–ROME–ITALY–MEDICI — v1.1
+MEM–ROME–ITALY–MEDICI — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · 25% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · ARC COMPLIANCE (MEDIEVAL QUOTATION INSERTIONS ONLY)
-Supersedes: MEM–ROME–ITALY–MEDICI — v1.0
+Version: 1.2
+Upgrade Type: ADDITIVE · STRATHERN INTEGRATION
+Supersedes: MEM–ROME–ITALY–MEDICI — v1.1
 Civilization: ROME (ITALIAN AFTERLIFE / CIVIC–FINANCIAL CONTINUITY)
 Regime: REPUBLICAN FORMS → OLIGARCHIC STEWARDSHIP (c. 1400–1530 AD)
 Subject: The Medici Family (Florence)
@@ -142,7 +142,40 @@ Rome’s grammar persists.
 Rome’s scale does not.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+VIII. MODERN SCHOLARSHIP — STRATHERN
+────────────────────────────────────────────────────────────
+Paul Strathern's *The Medici: Godfathers of the Renaissance* (2003)
+provides narrative synthesis of Medici power across generations.
+
+**STRATHERN'S THESIS:**
+The Medici exemplify how **financial power translates into political
+dominance** through patronage, marriage, and informal control:
+
+• Giovanni di Bicci built the bank; Cosimo built the network
+• Lorenzo "the Magnificent" sacrificed banking for culture and politics
+• The Medici popes (Leo X, Clement VII) extended Florentine power to Rome
+• Decline came when banking expertise was lost to political ambition
+
+**KEY ARGUMENTS:**
+• The Medici Bank was Europe's largest financial institution
+• Patronage of art was simultaneously political strategy
+• Medici survival required constant adaptation to external threats
+• The family's fall came from prioritizing glory over solvency
+
+**ON COSIMO:**
+Strathern emphasizes Cosimo's method: control Florence without
+holding formal office, using credit relationships as governance.
+
+**ON LORENZO:**
+Lorenzo's brilliance was cultural, not financial. He spent the
+bank into crisis while making Florence Europe's cultural capital.
+
+**INTEGRATION STATUS:**
+Verbatim quotations require verification from physical text.
+Marked for ARC compliance upgrade when source is available.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Roman authority survives best as informal dominance.  
 • Finance can replace force, but not indefinitely.  
@@ -153,7 +186,7 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. PRIMARY & SECONDARY SOURCES (ARC-COMPLIANT)
+X. PRIMARY & SECONDARY SOURCES (ARC-COMPLIANT)
 ────────────────────────────────────────────────────────────
 Medieval / Renaissance Primary:
 • Francesco Guicciardini, *History of Italy*  
@@ -161,10 +194,11 @@ Medieval / Renaissance Primary:
 • Leon Battista Alberti, *On the Family*  
 
 Modern Scholarship:
-• Lauro Martines  
-• Christopher Hibbert  
-• John M. Najemy  
+• Hibbert, Christopher. *The House of Medici: Its Rise and Fall*. 1974.
+• Martines, Lauro. *April Blood: Florence and the Plot Against the Medici*. 2003.
+• Najemy, John M. *A History of Florence, 1200–1575*. 2006.
+• Strathern, Paul. *The Medici: Godfathers of the Renaissance*. Jonathan Cape, 2003.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–ITALY–MEDICI — v1.1
+END OF FILE — MEM–ROME–ITALY–MEDICI — v1.2
 ────────────────────────────────────────────────────────────

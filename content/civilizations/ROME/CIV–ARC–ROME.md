@@ -1,31 +1,29 @@
-CIV–ARC–ROME — v2.0
+CIV–ARC–ROME — v2.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–ROME v1.9
-Upgrade Type: MAJOR · NAMESPACE ALIGNMENT + SCOPE SIMPLIFICATION
+Supersedes: CIV–ARC–ROME v2.0
+Upgrade Type: ADDITIVE · STRATHERN INTEGRATION
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.0) — NAMESPACE ALIGNMENT + SCOPE SIMPLIFICATION
+UPGRADE NOTE (v2.1) — STRATHERN INTEGRATION
 ────────────────────────────────────────────────────────────
-This version aligns CIV–ARC–ROME with CIV–ARC–TEMPLATE v2.7.
+This version adds Paul Strathern to ARC-T-MODERN for Italian
+Renaissance materials.
 
-STRUCTURAL CHANGES:
-• Renamed categories to ARC-T-* namespace (ARC-T-ANCIENT, etc.)
-• Removed quotation quantity rules (now governed by CIV–MEM–TEMPLATE v2.8)
-• Added ERC Orthogonality section
-• Added "What ARC Does Not Govern" section
-• Updated Mirroring Rule to version pointer reference
-• Fixed typo: "GOVERNANAD" → "GOVERNANCE"
+ADDITIONS:
+• Paul Strathern added to ARC-T-MODERN (Italian Renaissance)
+  - *The Medici: Godfathers of the Renaissance* (2003)
+  - *Death in Florence* (2011)
+  - *The Spirit of Venice* (2012)
+  - *The Venetians: A New History* (2013)
+  - *The Borgias: Power and Fortune* (2019)
 
-PRESERVED:
-• All approved author lists (unchanged)
-• Temporal precedence rule
-• Discovery framework
+All other sections unchanged from v2.0.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -227,6 +225,13 @@ Military History:
 Black Sea/Pontus:
 • Duane W. Roller — Empire of the Black Sea
 
+Italian Renaissance / Roman Afterlife:
+• Paul Strathern (b. 1940) — The Medici: Godfathers of the Renaissance (2003),
+  Death in Florence (2011), The Spirit of Venice (2012), The Venetians (2013),
+  The Borgias: Power and Fortune (2019)
+• Christopher Hibbert (1924–2008) — The House of Medici, The Borgias and Their Enemies
+• Sarah Bradford (b. 1938) — Cesare Borgia: His Life and Times
+
 ────────────────────────────────────────────────────────────
 VIII. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
@@ -320,10 +325,10 @@ The following are prohibited:
 ────────────────────────────────────────────────────────────
 XIII. VERSIONING
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–ROME v2.0
+Version: CIV–ARC–ROME v2.1
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–ROME v1.9
-Upgrade Type: MAJOR · NAMESPACE ALIGNMENT + SCOPE SIMPLIFICATION
+Supersedes: CIV–ARC–ROME v2.0
+Upgrade Type: ADDITIVE · STRATHERN INTEGRATION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 • Additive upgrades only for author lists
@@ -332,5 +337,5 @@ Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ROME v2.0
+END OF FILE — CIV–ARC–ROME v2.1
 ────────────────────────────────────────────────────────────

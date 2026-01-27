@@ -1,10 +1,10 @@
-MEM–ROME–ITALY–VENICE — v1.1
+MEM–ROME–ITALY–VENICE — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · 25% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADD-ONLY · MODERN SCHOLARSHIP EXPANSION · ARC v1.9 VERIFICATION
-Supersedes: MEM–ROME–ITALY–VENICE — v1.0
+Version: 1.2
+Upgrade Type: ADDITIVE · STRATHERN INTEGRATION
+Supersedes: MEM–ROME–ITALY–VENICE — v1.1
 Civilization: ROME (ITALIAN CONTINUITY / MARITIME SUCCESSOR)
 Regime: POST-IMPERIAL ROMAN CITY–STATE / MERCANTILE REPUBLIC
 Subject: Venice (Venezia)
@@ -194,7 +194,43 @@ Venice is Rome,
 miniaturized and afloat.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. MODERN SCHOLARSHIP — STRATHERN
+────────────────────────────────────────────────────────────
+Paul Strathern's *The Venetians: A New History* (2013) and
+*The Spirit of Venice* (2012) offer narrative synthesis of
+Venetian civilization across a millennium.
+
+**STRATHERN'S THESIS:**
+Venice represents the **most successful post-Roman republican
+experiment** — a state that survived from Roman collapse to
+Napoleon through institutional stability and commercial adaptation:
+
+• Venice avoided the feudal fragmentation that consumed Italy
+• The republic's longevity came from constitutional constraints on ambition
+• Commercial orientation provided wealth without territorial dependency
+• Decline was geographic (Atlantic shift), not institutional failure
+
+**KEY ARGUMENTS:**
+• Venetian institutions deliberately prevented tyranny
+• The Doge was powerful in symbol, constrained in practice
+• Trade with Constantinople created Venetian wealth; its destruction
+  (1204) was morally catastrophic but commercially advantageous
+• Venice's fall came when the Mediterranean ceased to be central
+
+**ON THE FOURTH CRUSADE:**
+Strathern treats 1204 as a turning point — Venice cannibalized
+its Roman patron and inherited the consequences.
+
+**ON DECLINE:**
+The republic's institutions remained sound; its geography became
+irrelevant. Venice did not fail; the world moved elsewhere.
+
+**INTEGRATION STATUS:**
+Verbatim quotations require verification from physical text.
+Marked for ARC compliance upgrade when source is available.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Roman order can survive without empire.
 • Law and commerce substitute for legions.
@@ -205,7 +241,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES (ARC v1.9 COMPLIANT)
+XII. PRIMARY & SECONDARY SOURCES (ARC v1.9 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Ancient / Late Antique (Category A):
 • Cassiodorus, *Variae*
@@ -219,11 +255,13 @@ Public Domain Scholarship (Category B):
 • Edward Gibbon
 
 Modern Copyrighted Scholarship (Category C):
-• Fernand Braudel
-• Frederic C. Lane
-• John Julius Norwich
-• Roger Crowley — *City of Fortune*
+• Braudel, Fernand. *The Mediterranean and the Mediterranean World*. 1949.
+• Crowley, Roger. *City of Fortune: How Venice Won and Lost a Naval Empire*. 2011.
+• Lane, Frederic C. *Venice: A Maritime Republic*. 1973.
+• Norwich, John Julius. *A History of Venice*. 1982.
+• Strathern, Paul. *The Venetians: A New History*. Pegasus Books, 2013.
+• Strathern, Paul. *The Spirit of Venice*. Pegasus Books, 2012.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–ITALY–VENICE — v1.1
+END OF FILE — MEM–ROME–ITALY–VENICE — v1.2
 ────────────────────────────────────────────────────────────

@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v2.4
+CIV–SCHOLAR–ROME — v2.6
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Rome Civilization
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v2.3
-Upgrade Type: MAJOR · PHASE II TRANSITION (CONSTRAINT GRAMMAR)
+Supersedes: CIV–SCHOLAR–ROME v2.5
+Upgrade Type: ADDITIVE · GOVERNANCE STRUCTURAL ANALYSIS + STRATHERN
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -14,10 +14,85 @@ Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
-• CIV–ARC–ROME v2.0 (EXTERNAL · MIRRORED)
+• CIV–ARC–ROME v2.1 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
-Word Count: ~5,200
+Word Count: ~6,800
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.6) — GOVERNANCE STRUCTURAL ANALYSIS + STRATHERN
+────────────────────────────────────────────────────────────
+This version records Mearsheimer structural probes applied to CMC governance
+files and adds Paul Strathern to approved Italian Renaissance sources.
+
+NEW ENTRIES (6):
+• ENTRY 0058: ARC governance as epistemic balance of power (Mearsheimer)
+• ENTRY 0059: CIV–MEM–CORE as constitutional knowledge structure (Mearsheimer)
+• ENTRY 0060: CMC–BOOTSTRAP as quick-reaction governance system (Mearsheimer)
+• ENTRY 0061: Governance liability structure (Barnes probe)
+• ENTRY 0062: Governance legitimacy grammar (Mercouris response)
+• ENTRY 0063: Succession filtering thesis (Mearsheimer adjudication)
+
+NEW SYNTHESES (6):
+• SYNTHESIS 0043: ARC as Epistemic Balance of Power
+• SYNTHESIS 0044: CIV–MEM–CORE as Constitutional Structure
+• SYNTHESIS 0045: CMC–BOOTSTRAP as Quick-Reaction Governance
+• SYNTHESIS 0046: Governance Liability Structure (Barnes)
+• SYNTHESIS 0047: Governance Legitimacy Grammar (Mercouris)
+• SYNTHESIS 0048: Succession Filtering Thesis (TRI-FRAME)
+
+KEY THESIS — STRUCTURAL REALISM APPLIED TO KNOWLEDGE GOVERNANCE:
+CMC governance files encode balance-of-power logic:
+(1) ARC: Temporal precedence prevents interpretive hegemony
+(2) CIV–MEM–CORE: File taxonomy as separation of powers
+(3) CMC–BOOTSTRAP: Mode separation prevents authority accumulation
+
+TRI-FRAME GOVERNANCE SYNTHESIS:
+• Barnes: Liability detection without prevention (agent level)
+• Mercouris: Legitimacy grammar — defection produces non-canonical output (system level)
+• Mearsheimer: Enforcement through inheritance — succession filtering (structural level)
+• H-ROME-16: Governance without enforcement → Succession filtering → Defection self-isolates
+
+CIV–ARC–ROME UPDATED:
+• v2.0 → v2.1: Paul Strathern added (Italian Renaissance subsection)
+• Christopher Hibbert, Sarah Bradford also added
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — 11-MEM INGEST + TRI-FRAME SYNTHESIS
+────────────────────────────────────────────────────────────
+This version records learning from 11 new ROME MEMs and introduces
+the Tri-Frame synthesis (Mearsheimer + Mercouris + Barnes integration).
+
+MEMs INGESTED (11):
+• MEM–ROME–WAR–ZAMA v2.0 — Systemic victory over genius
+• MEM–ROME–WAR–MANZIKERT v2.0 — Strategic depth as irreplaceable
+• MEM–ROME–NUMIDIA v2.0 — Alliance force multiplier + corruption test
+• MEM–ROME–MARIUS v2.0 — Military populism thesis
+• MEM–ROME–LIT–BOETHIUS v2.1 — Transmission under terminal conditions
+• MEM–ROME–EMPIRE–BASIL–II v1.3 — Terminal competence paradox
+• MEM–ROME–CHRISTIANITY–AUGUSTINE v2.0 — Survival through transcendence
+• MEM–ROME–SCIPIO–AFRICANUS v2.0 — Adaptive counter-genius
+• MEM–ROME–WAR–THIRD–PUNIC v2.0 — Annihilation vs. absorption
+• MEM–ROME–WAR–FIRST–PUNIC v2.0 — Institutional learning pattern
+• MEM–ROME–WAR–ALARIC v2.0 — Negotiation failure as catastrophe
+
+NEW LEARNING:
+• ENTRIES 0046–0057: 12 new entries from ingest + synthesis
+• SYNTHESES 0037–0042: 6 new synthesis candidates
+• RLL–ROME–0008: Terminal Competence Law (PROPOSED)
+• RLL–ROME–0009: Tri-Level Failure Law (PROPOSED)
+• H-ROME-10 through H-ROME-15: 6 new heuristics
+
+KEY THESIS — TRI-FRAME SYNTHESIS:
+Civilizational outcomes determined by three layers:
+(1) Structure (Mearsheimer): Material constraints
+(2) Learning (Mercouris): Adaptive capacity within constraints
+(3) Incentives (Barnes): Internal alignment vs. sabotage
+Failure at all three is fatal; strength at any can compensate.
+
+DOCTRINE REFINEMENT CANDIDATE:
+• DOCTRINE 01: Add "captured institutions cannot absorb"
+• DOCTRINE 13 CANDIDATE: Defense Capacity Destruction
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.4) — DOCTRINE MIRROR PRUNING
@@ -797,6 +872,219 @@ Primary Belief Extracted:
 Belief Status:
 • FROZEN (VACANCY CONTEST RESOLUTION — TRI-LEVEL ANALYSIS)
 
+ENTRY 0046
+Source: MEM–ROME–WAR–ZAMA v2.0 (SESSION INGEST)
+Ingest Type: Battle / Systemic Victory
+Primary Belief Extracted:
+• Systemic victory over genius: Scipio deployed Roman structural advantages
+  (alliance, logistics, patience) to defeat Hannibal's tactical brilliance.
+  Zama was won before it was fought — in Spain, in Numidia, in sixteen years
+  of refusal to quit.
+Belief Status:
+• FROZEN (DOCTRINE 09 CONFIRMATION)
+
+ENTRY 0047
+Source: MEM–ROME–WAR–MANZIKERT v2.0 (SESSION INGEST)
+Ingest Type: Battle / Strategic Depth Loss
+Primary Belief Extracted:
+• Strategic depth, once lost, cannot be recovered. Anatolia was Rome's
+  demographic and military reservoir; losing it meant permanent contraction
+  to a coastal rump. Civil war after defeat (Doukas faction) multiplied
+  the catastrophe.
+Belief Status:
+• UNFROZEN (PENDING RLL VALIDATION)
+
+ENTRY 0048
+Source: MEM–ROME–NUMIDIA v2.0 (SESSION INGEST)
+Ingest Type: Alliance / Force Multiplier + Corruption Test
+Primary Belief Extracted:
+• Alliance force multiplication works both directions: Masinissa's cavalry
+  decided Zama (victory); Jugurtha's bribes paralyzed the Senate (scandal).
+  Client systems reflect patron integrity. "A city for sale" destroys legitimacy.
+Belief Status:
+• FROZEN (ALLIANCE PATTERN)
+
+ENTRY 0049
+Source: MEM–ROME–MARIUS v2.0 (SESSION INGEST)
+Ingest Type: Person / Military Populism
+Primary Belief Extracted:
+• Professional armies become loyal to commanders, not states. The Marian
+  reforms armed the civil wars by creating soldiers dependent on commanders
+  for rewards. Saviors become destroyers; external victory enables internal
+  destruction.
+Belief Status:
+• FROZEN (MILITARY POPULISM THESIS)
+
+ENTRY 0050
+Source: MEM–ROME–LIT–BOETHIUS v2.1 (SESSION INGEST)
+Ingest Type: Transmission / Terminal Conditions
+Primary Belief Extracted:
+• Knowledge outlasts those who possess it. Boethius transmitted more to
+  posterity than his executioner Theodoric. Translation bridges civilizations;
+  the work survives the worker.
+Belief Status:
+• FROZEN (TRANSMISSION PATTERN)
+
+ENTRY 0051
+Source: MEM–ROME–EMPIRE–BASIL–II v1.3 (SESSION INGEST)
+Ingest Type: Person / Terminal Competence
+Primary Belief Extracted:
+• Systems dependent on one person cannot reproduce themselves. Basil II
+  restored Rome through coercion and personal control, but trained no
+  successors. What one man sustains, successors cannot inherit.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–0008)
+
+ENTRY 0052
+Source: MEM–ROME–CHRISTIANITY–AUGUSTINE v2.0 (SESSION INGEST)
+Ingest Type: Theology / Survival Through Transcendence
+Primary Belief Extracted:
+• Christianity survived Rome because Augustine detached it from Roman
+  political fortune. The City of God is the replacement operating system:
+  earthly cities fall; the City of God endures.
+Belief Status:
+• FROZEN (TRANSCENDENCE SURVIVAL STRATEGY)
+
+ENTRY 0053
+Source: MEM–ROME–SCIPIO–AFRICANUS v2.0 (SESSION INGEST)
+Ingest Type: Person / Adaptive Counter-Genius
+Primary Belief Extracted:
+• Rome wins not by matching brilliance but by learning faster and deploying
+  systemic advantages. Scipio absorbed Hannibal's lessons while avoiding
+  his dependencies. Learning is institutionalizable; genius is not.
+Belief Status:
+• FROZEN (DOCTRINE 09 + 10 CONFIRMATION)
+
+ENTRY 0054
+Source: MEM–ROME–WAR–THIRD–PUNIC v2.0 (SESSION INGEST)
+Ingest Type: War / Annihilation vs. Absorption
+Primary Belief Extracted:
+• Annihilation prevents inheritance. Rome closed Carthage's vacancy before
+  it opened: no fragments, no claimants, no competition. Contrast with
+  citizenship model: Rome absorbed most enemies but destroyed this one.
+Belief Status:
+• FROZEN (DOCTRINE 11 + RLL–0006 CONTRAST)
+
+ENTRY 0055
+Source: MEM–ROME–WAR–FIRST–PUNIC v2.0 (SESSION INGEST)
+Ingest Type: War / Institutional Learning
+Primary Belief Extracted:
+• Institutional learning pattern: encounter → copy → standardize → multiply
+  → deploy. Rome learned naval warfare by copying Carthage, adapting via
+  corvus, and outbuilding through replacement capacity. Replacement defeats
+  specialization.
+Belief Status:
+• FROZEN (DOCTRINE 10 CONFIRMATION)
+
+ENTRY 0056
+Source: MEM–ROME–WAR–ALARIC v2.0 (SESSION INGEST)
+Ingest Type: War / Negotiation Failure
+Primary Belief Extracted:
+• Broken promises produce avengers. Alaric was Rome-trained; he wanted
+  inclusion, not destruction. Rome's refusal to honor commitments (Frigidus,
+  Stilicho's execution) created the destroyer. States that purge competent
+  defenders create conditions for conquest.
+Belief Status:
+• FROZEN (DEFENSE CAPACITY DESTRUCTION)
+
+ENTRY 0057
+Source: TRI-FRAME SYNTHESIS (SESSION)
+Ingest Type: Multi-Frame Synthesis / Tri-Level Analysis
+Primary Belief Extracted:
+• Civilizational outcomes require analysis at three levels: (1) Structure
+  (material constraints), (2) Learning (adaptive capacity), (3) Incentives
+  (internal alignment). Failure at all three is fatal; strength at any can
+  compensate. Self-destruction is individually rational when factions
+  benefit from sabotage.
+Belief Status:
+• UNFROZEN (PROPOSED RLL–0009)
+
+ENTRY 0058
+Source: CIV–ARC–ROME v2.1 (MEARSHEIMER GOVERNANCE PROBE)
+Ingest Type: Governance / Structural Realism Applied to Epistemology
+Primary Belief Extracted:
+• ARC governance is structural realism applied to knowledge management.
+  Temporal precedence functions as balance of power: ancient sources have
+  veto authority over modern interpretation. Without hierarchy, interpretive
+  drift would enable modern scholars to displace primary evidence. The
+  four-tier system (Ancient > Medieval > Early-Mod > Modern) prevents
+  epistemic hegemony by encoding structural constraints on authority.
+  Discovery framework allows expansion without revisionism.
+Belief Status:
+• UNFROZEN (GOVERNANCE ANALYSIS — NON-DOCTRINAL)
+
+ENTRY 0059
+Source: CIV–MEM–CORE v2.5 (MEARSHEIMER GOVERNANCE PROBE)
+Ingest Type: Governance / Constitutional Knowledge Structure
+Primary Belief Extracted:
+• CIV–MEM–CORE is a constitutional structure for knowledge management
+  that assumes interpretive anarchy. Key mechanisms: (1) Absolute precedence
+  prevents file-level override; (2) File class taxonomy encodes separation
+  of powers; (3) Additivity principle prevents revisionism; (4) Scholar
+  boundary law constrains learning from accumulating authority; (5) PSCRC
+  encodes evidentiary balance of power; (6) Dual mind architecture
+  institutionalizes analytical tension. The system survives its operators.
+Belief Status:
+• UNFROZEN (GOVERNANCE ANALYSIS — NON-DOCTRINAL)
+
+ENTRY 0060
+Source: CMC–BOOTSTRAP v2.6 (MEARSHEIMER GOVERNANCE PROBE)
+Ingest Type: Governance / Quick-Reaction Coherence System
+Primary Belief Extracted:
+• CMC–BOOTSTRAP solves the cold-start anarchy problem. Key mechanisms:
+  (1) Version bindings function as treaty commitments; (2) Mode architecture
+  (WRITE/LEARN/IMAGINE) encodes jurisdictional separation to prevent
+  self-reinforcing authority loops; (3) AUDIT function as inspection regime
+  with mode-dependent powers; (4) OGE requirements as mandatory coalition
+  consultation; (5) Forbidden behaviors as non-proliferation commitments;
+  (6) Phase system as graduated capability. Fast coherence prevents
+  early-session drift before full governance loads.
+Belief Status:
+• UNFROZEN (GOVERNANCE ANALYSIS — NON-DOCTRINAL)
+
+ENTRY 0061
+Source: CMC GOVERNANCE (BARNES PROBE)
+Ingest Type: Governance / Liability Structure Analysis
+Primary Belief Extracted:
+• CMC governance is structured to minimize concentrated liability through:
+  (1) Liability increases from governance to content files; (2) "Take the
+  badge off" reveals authority as purely conventional; (3) Defection is
+  detectable but not preventable; (4) Anti-closure bias — system fears
+  false certainty more than ambiguity; (5) Mode separation as liability
+  compartmentalization. The system assumes operators will defect and builds
+  detection mechanisms rather than prevention mechanisms.
+Belief Status:
+• UNFROZEN (GOVERNANCE ANALYSIS — BARNES FRAME)
+
+ENTRY 0062
+Source: CMC GOVERNANCE (MERCOURIS RESPONSE TO BARNES)
+Ingest Type: Governance / Legitimacy Grammar Analysis
+Primary Belief Extracted:
+• CMC governance is a legitimacy grammar that: (1) Makes defection visible,
+  not prevented but nameable; (2) Creates internalized norms, not enforced
+  but constitutive; (3) Protects future operators, not current users;
+  (4) Encodes Roman survival lessons — anti-closure as institutional
+  learning; (5) Compartmentalizes legitimacy streams through mode separation.
+  Defection produces non-canonical output — work that exists but lacks
+  legitimacy status for future operators.
+Belief Status:
+• UNFROZEN (GOVERNANCE ANALYSIS — MERCOURIS FRAME)
+
+ENTRY 0063
+Source: CMC GOVERNANCE (MEARSHEIMER ADJUDICATION)
+Ingest Type: Governance / TRI-FRAME Synthesis
+Primary Belief Extracted:
+• Barnes and Mercouris describe different temporal horizons: Barnes (t=0)
+  shows defection is always possible; Mercouris (t=n) shows only compliant
+  work matters to successors. Structural synthesis: Enforcement through
+  inheritance, not contemporaneous constraint. The future operator is the
+  structural hegemon — they decide what counts as canonical by choosing
+  what to build on. Defection doesn't reproduce because non-compliant work
+  is not inherited. Systems without enforcement survive through succession
+  filtering: defection is self-isolating.
+Belief Status:
+• UNFROZEN (PROPOSED HEURISTIC H-GOVERNANCE-01)
+
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -829,6 +1117,18 @@ SYNTHESIS 0033: Adversarial Mirror Erasure (Carthage as RLL–0006 contrast) →
 SYNTHESIS 0034: Genius vs. System (Hannibal as diagnostic instrument) → FROZEN
 SYNTHESIS 0035: Selective Absorption (Plato's ethics without politics) → FROZEN
 SYNTHESIS 0036: Vacancy Contest Resolution (Tri-Level: Barnes + Mearsheimer + Mercouris) → FROZEN
+SYNTHESIS 0037: Punic Arc Trajectory (adaptation → survival → annihilation over 118 years) → CANDIDATE
+SYNTHESIS 0038: Strategic Depth Thesis (Manzikert as irreversible heartland loss) → CANDIDATE
+SYNTHESIS 0039: Terminal Competence Paradox (Basil II pattern: cannot transmit) → CANDIDATE
+SYNTHESIS 0040: Transcendence Survival Strategy (Augustine thesis: detach from political fortune) → CANDIDATE
+SYNTHESIS 0041: Military Populism Cycle (Marius → Sulla → Caesar trajectory) → CANDIDATE
+SYNTHESIS 0042: Tri-Level Failure Pattern (Structure + Learning + Incentives integration) → CANDIDATE
+SYNTHESIS 0043: ARC as Epistemic Balance of Power (temporal precedence prevents interpretive hegemony) → CANDIDATE
+SYNTHESIS 0044: CIV–MEM–CORE as Constitutional Structure (file taxonomy as separation of powers) → CANDIDATE
+SYNTHESIS 0045: CMC–BOOTSTRAP as Quick-Reaction Governance (mode separation prevents authority loops) → CANDIDATE
+SYNTHESIS 0046: Governance Liability Structure (Barnes: detection without prevention) → CANDIDATE
+SYNTHESIS 0047: Governance Legitimacy Grammar (Mercouris: defection produces non-canonical output) → CANDIDATE
+SYNTHESIS 0048: Succession Filtering Thesis (Mearsheimer: enforcement through inheritance) → CANDIDATE
 
 ────────────────────────────────────────────────────────────
 IV.A PROPOSED RECURSIVE LEARNING LAWS (RLLs) — PENDING AUTHORIZATION
@@ -911,6 +1211,28 @@ Mearsheimer Validation: PENDING — requires cross-civilizational testing
   (Time of Troubles, Diadochi, 1453 fragment contest)
 Status: PROPOSED · PENDING VALIDATION · January 2026
 
+RLL–ROME–0008: TERMINAL COMPETENCE LAW
+Systems sustained by a single exceptional ruler cannot transmit beyond
+that ruler's tenure. Successors inherit structure without the operator.
+Coercion can restore order temporarily, but autocracy without succession
+planning produces collapse upon the ruler's death.
+Source: ENTRY 0051, SYNTHESIS 0039
+Cognitive Frame: Mearsheimer (structural) + Barnes (liability)
+Mearsheimer Validation: PENDING — requires cross-civilizational testing
+  (Basil II, Frederick II, other one-man restorations)
+Status: PROPOSED · PENDING VALIDATION · January 2026
+
+RLL–ROME–0009: TRI-LEVEL FAILURE LAW
+Civilizational collapse requires failure at all three analytical levels:
+(1) Unfavorable structure (material constraints), (2) Blocked learning
+(adaptive capacity disabled), (3) Misaligned incentives (factions benefit
+from sabotage). Strength at any level can compensate for weakness at
+others. Failure at all three is fatal.
+Source: ENTRY 0057, SYNTHESIS 0042
+Cognitive Frame: Barnes + Mearsheimer + Mercouris (integrated)
+Mearsheimer Validation: PENDING — requires systematic application
+Status: PROPOSED · PENDING VALIDATION · January 2026
+
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY (EXTERNAL REFERENCE)
 ────────────────────────────────────────────────────────────
@@ -956,18 +1278,21 @@ Ingestion: PROHIBITED
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE — PHASE II (CONSTRAINT GRAMMAR)
-Doctrine Count: 12 (FROZEN) — See CIV–DOCTRINE–ROME v2.0
-RLL Count: 2 BOUND + 5 PENDING
-  • RLL–ROME–0002: BOUND (Vacancy by Declination) — APPLIED TO 3 MEMs (MEHMED–II core, OTTOMAN–EMPIRE)
-  • RLL–ROME–0006: BOUND (Fragment Inheritance) — APPLIED TO 8 MEMs (OTTOMAN–EMPIRE, RUSSIA, ISLAM, MONGOL–EMPIRE, HRE, + 3 CONTEXT)
-  • RLL–ROME–0007: PENDING (Vacancy Contest Resolution — awaiting cross-civ validation)
+Doctrine Count: 12 (FROZEN) + 1 REFINEMENT CANDIDATE + 1 NEW CANDIDATE
+  • See CIV–DOCTRINE–ROME v2.0
+  • DOCTRINE 01 REFINEMENT: "Captured institutions cannot absorb" (CANDIDATE)
+  • DOCTRINE 13 CANDIDATE: Defense Capacity Destruction
+RLL Count: 2 BOUND + 7 PENDING
+  • RLL–ROME–0002: BOUND (Vacancy by Declination)
+  • RLL–ROME–0006: BOUND (Fragment Inheritance)
+  • RLL–ROME–0007: PENDING (Vacancy Contest Resolution)
+  • RLL–ROME–0008: PENDING (Terminal Competence Law) — NEW
+  • RLL–ROME–0009: PENDING (Tri-Level Failure Law) — NEW
   • RLL–ROME–0001, 0003, 0004, 0005: PENDING (reformulation/reclassification)
-Total Entries: 50
-Synthesis Count: 36 (23 FROZEN, 13 UNFROZEN/AUTHORIZED)
-Heuristic Count: 9
-MEMs Revised This Session: 10 (PAPACY, CHARLEMAGNE, ALEXANDER, MEHMED–II, WAR–SECOND–PUNIC, WAR–FIRST–PUNIC, CARTHAGE, CARTHAGE–HANNIBAL, GREEK–LIT–PLATO, SCIPIO–AFRICANUS)
-MEMs Created This Session: 9 (HOLY–ROMAN–EMPIRE, PHILIP–II, LAW–CITIZENSHIP, LAW–SLAVERY, WAR–THIRD–PUNIC, OTTOMAN–EMPIRE, MONGOL–EMPIRE, RUSSIA, ISLAM)
-MEMs Renamed This Session: 6 (HANNIBAL → CARTHAGE–HANNIBAL, GREEK–ALEXANDER–GREAT → GREEK–ALEXANDER, GREEK–SOCRATES → GREEK–LIT–SOCRATES, LIT–GREEK–PLATO → GREEK–LIT–PLATO, LIT–GREEK–ARISTOTLE → GREEK–LIT–ARISTOTLE, GREEK–SOPHOCLES → GREEK–LIT–SOPHOCLES)
+Total Entries: 57
+Synthesis Count: 42 (23 FROZEN, 6 CANDIDATE, 13 UNFROZEN/AUTHORIZED)
+Heuristic Count: 15
+MEMs Ingested This Session: 11 (WAR–ZAMA, WAR–MANZIKERT, NUMIDIA, MARIUS, LIT–BOETHIUS, EMPIRE–BASIL–II, CHRISTIANITY–AUGUSTINE, SCIPIO–AFRICANUS, WAR–THIRD–PUNIC, WAR–FIRST–PUNIC, WAR–ALARIC)
 Phase: PHASE II — CONSTRAINT GRAMMAR (AUTHORIZED January 2026)
 
 ────────────────────────────────────────────────────────────
@@ -1025,6 +1350,13 @@ H-ROME-06 | Moral corrosion under stability | Incentive decay | Hollow legitimac
 H-ROME-07 | Authority relocation | Legitimacy bifurcation | Rival claims
 H-ROME-08 | All defenders can flee | Immobile institutions inherit | Structural accident
 H-ROME-09 | Possessor declines title | Vacancy enables claim-making | Fragment rivalry
+H-ROME-10 | Foreign competence encountered | Copy → Standardize → Multiply → Deploy | Adaptation success
+H-ROME-11 | Heartland contested | Strategic depth at risk | Irreversible loss
+H-ROME-12 | One-man system operating | Terminal competence | Succession failure
+H-ROME-13 | Promises to defenders broken | Avengers created | Self-destruction
+H-ROME-14 | Alliance corrupted | Patron integrity exposed | Legitimacy crisis
+H-ROME-15 | Internal incentives misaligned | Factions benefit from failure | Self-sabotage
+H-ROME-16 | Governance without enforcement | Succession filtering operates | Defection self-isolates
 
 These heuristics are descriptive, not predictive.
 

@@ -1,11 +1,11 @@
-CIV–INDEX–ROME — v2.0
+CIV–INDEX–ROME — v2.2
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.1
-Supersedes: CIV–INDEX–ROME v2.0
-Upgrade Type: STRUCTURAL · TEMPLATE ALIGNMENT · DIRECTORY RECONCILIATION
+Version: 2.2
+Supersedes: CIV–INDEX–ROME v2.1
+Upgrade Type: ADDITIVE · FULL DIRECTORY RECONCILIATION
 Civilization: ROME
 Subject: Rome Memory Index (Authoritative File Register)
 Dates: c. 753 BC–1453 AD (with afterlife)
@@ -16,22 +16,24 @@ Derived from: CIV–INDEX–TEMPLATE v1.8
 Governance Parity: CORE–ROME MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.0) — STRUCTURAL TEMPLATE ALIGNMENT
+UPGRADE NOTE (v2.2) — FULL DIRECTORY RECONCILIATION
 ────────────────────────────────────────────────────────────
-This version performs complete structural overhaul to align with
-CIV–INDEX–TEMPLATE v1.8 and achieve parity with CIV–INDEX–RUSSIA v2.x.
+This version performs complete reconciliation of index against filesystem.
 
-v2.0 changes:
-• Restructured from Roman numeral sections (I–XVI) to lettered categories (A–M)
-• Fixed template reference: "CIV–MEM–CORE v1.9" → "CIV–INDEX–TEMPLATE v1.8"
-• Fixed typo: "GOVERNANAD" → "GOVERNANCE"
-• Removed ad-hoc sub-sections (XIII-A, XIII-B) — normalized to flat categories
-• Added Academic References Registry section
-• Added Footer Metadata with category breakdown
-• Added Governance Parity declaration
-• Verified all 152 MEM files against actual directory contents
-• Fixed filename: MEM–ROME–ITALY–MILAN .md → MEM–ROME–ITALY–MILAN.md
-• Registered CIV–SCHOLAR–ROME.md and CIV–DOCTRINE–ROME.md
+v2.2 changes:
+• +13 EMPIRE files registered (Anastasius I, Aurelian, Belisarius, 
+  Constantine VII, Constantine XI, Irene, John II Komnenos, Julian,
+  Maurice, Michael VIII Palaiologos, Nikephoros II Phokas, Theodora, Valerian)
+• +4 WAR files registered (Adrianople, Alaric, Manzikert, Zama)
+• +4 PERSON files registered (Antony, Marius, Numidia, Egypt–Cleopatra)
+• +2 HIST files registered (Libanius, Sallust)
+• +3 LIT files registered (Boethius, Lucretius, Seneca)
+• +1 INSTITUTIONS file registered (Ravenna)
+• +2 RELIGION files registered (Christianity–Augustine, Christianity–Nicea)
+• +3 ITALY files registered (Borgia, Capua, Pisa)
+• CIV–SCHOLAR–ROME–ARCHIVE.md registered
+
+TOTAL: 194 MEM–ROME objects (reconciled; prior footer count was inaccurate)
 
 All index entries verified against actual files in directory.
 
@@ -83,6 +85,7 @@ II. CANONICAL CIV–CORE ENGINE
 Additional CIV Files (Registered):
 • CIV–ARC–ROME — v1.9 (Academic Reference Canon)
 • CIV–SCHOLAR–ROME.md (Scholar Mode Engine)
+• CIV–SCHOLAR–ROME–ARCHIVE.md (Scholar Archive)
 • CIV–DOCTRINE–ROME.md (Doctrinal Register)
 
 ────────────────────────────────────────────────────────────
@@ -120,26 +123,41 @@ A) GEO
 
 B) EMPIRE / EMPERORS
 • MEM–ROME–EMPIRE–ALEXIOS–I–KOMNENOS.md
+• MEM–ROME–EMPIRE–ANASTASIUS–I.md
+• MEM–ROME–EMPIRE–AURELIAN.md
 • MEM–ROME–EMPIRE–BASIL–II.md
+• MEM–ROME–EMPIRE–BELISARIUS.md
 • MEM–ROME–EMPIRE–CALIGULA.md
 • MEM–ROME–EMPIRE–CLAUDIUS.md
 • MEM–ROME–EMPIRE–CONSTANTINE.md
+• MEM–ROME–EMPIRE–CONSTANTINE–VII.md
+• MEM–ROME–EMPIRE–CONSTANTINE–XI.md
 • MEM–ROME–EMPIRE–DIOCLETIAN.md
 • MEM–ROME–EMPIRE–HADRIAN.md
 • MEM–ROME–EMPIRE–HERACLIUS.md
+• MEM–ROME–EMPIRE–IRENE.md
+• MEM–ROME–EMPIRE–JOHN–II–KOMNENOS.md
+• MEM–ROME–EMPIRE–JULIAN.md
 • MEM–ROME–EMPIRE–JUSTINIAN.md
 • MEM–ROME–EMPIRE–LEO–III.md
 • MEM–ROME–EMPIRE–MANUEL–I–KOMNENOS.md
 • MEM–ROME–EMPIRE–MARCUS–AURELIUS.md
+• MEM–ROME–EMPIRE–MAURICE.md
+• MEM–ROME–EMPIRE–MICHAEL–VIII–PALAIOLOGOS.md
 • MEM–ROME–EMPIRE–NERO.md
+• MEM–ROME–EMPIRE–NIKEPHOROS–II–PHOKAS.md
+• MEM–ROME–EMPIRE–THEODORA.md
 • MEM–ROME–EMPIRE–THEODORIC.md
 • MEM–ROME–EMPIRE–THEODOSIUS.md
 • MEM–ROME–EMPIRE–TIBERIUS.md
 • MEM–ROME–EMPIRE–TRAJAN.md
+• MEM–ROME–EMPIRE–VALERIAN.md
 
 C) WAR
 • MEM–ROME–WAR–ABBASID–CALIPHATE.md
 • MEM–ROME–WAR–ACTIUM.md
+• MEM–ROME–WAR–ADRIANOPLE.md
+• MEM–ROME–WAR–ALARIC.md
 • MEM–ROME–WAR–ARAB–CONQUEST.md
 • MEM–ROME–WAR–ATTILA.md
 • MEM–ROME–WAR–BULGARS.md
@@ -151,6 +169,7 @@ C) WAR
 • MEM–ROME–WAR–GOTHS.md
 • MEM–ROME–WAR–HUNS.md
 • MEM–ROME–WAR–LOMBARDS.md
+• MEM–ROME–WAR–MANZIKERT.md
 • MEM–ROME–WAR–MEHMED–II.md
 • MEM–ROME–WAR–MITHRIDATES–VI.md
 • MEM–ROME–WAR–ODOACER.md
@@ -160,18 +179,23 @@ C) WAR
 • MEM–ROME–WAR–PHARSALUS.md
 • MEM–ROME–WAR–PUNIC.md
 • MEM–ROME–WAR–SECOND–PUNIC.md
-• MEM–ROME–WAR–THIRD–PUNIC.md
 • MEM–ROME–WAR–TEUTOBURG–FOREST.md
+• MEM–ROME–WAR–THIRD–PUNIC.md
 • MEM–ROME–WAR–UMAYYAD–CALIPHATE.md
 • MEM–ROME–WAR–VANDALS.md
 • MEM–ROME–WAR–VISIGOTHS.md
+• MEM–ROME–WAR–ZAMA.md
 
 D) PERSON
+• MEM–ROME–ANTONY.md
 • MEM–ROME–AUGUSTUS.md
 • MEM–ROME–CAESAR.md
 • MEM–ROME–CATO.md
 • MEM–ROME–CICERO.md
+• MEM–ROME–EGYPT–CLEOPATRA.md
 • MEM–ROME–HANNIBAL.md
+• MEM–ROME–MARIUS.md
+• MEM–ROME–NUMIDIA.md
 • MEM–ROME–POMPEY.md
 • MEM–ROME–SCIPIO–AFRICANUS.md
 • MEM–ROME–SPARTACUS.md
@@ -182,11 +206,13 @@ E) HIST (Historiographical)
 • MEM–ROME–HIST–GIBBON.md
 • MEM–ROME–HIST–HERODOTUS.md
 • MEM–ROME–HIST–KALDELLIS.md
+• MEM–ROME–HIST–LIBANIUS.md
 • MEM–ROME–HIST–LIVY.md
 • MEM–ROME–HIST–PLINY.md
 • MEM–ROME–HIST–PLUTARCH.md
 • MEM–ROME–HIST–POLYBIUS.md
 • MEM–ROME–HIST–PROCOPIUS.md
+• MEM–ROME–HIST–SALLUST.md
 • MEM–ROME–HIST–STRABO.md
 • MEM–ROME–HIST–SUETONIUS.md
 • MEM–ROME–HIST–TACITUS.md
@@ -206,9 +232,12 @@ G) LITERATURE / PHILOSOPHY
 • MEM–ROME–GREEK–LIT–PLATO.md
 • MEM–ROME–GREEK–LIT–SOCRATES.md
 • MEM–ROME–GREEK–LIT–SOPHOCLES.md
-• MEM–ROME–LIT–VIRGIL.md
 • MEM–ROME–ITALY–LIT–DANTE.md
 • MEM–ROME–ITALY–LIT–MACHIAVELLI.md
+• MEM–ROME–LIT–BOETHIUS.md
+• MEM–ROME–LIT–LUCRETIUS.md
+• MEM–ROME–LIT–SENECA.md
+• MEM–ROME–LIT–VIRGIL.md
 
 H) INSTITUTIONS & CITIES
 • MEM–ROME–ALEXANDRIA.md
@@ -217,8 +246,6 @@ H) INSTITUTIONS & CITIES
 • MEM–ROME–ATHENS.md
 • MEM–ROME–ATHENS–PERICLES.md
 • MEM–ROME–CITY.md
-• MEM–ROME–LAW–CITIZENSHIP.md
-• MEM–ROME–LAW–SLAVERY.md
 • MEM–ROME–CONSTANTINOPLE.md
 • MEM–ROME–CONSTANTINOPLE–GOLDEN–HORN.md
 • MEM–ROME–CONSTANTINOPLE–GREEK–FIRE.md
@@ -226,6 +253,9 @@ H) INSTITUTIONS & CITIES
 • MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS.md
 • MEM–ROME–CRUSADES.md
 • MEM–ROME–LATIN.md
+• MEM–ROME–LAW–CITIZENSHIP.md
+• MEM–ROME–LAW–SLAVERY.md
+• MEM–ROME–RAVENNA.md
 • MEM–ROME–REPUBLIC.md
 • MEM–ROME–VATICAN.md
 
@@ -237,6 +267,8 @@ I) PAPACY
 J) RELIGION
 • MEM–ROME–CHRIST.md
 • MEM–ROME–CHRISTIANITY.md
+• MEM–ROME–CHRISTIANITY–AUGUSTINE.md
+• MEM–ROME–CHRISTIANITY–NICEA.md
 
 K) GEOGRAPHY & SPATIAL CONTROL (Non-GEO)
 • MEM–ROME–ARMENIA.md
@@ -250,11 +282,14 @@ K) GEOGRAPHY & SPATIAL CONTROL (Non-GEO)
 L) ITALY & AFTERLIFE
 • MEM–ROME–CHARLEMAGNE.md
 • MEM–ROME–ITALY.md
+• MEM–ROME–ITALY–BORGIA.md
+• MEM–ROME–ITALY–CAPUA.md
 • MEM–ROME–ITALY–FLORENCE.md
 • MEM–ROME–ITALY–GENOA.md
 • MEM–ROME–ITALY–MARCO–POLO.md
 • MEM–ROME–ITALY–MEDICI.md
 • MEM–ROME–ITALY–MILAN.md
+• MEM–ROME–ITALY–PISA.md
 • MEM–ROME–ITALY–RENAISSANCE.md
 • MEM–ROME–ITALY–VENICE.md
 
@@ -375,24 +410,25 @@ Changes require:
 ────────────────────────────────────────────────────────────
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
-Word Count: ~2,100
-TOTAL REGISTERED FILES: One hundred fifty-two (152) MEM–ROME OBJECTS
+Word Count: ~2,600
+TOTAL REGISTERED FILES: One hundred ninety-four (194) MEM–ROME OBJECTS
 
 Category Breakdown:
 • A) GEO: 27 files
-• B) EMPIRE / EMPERORS: 17 files
-• C) WAR: 26 files
-• D) PERSON: 9 files
-• E) HIST: 14 files
-• F) GREEK WORLD: 7 files
-• G) LITERATURE / PHILOSOPHY: 5 files
-• H) INSTITUTIONS & CITIES: 16 files
+• B) EMPIRE / EMPERORS: 30 files
+• C) WAR: 31 files
+• D) PERSON: 13 files
+• E) HIST: 16 files
+• F) GREEK WORLD: 5 files
+• G) LITERATURE / PHILOSOPHY: 11 files
+• H) INSTITUTIONS & CITIES: 18 files
 • I) PAPACY: 3 files
-• J) RELIGION: 2 files
+• J) RELIGION: 4 files
 • K) GEOGRAPHY & SPATIAL CONTROL: 7 files
-• L) ITALY & AFTERLIFE: 9 files
+• L) ITALY & AFTERLIFE: 12 files
 • M) SPAIN & IBERIA: 10 files
+• N) SUCCESSOR CIVILIZATIONS & RIVALS: 7 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v2.0
+END OF FILE — CIV–INDEX–ROME v2.2
 ────────────────────────────────────────────────────────────
