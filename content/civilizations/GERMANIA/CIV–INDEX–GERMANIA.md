@@ -1,21 +1,58 @@
-CIV–INDEX–GERMANIA — v1.9
+CIV–INDEX–GERMANIA — v1.13
 Civilizational Memory Codex · Civilization Index File
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.9
-Supersedes: CIV–INDEX–GERMANIA v1.8
+Version: 1.13
+Supersedes: CIV–INDEX–GERMANIA v1.12
 Upgrade Type: ADDITIVE · NEW FILE REGISTRATION
 Civilization: GERMANIA
 Subject: Germania Memory Index (Authoritative File Register)
 Dates: Roman era–present
 Class: CIV–INDEX
 Last Update: January 2026
-Total Registered Files: 65 MEM–GERMANIA objects
-WORDCOUNT: 535
+Total Registered Files: 69 MEM–GERMANIA objects
+WORDCOUNT: 662
 
 Derived from: CIV–INDEX–TEMPLATE v1.8
 Governance Parity: CORE–GERMANIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.13) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers a new LIT MEM.
+
+v1.13 changes:
+• Added MEM–GERMANIA–LIT–SCHILLER v2.0
+• Updated total count: 68 → 69 files
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.12) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers a new LIT MEM.
+
+v1.12 changes:
+• Added MEM–GERMANIA–LIT–SCHOPENHAUER v2.0
+• Updated total count: 67 → 68 files
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.11) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers new HIST MEMs.
+
+v1.11 changes:
+• Added MEM–GERMANIA–HIST–RANKE v2.0
+• Added MEM–GERMANIA–HIST–SCHLIEMANN v2.0
+• Updated total count: 65 → 67 files
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.10) — NEW FILE REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers a new ARC artifact.
+
+v1.10 changes:
+• Added CIV–ARC–GERMANIA v1.0 (ARC section)
+• Updated mirror status: ARC present
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9) — NEW FILE REGISTRATION
@@ -49,7 +86,7 @@ within the Codex. Entries are registrational only.
 ────────────────────────────────────────────────────────────
 II. CANONICAL CIV–CORE ENGINE
 ────────────────────────────────────────────────────────────
-• CIV–CORE–GERMANIA — v1.7
+• CIV–CORE–GERMANIA — v1.8
   Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
   Lock Level: STRUCTURAL
   Template Version Used: CIV–CORE–TEMPLATE v2.0
@@ -57,8 +94,8 @@ II. CANONICAL CIV–CORE ENGINE
 ────────────────────────────────────────────────────────────
 III. REGISTERED MEM FILES — PERSONS & FIGURES
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–BACH.md
-• MEM–GERMANIA–BEETHOVEN.md
+• MEM–GERMANIA–ART–BACH.md
+• MEM–GERMANIA–ART–BEETHOVEN.md
 • MEM–GERMANIA–BISMARCK.md
 • MEM–GERMANIA–CHARLEMAGNE.md
 • MEM–GERMANIA–EINSTEIN.md
@@ -68,7 +105,7 @@ III. REGISTERED MEM FILES — PERSONS & FIGURES
 • MEM–GERMANIA–LUTHER.md
 • MEM–GERMANIA–METTERNICH.md
 • MEM–GERMANIA–PLANCK.md
-• MEM–GERMANIA–WAGNER.md
+• MEM–GERMANIA–ART–WAGNER.md
 
 ────────────────────────────────────────────────────────────
 IV. REGISTERED MEM FILES — EMPERORS / REGIMES
@@ -83,7 +120,9 @@ IV. REGISTERED MEM FILES — EMPERORS / REGIMES
 ────────────────────────────────────────────────────────────
 V. REGISTERED MEM FILES — HISTORIANS / AUTHORS (LENS-SPECIFIC)
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–CLAUSEWITZ.md
+• MEM–GERMANIA–HIST–CLAUSEWITZ.md
+• MEM–GERMANIA–HIST–RANKE.md
+• MEM–GERMANIA–HIST–SCHLIEMANN.md
 
 ────────────────────────────────────────────────────────────
 VI. REGISTERED MEM FILES — EXTERNAL CIVILIZATIONS (LENS-SPECIFIC)
@@ -105,11 +144,13 @@ VI. REGISTERED MEM FILES — EXTERNAL CIVILIZATIONS (LENS-SPECIFIC)
 ────────────────────────────────────────────────────────────
 VII. REGISTERED MEM FILES — LITERATURE / PHILOSOPHY
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–GOETHE.md
-• MEM–GERMANIA–KANT.md
-• MEM–GERMANIA–HEGEL.md
-• MEM–GERMANIA–NIETZSCHE.md
-• MEM–GERMANIA–MARX.md
+• MEM–GERMANIA–LIT–GOETHE.md
+• MEM–GERMANIA–LIT–KANT.md
+• MEM–GERMANIA–LIT–HEGEL.md
+• MEM–GERMANIA–LIT–NIETZSCHE.md
+• MEM–GERMANIA–LIT–MARX.md
+• MEM–GERMANIA–LIT–SCHOPENHAUER.md
+• MEM–GERMANIA–LIT–SCHILLER.md
 
 ────────────────────────────────────────────────────────────
 VIII. REGISTERED MEM FILES — INSTITUTIONS & CIVIL STRUCTURES
@@ -173,7 +214,7 @@ XIV. INDEX PARITY & MIRROR STATUS
 Mirror Targets:
 • CIV–CORE–GERMANIA — present
 • CIV–SCHOLAR–GERMANIA — present
-• ARC–GERMANIA — not present
+• ARC–GERMANIA — present
 
 ────────────────────────────────────────────────────────────
 XV. CANONICAL LOCK NOTICE
@@ -184,8 +225,8 @@ Future versions may add entries only; section order is fixed.
 ────────────────────────────────────────────────────────────
 XVI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
-ARC–GERMANIA is not defined in this directory.
+• CIV–ARC–GERMANIA — v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–GERMANIA — v1.9
+END OF FILE — CIV–INDEX–GERMANIA — v1.13
 ────────────────────────────────────────────────────────────

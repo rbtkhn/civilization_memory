@@ -10,14 +10,14 @@ Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
 Supersedes: CIV–SCHOLAR–PROTOCOL v2.0.1
-Upgrade Type: ADDITIVE · TEMPLATE v2.3 ALIGNMENT
-Compatibility: CIV–SCHOLAR–TEMPLATE v2.3 · CIV–CORE–TEMPLATE v2.0
+Upgrade Type: ADDITIVE · TEMPLATE v2.5 ALIGNMENT
+Compatibility: CIV–SCHOLAR–TEMPLATE v2.5 · CIV–CORE–TEMPLATE v2.0
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.1) — TEMPLATE v2.3 ALIGNMENT
+UPGRADE NOTE (v2.1) — TEMPLATE v2.5 ALIGNMENT
 ────────────────────────────────────────────────────────────
-This version aligns CIV–SCHOLAR–PROTOCOL with CIV–SCHOLAR–TEMPLATE v2.3.
+This version aligns CIV–SCHOLAR–PROTOCOL with CIV–SCHOLAR–TEMPLATE v2.5.
 
 v2.1 introduces the following ADDITIVE changes:
 

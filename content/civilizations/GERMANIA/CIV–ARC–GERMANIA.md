@@ -1,32 +1,13 @@
-CIV–ARC–[CIVILIZATION] — v2.7
+CIV–ARC–GERMANIA — v1.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–[CIVILIZATION] v2.0
-Upgrade Type: SIMPLIFICATION + NAMESPACE ALIGNMENT
+Supersedes: N/A (new file)
+Upgrade Type: NEW FILE · AUTHOR ADMISSIBILITY REGISTER
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.7) — SIMPLIFICATION + NAMESPACE ALIGNMENT
-────────────────────────────────────────────────────────────
-This version simplifies ARC to focus on its UNIQUE governance functions:
-
-1. AUTHOR ADMISSIBILITY — Which scholars may be quoted
-2. TEMPORAL PRECEDENCE — Ancient testimony overrides modern interpretation
-3. DISCOVERY FRAMEWORK — How to expand beyond listed authors
-
-REMOVED (now governed by CIV–MEM–TEMPLATE v2.8):
-• Quotation quantity requirements (see MEM-TEMPLATE VIII)
-• Quotation quality standards (see MEM-TEMPLATE VI: EQS)
-• Minimum word counts (see MEM-TEMPLATE VIII.A)
-
-NAMESPACE ALIGNMENT:
-• ARC temporal categories now use ARC-T-* prefix
-• See NAMESPACE–CLARIFICATION v1.0 for disambiguation
-• ARC-T categories are ORTHOGONAL to ERC evidence-role categories
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -35,15 +16,15 @@ ARC governs TWO and ONLY TWO things:
 
 1. AUTHOR ADMISSIBILITY
    Which historians, chroniclers, and scholars may be quoted
-   for a given civilization.
+   for Germania.
 
 2. TEMPORAL PRECEDENCE
    When sources conflict, earlier testimony has priority.
 
 ARC does NOT govern:
-• How much to quote (see MEM-TEMPLATE)
-• How to evaluate quote quality (see EQS in MEM-TEMPLATE)
-• Evidence role classification (see ERC in MEM-TEMPLATE)
+• How much to quote (see MEM–TEMPLATE)
+• How to evaluate quote quality (see EQS in MEM–TEMPLATE)
+• Evidence role classification (see ERC in MEM–TEMPLATE)
 
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
@@ -51,26 +32,13 @@ II. ARC-TEMPORAL CATEGORIES (ARC-T)
 Authors are classified by the HISTORICAL PERIOD in which they wrote.
 
 ARC-T-ANCIENT
-Authors from the subject civilization's classical/foundational period.
-Direct witnesses to events, institutions, and practices.
-
 ARC-T-MEDIEVAL
-Authors from the medieval transmission period.
-Continuity witnesses, not direct evidence of ancient practice.
-
 ARC-T-EARLY-MOD
-Authors from the early modern critical period (c. 1500–1900).
-Historiographic interpretation, typically out of copyright.
-
 ARC-T-MODERN
-Authors from contemporary scholarship (c. 1900–present).
-Current academic interpretation, under copyright.
 
 ────────────────────────────────────────────────────────────
 III. TEMPORAL PRECEDENCE RULE (ABSOLUTE)
 ────────────────────────────────────────────────────────────
-When sources from different periods conflict:
-
 PRECEDENCE ORDER:
 1. ARC-T-ANCIENT (highest authority)
 2. ARC-T-MEDIEVAL
@@ -80,33 +48,43 @@ PRECEDENCE ORDER:
 RULE: Later periods may CLARIFY or FRAME earlier testimony.
       Later periods may NOT OVERRIDE earlier testimony.
 
-If a modern scholar contradicts ancient testimony:
-• The ancient testimony stands
-• The contradiction must be explicitly noted
-• Resolution is NOT required
-
 ────────────────────────────────────────────────────────────
 IV. AUTHOR ADMISSIBILITY LISTS
 ────────────────────────────────────────────────────────────
-Each ARC–[CIV] instance MUST include approved author lists.
-
-FORMAT:
-
 ARC-T-ANCIENT:
-• [Author Name] — [Work(s)], [Date/Century]
-• [Author Name] — [Work(s)], [Date/Century]
+• Julius Caesar — Commentarii de Bello Gallico, 1st c. BC
+• Tacitus — Germania; Annals, 1st–2nd c. AD
+• Strabo — Geographica, 1st c. BC–1st c. AD
+• Pliny the Elder — Natural History, 1st c. AD
+• Ptolemy — Geography, 2nd c. AD
+• Cassius Dio — Roman History, 2nd–3rd c. AD
+• Ammianus Marcellinus — Res Gestae, 4th c. AD
 
 ARC-T-MEDIEVAL:
-• [Author Name] — [Work(s)], [Date/Century]
-• [Author Name] — [Work(s)], [Date/Century]
+• Einhard — Vita Karoli Magni, 9th c.
+• Widukind of Corvey — Res gestae Saxonicae, 10th c.
+• Thietmar of Merseburg — Chronicon, 11th c.
+• Adam of Bremen — Gesta Hammaburgensis, 11th c.
+• Helmold of Bosau — Chronica Slavorum, 12th c.
+• Otto of Freising — Chronica; Gesta Friderici, 12th c.
+• Saxo Grammaticus — Gesta Danorum, 12th–13th c.
+• Annals of Fulda — 9th c.
 
 ARC-T-EARLY-MOD:
-• [Author Name] ([Dates]) — [Major Work(s)]
-• [Author Name] ([Dates]) — [Major Work(s)]
+• Edward Gibbon (1737–1794) — Decline and Fall of the Roman Empire
+• Johann Gottfried Herder (1744–1803) — Ideas for the Philosophy of History of Humanity
+• Leopold von Ranke (1795–1886) — History of the Popes; German History in the Reformation
+• Jacob Burckhardt (1818–1897) — The Civilization of the Renaissance in Italy
+• Heinrich von Treitschke (1834–1896) — History of Germany in the Nineteenth Century
 
 ARC-T-MODERN:
-• [Author Name] ([Birth year]) — [Major Work(s)]
-• [Author Name] ([Birth year]) — [Major Work(s)]
+• A. J. P. Taylor (1906–1990) — The Course of German History
+• Gordon A. Craig (1913–2005) — The Germans
+• Peter H. Wilson (b. 1963) — The Holy Roman Empire
+• Christopher Clark (b. 1960) — Iron Kingdom
+• Hagen Schulze (1943–2014) — The Course of German Nationalism
+• Mary Fulbrook (b. 1951) — A Concise History of Germany
+• Volker R. Berghahn (b. 1938) — Modern Germany
 
 RULE: Only listed authors may be quoted without discovery flag.
 
@@ -125,54 +103,33 @@ DISCOVERY FLAG (REQUIRED):
 Source: [Author/Work]
 Justification: [Why this source is necessary]"
 
-Expanded discovery does NOT:
-• Add authors to the permanent canon
-• Alter temporal precedence
-• Remove the requirement to flag
-
 ────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
 ARC-T (temporal categories) and ERC (evidence role categories)
 are ORTHOGONAL classification systems.
 
-A single quotation has BOTH classifications:
-
-EXAMPLE:
-A quote from Gibbon's Decline and Fall:
-• ARC-T: ARC-T-EARLY-MOD (18th century author)
-• ERC: ERC-SECONDARY (scholarly interpretation)
-
-EXAMPLE:
-A quote from Thucydides:
-• ARC-T: ARC-T-ANCIENT (5th century BCE author)
-• ERC: ERC-PRIMARY (direct evidence from period)
-
-See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
-
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-The following are governed by CIV–MEM–TEMPLATE v2.8, NOT by ARC:
-
-• 20% verbatim quote minimum (MEM-TEMPLATE VIII)
-• Evidence Quality Standards / EQS (MEM-TEMPLATE VI)
-• Analytical content floor / 70% (MEM-TEMPLATE VIII.D)
-• Quote word counting rules (MEM-TEMPLATE VIII.D)
-• Subject-type adaptive requirements (MEM-TEMPLATE VIII.B)
-• ERC evidence-role classification (MEM-TEMPLATE V)
+Governed by CIV–MEM–TEMPLATE, NOT by ARC:
+• 20% verbatim quote minimum
+• Evidence Quality Standards / EQS
+• Analytical content floor / 70%
+• Quote word counting rules
+• Subject-type adaptive requirements
+• ERC evidence-role classification
 
 ARC determines WHO may be quoted.
-MEM-TEMPLATE determines HOW MUCH and HOW WELL.
+MEM–TEMPLATE determines HOW MUCH and HOW WELL.
 
 ────────────────────────────────────────────────────────────
 VIII. MIRRORING RULE
 ────────────────────────────────────────────────────────────
-Each ARC–[CIV] instance MUST be referenced in:
-• CIV–CORE–[CIV]
-• CIV–SCHOLAR–[CIV]
+ARC–GERMANIA must be referenced in:
+• CIV–CORE–GERMANIA
+• CIV–SCHOLAR–GERMANIA
 
-Full embedding is no longer required (deprecation of mirror rule).
 Reference by version pointer is sufficient.
 
 ────────────────────────────────────────────────────────────
@@ -181,8 +138,7 @@ IX. VERSIONING
 • Additive upgrades only for author lists
 • Temporal precedence rule is immutable
 • Discovery framework may be refined
-• Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v2.7
+END OF FILE — CIV–ARC–GERMANIA v1.0
 ────────────────────────────────────────────────────────────

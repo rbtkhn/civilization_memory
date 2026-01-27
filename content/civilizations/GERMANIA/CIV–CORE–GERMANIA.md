@@ -1,15 +1,15 @@
-CIV–CORE–GERMANIA — v1.7
+CIV–CORE–GERMANIA — v1.8
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
 Full Title: Civilizational Strategy Codex · Civilization Core Engine
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
-Version: 1.7
-Supersedes: CIV–CORE–GERMANIA v1.5
+Version: 1.8
+Supersedes: CIV–CORE–GERMANIA v1.7
 Template Version Used: CIV–CORE–TEMPLATE v2.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
-Upgrade Type: ADDITIVE (DIAGNOSTIC REFINEMENT ONLY)
+Upgrade Type: ADDITIVE (ARC REFERENCE)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Civilization Phase: PHASE II — DEVELOPMENT
 DIB Status: DEFINED · INACTIVE (Decision 0006)
@@ -19,7 +19,7 @@ Class: CIV–CORE
 Conceptual Lineage: CIV–CORE–GERMANIA v1.5 ← v1.4 ← v1.3 ← v1.2 ← v1.1 ← SCE–CIV–GERMANIA v9.x
 Source Authority: CIV–MEM–CORE v2.5 · CIV–CORE–TEMPLATE v2.0 · DIB–GERMANIA Decision 0006
 Last Update: January 2026
-WORDCOUNT: 3820
+WORDCOUNT: 1173
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -303,7 +303,13 @@ Scholar Mode consumes:
 Scholar doctrines remain epistemic unless DIB-accepted.
 
 ────────────────────────────────────────────────────────────
-XIX. SESSION HEADER (OPTIONAL)
+XIX. ACADEMIC REFERENCE CANON (ARC)
+────────────────────────────────────────────────────────────
+ARC–GERMANIA (CIV–ARC–GERMANIA v1.0) governs author admissibility
+and temporal precedence for all MEM–GERMANIA files.
+
+────────────────────────────────────────────────────────────
+XX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 
 Active Civ: GERMANIA
@@ -314,7 +320,7 @@ Exit: __ | Failure: __ | TimeAdv: __
 GRID-DE: __ | RIR-DE: __
 
 ────────────────────────────────────────────────────────────
-XX. MANDATORY VERDICT BLOCK
+XXI. MANDATORY VERDICT BLOCK
 ────────────────────────────────────────────────────────────
 
 • CTI: HIGH / MED / LOW
@@ -330,5 +336,5 @@ INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
 OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA v1.7
+END OF FILE — CIV–CORE–GERMANIA v1.8
 ────────────────────────────────────────────────────────────

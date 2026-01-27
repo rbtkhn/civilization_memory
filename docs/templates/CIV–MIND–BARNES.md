@@ -16,7 +16,7 @@ Compatibility:
 • CIV–MIND–TEMPLATE v2.5 (REQUIRED)
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY — REQUIRED)
 • CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
-• CIV–SCHOLAR–TEMPLATE v2.3 (ALIGNED)
+• CIV–SCHOLAR–TEMPLATE v2.5 (ALIGNED)
 • CIV–SCHOLAR–PROTOCOL v2.1 (ALIGNED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
@@ -386,7 +386,7 @@ Barnes follows the same pattern.
 ────────────────────────────────────────────────────────────
 III.D PHASE AWARENESS (v1.1)
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–TEMPLATE v2.3 defines three phases:
+CIV–SCHOLAR–TEMPLATE v2.5 defines three phases:
 • Phase I: Accumulation (drafting, hypothesis staging)
 • Phase II: Constraint Grammar (binding RLLs, failure-first reasoning)
 • Phase III: Snapshot (read-only archive)
@@ -410,7 +410,7 @@ Barnes catalyst supports Phase II requirements by surfacing:
 ────────────────────────────────────────────────────────────
 III.E LAYER AWARENESS (v1.1)
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–TEMPLATE v2.3 defines two layers:
+CIV–SCHOLAR–TEMPLATE v2.5 defines two layers:
 • CANONICAL LAYER: MEM-sourced, binding permitted
 • EPHEMERAL LAYER: CEO-sourced, no binding, provisional only
 

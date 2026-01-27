@@ -83,10 +83,11 @@ GERMANIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–GERMANIA        │ v2.1    │ Active        │
-│ CIV–INDEX–GERMANIA          │ v1.9    │ Active        │
-│ CIV–CORE–GERMANIA           │ v1.7    │ Active        │
+│ CIV–SCHOLAR–GERMANIA        │ v2.2    │ Active        │
+│ CIV–INDEX–GERMANIA          │ v1.13   │ Active        │
+│ CIV–CORE–GERMANIA           │ v1.8    │ Active        │
 │ CIV–DOCTRINE–GERMANIA       │ v1.3    │ Active        │
+│ CIV–ARC–GERMANIA            │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -143,10 +144,16 @@ IV. VERSION HISTORY (RECENT)
 2026-01-27:
 • CMC–BOOTSTRAP: v2.6 → v2.7 (quick start section, bindings sync)
 • VERSION–MANIFEST: CIV–SCHOLAR–TEMPLATE v2.5 binding
-• GERMANIA: CIV–INDEX–GERMANIA v1.8 → v1.9
+• GERMANIA: CIV–INDEX–GERMANIA v1.12 → v1.13 (LIT MEM added)
 • GERMANIA: MEM–GERMANIA–GEO–CARPATHIANS v2.0 (new file)
 • GERMANIA: CIV–DOCTRINE–GERMANIA v1.2 → v1.3 (Doctrine 06 added)
-• GERMANIA: CIV–SCHOLAR–GERMANIA v2.0 → v2.1 (SYNTHESIS 0006 added)
+• GERMANIA: CIV–SCHOLAR–GERMANIA v2.1 → v2.2 (ARC reference)
+• GERMANIA: CIV–CORE–GERMANIA v1.7 → v1.8 (ARC reference)
+• GERMANIA: CIV–ARC–GERMANIA v1.0 (new file)
+• GERMANIA: MEM–GERMANIA–HIST–RANKE v2.0 (new file)
+• GERMANIA: MEM–GERMANIA–HIST–SCHLIEMANN v2.0 (new file)
+• GERMANIA: MEM–GERMANIA–LIT–SCHOPENHAUER v2.0 (new file)
+• GERMANIA: MEM–GERMANIA–LIT–SCHILLER v2.0 (new file)
 
 2026-01-26:
 • CMC–BOOTSTRAP: v1.1 → v2.5 (aligned with Barnes v2.5 features)

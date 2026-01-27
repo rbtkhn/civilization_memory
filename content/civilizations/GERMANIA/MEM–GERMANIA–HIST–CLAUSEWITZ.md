@@ -1,4 +1,4 @@
-MEM–GERMANIA–CLAUSEWITZ
+MEM–GERMANIA–HIST–CLAUSEWITZ
 Status: LOCKED
 Version: 1.0
 Civilization: GERMANIA
@@ -163,5 +163,5 @@ Secondary:
 • Christopher Bassford  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–LITERATURE–CLAUSEWITZ v1.0
+END OF FILE — MEM–GERMANIA–HIST–CLAUSEWITZ v1.0
 ────────────────────────────────────────────────────────────

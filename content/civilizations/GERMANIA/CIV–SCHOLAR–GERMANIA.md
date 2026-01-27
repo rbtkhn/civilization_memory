@@ -1,13 +1,13 @@
-CIV–SCHOLAR–GERMANIA — v2.1
+CIV–SCHOLAR–GERMANIA — v2.2
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.1
-Supersedes: CIV–SCHOLAR–GERMANIA v2.0
-Upgrade Type: ADDITIVE · DOCTRINE HARVEST (RLL–0006)
+Version: 2.2
+Supersedes: CIV–SCHOLAR–GERMANIA v2.1
+Upgrade Type: ADDITIVE · ARC REFERENCE
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
@@ -21,7 +21,7 @@ Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • CIV–MEM–CORE v2.5
-• ARC–GERMANIA (Pinned)
+• CIV–ARC–GERMANIA v1.0 (Pinned)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2 → v2.0) — TEMPLATE v2.5 COMPLIANCE
@@ -623,5 +623,5 @@ XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.1 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANIA v2.2 (PHASE II · TEMPLATE v2.5 COMPLIANT)
 ────────────────────────────────────────────────────────────

@@ -1,4 +1,4 @@
-MEM–GERMANIA–MARX — v1.0
+MEM–GERMANIA–LIT–MARX — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: GERMANIA
@@ -133,5 +133,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–MARX — v1.0
+END OF FILE — MEM–GERMANIA–LIT–MARX — v1.0
 ────────────────────────────────────────────────────────────
