@@ -1,18 +1,27 @@
-CIV–ARC–ROME — v2.2
+CIV–ARC–ROME — v2.3
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–ROME v2.1
-Upgrade Type: ADDITIVE · DURANT REGISTRATION
+Supersedes: CIV–ARC–ROME v2.2
+Upgrade Type: ADDITIVE · ISAACSON REGISTRATION
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.3) — ISAACSON REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers Walter Isaacson as approved ARC-T-MODERN author.
+
+ADDITIONS:
+• Walter Isaacson (b. 1952) added to ARC-T-MODERN (Biography)
+  - *Leonardo da Vinci* (2017) — Primary source for MEM–ROME–ITALY–ART–LEONARDO
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2) — DURANT REGISTRATION
 ────────────────────────────────────────────────────────────
-This version registers Will Durant as approved ARC-T-MODERN author.
+Registered Will Durant as approved ARC-T-MODERN author.
 
 AUDIT FINDING:
 Durant cited in 38 ROME files (136 individual citations) but was
@@ -250,6 +259,10 @@ Italian Renaissance / Roman Afterlife:
   The Borgias: Power and Fortune (2019)
 • Christopher Hibbert (1924–2008) — The House of Medici, The Borgias and Their Enemies
 • Sarah Bradford (b. 1938) — Cesare Borgia: His Life and Times
+
+Renaissance Biography:
+• Walter Isaacson (b. 1952) — *Leonardo da Vinci* (2017)
+  Function: Biographical synthesis, cross-disciplinary genius thesis
 
 ────────────────────────────────────────────────────────────
 VIII. ORTHOGONALITY WITH ERC

@@ -1,9 +1,10 @@
-CIV–INDEX–ROME — v2.2
+CIV–INDEX–ROME — v2.4
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.2
+Version: 2.4
+Supersedes: CIV–INDEX–ROME v2.3
 Supersedes: CIV–INDEX–ROME v2.1
 Upgrade Type: ADDITIVE · FULL DIRECTORY RECONCILIATION
 Civilization: ROME
@@ -226,14 +227,18 @@ F) GREEK WORLD
 • MEM–ROME–GREEK–PHILIP–II.md
 • MEM–ROME–GREEK–SPARTA.md
 
-G) LITERATURE / PHILOSOPHY
+G) LITERATURE / PHILOSOPHY / ART
 • MEM–ROME–GREEK–LIT–ARISTOTLE.md
 • MEM–ROME–GREEK–LIT–HOMER.md
 • MEM–ROME–GREEK–LIT–PLATO.md
 • MEM–ROME–GREEK–LIT–SOCRATES.md
 • MEM–ROME–GREEK–LIT–SOPHOCLES.md
+• MEM–ROME–ITALY–ART–LEONARDO.md
+• MEM–ROME–ITALY–ART–MICHELANGELO.md
+• MEM–ROME–ITALY–LIT–BOCCACCIO.md
 • MEM–ROME–ITALY–LIT–DANTE.md
 • MEM–ROME–ITALY–LIT–MACHIAVELLI.md
+• MEM–ROME–ITALY–LIT–PETRARCH.md
 • MEM–ROME–LIT–BOETHIUS.md
 • MEM–ROME–LIT–LUCRETIUS.md
 • MEM–ROME–LIT–SENECA.md
@@ -291,6 +296,7 @@ L) ITALY & AFTERLIFE
 • MEM–ROME–ITALY–MILAN.md
 • MEM–ROME–ITALY–PISA.md
 • MEM–ROME–ITALY–RENAISSANCE.md
+• MEM–ROME–ITALY–SAVONAROLA.md
 • MEM–ROME–ITALY–VENICE.md
 
 M) SPAIN & IBERIA
@@ -411,7 +417,7 @@ Changes require:
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~2,600
-TOTAL REGISTERED FILES: One hundred ninety-four (194) MEM–ROME OBJECTS
+TOTAL REGISTERED FILES: One hundred ninety-nine (199) MEM–ROME OBJECTS
 
 Category Breakdown:
 • A) GEO: 27 files
@@ -420,15 +426,15 @@ Category Breakdown:
 • D) PERSON: 13 files
 • E) HIST: 16 files
 • F) GREEK WORLD: 5 files
-• G) LITERATURE / PHILOSOPHY: 11 files
+• G) LITERATURE / PHILOSOPHY / ART: 15 files (+2: Leonardo, Michelangelo)
 • H) INSTITUTIONS & CITIES: 18 files
 • I) PAPACY: 3 files
 • J) RELIGION: 4 files
 • K) GEOGRAPHY & SPATIAL CONTROL: 7 files
-• L) ITALY & AFTERLIFE: 12 files
+• L) ITALY & AFTERLIFE: 13 files
 • M) SPAIN & IBERIA: 10 files
 • N) SUCCESSOR CIVILIZATIONS & RIVALS: 7 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v2.2
+END OF FILE — CIV–INDEX–ROME v2.4
 ────────────────────────────────────────────────────────────

@@ -25,21 +25,27 @@ UPGRADE NOTE (v2.6) — GOVERNANCE STRUCTURAL ANALYSIS + STRATHERN
 This version records Mearsheimer structural probes applied to CMC governance
 files and adds Paul Strathern to approved Italian Renaissance sources.
 
-NEW ENTRIES (6):
+NEW ENTRIES (9):
 • ENTRY 0058: ARC governance as epistemic balance of power (Mearsheimer)
 • ENTRY 0059: CIV–MEM–CORE as constitutional knowledge structure (Mearsheimer)
 • ENTRY 0060: CMC–BOOTSTRAP as quick-reaction governance system (Mearsheimer)
 • ENTRY 0061: Governance liability structure (Barnes probe)
 • ENTRY 0062: Governance legitimacy grammar (Mercouris response)
 • ENTRY 0063: Succession filtering thesis (Mearsheimer adjudication)
+• ENTRY 0064: Petrarch as conscious revivalist (Durant Renaissance)
+• ENTRY 0065: Boccaccio as vernacular infrastructure (Durant Renaissance)
+• ENTRY 0066: Savonarola as counter-Renaissance (Durant Renaissance)
 
-NEW SYNTHESES (6):
+NEW SYNTHESES (9):
 • SYNTHESIS 0043: ARC as Epistemic Balance of Power
 • SYNTHESIS 0044: CIV–MEM–CORE as Constitutional Structure
 • SYNTHESIS 0045: CMC–BOOTSTRAP as Quick-Reaction Governance
 • SYNTHESIS 0046: Governance Liability Structure (Barnes)
 • SYNTHESIS 0047: Governance Legitimacy Grammar (Mercouris)
 • SYNTHESIS 0048: Succession Filtering Thesis (TRI-FRAME)
+• SYNTHESIS 0049: Petrarch as Conscious Revival
+• SYNTHESIS 0050: Boccaccio as Vernacular Infrastructure
+• SYNTHESIS 0051: Savonarola as Counter-Renaissance
 
 KEY THESIS — STRUCTURAL REALISM APPLIED TO KNOWLEDGE GOVERNANCE:
 CMC governance files encode balance-of-power logic:
@@ -1085,6 +1091,51 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN (PROPOSED HEURISTIC H-GOVERNANCE-01)
 
+ENTRY 0064
+Source: MEM–ROME–ITALY–LIT–PETRARCH v1.0 (DURANT INTEGRATION)
+Ingest Type: Literary / Civilizational Recovery
+Primary Belief Extracted:
+• Petrarch is Rome's first conscious revivalist — the figure who made
+  antiquity a deliberate program rather than continuous tradition. Key
+  insights: (1) The Renaissance begins as mourning for a lost world;
+  (2) Coronation as Poet Laureate (1341) was revival as theater;
+  (3) Cicero as model created the humanist method; (4) Latin sought
+  immortality but vernacular achieved it; (5) Cultural revival precedes
+  political revival. Durant: "No poet since antiquity had received such
+  an honor. Petrarch made himself the symbol of a new age."
+Belief Status:
+• UNFROZEN (DURANT RENAISSANCE INTEGRATION)
+
+ENTRY 0065
+Source: MEM–ROME–ITALY–LIT–BOCCACCIO v1.0 (DURANT INTEGRATION)
+Ingest Type: Literary / Vernacular Infrastructure
+Primary Belief Extracted:
+• Boccaccio is Rome's vernacular bridge — he translated humanist ideals
+  into Italian prose and made classical learning accessible. Key insights:
+  (1) The *Decameron* is survival through narrative — plague as frame;
+  (2) Manuscript recovery requires organization, not just admiration;
+  (3) Naples formed the writer, Florence disciplined the scholar;
+  (4) Boccaccio built what Petrarch dreamed; (5) Encyclopedias are
+  transmission infrastructure. Durant: "Naples gave Boccaccio what
+  Florence could not — the graces of a court."
+Belief Status:
+• UNFROZEN (DURANT RENAISSANCE INTEGRATION)
+
+ENTRY 0066
+Source: MEM–ROME–ITALY–SAVONAROLA v1.0 (DURANT INTEGRATION)
+Ingest Type: Political / Counter-Renaissance
+Primary Belief Extracted:
+• Savonarola is the counter-Renaissance within the Renaissance — the
+  Dominican friar who proved moral authority can seize power but cannot
+  keep it without arms. Key insights: (1) Prophecy is power with an
+  expiration date; (2) Bonfire of the Vanities (1497) was cultural
+  revolution; (3) Machiavelli's "unarmed prophets fail" derives from
+  Savonarola; (4) Theocracy is unstable without coercion; (5) The
+  Renaissance was not culturally unanimous. Durant: "Lorenzo had made
+  Florence the Athens of Italy. Savonarola proposed to make it Jerusalem."
+Belief Status:
+• UNFROZEN (DURANT RENAISSANCE INTEGRATION)
+
 ────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -1129,6 +1180,9 @@ SYNTHESIS 0045: CMC–BOOTSTRAP as Quick-Reaction Governance (mode separation pr
 SYNTHESIS 0046: Governance Liability Structure (Barnes: detection without prevention) → CANDIDATE
 SYNTHESIS 0047: Governance Legitimacy Grammar (Mercouris: defection produces non-canonical output) → CANDIDATE
 SYNTHESIS 0048: Succession Filtering Thesis (Mearsheimer: enforcement through inheritance) → CANDIDATE
+SYNTHESIS 0049: Petrarch as Conscious Revival (Renaissance begins as mourning) → CANDIDATE
+SYNTHESIS 0050: Boccaccio as Vernacular Infrastructure (prose carries civilization) → CANDIDATE
+SYNTHESIS 0051: Savonarola as Counter-Renaissance (unarmed prophets fail) → CANDIDATE
 
 ────────────────────────────────────────────────────────────
 IV.A PROPOSED RECURSIVE LEARNING LAWS (RLLs) — PENDING AUTHORIZATION
