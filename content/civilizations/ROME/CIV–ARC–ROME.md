@@ -1,19 +1,34 @@
-CIV–ARC–ROME — v2.1
+CIV–ARC–ROME — v2.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–ROME v2.0
-Upgrade Type: ADDITIVE · STRATHERN INTEGRATION
+Supersedes: CIV–ARC–ROME v2.1
+Upgrade Type: ADDITIVE · DURANT REGISTRATION
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.2) — DURANT REGISTRATION
+────────────────────────────────────────────────────────────
+This version registers Will Durant as approved ARC-T-MODERN author.
+
+AUDIT FINDING:
+Durant cited in 38 ROME files (136 individual citations) but was
+never registered in ARC. This version corrects the gap.
+
+ADDITIONS:
+• Will Durant (1885–1981) added to ARC-T-MODERN (Civilizational Synthesis)
+  - *The Life of Greece* (Vol. 2, 1939) — Greek history and philosophy
+  - *Caesar and Christ* (Vol. 3, 1944) — Roman Republic through Constantine
+  - *The Age of Faith* (Vol. 4, 1950) — Byzantine, Islamic, Medieval
+  - *The Renaissance* (Vol. 5, 1953) — Italian Renaissance
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1) — STRATHERN INTEGRATION
 ────────────────────────────────────────────────────────────
-This version adds Paul Strathern to ARC-T-MODERN for Italian
-Renaissance materials.
+Added Paul Strathern to ARC-T-MODERN for Italian Renaissance materials.
 
 ADDITIONS:
 • Paul Strathern added to ARC-T-MODERN (Italian Renaissance)
@@ -22,8 +37,6 @@ ADDITIONS:
   - *The Spirit of Venice* (2012)
   - *The Venetians: A New History* (2013)
   - *The Borgias: Power and Fortune* (2019)
-
-All other sections unchanged from v2.0.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -224,6 +237,12 @@ Military History:
 
 Black Sea/Pontus:
 • Duane W. Roller — Empire of the Black Sea
+
+Civilizational Synthesis:
+• Will Durant (1885–1981) — *The Story of Civilization* (11 vols., 1935–1975)
+  Relevant to ROME: *The Life of Greece* (1939), *Caesar and Christ* (1944),
+  *The Age of Faith* (1950), *The Renaissance* (1953)
+  Function: Narrative synthesis, interpretive framing, civilizational context
 
 Italian Renaissance / Roman Afterlife:
 • Paul Strathern (b. 1940) — The Medici: Godfathers of the Renaissance (2003),
