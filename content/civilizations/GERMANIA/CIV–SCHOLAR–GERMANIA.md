@@ -1,26 +1,26 @@
-CIV–SCHOLAR–GERMANIA — v2.0
+CIV–SCHOLAR–GERMANIA — v2.1
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.0
-Supersedes: CIV–SCHOLAR–GERMANIA v1.2
-Upgrade Type: MAJOR · TEMPLATE v2.5 COMPLIANCE
-Activation State: ACTIVE (READ-ONLY)
+Status: ACTIVE · CANONICAL · WRITE-LOCKED
+Version: 2.1
+Supersedes: CIV–SCHOLAR–GERMANIA v2.0
+Upgrade Type: ADDITIVE · DOCTRINE HARVEST (RLL–0006)
+Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
-Lock Level: TOTAL (no autonomous learning)
+Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: January 2026
-Word Count: ~6,800
+Word Count: 2922
 
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
-• CIV–MEM–CORE v2.0+
+• CIV–MEM–CORE v2.5
 • ARC–GERMANIA (Pinned)
 
 ────────────────────────────────────────────────────────────
@@ -389,6 +389,15 @@ Outcome:
   catastrophe, regardless of competence.
 Status: FROZEN → RLL–GERMANIA–0005
 
+SYNTHESIS 0006 (GEO–MEM CLUSTER)
+Outcome:
+• Germania’s stability depends on concentrated corridor depth
+  (Rhine-type geometry). Dispersed corridor reach (Danube/Baltic/Atlantic)
+  dilutes force density, externalizes liability, and makes access
+  conditional. Substituting reach for depth produces exposure without
+  commensurate authority.
+Status: FROZEN → RLL–GERMANIA–0006
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
@@ -445,6 +454,21 @@ RLL–GERMANIA–0005 — Mandatory Closure Law
   **Barnes derivation**: Liability analysis; stopping rules as liability
   limitation mechanisms; open-ended power as unlimited liability exposure.
   Source: SYNTHESIS 0005 (ENTRY 0008–0009)
+  Status: BOUND
+
+RLL–GERMANIA–0006 — Corridor Depth vs Dispersed Reach Constraint
+→ Germania’s stability requires concentrated corridor depth (Rhine-type geometry)
+  where authority/liability remain co-located and force density is high.
+  Dispersed corridor reach (Danube/Baltic/Atlantic geometries) dilutes force
+  ratios, externalizes liability, and makes access conditional. Substituting
+  dispersed reach for concentrated depth produces exposure without commensurate
+  authority.
+  **Cross-frame derivation**: Mercouris (authority–liability congruence),
+  Mearsheimer (concentration vs dispersion).
+  Evidence: MEM–GERMANIA–GEO–RHINE; MEM–GERMANIA–GEO–DANUBE;
+  MEM–GERMANIA–GEO–BALTIC; MEM–GERMANIA–GEO–ATLANTIC;
+  MEM–GERMANIA–GEO–ALPS (limit structure: reinforces depth retention by
+  penalizing southward projection and corridor dilution)
   Status: BOUND
 
 All listed RLLs are ACTIVE and BOUND.
@@ -599,5 +623,5 @@ XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.0 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANIA v2.1 (PHASE II · TEMPLATE v2.5 COMPLIANT)
 ────────────────────────────────────────────────────────────

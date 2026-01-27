@@ -1,49 +1,70 @@
-CIV–DOCTRINE–GERMANIA — v1.1
+CIV–DOCTRINE–GERMANIA — v1.3
 
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
 Civilization: GERMANIA
-Class: CIV–DOCTRINE (Doctrine Registry)
-Source Authority: CIV–MEM–CORE → CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → CIV–CORE–GERMANIA → DIB–GERMANIA
-Compatibility: CIV–CORE–GERMANIA v1.6+ (Post-Scholar Alignment)
+Class: CIV–DOCTRINE
+Source Authority: DIB–GERMANIA
+Compatibility: CIV–CORE–GERMANIA v1.7+
 Last Update: January 2026
-Word Count: ~1,060
+Word Count: 938
+
+Derived from: CIV–DOCTRINE–TEMPLATE v2.1
+Supersedes: CIV–DOCTRINE–GERMANIA v1.2
+Upgrade Type: ADDITIVE · NEW DOCTRINE REGISTRATION
 
 ────────────────────────────────────────────────────────────
-I. PURPOSE & AUTHORITY
+I. PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-This file is the exclusive registry of accepted Germanic
-civilizational doctrines.
+This file is the exclusive registry of accepted Germanic doctrines.
 
 It contains:
 • Doctrines explicitly accepted into CIV–CORE–GERMANIA
 • Definitions suitable for direct CIV–CORE citation
 • Binding constraints only
-• No learning chronology
-• No provisional syntheses
-• No deferred or rejected doctrines
 
 This file:
 • Does NOT learn
 • Does NOT synthesize
 • Does NOT evolve autonomously
 
-Authority Flow (Canonical):
-CIV–MEM–CORE → CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit →
-CIV–CORE–GERMANIA → DIB–GERMANIA → CIV–DOCTRINE–GERMANIA
-
 Only doctrines listed here may be treated as authoritative.
 
 ────────────────────────────────────────────────────────────
-II. DOCTRINE REGISTRY (AUTHORITATIVE)
+II. AUTHORITY CHAIN (MANDATORY)
+────────────────────────────────────────────────────────────
+CIV–MEM–CORE
+→ CIV–CORE–GERMANIA
+→ DIB–GERMANIA (Explicit Acceptance)
+→ CIV–DOCTRINE–GERMANIA
+
+────────────────────────────────────────────────────────────
+III. DOCTRINE ADMISSIBILITY RULES
+────────────────────────────────────────────────────────────
+A doctrine MAY be entered here ONLY if:
+1) It originates from a frozen synthesis in CIV–SCHOLAR–GERMANIA
+2) The synthesis was explicitly frozen by command
+3) The doctrine was explicitly accepted by DIB–GERMANIA
+4) A new doctrine version is assigned
+
+Prohibited:
+• Draft doctrines
+• Candidate beliefs
+• Analytical hypotheses
+• Scholar commentary
+• Historical narration
+
+────────────────────────────────────────────────────────────
+IV. DOCTRINE REGISTRY (AUTHORITATIVE)
 ────────────────────────────────────────────────────────────
 
 DOCTRINE 01
 Name: COMPETENCE-DERIVED LEGITIMACY
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–CORE–GERMANIA (Foundational)
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0001)
 
 Definition:
 Germanic authority persists only while institutions deliver
@@ -65,7 +86,8 @@ Hard Constraints:
 DOCTRINE 02
 Name: REPLACEMENT BEFORE EXPANSION
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANAD
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0002)
 
 Definition:
 Germania generates power by replacing personnel, materiel, and
@@ -88,7 +110,8 @@ DOCTRINE 03
 Name: SEQUENCED PRECISION DOCTRINE
 (Endurance → Precision → Closure)
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–CORE–GERMANIA v1.6 (Consolidated Post-Scholar)
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0003)
 
 Definition:
 Germania may employ decisive precision only after endurance is secured
@@ -110,7 +133,8 @@ Hard Constraints:
 DOCTRINE 04
 Name: DISCIPLINE INVERSION FAILURE
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–GERMANIA v1.2 → Alignment Audit → DIB ACCEPTANAD
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0004)
 
 Definition:
 When operational excellence becomes uncoupled from political restraint,
@@ -132,7 +156,8 @@ Hard Constraints:
 DOCTRINE 05
 Name: EXIT-BUILDING META-DOCTRINE
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–CORE–GERMANIA (Foundational)
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0005)
 
 Definition:
 Germania preserves survivability through silent withdrawal mechanisms
@@ -150,7 +175,31 @@ Hard Constraints:
 • Involuntary exit signals systemic breach
 
 ────────────────────────────────────────────────────────────
-III. EXPLICITLY EXCLUDED MATERIAL
+
+DOCTRINE 06
+Name: CORRIDOR DEPTH OVER DISPERSED REACH
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0006)
+
+Definition:
+Germania’s stability requires concentrated corridor depth where
+authority and liability remain co-located. Dispersed corridor reach
+dilutes force density, externalizes liability, and creates exposure
+without commensurate authority.
+
+Operational Meaning:
+• Depth corridors are authoritative; dispersed corridors are conditional
+• Reach cannot substitute for depth
+• Authority must remain co-located with force density
+
+Hard Constraints:
+• Dispersed reach cannot replace corridor depth
+• Expansion that trades depth for reach is illegitimate
+• Externalized liability signals structural exposure
+
+────────────────────────────────────────────────────────────
+V. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
 The following are NOT included in this registry:
 • Deferred doctrines
@@ -158,10 +207,20 @@ The following are NOT included in this registry:
 • Historical commentary or case analysis
 • Non-binding heuristics
 
-Only doctrines explicitly accepted via DIB–GERMANIA appear above.
+No doctrines have been rejected at this stage.
 
 ────────────────────────────────────────────────────────────
-IV. CITATION RULES
+VI. DOCTRINE MIRRORING REQUIREMENT (MANDATORY)
+────────────────────────────────────────────────────────────
+This doctrine registry must be mirrored verbatim into:
+• CIV–CORE–GERMANIA
+• CIV–SCHOLAR–GERMANIA
+
+Mirroring is declarative only. CIV–DOCTRINE–GERMANIA remains
+the single source of truth for doctrine definitions.
+
+────────────────────────────────────────────────────────────
+VII. CITATION RULES
 ────────────────────────────────────────────────────────────
 CIV–CORE–GERMANIA may reference doctrines from this file only.
 
@@ -173,7 +232,7 @@ Required citation format:
 Silent doctrine usage is prohibited.
 
 ────────────────────────────────────────────────────────────
-V. VERSIONING & LOCK
+VIII. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
 This file is LOCKED.
 
@@ -181,11 +240,44 @@ This file is LOCKED.
 • Modifications require explicit version increment
 • Deletions are forbidden
 
-Supersedes:
-• CIV–DOCTRINE–GERMANIA v1.0
+────────────────────────────────────────────────────────────
+IX. TEMPLATE INHERITANCE & CONSTRAINTS
+────────────────────────────────────────────────────────────
+ENFORCES:
+• Structural uniformity across civilizations
+• Explicit authority provenance
+• Downstream-only doctrinal flow
+
+FORBIDS:
+• Silent doctrine insertion
+• Scholar authority bleed
+• Historical narrative
+• Analytical reasoning
+• Predictive usage
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–GERMANIA v1.1
+X. VERSIONING RULES
+────────────────────────────────────────────────────────────
+• Doctrine numbers are immutable
+• Doctrine text is immutable once LOCKED
+• Modification requires a new doctrine version
+• Deletions are forbidden
+• Reordering is forbidden
 
-⸻
+Supersession is additive only.
+
+────────────────────────────────────────────────────────────
+XI. VERSIONING & CANONICAL STATUS
+────────────────────────────────────────────────────────────
+This file is CANONICAL.
+
+Future versions:
+• May clarify language
+• May add governance safeguards
+• May NOT remove sections
+• May NOT weaken authority chain
+• May NOT alter admissibility rules
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–DOCTRINE–GERMANIA v1.3
 

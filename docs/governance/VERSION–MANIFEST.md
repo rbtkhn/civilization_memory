@@ -4,7 +4,7 @@ Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-26
+Last Updated: 2026-01-27
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -27,7 +27,7 @@ Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
 • CIV–MEM–CORE: v2.5
-• CMC–BOOTSTRAP: v2.5
+• CMC–BOOTSTRAP: v2.7
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
@@ -39,7 +39,7 @@ TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v1.8
-• CIV–SCHOLAR–TEMPLATE: v2.4
+• CIV–SCHOLAR–TEMPLATE: v2.5
 • CIV–SCHOLAR–PROTOCOL: v2.1
 • CIV–DOCTRINE–TEMPLATE: v2.1
 • CIV–ARC–TEMPLATE: v2.7
@@ -83,10 +83,10 @@ GERMANIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–GERMANIA        │ v1.2    │ Active        │
-│ CIV–INDEX–GERMANIA          │ v1.7    │ Active        │
+│ CIV–SCHOLAR–GERMANIA        │ v2.1    │ Active        │
+│ CIV–INDEX–GERMANIA          │ v1.9    │ Active        │
 │ CIV–CORE–GERMANIA           │ v1.7    │ Active        │
-│ CIV–DOCTRINE–GERMANIA       │ v1.1    │ Active        │
+│ CIV–DOCTRINE–GERMANIA       │ v1.3    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -139,6 +139,14 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-27:
+• CMC–BOOTSTRAP: v2.6 → v2.7 (quick start section, bindings sync)
+• VERSION–MANIFEST: CIV–SCHOLAR–TEMPLATE v2.5 binding
+• GERMANIA: CIV–INDEX–GERMANIA v1.8 → v1.9
+• GERMANIA: MEM–GERMANIA–GEO–CARPATHIANS v2.0 (new file)
+• GERMANIA: CIV–DOCTRINE–GERMANIA v1.2 → v1.3 (Doctrine 06 added)
+• GERMANIA: CIV–SCHOLAR–GERMANIA v2.0 → v2.1 (SYNTHESIS 0006 added)
 
 2026-01-26:
 • CMC–BOOTSTRAP: v1.1 → v2.5 (aligned with Barnes v2.5 features)

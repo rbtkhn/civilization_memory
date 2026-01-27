@@ -1,19 +1,25 @@
 CIV–CORE–GERMANIA — v1.7
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
+Full Title: Civilizational Strategy Codex · Civilization Core Engine
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
 Version: 1.7
-Civilization: GERMANIA
-Class: CIV–CORE
-Compatibility: CIV / MEM Architecture
-Conceptual Lineage: CIV–CORE–GERMANIA v1.5 ← v1.4 ← v1.3 ← v1.2 ← v1.1 ← SCE–CIV–GERMANIA v9.x
+Supersedes: CIV–CORE–GERMANIA v1.5
+Template Version Used: CIV–CORE–TEMPLATE v2.0
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Upgrade Type: ADDITIVE (DIAGNOSTIC REFINEMENT ONLY)
 Lock Level: STRUCTURAL (content expandable without renumbering)
-Source Authority: CIV–MEM–CORE v1.5 · CIV–CORE–TEMPLATE v1.5 · DIB–GERMANIA Decision 0006
+Civilization Phase: PHASE II — DEVELOPMENT
+DIB Status: DEFINED · INACTIVE (Decision 0006)
+Scholar Reference Mode: READ-ONLY / DIB-GATED
+Civilization: GERMANIA
+Class: CIV–CORE
+Conceptual Lineage: CIV–CORE–GERMANIA v1.5 ← v1.4 ← v1.3 ← v1.2 ← v1.1 ← SCE–CIV–GERMANIA v9.x
+Source Authority: CIV–MEM–CORE v2.5 · CIV–CORE–TEMPLATE v2.0 · DIB–GERMANIA Decision 0006
 Last Update: January 2026
-Word Count: 3820
+WORDCOUNT: 3820
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -178,7 +184,7 @@ MANDATORY OUTPUT:
 • Social Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 • Technocratic neutrality

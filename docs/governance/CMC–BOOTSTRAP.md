@@ -1,6 +1,25 @@
-CMC–BOOTSTRAP — v2.6
+CMC–BOOTSTRAP — v2.7
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
+
+────────────────────────────────────────────────────────────
+QUICK START (MINIMAL)
+────────────────────────────────────────────────────────────
+1) Declare binding: "Bound by CMC–BOOTSTRAP v2.7"
+2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
+3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
+4) If LEARN/IMAGINE: use OGE (6 options, incl. Mearsheimer + Barnes)
+5) If a rule is unclear, expand to full governance docs
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.7)
+────────────────────────────────────────────────────────────
+This version streamlines startup, corrects bindings, and syncs manifest parity.
+
+v2.7 updates:
+• Added QUICK START section for immediate compliance
+• Updated CIV–SCHOLAR–TEMPLATE binding to v2.5
+• Clarified escalation to full governance docs
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6)
@@ -49,10 +68,10 @@ MIND PROFILES:
 
 TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
-• CIV–SCHOLAR–TEMPLATE: v2.4
+• CIV–SCHOLAR–TEMPLATE: v2.5
 • CIV–SCHOLAR–PROTOCOL: v2.1
 
-Declare: "Bound by CMC–BOOTSTRAP v2.6"
+Declare: "Bound by CMC–BOOTSTRAP v2.7"
 
 ────────────────────────────────────────────────────────────
 SCHOLAR MODE ARCHITECTURE (HARD)
@@ -272,5 +291,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v2.6 (~900 words)
+END — CMC–BOOTSTRAP — v2.7 (1263 words)
 ────────────────────────────────────────────────────────────
