@@ -24,10 +24,10 @@ This file is MUTABLE and should be updated at session end.
 II. CURRENT SESSION STATE
 ────────────────────────────────────────────────────────────
 
-Session Date: 2026-01-25 (Sunday)
-Session Focus: MIND Profile Polyphonic Refinement
-Primary Civilization: RUSSIA
-Current Mode: LEARN / WRITE
+Session Date: 2026-01-27 (Tuesday)
+Session Focus: Activate CIV–MEM–CORE and CIV–CORE–GERMANIA
+Primary Civilization: GERMANIA
+Current Mode: WRITE
 
 Active Constraints:
 • Mode Separation Law: ACTIVE
@@ -38,6 +38,12 @@ Active Constraints:
 ────────────────────────────────────────────────────────────
 III. RECENT SESSIONS
 ────────────────────────────────────────────────────────────
+
+SESSION: 2026-01-27
+Focus: CIV–MEM–CORE + CIV–CORE–GERMANIA activation
+Topics:
+• Activated CIV–MEM–CORE v2.5
+• Activated CIV–CORE–GERMANIA v1.8
 
 SESSION: 2026-01-25
 Focus: MIND profile polyphonic interaction refinement
