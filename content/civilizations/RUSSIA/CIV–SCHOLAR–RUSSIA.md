@@ -1,20 +1,20 @@
-CIV–SCHOLAR–RUSSIA — v2.5
+CIV–SCHOLAR–RUSSIA — v2.6
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.5
-Supersedes: CIV–SCHOLAR–RUSSIA v2.4
-Upgrade Type: ADDITIVE · THRESHOLD DEPTH + GEO RLL BINDING
+Version: 2.6
+Supersedes: CIV–SCHOLAR–RUSSIA v2.5
+Upgrade Type: ADDITIVE · TEMPLATE v2.5 COMPLIANCE
 Last Update: January 2026
-Word Count: ~12,700
+Word Count: ~13,200
 
 Governed by:
 • CIV–MEM–CORE v2.0+
 • CIV–MEM–TEMPLATE v2.8 (CURRENT)
-• CIV–SCHOLAR–TEMPLATE v2.4 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • ARC–RUSSIA (Pinned)
 • RLL–RUSSIA–REGISTRY (Authoritative)
@@ -91,20 +91,53 @@ All synthesis remains provisional and non-doctrinal per
 CIV–SCHOLAR–PROTOCOL v2.1.
 
 ────────────────────────────────────────────────────────────
-IV. RUSSIAN CIVILIZATIONAL AXIOMS (NON-NEGOTIABLE)
+IV. RUSSIAN CIVILIZATIONAL AXIOMS (v2.5 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
-These are **structural axioms**, not doctrines:
+These are **structural axioms**, not doctrines.
+Axioms are interpretive anchors, not predictive claims.
 
-• Authority precedes law
-• Unity precedes efficiency
-• Survival precedes legitimacy
-• Coercion precedes reform
-• Reform without coercive backing destabilizes
-• Sacral legitimacy preserves identity, not succession
-• Corridor control substitutes for institutional pluralism
-• Fragmentation invites external domination
+AXIOM RUSSIA-001: Authority precedes law.
+  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–IVAN–IV, MEM–RUSSIA–PETER
+  Scope: All governance pattern analysis
+  Limits: Does not apply to pre-Muscovite Rus
+
+AXIOM RUSSIA-002: Unity precedes efficiency.
+  Derivation: MEM–RUSSIA–TIME–OF–TROUBLES, MEM–RUSSIA–CIVIL–WAR
+  Scope: Institutional design evaluation
+  Limits: May not apply to peripheral regions under indirect rule
+
+AXIOM RUSSIA-003: Survival precedes legitimacy.
+  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–1941
+  Scope: Crisis response analysis
+  Limits: Peacetime governance may require legitimacy restoration
+
+AXIOM RUSSIA-004: Coercion precedes reform.
+  Derivation: MEM–RUSSIA–PETER, MEM–RUSSIA–STALIN, MEM–RUSSIA–IVAN–IV
+  Scope: Modernization pattern analysis
+  Limits: Does not predict reform success
+
+AXIOM RUSSIA-005: Reform without coercive backing destabilizes.
+  Derivation: MEM–RUSSIA–GORBACHEV, MEM–RUSSIA–NICHOLAS–II
+  Scope: Reform outcome prediction
+  Limits: External constraint may override (e.g., 1991)
+
+AXIOM RUSSIA-006: Sacral legitimacy preserves identity, not succession.
+  Derivation: MEM–RUSSIA–ORTHODOXY, MEM–RUSSIA–TIME–OF–TROUBLES
+  Scope: Regime transition analysis
+  Limits: Identity preservation ≠ regime survival
+
+AXIOM RUSSIA-007: Corridor control substitutes for institutional pluralism.
+  Derivation: MEM–RUSSIA–GEO–VOLGA, MEM–RUSSIA–GEO–OKA
+  Scope: Governance capacity analysis
+  Limits: Does not apply to maritime/coastal regions
+
+AXIOM RUSSIA-008: Fragmentation invites external domination.
+  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–TIME–OF–TROUBLES
+  Scope: Unity/fragmentation analysis
+  Limits: External domination may occur despite unity (1941)
 
 These axioms emerged inductively and are now enforced constraints.
+Axioms may be revised only when MEM evidence forces revision.
 
 ────────────────────────────────────────────────────────────
 V. BOUND RECURSIVE LEARNING LAWS (RLLs)
@@ -378,28 +411,105 @@ RLL–RUSSIA–0024 — Chokepoint Permanence Law
 All GEO RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
-VI. NEGATIVE CAPABILITY ZONE
+VI. NEGATIVE CAPABILITY ZONE (v2.5 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
-Scholar–Russia enforces the following exclusions:
+Scholar–Russia enforces the following exclusions.
+These record what Russia CANNOT stably achieve—not predictions, but constraints.
 
 GENERAL EXCLUSIONS:
-• Durable plural sovereignty
-• Law-first legitimacy without coercive backing
-• Decentralized succession stability
-• Reform without corridor control
-• Mass participation without identity fracture
-• Rapid modernization without coercive enforcement
+─────────────────────────
+[NCZ-RU-001] Durable plural sovereignty
+  Status: INSUFFICIENT
+  Reason: No sustained case of plural sovereignty without collapse
+  Related MEMs: MEM–RUSSIA–TIME–OF–TROUBLES, MEM–RUSSIA–CIVIL–WAR
+  Resolution Path: Would require counter-case with 50+ year duration
+
+[NCZ-RU-002] Law-first legitimacy without coercive backing
+  Status: CONTESTED
+  Reason: Gorbachev attempt failed; no alternative tested
+  Related MEMs: MEM–RUSSIA–GORBACHEV, MEM–RUSSIA–PETER
+  Resolution Path: Requires successful law-first reform case
+
+[NCZ-RU-003] Decentralized succession stability
+  Status: INSUFFICIENT
+  Reason: Succession crises recur under all regime types
+  Related MEMs: MEM–RUSSIA–TIME–OF–TROUBLES, MEM–RUSSIA–1917
+  Resolution Path: Would require stable decentralized succession
+
+[NCZ-RU-004] Reform without corridor control
+  Status: INSUFFICIENT
+  Reason: All successful reforms accompanied by corridor consolidation
+  Related MEMs: MEM–RUSSIA–PETER, MEM–RUSSIA–STALIN
+  Resolution Path: Would require successful reform without corridor
+
+[NCZ-RU-005] Mass participation without identity fracture
+  Status: CONTESTED
+  Reason: 1905, 1917, 1991 all show fracture under participation expansion
+  Related MEMs: MEM–RUSSIA–1917, MEM–RUSSIA–GORBACHEV
+  Resolution Path: Counter-case of stable mass participation needed
+
+[NCZ-RU-006] Rapid modernization without coercive enforcement
+  Status: INSUFFICIENT
+  Reason: Peter, Stalin, even partial Witte reforms required coercion
+  Related MEMs: MEM–RUSSIA–PETER, MEM–RUSSIA–STALIN
+  Resolution Path: Requires successful voluntary rapid modernization
 
 WAR-SPECIFIC EXCLUSIONS (v2.4):
-• Decisive maneuver victory against maneuver-optimized opponent
-• Short-war advantage without overwhelming local superiority
-• Coalition cohesion under extended peace
-• Victory through operational brilliance alone (requires enemy collapse)
-• War termination on Russian terms before opponent exhaustion
-• Legitimacy gain from quick, low-cost victories (sacrifice = legitimacy)
-• Stable peacetime following total victory (elite overproduction resumes)
+───────────────────────────────
+[NCZ-RU-007] Decisive maneuver victory against maneuver-optimized opponent
+  Status: INSUFFICIENT
+  Reason: No cases of maneuver victory vs. Sweden/Germany/Napoleon
+  Related MEMs: MEM–RUSSIA–WAR–POLTAVA, MEM–RUSSIA–WAR–1941
+  Resolution Path: Would require counter-case
 
-Violations require anomaly handling.
+[NCZ-RU-008] Short-war advantage without overwhelming local superiority
+  Status: INSUFFICIENT
+  Reason: Short wars favor opponents with interior lines or maneuver
+  Related MEMs: MEM–RUSSIA–WAR–CRIMEA, MEM–RUSSIA–WAR–1905
+  Resolution Path: Counter-case of successful short war needed
+
+[NCZ-RU-009] Victory through operational brilliance alone
+  Status: INSUFFICIENT
+  Reason: Russian victories require enemy collapse, not Russian triumph
+  Related MEMs: MEM–RUSSIA–WAR–1812, MEM–RUSSIA–WAR–1945
+  Resolution Path: Counter-case of decisive operational victory
+
+[NCZ-RU-010] Legitimacy gain from quick, low-cost victories
+  Status: INSUFFICIENT
+  Reason: Sacrifice = legitimacy; low-cost = low legitimacy harvest
+  Related MEMs: MEM–RUSSIA–WAR–AFGHAN, MEM–RUSSIA–WAR–CHECHNYA
+  Resolution Path: Counter-case of legitimacy from easy victory
+
+Violations require anomaly handling via Section VI.A.
+
+────────────────────────────────────────────────────────────
+VI.A ANOMALY FLAG PROTOCOL (REQUIRED · v2.5)
+────────────────────────────────────────────────────────────
+When a MEM assertion contradicts an established SCHOLAR pattern,
+this section records the anomaly per CIV–SCHOLAR–TEMPLATE v2.5.
+
+IMPLEMENTATION STATUS: ACTIVE
+
+ANOMALY REGISTRY:
+─────────────────
+(No active anomalies currently flagged.)
+
+ANOMALY FLAG FORMAT (per template):
+┌─────────────────────────────────────────────────────────────┐
+│  ANOMALY FLAG                                               │
+│  MEM: [MEM file ID]                                         │
+│  SCHOLAR Pattern: [Pattern ID — RLL or NCZ]                 │
+│  Conflict: [Description of incompatibility]                 │
+│  Resolution: PENDING / PATTERN_REVISED / MEM_CONFIRMED      │
+│  Action: [What happens next]                                │
+└─────────────────────────────────────────────────────────────┘
+
+RESOLUTION OPTIONS:
+• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
+• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
+• SCL_CREATED: Contradiction preserved, no resolution required
+
+This section will be populated as MEM/SCHOLAR conflicts are discovered.
 
 ────────────────────────────────────────────────────────────
 VII. FAILURE-FIRST INTERPRETIVE STANDARD
@@ -459,13 +569,33 @@ Governed by:
 This file enforces anomaly flagging but does not redefine protocol.
 
 ────────────────────────────────────────────────────────────
-XII. COMMUNICATION REGISTER
+XII. COMMUNICATION REGISTER (v2.5 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
-LEARN mode uses the Mercouris voice register.
+LEARN mode uses the Mercouris voice register as primary.
 
+PRIMARY VOICE:
 • Prose: history monograph
 • Tone: exploratory, disciplined
 • Finality: provisional only
+
+SECONDARY VOICE INVOCATION (v2.5 FORMALIZED):
+All voice transitions MUST use standardized markers.
+Markers MUST appear on their own line, not inline with prose.
+
+STANDARD VOICE MARKERS:
+  [LEARN MODE — BARNES CATALYST]
+  [LEARN MODE — MEARSHEIMER SHARPENING]
+  [LEARN MODE — MERCOURIS PRIMARY]
+  [LEARN MODE — TRI-FRAME SYNTHESIS]
+
+VOICE TRANSITION RULES:
+• Opening marker: Required before secondary voice content begins
+• Closing marker: Return to "[LEARN MODE — MERCOURIS PRIMARY]" after secondary
+• Nested voices: NOT permitted (one secondary at a time)
+• Secondary duration: Should be bounded, not extended
+
+Secondary voice outputs may generate RLLs with frame attribution.
+All RLLs remain subject to user authorization for binding.
 
 ────────────────────────────────────────────────────────────
 XIII. EPHEMERAL OBSERVATION LAYER
@@ -495,6 +625,14 @@ OGE categories:
 ────────────────────────────────────────────────────────────
 XV. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
+• Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance
+• Section IV: Axioms reformatted with formal derivation/scope/limits
+• Section VI: Negative Capability Zone expanded with formal NCZ format
+• Section VI.A: Anomaly Flag Protocol implementation ADDED (REQUIRED)
+• Section XII: Secondary Voice Invocation format FORMALIZED
+• All template v2.5 requirements now met
+
 v2.5 changes:
 • Amended RLL–RUSSIA–0012 with Threshold Condition
 • Integrated Oka River as internal depth floor
@@ -531,19 +669,21 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XVI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.5 is declared:
+CIV–SCHOLAR–RUSSIA v2.6 is declared:
 
 • CANONICAL
 • LOCKED
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
-• TEMPLATE-COMPLIANT
+• TEMPLATE v2.5 COMPLIANT
 • WAR MEM CALIBRATED
+• GEO MEM CALIBRATED
+• ANOMALY FLAG PROTOCOL IMPLEMENTED
 
 ────────────────────────────────────────────────────────────
 XVII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.4
+• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1
 • CIV–MEM–TEMPLATE v2.8
 
@@ -551,5 +691,5 @@ Embedded legacy mirrors are quarantined.
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v2.5
+END OF FILE — CIV–SCHOLAR–RUSSIA v2.6
 ────────────────────────────────────────────────────────────

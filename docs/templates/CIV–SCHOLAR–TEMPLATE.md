@@ -1,13 +1,48 @@
-CIV–SCHOLAR–TEMPLATE — v2.4
+CIV–SCHOLAR–TEMPLATE — v2.5
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.3
-Upgrade Type: ADDITIVE · MULTI-MIND RLL INTEGRATION
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.4
+Upgrade Type: ADDITIVE · STRUCTURAL FORMALIZATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.2+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.1+
 Last Update: January 2026
-WORDCOUNT: ~6,200
+WORDCOUNT: ~7,000
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.4 → v2.5 STRUCTURAL FORMALIZATION)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.4.
+
+v2.5 introduces the following ADDITIVE structural enhancements:
+
+• Civilizational Axiom Section (Section IV.A NEW)
+  – RECOMMENDED section for encoding civilizational first principles
+  – Enables consistent pattern application across MEMs
+  – Axioms are interpretive anchors, not predictive claims
+
+• Negative Capability Zone (Section IV.B NEW)
+  – RECOMMENDED section for explicitly recording what is NOT known
+  – Preserves uncertainty as structured information
+  – Prevents premature closure of contested questions
+
+• RLL Domain Organization strengthened (Section III)
+  – RECOMMENDED (previously OPTIONAL) when RLL count exceeds 10
+  – Standard domains: GENERAL, WAR, GEO, INST, ECON
+  – Aids retrieval and cross-civilization comparison
+
+• Secondary Voice Invocation Format formalized (Section IX)
+  – Explicit format requirement for voice transitions
+  – Marker format standardized across all SCHOLARs
+
+• Anomaly Flag Protocol enforcement note (Section VI)
+  – Clarifies that implementation is REQUIRED, not optional
+  – All Phase II SCHOLARs MUST implement if conflicts exist
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.3 → v2.4 MULTI-MIND RLL INTEGRATION)
@@ -220,20 +255,108 @@ Example:
 Attribution enables frame-appropriate application and aids
 cross-frame consistency checking.
 
-RLL DOMAIN CATEGORIZATION (NEW · v2.4 · OPTIONAL):
-Scholar files MAY organize RLLs by domain:
-• General civilizational RLLs (core patterns)
-• WAR MEM RLLs (conflict-specific constraints)
-• GEO MEM RLLs (geographic constraints)
-• [Other domain categories as needed]
+RLL DOMAIN CATEGORIZATION (v2.4 · STRENGTHENED v2.5):
+Scholar files SHOULD organize RLLs by domain when RLL count exceeds 10:
 
-Domain categorization aids retrieval and application without
-affecting RLL authority. Categorization is OPTIONAL but
-RECOMMENDED when RLL count exceeds 15.
+STANDARD DOMAINS:
+• GENERAL: Core civilizational patterns (apply across MEM types)
+• WAR: Conflict-specific constraints (military, succession)
+• GEO: Geographic constraints (borders, terrain, climate)
+• INST: Institutional constraints (governance, law, bureaucracy)
+• ECON: Economic constraints (trade, taxation, resources)
+• [Additional domains as civilization-specific needs arise]
+
+Domain categorization aids retrieval and cross-civilization comparison.
+
+CATEGORIZATION THRESHOLDS:
+• <10 RLLs: Categorization OPTIONAL
+• 10-20 RLLs: Categorization RECOMMENDED
+• >20 RLLs: Categorization REQUIRED
+
+DOMAIN HEADER FORMAT:
+  ───────────────────────────────
+  DOMAIN: [DOMAIN NAME]
+  ───────────────────────────────
+  [RLL entries follow]
+
+Domain categorization does not affect RLL authority or binding.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (HARDENED)
 ────────────────────────────────────────────────────────────
+All Scholar reasoning in Phase II MUST begin with:
+
+────────────────────────────────────────────────────────────
+IV.A CIVILIZATIONAL AXIOM SECTION (NEW · v2.5 · RECOMMENDED)
+────────────────────────────────────────────────────────────
+Scholar files SHOULD include a dedicated axiom section encoding
+the civilization's first principles.
+
+PURPOSE:
+• Axioms are NOT predictions
+• Axioms are interpretive anchors
+• Axioms enable consistent pattern application across MEMs
+• Axioms distinguish this civilization from others
+
+AXIOM CHARACTERISTICS:
+• Derived from accumulated MEM evidence
+• Binding for interpretation, not for prediction
+• May be revised only when MEM evidence forces revision
+• Must be explicitly stated, not assumed
+
+AXIOM FORMAT:
+  AXIOM [CIV]-[NUMBER]: [Statement]
+  Derivation: [MEM evidence basis]
+  Scope: [What this axiom governs]
+  Limits: [Where this axiom does NOT apply]
+
+EXAMPLE:
+  AXIOM RUSSIA-001: Authority precedes law.
+  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–IVAN–IV
+  Scope: All governance pattern analysis
+  Limits: Does not apply to pre-Muscovite Rus
+
+Axioms may generate RLLs but are themselves NOT RLLs.
+Axioms are softer than RLLs—interpretive rather than binding.
+
+────────────────────────────────────────────────────────────
+IV.B NEGATIVE CAPABILITY ZONE (NEW · v2.5 · RECOMMENDED)
+────────────────────────────────────────────────────────────
+Scholar files SHOULD include a dedicated section for recording
+what is NOT known with confidence.
+
+PURPOSE:
+• Preserves uncertainty as structured information
+• Prevents premature closure of contested questions
+• Enables future research targeting
+• Distinguishes between "unknown" and "unknowable"
+
+NEGATIVE CAPABILITY CATEGORIES:
+1. CONTESTED: Multiple valid interpretations exist
+2. INSUFFICIENT: MEM evidence is too thin for judgment
+3. BOUNDARY: Question lies at edge of civilization scope
+4. ANACHRONISM: Modern framing may distort historical reality
+
+FORMAT:
+  NEGATIVE CAPABILITY ZONE
+  ─────────────────────────
+  [NCZ-001] [Topic]: [What remains uncertain]
+    Status: CONTESTED / INSUFFICIENT / BOUNDARY / ANACHRONISM
+    Reason: [Why closure is not yet possible]
+    Related MEMs: [Files that touch this question]
+    Resolution Path: [What would resolve this, if anything]
+
+GOVERNANCE:
+• NCZ entries are NOT failures
+• NCZ entries prevent false confidence
+• NCZ entries may be resolved only by new MEM evidence
+• NCZ resolution requires explicit user authorization
+
+────────────────────────────────────────────────────────────
+IV.C FAILURE-FIRST INTERPRETIVE STANDARD (HARDENED)
+────────────────────────────────────────────────────────────
+(Formerly Section IV. Renumbered for structural clarity.)
+
 All Scholar reasoning in Phase II MUST begin with:
 
 • Collapse cases
@@ -281,9 +404,14 @@ These forms preserve tensions rather than resolve them.
 They identify what cannot work, not what should be done.
 
 ────────────────────────────────────────────────────────────
-VI. SCHOLAR ↔ MEM CONFLICT HANDLING (NEW · v2.2)
+VI. SCHOLAR ↔ MEM CONFLICT HANDLING (v2.2 · ENFORCEMENT v2.5)
 ────────────────────────────────────────────────────────────
 When SCHOLAR constraints appear to conflict with MEM facts:
+
+IMPLEMENTATION REQUIREMENT (v2.5):
+All Phase II Scholar files MUST implement the Anomaly Flag Protocol
+when conflicts between SCHOLAR patterns and MEM facts are discovered.
+This is not optional. Failure to implement constitutes a compliance gap.
 
 AUTHORITY HIERARCHY (ABSOLUTE):
 • MEM facts are AUTHORITATIVE
@@ -386,14 +514,30 @@ MEARSHEIMER SHARPENING:
 • Invocation: Explicit request or OGE selection
 • Output: Strategic constraint insights, GEO-frame RLLs
 
-VOICE TRANSITION PROTOCOL:
-• Voice transitions MUST be explicit
-• Format: "[LEARN MODE — BARNES CATALYST]" or "[MEARSHEIMER SHARPENING]"
-• Return to primary: "[LEARN MODE — MERCOURIS PRIMARY]"
-• Secondary voices supplement; they do not replace Mercouris primary
+VOICE TRANSITION PROTOCOL (FORMALIZED · v2.5):
+• Voice transitions MUST be explicit and use standardized format
+• All transitions MUST use the marker format below
+• Markers MUST appear on their own line, not inline with prose
+
+STANDARD VOICE MARKERS:
+  [LEARN MODE — BARNES CATALYST]
+  [LEARN MODE — MEARSHEIMER SHARPENING]
+  [LEARN MODE — MERCOURIS PRIMARY]
+  [LEARN MODE — TRI-FRAME SYNTHESIS]
+
+VOICE TRANSITION RULES:
+• Opening marker: Required before secondary voice content begins
+• Closing marker: Return to "[LEARN MODE — MERCOURIS PRIMARY]" after secondary
+• Nested voices: NOT permitted (one secondary at a time)
+• Secondary duration: Should be bounded, not extended
 
 Secondary voice outputs may generate RLLs with frame attribution.
 All RLLs remain subject to user authorization for binding.
+
+COMPLIANCE:
+All SCHOLAR files implementing multi-frame analysis MUST use these
+markers. Prose that switches cognitive frame without explicit marker
+is a compliance violation.
 
 ────────────────────────────────────────────────────────────
 X. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
@@ -445,6 +589,23 @@ XII. VERSIONING & GOVERNANCE
 • All phase changes require explicit authorization
 • All RLL bindings require explicit authorization
 
+v2.5 ADDITIONS:
+• Civilizational Axiom Section (Section IV.A)
+  – RECOMMENDED structure for encoding first principles
+  – Axiom format standardized with derivation and scope
+• Negative Capability Zone (Section IV.B)
+  – RECOMMENDED structure for recording uncertainty
+  – Four categories: CONTESTED, INSUFFICIENT, BOUNDARY, ANACHRONISM
+• RLL Domain Categorization strengthened (Section III)
+  – Threshold clarified: OPTIONAL <10, RECOMMENDED 10-20, REQUIRED >20
+  – Standard domains defined: GENERAL, WAR, GEO, INST, ECON
+• Secondary Voice Invocation Format formalized (Section IX)
+  – Standard voice markers defined
+  – Compliance requirement for multi-frame SCHOLARs
+• Anomaly Flag Protocol enforcement (Section VI)
+  – Implementation now explicitly REQUIRED for Phase II files
+  – Non-implementation is a compliance gap
+
 v2.4 ADDITIONS:
 • RLL Cognitive Attribution (Section III)
 • RLL Domain Categorization guidance (Section III)
@@ -465,5 +626,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.4
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.5
 ────────────────────────────────────────────────────────────

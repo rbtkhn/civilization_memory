@@ -1,11 +1,11 @@
-CIV–SCHOLAR–ROME — v2.6
+CIV–SCHOLAR–ROME — v2.7
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Rome Civilization
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v2.5
-Upgrade Type: ADDITIVE · GOVERNANCE STRUCTURAL ANALYSIS + STRATHERN
+Supersedes: CIV–SCHOLAR–ROME v2.6
+Upgrade Type: ADDITIVE · TEMPLATE v2.5 COMPLIANCE
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: MEM Architecture Only
@@ -13,11 +13,31 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
+• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
 • CIV–ARC–ROME v2.1 (EXTERNAL · MIRRORED)
 
 Last Update: January 2026
-Word Count: ~6,800
+Word Count: ~8,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.7) — TEMPLATE v2.5 COMPLIANCE
+────────────────────────────────────────────────────────────
+This version upgrades CIV–SCHOLAR–ROME to full CIV–SCHOLAR–TEMPLATE v2.5
+compliance.
+
+NEW SECTIONS:
+• Section III.A: Roman Civilizational Axioms (v2.5 REQUIRED)
+• Section III.B: Negative Capability Zone (v2.5 REQUIRED)
+• Section III.C: Anomaly Flag Protocol Implementation (v2.5 REQUIRED)
+• Section III.D: Secondary Voice Invocation Format (v2.5 FORMALIZED)
+
+TEMPLATE COMPLIANCE:
+• All v2.5 template requirements now met
+• Axiom format standardized with derivation/scope/limits
+• Negative capability zone formalized with NCZ entries
+• Anomaly Flag Protocol implementation active
+• Voice transition markers formalized
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — GOVERNANCE STRUCTURAL ANALYSIS + STRATHERN
@@ -1137,6 +1157,167 @@ Belief Status:
 • UNFROZEN (DURANT RENAISSANCE INTEGRATION)
 
 ────────────────────────────────────────────────────────────
+III.A ROMAN CIVILIZATIONAL AXIOMS (v2.5 TEMPLATE FORMAT)
+────────────────────────────────────────────────────────────
+These are **structural axioms**, not doctrines.
+Axioms are interpretive anchors, not predictive claims.
+
+AXIOM ROME-001: Law precedes authority.
+  Derivation: MEM–ROME–TWELVE–TABLES, MEM–ROME–POLYBIUS, MEM–ROME–AUGUSTUS
+  Scope: All governance pattern analysis
+  Limits: Does not apply to crisis periods (dictatorships, civil wars)
+
+AXIOM ROME-002: Procedure legitimizes power.
+  Derivation: MEM–ROME–CAESAR, MEM–ROME–AUGUSTUS, MEM–ROME–PAPACY
+  Scope: Legitimacy transfer analysis
+  Limits: Procedure without power is empty form
+
+AXIOM ROME-003: Absorption exceeds destruction.
+  Derivation: MEM–ROME–CITIZENSHIP, MEM–ROME–PUNIC (contrast: Carthage)
+  Scope: Enemy treatment and integration analysis
+  Limits: Does not apply to non-absorbable civilizations (Carthage, Parthia)
+
+AXIOM ROME-004: Institutions outlast individuals.
+  Derivation: MEM–ROME–HANNIBAL, MEM–ROME–SCIPIO, MEM–ROME–CANNAE
+  Scope: System vs. genius analysis
+  Limits: Terminal competence cases show individual dependence
+
+AXIOM ROME-005: Replacement defeats perfection.
+  Derivation: MEM–ROME–WAR–FIRST–PUNIC, MEM–ROME–HANNIBAL
+  Scope: Strategic capacity analysis
+  Limits: Requires replacement pipeline to function
+
+AXIOM ROME-006: Fragment claimants cannot reconstitute the whole.
+  Derivation: MEM–ROME–ALEXANDER, MEM–ROME–HOLY–ROMAN–EMPIRE
+  Scope: Succession and legitimacy analysis
+  Limits: Applies only after genuine vacancy occurs
+
+AXIOM ROME-007: Transmission outlasts empire.
+  Derivation: MEM–ROME–LIT–BOETHIUS, MEM–ROME–CHRISTIANITY–AUGUSTINE
+  Scope: Cultural survival analysis
+  Limits: Transmission requires institutional carriers
+
+AXIOM ROME-008: Legitimacy bifurcates under relocation.
+  Derivation: MEM–ROME–CONSTANTINOPLE, MEM–ROME–PAPACY
+  Scope: Authority transfer analysis
+  Limits: Does not apply when single successor is universally recognized
+
+These axioms emerged inductively and are now enforced constraints.
+Axioms may be revised only when MEM evidence forces revision.
+
+────────────────────────────────────────────────────────────
+III.B NEGATIVE CAPABILITY ZONE (v2.5 TEMPLATE FORMAT)
+────────────────────────────────────────────────────────────
+Scholar–Rome enforces the following exclusions.
+These record what Rome CANNOT stably achieve—not predictions, but constraints.
+
+STRUCTURAL EXCLUSIONS:
+─────────────────────────
+[NCZ-ROME-001] Permanent military monarchy without legitimacy grammar
+  Status: INSUFFICIENT
+  Reason: Severan, Barracks Emperors show military power alone insufficient
+  Related MEMs: MEM–ROME–SEVERUS, MEM–ROME–THIRD–CENTURY–CRISIS
+  Resolution Path: Would require counter-case of stable military-only rule
+
+[NCZ-ROME-002] Republican restoration after Augustus
+  Status: CONTESTED
+  Reason: Multiple attempts failed; may be structurally impossible
+  Related MEMs: MEM–ROME–AUGUSTUS, MEM–ROME–JULIUS–CAESAR
+  Resolution Path: Would require successful restoration case
+
+[NCZ-ROME-003] Reconstitution of fragmented empire by single successor
+  Status: INSUFFICIENT
+  Reason: No fragment claimant (HRE, Russia, Ottomans) achieved reconstitution
+  Related MEMs: MEM–ROME–HOLY–ROMAN–EMPIRE, MEM–ROME–RUSSIA
+  Resolution Path: Counter-case of successful reunification
+
+[NCZ-ROME-004] Stable eastern frontier without buffer states
+  Status: INSUFFICIENT
+  Reason: Parthia/Persia required client kingdoms or constant warfare
+  Related MEMs: MEM–ROME–PARTHIA, MEM–ROME–PERSIA
+  Resolution Path: Counter-case of stable direct administration
+
+[NCZ-ROME-005] Long-term coexistence with rival universal empire
+  Status: INSUFFICIENT
+  Reason: Rome-Carthage, Rome-Persia both required eventual hegemony or destruction
+  Related MEMs: MEM–ROME–CARTHAGE, MEM–ROME–PERSIA
+  Resolution Path: Counter-case of stable parity
+
+SUCCESSION EXCLUSIONS:
+─────────────────────────
+[NCZ-ROME-006] Smooth succession without adoption or dynastic connection
+  Status: CONTESTED
+  Reason: 3rd century shows pure military succession is unstable
+  Related MEMs: MEM–ROME–FIVE–GOOD–EMPERORS, MEM–ROME–THIRD–CENTURY–CRISIS
+  Resolution Path: Would require stable elective mechanism
+
+[NCZ-ROME-007] Genius-dependent systems that reproduce themselves
+  Status: INSUFFICIENT
+  Reason: Alexander, Basil II show personal excellence cannot transmit
+  Related MEMs: MEM–ROME–ALEXANDER, MEM–ROME–EMPIRE–BASIL–II
+  Resolution Path: Counter-case of genius system reproduction
+
+Violations require anomaly handling via Section III.C.
+
+────────────────────────────────────────────────────────────
+III.C ANOMALY FLAG PROTOCOL (REQUIRED · v2.5)
+────────────────────────────────────────────────────────────
+When a MEM assertion contradicts an established SCHOLAR pattern,
+this section records the anomaly per CIV–SCHOLAR–TEMPLATE v2.5.
+
+IMPLEMENTATION STATUS: ACTIVE
+
+ANOMALY REGISTRY:
+─────────────────
+(No active anomalies currently flagged.)
+
+ANOMALY FLAG FORMAT (per template):
+┌─────────────────────────────────────────────────────────────┐
+│  ANOMALY FLAG                                               │
+│  MEM: [MEM file ID]                                         │
+│  SCHOLAR Pattern: [Pattern ID — RLL, NCZ, or AXIOM]         │
+│  Conflict: [Description of incompatibility]                 │
+│  Resolution: PENDING / PATTERN_REVISED / MEM_CONFIRMED      │
+│  Action: [What happens next]                                │
+└─────────────────────────────────────────────────────────────┘
+
+RESOLUTION OPTIONS:
+• PATTERN_REVISED: SCHOLAR pattern updated to accommodate MEM
+• MEM_CONFIRMED: MEM stands, pattern noted as having exceptions
+• SCL_CREATED: Contradiction preserved, no resolution required
+
+This section will be populated as MEM/SCHOLAR conflicts are discovered.
+
+────────────────────────────────────────────────────────────
+III.D SECONDARY VOICE INVOCATION FORMAT (v2.5 FORMALIZED)
+────────────────────────────────────────────────────────────
+LEARN mode uses the Mercouris voice register as primary.
+
+PRIMARY VOICE:
+• Prose: history monograph
+• Tone: exploratory, disciplined
+• Finality: provisional only
+
+SECONDARY VOICE INVOCATION:
+All voice transitions MUST use standardized markers.
+Markers MUST appear on their own line, not inline with prose.
+
+STANDARD VOICE MARKERS:
+  [LEARN MODE — BARNES CATALYST]
+  [LEARN MODE — MEARSHEIMER SHARPENING]
+  [LEARN MODE — MERCOURIS PRIMARY]
+  [LEARN MODE — TRI-FRAME SYNTHESIS]
+
+VOICE TRANSITION RULES:
+• Opening marker: Required before secondary voice content begins
+• Closing marker: Return to "[LEARN MODE — MERCOURIS PRIMARY]" after secondary
+• Nested voices: NOT permitted (one secondary at a time)
+• Secondary duration: Should be bounded, not extended
+
+Secondary voice outputs may generate RLLs with frame attribution.
+All RLLs remain subject to user authorization for binding.
+
+────────────────────────────────────────────────────────────
 IV. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 SYNTHESIS 0001: Authority Translation → FROZEN
@@ -1813,4 +1994,17 @@ END OF FILE — CIV–MEM–TEMPLATE v2.5
 [ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v2.3 (PHASE II)
+END OF FILE — CIV–SCHOLAR–ROME — v2.7 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+────────────────────────────────────────────────────────────
+
+CIV–SCHOLAR–ROME v2.7 is declared:
+
+• CANONICAL
+• LOCKED
+• CONSTRAINT-ENFORCING
+• NON-DOCTRINAL
+• TEMPLATE v2.5 COMPLIANT
+• PHASE II (CONSTRAINT GRAMMAR)
+• AXIOM SECTION IMPLEMENTED
+• NEGATIVE CAPABILITY ZONE IMPLEMENTED
+• ANOMALY FLAG PROTOCOL IMPLEMENTED
