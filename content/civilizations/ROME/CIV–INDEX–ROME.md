@@ -1,10 +1,10 @@
-CIV–INDEX–ROME — v2.4
+CIV–INDEX–ROME — v2.5
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.4
-Supersedes: CIV–INDEX–ROME v2.3
+Version: 2.5
+Supersedes: CIV–INDEX–ROME v2.4
 Supersedes: CIV–INDEX–ROME v2.1
 Upgrade Type: ADDITIVE · FULL DIRECTORY RECONCILIATION
 Civilization: ROME
@@ -97,6 +97,7 @@ A) GEO
 • MEM–ROME–GEO–ADRIATIC–SEA.md
 • MEM–ROME–GEO–AEGEAN–SEA.md
 • MEM–ROME–GEO–ALPS.md
+• MEM–ROME–GEO–APENNINES.md
 • MEM–ROME–GEO–ANATOLIA.md
 • MEM–ROME–GEO–ARABIA.md
 • MEM–ROME–GEO–BALKANS.md
@@ -115,12 +116,14 @@ A) GEO
 • MEM–ROME–GEO–MALTA.md
 • MEM–ROME–GEO–MEDITERRANEAN–SEA.md
 • MEM–ROME–GEO–NILE–RIVER.md
+• MEM–ROME–GEO–PO–RIVER.md
 • MEM–ROME–GEO–PYRENEES.md
 • MEM–ROME–GEO–RED–SEA.md
 • MEM–ROME–GEO–RHINE–RIVER.md
 • MEM–ROME–GEO–SARDINIA.md
 • MEM–ROME–GEO–SICILY.md
 • MEM–ROME–GEO–SYRIA.md
+• MEM–ROME–GEO–TIBER–RIVER.md
 
 B) EMPIRE / EMPERORS
 • MEM–ROME–EMPIRE–ALEXIOS–I–KOMNENOS.md
@@ -287,6 +290,7 @@ K) GEOGRAPHY & SPATIAL CONTROL (Non-GEO)
 L) ITALY & AFTERLIFE
 • MEM–ROME–CHARLEMAGNE.md
 • MEM–ROME–ITALY.md
+• MEM–ROME–ITALY–BOLOGNA.md
 • MEM–ROME–ITALY–BORGIA.md
 • MEM–ROME–ITALY–CAPUA.md
 • MEM–ROME–ITALY–FLORENCE.md
@@ -294,9 +298,11 @@ L) ITALY & AFTERLIFE
 • MEM–ROME–ITALY–MARCO–POLO.md
 • MEM–ROME–ITALY–MEDICI.md
 • MEM–ROME–ITALY–MILAN.md
+• MEM–ROME–ITALY–NAPLES.md
 • MEM–ROME–ITALY–PISA.md
 • MEM–ROME–ITALY–RENAISSANCE.md
 • MEM–ROME–ITALY–SAVONAROLA.md
+• MEM–ROME–ITALY–SIENA.md
 • MEM–ROME–ITALY–VENICE.md
 
 M) SPAIN & IBERIA
@@ -417,24 +423,24 @@ Changes require:
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~2,600
-TOTAL REGISTERED FILES: One hundred ninety-nine (199) MEM–ROME OBJECTS
+TOTAL REGISTERED FILES: Two hundred five (205) MEM–ROME OBJECTS
 
 Category Breakdown:
-• A) GEO: 27 files
+• A) GEO: 30 files (+3: Po River, Tiber River, Apennines)
 • B) EMPIRE / EMPERORS: 30 files
 • C) WAR: 31 files
 • D) PERSON: 13 files
 • E) HIST: 16 files
 • F) GREEK WORLD: 5 files
-• G) LITERATURE / PHILOSOPHY / ART: 15 files (+2: Leonardo, Michelangelo)
+• G) LITERATURE / PHILOSOPHY / ART: 15 files
 • H) INSTITUTIONS & CITIES: 18 files
 • I) PAPACY: 3 files
 • J) RELIGION: 4 files
 • K) GEOGRAPHY & SPATIAL CONTROL: 7 files
-• L) ITALY & AFTERLIFE: 13 files
+• L) ITALY & AFTERLIFE: 16 files (+3: Naples, Siena, Bologna)
 • M) SPAIN & IBERIA: 10 files
 • N) SUCCESSOR CIVILIZATIONS & RIVALS: 7 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v2.4
+END OF FILE — CIV–INDEX–ROME v2.5
 ────────────────────────────────────────────────────────────
