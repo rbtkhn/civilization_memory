@@ -936,13 +936,60 @@ Outcome:
     commitment was made regardless.
 Status: FROZEN → proposes RLL–GERMANIA–0009.a (Rhine-Sector Degradation Prohibition)
 
+SYNTHESIS 0014 (RLL–0010 MEARSHEIMER VALIDATION — IDEOLOGICAL FRACTURE QUANTIFICATION)
+Outcome:
+• RLL–GERMANIA–0010 (Ideological Fracture Law) is validated by force-ratio
+  analysis of both the Hussite Wars (1419-1434) and Thirty Years' War (1618-1648).
+  The mechanism is arithmetic: ideological fracture converts interior lines from
+  asset to liability by requiring suppression force commitments that exceed
+  sustainable occupation capacity while simultaneously degrading external defense.
+• QUANTIFIED THRESHOLDS (Mearsheimer Derivation):
+  - Suppression force requirement: Bohemian-scale fracture requires 15-25 division
+    equivalents (50,000-80,000 in early modern terms) for sustained occupation.
+  - Concentration-occupation gap: Peak concentration (100,000) may exceed
+    sustainable occupation (50,000). Fracture survives in this gap.
+  - Force-commitment warning: >40-50% of total force to suppression = external
+    security structurally compromised.
+  - Duration trigger: >2-3 campaign seasons without resolution → intervention
+    probability approaches 1.0.
+  - Intervention multiplier: External intervention increases suppression
+    requirement by 30-50% (corridor blocking + occupation).
+• VALIDATION CASES:
+  - Hussite Wars: 15 years, 5 crusades, peak 100,000, sustained <50,000,
+    40-60% commitment per crusade → Basel 1433 (negotiated plurality)
+  - Thirty Years' War: 30 years, peak 125,000 (Wallenstein), sustained
+    50,000-60,000 distributed, 35-55% continuous → Westphalia 1648 (negotiated plurality)
+• MODEL REFINEMENT: Distinction between CONCENTRATION CAPACITY (achievable for
+  campaign season) and OCCUPATION CAPACITY (sustainable through winter). Ideological
+  fracture survives in the gap between the two.
+• TRI-FRAME ATTRIBUTION:
+  - Mearsheimer lens: When suppression requires 40-60% of available force AND
+    occupation cannot be sustained AND intervention is triggered, the arithmetic
+    guarantees failure. No operational brilliance compensates for the
+    concentration-occupation gap.
+  - Mercouris lens: Hussite Wars are Thirty Years' War at smaller scale; both
+    follow identical trajectories because structural conditions are identical:
+    central position, hinge geography, external great-power system.
+  - Barnes lens: Liability falls on the immobile (peasantry, urban population).
+    Gains accrue to: (a) external entrants who time intervention (France, Sweden
+    1618-1648), (b) internal repositioners (Bohemian nobility 1433, German princes
+    1648). The initiating power rarely collects; settlement codifies extraction
+    as legitimacy (Basel, Westphalia).
+• EXTRACTION PATTERN: France entered 1635 after 17 years of German bleeding,
+  collected Alsace. Sweden entered 1630, collected Pomerania. German princes
+  collected sovereignty. The Emperor who started the war to consolidate power
+  ended in a constitutional cage. Sigismund who crusaded to suppress heresy
+  ended accepting religious plurality.
+Status: FROZEN → confirms RLL–GERMANIA–0010 with quantification; proposes
+  concentration-occupation distinction as refinement
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
 The following RLLs are converted from frozen doctrines and are now
-binding constraints per CIV–SCHOLAR–TEMPLATE v2.5.
+binding constraints per CIV–SCHOLAR–TEMPLATE v2.6.
 
-RLL Domain Organization per TEMPLATE v2.5 Section III (11 RLLs = RECOMMENDED):
+RLL Domain Organization per TEMPLATE v2.6 Section III (11 RLLs = RECOMMENDED):
 • GENERAL: Core civilizational patterns (RLL–0001, 0004, 0005, 0007, 0008)
 • WAR: Conflict-specific constraints (RLL–0002, 0003, 0010)
 • GEO: Geographic constraints (RLL–0006, 0009, 0011)
@@ -1296,7 +1343,7 @@ All ingested learning events up to ENTRY 0024 have been either:
 
 Current counts:
 • Learning entries: 24 (ENTRY 0001–0024)
-• Frozen syntheses: 13 (SYNTHESIS 0001–0013)
+• Frozen syntheses: 14 (SYNTHESIS 0001–0014)
 • Bound RLLs: 11 (RLL–GERMANIA–0001–0011)
 • Proposed RLLs pending binding: 1 (RLL–GERMANIA–0009.a)
 
@@ -1333,13 +1380,15 @@ See Section II.D for Secondary Voice Invocation format.
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
-v2.7 changes (ADDITIVE · CLOSURE-CONCENTRATION COUPLING):
+v2.7 changes (ADDITIVE · CLOSURE-CONCENTRATION COUPLING + RLL-0010 VALIDATION):
 • SYNTHESIS 0013 added (RLL–0005/0009.a Closure-Concentration Coupling)
+• SYNTHESIS 0014 added (RLL–0010 Ideological Fracture Quantification)
 • Mearsheimer force-ratio arithmetic integrated (quantified thresholds)
 • Tri-frame validation: Mercouris/Mearsheimer/Barnes
-• Synthesis count: 12 → 13
+• Synthesis count: 12 → 14
 • Proposed RLL–GERMANIA–0009.a (Rhine-Sector Degradation Prohibition)
-• Validation cases documented: Bismarck 1866/1870, 1914 Marne, 1941 Barbarossa
+• Validation cases: Bismarck 1866/1870, 1914 Marne, 1941 Barbarossa, Hussite Wars, Thirty Years' War
+• Concentration-occupation distinction formalized
 
 v2.6 changes (ADDITIVE · GEO CLUSTER INGESTION + RLL–0009):
 • ENTRY 0022 added (GEO cluster strategic ingestion)
@@ -1408,7 +1457,7 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
 • SDI EXPANDED (16 entries)
 • LEARNING ENTRIES EXPANDED (24 entries)
-• SYNTHESIS LOG EXPANDED (13 syntheses)
+• SYNTHESIS LOG EXPANDED (14 syntheses)
 • GEO CLUSTER ENHANCED WITH MEARSHEIMER STRATEGIC SECTIONS
 • CLOSURE-CONCENTRATION COUPLING FORMALIZED (RLL–0005/0009.a interaction)
 • TRI-FRAME SYNTHESIS METHODOLOGY DEMONSTRATED
