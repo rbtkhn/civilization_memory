@@ -15,7 +15,7 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: January 2026
-Word Count: ~9,500
+Word Count: ~11,000
 
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.6 (CURRENT)
@@ -32,9 +32,11 @@ Degradation Prohibition) through Mearsheimer force-ratio stress-testing.
 
 v2.7 changes:
 • SYNTHESIS 0013 added (Closure-Concentration Coupling)
+• SYNTHESIS 0014 added (RLL–0010 Ideological Fracture Quantification)
+• SYNTHESIS 0015 added (Maritime Constraint Hierarchy)
 • Mearsheimer quantification integrated (force-ratio arithmetic)
 • Tri-frame validation: Mercouris/Mearsheimer/Barnes
-• Synthesis count: 12 → 13
+• Synthesis count: 12 → 15
 
 The synthesis establishes that RLL–0005 and RLL–0009.a form a mutually
 constraining dyad: closure enables temporary Rhine-sector degradation;
@@ -983,6 +985,93 @@ Outcome:
 Status: FROZEN → confirms RLL–GERMANIA–0010 with quantification; proposes
   concentration-occupation distinction as refinement
 
+SYNTHESIS 0015 (MARITIME CONSTRAINT HIERARCHY — HANSEATIC + BALTIC + NORTH SEA + ATLANTIC)
+Outcome:
+• Germania's maritime zones form a constraint hierarchy: each zone offers
+  progressively greater reach but imposes progressively greater dependency
+  and vulnerability. Military investment in outer zones degrades the
+  continental core without achieving commensurate control.
+• HIERARCHY STRUCTURE (Mearsheimer Derivation):
+  - TIER 1 — Rhine (Consolidation Spine): 60%+ industrial capacity; force
+    concentration sustainable at 4 div/100km; authority and liability co-located;
+    STRATEGIC NECESSITY.
+  - TIER 2 — Baltic (Regional Reach): Commercial access to Scandinavia/Russia;
+    Sound chokepoint (Danish control); 2,400km coastline; reach supplements but
+    cannot substitute for Rhine depth; STRATEGIC LUXURY.
+  - TIER 3 — North Sea (Gateway): Atlantic antechamber; British control of exits
+    (Channel, Scottish passage); ~450km German coastline; egress contested, never
+    controlled; fleet spending degrades army; CONTINGENT ACCESS.
+  - TIER 4 — Atlantic (Ceiling): Global trade connectivity; blockade vulnerability;
+    late entry to structured system; access guaranteed by alliance, not indigenous
+    power; STRUCTURAL DEPENDENCY.
+• HANSEATIC PRECEDENT (Commercial Power Test):
+  - The Hanseatic League (c. 1250–1600) demonstrates that commercial dominance
+    substitutes for military control ONLY when no rival claims the maritime space.
+  - League flourished in Baltic power vacuum (14th–15th centuries); declined when
+    nation-states consolidated (England expelled Steelyard 1598, Russia closed
+    Novgorod Kontor 1494, Dutch outcompeted in shipping efficiency).
+  - Hanse could field 10,000–20,000 militia; consolidated states fielded 20,000–
+    100,000+ professional forces. Commercial wealth could not convert to military
+    concentration because confederation structure prevented force pooling.
+  - Mearsheimer validation: Commercial power is DERIVATIVE of military power, not
+    autonomous substitute. The Hanse extracted profits in the absence of great-power
+    competition; when competition emerged, commercial networks lost to territorial
+    states.
+• NORTH SEA CONSTRAINT (Gateway Barrier):
+  - Every mark spent on fleet is a mark not spent on army. Tirpitz program
+    (1898–1914) cost ~11.5 billion marks; equivalent to 11–12 additional divisions
+    Germany lacked at the Marne.
+  - High Seas Fleet: 13 dreadnoughts vs. British 20 (1:1.5 ratio); fought one
+    engagement (Jutland); scuttled 1919.
+  - U-boat campaigns (WWI, WWII): Imposed costs but never broke convoy system;
+    783 U-boats lost in WWII.
+  - Blockade arithmetic: British distant blockade (Scapa Flow) starved Germany;
+    400,000–750,000 excess civilian deaths 1914–1918; strategic material
+    strangulation 1939–1945.
+  - Binding constraint: Germany cannot convert North Sea access into Atlantic
+    access because Britain commands the exits. Challenge degrades continental
+    defense; acceptance preserves army strength.
+• FORCE ALLOCATION LOGIC:
+  - Rhine defense = existential (protects 60%+ industrial capacity)
+  - Baltic defense = secondary (protects commercial reach, not survival)
+  - North Sea challenge = catastrophic (fleet spending degrades Rhine-sector forces)
+  - Atlantic access = derivative (guaranteed by alliance, not indigenous power)
+• RLL–0006 REFINEMENT PROPOSED:
+  - RLL–0006.a (Baltic Access Corollary): Baltic reach is strategic luxury; loss
+    constrains commercial reach but does not threaten survival; minimal military
+    investment warranted.
+  - RLL–0006.b (North Sea Contingency Corollary): North Sea access is contingent
+    privilege, not contestable right; naval challenge degrades Rhine-sector
+    concentration; rational posture accepts subordinate access within alliance
+    framework.
+• VALIDATION CASES:
+  - Hanseatic success (1250–1450): No great-power competitor in Baltic; commercial
+    proceduralism substitutes for sovereignty; COMPLIANT with hierarchy (remained
+    at Tier 2).
+  - Hanseatic failure (1500–1669): Nation-states claim maritime space; commercial
+    power cannot resist; League dissolves; CONFIRMS hierarchy.
+  - Tirpitz program (1898–1914): Attempted escalation from Tier 3 to challenge
+    British control; produced Entente coalition; army resources diverted; VIOLATED
+    hierarchy.
+  - Post-1945 Bundesmarine: Minimal coastal defense; accepts Tier 3 contingency;
+    operates within NATO alliance; COMPLIANT with hierarchy.
+• TRI-FRAME ATTRIBUTION:
+  - Mearsheimer lens: The arithmetic is dispositive. Germany cannot match British
+    naval superiority (1:1.5+ capital ship ratio) while maintaining 100-division
+    army. Every naval investment degrades continental defense. The force-allocation
+    question answers itself: army first, always.
+  - Mercouris lens: The maritime hierarchy encodes civilizational grammar. Germania
+    is a land-system civilization with maritime extensions; reversal of priority
+    (treating maritime as primary) produces strategic incoherence. Frederick the
+    Great: "We are a land power with ports, not a sea power with territory."
+  - Barnes lens: Liability distribution favors the island power. Britain pays
+    naval overhead and collects maritime control. Germany pays naval overhead and
+    collects nothing—fleet-in-being cannot break blockade; blockade starves German
+    industry. The liability is asymmetric: Britain loses fleet, still has moat;
+    Germany loses fleet, has already degraded army.
+Status: FROZEN → proposes RLL–GERMANIA–0006.a (Baltic Access Corollary) and
+  RLL–GERMANIA–0006.b (North Sea Contingency Corollary)
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
@@ -1343,9 +1432,9 @@ All ingested learning events up to ENTRY 0024 have been either:
 
 Current counts:
 • Learning entries: 24 (ENTRY 0001–0024)
-• Frozen syntheses: 14 (SYNTHESIS 0001–0014)
+• Frozen syntheses: 15 (SYNTHESIS 0001–0015)
 • Bound RLLs: 11 (RLL–GERMANIA–0001–0011)
-• Proposed RLLs pending binding: 1 (RLL–GERMANIA–0009.a)
+• Proposed RLLs pending binding: 3 (RLL–GERMANIA–0009.a, 0006.a, 0006.b)
 
 No unresolved beliefs remain.
 No provisional syntheses are active.
@@ -1380,15 +1469,19 @@ See Section II.D for Secondary Voice Invocation format.
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
-v2.7 changes (ADDITIVE · CLOSURE-CONCENTRATION COUPLING + RLL-0010 VALIDATION):
+v2.7 changes (ADDITIVE · CLOSURE-CONCENTRATION COUPLING + RLL-0010 VALIDATION + MARITIME HIERARCHY):
 • SYNTHESIS 0013 added (RLL–0005/0009.a Closure-Concentration Coupling)
 • SYNTHESIS 0014 added (RLL–0010 Ideological Fracture Quantification)
+• SYNTHESIS 0015 added (Maritime Constraint Hierarchy — Hanseatic + Baltic + North Sea + Atlantic)
 • Mearsheimer force-ratio arithmetic integrated (quantified thresholds)
 • Tri-frame validation: Mercouris/Mearsheimer/Barnes
-• Synthesis count: 12 → 14
+• Synthesis count: 12 → 15
 • Proposed RLL–GERMANIA–0009.a (Rhine-Sector Degradation Prohibition)
-• Validation cases: Bismarck 1866/1870, 1914 Marne, 1941 Barbarossa, Hussite Wars, Thirty Years' War
+• Proposed RLL–GERMANIA–0006.a (Baltic Access Corollary)
+• Proposed RLL–GERMANIA–0006.b (North Sea Contingency Corollary)
+• Validation cases: Bismarck 1866/1870, 1914 Marne, 1941 Barbarossa, Hussite Wars, Thirty Years' War, Hanseatic League, Tirpitz program
 • Concentration-occupation distinction formalized
+• Maritime constraint hierarchy formalized (Rhine > Baltic > North Sea > Atlantic)
 
 v2.6 changes (ADDITIVE · GEO CLUSTER INGESTION + RLL–0009):
 • ENTRY 0022 added (GEO cluster strategic ingestion)
