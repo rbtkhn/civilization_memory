@@ -18,7 +18,7 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.5
+• CIV–MEM–CORE v2.6
 • CIV–MIND–TEMPLATE v2.5
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY MIND)
 • HUMAN CURATION SUPREMACY PRINCIPLE
@@ -203,7 +203,7 @@ proportions depending on file type:
 MEARSHEIMER is primary voice in GEO–MEMs.
 MERCOURIS evidence (ARC quotes) provides the 1/3 secondary content.
 
-See: CIV–MEM–CORE v2.5, Section VP-1.g
+See: CIV–MEM–CORE v2.6, Section VP-1.g
 
 ────────────────────────────────────────────────────────────
 V. LINGUISTIC FINGERPRINT (EMPIRICALLY REFINED)

@@ -9,9 +9,9 @@ Class: CIV–MIND–TEMPLATE (Mind Governance Law)
 Load Order: AFTER CIV–MEM–CORE
 Supersedes: CIV–MIND–TEMPLATE v1.1
 Compatibility:
-• CIV–MEM–CORE v2.5
+• CIV–MEM–CORE v2.6
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.5 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 
 Governance Mode: HUMAN CURATED ONLY
@@ -250,7 +250,7 @@ PRIMARY MIND (MERCOURIS v2.5):
 • Persistence: Session-persistent via conversation history
 • Mutation: Forbidden without explicit human revision
 
-ADVISORY MIND (MEARSHEIMER v2.4):
+ADVISORY MIND (MEARSHEIMER v2.5):
 • Activation: OGE-invoked only
 • Deactivation: Automatic when analysis complete
 • Persistence: Per-invocation only

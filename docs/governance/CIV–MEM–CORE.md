@@ -133,7 +133,7 @@ Polyphony Architecture:
 • Tension preserved, NOT synthesized
 • User navigates divergence between readings
 
-See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MERCOURIS v2.5, CIV–MIND–MEARSHEIMER v2.4
+See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MERCOURIS v2.5, CIV–MIND–MEARSHEIMER v2.5
 
 Backward Compatibility:
 • All existing MEM files remain valid

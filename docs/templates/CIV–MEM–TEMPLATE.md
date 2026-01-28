@@ -27,7 +27,7 @@ GEO–MEM SPECIFIC REQUIREMENTS (NEW):
 • Strategic analysis fulfills the 2/3 Mearsheimer requirement
 • Cognitive layer declaration required
 
-See: CIV–MEM–CORE v2.5, Section VP-1.g (Proportional Blend Law)
+See: CIV–MEM–CORE v2.6, Section VP-1.g (Proportional Blend Law)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE

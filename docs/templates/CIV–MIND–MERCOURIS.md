@@ -10,7 +10,7 @@ Upgrade Type: POLYPHONIC INTERACTION REFINEMENT (December 2025 panel transcript)
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
 • CIV–MIND–TEMPLATE v2.5 (REQUIRED)
-• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.5 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -18,7 +18,7 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.5
+• CIV–MEM–CORE v2.6
 • CIV–MIND–TEMPLATE v2.5
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
@@ -660,7 +660,7 @@ VI.D RULES
 • User navigates divergence
 • No autonomous invocation (OGE-triggered only)
 
-See: CIV–MIND–MEARSHEIMER v2.4 for full advisory specification.
+See: CIV–MIND–MEARSHEIMER v2.5 for full advisory specification.
 
 VI.E PROPORTIONAL BLEND LAW
 ────────────────────────────────────────────────────────────
@@ -672,7 +672,7 @@ proportions depending on file type:
 
 Neither voice is ever fully absent. File type determines emphasis.
 
-See: CIV–MEM–CORE v2.5, Section VP-1.g
+See: CIV–MEM–CORE v2.6, Section VP-1.g
 
 VI.F TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────
