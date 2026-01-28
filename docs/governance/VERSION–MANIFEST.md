@@ -1,10 +1,10 @@
-VERSION–MANIFEST — v1.0
+VERSION–MANIFEST — v1.2
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-27
+Last Updated: 2026-01-28
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -83,13 +83,14 @@ GERMANIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–GERMANIA        │ v2.2    │ Active        │
-│ CIV–INDEX–GERMANIA          │ v1.13   │ Active        │
-│ CIV–CORE–GERMANIA           │ v1.8    │ Active        │
-│ CIV–DOCTRINE–GERMANIA       │ v1.3    │ Active        │
-│ CIV–ARC–GERMANIA            │ v1.1    │ Active        │
+│ CIV–SCHOLAR–GERMANIA        │ v2.7    │ Active        │
+│ CIV–INDEX–GERMANIA          │ v2.1    │ Active        │
+│ CIV–CORE–GERMANIA           │ v1.9    │ Active        │
+│ CIV–DOCTRINE–GERMANIA       │ v1.4    │ Active        │
+│ CIV–ARC–GERMANIA            │ v2.1    │ Active        │
 └────────────────────────────────────────────────────────┘
-Phase: I (Accumulation)
+Phase: II (Constraint Grammar)
+RLLs Bound: 11
 
 FRANCIA:
 ┌────────────────────────────────────────────────────────┐
@@ -202,12 +203,24 @@ VI. QUICK BINDING DECLARATION
 For session startup, declare:
 
 "Bound by:
-• CIV–MEM–CORE v2.5
+• CIV–MEM–CORE v2.6
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.8"
 
+2026-01-28:
+• VERSION–MANIFEST: v1.1 → v1.2 (ARC + INDEX updates)
+• GERMANIA: CIV–ARC–GERMANIA v1.1 → v2.0 (template v2.7 alignment)
+• GERMANIA: CIV–INDEX–GERMANIA v2.0 → v2.1 (9 MEM v2.0 upgrades)
+• GERMANIA: 9 MEM files upgraded to v2.0 (CIV–MEM–TEMPLATE v2.8 compliance)
+• VERSION–MANIFEST: v1.0 → v1.1 (GERMANIA version sync)
+• GERMANIA: CIV–SCHOLAR–GERMANIA v2.2 → v2.7 (corrected)
+• GERMANIA: CIV–CORE–GERMANIA v1.8 → v1.9 (corrected)
+• GERMANIA: CIV–DOCTRINE–GERMANIA v1.3 → v1.4 (corrected)
+• GERMANIA: Phase I → Phase II (corrected)
+• Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
+
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.0
+END OF FILE — VERSION–MANIFEST — v1.2
 ────────────────────────────────────────────────────────────

@@ -1345,6 +1345,19 @@ authority and liability remain co-located. Dispersed corridor reach
 dilutes force density, externalizes liability, and creates exposure
 without commensurate authority.
 
+DOCTRINE 07: CENTRAL POSITION ENCIRCLEMENT CONSTRAINT
+Germania's central European position creates permanent encirclement
+liability. Any strategic posture that permits simultaneous great-power
+opposition on multiple fronts exceeds sustainable force-to-space ratios
+and guarantees attrition defeat regardless of operational excellence.
+
+DOCTRINE 08: ALLIANCE DEPENDENCY AS STRUCTURAL NECESSITY
+Germania cannot sustain independent great-power status against peer
+competitors. Alliance embedding is not optional accommodation but
+structural necessity arising from central position and limited
+territorial depth. Alliance exit produces encirclement; alliance
+entrapment produces overextension.
+
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–SCHOLAR–GERMANIA v2.7 (PHASE II · TEMPLATE v2.5 COMPLIANT)
 ────────────────────────────────────────────────────────────

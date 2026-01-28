@@ -1,17 +1,21 @@
-MEM–GERMANIA–BISMARCK — v1.6
+MEM–GERMANIA–BISMARCK — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.6
-Supersedes: MEM–GERMANIA–BISMARCK v1.5
-Upgrade Type: HOYER CITATION INTEGRATION (ADDITIVE)
+Version: 2.0
+Supersedes: MEM–GERMANIA–BISMARCK v1.6
+Upgrade Type: TEMPLATE v2.8 COMPLIANCE (STRUCTURAL)
+Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANIA
 Regime: Prussian / Imperial-Constitutional (1862–1890 AD)
 Subject: Otto von Bismarck
 Dates: 1815–1898 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,000
+Word Count: ~3,200
+
+ARC VERSION DECLARATION:
+This MEM is compliant with CIV–ARC–GERMANIA v1.1.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -38,6 +42,17 @@ Henry Kissinger judges Bismarck's achievement categorically:
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION
+────────────────────────────────────────────────────────────
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+20% QUOTE COMPLIANCE:
+This MEM targets ≥20% verbatim quote content by word count.
+Quote sources include: Bismarck primary sources, Kissinger, Hoyer,
+Chrastil, Wilson, Clark (ARC-GERMANIA approved).
+
+────────────────────────────────────────────────────────────
 II. FORMATIVE ORIGINS & PRUSSIAN STATE ETHOS
 ────────────────────────────────────────────────────────────
 Bismarck emerges from the Prussian Junker elite and a bureaucratic–military
@@ -53,9 +68,9 @@ Primary orientation:
 
 Primary source:
 
-> “I am no doctrinaire. I have no system. I see things as they are, and I
+> "I am no doctrinaire. I have no system. I see things as they are, and I
 > act according to circumstances, not according to theories that imagine
-> the world as it ought to be.”
+> the world as it ought to be."
 > — Otto von Bismarck, private correspondence, 1863
 
 Politics, for Bismarck, is force management, not moral redemption.
@@ -82,10 +97,10 @@ than crude power maximization:
 
 Primary source:
 
-> “The great questions of the day will not be decided by speeches and
+> "The great questions of the day will not be decided by speeches and
 > majority resolutions, but by iron and blood; yet even iron and blood
 > must be restrained by judgment, or they will destroy the state they
-> claim to serve.”
+> claim to serve."
 > — Otto von Bismarck, Reichstag speech, 1862
 
 Success is measured by stability, not righteousness.
@@ -109,14 +124,14 @@ Operational pattern:
 
 Primary source:
 
-> “One must always leave the defeated power a reason to accept the peace.
+> "One must always leave the defeated power a reason to accept the peace.
 > To press advantage beyond necessity is to prepare the next war rather
-> than secure the last.”
+> than secure the last."
 > — Otto von Bismarck, diplomatic memorandum, 1871
 
 As Rachel Chrastil demonstrates, the Franco-Prussian War was engineered as
 a **bounded conflict**, whose danger lay precisely in how easily success
-could have tipped into escalation (*Bismarck’s War*).
+could have tipped into escalation (*Bismarck's War*).
 
 ────────────────────────────────────────────────────────────
 V. EMPIRE CREATION AS CONTAINED OUTCOME
@@ -132,9 +147,9 @@ Structural features:
 
 Primary source:
 
-> “I feared that triumph would intoxicate us. I feared that we would
+> "I feared that triumph would intoxicate us. I feared that we would
 > forget how fragile power is, and how quickly it provokes the envy and
-> fear of others.”
+> fear of others."
 > — Otto von Bismarck, *Reflections and Reminiscences*
 
 Victory demands consolidation, not intoxication.
@@ -176,11 +191,11 @@ Kissinger observes that Bismarck transformed power into restraint:
 
 Primary source:
 
-> “Germany must be satiated. Only a satiated power can convince others
-> that it seeks peace, not further advantage.”
+> "Germany must be satiated. Only a satiated power can convince others
+> that it seeks peace, not further advantage."
 > — Otto von Bismarck, Reichstag address, 1888
 
-Katja Hoyer emphasizes that Bismarck’s true achievement lay not in
+Katja Hoyer emphasizes that Bismarck's true achievement lay not in
 unification but in his obsessive effort to prevent Germany from becoming
 a **system destabilizer**.
 
@@ -211,9 +226,9 @@ Policies:
 
 Primary source:
 
-> “One must deprive revolution of its nourishment. The state must care
+> "One must deprive revolution of its nourishment. The state must care
 > for its people if it wishes to remain strong against those who would
-> tear it apart.”
+> tear it apart."
 > — Otto von Bismarck, Reichstag debate on social insurance, 1881
 
 Legitimacy is managed through stability, not participation.
@@ -221,7 +236,7 @@ Legitimacy is managed through stability, not participation.
 ────────────────────────────────────────────────────────────
 VIII. DISMISSAL, ABSENCE, & SYSTEM FAILURE
 ────────────────────────────────────────────────────────────
-Bismarck’s system is personal and procedural rather than ideological.
+Bismarck's system is personal and procedural rather than ideological.
 
 Failure sequence:
 • Wilhelm II rejects restraint
@@ -229,7 +244,7 @@ Failure sequence:
 • Weltpolitik replaces containment
 • Naval escalation accelerates
 
-Dismissal in 1890 removes the system’s governor.
+Dismissal in 1890 removes the system's governor.
 
 As both Chrastil and Hoyer note, Germany retains power after Bismarck but
 loses **judgment**. Structure persists; restraint does not.
@@ -249,14 +264,81 @@ the historical precedent Bismarck inherited: the understanding that
 facing superior coalitions (*Crucible of War*).
 
 ────────────────────────────────────────────────────────────
-IX. CROSS–CIVILIZATIONAL CONNECTIONS
+IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–FREDERICK–GREAT — restraint and closure lineage
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — precision with stopping rule
-• MEM–FRANCIA–NAPOLEON — momentum without closure (contrast)
-• MEM–FRANCIA–LOUIS–XIV — expansion without system restraint
-• MEM–ANGLIA–WAR–SEVEN–YEARS — maritime endurance vs continental containment
-• MEM–GERMANIA–HITLER — inversion case (competence without restraint)
+Same-Civilization MEMs (GERMANIA):
+
+• MEM–GERMANIA–FREDERICK–GREAT
+  Dependency: Bismarck inherits Frederician restraint doctrine and Prussian
+  state machinery. Understanding of limited-war precedent requires this MEM.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: The state Bismarck transforms into imperial core. Prussian
+  institutional structure is prerequisite to understanding unification method.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Bismarck's constitutional monarchy depends on Hohenzollern
+  legitimacy. Royal-ministerial tension shapes entire chancellorship.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: The decisive unification war. Bismarck's closure doctrine is
+  demonstrated here; MEM is unintelligible without war's bounded execution.
+
+• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
+  Dependency: First unification war establishing Prussian hegemony. Shows
+  Bismarck's pattern of diplomatic isolation and rapid cessation.
+
+• MEM–GERMANIA–WAR–DANO–PRUSSIAN
+  Dependency: Initial unification war. Establishes Austro-Prussian
+  collaboration that Bismarck later ruptures by design.
+
+• MEM–GERMANIA–WILHELM–II
+  Dependency: The successor who abandons Bismarckian restraint. System
+  failure analysis requires understanding of post-1890 divergence.
+
+• MEM–GERMANIA–METTERNICH
+  Dependency: Diplomatic predecessor governing European equilibrium.
+  Bismarck's alliance system inherits and modifies Metternich's concert logic.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Dissolved structure Bismarck's empire replaces. Peter Wilson's
+  analysis requires understanding what German order preceded unification.
+
+• MEM–GERMANIA–HIST–CLAUSEWITZ
+  Dependency: Prussian military theory Bismarck operationalizes. "War as
+  politics by other means" doctrine informs limited-war execution.
+
+• MEM–GERMANIA–WAR–MOLTKE
+  Dependency: Military partnership enabling rapid victories. Bismarck's
+  political control depends on Moltke's operational excellence.
+
+• MEM–GERMANIA–HITLER
+  Dependency: Inversion case demonstrating competence without restraint.
+  Bismarck's legacy requires contrast with successor catastrophe.
+
+GEO MEMs (≥2 required):
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Western strategic boundary. Franco-German rivalry and
+  Alsace-Lorraine annexation are shaped by Rhine geography.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Prussian heartland geography. Eastern power base from which
+  Bismarck projects unification extends along Elbe corridor.
+
+Cross-Civilizational MEMs:
+
+• MEM–FRANCIA–NAPOLEON
+  Dependency: Momentum without closure contrast. Bismarck explicitly
+  designs his system to avoid Napoleonic overextension.
+
+• MEM–FRANCIA–LOUIS–XIV
+  Dependency: Expansion without system restraint. France's encirclement
+  fears stem from Louis XIV precedent Bismarck must manage.
+
+• MEM–ANGLIA–WAR–SEVEN–YEARS
+  Dependency: Maritime endurance versus continental containment. Frederick's
+  survival precedent informs Bismarckian strategic caution.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -265,7 +347,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Limited war can consolidate states; unlimited ambition dissolves them.
 • Alliance systems require discipline more than ideology.
 • Social reform can stabilize conservative orders.
-• Germania’s 20th-century collapse begins with abandonment of Bismarckian
+• Germania's 20th-century collapse begins with abandonment of Bismarckian
   closure.
 
 ────────────────────────────────────────────────────────────
@@ -275,30 +357,54 @@ This MEM supports curiosity-led exploration.
 
 Exploration prompts may include:
 A) What if Bismarck had remained Chancellor after 1890?
-B) Compare Bismarck’s restraint to Napoleon’s momentum.
+B) Compare Bismarck's restraint to Napoleon's momentum.
 C) Explore Franco-Prussian War outcomes without enforced closure.
 D) Examine how alliance discipline fails without a system governor.
 
 ────────────────────────────────────────────────────────────
-XII. SOURCES
+XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-Primary Sources:
-• Otto von Bismarck, Reichstag speeches
-• Otto von Bismarck, correspondence
-• Otto von Bismarck, *Reflections and Reminiscences*
+PRIMARY SOURCES:
+• Otto von Bismarck, Reichstag speeches (1862–1890)
+• Otto von Bismarck, private correspondence
+• Otto von Bismarck, *Reflections and Reminiscences* (1898)
+• Otto von Bismarck, diplomatic memoranda
 
-Secondary Sources (Source Governance Compliant):
-• **Rachel Chrastil**, *Bismarck’s War: The Franco-Prussian War and the Making of Modern Europe*
-• **Katja Hoyer**, *Blood and Iron: The Rise and Fall of the German Empire*
-• **Geoffrey Wawro**, *The Franco-Prussian War*
-• **Henry Kissinger**, *Diplomacy*
-• Otto Pflanze
-• Jonathan Steinberg
-• Gordon Craig
-• Christopher Clark
-• **Peter H. Wilson**, *Heart of Europe* (2020)
-• **Fred Anderson**, *Crucible of War* (2000)
+SECONDARY SOURCES (ARC-GERMANIA Compliant):
+• Chrastil, Rachel. *Bismarck's War: The Franco-Prussian War and the
+  Making of Modern Europe*. Basic Books, 2023.
+• Hoyer, Katja. *Blood and Iron: The Rise and Fall of the German Empire,
+  1871–1918*. History Press, 2021.
+• Kissinger, Henry. *Diplomacy*. Simon & Schuster, 1994.
+• Wilson, Peter H. *Heart of Europe: A History of the Holy Roman Empire*.
+  Belknap Press, 2020.
+• Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of
+  Empire in British North America, 1754–1766*. Vintage, 2000.
+• Clark, Christopher. *Iron Kingdom: The Rise and Downfall of Prussia,
+  1600–1947*. Belknap Press, 2006.
+• Craig, Gordon A. *Germany, 1866–1945*. Oxford University Press, 1978.
+• Pflanze, Otto. *Bismarck and the Development of Germany*. 3 vols.
+  Princeton University Press, 1990.
+• Steinberg, Jonathan. *Bismarck: A Life*. Oxford University Press, 2011.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BISMARCK — v1.6
+XIII. MEM INGEST BOOTSTRAP
+────────────────────────────────────────────────────────────
+When this MEM is ingested without CORE:
+
+CONFIRM: MEM–GERMANIA–BISMARCK active.
+DECLARE: Civilizational Memory engaged.
+
+EXPLORATION OPTIONS:
+1. Analyze Bismarck's Realpolitik methodology
+2. Examine the three unification wars sequence
+3. Explore the alliance system architecture
+4. Investigate the Kulturkampf and social insurance policies
+5. Compare Frederician and Bismarckian restraint
+6. Trace post-1890 system failure mechanisms
+7. Analyze the Kissingen Dictation strategy
+8. Contrast Bismarckian closure with Napoleonic momentum
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–BISMARCK — v2.0
 ────────────────────────────────────────────────────────────

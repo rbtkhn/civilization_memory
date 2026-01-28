@@ -1,13 +1,30 @@
-CIV–ARC–GERMANIA — v1.1
+CIV–ARC–GERMANIA — v2.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–GERMANIA v1.0
-Upgrade Type: ADDITIVE · AUTHOR REGISTRY EXPANSION
+Supersedes: CIV–ARC–GERMANIA v2.0
+Upgrade Type: AUTHOR EXPANSION (Will Durant added)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0) — STRUCTURAL ALIGNMENT
+────────────────────────────────────────────────────────────
+This version aligns CIV–ARC–GERMANIA with CIV–ARC–TEMPLATE v2.7.
+
+v2.0 changes:
+• Added UPGRADE NOTE section per template structure
+• Expanded ARC-T category descriptions with period definitions
+• Added orthogonality examples (Gibbon, Tacitus)
+• Expanded Discovery Framework with explicit non-addition rules
+• Fixed header/footer version mismatch (was v1.1/v1.2)
+
+UNCHANGED:
+• Author admissibility lists (already comprehensive)
+• Temporal precedence rule (immutable)
+• Core scope definition
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -32,9 +49,20 @@ II. ARC-TEMPORAL CATEGORIES (ARC-T)
 Authors are classified by the HISTORICAL PERIOD in which they wrote.
 
 ARC-T-ANCIENT
+Authors from Germania's classical/foundational period (pre-500 AD).
+Direct witnesses to Germanic tribes, Roman contact, migration era.
+
 ARC-T-MEDIEVAL
+Authors from the medieval transmission period (c. 500–1500).
+Continuity witnesses to Carolingian, Ottonian, Hohenstaufen eras.
+
 ARC-T-EARLY-MOD
+Authors from the early modern critical period (c. 1500–1900).
+Historiographic interpretation, typically out of copyright.
+
 ARC-T-MODERN
+Authors from contemporary scholarship (c. 1900–present).
+Current academic interpretation, under copyright.
 
 ────────────────────────────────────────────────────────────
 III. TEMPORAL PRECEDENCE RULE (ABSOLUTE)
@@ -87,6 +115,12 @@ ARC-T-MODERN:
 • Volker R. Berghahn (b. 1938) — Modern Germany
 • Martyn Rady (b. 1955) — The Habsburgs: The Rise and Fall of a World Power; The Middle Kingdoms
 • Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire
+• Will Durant (1885–1981) — The Story of Civilization (11 vols.)
+  TOPICAL SCOPE:
+  - Vol. 4 (The Age of Faith): Charlemagne, Teutonic Knights, medieval Germania
+  - Vol. 6 (The Reformation): Luther, Gutenberg, confessional division
+  - Vol. 7 (The Age of Reason Begins): Thirty Years' War, Habsburg-Protestant conflict
+  - Vol. 8 (The Age of Louis XIV): Post-Westphalia consolidation
 
 RULE: Only listed authors may be quoted without discovery flag.
 
@@ -105,11 +139,30 @@ DISCOVERY FLAG (REQUIRED):
 Source: [Author/Work]
 Justification: [Why this source is necessary]"
 
+Expanded discovery does NOT:
+• Add authors to the permanent canon
+• Alter temporal precedence
+• Remove the requirement to flag
+
 ────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
 ARC-T (temporal categories) and ERC (evidence role categories)
 are ORTHOGONAL classification systems.
+
+A single quotation has BOTH classifications:
+
+EXAMPLE:
+A quote from Gibbon's Decline and Fall:
+• ARC-T: ARC-T-EARLY-MOD (18th century author)
+• ERC: ERC-SECONDARY (scholarly interpretation)
+
+EXAMPLE:
+A quote from Tacitus' Germania:
+• ARC-T: ARC-T-ANCIENT (1st–2nd century author)
+• ERC: ERC-PRIMARY (direct evidence from period)
+
+See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
 
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
@@ -142,5 +195,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v1.2
+END OF FILE — CIV–ARC–GERMANIA v2.1
 ────────────────────────────────────────────────────────────

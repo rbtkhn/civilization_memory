@@ -1,21 +1,46 @@
-CIV–INDEX–GERMANIA — v2.0
+CIV–INDEX–GERMANIA — v2.1
 Civilizational Memory Codex · Civilization Index File
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.0
-Supersedes: CIV–INDEX–GERMANIA v1.13
-Upgrade Type: MAJOR · FULL REPOSITORY SYNC + NEW SECTIONS
+Version: 2.1
+Supersedes: CIV–INDEX–GERMANIA v2.0
+Upgrade Type: TEMPLATE COMPLIANCE UPDATE (9 MEM FILES → v2.0)
 Civilization: GERMANIA
 Subject: Germania Memory Index (Authoritative File Register)
 Dates: Roman era–present
 Class: CIV–INDEX
 Last Update: January 2026
-Total Registered Files: 107 MEM–GERMANIA objects
-WORDCOUNT: ~1,200
+Total Registered Files: 110 MEM–GERMANIA objects
+WORDCOUNT: ~1,250
 
 Derived from: CIV–INDEX–TEMPLATE v2.0
 Governance Parity: CORE–GERMANIA v1.9 MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1) — LEGACY MEM TEMPLATE COMPLIANCE
+────────────────────────────────────────────────────────────
+This version documents the upgrade of 9 legacy MEM–GERMANIA files
+to v2.0 with full CIV–MEM–TEMPLATE v2.8 compliance.
+
+v2.1 changes:
+• 9 MEM files upgraded to v2.0 (from v1.1–v1.6 range)
+• All upgraded files now include: Subject Type Declaration,
+  MEM CONNECTIONS (≥10 same-civ + ≥2 GEO), MEM BIBLIOGRAPHY,
+  20% quote minimum, ARC compliance declaration, MEM Ingest Bootstrap
+• Fixed CIV–DOCTRINE–GERMANIA version: v1.5 → v1.4
+• Fixed CIV–ARC–GERMANIA version: v1.0 → v1.1
+
+Upgraded files:
+• MEM–GERMANIA–CHARLEMAGNE (v1.4 → v2.0)
+• MEM–GERMANIA–FREDERICK–GREAT (v1.4 → v2.0)
+• MEM–GERMANIA–BISMARCK (v1.6 → v2.0)
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN (v1.5 → v2.0)
+• MEM–GERMANIA–GUTENBERG (v1.1 → v2.0)
+• MEM–GERMANIA–HITLER (v1.1 → v2.0)
+• MEM–GERMANIA–HIST–CLAUSEWITZ (v1.1 → v2.0)
+• MEM–GERMANIA–WAR–TIRPITZ (v1.2 → v2.0)
+• MEM–GERMANIA–TEUTONIC–KNIGHTS (v1.2 → v2.0)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0) — FULL REPOSITORY SYNC + NEW SECTIONS
@@ -53,18 +78,18 @@ II. CANONICAL GOVERNANCE FILES
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
   Template Version Used: CIV–SCHOLAR–TEMPLATE v2.5
 
-• CIV–DOCTRINE–GERMANIA — v1.5
+• CIV–DOCTRINE–GERMANIA — v1.4
   Status: ACTIVE · CANONICAL · LOCKED
   Template Version Used: CIV–DOCTRINE–TEMPLATE v2.1
 
 ────────────────────────────────────────────────────────────
 III. REGISTERED MEM FILES — PERSONS & FIGURES
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–BISMARCK.md
-• MEM–GERMANIA–CHARLEMAGNE.md
-• MEM–GERMANIA–FREDERICK–GREAT.md
-• MEM–GERMANIA–GUTENBERG.md
-• MEM–GERMANIA–HITLER.md
+• MEM–GERMANIA–BISMARCK.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–CHARLEMAGNE.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–FREDERICK–GREAT.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–GUTENBERG.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–HITLER.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–KAUNITZ.md
 • MEM–GERMANIA–LUTHER.md
 • MEM–GERMANIA–METTERNICH.md
@@ -104,7 +129,7 @@ IV. REGISTERED MEM FILES — EMPERORS / REGIMES
 ────────────────────────────────────────────────────────────
 V. REGISTERED MEM FILES — HISTORIANS / AUTHORS (LENS-SPECIFIC)
 ────────────────────────────────────────────────────────────
-• MEM–GERMANIA–HIST–CLAUSEWITZ.md
+• MEM–GERMANIA–HIST–CLAUSEWITZ.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–HIST–RANKE.md
 • MEM–GERMANIA–HIST–SCHLIEMANN.md
 
@@ -120,10 +145,13 @@ VI. REGISTERED MEM FILES — EXTERNAL CIVILIZATIONS (LENS-SPECIFIC)
 • MEM–GERMANIA–NETHERLANDS.md
 • MEM–GERMANIA–NETHERLANDS–DUTCH–REPUBLIC.md
 • MEM–GERMANIA–NORWAY.md
+• MEM–GERMANIA–NORWAY–OSLO.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–POLAND.md
 • MEM–GERMANIA–RUSSIA.md
 • MEM–GERMANIA–SLAVS.md
 • MEM–GERMANIA–SWEDEN.md
+• MEM–GERMANIA–SWEDEN–GUSTAVUS–ADOLPHUS.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–SWEDEN–STOCKHOLM.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–SWITZERLAND.md
 
 ────────────────────────────────────────────────────────────
@@ -157,7 +185,7 @@ VIII. REGISTERED MEM FILES — INSTITUTIONS & CIVIL STRUCTURES
 • MEM–GERMANIA–HANSEATIC–LEAGUE.md
 • MEM–GERMANIA–KONIGSBERG.md
 • MEM–GERMANIA–PAPACY.md
-• MEM–GERMANIA–TEUTONIC–KNIGHTS.md
+• MEM–GERMANIA–TEUTONIC–KNIGHTS.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 
 ────────────────────────────────────────────────────────────
 VIII.A. REGISTERED MEM FILES — URBAN NODES
@@ -192,7 +220,7 @@ X. REGISTERED MEM FILES — WARS / CONFLICTS
 • MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION.md
 • MEM–GERMANIA–WAR–CAESAR.md
 • MEM–GERMANIA–WAR–CRUSADES.md
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN.md
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–WAR–MOHACS.md
 • MEM–GERMANIA–WAR–MOLTKE.md
 • MEM–GERMANIA–WAR–OTTOMAN–HABSBURG.md
@@ -200,7 +228,7 @@ X. REGISTERED MEM FILES — WARS / CONFLICTS
 • MEM–GERMANIA–WAR–SPANISH–SUCCESSION.md
 • MEM–GERMANIA–WAR–TEUTOBURG–FOREST.md
 • MEM–GERMANIA–WAR–THIRTY–YEARS.md
-• MEM–GERMANIA–WAR–TIRPITZ.md
+• MEM–GERMANIA–WAR–TIRPITZ.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–WAR–VIKINGS.md
 • MEM–GERMANIA–WAR–WATERLOO.md
 
@@ -234,8 +262,8 @@ XIV. INDEX PARITY & MIRROR STATUS
 Mirror Targets:
 • CIV–CORE–GERMANIA v1.9 — present
 • CIV–SCHOLAR–GERMANIA v2.7 — present
-• CIV–DOCTRINE–GERMANIA v1.5 — present
-• CIV–ARC–GERMANIA v1.0 — present
+• CIV–DOCTRINE–GERMANIA v1.4 — present
+• CIV–ARC–GERMANIA v2.1 — present
 
 ────────────────────────────────────────────────────────────
 XV. CANONICAL LOCK NOTICE
@@ -248,8 +276,8 @@ permitted by template governance.
 ────────────────────────────────────────────────────────────
 XVI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
-• CIV–ARC–GERMANIA — v1.0
+• CIV–ARC–GERMANIA — v2.1
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–GERMANIA — v2.0
+END OF FILE — CIV–INDEX–GERMANIA — v2.1
 ────────────────────────────────────────────────────────────
