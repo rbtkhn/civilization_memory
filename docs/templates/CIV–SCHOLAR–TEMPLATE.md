@@ -1,13 +1,51 @@
-CIV–SCHOLAR–TEMPLATE — v2.6
+CIV–SCHOLAR–TEMPLATE — v2.7
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.5
-Upgrade Type: ADDITIVE · MIND INTEGRATION + RLL INTERACTION CONSTRAINTS
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.6
+Upgrade Type: ADDITIVE · MINIMAL SESSION SELF-CONTAINMENT
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.6+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.2+
 Last Update: January 2026
-WORDCOUNT: ~8,000
+WORDCOUNT: ~10,500
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.6 → v2.7 MINIMAL SESSION SELF-CONTAINMENT)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.6.
+
+v2.7 introduces the following ADDITIVE enhancements:
+
+• SCHOLAR SELF-CONTAINMENT REQUIREMENT (Section IX EXPANDED)
+  – SCHOLAR files MUST embed specifications for minimal LEARN sessions
+  – No external files required for basic operation
+  – All three MIND profiles embedded with operational specifications
+
+• OGE EMBEDDING (Section XI.A NEW · MANDATORY)
+  – OGE specification MUST be embedded in every SCHOLAR file
+  – 6-option format with content requirements
+  – Ensures structured continuation without external protocol
+
+• MERCOURIS PRIMARY VOICE EMBEDDING (Section IX.A NEW · MANDATORY)
+  – Full linguistic fingerprint embedded
+  – Structural reasoning posture specified
+  – Forbidden behaviors listed
+
+• BARNES CATALYST COMMAND (Section IX.B NEW · MANDATORY)
+  – Full command specification: `apply barnes cognition to [TARGET]`
+  – Constraint hierarchy (Constitutional → Irreversibility)
+  – Voice mandate, auto-revert rule, mode-specific posture
+
+• STRUCTURAL FORMAT TEMPLATES (Section XI.B-D NEW · MANDATORY)
+  – Entry addition format (ENTRY ####)
+  – Synthesis drafting format (SYNTHESIS ####)
+  – RLL proposal format (RLL–[CIV]–####)
+  – Freezing and binding procedures specified
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.5 → v2.6 MIND INTEGRATION + RLL INTERACTION)
@@ -809,6 +847,14 @@ Count tracking enables:
 
 Counts SHOULD be updated with each additive upgrade.
 
+v2.7 ADDITIONS:
+• OGE Embedding Requirement (Section XI.A) — MANDATORY for all SCHOLAR files
+• Entry Addition Format (Section XI.B) — MANDATORY for all SCHOLAR files
+• Synthesis Drafting Format (Section XI.C) — MANDATORY for all SCHOLAR files
+• RLL Proposal Format (Section XI.D) — MANDATORY for all SCHOLAR files
+• Self-containment requirement: SCHOLAR files must embed all specifications
+  needed for minimal LEARN sessions without external file loading
+
 v2.6 ADDITIONS:
 • Apply Mearsheimer Cognition Command (Section IX)
   – Full voice specification for `apply mearsheimer cognition to [TARGET]`
@@ -866,5 +912,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.6
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.7
 ────────────────────────────────────────────────────────────

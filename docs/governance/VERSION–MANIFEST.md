@@ -1,4 +1,4 @@
-VERSION–MANIFEST — v1.4
+VERSION–MANIFEST — v1.5
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
@@ -39,7 +39,7 @@ TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v2.0
-• CIV–SCHOLAR–TEMPLATE: v2.6
+• CIV–SCHOLAR–TEMPLATE: v2.7
 • CIV–SCHOLAR–PROTOCOL: v2.2
 • CIV–DOCTRINE–TEMPLATE: v2.1
 • CIV–ARC–TEMPLATE: v2.7
@@ -141,6 +141,13 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-28 (SCHOLAR TEMPLATE v2.7 — MINIMAL SESSION SELF-CONTAINMENT):
+• CIV–SCHOLAR–TEMPLATE: v2.6 → v2.7 (self-containment requirement)
+  – OGE embedding mandatory (Section XI.A)
+  – Entry/Synthesis/RLL formats embedded (Section XI.B-D)
+  – All specifications for minimal LEARN sessions embedded
+• VERSION–MANIFEST: v1.4 → v1.5
 
 2026-01-28 (SCHOLAR TEMPLATE + PROTOCOL v2.6/v2.2):
 • CIV–SCHOLAR–TEMPLATE: v2.5 → v2.6 (MIND integration + RLL interaction)
@@ -245,5 +252,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.4
+END OF FILE — VERSION–MANIFEST — v1.5
 ────────────────────────────────────────────────────────────
