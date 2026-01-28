@@ -1036,14 +1036,46 @@ Outcome:
   - Baltic defense = secondary (protects commercial reach, not survival)
   - North Sea challenge = catastrophic (fleet spending degrades Rhine-sector forces)
   - Atlantic access = derivative (guaranteed by alliance, not indigenous power)
-• RLL–0006 REFINEMENT PROPOSED:
+• QUANTIFIED THRESHOLDS (v2.7 Mearsheimer Deepening):
+  - OPPORTUNITY COST CALCULATION:
+    * Naval construction cost: ~50-60M marks per dreadnought (1900-1914)
+    * Army corps equivalent: ~15-20M marks per corps (2 divisions)
+    * Tirpitz program total: ~11.5 billion marks (1898-1914)
+    * Opportunity cost: 15-20 divisions NOT available at Marne
+    * Per-dreadnought alternative: 6-8 divisions equivalent
+  - NAVAL SPENDING WARNING THRESHOLDS:
+    * >15% of military budget to naval = degradation warning (Rhine investment begins declining)
+    * >25% of military budget to naval = structural Rhine degradation (army modernization stalls)
+    * Any attempt to close 1:1.5 capital ship ratio = alliance trigger (produces opposing coalition)
+    * Tirpitz spending reached ~33% of military budget at peak = catastrophic allocation
+  - BLOCKADE ARITHMETIC:
+    * German food import dependency: ~30% of calories (pre-1914)
+    * Blockade caloric reduction: 1,500-1,800 → 1,000-1,200 daily (1916-1918)
+    * Excess mortality: 400,000-750,000 civilian deaths (1914-1919)
+    * Fleet contribution to blockade relief: ZERO (fleet preserved itself in port)
+  - BINDING MECHANISM (Self-Reinforcing Decline):
+    * Maritime investment → Rhine defense degradation
+    * Rhine produces military power (60%+ industrial output)
+    * Degraded Rhine = degraded power generation
+    * Cannot recover maritime losses with degraded power base
+    * Cycle is self-reinforcing; once entered, exit requires external intervention or defeat
+  - ASYMMETRIC RISK PROFILE:
+    * Britain loses fleet → still has Channel moat, survives
+    * Germany loses fleet → has already degraded army, survives diminished
+    * Britain loses Jutland → blockade continues, war continues
+    * Germany loses Marne → war lost regardless of fleet
+    * Risk asymmetry = 10:1 or greater (fleet existential for Britain, optional for Germany)
+• RLL–0006 REFINEMENT PROPOSED (with quantified thresholds):
   - RLL–0006.a (Baltic Access Corollary): Baltic reach is strategic luxury; loss
     constrains commercial reach but does not threaten survival; minimal military
-    investment warranted.
+    investment warranted. THRESHOLD: Baltic naval investment should not exceed
+    5% of military budget; coastal defense only; no attempt at sea control.
   - RLL–0006.b (North Sea Contingency Corollary): North Sea access is contingent
     privilege, not contestable right; naval challenge degrades Rhine-sector
     concentration; rational posture accepts subordinate access within alliance
-    framework.
+    framework. THRESHOLDS: (1) Naval spending >15% = degradation warning;
+    (2) >25% = structural degradation; (3) Any attempt to match island power
+    capital ship ratio = automatic coalition formation against Germany.
 • VALIDATION CASES:
   - Hanseatic success (1250–1450): No great-power competitor in Baltic; commercial
     proceduralism substitutes for sovereignty; COMPLIANT with hierarchy (remained
