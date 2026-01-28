@@ -8,7 +8,7 @@ Subject: Frankfurt (Imperial Election Site, Financial Node, and Bourgeois Autono
 Dates: c. 794 AD–present
 Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
-ARC Compliance: CIV–ARC–GERMANIA v1.1
+ARC Compliance: CIV–ARC–GERMANIA v2.2
 Subject Type: WELL-DOCUMENTED (Urban Node)
 Applied Requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 Last Update: January 2026

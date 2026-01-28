@@ -266,6 +266,7 @@ CIV–INDEX–[CIV] — Registration file (no interpretation)
 CIV–SCHOLAR–[CIV] — Learning ledger
 CIV–DOCTRINE–[CIV] — Frozen synthesis registry
 CIV–ARC–[CIV] — Academic reference canon
+CIV–ARC–[CIV]–LEDGER — Consolidated bibliography (derived)
 
 ────────────────────────────────────────────────────────────
 FORBIDDEN BEHAVIORS

@@ -15,7 +15,7 @@ Last Update: January 2026
 Word Count: ~3,400
 
 ARC VERSION DECLARATION:
-This MEM is compliant with CIV–ARC–GERMANIA v1.1.
+This MEM is compliant with CIV–ARC–GERMANIA v2.2.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -164,6 +164,20 @@ Kershaw describes the peculiar structure:
 > — Ian Kershaw, *Hitler: 1936–1945 Nemesis* (2000)
 
 Society becomes an extension of command.
+
+THE NAZI STABILIZATION PARADOX:
+Niall Ferguson identifies an ironic pattern: the Nazi regime solved the
+institutional weaknesses that had plagued Wilhelmine and Weimar Germany:
+
+> "The Nazis checked the autonomy of economic interest groups such as
+> large firms and organized labor, and increased the state's share in
+> overall investment, thereby creating a decisive shift in the economic
+> balance of power from the private sector to the Reich."
+> — Niall Ferguson, *Paper and Iron* (1995)
+
+Results: 1933–1939 cost-of-living index rose only 7%; annual wholesale
+price inflation only 1.2%. The weak Wilhelmine/Weimar state was replaced
+by the totalitarian state—institutional overcorrection.
 
 Primary source:
 
@@ -411,6 +425,10 @@ PRIMARY SOURCES:
 • German military and diplomatic records
 
 SECONDARY SOURCES (ARC-GERMANIA Compliant):
+• Ferguson, Niall. *Paper and Iron: Hamburg Business and German Politics
+  in the Era of Inflation, 1897–1927*. Cambridge University Press, 1995.
+• Ferguson, Niall. *The War of the World: Twentieth-Century Conflict and
+  the Descent of the West*. Penguin, 2006.
 • Kershaw, Ian. *Hitler: 1889–1936 Hubris*. W.W. Norton, 1998.
 • Kershaw, Ian. *Hitler: 1936–1945 Nemesis*. W.W. Norton, 2000.
 • Evans, Richard J. *The Coming of the Third Reich*. Penguin, 2003.

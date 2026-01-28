@@ -11,7 +11,7 @@ Subject: Germania Memory Index (Authoritative File Register)
 Dates: Roman era–present
 Class: CIV–INDEX
 Last Update: January 2026
-Total Registered Files: 124 MEM–GERMANIA objects
+Total Registered Files: 126 MEM–GERMANIA objects
 WORDCOUNT: ~1,250
 
 Derived from: CIV–INDEX–TEMPLATE v2.0
@@ -238,6 +238,8 @@ IX. REGISTERED MEM FILES — SUB-EPOCHS / TRANSFORMATIONS
 ────────────────────────────────────────────────────────────
 • MEM–GERMANIA–CAROLINGIAN–PARTITION.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANIA–LOTHARINGIA.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–WEIMAR.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–WEIMAR–HYPERINFLATION.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 
 ────────────────────────────────────────────────────────────
 X. REGISTERED MEM FILES — WARS / CONFLICTS

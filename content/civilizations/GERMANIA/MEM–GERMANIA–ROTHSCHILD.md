@@ -8,7 +8,7 @@ Subject: Rothschild Dynasty (Financial Network, Trans-Sovereign Capital, and Cre
 Dates: c. 1744–present
 Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
-ARC Compliance: CIV–ARC–GERMANIA v1.1
+ARC Compliance: CIV–ARC–GERMANIA v2.2
 Subject Type: INTERPRETIVE (Institutional Dynasty)
 Applied Requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 Last Update: January 2026

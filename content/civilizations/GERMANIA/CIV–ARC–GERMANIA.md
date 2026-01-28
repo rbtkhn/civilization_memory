@@ -1,13 +1,23 @@
-CIV–ARC–GERMANIA — v2.1
+CIV–ARC–GERMANIA — v2.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–GERMANIA v2.0
-Upgrade Type: AUTHOR EXPANSION (Will Durant added)
+Supersedes: CIV–ARC–GERMANIA v2.1
+Upgrade Type: AUTHOR EXPANSION (Niall Ferguson added)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.2) — AUTHOR EXPANSION
+────────────────────────────────────────────────────────────
+This version adds Niall Ferguson to the ARC-T-MODERN author list.
+
+v2.2 changes:
+• Added Niall Ferguson (b. 1964) with topical scope definition
+• Ferguson works applicable: Paper and Iron, The House of Rothschild,
+  The Pity of War, The War of the World
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0) — STRUCTURAL ALIGNMENT
@@ -121,6 +131,12 @@ ARC-T-MODERN:
   - Vol. 6 (The Reformation): Luther, Gutenberg, confessional division
   - Vol. 7 (The Age of Reason Begins): Thirty Years' War, Habsburg-Protestant conflict
   - Vol. 8 (The Age of Louis XIV): Post-Westphalia consolidation
+• Niall Ferguson (b. 1964) — Paper and Iron; The House of Rothschild; The Pity of War; The War of the World
+  TOPICAL SCOPE:
+  - Paper and Iron: Hamburg business, Wilhelmine/Weimar economics, hyperinflation
+  - The House of Rothschild (2 vols.): Frankfurt banking, Metternich era, Jewish emancipation
+  - The Pity of War: WWI from German perspective, military efficiency, British error
+  - The War of the World: Twentieth-century conflict, Nazi era, descent of the West
 
 RULE: Only listed authors may be quoted without discovery flag.
 
@@ -195,5 +211,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v2.1
+END OF FILE — CIV–ARC–GERMANIA v2.2
 ────────────────────────────────────────────────────────────

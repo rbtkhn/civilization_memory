@@ -15,7 +15,7 @@ Last Update: January 2026
 Word Count: ~3,200
 
 ARC VERSION DECLARATION:
-This MEM is compliant with CIV–ARC–GERMANIA v1.1.
+This MEM is compliant with CIV–ARC–GERMANIA v2.2.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -234,7 +234,38 @@ Primary source:
 Legitimacy is managed through stability, not participation.
 
 ────────────────────────────────────────────────────────────
-VIII. DISMISSAL, ABSENCE, & SYSTEM FAILURE
+VIII. INSTITUTIONAL LEGACY AND STRUCTURAL WEAKNESS
+────────────────────────────────────────────────────────────
+Bismarck's political achievement masked institutional defects.
+
+While Bismarck governed with personal brilliance, the Reich's underlying
+fiscal and monetary structures were fragile. Niall Ferguson identifies
+weaknesses that persisted long after Bismarck's dismissal:
+
+> "The central Reichsbank of the Wilhelmine era had relatively little
+> power compared to the large private discount banks to dictate monetary
+> reserves or control the supply of money in the German economy."
+> — Niall Ferguson, *Paper and Iron* (1995)
+
+STRUCTURAL DEFECTS:
+• Limited tax authority across Reich, Länder, and Communes
+• Expenditure outpacing revenue capacity
+• Public borrowing substituting for taxation
+• Interest groups able to manipulate fiscal policy
+
+Ferguson traces these weaknesses to Bismarck's constitutional design:
+
+> "Ferguson poses the question why economic interest groups in Germany
+> were so easily able to manipulate monetary and fiscal policies... He
+> finds the answer in the weak economic and monetary institutions set
+> in place in Bismarck's Reich."
+> — J. Ronald Shearer, H-Net Review (1996)
+
+Bismarck's personal governance compensated for institutional weakness.
+His successors inherited the weakness without the compensation.
+
+────────────────────────────────────────────────────────────
+IX. DISMISSAL, ABSENCE, & SYSTEM FAILURE
 ────────────────────────────────────────────────────────────
 Bismarck's system is personal and procedural rather than ideological.
 
@@ -264,7 +295,7 @@ the historical precedent Bismarck inherited: the understanding that
 facing superior coalitions (*Crucible of War*).
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS
+X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-Civilization MEMs (GERMANIA):
 
@@ -341,7 +372,7 @@ Cross-Civilizational MEMs:
   survival precedent informs Bismarckian strategic caution.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Unification without restraint creates delayed catastrophe.
 • Limited war can consolidate states; unlimited ambition dissolves them.
@@ -351,7 +382,7 @@ X. CONTINUITY INSIGHTS (RAW)
   closure.
 
 ────────────────────────────────────────────────────────────
-XI. PEDAGOGICAL AFFORDANCE LAYER
+XII. PEDAGOGICAL AFFORDANCE LAYER
 ────────────────────────────────────────────────────────────
 This MEM supports curiosity-led exploration.
 
@@ -362,7 +393,7 @@ C) Explore Franco-Prussian War outcomes without enforced closure.
 D) Examine how alliance discipline fails without a system governor.
 
 ────────────────────────────────────────────────────────────
-XII. MEM BIBLIOGRAPHY
+XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
 • Otto von Bismarck, Reichstag speeches (1862–1890)
@@ -373,6 +404,8 @@ PRIMARY SOURCES:
 SECONDARY SOURCES (ARC-GERMANIA Compliant):
 • Chrastil, Rachel. *Bismarck's War: The Franco-Prussian War and the
   Making of Modern Europe*. Basic Books, 2023.
+• Ferguson, Niall. *Paper and Iron: Hamburg Business and German Politics
+  in the Era of Inflation, 1897–1927*. Cambridge University Press, 1995.
 • Hoyer, Katja. *Blood and Iron: The Rise and Fall of the German Empire,
   1871–1918*. History Press, 2021.
 • Kissinger, Henry. *Diplomacy*. Simon & Schuster, 1994.
@@ -388,7 +421,7 @@ SECONDARY SOURCES (ARC-GERMANIA Compliant):
 • Steinberg, Jonathan. *Bismarck: A Life*. Oxford University Press, 2011.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 When this MEM is ingested without CORE:
 

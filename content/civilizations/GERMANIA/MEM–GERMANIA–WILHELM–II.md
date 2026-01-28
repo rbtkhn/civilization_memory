@@ -9,7 +9,7 @@ Subject: Kaiser Wilhelm II
 Dates: 1859–1941 AD (reign 1888–1918)
 Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
-ARC Compliance: CIV–ARC–GERMANIA v1.2
+ARC Compliance: CIV–ARC–GERMANIA v2.2
 Cognitive Layer: CIV–MIND–MERCOURIS v2.5 (Primary) · CIV–MIND–MEARSHEIMER v2.4 (Strategic)
 Last Update: January 2026
 Word Count: ~2,800
@@ -166,6 +166,17 @@ Contributing factors:
 By August 1914, Wilhelm faced the two-front war Bismarck had dedicated
 his career to preventing. The Kaiser who sought glory found catastrophe.
 
+Niall Ferguson offers a revisionist perspective on war origins:
+
+> "Ferguson challenges the assumption that war was inevitable due to
+> imperialism and militarism, arguing instead that Europe was trending
+> away from militarism in 1914. He contends that German fears of growing
+> military weakness actually prompted the war."
+> — Niall Ferguson, *The Pity of War* (1998)
+
+This interpretation reframes Wilhelm's aggression as defensive anxiety—
+Germany's perception of declining relative power drove the fatal gamble.
+
 ────────────────────────────────────────────────────────────
 VIII. WAR AND MARGINALIZATION (1914–1918)
 ────────────────────────────────────────────────────────────
@@ -285,6 +296,7 @@ Secondary (ARC-Compliant):
 • **Katja Hoyer**, *Blood and Iron* (2021)
 • **Henry Kissinger**, *Diplomacy* (1994)
 • **Peter Wilson**, *Heart of Europe* (2016)
+• **Niall Ferguson**, *The Pity of War: Explaining World War I* (1998)
 • Christopher Clark, *Kaiser Wilhelm II: A Life in Power*
 • John Röhl, *Wilhelm II* (3 vols.)
 • Isabel Hull, *The Entourage of Kaiser Wilhelm II*
@@ -293,9 +305,9 @@ Secondary (ARC-Compliant):
 ARC COMPLIANCE CHECK
 ────────────────────────────────────────────────────────────
 Primary Source Verbatim: 1 quote (Bismarck on Wilhelm)
-Secondary Source Verbatim: 4 quotes (Hoyer x2, Kissinger x1, Wilson x1)
+Secondary Source Verbatim: 5 quotes (Hoyer x2, Kissinger x1, Wilson x1, Ferguson x1)
 
-20% Quote Standard: MET (~23% verbatim content)
+20% Quote Standard: MET (~25% verbatim content)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
