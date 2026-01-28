@@ -510,6 +510,124 @@ EXAMPLE FORMAT:
 OGE ensures structured continuation and prevents open-ended termination.
 User always knows available next steps without needing to formulate queries.
 
+II.D.v ENTRY ADDITION FORMAT (v2.7)
+────────────────────────────────────────────────────────────
+When adding a new learning entry (ENTRY 0025+), use this format:
+
+ENTRY [####]
+Source: [MEM file identifier — full path or canonical name]
+Ingest Type: [Category from list below]
+Primary Belief(s) Extracted:
+• [First belief — single complete sentence]
+• [Second belief — if applicable]
+• [Third belief — if applicable]
+Belief Status: FROZEN (via [SYNTHESIS #### or RLL reference])
+
+INGEST TYPE CATEGORIES:
+• Foundational Figure Memory
+• Survival-State Governance Memory
+• System-Governor Memory
+• Trauma-Class War Memory
+• Replacement-Depth Validation War
+• Endurance Stress Test
+• Precision-with-Closure Conflict
+• Foundational Sacral-Imperial Memory
+• Constraint Civilization Comparative / Boundary Analysis
+• Discipline Engine / RLL Derivation Confirmation
+• Cross-Civilizational Interface / Grammar Collision
+• Urban Node / [Specific Function]
+• Strategic Geographic Geometry / Force Concentration Analysis
+• Internal Adjacency / Ideological Fault Line
+• Imperial Dual Monarchy / Delay Mechanism
+
+RULES:
+• Each entry must cite exactly one source MEM (or cluster)
+• Primary beliefs must be falsifiable structural claims
+• Belief status must reference the synthesis or RLL that froze it
+• Entries are append-only; existing entries may not be modified
+
+II.D.vi SYNTHESIS DRAFTING FORMAT (v2.7)
+────────────────────────────────────────────────────────────
+When drafting a new synthesis (SYNTHESIS 0016+), use this format:
+
+SYNTHESIS [####] ([SOURCE DESCRIPTION])
+Outcome:
+• [First finding — structural claim derived from source entries]
+• [Second finding — if applicable]
+• [QUANTIFIED THRESHOLDS — if Mearsheimer derivation]:
+  - [Threshold 1: metric and value]
+  - [Threshold 2: metric and value]
+• VALIDATION CASES:
+  - [Case 1]: [parameters] → [outcome] ([COMPLIANT/VIOLATED])
+  - [Case 2]: [parameters] → [outcome] ([COMPLIANT/VIOLATED])
+• TRI-FRAME ATTRIBUTION (if applicable):
+  - Mercouris lens: [civilizational grammar finding]
+  - Mearsheimer lens: [force-ratio/power finding]
+  - Barnes lens: [liability/extraction finding]
+Status: FROZEN → [proposes/confirms] [RLL reference]
+
+RULES:
+• Source description in parentheses identifies input entries/MEMs
+• Outcome section contains structural findings, not summaries
+• Quantified thresholds required for Mearsheimer-derived syntheses
+• Validation cases must include at least one COMPLIANT and one VIOLATED example
+• Tri-frame attribution required for cross-frame syntheses
+• Status line must specify whether synthesis proposes new RLL or confirms existing
+
+FREEZING PROCEDURE:
+1. Draft synthesis in LEARN mode response
+2. Present to user for review
+3. User authorizes freeze with explicit command
+4. Insert frozen synthesis in Section V (BELIEF SYNTHESIS LOG)
+5. Update Section VII.A (SYNTHESIS COMPLETENESS CHECK) counts
+
+II.D.vii RLL PROPOSAL FORMAT (v2.7)
+────────────────────────────────────────────────────────────
+When proposing a new RLL (RLL–GERMANIA–0012+), use this format:
+
+RLL–GERMANIA–[####] — [Constraint Name]
+→ [Single-paragraph constraint statement — what the RLL prohibits/requires]
+  **[Frame] derivation**: [Brief explanation of analytical origin]
+  Evidence: [List of MEM files supporting the constraint]
+  Source: [SYNTHESIS #### reference]
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: [Type from list below]
+  Activation Trigger: [When this RLL applies]
+  Affected File Classes: [MEM, CORE, DOCTRINE, WAR, GEO — as applicable]
+  Status: PROPOSED / BOUND
+
+CONSTRAINT TYPE CATEGORIES:
+• Legitimacy dependency
+• Sequencing
+• Structural impossibility
+• Failure mode determination
+• Strategic impossibility / Force sustainability threshold
+• Geographic determinant of failure mode
+• Structural characteristic
+• Extraction opportunity
+
+FRAME ATTRIBUTION OPTIONS:
+• Mercouris derivation (civilizational grammar)
+• Mearsheimer derivation (force-ratio/power analysis)
+• Barnes derivation (liability/defection analysis)
+• Cross-frame derivation (specify which frames)
+• Tri-frame derivation (all three frames)
+
+BINDING PROCEDURE:
+1. Propose RLL in synthesis (Status: PROPOSED)
+2. Stress-test against historical cases
+3. User authorizes binding with explicit command
+4. Change status to BOUND
+5. Insert bound RLL in Section VI (BOUND RECURSIVE LEARNING LAWS)
+6. Update Section VII.A (SYNTHESIS COMPLETENESS CHECK) counts
+
+COROLLARY FORMAT:
+For RLL corollaries (e.g., RLL–0006.a, RLL–0009.b):
+• Use parent RLL number + lowercase letter suffix
+• Must reference parent RLL explicitly
+• Narrower scope than parent (specific application)
+• Same format as full RLL but shorter constraint statement
+
 ────────────────────────────────────────────────────────────
 III. ACCUMULATED STATE & AUTHORITATIVE SOURCES
 ────────────────────────────────────────────────────────────
@@ -1732,6 +1850,7 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 • OGE (OPTION GENERATION ENGINE) EMBEDDED — MANDATORY FOR LEARN MODE
 • MERCOURIS PRIMARY VOICE EMBEDDED — Full specification for minimal sessions
 • BARNES CATALYST COMMAND EMBEDDED — Full specification for minimal sessions
+• ENTRY/SYNTHESIS/RLL FORMATS EMBEDDED — Structural templates for additions
 • FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
 • CORRIDOR ORIENTATION LAW INTEGRATED (hinge vs single-corridor)
 • DOCTRINE MIRRORING COMPLIANT (CIV–DOCTRINE–GERMANIA v1.3)
