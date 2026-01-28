@@ -1,10 +1,10 @@
-MEM–GERMANIA–KAUNITZ — v2.1
+MEM–GERMANIA–AUSTRIA–KAUNITZ — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
 Version: 2.1
-Supersedes: MEM–GERMANIA–KAUNITZ v2.0
+Supersedes: MEM–GERMANIA–AUSTRIA–KAUNITZ v2.0
 Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Wenzel Anton von Kaunitz (1711–1794)
@@ -196,13 +196,13 @@ could not overcome through attrition alone.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–MARIA–THERESA (sovereign context)
-• MEM–GERMANIA–FREDERICK–GREAT (rival)
+• MEM–GERMANIA–AUSTRIA–MARIA–THERESA (sovereign context)
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II (rival)
 • MEM–GERMANIA–WAR–SEVEN–YEARS (outcome)
 • MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION (origin condition)
 • MEM–GERMANIA–SILESIA (territorial stake)
-• MEM–GERMANIA–DYNASTY–HAPSBURG (institutional frame)
-• MEM–GERMANIA–METTERNICH (successor comparison)
+• MEM–GERMANIA–HABSBURG (institutional frame)
+• MEM–GERMANIA–AUSTRIA–METTERNICH (successor comparison)
 
 Cross-Civilizational:
 • MEM–FRANCIA–LOUIS–XV (alliance partner)
@@ -258,5 +258,5 @@ Note: Subject active 1753–1792; Ancient/Medieval sources not applicable.
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–KAUNITZ — v2.1
+END OF FILE — MEM–GERMANIA–AUSTRIA–KAUNITZ — v2.1
 ────────────────────────────────────────────────────────────

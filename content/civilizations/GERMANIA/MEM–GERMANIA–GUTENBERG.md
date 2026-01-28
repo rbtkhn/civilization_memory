@@ -301,7 +301,7 @@ Same-Civilization MEMs (GERMANIA):
   Dependency: Carolingian dynasty creates the institutional and cultural
   substrate (monasteries, scriptoria, literacy) that print revolutionizes.
 
-• MEM–GERMANIA–BARBAROSSA
+• MEM–GERMANIA–FREDERICK–I–BARBAROSSA
   Dependency: Imperial authority patterns Barbarossa embodies become
   increasingly unenforceable after print enables coordinated resistance.
 

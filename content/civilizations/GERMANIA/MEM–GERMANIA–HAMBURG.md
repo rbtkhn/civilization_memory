@@ -230,7 +230,7 @@ Same-civilization (≥10):
 • MEM–GERMANIA–CHARLEMAGNE — Foundation era
 • MEM–GERMANIA–SILESIA — Interior production source
 • MEM–GERMANIA–KONIGSBERG — Baltic trade partner
-• MEM–GERMANIA–TEUTONIC–KNIGHTS — Eastern trade network
+• MEM–GERMANIA–TEUTONIC–ORDER — Eastern trade network
 
 GEO MEMs (≥2):
 • MEM–GERMANIA–GEO–ELBE–RIVER — Primary artery

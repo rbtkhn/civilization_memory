@@ -1,9 +1,9 @@
-MEM–GERMANIA–METTERNICH — v2.2
+MEM–GERMANIA–AUSTRIA–METTERNICH — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
 Version: 2.2
-Supersedes: MEM–GERMANIA–METTERNICH v2.1
+Supersedes: MEM–GERMANIA–AUSTRIA–METTERNICH v2.1
 Upgrade Type: SIEMANN INTEGRATION
 Civilization: GERMANIA
 Regime: HABSBURG / RESTORATION-IMPERIAL (1809–1848)
@@ -71,14 +71,14 @@ Popular sovereignty is treated as systemic poison.
 ────────────────────────────────────────────────────────────
 III. REACTION TO REVOLUTIONARY RUPTURE
 ────────────────────────────────────────────────────────────
-The French Revolution and Napoleon define Metternich’s entire orientation.
+The French Revolution and Napoleon define Metternich's entire orientation.
 
 Key conclusions:
 • Revolution spreads through ideas faster than armies
 • Liberalism dissolves legitimacy gradients
 • Nationalism fractures multi-ethnic empires
 
-Metternich’s mission:
+Metternich's mission:
 → Prevent repetition by any means necessary.
 
 Containment replaces reform.
@@ -100,7 +100,7 @@ Peace through mutual restraint among elites.
 The masses are excluded by design.
 
 ────────────────────────────────────────────────────────────
-V. SUPPRESSION AS GOVERNANAD
+V. SUPPRESSION AS GOVERNANCE
 ────────────────────────────────────────────────────────────
 Internally, Metternich substitutes surveillance for adaptation.
 
@@ -135,7 +135,7 @@ Empire survives by denying emotional legitimacy.
 ────────────────────────────────────────────────────────────
 VII. STRATEGIC STRENGTHS
 ────────────────────────────────────────────────────────────
-Metternich’s system succeeds in the short-to-medium term.
+Metternich's system succeeds in the short-to-medium term.
 
 Achievements:
 • No general European war (1815–1848)
@@ -213,5 +213,5 @@ Secondary (ARC-Compliant):
 • Paul Schroeder, *The Transformation of European Politics*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–METTERNICH v2.2
+END OF FILE — MEM–GERMANIA–AUSTRIA–METTERNICH v2.2
 ────────────────────────────────────────────────────────────

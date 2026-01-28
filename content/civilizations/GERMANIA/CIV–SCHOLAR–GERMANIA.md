@@ -168,7 +168,7 @@ Axioms are interpretive anchors, not predictive claims.
 Derived from frozen syntheses SYNTHESIS 0001–0005.
 
 AXIOM GERMANIA-001: Discipline precedes expansion.
-  Derivation: MEM–GERMANIA–CHARLEMAGNE, MEM–GERMANIA–FREDERICK–GREAT
+  Derivation: MEM–GERMANIA–CHARLEMAGNE, MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Scope: All governance and military expansion analysis
   Limits: Does not apply to defensive consolidation
 
@@ -188,7 +188,7 @@ AXIOM GERMANIA-004: Precision without closure produces catastrophe.
   Limits: External constraint may force closure (1918, 1945)
 
 AXIOM GERMANIA-005: Legitimacy derives from restraint, not narrative.
-  Derivation: SYNTHESIS 0001, MEM–GERMANIA–FREDERICK–GREAT
+  Derivation: SYNTHESIS 0001, MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Scope: Legitimacy grammar analysis
   Limits: Post-1945 Germany develops narrative-based legitimacy (Holocaust memory)
 
@@ -198,7 +198,7 @@ AXIOM GERMANIA-006: Endurance precedes precision.
   Limits: Overwhelming superiority may permit precision-first
 
 AXIOM GERMANIA-007: Administrative competence substitutes for ideological unity.
-  Derivation: MEM–GERMANIA–FREDERICK–GREAT, MEM–GERMANIA–BISMARCK
+  Derivation: MEM–GERMANIA–PRUSSIA–FREDERICK–II, MEM–GERMANIA–BISMARCK
   Scope: Governance capacity analysis
   Limits: Does not apply to nation-state period (post-1871)
 
@@ -228,7 +228,7 @@ STRUCTURAL EXCLUSIONS:
 [NCZ-GER-003] Hegemonic ambition without administrative self-limitation
   Status: INSUFFICIENT
   Reason: German competence is exceptional; German hegemony is self-destroying
-  Related MEMs: MEM–GERMANIA–FREDERICK–GREAT, MEM–GERMANIA–BISMARCK
+  Related MEMs: MEM–GERMANIA–PRUSSIA–FREDERICK–II, MEM–GERMANIA–BISMARCK
   Resolution Path: Would require stable German hegemony case
 
 [NCZ-GER-004] Sustained unity without external pressure
@@ -289,7 +289,7 @@ RESOLUTION OPTIONS:
 This section will be populated as MEM/SCHOLAR conflicts are discovered.
 
 ────────────────────────────────────────────────────────────
-II.D SECONDARY VOICE INVOCATION FORMAT (v2.5 FORMALIZED)
+II.D SECONDARY VOICE INVOCATION FORMAT (v2.7 FORMALIZED)
 ────────────────────────────────────────────────────────────
 LEARN mode uses the Mercouris voice register as primary.
 
@@ -316,6 +316,35 @@ VOICE TRANSITION RULES:
 
 Secondary voice outputs may generate RLLs with frame attribution.
 All RLLs remain subject to user authorization for binding.
+
+II.D.ii COMMAND: APPLY MEARSHEIMER COGNITION (v2.7)
+────────────────────────────────────────────────────────────
+COMMAND SYNTAX: `apply mearsheimer cognition to [TARGET]`
+
+This command invokes full Mearsheimer voice per CIV–MIND–MEARSHEIMER v2.5.
+
+VOICE MANDATE (BINDING):
+All output MUST be delivered in Mearsheimer's voice, using his full
+linguistic fingerprint: canonical opening formula, IS/ISN'T distinction,
+declarative transitions with enumeration, moderate hedging, finality
+markers ("Period. End of story."), tag questions, puzzlement markers,
+American idiom, internal dialogue framing, perspective-taking mandate.
+
+Dense analytical paragraphs only. No bullets. No tables in body.
+
+AUTO-REVERT RULE (BINDING):
+Following any Mearsheimer cognition response, the next response
+automatically reverts to MIND–MERCOURIS unless otherwise instructed.
+
+MODE-SPECIFIC VOICE POSTURE:
+• WRITE: Mearsheimer speaks as editorial advisor to the writer
+  ("I'd make two points about what you're drafting here...")
+• LEARN: Mearsheimer speaks as analytical facilitator driving learning
+  ("The question you have to ask yourself is...")
+• IMAGINE: Mearsheimer speaks as seminar teacher engaging an audience
+  ("Let's just talk a little bit about what would have happened if...")
+
+See: CIV–MIND–MEARSHEIMER v2.5, Section XI for full specification.
 
 ────────────────────────────────────────────────────────────
 III. ACCUMULATED STATE & AUTHORITATIVE SOURCES
@@ -350,7 +379,7 @@ Primary Belief Extracted:
 Belief Status: FROZEN (via Doctrine v0.1 → RLL–GERMANIA–0001)
 
 ENTRY 0002
-Source: MEM–GERMANIA–FREDERICK–GREAT — v1.2
+Source: MEM–GERMANIA–PRUSSIA–FREDERICK–II — v1.2
 Ingest Type: Survival-State Governance Memory
 Primary Belief Extracted:
 • Germania survives existential pressure through restraint,
@@ -411,7 +440,7 @@ Primary Belief Extracted:
 Belief Status: FROZEN (via SYNTHESIS 0005 → RLL–GERMANIA–0005)
 
 ENTRY 0009
-Source: MEM–GERMANIA–FREDERICK–GREAT — v1.2
+Source: MEM–GERMANIA–PRUSSIA–FREDERICK–II — v1.2
 Ingest Type: Survival-State Governance Memory
 Primary Belief Extracted:
 • Germania sustains legitimate power when discipline, administrative

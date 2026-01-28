@@ -145,7 +145,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–LIT–SCHILLER (aesthetic extension of Kant)
 • MEM–GERMANIA–LIT–NIETZSCHE (radical critic of Kantian morality)
 • MEM–GERMANIA–KONIGSBERG (Kant's lifelong home)
-• MEM–GERMANIA–FREDERICK–GREAT (Enlightenment ruler context)
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II (Enlightenment ruler context)
 • MEM–GERMANIA–SCI–EINSTEIN (space/time reconceptualization)
 
 Cross-Civilizational:

@@ -232,7 +232,7 @@ XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–GERMANIA–PRUSSIA — State that created Berlin's function
-• MEM–GERMANIA–FREDERICK–GREAT — Builder and shaper
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II — Builder and shaper
 • MEM–GERMANIA–BISMARCK — Imperial capital administrator
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN — Selecting dynasty
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE — Alternative capital tradition (Vienna)

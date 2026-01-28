@@ -194,7 +194,7 @@ FRANCIA:
 • MEM–FRANCIA–WAR–SEVEN–YEARS — elite disillusionment precedent  
 
 GERMANIA:
-• MEM–GERMANIA–METTERNICH — stability through suppression contrast  
+• MEM–GERMANIA–AUSTRIA–METTERNICH — stability through suppression contrast  
 
 ANGLIA:
 • MEM–ANGLIA–BALANCE–OF–POWER — offshore continuity logic  

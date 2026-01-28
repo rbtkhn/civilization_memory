@@ -225,11 +225,11 @@ validated the Prussian model.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–FREDERICK–GREAT (seizure architect)
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II (seizure architect)
 • MEM–GERMANIA–PRUSSIA (absorbing polity)
 • MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION (seizure war)
 • MEM–GERMANIA–WAR–SEVEN–YEARS (retention war)
-• MEM–GERMANIA–KAUNITZ (recovery architect)
+• MEM–GERMANIA–AUSTRIA–KAUNITZ (recovery architect)
 • MEM–GERMANIA–MARIA–THERESA (dispossessed sovereign)
 • MEM–GERMANIA–BISMARCK (inheritance beneficiary)
 • MEM–GERMANIA–GEO–ODER–RIVER (geographic spine)

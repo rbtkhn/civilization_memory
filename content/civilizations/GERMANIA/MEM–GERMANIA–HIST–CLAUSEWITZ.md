@@ -254,7 +254,7 @@ Connections are BINARY: included = structurally required.
 
 SAME-CIVILIZATION CONNECTIONS (12):
 
-• MEM–GERMANIA–FREDERICK–GREAT
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Dependency: Clausewitz's Prussian military context; Frederick's operational
   art provides the historical material Clausewitz theorizes
   Breaks if removed: No understanding of Prussian war tradition Clausewitz inherits

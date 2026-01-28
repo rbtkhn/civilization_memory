@@ -209,12 +209,12 @@ should destroy them.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–FREDERICK–GREAT (architect of seizure and survival)
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II (architect of seizure and survival)
 • MEM–GERMANIA–SILESIA (territorial stake)
 • MEM–GERMANIA–PRUSSIA (state system validated)
 • MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION (First/Second Silesian context)
 • MEM–GERMANIA–WAR–SEVEN–YEARS (Third Silesian = Seven Years' War)
-• MEM–GERMANIA–KAUNITZ (Austrian coalition architect)
+• MEM–GERMANIA–AUSTRIA–KAUNITZ (Austrian coalition architect)
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN (dynastic frame)
 • MEM–GERMANIA–DYNASTY–HAPSBURG (opposing dynasty)
 • MEM–GERMANIA–SAXONY (occupied and partitioned)

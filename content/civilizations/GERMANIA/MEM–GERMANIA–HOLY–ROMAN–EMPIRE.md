@@ -278,7 +278,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN (rival dynasty)
 • MEM–GERMANIA–LUTHER (confessional rupture)
 • MEM–GERMANIA–WAR–THIRTY–YEARS (existential crisis)
-• MEM–GERMANIA–METTERNICH (post-imperial order)
+• MEM–GERMANIA–AUSTRIA–METTERNICH (post-imperial order)
 • MEM–GERMANIA–BISMARCK (nation-state replacement)
 • MEM–GERMANIA–PRUSSIA (alternative model)
 • MEM–GERMANIA–SCI–LEIBNIZ (philosophical mirror)

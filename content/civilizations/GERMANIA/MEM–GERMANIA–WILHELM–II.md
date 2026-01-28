@@ -236,8 +236,8 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–BISMARCK (dismissed predecessor, inverted system)
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN (final Hohenzollern Kaiser)
 • MEM–GERMANIA–WAR–TIRPITZ (fleet architect under Wilhelm)
-• MEM–GERMANIA–FREDERICK–GREAT (contrast: restraint under pressure)
-• MEM–GERMANIA–BARBAROSSA (Wilhelm's mythic self-identification)
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II (contrast: restraint under pressure)
+• MEM–GERMANIA–FREDERICK–I–BARBAROSSA (Wilhelm's mythic self-identification)
 • MEM–GERMANIA–PRUSSIA (inherited system)
 • MEM–GERMANIA–HITLER (successor catastrophe)
 

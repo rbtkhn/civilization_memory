@@ -136,7 +136,7 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
 • MEM–GERMANIA–POLAND (specific interface)
-• MEM–GERMANIA–TEUTONIC–KNIGHTS (institutional projection)
+• MEM–GERMANIA–TEUTONIC–ORDER (institutional projection)
 • MEM–GERMANIA–PRUSSIA (governing entity)
 • MEM–GERMANIA–HITLER (catastrophic rupture)
 

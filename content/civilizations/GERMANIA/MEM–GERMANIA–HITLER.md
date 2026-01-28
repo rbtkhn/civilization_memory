@@ -306,7 +306,7 @@ Same-Civilization MEMs (GERMANIA):
   discipline without Prussian stopping rules becomes totalitarian
   instrument.
 
-• MEM–GERMANIA–FREDERICK–GREAT
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Dependency: Frederician restraint under pressure vs. Hitlerian
   rigidity. Demonstrates how Germanic competence can be paired with
   either survival or annihilation.
@@ -328,7 +328,7 @@ Same-Civilization MEMs (GERMANIA):
   Dependency: Polycentric Germanic tradition Hitler destroys. Wilson's
   analysis requires understanding what was abolished.
 
-• MEM–GERMANIA–BARBAROSSA
+• MEM–GERMANIA–FREDERICK–I–BARBAROSSA
   Dependency: Medieval imperial myth Hitler appropriates. Operation
   Barbarossa explicitly invokes this legacy.
 

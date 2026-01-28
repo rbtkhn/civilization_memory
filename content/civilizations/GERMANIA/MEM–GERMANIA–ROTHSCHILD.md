@@ -256,7 +256,7 @@ Same-civilization (≥10):
 • MEM–GERMANIA–AUSTRIA–VIENNA — Salomon's base
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE — Pre-unification context
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN — Political dynasty (contrast)
-• MEM–GERMANIA–KAUNITZ — Habsburg finance context
+• MEM–GERMANIA–AUSTRIA–KAUNITZ — Habsburg finance context
 • MEM–GERMANIA–SILESIA — Industrial investment target
 • MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — Financed operations
 

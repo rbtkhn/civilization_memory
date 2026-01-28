@@ -259,7 +259,7 @@ XII. MEM CONNECTIONS (MANDATORY)
 GERMANIA (Same-Civilization):
 • MEM–GERMANIA–AUSTRIA (polity context)
 • MEM–GERMANIA–DYNASTY–HAPSBURG (ruling house)
-• MEM–GERMANIA–METTERNICH (Congress system)
+• MEM–GERMANIA–AUSTRIA–METTERNICH (Congress system)
 • MEM–GERMANIA–ART–MOZART (musical capital)
 • MEM–GERMANIA–ART–BRAHMS (musical capital)
 • MEM–GERMANIA–AUSTRIA–HUNGARY (dual monarchy)

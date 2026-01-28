@@ -123,9 +123,9 @@ IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
 • MEM–GERMANIA–SLAVS (broader interface)
-• MEM–GERMANIA–TEUTONIC–KNIGHTS (institutional projection)
+• MEM–GERMANIA–TEUTONIC–ORDER (institutional projection)
 • MEM–GERMANIA–PRUSSIA (partitioning power)
-• MEM–GERMANIA–FREDERICK–GREAT (partition architect)
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II (partition architect)
 • MEM–GERMANIA–HITLER (catastrophic rupture)
 
 Cross-Civilizational:

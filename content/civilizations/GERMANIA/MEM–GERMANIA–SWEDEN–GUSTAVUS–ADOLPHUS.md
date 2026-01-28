@@ -223,7 +223,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   Dependency: Future unifier who overcame Westphalian structure
   Breaks if removed: Long-term fragmentation outcome unclear
 
-• MEM–GERMANIA–FREDERICK–GREAT
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Dependency: Later Protestant champion in fragmented system
   Breaks if removed: Swedish precedent disconnected
 
@@ -235,7 +235,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   Dependency: Later external intervention destroying HRE
   Breaks if removed: Pattern not repeated
 
-• MEM–GERMANIA–METTERNICH
+• MEM–GERMANIA–AUSTRIA–METTERNICH
   Dependency: Post-war reconstructor of Germanic order
   Breaks if removed: Settlement logic obscured
 

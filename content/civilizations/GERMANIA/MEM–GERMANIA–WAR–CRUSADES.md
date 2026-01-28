@@ -151,7 +151,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 GERMANIA (Same-Civilization):
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE (fragmented polity)
 • MEM–GERMANIA–WAR–THIRTY–YEARS (later fragmentation catastrophe)
-• MEM–GERMANIA–TEUTONIC–KNIGHTS (northern crusade institutionalization)
+• MEM–GERMANIA–TEUTONIC–ORDER (northern crusade institutionalization)
 • MEM–GERMANIA–PRUSSIA (later administrative consolidation)
 
 Cross-Civilizational:

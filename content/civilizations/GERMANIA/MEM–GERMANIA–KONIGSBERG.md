@@ -148,7 +148,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 GERMANIA (Same-Civilization):
 • MEM–GERMANIA–LIT–KANT (city's greatest figure)
 • MEM–GERMANIA–PRUSSIA (parent state)
-• MEM–GERMANIA–TEUTONIC–KNIGHTS (founding order)
+• MEM–GERMANIA–TEUTONIC–ORDER (founding order)
 • MEM–GERMANIA–DANZIG (parallel loss)
 • MEM–GERMANIA–POLAND (corridor creator)
 

@@ -1,4 +1,4 @@
-MEM–GERMANIA–BARBAROSSA — v2.0
+MEM–GERMANIA–FREDERICK–I–BARBAROSSA — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
@@ -290,5 +290,5 @@ Secondary (ARC-Compliant):
 • John Freed, *Frederick Barbarossa: The Prince and the Myth* (2016)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BARBAROSSA — v2.0
+END OF FILE — MEM–GERMANIA–FREDERICK–I–BARBAROSSA — v2.0
 ────────────────────────────────────────────────────────────

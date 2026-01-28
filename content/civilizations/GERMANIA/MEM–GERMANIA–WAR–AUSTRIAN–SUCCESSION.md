@@ -149,7 +149,7 @@ re-aggregate around **discipline rather than title** (*Heart of Europe*).
 VIII. CROSS–CIVILIZATIONAL CONNECTIONS
 ────────────────────────────────────────────────────────────
 Internal (GERMANIA):
-• MEM–GERMANIA–FREDERICK–GREAT — survival governance under pressure
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II — survival governance under pressure
 • MEM–GERMANIA–WAR–SEVEN–YEARS — endurance scaled globally
 • MEM–GERMANIA–BISMARCK — later application of limited-war logic
 

@@ -268,7 +268,7 @@ IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-Civilization MEMs (GERMANIA):
 
-• MEM–GERMANIA–FREDERICK–GREAT
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Dependency: Bismarck inherits Frederician restraint doctrine and Prussian
   state machinery. Understanding of limited-war precedent requires this MEM.
 
@@ -296,7 +296,7 @@ Same-Civilization MEMs (GERMANIA):
   Dependency: The successor who abandons Bismarckian restraint. System
   failure analysis requires understanding of post-1890 divergence.
 
-• MEM–GERMANIA–METTERNICH
+• MEM–GERMANIA–AUSTRIA–METTERNICH
   Dependency: Diplomatic predecessor governing European equilibrium.
   Bismarck's alliance system inherits and modifies Metternich's concert logic.
 

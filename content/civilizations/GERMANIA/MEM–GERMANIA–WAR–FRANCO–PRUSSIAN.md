@@ -268,7 +268,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   stopping rule. Without Bismarck's closure discipline, this MEM loses
   its core interpretive framework.
 
-• MEM–GERMANIA–FREDERICK–GREAT
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Justification: Establishes the Prussian tradition of finite war and
   endurance logic that Moltke inherited. The institutional continuity
   between Frederick's survival strategy and 1870 mobilization is direct.
@@ -307,7 +307,7 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   Bismarckian restraint is abandoned—essential for understanding why
   the 1870 model did not persist.
 
-• MEM–GERMANIA–METTERNICH
+• MEM–GERMANIA–AUSTRIA–METTERNICH
   Justification: Pre-unification European order that Bismarck disrupted.
   Contextualizes the diplomatic revolution this war completed.
 

@@ -209,7 +209,7 @@ SAME-CIVILIZATION MEMs (≥10):
     Charlemagne's coronation in 800 AD establishes the imperial template.
     Removal severs foundational link.
 
-• MEM–GERMANIA–BARBAROSSA
+• MEM–GERMANIA–FREDERICK–I–BARBAROSSA
   — Justification: Explicit attempt to revive Carolingian imperial glory.
     Frederick I consciously modeled authority on Charlemagne precedent.
 

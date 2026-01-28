@@ -236,7 +236,7 @@ XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–GERMANIA–PRUSSIA — Discipline engine origin
-• MEM–GERMANIA–FREDERICK–GREAT — Seven Years' War survival
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II — Seven Years' War survival
 • MEM–GERMANIA–BISMARCK — Diplomatic management model
 • MEM–GERMANIA–POLAND — Partition logic and buffer
 • MEM–GERMANIA–HUNGARY — Eastern constraint comparison

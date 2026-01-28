@@ -284,11 +284,11 @@ Same-Civilization MEMs (GERMANIA):
   Dependency: Strategic theory Tirpitz misapplied. Continental war
   doctrine transferred to maritime domain without adaptation.
 
-• MEM–GERMANIA–FREDERICK–GREAT
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Dependency: Frederician restraint doctrine ignored. Frederick survived
   coalition warfare through caution; Tirpitz provoked coalitions.
 
-• MEM–GERMANIA–METTERNICH
+• MEM–GERMANIA–AUSTRIA–METTERNICH
   Dependency: European equilibrium model Tirpitz disrupted. Naval
   expansion violated Metternichian balance-of-power principles.
 

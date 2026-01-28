@@ -1,4 +1,4 @@
-VERSION–MANIFEST — v1.2
+VERSION–MANIFEST — v1.3
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
@@ -31,7 +31,7 @@ CORE GOVERNANCE:
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
-• CIV–MIND–MEARSHEIMER: v2.4 (ADVISORY)
+• CIV–MIND–MEARSHEIMER: v2.5 (ADVISORY)
 • CIV–MIND–BARNES: v2.5 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v2.5
 
@@ -205,9 +205,16 @@ For session startup, declare:
 "Bound by:
 • CIV–MEM–CORE v2.6
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
+• CIV–MIND–MEARSHEIMER v2.5 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.8"
+
+2026-01-28 (MEARSHEIMER COMMAND INTEGRATION):
+• CIV–MIND–MEARSHEIMER: v2.4 → v2.5 (apply mearsheimer cognition command)
+• CIV–SCHOLAR–GERMANIA: Section II.D updated (command reference)
+• CIV–MIND–TEMPLATE: Section III.B updated (command invocation)
+• CIV–MEM–CORE: Section VP-1.f updated (command specification)
+• VERSION–MANIFEST: v1.2 → v1.3
 
 2026-01-28:
 • VERSION–MANIFEST: v1.1 → v1.2 (ARC + INDEX updates)
@@ -222,5 +229,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.2
+END OF FILE — VERSION–MANIFEST — v1.3
 ────────────────────────────────────────────────────────────

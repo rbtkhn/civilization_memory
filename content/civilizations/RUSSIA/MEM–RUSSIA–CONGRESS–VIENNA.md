@@ -206,7 +206,7 @@ GEO Connections — ≥2 Required:
 Cross-Civilizational:
 • MEM–ANGLIA–BALANCE–POWER — alternative system logic
 • MEM–FRANCIA–NAPOLEON — defeated rival
-• MEM–GERMANIA–METTERNICH — co-architect
+• MEM–GERMANIA–AUSTRIA–METTERNICH — co-architect
 • MEM–EUROPE–CONCERT — shared order framework
 
 Each connection is structurally required.

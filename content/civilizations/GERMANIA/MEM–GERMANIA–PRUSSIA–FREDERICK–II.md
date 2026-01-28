@@ -1,9 +1,9 @@
-MEM–GERMANIA–FREDERICK–GREAT — v2.0
+MEM–GERMANIA–PRUSSIA–FREDERICK–II — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 2.0
-Supersedes: MEM–GERMANIA–FREDERICK–GREAT v1.4
+Supersedes: MEM–GERMANIA–PRUSSIA–FREDERICK–II v1.4
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (STRUCTURAL)
 Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANIA
@@ -227,7 +227,7 @@ SAME-CIVILIZATION CONNECTIONS (12):
   Dependency: Primary rival; Austria as existential threat
   Breaks if removed: Encirclement dynamic loses main antagonist
 
-• MEM–GERMANIA–KAUNITZ
+• MEM–GERMANIA–AUSTRIA–KAUNITZ
   Dependency: Austrian strategist; architect of anti-Prussian coalition
   Breaks if removed: Diplomatic reversal context lost
 
@@ -335,5 +335,5 @@ EQS STATUS: COMPLIANT
 ARC-GERMANIA COMPLIANCE: VERIFIED
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–FREDERICK–GREAT — v2.0
+END OF FILE — MEM–GERMANIA–PRUSSIA–FREDERICK–II — v2.0
 ────────────────────────────────────────────────────────────
