@@ -1,4 +1,4 @@
-MEM–GERMANIA–DRESDEN — v2.0
+MEM–GERMANIA–SAXONY–DRESDEN — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
@@ -237,20 +237,20 @@ Contradictions preserved without verdict.
 XIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–GERMANIA–LEIPZIG — Saxon partner city
+• MEM–GERMANIA–SAXONY — parent territory
+• MEM–GERMANIA–SAXONY–LEIPZIG — Saxon partner city
 • MEM–GERMANIA–BERLIN — Capital (contrast)
-• MEM–GERMANIA–MUNICH — Rival cultural center
+• MEM–GERMANIA–BAVARIA–MUNICH — Rival cultural center
 • MEM–GERMANIA–PRUSSIA — Rival/integrator
 • MEM–GERMANIA–WAR–NAPOLEONIC — Strategic alliance
 • MEM–GERMANIA–WAR–WORLD–II — Destruction context
 • MEM–GERMANIA–HAMBURG — Parallel destruction (1943)
 • MEM–GERMANIA–AUSTRIA–VIENNA — Baroque parallel
-• MEM–GERMANIA–COLD–WAR — DDR context
 • MEM–GERMANIA–REUNIFICATION — Reconstruction context
 
 GEO MEMs (≥2):
-• MEM–GERMANIA–GEO–ELBE — Dresden's river
-• MEM–GERMANIA–GEO–BOHEMIA — Southern neighbor
+• MEM–GERMANIA–GEO–ELBE–RIVER — Dresden's river
+• MEM–GERMANIA–BOHEMIA — Southern neighbor
 
 ────────────────────────────────────────────────────────────
 XIV. PRIMARY SOURCES & REFERENCES
@@ -269,5 +269,5 @@ Secondary (ARC-Compliant):
 • Helen Rosenau, *Social Purpose in Architecture: Paris and London Compared* (1970)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DRESDEN — v2.0
+END OF FILE — MEM–GERMANIA–SAXONY–DRESDEN — v2.0
 ────────────────────────────────────────────────────────────

@@ -1,4 +1,4 @@
-MEM–GERMANIA–LEIPZIG — v2.0
+MEM–GERMANIA–SAXONY–LEIPZIG — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
@@ -220,20 +220,20 @@ Contradictions preserved without verdict.
 XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–GERMANIA–DRESDEN — Saxon partner city
+• MEM–GERMANIA–SAXONY — parent territory
+• MEM–GERMANIA–SAXONY–DRESDEN — Saxon partner city
 • MEM–GERMANIA–BERLIN — Capital (contrast)
 • MEM–GERMANIA–FRANKFURT — Trade fair rival
 • MEM–GERMANIA–HAMBURG — Commercial node (contrast)
 • MEM–GERMANIA–PRUSSIA — Integrating power
 • MEM–GERMANIA–WAR–NAPOLEONIC — 1813 context
 • MEM–GERMANIA–BISMARCK — Unification era
-• MEM–GERMANIA–BACH — Musical figure
 • MEM–GERMANIA–COLD–WAR — DDR context
 • MEM–GERMANIA–REUNIFICATION — 1989 pivot
 
 GEO MEMs (≥2):
-• MEM–GERMANIA–GEO–ELBE — Regional river system
-• MEM–GERMANIA–GEO–CENTRAL–EUROPE — Crossroads position
+• MEM–GERMANIA–GEO–ELBE–RIVER — Regional river system
+• MEM–GERMANIA–BOHEMIA–PRAGUE — Elbe-Vltava corridor connection
 
 ────────────────────────────────────────────────────────────
 XIII. PRIMARY SOURCES & REFERENCES
@@ -251,5 +251,5 @@ Secondary (ARC-Compliant):
 • Michael Ignatieff, "The Revolution of 1989," *New York Review of Books*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–LEIPZIG — v2.0
+END OF FILE — MEM–GERMANIA–SAXONY–LEIPZIG — v2.0
 ────────────────────────────────────────────────────────────

@@ -1,4 +1,4 @@
-CIV–SCHOLAR–GERMANIA — v2.6
+CIV–SCHOLAR–GERMANIA — v2.7
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
@@ -809,6 +809,35 @@ Outcome:
   position intact, or negotiate the settlement.
 Status: FROZEN → proposes RLL–GERMANIA–0010 (Ideological Fracture Law)
 
+SYNTHESIS 0012 (CORRIDOR TYPOLOGY + IMPERIAL TRIANGLE + HINGE DYNAMICS)
+Outcome:
+• Germania's constraint civilization outcomes correlate with river-corridor
+  geography. Four corridor types produce four distinct political outcomes:
+  (a) Integration corridor (Danube): Vienna–Budapest → accommodation → deferred exit
+  (b) Consolidation spine (Rhine): Core stability → rare deviation
+  (c) Hinge corridor (Elbe): Prague alternative orientation → rupture potential
+  (d) Non-integration boundary (Vistula): Warsaw → external partition
+• VIENNA–BUDAPEST–PRAGUE TRIANGLE: Vienna sits at apex. Budapest (downstream
+  Danube) achieved Ausgleich because single-corridor constraint has no exit
+  alternative. Prague (Elbe-Vltava connection) produced rupture because hinge
+  position enables alternative orientation toward Saxony/North Sea.
+• MEARSHEIMER LAYER: Hinge positions create force-concentration problems.
+  Prague suppression required 15–25 divisions (pass-forcing + basin occupation
+  + Elbe corridor blocking). Multi-corridor appeal enables external support;
+  suppression becomes two-front internal war. Budapest suppression (1849)
+  required Russian intervention but succeeded because single corridor
+  prevented alternative-orientation appeal.
+• BARNES LAYER: Hinge activation creates extraction opportunities with
+  liability gradient. Immediate zone (Prague) absorbs maximum destruction.
+  Corridor zone (Saxony) initially benefits, later absorbs radiating costs.
+  External zone (France, Sweden) enters late, extracts position, minimal
+  liability. Imperial center (Vienna) pays suppression costs or, if
+  unsuccessful, absorbs complete structural collapse (1918).
+• CORRIDOR ORIENTATION determines failure mode: Single-corridor constraint
+  → accommodation (Budapest); Hinge-corridor constraint → rupture (Prague);
+  Non-integration → external partition (Warsaw).
+Status: FROZEN → proposes RLL–GERMANIA–0011 (Corridor Orientation Law)
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
@@ -1007,6 +1036,35 @@ RLL–GERMANIA–0010 — Ideological Fracture Law
   Activation Trigger: Internal constraint + ideological pressure analysis;
   assessment of rupture vs exit vs termination outcomes
   Affected File Classes: MEM, CORE, WAR, GEO
+  Status: BOUND
+
+RLL–GERMANIA–0011 — Corridor Orientation Law
+→ Where a constraint civilization occupies a geographic hinge between
+  integration corridors, ideological or political pressure may produce
+  rupture by activating the alternative corridor orientation. Single-corridor
+  constraint civilizations (Budapest/Danube) produce accommodation because
+  exit has no geographic alternative. Hinge-position constraint civilizations
+  (Prague/Elbe-Danube) produce rupture because the alternative corridor
+  enables external support and multi-directional appeal.
+  **Tri-frame derivation**:
+  - Mercouris: Corridor geography shapes civilizational grammar; hinge
+    positions encode alternative orientations that single-corridor positions lack
+  - Mearsheimer: Hinge suppression requires 15–25 divisions (pass-forcing +
+    occupation + corridor blocking); creates two-front internal war; single-
+    corridor suppression is geometrically simpler (1849 Hungarian suppression)
+  - Barnes: Hinge activation creates extraction gradient—external entrants
+    (France 1635, Sweden 1630) collect gains; corridor populations absorb
+    destruction; imperial center absorbs suppression costs or structural collapse
+  Evidence: MEM–GERMANIA–BOHEMIA–PRAGUE (Elbe-Vltava hinge → 1419, 1618 rupture);
+  MEM–GERMANIA–HUNGARY–BUDAPEST (Danube single-corridor → 1867 Ausgleich);
+  MEM–GERMANIA–GEO–ELBE (hinge corridor function); MEM–GERMANIA–GEO–DANUBE
+  (integration corridor function); MEM–GERMANIA–GEO–VISTULA (non-integration)
+  Source: SYNTHESIS 0012 (Vienna–Budapest–Prague triangle analysis)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Geographic determinant of failure mode
+  Activation Trigger: Constraint civilization analysis; corridor geography;
+  hinge-position assessment; rupture vs accommodation prediction
+  Affected File Classes: MEM, CORE, GEO, WAR
   Status: BOUND
 
 All listed RLLs are ACTIVE and BOUND.
@@ -1219,23 +1277,25 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA v2.6 is declared:
+CIV–SCHOLAR–GERMANIA v2.7 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
 • TEMPLATE v2.5 COMPLIANT
-• RLL STRUCTURE IMPLEMENTED (10 RLLs, all BOUND)
+• RLL STRUCTURE IMPLEMENTED (11 RLLs, all BOUND)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
 • SDI EXPANDED (16 entries)
 • LEARNING ENTRIES EXPANDED (24 entries)
-• SYNTHESIS LOG EXPANDED (11 syntheses)
+• SYNTHESIS LOG EXPANDED (12 syntheses)
 • GEO CLUSTER ENHANCED WITH MEARSHEIMER STRATEGIC SECTIONS
 • TRI-FRAME SYNTHESIS METHODOLOGY DEMONSTRATED
 • FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
+• CORRIDOR ORIENTATION LAW INTEGRATED (hinge vs single-corridor)
+• DOCTRINE MIRRORING COMPLIANT (CIV–DOCTRINE–GERMANIA v1.3)
 
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
@@ -1247,5 +1307,44 @@ XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.6 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+XIII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANIA v1.3)
+────────────────────────────────────────────────────────────
+Per CIV–DOCTRINE–TEMPLATE v2.1 Section VIII, this section mirrors
+verbatim the accepted doctrines from CIV–DOCTRINE–GERMANIA.
+CIV–DOCTRINE–GERMANIA remains the single source of truth.
+Mirrored doctrines inform SCHOLAR learning without constraining it.
+
+DOCTRINE 01: COMPETENCE-DERIVED LEGITIMACY
+Germanic authority persists only while institutions deliver
+reliability, provisioning, and functional order. Legitimacy erodes
+through performance failure, not moral judgment or narrative collapse.
+
+DOCTRINE 02: REPLACEMENT BEFORE EXPANSION
+Germania generates power by replacing personnel, materiel, and
+processes faster than loss is incurred. Expansion that degrades
+replacement depth constitutes structural decay.
+
+DOCTRINE 03: SEQUENCED PRECISION DOCTRINE
+Germania may employ decisive precision only after endurance is secured
+and only if success is terminated by an enforced stopping rule.
+Precision without endurance or closure converts competence into risk.
+
+DOCTRINE 04: DISCIPLINE INVERSION FAILURE
+When operational excellence becomes uncoupled from political restraint,
+discipline inverts into overreach, transforming competence into
+systemic exposure.
+
+DOCTRINE 05: EXIT-BUILDING META-DOCTRINE
+Germania preserves survivability through silent withdrawal mechanisms
+that distinguish exit from collapse, allowing endurance without public
+defeat or ideological rupture.
+
+DOCTRINE 06: CORRIDOR DEPTH OVER DISPERSED REACH
+Germania's stability requires concentrated corridor depth where
+authority and liability remain co-located. Dispersed corridor reach
+dilutes force density, externalizes liability, and creates exposure
+without commensurate authority.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–GERMANIA v2.7 (PHASE II · TEMPLATE v2.5 COMPLIANT)
 ────────────────────────────────────────────────────────────

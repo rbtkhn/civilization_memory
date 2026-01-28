@@ -1,4 +1,4 @@
-CIV–DOCTRINE–GERMANIA — v1.3
+CIV–DOCTRINE–GERMANIA — v1.4
 
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
@@ -7,13 +7,32 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: GERMANIA
 Class: CIV–DOCTRINE
 Source Authority: DIB–GERMANIA
-Compatibility: CIV–CORE–GERMANIA v1.7+
+Compatibility: CIV–CORE–GERMANIA v1.9+
 Last Update: January 2026
-Word Count: 938
+Word Count: ~1,050
 
 Derived from: CIV–DOCTRINE–TEMPLATE v2.1
-Supersedes: CIV–DOCTRINE–GERMANIA v1.2
-Upgrade Type: ADDITIVE · NEW DOCTRINE REGISTRATION
+Supersedes: CIV–DOCTRINE–GERMANIA v1.3
+Upgrade Type: ADDITIVE · MEARSHEIMER STRATEGIC SHARPENING
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.3 → v1.4) — MEARSHEIMER STRATEGIC SHARPENING
+────────────────────────────────────────────────────────────
+This version applies Mearsheimer strategic cognition to sharpen
+distinction between Germania and Russia doctrine grammars.
+
+v1.4 changes:
+• DOCTRINE 02 Hard Constraints: Added encirclement acceleration
+  and central position timeline compression
+• DOCTRINE 06 Operational Meaning: Added Russia depth contrast
+  (Rhine-density vs continental space)
+• DOCTRINE 06 Hard Constraints: Added Oder limit and two-front
+  operational exposure
+
+Purpose: Formalize that Germania's central position creates structural
+constraints absent from peripheral/continental powers like Russia.
+Germania compensates through corridor concentration; Russia compensates
+through territorial depth. These are opposite survival mechanisms.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE
@@ -40,6 +59,17 @@ CIV–MEM–CORE
 → DIB–GERMANIA (Explicit Acceptance)
 → CIV–DOCTRINE–GERMANIA
 
+DIB CLARIFICATION:
+The Doctrine Intake Board (DIB) is a governance checkpoint, not a
+separate file. DIB approval = explicit user authorization to freeze
+a SCHOLAR synthesis as doctrine. The DIB function is exercised by
+any explicit user command to freeze and accept a doctrine candidate.
+
+Rules:
+• No doctrine may bypass this chain
+• No doctrine may be self-authorized
+• No doctrine may originate inside CIV–DOCTRINE
+
 ────────────────────────────────────────────────────────────
 III. DOCTRINE ADMISSIBILITY RULES
 ────────────────────────────────────────────────────────────
@@ -53,6 +83,7 @@ Prohibited:
 • Draft doctrines
 • Candidate beliefs
 • Analytical hypotheses
+• Controlled synthesis outputs
 • Scholar commentary
 • Historical narration
 
@@ -103,6 +134,9 @@ Hard Constraints:
 • Economic optimization that erodes replacement is illegitimate
 • Financial growth cannot offset industrial attrition
 • Replacement failure escalates legitimacy erosion
+• Central position compresses replacement timelines—attrition contests
+  favor peripheral powers with greater resource depth
+• Replacement must exceed not only burn-rate but encirclement acceleration
 
 ────────────────────────────────────────────────────────────
 
@@ -192,11 +226,74 @@ Operational Meaning:
 • Depth corridors are authoritative; dispersed corridors are conditional
 • Reach cannot substitute for depth
 • Authority must remain co-located with force density
+• Corridor depth compensates for territorial shallowness that Russia
+  possesses naturally through continental space
+• Rhine-density terrain provides defensively what Russian strategic
+  depth provides through elastic retreat
 
 Hard Constraints:
 • Dispersed reach cannot replace corridor depth
 • Expansion that trades depth for reach is illegitimate
 • Externalized liability signals structural exposure
+• Corridor overextension recreates two-front exposure at operational level
+• Eastern projection beyond Oder recreates Napoleonic/Hitlerian liability
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 07
+Name: CENTRAL POSITION ENCIRCLEMENT CONSTRAINT
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0013 — pending)
+• Mearsheimer strategic cognition (force-to-space analysis)
+• DIB–GERMANIA (Approved: January 2026)
+
+Definition:
+Germania's central European position creates permanent encirclement
+liability. Any strategic posture that permits simultaneous great-power
+opposition on multiple fronts exceeds sustainable force-to-space ratios
+and guarantees attrition defeat regardless of operational excellence.
+
+Operational Meaning:
+• Central position is liability, not advantage
+• Two-front great-power war is structurally unwinnable
+• Diplomatic separation of potential adversaries is existential priority
+• Encirclement prevention outranks all other strategic objectives
+
+Hard Constraints:
+• Simultaneous great-power opposition = defeat
+• Operational success cannot compensate for positional exposure
+• Failure to prevent encirclement invalidates all other doctrines
+• 1914 and 1941 constitute binding negative templates
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 08
+Name: ALLIANCE DEPENDENCY AS STRUCTURAL NECESSITY
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0013 — pending)
+• Mearsheimer balance-of-power logic
+• DIB–GERMANIA (Approved: January 2026)
+
+Definition:
+Germania cannot sustain independent great-power status against peer
+competitors. Alliance embedding is not optional accommodation but
+structural necessity arising from central position and limited
+territorial depth. Alliance exit produces encirclement; alliance
+entrapment produces overextension.
+
+Operational Meaning:
+• Independence is illusory for central powers
+• Alliance provides buffer against encirclement
+• Alliance terms constrain but also protect
+• Bismarckian alliance system = positive template; 1914 isolation = negative
+
+Hard Constraints:
+• Unilateral great-power posture is forbidden
+• Alliance exit triggers encirclement dynamics
+• Alliance must provide exit options (per DOCTRINE 05) to avoid entrapment
+• Alliance dependency is permanent structural feature, not temporary weakness
 
 ────────────────────────────────────────────────────────────
 V. EXPLICITLY EXCLUDED MATERIAL
@@ -216,8 +313,12 @@ This doctrine registry must be mirrored verbatim into:
 • CIV–CORE–GERMANIA
 • CIV–SCHOLAR–GERMANIA
 
-Mirroring is declarative only. CIV–DOCTRINE–GERMANIA remains
-the single source of truth for doctrine definitions.
+Mirroring Rules:
+• Mirroring is declarative, not interpretive
+• All ACCEPTED doctrines must be mirrored (REJECTED doctrines are excluded)
+• Mirrored doctrines provide citation surface for CIV–CORE engines
+• Mirrored doctrines inform SCHOLAR learning without constraining it
+• CIV–DOCTRINE–GERMANIA remains the single source of truth for doctrine definitions
 
 ────────────────────────────────────────────────────────────
 VII. CITATION RULES
@@ -245,6 +346,7 @@ IX. TEMPLATE INHERITANCE & CONSTRAINTS
 ────────────────────────────────────────────────────────────
 ENFORCES:
 • Structural uniformity across civilizations
+• Doctrine parity without convergence
 • Explicit authority provenance
 • Downstream-only doctrinal flow
 
@@ -279,5 +381,5 @@ Future versions:
 • May NOT alter admissibility rules
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–GERMANIA v1.3
+END OF FILE — CIV–DOCTRINE–GERMANIA v1.5
 

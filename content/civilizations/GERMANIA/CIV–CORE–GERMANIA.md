@@ -5,8 +5,9 @@ Full Title: Civilizational Strategy Codex · Civilization Core Engine
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
-Version: 1.8
-Supersedes: CIV–CORE–GERMANIA v1.7
+Version: 1.9
+Supersedes: CIV–CORE–GERMANIA v1.8
+Upgrade Type: ADDITIVE · DOCTRINE MIRRORING COMPLIANCE
 Template Version Used: CIV–CORE–TEMPLATE v2.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Upgrade Type: ADDITIVE (ARC REFERENCE)
@@ -336,5 +337,43 @@ INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
 OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA v1.8
+XXII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANIA v1.3)
+────────────────────────────────────────────────────────────
+Per CIV–DOCTRINE–TEMPLATE v2.1 Section VIII, this section mirrors
+verbatim the accepted doctrines from CIV–DOCTRINE–GERMANIA.
+CIV–DOCTRINE–GERMANIA remains the single source of truth.
+
+DOCTRINE 01: COMPETENCE-DERIVED LEGITIMACY
+Germanic authority persists only while institutions deliver
+reliability, provisioning, and functional order. Legitimacy erodes
+through performance failure, not moral judgment or narrative collapse.
+
+DOCTRINE 02: REPLACEMENT BEFORE EXPANSION
+Germania generates power by replacing personnel, materiel, and
+processes faster than loss is incurred. Expansion that degrades
+replacement depth constitutes structural decay.
+
+DOCTRINE 03: SEQUENCED PRECISION DOCTRINE
+Germania may employ decisive precision only after endurance is secured
+and only if success is terminated by an enforced stopping rule.
+Precision without endurance or closure converts competence into risk.
+
+DOCTRINE 04: DISCIPLINE INVERSION FAILURE
+When operational excellence becomes uncoupled from political restraint,
+discipline inverts into overreach, transforming competence into
+systemic exposure.
+
+DOCTRINE 05: EXIT-BUILDING META-DOCTRINE
+Germania preserves survivability through silent withdrawal mechanisms
+that distinguish exit from collapse, allowing endurance without public
+defeat or ideological rupture.
+
+DOCTRINE 06: CORRIDOR DEPTH OVER DISPERSED REACH
+Germania's stability requires concentrated corridor depth where
+authority and liability remain co-located. Dispersed corridor reach
+dilutes force density, externalizes liability, and creates exposure
+without commensurate authority.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–GERMANIA v1.9
 ────────────────────────────────────────────────────────────

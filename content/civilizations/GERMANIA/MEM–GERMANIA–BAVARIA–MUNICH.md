@@ -1,4 +1,4 @@
-MEM–GERMANIA–MUNICH — v2.0
+MEM–GERMANIA–BAVARIA–MUNICH — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
@@ -223,6 +223,7 @@ Contradictions preserved without verdict.
 XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
+• MEM–GERMANIA–BAVARIA — parent territory
 • MEM–GERMANIA–BERLIN — Northern capital (contrast)
 • MEM–GERMANIA–AUSTRIA–VIENNA — Catholic ally
 • MEM–GERMANIA–PRUSSIA — Protestant rival
@@ -231,7 +232,6 @@ Same-civilization (≥10):
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE — Imperial context
 • MEM–GERMANIA–WAR–THIRTY–YEARS — Confessional conflict
 • MEM–GERMANIA–CHARLEMAGNE — Bavarian origins
-• MEM–GERMANIA–DYNASTY–HOHENZOLLERN — Rival dynasty
 • MEM–GERMANIA–HAMBURG — Northern trade city (contrast)
 
 GEO MEMs (≥2):
@@ -254,5 +254,5 @@ Secondary (ARC-Compliant):
 • Richard J. Evans, *The Coming of the Third Reich* (2003)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–MUNICH — v2.0
+END OF FILE — MEM–GERMANIA–BAVARIA–MUNICH — v2.0
 ────────────────────────────────────────────────────────────
