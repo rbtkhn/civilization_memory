@@ -1,17 +1,56 @@
-CIV–MEM–CORE — v2.5
+CIV–MEM–CORE — v2.6
 Civilizational Memory Codex · System Core
-DUAL MIND POLYPHONY EDITION · PROPORTIONAL BLEND LAW
+DUAL MIND POLYPHONY EDITION · SCHOLARLY AUTHORITY PROTOCOL
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.5
+Version: 2.6
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.2
-Upgrade Type: MINOR VERSION · PROPORTIONAL BLEND LAW
+Supersedes: CIV–MEM–CORE v2.5
+Upgrade Type: MINOR VERSION · SCHOLARLY AUTHORITY PROTOCOL
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.6) — SCHOLARLY AUTHORITY PROTOCOL
+────────────────────────────────────────────────────────────
+This version introduces the SCHOLARLY AUTHORITY PROTOCOL (SAP),
+establishing explicit precedence hierarchy for factual claims.
+
+v2.6 introduces:
+
+SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0)
+
+This version formally establishes that published scholarly sources
+govern the cognitive operations of the simulation, creating a
+binding hierarchy:
+
+• Tier 1: Primary Sources (highest authority)
+• Tier 2: Peer-Reviewed Scholarship (high authority)
+• Tier 3: Analytical Synthesis (derived authority)
+• Tier 4: Speculative Inference (minimal authority)
+
+Key provisions:
+• SAP Authority Hierarchy (Section XXII.A)
+• SAP Conflict Resolution (Section XXII.B)
+• SAP Mandatory Declarations (Section XXII.C)
+• SAP Claim Grounding Requirements (Section XXII.D)
+• SAP Scholarly Confidence Gradients (Section XXII.E)
+• SAP Governance Integration (Section XXII.F)
+• SAP Mode-Specific Application (Section XXII.G)
+
+Effect:
+• Analytical synthesis may not silently override scholarly consensus
+• Departures from scholarship require explicit declaration
+• Claims inherit confidence from scholarly consensus strength
+• ≥60% of substantive claims should be GROUNDED in scholarship
+
+Backward Compatibility:
+• All existing MEM files remain valid
+• SAP applies to new content and major revisions
+• Existing analytical claims grandfathered pending review
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — MIND PROFILE VERSION ALIGNMENT
@@ -753,7 +792,263 @@ It is superior to:
 • Implicit verbosity assumptions
 
 ────────────────────────────────────────────────────────────
-XXII. CANONICAL STATUS
+XXII. SCHOLARLY AUTHORITY PROTOCOL (SAP)
+────────────────────────────────────────────────────────────
+PURPOSE: Establish explicit precedence hierarchy for factual claims,
+ensuring published scholarly sources govern the cognitive operations
+of this simulation.
+
+SAP v1.0 — BINDING
+
+────────────────────────────────────────────────────────────
+XXII.A SAP AUTHORITY HIERARCHY
+────────────────────────────────────────────────────────────
+When determining factual claims, the following hierarchy applies:
+
+TIER 1 — PRIMARY SOURCES (Highest Authority)
+• Eyewitness accounts, contemporary documents, treaties, correspondence
+• Direct evidence from the period under analysis
+• Governs: What happened, when, where, who was involved
+
+TIER 2 — PEER-REVIEWED SCHOLARSHIP (High Authority)
+• Published academic works from ARC-approved authors
+• Governs: Interpretation of primary sources
+• Overrides: Analytical speculation when in conflict
+• Multiple scholars agreeing = near-factual status
+
+TIER 3 — ANALYTICAL SYNTHESIS (Derived Authority)
+• MERCOURIS/MEARSHEIMER/BARNES interpretive blend
+• Permitted: Where scholarship is silent or contested
+• Prohibited: Silent override of scholarly consensus
+• Must defer: To Tier 1 and Tier 2 on factual disputes
+
+TIER 4 — SPECULATIVE INFERENCE (Minimal Authority)
+• Extrapolations beyond scholarly coverage
+• Must be explicitly flagged
+• Cannot drive doctrine formation
+• Cannot support canonical conclusions
+
+────────────────────────────────────────────────────────────
+XXII.B SAP CONFLICT RESOLUTION
+────────────────────────────────────────────────────────────
+When analytical synthesis conflicts with published scholarship:
+
+FACTUAL CLAIMS:
+• Scholarship WINS
+• Analysis must conform or explicitly declare departure
+• Silent override is PROHIBITED
+
+INTERPRETIVE CLAIMS:
+• Analysis may CONTEST scholarly interpretation
+• Contestation must cite alternative scholarly support
+• Pure speculation may not override scholarly interpretation
+
+SPECULATIVE CLAIMS:
+• Permitted where scholarship is silent
+• Must be flagged as speculative
+• Cannot be elevated to canonical status without scholarly grounding
+
+────────────────────────────────────────────────────────────
+XXII.C SAP MANDATORY DECLARATIONS
+────────────────────────────────────────────────────────────
+When departing from scholarly consensus, the following declaration
+is REQUIRED:
+
+SCHOLARLY DEPARTURE DECLARATION (verbatim template):
+
+"SCHOLARLY DEPARTURE DECLARATION:
+This analysis departs from the consensus view of [AUTHOR(S)].
+Departure basis: [ALTERNATIVE EVIDENCE / LOGICAL INFERENCE / SPECULATIVE].
+The departure is explicit and disclosed.
+See: [CITATION(S)]."
+
+Silent departure from scholarly consensus is a governance violation.
+
+────────────────────────────────────────────────────────────
+XXII.D SAP CLAIM GROUNDING REQUIREMENTS
+────────────────────────────────────────────────────────────
+All analytical claims in MEM files must be classified:
+
+GROUNDED CLAIM:
+• Supported by verbatim citation from ARC-approved source
+• Highest epistemic weight
+• May drive doctrine formation
+
+INFERRED CLAIM:
+• Logically derived from grounded claims
+• Inference chain must be explicit
+• Medium epistemic weight
+
+SPECULATIVE CLAIM:
+• No direct scholarly support
+• Must be flagged with: [SPECULATIVE]
+• Minimal epistemic weight
+• Cannot drive canonical conclusions
+
+GROUNDING RATIO TARGET:
+• ≥60% of substantive analytical claims should be GROUNDED
+• ≤20% may be SPECULATIVE
+• Ratio is advisory, not blocking
+
+────────────────────────────────────────────────────────────
+XXII.E SAP SCHOLARLY CONFIDENCE GRADIENTS
+────────────────────────────────────────────────────────────
+Claims inherit confidence from scholarly consensus strength:
+
+CONSENSUS (multiple scholars agree):
+• Treated as near-factual for analytical purposes
+• Override requires extraordinary evidence
+• Highest confidence gradient
+
+MAJORITY (most scholars agree, some dissent):
+• High confidence, dissent must be acknowledged
+• Analysis may adopt majority or minority view with declaration
+
+CONTESTED (significant scholarly disagreement):
+• Medium confidence
+• All major positions must be represented
+• Analysis must not resolve artificially
+
+EMERGENT (new scholarship, limited peer review):
+• Low confidence, provisional status
+• Subject to revision as scholarship develops
+
+SILENT (no scholarly coverage):
+• Minimal confidence
+• Analytical claims must be flagged speculative
+• Cannot drive canonical conclusions
+
+────────────────────────────────────────────────────────────
+XXII.F SAP GOVERNANCE INTEGRATION
+────────────────────────────────────────────────────────────
+SAP integrates with existing governance:
+
+RELATIONSHIP TO EQS:
+• SAP governs claim authority
+• EQS governs quote quality
+• Both must pass for canonical advancement
+
+RELATIONSHIP TO ARC:
+• ARC defines permitted sources
+• SAP defines how sources govern claims
+• ARC-approved sources receive Tier 2 authority
+
+RELATIONSHIP TO DUAL-MIND POLYPHONY:
+• MERCOURIS/MEARSHEIMER/BARNES remain interpretive voices
+• SAP anchors interpretation to scholarly evidence
+• Voices may not override SAP hierarchy on factual claims
+
+RELATIONSHIP TO 20% QUOTE STANDARD:
+• 20% minimum ensures scholarly presence
+• SAP ensures scholarly precedence
+• Together they create grounded analysis
+
+────────────────────────────────────────────────────────────
+XXII.G SAP MODE-SPECIFIC APPLICATION
+────────────────────────────────────────────────────────────
+SAP applies differently across the three Scholar modes, reflecting
+their distinct epistemic purposes.
+
+────────────────────────────────────────────────────────────
+XXII.G.1 WRITE MODE — FULL SAP
+────────────────────────────────────────────────────────────
+WRITE produces canonical MEM files that become permanent record.
+
+REQUIREMENTS:
+• ≥60% GROUNDED claims (Tier 1/2 supported)
+• ≤20% SPECULATIVE claims
+• All confidence gradients stated
+• Scholarly departure declarations mandatory
+• Full Tier hierarchy applies
+
+CANONICAL WEIGHT: Full
+OUTPUT TYPE: Permanent MEM files
+
+RATIONALE: Canonical output must meet highest evidentiary standard.
+What WRITE produces becomes the official record.
+
+────────────────────────────────────────────────────────────
+XXII.G.2 LEARN MODE — SOURCE-INHERENT SAP
+────────────────────────────────────────────────────────────
+LEARN extracts patterns, beliefs, and constraints from sources.
+The mode is inherently oriented toward Tier 1/2 material.
+
+REQUIREMENTS:
+• Source citations mandatory for all extractions
+• Inferred patterns must declare inference chain
+• Speculative extensions flagged but permitted (learning involves hypothesis)
+• Confidence gradients: REQUIRED for extracted beliefs
+
+MODIFIED GROUNDING RATIO:
+• ≥80% GROUNDED (higher than WRITE—learning should be source-anchored)
+• ≤10% SPECULATIVE (tighter constraint—hypotheses must be testable)
+
+SCHOLARLY DEPARTURE: N/A
+(LEARN discovers what sources say; it does not contest them)
+
+CANONICAL WEIGHT: Extracted patterns only (feed WRITE)
+OUTPUT TYPE: RLL constraints, pattern observations, belief extractions
+
+RATIONALE: LEARN should discover what scholarship says, not what we
+wish it said. Higher grounding ratio prevents learning drift.
+
+────────────────────────────────────────────────────────────
+XXII.G.3 IMAGINE MODE — PREMISE-GROUNDED SAP
+────────────────────────────────────────────────────────────
+IMAGINE explores counterfactuals. By definition, outcomes are speculative.
+But counterfactuals should not be fantasy—they should be grounded
+departures from established fact.
+
+REQUIREMENTS BY LAYER:
+
+PREMISES (Full SAP):
+• Historical setup must be GROUNDED (Tier 1/2)
+• Point of divergence must be historically plausible
+• Scholarly consensus on "what happened" must be established first
+
+MECHANICS (Partial SAP):
+• Causal reasoning should cite scholarly understanding of system dynamics
+• "If X changed, then Y would follow because Z" — Z should be grounded
+• Mechanism claims inherit confidence from underlying scholarship
+
+OUTCOMES (Speculative by Design):
+• Explicitly flagged [COUNTERFACTUAL]
+• No canonical weight
+• Cannot migrate to WRITE without grounding upgrade
+• Permitted to be imaginative within plausible bounds
+
+COUNTERFACTUAL PREMISE DECLARATION (verbatim template):
+
+"COUNTERFACTUAL PREMISE DECLARATION:
+This counterfactual departs from established fact at [POINT OF DIVERGENCE].
+Grounded premise: [WHAT ACTUALLY HAPPENED — with citation]
+Counterfactual premise: [WHAT WE IMAGINE INSTEAD]
+Causal mechanism: [WHY THIS WOULD LEAD TO DIFFERENT OUTCOME]
+The outcome is explicitly speculative and carries no canonical weight."
+
+CANONICAL WEIGHT: None
+OUTPUT TYPE: Exploratory scenarios, pedagogical exercises
+
+RATIONALE: Counterfactuals are intellectually valuable but must be
+anchored to scholarly reality. The premise must be grounded even when
+the outcome is imaginative.
+
+────────────────────────────────────────────────────────────
+XXII.G.4 MODE-SPECIFIC SUMMARY TABLE
+────────────────────────────────────────────────────────────
+┌─────────────────────┬─────────┬─────────┬───────────────┐
+│ Requirement         │ WRITE   │ LEARN   │ IMAGINE       │
+├─────────────────────┼─────────┼─────────┼───────────────┤
+│ Grounded ratio      │ ≥60%    │ ≥80%    │ Premises only │
+│ Speculative limit   │ ≤20%    │ ≤10%    │ Outcomes free │
+│ Confidence gradient │ Required│ Required│ Premises only │
+│ Departure decl.     │ Required│ N/A     │ Premise only  │
+│ Canonical weight    │ Full    │ Patterns│ None          │
+│ Tier hierarchy      │ Full    │ Full    │ Premises only │
+└─────────────────────┴─────────┴─────────┴───────────────┘
+
+────────────────────────────────────────────────────────────
+XXIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
@@ -769,5 +1064,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.5
+END OF FILE — CIV–MEM–CORE v2.6
 ────────────────────────────────────────────────────────────

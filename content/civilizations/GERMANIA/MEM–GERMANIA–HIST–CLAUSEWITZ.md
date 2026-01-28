@@ -1,6 +1,10 @@
-MEM–GERMANIA–HIST–CLAUSEWITZ
-Status: LOCKED
-Version: 1.0
+MEM–GERMANIA–HIST–CLAUSEWITZ — v1.1
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL
+Status: ACTIVE
+Version: 1.1
+Supersedes: MEM–GERMANIA–HIST–CLAUSEWITZ v1.0
+Upgrade Type: KEEGAN INTEGRATION
 Civilization: GERMANIA
 Domain: STRATEGIC LITERATURE
 Subject: Carl von Clausewitz
@@ -20,6 +24,18 @@ phenomenon operating under uncertainty**.
 Clausewitz represents **late-classical European realism**: war understood
 not as a rules-bound art or moral contest, but as a dynamic struggle shaped
 by friction, chance, passion, and political purpose.
+
+John Keegan challenges Clausewitz's universalist claims while acknowledging
+his enduring influence:
+
+> "Clausewitz is the most important writer on war... but his vision was
+> formed by a particular historical moment. He knew nothing of primitive
+> war, little of oriental war, and his theory rests on assumptions about
+> the rationality of politics that history often contradicts."
+> — John Keegan, *A History of Warfare* (1993)
+
+Keegan's critique does not diminish Clausewitz but situates him: a theorist
+of European state warfare, not a universal explicator of human violence.
 
 The text functions as a **diagnostic framework**, not a prescriptive manual.
 Contradictions are preserved without resolution.
@@ -138,6 +154,16 @@ Common misreadings:
 
 Clausewitz survives because **he explains failure better than success**.
 
+Keegan notes that Clausewitz's very limitations are instructive:
+
+> "War is not always the continuation of politics by other means. Sometimes
+> it is the breakdown of politics, the failure of reason, the triumph of
+> passion or cultural imperatives that have nothing to do with policy."
+> — John Keegan, *A History of Warfare* (1993)
+
+This counter-reading enriches rather than negates Clausewitz—revealing the
+boundaries of his European state-war paradigm.
+
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -156,6 +182,7 @@ Primary:
 • *Vom Kriege* (On War), Books I–VIII (unfinished)
 
 Secondary:
+• **John Keegan**, *A History of Warfare* (1993)
 • Peter Paret  
 • Raymond Aron  
 • Hew Strachan  
@@ -163,5 +190,5 @@ Secondary:
 • Christopher Bassford  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–HIST–CLAUSEWITZ v1.0
+END OF FILE — MEM–GERMANIA–HIST–CLAUSEWITZ v1.1
 ────────────────────────────────────────────────────────────

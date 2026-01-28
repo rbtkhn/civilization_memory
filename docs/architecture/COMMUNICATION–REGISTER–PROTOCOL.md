@@ -26,8 +26,8 @@ NEW CONTENT:
 • MEM integration format for polyphony-derived insights
 
 GOVERNING PROFILES:
-• MIND–PROFILE–MERCOURIS v2.0 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v2.0 (ADVISORY)
+• CIV–MIND–MERCOURIS v2.5 (PRIMARY)
+• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
 
 PURPOSE:
 Harden the analytical sequence for extracting insights visible
@@ -331,8 +331,8 @@ friction between MERCOURIS (civilizational) and MEARSHEIMER (realist)
 interpretive lenses.
 
 GOVERNING PROFILES:
-• MIND–PROFILE–MERCOURIS v2.0 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v2.0 (ADVISORY)
+• CIV–MIND–MERCOURIS v2.5 (PRIMARY)
+• CIV–MIND–MEARSHEIMER v2.4 (ADVISORY)
 
 THE POLYPHONY SEQUENCE (6 STEPS):
 ────────────────────────────────────────────────────────────

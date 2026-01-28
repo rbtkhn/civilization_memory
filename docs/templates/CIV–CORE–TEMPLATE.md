@@ -59,7 +59,7 @@ PRESERVED ELEMENTS:
 • Clean separation from SCHOLAR cognition layer
 
 This upgrade synchronizes CORE template with SCHOLAR–PROTOCOL v2.1,
-SCHOLAR–TEMPLATE v2.3, and ARC–TEMPLATE v2.7 while maintaining CORE purity.
+SCHOLAR–TEMPLATE v2.5, and ARC–TEMPLATE v2.7 while maintaining CORE purity.
 
 ────────────────────────────────────────────────────────────
 I. TEMPLATE PURPOSE & ROLE

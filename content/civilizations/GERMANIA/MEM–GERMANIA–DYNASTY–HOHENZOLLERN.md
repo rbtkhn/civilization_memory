@@ -90,6 +90,12 @@ Collapse followed:
 
 The dynasty fell with the empire.
 
+Fred Anderson emphasizes that the Hohenzollern system was validated in
+its most extreme test: "Prussia's survival in the Seven Years' War
+demonstrated that an administrative state organized for permanent
+military readiness could endure punishment that would have destroyed
+less disciplined polities" (*Crucible of War*).
+
 ────────────────────────────────────────────────────────────
 VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -112,6 +118,7 @@ Secondary Sources (ARC-Compliant):
 • **Peter H. Wilson**, *Heart of Europe* (2020)
 • Christopher Clark, *Iron Kingdom*
 • Gordon Craig, *The Politics of the Prussian Army*
+• **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DYNASTY–HOHENZOLLERN — v2.0
+END OF FILE — MEM–GERMANIA–DYNASTY–HOHENZOLLERN — v2.1

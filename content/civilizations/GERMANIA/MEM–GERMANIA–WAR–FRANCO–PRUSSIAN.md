@@ -1,16 +1,16 @@
-MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.3
+MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
+Version: 1.4
+Upgrade Type: KISSINGER INTEGRATION
 Civilization: GERMANIA
 Opposing Civilization: FRANCIA
 Conflict: Franco–Prussian War
 Dates: 1870–1871 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,750
+Word Count: ~2,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -27,6 +27,15 @@ escalation or civilizational annihilation.
 
 The file records this war not as destiny fulfilled, but as **capacity
 exercised under restraint**.
+
+Henry Kissinger identifies the paradox embedded in this success:
+
+> "German unification caused Realpolitik to turn on itself, accomplishing
+> the opposite of what it was meant to achieve."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+The war validated Bismarckian method—but its success created the very
+power concentration that would later destabilize Europe.
 
 Contradictions are preserved without synthesis.
 
@@ -73,6 +82,12 @@ Primary source:
 > — Helmuth von Moltke, General Staff memorandum, 1869
 
 War was treated as a **state operation**, not a national crusade.
+
+Fred Anderson's analysis of Prussian survival in the Seven Years' War
+illuminates the deep institutional continuity: the same administrative-
+military fusion that enabled Frederick's armies to "reappear months later,
+scarred but intact" after catastrophic defeats now enabled Moltke's
+precision mobilization (*Crucible of War*).
 
 ────────────────────────────────────────────────────────────
 IV. CAMPAIGN TEMPO & OPERATIONAL EXECUTION
@@ -131,6 +146,15 @@ Primary source:
 > — Otto von Bismarck, diplomatic notes, 1871
 
 The war ended when objectives were met, not when emotions were exhausted.
+
+Kissinger emphasizes Bismarck's understanding that victory required restraint:
+
+> "The embodiment of realpolitik turned power into an instrument of
+> self-restraint by the agility of his diplomacy."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+Bismarck's post-war strategy aimed to prevent the coalition that unlimited
+victory would have provoked.
 
 ────────────────────────────────────────────────────────────
 VII. LEGITIMACY, PERCEPTION, & CIVILIAN RESTRAINT
@@ -197,7 +221,8 @@ Secondary Sources (Governance-Compliant):
 • **Katja Hoyer**, *Blood and Iron: The Rise and Fall of the German Empire*
 • **Henry Kissinger**, *World Order*
 • Michael Howard
+• **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.3
+END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.4
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,10 @@
-MEM–GERMANIA–HITLER
+MEM–GERMANIA–HITLER — v1.1
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: MEM–GERMANIA–HITLER v1.0
+Upgrade Type: KISSINGER INTEGRATION
 Civilization: GERMANIA
 Regime: TOTALITARIAN / REVOLUTIONARY–IMPERIAL (1933–1945)
 Subject: Adolf Hitler
@@ -19,6 +23,16 @@ unity while guaranteeing systemic annihilation.
 Hitler does not restore Germania.
 He **converts humiliation into acceleration**, legitimacy into fanaticism,
 and power into irreversible self-destruction.
+
+Kissinger's analysis of Bismarck illuminates Hitler by contrast. Where
+Bismarck understood power's limits, Hitler rejected them entirely:
+
+> "German unification caused Realpolitik to turn on itself, accomplishing
+> the opposite of what it was meant to achieve."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+Hitler represents the terminal inversion of Bismarckian restraint—competence
+married to ideology without stopping rules.
 
 Contradictions are preserved without synthesis.
 
@@ -165,6 +179,7 @@ Primary:
 • Nuremberg Trial records
 
 Secondary:
+• **Henry Kissinger**, *Diplomacy* (1994)
 • Ian Kershaw
 • Richard Evans
 • Victor Klemperer
@@ -172,5 +187,5 @@ Secondary:
 • Timothy Snyder
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–HITLER v1.0
+END OF FILE — MEM–GERMANIA–HITLER v1.1
 ────────────────────────────────────────────────────────────

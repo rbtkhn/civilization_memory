@@ -27,7 +27,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — TERTIARY CATALYST INTEGRATION
 ────────────────────────────────────────────────────────────
-This version integrates CIV–MIND–BARNES v1.6 as tertiary catalyst.
+This version integrates CIV–MIND–BARNES v2.5 as tertiary catalyst.
 
 v2.5 updates:
 • Added TERTIARY CATALYST layer to polyphony architecture

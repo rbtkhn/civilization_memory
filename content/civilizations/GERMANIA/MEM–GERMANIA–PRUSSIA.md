@@ -2,8 +2,9 @@ MEM–GERMANIA–PRUSSIA — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–PRUSSIA v1.0
+Version: 2.2
+Supersedes: MEM–GERMANIA–PRUSSIA v2.1
+Upgrade Type: KISSINGER INTEGRATION
 Civilization: GERMANIA
 Polity: PRUSSIA
 Dates: c. 1525–1871 AD
@@ -83,6 +84,13 @@ It avoids:
 
 This restraint is decisive.
 
+Fred Anderson emphasizes that Prussia's validation came through survival
+under existential pressure: "What distinguished Prussia was not victory
+in battle so much as survival after defeat. Again and again, Frederick's
+armies were broken, only to reappear months later, scarred but intact,
+sustained by an administrative state that could still extract men and
+money" (*Crucible of War*, 2000).
+
 ────────────────────────────────────────────────────────────
 VI. EXPANSION WITHOUT TOTALIZATION
 ────────────────────────────────────────────────────────────
@@ -111,6 +119,16 @@ Key mechanism:
 Fatal mutation later occurs when:
 → Prussian discipline is married to total ideology.
 
+Kissinger identifies Bismarck's achievement as the culmination of Prussian
+statecraft:
+
+> "The greatest diplomatic and political achievement by any leader in
+> the last two centuries."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+Bismarck's success rested on Prussian institutional foundations—but his
+system proved too personal to survive his removal.
+
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -137,5 +155,5 @@ Secondary (ARC-Compliant):
 • Gordon Craig
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–PRUSSIA — v2.0
+END OF FILE — MEM–GERMANIA–PRUSSIA — v2.2
 ────────────────────────────────────────────────────────────

@@ -138,10 +138,9 @@ No authority is changed.
 No catalyst function is altered.
 Barnes is now OGE-available in WRITE mode (passive until selected).
 
-Source Derivation: SCE–EXP–BARNES v9.7 (CSC) — distilled
-Source Material: Transcript analysis (Viva Frei 2025 + Barnes-Mercouris Nov 2025)
+Source Material: Transcript analysis (Viva Frei Jan 2026 + Barnes-Mercouris Nov 2025)
 Last Update: January 2026
-Word Count: ~3,400
+Word Count: ~5,200
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE

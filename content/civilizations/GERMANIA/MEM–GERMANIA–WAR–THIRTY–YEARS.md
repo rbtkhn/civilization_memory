@@ -1,9 +1,10 @@
-MEM–GERMANIA–WAR–THIRTY–YEARS — v1.2
+MEM–GERMANIA–WAR–THIRTY–YEARS — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Upgrade Type: COMPLIANCE REISSUE (Template + Source Governance)
+Version: 1.3
+Supersedes: MEM–GERMANIA–WAR–THIRTY–YEARS v1.2
+Upgrade Type: KEEGAN INTEGRATION
 Civilization: GERMANIA
 Subject: Thirty Years’ War
 Dates: 1618–1648 AD
@@ -21,6 +22,14 @@ strategic psychology around restraint, order, and administrative control.
 
 For Germania, this war is not formative glory but **trauma encoded as
 discipline**.
+
+John Keegan places the Thirty Years' War within the broader evolution
+of European warfare, noting its devastating departure from earlier limits:
+
+> "The Thirty Years' War was the last of the religious wars and the first
+> of the ideological wars—a conflict that showed how ideology could strip
+> away the customary restraints on violence."
+> — John Keegan, *A History of Warfare* (1993)
 
 This file records structural causes and civilizational consequences,
 not moral adjudications.
@@ -173,6 +182,7 @@ Primary Sources:
 • Imperial correspondence
 
 Secondary Sources (ARC-Compliant):
+• **John Keegan**, *A History of Warfare* (1993)
 • **Martyn Rady**, *The Habsburgs* (2020)
 • **Peter Wilson**, *Heart of Europe*
 • **Johannes Fried**, *The Middle Ages*
@@ -180,5 +190,5 @@ Secondary Sources (ARC-Compliant):
 • Geoffrey Parker, *The Thirty Years’ War*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–THIRTY–YEARS — v2.0
+END OF FILE — MEM–GERMANIA–WAR–THIRTY–YEARS — v1.3
 ────────────────────────────────────────────────────────────

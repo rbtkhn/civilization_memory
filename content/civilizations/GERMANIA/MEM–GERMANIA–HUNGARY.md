@@ -1,9 +1,10 @@
-MEM–GERMANIA–HUNGARY — v2.0
+MEM–GERMANIA–HUNGARY — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–HUNGARY v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–HUNGARY v2.0
+Upgrade Type: SIEMANN INTEGRATION
 Civilization: GERMANIA
 Subject: Hungary (Constraint Civilization, Imperial Counter-Logic, and National Refusal Engine)
 Dates: Roman era–1918 AD
@@ -102,6 +103,17 @@ Joseph II admits failure:
 
 German administrative logic encounters a **sovereignty firewall**.
 
+Siemann's biography reveals that even Metternich—the empire's most capable
+statesman—struggled with Hungary's structural resistance:
+
+> "Metternich was a failing reformer in a fragile multiethnic state—
+> the power struggles at its heart after the death of Emperor Francis I
+> in 1835 blocked his attempts to reorganize the empire."
+> — Wolfram Siemann, *Metternich: Strategist and Visionary* (2016/2019)
+
+Hungary's legal autonomy defeated not just administrative uniformity
+but also the reform efforts of those who sought accommodation.
+
 Uniformity collapses under resistance.
 
 ────────────────────────────────────────────────────────────
@@ -196,5 +208,5 @@ Secondary (ARC-Compliant):
 • István Deák, *Beyond Nationalism*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–HUNGARY — v2.0
+END OF FILE — MEM–GERMANIA–HUNGARY — v2.1
 ────────────────────────────────────────────────────────────

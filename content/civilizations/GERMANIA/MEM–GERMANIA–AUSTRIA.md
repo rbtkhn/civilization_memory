@@ -1,9 +1,10 @@
-MEM–GERMANIA–AUSTRIA — v2.0
+MEM–GERMANIA–AUSTRIA — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–AUSTRIA v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–AUSTRIA v2.0
+Upgrade Type: SIEMANN INTEGRATION
 Civilization: GERMANIA
 Subject: Austria (Imperial Core, Administrative Spine, and Dynastic Anchor)
 Dates: c. 976 AD–1918 AD
@@ -101,6 +102,16 @@ Weaknesses:
 
 Administration preserves order but resists transformation.
 
+Siemann's biography of Metternich reveals that even the empire's chief
+minister struggled against this administrative inertia:
+
+> "Metternich was a failing reformer in a fragile multiethnic state—
+> one who attempted modernization but was blocked by imperial bureaucracy."
+> — Wolfram Siemann, *Metternich: Strategist and Visionary* (2016/2019)
+
+Reform attempts foundered not on Metternich's ideology but on Austria's
+structural resistance to adaptation.
+
 ────────────────────────────────────────────────────────────
 VII. TERMINATION & AFTERLIFE
 ────────────────────────────────────────────────────────────
@@ -152,4 +163,4 @@ Secondary Sources (ARC-Compliant):
 • **Pieter Judson**, *The Habsburg Empire*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–AUSTRIA — v2.0
+END OF FILE — MEM–GERMANIA–AUSTRIA — v2.1

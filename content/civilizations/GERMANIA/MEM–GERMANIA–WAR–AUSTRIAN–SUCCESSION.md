@@ -102,6 +102,11 @@ Prussia internalizes a critical lesson:
 Frederick repeatedly accepts negotiated pauses rather than total war,
 preserving force for future contests.
 
+Fred Anderson notes that Frederick's willingness to disengage demonstrated
+a strategic maturity rare among European commanders: the recognition that
+"preserving the army intact was more valuable than any conceivable
+battlefield victory" when facing coalition enemies (*Crucible of War*).
+
 ────────────────────────────────────────────────────────────
 VI. RESULTING POWER RECONFIGURATION
 ────────────────────────────────────────────────────────────
@@ -186,7 +191,8 @@ Secondary Sources (ARC-Compliant):
 • Peter H. Wilson, *Heart of Europe*
 • Dennis Showalter, *The Wars of Frederick the Great*
 • Christopher Clark, *Iron Kingdom*
+• **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.0
+END OF FILE — MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.1
 ────────────────────────────────────────────────────────────

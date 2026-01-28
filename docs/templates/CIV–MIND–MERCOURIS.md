@@ -682,7 +682,7 @@ BARNES is NOT a third parallel voice.
 BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER.
 
-Mode Availability (per CIV–MIND–BARNES v1.6):
+Mode Availability (per CIV–MIND–BARNES v2.5):
 • WRITE MODE: Barnes OGE-REQUIRED (1 option mandatory)
 • LEARN MODE: Barnes OGE-REQUIRED (1 option mandatory)
 • IMAGINE MODE: Barnes OGE-REQUIRED (1 option mandatory)

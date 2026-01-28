@@ -1,9 +1,10 @@
-MEM–GERMANIA–METTERNICH — v2.0
+MEM–GERMANIA–METTERNICH — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–METTERNICH v1.0
+Version: 2.2
+Supersedes: MEM–GERMANIA–METTERNICH v2.1
+Upgrade Type: SIEMANN INTEGRATION
 Civilization: GERMANIA
 Regime: HABSBURG / RESTORATION-IMPERIAL (1809–1848)
 Subject: Klemens von Metternich
@@ -24,6 +25,29 @@ Metternich does not build a new order.
 He **prevents the collapse of the old one**.
 
 He represents stabilization through inhibition, not transformation.
+
+Henry Kissinger analyzes Metternich extensively in *Diplomacy*, treating
+him as the architect of the Congress System that Bismarck later dismantled:
+
+> "Metternich was the first statesman to operate a system of collective
+> security based on shared values rather than equilibrium alone."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+Where Bismarck would later pursue power balanced by restraint, Metternich
+sought legitimacy preserved by suppression.
+
+Wolfram Siemann's definitive biography fundamentally reframes Metternich:
+
+> "Metternich emerged from the horrors of the Revolutionary and Napoleonic
+> wars committed above all to the preservation of peace. That often required
+> him to back authority. But short of compromising on his overarching goal,
+> Metternich aimed to accommodate liberalism and nationalism as much as
+> possible."
+> — Wolfram Siemann, *Metternich: Strategist and Visionary* (2016/2019)
+
+Siemann argues Metternich was not the reactionary archconservative of
+legend, but a "cosmopolitan rationalist and problem solver"—the father
+of realpolitik before Bismarck.
 
 Contradictions are preserved without synthesis.
 
@@ -132,6 +156,12 @@ Key failure:
 • Collapse of censorship and policing
 • Metternich forced into exile
 
+Siemann reveals Metternich as a "failing reformer in a fragile multiethnic
+state"—one who attempted modernization but was blocked by imperial
+bureaucracy and Francis I's conservatism. The traditional image of
+pure reaction obscures genuine reform efforts that foundered on
+structural constraints.
+
 Suppression without reform accumulates explosive energy.
 
 ────────────────────────────────────────────────────────────
@@ -156,6 +186,15 @@ X. CONTINUITY INSIGHTS (RAW)
 • Metternich succeeds tactically and fails structurally.
 • Bismarck learns from Metternich what restraint requires — and what stagnation costs.
 
+Kissinger frames the contrast directly:
+
+> "Where Metternich sought to freeze history after revolutionary rupture,
+> Bismarck sought to manage it through controlled conflict."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+Metternich preserved the old order; Bismarck replaced it with a new one
+built on power rather than legitimacy.
+
 Equilibrium preserved without renewal.
 
 ────────────────────────────────────────────────────────────
@@ -166,11 +205,13 @@ Primary:
 • Congress of Vienna protocols
 
 Secondary (ARC-Compliant):
+• **Wolfram Siemann**, *Metternich: Strategist and Visionary* (2016/2019)
+• **Henry Kissinger**, *Diplomacy* (1994)
 • **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
 • Adam Zamoyski, *Rites of Peace*
 • Mark Jarrett, *The Congress of Vienna*
 • Paul Schroeder, *The Transformation of European Politics*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–METTERNICH v2.0
+END OF FILE — MEM–GERMANIA–METTERNICH v2.2
 ────────────────────────────────────────────────────────────

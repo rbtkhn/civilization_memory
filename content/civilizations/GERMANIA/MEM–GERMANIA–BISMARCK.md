@@ -1,17 +1,17 @@
-MEM–GERMANIA–BISMARCK — v1.3
+MEM–GERMANIA–BISMARCK — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Supersedes: MEM–GERMANIA–BISMARCK v1.3
-Upgrade Type: WILSON INTEGRATION
+Version: 1.5
+Supersedes: MEM–GERMANIA–BISMARCK v1.4
+Upgrade Type: KISSINGER INTEGRATION
 Civilization: GERMANIA
 Regime: Prussian / Imperial-Constitutional (1862–1890 AD)
 Subject: Otto von Bismarck
 Dates: 1815–1898 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,720
+Word Count: ~3,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -28,6 +28,12 @@ institutions while preventing escalation from becoming destiny.
 This file records Bismarck as a *closure-dependent unifier*: demonstrating
 how limited war, alliance discipline, and procedural containment can
 generate durable state power.
+
+Henry Kissinger judges Bismarck's achievement categorically:
+
+> "The greatest diplomatic and political achievement by any leader in
+> the last two centuries."
+> — Henry Kissinger, *Diplomacy* (1994)
 
 Contradictions are preserved without synthesis.
 
@@ -65,6 +71,14 @@ Key characteristics:
 • Moral language is instrumental, not binding
 • Alliances are temporary scaffolds
 • Enemies are situational, not metaphysical
+
+Kissinger emphasizes that Bismarck's Realpolitik was far more sophisticated
+than crude power maximization:
+
+> "Bismarck dominated because he understood a wider range of factors
+> relevant to international affairs—some normally identified with power,
+> others generally classified as ideals—than any of his contemporaries."
+> — Henry Kissinger, *Diplomacy* (1994)
 
 Primary source:
 
@@ -147,6 +161,19 @@ Mechanisms:
 • Dual Alliance
 • Reinsurance Treaty
 
+Bismarck articulated the core principle in 1877:
+
+> "A political situation in which all powers except France require us;
+> and are deterred from coalitions against us by their relations to
+> each other as far as possible."
+> — Otto von Bismarck, Kissingen Dictation, 1877
+
+Kissinger observes that Bismarck transformed power into restraint:
+
+> "The embodiment of realpolitik turned power into an instrument of
+> self-restraint by the agility of his diplomacy."
+> — Henry Kissinger, *Diplomacy* (1994)
+
 Primary source:
 
 > “Germany must be satiated. Only a satiated power can convince others
@@ -191,6 +218,20 @@ Dismissal in 1890 removes the system’s governor.
 
 As both Chrastil and Hoyer note, Germany retains power after Bismarck but
 loses **judgment**. Structure persists; restraint does not.
+
+Kissinger notes the tragic irony:
+
+> "German unification caused Realpolitik to turn on itself, accomplishing
+> the opposite of what it was meant to achieve."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+The very strength Bismarck created generated the coalition nightmare he
+had spent two decades preventing.
+
+Fred Anderson's analysis of Frederick's Seven Years' War survival provides
+the historical precedent Bismarck inherited: the understanding that
+"endurance, not conquest, was the true measure of strategic success" when
+facing superior coalitions (*Crucible of War*).
 
 ────────────────────────────────────────────────────────────
 IX. CROSS–CIVILIZATIONAL CONNECTIONS
@@ -240,7 +281,9 @@ Secondary Sources (Source Governance Compliant):
 • Jonathan Steinberg
 • Gordon Craig
 • Christopher Clark
+• **Peter H. Wilson**, *Heart of Europe* (2020)
+• **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BISMARCK — v1.3
+END OF FILE — MEM–GERMANIA–BISMARCK — v1.5
 ────────────────────────────────────────────────────────────

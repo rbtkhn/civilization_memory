@@ -1,8 +1,10 @@
-MEM–GERMANIA–WAR–MOLTKE — v1.0
+MEM–GERMANIA–WAR–MOLTKE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: MEM–GERMANIA–WAR–MOLTKE v1.0
+Upgrade Type: KEEGAN INTEGRATION
 Civilization: GERMANIA
 Subject: Helmuth von Moltke the Elder (Operational War System)
 Dates: c. 1857–1888 AD (chief influence period)
@@ -69,6 +71,12 @@ Innovations:
 • Time-as-decisive variable
 
 War becomes a **temporal–spatial equation**.
+
+Keegan emphasizes the revolutionary nature of this transformation:
+
+> "Time-tabling replaced the coup d'oeil, the flash of intuition on which
+> Napoleon had depended. The railway made war a matter of schedules."
+> — John Keegan, *A History of Warfare* (1993)
 
 Movement and replacement outrank battlefield valor.
 
@@ -138,5 +146,19 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–MOLTKE — v1.0
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• Moltke's military writings and correspondence
+• Prussian General Staff records
+
+Secondary:
+• **John Keegan**, *A History of Warfare* (1993)
+• **John Keegan**, *The First World War* (1998)
+• Arden Bucholz, *Moltke, Schlieffen and Prussian War Planning*
+• Dennis Showalter
+• Gerhard Ritter
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–WAR–MOLTKE — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–GERMANIA–DYNASTY–HAPSBURG — v2.0
+MEM–GERMANIA–DYNASTY–HAPSBURG — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–DYNASTY–HAPSBURG v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–DYNASTY–HAPSBURG v2.0
+Upgrade Type: SIEMANN INTEGRATION
 Civilization: GERMANIA
 Subject: Habsburg Dynasty
 Dates: c. 1273–1918 AD
@@ -72,6 +73,17 @@ Key roles:
 
 Religion functioned as **legitimacy glue** across diverse lands.
 
+Siemann's biography of Metternich reveals how the dynasty's greatest
+statesman operated within these legitimist constraints:
+
+> "Metternich was committed above all to the preservation of peace—
+> a goal that required him to back authority while accommodating
+> liberalism and nationalism where possible."
+> — Wolfram Siemann, *Metternich: Strategist and Visionary* (2016/2019)
+
+The dynasty survived through its statesmen's diplomatic agility as
+much as its dynastic marriages.
+
 ────────────────────────────────────────────────────────────
 V. STRATEGIC LIMITS & OVEREXTENSION
 ────────────────────────────────────────────────────────────
@@ -116,4 +128,4 @@ Secondary Sources (ARC-Compliant):
 • **Christopher Clark**, *Iron Kingdom*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DYNASTY–HAPSBURG v2.0
+END OF FILE — MEM–GERMANIA–DYNASTY–HAPSBURG v2.1

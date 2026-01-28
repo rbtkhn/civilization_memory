@@ -1,8 +1,10 @@
-MEM–GERMANIA–WAR–TIRPITZ — v1.0
+MEM–GERMANIA–WAR–TIRPITZ — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: MEM–GERMANIA–WAR–TIRPITZ v1.0
+Upgrade Type: KISSINGER INTEGRATION
 Civilization: GERMANIA
 Subject: Alfred von Tirpitz (Fleet & Risk Theory)
 Dates: c. 1897–1916 AD
@@ -20,6 +22,17 @@ rather than leverage.
 
 Tirpitz builds power correctly—
 in the **wrong domain logic**.
+
+Tirpitz exemplifies the post-Bismarck abandonment of restraint that
+Kissinger identifies as catastrophic:
+
+> "German unification caused Realpolitik to turn on itself, accomplishing
+> the opposite of what it was meant to achieve."
+> — Henry Kissinger, *Diplomacy* (1994)
+
+Naval expansion provoked the British alignment that Bismarck's diplomacy
+had carefully prevented. The fleet became a coalition catalyst rather
+than a deterrent.
 
 Contradictions are preserved without synthesis.
 
@@ -135,5 +148,18 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–TIRPITZ — v1.0
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• Alfred von Tirpitz, *My Memoirs*
+• German naval records
+
+Secondary:
+• **Henry Kissinger**, *Diplomacy* (1994)
+• Paul Kennedy, *The Rise and Fall of the Great Powers*
+• Holger Herwig
+• Jonathan Steinberg
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–WAR–TIRPITZ — v1.1
 ────────────────────────────────────────────────────────────

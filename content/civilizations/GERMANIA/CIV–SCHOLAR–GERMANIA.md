@@ -1,13 +1,13 @@
-CIV–SCHOLAR–GERMANIA — v2.2
+CIV–SCHOLAR–GERMANIA — v2.6
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.2
-Supersedes: CIV–SCHOLAR–GERMANIA v2.1
-Upgrade Type: ADDITIVE · ARC REFERENCE
+Version: 2.6
+Supersedes: CIV–SCHOLAR–GERMANIA v2.5
+Upgrade Type: ADDITIVE · CONSTRAINT CIVILIZATION ANALYSIS + TRI-FRAME SYNTHESIS
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
@@ -15,13 +15,83 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: January 2026
-Word Count: 2922
+Word Count: ~7,800
 
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
 • CIV–MEM–CORE v2.5
 • CIV–ARC–GERMANIA v1.1 (Pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5 → v2.6) — CONSTRAINT CIVILIZATION ANALYSIS + TRI-FRAME SYNTHESIS
+────────────────────────────────────────────────────────────
+This version represents a major expansion integrating constraint civilization
+analysis, GEO cluster enhancement, and tri-frame synthesis methodology.
+
+v2.6 changes:
+• ENTRY 0022 added (GEO cluster strategic ingestion)
+• SYNTHESIS 0009 added (Geographic Strategic Geometry)
+• RLL–GERMANIA–0009 bound (Geographic Concentration Law)
+• RLL count: 8 → 9
+• Entry count: 21 → 22
+• Synthesis count: 8 → 9
+
+The GEO cluster confirms that Germania's strategic stability requires
+concentration on Rhine-density terrain. Eastern projection beyond Elbe-Oder
+dilutes force ratios faster than institutional capacity can compensate.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.4 → v2.5) — URBAN MEM CLUSTER INGESTION
+────────────────────────────────────────────────────────────
+This version ingests ten new MEMs created during the urban cluster expansion,
+adding ENTRY 0012–0021 and SYNTHESIS 0008.
+
+v2.5 changes:
+• ENTRY 0012–0021 added (10 new MEMs: Russia, Berlin, Frankfurt, Rothschild,
+  Hamburg, Munich, Leipzig, Dresden, Amsterdam, Nuremberg)
+• SYNTHESIS 0008 added (Urban Nodal Distribution cluster synthesis)
+• SDI entries added: SDI–GER–013 through SDI–GER–016 (4 new entries)
+• Entry count: 11 → 21
+• Synthesis count: 7 → 8
+• SDI count: 12 → 16
+
+The urban cluster confirms RLL–0008 (Distributed Legitimacy) through systematic
+analysis: each city performs specialized civilizational functions, and the
+network of nodes constitutes Germanic authority structure.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.3 → v2.4) — DISTRIBUTED LEGITIMACY LAW
+────────────────────────────────────────────────────────────
+This version adds RLL–GERMANIA–0008 derived from urban MEM cluster analysis
+(Nuremberg–Frankfurt cross-reference on regalia vs election).
+
+v2.4 changes:
+• RLL–GERMANIA–0008 bound (Distributed Legitimacy Law)
+• Evidence base: MEM–GERMANIA–NUREMBERG, MEM–GERMANIA–FRANKFURT, urban cluster
+• RLL count: 7 → 8
+
+The new RLL captures Germania's multi-nodal legitimacy structure: authority
+distributes across specialized cities rather than concentrating in a single
+capital. Concentration into single capital indicates regime transition or
+breakdown, not normal Germanic operation.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.2 → v2.3) — HUNGARY–POLAND CONSTRAINT BOUNDARY
+────────────────────────────────────────────────────────────
+This version adds learning from MEM–GERMANIA–HUNGARY and MEM–GERMANIA–POLAND
+comparative analysis using tri-frame synthesis (Mercouris/Mearsheimer/Barnes).
+
+v2.3 changes:
+• ENTRY 0010 added (Hungary–Poland constraint boundary analysis)
+• SYNTHESIS 0007 added (Internal vs External Catastrophe Mode)
+• RLL–GERMANIA–0007 bound (Constraint Civilization Ceiling Law)
+• SDI entries added: GERMANIA ↔ HUNGARY, GERMANIA ↔ POLAND
+• RLL count: 6 → 7
+
+The new RLL refines the master constraint (RLL–0005) by distinguishing
+failure modes: internal constraint civilizations produce exit; external
+adjacent polities produce annihilation when restraint fails.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2 → v2.0) — TEMPLATE v2.5 COMPLIANCE
@@ -350,6 +420,233 @@ Primary Belief Extracted:
   enforced stopping rules, and refusal of ideological escalation.
 Belief Status: FROZEN (via SYNTHESIS 0005 → RLL–GERMANIA–0005)
 
+ENTRY 0010
+Source: MEM–GERMANIA–HUNGARY v2.1; MEM–GERMANIA–POLAND v1.0
+Ingest Type: Constraint Civilization Comparative / Boundary Analysis
+Primary Beliefs Extracted:
+• Germania's eastern relationships divide into two structural categories
+  with distinct failure modes: internal constraint civilizations with
+  codified resistance rights produce deferred catastrophe through exit;
+  external adjacent polities without such rights produce immediate
+  catastrophe through partition or annihilation when restraint fails.
+• Compromise that institutionalizes dual sovereignty is not closure;
+  it is deferred catastrophe. The Ausgleich preserved extraction while
+  externalizing governance costs but created a permanent veto actor.
+• The form of catastrophe—exit versus annihilation—depends on structural
+  position within or outside Germanic imperial structures, not on
+  Germanic intent or capability.
+Belief Status: FROZEN (via SYNTHESIS 0007 → RLL–GERMANIA–0007)
+
+ENTRY 0011
+Source: MEM–GERMANIA–PRUSSIA v2.0
+Ingest Type: Discipline Engine / RLL Derivation Confirmation
+Primary Beliefs Extracted:
+• Prussia is Germania's survival laboratory: a state constructed for
+  endurance under permanent inferiority, not for grandeur. Discipline
+  without myth produces austere legitimacy that avoids sacred destiny
+  and ideological mobilization.
+• The Prussian inversion—state exists to sustain army, not army to
+  conquer state—demonstrates RLL–0002 in operational form. Expansion
+  is selective, strategic, reversible; it stops once survival is assured.
+• Fatal mutation occurs when Prussian discipline is married to total
+  ideology, collapsing the stopping rules that made the system stable.
+Belief Status: FROZEN (confirms RLL–GERMANIA–0002; no modification required)
+
+ENTRY 0012
+Source: MEM–GERMANIA–RUSSIA v2.0
+Ingest Type: Cross-Civilizational Interface / Grammar Collision
+Primary Beliefs Extracted:
+• Russia is Germania's strategic mirror: inversions, not contradictions.
+  German precision meets Russian depth; German stopping rules meet Russian
+  survival-at-any-cost; German administrative grammar meets Russian
+  authority-precedes-law.
+• Geographic entanglement (Poland buffer, Baltic access, continental land
+  corridor) makes sustained separation impossible but sustained cooperation
+  equally unstable.
+• Bismarckian management (Reinsurance Treaty, Three Emperors' League)
+  represents the only stable configuration; abandonment produces two-front
+  catastrophe (1914, 1941).
+Belief Status: FROZEN (confirms SDI–GER–006/007/008; no modification required)
+
+ENTRY 0013
+Source: MEM–GERMANIA–BERLIN v2.0
+Ingest Type: Urban Node / Constructed Capital
+Primary Beliefs Extracted:
+• Berlin is a constructed capital—Hohenzollern administrative center built
+  for command, not sanctified by antiquity or election. Authority derives
+  from administrative service, not sacred presence.
+• The city's destruction (1945) and division (1945–1989) followed ideological
+  overloading: when Berlin claimed total legitimacy (Nazi Welthauptstadt),
+  total destruction followed.
+• Post-reunification Berlin returns to distributed function: political capital
+  coexisting with Frankfurt (finance), Munich (culture), Hamburg (commerce).
+Belief Status: FROZEN (confirms RLL–GERMANIA–0008)
+
+ENTRY 0014
+Source: MEM–GERMANIA–FRANKFURT v2.0
+Ingest Type: Urban Node / Constitutional-Financial Center
+Primary Beliefs Extracted:
+• Frankfurt encodes the constitutional path: imperial election site where
+  procedure conferred legitimacy. The Römer witnessed centuries of elections;
+  the Paulskirche hosted the 1848 attempt at constitutional federation.
+• Frankfurt represents Germania's path not taken: commercial autonomy,
+  constitutional federation, financial power without territorial consolidation.
+• The 1848 failure—when the Parliament offered a crown Prussian power would
+  later take by war—demonstrates that constitutional federation could not
+  defeat administrative-military consolidation.
+Belief Status: FROZEN (confirms RLL–GERMANIA–0008; extends AXIOM-007)
+
+ENTRY 0015
+Source: MEM–GERMANIA–ROTHSCHILD v2.0
+Ingest Type: Trans-Sovereign Network / Financial Power Grammar
+Primary Beliefs Extracted:
+• The Rothschild network demonstrates alternative power grammar: network
+  defeats hierarchy, credit creates dependency, information velocity exceeds
+  military mobility, marginality enables neutrality.
+• Trans-sovereign operation (Frankfurt-London-Paris-Vienna-Naples) transcended
+  state boundaries, financing wars while remaining above combatants.
+• The family's 20th-century decline correlates with nation-state consolidation
+  and total war: the conditions permitting trans-sovereign financial power
+  collapsed when states demanded total mobilization.
+Belief Status: FROZEN (extends RLL–GERMANIA–0008 to network dimension)
+
+ENTRY 0016
+Source: MEM–GERMANIA–HAMBURG v2.0
+Ingest Type: Urban Node / Maritime Commerce
+Primary Beliefs Extracted:
+• Hamburg encodes maritime-commercial grammar: Hanseatic network logic,
+  neutrality as commercial optimization, Free City autonomy from territorial
+  princes.
+• Geographic position at the Elbe-North Sea junction creates permanent
+  function: gateway connecting Central European production to Atlantic trade.
+• The neutrality strategy fails under total war (1943 firestorm), demonstrating
+  that commercial nodes cannot escape continental conflict through non-alignment.
+Belief Status: FROZEN (confirms RLL–GERMANIA–0008; extends NCZ–GER–001)
+
+ENTRY 0017
+Source: MEM–GERMANIA–MUNICH v2.0
+Ingest Type: Urban Node / Catholic Counterweight
+Primary Beliefs Extracted:
+• Munich encodes Catholic-particularist grammar: Wittelsbach dynastic
+  continuity (1180–1918), Counter-Reformation identity, cultural patronage
+  as legitimacy source.
+• The north-south tension (Protestant Prussia vs Catholic Bavaria) defines
+  internal Germanic plurality; Munich represents permanent alternative to
+  Berlin's Protestant-administrative logic.
+• Counter-Berlin sentiment can invert into counter-democratic politics:
+  Munich's alienation from Weimar produced receptivity to radical nationalism.
+Belief Status: FROZEN (confirms RLL–GERMANIA–0008; extends NCZ–GER–004)
+
+ENTRY 0018
+Source: MEM–GERMANIA–LEIPZIG v2.0
+Ingest Type: Urban Node / Exchange-Convergence Node
+Primary Beliefs Extracted:
+• Leipzig encodes convergence function: where trade routes cross, goods and
+  ideas concentrate, and revolutionary pivots crystallize.
+• Geographic centrality produces exchange function (trade fair, book market)
+  and twice produces revolutionary pivot: 1813 (Battle of Nations ending
+  Napoleonic domination) and 1989 (Monday Demonstrations ending Communist rule).
+• Convergence points are inherently unstable: they attract decisive confrontation
+  precisely because of their network centrality.
+Belief Status: FROZEN (extends RLL–GERMANIA–0008 to revolutionary dynamics)
+
+ENTRY 0019
+Source: MEM–GERMANIA–DRESDEN v2.0
+Ingest Type: Urban Node / Aesthetic Treasury and Trauma Site
+Primary Beliefs Extracted:
+• Dresden encodes aesthetic accumulation: Wettin royal patronage, Augustus
+  the Strong's cultural ambition, art collection rivaling Louvre and Hermitage.
+• February 1945 demonstrates total war's terminus: beauty offers no protection.
+  The city that claimed civilization was destroyed precisely because of its
+  civilizational significance.
+• Post-reunification reconstruction demonstrates that destruction is not final
+  if memory and will persist. The Frauenkirche rises from archaeological
+  reconstruction using original stones.
+Belief Status: FROZEN (extends NCZ–GER–001; confirms trauma-reconstruction pattern)
+
+ENTRY 0020
+Source: MEM–GERMANIA–NETHERLANDS–AMSTERDAM v2.0
+Ingest Type: Civilizational Exit Node / Alternative Modernity
+Primary Beliefs Extracted:
+• The Netherlands represents Germania's successful exit: imperial territory
+  that revolted, achieved independence, and constructed alternative modernity.
+• Exit succeeded when resources, geography (maritime access), and external
+  support (English/French counterbalancing) aligned. Exit was not original
+  intention; it emerged when reconciliation failed.
+• Amsterdam demonstrates commercial-republican grammar that Germania could
+  not replicate: maritime network empire, financial innovation, religious
+  plurality as competitive advantage.
+Belief Status: FROZEN (extends RLL–GERMANIA–0007 to exit conditions; adds NCZ dimension)
+
+ENTRY 0021
+Source: MEM–GERMANIA–NUREMBERG v2.0
+Ingest Type: Urban Node / Symbolic Capital and Justice Site
+Primary Beliefs Extracted:
+• Nuremberg encodes symbolic-material legitimacy: Free Imperial City storing
+  regalia (1424–1796), hosting Diets, producing Dürer's craft-art fusion.
+• Symbolic capital attracts appropriation: Nazi capture of medieval symbolism
+  (rallies, race laws, regalia retrieval) demonstrates that concentrated
+  legitimacy symbols can be redirected.
+• Symbolic reversal is possible: the city of rallies became the city of
+  Trials, repurposing the site for international justice.
+Belief Status: FROZEN (confirms RLL–GERMANIA–0008; extends symbolic dynamics)
+
+ENTRY 0022
+Source: GEO–MEM Cluster (Rhine, Danube, Baltic, Atlantic, Alps, Carpathians,
+  Vistula, Elbe, Oder) — Enhanced with Mearsheimer Strategic Sections
+Ingest Type: Strategic Geographic Geometry / Force Concentration Analysis
+Primary Beliefs Extracted:
+• Germania's strategic stability requires concentration on Rhine-density
+  terrain (western quadrant) where force-to-space ratios are sustainable
+  and industrial replacement depth is immediately available.
+• Eastern projection beyond the Elbe-Oder line dilutes force ratios faster
+  than institutional capacity can compensate. The Vistula marks the outer
+  limit of German administrative capacity; commerce precedes sovereignty
+  but never converts into it.
+• Terrain types impose distinct strategic logics: Rhine (consolidation spine,
+  60%+ industrial capacity), Elbe (internal hinge), Oder (pressure boundary),
+  Alps/Carpathians (limit structures), Baltic/Atlantic (reach without control).
+• Force concentration calculations: Rhine sector (~4 div/100km sustainable);
+  Oder sector (~7 div/100km required but not sustainable from Rhine base);
+  mountain passes (battalion-level defense, division-level assault).
+• The two-front problem is geographic before it is strategic: simultaneous
+  commitment to Rhine-density and Oder-density operations exceeds replacement
+  capacity. Schlieffen recognized this; 1914 and 1941 confirmed it.
+Belief Status: FROZEN (→ RLL–GERMANIA–0009)
+
+ENTRY 0023
+Source: MEM–GERMANIA–BOHEMIA v2.0
+Ingest Type: Internal Adjacency / Ideological Fault Line
+Primary Beliefs Extracted:
+• Bohemia encodes internal adjacency: culturally distinct, administratively
+  integrated, politically volatile under ideological pressure.
+• Unlike Hungary (codified constraint → deferred exit), Bohemia exhibits
+  ambient constraint without codification. Administrative order exists without
+  consent; Habsburg authority relies on "imagination as much as geography" (Rady).
+• Ideological fracture (Hussite Wars 1419–1434, Defenestration 1618) converts
+  internal diversity into civil war. The pattern recurs because the structural
+  condition persists.
+• Post-1945 expulsion eliminated the interface violently, not gradually.
+  This is liability elimination through population transfer, producing a
+  nationally sealed successor state.
+Belief Status: FROZEN (→ SYNTHESIS 0011; extends RLL–0007 to rupture mode)
+
+ENTRY 0024
+Source: MEM–GERMANIA–AUSTRIA–HUNGARY v2.0
+Ingest Type: Imperial Dual Monarchy / Delay Mechanism
+Primary Beliefs Extracted:
+• Austria-Hungary represents "managed suspension" rather than synthesis:
+  the Ausgleich formalized contradiction without resolving it.
+• Dual sovereignty created dual paralysis. Neither side could absorb the
+  other; neither could exit without framework collapse.
+• Total war exceeded system tolerance. The 1918 dissolution was structural
+  exit, not ideological rebellion—elite repositioning preceded nationalist
+  narrative (Barnes layer).
+• The temporal phasing model (codification → friction → formalization → exit)
+  applies: Hungary's codified rights within imperial structure produced
+  deferred catastrophe rather than immediate annihilation.
+Belief Status: FROZEN (→ SYNTHESIS 0010; confirms RLL–0007 temporal refinement)
+
 ────────────────────────────────────────────────────────────
 V. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -397,6 +694,120 @@ Outcome:
   conditional. Substituting reach for depth produces exposure without
   commensurate authority.
 Status: FROZEN → RLL–GERMANIA–0006
+
+SYNTHESIS 0007 (ENTRY 0010 — HUNGARY–POLAND COMPARATIVE)
+Outcome:
+• Germania's eastern relationships produce two distinct catastrophe modes
+  determined by structural position. Internal constraint civilizations
+  (Hungary) with codified resistance rights and imperial membership
+  produce deferred catastrophe through exit when crisis exceeds tolerance.
+  External adjacent polities (Poland) without codified position produce
+  immediate catastrophe through partition or annihilation when Germanic
+  restraint fails. The master constraint (RLL–0005) operates in both cases;
+  structural position determines the form, not the fact, of catastrophe.
+Status: FROZEN → RLL–GERMANIA–0007
+
+SYNTHESIS 0008 (ENTRY 0012–0021 — URBAN NODAL DISTRIBUTION)
+Outcome:
+• Germania operates through distributed urban nodes, each performing
+  specialized civilizational functions: Berlin (administrative command),
+  Frankfurt (constitutional election, finance), Nuremberg (symbolic regalia),
+  Hamburg (maritime commerce), Munich (Catholic-cultural counterweight),
+  Dresden (aesthetic treasury), Leipzig (exchange convergence).
+• The nodal distribution is structural, not accidental: the Emperor circulated
+  among nodes; no single capital concentrated all legitimacy functions.
+  Concentration attempts (Nazi Berlin, Habsburg Vienna) produce breakdown.
+• Exit nodes (Amsterdam) demonstrate that departure from the network is
+  possible under specific conditions (maritime geography, external support,
+  reconciliation failure). Exit produces alternative modernity, not absorption.
+• Cross-civilizational interfaces (Russia) reveal grammar collision:
+  German precision vs Russian depth, German stopping rules vs Russian
+  survival-at-any-cost. Stable configuration requires Bismarckian management;
+  abandonment produces two-front catastrophe.
+Status: FROZEN → confirms RLL–GERMANIA–0008; no new RLL required
+
+SYNTHESIS 0009 (ENTRY 0022 — GEOGRAPHIC STRATEGIC GEOMETRY)
+Outcome:
+• Germania's strategic stability requires concentration on Rhine-density
+  terrain where force-to-space ratios are sustainable and industrial
+  replacement depth is immediately available. The Rhine-Ruhr-Westphalia
+  triangle contains 60%+ of heavy industrial output; distance from this
+  core degrades effective military power.
+• Eastern projection beyond the Elbe-Oder line produces structural
+  overextension. The Vistula marks the outer limit of German administrative
+  capacity; the Oder marks the limit of sustainable force density. Operations
+  beyond these lines require rapid decision before attrition advantages
+  shift to the defender.
+• The two-front problem is geographic before strategic. Simultaneous
+  commitment to western (Rhine-density) and eastern (Oder-density)
+  operations exceeds replacement capacity. Schlieffen's calculation—
+  concentrate west, accept risk east—recognized this constraint; violation
+  (1914 redeployment, 1941 simultaneous commitment) produced catastrophe.
+• Terrain types impose distinct strategic grammars: consolidation spines
+  (Rhine) permit sustained operations; pressure boundaries (Oder) require
+  rapid decision; limit structures (Alps, Carpathians) favor defense but
+  throttle projection; maritime zones (Baltic, Atlantic) provide reach
+  without control.
+Status: FROZEN → RLL–GERMANIA–0009
+
+SYNTHESIS 0010 (MEM–GERMANIA–AUSTRIA–HUNGARY ↔ MEM–GERMANIA–HUNGARY ↔ RLL–0007)
+Outcome:
+• RLL–0007 (Constraint Civilization Ceiling Law) operates through temporal
+  phasing when applied to internal constraint civilizations. The Hungary–
+  Austria-Hungary sequence demonstrates three distinct phases of the same
+  structural problem.
+• Phase 1 (Codification): Resistance rights codified within royal framework
+  (Golden Bull 1222). Constraint limits Crown but does not break it. System
+  stable when external pressure requires cooperation.
+• Phase 2 (Friction): Habsburg acquisition produces centuries of absorption
+  failure. Neither side can close. Periodic revolt (Rákóczi, 1848) demonstrates
+  ceiling. Constraint civilization cannot be absorbed; absorbing power cannot
+  withdraw.
+• Phase 3 (Formalization): Ausgleich (1867) institutionalizes impasse as
+  governance. Dual sovereignty substitutes for resolution. System purchases
+  time but accumulates fragility. Total war exceeds tolerance; exit follows.
+• The temporal phasing refines RLL–0007: internal constraint civilizations
+  produce DEFERRED catastrophe through exit. The deferral period depends on
+  external pressure and crisis tolerance. When framework collapses (1918),
+  exit is structural, not ideological.
+• Contrast with Poland (external case) confirmed: absence of codified imperial
+  position produces immediate catastrophe (partition, annihilation) rather than
+  deferred catastrophe (exit). Structural position determines form and timing.
+Status: FROZEN → confirms RLL–GERMANIA–0007 with temporal refinement
+
+SYNTHESIS 0011 (MEM–GERMANIA–BOHEMIA ↔ MEM–GERMANIA–WAR–THIRTY–YEARS ↔ TRI-FRAME)
+Outcome:
+• Bohemia functions as Germania's IDEOLOGICAL FAULT LINE: the point where
+  internal constraint converts into system-destroying rupture when subjected
+  to confessional or ideological pressure. The pattern recurs across centuries
+  because the structural condition persists—internal adjacency without consent,
+  administrative order without loyalty, ambient constraint without codification.
+• MERCOURIS LAYER: Bohemia represents "internal adjacency"—culturally distinct,
+  administratively integrated, politically volatile. Unlike Hungary (codified
+  constraint → deferred exit), Bohemia's ambient constraint produces rupture
+  under ideological pressure. The Hussite Wars (1419–1434) and Thirty Years'
+  War (1618–1648) instantiate the same pattern at different scales.
+• MEARSHEIMER LAYER: Internal fracture negates interior-lines advantage.
+  Bohemian instability converts the Empire's central position from asset to
+  liability. Five Hussite crusades consumed imperial force capacity; the
+  Thirty Years' War rendered Germania "a strategic medium, not a strategic
+  subject" (Fried). Force-to-space calculations depend on secure interior;
+  Bohemia renders the interior contested.
+• BARNES LAYER: System-destroying rupture creates extraction opportunities
+  for positioned actors. France enters 1635 after seventeen years of German
+  bleeding; gains Alsace and Rhine position. Sweden gains Baltic hegemony.
+  German princes gain sovereignty guarantees. Liability falls on the immobile:
+  peasantry absorbs demographic catastrophe (one-third population loss);
+  elites and external powers collect territorial and political gains.
+  Westphalia codifies extraction as "sovereignty" and "tolerance."
+• RLL–0007 requires extension: internal constraint civilizations may produce
+  (a) deferred exit [Hungary/codified], (b) violent termination [Bohemia/1945],
+  or (c) SYSTEM-DESTROYING RUPTURE [Bohemia/1618] when ideological fracture
+  converts constraint into civil war before exit or termination can occur.
+• EXTRACTION COROLLARY: When rupture occurs, liability falls on the immobile;
+  gains accrue to those who enter late, fight on others' soil, survive with
+  position intact, or negotiate the settlement.
+Status: FROZEN → proposes RLL–GERMANIA–0010 (Ideological Fracture Law)
 
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
@@ -495,6 +906,109 @@ RLL–GERMANIA–0006 — Corridor Depth vs Dispersed Reach Constraint
   Affected File Classes: MEM, CORE, GEO
   Status: BOUND
 
+RLL–GERMANIA–0007 — Constraint Civilization Ceiling Law
+→ Where Germanic administrative grammar encounters a polity with codified
+  resistance rights and internal imperial position, closure is structurally
+  impossible; compromise produces deferred catastrophe through exit. Where
+  Germanic grammar encounters an adjacent polity without codified position,
+  restraint failure produces immediate catastrophe through partition or
+  annihilation. The form of catastrophe—exit versus destruction—depends on
+  structural position, not Germanic intent.
+  **Temporal Phasing (v2.7 refinement)**: Internal constraint civilizations
+  progress through phases: (1) Codification—resistance rights limit but do not
+  break framework; (2) Friction—absorption fails, periodic revolt demonstrates
+  ceiling; (3) Formalization—impasse institutionalized as governance (Ausgleich);
+  (4) Exit—framework collapse produces structural departure. Deferral period
+  depends on external pressure and crisis tolerance.
+  **Cross-frame derivation**: Mercouris (civilizational grammar collision
+  and legitimacy boundaries); Mearsheimer (internal security perimeter vs
+  external vulnerability); Barnes (liability distribution and extraction logic).
+  Evidence: MEM–GERMANIA–HUNGARY (1222 Golden Bull → 1867 Ausgleich → 1918 exit);
+  MEM–GERMANIA–AUSTRIA–HUNGARY (dual sovereignty as formalized impasse);
+  MEM–GERMANIA–POLAND (1772 partition → 1939 annihilation—contrast case)
+  Source: SYNTHESIS 0007 (ENTRY 0010); refined by SYNTHESIS 0010
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Structural impossibility / Failure mode determination
+  Activation Trigger: Eastern expansion, imperial boundary analysis, restraint assessment
+  Affected File Classes: MEM, CORE, WAR, GEO
+  Status: BOUND (REFINED v2.7)
+
+RLL–GERMANIA–0008 — Distributed Legitimacy Law
+→ Germanic legitimacy distributes across multiple specialized nodes rather than
+  concentrating in a single capital. Different cities perform different legitimacy
+  functions: election (Frankfurt), regalia storage (Nuremberg), administration
+  (Berlin), finance (Frankfurt/Rothschild), commerce (Hamburg), culture (Dresden/
+  Munich). Concentration of all legitimacy functions into a single capital
+  indicates regime transition or breakdown, not normal Germanic operation.
+  **Mercouris derivation**: Civilizational grammar analysis; multi-nodal authority
+  as structural characteristic distinguishing Germania from centralized states
+  (Francia, Britannia). The Emperor circulated among nodes rather than fixing
+  authority in one location.
+  Evidence: MEM–GERMANIA–NUREMBERG (regalia 1424–1796, Golden Bull proclamation);
+  MEM–GERMANIA–FRANKFURT (election site, coronation); MEM–GERMANIA–BERLIN
+  (constructed administrative capital); MEM–GERMANIA–HAMBURG (Hanseatic commerce);
+  MEM–GERMANIA–MUNICH (Wittelsbach cultural/religious); MEM–GERMANIA–DRESDEN
+  (Saxon treasury); MEM–GERMANIA–LEIPZIG (exchange/convergence)
+  Source: Urban MEM cluster cross-reference (Nuremberg–Frankfurt analysis)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Structural characteristic
+  Activation Trigger: Capital city analysis, legitimacy source analysis, centralization assessment
+  Affected File Classes: MEM, CORE, SCHOLAR
+  Status: BOUND
+
+RLL–GERMANIA–0009 — Geographic Concentration Law
+→ Germania's strategic stability requires concentration on Rhine-density terrain
+  (western quadrant) where force-to-space ratios are sustainable and industrial
+  replacement depth is immediately available. Eastern projection beyond the
+  Elbe-Oder line dilutes force ratios faster than institutional capacity can
+  compensate. Successful eastern operations require rapid decision before
+  attrition advantages shift to the defender. Extended occupation without
+  demographic absorption produces structural instability.
+  **Mearsheimer derivation**: Force concentration analysis; terrain-to-force
+  ratio calculations; industrial-strategic geography as constraint on operations.
+  Evidence: MEM–GERMANIA–GEO–RHINE (60%+ industrial capacity, 4 div/100km
+  sustainable); MEM–GERMANIA–GEO–ODER (7-8 div/100km required, not sustainable);
+  MEM–GERMANIA–GEO–VISTULA (outer administrative limit); Seven Years' War
+  (survived through allied collapse, not eastern conquest); 1914–1918 (eastern
+  success insufficient to offset western attrition); 1941–1945 (eastern
+  overextension, strategic catastrophe).
+  Source: SYNTHESIS 0009 (ENTRY 0022)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Strategic impossibility / Force sustainability threshold
+  Activation Trigger: Eastern expansion analysis, two-front assessment, force
+  allocation decisions
+  Affected File Classes: MEM, CORE, GEO, WAR
+  Status: BOUND
+
+RLL–GERMANIA–0010 — Ideological Fracture Law
+→ Where internal constraint civilizations are subjected to ideological pressure
+  (confessional, nationalist, or doctrinal), the constraint may convert into
+  system-destroying rupture before managed exit or termination can occur.
+  Rupture degrades imperial force concentration by converting interior lines
+  into contested territory, and creates extraction opportunities for positioned
+  actors who enter late, fight on others' soil, or negotiate the settlement.
+  Liability falls on the immobile (peasantry, urban population, productive base);
+  gains accrue to external powers and surviving elites.
+  **Tri-frame derivation**:
+  - Mercouris: Ideological fault line analysis; Bohemia as ambient constraint
+    without codification; rupture as structural outcome of ideological pressure
+  - Mearsheimer: Force-concentration degradation; interior lines negated;
+    five Hussite crusades + Thirty Years' War consumed imperial capacity
+  - Barnes: Extraction mechanism; Westphalia as liability settlement where
+    France, Sweden, and German princes collected gains while German population
+    absorbed demographic catastrophe
+  Evidence: MEM–GERMANIA–BOHEMIA (Hussite Wars 1419–1434, ideological fault line);
+  MEM–GERMANIA–WAR–THIRTY–YEARS (1618–1648, one-third population loss, Westphalian
+  settlement); contrast with MEM–GERMANIA–HUNGARY (codified constraint → exit,
+  not rupture)
+  Source: SYNTHESIS 0011 (ENTRY 0023, cross-reference with Thirty Years' War)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Failure mode determination / Extraction opportunity
+  Activation Trigger: Internal constraint + ideological pressure analysis;
+  assessment of rupture vs exit vs termination outcomes
+  Affected File Classes: MEM, CORE, WAR, GEO
+  Status: BOUND
+
 All listed RLLs are ACTIVE and BOUND.
 
 DOCTRINE CONVERSION NOTE:
@@ -560,15 +1074,63 @@ SDI–GER–008: Trauma Response
 • Russia: Trauma → Reconsolidation → New legitimacy formula
 • Divergence type: COLLAPSE PROCESSING
 
+GERMANIA ↔ HUNGARY (NEW · v2.3):
+─────────────────────────────────
+SDI–GER–009: Imperial Relationship Grammar
+• Germania: Seeks administrative absorption and uniformity
+• Hungary: Codifies resistance rights; demands autonomy as condition
+• Divergence type: AUTHORITY INTERFACE
+
+SDI–GER–010: Catastrophe Mode
+• Germania (imperial): Compromise when closure impossible
+• Hungary (constraint): Exit when crisis exceeds tolerance
+• Divergence type: FAILURE GRAMMAR
+
+GERMANIA ↔ POLAND (NEW · v2.3):
+───────────────────────────────
+SDI–GER–011: Structural Position
+• Germania: Views Poland as external, partitionable, without veto
+• Poland: Lacks codified imperial position; no structural protection
+• Divergence type: BOUNDARY STATUS
+
+SDI–GER–012: Restraint Failure Outcome
+• Germania: Partition (1772) when coalition-managed; annihilation (1939) when unilateral
+• Poland: Absorption or destruction; no exit option available
+• Divergence type: CATASTROPHE ASYMMETRY
+
+GERMANIA ↔ NETHERLANDS (NEW · v2.5):
+─────────────────────────────────────
+SDI–GER–013: Exit Conditions
+• Germania: Seeks to retain; cannot absorb maritime-commercial polities
+• Netherlands: Exit succeeds with maritime geography + external support
+• Divergence type: BOUNDARY PERMEABILITY
+
+SDI–GER–014: Modernity Path
+• Germania: Administrative-territorial consolidation (Prussian model)
+• Netherlands: Commercial-republican network (Amsterdam model)
+• Divergence type: DEVELOPMENT GRAMMAR
+
+GERMANIA INTERNAL (NEW · v2.5):
+───────────────────────────────
+SDI–GER–015: North-South Tension
+• Berlin/Prussia: Protestant, administrative, discipline-first
+• Munich/Bavaria: Catholic, cultural, particularist
+• Divergence type: INTERNAL PLURALITY
+
+SDI–GER–016: Constitutional vs Administrative Path
+• Frankfurt: Constitutional federation, commercial autonomy (1848 failure)
+• Berlin: Administrative-military consolidation (Bismarckian success)
+• Divergence type: PATH DEPENDENCY
+
 SDI Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
 VII.A SYNTHESIS COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-All ingested learning events up to ENTRY 0009 have been either:
+All ingested learning events up to ENTRY 0021 have been either:
 • Individually frozen into doctrine, or
 • Incorporated into a frozen synthesis without contradiction, or
-• Converted to bound RLLs per v2.0 upgrade
+• Converted to bound RLLs per v2.0+ upgrades
 
 No unresolved beliefs remain.
 No provisional syntheses are active.
@@ -603,6 +1165,39 @@ See Section II.D for Secondary Voice Invocation format.
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.6 changes (ADDITIVE · GEO CLUSTER INGESTION + RLL–0009):
+• ENTRY 0022 added (GEO cluster strategic ingestion)
+• SYNTHESIS 0009 added (Geographic Strategic Geometry)
+• RLL–GERMANIA–0009 bound (Geographic Concentration Law)
+• Entry count: 21 → 22
+• Synthesis count: 8 → 9
+• RLL count: 8 → 9
+• Mearsheimer strategic sections added to all 9 GEO files
+
+v2.5 changes (ADDITIVE · URBAN MEM CLUSTER INGESTION):
+• ENTRY 0012–0021 added (10 new MEMs ingested)
+• SYNTHESIS 0008 added (Urban Nodal Distribution)
+• SDI entries added: SDI–GER–013 through SDI–GER–016 (4 new entries)
+• Entry count: 11 → 21
+• Synthesis count: 7 → 8
+• SDI count: 12 → 16
+• All new entries confirm RLL–GERMANIA–0008
+
+v2.4 changes (ADDITIVE · DISTRIBUTED LEGITIMACY LAW):
+• RLL–GERMANIA–0008 bound (Distributed Legitimacy Law)
+• Evidence base: Urban MEM cluster (Nuremberg, Frankfurt, Berlin, Hamburg, Munich, Dresden, Leipzig)
+• RLL count: 7 → 8
+• Multi-nodal legitimacy structure formalized as binding constraint
+
+v2.3 changes (ADDITIVE · HUNGARY–POLAND CONSTRAINT BOUNDARY):
+• ENTRY 0010 added (Hungary–Poland constraint boundary analysis)
+• SYNTHESIS 0007 added (Internal vs External Catastrophe Mode)
+• RLL–GERMANIA–0007 bound (Constraint Civilization Ceiling Law)
+• SDI entries added: SDI–GER–009 through SDI–GER–012 (4 new entries)
+• RLL count: 6 → 7
+• SDI count: 8 → 12
+• Tri-frame synthesis applied (Mercouris/Mearsheimer/Barnes)
+
 v2.0 changes (MAJOR · TEMPLATE v2.5 COMPLIANCE):
 • Upgraded from v1.2 to v2.0 (major structural revision)
 • Phase transition: "LOCKED" → Phase II (Constraint Grammar)
@@ -624,18 +1219,23 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA v2.2 is declared:
+CIV–SCHOLAR–GERMANIA v2.6 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
 • TEMPLATE v2.5 COMPLIANT
-• RLL STRUCTURE IMPLEMENTED (6 RLLs)
+• RLL STRUCTURE IMPLEMENTED (10 RLLs, all BOUND)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
-• SDI EXPANDED (8 entries)
+• SDI EXPANDED (16 entries)
+• LEARNING ENTRIES EXPANDED (24 entries)
+• SYNTHESIS LOG EXPANDED (11 syntheses)
+• GEO CLUSTER ENHANCED WITH MEARSHEIMER STRATEGIC SECTIONS
+• TRI-FRAME SYNTHESIS METHODOLOGY DEMONSTRATED
+• FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
 
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
@@ -647,5 +1247,5 @@ XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.2 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANIA v2.6 (PHASE II · TEMPLATE v2.5 COMPLIANT)
 ────────────────────────────────────────────────────────────

@@ -86,6 +86,7 @@ ARC-T-MODERN:
 • Mary Fulbrook (b. 1951) — A Concise History of Germany
 • Volker R. Berghahn (b. 1938) — Modern Germany
 • Martyn Rady (b. 1955) — The Habsburgs: The Rise and Fall of a World Power; The Middle Kingdoms
+• Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire
 
 RULE: Only listed authors may be quoted without discovery flag.
 
@@ -141,5 +142,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v1.1
+END OF FILE — CIV–ARC–GERMANIA v1.2
 ────────────────────────────────────────────────────────────
