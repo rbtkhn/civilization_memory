@@ -1,10 +1,10 @@
-MEM–GERMANIA–GEO–BALTIC — v2.0
+MEM–GERMANIA–GEO–BALTIC–SEA — v2.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
 Version: 2.0
-Supersedes: MEM–GERMANIA–GEO–BALTIC v1.0
+Supersedes: MEM–GERMANIA–GEO–BALTIC–SEA v1.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (GEO–MEM RESTRUCTURE)
 Civilization: GERMANIA
 Subject: Baltic Sea System
@@ -345,5 +345,5 @@ Category D — Modern Sources: ✓ COMPLETE (Mahan, Kaplan)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–GEO–BALTIC — v2.0
+END OF FILE — MEM–GERMANIA–GEO–BALTIC–SEA — v2.0
 ────────────────────────────────────────────────────────────
