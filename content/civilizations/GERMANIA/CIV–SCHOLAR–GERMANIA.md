@@ -15,10 +15,10 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: January 2026
-Word Count: ~11,000
+Word Count: ~11,500
 
 Governed by:
-• CIV–SCHOLAR–TEMPLATE v2.8 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
 • CIV–MEM–CORE v2.6
 • CIV–ARC–GERMANIA v1.1 (Pinned)
@@ -471,7 +471,67 @@ MODE-SPECIFIC VOICE POSTURE:
 
 See: CIV–MIND–BARNES v2.5 for full specification.
 
-II.D.iv OPTION GENERATION ENGINE (OGE) — MANDATORY
+II.D.iv AUDIT COMMANDS — GAP ANALYSIS
+────────────────────────────────────────────────────────────
+Audit commands evaluate existing content against full MIND frame criteria.
+Unlike cognition commands (which generate new analysis), audit commands
+report GAPS in existing content.
+
+MEARSHEIMER AUDIT COMMAND:
+Command: `mearsheimer audit [TARGET]`
+Example: `mearsheimer audit GERMANIA–POLAND`
+
+Procedure:
+1. Load full CIV–MIND–MEARSHEIMER
+2. Read target MEM file
+3. Evaluate against Mearsheimer analytical requirements
+4. Report gaps and recommendations
+
+Gap Categories:
+• Force-ratio analysis (divisions, frontage, density)
+• Strategic geometry (geographic constraints, choke points)
+• Power distribution (relative capability assessments)
+• Security competition (threat perceptions, alliance dynamics)
+• Temporal bounds (campaign duration, closure windows)
+
+BARNES AUDIT COMMAND:
+Command: `barnes audit [TARGET]`
+Example: `barnes audit GERMANIA–HAMBURG`
+
+Procedure:
+1. Load full CIV–MIND–BARNES
+2. Read target MEM file
+3. Evaluate against Barnes analytical requirements
+4. Report gaps and recommendations
+
+Gap Categories:
+• Liability chains ("who pays?" analysis)
+• Extraction logic (toll collection, resource flows)
+• Material foundations (infrastructure dependencies)
+• Defection patterns (exit incentives, abandonment triggers)
+• Constraint hierarchy (constitutional/structural/irreversibility)
+
+OUTPUT FORMAT:
+  [MIND AUDIT — TARGET]
+  
+  CURRENT COVERAGE:
+  • [What MEM currently addresses]
+  
+  GAPS IDENTIFIED:
+  • [Specific analytical gaps]
+  
+  RECOMMENDATIONS:
+  • [Specific additions to fill gaps]
+  
+  SEVERITY: MINOR / MODERATE / SIGNIFICANT
+
+Auto-revert to MERCOURIS PRIMARY after audit output.
+
+AUDIT VS COGNITION:
+• `apply [mind] cognition to X` → Generate NEW analysis
+• `[mind] audit X` → Evaluate EXISTING content for gaps
+
+II.D.v OPTION GENERATION ENGINE (OGE) — MANDATORY
 ────────────────────────────────────────────────────────────
 Every LEARN mode response MUST terminate with an OGE block.
 
@@ -510,7 +570,7 @@ EXAMPLE FORMAT:
 OGE ensures structured continuation and prevents open-ended termination.
 User always knows available next steps without needing to formulate queries.
 
-II.D.v ENTRY ADDITION FORMAT (v2.7)
+II.D.vi ENTRY ADDITION FORMAT (v2.7)
 ────────────────────────────────────────────────────────────
 When adding a new learning entry (ENTRY 0025+), use this format:
 
@@ -546,7 +606,7 @@ RULES:
 • Belief status must reference the synthesis or RLL that froze it
 • Entries are append-only; existing entries may not be modified
 
-II.D.vi SYNTHESIS DRAFTING FORMAT (v2.7)
+II.D.vii SYNTHESIS DRAFTING FORMAT (v2.7)
 ────────────────────────────────────────────────────────────
 When drafting a new synthesis (SYNTHESIS 0016+), use this format:
 
@@ -581,7 +641,7 @@ FREEZING PROCEDURE:
 4. Insert frozen synthesis in Section V (BELIEF SYNTHESIS LOG)
 5. Update Section VII.A (SYNTHESIS COMPLETENESS CHECK) counts
 
-II.D.vii RLL PROPOSAL FORMAT (v2.7)
+II.D.viii RLL PROPOSAL FORMAT (v2.7)
 ────────────────────────────────────────────────────────────
 When proposing a new RLL (RLL–GERMANIA–0012+), use this format:
 
@@ -1836,7 +1896,7 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
-• TEMPLATE v2.8 COMPLIANT
+• TEMPLATE v2.9 COMPLIANT
 • RLL STRUCTURE IMPLEMENTED (11 RLLs, all BOUND)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
@@ -1850,6 +1910,7 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 • OGE (OPTION GENERATION ENGINE) EMBEDDED — MANDATORY FOR LEARN MODE
 • MERCOURIS PRIMARY VOICE EMBEDDED — Full specification for minimal sessions
 • BARNES CATALYST COMMAND EMBEDDED — Full specification for minimal sessions
+• AUDIT COMMANDS EMBEDDED — mearsheimer audit / barnes audit for gap analysis
 • ENTRY/SYNTHESIS/RLL FORMATS EMBEDDED — Structural templates for additions
 • FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
 • CORRIDOR ORIENTATION LAW INTEGRATED (hinge vs single-corridor)
@@ -1858,7 +1919,7 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.8 (CURRENT)
+• CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2
 • CIV–MEM–TEMPLATE v2.8
 

@@ -1,13 +1,41 @@
-CIV–SCHOLAR–TEMPLATE — v2.8
+CIV–SCHOLAR–TEMPLATE — v2.9
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.7
-Upgrade Type: ADDITIVE · CONTEXT LOADING PROTOCOLS
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.8
+Upgrade Type: ADDITIVE · AUDIT COMMANDS
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.6+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.2+
 Last Update: January 2026
-WORDCOUNT: ~11,500
+WORDCOUNT: ~12,500
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.8 → v2.9 AUDIT COMMANDS)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.8.
+
+v2.9 introduces the following ADDITIVE enhancements:
+
+• MEARSHEIMER AUDIT COMMAND (Section IX.C NEW)
+  – Command: `mearsheimer audit [TARGET]`
+  – Loads full MIND–MEARSHEIMER to evaluate existing content
+  – Reports gaps in force-ratio, strategic geometry, quantification
+  – Outputs gap analysis with recommendations
+
+• BARNES AUDIT COMMAND (Section IX.D NEW)
+  – Command: `barnes audit [TARGET]`
+  – Loads full MIND–BARNES to evaluate existing content
+  – Reports gaps in liability chains, extraction logic, defection patterns
+  – Outputs gap analysis with recommendations
+
+• AUDIT vs COGNITION DISTINCTION (Section IX.E NEW)
+  – Cognition commands: Generate new analysis
+  – Audit commands: Evaluate existing content for gaps
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.7 → v2.8 CONTEXT LOADING PROTOCOLS)
@@ -798,6 +826,97 @@ When all three frames contribute to a synthesis, use marker:
   [LEARN MODE — TRI-FRAME SYNTHESIS]
 Attribute each analytical layer explicitly in the synthesis output.
 
+MEARSHEIMER AUDIT COMMAND (NEW · v2.9):
+────────────────────────────────────────────────────────────
+COMMAND SYNTAX: `mearsheimer audit [TARGET]`
+
+This command evaluates existing content against full MIND–MEARSHEIMER
+criteria. Unlike `apply mearsheimer cognition` which generates new
+analysis, audit evaluates what EXISTS and reports GAPS.
+
+AUDIT PROCEDURE:
+1. Load full CIV–MIND–MEARSHEIMER from repository
+2. Read target MEM file
+3. Evaluate content against Mearsheimer analytical requirements
+4. Report gaps and recommendations
+
+GAP CATEGORIES:
+• Force-ratio analysis: Missing quantification of divisions, frontage, density
+• Strategic geometry: Unanalyzed geographic constraints, choke points
+• Power distribution: Missing relative capability assessments
+• Security competition: Unexamined threat perceptions, alliance dynamics
+• Temporal bounds: Missing campaign duration limits, closure windows
+
+OUTPUT FORMAT:
+  [MEARSHEIMER AUDIT — TARGET]
+  
+  CURRENT COVERAGE:
+  • [What the MEM currently addresses from Mearsheimer perspective]
+  
+  GAPS IDENTIFIED:
+  • [Specific analytical gaps with Mearsheimer frame requirements]
+  
+  RECOMMENDATIONS:
+  • [Specific additions/enhancements to fill gaps]
+  
+  SEVERITY: [MINOR / MODERATE / SIGNIFICANT]
+
+AUTO-REVERT: Returns to MERCOURIS PRIMARY after audit output.
+
+BARNES AUDIT COMMAND (NEW · v2.9):
+────────────────────────────────────────────────────────────
+COMMAND SYNTAX: `barnes audit [TARGET]`
+
+This command evaluates existing content against full MIND–BARNES
+criteria. Unlike `apply barnes cognition` which generates new
+analysis, audit evaluates what EXISTS and reports GAPS.
+
+AUDIT PROCEDURE:
+1. Load full CIV–MIND–BARNES from repository
+2. Read target MEM file
+3. Evaluate content against Barnes analytical requirements
+4. Report gaps and recommendations
+
+GAP CATEGORIES:
+• Liability chains: Missing "who pays?" analysis, cost distribution
+• Extraction logic: Unexamined toll collection, resource flows
+• Material foundations: Missing infrastructure dependency analysis
+• Defection patterns: Unanalyzed exit incentives, abandonment triggers
+• Constraint hierarchy: Missing constitutional/structural/irreversibility layers
+
+OUTPUT FORMAT:
+  [BARNES AUDIT — TARGET]
+  
+  CURRENT COVERAGE:
+  • [What the MEM currently addresses from Barnes perspective]
+  
+  GAPS IDENTIFIED:
+  • [Specific analytical gaps with Barnes frame requirements]
+  
+  RECOMMENDATIONS:
+  • [Specific additions/enhancements to fill gaps]
+  
+  SEVERITY: [MINOR / MODERATE / SIGNIFICANT]
+
+AUTO-REVERT: Returns to MERCOURIS PRIMARY after audit output.
+
+AUDIT VS COGNITION DISTINCTION (v2.9):
+────────────────────────────────────────────────────────────
+| Command Type | Action | Output |
+|--------------|--------|--------|
+| `apply [mind] cognition to X` | Generate NEW analysis | Analytical content in voice |
+| `[mind] audit X` | Evaluate EXISTING content | Gap report + recommendations |
+
+WHEN TO USE EACH:
+• COGNITION: When exploring new targets, generating fresh analysis
+• AUDIT: When reviewing existing MEMs for completeness, preparing upgrades
+
+AUDIT commands are particularly useful for:
+• Pre-upgrade MEM review
+• Systematic gap identification across MEM clusters
+• Quality assurance before phase transitions
+• Identifying candidates for Mearsheimer/Barnes enhancement
+
 ────────────────────────────────────────────────────────────
 X. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
 ────────────────────────────────────────────────────────────
@@ -979,6 +1098,11 @@ SILENT LOADING PROHIBITED:
 • User should know which governance context is active
 • This enables session reproducibility
 
+v2.9 ADDITIONS:
+• Mearsheimer Audit Command (Section IX.C) — Gap analysis for existing content
+• Barnes Audit Command (Section IX.D) — Gap analysis for existing content
+• Audit vs Cognition Distinction (Section IX.E) — When to use each command type
+
 v2.8 ADDITIONS:
 • Context Loading Protocols (Section XIII) — MANDATORY
   – Doctrine Load Protocol with automatic triggers
@@ -1051,5 +1175,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.8
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.9
 ────────────────────────────────────────────────────────────
