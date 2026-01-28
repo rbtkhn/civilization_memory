@@ -5,9 +5,9 @@ Constraint Grammar Phase · Germania Civilization
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.6
-Supersedes: CIV–SCHOLAR–GERMANIA v2.5
-Upgrade Type: ADDITIVE · CONSTRAINT CIVILIZATION ANALYSIS + TRI-FRAME SYNTHESIS
+Version: 2.7
+Supersedes: CIV–SCHOLAR–GERMANIA v2.6
+Upgrade Type: ADDITIVE · RLL–0005/0009.a CLOSURE-CONCENTRATION COUPLING
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
@@ -15,13 +15,32 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: January 2026
-Word Count: ~7,800
+Word Count: ~9,500
 
 Governed by:
-• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v2.1 (CURRENT)
-• CIV–MEM–CORE v2.5
+• CIV–SCHOLAR–TEMPLATE v2.6 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
+• CIV–MEM–CORE v2.6
 • CIV–ARC–GERMANIA v1.1 (Pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.6 → v2.7) — RLL–0005/0009.a CLOSURE-CONCENTRATION COUPLING
+────────────────────────────────────────────────────────────
+This version formalizes the interaction constraint between RLL–GERMANIA–0005
+(Mandatory Closure Law) and proposed RLL–GERMANIA–0009.a (Rhine-Sector
+Degradation Prohibition) through Mearsheimer force-ratio stress-testing.
+
+v2.7 changes:
+• SYNTHESIS 0013 added (Closure-Concentration Coupling)
+• Mearsheimer quantification integrated (force-ratio arithmetic)
+• Tri-frame validation: Mercouris/Mearsheimer/Barnes
+• Synthesis count: 12 → 13
+
+The synthesis establishes that RLL–0005 and RLL–0009.a form a mutually
+constraining dyad: closure enables temporary Rhine-sector degradation;
+degradation prevents closure. Violation of either increases probability
+of violating the other. Historical validation: Bismarck (compliant),
+1914 Marne (single violation), 1941 Barbarossa (dual violation).
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5 → v2.6) — CONSTRAINT CIVILIZATION ANALYSIS + TRI-FRAME SYNTHESIS
@@ -867,13 +886,69 @@ Outcome:
   Non-integration → external partition (Warsaw).
 Status: FROZEN → proposes RLL–GERMANIA–0011 (Corridor Orientation Law)
 
+SYNTHESIS 0013 (RLL–0005 ↔ RLL–0009.a INTERACTION — CLOSURE-CONCENTRATION COUPLING)
+Outcome:
+• RLL–GERMANIA–0005 (Mandatory Closure Law) and proposed RLL–GERMANIA–0009.a
+  (Rhine-Sector Degradation Prohibition) constitute a mutually constraining
+  dyad. Violation of either constraint increases the probability of violating
+  the other; compliance with both enables the Germanic strategic posture to
+  function within its geographic-industrial envelope.
+• FORCE-RATIO ARITHMETIC (Mearsheimer Quantification):
+  - Defensive density requirements: Western theater (700km frontage) requires
+    4 div/100km baseline = ~28-40 divisions for secure posture. Eastern theater
+    (1,600-2,900km frontage) requires 6-8 div/100km = 100-230 divisions minimum
+    for defensive integrity.
+  - Replacement capacity ceiling: Full Rhine-Ruhr mobilization sustains
+    ~100,000 casualties/month replacement without degrading combat effectiveness.
+    Eastern Front offensive operations generate 150,000-200,000 casualties/month;
+    dual-front commitment generates 200,000-250,000 casualties/month. Deficit
+    compounds at 50,000-150,000/month net loss.
+  - Sequential vs. simultaneous commitment: Closure enables force reconcentration
+    between campaigns, keeping replacement mathematics within sustainable envelope.
+    Open-ended commitment forces permanent force distribution beyond replacement
+    capacity, guaranteeing structural degradation.
+• MECHANISM: Open-ended eastern commitment → force levels exceed replacement
+  capacity → Rhine-sector reserves drawn down to sustain east → Rhine-sector
+  degradation prevents decisive action that could enable closure → closure
+  becomes impossible → degradation continues until collapse. The constraint
+  violation is self-reinforcing; once entered, the system cannot exit without
+  external intervention or total defeat.
+• VALIDATION CASES:
+  - Bismarck 1866/1870: RLL–0005 COMPLIANT, RLL–0009.a COMPLIANT → Strategic
+    success; force reconcentration enabled after each campaign.
+  - 1914 Marne: RLL–0005 COMPLIANT (intent), RLL–0009.a VIOLATED (Moltke corps
+    transfer) → Partial failure; Schlieffen margin consumed.
+  - 1941 Barbarossa: RLL–0005 VIOLATED (no closure mechanism), RLL–0009.a
+    VIOLATED (permanent eastern commitment) → Catastrophic; arithmetic deficit
+    guaranteed defeat at ~1.2 million/year net loss beyond replacement capacity.
+• TRI-FRAME ATTRIBUTION:
+  - Mercouris lens: The pattern represents civilizational grammar—Germany's
+    repeated failure to internalize sequential campaign discipline reflects
+    structural incapacity to accept geographic limitation.
+  - Mearsheimer lens: The numbers are dispositive. At 100,000/month replacement
+    ceiling versus 200,000+/month dual-front casualty rate, no operational
+    brilliance compensates for losing 1.2 million soldiers annually beyond
+    replacement capacity.
+  - Barnes lens: Liability distribution shifted at specific decision points.
+    Moltke's corps transfer was discrete error with reversible consequences.
+    Hitler's Barbarossa was structural commitment eliminating all exit options.
+    The latter was more culpable because the arithmetic was known and the
+    commitment was made regardless.
+Status: FROZEN → proposes RLL–GERMANIA–0009.a (Rhine-Sector Degradation Prohibition)
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
 The following RLLs are converted from frozen doctrines and are now
 binding constraints per CIV–SCHOLAR–TEMPLATE v2.5.
 
-GENERAL CIVILIZATIONAL RLLs:
+RLL Domain Organization per TEMPLATE v2.5 Section III (11 RLLs = RECOMMENDED):
+• GENERAL: Core civilizational patterns (RLL–0001, 0004, 0005, 0007, 0008)
+• WAR: Conflict-specific constraints (RLL–0002, 0003, 0010)
+• GEO: Geographic constraints (RLL–0006, 0009, 0011)
+
+────────────────────────────
+DOMAIN: GENERAL
 ────────────────────────────
 RLL–GERMANIA–0001 — Disciplined Restraint Law
 → Germanic legitimacy derives from disciplined restraint and administrative
@@ -1214,10 +1289,16 @@ SDI Status: ACTIVE
 ────────────────────────────────────────────────────────────
 VII.A SYNTHESIS COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-All ingested learning events up to ENTRY 0021 have been either:
+All ingested learning events up to ENTRY 0024 have been either:
 • Individually frozen into doctrine, or
 • Incorporated into a frozen synthesis without contradiction, or
 • Converted to bound RLLs per v2.0+ upgrades
+
+Current counts:
+• Learning entries: 24 (ENTRY 0001–0024)
+• Frozen syntheses: 13 (SYNTHESIS 0001–0013)
+• Bound RLLs: 11 (RLL–GERMANIA–0001–0011)
+• Proposed RLLs pending binding: 1 (RLL–GERMANIA–0009.a)
 
 No unresolved beliefs remain.
 No provisional syntheses are active.
@@ -1252,6 +1333,14 @@ See Section II.D for Secondary Voice Invocation format.
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.7 changes (ADDITIVE · CLOSURE-CONCENTRATION COUPLING):
+• SYNTHESIS 0013 added (RLL–0005/0009.a Closure-Concentration Coupling)
+• Mearsheimer force-ratio arithmetic integrated (quantified thresholds)
+• Tri-frame validation: Mercouris/Mearsheimer/Barnes
+• Synthesis count: 12 → 13
+• Proposed RLL–GERMANIA–0009.a (Rhine-Sector Degradation Prohibition)
+• Validation cases documented: Bismarck 1866/1870, 1914 Marne, 1941 Barbarossa
+
 v2.6 changes (ADDITIVE · GEO CLUSTER INGESTION + RLL–0009):
 • ENTRY 0022 added (GEO cluster strategic ingestion)
 • SYNTHESIS 0009 added (Geographic Strategic Geometry)
@@ -1312,15 +1401,16 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
-• TEMPLATE v2.5 COMPLIANT
+• TEMPLATE v2.6 COMPLIANT
 • RLL STRUCTURE IMPLEMENTED (11 RLLs, all BOUND)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
 • SDI EXPANDED (16 entries)
 • LEARNING ENTRIES EXPANDED (24 entries)
-• SYNTHESIS LOG EXPANDED (12 syntheses)
+• SYNTHESIS LOG EXPANDED (13 syntheses)
 • GEO CLUSTER ENHANCED WITH MEARSHEIMER STRATEGIC SECTIONS
+• CLOSURE-CONCENTRATION COUPLING FORMALIZED (RLL–0005/0009.a interaction)
 • TRI-FRAME SYNTHESIS METHODOLOGY DEMONSTRATED
 • FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
 • CORRIDOR ORIENTATION LAW INTEGRATED (hinge vs single-corridor)
@@ -1329,8 +1419,8 @@ CIV–SCHOLAR–GERMANIA v2.7 is declared:
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v2.1
+• CIV–SCHOLAR–TEMPLATE v2.6 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v2.2
 • CIV–MEM–TEMPLATE v2.8
 
 For governance, consult canonical templates only.

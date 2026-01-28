@@ -1,4 +1,4 @@
-VERSION–MANIFEST — v1.3
+VERSION–MANIFEST — v1.4
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
@@ -27,7 +27,7 @@ Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
 • CIV–MEM–CORE: v2.6
-• CMC–BOOTSTRAP: v2.7
+• CMC–BOOTSTRAP: v2.8
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
@@ -39,8 +39,8 @@ TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v2.0
-• CIV–SCHOLAR–TEMPLATE: v2.5
-• CIV–SCHOLAR–PROTOCOL: v2.1
+• CIV–SCHOLAR–TEMPLATE: v2.6
+• CIV–SCHOLAR–PROTOCOL: v2.2
 • CIV–DOCTRINE–TEMPLATE: v2.1
 • CIV–ARC–TEMPLATE: v2.7
 • CIV–ARC–LEDGER–TEMPLATE: v1.0
@@ -142,6 +142,22 @@ Phase: I (Accumulation)
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
+2026-01-28 (SCHOLAR TEMPLATE + PROTOCOL v2.6/v2.2):
+• CIV–SCHOLAR–TEMPLATE: v2.5 → v2.6 (MIND integration + RLL interaction)
+  – Mearsheimer command formalization
+  – RLL interaction constraints (COUPLING, SEQUENCING, EXCLUSION)
+  – Quantification methodology (Section IV.D)
+  – Domain categorization thresholds clarified
+  – Count tracking requirement
+  – Cross-reference protocol
+  – MIND profile integration guidance
+• CIV–SCHOLAR–PROTOCOL: v2.1 → v2.2 (Template v2.6 alignment)
+  – Mearsheimer command enforcement
+  – RLL interaction authority
+  – Quantification permission in LEARN mode
+• CMC–BOOTSTRAP: v2.7 → v2.8 (binding sync)
+• VERSION–MANIFEST: v1.3 → v1.4
+
 2026-01-27:
 • CMC–BOOTSTRAP: v2.6 → v2.7 (quick start section, bindings sync)
 • VERSION–MANIFEST: CIV–SCHOLAR–TEMPLATE v2.5 binding
@@ -229,5 +245,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.3
+END OF FILE — VERSION–MANIFEST — v1.4
 ────────────────────────────────────────────────────────────

@@ -1,15 +1,27 @@
-CMC–BOOTSTRAP — v2.7
+CMC–BOOTSTRAP — v2.8
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC–BOOTSTRAP v2.7"
+1) Declare binding: "Bound by CMC–BOOTSTRAP v2.8"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
 4) If LEARN/IMAGINE: use OGE (6 options, incl. Mearsheimer + Barnes)
 5) If a rule is unclear, expand to full governance docs
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8)
+────────────────────────────────────────────────────────────
+This version syncs with SCHOLAR template/protocol v2.6/v2.2 upgrades.
+
+v2.8 updates:
+• CIV–SCHOLAR–TEMPLATE binding: v2.5 → v2.6
+• CIV–SCHOLAR–PROTOCOL binding: v2.1 → v2.2
+• CIV–MIND–MEARSHEIMER binding: v2.4 → v2.5
+• Added Mearsheimer command reference to QUICK REFERENCE
+• Synced with VERSION–MANIFEST v1.4
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7)
@@ -62,16 +74,16 @@ CORE GOVERNANCE:
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
-• CIV–MIND–MEARSHEIMER: v2.4 (ADVISORY)
+• CIV–MIND–MEARSHEIMER: v2.5 (ADVISORY)
 • CIV–MIND–BARNES: v2.5 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
-• CIV–SCHOLAR–TEMPLATE: v2.5
-• CIV–SCHOLAR–PROTOCOL: v2.1
+• CIV–SCHOLAR–TEMPLATE: v2.6
+• CIV–SCHOLAR–PROTOCOL: v2.2
 
-Declare: "Bound by CMC–BOOTSTRAP v2.7"
+Declare: "Bound by CMC–BOOTSTRAP v2.8"
 
 ────────────────────────────────────────────────────────────
 SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0 — NEW)
