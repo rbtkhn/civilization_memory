@@ -1,13 +1,13 @@
-CIV–SCHOLAR–GERMANIA — v2.7
+CIV–SCHOLAR–GERMANIA — v2.8
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.7
-Supersedes: CIV–SCHOLAR–GERMANIA v2.6
-Upgrade Type: ADDITIVE · RLL–0005/0009.a CLOSURE-CONCENTRATION COUPLING
+Version: 2.8
+Supersedes: CIV–SCHOLAR–GERMANIA v2.7
+Upgrade Type: ADDITIVE · HANSEATIC CITY-STATE SURVIVAL SYNTHESIS + FERGUSON INGESTION
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
@@ -15,13 +15,35 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
 Last Update: January 2026
-Word Count: ~11,500
+Word Count: ~13,500
 
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
 • CIV–MEM–CORE v2.6
 • CIV–ARC–GERMANIA v1.1 (Pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.7 → v2.8) — HANSEATIC CITY-STATE SURVIVAL SYNTHESIS
+────────────────────────────────────────────────────────────
+This version adds Ferguson source ingestion and Hanseatic city-state
+comparative analysis following Barnes/Mearsheimer audits on Hamburg,
+Lübeck, and Bremen MEMs.
+
+v2.8 changes:
+• ENTRY 0025 added (Ferguson *Paper and Iron* source ingestion)
+• ENTRY 0026 added (Hanseatic city-state survival comparative)
+• SYNTHESIS 0016 added (City-State Survival — Hamburg/Lübeck/Bremen tri-frame)
+• Entry count: 24 → 26
+• Synthesis count: 15 → 16
+• Proposed RLL–GERMANIA–0012 (City-State Survival Law)
+
+The synthesis formalizes the structural conditions for city-state survival:
+irreplaceable function OR great-power patronage. Cities possessing neither
+(Lübeck 1937) are absorbed regardless of historical precedent. Ferguson's
+"politics by businessmen" thesis extends to city-state analysis: specific
+families made decisions that shaped trajectories; liability chains trace
+to boardrooms.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6 → v2.7) — RLL–0005/0009.a CLOSURE-CONCENTRATION COUPLING
@@ -1028,6 +1050,52 @@ Primary Beliefs Extracted:
   deferred catastrophe rather than immediate annihilation.
 Belief Status: FROZEN (→ SYNTHESIS 0010; confirms RLL–0007 temporal refinement)
 
+ENTRY 0025
+Source: Niall Ferguson, *Paper and Iron: Hamburg Business and German Politics
+  in the Era of Inflation, 1897–1927* (1995) — via MEM–GERMANIA–HAMBURG v2.1
+Ingest Type: Scholarly Source / Liability Chain Analysis
+Primary Beliefs Extracted:
+• Hamburg's commercial elite shaped German national politics through
+  identifiable actors: HAPAG directors, Hamburg bankers, Cuno's chancellorship.
+• "Politics by businessmen" traces liability chains from commercial decisions
+  to civilizational consequences: Cuno's passive resistance → hyperinflation
+  → Weimar collapse → Third Reich.
+• The inflation was redistributive mechanism, not natural disaster: creditors
+  (established merchant families) lost; debtors (industrialists with fixed-rate
+  loans) gained. Liability fell on identifiable actors who made identifiable
+  decisions.
+• Alternative stabilization was possible as early as 1920; specific individuals
+  chose policies that destroyed the currency. The liability is personal, not
+  institutional.
+• Ferguson's method — tracing policy consequences to boardroom decisions —
+  exemplifies Barnes-layer analysis: who specifically decided, who specifically
+  paid, who specifically profited.
+Belief Status: FROZEN (→ SYNTHESIS 0016; supports tri-frame city-state analysis)
+
+ENTRY 0026
+Source: MEM–GERMANIA–HAMBURG v2.1; MEM–GERMANIA–LUBECK v2.1; MEM–GERMANIA–BREMEN v2.1
+Ingest Type: Urban Cluster / City-State Survival Comparative
+Primary Beliefs Extracted:
+• Three Hanseatic city-states entered the 20th century with equivalent
+  constitutional status. By 1945, one (Lübeck) lost city-state status
+  permanently; two (Hamburg, Bremen) retained it.
+• The divergence follows structural logic, not contingency: Hamburg had
+  irreplaceable function (Elbe chokepoint); Bremen had great-power patron
+  (United States); Lübeck had neither (bypass function eliminated by Kiel
+  Canal, no external patron, commercial elite had defected to Hamburg).
+• Extraction orientation determines elite persistence: Hamburg's toll collection
+  and Bremen's emigration processing retained commercial families who profited
+  from city functions; Lübeck's Hansetag hosting and legal appeals subsidized
+  networks without extracting from them, producing elite defection when
+  subsidies became unsustainable.
+• Demographic defection precedes constitutional loss: Lübeck's merchant class
+  left for Hamburg when Baltic trade declined; by 1937 no interest group
+  remained to lobby for restoration.
+• Commercial confederations lose to state-backed empires: the Hanseatic model
+  (network coordination without state structure) was structurally obsolete
+  once Dutch Republic could project naval power alongside commerce.
+Belief Status: FROZEN (→ SYNTHESIS 0016)
+
 ────────────────────────────────────────────────────────────
 V. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -1435,6 +1503,61 @@ Outcome:
 Status: FROZEN → proposes RLL–GERMANIA–0006.a (Baltic Access Corollary) and
   RLL–GERMANIA–0006.b (North Sea Contingency Corollary)
 
+SYNTHESIS 0016 (HANSEATIC CITY-STATE SURVIVAL — HAMBURG ↔ LÜBECK ↔ BREMEN TRI-FRAME)
+Outcome:
+• City-state survival in the Germanic system requires EITHER irreplaceable
+  geographic function OR great-power patronage OR both. Cities possessing
+  neither are structurally vulnerable to absorption.
+• SURVIVAL CONDITIONS BY CITY:
+  - Hamburg: Irreplaceable function (Elbe chokepoint, Atlantic gateway);
+    scale prevented absorption; no single power could claim without coalition
+    response. SURVIVED.
+  - Bremen: Great-power patron (United States required independent North Sea
+    access 1945+); function persisted (Atlantic trade, emigration networks);
+    commercial elite remained to lobby. SURVIVED.
+  - Lübeck: Function eliminated (Kiel Canal 1895 bypassed land-bridge);
+    no external patron; commercial elite defected to Hamburg. ABSORBED 1937.
+• EXTRACTION ORIENTATION determines elite persistence:
+  - Extractive cities (Hamburg tolls, Bremen emigration fees) retain
+    commercial families who profit from continued city function.
+  - Subsidizing cities (Lübeck's Hansetag hosting, legal appellate services)
+    lose commercial families when subsidy costs exceed network benefits.
+  - Elite defection precedes constitutional loss by decades.
+• FERGUSON'S CONTRIBUTION (Barnes layer deepening): The "politics by
+  businessmen" thesis applies to city-state analysis. Specific families
+  (HAPAG directors, Lloyd shareholders, Roselius) made decisions that
+  shaped city-state trajectories. Liability chains trace to boardrooms.
+• QUANTIFIED THRESHOLDS (Mearsheimer Derivation):
+  - Population ratio: Hamburg 10:1 vs Lübeck by 1937; scale differential
+    correlates with survival
+  - Function irreplaceability: Elbe carries 60%+ of German Atlantic trade;
+    Weser carries American-oriented traffic; Trave carries... Baltic remnants
+  - Patron requirement: Bremen's American enclave served US strategic needs;
+    Lübeck had no equivalent external interest
+• VALIDATION CASES:
+  - Hamburg 1937: Function + scale → SURVIVED (no absorption attempted)
+  - Hamburg 1945: Function + no patron needed → SURVIVED (British zone but essential)
+  - Bremen 1937: Function → SURVIVED (Weser trade essential)
+  - Bremen 1945: Function + patron (USA) → SURVIVED (enclave status)
+  - Lübeck 1937: No function + no patron → ABSORBED (Greater Hamburg Act)
+  - Lübeck 1945: Still no function + no patron → NOT RESTORED
+• TRI-FRAME ATTRIBUTION:
+  - Mercouris lens: The Hanseatic urban system represents Germanic distributed
+    legitimacy (RLL–0008) in commercial form. City survival follows from
+    continued functional contribution to the distributed network.
+  - Mearsheimer lens: Power distribution determines survival. No single power
+    could absorb Hamburg without coalition response. United States required
+    Bremen. No power required Lübeck.
+  - Barnes lens: Liability chains trace elite behavior. Hamburg's HAPAG families
+    stayed because tolls paid. Bremen's Lloyd families stayed because emigration
+    paid. Lübeck's Castorp families left because Hansetag hosting cost more than
+    it returned. Demographic defection preceded constitutional loss.
+• RLL IMPLICATION: City-state survival is not constitutional entitlement but
+  structural function. When function expires and no patron substitutes,
+  absorption follows regardless of historical precedent. Constitutional form
+  lags commercial substance, sometimes by decades.
+Status: FROZEN → proposes RLL–GERMANIA–0012 (City-State Survival Law)
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
@@ -1794,10 +1917,10 @@ All ingested learning events up to ENTRY 0024 have been either:
 • Converted to bound RLLs per v2.0+ upgrades
 
 Current counts:
-• Learning entries: 24 (ENTRY 0001–0024)
-• Frozen syntheses: 15 (SYNTHESIS 0001–0015)
+• Learning entries: 26 (ENTRY 0001–0026)
+• Frozen syntheses: 16 (SYNTHESIS 0001–0016)
 • Bound RLLs: 11 (RLL–GERMANIA–0001–0011)
-• Proposed RLLs pending binding: 3 (RLL–GERMANIA–0009.a, 0006.a, 0006.b)
+• Proposed RLLs pending binding: 4 (RLL–GERMANIA–0009.a, 0006.a, 0006.b, 0012)
 
 No unresolved beliefs remain.
 No provisional syntheses are active.
