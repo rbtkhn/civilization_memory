@@ -531,6 +531,16 @@ AUDIT VS COGNITION:
 • `apply [mind] cognition to X` → Generate NEW analysis
 • `[mind] audit X` → Evaluate EXISTING content for gaps
 
+AUDIT SOURCE-GROUNDING PRINCIPLE:
+Audits MUST leverage the existing source base in the target MEM.
+• Reference scholars already cited in MEM bibliography
+• Show what existing sources provide that hasn't been used
+• Different MIND frames extract different value from same source:
+  - Mercouris: civilizational continuity patterns
+  - Mearsheimer: power distribution consequences
+  - Barnes: liability chains and "who pays?" logic
+• Recommend expanding sections using cited works, not acquiring new sources
+
 II.D.v OPTION GENERATION ENGINE (OGE) — MANDATORY
 ────────────────────────────────────────────────────────────
 Every LEARN mode response MUST terminate with an OGE block.

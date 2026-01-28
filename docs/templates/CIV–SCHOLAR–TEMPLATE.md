@@ -7,7 +7,7 @@ Upgrade Type: ADDITIVE · AUDIT COMMANDS
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.6+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.2+
 Last Update: January 2026
-WORDCOUNT: ~12,500
+WORDCOUNT: ~13,000
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.8 → v2.9 AUDIT COMMANDS)
@@ -917,6 +917,39 @@ AUDIT commands are particularly useful for:
 • Quality assurance before phase transitions
 • Identifying candidates for Mearsheimer/Barnes enhancement
 
+AUDIT SOURCE-GROUNDING PRINCIPLE (v2.9):
+────────────────────────────────────────────────────────────
+Audits MUST leverage the existing source base in the target MEM.
+
+CORRECT APPROACH:
+• Reference scholars already cited in MEM bibliography
+• Identify how existing sources support deeper frame extraction
+• Show what the MEM's own sources provide that hasn't been used
+• Recommend expanding sections using cited works
+
+INCORRECT APPROACH:
+• Invent sources not in the MEM
+• Recommend acquiring new sources as primary gap-fill
+• Ignore the MEM's existing scholarly foundation
+
+PRINCIPLE:
+The same source yields different value through different MIND frames:
+• MERCOURIS reads source for civilizational continuity patterns
+• MEARSHEIMER reads source for power distribution consequences
+• BARNES reads source for liability chains and "who pays?" logic
+
+The audit identifies which frame's extraction from existing sources
+is underdeveloped — not which new sources to acquire.
+
+EXAMPLE:
+If MEM cites Ferguson's *Paper and Iron*, the Barnes audit should note:
+"Ferguson's liability analysis is present but truncated. The MEM uses
+Ferguson for commercial context but not for the 'who pays?' dimension
+his work actually provides. Expand Section VIII using Ferguson's full
+argument about Hamburg businessmen and political consequences."
+
+This grounds recommendations in the ARC system already present in the MEM.
+
 ────────────────────────────────────────────────────────────
 X. EPHEMERAL OBSERVATION LAYER (NEW · v2.1)
 ────────────────────────────────────────────────────────────
@@ -1102,6 +1135,7 @@ v2.9 ADDITIONS:
 • Mearsheimer Audit Command (Section IX.C) — Gap analysis for existing content
 • Barnes Audit Command (Section IX.D) — Gap analysis for existing content
 • Audit vs Cognition Distinction (Section IX.E) — When to use each command type
+• Audit Source-Grounding Principle — Leverage existing MEM sources, not new ones
 
 v2.8 ADDITIONS:
 • Context Loading Protocols (Section XIII) — MANDATORY
