@@ -222,7 +222,7 @@ Internal (GERMANIA):
 • MEM–GERMANIA–GEO–RHINE–RIVER — river system connection
 • MEM–GERMANIA–GEO–NORTH–SEA — maritime access
 • MEM–GERMANIA–HAMBURG — competing German port
-• MEM–GERMANIA–GEO–ATLANTIC — outer ocean access via North Sea
+• MEM–GERMANIA–GEO–ATLANTIC–OCEAN — outer ocean access via North Sea
 
 Cross-Civilizational:
 • MEM–ANGLIA–BLOCKADE — North Sea chokepoint context

@@ -1,10 +1,10 @@
-MEM–GERMANIA–GEO–ATLANTIC — v2.0
+MEM–GERMANIA–GEO–ATLANTIC–OCEAN — v2.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
 Version: 2.0
-Supersedes: MEM–GERMANIA–GEO–ATLANTIC v1.0
+Supersedes: MEM–GERMANIA–GEO–ATLANTIC–OCEAN v1.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (GEO–MEM RESTRUCTURE)
 Civilization: GERMANIA
 Subject: Atlantic Interface (North Sea & Atlantic Access)
@@ -347,5 +347,5 @@ Category D — Modern Sources: ✓ COMPLETE (Tirpitz, Churchill, Taylor)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–GEO–ATLANTIC — v2.0
+END OF FILE — MEM–GERMANIA–GEO–ATLANTIC–OCEAN — v2.0
 ────────────────────────────────────────────────────────────

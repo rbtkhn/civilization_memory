@@ -279,7 +279,7 @@ GERMANIA (Same-Civilization GEO):
 • MEM–GERMANIA–GEO–RHINE–RIVER (contrast: consolidation spine)
 • MEM–GERMANIA–GEO–ELBE–RIVER (connection: hinterland access)
 • MEM–GERMANIA–GEO–ODER–RIVER (connection: eastern outlet)
-• MEM–GERMANIA–GEO–ATLANTIC (parallel: maritime exposure)
+• MEM–GERMANIA–GEO–ATLANTIC–OCEAN (parallel: maritime exposure)
 
 GERMANIA (Subject MEMs):
 • MEM–GERMANIA–PRUSSIA

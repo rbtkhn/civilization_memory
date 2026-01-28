@@ -1077,7 +1077,7 @@ RLL–GERMANIA–0006 — Corridor Depth vs Dispersed Reach Constraint
   **Cross-frame derivation**: Mercouris (authority–liability congruence),
   Mearsheimer (concentration vs dispersion).
   Evidence: MEM–GERMANIA–GEO–RHINE; MEM–GERMANIA–GEO–DANUBE;
-  MEM–GERMANIA–GEO–BALTIC–SEA; MEM–GERMANIA–GEO–ATLANTIC;
+  MEM–GERMANIA–GEO–BALTIC–SEA; MEM–GERMANIA–GEO–ATLANTIC–OCEAN;
   MEM–GERMANIA–GEO–ALPS (limit structure: reinforces depth retention by
   penalizing southward projection and corridor dilution)
   Scope: Civilization-specific (GERMANIA)
