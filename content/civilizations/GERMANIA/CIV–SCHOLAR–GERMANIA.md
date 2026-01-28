@@ -1955,6 +1955,16 @@ See Section II.D for Secondary Voice Invocation format.
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.8 changes (ADDITIVE · HANSEATIC CITY-STATE SURVIVAL + FERGUSON INGESTION):
+• ENTRY 0025 added (Ferguson *Paper and Iron* source ingestion)
+• ENTRY 0026 added (Hanseatic city-state survival comparative)
+• SYNTHESIS 0016 added (City-State Survival Law derivation)
+• Entry count: 24 → 26
+• Synthesis count: 15 → 16
+• Proposed RLL–GERMANIA–0012 (City-State Survival Law)
+• Hamburg/Lübeck/Bremen MEMs upgraded to v2.1 with audit integration
+• Ferguson "politics by businessmen" thesis integrated
+
 v2.7 changes (ADDITIVE · CLOSURE-CONCENTRATION COUPLING + RLL-0010 VALIDATION + MARITIME HIERARCHY):
 • SYNTHESIS 0013 added (RLL–0005/0009.a Closure-Concentration Coupling)
 • SYNTHESIS 0014 added (RLL–0010 Ideological Fracture Quantification)
@@ -2023,20 +2033,20 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA v2.7 is declared:
+CIV–SCHOLAR–GERMANIA v2.8 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
 • TEMPLATE v2.9 COMPLIANT
-• RLL STRUCTURE IMPLEMENTED (11 RLLs, all BOUND)
+• RLL STRUCTURE IMPLEMENTED (11 RLLs BOUND, 4 PROPOSED)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
 • SDI EXPANDED (16 entries)
-• LEARNING ENTRIES EXPANDED (24 entries)
-• SYNTHESIS LOG EXPANDED (14 syntheses)
+• LEARNING ENTRIES EXPANDED (26 entries)
+• SYNTHESIS LOG EXPANDED (16 syntheses)
 • GEO CLUSTER ENHANCED WITH MEARSHEIMER STRATEGIC SECTIONS
 • CLOSURE-CONCENTRATION COUPLING FORMALIZED (RLL–0005/0009.a interaction)
 • TRI-FRAME SYNTHESIS METHODOLOGY DEMONSTRATED
@@ -2111,5 +2121,5 @@ territorial depth. Alliance exit produces encirclement; alliance
 entrapment produces overextension.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.7 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANIA v2.8 (PHASE II · TEMPLATE v2.9 COMPLIANT)
 ────────────────────────────────────────────────────────────
