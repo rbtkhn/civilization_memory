@@ -279,7 +279,7 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization GEO):
 • MEM–GERMANIA–GEO–RHINE–RIVER (contrast: consolidation spine)
-• MEM–GERMANIA–GEO–BALTIC (parallel: maritime exposure)
+• MEM–GERMANIA–GEO–BALTIC–SEA (parallel: maritime exposure)
 • MEM–GERMANIA–GEO–ELBE–RIVER (connection: hinterland access)
 
 GERMANIA (Subject MEMs):

@@ -244,7 +244,7 @@ Same-civilization (≥10):
 • MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — Precision with closure (contrast)
 • MEM–GERMANIA–SILESIA — Eastern territorial gain
 • MEM–GERMANIA–KONIGSBERG — Eastern projection point
-• MEM–GERMANIA–GEO–BALTIC — Northern interface
+• MEM–GERMANIA–GEO–BALTIC–SEA — Northern interface
 
 GEO MEMs (≥2):
 • MEM–GERMANIA–GEO–VISTULA–RIVER — Eastern corridor

@@ -264,7 +264,7 @@ Internal (GERMANIA):
 • MEM–GERMANIA–HAMBURG — Elbe-North Sea gateway
 • MEM–GERMANIA–WAR–TIRPITZ — naval program architect
 • MEM–GERMANIA–GEO–ATLANTIC — outer ocean connection
-• MEM–GERMANIA–GEO–BALTIC — Kiel Canal connection
+• MEM–GERMANIA–GEO–BALTIC–SEA — Kiel Canal connection
 • MEM–GERMANIA–GEO–ELBE–RIVER — river-sea interface
 • MEM–GERMANIA–GEO–RHINE–RIVER — Rotterdam extension
 

@@ -264,7 +264,7 @@ GERMANIA (Same-Civilization GEO):
 • MEM–GERMANIA–GEO–RHINE–RIVER (contrast: integration spine)
 • MEM–GERMANIA–GEO–ELBE–RIVER (contrast: internal hinge)
 • MEM–GERMANIA–GEO–VISTULA–RIVER (extension: eastern limit)
-• MEM–GERMANIA–GEO–BALTIC (connection: northern outlet)
+• MEM–GERMANIA–GEO–BALTIC–SEA (connection: northern outlet)
 
 GERMANIA (Subject MEMs):
 • MEM–GERMANIA–PRUSSIA

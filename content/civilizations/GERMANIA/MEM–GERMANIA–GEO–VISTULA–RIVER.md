@@ -237,7 +237,7 @@ X. MEM CONNECTIONS (MANDATORY)
 GERMANIA (Same-Civilization GEO):
 • MEM–GERMANIA–GEO–ODER–RIVER (contrast: pressure boundary)
 • MEM–GERMANIA–GEO–ELBE–RIVER (contrast: internal hinge)
-• MEM–GERMANIA–GEO–BALTIC (connection: northern outlet)
+• MEM–GERMANIA–GEO–BALTIC–SEA (connection: northern outlet)
 • MEM–GERMANIA–GEO–CARPATHIANS (connection: southeastern arc)
 
 GERMANIA (Subject MEMs):

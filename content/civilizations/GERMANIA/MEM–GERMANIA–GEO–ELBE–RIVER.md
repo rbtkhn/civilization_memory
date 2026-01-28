@@ -215,7 +215,7 @@ GERMANIA (Same-Civilization GEO):
 • MEM–GERMANIA–GEO–RHINE–RIVER (contrast: consolidation spine)
 • MEM–GERMANIA–GEO–ODER–RIVER (extension: pressure boundary)
 • MEM–GERMANIA–GEO–VISTULA–RIVER (extension: outer limit)
-• MEM–GERMANIA–GEO–BALTIC (connection: northern outlet)
+• MEM–GERMANIA–GEO–BALTIC–SEA (connection: northern outlet)
 
 GERMANIA (Subject MEMs):
 • MEM–GERMANIA–PRUSSIA

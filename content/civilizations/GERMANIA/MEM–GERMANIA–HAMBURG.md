@@ -271,7 +271,7 @@ Same-civilization (≥10):
 
 GEO MEMs (≥2):
 • MEM–GERMANIA–GEO–ELBE–RIVER — Primary artery
-• MEM–GERMANIA–GEO–BALTIC — Northern sea access
+• MEM–GERMANIA–GEO–BALTIC–SEA — Northern sea access
 
 ────────────────────────────────────────────────────────────
 XIV. PRIMARY SOURCES & REFERENCES
