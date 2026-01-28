@@ -1,4 +1,4 @@
-VERSION–MANIFEST — v1.5
+VERSION–MANIFEST — v1.6
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
@@ -39,7 +39,7 @@ TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.8
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v2.0
-• CIV–SCHOLAR–TEMPLATE: v2.7
+• CIV–SCHOLAR–TEMPLATE: v2.8
 • CIV–SCHOLAR–PROTOCOL: v2.2
 • CIV–DOCTRINE–TEMPLATE: v2.1
 • CIV–ARC–TEMPLATE: v2.7
@@ -141,6 +141,15 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-28 (SCHOLAR TEMPLATE v2.8 — CONTEXT LOADING PROTOCOLS):
+• CIV–SCHOLAR–TEMPLATE: v2.7 → v2.8 (context loading protocols)
+  – Section XIII: Context Loading Protocols (MANDATORY)
+  – Doctrine Load Protocol with automatic triggers
+  – ARC Load Protocol with automatic triggers
+  – Session startup file sets by operation type
+  – On-demand loading behavior specification
+• VERSION–MANIFEST: v1.5 → v1.6
 
 2026-01-28 (SCHOLAR TEMPLATE v2.7 — MINIMAL SESSION SELF-CONTAINMENT):
 • CIV–SCHOLAR–TEMPLATE: v2.6 → v2.7 (self-containment requirement)
@@ -252,5 +261,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.5
+END OF FILE — VERSION–MANIFEST — v1.6
 ────────────────────────────────────────────────────────────

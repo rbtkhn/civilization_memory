@@ -1,13 +1,36 @@
-CIV–SCHOLAR–TEMPLATE — v2.7
+CIV–SCHOLAR–TEMPLATE — v2.8
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.6
-Upgrade Type: ADDITIVE · MINIMAL SESSION SELF-CONTAINMENT
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.7
+Upgrade Type: ADDITIVE · CONTEXT LOADING PROTOCOLS
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
 Compatibility: CIV–MEM–CORE v2.6+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.2+
 Last Update: January 2026
-WORDCOUNT: ~10,500
+WORDCOUNT: ~11,500
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.7 → v2.8 CONTEXT LOADING PROTOCOLS)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.7.
+
+v2.8 introduces the following ADDITIVE enhancements:
+
+• CONTEXT LOADING PROTOCOLS (Section XIII NEW · MANDATORY)
+  – Doctrine Load Protocol: Automatic triggers for CIV–DOCTRINE loading
+  – ARC Load Protocol: Automatic triggers for CIV–ARC loading
+  – Minimal file sets defined by operation type
+  – Detection heuristics for doctrine-relevant content
+
+• SESSION STARTUP GUIDANCE (Section XIII.C NEW)
+  – LEARN mode minimal file set
+  – WRITE mode minimal file sets by tier
+  – Full governance file set specification
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.6 → v2.7 MINIMAL SESSION SELF-CONTAINMENT)
@@ -847,6 +870,122 @@ Count tracking enables:
 
 Counts SHOULD be updated with each additive upgrade.
 
+────────────────────────────────────────────────────────────
+XIII. CONTEXT LOADING PROTOCOLS (NEW · v2.8 · MANDATORY)
+────────────────────────────────────────────────────────────
+This section defines automatic loading triggers for governance files
+during SCHOLAR sessions. These protocols ensure correct context without
+requiring manual file specification for every session.
+
+XIII.A DOCTRINE LOAD PROTOCOL (MANDATORY)
+────────────────────────────────────────────────────────────
+CIV–DOCTRINE–[CIV] MUST be loaded (pre-loaded or on-demand) when:
+
+AUTOMATIC TRIGGERS:
+1. WRITE mode + analytical content creation
+   (Content that interprets, not merely describes)
+2. Any reference to existing doctrine by name or number
+   (e.g., "per DOCTRINE 06", "corridor depth doctrine")
+3. Creating/editing CIV–CORE–[CIV]
+   (Doctrine citation surface requires source access)
+4. Synthesis drafting that may produce doctrine candidates
+   (Synthesis → Doctrine pathway requires compliance check)
+5. RLL binding that references doctrine constraints
+   (RLLs may interact with doctrine definitions)
+
+DETECTION HEURISTICS:
+Content likely requires DOCTRINE if it contains:
+• Claims about legitimacy patterns or sources
+• Replacement/endurance strategic assertions
+• Precision/closure operational claims
+• Corridor depth vs reach analysis
+• Encirclement or alliance dependency reasoning
+• Hard constraint language ("must", "cannot", "forbidden")
+
+LOADING BEHAVIOR:
+• Pre-load: Include DOCTRINE in session startup file set
+• On-demand: Read DOCTRINE when trigger condition detected
+• Either approach satisfies the protocol
+
+XIII.B ARC LOAD PROTOCOL (MANDATORY)
+────────────────────────────────────────────────────────────
+CIV–ARC–[CIV] MUST be loaded (pre-loaded or on-demand) when:
+
+AUTOMATIC TRIGGERS:
+1. Creating GEO–MEM files
+   (4 ARC-T sections REQUIRED per CIV–MEM–TEMPLATE v2.8)
+2. Writing content requiring civilizational grammar quotes
+   (ARC provides Mercouris voice anchors)
+3. Cross-temporal analysis spanning multiple historical periods
+   (ARC quotes ground each temporal layer)
+4. Blend ratio compliance for any MEM type
+   (ARC fulfills Mercouris portion of blend requirement)
+
+DETECTION HEURISTICS:
+Content likely requires ARC if it:
+• Spans multiple centuries
+• Requires primary source voice
+• Makes civilizational pattern claims
+• Needs historical continuity anchors
+
+XIII.C SESSION STARTUP FILE SETS (GUIDANCE)
+────────────────────────────────────────────────────────────
+Standard file sets by operation type:
+
+LEARN MODE (Minimal):
+• CIV–SCHOLAR–[CIV] only
+• Target MEM files as needed
+• On-demand access to all other files
+
+WRITE MODE — Edit Existing MEM:
+• CIV–SCHOLAR–[CIV]
+• CIV–MEM–TEMPLATE
+• Target MEM file
+
+WRITE MODE — Create Subject–MEM:
+• CIV–SCHOLAR–[CIV]
+• CIV–MEM–TEMPLATE
+• CIV–INDEX–[CIV]
+• CIV–DOCTRINE–[CIV] (if analytical content)
+
+WRITE MODE — Create GEO–MEM:
+• CIV–SCHOLAR–[CIV]
+• CIV–MEM–TEMPLATE
+• CIV–INDEX–[CIV]
+• CIV–ARC–[CIV] (REQUIRED for ARC-T sections)
+• CIV–DOCTRINE–[CIV] (if strategic analysis)
+
+WRITE MODE — Full Governance:
+• CIV–SCHOLAR–[CIV]
+• CIV–MEM–TEMPLATE
+• CIV–INDEX–[CIV]
+• CIV–ARC–[CIV]
+• CIV–DOCTRINE–[CIV]
+• CIV–CORE–[CIV] (if editing CORE)
+
+XIII.D ON-DEMAND LOADING BEHAVIOR (BINDING)
+────────────────────────────────────────────────────────────
+When a trigger condition is detected and the required file is
+not pre-loaded, the LLM MUST:
+
+1. Read the required file from repository before proceeding
+2. Announce the load if it affects response structure
+   ("Loading DOCTRINE–GERMANIA for compliance check...")
+3. Apply loaded content to current operation
+4. Content remains in context for session duration
+
+SILENT LOADING PROHIBITED:
+• All governance file loads MUST be acknowledged
+• User should know which governance context is active
+• This enables session reproducibility
+
+v2.8 ADDITIONS:
+• Context Loading Protocols (Section XIII) — MANDATORY
+  – Doctrine Load Protocol with automatic triggers
+  – ARC Load Protocol with automatic triggers
+  – Session startup file sets by operation type
+  – On-demand loading behavior specification
+
 v2.7 ADDITIONS:
 • OGE Embedding Requirement (Section XI.A) — MANDATORY for all SCHOLAR files
 • Entry Addition Format (Section XI.B) — MANDATORY for all SCHOLAR files
@@ -912,5 +1051,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.7
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.8
 ────────────────────────────────────────────────────────────
