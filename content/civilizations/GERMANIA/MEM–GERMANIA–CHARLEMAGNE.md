@@ -1,9 +1,10 @@
-MEM–GERMANIA–CHARLEMAGNE — v1.3
+MEM–GERMANIA–CHARLEMAGNE — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Upgrade Type: SOURCE GOVERNANCE RETROFIT (ADDITIVE)
+Version: 1.4
+Supersedes: MEM–GERMANIA–CHARLEMAGNE v1.3
+Upgrade Type: DURANT CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Regime / Mode: Sacral–Imperial Monarchy
 Subject: Charlemagne (Karl der Große)
@@ -44,6 +45,15 @@ Primary evidence emphasizes personal command as the core political unit:
 > stature.”
 > — Einhard, *Vita Karoli Magni*
 
+Will Durant captures his Germanic essence:
+
+> "The greatest of medieval kings was born in 742, at a place unknown.
+> He was of German blood and speech, and shared some characteristics
+> of his people—strength of body, courage of spirit, pride of race,
+> and a crude simplicity many centuries apart from the urbane polish
+> of the modern French."
+> — Will Durant, *The Age of Faith* (1950)
+
 The emphasis on bodily presence and demeanor reflects a political order
 grounded in personal authority rather than institutional impersonality.
 
@@ -59,6 +69,13 @@ The *Capitulatio de partibus Saxoniae* makes coercive integration explicit:
 > “If any one of the Saxons shall have concealed himself unbaptized…
 > let him be punished by death.”
 > — *Capitulary for Saxony*, c. 782
+
+Durant records the scale of coercion:
+
+> "Charles gave the conquered Saxons a choice between baptism and death,
+> and had 4500 Saxon rebels beheaded in one day; after which he proceeded
+> to Thionville to celebrate the nativity of Christ."
+> — Will Durant, *The Age of Faith* (1950)
 
 Christian law functions here as an enforcement code, fusing belief with
 obedience.
@@ -88,6 +105,13 @@ The *Capitulare missorum* formalized administrative penetration:
 > “Let the missi inquire diligently whether counts and judges have
 > rendered justice… and correct what they find amiss.”
 > — *Capitulare missorum*, late 8th century
+
+Durant emphasizes the deeper motivation:
+
+> "In truth he had always loved administration more than war, and had
+> taken to the field to force some unity of government and faith upon
+> a Western Europe torn for centuries past by conflicts of tribe and creed."
+> — Will Durant, *The Age of Faith* (1950)
 
 Administration existed to enforce discipline, not negotiate autonomy.
 
@@ -160,9 +184,9 @@ Secondary Sources (Source Governance Compliant):
 • **Johannes Fried**, *Charlemagne*
 • **Martyn Rady**, *The Middle Kingdoms*
 • **Peter Wilson**, *The Holy Roman Empire*
-• **Will Durant**, *The Story of Civilization*
+• **Will Durant**, *The Age of Faith* (1950)
 • **Henry Kissinger**, *World Order*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–CHARLEMAGNE — v1.3
+END OF FILE — MEM–GERMANIA–CHARLEMAGNE — v1.4
 ────────────────────────────────────────────────────────────

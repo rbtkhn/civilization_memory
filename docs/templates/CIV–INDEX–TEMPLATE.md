@@ -1,10 +1,10 @@
-CIV–INDEX–TEMPLATE — v1.8
+CIV–INDEX–TEMPLATE — v2.0
 Civilizational Memory Codex · Civilization Index Template
 Academic Reference Canon (ARC) Integration Edition
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–INDEX–TEMPLATE v1.7
-Upgrade Type: ADDITIVE · ALIGNMENT PATCH
+Supersedes: CIV–INDEX–TEMPLATE v1.8
+Upgrade Type: MAJOR · SUBSECTION GOVERNANCE + EXPANDED REGISTRY CATEGORIES
 Activation State: INACTIVE BY DEFAULT
 Compatibility: CIV–MEM–CORE v2.2+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–TEMPLATE v2.5
 Governance Mode: STRUCTURAL LOCK
@@ -14,7 +14,34 @@ Governed by:
 • CIV–MEM–CORE v2.0+ (global system law)
 
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,500
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0) — SUBSECTION GOVERNANCE + EXPANDED CATEGORIES
+────────────────────────────────────────────────────────────
+This version introduces formal subsection governance and expands
+registry categories to accommodate growing civilization complexity.
+
+v2.0 introduces the following changes:
+
+STRUCTURAL ADDITIONS:
+• Section II renamed: "Canonical Governance Files" (was "Canonical CIV–CORE Engine")
+• Section II now registers CORE, SCHOLAR, and DOCTRINE files
+• Formal subsection governance rules (Section III.A)
+• Explicit permission for additive subsections (X.A, X.B, etc.)
+• New category guidance for SCI, ART, LAW subclasses
+• New category guidance for Urban Nodes and Regional Territories
+
+GOVERNANCE CLARIFICATIONS:
+• Subsections are additive extensions, not structural modifications
+• Subsections inherit parent section governance rules
+• Subsection order is free within parent section constraints
+• Derived files may add subsections without template amendment
+
+No authority is weakened.
+No governance rule is removed.
+No structural requirements altered.
+Section order remains locked.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8) — ALIGNMENT PATCH
@@ -29,35 +56,6 @@ v1.8 introduces the following ADDITIVE alignment fixes:
 • Removed implicit governance law references (consolidated under CIV–MEM–CORE)
 • Clarified Section III: derived file structure vs. template structure
 • Removed stale "NEW" marker from ARC section (introduced in v1.6)
-
-No authority is weakened.
-No governance rule is removed.
-No structural requirements altered.
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.7)
-────────────────────────────────────────────────────────────
-v1.7 introduced:
-
-• Governance authority reference updated: CIV–MEM–CORE → CIV–MEM–CORE v2.0+
-• Compatibility requirement updated: CMC v1.x+ → CMC v2.0+
-• Aligns with CIV–MEM–CORE v2.0 (MERCOURIS Integration Edition)
-
-────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.6)
-────────────────────────────────────────────────────────────
-This version preserves all structural, semantic, and governance
-constraints from CIV–INDEX–TEMPLATE v1.5.
-
-v1.6 introduces one additive, system-wide clarification:
-
-• Formal recognition of the **Academic Reference Canon (ARC)** as a
-  governed, registrable, non-interpretive civilizational object
-
-No MEM registration logic is altered.
-No index authority is expanded.
-No interpretive power is added.
-No retroactive invalidation occurs.
 
 ────────────────────────────────────────────────────────────
 I. TEMPLATE PURPOSE & ROLE
@@ -98,7 +96,7 @@ III. REQUIRED INDEX SECTIONS (ORDER LOCKED)
 All CIV–INDEX instances MUST include, in this exact order:
 
 I.    Purpose & Index Governance  
-II.   Canonical CIV–CORE Engine  
+II.   Canonical Governance Files  
 III.  Registered MEM Files — Persons & Figures  
 IV.   Registered MEM Files — Emperors / Regimes (if applicable)  
 V.    Registered MEM Files — Historians / Authors (Lens-Specific)  
@@ -117,16 +115,55 @@ XVI.  Academic Reference Canon (ARC)
 Sections may be expanded but not reordered, renamed, or removed.
 
 ────────────────────────────────────────────────────────────
-IV. CANONICAL CIV–CORE ENGINE REGISTRATION
+III.A. SUBSECTION GOVERNANCE (NEW IN v2.0)
 ────────────────────────────────────────────────────────────
-Each CIV–INDEX MUST explicitly register the canonical CIV–CORE engine
-for the civilization.
+Derived CIV–INDEX files MAY add subsections to any registered section.
+
+SUBSECTION RULES:
+• Subsections use notation: [SECTION].A, [SECTION].B, etc.
+  (e.g., III.A, III.B, VI.A, VIII.A)
+• Subsections are ADDITIVE EXTENSIONS, not structural modifications
+• Subsections inherit parent section governance rules
+• Subsection order is free within parent section scope
+• Derived files may add subsections without template amendment
+
+PERMITTED SUBSECTION CATEGORIES:
+The following subsection types are explicitly recognized:
+
+For Section III (Persons & Figures):
+• III.A — Science (SCI subclass): MEM–[CIV]–SCI–[NAME]
+• III.B — Art (ART subclass): MEM–[CIV]–ART–[NAME]
+
+For Section VI (External Civilizations):
+• VI.A — Regional Territories: MEM–[CIV]–[TERRITORY]
+
+For Section VII (Literature / Philosophy):
+• VII.A — Law (LAW subclass): MEM–[CIV]–LAW–[NAME]
+
+For Section VIII (Institutions & Civil Structures):
+• VIII.A — Urban Nodes: MEM–[CIV]–[CITY] or MEM–[CIV]–[TERRITORY]–[CITY]
+• VIII.B — Commercial/Subject Structures: MEM–[CIV]–[SUBJECT]
+
+Additional subsections may be created as needed, following the
+[SECTION].[LETTER] naming convention.
+
+────────────────────────────────────────────────────────────
+IV. CANONICAL GOVERNANCE FILES REGISTRATION
+────────────────────────────────────────────────────────────
+Each CIV–INDEX MUST explicitly register the canonical governance
+files for the civilization.
+
+REQUIRED REGISTRATIONS:
+• CIV–CORE–[CIV] — Primary civilizational engine (MANDATORY)
+• CIV–SCHOLAR–[CIV] — Learning and synthesis engine (if present)
+• CIV–DOCTRINE–[CIV] — Frozen doctrine registry (if present)
 
 Rules:
 • Only ONE CIV–CORE may be canonical
 • Superseded versions must be noted
 • Lock level must be declared
 • Template compliance must be stated
+• Version numbers must be current
 
 No SCHOLAR artifact may substitute for CIV–CORE authority.
 
@@ -143,6 +180,13 @@ All MEM registrations must:
 
 The index MAY contain legacy or deprecated files, but must mark
 canonical status explicitly.
+
+HIERARCHICAL NAMING (RECOMMENDED):
+For urban nodes within territories, hierarchical naming is preferred:
+• MEM–[CIV]–[TERRITORY]–[CITY] (e.g., MEM–GERMANIA–BAVARIA–MUNICH)
+
+This format clarifies geographic relationships and enables proper
+cross-referencing.
 
 ────────────────────────────────────────────────────────────
 VI. INDEX PARITY & MIRROR LOGIC
@@ -228,14 +272,15 @@ This template is LOCKED.
 
 Future versions:
 • May add sections only
+• May add subsection categories only
 • May clarify governance language only
 • May not remove sections
 • May not reorder sections
 • May not introduce interpretive authority
 
 All CIV–INDEX files MUST declare:
-"Derived from CIV–INDEX–TEMPLATE v1.8"
+"Derived from CIV–INDEX–TEMPLATE v2.0"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–TEMPLATE v1.8
+END OF FILE — CIV–INDEX–TEMPLATE v2.0
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,10 @@
-MEM–GERMANIA–SAXONY — v2.0
+MEM–GERMANIA–SAXONY — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–SAXONY v2.0
+Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Saxony — Hinge Corridor and Industrial Heartland
 Subject Type Declaration: WELL-DOCUMENTED (Regional Polity)
@@ -122,6 +124,28 @@ A visitor recorded:
 
 The cultural flowering was real but financed by debt and the Polish
 connection—a precarious foundation.
+
+────────────────────────────────────────────────────────────
+V.A. FREDERICIAN OCCUPATION (1756–1763)
+────────────────────────────────────────────────────────────
+Frederick II invaded and occupied Saxony to begin the Seven Years' War.
+
+The occupation demonstrated Prussian willingness to treat German
+territory as strategic resource. Frederick extracted men, money, and
+supplies from Saxony throughout the war.
+
+Blanning characterizes Frederick's approach:
+
+> "The soldier, aesthete and enlightened monarch was, at heart... a gambler
+> playing for the highest stakes. A taste for risk set Frederick's course
+> from the start."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
+
+The occupation devastated Saxony's recovery from the Thirty Years' War.
+Dresden was bombarded (1760); the cultural capital Augustus had built
+suffered systematic destruction. Saxony's position as leading German
+principality never recovered; Prussia's rise was built partly on Saxon
+resources.
 
 ────────────────────────────────────────────────────────────
 VI. NAPOLEONIC ALLIANCE AND PARTITION
@@ -265,10 +289,11 @@ Primary:
 Secondary (ARC-Compliant):
 • **Peter Wilson**, *The Thirty Years' War* (2009)
 • **Peter Wilson**, *Heart of Europe* (2016)
+• **Tim Blanning**, *Frederick the Great: King of Prussia* (2015)
 • Karl Czok, *Geschichte Sachsens*
 • Mary Fulbrook, *A History of Germany 1918–2014*
 • Charles Maier, *Dissolution: The Crisis of Communism*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–SAXONY v2.0
+END OF FILE — MEM–GERMANIA–SAXONY v2.1
 ────────────────────────────────────────────────────────────

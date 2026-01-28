@@ -1,10 +1,10 @@
-MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.0
+MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION v1.2
-Upgrade Type: RADY INTEGRATION
+Version: 2.2
+Supersedes: MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION v2.0
+Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
 Civilization: GERMANIA
@@ -79,10 +79,15 @@ Key advantages:
 • Command reliability
 • Replacement depth under fire
 
-As Tim Blanning observes, Prussia’s early victories reflected not genius
-alone but an **administrative readiness to absorb losses and continue**
-(*Frederick the Great*).
+Blanning emphasizes Frederick's fundamental character:
 
+> "The soldier, aesthete and enlightened monarch was, at heart... a gambler
+> playing for the highest stakes. A taste for risk set Frederick's course
+> from the start."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
+
+Prussia's early victories reflected not genius alone but an **administrative
+readiness to absorb losses and continue**.
 Legitimacy claims fail when execution lags.
 
 ────────────────────────────────────────────────────────────
@@ -194,5 +199,5 @@ Secondary Sources (ARC-Compliant):
 • **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.1
+END OF FILE — MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.2
 ────────────────────────────────────────────────────────────

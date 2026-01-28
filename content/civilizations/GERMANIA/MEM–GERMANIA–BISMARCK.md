@@ -1,10 +1,10 @@
-MEM–GERMANIA–BISMARCK — v1.5
+MEM–GERMANIA–BISMARCK — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.5
-Supersedes: MEM–GERMANIA–BISMARCK v1.4
-Upgrade Type: KISSINGER INTEGRATION
+Version: 1.6
+Supersedes: MEM–GERMANIA–BISMARCK v1.5
+Upgrade Type: HOYER CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Regime: Prussian / Imperial-Constitutional (1862–1890 AD)
 Subject: Otto von Bismarck
@@ -182,7 +182,22 @@ Primary source:
 
 Katja Hoyer emphasizes that Bismarck’s true achievement lay not in
 unification but in his obsessive effort to prevent Germany from becoming
-a **system destabilizer** (*Blood and Iron*).
+a **system destabilizer**.
+
+Hoyer identifies the deeper dynamic Bismarck both exploited and contained:
+
+> "A spirit of defensive nationalism had taken hold that would lead to
+> both the creation and destruction of the German Empire."
+> — Katja Hoyer, *Blood and Iron* (2021)
+
+Hoyer also captures why Germans accepted Bismarck's authority:
+
+> "It seems a nation so fractured and diverse, so scarred by division,
+> war and bitter memories, craves stability and leadership in an almost
+> childlike way."
+> — Katja Hoyer, *Blood and Iron* (2021)
+
+Bismarck satisfied this craving while containing its dangers.
 
 ────────────────────────────────────────────────────────────
 VII. DOMESTIC MANAGEMENT & ABSORPTION
@@ -285,5 +300,5 @@ Secondary Sources (Source Governance Compliant):
 • **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BISMARCK — v1.5
+END OF FILE — MEM–GERMANIA–BISMARCK — v1.6
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,10 @@
-MEM–GERMANIA–AACHEN — v2.0
+MEM–GERMANIA–AACHEN — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–AACHEN v2.0
+Upgrade Type: DURANT CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Aachen (Carolingian Capital, Coronation City, and Western Threshold)
 Dates: c. 765 AD–present
@@ -78,6 +80,21 @@ Einhard, Charlemagne's biographer, records:
 
 The chapel survives intact—the oldest substantial building north
 of the Alps, now the core of Aachen Cathedral.
+
+Durant describes the intellectual dimension of Charlemagne's capital:
+
+> "Alcuin was lured from York (782), to teach the school that
+> Charlemagne organized in the royal palace at Aachen. He sent to
+> England and elsewhere for books and teachers, and soon the palace
+> school was an active center of study, of the revision and copying
+> of manuscripts, and of an educational reform that spread throughout
+> the realm."
+> — Will Durant, *The Age of Faith* (1950)
+
+The Carolingian Renaissance made Aachen not merely a seat of power
+but a center of learning—where the minuscule script that would become
+standard European handwriting was developed, and where the preservation
+of classical texts began in earnest.
 
 Charlemagne dies in Aachen (814) and is buried in his chapel.
 His tomb becomes a pilgrimage site and the anchor of Germanic
@@ -294,6 +311,7 @@ XIV. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–GERMANIA–CHARLEMAGNE — founding emperor
+• MEM–GERMANIA–ALCUIN — palace school founder
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE — political structure
 • MEM–GERMANIA–FRANKFURT — coronation successor city
 • MEM–GERMANIA–COLOGNE — archbishopric connection
@@ -324,10 +342,11 @@ Primary:
 Secondary (ARC-Compliant):
 • **Peter H. Wilson**, *Heart of Europe* (2016)
 • **Christopher Clark**, *Iron Kingdom* (2006)
+• **Will Durant**, *The Age of Faith* (1950)
 • Rosamond McKitterick, *Charlemagne: The Formation of a European Identity* (2008)
 • Janet L. Nelson, *King and Emperor: A New Life of Charlemagne* (2019)
 • Alessandro Ferrara, *The Project of European Integration and the Legacy of Charlemagne*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–AACHEN — v2.0
+END OF FILE — MEM–GERMANIA–AACHEN — v2.1
 ────────────────────────────────────────────────────────────

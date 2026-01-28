@@ -1,9 +1,11 @@
-MEM–GERMANIA–KAUNITZ — v2.0
+MEM–GERMANIA–KAUNITZ — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–KAUNITZ v2.0
+Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Wenzel Anton von Kaunitz (1711–1794)
 Dates: 1711–1794 AD (active 1753–1792)
@@ -64,6 +66,15 @@ Austria's alliances could not deliver Silesian recovery.
 
 Kaunitz diagnosed the problem as **systemic, not tactical**.
 Recovery required new partners, not better execution.
+
+Blanning characterizes the opponent Kaunitz faced:
+
+> "The soldier, aesthete and enlightened monarch was, at heart... a gambler
+> playing for the highest stakes."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
+
+Kaunitz's challenge was to construct a coalition capable of containing
+a risk-tolerant adversary willing to stake everything on survival.
 
 ────────────────────────────────────────────────────────────
 III. THE DIPLOMATIC REVOLUTION (1756)
@@ -230,10 +241,10 @@ VERBATIM CITED:
 • Fred Anderson, *Crucible of War* (2000)
 • Martyn Rady, *The Habsburgs* (2020)
 • Peter Wilson, *Heart of Europe* (2016)
+• Tim Blanning, *Frederick the Great: King of Prussia* (2015)
 
 CONSULTED (Not Quoted):
 • Franz A. J. Szabo, *Kaunitz and Enlightened Absolutism*
-• T.C.W. Blanning, *Frederick the Great*
 • Christopher Clark, *Iron Kingdom*
 • Dennis Showalter, *The Wars of Frederick the Great*
 
@@ -247,5 +258,5 @@ Note: Subject active 1753–1792; Ancient/Medieval sources not applicable.
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–KAUNITZ — v2.0
+END OF FILE — MEM–GERMANIA–KAUNITZ — v2.1
 ────────────────────────────────────────────────────────────

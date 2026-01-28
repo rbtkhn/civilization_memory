@@ -1,12 +1,16 @@
-MEM–GERMANIA–GUTENBERG — v1.0
+MEM–GERMANIA–GUTENBERG — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · ARC-COMPLIANT
+Status: ACTIVE
+Version: 1.1
+Supersedes: MEM–GERMANIA–GUTENBERG v1.0
+Upgrade Type: GOETHE CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Johannes Gutenberg
 Dates: c. 1400–1468 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,200
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -110,6 +114,23 @@ VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 Gutenberg encodes **unmanaged acceleration**.
 
+Goethe defined genius as productive power that operates across
+generations. By this measure, Gutenberg exemplifies Germanic
+productive genius at its most consequential:
+
+> "For what is genius but that productive power by which deeds
+> arise that can display themselves before God and nature, and
+> are therefore permanent, and produce results... He who first
+> invented the forms and proportions of the old German architecture,
+> so that in the course of time a Strasburg minster and cathedral
+> of Cologne were possible, was also a genius; for his thoughts
+> have a power continually productive, and operate even to the
+> present hour."
+> — Goethe, *Conversations with Eckermann* (March 11, 1828)
+
+Gutenberg's invention operates "even to the present hour"—
+and beyond. His productive power reshapes civilization permanently.
+
 Lessons:
 • Information speed reshapes power before institutions adapt.
 • Replication multiplies conflict as easily as order.
@@ -130,5 +151,16 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–GUTENBERG — v1.0
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• Johann Peter Eckermann, *Conversations with Goethe* (1836)
+
+Secondary (ARC-Compliant):
+• **Peter H. Wilson**, *Heart of Europe* (2016)
+• Elizabeth Eisenstein, *The Printing Press as an Agent of Change* (1979)
+• Albert Kapr, *Johannes Gutenberg: The Man and His Invention* (1996)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–GERMANIA–GUTENBERG — v1.1
 ────────────────────────────────────────────────────────────

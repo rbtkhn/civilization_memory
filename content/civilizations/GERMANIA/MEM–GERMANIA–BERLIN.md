@@ -1,8 +1,10 @@
-MEM–GERMANIA–BERLIN — v2.0
+MEM–GERMANIA–BERLIN — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–BERLIN v2.0
+Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Berlin (Capital Function, Administrative Node, and Civilizational Projection)
 Dates: c. 1237 AD–present
@@ -88,6 +90,17 @@ The aesthetic is restrained, classical, functional. Frederick writes:
 Berlin becomes a statement of Prussian values: discipline, rationality,
 administrative competence. The city's architecture embodies the state's
 self-understanding.
+
+Blanning emphasizes Frederick's dual nature as builder:
+
+> "The soldier, aesthete and enlightened monarch was, at heart... a gambler
+> playing for the highest stakes."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
+
+Frederick built Berlin as projection of Enlightenment rationality while
+remaining fundamentally a risk-taker. The aesthetic restraint of his
+construction projects reflects calculated discipline, not temperamental
+moderation.
 
 ────────────────────────────────────────────────────────────
 V. IMPERIAL CAPITAL (1871–1918)
@@ -243,11 +256,12 @@ Primary:
 
 Secondary (ARC-Compliant):
 • **Christopher Clark**, *Iron Kingdom* (2006)
+• **Tim Blanning**, *Frederick the Great: King of Prussia* (2015)
 • **Peter Gay**, *Weimar Culture* (1968)
 • **Albert Speer**, *Inside the Third Reich* (1969)
 • Peter H. Wilson, *Heart of Europe* (2020)
 • Alexandra Richie, *Faust's Metropolis: A History of Berlin* (1998)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BERLIN — v2.0
+END OF FILE — MEM–GERMANIA–BERLIN — v2.1
 ────────────────────────────────────────────────────────────

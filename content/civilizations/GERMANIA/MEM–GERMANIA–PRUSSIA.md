@@ -1,10 +1,10 @@
-MEM–GERMANIA–PRUSSIA — v2.0
+MEM–GERMANIA–PRUSSIA — v2.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: MEM–GERMANIA–PRUSSIA v2.1
-Upgrade Type: KISSINGER INTEGRATION
+Version: 2.3
+Supersedes: MEM–GERMANIA–PRUSSIA v2.2
+Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Polity: PRUSSIA
 Dates: c. 1525–1871 AD
@@ -53,6 +53,15 @@ Core features:
 Key inversion:
 The army does not conquer the state.
 The state exists to sustain the army.
+
+Blanning captures the essence of this inversion:
+
+> "Whereas most countries had an army, in Prussia the army had a country."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
+
+This observation, reflecting a traditional quip, encapsulates the Prussian
+structural peculiarity: military requirements defined state capacity, not
+the reverse.
 
 ────────────────────────────────────────────────────────────
 IV. BUREAUCRACY & RATIONALITY
@@ -150,10 +159,11 @@ Primary:
 Secondary (ARC-Compliant):
 • **Peter H. Wilson**, *German Armies: War and German Society, 1648-1806* (1998)
 • **Peter H. Wilson**, *Heart of Europe* (2020)
+• **Tim Blanning**, *Frederick the Great: King of Prussia* (2015)
 • Christopher Clark, *Iron Kingdom*
 • Hans-Ulrich Wehler
 • Gordon Craig
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–PRUSSIA — v2.2
+END OF FILE — MEM–GERMANIA–PRUSSIA — v2.3
 ────────────────────────────────────────────────────────────

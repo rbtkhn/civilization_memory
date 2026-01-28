@@ -1,9 +1,10 @@
-MEM–GERMANIA–DYNASTY–CAROLINGIAN — v2.0
+MEM–GERMANIA–DYNASTY–CAROLINGIAN — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–DYNASTY–CAROLINGIAN v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–DYNASTY–CAROLINGIAN v2.0
+Upgrade Type: DURANT CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Regime: IMPERIAL / SACRAL MONARCHY (c. 751–911)
 Subject: Carolingian Dynasty
@@ -64,6 +65,17 @@ Mechanisms:
 • Royal inspections
 • Clerical enforcement of loyalty
 
+Will Durant emphasizes the significance of Carolingian legislation:
+
+> "The sixty-five capitularies that remain of Charlemagne's legislation
+> are among the most interesting bodies of medieval law."
+> — Will Durant, *The Age of Faith* (1950)
+
+> "The Capitulare missorum establishing these emissaries was a Magna
+> Carta for the people, four centuries before England's Magna Carta
+> for the aristocracy."
+> — Will Durant, *The Age of Faith* (1950)
+
 Faith functions as governance infrastructure.
 
 ────────────────────────────────────────────────────────────
@@ -113,7 +125,8 @@ Secondary Sources (ARC-Compliant):
 • **Johannes Fried**, *Charlemagne* (Harvard UP, 2016)
 • **Johannes Fried**, *The Middle Ages*
 • **Peter H. Wilson**, *The Holy Roman Empire* (2016)
+• **Will Durant**, *The Age of Faith* (1950)
 • Rosamond McKitterick, *Charlemagne*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DYNASTY–CAROLINGIAN — v2.0
+END OF FILE — MEM–GERMANIA–DYNASTY–CAROLINGIAN — v2.1

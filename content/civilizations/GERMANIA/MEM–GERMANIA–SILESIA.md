@@ -1,9 +1,11 @@
-MEM–GERMANIA–SILESIA — v2.0
+MEM–GERMANIA–SILESIA — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–SILESIA v2.0
+Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Silesia (Contested Territory)
 Dates: Medieval era–1945 AD (German context)
@@ -88,6 +90,11 @@ Fred Anderson emphasizes the calculated nature:
 > inheritance dispute that he himself barely pretended to take
 > seriously. What mattered was opportunity, not right."
 > — Fred Anderson, *Crucible of War* (2000)
+
+Tim Blanning characterizes the invasion as:
+
+> "European history's most famous smash-and-grab raid."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
 
 Initiative substituted for legitimacy.
 Speed preempted coalition formation.
@@ -265,9 +272,9 @@ VERBATIM CITED:
 • Fred Anderson, *Crucible of War* (2000)
 • Martyn Rady, *The Habsburgs* (2020)
 • Peter Wilson, *Heart of Europe* (2016)
+• Tim Blanning, *Frederick the Great: King of Prussia* (2015)
 
 CONSULTED (Not Quoted):
-• T.C.W. Blanning, *Frederick the Great*
 • Christopher Clark, *Iron Kingdom*
 • Dennis Showalter, *The Wars of Frederick the Great*
 • Norman Davies, *God's Playground* (Poland context)
@@ -283,5 +290,5 @@ Note: Ancient/Medieval sources not primary to territorial dispute origin.
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–SILESIA — v2.0
+END OF FILE — MEM–GERMANIA–SILESIA — v2.1
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–GERMANIA–DYNASTY–HOHENZOLLERN — v2.0
+MEM–GERMANIA–DYNASTY–HOHENZOLLERN — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–DYNASTY–HOHENZOLLERN v1.0
+Version: 2.2
+Supersedes: MEM–GERMANIA–DYNASTY–HOHENZOLLERN v2.1
+Upgrade Type: HOYER CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Hohenzollern Dynasty
 Dates: c. 1415–1918 AD
@@ -48,6 +49,15 @@ Key features:
 
 The army becomes the state’s spine.
 
+Blanning captures the psychological dynamic within the dynasty:
+
+> "If the old block is hit hard enough, the chip is liable to spin off
+> in unpredictable directions."
+> — Tim Blanning, *Frederick the Great: King of Prussia* (2015)
+
+Frederick II's formation under Frederick William I's brutal discipline
+produced a ruler determined to surpass his father in the sphere the
+old king valued most: war and conquest.
 ────────────────────────────────────────────────────────────
 IV. LEGITIMACY & OBEDIENAD
 ────────────────────────────────────────────────────────────
@@ -83,6 +93,17 @@ VI. IMPERIAL PHASE & TERMINATION
 The German Empire (1871–1918) expanded industrial and military power
 but inherited structural rigidity.
 
+Hoyer captures Wilhelm II's fatal self-conception:
+
+> "A neo-absolutist Kaiser of all Germans. In his vision of himself as
+> a reincarnation of the mythical Frederick Barbarossa... there was no
+> room for chancellors, ministers and political realities."
+> — Katja Hoyer, *Blood and Iron* (2021)
+
+Where Frederick II had embodied discipline under constraint, Wilhelm II
+embodied ambition without restraint. The dynasty's final ruler inverted
+its founding principles.
+
 Collapse followed:
 • Strategic overreach
 • Total war exhaustion
@@ -116,9 +137,11 @@ Primary Sources:
 Secondary Sources (ARC-Compliant):
 • **Peter H. Wilson**, *German Armies: War and German Society* (1998)
 • **Peter H. Wilson**, *Heart of Europe* (2020)
+• **Tim Blanning**, *Frederick the Great: King of Prussia* (2015)
+• **Katja Hoyer**, *Blood and Iron* (2021)
 • Christopher Clark, *Iron Kingdom*
 • Gordon Craig, *The Politics of the Prussian Army*
 • **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DYNASTY–HOHENZOLLERN — v2.1
+END OF FILE — MEM–GERMANIA–DYNASTY–HOHENZOLLERN — v2.3

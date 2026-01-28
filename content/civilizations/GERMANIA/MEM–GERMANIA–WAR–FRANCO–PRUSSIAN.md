@@ -1,9 +1,10 @@
-MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.4
+MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.5
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: KISSINGER INTEGRATION
+Version: 1.5
+Supersedes: MEM–GERMANIA–WAR–FRANCO–PRUSSIAN v1.4
+Upgrade Type: HOYER CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Opposing Civilization: FRANCIA
 Conflict: Franco–Prussian War
@@ -60,6 +61,16 @@ Primary source:
 
 Legitimacy preceded mobilization. War was framed as response, not
 aspiration.
+
+Hoyer situates this conflict within a deeper dynamic:
+
+> "A spirit of defensive nationalism had taken hold that would lead to
+> both the creation and destruction of the German Empire."
+> — Katja Hoyer, *Blood and Iron* (2021)
+
+The Franco-Prussian War was the culmination of defensive nationalism—
+unification achieved through perceived self-defense against French
+aggression.
 
 ────────────────────────────────────────────────────────────
 III. PRUSSIAN MILITARY ARCHITECTURE & ADMINISTRATIVE WAR
@@ -224,5 +235,5 @@ Secondary Sources (Governance-Compliant):
 • **Fred Anderson**, *Crucible of War* (2000)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.4
+END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v1.5
 ────────────────────────────────────────────────────────────

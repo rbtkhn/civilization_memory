@@ -1,10 +1,10 @@
-MEM–GERMANIA–WAR–TIRPITZ — v1.1
+MEM–GERMANIA–WAR–TIRPITZ — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: MEM–GERMANIA–WAR–TIRPITZ v1.0
-Upgrade Type: KISSINGER INTEGRATION
+Version: 1.2
+Supersedes: MEM–GERMANIA–WAR–TIRPITZ v1.1
+Upgrade Type: HOYER CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Alfred von Tirpitz (Fleet & Risk Theory)
 Dates: c. 1897–1916 AD
@@ -33,6 +33,15 @@ Kissinger identifies as catastrophic:
 Naval expansion provoked the British alignment that Bismarck's diplomacy
 had carefully prevented. The fleet became a coalition catalyst rather
 than a deterrent.
+
+Hoyer captures the systemic dynamic that Tirpitz embodied:
+
+> "Whose patriotic fervour required a constant diet of conflict."
+> — Katja Hoyer, *Blood and Iron* (2021)
+
+The fleet program fed this fervor—providing national pride, industrial
+employment, and the appearance of great-power status—while accelerating
+the strategic isolation it was meant to prevent.
 
 Contradictions are preserved without synthesis.
 
@@ -154,12 +163,13 @@ Primary:
 • Alfred von Tirpitz, *My Memoirs*
 • German naval records
 
-Secondary:
+Secondary (ARC-Compliant):
 • **Henry Kissinger**, *Diplomacy* (1994)
+• **Katja Hoyer**, *Blood and Iron* (2021)
 • Paul Kennedy, *The Rise and Fall of the Great Powers*
 • Holger Herwig
 • Jonathan Steinberg
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–TIRPITZ — v1.1
+END OF FILE — MEM–GERMANIA–WAR–TIRPITZ — v1.2
 ────────────────────────────────────────────────────────────

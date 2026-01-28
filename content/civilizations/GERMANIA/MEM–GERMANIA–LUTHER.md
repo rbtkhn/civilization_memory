@@ -1,9 +1,10 @@
-MEM–GERMANIA–LUTHER — v2.0
+MEM–GERMANIA–LUTHER — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–LUTHER v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–LUTHER v2.0
+Upgrade Type: GOETHE CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Martin Luther
 Dates: 1483–1546 AD
@@ -121,6 +122,16 @@ Enduring effects:
 Reform substitutes for revolution—
 but prolongs fragmentation.
 
+Goethe recognized Luther's enduring productive power:
+
+> "Luther was a genius of a very important kind; he has already
+> gone on with influence for many a long day, and we cannot count
+> the days when he will cease to be productive in future ages."
+> — Goethe, *Conversations with Eckermann* (March 11, 1828)
+
+Luther's influence operates across centuries—reshaping conscience,
+language, and institutional structure long after his death.
+
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -156,9 +167,10 @@ Primary Sources:
 Secondary Sources (ARC-Compliant):
 • **Johannes Fried**, *The Middle Ages*
 • **Peter H. Wilson**, *Heart of Europe* (2020)
+• Johann Peter Eckermann, *Conversations with Goethe* (1836)
 • Diarmaid MacCulloch, *The Reformation*
 • Heiko Oberman, *Luther: Man Between God and the Devil*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–LUTHER — v2.0
+END OF FILE — MEM–GERMANIA–LUTHER — v2.1
 ────────────────────────────────────────────────────────────

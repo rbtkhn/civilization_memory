@@ -1,9 +1,11 @@
-MEM–GERMANIA–HOLY–ROMAN–EMPIRE — v2.0
+MEM–GERMANIA–HOLY–ROMAN–EMPIRE — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–HOLY–ROMAN–EMPIRE v2.0
+Upgrade Type: GOETHE CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Holy Roman Empire (Sacrum Imperium Romanum)
 Dates: 800/962–1806 AD
@@ -104,7 +106,22 @@ Peter Wilson emphasizes:
 > dominating and forced continuous negotiation."
 > — Peter Wilson, *Heart of Europe* (2016)
 
-Fragmentation was the price of persistence.
+Goethe, writing after the Empire's dissolution, defended this very
+fragmentation as the source of German cultural greatness:
+
+> "Whence is Germany great, but by the admirable culture of the
+> people, which equally pervades all parts of the kingdom? But does
+> not this proceed from the various seats of government, and do not
+> these foster and support it? Germany has about twenty universities
+> distributed about the whole empire, and about a hundred public
+> libraries similarly distributed... And now think of such cities
+> as Dresden, Munich, Stuttgart, Cassel, Brunswick, Hanover, and
+> the like; think of the great elements of life comprised within
+> these cities."
+> — Goethe, *Conversations with Eckermann* (October 23, 1828)
+
+Fragmentation was the price of persistence—and the condition of
+cultural depth.
 
 ────────────────────────────────────────────────────────────
 IV. THE GOLDEN BULL (1356): CONSTITUTIONAL CRYSTALLIZATION
@@ -312,16 +329,17 @@ CONSULTED (Not Quoted):
 • Barbara Stollberg-Rilinger, *The Holy Roman Empire: A Short History*
 • James Sheehan, *German History 1770–1866*
 • Thomas Brady Jr., *German Histories in the Age of Reformations*
+• Johann Peter Eckermann, *Conversations with Goethe* (1836)
 
 ────────────────────────────────────────────────────────────
 ARC COMPLIANCE CHECK
 ────────────────────────────────────────────────────────────
 Category C — Early Modern Sources: ✓ COMPLETE (Voltaire)
-Category D — Modern Sources: ✓ COMPLETE (Wilson, Rady, Fried)
+Category D — Modern Sources: ✓ COMPLETE (Wilson, Rady, Fried, Goethe/Eckermann)
 
-20% Quote Standard: MET (~24% verbatim content)
+20% Quote Standard: MET (~26% verbatim content)
 EQS Status: COMPLIANT
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–HOLY–ROMAN–EMPIRE — v2.0
+END OF FILE — MEM–GERMANIA–HOLY–ROMAN–EMPIRE — v2.1
 ────────────────────────────────────────────────────────────
