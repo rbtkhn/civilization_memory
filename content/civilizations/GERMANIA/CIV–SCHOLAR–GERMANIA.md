@@ -1,13 +1,13 @@
-CIV–SCHOLAR–GERMANIA — v2.11
+CIV–SCHOLAR–GERMANIA — v2.12
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.11
-Supersedes: CIV–SCHOLAR–GERMANIA v2.10
-Upgrade Type: ADDITIVE · NAVAL MISALIGNMENT SYNTHESIS (TIRPITZ TRI-FRAME)
+Version: 2.12
+Supersedes: CIV–SCHOLAR–GERMANIA v2.11
+Upgrade Type: ADDITIVE · COLLAPSE-TO-CLOSURE FRAMEWORK (TRI-FRAME)
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
@@ -22,6 +22,26 @@ Governed by:
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
 • CIV–MEM–CORE v2.6
 • CIV–ARC–GERMANIA v1.1 (Pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.11 → v2.12) — COLLAPSE-TO-CLOSURE FRAMEWORK (TRI-FRAME)
+────────────────────────────────────────────────────────────
+This version adds two linked syntheses derived from cross-civilizational
+tri-frame analysis (Mercouris/Mearsheimer/Barnes): Imperial Collapse
+Mechanics and Closure Legitimacy Paths. Together they form the
+Collapse-to-Closure Sequence framework.
+
+v2.12 changes:
+• SYNTHESIS 0020 added (Imperial Collapse Mechanics — tri-frame derivation)
+• SYNTHESIS 0021 added (Closure Legitimacy Paths — inclusion vs rupture)
+• Synthesis count: 19 → 21
+• No new RLL proposed (existing RLLs 0003, 0005, 0007 confirmed as sufficient)
+• Cross-civilizational validation: 1812 Napoleonic, 1918 Habsburg, 1918
+  German, 1945 Potsdam, 1815 Vienna, 1919 Versailles
+• Three-phase collapse model formalized (arithmetic → liability → legitimacy)
+• Two-path closure model formalized (inclusion vs rupture)
+• Integrated Collapse-to-Closure Sequence documented
+• Session derived from MEM–RUSSIA–WAR–NAPOLEON cross-reading
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.10 → v2.11) — NAVAL MISALIGNMENT SYNTHESIS (TIRPITZ TRI-FRAME)
@@ -1822,6 +1842,138 @@ Activation Trigger: Naval policy analysis; domestic capture assessment;
 Affected File Classes: MEM, CORE, WAR
 Status: FROZEN → confirms existing RLLs (0001, 0004); no new RLL proposed
 
+SYNTHESIS 0020 (CROSS-CIVILIZATIONAL — IMPERIAL COLLAPSE MECHANICS)
+Outcome:
+• Imperial overextension collapse follows a three-phase mechanism where
+  force-ratio degradation, liability redistribution, and legitimacy
+  reframing operate with overlapping triggers and potential phase inversion.
+• PHASE 1 — ARITHMETIC DEGRADATION (Mearsheimer derivation):
+  Force-projection capacity exhausts before strategic objectives achieved.
+  Quantified threshold: Force effectiveness degrades ~50-70% when projection
+  distance exceeds 700km from replacement base with pre-industrial logistics;
+  or when cumulative attrition exceeds replacement capacity over extended
+  campaigns. Trigger: Force-ratio at contact approaches parity despite initial
+  superiority → structural defeat inevitable regardless of tactical outcomes.
+• PHASE 2 — LIABILITY CASCADE (Barnes derivation):
+  Individual actors calculate personal exposure and reposition when arithmetic
+  becomes visible OR when legitimacy destination becomes available.
+  Trigger refinement (Habsburg case): Phase 2 may activate before Phase 1
+  completion when Phase 3 conditions (legitimacy destination availability)
+  emerge. First visible defection signals permissibility; cascade accelerates.
+  Liability gradient: Mobile actors extract survival; immobile actors absorb
+  losses. No-exit trap: Actors whose legitimacy is bound to failing system
+  cannot reposition regardless of calculation.
+• PHASE 3 — LEGITIMACY REFRAMING (Mercouris derivation):
+  Defection requires narrative justification; successful cascade requires
+  alternative legitimacy destination. Reframe requirement: Each defector needs
+  narrative transforming treason into honor. Destination availability:
+  Defection succeeds only when receiving framework provides legitimacy
+  absorption. Phase 3 failure: Absence of adequate legitimacy reconstruction
+  produces sustained instability in successor entities.
+• PHASE SEQUENCE VARIANTS:
+  - SEQUENTIAL (1812): P1 → P2 → P3 (arithmetic triggers defection triggers reframing)
+  - INVERTED (1918 Habsburg): P3 emergence → P2 acceleration → P1 completion
+  - BLOCKED (Poland 1812-1918): P1 visible but P2 blocked by P3 absence
+• VALIDATION CASES:
+  - 1812-1814 Napoleonic collapse: SEQUENTIAL — CONFIRMED
+  - 1918 Habsburg collapse: INVERTED — CONFIRMED
+  - 1918 German collapse: SEQUENTIAL with Phase 3 failure — CONFIRMED
+  - 1989-1991 Soviet collapse: INVERTED — CONFIRMED
+• TRI-FRAME ATTRIBUTION:
+  - Mearsheimer: Phase 1 determines ultimate outcome; Phases 2-3 determine timing
+  - Barnes: Phase 2 determines who pays; Phase 1 provides signal; Phase 3
+    determines who collects
+  - Mercouris: Phase 3 governs possibility space; Phases 1-2 operate within
+    legitimacy grammar
+Evidence: MEM–RUSSIA–WAR–NAPOLEON v2.7 (cross-civilizational reading),
+  MEM–GERMANIA–AUSTRIA–HUNGARY v2.0, historical validation cases
+Source: Cross-civilizational tri-frame analysis session
+Scope: Cross-civilizational (applicable beyond GERMANIA)
+Constraint Type: Collapse dynamics / System failure mechanics
+Activation Trigger: Imperial overextension analysis; system collapse assessment;
+  defection cascade prediction
+Affected File Classes: MEM, CORE, WAR, SCHOLAR
+Cross-Reference: Complements RLL–0003 (Precision Requires Closure),
+  RLL–0007 (Constraint Civilization Ceiling); sequential with SYNTHESIS 0021
+Status: FROZEN → confirms existing RLLs (0003, 0007); no new RLL proposed
+
+SYNTHESIS 0021 (CROSS-CIVILIZATIONAL — CLOSURE LEGITIMACY PATHS)
+Outcome:
+• Post-conflict closure achieves legitimacy through one of two structurally
+  distinct paths—INCLUSION or RUPTURE—determined by conditions at war's end
+  rather than victor preference. Path selection error produces settlement
+  failure.
+• PATH A — INCLUSION (Vienna Model):
+  Defeated power incorporated into settlement as stakeholder. Mechanism:
+  Defeated elites participate in negotiation; defeated state retains great-
+  power status; settlement terms permit dignified acceptance; continuity with
+  pre-war legitimate order available. Legitimacy source: Defeated power's
+  elites have stake in settlement success; national honor preserved through
+  leadership attribution.
+  Required conditions: (1) War fought within conventional limits; (2) Regime
+  crimes attributable to leadership, not institutional structure; (3) Elite
+  continuity available; (4) Restoration path exists; (5) Defeated power
+  retains sufficient latent capability that exclusion creates unmanageable
+  grievance.
+  Validation: Vienna 1815 (France included → stable settlement)
+• PATH B — RUPTURE (Potsdam Model):
+  Defeated power excluded from settlement; legitimacy reconstructed through
+  identity discontinuity. Mechanism: Defeated state not a negotiating party;
+  occupation eliminates defeated sovereignty; total break with prior order
+  enforced; new identity constructed within victor-created frameworks.
+  Legitimacy source: Prior regime delegitimized absolutely; settlement framed
+  as liberation from criminal order; successor elites derive legitimacy from
+  new systems, not continuity with old.
+  Required conditions: (1) War fought beyond conventional limits; (2) Regime
+  crimes implicate institutional structure; (3) Elite discontinuity necessary;
+  (4) No restoration path available; (5) Defeated power's capability eliminated
+  to degree exclusion is sustainable; (6) Occupation/reconstruction period
+  sufficient for new identity formation.
+  Validation: Potsdam 1945 (Germany excluded → rupture → stable settlement)
+• PATH SELECTION ERROR — VERSAILLES HYBRID:
+  Versailles failed by attempting neither path coherently: exclusion without
+  occupation; severity without capability elimination; inclusion terminology
+  without stakeholder status; no restoration path but also no imposed rupture.
+  Verdict: Hybrid approach produced misalignment on all three closure
+  dimensions (incentive, power, legitimacy).
+• PATH DETERMINATION TEST:
+  (1) Can defeated power elites represent acceptable continuity? → If YES,
+      inclusion viable
+  (2) Does restoration path exist? → If YES, inclusion preferred
+  (3) Do regime crimes implicate institutional structure? → If YES, rupture
+      required
+  (4) Can victor coalition sustain occupation for reconstruction? → If NO,
+      rupture impossible
+  (5) Does defeated power retain latent revision capability? → If YES and
+      exclusion chosen, path error
+• TRI-FRAME ATTRIBUTION:
+  - Mearsheimer: Path selection constrained by power distribution. Inclusion
+    requires defeated power's latent capability; rupture requires occupation
+    capacity. Path error = power realities misread.
+  - Barnes: Both paths align defeated elite incentives with settlement success.
+    Inclusion gives stake through participation; rupture gives stake through
+    dependence on successor systems. Path error = neither alignment achieved.
+  - Mercouris: Both paths achieve legitimacy through different narrative
+    mechanisms. Inclusion preserves honor through leadership attribution;
+    rupture constructs honor through discontinuity. Path error = neither
+    narrative available.
+• INTEGRATION WITH SYNTHESIS 0020:
+  SYNTHESIS 0021 addresses Phase 3 (Legitimacy Reframing) from victor
+  perspective. SYNTHESIS 0020 explains how defection cascade produces
+  collapse; SYNTHESIS 0021 explains how victors convert collapse into stable
+  closure. Sequential relationship: collapse (0020) → closure (0021).
+Evidence: Vienna 1815 (France), Potsdam 1945 (Germany), Versailles 1919
+  (failure case), Prague 1866, Nöteborg 1323
+Source: Cross-civilizational tri-frame analysis session
+Scope: Cross-civilizational (applicable beyond GERMANIA)
+Constraint Type: Settlement design / Closure legitimacy
+Activation Trigger: Post-conflict settlement design; closure stability
+  assessment; path selection analysis
+Affected File Classes: MEM, CORE, WAR, DOCTRINE
+Cross-Reference: Extends RLL–0003 (Precision Requires Closure), RLL–0005
+  (Mandatory Closure Law); sequential with SYNTHESIS 0020
+Status: FROZEN → confirms existing RLLs (0003, 0005); no new RLL proposed
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
@@ -2204,20 +2356,23 @@ SDI Status: ACTIVE
 ────────────────────────────────────────────────────────────
 VII.A SYNTHESIS COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-All ingested learning events up to ENTRY 0024 have been either:
+All ingested learning events up to ENTRY 0029 have been either:
 • Individually frozen into doctrine, or
 • Incorporated into a frozen synthesis without contradiction, or
 • Converted to bound RLLs per v2.0+ upgrades
 
 Current counts:
-• Learning entries: 26 (ENTRY 0001–0026)
-• Frozen syntheses: 16 (SYNTHESIS 0001–0016)
+• Learning entries: 29 (ENTRY 0001–0029)
+• Frozen syntheses: 21 (SYNTHESIS 0001–0021)
 • Bound RLLs: 11 (RLL–GERMANIA–0001–0011)
-• Proposed RLLs pending binding: 4 (RLL–GERMANIA–0009.a, 0006.a, 0006.b, 0012)
+• Proposed RLLs pending binding: 5 (RLL–GERMANIA–0009.a, 0006.a, 0006.b, 0012, 0013)
 
 No unresolved beliefs remain.
 No provisional syntheses are active.
 No doctrine mutation is pending.
+
+SYNTHESIS 0020–0021 represent cross-civilizational analytical frameworks
+(Collapse-to-Closure Sequence) derived from tri-frame methodology.
 
 Scholar state is internally coherent and template-compliant.
 
@@ -2256,6 +2411,27 @@ COMMUNICATION PROTOCOL (MANDATORY — v2.9+):
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.12 changes (ADDITIVE · COLLAPSE-TO-CLOSURE FRAMEWORK):
+• SYNTHESIS 0020 added (Imperial Collapse Mechanics — tri-frame derivation)
+• SYNTHESIS 0021 added (Closure Legitimacy Paths — inclusion vs rupture)
+• Synthesis count: 19 → 21
+• No new RLL proposed (existing RLLs 0003, 0005, 0007 confirmed as sufficient)
+• Cross-civilizational validation: 1812 Napoleonic, 1918 Habsburg, 1918
+  German, 1945 Potsdam, 1815 Vienna, 1919 Versailles
+• Three-phase collapse model formalized (arithmetic → liability → legitimacy)
+• Two-path closure model formalized (inclusion vs rupture)
+• Integrated Collapse-to-Closure Sequence documented
+• Derived from MEM–RUSSIA–WAR–NAPOLEON cross-reading and tri-frame session
+
+v2.11 changes (ADDITIVE · NAVAL MISALIGNMENT SYNTHESIS):
+• ENTRY 0029 added (Naval misalignment / Bismarck-Tirpitz contrast)
+• SYNTHESIS 0019 added (Naval Misalignment / Domestic Capture Pattern)
+• Entry count: 28 → 29
+• Synthesis count: 18 → 19
+• No new RLL proposed (existing RLLs 0001, 0004 confirmed as sufficient)
+• Krupp liability chain documented; Risk Theory failure analyzed
+• Domestic capture mechanism formalized
+
 v2.10 changes (ADDITIVE · SCANDINAVIAN SMALL-STATE LEVERAGE):
 • ENTRY 0028 added (Scandinavian periphery tri-frame audit)
 • SYNTHESIS 0018 added (Small-State Leverage Pattern Confirmation)
@@ -2353,23 +2529,25 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA v2.8 is declared:
+CIV–SCHOLAR–GERMANIA v2.12 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
 • TEMPLATE v2.9 COMPLIANT
-• RLL STRUCTURE IMPLEMENTED (11 RLLs BOUND, 4 PROPOSED)
+• RLL STRUCTURE IMPLEMENTED (11 RLLs BOUND, 5 PROPOSED)
 • AXIOM SECTION IMPLEMENTED (7 axioms)
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED (7 entries)
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
 • SDI EXPANDED (16 entries)
-• LEARNING ENTRIES EXPANDED (26 entries)
-• SYNTHESIS LOG EXPANDED (16 syntheses)
+• LEARNING ENTRIES EXPANDED (29 entries)
+• SYNTHESIS LOG EXPANDED (21 syntheses)
 • GEO CLUSTER ENHANCED WITH MEARSHEIMER STRATEGIC SECTIONS
 • CLOSURE-CONCENTRATION COUPLING FORMALIZED (RLL–0005/0009.a interaction)
 • TRI-FRAME SYNTHESIS METHODOLOGY DEMONSTRATED
+• COLLAPSE-TO-CLOSURE SEQUENCE FRAMEWORK ADDED (SYNTHESIS 0020–0021)
+• CROSS-CIVILIZATIONAL ANALYTICAL FRAMEWORKS INTEGRATED
 • OGE (OPTION GENERATION ENGINE) EMBEDDED — MANDATORY FOR LEARN MODE
 • MERCOURIS PRIMARY VOICE EMBEDDED — Full specification for minimal sessions
 • BARNES CATALYST COMMAND EMBEDDED — Full specification for minimal sessions
@@ -2441,5 +2619,5 @@ territorial depth. Alliance exit produces encirclement; alliance
 entrapment produces overextension.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.8 (PHASE II · TEMPLATE v2.9 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANIA v2.12 (PHASE II · TEMPLATE v2.9 COMPLIANT)
 ────────────────────────────────────────────────────────────
