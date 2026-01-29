@@ -15,7 +15,7 @@ Word Count: ~2,700
 Governed by:
 • CIV–MEM–CORE v2.7
 • CIV–MEM–TEMPLATE v2.9
-• CIV–ARC–FRANCIA v1.7
+• CIV–ARC–FRANCIA v1.9
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -47,6 +47,14 @@ Sequence:
   trade) loosely governed
 • French imperial presence in North America reduced to Caribbean
   (Saint-Domingue, Martinique, Guadeloupe) after 1763
+
+Anderson (ARC-T-MODERN) on why 1763 broke French North America:
+
+> "Success in the war depended less on victories in Europe than on the
+> ability to sustain armies and fleets across oceans, to coordinate
+> distant campaigns, and to turn maritime access into political and
+> fiscal endurance."
+> — Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
 
 Louisiana is thus **recovered** before it is sold—Napoleon secures
 retrocession from Spain in 1800 (Treaty of San Ildefonso), intending
@@ -258,6 +266,7 @@ GEO MEMs (≥2):
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America*. New York: Knopf, 2000. (ARC-T-MODERN)
 • Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003. (ARC-T-MODERN)
 • Tombs, Robert. *France 1814–1914*. London: Longman, 1996. (ARC-T-MODERN)
@@ -265,7 +274,7 @@ CITED SOURCES:
 
 ADDITIONAL: Adams, *History of the United States during the Administrations of Jefferson*; Cerami, *Jefferson's Great Gamble*.
 
-ARC version used: CIV–ARC–FRANCIA v1.7.
+ARC version used: CIV–ARC–FRANCIA v1.9.
 
 ────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (MANDATORY)

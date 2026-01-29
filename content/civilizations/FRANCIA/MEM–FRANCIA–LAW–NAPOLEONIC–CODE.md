@@ -1,4 +1,4 @@
-MEM–FRANCIA–NAPOLEONIC–CODE — v1.1
+MEM–FRANCIA–LAW–NAPOLEONIC–CODE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
@@ -15,7 +15,7 @@ Word Count: ~2,250
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Napoleonic Code as **Francia’s definitive legal
+This file preserves the Napoleonic Code as **Francia's definitive legal
 reset**: the moment when universalist legitimacy was reasserted through
 explicit codification, replacing fragmented custom, privilege, and
 revolutionary improvisation with centralized, declarative authority.
@@ -23,6 +23,16 @@ revolutionary improvisation with centralized, declarative authority.
 For Francia, the Code is not merely a legal instrument.
 It is **law as sovereign declaration**—a claim that order, equality, and
 authority can be restored by writing them into existence.
+
+Descartes had grounded certainty in method and clear principles:
+
+> "Divide each of the difficulties I would examine into as many parts as possible."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the sovereign will the Code would claim to express:
+
+> "Law expresses the general will; each citizen, in obeying it, obeys himself."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
 This file records how codification functioned as legitimacy, not whether
 it produced justice or social harmony.
@@ -41,9 +51,9 @@ Contextual pressures:
 • Collapse of judicial authority and predictability
 • Demand for visible, uniform order
 
-Jeremy Popkin emphasizes that revolutionary France inherited “a legal
+Jeremy Popkin emphasizes that revolutionary France inherited "a legal
 vacuum created by the destruction of the old regime without a stable
-replacement,” making codification a political necessity rather than a
+replacement," making codification a political necessity rather than a
 purely juridical project (*A Short History of France*).
 
 Law must be rebuilt **visibly** to be believed.
@@ -59,16 +69,16 @@ Structural features:
 • Explicit hierarchy of norms
 • Central authorship and promulgation
 
-The Code’s opening declaration makes this explicit:
+The Code's opening declaration makes this explicit:
 
-> “The law is the expression of the general will.”
+> "The law is the expression of the general will."
 > — Code civil, Preliminary Title
 
 Law becomes a **statement of order**, not an accumulation of precedent.
 
-Will Durant characterizes the Code as Napoleon’s most durable creation,
-not because it was neutral, but because it “gave France what it craved
-after chaos: clarity, regularity, and predictability” (*The Age of
+Will Durant characterizes the Code as Napoleon's most durable creation,
+not because it was neutral, but because it "gave France what it craved
+after chaos: clarity, regularity, and predictability" (*The Age of
 Napoleon*).
 
 ────────────────────────────────────────────────────────────
@@ -113,8 +123,8 @@ Operational effects:
 • Interpretation is subordinated to text
 • Political authority stabilizes legal meaning
 
-Peter Wilson notes that Napoleonic codification represents “law without
-the medieval mediating institutions that once softened authority,”
+Peter Wilson notes that Napoleonic codification represents "law without
+the medieval mediating institutions that once softened authority,"
 binding legality tightly to the state (*Heart of Europe*).
 
 Legal clarity substitutes for procedural negotiation.
@@ -130,8 +140,8 @@ Transmission pathways:
 • Post-imperial inheritance after French withdrawal
 
 Henry Kissinger observes that Napoleonic legal export succeeded where
-military control failed, embedding French influence “more deeply in
-institutions than in borders” (*Diplomacy*).
+military control failed, embedding French influence "more deeply in
+institutions than in borders" (*Diplomacy*).
 
 Transmission follows authority and prestige—not continuity.
 
@@ -152,8 +162,8 @@ Limits:
 • Weak procedural adaptability
 • Vulnerability during regime fracture
 
-David Chandler emphasizes that the Code’s durability depended less on
-Napoleon than on subsequent regimes’ willingness to **inhabit** it,
+David Chandler emphasizes that the Code's durability depended less on
+Napoleon than on subsequent regimes' willingness to **inhabit** it,
 revealing its strength as a framework rather than a philosophy
 (*The Campaigns of Napoleon*).
 
@@ -202,7 +212,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Universal law substitutes for procedural trust.
 • Legal clarity compensates for institutional weakness.
 • Law exports prestige more easily than authority.
-• The Napoleonic Code is Francia’s legal rebirth.
+• The Napoleonic Code is Francia's legal rebirth.
 
 No verdict imposed.
 
@@ -214,7 +224,7 @@ This MEM supports curiosity-led exploration.
 Example exploration prompts (non-evaluative):
 A) Why did codification restore trust faster than institutions?
 B) How does the Napoleonic Code differ from common law traditions?
-C) Why did the Code survive Napoleon’s defeat?
+C) Why did the Code survive Napoleon's defeat?
 D) Can legal clarity substitute for political legitimacy?
 
 One option presented at a time; student choice governs progression.
@@ -236,5 +246,5 @@ Secondary Sources (≥4; ≥3 Distinguished Scholars):
 • **Jeremy Popkin**, *A Short History of France*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NAPOLEONIC–CODE — v1.1
+END OF FILE — MEM–FRANCIA–LAW–NAPOLEONIC–CODE — v1.1
 ────────────────────────────────────────────────────────────

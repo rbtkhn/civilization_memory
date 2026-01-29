@@ -187,7 +187,7 @@ FRANCIA (internal continuity)
 • MEM–FRANCIA–RICHELIEU — incorporation-by-elite control echoes Caesar’s client/intermediary logic; raison d’état translates conquest into durable rule.
 • MEM–FRANCIA–LOUIS–XIV — universal cultural projection as non-military empire; Caesar is the coercive baseline that later shifts into prestige standard-setting.
 • MEM–FRANCIA–NAPOLEON — renewed export of legal order by force; Caesar is the first “law + conquest” template in Gaul.
-• MEM–FRANCIA–NAPOLEONIC–CODE — codification as legitimacy translation; Caesar shows the earlier Roman pattern: conquest → legal order → durable absorption.
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — codification as legitimacy translation; Caesar shows the earlier Roman pattern: conquest → legal order → durable absorption.
 
 GERMANIA (frontier contrast)
 • MEM–GERMANIA–WAR–CAESAR — same actor, opposite outcome: Gaul incorporated; Germania disciplined episodically without absorption.

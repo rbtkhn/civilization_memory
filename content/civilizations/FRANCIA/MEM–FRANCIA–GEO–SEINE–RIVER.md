@@ -150,7 +150,7 @@ Same-civilization (≥10):
 • MEM–FRANCIA–LOUIS–XIV — Versailles as counterpole; Paris–Seine remains administrative core; breaks if removed.
 • MEM–FRANCIA–DYNASTY–CAPET — Capetian fixation on Paris; breaks if removed.
 • MEM–FRANCIA–CHARLEMAGNE — Pre-Paris Frankish centers; contrast to later Seine centrality; breaks if removed.
-• MEM–FRANCIA–NAPOLEONIC–CODE — Codification emanates from Paris; breaks if removed.
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — Codification emanates from Paris; breaks if removed.
 • MEM–FRANCIA–BURGUNDY — Rival pole; Seine vs periphery; breaks if removed.
 • MEM–FRANCIA–WAR–FRANCO–PRUSSIAN — Paris besieged; Seine as last redoubt; breaks if removed.
 • MEM–FRANCIA–EMPIRE — Colonial administration run from Paris–Seine; breaks if removed.

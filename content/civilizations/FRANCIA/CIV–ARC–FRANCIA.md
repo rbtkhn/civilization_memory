@@ -1,13 +1,24 @@
-CIV–ARC–FRANCIA — v1.8
+CIV–ARC–FRANCIA — v1.9
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL
-Supersedes: CIV–ARC–FRANCIA v1.7
-Upgrade Type: SYNC (mirroring rule compliance)
+Supersedes: CIV–ARC–FRANCIA v1.8
+Upgrade Type: AUTHOR EXPANSION (Seven Years' War specialist)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.9) — AUTHOR EXPANSION (SEVEN YEARS' WAR)
+────────────────────────────────────────────────────────────
+This version adds Fred Anderson to ARC-T-MODERN for Seven Years' War and
+global-conflict coverage, resolving ARC compliance for MEM–FRANCIA–WAR–SEVEN–YEARS.
+
+v1.9 changes:
+• Added Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754–1766
+• Topical scope: global war, maritime/fiscal dimension, Franco-British rivalry, colonial theaters, fiscal credibility
+• Supports MEM–FRANCIA–WAR–SEVEN–YEARS, pre-revolutionary legitimacy diagnostics
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8) — SYNC (MIRRORING RULE COMPLIANCE)
@@ -225,8 +236,12 @@ ARC-T-MEDIEVAL:
 
 ARC-T-EARLY-MOD:
 • Jacques-Auguste de Thou (1553–1617) — Historia sui temporis
+• René Descartes (1596–1650) — Discours de la méthode; Méditations
+  métaphysiques
 • François-Marie Arouet (Voltaire) (1694–1778) — Le Siècle de Louis XIV;
   Essai sur les mœurs
+• Jean-Jacques Rousseau (1712–1778) — Du contrat social; Discours sur
+  l'origine et les fondements de l'inégalité; Émile
 • François Guizot (1787–1874) — Histoire de la civilisation en France;
   Histoire de France
 • Jules Michelet (1798–1874) — Histoire de France (19 vols.);
@@ -267,6 +282,12 @@ ARC-T-MODERN:
   TOPICAL SCOPE:
   - Revolutionary warfare 1787–1802, European context
   - Eighteenth-century Europe, Francia in continental system
+• Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754–1766
+  TOPICAL SCOPE:
+  - Seven Years' War as global conflict, maritime/fiscal dimension
+  - Franco-British rivalry, North American and colonial theaters
+  - French fiscal credibility, naval inferiority, legitimacy shock
+  - Supports MEM–FRANCIA–WAR–SEVEN–YEARS, pre-revolutionary diagnostics
 • David G. Chandler (1934–2004) — The Campaigns of Napoleon
   TOPICAL SCOPE:
   - Napoleonic military history, operational analysis
@@ -449,5 +470,5 @@ Future versions may add:
 • Regional specialists (Provence, Brittany, Alsace)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–FRANCIA v1.8
+END OF FILE — CIV–ARC–FRANCIA v1.9
 ────────────────────────────────────────────────────────────

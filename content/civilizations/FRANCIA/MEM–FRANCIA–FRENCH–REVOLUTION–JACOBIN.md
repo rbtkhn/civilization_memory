@@ -40,6 +40,16 @@ II. FORMATION & IDEOLOGICAL CORE
 ────────────────────────────────────────────────────────────
 The Jacobins arise as a political society.
 
+Descartes had supplied the rationalist grammar the Jacobins would extend to politics:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had defined the sovereign the Jacobins would claim to embody:
+
+> "Each of us puts his person and all his power in common under the supreme direction of the general will, and, in our corporate capacity, we receive each member as an indivisible part of the whole."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Foundations:
 • Enlightenment rationalism
 • Rousseauian popular sovereignty

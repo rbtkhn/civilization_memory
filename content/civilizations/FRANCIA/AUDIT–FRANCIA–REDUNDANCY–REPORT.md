@@ -29,7 +29,7 @@
 
 **Referenced in:**
 - MEM–FRANCIA–LOUIS–XIV.md (2×: "This memory interfaces with" and MEM CONNECTIONS)
-- MEM–FRANCIA–NAPOLEONIC–CODE.md (MEM CONNECTIONS)
+- MEM–FRANCIA–LAW–NAPOLEONIC–CODE.md (MEM CONNECTIONS)
 - MEM–FRANCIA–WAR–HUNDRED–YEARS.md (MEM CONNECTIONS)
 - MEM–FRANCIA–NAPOLEON.md (MEM CONNECTIONS)
 
@@ -158,7 +158,7 @@ Checked:
 
 ## VII. PEARSON QUOTE REPETITION (INFORMATIONAL)
 
-The same verbatim block from Roger Pearson, *Voltaire Almighty* (pp. 507–08), appears in **11 MEMs** (LIT–VOLTAIRE, MONTESQUIEU, FRENCH–REVOLUTION, LOUIS–XIV, DYNASTY–BOURBON, FRENCH–REVOLUTION–JACOBIN, FRENCH–REVOLUTION–ROBESPIERRE, WAR–SEVEN–YEARS, DESCARTES, HUGO, DENMARK). This was intentional integration for 20% quote and ARC alignment.
+The same verbatim block from Roger Pearson, *Voltaire Almighty* (pp. 507–08), appears in **11 MEMs** (LIT–VOLTAIRE, LIT–MONTESQUIEU, FRENCH–REVOLUTION, LOUIS–XIV, DYNASTY–BOURBON, FRENCH–REVOLUTION–JACOBIN, FRENCH–REVOLUTION–ROBESPIERRE, WAR–SEVEN–YEARS, DESCARTES, HUGO, DENMARK). This was intentional integration for 20% quote and ARC alignment.
 
 **Redundancy:** Thematic, not structural. Optional improvement: where the same quote is used in multiple MEMs, vary the one-line integration sentence so each MEM’s angle (e.g. structure vs critique, pre-Revolution, Louis XIV reception) is clearly distinct. No mandatory remediation.
 

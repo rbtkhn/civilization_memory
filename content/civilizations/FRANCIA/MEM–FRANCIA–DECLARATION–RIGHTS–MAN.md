@@ -19,6 +19,16 @@ authority, superseding dynasty, custom, and inherited order.
 
 The Declaration is legitimacy by proclamation.
 
+Descartes had grounded certainty in the thinking subject, not in tradition:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the sovereignty the Declaration would claim:
+
+> "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────

@@ -331,7 +331,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–THIRD–COALITION — prior campaign
 • MEM–FRANCIA–WAR–FIFTH–COALITION — subsequent (1809)
 • MEM–FRANCIA–WAR–SIXTH–COALITION — 1813 reversal
-• MEM–FRANCIA–NAPOLEONIC–CODE — legitimacy apparatus
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — legitimacy apparatus
 
 Cross-civilizational:
 • MEM–GERMANIA–WAR–JENA — GERMANIA perspective (near-death experience)

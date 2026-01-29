@@ -21,6 +21,16 @@ He **reconstitutes it as moral command**.
 
 Contradictions are preserved without synthesis.
 
+Descartes had already relocated certainty from tradition to the thinking subject:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau opens *Du contrat social*:
+
+> "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 ────────────────────────────────────────────────────────────
 II. FORMATIVE ORIGINS & PSYCHOLOGICAL POSTURE
 ────────────────────────────────────────────────────────────

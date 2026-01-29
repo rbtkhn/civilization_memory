@@ -45,13 +45,26 @@ Context:
 • Enlightenment moral critique
 • Loss of confidence in absolutist symbolism
 
+Descartes had supplied the epistemic ground on which later critique would stand:
+
+> "The first [precept] was never to accept anything as true that I did not know evidently to be so."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Roger Pearson frames Voltaire as "not an original thinker, but a 'great
 and tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
 Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
 [ERC-SECONDARY]—a figure who helped hollow out sacral and absolutist
-legitimacy before the Revolution. That pre-Revolutionary intellectual
-erosion is part of the context in which "Enlightenment moral critique"
-operates.
+legitimacy before the Revolution. Voltaire himself had written:
+
+> "Those who can make you believe absurdities can make you commit atrocities."
+> — Voltaire, *Questions sur les miracles* (1765) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had supplied the grammar of legitimate rupture:
+
+> "The problem is to find a form of association which will defend and protect with the whole common force the person and goods of each associate, and in which each, while uniting himself with all, may still obey himself alone, and remain as free as before."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+That pre-Revolutionary intellectual erosion is part of the context in which "Enlightenment moral critique" operates.
 
 Legitimacy decays faster than institutions can adapt.
 

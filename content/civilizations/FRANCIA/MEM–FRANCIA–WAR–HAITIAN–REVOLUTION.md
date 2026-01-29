@@ -20,6 +20,16 @@ collided with colonial economy, racial hierarchy, and imperial survival.
 Haiti is not peripheral.
 It is **revolution turned mirror**.
 
+Descartes had grounded certainty in the thinking subject, not in inherited authority:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the liberty the Revolution proclaimed and slavery denied:
+
+> "To renounce liberty is to renounce being a man, to surrender the rights of humanity and even its duties."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────

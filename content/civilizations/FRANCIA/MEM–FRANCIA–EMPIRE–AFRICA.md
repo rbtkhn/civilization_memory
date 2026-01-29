@@ -230,7 +230,7 @@ Same-civilization (≥10):
 • MEM–FRANCIA–EMPIRE–INDOCHINA — Paired colonial possession, different decolonization; breaks if removed.
 • MEM–FRANCIA–THIRD–REPUBLIC — Empire builder, African conquest; breaks if removed.
 • MEM–FRANCIA–VICHY — Free France in Africa, Brazzaville; breaks if removed.
-• MEM–FRANCIA–AFRICAN–SLAVERY — Earlier African dimension (slavery, abolition); breaks if removed.
+• MEM–FRANCIA–EMPIRE–AFRICAN–SLAVERY — Earlier African dimension (slavery, abolition); breaks if removed.
 • MEM–FRANCIA–FRANCOPHONIE — Post-colonial soft power, African dimension; breaks if removed.
 • MEM–FRANCIA–CIV–DOCTRINE — Universalism and imperial limit; breaks if removed.
 • MEM–FRANCIA–LOUIS–XIV — Contrast: no African empire; breaks if removed.

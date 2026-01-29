@@ -17,6 +17,16 @@ figure**: the individual through whom Anglian procedural restraint,
 American revolutionary success, and French universalist aspiration
 intersected—without successfully harmonizing.
 
+Descartes had relocated authority from tradition to reason:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the liberty Lafayette would claim to serve:
+
+> "Man is born free; and everywhere he is in chains."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Lafayette is a bridge that never becomes a foundation.
 
 Contradictions are preserved without synthesis.

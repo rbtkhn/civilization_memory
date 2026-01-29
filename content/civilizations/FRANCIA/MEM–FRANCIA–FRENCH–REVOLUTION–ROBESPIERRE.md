@@ -38,6 +38,11 @@ Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
 without substituting virtue for procedure. Robespierre inverts that:
 legality and publicity serve virtue; procedure yields to moral necessity.
 
+Rousseau had framed the logic Robespierre would execute:
+
+> "Whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Formative traits:
 • Rousseauian moral philosophy
 • Legalist absolutism

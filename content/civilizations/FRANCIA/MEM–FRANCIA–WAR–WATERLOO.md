@@ -341,7 +341,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–DYNASTY–BOURBON — restoration context
 • MEM–FRANCIA–FRENCH–REVOLUTION — revolutionary memory
 • MEM–FRANCIA–TALLEYRAND — Congress diplomacy
-• MEM–FRANCIA–NAPOLEONIC–CODE — legitimacy legacy
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — legitimacy legacy
 
 Cross-civilizational:
 • MEM–ANGLIA–WAR–WATERLOO — Wellington perspective

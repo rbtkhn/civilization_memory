@@ -62,6 +62,23 @@ royal imprisonment.
 
 Contradictions are preserved without synthesis.
 
+Descartes had grounded certainty in the thinking subject, not in royal or institutional authority:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Voltaire had framed the risk of arbitrary power:
+
+> "It is dangerous to be right when the government is wrong."
+> — Voltaire, letter (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed what the seizure of the Bastille would claim to undo:
+
+> "Man is born free; and everywhere he is in chains."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The Bastille embodied the "government" that could not tolerate being wrong; the crowd acted in the name of the sovereign people.
+
 ────────────────────────────────────────────────────────────
 II. PRE-14 JULY: THE BASTILLE AS SYMBOL
 ────────────────────────────────────────────────────────────

@@ -26,6 +26,16 @@ For Francia, the Estates-General encodes **legitimacy through assembly**—
 and the risk that assembly becomes a site of revolution when crown and
 orders fracture.
 
+Descartes had already shifted the ground of certainty from inherited authority to method:
+
+> "Divide each of the difficulties I would examine into as many parts as possible."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had defined the sovereign body the Estates would claim to become:
+
+> "Each of us puts his person and all his power in common under the supreme direction of the general will, and, in our corporate capacity, we receive each member as an indivisible part of the whole."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────

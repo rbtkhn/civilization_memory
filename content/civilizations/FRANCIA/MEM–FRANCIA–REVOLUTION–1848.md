@@ -18,6 +18,16 @@ universalist shock without material resolution**: a moment when moral
 authority, popular legitimacy, and republican declaration surged faster
 than administrative capacity, coercive coherence, or economic stability.
 
+Descartes had supplied the rationalist ground on which revolutionary certainty would later stand:
+
+> "Never to accept anything as true that I did not know evidently to be so."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had supplied the grammar 1848 would invoke:
+
+> "Man is born free; and everywhere he is in chains."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 1848 is not a successful revolution.
 It is a **revealed mismatch**.
 

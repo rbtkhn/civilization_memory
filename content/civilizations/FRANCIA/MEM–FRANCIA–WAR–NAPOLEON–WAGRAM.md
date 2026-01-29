@@ -339,7 +339,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–CONTINENTAL–SYSTEM — extraction mechanism
 • MEM–FRANCIA–AUSTRIA–HUNGARY — Habsburg marriage context
 • MEM–FRANCIA–SPAIN — Peninsula War drain
-• MEM–FRANCIA–NAPOLEONIC–CODE — legitimacy apparatus
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — legitimacy apparatus
 
 Cross-civilizational:
 • MEM–AUSTRIA–WAR–WAGRAM — Austrian perspective

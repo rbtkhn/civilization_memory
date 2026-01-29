@@ -89,19 +89,14 @@ Conditions:
 • Quebec and Montreal are the keys to New France—control of the
   St. Lawrence means control of Canada
 
-ARC–DISCOVERY: EXPANDED SEARCH
-Source: Fred Anderson, *Crucible of War* (2000)
-Justification: Seven Years' War as global conflict; no ARC–FRANCIA
-listed author provides equivalent North American theater synthesis.
-
-Fred Anderson on the war's global character:
+Fred Anderson (ARC-T-MODERN) on the war's global character:
 
 "The war that began in Europe spread outward to become a struggle for
 empire on a global scale, demanding levels of coordination, finance,
 and maritime power that few states could sustain; it required the
 integration of strategy, supply, and political credit over distances
 that shattered older habits of war."
-— Fred Anderson, *Crucible of War* (2000) [ERC-SECONDARY]
+— Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
 
 The Quebec theater is where that global war delivers a continental
 verdict: Britain can project power up the St. Lawrence; France
@@ -248,12 +243,12 @@ IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
 • Keegan, John. *Fields of Battle: The Wars for North America*. New York: Alfred A. Knopf, 1996. (ARC-T-MODERN)
-• Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America*. New York: Knopf, 2000. (ARC–DISCOVERY)
+• Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America*. New York: Knopf, 2000. (ARC-T-MODERN)
 • Choiseul, Duc de. Correspondence, 1763. (ERC-PRIMARY)
 
 ADDITIONAL: Parkman, *Montcalm and Wolfe*; Eccles, *The French in North America*; McLynn, *1759*.
 
-ARC version used: CIV–ARC–FRANCIA v1.7.
+ARC version used: CIV–ARC–FRANCIA v1.9.
 
 ────────────────────────────────────────────────────────────
 X. MEM INGEST BOOTSTRAP (MANDATORY)

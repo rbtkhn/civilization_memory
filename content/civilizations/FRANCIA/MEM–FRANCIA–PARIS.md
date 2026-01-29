@@ -48,6 +48,16 @@ core**: the capital that rose with the Capetians, was lost to the
 English (Treaty of Troyes 1420) and recovered by the Valois (1436),
 and became the stage for revolution, Commune, and enduring centralization.
 
+Descartes had relocated certainty from tradition to the thinking subject—a move that would later center Paris as the seat of rationalist authority:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the citizen-body Paris would claim to embody:
+
+> "The real meaning of the word citizen has been almost wholly lost in modern times; most people mistake a town for a city, and a townsman for a citizen. They do not know that houses make a town, but citizens a city."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 For Francia, Paris encodes **legitimacy through centrality**—the city
 that binds crown, administration, and national identity, and whose
 loss or capture signifies legitimacy crisis (1420, 1871, 1940).

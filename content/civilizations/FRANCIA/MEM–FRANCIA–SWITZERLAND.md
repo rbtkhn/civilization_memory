@@ -19,6 +19,11 @@ It is a **pressure-release valve**.
 
 Contradictions are preserved without synthesis.
 
+Voltaire, who lived at Ferney on the Genevan border, framed Swiss exception:
+
+> "The Swiss have preserved their liberty by their mountains and their courage; they sell their blood to their neighbours but never their freedom."
+> — Voltaire, *Essai sur les mœurs* (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 ────────────────────────────────────────────────────────────
 II. MEDIEVAL ORIGINS & SEPARATION
 ────────────────────────────────────────────────────────────

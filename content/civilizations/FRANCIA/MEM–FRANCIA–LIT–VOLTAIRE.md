@@ -25,6 +25,11 @@ He **dissolves belief in the old one**.
 
 Contradictions are preserved without synthesis.
 
+Descartes had supplied the epistemic ground Voltaire would weaponize:
+
+> "Never to accept anything as true that I did not know evidently to be so."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Verbatim scholarship (ARC-T-MODERN):
 
 Roger Pearson's biography frames the figure that emerges from the life
@@ -35,6 +40,20 @@ delegitimation rather than systematic construction (Roger Pearson,
 2005], pp. 507–08) (ARC-T-MODERN) [ERC-SECONDARY]. That formulation
 aligns with this MEM's thesis: Voltaire weakens the old regime without
 designing its successor; critique outruns construction.
+
+Voltaire's own closing in *Candide* captures the limit of his project:
+
+> "That is well said, replied Candide, but we must cultivate our garden."
+> — Voltaire, *Candide* (1759) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Critique does not build; it clears. The garden is local, not universal.
+
+Rousseau, by contrast, supplied the moral sovereignty Voltaire refused to supply:
+
+> "Each of us puts his person and all his power in common under the supreme direction of the general will, and, in our corporate capacity, we receive each member as an indivisible part of the whole."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Voltaire dissolves; Rousseau reconstitutes.
 
 ────────────────────────────────────────────────────────────
 II. FORMATIVE ORIGINS & INTELLECTUAL POSTURE
@@ -142,6 +161,7 @@ Tension preserved without verdict.
 IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES (verbatim in MEM):
+• Voltaire. *Candide* (1759). (ARC-T-EARLY-MOD)
 • Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
   London: Bloomsbury, 2005. (ARC-T-MODERN)
 

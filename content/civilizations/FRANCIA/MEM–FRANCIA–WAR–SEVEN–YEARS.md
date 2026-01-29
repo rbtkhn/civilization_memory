@@ -64,6 +64,13 @@ with imperial realities:
 > that shattered older habits of war.”
 > — Fred Anderson, *Crucible of War*
 
+Voltaire, writing in the same decade, reduces the stakes to a phrase:
+
+> "You know that these two nations are at war for a few acres of snow in Canada."
+> — Voltaire, *Candide* (1759) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The satire does not deny the war's cost; it exposes the disproportion between claim and theatre.
+
 ────────────────────────────────────────────────────────────
 III. MULTI-THEATER OVEREXTENSION
 ────────────────────────────────────────────────────────────

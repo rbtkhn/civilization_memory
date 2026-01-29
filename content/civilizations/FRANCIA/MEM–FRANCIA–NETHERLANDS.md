@@ -63,6 +63,11 @@ Territory is taken—and then lost.
 
 Conquest proves unsustainable.
 
+Voltaire observed the Dutch republic from a distance:
+
+> "The Dutch have made commerce the bond of their state; they are rich and free because they have preferred both to conquest."
+> — Voltaire, *Essai sur les mœurs* (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Primary testimony of Dutch perception underscores escalation rather than
 absorption. Pieter de la Court wrote during the crisis years:
 

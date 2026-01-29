@@ -1,4 +1,4 @@
-MEM–FRANCIA–AFRICAN–SLAVERY — v1.0
+MEM–FRANCIA–EMPIRE–AFRICAN–SLAVERY — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
@@ -12,20 +12,30 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves African slavery as **Francia’s deepest imperial
+This file preserves African slavery as **Francia's deepest imperial
 moral contradiction**: a system that financed global ambition and
-colonial prestige while directly undermining Francia’s universalist
+colonial prestige while directly undermining Francia's universalist
 claims of reason, equality, and moral authority.
 
-Slavery is not peripheral to Francia’s empire.
+Slavery is not peripheral to Francia's empire.
 It is **embedded in its Atlantic failure**.
+
+Descartes had made the thinking subject the ground of certainty:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed what slavery violated:
+
+> "To renounce liberty is to renounce being a man, to surrender the rights of humanity and even its duties."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. SLAVERY AS ECONOMIC FOUNDATION
 ────────────────────────────────────────────────────────────
-Francia’s Atlantic economy depends heavily on coerced labor.
+Francia's Atlantic economy depends heavily on coerced labor.
 
 Core features:
 • Plantation slavery in Saint-Domingue and Caribbean
@@ -113,12 +123,12 @@ VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Universalism collapses when selectively applied.
 • Plantation wealth delays reform but magnifies collapse.
-• Haiti is slavery’s verdict on Francia.
+• Haiti is slavery's verdict on Francia.
 • Moral authority cannot coexist with mass coercion.
-• Slavery haunts Francia’s revolutionary legacy.
+• Slavery haunts Francia's revolutionary legacy.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–AFRICAN–SLAVERY — v1.0
+END OF FILE — MEM–FRANCIA–EMPIRE–AFRICAN–SLAVERY — v1.0
 ────────────────────────────────────────────────────────────

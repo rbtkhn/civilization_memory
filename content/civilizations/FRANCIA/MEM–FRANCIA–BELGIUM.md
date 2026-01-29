@@ -237,6 +237,9 @@ Belgium and other civilizational memory files, as required.
 
 Connected MEM files include:
 
+• MEM–FRANCIA–BELGIUM–ANTWERP  
+  Antwerp is the premier port within the Belgian buffer; its fate (Scheldt closure/reopening, Napoleonic arsenal, post-1815 denial) encodes Francia's denied northern port; breaks if removed.
+
 • MEM–FRANCIA–NETHERLANDS  
   The Netherlands function as a partially diffusive buffer where
   escalation can be delayed through finance, coalition signaling,

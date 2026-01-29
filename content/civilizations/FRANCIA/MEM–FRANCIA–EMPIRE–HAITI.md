@@ -31,6 +31,16 @@ Saint-Domingue was not periphery.
 It was **empire's profit center**—and the place where universalist
 rhetoric and slave labor collided with revolutionary force.
 
+Descartes had grounded certainty in the thinking subject, not in inherited authority:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the liberty slavery denied:
+
+> "To renounce liberty is to renounce being a man, to surrender the rights of humanity and even its duties."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
@@ -86,6 +96,17 @@ Choiseul negotiates the Treaty of Paris (1763):
 • Louisiana east of Mississippi to Britain; west of Mississippi to
   Spain
 • French Caribbean retained: Saint-Domingue, Martinique, Guadeloupe
+
+Anderson (ARC-T-MODERN) explains why the war delivered that verdict:
+
+> "Success in the war depended less on victories in Europe than on the
+> ability to sustain armies and fleets across oceans, to coordinate
+> distant campaigns, and to turn maritime access into political and
+> fiscal endurance."
+> — Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
+
+France had lost the capacity to hold North America; retaining the sugar
+islands was the rational salvage of a global defeat.
 
 Robert Tombs (ARC–FRANCIA) on imperial priorities:
 
@@ -261,7 +282,7 @@ Same-civilization (≥10):
 • MEM–FRANCIA–WAR–HAITIAN–REVOLUTION — War and revolution; breaks if removed.
 • MEM–FRANCIA–WAR–QUEBEC — Treaty of Paris, Canada lost for sugar; breaks if removed.
 • MEM–FRANCIA–WAR–SEVEN–YEARS — War that produced Treaty of Paris; breaks if removed.
-• MEM–FRANCIA–AFRICAN–SLAVERY — Slavery in Saint-Domingue; breaks if removed.
+• MEM–FRANCIA–EMPIRE–AFRICAN–SLAVERY — Slavery in Saint-Domingue; breaks if removed.
 • MEM–FRANCIA–FRENCH–REVOLUTION — Revolutionary contagion; breaks if removed.
 • MEM–FRANCIA–NAPOLEON — Reconquest attempt, Louisiana sale; breaks if removed.
 • MEM–FRANCIA–CIV–DOCTRINE — Universalism and its limit; breaks if removed.
@@ -275,6 +296,7 @@ GEO MEMs (≥2):
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Anderson, Fred. *Crucible of War: The Seven Years' War and the Fate of Empire in British North America*. New York: Knopf, 2000. (ARC-T-MODERN)
 • Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Keegan, John. *Fields of Battle: The Wars for North America*. New York: Alfred A. Knopf, 1996. (ARC-T-MODERN)
 • Tombs, Robert. *France 1814–1914*. London: Longman, 1996. (ARC-T-MODERN)
@@ -283,7 +305,7 @@ CITED SOURCES:
 
 ADDITIONAL: Girard, *The Slaves Who Defeated Napoleon*; Popkin, *You Are All Free*.
 
-ARC version used: CIV–ARC–FRANCIA v1.7.
+ARC version used: CIV–ARC–FRANCIA v1.9.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)

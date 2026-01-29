@@ -370,7 +370,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — authority collapse
 • MEM–FRANCIA–FRENCH–REVOLUTION — revolutionary context
 • MEM–FRANCIA–WAR–SECOND–COALITION — campaign context
-• MEM–FRANCIA–NAPOLEONIC–CODE — post-Marengo institutionalization
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — post-Marengo institutionalization
 • MEM–FRANCIA–GEO–ALPS — crossing route
 • MEM–FRANCIA–ITALY — Italian campaign theater
 • MEM–FRANCIA–WAR–FIRST–COALITION — earlier Italian campaigns

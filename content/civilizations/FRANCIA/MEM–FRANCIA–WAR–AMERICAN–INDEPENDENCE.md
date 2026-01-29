@@ -22,6 +22,13 @@ For Francia, the war is triumph without sustainability.
 
 Contradictions are preserved without synthesis.
 
+Voltaire had already framed Anglophile admiration in his *Lettres philosophiques*:
+
+> "In England it is thought good to kill an admiral from time to time to encourage the others."
+> — Voltaire, *Candide* (1759) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The line (on Admiral Byng) captures both Enlightenment interest in English liberty and the satirist's eye for institutional cruelty—a lens that would later be turned on Old Regime Francia.
+
 ────────────────────────────────────────────────────────────
 II. MOTIVATION FOR INTERVENTION
 ────────────────────────────────────────────────────────────

@@ -12,6 +12,16 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
+Descartes had supplied the rationalist ground on which revolutionary certainty would later stand:
+
+> "Never to accept anything as true that I did not know evidently to be so."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had supplied the formula the Terror would apply:
+
+> "Whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 This file preserves the Reign of Terror as **Francia's coercive
 legitimacy substitution phase**: the period in which universalist
 principle, unable to secure consent or stability, is enforced through

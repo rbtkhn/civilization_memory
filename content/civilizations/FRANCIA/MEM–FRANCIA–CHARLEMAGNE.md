@@ -204,7 +204,7 @@ Referenced MEM files (illustrative, non-exhaustive):
 FRANCIA:
 • MEM–FRANCIA–WAR–THIRTY–YEARS (legitimacy reframing)
 • MEM–FRANCIA–NAPOLEON (imperial revival by force)
-• MEM–FRANCIA–NAPOLEONIC–CODE (law as legitimacy reset)
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE (law as legitimacy reset)
 
 GERMANIA:
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE (imperial continuity without unity)

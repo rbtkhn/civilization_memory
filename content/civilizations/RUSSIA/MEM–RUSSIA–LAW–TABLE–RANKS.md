@@ -295,7 +295,7 @@ GEO Connections — ≥2 Required:
 
 Cross-Civilizational:
 • MEM–GERMANIA–PRUSSIA — comparable bureaucratic systems
-• MEM–FRANCIA–NAPOLEONIC–CODE — comparative administrative modernization
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — comparative administrative modernization
 
 Each connection is structurally required.
 

@@ -449,7 +449,7 @@ Belief Status:
 
 ENTRY 0009
 Source:
-• MEM–FRANCIA–NAPOLEONIC–CODE — v1.0
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — v1.0
 
 Ingest Type:
 • Legal Reset Memory
@@ -1079,6 +1079,63 @@ ASSUMPTIONS SUMMARY
 | 3 | Royal expansion by cooperation | H | Yes |
 
 ────────────────────────────────────────────────────────────
+
+SYNTHESIS 0008 (ENTRY 0006 + cross-civ MEM–GERMANIA–WAR–SEVEN–YEARS + CORE + tri-frame)
+────────────────────────────────────────────────────────────
+Outcome:
+• Francia's civilizational grammar (declarative legitimacy, Crown as source
+  of the claim, Reset-as-Renewal) did not supply institutional or
+  legitimating resources for an Anglia-style "replace rulers before
+  systems" path; when demonstration of capacity failed (post-1763), the
+  grammar inclined toward rupture and successor-declaration. 1763 marks
+  an interval: demonstration had failed but the successor's declaration
+  was not yet possible. The Seven Years' War produced opposite
+  demonstration outcomes for Francia (failed) and Germania (succeeded)—
+  same war, same year, opposite structural outcome.
+
+Status: FROZEN
+Confidence: TIER 2 (70-90% — synthesized from MEMs, CORE, tri-frame session)
+Freeze Date: January 2026
+Source: ENTRY 0006 (MEM–FRANCIA–WAR–SEVEN–YEARS), MEM–GERMANIA–WAR–SEVEN–YEARS (cross-civ), CIV–CORE–FRANCIA § III.A, CIV–CORE–ANGLIA (Replacement-Without-Rupture), tri-frame (demonstration vs declaration)
+
+ASSUMPTIONS BOX — SYNTHESIS 0008
+────────────────────────────────────────────────────────────
+ASSUMPTION 1: Grammar blocked Anglia-style path
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Francia's grammar (declarative legitimacy, Reset-as-Renewal) did not supply "replace rulers before systems"; when demonstration failed, rupture became the thinkable path |
+| BASIS | CIV–CORE–FRANCIA § III.A (Preserve the state even if the regime must fall); CIV–CORE–ANGLIA (Replacement-Without-Rupture, revolution as failure); ENTRY 0006 |
+| IF_WRONG | Procedural replacement within the system would have been available |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: 1763 as interval (demonstration failed, declaration not yet possible)
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | 1763 marks an interval: Crown could no longer demonstrate survival; successor who would declare "the state is preserved" did not yet exist; gap makes 1789 thinkable |
+| BASIS | MEM–FRANCIA–WAR–SEVEN–YEARS (legitimacy shock, "state persists; belief does not," fiscal credibility irreversible without drastic change); tri-frame (demonstration vs declaration) |
+| IF_WRONG | Interval would be blurred or declaration would have been possible earlier |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Same war, opposite demonstration outcome (cross-civ)
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Seven Years' War (1763) produced opposite demonstration outcomes: Francia failed (credibility break, interval opens); Germania (Prussia) succeeded (endurance under encirclement, no interval) |
+| BASIS | MEM–FRANCIA–WAR–SEVEN–YEARS; MEM–GERMANIA–WAR–SEVEN–YEARS; Anderson "the Seven Years' War taught different lessons to different states" |
+| IF_WRONG | Same war would produce same structural outcome or different framing |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Grammar blocked Anglia-style path | H | Yes |
+| 2 | 1763 as interval | H | Yes |
+| 3 | Same war opposite outcome (cross-civ) | H | Yes |
+
+────────────────────────────────────────────────────────────
 VII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
@@ -1204,6 +1261,62 @@ PROPOSED RLL CANDIDATES:
     defection legible as restoration; continuity under breakdown = same grammar
     held; material recovery follows when grammar again generates extraction;
     narrative irreversibility (war remembered as legitimacy resurrection).
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0012 (CANDIDATE): Francia's civilizational grammar
+  (declarative legitimacy, Crown as source of the claim, Reset-as-Renewal)
+  did not supply institutional or legitimating resources for an
+  Anglia-style "replace rulers before systems" path; when demonstration
+  of capacity failed (e.g. post-1763), the grammar inclined toward
+  rupture and successor-declaration rather than procedural replacement
+  of the ruler.
+  Derivation: ENTRY 0006, CIV–CORE–FRANCIA § III.A, CIV–CORE–ANGLIA
+    (Replacement-Without-Rupture), tri-frame session (grammar blocks path)
+  Frame: MERCOURIS
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0013 (CANDIDATE): 1763 marks an interval in Francia's
+  legitimacy sequence: demonstration of survival (capacity to back the
+  universal claim) had already failed, but the performative declaration
+  of survival (rupture and re-articulation by a successor) was not yet
+  possible. The Crown still held the badge but could no longer demonstrate
+  continuity; the successor who would declare "the state is preserved"
+  did not yet exist. That gap is what makes the war a "silent
+  pre-revolution"—the diagnostic that makes 1789 thinkable.
+  Derivation: ENTRY 0006, tri-frame (demonstration vs declaration)
+  Frame: MERCOURIS
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0014 (CANDIDATE): The Seven Years' War (1763) produced
+  opposite demonstration outcomes for Francia and Germania: for Francia,
+  the war was a stress test the system failed (credibility break, interval
+  opens); for Germania (Prussia), the same war was a stress test the
+  system passed (endurance under encirclement, no interval). Same war,
+  same year—opposite structural outcome.
+  Derivation: ENTRY 0006, MEM–GERMANIA–WAR–SEVEN–YEARS (cross-civ),
+    CIV–CORE–FRANCIA § III.A, CIV–CORE–GERMANIA (competence-derived
+    legitimacy, DOCTRINE 05)
+  Frame: MERCOURIS
+  Cross-civ evidence: Seven Years' War (Francia: legitimacy shock;
+    Germania: endurance confirmation)
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0015 (CANDIDATE): MEMs that encode claim–capacity
+  divergence (legitimacy shock, diagnostic rupture) support both a
+  civilizational-grammar reading (legitimacy, universal claim,
+  declarative reach) and a structural reading (power distribution,
+  coalition logic, survival formula). The same MEM sections furnish
+  evidence for both; the civilizational grammar explains why the
+  rupture is experienced as a legitimacy crisis; the structural
+  reframe explains why the rupture is irreversible in material and
+  coalition terms.
+  Derivation: LEARN session (MEM–FRANCIA–WAR–SEVEN–YEARS); Mercouris
+    reframe (civilizational grammar vs Mearsheimer structural reframe);
+    tri-frame (Barnes irreversibility → Mearsheimer power/coalition/
+    survival → MEM section linkage)
+  Frame: MERCOURIS (meta-observation on MEM dual-readability)
+  Test case: MEM–FRANCIA–WAR–SEVEN–YEARS (Sections II–VI: entry,
+    multi-theater, maritime, continental, fiscal)
   Status: PROPOSED · NOT BOUND
 
 DOMAIN: WAR (Conflict-specific constraints)
@@ -1339,7 +1452,7 @@ Current counts:
 Phase: I (Accumulation)
 Next Entry ID: 0015
 Next Synthesis ID: 0008
-Next RLL ID: RLL–FRANCIA–0012
+Next RLL ID: RLL–FRANCIA–0016
 
 Session Activity (January 2026):
 • SYNTHESIS 0005 frozen (TRI-FRAME: extraction collapse mechanism)
@@ -1362,6 +1475,8 @@ Session Activity (January 2026):
 • LEARN: Post-Reims (1431–1453) mapped onto SYNTHESIS 0004—Medieval extension added: recovery through rupture (Hundred Years' War); symbolic reassertion (Reims, Joan, fleur-de-lys) before procedural continuity (standing army, taille, territorial recovery); ENTRY 0013, RLL–0011. 29 Jan 2026.
 • LEARN: Tri-frame summary (Barnes + Mearsheimer + Mercouris) on Joan and post-Reims added to RLL–0011 and ENTRY 0013. 29 Jan 2026.
 • LEARN: ENTRY 0014 added—source MEM–FRANCIA–AQUITAINE; 1453 (Castillon, Bordeaux) as endpoint of post-Reims material recovery; Aquitaine reabsorption completes SYNTHESIS 0004 medieval extension and RLL–0011 sequence. 29 Jan 2026.
+• WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANIA–WAR–SEVEN–YEARS + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCIA–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
+• LEARN: RLL–FRANCIA–0015 (CANDIDATE) proposed—MEMs encoding claim–capacity divergence support both civilizational-grammar (legitimacy) and structural (power/coalition/survival) readings; same MEM sections furnish both; Mercouris reframe (MEM–FRANCIA–WAR–SEVEN–YEARS Sections II–VI). GENERAL domain. 29 Jan 2026.
 
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE

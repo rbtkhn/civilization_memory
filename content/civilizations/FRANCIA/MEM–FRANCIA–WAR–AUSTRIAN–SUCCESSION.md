@@ -21,6 +21,13 @@ For Francia, the war delivers prestige without transformation.
 
 Contradictions are preserved without synthesis.
 
+Voltaire, writing in the same decade, framed dynastic war:
+
+> "The ambition of princes has caused more misery than the ambition of peoples."
+> — Voltaire, *Essai sur les mœurs* (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The War of the Austrian Succession fits that grammar: prestige for courts, cost for nations.
+
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT & ENTRY CONDITIONS
 ────────────────────────────────────────────────────────────

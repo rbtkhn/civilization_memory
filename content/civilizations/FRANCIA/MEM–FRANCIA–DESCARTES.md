@@ -51,8 +51,10 @@ Core moves:
 • Isolation of the thinking subject
 • Reconstruction from clear and distinct ideas
 
-Foundational axiom:
-> Cogito, ergo sum.
+Foundational axiom—Descartes in his own words:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
 Certainty begins internally, not socially.
 
@@ -112,6 +114,11 @@ Within Francia’s intellectual sequence:
 • Descartes — epistemic reset (how we know)
 • Voltaire — corrosive critique (what we mock)
 • Rousseau — moral absolutism (what we must be)
+
+Rousseau had framed the moral sovereignty that would replace procedural authority:
+
+> "Whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
 Roger Pearson describes Voltaire as "not an original thinker, but a
 'great and tireless communicator'" (*Voltaire Almighty: A Life in

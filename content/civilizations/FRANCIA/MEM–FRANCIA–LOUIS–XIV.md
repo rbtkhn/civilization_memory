@@ -135,7 +135,12 @@ admiration**, replacing force with emulation while masking underlying
 resource strain (*The Age of Reason Begins*).
 
 Voltaire's *Le Siècle de Louis XIV* fixed the reign in Enlightenment
-memory. Roger Pearson describes Voltaire as "not an original thinker,
+memory. Voltaire himself frames the age:
+
+> "All the nations of Europe have called the age of Louis XIV the age of great men."
+> — Voltaire, *Le Siècle de Louis XIV* (1751) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Roger Pearson describes Voltaire as "not an original thinker,
 but a 'great and tireless communicator'" (*Voltaire Almighty: A Life in
 Pursuit of Freedom* [London: Bloomsbury, 2005], pp. 507–08)
 (ARC-T-MODERN) [ERC-SECONDARY]—the figure who transmitted and reframed

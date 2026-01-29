@@ -323,7 +323,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–SIXTH–COALITION — campaign context
 • MEM–FRANCIA–WAR–FIFTH–COALITION — 1809 context
 • MEM–FRANCIA–TALLEYRAND — post-defeat diplomacy
-• MEM–FRANCIA–NAPOLEONIC–CODE — legitimacy apparatus
+• MEM–FRANCIA–LAW–NAPOLEONIC–CODE — legitimacy apparatus
 • MEM–FRANCIA–DYNASTY–BOURBON — restoration context
 
 Cross-civilizational:

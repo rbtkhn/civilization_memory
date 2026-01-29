@@ -87,8 +87,17 @@ Roger Pearson frames Voltaire as "not an original thinker, but a 'great
 and tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
 Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
 [ERC-SECONDARY]—a figure who helped hollow out sacral and absolutist
-legitimacy before the Revolution. That intellectual erosion is part
-of what "Enlightenment delegitimization" denotes.
+legitimacy before the Revolution. Voltaire's universal history frames customs and power:
+
+> "History is the recital of facts represented as true. Fable is the recital of facts represented as false."
+> — Voltaire, *The Philosophy of History* (1765) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had supplied the alternative legitimacy that would replace the Bourbon claim:
+
+> "The problem is to find a form of association which will defend and protect with the whole common force the person and goods of each associate, and in which each, while uniting himself with all, may still obey himself alone, and remain as free as before."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+That intellectual erosion is part of what "Enlightenment delegitimization" denotes.
 
 Revolution negated absolutist legitimacy entirely.
 

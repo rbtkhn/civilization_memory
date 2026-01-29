@@ -30,6 +30,21 @@ Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
 Popkin thus resists **simple blame**—Louis XVI's failure is part of a
 complex laboratory of modern politics, not a one-cause verdict.
 
+Descartes had relocated authority from tradition to reason a century and a half earlier:
+
+> "Never to accept anything as true that I did not know evidently to be so."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Voltaire, who died months before the fall of the Bastille, had framed the monarchy's exposure to opinion:
+
+> "Opinion has caused more trouble on this little earth than plagues or earthquakes."
+> — Voltaire, *Dictionnaire philosophique* (1764) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the legitimacy the crown could no longer claim:
+
+> "Man is born free; and everywhere he is in chains."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 ────────────────────────────────────────────────────────────
 II. INHERITED CRISIS CONDITIONS
 ────────────────────────────────────────────────────────────

@@ -88,6 +88,11 @@ VI. MONTaIGNE VS DESCARTES (STRUCTURAL CONTRAST)
 • Montaigne: doubt to limit action
 • Descartes: doubt to rebuild certainty
 
+Descartes had turned doubt into a tool for certainty:
+
+> "I think, therefore I am."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Montaigne cools conflict.
 Descartes accelerates system-building.
 

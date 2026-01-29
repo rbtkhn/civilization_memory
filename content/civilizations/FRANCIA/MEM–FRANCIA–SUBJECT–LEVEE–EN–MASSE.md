@@ -52,6 +52,16 @@ transformation of warfare through mass mobilization**: the decree
 that invented the modern citizen-soldier and made France the dominant
 military power of the Revolutionary and Napoleonic era.
 
+Descartes had supplied the rationalist grammar that would later underpin revolutionary method:
+
+> "Divide each of the difficulties I would examine into as many parts as possible."
+> — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Rousseau had framed the citizen-obligation the Levée would enforce:
+
+> "Each of us puts his person and all his power in common under the supreme direction of the general will, and, in our corporate capacity, we receive each member as an indivisible part of the whole."
+> — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 For Francia, the Levée is **the military expression of revolutionary
 citizenship**—the moment when the nation replaced the king's army
 with the people's army. This transformation proved so successful
