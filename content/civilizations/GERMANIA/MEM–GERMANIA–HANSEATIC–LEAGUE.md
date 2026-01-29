@@ -2,7 +2,8 @@ MEM–GERMANIA–HANSEATIC–LEAGUE — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–HANSEATIC–LEAGUE v2.0
 Civilization: GERMANIA
 Subject: Hanseatic League (Commercial Confederation and Baltic Hegemony)
 Dates: c. 1150–1669 AD (formal dissolution)
@@ -318,27 +319,96 @@ Contradictions preserved without verdict.
 XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–GERMANIA–HAMBURG — leading Hanseatic successor city
-• MEM–GERMANIA–BREMEN — surviving Hanseatic city-state
-• MEM–GERMANIA–LUBECK — "Queen of the Hanse"
-• MEM–GERMANIA–COLOGNE — western Hanseatic member
-• MEM–GERMANIA–PRUSSIA — eastern Hanseatic context
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE — imperial framework
-• MEM–GERMANIA–WAR–THIRTY–YEARS — destructive conclusion
-• MEM–GERMANIA–ZOLLVEREIN — commercial integration successor
-• MEM–GERMANIA–NETHERLANDS — Hanseatic competitor/successor
-• MEM–GERMANIA–BISMARCK — nation-state completion
+
+• MEM–GERMANIA–HAMBURG
+  Dependency: Leading Hanseatic successor city—Hamburg survived
+  as city-state continuing Hanseatic commercial tradition.
+  Breaks if removed: What became of Hanseatic cities undocumented.
+
+• MEM–GERMANIA–BREMEN
+  Dependency: Surviving Hanseatic city-state—Bremen retained free
+  city status through modern era.
+  Breaks if removed: Pattern of Hanseatic survival incomplete.
+
+• MEM–GERMANIA–LUBECK
+  Dependency: "Queen of the Hanse"—Lübeck = convening city,
+  leadership position, geographic hinge.
+  Breaks if removed: Who led the League disappears.
+
+• MEM–GERMANIA–COLOGNE
+  Dependency: Western Hanseatic member—Cologne anchored western
+  Hanseatic network on Rhine.
+  Breaks if removed: Western extension of League undocumented.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Eastern Hanseatic context—Prussian cities (Danzig,
+  Königsberg) linked to Teutonic Order and Hanse.
+  Breaks if removed: Eastern expansion of League unexplained.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Imperial framework—League operated within (and
+  despite) imperial constitutional structure.
+  Breaks if removed: Legal context of autonomous commercial
+  confederation disappears.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Destructive conclusion—Thirty Years' War devastated
+  Hanseatic cities and disrupted trade.
+  Breaks if removed: Why League declined unexplained.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Nation-state completion—Bismarck unified what Hanse
+  coordinated commercially.
+  Breaks if removed: Long-term German unification context disappears.
+
+• MEM–GERMANIA–TEUTONIC–ORDER
+  Dependency: Eastern parallel—Order and Hanse operated in
+  overlapping Baltic space; Prussian cities were Hanseatic.
+  Breaks if removed: Institutional parallel in eastern expansion
+  disappears.
+
+• MEM–GERMANIA–DANZIG
+  Dependency: Major eastern Hanseatic city—Danzig = key grain
+  trade node.
+  Breaks if removed: Prussian grain trade corridor undocumented.
 
 GEO MEMs (≥4):
-• MEM–GERMANIA–GEO–BALTIC–SEA — core Hanseatic waters
-• MEM–GERMANIA–GEO–NORTH–SEA — western commercial sphere
-• MEM–GERMANIA–GEO–ELBE–RIVER — Hamburg connection
-• MEM–GERMANIA–GEO–WESER–RIVER — Bremen connection
+
+• MEM–GERMANIA–GEO–BALTIC–SEA
+  Dependency: Core Hanseatic waters—Baltic = primary trading space.
+  Breaks if removed: Geographic logic of League disappears.
+
+• MEM–GERMANIA–GEO–NORTH–SEA
+  Dependency: Western commercial sphere—North Sea connected
+  Baltic to Atlantic trade.
+  Breaks if removed: Western extension of trade network undocumented.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Hamburg connection—Elbe = Hamburg's river access
+  to interior.
+  Breaks if removed: Hamburg's geographic advantage unclear.
+
+• MEM–GERMANIA–GEO–WESER–RIVER
+  Dependency: Bremen connection—Weser = Bremen's river access
+  to interior.
+  Breaks if removed: Bremen's geographic advantage unclear.
 
 Cross-civilization (≥3):
-• MEM–RUSSIA–NOVGOROD — eastern Kontor
-• MEM–SCANDINAVIA–DENMARK — Sound control, rivalry
-• MEM–SCANDINAVIA–NORWAY–BERGEN — stockfish trade
+
+• MEM–RUSSIA–NOVGOROD
+  Dependency: Eastern Kontor—Novgorod = source of furs, wax,
+  honey; eastern terminus of trade.
+  Breaks if removed: Eastern trade source disappears.
+
+• MEM–SCANDINAVIA–DENMARK
+  Dependency: Sound control, rivalry—Denmark controlled Sound
+  chokepoint; Hanse fought Denmark for access.
+  Breaks if removed: Why Sound mattered unexplained.
+
+• MEM–SCANDINAVIA–NORWAY–BERGEN
+  Dependency: Stockfish trade—Bergen Kontor = source of preserved
+  fish for European markets.
+  Breaks if removed: Norwegian trade dimension disappears.
 
 ────────────────────────────────────────────────────────────
 XIII. PRIMARY SOURCES & REFERENCES

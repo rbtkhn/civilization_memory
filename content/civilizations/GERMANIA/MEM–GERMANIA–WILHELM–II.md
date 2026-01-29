@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WILHELM–II v2.0
 Civilization: GERMANIA
 Subject: Kaiser Wilhelm II
 Dates: 1859–1941 AD (reign 1888–1918)
@@ -261,19 +262,69 @@ that made conflict inevitable.
 XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–BISMARCK (dismissed predecessor, inverted system)
-• MEM–GERMANIA–DYNASTY–HOHENZOLLERN (final Hohenzollern Kaiser)
-• MEM–GERMANIA–WAR–TIRPITZ (fleet architect under Wilhelm)
-• MEM–GERMANIA–PRUSSIA–FREDERICK–II (contrast: restraint under pressure)
-• MEM–GERMANIA–FREDERICK–I–BARBAROSSA (Wilhelm's mythic self-identification)
-• MEM–GERMANIA–PRUSSIA (inherited system)
-• MEM–GERMANIA–HITLER (successor catastrophe)
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Dismissed predecessor, inverted system—Wilhelm dismissed
+  Bismarck (1890) and abandoned restraint doctrine.
+  Breaks if removed: What was abandoned and why it mattered disappears.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Final Hohenzollern Kaiser—Wilhelm ended 500-year dynasty
+  through catastrophic misjudgment.
+  Breaks if removed: Dynastic dimension of failure disappears.
+
+• MEM–GERMANIA–WAR–TIRPITZ
+  Dependency: Fleet architect under Wilhelm—Tirpitz implemented Wilhelm's
+  naval obsession.
+  Breaks if removed: Naval policy loses its royal patron.
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Contrast: restraint under pressure—Frederick survived
+  coalition through caution; Wilhelm created coalition through aggression.
+  Breaks if removed: Historical contrast with Prussian tradition disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Inherited system—Wilhelm inherited Prussian administrative-
+  military machinery but used it without Bismarckian calibration.
+  Breaks if removed: What was misused undocumented.
+
+• MEM–GERMANIA–HITLER
+  Dependency: Successor catastrophe—Hitler represents second catastrophe
+  flowing from institutional damage Wilhelm caused.
+  Breaks if removed: Interwar causation chain incomplete.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: Founding victory—1870 created the Empire Wilhelm destroyed.
+  Breaks if removed: What was lost has no origin documentation.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–NORTH–SEA
+  Dependency: Naval theater—Wilhelm's fleet contested North Sea; theater
+  of strategic failure.
+  Breaks if removed: Geographic dimension of naval policy disappears.
 
 Cross-Civilizational:
-• MEM–ANGLIA–VICTORIA (grandmother)
-• MEM–ANGLIA–EDWARD–VII (uncle, diplomatic rival)
-• MEM–RUSSIA–NICHOLAS–II (cousin, fellow dynastic casualty)
-• MEM–AUSTRIA–FRANZ–JOSEPH (alliance partner)
+
+• MEM–ANGLIA–VICTORIA
+  Dependency: Grandmother—Victoria = grandmother whose country Wilhelm
+  antagonized despite family connection.
+  Breaks if removed: Family dimension of Anglo-German rivalry disappears.
+
+• MEM–ANGLIA–EDWARD–VII
+  Dependency: Uncle, diplomatic rival—Edward's diplomacy helped create
+  Entente that encircled Germany.
+  Breaks if removed: Personal diplomacy dimension unexplained.
+
+• MEM–RUSSIA–NICHOLAS–II
+  Dependency: Cousin, fellow dynastic casualty—both cousins lost thrones
+  in 1917-1918 revolutionary wave.
+  Breaks if removed: Dynastic parallel disappears.
+
+• MEM–AUSTRIA–FRANZ–JOSEPH
+  Dependency: Alliance partner—Austria-Hungary = alliance Wilhelm fatally
+  enabled in July 1914 crisis.
+  Breaks if removed: Alliance dynamics in July crisis unexplained.
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)
