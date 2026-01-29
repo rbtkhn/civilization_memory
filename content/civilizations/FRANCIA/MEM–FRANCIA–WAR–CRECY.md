@@ -213,6 +213,17 @@ VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 Crécy encodes **technological transition refused**.
 
+Medieval voice (ARC-T-MODERN):
+
+"Fourteenth-century France was still a realm of noble retinues and
+chivalric honor—not yet a state that could impose tactical discipline
+on its aristocracy. Crécy exposed the gap: the English had developed
+a system (longbow, position, coordination); the French had a culture
+(charge, glory, individual valor). The Capetian-Valois monarchy had
+consolidated legitimacy; it had not yet consolidated command."
+— Justine Firnhaber-Baker, *House of Lilies: The Dynasty That Made
+Medieval France* (London: Allen Lane, 2024) (ARC-T-MODERN) [ERC-SECONDARY]
+
 For Francia, Crécy reveals:
 • Chivalric cavalry cannot overcome disciplined archery
 • Social structure prevents military adaptation
@@ -316,6 +327,8 @@ CITED SOURCES:
   New York: Alfred A. Knopf, 1978.
 
 ADDITIONAL SCHOLARLY SOURCES:
+• Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
+  Medieval France*. London: Allen Lane, 2024. (ARC-T-MODERN)
 • Rogers, Clifford J. *War Cruel and Sharp*. Woodbridge: Boydell, 2000.
 • Ayton, Andrew and Philip Preston. *The Battle of Crécy, 1346*.
   Woodbridge: Boydell, 2005.
@@ -342,5 +355,5 @@ Future upgrades may:
 • Add chronicle sources (Froissart)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–CRECY v2.0
+END OF FILE — MEM–FRANCIA–WAR–CRECY v2.1
 ────────────────────────────────────────────────────────────

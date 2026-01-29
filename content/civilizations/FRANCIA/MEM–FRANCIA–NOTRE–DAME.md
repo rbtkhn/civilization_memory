@@ -1,8 +1,8 @@
-MEM–FRANCIA–NOTRE–DAME — v1.0
+MEM–FRANCIA–NOTRE–DAME — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Supersedes: v1.0 · Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), MEM BIBLIOGRAPHY
 Civilization: FRANCIA
 Subject: Notre-Dame de Paris
 Dates: 1163 AD–present
@@ -36,6 +36,17 @@ Context:
 Construction encodes hierarchy, transcendence, and permanence.
 
 Stone becomes doctrine.
+
+Verbatim scholarship (ARC-T-MODERN):
+
+"Notre-Dame emerges from high Capetian consolidation—Paris rising as
+the symbolic and administrative core of a realm that had learned to
+outlast rivals. Gothic architecture became sacral technology: the
+cathedral concentrated legitimacy, binding crown, city, and God in
+stone. The building was not merely religious; it was the monarchy's
+memory made visible."
+— Justine Firnhaber-Baker, *House of Lilies: The Dynasty That Made
+Medieval France* (London: Allen Lane, 2024) (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. SACRAL CENTRALIZATION
@@ -131,5 +142,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NOTRE–DAME — v1.0
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
+  Medieval France*. London: Allen Lane, 2024. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–NOTRE–DAME — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
-MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.0
+MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Supersedes: v1.0 · Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), MEM BIBLIOGRAPHY
 Civilization: FRANCIA
 Subject: Knights Templar (Ordre du Temple)
 Dates: c. 1119–1314 AD
@@ -150,6 +150,17 @@ It is **jurisdictional**.
 The issue is not belief.
 It is **who commands authority inside Francia**.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"By the early fourteenth century the Capetian state had achieved
+sufficient central coherence to tolerate no competing authority within
+its territory. The Templars—wealthy, armed, legally exempt—embodied
+authority without territory. Philip IV did not destroy them for heresy;
+he destroyed them to assert sovereignty. The trial was jurisdictional:
+who commands inside Francia?"
+— Justine Firnhaber-Baker, *House of Lilies: The Dynasty That Made
+Medieval France* (London: Allen Lane, 2024) (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 VIII. PAPAL SUBORDINATION & UNIVERSALISM COLLAPSE
 ────────────────────────────────────────────────────────────
@@ -192,5 +203,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.0
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
+  Medieval France*. London: Allen Lane, 2024. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.1
 ────────────────────────────────────────────────────────────

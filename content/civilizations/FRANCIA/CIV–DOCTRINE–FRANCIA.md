@@ -1,4 +1,4 @@
-CIV–DOCTRINE–FRANCIA — v1.1
+CIV–DOCTRINE–FRANCIA — v1.2
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -60,7 +60,7 @@ Hard Constraints:
 ────────────────────────────────────────────────────────────
 
 DOCTRINE 02
-Name: UNIVERSALISM–CAPACITY DIVERGENAD
+Name: UNIVERSALISM–CAPACITY DIVERGENCE
 Status: ACCEPTED · LOCKED · CANONICAL
 Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0002)
 
@@ -180,8 +180,11 @@ This file is LOCKED.
 • Deletions are forbidden
 
 Supersedes:
+• CIV–DOCTRINE–FRANCIA v1.1
 • CIV–DOCTRINE–FRANCIA v1.0
 
+v1.2: Typo correction — DOCTRINE 02 name "DIVERGENAD" → "DIVERGENCE".
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–FRANCIA v1.1
+END OF FILE — CIV–DOCTRINE–FRANCIA v1.2
 ────────────────────────────────────────────────────────────

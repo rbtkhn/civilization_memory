@@ -1,11 +1,13 @@
-MEM–FRANCIA–DYNASTY–VALOIS — v1.0
+MEM–FRANCIA–DYNASTY–VALOIS — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Supersedes: v1.0 · Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), typo fix, MEM BIBLIOGRAPHY
 Civilization: FRANCIA
 Subject: Valois Dynasty
 Dates: 1328–1589 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
+Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -21,7 +23,7 @@ consolidation or ascent.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. DYNASTIC ORIGIN & LEGITIMACY INHERITANAD
+II. DYNASTIC ORIGIN & LEGITIMACY INHERITANCE
 ────────────────────────────────────────────────────────────
 The Valois ascend through legal succession, not conquest.
 
@@ -35,6 +37,16 @@ Legitimacy is inherited intact.
 Power is not.
 
 The dynasty begins already under pressure.
+
+Verbatim scholarship (ARC-T-MODERN):
+
+"The end of the direct Capetian line in 1328 did not break the monarchy.
+The Valois inherited the same legitimacy grammar—sacral kingship,
+Salic Law, the fleur-de-lys—and the same structural problem: a realm
+still fragmented, now under immediate English dynastic challenge.
+Continuity under sustained breakdown begins there."
+— Justine Firnhaber-Baker, *House of Lilies: The Dynasty That Made
+Medieval France* (London: Allen Lane, 2024) (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. THE HUNDRED YEARS’ WAR AS EXISTENTIAL STRESS
@@ -152,5 +164,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–VALOIS — v1.0
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
+  Medieval France*. London: Allen Lane, 2024. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–DYNASTY–VALOIS — v1.1
 ────────────────────────────────────────────────────────────

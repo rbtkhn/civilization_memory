@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.0
+Version: 2.1
+Supersedes: v2.0 · Upgrade: Firnhaber-Baker verbatim (*The Jacquerie of 1358*)
 Civilization: FRANCIA
 Subject: Battle of Poitiers
 Dates: 19 September 1356 AD
@@ -209,6 +210,17 @@ companies, unpaid and uncontrolled, became the kingdom's real
 rulers in many regions."
 — Barbara Tuchman, *A Distant Mirror* (1978)
 
+Medieval voice (ARC-T-MODERN):
+
+"The Jacquerie was not an irrational explosion of peasant fury that
+came out of nowhere, but rather carefully planned and executed. It
+has to be understood as a constellation of many events that evolved
+over time. It was their social status—with its odour of military
+failure, material excess, unearned privilege, and moral treachery—
+that made the nobility targets."
+— Justine Firnhaber-Baker, *The Jacquerie of 1358: A French Peasants'
+Revolt* (Oxford: Oxford University Press, 2021) (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -312,6 +324,8 @@ CITED SOURCES:
   New York: Alfred A. Knopf, 1978.
 
 ADDITIONAL SCHOLARLY SOURCES:
+• Firnhaber-Baker, Justine. *The Jacquerie of 1358: A French Peasants'
+  Revolt*. Oxford: Oxford University Press, 2021. (ARC-T-MODERN)
 • Green, David. *The Battle of Poitiers, 1356*. Stroud: Tempus, 2002.
 • Rogers, Clifford J. *War Cruel and Sharp*. Woodbridge: Boydell, 2000.
 • Fowler, Kenneth. *The Age of Plantagenet and Valois*. London: Elek, 1967.
@@ -337,5 +351,5 @@ Future upgrades may:
 • Add Froissart chronicle sources
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–POITIERS v2.0
+END OF FILE — MEM–FRANCIA–WAR–POITIERS v2.1
 ────────────────────────────────────────────────────────────

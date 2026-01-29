@@ -106,12 +106,14 @@ FRANCIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–FRANCIA         │ v1.3    │ Active        │
-│ CIV–INDEX–FRANCIA           │ v1.6    │ Active        │
-│ CIV–CORE–FRANCIA            │ v1.7    │ Active        │
+│ CIV–SCHOLAR–FRANCIA         │ v2.0    │ Active        │
+│ CIV–INDEX–FRANCIA           │ v1.7    │ Active        │
+│ CIV–CORE–FRANCIA            │ v2.0    │ Active        │
 │ CIV–DOCTRINE–FRANCIA        │ v1.1    │ Active        │
+│ CIV–ARC–FRANCIA             │ v1.8    │ Active        │
+│ CIV–ARC–FRANCIA–LEDGER      │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
-Phase: I (Accumulation)
+Phase: II (Development)
 
 ANGLIA:
 ┌────────────────────────────────────────────────────────┐

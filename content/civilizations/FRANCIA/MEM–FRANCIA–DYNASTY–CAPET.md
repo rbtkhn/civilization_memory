@@ -1,6 +1,9 @@
-MEM–FRANCIA–DYNASTY–CAPET
-Status: ACTIVE
-Version: 1.0
+MEM–FRANCIA–DYNASTY–CAPET — v1.1
+Civilizational Memory Codex · Memory File
+Status: ACTIVE · CANONICAL
+Version: 1.1
+Supersedes: v1.0
+Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), MEM BIBLIOGRAPHY
 Civilization: FRANCIA
 Subject: Capetian Dynasty
 Dates: 987–1328 AD
@@ -28,6 +31,16 @@ Early survival depended on:
 • Avoidance of overreach
 
 The dynasty endured by **outlasting rivals**, not defeating them outright.
+
+Verbatim scholarship (ARC-T-MODERN):
+
+"The Capetians consolidated a fragmented realm into the most powerful
+monarchy of the Middle Ages, adopting the fleur-de-lys as the emblem of
+divine favor and royal continuity. They did not conquer by explosion but
+by patience—outlasting rivals, absorbing fiefs, and fusing anointing with
+hereditary succession so that the king embodied the state."
+— Justine Firnhaber-Baker, *House of Lilies: The Dynasty That Made Medieval
+France* (London: Allen Lane, 2024), introduction (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. TERRITORIAL CONSOLIDATION
@@ -83,4 +96,13 @@ VII. CONTINUITY INSIGHTS (RAW)
 • The Capetians made monarchy durable before it was powerful.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–CAPET v1.0
+VIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
+  Medieval France*. London: Allen Lane, 2024. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–DYNASTY–CAPET v1.1

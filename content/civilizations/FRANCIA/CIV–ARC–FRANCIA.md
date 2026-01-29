@@ -1,13 +1,27 @@
-CIV–ARC–FRANCIA — v1.7
+CIV–ARC–FRANCIA — v1.8
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL
-Supersedes: CIV–ARC–FRANCIA v1.6
-Upgrade Type: ARC-T-ANCIENT EXPANSION
+Supersedes: CIV–ARC–FRANCIA v1.7
+Upgrade Type: SYNC (mirroring rule compliance)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8) — SYNC (MIRRORING RULE COMPLIANCE)
+────────────────────────────────────────────────────────────
+v1.8 documents audit sync; no author-list changes.
+
+Additive (author scope): Justine Firnhaber-Baker — *House of Lilies: The
+Dynasty That Made Medieval France* (2024) added to topical scope (Capetian
+dynasty 987–1328, medieval Francia).
+
+• CIV–CORE–FRANCIA v2.0 updated to reference ARC–FRANCIA and INDEX–FRANCIA
+  (Governed by + XXI MEM Authoring Governance Clause)
+• Mirroring rule satisfied: ARC–FRANCIA referenced in CORE and SCHOLAR
+• INDEX–FRANCIA v1.7 (115 MEMs) confirmed as canonical MEM scope
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7) — ARC-T-ANCIENT EXPANSION
@@ -309,10 +323,14 @@ ARC-T-MODERN:
   - The Middle Ages: Medieval European civilization, Frankish origins
   - Carolingian court culture, imperial ideology, legitimacy construction
   - Supports ENTRY 0001 (Charlemagne), AXIOM FRANCIA-001
-• Justine Firnhaber-Baker — The Jacquerie of 1358; Violence and the State
+• Justine Firnhaber-Baker — The Jacquerie of 1358; Violence and the State;
+  House of Lilies: The Dynasty That Made Medieval France (2024)
   TOPICAL SCOPE:
   - The Jacquerie of 1358: Peasant revolt, popular violence, medieval Francia
   - Violence and the State in Languedoc: Regional governance, royal authority
+  - House of Lilies: Capetian dynasty 987–1328, medieval France, Crusades,
+    wars with England, Gothic architecture, courtly culture; Hugh Capet to
+    Eleanor of Aquitaine
   - Medieval French political culture, legitimacy crises, rupture patterns
   - Supports DOCTRINE v0.3 (Rupture as Renewal), AXIOM FRANCIA-003
 • Bart van Loo (b. 1973) — The Burgundians: A Vanished Empire
@@ -431,5 +449,5 @@ Future versions may add:
 • Regional specialists (Provence, Brittany, Alsace)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–FRANCIA v1.7
+END OF FILE — CIV–ARC–FRANCIA v1.8
 ────────────────────────────────────────────────────────────

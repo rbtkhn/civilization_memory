@@ -22,7 +22,7 @@ Governed by:
 • CIV–MEM–CORE v2.7 (global system law)
 • CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
-• CIV–ARC–FRANCIA v1.7 (author admissibility canon)
+• CIV–ARC–FRANCIA v1.8 (author admissibility canon)
 
 Last Update: January 2026
 WORDCOUNT: ~8,500
@@ -231,6 +231,19 @@ AXIOM FRANCIA-003: Rupture enables renewal.
 Derivation: ENTRY 0003 (Napoleon), ENTRY 0007 (Franco-Prussian)
 Scope: All regime transition and collapse analysis
 Limits: Renewal requires civilizational grammar survival
+
+Refinement (LEARN · tri-frame session):
+Rupture reads as renewal when the new regime frames itself in
+legitimacy grammar already accepted within the civilization. Power
+reallocation and liability reallocation (structural and constraint
+dimensions) are necessary but not sufficient; declarative continuity—
+the story the civilization tells itself about why the break was
+right—is what makes rupture count as renewal across generations.
+Source: Mercouris response to Mearsheimer (revolution legitimacy
+grammar); recursive scholar development.
+Test cases: 1870, 1940, 1958 (doctrinal); Valois 1328–1453 (Firnhaber-Baker,
+*House of Lilies* — continuity under sustained breakdown; same sacral
+kingship, Salic Law, fleur-de-lys through catastrophe; ENTRY 0012, SYNTHESIS 0007).
 
 ────────────────────────────────────────────────────────────
 AXIOM FRANCIA-004: Symbolism persists across regime change.
@@ -546,6 +559,88 @@ Belief Status:
 • UNFROZEN
 
 ────────────────────────────────────────────────────────────
+
+ENTRY 0012
+Source:
+• Justine Firnhaber-Baker (ARC-T-MODERN) — *The Jacquerie of 1358*;
+  *Violence and the State in Languedoc, 1250–1400*; *House of Lilies:
+  The Dynasty That Made Medieval France* (2024)
+• Ingested via MEMs: MEM–FRANCIA–JACQUERIE, MEM–FRANCIA–ESTATES–GENERAL,
+  MEM–FRANCIA–LANGUEDOC, MEM–FRANCIA–ELEANOR–AQUITAINE, MEM–FRANCIA–AQUITAINE,
+  MEM–FRANCIA–DYNASTY–CAPET, MEM–FRANCIA–DYNASTY–VALOIS, MEM–FRANCIA–NOTRE–DAME,
+  MEM–FRANCIA–KNIGHTS–TEMPLAR, MEM–FRANCIA–WAR–POITIERS, MEM–FRANCIA–WAR–CRECY
+
+Ingest Type:
+• Scholarly Corpus Synthesis (single author, multi-work, medieval Francia)
+
+Primary Belief Extracted:
+• Medieval Francia's legitimacy and territorial consolidation rest on
+  (1) **consolidation by patience**—Capetians outlast rivals, absorb by
+  inheritance and marriage, fuse anointing with hereditary succession
+  (House of Lilies); (2) **rupture from below as planned, not fury**—popular
+  revolt (Jacquerie) is targeted and tactical, nobility targeted when
+  military failure and moral treachery strip prestige; (3) **royal
+  expansion by cooperation**—in Languedoc, royal authority grows as much
+  through elite complicity and informal negotiation as through force
+  (Violence and the State). The dynasty embodies the state; rupture
+  (revolt, crusade) is then contained or incorporated by that grammar.
+
+Belief Status:
+• SYNTHESIZED (see SYNTHESIS 0007)
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0013
+Source:
+• MEM–FRANCIA–WAR–HUNDRED–YEARS — v1.1
+• MEM–FRANCIA–NOTRE–DAME — v1.1
+
+Ingest Type:
+• Myth/Symbol Carrier Memory (RLL–0011 carrier validation)
+
+Primary Belief Extracted:
+• Joan of Arc functions as **myth carrier** when procedural continuity
+  is absent: sacral intervention, re-coronation at Reims (1429), moral
+  reversal preceding material recovery; Firnhaber-Baker: "emergency
+  moral mobilization," belief compensates for institutional absence.
+  Fleur-de-lys (with sacral kingship, Salic Law) and Notre-Dame
+  (legitimacy vessel in stone—crown, city, God bound in Gothic sacral
+  technology) function as **symbol carriers** through Valois catastrophe.
+  Together they instantiate SYNTHESIS 0004 and RLL–0011: renewal through
+  myth and symbol when procedural continuity has collapsed; continuity
+  under sustained breakdown held by myth (Joan) and symbol (fleur-de-lys,
+  Notre-Dame) before institutional recovery.
+
+Belief Status:
+• UNFROZEN (supports RLL–FRANCIA–0011 test cases)
+
+Tri-frame note (LEARN session): Barnes (jurisdiction, liability, defection,
+irreversibility at 1429); Mearsheimer (moral reversal as leading indicator,
+post-Reims material conversion 1431–1453); Mercouris (legitimacy grammar,
+continuity under breakdown, restoration narrative). See RLL–0011 Tri-frame note.
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0014
+Source:
+• MEM–FRANCIA–AQUITAINE — v1.0
+
+Ingest Type:
+• Territorial Recovery Endpoint (post-Reims material recovery)
+
+Primary Belief Extracted:
+• 1453 (Castillon, fall of Bordeaux) = endpoint of Valois material recovery
+  and of SYNTHESIS 0004 medieval extension. Aquitaine reabsorbed by war
+  and administrative incorporation; Valois restore territorial integrity
+  (Channel to Pyrenees) that Eleanor's annulment had cost the Capetians.
+  Completes sequence: legitimacy shift (Reims 1429) → material conversion
+  (1431–1453) → territorial reabsorption (Aquitaine 1453). AXIOM FRANCIA-003:
+  Brétigny was rupture; renewal is reabsorption (1453).
+
+Belief Status:
+• UNFROZEN (supports SYNTHESIS 0004 medieval extension, RLL–0011)
+
+────────────────────────────────────────────────────────────
 VI. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
@@ -722,7 +817,7 @@ ASSUMPTION 2: Renewal requires symbolic rather than procedural continuity
 | Field | Content |
 |-------|---------|
 | STATEMENT | Francia maintains civilizational identity through symbols, not procedures |
-| BASIS | Notre-Dame absorption of ideological change; Code Napoléon as universal law |
+| BASIS | Notre-Dame absorption of ideological change; Code Napoléon as universal law; Valois 1328–1453 (Firnhaber-Baker, *House of Lilies* — continuity under sustained breakdown: same sacral kingship, Salic Law, fleur-de-lys through catastrophe; procedural continuity absent; ENTRY 0012) |
 | IF_WRONG | Procedural continuity (as in Anglia) would be required for renewal |
 | LINCHPIN_STATUS | High |
 
@@ -742,6 +837,14 @@ ASSUMPTIONS SUMMARY
 | 1 | Rupture enables renewal | H | Yes |
 | 2 | Symbolic > procedural continuity | H | Yes |
 | 3 | Myth/law/symbol substitutable | M | Yes |
+
+MEDIEVAL EXTENSION (post-Reims 1431–1453):
+Post-Reims maps onto SYNTHESIS 0004: Hundred Years' War as rupture;
+recovery through symbolic reassertion (Reims 1429, Joan, fleur-de-lys)
+before procedural continuity (standing army, taille, territorial
+recovery 1431–1453). Legitimacy grammar held through breakdown; material
+recovery follows once grammar again generates extraction and alignment.
+ENTRY 0013, RLL–0011.
 
 ────────────────────────────────────────────────────────────
 
@@ -911,6 +1014,71 @@ ASSUMPTIONS SUMMARY
 | 4 | Conflict frequency exceeds necessity | M | Yes |
 
 ────────────────────────────────────────────────────────────
+
+SYNTHESIS 0007 (ENTRY 0012 — Firnhaber-Baker corpus)
+────────────────────────────────────────────────────────────
+Outcome:
+• Medieval Francia's legitimacy and territorial shape rest on three
+  mechanisms that Firnhaber-Baker's corpus makes explicit: (1) **consolidation
+  by patience**—the Capetians do not conquer by explosion but by outlasting
+  rivals, absorbing fiefs, and fusing anointing with hereditary succession
+  so that the king embodies the state (House of Lilies); (2) **rupture from
+  below as planned, not fury**—popular revolt (e.g. the Jacquerie) is
+  carefully planned and executed, and nobility become targets when their
+  status carries the odour of military failure, material excess, unearned
+  privilege, and moral treachery (The Jacquerie of 1358); (3) **royal
+  expansion by cooperation**—in Languedoc and the south, royal authority
+  expands as much through local elite complicity, informal negotiation, and
+  recognition of elites' legitimate prerogatives as through suppression of
+  "private" violence (Violence and the State in Languedoc). Together, the
+  corpus corrects the narrative that resurgent royal government simply
+  eliminated private warfare or that peasant revolt was irrational explosion;
+  it supports AXIOM FRANCIA-003 (rupture enables renewal) for the regime that
+  contains revolt or incorporates the south, not for the rebels.
+
+Status: FROZEN
+Confidence: TIER 2 (70-90% — single scholar corpus, cross-MEM integration)
+Freeze Date: January 2026
+Source: ENTRY 0012 (Firnhaber-Baker via 12+ MEMs)
+
+ASSUMPTIONS BOX — SYNTHESIS 0007
+────────────────────────────────────────────────────────────
+ASSUMPTION 1: Consolidation by patience is the Capetian mechanism
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Medieval French territorial expansion proceeds by outlasting rivals and absorbing by inheritance/marriage, not by decisive conquest |
+| BASIS | House of Lilies; Hugh Capet to Eleanor; fleur-de-lys as continuity |
+| IF_WRONG | Conquest or coercion would be the primary expansion mechanism |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: Popular revolt is tactical, not irrational
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Peasant revolt (e.g. Jacquerie) is planned and targeted; nobility are targets when prestige fails |
+| BASIS | The Jacquerie of 1358; reframing of "peasant fury" in MEMs |
+| IF_WRONG | Revolt would be undirected fury or random violence |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Royal expansion in periphery requires local cooperation
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Royal authority in Languedoc (and by extension southern periphery) grows through elite complicity and negotiation as much as through force |
+| BASIS | Violence and the State in Languedoc, 1250–1400 |
+| IF_WRONG | Central suppression alone would explain royal expansion |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Consolidation by patience | H | Yes |
+| 2 | Revolt tactical, not irrational | H | Yes |
+| 3 | Royal expansion by cooperation | H | Yes |
+
+────────────────────────────────────────────────────────────
 VII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
@@ -997,6 +1165,45 @@ PROPOSED RLL CANDIDATES:
   Frame: MERCOURIS + BARNES
   Cross-civ evidence: Vienna (1815) → 99yr stability with latent anxiety;
     Versailles (1919) → Francia demanded more punishment, not less
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0010 (CANDIDATE): Rupture reads as renewal when the new
+  regime frames itself in legitimacy grammar already accepted within the
+  civilization; power and liability reallocation are necessary but not
+  sufficient.
+  Derivation: AXIOM FRANCIA-003 Refinement (LEARN), tri-frame session
+    (Barnes → Mearsheimer → Mercouris on revolution)
+  Frame: MERCOURIS
+  Test cases: 1870 — MEM–FRANCIA–WAR–FRANCO–PRUSSIAN (Third Republic framed
+    in republican/nation grammar); revolution (tri-frame); 1940, 1958
+    (doctrinal application)
+  Mercouris note: 1870 — Republic recalled, not invented; legitimacy
+    grammar already present (civilizational continuity).
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0011 (CANDIDATE): "Continuity under sustained breakdown"
+  = AXIOM FRANCIA-003 limit (renewal requires civilizational grammar
+  survival) + SYNTHESIS 0004 mechanism (renewal through myth, law,
+  symbol rather than procedural continuity) in medieval form. When
+  rupture (dynastic change, territorial collapse) does not break the
+  legitimacy grammar, the regime survives and may recover; when grammar
+  is held, renewal is possible.
+  Derivation: AXIOM FRANCIA-003 Refinement, SYNTHESIS 0004, ENTRY 0012,
+    SYNTHESIS 0007 (Firnhaber-Baker corpus)
+  Frame: MERCOURIS
+  Test cases: Valois 1328–1453 (Firnhaber-Baker, *House of Lilies* —
+    same sacral kingship, Salic Law, fleur-de-lys through catastrophe;
+    procedural continuity absent; eventual reabsorption of Aquitaine)
+  Tri-frame note (LEARN session): BARNES — Joan 1429: jurisdiction
+    (sacral vs Troyes grammar), liability (Joan/Dauphin carry exposure),
+    defection (redefection to Valois made thinkable by Reims), irreversibility
+    (Reims un-coronation-proof). MEARSHEIMER — Moral reversal = legitimacy
+    shift that changes expected force ratios and defection calculus; post-Reims
+    1431–1453 = material conversion (coalition shift Arras 1435, standing
+    army, taille, territorial recovery). MERCOURIS — Legitimacy grammar makes
+    defection legible as restoration; continuity under breakdown = same grammar
+    held; material recovery follows when grammar again generates extraction;
+    narrative irreversibility (war remembered as legitimacy resurrection).
   Status: PROPOSED · NOT BOUND
 
 DOMAIN: WAR (Conflict-specific constraints)
@@ -1119,20 +1326,20 @@ SDI Status: ACTIVE
 X. COUNT TRACKING (v2.0)
 ────────────────────────────────────────────────────────────
 Current counts:
-• Learning entries: 11
-• Frozen syntheses: 6
+• Learning entries: 14
+• Frozen syntheses: 7
 • Draft syntheses pending: 0
 • Bound RLLs: 0 (Phase I)
-• Proposed RLLs pending: 10
+• Proposed RLLs pending: 11
 • Frozen doctrines: 5
 • SDI entries: 2
 • Axioms: 5
 • NCZ entries: 3
 
 Phase: I (Accumulation)
-Next Entry ID: 0012
-Next Synthesis ID: 0007
-Next RLL ID: RLL–FRANCIA–0011
+Next Entry ID: 0015
+Next Synthesis ID: 0008
+Next RLL ID: RLL–FRANCIA–0012
 
 Session Activity (January 2026):
 • SYNTHESIS 0005 frozen (TRI-FRAME: extraction collapse mechanism)
@@ -1143,6 +1350,18 @@ Session Activity (January 2026):
 • SYNTHESIS 0006 + DOCTRINE v0.5 backfilled (governance compliance restoration)
 • CIV–ARC–FRANCIA v1.7 created (61 authors across 4 temporal periods)
 • Governance binding updated to reference ARC
+• LEARN: Tri-frame session (French Revolution)—Barnes (jurisdiction/liability/defection) → Mearsheimer (power/coalition/survival) → Mercouris (legitimacy grammar). AXIOM FRANCIA-003 refinement added (rupture reads as renewal when framed in accepted legitimacy grammar). RLL–FRANCIA–0010 (CANDIDATE) proposed (MERCOURIS frame). 29 Jan 2026.
+• LEARN: CIV–DOCTRINE–FRANCIA v1.1 ingested (doctrine-only register; doctrines 01–05; authority flow DIB–FRANCIA). 29 Jan 2026.
+• LEARN: Firnhaber-Baker corpus synthesized (House of Lilies, The Jacquerie of 1358, Violence and the State in Languedoc). ENTRY 0012 added; SYNTHESIS 0007 frozen—medieval Francia: consolidation by patience, revolt as planned/tactical, royal expansion by cooperation. 29 Jan 2026.
+• LEARN: Firnhaber-Baker "continuity under sustained breakdown" (Valois) mapped onto AXIOM FRANCIA-003 and SYNTHESIS 0004. Test case added to AXIOM FRANCIA-003 Refinement (Valois 1328–1453); test case added to SYNTHESIS 0004 Assumption 2 BASIS (Valois, *House of Lilies*). 29 Jan 2026.
+• LEARN: Mapping recorded as Learning Event—"continuity under sustained breakdown" validates AXIOM FRANCIA-003 limit (renewal requires civilizational grammar survival) and instantiates SYNTHESIS 0004 mechanism (renewal through myth, law, symbol rather than procedural continuity); Valois 1328–1453 = medieval test case for both. 29 Jan 2026.
+• LEARN: RLL–FRANCIA–0011 (CANDIDATE) proposed—"continuity under sustained breakdown" = axiom-003 limit + synthesis-0004 mechanism in medieval form; test case Valois 1328–1453 (Firnhaber-Baker). GENERAL domain. 29 Jan 2026.
+• LEARN: MEM–WAR–HUNDRED–YEARS, MEM–NOTRE–DAME ingested to test RLL–0011 carriers. Joan of Arc = myth carrier (sacral intervention, re-coronation Reims 1429, moral reversal before material recovery; belief compensates for institutional absence). Fleur-de-lys, Notre-Dame = symbol carriers (Valois grammar; legitimacy vessel in stone). Supports RLL–0011; test cases extended. 29 Jan 2026.
+• LEARN: ENTRY 0013 added—source MEM–WAR–HUNDRED–YEARS, MEM–NOTRE–DAME; ingest type Myth/Symbol Carrier Memory (RLL–0011 carrier validation); Joan = myth carrier, fleur-de-lys/Notre-Dame = symbol carriers; belief UNFROZEN, supports RLL–0011. 29 Jan 2026.
+• LEARN: Mercouris response to Mearsheimer (post-Reims 1431–1453) recorded—legitimacy grammar and "continuity under breakdown" add why material recovery was possible and how it is remembered (restoration, not only force-ratio shift); grammar makes defection/coalition legible as restoration. 29 Jan 2026.
+• LEARN: Post-Reims (1431–1453) mapped onto SYNTHESIS 0004—Medieval extension added: recovery through rupture (Hundred Years' War); symbolic reassertion (Reims, Joan, fleur-de-lys) before procedural continuity (standing army, taille, territorial recovery); ENTRY 0013, RLL–0011. 29 Jan 2026.
+• LEARN: Tri-frame summary (Barnes + Mearsheimer + Mercouris) on Joan and post-Reims added to RLL–0011 and ENTRY 0013. 29 Jan 2026.
+• LEARN: ENTRY 0014 added—source MEM–FRANCIA–AQUITAINE; 1453 (Castillon, Bordeaux) as endpoint of post-Reims material recovery; Aquitaine reabsorption completes SYNTHESIS 0004 medieval extension and RLL–0011 sequence. 29 Jan 2026.
 
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE
@@ -1187,8 +1406,8 @@ XIV. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (LEARN MODE)
 Doctrine Count: 5
-Total Entries: 11
-Next Entry ID: 0012
+Total Entries: 14
+Next Entry ID: 0015
 Awaiting Command: NO (LEARNING ENABLED)
 
 ────────────────────────────────────────────────────────────
