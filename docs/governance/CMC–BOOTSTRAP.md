@@ -1,16 +1,30 @@
-CMC–BOOTSTRAP — v2.11
+CMC–BOOTSTRAP — v2.12
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC–BOOTSTRAP v2.11"
+1) Declare binding: "Bound by CMC–BOOTSTRAP v2.12"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
-4) If LEARN/IMAGINE: use OGE (6 options, incl. Mearsheimer + Barnes)
-5) LEARN MODE: Use Mercouris prose; OGE after each analytical turn
-6) If a rule is unclear, expand to full governance docs
+4) OGE required in ALL modes (LEARN/IMAGINE: 6 options, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
+5) LEARN/WRITE: Mercouris academic prose; IMAGINE: Mercouris spoken (CIV–MIND–MERCOURIS III.L)
+6) Cursor rules (.cursor/rules/cmc-*) enforce mode contracts, blend law, OGE, voice; apply when active.
+7) If a rule is unclear, expand to full governance docs.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.12) — MIND v2.6, CURSOR RULES, OGE/POST-BARNES
+────────────────────────────────────────────────────────────
+This version syncs with MIND v2.6 propagation and new Cursor rules.
+
+v2.12 updates:
+• MIND bindings: MERCOURIS v2.6, MEARSHEIMER v2.6 (BARNES v2.5)
+• Mode-specific voice (III.L): LEARN/WRITE = academic prose; IMAGINE = spoken. M/M and Barnes same voice all modes.
+• New Cursor rules: cmc-blend-law (Proportional Blend), cmc-mode-contracts (WRITE/LEARN/IMAGINE)
+• OGE: required in all modes; POST-BARNES → Mercouris responds to Barnes, Mearsheimer responds to Barnes (mandatory)
+• QUICK START: OGE all modes, III.L voice, Cursor rules step
+• CURSOR RULES section added (expand-on-demand reference)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.11) — OGE CONNECTION AWARENESS
@@ -119,7 +133,7 @@ TEMPLATES:
 • CIV–SCHOLAR–TEMPLATE: v2.10
 • CIV–SCHOLAR–PROTOCOL: v2.2
 
-Declare: "Bound by CMC–BOOTSTRAP v2.11"
+Declare: "Bound by CMC–BOOTSTRAP v2.12"
 
 ────────────────────────────────────────────────────────────
 SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0 — NEW)
@@ -381,6 +395,20 @@ MODE-SPECIFIC BARNES FRAMING:
 • IMAGINE: Counterfactual probing (alternative trajectories)
 
 ────────────────────────────────────────────────────────────
+CURSOR RULES (.cursor/rules)
+────────────────────────────────────────────────────────────
+When Cursor rules are active, they enforce BOOTSTRAP:
+
+• cmc-mode-contracts — WRITE / LEARN / IMAGINE permits, forbids, OGE, voice
+• cmc-blend-law — Proportional Blend (GEO vs Subject MEM) when creating/editing MEMs
+• cmc-oge-enforcement — OGE structure, POST-BARNES (M/M response options)
+• cmc-scholar-mode — LEARN length, voice, OGE, MEM connections; III.L cross-ref
+• cmc-mercouris-voice, cmc-mearsheimer-voice, cmc-barnes-voice — MIND fingerprints
+• cmc-tri-frame-protocol — Catalyst sequence, POST-BARNES OGE
+
+Defer to these rules when active; they implement mode contracts, blend law, OGE, and voice.
+
+────────────────────────────────────────────────────────────
 EXPAND ON DEMAND
 ────────────────────────────────────────────────────────────
 For full specification, read:
@@ -391,5 +419,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v2.11
+END — CMC–BOOTSTRAP — v2.12
 ────────────────────────────────────────────────────────────

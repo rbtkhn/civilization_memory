@@ -34,7 +34,7 @@ Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
 • CIV–MEM–CORE: v2.7
-• CMC–BOOTSTRAP: v2.11
+• CMC–BOOTSTRAP: v2.12
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
@@ -153,6 +153,12 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-29 (CMC–BOOTSTRAP v2.12 — MIND v2.6, CURSOR RULES):
+• CMC–BOOTSTRAP: v2.11 → v2.12 (MIND v2.6 sync, Cursor rules section, QUICK START OGE/III.L/Cursor step)
+  – New CURSOR RULES section: cmc-mode-contracts, cmc-blend-law, cmc-oge-enforcement, cmc-scholar-mode, cmc-*-voice, cmc-tri-frame
+  – QUICK START: OGE all modes, POST-BARNES, III.L voice, Cursor rules step
+• VERSION–MANIFEST: CMC–BOOTSTRAP binding v2.11 → v2.12
 
 2026-01-29 (MIND v2.6 — LINGUISTIC FINGERPRINT & MODE-SPECIFIC VOICE):
 • CIV–MIND–MERCOURIS: v2.5 → v2.6 (Jan 2026 solo-program audit; III.L mode-specific voice:

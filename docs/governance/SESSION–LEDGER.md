@@ -60,6 +60,8 @@ Files Modified:
   AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT.md, SESSION–LEDGER.md
 • docs/templates/CIV–SCHOLAR–PROTOCOL.md
 • .cursor/rules/cmc-mercouris-voice.mdc, cmc-mearsheimer-voice.mdc
+• CMC–BOOTSTRAP v2.11 → v2.12 (Cursor rules section, QUICK START OGE/III.L/Cursor step)
+• VERSION–MANIFEST: BOOTSTRAP binding v2.12, changelog entry
 
 ────────────────────────────────────────────────────────────
 
