@@ -9,7 +9,7 @@ Subject: Battle of Marengo
 Dates: 14 June 1800 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,500
+Word Count: ~3,900
 
 Governed by:
 • CIV–MEM–CORE v2.7
@@ -138,7 +138,34 @@ The vulnerability of heroic command also appears:
 • This limitation will prove fatal at Waterloo
 
 ────────────────────────────────────────────────────────────
-IV. THE ALPINE CROSSING: AUDACITY AS STRATEGY
+IV. INTELLIGENCE FAILURE: THE NEAR-DISASTER
+────────────────────────────────────────────────────────────
+Marengo demonstrates the cost of poor reconnaissance.
+
+John Keegan's *Intelligence in War* uses Marengo as cautionary example:
+
+The intelligence failures:
+• Bonaparte dispersed forces seeking enemy he could not locate
+• Austrian concentration at Alessandria undetected
+• Desaix sent away on false intelligence
+• Melas's attack achieved complete surprise
+
+"Marengo was nearly a catastrophe because Bonaparte did not know
+where the Austrians were. His cavalry screen had failed; his
+intelligence was fragmentary. He had dispersed his forces to cover
+multiple routes, and when Melas attacked on June 14, Bonaparte had
+only 18,000 men available against 31,000 Austrians. The near-defeat
+was not bad luck; it was the predictable consequence of fighting
+without adequate information."
+— John Keegan, *Intelligence in War* (2003)
+
+The lesson Bonaparte learned:
+• Never again would he disperse forces without cavalry confirmation
+• The intelligence apparatus of later campaigns began here
+• Marengo's near-disaster produced Austerlitz's intelligence mastery
+
+────────────────────────────────────────────────────────────
+V. THE ALPINE CROSSING: AUDACITY AS STRATEGY
 ────────────────────────────────────────────────────────────
 Bonaparte's strategic approach embodies Francia's operational grammar.
 
@@ -358,6 +385,8 @@ XII. ACADEMIC REFERENCES (ENGAGED)
 Engaged scholarship includes:
 • **John Keegan** — *The Mask of Command* (1987): "heroic" command style
   origin, Arcole/Lodi precedents (PRIMARY)
+• **John Keegan** — *Intelligence in War* (2003): intelligence failure
+  analysis, reconnaissance gaps (PRIMARY)
 • David G. Chandler — *The Campaigns of Napoleon* (1966): military detail
 • Andrew Roberts — *Napoleon: A Life* (2014): Alpine crossing
 • T.C.W. Blanning — *The French Revolutionary Wars* (1996): Desaix's intervention
@@ -372,6 +401,8 @@ XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
 • Keegan, John. *The Mask of Command*. London: Jonathan Cape, 1987.
+• Keegan, John. *Intelligence in War: Knowledge of the Enemy from
+  Napoleon to Al-Qaeda*. New York: Alfred A. Knopf, 2003.
 • Chandler, David G. *The Campaigns of Napoleon*. New York: Macmillan, 1966.
 • Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014.
 • Blanning, T.C.W. *The French Revolutionary Wars, 1787-1802*. London: Arnold, 1996.

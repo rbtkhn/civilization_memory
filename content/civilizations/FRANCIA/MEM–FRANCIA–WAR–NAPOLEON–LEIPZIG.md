@@ -9,7 +9,7 @@ Subject: Battle of Leipzig (Völkerschlacht / Battle of the Nations)
 Dates: 16-19 October 1813 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,800
+Word Count: ~4,200
 
 Governed by:
 • CIV–MEM–CORE v2.7
@@ -92,7 +92,35 @@ loyal to Napoleon, but whether defection could be accomplished safely."
 The liability ledger is now visible. SYNTHESIS 0005's preconditions align.
 
 ────────────────────────────────────────────────────────────
-III. FORCE RATIO DYNAMICS: COALITION CONCENTRATION
+III. INTELLIGENCE DEGRADATION: THE SYSTEM FAILS
+────────────────────────────────────────────────────────────
+Leipzig shows Napoleon's intelligence apparatus in decline.
+
+John Keegan's *Intelligence in War* traces the degradation:
+
+The 1806 system vs. 1813 reality:
+• 1806: Elite light cavalry provided continuous reconnaissance
+• 1813: Cavalry losses in Russia unrecovered
+• 1806: Napoleon concentrated faster than enemy could react
+• 1813: Coalition used his own methods against him
+
+"By 1813, Napoleon's intelligence system was a shadow of itself.
+The light cavalry that had screened his movements, located the
+enemy, and prevented surprise—most had died in Russia. The bataillon
+carré required cavalry to function; without it, Napoleon moved
+blind. At Leipzig, he did not know the coalition's full strength
+until the armies were already concentrated against him. The
+intelligence advantage that had produced Jena was now reversed."
+— John Keegan, *Intelligence in War* (2003)
+
+The coalition learned:
+• Trachenberg Plan used Napoleon's concentration principle
+• Multiple armies avoided battle until combined
+• Coalition cavalry now provided superior intelligence
+• The student had surpassed the master
+
+────────────────────────────────────────────────────────────
+IV. FORCE RATIO DYNAMICS: COALITION CONCENTRATION
 ────────────────────────────────────────────────────────────
 Leipzig inverts the force-ratio logic that served Francia since Austerlitz.
 
@@ -327,6 +355,8 @@ RLL–FRANCIA–0010 (Satellite State Defection Threshold):
 XIII. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:
+• **John Keegan** — *Intelligence in War* (2003): reconnaissance
+  degradation, cavalry losses, reversed intelligence advantage (PRIMARY)
 • David A. Bell — *The First Total War* (2007): extraction visibility
 • T.C.W. Blanning — *The Pursuit of Glory* (2007): Trachenberg strategy
 • Andrew Roberts — *Napoleon: A Life* (2014): defection dynamics
@@ -339,6 +369,8 @@ All scholars are ARC–FRANCIA v1.7 compliant.
 XIV. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Keegan, John. *Intelligence in War: Knowledge of the Enemy from
+  Napoleon to Al-Qaeda*. New York: Alfred A. Knopf, 2003.
 • Bell, David A. *The First Total War: Napoleon's Europe and the Birth of
   Warfare as We Know It*. Boston: Houghton Mifflin, 2007.
 • Blanning, T.C.W. *The Pursuit of Glory: Europe 1648-1815*. London: Penguin, 2007.

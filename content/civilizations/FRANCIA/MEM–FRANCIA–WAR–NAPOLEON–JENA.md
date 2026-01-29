@@ -9,7 +9,7 @@ Subject: Battle of Jena-Auerstädt (Doppelschlacht)
 Dates: 14 October 1806 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,200
+Word Count: ~3,600
 
 Governed by:
 • CIV–MEM–CORE v2.7
@@ -94,7 +94,35 @@ Frederick the Great's army remained invincible. In reality, that army
 was ossified, its leadership aged, its doctrine frozen in 1763.
 
 ────────────────────────────────────────────────────────────
-III. THE DOUBLE BATTLE: JENA AND AUERSTÄDT
+III. INTELLIGENCE MASTERY: THE BATAILLON CARRÉ
+────────────────────────────────────────────────────────────
+Jena demonstrates Napoleon's intelligence system at peak performance.
+
+John Keegan's *Intelligence in War* contrasts Jena with Marengo:
+
+Napoleon's reconnaissance system:
+• Light cavalry screens advance in all directions
+• Daily intelligence reports synthesized at headquarters
+• Bataillon carré: army advances in square, can concentrate anywhere
+• Enemy located before enemy locates French
+
+"The 1806 campaign showed what Napoleon had learned since Marengo.
+His cavalry screen extended fifty miles in every direction; no
+Prussian movement escaped observation. The bataillon carré—the
+army advancing in a square formation of corps—meant he could
+concentrate overwhelming force at any point within 24 hours.
+The Prussians, by contrast, moved blind. They did not know where
+Napoleon was until his columns struck them."
+— John Keegan, *Intelligence in War* (2003)
+
+The asymmetry was total:
+• Napoleon knew Prussian locations, strength, intentions
+• Prussians did not know Napoleon's main axis
+• Auerstädt occurred because Napoleon thought Davout faced a flank guard
+• Even Napoleon's errors could not prevent victory
+
+────────────────────────────────────────────────────────────
+IV. THE DOUBLE BATTLE: JENA AND AUERSTÄDT
 ────────────────────────────────────────────────────────────
 14 October 1806 produces two simultaneous battles with opposite
 force ratios—both French victories.
@@ -314,6 +342,8 @@ Cross-civilizational:
 XII. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:
+• **John Keegan** — *Intelligence in War* (2003): bataillon carré,
+  reconnaissance superiority, intelligence asymmetry (PRIMARY)
 • David G. Chandler — *The Campaigns of Napoleon* (1966): operational detail
 • Andrew Roberts — *Napoleon: A Life* (2014): Davout's achievement
 • T.C.W. Blanning — *The French Revolutionary Wars* (1996): collapse psychology
@@ -326,6 +356,8 @@ All scholars are ARC–FRANCIA v1.7 compliant.
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Keegan, John. *Intelligence in War: Knowledge of the Enemy from
+  Napoleon to Al-Qaeda*. New York: Alfred A. Knopf, 2003.
 • Chandler, David G. *The Campaigns of Napoleon*. New York: Macmillan, 1966.
 • Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014.
 • Blanning, T.C.W. *The French Revolutionary Wars, 1787-1802*. London: Arnold, 1996.
