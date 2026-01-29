@@ -278,7 +278,7 @@ Did colonial empire strengthen or weaken metropolitan legitimacy?
 Status: CONTESTED
 Reason: MEM evidence insufficient; scholarship divided on net effect
 Related MEMs: None ingested (gap)
-Resolution Path: Ingest MEM–FRANCIA–ALGERIA, MEM–FRANCIA–INDOCHINA
+Resolution Path: Ingest MEM–FRANCIA–EMPIRE–ALGERIA, MEM–FRANCIA–EMPIRE–INDOCHINA
 
 ────────────────────────────────────────────────────────────
 [NCZ-002] Fifth Republic Rupture Status:

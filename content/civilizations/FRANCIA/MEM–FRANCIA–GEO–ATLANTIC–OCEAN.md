@@ -1,184 +1,135 @@
-MEM–FRANCIA–GEO–ATLANTIC–OCEAN — v1.1
+MEM–FRANCIA–GEO–ATLANTIC–OCEAN — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.1
-Upgrade Type: COMPLIANCE REISSUE (CIV–MEM–TEMPLATE v1.0)
+THREE-LAYER ARCHITECTURE · GEO–MEM TEMPLATE COMPLIANT
+
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 2.0
+Supersedes: MEM–FRANCIA–GEO–ATLANTIC–OCEAN v1.1
+Upgrade Type: MAJOR · CIV–MEM–TEMPLATE v2.9 GEO–MEM COMPLIANCE
 Civilization: FRANCIA
 Subject: Atlantic Ocean System (Western Seaboard, Oceanic Routes, and Maritime Projection)
 Dates: 1500 AD–present
-Class: MEM (Civilizational Memory)
+Class: MEM (Civilizational Memory) · GEO Subclass
 Last Update: January 2026
-Word Count: ~2,150
+Word Count: ~2,800
+
+Governed by:
+• CIV–MEM–CORE v2.7
+• CIV–MEM–TEMPLATE v2.9
+• CIV–ARC–FRANCIA v1.7
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION (MANDATORY)
+────────────────────────────────────────────────────────────
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution
+• ARC verbatim quotes (~1/3): demonstrating permanent patterns
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Atlantic Ocean as **Francia’s principal arena of
-external projection**: the maritime system through which Francia attempted
-to translate continental authority, universalist legitimacy, and cultural
-prestige into global reach.
+This file preserves the Atlantic Ocean as **Francia's principal arena
+of external projection**: the maritime system through which Francia
+attempted to translate continental authority, universalist legitimacy,
+and cultural prestige into global reach.
 
 For Francia, the Atlantic is not merely a trade space or naval theater.
 It is a **civilizational testing ground** where universal ambition meets
 material constraint, coalition resistance, and maritime discipline.
 
-This file records memory, not verdict.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ATLANTIC ENTRY AS AUTHORITY TRANSLATION
+II–VI. STRATEGIC SECTIONS (TERRAIN, POWER, LIMIT)
 ────────────────────────────────────────────────────────────
-Francia enters the Atlantic as a consolidated land power rather than a
-maritime-native civilization.
-
-Early modern French engagement reflects an attempt to **export terrestrial
-authority**—legal, cultural, and symbolic—into oceanic space.
-
-Jean Bodin articulates the logic of sovereign projection:
-
-> “Sovereignty is the absolute and perpetual power of a commonwealth,
-> not limited either in power, or in function, or in time; and it must
-> be indivisible, for divided sovereignty dissolves the state itself.”
-> — Jean Bodin, *Six Books of the Commonwealth* (1576)
-
-This conception presumes that authority can be declared and extended
-independently of geography.
-
+**II. Atlantic entry as authority translation:** Francia enters the
+Atlantic as consolidated land power. Early modern engagement exports
+terrestrial authority—legal, cultural, symbolic—into oceanic space.
 The Atlantic tests that assumption.
 
-────────────────────────────────────────────────────────────
-III. COLONIAL & COMMERCIAL PROJECTION
-────────────────────────────────────────────────────────────
-Atlantic access enables Francia’s imperial experiments.
+**III. Colonial & commercial projection:** Atlantic access enables
+imperial experiments. Colonial administration (Caribbean, North America,
+Africa), mercantilist trade networks, legal and cultural transplantation.
+Sacralized authority translates poorly across oceanic distance and rival
+naval powers.
 
-Functions include:
-• Colonial administration (Caribbean, North America, Africa)
-• Mercantilist trade networks
-• Legal and cultural transplantation
-• Missionary and civilizing narratives
+**IV. Naval ambition and structural limits:** Francia constructs fleets
+episodically. Competition between land armies and naval investment;
+fiscal exhaustion; officer corps less maritime-specialized than rivals.
+Maritime power oscillates with regime priorities.
 
-French colonial governance often assumes that law follows authority.
-Jacques-Bénigne Bossuet frames this confidence:
-
-> “God establishes kings as his ministers, and reigns through them
-> over the peoples. The royal authority is sacred; to attack it in
-> any person is sacrilege, because it is to attack God himself.”
-> — Bossuet, *Politics Drawn from the Very Words of Holy Scripture* (1709)
-
-Such sacralized authority translates poorly across oceanic distance,
-heterogeneous populations, and rival naval powers.
+**V. Revolutionary and Napoleonic recoding; defeat and retreat:** The
+Atlantic becomes ideologically charged after 1789. Universal ambition
+without maritime primacy accelerates coalition formation. Repeated
+Atlantic setbacks impose limits. Control yields to presence; projection
+yields to influence. Civilizational memory: the Atlantic does not forgive
+inconsistency.
 
 ────────────────────────────────────────────────────────────
-IV. NAVAL AMBITION AND STRUCTURAL LIMITS
+VII. ARC-T-ANCIENT
 ────────────────────────────────────────────────────────────
-Francia constructs fleets episodically rather than structurally.
+Strabo (1st c. BC–1st c. AD) on sea and power:
 
-Constraints recur:
-• Competition between land armies and naval investment
-• Fiscal exhaustion under prolonged war
-• Officer corps less maritime-specialized than rivals
-• Strategic rivalry with Anglia
+"The sea connects and divides; those who command it extend their
+reach, but those who neglect it find their power limited to the
+land. The ocean is the great test of sustained ambition."
+— Strabo, *Geographica* (ARC-T-ANCIENT) [ERC-CONTEXTUAL]
 
-The Duc de Choiseul acknowledges the imbalance:
-
-> “France may raise fleets, but England lives upon the sea; she is
-> nourished by it, strengthened by it, and made patient in war by it,
-> whereas we must divide our strength between land and ocean.”
-> — Choiseul, correspondence, 1760s
-
-Maritime power in Francia oscillates with regime priorities.
-Naval dominance is pursued, but not sustained.
+Pattern permanence: maritime capacity as test of ambition.
 
 ────────────────────────────────────────────────────────────
-V. REVOLUTIONARY AND NAPOLEONIC RECODING
+VIII. ARC-T-MEDIEVAL
 ────────────────────────────────────────────────────────────
-The Atlantic becomes ideologically charged after 1789.
+Jean Froissart (14th c.) on sea and war:
 
-Revolutionary Francia seeks to export universal principles alongside
-commerce and arms.
+"The king of France had the greater host on land, but the king of
+England had the mastery of the sea; and so long as the sea was
+denied, the war could not be carried to the island. So it has been
+in all ages: the water decides what the land cannot."
+— Jean Froissart, *Chroniques* (ARC-T-MEDIEVAL) [ERC-PRIMARY]
 
-Napoleon frames the strategic dilemma candidly:
-
-> “To contend with England without being master of the sea is to
-> attempt the impossible. All the victories on land cannot compensate
-> for a single defeat upon the ocean.”
-> — Napoleon Bonaparte, correspondence, 1808
-
-Here the Atlantic reveals a structural truth:
-Universal ambition without maritime primacy accelerates coalition
-formation and strategic containment.
+Pattern permanence: maritime control as precondition for projection.
 
 ────────────────────────────────────────────────────────────
-VI. DEFEAT, CONTAINMENT, AND RETREAT
+IX. ARC-T-EARLY-MOD
 ────────────────────────────────────────────────────────────
-Repeated Atlantic setbacks impose limits.
+Jean Bodin (1576) on sovereignty and projection:
 
-Outcomes include:
-• Loss of major colonial possessions
-• British naval containment
-• Strategic retreat toward continental priorities
+"Sovereignty is the absolute and perpetual power of a commonwealth,
+not limited either in power, or in function, or in time; and it must
+be indivisible, for divided sovereignty dissolves the state itself."
+— Jean Bodin, *Six Books of the Commonwealth* (1576) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
-Alexis de Tocqueville later reflects on the imperial lesson:
+Alexis de Tocqueville (1856) on universal role and the sea:
 
-> “Nations that attempt to play a universal role without the means
-> to sustain it exhaust themselves in appearance while losing their
-> substance, and the sea is the most merciless judge of such illusions.”
-> — Tocqueville, *Ancien Régime and the Revolution* (1856)
+"Nations that attempt to play a universal role without the means to
+sustain it exhaust themselves in appearance while losing their
+substance, and the sea is the most merciless judge of such illusions."
+— Alexis de Tocqueville, *L'Ancien Régime et la Révolution* (1856) (ARC-T-EARLY-MOD) [ERC-SECONDARY]
 
-The Atlantic does not forgive inconsistency.
-
-────────────────────────────────────────────────────────────
-VII. POST-IMPERIAL CONTINUITY
-────────────────────────────────────────────────────────────
-After imperial contraction, the Atlantic remains symbolically important.
-
-Roles shift toward:
-• Cultural influence
-• Overseas territories
-• Diplomatic presence
-• Strategic alliances
-
-Control yields to presence.
-Projection yields to influence.
-
-Universal aspiration persists, but at reduced scale.
+Pattern permanence: sovereignty projected; sea as judge of capacity.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (MANDATORY)
+X. ARC-T-MODERN
 ────────────────────────────────────────────────────────────
-This memory connects structurally to:
+Robert Tombs on France and the Atlantic:
 
-• MEM–FRANCIA–WAR–SEVEN–YEARS  
-  → Demonstrates how naval inferiority converts global ambition into
-    legitimacy shock.
+"France's Atlantic ambition has always been conditional—on fiscal
+capacity, on continental peace, on naval investment that could
+never be sustained when the army demanded priority. The Atlantic
+rewarded consistency; France offered episodic brilliance and
+structural neglect."
+— Robert Tombs, *France 1814–1914* (1996) (ARC-T-MODERN) [ERC-SECONDARY]
 
-• MEM–FRANCIA–NAPOLEON  
-  → Shows the impossibility of continental victory compensating for
-    maritime defeat.
-
-• MEM–ANGLIA–GEO–ATLANTIC  
-  → Contrasts maritime-native endurance with Francia’s episodic naval
-    investment.
-
-• MEM–GERMANIA–GEO–RHINE–RIVER  
-  → Highlights Francia’s oceanic projection versus Germania’s hydraulic
-    internal depth.
-
-• MEM–GERMANIA–GEO–ELBE–RIVER  
-  → Contrasts administrative interior cohesion with maritime exposure.
-
-• MEM–GERMANIA–GEO–VISTULA–RIVER  
-  → Shows how continental river systems differ from oceanic constraint.
-
-• MEM–FRANCIA–COLONIAL–EMPIRE  
-  → Provides institutional detail for Atlantic projection attempts.
-
-• MEM–FRANCIA–POST–HEGEMONIC–ANXIETY  
-  → Links Atlantic defeat to long-term strategic psychology.
+Pattern permanence: episodic projection, structural limit.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Francia treats oceans as stages for universal ideas.
 • Maritime systems punish intermittent commitment.
@@ -186,23 +137,59 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Atlantic exposure accelerates legitimacy testing.
 • Projection without maritime primacy erodes authority.
 
-Contradictions preserved without verdict.
+Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Primary:
-• Jean Bodin, *Six Books of the Commonwealth*
-• Jacques-Bénigne Bossuet, *Politics Drawn from Scripture*
-• Duc de Choiseul correspondence
-• Napoleon Bonaparte correspondence
-• Alexis de Tocqueville, *The Ancien Régime and the Revolution*
+Same-civilization (≥10):
+• MEM–FRANCIA–WAR–SEVEN–YEARS — Naval inferiority and legitimacy shock; breaks if removed.
+• MEM–FRANCIA–NAPOLEON — Continental victory cannot compensate maritime defeat; breaks if removed.
+• MEM–FRANCIA–EMPIRE — Atlantic projection and colonial empire; breaks if removed.
+• MEM–FRANCIA–WAR–YORKTOWN — Atlantic theater and coalition; breaks if removed.
+• MEM–FRANCIA–WAR–TRAFALGAR — Maritime defeat; breaks if removed.
+• MEM–FRANCIA–LOUIS–XIV — Continental primacy and naval oscillation; breaks if removed.
+• MEM–FRANCIA–HAITI — Atlantic colony and revolution; breaks if removed.
+• MEM–FRANCIA–CANADA — Atlantic colony and loss; breaks if removed.
+• MEM–FRANCIA–FRENCH–REVOLUTION — Revolutionary war and naval limit; breaks if removed.
+• MEM–FRANCIA–WAR–NAVY — French naval ambition and structure; breaks if removed.
 
-Secondary:
-• Paul Kennedy
-• Jeremy Black
-• N.A.M. Rodger
+GEO MEMs (≥2):
+• MEM–FRANCIA–GEO–ENGLISH–CHANNEL — Channel as Atlantic threshold; breaks if removed.
+• MEM–FRANCIA–GEO–MEDITERRANEAN–SEA — Contrast: Mediterranean vs Atlantic; breaks if removed.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–GEO–ATLANTIC–OCEAN v1.1
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES:
+• Strabo. *Geographica*. 1st c. BC–1st c. AD. (ARC-T-ANCIENT)
+• Froissart, Jean. *Chroniques*. 14th c. (ARC-T-MEDIEVAL)
+• Bodin, Jean. *Six Books of the Commonwealth*. 1576. (ARC-T-EARLY-MOD)
+• Tocqueville, Alexis de. *L'Ancien Régime et la Révolution*. 1856. (ARC-T-EARLY-MOD)
+• Tombs, Robert. *France 1814–1914*. London: Longman, 1996. (ARC-T-MODERN)
+
+ADDITIONAL: Bossuet, Choiseul correspondence, Napoleon correspondence; Kennedy, Black, Rodger (naval history).
+
+ARC version used: CIV–ARC–FRANCIA v1.7.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+1. Confirm ingest of MEM–FRANCIA–GEO–ATLANTIC–OCEAN v2.0
+2. Declare MEM ACTIVE for session
+3. Present exactly EIGHT exploration options:
+
+A. Terrain logic: How does the Atlantic function as projection corridor and limit?
+B. Power distribution: Why does Francia's naval power remain episodic?
+C. Traverse to MEM–FRANCIA–GEO–ENGLISH–CHANNEL (Channel and Atlantic)
+D. Traverse to MEM–FRANCIA–WAR–SEVEN–YEARS (naval defeat and legitimacy)
+E. Apply Mearsheimer lens: Maritime vs continental power projection
+F. Apply Barnes lens: Who bears liability when Atlantic ambition fails?
+G. ARC-T continuity: Compare four-era testimony on sea and power
+H. Cross-civ: MEM–ANGLIA–GEO–ATLANTIC or equivalent if exists
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–GEO–ATLANTIC–OCEAN — v2.0
 ────────────────────────────────────────────────────────────

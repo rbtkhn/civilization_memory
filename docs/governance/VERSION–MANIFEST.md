@@ -33,7 +33,7 @@ These documents govern all CMC operations.
 Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.6
+• CIV–MEM–CORE: v2.7
 • CMC–BOOTSTRAP: v2.11
 
 MIND PROFILES:
@@ -43,14 +43,14 @@ MIND PROFILES:
 • CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
-• CIV–MEM–TEMPLATE: v2.8
+• CIV–MEM–TEMPLATE: v2.9
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v2.0
-• CIV–SCHOLAR–TEMPLATE: v2.9
+• CIV–SCHOLAR–TEMPLATE: v2.10
 • CIV–SCHOLAR–PROTOCOL: v2.2
 
 CIVILIZATION-SPECIFIC SCHOLARS:
-• CIV–SCHOLAR–GERMANIA: v2.11
+• CIV–SCHOLAR–GERMANIA: v2.12
 • CIV–DOCTRINE–TEMPLATE: v2.1
 • CIV–ARC–TEMPLATE: v2.7
 • CIV–ARC–LEDGER–TEMPLATE: v1.0
@@ -93,7 +93,7 @@ GERMANIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–GERMANIA        │ v2.7    │ Active        │
+│ CIV–SCHOLAR–GERMANIA        │ v2.12   │ Active        │
 │ CIV–INDEX–GERMANIA          │ v2.1    │ Active        │
 │ CIV–CORE–GERMANIA           │ v1.9    │ Active        │
 │ CIV–DOCTRINE–GERMANIA       │ v1.4    │ Active        │
@@ -151,6 +151,12 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-29 (AUDIT — GOVERNANCE & TEMPLATE ALIGNMENT):
+• Governance/template alignment audit completed (AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT.md)
+• CMC–BOOTSTRAP: CIV–MEM–CORE v2.6→v2.7, CIV–MEM–TEMPLATE v2.8→v2.9, CIV–SCHOLAR–TEMPLATE v2.9→v2.10
+• VERSION–MANIFEST: Section II/III/VI updated to match actual file versions; footer v1.9→v1.10; CIV–SCHOLAR–GERMANIA v2.7/v2.11→v2.12
+• CIV–DOCTRINE–TEMPLATE: CIV–SCHOLAR–TEMPLATE v2.9→v2.10 in Compatibility
 
 2026-01-29 (CMC–BOOTSTRAP v2.11 — OGE CONNECTION AWARENESS):
 • CMC–BOOTSTRAP: v2.10 → v2.11 (connection-aware OGE)
@@ -278,11 +284,12 @@ VI. QUICK BINDING DECLARATION
 For session startup, declare:
 
 "Bound by:
-• CIV–MEM–CORE v2.6
+• CIV–MEM–CORE v2.7
 • CIV–MIND–MERCOURIS v2.5 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.5 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
-• CIV–MEM–TEMPLATE v2.8"
+• CIV–MEM–TEMPLATE v2.9
+• CIV–SCHOLAR–TEMPLATE v2.10"
 
 2026-01-28 (MEARSHEIMER COMMAND INTEGRATION):
 • CIV–MIND–MEARSHEIMER: v2.4 → v2.5 (apply mearsheimer cognition command)
@@ -304,5 +311,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.9
+END OF FILE — VERSION–MANIFEST — v1.10
 ────────────────────────────────────────────────────────────

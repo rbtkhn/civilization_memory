@@ -318,9 +318,9 @@ XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–QUEBEC — First Empire loss
 • MEM–FRANCIA–WAR–YORKTOWN — Colonial revenge
-• MEM–FRANCIA–LOUISIANA — American remnant sold
+• MEM–FRANCIA–EMPIRE–LOUISIANA–PURCHASE — American remnant sold
 • MEM–FRANCIA–WAR–NAVY — Naval requirement
-• MEM–FRANCIA–ALGERIA — Key possession
+• MEM–FRANCIA–EMPIRE–ALGERIA — Key possession
 • MEM–FRANCIA–WAR–INDOCHINA — Decolonization war
 • MEM–FRANCIA–DE–GAULLE — Decolonizer
 • MEM–FRANCIA–THIRD–REPUBLIC — Empire builder

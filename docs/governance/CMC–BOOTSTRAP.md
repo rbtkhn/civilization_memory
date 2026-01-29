@@ -72,7 +72,7 @@ v2.7 updates:
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6)
 ────────────────────────────────────────────────────────────
-This version aligns with CIV–MEM–CORE v2.6 and CIV–MIND–BARNES v2.5.
+This version aligns with CIV–MEM–CORE v2.7 and CIV–MIND–BARNES v2.5.
 
 v2.6 updates:
 • SCHOLAR MODE CONTRACTS: Full operational definitions for WRITE, LEARN, IMAGINE
@@ -106,7 +106,7 @@ This version corrects discrepancies identified in v1.0:
 VERSION BINDINGS (CURRENT)
 ────────────────────────────────────────────────────────────
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.6
+• CIV–MEM–CORE: v2.7
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
@@ -115,11 +115,11 @@ MIND PROFILES:
 • CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
-• CIV–MEM–TEMPLATE: v2.8
-• CIV–SCHOLAR–TEMPLATE: v2.9
+• CIV–MEM–TEMPLATE: v2.9
+• CIV–SCHOLAR–TEMPLATE: v2.10
 • CIV–SCHOLAR–PROTOCOL: v2.2
 
-Declare: "Bound by CMC–BOOTSTRAP v2.10"
+Declare: "Bound by CMC–BOOTSTRAP v2.11"
 
 ────────────────────────────────────────────────────────────
 SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0 — NEW)
@@ -154,7 +154,7 @@ MODE-SPECIFIC APPLICATION:
 │ Canonical   │ Full    │ Patterns│ None          │
 └─────────────┴─────────┴─────────┴───────────────┘
 
-See: CIV–MEM–CORE v2.6, Section XXII for full protocol.
+See: CIV–MEM–CORE v2.7, Section XXII for full protocol.
 
 ────────────────────────────────────────────────────────────
 SCHOLAR MODE ARCHITECTURE (HARD)
@@ -388,5 +388,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v2.10
+END — CMC–BOOTSTRAP — v2.11
 ────────────────────────────────────────────────────────────

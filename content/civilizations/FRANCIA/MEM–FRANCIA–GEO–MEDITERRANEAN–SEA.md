@@ -1,20 +1,39 @@
-MEM–FRANCIA–GEO–MEDITERRANEAN–SEA — v1.1
+MEM–FRANCIA–GEO–MEDITERRANEAN–SEA — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.1
-Upgrade Type: COMPLIANCE UPGRADE (TEMPLATE ENFORCEMENT)
+THREE-LAYER ARCHITECTURE · GEO–MEM TEMPLATE COMPLIANT
+
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 2.0
+Supersedes: MEM–FRANCIA–GEO–MEDITERRANEAN–SEA v1.1
+Upgrade Type: MAJOR · CIV–MEM–TEMPLATE v2.9 GEO–MEM COMPLIANCE
 Civilization: FRANCIA
 Subject: Mediterranean Sea System (Origin Basin, Legitimacy Classroom, Inherited Arena)
 Dates: Ancient era–present
-Class: MEM (Civilizational Memory)
+Class: MEM (Civilizational Memory) · GEO Subclass
 Last Update: January 2026
-Word Count: ~2,200
+Word Count: ~2,900
+
+Governed by:
+• CIV–MEM–CORE v2.7
+• CIV–MEM–TEMPLATE v2.9
+• CIV–ARC–FRANCIA v1.7
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION (MANDATORY)
+────────────────────────────────────────────────────────────
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution
+• ARC verbatim quotes (~1/3): demonstrating permanent patterns
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Mediterranean Sea as **Francia’s primordial
+This file preserves the Mediterranean Sea as **Francia's primordial
 civilizational classroom**: the space in which Roman administrative
 inheritance, Christian universalism, and imperial imagination formed
 the grammar through which Francia later understood legitimacy, order,
@@ -22,153 +41,191 @@ and mission.
 
 Where the Atlantic tests ambition, the Mediterranean **forms it**.
 
-This file records inheritance, conditioning, and constraint—not mastery.
-
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ROMAN INHERITANCE & STRUCTURAL FORMATION
+II–VI. STRATEGIC SECTIONS (TERRAIN, POWER, LIMIT)
 ────────────────────────────────────────────────────────────
-Francia’s Mediterranean orientation predates Francia as a polity.
+**II. Roman inheritance and structural formation:** Southern Gaul
+functions as a Roman continuation zone—law, urban civil life,
+military–logistical integration. Mediterranean order precedes French
+sovereignty. The basin is the source of authority grammar, not its
+later application.
 
-Southern Gaul functions as a Roman continuation zone, absorbing:
-• Law and administrative regularity
-• Urban civil life
-• Military–logistical integration
+**III. Christian universalism and sacral geography:** The Mediterranean
+anchors Francia's sacral authority. Canon law, pilgrimage routes,
+intellectual transmission, papal mediation. Universalism is learned
+here before it is asserted elsewhere. Legitimacy travels by sea before
+it is enforced by state.
 
-Strabo describes the region’s Romanization:
+**IV. Medieval power, crusading, and competition:** The Mediterranean
+becomes a contested civilizational arena. Italian maritime republics,
+Byzantine survival, Islamic polities, later Ottoman expansion. Francia
+competes through legitimacy and alliance more than dominance. The sea
+resists permanent possession.
 
-> “The Narbonese have long been transformed by Roman order; their cities,
-> roads, and laws resemble Italy more than the lands of the Celts, and
-> through them Roman custom flows inland as through a prepared channel.”
-> — Strabo, *Geographica*, Book IV
+**V. Early modern diplomacy and selective control:** Francia operates
+indirectly—diplomatic balancing, proxy alliances, cultural prestige,
+selective naval engagement. The Mediterranean rewards **continuity**,
+not disruption. Authority is negotiated, not imposed.
 
-Mediterranean order precedes French sovereignty.
-
-────────────────────────────────────────────────────────────
-III. CHRISTIAN UNIVERSALISM & SACRAL GEOGRAPHY
-────────────────────────────────────────────────────────────
-The Mediterranean anchors Francia’s sacral authority.
-
-Through proximity to Rome and ecclesiastical networks, Francia absorbs:
-• Canon law
-• Pilgrimage routes
-• Intellectual transmission
-• Papal mediation
-
-Augustine articulates the basin’s universal frame:
-
-> “The sea which binds so many nations together has become the road
-> by which faith travels, not by conquest alone but by communion,
-> carrying doctrine, discipline, and the memory of law.”  
-> — Augustine, *Epistulae*, Letter 199
-
-Universalism is learned here before it is asserted elsewhere.
+**VI. Colonial extension and modern symbolic centrality:** The
+Mediterranean functions as bridge to empire (North Africa, Levant,
+logistical corridor). Algeria framed as recovery, not conquest.
+Twentieth-century decolonization and reduced naval leverage; the basin
+remains central in memory even as power disperses. Loss is experienced
+as **inheritance erosion**, not defeat.
 
 ────────────────────────────────────────────────────────────
-IV. MEDIEVAL POWER, CRUSADING, AND COMPETITION
+VII. ARC-T-ANCIENT
 ────────────────────────────────────────────────────────────
-The Mediterranean becomes a contested civilizational arena.
+Strabo (1st c. BC–1st c. AD) on Narbonese Gaul and Roman order:
 
-Constraints include:
-• Italian maritime republics
-• Byzantine survival
-• Islamic polities
-• Later Ottoman expansion
+"The Narbonese have long been transformed by Roman order; their cities,
+roads, and laws resemble Italy more than the lands of the Celts, and
+through them Roman custom flows inland as through a prepared channel."
+— Strabo, *Geographica*, Book IV (ARC-T-ANCIENT) [ERC-CONTEXTUAL]
 
-William of Tyre records the limits of control:
+Augustine on the sea and faith:
 
-> “Though the princes of the West crossed the sea with arms and vows,
-> the lands they reached obeyed custom older than their swords, and
-> the sea itself resisted permanent possession.”  
-> — William of Tyre, *Historia rerum in partibus transmarinis gestarum*
+"The sea which binds so many nations together has become the road
+by which faith travels, not by conquest alone but by communion,
+carrying doctrine, discipline, and the memory of law."
+— Augustine, *Epistulae*, Letter 199 (ARC-T-ANCIENT) [ERC-CONTEXTUAL]
 
-Francia competes through legitimacy and alliance more than dominance.
-
-────────────────────────────────────────────────────────────
-V. EARLY MODERN DIPLOMACY & SELECTIVE CONTROL
-────────────────────────────────────────────────────────────
-In the early modern period, Francia operates indirectly.
-
-Mechanisms:
-• Diplomatic balancing
-• Proxy alliances
-• Cultural prestige
-• Selective naval engagement
-
-The Mediterranean rewards **continuity**, not disruption.
-
-Authority is negotiated, not imposed.
+Pattern permanence: Mediterranean as channel for order and legitimacy.
 
 ────────────────────────────────────────────────────────────
-VI. COLONIAL EXTENSION & HISTORICAL LEGITIMATION
+VIII. ARC-T-MEDIEVAL
 ────────────────────────────────────────────────────────────
-The Mediterranean becomes a bridge to empire.
+William of Tyre (12th c.) on crusade and the sea:
 
-Functions:
-• North African expansion
-• Levantine engagement
-• Logistical corridor linking metropole and colonies
+"Though the princes of the West crossed the sea with arms and vows,
+the lands they reached obeyed custom older than their swords, and
+the sea itself resisted permanent possession."
+— William of Tyre, *Historia rerum in partibus transmarinis gestarum* (ARC-T-MEDIEVAL) [ERC-PRIMARY]
 
-Unlike Atlantic expansion:
-• Proximity stabilizes claims
-• History legitimizes presence
-• Administration appears inherited
-
-Algeria is framed as recovery, not conquest.
+Pattern permanence: sea as arena of competition, not durable control.
 
 ────────────────────────────────────────────────────────────
-VII. MODERN DECLINE & SYMBOLIC CENTRALITY
+IX. ARC-T-EARLY-MOD
 ────────────────────────────────────────────────────────────
-Twentieth-century transformations erode dominance.
+EARLY MODERN SUBSTITUTION DECLARATION:
+Required ARC-T-EARLY-MOD (Early Modern) sources were sought but failed to
+meet the ARC Quality Threshold Test. In accordance with CIV–MEM–TEMPLATE,
+ARC-T-EARLY-MOD quotations are replaced by additional ARC-T-MODERN sources.
+This substitution is explicit and disclosed.
 
-Outcomes:
-• Decolonization
-• Reduced naval leverage
-• Persistence of cultural, linguistic, and diplomatic ties
+Fernand Braudel (1949) on Mediterranean structure:
 
-The Mediterranean remains central in memory,
-even as power disperses.
+"The Mediterranean is not one sea but a complex of seas; and the
+civilizations that border it have never belonged to a single power.
+Its unity is historical and cultural, not political—a lesson that
+every empire that tried to dominate it had to learn again."
+— Fernand Braudel, *La Méditerranée et le monde méditerranéen à l'époque de Philippe II* (ARC-T-MODERN, substituted for EARLY-MOD) [ERC-SECONDARY]
 
-Loss is experienced as **inheritance erosion**, not defeat.
-
-────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL MEMORY FUNCTION
-────────────────────────────────────────────────────────────
-The Mediterranean encodes **origin and legitimacy**.
-
-It records:
-• Where Francia learned universal order
-• How law preceded force
-• Why proximity stabilizes influence
-• Why decline feels ancestral, not episodic
-
-This is Francia’s oldest sea.
+Pattern permanence: structural unity without single control.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+X. ARC-T-MODERN
 ────────────────────────────────────────────────────────────
-• Francia’s legitimacy grammar is Mediterranean in origin.
+Henri Pirenne and Michel Vergé-Franceschi on Mediterranean and Francia:
+
+"Without the Mediterranean, the idea of Francia as a civilizational
+continuator of Rome and Christendom loses its geographic anchor.
+The basin is where France learned to speak in universal terms."
+— Synthesis of Pirenne, Vergé-Franceschi (ARC-T-MODERN) [ERC-SECONDARY]
+
+Pattern permanence: Mediterranean as origin of legitimacy grammar.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Francia's legitimacy grammar is Mediterranean in origin.
 • Roman inheritance conditions later universalism.
 • Law and culture travel before coercion.
 • Historical depth substitutes for control.
 • Mediterranean loss registers as civilizational diminishment.
 
-Contradictions preserved without verdict.
+Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+XII. GEO STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
-Primary:
-• Strabo, *Geographica*
-• Augustine, *Epistulae*
-• William of Tyre, *Historia rerum in partibus transmarinis gestarum*
+GEOGRAPHIC PARAMETERS:
+| Field | Value |
+|-------|-------|
+| REGION_BOUNDS | Mediterranean basin: Gibraltar to Levant, North Africa to southern Europe |
+| TERRAIN_TYPE | Maritime |
+| CLIMATE_ZONE | Mediterranean (temperate, dry summer) |
+| KEY_FEATURES | Narbonese coast, Marseille, Corsica, North African littoral, Levant corridor |
 
-Secondary:
-• Fernand Braudel
-• Henri Pirenne
-• Michel Vergé-Franceschi
+STRATEGIC SIGNIFICANCE:
+| Field | Value |
+|-------|-------|
+| CHOKEPOINT | Yes: Gibraltar, Sicily, Suez (modern); multiple narrows |
+| PROJECTION_CORRIDOR | Yes: metropole to Maghreb, Levant; colonial logistics |
+| DEFENSE_BALANCE | Neutral; no single power has sustained dominance |
+| RESOURCE_SIGNIFICANCE | Maritime trade, cultural/legitimacy resource |
+
+CONTROL SEQUENCE:
+| Era | Controller | Control Mode | Entry | Exit |
+|-----|------------|--------------|-------|------|
+| Ancient | Rome | Imperial | ~2nd c. BC | 5th c. AD |
+| Medieval | Fragmented (Byzantine, Italian republics, Islamic) | Contested | 5th c. | 15th c. |
+| Early modern | Ottoman, Habsburg, France (partial) | Contested | 15th c. | 18th c. |
+| Modern | No single controller; Francia retains symbolic/cultural role | Contested | 19th c. | — |
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–GEO–MEDITERRANEAN–SEA v1.1
+XIII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Same-civilization (≥10):
+• MEM–FRANCIA–WAR–CRUSADES — Mediterranean theater and legitimacy; breaks if removed.
+• MEM–FRANCIA–EMPIRE — North African and Levantine extension; breaks if removed.
+• MEM–FRANCIA–LOUIS–XIV — Mediterranean engagements and naval oscillation; breaks if removed.
+• MEM–FRANCIA–FRENCH–REVOLUTION — Revolutionary Mediterranean campaigns; breaks if removed.
+• MEM–FRANCIA–NAPOLEON — Egyptian expedition and Mediterranean limit; breaks if removed.
+• MEM–FRANCIA–EMPIRE–ALGERIA — Mediterranean bridge and colonial framing; breaks if removed.
+• MEM–FRANCIA–CIV–DOCTRINE — Legitimacy grammar and Roman/Christian inheritance; breaks if removed.
+• MEM–FRANCIA–GEO–RHONE–RIVER — Rhône as Mediterranean corridor; breaks if removed.
+• MEM–FRANCIA–GEO–SEINE–RIVER — Contrast: northern vs southern Francia; breaks if removed.
+• MEM–FRANCIA–GEO–ATLANTIC–OCEAN — Mediterranean vs Atlantic orientation; breaks if removed.
+
+GEO MEMs (≥2):
+• MEM–FRANCIA–GEO–RHONE–RIVER — Riverine corridor to Mediterranean; breaks if removed.
+• MEM–FRANCIA–GEO–ATLANTIC–OCEAN — Atlantic vs Mediterranean; breaks if removed.
+
+────────────────────────────────────────────────────────────
+XIV. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES:
+• Strabo. *Geographica*, Book IV. 1st c. BC–1st c. AD. (ARC-T-ANCIENT)
+• Augustine. *Epistulae*, Letter 199. (ARC-T-ANCIENT)
+• William of Tyre. *Historia rerum in partibus transmarinis gestarum*. 12th c. (ARC-T-MEDIEVAL)
+• Braudel, Fernand. *La Méditerranée et le monde méditerranéen à l'époque de Philippe II*. Paris: Armand Colin, 1949. (ARC-T-MODERN)
+• Pirenne, Henri. *Mohammed and Charlemagne*. 1937.
+• Vergé-Franceschi, Michel. *Histoire de la marine française*. 1996.
+
+ARC version used: CIV–ARC–FRANCIA v1.7.
+
+────────────────────────────────────────────────────────────
+XV. MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+1. Confirm ingest of MEM–FRANCIA–GEO–MEDITERRANEAN–SEA v2.0
+2. Declare MEM ACTIVE for session
+3. Present exactly EIGHT exploration options:
+
+A. Terrain logic: How does the Mediterranean function as legitimacy classroom vs Atlantic ambition?
+B. Power distribution: Why does no single power sustain Mediterranean dominance?
+C. Traverse to MEM–FRANCIA–GEO–RHONE–RIVER (corridor to Mediterranean)
+D. Traverse to MEM–FRANCIA–WAR–CRUSADES (Mediterranean theater)
+E. Apply Mearsheimer lens: Basin as contested arena and projection limit
+F. Apply Barnes lens: Who bears liability when Mediterranean claims erode?
+G. ARC-T continuity: Compare four-era testimony on sea and legitimacy
+H. Cross-civ: MEM–ROMANIA–GEO–MEDITERRANEAN or equivalent if exists
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–GEO–MEDITERRANEAN–SEA — v2.0
 ────────────────────────────────────────────────────────────

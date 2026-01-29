@@ -1,4 +1,4 @@
-MEM–FRANCIA–ALGERIA — v1.0
+MEM–FRANCIA–EMPIRE–ALGERIA — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
@@ -12,7 +12,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Algeria as **Francia’s most intimate imperial
+This file preserves Algeria as **Francia's most intimate imperial
 contradiction**: a colony treated not as periphery but as extension,
 where universalist claims collided with racial hierarchy, settler
 domination, and sustained coercion.
@@ -58,7 +58,7 @@ Inclusion is declarative, not lived.
 ────────────────────────────────────────────────────────────
 IV. UNIVERSALISM VS. COERCION
 ────────────────────────────────────────────────────────────
-Algeria exposes universalism’s limit.
+Algeria exposes universalism's limit.
 
 Patterns:
 • Republican language paired with repression
@@ -122,18 +122,19 @@ Lessons:
 • Violence corrodes legitimacy faster than loss.
 • Abandonment can be preservative.
 
-Algeria is Francia’s imperial mirror.
+Algeria is Francia's imperial mirror.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Algeria exposes universalism’s hypocrisy.
+• Algeria exposes universalism's hypocrisy.
 • Inclusion without equality accelerates revolt.
 • Empire can fracture the metropole.
 • Letting go can restore coherence.
-• Algeria marks Francia’s imperial endgame.
+• Algeria marks Francia's imperial endgame.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–ALGERIA — v1.0
+END OF FILE — MEM–FRANCIA–EMPIRE–ALGERIA — v1.0
+────────────────────────────────────────────────────────────

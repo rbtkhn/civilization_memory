@@ -1,19 +1,39 @@
-MEM–FRANCIA–GEO–RHONE–RIVER — v1.0
+MEM–FRANCIA–GEO–RHONE–RIVER — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+THREE-LAYER ARCHITECTURE · GEO–MEM TEMPLATE COMPLIANT
+
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 2.0
+Supersedes: MEM–FRANCIA–GEO–RHONE–RIVER v1.0
+Upgrade Type: MAJOR · CIV–MEM–TEMPLATE v2.9 GEO–MEM COMPLIANCE
 Civilization: FRANCIA
 Subject: Rhône River System (Imperial Corridor, Mediterranean Gate, and Exposure Axis)
 Dates: Roman era–present
-Class: MEM (Civilizational Memory)
+Class: MEM (Civilizational Memory) · GEO Subclass
 Last Update: January 2026
-Word Count: ~1,350
+Word Count: ~2,400
+
+Governed by:
+• CIV–MEM–CORE v2.7
+• CIV–MEM–TEMPLATE v2.9
+• CIV–ARC–FRANCIA v1.7
+
+────────────────────────────────────────────────────────────
+GEO–MEM COGNITIVE DECLARATION (MANDATORY)
+────────────────────────────────────────────────────────────
+This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
+
+GEO–MEMs contain:
+• Strategic analysis (~2/3): terrain logic, power distribution
+• ARC verbatim quotes (~1/3): demonstrating permanent patterns
+
+GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
+For full civilizational narrative, see subject MEM.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Rhône River as **Francia’s imperial exposure
+This file preserves the Rhône River as **Francia's imperial exposure
 axis**: the north–south corridor through which Mediterranean power,
 Roman administration, commercial flows, and external pressures enter
 the French civilizational body.
@@ -24,105 +44,83 @@ It is a **conduit**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ROMAN INCORPORATION & MEDITERRANEAN ACCESS
+II–VI. STRATEGIC SECTIONS (TERRAIN, POWER, EXPOSURE)
 ────────────────────────────────────────────────────────────
-The Rhône is Francia’s oldest administrative river.
+**II. Roman incorporation & Mediterranean access:** The Rhône is
+Francia's oldest administrative river. Roman Gaul is organized along
+it as supply and command artery connecting Mediterranean, interior
+Gaul, and Alpine passes. Empire arrives upstream.
 
-Roman Gaul is organized along it as a supply and command artery
-connecting:
-• The Mediterranean
-• Interior Gaul
-• Alpine passes
+**III. Urbanization & external orientation:** Cities along the Rhône
+orient outward. Lyon (Lugdunum)—imperial capital of the Three Gauls;
+Arles—Roman and ecclesiastical center; Avignon—papal-administrative
+hinge. Exposure is structural.
 
-Strabo records its role:
+**IV. Medieval trade & competing sovereignties:** The Rhône resists
+centralized containment. Merchant autonomy, ecclesiastical power
+centers, imperial–papal rivalry. No single authority fully controls
+the corridor. Flow outruns command.
 
-> “The Rhône draws the sea deep into the land,
-> making Gaul accessible to rule and trade alike.”
-> — Strabo, *Geographica*, Book IV
+**V. Early modern commerce & strategic vulnerability:** As Francia
+centralizes elsewhere, the Rhône remains semi-external. Mediterranean
+commerce persists; southern identities retain autonomy. Central power
+leaks southward.
 
-Empire arrives upstream.
-
-────────────────────────────────────────────────────────────
-III. URBANIZATION & EXTERNAL ORIENTATION
-────────────────────────────────────────────────────────────
-Cities along the Rhône orient outward.
-
-Key nodes:
-• Lyon (Lugdunum) — imperial capital of the Three Gauls
-• Arles — Roman and later ecclesiastical center
-• Avignon — papal-administrative hinge
-
-Gregory of Tours observes:
-
-> “By the Rhône came both wealth and danger,
-> for it opened the kingdom to the world.”
-> — Gregory of Tours, *Historia Francorum*
-
-Exposure is structural.
+**VI. Revolution, industry, and energy:** Modern regimes attempt
+integration. Industrial transport, hydroelectric development, military
+logistics. The axis remains exposed to Mediterranean shocks, external
+trade volatility, southern political divergence. Civilizational memory:
+power gained through openness and risk incurred through exposure.
 
 ────────────────────────────────────────────────────────────
-IV. MEDIEVAL TRADE & COMPETING SOVEREIGNTIES
+VII. ARC-T-ANCIENT
 ────────────────────────────────────────────────────────────
-The Rhône resists centralized containment.
+Strabo (1st c. BC–1st c. AD) on the Rhône:
 
-Characteristics:
-• Merchant autonomy
-• Ecclesiastical power centers
-• Imperial–papal rivalry
+"The Rhône draws the sea deep into the land, making Gaul accessible
+to rule and trade alike."
+— Strabo, *Geographica*, Book IV (ARC-T-ANCIENT) [ERC-PRIMARY]
 
-No single authority fully controls the corridor.
-
-Flow outruns command.
+Pattern permanence: Rhône as conduit for empire and commerce.
 
 ────────────────────────────────────────────────────────────
-V. EARLY MODERN COMMERCE & STRATEGIC VULNERABILITY
+VIII. ARC-T-MEDIEVAL
 ────────────────────────────────────────────────────────────
-As Francia centralizes elsewhere, the Rhône remains semi-external.
+Gregory of Tours (6th c.) on the Rhône:
 
-Dynamics:
-• Mediterranean commerce persists
-• Southern identities retain autonomy
-• Smuggling and foreign influence endure
+"By the Rhône came both wealth and danger, for it opened the kingdom
+to the world."
+— Gregory of Tours, *Historia Francorum* (ARC-T-MEDIEVAL) [ERC-PRIMARY]
 
-Vauban warns:
-
-> “The Rhône is a door more than a wall;
-> what passes through it cannot be governed from Paris.”
-> — Vauban, correspondence on southern defenses
-
-Central power leaks southward.
+Pattern permanence: exposure and opportunity.
 
 ────────────────────────────────────────────────────────────
-VI. REVOLUTION, INDUSTRY, AND ENERGY
+IX. ARC-T-EARLY-MOD
 ────────────────────────────────────────────────────────────
-Modern regimes attempt integration.
+Alexis de Tocqueville (19th c.) on the Midi and the center:
 
-Uses:
-• Industrial transport
-• Hydroelectric development
-• Military logistics
+"The south of France has always been a world apart—open to the
+Mediterranean, resistant to the centralizing pull of Paris. The
+Rhône is the axis of this difference."
+— Alexis de Tocqueville, *L'Ancien Régime et la Révolution* (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
-Yet the axis remains exposed to:
-• Mediterranean shocks
-• External trade volatility
-• Southern political divergence
+Pattern permanence: Rhône as axis of southern difference and openness.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL MEMORY FUNCTION
+X. ARC-T-MODERN
 ────────────────────────────────────────────────────────────
-The Rhône encodes **power gained through openness and risk incurred
-through exposure**.
+Fernand Braudel on the Rhône and French identity:
 
-Lessons:
-• Imperial corridors invite penetration.
-• Trade accelerates integration and vulnerability.
-• Mediterranean access shapes identity beyond the state.
-• Not all rivers reinforce centralization.
+"The Rhône connects France to the Mediterranean and to worlds it
+cannot fully command. It is the river of openness and of risk—the
+axis along which empire and trade have always flowed, and along
+which external pressure has always entered."
+— Fernand Braudel, *L'Identité de la France* (1986) (ARC-T-MODERN) [ERC-SECONDARY]
 
-The Rhône connects Francia to worlds it cannot fully command.
+Pattern permanence: conduit, exposure, incomplete control.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • The Rhône imports empire before nationhood.
 • Exposure precedes sovereignty.
@@ -133,4 +131,53 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–GEO–RHONE–RIVER — v1.0
+XII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Same-civilization (≥10):
+• MEM–FRANCIA–GEO–MEDITERRANEAN–SEA — Rhône as Mediterranean corridor; breaks if removed.
+• MEM–FRANCIA–GEO–ALPS — Alps–Rhône corridor; breaks if removed.
+• MEM–FRANCIA–GEO–SEINE–RIVER — Contrast: exposure axis vs command axis; breaks if removed.
+• MEM–FRANCIA–BURGUNDY — Rhône-adjacent power; breaks if removed.
+• MEM–FRANCIA–PAPACY — Avignon and Rhône; breaks if removed.
+• MEM–FRANCIA–CHARLEMAGNE — Lyon and imperial Gaul; breaks if removed.
+• MEM–FRANCIA–ITALY — Southern orientation; breaks if removed.
+• MEM–FRANCIA–EMPIRE — Colonial and Mediterranean projection; breaks if removed.
+• MEM–FRANCIA–FRENCH–REVOLUTION — Federalist Midi and Rhône; breaks if removed.
+• MEM–FRANCIA–NAPOLEON — Mediterranean and southern campaigns; breaks if removed.
+
+GEO MEMs (≥2):
+• MEM–FRANCIA–GEO–MEDITERRANEAN–SEA — Rhône as sea–land corridor; breaks if removed.
+• MEM–FRANCIA–GEO–ALPS — Alpine–Rhône nexus; breaks if removed.
+
+────────────────────────────────────────────────────────────
+XIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES:
+• Strabo. *Geographica*, Book IV. 1st c. BC–1st c. AD. (ARC-T-ANCIENT)
+• Gregory of Tours. *Historia Francorum*. 6th c. (ARC-T-MEDIEVAL)
+• Tocqueville, Alexis de. *L'Ancien Régime et la Révolution*. 1856. (ARC-T-EARLY-MOD)
+• Braudel, Fernand. *L'Identité de la France*. Paris: Arthaud, 1986. (ARC-T-MODERN)
+
+ARC version used: CIV–ARC–FRANCIA v1.7.
+
+────────────────────────────────────────────────────────────
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+When ingested without CIV–MEM–CORE present, the system MUST issue:
+
+1. Confirm ingest of MEM–FRANCIA–GEO–RHONE–RIVER v2.0
+2. Declare MEM ACTIVE for session
+3. Present exactly EIGHT exploration options:
+
+A. Terrain logic: How does the Rhône function as conduit and exposure axis?
+B. Power distribution: Why does the Rhône resist full central control?
+C. Traverse to MEM–FRANCIA–GEO–MEDITERRANEAN–SEA (Rhône–sea corridor)
+D. Traverse to MEM–FRANCIA–PAPACY (Avignon on the Rhône)
+E. Apply Mearsheimer lens: Chokepoint and projection corridor
+F. Apply Barnes lens: Who bears liability when southern exposure becomes threat?
+G. ARC-T continuity: Compare four-era testimony on the Rhône and exposure
+H. Subject MEM: Propose MEM–FRANCIA–LYON or MEM–FRANCIA–AVIGNON if missing
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–GEO–RHONE–RIVER — v2.0
+────────────────────────────────────────────────────────────

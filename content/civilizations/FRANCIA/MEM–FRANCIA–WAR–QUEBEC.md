@@ -269,7 +269,7 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–SEVEN–YEARS — campaign context
-• MEM–FRANCIA–LOUISIANA — later sale (1803)
+• MEM–FRANCIA–EMPIRE–LOUISIANA–PURCHASE — later sale (1803)
 • MEM–FRANCIA–NEW–FRANCE — colonial context
 • MEM–FRANCIA–WAR–YORKTOWN — later revenge
 • MEM–FRANCIA–CHOISEUL — minister's decision
@@ -277,7 +277,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–CARIBBEAN — retained colonies
 • MEM–FRANCIA–COLONIAL–EMPIRE — broader pattern
 • MEM–FRANCIA–WAR–INDOCHINA — later abandonment
-• MEM–FRANCIA–ALGERIA — later abandonment
+• MEM–FRANCIA–EMPIRE–ALGERIA — later abandonment
 
 Cross-civilizational:
 • MEM–ANGLIA–WAR–QUEBEC — British perspective
