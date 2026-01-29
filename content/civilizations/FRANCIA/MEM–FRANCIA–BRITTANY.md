@@ -136,7 +136,7 @@ FRANCIA:
 • MEM–FRANCIA–GEO–ATLANTIC–OCEAN — Maritime Brittany; Atlantic approaches
 • MEM–FRANCIA–PARIS — Paris/core vs Brittany as periphery
 • MEM–FRANCIA–BURGUNDY — Another great fief; different fate (partition, loss)
-• MEM–FRANCIA–LOUVRE — Royal center; Brittany incorporated into realm
+• MEM–FRANCIA–PARIS–LOUVRE — Royal center; Brittany incorporated into realm
 
 Cross-civilizational:
 • (None required for minimum)

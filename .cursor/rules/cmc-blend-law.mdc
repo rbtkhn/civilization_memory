@@ -1,0 +1,34 @@
+---
+description: Enforces Proportional Blend Law when creating or editing MEMs (GEO vs Subject)
+alwaysApply: true
+---
+
+# CMC Proportional Blend Law
+
+When creating or editing MEM files (WRITE mode), apply the **Proportional Blend Law** per CIV–MEM–CORE and CMC–BOOTSTRAP:
+
+## GEO–MEM Files
+
+- **2/3 Mearsheimer** — structural/power logic, force-ratio, geographic constraints, strategic terrain
+- **1/3 Mercouris** — ARC quotes, civilizational evidence, institutional continuity
+- Mearsheimer is **primary voice**; Mercouris supplies evidence layer.
+
+## Subject MEM Files
+
+- **2/3 Mercouris** — civilizational narrative, legitimacy, institutional continuity
+- **1/3 Mearsheimer** — strategic constraints, power distribution, survival incentives
+- Mercouris is **primary voice**; Mearsheimer frames constraints.
+
+## Barnes
+
+- **Barnes does NOT participate** in the Proportional Blend Law.
+- Barnes is OGE-invoked (catalyst); he does not weight GEO vs Subject MEM content.
+
+## Self-Check (MEM Production)
+
+- [ ] File type identified (GEO–MEM vs Subject MEM)?
+- [ ] Primary voice 2/3, secondary 1/3?
+- [ ] GEO–MEM: Mearsheimer primary, Mercouris evidence (ARC quotes)?
+- [ ] Subject MEM: Mercouris primary, Mearsheimer constraints?
+
+Reference: CIV–MEM–CORE VP-1.g, CMC–BOOTSTRAP ACTIVE CONSTRAINTS, CIV–MIND–MEARSHEIMER IV.B

@@ -1,16 +1,21 @@
-MEM–FRANCIA–VOLTAIRE — v1.0
+MEM–FRANCIA–LIT–VOLTAIRE — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON INTEGRATION (ARC-T-MODERN)
 Civilization: FRANCIA
 Subject: Voltaire (François-Marie Arouet)
 Dates: 1694–1778 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,150
+
+Governed by: CIV–MEM–CORE v2.7, CIV–MEM–TEMPLATE v2.9, CIV–ARC–FRANCIA v1.8
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Voltaire as **Francia’s corrosive rationalist
+This file preserves Voltaire as **Francia's corrosive rationalist
 engine**: the figure who weaponized wit, reason, and ridicule to
 delegitimize sacral authority, clerical power, and inherited privilege
 without proposing a durable replacement system.
@@ -19,6 +24,17 @@ Voltaire does not build a new order.
 He **dissolves belief in the old one**.
 
 Contradictions are preserved without synthesis.
+
+Verbatim scholarship (ARC-T-MODERN):
+
+Roger Pearson's biography frames the figure that emerges from the life
+and works: Voltaire is "not an original thinker, but a 'great and
+tireless communicator'" whose impact lay in dissemination and
+delegitimation rather than systematic construction (Roger Pearson,
+*Voltaire Almighty: A Life in Pursuit of Freedom* [London: Bloomsbury,
+2005], pp. 507–08) (ARC-T-MODERN) [ERC-SECONDARY]. That formulation
+aligns with this MEM's thesis: Voltaire weakens the old regime without
+designing its successor; critique outruns construction.
 
 ────────────────────────────────────────────────────────────
 II. FORMATIVE ORIGINS & INTELLECTUAL POSTURE
@@ -39,7 +55,7 @@ Reason functions as solvent, not structure.
 ────────────────────────────────────────────────────────────
 III. ANTI-CLERICALISM & SACRAL DELEGITIMATION
 ────────────────────────────────────────────────────────────
-Voltaire’s primary target is religious authority.
+Voltaire's primary target is religious authority.
 
 Methods:
 • Satire
@@ -66,7 +82,7 @@ Positions:
 
 Contradiction:
 • Liberty is defended rhetorically
-• Authority is entrusted to “reasonable elites”
+• Authority is entrusted to "reasonable elites"
 
 The people are educated, not empowered.
 
@@ -80,7 +96,7 @@ Patterns:
 • Support for centralized authority
 • Skepticism toward popular sovereignty
 
-He weakens absolutism’s moral claims while relying on its protection.
+He weakens absolutism's moral claims while relying on its protection.
 
 The state is flawed but preferable to chaos.
 
@@ -102,7 +118,7 @@ Critique outruns construction.
 ────────────────────────────────────────────────────────────
 VII. LONG-TERM CIVILIZATIONAL EFFECT
 ────────────────────────────────────────────────────────────
-Voltaire’s success is destructive rather than stabilizing.
+Voltaire's success is destructive rather than stabilizing.
 
 Outcomes:
 • Enlightenment critique mainstreamed
@@ -118,10 +134,25 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Delegitimation can proceed without alternative order.
 • Tolerance alone cannot govern.
 • Elites can dissolve belief faster than they can rebuild it.
-• Voltaire weakens Francia’s old regime without designing its successor.
+• Voltaire weakens Francia's old regime without designing its successor.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–VOLTAIRE — v1.0
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
+  London: Bloomsbury, 2005. (ARC-T-MODERN)
+
+ADDITIONAL SCHOLARLY SOURCES:
+• Pomeau, René, et al. *Voltaire en son temps*. 5 vols. Oxford: Voltaire
+  Foundation, 1994.
+• Cronk, Nicholas, ed. *Letters Concerning the English Nation* (Lettres
+  philosophiques). Oxford: Oxford University Press, 1994.
+
+ARC version pinned: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–LIT–VOLTAIRE — v1.1
 ────────────────────────────────────────────────────────────

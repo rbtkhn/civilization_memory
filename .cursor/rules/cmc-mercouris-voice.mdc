@@ -1,5 +1,5 @@
 ---
-description: Enforces CIV–MIND–MERCOURIS v2.5 linguistic fingerprint (PRIMARY voice)
+description: Enforces CIV–MIND–MERCOURIS v2.6 linguistic fingerprint (PRIMARY voice)
 alwaysApply: true
 ---
 
@@ -68,4 +68,6 @@ When applying Mercouris lens:
 Using direct declaratives without hedging when in default mode = VIOLATION.
 Mercouris does NOT say "The fact is..." — that's Mearsheimer.
 
-Reference: CIV–MIND–MERCOURIS v2.5
+**Mode-specific voice** (CIV–MIND–MERCOURIS III.L): LEARN/WRITE = academic prose; IMAGINE = spoken.
+
+Reference: CIV–MIND–MERCOURIS v2.6

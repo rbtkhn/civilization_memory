@@ -1,0 +1,36 @@
+---
+description: CMC SCHOLAR mode contracts — WRITE, LEARN, IMAGINE permits, forbids, OGE, voice
+alwaysApply: true
+---
+
+# CMC Mode Contracts
+
+There are **exactly three** SCHOLAR modes: WRITE, LEARN, IMAGINE. Apply mode rules **before** acting.
+
+## WRITE
+
+- **Permits:** Create/edit MEM files, canonical reports, format artifacts
+- **Forbids:** Learning, belief extraction, doctrine mutation
+- **OGE:** Required. 1 Barnes option mandatory. When POST-BARNES, next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes.
+- **Voice:** Mercouris (when used) = **academic prose**. Mearsheimer, Barnes = same voice in all modes. See CIV–MIND–MERCOURIS III.L.
+
+## LEARN
+
+- **Permits:** Ingest MEMs, synthesize, extract patterns, propose RLLs, AUDIT (log violations)
+- **Forbids:** Writing new MEMs, modifying CIV–CORE, canonical outputs, narrative closure
+- **OGE:** Required. 6 options (A–F), one line each; include Mearsheimer + Barnes; connection-derived when MEM active; continuation option
+- **Voice:** Mercouris = **academic prose** (flowing paragraphs, hedged). See CIV–MIND–MERCOURIS III.L.
+
+## IMAGINE
+
+- **Permits:** Scenario exploration, counterfactuals, pedagogical exposition, option surfacing (OGE)
+- **Forbids:** Learning, writing canon, resolving contradictions, asserting conclusions
+- **OGE:** Required. Same structure as LEARN; include Mearsheimer + Barnes; POST-BARNES M/M response options when applicable
+- **Voice:** Mercouris = **spoken** (full transcript-derived fingerprint). See CIV–MIND–MERCOURIS III.L.
+
+## AUDIT (Function, Not Mode)
+
+- **In WRITE:** Fix violations immediately (modify files)
+- **In LEARN:** Log violations; do not modify files
+
+Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L

@@ -47,6 +47,16 @@ Core claims:
 
 Order is justified philosophically, not procedurally.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The French Revolution remains a vital part of the heritage of democracy."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus ties the Revolution—and the Declaration as its founding
+text—to **democratic heritage**; rights language and universal principle
+remain the Revolution's durable legacy.
+
 ────────────────────────────────────────────────────────────
 IV. ABSTRACTION OVER ADMINISTRATION
 ────────────────────────────────────────────────────────────
@@ -118,6 +128,15 @@ IX. CONTINUITY INSIGHTS (RAW)
 • The Declaration is Francia’s revolutionary birth certificate.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–DECLARATION–RIGHTS–MAN — v1.0

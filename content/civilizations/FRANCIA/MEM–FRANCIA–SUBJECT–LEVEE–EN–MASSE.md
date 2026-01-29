@@ -96,6 +96,17 @@ Roberts thus ties the **Levée's mass base** to Napoleon's corps system—the
 Revolutionary citizen-soldier and the Imperial operational unit together
 define modern mass warfare.
 
+Jeremy D. Popkin (ARC–FRANCIA) on the Revolution as laboratory:
+
+"The French Revolution [is] the laboratory in which all the
+possibilities of modern politics, both positive and negative, were
+tested for the first time."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus frames the **Levée en masse** as one of those tested
+possibilities—mass mobilization as modern politics in action.
+
 ────────────────────────────────────────────────────────────
 III. THE DECREE: TEXT AND MEANING
 ────────────────────────────────────────────────────────────
@@ -327,6 +338,8 @@ XIV. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
 • Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
 • Keegan, John. *A History of Warfare*. London: Hutchinson, 1993.
 • Bell, David. *The First Total War: Napoleon's Europe and the
   Birth of Warfare as We Know It*. Boston: Houghton Mifflin, 2007.

@@ -19,6 +19,17 @@ He **cannot prevent it**.
 
 Contradictions are preserved without synthesis.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The continuing relevance of the French Revolution does not mean that
+the events of 1789 are simple or that they can offer clear answers to
+the questions of our own day."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus resists **simple blame**—Louis XVI's failure is part of a
+complex laboratory of modern politics, not a one-cause verdict.
+
 ────────────────────────────────────────────────────────────
 II. INHERITED CRISIS CONDITIONS
 ────────────────────────────────────────────────────────────
@@ -80,6 +91,15 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Louis XVI marks the end of dynastic Francia.
 
 Rupture preserved without absolution.
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–LOUIS–XVI — v1.0

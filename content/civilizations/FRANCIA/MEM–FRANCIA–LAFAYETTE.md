@@ -47,6 +47,18 @@ Effects:
 
 America appears as proof-of-concept.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The American and French revolutions started with very similar
+ideals—above all, the ideals of liberty and equality—but they took
+place under very different circumstances."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus frames **Lafayette's error**—transferring American form to
+France—as a difference of circumstance, not only of ideals; the
+Revolution's course was not prewritten by 1789.
+
 ────────────────────────────────────────────────────────────
 IV. MISINTERPRETATION OF TRANSFERABILITY
 ────────────────────────────────────────────────────────────
@@ -117,6 +129,15 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Lafayette is the human fault line between Anglia and Francia.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–LAFAYETTE — v1.0

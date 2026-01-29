@@ -143,7 +143,7 @@ VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCIA:
 • MEM–FRANCIA–REIMS — City and cathedral; Reims as coronation city
-• MEM–FRANCIA–NOTRE–DAME — Paris cathedral vs Reims; legitimacy geography
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Paris cathedral vs Reims; legitimacy geography
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Charles VII coronation 1429; moral reversal
 • MEM–FRANCIA–ORLEANS — Orléans → Reims sequence; Joan and route to coronation
 • MEM–FRANCIA–PARIS — Paris (capital) vs Reims (coronation); loss and recovery

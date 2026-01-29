@@ -1,14 +1,16 @@
-MEM–FRANCIA–HUGO — v1.0
+MEM–FRANCIA–HUGO — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Victor Hugo
 Dates: 1802–1885 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -19,6 +21,14 @@ empathy, and the sacralization of suffering.
 
 Where Voltaire dissolves belief,
 Hugo attempts to **re-enchant conscience**.
+
+Roger Pearson frames Voltaire as "not an original thinker, but a 'great
+and tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
+Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
+[ERC-SECONDARY]—the figure who hollowed out sacral authority through
+ridicule and reason. Hugo inherits that post-Voltairean void and seeks
+to refill it with moral spectacle and the sacralization of suffering,
+not with Voltairean critique.
 
 Contradictions are preserved without synthesis.
 

@@ -1,14 +1,15 @@
-MEM–FRANCIA–MONTESQUIEU — v1.0
+MEM–FRANCIA–MONTESQUIEU — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 1.0
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON INTEGRATION (ARC-T-MODERN)
 Civilization: FRANCIA
 Subject: Charles-Louis de Secondat, Baron de Montesquieu
 Dates: 1689–1755 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -121,6 +122,14 @@ In Francia:
 
 He becomes Francia’s missed exit.
 
+Roger Pearson's portrait of Voltaire sharpens the contrast: Voltaire is
+"not an original thinker, but a 'great and tireless communicator'"
+(*Voltaire Almighty: A Life in Pursuit of Freedom* [London: Bloomsbury,
+2005], pp. 507–08) (ARC-T-MODERN) [ERC-SECONDARY]. Montesquieu offers
+**structure** (comparative method, separation of powers); Voltaire offers
+**critique** (ridicule, delegitimation). The MEM's contrast—structure vs.
+critique—is thus grounded in secondary scholarship.
+
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -133,4 +142,16 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–MONTESQUIEU — v1.0
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
+  London: Bloomsbury, 2005. (ARC-T-MODERN)
+
+ADDITIONAL SCHOLARLY SOURCES: (as per MEM template; list if present)
+
+ARC version pinned: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–MONTESQUIEU — v1.1
+────────────────────────────────────────────────────────────

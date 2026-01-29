@@ -52,6 +52,18 @@ Roberts frames the **structural asymmetry** that outlives the First
 Coalition: revolutionary France as debtor state versus British-subsidized
 coalitions. The pattern is set in 1792–1797 and endures through 1815.
 
+Jeremy D. Popkin (ARC–FRANCIA) on the Revolution as political laboratory:
+
+"The French Revolution [is] the laboratory in which all the
+possibilities of modern politics, both positive and negative, were
+tested for the first time."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus frames the **First Coalition** as part of that
+laboratory—war as one of the "possibilities" tested when universalist
+legitimacy collides with dynastic Europe.
+
 ────────────────────────────────────────────────────────────
 III. DYNASTIC EUROPE & CONTAINMENT IMPULSE
 ────────────────────────────────────────────────────────────
@@ -139,6 +151,8 @@ IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES (verbatim in MEM):
 • Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
 
 Governed by: CIV–ARC–FRANCIA v1.8.
 

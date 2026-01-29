@@ -1,12 +1,15 @@
-MEM–FRANCIA–ROBESPIERRE — v1.0
+MEM–FRANCIA–FRENCH–REVOLUTION–ROBESPIERRE — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Maximilien Robespierre
 Dates: 1758–1794 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,150
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -27,6 +30,13 @@ Contradictions are preserved without synthesis.
 II. ORIGINS & REVOLUTIONARY FORMATION
 ────────────────────────────────────────────────────────────
 Robespierre emerges from Enlightenment legalism radicalized by crisis.
+
+Roger Pearson frames Voltaire as "not an original thinker, but a 'great
+and tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
+Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
+[ERC-SECONDARY]—Voltaire used law and publicity to attack injustice
+without substituting virtue for procedure. Robespierre inverts that:
+legality and publicity serve virtue; procedure yields to moral necessity.
 
 Formative traits:
 • Rousseauian moral philosophy
@@ -55,10 +65,22 @@ Authority flows from moral correctness, not consent.
 
 Opposition becomes proof of guilt.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The French Revolution [is] the laboratory in which all the
+possibilities of modern politics, both positive and negative, were
+tested for the first time."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus frames the Revolution—and Robespierre as the figure who
+operationalized virtue and terror—as **political laboratory**; both
+democratic principle and coercive enforcement were "tested" there.
+
 ────────────────────────────────────────────────────────────
 IV. VIRTUE AS STATE SUBSTITUTION
 ────────────────────────────────────────────────────────────
-Robespierre’s central innovation is virtue as governing principle.
+Robespierre's central innovation is virtue as governing principle.
 
 Core mechanisms:
 • Committee of Public Safety
@@ -157,5 +179,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Rupture preserved without absolution.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–ROBESPIERRE — v1.0
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–FRENCH–REVOLUTION–ROBESPIERRE — v1.1
 ────────────────────────────────────────────────────────────

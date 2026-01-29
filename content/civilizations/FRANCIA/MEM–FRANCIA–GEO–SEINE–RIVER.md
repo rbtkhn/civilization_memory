@@ -144,7 +144,7 @@ Tension preserved without verdict.
 XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–FRANCIA–NOTRE–DAME — Sacred and symbolic center on the Seine; breaks if removed.
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Sacred and symbolic center on the Seine; breaks if removed.
 • MEM–FRANCIA–FRENCH–REVOLUTION — Revolution radicalizes Paris–Seine centrality; breaks if removed.
 • MEM–FRANCIA–NAPOLEON — Centralization under Empire extends Seine-axis logic; breaks if removed.
 • MEM–FRANCIA–LOUIS–XIV — Versailles as counterpole; Paris–Seine remains administrative core; breaks if removed.
@@ -182,7 +182,7 @@ When ingested without CIV–MEM–CORE present, the system MUST issue:
 A. Terrain logic: How does the Seine function as command corridor?
 B. Power distribution: Why does Paris–Seine centralization persist across regimes?
 C. Traverse to MEM–FRANCIA–GEO–LOIRE–RIVER (contrast legitimacy spine vs command axis)
-D. Traverse to MEM–FRANCIA–NOTRE–DAME (symbolic center on the Seine)
+D. Traverse to MEM–FRANCIA–PARIS–NOTRE–DAME (symbolic center on the Seine)
 E. Apply Mearsheimer lens: Chokepoint and projection corridor analysis
 F. Apply Barnes lens: Who bears liability when centralization fails?
 G. ARC-T continuity: Compare ancient, medieval, early modern, modern testimony on Paris–Seine

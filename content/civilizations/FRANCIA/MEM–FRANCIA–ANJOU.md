@@ -123,7 +123,7 @@ FRANCIA:
 • MEM–FRANCIA–GEO–LOIRE–RIVER — Anjou on Loire
 • MEM–FRANCIA–GEO–ENGLISH–CHANNEL — Cross-Channel Angevin bloc broken 1204
 • MEM–FRANCIA–LANGUEDOC — Southern royal expansion; Anjou northern/western
-• MEM–FRANCIA–NOTRE–DAME — Paris/Capetian core vs Angevin periphery
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Paris/Capetian core vs Angevin periphery
 
 Cross-civilizational:
 • (None required for minimum)

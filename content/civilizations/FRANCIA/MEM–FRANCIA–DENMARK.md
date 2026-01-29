@@ -1,14 +1,16 @@
-MEM–FRANCIA–DENMARK — v1.0
+MEM–FRANCIA–DENMARK — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Denmark (Peripheral Actor, Maritime Node, and Strategic Afterthought)
 Dates: Early modern era–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~1,700
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -64,6 +66,14 @@ Voltaire observes:
 of navigation and the moderation of its kings.”
 — Voltaire, *Essay on Universal History*
 
+Roger Pearson describes Voltaire as "not an original thinker, but a
+'great and tireless communicator'" (*Voltaire Almighty: A Life in
+Pursuit of Freedom* [London: Bloomsbury, 2005], pp. 507–08)
+(ARC-T-MODERN) [ERC-SECONDARY]—the figure who disseminated such
+observations across Europe. That communicative role shapes how
+Francia "observes" Denmark: through Voltaire's universal history,
+not through sustained strategic engagement.
+
 Respect does not convert into strategy.
 
 ────────────────────────────────────────────────────────────
@@ -113,5 +123,16 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DENMARK — v1.0
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Voltaire. *Essay on Universal History*. (Primary; Denmark quote.)
+• Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
+  London: Bloomsbury, 2005. (ARC-T-MODERN)
+
+ARC version pinned: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–DENMARK — v1.1
+────────────────────────────────────────────────────────────
 ────────────────────────────────────────────────────────────

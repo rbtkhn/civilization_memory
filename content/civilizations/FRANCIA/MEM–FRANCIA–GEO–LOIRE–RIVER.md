@@ -135,7 +135,7 @@ Same-civilization (≥10):
 • MEM–FRANCIA–DYNASTY–CAPET — Early royal itinerancy along Loire; breaks if removed.
 • MEM–FRANCIA–CHARLEMAGNE — Pre-Loire Frankish centers; breaks if removed.
 • MEM–FRANCIA–FRENCH–REVOLUTION — Loire as counter-revolutionary zone; breaks if removed.
-• MEM–FRANCIA–NOTRE–DAME — Paris vs Loire symbolic centers; breaks if removed.
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Paris vs Loire symbolic centers; breaks if removed.
 • MEM–FRANCIA–NAPOLEON — Centralization away from Loire; breaks if removed.
 • MEM–FRANCIA–BURGUNDY — Rival western pole; breaks if removed.
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Loire as frontier and royal refuge; breaks if removed.

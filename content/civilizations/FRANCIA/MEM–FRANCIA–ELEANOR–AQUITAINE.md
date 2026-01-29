@@ -130,7 +130,7 @@ FRANCIA:
 • MEM–FRANCIA–GEO–LOIRE–RIVER — North–south divide; Capetian core
 • MEM–FRANCIA–DYNASTY–VALOIS — Later recovery of territory
 • MEM–FRANCIA–LANGUEDOC — Southern Francia; distinct from Aquitaine
-• MEM–FRANCIA–NOTRE–DAME — Capetian Paris; Eleanor's first court
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Capetian Paris; Eleanor's first court
 
 Cross-civilizational:
 • (None required for minimum)

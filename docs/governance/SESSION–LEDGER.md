@@ -4,7 +4,7 @@ Current Session State and Cross-Session Context
 
 Status: ACTIVE · MUTABLE
 Class: LEDGER
-Last Updated: 2026-01-25
+Last Updated: 2026-01-29
 Purpose: Enable context resumption across sessions
 
 ────────────────────────────────────────────────────────────
@@ -37,6 +37,30 @@ Active Constraints:
 
 ────────────────────────────────────────────────────────────
 III. RECENT SESSIONS
+────────────────────────────────────────────────────────────
+
+SESSION: 2026-01-29
+Focus: MIND v2.6 propagation (linguistic fingerprint & mode-specific voice)
+Topics:
+• CIV–MIND–MERCOURIS v2.5 → v2.6 (solo-program audit; III.L mode-specific voice:
+  LEARN/WRITE = academic prose, IMAGINE = spoken; fingerprint refinements)
+• CIV–MIND–MEARSHEIMER v2.5 → v2.6 (Davis transcript audit; fingerprint refinements;
+  XI.C same-voice-all-modes)
+• CIV–MIND–BARNES: III.C same-voice-all-modes note (no version bump)
+• CIV–MIND–TEMPLATE, CMC–BOOTSTRAP, VERSION–MANIFEST, CIV–MEM–CORE, AUDIT–GOVERNANCE:
+  MIND refs updated to v2.6
+• CIV–SCHOLAR–PROTOCOL, CMC–BOOTSTRAP: LEARN/WRITE/IMAGINE voice + III.L refs
+• .cursor rules: cmc-mercouris-voice, cmc-mearsheimer-voice → v2.6
+• Audits: AUDIT–MEARSHEIMER–VOICE–DAVIS–2026, AUDIT–MERCOURIS–VOICE–JAN2026
+
+Files Modified:
+• docs/templates/CIV–MIND–MERCOURIS.md, CIV–MIND–MEARSHEIMER.md, CIV–MIND–BARNES.md,
+  CIV–MIND–TEMPLATE.md
+• docs/governance/CMC–BOOTSTRAP.md, VERSION–MANIFEST.md, CIV–MEM–CORE.md,
+  AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT.md, SESSION–LEDGER.md
+• docs/templates/CIV–SCHOLAR–PROTOCOL.md
+• .cursor/rules/cmc-mercouris-voice.mdc, cmc-mearsheimer-voice.mdc
+
 ────────────────────────────────────────────────────────────
 
 SESSION: 2026-01-27

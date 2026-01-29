@@ -181,7 +181,7 @@ Polyphony Architecture:
 • Tension preserved, NOT synthesized
 • User navigates divergence between readings
 
-See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MERCOURIS v2.5, CIV–MIND–MEARSHEIMER v2.5
+See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MERCOURIS v2.6, CIV–MIND–MEARSHEIMER v2.6
 
 Backward Compatibility:
 • All existing MEM files remain valid
@@ -728,7 +728,7 @@ COMMAND: APPLY MEARSHEIMER COGNITION (v2.5):
   - LEARN: Analytical facilitator ("The question you have to ask yourself is...")
   - IMAGINE: Seminar teacher ("Let's just talk a little bit about...")
 
-See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MEARSHEIMER v2.5
+See: CIV–MIND–TEMPLATE v2.5, CIV–MIND–MEARSHEIMER v2.6
 
 VP-1.f.ii. TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────

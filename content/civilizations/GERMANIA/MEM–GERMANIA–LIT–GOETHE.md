@@ -278,7 +278,7 @@ Same-civilization:
 • MEM–GERMANIA–PRUSSIA — later political model
 
 Cross-civilization:
-• MEM–FRANCIA–VOLTAIRE — Enlightenment contrast
+• MEM–FRANCIA–LIT–VOLTAIRE — Enlightenment contrast
 • MEM–FRANCIA–NAPOLEON — admiration for decisiveness
 • MEM–ANGLIA–SHAKESPEARE — acknowledged influence
 

@@ -1,10 +1,10 @@
-MEM–FRANCIA–WAR–SEVEN–YEARS — v1.3
+MEM–FRANCIA–WAR–SEVEN–YEARS — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
-(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Seven Years’ War
 Dates: 1756–1763 AD
@@ -45,7 +45,13 @@ fiscal, and logistical—lags behind ambition.
 Will Durant frames mid-18th-century Francia as a civilization of high
 cultural authority attempting to retain universal reference status while
 its fiscal and naval instruments lag behind its declarative reach (*The
-Age of Voltaire*).
+Age of Voltaire*). Roger Pearson describes Voltaire—the era's dominant
+intellectual voice—as "not an original thinker, but a 'great and
+tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
+Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
+[ERC-SECONDARY]; that communicative dominance coincides with the war
+years and with Voltaire's *Siècle de Louis XIV* and campaigns against
+injustice, framing the period's civilizational self-understanding.
 
 As Fred Anderson observes, the war marks the moment when European conflict
 became fully globalized, forcing states to reconcile continental habits
@@ -255,10 +261,12 @@ Primary (anchors; quotations embedded above):
 Secondary (≥4 total; ≥3 Distinguished Scholars embedded above):
 • Fred Anderson, *Crucible of War* (secondary)
 • Will Durant, *The Age of Voltaire* (Distinguished Scholar)
+• Roger Pearson, *Voltaire Almighty: A Life in Pursuit of Freedom*
+  (London: Bloomsbury, 2005) (ARC-T-MODERN)
 • Henry Kissinger, *Diplomacy* (Distinguished Scholar)
 • Jeremy Popkin, *A Short History of France* (Distinguished Scholar)
 • Peter Wilson, *Heart of Europe* (Distinguished Scholar)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–SEVEN–YEARS — v1.3
+END OF FILE — MEM–FRANCIA–WAR–SEVEN–YEARS — v1.4
 ────────────────────────────────────────────────────────────

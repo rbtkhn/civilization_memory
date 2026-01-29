@@ -256,7 +256,7 @@ ROME:
 • MEM–ROME–GREEK–LIT–ARISTOTLE — empirical philosophy
 
 OTHER CIVILIZATIONS:
-• MEM–FRANCIA–VOLTAIRE — Enlightenment anti-clericalism
+• MEM–FRANCIA–LIT–VOLTAIRE — Enlightenment anti-clericalism
 • MEM–ANGLIA–HOBBES — materialist mechanism
 
 ────────────────────────────────────────────────────────────

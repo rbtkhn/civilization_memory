@@ -14,8 +14,8 @@ Mode Availability:
 • IMAGINE MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
 Compatibility:
 • CIV–MIND–TEMPLATE v2.5 (REQUIRED)
-• CIV–MIND–MERCOURIS v2.5 (PRIMARY — REQUIRED)
-• CIV–MIND–MEARSHEIMER v2.5 (ADVISORY)
+• CIV–MIND–MERCOURIS v2.6 (PRIMARY — REQUIRED)
+• CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
 • CIV–SCHOLAR–TEMPLATE v2.9 (ALIGNED)
 • CIV–SCHOLAR–PROTOCOL v2.2 (ALIGNED)
 • MIND–[CIVILIZATION]
@@ -27,7 +27,7 @@ Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 Governed by:
 • CIV–MEM–CORE v2.6
 • CIV–MIND–TEMPLATE v2.5
-• CIV–MIND–MERCOURIS v2.5 (PRIMARY MIND)
+• CIV–MIND–MERCOURIS v2.6 (PRIMARY MIND)
 • CIV–SCHOLAR–PROTOCOL v2.2 (OGE INTEGRATION)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
@@ -362,6 +362,12 @@ OGE SLOT REQUIREMENTS (unchanged):
 ────────────────────────────────────────────────────────────
 III.C COMMUNICATION REGISTER ALIGNMENT (v1.1)
 ────────────────────────────────────────────────────────────
+Voice register: Barnes uses the **same linguistic fingerprint** in WRITE,
+LEARN, and IMAGINE. There is no mode-specific voice variant (unlike
+Mercouris). Mode-specific framing (III.A.i) concerns the *purpose* of his
+interjection (editorial advice, exploratory expansion, counterfactual
+probing), not a distinct voice.
+
 CIV–SCHOLAR–PROTOCOL v2.1 specifies:
 "LEARN MODE CHARACTER: Voice: Full Mercouris"
 

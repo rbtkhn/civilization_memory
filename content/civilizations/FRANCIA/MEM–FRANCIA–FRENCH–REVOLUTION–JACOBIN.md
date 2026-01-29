@@ -1,18 +1,20 @@
-MEM–FRANCIA–JACOBIN — v1.0
+MEM–FRANCIA–FRENCH–REVOLUTION–JACOBIN — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: The Jacobins
 Dates: 1789–1794 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Jacobins as **Francia’s revolutionary
+This file preserves the Jacobins as **Francia's revolutionary
 universalist engine**: the faction that operationalized abstract
 sovereignty into centralized authority, moral discipline, and mass
 mobilization.
@@ -20,6 +22,18 @@ mobilization.
 The Jacobins are universalism in motion.
 
 Contradictions are preserved without synthesis.
+
+Verbatim scholarship (ARC-T-MODERN):
+
+"The French Revolution [is] the laboratory in which all the
+possibilities of modern politics, both positive and negative, were
+tested for the first time."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus frames the Revolution—and the Jacobins as its operational
+core—as **political laboratory**: universalism, centralization, and
+terror as tested possibilities.
 
 ────────────────────────────────────────────────────────────
 II. FORMATION & IDEOLOGICAL CORE
@@ -31,6 +45,14 @@ Foundations:
 • Rousseauian popular sovereignty
 • Moral equality absolutism
 • Suspicion of pluralism
+
+Roger Pearson describes Voltaire as "not an original thinker, but a
+'great and tireless communicator'" (*Voltaire Almighty: A Life in
+Pursuit of Freedom* [London: Bloomsbury, 2005], pp. 507–08)
+(ARC-T-MODERN) [ERC-SECONDARY]—a precursor who helped delegitimize
+old-regime authority through critique and dissemination. Jacobin
+rationalism inherits that Enlightenment posture and radicalizes it
+into party discipline and virtue enforcement.
 
 Politics is treated as ethical purification.
 
@@ -113,10 +135,19 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Moral certainty eliminates pluralism.
 • Parties can replace institutions—but not sustain them.
 • Universalism demands enforcement.
-• The Jacobins are Francia’s revolutionary engine—and warning.
+• The Jacobins are Francia's revolutionary engine—and warning.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–JACOBIN — v1.0
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–FRENCH–REVOLUTION–JACOBIN — v1.1
 ────────────────────────────────────────────────────────────

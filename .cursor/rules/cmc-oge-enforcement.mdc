@@ -5,11 +5,11 @@ alwaysApply: true
 
 # CMC Option Generation Engine (OGE) Enforcement
 
-When operating in SCHOLAR LEARN mode within the Civilizational Memory Codex:
+OGE is **required** in **WRITE, LEARN, and IMAGINE** modes. Apply OGE rules **after every substantive turn** in LEARN/IMAGINE; in WRITE, apply when OGE is presented (e.g. after MEM draft or edit).
 
-## Mandatory OGE Requirements
+## Mandatory OGE Requirements (LEARN / IMAGINE)
 
-After every substantive analytical turn, you MUST provide:
+After every substantive analytical turn in LEARN or IMAGINE, you MUST provide:
 
 1. **Exactly 6 options minimum** (labeled A through F)
 2. **One line per option** - concise descriptions only
@@ -52,4 +52,18 @@ Before completing any analytical response in LEARN mode, verify:
 **OPTION F** — [connection-derived or alternative path]
 ```
 
-Reference: CMC–BOOTSTRAP v2.11, COMMUNICATION PROTOCOL section
+## POST-BARNES OGE (ALL MODES)
+
+After **every** Barnes interjection, the **next** OGE MUST include:
+
+- **Mercouris responds to Barnes** (option)
+- **Mearsheimer responds to Barnes** (option)
+
+These are **MANDATORY**, not optional. See cmc-tri-frame-protocol.
+
+## WRITE Mode OGE
+
+- OGE required; minimum **1 Barnes option** mandatory.
+- When POST-BARNES, include M/M response options as above.
+
+Reference: CMC–BOOTSTRAP v2.11, CIV–MIND–BARNES § POST-BARNES OGE, cmc-tri-frame-protocol

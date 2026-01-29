@@ -1,12 +1,15 @@
-MEM–FRANCIA–DYNASTY–BOURBON
+MEM–FRANCIA–DYNASTY–BOURBON — v1.1
+Civilizational Memory Codex · Memory File
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Bourbon Dynasty
 Dates: 1589–1792 AD (restored 1814–1830)
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -80,6 +83,13 @@ The Bourbon system collapsed under:
 • Enlightenment delegitimization
 • Mass political mobilization
 
+Roger Pearson frames Voltaire as "not an original thinker, but a 'great
+and tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
+Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
+[ERC-SECONDARY]—a figure who helped hollow out sacral and absolutist
+legitimacy before the Revolution. That intellectual erosion is part
+of what "Enlightenment delegitimization" denotes.
+
 Revolution negated absolutist legitimacy entirely.
 
 Restoration attempts failed to restore credibility.
@@ -94,4 +104,16 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Francia learned that legitimacy cannot be monopolized indefinitely.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–BOURBON v1.0
+VIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
+  London: Bloomsbury, 2005. (ARC-T-MODERN)
+
+ADDITIONAL SCHOLARLY SOURCES: (as per MEM template; list if present)
+
+ARC version pinned: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–DYNASTY–BOURBON v1.1
+────────────────────────────────────────────────────────────

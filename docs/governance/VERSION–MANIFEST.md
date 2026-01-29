@@ -37,8 +37,8 @@ CORE GOVERNANCE:
 • CMC–BOOTSTRAP: v2.11
 
 MIND PROFILES:
-• CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
-• CIV–MIND–MEARSHEIMER: v2.5 (ADVISORY)
+• CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
+• CIV–MIND–MEARSHEIMER: v2.6 (ADVISORY)
 • CIV–MIND–BARNES: v2.5 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v2.5
 
@@ -153,6 +153,19 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-29 (MIND v2.6 — LINGUISTIC FINGERPRINT & MODE-SPECIFIC VOICE):
+• CIV–MIND–MERCOURIS: v2.5 → v2.6 (Jan 2026 solo-program audit; III.L mode-specific voice:
+  LEARN/WRITE = academic prose, IMAGINE = spoken; fingerprint refinements)
+• CIV–MIND–MEARSHEIMER: v2.5 → v2.6 (Davis transcript audit; fingerprint refinements;
+  XI.C same-voice-all-modes note)
+• CIV–MIND–BARNES: III.C same-voice-all-modes note (no version bump)
+• CIV–MIND–TEMPLATE: Compatibility MERCOURIS/MEARSHEIMER → v2.6
+• CMC–BOOTSTRAP, VERSION–MANIFEST: MIND bindings updated; LEARN/WRITE/IMAGINE voice refs
+  (III.L) already present
+• CIV–SCHOLAR–PROTOCOL: LEARN/WRITE/IMAGINE voice + III.L refs (already present)
+• CURSOR RULES: Mercouris, Mearsheimer → v2.6
+• Audits: AUDIT–MEARSHEIMER–VOICE–DAVIS–2026, AUDIT–MERCOURIS–VOICE–JAN2026
 
 2026-01-29 (AUDIT — GOVERNANCE & TEMPLATE ALIGNMENT):
 • Governance/template alignment audit completed (AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT.md)
@@ -287,8 +300,8 @@ For session startup, declare:
 
 "Bound by:
 • CIV–MEM–CORE v2.7
-• CIV–MIND–MERCOURIS v2.5 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v2.5 (ADVISORY)
+• CIV–MIND–MERCOURIS v2.6 (PRIMARY)
+• CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.9
 • CIV–SCHOLAR–TEMPLATE v2.10"

@@ -128,14 +128,14 @@ SYNTHESIS 0004 and RLL–FRANCIA–0011: Paris is the **symbol carrier**
 in spatial form—when the Valois hold only the south (Bourges, Orléans),
 Paris is lost; when they recover Paris (1436), the legitimacy grammar
 is again anchored in the capital. The city outlasts regime change
-(Notre-Dame, MEM–FRANCIA–NOTRE–DAME) while remaining the indispensable
+(Notre-Dame, MEM–FRANCIA–PARIS–NOTRE–DAME) while remaining the indispensable
 locus of legitimacy.
 
 ────────────────────────────────────────────────────────────
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCIA:
-• MEM–FRANCIA–NOTRE–DAME — Paris as symbolic core; crown, city, God in stone
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Paris as symbolic core; crown, city, God in stone
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Paris lost (1420), recovered (1436); legitimacy arena
 • MEM–FRANCIA–DYNASTY–VALOIS — Charles VII; recovery of Paris
 • MEM–FRANCIA–DYNASTY–CAPET — Paris rising with Capetians
@@ -144,8 +144,8 @@ FRANCIA:
 • MEM–FRANCIA–JACQUERIE — Parisian revolt (Étienne Marcel); urban uprising
 • MEM–FRANCIA–ESTATES–GENERAL — 1789 Paris; Tennis Court Oath
 • MEM–FRANCIA–GEO–SEINE–RIVER — Paris on Seine
-• MEM–FRANCIA–LOUVRE — Royal palace; Paris as capital
-• MEM–FRANCIA–REIGN–TERROR — Paris as Jacobin center
+• MEM–FRANCIA–PARIS–LOUVRE — Royal palace; Paris as capital
+• MEM–FRANCIA–FRENCH–REVOLUTION–REIGN–TERROR — Paris as Jacobin center
 
 Cross-civilizational:
 • (None required for minimum)

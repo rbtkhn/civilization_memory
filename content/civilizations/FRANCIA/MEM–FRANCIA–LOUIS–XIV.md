@@ -1,16 +1,16 @@
-MEM–FRANCIA–LOUIS–XIV — v1.3
+MEM–FRANCIA–LOUIS–XIV — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · COMPLIANCE RETROFIT
-(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Louis XIV (the Sun King)
 Dates: 1638–1715 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~3,150
+Word Count: ~3,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -133,6 +133,13 @@ Boileau articulates the logic:
 Will Durant characterizes this cultural universalism as **coercion by
 admiration**, replacing force with emulation while masking underlying
 resource strain (*The Age of Reason Begins*).
+
+Voltaire's *Le Siècle de Louis XIV* fixed the reign in Enlightenment
+memory. Roger Pearson describes Voltaire as "not an original thinker,
+but a 'great and tireless communicator'" (*Voltaire Almighty: A Life in
+Pursuit of Freedom* [London: Bloomsbury, 2005], pp. 507–08)
+(ARC-T-MODERN) [ERC-SECONDARY]—the figure who transmitted and reframed
+the Sun King's legacy for the philosophe era.
 
 Culture becomes enforcement without coercion.
 Universalism is normalized, not argued.
@@ -266,5 +273,18 @@ The student’s choice governs which MEM connections and analogies are
 activated; options are not collapsed or overridden.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–LOUIS–XIV v1.3
+XII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
+  London: Bloomsbury, 2005. (ARC-T-MODERN)
+• Pearson, Roger. *France 1550–1815*. (Cited in text; absolutism as
+  political technology.)
+• Saint-Simon, Firnhaber-Baker, Popkin, Kissinger, Wilson, Fried, Durant,
+  Colbert, Boileau, Vauban, Bossuet (embedded in text.)
+
+ARC version pinned: CIV–ARC–FRANCIA v1.8.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–LOUIS–XIV v1.4
 ────────────────────────────────────────────────────────────

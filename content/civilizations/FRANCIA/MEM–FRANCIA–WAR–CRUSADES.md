@@ -184,7 +184,7 @@ Same-civilization (≥10). Each connection is structurally necessary; removal wo
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Chivalric myth from Crusades feeds later French-English war identity; breaks if removed.
 • MEM–FRANCIA–DYNASTY–CAPET — Capetian consolidation and crusade participation are contemporaneous; breaks if removed.
 • MEM–FRANCIA–PAPACY — Papal-French relation (Avignon, Gallicanism) is post-crusade; breaks if removed.
-• MEM–FRANCIA–NOTRE–DAME — Sacred architecture and crusade piety share legitimacy grammar; breaks if removed.
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Sacred architecture and crusade piety share legitimacy grammar; breaks if removed.
 • MEM–FRANCIA–FRENCH–REVOLUTION — Revolutionary rupture rejects crusade-derived sacral monarchy; breaks if removed.
 • MEM–FRANCIA–BURGUNDY — Burgundian crusade involvement and later state formation; breaks if removed.
 • MEM–FRANCIA–NAPOLEON — Napoleonic "civilizing mission" echoes crusade universalism; breaks if removed.

@@ -107,7 +107,7 @@ FRANCIA:
 • MEM–FRANCIA–DECLARATION–RIGHTS–MAN — 1789 outcome
 • MEM–FRANCIA–LOUIS–XVI — 1789 summoner
 • MEM–FRANCIA–WAR–YORKTOWN — 1789 consequence (fiscal crisis)
-• MEM–FRANCIA–REIGN–TERROR — post-1789 trajectory
+• MEM–FRANCIA–FRENCH–REVOLUTION–REIGN–TERROR — post-1789 trajectory
 • MEM–FRANCIA–DYNASTY–BOURBON — late Bourbon crisis
 
 Cross-civilizational:

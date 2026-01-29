@@ -1,4 +1,4 @@
-MEM–FRANCIA–NOTRE–DAME — v1.1
+MEM–FRANCIA–PARIS–NOTRE–DAME — v1.1
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
 Version: 1.1
@@ -15,7 +15,7 @@ I. MEMORY PURPOSE & SCOPE
 This file preserves Notre-Dame de Paris as a **civilizational anchor
 of sacred authority, national symbolism, and legitimacy continuity**:
 a structure that outlives regimes while repeatedly absorbing,
-reflecting, and reframing Francia’s shifting moral order.
+reflecting, and reframing Francia's shifting moral order.
 
 Notre-Dame is not merely architecture.
 It is a legitimacy vessel.
@@ -128,7 +128,7 @@ Enduring effects:
 • Universalism grafted onto inherited sacred form
 • Cultural authority preserved through material continuity
 
-Notre-Dame is Francia’s memory made stone.
+Notre-Dame is Francia's memory made stone.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -151,5 +151,5 @@ CITED SOURCES (verbatim in MEM):
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–NOTRE–DAME — v1.1
+END OF FILE — MEM–FRANCIA–PARIS–NOTRE–DAME — v1.1
 ────────────────────────────────────────────────────────────

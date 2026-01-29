@@ -114,7 +114,7 @@ V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCIA:
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Siege and relief; Joan; Valois recovery
-• MEM–FRANCIA–NOTRE–DAME — Paris vs Orléans (north/south); legitimacy geography
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Paris vs Orléans (north/south); legitimacy geography
 • MEM–FRANCIA–DYNASTY–VALOIS — Dauphin Charles VII; continuity under breakdown
 • MEM–FRANCIA–GEO–LOIRE–RIVER — Orléans on Loire; strategic crossing
 • MEM–FRANCIA–AQUITAINE — Hundred Years' War; territorial stakes

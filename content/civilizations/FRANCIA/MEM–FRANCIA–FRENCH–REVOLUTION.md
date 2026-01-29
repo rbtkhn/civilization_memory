@@ -22,6 +22,17 @@ It is reset.
 
 Contradictions are preserved without synthesis.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The French Revolution remains a vital part of the heritage of democracy."
+— Jeremy D. Popkin, *A New World Begins: The History of the French
+Revolution* (New York: Basic Books, 2019) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Popkin thus frames the Revolution as **legitimacy heritage**—democracy's
+laboratory and burden. In the same work he calls it "the laboratory in
+which all the possibilities of modern politics, both positive and
+negative, were tested for the first time."
+
 ────────────────────────────────────────────────────────────
 II. PRE-REVOLUTIONARY CONDITIONS
 ────────────────────────────────────────────────────────────
@@ -33,6 +44,14 @@ Context:
 • Elite fragmentation
 • Enlightenment moral critique
 • Loss of confidence in absolutist symbolism
+
+Roger Pearson frames Voltaire as "not an original thinker, but a 'great
+and tireless communicator'" (*Voltaire Almighty: A Life in Pursuit of
+Freedom* [London: Bloomsbury, 2005], pp. 507–08) (ARC-T-MODERN)
+[ERC-SECONDARY]—a figure who helped hollow out sacral and absolutist
+legitimacy before the Revolution. That pre-Revolutionary intellectual
+erosion is part of the context in which "Enlightenment moral critique"
+operates.
 
 Legitimacy decays faster than institutions can adapt.
 
@@ -136,6 +155,17 @@ X. CONTINUITY INSIGHTS (RAW)
 • The French Revolution is Francia’s permanent temptation.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Popkin, Jeremy D. *A New World Begins: The History of the French
+  Revolution*. New York: Basic Books, 2019. (ARC-T-MODERN)
+• Pearson, Roger. *Voltaire Almighty: A Life in Pursuit of Freedom*.
+  London: Bloomsbury, 2005. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–FRENCH–REVOLUTION — v1.0

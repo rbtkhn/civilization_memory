@@ -131,7 +131,7 @@ FRANCIA:
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Reims 1429; sacral legitimacy turn; Joan
 • MEM–FRANCIA–ORLEANS — Orléans → Reims sequence; relief then coronation
 • MEM–FRANCIA–PARIS — Paris (administrative) vs Reims (sacral); loss/recovery
-• MEM–FRANCIA–NOTRE–DAME — Paris cathedral vs Reims cathedral; legitimacy geography
+• MEM–FRANCIA–PARIS–NOTRE–DAME — Paris cathedral vs Reims cathedral; legitimacy geography
 • MEM–FRANCIA–DYNASTY–VALOIS — Charles VII; coronation 1429; continuity under breakdown
 • MEM–FRANCIA–DYNASTY–CAPET — Coronation tradition; anointing fused with succession
 • MEM–FRANCIA–DYNASTY–CAROLINGIAN — Frankish/Reims baptism tradition

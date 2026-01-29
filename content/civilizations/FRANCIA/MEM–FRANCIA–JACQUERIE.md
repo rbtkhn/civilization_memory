@@ -126,7 +126,7 @@ FRANCIA:
 • MEM–FRANCIA–WAR–CRECY — prior defeat, noble losses
 • MEM–FRANCIA–CHARLES–V — Dauphin, later king, suppressor
 • MEM–FRANCIA–FRENCH–REVOLUTION — later rupture-from-below comparison
-• MEM–FRANCIA–REIGN–TERROR — later targeting of elites
+• MEM–FRANCIA–FRENCH–REVOLUTION–REIGN–TERROR — later targeting of elites
 
 Cross-civilizational:
 • (None required for minimum; Marcel/Paris link to urban revolt pattern)
