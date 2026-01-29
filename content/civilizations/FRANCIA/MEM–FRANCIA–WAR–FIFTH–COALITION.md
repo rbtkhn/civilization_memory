@@ -51,6 +51,17 @@ Napoleon adapts rapidly.
 
 Elasticity compensates for fatigue.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"His defeats – particularly at Aspern-Essling, Leipzig and Waterloo –
+would come when he failed to employ the corps system properly."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus marks **Aspern-Essling** (Fifth Coalition) as the first of
+the defeats where corps-system failure appears—resilience at Wagram
+follows but at mounting cost.
+
 ────────────────────────────────────────────────────────────
 IV. WAGRAM AND CONDITIONAL VICTORY
 ────────────────────────────────────────────────────────────
@@ -125,9 +136,12 @@ Primary:
 • Treaty of Schönbrunn texts
 
 Secondary:
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Adam Zamoyski
 • Gunther Rothenberg
 • Michael Broers
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–FIFTH–COALITION — v1.0

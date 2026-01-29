@@ -1,14 +1,14 @@
-MEM–FRANCIA–DYNASTY–VALOIS — v1.1
+MEM–FRANCIA–DYNASTY–VALOIS — v1.2
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: v1.0 · Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), typo fix, MEM BIBLIOGRAPHY
+Version: 1.2
+Supersedes: v1.1 · Upgrade: SCHOLAR LINKAGE (LEARN 2026-01-29)
 Civilization: FRANCIA
 Subject: Valois Dynasty
 Dates: 1328–1589 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -152,6 +152,19 @@ Positive:
 Trauma becomes instructional.
 
 ────────────────────────────────────────────────────────────
+SCHOLAR LINKAGE (CIV–SCHOLAR–FRANCIA v2.0 · LEARN 2026-01-29)
+────────────────────────────────────────────────────────────
+This MEM is the test case for RLL–FRANCIA–0011 (continuity under
+sustained breakdown) and for AXIOM FRANCIA-003 / SYNTHESIS 0004
+Assumption 2 (Valois 1328–1453). Same legitimacy grammar—sacral
+kingship, Salic Law, fleur-de-lys—held through catastrophe; procedural
+continuity absent; material recovery (Reims 1429 → standing army,
+taille, reabsorption of Aquitaine 1453) follows once grammar again
+generates extraction and alignment. ENTRY 0012, SYNTHESIS 0007, ENTRY
+0014; AXIOM FRANCIA-003 Refinement test cases; SYNTHESIS 0004 Assumption 2
+BASIS.
+
+────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Legitimacy can outlast power for generations.
@@ -173,5 +186,5 @@ CITED SOURCES (verbatim in MEM):
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–VALOIS — v1.1
+END OF FILE — MEM–FRANCIA–DYNASTY–VALOIS — v1.2
 ────────────────────────────────────────────────────────────

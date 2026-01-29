@@ -85,6 +85,17 @@ strategic patience: Napoleon conquers space, while Talleyrand preserves
 **position within the system** (*The Campaigns of Napoleon*, diplomatic
 legacy sections).
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"'My continental system has been decided,' Napoleon told Talleyrand in
+June 1805."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus captures the **Napoleon–Talleyrand** dynamic at peak
+empire—Napoleon deciding, Talleyrand executing and later defecting
+when the system became unsustainable.
+
 Governing axiom:
 Serve the state, not the Emperor.
 
@@ -207,8 +218,9 @@ Primary Sources:
 • Congress of Vienna protocols  
 
 Secondary Sources (≥4; ≥3 Distinguished Scholars):
-• **Henry Kissinger**, *Diplomacy*  
-• **Will Durant**, *The Age of Napoleon* / *The Story of Civilization*  
+• **Andrew Roberts**, *Napoleon: A Life* (New York: Viking, 2014)
+• **Henry Kissinger**, *Diplomacy*
+• **Will Durant**, *The Age of Napoleon* / *The Story of Civilization*
 • **Johannes Fried**, *The Middle Ages* (modern political legacy sections)  
 • **Peter Wilson**, *Heart of Europe*  
 • **David Chandler**, *The Campaigns of Napoleon* (diplomatic legacy)

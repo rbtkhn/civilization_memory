@@ -51,6 +51,17 @@ Knowledge becomes legitimacy claim.
 
 Civilization is asserted rhetorically.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The greatest long-term achievements of Napoleon's Egyptian campaign were
+not military or strategic, but intellectual, cultural and artistic."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus reframes **Egypt** as a civilizational and scholarly
+project—Description de l'Égypte, savants, Rosetta Stone—whose legacy
+outlasts the military failure.
+
 ────────────────────────────────────────────────────────────
 IV. MARITIME DENIAL & STRATEGIC ISOLATION
 ────────────────────────────────────────────────────────────
@@ -130,6 +141,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Egypt teaches Francia the price of ignoring the sea.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–EGYPT — v1.0

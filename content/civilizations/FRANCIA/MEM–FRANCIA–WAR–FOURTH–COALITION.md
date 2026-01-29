@@ -36,6 +36,19 @@ Conditions:
 
 Napoleon seeks closure through annihilation.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"Napoleon employed it [the corps system] in almost all his coming
+victories – most notably at Ulm, Jena, Friedland, Lützen, Bautzen and
+Dresden – not wishing to relive the perils of Marengo where his forces
+had been too widely spread."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus places **Jena** at the centre of Napoleon's operational
+apex—the Fourth Coalition as the moment when corps-system dominance
+appears total.
+
 ────────────────────────────────────────────────────────────
 III. PRUSSIA’S COLLAPSE
 ────────────────────────────────────────────────────────────
@@ -125,9 +138,12 @@ Primary:
 • Prussian military reports
 
 Secondary:
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Adam Zamoyski
 • David Bell
 • Michael Broers
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–FOURTH–COALITION — v1.0

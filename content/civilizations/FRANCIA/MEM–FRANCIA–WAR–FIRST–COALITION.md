@@ -40,6 +40,18 @@ Universal principles redefine neutrality.
 
 Legitimacy becomes contagious.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The heir to the French Revolution's debts, Napoleon was fighting against
+a government fuelled by the Industrial Revolution's profits, which it
+was willing to share round in support of its cause."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts frames the **structural asymmetry** that outlives the First
+Coalition: revolutionary France as debtor state versus British-subsidized
+coalitions. The pattern is set in 1792–1797 and endures through 1815.
+
 ────────────────────────────────────────────────────────────
 III. DYNASTIC EUROPE & CONTAINMENT IMPULSE
 ────────────────────────────────────────────────────────────
@@ -121,6 +133,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Victory hardens revolutionary identity.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–FIRST–COALITION — v1.0

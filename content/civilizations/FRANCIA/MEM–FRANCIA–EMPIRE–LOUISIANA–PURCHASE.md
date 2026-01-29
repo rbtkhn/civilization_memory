@@ -87,6 +87,18 @@ American remnant had no strategic value, and Napoleon needed cash for
 war in Europe."
 — Niall Ferguson, *Empire* (2003) (ARC-T-MODERN) [ERC-SECONDARY]
 
+Andrew Roberts (ARC–FRANCIA) on the fiscal-military bind:
+
+"The heir to the French Revolution's debts, Napoleon was fighting against
+a government fuelled by the Industrial Revolution's profits, which it
+was willing to share round in support of its cause."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus frames the **asymmetry** that makes the Louisiana sale
+rational: Napoleon needs cash and continental focus; the American
+remnant has no strategic value without Saint-Domingue.
+
 ────────────────────────────────────────────────────────────
 IV. DECISION TO SELL: HAITIAN DEFEAT, CASH, AND WAR
 ────────────────────────────────────────────────────────────
@@ -246,6 +258,7 @@ GEO MEMs (≥2):
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003. (ARC-T-MODERN)
 • Tombs, Robert. *France 1814–1914*. London: Longman, 1996. (ARC-T-MODERN)
 • Kukla, Jon. *A Wilderness So Immense: The Louisiana Purchase and the Destiny of America*. New York: Knopf, 2003. (ARC–DISCOVERY)

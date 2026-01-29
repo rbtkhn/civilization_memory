@@ -82,6 +82,20 @@ virtue of necessity: if France was the nation of citizens, then
 citizens must defend the nation. The result was the Levée en Masse."
 — John Keegan, *A History of Warfare* (1993)
 
+Andrew Roberts (ARC–FRANCIA) on the Napoleonic army built on that base:
+
+"Napoleon pioneered an operational level of warfare that lies between
+strategy and tactics. His corps became the standard unit adopted by
+every European army by 1812, and which lasted until 1945. It was his
+unique contribution to the art of war, and its first use in 1805 can
+be regarded as heralding the birth of modern warfare."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus ties the **Levée's mass base** to Napoleon's corps system—the
+Revolutionary citizen-soldier and the Imperial operational unit together
+define modern mass warfare.
+
 ────────────────────────────────────────────────────────────
 III. THE DECREE: TEXT AND MEANING
 ────────────────────────────────────────────────────────────
@@ -312,6 +326,7 @@ All scholars are ARC–FRANCIA v1.7 compliant.
 XIV. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Keegan, John. *A History of Warfare*. London: Hutchinson, 1993.
 • Bell, David. *The First Total War: Napoleon's Europe and the
   Birth of Warfare as We Know It*. Boston: Houghton Mifflin, 2007.

@@ -50,6 +50,22 @@ Genius substitutes for numerical parity.
 
 Control of perception becomes a weapon.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"A masterful plan, an appreciation of terrain, superb timing, a steady
+nerve, the discipline and training instilled at Boulogne, the corps
+system, exploitation of a momentary numerical advantage at the decisive
+point, tremendous esprit de corps, fine performances on the day by
+Friant, Davout, Vandamme, Soult and Saint-Hilaire, and a divided and
+occasionally incompetent enemy – Büxhowden was drunk during the battle –
+had given Napoleon the greatest victory of his career."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus encodes Austerlitz as **Napoleon's greatest victory**—the
+convergence of plan, terrain, corps system, and enemy error. The
+battlefield validates authority instantly.
+
 ────────────────────────────────────────────────────────────
 IV. BATTLE AS LEGITIMACY PERFORMANAD
 ────────────────────────────────────────────────────────────
@@ -115,6 +131,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Every later failure is measured against this moment.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–AUSTERLITZ — v1.0

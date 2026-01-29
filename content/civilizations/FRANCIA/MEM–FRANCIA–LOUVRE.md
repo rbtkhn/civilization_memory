@@ -66,6 +66,17 @@ Universal culture is curated through force.
 
 The museum becomes proof of dominance.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The greatest long-term achievements of Napoleon's Egyptian campaign were
+not military or strategic, but intellectual, cultural and artistic."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus reframes **Napoleonic accumulation**—Egypt's savants and
+Description de l'Égypte, the Louvre's art seizure—as the same pattern:
+cultural and intellectual legacy as imperial proof.
+
 ────────────────────────────────────────────────────────────
 V. RESTITUTION, RETENTION, AND SELECTIVE MEMORY
 ────────────────────────────────────────────────────────────
@@ -131,6 +142,14 @@ IX. CONTINUITY INSIGHTS (RAW)
 • The Louvre is Francia’s memory made visible.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–LOUVRE — v1.0

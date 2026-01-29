@@ -1,17 +1,17 @@
 ```
-MEM–FRANCIA–WAR–HUNDRED–YEARS — v1.1
+MEM–FRANCIA–WAR–HUNDRED–YEARS — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Upgrade Type: ADDITIVE · TEMPLATE COMPLIANCE + SOURCE GOVERNANAD
-(CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · SCHOLAR LINKAGE (LEARN 2026-01-29)
 Civilization: FRANCIA
 Subject: Hundred Years’ War
 Dates: 1337–1453 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,450
+Word Count: ~2,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -166,6 +166,18 @@ fragment**, even at the cost of pluralism (*Diplomacy*).
 Universalism is later grafted onto recovered sovereignty.
 
 ────────────────────────────────────────────────────────────
+SCHOLAR LINKAGE (CIV–SCHOLAR–FRANCIA v2.0 · LEARN 2026-01-29)
+────────────────────────────────────────────────────────────
+This MEM grounds SYNTHESIS 0004 medieval extension and RLL–FRANCIA–0011
+(continuity under sustained breakdown). Sequence: legitimacy shift at
+Reims (1429)—Joan of Arc as myth carrier, fleur-de-lys and Notre-Dame
+as symbol carriers—precedes material conversion (standing army, taille,
+territorial recovery 1431–1453) and territorial reabsorption (Aquitaine
+1453). Recovery through rupture; renewal through myth and symbol rather
+than procedural continuity. ENTRY 0013, ENTRY 0014; SYNTHESIS 0004
+Medieval extension; RLL–FRANCIA–0011 test cases.
+
+────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 FRANCIA:
@@ -227,6 +239,6 @@ Secondary Sources (≥4; ≥3 Distinguished Scholars):
 • **Justine Firnhaber-Baker**, *French History: A Very Short Introduction*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–HUNDRED–YEARS — v1.1
+END OF FILE — MEM–FRANCIA–WAR–HUNDRED–YEARS — v1.2
 ────────────────────────────────────────────────────────────
 ```

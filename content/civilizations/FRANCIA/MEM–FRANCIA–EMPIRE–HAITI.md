@@ -63,6 +63,19 @@ The Caribbean was different: sugar, slaves, and profit—and no
 sustained French demographic base. The choice in 1763 to keep the
 sugar islands rather than Canada reflected that logic.
 
+Andrew Roberts (ARC–FRANCIA) on Napoleon's fiscal-military calculus:
+
+"The heir to the French Revolution's debts, Napoleon was fighting against
+a government fuelled by the Industrial Revolution's profits, which it
+was willing to share round in support of its cause."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus frames the **asymmetry** that makes Napoleon's Saint-Domingue
+gamble and its failure decisive—continental war and British naval
+dominance leave no room for Caribbean hold; Haiti's independence and
+the Louisiana sale follow.
+
 ────────────────────────────────────────────────────────────
 III. TREATY OF PARIS (1763): SUGAR OVER CANADA
 ────────────────────────────────────────────────────────────
@@ -262,6 +275,7 @@ GEO MEMs (≥2):
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES:
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Keegan, John. *Fields of Battle: The Wars for North America*. New York: Alfred A. Knopf, 1996. (ARC-T-MODERN)
 • Tombs, Robert. *France 1814–1914*. London: Longman, 1996. (ARC-T-MODERN)
 • James, C.L.R. *The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution*. London: Secker & Warburg, 1938. (ARC–DISCOVERY)

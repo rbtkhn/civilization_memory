@@ -71,6 +71,18 @@ French correspondence reflects strain:
 
 Survival precedes ambition.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"With the second Turkish invasion force destroyed and Egypt safe, Napoleon
+decided to return as soon as possible to a vulnerable France facing a new
+Coalition led by Britain, Russia and Austria."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus ties the **Second Coalition** to Napoleon's return from
+Egypt and the Brumaire coup—the regime compression that turns military
+crisis into Consulate.
+
 ────────────────────────────────────────────────────────────
 IV. MILITARY RECOVERY & OPERATIONAL ADAPTATION
 ────────────────────────────────────────────────────────────
@@ -146,6 +158,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Francia learns to trade ideology for endurance.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–SECOND–COALITION — v1.0

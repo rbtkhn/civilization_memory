@@ -88,6 +88,20 @@ after periods of fragmentation (*The Middle Ages*).
 
 Justice is standardized—even where society is not.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"Although Napoleon did not have territorial aspirations beyond Italy and
+the Rhine, he did expect France to remain the greatest of the European
+Powers and the arbiter of events beyond her borders, and was quite
+prepared to take on any country or group of them that wished to
+'quarrel'."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus frames Napoleon's **legal and diplomatic ordering**—the
+Code as domestic arbiter, France as continental arbiter—as part of the
+same consolidating logic.
+
 ────────────────────────────────────────────────────────────
 V. EXECUTIVE LEGAL PRIMACY
 ────────────────────────────────────────────────────────────
@@ -213,6 +227,7 @@ Primary Sources:
 • Napoleonic legislative debates (1801–1804)
 
 Secondary Sources (≥4; ≥3 Distinguished Scholars):
+• **Andrew Roberts**, *Napoleon: A Life* (New York: Viking, 2014)
 • **Will Durant**, *The Age of Napoleon*
 • **Henry Kissinger**, *Diplomacy*
 • **Johannes Fried**, *The Middle Ages*

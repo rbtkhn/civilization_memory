@@ -3,13 +3,13 @@ Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.9
+Version: 2.0
 Civilization: FRANCIA
 Subject: Francia Memory Index (File Register)
 Dates: Medieval era–present
 Class: CIV–INDEX
 Last Update: January 2026
-Total MEM–FRANCIA Files: 120
+Total MEM–FRANCIA Files: 127
 Word Count: ~2,050
 
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
@@ -153,14 +153,17 @@ H) OTHER / MISC
 • MEM–FRANCIA–EMPIRE–LOUISIANA–PURCHASE.md
 • MEM–FRANCIA–EMPIRE–NORTH–AMERICA.md
 • MEM–FRANCIA–ALSACE–LORRAINE.md
+• MEM–FRANCIA–ANJOU.md
 • MEM–FRANCIA–AQUITAINE.md
 • MEM–FRANCIA–AUSTRIA–HUNGARY.md
 • MEM–FRANCIA–BELGIUM.md
+• MEM–FRANCIA–BRITTANY.md
 • MEM–FRANCIA–BURGUNDY.md
 • MEM–FRANCIA–CANADA.md
 • MEM–FRANCIA–DENMARK.md
 • MEM–FRANCIA–EGYPT.md
 • MEM–FRANCIA–FRENCH–REVOLUTION.md
+• MEM–FRANCIA–FRISIA.md
 • MEM–FRANCIA–HAITI.md
 • MEM–FRANCIA–ITALY.md
 • MEM–FRANCIA–JACOBIN.md
@@ -169,7 +172,11 @@ H) OTHER / MISC
 • MEM–FRANCIA–NETHERLANDS.md
 • MEM–FRANCIA–NORWAY.md
 • MEM–FRANCIA–NOTRE–DAME.md
+• MEM–FRANCIA–ORLEANS.md
+• MEM–FRANCIA–PARIS.md
 • MEM–FRANCIA–REIGN–TERROR.md
+• MEM–FRANCIA–REIMS.md
+• MEM–FRANCIA–REIMS–CATHEDRAL.md
 • MEM–FRANCIA–REVOLUTION–1848.md
 • MEM–FRANCIA–SPAIN.md
 • MEM–FRANCIA–SWEDEN.md
@@ -186,5 +193,5 @@ This index is LOCKED.
 • Scholar Mode consumes this index as authoritative scope.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–FRANCIA — v1.9
+END OF FILE — CIV–INDEX–FRANCIA — v2.0
 ────────────────────────────────────────────────────────────

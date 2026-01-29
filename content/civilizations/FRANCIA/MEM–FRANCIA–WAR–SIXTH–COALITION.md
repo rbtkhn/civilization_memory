@@ -39,6 +39,17 @@ Coalition resistance synchronizes.
 
 Fear dissolves.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"His defeats – particularly at Aspern-Essling, Leipzig and Waterloo –
+would come when he failed to employ the corps system properly."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus places **Leipzig** (Sixth Coalition) among the defeats
+where corps-system failure and coalition convergence overwhelm
+operational excellence.
+
 ────────────────────────────────────────────────────────────
 III. COALITION CONVERGENAD
 ────────────────────────────────────────────────────────────
@@ -129,9 +140,12 @@ Primary:
 • French Senate abdication records
 
 Secondary:
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
 • Adam Zamoyski
 • Mark Jarrett
 • David Bell
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–SIXTH–COALITION — v1.0

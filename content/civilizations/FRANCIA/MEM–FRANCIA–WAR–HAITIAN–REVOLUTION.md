@@ -69,6 +69,18 @@ Bonaparte reveals priority:
 
 Universalism collapses under empire.
 
+Verbatim scholarship (ARC-T-MODERN):
+
+"The heir to the French Revolution's debts, Napoleon was fighting against
+a government fuelled by the Industrial Revolution's profits, which it
+was willing to share round in support of its cause."
+— Andrew Roberts, *Napoleon: A Life* (New York: Viking, 2014)
+(ARC-T-MODERN) [ERC-SECONDARY]
+
+Roberts thus frames the **fiscal-military bind** that drives Napoleon's
+Saint-Domingue policy—continental war and British naval pressure leave
+no margin for Caribbean re-conquest; Leclerc's failure seals the calculus.
+
 ────────────────────────────────────────────────────────────
 V. MILITARY DEFEAT & CIVILIZATIONAL LOSS
 ────────────────────────────────────────────────────────────
@@ -116,6 +128,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Silence becomes a survival mechanism.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+CITED SOURCES (verbatim in MEM):
+• Roberts, Andrew. *Napoleon: A Life*. New York: Viking, 2014. (ARC-T-MODERN)
+
+Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–WAR–HAITIAN–REVOLUTION — v1.0
