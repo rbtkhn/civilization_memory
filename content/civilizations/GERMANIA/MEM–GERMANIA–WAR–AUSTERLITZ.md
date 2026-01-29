@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–AUSTERLITZ v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–AUSTERLITZ v2.0
 Civilization: GERMANIA
 Subject: Battle of Austerlitz
 Dates: December 2, 1805 AD
@@ -178,15 +178,65 @@ Germania learns what must be rebuilt before it can endure.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–WATERLOO (later vindication)
-• MEM–GERMANIA–PRUSSIA (reform response)
-• MEM–GERMANIA–HIST–CLAUSEWITZ (theorist of reform)
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE (dissolved institution)
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN (eventual reversal)
+
+• MEM–GERMANIA–WAR–WATERLOO
+  Dependency: Later vindication—Waterloo proves reforms worked;
+  Austerlitz diagnosis, Waterloo recovery.
+  Breaks if removed: Learning-to-victory sequence disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Reform response—Prussian state undertook comprehensive
+  reform (Scharnhorst, Gneisenau, Stein) after 1805–1806 disasters.
+  Breaks if removed: Who reformed and how disappears.
+
+• MEM–GERMANIA–HIST–CLAUSEWITZ
+  Dependency: Theorist of reform—Clausewitz served in Napoleonic Wars;
+  *On War* synthesizes lessons.
+  Breaks if removed: Theoretical distillation of defeat has no author.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Dissolved institution—Austerlitz led directly to Holy
+  Roman Empire dissolution (1806).
+  Breaks if removed: What was destroyed institutionally undocumented.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: Eventual reversal—1870 represents full recovery and
+  reversal of 1805 relationship with France.
+  Breaks if removed: Long-term vindication of reform disappears.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Defeated dynasty—Habsburg Austria was primary target;
+  Francis II abdicated as Holy Roman Emperor.
+  Breaks if removed: Austrian dimension of defeat disappears.
+
+• MEM–GERMANIA–WAR–MOLTKE
+  Dependency: System successor—Moltke's General Staff perfected
+  coordination that failed at Austerlitz.
+  Breaks if removed: Institutional recovery has no successor documentation.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Campaign corridor—Napoleon advanced along Danube toward
+  Vienna; Austerlitz fought in Moravian extension.
+  Breaks if removed: Campaign geography unintelligible.
+
+• MEM–GERMANIA–GEO–ALPS
+  Dependency: Southern flank—Alps channeled approach toward Danube
+  corridor rather than through Italy.
+  Breaks if removed: Why main campaign followed northern route unexplained.
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON (victor)
-• MEM–RUSSIA–NAPOLEONIC (coalition partner)
+
+• MEM–FRANCIA–NAPOLEON
+  Dependency: Victor—Napoleon's operational mastery demonstrated;
+  what defeated Germania documented.
+  Breaks if removed: Who won and how disappears.
+
+• MEM–RUSSIA–NAPOLEONIC
+  Dependency: Coalition partner—Russian forces participated; coalition
+  failure was joint.
+  Breaks if removed: Why alliance didn't help unexplained.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

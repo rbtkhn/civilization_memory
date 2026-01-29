@@ -2,8 +2,8 @@ MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–FRANCO–PRUSSIAN v1.5
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–FRANCO–PRUSSIAN v2.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (STRUCTURAL)
 Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANIA
@@ -264,76 +264,104 @@ X. MEM CONNECTIONS
 SAME-CIVILIZATION CONNECTIONS (GERMANIA):
 
 • MEM–GERMANIA–BISMARCK
-  Justification: System governor who designed and enforced the war's
-  stopping rule. Without Bismarck's closure discipline, this MEM loses
-  its core interpretive framework.
+  Dependency: System governor who designed and enforced the war's
+  stopping rule.
+  Breaks if removed: War appears as military event without political
+  architect; closure discipline has no agent.
 
 • MEM–GERMANIA–PRUSSIA–FREDERICK–II
-  Justification: Establishes the Prussian tradition of finite war and
-  endurance logic that Moltke inherited. The institutional continuity
-  between Frederick's survival strategy and 1870 mobilization is direct.
+  Dependency: Establishes the Prussian tradition of finite war and
+  endurance logic that Moltke inherited.
+  Breaks if removed: Institutional continuity between 1757 survival and
+  1870 precision disappears; Prussian method appears invented not inherited.
 
 • MEM–GERMANIA–WAR–MOLTKE
-  Justification: Moltke's operational doctrine is inseparable from this
+  Dependency: Moltke's operational doctrine is inseparable from this
   conflict. Campaign execution cannot be understood without his General
   Staff system.
+  Breaks if removed: Rapid victory appears automatic; planning-execution
+  system that enabled precision has no documentation.
 
 • MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
-  Justification: The 1866 war establishes the sequential unification
+  Dependency: The 1866 war establishes the sequential unification
   pattern. This MEM requires context of prior bounded conflict success.
+  Breaks if removed: 1870 appears as first use of method rather than
+  validated repetition; sequential pattern collapses.
 
 • MEM–GERMANIA–WAR–DANO–PRUSSIAN
-  Justification: First war in the unification sequence. Demonstrates
+  Dependency: First war in the unification sequence. Demonstrates
   the limited-objective pattern that culminates in 1870.
+  Breaks if removed: Three-war sequence incomplete; pattern recognition
+  requires all three cases.
 
 • MEM–GERMANIA–PRUSSIA
-  Justification: The Prussian state structure—bureaucratic-military
+  Dependency: The Prussian state structure—bureaucratic-military
   fusion—is the enabling condition for this conflict's execution.
+  Breaks if removed: Who fought the war has no institutional anchor;
+  German Empire appears without Prussian core.
 
 • MEM–GERMANIA–ALSACE–LORRAINE
-  Justification: The territorial outcome of this war. Treaty logic
+  Dependency: The territorial outcome of this war. Treaty logic
   and long-term consequences depend on this connection.
+  Breaks if removed: What was gained has no documentation; revanche
+  grievance origin disappears.
 
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN
-  Justification: Monarchical legitimacy preserved through war. Imperial
+  Dependency: Monarchical legitimacy preserved through war. Imperial
   proclamation operates through dynastic continuity.
+  Breaks if removed: Versailles proclamation loses dynastic logic; why
+  Wilhelm I rather than elected president unintelligible.
 
 • MEM–GERMANIA–BERLIN
-  Justification: Capital from which war was directed and where Empire
+  Dependency: Capital from which war was directed and where Empire
   was institutionalized. Geographic center of new German state.
+  Breaks if removed: Imperial capital has no documentation; where Germany
+  was governed from after 1871 unclear.
 
 • MEM–GERMANIA–WILHELM–II
-  Justification: Inversion case. Demonstrates what happens when
-  Bismarckian restraint is abandoned—essential for understanding why
-  the 1870 model did not persist.
+  Dependency: Inversion case. Demonstrates what happens when
+  Bismarckian restraint is abandoned.
+  Breaks if removed: Why 1870 model did not persist has no demonstration;
+  contrast case disappears.
 
 • MEM–GERMANIA–AUSTRIA–METTERNICH
-  Justification: Pre-unification European order that Bismarck disrupted.
-  Contextualizes the diplomatic revolution this war completed.
+  Dependency: Pre-unification European order that Bismarck disrupted.
+  Breaks if removed: What Bismarck replaced has no documentation;
+  Congress System precedent disappears.
 
 GEO MEM CONNECTIONS:
 
 • MEM–GERMANIA–GEO–RHINE–RIVER
-  Justification: Strategic boundary determining Franco-German frontier.
+  Dependency: Strategic boundary determining Franco-German frontier.
   Alsace-Lorraine annexation logic depends on Rhine geography.
+  Breaks if removed: Annexation appears arbitrary; industrial and
+  strategic value of Rhine frontier undocumented.
 
 • MEM–GERMANIA–GEO–ALPS
-  Justification: Southern boundary constraining conflict expansion.
+  Dependency: Southern boundary constraining conflict expansion.
   Geographic containment enabled by Alpine barrier.
+  Breaks if removed: Why war didn't spread south unintelligible; Swiss
+  and Italian neutrality loses geographic logic.
 
 CROSS-CIVILIZATIONAL CONNECTIONS:
 
 • MEM–FRANCIA–NAPOLEON
-  Justification: Momentum without stopping rule (contrast case).
+  Dependency: Momentum without stopping rule (contrast case).
   Franco-Prussian War succeeds precisely where Napoleon failed.
+  Breaks if removed: Bismarck's restraint appears arbitrary; contrast
+  with Napoleonic overreach disappears.
 
 • MEM–FRANCIA–LOUIS–XIV
-  Justification: Expansionary universalism that generated European
+  Dependency: Expansionary universalism that generated European
   coalitions. Bismarck studied this failure mode.
+  Breaks if removed: Coalition fear management loses historical grounding;
+  why Bismarck stopped when he did unexplained.
 
 • MEM–ANGLIA–WAR–SEVEN–YEARS
-  Justification: Maritime endurance vs continental decisiveness.
+  Dependency: Maritime endurance vs continental decisiveness.
   Different strategic grammar but shared coalition dynamics.
+  Breaks if removed: Comparison between maritime and continental war
+  termination logic disappears.
 
 ────────────────────────────────────────────────────────────
 XI. PEDAGOGICAL AFFORDANCE LAYER

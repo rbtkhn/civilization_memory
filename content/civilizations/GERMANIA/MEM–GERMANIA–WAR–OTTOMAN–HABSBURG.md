@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–OTTOMAN–HABSBURG v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–OTTOMAN–HABSBURG v2.0
 Civilization: GERMANIA
 Opposing Civilization: OTTOMAN EMPIRE
 Regime: HABSBURG IMPERIAL DEFENSE SYSTEM
@@ -147,15 +147,72 @@ It is remembered as **institutional survival**.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–MOHACS (initiating shock)
-• MEM–GERMANIA–WAR–SIEGE–VIENNA (twin civilizational tests)
-• MEM–GERMANIA–WAR–THIRTY–YEARS (internal collapse contrast)
-• MEM–GERMANIA–PRUSSIA (discipline inheritance)
-• MEM–GERMANIA–BISMARCK (bounded objectives doctrine)
+
+• MEM–GERMANIA–WAR–MOHACS
+  Dependency: Initiating shock—Mohács (1526) began Ottoman-Habsburg wars
+  by destroying Hungarian buffer.
+  Breaks if removed: Why wars began has no origin event; frontier
+  formation loses trigger.
+
+• MEM–GERMANIA–WAR–SIEGE–VIENNA
+  Dependency: Twin civilizational tests—1529 and 1683 sieges = peak
+  moments of Ottoman pressure on Habsburg core.
+  Breaks if removed: Key tests of defensive system disappear; learning
+  between sieges undocumented.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Internal collapse contrast—Ottoman wars show external
+  pressure stabilizing discipline; Thirty Years shows internal pressure
+  destroying it.
+  Breaks if removed: Comparison between external and internal pressures
+  on Germania disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Discipline inheritance—Prussian model inherited frontier
+  lessons in administrative-military fusion.
+  Breaks if removed: How Habsburg defensive lessons migrated north
+  unintelligible.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Bounded objectives doctrine—Ottoman wars demonstrate
+  defense without conquest; Bismarck applies limited-war logic.
+  Breaks if removed: Historical precedent for limited objectives
+  disappears from Germanic tradition.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Imperial defender—Habsburgs were the dynasty defending
+  Germania's eastern frontier.
+  Breaks if removed: Who organized multi-century defense has no dynasty.
+
+• MEM–GERMANIA–AUSTRIA–EUGENE–SAVOY
+  Dependency: Counter-offensive commander—Eugene led Habsburg armies
+  from defense to territorial recovery.
+  Breaks if removed: How defense became offense has no commander.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Frontier corridor—Danube = primary Ottoman approach route
+  and Habsburg defense line.
+  Breaks if removed: Geographic logic of wars disappears.
+
+• MEM–GERMANIA–GEO–ALPS
+  Dependency: Southern anchor—Alps protected Habsburg rear during
+  eastern campaigns.
+  Breaks if removed: Why Habsburgs could concentrate east unexplained.
 
 Cross-Civilizational:
-• MEM–OTTOMAN (projection logic)
-• MEM–RUSSIA–OTTOMAN (alternative imperial response)
+
+• MEM–OTTOMAN
+  Dependency: Projection logic—Ottoman Empire = coherent external system
+  teaching Germania defense.
+  Breaks if removed: What Germania defended against disappears entirely.
+
+• MEM–RUSSIA–OTTOMAN
+  Dependency: Alternative imperial response—Russia also fought Ottomans;
+  different containment model.
+  Breaks if removed: Comparative analysis of European responses to
+  Ottoman pressure disappears.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

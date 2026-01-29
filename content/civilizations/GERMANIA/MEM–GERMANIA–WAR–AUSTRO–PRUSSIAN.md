@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN v2.0
 Civilization: GERMANIA
 Subject: Austro-Prussian War (Seven Weeks' War)
 Dates: June–August 1866
@@ -227,20 +228,99 @@ By the time France considered intervention, the war was over.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–BISMARCK (war architect)
-• MEM–GERMANIA–PRUSSIA (victorious state)
-• MEM–GERMANIA–AUSTRIA (defeated rival)
-• MEM–GERMANIA–DYNASTY–HOHENZOLLERN (victorious dynasty)
-• MEM–GERMANIA–DYNASTY–HAPSBURG (defeated dynasty)
-• MEM–GERMANIA–WAR–SILESIAN (origin of dualism)
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN (successor war)
-• MEM–GERMANIA–SAXONY (Austrian ally, occupied)
-• MEM–GERMANIA–BOHEMIA (campaign theater)
-• MEM–GERMANIA–HIST–CLAUSEWITZ (limited war theory)
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: War architect—Bismarck designed isolation, provocation, and
+  moderate peace.
+  Breaks if removed: War appears as military event without political
+  design; restraint after Königgrätz has no agent.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Victorious state—Prussia's institutional structure enabled
+  rapid mobilization and operational superiority.
+  Breaks if removed: Who won the war has no institutional anchor.
+
+• MEM–GERMANIA–AUSTRIA
+  Dependency: Defeated rival—Austrian exclusion from Germany was the war's
+  purpose. Habsburg-Hohenzollern dualism ended.
+  Breaks if removed: What was resolved by war disappears; German Question
+  answer has no defeated party.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Victorious dynasty—Hohenzollern hegemony over German states
+  established through victory.
+  Breaks if removed: Dynastic dimension of unification disappears; why
+  Wilhelm I rather than Franz Joseph led Germany unexplained.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Defeated dynasty—Habsburg exclusion from Germany ended
+  centuries of imperial precedence.
+  Breaks if removed: Austrian side of dualism has no dynasty; 1438–1806
+  imperial tradition loses heir.
+
+• MEM–GERMANIA–WAR–SILESIAN
+  Dependency: Origin of dualism—Frederick II's 1740 seizure of Silesia
+  created Austria-Prussia rivalry that 1866 resolved.
+  Breaks if removed: 123-year wound (1740–1866) loses origin; why Austria
+  and Prussia were rivals unintelligible.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: Successor war—1870 completed what 1866 began. Limited war
+  pattern validated and repeated.
+  Breaks if removed: 1866 appears as isolated event rather than first of
+  two; sequential unification pattern incomplete.
+
+• MEM–GERMANIA–SAXONY
+  Dependency: Austrian ally, occupied—Saxony fought for Austria; Prussia
+  occupied but did not annex. Moderate treatment demonstrated.
+  Breaks if removed: How Prussia treated German allies of Austria
+  undocumented; North German Confederation formation logic incomplete.
+
+• MEM–GERMANIA–BOHEMIA
+  Dependency: Campaign theater—Königgrätz fought in Bohemia. Austrian
+  army concentrated there for decisive battle.
+  Breaks if removed: Where war was decided geographically unclear;
+  Bohemian campaign has no geographic anchor.
+
+• MEM–GERMANIA–HIST–CLAUSEWITZ
+  Dependency: Limited war theory—Clausewitzian "war as politics by other
+  means" exemplified. Violence calibrated to political purpose.
+  Breaks if removed: Theoretical framework for limited war disappears;
+  Bismarck's method appears intuitive rather than doctrinally grounded.
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Silesian wound origin—Frederick created the rivalry;
+  Bismarck resolved it. Direct causal chain.
+  Breaks if removed: Why Austria-Prussia rivalry existed unintelligible;
+  1866 appears as random conflict.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Saxon corridor—Elbe valley defined Saxon campaign theater
+  and Prussian approach routes.
+  Breaks if removed: Campaign geography for northern theater disappears.
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Austrian retreat axis—Danube corridor = Austrian fallback
+  route toward Vienna. Why Bismarck stopped before Vienna related to
+  Danube depth.
+  Breaks if removed: Austrian defensive geography disappears; stopping
+  logic loses terrain dimension.
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON–III (neutral observer, future target)
-• MEM–RUSSIA–ALEXANDER–II (benevolent neutrality)
+
+• MEM–FRANCIA–NAPOLEON–III
+  Dependency: Neutral observer, future target—Napoleon III's neutrality
+  enabled Prussian victory; his compensation demands set up 1870.
+  Breaks if removed: Why France didn't intervene unexplained; 1870 war
+  origin loses setup.
+
+• MEM–RUSSIA–ALEXANDER–II
+  Dependency: Benevolent neutrality—Russia's non-intervention (gratitude
+  for 1863 Polish revolt support) enabled Prussian action.
+  Breaks if removed: Why Russia didn't support Austria unexplained;
+  Bismarck's diplomatic preparation incomplete.
 
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)

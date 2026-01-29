@@ -2,8 +2,8 @@ MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.2
-Supersedes: MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION v2.0
+Version: 2.3
+Supersedes: MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION v2.2
 Upgrade Type: BLANNING CITATION INTEGRATION (ADDITIVE)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
@@ -152,17 +152,75 @@ Peter Wilson situates this conflict as the moment German power begins to
 re-aggregate around **discipline rather than title** (*Heart of Europe*).
 
 ────────────────────────────────────────────────────────────
-VIII. CROSS–CIVILIZATIONAL CONNECTIONS
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Internal (GERMANIA):
-• MEM–GERMANIA–PRUSSIA–FREDERICK–II — survival governance under pressure
-• MEM–GERMANIA–WAR–SEVEN–YEARS — endurance scaled globally
-• MEM–GERMANIA–BISMARCK — later application of limited-war logic
+GERMANIA (Same-Civilization):
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Survival governance under pressure—Frederick personally
+  commanded Prussian forces and made strategic decisions.
+  Breaks if removed: War has no commander; initiative and risk-taking
+  have no agent.
+
+• MEM–GERMANIA–WAR–SILESIAN
+  Dependency: Component wars—First and Second Silesian Wars = part of
+  Austrian Succession conflict.
+  Breaks if removed: Military campaigns lose documentation.
+
+• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
+  Dependency: Resolution successor—Austrian Succession created dualism
+  that 1866 resolved.
+  Breaks if removed: Why 1866 was necessary unintelligible; causal chain
+  disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: State capacity proven—Prussian administrative-military
+  system validated under coalition pressure.
+  Breaks if removed: What was proven by war disappears.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Later limited-war application—Bismarck inherits Frederician
+  limited-objective pattern.
+  Breaks if removed: Continuity from 1740s to 1860s disappears.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Dynastic frame—Frederick = Hohenzollern; dynasty stakes
+  present.
+  Breaks if removed: Prussian dynastic dimension disappears.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Opposing dynasty—Maria Theresa's succession was the war's
+  trigger; Habsburg legitimacy contested.
+  Breaks if removed: Austrian side of conflict has no dynasty.
+
+• MEM–GERMANIA–AUSTRIA–KAUNITZ
+  Dependency: Austrian reform response—Kaunitz's Diplomatic Revolution
+  (post-war) = Austrian learning from defeat.
+  Breaks if removed: How Austria responded to Silesian loss unexplained.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–ODER–RIVER
+  Dependency: Silesian corridor—Oder valley defined Silesian campaign
+  geography.
+  Breaks if removed: Campaign terrain disappears.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Saxon theater—Elbe defined Saxon campaign theater.
+  Breaks if removed: Northern campaign geography unintelligible.
 
 Cross-Civilizational:
-• MEM–FRANCIA–WAR–SEVEN–YEARS — prestige overextension contrast
-• MEM–ANGLIA–WAR–SEVEN–YEARS — maritime endurance divergence
-• MEM–AUSTRIA–IMPERIAL–DECLINE — legitimacy erosion without reform
+
+• MEM–FRANCIA–LOUIS–XV
+  Dependency: Coalition member—France fought against Prussia in support
+  of Bavaria.
+  Breaks if removed: Why France was involved unexplained.
+
+• MEM–ANGLIA–WAR–SEVEN–YEARS
+  Dependency: Maritime endurance divergence—British maritime strategy
+  contrasts with Prussian continental survival.
+  Breaks if removed: Comparative analysis of different war grammars
+  disappears.
 
 These links encode inheritance, contrast, and escalation control.
 

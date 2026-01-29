@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–DANO–PRUSSIAN v2.0
 Civilization: GERMANIA
 Subject: Second Schleswig War (Dano-Prussian War)
 Dates: February–October 1864
@@ -205,17 +206,77 @@ not destroyed.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–BISMARCK (architect of the war)
-• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN (next war in sequence)
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN (final war in sequence)
-• MEM–GERMANIA–PRUSSIA (state capacity demonstrated)
-• MEM–GERMANIA–DYNASTY–HOHENZOLLERN (Wilhelm I's reign)
-• MEM–GERMANIA–HIST–MOLTKE (campaign planner)
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Architect of the war—Bismarck designed Austrian alliance,
+  diplomatic isolation of Denmark, and future conflict setup.
+  Breaks if removed: War appears as random border conflict rather than
+  first step in three-war sequence.
+
+• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
+  Dependency: Next war in sequence—Schleswig-Holstein spoils dispute
+  became casus belli for 1866.
+  Breaks if removed: Sequential pattern incomplete; how 1864 created 1866
+  unintelligible.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: Final war in sequence—1870 completed what 1864 began.
+  Three-war unification arc.
+  Breaks if removed: Pattern culmination disappears; 1870 appears isolated.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: State capacity demonstrated—Prussian military modernization
+  tested; needle gun at Düppel.
+  Breaks if removed: Why Prussia won so quickly unexplained; technological
+  superiority undocumented.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Wilhelm I's reign—war fought under Wilhelm I's authority;
+  dynasty stakes present.
+  Breaks if removed: Royal dimension of war disappears.
+
+• MEM–GERMANIA–WAR–MOLTKE
+  Dependency: Campaign planner—Moltke's General Staff conducted operations;
+  organizational system validated.
+  Breaks if removed: How campaign was planned and executed unintelligible.
+
+• MEM–GERMANIA–AUSTRIA
+  Dependency: Alliance partner—Austria joined Prussia against Denmark;
+  temporary scaffolding for larger objectives.
+  Breaks if removed: Austro-Prussian alliance dynamic disappears; how
+  Bismarck used Austria as temporary ally unexplained.
+
+• MEM–GERMANIA–DANZIG
+  Dependency: Baltic context—Schleswig-Holstein = Baltic coastal territory.
+  Breaks if removed: Why Baltic access mattered for Prussia unclear.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–BALTIC–SEA
+  Dependency: Maritime theater—war included Baltic naval operations;
+  Kiel future naval base acquired.
+  Breaks if removed: Maritime dimension of war disappears.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Southern border—Elbe marked Holstein's southern boundary.
+  Breaks if removed: Geographic logic of duchy locations unclear.
 
 Cross-Civilizational:
-• MEM–ANGLIA–PALMERSTON (non-intervention)
-• MEM–RUSSIA–ALEXANDER–II (non-intervention)
-• MEM–DENMARK (defeated power)
+
+• MEM–ANGLIA–PALMERSTON
+  Dependency: Non-intervention—Britain declined to defend Denmark despite
+  rhetorical support. Buck-passing enabled Prussian action.
+  Breaks if removed: Why great powers didn't intervene unexplained.
+
+• MEM–RUSSIA–ALEXANDER–II
+  Dependency: Non-intervention—Russia remained neutral; no Baltic power
+  interference.
+  Breaks if removed: Eastern flank security unexplained.
+
+• MEM–DENMARK
+  Dependency: Defeated power—Denmark's defeat ended Danish control of
+  German-speaking populations.
+  Breaks if removed: What was defeated disappears.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

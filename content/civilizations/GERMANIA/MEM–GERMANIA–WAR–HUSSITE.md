@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–HUSSITE v2.0
 Civilization: GERMANIA
 Subject: Hussite Wars
 Dates: 1419–1434 AD
@@ -235,17 +236,57 @@ operations. The wagenburg extended this advantage to the tactical level.
 XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–BOHEMIA–PRAGUE (Hussite capital and defenestration site)
-• MEM–GERMANIA–BOHEMIA (territorial context)
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE (imperial failure)
-• MEM–GERMANIA–LUTHER (Reformation successor movement)
-• MEM–GERMANIA–WAR–THIRTY–YEARS (Second Defenestration parallel)
-• MEM–GERMANIA–SAXONY (raid target)
-• MEM–GERMANIA–SILESIA (raid target)
+
+• MEM–GERMANIA–BOHEMIA
+  Dependency: Territorial context—Bohemia = geographic and political
+  frame for Hussite movement.
+  Breaks if removed: Where Hussites operated geographically unclear.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Imperial failure—Empire failed to suppress Hussites despite
+  five crusades; revealed limits of imperial authority.
+  Breaks if removed: What institution failed has no documentation.
+
+• MEM–GERMANIA–LUTHER
+  Dependency: Reformation successor movement—Hussites prefigured
+  Reformation; Luther succeeded where Hus martyred.
+  Breaks if removed: Continuity between 15th-century reform and
+  16th-century Reformation disappears.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Second Defenestration parallel—1618 Defenestration =
+  echo of 1419; Bohemia as conflict origin point.
+  Breaks if removed: Pattern recognition across centuries disappears.
+
+• MEM–GERMANIA–SAXONY
+  Dependency: Raid target—Hussite "beautiful rides" devastated Saxony.
+  Breaks if removed: Impact on adjacent German territories undocumented.
+
+• MEM–GERMANIA–SILESIA
+  Dependency: Raid target—Hussite armies raided Silesian territories.
+  Breaks if removed: Eastern impact of raids disappears.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Later inheritors—Habsburgs eventually secured Bohemian
+  crown; inherited Hussite legacy complications.
+  Breaks if removed: Dynastic continuity after Hussite period disappears.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Bohemian axis—Elbe originates in Bohemia; campaign geography.
+  Breaks if removed: Northern campaign corridor disappears.
 
 Cross-Civilizational:
-• MEM–ROME–PAPACY (crusade sponsor)
-• MEM–HUNGARY–SIGISMUND (claimant to Bohemian throne)
+
+• MEM–ROME–PAPACY
+  Dependency: Crusade sponsor—Pope sponsored five crusades; all failed.
+  Breaks if removed: Who organized opposition disappears.
+
+• MEM–HUNGARY–SIGISMUND
+  Dependency: Claimant to Bohemian throne—Sigismund claimed Bohemian
+  crown after Wenceslaus IV; fought Hussites as future Emperor.
+  Breaks if removed: Why Empire intervened so aggressively unexplained.
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)

@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–CRUSADES v1.2
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–CRUSADES v2.0
 Civilization: GERMANIA
 Regime / Mode: IMPERIAL PARTICIPATION · FRACTURED AUTHORITY (1095–1291 AD)
 Subject: The Crusades (German Perspective)
@@ -149,14 +149,55 @@ For Germania, this demonstrates:
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE (fragmented polity)
-• MEM–GERMANIA–WAR–THIRTY–YEARS (later fragmentation catastrophe)
-• MEM–GERMANIA–TEUTONIC–ORDER (northern crusade institutionalization)
-• MEM–GERMANIA–PRUSSIA (later administrative consolidation)
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Fragmented polity—Empire's structure explains why crusading
+  participation was episodic and uncoordinated.
+  Breaks if removed: Institutional context of failure disappears.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Later fragmentation catastrophe—same structural weakness
+  that limited crusading later caused internal collapse.
+  Breaks if removed: Pattern continuity across centuries disappears.
+
+• MEM–GERMANIA–TEUTONIC–ORDER
+  Dependency: Northern crusade institutionalization—Order redirected
+  crusading energy into state-building where Empire could not.
+  Breaks if removed: Alternative Germanic crusading success undocumented.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Later administrative consolidation—Prussia achieved what
+  crusading Empire could not: institutional depth enabling projection.
+  Breaks if removed: Long-term recovery from crusade failure unexplained.
+
+• MEM–GERMANIA–CHARLEMAGNE
+  Dependency: Imperial foundation—Carolingian universal claims =
+  precedent for crusading imperial role.
+  Breaks if removed: Why emperors felt obligated to crusade unexplained.
+
+• MEM–GERMANIA–WAR–PRUSSIAN–CRUSADE
+  Dependency: Northern crusade success—Teutonic success in Prussia
+  contrasts with imperial failure in Levant.
+  Breaks if removed: Comparative analysis of crusade outcomes disappears.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Crusade assembly—Rhine valley = gathering point for
+  German crusaders heading east.
+  Breaks if removed: Mobilization geography disappears.
 
 Cross-Civilizational:
-• MEM–FRANCIA–CRUSADES (centralized monarchy advantage)
-• MEM–ANGLIA–CRUSADES (maritime–financial projection)
+
+• MEM–FRANCIA–CRUSADES
+  Dependency: Centralized monarchy advantage—French kings could
+  mobilize where German emperors could not.
+  Breaks if removed: Comparative analysis of crusade capacity disappears.
+
+• MEM–ANGLIA–CRUSADES
+  Dependency: Maritime–financial projection—English crusading showed
+  alternative model Germania lacked.
+  Breaks if removed: Why Germania failed where others succeeded unexplained.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

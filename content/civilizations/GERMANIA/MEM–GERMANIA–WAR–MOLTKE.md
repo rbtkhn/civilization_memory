@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–MOLTKE v1.1
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–MOLTKE v2.0
 Civilization: GERMANIA
 Subject: Helmuth von Moltke the Elder (Operational War System)
 Dates: c. 1857–1888 AD (chief influence period)
@@ -156,14 +156,68 @@ Moltke is Germania's Common Law of war.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–BISMARCK (political counterpart)
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN (operational success)
-• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN (seven weeks)
-• MEM–GERMANIA–HIST–CLAUSEWITZ (theoretical inheritance)
-• MEM–GERMANIA–WILHELM–II (restraint abandoned)
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Political counterpart—Moltke wins wars; Bismarck stops them.
+  Partnership defines 19th-century peak.
+  Breaks if removed: Military-political partnership disappears; why
+  wars ended when they did unintelligible.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: Operational success—1870–71 campaign = fullest expression
+  of Moltke's system.
+  Breaks if removed: System validation disappears; method lacks proof case.
+
+• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
+  Dependency: Seven weeks—1866 campaign demonstrated rapid decision
+  through staff coordination.
+  Breaks if removed: Why seven weeks was possible unexplained.
+
+• MEM–GERMANIA–WAR–DANO–PRUSSIAN
+  Dependency: First application—1864 campaign = first test of Moltke's
+  General Staff system.
+  Breaks if removed: Sequential refinement pattern disappears.
+
+• MEM–GERMANIA–HIST–CLAUSEWITZ
+  Dependency: Theoretical inheritance—Clausewitzian "war as politics"
+  informs Moltke's political subordination.
+  Breaks if removed: Theoretical grounding of Moltke's method disappears.
+
+• MEM–GERMANIA–WILHELM–II
+  Dependency: Restraint abandoned—Wilhelm II's era abandoned Moltke-
+  Bismarck balance; method applied without closure.
+  Breaks if removed: Why system failed later unexplained; contrast case
+  disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Institutional base—Prussian administrative-military state
+  enabled Moltke's system.
+  Breaks if removed: What institution Moltke commanded has no documentation.
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Predecessor commander—Frederick's survival campaigns =
+  precursor to Moltke's replacement-depth logic.
+  Breaks if removed: Institutional continuity from 18th century disappears.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Western campaign axis—1870 campaign approached France
+  via Rhine corridor.
+  Breaks if removed: Franco-Prussian War geography unintelligible.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Mobilization hinge—Prussian mobilization concentrated
+  forces along Elbe before projection.
+  Breaks if removed: Internal mobilization geography disappears.
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON (predecessor model inverted)
+
+• MEM–FRANCIA–NAPOLEON
+  Dependency: Predecessor model inverted—Napoleon = personal genius;
+  Moltke = institutional system. Inversion defines German method.
+  Breaks if removed: What Moltke's system replaced has no contrast;
+  why Germans chose staff over charisma unexplained.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

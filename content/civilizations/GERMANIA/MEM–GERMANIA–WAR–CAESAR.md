@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–CAESAR v1.2
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–CAESAR v2.0
 Civilization: GERMANIA
 Opposing Civilization: ROME
 Subject: Julius Caesar and the Germanic Frontier
@@ -177,13 +177,55 @@ This demonstrates:
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–TEUTOBURG–FOREST (denial escalated to annihilation)
-• MEM–GERMANIA–WAR–VIKINGS (later external pressure)
-• MEM–GERMANIA–PRUSSIA (eventual embrace of administration)
+
+• MEM–GERMANIA–WAR–TEUTOBURG–FOREST
+  Dependency: Denial escalated to annihilation—Caesar's restraint was
+  abandoned by successors; Teutoburg shows what happens when Rome
+  attempts provincialization anyway.
+  Breaks if removed: Sequential pattern from Caesar to Augustus to
+  Teutoburg disappears.
+
+• MEM–GERMANIA–WAR–VIKINGS
+  Dependency: Later external pressure—Vikings = later external stress
+  test; pattern of external pressure on Germanic space.
+  Breaks if removed: Long-term pattern of external testing disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Eventual embrace of administration—Prussia later adopted
+  administrative discipline Germania once defeated.
+  Breaks if removed: Ironic long-term reversal (Germania eventually
+  becomes what it resisted) undocumented.
+
+• MEM–GERMANIA–CHARLEMAGNE
+  Dependency: Later internal unification—Charlemagne succeeded where
+  Rome failed; Frankish unification vs Roman conquest.
+  Breaks if removed: How Germania was eventually unified has no
+  contrast with Roman failure.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Civilizational boundary—Caesar fixed Rhine as frontier
+  that persisted for centuries.
+  Breaks if removed: Geographic determination of Roman limit disappears.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Rejected frontier—Rome considered but never reached Elbe
+  as stable boundary.
+  Breaks if removed: What Rome intended but failed to achieve unclear.
 
 Cross-Civilizational:
-• MEM–ROME (imperial expansion logic)
-• MEM–FRANCIA–GAUL (successful incorporation contrast)
+
+• MEM–ROME
+  Dependency: Imperial expansion logic—Rome = coherent empire whose
+  limits Caesar identified.
+  Breaks if removed: What tested Germania disappears.
+
+• MEM–FRANCIA–GAUL
+  Dependency: Successful incorporation contrast—Gaul = conquered,
+  administered, Romanized. Germania = opposite outcome.
+  Breaks if removed: Why Germania remained outside Roman order while
+  Gaul was absorbed unexplained.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

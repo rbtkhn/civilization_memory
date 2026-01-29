@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–MOHACS v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–MOHACS v2.0
 Civilization: GERMANIA
 Opposing Civilization: OTTOMAN EMPIRE
 Regime / Mode: HABSBURG IMPERIAL FRONTIER (PRE-CONSOLIDATION)
@@ -153,15 +153,64 @@ Mohács is remembered not for valor, but for **exposure**.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–OTTOMAN–HABSBURG (containment system response)
-• MEM–GERMANIA–WAR–SIEGE–VIENNA (learned defense)
-• MEM–GERMANIA–WAR–THIRTY–YEARS (internal collapse contrast)
-• MEM–GERMANIA–PRUSSIA (later discipline synthesis)
-• MEM–GERMANIA–HUNGARY (affected territory)
+
+• MEM–GERMANIA–WAR–OTTOMAN–HABSBURG
+  Dependency: Containment system response—Mohács triggered multi-century
+  Ottoman-Habsburg frontier wars.
+  Breaks if removed: Origin of frontier system disappears; why wars
+  began has no trigger event.
+
+• MEM–GERMANIA–WAR–SIEGE–VIENNA
+  Dependency: Learned defense—Vienna sieges (1529, 1683) = test of system
+  developed after Mohács shock.
+  Breaks if removed: Learning sequence between 1526 and 1683 disappears.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Internal collapse contrast—Mohács = external shock causing
+  rapid collapse; Thirty Years = internal fragmentation causing slow
+  collapse.
+  Breaks if removed: Comparison between external and internal failure
+  modes disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Later discipline synthesis—Prussian model absorbed frontier
+  defense lessons through Habsburg example.
+  Breaks if removed: How frontier lessons migrated into Prussian doctrine
+  undocumented.
+
+• MEM–GERMANIA–HUNGARY
+  Dependency: Affected territory—Hungary = territory destroyed at Mohács;
+  Buffer kingdom eliminated.
+  Breaks if removed: What was lost has no documentation.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Inheriting dynasty—Habsburgs inherited Hungarian crown
+  claim after Louis II's death; became frontier defenders.
+  Breaks if removed: Who organized defense after Mohács disappears.
+
+• MEM–GERMANIA–AUSTRIA–VIENNA
+  Dependency: Next defensive node—Vienna became frontier capital after
+  Hungarian buffer collapsed.
+  Breaks if removed: Where defense relocated undocumented.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Invasion corridor—Ottoman armies followed Danube from
+  Constantinople toward Vienna; Mohács = Danube battle.
+  Breaks if removed: Geographic logic of Ottoman approach disappears.
 
 Cross-Civilizational:
-• MEM–OTTOMAN (projection logic)
-• MEM–GERMANIA–WAR–TEUTOBURG–FOREST (frontier shock analogy)
+
+• MEM–OTTOMAN
+  Dependency: Projection logic—Ottoman Empire = coherent external system
+  that destroyed Hungarian buffer.
+  Breaks if removed: What Germania faced has no documentation.
+
+• MEM–GERMANIA–WAR–TEUTOBURG–FOREST
+  Dependency: Frontier shock analogy—Both = decisive defeats on frontier
+  that reoriented civilizational strategy.
+  Breaks if removed: Pattern recognition across millennia disappears.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

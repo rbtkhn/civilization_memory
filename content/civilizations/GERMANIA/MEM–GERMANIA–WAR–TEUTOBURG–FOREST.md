@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–TEUTOBURG–FOREST v1.2
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–TEUTOBURG–FOREST v2.0
 Civilization: GERMANIA
 Opposing Civilization: ROME
 Subject: Battle of the Teutoburg Forest
@@ -159,13 +159,55 @@ a state.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–CAESAR (earlier Roman frontier definition)
-• MEM–GERMANIA–WAR–THIRTY–YEARS (later fragmentation catastrophe)
-• MEM–GERMANIA–PRUSSIA (eventual embrace of administration)
-• MEM–GERMANIA–BISMARCK (administration with restraint)
+
+• MEM–GERMANIA–WAR–CAESAR
+  Dependency: Earlier Roman frontier definition—Caesar's campaigns
+  (58–50 BC) established Rhine as Roman frontier; Teutoburg confirmed it.
+  Breaks if removed: Why Rhine was the boundary has no origin.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Later fragmentation catastrophe—Teutoburg shows successful
+  resistance without state; Thirty Years shows failed state under pressure.
+  Breaks if removed: Comparison between decentralized victory and
+  decentralized defeat disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Eventual embrace of administration—Prussia later adopted
+  administrative discipline Germania once defeated.
+  Breaks if removed: How Germania transformed from anti-administration
+  to pro-administration civilization unexplained.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Administration with restraint—Bismarck's bounded objectives
+  = opposite of Roman overreach that Teutoburg punished.
+  Breaks if removed: Why Germanic administration eventually succeeded
+  where Roman failed has no contrast.
+
+• MEM–GERMANIA–CHARLEMAGNE
+  Dependency: Later Carolingian unification—Charlemagne succeeded where
+  Rome failed; coercive integration from within rather than without.
+  Breaks if removed: How Germania was eventually unified has no contrast
+  with Roman failure.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Civilizational boundary—Rhine became permanent Roman frontier
+  after Teutoburg.
+  Breaks if removed: Why Rhine marked Roman limit unintelligible.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Intended Roman frontier—Rome planned to reach Elbe;
+  Teutoburg prevented this.
+  Breaks if removed: What Rome intended but failed to achieve undocumented.
 
 Cross-Civilizational:
-• MEM–ROME (imperial expansion logic and limits)
+
+• MEM–ROME
+  Dependency: Imperial expansion logic and limits—Rome = coherent empire
+  whose expansion Germania halted.
+  Breaks if removed: What was defeated disappears; resistance has no
+  opponent.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

@@ -2,8 +2,8 @@ MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–SPANISH–SUCCESSION v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–SPANISH–SUCCESSION v2.0
 Civilization: GERMANIA
 Subject: War of the Spanish Succession (German Perspective)
 Dates: 1701–1714 AD
@@ -169,6 +169,69 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+GERMANIA (Same-Civilization):
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Imperial contender—Habsburgs pursued Spanish inheritance
+  as extension of universal monarchy claims.
+  Breaks if removed: German side of war has no dynasty; who fought
+  for imperial interests disappears.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Imperial framework—war fought nominally under imperial
+  authority but revealed its limits.
+  Breaks if removed: What institution failed to mobilize Germania disappears.
+
+• MEM–GERMANIA–AUSTRIA
+  Dependency: Effective German participant—Austria carried German war
+  effort while other princes remained passive.
+  Breaks if removed: Austrian exceptionalism within Empire undocumented.
+
+• MEM–GERMANIA–AUSTRIA–EUGENE–SAVOY
+  Dependency: Military commander—Prince Eugene led Habsburg armies;
+  Blenheim, Turin, Malplaquet victories.
+  Breaks if removed: How Austria achieved military success unintelligible;
+  campaign successes have no commander.
+
+• MEM–GERMANIA–WAR–LEAGUE–AUGSBURG
+  Dependency: Predecessor war—League of Augsburg (1688–1697) established
+  coalition pattern Spanish Succession continued.
+  Breaks if removed: Why coalition warfare was familiar has no precedent.
+
+• MEM–GERMANIA–BAVARIA
+  Dependency: French ally—Bavaria aligned with France against the
+  Emperor; Blenheim fought in Bavarian territory.
+  Breaks if removed: Internal German division during war disappears;
+  why German princes fought each other unexplained.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Campaign theater—Rhine frontier = primary German theater.
+  Breaks if removed: Where German territory was fought over geographically
+  unclear.
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Bavarian campaign axis—Blenheim campaign followed Danube
+  toward Bavaria.
+  Breaks if removed: Blenheim campaign geography disappears.
+
+Cross-Civilizational:
+
+• MEM–FRANCIA–LOUIS–XIV
+  Dependency: Primary adversary—Louis XIV's claim to Spanish inheritance
+  triggered war; French power the target.
+  Breaks if removed: What coalition fought against disappears.
+
+• MEM–ANGLIA–MARLBOROUGH
+  Dependency: Coalition commander—Marlborough partnered with Eugene;
+  Blenheim was joint victory.
+  Breaks if removed: How coalition achieved military success unexplained;
+  maritime power contribution disappears.
+
+────────────────────────────────────────────────────────────
 XI. SOURCES
 ────────────────────────────────────────────────────────────
 Primary Sources:
@@ -182,5 +245,5 @@ Secondary Sources (ARC-Compliant):
 • John Lynn, *The Wars of Louis XIV*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v2.0
+END OF FILE — MEM–GERMANIA–WAR–SPANISH–SUCCESSION — v2.1
 ────────────────────────────────────────────────────────────

@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–WATERLOO v1.1
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–WATERLOO v2.0
 Civilization: GERMANIA
 Subject: Battle of Waterloo
 Dates: June 18, 1815 AD
@@ -149,14 +149,57 @@ This memory feeds later Prussian and German doctrine.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–AUSTERLITZ (defeat that enabled reform)
-• MEM–GERMANIA–WAR–MOLTKE (staff system maturation)
-• MEM–GERMANIA–PRUSSIA (reforming state)
-• MEM–GERMANIA–HIST–CLAUSEWITZ (theorist shaped by these wars)
+
+• MEM–GERMANIA–WAR–AUSTERLITZ
+  Dependency: Defeat that enabled reform—1805 catastrophe forced Prussian
+  reforms that made 1815 victory possible.
+  Breaks if removed: Why Prussia was reformed before Waterloo unexplained;
+  learning sequence disappears.
+
+• MEM–GERMANIA–WAR–MOLTKE
+  Dependency: Staff system maturation—Waterloo validated proto-staff
+  coordination that Moltke later perfected.
+  Breaks if removed: Institutional continuity from 1815 to 1870 disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Reforming state—Prussia's administrative reforms (Stein,
+  Scharnhorst, Gneisenau) enabled Waterloo performance.
+  Breaks if removed: What institution fought at Waterloo undocumented.
+
+• MEM–GERMANIA–HIST–CLAUSEWITZ
+  Dependency: Theorist shaped by these wars—Clausewitz served in Napoleonic
+  Wars; *On War* synthesizes lessons.
+  Breaks if removed: Theoretical inheritance from period disappears.
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Earlier survival precedent—Prussian tradition of endurance
+  under coalition pressure inherited from Frederick.
+  Breaks if removed: Why Prussia persisted after Jena unexplained.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Western frontier—Rhine marked eastern boundary of Napoleonic
+  Empire; Prussian advance crossed Rhine.
+  Breaks if removed: Geographic context of campaign disappears.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Prussian mobilization base—Elbe corridor = Prussian
+  concentration area before westward march.
+  Breaks if removed: Prussian campaign starting position unclear.
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON (defeated genius)
-• MEM–ANGLIA–WELLINGTON (coalition partner)
+
+• MEM–FRANCIA–NAPOLEON
+  Dependency: Defeated genius—Napoleon = opponent whose system was
+  finally broken by coalition discipline.
+  Breaks if removed: What was defeated disappears; victory has no opponent.
+
+• MEM–ANGLIA–WELLINGTON
+  Dependency: Coalition partner—Wellington's forces held until Prussian
+  arrival; Anglo-Prussian coordination won battle.
+  Breaks if removed: How coalition succeeded unintelligible; British
+  contribution disappears.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

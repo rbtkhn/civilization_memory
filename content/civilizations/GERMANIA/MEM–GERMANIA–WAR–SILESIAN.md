@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–SILESIAN v2.0
 Civilization: GERMANIA
 Subject: Silesian Wars (First, Second, Third)
 Dates: 1740–1763 AD
@@ -209,21 +210,88 @@ should destroy them.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–PRUSSIA–FREDERICK–II (architect of seizure and survival)
-• MEM–GERMANIA–SILESIA (territorial stake)
-• MEM–GERMANIA–PRUSSIA (state system validated)
-• MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION (First/Second Silesian context)
-• MEM–GERMANIA–WAR–SEVEN–YEARS (Third Silesian = Seven Years' War)
-• MEM–GERMANIA–AUSTRIA–KAUNITZ (Austrian coalition architect)
-• MEM–GERMANIA–DYNASTY–HOHENZOLLERN (dynastic frame)
-• MEM–GERMANIA–DYNASTY–HAPSBURG (opposing dynasty)
-• MEM–GERMANIA–SAXONY (occupied and partitioned)
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Architect of seizure and survival—Frederick personally
+  launched 1740 invasion and commanded throughout all three wars.
+  Breaks if removed: Wars have no commander; decision-making agent disappears.
+
+• MEM–GERMANIA–SILESIA
+  Dependency: Territorial stake—Silesia's wealth and population was the
+  prize. War's purpose was Silesian acquisition.
+  Breaks if removed: What was fought over disappears; war loses object.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: State system validated—Prussian administrative-military
+  fusion proven under maximum pressure.
+  Breaks if removed: Why Prussia survived coalition has no institutional
+  answer; replacement depth mechanism disappears.
+
+• MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION
+  Dependency: European context—First/Second Silesian Wars occurred within
+  broader War of Austrian Succession.
+  Breaks if removed: Coalition dynamics and Maria Theresa's survival
+  struggle disappear.
+
+• MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
+  Dependency: Resolution—1866 war resolved dualism that 1740 created.
+  Direct causal chain across 123 years.
+  Breaks if removed: Why 1866 was necessary unintelligible; Silesian wound
+  healing disappears.
+
+• MEM–GERMANIA–AUSTRIA–KAUNITZ
+  Dependency: Austrian coalition architect—Kaunitz's Diplomatic Revolution
+  (1756) created anti-Prussian coalition.
+  Breaks if removed: Third Silesian War coalition formation unexplained;
+  how Austria assembled enemies of Prussia disappears.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Dynastic frame—Frederick was Hohenzollern; dynastic survival
+  at stake.
+  Breaks if removed: Personal and dynastic stakes disappear.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Opposing dynasty—Maria Theresa's Habsburg inheritance was
+  challenged; Silesia was Habsburg territory seized.
+  Breaks if removed: Austrian side of conflict has no dynasty.
+
+• MEM–GERMANIA–SAXONY
+  Dependency: Occupied and partitioned—Frederick invaded Saxony (1756)
+  to preempt coalition; Saxon resources extracted.
+  Breaks if removed: Campaign geography and Saxon theater disappear.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–ODER–RIVER
+  Dependency: Eastern corridor—Silesian campaigns followed Oder corridor.
+  Breaks if removed: Campaign geography unintelligible.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Saxon axis—Elbe defined approach to Saxony and Dresden.
+  Breaks if removed: Northern campaign theater disappears.
 
 Cross-Civilizational:
-• MEM–RUSSIA–ELIZABETH (coalition member)
-• MEM–RUSSIA–PETER–III (defector who saved Prussia)
-• MEM–FRANCIA–LOUIS–XV (coalition member)
-• MEM–ANGLIA–PITT (Prussian subsidizer)
+
+• MEM–RUSSIA–ELIZABETH
+  Dependency: Coalition member—Russian Empress Elizabeth committed to
+  Prussian destruction; Russian armies invaded Prussia.
+  Breaks if removed: Why coalition nearly succeeded disappears; Kunersdorf
+  loses context.
+
+• MEM–RUSSIA–PETER–III
+  Dependency: Defector who saved Prussia—Peter III's accession (1762) and
+  Russian withdrawal = "Miracle of the House of Brandenburg."
+  Breaks if removed: How Prussia survived 1762 unintelligible.
+
+• MEM–FRANCIA–LOUIS–XV
+  Dependency: Coalition member—France allied with Austria against Prussia;
+  Rossbach was French defeat.
+  Breaks if removed: Western front of Seven Years' War disappears.
+
+• MEM–ANGLIA–PITT
+  Dependency: Prussian subsidizer—British subsidies sustained Prussian
+  war effort.
+  Breaks if removed: How Prussia financed seven years of war unexplained.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

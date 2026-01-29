@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–VIKINGS v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–VIKINGS v2.0
 Civilization: GERMANIA
 Subject: Viking Incursions & Northern War Pressure
 Dates: c. 8th–11th centuries AD
@@ -154,15 +154,62 @@ Germania learns that mobility defeats uncoordinated defense.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–CHARLEMAGNE (empire Vikings raided)
-• MEM–GERMANIA–WAR–OTTOMAN–HABSBURG (later frontier pressure)
-• MEM–GERMANIA–PRUSSIA (land power emphasis)
-• MEM–GERMANIA–DENMARK (northern neighbor)
-• MEM–GERMANIA–NORWAY (raiders' origin)
+
+• MEM–GERMANIA–CHARLEMAGNE
+  Dependency: Empire Vikings raided—Carolingian realm = target of
+  Viking incursions. Charlemagne's coastal defenses first response.
+  Breaks if removed: What was being attacked institutionally disappears.
+
+• MEM–GERMANIA–WAR–OTTOMAN–HABSBURG
+  Dependency: Later frontier pressure—Ottoman pressure on eastern
+  frontier parallels Viking pressure on northern frontier.
+  Breaks if removed: Pattern of external pressure forcing defensive
+  discipline disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Land power emphasis—Viking era reinforced continental
+  orientation that Prussia inherited.
+  Breaks if removed: Why Germania became land power rather than
+  maritime power unexplained.
+
+• MEM–GERMANIA–DENMARK
+  Dependency: Northern neighbor—Denmark = transit point for Viking
+  raids and eventual Christian kingdom.
+  Breaks if removed: Northern frontier geography disappears.
+
+• MEM–GERMANIA–NORWAY
+  Dependency: Raiders' origin—Norwegian Vikings = primary raiders
+  along North Sea coast.
+  Breaks if removed: Who attacked Germania disappears.
+
+• MEM–GERMANIA–OTTO–I
+  Dependency: Post-Viking consolidator—Otto I built on Henry I's
+  defensive reforms to create consolidated German kingdom.
+  Breaks if removed: How defense became kingdom unexplained.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Penetration corridor—Vikings sailed up Rhine to raid
+  inland cities.
+  Breaks if removed: Geographic logic of raids disappears.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Eastern penetration—Vikings used Elbe corridor for
+  eastern raids.
+  Breaks if removed: Second major raid axis undocumented.
 
 Cross-Civilizational:
-• MEM–ANGLIA–VIKINGS (absorption contrast)
-• MEM–FRANCIA–NORMANDY (settlement alternative)
+
+• MEM–ANGLIA–VIKINGS
+  Dependency: Absorption contrast—Anglia absorbed Vikings (Danelaw,
+  Cnut); Germania excluded them.
+  Breaks if removed: Comparative analysis of Viking impact disappears.
+
+• MEM–FRANCIA–NORMANDY
+  Dependency: Settlement alternative—France granted Normandy to Vikings;
+  Germania did not similarly accommodate.
+  Breaks if removed: Alternative response model undocumented.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

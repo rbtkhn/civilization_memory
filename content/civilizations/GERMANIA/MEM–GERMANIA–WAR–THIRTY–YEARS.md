@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–WAR–THIRTY–YEARS v1.3
+Version: 2.1
+Supersedes: MEM–GERMANIA–WAR–THIRTY–YEARS v2.0
 Civilization: GERMANIA
 Subject: Thirty Years' War
 Dates: 1618–1648 AD
@@ -144,14 +144,86 @@ Fear becomes a stabilizing inheritance.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–WAR–TEUTOBURG–FOREST (denial without state)
-• MEM–GERMANIA–PRUSSIA (reconstruction through discipline)
-• MEM–GERMANIA–BISMARCK (unity with restraint)
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE (fragmented polity)
+
+• MEM–GERMANIA–WAR–TEUTOBURG–FOREST
+  Dependency: Denial without state—Teutoburg shows Rome defeated but no
+  German state emerges. Thirty Years' War shows state system nearly destroyed.
+  Breaks if removed: Comparison between successful resistance without order
+  and failed order under resistance disappears.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Reconstruction through discipline—Prussia emerges from war's
+  wreckage to build replacement-based state.
+  Breaks if removed: How Germania recovered from trauma unintelligible;
+  post-war reconstruction has no agent.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Unity with restraint—Bismarck's stopping rules explicitly
+  designed to avoid Thirty Years' War repetition.
+  Breaks if removed: Bismarckian restraint appears arbitrary rather than
+  trauma-derived; negative template loses its validator.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Fragmented polity—Empire's structure enabled war's escalation.
+  Westphalia reformed but preserved fragmentation.
+  Breaks if removed: War appears without political context; why Germania
+  was vulnerable has no answer.
+
+• MEM–GERMANIA–LUTHER
+  Dependency: Confessional rupture—Reformation created the confessional
+  bifurcation that war exploited.
+  Breaks if removed: Religious dimension of war disappears; why ideology
+  destroyed restraint unintelligible.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Imperial contender—Habsburgs' universalist Catholic mission
+  drove Counter-Reformation offensive.
+  Breaks if removed: Imperial side of conflict has no dynasty; Catholic
+  offensive agency disappears.
+
+• MEM–GERMANIA–BOHEMIA
+  Dependency: War origin—Defenestration of Prague (1618) began war.
+  Bohemian Revolt = trigger.
+  Breaks if removed: War's origin has no location; why conflict began
+  where it began unintelligible.
+
+• MEM–GERMANIA–SAXONY
+  Dependency: Protestant power—Saxony's shifting alignment exemplifies
+  German fragmentation under pressure.
+  Breaks if removed: Protestant side appears unified; internal German
+  divisions during war obscured.
+
+• MEM–GERMANIA–SWEDEN–GUSTAVUS–ADOLPHUS
+  Dependency: Foreign intervention—Gustavus Adolphus's intervention (1630)
+  transformed the war. Protestant survival depended on Swedish arms.
+  Breaks if removed: How Protestants survived Catholic offensive
+  unintelligible; foreign agency disappears.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Devastation corridor—Palatinate and Rhineland suffered
+  severe destruction. French expansion followed Rhine.
+  Breaks if removed: Geographic pattern of devastation disappears.
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Saxony axis—Elbe corridor defined Saxon and Bohemian
+  campaign theaters.
+  Breaks if removed: Central Germany campaign geography unintelligible.
 
 Cross-Civilizational:
-• MEM–FRANCIA (opportunistic intervention)
-• MEM–SWEDEN (military intervention)
+
+• MEM–FRANCIA–RICHELIEU
+  Dependency: Opportunistic intervention—France (Catholic) allied with
+  Protestants against Catholic Habsburgs. Raison d'état trumped religion.
+  Breaks if removed: French intervention appears religiously motivated;
+  why Catholic France supported Protestants unintelligible.
+
+• MEM–SWEDEN
+  Dependency: Military intervention—Swedish armies operated in Germany
+  1630–1648. Westphalia made Sweden a guarantor of German order.
+  Breaks if removed: Protestant military salvation disappears; Swedish
+  permanent role in German affairs unexplained.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
