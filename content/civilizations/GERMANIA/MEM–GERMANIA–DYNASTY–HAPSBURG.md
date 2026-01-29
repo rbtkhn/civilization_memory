@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,400
+Word Count: ~2,550
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -37,6 +37,15 @@ Core method:
 Dynastic maxim:
 → “Bella gerant alii, tu felix Austria nube.”
 (Let others wage war; you, fortunate Austria, marry.)
+
+The imperial ambition was encoded in the AEIOU motto:
+
+> "Austriae est imperare orbi universo" — "Austria is destined to
+> rule the world."
+> — Habsburg motto adopted by Frederick III (1452)
+> [ERC: PRIMARY]
+
+This was not rhetoric but governing principle.
 
 As Martyn Rady observes, the Habsburgs survived for over 900 years
 through their ability to produce heirs and expand territories via

@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory) · SUBJECT Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.2
 Last Update: January 2026
-Word Count: ~2,200
+Word Count: ~2,350
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -24,6 +24,16 @@ zone, and strategic depth rather than core territory.
 
 Norway is near Germania.
 It is not Germanizable.
+
+As Peter H. Wilson observed of the Holy Roman Empire's limits:
+
+> "The empire functioned as a framework, focused on consensus not
+> coercion, accepting rather than rationalising anomalies and diversity."
+> — Peter H. Wilson, *Heart of Europe* (2016)
+> [ERC: SECONDARY]
+
+Norway remained outside even this elastic framework—too distant, too
+different, too thoroughly Scandinavian.
 
 Contradictions are preserved without synthesis.
 

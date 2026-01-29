@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,350
+Word Count: ~2,500
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -43,6 +43,18 @@ Theological critique becomes structural challenge
 because enforcement mechanisms are exhausted.
 
 Doctrine meets fragmentation.
+
+Leopold von Ranke, the founding figure of modern historical methodology,
+understood the Reformation as requiring immediate sources:
+
+> "I see the time coming when we will base modern history no longer on
+> secondhand reports... but rather on eyewitness accounts and on the
+> most genuine, the most immediate, sources."
+> — Leopold von Ranke, *Theory and Practice of History*
+> [ERC: CRITICAL]
+
+This methodological commitment shaped how we understand Luther: through
+contemporary testimony rather than retrospective projection.
 
 Johannes Fried situates Luther within the broader crisis of late medieval
 Christendom, noting that "the Reformation succeeded not because of theological

@@ -619,5 +619,5 @@ Secondary (ARC-Compliant):
 • Frederick Taylor, *Exorcising Hitler* (2011)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–LUBECK — v2.0
+END OF FILE — MEM–GERMANIA–LUBECK — v2.1
 ────────────────────────────────────────────────────────────

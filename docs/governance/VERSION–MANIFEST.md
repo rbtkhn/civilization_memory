@@ -1,10 +1,10 @@
-VERSION–MANIFEST — v1.7
+VERSION–MANIFEST — v1.10
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-28
+Last Updated: 2026-01-29
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -19,6 +19,13 @@ Use this file to:
 • Track version evolution across sessions
 • Enable automated version checking
 
+MAJOR VERSION CONSTRAINT (BINDING):
+No governance, template, or SCHOLAR file may reach v3.0 until
+CIV–MEM–CORE is upgraded to v3.0. The v3.0 threshold represents
+a major architectural transition requiring CORE authorization.
+Files remain in v2.x series (v2.10, v2.11, etc.) until this
+constraint is lifted.
+
 ────────────────────────────────────────────────────────────
 II. GOVERNANCE LAYER (BINDING)
 ────────────────────────────────────────────────────────────
@@ -27,7 +34,7 @@ Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
 • CIV–MEM–CORE: v2.6
-• CMC–BOOTSTRAP: v2.8
+• CMC–BOOTSTRAP: v2.11
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.5 (PRIMARY)
@@ -41,6 +48,9 @@ TEMPLATES:
 • CIV–INDEX–TEMPLATE: v2.0
 • CIV–SCHOLAR–TEMPLATE: v2.9
 • CIV–SCHOLAR–PROTOCOL: v2.2
+
+CIVILIZATION-SPECIFIC SCHOLARS:
+• CIV–SCHOLAR–GERMANIA: v2.11
 • CIV–DOCTRINE–TEMPLATE: v2.1
 • CIV–ARC–TEMPLATE: v2.7
 • CIV–ARC–LEDGER–TEMPLATE: v1.0
@@ -141,6 +151,31 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-29 (CMC–BOOTSTRAP v2.11 — OGE CONNECTION AWARENESS):
+• CMC–BOOTSTRAP: v2.10 → v2.11 (connection-aware OGE)
+  – OGE CONNECTION AWARENESS clause added to COMMUNICATION PROTOCOL
+  – At least one OGE option should derive from MEM CONNECTIONS section
+  – Traversal, gap-detection, comparison options formally supported
+  – "Breaks if removed" text guides option framing
+• VERSION–MANIFEST: v1.9 → v1.10
+
+2026-01-29 (CMC–BOOTSTRAP v2.10 — LEARN MODE COMMUNICATION PROTOCOL):
+• CMC–BOOTSTRAP: v2.9 → v2.10 (communication protocol formalization)
+  – Added COMMUNICATION PROTOCOL section to LEARN MODE
+  – Mercouris prose style explicitly required
+  – OGE after every analytical turn explicitly mandatory
+  – Quick Start updated with LEARN MODE reminder
+• VERSION–MANIFEST: v1.8 → v1.9
+
+2026-01-29 (CMC–BOOTSTRAP v2.9 — GOVERNANCE ALIGNMENT):
+• CMC–BOOTSTRAP: v2.8 → v2.9 (SCHOLAR template binding correction)
+  – CIV–SCHOLAR–TEMPLATE binding: v2.6 → v2.9
+  – Footer version corrected
+  – Synced with VERSION–MANIFEST v1.8
+• CIV–MIND–BARNES: Compatibility references updated to v2.9/v2.2
+• CIV–DOCTRINE–TEMPLATE: Compatibility references updated to v2.9/v2.2
+• VERSION–MANIFEST: v1.7 → v1.8
 
 2026-01-28 (SCHOLAR TEMPLATE v2.9 — AUDIT COMMANDS):
 • CIV–SCHOLAR–TEMPLATE: v2.8 → v2.9 (audit commands)
@@ -269,5 +304,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.7
+END OF FILE — VERSION–MANIFEST — v1.9
 ────────────────────────────────────────────────────────────

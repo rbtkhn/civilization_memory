@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory) · SUBJECT Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.2
 Last Update: January 2026
-Word Count: ~2,400
+Word Count: ~2,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -23,6 +23,16 @@ administrative corridor and industrial asset, yet one that consistently
 converts German efficiency into coalition vulnerability.
 
 For Germania, Belgium is **useful—but dangerous**.
+
+A.J.P. Taylor's observation applies with particular force:
+
+> "The history of the Germans is a history of extremes. It contains
+> everything except moderation."
+> — A.J.P. Taylor, *The Course of German History* (1945)
+> [ERC: SECONDARY]
+
+Belgium tested this pattern twice: 1914 and 1940. In both cases, German
+efficiency produced strategic catastrophe.
 
 Contradictions are preserved without synthesis.
 

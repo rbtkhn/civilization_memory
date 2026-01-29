@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,300
+Word Count: ~2,500
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -28,6 +28,17 @@ As Martyn Rady argues, "Austria was as much an idea as a geographical
 space"—a conceptual rather than purely territorial entity through which
 the Habsburgs understood and maintained their dynastic identity across
 far-flung domains (*The Habsburgs*, 2020).
+
+The Habsburg imperial vision was encoded in the famous motto AEIOU:
+
+> "Austriae est imperare orbi universo" — "Austria is destined to
+> rule the world."
+> — Habsburg motto adopted by Frederick III (1452), cited in
+> Martyn Rady, *The Habsburgs* (2020)
+> [ERC: PRIMARY — dynastic self-conception through modern scholarly transmission]
+
+This was not mere boast but governing principle: Austria's purpose was
+universal sovereignty, achieved through dynasty rather than conquest.
 
 Contradictions are preserved without synthesis.
 

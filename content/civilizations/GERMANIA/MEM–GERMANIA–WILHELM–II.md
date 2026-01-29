@@ -12,7 +12,7 @@ Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v2.2
 Cognitive Layer: CIV–MIND–MERCOURIS v2.5 (Primary) · CIV–MIND–MEARSHEIMER v2.4 (Strategic)
 Last Update: January 2026
-Word Count: ~2,800
+Word Count: ~3,000
 
 ────────────────────────────────────────────────────────────
 SUBJECT MEM COGNITIVE DECLARATION (MANDATORY)
@@ -122,6 +122,15 @@ The result was strategic disaster:
 • The Triple Entente encircled Germany
 • Bismarck's nightmare—a two-front coalition—materialized
 
+Robert Massie captures Wilhelm's naval obsession:
+
+> "For Wilhelm, the navy was not merely a weapon but a symbol—of
+> German greatness, of his own modernity, of equality with his
+> English grandmother's empire. He loved ships with the passion
+> of a child who had been denied a toy."
+> — Robert K. Massie, *Dreadnought* (1991)
+> [ERC: SECONDARY]
+
 Hoyer notes the structural dynamic:
 
 > "Whose patriotic fervour required a constant diet of conflict."
@@ -165,6 +174,14 @@ Contributing factors:
 
 By August 1914, Wilhelm faced the two-front war Bismarck had dedicated
 his career to preventing. The Kaiser who sought glory found catastrophe.
+
+Massie observes the tragic irony of Wilhelm's position:
+
+> "Wilhelm wanted to be loved by England and feared by England.
+> He wanted to be English and to defeat England. These desires
+> were irreconcilable, and his reign was shaped by their collision."
+> — Robert K. Massie, *Dreadnought* (1991)
+> [ERC: SECONDARY]
 
 Niall Ferguson offers a revisionist perspective on war origins:
 

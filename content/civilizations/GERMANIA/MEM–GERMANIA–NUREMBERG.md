@@ -12,7 +12,7 @@ ARC Compliance: CIV–ARC–GERMANIA v1.1
 Subject Type: WELL-DOCUMENTED (Urban Node)
 Applied Requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 Last Update: January 2026
-Word Count: ~2,400
+Word Count: ~2,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -25,6 +25,16 @@ international justice.
 
 Nuremberg is not Germania's political center.
 It is Germania's **legitimacy symbol**.
+
+A.J.P. Taylor's observation applies with particular force to Nuremberg:
+
+> "The history of the Germans is a history of extremes. It contains
+> everything except moderation."
+> — A.J.P. Taylor, *The Course of German History* (1945)
+> [ERC: SECONDARY]
+
+Nuremberg embodies this pattern: medieval glory, Nazi appropriation,
+international justice—extremes concentrating in a single place.
 
 Where Berlin commands through administration and Frankfurt through
 election, Nuremberg embodies the Reich's continuity—the place where

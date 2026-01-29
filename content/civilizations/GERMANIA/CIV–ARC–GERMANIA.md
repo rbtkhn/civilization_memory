@@ -1,13 +1,36 @@
-CIV–ARC–GERMANIA — v2.2
+CIV–ARC–GERMANIA — v2.4
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–GERMANIA v2.1
-Upgrade Type: AUTHOR EXPANSION (Niall Ferguson added)
+Supersedes: CIV–ARC–GERMANIA v2.3
+Upgrade Type: AUTHOR EXPANSION (Hanseatic + Dutch interface scholars added)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.4) — AUTHOR EXPANSION (HANSEATIC + DUTCH INTERFACE)
+────────────────────────────────────────────────────────────
+This version adds Hanseatic and Dutch-Germanic interface scholars following
+Low Countries MEM analysis and city-state survival synthesis work.
+
+v2.4 changes:
+• Added Philippe Dollinger (1904–1999) — Hanseatic League specialist
+• Added Jonathan Israel (b. 1946) — Dutch Republic specialist
+• Added Geoffrey Parker (b. 1943) — Dutch Revolt and Spanish military specialist
+• Supports ENTRY 0026 (city-state survival), ENTRY 0027 (maritime chokepoint),
+  SYNTHESIS 0016, SYNTHESIS 0017 in CIV–SCHOLAR–GERMANIA v2.9
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.3) — AUTHOR EXPANSION
+────────────────────────────────────────────────────────────
+This version adds Robert K. Massie to the ARC-T-MODERN author list.
+
+v2.3 changes:
+• Added Robert K. Massie (1929–2019) with topical scope definition
+• Massie works applicable: Dreadnought, Castles of Steel
+• Specialization: Anglo-German naval rivalry, WWI naval warfare
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2) — AUTHOR EXPANSION
@@ -137,6 +160,25 @@ ARC-T-MODERN:
   - The House of Rothschild (2 vols.): Frankfurt banking, Metternich era, Jewish emancipation
   - The Pity of War: WWI from German perspective, military efficiency, British error
   - The War of the World: Twentieth-century conflict, Nazi era, descent of the West
+• Robert K. Massie (1929–2019) — Dreadnought; Castles of Steel
+  TOPICAL SCOPE:
+  - Dreadnought (1991): Anglo-German naval rivalry 1890–1914, Tirpitz, Wilhelm II, Fisher
+  - Castles of Steel (2003): WWI naval warfare, Jutland, submarine campaign, blockade
+• Philippe Dollinger (1904–1999) — The German Hansa
+  TOPICAL SCOPE:
+  - The German Hansa (1964/1970): Hanseatic League origins, structure, decline
+  - Commercial confederation governance, city-state networks, Baltic trade
+  - Supports: MEM–GERMANIA–HANSEATIC–LEAGUE, MEM–GERMANIA–LUBECK, MEM–GERMANIA–HAMBURG
+• Jonathan Israel (b. 1946) — The Dutch Republic
+  TOPICAL SCOPE:
+  - The Dutch Republic: Its Rise, Greatness, and Fall (1995): Comprehensive Dutch history
+  - Dutch Revolt, Golden Age, VOC/WIC, commercial hegemony, religious tolerance
+  - Supports: MEM–GERMANIA–NETHERLANDS series, exit civilization analysis
+• Geoffrey Parker (b. 1943) — The Dutch Revolt; The Army of Flanders
+  TOPICAL SCOPE:
+  - The Dutch Revolt (1977): 1568–1648 rebellion, Spanish response, independence
+  - The Army of Flanders and the Spanish Road (1972): Habsburg logistics, force projection
+  - Supports: MEM–GERMANIA–BELGIUM–ANTWERP, Habsburg military analysis
 
 RULE: Only listed authors may be quoted without discovery flag.
 
@@ -211,5 +253,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v2.2
+END OF FILE — CIV–ARC–GERMANIA v2.4
 ────────────────────────────────────────────────────────────

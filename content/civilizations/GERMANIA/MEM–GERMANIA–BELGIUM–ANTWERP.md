@@ -1,8 +1,10 @@
-MEM–GERMANIA–BELGIUM–ANTWERP — v2.0
+MEM–GERMANIA–BELGIUM–ANTWERP — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–BELGIUM–ANTWERP v2.0
 Civilization: GERMANIA
 Subject: Antwerp (Commercial Zenith, Suppressed Port, and Transferred Hegemony)
 Dates: c. 1200 AD–present
@@ -12,7 +14,7 @@ ARC Compliance: CIV–ARC–GERMANIA v1.1
 Subject Type: WELL-DOCUMENTED (Urban Node — Commercial Capital)
 Applied Requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 Last Update: January 2026
-Word Count: ~2,800
+Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -110,6 +112,54 @@ The event accelerates the Dutch Revolt. The southern Netherlands
 temporarily unite with the northern provinces against Spanish
 rule. But the unity does not hold.
 
+IV.A THE FORCE RATIOS OF THE FURY (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't Europe's richest city defend itself?
+
+The force distribution:
+• Mutinous Spanish force: approximately 3,000–5,000 tercio infantry
+• Antwerp civic militia: perhaps 10,000 men on paper
+• Reality: untrained burghers against professional soldiers
+
+The qualitative gap:
+• Spanish tercios: finest infantry in Europe
+• Training: years of campaign experience
+• Weapons: arquebus, pike, coordinated tactics
+• Antwerp militia: merchants and craftsmen with ceremonial arms
+
+The Spanish were already inside the walls—quartered as "protectors."
+No siege required; no defense possible. The massacre lasted three
+days because no force existed to stop it.
+
+Who faced consequences among the perpetrators:
+• Mutineers: eventually paid their back wages and returned to service
+• Officers: no court-martials, no executions
+• Spanish crown: needed these troops for ongoing war
+
+The liability fell entirely on the victims. The perpetrators were
+rewarded with the pay they had demanded.
+
+IV.B WHO DIED IN THE FURY (v2.1)
+────────────────────────────────────────────────────────────
+7,000–8,000 civilians killed. Who were they?
+
+The victims:
+• Merchants caught in countinghouses
+• Workers in warehouses and workshops
+• Residents who couldn't flee
+• Protestant leaders (specifically targeted)
+• Anyone resisting looting
+
+Who profited from the chaos:
+• Mutineers: systematic looting of commercial wealth
+• Spanish officials: confiscated "abandoned" property afterward
+• Opportunists: settled scores, seized competitors' goods
+• Creditors: some debts conveniently died with debtors
+
+The Fury destroyed trust in Habsburg protection. Merchants who
+survived began calculating exit. The exodus of 1585 was prepared
+in 1576.
+
 ────────────────────────────────────────────────────────────
 V. FALL AND SIEGE (1584–1585)
 ────────────────────────────────────────────────────────────
@@ -143,6 +193,54 @@ the rival city (Amsterdam) receives the emigrants. The
 liability of reconquest falls on Antwerp; the benefit
 accrues to Amsterdam.
 
+V.A THE SIEGE FORCE RATIOS (v2.1)
+────────────────────────────────────────────────────────────
+Why did Parma succeed where relief forces failed?
+
+The force distribution:
+• Parma's army: approximately 25,000 troops
+• Antwerp garrison and militia: approximately 12,000 defenders
+• Dutch/English relief forces: inadequate, poorly coordinated
+
+Parma's strategic genius: the pontoon bridge across the Scheldt.
+The bridge cut Antwerp off from seaborne supply. The city had
+food for months; the siege lasted over a year.
+
+Why relief attempts failed:
+• Dutch navy couldn't break the bridge (fire ships, direct assault—all failed)
+• English auxiliaries too few (Leicester's forces never decisive)
+• Coordinated amphibious assault beyond available capability
+• Time favored the besieger: Antwerp starved slowly
+
+The structural lesson: inland ports depend on river access.
+Block the river, starve the city. Antwerp's commercial
+advantage was also its military vulnerability.
+
+V.B THE EXODUS LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+40,000–50,000 people left. Their property changed hands.
+
+Who bought the abandoned houses and workshops:
+• Catholic merchants who stayed: first access to distressed sales
+• Spanish officials: acquiring property at collapse prices
+• Church institutions: expanding holdings
+• Speculators: betting on eventual recovery
+
+Who received the refugees:
+• Amsterdam (largest share): absorbed competition, then collaboration
+• Hamburg, Frankfurt, London: specific industries relocated
+• Diamond cutting, printing, finance: skills transferred
+
+Property price collapse:
+• Antwerp real estate: crashed as sellers overwhelmed buyers
+• Amsterdam real estate: soared as refugees arrived with capital
+• The same family might sell in Antwerp at loss, buy in Amsterdam at premium
+
+The liability distribution: Protestant merchants lost properties
+at distressed prices or abandoned them entirely. Catholic merchants
+and institutions captured the assets. Amsterdam received expertise
+and capital; Antwerp kept half-empty buildings.
+
 ────────────────────────────────────────────────────────────
 VI. SCHELDT CLOSURE (1648–1863)
 ────────────────────────────────────────────────────────────
@@ -171,6 +269,53 @@ The closure persists for **215 years**—until Belgian
 independence and subsequent treaty revisions (1863 final
 toll abolition). During this period, Antwerp cannot compete
 with Dutch ports that enjoy open sea access.
+
+VI.A WHY ANTWERP COULDN'T BREAK THE CLOSURE (v2.1)
+────────────────────────────────────────────────────────────
+To break the Scheldt closure, Antwerp needed:
+• Naval force to contest Dutch estuary control
+• Land force to capture Dutch positions on both banks
+• Great-power backing to challenge Dutch military capacity
+
+Antwerp's sovereigns had none of these:
+• Spanish Netherlands: no independent navy
+• Austrian Netherlands: no local naval capacity
+• Joseph II's attempt (1784): failed—Dutch simply blockaded
+
+The Dutch position was impregnable to anything short of continental
+conquest. Napoleon opened the Scheldt because France controlled
+both banks. When France lost, the closure resumed.
+
+VI.B WHO CAPTURED THE TRANSSHIPMENT FEES (v2.1)
+────────────────────────────────────────────────────────────
+Every ton of cargo destined for Antwerp paid Dutch intermediaries.
+
+The fee structure:
+• Dutch shipping companies: charged for lighterage and transfer
+• Amsterdam and Rotterdam port authorities: dockage fees
+• Dutch pilots: mandatory for estuary navigation
+• Dutch warehousing: storage charges
+
+Over 215 years, the cumulative wealth transfer was enormous.
+The MEM calls this "stagnation" for Antwerp. For the Dutch,
+it was revenue—extracted not by conquest but by chokepoint control.
+
+VI.C THE 1863 BUYOUT (v2.1)
+────────────────────────────────────────────────────────────
+Belgium bought out Dutch Scheldt rights for a lump sum.
+
+The payment: approximately 36 million Belgian francs
+The payers: Belgian taxpayers
+The recipients: Dutch treasury
+
+Belgium paid to recover access that had been free before 1648.
+The Dutch extracted compensation for surrendering a privilege
+they had imposed by force. The victim paid the victimizer
+to stop victimizing.
+
+No reparations for the 215 years of lost commerce. The
+liability of the original closure was never addressed.
+The settlement normalized the theft.
 
 ────────────────────────────────────────────────────────────
 VII. AUSTRIAN AND FRENCH PERIODS
@@ -363,5 +508,5 @@ Secondary (ARC-Compliant):
 • Michael Pye, *The Edge of the World* (2014)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BELGIUM–ANTWERP — v2.0
+END OF FILE — MEM–GERMANIA–BELGIUM–ANTWERP — v2.1
 ────────────────────────────────────────────────────────────

@@ -1,13 +1,13 @@
-CIV–SCHOLAR–GERMANIA — v2.8
+CIV–SCHOLAR–GERMANIA — v2.11
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.8
-Supersedes: CIV–SCHOLAR–GERMANIA v2.7
-Upgrade Type: ADDITIVE · HANSEATIC CITY-STATE SURVIVAL SYNTHESIS + FERGUSON INGESTION
+Version: 2.11
+Supersedes: CIV–SCHOLAR–GERMANIA v2.10
+Upgrade Type: ADDITIVE · NAVAL MISALIGNMENT SYNTHESIS (TIRPITZ TRI-FRAME)
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
@@ -22,6 +22,58 @@ Governed by:
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
 • CIV–MEM–CORE v2.6
 • CIV–ARC–GERMANIA v1.1 (Pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.10 → v2.11) — NAVAL MISALIGNMENT SYNTHESIS (TIRPITZ TRI-FRAME)
+────────────────────────────────────────────────────────────
+This version adds Tirpitz fleet program tri-frame analysis with Bismarck
+contrast, confirming existing RLL architecture.
+
+v2.11 changes:
+• ENTRY 0029 added (Naval misalignment / Bismarck-Tirpitz contrast)
+• SYNTHESIS 0019 added (Naval Misalignment / Domestic Capture Pattern)
+• Entry count: 28 → 29
+• Synthesis count: 18 → 19
+• No new RLL proposed (existing RLLs 0001, 0004 confirmed as sufficient)
+• Krupp liability chain documented; Risk Theory failure analyzed
+• Domestic capture mechanism formalized
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.9 → v2.10) — SCANDINAVIAN SMALL-STATE LEVERAGE SYNTHESIS
+────────────────────────────────────────────────────────────
+This version adds Scandinavian tri-frame analysis confirming existing
+RLL architecture without proposing new constraints.
+
+v2.10 changes:
+• ENTRY 0028 added (Scandinavian periphery tri-frame audit)
+• SYNTHESIS 0018 added (Small-State Leverage Pattern Confirmation)
+• Entry count: 27 → 28
+• Synthesis count: 17 → 18
+• No new RLL proposed (existing RLLs 0006, 0007, 0013 confirmed as sufficient)
+• Communication protocol added to Section IX per CMC–BOOTSTRAP v2.10
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8 → v2.9) — MARITIME CHOKEPOINT CONSTRAINT SYNTHESIS
+────────────────────────────────────────────────────────────
+This version adds maritime chokepoint constraint analysis following
+Mearsheimer/Barnes audit of Low Countries MEMs (Netherlands, Belgium,
+Rotterdam, Amsterdam, Antwerp).
+
+v2.9 changes:
+• ENTRY 0027 added (Low Countries maritime chokepoint audit)
+• SYNTHESIS 0017 added (Maritime Chokepoint Structural Constraint)
+• Entry count: 26 → 27
+• Synthesis count: 16 → 17
+• Proposed RLL–GERMANIA–0013 (Maritime Chokepoint Constraint)
+
+The synthesis formalizes that Germania's maritime access depends on
+chokepoints in foreign sovereign territory (Rhine mouth at Rotterdam,
+Scheldt at Antwerp). This exposure is geographically permanent. Military
+solutions trigger coalition escalation exceeding benefit gained (1914
+Belgium, 1940 Netherlands = binding negative templates). Legitimate
+management requires institutional integration or bilateral redundancy.
+Barnes correction applied: mutual extraction equilibrium, not unilateral
+dependency.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7 → v2.8) — HANSEATIC CITY-STATE SURVIVAL SYNTHESIS
@@ -1096,6 +1148,83 @@ Primary Beliefs Extracted:
   once Dutch Republic could project naval power alongside commerce.
 Belief Status: FROZEN (→ SYNTHESIS 0016)
 
+ENTRY 0027
+Source: MEM–GERMANIA–NETHERLANDS v2.0; MEM–GERMANIA–NETHERLANDS–AMSTERDAM v2.1;
+  MEM–GERMANIA–NETHERLANDS–ROTTERDAM v2.1; MEM–GERMANIA–BELGIUM v2.0;
+  MEM–GERMANIA–BELGIUM–ANTWERP v2.1
+Ingest Type: Maritime Chokepoint / Mearsheimer-Barnes Audit Synthesis
+Primary Beliefs Extracted:
+• Germania's maritime access depends on chokepoints in foreign sovereign
+  territory—primarily the Rhine mouth (Rotterdam) and Scheldt estuary
+  (Antwerp). This exposure is geographically permanent.
+• Military solutions to chokepoint exposure trigger coalition escalation
+  exceeding any benefit gained. The 1914 Belgian invasion brought British
+  entry; the 1940 Netherlands invasion contributed to coalition durability.
+  Both constitute binding negative templates.
+• The Scheldt closure (1648–1863) demonstrates pure chokepoint strategy:
+  control river mouth, strangle upstream port. 215 years of deliberate
+  commercial strangulation transferred wealth from Antwerp to Amsterdam.
+• Geographic integration outlasts political separation. The Netherlands
+  exited Germanic political space but Rotterdam remains functionally
+  integrated with the German Rhine economy. Political sovereignty does
+  not dissolve geographic logic.
+• "Dependency" framing obscures mutual extraction. Rotterdam needs German
+  traffic as much as Germany needs Rotterdam access. The asymmetry implied
+  by "German exposure" narrative serves Dutch/EU negotiating interests,
+  not structural reality.
+• Legitimate chokepoint management requires institutional integration
+  (EU/NATO) or bilateral redundancy (Hamburg alternative routing). Exit
+  from integration frameworks recreates chokepoint exposure.
+Belief Status: FROZEN (→ SYNTHESIS 0017)
+
+ENTRY 0028
+Source: MEM–GERMANIA–DENMARK v2.0; MEM–GERMANIA–NORWAY v2.0;
+  MEM–GERMANIA–SWEDEN v2.0; MEM–GERMANIA–SWEDEN–GUSTAVUS–ADOLPHUS v2.0
+Ingest Type: Scandinavian Periphery / Tri-Frame Audit Synthesis
+Primary Beliefs Extracted:
+• Small states at Germania's periphery discipline the continental core
+  through asymmetric advantage: chokepoint extraction (Denmark/Sound Dues),
+  terrain immunity (Norway/fjord geography), or qualitative shock
+  (Sweden/military revolution).
+• These advantages generate extractive or constraining relationships that
+  cannot be eliminated through force without triggering coalition escalation
+  or occupation costs exceeding benefit.
+• Denmark's chokepoint leverage persisted until Bismarck prioritized
+  closure (1864)—transit chokepoints are vulnerable to bypass (Kiel Canal)
+  in ways terminus chokepoints (Rotterdam) are not.
+• Norway's geographic immunity held even under total occupation (1940–1945);
+  garrison costs exceeded extraction yields; terrain defeats administration.
+• Sweden's qualitative advantage (1630–1632) eroded as demographic limits
+  bit and adversaries adapted; tactical success did not translate to lasting
+  hegemony; external intervention reshapes Germanic space without conquering it.
+• The Scandinavian pattern confirms rather than extends the constraint
+  architecture already encoded in RLL–0006 through RLL–0013.
+Belief Status: FROZEN (→ SYNTHESIS 0018)
+
+ENTRY 0029
+Source: MEM–GERMANIA–WAR–TIRPITZ v2.0; MEM–GERMANIA–BISMARCK v2.0;
+  MEM–GERMANIA–PRUSSIA v2.3
+Ingest Type: Naval Misalignment / Tri-Frame Audit (Bismarck-Tirpitz Contrast)
+Primary Beliefs Extracted:
+• Tirpitz's fleet program exemplifies civilizational grammar violation: importing
+  maritime power's visible component (ships) without the sustaining system
+  (finance, basing, alliance depth, commercial networks).
+• Risk Theory failed because it misread risk asymmetry: Britain could not
+  tolerate naval challenge (existential); Germany could not match British
+  commitment (optional). Each German naval law produced counter-armament,
+  not deterrence.
+• Domestic beneficiary capture explains policy persistence: Krupp steel,
+  shipbuilders, naval officer corps, nationalist constituency created
+  self-reinforcing demand for fleet expansion regardless of strategic logic.
+• The liability chain runs: Krupp profits → Tirpitz career → Kaiser prestige →
+  strategic exposure → British alignment → coalition formation → defeat.
+• Bismarck's stopping rule represented accurate threat assessment; Tirpitz's
+  expansion represented domestic coalition capture. The contrast is not
+  virtue vs. vice but accurate vs. inaccurate power calculation.
+• Post-1945 Germany internalized this lesson: NATO membership provides
+  collective maritime security without independent naval capacity.
+Belief Status: FROZEN (→ SYNTHESIS 0019)
+
 ────────────────────────────────────────────────────────────
 V. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -1558,16 +1687,151 @@ Outcome:
   lags commercial substance, sometimes by decades.
 Status: FROZEN → proposes RLL–GERMANIA–0012 (City-State Survival Law)
 
+SYNTHESIS 0017 (ENTRY 0027 — MARITIME CHOKEPOINT STRUCTURAL CONSTRAINT)
+Outcome:
+• Germania's maritime access depends on chokepoints in foreign sovereign
+  territory—primarily the Rhine mouth (Rotterdam) and Scheldt estuary
+  (Antwerp). This exposure is geographically permanent and cannot be
+  eliminated through force without triggering coalition escalation that
+  exceeds any benefit gained.
+• CHOKEPOINT TYPOLOGY:
+  - Rhine mouth (Rotterdam): Permanent dependency; handles 35-40% of German
+    industrial maritime traffic; no bypass possible without major efficiency loss
+  - Scheldt estuary (Antwerp): Historical suppression template (1648–1863);
+    215-year closure demonstrates deliberate strangulation as strategy
+  - Hamburg/Elbe: German-sovereign alternative; less efficient for Ruhr
+    traffic but provides redundancy and negotiating leverage
+• NEGATIVE TEMPLATES (binding):
+  - 1914 Belgian invasion: Chokepoint/corridor violation → British entry →
+    coalition escalation → strategic defeat
+  - 1940 Netherlands invasion: Chokepoint seizure → coalition durability →
+    eventual strategic defeat
+  - Both confirm: military solutions to chokepoint exposure produce worse
+    outcomes than accepting exposure
+• BARNES CORRECTION — MUTUAL EXTRACTION EQUILIBRIUM:
+  - Rotterdam needs German traffic (35-40% of tonnage) as much as Germany
+    needs Rotterdam access
+  - "Dependency" framing serves Dutch/EU negotiating interests, not structural
+    reality
+  - Correct frame: mutual extraction, not unilateral vulnerability
+  - Germany is Rotterdam's largest customer, not its supplicant
+• LEGITIMATE MANAGEMENT STRATEGIES:
+  - Institutional integration (EU/NATO): Secures access through framework
+  - Bilateral redundancy: Hamburg/Antwerp alternatives as negotiating leverage
+  - FORBIDDEN: Military solutions, corridor invasion, chokepoint seizure
+• TRI-FRAME ATTRIBUTION:
+  - Mercouris lens: Geographic integration outlasts political separation; the
+    Rhine flows to the sea through Dutch territory regardless of sovereignty
+    arrangements; commercial interdependence persists across political boundaries
+  - Mearsheimer lens: Chokepoint seizure triggers coalition formation; force-ratio
+    arithmetic favors defenders with external alliance support; military solutions
+    produce strategic defeat regardless of operational success
+  - Barnes lens: "Dependency" frame obscures mutual extraction; who constructed
+    the "German exposure" narrative, and who benefits from maintaining it?
+    Rotterdam's port authority captures German traffic revenue; the liability
+    distribution is bilateral, not unilateral
+Evidence: MEM–GERMANIA–NETHERLANDS–ROTTERDAM (Rhine mouth), MEM–GERMANIA–BELGIUM–
+  ANTWERP (Scheldt closure 215 years), MEM–GERMANIA–BELGIUM (corridor invasion
+  consequences), MEM–GERMANIA–NETHERLANDS–AMSTERDAM (exit civilization success),
+  SYNTHESIS 0015 (Maritime Constraint Hierarchy)
+Source: ENTRY 0027 (Mearsheimer/Barnes Low Countries audit)
+Scope: Civilization-specific (GERMANIA)
+Constraint Type: Permanent geographic / Strategic prohibition / Mutual extraction
+Activation Trigger: Maritime access analysis; Low Countries policy; institutional
+  integration assessment; chokepoint vulnerability analysis
+Affected File Classes: MEM, CORE, GEO, DOCTRINE
+Status: FROZEN → proposes RLL–GERMANIA–0013 (Maritime Chokepoint Constraint)
+
+SYNTHESIS 0018 (ENTRY 0028 — SCANDINAVIAN SMALL-STATE LEVERAGE PATTERN)
+Outcome:
+• Small states at Germania's periphery discipline the continental core through
+  three distinct mechanisms: chokepoint extraction (Denmark), terrain immunity
+  (Norway), and qualitative shock (Sweden). Each mechanism imposes costs
+  disproportionate to the small state's size.
+• These mechanisms confirm rather than extend the existing constraint architecture.
+  RLL–0006 (Corridor Depth) explains why dispersed reach fails against peripheral
+  leverage. RLL–0007 (Constraint Civilization) explains structural limits on
+  absorption. RLL–0013 (Maritime Chokepoint) addresses terminus control specifically.
+• The Scandinavian cases extend the Low Countries analysis: both regions encode
+  peripheral discipline over the Germanic core, but through different mechanisms.
+  The Netherlands holds terminus chokepoints; Denmark holds transit chokepoints;
+  Norway holds terrain immunity; Sweden holds approach vectors.
+• Military overreach against peripheral leverage produces strategic defeat
+  regardless of operational success. Denmark 1864 is the exception that proves
+  the rule: Bismarckian restraint (limited objectives, immediate closure) succeeded
+  where escalatory approaches fail.
+• TRI-FRAME ATTRIBUTION:
+  - Mercouris lens: Civilizational grammar differs by adaptation—Denmark develops
+    commercial-maritime extraction; Norway develops peripheral autonomy; Sweden
+    develops military-administrative discipline. These are not merely strategic
+    choices but civilizational patterns.
+  - Mearsheimer lens: Force ratios explain mechanism durability. Denmark's leverage
+    ended when Prussia prioritized closure. Norway's immunity held because occupation
+    costs exceeded extraction yields. Sweden's advantage eroded as demographic
+    limits caught up with tactical success.
+  - Barnes lens: Liability chains trace specific beneficiaries. Sound Dues enriched
+    Danish crown and Copenhagen merchants. Swedish contributions devastated German
+    peasants while funding Swedish armies. Norwegian occupation consumed German
+    garrison resources without comparable return.
+Evidence: MEM–GERMANIA–DENMARK v2.0, MEM–GERMANIA–NORWAY v2.0, MEM–GERMANIA–SWEDEN
+  v2.0, MEM–GERMANIA–SWEDEN–GUSTAVUS–ADOLPHUS v2.0; cross-reference with Low Countries
+  analysis (SYNTHESIS 0017, RLL–0013)
+Source: ENTRY 0028 (Scandinavian tri-frame audit)
+Scope: Civilization-specific (GERMANIA)
+Constraint Type: Pattern confirmation / No new RLL required
+Activation Trigger: Baltic analysis; Scandinavian relations; small-state leverage
+  assessment; peripheral discipline patterns
+Affected File Classes: MEM, CORE, GEO
+Status: FROZEN → confirms existing RLLs (0006, 0007, 0013); no new RLL proposed
+
+SYNTHESIS 0019 (ENTRY 0029 — NAVAL MISALIGNMENT / DOMESTIC CAPTURE PATTERN)
+Outcome:
+• Tirpitz's fleet program confirms the civilizational grammar violation pattern:
+  power cannot be replicated across civilizational grammars by copying visible
+  components without the sustaining system.
+• The fleet failure is not merely strategic miscalculation but domestic capture:
+  beneficiary constituencies (Krupp, shipbuilders, naval officers, nationalists)
+  created self-reinforcing demand that persisted independent of strategic logic.
+• TRI-FRAME ATTRIBUTION:
+  - Mercouris lens: The fleet offered Germans what Bismarck denied—visible
+    prestige, national pride, great-power status. Legitimacy was performative
+    rather than functional. Ships existed to be admired, not used.
+  - Mearsheimer lens: Risk Theory was defensive realism misapplied. Tirpitz
+    correctly saw that Germany couldn't achieve parity; incorrectly assumed
+    Britain would accept permanent challenge to supremacy. The structural
+    verdict: states that let domestic interests capture foreign policy and
+    pursue irrational strategies get destroyed.
+  - Barnes lens: Liability chain traces from Krupp boardrooms through Reichstag
+    appropriations to strategic catastrophe. The theory was unfalsifiable—
+    every failure justified more spending. By 1912, cancellation was impossible
+    because too many interests depended on continuation.
+• The Bismarck-Tirpitz contrast encodes stopping-rule analysis: Bismarck
+  stopped because he calculated accurately; Tirpitz continued because
+  different beneficiaries captured policy. The stopping rule was not moral
+  restraint but power calculation—and accurate calculators are rare.
+• Confirms RLL–0001 (Disciplined Restraint): unconstrained power forfeits
+  legitimacy. Confirms RLL–0004 (Trauma Cycle): inversion of restraint
+  converts competence into catastrophe.
+Evidence: MEM–GERMANIA–WAR–TIRPITZ v2.0, MEM–GERMANIA–BISMARCK v2.0,
+  MEM–GERMANIA–PRUSSIA v2.3; Kissinger, Herwig, Steinberg, Massie sources
+Source: ENTRY 0029 (Naval misalignment tri-frame audit)
+Scope: Civilization-specific (GERMANIA)
+Constraint Type: Pattern confirmation / Confirms RLL–0001, RLL–0004
+Activation Trigger: Naval policy analysis; domestic capture assessment;
+  Bismarck contrast; Wilhelmine period analysis
+Affected File Classes: MEM, CORE, WAR
+Status: FROZEN → confirms existing RLLs (0001, 0004); no new RLL proposed
+
 ────────────────────────────────────────────────────────────
 VI. BOUND RECURSIVE LEARNING LAWS (RLLs)
 ────────────────────────────────────────────────────────────
 The following RLLs are converted from frozen doctrines and are now
 binding constraints per CIV–SCHOLAR–TEMPLATE v2.6.
 
-RLL Domain Organization per TEMPLATE v2.6 Section III (11 RLLs = RECOMMENDED):
+RLL Domain Organization per TEMPLATE v2.6 Section III (12 RLLs):
 • GENERAL: Core civilizational patterns (RLL–0001, 0004, 0005, 0007, 0008)
 • WAR: Conflict-specific constraints (RLL–0002, 0003, 0010)
-• GEO: Geographic constraints (RLL–0006, 0009, 0011)
+• GEO: Geographic constraints (RLL–0006, 0009, 0011, 0013)
 
 ────────────────────────────
 DOMAIN: GENERAL
@@ -1793,7 +2057,36 @@ RLL–GERMANIA–0011 — Corridor Orientation Law
   Affected File Classes: MEM, CORE, GEO, WAR
   Status: BOUND
 
-All listed RLLs are ACTIVE and BOUND.
+RLL–GERMANIA–0013 — Maritime Chokepoint Constraint
+→ Germania's maritime access depends on chokepoints in foreign sovereign territory.
+  This exposure is geographically permanent. Military solutions to chokepoint
+  vulnerability trigger coalition escalation exceeding any benefit gained. Legitimate
+  management requires institutional integration (EU/NATO) or bilateral redundancy
+  (Hamburg alternative routing). Exit from integration frameworks recreates
+  chokepoint exposure.
+  **Tri-frame derivation**:
+  - Mercouris: Geographic integration outlasts political separation; commercial
+    interdependence persists across sovereignty boundaries; Rhine flows to sea
+    through Dutch territory regardless of political arrangements
+  - Mearsheimer: Chokepoint seizure produces coalition formation (1914, 1940 =
+    binding negative templates); force-ratio arithmetic favors defenders with
+    external alliance support; military solutions produce strategic defeat
+  - Barnes: Mutual extraction equilibrium—Rotterdam depends on German traffic as
+    much as Germany depends on Rotterdam access; "dependency" framing serves
+    narrative interests, not structural reality; Germany is customer, not supplicant
+  Evidence: MEM–GERMANIA–NETHERLANDS–ROTTERDAM (Rhine mouth dependency), MEM–GERMANIA–
+  BELGIUM–ANTWERP (Scheldt closure 1648–1863), MEM–GERMANIA–BELGIUM (corridor invasion
+  consequences), SYNTHESIS 0015 (maritime hierarchy), SYNTHESIS 0017 (chokepoint
+  constraint derivation)
+  Source: SYNTHESIS 0017 (ENTRY 0027)
+  Scope: Civilization-specific (GERMANIA)
+  Constraint Type: Permanent geographic / Strategic prohibition / Mutual extraction
+  Activation Trigger: Maritime access policy; Low Countries relations; institutional
+  exit assessment; chokepoint vulnerability analysis
+  Affected File Classes: MEM, CORE, GEO, DOCTRINE
+  Status: PROPOSED (pending DIB approval for DOCTRINE 09 promotion)
+
+All listed RLLs are ACTIVE and BOUND (RLL–0013 PROPOSED pending DIB).
 
 DOCTRINE CONVERSION NOTE:
 The following doctrines from v1.2 have been converted to RLLs:
@@ -1952,9 +2245,36 @@ IX. COMMUNICATION REGISTER
 LEARN mode uses the Mercouris voice register as primary.
 See Section II.D for Secondary Voice Invocation format.
 
+COMMUNICATION PROTOCOL (MANDATORY — v2.9+):
+• Output in flowing academic prose (Mercouris style)
+• Bullets and tables: only when user-requested or offered as OGE option
+• OGE required after every substantive analytical turn
+• OGE options: concise (one line each), six options minimum
+• OGE must include Mearsheimer and Barnes perspectives where applicable
+• Failure to maintain protocol requires acknowledgment and correction
+
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.10 changes (ADDITIVE · SCANDINAVIAN SMALL-STATE LEVERAGE):
+• ENTRY 0028 added (Scandinavian periphery tri-frame audit)
+• SYNTHESIS 0018 added (Small-State Leverage Pattern Confirmation)
+• Entry count: 27 → 28
+• Synthesis count: 17 → 18
+• No new RLL proposed (existing RLLs confirmed as sufficient)
+• Denmark/Norway/Sweden MEMs audited with tri-frame cognition
+• Communication protocol added to Section IX per CMC–BOOTSTRAP v2.10
+
+v2.9 changes (ADDITIVE · MARITIME CHOKEPOINT CONSTRAINT):
+• ENTRY 0027 added (Low Countries maritime chokepoint audit)
+• SYNTHESIS 0017 added (Maritime Chokepoint Structural Constraint)
+• Entry count: 26 → 27
+• Synthesis count: 16 → 17
+• Proposed RLL–GERMANIA–0013 (Maritime Chokepoint Constraint)
+• Netherlands/Belgium MEMs audited with Mearsheimer/Barnes cognition
+• Barnes "mutual extraction" correction integrated
+• Pending DIB approval for DOCTRINE 09 promotion
+
 v2.8 changes (ADDITIVE · HANSEATIC CITY-STATE SURVIVAL + FERGUSON INGESTION):
 • ENTRY 0025 added (Ferguson *Paper and Iron* source ingestion)
 • ENTRY 0026 added (Hanseatic city-state survival comparative)

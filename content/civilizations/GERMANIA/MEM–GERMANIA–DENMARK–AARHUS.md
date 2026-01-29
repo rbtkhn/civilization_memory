@@ -1,9 +1,11 @@
-MEM–GERMANIA–DENMARK–AARHUS — v2.0
+MEM–GERMANIA–DENMARK–AARHUS — v2.1
 Civilizational Memory Codex · Subject MEM
 The Jutland Gateway and Germanic Continental Interface
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–DENMARK–AARHUS v2.0
 Template: CIV–MEM–TEMPLATE v2.8
 ARC VERSION DECLARATION: CIV–ARC–GERMANIA v2.1
 Civilization: GERMANIA (Cross-Civilizational Lens: DENMARK)
@@ -11,7 +13,7 @@ Subject: Aarhus (Urban Node; Port–Cathedral City–Continental Gateway)
 Dates: c. 770–present
 Class: MEM–GEO (URBAN NODE–PORT–SECONDARY CAPITAL)
 Last Update: January 2026
-WORDCOUNT: ~2,500
+WORDCOUNT: ~4,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE
@@ -80,6 +82,58 @@ Jutland's southern border against Carolingian and later Saxon
 expansion. The wall system channeled overland trade through
 controlled passages, with Aarhus as northern terminus.
 
+III.A THE FORCE BEHIND THE WALL (v2.1)
+────────────────────────────────────────────────────────────
+Why did Denmark build the Danevirke?
+
+The force distribution explains everything:
+• Carolingian Empire: could field 100,000+ troops for major campaigns
+• Danish kingdom: could field perhaps 10,000–15,000 warriors
+• Force ratio: approximately 7:1 to 10:1 against Denmark
+
+Charlemagne's campaigns against the Saxons (772–804) demonstrated
+what Frankish armies could do. The Saxons resisted for thirty years
+and lost. Denmark observed. The Danevirke—30 kilometers of
+earthworks, ditches, and palisades across the Jutland neck—was
+the structural recognition of force inferiority.
+
+The wall's logic:
+• Open field battle: Danish defeat certain
+• Defensive position: multiplies defender effectiveness
+• Chokepoint control: channels attack to prepared positions
+• Trade regulation: peaceful benefit from military necessity
+
+The Danevirke worked because the Carolingians never prioritized
+conquest of Denmark. Had Charlemagne turned north with full force,
+the wall would have delayed but not prevented defeat. Denmark
+survived because it wasn't worth the cost of conquest—not because
+it could resist conquest.
+
+III.B ANSGAR'S MISSION AS POWER PROJECTION (v2.1)
+────────────────────────────────────────────────────────────
+The Hamburg-Bremen missionaries came from imperial territory.
+
+The ecclesiastical hierarchy:
+• Pope in Rome: nominal authority
+• Archbishop in Hamburg-Bremen: operational control
+• Bishops in Denmark: subordinate to Hamburg-Bremen
+• Local clergy: trained in German methods
+
+This wasn't merely religious transmission. Hamburg-Bremen sat
+within the Ottonian/Salian imperial orbit. The archbishop reported
+to the emperor as well as the pope. Danish acceptance of German
+bishops meant acceptance of imperial influence.
+
+The alternative was war. Denmark could reject Christianity—and
+face crusade. The Wends resisted; the Wends were conquered. The
+Saxons resisted; the Saxons were conquered. Denmark accepted
+baptism and preserved independence.
+
+The force logic: religious conversion was the peaceful alternative
+to military subjugation. Denmark chose the path that maintained
+sovereignty, accepting ecclesiastical subordination to avoid
+political destruction.
+
 ────────────────────────────────────────────────────────────
 IV. EPISCOPAL ESTABLISHMENT
 ────────────────────────────────────────────────────────────
@@ -142,6 +196,38 @@ connected Jutland's pastoral economy to German urban demand.
 > — Fernand Braudel, *Civilization and Capitalism*, Vol. 2 (1982), p. 195
 > [ERC: SECONDARY]
 
+V.A WHO CAPTURED THE CATTLE PROFIT (v2.1)
+────────────────────────────────────────────────────────────
+The ox walked 400 kilometers from Jutland to Hamburg. Who made
+money along the way?
+
+The value chain:
+1. Danish farmer: raised the ox, received sale price (base value)
+2. Drover: walked the herd south, earned fee per head
+3. Toll collectors: Danish and German, extracted passage fees
+4. Fattener: pastured ox near market, captured weight gain value
+5. Butcher: slaughtered, captured retail margin
+6. Consumer: paid final price
+
+The margin distribution:
+• Farmer's share: approximately 30–40% of final value
+• Transport and tolls: approximately 15–20%
+• Fattening margin: approximately 20–25%
+• Retail margin: approximately 20–25%
+
+Who financed the trade:
+Danish farmers didn't walk their own oxen to Hamburg. Professional
+drovers required financing—advances for expenses, credit for
+purchasing herds. This credit came from German merchants who
+provided advances against future delivery. The financing margin
+went to German capital.
+
+The structural outcome:
+Danish farmers got paid, but German merchant-financiers captured
+the organization margin. The trade was "Danish" in production
+and "German" in finance. Aarhus farmers raised oxen; Hamburg
+merchants organized the system that moved them to market.
+
 MERCHANT COMMUNITY:
 German merchants settled in Aarhus, though never in the
 concentrated form of Bergen's Kontor. They integrated into
@@ -172,6 +258,39 @@ concentrated royal and ecclesiastical authority. The city
 became a prosperous provincial center rather than a major
 religious or political node.
 
+VI.A THE REFORMATION PROPERTY TRANSFER (v2.1)
+────────────────────────────────────────────────────────────
+Monasteries dissolved; church property transferred. Who gained?
+
+The Aarhus diocese before Reformation:
+• Bishop's landholdings: substantial estates across Jutland
+• Cathedral chapter: urban and rural properties
+• Monasteries: lands, buildings, income streams
+• Parish endowments: scattered holdings
+
+The transfer mechanism (1536):
+• Crown seizure: all episcopal and monastic property
+• Noble grants: redistributed to loyal supporters
+• Royal retention: strategic and revenue-producing estates
+• Sale: some properties sold to finance wars
+
+The beneficiaries in Aarhus region:
+• King Christian III: gained direct revenue
+• Protestant nobles: received former church estates
+• Copenhagen bureaucrats: administered the transfer
+• Local peasants: remained tenants under new landlords
+
+The last Catholic bishop of Aarhus, Ove Bille, was imprisoned
+briefly, then released. He lost his office but not his life.
+Unlike England's dissolution (executions) or France's later
+Revolution (confiscation without compensation), Danish clergy
+who submitted to Reformation survived.
+
+The peasant outcome: same land, different landlord. The tenant
+who paid rent to the bishop now paid rent to a noble or the
+crown. The Reformation was a property transfer among elites,
+not a redistribution to commoners.
+
 ────────────────────────────────────────────────────────────
 VII. NINETEENTH-CENTURY TRANSFORMATION
 ────────────────────────────────────────────────────────────
@@ -196,6 +315,33 @@ and German markets shaped industrial development.
 > the German interior."
 > — T.K. Derry, *A History of Scandinavia* (1979), p. 298
 > [ERC: SECONDARY]
+
+VII.A THE RAILWAY LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+German capital financed Danish railways. What did that mean?
+
+The investment structure:
+• Railway bonds: issued by Danish railway companies
+• Purchasers: German banks, German investors
+• Interest rate: approximately 4–5% annually
+• Payment source: Danish railway revenues
+
+The liability chain:
+• Danish railway users paid fares and freight charges
+• Revenue serviced bond interest
+• Interest payments flowed to German bondholders
+• Principal eventually repaid from accumulated surpluses
+
+For decades, Danish railway users effectively paid German
+investors. The infrastructure served Denmark; the returns
+served Germany. This wasn't exploitation—it was normal
+capital markets. But the liability was real.
+
+The dependency consequence:
+The railway connected Aarhus to European networks centered
+on Germany. Agricultural exports moved more easily to Hamburg.
+Aarhus became more dependent on German markets as railway
+connections deepened. Integration or extraction? Both.
 
 CULTURAL INSTITUTIONS:
 Aarhus University (founded 1928) established Denmark's second
@@ -225,6 +371,69 @@ Occupation memory shaped Aarhus's post-war identity, distancing
 the city from its centuries of Germanic integration. European
 integration (Denmark joined EEC 1973) gradually normalized
 Danish-German relations.
+
+VIII.A THE FORCE LOGIC OF THE RAID (v2.1)
+────────────────────────────────────────────────────────────
+Why could the RAF reach Aarhus in October 1944?
+
+The air superiority distribution:
+• Luftwaffe 1940: air superiority over Denmark
+• Luftwaffe 1944: depleted by two years of attrition
+• RAF 1944: long-range bomber capacity, fighter escort available
+• German air defense over Denmark: minimal by late 1944
+
+The raid succeeded because force ratios in the air had shifted
+decisively. Germany no longer had the fighters to intercept
+every bomber formation. The Gestapo headquarters at Aarhus
+University was vulnerable because German air power was
+being consumed over Germany itself.
+
+The 31 October 1944 raid (Operation Carthage precursor):
+• Aircraft: 25 Mosquito bombers
+• Target: Gestapo archives at university
+• Result: buildings destroyed, Gestapo records lost
+• Danish casualties: minimal (precise attack)
+• German casualties: Gestapo officers killed
+
+The raid's precision reflected improving RAF capability.
+By 1944, low-level Mosquito attacks could hit specific
+buildings without devastating surrounding areas. The force
+that burned Copenhagen in 1807 could, by 1944, distinguish
+between the Gestapo building and the rest of the university.
+
+VIII.B THE COLLABORATION LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+The Gestapo needed Danish assistance. Who provided it?
+
+The occupation apparatus:
+• German Gestapo officers: command and interrogation
+• Danish police: continued functioning until 1944
+• Danish interpreters: essential for Gestapo operations
+• Danish informants: provided intelligence on resistance
+
+The liability chain:
+• German orders initiated arrests
+• Danish police often executed them (until 1944 strike)
+• Danish informants identified targets
+• Danish interpreters enabled interrogations
+
+What happened to them:
+• Informants: hunted by resistance during occupation
+• Collaborating police: prosecuted after liberation
+• Interpreters: varied fates—some prosecuted, some claimed coercion
+• German officers: fled, captured, or killed in raid
+
+The post-war retsopgør (legal reckoning):
+• Approximately 13,500 Danes prosecuted for collaboration
+• 78 death sentences (46 executed)
+• Thousands imprisoned
+• Many more lost civil rights
+
+The liability fell heavily on visible collaborators—those who
+wore German uniforms, informed for money, or held official
+positions. Economic collaboration—Danish businesses that
+profited from German contracts—was largely overlooked.
+The industrialists kept their gains.
 
 ────────────────────────────────────────────────────────────
 IX. DOCTRINAL IMPLICATIONS
@@ -363,5 +572,5 @@ SECONDARY SOURCES (ARC–DISCOVERY):
   Stanford: Stanford University Press, 1970.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DENMARK–AARHUS v2.0
+END OF FILE — MEM–GERMANIA–DENMARK–AARHUS v2.1
 ────────────────────────────────────────────────────────────

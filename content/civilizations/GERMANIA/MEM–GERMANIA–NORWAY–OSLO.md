@@ -1,9 +1,11 @@
-MEM–GERMANIA–NORWAY–OSLO — v2.0
+MEM–GERMANIA–NORWAY–OSLO — v2.1
 Civilizational Memory Codex · Subject MEM
 The Northern Periphery and Germanic Commercial-Cultural Interface
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–NORWAY–OSLO v2.0
 Template: CIV–MEM–TEMPLATE v2.8
 ARC VERSION DECLARATION: CIV–ARC–GERMANIA v2.1
 Civilization: GERMANIA (Cross-Civilizational Lens: NORWAY)
@@ -11,7 +13,7 @@ Subject: Oslo (Urban Node; historically Christiania 1624–1925)
 Dates: c. 1000–present
 Class: MEM–GEO (URBAN NODE–CAPITAL–PORT)
 Last Update: January 2026
-WORDCOUNT: ~2,500
+WORDCOUNT: ~3,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE
@@ -143,6 +145,36 @@ German forces seized Oslo through combined air and naval assault.
 The Norwegian government and royal family fled north, eventually
 to London. Oslo became the seat of German military administration.
 
+VI.A THE FORCE RATIOS OF INVASION (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't Norway resist?
+
+The military arithmetic was impossible:
+• German invasion force: ~100,000 troops (Operation Weserübung)
+• Norwegian standing army: ~16,000 trained soldiers
+• Force ratio: approximately 6:1 before technological factors
+• German advantages: tanks, modern aircraft, combined arms doctrine
+• Norwegian deficiencies: no tanks, obsolete aircraft, no coordination
+
+The geographic factor created temporary advantage: Oslo sits at
+the head of the 100-km Oslofjord. German naval forces had to
+penetrate this fjord against coastal defenses. At the Drøbak
+Narrows, Oscarsborg Fortress sank the heavy cruiser Blücher with
+torpedoes and shore batteries—the only significant German naval
+loss of the campaign.
+
+The Blücher sinking delayed German naval entry by hours. This
+delay allowed King Haakon VII and the government to escape Oslo
+before German forces arrived. But the delay couldn't be exploited:
+• No Norwegian relief forces available
+• German airborne troops seized Fornebu airport
+• German air superiority negated surface defenses
+• Ground forces arrived from the south within days
+
+The structural reality: small states cannot defend themselves
+against great-power invasion regardless of geographic advantage.
+Norway bought hours, not survival.
+
 REICHSKOMMISSARIAT NORWEGEN:
 Josef Terboven, as Reichskommissar, governed from Oslo. The city
 hosted German military headquarters, Gestapo operations, and
@@ -165,6 +197,32 @@ JEWISH DEPORTATION:
 In November 1942, German and Norwegian police arrested Oslo's
 Jewish population for deportation to Auschwitz. Of 772 Norwegian
 Jews deported, only 34 survived.
+
+VI.B THE QUISLING LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+What happened to the man whose name became synonymous with treason?
+
+Vidkun Quisling's personal fate:
+• Arrested: May 9, 1945 (day after German surrender)
+• Tried: August–September 1945 (treason, accessory to murder)
+• Convicted: September 10, 1945
+• Executed: October 24, 1945 (firing squad, Akershus Fortress)
+
+Quisling paid personally. Unlike many wartime leaders who escaped
+or received prison terms, Quisling died for his collaboration.
+His execution was legal, public, and swift.
+
+The broader rettsoppgjøret (legal purge):
+• Approximately 46,000 Norwegians prosecuted for collaboration
+• 25 executions (including Quisling)
+• 17,000 prison sentences
+• 28,000 fines or loss of civil rights
+
+The liability distribution was thorough but selective. Political
+collaboration was prosecuted severely. Economic collaboration—
+Norwegian businesses that profited from German contracts—was
+largely ignored. The industrialists kept their gains; the
+political collaborators lost their lives or freedom.
 
 ────────────────────────────────────────────────────────────
 VII. POST-WAR MEMORY AND RECONCILIATION
@@ -332,5 +390,5 @@ SECONDARY SOURCES (ARC–DISCOVERY):
   of Denmark and Norway, April 1940–May 1945*. New York: Morrow, 1974.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–NORWAY–OSLO v2.0
+END OF FILE — MEM–GERMANIA–NORWAY–OSLO v2.1
 ────────────────────────────────────────────────────────────

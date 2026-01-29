@@ -12,10 +12,10 @@ Subject: Alfred von Tirpitz (Fleet & Risk Theory)
 Dates: c. 1897–1916 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,800
+Word Count: ~3,000
 
 ARC VERSION DECLARATION:
-This MEM is compliant with CIV–ARC–GERMANIA v1.1.
+This MEM is compliant with CIV–ARC–GERMANIA v2.3.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -118,6 +118,15 @@ Holger Herwig exposes the strategic fallacy:
 
 The "risk fleet" provoked the arms race it was designed to avoid.
 
+Robert Massie captures Tirpitz's strategic miscalculation:
+
+> "Tirpitz's premise was that Germany could build a fleet large
+> enough to make war with Britain too risky for Britain to undertake.
+> The flaw was that Britain, seeing the German fleet grow, would
+> simply build faster—which is exactly what happened."
+> — Robert K. Massie, *Dreadnought* (1991)
+> [ERC: SECONDARY]
+
 ────────────────────────────────────────────────────────────
 IV. INDUSTRIAL PERFECTION, STRATEGIC MISFIT
 ────────────────────────────────────────────────────────────
@@ -188,6 +197,16 @@ Outcomes:
 • Strategic initiative ceded
 
 Germania pays the cost without reaping leverage.
+
+Massie describes the fleet's wartime futility:
+
+> "The German navy spent most of the war riding at anchor in the
+> estuaries of the Jade, the Weser, and the Elbe while the British
+> Grand Fleet patrolled the exits to the North Sea. The great
+> dreadnoughts, built at such cost and with such pride, rusted
+> in their harbors."
+> — Robert K. Massie, *Castles of Steel* (2003)
+> [ERC: SECONDARY]
 
 Herwig captures the operational paralysis:
 

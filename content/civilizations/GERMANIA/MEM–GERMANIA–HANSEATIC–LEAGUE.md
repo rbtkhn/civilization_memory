@@ -12,7 +12,7 @@ ARC Compliance: CIV–ARC–GERMANIA v1.1
 Subject Type: WELL-DOCUMENTED (Political-Commercial Structure)
 Applied Requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 Last Update: January 2026
-Word Count: ~3,000
+Word Count: ~3,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -34,6 +34,16 @@ This file does not narrate individual Hanseatic cities.
 It records how the League functioned as **confederation grammar**—
 a template for organizing collective action among autonomous units
 that Germania would repeatedly invoke.
+
+Peter H. Wilson captures the structural pattern:
+
+> "The empire functioned as a framework, focused on consensus not
+> coercion, accepting rather than rationalising anomalies and diversity."
+> — Peter H. Wilson, *Heart of Europe* (2016)
+> [ERC: SECONDARY]
+
+The Hanse embodied this framework logic more purely than the Empire itself:
+coordination without hierarchy, effectiveness without sovereignty.
 
 Contradictions are preserved without synthesis.
 

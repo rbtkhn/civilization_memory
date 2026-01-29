@@ -1,8 +1,10 @@
-MEM–GERMANIA–RIGA — v2.0
+MEM–GERMANIA–RIGA — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–RIGA v2.0
 Civilization: GERMANIA
 Subject: Riga (Crusader Foundation, Hanseatic Port, and Colonial Limit)
 Dates: 1201 AD–present
@@ -12,7 +14,7 @@ ARC Compliance: CIV–ARC–GERMANIA v1.1
 Subject Type: WELL-DOCUMENTED (Urban Node — Colonial Projection)
 Applied Requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 Last Update: January 2026
-Word Count: ~2,800
+Word Count: ~4,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -69,6 +71,78 @@ Unlike organic Germanic cities, Riga is consciously planted:
 The foundation grammar—crusade plus commerce—persists in Riga's
 institutional structure for seven centuries.
 
+II.A THE FORCE RATIOS OF CONQUEST (v2.1)
+────────────────────────────────────────────────────────────
+How did a small German force subjugate the Baltic peoples?
+
+The Livonian Brothers of the Sword operated with limited numbers:
+• Perhaps 100–150 knight-brothers at peak strength
+• Several hundred sergeants and auxiliary troops
+• Seasonal crusaders from Germany (variable, unpredictable)
+• Total permanent military establishment: under 1,000 men
+
+Against this, the Baltic peoples—Livs, Latvians, Curonians,
+Estonians—numbered in the hundreds of thousands. The force
+ratios should have been impossible.
+
+The structural advantages that enabled conquest:
+• Stone castles vs. wooden fortifications—sieges favored attackers
+  with permanent bases
+• Disciplined military-monastic organization vs. tribal confederations
+  with seasonal mobilization
+• Continuous reinforcement from Germany vs. populations that could
+  not replace losses at the same rate
+• Technological superiority in armor, crossbows, cavalry tactics
+• Division among Baltic peoples—no unified resistance
+
+The pattern is identical to Prussia: organizational superiority
+and replacement depth defeat numerical superiority. A few hundred
+disciplined knights with stone castles can conquer populations
+of hundreds of thousands if the defenders cannot concentrate
+forces or sustain prolonged resistance.
+
+The conquest took decades (roughly 1201–1290), not because
+German forces were weak but because they were few. Each year
+brought incremental territorial gain, new castles, new settlers.
+The structure of the situation compelled gradual but inevitable
+German victory.
+
+II.B WHO PAID FOR THE CRUSADE (v2.1)
+────────────────────────────────────────────────────────────
+Crusades don't fund themselves. Who bore the costs?
+
+Bishop Albert made annual recruitment trips to Germany—preaching
+the crusade, selling indulgences, recruiting knights and settlers.
+The financing structure:
+
+DONORS (bore upfront costs):
+• German nobles seeking spiritual merit
+• Merchants seeking commercial access
+• Church institutions granting indulgences
+• Monasteries providing initial supplies and personnel
+
+CRUSADERS (bore personal risk):
+• Knights expecting land grants and salvation
+• Sergeants and common soldiers hoping for advancement
+• Settlers seeking agricultural land
+
+CONQUERED PEOPLES (bore conquest costs):
+• Livs, Latvians, Estonians—subjugation, conversion, serfdom
+• Indigenous elites—displacement or subordination
+• Populations—tribute, labor obligations, loss of land
+
+BENEFICIARIES (captured returns):
+• German merchant settlers—commercial monopoly
+• German noble families—landed estates
+• Church institutions—tithes from converted populations
+• Order itself—territorial sovereignty, extraction rights
+
+The liability distribution: German donors paid for conquest they
+would never see; Baltic peoples paid with their freedom; German
+settlers and the Order captured returns across seven centuries.
+The crusade was an investment scheme with spiritual marketing
+and colonial returns.
+
 ────────────────────────────────────────────────────────────
 III. HANSEATIC INTEGRATION
 ────────────────────────────────────────────────────────────
@@ -95,6 +169,41 @@ its famous house (1334, rebuilt 1999) as symbol of mercantile wealth.
 
 The Hanseatic connection integrates Riga into Germanic commercial
 networks despite its geographic isolation from core Germania.
+
+III.A THE DAUGAVA CORRIDOR (v2.1)
+────────────────────────────────────────────────────────────
+Why was Riga worth fighting for across five centuries?
+
+The strategic geometry is precise. Riga sits at the transition
+point between seaborne and riverine commerce. The Daugava
+(Western Dvina) River extends approximately 1,000 km into
+the interior, providing water transport from:
+• Smolensk (Russian interior)
+• Polotsk (historic trading center)
+• Vitebsk (Lithuanian/Russian commerce)
+• The entire Belarusian river network
+
+Goods from the interior—timber, flax, hemp, grain, furs, wax—
+funnel through this corridor to reach Baltic maritime trade.
+Whoever holds Riga controls the extraction point.
+
+The position creates natural monopoly:
+• Goods must be transshipped from river boats to seagoing vessels
+• Transshipment requires storage, weighing, quality control
+• Each function generates fees, taxes, commercial margin
+• Alternative routes (overland, other rivers) are less efficient
+
+Every power seeking Baltic hegemony required this node:
+• Sweden (1621–1710): dominium maris Baltici required controlling
+  all major Baltic ports; Riga was the largest
+• Russia (1710–1918): access to European commerce required
+  ice-free Baltic ports; Riga was the best
+• Germany (1917–1918, 1941–1944): eastward expansion required
+  the same river corridor for logistics
+
+The strategic grammar: any power that controls the eastern
+Baltic must hold Riga. Any power that holds Riga can extract
+from the interior. The structure of geography compels the outcome.
 
 ────────────────────────────────────────────────────────────
 IV. ETHNIC STRUCTURE: GERMAN URBAN, LATVIAN RURAL
@@ -175,6 +284,25 @@ The German elite accommodates Swedish sovereignty because Sweden:
 
 Accommodation follows from regime compatibility, not ethnic identity.
 
+VI.A THE SIEGE OF 1621 (v2.1)
+────────────────────────────────────────────────────────────
+What were the force ratios in Swedish conquest?
+
+Gustavus Adolphus brought approximately 16,000 troops against
+Riga's Polish garrison of perhaps 3,000–4,000 defenders. The
+4:1 to 5:1 ratio was decisive, but the siege still lasted
+from mid-August to mid-September 1621—about a month.
+
+The fortifications mattered:
+• Medieval walls upgraded with early modern bastions
+• River access complicated complete investment
+• Defenders could be resupplied by water until blockade complete
+
+The Swedish victory demonstrated that Riga could be taken by
+a determined power with sufficient force concentration. The
+city was not impregnable—merely expensive to capture. Sweden
+paid the price because Baltic hegemony required the position.
+
 ────────────────────────────────────────────────────────────
 VII. RUSSIAN CONQUEST (1710)
 ────────────────────────────────────────────────────────────
@@ -202,6 +330,32 @@ maintaining local privilege—persists until 1918.
 > Russians precisely because the Tsar guaranteed their local
 > supremacy over the Latvian and Estonian populations."
 > — Contemporary Baltic historiography
+
+VII.A THE SIEGE OF 1710 (v2.1)
+────────────────────────────────────────────────────────────
+Peter the Great's conquest combined military force with
+biological catastrophe.
+
+The force ratios:
+• Russian besieging force: approximately 40,000 troops
+• Swedish garrison: approximately 11,000 troops initially
+• Plague reduced the garrison to perhaps 1,500 effective
+  defenders by the time of surrender
+
+The arithmetic was overwhelming, but only because plague had
+done the preparatory work. The city's population, estimated
+at 20,000 before the siege, collapsed to perhaps 5,000.
+Disease, not bombardment, delivered Riga to Russia.
+
+The siege lasted from late 1709 to July 1710—nearly a year.
+Without plague, the fortifications might have held longer.
+Swedish relief forces might have arrived. The outcome was
+determined by epidemiology as much as strategy.
+
+Peter's terms were generous precisely because he needed the
+surviving population: Baltic Germans would administer the
+province, run the commerce, staff the schools. Conquest by
+plague created dependency on survivors.
 
 ────────────────────────────────────────────────────────────
 VIII. INDUSTRIAL DEVELOPMENT (1850–1914)
@@ -258,6 +412,38 @@ could not maintain independent position. Liability transfer
 was complete: they extracted for centuries, then departed;
 Latvians (and Jews, who were murdered) bore occupation costs.
 
+IX.A THE REPATRIATION MECHANISM (v2.1)
+────────────────────────────────────────────────────────────
+Who organized the 1939 departure, and who paid?
+
+The Volksdeutsche Mittelstelle (VoMi)—Himmler's organization
+for ethnic Germans abroad—administered Baltic German resettlement.
+The liability distribution:
+
+DEPARTING GERMANS:
+• Property sold at distressed prices or abandoned
+• Reich provided resettlement allowances and housing
+• Many settled in annexed Polish territories (Warthegau)
+• Compensation came from confiscated Polish and Jewish property
+
+LATVIAN STATE:
+• Acquired abandoned German property at below-market prices
+• Lost administrative and commercial expertise
+• Gained national homogeneity briefly (1939–1940)
+
+THIRD PARTIES:
+• Polish and Jewish populations in Warthegau: displaced or murdered
+  to make room for Baltic German settlers
+• Reich taxpayers: funded resettlement infrastructure
+• Future generations: inherited displaced persons problem
+
+The repatriation was not "going home." Most Baltic Germans had
+never lived in Germany. They were resettled to newly conquered
+territories, displacing populations who had lived there for
+centuries. The liability chain extended from Riga to Łódź:
+Baltic Germans departed colonial positions only to occupy new
+colonial positions at Polish expense.
+
 ────────────────────────────────────────────────────────────
 X. SOVIET AND POST-SOVIET PERIODS
 ────────────────────────────────────────────────────────────
@@ -298,6 +484,19 @@ For Germania, Riga encodes recurring lessons:
 Riga teaches Germania **where civilization extended beyond
 sustainable reach—and how long unsustainable positions can persist**.
 
+v2.1 additions:
+• Organizational superiority defeats numerical superiority in
+  colonial conquest (v2.1)
+• Crusade financing distributes liability: donors pay upfront,
+  conquered pay permanently, settlers capture returns (v2.1)
+• Geographic position creates natural monopoly at transshipment
+  points—whoever holds Riga extracts from interior (v2.1)
+• Plague determines siege outcomes as much as force ratios (v2.1)
+• Repatriation extends liability chains—Baltic Germans displaced
+  Poles who displaced others (v2.1)
+• Holocaust completed ethnic homogenization that colonial
+  departure began (v2.1)
+
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -309,6 +508,14 @@ XII. CONTINUITY INSIGHTS (RAW)
 • Industrial development inverted demographic ratio.
 • 1939 "repatriation" ended German presence after 738 years.
 • Architectural heritage persists as historical deposit.
+• Force ratios of 100:1 can be overcome by organizational superiority
+  and replacement depth (v2.1)
+• Crusade financing was investment scheme with spiritual marketing
+  and colonial returns (v2.1)
+• Daugava corridor created natural monopoly at river-sea transition (v2.1)
+• Siege of 1710: plague killed more defenders than Russian artillery (v2.1)
+• VoMi repatriation extended liability from Riga to Warthegau (v2.1)
+• Holocaust eliminated last non-Latvian commercial class (v2.1)
 
 Contradictions preserved without verdict.
 
@@ -353,5 +560,5 @@ Secondary (ARC-Compliant):
 • Gert von Pistohlkors, *Deutsche Geschichte im Osten Europas: Baltische Länder* (1994)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–RIGA — v2.0
+END OF FILE — MEM–GERMANIA–RIGA — v2.1
 ────────────────────────────────────────────────────────────

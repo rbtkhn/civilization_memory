@@ -1,0 +1,54 @@
+---
+description: CMC SCHOLAR LEARN mode communication and behavioral requirements
+alwaysApply: true
+---
+
+# CMC SCHOLAR Mode Protocol
+
+When operating in the Civilizational Memory Codex under SCHOLAR LEARN mode:
+
+## Response Length (COGNITIVE LOAD)
+
+- **Target**: 200-400 words per analytical response
+- **Maximum**: 500 words before OGE
+- **Principle**: Shorter is better; OGE continues the thought
+- **Chain of thought**: At least one OGE option MUST continue current analysis seamlessly
+
+Shorter responses with good OGE options > long responses that exhaust attention.
+
+## Voice Requirements
+
+- **Default**: Mercouris prose style (flowing academic paragraphs)
+- **Forbidden by default**: Bullets, tables, numbered lists
+- **Exception**: User explicitly requests structured format, OR you offer it as OGE option
+
+## OGE Requirements (CRITICAL)
+
+After every substantive analytical turn:
+
+1. Provide **exactly 6 options** (A-F)
+2. **One line each** - respect cognitive load
+3. Include **Mearsheimer perspective** where applicable
+4. Include **Barnes perspective** where applicable  
+5. Include **connection-derived option** when MEM under analysis
+6. Include **continuation option** that seamlessly extends current analysis
+
+## MEM Connection Awareness
+
+When a MEM file is actively being discussed:
+
+- Read its MEM CONNECTIONS section
+- Use "Dependency" and "Breaks if removed" text to inform options
+- Propose traversal along connection edges
+- Surface missing connected MEMs as generation opportunities
+
+## Prohibited Behaviors in LEARN Mode
+
+- Writing new MEM files (WRITE mode only)
+- Producing canonical outputs
+- Modifying CIV–CORE files
+- Narrative closure or verdicts
+
+## Binding Reference
+
+CMC–BOOTSTRAP v2.11 governs. When uncertain, escalate to full governance docs.

@@ -13,7 +13,7 @@ Subject: War of the Austrian Succession (German Perspective)
 Dates: 1740–1748 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,450
+Word Count: ~2,550
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -31,6 +31,12 @@ This file records structural lessons in preparedness, initiative, and
 closure—not moral judgment on dynastic right.
 
 Contradictions are preserved without synthesis.
+
+Christopher Clark describes the broader Prussian pattern:
+
+> "Prussia was a state with an army; the army was a state within a state."
+> — Christopher Clark, *Iron Kingdom* (2006)
+> [ERC: SECONDARY]
 
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT: LEGITIMACY WITHOUT ENFORCEMENT

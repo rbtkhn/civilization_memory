@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
 Last Update: January 2026
-Word Count: ~2,300
+Word Count: ~2,600
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -75,6 +75,18 @@ Characteristics:
 • Predictable governance
 
 Power is procedural, not charismatic.
+
+Gordon Craig captured the paradox of Prussian—and broader German—character:
+
+> "Germans are romantic and conservative, idealistic and practical,
+> proud and insecure, ruthless and good-natured... They have given
+> mankind triumphs in science, literature, philosophy, music, and art
+> while simultaneously producing Hitler and the Holocaust."
+> — Gordon A. Craig, *The Germans* (1982)
+> [ERC: SECONDARY]
+
+Prussia exemplified this tension between procedural excellence and
+catastrophic application.
 
 ────────────────────────────────────────────────────────────
 V. OBEDIENCE WITHOUT MYTH

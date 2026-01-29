@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory) · TERRITORY Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.2
 Last Update: January 2026
-Word Count: ~2,500
+Word Count: ~2,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -24,6 +24,16 @@ derived from efficiency alone.
 
 For Germania, Alsace–Lorraine is not humiliation.
 It is **victory that proved unstable**.
+
+As A.J.P. Taylor observed of the broader pattern:
+
+> "The history of the Germans is a history of extremes. It contains
+> everything except moderation."
+> — A.J.P. Taylor, *The Course of German History* (1945)
+> [ERC: SECONDARY]
+
+Alsace-Lorraine exemplified this: extreme military success followed by
+extreme political consequences.
 
 Contradictions are preserved without synthesis.
 

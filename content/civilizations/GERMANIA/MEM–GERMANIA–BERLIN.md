@@ -14,7 +14,7 @@ ARC Compliance: CIV–ARC–GERMANIA v1.1
 Subject Type: WELL-DOCUMENTED (Urban Node)
 Applied Requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 Last Update: January 2026
-Word Count: ~2,300
+Word Count: ~2,500
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -25,6 +25,16 @@ a city that became central not through antiquity or sanctity, but through
 
 Berlin is not Germania's natural heart.
 It is Germania's **constructed command node**.
+
+Peter H. Wilson captures the broader Germanic pattern:
+
+> "The empire functioned as a framework, focused on consensus not
+> coercion, accepting rather than rationalising anomalies and diversity."
+> — Peter H. Wilson, *Heart of Europe* (2016)
+> [ERC: SECONDARY]
+
+Berlin represents the opposite tendency: Prussian command imposing
+uniformity where the Empire accepted diversity.
 
 Where Rome accumulated authority through centuries of republican and
 imperial continuity, Berlin became capital through deliberate choice—

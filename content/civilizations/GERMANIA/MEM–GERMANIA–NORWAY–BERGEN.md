@@ -1,9 +1,11 @@
-MEM–GERMANIA–NORWAY–BERGEN — v2.0
+MEM–GERMANIA–NORWAY–BERGEN — v2.1
 Civilizational Memory Codex · Subject MEM
 The Hanseatic Kontor and Germanic Commercial Enclave
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–NORWAY–BERGEN v2.0
 Template: CIV–MEM–TEMPLATE v2.8
 ARC VERSION DECLARATION: CIV–ARC–GERMANIA v2.1
 Civilization: GERMANIA (Cross-Civilizational Lens: NORWAY)
@@ -11,7 +13,7 @@ Subject: Bergen (Urban Node; Hanseatic Kontor)
 Dates: c. 1070–present
 Class: MEM–GEO (URBAN NODE–KONTOR–PORT)
 Last Update: January 2026
-WORDCOUNT: ~2,700
+WORDCOUNT: ~4,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE
@@ -51,6 +53,39 @@ territorial conquest:
    on German grain, cloth, and manufactures; Germans depended on
    Norwegian fish. Mutual dependency stabilized asymmetric power.
 
+II.A THE FORCE BEHIND COMMERCE (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't Norway break the Hanseatic monopoly?
+
+The MEM describes commercial dependency but not the military
+power that enforced it. The Hanse was not merely a trading
+network—it was backed by naval force.
+
+The force distribution:
+• Hanseatic League: Combined naval capacity of member cities;
+  Lübeck alone could field a war fleet
+• Norway: No significant navy; fishing boats, not warships
+• Ratio: Overwhelming Hanseatic superiority in Baltic/North Sea
+
+When Norwegian kings challenged Hanseatic privileges, they faced:
+• Blockade: Hanse could interdict all Norwegian maritime trade
+• Embargo: Cut off grain supply Norway depended on
+• Commercial warfare: Exclude Norwegian goods from European markets
+
+The 1455 English attack demonstrated consequences:
+• English merchants attacked Kontor, burned buildings, killed Germans
+• Hanseatic response: Commercial warfare against England
+• Result: English withdrawal, reparations to Hanse, restoration of privileges
+
+Norway observed this. Norwegian attacks on the Kontor would:
+• Destroy infrastructure Norway itself depended on
+• Trigger commercial retaliation Norway couldn't survive
+• Accomplish nothing without naval power to enforce independence
+
+The structural reality: commercial monopolies persist when backed
+by force the victim cannot match. Norway's accommodation was
+rational response to military-commercial asymmetry.
+
 ────────────────────────────────────────────────────────────
 III. THE KONTOR SYSTEM
 ────────────────────────────────────────────────────────────
@@ -82,6 +117,48 @@ German merchants in Bergen were forbidden to marry Norwegian women
 or acquire Norwegian property outside the Kontor. The separation
 was functional: it preserved German commercial privilege while
 preventing assimilation that would dilute Hanseatic identity.
+
+III.A WHO FINANCED THE KONTOR (v2.1)
+────────────────────────────────────────────────────────────
+Those wooden warehouses on Bryggen—who built them, who owned them?
+
+The capital structure:
+• Buildings belonged to merchant companies, not individuals
+• Investors in Lübeck, Hamburg, Bremen provided capital
+• Bergen-based factors managed operations on behalf of home investors
+• Profits repatriated to Hanseatic home cities
+
+The liability distribution:
+• Hanseatic investors: bore capital risk, captured returns
+• Bergen factors: bore operational risk, earned commissions
+• Norwegian laborers: built and maintained facilities for wages
+• Norwegian state: received minimal taxation, no ownership
+
+After each fire (1702, 1756, and others), German capital
+rebuilt the facilities. The investment flowed from Germany;
+the returns flowed back to Germany. Bergen gained infrastructure
+it didn't own; Germany gained persistent extraction capacity.
+
+III.B THE EXTRACTION LOGIC (v2.1)
+────────────────────────────────────────────────────────────
+The demographic restrictions encoded the extraction pattern.
+
+German merchants forbidden to marry Norwegian women meant:
+• No family formation in Bergen → no local inheritance
+• Profits accumulated for export, not local reinvestment
+• Retirement meant return to Lübeck or Hamburg with accumulated wealth
+• No "Bergen German" community with local loyalties
+
+German merchants forbidden to own Norwegian property meant:
+• All investment concentrated in Kontor infrastructure
+• No diversification into Norwegian land or enterprises
+• Commercial focus maintained across generations
+• No gradual assimilation into Norwegian society
+
+The structural outcome: three centuries of extraction without
+integration. Norwegian fishing communities fed German commerce;
+German commerce fed Hanseatic home cities; Bergen retained the
+architecture but not the accumulated wealth.
 
 ────────────────────────────────────────────────────────────
 IV. THE STOCKFISH MONOPOLY
@@ -115,6 +192,36 @@ and import supplies.
 > merchant at prices the merchant set. He rarely saw coin."
 > — T.K. Derry, *A History of Scandinavia* (1979), p. 89
 > [ERC: SECONDARY]
+
+IV.A THE DEBT PEONAGE MECHANISM (v2.1)
+────────────────────────────────────────────────────────────
+How did the credit system actually work?
+
+The cycle of dependency:
+1. Fisherman needs supplies for season (nets, salt, provisions)
+2. No cash available → German merchant extends credit
+3. Fisherman agrees to sell catch to creditor merchant
+4. Catch delivered → credited against debt at merchant's price
+5. Debt rarely cleared → cycle repeats next season
+6. Generational: son inherits father's debt to same merchant house
+
+The price mechanism:
+• Fish purchase price: set by German merchant (buyer's market)
+• Supply sale price: set by German merchant (seller's market)
+• Credit interest: implicit in price differential
+• Alternative buyers: none (Kontor monopoly)
+
+Who captured the spread:
+• German merchants: difference between Bergen purchase price
+  and European sale price (substantial)
+• European consumers: fish at prices below true production cost
+• Norwegian fishermen: subsistence, perpetual debt, no accumulation
+
+The liability extended across generations. Fishing families
+were locked into relationships with specific merchant houses
+for decades. Escape required either debt clearance (rare) or
+abandoning fishing entirely (costly). The system was legal
+debt peonage operating through commercial forms.
 
 ────────────────────────────────────────────────────────────
 V. CONFLICT AND ACCOMMODATION
@@ -197,6 +304,39 @@ CULTURAL MEMORY:
 Modern Bergen commemorates its Hanseatic past through the
 Hanseatic Museum (established 1872), which preserves a Bryggen
 building in its 18th-century mercantile configuration.
+
+VII.A THE 1754 TRANSFER (v2.1)
+────────────────────────────────────────────────────────────
+The MEM notes the Kontor was "transferred to Norwegian merchant
+control" in 1754. What did that mean in practice?
+
+The transfer mechanism:
+• Formal Kontor privileges surrendered to Danish-Norwegian crown
+• German merchant houses sold or transferred Bergen positions
+• Norwegian merchants (often of partial German descent) acquired facilities
+• Hanseatic institutional framework dissolved; commercial relationships persisted
+
+Who gained:
+• Norwegian merchants: acquired infrastructure built with German capital
+• Danish-Norwegian state: gained regulatory authority over Bergen trade
+• Norwegian craftsmen: no longer excluded from Bryggen trades
+
+Who lost:
+• Lübeck: lost institutional control and appellate authority
+• German merchant houses: lost privileged legal status
+• Future German traders: competed as individuals, not Kontor members
+
+What persisted:
+• Hamburg remained Bergen's primary trading partner
+• German commercial expertise continued through assimilated families
+• Bryggen architecture maintained (German form, Norwegian ownership)
+• Trade relationships outlasted institutional framework
+
+The transfer was not expulsion but normalization. German
+commerce continued; German privilege ended. The extraction
+pattern moderated as Norwegian merchants captured more of
+the value chain. But the infrastructure—built by German
+capital—remained. Norway inherited what Germany had built.
 
 ────────────────────────────────────────────────────────────
 VIII. DOCTRINAL IMPLICATIONS
@@ -345,5 +485,5 @@ SECONDARY SOURCES (ARC–DISCOVERY):
   Finland, and Iceland*. Minneapolis: University of Minnesota Press, 1979.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–NORWAY–BERGEN v2.0
+END OF FILE — MEM–GERMANIA–NORWAY–BERGEN v2.1
 ────────────────────────────────────────────────────────────

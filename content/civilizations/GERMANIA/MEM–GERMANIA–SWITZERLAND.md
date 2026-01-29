@@ -12,7 +12,7 @@ Class: MEM (Civilizational Memory) · SUBJECT Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.2
 Last Update: January 2026
-Word Count: ~2,300
+Word Count: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -24,6 +24,16 @@ centralized sovereignty.
 
 For Germania, Switzerland is not foreign.
 It is **what Germania might have been without empire**.
+
+As A.J.P. Taylor observed of the broader Germanic pattern:
+
+> "The history of the Germans is a history of extremes. It contains
+> everything except moderation."
+> — A.J.P. Taylor, *The Course of German History* (1945)
+> [ERC: SECONDARY]
+
+Switzerland is the exception: Germanic discipline applied with moderation,
+Germanic federalism without imperial ambition.
 
 Contradictions are preserved without synthesis.
 

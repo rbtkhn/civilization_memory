@@ -1,8 +1,10 @@
-MEM–GERMANIA–NETHERLANDS–AMSTERDAM — v2.0
+MEM–GERMANIA–NETHERLANDS–AMSTERDAM — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–NETHERLANDS–AMSTERDAM v2.0
 Civilization: GERMANIA
 Subject: Netherlands–Amsterdam (Imperial Exit, Commercial Republic, and Alternative Modernity)
 Dates: c. 1275 AD–present
@@ -12,7 +14,7 @@ ARC Compliance: CIV–ARC–GERMANIA v1.1
 Subject Type: INTERPRETIVE (Civilizational Exit Node)
 Applied Requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 Last Update: January 2026
-Word Count: ~2,500
+Word Count: ~4,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -88,6 +90,65 @@ Habsburg framework. Independence emerges when reconciliation fails.
 
 Exit follows from constraint, not original intention.
 
+III.A THE FORCE RATIOS OF REVOLT (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't Spain reconquer the northern provinces?
+
+The military arithmetic favored Spain—on paper:
+• Spanish Army of Flanders: 60,000–80,000 troops (peak strength)
+• Dutch field forces: rarely exceeded 30,000
+• Spanish military reputation: finest infantry in Europe
+• Spanish resources: silver from Americas, Habsburg dynastic network
+
+But the operational reality favored the Dutch:
+
+Geographic advantage:
+• Canal-crossed terrain negated cavalry and siege trains
+• Fortified cities required lengthy sieges (Spanish specialty, but slow)
+• Sea approaches controlled by Dutch navy
+• Flooding possible: Dutch could drown their own land
+
+Logistical constraint:
+• Spanish Road: 1,000 km from Italy to Netherlands through hostile territory
+• No sea route: Dutch navy controlled the Channel approaches
+• Supply convoys: constantly interdicted, prohibitively expensive
+• Mutinies: unpaid Spanish troops mutinied repeatedly (1574, 1576, 1589, 1602)
+
+Financial asymmetry:
+• Spain: funded war from Potosí silver, 8,000 km away
+• Dutch: funded war from commerce passing through their own ports
+• Spanish bankruptcies: 1557, 1560, 1575, 1596, 1607—each interrupted campaigns
+• Dutch credit: Amsterdam became Europe's cheapest capital market
+
+The structural outcome: Spain could win battles but couldn't win the war.
+Every siege cost years and millions of ducats. The Dutch could lose cities
+and survive; Spain couldn't afford to take them all.
+
+III.B THE ANTWERP TRANSFER (v2.1)
+────────────────────────────────────────────────────────────
+The Fall of Antwerp (1585) meant specific people lost everything.
+
+Who fled:
+• Protestant merchants: approximately 38,000 left Antwerp within four years
+• Sephardic Jewish traders: chose Amsterdam over Spanish Inquisition
+• Skilled craftsmen: diamond cutters, textile workers, printers
+• Capital: estimated 10+ million guilders moved north
+
+Who stayed and lost:
+• Catholic merchants: retained property but lost Protestant trading partners
+• Workers without resources to move: stayed, faced economic depression
+• Antwerp itself: population dropped from 100,000 to 42,000 by 1590
+
+Who gained in Amsterdam:
+• Existing oligarchy: absorbed new capital, married into migrant families
+• Real estate owners: property values soared as refugees arrived
+• Migrant merchants: rebuilt networks, often surpassing original positions
+• Portuguese Jewish community: became major trading house operators
+
+The Scheldt blockade (maintained until 1863) ensured Antwerp couldn't
+recover. This wasn't accident—it was Dutch policy. Amsterdam's
+prosperity required Antwerp's permanent subordination.
+
 ────────────────────────────────────────────────────────────
 IV. AMSTERDAM ASCENDANCY
 ────────────────────────────────────────────────────────────
@@ -152,6 +213,58 @@ The empire extends to:
 
 Network empire rather than territorial empire.
 
+VI.A THE EXTRACTION CHAIN (v2.1)
+────────────────────────────────────────────────────────────
+Who profited from the Dutch commercial empire?
+
+VOC shareholders and returns:
+• Amsterdam regents (urban oligarchy): largest shareholder bloc
+• Wealthy merchants: secondary shareholders
+• Average annual dividend (first century): approximately 18%
+• Total returns over 200 years: astronomical wealth concentration
+
+Who bore the costs:
+• Dutch sailors: 30% mortality per Asian voyage (disease, shipwreck, combat)
+• Indonesian population: forced cultivation systems, coerced labor
+• Banda Islands (1621): near-total population elimination for nutmeg monopoly
+• Indonesian rulers: collaboration or conquest—no third option
+
+The mortality arithmetic:
+• VOC employees sent to Asia (1602–1795): approximately 1 million
+• VOC employees who returned to Europe: approximately 340,000
+• Deaths in service: approximately 660,000 (two-thirds)
+
+The dividend recipients in Amsterdam never faced tropical disease,
+shipboard violence, or Javanese warfare. The liability fell entirely
+on those who went; the returns flowed entirely to those who stayed.
+
+VI.B THE SLAVE TRADE LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+The WIC transported approximately 550,000 enslaved Africans.
+
+The profit chain:
+• African traders: sold captives to WIC factors
+• WIC ships: transported enslaved to Caribbean/Brazil
+• Caribbean plantations: worked enslaved to death producing sugar
+• Amsterdam refineries: processed slave-produced sugar
+• European consumers: ate the product of slavery
+• WIC shareholders: dividends from human trafficking
+
+Who died:
+• Enslaved Africans: mortality in Middle Passage 15–20%
+• Enslaved on plantations: average survival 7–10 years
+• African societies: warfare, depopulation, social destruction
+
+Who profited:
+• WIC investors (lower returns than VOC—war losses and competition)
+• Plantation owners (many Dutch or Dutch-financed)
+• Sugar merchants and refiners
+• Insurance underwriters covering slave voyages
+
+The WIC was less profitable than the VOC—slave trading was competitive,
+contested by English, French, and Portuguese. But "less profitable"
+still meant Dutch participation in one of history's greatest crimes.
+
 ────────────────────────────────────────────────────────────
 VII. FINANCIAL INNOVATION
 ────────────────────────────────────────────────────────────
@@ -205,6 +318,63 @@ The Dutch demonstrate that commercial supremacy requires either
 continental withdrawal or exhausting military expenditure to
 prevent conquest.
 
+IX.A THE FORCE RATIOS OF DECLINE (v2.1)
+────────────────────────────────────────────────────────────
+Why did England eventually displace the Dutch?
+
+The demographic reality:
+• English population (1650): approximately 5.2 million
+• Dutch population (1650): approximately 1.9 million
+• Ratio: nearly 3:1 English advantage
+
+The shipbuilding constraint:
+• English timber: domestic supply plus unlimited Baltic imports
+• Dutch timber: entirely dependent on Baltic imports
+• English shipyards: could outbuild Dutch over sustained competition
+• Navigation Acts: excluded Dutch shipping from English colonial trade
+
+The geographic factor:
+• English Channel: England could interdict Dutch shipping to Atlantic
+• North Sea: shared, contestable, but England closer to Atlantic routes
+• Dutch position: vulnerable to blockade from English ports
+
+The Anglo-Dutch Wars demonstrated the pattern:
+• First War (1652–1654): inconclusive, Dutch marginally ahead
+• Second War (1665–1667): Dutch raid on Medway—tactical victory
+• Third War (1672–1674): Dutch survival, but exhaustion growing
+• Fourth War (1780–1784): decisive English victory, Dutch naval decline
+
+Each war cost the Dutch proportionally more than the English. A 3:1
+population disadvantage meant the Dutch bled faster. Commercial
+supremacy couldn't overcome demographic arithmetic indefinitely.
+
+IX.B THE 1688 INVASION (v2.1)
+────────────────────────────────────────────────────────────
+William III conquered England without fighting a major battle.
+
+The invasion force:
+• Dutch fleet: 463 ships (largest invasion armada before D-Day)
+• Invasion army: approximately 21,000 troops (mostly foreign mercenaries)
+• Cavalry: 5,000 horses
+• Artillery: substantial siege train
+• Total cost: 3.5–4 million guilders (Dutch state and Orange personal funds)
+
+James II's defensive capacity:
+• English army: approximately 40,000 troops
+• English navy: theoretically capable of interception
+• Reality: Protestant defections, naval paralysis, army dissolution
+
+The "Protestant Wind" blew William's fleet down the Channel while
+James's navy couldn't pursue. James's army melted—Protestant officers
+defected; Catholic troops couldn't hold alone. The invasion succeeded
+through force availability even when force wasn't fully deployed.
+
+The liability transfer:
+• Dutch investors: funded invasion, expected English alliance payoff
+• English taxpayers: absorbed cost of subsequent wars against France
+• James II: exile, loss of throne, dynasty extinction
+• William III: gained English throne, spent English resources against Louis XIV
+
 ────────────────────────────────────────────────────────────
 X. NAPOLEONIC ABSORPTION
 ────────────────────────────────────────────────────────────
@@ -220,6 +390,29 @@ Belgium, permanently separated from Germany.
 
 The Napoleonic interval demonstrates that commercial-maritime power
 cannot resist continental hegemony indefinitely.
+
+X.A THE FORCE RATIOS OF ABSORPTION (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't the Dutch resist Napoleon?
+
+The military arithmetic (1795):
+• French Revolutionary armies: 750,000+ men under arms
+• Dutch Republic forces: approximately 40,000 troops
+• Force ratio: nearly 20:1 French advantage
+• Dutch navy: depleted by wars with Britain
+• Strategic depth: none (flat terrain, sea-level land)
+
+The Dutch couldn't resist because there was nowhere to retreat.
+The land couldn't be defended conventionally; flooding took time
+Napoleon's forces didn't allow. The Batavian Republic accepted
+French dominance because the alternative was destruction.
+
+What happened to Dutch capital:
+• Continental System (1806–1813): blockade devastated trade
+• French taxation: extracted revenue for Napoleon's wars
+• Bank of Amsterdam: reserves depleted, institution declined
+• VOC: dissolved 1799, assets absorbed by Dutch state (then French)
+• Private capital: some fled to London, some hidden, much lost
 
 ────────────────────────────────────────────────────────────
 XI. DIVERGENCE SIGNIFICANCE
@@ -316,5 +509,5 @@ Secondary (ARC-Compliant):
 • Violet Barbour, *Capitalism in Amsterdam in the 17th Century* (1950)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–NETHERLANDS–AMSTERDAM — v2.0
+END OF FILE — MEM–GERMANIA–NETHERLANDS–AMSTERDAM — v2.1
 ────────────────────────────────────────────────────────────

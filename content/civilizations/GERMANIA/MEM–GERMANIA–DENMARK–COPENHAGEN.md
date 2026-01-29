@@ -1,9 +1,11 @@
-MEM–GERMANIA–DENMARK–COPENHAGEN — v2.0
+MEM–GERMANIA–DENMARK–COPENHAGEN — v2.1
 Civilizational Memory Codex · Subject MEM
 The Sound Toll Capital and Nordic-Germanic Hinge
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–DENMARK–COPENHAGEN v2.0
 Template: CIV–MEM–TEMPLATE v2.8
 ARC VERSION DECLARATION: CIV–ARC–GERMANIA v2.1
 Civilization: GERMANIA (Cross-Civilizational Lens: DENMARK)
@@ -11,7 +13,7 @@ Subject: Copenhagen (Urban Node; Capital–Port–Toll Station)
 Dates: 12th century–present
 Class: MEM–GEO (URBAN NODE–CAPITAL–PORT)
 Last Update: January 2026
-WORDCOUNT: ~2,800
+WORDCOUNT: ~4,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE
@@ -87,6 +89,73 @@ REVENUE MAGNITUDE:
 Sound Toll records (preserved from 1497) document over 1.8 million
 ship passages. At peak periods, toll revenue exceeded all other
 Danish crown income combined.
+
+III.A THE FORCE BEHIND THE TOLL (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't the Hanse break Danish toll authority?
+
+The answer is military geography:
+• Before 1658: Denmark controlled BOTH shores of the Sound
+• Kronborg (west): Danish fortress commanding the narrows
+• Helsingborg (east): Danish fortress on Scanian side
+• Channel width at narrows: approximately 4 kilometers
+• Effective cannon range: ships passing within range of both shores
+
+The force distribution at the chokepoint:
+• Shore batteries: fixed, protected, unlimited ammunition supply
+• Attacking fleet: mobile, exposed, limited to shipboard guns
+• Defender advantage: approximately 10:1 in effective firepower
+
+A hundred Hanseatic ships could not force the passage. The
+geometry of the narrows negated fleet superiority. Lübeck
+could outbuild Denmark in ships—but ships couldn't silence
+shore fortifications without landing troops, and landing
+troops against defended beaches multiplied the force requirement.
+
+The Hanseatic wars (1426–1435, 1501–1512, 1534–1536) demonstrated
+the pattern repeatedly: Hanseatic naval superiority couldn't
+translate into Sound control. The toll persisted because
+Denmark held both shores until Sweden seized Scania in 1658.
+Even then, the toll continued—now by diplomatic agreement
+rather than dual fortification.
+
+The structural reality: chokepoint geography converts modest
+military capacity into decisive control. Denmark taxed the
+Hanse's commerce because it couldn't be dislodged from the
+chokepoint position.
+
+III.B WHO PROFITED FROM THE TOLL (v2.1)
+────────────────────────────────────────────────────────────
+The Danish crown collected the Sound Toll. But "the crown"
+isn't a person. Who actually received this wealth?
+
+The revenue chain:
+• Toll collectors at Elsinore: salaried officials, often German
+  or German-trained (accounting expertise, multilingual capacity)
+• Administration overhead: approximately 10-15% of revenue
+• Royal treasury: bulk of proceeds
+• Military expenditure: fortification maintenance, navy, army
+• Court expenditure: king's household, noble pensions, patronage
+
+The administrators:
+Assessing cargo values required commercial expertise Denmark
+largely imported from Germany. The toll collectors needed to
+know the difference between grades of grain, timber quality,
+iron specifications. This expertise came from merchant training—
+and the best-trained merchants were Hanseatic Germans. The
+Danish toll on German commerce was partly administered by
+German expertise.
+
+Who paid:
+• Baltic producers (Danzig grain merchants, Swedish iron exporters)
+• Hanseatic shippers (absorbed toll into freight costs)
+• European consumers (toll embedded in final prices)
+• Danish taxpayers (paid nothing—toll replaced taxation)
+
+The Danish peasant paid no Sound Toll taxes. The toll was
+extracted from foreigners. For four centuries, Denmark funded
+its state apparatus from commerce that passed through without
+stopping. The extraction fell entirely on non-Danes.
 
 ────────────────────────────────────────────────────────────
 IV. KALMAR UNION CAPITAL
@@ -173,6 +242,56 @@ naval assets.
 > — Christopher Clark, *Iron Kingdom* (2006), p. 312
 > [ERC: SECONDARY]
 
+VI.A THE FORCE RATIOS OF 1807 (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't Copenhagen defend itself?
+
+The naval arithmetic:
+• British bombardment fleet: 25 ships of the line, plus frigates
+  and bomb vessels
+• Danish navy: approximately 18 ships of the line (in harbor)
+• British troop landing: 30,000 soldiers
+• Danish defenders: garrison force, approximately 13,000
+
+Copenhagen's problem was geography. The city sits on the water,
+accessible to naval bombardment. Shore batteries could contest
+approach, but the British brought overwhelming force. More
+critically, British rocket bombardment (Congreve rockets) set
+the city ablaze without requiring close approach.
+
+The three-day bombardment (September 2–5, 1807):
+• Rockets and shells: approximately 14,000 fired into the city
+• Buildings destroyed: over 300
+• Civilians killed: approximately 2,000
+• Result: Danish surrender, fleet captured (15 ships of the line)
+
+British commanders faced no consequences. Admiral Gambier received
+a barony; General Cathcart became Viscount Cathcart. The message:
+great powers suffer no liability for burning neutral capitals
+when strategic necessity dictates.
+
+VI.B THE LIABILITY OF 1807 (v2.1)
+────────────────────────────────────────────────────────────
+Who paid for Copenhagen's destruction?
+
+The liability distribution:
+• British treasury: expedition costs (recovered in prize money
+  from captured fleet)
+• British commanders: rewarded with titles
+• Danish crown: lost fleet, lost neutral trading revenue
+• Copenhagen residents: lost homes, lost businesses, lost lives
+• Insurance: inadequate or nonexistent for war damage
+
+Compensation: none. The British offered no reparations. The
+destroyed homes remained destroyed. The dead remained dead.
+The liability fell entirely on the victims.
+
+The Danish king's calculation: continued Napoleonic alliance
+after 1807 was partly revenge for British attack. Copenhagen
+burned in 1807; Denmark lost Norway in 1814. The personal
+humiliation of King Frederick VI—watching his capital burn—
+shaped national policy for seven years.
+
 LOSS OF NORWAY (1814):
 Denmark's Napoleonic alliance cost it Norway, transferred to
 Sweden. Copenhagen ceased to rule the northern periphery;
@@ -212,6 +331,59 @@ duchies. Copenhagen lost territory its kings had held for centuries.
 > — T.K. Derry, *A History of Scandinavia* (1979), p. 267
 > [ERC: SECONDARY]
 
+VII.A THE FORCE RATIOS OF 1864 (v2.1)
+────────────────────────────────────────────────────────────
+Why was the defeat so complete?
+
+The military arithmetic:
+• Danish army: approximately 38,000 troops
+• Prussian-Austrian combined force: approximately 61,000 troops
+• Force ratio: nearly 2:1 against Denmark
+
+But the numbers understate Prussian advantage:
+• Prussian artillery: Krupp breech-loading steel cannon
+• Danish artillery: muzzle-loading bronze cannon
+• Rate of fire differential: approximately 3:1 Prussian advantage
+• Effective range: Prussian guns outranged Danish by 50%
+
+The Battle of Dybbøl (April 18, 1864):
+• Prussian bombardment: 8,000 shells over six hours
+• Danish casualties: 1,700 killed and wounded
+• Prussian casualties: 1,200 killed and wounded
+• Result: Danish fortifications overrun, army routed
+
+This was industrial warfare against pre-industrial defense.
+Denmark fought as if it were 1814; Prussia fought as if it
+were 1914. The technology gap was decisive.
+
+VII.B THE PROPERTY LIABILITY OF 1864 (v2.1)
+────────────────────────────────────────────────────────────
+Territory means property. Who lost, who gained?
+
+The transfer:
+• Schleswig: mixed Danish-German population, 400,000+ residents
+• Holstein: German population, 500,000+ residents
+• Lauenburg: German, smaller population
+• Total: approximately 1 million people changed sovereignty
+
+Property consequences:
+• Danish-speaking landowners in Schleswig: remained, became
+  Prussian subjects, faced pressure to sell
+• German-speaking residents: gained—now part of rising power
+• Danish crown lands: transferred to Prussian administration
+• Church properties: reorganized under Prussian state church
+
+The personal consequence for Danes who stayed in Schleswig
+was Germanization pressure. The schools taught German. The
+administration spoke German. Within a generation, Danish
+identity survived only in northern Schleswig—which voted
+to rejoin Denmark in 1920 after German defeat.
+
+The plebiscite of 1920 demonstrated what the war had obscured:
+language communities don't disappear under foreign rule. They
+wait. Fifty-six years after annexation, northern Schleswig
+voted 75% for Denmark.
+
 POST-1864 REORIENTATION:
 Defeat accelerated Copenhagen's cultural de-Germanization. The
 Danish language replaced German in official contexts; Danish
@@ -246,6 +418,28 @@ Resistance grew from 1943; Copenhagen became center of
 sabotage and underground press activity. The October 1943
 rescue of Danish Jews—7,000+ evacuated to Sweden—represented
 Copenhagen's most celebrated wartime act.
+
+VIII.A THE FORCE RATIOS OF 1940 (v2.1)
+────────────────────────────────────────────────────────────
+Why did Denmark surrender in hours?
+
+The strategic calculation:
+• German invasion force: elements of two divisions, plus
+  airborne troops and naval support
+• Danish army: approximately 15,000 troops, partially mobilized
+• Geographic depth: Copenhagen 300 km from German border
+• Time to reach capital: German mechanized forces, hours
+
+Denmark had no defensive depth. The Jutland peninsula offered
+no natural barriers. German tanks could reach Copenhagen before
+Danish mobilization completed. The king and government calculated
+correctly: resistance meant destruction for no strategic gain.
+Norway fought for two months and lost. Denmark surrendered in
+six hours and survived intact.
+
+The force-ratio reality: small states adjacent to great powers
+cannot defend themselves. The choice is accommodation or
+destruction, not resistance and survival.
 
 ────────────────────────────────────────────────────────────
 IX. DOCTRINAL IMPLICATIONS
@@ -396,5 +590,5 @@ SECONDARY SOURCES (ARC–DISCOVERY):
   of Denmark and Norway, April 1940–May 1945*. New York: Morrow, 1974.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–DENMARK–COPENHAGEN v2.0
+END OF FILE — MEM–GERMANIA–DENMARK–COPENHAGEN v2.1
 ────────────────────────────────────────────────────────────

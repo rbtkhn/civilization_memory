@@ -1,8 +1,10 @@
-MEM–GERMANIA–NETHERLANDS–ROTTERDAM — v2.0
+MEM–GERMANIA–NETHERLANDS–ROTTERDAM — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Upgrade: MEARSHEIMER/BARNES AUDIT INTEGRATION
+Supersedes: MEM–GERMANIA–NETHERLANDS–ROTTERDAM v2.0
 Civilization: GERMANIA
 Subject: Rotterdam — Rhine Gateway and Germanic Commercial Extension
 Subject Type Declaration: WELL-DOCUMENTED (Urban Node / Exit Civilization Port)
@@ -11,7 +13,7 @@ Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 Cognitive Layer: CIV–MIND–MERCOURIS v2.5 (Primary) · CIV–MIND–MEARSHEIMER v2.4 (Strategic)
 Last Update: January 2026
-Word Count: ~2,400
+Word Count: ~3,800
 
 ────────────────────────────────────────────────────────────
 COGNITIVE LAYER DECLARATION
@@ -118,6 +120,63 @@ By 1900, Rotterdam handled more tonnage than any other continental
 European port. The German industrial miracle flowed through Dutch
 territory; Dutch neutrality protected the flow.
 
+V.A THE NIEUWE WATERWEG LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+Who financed the channel, who captured the returns?
+
+The construction (1866–1872):
+• Project: 30 km deep-water channel from Rotterdam to North Sea
+• Engineering: Dutch state project, Pieter Caland chief engineer
+• Financing: Dutch government bonds, partial private investment
+• Labor: Dutch workers, extensive dredging operations
+• Cost: approximately 18 million guilders
+
+The beneficiary chain:
+• Rotterdam port authority: massive capacity increase
+• Dutch shipping companies: larger vessels, faster turnaround
+• German Ruhr industrialists: cheaper coal and steel exports
+• Rhine barge operators: direct sea-river connection
+• Bondholders: interest payments from port revenues
+
+The liability absorption:
+• Dutch taxpayers: bore construction risk, guaranteed bonds
+• Fishing communities: displaced by channel construction
+• Agricultural land: reclaimed for port expansion
+• Competing ports (Amsterdam, Antwerp): lost relative position
+
+The returns flowed to capital; the costs fell on labor and land.
+The Nieuwe Waterweg made Rotterdam Europe's premier port—but the
+port's profits concentrated in shipping companies, trading houses,
+and eventually international investors.
+
+V.B PORT REVENUE DISTRIBUTION (v2.1)
+────────────────────────────────────────────────────────────
+Rotterdam's revenues: who captures them?
+
+The revenue streams:
+• Dockage fees: charged per vessel, per tonnage
+• Pilotage: mandatory for large vessels entering port
+• Stevedoring: loading/unloading charges
+• Warehousing: storage fees for goods in transit
+• Land rental: port authority leases to operators
+
+Historical ownership:
+• 19th century: urban oligarchy, merchant families
+• Early 20th century: consolidation into larger firms
+• Post-war: municipal port authority, corporatized operations
+• Contemporary: Rotterdam Port Authority (partly privatized)
+
+Modern ownership structure:
+• Municipality of Rotterdam: 70% stake in port authority
+• Dutch state: 30% stake
+• Operating companies: multinational corporations, private equity
+• Labor: declining share (automation reduces workforce)
+
+The "Dutch" port increasingly generates returns for international
+capital. The geographic asset remains fixed; the ownership is mobile.
+Rotterdam's position at the Rhine mouth doesn't change; who profits
+from that position changes constantly.
+
 ────────────────────────────────────────────────────────────
 VI. 1940: BOMBING AND STRATEGIC VULNERABILITY
 ────────────────────────────────────────────────────────────
@@ -138,6 +197,69 @@ A Dutch official reflected:
 The bombing killed approximately 800–900 people and destroyed
 24,000 homes. Rotterdam's reconstruction would take decades.
 
+VI.A THE FORCE RATIOS OF MAY 1940 (v2.1)
+────────────────────────────────────────────────────────────
+Why couldn't the Dutch defend Rotterdam?
+
+The invasion force distribution:
+• German forces (Western Front total): approximately 3 million troops
+• Forces assigned to Netherlands: approximately 750,000
+• Dutch armed forces: approximately 280,000 (many reservists)
+• Force ratio: nearly 3:1 against the Netherlands alone
+
+The technological gap:
+• German armor: hundreds of tanks
+• Dutch armor: effectively none (armored cars only)
+• German air force: complete superiority (thousands of aircraft)
+• Dutch air force: 125 operational aircraft (mostly destroyed Day One)
+
+The strategic problem:
+• No defensive depth: flat terrain, no mountain barriers
+• Rhine bridges: critical for German advance, lightly defended
+• Airborne assault: German paratroopers seized key bridges
+• Rotterdam: accessible by air, river, and land simultaneously
+
+The Dutch held for five days—longer than some expected. But the
+force ratios made extended resistance impossible. The Rotterdam
+ultimatum offered surrender or destruction; Dutch delay triggered
+the bombing that destroyed the city center.
+
+VI.B THE BOMBING LIABILITY (v2.1)
+────────────────────────────────────────────────────────────
+Who bore the cost of Rotterdam's destruction?
+
+Immediate casualties:
+• Dead: 800–900 civilians
+• Wounded: several thousand
+• Homeless: 78,000 (24,000 homes destroyed)
+• Displaced: entire city center population
+
+Property destruction:
+• City center: nearly total destruction (2.6 square km)
+• Historic buildings: medieval core obliterated
+• Commercial infrastructure: warehouses, offices, shops—gone
+• Churches: multiple historic churches destroyed
+
+The liability distribution:
+• German Luftwaffe: delivered the bombs (no consequences for commanders)
+• German high command: ordered the ultimatum (no post-war prosecution
+  specifically for Rotterdam)
+• Dutch defenders: surrendered after bombing (rational response)
+• Insurance companies: overwhelmed, inadequate coverage
+• Property owners: bore losses with minimal compensation
+
+Post-war accounting:
+• German reparations: promised, partially delivered
+• Dutch reconstruction funding: Marshall Plan assistance, domestic bonds
+• Individual compensation: uneven—resources determined recovery
+
+The commanders who ordered the bombing faced no consequences.
+General Rudolf Schmidt and the Luftwaffe officers involved were
+never prosecuted specifically for Rotterdam. The bombing was
+considered legally within the laws of war as then understood—
+an ultimatum had been delivered; the Dutch hadn't surrendered
+in time.
+
 ────────────────────────────────────────────────────────────
 VII. POST-WAR RECONSTRUCTION AND EUROPOORT
 ────────────────────────────────────────────────────────────
@@ -153,6 +275,34 @@ By the late 20th century, Rotterdam handled 400+ million tons
 annually—more than any port in the world outside Asia. The city
 that was bombed in 1940 became the infrastructure of European
 economic integration.
+
+VII.A RECONSTRUCTION FINANCING (v2.1)
+────────────────────────────────────────────────────────────
+Who paid for Rotterdam's rebuilding?
+
+The funding sources:
+• Marshall Plan: substantial American aid (1948–1952)
+• Dutch government: reconstruction bonds, direct investment
+• Municipal financing: local bonds, tax revenues
+• Private capital: businesses rebuilding their own facilities
+• German reparations: partial payments, contested amounts
+
+The distribution of benefit:
+• Construction firms: contracts for rebuilding
+• Architects and planners: Rotterdam became modernist showcase
+• New property owners: those with capital bought into rebuilt city
+• Industrial firms: modern facilities replaced pre-war infrastructure
+
+Who lost in reconstruction:
+• Pre-war property owners (without resources): couldn't participate
+• Historic preservation: medieval city permanently gone
+• Small businesses: many never reopened
+• Renters: displacement, temporary housing lasted years
+
+The Rotterdam of 1960 was not owned by the same people who owned
+the Rotterdam of 1939. Destruction reshuffled property ownership.
+Those with capital in 1945 acquired property; those without capital
+remained renters or left.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTEMPORARY FUNCTION
@@ -263,5 +413,5 @@ Secondary (ARC-Compliant):
 • Hans Mol, *The Rhine: An Eco-Biography*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–NETHERLANDS–ROTTERDAM v2.0
+END OF FILE — MEM–GERMANIA–NETHERLANDS–ROTTERDAM v2.1
 ────────────────────────────────────────────────────────────

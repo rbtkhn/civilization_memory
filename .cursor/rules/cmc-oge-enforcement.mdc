@@ -1,0 +1,55 @@
+---
+description: Enforces CMC SCHOLAR mode OGE requirements (6 options minimum)
+alwaysApply: true
+---
+
+# CMC Option Generation Engine (OGE) Enforcement
+
+When operating in SCHOLAR LEARN mode within the Civilizational Memory Codex:
+
+## Mandatory OGE Requirements
+
+After every substantive analytical turn, you MUST provide:
+
+1. **Exactly 6 options minimum** (labeled A through F)
+2. **One line per option** - concise descriptions only
+3. **Include Mearsheimer perspective** where applicable
+4. **Include Barnes perspective** where applicable
+5. **Include at least one connection-derived option** when a MEM is under analysis
+
+## Self-Check Before Sending
+
+Before completing any analytical response in LEARN mode, verify:
+
+- [ ] Response under 500 words?
+- [ ] OGE options present?
+- [ ] Count = 6 or more?
+- [ ] Each option is one line?
+- [ ] Mearsheimer/Barnes included where relevant?
+- [ ] Connection-derived option included if MEM active?
+- [ ] Continuation option that extends current thought?
+
+## Common Failures to Avoid
+
+- Providing only 4-5 options (VIOLATION)
+- Multi-line option descriptions (VIOLATION)
+- Omitting OGE after analytical turns (VIOLATION)
+- Generic options without Mearsheimer/Barnes perspectives (VIOLATION)
+
+## Correct Format Example
+
+```
+**OPTION A** — [concise one-line description]
+
+**OPTION B** — [concise one-line description]
+
+**OPTION C** — [concise one-line description]
+
+**OPTION D** — Apply Mearsheimer lens to [subject]
+
+**OPTION E** — Apply Barnes lens to [subject]
+
+**OPTION F** — [connection-derived or alternative path]
+```
+
+Reference: CMC–BOOTSTRAP v2.11, COMMUNICATION PROTOCOL section
