@@ -2,8 +2,8 @@ MEM–GERMANIA–AUSTRIA — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.1
-Supersedes: MEM–GERMANIA–AUSTRIA v2.0
+Version: 2.2
+Supersedes: MEM–GERMANIA–AUSTRIA v2.1
 Upgrade Type: SIEMANN INTEGRATION
 Civilization: GERMANIA
 Subject: Austria (Imperial Core, Administrative Spine, and Dynastic Anchor)
@@ -161,7 +161,92 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. SOURCES
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+GERMANIA (Same-Civilization):
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Ruling dynasty—Habsburgs = Austria. Dynasty and territory
+  are inseparable; Habsburg identity is Austrian identity.
+  Breaks if removed: Austria floats without governing agent; why Vienna
+  was imperial capital has no answer.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Austria as imperial core. Habsburgs held imperial title
+  1438–1806 almost continuously from Austrian base.
+  Breaks if removed: Austria's imperial function disappears; relationship
+  to broader Germania unintelligible.
+
+• MEM–GERMANIA–HUNGARY
+  Dependency: Danubian partner—Austria-Hungary as dual monarchy. Hungarian
+  relationship defines Austria's eastern orientation.
+  Breaks if removed: 1867 Ausgleich unexplained; Danubian plurality
+  governance has no partner.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Rival model—Prussia develops centralized discipline;
+  Austria develops plural administration. Austro-Prussian dualism
+  defines late Empire and 1866 exclusion.
+  Breaks if removed: Why Austria lost Germany unintelligible; alternative
+  model comparison disappears.
+
+• MEM–GERMANIA–AUSTRIA–METTERNICH
+  Dependency: Chief administrator—Metternich embodies Austrian governance
+  method. Congress System = Austrian order projection.
+  Breaks if removed: 1815–1848 governance unexplained; how Austria managed
+  European equilibrium has no agent.
+
+• MEM–GERMANIA–AUSTRIA–VIENNA
+  Dependency: Imperial capital—Vienna is Austria's operating system.
+  Administrative gravity radiates from Vienna.
+  Breaks if removed: Austria becomes abstract; geographic anchor of
+  Habsburg power disappears.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Excluder—Bismarck's kleindeutsch solution excludes Austria.
+  1866 war and 1871 empire define Austria's relationship to unified Germany.
+  Breaks if removed: Why Austria was excluded from German unification
+  has no agent.
+
+• MEM–GERMANIA–WAR–AUSTRIAN–SUCCESSION
+  Dependency: Survival crisis—Maria Theresa's defense establishes Austrian
+  resilience pattern.
+  Breaks if removed: Austrian defensive endurance has no demonstration.
+
+• MEM–GERMANIA–BOHEMIA
+  Dependency: Crown land—Bohemia under Austrian administration. Habsburg
+  multi-ethnic governance demonstrated through Bohemian relationship.
+  Breaks if removed: Austrian plurality management has no case study.
+
+• MEM–GERMANIA–SLAVS
+  Dependency: Administered populations—Austrian governance of Slavic
+  peoples defines imperial character.
+  Breaks if removed: Multi-ethnic dimension of Austria disappears.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Austrian corridor—Danube defines Austrian strategic axis.
+  Vienna sits on Danube; power flows along river.
+  Breaks if removed: Austria floats without geographic logic; why Vienna
+  rather than elsewhere was capital unintelligible.
+
+• MEM–GERMANIA–GEO–ALPS
+  Dependency: Defensive barrier—Alps provide Austrian core defensibility.
+  Alpine terrain anchors Austrian persistence.
+  Breaks if removed: Austrian defensibility unexplained; geographic
+  advantage over invaders disappears.
+
+Cross-Civilizational:
+
+• MEM–ISLAM–OTTOMAN
+  Dependency: Eastern adversary—Ottoman sieges of Vienna define Austrian
+  role as Christendom's bulwark.
+  Breaks if removed: Austrian military purpose disappears; 1529/1683
+  sieges lose defender.
+
+────────────────────────────────────────────────────────────
+XI. SOURCES
 ────────────────────────────────────────────────────────────
 Primary Sources:
 • Habsburg administrative records
@@ -172,6 +257,7 @@ Secondary Sources (ARC-Compliant):
 • **Martyn Rady**, *The Habsburgs: The Rise and Fall of a World Power* (2020)
 • **Peter Wilson**, *Heart of Europe*
 • **Pieter Judson**, *The Habsburg Empire*
+• **Wolfram Siemann**, *Metternich: Strategist and Visionary* (2016/2019)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–AUSTRIA — v2.1
+END OF FILE — MEM–GERMANIA–AUSTRIA — v2.2

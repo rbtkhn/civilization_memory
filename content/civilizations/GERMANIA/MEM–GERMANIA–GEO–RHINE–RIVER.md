@@ -3,8 +3,8 @@ Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–GEO–RHINE–RIVER v1.2
+Version: 2.1
+Supersedes: MEM–GERMANIA–GEO–RHINE–RIVER v2.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (GEO–MEM RESTRUCTURE)
 Civilization: GERMANIA
 Subject: Rhine River System
@@ -245,19 +245,70 @@ Loss of Rhine integrity equals civilizational fracture.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization GEO):
-• MEM–GERMANIA–GEO–ELBE–RIVER (contrast: internal hinge)
-• MEM–GERMANIA–GEO–ODER–RIVER (contrast: pressure boundary)
-• MEM–GERMANIA–GEO–DANUBE (contrast: eastern corridor)
-• MEM–GERMANIA–GEO–ALPS (connection: southern barrier)
+
+• MEM–GERMANIA–GEO–ELBE–RIVER
+  Dependency: Contrast case—internal hinge versus integration spine.
+  Elbe extends; Rhine consolidates.
+  Breaks if removed: Rhine appears as only German river system; contrast
+  between consolidation and extension axes disappears.
+
+• MEM–GERMANIA–GEO–ODER–RIVER
+  Dependency: Contrast case—pressure boundary versus internal axis.
+  Oder marks Slavic frontier; Rhine marks Frankish core.
+  Breaks if removed: Rhine's function as internal rather than frontier
+  geography loses comparative referent.
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Contrast case—eastern corridor versus western spine.
+  Danube connects to Habsburg space; Rhine to Low Countries/Atlantic.
+  Breaks if removed: Dual orientation of Germania (west/southeast)
+  collapses into single axis; Habsburg-Prussian geographic divergence
+  unintelligible.
+
+• MEM–GERMANIA–GEO–ALPS
+  Dependency: Southern barrier defining Rhine's sourcing and Italy transit.
+  Breaks if removed: Rhine's origin geography disappears; north-south
+  barrier that forces east-west integration loses anchor.
 
 GERMANIA (Subject MEMs):
+
 • MEM–GERMANIA–CHARLEMAGNE
+  Dependency: Rhine as Carolingian administrative axis. Charlemagne's
+  governance flowed along Rhine infrastructure.
+  Breaks if removed: Early medieval Rhine function appears post-Roman
+  without Carolingian reactivation; Aachen-Cologne axis loses logic.
+
 • MEM–GERMANIA–BISMARCK
+  Dependency: Rhine industrial backbone enables Bismarckian unification.
+  Ruhr concentration creates replacement capacity for rapid wars.
+  Breaks if removed: 1866/1870 mobilization speed unexplained; industrial
+  basis of Prussian military superiority disappears.
+
 • MEM–GERMANIA–PRUSSIA
+  Dependency: Contrast case—Prussia emerges from Elbe, conquers toward
+  Rhine. Unification = Elbe power absorbing Rhine industry.
+  Breaks if removed: Prussian-Rhineland integration appears natural rather
+  than conquest; tension between Protestant east and Catholic west obscured.
+
+• MEM–GERMANIA–ALSACE–LORRAINE
+  Dependency: Rhine as Franco-German friction zone. Alsace-Lorraine
+  annexation follows Rhine strategic logic.
+  Breaks if removed: 1871 annexation appears as territorial greed rather
+  than geographic-strategic logic; French revanchism loses anchor.
 
 Cross-Civilizational:
-• MEM–FRANCIA–GEO–RHINE (competing corridor logic)
-• MEM–FRANCIA–ALSACE–LORRAINE (boundary friction)
+
+• MEM–FRANCIA–GEO–RHINE
+  Dependency: Competing corridor logic—Francia claims Rhine as natural
+  frontier; Germania claims Rhine as internal spine.
+  Breaks if removed: Franco-German rivalry appears ideological rather than
+  geographic; competing river claims disappear.
+
+• MEM–FRANCIA–ALSACE–LORRAINE
+  Dependency: Boundary friction zone where Rhine logic collides. French
+  "natural frontiers" doctrine versus German "cultural" claims.
+  Breaks if removed: 1871–1918–1940–1945 oscillation unexplained; why this
+  territory specifically contested has no answer.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

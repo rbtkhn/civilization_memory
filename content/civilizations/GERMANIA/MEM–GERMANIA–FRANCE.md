@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–FRANCE v2.0
 Civilization: GERMANIA
 Subject: France (Germanic Relations and Rivalry)
 Dates: 843 AD–present
@@ -359,64 +360,92 @@ XIII. MEM CONNECTIONS
 SAME-CIVILIZATION CONNECTIONS (GERMANIA):
 
 • MEM–GERMANIA–BISMARCK
-  Dependency: Architect of French defeat and isolation
-  Breaks if removed: Unification strategy unexplained
+  Dependency: Architect of French defeat and isolation. Bismarck
+  engineered 1870 war, imposed terms, built alliance system to isolate France.
+  Breaks if removed: Unification strategy unexplained; why France was
+  target of diplomatic isolation has no agent.
 
 • MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
-  Dependency: War creating unified Germany
-  Breaks if removed: Critical conflict missing
+  Dependency: War creating unified Germany at France's expense. Sedan,
+  siege of Paris, Versailles proclamation.
+  Breaks if removed: 1871 unification has no precipitating event;
+  Alsace-Lorraine annexation loses context.
 
 • MEM–GERMANIA–CHARLEMAGNE
-  Dependency: Common Carolingian origin
-  Breaks if removed: Partition context absent
+  Dependency: Common Carolingian origin. Verdun (843) = divorce of
+  France and Germany from same empire.
+  Breaks if removed: Why France and Germany share origin but diverged
+  unintelligible; Middle Kingdom contest loses precedent.
 
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE
-  Dependency: Institution France helped destroy
-  Breaks if removed: Napoleonic transformation missing
+  Dependency: Institution France helped destroy. Napoleonic dissolution
+  (1806) ended what French expansion weakened.
+  Breaks if removed: Empire dissolution appears internal; French agency
+  in German fragmentation disappears.
 
 • MEM–GERMANIA–PRUSSIA
-  Dependency: State leading anti-French wars
-  Breaks if removed: Prussian role unexplained
+  Dependency: State leading anti-French wars. Wars of Liberation, 1870,
+  1914, 1940 all led from Prussian base.
+  Breaks if removed: German anti-French capacity appears stateless;
+  military instrument has no institutional anchor.
 
-• MEM–GERMANIA–HABSBURG
-  Dependency: Dynasty in Habsburg-Valois rivalry
-  Breaks if removed: Early modern competition missing
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Dynasty in Habsburg-Valois rivalry. Charles V encirclement;
+  Italian Wars; sixteenth-century systematic warfare.
+  Breaks if removed: Early modern Franco-German competition has no
+  German agent; Habsburg-Valois rivalry disappears.
 
 • MEM–GERMANIA–HITLER
-  Dependency: WWII occupation of France
-  Breaks if removed: 20th century incomplete
+  Dependency: WWII occupation of France. 1940 conquest; Vichy; armistice
+  carriage symbolism.
+  Breaks if removed: 20th-century rivalry peak missing; 1940 revenge for
+  1918 undocumented.
 
 • MEM–GERMANIA–WILHELM–II
-  Dependency: WWI German leadership
-  Breaks if removed: Great War context absent
+  Dependency: WWI German leadership. Decision for war; Schlieffen Plan
+  execution; eventual defeat.
+  Breaks if removed: Great War German side has no decision-maker;
+  1914–1918 appears leaderless.
 
-• MEM–GERMANIA–ADENAUER
-  Dependency: Architect of reconciliation
-  Breaks if removed: Post-war transformation unexplained
+• MEM–GERMANIA–LOTHARINGIA
+  Dependency: Middle Kingdom—the territory France and Germany contested
+  for millennium.
+  Breaks if removed: Geographic object of rivalry disappears; what they
+  fought over unintelligible.
 
 GEO–MEM CONNECTIONS:
 
-• MEM–GERMANIA–GEO–RHINE
-  Dependency: River as Franco-German boundary
-  Breaks if removed: Geographic dimension missing
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: River as Franco-German boundary and contest zone. Rhine
+  frontier doctrine vs. German cultural claims.
+  Breaks if removed: Geographic dimension missing; "Die Wacht am Rhein"
+  loses river referent.
 
 • MEM–GERMANIA–ALSACE–LORRAINE
-  Dependency: Contested territory
-  Breaks if removed: Territorial focus absent
+  Dependency: Contested territory exemplifying rivalry. 1871 annexation;
+  1918 return; 1940 re-annexation; 1945 final return.
+  Breaks if removed: Territorial oscillation undocumented; revanche loses
+  geographic focus.
 
 CROSS-CIVILIZATION CONNECTIONS:
 
 • MEM–FRANCIA–LOUIS–XIV
-  Dependency: French expansion into Germany
-  Breaks if removed: 17th century aggression undocumented
+  Dependency: French expansion into Germany. Reunions policy; Palatinate
+  devastation; Strasbourg seizure.
+  Breaks if removed: 17th-century French aggression undocumented; why
+  Germans remember France as destroyer unexplained.
 
 • MEM–FRANCIA–NAPOLEON
-  Dependency: Revolutionary transformation
-  Breaks if removed: Empire dissolution unexplained
+  Dependency: Revolutionary transformation of German space. Empire
+  dissolution; Confederation of Rhine; Prussian catastrophe and reform.
+  Breaks if removed: 1806 dissolution has no agent; why German nationalism
+  emerged against France unintelligible.
 
 • MEM–FRANCIA–DE–GAULLE
-  Dependency: Reconciliation partner
-  Breaks if removed: Post-war transformation incomplete
+  Dependency: Reconciliation partner. Élysée Treaty co-signer; French
+  side of post-war transformation.
+  Breaks if removed: Reconciliation appears one-sided German initiative;
+  French agency in transformation disappears.
 
 ────────────────────────────────────────────────────────────
 XIV. ARC COMPLIANCE DECLARATION

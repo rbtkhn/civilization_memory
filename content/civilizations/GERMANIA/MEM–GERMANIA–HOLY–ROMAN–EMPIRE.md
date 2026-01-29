@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.1
-Supersedes: MEM–GERMANIA–HOLY–ROMAN–EMPIRE v2.0
+Version: 2.2
+Supersedes: MEM–GERMANIA–HOLY–ROMAN–EMPIRE v2.1
 Upgrade Type: GOETHE CITATION INTEGRATION (ADDITIVE)
 Civilization: GERMANIA
 Subject: Holy Roman Empire (Sacrum Imperium Romanum)
@@ -273,21 +273,99 @@ centralization inherits this tension.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–CHARLEMAGNE (founding figure)
-• MEM–GERMANIA–DYNASTY–HAPSBURG (final dynasty)
-• MEM–GERMANIA–DYNASTY–HOHENZOLLERN (rival dynasty)
-• MEM–GERMANIA–LUTHER (confessional rupture)
-• MEM–GERMANIA–WAR–THIRTY–YEARS (existential crisis)
-• MEM–GERMANIA–AUSTRIA–METTERNICH (post-imperial order)
-• MEM–GERMANIA–BISMARCK (nation-state replacement)
-• MEM–GERMANIA–PRUSSIA (alternative model)
-• MEM–GERMANIA–SCI–LEIBNIZ (philosophical mirror)
+
+• MEM–GERMANIA–CHARLEMAGNE
+  Dependency: Founding figure—800 AD coronation establishes imperial template.
+  Breaks if removed: Empire appears without origin; translatio imperii
+  loses anchor; why Germans claimed Roman succession unintelligible.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Final dynasty—Habsburgs held title 1438–1806 almost continuously.
+  Breaks if removed: Last 368 years of Empire governance disappear; imperial
+  hollowing under Habsburg permanence unintelligible.
+
+• MEM–GERMANIA–DYNASTY–HOHENZOLLERN
+  Dependency: Rival dynasty—Brandenburg-Prussia alternative to Habsburg
+  model. Austro-Prussian dualism defines late Empire.
+  Breaks if removed: Empire appears unified rather than contested; 1866
+  exclusion of Austria loses precedent.
+
+• MEM–GERMANIA–LUTHER
+  Dependency: Confessional rupture—Reformation shatters sacral unity;
+  cuius regio territorializes religion within imperial framework.
+  Breaks if removed: Confessional fragmentation appears random; Peace of
+  Augsburg/Westphalia lose theological context.
+
+• MEM–GERMANIA–WAR–THIRTY–YEARS
+  Dependency: Existential crisis—1618-1648 devastation nearly destroys
+  Empire; Westphalia reforms rather than dissolves.
+  Breaks if removed: Empire's survival appears automatic; why it nearly
+  collapsed has no demonstration.
+
+• MEM–GERMANIA–AUSTRIA–METTERNICH
+  Dependency: Post-imperial order—Metternich governs German space after
+  Empire's dissolution; Congress System inherits imperial coordination logic.
+  Breaks if removed: 1806-1871 interregnum unintelligible; German
+  Confederation appears without Habsburg memory.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Nation-state replacement—Bismarck creates kleindeutsch
+  solution excluding Austria. 1871 replaces what Napoleon dissolved.
+  Breaks if removed: Why unification excluded Austria unintelligible;
+  Empire's successor form appears arbitrary.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Alternative model—Prussia develops centralized discipline
+  against imperial fragmentation. What Empire couldn't do, Prussia did.
+  Breaks if removed: Prussian distinctiveness unintelligible; why Prussia
+  absorbed Germany rather than vice versa has no answer.
+
+• MEM–GERMANIA–SCI–LEIBNIZ
+  Dependency: Philosophical mirror—Leibniz's monadology reflects imperial
+  plurality-in-unity logic.
+  Breaks if removed: Empire appears purely political; cultural-intellectual
+  expression of fragmented governance disappears.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Imperial spine—Rhine carried imperial authority from Cologne
+  to Mainz to Strasbourg. Electors clustered along Rhine.
+  Breaks if removed: Empire's geographic logic disappears; elector
+  distribution appears random.
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Habsburg corridor—Danubian axis defined Habsburg power base
+  within Empire; Vienna's location on Danube = imperial permanence.
+  Breaks if removed: Habsburg geographic power unintelligible; why Vienna
+  rather than Berlin was imperial capital has no answer.
 
 Cross-Civilizational:
-• MEM–FRANCIA–NAPOLEON (destroyer)
-• MEM–FRANCIA–LOUIS–XIV (external pressure)
-• MEM–ROME–LEGACY (claimed inheritance)
-• MEM–ISLAM–OTTOMAN (eastern pressure)
+
+• MEM–FRANCIA–NAPOLEON
+  Dependency: Destroyer—Napoleon dissolved Empire in 1806. External force
+  ended millennial experiment.
+  Breaks if removed: Dissolution appears as internal collapse rather than
+  external destruction; 1806 loses agent.
+
+• MEM–FRANCIA–LOUIS–XIV
+  Dependency: External pressure—Louis XIV's expansion tested imperial
+  cohesion; Rhine corridor conflicts (Palatinate devastation).
+  Breaks if removed: Empire's defensive function disappears; why
+  fragmentation didn't invite conquest unintelligible.
+
+• MEM–ROME–LEGACY
+  Dependency: Claimed inheritance—"Roman" in title claims Constantinian
+  succession; sacral monarchy derives from Roman template.
+  Breaks if removed: "Holy Roman Empire" title becomes meaningless;
+  legitimacy claims lose classical anchor.
+
+• MEM–ISLAM–OTTOMAN
+  Dependency: Eastern pressure—Ottoman sieges of Vienna (1529, 1683)
+  tested imperial defensive capacity; Habsburg imperial role = Christendom
+  defense.
+  Breaks if removed: Empire's eastern function disappears; why Habsburgs
+  rather than Hohenzollerns held imperial title unintelligible.
 
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)

@@ -3,8 +3,8 @@ Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–GEO–ALPS v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–GEO–ALPS v2.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (GEO–MEM RESTRUCTURE)
 Civilization: GERMANIA
 Subject: Alpine System (Southern Barrier & Compression Zone)
@@ -265,19 +265,75 @@ The Alps teach Germania where to stop.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization GEO):
-• MEM–GERMANIA–GEO–RHINE–RIVER (connection: northwestern anchor)
-• MEM–GERMANIA–GEO–DANUBE (connection: eastern corridor)
-• MEM–GERMANIA–GEO–CARPATHIANS (parallel: mountain arc)
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Northwestern anchor—Rhine sources in Alps. Alpine barrier
+  protects Rhine corridor from Mediterranean volatility.
+  Breaks if removed: Rhine appears without southern origin; Alpine-Rhine
+  geographic system collapses.
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: Eastern corridor—Danube sourced in Alps. Alpine barrier
+  separates Danubian Germania from Italian space.
+  Breaks if removed: Austria-Italy relationship unintelligible; why Vienna
+  faces east rather than south disappears.
+
+• MEM–GERMANIA–GEO–CARPATHIANS
+  Dependency: Parallel mountain arc—Carpathians and Alps together define
+  Central European basin. Habsburg territory = between the arcs.
+  Breaks if removed: Central European geographic enclosure incomplete;
+  only one arc of the basin exists.
 
 GERMANIA (Subject MEMs):
+
 • MEM–GERMANIA–AUSTRIA
+  Dependency: Alpine core power—Austria's defensibility depends on Alps.
+  Habsburg redoubt logic requires mountain barrier.
+  Breaks if removed: Austrian defensive persistence unexplained; why
+  Austria survived defeats has no geographic answer.
+
 • MEM–GERMANIA–SWITZERLAND
+  Dependency: Alpine confederacy—Switzerland = western Alps organized as
+  independent polity. Swiss neutrality = Alpine non-integration demonstrated.
+  Breaks if removed: How Alpine terrain produces political independence
+  undocumented.
+
 • MEM–GERMANIA–AUSTRIA–METTERNICH
+  Dependency: Redoubt strategist—Metternich understood Alps as Habsburg
+  last refuge. "Retreat to mountains when all else is lost."
+  Breaks if removed: Metternich's strategic pessimism loses geographic anchor.
+
 • MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Alpine dynasty—Habsburgs originated in Swiss Alps (Habsburg
+  castle). Dynasty and terrain share origin.
+  Breaks if removed: Habsburg-Alpine connection disappears; why Habsburgs
+  held Austria unintelligible.
+
+• MEM–GERMANIA–AUSTRIA–VIENNA
+  Dependency: Capital at Alpine edge—Vienna sits where Alps meet Danube
+  plain. Imperial capital = hinge between mountain and corridor.
+  Breaks if removed: Vienna's geographic logic incomplete; only river
+  function, not mountain proximity, documented.
 
 Cross-Civilizational:
-• MEM–ROME–GEO–ALPS (historical precedent)
-• MEM–FRANCIA–GEO–ALPS (competing access)
+
+• MEM–ROME–GEO–ALPS
+  Dependency: Historical precedent—Roman Alpine crossing and pass control.
+  Germania inherits Roman infrastructure and transit logic.
+  Breaks if removed: Alpine governance appears medieval invention rather
+  than Roman inheritance.
+
+• MEM–FRANCIA–GEO–ALPS
+  Dependency: Competing access—France controls western Alpine approaches.
+  Napoleonic crossings demonstrate French penetration capacity.
+  Breaks if removed: Alps appear purely Germanic; French agency in Alpine
+  history disappears.
+
+• MEM–ITALIA–GEO–ALPS
+  Dependency: Southern neighbor—Alps separate Germania from Italia.
+  Italian unification required crossing barrier; Habsburg-Piedmont conflicts.
+  Breaks if removed: Alps appear as one-sided Germanic feature; Italian
+  perspective disappears.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION

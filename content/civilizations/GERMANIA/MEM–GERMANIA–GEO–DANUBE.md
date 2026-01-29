@@ -3,8 +3,8 @@ Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–GEO–DANUBE v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–GEO–DANUBE v2.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (GEO–MEM RESTRUCTURE)
 Civilization: GERMANIA
 Subject: Danube River System
@@ -297,21 +297,76 @@ The Danube transmits shocks faster than authority.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization GEO):
-• MEM–GERMANIA–GEO–RHINE–RIVER (contrast: consolidation spine)
-• MEM–GERMANIA–GEO–ALPS (connection: southern barrier)
-• MEM–GERMANIA–GEO–CARPATHIANS (connection: southeastern arc)
-• MEM–GERMANIA–GEO–VISTULA–RIVER (parallel: eastern limit)
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Contrast case—Rhine consolidates; Danube extends and exposes.
+  Germania's dual orientation defined by this river pair.
+  Breaks if removed: Danube appears as eastern Rhine rather than pressure
+  front; Habsburg-Prussian geographic divergence unintelligible.
+
+• MEM–GERMANIA–GEO–ALPS
+  Dependency: Southern barrier defining Danube sourcing. Alpine passes
+  connect Danube to Mediterranean; Alps separate from Italian space.
+  Breaks if removed: Danube's origin geography disappears; Austria's
+  alpine barrier function loses anchor.
+
+• MEM–GERMANIA–GEO–CARPATHIANS
+  Dependency: Southeastern arc channeling Danube. Carpathians define
+  Hungarian basin; Danube passes through Carpathian gates.
+  Breaks if removed: Transylvania accessibility unintelligible; why
+  Hungary matters strategically has no mountain-logic answer.
+
+• MEM–GERMANIA–GEO–VISTULA–RIVER
+  Dependency: Parallel case—both mark Germanic order thinning eastward.
+  Vistula is northern variant; Danube is southeastern variant.
+  Breaks if removed: Eastern exposure appears single-axis rather than
+  dual; Galicia-Hungary strategic difference disappears.
 
 GERMANIA (Subject MEMs):
+
 • MEM–GERMANIA–AUSTRIA
+  Dependency: Austria = Danube power. Vienna sits on Danube. Habsburg
+  authority flows along Danubian corridor.
+  Breaks if removed: Austria floats without geographic logic; Vienna's
+  location appears arbitrary rather than river-junction-determined.
+
 • MEM–GERMANIA–AUSTRIA–HUNGARY
+  Dependency: Dual Monarchy = Danubian federation. Compromise of 1867
+  is geographic as much as political—Danube unites what nationalism divides.
+  Breaks if removed: 1867 Ausgleich appears purely political; geographic
+  logic of Danubian federation disappears.
+
 • MEM–GERMANIA–HUNGARY
+  Dependency: Hungary = Danubian basin state. Budapest is Danube city.
+  Hungarian plain defines middle Danube strategic zone.
+  Breaks if removed: Hungary's relationship to Habsburg order unintelligible;
+  1848/1867/1918 Hungarian dynamics lose geographic anchor.
+
 • MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Habsburgs = Danubian dynasty. Imperial power organized
+  along Danube corridor; loss of Danube access = dynasty collapse.
+  Breaks if removed: Habsburg geography disappears; why Habsburgs ruled
+  from Vienna has no river-logic answer.
+
 • MEM–GERMANIA–AUSTRIA–METTERNICH
+  Dependency: Metternich governed Danubian plurality. Congress System
+  required managing multi-ethnic Danubian space.
+  Breaks if removed: Metternich's conservatism appears ideological rather
+  than geographically conditioned; plurality management disappears.
 
 Cross-Civilizational:
-• MEM–RUSSIA–GEO–DANUBE (competing corridor logic)
-• MEM–ROME–GEO–DANUBE (historical precedent)
+
+• MEM–RUSSIA–GEO–DANUBE
+  Dependency: Competing corridor logic—Russia seeks Danube mouth access;
+  Germania/Austria blocks. Crimean War, Balkan Wars = Danube contests.
+  Breaks if removed: 19th-century Eastern Question unintelligible; why
+  Danube delta mattered has no answer.
+
+• MEM–ROME–GEO–DANUBE
+  Dependency: Historical precedent—Roman limes along Danube. Habsburg
+  claims inherit Roman frontier memory.
+  Breaks if removed: Danubian defense tradition appears Habsburg invention
+  rather than Roman inheritance; legitimacy claims lose precedent.
 
 ────────────────────────────────────────────────────────────
 XI. CIVILIZATIONAL MEMORY FUNCTION

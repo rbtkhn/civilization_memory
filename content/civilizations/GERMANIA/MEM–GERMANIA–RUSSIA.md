@@ -2,7 +2,8 @@ MEM–GERMANIA–RUSSIA — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–RUSSIA v2.0
 Civilization: GERMANIA
 Subject: Russia (Civilizational Interface, Strategic Inversion, and Grammar Collision)
 Dates: Medieval era–present
@@ -235,24 +236,92 @@ Contradictions preserved without verdict.
 XII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–GERMANIA–PRUSSIA — Discipline engine origin
-• MEM–GERMANIA–PRUSSIA–FREDERICK–II — Seven Years' War survival
-• MEM–GERMANIA–BISMARCK — Diplomatic management model
-• MEM–GERMANIA–POLAND — Partition logic and buffer
-• MEM–GERMANIA–HUNGARY — Eastern constraint comparison
-• MEM–GERMANIA–WAR–SEVEN–YEARS — Grammar collision battle
-• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — Precision with closure (contrast)
-• MEM–GERMANIA–SILESIA — Eastern territorial gain
-• MEM–GERMANIA–KONIGSBERG — Eastern projection point
-• MEM–GERMANIA–GEO–BALTIC–SEA — Northern interface
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Discipline engine facing Russian depth. Prussian precision
+  grammar defined against Russian attrition grammar.
+  Breaks if removed: Grammar collision has no Germanic agent; precision
+  doctrine appears abstract rather than institutionally embodied.
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Seven Years' War survivor. Frederick experiences grammar
+  collision directly—tactical brilliance, strategic near-destruction.
+  Breaks if removed: "Miracle of the House of Brandenburg" has no
+  protagonist; survival lesson disappears.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Diplomatic management model. Bismarck circumvents Russian
+  depth through alliance rather than confrontation.
+  Breaks if removed: Reinsurance Treaty logic unintelligible; how to
+  manage grammar collision has no demonstration.
+
+• MEM–GERMANIA–POLAND
+  Dependency: Partition buffer. Russo-German cooperation occurs through
+  shared extraction of Polish territory.
+  Breaks if removed: Partition coalition logic disappears; why Poland
+  rather than direct confrontation unintelligible.
+
+• MEM–GERMANIA–HUNGARY
+  Dependency: Eastern constraint comparison. Hungarian plain = Danubian
+  exposure; complements Vistula exposure to Russia.
+  Breaks if removed: Dual eastern exposure (north via Poland, south via
+  Hungary) collapses into single axis.
+
+• MEM–GERMANIA–WAR–SEVEN–YEARS
+  Dependency: Grammar collision demonstrated. Prussia survives through
+  fortune, not strategy; Russian depth nearly destroys Germanic precision.
+  Breaks if removed: First major grammar collision has no record.
+
+• MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
+  Dependency: Precision with closure (contrast). Franco-Prussian War shows
+  precision working; Russo-German wars show precision failing.
+  Breaks if removed: Contrast case disappears; precision appears universally
+  applicable rather than geographically constrained.
+
+• MEM–GERMANIA–SILESIA
+  Dependency: Eastern territorial gain provoking Russian concern. Frederick's
+  seizure begins Austro-Prussian rivalry that eventually draws Russia in.
+  Breaks if removed: Seven Years' War origins obscured; what provoked
+  coalition formation against Prussia unintelligible.
+
+• MEM–GERMANIA–KONIGSBERG
+  Dependency: Eastern projection point. Königsberg = Prussia's Baltic anchor
+  facing Russia; enclave vulnerability to Russian depth.
+  Breaks if removed: Prussian geographic exposure to Russia disappears;
+  1945 Soviet conquest loses context.
+
+• MEM–GERMANIA–HITLER
+  Dependency: Barbarossa agent. Hitler abandons Bismarckian restraint
+  entirely; attempts to destroy Russian depth through operational precision.
+  Breaks if removed: WWII Eastern Front has no Germanic decision-maker;
+  grammar collision catastrophe has no agent.
 
 GEO MEMs (≥2):
-• MEM–GERMANIA–GEO–VISTULA–RIVER — Eastern corridor
-• MEM–GERMANIA–GEO–ODER–RIVER — Defensive line
+
+• MEM–GERMANIA–GEO–VISTULA–RIVER
+  Dependency: Eastern corridor. Vistula marks where Germanic density thins
+  toward Russian depth; partition geography.
+  Breaks if removed: Buffer zone geography disappears; where Prussia met
+  Russia geographically unintelligible.
+
+• MEM–GERMANIA–GEO–ODER–RIVER
+  Dependency: Defensive line. Oder = last major river before Vistula;
+  1945 Soviet crossing of Oder opened path to Berlin.
+  Breaks if removed: Eastern defensive geography disappears; 1945 collapse
+  loses river-crossing logic.
 
 Cross-civilization:
-• MEM–RUSSIA–WAR–SEVEN–YEARS — Russian perspective
-• MEM–RUSSIA–WAR–GREAT–PATRIOTIC — Eastern front from Russian lens
+
+• MEM–RUSSIA–WAR–SEVEN–YEARS
+  Dependency: Russian perspective on grammar collision. How Russia
+  experiences Germanic precision; near-victory through depth.
+  Breaks if removed: Collision appears one-sided; Russian agency disappears.
+
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC
+  Dependency: Eastern front from Russian lens. How Russia absorbs and
+  reverses Barbarossa; depth grammar triumph.
+  Breaks if removed: 1941–1945 appears purely as German defeat rather than
+  Russian depth victory.
 
 ────────────────────────────────────────────────────────────
 XIII. PRIMARY SOURCES & REFERENCES

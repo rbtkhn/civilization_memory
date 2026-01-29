@@ -2,8 +2,8 @@ MEM–GERMANIA–CHARLEMAGNE — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: MEM–GERMANIA–CHARLEMAGNE v1.4
+Version: 2.1
+Supersedes: MEM–GERMANIA–CHARLEMAGNE v2.0
 Template: CIV–MEM–TEMPLATE v2.8
 Upgrade Type: TEMPLATE COMPLIANCE UPGRADE (v2.8)
 Civilization: GERMANIA
@@ -186,81 +186,104 @@ VIII. MEM CONNECTIONS (MANDATORY)
 SAME-CIVILIZATION MEMs (≥10):
 
 • MEM–GERMANIA–DYNASTY–CAROLINGIAN
-  — Justification: Provides dynastic context; Charlemagne's authority
-    derives from Carolingian succession patterns. Without this connection,
-    the mechanisms of power transfer remain opaque.
+  Dependency: Provides dynastic context; Charlemagne's authority derives
+  from Carolingian succession patterns.
+  Breaks if removed: Power transfer mechanisms opaque; Pepin's usurpation
+  and papal legitimation disappear; succession logic unintelligible.
 
 • MEM–GERMANIA–PRUSSIA
-  — Justification: Inherits discipline-first governance model. Prussian
-    state formation echoes Carolingian command logic. Removal breaks
-    continuity chain to modern Germania.
+  Dependency: Inherits discipline-first governance model. Prussian state
+  formation echoes Carolingian command logic.
+  Breaks if removed: Continuity chain to modern Germania broken; discipline-
+  first governance appears as Prussian invention rather than inheritance.
 
 • MEM–GERMANIA–BISMARCK
-  — Justification: Restraint after unification mirrors Carolingian
-    post-conquest consolidation. Without this link, the pattern of
-    coercive unification followed by institutionalization is obscured.
+  Dependency: Restraint after unification mirrors Carolingian post-conquest
+  consolidation pattern.
+  Breaks if removed: Coercive unification followed by institutionalization
+  appears unique to 19th century rather than civilizational pattern.
 
 • MEM–GERMANIA–WAR–THIRTY–YEARS
-  — Justification: Represents trauma of fragmentation that Charlemagne's
-    order was designed to prevent. Essential counterfactual reference.
+  Dependency: Represents trauma of fragmentation that Charlemagne's order
+  was designed to prevent.
+  Breaks if removed: Carolingian order lacks counterfactual reference;
+  why fragmentation matters has no demonstration.
 
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE
-  — Justification: Direct institutional successor to Carolingian Empire.
-    Charlemagne's coronation in 800 AD establishes the imperial template.
-    Removal severs foundational link.
+  Dependency: Direct institutional successor to Carolingian Empire.
+  Charlemagne's coronation in 800 AD establishes the imperial template.
+  Breaks if removed: Holy Roman Empire appears without origin; translatio
+  imperii concept loses anchor.
 
 • MEM–GERMANIA–FREDERICK–I–BARBAROSSA
-  — Justification: Explicit attempt to revive Carolingian imperial glory.
-    Frederick I consciously modeled authority on Charlemagne precedent.
+  Dependency: Explicit attempt to revive Carolingian imperial glory.
+  Frederick I consciously modeled authority on Charlemagne precedent.
+  Breaks if removed: Barbarossa's legitimacy claims become arbitrary;
+  12th-century imperial revival loses template.
 
 • MEM–GERMANIA–LUTHER
-  — Justification: Reformation fractures sacral unity Charlemagne
-    established. Religious dimension of Carolingian order meets its
-    structural challenge.
+  Dependency: Reformation fractures sacral unity Charlemagne established.
+  Religious dimension of Carolingian order meets structural challenge.
+  Breaks if removed: Reformation appears as purely theological; its
+  destruction of Carolingian sacral order is obscured.
 
 • MEM–GERMANIA–AACHEN
-  — Justification: Charlemagne's capital and burial site. Geographic
-    anchor of Carolingian memory in Germania.
+  Dependency: Charlemagne's capital and burial site. Geographic anchor
+  of Carolingian memory in Germania.
+  Breaks if removed: Charlemagne floats without geographic location;
+  coronation site of later emperors loses significance.
 
 • MEM–GERMANIA–ALCUIN
-  — Justification: Charlemagne's chief intellectual advisor. Carolingian
-    Renaissance and educational reform inseparable from Charlemagne's
-    civilizational project.
+  Dependency: Charlemagne's chief intellectual advisor. Carolingian
+  Renaissance and educational reform inseparable from civilizational project.
+  Breaks if removed: Educational infrastructure disappears; Carolingian
+  cultural production has no agent.
 
 • MEM–GERMANIA–PAPACY
-  — Justification: Coronation by Pope Leo III establishes sword-altar
-    fusion. Papal-imperial relationship central to Carolingian legitimacy.
+  Dependency: Coronation by Pope Leo III establishes sword-altar fusion.
+  Papal-imperial relationship central to Carolingian legitimacy.
+  Breaks if removed: Sacral monarchy appears self-generated; Investiture
+  Controversy loses origin; sword-altar tension unintelligible.
 
 • MEM–GERMANIA–DYNASTY–MEROVINGIAN
-  — Justification: Dynasty Charlemagne's father Pepin displaced.
-    Understanding Carolingian legitimacy requires Merovingian precedent.
+  Dependency: Dynasty Charlemagne's father Pepin displaced. Understanding
+  Carolingian legitimacy requires Merovingian precedent.
+  Breaks if removed: Carolingians appear as first Frankish dynasty;
+  usurpation requiring papal legitimation disappears.
 
 • MEM–GERMANIA–SAXONY
-  — Justification: Primary target of Saxon Wars. Coercive integration
-    of Saxony exemplifies Carolingian state formation through conquest.
+  Dependency: Primary target of Saxon Wars. Coercive integration of Saxony
+  exemplifies Carolingian state formation through conquest.
+  Breaks if removed: Saxon Wars lose geographic anchor; forced conversion
+  and massacre have no target population.
 
 CROSS-CIVILIZATION MEMs:
 
 • MEM–FRANCIA–CHARLEMAGNE
-  — Justification: Shared origin, divergent memory. Francia claims
-    Charlemagne differently; comparison reveals how identical subject
-    generates distinct civilizational memory.
+  Dependency: Shared origin, divergent memory. Francia claims Charlemagne
+  differently; comparison reveals civilizational memory divergence.
+  Breaks if removed: Charlemagne appears exclusively Germanic; French
+  claims and Carolingian partition lose context.
 
 • MEM–ROME–CONSTANTINE
-  — Justification: Christianized command precedent. Charlemagne's
-    fusion of sword and altar follows Constantinian template.
+  Dependency: Christianized command precedent. Charlemagne's fusion of
+  sword and altar follows Constantinian template.
+  Breaks if removed: Sacral monarchy appears as Carolingian invention
+  rather than Roman inheritance; Christian empire model loses origin.
 
 GEO–MEM FILES (≥2):
 
 • MEM–GERMANIA–GEO–RHINE–RIVER
-  — Justification: Western boundary of Carolingian-era Germania.
-    Rhine defined strategic geography of Frankish expansion. Removal
-    eliminates geographic intelligibility of Saxon Wars direction.
+  Dependency: Western boundary of Carolingian-era Germania. Rhine defined
+  strategic geography of Frankish expansion.
+  Breaks if removed: Saxon Wars direction unintelligible; east-west axis
+  of Carolingian conquest loses geographic logic.
 
 • MEM–GERMANIA–GEO–ELBE–RIVER
-  — Justification: Eastern limit of Carolingian effective control.
-    Saxon territory organized around Elbe crossings. Essential for
-    understanding coercive integration geography.
+  Dependency: Eastern limit of Carolingian effective control. Saxon
+  territory organized around Elbe crossings.
+  Breaks if removed: Coercive integration geography disappears; frontier
+  of Carolingian order has no marker.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

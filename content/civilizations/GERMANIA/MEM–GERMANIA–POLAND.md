@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–POLAND v1.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–POLAND v2.0
 Civilization: GERMANIA
 Subject: Germania–Poland Civilizational Interface
 Dates: Medieval era–present
@@ -122,14 +122,74 @@ For Germania, this demonstrates:
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–SLAVS (broader interface)
-• MEM–GERMANIA–TEUTONIC–ORDER (institutional projection)
-• MEM–GERMANIA–PRUSSIA (partitioning power)
-• MEM–GERMANIA–PRUSSIA–FREDERICK–II (partition architect)
-• MEM–GERMANIA–HITLER (catastrophic rupture)
+
+• MEM–GERMANIA–SLAVS
+  Dependency: Broader interface—Poland is principal Slavic neighbor.
+  Germanic-Slavic contact patterns demonstrated through Polish case.
+  Breaks if removed: Poland appears isolated rather than representative;
+  Ostsiedlung context disappears.
+
+• MEM–GERMANIA–TEUTONIC–ORDER
+  Dependency: Institutional projection—Order represents forceful Germanic
+  expansion into Polish/Baltic sphere. Grunwald (1410) = Order's defeat.
+  Breaks if removed: Medieval Germanic eastern presence has no agent;
+  why Poland resisted has no institutional adversary.
+
+• MEM–GERMANIA–PRUSSIA
+  Dependency: Partitioning power—Prussia leads Polish dismemberment.
+  Prussian eastern territories carved from Polish lands.
+  Breaks if removed: Partition agency disappears; who extracted Polish
+  territory has no answer.
+
+• MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Partition architect—Frederick's "body without sinews"
+  calculation initiates partition sequence (1772).
+  Breaks if removed: First Partition has no German agent; instrumental
+  calculation of Polish weakness undocumented.
+
+• MEM–GERMANIA–HITLER
+  Dependency: Catastrophic rupture—Nazi occupation transforms interface
+  into annihilation. Adjacency becomes genocide.
+  Breaks if removed: 20th-century rupture has no agent; qualitative
+  difference from partition era unexplained.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Kulturkampf administrator—Bismarck's anti-Polish policies
+  within Prussian Poland; Germanization attempts.
+  Breaks if removed: 19th-century German-Polish tension within Reich
+  borders disappears.
+
+• MEM–GERMANIA–DANZIG
+  Dependency: Contested city—Danzig/Gdańsk exemplifies German-Polish
+  urban interface; 1939 casus belli.
+  Breaks if removed: Urban dimension of interface disappears; why Danzig
+  triggered war unintelligible.
+
+• MEM–GERMANIA–KONIGSBERG
+  Dependency: Eastern anchor—Königsberg/Kaliningrad represents Germanic
+  presence east of Polish lands.
+  Breaks if removed: Geographic envelope of German-Polish interface
+  incomplete.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–VISTULA–RIVER
+  Dependency: Polish corridor—Vistula defines Polish heartland geography;
+  Danzig at mouth, Warsaw on river.
+  Breaks if removed: Polish geographic logic disappears; why partition
+  followed river corridors unintelligible.
+
+• MEM–GERMANIA–GEO–ODER–RIVER
+  Dependency: Post-war boundary—Oder-Neisse line establishes 1945 border.
+  Breaks if removed: Current German-Polish border loses geographic anchor.
 
 Cross-Civilizational:
-• MEM–RUSSIA (partition partner, post-war shaper)
+
+• MEM–RUSSIA
+  Dependency: Partition partner—Russia, Prussia, Austria jointly partition
+  Poland. Post-war shaper—Soviet occupation establishes communist Poland.
+  Breaks if removed: Partition appears bilateral rather than trilateral;
+  why Poland became Soviet buffer unintelligible.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

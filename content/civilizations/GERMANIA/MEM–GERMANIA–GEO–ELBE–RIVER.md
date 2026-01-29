@@ -3,8 +3,8 @@ Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
-Supersedes: MEM–GERMANIA–GEO–ELBE–RIVER v1.2
+Version: 2.1
+Supersedes: MEM–GERMANIA–GEO–ELBE–RIVER v2.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (GEO–MEM RESTRUCTURE)
 Civilization: GERMANIA
 Subject: Elbe River System
@@ -212,18 +212,58 @@ separation.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization GEO):
-• MEM–GERMANIA–GEO–RHINE–RIVER (contrast: consolidation spine)
-• MEM–GERMANIA–GEO–ODER–RIVER (extension: pressure boundary)
-• MEM–GERMANIA–GEO–VISTULA–RIVER (extension: outer limit)
-• MEM–GERMANIA–GEO–BALTIC–SEA (connection: northern outlet)
+
+• MEM–GERMANIA–GEO–RHINE–RIVER
+  Dependency: Contrast case—consolidation spine versus internal hinge.
+  Rhine integrates; Elbe separates dense from thin Germania.
+  Breaks if removed: Elbe appears as second Rhine rather than gradient
+  marker; east-west administrative differentiation unintelligible.
+
+• MEM–GERMANIA–GEO–ODER–RIVER
+  Dependency: Extension case—Elbe is internal hinge; Oder is pressure
+  boundary. Sequential river logic: Rhine → Elbe → Oder → Vistula.
+  Breaks if removed: Elbe appears as frontier rather than transition;
+  Prussian eastern expansion has no intermediate marker.
+
+• MEM–GERMANIA–GEO–VISTULA–RIVER
+  Dependency: Outer limit case—Vistula marks where Germanic order thins
+  to unsustainable density.
+  Breaks if removed: Elbe-Oder-Vistula gradient collapses; partition of
+  Poland appears arbitrary rather than geographically conditioned.
+
+• MEM–GERMANIA–GEO–BALTIC–SEA
+  Dependency: Northern outlet—Elbe drains to Hamburg and North Sea via
+  canal; Baltic defines northern coastline of Elbe hinterland.
+  Breaks if removed: Elbe's maritime function disappears; Hamburg's role
+  as Elbe terminus loses sea access logic.
 
 GERMANIA (Subject MEMs):
+
 • MEM–GERMANIA–PRUSSIA
+  Dependency: Prussia emerges from Elbe-Oder zone. Berlin sits on Spree
+  (Elbe tributary). Prussian power = Elbe-organized administration.
+  Breaks if removed: Prussia floats without geographic anchor; Berlin's
+  location appears arbitrary.
+
 • MEM–GERMANIA–PRUSSIA–FREDERICK–II
+  Dependency: Frederick governs from Elbe base. Silesian conquest extends
+  Prussia beyond Elbe density zone—first overreach test.
+  Breaks if removed: Silesian Wars geography unintelligible; why Silesia
+  mattered has no river-corridor answer.
+
 • MEM–GERMANIA–BISMARCK
+  Dependency: Bismarck from Junker (Elbe-zone) gentry. Unification =
+  Elbe administrative tradition conquering Rhine industrial zone.
+  Breaks if removed: Junker social base disappears; Bismarck appears as
+  individual rather than class representative.
 
 Cross-Civilizational:
-• MEM–RUSSIA–GEO–VISTULA (competing gradient logic)
+
+• MEM–RUSSIA–GEO–VISTULA
+  Dependency: Competing gradient logic—where Elbe zone thins, Russian
+  sphere begins. 1945 meeting at Elbe = civilizational junction.
+  Breaks if removed: Cold War division appears ideological rather than
+  geographically conditioned; 1945 Elbe meeting loses significance.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)

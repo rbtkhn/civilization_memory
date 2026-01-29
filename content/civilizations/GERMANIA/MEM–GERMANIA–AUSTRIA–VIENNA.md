@@ -3,7 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · TEMPLATE v2.8 COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–AUSTRIA–VIENNA v2.0
 Civilization: GERMANIA
 Subject: Vienna (Imperial Capital & Cultural Center)
 Dates: Roman era–present
@@ -257,17 +258,79 @@ multinational, cosmopolitan, imperial.
 XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 GERMANIA (Same-Civilization):
-• MEM–GERMANIA–AUSTRIA (polity context)
-• MEM–GERMANIA–DYNASTY–HAPSBURG (ruling house)
-• MEM–GERMANIA–AUSTRIA–METTERNICH (Congress system)
-• MEM–GERMANIA–ART–MOZART (musical capital)
-• MEM–GERMANIA–ART–BRAHMS (musical capital)
-• MEM–GERMANIA–AUSTRIA–HUNGARY (dual monarchy)
-• MEM–GERMANIA–HOLY–ROMAN–EMPIRE (imperial framework)
+
+• MEM–GERMANIA–AUSTRIA
+  Dependency: Polity context—Vienna is Austria's capital. Austria = state;
+  Vienna = operating system.
+  Breaks if removed: Vienna floats without polity; city appears stateless.
+
+• MEM–GERMANIA–DYNASTY–HAPSBURG
+  Dependency: Ruling house—Habsburgs chose Vienna as capital (1278 onward).
+  Vienna = Habsburg city par excellence.
+  Breaks if removed: Why Vienna was imperial capital unintelligible;
+  Habsburg-Vienna link disappears.
+
+• MEM–GERMANIA–AUSTRIA–METTERNICH
+  Dependency: Congress system architect—Metternich governed from Vienna.
+  Congress of Vienna = city gives name to European settlement.
+  Breaks if removed: 1815 settlement loses geographic anchor; why "Vienna"
+  in title has no answer.
+
+• MEM–GERMANIA–ART–MOZART
+  Dependency: Musical capital—Mozart's Vienna years (1781–1791) produced
+  major works. City as patron and audience.
+  Breaks if removed: Viennese musical supremacy claim weakened; why
+  composers gathered there unexplained.
+
+• MEM–GERMANIA–ART–BRAHMS
+  Dependency: Musical capital—Brahms's Vienna residence (1862–1897).
+  Symphony tradition continuation.
+  Breaks if removed: 19th-century musical capital claim incomplete.
+
+• MEM–GERMANIA–AUSTRIA–HUNGARY
+  Dependency: Dual monarchy capital—Vienna = Austrian half's center.
+  1867 Ausgleich created Vienna-Budapest axis.
+  Breaks if removed: Dual monarchy geography incomplete; only Budapest
+  half has capital.
+
+• MEM–GERMANIA–HOLY–ROMAN–EMPIRE
+  Dependency: Imperial framework—Vienna = late Empire's de facto capital
+  under Habsburg permanence.
+  Breaks if removed: Where Empire was governed from 1438–1806 disappears.
+
+• MEM–GERMANIA–HUNGARY
+  Dependency: Danubian partner—Vienna-Budapest Danube corridor defines
+  Habsburg dual structure.
+  Breaks if removed: Vienna's eastern orientation unexplained; why it
+  faces Budapest rather than Berlin.
+
+GEO MEMs:
+
+• MEM–GERMANIA–GEO–DANUBE
+  Dependency: River position—Vienna sits on Danube at crossing point.
+  City = river gateway.
+  Breaks if removed: Vienna's location logic disappears; why there rather
+  than elsewhere unintelligible.
+
+• MEM–GERMANIA–GEO–ALPS
+  Dependency: Mountain proximity—Alps to Vienna's west and south. City at
+  Alpine edge facing Pannonian plain.
+  Breaks if removed: Vienna's defensive hinterland disappears; Alpine
+  redoubt option has no nearby anchor.
 
 Cross-Civilizational:
-• MEM–ISLAM–OTTOMAN (siege threat)
-• MEM–RUSSIA–HABSBURG–RIVALRY (eastern competition)
+
+• MEM–ISLAM–OTTOMAN
+  Dependency: Siege threat—Ottoman sieges (1529, 1683) forged Vienna's
+  identity. Survival = Christendom's bulwark claim.
+  Breaks if removed: Vienna's defining trauma disappears; 1683 relief
+  mythology has no city to defend.
+
+• MEM–RUSSIA–HABSBURG–RIVALRY
+  Dependency: Eastern competition—Vienna vs. St. Petersburg for Central
+  European influence. Congress System required managing Russia.
+  Breaks if removed: Vienna's diplomatic role appears unopposed; eastern
+  counterweight disappears.
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)

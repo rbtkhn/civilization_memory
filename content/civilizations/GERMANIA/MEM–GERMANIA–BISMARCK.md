@@ -2,8 +2,8 @@ MEM–GERMANIA–BISMARCK — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: MEM–GERMANIA–BISMARCK v1.6
+Version: 2.1
+Supersedes: MEM–GERMANIA–BISMARCK v2.0
 Upgrade Type: TEMPLATE v2.8 COMPLIANCE (STRUCTURAL)
 Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANIA
@@ -302,74 +302,108 @@ Same-Civilization MEMs (GERMANIA):
 • MEM–GERMANIA–PRUSSIA–FREDERICK–II
   Dependency: Bismarck inherits Frederician restraint doctrine and Prussian
   state machinery. Understanding of limited-war precedent requires this MEM.
+  Breaks if removed: Bismarck's stopping rule appears arbitrary rather than
+  historically learned; the Seven Years' War survival template disappears.
 
 • MEM–GERMANIA–PRUSSIA
   Dependency: The state Bismarck transforms into imperial core. Prussian
   institutional structure is prerequisite to understanding unification method.
+  Breaks if removed: Unification becomes ideological movement rather than
+  state expansion; administrative machinery has no origin.
 
 • MEM–GERMANIA–DYNASTY–HOHENZOLLERN
   Dependency: Bismarck's constitutional monarchy depends on Hohenzollern
   legitimacy. Royal-ministerial tension shapes entire chancellorship.
+  Breaks if removed: Kaiser-Chancellor dynamic unintelligible; dismissal in
+  1890 loses context; constitutional structure appears arbitrary.
 
 • MEM–GERMANIA–WAR–FRANCO–PRUSSIAN
   Dependency: The decisive unification war. Bismarck's closure doctrine is
   demonstrated here; MEM is unintelligible without war's bounded execution.
+  Breaks if removed: Empire proclamation appears as revolutionary rupture
+  rather than controlled outcome; Alsace-Lorraine annexation loses context.
 
 • MEM–GERMANIA–WAR–AUSTRO–PRUSSIAN
   Dependency: First unification war establishing Prussian hegemony. Shows
   Bismarck's pattern of diplomatic isolation and rapid cessation.
+  Breaks if removed: Austro-German relationship after 1866 unintelligible;
+  Dual Alliance appears arbitrary rather than post-war reconciliation.
 
 • MEM–GERMANIA–WAR–DANO–PRUSSIAN
   Dependency: Initial unification war. Establishes Austro-Prussian
   collaboration that Bismarck later ruptures by design.
+  Breaks if removed: Schleswig-Holstein question loses clarity; the
+  manufactured casus belli against Austria disappears.
 
 • MEM–GERMANIA–WILHELM–II
   Dependency: The successor who abandons Bismarckian restraint. System
   failure analysis requires understanding of post-1890 divergence.
+  Breaks if removed: Post-1890 failure appears as random drift rather than
+  systematic abandonment of restraint doctrine.
 
 • MEM–GERMANIA–AUSTRIA–METTERNICH
   Dependency: Diplomatic predecessor governing European equilibrium.
   Bismarck's alliance system inherits and modifies Metternich's concert logic.
+  Breaks if removed: Bismarck appears as innovator rather than inheritor;
+  Congress System precedent disappears.
 
 • MEM–GERMANIA–HOLY–ROMAN–EMPIRE
   Dependency: Dissolved structure Bismarck's empire replaces. Peter Wilson's
   analysis requires understanding what German order preceded unification.
+  Breaks if removed: 1871 appears as creation ex nihilo; question "what did
+  Bismarck replace?" has no answer.
 
 • MEM–GERMANIA–HIST–CLAUSEWITZ
   Dependency: Prussian military theory Bismarck operationalizes. "War as
   politics by other means" doctrine informs limited-war execution.
+  Breaks if removed: Limited-war execution lacks theoretical framework;
+  political control of military appears as personal quirk.
 
 • MEM–GERMANIA–WAR–MOLTKE
   Dependency: Military partnership enabling rapid victories. Bismarck's
   political control depends on Moltke's operational excellence.
+  Breaks if removed: Rapid victories appear automatic; civil-military
+  tension over war termination disappears.
 
 • MEM–GERMANIA–HITLER
   Dependency: Inversion case demonstrating competence without restraint.
   Bismarck's legacy requires contrast with successor catastrophe.
+  Breaks if removed: Restraint doctrine appears optional rather than
+  existential; "what happens without stopping rules?" has no answer.
 
 GEO MEMs (≥2 required):
 
 • MEM–GERMANIA–GEO–RHINE–RIVER
   Dependency: Western strategic boundary. Franco-German rivalry and
   Alsace-Lorraine annexation are shaped by Rhine geography.
+  Breaks if removed: Franco-German conflict appears ideological rather than
+  geographic; industrial backbone of empire has no geographic anchor.
 
 • MEM–GERMANIA–GEO–ELBE–RIVER
   Dependency: Prussian heartland geography. Eastern power base from which
   Bismarck projects unification extends along Elbe corridor.
+  Breaks if removed: Prussia appears as abstract political entity rather
+  than geographically-rooted power; Berlin's location loses logic.
 
 Cross-Civilizational MEMs:
 
 • MEM–FRANCIA–NAPOLEON
   Dependency: Momentum without closure contrast. Bismarck explicitly
   designs his system to avoid Napoleonic overextension.
+  Breaks if removed: Bismarck's restraint appears as temperament rather than
+  learned response to predecessor catastrophe.
 
 • MEM–FRANCIA–LOUIS–XIV
   Dependency: Expansion without system restraint. France's encirclement
   fears stem from Louis XIV precedent Bismarck must manage.
+  Breaks if removed: French revanchism appears irrational; coalition fear
+  management loses historical grounding.
 
 • MEM–ANGLIA–WAR–SEVEN–YEARS
   Dependency: Maritime endurance versus continental containment. Frederick's
   survival precedent informs Bismarckian strategic caution.
+  Breaks if removed: Prussian survival doctrine appears as Bismarck's
+  invention rather than inherited wisdom.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)
