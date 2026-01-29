@@ -1,14 +1,49 @@
-CIV–MEM–TEMPLATE — v2.8
+CIV–MEM–TEMPLATE — v2.9
 Civilizational Memory Codex · Memory File Enforcement Template
-20% Evidence Standard · Proportional Blend Law · Enhanced Scholarly Rigor
+THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.7
-Upgrade Type: ADDITIVE · PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS
+Supersedes: CIV–MEM–TEMPLATE v2.8
+Upgrade Type: MAJOR STRUCTURAL · THREE-LAYER ARCHITECTURE
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.2+
+Compatibility: CIV–MEM–CORE v2.7+
 Last Update: January 2026
-WORDCOUNT: ~4,800
+WORDCOUNT: ~7,500
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.9) — THREE-LAYER ARCHITECTURE · STRUCTURED DATA
+────────────────────────────────────────────────────────────
+This version implements the Three-Layer MEM Architecture (TLA)
+from CIV–MEM–CORE v2.7, adding type-specific structured data
+fields and optional analytical extensions.
+
+NEW REQUIREMENT — THREE-LAYER ARCHITECTURE:
+• Layer 1: Universal Prose (existing requirements, now explicitly named)
+• Layer 2: Type-Specific Structured Fields (REQUIRED for new MEMs)
+• Layer 3: Optional Analytical Fields (as applicable)
+
+LAYER 2 TYPE-SPECIFIC FIELDS (NEW):
+• WAR: Belligerents, Classification, Outcome, Force Ratios, Casualties
+• TREATY: Parties, Classification, Closure Capacity, Duration
+• GEO: Parameters, Strategic Significance, Control Sequence
+• FIGURE: Biographical, Career, Influence
+• INSTITUTION: Temporal Span, Membership, Function
+• CITY: Geographic, Economic Function, Control History
+
+LAYER 3 OPTIONAL FIELDS (NEW):
+• Collapse Sequence Data: For collapse-related MEMs
+• Synthesis Linkage: For MEMs grounding SYNTHESIS entries
+• Assumptions Box: For MEMs anchoring major analytical claims
+• ACH Record: For MEMs where competing hypotheses were evaluated
+
+ENFORCEMENT:
+• New MEMs (created after v2.9): Layer 2 MANDATORY
+• Existing MEMs: Layer 2 OPTIONAL upgrade path
+• Upgrade versioning: v2.0 → v2.1 when adding structured fields
+
+Reference Implementation: MEM–GERMANIA–WAR–NAPOLEON v2.1
+
+See: CIV–MEM–CORE v2.7, Sections XXIV-XXVII
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS
@@ -695,6 +730,13 @@ XXIII. VERSIONING & LOCK
 • Deletions forbidden
 • Canonical lock absolute
 
+v2.9 ADDITIONS:
+• Three-Layer Architecture implementation (Sections XXIV-XXVII)
+• Layer 2 Type-Specific Field Requirements
+• Layer 3 Optional Analytical Fields
+• Structured Field Validation
+• Version Transition Rules
+
 v2.8 ADDITIONS:
 • Proportional Blend Law implementation
 • GEO–MEM File Type Requirements section
@@ -704,5 +746,492 @@ v2.7 ADDITIONS:
 • Word Count Governance section
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.8
+XXIV. LAYER 2 TYPE-SPECIFIC FIELD REQUIREMENTS
+────────────────────────────────────────────────────────────
+Layer 2 defines structured data fields required for each MEM type.
+These fields enable cross-MEM queries and systematic comparison.
+
+Enforcement:
+• REQUIRED for new MEMs (created after v2.9)
+• OPTIONAL upgrade for existing MEMs
+
+────────────────────────────────────────────────────────────
+XXIV.A WAR MEM STRUCTURED FIELDS
+────────────────────────────────────────────────────────────
+WAR MEMs must include the following structured data section:
+
+SECTION: WAR STRUCTURED DATA (LAYER 2)
+
+SUBSECTION: BELLIGERENTS (REQUIRED)
+Table format:
+| Party | Role | Entry | Exit | Outcome |
+|-------|------|-------|------|---------|
+
+Role values: Aggressor, Defender, Coalition, Neutral→Belligerent
+Outcome values: Victor, Defeated, Draw, Repositioned
+
+SUBSECTION: WAR CLASSIFICATION (REQUIRED)
+| Field | Value |
+|-------|-------|
+| WAR_TYPE | [Hegemonic/Interstate/Civil/Colonial/Religious] |
+| DURATION | [Years-Months or date range] |
+| THEATER | [Geographic scope] |
+| TRIGGER | [Casus belli summary] |
+| PHASES | [If multi-phase war] |
+
+SUBSECTION: OUTCOME CLASSIFICATION (REQUIRED)
+| Field | Value |
+|-------|-------|
+| MILITARY_OUTCOME | [Decisive/Indecisive/Stalemate] |
+| TERRITORIAL_CHANGE | [Yes/No: brief description] |
+| REGIME_CHANGE | [Yes/No: brief description] |
+| SETTLEMENT | [Treaty name or "None"] |
+| SETTLEMENT_DURATION | [Years until superseded] |
+| CLOSURE_TYPE | [Path A (Inclusion) / Path B (Rupture) / Hybrid] |
+
+SUBSECTION: FORCE RATIOS (REQUIRED)
+Table format:
+| Date | Event | Party A Forces | Party B Forces | Ratio | Notes |
+|------|-------|----------------|----------------|-------|-------|
+
+Force counts as approximate numbers. Ratio as X:1 format.
+
+SUBSECTION: CASUALTY DATA (OPTIONAL)
+Table format:
+| Party | Military Dead | Military Wounded | Civilian Dead | Notes |
+|-------|---------------|------------------|---------------|-------|
+
+Casualty data is approximate. Source should be noted.
+
+────────────────────────────────────────────────────────────
+XXIV.B TREATY MEM STRUCTURED FIELDS
+────────────────────────────────────────────────────────────
+TREATY/SETTLEMENT MEMs must include:
+
+SECTION: TREATY STRUCTURED DATA (LAYER 2)
+
+SUBSECTION: PARTIES (REQUIRED)
+| Party | Role | Signature Date | Ratification Date |
+|-------|------|----------------|-------------------|
+
+Role values: Victor, Defeated, Mediator, Guarantor, Observer
+
+SUBSECTION: SETTLEMENT CLASSIFICATION (REQUIRED)
+| Field | Value |
+|-------|-------|
+| CLOSURE_TYPE | [Path A (Inclusion) / Path B (Rupture) / Hybrid] |
+| SETTLEMENT_TYPE | [Peace Treaty/Armistice/Congress/Diktat] |
+| ENFORCEMENT_MECHANISM | [Alliance/Occupation/Organization/None] |
+| DURATION | [Years until superseded or violated] |
+| TERMINATED_BY | [Event/Treaty that ended settlement] |
+
+SUBSECTION: CLOSURE CAPACITY ALIGNMENT (REQUIRED)
+| Dimension | Aligned? | Evidence |
+|-----------|----------|----------|
+| Incentive | [Yes/No/Partial] | [Brief explanation] |
+| Power | [Yes/No/Partial] | [Brief explanation] |
+| Legitimacy | [Yes/No/Partial] | [Brief explanation] |
+
+SUBSECTION: TERRITORIAL PROVISIONS (OPTIONAL)
+| Territory | From | To | Status |
+|-----------|------|-----|--------|
+
+Status values: Annexed, Ceded, Plebiscite, Mandate, Restored
+
+SUBSECTION: COMPARISON CASES (OPTIONAL)
+| Field | Value |
+|-------|-------|
+| PARALLELS | [Similar successful settlements] |
+| CONTRASTS | [Failed settlements with similar conditions] |
+| SUCCESSOR | [Settlement that replaced this one] |
+
+────────────────────────────────────────────────────────────
+XXIV.C GEO MEM STRUCTURED FIELDS
+────────────────────────────────────────────────────────────
+GEO MEMs must include (in addition to Section XXII requirements):
+
+SECTION: GEO STRUCTURED DATA (LAYER 2)
+
+SUBSECTION: GEOGRAPHIC PARAMETERS (REQUIRED)
+| Field | Value |
+|-------|-------|
+| REGION_BOUNDS | [Description or coordinates] |
+| TERRAIN_TYPE | [Steppe/Forest/Mountain/Maritime/Riverine/Urban/Mixed] |
+| CLIMATE_ZONE | [Continental/Temperate/Arctic/Arid/Tropical] |
+| KEY_FEATURES | [Rivers, mountains, ports, etc.] |
+
+SUBSECTION: STRATEGIC SIGNIFICANCE (REQUIRED)
+| Field | Value |
+|-------|-------|
+| CHOKEPOINT | [Yes/No: explanation] |
+| PROJECTION_CORRIDOR | [Yes/No: explanation] |
+| DEFENSE_BALANCE | [Offense-dominant/Defense-dominant/Neutral] |
+| RESOURCE_SIGNIFICANCE | [Agricultural/Industrial/Mineral/Maritime/None] |
+
+SUBSECTION: CONTROL SEQUENCE (REQUIRED)
+| Era | Controller | Control Mode | Entry | Exit |
+|-----|------------|--------------|-------|------|
+
+Control Mode values: Nomadic, Settled, Imperial, Colonial, Contested
+
+────────────────────────────────────────────────────────────
+XXIV.D FIGURE MEM STRUCTURED FIELDS
+────────────────────────────────────────────────────────────
+FIGURE MEMs (individual historical figures) must include:
+
+SECTION: FIGURE STRUCTURED DATA (LAYER 2)
+
+SUBSECTION: BIOGRAPHICAL (REQUIRED)
+| Field | Value |
+|-------|-------|
+| BIRTH | [Date] |
+| DEATH | [Date] |
+| NATIONALITY | [Civilization/State] |
+| PRIMARY_ROLE | [Statesman/Military/Intellectual/Religious/Economic] |
+
+SUBSECTION: CAREER (REQUIRED)
+| Period | Position | Institution |
+|--------|----------|-------------|
+
+SUBSECTION: INFLUENCE (REQUIRED)
+| Field | Value |
+|-------|-------|
+| MAJOR_WORKS | [List if applicable] |
+| KEY_DECISIONS | [List of consequential actions] |
+| INFLUENCE_DOMAIN | [Military/Diplomatic/Intellectual/Economic] |
+| CITED_IN_MEMS | [List of MEMs referencing this figure] |
+
+SUBSECTION: CIVILIZATIONAL POSITION (OPTIONAL)
+| Field | Value |
+|-------|-------|
+| CIVILIZATION | [Primary civilization] |
+| ERA_ACTIVE | [Era(s)] |
+| INSTITUTIONAL_AFFILIATION | [Key institutions] |
+| LEGACY_STATUS | [Revered/Contested/Forgotten/Rehabilitated] |
+
+────────────────────────────────────────────────────────────
+XXIV.E INSTITUTION MEM STRUCTURED FIELDS
+────────────────────────────────────────────────────────────
+INSTITUTION/DYNASTY MEMs must include:
+
+SECTION: INSTITUTION STRUCTURED DATA (LAYER 2)
+
+SUBSECTION: TEMPORAL SPAN (REQUIRED)
+| Field | Value |
+|-------|-------|
+| FOUNDED | [Date] |
+| DISSOLVED | [Date or "Extant"] |
+| DURATION | [Years] |
+| FOUNDER | [Person or event] |
+
+SUBSECTION: MEMBERSHIP (REQUIRED)
+| Member | Entry | Exit | Role |
+|--------|-------|------|------|
+
+Role values: Founder, Member, Observer, Expelled
+
+SUBSECTION: FUNCTION CLASSIFICATION (REQUIRED)
+| Field | Value |
+|-------|-------|
+| PRIMARY_FUNCTION | [Governance/Defense/Economic/Legitimacy/Administrative] |
+| ENFORCEMENT_MECHANISM | [Military/Legal/Economic/Ideological/None] |
+| IDEOLOGICAL_BASIS | [Description] |
+| TERRITORIAL_SCOPE | [Description] |
+
+SUBSECTION: LINEAGE (OPTIONAL)
+| Field | Value |
+|-------|-------|
+| PRECEDED_BY | [Prior institution or "None"] |
+| SUCCEEDED_BY | [Successor institution or "None"] |
+| PARALLEL_INSTITUTIONS | [Contemporary equivalents] |
+
+────────────────────────────────────────────────────────────
+XXIV.F CITY MEM STRUCTURED FIELDS
+────────────────────────────────────────────────────────────
+CITY/PLACE MEMs must include:
+
+SECTION: CITY STRUCTURED DATA (LAYER 2)
+
+SUBSECTION: GEOGRAPHIC (REQUIRED)
+| Field | Value |
+|-------|-------|
+| COORDINATES | [Latitude/Longitude or region] |
+| TERRAIN | [Coastal/Riverine/Inland/Mountain] |
+| CLIMATE | [Climate zone] |
+| KEY_FEATURES | [Port, fortress, trade route, etc.] |
+
+SUBSECTION: ECONOMIC FUNCTION (REQUIRED)
+| Field | Value |
+|-------|-------|
+| PRIMARY_FUNCTION | [Trade/Administrative/Military/Religious/Industrial] |
+| TRADE_NETWORKS | [Connected networks] |
+| ECONOMIC_SIGNIFICANCE | [Description] |
+
+SUBSECTION: CONTROL HISTORY (REQUIRED)
+| Era | Controller | Status | Entry | Exit |
+|-----|------------|--------|-------|------|
+
+Status values: Capital, Provincial, Occupied, Free City, Colony
+
+────────────────────────────────────────────────────────────
+XXV. LAYER 3 OPTIONAL ANALYTICAL FIELDS
+────────────────────────────────────────────────────────────
+Layer 3 fields are OPTIONAL but recommended when applicable.
+They enable deeper analytical integration and tradecraft compliance.
+
+────────────────────────────────────────────────────────────
+XXV.A COLLAPSE SEQUENCE DATA
+────────────────────────────────────────────────────────────
+Apply to: MEMs documenting imperial or state collapse
+
+PURPOSE: Enable systematic comparison of collapse patterns across
+cases and validation of collapse-related SYNTHESIS entries.
+
+SECTION: COLLAPSE SEQUENCE DATA (LAYER 3)
+
+SUBSECTION: EVENT TIMELINE (REQUIRED if section included)
+| Date | Event | Phase Classification |
+|------|-------|---------------------|
+
+Phase Classification values:
+• Phase 1 (Arithmetic) onset/crisis/completion
+• Phase 2 (Defection) onset/cascade/completion
+• Phase 3 (Legitimacy) onset/formalization/completion
+
+SUBSECTION: SEQUENCE CLASSIFICATION (REQUIRED if section included)
+| Field | Value |
+|-------|-------|
+| PRIMARY_SEQUENCE | [1→2→3 / 3→2→1 / 2→1→3 / Simultaneous / Other] |
+| SEQUENCE_VARIANT | [Standard/Inverted/Blocked/Accelerated] |
+| SEQUENCE_CONFIDENCE | [High/Medium/Low] |
+| VALIDATES | [SYNTHESIS ID if applicable] |
+
+SUBSECTION: SEQUENCE DETERMINANT CODING (OPTIONAL)
+| Determinant | Value | Evidence |
+|-------------|-------|----------|
+| Regime Type | [Military-conquest/Ideological/Dynastic/Colonial] | [Brief] |
+| Defeat Visibility | [Visible/Hidden/Mixed] | [Brief] |
+| Elite Cohesion | [Personal/Institutional/Fragmented] | [Brief] |
+| Challenge Origin | [External/Internal/Mixed] | [Brief] |
+| Periphery Integration | [Coercive/Legitimated/Mixed] | [Brief] |
+
+────────────────────────────────────────────────────────────
+XXV.B SYNTHESIS LINKAGE
+────────────────────────────────────────────────────────────
+Apply to: MEMs that validate or ground SYNTHESIS entries
+
+PURPOSE: Explicitly document how this MEM supports SYNTHESIS claims.
+
+SECTION: SYNTHESIS LINKAGE (LAYER 3)
+
+SUBSECTION: VALIDATES (REQUIRED if section included)
+| Synthesis ID | Validation Type | Confidence | Notes |
+|--------------|-----------------|------------|-------|
+
+Validation Type values: Confirms, Extends, Qualifies, Challenges
+
+SUBSECTION: PHASE VALIDATION DETAIL (OPTIONAL)
+| Phase/Element | Validated By | Evidence in MEM |
+|---------------|-------------|-----------------|
+
+SUBSECTION: CROSS-REFERENCES (OPTIONAL)
+| Related Entry | Relationship |
+|---------------|--------------|
+
+Related Entry: SYNTHESIS IDs, RLL IDs, other MEMs
+
+────────────────────────────────────────────────────────────
+XXV.C ASSUMPTIONS BOX (MEM-LEVEL)
+────────────────────────────────────────────────────────────
+Apply to: MEMs anchoring major analytical claims
+
+PURPOSE: Identify key assumptions underlying MEM analysis.
+
+Note: Assumptions Box is REQUIRED for SYNTHESIS entries
+(per CIV–MEM–CORE v2.7 Section XXVI). For MEMs, it is optional
+but recommended for those making significant analytical claims.
+
+SECTION: ASSUMPTIONS BOX (LAYER 3)
+
+SUBSECTION: ASSUMPTION [N] (repeat as needed)
+| Field | Content |
+|-------|---------|
+| STATEMENT | [What the assumption claims] |
+| BASIS | [Evidence or reasoning] |
+| IF_WRONG | [Consequence for analysis] |
+| LINCHPIN_STATUS | [High/Medium/Low] |
+
+SUBSECTION: ASSUMPTIONS SUMMARY
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+
+────────────────────────────────────────────────────────────
+XXV.D ACH RECORD (MEM-LEVEL)
+────────────────────────────────────────────────────────────
+Apply to: MEMs where competing interpretations were evaluated
+
+PURPOSE: Document alternative hypotheses considered and why
+the preferred interpretation was selected.
+
+Note: ACH Record is REQUIRED for SYNTHESIS entries where
+alternatives were evaluated (per CIV–MEM–CORE v2.7 Section XXVI).
+For MEMs, it is optional.
+
+SECTION: ACH RECORD (LAYER 3)
+
+SUBSECTION: HYPOTHESES EVALUATED
+| ID | Hypothesis | Status |
+|----|------------|--------|
+
+Status values: Preferred, Rejected, Inconclusive
+
+SUBSECTION: DISCRIMINATING EVIDENCE
+| Evidence | Supports | Contradicts |
+|----------|----------|-------------|
+
+SUBSECTION: VERDICT
+| Field | Value |
+|-------|-------|
+| PREFERRED_HYPOTHESIS | [ID] |
+| CONFIDENCE | [High/Medium/Low] |
+| KEY_DISCRIMINATOR | [Evidence that decided] |
+
+────────────────────────────────────────────────────────────
+XXVI. STRUCTURED FIELD VALIDATION
+────────────────────────────────────────────────────────────
+Structured fields must meet validation requirements before
+MEM can advance to CANONICAL status.
+
+────────────────────────────────────────────────────────────
+XXVI.A COMPLETENESS REQUIREMENTS
+────────────────────────────────────────────────────────────
+• All REQUIRED subsections for MEM type must be present
+• All REQUIRED fields within subsections must have values
+• Empty tables are prohibited (tables must contain ≥1 data row)
+• "N/A" or "Unknown" permitted only with explanation
+
+Incomplete Layer 2 blocks CANONICAL advancement for new MEMs.
+
+────────────────────────────────────────────────────────────
+XXVI.B VALUE CONSTRAINTS
+────────────────────────────────────────────────────────────
+DATES:
+• ISO 8601 format preferred (YYYY-MM-DD)
+• Era notation permitted (YYYY BC, YYYY AD)
+• Approximate dates: prefix with ~ (e.g., ~1200 BC)
+• Date ranges: use "–" separator (1792–1815)
+
+ENUMERATIONS:
+• Use defined values from field specifications
+• Custom values require explicit declaration
+• Consistency across MEMs of same type required
+
+NUMERIC:
+• Force ratios: X:1 format (e.g., 3.4:1)
+• Casualties: Approximate ranges permitted (~100,000)
+• Durations: Years or Years-Months format
+
+────────────────────────────────────────────────────────────
+XXVI.C CROSS-REFERENCE VALIDATION
+────────────────────────────────────────────────────────────
+• MEMs referenced in Synthesis Linkage must exist
+• SYNTHESIS IDs referenced must exist in SCHOLAR files
+• RLL IDs referenced must exist in SCHOLAR files
+• Broken references block CANONICAL advancement
+
+────────────────────────────────────────────────────────────
+XXVI.D LAYER 2/3 COMPLIANCE CHECKLIST
+────────────────────────────────────────────────────────────
+Before marking MEM as CANONICAL (for new MEMs):
+
+LAYER 2 CHECKLIST:
+- [ ] Type-appropriate structured data section present
+- [ ] All REQUIRED subsections included
+- [ ] All REQUIRED fields populated
+- [ ] No empty tables
+- [ ] Date formats consistent
+- [ ] Enumeration values valid
+
+LAYER 3 CHECKLIST (if applicable):
+- [ ] Optional sections appropriate to MEM content
+- [ ] Cross-references valid
+- [ ] Assumptions clearly stated (if Assumptions Box included)
+- [ ] ACH methodology sound (if ACH Record included)
+
+────────────────────────────────────────────────────────────
+XXVII. VERSION TRANSITION RULES
+────────────────────────────────────────────────────────────
+These rules govern transition to the three-layer architecture.
+
+────────────────────────────────────────────────────────────
+XXVII.A NEW MEM REQUIREMENTS
+────────────────────────────────────────────────────────────
+MEMs created after v2.9 effective date (January 2026):
+
+• Layer 1: MANDATORY (all existing prose requirements apply)
+• Layer 2: MANDATORY (type-specific structured fields required)
+• Layer 3: OPTIONAL (recommended where applicable)
+
+New MEMs without Layer 2 cannot advance to CANONICAL status.
+
+────────────────────────────────────────────────────────────
+XXVII.B EXISTING MEM UPGRADE PATH
+────────────────────────────────────────────────────────────
+MEMs created before v2.9:
+
+• Layer 1: Already present (no change required)
+• Layer 2: OPTIONAL upgrade (strongly recommended)
+• Layer 3: OPTIONAL (as applicable)
+
+Existing MEMs remain valid without Layer 2.
+Voluntary upgrade is encouraged but not required.
+
+────────────────────────────────────────────────────────────
+XXVII.C VERSION INCREMENT RULE
+────────────────────────────────────────────────────────────
+When adding Layer 2/3 to existing MEMs:
+
+• Version increments by 0.1 (e.g., v2.0 → v2.1)
+• Upgrade Type: "STRUCTURED DATA ADDITION (LAYER 2/3)"
+• Upgrade Note documents what was added
+
+This preserves version history while marking structural upgrades.
+
+────────────────────────────────────────────────────────────
+XXVII.D NO BREAKING CHANGES
+────────────────────────────────────────────────────────────
+Layer 2/3 addition does not change Layer 1 requirements:
+
+• 20% quote minimum unchanged
+• 70% analytical floor unchanged
+• MEM Connection requirements unchanged
+• EQS requirements unchanged
+• All existing prose rules remain in force
+
+The three-layer architecture is additive, not substitutive.
+
+────────────────────────────────────────────────────────────
+XXVIII. CANONICAL STATUS (UPDATED)
+────────────────────────────────────────────────────────────
+This file is CANONICAL.
+
+v2.9 ADDITIONS:
+• Section XXIV: Layer 2 Type-Specific Field Requirements
+• Section XXV: Layer 3 Optional Analytical Fields
+• Section XXVI: Structured Field Validation
+• Section XXVII: Version Transition Rules
+
+Future versions may:
+• Add field specifications for new MEM types
+• Refine field validation requirements
+• Add new Layer 3 optional fields
+
+They may NOT:
+• Remove existing sections
+• Weaken Layer 1 requirements
+• Make Layer 2 optional for new MEMs
+• Break backward compatibility with existing MEMs
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–MEM–TEMPLATE v2.9
 ────────────────────────────────────────────────────────────

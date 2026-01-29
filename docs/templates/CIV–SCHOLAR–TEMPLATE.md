@@ -1,13 +1,47 @@
-CIV–SCHOLAR–TEMPLATE — v2.9
+CIV–SCHOLAR–TEMPLATE — v2.10
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.8
-Upgrade Type: ADDITIVE · AUDIT COMMANDS
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.9
+Upgrade Type: ADDITIVE · SYNTHESIS TRADECRAFT REQUIREMENTS
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v2.6+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–PROTOCOL v2.2+
+Compatibility: CIV–MEM–CORE v2.7+ · CIV–MEM–TEMPLATE v2.9+ · CIV–SCHOLAR–PROTOCOL v2.2+
 Last Update: January 2026
-WORDCOUNT: ~13,000
+WORDCOUNT: ~14,500
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v2.9 → v2.10 SYNTHESIS TRADECRAFT)
+────────────────────────────────────────────────────────────
+This version preserves ALL authority hierarchy, learning safeguards,
+lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.9.
+
+v2.10 introduces the following ADDITIVE enhancements:
+
+• SYNTHESIS TRADECRAFT REQUIREMENTS (Section XIV NEW · MANDATORY)
+  – Assumptions Box REQUIRED for all frozen SYNTHESIS entries
+  – ACH Record REQUIRED when alternative frameworks evaluated
+  – Calibrated confidence tiers (Tier 1-4)
+  – POST-ACH revision documentation requirements
+
+This aligns SCHOLAR synthesis operations with Intelligence Tradecraft
+Integration (ITI) protocols from CIV–MEM–CORE v2.7.
+
+PURPOSE:
+• Force explicit assumption identification
+• Require systematic alternative hypothesis evaluation
+• Enable linchpin assumption tracking
+• Improve synthesis revisability
+
+ENFORCEMENT:
+• Frozen SYNTHESIS without Assumptions Box is INVALID
+• SYNTHESIS where alternatives were evaluated without ACH is INVALID
+• Confidence tier must be declared in SYNTHESIS status block
+
+See: CIV–MEM–CORE v2.7 Sections XXVI-XXVII (ITI specification)
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.8 → v2.9 AUDIT COMMANDS)
@@ -1131,6 +1165,243 @@ SILENT LOADING PROHIBITED:
 • User should know which governance context is active
 • This enables session reproducibility
 
+────────────────────────────────────────────────────────────
+XIV. SYNTHESIS TRADECRAFT REQUIREMENTS (NEW · v2.10 · MANDATORY)
+────────────────────────────────────────────────────────────
+This section establishes tradecraft requirements for SYNTHESIS entries,
+integrating Intelligence Tradecraft Integration (ITI) protocols from
+CIV–MEM–CORE v2.7.
+
+PURPOSE:
+• Force explicit identification of assumptions underlying syntheses
+• Require systematic evaluation of alternative frameworks
+• Enable linchpin assumption tracking for revision management
+• Improve transparency and revisability of SCHOLAR outputs
+
+────────────────────────────────────────────────────────────
+XIV.A ASSUMPTIONS BOX REQUIREMENT (MANDATORY)
+────────────────────────────────────────────────────────────
+All frozen SYNTHESIS entries MUST include an Assumptions Box.
+
+TRIGGER:
+• Applies to ALL frozen SYNTHESIS entries
+• Must be completed BEFORE freeze authorization
+• Incomplete Assumptions Box blocks freeze
+
+REQUIRED CONTENT:
+For each key assumption:
+• STATEMENT: What the assumption claims
+• BASIS: Evidence or reasoning supporting the assumption
+• IF_WRONG: Consequence for the synthesis if assumption fails
+• LINCHPIN_STATUS: High / Medium / Low
+
+LINCHPIN CLASSIFICATION:
+• HIGH: If wrong, synthesis loses most explanatory value
+• MEDIUM: If wrong, synthesis requires significant revision
+• LOW: If wrong, synthesis requires minor adjustment
+
+MINIMUM REQUIREMENTS:
+• ≥3 assumptions identified
+• ≥1 HIGH-linchpin assumption identified (if any exist)
+• All assumptions with linchpin status assigned
+
+FORMAT (BINDING):
+────────────────────────────────────────────────────────────
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: [Title]
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | [What the assumption claims] |
+| BASIS | [Evidence or reasoning] |
+| IF_WRONG | [Consequence for synthesis] |
+| LINCHPIN_STATUS | [High/Medium/Low] |
+
+ASSUMPTION 2: [Title]
+[Repeat structure]
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | [Short name] | [H/M/L] | [Yes/No] |
+────────────────────────────────────────────────────────────
+
+GOVERNANCE:
+• Frozen SYNTHESIS without Assumptions Box is INVALID
+• Assumptions Box may be added retrospectively to pre-v2.10 syntheses
+• Adding Assumptions Box to existing synthesis does not require re-freeze
+
+────────────────────────────────────────────────────────────
+XIV.B ACH RECORD REQUIREMENT (CONDITIONAL)
+────────────────────────────────────────────────────────────
+SYNTHESIS entries where alternative frameworks were evaluated
+MUST include an ACH (Analysis of Competing Hypotheses) Record.
+
+TRIGGER:
+• ≥2 competing hypotheses were considered during synthesis
+• Alternative frameworks could explain the same evidence
+• The preferred framework was selected over explicit competitors
+
+ACH NOT REQUIRED WHEN:
+• Synthesis addresses uncontested patterns
+• No alternative frameworks were considered
+• Synthesis merely formalizes existing scholarly consensus
+
+REQUIRED CONTENT:
+• Hypotheses Evaluated: ID, description, status
+• Discriminating Evidence: What evidence distinguishes hypotheses
+• Verdict: Preferred hypothesis, confidence, key discriminator
+
+FORMAT (BINDING):
+────────────────────────────────────────────────────────────
+ACH RECORD
+
+HYPOTHESES EVALUATED
+
+| ID | Hypothesis | Status |
+|----|------------|--------|
+| H1 | [Description] | [Preferred/Rejected/Inconclusive] |
+| H2 | [Description] | [Status] |
+
+DISCRIMINATING EVIDENCE
+
+| Evidence | Supports | Contradicts |
+|----------|----------|-------------|
+| [E1] | [H1, H3] | [H2] |
+| [E2] | [H2] | [H1] |
+
+VERDICT
+
+| Field | Value |
+|-------|-------|
+| PREFERRED_HYPOTHESIS | [ID] |
+| CONFIDENCE | [High/Medium/Low] |
+| KEY_DISCRIMINATOR | [Evidence that decided] |
+────────────────────────────────────────────────────────────
+
+GOVERNANCE:
+• SYNTHESIS where alternatives were evaluated without ACH is INVALID
+• ACH documentation should occur during synthesis development
+• Retrospective ACH addition permitted for pre-v2.10 syntheses
+
+────────────────────────────────────────────────────────────
+XIV.C CONFIDENCE TIER CLASSIFICATION (MANDATORY)
+────────────────────────────────────────────────────────────
+All SYNTHESIS entries must declare confidence using calibrated tiers.
+
+TIER DEFINITIONS:
+
+TIER 1 — DETECTED (>90% confidence):
+• Pattern explicitly stated by multiple scholars
+• SYNTHESIS formalizes existing scholarly consensus
+• Departure from Tier 1 requires extraordinary evidence
+
+TIER 2 — STRONGLY SUPPORTED (70-90% confidence):
+• Pattern implicit in scholarship, synthesized by SCHOLAR
+• Would likely be recognized by scholars if shown
+• High confidence but not scholarly consensus
+
+TIER 3 — PROPOSED (50-70% confidence):
+• Pattern visible through cross-case comparison
+• Goes beyond what any single scholar stated
+• Useful framework but not established fact
+• Moderate confidence; subject to revision
+
+TIER 4 — SPECULATIVE (<50% confidence):
+• Pattern not grounded in scholarship
+• Must be flagged; cannot drive canonical conclusions
+• Low confidence; explicitly provisional
+
+DECLARATION REQUIREMENT:
+Confidence tier MUST appear in SYNTHESIS status block:
+
+FORMAT:
+  Status: FROZEN
+  Confidence: TIER [1-4] ([percentage range])
+
+EXAMPLE:
+  Status: FROZEN
+  Confidence: TIER 3 (50-70% — cross-case synthesis)
+
+GOVERNANCE:
+• SYNTHESIS without confidence tier is INCOMPLETE
+• Tier assignment must reflect honest assessment
+• Tier may be upgraded/downgraded with documented justification
+
+────────────────────────────────────────────────────────────
+XIV.D POST-ACH REVISION PROTOCOL (MANDATORY)
+────────────────────────────────────────────────────────────
+When ACH analysis leads to synthesis revision, the following
+documentation is required.
+
+REVISION TRIGGERS:
+• Linchpin assumption falsified by new evidence
+• ACH re-run produces different preferred hypothesis
+• Discriminating evidence changes conclusion
+
+REVISION DOCUMENTATION:
+When revising a frozen SYNTHESIS:
+
+1. CHANGE STATUS: FROZEN → UNDER_REVIEW
+2. DOCUMENT TRIGGER: What caused revision
+3. RE-RUN ACH: Update with new evidence/hypotheses
+4. UPDATE ASSUMPTIONS: Revise Assumptions Box
+5. RE-FREEZE: Requires explicit user authorization
+
+FORMAT:
+────────────────────────────────────────────────────────────
+REVISION RECORD
+
+SYNTHESIS: [ID]
+PRIOR STATUS: FROZEN (v[X])
+REVISION TRIGGER: [What changed]
+DATE: [YYYY-MM-DD]
+
+PRIOR VERDICT:
+• Preferred: [H#]
+• Confidence: [Tier]
+
+REVISED VERDICT:
+• Preferred: [H# or NEW]
+• Confidence: [Tier]
+• Key Change: [What shifted]
+
+NEW ASSUMPTIONS:
+[Updated Assumptions Box reference]
+
+RE-FREEZE: [AUTHORIZED / PENDING]
+────────────────────────────────────────────────────────────
+
+GOVERNANCE:
+• Revisions must not silently change frozen syntheses
+• All revisions require explicit documentation
+• Version history must be preserved
+
+────────────────────────────────────────────────────────────
+XIV.E TRADECRAFT COMPLIANCE CHECKLIST
+────────────────────────────────────────────────────────────
+Before freezing any SYNTHESIS:
+
+- [ ] Assumptions Box completed with ≥3 assumptions
+- [ ] Linchpin status assigned to all assumptions
+- [ ] HIGH-linchpin assumptions identified (if any exist)
+- [ ] ACH Record completed (if alternatives were evaluated)
+- [ ] Discriminating evidence documented (if ACH required)
+- [ ] Confidence tier declared in status block
+- [ ] All grounding MEMs identified
+- [ ] Synthesis Linkage added to grounding MEMs (Layer 3)
+
+SYNTHESIS failing checklist cannot be frozen.
+
+v2.10 ADDITIONS:
+• Synthesis Tradecraft Requirements (Section XIV) — MANDATORY
+  – Assumptions Box requirement for frozen SYNTHESIS
+  – ACH Record requirement when alternatives evaluated
+  – Confidence tier classification (Tier 1-4)
+  – POST-ACH revision protocol
+
 v2.9 ADDITIONS:
 • Mearsheimer Audit Command (Section IX.C) — Gap analysis for existing content
 • Barnes Audit Command (Section IX.D) — Gap analysis for existing content
@@ -1209,5 +1480,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.9
+END OF FILE — CIV–SCHOLAR–TEMPLATE v2.10
 ────────────────────────────────────────────────────────────

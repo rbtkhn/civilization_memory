@@ -1,17 +1,65 @@
-CIV–MEM–CORE — v2.6
+CIV–MEM–CORE — v2.7
 Civilizational Memory Codex · System Core
-DUAL MIND POLYPHONY EDITION · SCHOLARLY AUTHORITY PROTOCOL
+THREE-LAYER ARCHITECTURE EDITION · INTELLIGENCE TRADECRAFT INTEGRATION
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.6
+Version: 2.7
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.5
-Upgrade Type: MINOR VERSION · SCHOLARLY AUTHORITY PROTOCOL
+Supersedes: CIV–MEM–CORE v2.6
+Upgrade Type: MAJOR STRUCTURAL · THREE-LAYER ARCHITECTURE
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.7) — THREE-LAYER ARCHITECTURE · TRADECRAFT
+────────────────────────────────────────────────────────────
+This version introduces the THREE-LAYER MEM ARCHITECTURE and
+INTELLIGENCE TRADECRAFT INTEGRATION for SYNTHESIS validation.
+
+v2.7 introduces:
+
+THREE-LAYER MEM ARCHITECTURE (TLA v1.0)
+
+This version formally establishes a three-layer architecture for all
+MEM files, separating universal prose requirements from type-specific
+structured data fields and optional analytical extensions.
+
+• Layer 1: Universal Prose (existing requirements, now explicitly named)
+• Layer 2: Type-Specific Structured Fields (new, required for new MEMs)
+• Layer 3: Optional Analytical Fields (applied when relevant)
+
+Key provisions:
+• Section XXIV: Three-Layer Architecture definition
+• Section XXV: Structured Data Governance
+• Section XXVI: Synthesis Validation Protocol
+• Section XXVII: Intelligence Tradecraft Integration
+
+INTELLIGENCE TRADECRAFT INTEGRATION (ITI v1.0)
+
+This version integrates intelligence analytic tradecraft standards
+for SYNTHESIS entries, requiring explicit assumption identification
+and competing hypothesis analysis.
+
+• Assumptions Box: Required for all frozen SYNTHESIS entries
+• ACH Record: Required when alternative frameworks were evaluated
+• Calibrated Confidence: Tier 1-4 probability estimates
+• Linchpin Tracking: Identification of critical assumptions
+
+Effect:
+• New MEMs must include Layer 2 structured fields
+• Existing MEMs may voluntarily upgrade to Layer 2/3
+• Frozen SYNTHESIS entries must include Assumptions Box
+• SYNTHESIS with competing hypotheses must include ACH Record
+
+Backward Compatibility:
+• All existing MEM files remain valid
+• Layer 2 mandatory only for MEMs created after v2.7
+• Existing MEMs may be upgraded voluntarily
+• No migration deadline; voluntary compliance encouraged
+• Reference implementation: MEM–GERMANIA–WAR–NAPOLEON v2.1
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — SCHOLARLY AUTHORITY PROTOCOL
@@ -1076,5 +1124,382 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.6
+XXIV. THREE-LAYER MEM ARCHITECTURE (TLA)
+────────────────────────────────────────────────────────────
+PURPOSE: Establish a three-layer architecture for MEM files that
+separates universal prose content from type-specific structured
+data and optional analytical extensions.
+
+TLA v1.0 — BINDING
+
+────────────────────────────────────────────────────────────
+XXIV.A LAYER DEFINITIONS
+────────────────────────────────────────────────────────────
+MEM files are structured in three layers:
+
+LAYER 1 — UNIVERSAL PROSE (Required for all MEMs)
+• Memory Purpose & Scope
+• Narrative Core (analytical sections with quotations)
+• Mearsheimer Assessment
+• Barnes Assessment
+• MEM Connections
+• Bibliography
+• Ingest Bootstrap
+
+Layer 1 captures civilizational meaning through scholarly prose.
+These requirements existed in prior versions; they are now explicitly
+named as "Layer 1" for architectural clarity.
+
+LAYER 2 — TYPE-SPECIFIC STRUCTURED FIELDS (Required for new MEMs)
+• Queryable data tables specific to MEM type
+• Enables cross-MEM comparison and pattern detection
+• Field specifications defined in CIV–MEM–TEMPLATE
+
+MEM Types with Layer 2 requirements:
+• WAR: Belligerents, Classification, Outcome, Force Ratios, Casualties
+• TREATY: Parties, Classification, Closure Capacity, Duration
+• GEO: Parameters, Strategic Significance, Control Sequence
+• FIGURE: Biographical, Career, Influence
+• INSTITUTION: Temporal Span, Membership, Function
+• CITY: Geographic, Economic Function, Control History
+
+Layer 2 enables structured queries across MEMs and systematic
+cross-case comparison.
+
+LAYER 3 — OPTIONAL ANALYTICAL FIELDS (Applied when relevant)
+• Collapse Sequence Data: For MEMs documenting imperial/state collapse
+• Synthesis Linkage: For MEMs grounding SYNTHESIS entries
+• Assumptions Box: For MEMs anchoring major analytical claims
+• ACH Record: For MEMs where competing hypotheses were evaluated
+
+Layer 3 fields are optional but recommended when applicable.
+They enable deeper analytical integration and tradecraft compliance.
+
+────────────────────────────────────────────────────────────
+XXIV.B LAYER RELATIONSHIPS
+────────────────────────────────────────────────────────────
+Layers are additive, not substitutive:
+
+• Layer 1 is ALWAYS required (universal prose foundation)
+• Layer 2 is REQUIRED for new MEMs, OPTIONAL upgrade for existing
+• Layer 3 is ALWAYS optional, applied when analytically relevant
+
+Layers do not replace each other. Structured data (Layer 2)
+supplements but does not substitute for scholarly prose (Layer 1).
+
+────────────────────────────────────────────────────────────
+XXIV.C ENFORCEMENT RULES
+────────────────────────────────────────────────────────────
+NEW MEMs (created after v2.7 effective date):
+• Layer 1: MANDATORY (as before)
+• Layer 2: MANDATORY (type-specific fields required)
+• Layer 3: OPTIONAL (as applicable)
+
+EXISTING MEMs (created before v2.7):
+• Layer 1: MANDATORY (already present)
+• Layer 2: OPTIONAL (voluntary upgrade path)
+• Layer 3: OPTIONAL (as applicable)
+
+Upgrade versioning: When Layer 2 fields are added to existing
+MEMs, version increments (e.g., v2.0 → v2.1).
+
+No migration deadline. Voluntary compliance encouraged.
+
+────────────────────────────────────────────────────────────
+XXIV.D REFERENCE IMPLEMENTATION
+────────────────────────────────────────────────────────────
+MEM–GERMANIA–WAR–NAPOLEON v2.1 demonstrates the three-layer
+architecture for WAR-type MEMs:
+
+• Layer 1: Full prose content (Sections I–XVI)
+• Layer 2: WAR Structured Data (Section XVII)
+• Layer 3: Collapse Sequence Data, Synthesis Linkage (Sections XVIII–XIX)
+
+This file serves as the canonical reference for Layer 2/3
+implementation in WAR MEMs.
+
+────────────────────────────────────────────────────────────
+XXV. STRUCTURED DATA GOVERNANCE
+────────────────────────────────────────────────────────────
+PURPOSE: Establish governance rules for structured data fields
+introduced in Layer 2 and Layer 3.
+
+────────────────────────────────────────────────────────────
+XXV.A FIELD VALIDATION REQUIREMENTS
+────────────────────────────────────────────────────────────
+Structured fields must meet validation requirements:
+
+COMPLETENESS:
+• All required fields for MEM type must be present
+• Empty tables are prohibited (must contain data or be omitted)
+• Partial completion blocks CANONICAL status
+
+VALUE CONSTRAINTS:
+• Dates: ISO 8601 format (YYYY-MM-DD) or era notation (YYYY BC/AD)
+• Enumerations: Must use defined values (e.g., WAR_TYPE values)
+• Numeric: Force ratios as X:1 format; casualties as approximate ranges
+
+CROSS-REFERENCE VALIDATION:
+• Connected MEMs referenced in Layer 2 must exist
+• SYNTHESIS entries referenced in Layer 3 must exist
+• RLL cross-references must match SCHOLAR entries
+
+────────────────────────────────────────────────────────────
+XXV.B QUERY ENABLEMENT PRINCIPLE
+────────────────────────────────────────────────────────────
+Structured fields exist to enable queries across MEMs:
+
+• "Show all WAR MEMs where MILITARY_OUTCOME = Decisive"
+• "Compare force ratios across Napoleonic battles"
+• "List MEMs validating SYNTHESIS 0020"
+
+Field design should optimize for query utility.
+Fields that cannot be meaningfully queried should not be included.
+
+────────────────────────────────────────────────────────────
+XXV.C TYPE-SPECIFIC FIELD REGISTRIES
+────────────────────────────────────────────────────────────
+Field specifications for each MEM type are defined in
+CIV–MEM–TEMPLATE v2.9+.
+
+CIV–MEM–CORE declares architectural authority.
+CIV–MEM–TEMPLATE specifies field requirements.
+
+This separation preserves governance hierarchy while enabling
+template-level iteration on field design.
+
+────────────────────────────────────────────────────────────
+XXVI. SYNTHESIS VALIDATION PROTOCOL
+────────────────────────────────────────────────────────────
+PURPOSE: Establish requirements for SYNTHESIS entries to ensure
+they are grounded in MEM evidence and subjected to rigorous
+analytical scrutiny.
+
+────────────────────────────────────────────────────────────
+XXVI.A GROUNDING REQUIREMENTS
+────────────────────────────────────────────────────────────
+SYNTHESIS entries must be grounded in MEM evidence:
+
+VALIDATION CASES:
+• Every frozen SYNTHESIS must cite ≥2 MEMs as validation cases
+• Validation cases must contain evidence supporting the SYNTHESIS
+• Cross-civilizational SYNTHESIS requires cases from ≥2 civilizations
+
+SYNTHESIS LINKAGE:
+• Validating MEMs should include Synthesis Linkage (Layer 3)
+• Linkage specifies: which SYNTHESIS, validation type, confidence
+
+GROUNDING CHAIN:
+• SYNTHESIS → validated by MEMs → grounded in ARC quotations
+• This chain ensures SYNTHESIS claims trace to scholarly evidence
+
+────────────────────────────────────────────────────────────
+XXVI.B ASSUMPTIONS BOX REQUIREMENT
+────────────────────────────────────────────────────────────
+All frozen SYNTHESIS entries MUST include an Assumptions Box.
+
+PURPOSE: Identify key assumptions underlying the synthesis and
+assess their linchpin status.
+
+REQUIRED FIELDS (per assumption):
+• STATEMENT: What the assumption claims
+• BASIS: Why the assumption is made
+• IF_WRONG: Consequence for the synthesis if assumption fails
+• LINCHPIN_STATUS: High / Medium / Low
+
+LINCHPIN CLASSIFICATION:
+• HIGH: If wrong, synthesis loses most explanatory value
+• MEDIUM: If wrong, synthesis requires significant revision
+• LOW: If wrong, synthesis requires minor adjustment
+
+Frozen SYNTHESIS without Assumptions Box is a governance violation.
+
+────────────────────────────────────────────────────────────
+XXVI.C ACH REQUIREMENT
+────────────────────────────────────────────────────────────
+SYNTHESIS entries where alternative frameworks were evaluated
+MUST include an ACH Record.
+
+TRIGGER: ACH Record required when:
+• ≥2 competing hypotheses were considered during synthesis
+• Alternative frameworks could explain the same evidence
+• The preferred framework was selected over competitors
+
+ACH RECORD REQUIRED FIELDS:
+• Hypotheses Evaluated: ID, description, status
+• Discriminating Evidence: What evidence distinguishes hypotheses
+• Verdict: Preferred hypothesis, confidence, key discriminator
+
+SYNTHESIS without ACH Record when alternatives existed is a
+governance violation.
+
+────────────────────────────────────────────────────────────
+XXVI.D CONFIDENCE CLASSIFICATION
+────────────────────────────────────────────────────────────
+SYNTHESIS entries must declare confidence using calibrated tiers:
+
+TIER 1 — DETECTED (>90% confidence):
+• Pattern explicitly stated by multiple scholars
+• SYNTHESIS merely formalizes existing scholarly consensus
+
+TIER 2 — STRONGLY SUPPORTED (70-90% confidence):
+• Pattern implicit in scholarship, synthesized by SCHOLAR
+• Would likely be recognized by scholars if shown
+
+TIER 3 — PROPOSED (50-70% confidence):
+• Pattern visible through cross-case comparison
+• Goes beyond what any single scholar stated
+• Useful framework but not established fact
+
+TIER 4 — SPECULATIVE (<50% confidence):
+• Pattern not grounded in scholarship
+• Must be flagged; cannot drive canonical conclusions
+
+Confidence tier must appear in SYNTHESIS status block.
+
+────────────────────────────────────────────────────────────
+XXVII. INTELLIGENCE TRADECRAFT INTEGRATION (ITI)
+────────────────────────────────────────────────────────────
+PURPOSE: Integrate intelligence analytic tradecraft standards
+into SCHOLAR synthesis operations.
+
+ITI v1.0 — BINDING FOR SYNTHESIS ENTRIES
+
+────────────────────────────────────────────────────────────
+XXVII.A ASSUMPTIONS BOX PROTOCOL
+────────────────────────────────────────────────────────────
+The Assumptions Box identifies critical assumptions underlying
+analytical claims.
+
+FORMAT (verbatim template):
+
+────────────────────────────────────────────────────────────
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: [Title]
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | [What the assumption claims] |
+| BASIS | [Evidence or reasoning supporting assumption] |
+| IF_WRONG | [Consequence for analysis] |
+| LINCHPIN_STATUS | [High/Medium/Low] |
+
+ASSUMPTION 2: [Title]
+[Repeat structure]
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | [Short name] | [H/M/L] | [Yes/No] |
+────────────────────────────────────────────────────────────
+
+APPLICATION:
+• Required for all frozen SYNTHESIS entries
+• Optional for MEMs anchoring major analytical claims
+• Linchpin assumptions with HIGH status require special scrutiny
+
+────────────────────────────────────────────────────────────
+XXVII.B ANALYSIS OF COMPETING HYPOTHESES (ACH) PROTOCOL
+────────────────────────────────────────────────────────────
+ACH systematically evaluates alternative explanations against
+the same evidence.
+
+FORMAT (verbatim template):
+
+────────────────────────────────────────────────────────────
+ACH RECORD
+
+HYPOTHESES EVALUATED
+
+| ID | Hypothesis | Status |
+|----|------------|--------|
+| H1 | [Description] | [Preferred/Rejected/Inconclusive] |
+| H2 | [Description] | [Status] |
+
+DISCRIMINATING EVIDENCE
+
+| Evidence | Supports | Contradicts |
+|----------|----------|-------------|
+| [E1] | [H1, H3] | [H2] |
+| [E2] | [H2] | [H1] |
+
+VERDICT
+
+| Field | Value |
+|-------|-------|
+| PREFERRED_HYPOTHESIS | [ID] |
+| CONFIDENCE | [High/Medium/Low] |
+| KEY_DISCRIMINATOR | [Evidence that decided] |
+────────────────────────────────────────────────────────────
+
+APPLICATION:
+• Required for SYNTHESIS entries where alternatives were evaluated
+• Optional for complex analytical MEMs
+• Discriminating evidence must be specific and verifiable
+
+────────────────────────────────────────────────────────────
+XXVII.C LINCHPIN ASSUMPTION TRACKING
+────────────────────────────────────────────────────────────
+Linchpin assumptions are those whose failure would invalidate
+the analysis.
+
+TRACKING REQUIREMENTS:
+• All HIGH-linchpin assumptions must be explicitly listed
+• Research agenda should include tests for HIGH-linchpin assumptions
+• If linchpin assumption is later falsified, SYNTHESIS must be revised
+
+REVISION PROTOCOL:
+When a linchpin assumption is falsified:
+• SYNTHESIS status changes from FROZEN to UNDER_REVIEW
+• ACH must be re-run with new evidence
+• Revised SYNTHESIS requires new Assumptions Box
+
+────────────────────────────────────────────────────────────
+XXVII.D TRADECRAFT GOVERNANCE INTEGRATION
+────────────────────────────────────────────────────────────
+ITI integrates with existing governance:
+
+RELATIONSHIP TO SAP:
+• SAP governs claim authority (Tier 1-4 source grounding)
+• ITI governs assumption transparency and alternative analysis
+• Both must be satisfied for SYNTHESIS freeze
+
+RELATIONSHIP TO TLA:
+• Assumptions Box and ACH Record are Layer 3 fields
+• They appear in MEMs and SYNTHESIS entries
+• TLA provides architectural home; ITI provides content requirements
+
+RELATIONSHIP TO SCHOLAR:
+• SCHOLAR generates SYNTHESIS through learning
+• ITI requires SCHOLAR to document assumptions and alternatives
+• Tradecraft compliance is procedural, not interpretive
+
+────────────────────────────────────────────────────────────
+XXVIII. CANONICAL STATUS (UPDATED)
+────────────────────────────────────────────────────────────
+This file is CANONICAL.
+
+v2.7 ADDITIONS:
+• Section XXIV: Three-Layer MEM Architecture (TLA)
+• Section XXV: Structured Data Governance
+• Section XXVI: Synthesis Validation Protocol
+• Section XXVII: Intelligence Tradecraft Integration (ITI)
+
+Future versions may:
+• Add governance clarification
+• Add interface layers
+• Add procedural enforcement clauses
+• Add new Layer 2/3 field specifications
+
+They may NOT:
+• Remove existing sections
+• Reorder sections
+• Weaken evidentiary standards
+• Weaken tradecraft requirements
+• Introduce interpretation
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–MEM–CORE v2.7
 ────────────────────────────────────────────────────────────
