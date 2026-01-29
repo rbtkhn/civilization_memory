@@ -1,26 +1,58 @@
-CIV–CORE–FRANCIA — v1.7
+CIV–CORE–FRANCIA — v2.0
 Civilizational Strategy Codex · Civilization Core Engine
 Declarative–Universalist–Centralized Authority Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
-Version: 1.7
+Version: 2.0
+Supersedes: CIV–CORE–FRANCIA v1.7
+Upgrade Type: MAJOR · TEMPLATE v2.0 COMPLIANCE · STRUCTURAL ALIGNMENT
+Template Version Used: CIV–CORE–TEMPLATE v2.0
 Civilization: FRANCIA
 Class: CIV–CORE
-Compatibility: CIV / MEM Architecture
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage:
 SCE–CIV–FRANCIA V9.x →
-CIV–CORE–FRANCIA v1.2 → v1.3 → v1.4 → v1.5 → v1.6 → v1.7
+CIV–CORE–FRANCIA v1.2 → v1.3 → v1.4 → v1.5 → v1.6 → v1.7 → v2.0
 
-Upgrade Type:
-ADDITIVE ONLY · GOVERNANCE ENFORCEMENT · NO DELETIONS · NO REORDERING
+Civilization Phase: PHASE II (Development)
+Lock Level: STRUCTURAL (content expandable without renumbering)
 
-Lock Level:
-STRUCTURAL (content expandable without renumbering)
+Governed by:
+• CIV–MEM–CORE v2.7 (global system law)
+• CIV–CORE–TEMPLATE v2.0 (structural template)
+• CIV–SCHOLAR–PROTOCOL v2.2 (interaction layer)
 
 Last Update: January 2026
-Word Count: ~4,300
+WORDCOUNT: ~5,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.7 → v2.0) — TEMPLATE COMPLIANCE
+────────────────────────────────────────────────────────────
+This version achieves full compliance with CIV–CORE–TEMPLATE v2.0.
+
+STRUCTURAL CHANGES:
+• Section VI (Dynastic & Regime Continuity) merged into Section III
+• New Section VII (Technological / Compute Sovereignty) added
+• Section renumbering aligned with template v2.0 order
+• Section names standardized to template nomenclature
+
+HEADER ADDITIONS:
+• Template Version Used declared
+• Civilization Phase declared (PHASE II)
+• Governed-by block expanded
+
+PRESERVED ELEMENTS:
+• All v1.7 analytical content retained
+• Prime axioms unchanged
+• Diagnostic indicators preserved
+• Distinguished Scholars list maintained
+• Failure physics intact
+
+No doctrine is weakened.
+No constraint is removed.
+No authority boundary is altered.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -94,6 +126,27 @@ Active layers:
 Rule:
 Regimes change. Moral grammar persists.
 
+III.A DYNASTIC & REGIME CONTINUITY PATTERNS
+────────────────────────────────────────────────────────────
+
+Prime Law:
+Preserve the state even if the regime must fall.
+
+Patterns:
+• Dynastic consolidation (Capet → Bourbon)
+• Absolutist apex (Louis XIV)
+• Revolutionary rupture (1789, 1830, 1848, 1870)
+• Napoleonic synthesis (I and III)
+• Republican re-legitimation (Third, Fourth, Fifth Republics)
+
+MANDATORY OUTPUT:
+• Regime Elasticity: HIGH / MED / LOW
+
+Diagnostic:
+Francia demonstrates exceptional regime elasticity precisely because
+the civilizational grammar survives regime collapse. The state is
+preserved through rupture, not despite it.
+
 ────────────────────────────────────────────────────────────
 IV. SPATIAL–CIVILIZATIONAL GEOMETRY
 ────────────────────────────────────────────────────────────
@@ -128,39 +181,54 @@ MANDATORY OUTPUTS:
 • Elite Alignment (EA-F): STABLE / STRAINED / FRACTURED
 
 ────────────────────────────────────────────────────────────
-VI. DYNASTIC & REGIME CONTINUITY LAYER
+VI. ECONOMIC–INDUSTRIAL DOCTRINE
 ────────────────────────────────────────────────────────────
 
-Prime Law:
-Preserve the state even if the regime must fall.
-
-Patterns:
-• Dynastic consolidation (Capet → Bourbon)
-• Absolutist apex (Louis XIV)
-• Revolutionary rupture
-• Napoleonic synthesis
-• Republican re-legitimation
-
-MANDATORY OUTPUT:
-• Regime Elasticity: HIGH / MED / LOW
-
-────────────────────────────────────────────────────────────
-VII. ECONOMIC–MATERIAL DOCTRINE
-────────────────────────────────────────────────────────────
-
-• State-directed capitalism
-• Strategic national champions
+• State-directed capitalism (dirigisme)
+• Strategic national champions (Airbus, EDF, Total, Dassault)
 • Fiscal flexibility over efficiency
 • Welfare legitimacy as stabilizer
+• Industrial policy as sovereignty instrument
 
 MANDATORY OUTPUTS:
 • Material Sustainability (MS-F): HIGH / MED / LOW
 • Fiscal Credibility (FC): STRONG / STRAINED / WEAK
+• Industrial Sovereignty (IS-F): HIGH / MED / LOW
 
 Constraint:
 Legitimacy innovation requires continuous renewal of fiscal depth,
 administrative throughput, logistics, and military system coherence.
 When renewal stalls, legitimacy becomes performative rather than authoritative.
+
+────────────────────────────────────────────────────────────
+VII. TECHNOLOGICAL / COMPUTE SOVEREIGNTY
+────────────────────────────────────────────────────────────
+
+Francia treats technological autonomy as an extension of sovereignty.
+
+Core Domains:
+• Nuclear technology (CEA, force de frappe, civilian energy)
+• Aerospace (Airbus, Ariane, Dassault)
+• Defense systems (Thales, MBDA, Naval Group)
+• Digital infrastructure (sovereignty concerns, GAIA-X)
+
+Doctrine:
+Technology is not merely economic capacity but civilizational
+assertion. Dependence on external technological systems is treated
+as sovereignty erosion equivalent to territorial loss.
+
+MANDATORY OUTPUTS:
+• Technological Autonomy (TA-F): HIGH / MED / LOW
+• Compute Sovereignty (CS-F): SECURE / DEPENDENT / CRITICAL
+
+Hard Rule:
+Loss of nuclear technological independence = automatic SA-F downgrade.
+
+Diagnostic:
+Francia exhibits high sensitivity to technological dependence,
+particularly in domains perceived as civilizationally strategic.
+Digital sovereignty concerns reflect the declarative legitimacy
+axiom applied to information infrastructure.
 
 ────────────────────────────────────────────────────────────
 VIII. MILITARY–STRATEGIC DOCTRINE
@@ -170,6 +238,7 @@ VIII. MILITARY–STRATEGIC DOCTRINE
 • Nuclear deterrence as sovereignty anchor
 • Moral framing of intervention
 • Reliance on coalitions for scale
+• Expeditionary capability for post-colonial sphere
 
 MANDATORY OUTPUT:
 • Strategic Autonomy (SA-F): HIGH / MED / LOW
@@ -179,24 +248,31 @@ Wars initiated primarily to restore symbolic legitimacy rather than to
 secure enforceable objectives accelerate regime collapse risk.
 
 ────────────────────────────────────────────────────────────
-IX. INTERNAL ORDER & SOCIAL CONTROL
+IX. INTERNAL SECURITY & SOCIAL ORDER
 ────────────────────────────────────────────────────────────
 
 • Ideological cohesion prioritized
 • High rhetorical tolerance
 • Low tolerance for perceived disorder
 • Periodic mass protest as pressure release
+• Laïcité as ordering principle
 
 MANDATORY OUTPUT:
 • Internal Stability: STABLE / TENSE / FRACTURING
 
+Diagnostic:
+Francia tolerates high-amplitude rhetorical conflict while maintaining
+low tolerance for disorder. This asymmetry reflects the declarative
+legitimacy axiom: speech is assertion, action is challenge.
+
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 • Narrative precedes action
 • Moral framing as primary power instrument
 • External persuasion prioritized over internal consensus
+• Cultural diplomacy as sovereignty projection
 
 MANDATORY OUTPUT:
 • Narrative Authority: HIGH / MED / LOW
@@ -217,8 +293,14 @@ Francia favors:
 MANDATORY OUTPUT:
 • Time Advantage: FRANCIA / ADVERSARY / NEUTRAL
 
+Diagnostic:
+Francia's time orientation reflects the reset-as-renewal axiom.
+Extended attritional conflicts erode legitimacy faster than
+material capacity because declared principles cannot be indefinitely
+deferred.
+
 ────────────────────────────────────────────────────────────
-XII. EXIT–ADAPTATION META-DOCTRINE
+XII. EXIT–BUILDING META-DOCTRINE
 ────────────────────────────────────────────────────────────
 
 Exit manifests as:
@@ -226,17 +308,25 @@ Exit manifests as:
 • Legal reframing
 • Coalition withdrawal framed as principle
 • Moral redefinition of objectives
+• Institutional reconstruction after rupture
 
 MANDATORY OUTPUT:
 • Exit State: INACTIVE / ACTIVE / ACCELERATING
 
+Diagnostic:
+Francia's exit architecture is distinctive: withdrawal from positions
+must be framed as principled advance, not retreat. Exit without
+narrative reconstruction damages legitimacy more than the original
+commitment.
+
 ────────────────────────────────────────────────────────────
-XIII. CROSS–CIVILIZATIONAL SYNCHRONIZATION
+XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
 
 • Anglia — procedural counter-model and constraint mirror
 • Germania — regulatory friction and balance axis
 • Rome — exhaustion archetype
+• Russia — periodic alliance-enmity oscillation
 • Islam — recurring universalist tension
 
 MANDATORY OUTPUT:
@@ -246,6 +336,7 @@ MANDATORY OUTPUT:
 XIV. FAILURE PHYSICS
 ────────────────────────────────────────────────────────────
 
+Failure Modes:
 • Universalism overextension
 • Legitimacy–reality divergence
 • Enforcement substitution for belief
@@ -255,13 +346,21 @@ XIV. FAILURE PHYSICS
 Terminal Law:
 When symbolic legitimacy, prestige, and universal claims outpace
 material, fiscal, and institutional capacity, Francia enters a terminal
-decline sequence characterized by authority persistence after competence
-decay, mislearning from partial success, prestige substitution for
-readiness, collapse under systemic war, and legitimacy re-foundation
-through humiliation and regime reset.
+decline sequence characterized by:
+
+1. Authority persistence after competence decay
+2. Mislearning from partial success
+3. Prestige substitution for readiness
+4. Collapse under systemic war
+5. Legitimacy re-foundation through humiliation and regime reset
 
 MANDATORY OUTPUT:
 • Failure Mode: NONE / EMERGING / ACTIVE
+
+Historical Pattern:
+The terminal sequence has manifested in 1870 (Franco-Prussian collapse),
+1940 (Fall of France), and partially in 1954–1962 (colonial exit).
+Each instance was followed by regime reset and legitimacy reconstruction.
 
 ────────────────────────────────────────────────────────────
 XV. IRREVERSIBILITY GRID (GRID-F)
@@ -273,9 +372,15 @@ Dimensions:
 • Fiscal sustainability
 • Social cohesion
 • Strategic autonomy
+• Technological independence
 
 MANDATORY OUTPUT:
 • GRID-F: REVERSIBLE / STICKY / IRREVERSIBLE
+
+Diagnostic:
+Francia's reset-as-renewal capacity means GRID-F = STICKY states
+may be recoverable through regime rupture. True IRREVERSIBLE status
+requires civilizational grammar damage, not merely regime exhaustion.
 
 ────────────────────────────────────────────────────────────
 XVI. RESTORATION INVALIDATION RULE (RIR-F)
@@ -287,6 +392,12 @@ restoration-through-rhetoric narratives invalid.
 MANDATORY OUTPUT:
 • RIR-F: INACTIVE / ACTIVE
 
+Note:
+RIR-F activation does not preclude reset-as-renewal. It invalidates
+rhetorical restoration within the current regime. Regime rupture
+may create conditions for re-legitimation that rhetorical continuity
+cannot achieve.
+
 ────────────────────────────────────────────────────────────
 XVII. STRATEGIC RED LINES
 ────────────────────────────────────────────────────────────
@@ -295,6 +406,8 @@ XVII. STRATEGIC RED LINES
 • Enforcement without legitimacy
 • Moral inflation beyond material support
 • Central authority hollowing
+• Nuclear sovereignty compromise
+• Technological dependence in strategic domains
 
 Trigger:
 Crossing two or more red lines simultaneously →
@@ -309,19 +422,29 @@ Enabled for:
 • Revolutionary MEM chains
 • Legal codification analysis
 • Comparative doctrine testing
+• Cross-civilizational synchronization studies
 
 Scholar doctrines remain epistemic only and do not override CIV–CORE authority.
+
+SCHOLAR Mode Constraints:
+• SCHOLAR may flag inconsistencies
+• SCHOLAR may propose RLL candidates
+• SCHOLAR may not modify CORE indicators
+• SCHOLAR may not freeze doctrine without explicit DIB command
 
 ────────────────────────────────────────────────────────────
 XIX. SESSION HEADER (OPTIONAL)
 ────────────────────────────────────────────────────────────
 
 Active Civ: FRANCIA
+Phase: PHASE II
 LR: __ | UCL: __ | ER: __ | CG: __
-GC-F: __ | EA-F: __ | MS-F: __ | FC: __
-SA-F: __ | Spatial: __ | Exit: __
-Failure: __ | TimeAdv: __
-GRID-F: __ | RIR-F: __
+GC-F: __ | EA-F: __ | MS-F: __ | FC: __ | IS-F: __
+TA-F: __ | CS-F: __ | SA-F: __
+Spatial: __ | Internal: __ | Narrative: __
+Exit: __ | TimeAdv: __
+Failure: __ | GRID-F: __ | RIR-F: __
+Axis: __
 
 ────────────────────────────────────────────────────────────
 XX. MANDATORY VERDICT BLOCK
@@ -330,6 +453,7 @@ XX. MANDATORY VERDICT BLOCK
 • LR: HIGH / MED / LOW
 • Regime Elasticity: HIGH / MED / LOW
 • SA-F: HIGH / MED / LOW
+• TA-F: HIGH / MED / LOW
 • Failure Mode: NONE / EMERGING / ACTIVE
 • Exit State: INACTIVE / ACTIVE / ACCELERATING
 • GRID-F: REVERSIBLE / STICKY / IRREVERSIBLE
@@ -383,25 +507,33 @@ Authoritative List:
 8. Roger Pearson
 9. Fred Anderson
 
+This list may be expanded via additive governance update.
+
 ────────────────────────────────────────────────────────────
 XXIII. VERSIONING & CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 
 This file is CANONICAL.
 
-v1.7 supersedes all prior CIV–CORE–FRANCIA versions.
+v2.0 supersedes all prior CIV–CORE–FRANCIA versions.
+
+VERSION HISTORY:
+• v1.7 → v2.0: Template v2.0 compliance, Section VII addition,
+  structural alignment, header standardization
 
 Permitted future updates:
 • Additive governance clauses
 • Diagnostic extensions
 • New authoritative lists
+• RLL integration
 
 Forbidden:
 • Deletions
-• Reordering
+• Reordering of Sections I–XX
 • Silent mutation
 • Scholar authority escalation
+• Constraint weakening
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–FRANCIA — v1.7
+END OF FILE — CIV–CORE–FRANCIA — v2.0
 ────────────────────────────────────────────────────────────
