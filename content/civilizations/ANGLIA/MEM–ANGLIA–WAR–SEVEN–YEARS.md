@@ -90,7 +90,7 @@ Provenance Confidence: HIGH
 
 ────────────────────────────────────────
 
-PRIMARY SOURCE ANCHOR B — FRED ANDERSON ON IMPERIAL CONSEQUENAD
+PRIMARY SOURCE ANCHOR B — FRED ANDERSON ON IMPERIAL CONSEQUENCES
 
 Source:
 • Fred Anderson, *Crucible of War*

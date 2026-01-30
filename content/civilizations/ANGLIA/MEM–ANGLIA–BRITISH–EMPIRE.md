@@ -1,9 +1,10 @@
-MEM–ANGLIA–BRITISH–EMPIRE — v1.5
+MEM–ANGLIA–BRITISH–EMPIRE — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.5
-Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION
 Civilization: ANGLIA
 Subject: The British Empire (Procedural Empire, System Management, and Controlled Dissolution)
 Dates: 16th century–20th century AD
@@ -57,6 +58,15 @@ imperial expansion is discussed as necessity rather than destiny:
 
 Empire emerges as **accumulation, not declaration**.
 Legitimacy is procedural, not civilizational.
+
+Fred Anderson (*Crucible of War* [2000]) frames the Seven Years’ War as the moment when Britain’s victory “created an empire of unprecedented scale and power”—the structural pivot to the imperial system that later confronts Britons and colonists with governance problems (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Anderson, *Crucible of War* (ARC-T-MODERN):
+> At the same time, the scope of Britain's victory enlarged its American
+> domains to a size that would have been difficult for any European
+> metropolis to control, even under the best of circumstances, and the
+> war created circumstances of the least favorable sort for Whitehall.
+> — Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. MARITIME–FINANCIAL FOUNDATION
@@ -162,7 +172,7 @@ Andrew Roberts notes:
 > “Britain exited empire not because it was forced out violently,
 > but because its governing class concluded that procedural retreat
 > preserved more power than futile resistance.”
-> (*Roberts,* *The History of the English-Speaking Peoples*)
+> — *Andrew Roberts, Churchill: Walking with Destiny*
 
 Loss of empire does not equal civilizational collapse.
 
@@ -262,5 +272,5 @@ X.d STUDENT AGENCY RULE
 • After completion, a new option set MAY be offered.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.5
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.6
 ────────────────────────────────────────────────────────────

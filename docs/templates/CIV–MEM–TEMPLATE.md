@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–MEM–TEMPLATE v2.8
 Upgrade Type: MAJOR STRUCTURAL · THREE-LAYER ARCHITECTURE
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.7+
+Compatibility: CIV–MEM–CORE v2.8+
 Last Update: January 2026
 WORDCOUNT: ~7,500
 
@@ -14,7 +14,7 @@ WORDCOUNT: ~7,500
 UPGRADE NOTE (v2.9) — THREE-LAYER ARCHITECTURE · STRUCTURED DATA
 ────────────────────────────────────────────────────────────
 This version implements the Three-Layer MEM Architecture (TLA)
-from CIV–MEM–CORE v2.7, adding type-specific structured data
+from CIV–MEM–CORE v2.8, adding type-specific structured data
 fields and optional analytical extensions.
 
 NEW REQUIREMENT — THREE-LAYER ARCHITECTURE:
@@ -43,7 +43,7 @@ ENFORCEMENT:
 
 Reference Implementation: MEM–GERMANIA–WAR–NAPOLEON v2.1
 
-See: CIV–MEM–CORE v2.7, Sections XXIV-XXVII
+See: CIV–MEM–CORE v2.8, Sections XXIV-XXVII
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS

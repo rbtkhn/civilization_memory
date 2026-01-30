@@ -5,12 +5,15 @@ Learning–Chronology–Doctrine Journal
 Status: ACTIVE · WRITE-LOCKED
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
+Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I minimal)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
+Civilization Phase: PHASE I (Accumulation)
 
-Derived from: CIV–SCHOLAR–TEMPLATE v1.2
-Governed by: CIV–SCHOLAR–GOVERNANCE–LAW v1.0
+Derived from: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure)
+Governed by: CIV–SCHOLAR–PROTOCOL v2.2
+ARC Reference: CIV–ARC–ANGLIA v1.0
+Last Update: January 2026
 
 Upgrade Type: ADDITIVE EXTENSION (v0.6 → v0.7)
 Upgrade Scope:
@@ -259,7 +262,7 @@ Status:
 • STAGED · NON-BINDING
 
 ────────────────────────────────────────────────────────────
-XI. SCHOLAR → MEM AUTHORING INFLUENAD
+XI. SCHOLAR → MEM AUTHORING INFLUENCE
 ────────────────────────────────────────────────────────────
 Scholar influence is procedural only.
 
@@ -288,7 +291,7 @@ Scholar enforcement is advisory only.
 XIII. TEMPLATE INHERITANCE & CONSTRAINTS
 ────────────────────────────────────────────────────────────
 This file conforms structurally and procedurally to
-CIV–SCHOLAR–TEMPLATE v1.2.
+CIV–SCHOLAR–TEMPLATE v2.10 (Phase I; legacy section map retained).
 
 No sections removed.
 No order altered.

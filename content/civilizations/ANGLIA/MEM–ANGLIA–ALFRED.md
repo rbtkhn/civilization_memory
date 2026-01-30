@@ -1,9 +1,9 @@
-MEM–ANGLIA–ALFRED–WESSEX — v1.3
+MEM–ANGLIA–ALFRED–WESSEX — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE (MEM INGEST BOOTSTRAP · v1.6 COMPLIANCE)
+Version: 1.4
+Upgrade Type: ADDITIVE (Churchill, *History of the English-Speaking Peoples*, Vol. 1 — *The Birth of Britain*)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
@@ -48,10 +48,15 @@ The *Anglo-Saxon Chronicle* records the severity without embellishment:
 > to them for fear.”
 > — *Anglo-Saxon Chronicle*, entry for 878 AD
 
-Winston Churchill frames this period as one in which England survives
-not by victory, but by **refusal to disappear**, noting that Alfred’s
-greatness lies in preservation under annihilating pressure rather than
-expansion.
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), devotes Chapter 7 to Alfred the Great and frames this period as one in which England survives not by victory, but by **refusal to disappear**—Alfred’s greatness lying in preservation under annihilating pressure rather than expansion (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
+> The things that characterize the English-speaking race today put down
+> roots that survived through the convulsions of the Dark Ages. Alfred’s
+> reign is central to that survival: he converted resistance into
+> structure, and made defense repeatable.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), Ch. 7 (ARC-T-MODERN) [ERC-SECONDARY]
+(Verbatim page ref to be added when source is consulted.)
 
 ────────────────────────────────────────────────────────────
 III. DEFENSE AS SYSTEM, NOT EPISODE (PRIMARY + SECONDARY)

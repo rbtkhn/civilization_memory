@@ -25,7 +25,7 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.6
+• CIV–MEM–CORE v2.8
 • CIV–MIND–TEMPLATE v2.5
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY MIND)
 • CIV–SCHOLAR–PROTOCOL v2.2 (OGE INTEGRATION)
@@ -391,7 +391,7 @@ Barnes follows the same pattern.
 ────────────────────────────────────────────────────────────
 III.D PHASE AWARENESS (v1.1)
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–TEMPLATE v2.5 defines three phases:
+CIV–SCHOLAR–TEMPLATE v2.10 defines three phases:
 • Phase I: Accumulation (drafting, hypothesis staging)
 • Phase II: Constraint Grammar (binding RLLs, failure-first reasoning)
 • Phase III: Snapshot (read-only archive)
@@ -415,7 +415,7 @@ Barnes catalyst supports Phase II requirements by surfacing:
 ────────────────────────────────────────────────────────────
 III.E LAYER AWARENESS (v1.1)
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–TEMPLATE v2.5 defines two layers:
+CIV–SCHOLAR–TEMPLATE v2.10 defines two layers:
 • CANONICAL LAYER: MEM-sourced, binding permitted
 • EPHEMERAL LAYER: CEO-sourced, no binding, provisional only
 

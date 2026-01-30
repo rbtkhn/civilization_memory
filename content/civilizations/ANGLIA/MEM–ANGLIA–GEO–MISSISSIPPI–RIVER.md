@@ -1,10 +1,10 @@
-MEM–ANGLIA–GEO–MISSISSIPPI — v1.0
+MEM–ANGLIA–GEO–MISSISSIPPI–RIVER — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
-Subject: Mississippi System (Internal Ocean, Continental Spine, and Power Multiplier)
+Subject: Mississippi River System (Internal Ocean, Continental Spine, and Power Multiplier)
 Dates: 18th century–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -132,5 +132,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–GEO–MISSISSIPPI — v1.0
+END OF FILE — MEM–ANGLIA–GEO–MISSISSIPPI–RIVER — v1.0
 ────────────────────────────────────────────────────────────

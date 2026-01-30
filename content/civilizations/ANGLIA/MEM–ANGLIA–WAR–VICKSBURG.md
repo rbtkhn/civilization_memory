@@ -154,7 +154,7 @@ While Gettysburg stabilizes Union legitimacy symbolically, Vicksburg
 simultaneously secures Union victory materially, together forming the
 war’s decisive dual turning point.
 
-• MEM–ANGLIA–GEO–MISSISSIPPI  
+• MEM–ANGLIA–GEO–MISSISSIPPI–RIVER  
 The campaign operationalizes the Mississippi River as a civilizational
 artery whose control determines continental coherence.
 

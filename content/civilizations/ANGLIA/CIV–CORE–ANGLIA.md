@@ -4,11 +4,19 @@ Procedural–Maritime–Time-Conversion Edition
 (Feasibility–Liquidity–Exit Augmentation)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
-Compatibility: CIV / MEM Architecture
+Version: 1.6
 Supersedes: CIV–CORE–ANGLIA — v1.5
+Upgrade Type: ADDITIVE · GOVERNANCE INTERFACE (DIB, Scholar reference gating)
+Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Dynastic at VI; DIB at XIX; Verdict at XXI. Omitted: Technological/Compute Sovereignty as dedicated section.)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Governed by: CIV–MEM–CORE v2.8
+ARC Reference: CIV–ARC–ANGLIA v1.0
 Conceptual Lineage:
 SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 → v1.5 (preserved verbatim)
+Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
+Last Update: January 2026
+WORDCOUNT: ~1,640
 
 ────────────────────────────────────────────────────────────
 NOTE ON VERSIONING (V1.6)
@@ -259,7 +267,7 @@ MANDATORY OUTPUT:
 • Social Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 • External moral framing
@@ -335,7 +343,7 @@ Germania’s execution capacity.
 
 [V1.5 — EXPLICIT LINKAGE]
 Anglia’s feasibility-governor function directly counters:
-DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENAD
+DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENCE
 (CIV–DOCTRINE–FRANCIA v1.0)
 
 ────────────────────────────────────────────────────────────

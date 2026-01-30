@@ -1,14 +1,16 @@
-MEM–ANGLIA–WAR–ENGLISH–CIVIL — v1.0
+MEM–ANGLIA–WAR–ENGLISH–CIVIL — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · HEALEY THE BLAZING WORLD INTEGRATION
 Civilization: ANGLIA
 Subject: English Civil War (Procedure vs Personal Rule)
 Dates: 1642–1651 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -38,6 +40,8 @@ The core question:
 → Does authority reside in the Crown’s person or in lawful procedure?
 
 This question is not yet settled institutionally.
+
+Jonathan Healey (*The Blazing World: A New History of Revolutionary England, 1603–1689* [2023]) treats the civil war as part of a “truly revolutionary” period: political rupture alongside social and intellectual ferment, with new ideas of authority and consent emerging from London’s coffeehouses and alehouses. The war is both institutional experiment and legitimacy crisis (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. PARLIAMENT VS CROWN AS LEGITIMACY CLAIM
@@ -71,6 +75,10 @@ Developments:
 
 For the first time, Anglia experiments with
 **armed procedure** rather than dynastic loyalty.
+
+SOURCE — Healey, *The Blazing World* (ARC-T-MODERN):
+> [Insert verbatim quote from Jonathan Healey, *The Blazing World: A New History of Revolutionary England, 1603–1689* (2023), ≥25 words. Suggested: passage on the New Model Army, regicide as rupture, or civil war as revolutionary moment.]
+> — Healey, *The Blazing World* (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 V. REGICIDE & PROCEDURAL BREAK
@@ -157,8 +165,11 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES (SELECTED)
+XI. PRIMARY SOURCES & MODERN SYNTHESIS (SELECTED)
 ────────────────────────────────────────────────────────────
+• Jonathan Healey, *The Blazing World: A New History of Revolutionary England, 1603–1689* (2023)  
+  ARC-T-MODERN [ERC-SECONDARY] — narrative synthesis; revolutionary period; procedure vs person; see SOURCE blocks in §§ II, IV.
+
 • Charles I, *Answer to the Nineteen Propositions* (1642)  
   Confidence: HIGH — explicit royal prerogative claim
 
@@ -183,7 +194,7 @@ XII. CROSS-REFERENCED MEM FILES
 • MEM–ANGLIA–DYNASTY–STUART  
   (Dynastic context of legitimacy conflict)
 
-• MEM–ANGLIA–PERSON–CROMWELL  
+• MEM–ANGLIA–CROMWELL
   (Military authority substituting for civil continuity)
 
 Cross-references denote lineage, not equivalence.
@@ -212,11 +223,11 @@ Why it failed:
 Anglia chooses repair over reinvention.
 
 ────────────────────────────────────────────────────────────
-XV. TEMPORAL COMPRESSION NOTIAD
+XV. TEMPORAL COMPRESSION NOTE
 ────────────────────────────────────────────────────────────
 This file emphasizes **legitimacy mechanics** over campaign detail,
 compressing events to foreground civilizational learning.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–ENGLISH–CIVIL v1.0
+END OF FILE — MEM–ANGLIA–WAR–ENGLISH–CIVIL v1.1
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,9 @@
 # AUDIT — Governance & Template Alignment
 
-**Date:** 2026-01-29  
+**Date:** 2026-01-30  
 **Scope:** All governance and template files in `docs/governance/` and `docs/templates/`  
-**Purpose:** Version binding consistency, cross-reference alignment, structural coherence (post-CCM v2.8)  
-**Supersedes:** Previous AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT (pre-CCM)
+**Purpose:** Version binding consistency, cross-reference alignment, structural coherence (anchored on CIV–MEM–CORE v2.8)  
+**Supersedes:** AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT 2026-01-29
 
 ---
 
@@ -11,15 +11,32 @@
 
 | Status | Count |
 |--------|--------|
-| **ALIGNED** (declared = actual, refs current) | Governance/template core bindings |
-| **MINOR MISALIGNMENT** (stale cross-refs) | 4 |
-| **STRUCTURAL** | CORE § XXIV–XXIX reflected in templates |
+| **ALIGNED** (declared = actual, refs current) | Core governance + all templates |
+| **MINOR MISALIGNMENT** (stale body refs only) | 2 |
+| **STRUCTURAL** | CORE § XXIII–XXVIII reflected in templates |
 
-**Summary:** VERSION–MANIFEST and CMC–BOOTSTRAP bindings match current file versions (CORE v2.8, BOOTSTRAP v2.13). Four cross-references still cite older CORE or SCHOLAR–TEMPLATE versions; fixing them improves clarity. No governance–template structural conflict.
+**Summary:** Alignment is anchored on **CIV–MEM–CORE v2.8**. VERSION–MANIFEST § II/III/VI and CMC–BOOTSTRAP VERSION BINDINGS match current file versions. The four cross-reference fixes from the 2026-01-29 audit (Quick Binding, CMC–BOOTSTRAP SAP ref, CIV–MIND–BARNES Compatibility, CIV–DOCTRINE–TEMPLATE parenthetical) are **already applied**. Two remaining items: **CIV–MIND–BARNES** body text at III.D and III.E still cites "CIV–SCHOLAR–TEMPLATE v2.5" (should be v2.10 for consistency). One audit-doc typo: "XXIX" → **XXIII** (Canonical Status in CORE). No governance–template structural conflict.
 
 ---
 
-## II. ACTUAL FILE VERSIONS (SOURCE OF TRUTH)
+## II. ANCHOR: CIV–MEM–CORE v2.8
+
+CIV–MEM–CORE is the system preload and authority for:
+
+- **VP-1:** MIND governance (identity, fingerprint, blend law, Barnes catalyst)
+- **XXII:** Scholarly Authority Protocol (SAP)
+- **XXIII:** Canonical Status
+- **XXIV:** Three-Layer MEM Architecture (TLA)
+- **XXV:** Structured Data Governance
+- **XXVI:** Synthesis Validation Protocol
+- **XXVII:** Intelligence Tradecraft Integration (ITI)
+- **XXVIII:** Cross-Civilizational Misperception (CCM)
+
+All governance and template alignment is verified against these sections and the version bindings declared in CORE (CIV–MIND–TEMPLATE v2.5, MERCOURIS/MEARSHEIMER v2.6).
+
+---
+
+## III. ACTUAL FILE VERSIONS (SOURCE OF TRUTH)
 
 | File | Header/Footer Version | Location |
 |------|-----------------------|----------|
@@ -42,7 +59,7 @@
 
 ---
 
-## III. VERSION–MANIFEST vs ACTUAL
+## IV. VERSION–MANIFEST vs ACTUAL
 
 | Document | VERSION–MANIFEST § II/III | Actual (file header) | Status |
 |----------|---------------------------|------------------------|--------|
@@ -53,79 +70,78 @@
 | CIV–SCHOLAR–GERMANIA | v2.12 | (content) v2.12 | ✓ Aligned |
 | MIND / other templates | As listed | As above | ✓ Aligned |
 
-**Verdict:** Manifest Section II and III match current file versions.
+**Verdict:** Manifest Section II and III match current file versions. § VI Quick Binding declares CIV–MEM–CORE v2.8 — **aligned**.
 
 ---
 
-## IV. CROSS-REFERENCE MISALIGNMENTS (STALE REFS)
+## V. CROSS-REFERENCE STATUS
 
-### 1. VERSION–MANIFEST § VI Quick Binding
+### Previously flagged (2026-01-29) — NOW VERIFIED
 
-| Location | Current | Should be |
-|----------|---------|-----------|
-| VI Quick Binding declaration | CIV–MEM–CORE v2.7 | CIV–MEM–CORE v2.8 |
+| Item | Then | Now |
+|------|------|-----|
+| VERSION–MANIFEST § VI Quick Binding | v2.7 → v2.8 | ✓ **v2.8** (fixed) |
+| CMC–BOOTSTRAP SAP "See:" | v2.7 → v2.8 | ✓ **v2.8** (fixed) |
+| CIV–MIND–BARNES Compatibility | v2.9 → v2.10 | ✓ **v2.10** (fixed) |
+| CIV–DOCTRINE–TEMPLATE line 25 | v2.9 → v2.10 | ✓ **v2.10** (fixed) |
 
-### 2. CMC–BOOTSTRAP
-
-| Location | Current | Should be |
-|----------|---------|-----------|
-| See: SAP (full protocol) | CIV–MEM–CORE v2.7 | CIV–MEM–CORE v2.8 |
-
-### 3. CIV–MIND–BARNES
+### Remaining minor (body text only)
 
 | Location | Current | Should be |
 |----------|---------|-----------|
-| Compatibility / ALIGNED | CIV–SCHOLAR–TEMPLATE v2.9 | CIV–SCHOLAR–TEMPLATE v2.10 |
-| CIV–MEM–CORE (optional) | v2.6 | v2.8 (or leave v2.6 as minimum) |
+| CIV–MIND–BARNES III.D (Phase Awareness) | "CIV–SCHOLAR–TEMPLATE v2.5 defines three phases" | v2.10 |
+| CIV–MIND–BARNES III.E (Layer Awareness) | "CIV–SCHOLAR–TEMPLATE v2.5 defines two layers" | v2.10 |
 
-### 4. CIV–DOCTRINE–TEMPLATE
+**Note:** CIV–MIND–BARNES Compatibility block and Governed-by already cite v2.10 / v2.6. Only the descriptive body text in III.D and III.E is stale; updating improves consistency.
 
-| Location | Current | Should be |
-|----------|---------|-----------|
-| Line 25 (parenthetical) | CIV–SCHOLAR–TEMPLATE v2.9 | CIV–SCHOLAR–TEMPLATE v2.10 |
+### Optional (clarity only)
 
-**Note:** CIV–MIND–* references to CIV–MEM–CORE v2.6 are backward-compatible (v2.8 satisfies). Optional to bump to v2.8 for clarity; not required.
+| Location | Current | Optional |
+|----------|---------|----------|
+| CIV–MEM–TEMPLATE Compatibility / See | CIV–MEM–CORE v2.7+ | v2.8+ |
+| CIV–SCHOLAR–TEMPLATE See | CIV–MEM–CORE v2.7 | v2.8 |
+| CIV–MIND–BARNES Governed by | CIV–MEM–CORE v2.6 | v2.8 |
+
+v2.8 satisfies all "v2.6" and "v2.7+" minimums; no mandatory change.
 
 ---
 
-## V. CROSS-REFERENCE ALIGNMENT (TEMPLATES → CORE)
+## VI. CROSS-REFERENCE ALIGNMENT (TEMPLATES → CORE)
 
 | File | References CIV–MEM–CORE | Status |
 |------|--------------------------|--------|
-| CIV–MEM–TEMPLATE | v2.7+ (Compatibility, Sections XXIV–XXVII) | ✓ v2.8 satisfies; optional v2.8+ |
+| CIV–MEM–TEMPLATE | v2.7+ (Compatibility, Sections XXIV–XXVII) | ✓ v2.8 satisfies |
 | CIV–SCHOLAR–TEMPLATE | v2.7+ (Compatibility, ITI XXVI–XXVII) | ✓ v2.8 satisfies |
-| CIV–MIND–* (MERCOURIS, MEARSHEIMER, BARNES, TEMPLATE) | v2.6 | ✓ v2.8 satisfies (min) |
+| CIV–MIND–* (MERCOURIS, MEARSHEIMER, BARNES, TEMPLATE) | v2.6 (min) | ✓ v2.8 satisfies |
 | CIV–DOCTRINE–TEMPLATE | v2.0+ | ✓ Aligned |
 | CIV–INDEX–TEMPLATE | v2.2+ · MEM–TEMPLATE v2.8+ · SCHOLAR v2.5 | ✓ Aligned |
 | CIV–CORE–TEMPLATE | v2.2+ | ✓ Aligned |
 
-No mandatory change for "v2.6" or "v2.7+" references; CORE v2.8 is backward compatible.
-
 ---
 
-## VI. STRUCTURAL ALIGNMENT (CORE → TEMPLATES)
+## VII. STRUCTURAL ALIGNMENT (CORE → TEMPLATES)
 
-- **CIV–MEM–CORE v2.8** defines: TLA (XXIV), Structured Data (XXV), Synthesis Validation (XXVI), ITI (XXVII), **CCM (XXVIII)**, Canonical Status (XXIX).
-- **CIV–MEM–TEMPLATE v2.9** implements TLA and references CIV–MEM–CORE v2.7 Sections XXIV–XXVII. **Aligned.** (CCM § XXVIII is governance stance; no template field change.)
-- **CIV–SCHOLAR–TEMPLATE v2.10** implements Synthesis Tradecraft (Assumptions Box, ACH) and references CIV–MEM–CORE v2.7 XXVI–XXVII. **Aligned.**
+- **CIV–MEM–CORE v2.8** defines: SAP (XXII), Canonical Status **(XXIII)**, TLA (XXIV), Structured Data (XXV), Synthesis Validation (XXVI), ITI (XXVII), CCM (XXVIII).
+- **CIV–MEM–TEMPLATE v2.9** implements TLA and references CORE Sections XXIV–XXVII. **Aligned.** (CCM § XXVIII is governance stance; no template field change.)
+- **CIV–SCHOLAR–TEMPLATE v2.10** implements Synthesis Tradecraft (Assumptions Box, ACH) and references CORE XXVI–XXVII. **Aligned.**
 - **CMC–BOOTSTRAP v2.13** and **cmc-tri-frame-protocol** reference CCM § XXVIII. **Aligned.**
 
----
-
-## VII. RECOMMENDED FIXES
-
-1. **VERSION–MANIFEST § VI:** Update Quick Binding declaration to CIV–MEM–CORE v2.8.
-2. **CMC–BOOTSTRAP:** Update "See: CIV–MEM–CORE v2.7" to v2.8 (SAP section).
-3. **CIV–MIND–BARNES:** Update CIV–SCHOLAR–TEMPLATE v2.9 → v2.10 in Compatibility/ALIGNED.
-4. **CIV–DOCTRINE–TEMPLATE:** Update line 25 parenthetical CIV–SCHOLAR–TEMPLATE v2.9 → v2.10.
-
-Optional (clarity only): CIV–MIND–* and CIV–MEM–TEMPLATE / CIV–SCHOLAR–TEMPLATE references to CORE v2.6/v2.7 → v2.8 (or v2.8+). Not required for correctness.
+*(Corrected: Canonical Status is Section **XXIII** in CORE, not XXIX.)*
 
 ---
 
-## VIII. POST-AUDIT BINDING DECLARATION
+## VIII. RECOMMENDED FIXES
 
-After fixes, session startup should declare:
+1. **CIV–MIND–BARNES:** In III.D and III.E, update "CIV–SCHOLAR–TEMPLATE v2.5" to **v2.10** (defines three phases / defines two layers).
+2. **This audit doc:** Section VII (and any prior copy) — use **XXIII** for Canonical Status; CORE has no section XXIX.
+
+Optional clarity bumps (applied 2026-01-30): CIV–MEM–TEMPLATE and CIV–SCHOLAR–TEMPLATE "v2.7" → "v2.8"; CIV–MIND–BARNES "Governed by CIV–MEM–CORE v2.6" → v2.8.
+
+---
+
+## IX. POST-AUDIT BINDING DECLARATION
+
+Session startup should declare:
 
 ```
 Bound by:
@@ -139,4 +155,4 @@ Bound by:
 
 ---
 
-END OF AUDIT — 2026-01-29 (Governance & Template Alignment)
+END OF AUDIT — 2026-01-30 (Governance & Template Alignment; anchor CIV–MEM–CORE v2.8)

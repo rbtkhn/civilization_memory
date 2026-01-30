@@ -1,9 +1,9 @@
-MEM–ANGLIA–MAGNA–CARTA — v1.4
+MEM–ANGLIA–MAGNA–CARTA — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Hardened Source Compliance · Primary Anchors · Distinguished Scholar Rule — ANGLIA)
+Version: 1.6
+Upgrade Type: ADDITIVE (Shakespeare *King John* — possession vs right, literary evidence)
 Civilization: ANGLIA
 Subject: Magna Carta (Constraint Without Democracy)
 Dates: 1215 AD–present (derivative influence)
@@ -66,6 +66,27 @@ They are **procedural guarantees for stakeholders with leverage**.
 But the form matters more than the scope.
 
 Once written, constraint can be cited.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), Ch. 15, frames Magna Carta as the moment when “government must…mean something more than the arbitrary rule of any man, and custom and the law must stand even above the King” (253). The Charter contained “a system of checks and balances which would accord the monarchy its necessary strength but would prevent its perversion by a tyrant or a fool” (253). From this doctrine, Churchill writes, appeal has been made again and again when the State has attempted to ride roughshod over the rights or liberties of the subject—“and never, as yet, without success” (257) (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
+> Government must…mean something more than the arbitrary rule of any
+> man, and custom and the law must stand even above the King.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), 253 (ARC-T-MODERN) [ERC-SECONDARY]
+
+> When in subsequent ages the State, swollen with its own authority,
+> has attempted to ride roughshod over the rights or liberties of the
+> subject it is to this doctrine that appeal has again and again been
+> made, and never, as yet, without success.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), 257 (ARC-T-MODERN) [ERC-SECONDARY]
+
+Shakespeare’s *King John* encodes the tension between strong possession
+and right that underlies baronial coercion: constraint is forced when
+claim outstrips consent.
+
+SOURCE — *King John*, 1.1 (literary) [ERC-SECONDARY]:
+> Your strong possession much more than your right.
+> — William Shakespeare, *King John*, 1.1 (literary) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 IV. PRIMARY SOURCE ANCHORS (HARDENED COMPLIANCE)
@@ -187,8 +208,7 @@ Treats Magna Carta as foundational precedent rather than democratic
 manifesto.
 
 • **Winston Churchill**  
-Describes Magna Carta as the “foundation stone of liberty,” emphasizing
-constraint and continuity rather than popular rule.
+*The Birth of Britain* (1956), Ch. 15: “government must…mean something more than the arbitrary rule of any man, and custom and the law must stand even above the King” (253); appeal to this doctrine “never, as yet, without success” (257).
 
 • **Carroll Quigley**  
 Frames Magna Carta as an early institutional mechanism limiting power,
@@ -261,5 +281,5 @@ This file is CANONICAL and compliant with:
 • Pedagogical durability requirements
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–MAGNA–CARTA — v1.4
+END OF FILE — MEM–ANGLIA–MAGNA–CARTA — v1.5
 ────────────────────────────────────────────────────────────

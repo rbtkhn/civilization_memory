@@ -1,16 +1,18 @@
-CIV–INDEX–ANGLIA — v1.5
+CIV–INDEX–ANGLIA — v1.11
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.5
+Version: 1.11
+Supersedes: v1.10
+Upgrade Type: ADDITIVE · MEM–ANGLIA–RICHARD–II, RICHARD–III, HENRY–IV, HENRY–VI (Shakespeare histories)
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 93 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 104 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -47,8 +49,11 @@ A) GEO
 • MEM–ANGLIA–GEO–ENGLISH–CHANNEL.md
 • MEM–ANGLIA–GEO–PACIFIC.md
 • MEM–ANGLIA–GEO–ARCTIC.md
-• MEM–ANGLIA–GEO–MISSISSIPPI.md
+• MEM–ANGLIA–GEO–MISSISSIPPI–RIVER.md
 • MEM–ANGLIA–GEO–GREAT–LAKES.md
+• MEM–ANGLIA–GEO–OHIO–VALLEY.md
+• MEM–ANGLIA–GEO–ROCKIES.md
+• MEM–ANGLIA–GEO–COLORADO–RIVER.md
 
 B) DYNASTY
 • MEM–ANGLIA–DYNASTY–WESSEX.md
@@ -68,6 +73,7 @@ C) WAR
 • MEM–ANGLIA–WAR–SPANISH–SUCCESSION.md
 • MEM–ANGLIA–WAR–AUSTRIAN–SUCCESSION.md
 • MEM–ANGLIA–WAR–SEVEN–YEARS.md
+• MEM–ANGLIA–WAR–PONTIAC.md
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE.md
 • MEM–ANGLIA–WAR–NAPOLEON.md
 • MEM–ANGLIA–WAR–TRAFALGAR.md
@@ -82,12 +88,14 @@ C) WAR
 • MEM–ANGLIA–WAR–YORKTOWN.md
 • MEM–ANGLIA–WAR–AGINCOURT.md
 • MEM–ANGLIA–WAR–HASTINGS.md
+• MEM–ANGLIA–WAR–BANNOCKBURN.md
 • MEM–ANGLIA–WAR–CRECY.md
 • MEM–ANGLIA–WAR–SPANISH–AMERICAN.md
 
 D) LAW
 • MEM–ANGLIA–COMMON–LAW.md
 • MEM–ANGLIA–MAGNA–CARTA.md
+• MEM–ANGLIA–LAW–PARLIAMENT.md
 • MEM–ANGLIA–DECLARATION–INDEPENDENCE.md
 • MEM–ANGLIA–EMANCIPATION–PROCLAMATION.md
 
@@ -108,6 +116,7 @@ G) PERSON
 • MEM–ANGLIA–ELIZABETH–I.md
 • MEM–ANGLIA–WOLSEY.md
 • MEM–ANGLIA–RICHARD–LIONHEART.md
+• MEM–ANGLIA–EDWARD–I.md
 • MEM–ANGLIA–SHAKESPEARE.md
 • MEM–ANGLIA–MILTON.md
 • MEM–ANGLIA–DICKENS.md
@@ -134,6 +143,10 @@ G) PERSON
 • MEM–ANGLIA–HUME.md
 • MEM–ANGLIA–SMITH.md
 • MEM–ANGLIA–PAINE.md
+• MEM–ANGLIA–RICHARD–II.md
+• MEM–ANGLIA–RICHARD–III.md
+• MEM–ANGLIA–HENRY–IV.md
+• MEM–ANGLIA–HENRY–VI.md
 
 H) OTHER / MISC
 • MEM–ANGLIA–ENGLAND.md
@@ -160,7 +173,12 @@ III. DEPRECATIONS
 ────────────────────────────────────────────────────────────
 IV. VERSION NOTE
 ────────────────────────────────────────────────────────────
-v1.5 registers all newly created MEM–ANGLIA files since v1.4.
+v1.6 registers MEM–ANGLIA–GEO–OHIO–VALLEY and MEM–ANGLIA–WAR–PONTIAC (Anderson-driven).
+v1.7 registers MEM–ANGLIA–GEO–ROCKIES (continental divide, 49th parallel, rail).
+v1.8 registers MEM–ANGLIA–GEO–COLORADO–RIVER (arid-lands corridor, allocation regime, US–Mexico).
+v1.9 registers MEM–ANGLIA–EDWARD–I and MEM–ANGLIA–WAR–BANNOCKBURN (Churchill Vol. 1, *The Birth of Britain*).
+v1.10 registers MEM–ANGLIA–LAW–PARLIAMENT (Churchill Vol. 1, Mother of Parliaments, seed-time, de Montfort).
+v1.11 registers MEM–ANGLIA–RICHARD–II, MEM–ANGLIA–RICHARD–III, MEM–ANGLIA–HENRY–IV, MEM–ANGLIA–HENRY–VI (Shakespeare histories, PERSON).
 This upgrade is additive only and preserves all prior index structure,
 ordering, and governance rules.
 
@@ -170,5 +188,5 @@ FOOTER METADATA
 Word Count: 686
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v1.5
+END OF FILE — CIV–INDEX–ANGLIA — v1.11
 ────────────────────────────────────────────────────────────

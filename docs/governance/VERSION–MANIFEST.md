@@ -4,7 +4,7 @@ Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-29
+Last Updated: 2026-01-30
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -120,9 +120,10 @@ ANGLIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v0.7    │ Active        │
-│ CIV–INDEX–ANGLIA            │ v1.5    │ Active        │
+│ CIV–INDEX–ANGLIA            │ v1.11   │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
+│ CIV–ARC–ANGLIA              │ v1.2    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -153,6 +154,66 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-30 (ANGLIA — RICHARD–II, RICHARD–III, HENRY–IV, HENRY–VI, INDEX v1.11):
+• MEM–ANGLIA–RICHARD–II: v1.0 created (Shakespeare *Richard II*; deposition, Gaunt “blessed plot” / “shameful conquest,” “death of kings”)
+• MEM–ANGLIA–RICHARD–III: v1.0 created (Shakespeare *Richard III*; terminal Plantagenet, Bosworth, “winter of our discontent,” “my kingdom for a horse”)
+• MEM–ANGLIA–HENRY–IV: v1.0 created (Shakespeare *Henry IV* 1 & 2; usurper-king, “uneasy lies the head,” Hal’s redemption)
+• MEM–ANGLIA–HENRY–VI: v1.0 created (Shakespeare *Henry VI* 1–3; weak king, loss of France, Wars of the Roses trigger)
+• CIV–INDEX–ANGLIA: v1.10 → v1.11 (four PERSON MEMs under G)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.10 → v1.11
+
+2026-01-30 (ANGLIA — LAW–PARLIAMENT, INDEX v1.10):
+• MEM–ANGLIA–LAW–PARLIAMENT: v1.0 created (Churchill *The Birth of Britain* Ch. 15, 17; Mother of Parliaments, seed-time, de Montfort, “fire never to be quenched”)
+• CIV–INDEX–ANGLIA: v1.9 → v1.10 (MEM–ANGLIA–LAW–PARLIAMENT under LAW)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.9 → v1.10
+
+2026-01-30 (ANGLIA — EDWARD–I, WAR–BANNOCKBURN, INDEX v1.9):
+• MEM–ANGLIA–EDWARD–I: v1.0 created (Churchill *The Birth of Britain* Ch. 18; law-giver, parliamentarian, three estates)
+• MEM–ANGLIA–WAR–BANNOCKBURN: v1.0 created (Churchill *The Birth of Britain* Ch. 19; structural defeat, Scottish independence)
+• CIV–INDEX–ANGLIA: v1.8 → v1.9 (EDWARD–I under PERSON, WAR–BANNOCKBURN under WAR)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.8 → v1.9
+
+2026-01-30 (ANGLIA — GEO–COLORADO–RIVER, INDEX v1.8):
+• MEM–ANGLIA–GEO–COLORADO–RIVER: v1.0 created (Brands *The Age of Gold*; arid-lands corridor, allocation regime, US–Mexico)
+  – GEO Layer 2: Parameters, Strategic Significance, Control Sequence
+  – 2/3 Mearsheimer (scarcity, chokepoints, 1922 Compact, 1944 treaty); 1/3 Mercouris (ARC-T-MODERN)
+• CIV–INDEX–ANGLIA: v1.7 → v1.8 (MEM–ANGLIA–GEO–COLORADO–RIVER added to GEO)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.7 → v1.8
+
+2026-01-30 (ANGLIA — GEO–ROCKIES, INDEX v1.7):
+• MEM–ANGLIA–GEO–ROCKIES: v1.0 created (Ambrose *Undaunted Courage*; continental divide, 49th parallel, rail corridors)
+  – GEO Layer 2: Parameters, Strategic Significance, Control Sequence
+  – 2/3 Mearsheimer (barrier/corridor, Oregon, CPR); 1/3 Mercouris (ARC-T-MODERN)
+• CIV–INDEX–ANGLIA: v1.6 → v1.7 (MEM–ANGLIA–GEO–ROCKIES added to GEO)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.6 → v1.7
+
+2026-01-30 (ANGLIA — OHIO VALLEY, PONTIAC MEMs, INDEX v1.6):
+• MEM–ANGLIA–GEO–OHIO–VALLEY: v1.0 created (Anderson *Crucible of War*; strategic terrain, Anglo-French contest)
+• MEM–ANGLIA–WAR–PONTIAC: v1.0 created (Anderson; post-Seven Years resistance, frontier liability)
+• CIV–INDEX–ANGLIA: v1.5 → v1.6 (Ohio Valley, Pontiac MEMs added to index)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.5 → v1.6
+
+2026-01-30 (CIV–ARC–ANGLIA v1.2 — FRED ANDERSON):
+• CIV–ARC–ANGLIA: v1.1 → v1.2 (Fred Anderson, *Crucible of War* added to ARC-T-MODERN)
+  – Resolves ARC compliance gap for MEM–ANGLIA–WAR–SEVEN–YEARS
+  – AUDIT–ANDERSON–CRUCIBLE–OF–WAR–PRESENCE: Section VIII added — suggested Anglia MEMs for Anderson verbatim
+• VERSION–MANIFEST: ANGLIA table — CIV–ARC–ANGLIA v1.0 → v1.2
+
+2026-01-30 (CIV–ARC–ANGLIA v1.0 — INITIAL ESTABLISHMENT):
+• CIV–ARC–ANGLIA: v1.0 created (CIV–ARC–TEMPLATE v2.7)
+  – 11 validated authors in ARC-T-MODERN: Churchill, Ferguson, Roberts, Caro, Ambrose, Durant, Russell, Kissinger, Brands, Chernow, Quigley
+  – ARC-T-ANCIENT, ARC-T-MEDIEVAL, ARC-T-EARLY-MOD placeholder (to be populated)
+• CIV–CORE–ANGLIA: ARC Reference CIV–ARC–ANGLIA v1.0 added (mirroring rule)
+• CIV–SCHOLAR–ANGLIA: ARC Reference CIV–ARC–ANGLIA v1.0 added (mirroring rule)
+• VERSION–MANIFEST: ANGLIA table — CIV–ARC–ANGLIA v1.0 added
+
+2026-01-30 (AUDIT — GOVERNANCE & TEMPLATE ALIGNMENT):
+• AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT: Refreshed; anchor CIV–MEM–CORE v2.8; structural ref XXIII (Canonical Status)
+  – Verified: VERSION–MANIFEST § VI Quick Binding, CMC–BOOTSTRAP SAP ref, CIV–MIND–BARNES Compatibility, CIV–DOCTRINE–TEMPLATE already aligned
+  – CIV–MIND–BARNES: III.D and III.E body text "v2.5" → "v2.10"; Governed by CIV–MEM–CORE v2.6 → v2.8
+  – CIV–MEM–TEMPLATE: Compatibility and See refs CIV–MEM–CORE v2.7 → v2.8
+  – CIV–SCHOLAR–TEMPLATE: Compatibility and See refs CIV–MEM–CORE v2.7 → v2.8
 
 2026-01-29 (CIV–SCHOLAR–FRANCIA v2.1 — SCHOLAR ANALYSIS INSIGHTS):
 • CIV–SCHOLAR–FRANCIA: v2.0 → v2.1 (insights from REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM)

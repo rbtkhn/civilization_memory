@@ -1,13 +1,17 @@
-Title: MEM–ANGLIA–DYNASTY–STUART
+MEM–ANGLIA–DYNASTY–STUART — v1.1
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · HEALEY THE BLAZING WORLD INTEGRATION
 Civilization: ANGLIA
 Regime Type: PERSONAL MONARCHY / CONSTITUTIONAL STRESS
 Subject: House of Stuart
 Dates: 1603–1714 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -32,6 +36,8 @@ Structural novelty:
 → One monarch, multiple kingdoms.
 
 The union was **personal, not institutional**, embedding future fracture.
+
+Jonathan Healey (*The Blazing World: A New History of Revolutionary England, 1603–1689* [2023]) frames the full Stuart period as genuinely revolutionary: not only civil war and regicide but far-reaching social and intellectual change, with new political ideas emerging from London’s coffeehouses and alehouses. Sovereignty crisis and institutional mismatch are central to his narrative (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. SOVEREIGNTY DOCTRINE
@@ -106,6 +112,10 @@ Outcome:
 
 The Stuarts ended as **a solved constitutional problem**.
 
+SOURCE — Healey, *The Blazing World* (ARC-T-MODERN):
+> [Insert verbatim quote from Jonathan Healey, *The Blazing World: A New History of Revolutionary England, 1603–1689* (2023), ≥25 words. Suggested: passage on Stuart failure to adapt sovereignty, or on 1688 as close of the revolutionary period.]
+> — Healey, *The Blazing World* (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -118,5 +128,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DYNASTY–STUART v1.0
+END OF FILE — MEM–ANGLIA–DYNASTY–STUART v1.1
 ────────────────────────────────────────────────────────────

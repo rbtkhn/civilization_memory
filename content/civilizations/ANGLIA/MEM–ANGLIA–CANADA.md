@@ -1,14 +1,16 @@
-MEM–ANGLIA–CANADA — v1.0
+MEM–ANGLIA–CANADA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION
 Civilization: ANGLIA
 Subject: Canada (Procedural Continuity State, Loyalist Absorber, and Managed Autonomy Model)
 Dates: 1763 AD–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -20,6 +22,15 @@ rather than ideological separation.
 Canada is Anglia’s proof that **evolution can substitute for rebellion**.
 
 Contradictions are preserved without synthesis.
+
+Fred Anderson (*Crucible of War* [2000]) centers British North America and the fate of empire in the Seven Years’ War and its aftermath; the conquest of Canada (1759–1763) and its retention at the peace establish Anglia’s North American continuity—the territorial base that later becomes the loyalist refuge and procedural alternative to revolution (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Anderson, *Crucible of War* (ARC-T-MODERN):
+> I argue that the war's progression, from its early years of French
+> predominance to its climax in the Anglo-American conquest of Canada,
+> and particularly in its protraction beyond 1760, set in motion the
+> forces that created a hollow British empire.
+> — Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 II. LOYALIST FOUNDATION

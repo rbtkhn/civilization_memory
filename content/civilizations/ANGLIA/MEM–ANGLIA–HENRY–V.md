@@ -1,9 +1,9 @@
-/// MEM–ANGLIA–HENRY–V — v1.1
+/// MEM–ANGLIA–HENRY–V — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules · Distinguished Scholar Rule)
+Version: 1.3
+Upgrade Type: ADDITIVE (Shakespeare *Henry V* — St Crispin’s Day, literary evidence)
 Civilization: ANGLIA
 Regime / Mode: Lancastrian Kingship
 Subject: Henry V
@@ -40,10 +40,12 @@ Henry inherits a damaged polity:
 War becomes the solvent of doubt: it permits legitimacy to be displayed
 externally rather than argued internally.
 
-Winston Churchill treats Henry V as a ruler who “gathered the realm”
-through outward exertion—less a constitutional repairman than a
-disciplined commander who makes unity feel obvious by making the state
-feel capable.
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), Ch. 25 (“The Empire of Henry V”), treats Henry V as a ruler who “gathered the realm” through outward exertion—less a constitutional repairman than a disciplined commander who makes unity feel obvious by making the state feel capable. Churchill describes Agincourt as “the most heroic of all the land battles England has ever fought” (I 404) (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
+> Agincourt was the most heroic of all the land battles England has
+> ever fought.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), 404 (ARC-T-MODERN) [ERC-SECONDARY]
 
 Henry’s own administrative voice, in wartime correspondence, reveals the
 polity-management function of war: obedience, discipline, and cohesion
@@ -105,6 +107,18 @@ by making the regime appear *necessary* rather than merely lawful.
 In the Henry V case, the victory’s political function is later enlarged
 by the diplomatic architecture it enables—above all, the move toward
 French succession claims formalized in treaty language.
+
+Shakespeare’s *Henry V* encodes this moment as legitimacy-through-brotherhood:
+the St Crispin’s Day speech compresses discipline, honour, and shared
+risk into a civilizational formula—the king who gentles his soldiers by
+shedding blood with them.
+
+SOURCE — Shakespeare, *Henry V*, 4.3 (literary) [ERC-SECONDARY]:
+> We few, we happy few, we band of brothers;
+> For he to-day that sheds his blood with me
+> Shall be my brother; be he ne’er so vile,
+> This day shall gentle his condition.
+> — William Shakespeare, *Henry V*, 4.3 (literary) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 V. LIMITED ABSOLUTISM AND LEGAL FORMS (PRIMARY + SECONDARY)
@@ -247,5 +261,5 @@ This file is CANONICAL and compliant with:
 • Distinguished Scholar Rule (ANGLIA)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–HENRY–V — v1.1
+END OF FILE — MEM–ANGLIA–HENRY–V — v1.3
 ────────────────────────────────────────────────────────────

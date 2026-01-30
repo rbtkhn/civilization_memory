@@ -1,8 +1,9 @@
-MEM–ANGLIA–ENGLAND — v1.0
+MEM–ANGLIA–ENGLAND — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE (Shakespeare *Richard II* — Gaunt, island identity)
 Civilization: ANGLIA
 Subject: England (Procedural Core, Institutional Engine, and Legitimacy Anchor)
 Dates: Medieval era–present
@@ -64,6 +65,21 @@ Dynamics:
 Empire emerges as extension of procedure,
 not as mission.
 
+Shakespeare encodes this grammar-setter identity in John of Gaunt’s
+speech: England as “scepter’d isle,” “fortress built by Nature,”
+“blessed plot.”
+
+SOURCE — *Richard II*, 2.1 (John of Gaunt):
+> This royal throne of kings, this scepter’d isle,
+> This earth of majesty, this seat of Mars,
+> This other Eden, demi-paradise,
+> This fortress built by Nature for herself
+> Against infection and the hand of war,
+> This happy breed of men, this little world,
+> This precious stone set in the silver sea,
+> … This blessed plot, this earth, this realm, this England.
+> — William Shakespeare, *Richard II*, 2.1 (literary) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 V. INTERNAL FLEXIBILITY
 ────────────────────────────────────────────────────────────
@@ -115,5 +131,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ENGLAND — v1.0
+END OF FILE — MEM–ANGLIA–ENGLAND — v1.1
 ────────────────────────────────────────────────────────────

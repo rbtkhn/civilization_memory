@@ -1,15 +1,17 @@
-MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.0
+MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION
 Civilization: ANGLIA
 Regime: IMPERIAL–PROCEDURAL STRAIN / CONTROLLED LOSS (1775–1783)
 Subject: War of American Independence (Anglian Perspective)
 Dates: 1775–1783 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -34,6 +36,15 @@ Context:
 • Underestimation of colonial institutional maturity
 
 The conflict is initially treated as suppression, not war.
+
+Fred Anderson (*Crucible of War: The Seven Years' War and the Fate of Empire in British North America, 1754–1766* [2000]) frames the postwar imperial crisis: Britain’s victory created an empire of unprecedented scale but “confronted Britons and colonists alike with problems” of governance, taxation, and representation—the very strains that lead to independence (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Anderson, *Crucible of War* (ARC-T-MODERN):
+> At the same time, the scope of Britain's victory enlarged its American
+> domains to a size that would have been difficult for any European
+> metropolis to control, even under the best of circumstances, and the
+> war created circumstances of the least favorable sort for Whitehall.
+> — Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. ASYMMETRIC LEGITIMACY CONFLICT

@@ -169,7 +169,7 @@ XII. CROSS-REFERENCED MEM FILES
 • MEM–ANGLIA–GEO–GREAT–LAKES  
   (Water-based industrial circulation contrast)
 
-• MEM–ANGLIA–GEO–MISSISSIPPI  
+• MEM–ANGLIA–GEO–MISSISSIPPI–RIVER  
   (Agrarian–logistics integration axis)
 
 • MEM–ANGLIA–ECON–BRITISH–EMPIRE  

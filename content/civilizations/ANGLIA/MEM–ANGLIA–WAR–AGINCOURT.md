@@ -1,9 +1,9 @@
-MEM–ANGLIA–WAR–AGINCOURT — v1.4
+MEM–ANGLIA–WAR–AGINCOURT — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANAD
+Version: 1.5
+Upgrade Type: ADDITIVE (Shakespeare *Henry V* — St Crispin’s Day, literary evidence)
 Civilization: ANGLIA
 Subject: Battle of Agincourt (Asymmetric Victory & Strategic Restraint)
 Dates: 1415 AD
@@ -125,9 +125,18 @@ VI. SYMBOLIC CAPITAL & MYTH MANAGEMENT
 ────────────────────────────────────────────────────────────
 Agincourt becomes narrative capital.
 
-Shakespeare’s later dramatization amplifies unity and heroism, but the
-civilizational memory preserved here distinguishes **symbolic value**
-from **strategic temptation**.
+Shakespeare’s later dramatization amplifies unity and heroism—the St
+Crispin’s Day speech encodes “we few, we happy few, we band of brothers”
+and “the fewer men, the greater share of honour”—but the civilizational
+memory preserved here distinguishes **symbolic value** from **strategic
+temptation**.
+
+SOURCE — Shakespeare, *Henry V*, 4.3 (literary) [ERC-SECONDARY]:
+> We few, we happy few, we band of brothers;
+> For he to-day that sheds his blood with me
+> Shall be my brother; be he ne’er so vile,
+> This day shall gentle his condition.
+> — William Shakespeare, *Henry V*, 4.3 (literary) [ERC-SECONDARY]
 
 Winston Churchill, reflecting on England’s medieval wars, warned that
 “glorious victories won far from the homeland have a habit of
@@ -216,5 +225,5 @@ No option is privileged.
 Student choice determines the path of exploration.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–AGINCOURT v1.4
+END OF FILE — MEM–ANGLIA–WAR–AGINCOURT — v1.5
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,9 @@
-/// MEM–ANGLIA–HENRY–VIII — v1.1
+/// MEM–ANGLIA–HENRY–VIII — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules · Distinguished Scholar Rule)
+Version: 1.2
+Upgrade Type: ADDITIVE (Shakespeare *Henry VIII* — Wolsey’s fall, literary evidence)
 Civilization: ANGLIA
 Regime / Mode: Tudor Monarchy
 Subject: Henry VIII
@@ -80,6 +80,14 @@ by jurisdictional rewiring.
 
 Will Durant’s civilizational reading applies directly: Anglia does not
 abolish institutions when it revolts; it repurposes them.
+
+Shakespeare’s *Henry VIII* encodes rupture and fall: Wolsey’s “Farewell,
+a long farewell, to all my greatness” (3.2) marks the cost of dependence
+on the crown when favour reverses.
+
+SOURCE — *Henry VIII*, 3.2 (Cardinal Wolsey) (literary) [ERC-SECONDARY]:
+> Farewell, a long farewell, to all my greatness.
+> — William Shakespeare, *Henry VIII*, 3.2 (literary) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 IV. DISSOLUTION OF MONASTIC POWER
@@ -238,5 +246,5 @@ This file is CANONICAL and compliant with:
 • Distinguished Scholar Rule (ANGLIA)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–HENRY–VIII — v1.1
+END OF FILE — MEM–ANGLIA–HENRY–VIII — v1.2
 ────────────────────────────────────────────────────────────

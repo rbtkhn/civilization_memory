@@ -1,9 +1,9 @@
-MEM–ANGLIA–COMMON–LAW — v1.1
+MEM–ANGLIA–COMMON–LAW — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE (CIV–MEM–TEMPLATE v1.6 Compliance)
+Version: 1.2
+Upgrade Type: ADDITIVE (Churchill, *History of the English-Speaking Peoples*, Vol. 1 — *The Birth of Britain*)
 Civilization: ANGLIA
 Subject: Common Law
 Dates: c. 12th century AD–present
@@ -58,6 +58,15 @@ royal courts attempting to impose order on heterogeneous custom:
 
 Common Law arises as **administrative memory**, not ideological design.
 
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), Ch. 13 (“The English Common Law”), identifies Henry II as England’s premier law-giver: “There were greater soldier-kings and subtler diplomatists, but no man has left a deeper mark upon our laws and institutions…. The names of his battles have vanished with their dust, but his fame will live with the English Constitution and the English Common Law” (215). Churchill stresses that the “slow but continuous growth” of case law “ultimately achieved much the same freedoms and rights for the individual as are enshrined in other countries by written instruments such as the Declaration of the Rights of Man and the spacious and splendid provisions of the American Declaration of Independence”—with “the liberties of Englishmen” resting “not on any enactment of the State, but on immemorial slow-growing custom declared by juries of free men who gave their verdicts case by case in open court” (225) (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
+> There were greater soldier-kings and subtler diplomatists, but no
+> man has left a deeper mark upon our laws and institutions…. The
+> names of his battles have vanished with their dust, but his fame
+> will live with the English Constitution and the English Common Law.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), 215 (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 III. PRECEDENT AS AUTHORITY (PRIMARY)
 ────────────────────────────────────────────────────────────
@@ -84,7 +93,7 @@ Precedent encodes:
 • Resistance to rupture
 
 ────────────────────────────────────────────────────────────
-IV. PROCEDURE OVER SUBSTANAD
+IV. PROCEDURE OVER SUBSTANCE
 ────────────────────────────────────────────────────────────
 Legitimacy in Common Law is procedural rather than moral.
 
@@ -237,5 +246,5 @@ Compliant with:
 • Ingest Bootstrap Enforcement
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–COMMON–LAW v1.1
+END OF FILE — MEM–ANGLIA–COMMON–LAW — v1.2
 ────────────────────────────────────────────────────────────

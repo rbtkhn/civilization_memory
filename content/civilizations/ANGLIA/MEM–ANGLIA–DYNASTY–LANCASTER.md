@@ -1,12 +1,13 @@
-MEM–ANGLIA–DYNASTY–LANCASTER
+MEM–ANGLIA–DYNASTY–LANCASTER — v1.1
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: ADDITIVE (Shakespeare *Richard II*, *Henry IV* — legitimacy-fracture, literary evidence)
 Civilization: ANGLIA
 Dynasty: House of Lancaster
 Dates: 1399–1461 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -38,6 +39,21 @@ Lancastrian kings face:
 • Dependence on Parliament
 
 Kings rule reactively.
+
+Shakespeare encodes this legitimacy-fracture dynasty: Richard II’s “For
+God’s sake, let us sit upon the ground / And tell sad stories of the
+death of kings” (*Richard II*, 3.2) and Gaunt’s “England… hath made a
+shameful conquest of itself” (*Richard II*, 2.1); Henry IV’s “Uneasy
+lies the head that wears a crown” (*Henry IV Part 2*, 3.1).
+
+SOURCE — *Richard II*, 2.1 (John of Gaunt):
+> That England, that was wont to conquer others,
+> Hath made a shameful conquest of itself.
+> — William Shakespeare, *Richard II*, 2.1 (literary) [ERC-SECONDARY]
+
+SOURCE — *Henry IV Part 2*, 3.1 (King Henry):
+> Uneasy lies the head that wears a crown.
+> — William Shakespeare, *Henry IV Part 2*, 3.1 (literary) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 IV. WAR & EXTERNAL COMPENSATION
@@ -71,5 +87,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DYNASTY–LANCASTER v1.0
+END OF FILE — MEM–ANGLIA–DYNASTY–LANCASTER — v1.1
 ────────────────────────────────────────────────────────────

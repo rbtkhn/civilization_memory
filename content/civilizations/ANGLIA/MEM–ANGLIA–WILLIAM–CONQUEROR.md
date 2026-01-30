@@ -1,9 +1,9 @@
-MEM–ANGLIA–WILLIAM–CONQUEROR — v1.1
+MEM–ANGLIA–WILLIAM–CONQUEROR — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: STRUCTURAL COMPLIANCE (Hardened Source Rules)
+Version: 1.2
+Upgrade Type: ADDITIVE (Churchill, *History of the English-Speaking Peoples*, Vol. 1 — *The Birth of Britain*)
 Civilization: ANGLIA
 Regime / Mode: Norman Kingship
 Subject: William of Normandy (William the Conqueror)
@@ -48,6 +48,8 @@ The *Anglo-Saxon Chronicle* records the rupture bluntly:
 William Manchester emphasizes that conquest succeeded not because the
 Normans exterminated England, but because they **replaced the ruling
 class while leaving society intact**, creating continuity under shock.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), Ch. 9–10, treats the Norman Conquest as another wave absorbed into Britain’s **life stream**—successive invaders contributing to one nation rather than erasing it. Conquest reconfigures authority; it does not erase law or continuity (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim expansion from Churchill, *The Birth of Britain*, to be added when source is consulted.
 
 ────────────────────────────────────────────────────────────
 III. ADMINISTRATIVE REVOLUTION (PRIMARY + SECONDARY)
