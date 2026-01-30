@@ -22,7 +22,7 @@ constraints, and admissibility rules from CIV–DOCTRINE–TEMPLATE v2.0.
 v2.1 introduces the following ADDITIVE alignment fixes:
 
 • Explicit compatibility declaration for current template versions
-  (CIV–SCHOLAR–TEMPLATE v2.9, CIV–SCHOLAR–PROTOCOL v2.2)
+  (CIV–SCHOLAR–TEMPLATE v2.10, CIV–SCHOLAR–PROTOCOL v2.2)
 • Fixed section numbering (duplicate Section XI → XI and XII)
 • DIB role clarification added
 

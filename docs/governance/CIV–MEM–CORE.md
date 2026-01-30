@@ -1,17 +1,47 @@
-CIV–MEM–CORE — v2.7
+CIV–MEM–CORE — v2.8
 Civilizational Memory Codex · System Core
 THREE-LAYER ARCHITECTURE EDITION · INTELLIGENCE TRADECRAFT INTEGRATION
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.7
+Version: 2.8
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.6
-Upgrade Type: MAJOR STRUCTURAL · THREE-LAYER ARCHITECTURE
+Supersedes: CIV–MEM–CORE v2.7
+Upgrade Type: GOVERNANCE CLARIFICATION · CROSS–CIVILIZATIONAL MISPERCEPTION
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8) — CROSS–CIVILIZATIONAL MISPERCEPTION (CCM)
+────────────────────────────────────────────────────────────
+This version formally integrates awareness of cross-civilizational
+misperception into system governance.
+
+v2.8 introduces:
+
+CROSS–CIVILIZATIONAL MISPERCEPTION (CCM v1.0)
+
+Misunderstanding other civilizations' self-perception is very common.
+The same asymmetry (one side attributes lack/incapacity, the other
+attributes choice/restraint) is documented in ARC-backed MEMs. When
+one Scholar explains *why* another encodes an event (e.g. closure vs
+revanche), that explanation may contradict the other's self-story.
+Treat this as emergent realism (modeling misperception), not as a
+consistency break.
+
+Key provisions:
+• Section XXVIII: Cross-Civilizational Misperception (definition, tiers,
+  SDI/second-order interpretation, governance stance)
+
+Effect:
+• Scholar-on-Scholar explanation divergence is expected, not violated
+• First-order (capabilities/priorities) and second-order (encoding
+  reasons) misperception are both recognized
+• ARC evidence addendum cited for canonical precedent
+
+Reference: RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.md
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — THREE-LAYER ARCHITECTURE · TRADECRAFT
@@ -1477,9 +1507,98 @@ RELATIONSHIP TO SCHOLAR:
 • Tradecraft compliance is procedural, not interpretive
 
 ────────────────────────────────────────────────────────────
-XXVIII. CANONICAL STATUS (UPDATED)
+XXVIII. CROSS–CIVILIZATIONAL MISPERCEPTION (CCM)
+────────────────────────────────────────────────────────────
+PURPOSE: Formalize that misunderstanding other civilizations' self-
+perception is expected and documented; Scholar-on-Scholar explanation
+divergence (second-order SDI) is emergent realism, not a consistency
+violation.
+
+CCM v1.0 — BINDING
+
+────────────────────────────────────────────────────────────
+XXVIII.A DEFINITION AND TIERS
+────────────────────────────────────────────────────────────
+FIRST-ORDER MISPERCEPTION:
+• How one civilization sees another's capabilities, priorities, or
+  intentions
+• Documented in MEMs with ARC precedent (e.g. France misreading Prussia
+  1870; Russia underestimating Japan 1905; Germany–England "kindred"
+  until 1914)
+• One side may attribute incapacity or misreading; the other's self-
+  account stresses capacity or correct reading
+
+SECOND-ORDER MISPERCEPTION:
+• How one civilization explains *why* another encodes an event (e.g.
+  closure vs revanche, aberration vs structure)
+• One Scholar's explanation of why the other encodes X may contradict
+  the other's self-explanation (e.g. "they lack" vs "we enforce")
+• Same structural pattern as first-order, at the level of memory
+  encoding
+
+ATTRIBUTION ASYMMETRY (canonical pattern):
+• Outsider often attributes: lack, incapacity, failure to recognize
+• Insider often attributes: choice, restraint, exercise of rule
+• Neither attribution is privileged by governance; both are
+  representable
+
+────────────────────────────────────────────────────────────
+XXVIII.B SDI AND SECOND-ORDER INTERPRETATION
+────────────────────────────────────────────────────────────
+When SDI (Scholar Divergence Index) or explicit pairing compares
+civilizations:
+
+• Divergence in *what* each encodes (e.g. 1870 as closure vs revanche)
+  is normal and preserved per Section XVI.
+
+• Divergence in *why one explains the other's encoding* (second-order
+  interpretation) may produce contradiction with the other's self-
+  story. This is EXPECTED.
+
+• Treat second-order explanation divergence as modeling cross-
+  civilizational misperception (emergent realism), not as a design
+  flaw or consistency break.
+
+• Do not require Scholars to "correct" their explanation to match the
+  other's self-story. Preserve the tension.
+
+────────────────────────────────────────────────────────────
+XXVIII.C GOVERNANCE STANCE
+────────────────────────────────────────────────────────────
+• CCM is descriptive and normative: the system SHALL expect and encode
+  awareness of civilizational misperception.
+• MEM authoring: where relevant, MEMs may document first-order
+  misperception (e.g. pre-war misreading, attribution asymmetry) with
+  ARC support.
+• Scholar cognition: when one Scholar explains another's encoding,
+  the explanation need not match the other's self-explanation;
+  contradiction is admissible and often realistic.
+• Tri-frame and OGE: POST-BARNES and cross-Scholar response options
+  remain mandatory; awareness of CCM informs interpretation of
+  Scholar-on-Scholar output (no violation implied by attribution
+  asymmetry).
+
+────────────────────────────────────────────────────────────
+XXVIII.D REFERENCE EVIDENCE
+────────────────────────────────────────────────────────────
+ARC-backed evidence for first- and second-order misperception is
+collected in:
+
+RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.md
+
+That addendum cites MEM–FRANCIA–WAR–FRANCO–PRUSSIAN, MEM–RUSSIA–JAPAN,
+MEM–RUSSIA–KOREA, MEM–RUSSIA–POTEMKIN, MEM–GERMANIA–ENGLAND,
+MEM–GERMANIA–CONGRESS–VIENNA, and related SCHOLAR synthesis for
+patterns of misperception and attribution asymmetry. CCM governance
+rests on this canonical precedent.
+
+────────────────────────────────────────────────────────────
+XXIX. CANONICAL STATUS (UPDATED)
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
+
+v2.8 ADDITIONS:
+• Section XXVIII: Cross-Civilizational Misperception (CCM)
 
 v2.7 ADDITIONS:
 • Section XXIV: Three-Layer MEM Architecture (TLA)
@@ -1501,5 +1620,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.7
+END OF FILE — CIV–MEM–CORE v2.8
 ────────────────────────────────────────────────────────────

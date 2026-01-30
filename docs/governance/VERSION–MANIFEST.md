@@ -33,8 +33,8 @@ These documents govern all CMC operations.
 Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.7
-• CMC–BOOTSTRAP: v2.12
+• CIV–MEM–CORE: v2.8
+• CMC–BOOTSTRAP: v2.13
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
@@ -106,7 +106,7 @@ FRANCIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–FRANCIA         │ v2.0    │ Active        │
+│ CIV–SCHOLAR–FRANCIA         │ v2.1    │ Active        │
 │ CIV–INDEX–FRANCIA           │ v1.7    │ Active        │
 │ CIV–CORE–FRANCIA            │ v2.0    │ Active        │
 │ CIV–DOCTRINE–FRANCIA        │ v1.1    │ Active        │
@@ -153,6 +153,29 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-29 (CIV–SCHOLAR–FRANCIA v2.1 — SCHOLAR ANALYSIS INSIGHTS):
+• CIV–SCHOLAR–FRANCIA: v2.0 → v2.1 (insights from REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM)
+  – SDI 0002: Encoding rationale (1870 structural not moral)
+  – IX.A: Second-Order SDI / CCM awareness
+  – NCZ: Priority resolution MEM list
+  – XIII: Doctrine constrains freeze not record (procedural note)
+• VERSION–MANIFEST: CIV–SCHOLAR–FRANCIA v2.1 (Francia table)
+
+2026-01-29 (AUDIT — GOVERNANCE & TEMPLATE ALIGNMENT):
+• AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT: Refreshed; actual vs manifest confirmed; four stale cross-refs fixed
+  – VERSION–MANIFEST § VI Quick Binding: CIV–MEM–CORE v2.7 → v2.8
+  – CMC–BOOTSTRAP: See SAP CIV–MEM–CORE v2.7 → v2.8
+  – CIV–MIND–BARNES: CIV–SCHOLAR–TEMPLATE v2.9 → v2.10 (ALIGNED)
+  – CIV–DOCTRINE–TEMPLATE: parenthetical CIV–SCHOLAR–TEMPLATE v2.9 → v2.10
+
+2026-01-29 (CIV–MEM–CORE v2.8, CMC–BOOTSTRAP v2.13 — CROSS–CIVILIZATIONAL MISPERCEPTION):
+• CIV–MEM–CORE: v2.7 → v2.8 (Section XXVIII CCM — first/second-order misperception, SDI second-order interpretation, governance stance)
+  – Scholar-on-Scholar explanation divergence (why the other encodes X) treated as emergent realism, not consistency break
+  – Reference: RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.md
+• CMC–BOOTSTRAP: v2.12 → v2.13 (QUICK START step 8, ACTIVE CONSTRAINTS CCM clause, EXPAND ON DEMAND CCM ref)
+• CURSOR RULES: cmc-tri-frame-protocol — Scholar-on-Scholar Explanation (CCM) subsection, self-check item, CCM references
+• VERSION–MANIFEST: CIV–MEM–CORE v2.8, CMC–BOOTSTRAP v2.13
 
 2026-01-29 (CMC–BOOTSTRAP v2.12 — MIND v2.6, CURSOR RULES):
 • CMC–BOOTSTRAP: v2.11 → v2.12 (MIND v2.6 sync, Cursor rules section, QUICK START OGE/III.L/Cursor step)
@@ -305,7 +328,7 @@ VI. QUICK BINDING DECLARATION
 For session startup, declare:
 
 "Bound by:
-• CIV–MEM–CORE v2.7
+• CIV–MEM–CORE v2.8
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)

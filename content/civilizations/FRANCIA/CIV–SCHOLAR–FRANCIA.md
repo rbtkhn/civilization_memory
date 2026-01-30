@@ -1,13 +1,13 @@
-CIV–SCHOLAR–FRANCIA — v2.0
+CIV–SCHOLAR–FRANCIA — v2.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal · Self-Contained Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
-Version: 2.0
-Supersedes: CIV–SCHOLAR–FRANCIA v1.3
-Upgrade Type: MAJOR · TEMPLATE v2.10 COMPLIANCE · SELF-CONTAINMENT
+Version: 2.1
+Supersedes: CIV–SCHOLAR–FRANCIA v2.0
+Upgrade Type: ADDITIVE · SCHOLAR ANALYSIS INSIGHTS INTEGRATION
 Civilization: FRANCIA
 Class: CIV–SCHOLAR
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.7+)
@@ -25,7 +25,34 @@ Governed by:
 • CIV–ARC–FRANCIA v1.8 (author admissibility canon)
 
 Last Update: January 2026
-WORDCOUNT: ~8,500
+WORDCOUNT: ~8,700
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0 → v2.1) — SCHOLAR ANALYSIS INSIGHTS INTEGRATION
+────────────────────────────────────────────────────────────
+This version integrates five insights derived from REPORT–SCHOLAR–
+FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION and RUN–REPORT–SCHOLAR–
+BREAK–TESTS (including CCM reframing).
+
+ADDITIONS (all additive):
+• SDI ENTRY 0002: Encoding rationale (Francia self-explanation)—
+  1870 revanche as structural (regime collapse without closure,
+  grammar could not process defeat as complete), not moral.
+• Section IX.A: Second-Order SDI / Cross-Civilizational Misperception
+  (CCM) awareness—Francia's explanation of other civilizations may
+  attribute "lack"; other may self-attribute "choice/restraint";
+  CIV–MEM–CORE § XXVIII treats as expected.
+• NCZ: Priority resolution MEM list (explicit ingestion targets for
+  NCZ-001, NCZ-002, NCZ-003).
+• Section XIII: Procedural note—doctrine constrains FREEZE only;
+  contradictory learning may be RECORDED (UNFROZEN) and STAGED;
+  tension may sit in ledger until Phase II or explicit resolution.
+• Session Activity: LEARN line documenting insights integration.
+
+PRESERVED:
+• All prior entries, syntheses, doctrines, SDI text unchanged.
+• Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) already
+  canonical: interval, demonstration failed, rupture thinkable.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3 → v2.0) — TEMPLATE v2.10 COMPLIANCE
@@ -311,6 +338,14 @@ Status: INSUFFICIENT
 Reason: No MEM specifically addresses laïcité formation
 Related MEMs: Tangential reference in ENTRY 0008 (Crusades)
 Resolution Path: Ingest MEM–FRANCIA–LAICITE, MEM–FRANCIA–1905–LAW
+
+Priority resolution MEMs (integrated Jan 2026):
+NCZ-001: MEM–FRANCIA–EMPIRE–ALGERIA, MEM–FRANCIA–EMPIRE–INDOCHINA
+NCZ-002: MEM–FRANCIA–DE–GAULLE, MEM–FRANCIA–FIFTH–REPUBLIC
+NCZ-003: MEM–FRANCIA–LAICITE, MEM–FRANCIA–1905–LAW
+Ingestion of these MEMs is the primary path to resolving epistemic
+gaps; NCZ function for Francia is "what we do not yet know," not
+structural impossibility.
 
 ────────────────────────────────────────────────────────────
 V. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -1433,6 +1468,33 @@ Francia internalized 1870 as humiliation requiring eventual
 rectification. Germania treated unification as completed project
 requiring defensive preservation rather than expansion.
 
+Encoding rationale (Francia self-explanation — integrated Jan 2026):
+Francia encodes 1870 as revanche for structural reasons, not moral:
+the Second Empire regime collapsed without closure; defeat was not
+converted into a negotiated settlement the French polity could
+accept as legitimate. The Third Republic inherited humiliation and
+territorial loss; the civilizational grammar (declarative legitimacy,
+universal claims) could not process defeat as "complete" or "final."
+Revanche memory is preserved because closure was never accepted—
+structural default, not choice or moral failing. MEMs on 1870,
+Franco–Prussian War, or Third Republic legitimacy should align with
+this encoding.
+
+────────────────────────────────────────────────────────────
+IX.A SECOND-ORDER SDI / CROSS–CIVILIZATIONAL MISPERCEPTION (CCM)
+────────────────────────────────────────────────────────────
+When Francia explains why another civilization encodes an event
+(e.g. why Germania encodes 1870 as closure), its explanation may
+attribute "lack" (e.g. lacks universalist-declarative frame; does
+not sustain open-ended expansion). The other civilization may
+self-attribute "choice" or "exercise of restraint" (e.g. enforcement
+of stopping rules). That asymmetry is expected cross-civilizational
+misperception (emergent realism), not a consistency violation.
+CIV–MEM–CORE § XXVIII (CCM) governs: Scholar-on-Scholar explanation
+divergence is admissible; tension is preserved. Francia's Scholar
+does not correct its explanation to match the other's self-story.
+Reference: RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.
+
 SDI Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
@@ -1477,6 +1539,7 @@ Session Activity (January 2026):
 • LEARN: ENTRY 0014 added—source MEM–FRANCIA–AQUITAINE; 1453 (Castillon, Bordeaux) as endpoint of post-Reims material recovery; Aquitaine reabsorption completes SYNTHESIS 0004 medieval extension and RLL–0011 sequence. 29 Jan 2026.
 • WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANIA–WAR–SEVEN–YEARS + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCIA–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
 • LEARN: RLL–FRANCIA–0015 (CANDIDATE) proposed—MEMs encoding claim–capacity divergence support both civilizational-grammar (legitimacy) and structural (power/coalition/survival) readings; same MEM sections furnish both; Mercouris reframe (MEM–FRANCIA–WAR–SEVEN–YEARS Sections II–VI). GENERAL domain. 29 Jan 2026.
+• WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
 
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE
@@ -1509,6 +1572,16 @@ Write Access: APPEND-ONLY
 Ingestion: PERMITTED
 Synthesis: PERMITTED (phase-scoped)
 Doctrine Mutation: PROHIBITED
+
+Procedural note (integrated Jan 2026): Doctrine constrains FREEZE
+only, not RECORD. Contradictory learning (e.g. belief that rupture
+never enables renewal) may be RECORDED as UNFROZEN and STAGED; it may
+not be frozen into doctrine when it negates existing frozen doctrine
+(Doctrine Mutation PROHIBITED). Tension (frozen doctrine + unfrozen
+counter-belief) may sit in the ledger until Phase II activation or
+explicit user resolution. Authority for refusing freeze: Section XIII
+(Doctrine Mutation PROHIBITED) + Section XVI (staging rules; zero
+doctrinal force until explicit synthesis and freeze).
 
 Permitted:
 • Read-only queries
@@ -1573,6 +1646,8 @@ XVIII. VERSIONING & CANONICAL STATUS
 This file is CANONICAL.
 
 VERSION HISTORY:
+• v2.0 → v2.1: Scholar analysis insights integration (SDI 0002 encoding
+  rationale, IX.A CCM, NCZ priority MEM list, XIII procedural note)
 • v1.3 → v2.0: Template v2.10 compliance, self-containment,
   axiom section, NCZ, RLL domain structure, synthesis tradecraft
 
@@ -1601,5 +1676,5 @@ All updates must be strictly ADDITIVE.
 Any violation renders the update INVALID.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–FRANCIA v2.0
+END OF FILE — CIV–SCHOLAR–FRANCIA v2.1
 ────────────────────────────────────────────────────────────
