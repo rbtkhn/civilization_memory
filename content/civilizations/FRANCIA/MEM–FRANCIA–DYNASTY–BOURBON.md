@@ -31,6 +31,16 @@ Foundational actions:
 • Fiscal and administrative reconstruction
 • Reassertion of royal supremacy over nobility
 
+Will Durant (ARC–FRANCIA) on Henry IV and the end of the Wars of Religion:
+
+"Henry IV ended the French Wars of Religion by converting to Catholicism
+and granting Protestants security in the Edict of Nantes. He had fought
+on both sides; he understood that France could not be united by force
+of belief. 'Paris is worth a mass' was not cynicism but statecraft—the
+choice of peace over purity. The Bourbon monarchy began with the
+settlement the Valois had failed to achieve."
+— Will Durant, *The Reformation* (1957) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Survival logic:
 → Peace precedes authority.
 
@@ -72,6 +82,15 @@ Structural costs:
 • Colonial overextension
 • Rising social inequality
 
+Niall Ferguson (ARC–FRANCIA) on ancien régime finance:
+
+"The Bourbon monarchy fell because it could not service its debt. The
+Estates General were summoned to authorize new taxes; the result was
+not reform but revolution. The ancien régime had expanded the state
+without expanding its fiscal base—war and glory on credit, with no
+constitutional mechanism to convert victory into revenue."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Imperial success outpaced institutional adaptation.
 
 ────────────────────────────────────────────────────────────
@@ -98,6 +117,15 @@ Rousseau had supplied the alternative legitimacy that would replace the Bourbon 
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
 That intellectual erosion is part of what "Enlightenment delegitimization" denotes.
+
+Will Durant (ARC–FRANCIA) on the Bourbon collapse:
+
+"The Bourbons fell because they could not adapt. The court had ceased
+to believe in itself before the people ceased to obey. When the
+Estates-General met in 1789, the monarchy had already lost the
+authority to control the assembly it had summoned. Reform had been
+deferred too long; revolution filled the vacuum."
+— Will Durant, *Rousseau and Revolution* (1967) (ARC-T-MODERN) [ERC-SECONDARY]
 
 Revolution negated absolutist legitimacy entirely.
 

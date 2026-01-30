@@ -276,7 +276,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–DYNASTY–VALOIS — ruling dynasty
 • MEM–FRANCIA–BURGUNDY — Burgundian division context
 • MEM–FRANCIA–JOAN–OF–ARC — recovery figure (gap: MEM needed)
-• MEM–FRANCIA–WAR–CRECY — prior English victory (1346)
+• MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — prior English victory (1346)
 • MEM–FRANCIA–WAR–POITIERS — prior English victory (1356)
 • MEM–FRANCIA–KNIGHTS–TEMPLAR — earlier chivalric context
 • MEM–FRANCIA–WAR–CRUSADES — chivalric tradition

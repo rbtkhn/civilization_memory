@@ -284,7 +284,7 @@ Contradictions preserved without verdict.
 XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
-• MEM–FRANCIA–WAR–CRECY — prior defeat (1346)
+• MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — prior defeat (1346)
 • MEM–FRANCIA–WAR–AGINCOURT — subsequent defeat (1415)
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — war context
 • MEM–FRANCIA–DYNASTY–VALOIS — ruling dynasty

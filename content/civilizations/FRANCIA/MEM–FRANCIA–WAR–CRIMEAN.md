@@ -33,6 +33,17 @@ Context:
 • Desire to escape diplomatic isolation
 • Opportunity to counter Russia
 
+Niall Ferguson (ARC–FRANCIA) on prestige and fiscal reality:
+
+"The Crimean War allowed France to reclaim great-power status after
+the humiliation of 1815—but at a cost. British finance funded the
+coalition; French prestige was bought with casualties and debt. The
+war demonstrated that legitimacy could be restored through alliance
+and battle, but it did not restore the fiscal-military base that would
+have made France a sustainable peer of Britain. Prestige without
+credit was still precarious."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Crimea offers visibility, not transformation.
 
 War is stage as much as strategy.

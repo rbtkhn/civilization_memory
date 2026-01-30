@@ -106,6 +106,24 @@ Conditions:
 
 The monarchy attempts neutrality without authority.
 
+Will Durant (ARC–FRANCIA) on the French Wars of Religion and the Valois:
+
+"The French Wars of Religion tore France apart for thirty years. Catherine
+de' Medici sought to balance Catholic and Protestant factions; the result
+was massacre, conspiracy, and civil war. The Valois kings could neither
+impose religious unity nor secure lasting toleration. The monarchy
+survived—but only by exhausting itself, and the dynasty ended in
+assassination and the Bourbon succession."
+— Will Durant, *The Reformation* (1957) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Montaigne wrote amid the same wars—skepticism as refusal to kill for belief:
+
+> "What do I know?"
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+His *Que sais-je?* did not stop the violence; it offered an intellectual
+alternative to confessional certainty. The Valois could not impose it.
+
 Religion transforms from stabilizer into accelerant.
 
 ────────────────────────────────────────────────────────────

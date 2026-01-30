@@ -225,9 +225,9 @@ intelligibility of Antwerp's place in Francia's memory.
 FRANCIA (same-civilization, ≥10):
 • MEM–FRANCIA–BELGIUM — Antwerp is the premier port within the buffer; Belgium MEM encodes denial; breaks if removed.
 • MEM–FRANCIA–GEO–ENGLISH–CHANNEL — Antwerp's value is Channel-adjacent; French control would threaten British interests; breaks if removed.
-• MEM–FRANCIA–GEO–RHINE — Trade corridor Rhine–Antwerp; strategic linkage; breaks if removed.
+• MEM–FRANCIA–GEO–RHINE–RIVER — Trade corridor Rhine–Antwerp; strategic linkage; breaks if removed.
 • MEM–FRANCIA–NETHERLANDS — Dutch held Scheldt closed; rivalry over Antwerp; breaks if removed.
-• MEM–FRANCIA–WAR–WATERLOO — Post-Waterloo settlement denies Antwerp to France; breaks if removed.
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — Post-Waterloo settlement denies Antwerp to France; breaks if removed.
 • MEM–FRANCIA–NAPOLEON — Napoleonic development of Antwerp arsenal; breaks if removed.
 • MEM–FRANCIA–FRENCH–REVOLUTION — Revolutionary reopening of Scheldt and incorporation of Belgian space; breaks if removed.
 • MEM–FRANCIA–PARIS — Capital and port as dual poles; Antwerp as denied northern pole; breaks if removed.

@@ -125,7 +125,7 @@ FRANCIA:
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Aquitaine as cause and theatre
 • MEM–FRANCIA–WAR–POITIERS — English Aquitaine; Black Prince; Brétigny
 • MEM–FRANCIA–WAR–CRUSADES — Eleanor on Second Crusade
-• MEM–FRANCIA–WAR–CRECY — Hundred Years' War; Aquitaine stakes
+• MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — Hundred Years' War; Aquitaine stakes
 • MEM–FRANCIA–GEO–PYRENEES — Southern frontier; Aquitaine geography
 • MEM–FRANCIA–GEO–LOIRE–RIVER — North–south divide; Capetian core
 • MEM–FRANCIA–DYNASTY–VALOIS — Later recovery of territory

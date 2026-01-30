@@ -31,6 +31,16 @@ Rousseau opens *Du contrat social*:
 > "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Will Durant (ARC–FRANCIA) on Rousseau's influence:
+
+"Rousseau gave the Revolution its vocabulary: the general will, the
+sovereignty of the people, the belief that law must express the common
+good. He did not cause the Revolution, but he armed it with a theory
+that made the transfer of sovereignty from king to nation seem not only
+possible but just. The Jacobins would quote him; the Declaration of
+Rights would echo him."
+— Will Durant, *Rousseau and Revolution* (1967) (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 II. FORMATIVE ORIGINS & PSYCHOLOGICAL POSTURE
 ────────────────────────────────────────────────────────────

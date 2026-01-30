@@ -114,7 +114,7 @@ Braudel, Fernand (1902–1985)
   Citations: Multiple references across GEO MEMs
   Coverage: Mediterranean, Pyrenees, Rhine, French geographic identity
   MEMs: MEM–FRANCIA–GEO–MEDITERRANEAN–SEA, MEM–FRANCIA–GEO–PYRENEES,
-        MEM–FRANCIA–GEO–RHINE, and other GEO–* files
+        MEM–FRANCIA–GEO–RHINE–RIVER, and other GEO–* files
 
 Ferguson, Niall (b. 1964)
   *Empire: How Britain Made the Modern World* (2003)
@@ -135,9 +135,9 @@ Chandler, David G. (1934–2004)
   ARC-T: ARC-T-MODERN
   Citations: References in Napoleonic WAR MEMs
   Coverage: Marengo, Jena, Wagram, Leipzig, Waterloo, coalition wars
-  MEMs: MEM–FRANCIA–WAR–MARENGO, MEM–FRANCIA–WAR–NAPOLEON–JENA,
+  MEMs: MEM–FRANCIA–WAR–NAPOLEON–MARENGO, MEM–FRANCIA–WAR–NAPOLEON–JENA,
         MEM–FRANCIA–WAR–NAPOLEON–WAGRAM, MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG,
-        MEM–FRANCIA–WAR–WATERLOO, and related coalition MEMs
+        MEM–FRANCIA–WAR–NAPOLEON–WATERLOO, and related coalition MEMs
 
 Kissinger, Henry (1923–2023)
   *Diplomacy* (1994); *A World Restored*; *World Order*
@@ -165,7 +165,7 @@ Voltaire (François-Marie Arouet) (1694–1778)
   ARC-T: ARC-T-EARLY-MOD
   Citations: References in GEO and cultural MEMs
   Coverage: Geographic and civilizational narrative
-  MEMs: MEM–FRANCIA–GEO–PYRENEES, MEM–FRANCIA–GEO–RHINE, and related
+  MEMs: MEM–FRANCIA–GEO–PYRENEES, MEM–FRANCIA–GEO–RHINE–RIVER, and related
 
 Michelet, Jules (1798–1874)
   *Histoire de France*; *Histoire de la Révolution française*
@@ -206,7 +206,7 @@ Gregory of Tours (c. 538–594)
   ARC-T: ARC-T-MEDIEVAL
   Citations: References in GEO and Merovingian MEMs
   Coverage: Frankish Gaul, Rhine, early medieval Francia
-  MEMs: MEM–FRANCIA–GEO–RHINE, and dynasty MEMs
+  MEMs: MEM–FRANCIA–GEO–RHINE–RIVER, and dynasty MEMs
 
 Suger of Saint-Denis (c. 1081–1151)
   *Vita Ludovici Grossi Regis*
@@ -236,7 +236,7 @@ Caesar, Gaius Julius (100–44 BC)
   ARC-T: ARC-T-ANCIENT
   Citations: References in GEO and war MEMs
   Coverage: Gaul, Rhine frontier, Alesia
-  MEMs: MEM–FRANCIA–GEO–RHINE, MEM–FRANCIA–WAR–CAESAR, MEM–FRANCIA–WAR–ALESIA
+  MEMs: MEM–FRANCIA–GEO–RHINE–RIVER, MEM–FRANCIA–WAR–CAESAR, MEM–FRANCIA–WAR–ALESIA
 
 Strabo (c. 64 BC–c. 24 AD)
   *Geographica*, Books III–IV
@@ -249,7 +249,7 @@ Tacitus, Publius Cornelius (c. 56–c. 120)
   *Germania*; *Annals*; *Histories*
   ARC-T: ARC-T-ANCIENT
   Citations: References in GEO–RHINE and frontier MEMs
-  MEMs: MEM–FRANCIA–GEO–RHINE
+  MEMs: MEM–FRANCIA–GEO–RHINE–RIVER
 
 Augustine of Hippo (354–430)
   *Epistulae*, Letter 199
@@ -378,7 +378,7 @@ MEM–FRANCIA–GEO–MEDITERRANEAN–SEA:
 MEM–FRANCIA–GEO–PYRENEES:
   Strabo, Einhard, Voltaire, Braudel
 
-MEM–FRANCIA–GEO–RHINE:
+MEM–FRANCIA–GEO–RHINE–RIVER:
   Caesar, Tacitus, Gregory of Tours, Voltaire, Braudel
 
 MEM–FRANCIA–EMPIRE:

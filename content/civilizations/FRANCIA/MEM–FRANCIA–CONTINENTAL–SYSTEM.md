@@ -70,6 +70,16 @@ market choice. Andrew Roberts notes that Napoleon assumed continental
 states could be “commanded into economic obedience” much as armies
 were commanded into battle (*Napoleon: A Life*).
 
+Niall Ferguson (ARC–FRANCIA) on economic warfare and credit:
+
+"Napoleon's Continental System was the wrong weapon. British power
+rested on credit and trade, not on continental markets; blockading
+Europe hurt European consumers more than British creditors. The system
+could not be enforced without occupation, and occupation bred resistance.
+Economic warfare, like naval warfare, required capabilities France did
+not possess."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
 The system is **declarative**, not negotiated.
 
 ────────────────────────────────────────────────────────────

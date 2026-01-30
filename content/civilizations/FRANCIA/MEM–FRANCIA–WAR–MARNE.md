@@ -291,8 +291,8 @@ Contradictions preserved without verdict.
 XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
-• MEM–FRANCIA–WAR–VERDUN — subsequent 1916 bloodletting
-• MEM–FRANCIA–WAR–SOMME — subsequent 1916 allied offensive
+• MEM–FRANCIA–WAR–FIRST–WORLD–VERDUN — subsequent 1916 bloodletting
+• MEM–FRANCIA–WAR–FIRST–WORLD–SOMME — subsequent 1916 allied offensive
 • MEM–FRANCIA–WAR–WORLD–WAR–I — overall conflict context
 • MEM–FRANCIA–THIRD–REPUBLIC — political context
 • MEM–FRANCIA–WAR–FRANCO–PRUSSIAN — 1870 trauma avoided

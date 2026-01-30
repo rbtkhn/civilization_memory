@@ -1,4 +1,4 @@
-MEM–FRANCIA–WAR–MARENGO — v2.0
+MEM–FRANCIA–WAR–NAPOLEON–MARENGO — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
@@ -365,7 +365,7 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–NAPOLEON — figure context
-• MEM–FRANCIA–WAR–AUSTERLITZ — authority validation
+• MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — authority validation
 • MEM–FRANCIA–WAR–NAPOLEON–JENA — authority extension
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — authority collapse
 • MEM–FRANCIA–FRENCH–REVOLUTION — revolutionary context
@@ -436,5 +436,5 @@ Future upgrades may:
 • Add Layer 3 Assumptions Box
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–MARENGO v2.0
+END OF FILE — MEM–FRANCIA–WAR–NAPOLEON–MARENGO v2.0
 ────────────────────────────────────────────────────────────

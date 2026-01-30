@@ -192,7 +192,7 @@ FRANCIA (each connection structurally necessary; justification below):
 • **MEM–FRANCIA–DECLARATION–RIGHTS–MAN** — Rights rhetoric retained under Directory; legitimacy claim depends on it.
 • **MEM–FRANCIA–PARIS** — Vendémiaire and Brumaire occur in Paris; capital as stage is structurally necessary.
 • **MEM–FRANCIA–GEO–SEINE–RIVER** — Paris/Directory seat; GEO requirement (≥2 GEO MEMs).
-• **MEM–FRANCIA–GEO–RHINE** — Eastern front of Directory’s wars; GEO requirement and war geography.
+• **MEM–FRANCIA–GEO–RHINE–RIVER** — Eastern front of Directory’s wars; GEO requirement and war geography.
 
 Cross-civilizational:
 • (None required for minimum)

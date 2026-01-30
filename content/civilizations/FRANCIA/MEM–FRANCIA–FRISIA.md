@@ -128,7 +128,7 @@ FRANCIA:
 • MEM–FRANCIA–WAR–VIKINGS — North Sea; Viking raids on Frisian/Frankish coast
 • MEM–FRANCIA–GEO–ENGLISH–CHANNEL — North Sea / Channel axis
 • MEM–FRANCIA–GEO–ATLANTIC–OCEAN — Maritime periphery
-• MEM–FRANCIA–GEO–RHINE — Rhine as southern Frisian boundary
+• MEM–FRANCIA–GEO–RHINE–RIVER — Rhine as southern Frisian boundary
 • MEM–FRANCIA–GEO–MEUSE–RIVER — Meuse; Low Countries geography
 • MEM–FRANCIA–CHARLEMAGNE — Conquest and incorporation of Frisia
 

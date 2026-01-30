@@ -69,6 +69,15 @@ lacked the population to defend its claims and the navy to reinforce
 them."
 — John Keegan, *Fields of Battle* (1996) (ARC-T-MODERN) [ERC-SECONDARY]
 
+Niall Ferguson (ARC–FRANCIA) on colonial value and imperial logic:
+
+"The Caribbean sugar islands were worth more than the whole of North
+America to the European powers. Saint-Domingue alone produced more
+revenue than Canada; its loss destroyed the French imperial design in
+the Americas and made the sale of Louisiana inevitable. Empire was
+about profit, not territory—and when profit collapsed, empire collapsed."
+— Niall Ferguson, *Empire* (2003) (ARC-T-MODERN) [ERC-SECONDARY]
+
 The Caribbean was different: sugar, slaves, and profit—and no
 sustained French demographic base. The choice in 1763 to keep the
 sugar islands rather than Canada reflected that logic.

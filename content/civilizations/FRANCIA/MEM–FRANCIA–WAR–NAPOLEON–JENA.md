@@ -323,9 +323,9 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–NAPOLEON — figure context
-• MEM–FRANCIA–WAR–AUSTERLITZ — prior validation
+• MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — prior validation
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — reversal
-• MEM–FRANCIA–WAR–WATERLOO — final defeat
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — final defeat
 • MEM–FRANCIA–CONTINENTAL–SYSTEM — extraction mechanism
 • MEM–FRANCIA–WAR–FOURTH–COALITION — campaign context
 • MEM–FRANCIA–WAR–THIRD–COALITION — prior campaign

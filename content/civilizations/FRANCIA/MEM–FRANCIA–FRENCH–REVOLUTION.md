@@ -66,6 +66,34 @@ Rousseau had supplied the grammar of legitimate rupture:
 
 That pre-Revolutionary intellectual erosion is part of the context in which "Enlightenment moral critique" operates.
 
+Will Durant (ARC–FRANCIA) on the Revolution as the product of ideas and collapse:
+
+"The French Revolution was the product of many causes: fiscal collapse,
+aristocratic resistance, middle-class ambition, peasant misery. But it
+was also the product of ideas—of Rousseau's sovereignty of the people,
+of Voltaire's assault on superstition and privilege, of the belief that
+reason could remake society. The old regime did not merely fail
+economically; it had already lost the authority of belief."
+— Will Durant, *Rousseau and Revolution* (1967) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Niall Ferguson (ARC–FRANCIA) on revolution and finance:
+
+"The French Revolution was made possible by the monarchy's fiscal
+collapse. The ancien régime could not service its debt; the Estates
+General were summoned to authorize new taxes; and the result was not
+reform but revolution. Once the revolutionaries inherited the debt,
+they discovered that legitimacy without credit was as unsustainable
+as credit without legitimacy."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Montaigne had offered skepticism as a brake on certainty—the road not taken:
+
+> "We are all of us patchwork, and so shapeless and diverse in composition that each bit, each moment, plays its own game."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The Revolution chose Rousseau's general will over Montaigne's patchwork;
+certainty over restraint.
+
 Legitimacy decays faster than institutions can adapt.
 
 ────────────────────────────────────────────────────────────

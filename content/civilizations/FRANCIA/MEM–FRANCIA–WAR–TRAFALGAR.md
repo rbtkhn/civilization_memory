@@ -283,13 +283,13 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–NAPOLEON — figure context
-• MEM–FRANCIA–WAR–AUSTERLITZ — land victory same campaign
+• MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — land victory same campaign
 • MEM–FRANCIA–CONTINENTAL–SYSTEM — strategic consequence
 • MEM–FRANCIA–NAVY — naval power destroyed
 • MEM–FRANCIA–WAR–QUEBEC — earlier naval inferiority
 • MEM–FRANCIA–WAR–YORKTOWN — exceptional naval success
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — ultimate consequence
-• MEM–FRANCIA–WAR–WATERLOO — final defeat
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — final defeat
 • MEM–FRANCIA–WAR–PENINSULA — Continental System enforcement
 • MEM–FRANCIA–VILLENEUVE — commander (gap: Subject MEM)
 

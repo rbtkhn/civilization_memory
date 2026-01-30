@@ -84,6 +84,16 @@ When war came, France lacked the population to defend its claims
 and the navy to reinforce them."
 — John Keegan, *Fields of Battle* (1996)
 
+Niall Ferguson (ARC–FRANCIA) on empire and naval-financial constraint:
+
+"French empire was repeatedly lost at sea. The First Empire collapsed
+because France could not fund and man a navy to match Britain's; the
+Second Empire collapsed because colonial wars drained the metropolis
+without generating the returns that had sustained British imperial
+finance. Empire required naval power; naval power required credit;
+France had ambition but not the fiscal-military machine to sustain it."
+— Niall Ferguson, *Empire* (2003) (ARC-T-MODERN) [ERC-SECONDARY]
+
 The Treaty of Paris (1763) ends the first empire:
 • Canada ceded to Britain
 • Louisiana east of Mississippi to Britain

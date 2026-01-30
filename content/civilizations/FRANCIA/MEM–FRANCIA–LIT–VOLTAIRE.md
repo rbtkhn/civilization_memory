@@ -55,6 +55,16 @@ Rousseau, by contrast, supplied the moral sovereignty Voltaire refused to supply
 
 Voltaire dissolves; Rousseau reconstitutes.
 
+Montaigne had offered a third path—skepticism as restraint rather than
+critique or construction:
+
+> "The laws of conscience, which we pretend to be born of nature, proceed from custom."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Voltaire mocks custom; Montaigne had doubted the pretence of natural
+certainty. Neither builds; Montaigne limited violence, Voltaire
+delegitimized authority.
+
 ────────────────────────────────────────────────────────────
 II. FORMATIVE ORIGINS & INTELLECTUAL POSTURE
 ────────────────────────────────────────────────────────────

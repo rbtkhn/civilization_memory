@@ -43,6 +43,25 @@ Formative pressures:
 • Fear of state disintegration through faction
 • Commitment to dynastic continuity over charisma
 
+Will Durant (ARC–FRANCIA) on the Wars of Religion as formative context:
+
+"The French Wars of Religion produced a generation that had seen the state
+nearly destroyed by confessional faction. Richelieu was born into that
+chaos; his entire career was a reaction against it. He did not seek to
+impose religious unity by force—he sought to subordinate religion to
+the state, so that belief could never again tear France apart. The
+Reformation had shown the cost of zeal; raison d'état was the answer."
+— Will Durant, *The Reformation* (1957) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Montaigne had already doubted that conscience was nature rather than custom:
+
+> "The laws of conscience, which we pretend to be born of nature, proceed from custom."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Richelieu did not cite Montaigne—but the Wars of Religion had produced
+both skepticism (Montaigne) and the state's claim to stand above belief
+(Richelieu). Custom and raison d'état both subordinated conscience to order.
+
 Richelieu frames authority as preventive discipline:
 
 > “The first foundation of the happiness of states is the authority of

@@ -46,6 +46,16 @@ III. ABSOLUTISM MEETS COALITION PHYSICS
 ────────────────────────────────────────────────────────────
 Louis XIV prosecutes the war as continuation of royal logic.
 
+Will Durant (ARC–FRANCIA) on the war and the Sun King's overreach:
+
+"The War of the Spanish Succession was Louis XIV's last and greatest
+gamble. He had placed his grandson on the Spanish throne; Europe
+united to prevent the union of France and Spain. The war exhausted
+France and broke the spell of invincibility. Louis died in 1715
+leaving his country victorious in name but drained in fact—and his
+successors inherited the bill."
+— Will Durant, *The Age of Louis XIV* (1963) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Characteristics:
 • Centralized command
 • Court-directed strategy

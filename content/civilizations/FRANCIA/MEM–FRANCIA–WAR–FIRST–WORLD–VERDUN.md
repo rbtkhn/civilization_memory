@@ -1,4 +1,4 @@
-MEM–FRANCIA–WAR–VERDUN — v2.0
+MEM–FRANCIA–WAR–FIRST–WORLD–VERDUN — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
@@ -94,6 +94,16 @@ value was immense. Verdun had been French since 843; it had never
 fallen to a German enemy. Falkenhayn calculated correctly that
 France would sacrifice everything to hold it."
 — John Keegan, *The First World War* (1998)
+
+Niall Ferguson frames the attrition logic in cold arithmetic:
+
+"Falkenhayn's aim was not to break through. It was to kill. He had
+calculated that France could not sustain casualties at the rate
+Verdun would impose; that the French army would crack before the
+German; and that the war would be won in the Morgue. The arithmetic
+was wrong—the casualty ratio favoured neither side—but the design
+was industrial slaughter."
+— Niall Ferguson, *The Pity of War* (1998) (ARC-T-MODERN) [ERC-SECONDARY]
 
 The calculation was strategically rational and morally monstrous.
 
@@ -346,7 +356,7 @@ XIII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–MARNE — prior 1914 salvation
-• MEM–FRANCIA–WAR–SOMME — parallel 1916 operation
+• MEM–FRANCIA–WAR–FIRST–WORLD–SOMME — parallel 1916 operation
 • MEM–FRANCIA–WAR–WORLD–WAR–I — overall conflict
 • MEM–FRANCIA–WAR–CHEMIN–DES–DAMES — subsequent 1917
 • MEM–FRANCIA–PETAIN — commander (creates hero/traitor paradox)
@@ -434,5 +444,5 @@ Future upgrades may:
 • Add Ossuary/memory site analysis
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–VERDUN v2.0
+END OF FILE — MEM–FRANCIA–WAR–FIRST–WORLD–VERDUN v2.0
 ────────────────────────────────────────────────────────────

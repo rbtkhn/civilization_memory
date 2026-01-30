@@ -331,11 +331,11 @@ XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–NAPOLEON — figure context
-• MEM–FRANCIA–WAR–AUSTERLITZ — low-cost comparison
+• MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — low-cost comparison
 • MEM–FRANCIA–WAR–NAPOLEON–JENA — system peak
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — eventual collapse
 • MEM–FRANCIA–WAR–FIFTH–COALITION — campaign context
-• MEM–FRANCIA–WAR–MARENGO — founding comparison
+• MEM–FRANCIA–WAR–NAPOLEON–MARENGO — founding comparison
 • MEM–FRANCIA–CONTINENTAL–SYSTEM — extraction mechanism
 • MEM–FRANCIA–AUSTRIA–HUNGARY — Habsburg marriage context
 • MEM–FRANCIA–SPAIN — Peninsula War drain

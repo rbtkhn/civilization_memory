@@ -93,6 +93,15 @@ where Francia’s universal claims are preserved by being re-anchored in
 coercive competence: order first, legitimacy later, but expressed as a
 universal grammar (*Diplomacy*).
 
+Niall Ferguson (ARC–FRANCIA) on revolutionary debt and Napoleonic finance:
+
+"Napoleon inherited the Revolution's debts and the Revolution's legitimacy
+crisis. He could not repudiate the debt without destroying credit; he could
+not service it without conquest and tribute. The Continental System was
+an attempt to break British financial power by force—and it failed because
+money, like the sea, could not be commanded from Paris."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Operational logic:
 → Order must precede liberty.
 

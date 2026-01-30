@@ -28,6 +28,16 @@ Rousseau had supplied the grammar 1848 would invoke:
 > "Man is born free; and everywhere he is in chains."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Niall Ferguson (ARC–FRANCIA) on revolution and credit:
+
+"The revolutions of 1848 were made possible by economic crisis—harvest
+failure, unemployment, financial panic. They failed because the
+revolutionaries had no fiscal-military answer to the question of how
+to govern. Legitimacy without credit was as unsustainable in 1848 as
+it had been in 1789; the difference was that this time the army
+restored order before the revolution could institutionalize."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
 1848 is not a successful revolution.
 It is a **revealed mismatch**.
 

@@ -77,6 +77,15 @@ Effects:
 • Deferred reform pressure
 • Elite complacency
 
+Niall Ferguson (ARC–FRANCIA) on French intervention and its cost:
+
+"France intervened in the American war to wound Britain—and succeeded.
+Yorktown was a French victory as much as an American one. But the cost
+was ruinous: the debt incurred to fund the war made the French Revolution
+fiscally inevitable. The monarchy had bought prestige at the price of
+insolvency."
+— Niall Ferguson, *Empire* (2003) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Triumph delays reckoning.
 
 ────────────────────────────────────────────────────────────

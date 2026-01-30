@@ -1,4 +1,4 @@
-MEM–FRANCIA–GEO–RHINE — v2.0
+MEM–FRANCIA–GEO–RHINE–RIVER — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · GEO–MEM TEMPLATE COMPLIANT
 
@@ -215,7 +215,7 @@ XV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-1. Confirm ingest of MEM–FRANCIA–GEO–RHINE v2.0
+1. Confirm ingest of MEM–FRANCIA–GEO–RHINE–RIVER v2.0
 2. Declare MEM ACTIVE for session
 3. Present exactly EIGHT exploration options:
 
@@ -229,5 +229,5 @@ G. ARC-T continuity: Compare four-era testimony on the Rhine and frontier
 H. Cross-civ: MEM–GERMANIA–GEO–RHINE or equivalent if exists
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–GEO–RHINE — v2.0
+END OF FILE — MEM–FRANCIA–GEO–RHINE–RIVER — v2.0
 ────────────────────────────────────────────────────────────

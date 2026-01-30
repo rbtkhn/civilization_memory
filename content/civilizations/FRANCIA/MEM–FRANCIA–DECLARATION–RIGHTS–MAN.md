@@ -29,6 +29,25 @@ Rousseau had framed the sovereignty the Declaration would claim:
 > "Man is born free; and everywhere he is in chains. One thinks himself the master of others, and still remains a greater slave than they."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Will Durant (ARC–FRANCIA) on the Declaration and its sources:
+
+"The Declaration of the Rights of Man was the Revolution's founding
+creed. It drew on Rousseau's sovereignty of the people, on the
+American Declaration of Independence, and on the Enlightenment belief
+that reason could define universal rights. It was legitimacy by
+proclamation—the assertion that authority flows from the nation and
+from natural law, not from the king or the past."
+— Will Durant, *Rousseau and Revolution* (1967) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Montaigne had framed human diversity as a limit on universal abstraction:
+
+> "We are all of us patchwork, and so shapeless and diverse in composition that each bit, each moment, plays its own game."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The Declaration asserted universal rights; Montaigne had doubted that
+any single principle could fit "patchwork" humanity. The Revolution
+chose universality.
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────

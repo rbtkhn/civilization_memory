@@ -97,7 +97,7 @@ MEM–FRANCIA–BELGIUM Section XII lists:
 
 1. **ERC:** Add [ERC-PRIMARY] or [ERC-CONTEXTUAL] to each verbatim quote per template V.
 2. **MEM BIBLIOGRAPHY:** Add a section listing all sources (primary and secondary) used or cited.
-3. **MEM CONNECTIONS:** Expand same-civilization connections (e.g. MEM–FRANCIA–WAR–WATERLOO, MEM–FRANCIA–NAPOLEON, MEM–FRANCIA–GEO–ENGLISH–CHANNEL, MEM–FRANCIA–GEO–RHINE, MEM–FRANCIA–PARIS, MEM–FRANCIA–FRENCH–REVOLUTION, MEM–FRANCIA–RICHELIEU, MEM–FRANCIA–BELGIUM–ANTWERP, etc.) to ≥10 and include ≥2 GEO MEMs with justification.
+3. **MEM CONNECTIONS:** Expand same-civilization connections (e.g. MEM–FRANCIA–WAR–NAPOLEON–WATERLOO, MEM–FRANCIA–NAPOLEON, MEM–FRANCIA–GEO–ENGLISH–CHANNEL, MEM–FRANCIA–GEO–RHINE–RIVER, MEM–FRANCIA–PARIS, MEM–FRANCIA–FRENCH–REVOLUTION, MEM–FRANCIA–RICHELIEU, MEM–FRANCIA–BELGIUM–ANTWERP, etc.) to ≥10 and include ≥2 GEO MEMs with justification.
 4. **SUBJECT TYPE DECLARATION:** Add VIII.C declaration (e.g. well-documented subject; PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥2).
 5. **ARC version pinning:** Add "ARC version pinned: CIV–ARC–FRANCIA vX.X" (or equivalent).
 6. **Layer 2 (optional):** Add CITY/PLACE structured data (geographic parameters, economic function, control history table) for template alignment and queryability.

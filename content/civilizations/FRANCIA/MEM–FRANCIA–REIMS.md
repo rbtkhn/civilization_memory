@@ -137,7 +137,7 @@ FRANCIA:
 • MEM–FRANCIA–DYNASTY–CAROLINGIAN — Frankish/Reims baptism tradition
 • MEM–FRANCIA–AQUITAINE — Hundred Years' War; territorial vs ritual stakes
 • MEM–FRANCIA–GEO–SEINE–RIVER — Paris–Reims axis; Île-de-France and Champagne
-• MEM–FRANCIA–GEO–RHINE — Eastern approaches; Reims between Paris and Rhine
+• MEM–FRANCIA–GEO–RHINE–RIVER — Eastern approaches; Reims between Paris and Rhine
 
 Cross-civilizational:
 • (None required for minimum)

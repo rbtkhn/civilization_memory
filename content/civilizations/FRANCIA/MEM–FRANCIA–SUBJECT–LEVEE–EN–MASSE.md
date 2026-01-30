@@ -106,6 +106,15 @@ Roberts thus ties the **Levée's mass base** to Napoleon's corps system—the
 Revolutionary citizen-soldier and the Imperial operational unit together
 define modern mass warfare.
 
+Niall Ferguson (ARC–FRANCIA) on total war and the Levée:
+
+"The Levée en masse was the first declaration of total war. It
+mobilized the entire nation—men, women, children—for the war effort.
+It was the template for the mass armies of the twentieth century:
+conscription, national sentiment, and the fusion of citizen and soldier.
+The French Revolution invented the form; the Great War would perfect it."
+— Niall Ferguson, *The Pity of War* (1998) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Jeremy D. Popkin (ARC–FRANCIA) on the Revolution as laboratory:
 
 "The French Revolution [is] the laboratory in which all the
@@ -302,7 +311,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–NAPOLEON–MARENGO — Levée inheritance
 • MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — Grande Armée peak
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — system exhaustion
-• MEM–FRANCIA–WAR–WATERLOO — terminal failure
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — terminal failure
 • MEM–FRANCIA–REVOLUTION — political context
 • MEM–FRANCIA–CARNOT — organizer (gap: MEM needed)
 • MEM–FRANCIA–COMMITTEE–PUBLIC–SAFETY — issuing authority

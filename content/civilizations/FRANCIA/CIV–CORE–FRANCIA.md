@@ -24,7 +24,7 @@ Governed by:
 • CIV–CORE–TEMPLATE v2.0 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (interaction layer)
 • CIV–ARC–FRANCIA v1.7 (author admissibility canon)
-• CIV–INDEX–FRANCIA v1.7 (MEM scope: 115 files)
+• CIV–INDEX–FRANCIA v2.0 (MEM scope: 139 files)
 
 Last Update: January 2026
 WORDCOUNT: ~5,200

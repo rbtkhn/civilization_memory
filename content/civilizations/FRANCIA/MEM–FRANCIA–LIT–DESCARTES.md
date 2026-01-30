@@ -1,4 +1,4 @@
-MEM–FRANCIA–DESCARTES — v1.1
+MEM–FRANCIA–LIT–DESCARTES — v1.1
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
 Version: 1.1
@@ -13,7 +13,7 @@ Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves René Descartes as **Francia’s epistemic
+This file preserves René Descartes as **Francia's epistemic
 reconstruction engine**: the thinker who re-founded knowledge on
 methodical doubt, relocated authority from tradition to reason, and
 provided the cognitive grammar that later enabled both centralized
@@ -30,7 +30,7 @@ II. FORMATIVE CONTEXT & INTELLECTUAL INTENT
 Descartes emerges from late–religious-war exhaustion.
 
 Context:
-• Confessional collapse memory (Thirty Years’ War era)
+• Confessional collapse memory (Thirty Years' War era)
 • Scholastic authority discredited by fragmentation
 • Desire for certainty without inherited doctrine
 
@@ -90,12 +90,12 @@ The state becomes a machine to be optimized.
 Human systems are rendered legible.
 
 ────────────────────────────────────────────────────────────
-VI. RELATION TO FRANCIA’S STATE TRAJECTORY
+VI. RELATION TO FRANCIA'S STATE TRAJECTORY
 ────────────────────────────────────────────────────────────
 Descartes aligns with early-modern centralization.
 
 Compatibilities:
-• Richelieu’s rational statecraft
+• Richelieu's rational statecraft
 • Legal codification
 • Bureaucratic uniformity
 • Cultural universalism
@@ -109,11 +109,19 @@ Reason strengthens order—until it destabilizes it.
 ────────────────────────────────────────────────────────────
 VII. DESCARTES VS VOLTAIRE VS ROUSSEAU (POSITIONING)
 ────────────────────────────────────────────────────────────
-Within Francia’s intellectual sequence:
+Within Francia's intellectual sequence:
 
 • Descartes — epistemic reset (how we know)
 • Voltaire — corrosive critique (what we mock)
 • Rousseau — moral absolutism (what we must be)
+
+Montaigne had offered doubt as restraint—the road not taken:
+
+> "What do I know?"
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Descartes turned doubt into a tool for certainty; Montaigne used it to
+limit the violence done in truth's name. Francia chose Descartes.
 
 Rousseau had framed the moral sovereignty that would replace procedural authority:
 
@@ -134,7 +142,7 @@ Others weaponize it.
 ────────────────────────────────────────────────────────────
 VIII. LONG-TERM CIVILIZATIONAL EFFECT
 ────────────────────────────────────────────────────────────
-Descartes’ legacy is foundational but dangerous.
+Descartes' legacy is foundational but dangerous.
 
 Outcomes:
 • Rationalism normalized
@@ -151,7 +159,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Method can replace tradition without replacing wisdom.
 • Rational abstraction empowers states and revolutions alike.
 • Descartes enables modern governance before modern democracy.
-• Francia’s universalism begins in the mind, not the street.
+• Francia's universalism begins in the mind, not the street.
 • Cogito precedes guillotine—not causally, but structurally.
 
 Tension preserved without verdict.
@@ -166,5 +174,5 @@ CITED SOURCES (verbatim in MEM):
 ARC version pinned: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DESCARTES — v1.1
+END OF FILE — MEM–FRANCIA–LIT–DESCARTES — v1.1
 ────────────────────────────────────────────────────────────

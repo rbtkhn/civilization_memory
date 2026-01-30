@@ -18,6 +18,16 @@ through distance, fatigue, and quiet institutional drift.
 Louis XV does not rupture Francia.
 He **hollows it**.
 
+Will Durant (ARC–FRANCIA) on the contrast with the previous reign:
+
+"Louis XV inherited the throne at five. He inherited the machinery of
+absolutism that Louis XIV had built—Versailles, the court, the army,
+the bureaucracy. But he did not inherit the will to use it. The Sun
+King had made France the arbiter of Europe; his successor presided
+over its decline. The system continued to function; the belief that
+sustained it did not."
+— Will Durant, *The Age of Louis XIV* (1963) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────

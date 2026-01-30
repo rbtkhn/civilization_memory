@@ -1,4 +1,4 @@
-MEM–FRANCIA–WAR–SOMME — v2.0
+MEM–FRANCIA–WAR–FIRST–WORLD–SOMME — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
@@ -288,10 +288,10 @@ Contradictions preserved without verdict.
 XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
-• MEM–FRANCIA–WAR–VERDUN — parallel 1916 operation
+• MEM–FRANCIA–WAR–FIRST–WORLD–VERDUN — parallel 1916 operation
 • MEM–FRANCIA–WAR–WORLD–WAR–I — overall conflict context
 • MEM–FRANCIA–WAR–MARNE — 1914 context
-• MEM–FRANCIA–WAR–WATERLOO — Keegan trilogy connection
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — Keegan trilogy connection
 • MEM–FRANCIA–WAR–AGINCOURT — Keegan trilogy connection
 • MEM–FRANCIA–GEO–SOMME–RIVER — geographic context
 • MEM–FRANCIA–THIRD–REPUBLIC — political context
@@ -371,5 +371,5 @@ Future upgrades may:
 • Add soldier testimony sources
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–SOMME v2.0
+END OF FILE — MEM–FRANCIA–WAR–FIRST–WORLD–SOMME v2.0
 ────────────────────────────────────────────────────────────

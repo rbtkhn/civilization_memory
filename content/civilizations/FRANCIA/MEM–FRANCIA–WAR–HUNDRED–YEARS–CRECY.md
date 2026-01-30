@@ -1,4 +1,4 @@
-MEM–FRANCIA–WAR–CRECY — v2.0
+MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
@@ -355,5 +355,5 @@ Future upgrades may:
 • Add chronicle sources (Froissart)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–CRECY v2.1
+END OF FILE — MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY v2.1
 ────────────────────────────────────────────────────────────

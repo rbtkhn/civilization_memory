@@ -43,6 +43,13 @@ Rousseau had framed the logic Robespierre would execute:
 > "Whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Montaigne had offered the opposite restraint—doubt and patchwork against moral unanimity:
+
+> "We are all of us patchwork, and so shapeless and diverse in composition that each bit, each moment, plays its own game."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Robespierre embodied the general will; Montaigne had denied that any single will could fit human diversity. Virtue required unity; skepticism was deviance.
+
 Formative traits:
 • Rousseauian moral philosophy
 • Legalist absolutism

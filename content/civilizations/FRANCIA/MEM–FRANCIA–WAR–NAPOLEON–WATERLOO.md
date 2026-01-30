@@ -1,10 +1,10 @@
-MEM–FRANCIA–WAR–WATERLOO — v2.0
+MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
 Version: 2.0
-Supersedes: MEM–FRANCIA–WAR–WATERLOO v1.0
+Supersedes: MEM–FRANCIA–WAR–NAPOLEON–WATERLOO v1.0
 Upgrade Type: MAJOR · THREE-LAYER COMPLIANCE · KEEGAN INTEGRATION
 Civilization: FRANCIA
 Subject: Battle of Waterloo
@@ -106,6 +106,16 @@ concentrate, knock Britain out of the war, and hope that a quick victory
 would fracture the coalition. It was a desperate strategy, but it was
 the only strategy available."
 — David G. Chandler, *The Campaigns of Napoleon* (1966)
+
+Niall Ferguson (ARC–FRANCIA) on the end of the Napoleonic gamble:
+
+"Waterloo was not merely a battle lost; it was a fiscal-military
+model exhausted. Napoleon had funded his wars by plunder and tribute;
+when the plunder ran out and the tributaries defected, he had no
+credit to fall back on. Britain had funded the coalition with
+subsidies and debt; France had nothing left. The last throw of the
+dice was the only throw left—and it failed."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
 
 The Hundred Days is AXIOM FRANCIA-003 (rupture enables renewal) tested
 to destruction. Napoleon attempts one final rupture-to-renewal cycle;
@@ -336,8 +346,8 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — prior collapse (system vs. battle)
 • MEM–FRANCIA–WAR–NAPOLEON–WAGRAM — expensive victory contrast
 • MEM–FRANCIA–WAR–NAPOLEON–JENA — system peak contrast
-• MEM–FRANCIA–WAR–MARENGO — founding moment contrast
-• MEM–FRANCIA–WAR–AUSTERLITZ — validation moment contrast
+• MEM–FRANCIA–WAR–NAPOLEON–MARENGO — founding moment contrast
+• MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — validation moment contrast
 • MEM–FRANCIA–DYNASTY–BOURBON — restoration context
 • MEM–FRANCIA–FRENCH–REVOLUTION — revolutionary memory
 • MEM–FRANCIA–TALLEYRAND — Congress diplomacy
@@ -426,5 +436,5 @@ Future upgrades may:
 • Integrate Clausewitz's analysis
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–WATERLOO v2.0
+END OF FILE — MEM–FRANCIA–WAR–NAPOLEON–WATERLOO v2.0
 ────────────────────────────────────────────────────────────

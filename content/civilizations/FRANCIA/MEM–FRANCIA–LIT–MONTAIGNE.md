@@ -1,4 +1,4 @@
-MEM–FRANCIA–MONTAIGNE — v1.0
+MEM–FRANCIA–LIT–MONTAIGNE — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
@@ -12,7 +12,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Montaigne as **Francia’s skeptical humanist
+This file preserves Montaigne as **Francia's skeptical humanist
 stabilizer**: the thinker who confronted civilizational fracture not by
 rebuilding certainty, but by cultivating restraint, self-knowledge,
 and tolerance in the absence of reliable authority.
@@ -33,6 +33,15 @@ Context:
 • Collapse of trust in institutions
 • Personal exposure to political instability
 
+Will Durant (ARC–FRANCIA) on Montaigne and the Wars of Religion:
+
+"Montaigne wrote his *Essays* in the midst of the French Wars of Religion—
+amid St. Bartholomew, siege, and massacre. He had seen certainty produce
+slaughter; his skepticism was not indifference but a refusal to kill for
+belief. He asked *Que sais-je?* not to destroy truth but to limit the
+violence done in its name. In an age of fanaticism, he chose doubt."
+— Will Durant, *The Reformation* (1957) (ARC-T-MODERN) [ERC-SECONDARY]
+
 The problem is not ignorance.
 It is **fanatic certainty**.
 
@@ -47,8 +56,15 @@ Method:
 • Classical reference
 • Radical intellectual humility
 
-Core posture:
-> Que sais-je? (What do I know?)
+Core posture—Montaigne in his own words:
+
+> "What do I know?"
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+On custom and restraint:
+
+> "The laws of conscience, which we pretend to be born of nature, proceed from custom."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
 Knowledge is provisional.
 Judgment must be restrained.
@@ -56,7 +72,7 @@ Judgment must be restrained.
 ────────────────────────────────────────────────────────────
 IV. SKEPTICISM AS CIVILIZATIONAL DEFENSE
 ────────────────────────────────────────────────────────────
-Montaigne’s skepticism is protective, not corrosive.
+Montaigne's skepticism is protective, not corrosive.
 
 Functions:
 • Limits ideological absolutism
@@ -79,11 +95,16 @@ Positions:
 • Distrusts abstract reform
 • Prefers gradualism to rupture
 
+Montaigne on the limits of reform:
+
+> "We are all of us patchwork, and so shapeless and diverse in composition that each bit, each moment, plays its own game."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
 Tradition is flawed—
 but preferable to ideological purification.
 
 ────────────────────────────────────────────────────────────
-VI. MONTaIGNE VS DESCARTES (STRUCTURAL CONTRAST)
+VI. MONTAIGNE VS DESCARTES (STRUCTURAL CONTRAST)
 ────────────────────────────────────────────────────────────
 • Montaigne: doubt to limit action
 • Descartes: doubt to rebuild certainty
@@ -102,7 +123,7 @@ The other enables it.
 ────────────────────────────────────────────────────────────
 VII. LONG-TERM CIVILIZATIONAL EFFECT
 ────────────────────────────────────────────────────────────
-Montaigne’s legacy is ethical, not institutional.
+Montaigne's legacy is ethical, not institutional.
 
 Outcomes:
 • Humanist moderation tradition
@@ -127,4 +148,4 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–MONTAIGNE — v1.0
+END OF FILE — MEM–FRANCIA–LIT–MONTAIGNE — v1.0

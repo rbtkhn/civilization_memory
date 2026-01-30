@@ -45,6 +45,15 @@ Rousseau had framed the legitimacy the crown could no longer claim:
 > "Man is born free; and everywhere he is in chains."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Will Durant (ARC–FRANCIA) on the king and the collapse of authority:
+
+"Louis XVI was not a tyrant; he was a man of good will who lacked the
+force to govern. He inherited a throne that had already lost much of
+its moral authority, and he had neither the ruthlessness to suppress
+opposition nor the vision to lead reform. When he summoned the Estates-General,
+he hoped for fiscal rescue; he received revolution."
+— Will Durant, *Rousseau and Revolution* (1967) (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 II. INHERITED CRISIS CONDITIONS
 ────────────────────────────────────────────────────────────

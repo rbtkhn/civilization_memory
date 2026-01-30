@@ -47,6 +47,14 @@ position guaranteed outcomes no longer supported by structure
 
 Napoleon III’s regime mistook symbolic authority for operational capacity.
 
+Niall Ferguson (ARC–FRANCIA) on the war's place in the long arc to 1914:
+
+"The Franco-Prussian War was the hinge. It created the German Empire,
+humiliated France, and left a revanche psychology that would drive
+French policy for two generations. The war of 1870 made the war of 1914
+thinkable—and for many on both sides, desirable."
+— Niall Ferguson, *The Pity of War* (1998) (ARC-T-MODERN) [ERC-SECONDARY]
+
 War was chosen to restore legitimacy.
 It instead destroyed it.
 

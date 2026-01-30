@@ -210,7 +210,7 @@ FRANCIA (each connection structurally necessary):
 • **MEM–FRANCIA–LAFAYETTE** — Lafayette and National Guard; post-Bastille order in Paris.
 • **MEM–FRANCIA–PARIS** — Bastille as Paris event; capital as revolutionary stage. Structurally necessary.
 • **MEM–FRANCIA–GEO–SEINE–RIVER** — Paris geography; Bastille site. GEO requirement (≥2).
-• **MEM–FRANCIA–GEO–RHINE** — Eastern frontier; Revolution's later war context. GEO requirement.
+• **MEM–FRANCIA–GEO–RHINE–RIVER** — Eastern frontier; Revolution's later war context. GEO requirement.
 
 Cross-civilizational: (None required for minimum.)
 

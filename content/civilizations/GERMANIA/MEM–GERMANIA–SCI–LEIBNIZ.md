@@ -229,7 +229,7 @@ GERMANIA (Same-Civilization):
 Cross-Civilizational:
 • MEM–ANGLIA–NEWTON (calculus priority dispute)
 • MEM–FRANCIA–LIT–VOLTAIRE (Candide satire of optimism)
-• MEM–FRANCIA–DESCARTES (rationalist predecessor)
+• MEM–FRANCIA–LIT–DESCARTES (rationalist predecessor)
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

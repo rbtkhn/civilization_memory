@@ -123,7 +123,7 @@ FRANCIA:
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — war context
 • MEM–FRANCIA–DYNASTY–VALOIS — ruling dynasty, Dauphin Charles
 • MEM–FRANCIA–ESTATES–GENERAL — 1357 reform attempt, Marcel
-• MEM–FRANCIA–WAR–CRECY — prior defeat, noble losses
+• MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — prior defeat, noble losses
 • MEM–FRANCIA–CHARLES–V — Dauphin, later king, suppressor
 • MEM–FRANCIA–FRENCH–REVOLUTION — later rupture-from-below comparison
 • MEM–FRANCIA–FRENCH–REVOLUTION–REIGN–TERROR — later targeting of elites

@@ -36,6 +36,15 @@ Rousseau had defined the sovereign body the Estates would claim to become:
 > "Each of us puts his person and all his power in common under the supreme direction of the general will, and, in our corporate capacity, we receive each member as an indivisible part of the whole."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Will Durant (ARC–FRANCIA) on the Estates-General of 1789:
+
+"When the Estates-General met in 1789, they were summoned to authorize
+taxes and restore the crown's credit. Instead, the Third Estate declared
+itself the National Assembly and claimed sovereignty in the name of the
+nation. The crown had convened the one body that could legally replace it—
+and had lost the authority to dissolve it."
+— Will Durant, *Rousseau and Revolution* (1967) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────

@@ -132,7 +132,7 @@ FRANCIA:
 • MEM–FRANCIA–ELEANOR–AQUITAINE — Heiress; marriage and annulment; Plantagenet hold
 • MEM–FRANCIA–WAR–HUNDRED–YEARS — Aquitaine as cause and theatre
 • MEM–FRANCIA–WAR–POITIERS — John II captured; Brétigny; Aquitaine ceded
-• MEM–FRANCIA–WAR–CRECY — Hundred Years' War; English base in south
+• MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — Hundred Years' War; English base in south
 • MEM–FRANCIA–DYNASTY–CAPET — Capetian marriage strategy; loss of duchy
 • MEM–FRANCIA–DYNASTY–VALOIS — Recovery; Charles V; reabsorption
 • MEM–FRANCIA–LANGUEDOC — Southern Francia; distinct region; post-crusade royal south

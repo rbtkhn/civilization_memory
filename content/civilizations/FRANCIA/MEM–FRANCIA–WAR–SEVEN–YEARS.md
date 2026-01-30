@@ -127,6 +127,15 @@ claims remained culturally persuasive, but the war proved that universal
 status could not be preserved without maritime enforcement and scalable
 credit (*France 1715–1815*).
 
+Niall Ferguson (ARC–FRANCIA) on fiscal-military constraint:
+
+"Empires require not only territory but the means to hold it—naval
+power to control sea lanes, fiscal capacity to fund garrisons and
+fleets, and the will to prioritize colonial defense over continental
+ambition. France in the eighteenth century repeatedly chose continental
+war over colonial investment; the Seven Years' War was the reckoning."
+— Niall Ferguson, *Empire* (2003) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Universal claims collapse under naval reality.
 
 ────────────────────────────────────────────────────────────
@@ -268,6 +277,7 @@ Primary (anchors; quotations embedded above):
 Secondary (≥4 total; ≥3 Distinguished Scholars embedded above):
 • Fred Anderson, *Crucible of War* (secondary)
 • Will Durant, *The Age of Voltaire* (Distinguished Scholar)
+• Niall Ferguson, *Empire* (2003) (Distinguished Scholar)
 • Roger Pearson, *Voltaire Almighty: A Life in Pursuit of Freedom*
   (London: Bloomsbury, 2005) (ARC-T-MODERN)
 • Henry Kissinger, *Diplomacy* (Distinguished Scholar)

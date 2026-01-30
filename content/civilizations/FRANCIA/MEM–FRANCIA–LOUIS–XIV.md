@@ -109,6 +109,15 @@ Johannes Fried situates this phase as the moment when **state capacity
 finally overtakes aristocratic mediation**, creating a durable but rigid
 administrative core (*The Middle Ages*).
 
+Niall Ferguson (ARC–FRANCIA) on the fiscal-military state:
+
+"Louis XIV's France was the greatest military power in Europe—and the
+most indebted. The Sun King's wars were funded by borrowing and by
+selling offices; when the wars ended, the debt remained. The absolutist
+state could project power but could not sustain it without crushing
+taxation and eventual crisis. The fiscal-military state had a ceiling."
+— Niall Ferguson, *The Cash Nexus* (2001) (ARC-T-MODERN) [ERC-SECONDARY]
+
 Administration executes policy.
 Legitimacy radiates from the crown.
 
@@ -132,7 +141,7 @@ Boileau articulates the logic:
 
 Will Durant characterizes this cultural universalism as **coercion by
 admiration**, replacing force with emulation while masking underlying
-resource strain (*The Age of Reason Begins*).
+resource strain (*The Age of Louis XIV*).
 
 Voltaire's *Le Siècle de Louis XIV* fixed the reign in Enlightenment
 memory. Voltaire himself frames the age:
@@ -175,6 +184,16 @@ Vauban warns explicitly:
 Peter Wilson places Louis XIV’s wars at the center of Europe’s transition
 from hegemonic ambition to **coalition containment**, accelerating the
 balance-of-power system (*Europe’s Tragedy*).
+
+Will Durant (ARC–FRANCIA) on the reign's logic and cost:
+
+"Louis XIV made France the leading power in Europe and the model for
+every court. He centralized the state, disciplined the nobility, and
+projected French culture as the standard of civilization. But the wars
+that sustained his glory exhausted his treasury and his people. He left
+France dominant in prestige and crippled in finance—a combination that
+would haunt his successors until the Revolution."
+— Will Durant, *The Age of Louis XIV* (1963) (ARC-T-MODERN) [ERC-SECONDARY]
 
 Glory compensates for consent—temporarily.
 

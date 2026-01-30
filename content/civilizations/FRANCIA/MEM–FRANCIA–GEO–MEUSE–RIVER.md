@@ -172,7 +172,7 @@ Same-civilization (≥10):
 • MEM–FRANCIA–WAR–WWII — 1940 Ardennes–Meuse breakthrough; breaks if removed.
 • MEM–FRANCIA–LOUIS–XIV — Northeastern wars and Vauban fortifications; breaks if removed.
 • MEM–FRANCIA–NAPOLEON — Campaigns in Low Countries and Rhine; breaks if removed.
-• MEM–FRANCIA–GEO–RHINE — Rhine–Meuse frontier system; breaks if removed.
+• MEM–FRANCIA–GEO–RHINE–RIVER — Rhine–Meuse frontier system; breaks if removed.
 • MEM–FRANCIA–GEO–SEINE–RIVER — Contrast: interior consolidation vs frontier exposure; breaks if removed.
 • MEM–FRANCIA–GEO–LOIRE–RIVER — Contrast: Loire as heartland vs Meuse as seam; breaks if removed.
 • MEM–FRANCIA–FRENCH–REVOLUTION — Revolutionary wars and northeastern front; breaks if removed.
@@ -180,7 +180,7 @@ Same-civilization (≥10):
 • MEM–FRANCIA–CIV–DOCTRINE — Frontier and buffer in French strategic thought; breaks if removed.
 
 GEO MEMs (≥2):
-• MEM–FRANCIA–GEO–RHINE — Adjacent frontier; breaks if removed.
+• MEM–FRANCIA–GEO–RHINE–RIVER — Adjacent frontier; breaks if removed.
 • MEM–FRANCIA–GEO–ENGLISH–CHANNEL — Northern frontier system; breaks if removed.
 
 ────────────────────────────────────────────────────────────
@@ -209,7 +209,7 @@ When ingested without CIV–MEM–CORE present, the system MUST issue:
 A. Terrain logic: Why does the Meuse function as invasion corridor rather than barrier?
 B. Power distribution: How does buffer (Belgium) magnify vulnerability?
 C. Traverse to MEM–FRANCIA–WAR–WWII (1940 breakthrough)
-D. Traverse to MEM–FRANCIA–GEO–RHINE (frontier system)
+D. Traverse to MEM–FRANCIA–GEO–RHINE–RIVER (frontier system)
 E. Apply Mearsheimer lens: Offense-dominant geography and defense failure
 F. Apply Barnes lens: Who bears liability when the Meuse line fails?
 G. ARC-T continuity: Compare four-era testimony on rivers and war

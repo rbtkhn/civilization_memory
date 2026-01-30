@@ -66,6 +66,15 @@ deemed less advanced. The reality was extraction, forced labor, and
 systematic racial hierarchy."
 — Robert Aldrich, *Greater France* (1996) (ARC-T-MODERN) [ERC-SECONDARY]
 
+Niall Ferguson (ARC–FRANCIA) on comparative empire and mission:
+
+"French imperial rhetoric—mission civilisatrice—claimed to spread
+civilization; the reality was extraction, forced labour, and racial
+hierarchy. The French empire was never as financially self-sustaining
+as the British; it depended on metropolitan subsidy and nationalist
+prestige. When prestige collapsed after 1940, empire became indefensible."
+— Niall Ferguson, *Empire* (2003) (ARC-T-MODERN) [ERC-SECONDARY]
+
 African empire fits the pattern: civilizing rhetoric, extractive
 practice.
 

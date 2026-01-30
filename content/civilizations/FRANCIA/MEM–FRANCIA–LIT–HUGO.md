@@ -1,4 +1,4 @@
-MEM–FRANCIA–HUGO — v1.1
+MEM–FRANCIA–LIT–HUGO — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
@@ -14,7 +14,7 @@ Word Count: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Victor Hugo as **Francia’s moral universalist
+This file preserves Victor Hugo as **Francia's moral universalist
 engine**: the figure who sought to restore legitimacy not through
 institutional design or rational critique, but through moral spectacle,
 empathy, and the sacralization of suffering.
@@ -141,5 +141,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–HUGO — v1.0
+END OF FILE — MEM–FRANCIA–LIT–HUGO — v1.1
 ────────────────────────────────────────────────────────────

@@ -22,6 +22,14 @@ Rousseau had supplied the formula the Terror would apply:
 > "Whoever refuses to obey the general will shall be compelled to do so by the whole body. This means nothing less than that he will be forced to be free."
 > — Rousseau, *Du contrat social* (1762) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
+Montaigne had asked what could limit violence done in truth's name:
+
+> "What do I know?"
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+The Terror answered with certainty, not doubt. Virtue required enforcement;
+skepticism was treason.
+
 This file preserves the Reign of Terror as **Francia's coercive
 legitimacy substitution phase**: the period in which universalist
 principle, unable to secure consent or stability, is enforced through

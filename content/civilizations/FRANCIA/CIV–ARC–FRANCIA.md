@@ -236,6 +236,7 @@ ARC-T-MEDIEVAL:
 
 ARC-T-EARLY-MOD:
 • Jacques-Auguste de Thou (1553–1617) — Historia sui temporis
+• Michel de Montaigne (1533–1592) — Essais (Essays)
 • René Descartes (1596–1650) — Discours de la méthode; Méditations
   métaphysiques
 • François-Marie Arouet (Voltaire) (1694–1778) — Le Siècle de Louis XIV;

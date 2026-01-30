@@ -1,4 +1,4 @@
-MEM–FRANCIA–WAR–AUSTERLITZ — v1.0
+MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
@@ -141,5 +141,5 @@ CITED SOURCES (verbatim in MEM):
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–AUSTERLITZ — v1.0
+END OF FILE — MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — v1.0
 ────────────────────────────────────────────────────────────

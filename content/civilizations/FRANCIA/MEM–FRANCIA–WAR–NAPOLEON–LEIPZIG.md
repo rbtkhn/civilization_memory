@@ -316,9 +316,9 @@ XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–FRANCIA–NAPOLEON — figure context
-• MEM–FRANCIA–WAR–AUSTERLITZ — structural inverse
+• MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — structural inverse
 • MEM–FRANCIA–WAR–NAPOLEON–JENA — earlier validation (now reversed)
-• MEM–FRANCIA–WAR–WATERLOO — final defeat
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — final defeat
 • MEM–FRANCIA–CONTINENTAL–SYSTEM — extraction mechanism failed
 • MEM–FRANCIA–WAR–SIXTH–COALITION — campaign context
 • MEM–FRANCIA–WAR–FIFTH–COALITION — 1809 context

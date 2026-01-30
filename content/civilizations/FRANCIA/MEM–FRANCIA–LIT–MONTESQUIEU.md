@@ -92,8 +92,13 @@ Descartes had grounded method in division and unity:
 > "Divide each of the difficulties I would examine into as many parts as possible."
 > — Descartes, *Discours de la méthode* (1637) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
 
-Descartes simplifies.
-Montesquieu complicates.
+Montaigne had already grounded conscience in custom rather than nature:
+
+> "The laws of conscience, which we pretend to be born of nature, proceed from custom."
+> — Montaigne, *Essays* (1580) (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL]
+
+Descartes simplifies; Montesquieu complicates; Montaigne doubted both
+certainty and the claim that law flows from reason alone.
 
 One empowers centralized systems.
 The other limits them.
