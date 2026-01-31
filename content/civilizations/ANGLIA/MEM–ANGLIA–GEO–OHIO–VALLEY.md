@@ -98,6 +98,12 @@ Lessons:
 
 The valley is where Anglia’s American empire **begins in violence** and where its limits are first tested.
 
+**Structural type:** Ohio is a **continental corridor**—interests
+converge at a geographic point; victory creates scale but also
+deferred governance stress (post-1763). Contrast with **maritime
+choke** (Suez): corridor concentrates stress that outlives victory;
+choke permits procedural control and survivable exit.
+
 ────────────────────────────────────────────────────────────
 VI. CROSS-REFERENCED MEM FILES
 ────────────────────────────────────────────────────────────

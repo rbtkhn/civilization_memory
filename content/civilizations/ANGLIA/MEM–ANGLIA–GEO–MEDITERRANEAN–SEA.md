@@ -129,6 +129,12 @@ Lessons:
 
 The Mediterranean teaches Anglia what **not** to become.
 
+**Legitimacy and institutional continuity:** Anglia has never had to
+ground its legitimacy there; institutional continuity in the Med is
+thin—no lasting administrative inheritance, no sacral core. The
+classroom is the space where loss does not threaten the legitimacy
+story.
+
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -139,6 +145,25 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Anglia's power grows by avoiding ancient traps.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (STRUCTURAL)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Core defensive node; Channel
+  separates Anglia from Mediterranean classroom; maritime
+  hierarchy: core (Channel) → ocean (Atlantic) → classroom (Med).
+• MEM–ANGLIA–GEO–ATLANTIC — Operating system; Mediterranean is
+  classroom, not core; Atlantic is primary allocation of naval
+  capital; Med is optional theater.
+• MEM–ANGLIA–GEO–SUEZ–CANAL — Choke within classroom; Suez
+  connects Mediterranean to Indian Ocean; procedural control
+  without sovereignty; loss survivable when core (Atlantic/
+  Channel) intact.
+• MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR — Western anchor of
+  Britain's Mediterranean position; chokepoint within classroom.
+• MEM–ANGLIA–BRITISH–EMPIRE–MALTA — Mediterranean chokepoint;
+  classroom node; optional retention vs core (Channel).
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — v1.0

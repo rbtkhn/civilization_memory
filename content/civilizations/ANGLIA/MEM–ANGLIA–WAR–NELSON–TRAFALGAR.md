@@ -124,6 +124,12 @@ not feasible.
 
 Sea control shifts from contested to structural.
 
+**Force-ratio:** 27 British ships of the line vs 33 Franco-Spanish;
+outcome 22 enemy ships lost, 0 British. One decisive battle locked
+the era—France could not replace the fleet in time. Trafalgar is the
+**structural end** of the French maritime option, not merely a setback;
+continental powers cannot sustain maritime primacy after such a defeat.
+
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain's maritime dominance until Waterloo (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):

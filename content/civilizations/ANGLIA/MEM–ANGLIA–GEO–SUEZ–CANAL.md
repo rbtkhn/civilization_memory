@@ -131,6 +131,12 @@ Strategic lessons:
 
 Anglia learns: **You can lose the lifeline and live**.
 
+**Force-ratio:** Loss was survivable because the **core** (Atlantic/
+Channel) remained intact; Suez was a **node** in the classroom
+(Mediterranean), not the operating system. Britain could not hold
+Suez once US and creditors turned; the structural condition was loss
+of primacy, not tactics alone.
+
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────

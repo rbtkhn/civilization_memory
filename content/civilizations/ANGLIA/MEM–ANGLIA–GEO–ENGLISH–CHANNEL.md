@@ -37,6 +37,11 @@ Cost of crossing is decisive.
 
 The Channel transforms land power into a naval problem.
 
+**Force-ratio:** The cost of crossing exceeds the cost of defending;
+continental mass does not translate into successful invasion because
+the defender holds local sea control. The Channel is a **structural
+filter**—invasion fails at the Channel, not in England.
+
 ────────────────────────────────────────────────────────────
 III. CONTROL OVER TRANSIT, NOT EXCLUSION
 ────────────────────────────────────────────────────────────
@@ -129,6 +134,19 @@ IX. CONTINUITY INSIGHTS (RAW)
 • The Channel is Anglia’s silent shield.
 
 Tension preserved without verdict.
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (STRUCTURAL)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–WAR–SPANISH–ARMADA — Invasion fails at the Channel
+  (1588); harassment, weather, logistics break continental ambition.
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — Channel denial (1805); France
+  cannot contest the Channel; same structural filter across centuries.
+• MEM–ANGLIA–GEO–ATLANTIC — Channel feeds Atlantic; core defensive
+  node within maritime operating system.
+• MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — Channel separates Anglia from
+  Mediterranean classroom; core vs classroom in maritime hierarchy.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–GEO–ENGLISH–CHANNEL — v1.0

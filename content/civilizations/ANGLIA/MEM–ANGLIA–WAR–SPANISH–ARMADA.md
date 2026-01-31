@@ -67,6 +67,18 @@ The outcome is **attrition and dispersal**, not a single decisive
 battle. The Armada is broken as an invasion force by combination of
 tactics, weather, and logistics.
 
+**Force-ratio:** Spain had to achieve temporary local sea control in
+the Channel to cover the crossing; it failed. The campaign was decided
+by relative naval effectiveness and logistics, not raw ship count. The
+Channel is the structural filter—continental ambition fails at the
+Channel.
+
+**Force-ratio:** Spain had to achieve temporary local sea control in
+the Channel to cover the crossing; it failed. The campaign was decided
+by relative naval effectiveness and logistics, not raw ship count. The
+Channel is the structural filter—continental ambition fails at the
+Channel.
+
 ────────────────────────────────────────────────────────────
 IV. CONSEQUENCES: CONSOLIDATION WITHOUT CONQUEST
 ────────────────────────────────────────────────────────────
@@ -99,21 +111,26 @@ Lessons:
 VI. MEM CONNECTIONS (STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Internal (ANGLIA):
-1) MEM–ANGLIA–ELIZABETH–I
+1) MEM–ANGLIA–GEO–ENGLISH–CHANNEL
+   — Invasion fails at the Channel; harassment, weather, and
+   logistics act as force multipliers for the defender; Channel as
+   structural constraint that made Spanish numerical advantage
+   insufficient. Same structural filter as 1805 (Nelson/Trafalgar).
+2) MEM–ANGLIA–ELIZABETH–I
    — Elizabethan consolidation; Armada as defining crisis and victory.
-2) MEM–ANGLIA–DYNASTY–TUDOR
+3) MEM–ANGLIA–DYNASTY–TUDOR
    — Tudor legitimacy; Protestant settlement secured by 1588.
-3) MEM–ANGLIA–ENGLAND
+4) MEM–ANGLIA–ENGLAND
    — Island identity; “fortress built by Nature”; defensive victory.
-4) MEM–ANGLIA–WAR–AGINCOURT
+5) MEM–ANGLIA–WAR–AGINCOURT
    — Contrast: land victory abroad (Agincourt) vs defensive naval victory at home (Armada).
-5) MEM–ANGLIA–WAR–CRECY
+6) MEM–ANGLIA–WAR–CRECY
    — Contrast: medieval land battle vs early modern naval campaign.
 
 Cross-Civilizational:
-6) MEM–FRANCIA–WAR–HUNDRED–YEARS
+7) MEM–FRANCIA–WAR–HUNDRED–YEARS
    — Contrast: English invasion of France (Hundred Years’ War) vs Spanish invasion attempt of England (Armada).
-7) MEM–ROME–PUNIC–WARS (if present)
+8) MEM–ROME–PUNIC–WARS (if present)
    — Structural parallel: naval campaign and invasion attempt; defence and dispersal.
 
 ────────────────────────────────────────────────────────────

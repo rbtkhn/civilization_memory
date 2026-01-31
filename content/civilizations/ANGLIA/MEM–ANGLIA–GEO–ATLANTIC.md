@@ -112,6 +112,13 @@ Loss does not equal collapse.
 
 The Atlantic absorbs imperial failure.
 
+**Force-ratio and sustainability of commitment:** Anglia can afford to
+lose nodes (Suez, colonies) because the Atlantic is the primary
+allocation of naval capital; continental powers cannot match that
+allocation and therefore cannot afford to lose the one decisive
+maritime battle (Trafalgar). Who can afford to lose in which theater
+is determined by structure.
+
 ────────────────────────────────────────────────────────────
 VIII. POST-IMPERIAL ATLANTIC CONTINUITY
 ────────────────────────────────────────────────────────────
@@ -151,6 +158,26 @@ X. CONTINUITY INSIGHTS (RAW)
 • The Atlantic is Anglia’s civilizational spine.
 
 Tension preserved without verdict.
+
+**Legitimacy and institutional continuity:** Anglia's political and
+fiscal institutions have long anchored their self-description and
+claims to rightful authority in Atlantic circulation and naval
+primacy; the Atlantic is where legitimacy is invested, not merely
+where power is projected.
+
+────────────────────────────────────────────────────────────
+XI. MEM CONNECTIONS (STRUCTURAL)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Core defensive node; Channel
+  feeds Atlantic; maritime hierarchy: core (Channel) → ocean
+  (Atlantic) → classroom (Mediterranean).
+• MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — Classroom, not core; Atlantic
+  is operating system, Mediterranean is peripheral classroom;
+  loss absorption differs by theater.
+• MEM–ANGLIA–GEO–SUEZ–CANAL — Choke within classroom; extends
+  Atlantic logic into Red Sea/Indian Ocean; procedural control
+  without sovereignty; loss survivable when core intact.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–GEO–ATLANTIC — v1.0
