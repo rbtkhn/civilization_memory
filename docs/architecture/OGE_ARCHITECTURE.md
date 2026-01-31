@@ -66,9 +66,12 @@ OGE generates options, not conclusions.
 4. **DOCTRINE PROPOSAL OPTION** — Evaluate pattern for doctrinal eligibility
 5. **RELATED FILE EXPLORATION OPTION** — Load and analyze related MEM files
 6. **EVIDENCE VERIFICATION OPTION** — Verify pattern evidence across repository
+7. **RESPONSE OPTION** (when prior turn from another MIND) — [Other MIND] responds to [prior MIND]—acknowledge and reframe in [legitimacy/structural] terms (cognitive interaction; see TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION)
+8. **SECOND-ORDER OPTION** (where applicable) — Explain why [MIND] encodes [subject] the way they do (Scholar-on-Scholar / CCM)
 
 **Trigger Conditions:**
 - After MEM file ingestion
+- After another MIND (Mercouris or Mearsheimer) has given analysis (include response option)
 - After pattern detection
 - After contradiction flagging (SCL)
 - When doctrine proposal criteria are met

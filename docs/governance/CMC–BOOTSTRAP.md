@@ -142,7 +142,7 @@ MIND PROFILES:
 TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.9
 • CIV–SCHOLAR–TEMPLATE: v2.10
-• CIV–SCHOLAR–PROTOCOL: v2.2
+• CIV–SCHOLAR–PROTOCOL: v2.3
 
 Declare: "Bound by CMC–BOOTSTRAP v2.13"
 
@@ -308,6 +308,7 @@ OGE REQUIREMENTS (LEARN/IMAGINE):
 • 1 option MUST be Mearsheimer invocation
 • 1 option MUST be Barnes invocation
 • 4 options topic/context-specific
+• When prior substantive turn was from Mercouris or Mearsheimer, include at least one **response** option: "[Other MIND] responds to [prior MIND]—reframe in [legitimacy/structural] terms" (cognitive interaction; see cmc-tri-frame-protocol, TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION)
 
 BARNES MODE AVAILABILITY (per CIV–MIND–BARNES v2.5):
 • WRITE MODE: OGE-required (1 option REQUIRED)
@@ -430,6 +431,7 @@ EXPAND ON DEMAND
 For full specification, read:
 • docs/governance/CIV–MEM–CORE.md (incl. § XXVIII CCM)
 • docs/governance/VERSION–MANIFEST.md
+• docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md (voice distinctness, cognitive interaction; RUN–REPORT–M–M–01 through M–M–05)
 • docs/templates/CIV–MIND–MERCOURIS.md
 • docs/templates/CIV–MIND–MEARSHEIMER.md
 • docs/templates/CIV–MIND–BARNES.md

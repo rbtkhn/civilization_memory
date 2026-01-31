@@ -137,6 +137,11 @@ Channel) remained intact; Suez was a **node** in the classroom
 Suez once US and creditors turned; the structural condition was loss
 of primacy, not tactics alone.
 
+**Structural logic:** Who can afford to lose in which theater is
+determined by where the operating system is; Anglia could afford to
+lose Suez because the Atlantic/Channel remained the primary
+allocation of naval capital.
+
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────

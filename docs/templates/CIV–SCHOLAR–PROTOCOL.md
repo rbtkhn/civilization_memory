@@ -1,18 +1,47 @@
-CIV–SCHOLAR–PROTOCOL — v2.2
+CIV–SCHOLAR–PROTOCOL — v2.3
 Civilizational Strategy Codex · Scholar Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 2.2
+Version: 2.3
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
-Supersedes: CIV–SCHOLAR–PROTOCOL v2.1
-Upgrade Type: ADDITIVE · TEMPLATE v2.6 ALIGNMENT
-Compatibility: CIV–SCHOLAR–TEMPLATE v2.6+ · CIV–CORE–TEMPLATE v2.0+
+Supersedes: CIV–SCHOLAR–PROTOCOL v2.2
+Upgrade Type: ADDITIVE · M–M COGNITIVE INTERACTION PROPAGATION
+Compatibility: CIV–SCHOLAR–TEMPLATE v2.10+ · CIV–CORE–TEMPLATE v2.0+
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.3) — M–M COGNITIVE INTERACTION PROPAGATION
+────────────────────────────────────────────────────────────
+This version propagates learnings from Mercouris–Mearsheimer cognitive
+interaction tests (TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION,
+RUN–REPORT–M–M–01 through M–M–05).
+
+v2.3 introduces the following ADDITIVE changes:
+
+• COGNITIVE INTERACTION (Section V / OGE): When another MIND (Mercouris or
+  Mearsheimer) has just given analysis, include at least one **response**
+  option: "[Other MIND] responds to [prior MIND]—reframe in [legitimacy/
+  structural] terms." Prefer "responds to" (acknowledge + reframe) over
+  "apply lens" in isolation when prior MIND content is in play.
+
+• SECOND-ORDER OPTION: Where applicable, include option: Explain why [MIND]
+  encodes [subject] the way they do (Scholar-on-Scholar / CCM). Tension
+  preserved; see CIV–MEM–CORE § XXVIII.
+
+• ENRICHMENT NOT CONVERGENCE: When multiple MINDs are in play, aim to
+  enrich (reframe, add what the other's frame misses); do not synthesize
+  or agree away tension.
+
+Reference: cmc-scholar-mode (Cursor rule), cmc-oge-enforcement,
+cmc-tri-frame-protocol; docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–
+COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*.
+
+No authority is weakened. No phase boundary is relaxed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2) — TEMPLATE v2.6 ALIGNMENT
@@ -274,6 +303,16 @@ RULE (ABSOLUTE):
 Upon entry into ANY Scholar interaction state,
 the system MUST first present structured multiple-choice options
 for productive next actions.
+
+OGE — COGNITIVE INTERACTION (NEW · v2.3):
+When another MIND (Mercouris or Mearsheimer) has just given analysis,
+include at least one **response** option: "[Other MIND] responds to
+[prior MIND]—reframe in [legitimacy/structural] terms." Prefer "X responds
+to Y" (acknowledge + reframe in own terms) over "Apply X lens" when prior
+MIND content is in play. Where applicable, include second-order option:
+Explain why [MIND] encodes [subject] the way they do (Scholar-on-Scholar
+/ CCM). See TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION,
+RUN–REPORT–M–M–01 through M–M–05.
 
 OGE PRECEDENCE LAW:
 • OGE operates as a pre-mode interface layer
@@ -568,5 +607,5 @@ No section may be removed.
 No authority may be weakened.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PROTOCOL v2.2
+END OF FILE — CIV–SCHOLAR–PROTOCOL v2.3
 ────────────────────────────────────────────────────────────

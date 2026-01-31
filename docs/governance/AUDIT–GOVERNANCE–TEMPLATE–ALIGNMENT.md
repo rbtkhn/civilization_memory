@@ -5,6 +5,8 @@
 **Purpose:** Version binding consistency, cross-reference alignment, structural coherence (anchored on CIV–MEM–CORE v2.8)  
 **Supersedes:** AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT 2026-01-29
 
+**M–M COGNITIVE INTERACTION PROPAGATION (2026-01-30):** M–M tests (TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION, RUN–REPORT–M–M–01–05) propagated to: cmc-scholar-mode (scope, voice distinctness, OGE #7, Cognitive Interaction section), cmc-oge-enforcement (response option when MIND in play, self-check, common failure, format variant, second-order note), CMC–BOOTSTRAP (OGE response option, EXPAND ON DEMAND ref), CIV–SCHOLAR–PROTOCOL v2.3 (cognitive interaction + OGE), CIV–SCHOLAR–TEMPLATE Section XI (OGE — COGNITIVE INTERACTION block), OGE_ARCHITECTURE (LEARN option classes 7–8), VERSION–MANIFEST.
+
 ---
 
 ## I. EXECUTIVE SUMMARY
@@ -45,7 +47,7 @@ All governance and template alignment is verified against these sections and the
 | VERSION–MANIFEST | v1.10 | docs/governance/VERSION–MANIFEST.md |
 | CIV–MEM–TEMPLATE | v2.9 | docs/templates/CIV–MEM–TEMPLATE.md |
 | CIV–SCHOLAR–TEMPLATE | v2.10 | docs/templates/CIV–SCHOLAR–TEMPLATE.md |
-| CIV–SCHOLAR–PROTOCOL | v2.2 | docs/templates/CIV–SCHOLAR–PROTOCOL.md |
+| CIV–SCHOLAR–PROTOCOL | v2.3 | docs/templates/CIV–SCHOLAR–PROTOCOL.md |
 | CIV–MIND–MERCOURIS | v2.6 | docs/templates/CIV–MIND–MERCOURIS.md |
 | CIV–MIND–MEARSHEIMER | v2.6 | docs/templates/CIV–MIND–MEARSHEIMER.md |
 | CIV–MIND–BARNES | v2.5 | docs/templates/CIV–MIND–BARNES.md |

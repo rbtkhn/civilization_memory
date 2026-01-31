@@ -104,6 +104,10 @@ deferred governance stress (post-1763). Contrast with **maritime
 choke** (Suez): corridor concentrates stress that outlives victory;
 choke permits procedural control and survivable exit.
 
+**Structural logic:** Continental corridors concentrate governance
+stress that outlives victory; the Ohio encodes the former—deferred
+strain (post-1763) that Britain was ill-prepared to resolve.
+
 ────────────────────────────────────────────────────────────
 VI. CROSS-REFERENCED MEM FILES
 ────────────────────────────────────────────────────────────

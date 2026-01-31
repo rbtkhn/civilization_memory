@@ -1,10 +1,10 @@
-MEM–ANGLIA–BRITISH–EMPIRE–RHODES — v1.0
+MEM–ANGLIA–BRITISH–EMPIRE–RHODES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Supersedes: —
-Upgrade Type: RENAME (RHODES → BRITISH–EMPIRE–RHODES)
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Chernow *Titan* (Rhodes/Rockefeller comparative)
 Civilization: ANGLIA
 Subject: Cecil Rhodes (Diamond King, Cape Prime Minister, and Imperial Archetype)
 Dates: 1853–1902 AD
@@ -116,6 +116,8 @@ Reality:
 
 Rhodes thinks in continents, not colonies.
 
+**Comparative (Anglia):** Ron Chernow, in *Titan: The Life of John D. Rockefeller, Sr.* (1998), documents the American analogue: Rockefeller built a commodity monopoly (oil) and vast private power without chartered company or imperial office. Rhodes (diamonds, BSAC, Cape PM) fused commerce with territorial empire; Rockefeller (Standard Oil) concentrated industrial power domestically. Both embodied Gilded Age / late-Victorian capital concentration; Rhodes did so in imperial form, Rockefeller in trust form. See MEM–ANGLIA–ROCKEFELLER.
+
 ────────────────────────────────────────────────────────────
 VII. RHODES SCHOLARSHIPS: IMPERIAL LEGACY
 ────────────────────────────────────────────────────────────
@@ -171,6 +173,7 @@ ANGLIA:
 • MEM–ANGLIA–VICTORIA — Rhodes's career spans Victorian zenith; imperial maximalism at peak.
 • MEM–ANGLIA–DISRAELI — Predecessor's imperial vision; Rhodes continues late-Victorian expansionism.
 • MEM–ANGLIA–CLIVE — Parallel: Company model (East India Company vs. British South Africa Company); commercial empire.
+• MEM–ANGLIA–ROCKEFELLER — Comparative: Rhodes (diamonds, empire, chartered company) vs Rockefeller (oil, domestic trust); Chernow *Titan*.
 
 Cross-Civilizational:
 • (As applicable)—Rhodes's "Cape to Cairo" vision intersects German East Africa (Germania), Portuguese colonies (potential future MEMs).
@@ -180,10 +183,12 @@ XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003. Chapter 5: Maxim Force (Rhodes, chartered companies, Scramble for Africa). (ARC-T-MODERN)
 • Rotberg, Robert I. *The Founder: Cecil Rhodes and the Pursuit of Power*. New York: Oxford University Press, 1988. (Biography)
+• Chernow, Ron. *Titan: The Life of John D. Rockefeller, Sr.* New York: Random House, 1998. (Comparative: Rockefeller as American analogue to Rhodes; oil trust vs diamond empire.) (ARC-T-MODERN)
 • Rhodes, Cecil. Will and Testament (1902) — Rhodes Scholarships.
 • CIV–ARC–ANGLIA — Ferguson in ARC-T-MODERN.
 • MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — Rhodes quote on racial superiority.
+• MEM–ANGLIA–ROCKEFELLER — Rhodes/Rockefeller comparative.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE–RHODES — v1.0
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE–RHODES — v1.1
 ────────────────────────────────────────────────────────────

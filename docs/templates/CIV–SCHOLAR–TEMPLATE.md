@@ -1027,6 +1027,18 @@ LEARN OGE answers:
 “What would you like me to investigate next?”
 
 ────────────────────────────────────────────────────────────
+OGE — COGNITIVE INTERACTION (NEW · M–M PROPAGATION):
+When another MIND (Mercouris or Mearsheimer) has just given analysis,
+include at least one **response** option: "[Other MIND] responds to
+[prior MIND]—reframe in [legitimacy/structural] terms." Prefer "X
+responds to Y" (acknowledge + reframe in own terms) over "Apply X lens"
+when prior MIND content is in play. Where applicable, include
+second-order option: Explain why [MIND] encodes [subject] the way they
+do (Scholar-on-Scholar / CCM). See CIV–SCHOLAR–PROTOCOL v2.3,
+docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md,
+RUN–REPORT–M–M–01 through M–M–05.
+
+────────────────────────────────────────────────────────────
 XII. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • Additive upgrades only

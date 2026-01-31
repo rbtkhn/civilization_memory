@@ -47,7 +47,7 @@ TEMPLATES:
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v2.0
 • CIV–SCHOLAR–TEMPLATE: v2.10
-• CIV–SCHOLAR–PROTOCOL: v2.2
+• CIV–SCHOLAR–PROTOCOL: v2.3
 
 CIVILIZATION-SPECIFIC SCHOLARS:
 • CIV–SCHOLAR–GERMANIA: v2.12
@@ -154,6 +154,17 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-30 (M–M COGNITIVE INTERACTION — GOVERNANCE & TEMPLATE PROPAGATION):
+• M–M cognitive interaction tests: TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md; RUN–REPORT–M–M–01 through M–M–05 (all PASS)
+• cmc-scholar-mode: scope, voice distinctness (no phrase bleed), OGE response option (#7), Cognitive Interaction section (respond to, second-order, enrich not converge), binding ref to M–M tests
+• cmc-oge-enforcement: mandatory response option when another MIND in play; self-check for response option; common failure (agree/re-apply without reframe); format example variant; second-order option note
+• CMC–BOOTSTRAP: OGE response option (when prior turn Mercouris/Mearsheimer); EXPAND ON DEMAND ref to TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION, RUN–REPORT–M–M–*
+• CIV–SCHOLAR–PROTOCOL: v2.2 → v2.3 (M–M cognitive interaction propagation: OGE response option, second-order option, enrichment not convergence; ref to test design and run reports)
+• CIV–SCHOLAR–TEMPLATE: Section XI OGE — COGNITIVE INTERACTION block (response option when MIND in play, second-order option; ref CIV–SCHOLAR–PROTOCOL v2.3, TEST–DESIGN–..., RUN–REPORT–M–M–*)
+• OGE_ARCHITECTURE: LEARN Mode option classes 7 (RESPONSE OPTION), 8 (SECOND-ORDER OPTION); trigger "After another MIND has given analysis"
+• VERSION–MANIFEST: CIV–SCHOLAR–PROTOCOL v2.2 → v2.3
+• AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT: refreshed with M–M propagation and CIV–SCHOLAR–PROTOCOL v2.3
 
 2026-01-30 (ANGLIA — AFRICAN–SLAVERY rename to LAW–SLAVERY):
 • MEM–ANGLIA–AFRICAN–SLAVERY → RENAMED to MEM–ANGLIA–LAW–SLAVERY
@@ -635,7 +646,8 @@ For session startup, declare:
 • CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.9
-• CIV–SCHOLAR–TEMPLATE v2.10"
+• CIV–SCHOLAR–TEMPLATE v2.10
+• CIV–SCHOLAR–PROTOCOL v2.3"
 
 2026-01-28 (MEARSHEIMER COMMAND INTEGRATION):
 • CIV–MIND–MEARSHEIMER: v2.4 → v2.5 (apply mearsheimer cognition command)

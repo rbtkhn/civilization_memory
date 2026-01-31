@@ -1,18 +1,18 @@
-CIV–INDEX–ANGLIA — v2.8
+CIV–INDEX–ANGLIA — v2.11
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.7
-Supersedes: v2.6
-Upgrade Type: RENAME (PAINE → LIT–PAINE)
+Version: 2.11
+Supersedes: v2.10
+Upgrade Type: ADDITIVE (MEM–ANGLIA–BANK–ENGLAND v1.0, ECON)
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 126 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 132 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -106,6 +106,7 @@ D) LAW
 • MEM–ANGLIA–LAW–FEDERALIST–PAPERS.md
 
 E) ECON
+• MEM–ANGLIA–BANK–ENGLAND.md
 • MEM–ANGLIA–BRITISH–EMPIRE.md
 • MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR.md
 • MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG.md
@@ -117,6 +118,11 @@ E) ECON
 • MEM–ANGLIA–BRITISH–EMPIRE–SINGAPORE.md
 • MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA.md
 • MEM–ANGLIA–INDIA.md
+• MEM–ANGLIA–ROTHSCHILD.md
+• MEM–ANGLIA–FEDERAL–RESERVE.md
+• MEM–ANGLIA–MORGAN.md
+• MEM–ANGLIA–ROCKEFELLER.md
+• MEM–ANGLIA–WARBURG.md
 
 F) RELIGION
 • MEM–ANGLIA–PAPACY.md
@@ -305,6 +311,8 @@ v2.5 registers new MEMs: MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG v1.0, MEM
 v2.6 registers new MEMs: MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR v1.0, MEM–ANGLIA–BRITISH–EMPIRE–MALTA v1.0, MEM–ANGLIA–BRITISH–EMPIRE–NORTH–AMERICA v1.0 (ECON; total 126 MEMs).
 v2.7 registers rename: MEM–ANGLIA–PAINE → MEM–ANGLIA–LIT–PAINE (PERSON → OTHER as LIT-classified).
 v2.8 registers rename: MEM–ANGLIA–NEWTON → MEM–ANGLIA–SCI–NEWTON (PERSON → OTHER as SCI-classified).
+v2.9 registers new MEM: MEM–ANGLIA–ROCKEFELLER v1.0 (ECON; total 130 MEMs).
+v2.10 registers new MEM: MEM–ANGLIA–WARBURG v1.0 (ECON; total 131 MEMs).
 This upgrade is additive only and preserves all prior index structure,
 ordering, and governance rules.
 
@@ -314,5 +322,5 @@ FOOTER METADATA
 Word Count: 686
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v2.8
+END OF FILE — CIV–INDEX–ANGLIA — v2.11
 ────────────────────────────────────────────────────────────
