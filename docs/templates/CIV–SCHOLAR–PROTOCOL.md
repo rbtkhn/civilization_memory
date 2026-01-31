@@ -1,18 +1,92 @@
-CIV–SCHOLAR–PROTOCOL — v2.3
+CIV–SCHOLAR–PROTOCOL — v2.6
 Civilizational Strategy Codex · Scholar Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 2.3
+Version: 2.6
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
-Supersedes: CIV–SCHOLAR–PROTOCOL v2.2
-Upgrade Type: ADDITIVE · M–M COGNITIVE INTERACTION PROPAGATION
+Supersedes: CIV–SCHOLAR–PROTOCOL v2.5
+Upgrade Type: ADDITIVE · COGNITIVE MAINTENANCE TRIGGERS
 Compatibility: CIV–SCHOLAR–TEMPLATE v2.10+ · CIV–CORE–TEMPLATE v2.0+
 Last Update: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.6) — COGNITIVE MAINTENANCE TRIGGERS
+────────────────────────────────────────────────────────────
+This version formalizes trigger-based maintenance for cognitive consistency.
+
+v2.6 introduces:
+
+COGNITIVE MAINTENANCE TRIGGERS (Section XIV-C):
+• TRIGGER DEFINITION: Conditions that activate maintenance operations
+• MAINTENANCE OPERATIONS: Automated checks and corrections
+• TRIGGER CATEGORIES: State, content, governance, session triggers
+• EXECUTION PROTOCOL: How triggers fire and what they do
+
+Effect:
+• Automated consistency checking
+• Early detection of governance drift
+• Session hygiene enforcement
+• Foundation for self-correcting cognitive behavior
+
+Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 5, Upgrade 5)
+Cross-ref: Section XIV-A (READ/REASON), XIV-B (LOADABLE STATE)
+
+No authority is weakened. No phase boundary is relaxed.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — LOADABLE COGNITIVE STATE
+────────────────────────────────────────────────────────────
+This version formalizes cognitive state as an explicit, resumable object.
+
+v2.5 introduces:
+
+LOADABLE COGNITIVE STATE (Section XIV-B):
+• STATE SCHEMA: Formal definition of cognitive state components
+• STATE PERSISTENCE: What persists across sessions vs. ephemeral
+• STATE LOADING: How to resume from saved state
+• STATE INVARIANTS: What must be true for valid state
+
+Effect:
+• Sessions can be resumed with explicit state declaration
+• Cognitive configuration is auditable and reproducible
+• Foundation for multi-session continuity
+• Enables state-based testing and debugging
+
+Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 3, Upgrade 3)
+Cross-ref: Section XIV-A (READ/REASON LAYER), CMC–BOOTSTRAP v2.14
+
+No authority is weakened. No phase boundary is relaxed.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.4) — READ/REASON LAYER SEPARATION
+────────────────────────────────────────────────────────────
+This version formalizes the separation between data access (READ layer)
+and reasoning logic (REASON layer) to enable future cognitive upgrades.
+
+v2.4 introduces:
+
+READ/REASON LAYER PROTOCOL (Section XIV-A):
+• READ LAYER: MEM graph access (files, connections, INDEX, ARC)
+• REASON LAYER: Analysis, OGE generation, voice application
+• Formal interface contract between layers
+• Mode-independent graph operations
+• Extensibility for new cognitive operations
+
+Effect:
+• Reasoning logic can change without affecting data access
+• New modes can reuse existing READ layer primitives
+• Testing and auditing can target layers independently
+• Foundation for loadable cognitive state (future upgrade)
+
+Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 2, Upgrade 4)
+Cross-ref: CMC–BOOTSTRAP v2.14 (COGNITIVE STRUCTURE)
+
+No authority is weakened. No phase boundary is relaxed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.3) — M–M COGNITIVE INTERACTION PROPAGATION
@@ -574,6 +648,265 @@ but may NOT modify canonical SCHOLAR state.
 CEO files follow CIV–CEO–TEMPLATE.
 
 ────────────────────────────────────────────────────────────
+XIV-A. READ/REASON LAYER PROTOCOL (NEW · v2.4)
+────────────────────────────────────────────────────────────
+Scholar cognition operates through two functionally distinct layers.
+This separation enables cognitive upgrades without data layer changes.
+
+READ LAYER (Data Access):
+┌─────────────────────────────────────────────────────────────────┐
+│ OPERATIONS                                                      │
+│ • MEM_READ(file_path) → MEM content + metadata                  │
+│ • MEM_LIST(civilization) → list of MEM identifiers              │
+│ • MEM_CONNECTIONS(file_path) → connection graph edges           │
+│ • INDEX_LOOKUP(civilization) → canonical registry               │
+│ • ARC_QUERY(civilization, era) → quotation requirements         │
+│ • SCHOLAR_STATE(civilization) → current phase, RLLs, LERs       │
+├─────────────────────────────────────────────────────────────────┤
+│ INVARIANTS                                                      │
+│ • Mode-independent: LEARN, WRITE, IMAGINE use same operations   │
+│ • Stateless: operations do not modify caller state              │
+│ • Deterministic: same input → same output                       │
+│ • Auditable: all reads can be logged                            │
+└─────────────────────────────────────────────────────────────────┘
+
+REASON LAYER (Cognitive Processing):
+┌─────────────────────────────────────────────────────────────────┐
+│ OPERATIONS                                                      │
+│ • ANALYZE(content, MIND) → analysis in specified voice          │
+│ • GENERATE_OGE(context, mode) → 6 options per mode contract     │
+│ • APPLY_BLEND(content, MEM_type) → Blend Law proportions        │
+│ • TRI_FRAME(content) → M + M'heimer + Barnes sequence           │
+│ • SYNTHESIZE(patterns, phase) → phase-constrained synthesis     │
+│ • PROPOSE_RLL(pattern) → candidate RLL (non-binding)            │
+├─────────────────────────────────────────────────────────────────┤
+│ INVARIANTS                                                      │
+│ • Voice-aware: all output conforms to active MIND protocol      │
+│ • Mode-constrained: operations respect mode permissions         │
+│ • Phase-bounded: synthesis type depends on active phase         │
+│ • OGE-terminal: all substantive turns end with OGE              │
+└─────────────────────────────────────────────────────────────────┘
+
+LAYER INTERFACE CONTRACT:
+• REASON layer MAY call READ layer operations
+• READ layer MAY NOT call REASON layer operations
+• No REASON operation modifies MEM graph (except WRITE mode MEM_WRITE)
+• READ results are passed to REASON; REASON produces user-facing output
+
+WRITE EXTENSION (WRITE mode only):
+• MEM_WRITE(file_path, content) — canonical output production
+• MEM_CREATE(file_path, template) — new MEM file creation
+• Write operations require WRITE mode; all others available in all modes
+
+EXTENSIBILITY RULE:
+To add new READ operations:
+1. Define operation signature (inputs, outputs)
+2. Ensure statelessness and determinism
+3. Document in READ LAYER table
+4. No REASON layer changes required
+
+To add new REASON operations:
+1. Define operation signature
+2. Specify which MINDs and modes may invoke
+3. Define OGE implications (does it trigger OGE?)
+4. Document in REASON LAYER table
+
+────────────────────────────────────────────────────────────
+XIV-B. LOADABLE COGNITIVE STATE (NEW · v2.5)
+────────────────────────────────────────────────────────────
+Cognitive state is an explicit, structured object that can be saved,
+loaded, and resumed across sessions. This enables session continuity
+and reproducible cognitive behavior.
+
+STATE SCHEMA (what constitutes cognitive state):
+┌─────────────────────────────────────────────────────────────────┐
+│ CORE STATE (required for valid session)                         │
+├─────────────────────────────────────────────────────────────────┤
+│ • governance_binding: string                                    │
+│   – e.g., "CMC–BOOTSTRAP v2.14"                                 │
+│   – Determines which governance rules apply                     │
+│                                                                 │
+│ • active_mode: enum [LEARN, WRITE, IMAGINE]                     │
+│   – Current Scholar mode                                        │
+│   – Determines permissions and output type                      │
+│                                                                 │
+│ • active_civilization: string | null                            │
+│   – e.g., "RUSSIA", "ANGLIA", null (cross-civ)                  │
+│   – Determines which INDEX, SCHOLAR, ARC apply                  │
+│                                                                 │
+│ • active_phase: enum [I, II, III]                               │
+│   – Phase I (Accumulation), II (Constraint Grammar), III (Snap) │
+│   – Determines synthesis permissions                            │
+│                                                                 │
+│ • active_minds: array [MERCOURIS, MEARSHEIMER, BARNES]          │
+│   – Which MINDs are currently invoked                           │
+│   – Default: [MERCOURIS]                                        │
+├─────────────────────────────────────────────────────────────────┤
+│ CONTEXT STATE (session-specific, not persisted)                 │
+├─────────────────────────────────────────────────────────────────┤
+│ • focus_mem: string | null                                      │
+│   – Currently analyzed MEM file path                            │
+│                                                                 │
+│ • prior_mind_turn: string | null                                │
+│   – Which MIND gave last substantive analysis                   │
+│   – Triggers response-option requirement in OGE                 │
+│                                                                 │
+│ • barnes_just_spoke: boolean                                    │
+│   – If true, next OGE MUST include M/M response options         │
+│                                                                 │
+│ • pending_synthesis: array                                      │
+│   – Patterns identified but not yet formalized                  │
+└─────────────────────────────────────────────────────────────────┘
+
+STATE LOADING (resuming a session):
+To resume from saved state, declare at session start:
+
+```
+STATE LOAD:
+  governance_binding: "CMC–BOOTSTRAP v2.14"
+  active_mode: LEARN
+  active_civilization: ANGLIA
+  active_phase: I
+  active_minds: [MERCOURIS]
+```
+
+Alternatively, minimal declaration:
+```
+Bound by CMC–BOOTSTRAP v2.14. LEARN mode. ANGLIA. Phase I.
+```
+
+STATE VALIDATION (invariants for valid state):
+• governance_binding MUST reference existing governance version
+• active_mode MUST be exactly one of LEARN, WRITE, IMAGINE
+• active_phase MUST match civilization's SCHOLAR phase
+• active_minds MUST include MERCOURIS (primary)
+• If WRITE mode, active_civilization MUST NOT be null
+
+STATE PERSISTENCE RULES:
+• CORE STATE: Persists across sessions if explicitly saved
+• CONTEXT STATE: Ephemeral; reset at session start
+• RLLs and LERs: Persist in SCHOLAR file (not in session state)
+• Synthesis: Provisional until frozen (not in session state)
+
+STATE MUTATION:
+• Mode changes mutate active_mode
+• Barnes invocation sets barnes_just_spoke = true
+• MIND invocation updates prior_mind_turn
+• Focus changes update focus_mem
+
+────────────────────────────────────────────────────────────
+XIV-C. COGNITIVE MAINTENANCE TRIGGERS (NEW · v2.6)
+────────────────────────────────────────────────────────────
+Maintenance triggers are automated checks that fire when specific conditions
+are met, ensuring cognitive consistency and governance compliance.
+
+TRIGGER DEFINITION:
+A maintenance trigger consists of:
+• trigger_id: Unique identifier
+• condition: When the trigger fires
+• operation: What the trigger does
+• severity: INFO, WARN, ERROR, BLOCK
+• auto_fix: Whether automatic correction is permitted
+
+TRIGGER CATEGORIES:
+
+┌─────────────────────────────────────────────────────────────────┐
+│ STATE TRIGGERS (fire on state change)                           │
+├─────────────────────────────────────────────────────────────────┤
+│ TRIG_STATE_001: Mode change without OGE                         │
+│   Condition: active_mode changed but no OGE followed            │
+│   Operation: Warn and prompt OGE generation                     │
+│   Severity: WARN                                                │
+│                                                                 │
+│ TRIG_STATE_002: Barnes spoke without M/M response options       │
+│   Condition: barnes_just_spoke = true but OGE lacks M/M options │
+│   Operation: Block until M/M response options added             │
+│   Severity: BLOCK                                               │
+│                                                                 │
+│ TRIG_STATE_003: WRITE mode without civilization                 │
+│   Condition: active_mode = WRITE, active_civilization = null    │
+│   Operation: Block until civilization specified                 │
+│   Severity: BLOCK                                               │
+├─────────────────────────────────────────────────────────────────┤
+│ CONTENT TRIGGERS (fire on MEM analysis)                         │
+├─────────────────────────────────────────────────────────────────┤
+│ TRIG_CONTENT_001: MEM connections below minimum                 │
+│   Condition: MEM has <10 same-civ or <3 cross-civ connections   │
+│   Operation: Flag for connection audit                          │
+│   Severity: INFO                                                │
+│                                                                 │
+│ TRIG_CONTENT_002: ARC quotation gaps                            │
+│   Condition: MEM missing required era quotations                │
+│   Operation: Flag for ARC compliance audit                      │
+│   Severity: WARN                                                │
+│                                                                 │
+│ TRIG_CONTENT_003: Version mismatch                              │
+│   Condition: MEM references outdated governance version         │
+│   Operation: Flag for version upgrade                           │
+│   Severity: INFO                                                │
+├─────────────────────────────────────────────────────────────────┤
+│ GOVERNANCE TRIGGERS (fire on governance check)                  │
+├─────────────────────────────────────────────────────────────────┤
+│ TRIG_GOV_001: Binding version outdated                          │
+│   Condition: governance_binding < current CMC–BOOTSTRAP         │
+│   Operation: Warn and suggest rebinding                         │
+│   Severity: WARN                                                │
+│                                                                 │
+│ TRIG_GOV_002: Phase mismatch                                    │
+│   Condition: active_phase ≠ civilization's SCHOLAR phase        │
+│   Operation: Block until phase corrected                        │
+│   Severity: BLOCK                                               │
+│                                                                 │
+│ TRIG_GOV_003: Synthesis in wrong phase                          │
+│   Condition: Doctrinal synthesis attempted in Phase I           │
+│   Operation: Block; redirect to constraint synthesis            │
+│   Severity: BLOCK                                               │
+├─────────────────────────────────────────────────────────────────┤
+│ SESSION TRIGGERS (fire on session events)                       │
+├─────────────────────────────────────────────────────────────────┤
+│ TRIG_SESSION_001: Session start without binding                 │
+│   Condition: No governance_binding declared                     │
+│   Operation: Prompt for binding declaration                     │
+│   Severity: BLOCK                                               │
+│                                                                 │
+│ TRIG_SESSION_002: Extended session without OGE                  │
+│   Condition: >3 turns without OGE in LEARN/IMAGINE              │
+│   Operation: Force OGE generation                               │
+│   Severity: WARN                                                │
+│                                                                 │
+│ TRIG_SESSION_003: Voice bleed detected                          │
+│   Condition: MIND-specific phrases used by wrong MIND           │
+│   Operation: Flag for voice correction                          │
+│   Severity: WARN                                                │
+└─────────────────────────────────────────────────────────────────┘
+
+EXECUTION PROTOCOL:
+
+1. **Detection:** Trigger condition evaluated
+2. **Logging:** Trigger fire logged with context
+3. **Action:** Operation executed based on severity:
+   - INFO: Log only; continue
+   - WARN: Display warning; continue with caution
+   - ERROR: Display error; request correction
+   - BLOCK: Halt until condition resolved
+4. **Resolution:** Condition re-evaluated after action
+
+AUTO-FIX PERMISSIONS:
+• INFO triggers: Auto-fix permitted
+• WARN triggers: Auto-fix with notification
+• ERROR triggers: Auto-fix with explicit confirmation
+• BLOCK triggers: No auto-fix; user must resolve
+
+TRIGGER REGISTRATION:
+To add a new trigger:
+1. Define trigger_id (TRIG_[CATEGORY]_###)
+2. Specify condition (when it fires)
+3. Define operation (what it does)
+4. Assign severity level
+5. Determine auto-fix permission
+6. Add to appropriate category table above
+
+────────────────────────────────────────────────────────────
 XV. LEARN OGE CATEGORIES (NEW · v2.1)
 ────────────────────────────────────────────────────────────
 LEARN mode uses OGE (Option Generation Engine) to direct discovery.
@@ -607,5 +940,5 @@ No section may be removed.
 No authority may be weakened.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PROTOCOL v2.3
+END OF FILE — CIV–SCHOLAR–PROTOCOL v2.6
 ────────────────────────────────────────────────────────────

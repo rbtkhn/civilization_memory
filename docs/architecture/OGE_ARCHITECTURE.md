@@ -1,5 +1,31 @@
-# Option Generation Engine (OGE) — Unified Architecture
+# Option Generation Engine (OGE) — Unified Architecture v1.1
 ## Multi-Mode Option Generation System
+
+**Version:** 1.1
+**Last Updated:** 2026-01-29
+**Upgrade:** COGNITIVE SKILLS REGISTRY
+
+---
+
+### Upgrade Note (v1.1)
+
+This version adds the **Cognitive Skills Registry** — a formal catalog of invokable
+cognitive operations. Skills are the building blocks of OGE options and REASON layer
+operations, enabling explicit skill invocation and consistent behavior.
+
+v1.1 introduces:
+- MIND Invocation Skills (apply lens, responds to, tri-frame)
+- Synthesis Skills (synthesize patterns, propose RLL, cross-civ compare)
+- Audit Skills (ARC compliance, connection gaps, Mearsheimer/Barnes audit)
+- Production Skills (generate MEM, enhance MEM, upgrade version)
+- Skill Invocation Protocol
+- Skill registration process
+- Integration with READ/REASON layers
+
+Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 4, Upgrade 2)
+Cross-ref: CIV–SCHOLAR–PROTOCOL v2.5 (XIV-A READ/REASON LAYER)
+
+---
 
 ## Purpose
 
@@ -244,6 +270,89 @@ OGE requirements are integrated into mode-specific system prompts:
 
 ---
 
+## Cognitive Skills Registry (NEW · v1.1)
+
+Cognitive skills are formalized, invokable operations that transform input into structured output. Skills are the building blocks of OGE options and REASON layer operations.
+
+### Skill Definition
+
+A cognitive skill is defined by:
+
+| Field | Description |
+|-------|-------------|
+| **skill_id** | Unique identifier (e.g., `APPLY_MEARSHEIMER_LENS`) |
+| **invocation** | Natural language trigger (e.g., "apply Mearsheimer cognition to X") |
+| **input** | Required input type (MEM, topic, comparison pair, etc.) |
+| **output** | Expected output type (analysis, OGE options, MEM text, etc.) |
+| **mind** | Which MIND(s) execute the skill |
+| **mode_availability** | Which modes may invoke the skill |
+| **post_skill** | What happens after (OGE, revert, etc.) |
+
+### Registered Skills
+
+#### MIND Invocation Skills
+
+| Skill ID | Invocation | Input | Output | Mind | Modes | Post-Skill |
+|----------|------------|-------|--------|------|-------|------------|
+| `APPLY_MEARSHEIMER_LENS` | "apply Mearsheimer cognition to [X]" | topic/MEM | structural analysis | MEARSHEIMER | LEARN, WRITE | auto-revert to MERCOURIS |
+| `APPLY_BARNES_LENS` | "apply Barnes lens to [X]" | topic/MEM | liability analysis | BARNES | LEARN, WRITE, IMAGINE | M/M response options |
+| `MERCOURIS_RESPONDS` | "Mercouris responds to [MIND]" | prior MIND output | reframed analysis | MERCOURIS | LEARN, IMAGINE | OGE |
+| `MEARSHEIMER_RESPONDS` | "Mearsheimer responds to [MIND]" | prior MIND output | reframed analysis | MEARSHEIMER | LEARN, IMAGINE | OGE |
+| `TRI_FRAME_ANALYSIS` | "tri-frame analysis of [X]" | topic/MEM | M + M'heimer + Barnes sequence | ALL | LEARN | enriched OGE |
+
+#### Synthesis Skills
+
+| Skill ID | Invocation | Input | Output | Mind | Modes | Post-Skill |
+|----------|------------|-------|--------|------|-------|------------|
+| `SYNTHESIZE_PATTERNS` | "synthesize patterns across [MEMs]" | MEM list | pattern synthesis | MERCOURIS | LEARN | OGE |
+| `PROPOSE_RLL` | "propose RLL from [pattern]" | pattern | candidate RLL | MERCOURIS | LEARN | OGE |
+| `CROSS_CIV_COMPARE` | "compare [X] across [CIV1, CIV2]" | MEMs from different civs | comparative analysis | MERCOURIS | LEARN | OGE |
+
+#### Audit Skills
+
+| Skill ID | Invocation | Input | Output | Mind | Modes | Post-Skill |
+|----------|------------|-------|--------|------|-------|------------|
+| `AUDIT_ARC_COMPLIANCE` | "audit ARC compliance of [MEM]" | MEM | pass/fail + recommendations | MERCOURIS | WRITE, LEARN | fix options (WRITE) |
+| `AUDIT_CONNECTION_GAPS` | "audit connections of [MEM]" | MEM | gap list + suggestions | MERCOURIS | WRITE, LEARN | fix options (WRITE) |
+| `MEARSHEIMER_AUDIT` | "mearsheimer audit of [MEM]" | MEM | structural completeness check | MEARSHEIMER | LEARN | OGE |
+| `BARNES_AUDIT` | "barnes audit of [MEM]" | MEM | liability/mechanism check | BARNES | LEARN | OGE |
+
+#### Production Skills (WRITE mode)
+
+| Skill ID | Invocation | Input | Output | Mind | Modes | Post-Skill |
+|----------|------------|-------|--------|------|-------|------------|
+| `GENERATE_MEM` | "generate MEM–[CIV]–[SUBJECT]" | topic + sources | MEM file | MERCOURIS/MEARSHEIMER (blend) | WRITE | OGE |
+| `ENHANCE_MEM` | "enhance [MEM] with [source]" | MEM + source | enhanced MEM | MERCOURIS/MEARSHEIMER (blend) | WRITE | OGE |
+| `UPGRADE_MEM_VERSION` | "upgrade [MEM] to v[X]" | MEM | upgraded MEM | MERCOURIS | WRITE | OGE |
+
+### Skill Invocation Protocol
+
+1. **Recognition:** System recognizes skill invocation from user input
+2. **Validation:** Check mode availability and input requirements
+3. **Execution:** Execute skill with specified MIND
+4. **Post-Skill:** Apply post-skill behavior (OGE, revert, etc.)
+
+### Adding New Skills
+
+To register a new cognitive skill:
+
+1. Define skill_id (unique, SCREAMING_SNAKE_CASE)
+2. Specify natural language invocation pattern
+3. Define input/output types
+4. Assign executing MIND(s)
+5. Specify mode availability
+6. Define post-skill behavior
+7. Add to appropriate skill category table above
+
+### Skill Interaction with READ/REASON Layers
+
+Skills operate at the REASON layer (see CIV–SCHOLAR–PROTOCOL XIV-A):
+- Skills MAY call READ layer operations to access MEM graph
+- Skills produce REASON layer outputs (analysis, OGE, MEM text)
+- Skills respect mode permissions and phase constraints
+
+---
+
 ## Future Enhancements
 
 - **Option Templates:** Predefined option sets for common scenarios
@@ -251,3 +360,5 @@ OGE requirements are integrated into mode-specific system prompts:
 - **Smart Defaults:** Learn from user behavior to prioritize option types
 - **Cross-Mode Options:** Options that facilitate mode transitions
 - **Batch Operations:** Options that trigger multiple actions
+- **Skill Chaining:** Define multi-step skill sequences
+- **Skill Parameters:** Optional parameters for skill customization

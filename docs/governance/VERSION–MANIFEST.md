@@ -1,10 +1,10 @@
-VERSION–MANIFEST — v1.10
+VERSION–MANIFEST — v1.12
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-30
+Last Updated: 2026-01-31
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -33,8 +33,8 @@ These documents govern all CMC operations.
 Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.8
-• CMC–BOOTSTRAP: v2.13
+• CIV–MEM–CORE: v2.9
+• CMC–BOOTSTRAP: v2.14
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
@@ -47,7 +47,7 @@ TEMPLATES:
 • CIV–CORE–TEMPLATE: v2.0
 • CIV–INDEX–TEMPLATE: v2.0
 • CIV–SCHOLAR–TEMPLATE: v2.10
-• CIV–SCHOLAR–PROTOCOL: v2.3
+• CIV–SCHOLAR–PROTOCOL: v2.6
 
 CIVILIZATION-SPECIFIC SCHOLARS:
 • CIV–SCHOLAR–GERMANIA: v2.12
@@ -154,6 +154,55 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-31 (CIV–MEM–CORE v2.9 — TRANS-SOVEREIGN PATTERNS):
+• CIV–MEM–CORE: v2.8 → v2.9 (TRANS-SOVEREIGN PATTERNS section)
+  – New UPGRADE NOTE (v2.9): Trans-Sovereign Patterns (TSP v1.0)
+  – New Section XXIX: Trans-Sovereign Patterns
+    • XXIX.A: Definition and Scope (TRANSMISSION, NETWORK, RECONSTITUTION)
+    • XXIX.B: Governance Stance (primary civilization attribution, no neutral filing)
+    • XXIX.C: Interaction with Existing Governance (SDI, CCM, ARC, TLA)
+    • XXIX.D: MEM Authoring Requirements for TSP
+  – Section XXIX (Canonical Status) renumbered to Section XXX
+  – TSP reference MEMs: MEM–ANGLIA–HAMILTON, MEM–ANGLIA–ROTHSCHILD,
+    MEM–GERMANIA–ROTHSCHILD, MEM–GERMANIA–HANSEATIC–LEAGUE, MEM–ROME–RUSSIA,
+    MEM–PERSIA–ZOROASTER
+• VERSION–MANIFEST: CIV–MEM–CORE v2.8 → v2.9
+• CMC–BOOTSTRAP: CIV–MEM–CORE binding updated to v2.9
+
+2026-01-29 (COGNITIVE STRUCTURE UPGRADES — PHASE 1-5 COMPLETE):
+• CMC–BOOTSTRAP: v2.13 → v2.14 (COGNITIVE STRUCTURE section: One Core, Many Modes)
+  – New section: COGNITIVE STRUCTURE (ONE CORE, MANY MODES)
+  – Canonical statement: modes as interfaces to shared MEM graph + MIND protocol
+  – Mode Contract Table: what differs across WRITE/LEARN/IMAGINE/AUDIT
+  – Extension Rule: how to add new modes without duplicating logic
+• CIV–SCHOLAR–PROTOCOL: v2.3 → v2.6 (READ/REASON + LOADABLE STATE + MAINTENANCE)
+  – v2.4: XIV-A READ/REASON LAYER PROTOCOL
+    • READ LAYER: MEM graph access operations (mode-independent, stateless)
+    • REASON LAYER: cognitive processing (voice, OGE, Blend Law, synthesis)
+    • Layer interface contract: REASON calls READ, not vice versa
+  – v2.5: XIV-B LOADABLE COGNITIVE STATE
+    • STATE SCHEMA: Core state (governance, mode, civilization, phase, minds)
+    • CONTEXT STATE: Session-specific (focus_mem, prior_mind_turn, barnes_just_spoke)
+    • STATE LOADING: Explicit declaration format for session resumption
+    • STATE VALIDATION: Invariants for valid cognitive state
+  – v2.6: XIV-C COGNITIVE MAINTENANCE TRIGGERS
+    • STATE TRIGGERS: Mode change, Barnes M/M response, WRITE civilization
+    • CONTENT TRIGGERS: Connection minimum, ARC gaps, version mismatch
+    • GOVERNANCE TRIGGERS: Binding version, phase mismatch, synthesis phase
+    • SESSION TRIGGERS: Binding declaration, OGE frequency, voice bleed
+    • EXECUTION PROTOCOL: Detection, logging, action, resolution
+    • AUTO-FIX PERMISSIONS: INFO/WARN/ERROR/BLOCK severity levels
+• OGE_ARCHITECTURE: v1.0 → v1.1 (COGNITIVE SKILLS REGISTRY)
+  – New section: Cognitive Skills Registry
+  – Skill definition schema (skill_id, invocation, input, output, mind, modes, post-skill)
+  – MIND Invocation Skills: apply lens, responds to, tri-frame
+  – Synthesis Skills: synthesize patterns, propose RLL, cross-civ compare
+  – Audit Skills: ARC compliance, connection gaps, Mearsheimer/Barnes audit
+  – Production Skills: generate MEM, enhance MEM, upgrade version
+  – Skill Invocation Protocol and registration process
+• VERSION–MANIFEST: v1.10 → v1.11
+• Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phases 1-5 COMPLETE)
 
 2026-01-30 (M–M COGNITIVE INTERACTION — GOVERNANCE & TEMPLATE PROPAGATION):
 • M–M cognitive interaction tests: TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md; RUN–REPORT–M–M–01 through M–M–05 (all PASS)
@@ -641,7 +690,7 @@ VI. QUICK BINDING DECLARATION
 For session startup, declare:
 
 "Bound by:
-• CIV–MEM–CORE v2.8
+• CIV–MEM–CORE v2.9
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
@@ -669,5 +718,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.10
+END OF FILE — VERSION–MANIFEST — v1.12
 ────────────────────────────────────────────────────────────

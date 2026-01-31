@@ -1,9 +1,15 @@
 # AUDIT — Governance & Template Alignment
 
-**Date:** 2026-01-30  
+**Date:** 2026-01-29  
 **Scope:** All governance and template files in `docs/governance/` and `docs/templates/`  
 **Purpose:** Version binding consistency, cross-reference alignment, structural coherence (anchored on CIV–MEM–CORE v2.8)  
-**Supersedes:** AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT 2026-01-29
+**Supersedes:** AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT 2026-01-30
+
+**COGNITIVE STRUCTURE UPGRADES (2026-01-29):** Full implementation of PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phases 1-5):
+- CMC–BOOTSTRAP v2.13 → v2.14 (COGNITIVE STRUCTURE section: One Core, Many Modes)
+- CIV–SCHOLAR–PROTOCOL v2.3 → v2.6 (XIV-A READ/REASON LAYER, XIV-B LOADABLE STATE, XIV-C MAINTENANCE TRIGGERS)
+- OGE_ARCHITECTURE v1.0 → v1.1 (COGNITIVE SKILLS REGISTRY)
+- VERSION–MANIFEST v1.10 → v1.11
 
 **M–M COGNITIVE INTERACTION PROPAGATION (2026-01-30):** M–M tests (TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION, RUN–REPORT–M–M–01–05) propagated to: cmc-scholar-mode (scope, voice distinctness, OGE #7, Cognitive Interaction section), cmc-oge-enforcement (response option when MIND in play, self-check, common failure, format variant, second-order note), CMC–BOOTSTRAP (OGE response option, EXPAND ON DEMAND ref), CIV–SCHOLAR–PROTOCOL v2.3 (cognitive interaction + OGE), CIV–SCHOLAR–TEMPLATE Section XI (OGE — COGNITIVE INTERACTION block), OGE_ARCHITECTURE (LEARN option classes 7–8), VERSION–MANIFEST.
 
@@ -14,10 +20,18 @@
 | Status | Count |
 |--------|--------|
 | **ALIGNED** (declared = actual, refs current) | Core governance + all templates |
-| **MINOR MISALIGNMENT** (stale body refs only) | 2 |
-| **STRUCTURAL** | CORE § XXIII–XXVIII reflected in templates |
+| **COGNITIVE STRUCTURE UPGRADES** | 5 phases complete |
+| **STRUCTURAL** | CORE § XXIII–XXVIII + new XIV-A/B/C reflected |
 
-**Summary:** Alignment is anchored on **CIV–MEM–CORE v2.8**. VERSION–MANIFEST § II/III/VI and CMC–BOOTSTRAP VERSION BINDINGS match current file versions. The four cross-reference fixes from the 2026-01-29 audit (Quick Binding, CMC–BOOTSTRAP SAP ref, CIV–MIND–BARNES Compatibility, CIV–DOCTRINE–TEMPLATE parenthetical) are **already applied**. Two remaining items: **CIV–MIND–BARNES** body text at III.D and III.E still cites "CIV–SCHOLAR–TEMPLATE v2.5" (should be v2.10 for consistency). One audit-doc typo: "XXIX" → **XXIII** (Canonical Status in CORE). No governance–template structural conflict.
+**Summary:** Alignment is anchored on **CIV–MEM–CORE v2.8**. VERSION–MANIFEST v1.11 and CMC–BOOTSTRAP v2.14 VERSION BINDINGS match current file versions.
+
+**COGNITIVE STRUCTURE UPGRADES (2026-01-29):**
+- CMC–BOOTSTRAP v2.13 → v2.14 (COGNITIVE STRUCTURE: One Core, Many Modes)
+- CIV–SCHOLAR–PROTOCOL v2.3 → v2.6 (XIV-A READ/REASON, XIV-B LOADABLE STATE, XIV-C MAINTENANCE TRIGGERS)
+- OGE_ARCHITECTURE v1.0 → v1.1 (COGNITIVE SKILLS REGISTRY)
+- All cross-references verified and aligned
+
+No governance–template structural conflict. All version bindings current.
 
 ---
 
@@ -43,11 +57,12 @@ All governance and template alignment is verified against these sections and the
 | File | Header/Footer Version | Location |
 |------|-----------------------|----------|
 | CIV–MEM–CORE | **v2.8** | docs/governance/CIV–MEM–CORE.md |
-| CMC–BOOTSTRAP | **v2.13** | docs/governance/CMC–BOOTSTRAP.md |
-| VERSION–MANIFEST | v1.10 | docs/governance/VERSION–MANIFEST.md |
+| CMC–BOOTSTRAP | **v2.14** | docs/governance/CMC–BOOTSTRAP.md |
+| VERSION–MANIFEST | v1.11 | docs/governance/VERSION–MANIFEST.md |
+| OGE_ARCHITECTURE | v1.1 | docs/architecture/OGE_ARCHITECTURE.md |
 | CIV–MEM–TEMPLATE | v2.9 | docs/templates/CIV–MEM–TEMPLATE.md |
 | CIV–SCHOLAR–TEMPLATE | v2.10 | docs/templates/CIV–SCHOLAR–TEMPLATE.md |
-| CIV–SCHOLAR–PROTOCOL | v2.3 | docs/templates/CIV–SCHOLAR–PROTOCOL.md |
+| CIV–SCHOLAR–PROTOCOL | **v2.6** | docs/templates/CIV–SCHOLAR–PROTOCOL.md |
 | CIV–MIND–MERCOURIS | v2.6 | docs/templates/CIV–MIND–MERCOURIS.md |
 | CIV–MIND–MEARSHEIMER | v2.6 | docs/templates/CIV–MIND–MEARSHEIMER.md |
 | CIV–MIND–BARNES | v2.5 | docs/templates/CIV–MIND–BARNES.md |
@@ -66,7 +81,9 @@ All governance and template alignment is verified against these sections and the
 | Document | VERSION–MANIFEST § II/III | Actual (file header) | Status |
 |----------|---------------------------|------------------------|--------|
 | CIV–MEM–CORE | v2.8 | v2.8 | ✓ Aligned |
-| CMC–BOOTSTRAP | v2.13 | v2.13 | ✓ Aligned |
+| CMC–BOOTSTRAP | v2.14 | v2.14 | ✓ Aligned |
+| CIV–SCHOLAR–PROTOCOL | v2.6 | v2.6 | ✓ Aligned |
+| OGE_ARCHITECTURE | v1.1 | v1.1 | ✓ Aligned |
 | CIV–MEM–TEMPLATE | v2.9 | v2.9 | ✓ Aligned |
 | CIV–SCHOLAR–TEMPLATE | v2.10 | v2.10 | ✓ Aligned |
 | CIV–SCHOLAR–GERMANIA | v2.12 | (content) v2.12 | ✓ Aligned |
@@ -150,13 +167,32 @@ Optional clarity bumps (applied 2026-01-30): CIV–MEM–TEMPLATE and CIV–SCHO
 Session startup should declare:
 
 ```
+Bound by CMC–BOOTSTRAP v2.14
+```
+
+Or full explicit binding:
+
+```
 Bound by:
+• CMC–BOOTSTRAP v2.14
 • CIV–MEM–CORE v2.8
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
 • CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.9
 • CIV–SCHOLAR–TEMPLATE v2.10
+• CIV–SCHOLAR–PROTOCOL v2.6
+```
+
+Or using LOADABLE STATE format (per CIV–SCHOLAR–PROTOCOL XIV-B):
+
+```
+STATE LOAD:
+  governance_binding: "CMC–BOOTSTRAP v2.14"
+  active_mode: LEARN
+  active_civilization: [CIV]
+  active_phase: I
+  active_minds: [MERCOURIS]
 ```
 
 ---
@@ -186,9 +222,10 @@ Bound by:
 | File | CORE ref | Status |
 |------|----------|--------|
 | CIV–MEM–CORE | — (anchor) | ✓ Canonical v2.8 |
-| CMC–BOOTSTRAP | v2.8, § XXVIII | ✓ Aligned |
-| VERSION–MANIFEST | v2.8 § II/VI | ✓ Aligned |
-| CIV–SCHOLAR–PRUNING–PROTOCOL | v2.2+, SCHOLAR v2.10 | ✓ Aligned (fixed this run) |
+| CMC–BOOTSTRAP | v2.14, § XXVIII, COGNITIVE STRUCTURE | ✓ Aligned |
+| VERSION–MANIFEST | v1.11, v2.8 § II/VI | ✓ Aligned |
+| OGE_ARCHITECTURE | v1.1, SKILLS REGISTRY | ✓ Aligned |
+| CIV–SCHOLAR–PRUNING–PROTOCOL | v2.2+, SCHOLAR v2.10 | ✓ Aligned |
 | NAMESPACE–CLARIFICATION | Section XII, ARC–TEMPLATE | ✓ Aligned |
 | CURSOR_SYSTEM_PROMPT | (no version) | ✓ Spirit-aligned (file classes, no synthesis) |
 | AUDIT / PROPOSAL / REPORT / RUN / TEST | CORE § refs where used | ✓ Aligned |
@@ -199,14 +236,14 @@ Bound by:
 |------|----------|--------|
 | CIV–MEM–TEMPLATE | v2.8+, XXIV–XXVII, VP-1.g | ✓ Aligned |
 | CIV–SCHOLAR–TEMPLATE | v2.8+, XXVI–XXVII | ✓ Aligned |
-| CIV–SCHOLAR–PROTOCOL | CORE, Template v2.6+ | ✓ v2.10 satisfies |
+| CIV–SCHOLAR–PROTOCOL | v2.6, XIV-A/B/C, BOOTSTRAP v2.14 | ✓ Aligned |
 | CIV–MIND–TEMPLATE | v2.6 (min) | ✓ v2.8 satisfies |
 | CIV–MIND–MERCOURIS | v2.6 | ✓ v2.8 satisfies |
 | CIV–MIND–MEARSHEIMER | v2.6 | ✓ v2.8 satisfies |
 | CIV–MIND–BARNES | v2.8, SCHOLAR v2.10 | ✓ Aligned |
 | CIV–DOCTRINE–TEMPLATE | v2.0+ | ✓ Aligned |
 | CIV–CORE–TEMPLATE | v2.2+ | ✓ Aligned |
-| CIV–INDEX–TEMPLATE | v2.2+, MEM v2.8+, SCHOLAR v2.10 | ✓ Aligned (fixed this run) |
+| CIV–INDEX–TEMPLATE | v2.2+, MEM v2.8+, SCHOLAR v2.10 | ✓ Aligned |
 | CIV–ARC–TEMPLATE | MEM–TEMPLATE v2.8+; CORE XII via NAMESPACE | ✓ Aligned |
 | CIV–ARC–LEDGER–TEMPLATE | ARC v2.7, MEM v2.8 | ✓ Aligned |
 | CIV–CEO–TEMPLATE | CORE (authority flow) | ✓ Aligned |
@@ -219,14 +256,24 @@ Bound by:
 - **Synthesis/ITI (XXVI–XXVII):** CIV–SCHOLAR–TEMPLATE v2.10 implements Assumptions Box, ACH. ✓  
 - **CCM (XXVIII):** CMC–BOOTSTRAP QUICK START step 8, ACTIVE CONSTRAINTS; tri-frame protocol. ✓  
 
-### X.E VERDICT
+### X.E COGNITIVE STRUCTURE ALIGNMENT (NEW)
+
+- **One Core, Many Modes:** CMC–BOOTSTRAP v2.14 COGNITIVE STRUCTURE section defines shared structure (MEM graph + MIND protocol) and mode contracts. ✓
+- **READ/REASON Layer:** CIV–SCHOLAR–PROTOCOL v2.6 XIV-A defines data access vs reasoning operations; cross-refs CMC–BOOTSTRAP. ✓
+- **Loadable State:** CIV–SCHOLAR–PROTOCOL v2.6 XIV-B defines state schema; consistent with mode contracts in BOOTSTRAP. ✓
+- **Maintenance Triggers:** CIV–SCHOLAR–PROTOCOL v2.6 XIV-C defines triggers; references state invariants from XIV-B. ✓
+- **Skills Registry:** OGE_ARCHITECTURE v1.1 defines skill invocations; cross-refs SCHOLAR–PROTOCOL XIV-A. ✓
+
+### X.F VERDICT
 
 **ALIGNED:** Core governance (CORE, BOOTSTRAP, VERSION–MANIFEST, NAMESPACE) and all templates are structurally aligned with CIV–MEM–CORE v2.8. Version bindings in VERSION–MANIFEST and CMC–BOOTSTRAP match actual file headers.
 
-**MINOR (2):** CIV–SCHOLAR–PRUNING–PROTOCOL and CIV–INDEX–TEMPLATE cited SCHOLAR–TEMPLATE v2.5; updated to v2.10 this run. ✓
+**COGNITIVE STRUCTURE UPGRADES (2026-01-29):** All five phases implemented and cross-referenced:
+- CMC–BOOTSTRAP v2.14 ↔ CIV–SCHOLAR–PROTOCOL v2.6 ↔ OGE_ARCHITECTURE v1.1 ✓
+- VERSION–MANIFEST v1.11 documents all changes ✓
 
-**OPTIONAL:** CIV–MIND–TEMPLATE, CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER cite CORE "v2.6" (min); v2.8 satisfies. CIV–SCHOLAR–PROTOCOL body cites Template "v2.6"; v2.10 satisfies. No mandatory change.
+**OPTIONAL:** CIV–MIND–TEMPLATE, CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER cite CORE "v2.6" (min); v2.8 satisfies. No mandatory change.
 
 ---
 
-END OF AUDIT — 2026-01-30 (Governance & Template Alignment; anchor CIV–MEM–CORE v2.8)
+END OF AUDIT — 2026-01-29 (Governance & Template Alignment; anchor CIV–MEM–CORE v2.8; COGNITIVE STRUCTURE UPGRADES complete)

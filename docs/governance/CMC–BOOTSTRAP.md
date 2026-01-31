@@ -1,11 +1,11 @@
-CMC–BOOTSTRAP — v2.13
+CMC–BOOTSTRAP — v2.14
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC–BOOTSTRAP v2.13"
+1) Declare binding: "Bound by CMC–BOOTSTRAP v2.14"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
 4) OGE required in ALL modes (LEARN/IMAGINE: 6 options, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
@@ -13,14 +13,36 @@ QUICK START (MINIMAL)
 6) Cursor rules (.cursor/rules/cmc-*) enforce mode contracts, blend law, OGE, voice; apply when active.
 7) If a rule is unclear, expand to full governance docs.
 8) Cross-civilizational misperception: Scholar-on-Scholar explanation divergence (why the other encodes X) is expected; treat as emergent realism, not consistency break (CIV–MEM–CORE § XXVIII).
+9) Trans-sovereign patterns: MEMs documenting TRANSMISSION, NETWORK, or RECONSTITUTION patterns require mandatory cross-civilizational connections and mechanism documentation (CIV–MEM–CORE § XXIX).
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.14) — COGNITIVE STRUCTURE (ONE CORE, MANY MODES)
+────────────────────────────────────────────────────────────
+This version formalizes the shared cognitive structure underlying all modes.
+
+v2.14 introduces:
+
+COGNITIVE STRUCTURE FORMALIZATION:
+• New section "COGNITIVE STRUCTURE (ONE CORE, MANY MODES)"
+• Canonical statement: modes are interfaces to one shared structure
+• Mode contract table: what each mode shares and how they differ
+• Extension rule: how to add new modes without duplicating logic
+
+Effect:
+• Makes explicit that LEARN, WRITE, IMAGINE share MEM graph + MIND protocol
+• Reduces mode creep by clarifying invariants
+• Provides template for future mode additions
+
+Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 1)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.13) — CROSS–CIVILIZATIONAL MISPERCEPTION (CCM)
 ────────────────────────────────────────────────────────────
 This version integrates CCM awareness from CIV–MEM–CORE v2.8.
+(Note: CIV–MEM–CORE is now v2.9 with TSP governance)
 
 v2.13 updates:
-• CIV–MEM–CORE binding: v2.7 → v2.8
+• CIV–MEM–CORE binding: v2.7 → v2.8 (now v2.9)
 • QUICK START step 8: Cross-civilizational misperception (Scholar-on-Scholar explanation divergence = expected, emergent realism)
 • ACTIVE CONSTRAINTS: CCM clause added
 
@@ -142,9 +164,9 @@ MIND PROFILES:
 TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.9
 • CIV–SCHOLAR–TEMPLATE: v2.10
-• CIV–SCHOLAR–PROTOCOL: v2.3
+• CIV–SCHOLAR–PROTOCOL: v2.6
 
-Declare: "Bound by CMC–BOOTSTRAP v2.13"
+Declare: "Bound by CMC–BOOTSTRAP v2.14"
 
 ────────────────────────────────────────────────────────────
 SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0 — NEW)
@@ -179,7 +201,7 @@ MODE-SPECIFIC APPLICATION:
 │ Canonical   │ Full    │ Patterns│ None          │
 └─────────────┴─────────┴─────────┴───────────────┘
 
-See: CIV–MEM–CORE v2.8, Section XXII for full protocol.
+See: CIV–MEM–CORE v2.9, Section XXII for full protocol.
 
 ────────────────────────────────────────────────────────────
 SCHOLAR MODE ARCHITECTURE (HARD)
@@ -192,6 +214,50 @@ MODE SWITCHING COMMANDS:
 • "switch to learn mode" or "scholar learn mode" → LEARN
 • "switch to write mode" or "generate MEM" → WRITE
 • "switch to imagine mode" or "counterfactual" → IMAGINE
+
+────────────────────────────────────────────────────────────
+COGNITIVE STRUCTURE (ONE CORE, MANY MODES)
+────────────────────────────────────────────────────────────
+CANONICAL STATEMENT:
+The MEM graph (MEM files, MEM CONNECTIONS, INDEX, ARC) and the MIND
+protocol (voice rules, Blend Law, OGE, tri-frame) are INVARIANT across
+modes. WRITE, LEARN, IMAGINE, and AUDIT are interfaces to this shared
+structure: they differ only in their contract (what may be written,
+what must be returned, what triggers OGE).
+
+SHARED STRUCTURE (invariant across all modes):
+┌─────────────────────────────────────────────────────────────────┐
+│ MEM GRAPH                                                       │
+│ • MEM files (content, structured data, connections)             │
+│ • MEM CONNECTIONS (same-civ ≥10, cross-civ ≥3)                  │
+│ • INDEX (canonical registry per civilization)                   │
+│ • ARC (Academic Reference Canon, quotation hierarchy)           │
+├─────────────────────────────────────────────────────────────────┤
+│ MIND PROTOCOL                                                   │
+│ • Voice rules (Mercouris primary, Mearsheimer, Barnes)          │
+│ • Blend Law (GEO 2/3 M'heimer; Subject 2/3 Mercouris)           │
+│ • OGE (6 options, M+B, POST-BARNES M/M response)                │
+│ • Tri-frame (catalyst sequence, POST-BARNES enrichment)         │
+└─────────────────────────────────────────────────────────────────┘
+
+MODE CONTRACT TABLE (what differs):
+┌───────────┬────────────┬─────────────────────┬──────────────────┬──────────────────┐
+│ Mode      │ MEM Graph  │ Return Type         │ OGE Required     │ Voice            │
+├───────────┼────────────┼─────────────────────┼──────────────────┼──────────────────┤
+│ WRITE     │ Read+Write │ MEM text (canonical)│ 1 Barnes min     │ Mercouris prose  │
+│ LEARN     │ Read only  │ Analysis + OGE      │ 6 options, M+B   │ Mercouris prose  │
+│ IMAGINE   │ Read only  │ Scenario + OGE      │ 6 options, M+B   │ Mercouris spoken │
+│ AUDIT     │ Read only* │ Pass/fail + recs    │ Context-dep      │ Mercouris prose  │
+└───────────┴────────────┴─────────────────────┴──────────────────┴──────────────────┘
+*AUDIT in WRITE mode may trigger file modifications to fix violations.
+
+EXTENSION RULE (adding new modes):
+To add a new mode (e.g., COMPARE, CITATION_CHECK):
+1. Define the mode contract (inputs, outputs, read/write permissions)
+2. State which MIND protocol elements it uses (voice, OGE, Blend Law)
+3. DO NOT redefine voice, OGE structure, or Blend Law
+4. DO NOT add new MINDs without separate governance change
+5. Document in this file and add to MODE CONTRACT TABLE
 
 ────────────────────────────────────────────────────────────
 SCHOLAR → WRITE MODE
@@ -437,5 +503,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v2.13
+END — CMC–BOOTSTRAP — v2.14
 ────────────────────────────────────────────────────────────

@@ -1,16 +1,16 @@
-CIV–MEM–CORE — v2.8
+CIV–MEM–CORE — v2.9
 Civilizational Memory Codex · System Core
-THREE-LAYER ARCHITECTURE EDITION · INTELLIGENCE TRADECRAFT INTEGRATION
+THREE-LAYER ARCHITECTURE EDITION · TRANS-SOVEREIGN PATTERNS INTEGRATION
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.8
+Version: 2.9
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.7
-Upgrade Type: GOVERNANCE CLARIFICATION · CROSS–CIVILIZATIONAL MISPERCEPTION
+Supersedes: CIV–MEM–CORE v2.8
+Upgrade Type: GOVERNANCE EXPANSION · TRANS-SOVEREIGN PATTERNS
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
@@ -42,6 +42,47 @@ Effect:
 • ARC evidence addendum cited for canonical precedent
 
 Reference: RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.md
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.9) — TRANS-SOVEREIGN PATTERNS (TSP)
+────────────────────────────────────────────────────────────
+This version formally establishes governance for patterns that operate
+across civilizational boundaries without dissolving civilizational
+attribution.
+
+v2.9 introduces:
+
+TRANS-SOVEREIGN PATTERNS (TSP v1.0)
+
+Three pattern types are now formally recognized:
+
+• Institutional Transmission: Civilizational logic transfers to new
+  political context (e.g. Bank of England → First Bank of the United
+  States; Rome → Russia)
+• Trans-Sovereign Network: Entity operates across civilizations
+  simultaneously (e.g. Rothschild five-house network; Hanseatic League)
+• Civilizational Reconstitution: Institutional grammar survives political
+  rupture and re-emerges in new form (e.g. Hamilton rebuilding Anglian
+  administrative machinery in republican America)
+
+Key provisions:
+• Section XXIX: Trans-Sovereign Patterns (definition, governance stance,
+  interaction with existing governance, MEM authoring requirements)
+
+Effect:
+• TSP MEMs remain attributed to their primary civilization
+• Cross-civilizational connections are mandatory for TSP subjects
+• TSP patterns are documented, not synthesized across civilizations
+• Mechanism documentation is required
+
+Backward Compatibility:
+• All existing MEM files remain valid
+• Existing MEMs documenting TSP patterns may be upgraded voluntarily
+• No migration deadline; voluntary compliance encouraged
+
+Reference MEMs: MEM–ANGLIA–HAMILTON, MEM–ANGLIA–ROTHSCHILD,
+MEM–GERMANIA–ROTHSCHILD, MEM–GERMANIA–HANSEATIC–LEAGUE, MEM–ROME–RUSSIA,
+MEM–PERSIA–ZOROASTER
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — THREE-LAYER ARCHITECTURE · TRADECRAFT
@@ -1593,9 +1634,145 @@ patterns of misperception and attribution asymmetry. CCM governance
 rests on this canonical precedent.
 
 ────────────────────────────────────────────────────────────
-XXIX. CANONICAL STATUS (UPDATED)
+XXIX. TRANS-SOVEREIGN PATTERNS (TSP)
+────────────────────────────────────────────────────────────
+PURPOSE: Establish governance for patterns that operate across
+civilizational boundaries—transmission of institutional logic,
+trans-sovereign networks, and civilizational reconstitution—without
+dissolving civilizational attribution or creating neutral filing.
+
+TSP v1.0 — BINDING
+
+────────────────────────────────────────────────────────────
+XXIX.A DEFINITION AND SCOPE
+────────────────────────────────────────────────────────────
+Three trans-sovereign pattern types are recognized:
+
+INSTITUTIONAL TRANSMISSION:
+• Civilizational logic transfers to a new political context
+• The receiving context may be a new state, a successor polity, or a
+  different civilization
+• Examples: Bank of England → First Bank of the United States (1791);
+  Byzantine institutional forms → Russia (Muscovite period);
+  Zoroastrian metaphysics → Jewish, Christian, Islamic eschatology
+• Transmission does not require territorial continuity
+• The transmitting and receiving civilizations are both documented
+
+TRANS-SOVEREIGN NETWORK:
+• Entity operates across civilizations simultaneously without submitting
+  to any single sovereignty
+• Network logic substitutes for state authority in specific domains
+• Examples: Rothschild five-house network (London, Paris, Frankfurt,
+  Vienna, Naples); Hanseatic League (commercial confederation across
+  Germanic, Baltic, and North Sea polities); Italian merchant networks
+  (Marco Polo, Venetian–Genoese trade)
+• Network actors are filed under their primary civilization but must
+  document cross-civilizational operation
+
+CIVILIZATIONAL RECONSTITUTION:
+• Institutional grammar survives political rupture and re-emerges in
+  new form
+• The new form may be formally independent of the original polity
+• Examples: Hamilton rebuilding Anglian administrative machinery
+  (treasury-centered governance, public credit, national bank) inside
+  republican America; Canada preserving Anglian procedure without
+  revolution
+• Reconstitution implies structural continuity despite political rupture
+
+────────────────────────────────────────────────────────────
+XXIX.B GOVERNANCE STANCE
+────────────────────────────────────────────────────────────
+TSP governance preserves civilizational attribution:
+
+PRIMARY CIVILIZATION ATTRIBUTION:
+• TSP MEMs remain filed under their primary civilization
+• Hamilton → ANGLIA (not a neutral "trans-Atlantic" category)
+• Hanseatic League → GERMANIA (not a neutral "Baltic" category)
+• Rothschild → filed in both ANGLIA and GERMANIA as separate MEMs
+
+NO NEUTRAL FILING:
+• TSP does NOT create a new civilization or neutral filing location
+• Cross-civilizational patterns are documented within existing
+  civilizational frames
+• Each civilization's MEM presents its perspective on the pattern
+
+MANDATORY CROSS-CIVILIZATIONAL CONNECTIONS:
+• TSP MEMs MUST include cross-civilizational connections in MEM
+  CONNECTIONS section
+• For TRANSMISSION: connection to receiving civilization's MEMs
+• For NETWORK: connections to all civilizations where network operates
+• For RECONSTITUTION: connection to source civilization's institutional
+  MEMs
+
+DOCUMENTATION NOT SYNTHESIS:
+• TSP patterns are documented, not synthesized across civilizations
+• Each civilization's SCHOLAR may interpret the pattern differently
+• Divergent interpretations are preserved per CCM (§XXVIII)
+
+────────────────────────────────────────────────────────────
+XXIX.C INTERACTION WITH EXISTING GOVERNANCE
+────────────────────────────────────────────────────────────
+TSP integrates with existing cross-civilizational governance:
+
+RELATIONSHIP TO SDI (§XVI):
+• TSP subjects may appear in SDI comparisons
+• SDI pairing is orthogonal to TSP classification
+• A TSP MEM can be one side of an SDI comparison
+
+RELATIONSHIP TO CCM (§XXVIII):
+• TSP subjects may exhibit first-order or second-order misperception
+• One civilization's explanation of a TSP pattern may contradict
+  another's self-explanation
+• This is permitted and expected per CCM governance
+
+RELATIONSHIP TO ARC:
+• TSP MEMs must cite sources from the primary civilization's ARC
+• Cross-civilizational claims should cite sources from both ARCs
+  where available
+• Transmission mechanisms should be ARC-grounded
+
+RELATIONSHIP TO TLA (§XXIV):
+• TSP MEMs follow standard three-layer architecture
+• Layer 2 may include TSP-specific structured fields (optional,
+  defined in CIV–MEM–TEMPLATE)
+• Layer 3 may include transmission mechanism documentation
+
+────────────────────────────────────────────────────────────
+XXIX.D MEM AUTHORING REQUIREMENTS FOR TSP
+────────────────────────────────────────────────────────────
+When a MEM documents a trans-sovereign pattern:
+
+HEADER DECLARATION (RECOMMENDED):
+• Subject Type field may include TSP classification:
+  - Subject Type: INTERPRETIVE (TSP: TRANSMISSION)
+  - Subject Type: INTERPRETIVE (TSP: NETWORK)
+  - Subject Type: INTERPRETIVE (TSP: RECONSTITUTION)
+
+CROSS-CIVILIZATIONAL CONNECTIONS (MANDATORY):
+• MEM CONNECTIONS section MUST include cross-civilizational references
+• Format: "Cross-civilization (X): MEM–X–[SUBJECT] — [relationship]"
+• Absence of cross-civilizational connections in a TSP MEM is a
+  governance violation
+
+MECHANISM DOCUMENTATION (MANDATORY):
+• MEM prose MUST document how the pattern transmits, operates, or
+  reconstitutes
+• For TRANSMISSION: what transferred, how, what adapted
+• For NETWORK: how the network operates across boundaries
+• For RECONSTITUTION: what institutional logic persisted, what changed
+
+CIVILIZATIONAL ATTRIBUTION (MANDATORY):
+• MEM remains filed under primary civilization
+• No neutral or "world history" filing permitted
+• The civilization filing determines which ARC governs
+
+────────────────────────────────────────────────────────────
+XXX. CANONICAL STATUS (UPDATED)
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
+
+v2.9 ADDITIONS:
+• Section XXIX: Trans-Sovereign Patterns (TSP)
 
 v2.8 ADDITIONS:
 • Section XXVIII: Cross-Civilizational Misperception (CCM)
@@ -1611,6 +1788,7 @@ Future versions may:
 • Add interface layers
 • Add procedural enforcement clauses
 • Add new Layer 2/3 field specifications
+• Add TSP-specific Layer 2 structured fields
 
 They may NOT:
 • Remove existing sections
@@ -1620,5 +1798,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.8
+END OF FILE — CIV–MEM–CORE v2.9
 ────────────────────────────────────────────────────────────
