@@ -138,7 +138,7 @@ IX. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
 • MEM–ANGLIA–BRITISH–EMPIRE (HBC, Oregon Country, imperial boundary)
 • MEM–ANGLIA–WAR–1812 (northern boundary context)
 • MEM–ANGLIA–GEO–OHIO–VALLEY (earlier westward theater; Ohio then Rockies as sequential frontiers)
-• MEM–ANGLIA–GEO–PACIFIC (Pacific terminus of Rockies drainage; Oregon, BC)
+• MEM–ANGLIA–GEO–PACIFIC–OCEAN (Pacific terminus of Rockies drainage; Oregon, BC)
 • MEM–ANGLIA–NATIVE–AMERICANS (indigenous presence and resistance in cordillera)
 
 Dependency: This MEM supports continental-partition and corridor-control reasoning. Breaks if removed: continuity between Ohio Valley frontier and Pacific littoral; 49th parallel as Anglian boundary.

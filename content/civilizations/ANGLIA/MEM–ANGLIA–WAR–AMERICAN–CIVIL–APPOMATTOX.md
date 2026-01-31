@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–APPOMATTOX — v1.3
+MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: RENAME (WAR–APPOMATTOX → WAR–AMERICAN–CIVIL–APPOMATTOX)
 Civilization: ANGLIA
 Subject: Appomattox (Procedural Termination & Legitimacy Preservation)
 Dates: April 9, 1865 AD
@@ -15,7 +15,7 @@ Last Update: January 2026
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Appomattox as **the procedural termination point of
-Anglia’s American civil war**: the moment when overwhelming coercive
+Anglia's American civil war**: the moment when overwhelming coercive
 force is deliberately restrained in order to preserve institutional
 continuity, legitimacy, and post-war governability.
 
@@ -25,7 +25,7 @@ It is a **governance decision executed at the moment of victory**.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. STRATEGIC CONTEXT AT WAR’S END
+II. STRATEGIC CONTEXT AT WAR'S END
 ────────────────────────────────────────────────────────────
 By early 1865, Confederate military defeat is no longer theoretical.
 After Gettysburg and Vicksburg, Confederate capacity erodes steadily
@@ -49,12 +49,12 @@ SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
-III. APPOMATTOX AS PROCEDURAL CHOIAD
+III. APPOMATTOX AS PROCEDURAL CHOICE
 ────────────────────────────────────────────────────────────
 The surrender at Appomattox Court House represents a conscious choice
 to frame victory as restoration rather than annihilation.
 
-Grant’s terms:
+Grant's terms:
 • No imprisonment of Confederate soldiers
 • Officers retain sidearms
 • Soldiers paroled, not prosecuted
@@ -69,13 +69,13 @@ The Union chooses legitimacy over vengeance.
 IV. PRIMARY SOURCE ANCHORS (VERBATIM)
 ────────────────────────────────────────────────────────────
 
-PRIMARY SOURCE ANCHOR A — GRANT’S TERMINATION LOGIC
+PRIMARY SOURCE ANCHOR A — GRANT'S TERMINATION LOGIC
 
 Source:
 • Ulysses S. Grant, Memoirs, Vol. II
 
 Verbatim Quote:
-“The war is over; the rebels are our countrymen again.”
+"The war is over; the rebels are our countrymen again."
 
 Context Function:
 This sentence encodes Anglian procedural instinct: authority restored
@@ -85,25 +85,25 @@ Provenance Confidence: HIGH
 
 ---
 
-PRIMARY SOURCE ANCHOR B — LEE’S ACCEPTANCE OF FINALITY
+PRIMARY SOURCE ANCHOR B — LEE'S ACCEPTANCE OF FINALITY
 
 Source:
 • Robert E. Lee, Farewell Address to Army of Northern Virginia, April 10, 1865
 
 Verbatim Quote:
-“After four years of arduous service, marked by unsurpassed courage and
+"After four years of arduous service, marked by unsurpassed courage and
 fortitude, the Army of Northern Virginia has been compelled to yield to
-overwhelming numbers and resources.”
+overwhelming numbers and resources."
 
 Context Function:
-Lee’s framing accepts systemic defeat rather than moral collapse,
+Lee's framing accepts systemic defeat rather than moral collapse,
 allowing Confederate legitimacy to dissolve without revolutionary
 narrative escalation.
 
 Provenance Confidence: HIGH
 
 ────────────────────────────────────────────────────────────
-V. LEGITIMACY MANAGEMENT AT THE MOMENT OF FORAD
+V. LEGITIMACY MANAGEMENT AT THE MOMENT OF FORCE
 ────────────────────────────────────────────────────────────
 Appomattox demonstrates a core Anglian principle:
 **the manner of victory determines postwar stability**.
@@ -156,14 +156,14 @@ This gap becomes the terrain of postwar conflict.
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–WAR–AMERICAN–CIVIL  
-Appomattox operationalizes the Civil War’s core objective: preservation
+Appomattox operationalizes the Civil War's core objective: preservation
 of union authority without revolutionary reset.
 
-• MEM–ANGLIA–WAR–GETTYSBURG  
+• MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG  
 Gettysburg halts Confederate legitimacy offensively; Appomattox
 terminates Confederate resistance procedurally.
 
-• MEM–ANGLIA–WAR–VICKSBURG  
+• MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG  
 Vicksburg makes Confederate defeat inevitable; Appomattox determines
 how that inevitability is concluded.
 
@@ -182,7 +182,7 @@ Lessons:
 • Legitimacy survives restraint
 • Ending a war is harder than winning it
 
-Appomattox is Anglia’s proof that authority can conclude violence
+Appomattox is Anglia's proof that authority can conclude violence
 without mythic rebirth.
 
 ────────────────────────────────────────────────────────────
@@ -192,11 +192,11 @@ X. CONTINUITY INSIGHTS (RAW)
 • How wars end defines postwar order.
 • Mercy can be strategic infrastructure.
 • Restraint preserves legitimacy.
-• Appomattox is Anglia’s closing doctrine.
+• Appomattox is Anglia's closing doctrine.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–APPOMATTOX — v1.4
+END OF FILE — MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.5
 Word Count: ~860
 ────────────────────────────────────────────────────────────

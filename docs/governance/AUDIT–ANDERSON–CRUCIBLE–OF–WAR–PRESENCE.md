@@ -117,12 +117,12 @@ Anderson’s scope: Seven Years’ War (1754–1766), British North America, imp
 | **MEM–ANGLIA–WASHINGTON** | Washington in Ohio Valley and Seven Years’ War; Anderson on backcountry, Virginia, and military experience that shaped later leadership. |
 | **MEM–ANGLIA–FRANKLIN** | Franklin in imperial/colonial politics — Albany Plan, colonial cooperation, postwar imperial debate. Anderson covers this. |
 | **MEM–ANGLIA–DECLARATION–INDEPENDENCE** | Rupture from empire; Anderson on imperial governance failure and the “problems” that drove colonists toward independence. |
-| **MEM–ANGLIA–WAR–YORKTOWN** | End of American war; Anderson on imperial overstretch and how postwar imperial structure led to colonial war. |
+| **MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN** | End of American war; Anderson on imperial overstretch and how postwar imperial structure led to colonial war. |
 | **MEM–ANGLIA–PITT–ELDER** | Pitt and British war policy; Anderson on British strategy, global coordination, and parliamentary/military integration. |
 | **MEM–ANGLIA–DYNASTY–HANOVER** | Hanoverian period and Seven Years’ War; Anderson on British side of the war and Hanoverian empire. |
 
 **Already enhanced:** MEM–ANGLIA–WAR–SEVEN–YEARS (2+ Anderson verbatim quotes).  
-**Priority order for adding verbatim:** WAR–AMERICAN–INDEPENDENCE, BRITISH–EMPIRE, CANADA, then UNITED–STATES–AMERICA / WASHINGTON / FRANKLIN / DECLARATION–INDEPENDENCE / WAR–YORKTOWN / PITT–ELDER / DYNASTY–HANOVER as needed.
+**Priority order for adding verbatim:** WAR–AMERICAN–INDEPENDENCE, BRITISH–EMPIRE, CANADA, then UNITED–STATES–AMERICA / WASHINGTON / FRANKLIN / DECLARATION–INDEPENDENCE / WAR–AMERICAN–INDEPENDENCE–YORKTOWN / PITT–ELDER / DYNASTY–HANOVER as needed.
 
 ---
 

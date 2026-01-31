@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–GETTYSBURG — v1.3
+MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: RENAME (WAR–GETTYSBURG → WAR–AMERICAN–CIVIL–GETTYSBURG)
 Civilization: ANGLIA
 Subject: Gettysburg (Legitimacy Shock & Moral Reframing)
 Dates: July 1–3, 1863 AD
@@ -14,7 +14,7 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Gettysburg as the Union’s legitimacy inflection
+This file preserves Gettysburg as the Union's legitimacy inflection
 point: the moment when a brutal, attritional battle coincides with a
 shift in civilizational language. Gettysburg does not end the war, nor
 does it guarantee victory. Its significance lies in how sacrifice is
@@ -36,7 +36,7 @@ through offensive maneuver, believing that a decisive victory on
 Northern soil might fracture Union political will, encourage foreign
 recognition, or force negotiated settlement.
 
-Robert E. Lee’s invasion of Pennsylvania represents this gamble.
+Robert E. Lee's invasion of Pennsylvania represents this gamble.
 Gettysburg is not selected deliberately as a battlefield; rather, it
 emerges from converging movements and incomplete intelligence.
 Its northern location, however, ensures that its political and symbolic
@@ -65,7 +65,7 @@ Key characteristics include:
 
 Union forces benefit from interior lines and defensive terrain, while
 Confederate forces expend elite offensive capacity, culminating in
-Pickett’s Charge—a massed assault reflecting desperation rather than
+Pickett's Charge—a massed assault reflecting desperation rather than
 doctrinal preference.
 
 Gettysburg does not demonstrate operational brilliance.
@@ -81,10 +81,10 @@ Source:
 • Abraham Lincoln, Gettysburg Address, November 19, 1863
 
 Verbatim Quote:
-“It is for us the living, rather, to be dedicated here to the unfinished
+"It is for us the living, rather, to be dedicated here to the unfinished
 work which they who fought here have thus far so nobly advanced…
 that government of the people, by the people, for the people, shall not
-perish from the earth.”
+perish from the earth."
 
 Context Function:
 This address reframes Union sacrifice as a defense of legitimacy itself,
@@ -101,9 +101,9 @@ Source:
 • Private John Haley, 17th Maine Infantry, diary entry, July 1863
 
 Verbatim Quote:
-“I saw men whom I had known since we left home fall like leaves in
+"I saw men whom I had known since we left home fall like leaves in
 autumn. The ground was strewn thick with the dead and dying, and the
-cries of the wounded were heart-rending.”
+cries of the wounded were heart-rending."
 
 Context Function:
 This account anchors legitimacy language in unromanticized mass
@@ -144,18 +144,18 @@ beyond immediate military outcomes.
 VII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–WAR–AMERICAN–CIVIL  
-Gettysburg functions as the war’s symbolic and legitimacy inflection
+Gettysburg functions as the war's symbolic and legitimacy inflection
 point, translating the broader procedural survival struggle of the
 American Civil War into moralized civilizational language.
 
-• MEM–ANGLIA–WAR–VICKSBURG  
-Gettysburg’s symbolic stabilization of Union legitimacy coincides with
-Vicksburg’s material severance of Confederate logistics, together
+• MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG  
+Gettysburg's symbolic stabilization of Union legitimacy coincides with
+Vicksburg's material severance of Confederate logistics, together
 marking the simultaneous moral and systemic turning of the war.
 
 • MEM–ANGLIA–LAW–DECLARATION–INDEPENDENCE  
-Lincoln’s Gettysburg Address consciously echoes and repurposes the
-Declaration’s universalist language, re-embedding it within an Anglian
+Lincoln's Gettysburg Address consciously echoes and repurposes the
+Declaration's universalist language, re-embedding it within an Anglian
 procedural framework rather than revolutionary rupture.
 
 ────────────────────────────────────────────────────────────
@@ -170,6 +170,6 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–GETTYSBURG — v1.4
+END OF FILE — MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.5
 Word Count: ~860
 ────────────────────────────────────────────────────────────

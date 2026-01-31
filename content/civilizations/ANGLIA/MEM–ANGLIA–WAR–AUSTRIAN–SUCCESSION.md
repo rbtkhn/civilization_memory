@@ -200,7 +200,7 @@ Contrasting Francien memory encodes frustration and humiliation.
 • MEM–FRANCIA–SEVEN–YEARS–WAR  
 Shows how unresolved tension carries forward differently.
 
-• MEM–ANGLIA–FEDERALIST–PAPERS  
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS  
 Parallel logic: restraint and structure over passion and immediacy.
 
 ────────────────────────────────────────────────────────────

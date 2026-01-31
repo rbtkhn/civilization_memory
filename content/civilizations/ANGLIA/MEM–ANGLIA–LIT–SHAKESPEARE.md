@@ -1,9 +1,10 @@
-MEM–ANGLIA–SHAKESPEARE — v1.2
+MEM–ANGLIA–LIT–SHAKESPEARE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE (Shakespeare history-play quotes as legitimacy encoder)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: RENAME (SHAKESPEARE → LIT–SHAKESPEARE)
 Civilization: ANGLIA
 Subject: William Shakespeare
 Dates: 1564–1616 AD
@@ -13,11 +14,11 @@ Word Count: ~2,050
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Shakespeare as **Anglia’s integrative legitimacy
+This file preserves Shakespeare as **Anglia's integrative legitimacy
 mirror** and as **cognition glue** of the Anglian civilization: the
 figure who rendered power, authority, conscience, and social order
 intelligible through drama—exposing their tensions without seeking to
-dissolve the structures that contain them. He binds the civilization’s
+dissolve the structures that contain them. He binds the civilization's
 self-understanding: shared recognition of how rule and disorder work,
 without requiring doctrine or creed.
 
@@ -123,7 +124,7 @@ Truth stabilizes more than irony.
 ────────────────────────────────────────────────────────────
 VIII. LONG-TERM CIVILIZATIONAL EFFECT
 ────────────────────────────────────────────────────────────
-Shakespeare fortifies Anglia’s order culturally. As **cognition glue**,
+Shakespeare fortifies Anglia's order culturally. As **cognition glue**,
 he gives the Anglian civilization a common vocabulary and narrative
 frame for legitimacy, failure, and continuity—so that rulers and
 subjects alike can recognize themselves in the same stories without
@@ -139,12 +140,12 @@ He deepens continuity rather than rupturing it.
 ────────────────────────────────────────────────────────────
 IX. HISTORY PLAYS AS LEGITIMACY ENCODER (LITERARY EVIDENCE)
 ────────────────────────────────────────────────────────────
-Shakespeare’s history plays encode Anglian legitimacy, kingship, and
+Shakespeare's history plays encode Anglian legitimacy, kingship, and
 institutional continuity—island identity, martial unity, and dynastic
 fracture—in durable verbal form. Exemplary passages (play, act, scene):
 
 SOURCE — *Richard II*, 2.1 (John of Gaunt):
-> This royal throne of kings, this scepter’d isle,
+> This royal throne of kings, this scepter'd isle,
 > This earth of majesty, this seat of Mars,
 > This other Eden, demi-paradise,
 > This fortress built by Nature for herself
@@ -152,10 +153,10 @@ SOURCE — *Richard II*, 2.1 (John of Gaunt):
 > … This blessed plot, this earth, this realm, this England.
 > — William Shakespeare, *Richard II*, 2.1 (literary) [ERC-SECONDARY]
 
-SOURCE — *Henry V*, 4.3 (St Crispin’s Day):
+SOURCE — *Henry V*, 4.3 (St Crispin's Day):
 > We few, we happy few, we band of brothers;
 > For he to-day that sheds his blood with me
-> Shall be my brother; be he ne’er so vile,
+> Shall be my brother; be he ne'er so vile,
 > This day shall gentle his condition.
 > — William Shakespeare, *Henry V*, 4.3 (literary) [ERC-SECONDARY]
 
@@ -171,11 +172,11 @@ X. CONTINUITY INSIGHTS (RAW)
 • Tragedy preserves order by revealing cost.
 • Plurality stabilizes when it is represented, not weaponized.
 • Legitimacy strengthened by understanding, not mockery.
-• Shakespeare sustains Anglia’s order by making it human.
+• Shakespeare sustains Anglia's order by making it human.
 • Shakespeare is cognition glue: he binds Anglian self-understanding without imposing a creed.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–SHAKESPEARE — v1.2
+END OF FILE — MEM–ANGLIA–LIT–SHAKESPEARE — v1.3
 ────────────────────────────────────────────────────────────

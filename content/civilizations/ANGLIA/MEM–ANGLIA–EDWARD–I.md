@@ -100,7 +100,7 @@ Edward I is Anglia’s law-giver and parliamentarian king—and the king who cou
 V. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–COMMON–LAW (Henry II’s law; Edward I as successor law-giver)
-• MEM–ANGLIA–MAGNA–CARTA (constraint precedent; Edward’s parliaments build on consent)
+• MEM–ANGLIA–LAW–MAGNA–CARTA (constraint precedent; Edward’s parliaments build on consent)
 • MEM–ANGLIA–WAR–BANNOCKBURN (structural defeat in Scotland under Edward II; Edward I’s Scottish wars as prelude)
 • MEM–ANGLIA–SCOTLAND (Scottish kingdom; Edward I’s claim and failure)
 • MEM–ANGLIA–DYNASTY–PLANTAGENET (Edward I as Plantagenet)

@@ -128,7 +128,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
 • MEM–ANGLIA–WAR–NAPOLEON — Castlereagh shapes post-Napoleonic order
-• MEM–ANGLIA–WAR–WATERLOO — Waterloo precedes Vienna settlement
+• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — Waterloo precedes Vienna settlement
 • MEM–ANGLIA–DYNASTY–HANOVER — Hanoverian constitutional monarchy context
 • MEM–ANGLIA–WELLINGTON — Military complement to Castlereagh's diplomatic restraint
 • MEM–ANGLIA–PITT–YOUNGER — Financial-strategic foundation for Castlereagh's diplomacy
@@ -152,7 +152,7 @@ IX. BIBLIOGRAPHY
 • Kissinger, Henry. *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822*. Boston: Houghton Mifflin, 1957. (ARC-T-MODERN) [ERC-SECONDARY]
 • CIV–ARC–ANGLIA — Kissinger in ARC-T-MODERN (to be added)
 • MEM–ANGLIA–WAR–NAPOLEON — Post-Napoleonic order context
-• MEM–ANGLIA–WAR–WATERLOO — Waterloo and Vienna settlement
+• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — Waterloo and Vienna settlement
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–CASTLEREAGH — v1.0

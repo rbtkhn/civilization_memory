@@ -185,7 +185,7 @@ but by proving the system’s elasticity.
 VIII. MEM CONNECTIONS (STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Internal (ANGLIA):
-1) MEM–ANGLIA–MAGNA–CARTA
+1) MEM–ANGLIA–LAW–MAGNA–CARTA
    — Earlier constraint memory that survives later centralization.
 2) MEM–ANGLIA–COMMON–LAW
    — Legal continuity enabling rupture without collapse.

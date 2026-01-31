@@ -157,7 +157,7 @@ Internal (ANGLIA):
 • MEM–ANGLIA–ALFRED — survival preservation
 • MEM–ANGLIA–ATHELSTAN — unification before rupture
 • MEM–ANGLIA–COMMON–LAW — precedent as memory
-• MEM–ANGLIA–MAGNA–CARTA — later constraint of monarchy
+• MEM–ANGLIA–LAW–MAGNA–CARTA — later constraint of monarchy
 • MEM–ANGLIA–WAR–HASTINGS — battle as trigger, not system
 
 Cross-Civilizational:

@@ -178,10 +178,10 @@ XII. CROSS-REFERENCED MEM FILES
 • MEM–ANGLIA–WAR–MEXICAN–AMERICAN  
   (Territorial expansion absorbed procedurally)
 
-• MEM–ANGLIA–WAR–TRAFALGAR  
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR  
   (Maritime dominance as system foundation)
 
-• MEM–ANGLIA–GEO–PACIFIC  
+• MEM–ANGLIA–GEO–PACIFIC–OCEAN  
   (Oceanic access and strategic depth)
 
 • MEM–ANGLIA–UNITED–STATES–AMERICA  

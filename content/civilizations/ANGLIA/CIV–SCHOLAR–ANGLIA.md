@@ -103,7 +103,7 @@ Belief Status:
 
 ENTRY 0004
 Source:
-• MEM–ANGLIA–MAGNA–CARTA — v1.0
+• MEM–ANGLIA–LAW–MAGNA–CARTA — v1.0
 Ingest Type:
 • Legal Constraint Memory
 Primary Belief Extracted:
@@ -125,7 +125,7 @@ Belief Status:
 
 ENTRY 0006
 Source:
-• MEM–ANGLIA–WAR–YORKTOWN — v1.2
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.2
 Ingest Type:
 • Defeat Absorption Memory
 Primary Belief Extracted:
@@ -147,7 +147,7 @@ Belief Status:
 
 ENTRY 0008
 Source:
-• MEM–ANGLIA–WAR–GETTYSBURG — v1.2
+• MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.2
 Ingest Type:
 • Internal War Memory
 Primary Belief Extracted:
@@ -345,7 +345,7 @@ Belief Status:
 
 ENTRY 0011
 Source:
-• MEM–ANGLIA–WAR–YORKTOWN — v1.3
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.3
 Ingest Type:
 • Procedural Exit Confirmation
 Primary Belief Extracted:

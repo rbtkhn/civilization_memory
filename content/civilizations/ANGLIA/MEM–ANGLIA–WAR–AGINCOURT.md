@@ -174,7 +174,7 @@ Contrast between heroic absence and procedural survival.
 • MEM–ANGLIA–WELLINGTON  
 Later discipline-based land warfare without dominance.
 
-• MEM–ANGLIA–NELSON  
+• MEM–ANGLIA–WAR–NELSON  
 Maritime context where decisiveness becomes permanent.
 
 • MEM–FRANCIA–WAR–HUNDRED–YEARS  
@@ -183,7 +183,7 @@ Divergent civilizational memory of aristocratic catastrophe.
 • MEM–FRANCIA–JOAN–ARC  
 Francia’s narrative counter-repair to Agincourt trauma.
 
-• MEM–ANGLIA–MAGNA–CARTA  
+• MEM–ANGLIA–LAW–MAGNA–CARTA  
 Procedural restraint underlying military discipline.
 
 • MEM–ANGLIA–BRITISH–EMPIRE  

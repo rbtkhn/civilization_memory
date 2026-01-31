@@ -149,7 +149,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–SCI–EINSTEIN (space/time reconceptualization)
 
 Cross-Civilizational:
-• MEM–ANGLIA–HUME (awakened Kant from "dogmatic slumber")
+• MEM–ANGLIA–LIT–HUME (awakened Kant from "dogmatic slumber")
 • MEM–FRANCIA–ROUSSEAU (influenced Kant's moral thought)
 
 ────────────────────────────────────────────────────────────

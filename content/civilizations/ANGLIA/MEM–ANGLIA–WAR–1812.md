@@ -181,7 +181,7 @@ ANGLIA (system continuity and peripheral absorption):
    — fiscal endurance and coalition logic underpin multi-theater resilience.
 3) MEM–ANGLIA–WELLINGTON
    — continental priority discipline during Napoleonic war years.
-4) MEM–ANGLIA–NELSON
+4) MEM–ANGLIA–WAR–NELSON
    — naval supremacy as prerequisite for strategic multitasking.
 5) MEM–ANGLIA–BRITISH–EMPIRE
    — peripheral wars absorbed without imperial collapse.

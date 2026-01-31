@@ -51,12 +51,12 @@ These MEMs refer to Churchill in a way that could be drawing on *History of the 
 | MEM–ANGLIA–HENRY–V | “Winston Churchill treats Henry V as a ruler who ‘gathered the realm’” | Optional: add title + verbatim page ref if quote is from *History of the English-Speaking Peoples*. |
 | MEM–ANGLIA–HENRY–VIII | “Winston Churchill later treats this as a decisive moment…” | Optional: add title citation if from that work. |
 | MEM–ANGLIA–PITT–YOUNGER | “Winston Churchill later identifies Pitt’s premiership…” | Optional: add title citation if from that work. |
-| MEM–ANGLIA–NELSON | “Winston Churchill describes Trafalgar as the moment…” | Optional: add title citation if from that work. |
+| MEM–ANGLIA–WAR–NELSON | “Winston Churchill describes Trafalgar as the moment…” | Optional: add title citation if from that work. |
 | MEM–ANGLIA–WAR–AGINCOURT | “Winston Churchill, reflecting on England’s medieval wars…” | Optional: add title citation if from that work. |
 | MEM–ANGLIA–WELLINGTON | “Winston Churchill emphasizes that Waterloo confirms…” | Optional: add title citation if from that work. |
-| MEM–ANGLIA–MAGNA–CARTA | Churchill listed in bibliography/source list | Optional: specify *History of the English-Speaking Peoples* if that is the source. |
+| MEM–ANGLIA–LAW–MAGNA–CARTA | Churchill listed in bibliography/source list | Optional: specify *History of the English-Speaking Peoples* if that is the source. |
 | MEM–ANGLIA–WAR–HUNDRED–YEARS | Churchill listed as source | Optional: specify title if applicable. |
-| MEM–ANGLIA–FEDERALIST–PAPERS | “Churchill repeatedly praised the American Constitution…” | Optional: specify *History of the English-Speaking Peoples* (or other Churchill work) if applicable. |
+| MEM–ANGLIA–LAW–FEDERALIST–PAPERS | “Churchill repeatedly praised the American Constitution…” | Optional: specify *History of the English-Speaking Peoples* (or other Churchill work) if applicable. |
 
 **MEM–ANGLIA–CHURCHILL** (person MEM): Cites *Thoughts and Adventures*, Roberts *Churchill: Walking with Destiny*, Charmley *Churchill: The End of Glory*. Does not currently cite *A History of the English-Speaking Peoples* in the sampled sections; optional to add as scope/source for Churchill’s historical writing.
 
@@ -82,8 +82,8 @@ Some MEMs use “*History of the English-Speaking Peoples*” or “*A History o
 **Volumes:**  
 - **Vol. 1:** *The Birth of Britain* (to 1485) — **cited** in multiple Anglia MEMs (ALFRED, WILLIAM–CONQUEROR, MAGNA–CARTA, COMMON–LAW, HENRY–V, EDWARD–I, WAR–BANNOCKBURN, LAW–PARLIAMENT, etc.).  
 - **Vol. 2:** *The New World* (1485–1688) — **cited** in MEM–ANGLIA–HENRY–VIII (v1.3), MEM–ANGLIA–ELIZABETH–I (v1.5), MEM–ANGLIA–WAR–ENGLISH–CIVIL (v1.2), MEM–ANGLIA–DYNASTY–STUART (v1.2). Covers Tudors, Reformation, Elizabeth, Armada, Civil War, Cromwell, Restoration, 1688. See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL2–NEW–WORLD** for full mapping.  
-- **Vol. 3:** *The Age of Revolution* (c. 1688–1815) — **cited** in MEM–ANGLIA–MARLBOROUGH (v1.0), MEM–ANGLIA–WAR–SPANISH–SUCCESSION (v1.5), WAR–AMERICAN–INDEPENDENCE (v1.2), AMERICAN–REVOLUTION (v1.6), WASHINGTON (v1.1), JEFFERSON (v1.1), PITT–YOUNGER (v1.5), NELSON (v1.5), WAR–TRAFALGAR (v1.4), WELLINGTON (v1.5), WAR–WATERLOO (v1.1), WAR–NAPOLEON (v1.1), BURKE (v1.1), WAR–SEVEN–YEARS (v1.5), DYNASTY–HANOVER (v1.1). See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL3–AGE–OF–REVOLUTION** for mapping and optional MEMs (TREATY–UTRECHT, REVOLUTION–FRENCH).
-- **Vol. 4:** *The Great Democracies* (c. 1815–1901) — **cited**. Phase 1: VICTORIA, BRITISH–EMPIRE, WAR–AMERICAN–CIVIL, LINCOLN, GRANT, WAR–GETTYSBURG, WAR–VICKSBURG, WAR–APPOMATTOX, EMANCIPATION–PROCLAMATION, AFRICAN–SLAVERY, UNITED–STATES–AMERICA, CANADA, SOUTH–AFRICA, AUSTRALIA, NEW–ZEALAND, WAR–CRIMEAN, DYNASTY–HANOVER, IRELAND. Phase 2 (new MEMs): MEM–ANGLIA–WAR–BOER, MEM–ANGLIA–PALMERSTON, MEM–ANGLIA–GLADSTONE, MEM–ANGLIA–DISRAELI. See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES**.
+- **Vol. 3:** *The Age of Revolution* (c. 1688–1815) — **cited** in MEM–ANGLIA–MARLBOROUGH (v1.0), MEM–ANGLIA–WAR–SPANISH–SUCCESSION (v1.5), WAR–AMERICAN–INDEPENDENCE (v1.2), AMERICAN–REVOLUTION (v1.6), WASHINGTON (v1.1), JEFFERSON (v1.1), PITT–YOUNGER (v1.5), NELSON (v1.5), WAR–NELSON–TRAFALGAR (v1.4), WELLINGTON (v1.5), WAR–NAPOLEON–WATERLOO (v1.1), WAR–NAPOLEON (v1.1), BURKE (v1.1), WAR–SEVEN–YEARS (v1.5), DYNASTY–HANOVER (v1.1). See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL3–AGE–OF–REVOLUTION** for mapping and optional MEMs (TREATY–UTRECHT, REVOLUTION–FRENCH).
+- **Vol. 4:** *The Great Democracies* (c. 1815–1901) — **cited**. Phase 1: VICTORIA, BRITISH–EMPIRE, WAR–AMERICAN–CIVIL, LINCOLN, GRANT, WAR–AMERICAN–CIVIL–GETTYSBURG, WAR–AMERICAN–CIVIL–VICKSBURG, WAR–AMERICAN–CIVIL–APPOMATTOX, LAW–EMANCIPATION–PROCLAMATION, AFRICAN–SLAVERY, UNITED–STATES–AMERICA, CANADA, SOUTH–AFRICA, AUSTRALIA, NEW–ZEALAND, WAR–CRIMEAN, DYNASTY–HANOVER, IRELAND. Phase 2 (new MEMs): MEM–ANGLIA–WAR–BOER, MEM–ANGLIA–PALMERSTON, MEM–ANGLIA–GLADSTONE, MEM–ANGLIA–DISRAELI. See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES**.
 
 ---
 

@@ -280,7 +280,7 @@ Same-civilization:
 Cross-civilization:
 • MEM–FRANCIA–LIT–VOLTAIRE — Enlightenment contrast
 • MEM–FRANCIA–NAPOLEON — admiration for decisiveness
-• MEM–ANGLIA–SHAKESPEARE — acknowledged influence
+• MEM–ANGLIA–LIT–SHAKESPEARE — acknowledged influence
 
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)

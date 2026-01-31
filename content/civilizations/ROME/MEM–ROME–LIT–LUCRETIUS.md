@@ -257,7 +257,7 @@ ROME:
 
 OTHER CIVILIZATIONS:
 • MEM–FRANCIA–LIT–VOLTAIRE — Enlightenment anti-clericalism
-• MEM–ANGLIA–HOBBES — materialist mechanism
+• MEM–ANGLIA–LIT–HOBBES — materialist mechanism
 
 ────────────────────────────────────────────────────────────
 XIII. CONTINUITY INSIGHTS (RAW)

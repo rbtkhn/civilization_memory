@@ -316,8 +316,8 @@ Same-Civilization (≥10):
 
 Cross-civilizational:
 • MEM–ANGLIA–ROYAL–NAVY — permanent superior
-• MEM–ANGLIA–WAR–TRAFALGAR — British perspective
-• MEM–ANGLIA–NELSON — British nemesis
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — British perspective
+• MEM–ANGLIA–WAR–NELSON — British nemesis
 
 ────────────────────────────────────────────────────────────
 XIII. LAYER 3: SYNTHESIS LINKAGE (OPTIONAL)

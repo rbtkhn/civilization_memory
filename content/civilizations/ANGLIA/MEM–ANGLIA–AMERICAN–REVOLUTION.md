@@ -219,7 +219,7 @@ ANGLIA (internal continuity and exit logic):
    — later model of endurance-through-credit parallels American endurance-through-institutions.
 4) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENAD
    — operational war memory: coalition timing, endurance, and Yorktown closure.
-5) MEM–ANGLIA–WAR–YORKTOWN
+5) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN
    — terminal containment event where imperial options collapse without homeland invasion.
 6) MEM–ANGLIA–COMMON–LAW
    — procedural grammar that persists through sovereignty rupture.

@@ -242,7 +242,7 @@ D. Traverse to MEM–FRANCIA–EMPIRE (colonial and Pacific dimension)
 E. Apply Mearsheimer lens: Maritime hierarchy and structural disadvantage
 F. Apply Barnes lens: Who bears liability when Pacific presence is prestige-only?
 G. ARC-T continuity: Compare four-era testimony on ocean and ambition
-H. Cross-civ: MEM–ANGLIA–GEO–PACIFIC or equivalent if exists
+H. Cross-civ: MEM–ANGLIA–GEO–PACIFIC–OCEAN or equivalent if exists
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–FRANCIA–GEO–PACIFIC–OCEAN — v2.0

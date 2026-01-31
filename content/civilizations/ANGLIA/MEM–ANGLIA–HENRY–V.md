@@ -197,7 +197,7 @@ Internal (ANGLIA):
    — Lancastrian legitimacy deficit as the precondition for war-as-solvent.
 4) MEM–ANGLIA–COMMON–LAW
    — Legal form continuity constrains “limited absolutism.”
-5) MEM–ANGLIA–MAGNA–CARTA
+5) MEM–ANGLIA–LAW–MAGNA–CARTA
    — Later memory of constraint: how kings are bounded after coercive peaks.
 
 Cross-Civilizational (≥3):

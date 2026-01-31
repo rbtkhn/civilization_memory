@@ -89,7 +89,7 @@ VI. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
 • MEM–ANGLIA–WAR–HASTINGS (contrast: conquest that replaced elite vs. battle that fixed limit)
 • MEM–ANGLIA–WAR–AGINCOURT (contrast: English victory abroad vs. English defeat at home’s edge)
 • MEM–ANGLIA–DYNASTY–PLANTAGENET (Edward II; Plantagenet overstretch)
-• MEM–ANGLIA–MAGNA–CARTA (constraint on crown; Edward II’s weakness partly domestic)
+• MEM–ANGLIA–LAW–MAGNA–CARTA (constraint on crown; Edward II’s weakness partly domestic)
 
 Cross-references denote lineage, not equivalence.
 

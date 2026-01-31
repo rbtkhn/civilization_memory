@@ -92,7 +92,7 @@ ANGLIA:
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — Managed imperial defeat; Adams as diplomat and negotiator.
 • MEM–ANGLIA–DECLARATION–INDEPENDENCE — Adams in drafting and advocacy.
 • MEM–ANGLIA–UNITED–STATES–AMERICA — Founding generation, continuity in form.
-• MEM–ANGLIA–FEDERALIST–PAPERS — Constitutional ratification; Adams as Federalist-era president.
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS — Constitutional ratification; Adams as Federalist-era president.
 
 Cross-Civilizational:
 • MEM–FRANCIA– (as applicable)—Francia’s alliance and recognition in the American Revolution; Adams’s diplomacy.

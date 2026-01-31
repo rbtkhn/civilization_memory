@@ -184,12 +184,12 @@ Common Law enables **replacement without rupture**.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Internal (ANGLIA):
-• MEM–ANGLIA–MAGNA–CARTA — negotiated constraint origin
+• MEM–ANGLIA–LAW–MAGNA–CARTA — negotiated constraint origin
 • MEM–ANGLIA–WAR–HASTINGS — legal fusion after conquest
 • MEM–ANGLIA–ALFRED–WESSEX — law as survival memory
 • MEM–ANGLIA–ATHELSTAN — law as unification technology
-• MEM–ANGLIA–WAR–YORKTOWN — defeat absorbed procedurally
-• MEM–ANGLIA–FEDERALIST–PAPERS — export of procedural logic
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat absorbed procedurally
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS — export of procedural logic
 
 Cross-Civilizational:
 • MEM–FRANCIA–DYNASTY–CAPET — codified centralization contrast

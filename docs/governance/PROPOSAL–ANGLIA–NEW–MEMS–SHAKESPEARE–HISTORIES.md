@@ -44,7 +44,7 @@ II. SUGGESTED NEW MEMs (BY INDEX SECTION)
 **Rationale (concise):**
 - **RICHARD–II:** Deposition is a recurring Anglian theme; no PERSON MEM for Richard II. Carries Gaunt’s “scepter’d isle” and “death of kings” as cognition glue.
 - **RICHARD–III:** Last Plantagenet; Bosworth and Tudor myth. Shakespeare’s encoding (villainy, winter/summer) is central to Anglian memory.
-- **KING–JOHN:** Pre-Magna Carta sovereign; MEM–ANGLIA–MAGNA–CARTA exists but not the king who was constrained. *King John* supports “possession vs right.”
+- **KING–JOHN:** Pre-Magna Carta sovereign; MEM–ANGLIA–LAW–MAGNA–CARTA exists but not the king who was constrained. *King John* supports “possession vs right.”
 - **HENRY–IV:** Bridge between Richard II and Henry V; usurper’s insecurity. Lancastrian legitimacy deficit is already in DYNASTY–LANCASTER; a PERSON MEM gives “uneasy lies the head” and Hal’s emergence a home.
 - **HENRY–VI:** Collapse of Henry V’s legacy; weak kingship and civil war. No current PERSON MEM for Henry VI; Shakespeare’s three parts supply structure.
 

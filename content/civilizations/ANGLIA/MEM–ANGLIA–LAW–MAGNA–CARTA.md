@@ -1,9 +1,10 @@
-MEM–ANGLIA–MAGNA–CARTA — v1.6
+MEM–ANGLIA–LAW–MAGNA–CARTA — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.6
-Upgrade Type: ADDITIVE (Shakespeare *King John* — possession vs right, literary evidence)
+Supersedes: v1.5
+Upgrade Type: RENAME (MAGNA–CARTA → LAW–MAGNA–CARTA)
 Civilization: ANGLIA
 Subject: Magna Carta (Constraint Without Democracy)
 Dates: 1215 AD–present (derivative influence)
@@ -14,7 +15,7 @@ Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves *Magna Carta* as **Anglia’s first explicit,
+This file preserves *Magna Carta* as **Anglia's first explicit,
 documented constraint on sovereign will**: the moment when legitimacy
 begins to migrate from personal authority toward procedure, precedent,
 and negotiated obligation.
@@ -26,7 +27,7 @@ It is not popular sovereignty.
 It is **restraint imposed on power by structure**.
 
 This file treats Magna Carta not as a mythic origin of freedom, but as
-the first durable *procedural brake* in Anglia’s civilizational system.
+the first durable *procedural brake* in Anglia's civilizational system.
 
 Contradictions are preserved without synthesis.
 
@@ -67,7 +68,7 @@ But the form matters more than the scope.
 
 Once written, constraint can be cited.
 
-Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), Ch. 15, frames Magna Carta as the moment when “government must…mean something more than the arbitrary rule of any man, and custom and the law must stand even above the King” (253). The Charter contained “a system of checks and balances which would accord the monarchy its necessary strength but would prevent its perversion by a tyrant or a fool” (253). From this doctrine, Churchill writes, appeal has been made again and again when the State has attempted to ride roughshod over the rights or liberties of the subject—“and never, as yet, without success” (257) (ARC-T-MODERN) [ERC-SECONDARY].
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), Ch. 15, frames Magna Carta as the moment when "government must…mean something more than the arbitrary rule of any man, and custom and the law must stand even above the King" (253). The Charter contained "a system of checks and balances which would accord the monarchy its necessary strength but would prevent its perversion by a tyrant or a fool" (253). From this doctrine, Churchill writes, appeal has been made again and again when the State has attempted to ride roughshod over the rights or liberties of the subject—"and never, as yet, without success" (257) (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
 > Government must…mean something more than the arbitrary rule of any
@@ -80,7 +81,7 @@ SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
 > made, and never, as yet, without success.
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), 257 (ARC-T-MODERN) [ERC-SECONDARY]
 
-Shakespeare’s *King John* encodes the tension between strong possession
+Shakespeare's *King John* encodes the tension between strong possession
 and right that underlies baronial coercion: constraint is forced when
 claim outstrips consent.
 
@@ -98,11 +99,11 @@ Source:
 • *Magna Carta*, Clause 39 (1215 Latin Charter)
 
 Embedded Verbatim Translation (≥25 words):
-> “No free man shall be seized or imprisoned, or stripped of his rights
+> "No free man shall be seized or imprisoned, or stripped of his rights
 > or possessions, or outlawed or exiled, or deprived of his standing in
 > any other way, nor will we proceed with force against him, or send
 > others to do so, except by the lawful judgment of his equals or by the
-> law of the land.”
+> law of the land."
 
 Analytical Function:
 This clause does not proclaim equality. It establishes *process* as a
@@ -118,10 +119,10 @@ Source:
 • *Magna Carta*, Clause 12 (1215)
 
 Embedded Verbatim Translation (≥25 words):
-> “No scutage or aid shall be imposed in our kingdom, unless by common
+> "No scutage or aid shall be imposed in our kingdom, unless by common
 > counsel of our kingdom, except for ransoming our person, for making
 > our eldest son a knight, and for once marrying our eldest daughter;
-> and for these there shall be paid only a reasonable aid.”
+> and for these there shall be paid only a reasonable aid."
 
 Analytical Function:
 This anchors the principle that extraction requires consultation. The
@@ -137,11 +138,11 @@ Source:
 • *Magna Carta*, 1225 Reissue under Henry III
 
 Embedded Verbatim Translation (≥25 words):
-> “We have granted to God, and by this our present Charter have
+> "We have granted to God, and by this our present Charter have
 > confirmed, for us and our heirs for ever, that the English Church
 > shall be free, and shall have her rights entire, and her liberties
 > inviolate; and we will that it be thus observed; which is proved by
-> our charter of liberties.”
+> our charter of liberties."
 
 Analytical Function:
 The power of Magna Carta lies not in enforcement, but in *repetition*.
@@ -180,7 +181,7 @@ Over centuries it is:
 
 Constraint accumulates through *reference*, not intention.
 
-This is Anglia’s distinctive pattern:
+This is Anglia's distinctive pattern:
 legitimacy grows backward.
 
 ────────────────────────────────────────────────────────────
@@ -203,18 +204,18 @@ Anglia tolerates myth because it reinforces constraint.
 ────────────────────────────────────────────────────────────
 VIII. DISTINGUISHED SCHOLAR ENGAGEMENT (ANGLIA RULE)
 ────────────────────────────────────────────────────────────
-• **William Blackstone**  
+• **William Blackstone**
 Treats Magna Carta as foundational precedent rather than democratic
 manifesto.
 
-• **Winston Churchill**  
-*The Birth of Britain* (1956), Ch. 15: “government must…mean something more than the arbitrary rule of any man, and custom and the law must stand even above the King” (253); appeal to this doctrine “never, as yet, without success” (257).
+• **Winston Churchill**
+*The Birth of Britain* (1956), Ch. 15: "government must…mean something more than the arbitrary rule of any man, and custom and the law must stand even above the King" (253); appeal to this doctrine "never, as yet, without success" (257).
 
-• **Carroll Quigley**  
+• **Carroll Quigley**
 Frames Magna Carta as an early institutional mechanism limiting power,
 not a moral declaration.
 
-• **John Keegan**  
+• **John Keegan**
 Emphasizes the military-fiscal pressures that forced constraint,
 grounding the document in power realities.
 
@@ -230,7 +231,7 @@ Enduring effects:
 • Precedent prioritized over decree
 • Written constraint becomes thinkable
 
-Magna Carta initiates Anglia’s long exit from absolutism—
+Magna Carta initiates Anglia's long exit from absolutism—
 without overthrow.
 
 ────────────────────────────────────────────────────────────
@@ -259,7 +260,7 @@ Lessons:
 • Myth can stabilize institutions
 • Constraint scales better than virtue
 
-It is Anglia’s first systemic brake.
+It is Anglia's first systemic brake.
 
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)
@@ -268,7 +269,7 @@ XII. CONTINUITY INSIGHTS (RAW)
 • Law survives through citation.
 • Reissue matters more than enforcement.
 • Myth can preserve structure.
-• Magna Carta is Anglia’s first successful failure.
+• Magna Carta is Anglia's first successful failure.
 
 ────────────────────────────────────────────────────────────
 XIII. CANONICAL STATUS
@@ -281,5 +282,5 @@ This file is CANONICAL and compliant with:
 • Pedagogical durability requirements
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–MAGNA–CARTA — v1.5
+END OF FILE — MEM–ANGLIA–LAW–MAGNA–CARTA — v1.6
 ────────────────────────────────────────────────────────────

@@ -101,7 +101,7 @@ Internal (ANGLIA):
    — Son’s “redemption” through war and discipline; Agincourt as legitimacy repair.
 3) MEM–ANGLIA–DYNASTY–LANCASTER
    — Lancastrian legitimacy-fracture dynasty; Henry IV as founder.
-4) MEM–ANGLIA–MAGNA–CARTA
+4) MEM–ANGLIA–LAW–MAGNA–CARTA
    — Constraint precedent; deposition and parliamentary justification extend the logic of bounded kingship.
 5) MEM–ANGLIA–ENGLAND
    — Usurper insecurity as civilizational theme; legitimacy must be displayed.

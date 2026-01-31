@@ -1,8 +1,10 @@
-MEM–ANGLIA–WAR–YORKTOWN — v1.3
+MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
+Supersedes: v1.2
+Upgrade Type: RENAME (WAR–YORKTOWN → WAR–AMERICAN–INDEPENDENCE–YORKTOWN)
 Civilization: ANGLIA
 Subject: Siege of Yorktown (Procedural Defeat & Managed Imperial Exit)
 Dates: 1781 AD
@@ -12,7 +14,7 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Yorktown as **Anglia’s procedural defeat**: the moment
+This file preserves Yorktown as **Anglia's procedural defeat**: the moment
 when Anglia loses a decisive military engagement and an imperial war
 without losing its civilizational grammar, institutional continuity, or
 long-term strategic viability.
@@ -57,7 +59,7 @@ Dynamics:
 
 The loss is **nodal**, not global.
 
-Anglia’s worldwide maritime system remains intact, but failure at a
+Anglia's worldwide maritime system remains intact, but failure at a
 single critical junction proves sufficient to force strategic decision.
 
 ────────────────────────────────────────────────────────────
@@ -70,7 +72,7 @@ Source:
 • Lord Cornwallis, Letter to Sir Henry Clinton, September 1781
 
 Verbatim Quote:
-“I cannot hope that the place will hold out many days longer.”
+"I cannot hope that the place will hold out many days longer."
 
 Context Function:
 This admission reflects recognition of operational enclosure rather
@@ -87,7 +89,7 @@ Source:
 • Lord North, statement in the House of Commons, 1782
 
 Verbatim Quote:
-“Oh God! It is all over.”
+"Oh God! It is all over."
 
 Context Function:
 This reaction captures the political acknowledgment of imperial loss
@@ -129,7 +131,7 @@ Yorktown becomes an **exit event**, not a terminal collapse.
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL CONSEQUENCES
 ────────────────────────────────────────────────────────────
-Yorktown clarifies Anglia’s structural strengths and limits.
+Yorktown clarifies Anglia's structural strengths and limits.
 
 Lessons:
 • Coalitions can defeat Anglia locally
@@ -150,7 +152,7 @@ Yorktown sets the conditions for later internal American conflict by
 creating a sovereign state that inherits Anglian procedure but must
 resolve deferred contradictions internally.
 
-• MEM–ANGLIA–WAR–TRAFALGAR  
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR  
 Where Yorktown reveals the cost of interrupted naval control,
 Trafalgar later demonstrates the irreversible security achieved once
 maritime dominance is absolute.
@@ -175,7 +177,7 @@ Lessons:
 • Strategic exit can preserve long-term power
 • Procedure allows retreat without collapse
 
-Yorktown is Anglia’s proof that empire is optional, but order is not.
+Yorktown is Anglia's proof that empire is optional, but order is not.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -184,11 +186,11 @@ X. CONTINUITY INSIGHTS (RAW)
 • Coalition timing outweighs force mass.
 • Exit can be a form of strategic discipline.
 • Trade can replace sovereignty.
-• Yorktown confirms Anglia’s resilience in loss.
+• Yorktown confirms Anglia's resilience in loss.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–YORKTOWN v1.3
+END OF FILE — MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.3
 Word Count: ~820
 ────────────────────────────────────────────────────────────

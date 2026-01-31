@@ -1,10 +1,10 @@
-MEM–ANGLIA–NELSON — v1.5
+MEM–ANGLIA–WAR–NELSON — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.5
-Supersedes: v1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · Churchill Vol. 3 (*The Age of Revolution*)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · SOURCE HARDENING · Churchill Vol. 3 (*The Age of Revolution*) · RENAME (NELSON → WAR–NELSON)
 Civilization: ANGLIA
 Subject: Horatio Nelson
 Dates: 1758–1805 AD
@@ -15,7 +15,7 @@ Word Count: ~3,050
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Horatio Nelson as **Anglia’s maritime shock
+This file preserves Horatio Nelson as **Anglia's maritime shock
 commander**: the admiral who converted naval superiority into
 *irreversible strategic dominance* through delegated initiative,
 trust-based command, and decisive engagement.
@@ -31,13 +31,13 @@ Contradictions are preserved without synthesis.
 II. COMMAND STYLE & NAVAL INNOVATION
 (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
-Nelson’s leadership departs from formalism without abandoning discipline.
+Nelson's leadership departs from formalism without abandoning discipline.
 
 He explains his philosophy clearly:
 
-> “Something must be left to chance; nothing is sure in a sea fight
+> "Something must be left to chance; nothing is sure in a sea fight
 > above all… no captain can do very wrong if he places his ship
-> alongside that of an enemy.”
+> alongside that of an enemy."
 > — Horatio Nelson, Letter to Captain Edward Berry, 1797
 
 Characteristics:
@@ -57,9 +57,9 @@ Nelson treats naval battle as terminal, not positional.
 
 His correspondence rejects indecision:
 
-> “I consider the great object of all naval actions to be the total
-> destruction of the enemy’s force… a victory half obtained is no
-> victory at all.”
+> "I consider the great object of all naval actions to be the total
+> destruction of the enemy's force… a victory half obtained is no
+> victory at all."
 > — Nelson, Letter to Lord St. Vincent, 1798
 
 Effects:
@@ -67,7 +67,7 @@ Effects:
 • Sea control rendered uncontested
 • Strategic mobility monopolized
 
-Andrew Roberts emphasizes that Nelson’s genius lies in **forcing closure
+Andrew Roberts emphasizes that Nelson's genius lies in **forcing closure
 where maritime war traditionally allowed evasion**.
 
 ────────────────────────────────────────────────────────────
@@ -76,20 +76,20 @@ IV. TRAFALGAR AS SYSTEM LOCK
 ────────────────────────────────────────────────────────────
 Trafalgar functions as systemic closure, not tactical success.
 
-Nelson’s final signal encapsulates command intent:
+Nelson's final signal encapsulates command intent:
 
-> “England expects that every man will do his duty.”
-> — Nelson’s Signal, HMS Victory, 21 October 1805
+> "England expects that every man will do his duty."
+> — Nelson's Signal, HMS Victory, 21 October 1805
 
 Outcomes:
 • End of French naval challenge
 • Invasion threat permanently removed
 • Coalition logistics guaranteed indefinitely
 
-Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), describes Trafalgar as the moment when Britain’s maritime supremacy becomes *structurally irreversible*—the battle that closes the Napoleonic naval threat and secures Anglia’s position for the remainder of the age (ARC-T-MODERN) [ERC-SECONDARY].
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), describes Trafalgar as the moment when Britain's maritime supremacy becomes *structurally irreversible*—the battle that closes the Napoleonic naval threat and secures Anglia's position for the remainder of the age (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain’s maritime dominance until Waterloo.
+> Churchill's *The Age of Revolution* traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain's maritime dominance until Waterloo.
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
@@ -100,9 +100,9 @@ Nelson accepts maximal exposure as command principle.
 
 He acknowledges the cost explicitly:
 
-> “I am well aware that the loss of my life would be no great matter
+> "I am well aware that the loss of my life would be no great matter
 > compared with the object to be obtained; but while I live, I will do
-> my duty to the best of my ability.”
+> my duty to the best of my ability."
 > — Nelson, Private Letter, 1805
 
 Dynamics:
@@ -110,21 +110,21 @@ Dynamics:
 • Iconic leadership
 • Cultural hero formation
 
-William Manchester notes that Nelson’s death converts tactical victory
+William Manchester notes that Nelson's death converts tactical victory
 into **civilizational myth**, accelerating legitimacy lock-in.
 
 ────────────────────────────────────────────────────────────
 VI. MARITIME SHOCK VS ENDURANCE STRATEGY
 (SECONDARY)
 ────────────────────────────────────────────────────────────
-Nelson complements, rather than contradicts, Anglia’s endurance system.
+Nelson complements, rather than contradicts, Anglia's endurance system.
 
 Contrast:
 • Pitt the Younger → financial time-extension
 • Wellington → denial and coalition endurance
 • Nelson → irreversible option collapse
 
-Carroll Quigley situates Nelson as the *punctuation mark* in Britain’s
+Carroll Quigley situates Nelson as the *punctuation mark* in Britain's
 long maritime cycle: decisive violence at the moment of maximum leverage.
 
 ────────────────────────────────────────────────────────────
@@ -144,7 +144,8 @@ VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
 • MEM–ANGLIA–ROYAL–NAVY
-• MEM–ANGLIA–TRAFALGAR
+• MEM–ANGLIA–WAR–NELSON–NILE
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR
 • MEM–ANGLIA–PITT–YOUNGER
 • MEM–ANGLIA–WELLINGTON
 
@@ -164,5 +165,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Shock can complement endurance within a system.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–NELSON v1.5
+END OF FILE — MEM–ANGLIA–WAR–NELSON — v1.6
 ────────────────────────────────────────────────────────────

@@ -169,8 +169,8 @@ ANGLIA:
 • MEM–ANGLIA–WAR–AGINCOURT — tactical peak without strategic resolution
 • MEM–ANGLIA–WAR–HASTINGS — defeat with elite replacement
 • MEM–ANGLIA–COMMON–LAW — procedural absorption of conflict
-• MEM–ANGLIA–MAGNA–CARTA — constraint under pressure
-• MEM–ANGLIA–WAR–YORKTOWN — later exit without collapse
+• MEM–ANGLIA–LAW–MAGNA–CARTA — constraint under pressure
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — later exit without collapse
 
 Cross-Civilizational:
 • MEM–FRANCIA–DYNASTY–CAPET — absorption through patience

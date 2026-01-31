@@ -138,8 +138,8 @@ Internal (ANGLIA):
 • MEM–ANGLIA–ALFRED–WESSEX — survival under existential threat
 • MEM–ANGLIA–ATHELSTAN — unification after survival
 • MEM–ANGLIA–WAR–AGINCOURT — later continental mastery without absorption
-• MEM–ANGLIA–WAR–YORKTOWN — defeat without civilizational rupture
-• MEM–ANGLIA–MAGNA–CARTA — procedural constraint as shock absorber
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat without civilizational rupture
+• MEM–ANGLIA–LAW–MAGNA–CARTA — procedural constraint as shock absorber
 
 Cross-Civilizational:
 • MEM–FRANCIA–CAPETIANS — dynastic consolidation via law

@@ -141,16 +141,16 @@ This aligns with Anglia’s institutional temperament.
 ────────────────────────────────────────────────────────────
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–HUME  
+• MEM–ANGLIA–LIT–HUME  
 Hume’s skepticism prepares Anglia to accept Darwinian uncertainty.
 
-• MEM–ANGLIA–SMITH  
+• MEM–ANGLIA–LIT–SMITH  
 Adaptive systems echo Smith’s emergent-order economics.
 
 • MEM–GERMANIA–KANT  
 Darwin challenges Kantian moral teleology without replacing ethical law.
 
-• MEM–ANGLIA–SOUTH–AFRICA  
+• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA  
 Misread Darwinism later informs colonial hierarchy justifications.
 
 ────────────────────────────────────────────────────────────

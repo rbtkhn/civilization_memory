@@ -1,10 +1,10 @@
-MEM–ANGLIA–INDIA — v1.1
+MEM–ANGLIA–INDIA — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Ferguson *Empire* integration (Phase 3)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Ferguson *Empire* integration (Phase 3) · MEM connections (BRITISH–EMPIRE–INDIA)
 Civilization: ANGLIA
 Subject: India (Imperial Backbone, Administrative Laboratory, and Exit Test)
 Dates: 1600 AD–1947 AD
@@ -40,7 +40,7 @@ Sovereignty is initially avoided.
 Control emerges through contracts, not crowns.
 
 ────────────────────────────────────────────────────────────
-III. COMPANY RULE AS PROTOTYPE GOVERNANAD
+III. COMPANY RULE AS PROTOTYPE GOVERNANCE
 ────────────────────────────────────────────────────────────
 The East India Company functions as a hybrid state.
 
@@ -133,7 +133,17 @@ Lessons:
 India is Anglia’s imperial stress ceiling.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–BRITISH–EMPIRE — Parent imperial system
+• MEM–ANGLIA–BRITISH–EMPIRE–INDIA — Imperial relationship; India as node
+• MEM–ANGLIA–BRITISH–EMPIRE–INDIA–CLIVE — Clive; breakthrough; Company ascendancy
+• MEM–ANGLIA–CLIVE — Plassey; Company state-making
+• MEM–ANGLIA–WAR–SEVEN–YEARS — India theater; Company expansion
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Contracts can found empires.
 • Administration scales farther than culture.
@@ -144,5 +154,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–INDIA — v1.1
+END OF FILE — MEM–ANGLIA–INDIA — v1.2
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 # PROPOSAL — Niall Ferguson *Empire: How Britain Made the Modern World* — MEM Integration
 
-**Status:** PARTIALLY IMPLEMENTED (January 2026) — Phase 1+2+3+4+5 complete (BRITISH–EMPIRE, VICTORIA, CANADA, AUSTRALIA, NEW–ZEALAND, SOUTH–AFRICA, INDIA, WAR–SEVEN–YEARS, WAR–BOER, WAR–NAPOLEON, PITT–YOUNGER, GEO–SUEZ–CANAL, RHODES, WILBERFORCE)  
+**Status:** PARTIALLY IMPLEMENTED (January 2026) — Phase 1+2+3+4+5 complete (BRITISH–EMPIRE, VICTORIA, CANADA, AUSTRALIA, NEW–ZEALAND, SOUTH–AFRICA, INDIA, WAR–SEVEN–YEARS, WAR–BOER, WAR–NAPOLEON, PITT–YOUNGER, GEO–SUEZ–CANAL, BRITISH–EMPIRE–RHODES, WILBERFORCE)  
 **Scope:** Niall Ferguson, *Empire: How Britain Made the Modern World* (2003/2004)  
 **Governance:** CIV–MEM–CORE · CIV–MEM–TEMPLATE · SOURCE–ENFORCEMENT · CIV–ARC–ANGLIA (to be created/updated)  
 **Last Updated:** January 2026
@@ -52,7 +52,7 @@ III. MAPPING: FERGUSON THEMES → EXISTING ANGLIA MEMs
 |----------------|------------|------------------------|
 | Maritime-financial foundation, naval supremacy, City of London | **MEM–ANGLIA–BRITISH–EMPIRE** | Add Ferguson SOURCE on light rule, cost-efficiency, maritime-financial structure. *Already cited once; expand.* |
 | Victorian zenith, monarchy as symbol, empire at peak | **MEM–ANGLIA–VICTORIA** | Add Ferguson SOURCE on Victoria, symbolic monarchy, empire inseparable from crown. *Already cited once; expand.* |
-| Emigration, settler colonies, "white plague" | **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND**, **MEM–ANGLIA–SOUTH–AFRICA** | Add Ferguson SOURCE on emigration, settlement, dominion formation. |
+| Emigration, settler colonies, "white plague" | **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND**, **MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA** | Add Ferguson SOURCE on emigration, settlement, dominion formation. |
 | India, Company rule, Raj, extraction | **MEM–ANGLIA–INDIA** | Add Ferguson SOURCE on India as "jewel in the crown," Company to Raj transition, extraction vs. governance. |
 | Missionaries, reformers, abolition | **MEM–ANGLIA–AFRICAN–SLAVERY** (if abolition covered), **MEM–ANGLIA–BRITISH–EMPIRE** | Add Ferguson SOURCE on moral rhetoric, missions, civilizing ideology. |
 | Bureaucrats, proconsuls, indirect rule | **MEM–ANGLIA–BRITISH–EMPIRE** | Add Ferguson SOURCE on indirect rule, light governance, administrative efficiency. |
@@ -87,10 +87,10 @@ IV. SUGGESTED NEW MEMs (FROM FERGUSON *EMPIRE*)
 |--------------|-----------|---------------|--------|
 | **MEM–ANGLIA–INDIA** | If not yet created; Ferguson's treatment of India as "jewel in the crown," Company to Raj. | Ferguson's chapter on India, extraction, governance, symbolic importance. | ✓ Created (v1.0 → v1.1) |
 | **MEM–ANGLIA–GEO–SUEZ–CANAL** | Strategic chokepoint, imperial lifeline, Disraeli 1875 purchase. | Ferguson on Suez Canal as imperial artery, strategic control. | ✓ Created (v1.0) |
-| **MEM–ANGLIA–RHODES** | Diamond king, Cape Colony PM, BSAC, Jameson Raid, imperial expansion. | Ferguson on Rhodes, diamond wealth, imperial ambition. | ✓ Created (v1.0) |
+| **MEM–ANGLIA–BRITISH–EMPIRE–RHODES** | Diamond king, Cape Colony PM, BSAC, Jameson Raid, imperial expansion. | Ferguson on Rhodes, diamond wealth, imperial ambition. | ✓ Created (v1.0) |
 | **MEM–ANGLIA–WILBERFORCE** | Abolition, moral imperialism, reform movement. | Ferguson on Wilberforce, abolition, moral rhetoric. | ✓ Created (v1.0) |
 
-**Recommendation:** Continue **adding Ferguson *Empire* SOURCE blocks to existing MEMs** (BRITISH–EMPIRE, VICTORIA, CANADA, AUSTRALIA, NEW–ZEALAND, SOUTH–AFRICA, INDIA, WAR–BOER, PITT–YOUNGER, WAR–NAPOLEON, WAR–SEVEN–YEARS, and others as applicable). New MEMs GEO–SUEZ–CANAL, RHODES, WILBERFORCE created per Ferguson coverage.
+**Recommendation:** Continue **adding Ferguson *Empire* SOURCE blocks to existing MEMs** (BRITISH–EMPIRE, VICTORIA, CANADA, AUSTRALIA, NEW–ZEALAND, SOUTH–AFRICA, INDIA, WAR–BOER, PITT–YOUNGER, WAR–NAPOLEON, WAR–SEVEN–YEARS, and others as applicable). New MEMs GEO–SUEZ–CANAL, BRITISH–EMPIRE–RHODES, WILBERFORCE created per Ferguson coverage.
 
 ────────────────────────────────────────────────────────────
 V. IMPLEMENTATION ORDER (RECOMMENDED)
@@ -101,7 +101,7 @@ V. IMPLEMENTATION ORDER (RECOMMENDED)
 2. **MEM–ANGLIA–VICTORIA** — Expand existing Ferguson citation; add sources on Victoria, symbolic monarchy, empire and crown.
 
 **Phase 2 — Dominion/emigration MEMs:**
-3. **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND**, **MEM–ANGLIA–SOUTH–AFRICA** — Add Ferguson SOURCE on emigration, settlement, "white plague," dominion formation.
+3. **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND**, **MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA** — Add Ferguson SOURCE on emigration, settlement, "white plague," dominion formation.
 
 **Phase 3 — India and jewel-in-crown narrative:**
 4. **MEM–ANGLIA–INDIA** — Add Ferguson SOURCE on India as jewel, Company to Raj, extraction vs. governance.
@@ -114,7 +114,7 @@ V. IMPLEMENTATION ORDER (RECOMMENDED)
 
 **Phase 5 — New MEMs from Ferguson *Empire*:**
 9. **MEM–ANGLIA–GEO–SUEZ–CANAL** — Create new GEO MEM (Ferguson on Suez Canal, imperial lifeline, Disraeli 1875). ✓ Complete (v1.0)
-10. **MEM–ANGLIA–RHODES** — Create new PERSON MEM (Ferguson on Rhodes, diamond king, Cape PM, BSAC, Jameson Raid). ✓ Complete (v1.0)
+10. **MEM–ANGLIA–BRITISH–EMPIRE–RHODES** — Create new PERSON MEM (Ferguson on Rhodes, diamond king, Cape PM, BSAC, Jameson Raid). ✓ Complete (v1.0)
 11. **MEM–ANGLIA–WILBERFORCE** — Create new PERSON MEM (Ferguson on Wilberforce, abolition, moral imperialism). ✓ Complete (v1.0)
 
 **Phase 6 — Additional thematic MEMs (as applicable):**

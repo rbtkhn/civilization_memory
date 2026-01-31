@@ -41,10 +41,10 @@ III. MAPPING: VOL. 4 THEMES → EXISTING ANGLIA MEMs
 | Victory Peace, Reform, Free Trade | **MEM–ANGLIA–DYNASTY–HANOVER**, **MEM–ANGLIA–LAW–PARLIAMENT** | Add Churchill Vol. 4 SOURCE on post-1815 reform, free trade, parliamentary development. |
 | Crimean War | **MEM–ANGLIA–WAR–CRIMEAN** | Add Churchill Vol. 4 SOURCE on Crimean War (Recovery and Reform section). |
 | Palmerston | No PERSON MEM yet; optional **MEM–ANGLIA–PALMERSTON** | Add Churchill Vol. 4 SOURCE if person MEM created; or cite in DYNASTY–HANOVER / BRITISH–EMPIRE. |
-| Migration: Canada, South Africa, Australia, New Zealand | **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–SOUTH–AFRICA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND** | Add Churchill Vol. 4 SOURCE on “Migration of the Peoples” and settlement of the English-speaking dominions. |
+| Migration: Canada, South Africa, Australia, New Zealand | **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND** | Add Churchill Vol. 4 SOURCE on “Migration of the Peoples” and settlement of the English-speaking dominions. |
 | American Epic, Slavery, Secession, Civil War | **MEM–ANGLIA–WAR–AMERICAN–CIVIL**, **MEM–ANGLIA–AFRICAN–SLAVERY**, **MEM–ANGLIA–LINCOLN**, **MEM–ANGLIA–GRANT** | Add Churchill Vol. 4 SOURCE on “The Great Republic” section: slavery, secession, Union victory. |
-| Gettysburg, Vicksburg, Appomattox | **MEM–ANGLIA–WAR–GETTYSBURG**, **MEM–ANGLIA–WAR–VICKSBURG**, **MEM–ANGLIA–WAR–APPOMATTOX** | Add Churchill Vol. 4 SOURCE on Chancellorsville and Gettysburg, Victory of the Union. |
-| Emancipation | **MEM–ANGLIA–EMANCIPATION–PROCLAMATION** | Add Churchill Vol. 4 SOURCE if covered in Great Republic section. |
+| Gettysburg, Vicksburg, Appomattox | **MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG**, **MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG**, **MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX** | Add Churchill Vol. 4 SOURCE on Chancellorsville and Gettysburg, Victory of the Union. |
+| Emancipation | **MEM–ANGLIA–LAW–LAW–EMANCIPATION–PROCLAMATION** | Add Churchill Vol. 4 SOURCE if covered in Great Republic section. |
 | United States as world power | **MEM–ANGLIA–UNITED–STATES–AMERICA** | Add Churchill Vol. 4 SOURCE on American Reconstruction, America as World-Power. |
 | Gladstone, Disraeli | No PERSON MEMs yet; optional **MEM–ANGLIA–GLADSTONE**, **MEM–ANGLIA–DISRAELI** | Add Churchill Vol. 4 SOURCE if person MEMs created; or cite in VICTORIA / DYNASTY–HANOVER. |
 | Victorian Age, Empire at peak | **MEM–ANGLIA–VICTORIA**, **MEM–ANGLIA–BRITISH–EMPIRE** | Add Churchill Vol. 4 SOURCE on Victorian zenith, empire, habits of law and administration. |
@@ -70,7 +70,7 @@ IV. SUGGESTED NEW MEMs (FROM VOL. 4)
 | **MEM–ANGLIA–GLADSTONE** | Vol. 4 devotes “Gladstone and Disraeli” in The Victorian Age; reform, Ireland, liberalism. | Churchill’s treatment of Gladstone and Disraeli. |
 | **MEM–ANGLIA–DISRAELI** | Vol. 4: Gladstone and Disraeli; empire, conservatism, Eastern question. | Churchill’s treatment of Disraeli alongside Gladstone. |
 
-**Recommendation:** Prioritize **adding Churchill Vol. 4 SOURCE blocks to existing MEMs** (VICTORIA, BRITISH–EMPIRE, WAR–AMERICAN–CIVIL, LINCOLN, GRANT, WAR–GETTYSBURG, WAR–VICKSBURG, WAR–APPOMATTOX, CANADA, AUSTRALIA, NEW–ZEALAND, SOUTH–AFRICA, WAR–CRIMEAN, DYNASTY–HANOVER, IRELAND, UNITED–STATES–AMERICA, EMANCIPATION–PROCLAMATION, AFRICAN–SLAVERY). Treat **WAR–BOER**, **PALMERSTON**, **GLADSTONE**, **DISRAELI** as optional new MEMs once Vol. 4 text is consulted.
+**Recommendation:** Prioritize **adding Churchill Vol. 4 SOURCE blocks to existing MEMs** (VICTORIA, BRITISH–EMPIRE, WAR–AMERICAN–CIVIL, LINCOLN, GRANT, WAR–AMERICAN–CIVIL–GETTYSBURG, WAR–AMERICAN–CIVIL–VICKSBURG, WAR–AMERICAN–CIVIL–APPOMATTOX, CANADA, AUSTRALIA, NEW–ZEALAND, SOUTH–AFRICA, WAR–CRIMEAN, DYNASTY–HANOVER, IRELAND, UNITED–STATES–AMERICA, LAW–EMANCIPATION–PROCLAMATION, AFRICAN–SLAVERY). Treat **WAR–BOER**, **PALMERSTON**, **GLADSTONE**, **DISRAELI** as optional new MEMs once Vol. 4 text is consulted.
 
 ────────────────────────────────────────────────────────────
 V. IMPLEMENTATION ORDER (RECOMMENDED)
@@ -79,9 +79,9 @@ V. IMPLEMENTATION ORDER (RECOMMENDED)
 **Phase 1 — Existing MEMs (add Churchill Vol. 4 SOURCE blocks):**
 1. **MEM–ANGLIA–VICTORIA**, **MEM–ANGLIA–BRITISH–EMPIRE** — Victorian Age, empire at peak.
 2. **MEM–ANGLIA–WAR–AMERICAN–CIVIL**, **MEM–ANGLIA–LINCOLN**, **MEM–ANGLIA–GRANT** — The Great Republic; slavery, secession, Union victory.
-3. **MEM–ANGLIA–WAR–GETTYSBURG**, **MEM–ANGLIA–WAR–VICKSBURG**, **MEM–ANGLIA–WAR–APPOMATTOX** — Chancellorsville and Gettysburg, Victory of the Union.
-4. **MEM–ANGLIA–EMANCIPATION–PROCLAMATION**, **MEM–ANGLIA–AFRICAN–SLAVERY**, **MEM–ANGLIA–UNITED–STATES–AMERICA** — Slavery, Reconstruction, America as world power.
-5. **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–SOUTH–AFRICA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND** — Migration of the Peoples.
+3. **MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG**, **MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG**, **MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX** — Chancellorsville and Gettysburg, Victory of the Union.
+4. **MEM–ANGLIA–LAW–LAW–EMANCIPATION–PROCLAMATION**, **MEM–ANGLIA–AFRICAN–SLAVERY**, **MEM–ANGLIA–UNITED–STATES–AMERICA** — Slavery, Reconstruction, America as world power.
+5. **MEM–ANGLIA–CANADA**, **MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA**, **MEM–ANGLIA–AUSTRALIA**, **MEM–ANGLIA–NEW–ZEALAND** — Migration of the Peoples.
 6. **MEM–ANGLIA–WAR–CRIMEAN** — Crimean War.
 7. **MEM–ANGLIA–DYNASTY–HANOVER**, **MEM–ANGLIA–IRELAND** — Reform, free trade, Home Rule.
 

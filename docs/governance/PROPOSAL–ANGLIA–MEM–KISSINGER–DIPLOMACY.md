@@ -51,7 +51,7 @@ III. MAPPING: KISSINGER THEMES → EXISTING ANGLIA MEMs
 | **MEM–ANGLIA–HENRY–V** | Analytical frame | Legitimacy logic: external success stabilizes internal order | Add Kissinger SOURCE block (*World Order* or *Diplomacy* on legitimacy) |
 | **MEM–ANGLIA–WAR–1812** | Analytical frame | Wars that end without structural change = "priority containment" | Add Kissinger SOURCE block (*Diplomacy* on containment, status quo) |
 | **MEM–ANGLIA–PITT–ELDER** | Paraphrase | Victory creates obligations faster than institutions absorb | Add Kissinger SOURCE block (*Diplomacy* on Seven Years' War aftermath) |
-| **MEM–ANGLIA–FEDERALIST–PAPERS** | Analytical frame | Balance-of-power logic parallels Federalist equilibrium | Add Kissinger SOURCE block (*Diplomacy* or *World Order* on balance of power) |
+| **MEM–ANGLIA–LAW–LAW–FEDERALIST–PAPERS** | Analytical frame | Balance-of-power logic parallels Federalist equilibrium | Add Kissinger SOURCE block (*Diplomacy* or *World Order* on balance of power) |
 | **MEM–ANGLIA–ATHELSTAN** | Analytical frame | Legitimacy framework: recognition stabilizes authority | Add Kissinger SOURCE block (*World Order* on legitimacy, recognition) |
 
 **B) MEMs not yet citing Kissinger but thematically aligned**
@@ -61,7 +61,7 @@ III. MAPPING: KISSINGER THEMES → EXISTING ANGLIA MEMs
 | Congress of Vienna, post-Napoleonic order | **MEM–ANGLIA–WAR–NAPOLEON**, **MEM–ANGLIA–DYNASTY–HANOVER** | Add Kissinger SOURCE (*A World Restored* on Castlereagh, Vienna settlement) |
 | Palmerston, mid-Victorian foreign policy | **MEM–ANGLIA–PALMERSTON** | Add Kissinger SOURCE (*Diplomacy* on Palmerston, liberal intervention, balance of power) |
 | Castlereagh (no PERSON MEM yet) | **MEM–ANGLIA–CASTLEREAGH** (optional new MEM) | Create PERSON MEM with Kissinger *A World Restored* as primary SOURCE |
-| Wellington and Vienna | **MEM–ANGLIA–WELLINGTON**, **MEM–ANGLIA–WAR–WATERLOO** | Add Kissinger SOURCE on military-diplomatic complementarity |
+| Wellington and Vienna | **MEM–ANGLIA–WELLINGTON**, **MEM–ANGLIA–WAR–NAPOLEON–WATERLOO** | Add Kissinger SOURCE on military-diplomatic complementarity |
 | Seven Years' War, victory and overextension | **MEM–ANGLIA–WAR–SEVEN–YEARS**, **MEM–ANGLIA–PITT–ELDER** | Add Kissinger SOURCE on victory creating obligations |
 
 ────────────────────────────────────────────────────────────
@@ -73,7 +73,7 @@ IV. SUGGESTED NEW MEMs (FROM KISSINGER)
 | **MEM–ANGLIA–CASTLEREAGH** | Kissinger's *A World Restored* centers on Castlereagh; British Foreign Secretary 1812–1822; architect of Congress of Vienna; restraint, legitimacy, post-Napoleonic order | *A World Restored* (1957) — Castlereagh and Metternich; British role in Vienna settlement | **High** — Kissinger's key British statesman |
 | **No other new MEMs required** | Kissinger maps to existing MEMs; Castlereagh is the one major figure without a PERSON MEM | — | — |
 
-**Recommendation:** Prioritize **upgrading existing Kissinger citations to formal SOURCE blocks** (BRITISH–EMPIRE, PITT–YOUNGER, WELLINGTON, AMERICAN–REVOLUTION, ELIZABETH–I, HENRY–V, WAR–1812, PITT–ELDER, FEDERALIST–PAPERS, ATHELSTAN). Optionally create **MEM–ANGLIA–CASTLEREAGH** with *A World Restored* as primary SOURCE.
+**Recommendation:** Prioritize **upgrading existing Kissinger citations to formal SOURCE blocks** (BRITISH–EMPIRE, PITT–YOUNGER, WELLINGTON, AMERICAN–REVOLUTION, ELIZABETH–I, HENRY–V, WAR–1812, PITT–ELDER, LAW–FEDERALIST–PAPERS, ATHELSTAN). Optionally create **MEM–ANGLIA–CASTLEREAGH** with *A World Restored* as primary SOURCE.
 
 ────────────────────────────────────────────────────────────
 V. IMPLEMENTATION ORDER (RECOMMENDED)
@@ -90,7 +90,7 @@ V. IMPLEMENTATION ORDER (RECOMMENDED)
 6. **MEM–ANGLIA–HENRY–V** — Add Kissinger SOURCE (*World Order* or *Diplomacy* on legitimacy, external success stabilizing internal order).
 7. **MEM–ANGLIA–WAR–1812** — Add Kissinger SOURCE (*Diplomacy* on containment, wars ending without structural change).
 8. **MEM–ANGLIA–PITT–ELDER** — Add Kissinger SOURCE (*Diplomacy* on victory creating obligations faster than institutions absorb).
-9. **MEM–ANGLIA–FEDERALIST–PAPERS** — Add Kissinger SOURCE (*Diplomacy* or *World Order* on balance of power, equilibrium).
+9. **MEM–ANGLIA–LAW–LAW–FEDERALIST–PAPERS** — Add Kissinger SOURCE (*Diplomacy* or *World Order* on balance of power, equilibrium).
 10. **MEM–ANGLIA–ATHELSTAN** — Add Kissinger SOURCE (*World Order* on legitimacy, recognition).
 
 **Phase 3 — Add Kissinger SOURCE blocks to MEMs not yet citing him:**
@@ -98,7 +98,7 @@ V. IMPLEMENTATION ORDER (RECOMMENDED)
 12. **MEM–ANGLIA–DYNASTY–HANOVER** — Add Kissinger SOURCE (*A World Restored* on Vienna settlement, British restraint).
 13. **MEM–ANGLIA–PALMERSTON** — Add Kissinger SOURCE (*Diplomacy* on Palmerston, liberal intervention, balance of power).
 14. **MEM–ANGLIA–WAR–SEVEN–YEARS** — Add Kissinger SOURCE (*Diplomacy* on victory and overextension).
-15. **MEM–ANGLIA–WAR–WATERLOO** — Add Kissinger SOURCE (*A World Restored* on Waterloo and Vienna).
+15. **MEM–ANGLIA–WAR–NAPOLEON–WATERLOO** — Add Kissinger SOURCE (*A World Restored* on Waterloo and Vienna).
 
 **Phase 4 — New MEM (optional):**
 16. **MEM–ANGLIA–CASTLEREAGH** — Create PERSON MEM (Viscount Castlereagh, British Foreign Secretary 1812–1822); Kissinger *A World Restored* as primary SOURCE.
@@ -133,7 +133,7 @@ VII. KISSINGER IN REPOSITORY (CURRENT STATE — AUDIT JAN 2026)
 | MEM–ANGLIA–HENRY–V | Analytical frame | No title cited |
 | MEM–ANGLIA–WAR–1812 | Analytical frame | No title cited |
 | MEM–ANGLIA–PITT–ELDER | Paraphrase | No title cited |
-| MEM–ANGLIA–FEDERALIST–PAPERS | Analytical frame + bibliography | No title cited |
+| MEM–ANGLIA–LAW–LAW–FEDERALIST–PAPERS | Analytical frame + bibliography | No title cited |
 | MEM–ANGLIA–ATHELSTAN | Analytical frame + OGE option | No title cited |
 
 **FRANCIA:**

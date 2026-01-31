@@ -1,186 +1,191 @@
-MEM–ANGLIA–LOCKE — v1.3
+MEM–ANGLIA–LIT–SMITH — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: RENAME (SMITH → LIT–SMITH)
 Civilization: ANGLIA
-Subject: John Locke (Procedural Liberalism & Consent Without Rupture)
-Dates: 1632–1704 AD
+Subject: Adam Smith (Moral Sentiment, Markets, and Order Without Command)
+Dates: 1723–1790 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves John Locke as **Anglia’s theorist of legitimate
-constraint**: the thinker who translates English procedural experience
-into a political philosophy of consent, property, and limited
-government—without dissolving order into abstraction or revolution.
+This file preserves Adam Smith as **Anglia's theorist of spontaneous
+order**: the thinker who explains how markets, morality, and institutions
+coordinate human behavior without centralized design, coercive virtue,
+or utopian intent.
 
-Locke does not invent Anglia’s system.
-He **rationalizes and stabilizes it**.
+Smith does not glorify markets.
+He explains **why they civilize**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. CONTEXT & FORMATIVE CONDITIONS
 ────────────────────────────────────────────────────────────
-Locke emerges from Anglia’s post–civil war settlement.
+Smith writes during Anglia's commercial expansion.
 
 Context:
-• English Civil War aftermath
-• Restoration and Glorious Revolution
-• Parliamentary supremacy consolidated
-• Fear of absolutism and sectarian chaos
+• Post-Union Britain
+• Expanding global trade
+• Industrial precursors
+• Stable legal institutions
+• Declining feudal hierarchy
 
-Anglia has already survived rupture.
-The task is preventing recurrence.
+Economic life accelerates.
+The question becomes whether order can survive abundance.
 
-Locke writes not to overthrow authority,
-but to **bound it**.
+Smith answers affirmatively—but conditionally.
 
 ────────────────────────────────────────────────────────────
-III. CONSENT AS PROCEDURAL LEGITIMACY
+III. MORAL SENTIMENT BEFORE ECONOMICS
 ────────────────────────────────────────────────────────────
-Locke grounds legitimacy in consent—but not in constant plebiscite.
+Smith begins with psychology, not profit.
 
 Key ideas:
-• Tacit consent through participation
-• Government as trustee, not master
-• Authority conditional but continuous
+• Sympathy regulates behavior
+• Social approval disciplines self-interest
+• Moral norms precede markets
 
-Consent functions retrospectively.
+Markets do not create virtue.
+They **assume it**.
 
-Obedience persists until trust is violated.
-
-This mirrors Anglia’s practice:
-legitimacy accrues through endurance, not declaration.
+Commercial society rests on inherited moral restraint.
 
 ────────────────────────────────────────────────────────────
-IV. PROPERTY, ORDER, AND RESTRAINT
+IV. MARKETS AS COORDINATION MECHANISMS
 ────────────────────────────────────────────────────────────
-Property anchors Locke’s system.
+Smith's economics reject central control.
 
-Functions:
-• Limits arbitrary power
-• Stabilizes expectation
-• Encourages investment and patience
-• Converts freedom into continuity
+Principles:
+• Division of labor
+• Price signaling
+• Competition as discipline
+• Local knowledge superiority
 
-Property is not radical individualism.
-It is **system glue**.
+Order emerges indirectly.
 
-Ownership creates stakeholding,
-not permanent revolt license.
+No planner commands outcomes.
+Constraints guide behavior.
+
+This mirrors Anglia's governance style:
+procedure over proclamation.
 
 ────────────────────────────────────────────────────────────
 V. PRIMARY SOURCE ANCHORS (VERBATIM)
 ────────────────────────────────────────────────────────────
 
-PRIMARY SOURCE ANCHOR A — *SECOND TREATISE*
+PRIMARY SOURCE ANCHOR A — *WEALTH OF NATIONS*
 
 Source:
-• John Locke, *Second Treatise of Government*
+• Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*
 
 Verbatim Quote:
-“Government has no other end but the preservation of property.”
+"It is not from the benevolence of the butcher, the brewer, or the baker,
+that we expect our dinner, but from their regard to their own interest."
 
 Context Function:
-This frames political authority as instrumental and bounded, aligning
-power with continuity rather than moral mission.
+This frames coordination through incentive rather than moral command.
 
 Provenance Confidence: HIGH
 
 ---
 
-PRIMARY SOURCE ANCHOR B — *LETTER CONCERNING TOLERATION*
+PRIMARY SOURCE ANCHOR B — *THEORY OF MORAL SENTIMENTS*
 
 Source:
-• John Locke, *A Letter Concerning Toleration*
+• Adam Smith, *The Theory of Moral Sentiments*
 
 Verbatim Quote:
-“The care of souls is not committed to the civil magistrate.”
+"How selfish soever man may be supposed, there are evidently some
+principles in his nature, which interest him in the fortune of others."
 
 Context Function:
-This separates political authority from metaphysical enforcement,
-reducing legitimacy shocks from doctrinal conflict.
+This anchors economic behavior within moral psychology, preventing
+reduction to pure self-interest.
 
 Provenance Confidence: HIGH
 
 ────────────────────────────────────────────────────────────
-VI. REVOLUTION AS LAST RESORT
+VI. ANTI-MERCANTILISM & RESTRAINT
 ────────────────────────────────────────────────────────────
-Locke permits resistance—but constrains it.
+Smith opposes state-directed accumulation.
 
-Rules:
-• Resistance justified only after trust violation
-• Burden of proof on the rebel
-• Revolution framed as restoration, not innovation
+Critiques:
+• Mercantilist distortion
+• Rent-seeking elites
+• Monopoly privilege
 
-This is **anti-charismatic revolt**.
+Yet Smith is not anarchic.
 
-Rebellion is corrective, not creative.
+He accepts:
+• Regulation against fraud
+• Public goods provision
+• Legal enforcement of contracts
 
-Locke rationalizes 1688, not 1649.
+Markets require institutions.
+
+Freedom is structured, not absolute.
 
 ────────────────────────────────────────────────────────────
 VII. RELATION TO ANGLIAN CIVILIZATIONAL LOGIC
 ────────────────────────────────────────────────────────────
-Locke formalizes Anglia’s instinctive practices.
+Smith translates Anglia's practice into theory.
 
 Parallels:
-• Parliamentary supremacy
-• Legal continuity
-• Gradual reform
-• Preference for exit over rupture
+• Common law enforcement
+• Parliamentary restraint
+• Trade over conquest
+• Finance over extraction
 
-Philosophy follows institution.
-
-Locke’s liberalism is **procedural**, not universalist.
+Smith's invisible hand
+mirrors Anglia's invisible governance.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–WAR–ENGLISH–CIVIL  
-Locke’s theory is a reaction to civil war trauma, designed to prevent
-recurrence through bounded consent.
+• MEM–ANGLIA–LIT–HUME  
+Smith builds on Hume's psychology of convention, adding economic
+coordination to social habit.
 
-• MEM–ANGLIA–WAR–YORKTOWN  
-Lockean consent enables separation without civilizational collapse.
+• MEM–ANGLIA–LIT–LOCKE  
+Where Locke limits power, Smith explains prosperity within those limits.
+
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR  
+Maritime supremacy enables the commercial order Smith describes.
 
 • MEM–GERMANIA–KANT  
-Where Kant disciplines reason internally, Locke disciplines power
-externally through institutional limits.
-
-• MEM–ANGLIA–COMMON–LAW  
-Locke’s assumptions presuppose inherited legal continuity rather than
-codified abstraction.
+Kant moralizes duty; Smith socializes virtue through interaction.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Locke encodes **freedom without rupture**.
+Smith encodes **prosperity without command**.
 
 Lessons:
-• Consent stabilizes authority when bounded.
-• Property converts liberty into continuity.
-• Resistance must restore, not reinvent.
-• Liberalism can be conservative.
+• Markets coordinate without ideology.
+• Morality precedes economics.
+• Institutions restrain self-interest productively.
+• Wealth is systemic, not extractive.
 
-Locke is Anglia’s philosophy of survival after trauma.
+Smith is Anglia's theory of abundance with order.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Consent accumulates; it is not declared.
-• Property stabilizes legitimacy.
-• Revolution is procedural failure, not aspiration.
-• Liberalism can preserve order.
-• Locke translates Anglia’s instincts into theory.
+• Order can be emergent.
+• Markets civilize when constrained.
+• Prosperity follows trust.
+• Self-interest is disciplined by norms.
+• Smith explains why Anglia grows without directing.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LOCKE v1.3
-Word Count: ~820
+END OF FILE — MEM–ANGLIA–LIT–SMITH — v1.4
+Word Count: ~840
 ────────────────────────────────────────────────────────────

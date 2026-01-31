@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–VICKSBURG — v1.3
+MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: RENAME (WAR–VICKSBURG → WAR–AMERICAN–CIVIL–VICKSBURG)
 Civilization: ANGLIA
 Subject: Vicksburg (Logistical Severance & Inland Maritime Control)
 Dates: May 18–July 4, 1863 AD
@@ -28,9 +28,9 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT
 ────────────────────────────────────────────────────────────
-By 1862–1863, the Union’s strategic objective has clarified: restore
+By 1862–1863, the Union's strategic objective has clarified: restore
 procedural authority by reasserting control over the continental system.
-The Mississippi River functions as the Confederacy’s central artery,
+The Mississippi River functions as the Confederacy's central artery,
 linking western food, manpower, and resources to eastern armies.
 
 Vicksburg, perched on high bluffs overlooking the river, blocks this
@@ -76,12 +76,12 @@ Source:
 • Ulysses S. Grant, Letter to James H. Wilson, July 1863
 
 Verbatim Quote:
-“The fall of Vicksburg is the severest blow that has yet been given the
+"The fall of Vicksburg is the severest blow that has yet been given the
 Confederacy. It will open the Mississippi River and permit supplies to
-be sent from the West.”
+be sent from the West."
 
 Context Function:
-This statement reflects explicit recognition that the war’s outcome is
+This statement reflects explicit recognition that the war's outcome is
 determined by circulation and logistics rather than singular battles or
 symbolic victories.
 
@@ -95,8 +95,8 @@ Source:
 • Emma Balfour Diary, Vicksburg resident, June 1863
 
 Verbatim Quote:
-“We live in caves now, like the wild beasts of the earth. Shells pass
-over us continually, and we have ceased to start at the sound.”
+"We live in caves now, like the wild beasts of the earth. Shells pass
+over us continually, and we have ceased to start at the sound."
 
 Context Function:
 This account anchors logistical warfare in civilian reality, showing
@@ -157,10 +157,10 @@ VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 Vicksburg represents the moment when the broader civil war shifts from
 contested endurance to structurally constrained Confederate defeat.
 
-• MEM–ANGLIA–WAR–GETTYSBURG  
+• MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG  
 While Gettysburg stabilizes Union legitimacy symbolically, Vicksburg
 simultaneously secures Union victory materially, together forming the
-war’s decisive dual turning point.
+war's decisive dual turning point.
 
 • MEM–ANGLIA–GEO–MISSISSIPPI–RIVER  
 The campaign operationalizes the Mississippi River as a civilizational
@@ -178,11 +178,11 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Time can be weaponized without moral collapse.
 • Maritime logic applies inland at scale.
 • Logistics create irreversible outcomes.
-• Vicksburg is Anglia’s material victory.
+• Vicksburg is Anglia's material victory.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–VICKSBURG — v1.4
+END OF FILE — MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG — v1.5
 Word Count: ~820
 ────────────────────────────────────────────────────────────

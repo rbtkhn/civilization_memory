@@ -1,8 +1,10 @@
-MEM–ANGLIA–HOBBES — v1.3
+MEM–ANGLIA–LIT–HOBBES — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
+Supersedes: v1.2
+Upgrade Type: RENAME (HOBBES → LIT–HOBBES)
 Civilization: ANGLIA
 Subject: Thomas Hobbes (Order Before Liberty & Fear as Foundation)
 Dates: 1588–1679 AD
@@ -12,11 +14,11 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Thomas Hobbes as **Anglia’s theorist of existential
+This file preserves Thomas Hobbes as **Anglia's theorist of existential
 order**: the thinker who confronts civilizational collapse directly and
 argues that authority must precede liberty if society is to survive.
 
-Hobbes does not refine Anglia’s system.
+Hobbes does not refine Anglia's system.
 He **rescues it from disintegration**.
 
 Contradictions are preserved without synthesis.
@@ -48,7 +50,7 @@ Assumptions:
 • Trust collapses under stress
 
 Without authority, life becomes:
-“solitary, poor, nasty, brutish, and short.”
+"solitary, poor, nasty, brutish, and short."
 
 Order is not optional.
 It is existential.
@@ -78,10 +80,10 @@ Source:
 • Thomas Hobbes, *Leviathan*
 
 Verbatim Quote:
-“Covenants, without the sword, are but words.”
+"Covenants, without the sword, are but words."
 
 Context Function:
-This captures Hobbes’s belief that legitimacy without enforcement is
+This captures Hobbes's belief that legitimacy without enforcement is
 illusory under civil stress.
 
 Provenance Confidence: HIGH
@@ -94,11 +96,11 @@ Source:
 • Thomas Hobbes, *Leviathan*
 
 Verbatim Quote:
-“The condition of man… is a condition of war of every one against every
-one.”
+"The condition of man… is a condition of war of every one against every
+one."
 
 Context Function:
-This frames Hobbes’s urgency: authority exists to prevent civilizational
+This frames Hobbes's urgency: authority exists to prevent civilizational
 self-destruction.
 
 Provenance Confidence: HIGH
@@ -121,32 +123,32 @@ Fear is the stabilizer of last resort.
 ────────────────────────────────────────────────────────────
 VII. RELATION TO ANGLIAN CIVILIZATIONAL LOGIC
 ────────────────────────────────────────────────────────────
-Hobbes articulates Anglia’s darkest memory.
+Hobbes articulates Anglia's darkest memory.
 
 He explains:
 • Why civil war cannot be romanticized
 • Why procedure must dominate passion
 • Why fragmentation invites catastrophe
 
-Hobbes is Anglia’s **emergency doctrine**.
+Hobbes is Anglia's **emergency doctrine**.
 
 Locke refines what Hobbes saves.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–WAR–ENGLISH–CIVIL  
-Hobbes is a direct intellectual response to the war’s chaos and regicide.
+• MEM–ANGLIA–WAR–ENGLISH–CIVIL
+Hobbes is a direct intellectual response to the war's chaos and regicide.
 
-• MEM–ANGLIA–LOCKE  
-Locke emerges as Hobbes’s civilizational correction, bounding authority
+• MEM–ANGLIA–LIT–LOCKE
+Locke emerges as Hobbes's civilizational correction, bounding authority
 once order is restored.
 
-• MEM–GERMANIA–KANT  
+• MEM–GERMANIA–KANT
 Where Kant limits reason and Locke limits power, Hobbes limits chaos.
 
-• MEM–ANGLIA–WAR–HASTINGS  
-Hobbes shares Hastings’s lesson: personal authority collapse produces
+• MEM–ANGLIA–WAR–HASTINGS
+Hobbes shares Hastings's lesson: personal authority collapse produces
 total systemic failure.
 
 ────────────────────────────────────────────────────────────
@@ -160,7 +162,7 @@ Lessons:
 • Fear can be civilizationally constructive.
 • Liberty without order is illusion.
 
-Hobbes is Anglia’s memory of collapse.
+Hobbes is Anglia's memory of collapse.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -174,6 +176,6 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–HOBBES v1.3
+END OF FILE — MEM–ANGLIA–LIT–HOBBES — v1.3
 Word Count: ~830
 ────────────────────────────────────────────────────────────

@@ -51,11 +51,11 @@ III. MAPPING: VOL. 3 THEMES → EXISTING ANGLIA MEMs
 | American colonies, Independence | **MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE**, **MEM–ANGLIA–AMERICAN–REVOLUTION** | Add Churchill Vol. 3 SOURCE on American Revolution, loss of colonies, first American leaders. |
 | Washington, Adams, Jefferson | **MEM–ANGLIA–WASHINGTON**, **MEM–ANGLIA–JEFFERSON** | Add Churchill Vol. 3 SOURCE on “first great generation” of American leaders. No **MEM–ANGLIA–ADAMS** (John) yet; propose as new MEM. |
 | Declaration of Independence, United States | **MEM–ANGLIA–DECLARATION–INDEPENDENCE**, **MEM–ANGLIA–UNITED–STATES–AMERICA** | Add Churchill Vol. 3 SOURCE on founding and English-speaking continuity. |
-| Yorktown | **MEM–ANGLIA–WAR–YORKTOWN** | Add Churchill Vol. 3 SOURCE on climactic surrender if covered. |
+| Yorktown | **MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN** | Add Churchill Vol. 3 SOURCE on climactic surrender if covered. |
 | French Revolution, Burke | **MEM–ANGLIA–BURKE**, **MEM–ANGLIA–WAR–NAPOLEON** | Add Churchill Vol. 3 SOURCE on French Revolution’s shadow over Europe, Anglian response. |
 | Pitt the Younger, finance, endurance | **MEM–ANGLIA–PITT–YOUNGER** | Add Churchill Vol. 3 SOURCE (Churchill already cited on Pitt’s premiership; add Vol. 3 title + verbatim). |
-| Nelson, Trafalgar | **MEM–ANGLIA–NELSON**, **MEM–ANGLIA–WAR–TRAFALGAR** | Add Churchill Vol. 3 SOURCE on Trafalgar as decisive moment. |
-| Wellington, Waterloo | **MEM–ANGLIA–WELLINGTON**, **MEM–ANGLIA–WAR–WATERLOO** | Add Churchill Vol. 3 SOURCE on Waterloo as close of Napoleonic era. |
+| Nelson, Trafalgar | **MEM–ANGLIA–WAR–NELSON**, **MEM–ANGLIA–WAR–NELSON–TRAFALGAR** | Add Churchill Vol. 3 SOURCE on Trafalgar as decisive moment. |
+| Wellington, Waterloo | **MEM–ANGLIA–WELLINGTON**, **MEM–ANGLIA–WAR–NAPOLEON–WATERLOO** | Add Churchill Vol. 3 SOURCE on Waterloo as close of Napoleonic era. |
 | Napoleonic Wars | **MEM–ANGLIA–WAR–NAPOLEON** | Add Churchill Vol. 3 SOURCE on Napoleon’s rise and defeat. |
 | Hanover, dynasty | **MEM–ANGLIA–DYNASTY–HANOVER** | Add Churchill Vol. 3 SOURCE on Hanoverian period, 1688–1815. |
 | Glorious Revolution (bridge from Vol. 2) | **MEM–ANGLIA–GLORIOUS–REVOLUTION** | Optional: add Churchill Vol. 3 SOURCE if Vol. 3 opens with William III / post-1688. |
@@ -92,8 +92,8 @@ V. IMPLEMENTATION ORDER (RECOMMENDED)
 2. **MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE** / **MEM–ANGLIA–AMERICAN–REVOLUTION** — American Revolution, colonies, first leaders.
 3. **MEM–ANGLIA–WASHINGTON**, **MEM–ANGLIA–JEFFERSON** — Washington, Adams, Jefferson as “first great generation.”
 4. **MEM–ANGLIA–PITT–YOUNGER** — Add explicit Vol. 3 citation where Churchill on Pitt is from *The Age of Revolution*.
-5. **MEM–ANGLIA–NELSON**, **MEM–ANGLIA–WAR–TRAFALGAR** — Trafalgar.
-6. **MEM–ANGLIA–WELLINGTON**, **MEM–ANGLIA–WAR–WATERLOO** — Waterloo.
+5. **MEM–ANGLIA–WAR–NELSON**, **MEM–ANGLIA–WAR–NELSON–TRAFALGAR** — Trafalgar.
+6. **MEM–ANGLIA–WELLINGTON**, **MEM–ANGLIA–WAR–NAPOLEON–WATERLOO** — Waterloo.
 7. **MEM–ANGLIA–WAR–NAPOLEON**, **MEM–ANGLIA–BURKE** — French Revolution, Napoleon.
 8. **MEM–ANGLIA–WAR–SEVEN–YEARS**, **MEM–ANGLIA–DYNASTY–HANOVER** — Seven Years’ War, Hanoverian period.
 

@@ -93,7 +93,7 @@ Parliament is Anglia’s institutionalization of “never, as yet, without succe
 ────────────────────────────────────────────────────────────
 VI. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–MAGNA–CARTA (consent precedent; Clause 12; king under law)
+• MEM–ANGLIA–LAW–MAGNA–CARTA (consent precedent; Clause 12; king under law)
 • MEM–ANGLIA–COMMON–LAW (law as memory; Parliament as complement to courts)
 • MEM–ANGLIA–EDWARD–I (Model Parliament; cooperation of three estates; regularization)
 • MEM–ANGLIA–DYNASTY–PLANTAGENET (Henry III, Edward I; Parliament under Plantagenets)

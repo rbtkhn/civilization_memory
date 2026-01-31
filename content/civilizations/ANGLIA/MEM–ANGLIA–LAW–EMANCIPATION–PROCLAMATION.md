@@ -1,143 +1,123 @@
-MEM–ANGLIA–GEO–MEDITERRANEAN — v1.0
+MEM–ANGLIA–LAW–EMANCIPATION–PROCLAMATION — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: RENAME (EMANCIPATION–PROCLAMATION → LAW–EMANCIPATION–PROCLAMATION)
 Civilization: ANGLIA
-Subject: Mediterranean System (Peripheral Arena & Strategic Classroom)
-Dates: Ancient era–present
+Subject: Emancipation Proclamation (Procedural Morality Under War)
+Dates: 1863 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Mediterranean as **Anglia’s secondary
-civilizational classroom**: a strategic arena where Anglia learns,
-tests, and refines power without anchoring its identity or legitimacy
-to the region.
+This file preserves the Emancipation Proclamation as **Anglia's wartime
+moral pivot**: a legal instrument that redefined a civil war as a
+legitimacy struggle, converting survival of the union into a claim of
+moral authority.
 
-Where the Mediterranean **forms** Francia,
-it **educates** Anglia.
+Emancipation is strategic before it is universal.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. INHERITED SPACE, NOT ORIGIN SPAAD
+II. CONTEXT OF EXISTENTIAL CONFLICT
 ────────────────────────────────────────────────────────────
-Anglia does not emerge from the Mediterranean world.
+The proclamation arises under duress.
+
+Conditions:
+• Union military strain
+• Diplomatic vulnerability
+• Moral incoherence of war aims
+• Slavery sustaining enemy economy
+
+Procedure responds to necessity.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats the Emancipation Proclamation within "The Great Republic" section—"Slavery and Secession"—framing it as the wartime moral pivot that redefines the conflict's legitimacy (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers Slavery and Secession—the Emancipation Proclamation as the wartime instrument that transforms the war's meaning and reasserts moral authority.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Slavery and Secession (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
+────────────────────────────────────────────────────────────
+III. LIMITED LEGAL SCOPE
+────────────────────────────────────────────────────────────
+The act is constrained.
 
 Characteristics:
-• No Roman administrative inheritance
-• No Mediterranean sacral core
-• No early civilizational rooting
+• Applies only to rebelling territories
+• Excludes loyal slave states
+• Enforced through military power
 
-The Mediterranean is encountered as an already-ordered system.
+Law follows the army.
 
-Anglia enters as observer, trader, and later intervener—
-not as heir.
-
-────────────────────────────────────────────────────────────
-III. MEDIEVAL CONTACT & SELECTIVE ENGAGEMENT
-────────────────────────────────────────────────────────────
-Anglia’s early Mediterranean presence is episodic.
-
-Forms:
-• Crusader participation (via nobles, not state)
-• Pilgrimage and ecclesiastical ties
-• Limited maritime trade
-
-Engagement is personal and aristocratic,
-not institutional or civilizational.
-
-The Mediterranean remains external.
+Morality is bounded by jurisdiction.
 
 ────────────────────────────────────────────────────────────
-IV. LEARNING FROM ANCIENT EMPIRES
+IV. TRANSFORMATION OF WAR LEGITIMACY
 ────────────────────────────────────────────────────────────
-The Mediterranean functions as a strategic archive.
+The war's meaning shifts.
 
-Lessons absorbed:
-• Roman overextension risks
-• Imperial logistics limits
-• Religious legitimacy dynamics
-• Continental coalition fragility
+Effects:
+• Union framed as moral actor
+• Foreign intervention deterred
+• Enslaved persons redefined as agents
 
-Anglia studies Mediterranean failure modes
-more than it imitates Mediterranean forms.
+Legitimacy is reasserted through declaration.
 
-The sea teaches caution.
+Procedure becomes ethical claim.
 
 ────────────────────────────────────────────────────────────
-V. EARLY MODERN ENTRY AS BALANCER
+V. EMANCIPATION AS PROCESS, NOT EVENT
 ────────────────────────────────────────────────────────────
-Anglia’s state-level engagement begins late.
+Freedom unfolds unevenly.
 
-Roles:
-• Anti-Habsburg balancing
-• Trade protection
-• Naval containment of rivals
-• Support for Ottoman counterweights (selectively)
+Dynamics:
+• Military advance required
+• Resistance persists
+• Legal completion delayed
 
-Anglia operates as **offshore balancer**, not regional claimant.
-
-Influence is exercised indirectly.
+Declaration initiates—not completes—justice.
 
 ────────────────────────────────────────────────────────────
-VI. NAPOLEONIC & IMPERIAL TESTING GROUND
+VI. POST-WAR INCOMPLETENESS
 ────────────────────────────────────────────────────────────
-The Mediterranean becomes a proving arena.
+Structural inequality remains.
 
-Functions:
-• Fleet maneuver space
-• Peripheral pressure zone
-• Coalition coordination theater
+Outcomes:
+• Constitutional abolition follows
+• Political equality deferred
+• Social repair unfinished
 
-Key logic:
-→ The Mediterranean bleeds continental empires.
-
-Anglia uses the region to exhaust opponents
-without committing its core.
+Order changes faster than society.
 
 ────────────────────────────────────────────────────────────
-VII. MODERN ERA: ACCESS WITHOUT ANCHORING
+VII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-In the modern period, Anglia remains present but unbound.
-
-Patterns:
-• Naval access points
-• Alliance interoperability
-• Strategic transit corridors
-
-No claim of ownership.
-No narrative of inheritance.
-
-Presence is conditional and reversible.
-
-────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL MEMORY FUNCTION
-────────────────────────────────────────────────────────────
-The Mediterranean encodes **strategic humility and restraint**.
+The proclamation encodes **procedural moral escalation**.
 
 Lessons:
-• Not all seas should be civilizational cores.
-• History-rich regions punish permanence.
-• Offshore power benefits from optionality.
-• Influence without inheritance reduces risk.
+• Law can redefine legitimacy mid-conflict.
+• Moral authority can be asserted instrumentally.
+• Justice often enters through necessity.
+• Declaration outpaces realization.
 
-The Mediterranean teaches Anglia what **not** to become.
+Emancipation is Anglia correcting itself under fire.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Anglia learns from the Mediterranean without belonging to it.
-• Roman collapse shapes Anglian restraint instincts.
-• Peripheral engagement preserves strategic freedom.
-• The Mediterranean is a cautionary archive.
-• Anglia’s power grows by avoiding ancient traps.
+• War forced moral clarity.
+• Law followed power, then reshaped it.
+• Declaration altered global perception.
+• Freedom required enforcement.
+• Emancipation marked legitimacy recovery, not resolution.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–GEO–MEDITERRANEAN — v1.0
+END OF FILE — MEM–ANGLIA–LAW–EMANCIPATION–PROCLAMATION — v1.1
 ────────────────────────────────────────────────────────────

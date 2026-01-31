@@ -102,7 +102,7 @@ Churchill’s *The Great Democracies* ends here—not in triumph alone, but in t
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
-• MEM–ANGLIA–SOUTH–AFRICA — Boer War as turning point in South African narrative; Union 1910; racial and political legacy.
+• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — Boer War as turning point in South African narrative; Union 1910; racial and political legacy.
 • MEM–ANGLIA–BRITISH–EMPIRE — Imperial strain, dominion participation, procedural legitimacy under stress.
 • MEM–ANGLIA–VICTORIA — War concludes late in Victoria’s reign; symbolic end of Victorian imperial confidence.
 • MEM–ANGLIA–DYNASTY–HANOVER — Salisbury; parliamentary and imperial governance.
@@ -115,7 +115,7 @@ VIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Churchill, Winston S. *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies*. New York: Dodd, Mead, 1956–1958. South African War; close of volume. (ARC-T-MODERN)
 • CIV–ARC–ANGLIA — Churchill in ARC-T-MODERN.
-• MEM–ANGLIA–SOUTH–AFRICA — Boer republics, Union, apartheid prehistory.
+• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — Boer republics, Union, apartheid prehistory.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ANGLIA–WAR–BOER — v1.1

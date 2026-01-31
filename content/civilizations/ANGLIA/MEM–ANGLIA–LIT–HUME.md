@@ -1,189 +1,192 @@
-MEM–ANGLIA–SMITH — v1.3
+MEM–ANGLIA–LIT–HUME — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
+Supersedes: v1.2
+Upgrade Type: RENAME (HUME → LIT–HUME)
 Civilization: ANGLIA
-Subject: Adam Smith (Moral Sentiment, Markets, and Order Without Command)
-Dates: 1723–1790 AD
+Subject: David Hume (Skepticism, Convention, and Order Without Certainty)
+Dates: 1711–1776 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Adam Smith as **Anglia’s theorist of spontaneous
-order**: the thinker who explains how markets, morality, and institutions
-coordinate human behavior without centralized design, coercive virtue,
-or utopian intent.
+This file preserves David Hume as **Anglia's philosopher of continuity
+without foundations**: the thinker who dissolves metaphysical certainty
+yet preserves social order by grounding legitimacy in habit, convention,
+and gradual accommodation rather than reasoned absolutes or moral law.
 
-Smith does not glorify markets.
-He explains **why they civilize**.
+Hume does not seek truth that commands.
+He explains **why order persists anyway**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. CONTEXT & FORMATIVE CONDITIONS
 ────────────────────────────────────────────────────────────
-Smith writes during Anglia’s commercial expansion.
+Hume emerges after Anglia's major systemic traumas have passed.
 
 Context:
-• Post-Union Britain
-• Expanding global trade
-• Industrial precursors
-• Stable legal institutions
-• Declining feudal hierarchy
+• Post-Glorious Revolution settlement
+• Parliamentary stability
+• Expanding commercial society
+• Declining religious civil war intensity
 
-Economic life accelerates.
-The question becomes whether order can survive abundance.
+Anglia is no longer fighting for survival.
+It is managing endurance.
 
-Smith answers affirmatively—but conditionally.
+The philosophical problem shifts from "How do we rule?"
+to "Why does this keep working?"
 
 ────────────────────────────────────────────────────────────
-III. MORAL SENTIMENT BEFORE ECONOMICS
+III. SKEPTICISM AS STABILIZER
 ────────────────────────────────────────────────────────────
-Smith begins with psychology, not profit.
+Hume dismantles claims of rational certainty.
+
+Core positions:
+• Causation is habit, not necessity
+• Reason is subordinate to custom
+• Moral judgments arise from sentiment
+
+This is not nihilism.
+It is **anti-dogmatism**.
+
+By denying absolute justification,
+Hume prevents totalizing ideologies.
+
+Uncertainty becomes a restraint.
+
+────────────────────────────────────────────────────────────
+IV. CONVENTION OVER CONTRACT
+────────────────────────────────────────────────────────────
+Unlike Hobbes or Locke, Hume rejects founding contracts.
 
 Key ideas:
-• Sympathy regulates behavior
-• Social approval disciplines self-interest
-• Moral norms precede markets
+• Society precedes consent
+• Rules emerge from repeated interaction
+• Legitimacy is retrospective and functional
 
-Markets do not create virtue.
-They **assume it**.
+Authority exists because it works,
+not because it was authorized.
 
-Commercial society rests on inherited moral restraint.
-
-────────────────────────────────────────────────────────────
-IV. MARKETS AS COORDINATION MECHANISMS
-────────────────────────────────────────────────────────────
-Smith’s economics reject central control.
-
-Principles:
-• Division of labor
-• Price signaling
-• Competition as discipline
-• Local knowledge superiority
-
-Order emerges indirectly.
-
-No planner commands outcomes.
-Constraints guide behavior.
-
-This mirrors Anglia’s governance style:
-procedure over proclamation.
+This mirrors Anglia's lived reality:
+institutions accumulate before theory explains them.
 
 ────────────────────────────────────────────────────────────
 V. PRIMARY SOURCE ANCHORS (VERBATIM)
 ────────────────────────────────────────────────────────────
 
-PRIMARY SOURCE ANCHOR A — *WEALTH OF NATIONS*
+PRIMARY SOURCE ANCHOR A — *TREATISE OF HUMAN NATURE*
 
 Source:
-• Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*
+• David Hume, *A Treatise of Human Nature*
 
 Verbatim Quote:
-“It is not from the benevolence of the butcher, the brewer, or the baker,
-that we expect our dinner, but from their regard to their own interest.”
+"Reason is, and ought only to be the slave of the passions."
 
 Context Function:
-This frames coordination through incentive rather than moral command.
+This rejects rationalist governance models and explains why political
+order depends on custom and sentiment rather than logic.
 
 Provenance Confidence: HIGH
 
 ---
 
-PRIMARY SOURCE ANCHOR B — *THEORY OF MORAL SENTIMENTS*
+PRIMARY SOURCE ANCHOR B — *ESSAYS, MORAL AND POLITICAL*
 
 Source:
-• Adam Smith, *The Theory of Moral Sentiments*
+• David Hume, *Essays, Moral and Political*
 
 Verbatim Quote:
-“How selfish soever man may be supposed, there are evidently some
-principles in his nature, which interest him in the fortune of others.”
+"Nothing appears more surprising… than the easiness with which the many
+are governed by the few."
 
 Context Function:
-This anchors economic behavior within moral psychology, preventing
-reduction to pure self-interest.
+This frames authority as a psychological and conventional phenomenon,
+not a rational or moral one.
 
 Provenance Confidence: HIGH
 
 ────────────────────────────────────────────────────────────
-VI. ANTI-MERCANTILISM & RESTRAINT
+VI. POLITICAL AUTHORITY WITHOUT MORAL MANDATE
 ────────────────────────────────────────────────────────────
-Smith opposes state-directed accumulation.
+Hume accepts authority pragmatically.
 
-Critiques:
-• Mercantilist distortion
-• Rent-seeking elites
-• Monopoly privilege
+Views:
+• Obedience is habitual
+• Revolt is rare and destabilizing
+• Reform should be incremental
 
-Yet Smith is not anarchic.
+He distrusts:
+• Abstract rights
+• Universal moral claims
+• Revolutionary virtue
 
-He accepts:
-• Regulation against fraud
-• Public goods provision
-• Legal enforcement of contracts
-
-Markets require institutions.
-
-Freedom is structured, not absolute.
+Hume's skepticism immunizes Anglia
+against philosophical fanaticism.
 
 ────────────────────────────────────────────────────────────
 VII. RELATION TO ANGLIAN CIVILIZATIONAL LOGIC
 ────────────────────────────────────────────────────────────
-Smith translates Anglia’s practice into theory.
+Hume explains Anglia's quiet durability.
 
 Parallels:
-• Common law enforcement
-• Parliamentary restraint
-• Trade over conquest
-• Finance over extraction
+• Common law evolution
+• Parliamentary gradualism
+• Preference for precedent over principle
+• Distrust of theoretical purity
 
-Smith’s invisible hand
-mirrors Anglia’s invisible governance.
+Where Locke justifies,
+Hume **describes**.
+
+Philosophy follows practice, not vice versa.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–HUME  
-Smith builds on Hume’s psychology of convention, adding economic
-coordination to social habit.
+• MEM–ANGLIA–LIT–LOCKE
+Hume undermines Locke's rationalist justification of consent while
+retaining the same institutional outcome through convention.
 
-• MEM–ANGLIA–LOCKE  
-Where Locke limits power, Smith explains prosperity within those limits.
+• MEM–ANGLIA–LIT–HOBBES
+Hume rejects Hobbes's fear-based absolutism, arguing order persists even
+without existential terror.
 
-• MEM–ANGLIA–WAR–TRAFALGAR  
-Maritime supremacy enables the commercial order Smith describes.
+• MEM–GERMANIA–KANT
+Kant reacts against Hume by restoring structure to reason itself, while
+Hume accepts uncertainty as permanent.
 
-• MEM–GERMANIA–KANT  
-Kant moralizes duty; Smith socializes virtue through interaction.
+• MEM–ANGLIA–COMMON–LAW
+Hume's philosophy mirrors common law's legitimacy-through-use logic.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Smith encodes **prosperity without command**.
+Hume encodes **order without certainty**.
 
 Lessons:
-• Markets coordinate without ideology.
-• Morality precedes economics.
-• Institutions restrain self-interest productively.
-• Wealth is systemic, not extractive.
+• Skepticism can stabilize systems.
+• Habit substitutes for justification.
+• Authority persists without moral proof.
+• Anti-dogmatism preserves continuity.
 
-Smith is Anglia’s theory of abundance with order.
+Hume is Anglia's philosophy of quiet survival.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Order can be emergent.
-• Markets civilize when constrained.
-• Prosperity follows trust.
-• Self-interest is disciplined by norms.
-• Smith explains why Anglia grows without directing.
+• Doubt restrains extremism.
+• Convention outlives theory.
+• Order does not require belief.
+• Legitimacy can be unconscious.
+• Hume explains why Anglia works without knowing why.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–SMITH v1.3
-Word Count: ~840
+END OF FILE — MEM–ANGLIA–LIT–HUME — v1.3
+Word Count: ~820
 ────────────────────────────────────────────────────────────

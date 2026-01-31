@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–WATERLOO — v1.0
+MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.2
 Supersedes: v1.1
-Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3)
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3) · RENAME (WAR–WATERLOO → WAR–NAPOLEON–WATERLOO)
 Civilization: ANGLIA
 Subject: Battle of Waterloo
 Dates: 1815 AD
@@ -14,10 +14,10 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Waterloo as Anglia’s confirmation of system
+This file preserves Waterloo as Anglia's confirmation of system
 supremacy through endurance and coalition management: the culminating
-battle in which Anglia’s long-developed method—finance, patience,
-alliances, and controlled exposure—finally terminates a rival’s
+battle in which Anglia's long-developed method—finance, patience,
+alliances, and controlled exposure—finally terminates a rival's
 personalist and universalist project.
 
 For Anglia, Waterloo is not a moment of glory.
@@ -42,7 +42,7 @@ It merely ends resistance to it.
 ────────────────────────────────────────────────────────────
 III. COALITION WARFARE AT FULL MATURITY
 ────────────────────────────────────────────────────────────
-Waterloo reflects Anglia’s preferred war grammar.
+Waterloo reflects Anglia's preferred war grammar.
 
 Characteristics:
 • Coalition primacy over national spectacle
@@ -84,10 +84,10 @@ Anglia does not mythologize the field.
 The objective is not annihilation,
 but finality.
 
-Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), closes the volume with Napoleon’s defeat at Waterloo, framing it as the endpoint of the Age of Revolution and the confirmation of Britain’s coalition-and-endurance method (ARC-T-MODERN) [ERC-SECONDARY].
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), closes the volume with Napoleon's defeat at Waterloo, framing it as the endpoint of the Age of Revolution and the confirmation of Britain's coalition-and-endurance method (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* begins with Marlborough’s Blenheim and ends with Napoleon’s defeat at Waterloo—the volume tells the story of Britain’s rise to world leadership through the long Anglo-French rivalry and the Napoleonic Wars.
+> Churchill's *The Age of Revolution* begins with Marlborough's Blenheim and ends with Napoleon's defeat at Waterloo—the volume tells the story of Britain's rise to world leadership through the long Anglo-French rivalry and the Napoleonic Wars.
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
@@ -97,7 +97,7 @@ SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
 ────────────────────────────────────────────────────────────
 VI. LEGITIMACY UNAFFECTED BY OUTCOME
 ────────────────────────────────────────────────────────────
-Unlike Francia, Anglia’s legitimacy does not hinge on Waterloo.
+Unlike Francia, Anglia's legitimacy does not hinge on Waterloo.
 
 Observations:
 • No personal authority at stake
@@ -127,7 +127,7 @@ Order matters more than authorship.
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-Waterloo encodes Anglia’s anti-charismatic doctrine.
+Waterloo encodes Anglia's anti-charismatic doctrine.
 
 Lessons:
 • Systems outlast individuals
@@ -144,10 +144,10 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Victory need not transform identity to be decisive.
 • Coalition warfare substitutes for personal genius.
 • Legitimacy that survives loss is stronger than legitimacy that requires victory.
-• Waterloo ends Napoleon, not Anglia’s way of war.
+• Waterloo ends Napoleon, not Anglia's way of war.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–WATERLOO — v1.1
+END OF FILE — MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.2
 ────────────────────────────────────────────────────────────

@@ -164,7 +164,7 @@ ANGLIA:
 • MEM–ANGLIA–DISRAELI — 1875 share purchase; Suez as Victorian imperial priority.
 • MEM–ANGLIA–VICTORIA — Victorian zenith; Suez purchase during Victoria's reign.
 • MEM–ANGLIA–GEO–ATLANTIC — Maritime system; Suez extends Atlantic logic into Red Sea/Indian Ocean.
-• MEM–ANGLIA–GEO–MEDITERRANEAN — Suez connects Mediterranean to Indian Ocean; strategic pivot.
+• MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — Suez connects Mediterranean to Indian Ocean; strategic pivot.
 
 Cross-Civilizational:
 • MEM–FRANCIA– (as applicable)—French role in canal construction (1869), joint Anglo-French operation 1956.

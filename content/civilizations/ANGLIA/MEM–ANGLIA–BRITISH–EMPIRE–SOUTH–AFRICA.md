@@ -1,10 +1,10 @@
-MEM–ANGLIA–SOUTH–AFRICA — v1.4
+MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.5
-Supersedes: v1.4
-Upgrade Type: ADDITIVE · Ferguson *Empire* expansion (emigration, settlement, dominion formation)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: RENAME (SOUTH–AFRICA → BRITISH–EMPIRE–SOUTH–AFRICA)
 Civilization: ANGLIA
 Subject: South Africa (Extraction Colony, Racial Codification, and Moral Fracture)
 Dates: 1795 AD–present
@@ -14,7 +14,7 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves South Africa as **Anglia’s most persistent moral
+This file preserves South Africa as **Anglia's most persistent moral
 contradiction**: a territory where procedural governance, legal
 formalism, and economic extraction coexist with rigid racial hierarchy
 and long-term legitimacy erosion.
@@ -27,7 +27,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. STRATEGIC ACQUISITION & VALUE
 ────────────────────────────────────────────────────────────
-South Africa enters Anglia’s system through necessity.
+South Africa enters Anglia's system through necessity.
 
 Context:
 • Control of Cape sea route
@@ -70,8 +70,8 @@ Source:
 • Cecil Rhodes, quoted in imperial correspondence
 
 Verbatim Quote:
-“I contend that we are the finest race in the world and that the more of
-the world we inhabit the better it is for the human race.”
+"I contend that we are the finest race in the world and that the more of
+the world we inhabit the better it is for the human race."
 
 Context Function:
 This illustrates the moral inversion that procedural empire allows when
@@ -95,7 +95,7 @@ Apartheid is proceduralized injustice.
 It survives because it is administered efficiently.
 
 ────────────────────────────────────────────────────────────
-VI. METROPOLE–COLONY DISSONANAD
+VI. METROPOLE–COLONY DISSONANCE
 ────────────────────────────────────────────────────────────
 Anglia tolerates contradiction at distance.
 
@@ -130,14 +130,17 @@ VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 • MEM–ANGLIA–DARWIN  
 Biological language is misused to justify hierarchy.
 
-• MEM–ANGLIA–SMITH  
+• MEM–ANGLIA–LIT–SMITH  
 Market extraction proceeds without reciprocal legitimacy.
 
 • MEM–ANGLIA–PAINE  
 Universalist rhetoric exposes colonial hypocrisy.
 
 • MEM–ANGLIA–WAR–BOER  
-South Africa militarizes Anglia’s contradictions.
+South Africa militarizes Anglia's contradictions.
+
+• MEM–ANGLIA–BRITISH–EMPIRE–RHODES  
+Rhodes as Cape PM, diamonds, Jameson Raid, Boer War catalyst.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
@@ -150,7 +153,7 @@ Lessons:
 • Extraction without absorption corrodes legitimacy.
 • Moral failure can be systemically organized.
 
-South Africa is Anglia’s unresolved scar.
+South Africa is Anglia's unresolved scar.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -159,11 +162,11 @@ X. CONTINUITY INSIGHTS (RAW)
 • Race becomes policy when morality recedes.
 • Colonies expose metropolitan blind spots.
 • Late reform costs more than early inclusion.
-• South Africa reveals Anglia’s ethical limit case.
+• South Africa reveals Anglia's ethical limit case.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–SOUTH–AFRICA — v1.5
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — v1.6
 Word Count: ~860
 ────────────────────────────────────────────────────────────

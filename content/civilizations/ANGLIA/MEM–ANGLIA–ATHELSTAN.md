@@ -146,9 +146,9 @@ VIII. MEM CONNECTIONS (STRUCTURAL)
 Internal (ANGLIA):
 • MEM–ANGLIA–ALFRED — survival preservation
 • MEM–ANGLIA–COMMON–LAW — precedent as memory
-• MEM–ANGLIA–MAGNA–CARTA — later depersonalization
+• MEM–ANGLIA–LAW–MAGNA–CARTA — later depersonalization
 • MEM–ANGLIA–WAR–HASTINGS — elite replacement after unity
-• MEM–ANGLIA–WAR–YORKTOWN — defeat without dissolution
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat without dissolution
 
 Cross-Civilizational:
 • MEM–FRANCIA–CAPETIANS — dynastic unification via law

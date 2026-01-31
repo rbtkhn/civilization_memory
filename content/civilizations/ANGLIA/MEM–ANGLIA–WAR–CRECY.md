@@ -179,7 +179,7 @@ with even greater discipline and restraint.
 Where Hastings demonstrates elite replacement through invasion, Crécy
 demonstrates elite destruction through method without occupation.
 
-• MEM–ANGLIA–WAR–WATERLOO  
+• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO  
 Crécy represents early method supremacy; Waterloo represents mature
 system supremacy operating at coalition scale.
 

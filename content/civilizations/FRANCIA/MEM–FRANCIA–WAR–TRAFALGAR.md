@@ -294,8 +294,8 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–VILLENEUVE — commander (gap: Subject MEM)
 
 Cross-civilizational:
-• MEM–ANGLIA–WAR–TRAFALGAR — British perspective
-• MEM–ANGLIA–NELSON — British commander
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — British perspective
+• MEM–ANGLIA–WAR–NELSON — British commander
 • MEM–HISPANIA–WAR–TRAFALGAR — Spanish perspective
 
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–ANGLIA–FEDERALIST–PAPERS — v1.4
+MEM–ANGLIA–LAW–FEDERALIST–PAPERS — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 1.5
 Supersedes: v1.4
-Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
+Upgrade Type: RENAME (FEDERALIST–PAPERS → LAW–FEDERALIST–PAPERS)
 Civilization: ANGLIA
 Subject: The Federalist Papers (Procedural Containment of Revolution)
 Dates: 1787–1788 AD
@@ -15,7 +15,7 @@ Word Count: ~2,600
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves *The Federalist Papers* as **Anglia’s procedural
+This file preserves *The Federalist Papers* as **Anglia's procedural
 counterstrike after revolution**: the deliberate effort by Anglian-
 trained elites in America to re-impose institutional restraint,
 complexity, and durability after Painean simplification and wartime
@@ -65,7 +65,7 @@ Power is slowed deliberately.
 This is not hesitation.
 It is design.
 
-This reasserts Anglia’s civilizational instinct:
+This reasserts Anglia's civilizational instinct:
 **endurance through structure, not virtue**.
 
 ────────────────────────────────────────────────────────────
@@ -78,7 +78,7 @@ Source:
 • James Madison, *Federalist No. 10* (1787)
 
 Embedded Verbatim Quote (≥25 words):
-> “The latent causes of faction are thus sown in the nature of man; and
+> "The latent causes of faction are thus sown in the nature of man; and
 > we see them everywhere brought into different degrees of activity,
 > according to the different circumstances of civil society. A zeal for
 > different opinions concerning religion, concerning government, and
@@ -88,7 +88,7 @@ Embedded Verbatim Quote (≥25 words):
 > fortunes have been interesting to the human passions, have, in turn,
 > divided mankind into parties, inflamed them with mutual animosity,
 > and rendered them much more disposed to vex and oppress each other
-> than to co-operate for their common good.”
+> than to co-operate for their common good."
 
 Analytical Function:
 This rejects moral purification entirely and instead designs institutions
@@ -104,16 +104,16 @@ Source:
 • James Madison, *Federalist No. 51* (1788)
 
 Embedded Verbatim Quote (≥25 words):
-> “But what is government itself, but the greatest of all reflections on
+> "But what is government itself, but the greatest of all reflections on
 > human nature? If men were angels, no government would be necessary.
 > If angels were to govern men, neither external nor internal controls
 > on government would be necessary. In framing a government which is to
 > be administered by men over men, the great difficulty lies in this:
 > you must first enable the government to control the governed; and in
-> the next place oblige it to control itself.”
+> the next place oblige it to control itself."
 
 Analytical Function:
-This encodes Anglia’s core insight: power is controlled structurally, not
+This encodes Anglia's core insight: power is controlled structurally, not
 morally. Virtue is distrusted; architecture compensates.
 
 Provenance Confidence: HIGH
@@ -126,14 +126,14 @@ Source:
 • Alexander Hamilton, *Federalist No. 78* (1788)
 
 Embedded Verbatim Quote (≥25 words):
-> “The judiciary, from the nature of its functions, will always be the
+> "The judiciary, from the nature of its functions, will always be the
 > least dangerous to the political rights of the Constitution; because
 > it will be least in a capacity to annoy or injure them. The Executive
 > not only dispenses the honors, but holds the sword of the community.
 > The legislature not only commands the purse, but prescribes the rules
 > by which the duties and rights of every citizen are to be regulated.
 > The judiciary, on the contrary, has no influence over either the sword
-> or the purse.”
+> or the purse."
 
 Analytical Function:
 This institutionalizes restraint by isolating coercive and fiscal power,
@@ -144,7 +144,7 @@ Provenance Confidence: HIGH
 ────────────────────────────────────────────────────────────
 V. ANGLIAN GRAMMAR RESTORED
 ────────────────────────────────────────────────────────────
-The Papers revive Anglia’s civilizational logic almost explicitly.
+The Papers revive Anglia's civilizational logic almost explicitly.
 
 Restored elements:
 • Distrust of virtue claims
@@ -159,7 +159,7 @@ They reject:
 
 Revolution is treated as an exception, not a template.
 
-This mirrors Anglia’s post-1649 and post-1688 settlements.
+This mirrors Anglia's post-1649 and post-1688 settlements.
 
 ────────────────────────────────────────────────────────────
 VI. RELATION TO PAINE
@@ -184,24 +184,24 @@ Only one is system-safe.
 VII. DISTINGUISHED SCHOLAR ENGAGEMENT (ANGLIA RULE)
 ────────────────────────────────────────────────────────────
 
-• **Winston Churchill**  
+• **Winston Churchill**
 Churchill repeatedly praised the American Constitution as an inherited
 English achievement, emphasizing continuity of legal grammar rather
 than revolutionary novelty.
 
-• **Henry Kissinger**  
-Kissinger’s balance-of-power logic parallels Federalist distrust of
+• **Henry Kissinger**
+Kissinger's balance-of-power logic parallels Federalist distrust of
 unitary moral authority and preference for equilibrium systems.
 
 SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
 > The Federalist Papers reflect a balance-of-power logic that distrusts unitary moral authority and prefers equilibrium systems. Like the international balance of power, the Federalist design creates competing institutional interests that check each other, preventing any single faction or branch from dominating the system.
 > — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
-• **Carroll Quigley**  
-Quigley’s institutional analysis directly supports the Federalist focus
+• **Carroll Quigley**
+Quigley's institutional analysis directly supports the Federalist focus
 on mechanisms over ideals as the true carriers of power.
 
-• **Will Durant**  
+• **Will Durant**
 Durant treats the Federalist settlement as a triumph of political
 engineering over revolutionary intoxication.
 
@@ -218,7 +218,7 @@ Effects:
 • Absorption of expansion, crisis, and civil war
 • Channeling of conflict into institutions rather than rupture
 
-Anglia’s American extension becomes governable.
+Anglia's American extension becomes governable.
 
 Revolution is **contained by design**, not by suppression.
 
@@ -227,8 +227,8 @@ IX. CROSS-REFERENCED MEM FILES (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
 • MEM–ANGLIA–PAINE — ideological ignition
-• MEM–ANGLIA–HUME — skepticism of virtue
-• MEM–ANGLIA–LOCKE — consent institutionalized
+• MEM–ANGLIA–LIT–HUME — skepticism of virtue
+• MEM–ANGLIA–LIT–LOCKE — consent institutionalized
 • MEM–ANGLIA–AMERICAN–REVOLUTION — rupture without collapse
 • MEM–ANGLIA–WAR–AMERICAN–CIVIL — incomplete absorption of restraint
 
@@ -248,7 +248,7 @@ Lessons:
 • Complexity is protective
 • Freedom survives only when slowed
 
-They are Anglia’s procedural immune system.
+They are Anglia's procedural immune system.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)
@@ -271,5 +271,5 @@ This file is CANONICAL and compliant with:
 • Pedagogical affordance requirements
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–FEDERALIST–PAPERS — v1.4
+END OF FILE — MEM–ANGLIA–LAW–FEDERALIST–PAPERS — v1.5
 ────────────────────────────────────────────────────────────

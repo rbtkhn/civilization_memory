@@ -1,122 +1,129 @@
-MEM–ANGLIA–KING–JAMES–BIBLE — v1.0
+MEM–ANGLIA–LIT–MILTON — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
+Supersedes: —
+Upgrade Type: RENAME (MILTON → LIT–MILTON)
 Civilization: ANGLIA
-Subject: King James Bible (Authorized Version)
-Dates: 1611 AD–present
+Subject: John Milton
+Dates: 1608–1674 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the King James Bible as **Anglia’s linguistic,
-religious, and procedural unifier**: a translation that stabilized
-confessional conflict, standardized sacred language, and embedded
-authority through text rather than clerical hierarchy.
+This file preserves Milton as **Anglia's conscience under rupture**:
+the figure who articulated moral absolutism, individual responsibility,
+and covenantal liberty during civil war, regicide, and restoration.
 
-The King James Bible is scripture as institution.
+Milton does not stabilize order.
+He **tests whether order deserves to survive**.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. ORIGIN CONDITIONS
+II. FORMATIVE CONTEXT & HISTORICAL POSITION
 ────────────────────────────────────────────────────────────
-The translation arises from post-Reformation instability.
+Milton emerges amid systemic breakdown.
 
 Context:
-• Fragmented English Bible traditions
-• Confessional tension between crown, bishops, and Puritan factions
-• Need for religious uniformity without doctrinal novelty
-• Royal authority seeking mediation rather than imposition
+• English Civil War
+• Execution of Charles I
+• Republican experiment
+• Restoration backlash
 
-The project is authorized, not revolutionary.
+Position:
+• Educated elite
+• Radical Protestant moralist
+• Civil servant to the Commonwealth
+• Loser of history, not its author
 
-────────────────────────────────────────────────────────────
-III. TRANSLATION AS SETTLEMENT
-────────────────────────────────────────────────────────────
-The text functions as a political–religious compromise.
-
-Characteristics:
-• Conservative theology
-• Inclusive translation committees
-• Avoidance of polemical innovation
-• Emphasis on cadence and gravity
-
-Authority is stabilized through shared words.
+Milton writes from commitment, not safety.
 
 ────────────────────────────────────────────────────────────
-IV. LANGUAGE AS LEGITIMACY TECHNOLOGY
+III. LIBERTY AS MORAL BURDEN
 ────────────────────────────────────────────────────────────
-The Bible standardizes sacred English.
+Milton defines freedom as obligation.
 
-Effects:
-• Elevated prose becomes normative
-• Scripture becomes publicly intelligible
-• Religious authority migrates into language itself
+Core beliefs:
+• Liberty requires virtue
+• Authority must answer to conscience
+• Tyranny is moral, not merely political
 
-Legitimacy is voiced, not enforced.
+Freedom without discipline becomes license.
 
-────────────────────────────────────────────────────────────
-V. PROCEDURAL FAITH
-────────────────────────────────────────────────────────────
-The text aligns with Anglia’s procedural instincts.
-
-Dynamics:
-• Fixed wording limits interpretive volatility
-• Disputes are argued through text, not revelation
-• Continuity preserved despite theological disagreement
-
-Faith is bounded by precedent.
+Liberty is earned, not inherited.
 
 ────────────────────────────────────────────────────────────
-VI. TRANSMISSION & IMPERIAL AFTERLIFE
+IV. AUTHORITY UNDER JUDGMENT
 ────────────────────────────────────────────────────────────
-The King James Bible travels with Anglian expansion.
+Milton subjects power to divine and moral law.
 
-Paths:
-• Exported across Anglian domains
-• Retained in post-imperial societies
-• Forms the religious-linguistic substrate of Anglophone culture
+Targets:
+• Absolute monarchy
+• Unaccountable clergy
+• Passive obedience doctrine
 
-Transmission preserves cadence, not jurisdiction.
+Authority is legitimate only if righteous.
 
-────────────────────────────────────────────────────────────
-VII. SURVIVAL THROUGH SECULARIZATION
-────────────────────────────────────────────────────────────
-The text outlasts confessional centrality.
-
-Shifts:
-• Religious authority declines
-• Literary and cultural authority persists
-• Moral language remains scripturally shaped
-
-Belief attenuates; language endures.
+There is no neutrality between obedience and sin.
 
 ────────────────────────────────────────────────────────────
-VIII. LONG-TERM CIVILIZATIONAL CONSEQUENCES
+V. PARADISE LOST AS POLITICAL THEOLOGY
 ────────────────────────────────────────────────────────────
-Enduring effects:
-• Anglophone prose shaped by biblical cadence
-• Religious conflict managed through shared text
-• Authority diffused from clergy to language
-• Cultural cohesion preserved without coercion
+Milton encodes politics in epic form.
 
-The King James Bible becomes Anglia’s moral grammar.
+Themes:
+• Rebellion vs obedience
+• Pride vs duty
+• Freedom vs submission
+• Tragic cost of choice
+
+Satan is charismatic—but wrong.
+God is just—but distant.
+
+The poem refuses simple alignment.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+VI. FAILURE AND WITHDRAWAL
 ────────────────────────────────────────────────────────────
-• Translation can function as political settlement.
-• Language can carry authority without enforcement.
-• Shared texts stabilize divided belief systems.
-• Procedural cultures prefer fixed wording to evolving doctrine.
-• The King James Bible is Anglia’s sacred constitution.
+Milton's political project fails.
+
+Outcomes:
+• Republic collapses
+• Monarchy restored
+• Milton marginalized and blinded
+
+Yet his moral vision survives defeat.
+
+Loss does not invalidate truth.
+
+────────────────────────────────────────────────────────────
+VII. CIVILIZATIONAL MEMORY FUNCTION
+────────────────────────────────────────────────────────────
+Milton encodes **the danger and necessity of conscience politics**.
+
+Lessons:
+• Moral absolutism destabilizes order
+• But order without conscience decays
+• Liberty demands internal discipline
+• Political failure can yield moral legacy
+
+Milton is Anglia's uncompromising mirror.
+
+────────────────────────────────────────────────────────────
+VIII. CONTINUITY INSIGHTS (RAW)
+────────────────────────────────────────────────────────────
+• Liberty is a moral test, not a comfort.
+• Authority collapses when detached from righteousness.
+• Conscience can outlive institutions.
+• Radical truth-telling carries civilizational cost.
+• Milton preserves Anglia's moral ceiling—even when unusable.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–KING–JAMES–BIBLE — v1.0
+END OF FILE — MEM–ANGLIA–LIT–MILTON — v1.0
 ────────────────────────────────────────────────────────────

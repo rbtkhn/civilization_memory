@@ -1,9 +1,10 @@
-MEM–ANGLIA–RHODES — v1.0
+MEM–ANGLIA–BRITISH–EMPIRE–RHODES — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
-Upgrade Type: ADDITIVE (Ferguson *Empire* — person MEM)
+Supersedes: —
+Upgrade Type: RENAME (RHODES → BRITISH–EMPIRE–RHODES)
 Civilization: ANGLIA
 Subject: Cecil Rhodes (Diamond King, Cape Prime Minister, and Imperial Archetype)
 Dates: 1853–1902 AD
@@ -162,8 +163,10 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
-• MEM–ANGLIA–SOUTH–AFRICA — Rhodes as Cape PM, diamonds, Jameson Raid, Boer War catalyst; Rhodes quote on "finest race."
+• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — Rhodes as Cape PM, diamonds, Jameson Raid, Boer War catalyst; Rhodes quote on "finest race."
 • MEM–ANGLIA–BRITISH–EMPIRE — Chartered company model, commercial-imperial fusion, Scramble for Africa.
+• MEM–ANGLIA–BRITISH–EMPIRE–INDIA — Imperial node; Clive as parallel Company-model precedent.
+• MEM–ANGLIA–BRITISH–EMPIRE–INDIA–CLIVE — Parallel: Company model (EIC vs. BSAC); commercial empire.
 • MEM–ANGLIA–WAR–BOER — Jameson Raid as catalyst; Rhodes's role in escalating Anglo-Boer tensions.
 • MEM–ANGLIA–VICTORIA — Rhodes's career spans Victorian zenith; imperial maximalism at peak.
 • MEM–ANGLIA–DISRAELI — Predecessor's imperial vision; Rhodes continues late-Victorian expansionism.
@@ -179,8 +182,8 @@ XI. BIBLIOGRAPHY
 • Rotberg, Robert I. *The Founder: Cecil Rhodes and the Pursuit of Power*. New York: Oxford University Press, 1988. (Biography)
 • Rhodes, Cecil. Will and Testament (1902) — Rhodes Scholarships.
 • CIV–ARC–ANGLIA — Ferguson in ARC-T-MODERN.
-• MEM–ANGLIA–SOUTH–AFRICA — Rhodes quote on racial superiority.
+• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — Rhodes quote on racial superiority.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–RHODES — v1.0
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE–RHODES — v1.0
 ────────────────────────────────────────────────────────────

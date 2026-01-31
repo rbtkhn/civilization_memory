@@ -97,7 +97,7 @@ Internal (ANGLIA):
    — Contrast: Charles executed; James II removed by flight and declaration (1688).
 5) MEM–ANGLIA–LAW–PARLIAMENT
    — Revolt of Parliament; authority litigated by arms; regicide as procedural rupture.
-6) MEM–ANGLIA–MAGNA–CARTA
+6) MEM–ANGLIA–LAW–MAGNA–CARTA
    — Constraint precedent; king under law—extended to trial and execution.
 
 Cross-Civilizational (structural parallel):

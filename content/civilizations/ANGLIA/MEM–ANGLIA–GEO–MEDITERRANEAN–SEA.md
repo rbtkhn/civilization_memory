@@ -1,139 +1,145 @@
-MEM–ANGLIA–GEO–PACIFIC — v1.0
+MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.0
+Supersedes: —
+Upgrade Type: RENAME (GEO–MEDITERRANEAN → GEO–MEDITERRANEAN–SEA)
 Civilization: ANGLIA
-Subject: Pacific System (Late Expansion, Peripheral Control, and Alliance Ocean)
-Dates: 18th century–present
+Subject: Mediterranean Sea (Peripheral Arena & Strategic Classroom)
+Dates: Ancient era–present
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Pacific as **Anglia’s secondary oceanic system**:
-a space entered later than the Atlantic, governed more through nodes,
-alliances, and denial strategies than through full-spectrum maritime
-domination.
+This file preserves the Mediterranean Sea as **Anglia's secondary
+civilizational classroom**: a strategic arena where Anglia learns,
+tests, and refines power without anchoring its identity or legitimacy
+to the region.
 
-If the Atlantic is Anglia’s home system,
-the Pacific is its **outer management layer**.
+Where the Mediterranean **forms** Francia,
+it **educates** Anglia.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. LATE ENTRY, DIFFERENT LOGIC
+II. INHERITED SPACE, NOT ORIGIN SPACE
 ────────────────────────────────────────────────────────────
-Anglia enters the Pacific after its Atlantic system matures.
+Anglia does not emerge from the Mediterranean world.
 
-Context:
-• Circumnavigation era expansion
-• Global naval reach already established
-• Competition with Iberian, then Asian powers
-• Limited settler appetite relative to scale
+Characteristics:
+• No Roman administrative inheritance
+• No Mediterranean sacral core
+• No early civilizational rooting
 
-The Pacific is not foundational.
-It is additive.
+The Mediterranean is encountered as an already-ordered system.
 
-Anglia arrives with a system already formed.
-
-────────────────────────────────────────────────────────────
-III. NODAL CONTROL OVER OCEANIC DOMINANAD
-────────────────────────────────────────────────────────────
-Unlike the Atlantic, Anglia does not seek total circulation control.
-
-Strategy:
-• Strategic ports (Singapore, Hong Kong, Sydney)
-• Chokepoint mastery
-• Cable and communication hubs
-• Coaling and logistics stations
-
-Control is exercised through **anchors**, not blankets.
-
-The Pacific is too vast for totalization.
+Anglia enters as observer, trader, and later intervener—
+not as heir.
 
 ────────────────────────────────────────────────────────────
-IV. EMPIRE THROUGH INTERSECTION, NOT SATURATION
+III. MEDIEVAL CONTACT & SELECTIVE ENGAGEMENT
 ────────────────────────────────────────────────────────────
-Anglia prioritizes intersections.
+Anglia's early Mediterranean presence is episodic.
+
+Forms:
+• Crusader participation (via nobles, not state)
+• Pilgrimage and ecclesiastical ties
+• Limited maritime trade
+
+Engagement is personal and aristocratic,
+not institutional or civilizational.
+
+The Mediterranean remains external.
+
+────────────────────────────────────────────────────────────
+IV. LEARNING FROM ANCIENT EMPIRES
+────────────────────────────────────────────────────────────
+The Mediterranean functions as a strategic archive.
+
+Lessons absorbed:
+• Roman overextension risks
+• Imperial logistics limits
+• Religious legitimacy dynamics
+• Continental coalition fragility
+
+Anglia studies Mediterranean failure modes
+more than it imitates Mediterranean forms.
+
+The sea teaches caution.
+
+────────────────────────────────────────────────────────────
+V. EARLY MODERN ENTRY AS BALANCER
+────────────────────────────────────────────────────────────
+Anglia's state-level engagement begins late.
+
+Roles:
+• Anti-Habsburg balancing
+• Trade protection
+• Naval containment of rivals
+• Support for Ottoman counterweights (selectively)
+
+Anglia operates as **offshore balancer**, not regional claimant.
+
+Influence is exercised indirectly.
+
+────────────────────────────────────────────────────────────
+VI. NAPOLEONIC & IMPERIAL TESTING GROUND
+────────────────────────────────────────────────────────────
+The Mediterranean becomes a proving arena.
+
+Functions:
+• Fleet maneuver space
+• Peripheral pressure zone
+• Coalition coordination theater
+
+Key logic:
+→ The Mediterranean bleeds continental empires.
+
+Anglia uses the region to exhaust opponents
+without committing its core.
+
+────────────────────────────────────────────────────────────
+VII. MODERN ERA: ACCESS WITHOUT ANCHORING
+────────────────────────────────────────────────────────────
+In the modern period, Anglia remains present but unbound.
 
 Patterns:
-• Trade route junctions
-• Strait dominance
-• Island chains as logistics ladders
-• Informal influence over formal annexation
+• Naval access points
+• Alliance interoperability
+• Strategic transit corridors
 
-Territory is valuable only where it intersects flow.
+No claim of ownership.
+No narrative of inheritance.
 
-The Pacific rewards geometry, not mass.
-
-────────────────────────────────────────────────────────────
-V. TRANSITION TO ALLIANCE OCEAN
-────────────────────────────────────────────────────────────
-In the 20th century, Anglia adapts.
-
-Shifts:
-• US becomes primary Pacific maritime power
-• Anglia retains intelligence, legal, and alliance roles
-• Naval integration replaces primacy
-• Commonwealth and Five Eyes frameworks emerge
-
-Dominance yields to orchestration.
-
-The Pacific becomes a shared system.
-
-────────────────────────────────────────────────────────────
-VI. PACIFIC WAR AS SYSTEM LIMIT TEST
-────────────────────────────────────────────────────────────
-World War II exposes constraints.
-
-Lessons:
-• Distance dilutes unilateral control
-• Industrial scale outweighs tradition
-• Coalition leadership supersedes imperial command
-
-Anglia survives by **subordination within alliance**.
-
-This is adaptation, not decline.
-
-────────────────────────────────────────────────────────────
-VII. POST-IMPERIAL PACIFIC ROLE
-────────────────────────────────────────────────────────────
-In the modern era:
-• Legal frameworks
-• Intelligence sharing
-• Maritime norms enforcement
-• Strategic depth through partners
-
-Anglia influences without commanding.
-
-Presence is indirect but persistent.
+Presence is conditional and reversible.
 
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
-The Pacific encodes **scalable restraint**.
+The Mediterranean encodes **strategic humility and restraint**.
 
 Lessons:
-• Not all oceans can be mastered equally.
-• Nodes outperform saturation at extreme scale.
-• Alliance is a form of control.
-• Influence can persist without primacy.
+• Not all seas should be civilizational cores.
+• History-rich regions punish permanence.
+• Offshore power benefits from optionality.
+• Influence without inheritance reduces risk.
 
-The Pacific teaches Anglia when to share power.
+The Mediterranean teaches Anglia what **not** to become.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• The Pacific resists total maritime domination.
-• Geometry matters more than fleet size.
-• Alliances substitute for empire.
-• Control shifts from ownership to coordination.
-• The Pacific is Anglia’s adaptive ocean.
+• Anglia learns from the Mediterranean without belonging to it.
+• Roman collapse shapes Anglian restraint instincts.
+• Peripheral engagement preserves strategic freedom.
+• The Mediterranean is a cautionary archive.
+• Anglia's power grows by avoiding ancient traps.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–GEO–PACIFIC — v1.0
+END OF FILE — MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — v1.0
 ────────────────────────────────────────────────────────────

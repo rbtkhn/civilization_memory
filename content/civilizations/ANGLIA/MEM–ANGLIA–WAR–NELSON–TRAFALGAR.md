@@ -1,8 +1,10 @@
-MEM–ANGLIA–WAR–TRAFALGAR — v1.3
+MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: RENAME (WAR–TRAFALGAR → WAR–NELSON–TRAFALGAR)
 Civilization: ANGLIA
 Subject: Battle of Trafalgar (Maritime Irreversibility & System Lock-In)
 Dates: 21 October 1805 AD
@@ -12,7 +14,7 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Trafalgar as **Anglia’s naval point of no return**:
+This file preserves Trafalgar as **Anglia's naval point of no return**:
 the battle that irreversibly secured maritime supremacy and rendered
 continental invasion structurally impossible for the duration of the
 Napoleonic era.
@@ -29,9 +31,9 @@ II. STRATEGIC CONTEXT
 Trafalgar occurs under existential pressure.
 
 Context:
-• Napoleon’s planned cross-Channel invasion
+• Napoleon's planned cross-Channel invasion
 • Concentration of the Franco–Spanish fleet
-• Anglia’s survival dependence on sea denial
+• Anglia's survival dependence on sea denial
 • Continental dominance temporarily favoring France
 
 Strategic premise:
@@ -58,7 +60,7 @@ Rigid formation obedience is secondary to outcome.
 Naval culture functions as a **distributed decision engine**.
 
 ────────────────────────────────────────────────────────────
-IV. NELSON’S DOCTRINAL DISRUPTION
+IV. NELSON'S DOCTRINAL DISRUPTION
 ────────────────────────────────────────────────────────────
 Nelson deliberately violates orthodox line tactics.
 
@@ -82,7 +84,7 @@ Source:
 • Horatio Nelson, Signal before battle, 21 October 1805
 
 Verbatim Quote:
-“England expects that every man will do his duty.”
+"England expects that every man will do his duty."
 
 Context Function:
 This signal encodes Anglian command philosophy: duty is assumed,
@@ -98,7 +100,7 @@ Source:
 • Horatio Nelson, Letter to Admiral Collingwood, 1805
 
 Verbatim Quote:
-“No captain can do very wrong if he places his ship alongside that of an enemy.”
+"No captain can do very wrong if he places his ship alongside that of an enemy."
 
 Context Function:
 This statement formalizes decentralization as doctrine, legitimizing
@@ -109,7 +111,7 @@ Provenance Confidence: HIGH
 ────────────────────────────────────────────────────────────
 VI. DECISIVE OUTCOME
 ────────────────────────────────────────────────────────────
-The battle’s result is asymmetric and final.
+The battle's result is asymmetric and final.
 
 Outcomes:
 • Franco–Spanish fleet shattered
@@ -122,16 +124,16 @@ not feasible.
 
 Sea control shifts from contested to structural.
 
-Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain’s maritime dominance until Waterloo (ARC-T-MODERN) [ERC-SECONDARY].
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain's maritime dominance until Waterloo (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the Age of Revolution from Marlborough to Waterloo; Trafalgar is the naval turning point that makes Britain’s maritime supremacy structurally irreversible and closes the Napoleonic naval challenge.
+> Churchill's *The Age of Revolution* covers the Age of Revolution from Marlborough to Waterloo; Trafalgar is the naval turning point that makes Britain's maritime supremacy structurally irreversible and closes the Napoleonic naval challenge.
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 VII. DEATH & SYMBOLIC CONSOLIDATION
 ────────────────────────────────────────────────────────────
-Nelson’s death crystallizes meaning.
+Nelson's death crystallizes meaning.
 
 Effects:
 • Heroic sacrifice narrative
@@ -158,13 +160,17 @@ After Trafalgar:
 Anglia no longer fights for maritime survival.
 It fights from **maritime inevitability**.
 
-This locks strategic time in Anglia’s favor.
+This locks strategic time in Anglia's favor.
 
 ────────────────────────────────────────────────────────────
 IX. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
+• MEM–ANGLIA–WAR–NELSON–NILE  
+The Nile (1798) prefigures Trafalgar's doctrinal template: breaking the
+line, total destruction, delegated initiative. Same commander, same logic.
+
 • MEM–ANGLIA–WAR–NAPOLEON  
-Trafalgar removes Napoleon’s maritime option, forcing him into purely
+Trafalgar removes Napoleon's maritime option, forcing him into purely
 continental strategies with cumulative attritional consequences.
 
 • MEM–ANGLIA–WAR–CRIMEAN  
@@ -176,9 +182,9 @@ lagging continental powers.
 Trafalgar extends Channel-denial logic outward, transforming a local
 defensive moat into a global maritime perimeter.
 
-• MEM–ANGLIA–WAR–WATERLOO  
+• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO  
 Waterloo resolves the Napoleonic conflict on land, but only after
-Trafalgar ensures Anglia’s immunity from invasion throughout the war.
+Trafalgar ensures Anglia's immunity from invasion throughout the war.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
@@ -191,7 +197,7 @@ Lessons:
 • Institutions matter more than commanders.
 • Sea control converts uncertainty into certainty.
 
-Trafalgar is Anglia’s maritime seal.
+Trafalgar is Anglia's maritime seal.
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)
@@ -200,11 +206,11 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Decentralization works when institutions are strong.
 • Risk-taking is safest within mature systems.
 • Sea power converts time into strategic certainty.
-• Trafalgar completes Anglia’s ascent to maritime finality.
+• Trafalgar completes Anglia's ascent to maritime finality.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–TRAFALGAR v1.4
+END OF FILE — MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.5
 Word Count: ~830
 ────────────────────────────────────────────────────────────

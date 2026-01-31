@@ -172,7 +172,7 @@ Norman rule decisively replace with institutional authority.
 The plural legal environment created by Norman rule becomes the soil
 from which Common Law later emerges as a continuity mechanism.
 
-• MEM–ANGLIA–MAGNA–CARTA  
+• MEM–ANGLIA–LAW–MAGNA–CARTA  
 Magna Carta represents a later elite response to the hardened Norman
 crown, introducing constraint into the very system conquest created.
 

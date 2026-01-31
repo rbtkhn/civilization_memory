@@ -354,7 +354,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–LAW–NAPOLEONIC–CODE — legitimacy legacy
 
 Cross-civilizational:
-• MEM–ANGLIA–WAR–WATERLOO — Wellington perspective
+• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — Wellington perspective
 • MEM–GERMANIA–WAR–WATERLOO — Prussian perspective
 • MEM–GERMANIA–BLUCHER — Prussian commander
 

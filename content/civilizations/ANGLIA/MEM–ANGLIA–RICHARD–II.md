@@ -107,7 +107,7 @@ Internal (ANGLIA):
    — War-as-solvent for legitimacy deficit created by deposition.
 4) MEM–ANGLIA–ENGLAND
    — Gaunt’s “scepter’d isle” / “blessed plot” also integrated in ENGLAND MEM.
-5) MEM–ANGLIA–MAGNA–CARTA
+5) MEM–ANGLIA–LAW–MAGNA–CARTA
    — Constraint precedent; deposition extends the logic that kings can be bounded.
 
 Cross-Civilizational (structural parallel):

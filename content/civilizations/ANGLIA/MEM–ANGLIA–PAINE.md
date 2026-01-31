@@ -151,16 +151,16 @@ He becomes a reusable accelerant.
 ────────────────────────────────────────────────────────────
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–LOCKE  
+• MEM–ANGLIA–LIT–LOCKE  
 Paine radicalizes Locke’s consent theory into immediate moral demand.
 
-• MEM–ANGLIA–HUME  
+• MEM–ANGLIA–LIT–HUME  
 Hume explains why Paine’s absolutism is destabilizing to order.
 
-• MEM–ANGLIA–FEDERALIST–PAPERS  
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS  
 The Federalists are written partly to contain Painean simplification.
 
-• MEM–ANGLIA–WAR–YORKTOWN  
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN  
 Paine accelerates the conflict that Yorktown terminates procedurally.
 
 ────────────────────────────────────────────────────────────

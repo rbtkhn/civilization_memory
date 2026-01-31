@@ -211,7 +211,7 @@ Shows absolutist overextension confronted by coalition logic.
 • MEM–ANGLIA–WAR–HUNDRED–YEARS  
 Earlier failure contrasts with learned restraint.
 
-• MEM–ANGLIA–FEDERALIST–PAPERS  
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS  
 Parallel logic: containment through structure rather than will.
 
 ────────────────────────────────────────────────────────────
