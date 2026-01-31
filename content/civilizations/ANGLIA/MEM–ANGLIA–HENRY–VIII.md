@@ -1,9 +1,9 @@
-/// MEM–ANGLIA–HENRY–VIII — v1.2
+/// MEM–ANGLIA–HENRY–VIII — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE (Shakespeare *Henry VIII* — Wolsey’s fall, literary evidence)
+Version: 1.3
+Upgrade Type: ADDITIVE (Churchill Vol. 2 *The New World* — Break with Rome)
 Civilization: ANGLIA
 Regime / Mode: Tudor Monarchy
 Subject: Henry VIII
@@ -54,9 +54,11 @@ inherent sovereignty:
 This language is administrative, not theological. Sovereignty is
 asserted as a *property of the crown*, not as a matter of belief.
 
-Winston Churchill later treats this as a decisive moment when England
-“withdrew from the obedience of Rome without withdrawing from law,”
-highlighting that continuity of governance is the true stabilizer.
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), Ch. “The Break with Rome,” treats this as the decisive moment when England “withdrew from the obedience of Rome without withdrawing from law,” highlighting that continuity of governance is the true stabilizer (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The New World* (Vol. 2) (ARC-T-MODERN):
+> England withdrew from the obedience of Rome without withdrawing from law.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Ch. The Break with Rome (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. INSTITUTIONAL CONTINUITY THROUGH RUPTURE
@@ -246,5 +248,5 @@ This file is CANONICAL and compliant with:
 • Distinguished Scholar Rule (ANGLIA)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–HENRY–VIII — v1.2
+END OF FILE — MEM–ANGLIA–HENRY–VIII — v1.3
 ────────────────────────────────────────────────────────────

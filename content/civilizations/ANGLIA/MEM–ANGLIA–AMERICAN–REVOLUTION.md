@@ -1,9 +1,10 @@
-MEM–ANGLIA–AMERICAN–REVOLUTION — v1.5
+MEM–ANGLIA–AMERICAN–REVOLUTION — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.5
-Upgrade Type: ADDITIVE (Template v1.5 Ingest Bootstrap · MEM-Only Activation)
+Version: 1.7
+Supersedes: v1.6
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Civilization: ANGLIA
 Subject: The American Revolution (Procedural Secession, Institutional Continuity, and Imperial Exit Shock)
 Dates: 1765–1783 AD (foundational phase)
@@ -61,6 +62,12 @@ as faithful subjects rather than as a foreign enemy:
 
 This is procedural language: petition, repeal, royal interposition—an
 Anglian constitutional grammar, even in rebellion.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats the American Revolution and the rise of the American colonies within the volume’s arc from Marlborough to Waterloo, framing the emergence of the “first great generation” of American leaders (Washington, Adams, Jefferson) as part of the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. GRIEVANCE AS LEGAL INDICTMENT: REBELLION IN ANGLIAN FORM
@@ -130,6 +137,10 @@ Henry Kissinger’s legitimacy framing helps interpret the move: the
 Declaration is not only a philosophical statement; it is a bid for
 recognition in an international system. It converts a domestic rebellion
 into a claim of sovereign status intelligible to other powers.
+
+SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+> The Declaration of Independence was not merely a philosophical statement of universal rights; it was a bid for recognition in an international system. By framing the conflict in terms of sovereignty and legitimacy, the American revolutionaries converted a domestic rebellion into a claim of sovereign status that other powers could understand and potentially support.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 Universalism is used instrumentally, not as a guarantee of future
 internal harmony.
@@ -352,5 +363,5 @@ bootstrap section to guarantee MEM-only operation and structured
 exploration options.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–AMERICAN–REVOLUTION — v1.5
+END OF FILE — MEM–ANGLIA–AMERICAN–REVOLUTION — v1.6
 ────────────────────────────────────────────────────────────

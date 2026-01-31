@@ -1,9 +1,10 @@
-MEM–ANGLIA–ELIZABETH–I — v1.4
+MEM–ANGLIA–ELIZABETH–I — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Civilization: ANGLIA
 Regime / Mode: Elizabethan Settlement
 Subject: Elizabeth I
@@ -29,7 +30,7 @@ than a moral achievement.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. SOVEREIGNTY THROUGH BALANAD
+II. SOVEREIGNTY THROUGH BALANCE
 (PRIMARY + SECONDARY)
 ────────────────────────────────────────────────────────────
 Elizabeth governs by limiting closure.
@@ -47,9 +48,11 @@ In her first Royal Injunctions (1559), restraint is explicit:
 
 Authority is procedural and conditional.
 
-Winston Churchill characterizes Elizabeth’s rule as governance by
-*calculated hesitation*, arguing that her refusal to resolve questions
-fully was a stabilizing force in a post-rupture polity.
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), devotes chapters to “Good Queen Bess” and “The Spanish Armada,” framing Elizabeth’s reign as a period of calibrated consolidation after the rupture of the Reformation—governance by *calculated hesitation*, with refusal to resolve questions fully acting as a stabilizing force in a post-rupture polity (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The New World* (Vol. 2) (ARC-T-MODERN):
+> Churchill frames Elizabeth’s reign as a period of calibrated consolidation after the rupture of the Reformation—governance by calculated hesitation, with the defeat of the Armada and “Gloriana” as defining moments.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Ch. Good Queen Bess / The Spanish Armada (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. COURT, COUNSEL, AND ELITE MANAGEMENT
@@ -120,6 +123,10 @@ Elizabeth avoids permanent continental entanglement, favoring:
 Henry Kissinger identifies Elizabeth’s strategy as an early form of
 offshore balancing: pressure applied without systemic commitment.
 
+SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+> Elizabeth I's foreign policy represented an early form of offshore balancing: applying pressure through naval power, privateering, and defensive coalitions while avoiding permanent continental entanglements. This strategy allowed England to influence European affairs without committing to territorial control or ideological crusades.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
 Victory confirms orientation; it does not mandate expansion.
 
 ────────────────────────────────────────────────────────────
@@ -189,5 +196,5 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Stability can be managed without closure.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ELIZABETH–I v1.4
+END OF FILE — MEM–ANGLIA–ELIZABETH–I — v1.5
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–ANGLIA–WAR–SPANISH–SUCCESSION — v1.4
+MEM–ANGLIA–WAR–SPANISH–SUCCESSION — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: HARDENED SOURCE INTEGRATION & COALITION ANALYSIS
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: HARDENED SOURCE INTEGRATION & COALITION ANALYSIS · Churchill Vol. 3 (*The Age of Revolution*)
 Civilization: ANGLIA
 Subject: War of the Spanish Succession (Coalition Management & System Containment)
 Dates: 1701–1714 AD
@@ -121,6 +122,12 @@ against overreach:
 David Chandler emphasizes that Marlborough’s genius lay as much in
 **knowing when not to press** as in winning battles.
 
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), opens the volume with Marlborough’s 1704 campaign at Blenheim in support of William of Orange and the Grand Alliance, framing the War of the Spanish Succession and the Treaty of Utrecht as the period in which Britain rises to world leadership through coalition warfare and financial endurance (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* begins with Marlborough’s victorious 1704 campaign at Blenheim and traces the Spanish and Austrian Successions, the Treaty of Utrecht, and Britain’s emergence as system manager—coalition warfare and settlement as method.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
 Land victory supports coalition morale; it does not substitute for
 systemic endurance.
 
@@ -192,6 +199,9 @@ Shows procedural empire scaling from this model.
 • MEM–ANGLIA–PITT–ELDER  
 Later articulates lessons learned here.
 
+• MEM–ANGLIA–MARLBOROUGH  
+Person MEM: Marlborough as coalition-system commander; Blenheim, restraint, Utrecht.
+
 • MEM–FRANCIA–WAR–SPANISH–SUCCESSION  
 Contrasting memory encodes humiliation and loss of initiative.
 
@@ -239,5 +249,5 @@ D. Is prevention morally or strategically preferable to reversal?
 Student choice determines analytical progression.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–SPANISH–SUCCESSION v1.4
+END OF FILE — MEM–ANGLIA–WAR–SPANISH–SUCCESSION v1.5
 ────────────────────────────────────────────────────────────

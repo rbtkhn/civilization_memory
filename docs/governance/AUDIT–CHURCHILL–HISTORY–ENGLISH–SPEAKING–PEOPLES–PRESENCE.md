@@ -1,7 +1,7 @@
 # AUDIT — Winston Churchill, *A History of the English-Speaking Peoples* — Presence Throughout Repository
 
 **Date:** 2026-01-30  
-**Scope:** Winston Churchill, *A History of the English-Speaking Peoples* (1956–1958)  
+**Scope:** Winston Churchill, *A History of the English-Speaking Peoples* (1956–1958), **Vol. 1 (*The Birth of Britain*)**, **Vol. 2 (*The New World*)**, **Vol. 3 (*The Age of Revolution*)**, and **Vol. 4 (*The Great Democracies*)** (proposed for integration; see PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL3–AGE–OF–REVOLUTION, PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES).  
 **Purpose:** Map presence in ARC, MEM, CORE, and index; flag attribution errors and citation gaps
 
 ---
@@ -79,6 +79,12 @@ No false positives: “English People” in GERMANIA MEMs refers to Bede’s *Ec
 Full title: *A History of the English-Speaking Peoples* (4 vols., 1956–1958).  
 Some MEMs use “*History of the English-Speaking Peoples*” or “*A History of the English-Speaking Peoples*”; both are acceptable. No mandatory normalization.
 
+**Volumes:**  
+- **Vol. 1:** *The Birth of Britain* (to 1485) — **cited** in multiple Anglia MEMs (ALFRED, WILLIAM–CONQUEROR, MAGNA–CARTA, COMMON–LAW, HENRY–V, EDWARD–I, WAR–BANNOCKBURN, LAW–PARLIAMENT, etc.).  
+- **Vol. 2:** *The New World* (1485–1688) — **cited** in MEM–ANGLIA–HENRY–VIII (v1.3), MEM–ANGLIA–ELIZABETH–I (v1.5), MEM–ANGLIA–WAR–ENGLISH–CIVIL (v1.2), MEM–ANGLIA–DYNASTY–STUART (v1.2). Covers Tudors, Reformation, Elizabeth, Armada, Civil War, Cromwell, Restoration, 1688. See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL2–NEW–WORLD** for full mapping.  
+- **Vol. 3:** *The Age of Revolution* (c. 1688–1815) — **cited** in MEM–ANGLIA–MARLBOROUGH (v1.0), MEM–ANGLIA–WAR–SPANISH–SUCCESSION (v1.5), WAR–AMERICAN–INDEPENDENCE (v1.2), AMERICAN–REVOLUTION (v1.6), WASHINGTON (v1.1), JEFFERSON (v1.1), PITT–YOUNGER (v1.5), NELSON (v1.5), WAR–TRAFALGAR (v1.4), WELLINGTON (v1.5), WAR–WATERLOO (v1.1), WAR–NAPOLEON (v1.1), BURKE (v1.1), WAR–SEVEN–YEARS (v1.5), DYNASTY–HANOVER (v1.1). See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL3–AGE–OF–REVOLUTION** for mapping and optional MEMs (TREATY–UTRECHT, REVOLUTION–FRENCH).
+- **Vol. 4:** *The Great Democracies* (c. 1815–1901) — **cited**. Phase 1: VICTORIA, BRITISH–EMPIRE, WAR–AMERICAN–CIVIL, LINCOLN, GRANT, WAR–GETTYSBURG, WAR–VICKSBURG, WAR–APPOMATTOX, EMANCIPATION–PROCLAMATION, AFRICAN–SLAVERY, UNITED–STATES–AMERICA, CANADA, SOUTH–AFRICA, AUSTRALIA, NEW–ZEALAND, WAR–CRIMEAN, DYNASTY–HANOVER, IRELAND. Phase 2 (new MEMs): MEM–ANGLIA–WAR–BOER, MEM–ANGLIA–PALMERSTON, MEM–ANGLIA–GLADSTONE, MEM–ANGLIA–DISRAELI. See **PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES**.
+
 ---
 
 ## VII. RECOMMENDED FIXES
@@ -102,4 +108,4 @@ Some MEMs use “*History of the English-Speaking Peoples*” or “*A History o
 
 ---
 
-**END OF AUDIT — Churchill, *A History of the English-Speaking Peoples***
+**END OF AUDIT — Churchill, *A History of the English-Speaking Peoples* (Vol. 1, Vol. 2, Vol. 3, Vol. 4 in scope)**

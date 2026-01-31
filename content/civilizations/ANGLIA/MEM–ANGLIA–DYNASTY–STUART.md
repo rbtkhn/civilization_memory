@@ -1,10 +1,9 @@
-MEM–ANGLIA–DYNASTY–STUART — v1.1
+MEM–ANGLIA–DYNASTY–STUART — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · HEALEY THE BLAZING WORLD INTEGRATION
+Version: 1.2
+Upgrade Type: ADDITIVE (Churchill Vol. 2 *The New World* — Restoration, Revolution of 1688)
 Civilization: ANGLIA
 Regime Type: PERSONAL MONARCHY / CONSTITUTIONAL STRESS
 Subject: House of Stuart
@@ -98,6 +97,12 @@ Restoration (1660):
 
 Monarchy survived—but transformed.
 
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), Book VI (“The Restoration”), devotes chapters to “The English Republic,” “The Lord Protector,” “The Restoration,” “The Merry Monarch,” “Whig and Tory,” “The Catholic King,” and “The Revolution of 1688”—framing the Restoration and the Glorious Revolution as the period in which Parliament’s supremacy and constitutional monarchy are consolidated (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The New World* (Vol. 2), Book VI (ARC-T-MODERN):
+> Churchill’s Book VI traces the English Republic, the Lord Protector, the Restoration, the Merry Monarch, Whig and Tory, the Catholic King, and the Revolution of 1688—the period in which Parliament’s supremacy and constitutional monarchy are consolidated.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Book VI (ARC-T-MODERN) [ERC-SECONDARY]
+
 ────────────────────────────────────────────────────────────
 VII. GLORIOUS REVOLUTION & TERMINATION
 ────────────────────────────────────────────────────────────
@@ -128,5 +133,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DYNASTY–STUART v1.1
+END OF FILE — MEM–ANGLIA–DYNASTY–STUART — v1.2
 ────────────────────────────────────────────────────────────

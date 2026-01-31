@@ -2,7 +2,9 @@ MEM–ANGLIA–LINCOLN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Abraham Lincoln
 Dates: 1809–1865 AD
@@ -35,6 +37,12 @@ Context:
 
 The crisis is not rebellion alone.
 It is procedural self-negation.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), devotes "The Great Republic" section to Lincoln and the severest test of American institutions—the Civil War as the moment when the republic proves it can survive internal rupture through procedure and force (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers Slavery and Secession, Union in Danger, and Victory of the Union—Lincoln's presidency as the preservation of the procedural republic through total war.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURE OVER CONSENT
@@ -130,5 +138,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LINCOLN — v1.0
+END OF FILE — MEM–ANGLIA–LINCOLN — v1.1
 ────────────────────────────────────────────────────────────

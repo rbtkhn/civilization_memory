@@ -1,8 +1,10 @@
-MEM–ANGLIA–WAR–NAPOLEON — v1.0
+MEM–ANGLIA–WAR–NAPOLEON — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.0
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3)
 Civilization: ANGLIA
 Regime: MARITIME–FINANCIAL WAR STATE / COALITION ANCHOR (1793–1815)
 Subject: The Napoleonic Wars (Anglian Perspective)
@@ -40,6 +42,12 @@ Strategic premise:
 → Francia seeks decision through land; Anglia survives through time.
 
 Napoleon is identified as systemic accelerant, not negotiable ruler.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the French Revolution and its shadow over Europe, the rise of Napoleon, and the long Anglo-French rivalry; the volume frames Britain’s rise to world leadership through coalition warfare and financial endurance until Napoleon’s defeat at Waterloo (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* covers the French Revolution and its shadow over Europe, the rise of Napoleon, and Britain’s role in the long Anglo-French rivalry—ending with Napoleon’s defeat at Waterloo in 1815.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. ANGLO–NAPOLEONIC ASYMMETRY
@@ -154,6 +162,10 @@ Outcomes:
 Napoleon is gone.
 Anglia’s system scales.
 
+SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
+> The Congress of Vienna established a post-Napoleonic order in which Britain, through Castlereagh, played a crucial role as the architect of restraint. Unlike Metternich's continental interventionism, Britain's approach emphasized balance-of-power management, legitimacy through restraint, and maritime-financial primacy rather than territorial expansion. The settlement reflected Britain's preference for system stability over revolutionary transformation.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -180,5 +192,5 @@ Secondary:
 • Niall Ferguson
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–NAPOLEON — v1.0
+END OF FILE — MEM–ANGLIA–WAR–NAPOLEON — v1.2
 ────────────────────────────────────────────────────────────

@@ -2,7 +2,9 @@ MEM–ANGLIA–NEW–ZEALAND — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: New Zealand (Treaty State, Moral Procedure, and Legitimacy Experiment)
 Dates: 1840 AD–present
@@ -21,6 +23,12 @@ New Zealand is Anglia **with consent as a founding variable**.
 
 Contradictions are preserved without synthesis.
 
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats New Zealand within "Recovery and Reform" section—"Migration of the Peoples"—framing New Zealand as Anglia's treaty-based legitimacy experiment where procedural authority is negotiated with indigenous population (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "Recovery and Reform" section covers Migration of the Peoples—New Zealand as Anglia's treaty-based legitimacy experiment, where Anglian procedural authority is explicitly negotiated through formal agreement rather than imposed solely by settlement.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section I: Recovery and Reform / Migration of the Peoples (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
 ────────────────────────────────────────────────────────────
 II. FOUNDING THROUGH TREATY
 ────────────────────────────────────────────────────────────
@@ -34,6 +42,12 @@ Context:
 Sovereignty is asserted—but framed contractually.
 
 Legitimacy is declared through agreement.
+
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames New Zealand within the broader pattern of British emigration and settlement—the "white plague" that populated North America, Australia, New Zealand, and South Africa with British subjects, creating dominions that would later evolve into self-governing states while retaining procedural and cultural links to the metropole (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The British Empire was built not only by conquest and administration, but by emigration—the voluntary and involuntary movement of millions of British subjects across the globe. Canada, Australia, New Zealand, and South Africa became "white dominions" through settlement, creating societies that replicated British institutions, law, and governance while adapting to local conditions. This emigration, which Ferguson terms the "white plague," transformed empty or sparsely populated territories into extensions of British civilization, establishing the foundation for what would become the Commonwealth.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 2: White Plague (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURE WITH MORAL CLAIM
@@ -129,5 +143,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–NEW–ZEALAND — v1.0
+END OF FILE — MEM–ANGLIA–NEW–ZEALAND — v1.2
 ────────────────────────────────────────────────────────────

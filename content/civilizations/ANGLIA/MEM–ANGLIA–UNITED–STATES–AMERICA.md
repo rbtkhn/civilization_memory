@@ -2,7 +2,9 @@ MEM–ANGLIA–UNITED–STATES–AMERICA — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: United States of America (Externalized Core, Procedural Heir, and Scale Amplifier)
 Dates: 1776 AD–present
@@ -140,5 +142,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–UNITED–STATES–AMERICA — v1.0
+END OF FILE — MEM–ANGLIA–UNITED–STATES–AMERICA — v1.1
 ────────────────────────────────────────────────────────────

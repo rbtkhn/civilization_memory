@@ -2,7 +2,9 @@ MEM–ANGLIA–WAR–WATERLOO — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3)
 Civilization: ANGLIA
 Subject: Battle of Waterloo
 Dates: 1815 AD
@@ -82,6 +84,16 @@ Anglia does not mythologize the field.
 The objective is not annihilation,
 but finality.
 
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), closes the volume with Napoleon’s defeat at Waterloo, framing it as the endpoint of the Age of Revolution and the confirmation of Britain’s coalition-and-endurance method (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* begins with Marlborough’s Blenheim and ends with Napoleon’s defeat at Waterloo—the volume tells the story of Britain’s rise to world leadership through the long Anglo-French rivalry and the Napoleonic Wars.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
+SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
+> Waterloo marked the terminal containment of Napoleon, but the Vienna settlement that followed reflected Britain's restraint under Castlereagh. Unlike Metternich's continental interventionism, Britain's approach emphasized balance-of-power management and diplomatic restraint, shaping a post-Napoleonic order that reflected Britain's preference for system stability over revolutionary transformation.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
 ────────────────────────────────────────────────────────────
 VI. LEGITIMACY UNAFFECTED BY OUTCOME
 ────────────────────────────────────────────────────────────
@@ -137,5 +149,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–WATERLOO — v1.0
+END OF FILE — MEM–ANGLIA–WAR–WATERLOO — v1.1
 ────────────────────────────────────────────────────────────

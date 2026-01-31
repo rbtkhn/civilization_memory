@@ -2,7 +2,9 @@ MEM–ANGLIA–AFRICAN–SLAVERY — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: African Slavery (Imperial Contradiction, Systemic Utility, Moral Rupture)
 Dates: 17th century–19th century AD
@@ -119,5 +121,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–AFRICAN–SLAVERY — v1.0
+END OF FILE — MEM–ANGLIA–AFRICAN–SLAVERY — v1.1
 ────────────────────────────────────────────────────────────

@@ -2,7 +2,9 @@ MEM–ANGLIA–WAR–AMERICAN–CIVIL — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: American Civil War (Procedural Union vs Internal Secession)
 Dates: 1861–1865 AD
@@ -53,6 +55,12 @@ For Anglia’s grammar, this poses a paradox:
 Can procedure authorize its own dissolution?
 
 The system confronts its edge case.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), devotes "The Great Republic" section to the American Civil War—slavery and secession, Union in danger, campaigns (Richmond, Chancellorsville, Gettysburg), and Victory of the Union—framing the war as the severest test of American institutions and the moment when the English-speaking republic proves it can survive internal rupture through procedure and force (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers the American Epic, Slavery and Secession, Union in Danger, campaigns (Richmond, Lee and McClellan, Chancellorsville and Gettysburg), and Victory of the Union.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 IV. UNION WAR LOGIC & LEGITIMACY FRAME

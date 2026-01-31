@@ -2,9 +2,9 @@ MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION · Churchill Vol. 3 (*The Age of Revolution*)
 Civilization: ANGLIA
 Regime: IMPERIAL–PROCEDURAL STRAIN / CONTROLLED LOSS (1775–1783)
 Subject: War of American Independence (Anglian Perspective)
@@ -45,6 +45,12 @@ SOURCE — Anderson, *Crucible of War* (ARC-T-MODERN):
 > metropolis to control, even under the best of circumstances, and the
 > war created circumstances of the least favorable sort for Whitehall.
 > — Fred Anderson, *Crucible of War* (2000) (ARC-T-MODERN) [ERC-SECONDARY]
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats the American War of Independence and the rise of the American colonies within the volume’s arc from Marlborough to Waterloo, framing the loss of the colonies and the emergence of the “first great generation” of American leaders (Washington, Adams, Jefferson) as part of the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples from Blenheim to Waterloo.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. ASYMMETRIC LEGITIMACY CONFLICT
@@ -131,5 +137,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.0
+END OF FILE — MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.2
 ────────────────────────────────────────────────────────────

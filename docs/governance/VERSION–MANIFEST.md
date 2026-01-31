@@ -120,7 +120,7 @@ ANGLIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v0.7    │ Active        │
-│ CIV–INDEX–ANGLIA            │ v1.11   │ Active        │
+│ CIV–INDEX–ANGLIA            │ v1.20   │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
 │ CIV–ARC–ANGLIA              │ v1.2    │ Active        │
@@ -154,6 +154,101 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-30 (ANGLIA — Kissinger integration Phases 1-5, INDEX v1.20):
+• MEM–ANGLIA–BRITISH–EMPIRE: v1.8 → v1.9 (Kissinger SOURCE block upgrade)
+• MEM–ANGLIA–PITT–YOUNGER: v1.6 → v1.7 (Kissinger SOURCE block)
+• MEM–ANGLIA–WELLINGTON: v1.5 → v1.6 (Kissinger SOURCE block)
+• MEM–ANGLIA–AMERICAN–REVOLUTION: v1.6 → v1.7 (Kissinger SOURCE block)
+• MEM–ANGLIA–ELIZABETH–I: v1.5 → v1.6 (Kissinger SOURCE block)
+• MEM–ANGLIA–HENRY–V: v1.3 → v1.4 (Kissinger SOURCE block)
+• MEM–ANGLIA–WAR–1812: v1.4 → v1.5 (Kissinger SOURCE block)
+• MEM–ANGLIA–PITT–ELDER: v1.4 → v1.5 (Kissinger SOURCE block)
+• MEM–ANGLIA–FEDERALIST–PAPERS: v1.4 → v1.5 (Kissinger SOURCE block)
+• MEM–ANGLIA–ATHELSTAN: v1.5 → v1.6 (Kissinger SOURCE block)
+• MEM–ANGLIA–WAR–NAPOLEON: v1.2 → v1.3 (Kissinger SOURCE block)
+• MEM–ANGLIA–DYNASTY–HANOVER: v1.2 → v1.3 (Kissinger SOURCE block)
+• MEM–ANGLIA–PALMERSTON: v1.0 → v1.1 (Kissinger SOURCE block)
+• MEM–ANGLIA–WAR–SEVEN–YEARS: v1.6 → v1.7 (Kissinger SOURCE block)
+• MEM–ANGLIA–WAR–WATERLOO: v1.1 → v1.2 (Kissinger SOURCE block)
+• MEM–ANGLIA–CASTLEREAGH: v1.0 created (Kissinger *A World Restored* primary SOURCE)
+• CIV–INDEX–ANGLIA: v1.19 → v1.20 (Kissinger integration Phases 1-5)
+• PROPOSAL–ANGLIA–MEM–KISSINGER–DIPLOMACY: status → Phases 1-5 complete
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.19 → v1.20
+
+2026-01-30 (ANGLIA — GEO–SUEZ–CANAL, RHODES, WILBERFORCE, INDEX v1.19):
+• MEM–ANGLIA–GEO–SUEZ–CANAL: v1.0 created (Ferguson *Empire*; imperial lifeline, strategic chokepoint, Disraeli 1875)
+• MEM–ANGLIA–RHODES: v1.0 created (Ferguson *Empire*; diamond king, Cape PM, BSAC, Jameson Raid)
+• MEM–ANGLIA–WILBERFORCE: v1.0 created (Ferguson *Empire*; abolition, moral imperialism)
+• CIV–INDEX–ANGLIA: v1.18 → v1.19 (three new MEMs)
+• VERSION–MANIFEST: ANGLIA table v1.18 → v1.19
+
+2026-01-30 (ANGLIA — Ferguson *Empire* integration Phase 3+4, INDEX v1.18):
+• MEM–ANGLIA–INDIA: v1.0 → v1.1 (Ferguson SOURCE: India as "jewel in the crown," Company to Raj transition, extraction vs. governance)
+• MEM–ANGLIA–WAR–SEVEN–YEARS: v1.5 → v1.6 (Ferguson SOURCE: Seven Years' War as imperial pivot, global reach, maritime-financial victory)
+• MEM–ANGLIA–WAR–BOER: v1.0 → v1.1 (Ferguson SOURCE: Maxim gun, late imperial coercion, Victorian zenith stress)
+• MEM–ANGLIA–WAR–NAPOLEON: v1.1 → v1.2 (Ferguson SOURCE: fiscal-naval strategy, public credit, prolonged war, maritime supremacy)
+• MEM–ANGLIA–PITT–YOUNGER: v1.5 → v1.6 (Ferguson SOURCE: public credit, fiscal-naval strategy, financial stability)
+• CIV–INDEX–ANGLIA: v1.17 → v1.18 (Ferguson *Empire* Phase 3+4: 5 MEMs updated)
+• PROPOSAL–ANGLIA–MEM–FERGUSON–EMPIRE: status → PARTIALLY IMPLEMENTED (Phase 1+2+3+4 complete)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.17 → v1.18
+
+2026-01-30 (ANGLIA — Ferguson *Empire* integration Phase 1+2, INDEX v1.17):
+• MEM–ANGLIA–BRITISH–EMPIRE: v1.7 → v1.8 (Ferguson SOURCE: indirect rule, maritime-financial foundation, WWI/II breaking point)
+• MEM–ANGLIA–VICTORIA: v1.5 → v1.6 (Ferguson SOURCE: Victoria as symbolic monarch, empire inseparable from crown, Victorian zenith)
+• MEM–ANGLIA–CANADA: v1.2 → v1.3 (Ferguson SOURCE: emigration, settlement, "white plague," dominion formation)
+• MEM–ANGLIA–AUSTRALIA: v1.1 → v1.2 (Ferguson SOURCE: emigration, settlement, "white plague," dominion formation)
+• MEM–ANGLIA–NEW–ZEALAND: v1.1 → v1.2 (Ferguson SOURCE: emigration, settlement, "white plague," dominion formation)
+• MEM–ANGLIA–SOUTH–AFRICA: v1.4 → v1.5 (Ferguson SOURCE: emigration, settlement, "white plague," dominion formation)
+• CIV–INDEX–ANGLIA: v1.16 → v1.17 (Ferguson *Empire* Phase 1+2: 6 MEMs updated)
+• PROPOSAL–ANGLIA–MEM–FERGUSON–EMPIRE: status → PARTIALLY IMPLEMENTED (Phase 1+2 complete)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.16 → v1.17
+
+2026-01-30 (ANGLIA — Churchill Vol. 4 Phase 2, INDEX v1.16):
+• MEM–ANGLIA–WAR–BOER: v1.0 created (Churchill Vol. 4; South African War, close of *The Great Democracies*)
+• MEM–ANGLIA–PALMERSTON: v1.0 created (Churchill Vol. 4; Recovery and Reform, mid-Victorian foreign policy)
+• MEM–ANGLIA–GLADSTONE: v1.0 created (Churchill Vol. 4; The Victorian Age, Gladstone and Disraeli, Ireland, Home Rule)
+• MEM–ANGLIA–DISRAELI: v1.0 created (Churchill Vol. 4; The Victorian Age, Gladstone and Disraeli, empire, Eastern Question)
+• CIV–INDEX–ANGLIA: v1.15 → v1.16 (four new MEMs: WAR–BOER under C; DISRAELI, GLADSTONE, PALMERSTON under G)
+• PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES: Phase 2 complete (WAR–BOER, PALMERSTON, GLADSTONE, DISRAELI)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.15 → v1.16
+
+2026-01-30 (ANGLIA — Churchill Vol. 4 *The Great Democracies* integration, INDEX v1.15):
+• Churchill Vol. 4 SOURCE blocks added: MEM–ANGLIA–WAR–GETTYSBURG v1.4, WAR–VICKSBURG v1.4, WAR–APPOMATTOX v1.4, EMANCIPATION–PROCLAMATION v1.1, AFRICAN–SLAVERY v1.1, UNITED–STATES–AMERICA v1.1, CANADA v1.2, SOUTH–AFRICA v1.4, AUSTRALIA v1.1, NEW–ZEALAND v1.1, WAR–CRIMEAN v1.1, DYNASTY–HANOVER v1.2, IRELAND v1.1
+• CIV–INDEX–ANGLIA: v1.14 → v1.15 (Churchill Vol. 4 Phase 1; 18 MEMs updated)
+• PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL4–GREAT–DEMOCRACIES: status → PARTIALLY IMPLEMENTED (Phase 1 existing MEMs)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.14 → v1.15
+
+2026-01-30 (ANGLIA — ADAMS, CLIVE, WILLIAM–III, INDEX v1.14):
+• MEM–ANGLIA–ADAMS: v1.0 created (Churchill Vol. 3; first great generation with Washington, Jefferson; lawyer, diplomat, president)
+• MEM–ANGLIA–CLIVE: v1.0 created (Churchill Vol. 3; Seven Years’ War, India, Plassey; Company ascendancy)
+• MEM–ANGLIA–WILLIAM–III: v1.0 created (Churchill Vol. 3; 1688, Blenheim “in support of William of Orange”; bridge Vol. 2–Vol. 3)
+• CIV–INDEX–ANGLIA: v1.13 → v1.14 (three PERSON MEMs under G)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.13 → v1.14
+
+2026-01-30 (ANGLIA — Churchill Vol. 3 *The Age of Revolution* integration, INDEX v1.13):
+• MEM–ANGLIA–MARLBOROUGH: v1.0 created (file was indexed, missing; Churchill Vol. 3 SOURCE: Blenheim, coalition warfare, William of Orange)
+• Churchill Vol. 3 SOURCE blocks added: MEM–ANGLIA–WAR–SPANISH–SUCCESSION v1.5, WAR–AMERICAN–INDEPENDENCE v1.2, AMERICAN–REVOLUTION v1.6, WASHINGTON v1.1, JEFFERSON v1.1, PITT–YOUNGER v1.5, NELSON v1.5, WAR–TRAFALGAR v1.4, WELLINGTON v1.5, WAR–WATERLOO v1.1, WAR–NAPOLEON v1.1, BURKE v1.1, WAR–SEVEN–YEARS v1.5, DYNASTY–HANOVER v1.1
+• CIV–INDEX–ANGLIA: v1.12 → v1.13 (Churchill Vol. 3 integrations; MARLBOROUGH file now present)
+• PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL3–AGE–OF–REVOLUTION: status → PARTIALLY IMPLEMENTED (Phase 1 + MARLBOROUGH)
+• AUDIT–CHURCHILL–HISTORY–ENGLISH–SPEAKING–PEOPLES–PRESENCE: Vol. 3 now cited in 15 MEMs
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.12 → v1.13
+
+2026-01-30 (ANGLIA — JAMES–II, JAMES–I, CHARLES–I, WAR–SPANISH–ARMADA, INDEX v1.12):
+• MEM–ANGLIA–JAMES–II: v1.0 created (Churchill Vol. 2 *The New World*; Catholic King, Revolution of 1688)
+• MEM–ANGLIA–JAMES–I: v1.0 created (Churchill Vol. 2; United Crowns, James VI & I)
+• MEM–ANGLIA–CHARLES–I: v1.0 created (Churchill Vol. 2; Personal Rule, Revolt of Parliament, Axe Falls)
+• MEM–ANGLIA–WAR–SPANISH–ARMADA: v1.0 created (Churchill Vol. 2; The Spanish Armada, 1588)
+• CIV–INDEX–ANGLIA: v1.11 → v1.12 (four MEMs: WAR–SPANISH–ARMADA under C; CHARLES–I, JAMES–I, JAMES–II under G)
+• VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.11 → v1.12
+
+2026-01-30 (ANGLIA — Churchill Vol. 2 *The New World* integration):
+• MEM–ANGLIA–HENRY–VIII: v1.2 → v1.3 (Churchill Vol. 2 SOURCE: “withdrew from the obedience of Rome without withdrawing from law,” Ch. The Break with Rome)
+• MEM–ANGLIA–ELIZABETH–I: v1.4 → v1.5 (Churchill Vol. 2 SOURCE: Good Queen Bess, Spanish Armada, Gloriana; fix BALANAD → BALANCE)
+• MEM–ANGLIA–WAR–ENGLISH–CIVIL: v1.1 → v1.2 (Churchill Vol. 2 SOURCE: Book V The Civil War)
+• MEM–ANGLIA–DYNASTY–STUART: v1.1 → v1.2 (Churchill Vol. 2 SOURCE: Book VI The Restoration, Revolution of 1688)
+• PROPOSAL–ANGLIA–MEM–CHURCHILL–VOL2–NEW–WORLD: status → PARTIALLY IMPLEMENTED
+• AUDIT–CHURCHILL–HISTORY–ENGLISH–SPEAKING–PEOPLES–PRESENCE: Vol. 2 now cited in four MEMs
 
 2026-01-30 (ANGLIA — RICHARD–II, RICHARD–III, HENRY–IV, HENRY–VI, INDEX v1.11):
 • MEM–ANGLIA–RICHARD–II: v1.0 created (Shakespeare *Richard II*; deposition, Gaunt “blessed plot” / “shameful conquest,” “death of kings”)

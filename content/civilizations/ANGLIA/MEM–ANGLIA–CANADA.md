@@ -1,10 +1,10 @@
-MEM–ANGLIA–CANADA — v1.1
+MEM–ANGLIA–CANADA — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Ferguson *Empire* expansion (emigration, settlement, dominion formation)
 Civilization: ANGLIA
 Subject: Canada (Procedural Continuity State, Loyalist Absorber, and Managed Autonomy Model)
 Dates: 1763 AD–present
@@ -45,6 +45,12 @@ Context:
 Canada forms as Anglia’s institutional refuge.
 
 Order is preferred to assertion.
+
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Canada within the broader pattern of British emigration and settlement—the "white plague" that populated North America, Australia, New Zealand, and South Africa with British subjects, creating dominions that would later evolve into self-governing states while retaining procedural and cultural links to the metropole (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The British Empire was built not only by conquest and administration, but by emigration—the voluntary and involuntary movement of millions of British subjects across the globe. Canada, Australia, New Zealand, and South Africa became "white dominions" through settlement, creating societies that replicated British institutions, law, and governance while adapting to local conditions. This emigration, which Ferguson terms the "white plague," transformed empty or sparsely populated territories into extensions of British civilization, establishing the foundation for what would become the Commonwealth.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 2: White Plague (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURAL ADAPTATION WITHOUT RUPTURE
@@ -140,5 +146,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–CANADA — v1.0
+END OF FILE — MEM–ANGLIA–CANADA — v1.3
 ────────────────────────────────────────────────────────────

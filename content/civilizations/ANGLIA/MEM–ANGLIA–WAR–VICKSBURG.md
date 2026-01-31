@@ -2,7 +2,9 @@ MEM–ANGLIA–WAR–VICKSBURG — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Vicksburg (Logistical Severance & Inland Maritime Control)
 Dates: May 18–July 4, 1863 AD
@@ -37,6 +39,12 @@ If it falls, the Confederate system is severed.
 
 For Anglian-derived strategy, this presents a familiar logic:
 **control the chokepoint; the system follows**.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Vicksburg within "The Great Republic" section—"Victory of the Union"—framing the campaign as the systemic severance that makes Confederate defeat inevitable (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers Victory of the Union—Vicksburg as the campaign that severed Confederate logistics and made defeat structurally inevitable.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CHARACTER
@@ -175,6 +183,6 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–VICKSBURG v1.3
+END OF FILE — MEM–ANGLIA–WAR–VICKSBURG — v1.4
 Word Count: ~820
 ────────────────────────────────────────────────────────────

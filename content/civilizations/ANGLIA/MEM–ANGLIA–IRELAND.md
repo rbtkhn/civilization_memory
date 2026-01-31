@@ -2,7 +2,9 @@ MEM–ANGLIA–IRELAND — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Ireland (Unresolved Periphery, Legitimacy Stressor, and Persistent Friction)
 Dates: Medieval era–present
@@ -20,6 +22,12 @@ grammar.
 Ireland is near—but never settled.
 
 Contradictions are preserved without synthesis.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Ireland within "The Victorian Age" section—"Home Rule for Ireland"—framing the Home Rule debates as Anglia's persistent struggle with unresolved internal frontier, where procedural legitimacy fails to overcome cultural-religious divergence (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Victorian Age" section covers Home Rule for Ireland—Anglia's repeated attempts to resolve the Irish question through procedure, yet never fully harmonizing Ireland with Anglian legitimacy grammar.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age / Home Rule for Ireland (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 II. GEOGRAPHIC & CIVILIZATIONAL PROXIMITY
@@ -117,5 +125,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–IRELAND — v1.0
+END OF FILE — MEM–ANGLIA–IRELAND — v1.1
 ────────────────────────────────────────────────────────────

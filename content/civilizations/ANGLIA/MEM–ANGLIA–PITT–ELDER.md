@@ -2,8 +2,9 @@ MEM–ANGLIA–PITT–ELDER — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Civilization: ANGLIA
 Subject: William Pitt the Elder (Earl of Chatham)
 Dates: 1708–1778 AD

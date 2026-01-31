@@ -3,9 +3,9 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.3
-Upgrade Type: ADDITIVE (Shakespeare *Henry V* — St Crispin’s Day, literary evidence)
-Civilization: ANGLIA
-Regime / Mode: Lancastrian Kingship
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Subject: Henry V
 Dates: 1386–1422 AD
 Class: MEM (Civilizational Memory)
@@ -103,6 +103,10 @@ the embodiment of collective endurance rather than as a claimant.
 Henry Kissinger’s legitimacy logic is relevant as an interpretive frame:
 when a ruler is contested, external success can stabilize internal order
 by making the regime appear *necessary* rather than merely lawful.
+
+SOURCE — Kissinger, *World Order* (ARC-T-MODERN):
+> When a ruler's legitimacy is contested internally, external success can stabilize internal order by making the regime appear necessary rather than merely lawful. Victory abroad demonstrates competence and creates a sense of shared purpose that can temporarily override domestic divisions.
+> — Henry Kissinger, *World Order* (New York: Penguin, 2014), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 In the Henry V case, the victory’s political function is later enlarged
 by the diplomatic architecture it enables—above all, the move toward

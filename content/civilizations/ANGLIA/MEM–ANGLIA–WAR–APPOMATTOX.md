@@ -2,7 +2,9 @@ MEM–ANGLIA–WAR–APPOMATTOX — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Appomattox (Procedural Termination & Legitimacy Preservation)
 Dates: April 9, 1865 AD
@@ -39,6 +41,12 @@ Yet the final challenge is not victory—it is **ending the war without
 destroying the system the war was fought to preserve**.
 
 The Union must win without becoming revolutionary.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Appomattox within "The Great Republic" section—"Victory of the Union"—framing the surrender as the procedural termination that preserves institutional continuity (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers Victory of the Union—Appomattox as the surrender that ends the war through procedure rather than annihilation, preserving institutional continuity.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. APPOMATTOX AS PROCEDURAL CHOIAD
@@ -189,6 +197,6 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–APPOMATTOX v1.3
+END OF FILE — MEM–ANGLIA–WAR–APPOMATTOX — v1.4
 Word Count: ~860
 ────────────────────────────────────────────────────────────

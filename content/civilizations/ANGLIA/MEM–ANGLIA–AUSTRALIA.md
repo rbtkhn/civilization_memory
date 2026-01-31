@@ -1,8 +1,10 @@
-MEM–ANGLIA–AUSTRALIA — v1.0
+MEM–ANGLIA–AUSTRALIA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Ferguson *Empire* expansion (emigration, settlement, dominion formation)
 Civilization: ANGLIA
 Subject: Australia (Penal Genesis, Continental Procedure, and Pacific Anchor)
 Dates: 1788 AD–present
@@ -35,6 +37,12 @@ Context:
 Authority arrives pre-packaged.
 
 Order precedes identity.
+
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Australia within the broader pattern of British emigration and settlement—the "white plague" that populated North America, Australia, New Zealand, and South Africa with British subjects, creating dominions that would later evolve into self-governing states while retaining procedural and cultural links to the metropole (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The British Empire was built not only by conquest and administration, but by emigration—the voluntary and involuntary movement of millions of British subjects across the globe. Canada, Australia, New Zealand, and South Africa became "white dominions" through settlement, creating societies that replicated British institutions, law, and governance while adapting to local conditions. This emigration, which Ferguson terms the "white plague," transformed empty or sparsely populated territories into extensions of British civilization, establishing the foundation for what would become the Commonwealth.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 2: White Plague (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURE BEFORE SOCIETY
@@ -132,5 +140,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–AUSTRALIA — v1.0
+END OF FILE — MEM–ANGLIA–AUSTRALIA — v1.2
 ────────────────────────────────────────────────────────────

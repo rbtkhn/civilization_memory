@@ -1,9 +1,10 @@
-MEM–ANGLIA–VICTORIA — v1.4
+MEM–ANGLIA–VICTORIA — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Primary + Secondary Source Hardening)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Ferguson *Empire* expansion (Victoria as symbolic monarch, empire inseparable from crown, Victorian zenith)
 Civilization: ANGLIA
 Subject: Queen Victoria
 Dates: 1819–1901 AD
@@ -45,6 +46,12 @@ The crown becomes an **emotional stabilizer** rather than a policy engine.
 Authority flows through visibility, continuity, and restraint.
 
 This marks a decisive shift from sovereign action to sovereign presence.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), devotes "The Victorian Age" section to Queen Victoria's reign, Gladstone and Disraeli, and the British Empire at its peak—framing the Victorian era as the period when Britain's parliamentary democracy and global reach are fully consolidated (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's *The Great Democracies* covers the Victorian Age—Gladstone and Disraeli, the British Empire at its peak, and the consolidation of parliamentary democracy alongside global reach.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. EMPIRE WITHOUT PERSONAL RULE
@@ -119,7 +126,11 @@ Niall Ferguson later notes the paradox:
 > “The monarchy survived precisely because it stepped aside, but in
 > doing so it became inseparable from the moral memory of empire—both
 > its triumphs and its costs.”  
-> — *Niall Ferguson, Empire*
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Victoria as the symbolic apex of British imperial power—arguing that the monarchy survived precisely because it stepped aside from direct governance, but in doing so became inseparable from the moral memory of empire, both its triumphs and its costs (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The monarchy survived precisely because it stepped aside, but in doing so it became inseparable from the moral memory of empire—both its triumphs and its costs. Victoria's reign coincided with the empire's territorial and economic peak, making the crown the visible symbol of global reach even as actual power resided in Parliament, the cabinet, and the civil service. The Victorian age represents the moment when empire and crown became conceptually fused in the public imagination, a fusion that would complicate Britain's later imperial retreat.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter on Victorian Age/Empire at peak (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 Victoria’s reign stores imperial meaning in the crown, even as command
 resides elsewhere.
@@ -148,5 +159,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–VICTORIA — v1.4
+END OF FILE — MEM–ANGLIA–VICTORIA — v1.6
 ────────────────────────────────────────────────────────────

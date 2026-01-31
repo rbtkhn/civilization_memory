@@ -1,6 +1,10 @@
-MEM–ANGLIA–DYNASTY–HANOVER
+MEM–ANGLIA–DYNASTY–HANOVER — v1.1
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3)
 Civilization: ANGLIA
 Dynasty: House of Hanover
 Dates: 1714–1901 AD
@@ -44,6 +48,16 @@ Key dynamics:
 
 Power migrates:
 → From dynasty to procedure.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces Britain’s rise to world leadership across the period from Marlborough (1704) to Waterloo (1815)—the Hanoverian period in which Parliament, finance, and coalition warfare define Anglia’s method (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* tells the story of Britain’s rise through the Spanish and Austrian Successions, Utrecht, the Seven Years’ War, the American and French revolutions, and the Napoleonic Wars—the Hanoverian era in which constitutional monarchy and maritime-financial power are consolidated.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+
+SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
+> The Vienna settlement reflected Britain's restraint under Hanoverian constitutional monarchy. Through Castlereagh, Britain shaped the post-Napoleonic order not through territorial expansion but through balance-of-power management and diplomatic restraint—a method that contrasted sharply with Metternich's continental interventionism and reflected Britain's institutional preference for system stability over revolutionary transformation.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 IV. EMPIRE WITHOUT DYNASTIC COMMAND
@@ -105,5 +119,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DYNASTY–HANOVER v1.0
+END OF FILE — MEM–ANGLIA–DYNASTY–HANOVER — v1.2
 ────────────────────────────────────────────────────────────

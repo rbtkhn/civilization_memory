@@ -2,8 +2,9 @@ MEM–ANGLIA–ATHELSTAN — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.5
-Upgrade Type: ADDITIVE (v1.6 Ingest Bootstrap + Compliance Alignment)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Æthelstan

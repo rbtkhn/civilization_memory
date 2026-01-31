@@ -1,8 +1,10 @@
-MEM–ANGLIA–WASHINGTON — v1.0
+MEM–ANGLIA–WASHINGTON — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 3 (*The Age of Revolution*)
 Civilization: ANGLIA
 Subject: George Washington
 Dates: 1732–1799 AD
@@ -34,6 +36,12 @@ Context:
 
 The American rebellion is fought by Anglian institutions
 against Anglian authority.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats Washington as part of the “first great generation” of American leaders—Washington, Adams, and Jefferson—who emerge from the American Revolution as founders of the republic within the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples from Blenheim to Waterloo.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. WAR LEADERSHIP AS RESTRAINT
@@ -109,5 +117,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WASHINGTON — v1.0
+END OF FILE — MEM–ANGLIA–WASHINGTON — v1.1
 ────────────────────────────────────────────────────────────

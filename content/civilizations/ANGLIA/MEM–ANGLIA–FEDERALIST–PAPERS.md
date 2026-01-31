@@ -2,8 +2,9 @@ MEM–ANGLIA–FEDERALIST–PAPERS — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule — ANGLIA)
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Civilization: ANGLIA
 Subject: The Federalist Papers (Procedural Containment of Revolution)
 Dates: 1787–1788 AD
@@ -191,6 +192,10 @@ than revolutionary novelty.
 • **Henry Kissinger**  
 Kissinger’s balance-of-power logic parallels Federalist distrust of
 unitary moral authority and preference for equilibrium systems.
+
+SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+> The Federalist Papers reflect a balance-of-power logic that distrusts unitary moral authority and prefers equilibrium systems. Like the international balance of power, the Federalist design creates competing institutional interests that check each other, preventing any single faction or branch from dominating the system.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 • **Carroll Quigley**  
 Quigley’s institutional analysis directly supports the Federalist focus

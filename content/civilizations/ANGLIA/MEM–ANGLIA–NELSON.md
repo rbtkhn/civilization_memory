@@ -1,9 +1,10 @@
-MEM–ANGLIA–NELSON — v1.4
+MEM–ANGLIA–NELSON — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · SOURCE HARDENING · Churchill Vol. 3 (*The Age of Revolution*)
 Civilization: ANGLIA
 Subject: Horatio Nelson
 Dates: 1758–1805 AD
@@ -85,8 +86,11 @@ Outcomes:
 • Invasion threat permanently removed
 • Coalition logistics guaranteed indefinitely
 
-Winston Churchill describes Trafalgar as the moment when Britain’s
-maritime supremacy becomes *structurally irreversible*.
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), describes Trafalgar as the moment when Britain’s maritime supremacy becomes *structurally irreversible*—the battle that closes the Napoleonic naval threat and secures Anglia’s position for the remainder of the age (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain’s maritime dominance until Waterloo.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 V. PERSONAL RISK & CIVILIZATIONAL REWARD
@@ -160,5 +164,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Shock can complement endurance within a system.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–NELSON v1.4
+END OF FILE — MEM–ANGLIA–NELSON v1.5
 ────────────────────────────────────────────────────────────

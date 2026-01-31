@@ -1,8 +1,10 @@
-MEM–ANGLIA–INDIA — v1.0
+MEM–ANGLIA–INDIA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Ferguson *Empire* integration (Phase 3)
 Civilization: ANGLIA
 Subject: India (Imperial Backbone, Administrative Laboratory, and Exit Test)
 Dates: 1600 AD–1947 AD
@@ -66,6 +68,10 @@ Consequences:
 Legitimacy shifts from contract to order.
 
 Procedure replaces partnership.
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> India functioned as the "jewel in the crown" of the British Empire—the territory that transformed Britain from a maritime-commercial power into a global administrative empire. The transition from East India Company rule to direct Crown administration after 1857 marked a shift from commercial extraction to formal governance, yet the tension between extraction and governance persisted throughout the Raj. India became Britain's administrative laboratory, where indirect rule, legal codification, and infrastructure development were tested at unprecedented scale, even as the costs of maintaining imperial control grew and nationalist resistance mounted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 4: Heaven's Breed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 V. INFRASTRUCTURE & SYSTEM DEPTH
@@ -138,5 +144,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–INDIA — v1.0
+END OF FILE — MEM–ANGLIA–INDIA — v1.1
 ────────────────────────────────────────────────────────────

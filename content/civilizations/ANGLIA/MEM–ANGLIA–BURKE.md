@@ -1,8 +1,10 @@
-MEM–ANGLIA–BURKE — v1.0
+MEM–ANGLIA–BURKE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 3 (*The Age of Revolution*)
 Civilization: ANGLIA
 Subject: Edmund Burke
 Dates: 1729–1797 AD
@@ -61,6 +63,12 @@ Critique of the French Revolution:
 • Speed prioritized over legitimacy
 
 Revolution erases constraints faster than it builds replacements.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the French Revolution and its shadow over Europe and Britain’s coalition response; Burke’s critique of the French Revolution and Anglia’s refusal to mirror revolutionary mobilization are part of the volume’s narrative of Britain’s rise through restraint (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* covers the French Revolution and its shadow over Europe; Britain’s response—coalition warfare, financial endurance, and refusal of ideological symmetry—is framed within the long Anglo-French rivalry from Marlborough to Waterloo.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 V. PROCEDURE OVER MORAL FERVOR
@@ -123,5 +131,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BURKE — v1.0
+END OF FILE — MEM–ANGLIA–BURKE — v1.1
 ────────────────────────────────────────────────────────────

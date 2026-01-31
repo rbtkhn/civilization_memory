@@ -2,8 +2,9 @@ MEM–ANGLIA–WAR–1812 — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule — ANGLIA)
+Version: 1.5
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
 Civilization: ANGLIA
 Subject: War of 1812 (Peripheral System Test, Priority Discipline, and Naval Resilience)
 Dates: 1812–1815 AD

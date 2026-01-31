@@ -1,10 +1,9 @@
-MEM–ANGLIA–WAR–ENGLISH–CIVIL — v1.1
+MEM–ANGLIA–WAR–ENGLISH–CIVIL — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · HEALEY THE BLAZING WORLD INTEGRATION
+Version: 1.2
+Upgrade Type: ADDITIVE (Churchill Vol. 2 *The New World* — Civil War, Parliament, Axe Falls)
 Civilization: ANGLIA
 Subject: English Civil War (Procedure vs Personal Rule)
 Dates: 1642–1651 AD
@@ -42,6 +41,12 @@ The core question:
 This question is not yet settled institutionally.
 
 Jonathan Healey (*The Blazing World: A New History of Revolutionary England, 1603–1689* [2023]) treats the civil war as part of a “truly revolutionary” period: political rupture alongside social and intellectual ferment, with new ideas of authority and consent emerging from London’s coffeehouses and alehouses. The war is both institutional experiment and legitimacy crisis (ARC-T-MODERN) [ERC-SECONDARY].
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), Book V (“The Civil War”), devotes chapters to “The Revolt of Parliament,” “The Great Rebellion,” “Marston Moor and Naseby,” and “The Axe Falls”—framing the conflict as a civil war “fought on abiding issues of principle” and the execution of Charles I as the moment when procedure asserts itself over sacral kingship (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The New World* (Vol. 2), Book V (ARC-T-MODERN):
+> A great civil war was fought on abiding issues of principle; Churchill’s chapters on the Revolt of Parliament, the Great Rebellion, Marston Moor and Naseby, and the Axe Falls frame the conflict as the moment when procedure asserts itself over sacral kingship.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Book V (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. PARLIAMENT VS CROWN AS LEGITIMACY CLAIM
@@ -229,5 +234,5 @@ This file emphasizes **legitimacy mechanics** over campaign detail,
 compressing events to foreground civilizational learning.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–ENGLISH–CIVIL v1.1
+END OF FILE — MEM–ANGLIA–WAR–ENGLISH–CIVIL — v1.2
 ────────────────────────────────────────────────────────────

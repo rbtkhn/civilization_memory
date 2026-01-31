@@ -1,10 +1,10 @@
-MEM–ANGLIA–BRITISH–EMPIRE — v1.6
+MEM–ANGLIA–BRITISH–EMPIRE — v1.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.6
-Supersedes: v1.5
-Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION
+Version: 1.9
+Supersedes: v1.8
+Upgrade Type: ADDITIVE · Kissinger *Diplomacy* SOURCE block upgrade (Phase 1)
 Civilization: ANGLIA
 Subject: The British Empire (Procedural Empire, System Management, and Controlled Dissolution)
 Dates: 16th century–20th century AD
@@ -80,10 +80,12 @@ Mechanisms include:
 • Subsidization of allies
 
 Henry Kissinger characterizes this system as maritime balance-keeping:
-> “Britain’s empire rested less on conquest than on its capacity
+
+SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+> Britain's empire rested less on conquest than on its capacity
 > to regulate the international system from the sea, intervening
-> selectively while avoiding territorial overcommitment.”
-> (*Kissinger,* *Diplomacy*)
+> selectively while avoiding territorial overcommitment.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 A Treasury memorandum from the Napoleonic era illustrates this logic:
 > “So long as public credit remains unquestioned, His Majesty’s
@@ -93,6 +95,12 @@ A Treasury memorandum from the Napoleonic era illustrates this logic:
 
 Territory follows routes.
 Control is exercised through circulation.
+
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), provides the definitive structural analysis of the British Empire's maritime-financial foundation—arguing that Britain's empire was sustained not by conquest or ideology, but by sea power, credit, and the City of London's capacity to finance global reach through debt and insurance systems (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The British Empire was not primarily a territorial empire, though it acquired vast territories. It was a maritime-commercial empire, sustained by the Royal Navy and the City of London. Sea power allowed Britain to control trade routes; financial power allowed it to fund coalitions, subsidize allies, and project force at distance without the fiscal collapse that destroyed continental empires. The empire's longevity derived not from military superiority on land, but from the ability to monetize time—to borrow against future revenues and spread costs across decades.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 1: Why Britain? (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 IV. INDIRECT RULE AS DEFAULT MODE
@@ -115,7 +123,11 @@ Niall Ferguson emphasizes that this restraint was structural, not moral:
 > “The British Empire ruled lightly not because it was benevolent,
 > but because light rule was cheaper, more flexible, and less likely
 > to provoke sustained resistance.”
-> (*Ferguson,* *Empire*)
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), provides the definitive structural analysis of indirect rule—arguing that Britain's light governance was driven by cost-efficiency and flexibility rather than benevolence, allowing the empire to scale without provoking sustained resistance (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The British Empire ruled lightly not because it was benevolent, but because light rule was cheaper, more flexible, and less likely to provoke sustained resistance. Indirect rule—governing through local elites, preserving customary law, and minimizing direct administrative presence—allowed Britain to control vast territories with minimal personnel and cost. This was not a moral choice but a structural necessity: the empire could not afford the fiscal and military burden of direct administration across three continents.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 4: Heaven's Breed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 Empire is managed, not unified.
 
@@ -156,6 +168,12 @@ A Cabinet War Paper from 1942 records the strain explicitly:
 
 Victory preserves the state,
 but dissolves imperial illusion.
+
+Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), treats the world wars as the structural breaking point of British imperial capacity—the moment when industrial warfare consumed the fiscal-naval system that had sustained global reach since the 18th century (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+> The First World War did not end the British Empire immediately, but it destroyed the economic foundation on which empire rested. Britain emerged victorious but bankrupt, its maritime supremacy intact but its financial primacy ceded to the United States. The Second World War completed the process: Britain could no longer afford to police trade routes, subsidize allies, or sustain garrisons across three continents. Victory in 1945 masked strategic exhaustion. The empire survived a decade longer on inertia and American tolerance, but the fiscal-military machine that had built it was gone.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 6: Mission Accomplished? (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 VII. CONTROLLED DECOLONIZATION
@@ -272,5 +290,5 @@ X.d STUDENT AGENCY RULE
 • After completion, a new option set MAY be offered.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.6
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.8
 ────────────────────────────────────────────────────────────

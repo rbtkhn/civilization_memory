@@ -2,7 +2,9 @@ MEM–ANGLIA–GRANT — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Ulysses S. Grant
 Dates: 1822–1885 AD
@@ -34,6 +36,12 @@ Context:
 • Political pressure for decisive resolution
 
 The system requires conclusion, not balance.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Grant within "The Great Republic" section—Victory of the Union—framing Grant as the general who finished the argument through attrition and relentless engagement (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers the American Civil War; Grant is framed within Victory of the Union as the general who applied systemic logic to warfare and ended the conflict.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. WAR OF ATTRITION AS PROCEDURAL LOGIC
@@ -115,5 +123,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–GRANT — v1.0
+END OF FILE — MEM–ANGLIA–GRANT — v1.1
 ────────────────────────────────────────────────────────────

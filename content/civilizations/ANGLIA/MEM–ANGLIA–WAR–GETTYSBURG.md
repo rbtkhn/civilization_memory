@@ -2,7 +2,9 @@ MEM–ANGLIA–WAR–GETTYSBURG — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Gettysburg (Legitimacy Shock & Moral Reframing)
 Dates: July 1–3, 1863 AD
@@ -42,6 +44,12 @@ impact will exceed its operational design.
 
 The war is no longer merely about battlefield success.
 It is about sustaining authority, consent, and legitimacy under strain.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Gettysburg within "The Great Republic" section—"Chancellorsville and Gettysburg"—framing the battle as the turning point where Confederate offensive capacity is exhausted and Union endurance prevails (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "The Great Republic" section covers Chancellorsville and Gettysburg—the battle that marks the exhaustion of Confederate offensive capacity and the consolidation of Union endurance.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Chancellorsville and Gettysburg (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CHARACTER
@@ -162,6 +170,6 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–GETTYSBURG v1.3
+END OF FILE — MEM–ANGLIA–WAR–GETTYSBURG — v1.4
 Word Count: ~860
 ────────────────────────────────────────────────────────────

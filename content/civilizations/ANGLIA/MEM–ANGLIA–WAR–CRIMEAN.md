@@ -2,7 +2,9 @@ MEM–ANGLIA–WAR–CRIMEAN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
 Subject: Crimean War (Alliance War, Media Shock, and Administrative Reckoning)
 Dates: 1853–1856 AD
@@ -21,6 +23,12 @@ unpreparedness and public visibility.
 For Anglia, Crimea is **victory without confidence**.
 
 Contradictions are preserved without synthesis.
+
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats the Crimean War within "Recovery and Reform" section—"Crimean War"—framing it as Anglia's legitimacy–capacity mismatch exposure event, where strategic success coexists with administrative failure and public scrutiny (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Churchill's "Recovery and Reform" section covers the Crimean War—Anglia's alliance warfare to constrain Russian expansion, yet suffering severe reputational damage due to institutional unpreparedness and public visibility.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section I: Recovery and Reform / Crimean War (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT & ENTRY
@@ -137,5 +145,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–CRIMEAN — v1.0
+END OF FILE — MEM–ANGLIA–WAR–CRIMEAN — v1.1
 ────────────────────────────────────────────────────────────

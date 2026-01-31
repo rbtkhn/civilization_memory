@@ -1,9 +1,10 @@
-MEM–ANGLIA–PITT–YOUNGER — v1.4
+MEM–ANGLIA–PITT–YOUNGER — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · SOURCE HARDENING · DISTINGUISHED SCHOLAR COMPLIANAD
+Version: 1.7
+Supersedes: v1.6
+Upgrade Type: ADDITIVE · Kissinger *Diplomacy* SOURCE block (Phase 2)
 Civilization: ANGLIA
 Subject: William Pitt the Younger
 Dates: 1759–1806 AD
@@ -45,9 +46,11 @@ Pitt frames endurance as institutional survival:
 > war…”
 > — William Pitt the Younger, Speech to the House of Commons, 1797
 
-Winston Churchill later identifies Pitt’s premiership as a moment when
-**financial collapse would have meant civilizational defeat**, even in
-the absence of invasion.
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), identifies Pitt’s premiership as a moment when **financial collapse would have meant civilizational defeat**, even in the absence of invasion (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
+> Churchill’s *The Age of Revolution* traces Britain’s rise through the French Revolution and Napoleonic era; Pitt the Younger’s stewardship of public credit and coalition warfare is treated as the financial-strategic anchor that enabled Anglia to outlast revolutionary and Napoleonic France.
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
 
 ────────────────────────────────────────────────────────────
 III. CREDIT AS GRAND STRATEGY
@@ -167,5 +170,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Financial systems can decide civilizational contests.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–PITT–YOUNGER v1.4
+END OF FILE — MEM–ANGLIA–PITT–YOUNGER v1.6
 ────────────────────────────────────────────────────────────
