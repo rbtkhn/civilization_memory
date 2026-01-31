@@ -133,7 +133,7 @@ Biological language is misused to justify hierarchy.
 • MEM–ANGLIA–LIT–SMITH  
 Market extraction proceeds without reciprocal legitimacy.
 
-• MEM–ANGLIA–PAINE  
+• MEM–ANGLIA–LIT–PAINE  
 Universalist rhetoric exposes colonial hypocrisy.
 
 • MEM–ANGLIA–WAR–BOER  

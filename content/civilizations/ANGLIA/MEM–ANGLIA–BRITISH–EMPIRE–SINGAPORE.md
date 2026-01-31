@@ -105,6 +105,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
 • MEM–ANGLIA–BRITISH–EMPIRE — Parent imperial system; Singapore as strategic node
+• MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR — "Gibraltar of the East" parallel; Gibraltar retained, Singapore exits
 • MEM–ANGLIA–BRITISH–EMPIRE–INDIA — India-China trade route; Company origin of Raffles
 • MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG — Parallel treaty-port/entrepôt node; Pacific presence
 • MEM–ANGLIA–GEO–PACIFIC–OCEAN — Singapore as Pacific/Indian Ocean junction

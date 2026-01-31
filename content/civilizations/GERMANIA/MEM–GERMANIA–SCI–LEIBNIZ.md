@@ -227,7 +227,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–CHARLEMAGNE (imperial unity dream)
 
 Cross-Civilizational:
-• MEM–ANGLIA–NEWTON (calculus priority dispute)
+• MEM–ANGLIA–SCI–NEWTON (calculus priority dispute)
 • MEM–FRANCIA–LIT–VOLTAIRE (Candide satire of optimism)
 • MEM–FRANCIA–LIT–DESCARTES (rationalist predecessor)
 

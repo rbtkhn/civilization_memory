@@ -124,7 +124,9 @@ VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
 • MEM–ANGLIA–BRITISH–EMPIRE — Parent imperial system; Hong Kong as treaty-port node
+• MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR — Parallel chokepoint; Gibraltar retained, Hong Kong returned
 • MEM–ANGLIA–BRITISH–EMPIRE–INDIA — Opium trade link; India-China commercial axis
+• MEM–ANGLIA–BRITISH–EMPIRE–MALTA — Parallel Mediterranean naval base; both exit by procedure
 • MEM–ANGLIA–GEO–PACIFIC–OCEAN — Hong Kong as Pacific strategic port
 • MEM–ANGLIA–GEO–SUEZ–CANAL — Route linking Britain to Hong Kong
 • MEM–ANGLIA–BRITISH–EMPIRE–SINGAPORE — Parallel strategic port; Pacific/Asia imperial nodes

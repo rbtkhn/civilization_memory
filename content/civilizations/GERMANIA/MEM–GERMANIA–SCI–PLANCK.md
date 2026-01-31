@@ -159,7 +159,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–HITLER (regime Planck navigated)
 
 Cross-Civilizational:
-• MEM–ANGLIA–NEWTON (classical physics displaced)
+• MEM–ANGLIA–SCI–NEWTON (classical physics displaced)
 • MEM–ANGLIA–SCIENCE–ROYAL–SOCIETY (institutional parallel)
 
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,10 @@
-MEM–ANGLIA–PAINE — v1.3
+MEM–ANGLIA–LIT–PAINE — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: RENAME (PAINE → LIT–PAINE)
 Civilization: ANGLIA
 Subject: Thomas Paine (Revolutionary Simplifier and Anti-Procedural Catalyst)
 Dates: 1737–1809 AD
@@ -12,7 +14,7 @@ Last Update: January 2026
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Thomas Paine as **Anglia’s internal dissenter
+This file preserves Thomas Paine as **Anglia's internal dissenter
 exported abroad**: the writer who strips Anglian political grammar of
 its procedural caution and translates it into universal, moralized,
 and revolutionary language capable of mobilizing mass sentiment.
@@ -25,7 +27,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. CONTEXT & FORMATIVE CONDITIONS
 ────────────────────────────────────────────────────────────
-Paine emerges from Anglia’s lower-middle strata.
+Paine emerges from Anglia's lower-middle strata.
 
 Context:
 • Marginal position within Anglian hierarchy
@@ -43,7 +45,7 @@ tradition becomes illegitimacy.
 ────────────────────────────────────────────────────────────
 III. SIMPLIFICATION AS POLITICAL WEAPON
 ────────────────────────────────────────────────────────────
-Paine’s genius is radical simplification.
+Paine's genius is radical simplification.
 
 Characteristics:
 • Short sentences
@@ -68,8 +70,8 @@ Source:
 • Thomas Paine, *Common Sense*
 
 Verbatim Quote:
-“Government, even in its best state, is but a necessary evil; in its
-worst state, an intolerable one.”
+"Government, even in its best state, is but a necessary evil; in its
+worst state, an intolerable one."
 
 Context Function:
 This delegitimizes inherited authority wholesale and reframes procedure
@@ -85,10 +87,10 @@ Source:
 • Thomas Paine, *The American Crisis*, No. I
 
 Verbatim Quote:
-“These are the times that try men’s souls.”
+"These are the times that try men's souls."
 
 Context Function:
-This illustrates Paine’s role in emotional mobilization rather than
+This illustrates Paine's role in emotional mobilization rather than
 institutional design.
 
 Provenance Confidence: HIGH
@@ -96,7 +98,7 @@ Provenance Confidence: HIGH
 ────────────────────────────────────────────────────────────
 V. RELATION TO ANGLIAN POLITICAL GRAMMAR
 ────────────────────────────────────────────────────────────
-Paine rejects Anglia’s core instincts.
+Paine rejects Anglia's core instincts.
 
 He denies:
 • Gradualism
@@ -128,7 +130,7 @@ Impacts:
 Yet Paine does not design institutions.
 
 Once independence is secured,
-Paine’s utility declines rapidly.
+Paine's utility declines rapidly.
 
 Emotion mobilizes.
 Procedure governs.
@@ -144,7 +146,7 @@ Effects:
 • Suspicion of institutional restraint
 • Enduring populist vocabulary
 
-Paine’s language survives better than his politics.
+Paine's language survives better than his politics.
 
 He becomes a reusable accelerant.
 
@@ -152,10 +154,10 @@ He becomes a reusable accelerant.
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–LIT–LOCKE  
-Paine radicalizes Locke’s consent theory into immediate moral demand.
+Paine radicalizes Locke's consent theory into immediate moral demand.
 
 • MEM–ANGLIA–LIT–HUME  
-Hume explains why Paine’s absolutism is destabilizing to order.
+Hume explains why Paine's absolutism is destabilizing to order.
 
 • MEM–ANGLIA–LAW–FEDERALIST–PAPERS  
 The Federalists are written partly to contain Painean simplification.
@@ -174,7 +176,7 @@ Lessons:
 • Revolutionary language outpaces governance.
 • Populist rhetoric is reusable across eras.
 
-Paine is Anglia’s dangerous clarity.
+Paine is Anglia's dangerous clarity.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -188,6 +190,6 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–PAINE v1.3
+END OF FILE — MEM–ANGLIA–LIT–PAINE — v1.4
 Word Count: ~790
 ────────────────────────────────────────────────────────────

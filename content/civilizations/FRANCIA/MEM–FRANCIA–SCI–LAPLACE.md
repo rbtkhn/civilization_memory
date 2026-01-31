@@ -172,7 +172,7 @@ Same-Civilization (≥10):
 
 Cross-civilizational:
 • MEM–GERMANIA–SCI–LEIBNIZ — contrast (divine harmony vs no need of hypothesis)
-• MEM–ANGLIA–NEWTON — Newtonian synthesis; Laplace completes in France
+• MEM–ANGLIA–SCI–NEWTON — Newtonian synthesis; Laplace completes in France
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)

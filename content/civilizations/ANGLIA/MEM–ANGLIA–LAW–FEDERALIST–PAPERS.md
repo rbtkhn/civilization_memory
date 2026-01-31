@@ -226,7 +226,7 @@ Revolution is **contained by design**, not by suppression.
 IX. CROSS-REFERENCED MEM FILES (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
-• MEM–ANGLIA–PAINE — ideological ignition
+• MEM–ANGLIA–LIT–PAINE — ideological ignition
 • MEM–ANGLIA–LIT–HUME — skepticism of virtue
 • MEM–ANGLIA–LIT–LOCKE — consent institutionalized
 • MEM–ANGLIA–AMERICAN–REVOLUTION — rupture without collapse

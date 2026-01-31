@@ -189,7 +189,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–LIT–KANT (philosophical precursor on space/time)
 
 Cross-Civilizational:
-• MEM–ANGLIA–NEWTON (classical physics displaced)
+• MEM–ANGLIA–SCI–NEWTON (classical physics displaced)
 • MEM–ANGLIA–CAMBRIDGE (alternative institutional model)
 • MEM–USA–MANHATTAN–PROJECT (consequence of exile)
 

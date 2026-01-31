@@ -120,7 +120,7 @@ ANGLIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v0.7    │ Active        │
-│ CIV–INDEX–ANGLIA            │ v2.5    │ Active        │
+│ CIV–INDEX–ANGLIA            │ v2.8    │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
 │ CIV–ARC–ANGLIA              │ v1.2    │ Active        │
@@ -154,6 +154,22 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-30 (ANGLIA — NEWTON rename to SCI–NEWTON, INDEX v2.8):
+• MEM–ANGLIA–NEWTON → RENAMED to MEM–ANGLIA–SCI–NEWTON (PERSON → OTHER as SCI-classified)
+• CIV–INDEX–ANGLIA: v2.7 → v2.8 (deprecation entry)
+• Cross-refs: MEM–GERMANIA–SCI–LEIBNIZ, MEM–GERMANIA–SCI–GAUSS, MEM–GERMANIA–SCI–EINSTEIN, MEM–GERMANIA–SCI–PLANCK, MEM–FRANCIA–SCI–LAPLACE updated
+
+2026-01-30 (ANGLIA — PAINE rename to LIT–PAINE, INDEX v2.7):
+• MEM–ANGLIA–PAINE → RENAMED to MEM–ANGLIA–LIT–PAINE (PERSON → OTHER as LIT-classified)
+• CIV–INDEX–ANGLIA: v2.6 → v2.7 (deprecation entry)
+• Cross-refs: LAW–FEDERALIST–PAPERS, BRITISH–EMPIRE–SOUTH–AFRICA updated
+
+2026-01-30 (ANGLIA — BRITISH–EMPIRE–GIBRALTAR, MALTA, NORTH–AMERICA created, INDEX v2.6):
+• MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR v1.0 created (Strait chokepoint, perpetual possession)
+• MEM–ANGLIA–BRITISH–EMPIRE–MALTA v1.0 created (Mediterranean naval base, WWII siege, 1964 independence)
+• MEM–ANGLIA–BRITISH–EMPIRE–NORTH–AMERICA v1.0 created (settler zone, fracture, residual Canada)
+• CIV–INDEX–ANGLIA: v2.5 → v2.6 (ECON section; total 126 MEMs)
 
 2026-01-30 (ANGLIA — BRITISH–EMPIRE–HONG–KONG, BRITISH–EMPIRE–SINGAPORE created, INDEX v2.5):
 • MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG v1.0 created (treaty port, entrepôt, 1997 handover)

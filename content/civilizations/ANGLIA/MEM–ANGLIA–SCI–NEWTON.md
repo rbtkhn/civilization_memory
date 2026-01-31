@@ -1,10 +1,12 @@
-MEM–ANGLIA–NEWTON — v1.0
+MEM–ANGLIA–SCI–NEWTON — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: RENAME (NEWTON → SCI–NEWTON)
 Civilization: ANGLIA
-Subject: Isaac Newton
+Subject: Isaac Newton (Epistemic Anchor, Mathematization of Nature)
 Dates: 1643–1727 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -12,9 +14,9 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Isaac Newton as **Anglia’s epistemic anchor**:
+This file preserves Isaac Newton as **Anglia's epistemic anchor**:
 the figure who converts natural inquiry into a rule-governed,
-predictable, and cumulative system—mirroring Anglia’s preference for
+predictable, and cumulative system—mirroring Anglia's preference for
 procedure, continuity, and institutionalized authority over revelation
 or rhetorical universalism.
 
@@ -69,7 +71,7 @@ This mirrors Common Law logic applied to nature.
 ────────────────────────────────────────────────────────────
 V. INSTITUTIONAL EMBEDDING
 ────────────────────────────────────────────────────────────
-Newton’s power is amplified through institutions.
+Newton's power is amplified through institutions.
 
 Roles:
 • President of the Royal Society
@@ -99,7 +101,7 @@ Precision substitutes for speculation.
 ────────────────────────────────────────────────────────────
 VII. CONTRAST WITH CONTINENTAL UNIVERSALISM
 ────────────────────────────────────────────────────────────
-Newton contrasts sharply with Francia’s rationalist tradition.
+Newton contrasts sharply with Francia's rationalist tradition.
 
 Differences:
 • Anglia: empirical restraint, procedural truth
@@ -118,19 +120,33 @@ Enduring effects:
 • Incremental accumulation of knowledge
 • Fusion of epistemology and governance
 
-Newtonian method becomes Anglia’s cognitive template.
+Newtonian method becomes Anglia's cognitive template.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–LIT–LOCKE — Contemporary; epistemology and governance parallels
+• MEM–ANGLIA–COMMON–LAW — Newtonian method as "Common Law of nature"
+
+Cross-Civilizational:
+• MEM–GERMANIA–SCI–LEIBNIZ — Calculus priority dispute
+• MEM–GERMANIA–SCI–GAUSS — Mathematical physics predecessor
+• MEM–GERMANIA–SCI–EINSTEIN — Classical physics displaced
+• MEM–GERMANIA–SCI–PLANCK — Classical physics displaced
+• MEM–FRANCIA–SCI–LAPLACE — Newtonian synthesis completed in France
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Procedure can govern truth as well as politics.
 • Predictability is power.
 • Method outlasts genius.
 • Institutions preserve discovery.
-• Newton is Anglia’s Common Law of nature.
+• Newton is Anglia's Common Law of nature.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–NEWTON — v1.0
+END OF FILE — MEM–ANGLIA–SCI–NEWTON — v1.1
 ────────────────────────────────────────────────────────────

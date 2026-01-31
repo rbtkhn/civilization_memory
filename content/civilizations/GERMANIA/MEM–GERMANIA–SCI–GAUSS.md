@@ -207,7 +207,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–PRUSSIA (state-science integration)
 
 Cross-Civilizational:
-• MEM–ANGLIA–NEWTON (mathematical physics predecessor)
+• MEM–ANGLIA–SCI–NEWTON (mathematical physics predecessor)
 • MEM–FRANCIA–LAPLACE (contemporary rival)
 
 ────────────────────────────────────────────────────────────

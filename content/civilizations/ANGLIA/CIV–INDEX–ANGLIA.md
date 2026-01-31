@@ -1,18 +1,18 @@
-CIV–INDEX–ANGLIA — v2.5
+CIV–INDEX–ANGLIA — v2.8
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.5
-Supersedes: v2.4
-Upgrade Type: ADDITIVE (BRITISH–EMPIRE–HONG–KONG, BRITISH–EMPIRE–SINGAPORE)
+Version: 2.7
+Supersedes: v2.6
+Upgrade Type: RENAME (PAINE → LIT–PAINE)
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 123 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 126 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -107,9 +107,12 @@ D) LAW
 
 E) ECON
 • MEM–ANGLIA–BRITISH–EMPIRE.md
+• MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR.md
 • MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG.md
 • MEM–ANGLIA–BRITISH–EMPIRE–INDIA.md
 • MEM–ANGLIA–BRITISH–EMPIRE–INDIA–CLIVE.md
+• MEM–ANGLIA–BRITISH–EMPIRE–MALTA.md
+• MEM–ANGLIA–BRITISH–EMPIRE–NORTH–AMERICA.md
 • MEM–ANGLIA–BRITISH–EMPIRE–RHODES.md
 • MEM–ANGLIA–BRITISH–EMPIRE–SINGAPORE.md
 • MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA.md
@@ -145,10 +148,8 @@ G) PERSON
 • MEM–ANGLIA–FRANKLIN.md
 • MEM–ANGLIA–HAMILTON.md
 • MEM–ANGLIA–BURKE.md
-• MEM–ANGLIA–NEWTON.md
 • MEM–ANGLIA–CHURCHILL.md
 • MEM–ANGLIA–DARWIN.md
-• MEM–ANGLIA–PAINE.md
 • MEM–ANGLIA–PALMERSTON.md
 • MEM–ANGLIA–RICHARD–II.md
 • MEM–ANGLIA–RICHARD–III.md
@@ -179,8 +180,10 @@ H) OTHER / MISC
 • MEM–ANGLIA–LIT–HUME.md
 • MEM–ANGLIA–LIT–KING–JAMES–BIBLE.md
 • MEM–ANGLIA–LIT–LOCKE.md
+• MEM–ANGLIA–LIT–PAINE.md
 • MEM–ANGLIA–LIT–SHAKESPEARE.md
 • MEM–ANGLIA–LIT–SMITH.md
+• MEM–ANGLIA–SCI–NEWTON.md
 
 ────────────────────────────────────────────────────────────
 III. DEPRECATIONS
@@ -251,6 +254,9 @@ III. DEPRECATIONS
 • MEM–ANGLIA–WAR–APPOMATTOX → RENAMED
   Replaced by: MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX (conflict-context standardization)
 
+• MEM–ANGLIA–PAINE → RENAMED
+  Replaced by: MEM–ANGLIA–LIT–PAINE (moved from G) PERSON to H) OTHER as LIT-classified)
+
 ────────────────────────────────────────────────────────────
 IV. VERSION NOTE
 ────────────────────────────────────────────────────────────
@@ -292,6 +298,10 @@ v2.1 registers rename: MEM–ANGLIA–SOUTH–AFRICA → MEM–ANGLIA–BRITISH�
 v2.2 registers rename: MEM–ANGLIA–WAR–VICKSBURG → MEM–ANGLIA–WAR–AMERICAN–CIVIL–VICKSBURG (conflict-context standardization).
 v2.3 registers rename: MEM–ANGLIA–WAR–GETTYSBURG → MEM–ANGLIA–WAR–AMERICAN–CIVIL–GETTYSBURG (conflict-context standardization).
 v2.4 registers rename: MEM–ANGLIA–WAR–APPOMATTOX → MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX (conflict-context standardization).
+v2.5 registers new MEMs: MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG v1.0, MEM–ANGLIA–BRITISH–EMPIRE–SINGAPORE v1.0 (ECON; total 123 MEMs).
+v2.6 registers new MEMs: MEM–ANGLIA–BRITISH–EMPIRE–GIBRALTAR v1.0, MEM–ANGLIA–BRITISH–EMPIRE–MALTA v1.0, MEM–ANGLIA–BRITISH–EMPIRE–NORTH–AMERICA v1.0 (ECON; total 126 MEMs).
+v2.7 registers rename: MEM–ANGLIA–PAINE → MEM–ANGLIA–LIT–PAINE (PERSON → OTHER as LIT-classified).
+v2.8 registers rename: MEM–ANGLIA–NEWTON → MEM–ANGLIA–SCI–NEWTON (PERSON → OTHER as SCI-classified).
 This upgrade is additive only and preserves all prior index structure,
 ordering, and governance rules.
 
@@ -301,5 +311,5 @@ FOOTER METADATA
 Word Count: 686
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v2.5
+END OF FILE — CIV–INDEX–ANGLIA — v2.8
 ────────────────────────────────────────────────────────────
