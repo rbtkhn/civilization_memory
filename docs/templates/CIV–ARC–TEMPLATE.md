@@ -1,13 +1,34 @@
-CIV–ARC–[CIVILIZATION] — v2.7
+CIV–ARC–[CIVILIZATION] — v2.8
 Civilizational Memory Codex · Academic Reference Canon
-Author Admissibility & Temporal Precedence
+Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–[CIVILIZATION] v2.0
-Upgrade Type: SIMPLIFICATION + NAMESPACE ALIGNMENT
+Supersedes: CIV–ARC–[CIVILIZATION] v2.7
+Upgrade Type: ADDITIVE · TSP CROSS-CITATION GUIDANCE
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
+Compatibility: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.8) — TSP CROSS-CITATION GUIDANCE
+────────────────────────────────────────────────────────────
+This version adds guidance for citing sources across multiple ARCs
+when documenting trans-sovereign patterns (TSP), aligning with
+CIV–MEM–CORE v2.9, Section XXIX.
+
+v2.8 introduces:
+
+TSP CROSS-CITATION:
+• New Section V-A: Cross-ARC Citation for TSP MEMs
+• Guidance for TRANSMISSION, NETWORK, and RECONSTITUTION patterns
+• Cross-ARC sources may be cited with explicit ARC declaration
+• Temporal precedence applies within each ARC independently
+
+COMPATIBILITY:
+• Updated to CIV–MEM–CORE v2.9
+• Updated to CIV–MEM–TEMPLATE v2.9
+
+Reference: CIV–MEM–CORE v2.9, Section XXIX (Trans-Sovereign Patterns)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — SIMPLIFICATION + NAMESPACE ALIGNMENT
@@ -131,6 +152,59 @@ Expanded discovery does NOT:
 • Remove the requirement to flag
 
 ────────────────────────────────────────────────────────────
+V-A. CROSS-ARC CITATION FOR TSP MEMs (NEW IN v2.8)
+────────────────────────────────────────────────────────────
+Trans-Sovereign Pattern (TSP) MEMs may require sources from multiple
+civilizations' ARCs. This section governs cross-ARC citation.
+
+TSP PATTERN TYPES (per CIV–MEM–CORE § XXIX):
+• TRANSMISSION: Source civilization → Receiving civilization
+• NETWORK: Entity operating across multiple civilizations
+• RECONSTITUTION: Civilizational logic surviving political rupture
+
+CROSS-ARC CITATION RULES:
+
+1. PRIMARY ARC GOVERNS:
+   The primary civilization's ARC governs the MEM's quotation
+   requirements. The MEM is filed under this civilization.
+
+2. SECONDARY ARC PERMITTED:
+   TSP MEMs MAY cite sources from connected civilizations' ARCs
+   when documenting the trans-sovereign pattern.
+
+3. EXPLICIT ARC DECLARATION REQUIRED:
+   Cross-ARC citations MUST declare which ARC authorizes the source.
+
+   Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
+
+   Examples:
+   • Ferguson, *House of Rothschild* (ARC–ANGLIA-T-MODERN) [ERC-SECONDARY]
+   • Ferguson, *House of Rothschild* (ARC–GERMANIA-T-MODERN) [ERC-SECONDARY]
+
+4. TEMPORAL PRECEDENCE WITHIN ARC:
+   Temporal precedence applies within each ARC independently.
+   Cross-ARC sources do not override within-ARC precedence.
+
+5. DISCOVERY FLAG FOR UNLISTED:
+   If a source is not in any relevant ARC, standard discovery rules apply.
+
+TSP CROSS-CITATION EXAMPLES:
+
+MEM–ANGLIA–HAMILTON (TSP:RECONSTITUTION):
+• Primary ARC: ARC–ANGLIA
+• Cross-ARC: ARC–ANGLIA sources on Bank of England (template)
+• No cross-civilization ARC needed (reconstitution within Anglia)
+
+MEM–ANGLIA–ROTHSCHILD (TSP:NETWORK):
+• Primary ARC: ARC–ANGLIA
+• Cross-ARC: ARC–GERMANIA sources on Frankfurt origins
+• Cross-ARC: ARC–FRANCIA sources on Paris operations
+
+MEM–ROME–RUSSIA (TSP:TRANSMISSION):
+• Primary ARC: ARC–ROME (if filed under ROME)
+• Cross-ARC: ARC–RUSSIA sources on receiving context
+
+────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
 ARC-T (temporal categories) and ERC (evidence role categories)
@@ -153,7 +227,7 @@ See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-The following are governed by CIV–MEM–TEMPLATE v2.8, NOT by ARC:
+The following are governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC:
 
 • 20% verbatim quote minimum (MEM-TEMPLATE VIII)
 • Evidence Quality Standards / EQS (MEM-TEMPLATE VI)
@@ -184,5 +258,5 @@ IX. VERSIONING
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v2.7
+END OF FILE — CIV–ARC–[CIVILIZATION] v2.8
 ────────────────────────────────────────────────────────────

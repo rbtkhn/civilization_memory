@@ -1,4 +1,4 @@
-VERSION–MANIFEST — v1.12
+VERSION–MANIFEST — v1.14
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
@@ -45,14 +45,14 @@ MIND PROFILES:
 TEMPLATES:
 • CIV–MEM–TEMPLATE: v2.9
 • CIV–CORE–TEMPLATE: v2.0
-• CIV–INDEX–TEMPLATE: v2.0
+• CIV–INDEX–TEMPLATE: v2.1
 • CIV–SCHOLAR–TEMPLATE: v2.10
 • CIV–SCHOLAR–PROTOCOL: v2.6
 
 CIVILIZATION-SPECIFIC SCHOLARS:
 • CIV–SCHOLAR–GERMANIA: v2.12
 • CIV–DOCTRINE–TEMPLATE: v2.1
-• CIV–ARC–TEMPLATE: v2.7
+• CIV–ARC–TEMPLATE: v2.8
 • CIV–ARC–LEDGER–TEMPLATE: v1.0
 • CIV–CEO–TEMPLATE: v1.0
 
@@ -154,6 +154,22 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-31 (CIV–ARC–TEMPLATE v2.8 — TSP CROSS-CITATION GUIDANCE):
+• CIV–ARC–TEMPLATE: v2.7 → v2.8 (TSP cross-citation guidance)
+  – New Section V-A: Cross-ARC Citation for TSP MEMs
+  – Cross-ARC citation rules for TRANSMISSION, NETWORK, RECONSTITUTION
+  – Explicit ARC declaration format for cross-civilization sources
+  – Compatibility updated to CIV–MEM–CORE v2.9
+• VERSION–MANIFEST: CIV–ARC–TEMPLATE v2.7 → v2.8
+
+2026-01-31 (CIV–INDEX–TEMPLATE v2.1 — TSP REGISTRATION GUIDANCE):
+• CIV–INDEX–TEMPLATE: v2.0 → v2.1 (TSP registration guidance)
+  – New Section III.B: Trans-Sovereign Patterns (TSP) Registration
+  – TSP type notation in index entries (TSP:TRANSMISSION, TSP:NETWORK, TSP:RECONSTITUTION)
+  – Cross-civilizational connection visibility format
+  – Compatibility updated to CIV–MEM–CORE v2.9
+• VERSION–MANIFEST: CIV–INDEX–TEMPLATE v2.0 → v2.1
 
 2026-01-31 (CIV–MEM–CORE v2.9 — TRANS-SOVEREIGN PATTERNS):
 • CIV–MEM–CORE: v2.8 → v2.9 (TRANS-SOVEREIGN PATTERNS section)
@@ -718,5 +734,5 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.12
+END OF FILE — VERSION–MANIFEST — v1.14
 ────────────────────────────────────────────────────────────

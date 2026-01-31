@@ -1,20 +1,41 @@
-CIV–INDEX–TEMPLATE — v2.0
+CIV–INDEX–TEMPLATE — v2.1
 Civilizational Memory Codex · Civilization Index Template
-Academic Reference Canon (ARC) Integration Edition
+Academic Reference Canon (ARC) Integration Edition · Trans-Sovereign Patterns (TSP)
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–INDEX–TEMPLATE v1.8
-Upgrade Type: MAJOR · SUBSECTION GOVERNANCE + EXPANDED REGISTRY CATEGORIES
+Supersedes: CIV–INDEX–TEMPLATE v2.0
+Upgrade Type: ADDITIVE · TSP REGISTRATION GUIDANCE
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV–MEM–CORE v2.2+ · CIV–MEM–TEMPLATE v2.8+ · CIV–SCHOLAR–TEMPLATE v2.10
+Compatibility: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9 · CIV–SCHOLAR–TEMPLATE v2.10
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v2.0+ (global system law)
+• CIV–MEM–CORE v2.9 (global system law)
 
 Last Update: January 2026
-Word Count: ~2,500
+Word Count: ~2,800
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.1) — TRANS-SOVEREIGN PATTERNS (TSP) REGISTRATION
+────────────────────────────────────────────────────────────
+This version adds registration guidance for MEMs documenting
+trans-sovereign patterns (TSP), aligning with CIV–MEM–CORE v2.9.
+
+v2.1 introduces:
+
+TSP REGISTRATION GUIDANCE:
+• New Section III.C: Trans-Sovereign Patterns (TSP)
+• TSP type notation in index entries (TSP:TRANSMISSION, TSP:NETWORK, TSP:RECONSTITUTION)
+• Cross-civilizational connection visibility in registry entries
+• Compatibility updated to CIV–MEM–CORE v2.9
+
+GOVERNANCE CLARIFICATIONS:
+• TSP MEMs remain in their primary civilization's index
+• TSP notation is optional but recommended for visibility
+• Cross-civilizational connections should be noted in registry
+
+Reference: CIV–MEM–CORE v2.9, Section XXIX (Trans-Sovereign Patterns)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0) — SUBSECTION GOVERNANCE + EXPANDED CATEGORIES
@@ -148,6 +169,46 @@ Additional subsections may be created as needed, following the
 [SECTION].[LETTER] naming convention.
 
 ────────────────────────────────────────────────────────────
+III.B. TRANS-SOVEREIGN PATTERNS (TSP) REGISTRATION (NEW IN v2.1)
+────────────────────────────────────────────────────────────
+MEMs documenting trans-sovereign patterns (per CIV–MEM–CORE § XXIX)
+require special registration visibility.
+
+TSP PATTERN TYPES:
+• TRANSMISSION: Institutional logic transfers to new context
+• NETWORK: Entity operates across civilizations simultaneously
+• RECONSTITUTION: Institutional grammar survives political rupture
+
+TSP NOTATION IN INDEX (RECOMMENDED):
+When registering a TSP MEM, the index MAY include TSP type notation:
+
+Format: MEM–[CIV]–[SUBJECT] (TSP:[TYPE])
+
+Examples:
+• MEM–ANGLIA–HAMILTON (TSP:RECONSTITUTION)
+• MEM–ANGLIA–ROTHSCHILD (TSP:NETWORK)
+• MEM–GERMANIA–HANSEATIC–LEAGUE (TSP:NETWORK)
+• MEM–ROME–RUSSIA (TSP:TRANSMISSION)
+
+CROSS-CIVILIZATIONAL VISIBILITY (RECOMMENDED):
+Index entries for TSP MEMs MAY note cross-civilizational connections:
+
+Format: MEM–[CIV]–[SUBJECT] (TSP:[TYPE]) → [CONNECTED CIV(S)]
+
+Examples:
+• MEM–ANGLIA–HAMILTON (TSP:RECONSTITUTION) → ANGLIA (BoE template)
+• MEM–ANGLIA–ROTHSCHILD (TSP:NETWORK) → GERMANIA, FRANCIA
+• MEM–GERMANIA–ROTHSCHILD (TSP:NETWORK) → ANGLIA, FRANCIA
+
+TSP GOVERNANCE RULES:
+• TSP MEMs remain registered in their PRIMARY civilization's index
+• TSP notation is optional but recommended for visibility
+• Cross-civilizational connections are informational, not structural
+• TSP designation does not alter index governance rules
+
+Reference: CIV–MEM–CORE v2.9, Section XXIX
+
+────────────────────────────────────────────────────────────
 IV. CANONICAL GOVERNANCE FILES REGISTRATION
 ────────────────────────────────────────────────────────────
 Each CIV–INDEX MUST explicitly register the canonical governance
@@ -279,8 +340,8 @@ Future versions:
 • May not introduce interpretive authority
 
 All CIV–INDEX files MUST declare:
-"Derived from CIV–INDEX–TEMPLATE v2.0"
+"Derived from CIV–INDEX–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–TEMPLATE v2.0
+END OF FILE — CIV–INDEX–TEMPLATE v2.1
 ────────────────────────────────────────────────────────────

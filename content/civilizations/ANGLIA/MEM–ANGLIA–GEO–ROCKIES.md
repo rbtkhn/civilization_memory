@@ -137,7 +137,7 @@ IX. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
 • MEM–ANGLIA–UNITED–STATES–AMERICA (westward expansion, Oregon, transcontinental integration)
 • MEM–ANGLIA–BRITISH–EMPIRE (HBC, Oregon Country, imperial boundary)
 • MEM–ANGLIA–WAR–1812 (northern boundary context)
-• MEM–ANGLIA–GEO–OHIO–VALLEY (earlier westward theater; Ohio then Rockies as sequential frontiers)
+• MEM–ANGLIA–GEO–OHIO–RIVER (earlier westward theater; Ohio then Rockies as sequential frontiers)
 • MEM–ANGLIA–GEO–PACIFIC–OCEAN (Pacific terminus of Rockies drainage; Oregon, BC)
 • MEM–ANGLIA–NATIVE–AMERICANS (indigenous presence and resistance in cordillera)
 

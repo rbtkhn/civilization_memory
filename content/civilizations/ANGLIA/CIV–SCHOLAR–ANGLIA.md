@@ -171,12 +171,88 @@ Outcome:
 • Rupture is survivable when elite replacement preserves procedure.
 Status:
 • FROZEN → DOCTRINE v0.1
+Confidence: TIER 2 (70–90% — pattern implicit in MEM evidence, synthesized by SCHOLAR)
+
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: Institutional grammar survives conquest
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Conquest does not erase institutional grammar when new elites operate through existing procedural structures. |
+| BASIS | MEM–ANGLIA–WAR–HASTINGS, MEM–ANGLIA–DYNASTY–NORMANDY: elite replacement post-1066 preserved and extended administrative structures. |
+| IF_WRONG | If conquest routinely destroys institutional grammar, rupture would not be survivable through elite replacement; synthesis loses explanatory value. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: New elites adopt existing procedures
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Conquering elites have incentive to adopt (not replace) existing procedural structures when those structures sustain authority and revenue. |
+| BASIS | Norman adoption of Anglo-Saxon administrative and legal forms; continuity of sheriffs, courts, and fiscal machinery. |
+| IF_WRONG | If new elites typically impose clean-slate replacement, "elite replacement preserves procedure" would be rare; synthesis scope narrows. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Legitimacy can transfer across elite replacement
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Legitimacy accrues to the continuity of procedure and office rather than to the bloodline or ethnicity of the ruler. |
+| BASIS | Post-conquest consolidation in MEM–ANGLIA–DYNASTY–NORMANDY; legitimacy through coronation and procedural continuity. |
+| IF_WRONG | If legitimacy were strictly tied to prior dynasty or identity, rupture would not be absorbable without legitimacy collapse. |
+| LINCHPIN_STATUS | Medium |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Institutional grammar survives conquest | H | Yes |
+| 2 | New elites adopt existing procedures | H | Yes |
+| 3 | Legitimacy transfers across elite replacement | M | Yes |
 
 SYNTHESIS 0003 (0004–0005)
 Outcome:
 • Procedure operates as civilizational memory across generations.
 Status:
 • FROZEN → DOCTRINE v0.2
+Confidence: TIER 2 (70–90% — pattern implicit in MEM evidence, synthesized by SCHOLAR)
+
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: Precedent accumulates without systemic reset
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Law and governance accumulate through precedent; adaptation occurs without wholesale replacement of the legal or administrative frame. |
+| BASIS | MEM–ANGLIA–LAW–MAGNA–CARTA, MEM–ANGLIA–COMMON–LAW: constraint and continuity through accumulated precedent. |
+| IF_WRONG | If civilizational memory required narrative or ideological continuity rather than procedure, synthesis would mis-specify the mechanism. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: Procedure is the carrier of continuity
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | The primary carrier of civilizational continuity is procedural (offices, courts, precedent), not personal (charisma, dynasty) or ideological. |
+| BASIS | Common law as accumulated memory; Magna Carta as procedural constraint on sovereign authority without regime collapse. |
+| IF_WRONG | If continuity depended mainly on personality or doctrine, "procedure as memory" would be secondary; synthesis scope narrows. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Adaptation occurs within the procedural frame
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Change and adaptation are possible without collapsing the procedural frame; law and administration evolve incrementally. |
+| BASIS | MEM evidence: common law and parliamentary development across centuries without revolutionary reset. |
+| IF_WRONG | If adaptation routinely required frame-breaking, procedure would not function as stable memory; synthesis loses predictive value. |
+| LINCHPIN_STATUS | Medium |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Precedent accumulates without reset | H | Yes |
+| 2 | Procedure is carrier of continuity | H | Yes |
+| 3 | Adaptation within procedural frame | M | Yes |
 
 SYNTHESIS 0010 (0001–0006)
 Outcome:
@@ -184,6 +260,44 @@ Outcome:
   delay → rupture → legal constraint → procedural continuity.
 Status:
 • FROZEN → DOCTRINE v0.4
+Confidence: TIER 2 (70–90% — pattern implicit in MEM evidence, synthesized by SCHOLAR)
+
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: Sequence is generalizable across defeat cases
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | The sequence delay → rupture → legal constraint → procedural continuity describes a repeatable survival pattern, not a one-off. |
+| BASIS | MEM–ANGLIA–ALFRED (survival/delay), MEM–ANGLIA–WAR–HASTINGS (rupture), MEM–ANGLIA–LAW–MAGNA–CARTA / COMMON–LAW (constraint), MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN (defeat without legitimacy collapse). |
+| IF_WRONG | If sequence were historically unique, synthesis would be descriptive only; generalizability would be lost. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: Defeat does not require legitimacy collapse when exit is managed
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Strategic defeat can be absorbed without legitimacy collapse when exit is procedural (legal reinterpretation, obligation dilution) rather than chaotic. |
+| BASIS | MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN: defeat encoded procedurally; state survives. |
+| IF_WRONG | If defeat routinely produced legitimacy collapse regardless of exit management, synthesis would overstate survivability. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Procedural continuity is the survival criterion
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Survival is defined by continuity of procedure and institutional legitimacy, not by territorial or narrative intactness. |
+| BASIS | CIV–CORE–ANGLIA legitimacy accounting; MEM evidence of post-defeat procedural continuity. |
+| IF_WRONG | If survival required territorial or symbolic intactness, "sequenced survival" would be a narrower claim. |
+| LINCHPIN_STATUS | Medium |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Sequence generalizable | H | Yes |
+| 2 | Defeat + procedural exit → no legitimacy collapse | H | Yes |
+| 3 | Procedural continuity = survival criterion | M | Yes |
 
 ────────────────────────────────────────────────────────────
 V. DOCTRINE REGISTRY
@@ -249,6 +363,31 @@ No belief propagation.
 No doctrinal mutation.
 
 ────────────────────────────────────────────────────────────
+OGE — EMBEDDED SPECIFICATION (CIV–SCHOLAR–TEMPLATE XI.A)
+────────────────────────────────────────────────────────────
+LEARN mode uses OGE (Option Generation Engine) to direct discovery.
+This specification is embedded per CIV–SCHOLAR–TEMPLATE v2.10 § XI.A.
+
+LEARN OGE CATEGORIES:
+1. INGESTION OPTIONS — Next MEM or source to ingest (MEM–ANGLIA–* or cross-civilization)
+2. EXPLORATION OPTIONS — Traverse MEM CONNECTIONS, compare civilizations, gap detection
+3. ANALYSIS OPTIONS — Apply Mearsheimer or Barnes lens, deepen synthesis
+4. SYNTHESIS OPTIONS — Draft or extend constraint-oriented synthesis (non-closure)
+5. TRANSITION OPTIONS — Switch mode, audit target, export or snapshot
+6. OBSERVATION OPTIONS — Ephemeral observation, anomaly flag, candidate RLL staging
+
+OGE REQUIREMENTS (per CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL):
+• Exactly 6 options (A–F) per substantive analytical turn
+• Include Mearsheimer perspective where applicable (structural, force-ratio, power distribution)
+• Include Barnes perspective where applicable (liability, defection, mechanism exposure)
+• When a MEM is under analysis: ≥1 connection-derived option (traversal to connected MEM, gap if missing, comparison via connection)
+• Include ≥1 continuation option that extends current analysis seamlessly
+• When prior turn was from another MIND: include response option ("[MIND] responds to [prior MIND]—reframe in [legitimacy/structural] terms")
+• POST-BARNES: next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes
+
+LEARN OGE answers: "What would you like me to investigate next?"
+
+────────────────────────────────────────────────────────────
 X. CANDIDATE BELIEF STAGING
 ────────────────────────────────────────────────────────────
 
@@ -301,6 +440,8 @@ No authority expanded.
 XIV. VERSIONING & CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
+
+Compliance upgrade (2026-01-31): Assumptions Boxes added to SYNTHESIS 0002, 0003, 0010, 0013; Confidence tier added to each frozen SYNTHESIS; OGE specification embedded per CIV–SCHOLAR–TEMPLATE XI.A. See AUDIT–ANGLIA–CORE–SCHOLAR–TEMPLATES.md.
 
 Future versions may:
 • Add entries
@@ -463,6 +604,44 @@ Outcome:
 • Anglia succeeds through exit.
 Status:
 • FROZEN → DOCTRINE v0.5
+Confidence: TIER 2 (70–90% — pattern implicit in MEM evidence, synthesized by SCHOLAR)
+
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: Absorption and exit are distinct civilizational strategies
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Absorption (incremental incorporation, continuity through incorporation) and exit (procedural withdrawal, optionality preservation) are structurally distinct paths to durability. |
+| BASIS | MEM–FRANCIA–DYNASTY–CAPET (absorption); MEM–ANGLIA–WAR–HUNDRED–YEARS, MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN, MEM–ANGLIA–CANADA (exit); SDI Anglia ↔ Francia. |
+| IF_WRONG | If absorption and exit were not distinguishable at civilizational level, synthesis would collapse into a single "survival strategy" claim. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: Both strategies can produce durability
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Francia achieves durability through absorption; Anglia achieves durability through exit; neither strategy is inherently superior—outcome depends on fit with civilizational structure. |
+| BASIS | Comparative MEM evidence: Capetian absorption, Anglian procedural exit; both civilizations persist. |
+| IF_WRONG | If one strategy were systematically superior, synthesis would overstate the symmetry; contrast would be normative rather than structural. |
+| LINCHPIN_STATUS | Medium |
+
+ASSUMPTION 3: Contrast is structural, not normative
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | The synthesis describes structural difference (how each civilization sustains itself), not moral or performance ranking. |
+| BASIS | SDI framing: procedural vs symbolic legitimacy; failure modes (Anglia when forced to absorb, Francia when forced to exit). |
+| IF_WRONG | If read as "Anglia better than Francia" or vice versa, synthesis would be misapplied; structural contrast would be lost. |
+| LINCHPIN_STATUS | Low |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Absorption vs exit distinct strategies | H | Yes |
+| 2 | Both produce durability | M | Yes |
+| 3 | Contrast structural not normative | L | Yes |
 
 SYNTHESIS 0015 (GEO–CORRIDOR–CHOKE — Anderson / Suez contrast)
 Outcome:

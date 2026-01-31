@@ -118,7 +118,7 @@ VII. CROSS-REFERENCED MEM FILES
 • MEM–ANGLIA–WAR–SEVEN–YEARS (war whose outcome triggers imperial reorganization)
 • MEM–ANGLIA–BRITISH–EMPIRE (empire enlarged; governance strain)
 • MEM–ANGLIA–CANADA (conquest of Canada; British policy in the interior)
-• MEM–ANGLIA–GEO–OHIO–VALLEY (Ohio and interior as contested space)
+• MEM–ANGLIA–GEO–OHIO–RIVER (Ohio and interior as contested space)
 • MEM–ANGLIA–NATIVE–AMERICANS (native agency, resistance, diplomacy)
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE (later colonial resistance; parallel logic)
 
