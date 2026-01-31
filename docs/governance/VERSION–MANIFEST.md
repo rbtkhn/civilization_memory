@@ -120,7 +120,7 @@ ANGLIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v0.7    │ Active        │
-│ CIV–INDEX–ANGLIA            │ v2.4    │ Active        │
+│ CIV–INDEX–ANGLIA            │ v2.5    │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
 │ CIV–ARC–ANGLIA              │ v1.2    │ Active        │
@@ -154,6 +154,11 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-30 (ANGLIA — BRITISH–EMPIRE–HONG–KONG, BRITISH–EMPIRE–SINGAPORE created, INDEX v2.5):
+• MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG v1.0 created (treaty port, entrepôt, 1997 handover)
+• MEM–ANGLIA–BRITISH–EMPIRE–SINGAPORE v1.0 created (Raffles founding, naval base, 1965 independence)
+• CIV–INDEX–ANGLIA: v2.4 → v2.5 (ECON section; total 123 MEMs)
 
 2026-01-30 (ANGLIA — WAR–APPOMATTOX rename to WAR–AMERICAN–CIVIL–APPOMATTOX, INDEX v2.4):
 • MEM–ANGLIA–WAR–APPOMATTOX → RENAMED to MEM–ANGLIA–WAR–AMERICAN–CIVIL–APPOMATTOX (conflict-context standardization)

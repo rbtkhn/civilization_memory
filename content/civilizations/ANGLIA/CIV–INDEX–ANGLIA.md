@@ -1,18 +1,18 @@
-CIV–INDEX–ANGLIA — v2.4
+CIV–INDEX–ANGLIA — v2.5
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.3
-Supersedes: v2.3
-Upgrade Type: RENAME (WAR–GETTYSBURG → WAR–AMERICAN–CIVIL–GETTYSBURG)
+Version: 2.5
+Supersedes: v2.4
+Upgrade Type: ADDITIVE (BRITISH–EMPIRE–HONG–KONG, BRITISH–EMPIRE–SINGAPORE)
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 121 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 123 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -107,9 +107,11 @@ D) LAW
 
 E) ECON
 • MEM–ANGLIA–BRITISH–EMPIRE.md
+• MEM–ANGLIA–BRITISH–EMPIRE–HONG–KONG.md
 • MEM–ANGLIA–BRITISH–EMPIRE–INDIA.md
 • MEM–ANGLIA–BRITISH–EMPIRE–INDIA–CLIVE.md
 • MEM–ANGLIA–BRITISH–EMPIRE–RHODES.md
+• MEM–ANGLIA–BRITISH–EMPIRE–SINGAPORE.md
 • MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA.md
 • MEM–ANGLIA–INDIA.md
 
@@ -299,5 +301,5 @@ FOOTER METADATA
 Word Count: 686
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v2.4
+END OF FILE — CIV–INDEX–ANGLIA — v2.5
 ────────────────────────────────────────────────────────────
