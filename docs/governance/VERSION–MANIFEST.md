@@ -119,7 +119,7 @@ ANGLIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–ANGLIA          │ v0.7    │ Active        │
+│ CIV–SCHOLAR–ANGLIA          │ v1.0    │ Active        │
 │ CIV–INDEX–ANGLIA            │ v2.8    │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
@@ -154,6 +154,16 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-01-30 (ANGLIA — AFRICAN–SLAVERY rename to LAW–SLAVERY):
+• MEM–ANGLIA–AFRICAN–SLAVERY → RENAMED to MEM–ANGLIA–LAW–SLAVERY
+• CIV–INDEX–ANGLIA: deprecation entry added; registry updated
+• Cross-ref: MEM–ANGLIA–WILBERFORCE updated
+
+2026-01-30 (ANGLIA — SCHOLAR v1.0 milestone):
+• CIV–SCHOLAR–ANGLIA: v0.8 → v1.0 (first stable Phase I release)
+• Header: Template Version Used added; Compatibility Phase I
+• Phase I retained; no phase transition
 
 2026-01-30 (ANGLIA — NEWTON rename to SCI–NEWTON, INDEX v2.8):
 • MEM–ANGLIA–NEWTON → RENAMED to MEM–ANGLIA–SCI–NEWTON (PERSON → OTHER as SCI-classified)

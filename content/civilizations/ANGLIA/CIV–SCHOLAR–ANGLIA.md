@@ -1,30 +1,30 @@
-CIV–SCHOLAR–ANGLIA — v0.7
+CIV–SCHOLAR–ANGLIA — v1.0
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · WRITE-LOCKED
 Activation State: ACTIVATED (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I minimal)
+Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE I (Accumulation)
+Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure)
 
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure)
 Governed by: CIV–SCHOLAR–PROTOCOL v2.2
 ARC Reference: CIV–ARC–ANGLIA v1.0
 Last Update: January 2026
 
-Upgrade Type: ADDITIVE EXTENSION (v0.6 → v0.7)
+Upgrade Type: MILESTONE (v0.8 → v1.0) — First stable Phase I release
 Upgrade Scope:
-• Added Anglia learning events ingested in this conversation
-• Recorded authorized dyadic and triadic syntheses
-• Added one frozen doctrine and one heuristic rule
+• Version bump to v1.0 (first stable Phase I release)
+• Header: Template Version Used added; Compatibility simplified to Phase I
 • NO deletion of prior material
-• NO retroactive edits
+• NO phase transition (Phase I retained)
 • NO CIV–CORE propagation
 
-Word Count: ~4,900
+Word Count: ~5,100
 
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
@@ -236,9 +236,9 @@ Permitted:
 VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (READ-ONLY)
-Doctrine Count: 4
-Total Entries: 8
-Next Entry ID: PAUSED
+Doctrine Count: 5
+Total Entries: 18
+Next Entry ID: 0019
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
@@ -315,7 +315,7 @@ Future versions may NOT:
 ────────────────────────────────────────────────────────────
 XV. END STATE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–ANGLIA v0.7 is ACTIVE, WRITE-LOCKED, and procedurally compliant.
+CIV–SCHOLAR–ANGLIA v1.0 is ACTIVE, WRITE-LOCKED, and procedurally compliant.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (ADDITIVE)
@@ -353,6 +353,94 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
+ENTRY 0012
+Source:
+• MEM–ANGLIA–CANADA — v1.3
+Ingest Type:
+• Procedural Continuity / Autonomy-Without-Rupture Memory
+Primary Belief Extracted:
+• Autonomy can be achieved through procedural evolution without
+  military separation; legitimacy accrues through patience and
+  gradual adaptation.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0013
+Source:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — v1.0
+Ingest Type:
+• Strategic Geography / Defensive Institution Memory
+Primary Belief Extracted:
+• Geography can be institutionalized as defensive filter; control
+  over transit (not exclusion) converts separation into security
+  and produces strategic patience.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0014
+Source:
+• MEM–ANGLIA–GEO–ATLANTIC — v1.0
+Ingest Type:
+• Strategic Geography / Maritime Core Memory
+Primary Belief Extracted:
+• Atlantic operates as civilizational operating system; maritime
+  circulation and procedure matter more than territorial possession;
+  naval primacy is structure, not tool.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0015
+Source:
+• MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — v1.0
+Ingest Type:
+• Strategic Geography / Peripheral Classroom Memory
+Primary Belief Extracted:
+• Mediterranean functions as secondary classroom—learned from, not
+  anchored to; offshore balancing and failure-mode study over
+  regional identity.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0016
+Source:
+• MEM–ANGLIA–GEO–SUEZ–CANAL — v1.0
+Ingest Type:
+• Strategic Geography / Chokepoint & Loss-Absorption Memory
+Primary Belief Extracted:
+• Control the route, not the land; defend the corridor, not the
+  hinterland; lose the canal, survive the loss. Procedural control
+  without sovereignty; loss survivable when core (Atlantic/Channel)
+  remains intact (ties SDI 0004/0005, SYNTHESIS 0015/0016).
+Belief Status:
+• UNFROZEN
+
+ENTRY 0017
+Source:
+• MEM–ANGLIA–WAR–SPANISH–ARMADA — v1.0
+Ingest Type:
+• War Memory / Channel Core Defensive Victory
+Primary Belief Extracted:
+• Invasion fails at the Channel; defensive victory consolidates
+  legitimacy and identity without conquest. Channel as decisive
+  filter—harassment, weather, logistics break invasion; realm
+  survives (ties ENTRY 0013 English Channel, maritime hierarchy core).
+Belief Status:
+• UNFROZEN
+
+ENTRY 0018
+Source:
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.5
+Ingest Type:
+• War Memory / Channel Denial & Maritime Irreversibility
+Primary Belief Extracted:
+• Sea control is survival requirement, not advantage; Trafalgar
+  irreversibly secures maritime supremacy and renders continental
+  invasion (Napoleon's Channel plan) structurally impossible.
+  Anglia's core defensive node (Channel) holds; Francia loses
+  maritime option (ties SDI 0006, ENTRY 0013, Armada/Channel note).
+Belief Status:
+• UNFROZEN
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG (ADDITIVE)
 ────────────────────────────────────────────────────────────
@@ -375,6 +463,69 @@ Outcome:
 • Anglia succeeds through exit.
 Status:
 • FROZEN → DOCTRINE v0.5
+
+SYNTHESIS 0015 (GEO–CORRIDOR–CHOKE — Anderson / Suez contrast)
+Outcome:
+• Continental corridors (Anderson): convergence of interests at a
+  geographic point → empire of scale → deferred governance stress;
+  stress is structural and not easily reversed.
+• Maritime chokes (Suez logic): control of route without sovereignty
+  → procedural control and survivable exit; loss of choke can be
+  encoded without system collapse.
+Status:
+• UNFROZEN
+
+SYNTHESIS 0016 (0013–0015)
+Outcome:
+• Channel = core defensive node (moat, control surface); Atlantic =
+  civilizational operating system (circulation, finance, naval
+  substrate); Mediterranean = peripheral classroom (learning,
+  balancing, no identity anchor).
+• Maritime hierarchy: core (Channel) → ocean (Atlantic) → classroom
+  (Mediterranean).
+Status:
+• UNFROZEN
+
+SYNTHESIS 0017 (0016 + 0013–0016)
+Outcome:
+• Suez (0016) = choke within classroom (Mediterranean); procedural
+  control without sovereignty; 1956 loss confirms loss absorption
+  (SDI 0005): empire ends, state survives; hierarchy (0013–0015)
+  intact. Suez ties corridor/choke (SYNTHESIS 0015) to maritime
+  hierarchy and SDI 0004/0005.
+Status:
+• UNFROZEN
+
+SYNTHESIS 0018 (0017 + 0013)
+Outcome:
+• Armada (0017) confirms Channel (0013) as core defensive node:
+  invasion fails at the Channel; harassment, weather, logistics
+  break continental ambition; defensive victory without conquest.
+  Ties maritime hierarchy (SYNTHESIS 0016) and MEM–ANGLIA–GEO–
+  ENGLISH–CHANNEL: "the Channel defeats ambition through logistics."
+Status:
+• UNFROZEN
+
+SYNTHESIS 0019 (0018 + 0017 + 0013)
+Outcome:
+• Nelson/Trafalgar (0018) = Anglia's mirror of Armada (0017): same
+  Channel core, opposite outcome. 1588 Spain fails at Channel;
+  1805 Anglia denies Channel to France; sea control as survival
+  requirement. Ties SDI 0006 (Channel as filter), SYNTHESIS 0018;
+  continental invasion impossible when core holds.
+Status:
+• UNFROZEN
+
+NOTE — Armada (0017) / Channel (0013) / Trafalgar (Francia) cross-link:
+Invasion fails at the Channel (1588 Armada: Spain); France cannot
+contest the Channel (1805 Trafalgar: Napoleon). Same structural
+filter: continental power attempts Channel crossing or concentration—
+Armada broken by harassment, weather, logistics; Trafalgar destroys
+French fleet before invasion can be attempted. Channel (0013) as
+core defensive node holds across centuries; Anglia defends, continental
+rivals fail. SDI 0004/0005 (maritime grammar, loss absorption) apply:
+Anglia's core intact; continental powers lose maritime option at
+the Channel.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY (ADDITIVE)
@@ -404,6 +555,41 @@ Result:
 • Francia fails when forced to exit.
 • Anglia fails when forced to absorb.
 
+SDI ENTRY 0004
+• Anglia ↔ Francia — Maritime Grammar
+Result:
+• Anglia structures itself around maritime hierarchy (core → ocean
+  → classroom); sea as operating system and identity substrate.
+• Francia is formed by Mediterranean but cannot sustain maritime
+  primacy; continental by structure, sea as mission or impossibility.
+
+SDI ENTRY 0005
+• Anglia ↔ Francia — Loss Absorption
+Result:
+• Anglia loses Suez (1956): empire ends; state survives; Atlantic/
+  Channel operating system intact; classroom loss is survivable.
+• Francia loses Trafalgar (1805): maritime option destroyed; invasion
+  impossible; continental strategy only; one defeat ends sea power.
+
+SDI ENTRY 0006
+• Anglia ↔ Spain/Habsburg — Channel as Filter
+Result:
+• 1588 Armada: Spain (Philip II) attempts Channel crossing; invasion
+  fails at the Channel; harassment, weather, logistics break
+  continental ambition; Anglia's core defensive node holds.
+• 1805 Trafalgar (Francia): France cannot contest Channel; same
+  structural filter across centuries—continental power fails at
+  core; Anglia defends, rival loses maritime option.
+
+NOTE — SDI 0004 / 0005 cross-link:
+Maritime grammar (0004) explains loss absorption (0005). Anglia can
+lose Suez and survive because its legitimacy and power are anchored
+in the Atlantic/Channel operating system; the Mediterranean is
+classroom, not core. Francia cannot absorb Trafalgar as a maritime
+rival because it never had maritime primacy as operating system—sea
+was mission or impossibility. Grammar (where identity and structure
+are invested) determines who can afford to lose in which theater.
+
 ────────────────────────────────────────────────────────────
 XXI. LOCK CONFIRMATION
 ────────────────────────────────────────────────────────────
@@ -414,5 +600,5 @@ Synthesis: PROHIBITED
 Doctrine Mutation: PROHIBITED
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ANGLIA v0.7
+END OF FILE — CIV–SCHOLAR–ANGLIA v1.0
 ────────────────────────────────────────────────────────────

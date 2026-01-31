@@ -1,12 +1,12 @@
-MEM–ANGLIA–AFRICAN–SLAVERY — v1.0
+MEM–ANGLIA–LAW–SLAVERY — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
 Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
+Supersedes: v1.0 (file renamed from MEM–ANGLIA–AFRICAN–SLAVERY)
+Upgrade Type: RENAME (AFRICAN–SLAVERY → LAW–SLAVERY) · ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
 Civilization: ANGLIA
-Subject: African Slavery (Imperial Contradiction, Systemic Utility, Moral Rupture)
+Subject: Slavery (Law, Imperial Contradiction, Systemic Utility, Moral Rupture)
 Dates: 17th century–19th century AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -14,7 +14,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves African slavery as **Anglia’s deepest civilizational
+This file preserves African slavery as **Anglia's deepest civilizational
 contradiction**: a system that powered maritime capitalism, imperial
 expansion, and Atlantic dominance while fundamentally violating the
 procedural, legal, and moral grammar Anglia claimed to embody.
@@ -27,7 +27,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. SLAVERY AS ATLANTIC INFRASTRUCTURE
 ────────────────────────────────────────────────────────────
-Slavery is embedded in Anglia’s system rise.
+Slavery is embedded in Anglia's system rise.
 
 Functions:
 • Plantation labor engine
@@ -107,7 +107,7 @@ Lessons:
 • Economic systems shape ethics.
 • Abolition corrects legitimacy but not damage.
 
-Slavery exposes Anglia’s moral ceiling.
+Slavery exposes Anglia's moral ceiling.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
@@ -116,10 +116,10 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Capitalism absorbed slavery efficiently.
 • Moral correction lagged profit.
 • Abolition repaired legitimacy, not lives.
-• Slavery is Anglia’s unresolved wound.
+• Slavery is Anglia's unresolved wound.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–AFRICAN–SLAVERY — v1.1
+END OF FILE — MEM–ANGLIA–LAW–SLAVERY — v1.1
 ────────────────────────────────────────────────────────────

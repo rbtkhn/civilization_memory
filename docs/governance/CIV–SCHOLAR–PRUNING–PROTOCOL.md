@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL
 Version: 1.0
 Scope: ALL CIVILIZATIONS
 Class: GOVERNANCE–PROTOCOL
-Compatibility: CIV–MEM–CORE v2.2+ · CIV–SCHOLAR–TEMPLATE v2.5
+Compatibility: CIV–MEM–CORE v2.2+ · CIV–SCHOLAR–TEMPLATE v2.10
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

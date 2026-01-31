@@ -173,7 +173,7 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
-• MEM–ANGLIA–AFRICAN–SLAVERY — Wilberforce's abolition campaign; Slave Trade Act 1807, Slavery Abolition Act 1833.
+• MEM–ANGLIA–LAW–SLAVERY — Wilberforce's abolition campaign; Slave Trade Act 1807, Slavery Abolition Act 1833.
 • MEM–ANGLIA–BRITISH–EMPIRE — Moral imperialism, "civilizing mission," abolition as imperial rebranding.
 • MEM–ANGLIA–LAW–PARLIAMENT — Wilberforce as model of parliamentary activism, procedural reform.
 • MEM–ANGLIA–VICTORIA — Abolition legacy shapes Victorian imperial self-understanding.

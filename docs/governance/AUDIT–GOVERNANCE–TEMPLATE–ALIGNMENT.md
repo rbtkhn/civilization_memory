@@ -126,14 +126,18 @@ v2.8 satisfies all "v2.6" and "v2.7+" minimums; no mandatory change.
 - **CIV–SCHOLAR–TEMPLATE v2.10** implements Synthesis Tradecraft (Assumptions Box, ACH) and references CORE XXVI–XXVII. **Aligned.**
 - **CMC–BOOTSTRAP v2.13** and **cmc-tri-frame-protocol** reference CCM § XXVIII. **Aligned.**
 
-*(Corrected: Canonical Status is Section **XXIII** in CORE, not XXIX.)*
+*(Corrected: First Canonical Status section is **XXIII**; CORE also has **XXIX** (CANONICAL STATUS UPDATED) at end of file.)*
 
 ---
 
 ## VIII. RECOMMENDED FIXES
 
-1. **CIV–MIND–BARNES:** In III.D and III.E, update "CIV–SCHOLAR–TEMPLATE v2.5" to **v2.10** (defines three phases / defines two layers).
-2. **This audit doc:** Section VII (and any prior copy) — use **XXIII** for Canonical Status; CORE has no section XXIX.
+**Applied (verified 2026-01-30):**
+- **CIV–MIND–BARNES:** III.D and III.E now cite CIV–SCHOLAR–TEMPLATE **v2.10** (defines three phases / two layers). ✓
+
+**Applied (this run):**
+1. **CIV–SCHOLAR–PRUNING–PROTOCOL** line 9: Compatibility "CIV–SCHOLAR–TEMPLATE v2.5" → **v2.10**. ✓
+2. **CIV–INDEX–TEMPLATE** lines 9, 55: "CIV–SCHOLAR–TEMPLATE v2.5" → **v2.10**. ✓
 
 Optional clarity bumps (applied 2026-01-30): CIV–MEM–TEMPLATE and CIV–SCHOLAR–TEMPLATE "v2.7" → "v2.8"; CIV–MIND–BARNES "Governed by CIV–MEM–CORE v2.6" → v2.8.
 
@@ -152,6 +156,74 @@ Bound by:
 • CIV–MEM–TEMPLATE v2.9
 • CIV–SCHOLAR–TEMPLATE v2.10
 ```
+
+---
+
+## X. FULL ALIGNMENT AUDIT RUN (GOVERNANCE + TEMPLATES vs CORE)
+
+**Date:** 2026-01-30  
+**Anchor:** CIV–MEM–CORE v2.8  
+**Scope:** All files in `docs/governance/` and `docs/templates/` checked for CORE version refs, section refs (XXII–XXIX, VP-1), and structural alignment.
+
+### X.A CORE SECTION MAP (REFERENCE)
+
+| Section | Topic |
+|--------|--------|
+| I–XXI | Purpose, file taxonomy, governance, ARC, VP-1 (MIND, Blend Law) |
+| XXII | SAP (Scholarly Authority Protocol) |
+| XXIII | Canonical Status |
+| XXIV | Three-Layer MEM Architecture (TLA) |
+| XXV | Structured Data Governance |
+| XXVI | Synthesis Validation Protocol |
+| XXVII | Intelligence Tradecraft Integration (ITI) |
+| XXVIII | Cross-Civilizational Misperception (CCM) |
+| XXIX | Canonical Status (Updated) |
+
+### X.B GOVERNANCE FILES — ALIGNMENT STATUS
+
+| File | CORE ref | Status |
+|------|----------|--------|
+| CIV–MEM–CORE | — (anchor) | ✓ Canonical v2.8 |
+| CMC–BOOTSTRAP | v2.8, § XXVIII | ✓ Aligned |
+| VERSION–MANIFEST | v2.8 § II/VI | ✓ Aligned |
+| CIV–SCHOLAR–PRUNING–PROTOCOL | v2.2+, SCHOLAR v2.10 | ✓ Aligned (fixed this run) |
+| NAMESPACE–CLARIFICATION | Section XII, ARC–TEMPLATE | ✓ Aligned |
+| CURSOR_SYSTEM_PROMPT | (no version) | ✓ Spirit-aligned (file classes, no synthesis) |
+| AUDIT / PROPOSAL / REPORT / RUN / TEST | CORE § refs where used | ✓ Aligned |
+
+### X.C TEMPLATE FILES — ALIGNMENT STATUS
+
+| File | CORE ref | Status |
+|------|----------|--------|
+| CIV–MEM–TEMPLATE | v2.8+, XXIV–XXVII, VP-1.g | ✓ Aligned |
+| CIV–SCHOLAR–TEMPLATE | v2.8+, XXVI–XXVII | ✓ Aligned |
+| CIV–SCHOLAR–PROTOCOL | CORE, Template v2.6+ | ✓ v2.10 satisfies |
+| CIV–MIND–TEMPLATE | v2.6 (min) | ✓ v2.8 satisfies |
+| CIV–MIND–MERCOURIS | v2.6 | ✓ v2.8 satisfies |
+| CIV–MIND–MEARSHEIMER | v2.6 | ✓ v2.8 satisfies |
+| CIV–MIND–BARNES | v2.8, SCHOLAR v2.10 | ✓ Aligned |
+| CIV–DOCTRINE–TEMPLATE | v2.0+ | ✓ Aligned |
+| CIV–CORE–TEMPLATE | v2.2+ | ✓ Aligned |
+| CIV–INDEX–TEMPLATE | v2.2+, MEM v2.8+, SCHOLAR v2.10 | ✓ Aligned (fixed this run) |
+| CIV–ARC–TEMPLATE | MEM–TEMPLATE v2.8+; CORE XII via NAMESPACE | ✓ Aligned |
+| CIV–ARC–LEDGER–TEMPLATE | ARC v2.7, MEM v2.8 | ✓ Aligned |
+| CIV–CEO–TEMPLATE | CORE (authority flow) | ✓ Aligned |
+
+### X.D STRUCTURAL ALIGNMENT (CORE → TEMPLATES)
+
+- **VP-1 (Blend Law):** CIV–MEM–TEMPLATE § GEO–MEM, CIV–MIND–* reference VP-1.g. ✓  
+- **SAP (XXII):** CMC–BOOTSTRAP SAP section; MEM/SCHOLAR templates imply SAP. ✓  
+- **TLA (XXIV–XXV):** CIV–MEM–TEMPLATE v2.9 implements Layer 1/2/3. ✓  
+- **Synthesis/ITI (XXVI–XXVII):** CIV–SCHOLAR–TEMPLATE v2.10 implements Assumptions Box, ACH. ✓  
+- **CCM (XXVIII):** CMC–BOOTSTRAP QUICK START step 8, ACTIVE CONSTRAINTS; tri-frame protocol. ✓  
+
+### X.E VERDICT
+
+**ALIGNED:** Core governance (CORE, BOOTSTRAP, VERSION–MANIFEST, NAMESPACE) and all templates are structurally aligned with CIV–MEM–CORE v2.8. Version bindings in VERSION–MANIFEST and CMC–BOOTSTRAP match actual file headers.
+
+**MINOR (2):** CIV–SCHOLAR–PRUNING–PROTOCOL and CIV–INDEX–TEMPLATE cited SCHOLAR–TEMPLATE v2.5; updated to v2.10 this run. ✓
+
+**OPTIONAL:** CIV–MIND–TEMPLATE, CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER cite CORE "v2.6" (min); v2.8 satisfies. CIV–SCHOLAR–PROTOCOL body cites Template "v2.6"; v2.10 satisfies. No mandatory change.
 
 ---
 
