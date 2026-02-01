@@ -217,7 +217,15 @@ not a moral declaration.
 
 • **John Keegan**
 Emphasizes the military-fiscal pressures that forced constraint,
-grounding the document in power realities.
+grounding the document in power realities. Verbatim:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
 
 Scholar engagement is analytical, not reverential.
 

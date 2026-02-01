@@ -1,10 +1,10 @@
-MEM–ANGLIA–ROTHSCHILD — v1.4
+MEM–ANGLIA–ROTHSCHILD — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: ADDITIVE · MEM connection BANK–ENGLAND (audit alignment)
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, GEO, v2.0)
 Civilization: ANGLIA
 Subject: Nathan Mayer Rothschild and the London House (British Government Finance, Napoleonic War Loans, and Credit as Leverage)
 Dates: 1798–1836 AD (Nathan's active period); London house c. 1798–present
@@ -131,20 +131,28 @@ VII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Same-civilization (Anglia):
-• MEM–ANGLIA–BANK–ENGLAND — BoE and Rothschild as parallel enablers of British war finance; market for government debt
-• MEM–ANGLIA–PITT–YOUNGER — Public credit, wartime finance, coalition warfare; Rothschild as enabler of Pitt's fiscal-naval strategy
-• MEM–ANGLIA–WAR–NAPOLEON — British war expenditure, subsidies to allies, specie supply; Rothschild distribution network
-• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — Waterloo legend, information velocity, bond market impact
-• MEM–ANGLIA–BRITISH–EMPIRE — Imperial finance, maritime-financial foundation; Rothschild as private node in imperial funding
-• MEM–ANGLIA–DYNASTY–HANOVER — Regency and post-Waterloo British state; Rothschild relationship with government
-• MEM–ANGLIA–MORGAN — Comparative: New York Morgan as American analogue; private finance and government (Chernow *House of Morgan*)
+ANGLIA (same-civilization):
+• MEM–ANGLIA–BANK–ENGLAND — BoE and Rothschild as parallel enablers of British war finance; market for government debt.
+• MEM–ANGLIA–PITT–YOUNGER — Public credit, wartime finance, coalition warfare; Rothschild as enabler of Pitt's fiscal-naval strategy.
+• MEM–ANGLIA–WAR–NAPOLEON — British war expenditure, subsidies to allies, specie supply; Rothschild distribution network.
+• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — Waterloo legend, information velocity, bond market impact.
+• MEM–ANGLIA–BRITISH–EMPIRE — Imperial finance, maritime-financial foundation; Rothschild as private node in imperial funding.
+• MEM–ANGLIA–DYNASTY–HANOVER — Regency and post-Waterloo British state; Rothschild relationship with government.
+• MEM–ANGLIA–MORGAN — Comparative: New York Morgan as American analogue; private finance and government (Chernow *House of Morgan*).
+• MEM–ANGLIA–WELLINGTON — Subsidies to armies; Rothschild specie and coordination.
+• MEM–ANGLIA–CASTLEREAGH — Post-Waterloo finance and diplomacy; Rothschild and government.
+• MEM–ANGLIA–VICTORIA — Later imperial finance; London house centrality.
+• MEM–ANGLIA–FEDERAL–RESERVE — Comparative: private/state money supply (Griffin thematic link).
+
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — London as node; cross-Channel capital and information flow.
+• MEM–ANGLIA–GEO–ATLANTIC — Trans-Atlantic capital; specie and bond flows.
 
 Cross-civilization:
-• MEM–GERMANIA–ROTHSCHILD — Frankfurt origins, five arrows, trans-sovereign network; London as one node
-• MEM–FRANCIA–PARIS — James Rothschild's house; Franco-British financial coordination during and after Napoleonic Wars
+• MEM–GERMANIA–ROTHSCHILD — Frankfurt origins, five arrows, trans-sovereign network; London as one node.
+• MEM–FRANCIA–PARIS — James Rothschild's house; Franco-British financial coordination during and after Napoleonic Wars.
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY SOURCES & REFERENCES
@@ -169,5 +177,5 @@ Critical / interpretive (ERC-CRITICAL):
 • **G. Edward Griffin**, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994) — Comparative/critical perspective on private/elite influence over money supply (Federal Reserve, Jekyll Island 1910); thematic link to "who controls the money supply"; not a source on Nathan Rothschild.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ROTHSCHILD — v1.4
+END OF FILE — MEM–ANGLIA–ROTHSCHILD — v2.0
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–ANGLIA–WAR–HUNDRED–YEARS — v1.4
+MEM–ANGLIA–WAR–HUNDRED–YEARS — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Template v1.6 Compliance · Source Hardening · Structural Synthesis)
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Subject: Hundred Years’ War (Continental Overreach & Strategic Exit)
 Dates: 1337–1453 AD
@@ -91,10 +92,18 @@ Constraints include:
 John Keegan emphasizes that the war reveals a mismatch between **tactical
 competence and strategic sustainability**, noting that Anglia could win
 battles without possessing the institutional depth required to rule
-France.
+France. On the restraint that institutions impose on violence he writes:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
-V. WAR AS MANAGED PERSISTENAD
+V. WAR AS MANAGED PERSISTENCE
 ────────────────────────────────────────────────────────────
 As decisive victory recedes, Anglia adapts.
 
@@ -163,19 +172,30 @@ VIII. DISTINGUISHED SCHOLAR ENGAGEMENT (ANGLIA)
 Scholar engagement is analytical, not commemorative.
 
 ────────────────────────────────────────────────────────────
-IX. CROSS-REFERENCED MEM FILES (STRUCTURAL)
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-ANGLIA:
-• MEM–ANGLIA–WAR–AGINCOURT — tactical peak without strategic resolution
-• MEM–ANGLIA–WAR–HASTINGS — defeat with elite replacement
-• MEM–ANGLIA–COMMON–LAW — procedural absorption of conflict
-• MEM–ANGLIA–LAW–MAGNA–CARTA — constraint under pressure
-• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — later exit without collapse
+ANGLIA (same-civilization):
+• MEM–ANGLIA–WAR–AGINCOURT — tactical peak without strategic resolution.
+• MEM–ANGLIA–WAR–HASTINGS — defeat with elite replacement; contrast: Hundred Years exit without rupture.
+• MEM–ANGLIA–COMMON–LAW — procedural absorption of conflict; parliamentary consent into war-making.
+• MEM–ANGLIA–LAW–MAGNA–CARTA — constraint under pressure; fiscal bargaining.
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — later exit without collapse; procedural defeat.
+• MEM–ANGLIA–DYNASTY–PLANTAGENET — Plantagenet inheritance; continental dynastic claims.
+• MEM–ANGLIA–EDWARD–I — Edward III’s claim; dynastic logic and later domestic consolidation.
+• MEM–ANGLIA–HENRY–V — tactical success; Agincourt without absorption.
+• MEM–ANGLIA–HENRY–VI — prolonged strain; loss of French territories.
+• MEM–ANGLIA–WAR–CRECY — Froissart; tactical superiority without governance.
+• MEM–ANGLIA–WAR–BANNOCKBURN — earlier Scottish lesson; continental vs insular.
+• MEM–ANGLIA–ENGLAND — insular reorientation; maritime over continental.
+
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — insular identity; withdrawal to island core.
+• MEM–ANGLIA–GEO–ATLANTIC — naval investment; indirect power projection.
 
 Cross-Civilizational:
-• MEM–FRANCIA–DYNASTY–CAPET — absorption through patience
-• MEM–GERMANIA–OTTONIAN — kingship-centered consolidation
-• MEM–ROME–REPUBLIC — expansion without durable constraint
+• MEM–FRANCIA–DYNASTY–CAPET — absorption through patience; Francien resistance to elite replacement.
+• MEM–GERMANIA–OTTONIAN — kingship-centered consolidation.
+• MEM–ROME–REPUBLIC — expansion without durable constraint.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
@@ -226,8 +246,22 @@ D) Secondary Path — Quigley on civilizational redirection
 E) Analytical Extension — Exit without collapse (Yorktown comparison)  
 F) Analytical Extension — Overreach vs absorption (Capetians contrast)  
 G) Counterfactual — What if Anglia had attempted full absorption?  
-H) Compliance & Integrity Audit — Template v1.6
+H) Compliance & Integrity Audit — Template v2.9
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–HUNDRED–YEARS v1.4
+XIV. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• Edward III, proclamation to the French peers, 1337 — crown of France by lawful succession; right and reason.
+• Jean Froissart, *Chroniques*, c. 1370s — Crécy and Poitiers; tactical superiority without conversion.
+• Rolls of Parliament, late 14th c. — commons grant subsidy with petition that realm not be further burdened without common assent.
+
+Secondary:
+• John Keegan — tactical competence vs strategic sustainability; win battles without institutional depth to rule.
+• Winston Churchill — cost of foreign crowns; value of insular focus.
+• Carroll Quigley — failure as civilizational learning; territorial ambition replaced by systemic leverage.
+• Niall Ferguson — fiscal-military pressure accelerates procedural governance rather than absolutism.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–HUNDRED–YEARS — v2.0
 ────────────────────────────────────────────────────────────

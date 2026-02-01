@@ -1,9 +1,10 @@
-MEM–ANGLIA–RICHARD–LIONHEART — v1.4
+MEM–ANGLIA–RICHARD–LIONHEART — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Hardened Source Compliance · Distinguished Scholar Rule — ANGLIA)
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Subject: Richard I (the Lionheart)
 Dates: 1157–1199 AD
@@ -157,7 +158,7 @@ no governing legacy to contest.
 Richard becomes **myth without mandate**.
 
 ────────────────────────────────────────────────────────────
-VIII. LONG-TERM CIVILIZATIONAL SIGNIFICANAD
+VIII. LONG-TERM CIVILIZATIONAL SIGNIFICANCE
 (SECONDARY)
 ────────────────────────────────────────────────────────────
 Richard clarifies Anglia’s trajectory by contrast.
@@ -175,7 +176,7 @@ His reign functions as a negative template.
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-ANGLIA:
+ANGLIA (same-civilization):
 1) MEM–ANGLIA–ALFRED  
    — survival through stewardship contrasts with Richard’s performative kingship.
 2) MEM–ANGLIA–HENRY–II  
@@ -186,6 +187,15 @@ ANGLIA:
    — rupture executed procedurally rather than personally.
 5) MEM–ANGLIA–ELIZABETH–I  
    — managed absence and symbolic authority without abdication of governance.
+6) MEM–ANGLIA–WAR–CRUSADES — Third Crusade as Richard’s defining theatre; pan-European fame.
+7) MEM–ANGLIA–DYNASTY–PLANTAGENET — Angevin realm; Richard as Plantagenet king.
+8) MEM–ANGLIA–COMMON–LAW — procedural administration beneath royal absence; justiciars.
+9) MEM–ANGLIA–LAW–MAGNA–CARTA — later constraint; Richard’s extraction foreshadows baronial reaction.
+10) MEM–ANGLIA–EDWARD–I — later martial kingship with domestic consolidation; contrast to Richard.
+
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Angevin cross-Channel realm; Richard’s absence from island core.
+• MEM–ANGLIA–GEO–MEDITERRANEAN–SEA — crusade theatre; Richard’s fame from Acre to the sea.
 
 Cross-Civilizational:
 6) MEM–FRANCIA–CRUSADES  
@@ -227,12 +237,26 @@ Student choice determines interpretive pathway.
 XII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL and compliant with:
-• CIV–MEM–TEMPLATE v1.2 (Hardened Scholarship Edition)
+• CIV–MEM–TEMPLATE v2.9
 • Primary Source Requirement (≥3 embedded quotations ≥25 words)
 • Distinguished Scholar Rule — ANGLIA
+• MEM CONNECTIONS (≥10 same-civ, ≥2 GEO)
 • Cross-civilizational connectivity standards
 • Pedagogical affordance requirements
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–RICHARD–LIONHEART — v1.4
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• Roger of Hoveden, *Chronica* — Richard’s care for realm vs fame.
+• Ambroise, *Estoire de la Guerre Sainte* — Richard as transnational champion.
+• Pipe Rolls / royal writ 1193 — fiscal extraction, king’s journey and ransom.
+
+Secondary:
+• Will Durant — Richard as anachronistic hero; law and office vs sword and song.
+• Carroll Quigley — symbolic surplus; reputational capital vs systemic contribution.
+• William Manchester — charisma without institutionalization; memory not continuity.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–RICHARD–LIONHEART — v2.0
 ────────────────────────────────────────────────────────────

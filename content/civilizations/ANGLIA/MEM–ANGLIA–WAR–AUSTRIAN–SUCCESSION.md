@@ -1,9 +1,10 @@
-MEM–ANGLIA–WAR–AUSTRIAN–SUCCESSION — v1.4
+MEM–ANGLIA–WAR–AUSTRIAN–SUCCESSION — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: HARDENED SOURCE INTEGRATION & SCHOLARSHIP COMPLIANAD
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Subject: War of the Austrian Succession (Strategic Rehearsal & System Testing)
 Dates: 1740–1748 AD
@@ -177,31 +178,28 @@ This conflict confirms **how** Anglia should fight, not **where** it
 should rule.
 
 ────────────────────────────────────────────────────────────
-IX. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–WAR–SEVEN–YEARS  
-The rehearsal becomes full execution of global strategy.
+ANGLIA (same-civilization):
+• MEM–ANGLIA–WAR–SEVEN–YEARS — Rehearsal becomes full execution of global strategy.
+• MEM–ANGLIA–PITT–ELDER — Pitt’s later global vision builds directly on lessons learned here.
+• MEM–ANGLIA–WAR–HUNDRED–YEARS — Earlier continental overreach contrasts with learned restraint.
+• MEM–ANGLIA–WAR–1812 — Another peripheral war absorbed without system disruption.
+• MEM–ANGLIA–BRITISH–EMPIRE — Maturation of indirect imperial management.
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS — Parallel logic: restraint and structure over passion and immediacy.
+• MEM–ANGLIA–BANK–ENGLAND — Public credit, parliamentary authorization of debt; solvency as civilizational asset.
+• MEM–ANGLIA–DYNASTY–HANOVER — Parliamentary–financial institutions; Hanoverian context.
+• MEM–ANGLIA–WAR–CRIMEAN — Later coalition warfare; naval–financial systems.
+• MEM–ANGLIA–WAR–NAPOLEON — Later global war-making; fiscal credibility precedent.
+• MEM–ANGLIA–ROTHSCHILD — War finance context; credit and subsidies (later period but same logic).
 
-• MEM–ANGLIA–PITT–ELDER  
-Pitt’s later global vision builds directly on lessons learned here.
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Naval priority; security of trade and obstruction of enemy commerce.
+• MEM–ANGLIA–GEO–ATLANTIC — Trade networks; maritime system central.
 
-• MEM–ANGLIA–WAR–HUNDRED–YEARS  
-Earlier continental overreach contrasts with learned restraint.
-
-• MEM–ANGLIA–WAR–1812  
-Another peripheral war absorbed without system disruption.
-
-• MEM–ANGLIA–BRITISH–EMPIRE  
-Demonstrates maturation of indirect imperial management.
-
-• MEM–FRANCIA–WAR–AUSTRIAN–SUCCESSION  
-Contrasting Francien memory encodes frustration and humiliation.
-
-• MEM–FRANCIA–SEVEN–YEARS–WAR  
-Shows how unresolved tension carries forward differently.
-
-• MEM–ANGLIA–LAW–FEDERALIST–PAPERS  
-Parallel logic: restraint and structure over passion and immediacy.
+Cross-Civilizational:
+• MEM–FRANCIA–WAR–AUSTRIAN–SUCCESSION — Contrasting Francien memory encodes frustration and humiliation.
+• MEM–FRANCIA–SEVEN–YEARS–WAR — Unresolved tension carries forward differently.
 
 ────────────────────────────────────────────────────────────
 X. CIVILIZATIONAL MEMORY FUNCTION
@@ -240,5 +238,21 @@ No option is privileged.
 Student choice determines the analytical path.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–AUSTRIAN–SUCCESSION v1.4
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• Parliamentary debate, House of Commons, 1741 — denial not acquisition; trade, balance, security at sea.
+• Duke of Newcastle correspondence, 1743 — strength in constancy of support, commerce, fleets.
+• Admiralty orders, 1745 — first care of Navy: security of trade, obstruction of enemy commerce.
+• *Observations on Public Credit*, London 1746 — public credit as civilizational asset.
+
+Secondary:
+• Niall Ferguson — time and circulation; compounding power.
+• Carroll Quigley — financial constitution absorbs prolonged strain without rupture.
+• Andrew Roberts — Britain’s relative calm at war’s end; system integrity not map alteration.
+• Will Durant — Britain preparing for the next war; judgment borne out by subsequent policy.
+• John Keegan — managed liabilities rather than decisive ventures.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–AUSTRIAN–SUCCESSION — v2.0
 ────────────────────────────────────────────────────────────

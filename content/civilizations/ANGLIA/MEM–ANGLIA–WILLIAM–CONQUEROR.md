@@ -72,7 +72,16 @@ The Domesday survey itself declares its intent:
 
 John Keegan treats Domesday as a military-administrative instrument:
 knowledge substitutes for garrisons, allowing control without permanent
-occupation.
+occupation. On the restraint that institutions impose on the use of
+force he writes:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 IV. LAW AND CUSTOM SYNTHESIS (PRIMARY + SECONDARY)

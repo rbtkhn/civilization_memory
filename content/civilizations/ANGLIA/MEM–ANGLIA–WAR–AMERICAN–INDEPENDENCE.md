@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.1
+MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · ANDERSON CRUCIBLE OF WAR INTEGRATION · Churchill Vol. 3 (*The Age of Revolution*)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · MEM CONNECTIONS (template v2.9)
 Civilization: ANGLIA
 Regime: IMPERIAL–PROCEDURAL STRAIN / CONTROLLED LOSS (1775–1783)
 Subject: War of American Independence (Anglian Perspective)
@@ -126,7 +126,22 @@ Enduring effects:
 Anglia learns it can lose without breaking.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–AMERICAN–REVOLUTION — procedural secession; revolution as controlled exit; grievance and continuity.
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — terminal containment; imperial options collapse without homeland invasion.
+• MEM–ANGLIA–DECLARATION–INDEPENDENCE — legitimacy claim and alliance signal; universalist register.
+• MEM–ANGLIA–ADAMS — diplomat and negotiator; Treaty of Paris; first great generation.
+• MEM–ANGLIA–WAR–SEVEN–YEARS — postwar imperial strain; fiscal and administrative pressures that sharpen disputes.
+• MEM–ANGLIA–PITT–ELDER — Seven Years' War context; imperial governance pressures.
+• MEM–ANGLIA–BRITISH–EMPIRE — managed defeat; empire continues elsewhere.
+
+Cross-Civilizational:
+• MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE (as applicable) — French entry as systemic shift; alliance-as-strategy.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Procedural states can absorb defeat.
 • Legitimacy wars resist military solution.
@@ -137,5 +152,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.2
+END OF FILE — MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — v1.3
 ────────────────────────────────────────────────────────────

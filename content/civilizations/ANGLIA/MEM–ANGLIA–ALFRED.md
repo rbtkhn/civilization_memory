@@ -1,9 +1,10 @@
-MEM–ANGLIA–ALFRED–WESSEX — v1.4
+MEM–ANGLIA–ALFRED–WESSEX — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE (Churchill, *History of the English-Speaking Peoples*, Vol. 1 — *The Birth of Britain*)
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
@@ -72,9 +73,22 @@ As Alfred himself explains in correspondence attributed to his reign:
 > both the wealth and the wisdom of former times.”
 > — Alfred, Preface to the *Pastoral Care* (translation tradition)
 
-John Keegan emphasizes that Alfred’s innovation lies not in decisive
-battle, but in **making defense repeatable**, transforming survival into
-a standing condition rather than a singular event.
+John Keegan’s framework on warfare and institutional restraint fits:
+defense becomes repeatable when law and structure substitute for
+episodic heroism. In *A History of Warfare* he writes:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Alfred’s innovation lies not in decisive battle but in **making defense
+repeatable**—transforming survival into a standing condition rather
+than a singular event, through law and burh-system as institutional
+restraint.
 
 ────────────────────────────────────────────────────────────
 IV. LAW AS MEMORY PRESERVATION (PRIMARY + SECONDARY)
@@ -121,7 +135,7 @@ repair**, where knowledge transmission substitutes for material power
 during contraction phases.
 
 ────────────────────────────────────────────────────────────
-VI. KINGSHIP AS STEWARDSHIP, NOT DOMINANAD
+VI. KINGSHIP AS STEWARDSHIP, NOT DOMINATION
 ────────────────────────────────────────────────────────────
 Authority is justified through responsibility rather than conquest.
 
@@ -149,19 +163,29 @@ space**—time bought through structure, enabling later unification under
 Æthelstan.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (STRUCTURAL)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Internal (ANGLIA):
-• MEM–ANGLIA–ATHELSTAN
-• MEM–ANGLIA–COMMON–LAW
-• MEM–ANGLIA–LAW–MAGNA–CARTA
-• MEM–ANGLIA–WAR–HASTINGS
-• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN
+ANGLIA (same-civilization):
+• MEM–ANGLIA–ATHELSTAN — unification after survival; Alfred’s option space enables later consolidation.
+• MEM–ANGLIA–COMMON–LAW — law as memory preservation; continuity carrier through rupture.
+• MEM–ANGLIA–LAW–MAGNA–CARTA — procedural constraint as later shock absorber; Alfred’s law precedent.
+• MEM–ANGLIA–WAR–HASTINGS — survival under existential threat contrasts with elite-replacement rupture.
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat without civilizational rupture; endurance encoded.
+• MEM–ANGLIA–DYNASTY–WESSEX — Alfred as Wessex survival sovereign; regime continuity.
+• MEM–ANGLIA–WAR–VIKINGS — Viking pressure as existential context; defense as system.
+• MEM–ANGLIA–EDWARD–I — later procedural kingship; Alfred’s law-and-defense precedent.
+• MEM–ANGLIA–RICHARD–LIONHEART — contrast: stewardship vs glory; Alfred’s governance vs Richard’s absence.
+• MEM–ANGLIA–ENGLAND — survival of Anglo-Saxon core; identity preserved through structure.
+• MEM–ANGLIA–DYNASTY–NORMANDY — post-Hastings hybrid; Alfred’s survival precedes Norman recomposition.
+
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — insular defense, burhs, maritime raiding context.
+• MEM–ANGLIA–GEO–ATLANTIC — North Sea and Atlantic raiding pressure; defensive geography.
 
 Cross-Civilizational:
-• MEM–ROME–AURELIAN
-• MEM–FRANCIA–CAPETIANS
-• MEM–GERMANIA–OTTONIAN
+• MEM–ROME–AURELIAN — survival sovereign parallel; restoration under pressure.
+• MEM–FRANCIA–CAPETIANS — dynastic consolidation via law; contrast with Anglo-Saxon survival.
+• MEM–GERMANIA–OTTONIAN — kingship-centered structure; comparative survival logic.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -224,11 +248,29 @@ History is presented as pressure and choice.
 XIV. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL and compliant with:
-• CIV–MEM–TEMPLATE v1.6
+• CIV–MEM–TEMPLATE v2.9
 • Primary Source Requirements
 • Distinguished Scholar Rule (ANGLIA)
+• MEM CONNECTIONS (≥10 same-civ, ≥2 GEO)
 • MEM Ingest Bootstrap (v1.6)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ALFRED–WESSEX v1.3
+XV. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• *Anglo-Saxon Chronicle*, entry for 878 AD — Viking threat, Alfred as sole West Saxon king.
+• Alfred, Preface to the *Pastoral Care* — learning and memory preservation.
+• Alfred, Law Code Prologue — law as civilizational storage.
+
+Secondary (ARC-T-MODERN / ERC-SECONDARY):
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), ch. 7 "Alfred the Great" — survival without victory; refusal to disappear.
+• William of Malmesbury, *Gesta Regum Anglorum* — kingship as stewardship.
+• John Keegan — defense as repeatable system; survival as standing condition.
+• Carroll Quigley — civilizational repair; knowledge transmission under contraction.
+• Will Durant — law as memory under threat.
+• Niall Ferguson — option space; time bought through structure.
+• Andrew Roberts — kingship as caretaking under duress.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–ALFRED–WESSEX — v2.0
 ────────────────────────────────────────────────────────────

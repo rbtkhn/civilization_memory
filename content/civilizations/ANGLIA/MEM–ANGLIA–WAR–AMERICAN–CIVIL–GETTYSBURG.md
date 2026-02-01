@@ -153,7 +153,7 @@ Gettysburg's symbolic stabilization of Union legitimacy coincides with
 Vicksburg's material severance of Confederate logistics, together
 marking the simultaneous moral and systemic turning of the war.
 
-• MEM–ANGLIA–LAW–DECLARATION–INDEPENDENCE  
+• MEM–ANGLIA–DECLARATION–INDEPENDENCE  
 Lincoln's Gettysburg Address consciously echoes and repurposes the
 Declaration's universalist language, re-embedding it within an Anglian
 procedural framework rather than revolutionary rupture.

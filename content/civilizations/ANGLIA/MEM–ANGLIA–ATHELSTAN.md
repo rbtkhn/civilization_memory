@@ -73,7 +73,16 @@ Actions include:
 
 John Keegan observes that early English unification succeeded less
 through decisive battlefield annihilation than through **the extension
-of legal authority beyond zones of immediate coercion**.
+of legal authority beyond zones of immediate coercion**. On the
+restraint that law and institutions impose on violence he writes:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 IV. DIPLOMACY & EXTERNAL LEGITIMACY

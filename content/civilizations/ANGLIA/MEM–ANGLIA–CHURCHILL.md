@@ -1,9 +1,10 @@
-MEM–ANGLIA–CHURCHILL — v1.4
+MEM–ANGLIA–CHURCHILL — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Upgrade Type: ADDITIVE (Primary + Secondary Source Hardening)
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Regime: PARLIAMENTARY / IMPERIAL–DECLINING
 Subject: Winston Leonard Spencer Churchill
@@ -172,7 +173,31 @@ What does not:
 Churchill becomes **memory infrastructure**.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ANGLIA (same-civilization):
+• MEM–ANGLIA–VICTORIA — imperial confidence; Churchill formed in late Victorian belief.
+• MEM–ANGLIA–BRITISH–EMPIRE — empire as moral force; endurance as duty; managed liquidation.
+• MEM–ANGLIA–PITT–YOUNGER — wartime finance, coalition, endurance-through-credit; Churchill’s fiscal parallel.
+• MEM–ANGLIA–WELLINGTON — continental priority, victory narrative; Churchill’s martial precedent.
+• MEM–ANGLIA–DYNASTY–HANOVER — parliamentary legitimacy; long wars and credit.
+• MEM–ANGLIA–PALMERSTON — imperial rhetoric and gunboat diplomacy; language of greatness.
+• MEM–ANGLIA–GLADSTONE — contrast: reform vs spectacle; Churchill’s plasticity across parties.
+• MEM–ANGLIA–DISRAELI — imperial spectacle, narrative command; Conservative tradition.
+• MEM–ANGLIA–ROTHSCHILD — war finance, information, credit; Churchill era financial context.
+• MEM–ANGLIA–BANK–ENGLAND — solvency as civilizational asset; wartime credit.
+• MEM–ANGLIA–WAR–CRIMEAN — earlier war-as-theater; press and public narrative.
+• MEM–ANGLIA–ALFRED — survival sovereign; rhetoric as strategic resource; refusal to disappear.
+
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — island defense, “fight on the beaches”; insular identity.
+• MEM–ANGLIA–GEO–ATLANTIC — empire beyond the seas; Atlantic alliance and dependency.
+
+Cross-Civilizational:
+• (Francia, Germania MEMs as applicable — alliance dependence, postwar subordination.)
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Rhetoric can substitute for power temporarily.
 • Narrative endurance can delay but not reverse decline.
@@ -184,5 +209,18 @@ X. CONTINUITY INSIGHTS (RAW)
 Endurance preserved without restoration.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–CHURCHILL — v1.4
+XII. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• Winston S. Churchill, *Thoughts and Adventures* — imperial belief, duty, ordered liberty.
+• House of Commons speeches, 13 May 1940, 4 June 1940 — blood/toil/tears; we shall fight on the beaches.
+
+Secondary (ARC-T-MODERN / ERC-SECONDARY):
+• Andrew Roberts, *Churchill: Walking with Destiny* — strategic elasticity; power and survival over purity.
+• John Charmley, *Churchill: The End of Glory* — price of salvation as subordination.
+• David Reynolds, *Britannia Overruled* — imperial greatness and managed liquidation.
+• William Manchester, *The Last Lion* — 1945 election; wartime legitimacy non-transferable.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–CHURCHILL — v2.0
 ────────────────────────────────────────────────────────────

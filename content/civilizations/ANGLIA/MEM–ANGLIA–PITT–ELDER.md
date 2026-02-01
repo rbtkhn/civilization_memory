@@ -42,6 +42,16 @@ The implication is structural: Europe distracts; empire decides.
 
 John Keegan and Andrew Roberts both identify Pitt as the first British
 leader to treat war as a **planetary system**, not a continental contest.
+On the restraint that institutions impose on the use of force Keegan
+writes:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. MARITIME–IMPERIAL STRATEGY

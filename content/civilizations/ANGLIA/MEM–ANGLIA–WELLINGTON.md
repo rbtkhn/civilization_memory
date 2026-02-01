@@ -45,7 +45,17 @@ Principles:
 
 John Keegan characterizes Wellington as the archetype of **anti-decisive
 generalship**, winning not by brilliance but by disciplined refusal to
-lose.
+lose. In *The Mask of Command* he writes:
+
+SOURCE — Keegan, *The Mask of Command* (ARC-T-MODERN):
+> "The leader of men in warfare can show himself to his followers only
+> through a mask, a mask that he must make for himself, but a mask made
+> in such form as will mark him to men of his time and place as the
+> leader they want and need."
+> — John Keegan, *The Mask of Command* (London: Jonathan Cape, 1987) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Wellington’s mask was the constitutional general: understated, systematic,
+refusing theatrical heroics.
 
 ────────────────────────────────────────────────────────────
 III. THE PENINSULAR SYSTEM

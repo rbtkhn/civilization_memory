@@ -1,10 +1,10 @@
-MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.1
+MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Will Durant SOURCE block (ARC-T-MODERN)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · MEM CONNECTIONS (template v2.9)
 Civilization: ANGLIA
 Subject: Declaration of Independence
 Dates: 1776 AD
@@ -111,11 +111,25 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. PRIMARY SOURCES & REFERENCES
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ANGLIA:
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Declaration as external signal; grievance reframed as universal truth; alliance and cohesion.
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — war in which Declaration functions as moral justification and alliance signal.
+• MEM–ANGLIA–ADAMS — drafting and advocacy; first great generation.
+• MEM–ANGLIA–JEFFERSON — ideological articulation; Declaration authorship.
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS — post-Revolution procedural containment; ideals decoupled from institutions.
+• MEM–ANGLIA–LIT–PAINE — revolutionary catalyst; Common Sense and declarative rupture.
+
+Cross-Civilizational:
+• (Francia MEMs as applicable — alliance signaling, recognition.)
+
+────────────────────────────────────────────────────────────
+X. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Secondary (ARC-T-MODERN):
 • Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961) — Act of Abjuration (1581) and declarative legitimacy logic; CIV–ARC–ANGLIA v1.3.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.1
+END OF FILE — MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.2
 ────────────────────────────────────────────────────────────

@@ -47,7 +47,18 @@ Characteristics:
 • Moral authority over rigid hierarchy
 
 John Keegan identifies Nelson as the naval analogue of *mission command*:
-clarity of intent substitutes for micromanagement.
+clarity of intent substitutes for micromanagement. In *The Mask of
+Command* he writes:
+
+SOURCE — Keegan, *The Mask of Command* (ARC-T-MODERN):
+> "The leader of men in warfare can show himself to his followers only
+> through a mask, a mask that he must make for himself, but a mask made
+> in such form as will mark him to men of his time and place as the
+> leader they want and need."
+> — John Keegan, *The Mask of Command* (London: Jonathan Cape, 1987) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Nelson’s mask was the naval commander who led by intent and example
+rather than by continuous control.
 
 ────────────────────────────────────────────────────────────
 III. DECISION AT SEA

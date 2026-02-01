@@ -1,4 +1,4 @@
-MEM–ANGLIA–AMERICAN–REVOLUTION — v1.6
+MEM–ANGLIA–AMERICAN–REVOLUTION — v1.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
@@ -104,7 +104,17 @@ Military strategy mirrors institutional logic:
 John Keegan’s war analysis is relevant: revolutionary forces often win
 not by battlefield dominance but by **survivability and political
 continuity**—remaining a functioning institution long enough that the
-imperial state exhausts itself or reprioritizes.
+imperial state exhausts itself or reprioritizes. Keegan frames the relationship between institutions and violence thus:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Continuity of institutions—courts, congress, army under civilian authority—is what allows endurance to substitute for decisive victory.
 
 This is not “pacifism.” It is procedural war: the army remains
 instrumental to a civilian political structure rather than becoming a
@@ -217,7 +227,7 @@ ANGLIA (internal continuity and exit logic):
    — Seven Years’ War gains create the fiscal/administrative pressures that sharpen imperial governance disputes.
 3) MEM–ANGLIA–PITT–YOUNGER
    — later model of endurance-through-credit parallels American endurance-through-institutions.
-4) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENAD
+4) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE
    — operational war memory: coalition timing, endurance, and Yorktown closure.
 5) MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN
    — terminal containment event where imperial options collapse without homeland invasion.
@@ -227,7 +237,7 @@ ANGLIA (internal continuity and exit logic):
 Cross-Civilizational (structural contrasts and alliance effects):
 7) MEM–FRANCIA–REVOLUTION
    — contrast case: sovereignty rupture coupled to deeper institutional discontinuity pressure.
-8) MEM–FRANCIA–WAR–AMERICAN–INDEPENDENAD
+8) MEM–FRANCIA–WAR–AMERICAN–INDEPENDENCE
    — alliance-as-strategy: Francia uses the war to wound Anglia’s system, not to inherit it.
 9) MEM–ROME–SOCIAL–WAR
    — secession pressure as citizenship/rights dispute: “legal rebellion” dynamics under a larger imperial frame.
@@ -363,5 +373,5 @@ bootstrap section to guarantee MEM-only operation and structured
 exploration options.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–AMERICAN–REVOLUTION — v1.6
+END OF FILE — MEM–ANGLIA–AMERICAN–REVOLUTION — v1.7
 ────────────────────────────────────────────────────────────

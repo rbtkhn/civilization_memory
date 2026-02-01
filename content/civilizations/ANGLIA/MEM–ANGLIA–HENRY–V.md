@@ -72,7 +72,14 @@ the creation of an army that behaves as a governed institution rather
 than an armed mob.
 
 John Keegan’s military framing is useful here: discipline is a form of
-state capacity, and capacity becomes legitimacy when it is visible.
+state capacity, and capacity becomes legitimacy when it is visible. Of
+Agincourt he writes:
+
+SOURCE — Keegan, *The Face of Battle* (ARC-T-MODERN):
+> "Agincourt must be understood not as reckless heroism but as a battle
+> fought by a king who knew he could not afford either defeat or
+> prolonged success."
+> — John Keegan, *The Face of Battle* (London: Jonathan Cape, 1976) (ARC-T-MODERN) [ERC-SECONDARY].
 
 The disciplinary ordinances attributed to Henry V’s campaigns describe a
 rule-structure that reaches beyond tactics into social control. Even in

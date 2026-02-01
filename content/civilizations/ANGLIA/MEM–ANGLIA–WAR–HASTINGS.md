@@ -1,9 +1,10 @@
-MEM–ANGLIA–WAR–HASTINGS — v1.4
+MEM–ANGLIA–WAR–HASTINGS — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: COMPLIANCE HARDENING (Primary + Secondary · v1.6)
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Regime / Mode: TERMINAL ANGLO-SAXON KINGSHIP / INVASION-INDUCED RESET
 Subject: Battle of Hastings (Elite Replacement & Forced Recomposition)
@@ -41,13 +42,18 @@ Key characteristics:
 
 John Keegan emphasizes that late Anglo-Saxon warfare remained
 defensive-infantry-centric—effective domestically, but poorly adapted to
-continental combined-arms systems.
+continental combined-arms systems. Of close-quarters battle he writes:
+
+SOURCE — Keegan, *The Face of Battle* (ARC-T-MODERN):
+> "The appalling confusion, noise, incoherence of armies fighting at
+> close quarters: a hideous nightmare of human suffering and horror."
+> — John Keegan, *The Face of Battle* (London: Jonathan Cape, 1976) (ARC-T-MODERN) [ERC-SECONDARY].
 
 The system is coherent, but lacks redundancy.
 Authority is embodied rather than abstracted.
 
 ────────────────────────────────────────────────────────────
-III. THE 1066 SHOCK SEQUENAD
+III. THE 1066 SHOCK SEQUENCE
 ────────────────────────────────────────────────────────────
 Anglia faces sequential existential threats without recovery time.
 
@@ -132,19 +138,29 @@ Enduring effects include:
 Hastings functions as Anglia’s most violent upgrade.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (STRUCTURAL)
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Internal (ANGLIA):
-• MEM–ANGLIA–ALFRED–WESSEX — survival under existential threat
-• MEM–ANGLIA–ATHELSTAN — unification after survival
-• MEM–ANGLIA–WAR–AGINCOURT — later continental mastery without absorption
-• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat without civilizational rupture
-• MEM–ANGLIA–LAW–MAGNA–CARTA — procedural constraint as shock absorber
+ANGLIA (same-civilization):
+• MEM–ANGLIA–ALFRED — survival under existential threat; contrast with total replacement.
+• MEM–ANGLIA–ATHELSTAN — unification after survival; Anglo-Saxon core preserved then consolidated.
+• MEM–ANGLIA–WAR–AGINCOURT — later continental mastery without absorption; tactical peak.
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — defeat without civilizational rupture; procedural exit.
+• MEM–ANGLIA–LAW–MAGNA–CARTA — procedural constraint as shock absorber; post-Norman evolution.
+• MEM–ANGLIA–DYNASTY–WESSEX — terminal Anglo-Saxon kingship; Harold and pre-Conquest order.
+• MEM–ANGLIA–DYNASTY–NORMANDY — William I; elite replacement and feudal imposition.
+• MEM–ANGLIA–WILLIAM–CONQUEROR — conquest and consolidation; castle-based control.
+• MEM–ANGLIA–COMMON–LAW — hybridization; Norman and Anglo-Saxon legal fusion.
+• MEM–ANGLIA–WAR–HUNDRED–YEARS — later continental overreach; Hastings as rupture, Hundred Years as exit.
+• MEM–ANGLIA–EDWARD–I — later procedural kingship; post-Hastings institutional rationalization.
+
+GEO–MEM:
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Pevensey, Hastings; Channel crossing and insular defense failure.
+• MEM–ANGLIA–GEO–ATLANTIC — North Sea and Channel; Norman and Anglo-Saxon theatre.
 
 Cross-Civilizational:
-• MEM–FRANCIA–CAPETIANS — dynastic consolidation via law
-• MEM–GERMANIA–OTTONIAN — kingship-centered imperial structure
-• MEM–ROME–AUGUSTUS — unity prior to bureaucratic abstraction
+• MEM–FRANCIA–CAPETIANS — dynastic consolidation via law; contrast with conquest-based replacement.
+• MEM–GERMANIA–OTTONIAN — kingship-centered imperial structure.
+• MEM–ROME–AUGUSTUS — unity prior to bureaucratic abstraction.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -156,5 +172,18 @@ X. CONTINUITY INSIGHTS (RAW)
 • Hastings is Anglia’s productive rupture
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–HASTINGS v1.4
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• *Anglo-Saxon Chronicle*, entry for 1066 — Harold slain, English army put to flight; simultaneity and terminal defeat.
+• William of Poitiers, *Gesta Guillelmi*, c. 1070 — slaughter of English nobility; king and power fall together.
+• William of Malmesbury, *Gesta Regum Anglorum*, early 12th c. — submission by necessity; no head, law, nor counsel.
+
+Secondary:
+• John Keegan — late Anglo-Saxon warfare defensive-infantry-centric; poorly adapted to combined-arms.
+• Andrew Roberts — rarity of complete elite turnover in European history; replacement succeeds where reform fails.
+• Carroll Quigley — coercive institutional import; adaptation imposed externally when internal reform impossible.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–HASTINGS — v2.0
 ────────────────────────────────────────────────────────────

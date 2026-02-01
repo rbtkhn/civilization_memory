@@ -109,7 +109,7 @@ ANGLIA:
 • MEM–ANGLIA–BRITISH–EMPIRE — Parent imperial system; North America as settler zone
 • MEM–ANGLIA–CANADA — Residual dominion; procedural continuity
 • MEM–ANGLIA–UNITED–STATES–AMERICA — Seceded territory; revolutionary exit
-• MEM–ANGLIA–WAR–AMERICAN–REVOLUTION — Fracture event; Thirteen Colonies lost
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Fracture event; Thirteen Colonies lost
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — Procedural defeat; imperial exit
 • MEM–ANGLIA–WAR–1812 — U.S.-Britain; Canadian border secured
 • MEM–ANGLIA–WAR–SEVEN–YEARS — French defeated; continental expansion enables later fracture

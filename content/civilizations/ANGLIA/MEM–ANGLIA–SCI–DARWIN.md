@@ -1,10 +1,10 @@
-MEM–ANGLIA–SCI–DARWIN — v1.4
+MEM–ANGLIA–SCI–DARWIN — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: RENAME from MEM–ANGLIA–DARWIN; SCI-classified
+Version: 2.0
+Supersedes: v1.4
+Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
 Civilization: ANGLIA
 Subject: Charles Darwin (Natural Selection and the Decentering of Design)
 Dates: 1809–1882 AD
@@ -141,19 +141,27 @@ Progress becomes experimental, not ordained.
 This aligns with Anglia's institutional temperament.
 
 ────────────────────────────────────────────────────────────
-VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-• MEM–ANGLIA–LIT–HUME  
-Hume's skepticism prepares Anglia to accept Darwinian uncertainty.
+ANGLIA (same-civilization):
+• MEM–ANGLIA–LIT–HUME — Hume's skepticism prepares Anglia to accept Darwinian uncertainty.
+• MEM–ANGLIA–LIT–SMITH — Adaptive systems echo Smith's emergent-order economics.
+• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA — Misread Darwinism later informs colonial hierarchy justifications.
+• MEM–ANGLIA–BRITISH–EMPIRE — Global maritime empire; scientific institutions; legitimacy not dependent on metaphysical certainty.
+• MEM–ANGLIA–SCI–NEWTON — Earlier Anglian scientific precedent; order and law; Darwin extends natural law without design.
+• MEM–ANGLIA–LIT–LOCKE — Empirical tradition; contingency and experience.
+• MEM–ANGLIA–VICTORIA — Darwin’s era; mature stability; incremental reform culture.
+• MEM–ANGLIA–COMMON–LAW — Procedural absorption of conflict; institutions absorb shocks.
+• MEM–ANGLIA–LAW–PARLIAMENT — Debate within institutions; universities, churches, learned societies.
+• MEM–ANGLIA–AUSTRALIA — Beagle context; colonial science and observation.
+• MEM–ANGLIA–INDIA — Colonial context; misuse of Darwinism as hierarchy rhetoric.
 
-• MEM–ANGLIA–LIT–SMITH  
-Adaptive systems echo Smith's emergent-order economics.
+GEO–MEM:
+• MEM–ANGLIA–GEO–ATLANTIC — Beagle voyage; trans-Atlantic and Southern Hemisphere observation.
+• MEM–ANGLIA–GEO–PACIFIC–OCEAN — Pacific and Galápagos; natural selection observation context.
 
-• MEM–GERMANIA–KANT  
-Darwin challenges Kantian moral teleology without replacing ethical law.
-
-• MEM–ANGLIA–BRITISH–EMPIRE–SOUTH–AFRICA  
-Misread Darwinism later informs colonial hierarchy justifications.
+Cross-Civilizational:
+• MEM–GERMANIA–KANT — Darwin challenges Kantian moral teleology without replacing ethical law.
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
@@ -180,6 +188,16 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–SCI–DARWIN — v1.4
+X. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary:
+• Charles Darwin, *On the Origin of Species* (1859) — adaptation, grandeur, non-teleological survival.
+
+Secondary:
+• (Contemporary debate: universities, churches, learned societies — shock metabolized within institutions.)
+• Comparative: colonial and industrial misuse of Darwinism; not constitutional doctrine.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–SCI–DARWIN — v2.0
 Word Count: ~820
 ────────────────────────────────────────────────────────────
