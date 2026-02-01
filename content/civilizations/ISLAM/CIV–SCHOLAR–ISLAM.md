@@ -142,19 +142,225 @@ Source MEMs available (CIV–INDEX–ISLAM): MEM–ISLAM–MOHAMMAD, MEM–ISLAM
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 ────────────────────────────────────────────────────────────
 
-(No entries yet. Awaiting first MEM–ISLAM ingestion.)
+ENTRY 0001
+Source:
+• MEM–ISLAM–GEO–SICILY — v1.0
+Ingest Type:
+• Maritime Frontier / Transmission Node Memory
+Primary Belief Extracted:
+• Islamic civilizational influence can exceed political duration; cultural transmission operates through maritime networks and plural governance rather than demographic absorption.
+Belief Status:
+• UNFROZEN
+Note:
+• MEM contains typos: III "GOVERNANAD", VII "SIGNIFICANAD" (AUDIT: log for WRITE-mode correction)
+
+ENTRY 0004
+Source:
+• MEM–ISLAM–CONSTANTINOPLE — v1.0
+Ingest Type:
+• Imperial Conquest / Legitimacy Translation Memory
+Primary Belief Extracted:
+• Constantinople represents Islam's imperial inheritance—conquest as legitimacy event; Islam repurposes rather than destroys; translation not reinvention; civilizational maturity through absorption of rival core.
+Belief Status:
+• UNFROZEN
+Note:
+• MEM contains typo: VII "SIGNIFICANAD" (AUDIT: log for WRITE-mode correction)
+
+ENTRY 0005
+Source:
+• MEM–ROME–CONSTANTINOPLE — v2.1
+Ingest Type:
+• Cross-Civilization Encoding (Rome lens) — Constantinople as Roman survival/continuity
+Primary Belief Extracted:
+• Constantinople encodes Rome's survival through relocation; continuity not rupture; translation not replacement; internal fracture (1204 Crusade) more fatal than external pressure; 1453 ends political sovereignty but not civilizational survivals.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0006
+Source:
+• MEM–RUSSIA–CONSTANTINOPLE — v2.7
+Ingest Type:
+• Cross-Civilization Encoding (Russia lens) — Constantinople as lost imperial center
+Primary Belief Extracted:
+• Constantinople = lost imperial center whose authority migrated symbolically to Moscow; fall as cosmic shock; Third Rome doctrine; origin that was "taken, not given up"; unfinished inheritance.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0002
+Source:
+• MEM–ISLAM–GEO–XINJIANG — v1.0
+Ingest Type:
+• Eastern Frontier / Oasis-Node Memory
+Primary Belief Extracted:
+• Islamic presence follows nodes of life and trade (oases, corridors); authority derives from religious continuity rather than distant sovereignty; faith precedes the state.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0003
+Source:
+• MEM–ISLAM–GEO–KASHMIR
+Ingest Type:
+• Sacral Frontier / Grievance-Anchor Memory
+Primary Belief Extracted:
+• Kashmir functions as a grievance anchor and moral obligation rather than a territorial project; Islamic time favors endurance over compromise; dignity claims persist independent of administrative control.
+Belief Status:
+• UNFROZEN
 
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
-(No syntheses yet.)
+SYNTHESIS 0001 (0001–0003)
+Outcome:
+• Islam at civilizational frontiers operates through transmission nodes (maritime, oasis, sacral) rather than imperial absorption; legitimacy migrates to cultural and religious continuity when political control shifts; failure to anchor demographically or administratively does not negate persistence of influence or grievance.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Political exit (Sicily), external incorporation (Xinjiang), partition and enclosure (Kashmir) do not erase Islamic civilizational presence—they relocate legitimacy to non-state nodes.
+• Sequencing: Transmission precedes sovereignty; faith continuity precedes administrative integration; dignity claims outlast settlement attempts.
+• Boundary: Frontier Islam is defined by node-logic (oases, ports, sacral geography) and grievance-anchors, not by borders or state apparatus.
+
+Tensions Preserved:
+• Sicily: cultural residue vs. political departure—Islam influences without anchoring.
+• Xinjiang: religious continuity vs. state consolidation—accommodation gives way to structural tension.
+• Kashmir: moral obligation vs. legal finality—delay favors the aggrieved, not the administrator.
+
+RLL–ISLAM–0001 derives from this synthesis; synthesis does not bind RLL.
+
+SYNTHESIS 0002 (0004–0006 + Gibbon)
+Outcome:
+• Constantinople (1453) is encoded in four registers: Islam as imperial inheritance and legitimacy translation; Rome as survival-through-relocation terminated by political fall; Russia as lost imperial center and symbolic migration to Moscow; Gibbon (Roman/Christian historiographic pole) as legitimacy collapse—Byzantine schism, Latin non-coordination, Ottoman conquest + institutional accommodation. The same conquest yields legitimacy-through-arrival (Islam), legitimacy-through-continuity (Rome), legitimacy-through-inherited-loss (Russia), legitimacy-through-failure-and-transfer (Gibbon).
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome encodes internal fracture (1204) as more fatal than external pressure; Islam encodes conquest as absorption; Russia encodes fall as cosmic shock; Gibbon encodes Greek imbecility/discord, Latin indifference, Ottoman rational policy.
+• Sequencing: Islam—conquest precedes legitimacy; Rome—continuity precedes fall; Russia—loss precedes inheritance; Gibbon—legitimacy failure precedes conquest.
+• Boundary: Each treats Constantinople as legitimacy anchor; divergence is whose legitimacy (conqueror, fallen, heir, external observer).
+
+Tensions Preserved:
+• Islam: arrival vs. Rome's termination—same event, opposite valence.
+• Rome: political death vs. civilizational survival—sovran end but survivals persist.
+• Russia: taken vs. given up—origin seized, not relinquished; Moscow inherits by default.
+• Gibbon: liability on Greeks/Latins vs. Islam/Russia encoding liability away from conqueror.
+
+CCM: Encoding divergence is expected; no synthesis resolves the four readings. Gibbon supplies civilization-contrast for Islam MEMs (CANDIDATE BELIEF 0001).
+
+SYNTHESIS 0003 (0007–0008 + Gibbon)
+Outcome:
+• MEM–ISLAM–CRUSADES and MEM–ISLAM–SALADIN form a coherent encoding pair: Crusades provides structure (legitimacy crisis, restorative response, sacred-zone defense); Saladin provides the exemplar (conduct-based legitimacy, mercy vs massacre, "Islam recovers without becoming what it opposed"). Legitimacy flows from conduct; unity precedes victory; moral authority amplifies military victory. Islam accepts internal liability (fragmentation) while encoding Crusaders as illegitimate occupiers. Gibbon (Ch. 59) supplies fourth pole: crusading momentum faltering against Muslim resistance; Saladin's conquest of Jerusalem; Frankish expulsion—encoded from Roman/Christian historiographic lens as Christian defeat and Muslim consolidation.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Sacred loss exposes legitimacy failure; fragmentation invites invasion; unity must precede victory. Gibbon encodes crusader fragmentation and Muslim consolidation.
+• Sequencing: Crisis → consolidation → exemplar (Saladin) → recovery (Jerusalem 1187); moral model retained, political structure dissolves. Gibbon: crusader rise → Saladin → crusader fall.
+• Boundary: Islam encodes as defender; legitimacy-through-conduct distinguishes from conqueror encoding (Constantinople). Gibbon encodes as external observer; Christian defeat, Muslim victory.
+
+Tensions Preserved:
+• Saladin: moral model endures, dynastic structure collapses—ethics separable from scale.
+• Crusades: occupation without legitimacy cannot endure—yet Crusader states lasted ~200 years.
+• Cross-encoding: Islam as defender (Crusades) vs Islam as conqueror (Constantinople)—same legitimacy grammar, opposite valence.
+• Gibbon vs Islam: Islam foregrounds mercy, conduct, moral superiority; Gibbon foregrounds military outcome, resistance, consolidation. Both encode Saladin as significant; valence differs (exemplar vs adversary).
+
+RLL–ISLAM–0002: Crusades + Saladin stress-test passed; legitimacy-divergence pattern holds when Islam is defender. Gibbon (Ch. 59) recommended for civilization-contrast citation in Crusades/Saladin MEMs.
+
+SYNTHESIS 0004 (0009–0010)
+Outcome:
+• MEM–ISLAM–DYNASTY–SELJUK and MEM–ISLAM–DYNASTY–OTTOMAN extend RLL–ISLAM–0001: power enters Islam through frontier nodes (steppe, Anatolia); legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law) and custodianship (caliphate, sacred zones). Frontier-to-imperial path operates through transmission logic—authority derived from conduct and service, then institutionalized. GEO frontiers (Sicily, Xinjiang, Kashmir) show Islam at edges; dynasty MEMs show power entering through peripheral nodes. Same node/transmission grammar; direction differs (inbound vs outbound).
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Seljuk overextension without integration coincides with Crusader arrival; Ottoman gradual decline from structural overload. Frontier consolidation can falter when coordination fails.
+• Sequencing: Steppe/frontier entry → legitimacy absorption (Seljuk: protectorate; Ottoman: custodianship) → imperial scale → fragmentation or decline.
+• Boundary: RLL–ISLAM–0001 applies to both GEO frontiers (Islam at edge) and dynasty frontiers (power entering through node); transmission-node logic is bidirectional.
+
+Tensions Preserved:
+• Seljuk: unity is military, not administrative—expansion faster than coherence.
+• Ottoman: custody replaces charisma—institutionalization vs personal authority.
+• Cross-link: Ottoman conquest of Constantinople (ENTRY 0010) connects to SYNTHESIS 0002; dynasty encoding complements civilizational encoding.
+
+RLL–ISLAM–0001: Seljuk + Ottoman stress-test passed; dynasty frontier pattern extends scope beyond GEO MEMs.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
 (No doctrines frozen. Phase I accumulation.)
+
+────────────────────────────────────────────────────────────
+XVIII.A. CANDIDATE RLL PROPOSALS (PHASE I — NON-BINDING)
+────────────────────────────────────────────────────────────
+
+RLL–ISLAM–0001 (CANDIDATE)
+Scope: Islam civilization; GEO–MEM and dynasty frontier analysis
+Constraint Type: Legitimacy dependency
+
+Constraint Statement:
+Islamic legitimacy at civilizational frontiers operates through cultural and religious continuity rather than political sovereignty. Transmission nodes (maritime, oasis, sacral, steppe, Anatolian frontier) and grievance anchors persist when territorial control shifts; authority derives from faith continuity and communal dignity more than from administrative integration. Applies bidirectionally: (a) GEO frontiers—Islam at edges (Sicily, Xinjiang, Kashmir); (b) dynasty frontiers—power entering through peripheral nodes (Seljuk from steppe, Ottoman from Anatolia). Legitimacy remains Islamic whether Islam extends outward or power enters inward through frontier nodes.
+
+**Mercouris derivation**: Civilizational memory and legitimacy grammar; how Islam encodes frontier experience; transmission logic bidirectional.
+
+**Mearsheimer derivation**: Structural constraints (maritime reach without demographic depth, oasis geography, chokepoint logic, steppe mobility) condition when cultural continuity survives or fails under strategic pressure.
+
+Activation Trigger: Interpretation of MEM–ISLAM–GEO–* or MEM–ISLAM–DYNASTY–* or other Islam frontier MEMs
+Affected File Classes: MEM–ISLAM–GEO–*, MEM–ISLAM–DYNASTY–*, CIV–CORE–ISLAM diagnostic outputs
+Derivation: ENTRIES 0001, 0002, 0003 (GEO); ENTRIES 0009, 0010 (dynasty); SYNTHESIS 0001, 0004
+
+Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+
+RLL–ISLAM–0002 (CANDIDATE)
+Scope: Islam civilization; cross-civilizational encoding; Constantinople / conquest events
+Constraint Type: Legitimacy dependency / CCM awareness
+
+Constraint Statement:
+When the same conquest or civilizational transition is encoded across multiple civilizations, legitimacy-divergence is expected: each civilization foregrounds its own legitimacy grammar (arrival, continuity, inherited loss, failure-and-transfer). Liability distribution, structural variables, and encoding valence will diverge. CCM treats this as emergent realism (modeling misperception), not contradiction. Islam MEMs documenting such events (e.g., Constantinople 1453, Sicily) should cite civilization-contrast sources (e.g., Gibbon) where external encodings illuminate divergence.
+
+**Mercouris derivation**: Legitimacy grammar; how civilizations encode shared events differently; structure explains conditions, legitimacy explains encoding.
+
+**Mearsheimer derivation**: Structural variables (force ratio, choke point, defection) condition outcomes; legitimacy encoding follows but does not determine material reality.
+
+**Barnes derivation**: Liability chains distribute differently across encodings; no encoding assigns primary liability to the conqueror in self-description.
+
+Activation Trigger: MEM–ISLAM documenting conquest, imperial transition, or civilizational interface where other civilizations have counterpart MEMs
+Affected File Classes: MEM–ISLAM–CONSTANTINOPLE, MEM–ISLAM–GEO–*, cross-civilizational MEMs
+Derivation: SYNTHESIS 0002 (0004–0006 + Gibbon); ENTRIES 0004, 0005, 0006; CANDIDATE BELIEF 0001
+
+Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+
+RLL–ISLAM–0003 (CANDIDATE)
+Scope: Islam civilization; MEM authoring; civilization-contrast citation
+Constraint Type: Legitimacy dependency / scholarly discipline
+
+Constraint Statement:
+When MEM–ISLAM documents war, command, conquest, or civilizational interface, cite Keegan or Gibbon for civilization-contrast where relevant. Gibbon supplies Roman/Christian historiography (Ch. LVI Sicily, Ch. LIX Crusades/Saladin, Ch. LXVIII Constantinople); Keegan supplies Anglo-American military historiography (institutional restraint, command philosophy, soldier experience). Contrast citation illuminates encoding divergence—Islam's legitimacy grammar versus external structural/legitimacy encoding—without resolving it. CCM treats divergence as expected. Citation is recommended, not mandatory; applicability judged per MEM subject.
+
+**Mercouris derivation**: Legitimacy encoding; structure explains conditions, legitimacy explains encoding; contrast enriches.
+
+**Mearsheimer derivation**: Structural variables (force ratio, formation, naval dominance) condition outcomes; contrast surfaces gaps.
+
+**Barnes derivation**: Liability distribution differs across encodings; contrast exposes mechanism variation.
+
+Activation Trigger: Authoring or revising MEM–ISLAM that treats war, command, conquest, Crusades, Constantinople, Saladin, or civilizational military interface
+Affected File Classes: MEM–ISLAM–CRUSADES, MEM–ISLAM–SALADIN, MEM–ISLAM–CONSTANTINOPLE, MEM–ISLAM–DYNASTY–*, MEM–ISLAM–GEO–* (where war/command relevant)
+Derivation: ENTRY 0011 (Keegan corpus); CANDIDATE BELIEF 0001 (Gibbon); RLL–ISLAM–0002; SYNTHESIS 0002, 0003
+
+Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+
+────────────────────────────────────────────────────────────
+XVIII.B. CANDIDATE BELIEF STAGING (PHASE I — NON-BINDING)
+────────────────────────────────────────────────────────────
+
+CANDIDATE BELIEF 0001
+Derived From:
+• Gibbon, *Decline and Fall* Ch. LVI (Sicily, Saracens, Normans), Ch. LIX (Crusades, Saladin), Ch. LXVIII (Constantinople 1453); LEARN-mode tri-frame analysis (Mercouris, Mearsheimer, Barnes) on Gibbon Sicily + Constantinople + Crusades
+
+Belief Statement:
+Gibbon’s treatment of Islamic expansion and retreat (Sicily, Crusades/Saladin, Constantinople 1453) is a legitimacy-saturated narrative: he encodes collapse and conquest through the failure and transfer of legitimacy (Byzantine schism, Latin non-coordination, Saracen divisions, crusader fragmentation, Ottoman conquest + institutional accommodation), not only through force. The tri-frame (Mercouris legitimacy, Mearsheimer structure, Barnes liability) applies to Gibbon as civilization-contrast source: each frame surfaces different aspects of the same encoding. CCM treats Gibbon’s Roman/Christian encoding versus Islamic civilizational encoding as expected divergence, not contradiction. Civilization-contrast scope: Ch. LVI (Sicily), Ch. LIX (Crusades, Saladin), Ch. LXVIII (Constantinople 1453).
+
+Status: STAGED — Phase I; NOT BINDING.
 
 ────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
@@ -182,9 +388,122 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 0
-Total Entries: 0
-Next Entry ID: 0001
+ENTRY 0005
+Source:
+• MEM–ROME–CONSTANTINOPLE — v2.1
+Ingest Type:
+• Cross-Civilization Encoding (Rome lens) — Constantinople as Roman survival/continuity
+Primary Belief Extracted:
+• Constantinople encodes Rome's survival through relocation; continuity not rupture; translation not replacement; internal fracture (1204 Crusade) more fatal than external pressure; 1453 ends political sovereignty but not civilizational survivals.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0006
+Source:
+• MEM–RUSSIA–CONSTANTINOPLE — v2.7
+Ingest Type:
+• Cross-Civilization Encoding (Russia lens) — Constantinople as lost imperial center
+Primary Belief Extracted:
+• Constantinople = lost imperial center whose authority migrated symbolically to Moscow; fall as cosmic shock; Third Rome doctrine; origin that was "taken, not given up"; unfinished inheritance.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0007
+Source:
+• MEM–ISLAM–CRUSADES — v1.0
+Ingest Type:
+• Civilizational Defense / Legitimacy Recovery Memory
+Primary Belief Extracted:
+• Crusades = Islam's legitimacy crisis and moral recovery; sacred loss exposes legitimacy failure; Crusaders rule territory but never authority; unity before violence; Jerusalem 1187 reanchors legitimacy; fragmentation invites invasion.
+Belief Status:
+• UNFROZEN
+Note:
+• MEM contains typo: II "SACRED SPAAD" (AUDIT: log for WRITE-mode correction)
+
+ENTRY 0008
+Source:
+• MEM–ISLAM–SALADIN — v1.0
+Ingest Type:
+• Person-Memory — Moral-Imperial Reconstitutor (Crusades-related)
+Primary Belief Extracted:
+• Saladin embodies Islam's Crusades encoding: legitimacy flows from conduct; "the just ruler who defeats without humiliating"; Jerusalem 1187 = victory without massacre; Islam recovers without becoming what it opposed; unity precedes victory; moral model retained, political structure dissolves.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0009
+Source:
+• MEM–ISLAM–DYNASTY–SELJUK — v1.0
+Ingest Type:
+• Dynasty Memory — Steppe-Frontier Integration
+Primary Belief Extracted:
+• Power enters Islam from the steppe; legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law); protectorate over caliphate; Sunni revival; fragmentation coincides with Crusader arrival—exposes cost of overextension without integration.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0010
+Source:
+• MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
+Ingest Type:
+• Dynasty Memory — Frontier-to-Imperial Custodianship
+Primary Belief Extracted:
+• Ottomans emerge from Anatolian frontier; legitimacy earned through defense and expansion; Constantinople 1453 = imperial arrival; custody replaces charisma; caliphal legitimacy territorially anchored (Mecca, Medina, Jerusalem); layered authority, legal pluralism.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0011
+Source:
+• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCIA–*, MEM–GERMANIA–*, MEM–ROME–*
+Ingest Type:
+• Cross-Repository Corpus — John Keegan Verbatim Quotes
+Primary Belief Extracted:
+• Keegan corpus (A History of Warfare, The Face of Battle, The Mask of Command, The American Civil War, Fields of Battle, The Price of Admiralty, Intelligence in War, The First World War) encodes institutional restraint, civilized warfare, command philosophy, soldier experience, tactical-structural analysis. Distinct from Gibbon (Roman/Christian historiography); distinct from Islam MEM encoding. Available for civilization-contrast citation.
+Belief Status:
+• UNFROZEN
+
+KEEGAN VERBATIM QUOTES (absorbed from repository):
+
+*A History of Warfare* (1993):
+• "Our institutions and our laws, we tell ourselves, have set the human potentiality for violence about with such restraints that violence in everyday life will be punished as criminal by our laws, while its use by our institutions of state will take the particular form of 'civilised warfare.'"
+• "The principal problem confronting the Federal government in its effort to restore the union is that of distance."
+• "The genius of Lincoln's Gettysburg Address" lies in its refusal "to differentiate between the sacrifice of the North and the South."
+• "Grant and William Tecumseh Sherman stood out among all commanders."
+• "No one on either side seems to have appreciated that the water lines in the Mississippi Valley formed an avenue of military advance into the Deep South, culminating eventually at New Orleans."
+• "Clausewitz is the most important writer on war... but his vision was formed by a particular historical moment. He knew nothing of primitive war, little of oriental war, and his theory rests on assumptions about the rationality of politics that history often contradicts."
+• "The Thirty Years War... tore away the customary restraints on violence."
+• "The annihilation at Cannae was not merely a military defeat but a psychological catastrophe that shattered the Roman collective consciousness. The unprecedented scale of slaughter—tens of thousands of citizen-soldiers killed in a single afternoon—created a trauma that reverberated through Roman society, challenging their fundamental beliefs about military invincibility and civic duty."
+• "Rome's greatest military innovation was not its tactics or weapons but its social organization of warfare. By requiring all citizens of military age to serve and by integrating military service into the fabric of civic life, Rome created a citizen-army that combined the discipline of professionals with the motivation of stakeholders..."
+• "Actium demonstrated how naval warfare in the ancient world depended more on command coherence than tactical superiority. Antony's divided attention between land and sea operations, combined with Cleopatra's separate command structure, created fatal command fractures..."
+• "Trajan's Dacian Wars represented the culmination of Rome's military evolution, combining logistical mastery, engineering skill, and tactical flexibility..."
+• "Caesar's victory at Pharsalus demonstrated the transformative power of personal command in ancient warfare. By maintaining direct control over his reserves and personally directing the counterattack against Pompey's cavalry, Caesar showed how a general's presence on the battlefield could outweigh numerical superiority..."
+
+*The Face of Battle* (1976):
+• "The appalling confusion, noise, incoherence of armies fighting at close quarters: a hideous nightmare of human suffering and horror."
+• "Agincourt must be understood not as reckless heroism but as a battle fought by a king who knew he could not afford either defeat or prolonged success."
+• "At Waterloo, the French infantry attacked in column... The French columns, which had broken Austrian and Prussian squares across Europe, dissolved under fire they could not effectively return."
+• "The great French cavalry charges at Waterloo... represented a misunderstanding of what cavalry could achieve against unbroken infantry... It was a test of collective discipline against individual courage, and discipline won."
+• "When the Imperial Guard retreated... 'La Garde recule!'... When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
+
+*The Mask of Command* (1987):
+• "The leader of men in warfare can show himself to his followers only through a mask, a mask that he must make for himself, but a mask made in such form as will mark him to men of his time and place as the leader they want and need."
+• "Napoleon commanded through personal magnetism... Wellington commanded through professional competence. Napoleon's system required Napoleon; Wellington's system required only that someone competent occupy the headquarters."
+• "Wellington positioned himself at crisis points throughout the day... He did not inspire; he steadied. Napoleon, by contrast, remained behind the lines for much of the battle... The system that required Napoleon was operating without him."
+
+*Fields of Battle* (1996):
+• "The French intervention in America was not about liberty; it was about revenge... The Americans were useful instruments; their cause was secondary."
+• "The French army at Yorktown was the best-trained, best-equipped force in the campaign... Without the French, Yorktown could not have happened."
+• "Yorktown was decided at sea before the siege began... The siege was formality; the battle at sea was decisive."
+• "The siege of Yorktown was a textbook operation, conducted by men who had read the textbook. French engineers—trained in the Vauban tradition of siege warfare—directed the construction of parallels and batteries..."
+
+*Intelligence in War* (2003): (Marengo, Jena, Leipzig—reconnaissance, bataillon carré)
+
+*The First World War* (1998): (Marne, Verdun, Somme—strategic context, soldier experience)
+
+Total Entries: 11
+Next Entry ID: 0012
 Frozen Syntheses: 0
+Total Syntheses: 4
+Candidate RLLs: 3 (RLL–ISLAM–0001, RLL–ISLAM–0002, RLL–ISLAM–0003)
+Candidate Beliefs: 1 (Gibbon tri-frame applicability)
 SDI Entries: 0
 
 ────────────────────────────────────────────────────────────
