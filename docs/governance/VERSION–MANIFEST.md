@@ -131,7 +131,10 @@ PERSIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
+│ CIV–ARC–PERSIA              │ v1.1    │ Active        │
+│ CIV–CORE–PERSIA             │ v2.0    │ Active        │
 │ CIV–INDEX–PERSIA            │ v1.0    │ Active        │
+│ CIV–SCHOLAR–PERSIA          │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -139,7 +142,7 @@ ISLAM:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–ISLAM               │ v1.0    │ Active        │
+│ CIV–ARC–ISLAM               │ v1.1    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
 │ CIV–INDEX–ISLAM             │ v2.0    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
@@ -158,6 +161,41 @@ Phase: I (Accumulation)
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
+2026-02-01 (PERSIA MEM — ARDASHIR, PALMYRA):
+• MEM–PERSIA–EMPIRE–ARDASHIR–I v1.0: Sasanian founder; Hormozdgan; restoration ideology
+• MEM–PERSIA–PALMYRA v1.0: Post-Valerian counterweight; Odaenathus, Zenobia
+• CIV–INDEX–PERSIA: Ardashir under VIII; new Section IX (External Actors); Palmyra added
+
+2026-02-01 (PERSIA ARC — LLEWELLYN-JONES):
+• CIV–ARC–PERSIA v1.1 → v1.2: Lloyd Llewellyn-Jones (Persians: The Age of the Great Kings, 2022) added to ARC-T-MODERN
+
+2026-02-01 (PERSIA ARC — GOLDSWORTHY):
+• CIV–ARC–PERSIA v1.0 → v1.1: Adrian Goldsworthy (Rome and Persia, 2023) added to ARC-T-MODERN
+• MEM–PERSIA–GOLDSWORTHY–CANDIDATES.md: Candidate MEMs derived from Goldsworthy chapter structure
+
+2026-02-01 (PERSIA MEM EXPANSION — 4 NEW MEMs):
+• MEM–PERSIA–WAR–CARRHAE v1.0: Carrhae as archetypal Persian denial victory
+• MEM–PERSIA–EMPIRE–SHAPUR–I v1.0: Shapur I, captor of Valerian
+• MEM–PERSIA–ARMENIA v1.0: Armenia as Roman–Persian buffer (Persian perspective)
+• MEM–PERSIA–EMPIRE–KHOSROW–II v1.0: Khosrow II, terminal Roman–Persian war, overextension
+• CIV–INDEX–PERSIA: Added 4 MEMs; new Section VIII (Imperial Figures); Section IX (Geographic Buffer)
+
+2026-02-01 (PERSIA ECOSYSTEM — ARC v1.0, CORE v2.0, SCHOLAR v1.0):
+• CIV–ARC–PERSIA v1.0: Initial establishment per CIV–ARC–TEMPLATE v2.8
+  – ARC-T-ANCIENT: Herodotus, Xenophon, Avesta, Darius/Behistun, Plutarch, Arrian, etc.
+  – ARC-T-MEDIEVAL: Ferdowsi, Al-Tabari, Al-Biruni, Nizam al-Mulk, Rashid al-Din, Ibn Khaldun
+  – ARC-T-EARLY-MOD: Gibbon, Rawlinson, Malcolm, Elphinstone, Morier
+  – ARC-T-MODERN: Olmstead, Frye, Briant, Kuhrt, Brosius, Daryaee, Canepa, Abrahamian, Keddie, Katouzian, Bakhash, Amanat, etc.
+• CIV–CORE–PERSIA v2.0: Template compliance upgrade (V1.0 → v2.0)
+  – Header: Template Version Used, Compatibility, Governed by, Civilization Phase, etc.
+  – Typo: Section X GOVERNANAD → GOVERNANCE
+  – Civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX
+• CIV–SCHOLAR–PERSIA v1.0: Initial establishment per CIV–SCHOLAR–TEMPLATE v2.10
+  – Phase I accumulation; OGE embedded; ARC Reference: Pending
+• CIV–INDEX–PERSIA: Typo GOVERNANAD → GOVERNANCE (Section I)
+• VERSION–MANIFEST: CIV–ARC–PERSIA, CIV–CORE–PERSIA, CIV–SCHOLAR–PERSIA added to PERSIA
+• Reference: AUDIT–CORE–PERSIA–TEMPLATE–ALIGNMENT, AUDIT–SCHOLAR–PERSIA–TEMPLATE–ALIGNMENT
+
 2026-02-01 (CIV–INDEX–ISLAM v2.0 — TEMPLATE COMPLIANCE):
 • CIV–INDEX–ISLAM: v1.0 → v2.0 (template compliance)
   – Added Section II: Canonical Governance Files (CORE, SCHOLAR, ARC)
@@ -165,6 +203,13 @@ IV. VERSION HISTORY (RECENT)
   – Template Version Used: CIV–INDEX–TEMPLATE v2.1
   – Typo: GOVERNANAD → GOVERNANCE
 • VERSION–MANIFEST: CIV–INDEX–ISLAM v1.0 → v2.0
+
+2026-02-01 (CIV–ARC–ISLAM v1.1 — WILL DURANT):
+• CIV–ARC–ISLAM: v1.0 → v1.1 (Will Durant added to ARC-T-MODERN)
+  – The Story of Civilization, Vol. 4: The Age of Faith (1950); civilizational synthesis on medieval Islam, Crusades, transmission
+  – Suitable for MEM–ISLAM contrast and context
+• VERSION–MANIFEST: CIV–ARC–ISLAM v1.0 → v1.1
+• CIV–CORE–ISLAM, CIV–SCHOLAR–ISLAM, CIV–INDEX–ISLAM: ARC Reference updated to v1.1
 
 2026-02-01 (ISLAM ECOSYSTEM — ARC + SCHOLAR CREATION):
 • CIV–ARC–ISLAM v1.0: Initial establishment per CIV–ARC–TEMPLATE v2.8

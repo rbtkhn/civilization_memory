@@ -9,7 +9,7 @@ Word Count: ~2,000
 Civilization: ISLAM (دار الإسلام)
 Subject: Xinjiang / Eastern Turkestan
 Dates: 8th century–Present
-Governed by: CIV–MEM–TEMPLATE v2.5, ARC–ISLAM v1.0
+Governed by: CIV–MEM–TEMPLATE v2.5, CIV–ARC–ISLAM v1.1
 Compatibility: CMC v2.0+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

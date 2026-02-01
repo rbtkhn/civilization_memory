@@ -13,11 +13,11 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–ISLAM v1.0
+ARC Reference: CIV–ARC–ISLAM v1.1
 Last Update: February 2026
 
 Upgrade Type: INITIAL ESTABLISHMENT
-Scope: Phase I minimal structure; CIV–CORE–ISLAM v2.0 coupling; CIV–ARC–ISLAM v1.0 binding.
+Scope: Phase I minimal structure; CIV–CORE–ISLAM v2.0 coupling; CIV–ARC–ISLAM v1.1 binding.
 
 Word Count: ~2,200
 
@@ -154,6 +154,26 @@ Belief Status:
 Note:
 • MEM contains typos: III "GOVERNANAD", VII "SIGNIFICANAD" (AUDIT: log for WRITE-mode correction)
 
+ENTRY 0002
+Source:
+• MEM–ISLAM–GEO–XINJIANG — v1.0
+Ingest Type:
+• Eastern Frontier / Oasis-Node Memory
+Primary Belief Extracted:
+• Islamic presence follows nodes of life and trade (oases, corridors); authority derives from religious continuity rather than distant sovereignty; faith precedes the state.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0003
+Source:
+• MEM–ISLAM–GEO–KASHMIR
+Ingest Type:
+• Sacral Frontier / Grievance-Anchor Memory
+Primary Belief Extracted:
+• Kashmir functions as a grievance anchor and moral obligation rather than a territorial project; Islamic time favors endurance over compromise; dignity claims persist independent of administrative control.
+Belief Status:
+• UNFROZEN
+
 ENTRY 0004
 Source:
 • MEM–ISLAM–CONSTANTINOPLE — v1.0
@@ -186,25 +206,95 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
-ENTRY 0002
+ENTRY 0007
 Source:
-• MEM–ISLAM–GEO–XINJIANG — v1.0
+• MEM–ISLAM–CRUSADES — v1.0
 Ingest Type:
-• Eastern Frontier / Oasis-Node Memory
+• Civilizational Defense / Legitimacy Recovery Memory
 Primary Belief Extracted:
-• Islamic presence follows nodes of life and trade (oases, corridors); authority derives from religious continuity rather than distant sovereignty; faith precedes the state.
+• Crusades = Islam's legitimacy crisis and moral recovery; sacred loss exposes legitimacy failure; Crusaders rule territory but never authority; unity before violence; Jerusalem 1187 reanchors legitimacy; fragmentation invites invasion.
+Belief Status:
+• UNFROZEN
+Note:
+• MEM contains typo: II "SACRED SPAAD" (AUDIT: log for WRITE-mode correction)
+
+ENTRY 0008
+Source:
+• MEM–ISLAM–SALADIN — v1.0
+Ingest Type:
+• Person-Memory — Moral-Imperial Reconstitutor (Crusades-related)
+Primary Belief Extracted:
+• Saladin embodies Islam's Crusades encoding: legitimacy flows from conduct; "the just ruler who defeats without humiliating"; Jerusalem 1187 = victory without massacre; Islam recovers without becoming what it opposed; unity precedes victory; moral model retained, political structure dissolves.
 Belief Status:
 • UNFROZEN
 
-ENTRY 0003
+ENTRY 0009
 Source:
-• MEM–ISLAM–GEO–KASHMIR
+• MEM–ISLAM–DYNASTY–SELJUK — v1.0
 Ingest Type:
-• Sacral Frontier / Grievance-Anchor Memory
+• Dynasty Memory — Steppe-Frontier Integration
 Primary Belief Extracted:
-• Kashmir functions as a grievance anchor and moral obligation rather than a territorial project; Islamic time favors endurance over compromise; dignity claims persist independent of administrative control.
+• Power enters Islam from the steppe; legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law); protectorate over caliphate; Sunni revival; fragmentation coincides with Crusader arrival—exposes cost of overextension without integration.
 Belief Status:
 • UNFROZEN
+
+ENTRY 0010
+Source:
+• MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
+Ingest Type:
+• Dynasty Memory — Frontier-to-Imperial Custodianship
+Primary Belief Extracted:
+• Ottomans emerge from Anatolian frontier; legitimacy earned through defense and expansion; Constantinople 1453 = imperial arrival; custody replaces charisma; caliphal legitimacy territorially anchored (Mecca, Medina, Jerusalem); layered authority, legal pluralism.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0011
+Source:
+• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCIA–*, MEM–GERMANIA–*, MEM–ROME–*
+Ingest Type:
+• Cross-Repository Corpus — John Keegan Verbatim Quotes
+Primary Belief Extracted:
+• Keegan corpus (A History of Warfare, The Face of Battle, The Mask of Command, The American Civil War, Fields of Battle, The Price of Admiralty, Intelligence in War, The First World War) encodes institutional restraint, civilized warfare, command philosophy, soldier experience, tactical-structural analysis. Distinct from Gibbon (Roman/Christian historiography); distinct from Islam MEM encoding. Available for civilization-contrast citation.
+Belief Status:
+• UNFROZEN
+
+KEEGAN VERBATIM QUOTES (absorbed from repository):
+
+*A History of Warfare* (1993):
+• "Our institutions and our laws, we tell ourselves, have set the human potentiality for violence about with such restraints that violence in everyday life will be punished as criminal by our laws, while its use by our institutions of state will take the particular form of 'civilised warfare.'"
+• "The principal problem confronting the Federal government in its effort to restore the union is that of distance."
+• "The genius of Lincoln's Gettysburg Address" lies in its refusal "to differentiate between the sacrifice of the North and the South."
+• "Grant and William Tecumseh Sherman stood out among all commanders."
+• "No one on either side seems to have appreciated that the water lines in the Mississippi Valley formed an avenue of military advance into the Deep South, culminating eventually at New Orleans."
+• "Clausewitz is the most important writer on war... but his vision was formed by a particular historical moment. He knew nothing of primitive war, little of oriental war, and his theory rests on assumptions about the rationality of politics that history often contradicts."
+• "The Thirty Years War... tore away the customary restraints on violence."
+• "The annihilation at Cannae was not merely a military defeat but a psychological catastrophe that shattered the Roman collective consciousness. The unprecedented scale of slaughter—tens of thousands of citizen-soldiers killed in a single afternoon—created a trauma that reverberated through Roman society, challenging their fundamental beliefs about military invincibility and civic duty."
+• "Rome's greatest military innovation was not its tactics or weapons but its social organization of warfare. By requiring all citizens of military age to serve and by integrating military service into the fabric of civic life, Rome created a citizen-army that combined the discipline of professionals with the motivation of stakeholders..."
+• "Actium demonstrated how naval warfare in the ancient world depended more on command coherence than tactical superiority. Antony's divided attention between land and sea operations, combined with Cleopatra's separate command structure, created fatal command fractures..."
+• "Trajan's Dacian Wars represented the culmination of Rome's military evolution, combining logistical mastery, engineering skill, and tactical flexibility..."
+• "Caesar's victory at Pharsalus demonstrated the transformative power of personal command in ancient warfare. By maintaining direct control over his reserves and personally directing the counterattack against Pompey's cavalry, Caesar showed how a general's presence on the battlefield could outweigh numerical superiority..."
+
+*The Face of Battle* (1976):
+• "The appalling confusion, noise, incoherence of armies fighting at close quarters: a hideous nightmare of human suffering and horror."
+• "Agincourt must be understood not as reckless heroism but as a battle fought by a king who knew he could not afford either defeat or prolonged success."
+• "At Waterloo, the French infantry attacked in column... The French columns, which had broken Austrian and Prussian squares across Europe, dissolved under fire they could not effectively return."
+• "The great French cavalry charges at Waterloo... represented a misunderstanding of what cavalry could achieve against unbroken infantry... It was a test of collective discipline against individual courage, and discipline won."
+• "When the Imperial Guard retreated... 'La Garde recule!'... When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
+
+*The Mask of Command* (1987):
+• "The leader of men in warfare can show himself to his followers only through a mask, a mask that he must make for himself, but a mask made in such form as will mark him to men of his time and place as the leader they want and need."
+• "Napoleon commanded through personal magnetism... Wellington commanded through professional competence. Napoleon's system required Napoleon; Wellington's system required only that someone competent occupy the headquarters."
+• "Wellington positioned himself at crisis points throughout the day... He did not inspire; he steadied. Napoleon, by contrast, remained behind the lines for much of the battle... The system that required Napoleon was operating without him."
+
+*Fields of Battle* (1996):
+• "The French intervention in America was not about liberty; it was about revenge... The Americans were useful instruments; their cause was secondary."
+• "The French army at Yorktown was the best-trained, best-equipped force in the campaign... Without the French, Yorktown could not have happened."
+• "Yorktown was decided at sea before the siege began... The siege was formality; the battle at sea was decisive."
+• "The siege of Yorktown was a textbook operation, conducted by men who had read the textbook. French engineers—trained in the Vauban tradition of siege warfare—directed the construction of parallels and batteries..."
+
+*Intelligence in War* (2003): (Marengo, Jena, Leipzig—reconnaissance, bataillon carré)
+
+*The First World War* (1998): (Marne, Verdun, Somme—strategic context, soldier experience)
 
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
@@ -388,116 +478,6 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 0
-ENTRY 0005
-Source:
-• MEM–ROME–CONSTANTINOPLE — v2.1
-Ingest Type:
-• Cross-Civilization Encoding (Rome lens) — Constantinople as Roman survival/continuity
-Primary Belief Extracted:
-• Constantinople encodes Rome's survival through relocation; continuity not rupture; translation not replacement; internal fracture (1204 Crusade) more fatal than external pressure; 1453 ends political sovereignty but not civilizational survivals.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0006
-Source:
-• MEM–RUSSIA–CONSTANTINOPLE — v2.7
-Ingest Type:
-• Cross-Civilization Encoding (Russia lens) — Constantinople as lost imperial center
-Primary Belief Extracted:
-• Constantinople = lost imperial center whose authority migrated symbolically to Moscow; fall as cosmic shock; Third Rome doctrine; origin that was "taken, not given up"; unfinished inheritance.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0007
-Source:
-• MEM–ISLAM–CRUSADES — v1.0
-Ingest Type:
-• Civilizational Defense / Legitimacy Recovery Memory
-Primary Belief Extracted:
-• Crusades = Islam's legitimacy crisis and moral recovery; sacred loss exposes legitimacy failure; Crusaders rule territory but never authority; unity before violence; Jerusalem 1187 reanchors legitimacy; fragmentation invites invasion.
-Belief Status:
-• UNFROZEN
-Note:
-• MEM contains typo: II "SACRED SPAAD" (AUDIT: log for WRITE-mode correction)
-
-ENTRY 0008
-Source:
-• MEM–ISLAM–SALADIN — v1.0
-Ingest Type:
-• Person-Memory — Moral-Imperial Reconstitutor (Crusades-related)
-Primary Belief Extracted:
-• Saladin embodies Islam's Crusades encoding: legitimacy flows from conduct; "the just ruler who defeats without humiliating"; Jerusalem 1187 = victory without massacre; Islam recovers without becoming what it opposed; unity precedes victory; moral model retained, political structure dissolves.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0009
-Source:
-• MEM–ISLAM–DYNASTY–SELJUK — v1.0
-Ingest Type:
-• Dynasty Memory — Steppe-Frontier Integration
-Primary Belief Extracted:
-• Power enters Islam from the steppe; legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law); protectorate over caliphate; Sunni revival; fragmentation coincides with Crusader arrival—exposes cost of overextension without integration.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0010
-Source:
-• MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
-Ingest Type:
-• Dynasty Memory — Frontier-to-Imperial Custodianship
-Primary Belief Extracted:
-• Ottomans emerge from Anatolian frontier; legitimacy earned through defense and expansion; Constantinople 1453 = imperial arrival; custody replaces charisma; caliphal legitimacy territorially anchored (Mecca, Medina, Jerusalem); layered authority, legal pluralism.
-Belief Status:
-• UNFROZEN
-
-ENTRY 0011
-Source:
-• Repository-wide grep; MEM–ANGLIA–*, MEM–FRANCIA–*, MEM–GERMANIA–*, MEM–ROME–*
-Ingest Type:
-• Cross-Repository Corpus — John Keegan Verbatim Quotes
-Primary Belief Extracted:
-• Keegan corpus (A History of Warfare, The Face of Battle, The Mask of Command, The American Civil War, Fields of Battle, The Price of Admiralty, Intelligence in War, The First World War) encodes institutional restraint, civilized warfare, command philosophy, soldier experience, tactical-structural analysis. Distinct from Gibbon (Roman/Christian historiography); distinct from Islam MEM encoding. Available for civilization-contrast citation.
-Belief Status:
-• UNFROZEN
-
-KEEGAN VERBATIM QUOTES (absorbed from repository):
-
-*A History of Warfare* (1993):
-• "Our institutions and our laws, we tell ourselves, have set the human potentiality for violence about with such restraints that violence in everyday life will be punished as criminal by our laws, while its use by our institutions of state will take the particular form of 'civilised warfare.'"
-• "The principal problem confronting the Federal government in its effort to restore the union is that of distance."
-• "The genius of Lincoln's Gettysburg Address" lies in its refusal "to differentiate between the sacrifice of the North and the South."
-• "Grant and William Tecumseh Sherman stood out among all commanders."
-• "No one on either side seems to have appreciated that the water lines in the Mississippi Valley formed an avenue of military advance into the Deep South, culminating eventually at New Orleans."
-• "Clausewitz is the most important writer on war... but his vision was formed by a particular historical moment. He knew nothing of primitive war, little of oriental war, and his theory rests on assumptions about the rationality of politics that history often contradicts."
-• "The Thirty Years War... tore away the customary restraints on violence."
-• "The annihilation at Cannae was not merely a military defeat but a psychological catastrophe that shattered the Roman collective consciousness. The unprecedented scale of slaughter—tens of thousands of citizen-soldiers killed in a single afternoon—created a trauma that reverberated through Roman society, challenging their fundamental beliefs about military invincibility and civic duty."
-• "Rome's greatest military innovation was not its tactics or weapons but its social organization of warfare. By requiring all citizens of military age to serve and by integrating military service into the fabric of civic life, Rome created a citizen-army that combined the discipline of professionals with the motivation of stakeholders..."
-• "Actium demonstrated how naval warfare in the ancient world depended more on command coherence than tactical superiority. Antony's divided attention between land and sea operations, combined with Cleopatra's separate command structure, created fatal command fractures..."
-• "Trajan's Dacian Wars represented the culmination of Rome's military evolution, combining logistical mastery, engineering skill, and tactical flexibility..."
-• "Caesar's victory at Pharsalus demonstrated the transformative power of personal command in ancient warfare. By maintaining direct control over his reserves and personally directing the counterattack against Pompey's cavalry, Caesar showed how a general's presence on the battlefield could outweigh numerical superiority..."
-
-*The Face of Battle* (1976):
-• "The appalling confusion, noise, incoherence of armies fighting at close quarters: a hideous nightmare of human suffering and horror."
-• "Agincourt must be understood not as reckless heroism but as a battle fought by a king who knew he could not afford either defeat or prolonged success."
-• "At Waterloo, the French infantry attacked in column... The French columns, which had broken Austrian and Prussian squares across Europe, dissolved under fire they could not effectively return."
-• "The great French cavalry charges at Waterloo... represented a misunderstanding of what cavalry could achieve against unbroken infantry... It was a test of collective discipline against individual courage, and discipline won."
-• "When the Imperial Guard retreated... 'La Garde recule!'... When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
-
-*The Mask of Command* (1987):
-• "The leader of men in warfare can show himself to his followers only through a mask, a mask that he must make for himself, but a mask made in such form as will mark him to men of his time and place as the leader they want and need."
-• "Napoleon commanded through personal magnetism... Wellington commanded through professional competence. Napoleon's system required Napoleon; Wellington's system required only that someone competent occupy the headquarters."
-• "Wellington positioned himself at crisis points throughout the day... He did not inspire; he steadied. Napoleon, by contrast, remained behind the lines for much of the battle... The system that required Napoleon was operating without him."
-
-*Fields of Battle* (1996):
-• "The French intervention in America was not about liberty; it was about revenge... The Americans were useful instruments; their cause was secondary."
-• "The French army at Yorktown was the best-trained, best-equipped force in the campaign... Without the French, Yorktown could not have happened."
-• "Yorktown was decided at sea before the siege began... The siege was formality; the battle at sea was decisive."
-• "The siege of Yorktown was a textbook operation, conducted by men who had read the textbook. French engineers—trained in the Vauban tradition of siege warfare—directed the construction of parallels and batteries..."
-
-*Intelligence in War* (2003): (Marengo, Jena, Leipzig—reconnaissance, bataillon carré)
-
-*The First World War* (1998): (Marne, Verdun, Somme—strategic context, soldier experience)
-
 Total Entries: 11
 Next Entry ID: 0012
 Frozen Syntheses: 0

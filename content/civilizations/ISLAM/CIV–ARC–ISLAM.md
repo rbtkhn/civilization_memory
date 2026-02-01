@@ -1,15 +1,20 @@
-CIV–ARC–ISLAM — v1.0
+CIV–ARC–ISLAM — v1.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ISLAM
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
-Supersedes: None (initial)
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Supersedes: CIV–ARC–ISLAM v1.0
+Upgrade Type: ADDITIVE (Will Durant added to ARC-T-MODERN)
 Civilization: ISLAM
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–ISLAM · CIV–SCHOLAR–ISLAM
 Last Update: February 2026
+
+────────────────────────────────────────────────────────────
+VERSION NOTE (v1.1)
+────────────────────────────────────────────────────────────
+v1.1 — Will Durant (1885–1981) added to ARC-T-MODERN. The Age of Faith covers medieval Islam, Crusades, cultural transmission; civilizational synthesis suitable for MEM–ISLAM contrast and context.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -52,6 +57,7 @@ ARC-T-EARLY-MOD:
 • Stanley Lane-Poole (1854–1931) — Saladin and the Fall of the Kingdom of Jerusalem; The Mohammedan Dynasties
 
 ARC-T-MODERN:
+• Will Durant (1885–1981) — The Story of Civilization, Vol. 4: The Age of Faith (1950); civilizational synthesis on medieval Islam, Crusades, transmission
 • Marshall G.S. Hodgson (1922–1968) — The Venture of Islam (3 vols.)
 • Bernard Lewis (1916–2018) — The Arabs in History; The Political Language of Islam; What Went Wrong?
 • Patricia Crone (1945–2015) — Slaves on Horses; Meccan Trade and the Rise of Islam; God's Caliph
@@ -86,9 +92,9 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 VI. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.0)
-• CIV–SCHOLAR–ISLAM (upon creation)
+• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.1)
+• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.1)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ISLAM — v1.0
+END OF FILE — CIV–ARC–ISLAM — v1.1
 ────────────────────────────────────────────────────────────

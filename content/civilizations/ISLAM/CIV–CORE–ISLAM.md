@@ -12,7 +12,7 @@ Conceptual Lineage: SCE–CIV–ISLAM V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Governed by: CIV–MEM–CORE v2.9
-ARC Reference: CIV–ARC–ISLAM v1.0
+ARC Reference: CIV–ARC–ISLAM v1.1
 Temporal Boundaries (embedded): Ancient–4–476 / Medieval 476–1453 / Colonial 1453–1815 / Industrial–Modern 1815–present
 Last Update: February 2026
 WORDCOUNT: ~2,400
