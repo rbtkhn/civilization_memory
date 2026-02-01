@@ -58,6 +58,19 @@ Roman mass is neutralized by mobility and patience.
 
 Victory is denial, not occupation.
 
+Tacitus (ARC–ROME) records Parthian rejection of Roman-backed kingship.
+When nobles refused Vonones—an Arsacid raised in Rome—they invoked
+prior denial:
+
+> "The Parthians had degenerated: they had gone to another continent
+> for a king tainted with the enemy's arts, and now the throne of the
+> Arsacidae was held, or given away, as one of the provinces of Rome."  
+> — Tacitus, *Annals*, II.2
+
+Roman–Persian parity is not merely military. It is **legitimacy contest**:
+Parthia refuses to be a Roman province; Persian kingship resists
+absorption. The Roman view encodes the same structural tension.
+
 ────────────────────────────────────────────────────────────
 IV. SASANIAN PHASE: STATE VS STATE WAR
 ────────────────────────────────────────────────────────────
@@ -163,10 +176,11 @@ X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Tacitus, *Annals*, II.1–4 (ARC–ROME) — Parthian legitimacy; Vonones; parity as legitimacy contest
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — civilizational contrast, Orientalism; FiveBooks interview (2020)
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ROME — v1.1
+END OF FILE — MEM–PERSIA–WAR–ROME — v1.2
 ────────────────────────────────────────────────────────────

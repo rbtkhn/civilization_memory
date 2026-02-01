@@ -1,10 +1,11 @@
-MEM–PERSIA–SATRAPIES — v1.0
+MEM–PERSIA–SATRAPIES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Herodotus India (III.94)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Satrapal System — Provincial Governance, Tribute, Modular Imperial Control
@@ -33,6 +34,11 @@ Herodotus describes the tribute structure:
 > monarchs have levied tribute. He fixed it so that those who paid in
 > silver paid according to the Babylonian talent."  
 > — Herodotus, *Histories*, III.89
+
+India exemplifies satrapy diversity—the twentieth province paid in gold dust:
+
+> "The Indians made up the twentieth province. These are more in number than any nation of which we know, and they paid a greater tribute than any other province, namely three hundred and sixty talents of gold dust."
+> — Herodotus, *Histories*, III.94 (trans. A.D. Godley)
 
 The satrapy is the empire's modular unit—governance without homogenization.
 
@@ -80,10 +86,10 @@ IV. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 V. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-• Herodotus, *Histories*, III.89–97 — satrapy list, tribute
+• Herodotus, *Histories*, III.89–97 — satrapy list, tribute; III.94 India (gold dust)
 • Pierre Briant, *From Cyrus to Alexander* — administrative consolidation
 • Lloyd Llewellyn-Jones, FiveBooks interview (2020) — laisser-faire
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–SATRAPIES — v1.0
+END OF FILE — MEM–PERSIA–SATRAPIES — v1.1
 ────────────────────────────────────────────────────────────

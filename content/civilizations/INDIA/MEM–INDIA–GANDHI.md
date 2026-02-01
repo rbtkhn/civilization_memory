@@ -1,17 +1,17 @@
-MEM–INDIA–GANDHI — v2.0
+MEM–INDIA–GANDHI — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
 Subject: Mohandas Karamchand Gandhi
 Dates: 1869–1948 AD
 Class: MEM (Civilizational Memory)
-ARC Reference: CIV–ARC–INDIA v1.0
+ARC Reference: CIV–ARC–INDIA v1.1
 Last Update: February 2026
-Word Count: ~2,300
+Word Count: ~2,400
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -94,12 +94,19 @@ Tolerance, maturity, and Amritsar as context for Gandhi's legitimacy attack are 
 
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
+Ferguson frames nationalist challenge and costs of maintaining imperial control [ERC-SECONDARY]:
+
+> India functioned as the "jewel in the crown" of the British Empire—the territory that transformed Britain from a maritime-commercial power into a global administrative empire. The transition from East India Company rule to direct Crown administration after 1857 marked a shift from commercial extraction to formal governance, yet the tension between extraction and governance persisted throughout the Raj. India became Britain's administrative laboratory, where indirect rule, legal codification, and infrastructure development were tested at unprecedented scale, even as the costs of maintaining imperial control grew and nationalist resistance mounted.
+
+— Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) [ARC–INDIA-T-MODERN]. Summary-only note: verify against published edition for verbatim.
+
 ────────────────────────────────────────────────────────────
 VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 • Wikiquote, Will Durant — The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GANDHI — v2.0
+END OF FILE — MEM–INDIA–GANDHI — v2.1
 ────────────────────────────────────────────────────────────

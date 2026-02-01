@@ -1,11 +1,11 @@
-CIV–ARC–INDIA — v1.0
+CIV–ARC–INDIA — v1.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · INDIA
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
-Supersedes: None (initial)
-Upgrade Type: INITIAL ESTABLISHMENT (Will Durant in ARC-T-MODERN)
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE (Niall Ferguson in ARC-T-MODERN)
 Civilization: INDIA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA
@@ -60,6 +60,7 @@ ARC-T-EARLY-MOD:
 
 ARC-T-MODERN:
 • Will Durant (1885–1981) — The Story of Civilization, Vol. 1: Our Oriental Heritage (1935); The Case for India (1930); civilizational synthesis on India, continuity, British rule, village community, transmission
+• Niall Ferguson (b. 1964) — Empire: How Britain Made the Modern World (2003); British India as jewel in the crown, administrative laboratory, Company-to-Crown trajectory, extraction vs governance, imperial method at scale
 • John Keay (b. 1941) — India: A History; India Discovered
 • Romila Thapar (b. 1931) — Early India; Asoka and the Decline of the Mauryas; Somanatha
 • Upinder Singh (b. 1959) — A History of Ancient and Early Medieval India; Political Violence in Ancient India
@@ -91,9 +92,15 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 VI. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–INDIA (ARC Reference: CIV–ARC–INDIA v1.0)
-• CIV–SCHOLAR–INDIA (ARC Reference: CIV–ARC–INDIA v1.0)
+• CIV–CORE–INDIA (ARC Reference: CIV–ARC–INDIA v1.1)
+• CIV–SCHOLAR–INDIA (ARC Reference: CIV–ARC–INDIA v1.1)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–INDIA — v1.0
+VII. VERSION HISTORY (BRIEF)
+────────────────────────────────────────────────────────────
+v1.0 — Initial establishment (Will Durant in ARC-T-MODERN). February 2026.
+v1.1 — Niall Ferguson added to ARC-T-MODERN (*Empire: How Britain Made the Modern World*; British Empire/India content). February 2026.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–INDIA — v1.1
 ────────────────────────────────────────────────────────────

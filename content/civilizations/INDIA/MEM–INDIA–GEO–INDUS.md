@@ -1,17 +1,17 @@
-MEM–INDIA–GEO–INDUS — v2.0
+MEM–INDIA–GEO–INDUS — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · HERODOTUS INDIA (Cross-ARC ARC–PERSIA-T-ANCIENT)
 Civilization: INDIA
 Subject: Indus River System
 Dates: Ancient era–present
 Class: MEM (Civilizational Memory)
-ARC Reference: CIV–ARC–INDIA v1.0
+ARC Reference: CIV–ARC–INDIA v1.1
 Last Update: February 2026
-Word Count: ~2,400
+Word Count: ~2,600
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -73,6 +73,19 @@ V. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+V.A. EVIDENCE — ARC-T-ANCIENT (Cross-ARC: Herodotus, ARC–PERSIA-T-ANCIENT)
+────────────────────────────────────────────────────────────
+The Indus and India as Persian satrapy are attested in Greek historiography of the Achaemenid period [ERC-PRIMARY]. Per CIV–ARC–TEMPLATE § V-A, India TSP MEMs may cite ARC–PERSIA with explicit declaration.
+
+Herodotus records India as the twentieth satrapy and the Indus voyage commissioned by Darius:
+
+> "The Indians made up the twentieth province. These are more in number than any nation of which we know, and they paid a greater tribute than any other province, namely three hundred and sixty talents of gold dust."
+> — Herodotus, *Histories*, III.94 (trans. A.D. Godley) (ARC–PERSIA-T-ANCIENT)
+
+> "But as to Asia, most of it was discovered by Darius. There is a river Indus... Darius, desiring to know where this Indus issues into the sea, sent ships manned by Scylax, a man of Caryanda, and others in whose word he trusted; these set out from the city Caspatyrus and the Pactyic country, and sailed down the river towards the east and the sunrise till they came to the sea; and voyaging over the sea westwards, they came in the thirtieth month to that place whence the Egyptian king sent the Phoenicians... After this circumnavigation Darius subdued the Indians and made use of this sea."
+> — Herodotus, *Histories*, IV.44 (ARC–PERSIA-T-ANCIENT)
+
+────────────────────────────────────────────────────────────
 VI. EVIDENCE — ARC-T-MODERN (VERBATIM)
 ────────────────────────────────────────────────────────────
 Civilizational continuity and scale—Indus as origin spine—are attested in modern synthesis as follows [ERC-SECONDARY].
@@ -92,10 +105,11 @@ Civilizational continuity and scale—Indus as origin spine—are attested in mo
 ────────────────────────────────────────────────────────────
 VII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Herodotus, *Histories*, III.94, IV.44 (trans. A.D. Godley) — India satrapy, Scylax/Indus (ARC–PERSIA-T-ANCIENT)
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Wikiquote, Will Durant — Our Oriental Heritage; The Case for India. Internet Archive (Our Oriental Heritage).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GEO–INDUS — v2.0
+END OF FILE — MEM–INDIA–GEO–INDUS — v2.1
 ────────────────────────────────────────────────────────────

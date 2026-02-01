@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · Herodotus verbatim integration
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Cyrus's Conquest of Babylon — Liberation Narrative, Integrative Legitimacy
@@ -40,12 +40,20 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. THE CONQUEST — HERODOTUS AND NABONIDUS
 ────────────────────────────────────────────────────────────
-Herodotus records that Cyrus diverted the Euphrates, allowing his
-troops to enter Babylon along the dry riverbed. The city fell with
-minimal resistance. The Nabonidus Chronicle offers a terse account;
-interpretation varies. What is clear: Babylon is incorporated, not
-destroyed. Cyrus presents himself as legitimate successor to the
-Babylonian kings.
+Herodotus records Cyrus's stratagem:
+
+> "When the Babylonians had withdrawn behind their walls, Cyrus led the
+> river by a channel into the basin, which was then a marsh, making the
+> stream sink until the old channel could be forded. When this happened,
+> the Persian army that had been posted for this purpose entered Babylon
+> by the bed of the Euphrates, which had now sunk to about the middle of
+> a man's thigh."  
+> — Herodotus, *Histories*, I.190
+
+The city fell with minimal resistance. The Nabonidus Chronicle offers a
+terse account; interpretation varies. What is clear: Babylon is
+incorporated, not destroyed. Cyrus presents himself as legitimate
+successor to the Babylonian kings.
 
 ────────────────────────────────────────────────────────────
 III. THE CYRUS CYLINDER — LIBERATION PROPAGANDA
@@ -77,10 +85,10 @@ V. MEM CONNECTIONS
 VI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Cyrus Cylinder — liberation narrative; restoration
-• Herodotus, *Histories*, I.178–191 — conquest account
+• Herodotus, *Histories*, I.178–191 (I.190 verbatim) — conquest account
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources* — Nabonidus Chronicle
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–BABYLON — v1.0
+END OF FILE — MEM–PERSIA–BABYLON — v1.1
 ────────────────────────────────────────────────────────────

@@ -107,6 +107,7 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 Examples:
 • MEM–PERSIA–ZOROASTER (TSP:TRANSMISSION) may cite ARC–ROME, ARC–ISLAM for reception of Zoroastrian concepts.
 • MEM–PERSIA–ISLAM (civilizational absorption) may cite ARC–ISLAM for Islamic sources.
+• MEM–PERSIA–ARMENIA, MEM–PERSIA–WAR–ROME, MEM–PERSIA–WAR–CARRHAE may cite Tacitus (ARC–ROME-T-ANCIENT) for Roman–Parthian interface, Armenia, legitimacy contest.
 
 ────────────────────────────────────────────────────────────
 VI. MIRRORING / REFERENCE

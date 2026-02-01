@@ -86,6 +86,16 @@ Herodotus catalogs the tribute structure:
 > and provided for all good things."  
 > — Herodotus, *Histories*, III.89
 
+India appears as the twentieth satrapy, paying the largest tribute in gold dust:
+
+> "The Indians made up the twentieth province. These are more in number than any nation of which we know, and they paid a greater tribute than any other province, namely three hundred and sixty talents of gold dust."
+> — Herodotus, *Histories*, III.94 (trans. A.D. Godley)
+
+Darius also commissions exploration of the Indus and the sea corridor:
+
+> "But as to Asia, most of it was discovered by Darius. There is a river Indus... Darius, desiring to know where this Indus issues into the sea, sent ships manned by Scylax, a man of Caryanda, and others in whose word he trusted; these set out from the city Caspatyrus and the Pactyic country, and sailed down the river towards the east and the sunrise till they came to the sea; and voyaging over the sea westwards, they came in the thirtieth month to that place whence the Egyptian king sent the Phoenicians... After this circumnavigation Darius subdued the Indians and made use of this sea."
+> — Herodotus, *Histories*, IV.44
+
 Control is modular; empire governs difference as a feature.
 
 ────────────────────────────────────────────────────────────
@@ -189,7 +199,7 @@ Breaks if removed: MEM–PERSIA–CYRUS–I (precedent); MEM–PERSIA–DYNASTY�
 XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Darius I, Behistun Inscription (522 BCE) — ERC-PRIMARY
-• Herodotus, *Histories* — satrapies, Royal Road, Marathon
+• Herodotus, *Histories* — satrapies (III.89, III.94 India), Royal Road, IV.44 Scylax/Indus, Marathon
 • Pierre Briant, *From Cyrus to Alexander* — administrative consolidation
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
 • A.T. Olmstead, *History of the Persian Empire* (1948)
@@ -202,5 +212,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–DARIUS–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DARIUS–I — v1.0
+END OF FILE — MEM–PERSIA–DARIUS–I — v1.1
 ────────────────────────────────────────────────────────────

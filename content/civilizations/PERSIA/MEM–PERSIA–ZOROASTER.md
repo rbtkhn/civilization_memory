@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.2
+Upgrade Type: ADDITIVE · Herodotus integration
 Civilization: PERSIA
 Subject: Zoroaster (Zarathustra)
 Dates: c. 1500–1000 BC (traditional range; uncertainty preserved)
@@ -76,7 +76,18 @@ Authority is strong—but never morally free.
 ────────────────────────────────────────────────────────────
 V. INSTITUTIONAL TRANSMISSION
 ────────────────────────────────────────────────────────────
-Zoroastrianism becomes Persia’s legitimacy substrate.
+Zoroastrianism becomes Persia’s legitimacy substrate. Herodotus observes Persian sacrifice and its
+fusion of cult with kingship:
+
+> "It is not lawful for them to pray for any private good, but only for
+> the welfare of the king and of the whole Persian people, of which the
+> individual suppliant is of course a part."  
+> — Herodotus, *Histories*, I.132
+
+Ritual subordinates private blessing to collective and royal welfare.
+The Magi oversee sacrifice; the king is embedded in cosmic order. Greek
+witness encodes what Persian tradition assumes: legitimacy is communal,
+not individual.
 
 Lloyd Llewellyn-Jones explains how Persians activated history differently
 from Greek inquiry:
@@ -158,10 +169,11 @@ IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Herodotus, *Histories*, I.131–132 — Persian religion, sacrifice, Magi, king's welfare
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — ch. "Also sprach Zarathustra"; oral tradition; FiveBooks interview (2020)
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ZOROASTER — v1.1
+END OF FILE — MEM–PERSIA–ZOROASTER — v1.2
 ────────────────────────────────────────────────────────────

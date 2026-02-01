@@ -1,10 +1,11 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID — v1.1
+MEM–PERSIA–DYNASTY–ACHAEMENID — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · Herodotus integration
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Herodotus integration · Herodotus India (III.94)
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
 Dates: c. 550–330 BC
@@ -58,6 +59,11 @@ gift-giving under Cyrus and Cambyses to fixed obligation:
 > monarchs have levied tribute. He fixed it so that those who paid in
 > silver paid according to the Babylonian talent."  
 > — Herodotus, *Histories*, III.89
+
+India appears as the twentieth satrapy, paying the largest tribute in gold:
+
+> "The Indians made up the twentieth province. These are more in number than any nation of which we know, and they paid a greater tribute than any other province, namely three hundred and sixty talents of gold dust."
+> — Herodotus, *Histories*, III.94 (trans. A.D. Godley)
 
 Standardized tribute enables scalable governance. The Persians call
 Darius "the merchant" for this—administration as imperial technology.
@@ -138,8 +144,9 @@ VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 VIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Herodotus, *Histories*, III.89, III.94 (India satrapy) — tribute, imperial extent
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — satrapal design, cavalry; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.2
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.3
 ────────────────────────────────────────────────────────────

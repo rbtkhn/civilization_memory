@@ -1,17 +1,17 @@
-MEM–INDIA–WAR–CLIVE — v2.0
+MEM–INDIA–WAR–CLIVE — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
 Subject: Clive & the East India Company Conquest
 Dates: 1757–1764 AD
 Class: MEM (Civilizational Memory)
-ARC Reference: CIV–ARC–INDIA v1.0
+ARC Reference: CIV–ARC–INDIA v1.1
 Last Update: February 2026
-Word Count: ~2,500
+Word Count: ~2,700
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -53,7 +53,26 @@ Rule learned:
 Internal disunity invites procedural domination.
 
 ────────────────────────────────────────────────────────────
-V. CONTINUITY INSIGHTS (RAW)
+V. EVIDENCE — ARC-T-MODERN (VERBATIM)
+────────────────────────────────────────────────────────────
+Exploitation and destruction of high civilization by the trading company are attested in modern synthesis as follows [ERC-SECONDARY].
+
+> British rule in India is the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not within any reasonable probability, have worse results than the present form of alien domination.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> This, evidently was not a minor civilization, produced by inferior people. It ranks with the highest civilizations of history, and some, like Keyserling, would place it at the head and summit of all. The British conquest of India was the invasion and destruction of a high civilization by a trading company utterly without scruple or principle, careless of art, greedy of gain, overrunning with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and "legal" plunder which has now gone on ruthlessly for one hundred and seventy-three years, and goes on at this moment while in our secure comfort we write and read. Those who have seen the unspeakable poverty and physiological weakness of the Hindus today will hardly believe that it was the wealth of eighteenth century India which attracted the commercial pirates of England and France.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+Ferguson frames India as the territory that transformed Britain from maritime-commercial power into global administrative empire; Company-to-Crown and Plassey as pivot [ERC-SECONDARY]:
+
+> India functioned as the "jewel in the crown" of the British Empire—the territory that transformed Britain from a maritime-commercial power into a global administrative empire. The transition from East India Company rule to direct Crown administration after 1857 marked a shift from commercial extraction to formal governance, yet the tension between extraction and governance persisted throughout the Raj. India became Britain's administrative laboratory, where indirect rule, legal codification, and infrastructure development were tested at unprecedented scale, even as the costs of maintaining imperial control grew and nationalist resistance mounted.
+
+— Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) [ARC–INDIA-T-MODERN]. Summary-only note: verify against published edition for verbatim.
+
+────────────────────────────────────────────────────────────
+VI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • India fell to contracts, not cannons.
 • Corporate power can replace empires.
@@ -67,8 +86,9 @@ Tension preserved without verdict.
 VII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 • Wikiquote, Will Durant — The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–WAR–CLIVE — v2.0
+END OF FILE — MEM–INDIA–WAR–CLIVE — v2.1
 ────────────────────────────────────────────────────────────

@@ -154,12 +154,23 @@ INDIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–INDEX–INDIA             │ v1.1    │ Active        │
+│ CIV–ARC–INDIA               │ v1.1    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (PERSIA — HERODOTUS VERBATIM GAPS):
+• MEM–PERSIA–BABYLON v1.0 → v1.1: Herodotus I.190 (Euphrates diversion) verbatim
+• MEM–PERSIA–ZOROASTER v1.1 → v1.2: Herodotus I.132 (Persian sacrifice, king's welfare, Magi) verbatim
+
+2026-02-01 (PERSIA — TACITUS CROSS-ARC INTEGRATION):
+• MEM–PERSIA–ARMENIA v1.1 → v1.2: Tacitus *Annals* II.3–4 (Vonones; Armenia as masterless land between empires)
+• MEM–PERSIA–WAR–CARRHAE v1.1 → v1.2: Tacitus *Annals* II.2 (Parthian memory of Crassus, Antony)
+• MEM–PERSIA–WAR–ROME v1.1 → v1.2: Tacitus *Annals* II.2 (Parthian legitimacy; parity as legitimacy contest)
+• Cross-ARC citation: Tacitus (ARC–ROME) for Roman–Persian interface MEMs per CIV–ARC–PERSIA § V
 
 2026-02-01 (PERSIA — HERODOTUS INTEGRATION + 8 NEW MEMs):
 • MEM–PERSIA–CYRUS–I v1.1 → v1.2: Herodotus I.87 (Cyrus/Croesus; integrative sovereignty)
@@ -170,6 +181,28 @@ IV. VERSION HISTORY (RECENT)
 • MEM–PERSIA–ARMENIA v1.0 → v1.1: Herodotus V.52 (Royal Road; Armenia on corridor) verbatim
 • NEW MEMs (8): WAR–MARATHON, LYDIA, WAR–SCYTHIAN, IONIAN–REVOLT, BABYLON, CAMBYSES, WAR–THERMOPYLAE, SATRAPIES
 • CIV–INDEX–PERSIA: v1.1 → v1.2; MEM count 26 → 34
+
+2026-02-01 (PERSIA / INDIA MEM — HERODOTUS INDIA INSERTION):
+• MEM–PERSIA–DARIUS–I v1.0 → v1.1: Herodotus III.94 (India satrapy, gold dust), IV.44 (Scylax/Indus voyage)
+• MEM–PERSIA–DYNASTY–ACHAEMENID v1.2 → v1.3: Herodotus III.94 (India as twentieth satrapy)
+• MEM–PERSIA–SATRAPIES v1.0 → v1.1: Herodotus III.94 (India satrapy, gold dust)
+• MEM–INDIA–GEO–INDUS v2.0 → v2.1: Herodotus III.94, IV.44 (Cross-ARC ARC–PERSIA-T-ANCIENT); new V.A EVIDENCE — ARC-T-ANCIENT
+• MEM–INDIA–WAR–ALEXANDER v1.0 → v2.0: Herodotus III.94, IV.44 (Cross-ARC ARC–PERSIA-T-ANCIENT); new EVIDENCE + MEM BIBLIOGRAPHY; ARC Reference v1.1
+• RESEARCH–HERODOTUS–INDIA–INSERTION–OPPORTUNITIES.md created
+
+2026-02-01 (INDIA MEM — FERGUSON VERBATIM INTEGRATION, PRIORITY 1 & 2):
+• MEM–INDIA–BRITISH–EMPIRE v2.0 → v2.1: Ferguson *Empire* (jewel in the crown, administrative laboratory, Company-to-Crown); ARC Reference v1.1
+• MEM–INDIA–WAR–CLIVE v2.0 → v2.1: EVIDENCE section added (Durant F, G + Ferguson *Empire*); Ferguson Company/Plassey; ARC Reference v1.1
+• MEM–INDIA–PARTITION v2.0 → v2.1: Ferguson *Empire* (exit, procedural withdrawal, imperial method limits); ARC Reference v1.1
+• MEM–INDIA–GANDHI v2.0 → v2.1: Ferguson *Empire* (nationalist resistance, costs of imperial control); ARC Reference v1.1
+• MEM–INDIA–NEHRU v2.0 → v2.1: Ferguson *Empire* (post-imperial institutional inheritance, procedural continuity); ARC Reference v1.1
+• Candidate passage from MEM–ANGLIA–INDIA; summary-only note: verify against published *Empire* (2003) for verbatim
+
+2026-02-01 (INDIA ARC — FERGUSON ADDED TO ARC-T-MODERN):
+• CIV–ARC–INDIA: v1.0 → v1.1 (Niall Ferguson added to ARC-T-MODERN)
+• Ferguson *Empire: How Britain Made the Modern World* (2003): British India, jewel in the crown, administrative laboratory, Company-to-Crown, extraction vs governance
+• RESEARCH–FERGUSON–INDIA–EMPIRE–REFERENCES.md created (British Empire/India content summary; suggested MEM–INDIA mapping)
+• CIV–CORE–INDIA, CIV–SCHOLAR–INDIA: ARC Reference updated to CIV–ARC–INDIA v1.1
 
 2026-02-01 (INDIA MEM — DURANT VERBATIM INTEGRATION, v2.0 UPGRADE):
 • MEM–INDIA–GEO–INDUS v1.0 → v2.0: Durant verbatim (Our Oriental Heritage A; Case for India B, D); ARC-T-MODERN; MEM BIBLIOGRAPHY

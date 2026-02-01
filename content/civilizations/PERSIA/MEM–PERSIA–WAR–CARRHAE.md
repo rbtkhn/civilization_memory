@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.2
+Upgrade Type: ADDITIVE · Tacitus integration (cross-ARC)
 Civilization: PERSIA
 Regime: PARTHIAN (ARSACID)
 Subject: Battle of Carrhae as Archetypal Persian Denial Victory
@@ -76,6 +76,18 @@ Lloyd Llewellyn-Jones traces the cavalry tradition to Darius's self-description:
 > — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
 
 Persian warfare adapts; Roman warfare imposes. Carrhae validates the former.
+
+Tacitus (ARC–ROME) records that Carrhae lived in Parthian memory. When
+Parthian nobles rejected a Roman-backed king (Vonones) in AD 16, they
+invoked prior victories:
+
+> "Where was the glory of the men who slew Crassus and ejected Antony,
+> if a chattel of the Caesar, who had brooked his bondage through all
+> these years, was to govern Parthians?"  
+> — Tacitus, *Annals*, II.2
+
+Carrhae and Antony's retreat remain the measure of Parthian identity.
+Six decades later, Persian legitimacy still rests on having denied Rome.
 
 ────────────────────────────────────────────────────────────
 IV. THE BATTLE — DENIAL ACHIEVED
@@ -180,5 +192,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–WAR–CARRHAE
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.1
+END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.2
 ────────────────────────────────────────────────────────────

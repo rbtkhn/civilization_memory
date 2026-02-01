@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Herodotus integration
+Version: 1.2
+Upgrade Type: ADDITIVE · Tacitus integration (cross-ARC)
 Civilization: PERSIA
 Regime: ACHAEMENID → PARTHIAN → SASANIAN
 Subject: Armenia as Persian Buffer, Client Kingdom, and Imperial Seam
@@ -93,6 +93,18 @@ Mommsen emphasizes the structural logic:
 Persia seeks Armenian clients who acknowledge Iranian supremacy;
 Rome seeks to deny Persia that alignment. Control of Armenia means
 forward defense of the Iranian plateau—or exposure to Roman pressure.
+
+Tacitus (ARC–ROME) captures Armenia's structural role in the Vonones
+crisis (AD 16–19). When the Parthians rejected their Roman-backed king:
+
+> "The defeated Vonones found shelter in Armenia, then a masterless
+> land between the Parthian and Roman empires—a dubious neighbour to
+> the latter owing to the criminal action of Antony."  
+> — Tacitus, *Annals*, II.3–4
+
+Armenia as "masterless land between" —the buffer in its pure form.
+Vonones flees Parthia; Rome and Parthia contest his refuge. Armenia
+is the terrain where neither empire holds definitive sway.
 
 ────────────────────────────────────────────────────────────
 V. SASANIAN PERIOD — HARDENED CONTEST
@@ -201,5 +213,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–ARMENIA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ARMENIA — v1.1
+END OF FILE — MEM–PERSIA–ARMENIA — v1.2
 ────────────────────────────────────────────────────────────
