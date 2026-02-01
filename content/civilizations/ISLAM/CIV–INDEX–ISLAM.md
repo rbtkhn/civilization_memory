@@ -1,37 +1,61 @@
-CIV–INDEX–ISLAM — v1.0
+CIV–INDEX–ISLAM — v2.0
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE · CANONICAL · LOCKED
+Version: 2.0
+Supersedes: CIV–INDEX–ISLAM v1.0
+Upgrade Type: TEMPLATE COMPLIANCE · GOVERNANCE REGISTRATION · TYPO CORRECTION
+Template Version Used: CIV–INDEX–TEMPLATE v2.1
 Civilization: ISLAM
 Class: CIV–INDEX
-Last Update: December 2025
+Governed by: CIV–MEM–CORE v2.9
+Last Update: February 2026
+
+TOTAL REGISTERED MEM FILES: 21
 
 ────────────────────────────────────────────────────────────
-MEM–ISLAM — MASTER INDEX
+I. PURPOSE & INDEX GOVERNANCE
 ────────────────────────────────────────────────────────────
 
-This index enumerates all active MEM–ISLAM memory files currently
-present in the Civilizational Memory Codex.
-Files are grouped by functional category for navigability and future
-scaling. This index is authoritative.
+This file is the authoritative index of all MEM–ISLAM files and canonical governance files for the Islam civilization.
+
+INDEX ROLE:
+• Canonical registry for Islam memory objects and governance files
+• Scholar-mode discovery spine
+• Naming and registration authority
+
+No interpretation, synthesis, or doctrine is permitted here.
+Entries are registrational only.
 
 ────────────────────────────────────────────────────────────
-I. FOUNDATIONAL PERSONS & ORIGINS
+II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
+
+• CIV–CORE–ISLAM — v2.0 (Sacred-Zone · Exit-Primacy · Demographic–Chokepoint)
+• CIV–SCHOLAR–ISLAM — v1.0 (Phase I Accumulation)
+• CIV–ARC–ISLAM — v1.0 (Author Admissibility & Temporal Precedence)
+
+CIV–DOCTRINE–ISLAM: Not present.
+
+────────────────────────────────────────────────────────────
+III. REGISTERED MEM FILES — PERSONS & FIGURES
+────────────────────────────────────────────────────────────
+
 • MEM–ISLAM–MOHAMMAD.md
 • MEM–ISLAM–SALADIN.md
 
 ────────────────────────────────────────────────────────────
-II. SECTARIAN & DOCTRINAL MEMORY
+IV. REGISTERED MEM FILES — SECTARIAN & DOCTRINAL
 ────────────────────────────────────────────────────────────
+
 • MEM–ISLAM–SUNNI.md
 • MEM–ISLAM–SHIA.md
 
 ────────────────────────────────────────────────────────────
-III. DYNASTIC & REGIME MEMORY
+V. REGISTERED MEM FILES — DYNASTIC & REGIME
 ────────────────────────────────────────────────────────────
+
 • MEM–ISLAM–DYNASTY–RASHIDUN.md
 • MEM–ISLAM–DYNASTY–UMAYYAD.md
 • MEM–ISLAM–DYNASTY–ABBASID.md
@@ -44,32 +68,49 @@ III. DYNASTIC & REGIME MEMORY
 • MEM–ISLAM–DYNASTY–MUGHAL.md
 
 ────────────────────────────────────────────────────────────
-IV. CIVILIZATIONAL SHOCKS & WARS
+VI. REGISTERED MEM FILES — WARS & CIVILIZATIONAL SHOCKS
 ────────────────────────────────────────────────────────────
+
 • MEM–ISLAM–CRUSADES.md
 • MEM–ISLAM–MONGOL–EMPIRE — v1.0.md
 
 ────────────────────────────────────────────────────────────
-V. IMPERIAL CAPITALS & SYMBOLIC CITIES
+VII. REGISTERED MEM FILES — IMPERIAL CAPITALS & SYMBOLIC CITIES
 ────────────────────────────────────────────────────────────
+
 • MEM–ISLAM–CONSTANTINOPLE.md
 
 ────────────────────────────────────────────────────────────
-VI. GEOGRAPHIC & REGIONAL MEMORY (GEO)
+VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
 ────────────────────────────────────────────────────────────
+
 • MEM–ISLAM–GEO–SICILY.md
-• MEM–ISLAM–GEO–KASHMIR.md
+• MEM–ISLAM–GEO–KASHMIR
 • MEM–ISLAM–GEO–XINJIANG.md
 
 ────────────────────────────────────────────────────────────
-VII. INDEX STATUS & GOVERNANAD
+IX. INDEX STATUS & GOVERNANCE
 ────────────────────────────────────────────────────────────
+
 • This index must be updated whenever a new MEM–ISLAM file is added.
 • Filenames listed here are canonical.
 • Ordering reflects civilizational logic, not chronology.
 • Cross-civilization mirrors (ROME / FRANCIA / GERMANIA) are indexed separately.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ISLAM — v1.0
+X. CANONICAL LOCK NOTICE
 ────────────────────────────────────────────────────────────
 
+This index is LOCKED. Additive updates only. No deletions, reordering, or silent modification.
+
+────────────────────────────────────────────────────────────
+XI. ACADEMIC REFERENCE CANON (ARC)
+────────────────────────────────────────────────────────────
+
+• CIV–ARC–ISLAM — v1.0
+
+Governs author admissibility and temporal precedence for MEM–ISLAM files. See CIV–ARC–ISLAM for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–INDEX–ISLAM — v2.0
+────────────────────────────────────────────────────────────

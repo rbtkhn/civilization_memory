@@ -141,7 +141,7 @@ ISLAM:
 ├────────────────────────────────────────────────────────┤
 │ CIV–ARC–ISLAM               │ v1.0    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
-│ CIV–INDEX–ISLAM             │ v1.0    │ Active        │
+│ CIV–INDEX–ISLAM             │ v2.0    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -157,6 +157,14 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (CIV–INDEX–ISLAM v2.0 — TEMPLATE COMPLIANCE):
+• CIV–INDEX–ISLAM: v1.0 → v2.0 (template compliance)
+  – Added Section II: Canonical Governance Files (CORE, SCHOLAR, ARC)
+  – Added Section XI: Academic Reference Canon (ARC)
+  – Template Version Used: CIV–INDEX–TEMPLATE v2.1
+  – Typo: GOVERNANAD → GOVERNANCE
+• VERSION–MANIFEST: CIV–INDEX–ISLAM v1.0 → v2.0
 
 2026-02-01 (ISLAM ECOSYSTEM — ARC + SCHOLAR CREATION):
 • CIV–ARC–ISLAM v1.0: Initial establishment per CIV–ARC–TEMPLATE v2.8
