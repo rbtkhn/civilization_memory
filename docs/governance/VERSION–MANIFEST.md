@@ -144,7 +144,7 @@ ISLAM:
 ├────────────────────────────────────────────────────────┤
 │ CIV–ARC–ISLAM               │ v1.1    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
-│ CIV–INDEX–ISLAM             │ v2.0    │ Active        │
+│ CIV–INDEX–ISLAM             │ v2.1    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -161,10 +161,64 @@ Phase: I (Accumulation)
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
+2026-02-01 (CIV–INDEX–ISLAM v2.1 — SYNC):
+• CIV–INDEX–ISLAM: v2.0 → v2.1 (additive sync)
+  – TOTAL REGISTERED MEM FILES corrected 23 → 22
+  – GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN confirmed in Section VIII
+
+2026-02-01 (ISLAM MEM — GEO–INDIAN–OCEAN CREATION):
+• MEM–ISLAM–GEO–INDIAN–OCEAN v1.0: NEW — Indian Ocean as maritime highway, transmission vector; Bab el-Mandeb, Hormuz, Malacca chokepoints; trader-and-preacher expansion; 4 ARC sections (Qur'an 30:46, Ibn Battuta, Arnold, Hodgson); Layer 2 GEO structured data; CIV–CORE § IV references
+• CIV–INDEX–ISLAM: GEO–INDIAN–OCEAN added to Section VIII
+
+2026-02-01 (ISLAM MEM — BERNARD LEWIS INTEGRATION, PHASE 4):
+• MEM–ISLAM–DYNASTY–UMAYYAD v1.0 → v1.1: Lewis SOURCE block (NYRB "The Shi'a" 1985)—caliphate "hereditary in the house of Umayya"; Sunni/Shi'a naming; Rashidun precedent; typo calashidun → Rashidun
+• MEM–ISLAM–DYNASTY–FATIMID v1.0 → v1.1: Lewis SOURCE block (NYRB "The Shi'a" 1985)—Fatimid caliphs "came to Egypt via North Africa"; Isma'ilis as "most active branch"; typo SIGNIFICANAD → SIGNIFICANCE
+• MEM–ISLAM–MONGOL–EMPIRE v1.0 → v1.1: Lewis SOURCE block (What Went Wrong? 2002)—Islam "forefront of human civilization"; "poor, weak, and ignorant"; "what was once a mighty civilization has indeed fallen low"; typo SPAAD → SPACE
+• MEM–ISLAM–CONSTANTINOPLE v1.0 → v1.1: Lewis SOURCE block (What Went Wrong? 2002; Journal of Democracy 1996)—Islamic dominance over Christendom; Ottoman "most enduring of all Islamic empires"; Vienna 1683; typo SIGNIFICANAD → SIGNIFICANCE
+
+2026-02-01 (ISLAM MEM — BERNARD LEWIS INTEGRATION, PHASE 3):
+• MEM–ISLAM–SALADIN v1.0 → v1.1: Lewis SOURCE block (Saladin and the Assassins, BSOAS 1953; Jihad vs. Crusade WSJ 2001)—Saladin's letter: "three-fold enemy" (Franks, Assassins, Zangids); Jerusalem capture "aroused little attention"; Crusades as "ineffectual response to the jihad"; removed duplicate header
+
+2026-02-01 (ISLAM MEM — BERNARD LEWIS INTEGRATION, PHASE 2):
+• MEM–ISLAM–SHIA v1.0 → v1.1: Lewis SOURCE block (NYRB "The Shi'a" 1985)—history "wrong turning"; obedience as necessity not commandment; "defenders of oppressed"; imam as "continuing embodiment of God's guidance"; martyrdom/return themes
+• MEM–ISLAM–MOHAMMAD v1.0 → v1.1: Lewis SOURCE block (NYRB "The Shi'a" 1985)—Prophet as founder of religion, community, state; "seal of the Prophets"; successor needed "quickly"; "rebel to statesman"; typo VIOLENAD → VIOLENCE
+• MEM–ISLAM–DYNASTY–ABBASID v1.0 → v1.1: Lewis SOURCE block (What Went Wrong? 2002; Journal of Democracy 1996)—Islam "forefront of human civilization"; Islamic dominance over Christendom; rich political literature
+
+2026-02-01 (ISLAM MEM — BERNARD LEWIS INTEGRATION, PHASE 1):
+• MEM–ISLAM–SUNNI v1.0 → v1.1: Lewis SOURCE block (Political Language of Islam; Journal of Democracy 1996)—caliphate contractual/consensual; "Difference of opinion within my community is a sign of God's mercy"; Sultan "be not proud"; typo RESILIENAD → RESILIENCE
+• MEM–ISLAM–DYNASTY–OTTOMAN v1.0 → v1.1: Lewis SOURCE block (What Went Wrong? 2002)—civilizational decline, Carlowitz 1699, Ottoman as "most enduring of all Islamic empires"
+• MEM–ISLAM–CRUSADES v1.0 → v1.1: Lewis SOURCE block (Jihad vs. Crusade WSJ 2001; Crisis of Islam)—"Crusade" and "crusader" absent in medieval Arabic; jihad as striving; typo SACRED SPAAD → SACRED SPACE
+
+2026-02-01 (PERSIA GEO–MEM — INDIAN OCEAN):
+• MEM–PERSIA–GEO–INDIAN–OCEAN v1.0: Peripheral access; trade corridor; Gulf egress; Nearchus route
+• CIV–INDEX–PERSIA: GEO–INDIAN–OCEAN added to Section V
+
+2026-02-01 (PERSIA GEO–MEM — PERSIAN GULF):
+• MEM–PERSIA–GEO–PERSIAN–GULF v1.0: Strait of Hormuz chokepoint; littoral asymmetry; 4-ERA ARC structure
+• CIV–INDEX–PERSIA: GEO–PERSIAN–GULF added to Section V
+
+2026-02-01 (PERSIA MEM — LLEWELLYN-JONES HIGH-PRIORITY CREATION):
+• MEM–PERSIA–DARIUS–I v1.0: Imperial systematizer; satrapal design; Behistun; Royal Road
+• MEM–PERSIA–XERXES v1.0: Greek wars; Thermopylae, Salamis; Persian encoding
+• MEM–PERSIA–PERSEPOLIS v1.0: Ceremonial capital; Apadana; architectural propaganda
+• MEM–PERSIA–MEDES v1.0: Pre-imperial hegemony; Persian–Median fusion
+• MEM–PERSIA–EGYPT v1.0: Achaemenid satrapy; Cambyses; incorporation, revolt
+• MEM–PERSIA–EMPIRE–DARIUS–III v1.0: Terminal Achaemenid; Issus, Gaugamela; legitimacy collapse
+• CIV–INDEX–PERSIA: Medes (II); Darius I (III); Persepolis, Egypt (V); Xerxes, Darius III (VIII)
+
 2026-02-01 (PERSIA MEM — ARDASHIR, PALMYRA):
 • MEM–PERSIA–EMPIRE–ARDASHIR–I v1.0: Sasanian founder; Hormozdgan; restoration ideology
 • MEM–PERSIA–PALMYRA v1.0: Post-Valerian counterweight; Odaenathus, Zenobia
 • CIV–INDEX–PERSIA: Ardashir under VIII; new Section IX (External Actors); Palmyra added
+
+2026-02-01 (PERSIA MEM — LLEWELLYN-JONES INTEGRATION):
+• MEM–PERSIA–CYRUS–I v1.0 → v1.1: Llewellyn-Jones quote (propaganda, Babylon liberation)
+• MEM–PERSIA–DYNASTY–ACHAEMENID v1.0 → v1.1: Llewellyn-Jones quotes (satrapal laisser-faire, cavalry)
+• MEM–PERSIA–WAR–ALEXANDER v1.0 → v1.1: Llewellyn-Jones quote (Marathon minor; Persian encoding)
+• MEM–PERSIA–WAR–CARRHAE v1.0 → v1.1: Llewellyn-Jones quote (Parthian shot, cavalry tradition)
+• MEM–PERSIA–ZOROASTER v1.0 → v1.1: Llewellyn-Jones quote (oral tradition); typo ENDURANAD → ENDURANCE
+• MEM–PERSIA–WAR–ROME v1.0 → v1.1: Llewellyn-Jones quote (Orientalism, sophistication); typo MAINTENANAD → MAINTENANCE
+• MEM–PERSIA–EMPIRE–ARDASHIR–I v1.0 → v1.1: Llewellyn-Jones quote (pre-Islamic reception)
 
 2026-02-01 (PERSIA ARC — LLEWELLYN-JONES):
 • CIV–ARC–PERSIA v1.1 → v1.2: Lloyd Llewellyn-Jones (Persians: The Age of the Great Kings, 2022) added to ARC-T-MODERN
@@ -825,3 +879,4 @@ For session startup, declare:
 ────────────────────────────────────────────────────────────
 END OF FILE — VERSION–MANIFEST — v1.14
 ────────────────────────────────────────────────────────────
+──────────────────────────

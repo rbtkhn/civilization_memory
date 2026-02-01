@@ -136,7 +136,7 @@ XV. INITIAL STATE
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–ISLAM files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (CIV–INDEX–ISLAM): MEM–ISLAM–MOHAMMAD, MEM–ISLAM–SALADIN, MEM–ISLAM–SUNNI, MEM–ISLAM–SHIA; dynasties (Rashidun, Umayyad, Abbasid, Fatimid, Seljuk, Ayyubid, Mamluk, Ottoman, Safavid, Mughal); MEM–ISLAM–CRUSADES, MEM–ISLAM–MONGOL–EMPIRE, MEM–ISLAM–CONSTANTINOPLE; GEO–MEMs (Sicily, Kashmir, Xinjiang).
+Source MEMs available (CIV–INDEX–ISLAM v2.1): MEM–ISLAM–MOHAMMAD, MEM–ISLAM–SALADIN, MEM–ISLAM–SUNNI, MEM–ISLAM–SHIA; dynasties (Rashidun, Umayyad, Abbasid, Fatimid, Seljuk, Ayyubid, Mamluk, Ottoman, Safavid, Mughal); MEM–ISLAM–CRUSADES, MEM–ISLAM–MONGOL–EMPIRE, MEM–ISLAM–CONSTANTINOPLE; GEO–MEMs (Sicily, Kashmir, Xinjiang, Persian–Gulf, Indian–Ocean).
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)

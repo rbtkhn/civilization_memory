@@ -1,8 +1,8 @@
-MEM–ISLAM–SUNNI — v1.0
+MEM–ISLAM–SUNNI — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Subject: Sunni Islam (*Ahl al-Sunna wa’l-Jama‘a*)
 Dates: c. 632 AD–Present
@@ -99,7 +99,7 @@ Sunni Islam remains intact.
 Legitimacy is portable.
 
 ────────────────────────────────────────────────────────────
-VII. MODERN RESILIENAD
+VII. MODERN RESILIENCE
 ────────────────────────────────────────────────────────────
 In the post-caliphate world, Sunni Islam fragments institutionally
 but not civilizationally.
@@ -124,5 +124,19 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–SUNNI — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, *The Political Language of Islam* (1988); *Journal of Democracy* 7.2 (1996) (ARC–ISLAM–T–MODERN):
+
+"The central institution of sovereignty in the traditional Islamic world, the caliphate, is defined by the Sunni jurists to have contractual and consensual features that distinguish caliphs from despots. The exercise of political power is conceived and presented as a contract, creating bonds of mutual obligation between the ruler and the ruled."
+
+"The contract can be dissolved if the ruler fails to fulfill or ceases to be capable of fulfilling his obligations."
+
+"One of the sayings traditionally ascribed to the Prophet is the remark, 'Difference of opinion within my community is a sign of God's mercy.' In other words, diversity is something to be welcomed, not something to be suppressed. This attitude is typified by the acceptance by Sunni Muslims, even today, of four different schools of Islamic jurisprudence."
+
+"By Ottoman custom, when the sultan received the chief dignitaries of the state on holy days, he stood up to receive them as a sign of his respect for the law. When a new sultan was enthroned, he was greeted with cries of 'Sultan, be not proud! God is greater than you!'"
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–SUNNI — v1.1
 ────────────────────────────────────────────────────────────

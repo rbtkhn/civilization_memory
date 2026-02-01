@@ -1,8 +1,8 @@
-MEM–ISLAM–DYNASTY–UMAYYAD — v1.0
+MEM–ISLAM–DYNASTY–UMAYYAD — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: IMPERIAL / POST-PROPHETIC EXPANSIONARY (c. 661–750 AD)
 Subject: Umayyad Caliphate
@@ -15,7 +15,7 @@ I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Umayyad dynasty as **Islam’s first imperial
 translation**: the regime that converted prophetic community and
-calashidun precedent into a territorially continuous, administratively
+Rashidun precedent into a territorially continuous, administratively
 coherent empire spanning three continents.
 
 For Islam, the Umayyads represent **imperial scalability without full
@@ -105,5 +105,17 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–UMAYYAD — v1.0
+VIII. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC–ISLAM–T–MODERN):
+
+"The first four caliphs, known in Muslim historiography as the Rightly Guided, were chosen from among the companions of the Prophet. Thereafter the caliphate became hereditary in two successive dynasties."
+
+"In the civil war that followed, Ali himself, after some initial victories, was murdered in 661 AD, and the caliphate became hereditary in the house of Umayya, to which Uthman had belonged."
+
+"In time, those who accepted the legitimacy of the early caliphs came to be known as Sunni, from 'sunna,' an Arabic word meaning usage or custom... Those opponents who followed Ali and his descendants came to be known by another Arabic word, Shi'a, meaning party or following."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–UMAYYAD — v1.1
 ────────────────────────────────────────────────────────────

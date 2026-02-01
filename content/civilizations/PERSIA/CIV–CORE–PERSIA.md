@@ -1,11 +1,20 @@
-CIV–CORE–PERSIA — V1.0
+CIV–CORE–PERSIA — v2.0
 Civilizational Memory Codex · Civilization Continuity Engine
 Sovereignty–Compression–Exit-Building Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Compatibility: CMC V1.x
+Version: v2.0
+Supersedes: CIV–CORE–PERSIA V1.0
+Upgrade Type: Template compliance · Header alignment · Typo correction
+Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Governed by: CIV–MEM–CORE v2.9
+ARC Reference: CIV–ARC–PERSIA v1.0
 Conceptual Lineage: SCE–CIV–PERSIA V9.7.2 (doctrinal ancestry preserved)
+Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
+Last Update: February 2026
+WORDCOUNT: ~2,450
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -142,7 +151,7 @@ MANDATORY OUTPUT:
 • Internal Stability: STABLE / TENSE / FRACTURING
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 Narrative posture:
@@ -311,7 +320,5 @@ Every Persia-engine conclusion MUST end with:
 No narrative output is valid without this block.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–PERSIA — V1.0
+END OF FILE — CIV–CORE–PERSIA — v2.0
 ────────────────────────────────────────────────────────────
-
-Word count: ~2,450

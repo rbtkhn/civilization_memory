@@ -2,7 +2,7 @@ MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: IMPERIAL / CALIPHAL CUSTODIANSHIP (c. 1299–1924 AD)
 Subject: Ottoman Dynasty
@@ -129,5 +129,21 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, *What Went Wrong? Western Impact and Middle Eastern Response* (2002) (ARC–ISLAM–T–MODERN):
+
+"For many centuries the world of Islam was in the forefront of human civilization and achievement."
+
+"Compared with Christendom, its rival for more than a millennium, the world of Islam had become poor, weak, and ignorant."
+
+"By all the standards that matter in the modern world—economic development and job creation, literacy, educational and scientific achievement, political freedom and respect for human rights—what was once a mighty civilization has indeed fallen low."
+
+"The Treaty of Carlowitz in 1699 was the first negotiated peace signed by a defeated Ottoman empire with victorious Christian adversaries."
+
+"So, too, did the Ottoman Empire—the most recent and by far the most enduring of all the Islamic empires." — Lewis on dynastic principle in Islamic political culture (*Journal of Democracy* 7.2, 1996).
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.1
 ────────────────────────────────────────────────────────────

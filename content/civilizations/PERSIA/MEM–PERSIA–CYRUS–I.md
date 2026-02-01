@@ -1,13 +1,17 @@
-MEM–PERSIA–CYRUS–I — v1.0
+MEM–PERSIA–CYRUS–I — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · Llewellyn-Jones integration
 Civilization: PERSIA
 Subject: Cyrus I / Cyrus II “the Great”
 Dates: c. 600–530 BC
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
+Last Update: February 2026
+WORDCOUNT: ~2,150
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -52,6 +56,17 @@ Characteristics:
 • Submission rewarded with autonomy
 
 Integration occurs through recognition, not terror.
+
+Lloyd Llewellyn-Jones frames Cyrus's Babylonian conquest as propaganda
+success:
+
+> "Cyrus played very carefully to different audiences and I think that
+> propaganda is one of the real successes of the Persian Empire. It was
+> built on this idea of liberation, even though it really wasn't. I always
+> think of George Bush, when he first went into Iraq in the first Gulf
+> War. He called it 'Operation Iraqi Freedom'. I think we can call Cyrus's
+> Babylon campaign 'Operation Babylonian Freedom' in the same kind of way."  
+> — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
 
 ────────────────────────────────────────────────────────────
 IV. SOVEREIGNTY & LEGITIMACY
@@ -114,5 +129,10 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–CYRUS–I — v1.0
+IX. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Cyrus, propaganda, liberation rhetoric; FiveBooks interview (2020)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–CYRUS–I — v1.1
 ────────────────────────────────────────────────────────────

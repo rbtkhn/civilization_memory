@@ -1,8 +1,8 @@
-MEM–ISLAM–DYNASTY–FATIMID — v1.0
+MEM–ISLAM–DYNASTY–FATIMID — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Sect: ISMA‘ILI SHI‘A
 Regime: SHI‘A UNIVERSAL CALIPHATE / LEGITIMACY RIVAL (909–1171 AD)
@@ -100,7 +100,7 @@ Shi‘a universalism collapses politically—
 but survives doctrinally.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANAD
+VII. CIVILIZATIONAL SIGNIFICANCE
 ────────────────────────────────────────────────────────────
 The Fatimids prove Shi‘a universalism is possible—but fragile.
 
@@ -124,5 +124,17 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–FATIMID — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC–ISLAM–T–MODERN):
+
+"The Fatimid caliphs, who began as leaders of a radical Shi'ite sect, came to Egypt via North Africa."
+
+"For some centuries in the Middle Ages, they [the Isma'ilis] were its most active and important branch, inspiring on the one hand the Fatimid caliphate which ruled in Egypt, on the other the dreaded Assassins of Iran and Syria."
+
+"The Abbasid caliphs, whose origins were among the Shi'a, came to Baghdad via eastern Iran. The Fatimid caliphs, who began as leaders of a radical Shi'ite sect, came to Egypt via North Africa."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–FATIMID — v1.1
 ────────────────────────────────────────────────────────────

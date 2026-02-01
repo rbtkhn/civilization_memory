@@ -1,8 +1,8 @@
-MEM–ISLAM–CONSTANTINOPLE — v1.0
+MEM–ISLAM–CONSTANTINOPLE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: IMPERIAL CONQUEST / LEGITIMACY TRANSLATION (1453 AD →)
 Subject: Constantinople (Istanbul)
@@ -96,7 +96,7 @@ Constantinople’s fall announces
 a new world order.
 
 ────────────────────────────────────────────────────────────
-VII. CIVILIZATIONAL SIGNIFICANAD
+VII. CIVILIZATIONAL SIGNIFICANCE
 ────────────────────────────────────────────────────────────
 Constantinople becomes Islam’s proof of maturity.
 
@@ -121,5 +121,17 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–CONSTANTINOPLE — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, *What Went Wrong?* (2002); *Journal of Democracy* 7.2 (1996) (ARC–ISLAM–T–MODERN):
+
+"For the first thousand years of its history, Islamic civilization's relationship to Christendom was one of dominance."
+
+"So, too, did the Ottoman Empire—the most recent and by far the most enduring of all the Islamic empires."
+
+"As late as 1683, an Ottoman army was encamped before the very gates of Vienna."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–CONSTANTINOPLE — v1.1
 ────────────────────────────────────────────────────────────

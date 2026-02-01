@@ -1,8 +1,8 @@
-MEM–ISLAM–SHIA — v1.0
+MEM–ISLAM–SHIA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Subject: Shi‘a Islam (*Shi‘at ‘Ali*)
 Dates: c. 632 AD–Present
@@ -122,5 +122,21 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–SHIA — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC–ISLAM–T–MODERN):
+
+"In principle, the Shi'ite philosophy is the exact opposite. After the death of the Prophet, and still more after the murder of Ali thirty years later, history in the Shi'ite view took a wrong turning, and the Muslim community has, so to speak, been living in sin ever since."
+
+"For the Sunni, obedience to authority is a divine commandment. For the Shi'ite, obedience to the existing authority is a political necessity, to be given only as long as it cannot be avoided."
+
+"In their own perception, the Shi'a were the opposition in Islam, the defenders of the oppressed, the critics and opponents of privilege and power."
+
+"While the Sunni caliph exercised religious but not spiritual authority, the Shi'ite imam was accorded a spiritual status by his followers, who saw in him the continuing embodiment of God's guidance to the believers."
+
+"As one imam pretender after another followed the path of insurrection and defeat, they acquired, in the perception of their followers, an almost Christ-like quality, with the related themes of betrayal and suffering, passion and martyrdom, and even, ultimately, return."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–SHIA — v1.1
 ────────────────────────────────────────────────────────────

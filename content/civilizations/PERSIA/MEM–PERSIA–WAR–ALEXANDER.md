@@ -1,13 +1,17 @@
-MEM–PERSIA–WAR–ALEXANDER — v1.0
+MEM–PERSIA–WAR–ALEXANDER — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · Llewellyn-Jones integration
 Civilization: PERSIA
 Subject: Macedonian Conquest under Alexander the Great
-Dates: 334–323 BCAD
+Dates: 334–323 BC
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
+Last Update: February 2026
+WORDCOUNT: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -25,6 +29,16 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. ACHAEMENID IMPERIAL BASELINE
 ────────────────────────────────────────────────────────────
+Lloyd Llewellyn-Jones resists Greek-centric framing of Persian–Greek conflict:
+
+> "I've managed to write the Battle of Marathon in a sentence and a half,
+> for instance. It was of very little consequence to the Persians."  
+> — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
+
+The "Persian version" of history differs from the Hellenic narrative that
+dominates Western memory. Alexander's conquest must be read against that
+encoding divergence.
+
 On the eve of invasion, Persia possessed:
 
 • Continental-scale administration
@@ -142,5 +156,10 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.0
+X. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Persian encoding, Marathon; FiveBooks interview (2020)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.1
 ────────────────────────────────────────────────────────────

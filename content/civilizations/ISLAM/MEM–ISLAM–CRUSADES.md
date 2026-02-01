@@ -1,8 +1,8 @@
-MEM–ISLAM–CRUSADES — v1.0
+MEM–ISLAM–CRUSADES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: CIVILIZATIONAL DEFENSE / LEGITIMACY RECOVERY (1095–1291 AD)
 Subject: The Crusades (Islamic Perspective)
@@ -24,7 +24,7 @@ but a test of civilizational coherence.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. INITIAL SHOCK: INVASION OF SACRED SPAAD
+II. INITIAL SHOCK: INVASION OF SACRED SPACE
 ────────────────────────────────────────────────────────────
 The First Crusade succeeds because Islam is divided.
 
@@ -108,5 +108,17 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–CRUSADES — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, "Jihad vs. Crusade," *Wall Street Journal* (2001); *The Crisis of Islam* (2003) (ARC–ISLAM–T–MODERN):
+
+"The words 'Crusade' and 'crusader' simply do not occur in the Arabic historiography of the period." Medieval Arabic texts referred to the invaders as Franks or infidels, not crusaders.
+
+"In the Middle East the word 'crusade' still touches a raw nerve and is seen and presented as early medieval precursors of European imperialism—aggressive, expansionist and predatory."
+
+"Jihad... means striving, and in the Koran it appears in the phrase 'striving in the path of God.'"
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–CRUSADES — v1.1
 ────────────────────────────────────────────────────────────

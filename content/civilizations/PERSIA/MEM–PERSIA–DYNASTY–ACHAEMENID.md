@@ -1,13 +1,17 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID — v1.0
+MEM–PERSIA–DYNASTY–ACHAEMENID — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · Llewellyn-Jones integration
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
-Dates: c. 550–330 BCAD
+Dates: c. 550–330 BC
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
+Last Update: February 2026
+WORDCOUNT: ~2,200
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -46,6 +50,15 @@ Core mechanisms:
 
 Control is modular, not uniform.
 
+Lloyd Llewellyn-Jones contrasts Persian with Roman/British imperial practice:
+
+> "The Persians never did that. They adopted a more *laisser-faire* attitude
+> and, as long as the tribute and the taxes came in, then they did not
+> interfere with local systems. In fact, they encouraged the Persian
+> satraps to work with local dynasts to keep the preexisting systems
+> going."  
+> — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
+
 The empire governs difference as a feature, not a threat.
 
 ────────────────────────────────────────────────────────────
@@ -71,6 +84,17 @@ Military power emphasizes:
 • Integration of naval and land forces
 
 Conquest is followed by stabilization, not permanent mobilization.
+
+Llewellyn-Jones cites Darius's tomb inscription on Persian military distinctiveness:
+
+> "On Darius the Great's tomb inscription it says: 'I am as great a bowman
+> as a spearman; I'm as great a spearman as a horseman; I am a great
+> horseman.' It's those three things that set the Persians apart. You
+> might have heard of the so-called 'Parthian shot', for instance, where
+> a rider could turn at 90 degrees and fire arrows behind him so he could
+> circle his enemies. It was the tactics of the cavalry more than anything
+> else that won the Persians their victories."  
+> — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
 
 ────────────────────────────────────────────────────────────
 VI. FRACTURE, CONQUEST & TRANSMISSION
@@ -100,5 +124,10 @@ VII. CONTINUITY INSIGHTS (RAW)
 • The Achaemenids define Persia as a **system-builder civilization**.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.0
+VIII. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — satrapal design, cavalry; FiveBooks interview (2020)
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.1
 ────────────────────────────────────────────────────────────

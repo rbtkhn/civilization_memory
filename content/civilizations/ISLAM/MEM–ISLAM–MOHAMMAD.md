@@ -1,8 +1,8 @@
-MEM–ISLAM–MOHAMMAD — v1.0
+MEM–ISLAM–MOHAMMAD — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Subject: Muhammad ibn Abdullah (Prophet of Islam)
 Dates: c. 570–632 AD
@@ -88,7 +88,7 @@ It **extends an existing one**.
 This differentiates Islam from Rome’s post hoc legal absorption.
 
 ────────────────────────────────────────────────────────────
-VI. WAR, RESTRAINT, & MORALIZED VIOLENAD
+VI. WAR, RESTRAINT, & MORALIZED VIOLENCE
 ────────────────────────────────────────────────────────────
 Muhammad authorizes force—but bounds it.
 
@@ -177,5 +177,17 @@ Secondary:
 • Wael Hallaq
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–MOHAMMAD — v1.0
+XII. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC–ISLAM–T–MODERN):
+
+"When the Prophet Muhammad died in the year 632 AD, he had founded a new religion. In doing this, he had also created a community, of which he was the leader and guide, and established a state, of which he was sovereign."
+
+"As Prophet, Muhammad could have no successor. He was in Muslim parlance 'the seal of the Prophets,' and his book was the final and perfect form of God's revelation to mankind. But as head of the new Islamic state he needed a successor—and quickly, if the state was not to collapse in anarchy and its people revert to paganism."
+
+"By his migration from Mecca to Medina, the Prophet was transformed from a rebel to a statesman; at the time of his death the state that he had founded was in the process of becoming an empire."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–MOHAMMAD — v1.1
 ────────────────────────────────────────────────────────────

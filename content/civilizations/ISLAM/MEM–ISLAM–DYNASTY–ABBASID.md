@@ -2,7 +2,7 @@ MEM–ISLAM–DYNASTY–ABBASID — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: IMPERIAL / CIVILIZATIONAL CONSOLIDATION (c. 750–1258 AD)
 Subject: Abbasid Caliphate
@@ -103,5 +103,17 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–ABBASID — v1.0
+VIII. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, *What Went Wrong?* (2002); *Journal of Democracy* 7.2 (1996) (ARC–ISLAM–T–MODERN):
+
+"For many centuries the world of Islam was in the forefront of human civilization and achievement."
+
+"For the first thousand years of its history, Islamic civilization's relationship to Christendom was one of dominance."
+
+"Islam boasts a rich political literature. From the earliest times, doctors of the holy law, philosophers, jurists, and others have reflected carefully on the nature of political power, the ways in which political power ought to be acquired and used and may be forfeited, and the duties and responsibilities as well as the rights and privileges of those who hold it."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–ABBASID — v1.1
 ────────────────────────────────────────────────────────────

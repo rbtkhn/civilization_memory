@@ -1,8 +1,8 @@
-MEM–ISLAM–MONGOL–EMPIRE — v1.0
+MEM–ISLAM–MONGOL–EMPIRE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM (INTERACTING / TRANSFORMED)
 Regime: EXTERNAL CONQUEST → CIVILIZATIONAL ABSORPTION (c. 1218–1335 AD)
 Subject: Mongol Empire (Islamic Encounter Phase)
@@ -40,7 +40,7 @@ Imperial continuity is severed.
 Legitimacy is left unmoored.
 
 ────────────────────────────────────────────────────────────
-III. NON-ISLAMIC SOVEREIGNTY OVER ISLAMIC SPAAD
+III. NON-ISLAMIC SOVEREIGNTY OVER ISLAMIC SPACE
 ────────────────────────────────────────────────────────────
 Early Mongol rule is religiously indifferent and cosmopolitan.
 
@@ -125,5 +125,17 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–MONGOL–EMPIRE — v1.0
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, *What Went Wrong?* (2002) (ARC–ISLAM–T–MODERN):
+
+"For many centuries the world of Islam was in the forefront of human civilization and achievement."
+
+"Compared with Christendom, its rival for more than a millennium, the world of Islam had become poor, weak, and ignorant."
+
+"By all the standards that matter in the modern world—economic development and job creation, literacy, educational and scientific achievement, political freedom and respect for human rights—what was once a mighty civilization has indeed fallen low."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–MONGOL–EMPIRE — v1.1
 ────────────────────────────────────────────────────────────

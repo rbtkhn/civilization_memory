@@ -1,4 +1,4 @@
-CIV–INDEX–ISLAM — v2.0
+CIV–INDEX–ISLAM — v2.1
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -12,7 +12,7 @@ Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v2.9
 Last Update: February 2026
 
-TOTAL REGISTERED MEM FILES: 21
+TOTAL REGISTERED MEM FILES: 22
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -87,6 +87,8 @@ VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
 • MEM–ISLAM–GEO–SICILY.md
 • MEM–ISLAM–GEO–KASHMIR
 • MEM–ISLAM–GEO–XINJIANG.md
+• MEM–ISLAM–GEO–PERSIAN–GULF.md
+• MEM–ISLAM–GEO–INDIAN–OCEAN.md
 
 ────────────────────────────────────────────────────────────
 IX. INDEX STATUS & GOVERNANCE
@@ -112,5 +114,5 @@ XI. ACADEMIC REFERENCE CANON (ARC)
 Governs author admissibility and temporal precedence for MEM–ISLAM files. See CIV–ARC–ISLAM for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ISLAM — v2.0
+END OF FILE — CIV–INDEX–ISLAM — v2.1
 ────────────────────────────────────────────────────────────

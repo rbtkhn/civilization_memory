@@ -2,7 +2,7 @@ MEM–ISLAM–SALADIN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: SUNNI RESTORATIVE / ANTI-CRUSADER CONSOLIDATION (c. 1169–1193 AD)
 Subject: Salah al-Din Yusuf ibn Ayyub (Saladin)
@@ -28,8 +28,6 @@ Contradictions are preserved without synthesis.
 II. ORIGINS & FORMATIVE CONTEXT
 ────────────────────────────────────────────────────────────
 Saladin emerges from the margins of power, not its center.
-
-MEM–ISLAM–SALADIN — v1.0
 
 Key formative traits:
 • Kurdish origin outside Arab dynastic elites
@@ -179,5 +177,17 @@ Secondary:
 • Anne-Marie Eddé
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–SALADIN — v1.0
+XII. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Bernard Lewis, "Saladin and the Assassins," *Bulletin of SOAS* 15.2 (1953); "Jihad vs. Crusade," *Wall Street Journal* (27 September 2001) (ARC–ISLAM–T–MODERN):
+
+"In the year 577/1181–2, in a letter to the Caliph in Baghdad explaining his activities in Syria, Saladin writes that he is engaged in a struggle for Islam against a three-fold enemy—the infidel Frankish invader, the heretical and murderous Assassins, and the treacherous Zangid rulers of Mosul, whom he accuses of intelligence and even alliance with both Franks and Assassins."
+
+"Even the crusader capture of Jerusalem aroused little attention at the time, and appeals for help to various Muslim capitals brought no response. The real counter-crusade began when the crusaders—very foolishly—began to harry and attack the Muslim holy lands, namely the Hijaz in Arabia, containing the holy cities of Mecca and Medina."
+
+"The Crusades could more accurately be described as a limited, belated and, in the last analysis, ineffectual response to the jihad—a failed attempt to recover by a Christian holy war what had been lost to a Muslim holy war."
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–SALADIN — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,13 +1,17 @@
-MEM–PERSIA–WAR–ROME — v1.0
+MEM–PERSIA–WAR–ROME — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · Llewellyn-Jones integration
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
-Dates: c. 53 BCAD–628 AD
+Dates: c. 53 BC–628 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
+Last Update: February 2026
+WORDCOUNT: ~2,100
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -86,7 +90,7 @@ Both bleed without extinction.
 The war becomes a **systemic drain**, not a conquest path.
 
 ────────────────────────────────────────────────────────────
-VI. WAR AS LEGITIMACY MAINTENANAD
+VI. WAR AS LEGITIMACY MAINTENANCE
 ────────────────────────────────────────────────────────────
 Conflict with Rome becomes internal validation for Persia.
 
@@ -97,6 +101,14 @@ Functions:
 • Civilizational self-definition against the West
 
 Rome sharpens Persia’s identity.
+
+Lloyd Llewellyn-Jones frames the corrective project:
+
+> "We have to right that wrong. We have to show that the Persians and
+> other easterners were sophisticated and cultured, embracing, thoughtful
+> and scientific—all the things that a harmful brand of Orientalism says
+> that they're not."  
+> — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
 
 ────────────────────────────────────────────────────────────
 VII. TERMINAL PARADOX: MUTUAL EXHAUSTION
@@ -148,8 +160,13 @@ X. CONTINUITY INSIGHTS (RAW)
 • Persia learns to fear exhaustion more than invasion.
 • Rome breaks itself trying to break Persia.
 
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — civilizational contrast, Orientalism; FiveBooks interview (2020)
+
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ROME — v1.0
+END OF FILE — MEM–PERSIA–WAR–ROME — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,13 +1,17 @@
-MEM–PERSIA–ZOROASTER — v1.0
+MEM–PERSIA–ZOROASTER — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
+
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · Llewellyn-Jones integration
 Civilization: PERSIA
 Subject: Zoroaster (Zarathustra)
-Dates: c. 1500–1000 BCAD (traditional range; uncertainty preserved)
+Dates: c. 1500–1000 BC (traditional range; uncertainty preserved)
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
+Last Update: February 2026
+WORDCOUNT: ~2,150
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -74,6 +78,16 @@ V. INSTITUTIONAL TRANSMISSION
 ────────────────────────────────────────────────────────────
 Zoroastrianism becomes Persia’s legitimacy substrate.
 
+Lloyd Llewellyn-Jones explains how Persians activated history differently
+from Greek inquiry:
+
+> "They just remembered it differently. And I think the way in which they
+> used, or activated their history, was through poetry, through song, what
+> Parry and Lord identified as 'the oral tradition'. So, I think that, if
+> we were to look for a Persian history, it would be more akin to a
+> Homeric epic, than an 'inquiry' in the Herodotean style."  
+> — Lloyd Llewellyn-Jones, FiveBooks interview (2020), on *Persians: The Age of the Great Kings*
+
 Transmission channels:
 • Achaemenid imperial ideology
 • Fire temples as civic–ritual centers
@@ -83,7 +97,7 @@ Transmission channels:
 Religion operates as **civilizational software**, not personal mysticism.
 
 ────────────────────────────────────────────────────────────
-VI. ETHICS OF ENDURANAD
+VI. ETHICS OF ENDURANCE
 ────────────────────────────────────────────────────────────
 Zoroaster sanctifies endurance.
 
@@ -141,8 +155,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Persia’s patience is theological before strategic.
 • Zoroaster teaches Persia to resist corruption more than defeat.
 
+────────────────────────────────────────────────────────────
+X. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — ch. "Also sprach Zarathustra"; oral tradition; FiveBooks interview (2020)
+
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ZOROASTER — v1.0
+END OF FILE — MEM–PERSIA–ZOROASTER — v1.1
 ────────────────────────────────────────────────────────────
