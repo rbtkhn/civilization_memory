@@ -3,8 +3,8 @@ Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · Herodotus integration
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN → ISLAMIC → MODERN
 Subject: Indian Ocean — Persian Peripheral Access, Trade Corridor, Gulf Egress
@@ -162,12 +162,23 @@ The "great sea" outside both gulfs is the Indian Ocean. The Persian
 Gulf is the eastern boundary of Arabia; the Indian Ocean is the
 southern limit. Persia accesses this great sea through the Gulf.
 
-Herodotus records Darius's Indus campaign and the construction of
-vessels for exploration. The Achaemenid empire extended to the Indus;
-maritime connection followed. Arrian's *Indica* preserves Nearchus's
-account of the voyage that proved the sea route from India to the
-Persian Gulf—establishing the corridor Persia would use for Indian
-Ocean trade.
+Herodotus records Darius's commissioning of the Indus voyage:
+
+> "But as to Asia, most of it was discovered by Darius. There is a
+> river Indus... Darius, desiring to know where this Indus issues into
+> the sea, sent ships manned by Scylax, a man of Caryanda, and others
+> in whose word he trusted; these set out from the city Caspatyrus and
+> the Pactyic country, and sailed down the river towards the east and
+> the sunrise till they came to the sea; and voyaging over the sea
+> westwards, they came in the thirtieth month to that place whence the
+> Egyptian king sent the Phoenicians... After this circumnavigation
+> Darius subdued the Indians and made use of this sea."  
+> — Herodotus, *Histories*, IV.44
+
+Scylax's voyage establishes the sea corridor from the Indus to the
+Arabian Gulf—the corridor Persia would use for Indian Ocean trade.
+Arrian's *Indica* preserves Nearchus's later expedition along the
+same route.
 
 ────────────────────────────────────────────────────────────
 

@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · Herodotus integration
 Civilization: PERSIA
 Regime: ACHAEMENID → PARTHIAN → SASANIAN
 Subject: Armenia as Persian Buffer, Client Kingdom, and Imperial Seam
@@ -49,6 +49,19 @@ Persia and Rome both seek influence, not occupation.
 ────────────────────────────────────────────────────────────
 III. IRANIAN SPHERE — DYNASTIC AND CULTURAL TIES
 ────────────────────────────────────────────────────────────
+Under the Achaemenids, Armenia is integrated into imperial geography.
+Herodotus records its place on the Royal Road:
+
+> "From the Halys to the border of Armenia there are twenty-eight
+> stages, making one hundred and four parasangs; and in this country
+> there are two fortresses through which all must pass, and rivers
+> which they cross on rafts."  
+> — Herodotus, *Histories*, V.52 (Royal Road, Sardis–Susa)
+
+Armenia sits on the corridor between Anatolia and Mesopotamia—the
+western seam of the Persian realm. Persia and Rome later contest it;
+Achaemenid administration established the pattern.
+
 Armenia emerges after Alexander as a semi-Hellenized monarchy with
 strong Iranian traditions.
 
@@ -188,5 +201,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–ARMENIA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ARMENIA — v1.0
+END OF FILE — MEM–PERSIA–ARMENIA — v1.1
 ────────────────────────────────────────────────────────────

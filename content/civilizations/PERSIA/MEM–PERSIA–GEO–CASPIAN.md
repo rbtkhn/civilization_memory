@@ -2,11 +2,13 @@ MEM–PERSIA–GEO–CASPIAN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · Herodotus integration
 Civilization: PERSIA
 Subject: Caspian Sea System
 Dates: Ancient era–present
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
+Last Update: February 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -22,7 +24,21 @@ over projection.
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-II. CLOSED-SEA GEOGRAPHY & STRATEGIC LOGIC
+II. ARC-T-ANCIENT — HERODOTUS ON THE CASPIAN
+────────────────────────────────────────────────────────────
+Herodotus defines the Caspian as the northern boundary of Asia:
+
+> "But what is beyond the Persians, and Medes, and Saspires, and
+> Colchians, eastward and toward the rising sun, this is bounded on
+> the one hand by the Red Sea, and to the north by the Caspian Sea,
+> and the river Araxes, that flows towards the sun's rising."  
+> — Herodotus, *Histories*, IV.40
+
+The Caspian structures the limits of the known world. Persia's
+ northern frontier runs along it; the sea is containment, not passage.
+
+────────────────────────────────────────────────────────────
+III. CLOSED-SEA GEOGRAPHY & STRATEGIC LOGIC
 ────────────────────────────────────────────────────────────
 The Caspian is a closed inland sea.
 
@@ -37,7 +53,7 @@ This geography favors **fortress logic** over maritime dominance.
 Access matters more than reach.
 
 ────────────────────────────────────────────────────────────
-III. HISTORICAL BUFFER FUNCTION
+IV. HISTORICAL BUFFER FUNCTION
 ────────────────────────────────────────────────────────────
 For Persia, the Caspian historically functions as a shield.
 
@@ -51,7 +67,7 @@ Threats arrive overland, not by sea.
 The Caspian dampens northern volatility rather than amplifying power.
 
 ────────────────────────────────────────────────────────────
-IV. ENERGY & RESOURCE DENSITY
+V. ENERGY & RESOURCE DENSITY
 ────────────────────────────────────────────────────────────
 The Caspian basin concentrates strategic resources.
 
@@ -84,7 +100,7 @@ Persia prioritizes:
 Law becomes terrain.
 
 ────────────────────────────────────────────────────────────
-VI. MILITARY–SECURITY ROLE
+VII. MILITARY–SECURITY ROLE
 ────────────────────────────────────────────────────────────
 Caspian militarization remains controlled.
 
@@ -111,7 +127,7 @@ Under sanctions and siege conditions, the Caspian provides:
 It absorbs pressure without inviting confrontation.
 
 ────────────────────────────────────────────────────────────
-VIII. CIVILIZATIONAL MEMORY FUNCTION
+IX. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 The Caspian encodes **contained sovereignty**.
 
@@ -135,5 +151,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–CASPIAN — v1.0
+END OF FILE — MEM–PERSIA–GEO–CASPIAN — v1.1
 ────────────────────────────────────────────────────────────

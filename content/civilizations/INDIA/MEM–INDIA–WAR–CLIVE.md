@@ -1,12 +1,17 @@
-MEM–INDIA–WAR–CLIVE — v1.0
+MEM–INDIA–WAR–CLIVE — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
 Subject: Clive & the East India Company Conquest
 Dates: 1757–1764 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+ARC Reference: CIV–ARC–INDIA v1.0
+Last Update: February 2026
+Word Count: ~2,500
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -59,5 +64,11 @@ V. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–WAR–CLIVE — v1.0
+VII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
+• Wikiquote, Will Durant — The Case for India.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–WAR–CLIVE — v2.0
 ────────────────────────────────────────────────────────────

@@ -133,7 +133,7 @@ PERSIA:
 ├────────────────────────────────────────────────────────┤
 │ CIV–ARC–PERSIA              │ v1.1    │ Active        │
 │ CIV–CORE–PERSIA             │ v2.0    │ Active        │
-│ CIV–INDEX–PERSIA            │ v1.0    │ Active        │
+│ CIV–INDEX–PERSIA            │ v1.2    │ Active        │
 │ CIV–SCHOLAR–PERSIA          │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -144,7 +144,7 @@ ISLAM:
 ├────────────────────────────────────────────────────────┤
 │ CIV–ARC–ISLAM               │ v1.1    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
-│ CIV–INDEX–ISLAM             │ v2.1    │ Active        │
+│ CIV–INDEX–ISLAM             │ v2.3    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -160,6 +160,37 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (PERSIA — HERODOTUS INTEGRATION + 8 NEW MEMs):
+• MEM–PERSIA–CYRUS–I v1.1 → v1.2: Herodotus I.87 (Cyrus/Croesus; integrative sovereignty)
+• MEM–PERSIA–DYNASTY–ACHAEMENID v1.1 → v1.2: Herodotus III.89 (Darius tribute, satrapal system)
+• MEM–PERSIA–GEO–INDIAN–OCEAN v1.0 → v1.1: Herodotus IV.44 (Scylax/Indus voyage) verbatim
+• MEM–PERSIA–GEO–LEVANT v1.0 → v1.1: Herodotus IV.39 (Persian–Phoenician–Syrian corridor) verbatim
+• MEM–PERSIA–GEO–CASPIAN v1.0 → v1.1: Herodotus IV.40 (Caspian Sea boundary); ARC-T-ANCIENT section added
+• MEM–PERSIA–ARMENIA v1.0 → v1.1: Herodotus V.52 (Royal Road; Armenia on corridor) verbatim
+• NEW MEMs (8): WAR–MARATHON, LYDIA, WAR–SCYTHIAN, IONIAN–REVOLT, BABYLON, CAMBYSES, WAR–THERMOPYLAE, SATRAPIES
+• CIV–INDEX–PERSIA: v1.1 → v1.2; MEM count 26 → 34
+
+2026-02-01 (INDIA MEM — DURANT VERBATIM INTEGRATION, v2.0 UPGRADE):
+• MEM–INDIA–GEO–INDUS v1.0 → v2.0: Durant verbatim (Our Oriental Heritage A; Case for India B, D); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–GEO–GANGES v1.0 → v2.0: Durant verbatim (A, B); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–DYNASTY–MAURYA v1.0 → v2.0: Durant verbatim (A, B); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–DYNASTY–GUPTA v1.0 → v2.0: Durant verbatim (A, B, D); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–DYNASTY–MUGHAL v1.0 → v2.0: Durant verbatim (A, G); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–BRITISH–EMPIRE v1.0 → v2.0: Durant verbatim (E, F, G, H, I, J); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–PARTITION v1.0 → v2.0: Durant verbatim (E, F, J); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–GANDHI v1.0 → v2.0: Durant verbatim (C, J); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–NEHRU v1.0 → v2.0: Durant verbatim (C, A); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• MEM–INDIA–WAR–CLIVE v1.0 → v2.0: Durant verbatim (F, G); ARC-T-MODERN; MEM BIBLIOGRAPHY
+• Source: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; CIV–ARC–INDIA v1.0 (Durant in ARC-T-MODERN)
+
+2026-02-01 (ISLAM MEM — SILK–ROAD CREATION):
+• MEM–ISLAM–SILK–ROAD v1.0: NEW — Silk Road as transmission corridor, flow-space; trader-and-preacher expansion; oasis nodes; 4 ARC sections (Qur'an 67:15, Ibn Battuta, Arnold, Hodgson); Subject MEM blend (2/3 Mercouris, 1/3 Mearsheimer)
+• CIV–INDEX–ISLAM: v2.2 → v2.3 (SILK–ROAD added to Section VIII; count 24)
+
+2026-02-01 (ISLAM MEM — GEO–LEVANT CREATION):
+• MEM–ISLAM–GEO–LEVANT v1.0: NEW — Levant as sacred-zone corridor; Jerusalem/Al-Aqsa, Gaza; Crusades theater; 4 ARC sections (Qur'an 17:1, Ibn Khaldun, Gibbon, Lewis); Layer 2 GEO structured data; CIV–CORE § IV references
+• CIV–INDEX–ISLAM: v2.1 → v2.2 (GEO–LEVANT added to Section VIII; count 23)
 
 2026-02-01 (CIV–INDEX–ISLAM v2.1 — SYNC):
 • CIV–INDEX–ISLAM: v2.0 → v2.1 (additive sync)
@@ -188,6 +219,14 @@ IV. VERSION HISTORY (RECENT)
 • MEM–ISLAM–SUNNI v1.0 → v1.1: Lewis SOURCE block (Political Language of Islam; Journal of Democracy 1996)—caliphate contractual/consensual; "Difference of opinion within my community is a sign of God's mercy"; Sultan "be not proud"; typo RESILIENAD → RESILIENCE
 • MEM–ISLAM–DYNASTY–OTTOMAN v1.0 → v1.1: Lewis SOURCE block (What Went Wrong? 2002)—civilizational decline, Carlowitz 1699, Ottoman as "most enduring of all Islamic empires"
 • MEM–ISLAM–CRUSADES v1.0 → v1.1: Lewis SOURCE block (Jihad vs. Crusade WSJ 2001; Crisis of Islam)—"Crusade" and "crusader" absent in medieval Arabic; jihad as striving; typo SACRED SPAAD → SACRED SPACE
+
+2026-02-01 (PERSIA MEM — SILK ROAD):
+• MEM–PERSIA–SILK–ROAD v1.0: Persian nexus; transit power; intermediary advantage; Royal Road
+• CIV–INDEX–PERSIA: SILK–ROAD added; MEM count 26
+
+2026-02-01 (PERSIA GEO–MEM — LEVANT):
+• MEM–PERSIA–GEO–LEVANT v1.0: Western frontier; Roman–Persian collision zone; reach without hold
+• CIV–INDEX–PERSIA: GEO–LEVANT added; MEM count 25
 
 2026-02-01 (PERSIA GEO–MEM — INDIAN OCEAN):
 • MEM–PERSIA–GEO–INDIAN–OCEAN v1.0: Peripheral access; trade corridor; Gulf egress; Nearchus route

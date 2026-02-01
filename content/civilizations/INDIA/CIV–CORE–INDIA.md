@@ -1,12 +1,22 @@
-CIV–CORE–INDIA — V1.0
+CIV–CORE–INDIA — v2.0
 Civilizational Strategy Codex · Civilization Continuity Engine
 Delay–Optimization Doctrine · Ontological–Temporal–Exit-Building Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
+Version: 2.0
+Supersedes: CIV–CORE–INDIA V1.0
+Upgrade Type: Template alignment; structural reorder per CIV–CORE–TEMPLATE v2.0
+Template Version Used: CIV–CORE–TEMPLATE v2.0
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage: SCE–CIV–INDIA V9.7.2 (doctrinal ancestry preserved)
+Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (sections fixed; content expandable without renumbering)
+Governed by: CIV–MEM–CORE v2.9
+ARC Reference: CIV–ARC–INDIA v1.0
+Last Update: February 2026
+WORDCOUNT: ~2,600
+
 Temporal Boundaries (embedded): Ancient–4–476 / Medieval 476–1453 / Colonial 1453–1815 / Industrial–Modern 1815–present
-Upgrade Type: Core harmonization to CIV–CORE standard (NO DOCTRINAL DELETIONS)
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -79,7 +89,7 @@ Electoral outcomes can stabilize leadership without stabilizing
 civilizational legitimacy if dharmic balance erodes.
 
 ────────────────────────────────────────────────────────────
-III. TEMPORAL CONTINUITY PROTOCOL (TCP-INDIA)
+III. HISTORICAL–TEMPORAL CONTINUITY ENGINE (TCP-INDIA)
 ────────────────────────────────────────────────────────────
 
 India stacks time rather than exiting it.
@@ -145,25 +155,7 @@ Hard Rule:
 High ambition + low AT → legitimacy erosion over time.
 
 ────────────────────────────────────────────────────────────
-VI. EXIT-PROCESS META-DOCTRINE
-────────────────────────────────────────────────────────────
-
-India is not overthrowing order.
-India is building exits.
-
-Exit vectors include:
-• Forced bloc alignment
-• Dollar exclusivity
-• Single-supplier technology
-• Compressed crisis timelines
-• Ideological absolutism
-
-MANDATORY OUTPUTS:
-• Exit Progress Vector (EPV): MONETARY / LOGISTICS / COMPUTE / DIPLOMATIC / ALL
-• Exit Mode: QUIET ACCRETION / SIGNALLED AUTONOMY / CRISIS-ACCELERATED
-
-────────────────────────────────────────────────────────────
-VII. ECONOMIC & INDUSTRIAL DOCTRINE
+VI. ECONOMIC–INDUSTRIAL DOCTRINE
 ────────────────────────────────────────────────────────────
 
 Triple-economy stack:
@@ -184,20 +176,20 @@ MANDATORY OUTPUTS:
 • Employment Absorption Capacity (EAC): HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-VIII. DEMOGRAPHIC & SOCIOECONOMIC ENGINE
+VII. TECHNOLOGICAL / COMPUTE SOVEREIGNTY
 ────────────────────────────────────────────────────────────
 
-Youth bulge, urbanization, automation pressure,
-welfare targeting, climate–caloric stress.
+India absorbs computation through plural systems:
+• Federal AI deployment
+• Domestic semiconductor ambition
+• Space–ISR convergence
+• Digital public infrastructure (DPI stack)
 
 MANDATORY OUTPUT:
-• Demographic Window Status: OPEN / NARROWING / CLOSING
-
-Rule:
-Demography compounds advantage only if IRR and EAC remain adequate.
+• Compute Sovereignty Trajectory: ASCENDING / PLATEAUING / DEPENDENT
 
 ────────────────────────────────────────────────────────────
-IX. MILITARY–STRATEGIC DOCTRINE
+VIII. MILITARY–STRATEGIC DOCTRINE
 ────────────────────────────────────────────────────────────
 
 Defense-dominant baseline.
@@ -211,20 +203,41 @@ MANDATORY OUTPUT:
 • Escalation Stability: STABLE / STRAINING / UNSTABLE
 
 ────────────────────────────────────────────────────────────
-X. TECHNOLOGY & COMPUTE LAYER
+IX. INTERNAL SECURITY & SOCIAL ORDER
 ────────────────────────────────────────────────────────────
 
-India absorbs computation through plural systems:
-• Federal AI deployment
-• Domestic semiconductor ambition
-• Space–ISR convergence
-• Digital public infrastructure (DPI stack)
+Internal security and social order rest on federal cohesion, demographic
+absorption, and plural transaction cost.
+
+Components:
+• Youth bulge, urbanization, automation pressure
+• Welfare targeting, climate–caloric stress
+• Law-and-order throughput at state and federal level
+• Identity–reservation management as stability lever
 
 MANDATORY OUTPUT:
-• Compute Sovereignty Trajectory: ASCENDING / PLATEAUING / DEPENDENT
+• Demographic Window Status: OPEN / NARROWING / CLOSING
+
+Rule:
+Demography compounds advantage only if IRR and EAC (Section VI) remain adequate.
 
 ────────────────────────────────────────────────────────────
-XI. TIME INVERSION LAYER
+X. INFORMATION & NARRATIVE GOVERNANCE
+────────────────────────────────────────────────────────────
+
+Narrative and information governance operate through plural, federal
+channels: language diversity, federal media ecology, and civilizational
+discourse (dharmic balance, non-alignment, strategic patience).
+
+No single narrative authority; legitimacy depends on plural transaction
+cost (PTC) and dharmic balance (DBI) remaining within bounds.
+
+MANDATORY OUTPUT:
+• Narrative Coherence: COHERENT / STRAINED / FRACTURED
+(Default: inherit from DBI and PTC unless explicitly overridden.)
+
+────────────────────────────────────────────────────────────
+XI. TIME ORIENTATION LAYER
 ────────────────────────────────────────────────────────────
 
 Delay preserves autonomy.
@@ -234,7 +247,25 @@ MANDATORY OUTPUT:
 • Time Advantage: INDIA / PEERS / ENFORCER / NEUTRAL
 
 ────────────────────────────────────────────────────────────
-XII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
+XII. EXIT–BUILDING META-DOCTRINE
+────────────────────────────────────────────────────────────
+
+India is not overthrowing order.
+India is building exits.
+
+Exit vectors include:
+• Forced bloc alignment
+• Dollar exclusivity
+• Single-supplier technology
+• Compressed crisis timelines
+• Ideological absolutism
+
+MANDATORY OUTPUTS:
+• Exit Progress Vector (EPV): MONETARY / LOGISTICS / COMPUTE / DIPLOMATIC / ALL
+• Exit Mode: QUIET ACCRETION / SIGNALLED AUTONOMY / CRISIS-ACCELERATED
+
+────────────────────────────────────────────────────────────
+XIII. CROSS-CIVILIZATIONAL SYNCHRONIZATION
 ────────────────────────────────────────────────────────────
 
 Primary interfaces:
@@ -251,7 +282,119 @@ MANDATORY OUTPUT:
 • Axis Optionality: WIDENING / STABLE / NARROWING
 
 ────────────────────────────────────────────────────────────
-XIII. CIVILIZATIONAL ROLE
+XIV. FAILURE PHYSICS
+────────────────────────────────────────────────────────────
+
+• SAF-IND — Strategic Attrition Failure
+• THI-IND — Throughput Hard-Limit Inversion
+• OSL-IND — Optionality Saturation Loss
+
+MANDATORY OUTPUT:
+• Failure Mode: NONE / EMERGING / ACTIVE
+
+────────────────────────────────────────────────────────────
+XV. IRREVERSIBILITY GRID (GRID-IND)
+────────────────────────────────────────────────────────────
+
+Tracks reversibility across:
+• Legitimacy
+• Procedure
+• Capability
+• Optionality
+
+MANDATORY OUTPUT:
+• GRID-IND: REVERSIBLE / STICKY / IRREVERSIBLE
+
+────────────────────────────────────────────────────────────
+XVI. RESTORATION INVALIDATION RULE (RIR-IND)
+────────────────────────────────────────────────────────────
+
+If GRID-IND ≥ STICKY and EPL-IND = LOCKED →
+"return-to-normal" forecasts are invalid.
+
+MANDATORY OUTPUT:
+• RIR-IND: INACTIVE / ACTIVE
+
+(EPL-IND defined in optional Section XXIV.)
+
+────────────────────────────────────────────────────────────
+XVII. STRATEGIC RED LINES
+────────────────────────────────────────────────────────────
+
+Hard constraints; breach elevates continuity risk.
+
+• Autonomy surrender: forced bloc alignment or dollar exclusivity
+  imposed by external pressure beyond India’s chosen pace.
+• Federal cohesion rupture: breakdown of centre–state negotiation
+  or constitutional arbiter authority.
+• Dharmic balance fracture: legitimacy no longer restorable through
+  electoral or civilizational renewal within plural frame.
+• Timeline compression: externally imposed urgency that degrades
+  strategic patience and plural cohesion.
+
+MANDATORY OUTPUT:
+• Red Line Status: NONE BREACHED / ONE OR MORE AT RISK / BREACHED
+
+────────────────────────────────────────────────────────────
+XVIII. SCHOLAR MODE
+────────────────────────────────────────────────────────────
+
+CIV–CORE–INDIA is SCHOLAR-ENABLED.
+
+• SCHOLAR has read-only authority over this CORE; no SCHOLAR belief,
+  synthesis, or doctrine is binding unless explicitly frozen and accepted.
+• OGE (Option Generation Engine) is mandatory for user–system interaction;
+  OGE generates options, not conclusions; OGE is governed by CIV–SCHOLAR–PROTOCOL.
+• Learning ledger: CIV–SCHOLAR–INDIA (if present) accumulates patterns;
+  CORE remains the supreme constraint surface for INDIA.
+
+────────────────────────────────────────────────────────────
+XIX. SESSION HEADER (OPTIONAL)
+────────────────────────────────────────────────────────────
+
+Active Civ: INDIA
+DBI: __ | ECC: __ | PTC: __ | LHC: __
+AT: __ | FFL: __ | Continuum: __
+IRR: __ | EAC: __ | Demographic Window: __
+EPV: __ | Exit Mode: __
+Escalation: __ | Compute Trajectory: __
+TimeAdv: __ | AxisOpt: __
+DOD-IND: __ | IC-1: __
+Failure Mode: __ | EPL-IND: __ | GRID-IND: __ | RIR-IND: __
+Red Line Status: __
+Strategic Classification: __
+
+────────────────────────────────────────────────────────────
+XX. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
+────────────────────────────────────────────────────────────
+
+• Continuum Integrity
+• DBI
+• PTC
+• LHC
+• ECC
+• AT
+• FFL
+• IRR
+• EAC
+• Demographic Window
+• DOD-IND (Section XXII)
+• IC-1 Result (Section XXIII)
+• Failure Mode
+• EPL-IND (Section XXIV)
+• GRID-IND
+• RIR-IND
+• Axis Optionality
+• Time Advantage
+• Red Line Status
+• Strategic Classification:
+  STABLE BALANCER / OPTIMIZING AUTONOMY / DRIFTING / EXIT-DOMINANT / SYSTEM-NEGATIVE
+
+────────────────────────────────────────────────────────────
+OPTIONAL MODULES (India-specific; after Section XX)
+────────────────────────────────────────────────────────────
+
+XXI. CIVILIZATIONAL ROLE
 ────────────────────────────────────────────────────────────
 
 India functions as the **Balancer–Absorber Civilization**
@@ -261,7 +404,7 @@ It stabilizes systems by refusing premature alignment,
 absorbing shocks, and stretching timelines.
 
 ────────────────────────────────────────────────────────────
-XIV. DELAY–OPTIMIZATION DOCTRINE (DOD-IND)
+XXII. DELAY–OPTIMIZATION DOCTRINE (DOD-IND)
 ────────────────────────────────────────────────────────────
 
 Delay is valid only if it raises:
@@ -275,7 +418,7 @@ MANDATORY OUTPUT:
 • DOD-IND Status: OPTIMIZING / DRIFTING / STALLING
 
 ────────────────────────────────────────────────────────────
-XV. INDIA CHECK (IC-1)
+XXIII. INDIA CHECK (IC-1)
 ────────────────────────────────────────────────────────────
 
 Mandatory questions:
@@ -289,18 +432,7 @@ MANDATORY OUTPUT:
 • IC-1 Result: PASS / FAIL / CONDITIONAL
 
 ────────────────────────────────────────────────────────────
-XVI. FAILURE-PHYSICS LAYER
-────────────────────────────────────────────────────────────
-
-• SAF-IND — Strategic Attrition Failure
-• THI-IND — Throughput Hard-Limit Inversion
-• OSL-IND — Optionality Saturation Loss
-
-MANDATORY OUTPUT:
-• Failure Mode: NONE / EMERGING / ACTIVE
-
-────────────────────────────────────────────────────────────
-XVII. EXIT PRIMACY LAW (EPL-IND)
+XXIV. EXIT PRIMACY LAW (EPL-IND)
 ────────────────────────────────────────────────────────────
 
 Once exit dominates alignment, bloc-choice assumptions are invalid.
@@ -309,69 +441,5 @@ MANDATORY OUTPUT:
 • EPL-IND: INACTIVE / ACTIVE / LOCKED
 
 ────────────────────────────────────────────────────────────
-XVIII. IRREVERSIBILITY GRID (GRID-IND)
+END OF FILE — CIV–CORE–INDIA — v2.0
 ────────────────────────────────────────────────────────────
-
-Tracks reversibility across:
-• Legitimacy
-• Procedure
-• Capability
-• Optionality
-
-MANDATORY OUTPUT:
-• GRID-IND: REVERSIBLE / STICKY / IRREVERSIBLE
-
-────────────────────────────────────────────────────────────
-XIX. RESTORATION INVALIDATION RULE (RIR-IND)
-────────────────────────────────────────────────────────────
-
-If GRID-IND ≥ STICKY and EPL-IND = LOCKED →
-“return-to-normal” forecasts are invalid.
-
-MANDATORY OUTPUT:
-• RIR-IND: INACTIVE / ACTIVE
-
-────────────────────────────────────────────────────────────
-XX. SESSION HEADER (OPTIONAL)
-────────────────────────────────────────────────────────────
-
-Active Civ: INDIA
-DBI: __ | ECC: __ | PTC: __ | LHC: __
-AT: __ | FFL: __ | Continuum: __
-IRR: __ | EAC: __ | Demographic Window: __
-EPV: __ | Exit Mode: __
-Escalation: __ | Compute Trajectory: __
-TimeAdv: __ | AxisOpt: __
-DOD-IND: __ | IC-1: __
-Failure Mode: __ | EPL-IND: __ | GRID-IND: __ | RIR-IND: __
-
-────────────────────────────────────────────────────────────
-XXI. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
-────────────────────────────────────────────────────────────
-
-• Continuum Integrity
-• DBI
-• PTC
-• LHC
-• ECC
-• AT
-• FFL
-• IRR
-• EAC
-• Demographic Window
-• DOD-IND
-• IC-1 Result
-• Failure Mode
-• EPL-IND
-• GRID-IND
-• RIR-IND
-• Axis Optionality
-• Time Advantage
-• Strategic Classification:
-  STABLE BALANCER / OPTIMIZING AUTONOMY / DRIFTING / EXIT-DOMINANT / SYSTEM-NEGATIVE
-
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–INDIA — V1.0
-────────────────────────────────────────────────────────────
-
-Word count: ~2,300

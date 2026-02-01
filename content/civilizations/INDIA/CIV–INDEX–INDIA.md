@@ -4,7 +4,7 @@ Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE
 Civilization: INDIA
 Class: CIV–INDEX
-Last Update: December 2025
+Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANAD

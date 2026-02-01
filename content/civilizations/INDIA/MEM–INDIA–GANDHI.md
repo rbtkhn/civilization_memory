@@ -1,12 +1,17 @@
-MEM–INDIA–GANDHI — v1.0
+MEM–INDIA–GANDHI — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
 Subject: Mohandas Karamchand Gandhi
 Dates: 1869–1948 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+ARC Reference: CIV–ARC–INDIA v1.0
+Last Update: February 2026
+Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -77,5 +82,24 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GANDHI — v1.0
+VII. EVIDENCE — ARC-T-MODERN (VERBATIM)
+────────────────────────────────────────────────────────────
+Tolerance, maturity, and Amritsar as context for Gandhi's legitimacy attack are attested in modern synthesis as follows [ERC-SECONDARY].
+
+> India will teach us the tolerance and gentleness of mature mind, understanding spirit and a unifying, pacifying love for all human beings.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> The news of this barbaric orgy of military sadism was kept from the world for half a year. A belated commission of inquiry was appointed by the Government. A committee appointed by the Indian National Congress made a more through investigation and reported 1,200 killed, and 3,600 wounded. Gen. Dyer was censured by the House of Commons, exonerated by the House of Lords, and was retired on a pension. Thinking this was insufficient the militarists of the Empire raised a fund of $150,000 for him and presented him with a jeweled sword of honor.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
+• Wikiquote, Will Durant — The Case for India.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–GANDHI — v2.0
 ────────────────────────────────────────────────────────────

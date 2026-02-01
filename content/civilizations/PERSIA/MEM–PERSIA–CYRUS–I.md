@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.2
+Upgrade Type: ADDITIVE · Herodotus integration
 Civilization: PERSIA
 Subject: Cyrus I / Cyrus II “the Great”
 Dates: c. 600–530 BC
@@ -56,6 +56,18 @@ Characteristics:
 • Submission rewarded with autonomy
 
 Integration occurs through recognition, not terror.
+
+Herodotus records Cyrus's encounter with Croesus of Lydia—defeated,
+bound for the pyre, then spared. The exchange encodes integrative
+sovereignty:
+
+> "Croesus, tell me who of all men was it who persuaded thee to march
+> upon my land and so to become an enemy to me instead of a friend?"
+> — Herodotus, *Histories*, I.87
+
+Cyrus does not destroy the conquered king; he incorporates him as
+counselor. Lydia falls; Croesus survives. The pattern prefigures
+Babylon: conquest followed by recognition of local legitimacy.
 
 Lloyd Llewellyn-Jones frames Cyrus's Babylonian conquest as propaganda
 success:
@@ -131,8 +143,9 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 IX. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Herodotus, *Histories*, I.87 — Cyrus and Croesus; integrative sovereignty
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Cyrus, propaganda, liberation rhetoric; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–CYRUS–I — v1.1
+END OF FILE — MEM–PERSIA–CYRUS–I — v1.2
 ────────────────────────────────────────────────────────────

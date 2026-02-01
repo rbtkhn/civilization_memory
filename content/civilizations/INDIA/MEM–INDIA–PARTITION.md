@@ -1,13 +1,18 @@
-MEM–INDIA–PARTITION — v1.0
+MEM–INDIA–PARTITION — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
 Regime: DECOLONIZATION / CIVILIZATIONAL FRACTURE EVENT (1947)
 Subject: Partition of British India
 Dates: 1946–1948 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+ARC Reference: CIV–ARC–INDIA v1.0
+Last Update: February 2026
+Word Count: ~2,400
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -139,5 +144,28 @@ IX. CONTINUITY INSIGHTS (RAW)
 The wound remains active, not healed.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–PARTITION — v1.0
+X. EVIDENCE — ARC-T-MODERN (VERBATIM)
+────────────────────────────────────────────────────────────
+Colonial legacy, exploitation, and Amritsar as liability are attested in modern synthesis as follows [ERC-SECONDARY].
+
+> It might have been supposed that the building of 30,000 miles of railways would have brought a measure of prosperity to India. But these railways were built not for India but for England; not for the benefit of the Hindu, but for the purposes of the British army and British trade... The railroads are entirely in European hands, and the Government refuse to appoint even one Hindu to the Railway Board. The railways lose money year after year, and are helped by the Government out of the revenues of the people. All the loses are borne by the people, all the gains are gathered by the trader.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> British rule in India is the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not within any reasonable probability, have worse results than the present form of alien domination.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> The news of this barbaric orgy of military sadism was kept from the world for half a year. A belated commission of inquiry was appointed by the Government. A committee appointed by the Indian National Congress made a more through investigation and reported 1,200 killed, and 3,600 wounded. Gen. Dyer was censured by the House of Commons, exonerated by the House of Lords, and was retired on a pension. Thinking this was insufficient the militarists of the Empire raised a fund of $150,000 for him and presented him with a jeweled sword of honor.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
+• Wikiquote, Will Durant — The Case for India.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–PARTITION — v2.0
 ────────────────────────────────────────────────────────────

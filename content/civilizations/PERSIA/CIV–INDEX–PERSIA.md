@@ -3,15 +3,15 @@ Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: CIV–INDEX–PERSIA v1.0
-Upgrade Type: SYNC · Governance Files · Full Reconciliation
+Version: 1.2
+Supersedes: CIV–INDEX–PERSIA v1.1
+Upgrade Type: SYNC · Herodotus integration + 8 new MEMs
 Civilization: PERSIA
 Class: CIV–INDEX
 Template: CIV–INDEX–TEMPLATE v2.1
 Last Update: February 2026
 
-MEM COUNT: 24 MEM–PERSIA files (reconciled 2026-02)
+MEM COUNT: 34 MEM–PERSIA files (reconciled 2026-02)
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
@@ -49,8 +49,11 @@ III. DYNASTIC MEMORY FILES
 • MEM–PERSIA–MEDES.md  
   (Pre-imperial hegemony; Persian–Median fusion; Ecbatana)
 
+• MEM–PERSIA–SATRAPIES.md  
+  (Satrapal system; tribute; modular imperial control)
+
 ────────────────────────────────────────────────────────────
-III. FOUNDATIONAL FIGURES & IDEOLOGICAL ORIGINS
+IV. FOUNDATIONAL FIGURES & IDEOLOGICAL ORIGINS
 ────────────────────────────────────────────────────────────
 • MEM–PERSIA–CYRUS–I.md  
   (Imperial founder, tolerance doctrine, sovereignty-with-restraint)
@@ -82,6 +85,12 @@ VI. GEOGRAPHIC & SPATIAL MEMORY FILES
 • MEM–PERSIA–GEO–INDIAN–OCEAN.md  
   (Peripheral access; trade corridor; Gulf egress; Nearchus route)
 
+• MEM–PERSIA–GEO–LEVANT.md  
+  (Western frontier; Roman–Persian collision zone; reach without hold)
+
+• MEM–PERSIA–SILK–ROAD.md  
+  (Persian nexus; transit power; intermediary advantage; Royal Road)
+
 • MEM–PERSIA–ARMENIA.md  
   (Roman–Persian buffer; Iranian sphere; client oscillation)
 
@@ -90,6 +99,12 @@ VI. GEOGRAPHIC & SPATIAL MEMORY FILES
 
 • MEM–PERSIA–EGYPT.md  
   (Achaemenid satrapy; Cambyses; incorporation, revolt)
+
+• MEM–PERSIA–LYDIA.md  
+  (Croesus; Cyrus's western conquest; Royal Road origin; Sardis)
+
+• MEM–PERSIA–BABYLON.md  
+  (Cyrus's conquest; liberation narrative; Cyrus Cylinder)
 
 ────────────────────────────────────────────────────────────
 VII. IMPERIAL SHOCK & FOREIGN RULE FILES
@@ -109,10 +124,24 @@ VIII. WAR & CIVILIZATIONAL CONFLICT FILES
 • MEM–PERSIA–WAR–ROME.md  
   (Parity war, endurance doctrine validation, exhaustion limit)
 
+• MEM–PERSIA–WAR–MARATHON.md  
+  (490 BC; Persian expedition; encoding divergence; Llewellyn-Jones)
+
+• MEM–PERSIA–WAR–SCYTHIAN.md  
+  (Darius's northern campaign; nomadic denial; limits of Persian power)
+
+• MEM–PERSIA–IONIAN–REVOLT.md  
+  (499–493 BC; satrapal rebellion; Athenian involvement; Marathon causation)
+
+• MEM–PERSIA–WAR–THERMOPYLAE.md  
+  (480 BC; Xerxes; Greek stand; Persian tactical victory)
+
 ────────────────────────────────────────────────────────────
 IX. IMPERIAL FIGURES
 ────────────────────────────────────────────────────────────
 Achaemenid:
+• MEM–PERSIA–CAMBYSES.md  
+  (Egyptian conquest; succession crisis; Herodotean encoding)
 • MEM–PERSIA–XERXES.md  
   (Greek wars; Thermopylae, Salamis; Persian encoding)
 • MEM–PERSIA–EMPIRE–DARIUS–III.md  
@@ -137,16 +166,16 @@ X. EXTERNAL ACTORS (ROMAN–PERSIAN THEATER)
 ────────────────────────────────────────────────────────────
 XI. CATEGORY BALANCE CHECK (v1.1)
 ────────────────────────────────────────────────────────────
-Dynasty:        PRESENT (3: Achaemenid, Sasanian, Medes)
+Dynasty:        PRESENT (4: Achaemenid, Sasanian, Medes, Satrapies)
 Foundational:   PRESENT (3: Cyrus, Zoroaster, Darius I)
-Geography:      PRESENT (6: Caspian, Persian Gulf, Indian Ocean, Armenia, Persepolis, Egypt)
+Geography:      PRESENT (10: Caspian, Persian Gulf, Indian Ocean, Levant, Silk Road, Armenia, Persepolis, Egypt, Lydia, Babylon)
 Religion:       PRESENT (2: Islam, Islamic Republic)
 Imperial Shock: PRESENT (1: Mongol)
-War/Conflict:   PRESENT (3: Alexander, Carrhae, Rome)
-Imperial Figs:  PRESENT (5: Xerxes, Darius III, Ardashir, Shapur, Khosrow II)
+War/Conflict:   PRESENT (7: Alexander, Carrhae, Rome, Marathon, Scythian, Ionian Revolt, Thermopylae)
+Imperial Figs:  PRESENT (6: Cambyses, Xerxes, Darius III, Ardashir, Shapur, Khosrow II)
 External:       PRESENT (1: Palmyra)
 
-Total MEM–PERSIA: 24 | GEO–MEM: 3
+Total MEM–PERSIA: 34 | GEO–MEM: 5
 No critical category gaps detected.
 
 ────────────────────────────────────────────────────────────

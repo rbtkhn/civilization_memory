@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.2
+Upgrade Type: ADDITIVE · Herodotus integration
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
 Dates: c. 550–330 BC
@@ -49,6 +49,18 @@ Core mechanisms:
 • Local law preservation under imperial oversight
 
 Control is modular, not uniform.
+
+Herodotus describes Darius's systematization of tribute—the shift from
+gift-giving under Cyrus and Cambyses to fixed obligation:
+
+> "Darius it was who first fixed the tribute and instructed the peoples
+> in the manner of it; and in accordance with his enactment all later
+> monarchs have levied tribute. He fixed it so that those who paid in
+> silver paid according to the Babylonian talent."  
+> — Herodotus, *Histories*, III.89
+
+Standardized tribute enables scalable governance. The Persians call
+Darius "the merchant" for this—administration as imperial technology.
 
 Lloyd Llewellyn-Jones contrasts Persian with Roman/British imperial practice:
 
@@ -129,5 +141,5 @@ VIII. BIBLIOGRAPHY
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — satrapal design, cavalry; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.2
 ────────────────────────────────────────────────────────────

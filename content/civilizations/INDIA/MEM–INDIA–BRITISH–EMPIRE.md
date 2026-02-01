@@ -1,12 +1,17 @@
-MEM–INDIA–BRITISH–EMPIRE — v1.0
+MEM–INDIA–BRITISH–EMPIRE — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
 Regime: COLONIAL / IMPERIAL–ADMINISTRATIVE (c. 1757–1947)
 Subject: British Empire in India
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+ARC Reference: CIV–ARC–INDIA v1.0
+Last Update: February 2026
+Word Count: ~3,200
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -139,5 +144,40 @@ IX. CONTINUITY INSIGHTS (RAW)
 Foreign rule is remembered as constraint, not inheritance.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–BRITISH–EMPIRE — v1.0
+X. EVIDENCE — ARC-T-MODERN (VERBATIM)
+────────────────────────────────────────────────────────────
+Colonial political economy, exploitation, institutional rupture, famines, and Amritsar are attested in modern synthesis as follows [ERC-SECONDARY].
+
+> It might have been supposed that the building of 30,000 miles of railways would have brought a measure of prosperity to India. But these railways were built not for India but for England; not for the benefit of the Hindu, but for the purposes of the British army and British trade... The railroads are entirely in European hands, and the Government refuse to appoint even one Hindu to the Railway Board. The railways lose money year after year, and are helped by the Government out of the revenues of the people. All the loses are borne by the people, all the gains are gathered by the trader.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> British rule in India is the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not within any reasonable probability, have worse results than the present form of alien domination.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> This, evidently was not a minor civilization, produced by inferior people. It ranks with the highest civilizations of history, and some, like Keyserling, would place it at the head and summit of all. The British conquest of India was the invasion and destruction of a high civilization by a trading company utterly without scruple or principle, careless of art, greedy of gain, overrunning with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and "legal" plunder which has now gone on ruthlessly for one hundred and seventy-three years, and goes on at this moment while in our secure comfort we write and read. Those who have seen the unspeakable poverty and physiological weakness of the Hindus today will hardly believe that it was the wealth of eighteenth century India which attracted the commercial pirates of England and France.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+> When the British came there was, throughout India, a system of communal schools, managed by the village communities. The agents of the East India Company destroyed these village communities, and took steps to replace the schools; even today, after a century of effort to restore them, they stand at only 66% of their number a hundred years ago. Hence, the 93 % illiteracy of India.
+
+— Will Durant, *The Case for India* (1930), p. 44 [ARC–INDIA-T-MODERN].
+
+> Sir William Hunter, estimated that 40,000,000 of the people of India were seldom or never able to satisfy their hunger.... We can now understand why there are famines in India. Their cause, in plain terms, is not the absence of food, but the inability of the people to pay for it. It was hoped the railways would solve the problem...the fact that the worst famines have come since the building of the railways...behind all these, as the fundamental source of the terrible famines in India, lies such merciless exploitation...
+
+— Will Durant, *The Case for India* (1930), pp. 50–53 [ARC–INDIA-T-MODERN].
+
+> The news of this barbaric orgy of military sadism was kept from the world for half a year. A belated commission of inquiry was appointed by the Government. A committee appointed by the Indian National Congress made a more through investigation and reported 1,200 killed, and 3,600 wounded. Gen. Dyer was censured by the House of Commons, exonerated by the House of Lords, and was retired on a pension. Thinking this was insufficient the militarists of the Empire raised a fund of $150,000 for him and presented him with a jeweled sword of honor.
+
+— Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930 (pp. 44, 50–53).
+• Wikiquote, Will Durant — The Case for India.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–BRITISH–EMPIRE — v2.0
 ────────────────────────────────────────────────────────────
