@@ -1,8 +1,8 @@
-MEM–ISLAM–SUNNI — v1.1
+MEM–ISLAM–SUNNI — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Civilization: ISLAM
 Subject: Sunni Islam (*Ahl al-Sunna wa’l-Jama‘a*)
 Dates: c. 632 AD–Present
@@ -138,5 +138,15 @@ Bernard Lewis, *The Political Language of Islam* (1988); *Journal of Democracy* 
 "By Ottoman custom, when the sultan received the chief dignitaries of the state on holy days, he stood up to receive them as a sign of his respect for the law. When a new sultan was enthroned, he was greeted with cries of 'Sultan, be not proud! God is greater than you!'"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–SUNNI — v1.1
+X. SOURCE EVIDENCE — BAER (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021) (ARC–ISLAM–T–MODERN):
+
+"The Ottomans pioneered religious toleration even as they used religious conversion to integrate conquered peoples."
+
+— Baer on Ottoman Sunni custodianship; millet system; toleration-and-conversion dialectic as governance model under Sunni umbrella.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–SUNNI — v1.2
 ────────────────────────────────────────────────────────────

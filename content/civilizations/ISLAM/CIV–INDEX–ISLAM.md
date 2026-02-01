@@ -1,18 +1,18 @@
-CIV–INDEX–ISLAM — v2.3
+CIV–INDEX–ISLAM — v2.9
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.3
-Supersedes: CIV–INDEX–ISLAM v2.2
-Upgrade Type: ADDITIVE (SILK–ROAD)
+Version: 2.9
+Supersedes: CIV–INDEX–ISLAM v2.8
+Upgrade Type: VERSION RELABEL
 Template Version Used: CIV–INDEX–TEMPLATE v2.1
 Civilization: ISLAM
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v2.9
 Last Update: February 2026
 
-TOTAL REGISTERED MEM FILES: 24
+TOTAL REGISTERED MEM FILES: 49
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -34,7 +34,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–CORE–ISLAM — v2.0 (Sacred-Zone · Exit-Primacy · Demographic–Chokepoint)
 • CIV–SCHOLAR–ISLAM — v1.0 (Phase I Accumulation)
-• CIV–ARC–ISLAM — v1.2 (Author Admissibility & Temporal Precedence)
+• CIV–ARC–ISLAM — v1.3 (Author Admissibility & Temporal Precedence)
 
 CIV–DOCTRINE–ISLAM: Not present.
 
@@ -72,12 +72,21 @@ VI. REGISTERED MEM FILES — WARS & CIVILIZATIONAL SHOCKS
 ────────────────────────────────────────────────────────────
 
 • MEM–ISLAM–CRUSADES.md
+• MEM–ISLAM–WAR–THIRD–CRUSADE.md
 • MEM–ISLAM–MONGOL–EMPIRE — v1.0.md
+• MEM–ISLAM–CALIPHATE–ABOLITION.md
 
 ────────────────────────────────────────────────────────────
 VII. REGISTERED MEM FILES — IMPERIAL CAPITALS & SYMBOLIC CITIES
 ────────────────────────────────────────────────────────────
 
+• MEM–ISLAM–MECCA.md
+• MEM–ISLAM–MEDINA.md
+• MEM–ISLAM–JERUSALEM.md
+• MEM–ISLAM–DAMASCUS.md
+• MEM–ISLAM–BAGHDAD.md
+• MEM–ISLAM–CAIRO.md
+• MEM–ISLAM–CORDOBA.md
 • MEM–ISLAM–CONSTANTINOPLE.md
 
 ────────────────────────────────────────────────────────────
@@ -87,9 +96,26 @@ VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
 • MEM–ISLAM–GEO–SICILY.md
 • MEM–ISLAM–GEO–KASHMIR
 • MEM–ISLAM–GEO–XINJIANG.md
+• MEM–ISLAM–GEO–ARABIA.md
 • MEM–ISLAM–GEO–PERSIAN–GULF.md
+• MEM–ISLAM–GEO–HORMUZ–STRAIT.md
 • MEM–ISLAM–GEO–INDIAN–OCEAN.md
+• MEM–ISLAM–GEO–RED–SEA.md
+• MEM–ISLAM–GEO–MEDITERRANEAN–SEA.md
+• MEM–ISLAM–GEO–BLACK–SEA.md
+• MEM–ISLAM–GEO–CAUCASUS.md
+• MEM–ISLAM–GEO–CASPIAN–SEA.md
 • MEM–ISLAM–GEO–LEVANT.md
+• MEM–ISLAM–GEO–BALKANS.md
+• MEM–ISLAM–GEO–IBERIA.md
+• MEM–ISLAM–GEO–MALACCA–STRAIT.md
+• MEM–ISLAM–GEO–NILE–RIVER.md
+• MEM–ISLAM–GEO–TIGRIS–RIVER.md
+• MEM–ISLAM–GEO–EUPHRATES–RIVER.md
+• MEM–ISLAM–GEO–INDUS–RIVER.md
+• MEM–ISLAM–GEO–PACIFIC–OCEAN.md
+• MEM–ISLAM–GEO–ATLANTIC–OCEAN.md
+• MEM–ISLAM–SILK–ROAD.md
 
 ────────────────────────────────────────────────────────────
 IX. INDEX STATUS & GOVERNANCE
@@ -110,10 +136,10 @@ This index is LOCKED. Additive updates only. No deletions, reordering, or silent
 XI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
 
-• CIV–ARC–ISLAM — v1.2
+• CIV–ARC–ISLAM — v1.3
 
 Governs author admissibility and temporal precedence for MEM–ISLAM files. See CIV–ARC–ISLAM for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ISLAM — v2.3
+END OF FILE — CIV–INDEX–ISLAM — v2.4
 ────────────────────────────────────────────────────────────

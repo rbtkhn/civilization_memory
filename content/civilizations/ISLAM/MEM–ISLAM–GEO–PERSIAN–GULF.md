@@ -1,9 +1,9 @@
-MEM–ISLAM–GEO–PERSIAN–GULF — v1.0
+MEM–ISLAM–GEO–PERSIAN–GULF — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: MARITIME CHOKEPOINT / ENERGY CORRIDOR / ISLAM–PERSIA INTERFACE
 Subject: Persian Gulf (البحرين / Khaleej)
@@ -166,6 +166,11 @@ Marshall G.S. Hodgson, *The Venture of Islam* (ARC–ISLAM–T–MODERN):
 "The Persian Gulf has been a major channel of interregional trade since
 before Islam, linking the Indian Ocean with Mesopotamia and the Levant."
 
+Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (2021) (ARC–ISLAM–T–MODERN):
+"The Ottoman Empire has long been depicted as the Islamic, Asian antithesis of the Christian, European West. But the reality was starkly different: the Ottomans' multiethnic, multilingual, and multireligious domain reached deep into Europe's heart."
+
+— Baer on Ottoman–Safavid contest context; Gulf as part of Ottoman imperial reach.
+
 ────────────────────────────────────────────────────────────
 VIII. GEO STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
@@ -213,5 +218,5 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–GEO–PERSIAN–GULF — v1.0
+END OF FILE — MEM–ISLAM–GEO–PERSIAN–GULF — v1.1
 ────────────────────────────────────────────────────────────

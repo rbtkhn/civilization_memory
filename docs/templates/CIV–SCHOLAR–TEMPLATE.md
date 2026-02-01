@@ -860,6 +860,9 @@ When all three frames contribute to a synthesis, use marker:
   [LEARN MODE — TRI-FRAME SYNTHESIS]
 Attribute each analytical layer explicitly in the synthesis output.
 
+TRI-FRAME CHAIN INVOCATION (syntheses):
+When a tri-frame chain (M–Merc–B–M or variant) lives in an ENTRY Note, syntheses reference by Chain ID—do not restate substantive content. Full chain canonical in ENTRY; syntheses use tag + pointer. See cmc-tri-frame-protocol § Tri-Frame Chain Tiered Invocation.
+
 MEARSHEIMER AUDIT COMMAND (NEW · v2.9):
 ────────────────────────────────────────────────────────────
 COMMAND SYNTAX: `mearsheimer audit [TARGET]`

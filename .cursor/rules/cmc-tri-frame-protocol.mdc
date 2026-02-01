@@ -75,6 +75,18 @@ When responding to another MIND, you MUST:
 2. Show how the catalyst changed your analysis
 3. Produce genuinely different output than before
 
+## Tri-Frame Chain Tiered Invocation (Scholar Files)
+
+When a tri-frame chain (M–Merc–B–M or variant) is recorded in a SCHOLAR ENTRY Note:
+
+1. **Canonical location only:** Full chain lives in the ENTRY Note. Do not restate substantive content (Barnes vs Mearsheimer arguments, etc.) in syntheses.
+2. **Invocation tiers:**
+   - **Primary:** Source is main subject of synthesis → tag + pointer (e.g. "CHAIN–0014–KISSINGER applies; see ENTRY 0014").
+   - **Secondary:** Source appears among several → tag + pointer; no substantive repetition.
+   - **Tertiary:** Source tangential → cross-reference only.
+3. **Registry:** Record chains in SCHOLAR file Tri-Frame Cognitive Chain Registry (if present); syntheses reference by Chain ID.
+4. **Compression rule:** Syntheses may name the chain and participants; syntheses may not repeat the substantive exchange.
+
 ## Self-Check for Tri-Frame
 
 - [ ] Each voice sounds distinct?

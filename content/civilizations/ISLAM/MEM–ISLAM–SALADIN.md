@@ -1,8 +1,8 @@
-MEM–ISLAM–SALADIN — v1.0
+MEM–ISLAM–SALADIN — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.2
+Version: 1.3
 Civilization: ISLAM
 Regime: SUNNI RESTORATIVE / ANTI-CRUSADER CONSOLIDATION (c. 1169–1193 AD)
 Subject: Salah al-Din Yusuf ibn Ayyub (Saladin)
@@ -197,7 +197,9 @@ Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University 
 
 "It is impossible to think of another figure from history who dealt such a deep wound to a people and a faith, and yet became so admired."
 
-— Phillips on Saladin's paradox: Jerusalem 1187 as catastrophic blow to Christendom, yet Saladin admired across West and Middle East; the book examines his "courtesy, justice, generosity, and mercy" and modern appropriation (Nasser, Saddam, bin Laden, popular culture).
+Phillips documents Saladin ordering the recovery of an infant stolen by Muslim soldiers, returning it to its Frankish mother—purchasing the child from a merchant who had bought it—while observers wept at his compassion. This mercy anecdote exemplifies his "courtesy, justice, generosity, and mercy" that earned respect from both Muslims and Christian rivals like Richard the Lionheart.
+
+Modern appropriation: Arab nationalist leaders (Nasser, Saddam, Assad) and Islamists (bin Laden) have invoked his legacy; cultural reception includes ballet (Damascus), musical (Lebanon), and al-Jazeera children's cartoon.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–ISLAM–SALADIN — v1.2

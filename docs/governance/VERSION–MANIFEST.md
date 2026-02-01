@@ -142,7 +142,7 @@ ISLAM:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–ISLAM               │ v1.2    │ Active        │
+│ CIV–ARC–ISLAM               │ v1.3    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
 │ CIV–INDEX–ISLAM             │ v2.3    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
@@ -161,6 +161,30 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (TRI-FRAME CHAIN OPTIMIZATION — REGISTRY, COMPRESSION, TIERED INVOCATION):
+• CIV–SCHOLAR–ISLAM: Tri-Frame Cognitive Chain Registry (XVII.A) added; CHAIN–0014–KISSINGER; syntheses 0002, 0004, 0005 compressed to tag + pointer; no substantive chain repetition
+• cmc-tri-frame-protocol: Tri-Frame Chain Tiered Invocation section added—canonical location only, invocation tiers (primary/secondary/tertiary), registry, compression rule
+• CIV–SCHOLAR–TEMPLATE: TRI-FRAME CHAIN INVOCATION note added (syntheses reference by Chain ID; see cmc-tri-frame-protocol)
+
+2026-02-01 (MEM–ISLAM–WAR–THIRD–CRUSADE v1.1 — KEEGAN CIVILIZATION-CONTRAST):
+• MEM–ISLAM–WAR–THIRD–CRUSADE v1.0 → v1.1: Keegan SOURCE block (The Mask of Command 1987)—mask of command, Napoleon/Wellington contrast; Richard–Saladin command styles; civilization-contrast per RLL–ISLAM–0003; ARC Reference v1.3
+• CIV–SCHOLAR–ISLAM: SYNTHESIS 0003 extended with Keegan (0011); cross-reference MEM–ISLAM–CRUSADES v1.3 and MEM–ISLAM–WAR–THIRD–CRUSADE v1.1 Keegan blocks with SYNTHESIS 0005
+
+2026-02-01 (MEM–ISLAM–CRUSADES v1.3 — KEEGAN CIVILIZATION-CONTRAST):
+• MEM–ISLAM–CRUSADES v1.2 → v1.3: Keegan SOURCE block (A History of Warfare 1993)—"civilised warfare," Clausewitz "little of oriental war," "customary restraints on violence"; civilization-contrast per RLL–ISLAM–0003 (Keegan not in ARC–ISLAM)
+
+2026-02-01 (MEM–ISLAM–DYNASTY–OTTOMAN v1.3 — KISSINGER SOURCE):
+• MEM–ISLAM–DYNASTY–OTTOMAN v1.2 → v1.3: Kissinger SOURCE block (World Order 2014)—Ottoman–Westphalia contrast; Mehmed "one empire, one faith, one sovereignty"; unitary entity vs equilibrium; civilization-contrast
+• CIV–SCHOLAR–ISLAM: Mercouris responds to Mearsheimer (ENTRY 0014)—reframe Kissinger in legitimacy/civilizational terms
+
+2026-02-01 (CIV–ARC–ISLAM v1.3 — KISSINGER):
+• CIV–ARC–ISLAM: v1.2 → v1.3 (Henry Kissinger added to ARC-T-MODERN)
+• Kissinger, World Order (2014): Islamic world order, Westphalian contrast, Ottoman–Europe interface; civilization-contrast for world-order MEMs
+• Baer, Phillips added to ARC list (were in v1.2 note but missing from list; now included)
+• CIV–CORE–ISLAM, CIV–SCHOLAR–ISLAM, CIV–INDEX–ISLAM: ARC Reference updated to v1.3
+• CIV–SCHOLAR–ISLAM: SYNTHESIS 0004 extended with Kissinger (0014) Ottoman–Westphalia contrast; ARC–DISCOVERY PROPOSAL 0002 IMPLEMENTED
+• Per ARC–DISCOVERY PROPOSAL 0002 (CIV–SCHOLAR–ISLAM XVIII.C)
 
 2026-02-01 (PERSIA — v2.0 MAJOR UPGRADES, 7 MEMs):
 • MEM–PERSIA–IONIAN–REVOLT v1.0 → v2.0: Greek wars arc; Herodotus V.97, 99–100, 102, 105 verbatim; satrapal vs imperial (Mearsheimer); MEM CONNECTIONS enriched
@@ -255,6 +279,25 @@ IV. VERSION HISTORY (RECENT)
 • MEM–INDIA–NEHRU v1.0 → v2.0: Durant verbatim (C, A); ARC-T-MODERN; MEM BIBLIOGRAPHY
 • MEM–INDIA–WAR–CLIVE v1.0 → v2.0: Durant verbatim (F, G); ARC-T-MODERN; MEM BIBLIOGRAPHY
 • Source: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; CIV–ARC–INDIA v1.0 (Durant in ARC-T-MODERN)
+
+2026-02-01 (ISLAM — PHILLIPS ENHANCEMENTS + WAR–THIRD–CRUSADE):
+• MEM–ISLAM–SALADIN v1.2 → v1.3: Expanded Phillips block (infant anecdote, Richard, modern appropriation)
+• MEM–ISLAM–CRUSADES v1.1 → v1.2: Phillips SOURCE block (mercy vs massacre, paradox)
+• MEM–ISLAM–DYNASTY–AYYUBID v1.0 → v1.1: Phillips SOURCE block (legacy, dynastic fragility)
+• MEM–ISLAM–DYNASTY–FATIMID v1.1 → v1.2: Phillips SOURCE block (Saladin takeover, institutional realignment)
+• MEM–ISLAM–GEO–LEVANT v1.1 → v1.2: Phillips quote (Jerusalem 1187, paradox)
+• MEM–ISLAM–WAR–THIRD–CRUSADE v1.0: NEW — Third Crusade; Richard–Saladin; Phillips
+• CIV–INDEX–ISLAM: WAR–THIRD–CRUSADE added; count 27
+
+2026-02-01 (ISLAM — BAER ENHANCEMENTS + NEW MEMs):
+• MEM–ISLAM–CONSTANTINOPLE v1.1 → v1.2: Baer SOURCE block (new Romans, Mehmed II as caesar)
+• MEM–ISLAM–DYNASTY–OTTOMAN: Expanded Baer block (conversion-as-elite-making, devşirme)
+• MEM–ISLAM–GEO–LEVANT v1.0 → v1.1: Baer quotes (multiethnic domain, toleration)
+• MEM–ISLAM–GEO–PERSIAN–GULF v1.0 → v1.1: Baer quotes (European integration, Ottoman reach)
+• MEM–ISLAM–SUNNI v1.1 → v1.2: Baer SOURCE block (toleration, millet)
+• MEM–ISLAM–CALIPHATE–ABOLITION v1.0: NEW — 1924 legitimacy rupture; Baer on late-Ottoman collapse
+• MEM–ISLAM–GEO–BALKANS v1.0: NEW — Ottoman European frontier; Baer on Balkans as "Europe's heart"
+• CIV–INDEX–ISLAM: v2.3 → v2.4 (Caliphate–Abolition, GEO–Balkans; count 27)
 
 2026-02-01 (ISLAM MEM — BAER & PHILLIPS SOURCE BLOCKS):
 • MEM–ISLAM–DYNASTY–OTTOMAN v1.1 → v1.2: Baer SOURCE block (The Ottomans 2021)—European integration, toleration-and-conversion, late-Ottoman exclusivity/genocide

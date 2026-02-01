@@ -1,9 +1,9 @@
-MEM–ISLAM–GEO–LEVANT — v1.0
+MEM–ISLAM–GEO–LEVANT — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
 Civilization: ISLAM
 Regime: SACRED ZONE / LEGITIMACY CORRIDOR / CIVILIZATIONAL SEAM
 Subject: Levant (الشام / Bilad al-Sham)
@@ -162,6 +162,17 @@ imperialism—aggressive, expansionist and predatory."
 — Lewis on Crusades memory as active in the Levant and broader region;
 sacred-zone violation as enduring grievance.
 
+Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (2021) (ARC–ISLAM–T–MODERN):
+"The Ottomans' multiethnic, multilingual, and multireligious domain reached deep into Europe's heart."
+"The Ottomans pioneered religious toleration even as they used religious conversion to integrate conquered peoples."
+
+— Baer on Ottoman custody of the Levant; managed diversity; millet system.
+
+Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (2019) (ARC–ISLAM–T–MODERN):
+"It is impossible to think of another figure from history who dealt such a deep wound to a people and a faith, and yet became so admired."
+
+— Phillips on Jerusalem 1187 as turning point; Saladin's mercy; paradox of Western admiration; Levant as theater where sacred recovery reanchored legitimacy.
+
 ────────────────────────────────────────────────────────────
 VIII. GEO STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
@@ -210,5 +221,5 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–GEO–LEVANT — v1.0
+END OF FILE — MEM–ISLAM–GEO–LEVANT — v1.2
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
-MEM–ISLAM–DYNASTY–FATIMID — v1.1
+MEM–ISLAM–DYNASTY–FATIMID — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Civilization: ISLAM
 Sect: ISMA‘ILI SHI‘A
 Regime: SHI‘A UNIVERSAL CALIPHATE / LEGITIMACY RIVAL (909–1171 AD)
@@ -136,5 +136,15 @@ Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC
 "The Abbasid caliphs, whose origins were among the Shi'a, came to Baghdad via eastern Iran. The Fatimid caliphs, who began as leaders of a radical Shi'ite sect, came to Egypt via North Africa."
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–FATIMID — v1.1
+X. SOURCE EVIDENCE — PHILLIPS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University Press, 2019) (ARC–ISLAM–T–MODERN):
+
+Phillips documents Saladin's abolition of the Fatimid caliphate (1171) as "non-revolutionary seizure of power"—Shi'a universalism displaced "not by massacre, but by institutional realignment." Saladin's conduct-based legitimacy; gradual consolidation; suppression of sectarian excess. Unity precedes victory.
+
+— Phillips on Saladin's takeover; institutional realignment vs massacre; Sunni restoration.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–FATIMID — v1.2
 ────────────────────────────────────────────────────────────

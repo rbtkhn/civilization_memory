@@ -2,7 +2,7 @@ MEM–ISLAM–CONSTANTINOPLE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: ISLAM
 Regime: IMPERIAL CONQUEST / LEGITIMACY TRANSLATION (1453 AD →)
 Subject: Constantinople (Istanbul)
@@ -133,5 +133,17 @@ Bernard Lewis, *What Went Wrong?* (2002); *Journal of Democracy* 7.2 (1996) (ARC
 "As late as 1683, an Ottoman army was encamped before the very gates of Vienna."
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–CONSTANTINOPLE — v1.1
+X. SOURCE EVIDENCE — BAER (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021) (ARC–ISLAM–T–MODERN):
+
+"Indeed, the Ottoman rulers saw themselves as the new Romans." Sultan Mehmed II styled himself "caesar" after conquering Constantinople in 1453.
+
+"The Ottomans' multiethnic, multilingual, and multireligious domain reached deep into Europe's heart."
+
+— Baer on 1453 as Roman-succession moment; Constantinople as pivot to European-integrated imperial identity.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–CONSTANTINOPLE — v1.2
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
-MEM–ISLAM–DYNASTY–AYYUBID — v1.0
+MEM–ISLAM–DYNASTY–AYYUBID — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: ISLAM
 Regime: SUNNI RESTORATIVE / SACRED-ZONE RECOVERY (c. 1171–1250 AD)
 Subject: Ayyubid Dynasty
@@ -105,5 +105,14 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–AYYUBID — v1.0
+VIII. SOURCE EVIDENCE — PHILLIPS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University Press, 2019) (ARC–ISLAM–T–MODERN):
+
+Phillips emphasizes that Saladin's moral model endured while the Ayyubid political structure fragmented rapidly after his death. His "courtesy, justice, generosity, and mercy" earned admiration across confessional lines; the dynasty inherited his legitimacy logic but could not institutionalize his personal authority.
+
+"It is impossible to think of another figure from history who dealt such a deep wound to a people and a faith, and yet became so admired."
+
+— Phillips on Saladin's legacy; moral model retained, political structure dissolves; dynastic fragility.
 ────────────────────────────────────────────────────────────

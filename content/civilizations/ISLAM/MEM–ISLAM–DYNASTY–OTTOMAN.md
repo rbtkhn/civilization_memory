@@ -2,7 +2,7 @@ MEM–ISLAM–DYNASTY–OTTOMAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
+Version: 1.3
 Civilization: ISLAM
 Regime: IMPERIAL / CALIPHAL CUSTODIANSHIP (c. 1299–1924 AD)
 Subject: Ottoman Dynasty
@@ -152,10 +152,26 @@ Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021)
 
 "The Ottoman Empire has long been depicted as the Islamic, Asian antithesis of the Christian, European West. But the reality was starkly different: the Ottomans' multiethnic, multilingual, and multireligious domain reached deep into Europe's heart. Indeed, the Ottoman rulers saw themselves as the new Romans."
 
-"The Ottomans pioneered religious toleration even as they used religious conversion to integrate conquered peoples. But in the nineteenth century, they embraced exclusivity, leading to ethnic cleansing, genocide, and the empire's demise after the First World War."
+"The Ottomans pioneered religious toleration even as they used religious conversion to integrate conquered peoples."
 
-— Baer on European integration, toleration-and-conversion dialectic, and late-Ottoman exclusivity trajectory.
+Uniquely among world empires, the Ottomans relied on converts to staff the ruling dynasty, military, and administrative leadership—from Byzantine royalty to enslaved captives elevated to commanders.
+
+"But in the nineteenth century, they embraced exclusivity, leading to ethnic cleansing, genocide, and the empire's demise after the First World War."
+
+— Baer on European integration, toleration-and-conversion dialectic, conversion-as-elite-making (devşirme, Janissaries), and late-Ottoman exclusivity trajectory.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.2
+XI. SOURCE EVIDENCE — KISSINGER (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *World Order* (Penguin Press, 2014) (ARC–ISLAM–T–MODERN):
+
+"Because in this view the domestic principles of an Islamic state were divinely ordained, non-Muslim political entities were illegitimate; they could never be accepted by Muslim states as truly equal counterparts. A peaceful world order depended on the ability to forge and expand a unitary Islamic entity, not on an equilibrium of competing parts."
+
+As Sultan Mehmed the Conqueror admonished the Italian city-states practicing an early version of multipolarity: "You are 20 states... you are in disagreement among yourselves... There must be only one empire, one faith, and one sovereignty in the world." The Ottomans were aware of Europe's nascent interstate order; they considered it "not a model but a source of division to be exploited for westward Ottoman expansion."
+
+— Kissinger on Ottoman–Westphalia contrast; Islamic world order as expansion-oriented; unitary entity vs equilibrium of competing sovereign parts; civilization-contrast for MEM encoding.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.3
 ────────────────────────────────────────────────────────────
