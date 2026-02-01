@@ -44,6 +44,16 @@ SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
 > "Abraham Lincoln, a small-town lawyer from Springfield, Illinois, was stirred to the depths of his being by the passing of the Kansas-Nebraska Act. ... He espoused the duty of opposing by the moral force of his personality the principle of slavery. “A house divided against itself cannot stand.”"
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 11 "The Union in Danger" (ARC-T-MODERN) [ERC-SECONDARY].
 
+John Keegan, in *The American Civil War: A Military History* (2009),
+addresses Lincoln's Gettysburg Address:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "The genius of Lincoln's Gettysburg Address" lies in its refusal
+> "to differentiate between the sacrifice of the North and the South."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+Lincoln reframes legitimacy so that procedure and sacrifice bind the republic beyond the immediate cause.
+
 ────────────────────────────────────────────────────────────
 III. PROCEDURE OVER CONSENT
 ────────────────────────────────────────────────────────────

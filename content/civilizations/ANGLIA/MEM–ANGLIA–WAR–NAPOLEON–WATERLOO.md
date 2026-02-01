@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.2
+MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3) · RENAME (WAR–WATERLOO → WAR–NAPOLEON–WATERLOO)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Muir *Wellington* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Battle of Waterloo
 Dates: 1815 AD
@@ -94,6 +94,10 @@ SUMMARY — Kissinger, *A World Restored* (ARC-T-MODERN):
 > Summary-only note: Open-web access to a verbatim *A World Restored* text was not available at time of update. The summary above reflects Kissinger's treatment of Vienna-settlement balance-of-power logic and Castlereagh's restraint.
 > — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY].
 
+SOURCE — Muir, *Wellington: Waterloo and the Fortunes of Peace* (ARC-T-MODERN):
+> "Over the three decades I have been working on Wellington and subjects closely related to his life I have made many interesting discoveries which, for reasons of space, can only be touched on briefly in the biography."
+> — Rory Muir, Wellington Commentary (lifeofwellington.co.uk), accompanying *Wellington: Waterloo and the Fortunes of Peace, 1814–1852* (New Haven: Yale University Press, 2015) (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.7.
+
 ────────────────────────────────────────────────────────────
 VI. LEGITIMACY UNAFFECTED BY OUTCOME
 ────────────────────────────────────────────────────────────
@@ -149,5 +153,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.2
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Secondary (ARC-T-MODERN):
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Waterloo, coalition-and-endurance method; CIV–ARC–ANGLIA v1.5.
+• Henry Kissinger, *A World Restored* (Boston: Houghton Mifflin, 1957) — Vienna settlement, Castlereagh; CIV–ARC–ANGLIA v1.5.
+• Rory Muir, *Wellington: Waterloo and the Fortunes of Peace, 1814–1852* (New Haven: Yale University Press, 2015) — Waterloo, Wellington, post-Napoleonic order; CIV–ARC–ANGLIA v1.7.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.3
 ────────────────────────────────────────────────────────────

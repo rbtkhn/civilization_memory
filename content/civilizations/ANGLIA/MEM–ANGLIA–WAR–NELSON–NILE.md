@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–NELSON–NILE — v1.0
+MEM–ANGLIA–WAR–NELSON–NILE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Supersedes: —
-Upgrade Type: CREATION
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Sugden *Nelson* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Battle of the Nile (Aboukir Bay) — Mediterranean System Lock
 Dates: 1–2 August 1798 AD
@@ -103,6 +103,10 @@ SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "During the afternoon of August 1 a scouting vessel from Nelson’s fleet signalled that a number of French battleships were anchored in Aboukir Bay, to the east of Alexandria."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Battle of the Nile section (ARC-T-MODERN) [ERC-SECONDARY].
 
+SOURCE — Sugden, *Nelson: The Sword of Albion* (ARC-T-MODERN):
+> "His life was a mission with the essence of a tour de force, hurrying toward a bloody climax that would change the fate of empires."
+> — John Sugden, *Nelson: The Sword of Albion* (London: Bodley Head, 2012), on Nelson's trajectory from Nile to Trafalgar (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.6.
+
 ────────────────────────────────────────────────────────────
 VII. NILE AS TRAFALGAR PRECURSOR
 ────────────────────────────────────────────────────────────
@@ -145,5 +149,15 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Mediterranean control remains a structural variable for Anglia.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–NELSON–NILE — v1.0
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary (Nelson / battle):
+• Horatio Nelson — Mediterranean campaign, pursuit of French fleet; engagement at Aboukir Bay, 1–2 August 1798.
+
+Secondary (ARC-T-MODERN):
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Nile, Aboukir Bay; CIV–ARC–ANGLIA v1.5.
+• John Sugden, *Nelson: A Dream of Glory, 1758–1797* (2005); *Nelson: The Sword of Albion* (London: Bodley Head, 2012) — Nile as first full expression of option-collapsing method; CIV–ARC–ANGLIA v1.6.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–NELSON–NILE — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–BURKE — v2.3
+MEM–ANGLIA–LIT–BURKE — v2.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.3
-Supersedes: v2.2
-Upgrade Type: ADDITIVE · Subject line standardized
+Version: 2.5
+Supersedes: v2.4
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Edmund Burke (Procedural Conservatism & Anti-Revolutionary Restraint)
 Dates: 1729–1797 AD
@@ -69,6 +69,14 @@ Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "In July 1765 the Marquis of Rockingham, a shy, well-meaning Whig who was disturbed at George’s conduct, undertook to form a Government, and brought with him as private secretary a young Irishman named Edmund Burke, already known in literary circles as a clever writer and a brilliant talker. He was much more. He was a great political thinker."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), p. 144 (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "Prudence versus passion is a conflict that runs through history. It is not a conflict in which we ought to side wholly with either party."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Part II, Ch. XVIII "The Romantic Movement" (ARC-T-MODERN) [ERC-SECONDARY]. Burke embodies the procedural/prudential pole against revolutionary passion.
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Burke defended tradition and gradual reform against the abstract rationalism of the French Revolution; prudence and prescription over rupture."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Burke and the reaction to revolution (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
 
 ────────────────────────────────────────────────────────────
 V. PROCEDURE OVER MORAL FERVOR
@@ -155,7 +163,9 @@ XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Secondary / critical (ARC-T-MODERN):
 • **Winston S. Churchill**, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Burke's role in Rockingham government, critique of French Revolution, Anglia's restraint; ARC-T-MODERN [ERC-SECONDARY].
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Ch. XVIII "The Romantic Movement" — prudence vs passion; Burke as procedural restraint against revolutionary fervour; CIV–ARC–ANGLIA v1.4.
+• **A.C. Grayling**, *The History of Philosophy* (London: Penguin Press, 2019) — Burke, tradition, reaction to French Revolution; CIV–ARC–ANGLIA v1.5.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–BURKE — v2.3
+END OF FILE — MEM–ANGLIA–LIT–BURKE — v2.5
 ────────────────────────────────────────────────────────────

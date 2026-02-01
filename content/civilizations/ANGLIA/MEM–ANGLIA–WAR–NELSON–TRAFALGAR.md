@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.5
+MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.5
-Supersedes: v1.4
-Upgrade Type: RENAME (WAR–TRAFALGAR → WAR–NELSON–TRAFALGAR)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Sugden *Nelson* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Battle of Trafalgar (Maritime Irreversibility & System Lock-In)
 Dates: 21 October 1805 AD
@@ -136,6 +136,10 @@ SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "In 1804 Pitt was recalled to power. Feverishly he flung himself into the work of reorganising England’s war effort. ... An enormous army was organised and concentrated at the Channel ports for the invasion of England."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 20 "Trafalgar" (ARC-T-MODERN) [ERC-SECONDARY].
 
+SOURCE — Sugden, *Nelson: The Sword of Albion* (ARC-T-MODERN):
+> "His life was a mission with the essence of a tour de force, hurrying toward a bloody climax that would change the fate of empires."
+> — John Sugden, *Nelson: The Sword of Albion* (London: Bodley Head, 2012), on Nelson's final years and Trafalgar (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.6.
+
 ────────────────────────────────────────────────────────────
 VII. DEATH & SYMBOLIC CONSOLIDATION
 ────────────────────────────────────────────────────────────
@@ -217,6 +221,16 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.5
-Word Count: ~830
+XII. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary (Nelson):
+• Horatio Nelson — Signal before battle, 21 October 1805; Letter to Admiral Collingwood, 1805.
+
+Secondary (ARC-T-MODERN):
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Trafalgar, invasion threat; CIV–ARC–ANGLIA v1.5.
+• John Sugden, *Nelson: The Sword of Albion* (London: Bodley Head, 2012) — Trafalgar, decisive engagement, fate of empires; CIV–ARC–ANGLIA v1.6.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.6
+Word Count: ~880
 ────────────────────────────────────────────────────────────

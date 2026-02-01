@@ -1,18 +1,18 @@
-CIV–INDEX–ANGLIA — v2.16
+CIV–INDEX–ANGLIA — v2.17
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.16
-Supersedes: v2.15
-Upgrade Type: ADDITIVE (rename MEM–ANGLIA–DARWIN → MEM–ANGLIA–SCI–DARWIN; moved from G) PERSON to H) OTHER as SCI-classified)
+Version: 2.17
+Supersedes: v2.16
+Upgrade Type: ADDITIVE (MEM–ANGLIA–LIT–BERKELEY, LIT–BENTHAM, LIT–MILL, SCI–BACON added)
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 146 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 150 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -199,9 +199,13 @@ H) OTHER / MISC
 • MEM–ANGLIA–LIT–PAINE.md
 • MEM–ANGLIA–LIT–SHAKESPEARE.md
 • MEM–ANGLIA–LIT–SMITH.md
+• MEM–ANGLIA–LIT–BERKELEY.md
+• MEM–ANGLIA–LIT–BENTHAM.md
+• MEM–ANGLIA–LIT–MILL.md
 • MEM–ANGLIA–MEXICO.md
 • MEM–ANGLIA–SCI–DARWIN.md
 • MEM–ANGLIA–SCI–NEWTON.md
+• MEM–ANGLIA–SCI–BACON.md
 
 ────────────────────────────────────────────────────────────
 III. DEPRECATIONS

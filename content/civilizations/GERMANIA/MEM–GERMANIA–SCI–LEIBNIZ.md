@@ -268,7 +268,7 @@ VERBATIM CITED:
 
 CONSULTED (Not Quoted):
 • Maria Rosa Antognazza, *Leibniz: An Intellectual Biography*
-• Bertrand Russell, *A Critical Exposition of the Philosophy of Leibniz*
+• Bertrand Russell, *A Critical Exposition of the Philosophy of Leibniz* (author in CIV–ARC–ANGLIA for *A History of Western Philosophy*)
 • Nicholas Jolley, *The Cambridge Companion to Leibniz*
 • G.W. Leibniz, *New Essays on Human Understanding*
 

@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–LOCKE — v2.2
+MEM–ANGLIA–LIT–LOCKE — v2.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · Bibliography section added
+Version: 2.4
+Supersedes: v2.3
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: John Locke (Procedural Liberalism & Consent Without Rupture)
 Dates: 1632–1704 AD
@@ -109,6 +109,14 @@ reducing legitimacy shocks from doctrinal conflict.
 
 Provenance Confidence: HIGH
 
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "Locke is the apostle of the Revolution of 1688, the most moderate and the most successful of all revolutions… He is the founder of philosophical liberalism as much as of empiricism in theory of knowledge."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Part I, Ch. XIV "Locke's Political Philosophy" (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Locke's political philosophy laid the foundations of liberalism: consent, limited government, and the separation of political and religious authority."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Locke and the Enlightenment (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
 VI. REVOLUTION AS LAST RESORT
 ────────────────────────────────────────────────────────────
@@ -209,7 +217,11 @@ Primary:
 • **John Locke**, *Second Treatise of Government* (1689) — "Government has no other end but the preservation of property"; procedural legitimacy, consent; [ERC-PRIMARY].
 • **John Locke**, *A Letter Concerning Toleration* (1689) — "The care of souls is not committed to the civil magistrate"; separation of political and religious authority; [ERC-PRIMARY].
 
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Ch. XIV "Locke's Political Philosophy" — Locke as apostle of 1688; founder of philosophical liberalism and empiricism; CIV–ARC–ANGLIA v1.4.
+• **A.C. Grayling**, *The History of Philosophy* (London: Penguin Press, 2019) — Locke, liberalism, consent, limited government; CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–LOCKE — v2.2
+END OF FILE — MEM–ANGLIA–LIT–LOCKE — v2.4
 Word Count: ~820
 ────────────────────────────────────────────────────────────

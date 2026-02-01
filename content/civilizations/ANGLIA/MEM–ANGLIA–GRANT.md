@@ -43,6 +43,16 @@ SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
 > "Grant proposed a winter advance up the Tennessee River and an attack upon Fort Henry. Halleck approved. Grant made the advance, and the advance made Grant."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 12 "The Campaign Against Richmond" (ARC-T-MODERN) [ERC-SECONDARY].
 
+John Keegan, in *The American Civil War: A Military History* (2009),
+assesses the leading Union commanders:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "Grant and William Tecumseh Sherman stood out among all commanders."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+Grant’s legitimacy derives from execution: he finishes the argument
+through attrition and procedural surrender at Appomattox.
+
 ────────────────────────────────────────────────────────────
 III. WAR OF ATTRITION AS PROCEDURAL LOGIC
 ────────────────────────────────────────────────────────────
@@ -59,7 +69,7 @@ Victory is framed as inevitability, not spectacle.
 Time becomes a weapon.
 
 ────────────────────────────────────────────────────────────
-IV. CIVILIAN SUBORDINATION & OBEDIENAD
+IV. CIVILIAN SUBORDINATION & OBEDIENCE
 ────────────────────────────────────────────────────────────
 Grant’s legitimacy derives from compliance.
 

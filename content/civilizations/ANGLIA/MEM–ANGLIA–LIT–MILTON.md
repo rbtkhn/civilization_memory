@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–MILTON — v2.3
+MEM–ANGLIA–LIT–MILTON — v2.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.3
-Supersedes: v2.2
-Upgrade Type: ADDITIVE · Subject line standardized
+Version: 2.5
+Supersedes: v2.4
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: John Milton (Liberty Through Restraint, Order Through Law)
 Dates: 1608–1674 AD
@@ -86,6 +86,14 @@ God is just—but distant.
 
 The poem refuses simple alignment.
 
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "Truth was no longer to be ascertained by consulting authority, but by inward meditation."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Introduction (Reformation and Protestantism) (ARC-T-MODERN) [ERC-SECONDARY]. Russell on Protestant subjectivity and liberty of conscience; fits Milton's Puritan/revolutionary context; CIV–ARC–ANGLIA v1.4.
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Milton defended liberty of conscience and the press; his republican ideals and *Paradise Lost* encode the tension between authority and freedom."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Milton and the Reformation (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
 VI. FAILURE AND WITHDRAWAL
 ────────────────────────────────────────────────────────────
@@ -151,6 +159,10 @@ Primary (literary works):
 • **John Milton**, *Areopagitica* (1644) — Liberty of the press, republican ideals; [ERC-PRIMARY].
 • **John Milton**, *Paradise Lost* (1667) — Political theology, rebellion vs. obedience, authority through righteousness; [ERC-PRIMARY].
 
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Introduction — truth by inward meditation vs. authority; Protestant liberty of conscience; Milton's Puritan context; CIV–ARC–ANGLIA v1.4.
+• **A.C. Grayling**, *The History of Philosophy* (London: Penguin Press, 2019) — Milton, liberty of conscience, republicanism, Reformation; CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–MILTON — v2.3
+END OF FILE — MEM–ANGLIA–LIT–MILTON — v2.5
 ────────────────────────────────────────────────────────────

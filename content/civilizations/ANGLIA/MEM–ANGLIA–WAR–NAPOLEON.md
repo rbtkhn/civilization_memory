@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–NAPOLEON — v1.2
+MEM–ANGLIA–WAR–NAPOLEON — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 3)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Muir *Wellington* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Regime: MARITIME–FINANCIAL WAR STATE / COALITION ANCHOR (1793–1815)
 Subject: The Napoleonic Wars (Anglian Perspective)
@@ -48,6 +48,10 @@ Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "The Battle of Waterloo, a far-sighted Treaty of Peace, and the Industrial Revolution in England established Britain for nearly a century at or around the summit of the civilised world."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Preface (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Muir, *Wellington: The Path to Victory* (ARC-T-MODERN):
+> "Over the three decades I have been working on Wellington and subjects closely related to his life I have made many interesting discoveries which, for reasons of space, can only be touched on briefly in the biography."
+> — Rory Muir, Wellington Commentary (lifeofwellington.co.uk), accompanying *Wellington: The Path to Victory, 1769–1814* (New Haven: Yale University Press, 2013) (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.7.
 
 ────────────────────────────────────────────────────────────
 III. ANGLO–NAPOLEONIC ASYMMETRY
@@ -185,12 +189,13 @@ Primary:
 • Admiralty records
 • Wellington correspondence
 
-Secondary:
-• Paul Kennedy
-• Adam Zamoyski
-• Jeremy Black
-• Niall Ferguson
+Secondary (ARC-T-MODERN):
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Napoleonic Wars, Waterloo; CIV–ARC–ANGLIA v1.5.
+• Henry Kissinger, *A World Restored* (Boston: Houghton Mifflin, 1957) — Vienna settlement; CIV–ARC–ANGLIA v1.5.
+• Rory Muir, *Wellington: The Path to Victory, 1769–1814* (New Haven: Yale University Press, 2013); *Wellington: Waterloo and the Fortunes of Peace, 1814–1852* (Yale, 2015) — Peninsular War, Wellington, coalition warfare; CIV–ARC–ANGLIA v1.7.
+
+Other secondary: Paul Kennedy; Adam Zamoyski; Jeremy Black; Niall Ferguson.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–NAPOLEON — v1.2
+END OF FILE — MEM–ANGLIA–WAR–NAPOLEON — v1.4
 ────────────────────────────────────────────────────────────

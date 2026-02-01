@@ -1,9 +1,10 @@
-MEM–ANGLIA–CASTLEREAGH — v1.0
+MEM–ANGLIA–CASTLEREAGH — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL CREATION · Kissinger *A World Restored* integration (Phase 4)
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Muir *Wellington* reference (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Robert Stewart, Viscount Castlereagh (British Foreign Secretary 1812–1822)
 Dates: 1769–1822 AD
@@ -141,13 +142,14 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Castlereagh encodes Anglia's preference for order through restraint.
 
 ────────────────────────────────────────────────────────────
-IX. BIBLIOGRAPHY
+IX. BIBLIOGRAPHY / PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
-• Kissinger, Henry. *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822*. Boston: Houghton Mifflin, 1957. (ARC-T-MODERN) [ERC-SECONDARY]
-• CIV–ARC–ANGLIA — Kissinger in ARC-T-MODERN (to be added)
-• MEM–ANGLIA–WAR–NAPOLEON — Post-Napoleonic order context
-• MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — Waterloo and Vienna settlement
+Secondary (ARC-T-MODERN):
+• Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+• Rory Muir, *Wellington: Waterloo and the Fortunes of Peace, 1814–1852* (New Haven: Yale University Press, 2015) — Wellington as military complement to Castlereagh; post-Waterloo political context; CIV–ARC–ANGLIA v1.7.
+
+MEM connections: MEM–ANGLIA–WAR–NAPOLEON; MEM–ANGLIA–WAR–NAPOLEON–WATERLOO; MEM–ANGLIA–WELLINGTON.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–CASTLEREAGH — v1.0
+END OF FILE — MEM–ANGLIA–CASTLEREAGH — v1.1
 ────────────────────────────────────────────────────────────

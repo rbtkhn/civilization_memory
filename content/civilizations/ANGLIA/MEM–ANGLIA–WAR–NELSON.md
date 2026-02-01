@@ -1,10 +1,10 @@
-MEM–ANGLIA–WAR–NELSON — v1.6
+MEM–ANGLIA–WAR–NELSON — v1.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.6
-Supersedes: v1.5
-Upgrade Type: ADDITIVE · SOURCE HARDENING · Churchill Vol. 3 (*The Age of Revolution*) · RENAME (NELSON → WAR–NELSON)
+Version: 1.7
+Supersedes: v1.6
+Upgrade Type: ADDITIVE · Sugden *Nelson* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Horatio Nelson
 Dates: 1758–1805 AD
@@ -103,6 +103,10 @@ SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "But Nelson knew his captains. As evening drew near, the Goliath, followed by the Zealous, cautiously crept to landward of the French van, and came into action a few minutes before sundown."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Battle of the Nile section (ARC-T-MODERN) [ERC-SECONDARY].
 
+SOURCE — Sugden, *Nelson: The Sword of Albion* (ARC-T-MODERN):
+> "His life was a mission with the essence of a tour de force, hurrying toward a bloody climax that would change the fate of empires."
+> — John Sugden, *Nelson: The Sword of Albion* (London: Bodley Head, 2012), on Nelson's final years and Trafalgar (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.6.
+
 ────────────────────────────────────────────────────────────
 V. PERSONAL RISK & CIVILIZATIONAL REWARD
 (PRIMARY + SECONDARY)
@@ -176,5 +180,16 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Shock can complement endurance within a system.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WAR–NELSON — v1.6
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary (Nelson):
+• Horatio Nelson — Letters (Berry, St. Vincent, private 1805); signal, HMS Victory, 21 October 1805.
+
+Secondary (ARC-T-MODERN):
+• John Keegan, *The Mask of Command* (London: Jonathan Cape, 1987) — Nelson as naval analogue of mission command; CIV–ARC–ANGLIA v1.5.
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Trafalgar, Nile; CIV–ARC–ANGLIA v1.5.
+• John Sugden, *Nelson: A Dream of Glory, 1758–1797* (2005); *Nelson: The Sword of Albion* (London: Bodley Head, 2012) — comprehensive life, Nile–Trafalgar, option-collapsing method; CIV–ARC–ANGLIA v1.6.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WAR–NELSON — v1.7
 ────────────────────────────────────────────────────────────

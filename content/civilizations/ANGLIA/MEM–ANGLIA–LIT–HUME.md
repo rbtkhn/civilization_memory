@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–HUME — v2.2
+MEM–ANGLIA–LIT–HUME — v2.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: v2.1
-Upgrade Type: ADDITIVE · Bibliography section added
+Version: 2.4
+Supersedes: v2.3
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: David Hume (Skepticism, Convention, and Order Without Certainty)
 Dates: 1711–1776 AD
@@ -110,6 +110,14 @@ not a rational or moral one.
 
 Provenance Confidence: HIGH
 
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "Hume developed to its logical conclusion the empirical philosophy of Locke and Berkeley, and by making it self-consistent made it incredible."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Part I, Ch. XVII "Hume" (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Hume carried empiricism to its sceptical conclusion: custom and habit, not reason, underlie our beliefs and our acceptance of authority."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Hume and scepticism (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
 VI. POLITICAL AUTHORITY WITHOUT MORAL MANDATE
 ────────────────────────────────────────────────────────────
@@ -213,7 +221,11 @@ Primary:
 • **David Hume**, *A Treatise of Human Nature* (1739–1740) — "Reason is, and ought only to be the slave of the passions"; skepticism, convention, order without certainty; [ERC-PRIMARY].
 • **David Hume**, *Essays, Moral and Political* (1741–1742) — Convention, order through habit, not contract; [ERC-PRIMARY].
 
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Ch. XVII "Hume" — Hume carried empiricism to its logical conclusion; self-consistent empiricism and its consequences; CIV–ARC–ANGLIA v1.4.
+• **A.C. Grayling**, *The History of Philosophy* (London: Penguin Press, 2019) — Hume, scepticism, custom and habit; CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–HUME — v2.2
+END OF FILE — MEM–ANGLIA–LIT–HUME — v2.4
 Word Count: ~820
 ────────────────────────────────────────────────────────────

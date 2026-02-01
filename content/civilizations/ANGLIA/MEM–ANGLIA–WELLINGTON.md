@@ -1,10 +1,10 @@
-MEM–ANGLIA–WELLINGTON — v1.4
+MEM–ANGLIA–WELLINGTON — v1.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.6
-Supersedes: v1.5
-Upgrade Type: ADDITIVE · Kissinger SOURCE block (Phase 2)
+Version: 1.7
+Supersedes: v1.6
+Upgrade Type: ADDITIVE · Muir *Wellington* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Arthur Wellesley, Duke of Wellington
 Dates: 1769–1852 AD
@@ -142,6 +142,10 @@ SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "The three years between the death of Pitt in January 1806 and the rise of Wellington in 1809 were uncheered by fortune."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 21 "The Emperor of the French" (ARC-T-MODERN) [ERC-SECONDARY].
 
+SOURCE — Muir, *Wellington: The Path to Victory* (ARC-T-MODERN):
+> "Over the three decades I have been working on Wellington and subjects closely related to his life I have made many interesting discoveries which, for reasons of space, can only be touched on briefly in the biography."
+> — Rory Muir, Wellington Commentary (lifeofwellington.co.uk), accompanying *Wellington: The Path to Victory, 1769–1814* (New Haven: Yale University Press, 2013) (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.7.
+
 ────────────────────────────────────────────────────────────
 VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES
 (SECONDARY)
@@ -179,5 +183,17 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Restraint can outlast brilliance.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–WELLINGTON v1.5
+X. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary (Wellington):
+• Arthur Wellesley — Dispatches (Portugal 1810, General Orders 1813); Letter to Lord Liverpool, 1812; Letter after Waterloo, 1815.
+
+Secondary (ARC-T-MODERN):
+• John Keegan, *The Mask of Command* (London: Jonathan Cape, 1987) — Wellington as constitutional general; CIV–ARC–ANGLIA v1.5.
+• Henry Kissinger, *A World Restored* (Boston: Houghton Mifflin, 1957) — Wellington as military complement to Castlereagh; CIV–ARC–ANGLIA v1.5.
+• Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Pitt to Wellington, Waterloo; CIV–ARC–ANGLIA v1.5.
+• Rory Muir, *Wellington: The Path to Victory, 1769–1814* (New Haven: Yale University Press, 2013); *Wellington: Waterloo and the Fortunes of Peace, 1814–1852* (Yale, 2015) — definitive biography, Peninsular War, coalition and political context; CIV–ARC–ANGLIA v1.7.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–WELLINGTON — v1.7
 ────────────────────────────────────────────────────────────

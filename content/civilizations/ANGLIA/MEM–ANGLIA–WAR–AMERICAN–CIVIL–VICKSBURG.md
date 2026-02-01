@@ -46,6 +46,17 @@ SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
 > "It now seems that a combined naval and military expedition could easily at this time have lunged far to the south and secured the fortress of Vicksburg in Mississippi."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY].
 
+John Keegan, in *The American Civil War: A Military History* (2009),
+observes the strategic logic of the Western Theater:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "No one on either side seems to have appreciated that the water lines
+> in the Mississippi Valley formed an avenue of military advance into
+> the Deep South, culminating eventually at New Orleans."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+Vicksburg is where that avenue is contested and then secured.
+
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CHARACTER
 ────────────────────────────────────────────────────────────

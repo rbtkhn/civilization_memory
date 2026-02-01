@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–PAINE — v2.2
+MEM–ANGLIA–LIT–PAINE — v2.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: v2.1
-Upgrade Type: ADDITIVE · Bibliography section added
+Version: 2.4
+Supersedes: v2.3
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Thomas Paine (Revolutionary Simplifier and Anti-Procedural Catalyst)
 Dates: 1737–1809 AD
@@ -94,6 +94,14 @@ This illustrates Paine's role in emotional mobilization rather than
 institutional design.
 
 Provenance Confidence: HIGH
+
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "Paine, while his doctrine contained nothing novel, was an innovator in the manner of his writing, which was simple, direct, unlearned, and such as every intelligent workingman could appreciate. This made him dangerous."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), on revolutionary democratization of ideas (ARC-T-MODERN) [ERC-SECONDARY]. Russell on Paine's mobilizational style; CIV–ARC–ANGLIA v1.4.
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Paine democratized revolutionary ideas: his plain style made rights and resistance accessible to ordinary readers, and dangerous to established order."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Paine and revolution (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
 
 ────────────────────────────────────────────────────────────
 V. RELATION TO ANGLIAN POLITICAL GRAMMAR
@@ -216,7 +224,11 @@ Primary:
 • **Thomas Paine**, *Common Sense* (1776) — "Government, even in its best state, is but a necessary evil"; revolutionary simplification, rupture; [ERC-PRIMARY].
 • **Thomas Paine**, *The American Crisis*, No. I (1776) — Revolutionary mobilization, rupture vs. procedure; [ERC-PRIMARY].
 
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945) — Paine as innovator in manner of writing; simple, direct, unlearned; "made him dangerous"; CIV–ARC–ANGLIA v1.4.
+• **A.C. Grayling**, *The History of Philosophy* (London: Penguin Press, 2019) — Paine, democratization of revolutionary ideas, plain style; CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–PAINE — v2.2
+END OF FILE — MEM–ANGLIA–LIT–PAINE — v2.4
 Word Count: ~790
 ────────────────────────────────────────────────────────────

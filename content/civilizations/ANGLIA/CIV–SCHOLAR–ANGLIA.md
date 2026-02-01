@@ -1,4 +1,4 @@
-CIV–SCHOLAR–ANGLIA — v1.0
+CIV–SCHOLAR–ANGLIA — v2.0
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -9,63 +9,135 @@ Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE I (Accumulation)
-Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure)
-
-Derived from: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure)
-Governed by: CIV–SCHOLAR–PROTOCOL v2.2
-ARC Reference: CIV–ARC–ANGLIA v1.3
+Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
+Supersedes: v1.0
+Derived from: CIV–SCHOLAR–TEMPLATE v2.10
+Governed by: CIV–SCHOLAR–PROTOCOL v2.6
+ARC Reference: CIV–ARC–ANGLIA v1.11
 Last Update: January 2026
 
-Upgrade Type: MILESTONE (v0.8 → v1.0) — First stable Phase I release
+Upgrade Type: TEMPLATE COMPLIANCE (v1.0 → v2.0)
 Upgrade Scope:
-• Version bump to v1.0 (first stable Phase I release)
-• Header: Template Version Used added; Compatibility simplified to Phase I
-• NO deletion of prior material
-• NO phase transition (Phase I retained)
-• NO CIV–CORE propagation
+• Version bump to v2.0; full Template v2.10 section compliance
+• Template sections I–XIV added (Purpose, Phase Model, RLL Authority, Failure-First, Non-Synthesis, Conflict Handling, Promotion, Snapshot, Communication Register, Ephemeral, OGE, Versioning, Context Loading, Synthesis Tradecraft)
+• Ledger content preserved; renumbered XV onward
+• NO deletion of prior material; NO phase transition
 
-Word Count: ~5,100
-
-────────────────────────────────────────────────────────────
-I. SCHOLAR PURPOSE & ROLE
-────────────────────────────────────────────────────────────
-CIV–SCHOLAR–ANGLIA is the accumulative learning ledger of the Anglia
-civilization.
-
-It is not a strategist.
-It is not a governor.
-It is not an interpreter.
-It has no innate cognition.
-It makes no assumptions.
-
-It records learning events, not conclusions.
-
-This file preserves:
-• What was ingested
-• When it was ingested
-• What beliefs were extracted
-• How beliefs were synthesized
-• Which beliefs were frozen into doctrine
-
-No belief exists here unless explicitly derived.
-No synthesis exists here unless explicitly recorded.
-No doctrine exists here unless explicitly frozen.
-
-All cognition is historical and procedural, never intrinsic.
+Word Count: ~5,600
 
 ────────────────────────────────────────────────────────────
-II. INITIAL STATE
+I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ZERO
-Assumed Priors: NONE
-Civilizational Grammar: NOT PRELOADED
-CIV–CORE Influence: DISABLED
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § I)
 
-The Scholar learns only from MEM–ANGLIA files explicitly ingested.
-Absence of ingestion equals absence of belief.
+CIV–SCHOLAR–ANGLIA is the accumulative learning ledger of the Anglia civilization.
+
+It is not a strategist. It is not a governor. It is not an interpreter. It has no innate cognition. It makes no assumptions. It records learning events, not conclusions.
+
+This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were frozen into doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly frozen. All cognition is historical and procedural, never intrinsic.
+
+Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–ANGLIA. No Scholar file may override MEM law, ARC law, or Template law.
 
 ────────────────────────────────────────────────────────────
-III. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
+II. SCHOLAR PHASE MODEL (HARD)
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § II)
+
+This file operates in **PHASE I — ACCUMULATION**.
+
+Permitted: Learning ingestion; pattern recognition; comparative notes; tension recording; hypothesis staging (non-binding). Forbidden: Doctrine creation; verdicts; system claims; teleology. RLLs may be drafted but are NOT binding in this phase. Phase II (Constraint Grammar) and Phase III (Snapshot) are activated only by explicit user authorization per Template.
+
+────────────────────────────────────────────────────────────
+III. RLL AUTHORITY / DOCTRINE REGISTRY
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase I)
+
+In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries (v0.1–v0.5) are frozen syntheses with Assumptions Boxes and Confidence tier per Template § XIV. If Phase II is adopted, RLL–ANGLIA–#### namespace and binding rules apply per Template § III.
+
+────────────────────────────────────────────────────────────
+IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § IV)
+
+Phase II requires failure-first reasoning, negative-capability framing, and sequencing enforcement. Phase I (current) is exempt. When Phase II is activated, Section IV will govern reasoning order per Template.
+
+────────────────────────────────────────────────────────────
+V. NON-SYNTHESIS RULE
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § V)
+
+Scholar files may record contradictions, juxtapose models, preserve tensions. They may not resolve contradictions, harmonize models, or produce unified theories. Constraint-oriented synthesis (failure-pattern, sequencing, boundary identification) is permitted per Template and Protocol; closure-seeking synthesis is forbidden.
+
+────────────────────────────────────────────────────────────
+VI. SCHOLAR ↔ MEM CONFLICT HANDLING
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § VI)
+
+MEM facts are authoritative; SCHOLAR constraints are interpretive. When a MEM assertion contradicts an established SCHOLAR pattern, the Scholar must flag the anomaly explicitly (Anomaly Flag Protocol). Phase II requires full implementation; Phase I notes the rule. Authority substitution and silent reconciliation are forbidden.
+
+────────────────────────────────────────────────────────────
+VII. CIVILIZATION-SCOPED PROMOTION
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § VII)
+
+Phase promotion is civilization-local. A successful Scholar (e.g., ANGLIA) does not auto-upgrade other civilizations. Each civilization must independently demonstrate stable constraint binding and audit survivability for Phase II.
+
+────────────────────────────────────────────────────────────
+VIII. SNAPSHOT CLASS
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § VIII)
+
+Snapshot naming: SCHOLAR–ANGLIA — SNAPSHOT — vX.Y. Snapshots are read-only, locked permanently, externalizable. This file is not a snapshot; it is the live Phase I ledger.
+
+────────────────────────────────────────────────────────────
+IX. COMMUNICATION REGISTER & VOICE
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § IX)
+
+LEARN mode: Mercouris prose (academic, recursive layering); LEARN/WRITE = academic prose; IMAGINE = spoken per CIV–MIND–MERCOURIS III.L. Secondary voice invocation (Mearsheimer, Barnes) uses explicit markers per Template. Audit commands: `mearsheimer audit [TARGET]`, `barnes audit [TARGET]` per Template § IX.C–E.
+
+────────────────────────────────────────────────────────────
+X. EPHEMERAL OBSERVATION LAYER
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § X)
+
+Canonical layer: MEM-sourced learning, persistent SCHOLAR state. Ephemeral layer: CEO-sourced (current events), EOR creation, no binding. Layer indicators: [LEARN: CANONICAL] / [LEARN: EPHEMERAL]. Governed by EPHEMERAL–OBSERVATION–PROTOCOL.
+
+────────────────────────────────────────────────────────────
+XI. OGE SPECIFICATION (EMBEDDED)
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XI.A)
+
+LEARN mode uses OGE to direct discovery. Exactly 6 options (A–F) per substantive turn; one line each. Include Mearsheimer and Barnes perspective where applicable; connection-derived option when MEM under analysis; continuation option. When another MIND has given analysis: include response option (X responds to Y—reframe). POST-BARNES: next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes. Categories: Ingestion, Exploration, Analysis, Synthesis, Transition, Observation.
+
+────────────────────────────────────────────────────────────
+XII. VERSIONING & GOVERNANCE
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XII)
+
+Additive upgrades only; no deletions. Phase changes and doctrine freezes require explicit authorization. File size management: CIV–SCHOLAR–PRUNING–PROTOCOL. Count tracking: see Section XXI (Current Status).
+
+────────────────────────────────────────────────────────────
+XIII. CONTEXT LOADING PROTOCOLS
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIII)
+
+CIV–ARC–ANGLIA loaded when writing GEO–MEM or content requiring civilizational quotes. CIV–DOCTRINE–ANGLIA loaded when analytical content or doctrine citation required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
+
+────────────────────────────────────────────────────────────
+XIV. SYNTHESIS TRADECRAFT
+────────────────────────────────────────────────────────────
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIV)
+
+Frozen SYNTHESIS entries require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. This file’s frozen syntheses (0002, 0003, 0010, 0013) comply. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
+
+────────────────────────────────────────────────────────────
+XV. INITIAL STATE
+────────────────────────────────────────────────────────────
+Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED. The Scholar learns only from MEM–ANGLIA files explicitly ingested. Absence of ingestion equals absence of belief.
+
+────────────────────────────────────────────────────────────
+XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 ────────────────────────────────────────────────────────────
 
 ENTRY 0001
@@ -157,7 +229,7 @@ Belief Status:
 • UNFROZEN
 
 ────────────────────────────────────────────────────────────
-IV. BELIEF SYNTHESIS LOG
+XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
 SYNTHESIS 0001 (0001–0002)
@@ -300,7 +372,7 @@ ASSUMPTIONS SUMMARY
 | 3 | Procedural continuity = survival criterion | M | Yes |
 
 ────────────────────────────────────────────────────────────
-V. DOCTRINE REGISTRY
+XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
 DOCTRINE v0.1 — “RUPTURE ABSORPTION THROUGH ELITE REPLACEMENT”
@@ -316,7 +388,7 @@ DOCTRINE v0.4 — “SEQUENCED SURVIVAL: FROM RUPTURE TO MEMORY”
 State: FROZEN · CANONICAL
 
 ────────────────────────────────────────────────────────────
-VI. SCHOLAR DIVERGENCE INDEX (SDI)
+XIX. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
 
 SDI ENTRY 0001
@@ -332,7 +404,7 @@ Result:
 • Francia resolves authority symbolically
 
 ────────────────────────────────────────────────────────────
-VII. GOVERNANCE & LOCK STATE
+XX. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
 Learning Enabled: NO
 Write Access: LOCKED
@@ -347,7 +419,7 @@ Permitted:
 • Counterfactual stress testing
 
 ────────────────────────────────────────────────────────────
-VIII. CURRENT STATUS
+XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (READ-ONLY)
 Doctrine Count: 5
@@ -356,14 +428,14 @@ Next Entry ID: 0019
 Awaiting Command: YES (UNLOCK REQUIRED)
 
 ────────────────────────────────────────────────────────────
-IX. CONTROLLED SYNTHESIS PROTOCOL
+XXII. CONTROLLED SYNTHESIS PROTOCOL
 ────────────────────────────────────────────────────────────
 Controlled synthesis permitted only by explicit authorization.
 No belief propagation.
 No doctrinal mutation.
 
 ────────────────────────────────────────────────────────────
-OGE — EMBEDDED SPECIFICATION (CIV–SCHOLAR–TEMPLATE XI.A)
+XI.A OGE — EMBEDDED SPECIFICATION (DETAIL)
 ────────────────────────────────────────────────────────────
 LEARN mode uses OGE (Option Generation Engine) to direct discovery.
 This specification is embedded per CIV–SCHOLAR–TEMPLATE v2.10 § XI.A.
@@ -388,7 +460,7 @@ OGE REQUIREMENTS (per CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL):
 LEARN OGE answers: "What would you like me to investigate next?"
 
 ────────────────────────────────────────────────────────────
-X. CANDIDATE BELIEF STAGING
+XXIII. CANDIDATE BELIEF STAGING
 ────────────────────────────────────────────────────────────
 
 CANDIDATE BELIEF 0001
@@ -401,7 +473,7 @@ Status:
 • STAGED · NON-BINDING
 
 ────────────────────────────────────────────────────────────
-XI. SCHOLAR → MEM AUTHORING INFLUENCE
+XXIV. SCHOLAR → MEM AUTHORING INFLUENCE
 ────────────────────────────────────────────────────────────
 Scholar influence is procedural only.
 
@@ -417,7 +489,7 @@ Forbidden:
 • Doctrine assertion
 
 ────────────────────────────────────────────────────────────
-XII. MEM AUTHORING GUIDANCE CLAUSES
+XXV. MEM AUTHORING GUIDANCE CLAUSES
 ────────────────────────────────────────────────────────────
 Anglia adopts MEM authoring guidance emphasizing:
 • Verbatim primary-source quotation
@@ -427,21 +499,16 @@ Anglia adopts MEM authoring guidance emphasizing:
 Scholar enforcement is advisory only.
 
 ────────────────────────────────────────────────────────────
-XIII. TEMPLATE INHERITANCE & CONSTRAINTS
+XXVI. TEMPLATE INHERITANCE & CONSTRAINTS
 ────────────────────────────────────────────────────────────
-This file conforms structurally and procedurally to
-CIV–SCHOLAR–TEMPLATE v2.10 (Phase I; legacy section map retained).
-
-No sections removed.
-No order altered.
-No authority expanded.
+This file conforms to CIV–SCHOLAR–TEMPLATE v2.10: sections I–XIV implement Template § I–XIV; sections XV–XXXIV retain ledger content (Initial State, Ingested Events, Synthesis Log, Doctrine Registry, SDI, Governance, Status, OGE detail, Candidate Belief, Authoring Influence, Versioning, Additive ledger, Lock). No sections removed. No authority expanded.
 
 ────────────────────────────────────────────────────────────
-XIV. VERSIONING & CANONICAL STATUS
+XXVII. VERSIONING & CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
-Compliance upgrade (2026-01-31): Assumptions Boxes added to SYNTHESIS 0002, 0003, 0010, 0013; Confidence tier added to each frozen SYNTHESIS; OGE specification embedded per CIV–SCHOLAR–TEMPLATE XI.A. See AUDIT–ANGLIA–CORE–SCHOLAR–TEMPLATES.md.
+v2.0 (2026-01-31): Template compliance; sections I–XIV added per CIV–SCHOLAR–TEMPLATE v2.10; ledger renumbered XV–XXXIV. Prior: Assumptions Boxes and Confidence tier on frozen syntheses; OGE embedded. See AUDIT–SCHOLAR–ANGLIA–TEMPLATE–PROTOCOL–2026–01–31.md.
 
 Future versions may:
 • Add entries
@@ -454,12 +521,12 @@ Future versions may NOT:
 • Retroactively edit beliefs
 
 ────────────────────────────────────────────────────────────
-XV. END STATE DECLARATION
+XXVIII. END STATE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–ANGLIA v1.0 is ACTIVE, WRITE-LOCKED, and procedurally compliant.
+CIV–SCHOLAR–ANGLIA v2.0 is ACTIVE, WRITE-LOCKED, and template-compliant.
 
 ────────────────────────────────────────────────────────────
-XVI. INGESTED LEARNING EVENTS (ADDITIVE)
+XXIX. INGESTED LEARNING EVENTS (ADDITIVE)
 ────────────────────────────────────────────────────────────
 
 ENTRY 0009
@@ -570,7 +637,7 @@ Belief Status:
 
 ENTRY 0018
 Source:
-• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.5
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.6
 Ingest Type:
 • War Memory / Channel Denial & Maritime Irreversibility
 Primary Belief Extracted:
@@ -583,7 +650,7 @@ Belief Status:
 • UNFROZEN
 
 ────────────────────────────────────────────────────────────
-XVII. BELIEF SYNTHESIS LOG (ADDITIVE)
+XXX. BELIEF SYNTHESIS LOG (ADDITIVE)
 ────────────────────────────────────────────────────────────
 
 SYNTHESIS 0011 (0009–0011)
@@ -707,14 +774,14 @@ Anglia's core intact; continental powers lose maritime option at
 the Channel.
 
 ────────────────────────────────────────────────────────────
-XVIII. DOCTRINE REGISTRY (ADDITIVE)
+XXXI. DOCTRINE REGISTRY (ADDITIVE)
 ────────────────────────────────────────────────────────────
 
 DOCTRINE v0.5 — “EXIT SUPERIORITY IN ANGLO CIVILIZATIONAL LOGIC”
 State: FROZEN · CANONICAL
 
 ────────────────────────────────────────────────────────────
-XIX. HEURISTIC RULE ENCODED
+XXXII. HEURISTIC RULE ENCODED
 ────────────────────────────────────────────────────────────
 
 HEURISTIC A–HYW–01
@@ -725,7 +792,7 @@ Status:
 • ACTIVE · NON-DOCTRINAL
 
 ────────────────────────────────────────────────────────────
-XX. SCHOLAR DIVERGENCE INDEX (ADDITIVE)
+XXXIII. SCHOLAR DIVERGENCE INDEX (ADDITIVE)
 ────────────────────────────────────────────────────────────
 
 SDI ENTRY 0003
@@ -770,7 +837,7 @@ was mission or impossibility. Grammar (where identity and structure
 are invested) determines who can afford to lose in which theater.
 
 ────────────────────────────────────────────────────────────
-XXI. LOCK CONFIRMATION
+XXXIV. LOCK CONFIRMATION
 ────────────────────────────────────────────────────────────
 Learning Enabled: NO
 Write Access: LOCKED
@@ -779,5 +846,5 @@ Synthesis: PROHIBITED
 Doctrine Mutation: PROHIBITED
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ANGLIA v1.0
+END OF FILE — CIV–SCHOLAR–ANGLIA v2.0
 ────────────────────────────────────────────────────────────

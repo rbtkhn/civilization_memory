@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–SMITH — v2.2
+MEM–ANGLIA–LIT–SMITH — v2.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · Bibliography section added
+Version: 2.4
+Supersedes: v2.3
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Adam Smith (Moral Sentiment, Markets, and Order Without Command)
 Dates: 1723–1790 AD
@@ -110,6 +110,14 @@ reduction to pure self-interest.
 
 Provenance Confidence: HIGH
 
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "Philosophy since Descartes, or at any rate since Locke, tends to embody the prejudices of the commercial middle class."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Part I, Ch. XII "Philosophical Liberalism" (ARC-T-MODERN) [ERC-SECONDARY]. Smith as key figure in liberal political economy and moral sentiment; CIV–ARC–ANGLIA v1.4.
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Smith linked moral sentiment and political economy: sympathy and the invisible hand together explain how order emerges without central design."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Smith and liberalism (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
 VI. ANTI-MERCANTILISM & RESTRAINT
 ────────────────────────────────────────────────────────────
@@ -212,7 +220,11 @@ Primary:
 • **Adam Smith**, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776) — "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest"; markets, order without command; [ERC-PRIMARY].
 • **Adam Smith**, *The Theory of Moral Sentiments* (1759) — Moral sentiment, convention, order through markets; [ERC-PRIMARY].
 
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Ch. XII "Philosophical Liberalism" — philosophy and commercial middle class; Smith in liberal tradition; CIV–ARC–ANGLIA v1.4.
+• **A.C. Grayling**, *The History of Philosophy* (London: Penguin Press, 2019) — Smith, moral sentiment, political economy, invisible hand; CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–SMITH — v2.2
+END OF FILE — MEM–ANGLIA–LIT–SMITH — v2.4
 Word Count: ~840
 ────────────────────────────────────────────────────────────

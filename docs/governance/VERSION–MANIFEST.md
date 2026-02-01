@@ -119,11 +119,11 @@ ANGLIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–SCHOLAR–ANGLIA          │ v1.0    │ Active        │
+│ CIV–SCHOLAR–ANGLIA          │ v2.0    │ Active        │
 │ CIV–INDEX–ANGLIA            │ v2.8    │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
-│ CIV–ARC–ANGLIA              │ v1.2    │ Active        │
+│ CIV–ARC–ANGLIA              │ v1.5    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -510,6 +510,17 @@ IV. VERSION HISTORY (RECENT)
 • MEM–ANGLIA–WAR–PONTIAC: v1.0 created (Anderson; post-Seven Years resistance, frontier liability)
 • CIV–INDEX–ANGLIA: v1.5 → v1.6 (Ohio Valley, Pontiac MEMs added to index)
 • VERSION–MANIFEST: ANGLIA table — CIV–INDEX–ANGLIA v1.5 → v1.6
+
+2026-01-31 (CIV–ARC–ANGLIA v1.5 — A.C. GRAYLING):
+• CIV–ARC–ANGLIA: v1.4 → v1.5 (A.C. Grayling, *The History of Philosophy* [2019]; *The God Argument* as applicable, added to ARC-T-MODERN)
+• CIV–CORE–ANGLIA, CIV–SCHOLAR–ANGLIA: ARC Reference CIV–ARC–ANGLIA v1.4 → v1.5
+• VERSION–MANIFEST: ANGLIA table — CIV–ARC–ANGLIA v1.4 → v1.5
+
+2026-01-31 (CIV–ARC–ANGLIA v1.4 — BERTRAND RUSSELL):
+• CIV–ARC–ANGLIA: v1.3 → v1.4 (Bertrand Russell, *A History of Western Philosophy*; *A Critical Exposition of the Philosophy of Leibniz* as applicable, added to ARC-T-MODERN)
+• CIV–CORE–ANGLIA, CIV–SCHOLAR–ANGLIA: ARC Reference CIV–ARC–ANGLIA v1.3 → v1.4
+• MEM–GERMANIA–SCI–LEIBNIZ: CONSULTED line aligned — Russell citation notes CIV–ARC–ANGLIA for *History of Western Philosophy*
+• VERSION–MANIFEST: ANGLIA table — CIV–ARC–ANGLIA v1.2 → v1.4
 
 2026-01-30 (CIV–ARC–ANGLIA v1.2 — FRED ANDERSON):
 • CIV–ARC–ANGLIA: v1.1 → v1.2 (Fred Anderson, *Crucible of War* added to ARC-T-MODERN)

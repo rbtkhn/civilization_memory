@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–HOBBES — v2.2
+MEM–ANGLIA–LIT–HOBBES — v2.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · Bibliography section added
+Version: 2.4
+Supersedes: v2.3
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Thomas Hobbes (Order Before Liberty & Fear as Foundation)
 Dates: 1588–1679 AD
@@ -105,6 +105,14 @@ self-destruction.
 
 Provenance Confidence: HIGH
 
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "The pacts and covenants by which 'Leviathan' is first created take the place of God's fiat when He said 'Let Us make man'."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Part I, Ch. VIII "Hobbes's Leviathan" (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Hobbes was a Royalist who fled the republican aftermath of the English Civil War, and who defended absolute monarchy."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Hobbes and *Leviathan* (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
 VI. ABSOLUTISM AS TEMPORARY NECESSITY
 ────────────────────────────────────────────────────────────
@@ -200,7 +208,10 @@ XI. PRIMARY SOURCES & REFERENCES
 Primary:
 • **Thomas Hobbes**, *Leviathan, or The Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil* (1651) — "Covenants, without the sword, are but words"; "The condition of man… is a condition of war of every one against every one"; order before liberty, indivisible authority; [ERC-PRIMARY].
 
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Ch. VIII "Hobbes's Leviathan" — creation of Leviathan by pact; sovereign as artificial mortal God; CIV–ARC–ANGLIA v1.4.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–HOBBES — v2.2
+END OF FILE — MEM–ANGLIA–LIT–HOBBES — v2.3
 Word Count: ~830
 ────────────────────────────────────────────────────────────

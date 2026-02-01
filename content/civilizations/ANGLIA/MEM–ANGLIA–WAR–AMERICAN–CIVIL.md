@@ -62,6 +62,17 @@ SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
 > "Grant wrote them out in a few sentences. The officers and men of the Army of Northern Virginia must surrender their arms and return on parole to their homes. ... Grant added, 'Your men must keep their horses and mules. They will need them for the spring ploughing.'"
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY].
 
+John Keegan, in *The American Civil War: A Military History* (2009),
+emphasizes geography and scale. He writes:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "The principal problem confronting the Federal government in its
+> effort to restore the union is that of distance."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+The war is fought over continental scale; procedure must be restored
+across that distance by force and logistics.
+
 ────────────────────────────────────────────────────────────
 IV. UNION WAR LOGIC & LEGITIMACY FRAME
 ────────────────────────────────────────────────────────────

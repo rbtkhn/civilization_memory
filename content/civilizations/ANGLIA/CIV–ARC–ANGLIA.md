@@ -1,11 +1,11 @@
-CIV–ARC–ANGLIA — v1.3
+CIV–ARC–ANGLIA — v1.11
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ANGLIA
 
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE (Will Durant added to ARC-T-MODERN)
+Version: 1.11
+Supersedes: v1.10
+Upgrade Type: ADDITIVE (David McCullough added to ARC-T-MODERN)
 Civilization: ANGLIA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–ANGLIA · CIV–SCHOLAR–ANGLIA
@@ -51,6 +51,14 @@ ARC-T-MODERN:
 • H.W. Brands (1956) — biographical and imperial history (as applicable)
 • Stephen E. Ambrose (1936–2002) — exploration, frontier, Lewis & Clark (as applicable)
 • Will Durant (1885–1981) — The Story of Civilization (with Ariel Durant); The Story of Philosophy (as applicable)
+• Bertrand Russell (1872–1970) — A History of Western Philosophy; A Critical Exposition of the Philosophy of Leibniz (as applicable)
+• A.C. Grayling (b. 1949) — The History of Philosophy (2019); The God Argument (as applicable)
+• John Sugden (b. 1947) — Nelson: A Dream of Glory, 1758–1797 (2005); Nelson: The Sword of Albion (2012)
+• Rory Muir (b. 1962) — Wellington: The Path to Victory, 1769–1814 (2013); Wellington: Waterloo and the Fortunes of Peace, 1814–1852 (2015)
+• Alan Taylor (b. 1955) — American Revolutions: A Continental History, 1750–1804 (2017); American Republics: A Continental History of the United States, 1783–1850 (2021); William Cooper's Town (1996); The Internal Enemy (2013); Thomas Jefferson's Education (2019) (as applicable)
+• John Murray — Alfred the Great: The Man Who Made England (London: John Murray, 2005)
+• Walter Isaacson (b. 1952) — Benjamin Franklin: An American Life (2003); Kissinger: A Biography (2023); other biographical works (as applicable)
+• David McCullough (1933–2022) — John Adams (2001); 1776 (2005); Truman (1992); Mornings on Horseback (1981); other biographical and historical works (as applicable)
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 
@@ -70,8 +78,8 @@ Expanded discovery does not add authors to this canon without an ARC version upg
 V. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v1.3)
-• CIV–SCHOLAR–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v1.3)
+• CIV–CORE–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v1.11)
+• CIV–SCHOLAR–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v1.11)
 
 ────────────────────────────────────────────────────────────
 VI. VERSION NOTE
@@ -80,7 +88,15 @@ v1.0 — Initial establishment (CIV–ARC–TEMPLATE v2.7). Churchill, Ferguson,
 v1.1 — (Reserved.)
 v1.2 — Fred Anderson added to ARC-T-MODERN (*Crucible of War*); Kissinger, Brands, Ambrose added (per MEM/proposal refs). 2026-01-30.
 v1.3 — Will Durant (1885–1981) added to ARC-T-MODERN (*The Story of Civilization*, *The Story of Philosophy*).
+v1.4 — Bertrand Russell (1872–1970) added to ARC-T-MODERN (*A History of Western Philosophy*; *A Critical Exposition of the Philosophy of Leibniz* as applicable). 2026-01-31.
+v1.5 — A.C. Grayling (b. 1949) added to ARC-T-MODERN (*The History of Philosophy* [2019]; *The God Argument* as applicable). 2026-01-31.
+v1.6 — John Sugden (b. 1947) added to ARC-T-MODERN (*Nelson: A Dream of Glory* [2005]; *Nelson: The Sword of Albion* [2012]). 2026-01-31.
+v1.7 — Rory Muir (b. 1962) added to ARC-T-MODERN (*Wellington: The Path to Victory, 1769–1814* [2013]; *Wellington: Waterloo and the Fortunes of Peace, 1814–1852* [2015]). 2026-01-31.
+v1.8 — Alan Taylor (b. 1955) added to ARC-T-MODERN (*American Revolutions* [2017]; *American Republics* [2021]; *William Cooper's Town* [1996]; *The Internal Enemy* [2013]; *Thomas Jefferson's Education* [2019] as applicable). 2026-01-31.
+v1.9 — John Murray added to ARC-T-MODERN (*Alfred the Great: The Man Who Made England* [London: John Murray, 2005]). 2026-01-31.
+v1.10 — Walter Isaacson (b. 1952) added to ARC-T-MODERN (*Benjamin Franklin: An American Life* [2003]; *Kissinger: A Biography* [2023]; other biographical works as applicable). 2026-01-31.
+v1.11 — David McCullough (1933–2022) added to ARC-T-MODERN (*John Adams* [2001]; *1776* [2005]; *Truman* [1992]; *Mornings on Horseback* [1981]; other biographical and historical works as applicable). 2026-01-31.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ANGLIA — v1.3
+END OF FILE — CIV–ARC–ANGLIA — v1.11
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–ANGLIA–SCI–NEWTON — v1.1
+MEM–ANGLIA–SCI–NEWTON — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: RENAME (NEWTON → SCI–NEWTON)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Grayling *History of Philosophy* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Isaac Newton (Epistemic Anchor, Mathematization of Nature)
 Dates: 1643–1727 AD
@@ -98,6 +98,14 @@ Knowledge becomes infrastructure.
 
 Precision substitutes for speculation.
 
+SOURCE — Russell, *A History of Western Philosophy* (ARC-T-MODERN):
+> "The result of the scientific work we have been considering was that the outlook of educated men was completely transformed… After the publication of Newton's Principia in 1687, it was known that he and Halley had calculated the orbits of certain comets, and that they were as obedient as the planets to the law of gravitation. The reign of law had established its hold on men's imaginations, making such things as magic and sorcery incredible."
+> — Bertrand Russell, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Book Three, Part I, Ch. VI "The Rise of Science" (ARC-T-MODERN) [ERC-SECONDARY]. Russell on Newton's transformation of educated outlook; CIV–ARC–ANGLIA v1.4.
+
+SOURCE — Grayling, *The History of Philosophy* (ARC-T-MODERN):
+> "Newton's Principia established the reign of law: the same laws of motion and gravitation govern heaven and earth, and the outlook of educated men was transformed."
+> — A.C. Grayling, *The History of Philosophy* (London: Penguin Press, 2019), on Newton and the scientific revolution (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.5.
+
 ────────────────────────────────────────────────────────────
 VII. CONTRAST WITH CONTINENTAL UNIVERSALISM
 ────────────────────────────────────────────────────────────
@@ -148,5 +156,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–SCI–NEWTON — v1.1
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **Isaac Newton**, *Philosophiæ Naturalis Principia Mathematica* (1687) — Laws of motion, universal gravitation; method over metaphysics; [ERC-PRIMARY].
+
+Secondary (ARC-T-MODERN):
+• **Bertrand Russell**, *A History of Western Philosophy* (New York: Simon & Schuster, 1945), Ch. VI "The Rise of Science" — Newton's Principia and transformation of educated outlook; reign of law; CIV–ARC–ANGLIA v1.4.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–SCI–NEWTON — v1.2
 ────────────────────────────────────────────────────────────

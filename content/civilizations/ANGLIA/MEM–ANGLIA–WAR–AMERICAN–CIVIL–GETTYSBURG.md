@@ -51,6 +51,17 @@ SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
 > "The spring of 1863 found the Army of the Potomac and the Army of Northern Virginia still facing each other across the Rappahannock."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 13 "Chancellorsville and Gettysburg" (ARC-T-MODERN) [ERC-SECONDARY].
 
+John Keegan, in *The American Civil War: A Military History* (2009),
+frames the Federal challenge in terms of geography:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "The principal problem confronting the Federal government in its
+> effort to restore the union is that of distance."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+Gettysburg occurs where Confederate offensive reach meets Union
+resistance; its symbolic weight exceeds its operational design.
+
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CHARACTER
 ────────────────────────────────────────────────────────────

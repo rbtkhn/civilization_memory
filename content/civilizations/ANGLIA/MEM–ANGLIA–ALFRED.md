@@ -1,10 +1,10 @@
-MEM–ANGLIA–ALFRED–WESSEX — v2.0
+MEM–ANGLIA–ALFRED–WESSEX — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.4
-Upgrade Type: ADDITIVE · Template v2.9 compliance (MEM CONNECTIONS, Bibliography, v2.0)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · John Murray *Alfred the Great* SOURCE (ARC-T-MODERN)
 Civilization: ANGLIA
 Regime / Mode: Anglo-Saxon Kingship
 Subject: Alfred of Wessex (Alfred the Great)
@@ -54,6 +54,10 @@ Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The 
 SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
 > "This sublime power to rise above the whole force of circumstances, to remain unbiased by the extremes of victory or defeat, to persevere in the teeth of disaster, to greet returning fortune with a cool eye, to have faith in men after repeated betrayals, raises Alfred far above the turmoil of barbaric wars to his pinnacle of deathless glory."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), ch. 7 "Alfred the Great" (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Murray, *Alfred the Great: The Man Who Made England* (ARC-T-MODERN):
+> "Alfred was a soldier, a scholar and statesman like no other in English history."
+> — John Murray, *Alfred the Great: The Man Who Made England* (London: John Murray, 2005) (ARC-T-MODERN) [ERC-SECONDARY]. CIV–ARC–ANGLIA v1.9.
 
 ────────────────────────────────────────────────────────────
 III. DEFENSE AS SYSTEM, NOT EPISODE (PRIMARY + SECONDARY)
@@ -264,6 +268,7 @@ Primary:
 
 Secondary (ARC-T-MODERN / ERC-SECONDARY):
 • Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), ch. 7 "Alfred the Great" — survival without victory; refusal to disappear.
+• John Murray, *Alfred the Great: The Man Who Made England* (London: John Murray, 2005) — soldier, scholar, statesman; survival and nation-building; CIV–ARC–ANGLIA v1.9.
 • William of Malmesbury, *Gesta Regum Anglorum* — kingship as stewardship.
 • John Keegan — defense as repeatable system; survival as standing condition.
 • Carroll Quigley — civilizational repair; knowledge transmission under contraction.
@@ -272,5 +277,5 @@ Secondary (ARC-T-MODERN / ERC-SECONDARY):
 • Andrew Roberts — kingship as caretaking under duress.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–ALFRED–WESSEX — v2.0
+END OF FILE — MEM–ANGLIA–ALFRED–WESSEX — v2.1
 ────────────────────────────────────────────────────────────
