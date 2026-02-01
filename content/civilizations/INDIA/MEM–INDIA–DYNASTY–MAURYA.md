@@ -1,10 +1,10 @@
-MEM–INDIA–DYNASTY–MAURYA — v2.0
+MEM–INDIA–DYNASTY–MAURYA — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · DEFECTION THEORY FRAMING (INVERSE)
 Civilization: INDIA
 Subject: Maurya Dynasty
 Dates: c. 322–185 BCAD
@@ -28,7 +28,7 @@ Contradictions are preserved without synthesis.
 II. FORMATION UNDER STRATEGIC PRESSURE
 ────────────────────────────────────────────────────────────
 The Mauryan state emerges from fragmentation following the
-Achaemenid and Macedonian incursions.
+Achaemenid and Macedonian incursions. Chandragupta’s consolidation is the inverse of the defection pattern: when the defender unifies, elite-defection entry (the Plassey-type) becomes far harder—unity resists procedural conquest.
 
 Chandragupta Maurya consolidates power through:
 • Military unification
@@ -111,7 +111,13 @@ VII. CONTINUITY INSIGHTS (RAW)
 Foundation laid, not frozen.
 
 ────────────────────────────────────────────────────────────
-VIII. EVIDENCE — ARC-T-MODERN (VERBATIM)
+VIII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–WAR–ALEXANDER — Limit of invader (force at distance, army refusal at Hyphasis); post-Alexander fragmentation enables Mauryan consolidation.
+• MEM–INDIA–WAR–CLIVE — Inverse: unity resists Plassey-type conquest; defection theory SYNTHESIS 0003.
+
+────────────────────────────────────────────────────────────
+IX. EVIDENCE — ARC-T-MODERN (VERBATIM)
 ────────────────────────────────────────────────────────────
 Ashoka, village constitution, and civilizational continuity are attested in modern synthesis as follows [ERC-SECONDARY].
 
@@ -130,5 +136,5 @@ IX. MEM BIBLIOGRAPHY
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–DYNASTY–MAURYA — v2.0
+END OF FILE — MEM–INDIA–DYNASTY–MAURYA — v2.1
 ────────────────────────────────────────────────────────────

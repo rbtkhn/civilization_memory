@@ -1,10 +1,10 @@
-MEM–PERSIA–XERXES — v1.0
+MEM–PERSIA–XERXES — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 2.0
+Upgrade Type: MAJOR · Greek wars arc, Alexander inversion, Herodotus expansion
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Xerxes I — Persian Encoding of the Greek Wars
@@ -31,6 +31,14 @@ For Persia, Xerxes represents **frontier expansion, not existential
 conflict**. The Greek wars are a western campaign; Thermopylae and
 Salamis matter more to Greek identity than to Persian imperial
 continuity.
+
+**Greek wars arc:** Ionian Revolt (499–493) → Marathon (490) → Thermopylae
+(480) → Salamis (480) → Plataea (479). Xerxes inherits Darius's unresolved
+Greek question; his campaign is continuity of policy, not rupture. Alexander
+(334–323) later **inverts** this dynamic: a Greek-led force penetrates Persia,
+conquers the heartland, and dissolves Achaemenid legitimacy. Xerxes failed
+to close the western loop; Alexander closed the eastern one. The encoding
+contrast is structural.
 
 Contradictions are preserved without synthesis.
 
@@ -93,6 +101,16 @@ If Marathon is minor, Thermopylae and Salamis—though larger—occupy
 a different place in Persian memory: frontier setbacks, not civilizational
 defeats. The empire survives; the Greek periphery remains contested.
 
+**Alexander inversion:** A century and a half later, Alexander the Great
+leads a Macedonian–Greek force east. Xerxes had marched into Greece and
+failed; Alexander marches into Persia and succeeds. The same terrain—Asia
+Minor, Syria, Mesopotamia—that Xerxes commanded becomes the corridor of
+Alexander's conquest. MEM–PERSIA–WAR–ALEXANDER encodes the reversal:
+tempo over mass, elite defection, legitimacy collapse. For Persian memory,
+Xerxes and Alexander bookend the Greek–Persian encounter—one failed to
+absorb Greece; one was absorbed by Persia's conqueror (who then failed
+to replace it).
+
 ────────────────────────────────────────────────────────────
 V. PERSIAN ENCODING — WHAT PERSIA REMEMBERS
 ────────────────────────────────────────────────────────────
@@ -145,10 +163,13 @@ VIII. FIGURE STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-PERSIA (same-civilization ≥10):
+PERSIA WAR corpus:
+• MEM–PERSIA–WAR–MARATHON — Darius's setback; Xerxes inherits
+• MEM–PERSIA–WAR–THERMOPYLAE — Xerxes' tactical victory; pass forced
+• MEM–PERSIA–WAR–ALEXANDER — Alexander inverts Xerxes; Greek penetrates Persia
+• MEM–PERSIA–IONIAN–REVOLT — causal chain; Greek question origin
+Other PERSIA:
 • MEM–PERSIA–DARIUS–I — father; inherits Greek frontier
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Xerxes as high-empire ruler
-• MEM–PERSIA–WAR–ALEXANDER — Greek–Persian interface; Alexander inverts Xerxes
 • MEM–PERSIA–PERSEPOLIS — Xerxes completes construction
 • MEM–PERSIA–EGYPT — revolt at accession; satrapy
 • MEM–PERSIA–CYRUS–I — integrative precedent (Xerxes departs at Greece)
@@ -180,5 +201,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–XERXES
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–XERXES — v1.0
+END OF FILE — MEM–PERSIA–XERXES — v2.0
 ────────────────────────────────────────────────────────────

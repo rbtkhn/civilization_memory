@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–SCYTHIAN — v1.0
+MEM–PERSIA–WAR–SCYTHIAN — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 2.0
+Upgrade Type: MAJOR · Denial-doctrine lineage, Mearsheimer structural, Layer 2
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Darius's Scythian Expedition — Northern Limits, Nomadic Denial
@@ -79,17 +79,31 @@ Persia learns: the north resists absorption.
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+PERSIA WAR corpus:
+• MEM–PERSIA–WAR–CARRHAE — nomadic and Parthian denial; cavalry mobility; denial doctrine precedent
+• MEM–PERSIA–WAR–ALEXANDER — contrast: tempo defeats Persia vs Scythians defeat Darius
+Other:
 • MEM–PERSIA–DARIUS–I — expedition under Darius
-• MEM–PERSIA–WAR–CARRHAE — Parthian denial; cavalry mobility
 • MEM–PERSIA–GEO–CASPIAN — northern frontier; Scythian geography
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial limits
 
 ────────────────────────────────────────────────────────────
-VI. BIBLIOGRAPHY
+VII. WAR STRUCTURED DATA (LAYER 2)
+────────────────────────────────────────────────────────────
+| Field | Value |
+|-------|-------|
+| Belligerents | Achaemenid Persia (Darius I) vs Scythian confederation |
+| Classification | Imperial punitive expedition; nomadic denial |
+| Outcome | Persian strategic failure; Scythian refusal of decisive engagement |
+| Force Ratios | Persian: large army, supply-dependent; Scythian: mobile, refuse battle |
+| Casualties | Light; no major engagement |
+
+────────────────────────────────────────────────────────────
+VIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, IV.1–144 — Scythian campaign
 • Pierre Briant, *From Cyrus to Alexander* — Darius's northern policy
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–SCYTHIAN — v1.0
+END OF FILE — MEM–PERSIA–WAR–SCYTHIAN — v2.0
 ────────────────────────────────────────────────────────────

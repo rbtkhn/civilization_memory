@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.4
+Upgrade Type: ADDITIVE · MEM CONNECTIONS (WAR corpus integration)
 Civilization: PERSIA
 Subject: Macedonian Conquest under Alexander the Great
 Dates: 334–323 BC
@@ -39,6 +39,17 @@ The "Persian version" of history differs from the Hellenic narrative that
 dominates Western memory. Alexander's conquest must be read against that
 encoding divergence.
 
+Adrian Goldsworthy situates Alexander's conquest as the horizon for later
+Roman–Persian rivalry:
+
+> "This was the region Alexander the Great had swept through, creating a
+> dream of glory and conquest that tantalized Greeks and Romans alike."  
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023)
+
+Alexander's sweep defines the terrain—and the ambition—that Rome and
+Persia will contest for seven centuries. The conquest is not merely an
+event; it becomes the **template of imperial aspiration**.
+
 On the eve of invasion, Persia possessed:
 
 • Continental-scale administration
@@ -58,7 +69,15 @@ The system was optimized for stability, not shock.
 ────────────────────────────────────────────────────────────
 III. ALEXANDER’S METHOD: TEMPO OVER MASS
 ────────────────────────────────────────────────────────────
-Alexander’s advantage was **speed, not scale**.
+Alexander’s advantage was **speed, not scale**. Pierre Briant (*Darius in the Shadow of Alexander*)
+argues that Darius III adhered to a coherent strategy—terrain selection,
+full mobilization, decisive battle on favorable terms—and faced an
+exceptional opponent. Strategic failure does not imply strategic
+incompetence. The structural reading: Darius had rational plans; Alexander
+possessed a **tempo advantage** that let him concentrate force faster and
+exploit king-centered legitimacy before Persian depth could tell. Power
+distribution and organizational velocity, not character, explain the
+outcome. MEM–PERSIA–EMPIRE–DARIUS–III encodes the unified assessment.
 
 Key features:
 • Rapid decisive engagements
@@ -156,10 +175,29 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+PERSIA WAR corpus (sibling integration):
+• MEM–PERSIA–WAR–MARATHON — encoding divergence; Llewellyn-Jones; Greek wars precedent
+• MEM–PERSIA–WAR–THERMOPYLAE — Xerxes' campaign; Alexander inverts Greek–Persian dynamic
+• MEM–PERSIA–WAR–CARRHAE — prior conquest trauma; Carrhae as Persian reversal; denial vs tempo
+• MEM–PERSIA–WAR–SCYTHIAN — contrast: tempo (Alexander) vs nomadic denial (Scythians); northern limits
+• MEM–PERSIA–WAR–ROME — Goldsworthy: region Alexander swept through; seven-century contest
+• MEM–PERSIA–EMPIRE–DARIUS–III — unified Briant + structural tempo; Darius as opponent
+• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; system optimized for stability
+• MEM–PERSIA–PERSEPOLIS — Alexander burns 330 BC
+• MEM–PERSIA–EGYPT — Alexander takes Egypt 332 BC
+• MEM–PERSIA–GEO–PERSIAN–GULF — Nearchus voyage
+
+Breaks if removed: MEM–PERSIA–EMPIRE–DARIUS–III (opponent); MEM–PERSIA–WAR–ROME (successor conflict over same terrain).
+
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Adrian Goldsworthy, *Rome and Persia* (2023); *Philip and Alexander* (2020) — Alexander as horizon; Philip's armies
+• Pierre Briant, *Darius in the Shadow of Alexander* — coherent strategy, exceptional opponent; structural tempo vs character
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Persian encoding, Marathon; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.1
+END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.3
 ────────────────────────────────────────────────────────────

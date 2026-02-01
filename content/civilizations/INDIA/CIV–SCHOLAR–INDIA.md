@@ -199,6 +199,49 @@ Belief Status:
 Note:
 • CIV–ARC–INDIA v1.1: Durant and Ferguson in ARC-T-MODERN. Canonical use in India MEMs permitted per ARC.
 
+ENTRY 0005
+Source:
+• Research: John Keegan (1934–2012) — The Mask of Command (1987); SCHOLAR LEARN (Goldsworthy, Everitt, Keegan on Alexander in India)
+Ingest Type:
+• Research — Command-as-performance framing for MEM–INDIA–WAR–ALEXANDER
+Primary Belief Extracted:
+• Keegan’s *The Mask of Command* frames Alexander as “archetypal hero” and command as performance (“mask of command”); generalship as “cultural enterprise.” India/Hydaspes not treated in detail; Alexander’s Indian terminus (mutiny at Hyphasis, withdrawal) can be read as the limit of that style of leadership. Keegan is **not** added to ARC–INDIA; documented for optional methodological/civilization-contrast use in MEM–INDIA–WAR–ALEXANDER (command-as-performance framing; limit of the mask at Hyphasis). Ref: docs/governance/RESEARCH–KEEGAN–ALEXANDER–INDIA–COMMAND–FRAMING.md.
+Belief Status:
+• UNFROZEN
+Note:
+• Option C (OGE): Use Keegan for framing only; no ARC–INDIA addition.
+
+ENTRY 0006
+Source:
+• MEM–INDIA–WAR–ALEXANDER (v2.0), MEM–INDIA–WAR–CLIVE (v2.1)
+Ingest Type:
+• Integration — All India WAR MEMs (VI. War & external shocks)
+Primary Belief Extracted:
+• **Shared pattern:** Both encode loss or limit **not as military defeat in the field** but as **mechanism failure**. Alexander: invader’s mechanism fails (army refusal at Hyphasis); exposure on commander. Clive: defender’s mechanism fails (elite defection, political fragmentation); exposure on indigenous polity. Same question—who was exposed when the mechanism failed—opposite answers.
+• **Shared pattern:** Limited force at the edge—Alexander: tactical superiority, “victory at edges, not core”; Clive: “limited European manpower,” “financial leverage,” “Battle of Plassey decisive psychologically, not militarily.” Both: conquest or entry achieved by means other than decisive field victory over a unified defender.
+• **Shared pattern:** Fragmentation as condition—Alexander encounters “fragmented Indian polities”; Clive exploits “Mughal decline, regional rivalry, absence of unified command.” In Alexander’s case the limit is the invader’s instrument (army stops); in Clive’s case the limit is the defender’s cohesion (elite defection).
+• **Shared pattern:** Civilizational endurance preserved—Alexander: “India defeats invasion without decisive battle,” “Greek presence transient,” “Mauryan consolidation follows”; Clive: “Civilizational endurance delayed, not destroyed,” “Endurance resumes only after unity restoration.” Both MEMs preserve India’s depth/continuity; one as depth that stops the invader, one as endurance delayed by procedural domination.
+• **Chronological arc:** Alexander (327–325 BC) → first failed universalist intrusion; Clive (1757–1764) → decisive loss to corporate–procedural conquest. Two modes of limit: (1) invader’s mechanism fails; (2) defender’s mechanism fails.
+Belief Status:
+• UNFROZEN
+Note:
+• MEM–INDIA–WAR–CLIVE already links to MEM–INDIA–WAR–ALEXANDER in MEM CONNECTIONS (opposite locus of mechanism failure). No other India WAR MEMs present; CIV–INDEX lists WAR–ALEXANDER, WAR–CLIVE; candidate WAR–1962–CHINA in Forward Extension.
+
+ENTRY 0007
+Source:
+• docs/governance/RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY.md; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE
+Ingest Type:
+• Research — Indian military history evidence for defection theory (Mearsheimer structural lens)
+Primary Belief Extracted:
+• **Support (defender elite defection / fragmentation):** First Panipat (1526)—Lodi nobility invited Babur; defender’s mechanism failed before battle. Anglo-Maratha Wars—Maratha princes rarely unified; British exploited fragmentation and subsidiary alliances. Anglo-Sikh Wars—post–Ranjit Singh factional conflict; British prevailed after hard fighting. All fit Plassey-type: fragmentation → defender’s elites defect or fail to coordinate.
+• **Support (force at distance / invader limit):** Ghaznavid return from Somnath (1026)—hardship in Sind, Jat harassment, protracted withdrawal; only Punjab held long term. Fits Hyphasis-type: force at distance and depth resistance as structural limit.
+• **Extension (third defection type):** 1857 Rebellion—British dependence on Indian troops (~135k sepoys vs ~24k European in Bengal Army); sepoy defection *against* the invader. Invader’s local proxy force defects; exposure on imperial mechanism. Three types: (1) invader’s army at edge refuses advance (Hyphasis), (2) defender’s elites defect to invader (Plassey, Panipat), (3) invader’s local army defects against invader (1857).
+• **Inverse:** Mauryan consolidation post-Alexander—Chandragupta unified fragmented polities; when defender unifies, Plassey-type entry is harder. No contradictions found; Anglo-Sikh had heavy fighting—fragmentation as condition, not guarantee of bloodless victory.
+Belief Status:
+• UNFROZEN
+Note:
+• Ref: RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY. Optional: add sentence to MEM–INDIA–WAR–CLIVE § VII or SYNTHESIS extending to Panipat, Anglo-Maratha, Anglo-Sikh, 1857; or propose MEM–INDIA–WAR–1857 (invader’s-proxy-defection type).
+
 ────────────────────────────────────────────────────────────
 ENTRY format (Template § XI.B):
   ENTRY ####
@@ -230,6 +273,45 @@ Verdict: TENSION PRESERVED. Origin (Indus) can be lost; permanence (Ganges) cann
 ────────────────────────────────────────────────────────────
 SYNTHESIS format (Template § XI.C): SYNTHESIS #### — [Title]; Source: ENTRY ####; Assumptions; Confidence: UNBINDING (Phase I); Tension Record / Verdict.
 
+SYNTHESIS 0002 — INDIA WAR MEMs: MECHANISM FAILURE AND EXPOSURE
+Source: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE)
+Assumptions: (1) Both WAR MEMs encode limit via mechanism failure, not decisive field defeat; (2) locus of failure is opposite—invader (Alexander) vs. defender (Clive); (3) civilizational endurance is preserved in both; (4) synthesis preserves tension; no closure.
+Confidence: UNBINDING (Phase I)
+
+Tension Record:
+| Axis | WAR–ALEXANDER | WAR–CLIVE |
+|------|----------------|-----------|
+| Mechanism that fails | Invader’s (army refusal at Hyphasis) | Defender’s (elite defection, political fragmentation) |
+| Who is exposed | Commander (Alexander) | Indigenous polity (Nawab, elites) |
+| Mode of entry/limit | Depth defeats speed; victory at edges, not core | Contracts, not cannons; Plassey decisive psychologically |
+| Civilizational outcome | No overwrite; Mauryan consolidation follows | Endurance delayed, not destroyed; unity restoration later |
+| Pattern | First failed universalist intrusion | Fragmentation enables capture; internal disunity invites procedural domination |
+
+Integration: The India WAR MEMs, taken together, encode **two modes of limit**—invader’s mechanism fails vs. defender’s mechanism fails—and the same question (who was exposed when the mechanism failed) with opposite answers. Chronological arc: Alexander → Clive spans first external probe turned back and first “success” by corporate–procedural conquest; both preserve India’s civilizational endurance as intact or delayed, not erased.
+
+Verdict: TENSION PRESERVED. Two modes of limit; opposite locus of exposure; no resolution—dual pattern stands.
+
+SYNTHESIS 0003 — INDIAN MILITARY HISTORY: THREE DEFECTION TYPES
+Source: ENTRY 0007 (RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE)
+Assumptions: (1) ENTRY 0007 evidence extends SYNTHESIS 0002 / RLL–INDIA–0002 without contradicting; (2) third defection type (invader’s proxy defects) is additive; (3) synthesis is constraint-oriented—tension preserved, no closure.
+Confidence: UNBINDING (Phase I)
+Link: Extends RLL–INDIA–0002 (two modes of limit) with external historical evidence and third type.
+
+Tension Record:
+| Defection type | Locus | Condition | Example(s) |
+|----------------|-------|-----------|------------|
+| 1. Invader at edge | Invader’s army | Force at distance | Hyphasis (326 BC); Ghaznavid return Somnath (1026) |
+| 2. Defender elites | Defender’s polity | Fragmentation | Plassey (1757), Panipat (1526), Anglo-Maratha, Anglo-Sikh |
+| 3. Invader’s proxy | Invader’s local force | Dependence on proxy | 1857 Rebellion (sepoy mutiny) |
+
+Supporting evidence: Panipat, Anglo-Maratha, Anglo-Sikh → defender elite defection. Ghaznavid return → force at distance / depth resistance. 1857 → invader’s proxy defection; post-1857 British reorganization = recognition of defection risk. Inverse: Mauryan consolidation = unity resists Plassey-type entry.
+
+Mercouris reframe (legitimacy and civilizational encoding): Defection is not only a structural category but a legitimacy question—how a given society encodes the act (as betrayal or as resistance) depends on whose authority is taken as legitimate and whose institutional continuity is being preserved. At Hyphasis the army’s refusal is remembered as the limit of the commander’s reach; at Plassey elite defection is remembered as the failure of the defender’s cohesion; in 1857 sepoy mutiny is encoded as resistance by those who claim the mantle of independence and as betrayal by the imperial narrative. The same structural locus (who defected, when) carries different civilizational weight depending on which continuity is asserted. That tension is preserved here; no resolution.
+
+Barnes reframe (jurisdiction and liability): One issue is who was exposed when the sepoys mutinied. The mechanism that failed was the invader’s—British rule depended on Indian troops; when those troops defected, the exposure fell on the Company and then the Crown. Who had compulsory authority over the sepoy force? Who faced personal liability when the mechanism failed? The Company had raised and deployed the army; after 1857 the Crown took over—in effect, jurisdiction shifted because the Company had been the one on the hook when the proxy force turned. The second issue is who bore the cost: Indian civilians and mutineers paid in repression and reprisal; British reorganized to reduce dependence on a single mass sepoy force (Sikhs, Gurkhas, ratio shift). So when the invader’s proxy defects, the invader’s chain of command is exposed—and somebody has to own the liability. That’s the reality of it.
+
+Verdict: TENSION PRESERVED. Three defection types stand; RLL–INDIA–0002 remains two-mode (invader vs. defender mechanism fails); SYNTHESIS 0003 adds third type and external evidence. No resolution—pattern extended, not replaced.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
@@ -251,6 +333,19 @@ Statement: Loss of origin basin (Indus) is survivable without civilizational red
 
 Derivation: ENTRY 0001 (MEM–INDIA–GEO–INDUS), ENTRY 0002 (MEM–INDIA–GEO–GANGES), SYNTHESIS 0001; Mearsheimer sharpening (control, survivability chokepoint); Barnes catalyst (who pays for severance; who benefits from basin control).
 **Cross-frame derivation**: Mercouris (origin vs permanence); Mearsheimer (strategic geometry, control); Barnes (liability chain).
+
+Binding: Requires explicit user authorization and Phase II activation. Not enforceable until bound.
+
+RLL–INDIA–0002 (PROPOSED; NOT BOUND)
+Scope: INDIA; WAR MEMs and mechanism-failure / exposure analysis
+Constraint type: Structural pattern (two modes of limit)
+Activation trigger: When assessing India WAR MEMs or when interpreting "who was exposed when the mechanism failed" in external-probe or conquest narratives
+Affected file classes: MEM–INDIA–WAR–*, CIV–CORE–INDIA (diagnostic context)
+
+Statement: India WAR limit encodes two modes—invader's mechanism fails (exposure on commander) or defender's mechanism fails (exposure on indigenous polity); same question (who was exposed when the mechanism failed), opposite answers. Invader's mechanism fails: army refusal, limit at Hyphasis; exposure on Alexander. Defender's mechanism fails: elite defection, political fragmentation; exposure on Nawab/elites. Civilizational endurance preserved in both (intact or delayed, not erased). Extension: invader's local proxy force may defect against the invader (e.g. 1857 Rebellion); exposure then falls on the imperial mechanism. Three defection types—invader at edge, defender elites, invader's proxy—see SYNTHESIS 0003.
+
+Derivation: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE), SYNTHESIS 0002; ENTRY 0007, SYNTHESIS 0003 (three defection types; Indian military history evidence). Mearsheimer sharpening (structural limit, force at distance, defection incentive); Mercouris (legitimacy of withdrawal, civilizational encoding); Barnes catalyst (who is exposed when mechanism fails; jurisdiction, liability; 1857: jurisdiction shift, who was on the hook when proxy defected).
+**Cross-frame derivation**: Mercouris (two modes of limit; civilizational endurance); Mearsheimer (structural limit, incentive structure); Barnes (exposure, mechanism failure).
 
 Binding: Requires explicit user authorization and Phase II activation. Not enforceable until bound.
 
@@ -288,11 +383,11 @@ XXI. CURRENT STATUS (COUNT TRACKING)
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XII count tracking)
 
 Current counts:
-• Learning entries: 4
+• Learning entries: 7
 • Frozen syntheses: 0
 • Bound RLLs: 0
-• Proposed RLLs pending: 1 (RLL–INDIA–0001)
-• Non-binding syntheses recorded: 1
+• Proposed RLLs pending: 2 (RLL–INDIA–0001, RLL–INDIA–0002)
+• Non-binding syntheses recorded: 3
 
 Update with each additive upgrade.
 

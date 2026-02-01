@@ -1,6 +1,10 @@
-MEM–INDIA–WAR–ALEXANDER — v2.0
+MEM–INDIA–WAR–ALEXANDER — v2.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: STRUCTURAL/DEFECTION LAYER; MEM CONNECTIONS (defection theory, Ghaznavid)
 Civilization: INDIA
 Subject: Alexander’s Invasion of the Subcontinent
 Dates: 327–325 BC
@@ -57,11 +61,19 @@ V. CONTINUITY INSIGHTS (RAW)
 • Fragmentation invites entry; absorption defeats exit.
 • External victories do not equal civilizational control.
 • Alexander marks the first failed universalist intrusion.
+• Structural (defection at edge): at Hyphasis the invader’s mechanism fails—force at distance binds; army defection exposes the commander; depth resistance is the structural limit. Parallel: Ghaznavid return from Somnath (1026)—hardship, local resistance, protracted withdrawal; only Punjab held long term.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VI. EVIDENCE — ARC-T-ANCIENT (Cross-ARC: Herodotus, ARC–PERSIA-T-ANCIENT)
+VI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–WAR–CLIVE — Compare: opposite locus of mechanism failure. Alexander: invader’s mechanism fails (army refusal at Hyphasis); Clive: defender’s mechanism fails (elite defection). Same question—who was exposed when the mechanism failed—opposite answers.
+• Defection theory — Force at distance / invader-at-edge type; see CIV–SCHOLAR–INDIA SYNTHESIS 0003, RLL–INDIA–0002.
+• Ghaznavid return (1026) — Parallel limit: force at distance, depth resistance; no army mutiny but same structural condition.
+
+────────────────────────────────────────────────────────────
+VII. EVIDENCE — ARC-T-ANCIENT (Cross-ARC: Herodotus, ARC–PERSIA-T-ANCIENT)
 ────────────────────────────────────────────────────────────
 Northwest India under Achaemenid rule—the context Alexander encounters—is attested in Herodotus [ERC-PRIMARY]. Per CIV–ARC–TEMPLATE § V-A, India TSP MEMs may cite ARC–PERSIA with explicit declaration.
 
@@ -72,10 +84,10 @@ Northwest India under Achaemenid rule—the context Alexander encounters—is at
 > — Herodotus, *Histories*, IV.44 (ARC–PERSIA-T-ANCIENT)
 
 ────────────────────────────────────────────────────────────
-VII. MEM BIBLIOGRAPHY
+VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, III.94, IV.44 (trans. A.D. Godley) — India satrapy, Scylax/Indus (ARC–PERSIA-T-ANCIENT)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–WAR–ALEXANDER — v2.0
+END OF FILE — MEM–INDIA–WAR–ALEXANDER — v2.1
 ────────────────────────────────────────────────────────────

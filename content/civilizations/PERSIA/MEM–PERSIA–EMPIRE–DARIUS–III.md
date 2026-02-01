@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · Briant coherent strategy + Mearsheimer structural tempo
 Civilization: PERSIA
 Regime: ACHAEMENID (TERMINAL)
 Subject: Darius III — Last King of Kings; Persian Encoding of Defeat
@@ -109,6 +109,22 @@ Pierre Briant frames the structural failure:
 > logical endpoint."  
 > — Pierre Briant, *From Cyrus to Alexander*
 
+In *Darius in the Shadow of Alexander*, Briant rehabilitates Darius's
+strategic competence: he had dynastic legitimacy, prepared well for
+confrontation, and "adhered to a coherent strategy—unfortunately
+unsuccessful—in coping with an exceptional opponent." Strategic failure
+does not imply strategic incompetence. Gaugamela shows the logic: Darius
+chose terrain favoring cavalry and chariots, assembled the full imperial
+army, and sought decisive battle on terms that exploited Persian numerical
+advantage. The plan was rational. It failed because Alexander possessed
+a **structural tempo advantage**—the ability to concentrate force faster,
+strike the center, and force collapse before Persian depth could tell.
+Power distribution, not character, explains the outcome. Darius's flight
+was rational once the center broke; staying would have meant capture.
+The Mearsheimer reading: coherent strategy met an opponent who could
+exploit the structural vulnerabilities of king-centered legitimacy faster
+than Persia could mobilize its material advantage.
+
 ────────────────────────────────────────────────────────────
 VI. PERSIAN ENCODING — WHAT PERSIA REMEMBERS
 ────────────────────────────────────────────────────────────
@@ -128,6 +144,8 @@ story. Darius is the foil.
 VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Darius III inherits a divided court and an incoming invasion.
+• Briant: coherent strategy, exceptional opponent; failure ≠ incompetence.
+• Structural tempo advantage (Alexander) vs material depth (Persia); power distribution, not character.
 • His flights at Issus and Gaugamela trigger legitimacy collapse.
 • Belief collapses when the king leaves the field; institutional continuity fails.
 • Bessus's betrayal marks the fragmentation of Achaemenid loyalty.
@@ -144,7 +162,7 @@ VIII. FIGURE STRUCTURED DATA (LAYER 2)
 | DEATH | 330 BC (murdered by Bessus) |
 | PRIMARY_ROLE | Statesman / Military |
 | CAREER | Accession 336; Issus 333 (fled); Gaugamela 331 (fled); flight to Bactria; betrayed by Bessus 330 |
-| KEY_DECISIONS | Refused to stand at Issus/Gaugamela; flight as pattern |
+| KEY_DECISIONS | Coherent strategy (terrain, mobilization); flight when center broke; structural tempo mismatch |
 | INFLUENCE_DOMAIN | Legitimacy collapse; terminal Achaemenid |
 | LEGACY_STATUS | Reviled (Greek sources); foil to Alexander |
 
@@ -152,7 +170,7 @@ VIII. FIGURE STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–WAR–ALEXANDER — Alexander defeats Darius; conquest narrative
+• MEM–PERSIA–WAR–ALEXANDER — Alexander defeats Darius; conquest narrative; unified Briant + structural tempo assessment
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Darius as terminal ruler
 • MEM–PERSIA–DARIUS–I — contrast: systematizer vs terminal king
 • MEM–PERSIA–XERXES — high-empire contrast
@@ -178,7 +196,7 @@ X. BIBLIOGRAPHY
 • Arrian, *Anabasis of Alexander* — Issus, Gaugamela, Darius's death
 • Plutarch, *Life of Alexander* — court, character
 • Diodorus Siculus, *Bibliotheca historica* — campaign narrative
-• Pierre Briant, *From Cyrus to Alexander*; *Darius in the Shadow of Alexander*
+• Pierre Briant, *From Cyrus to Alexander* — legitimacy collapse; *Darius in the Shadow of Alexander* — coherent strategy, exceptional opponent, source-critical rehabilitation
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
 • A.T. Olmstead, *History of the Persian Empire* (1948)
 
@@ -189,5 +207,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–DARIUS–III
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–DARIUS–III — v1.0
+END OF FILE — MEM–PERSIA–EMPIRE–DARIUS–III — v1.1
 ────────────────────────────────────────────────────────────

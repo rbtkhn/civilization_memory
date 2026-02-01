@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · Tacitus integration (cross-ARC)
+Version: 1.3
+Upgrade Type: ADDITIVE · WAR corpus integration
 Civilization: PERSIA
 Regime: PARTHIAN (ARSACID)
 Subject: Battle of Carrhae as Archetypal Persian Denial Victory
@@ -143,10 +143,12 @@ denial.
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-PERSIA (same-civilization ≥10):
+PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ROME — parent conflict; Carrhae as founding battle
-• MEM–PERSIA–DYNASTY–SASANIAN — Sasanians inherit Parthian denial doctrine
 • MEM–PERSIA–WAR–ALEXANDER — prior conquest trauma; Carrhae as reversal
+• MEM–PERSIA–WAR–SCYTHIAN — denial precedent (Scythians vs Darius); nomadic resistance
+Other PERSIA:
+• MEM–PERSIA–DYNASTY–SASANIAN — Sasanians inherit Parthian denial doctrine
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial continuity
 • MEM–PERSIA–ZOROASTER — endurance as moral duty
 • MEM–PERSIA–CYRUS–I — sovereignty through restraint
@@ -192,5 +194,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–WAR–CARRHAE
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.2
+END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.3
 ────────────────────────────────────────────────────────────

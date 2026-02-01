@@ -1,9 +1,9 @@
-MEM–PERSIA–GEO–CASPIAN — v1.0
+MEM–PERSIA–GEO–CASPIAN — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Herodotus integration
+Version: 2.0
+Upgrade Type: MAJOR · Scythian expedition integration, WAR–SCYTHIAN link, Layer 2
 Civilization: PERSIA
 Subject: Caspian Sea System
 Dates: Ancient era–present
@@ -35,7 +35,17 @@ Herodotus defines the Caspian as the northern boundary of Asia:
 > — Herodotus, *Histories*, IV.40
 
 The Caspian structures the limits of the known world. Persia's
- northern frontier runs along it; the sea is containment, not passage.
+northern frontier runs along it; the sea is containment, not passage.
+
+**Scythian expedition context:** Darius's campaign (c. 513–512 BC) against
+the Scythians—crossing the Bosporus and Danube—defines the northern limit
+of Persian reach. The Caspian marks the eastern extent of that frontier:
+beyond it, steppe and nomadic space resist imperial logic. MEM–PERSIA–WAR–SCYTHIAN
+encodes the lesson: the Scythians refused battle, burned the land, and
+forced Darius's retreat. The northern frontier—Caspian littoral and steppe
+beyond—operates by different rules than Mesopotamia or the Levant. Nomadic
+denial defeats conventional invasion; the Caspian basin is the geographic
+hinge where Persian containment meets steppe resistance.
 
 ────────────────────────────────────────────────────────────
 III. CLOSED-SEA GEOGRAPHY & STRATEGIC LOGIC
@@ -82,7 +92,7 @@ Energy here is **defensive capital**, not export glamour.
 Control over routing outweighs production volume.
 
 ────────────────────────────────────────────────────────────
-V. LEGAL–SOVEREIGNTY CONTESTATION
+VI. LEGAL–SOVEREIGNTY CONTESTATION
 ────────────────────────────────────────────────────────────
 The Caspian’s status is permanently contested.
 
@@ -115,7 +125,7 @@ The Caspian is secured quietly.
 Visibility is minimized.
 
 ────────────────────────────────────────────────────────────
-VII. CASPIAN AS COMPRESSION RELIEF VALVE
+VIII. CASPIAN AS COMPRESSION RELIEF VALVE
 ────────────────────────────────────────────────────────────
 Under sanctions and siege conditions, the Caspian provides:
 

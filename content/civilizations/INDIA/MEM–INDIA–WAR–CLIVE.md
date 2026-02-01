@@ -1,10 +1,10 @@
-MEM–INDIA–WAR–CLIVE — v2.1
+MEM–INDIA–WAR–CLIVE — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN) · DEFECTION THEORY STRUCTURAL CONNECTIONS
 Civilization: INDIA
 Subject: Clive & the East India Company Conquest
 Dates: 1757–1764 AD
@@ -41,7 +41,7 @@ British success depends on:
 India collapses politically before collapsing militarily.
 
 ────────────────────────────────────────────────────────────
-IV. CIVILIZATIONAL CONSEQUENAD
+IV. CIVILIZATIONAL CONSEQUENCE
 ────────────────────────────────────────────────────────────
 Outcomes:
 • Extraction replaces administration
@@ -83,12 +83,27 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VII. MEM BIBLIOGRAPHY
+VII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–WAR–ALEXANDER — Compare: opposite locus of mechanism failure. Alexander: invader’s mechanism fails (army refusal at Hyphasis); exposure on commander. Clive: defender’s mechanism fails (elite defection, political fragmentation); exposure on indigenous polity. Same question—who was exposed when the mechanism failed—opposite answers.
+• MEM–INDIA–BRITISH–EMPIRE — Company-to-Crown; procedural–extractive overlay; Durant, Ferguson on jewel in the crown, administrative laboratory.
+• MEM–INDIA–PARTITION — Exit dynamics; colonial legacy; cost externalized.
+• MEM–INDIA–GEO–INDUS — Northwest entry; Indus as origin spine; Herodotus, Durant.
+• MEM–INDIA–GEO–GANGES — Core not reached; depth, permanence.
+• MEM–INDIA–DYNASTY–MUGHAL — Mughal decline; regional rivalry; Company succession.
+• MEM–INDIA–GANDHI — Legitimacy attack on imperial rule; moral critique.
+• MEM–INDIA–NEHRU — Post-imperial institutional inheritance.
+• MEM–INDIA–DYNASTY–MAURYA — Post-Alexander consolidation; first subcontinental-scale state.
+• MEM–INDIA–DYNASTY–GUPTA — Classical synthesis; continuity.
+• MEM–INDIA–WAR–1857 — Invader’s-proxy defection (1857); opposite locus to Plassey (defender elites); defection theory SYNTHESIS 0003.
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 • Wikiquote, Will Durant — The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–WAR–CLIVE — v2.1
+END OF FILE — MEM–INDIA–WAR–CLIVE — v2.2
 ────────────────────────────────────────────────────────────

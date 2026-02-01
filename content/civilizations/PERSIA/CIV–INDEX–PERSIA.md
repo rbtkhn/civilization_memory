@@ -115,6 +115,12 @@ VII. IMPERIAL SHOCK & FOREIGN RULE FILES
 ────────────────────────────────────────────────────────────
 VIII. WAR & CIVILIZATIONAL CONFLICT FILES
 ────────────────────────────────────────────────────────────
+WAR corpus (integrated, v2.0): Ionian Revolt → Marathon → Thermopylae (Greek
+wars); Scythian (northern denial); Alexander (tempo/conquest); Carrhae
+(founding Roman–Persian); Rome (seven-century parity). Cross-refs in MEM
+CONNECTIONS. IONIAN–REVOLT, XERXES, WAR–SCYTHIAN, WAR–MARATHON, WAR–THERMOPYLAE,
+WAR–ROME at v2.0; GEO–CASPIAN v2.0 (Scythian integration).
+
 • MEM–PERSIA–WAR–ALEXANDER.md  
   (Decapitation shock, endurance vs charisma conquest)
 

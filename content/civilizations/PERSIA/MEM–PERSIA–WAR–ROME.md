@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–ROME — v1.1
+MEM–PERSIA–WAR–ROME — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 2.0
+Upgrade Type: MAJOR · Goldsworthy Alexander-terrain, exhaustion/Islamic shock
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
 Dates: c. 53 BC–628 AD
@@ -43,7 +43,7 @@ Persia seeks balance, denial, and endurance.
 The war has no terminal victory condition.
 
 ────────────────────────────────────────────────────────────
-III. PARTHIAN PHASE: MOBILITY OVER LEGION
+IV. PARTHIAN PHASE: MOBILITY OVER LEGION
 ────────────────────────────────────────────────────────────
 Early confrontation favors Persia through asymmetry.
 
@@ -53,7 +53,7 @@ Key features:
 • Avoidance of set-piece annihilation
 • Exploitation of Roman rigidity
 
-Crassus at Carrhae (53 BCAD) becomes archetypal:
+Crassus at Carrhae (53 BC) becomes archetypal:
 Roman mass is neutralized by mobility and patience.
 
 Victory is denial, not occupation.
@@ -88,7 +88,7 @@ Persia matches Rome institutionally, not just tactically.
 This is compression without imitation.
 
 ────────────────────────────────────────────────────────────
-V. MESOPOTAMIA AS PERMANENT BATTLEFIELD
+VI. MESOPOTAMIA AS PERMANENT BATTLEFIELD
 ────────────────────────────────────────────────────────────
 The Roman–Persian frontier never stabilizes.
 
@@ -103,7 +103,7 @@ Both bleed without extinction.
 The war becomes a **systemic drain**, not a conquest path.
 
 ────────────────────────────────────────────────────────────
-VI. WAR AS LEGITIMACY MAINTENANCE
+VII. WAR AS LEGITIMACY MAINTENANCE
 ────────────────────────────────────────────────────────────
 Conflict with Rome becomes internal validation for Persia.
 
@@ -137,20 +137,23 @@ Outcome:
 Exhaustion, not defeat, ends the rivalry.
 
 ────────────────────────────────────────────────────────────
-VIII. ISLAMIC INTERVENTION AS EXTERNAL SHOCK
+IX. ISLAMIC INTERVENTION AS EXTERNAL SHOCK
 ────────────────────────────────────────────────────────────
 The Arab-Islamic conquests succeed where Rome never could.
 
-Reason:
-• Persia is exhausted, not weak
-• Legitimacy is strained, not broken
-• A new ideological–organizational system enters the field
-
-Rome fails through parity.
-Persia falls through **stacked exhaustion plus novel opponent**.
+The structural reading: neither Rome nor Persia was defeated by the other.
+The final war (602–628) produced mutual exhaustion—Khosrow II's overextension
+into the Levant and Egypt, Heraclius's counterstrike into Mesopotamia, both
+empires depleted. Persia is exhausted, not weak; legitimacy is strained, not
+broken. The Arab-Islamic armies enter a field emptied by seven centuries of
+parity conflict. A new ideological–organizational system—mobilization,
+religious cohesion, velocity—exploits the vacuum. Rome fails through parity;
+Persia falls through **stacked exhaustion plus novel opponent**. The lesson:
+endurance against a known rival is survivable; exhaustion leaves both
+vulnerable to an unknown one.
 
 ────────────────────────────────────────────────────────────
-IX. CIVILIZATIONAL LESSON INTEGRATION
+X. CIVILIZATIONAL LESSON INTEGRATION
 ────────────────────────────────────────────────────────────
 Persia internalizes Rome as the model adversary.
 
@@ -164,7 +167,7 @@ Doctrinal lessons:
 Rome validates Persia’s defensive genius—and its limits.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia survives Rome by refusing Rome’s war logic.
 • Endurance beats expansion against peers.
@@ -174,7 +177,24 @@ X. CONTINUITY INSIGHTS (RAW)
 • Rome breaks itself trying to break Persia.
 
 ────────────────────────────────────────────────────────────
-XI. BIBLIOGRAPHY
+XI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+PERSIA WAR corpus (sibling integration):
+• MEM–PERSIA–WAR–CARRHAE — founding battle; denial doctrine; Parthian phase
+• MEM–PERSIA–WAR–ALEXANDER — Goldsworthy: region Alexander swept through; terrain of contest
+• MEM–PERSIA–EMPIRE–SHAPUR–I — Valerian; Sasanian phase
+• MEM–PERSIA–EMPIRE–KHOSROW–II — terminal war; overextension; exhaustion
+• MEM–PERSIA–GEO–LEVANT — parity theater; reach without hold
+• MEM–PERSIA–ARMENIA — buffer; Roman–Persian stakes
+• MEM–PERSIA–PALMYRA — post-Valerian counterweight
+• MEM–PERSIA–DYNASTY–SASANIAN — Sasanian parity war
+• MEM–PERSIA–EGYPT — Khosrow's extension; Levant–Egypt axis
+• MEM–PERSIA–ISLAM — stacked exhaustion; both lose Levant
+
+Breaks if removed: MEM–PERSIA–WAR–CARRHAE (founding); MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–EMPIRE–KHOSROW–II (terminal phase).
+
+────────────────────────────────────────────────────────────
+XIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Tacitus, *Annals*, II.1–4 (ARC–ROME) — Parthian legitimacy; Vonones; parity as legitimacy contest
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — civilizational contrast, Orientalism; FiveBooks interview (2020)
@@ -182,5 +202,5 @@ XI. BIBLIOGRAPHY
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ROME — v1.2
+END OF FILE — MEM–PERSIA–WAR–ROME — v2.0
 ────────────────────────────────────────────────────────────

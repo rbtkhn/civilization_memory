@@ -1,10 +1,10 @@
-MEM–INDIA–DYNASTY–MUGHAL — v2.0
+MEM–INDIA–DYNASTY–MUGHAL — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.1
+Supersedes: v2.0
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · DEFECTION THEORY FRAMING (First Panipat)
 Civilization: INDIA
 Subject: Mughal Dynasty
 Dates: 1526–1857 AD
@@ -93,7 +93,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 Empire absorbed, not rejected.
 
 ────────────────────────────────────────────────────────────
-VIII. EVIDENCE — ARC-T-MODERN (VERBATIM)
+VIII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–WAR–CLIVE — Same defection type (defender elites, fragmentation) at opposite epoch; Mughal entry at Panipat, Company entry at Plassey. See CIV–SCHOLAR–INDIA SYNTHESIS 0003.
+
+────────────────────────────────────────────────────────────
+IX. EVIDENCE — ARC-T-MODERN (VERBATIM)
 ────────────────────────────────────────────────────────────
 Akbar, Mughal palaces, and the civilizational level destroyed by British conquest are attested in modern synthesis as follows [ERC-SECONDARY].
 
@@ -112,5 +117,5 @@ IX. MEM BIBLIOGRAPHY
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–DYNASTY–MUGHAL — v2.0
+END OF FILE — MEM–INDIA–DYNASTY–MUGHAL — v2.1
 ────────────────────────────────────────────────────────────

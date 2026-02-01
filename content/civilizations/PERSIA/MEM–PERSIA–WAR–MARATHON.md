@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–MARATHON — v1.0
+MEM–PERSIA–WAR–MARATHON — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 2.0
+Upgrade Type: MAJOR · Encoding divergence, Mearsheimer structural, Layer 2
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Battle of Marathon — Persian Expedition, Greek Defense, Encoding Divergence
@@ -119,21 +119,35 @@ Marathon encodes **perspective-dependent significance**:
 The battle matters more to those who won it than to those who lost it.
 
 ────────────────────────────────────────────────────────────
-VII. MEM CONNECTIONS
+VII. WAR STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–XERXES — inherits Greek question; Thermopylae, Salamis
-• MEM–PERSIA–WAR–ALEXANDER — Llewellyn-Jones Marathon quote; Persian encoding
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; Darius's reign
-• MEM–PERSIA–DARIUS–I — expedition under Darius; Royal Road, administration
-• MEM–PERSIA–IONIAN–REVOLT — causal chain; Athens supported revolt
+| Field | Value |
+|-------|-------|
+| Belligerents | Achaemenid Persia (Datis, Artaphernes) vs Athens, Plataea |
+| Classification | Punitive expedition; Greek defensive victory |
+| Outcome | Persian expedition fails; Athens holds; Persian re-embarkation |
+| Force Ratios | Persian: infantry + cavalry, numerical advantage; Greek: ~10,000 hoplites |
+| Casualties | Persian: high; Greek: ~192 (Athenian tradition) |
 
 ────────────────────────────────────────────────────────────
-VIII. BIBLIOGRAPHY
+VIII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+PERSIA WAR corpus:
+• MEM–PERSIA–WAR–THERMOPYLAE — Xerxes inherits; campaign sequence
+• MEM–PERSIA–WAR–ALEXANDER — Llewellyn-Jones Marathon quote; Persian encoding
+• MEM–PERSIA–IONIAN–REVOLT — causal chain; Athens supported revolt
+Other:
+• MEM–PERSIA–XERXES — inherits Greek question; Thermopylae, Salamis
+• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; Darius's reign
+• MEM–PERSIA–DARIUS–I — expedition under Darius; Royal Road, administration
+
+────────────────────────────────────────────────────────────
+IX. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, V.99–100, VI.94–95, VI.112 — primary account
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020) — Persian encoding
 • Pierre Briant, *From Cyrus to Alexander* — imperial logic, Greek wars
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–MARATHON — v1.0
+END OF FILE — MEM–PERSIA–WAR–MARATHON — v2.0
 ────────────────────────────────────────────────────────────

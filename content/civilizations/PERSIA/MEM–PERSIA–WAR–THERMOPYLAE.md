@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–THERMOPYLAE — v1.0
+MEM–PERSIA–WAR–THERMOPYLAE — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 2.0
+Upgrade Type: MAJOR · Alexander-inversion theme, Layer 2
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Thermopylae — Xerxes' Invasion, Greek Stand, Persian Victory, Encoding Divergence
@@ -70,11 +70,34 @@ Persian memory does not require Thermopylae's absorption—Salamis and
 Plataea will end the invasion; the Greek wars will remain unresolved.
 But at Thermopylae, Persia wins the battle.
 
+**Alexander inversion:** Xerxes forces the pass and advances—only to
+fail at Salamis and Plataea. A century and a half later, Alexander
+marches east through the same corridor. The Greek–Persian dynamic
+inverts: the invader becomes the invaded. Thermopylae is a Persian
+tactical victory; Alexander's conquest is Persia's compression failure.
+MEM–PERSIA–WAR–ALEXANDER encodes the reversal. For Persian memory,
+Thermopylae and Gaugamela bookend the arc: Xerxes wins a battle and
+loses a campaign; Darius loses battles and loses the empire.
+
 ────────────────────────────────────────────────────────────
-V. MEM CONNECTIONS
+V. WAR STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–XERXES — Thermopylae under Xerxes; Greek campaigns
+| Field | Value |
+|-------|-------|
+| Belligerents | Achaemenid Persia (Xerxes I) vs Greek coalition (Leonidas, Spartans, Thespians) |
+| Classification | Persian tactical victory; Greek moral/heroic encoding |
+| Outcome | Persians force pass; Leonidas and rearguard annihilated; advance to Athens continues |
+| Force Ratios | Persian: massive (Herodotus); Greek: ~7,000 initially, ~300 Spartans at end |
+| Casualties | Greek: total for rearguard; Persian: significant in frontal assaults |
+
+────────────────────────────────────────────────────────────
+VI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+PERSIA WAR corpus:
 • MEM–PERSIA–WAR–MARATHON — prior Persian setback; Greek confidence
+• MEM–PERSIA–WAR–ALEXANDER — Xerxes' failure; Alexander inverts Greek–Persian dynamic
+Other:
+• MEM–PERSIA–XERXES — Thermopylae under Xerxes; Greek campaigns
 • MEM–PERSIA–IONIAN–REVOLT — causal chain
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial campaign
 
@@ -85,5 +108,5 @@ VI. BIBLIOGRAPHY
 • Pierre Briant, *From Cyrus to Alexander* — Xerxes' campaigns
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–THERMOPYLAE — v1.0
+END OF FILE — MEM–PERSIA–WAR–THERMOPYLAE — v2.0
 ────────────────────────────────────────────────────────────

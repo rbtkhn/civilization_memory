@@ -162,6 +162,31 @@ Phase: I (Accumulation)
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
+2026-02-01 (PERSIA — v2.0 MAJOR UPGRADES, 7 MEMs):
+• MEM–PERSIA–IONIAN–REVOLT v1.0 → v2.0: Greek wars arc; Herodotus V.97, 99–100, 102, 105 verbatim; satrapal vs imperial (Mearsheimer); MEM CONNECTIONS enriched
+• MEM–PERSIA–XERXES v1.0 → v2.0: Greek wars arc; Alexander inversion theme; MEM CONNECTIONS WAR corpus grouping
+• MEM–PERSIA–WAR–SCYTHIAN v1.1 → v2.0: Denial-doctrine lineage (Scythian → Carrhae); tempo contrast with Alexander; Mearsheimer structural; Layer 2 WAR structured data
+• MEM–PERSIA–WAR–MARATHON v1.1 → v2.0: Mearsheimer structural (why Persia didn't need to win); Briant framing; Layer 2 WAR structured data
+• MEM–PERSIA–GEO–CASPIAN v1.1 → v2.0: Scythian expedition integration; WAR–SCYTHIAN link; Layer 2 GEO structured data; MEM CONNECTIONS
+• MEM–PERSIA–WAR–THERMOPYLAE v1.1 → v2.0: Alexander-inversion theme; Layer 2 WAR structured data
+• MEM–PERSIA–WAR–ROME v1.3 → v2.0: Goldsworthy Alexander-terrain quote (new Section II); exhaustion/Islamic shock prose; bibliography Goldsworthy
+• Report: UPGRADE–REPORT–PERSIA–v2.0–MEM–BATCH–2026–02–01.md
+
+2026-02-01 (PERSIA — WAR CORPUS INTEGRATION):
+• MEM–PERSIA–WAR–ALEXANDER v1.3 → v1.4: MEM CONNECTIONS added (all WAR siblings)
+• MEM–PERSIA–WAR–ROME v1.2 → v1.3: MEM CONNECTIONS added
+• MEM–PERSIA–WAR–MARATHON, THERMOPYLAE, SCYTHIAN, CARRHAE: WAR corpus cross-refs enriched
+• CIV–INDEX–PERSIA: WAR corpus integration note in Section VIII
+• Report: REPORT–SCHOLAR–PERSIA–WAR–CORPUS–INTEGRATION–2026–02–01.md
+
+2026-02-01 (PERSIA — BRIANT + MEARSHEIMER UNIFIED DARIUS ASSESSMENT):
+• MEM–PERSIA–EMPIRE–DARIUS–III v1.0 → v1.1: Briant coherent strategy (Darius in the Shadow); Mearsheimer structural tempo; unified assessment (power distribution, not character)
+• MEM–PERSIA–WAR–ALEXANDER v1.2 → v1.3: Briant + structural tempo integration; cross-ref to DARIUS–III
+
+2026-02-01 (PERSIA — GOLDSWORTHY + ARC EXPANSION):
+• MEM–PERSIA–WAR–ALEXANDER v1.1 → v1.2: Goldsworthy *Rome and Persia* verbatim (Alexander as horizon for Roman–Persian rivalry)
+• CIV–ARC–PERSIA v1.2 → v1.3: Everitt (*Alexander the Great* 2019), Keegan (*Mask of Command*, *History of Warfare*); Goldsworthy *Philip and Alexander* added
+
 2026-02-01 (PERSIA — HERODOTUS VERBATIM GAPS):
 • MEM–PERSIA–BABYLON v1.0 → v1.1: Herodotus I.190 (Euphrates diversion) verbatim
 • MEM–PERSIA–ZOROASTER v1.1 → v1.2: Herodotus I.132 (Persian sacrifice, king's welfare, Magi) verbatim
@@ -189,6 +214,20 @@ IV. VERSION HISTORY (RECENT)
 • MEM–INDIA–GEO–INDUS v2.0 → v2.1: Herodotus III.94, IV.44 (Cross-ARC ARC–PERSIA-T-ANCIENT); new V.A EVIDENCE — ARC-T-ANCIENT
 • MEM–INDIA–WAR–ALEXANDER v1.0 → v2.0: Herodotus III.94, IV.44 (Cross-ARC ARC–PERSIA-T-ANCIENT); new EVIDENCE + MEM BIBLIOGRAPHY; ARC Reference v1.1
 • RESEARCH–HERODOTUS–INDIA–INSERTION–OPPORTUNITIES.md created
+
+2026-02-01 (INDIA MEM — DEFECTION THEORY STRUCTURAL CONNECTIONS; SCHOLAR–INDIA LEARN SESSION):
+• MEM–INDIA–WAR–CLIVE v2.1 → v2.2: MEM CONNECTIONS — structural parallels (First Panipat 1526, Anglo-Maratha, Anglo-Sikh, 1857); defection theory SYNTHESIS 0003, RLL–INDIA–0002; typo fix CONSEQUENAD → CONSEQUENCE
+• MEM–INDIA–BRITISH–EMPIRE v2.1 → v2.2: 1857 as invader’s-proxy-defection; jurisdiction shift Company→Crown; post-1857 reorganization; new § X MEM CONNECTIONS; § X EVIDENCE → XI, § XI BIBLIOGRAPHY → XII
+• MEM–INDIA–WAR–ALEXANDER v2.0 → v2.1: structural/defection layer (force at distance, Hyphasis, Ghaznavid parallel); new § VI MEM CONNECTIONS; § VI EVIDENCE → VII, § VII BIBLIOGRAPHY → VIII
+• MEM–INDIA–DYNASTY–MUGHAL v2.0 → v2.1: First Panipat (1526) as defender-elite-defection framing; new § VIII MEM CONNECTIONS (WAR–CLIVE same defection type); § VIII EVIDENCE → IX, § IX BIBLIOGRAPHY → X
+• MEM–INDIA–DYNASTY–MAURYA v2.0 → v2.1: inverse defection pattern (unity resists Plassey-type entry); new § VIII MEM CONNECTIONS (WAR–ALEXANDER, WAR–CLIVE); § VIII EVIDENCE → IX, § IX BIBLIOGRAPHY → X
+• Source: CIV–SCHOLAR–INDIA SYNTHESIS 0003, RLL–INDIA–0002; RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY.md; REPORT–SCHOLAR–INDIA–LEARN–SESSION–2026–02–01.md
+
+2026-02-01 (INDIA MEM — WAR–1857 NEW; CIV–INDEX–INDIA UPDATE):
+• MEM–INDIA–WAR–1857 v1.0: NEW — Rebellion of 1857 (Sepoy Mutiny); invader’s-proxy-defection type; mechanism failure (sepoy army defects); jurisdiction shift Company→Crown; post-1857 reorganization; MEM CONNECTIONS (BRITISH–EMPIRE, WAR–CLIVE, WAR–ALEXANDER, defection theory)
+• CIV–INDEX–INDIA v1.1 → v1.2: MEM–INDIA–WAR–1857.md added to § VI War & external shocks; total MEM count 13 → 14
+• MEM–INDIA–BRITISH–EMPIRE v2.2: MEM CONNECTIONS updated to link MEM–INDIA–WAR–1857
+• MEM–INDIA–WAR–CLIVE v2.2: MEM CONNECTIONS updated to link MEM–INDIA–WAR–1857
 
 2026-02-01 (INDIA MEM — FERGUSON VERBATIM INTEGRATION, PRIORITY 1 & 2):
 • MEM–INDIA–BRITISH–EMPIRE v2.0 → v2.1: Ferguson *Empire* (jewel in the crown, administrative laboratory, Company-to-Crown); ARC Reference v1.1

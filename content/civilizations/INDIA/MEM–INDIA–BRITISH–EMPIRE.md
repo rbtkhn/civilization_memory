@@ -1,10 +1,10 @@
-MEM–INDIA–BRITISH–EMPIRE — v2.1
+MEM–INDIA–BRITISH–EMPIRE — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN) · 1857 INVADER'S-PROXY-DEFECTION; JURISDICTION SHIFT; MEM CONNECTIONS
 Civilization: INDIA
 Regime: COLONIAL / IMPERIAL–ADMINISTRATIVE (c. 1757–1947)
 Subject: British Empire in India
@@ -144,7 +144,15 @@ IX. CONTINUITY INSIGHTS (RAW)
 Foreign rule is remembered as constraint, not inheritance.
 
 ────────────────────────────────────────────────────────────
-X. EVIDENCE — ARC-T-MODERN (VERBATIM)
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–WAR–CLIVE — Company-to-Crown; Plassey as defender-elite defection; procedural–extractive overlay.
+• MEM–INDIA–PARTITION — Exit dynamics; colonial legacy; cost externalized.
+• MEM–INDIA–WAR–ALEXANDER — Opposite locus of mechanism failure (invader at edge); India WAR pair.
+• MEM–INDIA–WAR–1857 — 1857 Rebellion; invader’s-proxy defection; jurisdiction shift Company→Crown; defection theory SYNTHESIS 0003.
+
+────────────────────────────────────────────────────────────
+XI. EVIDENCE — ARC-T-MODERN (VERBATIM)
 ────────────────────────────────────────────────────────────
 Colonial political economy, exploitation, institutional rupture, famines, and Amritsar are attested in modern synthesis as follows [ERC-SECONDARY].
 
@@ -186,5 +194,5 @@ XI. MEM BIBLIOGRAPHY
 • Wikiquote, Will Durant — The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–BRITISH–EMPIRE — v2.1
+END OF FILE — MEM–INDIA–BRITISH–EMPIRE — v2.2
 ────────────────────────────────────────────────────────────

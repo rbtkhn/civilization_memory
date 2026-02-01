@@ -1,4 +1,4 @@
-CIV–INDEX–INDIA — v1.1
+CIV–INDEX–INDIA — v1.2
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE
@@ -52,11 +52,12 @@ VI. WAR & EXTERNAL SHOCKS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–WAR–ALEXANDER.md
 • MEM–INDIA–WAR–CLIVE.md
+• MEM–INDIA–WAR–1857.md
 
 ────────────────────────────────────────────────────────────
 VII. INDEX COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-Total MEM–INDIA files indexed: 13
+Total MEM–INDIA files indexed: 14
 
 Unindexed files: NONE
 Naming conflicts detected: NONE
@@ -75,6 +76,6 @@ Candidate future MEM domains (not commitments):
 Index does not imply prioritization.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–INDIA — v1.1
+END OF FILE — CIV–INDEX–INDIA — v1.2
 ────────────────────────────────────────────────────────────
 

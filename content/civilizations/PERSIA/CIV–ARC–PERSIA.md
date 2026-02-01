@@ -3,13 +3,13 @@ Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: CIV–ARC–PERSIA v1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.3
+Supersedes: CIV–ARC–PERSIA v1.2
+Upgrade Type: ADDITIVE · Everitt, Keegan; Goldsworthy Philip and Alexander
 Civilization: PERSIA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
-Last Update: February 2026 (v1.2: Llewellyn-Jones added)
+Last Update: February 2026 (v1.3: Everitt, Keegan; Goldsworthy Philip and Alexander)
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -66,7 +66,9 @@ ARC-T-EARLY-MOD:
 • James Morier (1780–1849) — The Adventures of Hajji Baba of Ispahan (1824); Second Series (1828)
 
 ARC-T-MODERN:
-• Adrian Goldsworthy (b. 1969) — Rome and Persia: The Seven Hundred Year Rivalry (2023); Caesar; Augustus; Pax Romana
+• Adrian Goldsworthy (b. 1969) — Rome and Persia: The Seven Hundred Year Rivalry (2023); Philip and Alexander (2020); Caesar; Augustus; Pax Romana
+• Anthony Everitt (b. 1940) — Alexander the Great: His Life and His Mysterious Death (2019); Alexander-period coverage
+• John Keegan (1934–2012) — The Mask of Command (1987); A History of Warfare; Alexander as heroic leadership type
 • Lloyd Llewellyn-Jones (b. 1968) — Persians: The Age of the Great Kings (2022); King and Court in Ancient Persia; Ctesias' History of Persia; Designs on the Past
 • A.T. Olmstead (1880–1945) — History of the Persian Empire (1948)
 • Richard N. Frye (1920–2014) — The Heritage of Persia; The Golden Age of Persia
