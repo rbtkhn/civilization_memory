@@ -1,13 +1,21 @@
-CIV–CORE–ISLAM — V1.1
+CIV–CORE–ISLAM — v2.0
 Civilizational Memory Codex · Civilization Continuity Engine
 Sacred-Zone · Exit-Primacy · Demographic–Chokepoint Supremacy Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Compatibility: CMC V1.x methodology (prefix deprecated; method preserved)
+Version: 2.0
+Supersedes: CIV–CORE–ISLAM V1.1
+Upgrade Type: TEMPLATE COMPLIANCE · HEADER HARDENING · TYPO CORRECTION
+Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Demographic at VII; Technology at VIII; Military at IX; EPL at XVI; Verdict at XXI. Time Orientation embedded in III.)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage: SCE–CIV–ISLAM V9.7.2 (doctrinal ancestry preserved)
+Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
+Governed by: CIV–MEM–CORE v2.9
+ARC Reference: CIV–ARC–ISLAM v1.0
 Temporal Boundaries (embedded): Ancient–4–476 / Medieval 476–1453 / Colonial 1453–1815 / Industrial–Modern 1815–present
-Upgrade Type (V1.1): Spine-harmonization + exemplar anchoring + interface hardening (ADD-ONLY; terminology preserved)
+Last Update: February 2026
+WORDCOUNT: ~2,400
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -221,7 +229,7 @@ If RCM = EVAPORATING and CAS = ADVERSARIAL/SPLIT,
 Internal Stability cannot be forecast as STABLE without explicit counter-evidence.
 
 ────────────────────────────────────────────────────────────
-XI. INFORMATION & NARRATIVE GOVERNANAD
+XI. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 Narrative is not “messaging”; it is sacred-memory routing.
@@ -430,7 +438,22 @@ XXI. MANDATORY VERDICT BLOCK (NO EXCEPTIONS)
 No narrative output is valid without this block.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ISLAM — V1.1
+UPGRADE NOTE (v2.0) — TEMPLATE COMPLIANCE
+────────────────────────────────────────────────────────────
+This version brings CIV–CORE–ISLAM into alignment with CIV–CORE–TEMPLATE v2.0.
+
+v2.0 updates:
+• Header: Added Supersedes, Upgrade Type, Template Version Used, Civilization Phase,
+  Governed by, Last Update, WORDCOUNT
+• Compatibility: Extended to CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+• Typo: Section XI GOVERNANAD → GOVERNANCE
+• Civilization-specific section structure documented in Template Version Used line
+• No substantive changes to axioms, diagnostics, or verdict logic
+
+Reference: AUDIT–CORE–ISLAM–TEMPLATE–ALIGNMENT (2026-02-01)
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–ISLAM — v2.0
 ────────────────────────────────────────────────────────────
 
-Word count: ~2,360
+WORDCOUNT: ~2,400

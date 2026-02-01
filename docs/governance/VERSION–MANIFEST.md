@@ -139,7 +139,10 @@ ISLAM:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
+│ CIV–ARC–ISLAM               │ v1.0    │ Active        │
+│ CIV–CORE–ISLAM              │ v2.0    │ Active        │
 │ CIV–INDEX–ISLAM             │ v1.0    │ Active        │
+│ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -154,6 +157,28 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (ISLAM ECOSYSTEM — ARC + SCHOLAR CREATION):
+• CIV–ARC–ISLAM v1.0: Initial establishment per CIV–ARC–TEMPLATE v2.8
+  – ARC-T-ANCIENT: Qur'an, Ibn Ishaq, al-Bukhari, Muslim
+  – ARC-T-MEDIEVAL: al-Tabari, Ibn al-Athir, Baha ad-Din ibn Shaddad, Ibn Khaldun, Ibn Battuta
+  – ARC-T-EARLY-MOD: Gibbon, Arnold, Lane-Poole
+  – ARC-T-MODERN: Hodgson, Lewis, Crone, Kennedy, Donner, Brown, Hillenbrand, Lapidus
+• CIV–SCHOLAR–ISLAM v1.0: Initial establishment per CIV–SCHOLAR–TEMPLATE v2.10
+  – Phase I accumulation; OGE embedded; ARC Reference: CIV–ARC–ISLAM v1.0
+• CIV–CORE–ISLAM: ARC Reference: CIV–ARC–ISLAM v1.0 added to header
+• VERSION–MANIFEST: CIV–ARC–ISLAM, CIV–SCHOLAR–ISLAM added
+• Reference: AUDIT–SCHOLAR–ISLAM–TEMPLATE–ALIGNMENT (Option B)
+
+2026-02-01 (CIV–CORE–ISLAM v2.0 — TEMPLATE COMPLIANCE):
+• CIV–CORE–ISLAM: V1.1 → v2.0 (template compliance, header hardening)
+  – Header: Added Supersedes, Upgrade Type, Template Version Used, Civilization Phase,
+    Governed by, Last Update, WORDCOUNT
+  – Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+  – Typo: Section XI GOVERNANAD → GOVERNANCE
+  – Civilization-specific structure documented (Option B)
+• VERSION–MANIFEST: CIV–CORE–ISLAM added (v2.0)
+• Reference: AUDIT–CORE–ISLAM–TEMPLATE–ALIGNMENT (2026-02-01)
 
 2026-01-31 (CIV–ARC–TEMPLATE v2.8 — TSP CROSS-CITATION GUIDANCE):
 • CIV–ARC–TEMPLATE: v2.7 → v2.8 (TSP cross-citation guidance)
