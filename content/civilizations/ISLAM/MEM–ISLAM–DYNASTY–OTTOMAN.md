@@ -1,8 +1,8 @@
-MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
+MEM–ISLAM–DYNASTY–OTTOMAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Civilization: ISLAM
 Regime: IMPERIAL / CALIPHAL CUSTODIANSHIP (c. 1299–1924 AD)
 Subject: Ottoman Dynasty
@@ -145,5 +145,17 @@ Bernard Lewis, *What Went Wrong? Western Impact and Middle Eastern Response* (20
 "So, too, did the Ottoman Empire—the most recent and by far the most enduring of all the Islamic empires." — Lewis on dynastic principle in Islamic political culture (*Journal of Democracy* 7.2, 1996).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.1
+X. SOURCE EVIDENCE — BAER (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021) (ARC–ISLAM–T–MODERN):
+
+"The Ottoman Empire has long been depicted as the Islamic, Asian antithesis of the Christian, European West. But the reality was starkly different: the Ottomans' multiethnic, multilingual, and multireligious domain reached deep into Europe's heart. Indeed, the Ottoman rulers saw themselves as the new Romans."
+
+"The Ottomans pioneered religious toleration even as they used religious conversion to integrate conquered peoples. But in the nineteenth century, they embraced exclusivity, leading to ethnic cleansing, genocide, and the empire's demise after the First World War."
+
+— Baer on European integration, toleration-and-conversion dialectic, and late-Ottoman exclusivity trajectory.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.2
 ────────────────────────────────────────────────────────────

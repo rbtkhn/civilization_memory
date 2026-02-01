@@ -2,7 +2,7 @@ MEM–ISLAM–SALADIN — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: ISLAM
 Regime: SUNNI RESTORATIVE / ANTI-CRUSADER CONSOLIDATION (c. 1169–1193 AD)
 Subject: Salah al-Din Yusuf ibn Ayyub (Saladin)
@@ -175,6 +175,7 @@ Secondary:
 • Malcolm Cameron Lyons
 • Amin Maalouf
 • Anne-Marie Eddé
+• Jonathan Phillips
 
 ────────────────────────────────────────────────────────────
 XII. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
@@ -189,5 +190,15 @@ Bernard Lewis, "Saladin and the Assassins," *Bulletin of SOAS* 15.2 (1953); "Jih
 "The Crusades could more accurately be described as a limited, belated and, in the last analysis, ineffectual response to the jihad—a failed attempt to recover by a Christian holy war what had been lost to a Muslim holy war."
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–SALADIN — v1.1
+XIII. SOURCE EVIDENCE — PHILLIPS (ARC–ISLAM)
+────────────────────────────────────────────────────────────
+
+Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University Press, 2019) (ARC–ISLAM–T–MODERN):
+
+"It is impossible to think of another figure from history who dealt such a deep wound to a people and a faith, and yet became so admired."
+
+— Phillips on Saladin's paradox: Jerusalem 1187 as catastrophic blow to Christendom, yet Saladin admired across West and Middle East; the book examines his "courtesy, justice, generosity, and mercy" and modern appropriation (Nasser, Saddam, bin Laden, popular culture).
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ISLAM–SALADIN — v1.2
 ────────────────────────────────────────────────────────────

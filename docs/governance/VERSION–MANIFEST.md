@@ -142,7 +142,7 @@ ISLAM:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–ISLAM               │ v1.1    │ Active        │
+│ CIV–ARC–ISLAM               │ v1.2    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
 │ CIV–INDEX–ISLAM             │ v2.3    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
@@ -255,6 +255,17 @@ IV. VERSION HISTORY (RECENT)
 • MEM–INDIA–NEHRU v1.0 → v2.0: Durant verbatim (C, A); ARC-T-MODERN; MEM BIBLIOGRAPHY
 • MEM–INDIA–WAR–CLIVE v1.0 → v2.0: Durant verbatim (F, G); ARC-T-MODERN; MEM BIBLIOGRAPHY
 • Source: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; CIV–ARC–INDIA v1.0 (Durant in ARC-T-MODERN)
+
+2026-02-01 (ISLAM MEM — BAER & PHILLIPS SOURCE BLOCKS):
+• MEM–ISLAM–DYNASTY–OTTOMAN v1.1 → v1.2: Baer SOURCE block (The Ottomans 2021)—European integration, toleration-and-conversion, late-Ottoman exclusivity/genocide
+• MEM–ISLAM–SALADIN v1.1 → v1.2: Phillips SOURCE block (The Life and Legend of the Sultan Saladin 2019)—paradox of Western admiration, mercy
+
+2026-02-01 (CIV–ARC–ISLAM v1.2 — BAER & PHILLIPS):
+• CIV–ARC–ISLAM: v1.1 → v1.2 (Baer, Phillips added to ARC-T-MODERN)
+  – Marc David Baer: The Ottomans: Khans, Caesars, and Caliphs (2021)
+  – Jonathan Phillips: The Life and Legend of the Sultan Saladin (2019)
+  – Per ARC–DISCOVERY PROPOSAL 0001 (CIV–SCHOLAR–ISLAM XVIII.C)
+• CIV–CORE–ISLAM, CIV–SCHOLAR–ISLAM, CIV–INDEX–ISLAM: ARC Reference updated to v1.2
 
 2026-02-01 (ISLAM MEM — SILK–ROAD CREATION):
 • MEM–ISLAM–SILK–ROAD v1.0: NEW — Silk Road as transmission corridor, flow-space; trader-and-preacher expansion; oasis nodes; 4 ARC sections (Qur'an 67:15, Ibn Battuta, Arnold, Hodgson); Subject MEM blend (2/3 Mercouris, 1/3 Mearsheimer)

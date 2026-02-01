@@ -1,19 +1,21 @@
-CIV–ARC–ISLAM — v1.1
+CIV–ARC–ISLAM — v1.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ISLAM
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: CIV–ARC–ISLAM v1.0
-Upgrade Type: ADDITIVE (Will Durant added to ARC-T-MODERN)
+Version: 1.2
+Supersedes: CIV–ARC–ISLAM v1.1
+Upgrade Type: ADDITIVE (Baer, Phillips added to ARC-T-MODERN)
 Civilization: ISLAM
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–ISLAM · CIV–SCHOLAR–ISLAM
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
-VERSION NOTE (v1.1)
+VERSION NOTE (v1.2)
 ────────────────────────────────────────────────────────────
+v1.2 — Marc David Baer (b. 1968) and Jonathan Phillips (b. 1961) added to ARC-T-MODERN. Baer: The Ottomans: Khans, Caesars, and Caliphs (2021)—European integration, conversion-as-elite-making, late-Ottoman exclusivity. Phillips: The Life and Legend of the Sultan Saladin (2019)—paradox of Western admiration, mercy, reception history. Per ARC–DISCOVERY PROPOSAL 0001 (CIV–SCHOLAR–ISLAM XVIII.C).
+
 v1.1 — Will Durant (1885–1981) added to ARC-T-MODERN. The Age of Faith covers medieval Islam, Crusades, cultural transmission; civilizational synthesis suitable for MEM–ISLAM contrast and context.
 
 ────────────────────────────────────────────────────────────
@@ -92,9 +94,9 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 VI. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.1)
-• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.1)
+• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.2)
+• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.2)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ISLAM — v1.1
+END OF FILE — CIV–ARC–ISLAM — v1.2
 ────────────────────────────────────────────────────────────

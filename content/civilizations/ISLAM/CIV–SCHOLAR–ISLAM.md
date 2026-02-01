@@ -13,11 +13,11 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–ISLAM v1.1
+ARC Reference: CIV–ARC–ISLAM v1.2
 Last Update: February 2026
 
 Upgrade Type: INITIAL ESTABLISHMENT
-Scope: Phase I minimal structure; CIV–CORE–ISLAM v2.0 coupling; CIV–ARC–ISLAM v1.1 binding.
+Scope: Phase I minimal structure; CIV–CORE–ISLAM v2.0 coupling; CIV–ARC–ISLAM v1.2 binding.
 
 Word Count: ~2,200
 
@@ -296,6 +296,30 @@ KEEGAN VERBATIM QUOTES (absorbed from repository):
 
 *The First World War* (1998): (Marne, Verdun, Somme—strategic context, soldier experience)
 
+ENTRY 0012
+Source:
+• Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021) — External scholarship; not in CIV–ARC–ISLAM; ARC–DISCOVERY candidate
+Ingest Type:
+• External Historiography / Ottoman Empire — Contemporary synthesis
+Primary Belief Extracted:
+• Ottomans as integral to European history, not separate "East"; triple heritage (Khans/Caesars/Caliphs); pioneered religious toleration AND used conversion as elite-making (converts staffed dynasty, military, administration—unique among empires); 19th C shift from inclusion → exclusivity → ethnic cleansing, genocide → collapse.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements MEM–ISLAM–DYNASTY–OTTOMAN (custodianship, pluralism); adds European integration, conversion-as-elite-making, late-Ottoman exclusivity trajectory. Tension: toleration + conversion-as-integration (dhimmi + devşirme) coexist without synthesis.
+
+ENTRY 0013
+Source:
+• Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University Press, 2019) — External scholarship; not in CIV–ARC–ISLAM; ARC–DISCOVERY candidate
+Ingest Type:
+• External Historiography / Saladin — Western Crusades scholarship; reception history
+Primary Belief Extracted:
+• Saladin uniquely paradoxical: dealt Christendom a deep wound (Jerusalem 1187) yet became admired in the West; mercy, courtesy, justice, generosity as defining traits (e.g., infant-return anecdote); modern appropriation by Arab nationalists (Nasser, Saddam, Assad) and Islamists (bin Laden); cultural reception (ballet, musical, al-Jazeera cartoon).
+Belief Status:
+• UNFROZEN
+Note:
+• Aligns with MEM–ISLAM–SALADIN (mercy, "defeats without humiliating," cross-confessional respect); adds paradox-of-Western-admiration as central puzzle, specific mercy anecdotes, systematic modern-appropriation analysis. Complements Lewis (0010/Saladin MEM): Lewis = three-fold enemy/jihad; Phillips = mercy/paradox. Both encodings preserved without synthesis.
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -337,42 +361,44 @@ Tensions Preserved:
 
 CCM: Encoding divergence is expected; no synthesis resolves the four readings. Gibbon supplies civilization-contrast for Islam MEMs (CANDIDATE BELIEF 0001).
 
-SYNTHESIS 0003 (0007–0008 + Gibbon)
+SYNTHESIS 0003 (0007–0008 + 0013 + Gibbon + Lewis)
 Outcome:
-• MEM–ISLAM–CRUSADES and MEM–ISLAM–SALADIN form a coherent encoding pair: Crusades provides structure (legitimacy crisis, restorative response, sacred-zone defense); Saladin provides the exemplar (conduct-based legitimacy, mercy vs massacre, "Islam recovers without becoming what it opposed"). Legitimacy flows from conduct; unity precedes victory; moral authority amplifies military victory. Islam accepts internal liability (fragmentation) while encoding Crusaders as illegitimate occupiers. Gibbon (Ch. 59) supplies fourth pole: crusading momentum faltering against Muslim resistance; Saladin's conquest of Jerusalem; Frankish expulsion—encoded from Roman/Christian historiographic lens as Christian defeat and Muslim consolidation.
+• MEM–ISLAM–CRUSADES and MEM–ISLAM–SALADIN form a coherent encoding pair: Crusades provides structure (legitimacy crisis, restorative response, sacred-zone defense); Saladin provides the exemplar (conduct-based legitimacy, mercy vs massacre, "Islam recovers without becoming what it opposed"). Legitimacy flows from conduct; unity precedes victory; moral authority amplifies military victory. Islam accepts internal liability (fragmentation) while encoding Crusaders as illegitimate occupiers. Gibbon (Ch. 59) supplies fourth pole: crusading momentum faltering against Muslim resistance; Saladin's conquest of Jerusalem; Frankish expulsion—encoded from Roman/Christian historiographic lens as Christian defeat and Muslim consolidation. Phillips (0013): Saladin as paradox—dealt Christendom deep wound yet admired in the West; mercy as defining trait; modern appropriation (Arab nationalist, Islamist, popular culture). Lewis (MEM–ISLAM–SALADIN): Saladin's "three-fold enemy" (Franks, Assassins, Zangids); jihad as structural response; Crusades as "ineffectual response to the jihad." Phillips and Lewis encode same figure differently: Phillips = mercy/paradox/Western admiration; Lewis = jihad/structural resistance. Both encodings preserved without synthesis.
 Status:
 • UNFROZEN
 
 Constraint-Oriented Frame:
-• Failure pattern: Sacred loss exposes legitimacy failure; fragmentation invites invasion; unity must precede victory. Gibbon encodes crusader fragmentation and Muslim consolidation.
-• Sequencing: Crisis → consolidation → exemplar (Saladin) → recovery (Jerusalem 1187); moral model retained, political structure dissolves. Gibbon: crusader rise → Saladin → crusader fall.
-• Boundary: Islam encodes as defender; legitimacy-through-conduct distinguishes from conqueror encoding (Constantinople). Gibbon encodes as external observer; Christian defeat, Muslim victory.
+• Failure pattern: Sacred loss exposes legitimacy failure; fragmentation invites invasion; unity must precede victory. Gibbon encodes crusader fragmentation and Muslim consolidation. Phillips adds: paradox (wound + admiration) as enduring puzzle; Lewis adds: jihad as structural frame.
+• Sequencing: Crisis → consolidation → exemplar (Saladin) → recovery (Jerusalem 1187); moral model retained, political structure dissolves. Gibbon: crusader rise → Saladin → crusader fall. Phillips: Saladin → modern appropriation (Nasser, Saddam, bin Laden, cultural reception).
+• Boundary: Islam encodes as defender; legitimacy-through-conduct distinguishes from conqueror encoding (Constantinople). Gibbon encodes as external observer. Phillips (Western Crusades scholar): paradox-of-admiration. Lewis (ARC–ISLAM): jihad/three-fold enemy.
 
 Tensions Preserved:
 • Saladin: moral model endures, dynastic structure collapses—ethics separable from scale.
 • Crusades: occupation without legitimacy cannot endure—yet Crusader states lasted ~200 years.
 • Cross-encoding: Islam as defender (Crusades) vs Islam as conqueror (Constantinople)—same legitimacy grammar, opposite valence.
 • Gibbon vs Islam: Islam foregrounds mercy, conduct, moral superiority; Gibbon foregrounds military outcome, resistance, consolidation. Both encode Saladin as significant; valence differs (exemplar vs adversary).
+• Phillips vs Lewis: Phillips = mercy, paradox of Western admiration, modern appropriation; Lewis = three-fold enemy, jihad, structural resistance. Same Saladin; complementary encodings; no synthesis.
 
-RLL–ISLAM–0002: Crusades + Saladin stress-test passed; legitimacy-divergence pattern holds when Islam is defender. Gibbon (Ch. 59) recommended for civilization-contrast citation in Crusades/Saladin MEMs.
+RLL–ISLAM–0002: Crusades + Saladin stress-test passed; legitimacy-divergence pattern holds when Islam is defender. Gibbon (Ch. 59) recommended for civilization-contrast citation. Phillips (0013) supplies reception-history and paradox-of-admiration pole; Lewis (ARC) supplies jihad/structural pole. Phillips ARC–DISCOVERY candidate for MEM enhancement.
 
-SYNTHESIS 0004 (0009–0010)
+SYNTHESIS 0004 (0009–0010 + 0012)
 Outcome:
-• MEM–ISLAM–DYNASTY–SELJUK and MEM–ISLAM–DYNASTY–OTTOMAN extend RLL–ISLAM–0001: power enters Islam through frontier nodes (steppe, Anatolia); legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law) and custodianship (caliphate, sacred zones). Frontier-to-imperial path operates through transmission logic—authority derived from conduct and service, then institutionalized. GEO frontiers (Sicily, Xinjiang, Kashmir) show Islam at edges; dynasty MEMs show power entering through peripheral nodes. Same node/transmission grammar; direction differs (inbound vs outbound).
+• MEM–ISLAM–DYNASTY–SELJUK and MEM–ISLAM–DYNASTY–OTTOMAN extend RLL–ISLAM–0001: power enters Islam through frontier nodes (steppe, Anatolia); legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law) and custodianship (caliphate, sacred zones). Frontier-to-imperial path operates through transmission logic—authority derived from conduct and service, then institutionalized. GEO frontiers (Sicily, Xinjiang, Kashmir) show Islam at edges; dynasty MEMs show power entering through peripheral nodes. Same node/transmission grammar; direction differs (inbound vs outbound). Baer (0012) enriches Ottoman encoding: Ottomans as integral to European history (not separate "East"); triple heritage (Khans/Caesars/Caliphs); pioneered religious toleration AND conversion-as-elite-making (converts staffed dynasty, military, administration); 19th C shift from inclusion → exclusivity → ethnic cleansing, genocide → collapse. MEM–ISLAM–DYNASTY–OTTOMAN emphasizes custodianship, pluralism, sacred-zone protection; Baer adds European integration, conversion mechanics, and late-Ottoman exclusivity trajectory. Complementary encodings; Baer supplies reception and terminal-phase analysis MEM does not foreground.
 Status:
 • UNFROZEN
 
 Constraint-Oriented Frame:
-• Failure pattern: Seljuk overextension without integration coincides with Crusader arrival; Ottoman gradual decline from structural overload. Frontier consolidation can falter when coordination fails.
-• Sequencing: Steppe/frontier entry → legitimacy absorption (Seljuk: protectorate; Ottoman: custodianship) → imperial scale → fragmentation or decline.
-• Boundary: RLL–ISLAM–0001 applies to both GEO frontiers (Islam at edge) and dynasty frontiers (power entering through node); transmission-node logic is bidirectional.
+• Failure pattern: Seljuk overextension without integration coincides with Crusader arrival; Ottoman gradual decline from structural overload. Baer: 19th C exclusivity → genocide → collapse as terminal trajectory. Frontier consolidation can falter when coordination fails; imperial inclusion can reverse to exclusion.
+• Sequencing: Steppe/frontier entry → legitimacy absorption (Seljuk: protectorate; Ottoman: custodianship) → imperial scale → fragmentation or decline. Baer: inclusion phase → 19th C exclusivity → collapse.
+• Boundary: RLL–ISLAM–0001 applies to both GEO frontiers and dynasty frontiers. Baer reframes Ottoman as European-integrated; MEM frames as Islamic custodianship. Both valid; neither overrides.
 
 Tensions Preserved:
 • Seljuk: unity is military, not administrative—expansion faster than coherence.
 • Ottoman: custody replaces charisma—institutionalization vs personal authority.
+• MEM vs Baer: MEM emphasizes custodianship and pluralism; Baer adds conversion-as-elite-making (toleration + devşirme) and late-Ottoman exclusivity/genocide. Tension: "pioneered religious tolerance" vs conversion as integration tool—coexist without synthesis.
 • Cross-link: Ottoman conquest of Constantinople (ENTRY 0010) connects to SYNTHESIS 0002; dynasty encoding complements civilizational encoding.
 
-RLL–ISLAM–0001: Seljuk + Ottoman stress-test passed; dynasty frontier pattern extends scope beyond GEO MEMs.
+RLL–ISLAM–0001: Seljuk + Ottoman stress-test passed; dynasty frontier pattern extends scope beyond GEO MEMs. Baer (0012) ARC–DISCOVERY candidate for MEM–ISLAM–DYNASTY–OTTOMAN enhancement (European integration, late-Ottoman trajectory).
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
@@ -453,6 +479,30 @@ Gibbon’s treatment of Islamic expansion and retreat (Sicily, Crusades/Saladin,
 Status: STAGED — Phase I; NOT BINDING.
 
 ────────────────────────────────────────────────────────────
+XVIII.C. ARC–DISCOVERY PROPOSALS (PHASE I — FOR ARC UPGRADE)
+────────────────────────────────────────────────────────────
+
+ARC–DISCOVERY PROPOSAL 0001 — Baer & Phillips (Ottoman, Saladin)
+
+**Source 1:**
+• Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021)
+
+**Justification:**
+Ottoman historiography; Ottomans as European-integrated; triple heritage (Khans/Caesars/Caliphs); conversion-as-elite-making; 19th C exclusivity → genocide → collapse. MEM–ISLAM–DYNASTY–OTTOMAN would gain: European integration thesis, late-Ottoman trajectory, conversion mechanics. ENTRY 0012; SYNTHESIS 0004.
+
+**Source 2:**
+• Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University Press, 2019)
+
+**Justification:**
+Saladin historiography; paradox of Western admiration; mercy as defining trait; modern appropriation (Arab nationalist, Islamist, popular culture). MEM–ISLAM–SALADIN would gain: reception-history, paradox-of-admiration pole, specific mercy anecdotes. Complements Lewis (jihad/structural). ENTRY 0013; SYNTHESIS 0003.
+
+**Proposed ARC Category:** ARC-T-MODERN (both authors; contemporary scholarship)
+
+**Upgrade Type:** ADDITIVE — Two authors; requires CIV–ARC–ISLAM version bump (v1.1 → v1.2)
+
+**Status:** IMPLEMENTED — CIV–ARC–ISLAM v1.2 (2026-02); Baer and Phillips added to ARC-T-MODERN.
+
+────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
 
@@ -478,8 +528,8 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 0
-Total Entries: 11
-Next Entry ID: 0012
+Total Entries: 13
+Next Entry ID: 0014
 Frozen Syntheses: 0
 Total Syntheses: 4
 Candidate RLLs: 3 (RLL–ISLAM–0001, RLL–ISLAM–0002, RLL–ISLAM–0003)
