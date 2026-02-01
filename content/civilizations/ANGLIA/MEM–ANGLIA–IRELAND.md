@@ -26,8 +26,8 @@ Contradictions are preserved without synthesis.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Ireland within "The Victorian Age" section—"Home Rule for Ireland"—framing the Home Rule debates as Anglia's persistent struggle with unresolved internal frontier, where procedural legitimacy fails to overcome cultural-religious divergence (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Victorian Age" section covers Home Rule for Ireland—Anglia's repeated attempts to resolve the Irish question through procedure, yet never fully harmonizing Ireland with Anglian legitimacy grammar.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age / Home Rule for Ireland (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "When Gladstone in 1880 became Prime Minister for the second time his position was not the comfortable one he had held twelve years before."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 19 "Home Rule for Ireland" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 II. GEOGRAPHIC & CIVILIZATIONAL PROXIMITY

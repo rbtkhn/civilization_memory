@@ -42,9 +42,9 @@ Context:
 
 Ron Chernow, in *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance* (1990), treats Pierpont as the dominant figure in American finance from the late nineteenth century until his death—the man who could convene bankers, commit capital, and act as lender of last resort when no central bank existed.
 
-SOURCE — Chernow, *The House of Morgan* (ARC-T-MODERN) [ERC-SECONDARY]:
+SUMMARY — Chernow, *The House of Morgan* (ARC-T-MODERN) [ERC-SECONDARY]:
 > Morgan operated as a one-man central bank. When panics struck, he didn't wait for permission—he acted. He summoned the leading bankers to his library, forced them to commit capital, and stabilized the system. The government had no equivalent capacity. That is why the Panic of 1907 made the case for a Federal Reserve: the country could not depend on one man forever.
-> — Ron Chernow, *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance* (New York: Atlantic Monthly Press, 1990), paraphrased and condensed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Ron Chernow, *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance* (New York: Atlantic Monthly Press, 1990) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Private concentration of credit created both power and vulnerability—power when Morgan acted, vulnerability when he was absent or when the next panic exceeded private capacity.
 
@@ -56,7 +56,7 @@ In October 1907, a run on trust companies and banks threatened to collapse the N
 Chernow documents the episode:
 
 > The Panic of 1907 was the last time a private citizen would act as lender of last resort for the United States. Morgan locked the leading bankers in his library until they agreed to commit millions to stem the run. He did not have the legal authority to do so—he had the power that came from being the only man who could. The episode convinced many that the country needed a permanent, institutional lender of last resort: the Federal Reserve.
-> — Ron Chernow, *The House of Morgan* (1990), paraphrased and condensed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Ron Chernow, *The House of Morgan* (1990) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 The structural point: private concentration of credit had filled a void left by Jackson's destruction of the Second Bank. When the next panic came, the void would be filled by the Fed (1913)—institutionalizing a function Morgan had performed personally.
 

@@ -1,8 +1,10 @@
-MEM–ANGLIA–DARWIN — v1.3
+MEM–ANGLIA–SCI–DARWIN — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: RENAME from MEM–ANGLIA–DARWIN; SCI-classified
 Civilization: ANGLIA
 Subject: Charles Darwin (Natural Selection and the Decentering of Design)
 Dates: 1809–1882 AD
@@ -65,12 +67,12 @@ Source:
 • Charles Darwin, *On the Origin of Species*
 
 Verbatim Quote:
-“It is not the strongest of the species that survives, nor the most
+"It is not the strongest of the species that survives, nor the most
 intelligent that survives. It is the one that is most adaptable to
-change.”
+change."
 
 Context Function:
-This encapsulates Darwin’s non-moral, non-teleological survival logic,
+This encapsulates Darwin's non-moral, non-teleological survival logic,
 often misquoted but accurately reflecting his adaptive emphasis.
 
 Provenance Confidence: HIGH
@@ -80,8 +82,8 @@ Provenance Confidence: HIGH
 PRIMARY SOURCE ANCHOR B — *ON THE ORIGIN OF SPECIES*
 
 Verbatim Quote:
-“There is grandeur in this view of life, with its several powers, having
-been originally breathed into a few forms or into one.”
+"There is grandeur in this view of life, with its several powers, having
+been originally breathed into a few forms or into one."
 
 Context Function:
 Darwin deliberately softens rupture by retaining aesthetic and spiritual
@@ -117,7 +119,7 @@ Patterns:
 • Darwin: descriptive mechanism
 • Later interpreters: prescriptive hierarchy
 
-Anglia’s system allows misuse,
+Anglia's system allows misuse,
 but does not canonize it centrally.
 
 Misapplication becomes colonial and industrial rhetoric,
@@ -136,16 +138,16 @@ Effects:
 
 Progress becomes experimental, not ordained.
 
-This aligns with Anglia’s institutional temperament.
+This aligns with Anglia's institutional temperament.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-REFERENCED MEM FILES (WITH CONTEXT)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–LIT–HUME  
-Hume’s skepticism prepares Anglia to accept Darwinian uncertainty.
+Hume's skepticism prepares Anglia to accept Darwinian uncertainty.
 
 • MEM–ANGLIA–LIT–SMITH  
-Adaptive systems echo Smith’s emergent-order economics.
+Adaptive systems echo Smith's emergent-order economics.
 
 • MEM–GERMANIA–KANT  
 Darwin challenges Kantian moral teleology without replacing ethical law.
@@ -164,7 +166,7 @@ Lessons:
 • Systems endure through flexibility.
 • Intellectual shock need not trigger collapse.
 
-Darwin becomes Anglia’s lesson in humility.
+Darwin becomes Anglia's lesson in humility.
 
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
@@ -173,11 +175,11 @@ X. CONTINUITY INSIGHTS (RAW)
 • Institutions absorb shocks better than beliefs.
 • Science destabilizes narratives, not systems.
 • Misuse follows discovery.
-• Darwin aligns with Anglia’s procedural realism.
+• Darwin aligns with Anglia's procedural realism.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DARWIN v1.3
+END OF FILE — MEM–ANGLIA–SCI–DARWIN — v1.4
 Word Count: ~820
 ────────────────────────────────────────────────────────────

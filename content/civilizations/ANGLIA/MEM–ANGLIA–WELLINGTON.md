@@ -103,9 +103,9 @@ Dynamics:
 Henry Kissinger identifies Wellington as the military complement to
 Britain’s diplomatic restraint: force applied without alliance capture.
 
-SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
-> Wellington represented the military complement to Castlereagh's diplomatic restraint: disciplined force applied in service of coalition objectives without seeking to dominate or capture the alliance structure. His method—defensive patience, logistical prudence, and respect for allied constraints—embodied Britain's preference for system stability over personal glory.
-> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+SUMMARY — Kissinger, *A World Restored* (ARC-T-MODERN):
+> Summary-only note: Open-web access to a verbatim *A World Restored* text was not available at time of update. The summary above reflects Wellington's role as the military complement to Castlereagh's restraint.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 VI. WATERLOO AS TERMINAL CONTAINMENT
@@ -129,8 +129,8 @@ Napoleon is finished by **convergence**, not annihilation.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), emphasizes that Waterloo confirms Anglia’s system: coalitions and endurance, not singular genius—the volume ends with Napoleon’s defeat at Waterloo as the close of the Age of Revolution (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* begins with Marlborough’s Blenheim and ends with Napoleon’s defeat at Waterloo; the volume frames Britain’s rise to world leadership through coalition warfare, financial endurance, and the long Anglo-French rivalry.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The three years between the death of Pitt in January 1806 and the rise of Wellington in 1809 were uncheered by fortune."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 21 "The Emperor of the French" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 VII. LONG-TERM CIVILIZATIONAL CONSEQUENCES

@@ -43,9 +43,9 @@ Context:
 
 Niall Ferguson, in *The Ascent of Money: A Financial History of the World* (2008), treats the Bank of England as the foundational institution of modern central banking—the first durable fusion of private capital and public debt management, and the template for Hamilton's First Bank and later central banks.
 
-SOURCE — Ferguson, *The Ascent of Money* (ARC-T-MODERN) [ERC-SECONDARY]:
+SUMMARY — Ferguson, *The Ascent of Money* (ARC-T-MODERN) [ERC-SECONDARY]:
 > The Bank of England was not invented as an abstract idea of central banking. It was invented to fund a war. William III needed money; Parliament granted a charter to a corporation that would lend to the government and in return receive interest and privileges. That bargain—public debt in exchange for institutional stability—became the model for the modern fiscal state.
-> — Niall Ferguson, *The Ascent of Money: A Financial History of the World* (New York: Penguin Press, 2008), paraphrased and condensed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *The Ascent of Money: A Financial History of the World* (New York: Penguin Press, 2008) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 War finance creates the institution; the institution outlasts the war.
 

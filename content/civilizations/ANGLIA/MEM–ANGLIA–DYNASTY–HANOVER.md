@@ -52,12 +52,12 @@ Power migrates:
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces Britain’s rise to world leadership across the period from Marlborough (1704) to Waterloo (1815)—the Hanoverian period in which Parliament, finance, and coalition warfare define Anglia’s method (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* tells the story of Britain’s rise through the Spanish and Austrian Successions, Utrecht, the Seven Years’ War, the American and French revolutions, and the Napoleonic Wars—the Hanoverian era in which constitutional monarchy and maritime-financial power are consolidated.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The Duke, who was in close association with the Elector George of Hanover, the heir to the throne, and still enjoyed the support of the King of Prussia and the Princes of the Grand Alliance, would not agree to a separate peace in any circumstances."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 6 "The Treaty of Utrecht" (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
 > The Vienna settlement reflected Britain's restraint under Hanoverian constitutional monarchy. Through Castlereagh, Britain shaped the post-Napoleonic order not through territorial expansion but through balance-of-power management and diplomatic restraint—a method that contrasted sharply with Metternich's continental interventionism and reflected Britain's institutional preference for system stability over revolutionary transformation.
-> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 IV. EMPIRE WITHOUT DYNASTIC COMMAND

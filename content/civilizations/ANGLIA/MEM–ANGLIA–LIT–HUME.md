@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–HUME — v1.3
+MEM–ANGLIA–LIT–HUME — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: RENAME (HUME → LIT–HUME)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: ADDITIVE · Bibliography section added
 Civilization: ANGLIA
 Subject: David Hume (Skepticism, Convention, and Order Without Certainty)
 Dates: 1711–1776 AD
@@ -187,6 +187,33 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–HUME — v1.3
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–LIT–LOCKE — Hume critiques Locke; skepticism, convention, order without certainty; convention vs. consent theory
+• MEM–ANGLIA–LIT–SMITH — Hume's influence on Smith; moral sentiment, convention, markets; order through convention
+• MEM–ANGLIA–LIT–BURKE — Contemporary; Hume (skepticism) vs. Burke (tradition); both procedural, different foundations
+• MEM–ANGLIA–SCOTLAND — Hume as Scottish Enlightenment; Scottish-Anglian intellectual fusion; convention-based order
+• MEM–ANGLIA–DYNASTY–HANOVER — Hanoverian stability; Hume's convention-based order; order through habit, not contract
+• MEM–ANGLIA–LAW–PARLIAMENT — Parliamentary tradition; Hume's convention, not contract; order through habit
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Hume's influence on American founders; skepticism, convention; order without certainty
+• MEM–ANGLIA–HAMILTON — Hamilton reads Hume; convention, order, markets; procedural order through convention
+• MEM–ANGLIA–GLORIOUS–REVOLUTION — Post-1688 stability; Hume's convention-based legitimacy; order through habit
+• MEM–ANGLIA–BRITISH–EMPIRE — Hume's analysis of empire; convention, order, markets; order through convention
+• MEM–ANGLIA–LIT–HOBBES — Contrast: Hume (convention) vs. Hobbes (fear); order through habit vs. fear
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as defensive filter; Hume's convention-based order; island identity through habit
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as operating system; Hume's trans-Atlantic influence; convention across ocean
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **David Hume**, *A Treatise of Human Nature* (1739–1740) — "Reason is, and ought only to be the slave of the passions"; skepticism, convention, order without certainty; [ERC-PRIMARY].
+• **David Hume**, *Essays, Moral and Political* (1741–1742) — Convention, order through habit, not contract; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–HUME — v2.2
 Word Count: ~820
 ────────────────────────────────────────────────────────────

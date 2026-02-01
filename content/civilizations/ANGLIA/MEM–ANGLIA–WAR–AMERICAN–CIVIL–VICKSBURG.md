@@ -43,8 +43,8 @@ For Anglian-derived strategy, this presents a familiar logic:
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Vicksburg within "The Great Republic" section—"Victory of the Union"—framing the campaign as the systemic severance that makes Confederate defeat inevitable (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers Victory of the Union—Vicksburg as the campaign that severed Confederate logistics and made defeat structurally inevitable.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "It now seems that a combined naval and military expedition could easily at this time have lunged far to the south and secured the fortress of Vicksburg in Mississippi."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CHARACTER

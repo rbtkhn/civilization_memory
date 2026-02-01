@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–KING–JAMES–BIBLE — v1.0
+MEM–ANGLIA–LIT–KING–JAMES–BIBLE — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Supersedes: —
-Upgrade Type: RENAME (KING–JAMES–BIBLE → LIT–KING–JAMES–BIBLE)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: ADDITIVE · Bibliography section added
 Civilization: ANGLIA
 Subject: King James Bible (Authorized Version)
 Dates: 1611 AD–present
@@ -120,5 +120,31 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–KING–JAMES–BIBLE — v1.0
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–JAMES–I — James I commissions KJV; Authorized Version, royal authority; procedural legitimacy through translation
+• MEM–ANGLIA–DYNASTY–STUART — Stuart legitimacy; KJV as Stuart achievement; procedural continuity through text
+• MEM–ANGLIA–LAW–PARLIAMENT — KJV translation process; parliamentary/ecclesiastical authority; procedural order through text
+• MEM–ANGLIA–HENRY–VIII — Henry's break with Rome; KJV as post-Reformation synthesis; procedural continuity through text
+• MEM–ANGLIA–ELIZABETH–I — Elizabethan religious settlement; KJV as Anglican synthesis; procedural order through text
+• MEM–ANGLIA–LIT–SHAKESPEARE — Shakespeare writes during KJV translation; biblical language, literary tradition; shared textual authority
+• MEM–ANGLIA–LIT–MILTON — Milton's *Paradise Lost*; KJV as source, literary tradition; sacred text as literary foundation
+• MEM–ANGLIA–AMERICAN–REVOLUTION — KJV in America; trans-Atlantic religious/literary tradition; procedural continuity through text
+• MEM–ANGLIA–UNITED–STATES–AMERICA — KJV as American biblical text; settler zone, religious continuity; procedural order across ocean
+• MEM–ANGLIA–CANADA — KJV in Canada; settler zone, religious continuity; procedural order through text
+• MEM–ANGLIA–LIT–LOCKE — Locke's biblical references; KJV as source; procedural order through shared text
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as religious/literary corridor; KJV's trans-Atlantic influence; procedural continuity across ocean
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as defensive filter; KJV as Anglian identity marker; island identity through text
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **King James Bible (Authorized Version)** (1611) — Translation commissioned by James I; procedural legitimacy through text, shared sacred language; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–KING–JAMES–BIBLE — v2.2
 ────────────────────────────────────────────────────────────

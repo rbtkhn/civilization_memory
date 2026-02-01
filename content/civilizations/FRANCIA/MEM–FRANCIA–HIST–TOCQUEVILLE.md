@@ -207,7 +207,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–LAW–NAPOLEONIC–CODE — uniform law as continuity
 
 Cross-civilizational:
-• (Democracy in America: United States as contrast case; no MEM–ANGLIA–* required for this MEM.)
+• MEM–ANGLIA–HIST–TOCQUEVILLE — Same figure, Anglia's encoding; Tocqueville as external observer of American democracy. Francia MEM = diagnostician of French revolution; Anglia MEM = observer of us.
 
 ────────────────────────────────────────────────────────────
 IX. ACADEMIC REFERENCES (ENGAGED)

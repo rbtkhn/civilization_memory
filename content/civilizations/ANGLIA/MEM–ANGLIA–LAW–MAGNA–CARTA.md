@@ -240,7 +240,7 @@ X. CROSS-REFERENCED MEM FILES (MANDATORY)
 ANGLIA:
 • MEM–ANGLIA–RICHARD–LIONHEART — glory without governance
 • MEM–ANGLIA–HENRY–VIII — rupture legalized later
-• MEM–ANGLIA–CIVIL–WAR — escalation when constraint fails
+• MEM–ANGLIA–WAR–ENGLISH–CIVIL — escalation when constraint fails
 • MEM–ANGLIA–BILL–OF–RIGHTS — constraint formalized
 
 Cross-Civilizational:

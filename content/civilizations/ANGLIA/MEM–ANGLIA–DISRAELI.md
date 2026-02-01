@@ -36,8 +36,8 @@ empire and Eastern Question, crown and conservatism, and the
 consolidation of Conservative tradition (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill’s *The Great Democracies* treats Gladstone and Disraeli in The Victorian Age—the great rivalry, Disraeli’s empire and Eastern Question, Imperial India and crown as symbol, and the Conservative tradition alongside Gladstone’s liberalism.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age / Gladstone and Disraeli (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Their spokesman, the hitherto little-known Benjamin Disraeli, denounced him not so much for seeking to abolish the Corn Laws as for betraying his position as head of a great party."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 15 "The Rise of Germany" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. EMPIRE AS PARLIAMENTARY NARRATIVE

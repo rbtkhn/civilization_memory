@@ -46,9 +46,9 @@ Age of Revolution*—Blenheim to Waterloo): the king who secured the
 constitutional platform for coalition warfare and financial
 endurance (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* begins with Marlborough’s victorious 1704 campaign at Blenheim in support of William of Orange—and ends with Napoleon’s defeat at Waterloo in 1815.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), opening (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+SOURCE — Churchill, *The New World* (Vol. 2), Preface (ARC-T-MODERN):
+> "At the end of this volume the Protestant faith has been secured under a Dutch monarch, Parliament is far advanced on the road to supremacy in the affairs of State."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Preface (ARC-T-MODERN) [ERC-SECONDARY]
 
 William’s reign (1689–1702) establishes the **fiscal-military state**
 and the commitment to continental coalition that Marlborough will

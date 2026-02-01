@@ -1,16 +1,17 @@
-MEM–ANGLIA–BRITISH–EMPIRE — v1.7
+MEM–ANGLIA–BRITISH–EMPIRE — v1.10
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.9
-Supersedes: v1.8
-Upgrade Type: ADDITIVE · Kissinger *Diplomacy* SOURCE block upgrade (Phase 1)
+Version: 1.10
+Supersedes: v1.9
+Upgrade Type: ADDITIVE · Will Durant SOURCE block (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: The British Empire (Procedural Empire, System Management, and Controlled Dissolution)
 Dates: 16th century–20th century AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,650
+Word Count: ~2,750
+ARC Compliance: Churchill, Anderson, Kissinger, Ferguson, Durant in ARC-T-MODERN (CIV–ARC–ANGLIA v1.3)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -81,11 +82,11 @@ Mechanisms include:
 
 Henry Kissinger characterizes this system as maritime balance-keeping:
 
-SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+SUMMARY — Kissinger, *Diplomacy* (ARC-T-MODERN):
 > Britain's empire rested less on conquest than on its capacity
 > to regulate the international system from the sea, intervening
 > selectively while avoiding territorial overcommitment.
-> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 A Treasury memorandum from the Napoleonic era illustrates this logic:
 > “So long as public credit remains unquestioned, His Majesty’s
@@ -98,9 +99,15 @@ Control is exercised through circulation.
 
 Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), provides the definitive structural analysis of the British Empire's maritime-financial foundation—arguing that Britain's empire was sustained not by conquest or ideology, but by sea power, credit, and the City of London's capacity to finance global reach through debt and insurance systems (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > The British Empire was not primarily a territorial empire, though it acquired vast territories. It was a maritime-commercial empire, sustained by the Royal Navy and the City of London. Sea power allowed Britain to control trade routes; financial power allowed it to fund coalitions, subsidize allies, and project force at distance without the fiscal collapse that destroyed continental empires. The empire's longevity derived not from military superiority on land, but from the ability to monetize time—to borrow against future revenues and spread costs across decades.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 1: Why Britain? (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
+
+Will and Ariel Durant, in *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (1961), describe the maritime-commercial surge that created Britain’s imperial scale: shipbuilding, trade routes, and a navy that turned forests into masts and colonies into a world system (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Durant, *The Age of Reason Begins* (Vol. 7) (ARC-T-MODERN):
+> “Men in love with the sea or money ventured across oceans to find new trade routes; the science of geography was in part a by-product of their zeal. A fury of shipbuilding was engendered by the quest for markets and colonies; English forests became masts and hulls, Britannia began to rule the waves, and the British Empire was born in fact and phrase.”
+> — Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961), 50 (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 IV. INDIRECT RULE AS DEFAULT MODE
@@ -125,9 +132,9 @@ Niall Ferguson emphasizes that this restraint was structural, not moral:
 > to provoke sustained resistance.”
 Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), provides the definitive structural analysis of indirect rule—arguing that Britain's light governance was driven by cost-efficiency and flexibility rather than benevolence, allowing the empire to scale without provoking sustained resistance (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > The British Empire ruled lightly not because it was benevolent, but because light rule was cheaper, more flexible, and less likely to provoke sustained resistance. Indirect rule—governing through local elites, preserving customary law, and minimizing direct administrative presence—allowed Britain to control vast territories with minimal personnel and cost. This was not a moral choice but a structural necessity: the empire could not afford the fiscal and military burden of direct administration across three continents.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 4: Heaven's Breed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Empire is managed, not unified.
 
@@ -171,9 +178,9 @@ but dissolves imperial illusion.
 
 Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), treats the world wars as the structural breaking point of British imperial capacity—the moment when industrial warfare consumed the fiscal-naval system that had sustained global reach since the 18th century (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > The First World War did not end the British Empire immediately, but it destroyed the economic foundation on which empire rested. Britain emerged victorious but bankrupt, its maritime supremacy intact but its financial primacy ceded to the United States. The Second World War completed the process: Britain could no longer afford to police trade routes, subsidize allies, or sustain garrisons across three continents. Victory in 1945 masked strategic exhaustion. The empire survived a decade longer on inertia and American tolerance, but the fiscal-military machine that had built it was gone.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 6: Mission Accomplished? (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 VII. CONTROLLED DECOLONIZATION
@@ -225,7 +232,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. MEM INGEST BOOTSTRAP — TEMPLATE v1.5 COMPLIANAD
+X. MEM INGEST BOOTSTRAP — TEMPLATE v1.5 COMPLIANT
 ────────────────────────────────────────────────────────────
 This section governs automatic behavior when this MEM file is ingested
 into a new conversation **as the sole structured artifact**.
@@ -290,5 +297,5 @@ X.d STUDENT AGENCY RULE
 • After completion, a new option set MAY be offered.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.8
+END OF FILE — MEM–ANGLIA–BRITISH–EMPIRE — v1.10
 ────────────────────────────────────────────────────────────

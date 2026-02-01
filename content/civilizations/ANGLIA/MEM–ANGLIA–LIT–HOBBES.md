@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–HOBBES — v1.3
+MEM–ANGLIA–LIT–HOBBES — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: RENAME (HOBBES → LIT–HOBBES)
+Version: 2.2
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · Bibliography section added
 Civilization: ANGLIA
 Subject: Thomas Hobbes (Order Before Liberty & Fear as Foundation)
 Dates: 1588–1679 AD
@@ -176,6 +176,31 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–HOBBES — v1.3
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–WAR–HASTINGS — Hobbes shares Hastings's lesson: personal authority collapse produces total systemic failure; order before liberty
+• MEM–ANGLIA–WAR–ENGLISH–CIVIL — Hobbes writes during/after Civil War; *Leviathan* as response to disorder; indivisible authority as solution
+• MEM–ANGLIA–CHARLES–I — Execution of Charles I; Hobbes's fear of authority collapse; indivisible sovereignty as necessity
+• MEM–ANGLIA–CROMWELL — Cromwell as Leviathan; order restored through indivisible authority; fear stabilizes when trust fails
+• MEM–ANGLIA–DYNASTY–STUART — Stuart collapse; Hobbes's diagnosis of authority failure; order before freedom
+• MEM–ANGLIA–LIT–LOCKE — Contrast: Hobbes (order before liberty) vs. Locke (liberty through procedure); fear vs. consent
+• MEM–ANGLIA–LIT–MILTON — Contemporary; Milton (liberty through restraint) vs. Hobbes (order through fear); republican vs. absolutist
+• MEM–ANGLIA–LAW–PARLIAMENT — Parliament's authority challenge; Hobbes's indivisible sovereignty; order requires single authority
+• MEM–ANGLIA–GLORIOUS–REVOLUTION — Post-Hobbes; procedural revolution vs. Hobbes's indivisible authority; order through procedure vs. fear
+• MEM–ANGLIA–WILLIAM–III — William as Leviathan; order restored without absolute authority; procedural alternative to Hobbes
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as defensive filter; Hobbes's fear of invasion/chaos; island fortress, indivisible authority
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as operating system; Hobbes's state as island fortress; order through isolation
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **Thomas Hobbes**, *Leviathan, or The Matter, Forme and Power of a Common Wealth Ecclesiasticall and Civil* (1651) — "Covenants, without the sword, are but words"; "The condition of man… is a condition of war of every one against every one"; order before liberty, indivisible authority; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–HOBBES — v2.2
 Word Count: ~830
 ────────────────────────────────────────────────────────────

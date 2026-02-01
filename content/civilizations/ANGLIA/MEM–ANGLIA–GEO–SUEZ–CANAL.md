@@ -73,9 +73,9 @@ Mechanisms:
 
 Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Suez as the paradigmatic British strategic node—defended at all costs but never formally annexed, governed through financial leverage and military presence rather than sovereignty (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > The Suez Canal was Britain's imperial lifeline, the route that made India accessible and the empire defensible. Yet Britain never owned it outright. Disraeli's 1875 share purchase gave Britain financial control; the 1882 occupation of Egypt gave military control; but formal sovereignty remained with Egypt. This was empire on the cheap—strategic dominance without the overhead of annexation. Suez demonstrated that Britain could defend what it needed without governing what it did not.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 4: Heaven's Breed (strategic nodes, Egypt) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Procedure substitutes for possession.
 

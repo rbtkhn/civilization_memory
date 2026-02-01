@@ -153,7 +153,7 @@ This version corrects discrepancies identified in v1.0:
 VERSION BINDINGS (CURRENT)
 ────────────────────────────────────────────────────────────
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.8
+• CIV–MEM–CORE: v2.9
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.6 (PRIMARY)

@@ -1,12 +1,12 @@
-MEM–ANGLIA–BURKE — v1.1
+MEM–ANGLIA–LIT–BURKE — v2.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Churchill Vol. 3 (*The Age of Revolution*)
+Version: 2.3
+Supersedes: v2.2
+Upgrade Type: ADDITIVE · Subject line standardized
 Civilization: ANGLIA
-Subject: Edmund Burke
+Subject: Edmund Burke (Procedural Conservatism & Anti-Revolutionary Restraint)
 Dates: 1729–1797 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -14,7 +14,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Edmund Burke as **Anglia’s philosophical immune
+This file preserves Edmund Burke as **Anglia's philosophical immune
 system**: the thinker who articulated why procedural continuity,
 inherited institutions, and moral restraint outperform abstract
 revolutionary reason in preserving civilization.
@@ -27,7 +27,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. POSITION WITHIN ANGLIAN CIVILIZATION
 ────────────────────────────────────────────────────────────
-Burke operates inside Anglia’s parliamentary tradition.
+Burke operates inside Anglia's parliamentary tradition.
 
 Context:
 • Member of Parliament
@@ -64,16 +64,16 @@ Critique of the French Revolution:
 
 Revolution erases constraints faster than it builds replacements.
 
-Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the French Revolution and its shadow over Europe and Britain’s coalition response; Burke’s critique of the French Revolution and Anglia’s refusal to mirror revolutionary mobilization are part of the volume’s narrative of Britain’s rise through restraint (ARC-T-MODERN) [ERC-SECONDARY].
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the French Revolution and its shadow over Europe and Britain's coalition response; Burke's critique of the French Revolution and Anglia's refusal to mirror revolutionary mobilization are part of the volume's narrative of Britain's rise through restraint (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the French Revolution and its shadow over Europe; Britain’s response—coalition warfare, financial endurance, and refusal of ideological symmetry—is framed within the long Anglo-French rivalry from Marlborough to Waterloo.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In July 1765 the Marquis of Rockingham, a shy, well-meaning Whig who was disturbed at George’s conduct, undertook to form a Government, and brought with him as private secretary a young Irishman named Edmund Burke, already known in literary circles as a clever writer and a brilliant talker. He was much more. He was a great political thinker."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), p. 144 (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 V. PROCEDURE OVER MORAL FERVOR
 ────────────────────────────────────────────────────────────
-Burke aligns with Anglia’s procedural bias.
+Burke aligns with Anglia's procedural bias.
 
 Principles:
 • Reform must be incremental
@@ -98,7 +98,7 @@ Empire must be governed by law or it corrodes the center.
 ────────────────────────────────────────────────────────────
 VII. BURKE VS. FRANCIA
 ────────────────────────────────────────────────────────────
-Burke functions as Anglia’s anti-Jacobin.
+Burke functions as Anglia's anti-Jacobin.
 
 Contrast:
 • Anglia: inheritance, restraint, continuity
@@ -131,5 +131,31 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–BURKE — v1.1
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–LAW–PARLIAMENT — Burke as MP; parliamentary tradition defender; procedural legitimacy vs. revolutionary rupture
+• MEM–ANGLIA–GLORIOUS–REVOLUTION — Burke's contrast: Glorious Revolution (procedural) vs. French Revolution (rupture); legitimacy through procedure
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Burke's defense of American colonial rights; procedural vs. revolutionary contrast; restraint in imperial response
+• MEM–ANGLIA–PITT–YOUNGER — Contemporary political ally; Rockingham Whigs; Burke's influence on Pitt's restraint
+• MEM–ANGLIA–WILBERFORCE — Contemporary; Burke's ambivalence vs. Wilberforce's moral clarity; procedural vs. moral reform
+• MEM–ANGLIA–LIT–LOCKE — Intellectual predecessor; procedural liberalism; consent through procedure, not rupture
+• MEM–ANGLIA–LIT–HOBBES — Contrast: order through fear vs. order through tradition; Burke's procedural alternative to Hobbesian absolutism
+• MEM–ANGLIA–WAR–NAPOLEON — Burke predicts French Revolution consequences; coalition response; procedural restraint vs. revolutionary expansion
+• MEM–ANGLIA–BRITISH–EMPIRE–INDIA — Burke's critique of East India Company abuses; accountability of power as civilizational duty
+• MEM–ANGLIA–DYNASTY–HANOVER — Burke operates within Hanoverian constitutional framework; procedural continuity under Hanover
+• MEM–ANGLIA–LIT–PAINE — Direct contrast: Burke (procedural continuity) vs. Paine (revolutionary rupture); anti-Jacobin vs. revolutionary simplifier
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as defensive filter; Burke's procedural continuity vs. continental rupture; island identity
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as civilizational operating system; Burke's trans-Atlantic perspective; procedural order across ocean
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Secondary / critical (ARC-T-MODERN):
+• **Winston S. Churchill**, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) — Burke's role in Rockingham government, critique of French Revolution, Anglia's restraint; ARC-T-MODERN [ERC-SECONDARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–BURKE — v2.3
 ────────────────────────────────────────────────────────────

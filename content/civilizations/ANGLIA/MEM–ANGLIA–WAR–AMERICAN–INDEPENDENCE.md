@@ -49,8 +49,8 @@ SOURCE — Anderson, *Crucible of War* (ARC-T-MODERN):
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats the American War of Independence and the rise of the American colonies within the volume’s arc from Marlborough to Waterloo, framing the loss of the colonies and the emergence of the “first great generation” of American leaders (Washington, Adams, Jefferson) as part of the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples from Blenheim to Waterloo.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In May 1775 a congress of delegates from the American colonies met in the Carpenters’ Hall of the quiet Pennsylvanian town of Philadelphia. They were respectable lawyers, doctors, merchants, and landowners, nervous at the onrush of events."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 13 "The War of Independence" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. ASYMMETRIC LEGITIMACY CONFLICT

@@ -55,9 +55,9 @@ Mechanism:
 
 Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), treats Rhodes as the paradigmatic late-Victorian imperialist—the figure who demonstrated that empire could be built by private capital with state backing, minimizing London's overhead while maximizing territorial acquisition during the Scramble for Africa (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > Cecil Rhodes was the archetypal empire-builder of the late Victorian era—part businessman, part politician, part visionary. Through the British South Africa Company, Rhodes conquered and governed vast territories in southern Africa, replicating the East India Company model a century later. His fortune from diamonds funded expansion; his chartered company provided the legal mechanism; his political position as Cape Prime Minister gave him leverage. Rhodes embodied the fusion of commerce and empire that characterized British imperialism at its peak—and the moral contradictions that would later undermine it.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 5: Maxim Force (Rhodes, Scramble for Africa, chartered companies) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Empire becomes a business model.
 

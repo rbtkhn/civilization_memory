@@ -49,9 +49,9 @@ consent of the political nation, not by battle alone.
 
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), devotes chapters to “The Catholic King” and “The Revolution of 1688,” framing James’s reign as the moment when confessional and dynastic overreach meet institutional resistance—and the Revolution of 1688 as the consolidation of Parliament’s supremacy and constitutional monarchy (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The New World* (Vol. 2), Book VI (ARC-T-MODERN):
-> Churchill’s chapters on the Catholic King and the Revolution of 1688 frame James II’s reign as the trigger for revolution by invitation—the king who could not hold the realm, and the parliamentary and elite consensus that transferred the crown to William and Mary and consolidated constitutional monarchy.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Ch. The Catholic King / The Revolution of 1688 (ARC-T-MODERN) [ERC-SECONDARY]
+SOURCE — Churchill, *The New World* (Vol. 2), Preface (ARC-T-MODERN):
+> "At the end of this volume the Protestant faith has been secured under a Dutch monarch, Parliament is far advanced on the road to supremacy in the affairs of State."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Preface (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. FLIGHT & REVOLUTION BY INVITATION (PRIMARY + SECONDARY)

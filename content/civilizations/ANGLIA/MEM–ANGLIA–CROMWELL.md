@@ -1,13 +1,16 @@
-MEM–ANGLIA–CROMWELL
+MEM–ANGLIA–CROMWELL — v1.1
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Will Durant SOURCE block (ARC-T-MODERN)
 Civilization: ANGLIA
 Regime: REVOLUTIONARY / MILITARY–PURITAN (1642–1660)
 Subject: Oliver Cromwell
 Dates: 1599–1658 AD
 Class: MEM (Civilizational Memory)
-Last Update: December 2025
-Word Count: ~2,000
+Last Update: January 2026
+Word Count: ~2,100
+ARC Compliance: Durant in ARC-T-MODERN (CIV–ARC–ANGLIA v1.3)
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -90,6 +93,12 @@ Force precedes law; obedience precedes consent.
 
 Civil authority becomes conditional.
 
+Will and Ariel Durant, in *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (1961), treat the English Civil War and Cromwell as the moment when Puritan discipline and military merit overthrow sacred kingship—regicide desacralizes monarchy and the Protectorate attempts governance without dynasty, leaving Anglia’s legitimacy grammar permanently altered (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Durant, *The Age of Reason Begins* (Vol. 7) (ARC-T-MODERN):
+> “It is impossible, at this distance, to picture him objectively, for since his rise and till today historians have described him as an ambitious hypocrite or a statesman-saint. A personality so ambivalent probably encloses—sometimes he harmonizes—in his character the opposite qualities that beget such contradictory estimates. This may be the key to Cromwell. He was one of those landowners without pedigree who stood outside the glamour of government, but paid uncomfortably for its maintenance.”
+> — Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961), 208 (ARC-T-MODERN) [ERC-SECONDARY].
+
 ────────────────────────────────────────────────────────────
 VI. THE PROTECTORATE & FAILED CONSOLIDATION
 ────────────────────────────────────────────────────────────
@@ -168,6 +177,9 @@ Primary:
 • Instrument of Government (1653)
 • New Model Army ordinances
 
+Secondary (ARC-T-MODERN):
+• Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961) — English Civil War, Cromwell, regicide, Protectorate; CIV–ARC–ANGLIA v1.3.
+
 Secondary:
 • Mark Kishlansky
 • John Morrill
@@ -176,5 +188,5 @@ Secondary:
 • Conrad Russell
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–CROMWELL v1.0
+END OF FILE — MEM–ANGLIA–CROMWELL — v1.1
 ────────────────────────────────────────────────────────────

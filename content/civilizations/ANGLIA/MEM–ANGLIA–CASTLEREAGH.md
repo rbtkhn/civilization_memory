@@ -34,7 +34,7 @@ Castlereagh as the architect of British restraint in the post-Napoleonic
 settlement, contrasting Castlereagh's approach with Metternich's
 continental interventionism (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
+SUMMARY — Kissinger, *A World Restored* (ARC-T-MODERN):
 > Castlereagh represented Britain's preference for restraint over
 > interventionism. Unlike Metternich, who sought to maintain order through
 > continental intervention and suppression of revolutionary movements,
@@ -42,10 +42,7 @@ SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
 > management and diplomatic restraint. Britain's approach emphasized
 > legitimacy through system stability rather than territorial expansion or
 > ideological crusades.
-> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the
-> Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page]
-> (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source
-> consulted.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 III. CONGRESS OF VIENNA & POST-NAPOLEONIC ORDER
@@ -63,7 +60,7 @@ The Congress of Vienna (1814–1815) establishes a post-Napoleonic order
 in which Britain, through Castlereagh, plays a crucial role as the
 architect of restraint rather than continental dominance.
 
-SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
+SUMMARY — Kissinger, *A World Restored* (ARC-T-MODERN):
 > The Congress of Vienna established a post-Napoleonic order in which
 > Britain, through Castlereagh, played a crucial role as the architect of
 > restraint. Unlike Metternich's continental interventionism, Britain's
@@ -71,10 +68,7 @@ SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
 > restraint, and maritime-financial primacy rather than territorial
 > expansion. The settlement reflected Britain's preference for system
 > stability over revolutionary transformation.
-> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the
-> Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page]
-> (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source
-> consulted.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 IV. RESTRAINT VS. METTERNICH'S INTERVENTIONISM

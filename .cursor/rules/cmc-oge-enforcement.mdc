@@ -68,4 +68,4 @@ These are **MANDATORY**, not optional. See cmc-tri-frame-protocol.
 - OGE required; minimum **1 Barnes option** mandatory.
 - When POST-BARNES, include M/M response options as above.
 
-Reference: CMC–BOOTSTRAP v2.11, CIV–MIND–BARNES § POST-BARNES OGE, cmc-tri-frame-protocol
+Reference: CMC–BOOTSTRAP v2.14, CIV–MIND–BARNES § POST-BARNES OGE, cmc-tri-frame-protocol

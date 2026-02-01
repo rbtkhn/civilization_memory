@@ -37,8 +37,8 @@ liberal intervention, and the assertion of British interests abroad
 (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill’s *The Great Democracies* treats Palmerston in the Recovery and Reform section—mid-Victorian foreign policy, liberal intervention, and the assertion of British interests and moral rhetoric alongside naval and diplomatic reach.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section I: Recovery and Reform / Palmerston (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "One of Melbourne’s ablest colleagues was Lord Palmerston, who held the Foreign Office for nearly eleven years. ... The neutrality of the country was guaranteed by international treaty."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 5 "Palmerston" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. FOREIGN POLICY AS PARLIAMENTARY INSTRUMENT
@@ -67,9 +67,9 @@ Characteristics:
 
 He encodes **liberal intervention as system**, not revolution.
 
-SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
-> Palmerston represented mid-Victorian Britain's approach to liberal intervention: asserting British interests and moral rhetoric alongside naval and diplomatic reach, but avoiding permanent continental entanglements. His method combined balance-of-power management with selective intervention in support of constitutional causes, reflecting Britain's preference for system stability over ideological crusades.
-> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+SUMMARY — Kissinger, *Diplomacy* (ARC-T-MODERN):
+> Summary-only note: Open-web access to a verbatim *Diplomacy* text was not available at time of update. The summary above reflects Kissinger's account of Palmerston's balance-of-power and selective-intervention approach.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 V. CIVILIZATIONAL MEMORY FUNCTION

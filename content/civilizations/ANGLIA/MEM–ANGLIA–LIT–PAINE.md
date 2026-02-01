@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–PAINE — v1.4
+MEM–ANGLIA–LIT–PAINE — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: RENAME (PAINE → LIT–PAINE)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: ADDITIVE · Bibliography section added
 Civilization: ANGLIA
 Subject: Thomas Paine (Revolutionary Simplifier and Anti-Procedural Catalyst)
 Dates: 1737–1809 AD
@@ -190,6 +190,33 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–PAINE — v1.4
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Paine's *Common Sense*; revolutionary catalyst; simplification, rupture
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — Paine serves in Continental Army; revolutionary commitment; rupture vs. procedure
+• MEM–ANGLIA–LIT–BURKE — Direct contrast: Paine (revolutionary rupture) vs. Burke (procedural continuity); anti-Jacobin vs. revolutionary
+• MEM–ANGLIA–LIT–LOCKE — Paine extends Locke; natural rights, consent, rupture; revolutionary vs. procedural liberalism
+• MEM–ANGLIA–HAMILTON — Contrast: Paine (revolutionary simplicity) vs. Hamilton (procedural complexity); rupture vs. continuity
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS — Federalist Papers respond to Paine; procedural vs. revolutionary; complexity vs. simplification
+• MEM–ANGLIA–FRANKLIN — Paine's American connection; trans-Atlantic revolutionary network; rupture across ocean
+• MEM–ANGLIA–WAR–NAPOLEON — Paine's French Revolution involvement; revolutionary internationalism; rupture vs. procedure
+• MEM–ANGLIA–DYNASTY–HANOVER — Paine challenges Hanoverian legitimacy; revolutionary alternative; rupture vs. continuity
+• MEM–ANGLIA–BRITISH–EMPIRE — Paine's critique of empire; revolutionary anti-imperialism; rupture vs. procedural order
+• MEM–ANGLIA–LIT–SMITH — Contemporary; Smith (markets, order) vs. Paine (revolution, rupture); order vs. simplification
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as revolutionary corridor; Paine's trans-Atlantic influence; rupture across ocean
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as barrier; Paine's revolutionary break from Anglia; rupture vs. continuity
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **Thomas Paine**, *Common Sense* (1776) — "Government, even in its best state, is but a necessary evil"; revolutionary simplification, rupture; [ERC-PRIMARY].
+• **Thomas Paine**, *The American Crisis*, No. I (1776) — Revolutionary mobilization, rupture vs. procedure; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–PAINE — v2.2
 Word Count: ~790
 ────────────────────────────────────────────────────────────

@@ -45,8 +45,8 @@ The Union must win without becoming revolutionary.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Appomattox within "The Great Republic" section—"Victory of the Union"—framing the surrender as the procedural termination that preserves institutional continuity (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers Victory of the Union—Appomattox as the surrender that ends the war through procedure rather than annihilation, preserving institutional continuity.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Grant wrote them out in a few sentences. The officers and men of the Army of Northern Virginia must surrender their arms and return on parole to their homes. ... Grant added, 'Your men must keep their horses and mules. They will need them for the spring ploughing.'"
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. APPOMATTOX AS PROCEDURAL CHOICE

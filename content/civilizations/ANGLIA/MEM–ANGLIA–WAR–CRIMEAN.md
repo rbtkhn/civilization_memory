@@ -27,8 +27,8 @@ Contradictions are preserved without synthesis.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats the Crimean War within "Recovery and Reform" section—"Crimean War"—framing it as Anglia's legitimacy–capacity mismatch exposure event, where strategic success coexists with administrative failure and public scrutiny (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "Recovery and Reform" section covers the Crimean War—Anglia's alliance warfare to constrain Russian expansion, yet suffering severe reputational damage due to institutional unpreparedness and public visibility.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section I: Recovery and Reform / Crimean War (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Towards the middle of the nineteenth century political life in England was still following its long-accustomed habits."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 4 "The Crimean War" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 II. STRATEGIC CONTEXT & ENTRY

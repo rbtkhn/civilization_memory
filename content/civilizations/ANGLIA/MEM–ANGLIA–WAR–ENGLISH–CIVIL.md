@@ -44,9 +44,9 @@ Jonathan Healey (*The Blazing World: A New History of Revolutionary England, 160
 
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), Book V (“The Civil War”), devotes chapters to “The Revolt of Parliament,” “The Great Rebellion,” “Marston Moor and Naseby,” and “The Axe Falls”—framing the conflict as a civil war “fought on abiding issues of principle” and the execution of Charles I as the moment when procedure asserts itself over sacral kingship (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The New World* (Vol. 2), Book V (ARC-T-MODERN):
-> A great civil war was fought on abiding issues of principle; Churchill’s chapters on the Revolt of Parliament, the Great Rebellion, Marston Moor and Naseby, and the Axe Falls frame the conflict as the moment when procedure asserts itself over sacral kingship.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Book V (ARC-T-MODERN) [ERC-SECONDARY]
+SOURCE — Churchill, *The New World* (Vol. 2), Preface (ARC-T-MODERN):
+> "Lively and assertive communities grew up on the western shores of the Atlantic Ocean, which in the course of time were to become the United States. England and Scotland adopted the Protestant faith. The two kingdoms of the Island became united under a Scottish dynasty. A great civil war was fought on abiding issues of principle. The country sustained a Republican experiment under the massive personality of Oliver Cromwell. But, at the nation's demand, the royal tradition was revived."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Preface (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. PARLIAMENT VS CROWN AS LEGITIMACY CLAIM
@@ -81,9 +81,8 @@ Developments:
 For the first time, Anglia experiments with
 **armed procedure** rather than dynastic loyalty.
 
-SOURCE — Healey, *The Blazing World* (ARC-T-MODERN):
-> [Insert verbatim quote from Jonathan Healey, *The Blazing World: A New History of Revolutionary England, 1603–1689* (2023), ≥25 words. Suggested: passage on the New Model Army, regicide as rupture, or civil war as revolutionary moment.]
-> — Healey, *The Blazing World* (ARC-T-MODERN) [ERC-SECONDARY]
+SUMMARY — Healey, *The Blazing World* (ARC-T-MODERN):
+Healey frames the Civil War era as part of a genuinely revolutionary period, highlighting political rupture alongside social and intellectual change, and the emergence of new ideas of authority and consent (non-verbatim summary).
 
 ────────────────────────────────────────────────────────────
 V. REGICIDE & PROCEDURAL BREAK

@@ -36,8 +36,8 @@ free trade, Ireland, and the consolidation of Liberal and Conservative
 traditions (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill’s *The Great Democracies* treats Gladstone and Disraeli in The Victorian Age—the great rivalry, Gladstone’s reform and moral rhetoric, Ireland and Home Rule, and the Liberal tradition alongside Disraeli’s conservatism and empire.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age / Gladstone and Disraeli (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The faithful followers of Peel and Free Trade, who included in Aberdeen and Gladstone two future Prime Ministers, were content to let the Whigs bear the heat of the day."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 15 "The Rise of Germany" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. REFORM AS PARLIAMENTARY INSTRUMENT

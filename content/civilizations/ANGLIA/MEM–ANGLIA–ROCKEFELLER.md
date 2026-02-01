@@ -43,9 +43,9 @@ Context:
 
 Ron Chernow, in *Titan: The Life of John D. Rockefeller, Sr.* (1998), treats Rockefeller as the paradigmatic American industrial monopolist—the figure who demonstrated that a single commodity (oil) could be dominated by one vertically integrated structure, and that private concentration could provoke both admiration and legal backlash.
 
-SOURCE — Chernow, *Titan* (ARC-T-MODERN) [ERC-SECONDARY]:
+SUMMARY — Chernow, *Titan* (ARC-T-MODERN) [ERC-SECONDARY]:
 > Rockefeller did not invent the trust—but he perfected it. Standard Oil became the model for industrial concentration: vertical integration, ruthless cost-cutting, and the use of rebates and predatory pricing to eliminate competitors. He did not need a chartered company or political office. He needed capital, discipline, and the legal form that would hold the combine together—the trust—until the courts decided they would not.
-> — Ron Chernow, *Titan: The Life of John D. Rockefeller, Sr.* (New York: Random House, 1998), paraphrased and condensed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Ron Chernow, *Titan: The Life of John D. Rockefeller, Sr.* (New York: Random House, 1998) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Industrial concentration created both efficiency and vulnerability—efficiency in scale and coordination, vulnerability to antitrust law and political reaction.
 

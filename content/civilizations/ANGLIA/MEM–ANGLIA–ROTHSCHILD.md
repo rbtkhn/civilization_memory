@@ -45,7 +45,7 @@ Ferguson documents the familial foundation that enabled Nathan's rise:
 > "Mayer Amschel understood that discretion and reliability were
 > worth more than any interest rate. He was trusted because he could
 > be trusted."
-> — Niall Ferguson, *The House of Rothschild: Money's Prophets, 1798–1848* (New York: Viking, 1998) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *The House of Rothschild: Money's Prophets, 1798–1848* (New York: Viking, 1998) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Trust is the first asset; capital follows. Nathan inherits that reputation and extends it into British government finance.
 
@@ -67,7 +67,7 @@ Ferguson emphasizes the coordination logic:
 > "The Rothschilds were not five separate banks but one bank with
 > five addresses. Information flowed between them faster than any
 > government dispatch."
-> — Niall Ferguson, *The House of Rothschild: Money's Prophets, 1798–1848* (1998) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *The House of Rothschild: Money's Prophets, 1798–1848* (1998) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Network defeats hierarchy. The London house is one node; its value depends on Frankfurt, Paris, Vienna, and Naples. Anglia benefits from that network without controlling it.
 
@@ -88,7 +88,7 @@ Ferguson notes:
 
 > "Speed of information was the Rothschilds' decisive edge. They knew
 > what was happening before their competitors, and they acted on it."
-> — Niall Ferguson, *The House of Rothschild: Money's Prophets, 1798–1848* (1998) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *The House of Rothschild: Money's Prophets, 1798–1848* (1998) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Information asymmetry converts into trading profit; trading profit converts into capital accumulation; capital accumulation converts into credit capacity; credit capacity converts into state dependency. For Anglia, the dependency ran both ways: the British state needed Rothschild to fund war; Rothschild needed the British state's debt and stability to profit. Mutual dependency, not subordination.
 

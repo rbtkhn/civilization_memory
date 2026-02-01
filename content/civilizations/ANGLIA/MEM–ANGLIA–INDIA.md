@@ -69,9 +69,9 @@ Legitimacy shifts from contract to order.
 
 Procedure replaces partnership.
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > India functioned as the "jewel in the crown" of the British Empire—the territory that transformed Britain from a maritime-commercial power into a global administrative empire. The transition from East India Company rule to direct Crown administration after 1857 marked a shift from commercial extraction to formal governance, yet the tension between extraction and governance persisted throughout the Raj. India became Britain's administrative laboratory, where indirect rule, legal codification, and infrastructure development were tested at unprecedented scale, even as the costs of maintaining imperial control grew and nationalist resistance mounted.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 4: Heaven's Breed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 V. INFRASTRUCTURE & SYSTEM DEPTH

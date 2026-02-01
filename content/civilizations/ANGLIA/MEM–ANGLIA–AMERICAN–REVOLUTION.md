@@ -66,8 +66,8 @@ Anglian constitutional grammar, even in rebellion.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats the American Revolution and the rise of the American colonies within the volume’s arc from Marlborough to Waterloo, framing the emergence of the “first great generation” of American leaders (Washington, Adams, Jefferson) as part of the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In May 1775 a congress of delegates from the American colonies met in the Carpenters’ Hall of the quiet Pennsylvanian town of Philadelphia. They were respectable lawyers, doctors, merchants, and landowners, nervous at the onrush of events."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 13 "The War of Independence" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. GRIEVANCE AS LEGAL INDICTMENT: REBELLION IN ANGLIAN FORM
@@ -138,9 +138,9 @@ Declaration is not only a philosophical statement; it is a bid for
 recognition in an international system. It converts a domestic rebellion
 into a claim of sovereign status intelligible to other powers.
 
-SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+SUMMARY — Kissinger, *Diplomacy* (ARC-T-MODERN):
 > The Declaration of Independence was not merely a philosophical statement of universal rights; it was a bid for recognition in an international system. By framing the conflict in terms of sovereignty and legitimacy, the American revolutionaries converted a domestic rebellion into a claim of sovereign status that other powers could understand and potentially support.
-> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Universalism is used instrumentally, not as a guarantee of future
 internal harmony.

@@ -26,8 +26,8 @@ Contradictions are preserved without synthesis.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats New Zealand within "Recovery and Reform" section—"Migration of the Peoples"—framing New Zealand as Anglia's treaty-based legitimacy experiment where procedural authority is negotiated with indigenous population (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "Recovery and Reform" section covers Migration of the Peoples—New Zealand as Anglia's treaty-based legitimacy experiment, where Anglian procedural authority is explicitly negotiated through formal agreement rather than imposed solely by settlement.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section I: Recovery and Reform / Migration of the Peoples (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Greece was more interesting news than New Zealand, and the educated public were much more concerned about the slave-trade than the squalors of the emigrant ships."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 7 "The Migration of the Peoples" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 II. FOUNDING THROUGH TREATY
@@ -47,7 +47,7 @@ Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Ne
 
 SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
 > The British Empire was built not only by conquest and administration, but by emigration—the voluntary and involuntary movement of millions of British subjects across the globe. Canada, Australia, New Zealand, and South Africa became "white dominions" through settlement, creating societies that replicated British institutions, law, and governance while adapting to local conditions. This emigration, which Ferguson terms the "white plague," transformed empty or sparsely populated territories into extensions of British civilization, establishing the foundation for what would become the Commonwealth.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 2: White Plague (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURE WITH MORAL CLAIM

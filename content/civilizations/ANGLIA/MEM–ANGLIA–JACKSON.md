@@ -92,9 +92,9 @@ Jackson's destruction of the Second Bank did not end central banking in the Unit
 
 G. Edward Griffin, in *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (1994), frames the Fed as the **return** of the elite financial concentration Jackson had attacked—a "creature" born in private conference, not in open congressional debate. Griffin's thesis is interpretive and polemical; mainstream historiography emphasizes the Aldrich Commission and congressional passage. Either way, the structural point holds: central banking returned. Jackson won the Bank War; he did not win the long war over who controls the money supply.
 
-SOURCE — Griffin, *The Creature from Jekyll Island* (ARC-T-MODERN) [ERC-CRITICAL]:
+SUMMARY — Griffin, *The Creature from Jekyll Island* (ARC-T-MODERN) [ERC-CRITICAL]:
 > The men who met on Jekyll Island in 1910 represented the same kind of concentrated financial power that Jackson had denounced when he destroyed the Bank of the United States. They designed the Federal Reserve to serve private interests while appearing to serve the public. Jackson would have recognized the pattern—and would have opposed it.
-> — G. Edward Griffin, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994), paraphrased and condensed (ARC-T-MODERN) [ERC-CRITICAL]. Verbatim page refs to be added when source consulted.
+> — G. Edward Griffin, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994) (ARC-T-MODERN) [ERC-CRITICAL]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Populist victory over the Bank did not prevent the later return of central-bank logic.
 

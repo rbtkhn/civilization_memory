@@ -48,8 +48,8 @@ It is about sustaining authority, consent, and legitimacy under strain.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Gettysburg within "The Great Republic" section—"Chancellorsville and Gettysburg"—framing the battle as the turning point where Confederate offensive capacity is exhausted and Union endurance prevails (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers Chancellorsville and Gettysburg—the battle that marks the exhaustion of Confederate offensive capacity and the consolidation of Union endurance.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Chancellorsville and Gettysburg (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The spring of 1863 found the Army of the Potomac and the Army of Northern Virginia still facing each other across the Rappahannock."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 13 "Chancellorsville and Gettysburg" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CHARACTER

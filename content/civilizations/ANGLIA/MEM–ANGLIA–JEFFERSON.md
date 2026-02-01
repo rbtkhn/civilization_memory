@@ -39,8 +39,8 @@ Innovation occurs through articulation, not invention.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats Jefferson as part of the “first great generation” of American leaders—Washington, Adams, and Jefferson—who emerge from the American Revolution as founders of the republic within the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The success of the new Federal Government depended largely upon the men chosen to fill these key offices: Alexander Hamilton, the great Federalist from New York; Thomas Jefferson, the Virginian democrat, now returned from Paris; and, to a lesser extent, General Knox of Massachusetts."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 17 "The American Constitution" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. UNIVERSALIZATION OF PARTICULAR FORMS

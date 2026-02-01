@@ -104,9 +104,9 @@ Henry Kissinger’s legitimacy logic is relevant as an interpretive frame:
 when a ruler is contested, external success can stabilize internal order
 by making the regime appear *necessary* rather than merely lawful.
 
-SOURCE — Kissinger, *World Order* (ARC-T-MODERN):
+SUMMARY — Kissinger, *World Order* (ARC-T-MODERN):
 > When a ruler's legitimacy is contested internally, external success can stabilize internal order by making the regime appear necessary rather than merely lawful. Victory abroad demonstrates competence and creates a sense of shared purpose that can temporarily override domestic divisions.
-> — Henry Kissinger, *World Order* (New York: Penguin, 2014), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Henry Kissinger, *World Order* (New York: Penguin, 2014) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 In the Henry V case, the victory’s political function is later enlarged
 by the diplomatic architecture it enables—above all, the move toward

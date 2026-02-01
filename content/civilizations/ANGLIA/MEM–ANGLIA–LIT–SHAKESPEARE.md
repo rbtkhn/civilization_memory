@@ -1,12 +1,12 @@
-MEM–ANGLIA–LIT–SHAKESPEARE — v1.3
+MEM–ANGLIA–LIT–SHAKESPEARE — v2.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: RENAME (SHAKESPEARE → LIT–SHAKESPEARE)
+Version: 2.3
+Supersedes: v2.2
+Upgrade Type: ADDITIVE · Subject line standardized
 Civilization: ANGLIA
-Subject: William Shakespeare
+Subject: William Shakespeare (Authority Examined, Order Preserved)
 Dates: 1564–1616 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -178,5 +178,33 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–SHAKESPEARE — v1.3
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–RICHARD–II — *Richard II*; deposition, "blessed plot"; legitimacy examined without destruction
+• MEM–ANGLIA–RICHARD–III — *Richard III*; terminal Plantagenet, Bosworth; order restored through tragedy
+• MEM–ANGLIA–HENRY–IV — *Henry IV* 1 & 2; usurper-king, "uneasy lies the head"; legitimacy through performance
+• MEM–ANGLIA–HENRY–VI — *Henry VI* 1–3; weak king, loss of France, Wars of the Roses trigger; authority collapse
+• MEM–ANGLIA–HENRY–V — *Henry V*; St Crispin's Day, legitimacy through performance; authority examined, order preserved
+• MEM–ANGLIA–DYNASTY–PLANTAGENET — Shakespeare's Plantagenet cycle; legitimacy questions; order through examination
+• MEM–ANGLIA–DYNASTY–LANCASTER — Lancaster/York conflict; Shakespeare's Wars of the Roses; legitimacy through representation
+• MEM–ANGLIA–DYNASTY–YORK — York/Lancaster conflict; Shakespeare's Wars of the Roses; order restored through tragedy
+• MEM–ANGLIA–WAR–ROSES — Shakespeare's primary subject; civil war, legitimacy collapse; order through understanding
+• MEM–ANGLIA–ELIZABETH–I — Shakespeare's patron; Elizabethan theater, censorship, legitimacy; authority examined, order preserved
+• MEM–ANGLIA–DYNASTY–TUDOR — Tudor consolidation; Shakespeare's historical plays; legitimacy through examination, not destruction
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — "This fortress built by Nature"; Channel as defensive identity; Shakespeare's island identity
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as civilizational operating system; Shakespeare's England as maritime power; trans-Atlantic influence
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary (literary works):
+• **William Shakespeare**, *Richard II* (c. 1595) — "This blessed plot, this earth, this realm, this England"; legitimacy examined without destruction; [ERC-PRIMARY].
+• **William Shakespeare**, *Henry V* (c. 1599) — St Crispin's Day speech; legitimacy through performance; [ERC-PRIMARY].
+• **William Shakespeare**, *Richard III* (c. 1592) — "Now is the winter of our discontent"; order restored through tragedy; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–SHAKESPEARE — v2.3
 ────────────────────────────────────────────────────────────

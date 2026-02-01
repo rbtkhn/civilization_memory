@@ -51,8 +51,8 @@ It seeks to **deny rivals access to the world system**.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats the Seven Years’ War as part of Britain’s rise to world leadership—the volume traces the Spanish and Austrian Successions, Utrecht, the Seven Years’ War, and the American and French revolutions as stages in that rise (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the Seven Years’ War and the rise of the American colonies within the volume’s arc from Marlborough to Waterloo—Britain’s emergence as world power through coalition warfare, finance, and global reach.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In this campaign a young Virginian officer named George Washington learnt his first military lessons."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), p. 118 (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. GLOBAL WAR AS DESIGN, NOT ACCIDENT
@@ -231,9 +231,9 @@ But victory carries deferred costs:
 Anglia wins the system—
 and inherits its contradictions.
 
-SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+SUMMARY — Kissinger, *Diplomacy* (ARC-T-MODERN):
 > Victory creates obligations faster than institutions can absorb them. The Seven Years' War demonstrated this pattern: Britain's triumph created an empire of unprecedented scale, but the administrative, financial, and governance challenges that followed exceeded the capacity of existing institutions to manage effectively, ultimately contributing to the American rupture.
-> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 XI. DISTINGUISHED SCHOLAR ENGAGEMENT (ANGLIA RULE)

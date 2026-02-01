@@ -49,8 +49,8 @@ Pitt frames endurance as institutional survival:
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), identifies Pitt’s premiership as a moment when **financial collapse would have meant civilizational defeat**, even in the absence of invasion (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* traces Britain’s rise through the French Revolution and Napoleonic era; Pitt the Younger’s stewardship of public credit and coalition warfare is treated as the financial-strategic anchor that enabled Anglia to outlast revolutionary and Napoleonic France.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In 1804 Pitt was recalled to power. Feverishly he flung himself into the work of reorganising England’s war effort."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 20 "Trafalgar" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. CREDIT AS GRAND STRATEGY

@@ -58,8 +58,8 @@ David Chandler emphasizes that Marlborough’s genius lay as much in
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), opens the volume with Marlborough’s 1704 campaign at Blenheim in support of William of Orange and the Grand Alliance, framing the War of the Spanish Succession as the period in which Britain rises to world leadership through coalition warfare and financial endurance (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* begins with Marlborough’s victorious 1704 campaign at Blenheim in support of William of Orange—and ends with Napoleon’s defeat at Waterloo in 1815. In between, Britain’s rise to world leadership is told through the Spanish and Austrian Successions, the Treaty of Utrecht, the Seven Years’ War, and the American and French revolutions.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), opening (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "With a nucleus of about six thousand regular troops and the hastily improvised militia and yeomanry, Marlborough stood ready to meet the invasion."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 2 "Continental War" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. COALITION WARFARE AS PRIMARY INSTRUMENT

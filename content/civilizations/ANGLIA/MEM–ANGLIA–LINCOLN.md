@@ -41,8 +41,8 @@ It is procedural self-negation.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), devotes "The Great Republic" section to Lincoln and the severest test of American institutions—the Civil War as the moment when the republic proves it can survive internal rupture through procedure and force (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers Slavery and Secession, Union in Danger, and Victory of the Union—Lincoln's presidency as the preservation of the procedural republic through total war.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Abraham Lincoln, a small-town lawyer from Springfield, Illinois, was stirred to the depths of his being by the passing of the Kansas-Nebraska Act. ... He espoused the duty of opposing by the moral force of his personality the principle of slavery. “A house divided against itself cannot stand.”"
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 11 "The Union in Danger" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURE OVER CONSENT

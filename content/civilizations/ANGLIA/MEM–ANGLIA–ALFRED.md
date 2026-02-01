@@ -51,12 +51,8 @@ The *Anglo-Saxon Chronicle* records the severity without embellishment:
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 1 (*The Birth of Britain* [1956]), devotes Chapter 7 to Alfred the Great and frames this period as one in which England survives not by victory, but by **refusal to disappear**—Alfred’s greatness lying in preservation under annihilating pressure rather than expansion (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Birth of Britain* (ARC-T-MODERN):
-> The things that characterize the English-speaking race today put down
-> roots that survived through the convulsions of the Dark Ages. Alfred’s
-> reign is central to that survival: he converted resistance into
-> structure, and made defense repeatable.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), Ch. 7 (ARC-T-MODERN) [ERC-SECONDARY]
-(Verbatim page ref to be added when source is consulted.)
+> "This sublime power to rise above the whole force of circumstances, to remain unbiased by the extremes of victory or defeat, to persevere in the teeth of disaster, to greet returning fortune with a cool eye, to have faith in men after repeated betrayals, raises Alfred far above the turmoil of barbaric wars to his pinnacle of deathless glory."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 1, *The Birth of Britain* (1956), ch. 7 "Alfred the Great" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. DEFENSE AS SYSTEM, NOT EPISODE (PRIMARY + SECONDARY)

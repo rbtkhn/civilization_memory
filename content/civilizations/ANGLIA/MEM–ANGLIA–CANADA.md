@@ -50,7 +50,7 @@ Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Ca
 
 SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
 > The British Empire was built not only by conquest and administration, but by emigration—the voluntary and involuntary movement of millions of British subjects across the globe. Canada, Australia, New Zealand, and South Africa became "white dominions" through settlement, creating societies that replicated British institutions, law, and governance while adapting to local conditions. This emigration, which Ferguson terms the "white plague," transformed empty or sparsely populated territories into extensions of British civilization, establishing the foundation for what would become the Commonwealth.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 2: White Plague (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURAL ADAPTATION WITHOUT RUPTURE

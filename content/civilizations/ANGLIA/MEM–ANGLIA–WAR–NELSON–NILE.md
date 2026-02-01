@@ -100,8 +100,8 @@ VI. SOURCE LAYER
 Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution*), treats the Nile as the turning point that restores British naval confidence and traps Napoleon in Egypt—a necessary precondition for the Mediterranean balance that Trafalgar would later seal (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill's Vol. 3 covers the Napoleonic naval struggle; the Nile is framed as the engagement that re-establishes British Mediterranean presence and isolates the French army in Egypt.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "During the afternoon of August 1 a scouting vessel from Nelson’s fleet signalled that a number of French battleships were anchored in Aboukir Bay, to the east of Alexandria."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Battle of the Nile section (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 VII. NILE AS TRAFALGAR PRECURSOR

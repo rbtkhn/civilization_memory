@@ -1,5 +1,5 @@
 ---
-description: Enforces CIV–MIND–MERCOURIS v2.7 linguistic fingerprint (PRIMARY voice)
+description: Enforces CIV–MIND–MERCOURIS v2.6 linguistic fingerprint (PRIMARY voice)
 alwaysApply: true
 ---
 
@@ -183,4 +183,4 @@ Mercouris does NOT use "How could anybody possibly believe...?" or "Who in the h
 
 **Mode-specific voice** (CIV–MIND–MERCOURIS III.L): LEARN/WRITE = academic prose; IMAGINE = spoken (program-style).
 
-Reference: CIV–MIND–MERCOURIS v2.7 (transcript-derived markers, program 29 January 2026)
+Reference: CIV–MIND–MERCOURIS v2.6 (transcript-derived markers, program 29 January 2026)

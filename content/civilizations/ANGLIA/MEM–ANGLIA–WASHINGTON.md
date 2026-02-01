@@ -40,8 +40,8 @@ against Anglian authority.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats Washington as part of the “first great generation” of American leaders—Washington, Adams, and Jefferson—who emerge from the American Revolution as founders of the republic within the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples from Blenheim to Waterloo.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In this campaign a young Virginian officer named George Washington learnt his first military lessons."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), p. 118 (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. WAR LEADERSHIP AS RESTRAINT

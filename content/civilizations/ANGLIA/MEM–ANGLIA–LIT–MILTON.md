@@ -1,12 +1,12 @@
-MEM–ANGLIA–LIT–MILTON — v1.0
+MEM–ANGLIA–LIT–MILTON — v2.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
-Supersedes: —
-Upgrade Type: RENAME (MILTON → LIT–MILTON)
+Version: 2.3
+Supersedes: v2.2
+Upgrade Type: ADDITIVE · Subject line standardized
 Civilization: ANGLIA
-Subject: John Milton
+Subject: John Milton (Liberty Through Restraint, Order Through Law)
 Dates: 1608–1674 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
@@ -125,5 +125,32 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–MILTON — v1.0
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–WAR–ENGLISH–CIVIL — Milton writes during Civil War; *Areopagitica*, republican ideals; liberty through restraint
+• MEM–ANGLIA–CHARLES–I — Execution of Charles I; Milton's defense of regicide; authority through righteousness
+• MEM–ANGLIA–CROMWELL — Milton serves under Cromwell; republican administration; liberty through restraint, order through law
+• MEM–ANGLIA–DYNASTY–STUART — Stuart collapse; Milton's republican alternative; authority through righteousness, not divine right
+• MEM–ANGLIA–LIT–HOBBES — Contemporary; Milton (liberty through restraint) vs. Hobbes (order through fear); republican vs. absolutist
+• MEM–ANGLIA–LIT–LOCKE — Locke inherits Milton's liberty themes; procedural vs. revolutionary; consent through procedure
+• MEM–ANGLIA–GLORIOUS–REVOLUTION — Post-Milton; procedural revolution vs. Milton's republican rupture; order through procedure
+• MEM–ANGLIA–LAW–PARLIAMENT — Parliamentary authority; Milton's republican parliamentarianism; authority through righteousness
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Milton's influence on American founders; liberty, republicanism; trans-Atlantic republican tradition
+• MEM–ANGLIA–LIT–KING–JAMES–BIBLE — Milton's *Paradise Lost* vs. KJV; biblical authority, literary tradition; sacred text as source
+• MEM–ANGLIA–HENRY–VIII — Henry's break with Rome; Milton's republican alternative; authority through righteousness, not tradition
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as defensive filter; Milton's island republic; liberty through isolation
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as operating system; Milton's trans-Atlantic republican influence; liberty across ocean
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary (literary works):
+• **John Milton**, *Areopagitica* (1644) — Liberty of the press, republican ideals; [ERC-PRIMARY].
+• **John Milton**, *Paradise Lost* (1667) — Political theology, rebellion vs. obedience, authority through righteousness; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–MILTON — v2.3
 ────────────────────────────────────────────────────────────

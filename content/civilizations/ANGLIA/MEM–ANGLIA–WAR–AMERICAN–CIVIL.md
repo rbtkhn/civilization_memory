@@ -59,8 +59,8 @@ The system confronts its edge case.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), devotes "The Great Republic" section to the American Civil War—slavery and secession, Union in danger, campaigns (Richmond, Chancellorsville, Gettysburg), and Victory of the Union—framing the war as the severest test of American institutions and the moment when the English-speaking republic proves it can survive internal rupture through procedure and force (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers the American Epic, Slavery and Secession, Union in Danger, campaigns (Richmond, Lee and McClellan, Chancellorsville and Gettysburg), and Victory of the Union.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Grant wrote them out in a few sentences. The officers and men of the Army of Northern Virginia must surrender their arms and return on parole to their homes. ... Grant added, 'Your men must keep their horses and mules. They will need them for the spring ploughing.'"
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 IV. UNION WAR LOGIC & LEGITIMACY FRAME

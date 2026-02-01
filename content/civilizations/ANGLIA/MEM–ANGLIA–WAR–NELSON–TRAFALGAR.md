@@ -133,8 +133,8 @@ continental powers cannot sustain maritime primacy after such a defeat.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain's maritime dominance until Waterloo (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill's *The Age of Revolution* covers the Age of Revolution from Marlborough to Waterloo; Trafalgar is the naval turning point that makes Britain's maritime supremacy structurally irreversible and closes the Napoleonic naval challenge.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "In 1804 Pitt was recalled to power. Feverishly he flung himself into the work of reorganising England’s war effort. ... An enormous army was organised and concentrated at the Channel ports for the invasion of England."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 20 "Trafalgar" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 VII. DEATH & SYMBOLIC CONSOLIDATION

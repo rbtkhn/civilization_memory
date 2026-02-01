@@ -38,9 +38,9 @@ Procedure responds to necessity.
 
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats the Emancipation Proclamation within "The Great Republic" section—"Slavery and Secession"—framing it as the wartime moral pivot that redefines the conflict's legitimacy (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers Slavery and Secession—the Emancipation Proclamation as the wartime instrument that transforms the war's meaning and reasserts moral authority.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Slavery and Secession (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+SUMMARY — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
+> Summary-only note: A specific verbatim Emancipation Proclamation passage was not located in the open-web text at time of update. The summary above reflects Churchill's treatment of emancipation within "Slavery and Secession."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Slavery and Secession (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. LIMITED LEGAL SCOPE

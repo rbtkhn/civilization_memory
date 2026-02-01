@@ -40,8 +40,8 @@ The system requires conclusion, not balance.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 4 (*The Great Democracies* [1956–1958]), treats Grant within "The Great Republic" section—Victory of the Union—framing Grant as the general who finished the argument through attrition and relentless engagement (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill's "The Great Republic" section covers the American Civil War; Grant is framed within Victory of the Union as the general who applied systemic logic to warfare and ended the conflict.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section II: The Great Republic / Victory of the Union (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Grant proposed a winter advance up the Tennessee River and an attack upon Fort Henry. Halleck approved. Grant made the advance, and the advance made Grant."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), ch. 12 "The Campaign Against Richmond" (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. WAR OF ATTRITION AS PROCEDURAL LOGIC

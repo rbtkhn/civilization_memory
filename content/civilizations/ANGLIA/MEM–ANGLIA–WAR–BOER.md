@@ -38,8 +38,8 @@ British authority in southern Africa at the price of lasting moral
 and political controversy (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Great Democracies* (Vol. 4) (ARC-T-MODERN):
-> Churchill’s *The Great Democracies* closes with the South African War (Boer War)—Lord Salisbury’s governments, the war with the Boer republics, and the consolidation of British authority in southern Africa as the endpoint of the Victorian imperial narrative.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age / South African War (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The forerunners of the Trekkers and the Transvaal Boers of the nineteenth century."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 4, *The Great Democracies* (1956–1958), Section III: The Victorian Age (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. STRATEGIC CONTEXT & TRIGGER

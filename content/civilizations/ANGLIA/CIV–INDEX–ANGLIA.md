@@ -1,18 +1,18 @@
-CIV–INDEX–ANGLIA — v2.12
+CIV–INDEX–ANGLIA — v2.16
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.12
-Supersedes: v2.11
-Upgrade Type: ADDITIVE (sync to disk: register corrections + 13 MEMs)
+Version: 2.16
+Supersedes: v2.15
+Upgrade Type: ADDITIVE (rename MEM–ANGLIA–DARWIN → MEM–ANGLIA–SCI–DARWIN; moved from G) PERSON to H) OTHER as SCI-classified)
 Civilization: ANGLIA
 Subject: Anglia Memory Index (File Register)
 Dates: Early medieval–present
 Class: CIV–INDEX
 Last Update: January 2026
 
-TOTAL REGISTERED FILES: 145 MEM–ANGLIA OBJECTS
+TOTAL REGISTERED FILES: 146 MEM–ANGLIA OBJECTS
 
 Upgrade Type: ADDITIVE ONLY · NO DELETIONS · NO RENAMING · NO REORDERING
 
@@ -158,9 +158,7 @@ G) PERSON
 • MEM–ANGLIA–GRANT.md
 • MEM–ANGLIA–FRANKLIN.md
 • MEM–ANGLIA–HAMILTON.md
-• MEM–ANGLIA–BURKE.md
 • MEM–ANGLIA–CHURCHILL.md
-• MEM–ANGLIA–DARWIN.md
 • MEM–ANGLIA–PALMERSTON.md
 • MEM–ANGLIA–RICHARD–II.md
 • MEM–ANGLIA–RICHARD–III.md
@@ -180,6 +178,7 @@ H) OTHER / MISC
 • MEM–ANGLIA–EGYPT.md
 • MEM–ANGLIA–ENGLAND.md
 • MEM–ANGLIA–GLORIOUS–REVOLUTION.md
+• MEM–ANGLIA–HIST–TOCQUEVILLE.md
 • MEM–ANGLIA–SCOTLAND.md
 • MEM–ANGLIA–WALES.md
 • MEM–ANGLIA–IRELAND.md
@@ -191,6 +190,7 @@ H) OTHER / MISC
 • MEM–ANGLIA–BELGIUM.md
 • MEM–ANGLIA–LAW–SLAVERY.md
 • MEM–ANGLIA–NATIVE–AMERICANS.md
+• MEM–ANGLIA–LIT–BURKE.md
 • MEM–ANGLIA–LIT–HOBBES.md
 • MEM–ANGLIA–LIT–HUME.md
 • MEM–ANGLIA–LIT–KING–JAMES–BIBLE.md
@@ -200,11 +200,15 @@ H) OTHER / MISC
 • MEM–ANGLIA–LIT–SHAKESPEARE.md
 • MEM–ANGLIA–LIT–SMITH.md
 • MEM–ANGLIA–MEXICO.md
+• MEM–ANGLIA–SCI–DARWIN.md
 • MEM–ANGLIA–SCI–NEWTON.md
 
 ────────────────────────────────────────────────────────────
 III. DEPRECATIONS
 ────────────────────────────────────────────────────────────
+• MEM–ANGLIA–DARWIN → RENAMED
+  Replaced by: MEM–ANGLIA–SCI–DARWIN (moved from G) PERSON to H) OTHER as SCI-classified)
+
 • MEM–ANGLIA–WAR–VIKING–INVASIONS → DEPRECATED
   Replaced by: MEM–ANGLIA–WAR–VIKINGS
 
@@ -277,6 +281,9 @@ III. DEPRECATIONS
 • MEM–ANGLIA–PAINE → RENAMED
   Replaced by: MEM–ANGLIA–LIT–PAINE (moved from G) PERSON to H) OTHER as LIT-classified)
 
+• MEM–ANGLIA–BURKE → RENAMED
+  Replaced by: MEM–ANGLIA–LIT–BURKE (moved from G) PERSON to H) OTHER as LIT-classified)
+
 • MEM–ANGLIA–GEO–OHIO–VALLEY → RENAMED
   Replaced by: MEM–ANGLIA–GEO–OHIO–RIVER (A) GEO)
 
@@ -329,6 +336,9 @@ v2.9 registers new MEM: MEM–ANGLIA–ROCKEFELLER v1.0 (ECON; total 130 MEMs).
 v2.10 registers new MEM: MEM–ANGLIA–WARBURG v1.0 (ECON; total 131 MEMs).
 v2.11 registers new MEM: MEM–ANGLIA–BANK–ENGLAND v1.0 (ECON; total 132 MEMs).
 v2.12 sync to disk: register corrected (WAR–APPOMATTOX → WAR–AMERICAN–CIVIL–APPOMATTOX); SHAKESPEARE removed from G (deprecated → LIT–SHAKESPEARE in H). New MEMs: GEO–GREAT–PLAINS, GEO–IBERIA, GEO–LEVANT; WAR–CAESAR, WAR–ENGLISH–CIVIL, WAR–ROSES; PERSON: CROMWELL, GLADSTONE, VICTORIA; OTHER: AMERICAN–REVOLUTION, EGYPT, GLORIOUS–REVOLUTION, LIT–MILTON, MEXICO. Total 145 MEM–ANGLIA objects. Section A (GEO) reordered alphabetically. Rename: MEM–ANGLIA–GEO–OHIO–VALLEY → MEM–ANGLIA–GEO–OHIO–RIVER (A) GEO).
+v2.13 registers rename: MEM–ANGLIA–BURKE → MEM–ANGLIA–LIT–BURKE (moved from G) PERSON to H) OTHER as LIT-classified). Total 145 MEM–ANGLIA objects unchanged.
+v2.15 registers new MEM: MEM–ANGLIA–HIST–TOCQUEVILLE v1.0 (H) OTHER / MISC; external observer of American democracy). Total 146 MEM–ANGLIA objects.
+v2.16 registers rename: MEM–ANGLIA–DARWIN → MEM–ANGLIA–SCI–DARWIN (moved from G) PERSON to H) OTHER as SCI-classified). Total 146 MEM–ANGLIA objects unchanged.
 This upgrade is additive only and preserves all prior index structure,
 ordering, and governance rules.
 
@@ -338,5 +348,5 @@ FOOTER METADATA
 Word Count: 686
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ANGLIA — v2.12
+END OF FILE — CIV–INDEX–ANGLIA — v2.16
 ────────────────────────────────────────────────────────────

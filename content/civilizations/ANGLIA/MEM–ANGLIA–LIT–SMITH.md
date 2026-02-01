@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–SMITH — v1.4
+MEM–ANGLIA–LIT–SMITH — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: RENAME (SMITH → LIT–SMITH)
+Version: 2.2
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · Bibliography section added
 Civilization: ANGLIA
 Subject: Adam Smith (Moral Sentiment, Markets, and Order Without Command)
 Dates: 1723–1790 AD
@@ -186,6 +186,33 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–SMITH — v1.4
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–BRITISH–EMPIRE — Smith's *Wealth of Nations*; empire, trade, markets; order without command
+• MEM–ANGLIA–BANK–ENGLAND — Smith's analysis of banking; markets, credit, order; emergent order through markets
+• MEM–ANGLIA–HAMILTON — Hamilton reads Smith; markets, public credit, national bank; procedural order through markets
+• MEM–ANGLIA–ROTHSCHILD — Smith's market logic; financial networks, order without command; emergent order
+• MEM–ANGLIA–BRITISH–EMPIRE–INDIA — Smith's critique of East India Company; markets vs. monopoly; order through competition
+• MEM–ANGLIA–WAR–SEVEN–YEARS — Smith writes during/after Seven Years' War; markets, trade, empire; order through commerce
+• MEM–ANGLIA–PITT–YOUNGER — Smith's influence on Pitt; free trade, markets; procedural order through markets
+• MEM–ANGLIA–LIT–LOCKE — Smith extends Locke; property, markets, procedural order; markets as procedural mechanism
+• MEM–ANGLIA–LIT–BURKE — Contemporary; Smith (markets) vs. Burke (tradition); both procedural, different mechanisms
+• MEM–ANGLIA–DYNASTY–HANOVER — Hanoverian stability; Smith's market order; emergent order under stable framework
+• MEM–ANGLIA–LIT–HUME — Hume's influence on Smith; moral sentiment, convention, markets; order through convention
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as market corridor; Smith's trans-Atlantic trade; markets across ocean
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as trade route; Smith's maritime markets; order through commerce
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **Adam Smith**, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776) — "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest"; markets, order without command; [ERC-PRIMARY].
+• **Adam Smith**, *The Theory of Moral Sentiments* (1759) — Moral sentiment, convention, order through markets; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–SMITH — v2.2
 Word Count: ~840
 ────────────────────────────────────────────────────────────

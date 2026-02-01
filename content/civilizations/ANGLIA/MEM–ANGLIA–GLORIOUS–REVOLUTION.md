@@ -1,14 +1,17 @@
-MEM–ANGLIA–GLORIOUS–REVOLUTION — v1.0
+MEM–ANGLIA–GLORIOUS–REVOLUTION — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Will Durant SOURCE block (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: The Glorious Revolution
 Dates: 1688–1689 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
+ARC Compliance: Durant in ARC-T-MODERN (CIV–ARC–ANGLIA v1.3)
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -59,6 +62,12 @@ Outcomes:
 
 Legitimacy is restored by clarification, not destruction.
 
+Will and Ariel Durant, in *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (1961), treat the Glorious Revolution as a deliberately managed deposition that preserved order and legitimacy by allowing James II to escape and by settling the constitutional breach without prolonged violence (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Durant, *The Age of Reason Begins* (Vol. 7) (ARC-T-MODERN):
+> “Subsequent history suggests that mercy would have been wisdom. When Charles’s son James II gave equally great offense, the Glorious Revolution of 1688, managed with aristocratic finesse, deliberately allowed him to escape to France; and the results of that deposition were permanent. However, it was the earlier Rebellion that made the later Revolution possible in all its swift effectiveness.”
+> — Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961), 221 (ARC-T-MODERN) [ERC-SECONDARY].
+
 ────────────────────────────────────────────────────────────
 V. RESTRAINT AS STRATEGIC ADVANTAGE
 ────────────────────────────────────────────────────────────
@@ -106,7 +115,13 @@ Tensions:
 Its success depends on institutional depth.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Secondary (ARC-T-MODERN):
+• Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961) — Glorious Revolution (1688), managed deposition and permanence of settlement; CIV–ARC–ANGLIA v1.3.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Procedure can substitute for revolution.
 • Law can reset legitimacy without rupture.
@@ -117,5 +132,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–GLORIOUS–REVOLUTION — v1.0
+END OF FILE — MEM–ANGLIA–GLORIOUS–REVOLUTION — v1.1
 ────────────────────────────────────────────────────────────

@@ -46,9 +46,9 @@ tradition.
 
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), opens Book V with “The United Crowns,” framing James’s accession as the moment when the Scottish and English crowns are united under one monarch—and when the strains of governing multiple kingdoms under one person begin to tell (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The New World* (Vol. 2), Book V (ARC-T-MODERN):
-> Churchill’s chapter “The United Crowns” frames James VI & I’s accession as the union of the Scottish and English crowns under one monarch—personal union without institutional merger, and the beginning of the Stuart period in England with its attendant strains.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Ch. The United Crowns (ARC-T-MODERN) [ERC-SECONDARY]
+SOURCE — Churchill, *The New World* (Vol. 2), Preface (ARC-T-MODERN):
+> "England and Scotland adopted the Protestant faith. The two kingdoms of the Island became united under a Scottish dynasty. A great civil war was fought on abiding issues of principle."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Preface (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 III. DIVINE RIGHT & PARLIAMENTARY RESISTANCE (PRIMARY + SECONDARY)

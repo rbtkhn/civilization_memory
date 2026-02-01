@@ -89,8 +89,8 @@ Outcomes:
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), describes Trafalgar as the moment when Britain's maritime supremacy becomes *structurally irreversible*—the battle that closes the Napoleonic naval threat and secures Anglia's position for the remainder of the age (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill's *The Age of Revolution* traces the long Anglo-French rivalry and the rise of Napoleon; Trafalgar is framed as the decisive naval moment that removes invasion threat and secures Britain's maritime dominance until Waterloo.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "But Nelson knew his captains. As evening drew near, the Goliath, followed by the Zealous, cautiously crept to landward of the French van, and came into action a few minutes before sundown."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Battle of the Nile section (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 V. PERSONAL RISK & CIVILIZATIONAL REWARD

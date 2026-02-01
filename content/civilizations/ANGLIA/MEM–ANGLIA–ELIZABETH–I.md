@@ -123,9 +123,9 @@ Elizabeth avoids permanent continental entanglement, favoring:
 Henry Kissinger identifies Elizabeth’s strategy as an early form of
 offshore balancing: pressure applied without systemic commitment.
 
-SOURCE — Kissinger, *Diplomacy* (ARC-T-MODERN):
+SUMMARY — Kissinger, *Diplomacy* (ARC-T-MODERN):
 > Elizabeth I's foreign policy represented an early form of offshore balancing: applying pressure through naval power, privateering, and defensive coalitions while avoiding permanent continental entanglements. This strategy allowed England to influence European affairs without committing to territorial control or ideological crusades.
-> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Henry Kissinger, *Diplomacy* (New York: Simon & Schuster, 1994) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Victory confirms orientation; it does not mandate expansion.
 

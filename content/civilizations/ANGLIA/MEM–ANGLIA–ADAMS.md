@@ -35,8 +35,8 @@ II. FIRST GREAT GENERATION & CHURCHILL VOL. 3
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats the American Revolution and the emergence of the “first great generation” of American leaders: Washington, Adams, and Jefferson—founders of the republic within the English-speaking peoples’ story from Blenheim to Waterloo (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill’s *The Age of Revolution* covers the American Revolution and the first great generation of American leaders—Washington, Adams, and Jefferson—as part of the long narrative of the English-speaking peoples.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "Here Samuel Adams, fertile organiser of resistance and advocate of separation, saw that the struggle was now reaching a crucial stage."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), p. 147 (ARC-T-MODERN) [ERC-SECONDARY].
 
 Adams completes the triad: Washington as military and symbolic restraint, Jefferson as ideological articulation, Adams as **legal and diplomatic executor**.
 

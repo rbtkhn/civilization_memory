@@ -10,7 +10,7 @@ Upgrade Type: ADDITIVE · GOVERNANCE INTERFACE (DIB, Scholar reference gating)
 Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Dynastic at VI; DIB at XIX; Verdict at XXI. Omitted: Technological/Compute Sovereignty as dedicated section.)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Governed by: CIV–MEM–CORE v2.8
-ARC Reference: CIV–ARC–ANGLIA v1.0
+ARC Reference: CIV–ARC–ANGLIA v1.3
 Conceptual Lineage:
 SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 → v1.5 (preserved verbatim)
 Civilization Phase: PHASE I (Accumulation)

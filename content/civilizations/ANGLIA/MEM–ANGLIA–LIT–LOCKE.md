@@ -1,10 +1,10 @@
-MEM–ANGLIA–LIT–LOCKE — v1.3
+MEM–ANGLIA–LIT–LOCKE — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: RENAME (LOCKE → LIT–LOCKE)
+Version: 2.2
+Supersedes: v2.0
+Upgrade Type: ADDITIVE · Bibliography section added
 Civilization: ANGLIA
 Subject: John Locke (Procedural Liberalism & Consent Without Rupture)
 Dates: 1632–1704 AD
@@ -183,6 +183,33 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–LIT–LOCKE — v1.3
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Same-civilization (Anglia):
+• MEM–ANGLIA–GLORIOUS–REVOLUTION — Locke's *Two Treatises* justify Glorious Revolution; procedural legitimacy; consent, not divine right
+• MEM–ANGLIA–WILLIAM–III — William as Locke's legitimate ruler; consent, not divine right; procedural order
+• MEM–ANGLIA–DYNASTY–STUART — Stuart collapse; Locke's procedural alternative; consent through procedure, not rupture
+• MEM–ANGLIA–LAW–PARLIAMENT — Parliamentary supremacy; Locke's consent theory; procedural legitimacy
+• MEM–ANGLIA–AMERICAN–REVOLUTION — Locke's influence on American founders; consent, natural rights; procedural liberalism
+• MEM–ANGLIA–LAW–FEDERALIST–PAPERS — Federalist Papers cite Locke; procedural liberalism; consent through procedure
+• MEM–ANGLIA–HAMILTON — Hamilton's procedural republicanism; Locke's influence; consent, property, procedural order
+• MEM–ANGLIA–LIT–HOBBES — Contrast: Locke (liberty through procedure) vs. Hobbes (order through fear); consent vs. fear
+• MEM–ANGLIA–LIT–BURKE — Burke as Locke's inheritor; procedural continuity, not rupture; consent through habit
+• MEM–ANGLIA–WAR–ENGLISH–CIVIL — Post-Civil War context; Locke's procedural alternative to Hobbes; consent vs. fear
+• MEM–ANGLIA–LIT–HUME — Hume critiques Locke; skepticism, convention; order without certainty vs. consent theory
+
+GEO–MEM (required ≥2):
+• MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Channel as defensive filter; Locke's procedural order vs. continental absolutism; island identity
+• MEM–ANGLIA–GEO–ATLANTIC — Atlantic as operating system; Locke's trans-Atlantic influence; procedural liberalism across ocean
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Primary:
+• **John Locke**, *Second Treatise of Government* (1689) — "Government has no other end but the preservation of property"; procedural legitimacy, consent; [ERC-PRIMARY].
+• **John Locke**, *A Letter Concerning Toleration* (1689) — "The care of souls is not committed to the civil magistrate"; separation of political and religious authority; [ERC-PRIMARY].
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–LIT–LOCKE — v2.2
 Word Count: ~820
 ────────────────────────────────────────────────────────────

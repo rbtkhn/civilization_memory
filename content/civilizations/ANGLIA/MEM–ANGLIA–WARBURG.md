@@ -43,9 +43,9 @@ Context:
 
 Ron Chernow, in *The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family* (1993), treats the family as the paradigmatic trans-Atlantic banking dynasty—Hamburg origin, American institutional impact—and Paul as the key figure who translated European central-banking logic into American political and legislative form.
 
-SOURCE — Chernow, *The Warburgs* (ARC-T-MODERN) [ERC-SECONDARY]:
+SUMMARY — Chernow, *The Warburgs* (ARC-T-MODERN) [ERC-SECONDARY]:
 > The Warburgs were not one bank but a network—Hamburg, London, New York—with information and capital flowing between them. Paul Warburg did not invent the Federal Reserve; he brought to America the idea that the country needed a central bank at all, and he helped design the institution that would become it.
-> — Ron Chernow, *The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family* (New York: Random House, 1993), paraphrased and condensed (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Ron Chernow, *The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family* (New York: Random House, 1993) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Trans-Atlantic network defeats parochial design: the Fed's architecture owes a debt to Continental practice, imported by Warburg.
 

@@ -48,9 +48,8 @@ king nor Parliament can claim undisputed legitimacy; the Civil War
 
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), Book V (“The Civil War”), devotes chapters to “Charles I and Buckingham,” “The Personal Rule,” “The Revolt of Parliament,” “The Great Rebellion,” “Marston Moor and Naseby,” and “The Axe Falls”—framing Charles’s reign as the moment when personal monarchy and parliamentary resistance collide, and when the king is tried and executed in the name of the realm (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The New World* (Vol. 2), Book V (ARC-T-MODERN):
-> Churchill’s chapters on Charles I and Buckingham, the Personal Rule, the Revolt of Parliament, the Great Rebellion, and the Axe Falls frame Charles I’s reign as the collision of personal monarchy and parliamentary resistance—and the execution of the king as the moment when sacral kingship is broken by procedure.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Book V (ARC-T-MODERN) [ERC-SECONDARY]
+SUMMARY — Churchill, *The New World* (Vol. 2), Book V (ARC-T-MODERN):
+Churchill’s chapters on Charles I and Buckingham, the Personal Rule, the Revolt of Parliament, the Great Rebellion, and the Axe Falls frame Charles I’s reign as the collision of personal monarchy and parliamentary resistance—and the execution of the king as the moment when sacral kingship is broken by procedure (non-verbatim summary).
 
 ────────────────────────────────────────────────────────────
 III. THE AXE FALLS: REGICIDE AS RUPTURE (PRIMARY + SECONDARY)

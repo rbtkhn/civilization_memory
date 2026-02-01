@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure
 
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10 (Phase I minimal structure)
 Governed by: CIV–SCHOLAR–PROTOCOL v2.2
-ARC Reference: CIV–ARC–ANGLIA v1.0
+ARC Reference: CIV–ARC–ANGLIA v1.3
 Last Update: January 2026
 
 Upgrade Type: MILESTONE (v0.8 → v1.0) — First stable Phase I release

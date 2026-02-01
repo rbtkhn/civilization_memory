@@ -99,9 +99,9 @@ Monarchy survived—but transformed.
 
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 2 (*The New World* [1956]), Book VI (“The Restoration”), devotes chapters to “The English Republic,” “The Lord Protector,” “The Restoration,” “The Merry Monarch,” “Whig and Tory,” “The Catholic King,” and “The Revolution of 1688”—framing the Restoration and the Glorious Revolution as the period in which Parliament’s supremacy and constitutional monarchy are consolidated (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Churchill, *The New World* (Vol. 2), Book VI (ARC-T-MODERN):
-> Churchill’s Book VI traces the English Republic, the Lord Protector, the Restoration, the Merry Monarch, Whig and Tory, the Catholic King, and the Revolution of 1688—the period in which Parliament’s supremacy and constitutional monarchy are consolidated.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Book VI (ARC-T-MODERN) [ERC-SECONDARY]
+SOURCE — Churchill, *The New World* (Vol. 2), Preface (ARC-T-MODERN):
+> "A great civil war was fought on abiding issues of principle. The country sustained a Republican experiment under the massive personality of Oliver Cromwell. But, at the nation's demand, the royal tradition was revived. At the end of this volume the Protestant faith has been secured under a Dutch monarch, Parliament is far advanced on the road to supremacy in the affairs of State."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 2, *The New World* (1956), Preface (ARC-T-MODERN) [ERC-SECONDARY]
 
 ────────────────────────────────────────────────────────────
 VII. GLORIOUS REVOLUTION & TERMINATION
@@ -117,9 +117,8 @@ Outcome:
 
 The Stuarts ended as **a solved constitutional problem**.
 
-SOURCE — Healey, *The Blazing World* (ARC-T-MODERN):
-> [Insert verbatim quote from Jonathan Healey, *The Blazing World: A New History of Revolutionary England, 1603–1689* (2023), ≥25 words. Suggested: passage on Stuart failure to adapt sovereignty, or on 1688 as close of the revolutionary period.]
-> — Healey, *The Blazing World* (ARC-T-MODERN) [ERC-SECONDARY]
+SUMMARY — Healey, *The Blazing World* (ARC-T-MODERN):
+Healey treats the Stuart era as a genuinely revolutionary period in which sovereignty crisis and institutional mismatch drive rupture, and he frames 1688 as the closing settlement of that long revolutionary arc (non-verbatim summary).
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)

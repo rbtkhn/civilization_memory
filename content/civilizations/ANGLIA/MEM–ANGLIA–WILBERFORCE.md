@@ -61,9 +61,9 @@ Victory is procedural and incremental, not revolutionary.
 
 Niall Ferguson, in *Empire: How Britain Made the Modern World* (2003), frames Wilberforce and the abolition movement as central to British imperial self-understanding—the moment when empire begins to justify itself through moral mission rather than extraction alone, creating the rhetoric of "civilizing" that would shape 19th-century imperialism (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Ferguson, *Empire* (ARC-T-MODERN):
+SUMMARY — Ferguson, *Empire* (ARC-T-MODERN):
 > Wilberforce's abolition campaign transformed British imperial ideology. Before abolition, empire was defended as commerce and security; after abolition, empire was increasingly framed as moral mission. The British claimed to have renounced slavery first, giving them moral authority to police others. This shift—from extraction to "civilization," from profit to duty—allowed the Victorian empire to present itself as a force for good, even as it continued to extract wealth. Abolition was genuine moral reform; it was also imperial rebranding.
-> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003), Chapter 3: The Mission (abolition, missionaries, moral imperialism) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) (ARC-T-MODERN) [ERC-SECONDARY]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 ────────────────────────────────────────────────────────────
 IV. ABOLITION OF SLAVERY (1833): EMPIRE-WIDE
@@ -177,7 +177,7 @@ ANGLIA:
 • MEM–ANGLIA–BRITISH–EMPIRE — Moral imperialism, "civilizing mission," abolition as imperial rebranding.
 • MEM–ANGLIA–LAW–PARLIAMENT — Wilberforce as model of parliamentary activism, procedural reform.
 • MEM–ANGLIA–VICTORIA — Abolition legacy shapes Victorian imperial self-understanding.
-• MEM–ANGLIA–BURKE — Contemporary; Burke's ambivalence vs. Wilberforce's moral clarity.
+• MEM–ANGLIA–LIT–BURKE — Contemporary; Burke's ambivalence vs. Wilberforce's moral clarity.
 • MEM–ANGLIA–PITT–YOUNGER — Political ally; Pitt supports abolition (eventually).
 
 Cross-Civilizational:

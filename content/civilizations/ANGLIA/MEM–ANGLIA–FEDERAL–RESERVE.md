@@ -45,9 +45,9 @@ Ron Chernow, in *The House of Morgan* (1990), documents J.P. Morgan's role in th
 
 G. Edward Griffin, in *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (1994), treats the Jekyll Island meeting as the **birthplace** of the Fed—a private conference that produced the framework later adapted and passed by Congress as the Federal Reserve Act (1913). Mainstream historiography emphasizes the Aldrich Commission, congressional debate, and the Glass-Owen compromise; Griffin emphasizes elite coordination and private design.
 
-SOURCE — Griffin, *The Creature from Jekyll Island* (ARC-T-MODERN) [ERC-CRITICAL]:
+SUMMARY — Griffin, *The Creature from Jekyll Island* (ARC-T-MODERN) [ERC-CRITICAL]:
 > The Federal Reserve System is not federal, has no reserves, and is not a system in the sense of being a public agency. It is a cartel of private banks that has been granted the privilege of creating money out of nothing and lending it to the government and the public at interest. The Jekyll Island meeting of 1910 was the birthplace of this design—a design that would have been familiar to Hamilton in purpose, if not in every mechanism.
-> — G. Edward Griffin, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994), paraphrased and condensed (ARC-T-MODERN) [ERC-CRITICAL]. Verbatim page refs to be added when source consulted.
+> — G. Edward Griffin, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994) (ARC-T-MODERN) [ERC-CRITICAL]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Whether one treats Jekyll Island as decisive or merely preparatory, the structural point holds: central banking returned to the United States in 1913, completing a cycle that Hamilton began and Jackson interrupted.
 
@@ -68,7 +68,7 @@ The design deliberately avoided the name "central bank" and the concentration of
 Griffin frames the hybrid as disguise:
 
 > The men who met on Jekyll Island in 1910 represented the same kind of concentrated financial power that Jackson had denounced when he destroyed the Bank of the United States. They designed the Federal Reserve to serve private interests while appearing to serve the public. Jackson would have recognized the pattern—and would have opposed it.
-> — G. Edward Griffin, *The Creature from Jekyll Island* (1994), paraphrased and condensed (ARC-T-MODERN) [ERC-CRITICAL]. Verbatim page refs to be added when source consulted.
+> — G. Edward Griffin, *The Creature from Jekyll Island* (1994) (ARC-T-MODERN) [ERC-CRITICAL]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Controversy over the Fed's legitimacy—public agency or private cartel—has never been resolved. Contradictions are preserved without synthesis.
 

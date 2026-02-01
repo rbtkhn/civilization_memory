@@ -67,8 +67,8 @@ Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The 
 Niall Ferguson, in *Empire*, frames Plassey and the Company's ascendancy as the structural pivot—the moment when Britain's maritime-commercial system acquires a territorial revenue base in India that will fund imperial reach for a century (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill's Vol. 3 covers the Seven Years' War and Britain's emergence as world power; Clive's Indian campaigns are the theater where Company becomes territorial actor.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The Dutch, fishing in the murky waters of Oriental intrigue, were stopped by Clive and made to surrender their ships at Chinsura."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Seven Years' War section (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 V. IMPERIAL METHOD: COMPANY OVER CROWN

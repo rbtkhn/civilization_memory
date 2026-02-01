@@ -1,14 +1,17 @@
-MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.0
+MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Will Durant SOURCE block (ARC-T-MODERN)
 Civilization: ANGLIA
 Subject: Declaration of Independence
 Dates: 1776 AD
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
-Word Count: ~2,000
+Word Count: ~2,100
+ARC Compliance: Durant in ARC-T-MODERN (CIV–ARC–ANGLIA v1.3)
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -56,6 +59,12 @@ Characteristics:
 
 Words precede systems.
 
+Will and Ariel Durant, in *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (1961), note the Dutch Act of Abjuration (1581) as a declarative legitimacy formula: a ruler who destroys liberties may be deposed. This early declaration logic anticipates the later Anglian export of grievance-into-indictment that culminates in the Declaration of Independence (ARC-T-MODERN) [ERC-SECONDARY].
+
+SOURCE — Durant, *The Age of Reason Begins* (Vol. 7) (ARC-T-MODERN):
+> “In a document as famous in Dutch history as Parliament’s Declaration of Rights (1689) in the history of England, they proclaimed that a ruler who treats his subjects as slaves and destroys their liberties should no longer be accounted their legitimate sovereign, and may lawfully be deposed.”
+> — Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961) (ARC-T-MODERN) [ERC-SECONDARY].
+
 ────────────────────────────────────────────────────────────
 V. STRATEGIC FUNCTION
 ────────────────────────────────────────────────────────────
@@ -102,5 +111,11 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.0
+IX. PRIMARY SOURCES & REFERENCES
+────────────────────────────────────────────────────────────
+Secondary (ARC-T-MODERN):
+• Will Durant and Ariel Durant, *The Story of Civilization*, Vol. 7, *The Age of Reason Begins* (New York: Simon & Schuster, 1961) — Act of Abjuration (1581) and declarative legitimacy logic; CIV–ARC–ANGLIA v1.3.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–ANGLIA–DECLARATION–INDEPENDENCE — v1.1
 ────────────────────────────────────────────────────────────

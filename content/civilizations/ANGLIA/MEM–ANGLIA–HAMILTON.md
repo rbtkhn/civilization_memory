@@ -125,9 +125,9 @@ Hamilton's First Bank of the United States (1791) established the template: nati
 
 G. Edward Griffin, in *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (1994), treats the Fed's founding as the outcome of a secret 1910 meeting on Jekyll Island, Georgia, at which bankers and Treasury officials drafted the framework that became the Federal Reserve Act. Griffin's thesis is interpretive and polemical; mainstream historiography emphasizes congressional debate and the Aldrich Commission. The structural point holds either way: central banking returned to the United States in 1913, completing a cycle that Hamilton began and Jackson interrupted.
 
-SOURCE — Griffin, *The Creature from Jekyll Island* (ARC-T-MODERN) [ERC-CRITICAL]:
+SUMMARY — Griffin, *The Creature from Jekyll Island* (ARC-T-MODERN) [ERC-CRITICAL]:
 > The Federal Reserve System is not federal, has no reserves, and is not a system in the sense of being a public agency. It is a cartel of private banks that has been granted the privilege of creating money out of nothing and lending it to the government and the public at interest. The Jekyll Island meeting of 1910 was the birthplace of this design—a design that would have been familiar to Hamilton in purpose, if not in every mechanism.
-> — G. Edward Griffin, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994), paraphrased and condensed (ARC-T-MODERN) [ERC-CRITICAL]. Verbatim page refs to be added when source consulted.
+> — G. Edward Griffin, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994) (ARC-T-MODERN) [ERC-CRITICAL]. Summary-only note: Open-web access to a verbatim text was not available at time of update.
 
 Hamilton's national-bank idea outlives both his death and Jackson's Bank War.
 

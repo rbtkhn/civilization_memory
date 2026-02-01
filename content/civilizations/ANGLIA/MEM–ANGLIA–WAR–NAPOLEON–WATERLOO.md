@@ -87,12 +87,12 @@ but finality.
 Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), closes the volume with Napoleon's defeat at Waterloo, framing it as the endpoint of the Age of Revolution and the confirmation of Britain's coalition-and-endurance method (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
-> Churchill's *The Age of Revolution* begins with Marlborough's Blenheim and ends with Napoleon's defeat at Waterloo—the volume tells the story of Britain's rise to world leadership through the long Anglo-French rivalry and the Napoleonic Wars.
-> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958) (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+> "The Battle of Waterloo, a far-sighted Treaty of Peace, and the Industrial Revolution in England established Britain for nearly a century at or around the summit of the civilised world."
+> — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), Preface (ARC-T-MODERN) [ERC-SECONDARY].
 
-SOURCE — Kissinger, *A World Restored* (ARC-T-MODERN):
-> Waterloo marked the terminal containment of Napoleon, but the Vienna settlement that followed reflected Britain's restraint under Castlereagh. Unlike Metternich's continental interventionism, Britain's approach emphasized balance-of-power management and diplomatic restraint, shaping a post-Napoleonic order that reflected Britain's preference for system stability over revolutionary transformation.
-> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957), [chapter/page] (ARC-T-MODERN) [ERC-SECONDARY]. Verbatim page refs to be added when source consulted.
+SUMMARY — Kissinger, *A World Restored* (ARC-T-MODERN):
+> Summary-only note: Open-web access to a verbatim *A World Restored* text was not available at time of update. The summary above reflects Kissinger's treatment of Vienna-settlement balance-of-power logic and Castlereagh's restraint.
+> — Henry Kissinger, *A World Restored: Metternich, Castlereagh and the Problems of Peace, 1812–1822* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 VI. LEGITIMACY UNAFFECTED BY OUTCOME

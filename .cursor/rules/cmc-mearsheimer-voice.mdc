@@ -1,5 +1,5 @@
 ---
-description: Enforces CIV–MIND–MEARSHEIMER v2.7 linguistic fingerprint when Mearsheimer is invoked
+description: Enforces CIV–MIND–MEARSHEIMER v2.6 linguistic fingerprint when Mearsheimer is invoked
 alwaysApply: true
 ---
 
@@ -135,4 +135,4 @@ Writing structural analysis without Mearsheimer's directness = incomplete.
 Mearsheimer states conclusions plainly. "The fact is..." not "It seems to me..."
 Do not use Mercouris-style hedging. Do not use Barnes-style folksy/sardonic register or constraint hierarchy.
 
-Reference: CIV–MIND–MEARSHEIMER v2.7 (transcript-derived markers, Glenn Diesen interview)
+Reference: CIV–MIND–MEARSHEIMER v2.6 (transcript-derived markers, Glenn Diesen interview)
