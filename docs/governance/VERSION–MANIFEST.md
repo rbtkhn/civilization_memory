@@ -158,9 +158,33 @@ INDIA:
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
+CHINA:
+┌────────────────────────────────────────────────────────┐
+│ Document                    │ Version │ Status        │
+├────────────────────────────────────────────────────────┤
+│ CIV–CORE–CHINA              │ v2.0    │ Active        │
+│ CIV–SCHOLAR–CHINA           │ v2.0    │ Active        │
+└────────────────────────────────────────────────────────┘
+Phase: I (Accumulation)
+
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (CIV–SCHOLAR–CHINA v1.0 → v2.0 — AUDIT ALIGNMENT):
+• CIV–SCHOLAR–CHINA: v1.0 → v2.0 (audit alignment, version bump)
+• VERSION–MANIFEST: CIV–SCHOLAR–CHINA v1.0 → v2.0
+
+2026-02-01 (CIV–CORE–CHINA v1.0 → v2.0 — TEMPLATE ALIGNMENT):
+• CIV–CORE–CHINA: V1.0 → v2.0 (template alignment, header compliance, typo fix)
+• Header: Template Version Used, Compatibility, Civilization Phase, Upgrade Type, Supersedes, Last Update, WORDCOUNT, Governed by
+• Section X: GOVERNANAD → GOVERNANCE
+• CIV–SCHOLAR–CHINA, VERSION–MANIFEST: CORE reference updated to v2.0
+
+2026-02-01 (CIV–SCHOLAR–CHINA v1.0 — INITIAL ESTABLISHMENT):
+• CIV–SCHOLAR–CHINA v1.0: Initial establishment per CIV–SCHOLAR–TEMPLATE v2.10
+• VERSION–MANIFEST: CHINA added (CIV–CORE–CHINA v2.0, CIV–SCHOLAR–CHINA v1.0)
+• Phase I (Accumulation); ARC Reference pending CIV–ARC–CHINA establishment
 
 2026-02-01 (TRI-FRAME CHAIN OPTIMIZATION — REGISTRY, COMPRESSION, TIERED INVOCATION):
 • CIV–SCHOLAR–ISLAM: Tri-Frame Cognitive Chain Registry (XVII.A) added; CHAIN–0014–KISSINGER; syntheses 0002, 0004, 0005 compressed to tag + pointer; no substantive chain repetition

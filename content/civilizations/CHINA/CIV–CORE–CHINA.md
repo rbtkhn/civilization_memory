@@ -1,11 +1,19 @@
-CIV–CORE–CHINA — V1.0
+CIV–CORE–CHINA — v2.0
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Absorption–Mandate Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
-Compatibility: CIV / MEM Architecture
+Version: 2.0
+Supersedes: V1.0
+Upgrade Type: TEMPLATE ALIGNMENT · HEADER COMPLIANCE · TYPO FIX
+Template Version Used: CIV–CORE–TEMPLATE v2.0
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage: SCE–CIV–CHINA V9.8 (doctrinal ancestry preserved)
+Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (content expandable without renumbering)
+Governed by: CIV–MEM–CORE v2.9
+Last Update: February 2026
+WORDCOUNT: ~2,800
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS
@@ -162,7 +170,7 @@ MANDATORY OUTPUT:
 • Internal Stability: HIGH / MED / LOW
 
 ────────────────────────────────────────────────────────────
-X. INFORMATION & NARRATIVE GOVERNANAD
+X. INFORMATION & NARRATIVE GOVERNANCE
 ────────────────────────────────────────────────────────────
 
 Narrative is an administrative domain.
@@ -289,5 +297,5 @@ XX. MANDATORY VERDICT BLOCK
   CONTINUITY-DOMINANT / EXIT-ACCELERATING / SYSTEM-NEGATIVE / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–CHINA — V1.0
+END OF FILE — CIV–CORE–CHINA — v2.0
 ────────────────────────────────────────────────────────────
