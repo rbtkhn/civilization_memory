@@ -137,9 +137,9 @@ XV. INITIAL STATE
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–INDIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (CIV–INDEX–INDIA v1.6):
+Source MEMs available (CIV–INDEX–INDIA v2.0):
 
-**II. Dynasties & state formation:** MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA, MEM–INDIA–DYNASTY–MUGHAL
+**II. Dynasties & state formation:** MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA, MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–DYNASTY–MUGHAL
 
 **III. Colonial & imperial interaction:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–PARTITION
 
@@ -147,9 +147,11 @@ Source MEMs available (CIV–INDEX–INDIA v1.6):
 
 **V. Geography & civilizational space:** MEM–INDIA–GEO–KASHMIR, MEM–INDIA–GEO–TIBET, MEM–INDIA–GEO–SRI–LANKA, MEM–INDIA–GEO–INDUS, MEM–INDIA–GEO–GANGES
 
-**VI. War & external shocks:** MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE
+**VI. War & external shocks:** MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE, MEM–INDIA–WAR–1857, MEM–INDIA–MONGOL–EMPIRE, MEM–INDIA–MONGOL–CHAGATAI, MEM–INDIA–WAR–TIMUR, MEM–INDIA–WAR–GHAZNAVID
 
-Total MEM–INDIA files indexed: 13.
+**VII. Civilizational interfaces:** MEM–INDIA–ISLAM
+
+Total MEM–INDIA files indexed: 21.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)

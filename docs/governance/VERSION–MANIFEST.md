@@ -134,7 +134,7 @@ PERSIA:
 │ CIV–ARC–PERSIA              │ v1.3    │ Active        │
 │ CIV–CORE–PERSIA             │ v2.0    │ Active        │
 │ CIV–INDEX–PERSIA            │ v1.2    │ Active        │
-│ CIV–SCHOLAR–PERSIA          │ v1.0    │ Active        │
+│ CIV–SCHOLAR–PERSIA          │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -234,6 +234,14 @@ IV. VERSION HISTORY (RECENT)
 • CIV–CORE–ISLAM, CIV–SCHOLAR–ISLAM, CIV–INDEX–ISLAM: ARC Reference updated to v1.3
 • CIV–SCHOLAR–ISLAM: SYNTHESIS 0004 extended with Kissinger (0014) Ottoman–Westphalia contrast; ARC–DISCOVERY PROPOSAL 0002 IMPLEMENTED
 • Per ARC–DISCOVERY PROPOSAL 0002 (CIV–SCHOLAR–ISLAM XVIII.C)
+
+2026-02-01 (MEM UPGRADE VERIFICATION CHECKLIST):
+• MEM–UPGRADE–VERIFICATION–CHECKLIST.md created — pre-completion checklist for major MEM upgrade batches (20% quotes, Blend Law, Layer 2, MEM CONNECTIONS)
+• CMC–BOOTSTRAP: AUDIT section — MEM Upgrade Verification reference added
+
+2026-02-01 (PERSIA — CIV–SCHOLAR–PERSIA v2.0):
+• CIV–SCHOLAR–PERSIA v1.0 → v2.0: ENTRY 0004 (WAR corpus integration), 0005 (Persia–Islam overlap); SYNTHESIS 0004 (Persia–Islam structural, Mearsheimer); Source MEMs expanded to 34; ARC Reference v1.3
+• CIV–INDEX–PERSIA: CIV–SCHOLAR–PERSIA v2.0
 
 2026-02-01 (PERSIA — v2.0 MAJOR UPGRADES, 7 MEMs):
 • MEM–PERSIA–IONIAN–REVOLT v1.0 → v2.0: Greek wars arc; Herodotus V.97, 99–100, 102, 105 verbatim; satrapal vs imperial (Mearsheimer); MEM CONNECTIONS enriched

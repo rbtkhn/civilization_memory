@@ -1,4 +1,4 @@
-CIV–SCHOLAR–PERSIA — v1.0
+CIV–SCHOLAR–PERSIA — v2.0
 Civilizational Memory Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -13,14 +13,15 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–PERSIA v1.0
+ARC Reference: CIV–ARC–PERSIA v1.3
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 
-Upgrade Type: INITIAL ESTABLISHMENT
-Scope: Phase I minimal structure; CIV–CORE–PERSIA v2.0 coupling; CIV–ARC–PERSIA v1.0.
+Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion.
 
-WORDCOUNT: ~2,100
+UPGRADE NOTE (v1.0 → v2.0): ENTRY 0004 (WAR corpus), 0005 (Persia–Islam); SYNTHESIS 0004 (Persia–Islam structural); Source MEMs expanded to 34; ARC v1.3.
+
+WORDCOUNT: ~2,500
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -137,7 +138,7 @@ XV. INITIAL STATE
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–PERSIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (CIV–INDEX–PERSIA): MEM–PERSIA–CYRUS–I, MEM–PERSIA–DYNASTY–ACHAEMENID, MEM–PERSIA–DYNASTY–SASANIAN, MEM–PERSIA–ZOROASTER, MEM–PERSIA–ISLAM, MEM–PERSIA–ISLAMIC–REPUBLIC, MEM–PERSIA–GEO–CASPIAN, MEM–PERSIA–MONGOL–EMPIRE, MEM–PERSIA–WAR–ALEXANDER, MEM–PERSIA–WAR–ROME.
+Source MEMs available (CIV–INDEX–PERSIA, 34 total): Cyrus-I, Dynasty–Achaemenid, Dynasty–Sasanian, Medes, Satrapies; Zoroaster, Darius-I; Islam, Islamic–Republic; GEO–Caspian, GEO–Persian–Gulf, GEO–Indian–Ocean, GEO–Levant, Silk–Road, Armenia, Persepolis, Egypt; Babylon, Lydia, Cambyses, Xerxes, Empire–Darius–III, Empire–Ardashir–I, Empire–Shapur–I, Empire–Khosrow–II; Ionian–Revolt, WAR–Marathon, WAR–Thermopylae, WAR–Scythian, WAR–Alexander, WAR–Carrhae, WAR–Rome; Mongol–Empire, Palmyra.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -221,6 +222,26 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
+ENTRY 0004
+Source:
+• LEARN session; REPORT–SCHOLAR–PERSIA–WAR–CORPUS–INTEGRATION–2026–02–01; v2.0 MEM batch
+Ingest Type:
+• Corpus Integration — WAR MEM cross-referencing; thematic arc formalization
+Primary Belief Extracted:
+• WAR corpus encodes coherent arc: Ionian Revolt → Marathon → Thermopylae (Greek wars); Scythian (northern denial); Alexander (tempo/conquest); Carrhae (founding Roman–Persian); Rome (seven-century parity). Denial-doctrine lineage: Scythian (nomadic) → Carrhae (Parthian cavalry) → Rome (endurance). Alexander-inversion theme: Xerxes fails to absorb Greece; Alexander absorbs Persia; same terrain, reversed direction. Mearsheimer structural: tempo vs depth; nomadic denial vs imperial fixed targets.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0005
+Source:
+• LEARN session; Persia–Islam overlap analysis; Mearsheimer lens application
+Ingest Type:
+• Cross-Civilization Structural Analysis — Persia–Islam interface
+Primary Belief Extracted:
+• Persia–Islam overlap is a structural power transition, not civilizational clash. Roman–Persian parity war exhausts both; Arab entry exploits vacuum. Balance of power: Arabs do not defeat strong Persia; they move into space created by mutual exhaustion. Incentive structure: exhausted empires seek consolidation; Arabs seek expansion into undefended terrain. Persian doctrine (denial, endurance) optimized for peer conflict; fails when conflict type changes (new actor, different velocity, novel legitimacy). Encoding divergence: Persian memory (Islam absorbed; Persia endures) vs structural reality (Sasanian state collapses; civilizational base persists and reorganizes). CCM applies.
+Belief Status:
+• UNFROZEN
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -255,6 +276,22 @@ Tension Record:
 
 Verdict: TENSION PRESERVED. Frames converge on overextension; emphasis diverges. CCM applies.
 
+SYNTHESIS 0004 — PERSIA–ISLAM STRUCTURAL TRANSITION (MEARSHEIMER)
+Source: ENTRY 0005; Persia–Islam overlap analysis
+Assumptions: (1) Power distribution and exhaustion explain Arab success; (2) Persian absorption narrative and structural collapse are compatible (state vs civilization); (3) doctrine optimized for one conflict type fails when type shifts.
+Confidence: UNBINDING (Phase I)
+
+Structural Record:
+| Element | Mearsheimer Reading |
+|---------|---------------------|
+| Balance of power | Two exhausted empires; third actor with fresh capacity enters vacuum |
+| Incentive structure | Persia/Rome: consolidate. Arabs: expand into undefended space |
+| Doctrine failure | Denial/endurance works vs peer; fails vs novel opponent with different velocity |
+| Encoding | Persian "absorption" = civilizational continuity; Sasanian state = collapsed |
+| Tempo parallel | Alexander (tempo) defeats Persia; Arabs (timing) defeat exhausted Persia |
+
+Verdict: Structural transition; no synthesis with Mercouris/Barnes. Tension preserved.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
@@ -287,12 +324,12 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 0
-Total Entries: 3
-Next Entry ID: 0004
+Total Entries: 5
+Next Entry ID: 0006
 Frozen Syntheses: 0
-Total Syntheses: 2
+Total Syntheses: 3
 SDI Entries: 0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PERSIA — v1.0
+END OF FILE — CIV–SCHOLAR–PERSIA — v2.0
 ────────────────────────────────────────────────────────────

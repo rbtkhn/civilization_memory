@@ -34,7 +34,7 @@ Index rules:
 II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 • CIV–CORE–PERSIA — v2.0 (Primary civilizational engine)
-• CIV–SCHOLAR–PERSIA — v1.0 (Learning and synthesis)
+• CIV–SCHOLAR–PERSIA — v2.0 (Learning and synthesis)
 • CIV–ARC–PERSIA — v1.2 (Academic Reference Canon)
 
 ────────────────────────────────────────────────────────────

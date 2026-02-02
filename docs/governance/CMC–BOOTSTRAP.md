@@ -354,6 +354,8 @@ AUDIT CAPABILITIES:
 • Flag governance violations
 • Assess SCHOLAR learning gaps
 
+MEM UPGRADE VERIFICATION: Before declaring major MEM upgrade batches complete, run MEM–UPGRADE–VERIFICATION–CHECKLIST (docs/governance/). Covers 20% quotes, Blend Law, Layer 2, MEM CONNECTIONS, bibliography, versioning.
+
 AUDIT IN WRITE: Fix violations immediately (modify files).
 AUDIT IN LEARN: Log violations for future correction (no file modification).
 

@@ -33,7 +33,7 @@ II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 
 • CIV–CORE–ISLAM — v2.0 (Sacred-Zone · Exit-Primacy · Demographic–Chokepoint)
-• CIV–SCHOLAR–ISLAM — v1.0 (Phase I Accumulation)
+• CIV–SCHOLAR–ISLAM — v2.0 (Phase I Accumulation)
 • CIV–ARC–ISLAM — v1.3 (Author Admissibility & Temporal Precedence)
 
 CIV–DOCTRINE–ISLAM: Not present.

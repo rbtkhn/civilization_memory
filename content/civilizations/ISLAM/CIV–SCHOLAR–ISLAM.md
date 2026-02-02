@@ -1,4 +1,4 @@
-CIV–SCHOLAR–ISLAM — v1.0
+CIV–SCHOLAR–ISLAM — v2.0
 Civilizational Memory Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -10,14 +10,19 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE I (Accumulation)
 Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
-Supersedes: None (initial)
+Supersedes: CIV–SCHOLAR–ISLAM v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–ISLAM v1.3
+ARC Reference: CIV–ARC–ISLAM v1.4
 Last Update: February 2026
 
-Upgrade Type: INITIAL ESTABLISHMENT
-Scope: Phase I minimal structure; CIV–CORE–ISLAM v2.0 coupling; CIV–ARC–ISLAM v1.3 binding.
+Upgrade Type: MAJOR UPGRADE (v2.0)
+Scope: Phase I; expanded MEM corpus (Mongol cluster: Hulegu, Ilkhanate, Khwarazm, Assassins, Ayn Jalut); CIV–INDEX–ISLAM v3.0; ARC v1.4 (Weatherford); SYNTHESIS 0006 (caliphal capital succession).
+
+────────────────────────────────────────────────────────────
+VERSION NOTE (v2.0)
+────────────────────────────────────────────────────────────
+v2.0 — Major upgrade. Expanded source MEM corpus: MEM–ISLAM–MONGOL–HULEGU, MEM–ISLAM–MONGOL–ILKHANATE, MEM–ISLAM–DYNASTY–KHWARAZM, MEM–ISLAM–ASSASSINS, MEM–ISLAM–WAR–AYN–JALUT. ARC alignment: CIV–ARC–ISLAM v1.4 (Weatherford). Index: CIV–INDEX–ISLAM v3.0 (54 MEMs). SYNTHESIS 0006 (Damascus–Baghdad–Cairo–Istanbul) with terminal-mode analysis and Mearsheimer cognition. Phase I structure preserved; no doctrine freeze.
 
 Word Count: ~2,200
 
@@ -658,5 +663,5 @@ Candidate Beliefs: 1 (Gibbon tri-frame applicability)
 SDI Entries: 0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ISLAM — v1.0
+END OF FILE — CIV–SCHOLAR–ISLAM — v2.0
 ────────────────────────────────────────────────────────────
