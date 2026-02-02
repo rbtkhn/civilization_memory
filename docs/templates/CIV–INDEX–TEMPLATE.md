@@ -1,26 +1,26 @@
-CIV–INDEX–TEMPLATE — v2.1
+CIV–INDEX–TEMPLATE — v3.0
 Civilizational Memory Codex · Civilization Index Template
 Academic Reference Canon (ARC) Integration Edition · Trans-Sovereign Patterns (TSP)
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–INDEX–TEMPLATE v2.0
-Upgrade Type: ADDITIVE · TSP REGISTRATION GUIDANCE
+Supersedes: CIV–INDEX–TEMPLATE v2.1
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9 · CIV–SCHOLAR–TEMPLATE v2.10
+Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–SCHOLAR–TEMPLATE v3.0
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v2.9 (global system law)
+• CIV–MEM–CORE v3.0 (global system law)
 
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,800
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1) — TRANS-SOVEREIGN PATTERNS (TSP) REGISTRATION
 ────────────────────────────────────────────────────────────
 This version adds registration guidance for MEMs documenting
-trans-sovereign patterns (TSP), aligning with CIV–MEM–CORE v2.9.
+trans-sovereign patterns (TSP), aligning with CIV–MEM–CORE v3.0.
 
 v2.1 introduces:
 
@@ -28,14 +28,14 @@ TSP REGISTRATION GUIDANCE:
 • New Section III.C: Trans-Sovereign Patterns (TSP)
 • TSP type notation in index entries (TSP:TRANSMISSION, TSP:NETWORK, TSP:RECONSTITUTION)
 • Cross-civilizational connection visibility in registry entries
-• Compatibility updated to CIV–MEM–CORE v2.9
+• Compatibility updated to CIV–MEM–CORE v3.0
 
 GOVERNANCE CLARIFICATIONS:
 • TSP MEMs remain in their primary civilization's index
 • TSP notation is optional but recommended for visibility
 • Cross-civilizational connections should be noted in registry
 
-Reference: CIV–MEM–CORE v2.9, Section XXIX (Trans-Sovereign Patterns)
+Reference: CIV–MEM–CORE v3.0, Section XXIX (Trans-Sovereign Patterns)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0) — SUBSECTION GOVERNANCE + EXPANDED CATEGORIES
@@ -206,7 +206,7 @@ TSP GOVERNANCE RULES:
 • Cross-civilizational connections are informational, not structural
 • TSP designation does not alter index governance rules
 
-Reference: CIV–MEM–CORE v2.9, Section XXIX
+Reference: CIV–MEM–CORE v3.0, Section XXIX
 
 ────────────────────────────────────────────────────────────
 IV. CANONICAL GOVERNANCE FILES REGISTRATION

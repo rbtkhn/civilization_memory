@@ -1,19 +1,20 @@
-CIV–ARC–ISLAM — v2.0
+CIV–ARC–ISLAM — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ISLAM
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: CIV–ARC–ISLAM v1.4
-Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (VI Orthogonality, VII What ARC Does Not Govern)
+Version: 3.0
+Supersedes: CIV–ARC–ISLAM v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: ISLAM
-Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
+Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–ISLAM · CIV–SCHOLAR–ISLAM
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
-VERSION NOTE (v2.0)
+VERSION NOTE (v3.0)
 ────────────────────────────────────────────────────────────
+v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. February 2026.
 v2.0 — Version milestone; template alignment (V-A, VI Orthogonality, VII What ARC Does Not Govern). February 2026.
 
 v1.4 — Jack Weatherford (b. 1946) added to ARC-T-MODERN. Genghis Khan and the Making of the Modern World (2004)—Mongol conquests, destruction of Baghdad 1258, Ilkhanate, conversion to Islam; civilizational encounter perspective. For MEM–ISLAM–MONGOL–EMPIRE and related Islam–Mongol interface MEMs.
@@ -96,7 +97,7 @@ Expanded discovery does not add authors to this canon without an ARC version upg
 ────────────────────────────────────────────────────────────
 V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
-Per CIV–ARC–TEMPLATE v2.8 § V-A. Islam TSP MEMs (e.g., transmission to/from Persia, India, Rome) may cite sources from ARC–PERSIA, ARC–ROME, ARC–ANGLIA, etc., with explicit ARC declaration.
+Per CIV–ARC–TEMPLATE v3.0 § V-A. Islam TSP MEMs (e.g., transmission to/from Persia, India, Rome) may cite sources from ARC–PERSIA, ARC–ROME, ARC–ANGLIA, etc., with explicit ARC declaration.
 
 Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 
@@ -109,7 +110,7 @@ See NAMESPACE–CLARIFICATION v1.0.
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC: 20% verbatim quote minimum;
+Governed by CIV–MEM–TEMPLATE v3.0, NOT by ARC: 20% verbatim quote minimum;
 EQS; analytical content floor; quote word counting; ERC classification.
 ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
 
@@ -117,9 +118,17 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v2.0)
-• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v2.0)
+• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v3.0)
+• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v3.0)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ISLAM — v2.0
+IX. VERSIONING
+────────────────────────────────────────────────────────────
+• Additive upgrades only for author lists
+• Temporal precedence rule is immutable
+• Discovery framework may be refined
+• Per CIV–ARC–TEMPLATE v3.0
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–ISLAM — v3.0
 ────────────────────────────────────────────────────────────

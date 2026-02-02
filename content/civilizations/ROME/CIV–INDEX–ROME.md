@@ -1,19 +1,19 @@
-CIV–INDEX–ROME — v2.5
+CIV–INDEX–ROME — v3.0
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.5
-Supersedes: CIV–INDEX–ROME v2.4
-Supersedes: CIV–INDEX–ROME v2.1
-Upgrade Type: ADDITIVE · FULL DIRECTORY RECONCILIATION
+Version: 3.0
+Supersedes: CIV–INDEX–ROME v2.5
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: ROME
 Subject: Rome Memory Index (Authoritative File Register)
 Dates: c. 753 BC–1453 AD (with afterlife)
 Class: CIV (Index)
-Last Update: January 2026
+Governed by: CIV–MEM–CORE v3.0
+Last Update: February 2026
 
-Derived from: CIV–INDEX–TEMPLATE v1.8
+Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–ROME MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
@@ -442,5 +442,5 @@ Category Breakdown:
 • N) SUCCESSOR CIVILIZATIONS & RIVALS: 7 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME v2.5
+END OF FILE — CIV–INDEX–ROME — v3.0
 ────────────────────────────────────────────────────────────

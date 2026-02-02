@@ -1,4 +1,4 @@
-CIV–DOCTRINE–FRANCIA — v1.2
+CIV–DOCTRINE–FRANCIA — v3.0
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -6,8 +6,11 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: FRANCIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–FRANCIA (Explicit Acceptance Only)
-Compatibility: CIV–CORE–FRANCIA v1.x
-Last Update: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–FRANCIA v2.0+
+Derived from: CIV–DOCTRINE–TEMPLATE v3.0
+Supersedes: CIV–DOCTRINE–FRANCIA v1.2
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Last Update: February 2026
 Word Count: ~1,220
 
 ────────────────────────────────────────────────────────────
@@ -186,5 +189,5 @@ Supersedes:
 v1.2: Typo correction — DOCTRINE 02 name "DIVERGENAD" → "DIVERGENCE".
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–FRANCIA v1.2
+END OF FILE — CIV–DOCTRINE–FRANCIA — v3.0
 ────────────────────────────────────────────────────────────

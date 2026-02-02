@@ -1,19 +1,19 @@
-CIV–INDEX–INDIA — v2.0
+CIV–INDEX–INDIA — v3.0
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: CIV–INDEX–INDIA v1.6
-Upgrade Type: MAJOR VERSION — INDEX v2.0 MILESTONE
+Version: 3.0
+Supersedes: CIV–INDEX–INDIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: INDIA
 Class: CIV–INDEX
 Last Update: February 2026
 Total MEM–INDIA files indexed: 21
 Word Count: ~1,100
 
-Template Alignment: CIV–INDEX–TEMPLATE v2.1 (structural parity)
-Governed by: CIV–MEM–CORE v2.9
+Template Alignment: CIV–INDEX–TEMPLATE v3.0 (structural parity)
+Governed by: CIV–MEM–CORE v3.0
 Referenced by: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA · CIV–ARC–INDIA
 
 ────────────────────────────────────────────────────────────
@@ -101,6 +101,6 @@ Candidate future MEM domains (not commitments):
 Index does not imply prioritization.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–INDIA — v2.0
+END OF FILE — CIV–INDEX–INDIA — v3.0
 ────────────────────────────────────────────────────────────
 

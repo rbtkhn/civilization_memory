@@ -1,4 +1,4 @@
-CIV–DOCTRINE–GERMANIA — v2.0
+CIV–DOCTRINE–GERMANIA — v3.0
 
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
@@ -7,10 +7,10 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: GERMANIA
 Class: CIV–DOCTRINE
 Source Authority: DIB–GERMANIA
-Compatibility: CIV–CORE–GERMANIA v2.0+
-Derived from: CIV–DOCTRINE–TEMPLATE v2.1
-Supersedes: CIV–DOCTRINE–GERMANIA v1.4
-Upgrade Type: TEMPLATE ALIGNMENT · VERSION MILESTONE · FOOTER FIX
+Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–GERMANIA v2.0+
+Derived from: CIV–DOCTRINE–TEMPLATE v3.0
+Supersedes: CIV–DOCTRINE–GERMANIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Last Update: February 2026
 Word Count: ~1,050
 
@@ -388,5 +388,5 @@ Future versions:
 • May NOT alter admissibility rules
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–GERMANIA v2.0
+END OF FILE — CIV–DOCTRINE–GERMANIA — v3.0
 

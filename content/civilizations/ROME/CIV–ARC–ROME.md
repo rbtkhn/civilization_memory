@@ -1,13 +1,13 @@
-CIV–ARC–ROME — v2.3
+CIV–ARC–ROME — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–ROME v2.2
-Upgrade Type: ADDITIVE · ISAACSON REGISTRATION
+Supersedes: CIV–ARC–ROME v2.3
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
-Last Updated: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
+Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.3) — ISAACSON REGISTRATION
@@ -329,6 +329,21 @@ Discovery applies to ARC-T-ANCIENT and ARC-T-MEDIEVAL categories.
 Modern scholars may be added through canon update process.
 
 ────────────────────────────────────────────────────────────
+X-A. CROSS-ARC CITATION FOR TSP MEMs
+────────────────────────────────────────────────────────────
+Trans-Sovereign Pattern (TSP) MEMs may require sources from multiple
+civilizations' ARCs. Per CIV–ARC–TEMPLATE v3.0 § V-A.
+
+CROSS-ARC CITATION RULES:
+1. Primary ARC (ARC–ROME) governs MEMs filed under ROME.
+2. TSP MEMs MAY cite sources from connected civilizations' ARCs
+   (e.g. ARC–RUSSIA for MEM–ROME–RUSSIA transmission) with explicit
+   ARC declaration.
+3. Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
+4. Temporal precedence applies within each ARC independently.
+5. Discovery flag required for sources not in any relevant ARC.
+
+────────────────────────────────────────────────────────────
 XI. MIRRORING RULE
 ────────────────────────────────────────────────────────────
 This ARC file MUST be referenced in:
@@ -338,7 +353,7 @@ This ARC file MUST be referenced in:
 Full embedding is no longer required.
 Reference by version pointer is sufficient:
 
-"ARC Reference: CIV–ARC–ROME v2.0"
+"ARC Reference: CIV–ARC–ROME v3.0"
 
 Any version mismatch invalidates compliance.
 
@@ -357,10 +372,10 @@ The following are prohibited:
 ────────────────────────────────────────────────────────────
 XIII. VERSIONING
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–ROME v2.1
+Version: CIV–ARC–ROME v3.0
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–ROME v2.0
-Upgrade Type: ADDITIVE · STRATHERN INTEGRATION
+Supersedes: CIV–ARC–ROME v2.3
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 • Additive upgrades only for author lists
@@ -369,5 +384,5 @@ Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ROME v2.1
+END OF FILE — CIV–ARC–ROME v3.0
 ────────────────────────────────────────────────────────────

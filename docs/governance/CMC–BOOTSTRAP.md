@@ -1,11 +1,18 @@
-CMC–BOOTSTRAP — v2.14
+CMC–BOOTSTRAP — v3.0
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT WITH CORE v3.0
+────────────────────────────────────────────────────────────
+This version aligns with CIV–MEM–CORE v3.0 consolidation. All governance
+and template bindings advance to v3.0; QUICK START and constraints
+unchanged. Declare: "Bound by CMC–BOOTSTRAP v3.0."
+
+────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC–BOOTSTRAP v2.14"
+1) Declare binding: "Bound by CMC–BOOTSTRAP v3.0"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
 4) OGE required in ALL modes (LEARN/IMAGINE: 6 options, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
@@ -39,10 +46,10 @@ Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 1)
 UPGRADE NOTE (v2.13) — CROSS–CIVILIZATIONAL MISPERCEPTION (CCM)
 ────────────────────────────────────────────────────────────
 This version integrates CCM awareness from CIV–MEM–CORE v2.8.
-(Note: CIV–MEM–CORE is now v2.9 with TSP governance)
+(Note: CIV–MEM–CORE is now v3.0 consolidation)
 
 v2.13 updates:
-• CIV–MEM–CORE binding: v2.7 → v2.8 (now v2.9)
+• CIV–MEM–CORE binding: v2.7 → v2.8 → v3.0
 • QUICK START step 8: Cross-civilizational misperception (Scholar-on-Scholar explanation divergence = expected, emergent realism)
 • ACTIVE CONSTRAINTS: CCM clause added
 
@@ -153,20 +160,20 @@ This version corrects discrepancies identified in v1.0:
 VERSION BINDINGS (CURRENT)
 ────────────────────────────────────────────────────────────
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.9
+• CIV–MEM–CORE: v3.0
 
 MIND PROFILES:
-• CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
-• CIV–MIND–MEARSHEIMER: v2.6 (ADVISORY)
-• CIV–MIND–BARNES: v2.6 (TERTIARY CATALYST)
-• CIV–MIND–TEMPLATE: v2.5
+• CIV–MIND–MERCOURIS: v3.0 (PRIMARY)
+• CIV–MIND–MEARSHEIMER: v3.0 (ADVISORY)
+• CIV–MIND–BARNES: v3.0 (TERTIARY CATALYST)
+• CIV–MIND–TEMPLATE: v3.0
 
 TEMPLATES:
-• CIV–MEM–TEMPLATE: v2.9
-• CIV–SCHOLAR–TEMPLATE: v2.10
-• CIV–SCHOLAR–PROTOCOL: v2.6
+• CIV–MEM–TEMPLATE: v3.0
+• CIV–SCHOLAR–TEMPLATE: v3.0
+• CIV–SCHOLAR–PROTOCOL: v3.0
 
-Declare: "Bound by CMC–BOOTSTRAP v2.14"
+Declare: "Bound by CMC–BOOTSTRAP v3.0"
 
 ────────────────────────────────────────────────────────────
 SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0 — NEW)
@@ -201,7 +208,7 @@ MODE-SPECIFIC APPLICATION:
 │ Canonical   │ Full    │ Patterns│ None          │
 └─────────────┴─────────┴─────────┴───────────────┘
 
-See: CIV–MEM–CORE v2.9, Section XXII for full protocol.
+See: CIV–MEM–CORE v3.0, Section XXII for full protocol.
 
 ────────────────────────────────────────────────────────────
 SCHOLAR MODE ARCHITECTURE (HARD)
@@ -505,5 +512,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v2.14
+END — CMC–BOOTSTRAP — v3.0
 ────────────────────────────────────────────────────────────

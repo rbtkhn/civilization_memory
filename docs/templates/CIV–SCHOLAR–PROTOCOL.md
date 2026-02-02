@@ -1,18 +1,18 @@
-CIV–SCHOLAR–PROTOCOL — v2.6
+CIV–SCHOLAR–PROTOCOL — v3.0
 Civilizational Strategy Codex · Scholar Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 2.6
+Version: 3.0
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
-Supersedes: CIV–SCHOLAR–PROTOCOL v2.5
-Upgrade Type: ADDITIVE · COGNITIVE MAINTENANCE TRIGGERS
-Compatibility: CIV–SCHOLAR–TEMPLATE v2.10+ · CIV–CORE–TEMPLATE v2.0+
-Last Update: January 2026
+Supersedes: CIV–SCHOLAR–PROTOCOL v2.6
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Compatibility: CIV–SCHOLAR–TEMPLATE v3.0 · CIV–CORE–TEMPLATE v3.0
+Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — COGNITIVE MAINTENANCE TRIGGERS

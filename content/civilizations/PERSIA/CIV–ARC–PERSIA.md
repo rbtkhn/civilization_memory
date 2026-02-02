@@ -1,13 +1,13 @@
-CIV–ARC–PERSIA — v2.0
+CIV–ARC–PERSIA — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: CIV–ARC–PERSIA v1.3
-Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (V-A, VI Orthogonality, VII What ARC Does Not Govern)
+Version: 3.0
+Supersedes: CIV–ARC–PERSIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: PERSIA
-Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
+Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 
@@ -102,7 +102,7 @@ Expanded discovery does not add authors to this canon without an ARC version upg
 ────────────────────────────────────────────────────────────
 V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
-Per CIV–ARC–TEMPLATE v2.8 § V-A. Persia TSP MEMs (e.g., MEM–PERSIA–ZOROASTER on transmission to Jewish/Christian/Islamic eschatology; MEM–ROME–RUSSIA on Byzantine–Persian transmission) may cite sources from ARC–ROME, ARC–ISLAM, ARC–ANGLIA, etc., with explicit ARC declaration.
+Per CIV–ARC–TEMPLATE v3.0 § V-A. Persia TSP MEMs (e.g., MEM–PERSIA–ZOROASTER on transmission to Jewish/Christian/Islamic eschatology; MEM–ROME–RUSSIA on Byzantine–Persian transmission) may cite sources from ARC–ROME, ARC–ISLAM, ARC–ANGLIA, etc., with explicit ARC declaration.
 
 Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 
@@ -120,7 +120,7 @@ See NAMESPACE–CLARIFICATION v1.0.
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC: 20% verbatim quote minimum;
+Governed by CIV–MEM–TEMPLATE v3.0, NOT by ARC: 20% verbatim quote minimum;
 EQS; analytical content floor; quote word counting; ERC classification.
 ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
 
@@ -128,9 +128,17 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v2.0)
-• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v2.0)
+• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.0)
+• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.0)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–PERSIA — v2.0
+IX. VERSIONING
+────────────────────────────────────────────────────────────
+• Additive upgrades only for author lists
+• Temporal precedence rule is immutable
+• Discovery framework may be refined
+• Per CIV–ARC–TEMPLATE v3.0
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–PERSIA — v3.0
 ────────────────────────────────────────────────────────────

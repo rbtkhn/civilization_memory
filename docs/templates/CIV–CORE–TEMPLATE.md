@@ -1,21 +1,21 @@
-CIV–CORE–TEMPLATE — v2.0
+CIV–CORE–TEMPLATE — v3.0
 Civilizational Strategy Codex · Civilization Core Engine
 Global Structural Template · Phase-Aware Enhanced Scholarly Edition
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Supersedes: CIV–CORE–TEMPLATE v1.9
-Upgrade Type: MAJOR · PHASE MODEL INTEGRATION + SCHOLARLY ENHANCEMENT
+Supersedes: CIV–CORE–TEMPLATE v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v2.2+ (global system law)
+• CIV–MEM–CORE v3.0 (global system law)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
-• CIV–SCHOLAR–PROTOCOL v2.1+ (interaction layer only)
+• CIV–SCHOLAR–PROTOCOL v3.0 (interaction layer only)
 
-Last Update: January 2026
+Last Update: February 2026
 WORDCOUNT: ~4,000
 
 ────────────────────────────────────────────────────────────

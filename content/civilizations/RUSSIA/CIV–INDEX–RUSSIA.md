@@ -1,18 +1,19 @@
-CIV–INDEX–RUSSIA — v2.7
+CIV–INDEX–RUSSIA — v3.0
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.7
-Supersedes: CIV–INDEX–RUSSIA v2.6
-Upgrade Type: ADDITIVE · NEW FILE REGISTRATION
+Version: 3.0
+Supersedes: CIV–INDEX–RUSSIA v2.7
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
 Class: CIV (Index)
-Last Update: January 2026
+Governed by: CIV–MEM–CORE v3.0
+Last Update: February 2026
 
-Derived from: CIV–INDEX–TEMPLATE v1.8
+Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
@@ -416,4 +417,4 @@ Category Breakdown:
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA v2.7
+END OF FILE — CIV–INDEX–RUSSIA — v3.0

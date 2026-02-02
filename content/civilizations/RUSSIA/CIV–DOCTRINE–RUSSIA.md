@@ -1,18 +1,18 @@
-CIV–DOCTRINE–RUSSIA — v1.1
+CIV–DOCTRINE–RUSSIA — v3.0
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.1
-Supersedes: CIV–DOCTRINE–RUSSIA v1.0
-Upgrade Type: GOVERNANCE-ONLY COMPATIBILITY REISSUE
+Version: 3.0
+Supersedes: CIV–DOCTRINE–RUSSIA v1.1
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: RUSSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–RUSSIA (Explicit Acceptance Only)
-Compatibility: CIV–CORE–RUSSIA v2.x
-Governance Authority: CIV–MEM–CORE v2.0 (or higher)
-Derived from: CIV–DOCTRINE–TEMPLATE v2.1
-Last Update: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–RUSSIA v2.x
+Governance Authority: CIV–MEM–CORE v3.0
+Derived from: CIV–DOCTRINE–TEMPLATE v3.0
+Last Update: February 2026
 Word Count: ~1,150
 
 ────────────────────────────────────────────────────────────
@@ -182,5 +182,5 @@ This file is LOCKED.
 Supersession is additive only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–RUSSIA v1.1
+END OF FILE — CIV–DOCTRINE–RUSSIA — v3.0
 ────────────────────────────────────────────────────────────

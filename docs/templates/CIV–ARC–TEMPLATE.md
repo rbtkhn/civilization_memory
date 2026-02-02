@@ -1,20 +1,20 @@
-CIV–ARC–[CIVILIZATION] — v2.8
+CIV–ARC–[CIVILIZATION] — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–[CIVILIZATION] v2.7
-Upgrade Type: ADDITIVE · TSP CROSS-CITATION GUIDANCE
+Supersedes: CIV–ARC–[CIVILIZATION] v2.8
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9 · NAMESPACE–CLARIFICATION v1.0
-Last Updated: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
+Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — TSP CROSS-CITATION GUIDANCE
 ────────────────────────────────────────────────────────────
 This version adds guidance for citing sources across multiple ARCs
 when documenting trans-sovereign patterns (TSP), aligning with
-CIV–MEM–CORE v2.9, Section XXIX.
+CIV–MEM–CORE v3.0, Section XXIX.
 
 v2.8 introduces:
 
@@ -25,10 +25,10 @@ TSP CROSS-CITATION:
 • Temporal precedence applies within each ARC independently
 
 COMPATIBILITY:
-• Updated to CIV–MEM–CORE v2.9
+• Updated to CIV–MEM–CORE v3.0
 • Updated to CIV–MEM–TEMPLATE v2.9
 
-Reference: CIV–MEM–CORE v2.9, Section XXIX (Trans-Sovereign Patterns)
+Reference: CIV–MEM–CORE v3.0, Section XXIX (Trans-Sovereign Patterns)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — SIMPLIFICATION + NAMESPACE ALIGNMENT
@@ -227,7 +227,7 @@ See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-The following are governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC:
+The following are governed by CIV–MEM–TEMPLATE v3.0, NOT by ARC:
 
 • 20% verbatim quote minimum (MEM-TEMPLATE VIII)
 • Evidence Quality Standards / EQS (MEM-TEMPLATE VI)
@@ -258,5 +258,5 @@ IX. VERSIONING
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v2.8
+END OF FILE — CIV–ARC–[CIVILIZATION] v3.0
 ────────────────────────────────────────────────────────────

@@ -1,12 +1,12 @@
-CIV–SCHOLAR–TEMPLATE — v2.10
+CIV–SCHOLAR–TEMPLATE — v3.0
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.9
-Upgrade Type: ADDITIVE · SYNTHESIS TRADECRAFT REQUIREMENTS
+Supersedes: CIV–SCHOLAR–TEMPLATE v2.10
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v2.8+ · CIV–MEM–TEMPLATE v2.9+ · CIV–SCHOLAR–PROTOCOL v2.2+
-Last Update: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–SCHOLAR–PROTOCOL v3.0
+Last Update: February 2026
 WORDCOUNT: ~14,500
 
 ────────────────────────────────────────────────────────────
@@ -24,7 +24,7 @@ v2.10 introduces the following ADDITIVE enhancements:
   – POST-ACH revision documentation requirements
 
 This aligns SCHOLAR synthesis operations with Intelligence Tradecraft
-Integration (ITI) protocols from CIV–MEM–CORE v2.8.
+Integration (ITI) protocols from CIV–MEM–CORE v3.0 (Sections XXVI-XXVII).
 
 PURPOSE:
 • Force explicit assumption identification
@@ -37,7 +37,7 @@ ENFORCEMENT:
 • SYNTHESIS where alternatives were evaluated without ACH is INVALID
 • Confidence tier must be declared in SYNTHESIS status block
 
-See: CIV–MEM–CORE v2.8 Sections XXVI-XXVII (ITI specification)
+See: CIV–MEM–CORE v3.0 Sections XXVI-XXVII (ITI specification)
 
 No authority is weakened.
 No phase boundary is relaxed.
@@ -1192,7 +1192,7 @@ XIV. SYNTHESIS TRADECRAFT REQUIREMENTS (NEW · v2.10 · MANDATORY)
 ────────────────────────────────────────────────────────────
 This section establishes tradecraft requirements for SYNTHESIS entries,
 integrating Intelligence Tradecraft Integration (ITI) protocols from
-CIV–MEM–CORE v2.7.
+CIV–MEM–CORE v3.0.
 
 PURPOSE:
 • Force explicit identification of assumptions underlying syntheses

@@ -1,16 +1,16 @@
-CIV–MIND–MERCOURIS — v2.6
+CIV–MIND–MERCOURIS — v3.0
 Civilizational Memory Codex · Primary Mind
 Alexander Mercouris Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture · Proportional Blend Law
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (PRIMARY)
-Supersedes: CIV–MIND–MERCOURIS v2.5
-Upgrade Type: LINGUISTIC FINGERPRINT REFINEMENT (solo program transcript Jan 2026)
+Supersedes: CIV–MIND–MERCOURIS v2.6
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
-• CIV–MIND–TEMPLATE v2.5 (REQUIRED)
-• CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
+• CIV–MIND–TEMPLATE v3.0 (REQUIRED)
+• CIV–MIND–MEARSHEIMER v3.0 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -18,8 +18,8 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.9
-• CIV–MIND–TEMPLATE v2.5
+• CIV–MEM–CORE v3.0
+• CIV–MIND–TEMPLATE v3.0
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Material: Transcript analysis (24–25 January 2026 programs + December 2025 panel +
@@ -755,7 +755,7 @@ proportions depending on file type:
 
 Neither voice is ever fully absent. File type determines emphasis.
 
-See: CIV–MEM–CORE v2.9, Section VP-1.g
+See: CIV–MEM–CORE v3.0, Section VP-1.g
 
 VI.F TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────
@@ -856,5 +856,5 @@ This file defines *how* Mercouris thinks —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MERCOURIS — v2.6
+END OF FILE — CIV–MIND–MERCOURIS — v3.0
 ────────────────────────────────────────────────────────────

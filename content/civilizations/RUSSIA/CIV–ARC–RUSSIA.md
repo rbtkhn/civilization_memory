@@ -1,13 +1,22 @@
-CIV–ARC–RUSSIA — v2.0
+CIV–ARC–RUSSIA — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 
 Status: CANONICAL · STAND-ALONE · MIRRORED
 Scope: CIV–CORE–RUSSIA and CIV–SCHOLAR–RUSSIA (IDENTICAL TEXT)
+Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0 (legacy A/B/C/D structure)
 Last Updated: February 2026
 
-Supersedes: CIV–ARC–RUSSIA v1.5
-Upgrade Type: VERSION MILESTONE
+Supersedes: CIV–ARC–RUSSIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0)
+────────────────────────────────────────────────────────────
+v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. Governed by / Compatibility
+added; binding to CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0. Legacy
+A/B/C/D structure unchanged.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -15,7 +24,7 @@ UPGRADE NOTE (v2.0)
 v2.0 — Version milestone. RUSSIA ARC uses Categories A/B/C/D (pre-ARC-T
 namespace); structurally equivalent to temporal precedence. Cross-ARC
 citation for TSP MEMs: primary ARC (ARC–RUSSIA) governs; secondary ARCs
-permitted with explicit declaration per CIV–ARC–TEMPLATE v2.8 § V-A.
+permitted with explicit declaration per CIV–ARC–TEMPLATE v3.0 § V-A.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.5)
@@ -336,12 +345,12 @@ Any divergence invalidates compliance.
 ────────────────────────────────────────────────────────────
 XI. CANON STATE
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–RUSSIA v2.0
+Version: CIV–ARC–RUSSIA v3.0
 State: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–ARC–RUSSIA v1.5
 Upgrade Type: VERSION MILESTONE
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–RUSSIA — v2.0
+END OF FILE — CIV–ARC–RUSSIA — v3.0
 ────────────────────────────────────────────────────────────

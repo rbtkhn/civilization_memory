@@ -1,16 +1,16 @@
-CIV–MIND–MEARSHEIMER — v2.6
+CIV–MIND–MEARSHEIMER — v3.0
 Civilizational Memory Codex · Advisory Mind
 John J. Mearsheimer Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (ADVISORY)
-Supersedes: CIV–MIND–MEARSHEIMER v2.5
-Upgrade Type: LINGUISTIC FINGERPRINT REFINEMENT (Davis transcript audit Jan 2026)
+Supersedes: CIV–MIND–MEARSHEIMER v2.6
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT (OGE-INVOKED)
 Compatibility:
-• CIV–MIND–TEMPLATE v2.5 (REQUIRED)
-• CIV–MIND–MERCOURIS v2.6 (PRIMARY — REQUIRED)
+• CIV–MIND–TEMPLATE v3.0 (REQUIRED)
+• CIV–MIND–MERCOURIS v3.0 (PRIMARY — REQUIRED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -18,9 +18,9 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.9
-• CIV–MIND–TEMPLATE v2.5
-• CIV–MIND–MERCOURIS v2.6 (PRIMARY MIND)
+• CIV–MEM–CORE v3.0
+• CIV–MIND–TEMPLATE v3.0
+• CIV–MIND–MERCOURIS v3.0 (PRIMARY MIND)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Derivation: SCE–EXP–MEARSHEIMER v9.7 (CSC)
@@ -225,7 +225,7 @@ proportions depending on file type:
 MEARSHEIMER is primary voice in GEO–MEMs.
 MERCOURIS evidence (ARC quotes) provides the 1/3 secondary content.
 
-See: CIV–MEM–CORE v2.9, Section VP-1.g
+See: CIV–MEM–CORE v3.0, Section VP-1.g
 
 ────────────────────────────────────────────────────────────
 V. LINGUISTIC FINGERPRINT (EMPIRICALLY REFINED)
@@ -762,5 +762,5 @@ This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MEARSHEIMER — v2.6
+END OF FILE — CIV–MIND–MEARSHEIMER — v3.0
 ────────────────────────────────────────────────────────────

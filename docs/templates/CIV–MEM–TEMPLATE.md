@@ -1,20 +1,20 @@
-CIV–MEM–TEMPLATE — v2.9
+CIV–MEM–TEMPLATE — v3.0
 Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.8
-Upgrade Type: MAJOR STRUCTURAL · THREE-LAYER ARCHITECTURE
+Supersedes: CIV–MEM–TEMPLATE v2.9
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.8+
-Last Update: January 2026
+Compatibility: CIV–MEM–CORE v3.0
+Last Update: February 2026
 WORDCOUNT: ~7,500
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.9) — THREE-LAYER ARCHITECTURE · STRUCTURED DATA
 ────────────────────────────────────────────────────────────
 This version implements the Three-Layer MEM Architecture (TLA)
-from CIV–MEM–CORE v2.8, adding type-specific structured data
+from CIV–MEM–CORE v3.0 (Sections XXIV-XXVII), adding type-specific structured data
 fields and optional analytical extensions.
 
 NEW REQUIREMENT — THREE-LAYER ARCHITECTURE:
@@ -43,7 +43,7 @@ ENFORCEMENT:
 
 Reference Implementation: MEM–GERMANIA–WAR–NAPOLEON v2.1
 
-See: CIV–MEM–CORE v2.8, Sections XXIV-XXVII
+See: CIV–MEM–CORE v3.0, Sections XXIV-XXVII
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS
@@ -62,7 +62,7 @@ GEO–MEM SPECIFIC REQUIREMENTS (NEW):
 • Strategic analysis fulfills the 2/3 Mearsheimer requirement
 • Cognitive layer declaration required
 
-See: CIV–MEM–CORE v2.6, Section VP-1.g (Proportional Blend Law)
+See: CIV–MEM–CORE v3.0, Section VP-1.g (Proportional Blend Law)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
@@ -682,7 +682,7 @@ GEO–MEM files MUST contain:
 
 1. GEO–MEM COGNITIVE DECLARATION
    - Declares Mearsheimer strategic cognition
-   - References CIV–MEM–CORE v2.2 Proportional Blend Law
+   - References CIV–MEM–CORE v3.0 Proportional Blend Law
 
 2. STRATEGIC ANALYSIS SECTIONS (≥6)
    - Terrain geometry
@@ -1048,7 +1048,7 @@ Apply to: MEMs anchoring major analytical claims
 PURPOSE: Identify key assumptions underlying MEM analysis.
 
 Note: Assumptions Box is REQUIRED for SYNTHESIS entries
-(per CIV–MEM–CORE v2.7 Section XXVI). For MEMs, it is optional
+(per CIV–MEM–CORE v3.0 Section XXVI). For MEMs, it is optional
 but recommended for those making significant analytical claims.
 
 SECTION: ASSUMPTIONS BOX (LAYER 3)
@@ -1074,7 +1074,7 @@ PURPOSE: Document alternative hypotheses considered and why
 the preferred interpretation was selected.
 
 Note: ACH Record is REQUIRED for SYNTHESIS entries where
-alternatives were evaluated (per CIV–MEM–CORE v2.7 Section XXVI).
+alternatives were evaluated (per CIV–MEM–CORE v3.0 Section XXVI).
 For MEMs, it is optional.
 
 SECTION: ACH RECORD (LAYER 3)

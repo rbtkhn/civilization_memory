@@ -5,11 +5,11 @@ Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE · CANONICAL · LOCKED
 Version: 3.0
 Supersedes: CIV–INDEX–ISLAM v2.9
-Upgrade Type: ADDITIVE (Hulegu, Ilkhanate, Assassins, Ayn Jalut, Khwarazm)
-Template Version Used: CIV–INDEX–TEMPLATE v2.1
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Template Version Used: CIV–INDEX–TEMPLATE v3.0
 Civilization: ISLAM
 Class: CIV–INDEX
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
 
 TOTAL REGISTERED MEM FILES: 53

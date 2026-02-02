@@ -1,20 +1,21 @@
-CIV–INDEX–GERMANIA — v2.2
+CIV–INDEX–GERMANIA — v3.0
 Civilizational Memory Codex · Civilization Index File
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.2
-Supersedes: CIV–INDEX–GERMANIA v2.1
-Upgrade Type: NEW MEM REGISTRATION (+14 MEMs)
+Version: 3.0
+Supersedes: CIV–INDEX–GERMANIA v2.2
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: GERMANIA
 Subject: Germania Memory Index (Authoritative File Register)
 Dates: Roman era–present
 Class: CIV–INDEX
-Last Update: January 2026
+Governed by: CIV–MEM–CORE v3.0
+Last Update: February 2026
 Total Registered Files: 126 MEM–GERMANIA objects
 WORDCOUNT: ~1,250
 
-Derived from: CIV–INDEX–TEMPLATE v2.1
+Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–GERMANIA v2.0 MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
@@ -313,5 +314,5 @@ XVI. ACADEMIC REFERENCE CANON (ARC)
 • CIV–ARC–GERMANIA — v2.5
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–GERMANIA — v2.2
+END OF FILE — CIV–INDEX–GERMANIA — v3.0
 ────────────────────────────────────────────────────────────

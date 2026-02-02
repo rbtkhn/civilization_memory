@@ -1,10 +1,11 @@
-VERSION–MANIFEST — v1.14
+VERSION–MANIFEST — v3.0
 Civilizational Memory Codex · Canonical Version Registry
 Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
 Last Updated: 2026-02-02
+Supersedes: VERSION–MANIFEST v1.14
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -20,11 +21,10 @@ Use this file to:
 • Enable automated version checking
 
 MAJOR VERSION CONSTRAINT (BINDING):
-No governance, template, or SCHOLAR file may reach v3.0 until
-CIV–MEM–CORE is upgraded to v3.0. The v3.0 threshold represents
-a major architectural transition requiring CORE authorization.
-Files remain in v2.x series (v2.10, v2.11, etc.) until this
-constraint is lifted.
+CIV–MEM–CORE v3.0 authorizes v3.x for other governance, template,
+and SCHOLAR files per this manifest. The v3.0 transition (CORE
+consolidation) is complete; other documents may advance to v3.x
+in line with CORE when upgraded.
 
 ────────────────────────────────────────────────────────────
 II. GOVERNANCE LAYER (BINDING)
@@ -33,28 +33,29 @@ These documents govern all CMC operations.
 Version bindings are MANDATORY.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v2.9
-• CMC–BOOTSTRAP: v2.14
+• CIV–MEM–CORE: v3.0
+• CMC–BOOTSTRAP: v3.0
+• VERSION–MANIFEST: v3.0
 
 MIND PROFILES:
-• CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
-• CIV–MIND–MEARSHEIMER: v2.6 (ADVISORY)
-• CIV–MIND–BARNES: v2.6 (TERTIARY CATALYST)
-• CIV–MIND–TEMPLATE: v2.5
+• CIV–MIND–MERCOURIS: v3.0 (PRIMARY)
+• CIV–MIND–MEARSHEIMER: v3.0 (ADVISORY)
+• CIV–MIND–BARNES: v3.0 (TERTIARY CATALYST)
+• CIV–MIND–TEMPLATE: v3.0
 
 TEMPLATES:
-• CIV–MEM–TEMPLATE: v2.9
-• CIV–CORE–TEMPLATE: v2.0
-• CIV–INDEX–TEMPLATE: v2.1
-• CIV–SCHOLAR–TEMPLATE: v2.10
-• CIV–SCHOLAR–PROTOCOL: v2.6
+• CIV–MEM–TEMPLATE: v3.0
+• CIV–CORE–TEMPLATE: v3.0
+• CIV–INDEX–TEMPLATE: v3.0
+• CIV–SCHOLAR–TEMPLATE: v3.0
+• CIV–SCHOLAR–PROTOCOL: v3.0
+• CIV–DOCTRINE–TEMPLATE: v3.0
+• CIV–ARC–TEMPLATE: v3.0
+• CIV–ARC–LEDGER–TEMPLATE: v3.0
+• CIV–CEO–TEMPLATE: v3.0
 
 CIVILIZATION-SPECIFIC SCHOLARS:
 • CIV–SCHOLAR–GERMANIA: v2.12
-• CIV–DOCTRINE–TEMPLATE: v2.1
-• CIV–ARC–TEMPLATE: v2.8
-• CIV–ARC–LEDGER–TEMPLATE: v1.0
-• CIV–CEO–TEMPLATE: v1.0
 
 ────────────────────────────────────────────────────────────
 III. CIVILIZATION LAYER (BY CIVILIZATION)
@@ -65,10 +66,10 @@ RUSSIA (PRIMARY DEVELOPMENT):
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–RUSSIA          │ v2.5    │ Active        │
-│ CIV–INDEX–RUSSIA            │ v2.7    │ Active        │
+│ CIV–INDEX–RUSSIA            │ v3.0    │ Active        │
 │ CIV–CORE–RUSSIA             │ v2.1    │ Active        │
-│ CIV–DOCTRINE–RUSSIA         │ v1.1    │ Active        │
-│ CIV–ARC–RUSSIA              │ v2.0    │ Active        │
+│ CIV–DOCTRINE–RUSSIA         │ v3.0    │ Active        │
+│ CIV–ARC–RUSSIA              │ v3.0    │ Active        │
 │ CIV–ARC–RUSSIA–LEDGER       │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Constraint Grammar)
@@ -80,10 +81,10 @@ ROME:
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ROME            │ v2.4    │ Active        │
 │ CIV–SCHOLAR–ROME–ARCHIVE    │ v1.0    │ Archive       │
-│ CIV–INDEX–ROME              │ v2.1    │ Active        │
+│ CIV–INDEX–ROME              │ v3.0    │ Active        │
 │ CIV–CORE–ROME               │ v2.0    │ Active        │
-│ CIV–DOCTRINE–ROME           │ v2.0    │ Active        │
-│ CIV–ARC–ROME                │ v1.9    │ Active        │
+│ CIV–DOCTRINE–ROME           │ v3.0    │ Active        │
+│ CIV–ARC–ROME                │ v3.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Constraint Grammar)
 RLLs Bound: 8+
@@ -94,9 +95,9 @@ GERMANIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–GERMANIA        │ v2.12   │ Active        │
-│ CIV–INDEX–GERMANIA          │ v2.2    │ Active        │
+│ CIV–INDEX–GERMANIA          │ v3.0    │ Active        │
 │ CIV–CORE–GERMANIA           │ v2.0    │ Active        │
-│ CIV–DOCTRINE–GERMANIA       │ v2.0    │ Active        │
+│ CIV–DOCTRINE–GERMANIA       │ v3.0    │ Active        │
 │ CIV–ARC–GERMANIA            │ v2.5    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Constraint Grammar)
@@ -107,10 +108,10 @@ FRANCIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–FRANCIA         │ v2.1    │ Active        │
-│ CIV–INDEX–FRANCIA           │ v2.0    │ Active        │
+│ CIV–INDEX–FRANCIA           │ v3.0    │ Active        │
 │ CIV–CORE–FRANCIA            │ v2.0    │ Active        │
-│ CIV–DOCTRINE–FRANCIA        │ v1.1    │ Active        │
-│ CIV–ARC–FRANCIA             │ v2.0    │ Active        │
+│ CIV–DOCTRINE–FRANCIA        │ v3.0    │ Active        │
+│ CIV–ARC–FRANCIA             │ v3.0    │ Active        │
 │ CIV–ARC–FRANCIA–LEDGER      │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Development)
@@ -120,9 +121,9 @@ ANGLIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v2.0    │ Active        │
-│ CIV–INDEX–ANGLIA            │ v2.17   │ Active        │
+│ CIV–INDEX–ANGLIA            │ v3.0    │ Active        │
 │ CIV–CORE–ANGLIA             │ v2.0    │ Active        │
-│ CIV–DOCTRINE–ANGLIA         │ v2.0    │ Active        │
+│ CIV–DOCTRINE–ANGLIA         │ v3.0    │ Active        │
 │ CIV–ARC–ANGLIA              │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -131,9 +132,9 @@ PERSIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–PERSIA              │ v2.0    │ Active        │
+│ CIV–ARC–PERSIA              │ v3.0    │ Active        │
 │ CIV–CORE–PERSIA             │ v2.0    │ Active        │
-│ CIV–INDEX–PERSIA            │ v1.2    │ Active        │
+│ CIV–INDEX–PERSIA            │ v3.0    │ Active        │
 │ CIV–SCHOLAR–PERSIA          │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -155,8 +156,8 @@ INDIA:
 ├────────────────────────────────────────────────────────┤
 │ CIV–CORE–INDIA              │ v2.0    │ Active        │
 │ CIV–SCHOLAR–INDIA           │ v2.0    │ Active        │
-│ CIV–INDEX–INDIA             │ v1.6    │ Active        │
-│ CIV–ARC–INDIA               │ v2.0    │ Active        │
+│ CIV–INDEX–INDIA             │ v3.0    │ Active        │
+│ CIV–ARC–INDIA               │ v3.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -166,7 +167,7 @@ CHINA:
 ├────────────────────────────────────────────────────────┤
 │ CIV–ARC–CHINA               │ v2.0    │ Active        │
 │ CIV–CORE–CHINA              │ v2.0    │ Active        │
-│ CIV–INDEX–CHINA             │ v2.0    │ Active        │
+│ CIV–INDEX–CHINA             │ v3.0    │ Active        │
 │ CIV–SCHOLAR–CHINA           │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -174,6 +175,27 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-02 (ALL DOCTRINE FILES → v3.0 — CORE v3.0 CONSOLIDATION):
+• CIV–DOCTRINE–ANGLIA, FRANCIA, GERMANIA, ROME, RUSSIA: v1.x/v2.x → v3.0
+• Headers: Version 3.0; Supersedes [previous]; Upgrade Type ALIGNMENT · CORE v3.0 CONSOLIDATION
+• Compatibility / Governance Authority: CIV–MEM–CORE v3.0; Derived from CIV–DOCTRINE–TEMPLATE v3.0
+• Last Update February 2026; END OF FILE v3.0
+• VERSION–MANIFEST: All civilization DOCTRINE table entries → v3.0
+
+2026-02-02 (ALL INDEX FILES → v3.0 — CORE v3.0 CONSOLIDATION):
+• CIV–INDEX–ANGLIA, CHINA, FRANCIA, GERMANIA, INDIA, ISLAM, PERSIA, ROME, RUSSIA: v1.x/v2.x → v3.0
+• Headers: Version 3.0; Supersedes [previous]; Upgrade Type ALIGNMENT · CORE v3.0 CONSOLIDATION
+• Governed by / Template: CIV–MEM–CORE v3.0 · CIV–INDEX–TEMPLATE v3.0; Last Update February 2026
+• VERSION–MANIFEST: All civilization INDEX table entries → v3.0
+
+2026-02-02 (ALL ARC FILES → v3.0 — CORE v3.0 CONSOLIDATION):
+• CIV–ARC–ANGLIA, CHINA, FRANCIA, GERMANIA, INDIA, ISLAM, PERSIA, ROME, RUSSIA: v2.x/v1.x → v3.0
+• Headers: Governed by / Compatibility → CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
+• CHINA, ISLAM, PERSIA: Section IX. VERSIONING added
+• ROME: Section X-A. CROSS-ARC CITATION FOR TSP MEMs added
+• RUSSIA: Governed by / Compatibility added (legacy A/B/C/D structure unchanged)
+• VERSION–MANIFEST: All civilization ARC table entries → v3.0
 
 2026-02-02 (OGE FIVE FIXES — AUDIT PROPAGATION):
 • cmc-oge-enforcement: example options 6–10 words
@@ -655,6 +677,26 @@ IV. VERSION HISTORY (RECENT)
   – Explicit ARC declaration format for cross-civilization sources
   – Compatibility updated to CIV–MEM–CORE v2.9
 • VERSION–MANIFEST: CIV–ARC–TEMPLATE v2.7 → v2.8
+
+2026-02-02 (FULL v3.0 — ALL GOVERNANCE & TEMPLATES):
+• CMC–BOOTSTRAP: v2.14 → v3.0 (ALIGNMENT WITH CORE v3.0)
+• VERSION–MANIFEST: v1.14 → v3.0; all bindings updated to v3.0
+• Templates → v3.0: CIV–SCHOLAR–TEMPLATE, CIV–MEM–TEMPLATE, CIV–INDEX–TEMPLATE,
+  CIV–ARC–TEMPLATE, CIV–SCHOLAR–PROTOCOL, CIV–CORE–TEMPLATE, CIV–DOCTRINE–TEMPLATE,
+  CIV–MIND–TEMPLATE, CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES,
+  CIV–ARC–LEDGER–TEMPLATE, CIV–CEO–TEMPLATE
+• Upgrade type: ALIGNMENT · CORE v3.0 CONSOLIDATION (no substantive change)
+
+2026-02-02 (CIV–MEM–CORE v3.0 — CONSOLIDATION · INTEGRATED GOVERNANCE):
+• CIV–MEM–CORE: v2.9 → v3.0 (CONSOLIDATION)
+  – New UPGRADE NOTE (v3.0): Consolidation of v2.1–v2.9 into single architectural statement
+  – Subtitle: CONSOLIDATION EDITION · INTEGRATED GOVERNANCE
+  – No new substantive governance; alignment with CMC–BOOTSTRAP cognitive structure
+  – MAJOR VERSION CONSTRAINT lifted: other docs may advance to v3.x per manifest
+• CMC–BOOTSTRAP: CIV–MEM–CORE binding updated to v3.0
+• VERSION–MANIFEST: CORE v2.9 → v3.0; MAJOR VERSION CONSTRAINT wording updated
+• Templates: CIV–SCHOLAR–TEMPLATE, CIV–MIND–*, CIV–ARC–TEMPLATE, CIV–INDEX–TEMPLATE,
+  CIV–MEM–TEMPLATE: compatibility/binding updated to CIV–MEM–CORE v3.0
 
 2026-01-31 (CIV–INDEX–TEMPLATE v2.1 — TSP REGISTRATION GUIDANCE):
 • CIV–INDEX–TEMPLATE: v2.0 → v2.1 (TSP registration guidance)
@@ -1238,6 +1280,6 @@ For session startup, declare:
 • Quick Binding: CIV–MEM–CORE v2.5 → v2.6 (corrected)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v1.14
+END OF FILE — VERSION–MANIFEST — v3.0
 ────────────────────────────────────────────────────────────
 ──────────────────────────

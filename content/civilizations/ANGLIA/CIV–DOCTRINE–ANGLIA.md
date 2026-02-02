@@ -1,4 +1,4 @@
-CIV–DOCTRINE–ANGLIA — v2.0
+CIV–DOCTRINE–ANGLIA — v3.0
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -6,10 +6,10 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: ANGLIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–ANGLIA (Explicit Acceptance Only)
-Compatibility: CIV–CORE–ANGLIA v2.0+
-Derived from: CIV–DOCTRINE–TEMPLATE v2.1
-Supersedes: CIV–DOCTRINE–ANGLIA v1.2
-Upgrade Type: TEMPLATE ALIGNMENT · MANDATORY SECTIONS ADDED
+Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–ANGLIA v2.0+
+Derived from: CIV–DOCTRINE–TEMPLATE v3.0
+Supersedes: CIV–DOCTRINE–ANGLIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Last Update: February 2026
 Word Count: ~1,550
 
@@ -336,5 +336,5 @@ This file is LOCKED.
 • Deletions are forbidden
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–ANGLIA v2.0
+END OF FILE — CIV–DOCTRINE–ANGLIA — v3.0
 ────────────────────────────────────────────────────────────

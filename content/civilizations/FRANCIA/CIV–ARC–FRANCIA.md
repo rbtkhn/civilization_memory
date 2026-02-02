@@ -1,13 +1,13 @@
-CIV–ARC–FRANCIA — v2.0
+CIV–ARC–FRANCIA — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL
-Supersedes: CIV–ARC–FRANCIA v1.9
-Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (V-A TSP Cross-ARC)
+Supersedes: CIV–ARC–FRANCIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
-Last Updated: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
+Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.9) — AUTHOR EXPANSION (SEVEN YEARS' WAR)
@@ -489,5 +489,5 @@ Future versions may add:
 • Regional specialists (Provence, Brittany, Alsace)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–FRANCIA v2.0
+END OF FILE — CIV–ARC–FRANCIA v3.0
 ────────────────────────────────────────────────────────────

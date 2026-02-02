@@ -1,19 +1,21 @@
-CIV–INDEX–FRANCIA — v2.0
+CIV–INDEX–FRANCIA — v3.0
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.0
+Version: 3.0
+Supersedes: CIV–INDEX–FRANCIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: FRANCIA
 Subject: Francia Memory Index (File Register)
 Dates: Medieval era–present
 Class: CIV–INDEX
-Last Update: January 2026
+Governed by: CIV–MEM–CORE v3.0
+Last Update: February 2026
 Total MEM–FRANCIA Files: 139
 Word Count: ~2,050
 
-Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
-Governed by: CIV–MEM–CORE v2.9
+Template Alignment: CIV–INDEX–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & GOVERNANCE (INDEX LAW)
@@ -211,5 +213,5 @@ This index is LOCKED.
 • Scholar Mode consumes this index as authoritative scope.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–FRANCIA — v2.0
+END OF FILE — CIV–INDEX–FRANCIA — v3.0
 ────────────────────────────────────────────────────────────

@@ -1,13 +1,13 @@
-CIV–ARC–ANGLIA — v2.0
+CIV–ARC–ANGLIA — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ANGLIA
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.12
-Upgrade Type: VERSION MILESTONE (v2.0)
+Version: 3.0
+Supersedes: CIV–ARC–ANGLIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: ANGLIA
-Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
+Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–ANGLIA · CIV–SCHOLAR–ANGLIA
 Last Update: February 2026
 
@@ -112,8 +112,8 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v2.0)
-• CIV–SCHOLAR–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v2.0)
+• CIV–CORE–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v3.0)
+• CIV–SCHOLAR–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v3.0)
 
 ────────────────────────────────────────────────────────────
 IX. VERSION NOTE
@@ -131,8 +131,8 @@ v1.9 — John Murray added to ARC-T-MODERN (*Alfred the Great: The Man Who Made 
 v1.10 — Walter Isaacson (b. 1952) added to ARC-T-MODERN (*Benjamin Franklin: An American Life* [2003]; *Kissinger: A Biography* [2023]; other biographical works as applicable). 2026-01-31.
 v1.11 — David McCullough (1933–2022) added to ARC-T-MODERN (*John Adams* [2001]; *1776* [2005]; *Truman* [1992]; *Mornings on Horseback* [1981]; other biographical and historical works as applicable). 2026-01-31.
 v1.12 — Template alignment: V-A Cross-ARC Citation for TSP; VI Orthogonality with ERC; VII What ARC Does Not Govern. 2026-02-02.
-v2.0 — Version milestone. 2026-02-02.
+v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. 2026-02-02.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ANGLIA — v2.0
+END OF FILE — CIV–ARC–ANGLIA — v3.0
 ────────────────────────────────────────────────────────────

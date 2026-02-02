@@ -1,15 +1,15 @@
-CIV–INDEX–CHINA — v2.0
+CIV–INDEX–CHINA — v3.0
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.0
-Supersedes: None (initial establishment)
-Upgrade Type: SYNC · TSP NOTATION
-Template Version Used: CIV–INDEX–TEMPLATE v2.1
+Version: 3.0
+Supersedes: CIV–INDEX–CHINA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Template Version Used: CIV–INDEX–TEMPLATE v3.0
 Civilization: CHINA (中华文明)
 Class: CIV–INDEX
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
 
 TOTAL REGISTERED MEM FILES: 38
@@ -132,5 +132,5 @@ XI. ACADEMIC REFERENCE CANON (ARC)
 Governs author admissibility and temporal precedence for MEM–CHINA files. See CIV–ARC–CHINA for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–CHINA — v2.0
+END OF FILE — CIV–INDEX–CHINA — v3.0
 ────────────────────────────────────────────────────────────

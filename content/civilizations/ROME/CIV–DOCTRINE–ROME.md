@@ -1,4 +1,4 @@
-CIV–DOCTRINE–ROME — v2.0
+CIV–DOCTRINE–ROME — v3.0
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -6,8 +6,11 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: ROME
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–ROME (Explicit Acceptance Only)
-Compatibility: CIV–CORE–ROME v2.x
-Last Update: January 2026
+Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–ROME v2.x
+Derived from: CIV–DOCTRINE–TEMPLATE v3.0
+Supersedes: CIV–DOCTRINE–ROME v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Last Update: February 2026
 Word Count: ~2,800
 
 ────────────────────────────────────────────────────────────
@@ -404,5 +407,5 @@ Supersedes:
 • CIV–DOCTRINE–ROME v1.0 (January 2026)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–ROME v2.0
+END OF FILE — CIV–DOCTRINE–ROME — v3.0
 ────────────────────────────────────────────────────────────

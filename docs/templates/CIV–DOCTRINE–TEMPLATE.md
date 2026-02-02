@@ -1,17 +1,17 @@
-CIV–DOCTRINE–TEMPLATE — v2.1
+CIV–DOCTRINE–TEMPLATE — v3.0
 Civilizational Strategy Codex · Doctrine Registry Template
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Version: 2.1
-Supersedes: CIV–DOCTRINE–TEMPLATE v2.0
-Upgrade Type: ADDITIVE · ALIGNMENT PATCH
+Version: 3.0
+Supersedes: CIV–DOCTRINE–TEMPLATE v2.1
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Class: CIV–DOCTRINE (Template)
 Scope: GLOBAL (All Civilizations)
-Compatibility: CIV–MEM–CORE v2.0+ · CIV–SCHOLAR–TEMPLATE v2.10 · CIV–SCHOLAR–PROTOCOL v2.2
-Governance Authority: CIV–MEM–CORE v2.0 (or higher)
+Compatibility: CIV–MEM–CORE v3.0 · CIV–SCHOLAR–TEMPLATE v3.0 · CIV–SCHOLAR–PROTOCOL v3.0
+Governance Authority: CIV–MEM–CORE v3.0
 Lock Level: TOTAL (Doctrine-Only · No Learning)
-Last Update: January 2026
+Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1) — ALIGNMENT PATCH

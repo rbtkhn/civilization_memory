@@ -1,12 +1,12 @@
-CIV–ARC–GERMANIA — v2.5
+CIV–ARC–GERMANIA — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–GERMANIA v2.4
-Upgrade Type: TEMPLATE ALIGNMENT (V-A TSP Cross-ARC; Compatibility v2.9)
+Supersedes: CIV–ARC–GERMANIA v2.5
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9 · NAMESPACE–CLARIFICATION v1.0
+Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────
@@ -277,5 +277,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v2.5
+END OF FILE — CIV–ARC–GERMANIA v3.0
 ────────────────────────────────────────────────────────────

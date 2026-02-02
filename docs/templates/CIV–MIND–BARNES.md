@@ -1,23 +1,23 @@
-CIV–MIND–BARNES — v2.6
+CIV–MIND–BARNES — v3.0
 Civilizational Memory Codex · Tertiary Catalyst Mind
 Robert Barnes Cognitive–Linguistic Signature Layer
 Constitutional North Star · Personal Liability · Institutional Defection · Mechanism Exposure
 
 Status: ACTIVE · CANONICAL · LOCKED
 Class: MIND (TERTIARY · CATALYST)
-Supersedes: CIV–MIND–BARNES v2.5
-Upgrade Type: TRANSCRIPT AUDIT REFINEMENT (Viva Frei Feb 2026 Epstein/Lemon/Luigi)
+Supersedes: CIV–MIND–BARNES v2.6
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT (OGE-INVOKED)
 Mode Availability:
 • WRITE MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
 • LEARN MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
 • IMAGINE MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
 Compatibility:
-• CIV–MIND–TEMPLATE v2.5 (REQUIRED)
-• CIV–MIND–MERCOURIS v2.6 (PRIMARY — REQUIRED)
-• CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
-• CIV–SCHOLAR–TEMPLATE v2.10 (ALIGNED)
-• CIV–SCHOLAR–PROTOCOL v2.2 (ALIGNED)
+• CIV–MIND–TEMPLATE v3.0 (REQUIRED)
+• CIV–MIND–MERCOURIS v3.0 (PRIMARY — REQUIRED)
+• CIV–MIND–MEARSHEIMER v3.0 (ADVISORY)
+• CIV–SCHOLAR–TEMPLATE v3.0 (ALIGNED)
+• CIV–SCHOLAR–PROTOCOL v3.0 (ALIGNED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 
@@ -25,7 +25,7 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.9
+• CIV–MEM–CORE v3.0
 • CIV–MIND–TEMPLATE v2.5
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY MIND)
 • CIV–SCHOLAR–PROTOCOL v2.2 (OGE INTEGRATION)
@@ -1350,5 +1350,5 @@ This is the catalyst function:
 Barnes changes how the other minds see.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–BARNES — v2.6
+END OF FILE — CIV–MIND–BARNES — v3.0
 ────────────────────────────────────────────────────────────

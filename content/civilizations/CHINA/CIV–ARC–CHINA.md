@@ -1,13 +1,13 @@
-CIV–ARC–CHINA — v2.0
+CIV–ARC–CHINA — v3.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · CHINA
 
 Status: ACTIVE · CANONICAL
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (VI Orthogonality, VII What ARC Does Not Govern)
+Version: 3.0
+Supersedes: CIV–ARC–CHINA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: CHINA
-Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
+Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–CHINA · CIV–SCHOLAR–CHINA
 Last Update: February 2026
 
@@ -106,7 +106,7 @@ Expanded discovery does not add authors to this canon without an ARC version upg
 ────────────────────────────────────────────────────────────
 V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
-Per CIV–ARC–TEMPLATE v2.8 § V-A. China TSP MEMs may cite sources from other ARCs with explicit ARC declaration.
+Per CIV–ARC–TEMPLATE v3.0 § V-A. China TSP MEMs may cite sources from other ARCs with explicit ARC declaration.
 
 Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 
@@ -132,9 +132,17 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–CHINA (ARC Reference: CIV–ARC–CHINA v2.0)
-• CIV–SCHOLAR–CHINA (ARC Reference: CIV–ARC–CHINA v2.0)
+• CIV–CORE–CHINA (ARC Reference: CIV–ARC–CHINA v3.0)
+• CIV–SCHOLAR–CHINA (ARC Reference: CIV–ARC–CHINA v3.0)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–CHINA — v2.0
+IX. VERSIONING
+────────────────────────────────────────────────────────────
+• Additive upgrades only for author lists
+• Temporal precedence rule is immutable
+• Discovery framework may be refined
+• Per CIV–ARC–TEMPLATE v3.0
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–CHINA — v3.0
 ────────────────────────────────────────────────────────────

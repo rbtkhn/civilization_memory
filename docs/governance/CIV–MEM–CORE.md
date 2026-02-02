@@ -1,17 +1,53 @@
-CIV–MEM–CORE — v2.9
+CIV–MEM–CORE — v3.0
 Civilizational Memory Codex · System Core
-THREE-LAYER ARCHITECTURE EDITION · TRANS-SOVEREIGN PATTERNS INTEGRATION
+CONSOLIDATION EDITION · INTEGRATED GOVERNANCE
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 2.9
+Version: 3.0
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.8
-Upgrade Type: GOVERNANCE EXPANSION · TRANS-SOVEREIGN PATTERNS
-Last Update: January 2026
+Supersedes: CIV–MEM–CORE v2.9
+Upgrade Type: CONSOLIDATION · INTEGRATED GOVERNANCE
+Last Update: February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — CONSOLIDATION · INTEGRATED GOVERNANCE
+────────────────────────────────────────────────────────────
+This version consolidates governance accumulated in v2.1–v2.9 into
+a single architectural statement. No new substantive rules are
+introduced; existing sections and constraints are unchanged.
+
+v3.0 introduces:
+
+CONSOLIDATION (v3.0)
+
+• Canonical presentation: CORE is now the integrated architecture
+  (TLA, SAP, CCM, TSP, Blend Law, MIND protocol, OGE/tri-frame)
+  rather than a sequence of layered add-ons.
+• Alignment: This consolidation aligns with CMC–BOOTSTRAP cognitive
+  structure (one core, many modes): MEM graph and MIND protocol
+  invariant; WRITE, LEARN, IMAGINE as interfaces to that structure.
+• Major version: v3.0 marks the authorised architectural transition;
+  other governance, template, and SCHOLAR files may advance to v3.x
+  per VERSION–MANIFEST once this upgrade is binding.
+
+Effect:
+• All governance from v2.1–v2.9 remains in force
+• No sections removed, reordered, or weakened
+• Single upgrade note documents consolidation; prior v2.x notes
+  retained for history
+
+Backward Compatibility:
+• All existing MEM files remain valid
+• All existing SCHOLAR, INDEX, CORE, and template files remain valid
+• Cascade: CMC–BOOTSTRAP, VERSION–MANIFEST, and templates update
+  binding to CIV–MEM–CORE v3.0; no migration deadline
+
+Reference: CMC–BOOTSTRAP v2.14 (Cognitive Structure); VERSION–MANIFEST
+(MAJOR VERSION CONSTRAINT)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — CROSS–CIVILIZATIONAL MISPERCEPTION (CCM)
@@ -1771,6 +1807,9 @@ XXX. CANONICAL STATUS (UPDATED)
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
+v3.0 ADDITIONS:
+• Consolidation upgrade note; no new sections.
+
 v2.9 ADDITIONS:
 • Section XXIX: Trans-Sovereign Patterns (TSP)
 
@@ -1798,5 +1837,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v2.9
+END OF FILE — CIV–MEM–CORE v3.0
 ────────────────────────────────────────────────────────────

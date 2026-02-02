@@ -1,14 +1,15 @@
-CIV–INDEX–PERSIA — v1.2
+CIV–INDEX–PERSIA — v3.0
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: CIV–INDEX–PERSIA v1.1
-Upgrade Type: SYNC · Herodotus integration + 8 new MEMs
+Version: 3.0
+Supersedes: CIV–INDEX–PERSIA v1.2
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: PERSIA
 Class: CIV–INDEX
-Template: CIV–INDEX–TEMPLATE v2.1
+Governed by: CIV–MEM–CORE v3.0
+Template: CIV–INDEX–TEMPLATE v3.0
 Last Update: February 2026
 
 MEM COUNT: 34 MEM–PERSIA files (reconciled 2026-02)
@@ -193,6 +194,6 @@ XII. CONTINUITY NOTES
 • Religious memory functions as legitimacy infrastructure, not belief alone
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–PERSIA — v1.2
+END OF FILE — CIV–INDEX–PERSIA — v3.0
 ────────────────────────────────────────────────────────────
 
