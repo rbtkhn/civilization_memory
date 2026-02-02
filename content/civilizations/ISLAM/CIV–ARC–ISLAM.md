@@ -1,19 +1,21 @@
-CIV–ARC–ISLAM — v1.3
+CIV–ARC–ISLAM — v1.4
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ISLAM
 
 Status: ACTIVE · CANONICAL
-Version: 1.3
-Supersedes: CIV–ARC–ISLAM v1.2
-Upgrade Type: ADDITIVE (Kissinger added to ARC-T-MODERN)
+Version: 1.4
+Supersedes: CIV–ARC–ISLAM v1.3
+Upgrade Type: ADDITIVE (Weatherford added to ARC-T-MODERN)
 Civilization: ISLAM
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–ISLAM · CIV–SCHOLAR–ISLAM
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
-VERSION NOTE (v1.3)
+VERSION NOTE (v1.4)
 ────────────────────────────────────────────────────────────
+v1.4 — Jack Weatherford (b. 1946) added to ARC-T-MODERN. Genghis Khan and the Making of the Modern World (2004)—Mongol conquests, destruction of Baghdad 1258, Ilkhanate, conversion to Islam; civilizational encounter perspective. For MEM–ISLAM–MONGOL–EMPIRE and related Islam–Mongol interface MEMs.
+
 v1.3 — Henry Kissinger (b. 1923) added to ARC-T-MODERN. World Order (2014)—Islamic world order as one of four historical orders; Westphalian contrast; divinely ordained domestic principles; unitary Islamic entity vs equilibrium of competing parts; Ottoman–Westphalia contrast (Mehmed's "one empire, one faith, one sovereignty"); Iran 1979, contemporary jihadism. Civilization-contrast citation for world-order, caliphate, Westphalian interface MEMs. Per ARC–DISCOVERY PROPOSAL 0002 (CIV–SCHOLAR–ISLAM XVIII.C).
 
 v1.2 — Marc David Baer (b. 1968) and Jonathan Phillips (b. 1961) added to ARC-T-MODERN. Baer: The Ottomans: Khans, Caesars, and Caliphs (2021)—European integration, conversion-as-elite-making, late-Ottoman exclusivity. Phillips: The Life and Legend of the Sultan Saladin (2019)—paradox of Western admiration, mercy, reception history. Per ARC–DISCOVERY PROPOSAL 0001 (CIV–SCHOLAR–ISLAM XVIII.C).
@@ -73,6 +75,7 @@ ARC-T-MODERN:
 • Marc David Baer (b. 1968) — The Ottomans: Khans, Caesars, and Caliphs (2021); European integration, conversion-as-elite-making, late-Ottoman exclusivity
 • Jonathan Phillips (b. 1961) — The Life and Legend of the Sultan Saladin (2019); Crusades scholarship, Saladin reception, paradox of Western admiration
 • Henry Kissinger (b. 1923) — World Order (2014); Islamic world order, Westphalian contrast, Ottoman–Europe interface; civilization-contrast for world-order MEMs
+• Jack Weatherford (b. 1946) — Genghis Khan and the Making of the Modern World (2004); "Restoring Order: Conquering Iraq in the 13th and 21st Centuries," Asia-Pacific Journal (2007); Mongol–Islam encounter, Baghdad 1258, Ilkhanate, conversion; MEM–ISLAM–MONGOL–EMPIRE and related MEMs
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 
@@ -99,9 +102,9 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 VI. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.3)
-• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.3)
+• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.4)
+• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.4)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ISLAM — v1.3
+END OF FILE — CIV–ARC–ISLAM — v1.4
 ────────────────────────────────────────────────────────────

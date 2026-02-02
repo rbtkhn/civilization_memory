@@ -19,7 +19,7 @@ Civilization Phase: PHASE I (Accumulation)
 
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by:
-• CIV–MEM–CORE v2.7 (global system law)
+• CIV–MEM–CORE v2.9 (global system law)
 • CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
 • CIV–ARC–FRANCIA v1.8 (author admissibility canon)
@@ -1668,7 +1668,7 @@ XIX. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
 ────────────────────────────────────────────────────────────
 This file is irrevocably governed by:
 
-• CIV–MEM–CORE v2.7 (global system law)
+• CIV–MEM–CORE v2.9 (global system law)
 • CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
 

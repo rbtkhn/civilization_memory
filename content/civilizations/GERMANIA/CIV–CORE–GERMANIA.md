@@ -18,7 +18,7 @@ Scholar Reference Mode: READ-ONLY / DIB-GATED
 Civilization: GERMANIA
 Class: CIV–CORE
 Conceptual Lineage: CIV–CORE–GERMANIA v1.5 ← v1.4 ← v1.3 ← v1.2 ← v1.1 ← SCE–CIV–GERMANIA v9.x
-Source Authority: CIV–MEM–CORE v2.5 · CIV–CORE–TEMPLATE v2.0 · DIB–GERMANIA Decision 0006
+Source Authority: CIV–MEM–CORE v2.9 · CIV–CORE–TEMPLATE v2.0 · DIB–GERMANIA Decision 0006
 Last Update: January 2026
 WORDCOUNT: 1173
 

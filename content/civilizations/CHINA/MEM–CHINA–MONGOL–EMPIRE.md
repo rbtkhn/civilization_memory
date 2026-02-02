@@ -1,6 +1,6 @@
 Title: MEM–CHINA–MONGOL–EMPIRE
 Status: LOCKED
-Version: 1.1
+Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: Mongol Empire (蒙古帝国)
 Dates: c. 1206–1368 (China-facing arc)
@@ -154,13 +154,39 @@ X. OPTIONAL TAGS (INDEXING)
 • EURASIAN-CONNECTIVITY  
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+"In no other country is it conceivable that a modern leader would initiate a major national undertaking by invoking strategic principles from a millennium-old event; Mao frequently did."
+
+— Kissinger on Mongol legacy in Chinese strategic memory; barbarian conquest and Sinicization; continuity through absorption. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XII. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004) (ARC–CHINA–T–MODERN):
+
+"In twenty-five years, the Mongol army subjugated more lands and people than the Romans had conquered in four hundred years. Genghis Khan, together with his sons and grandsons, conquered the most densely populated civilizations of the thirteenth century. Whether measured by the total number of people defeated, the sum of the countries annexed, or by the total area occupied, Genghis Khan conquered more than twice as much as any other man in history."
+
+"Whether in their policy of religious tolerance, devising a universal alphabet, maintaining relay stations, playing games, or printing almanacs, money, or astronomy charts, the rulers of the Mongol Empire displayed a persistent universalism. Because they had no system of their own to impose upon their subjects, they were willing to adopt and combine systems from everywhere. Without deep cultural preferences in these areas, the Mongols implemented pragmatic rather than ideological solutions."
+
+— Weatherford on empire formation, scale, succession (sons and grandsons), and multi-ethnic pragmatic integration. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XIII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《元史》 History of Yuan  
 • Mongol legal and administrative records  
 
 Secondary:
+• Henry Kissinger — On China  
+• Jack Weatherford — Genghis Khan and the Making of the Modern World  
 • Thomas Allsen, *Culture and Conquest*  
 • Morris Rossabi  
 • Michal Biran  
@@ -169,5 +195,5 @@ Secondary:
 • Nancy Steinhardt (Yuan architecture, 2023)  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–MONGOL–EMPIRE v1.1
+END OF FILE — MEM–CHINA–MONGOL–EMPIRE v1.2
 ────────────────────────────────────────────────────────────

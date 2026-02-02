@@ -1,4 +1,4 @@
-CIV–INDEX–PERSIA — v1.1
+CIV–INDEX–PERSIA — v1.2
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -193,6 +193,6 @@ XII. CONTINUITY NOTES
 • Religious memory functions as legitimacy infrastructure, not belief alone
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–PERSIA — v1.1
+END OF FILE — CIV–INDEX–PERSIA — v1.2
 ────────────────────────────────────────────────────────────
 

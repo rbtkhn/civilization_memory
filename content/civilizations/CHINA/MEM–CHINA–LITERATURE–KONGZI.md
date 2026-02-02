@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LITERATURE–KONGZI
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Domain: POLITICAL–ETHICAL LITERATURE (儒学)
 Subject: Kongzi / Confucius (孔子)
@@ -167,18 +167,31 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY TEXT & REFERENCES
+X. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011); *World Order* (Penguin Press, 2014) (ARC–CHINA–T–MODERN):
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+— Kissinger on Confucian order as civilizational grammar; hierarchy vs. Westphalian sovereignty; governance legitimacy through ritualized order. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《论语》 Analects  
 • 《礼记》 Book of Rites  
 
 Secondary:
+• Henry Kissinger — On China; World Order  
 • Benjamin Schwartz  
 • Tu Weiming  
 • Mark Edward Lewis  
 • Yuri Pines  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LITERATURE–KONGZI v1.1
+END OF FILE — MEM–CHINA–LITERATURE–KONGZI v1.2
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–DENG
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Deng Xiaoping (邓小平)
@@ -163,18 +163,31 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+— Kissinger on Deng-era reform as recalibration rather than repudiation; performance legitimacy and civilizational continuity. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Deng Xiaoping speeches and selected works  
 • CCP reform-era documents  
 
 Secondary:
+• Henry Kissinger — On China  
 • Ezra Vogel  
 • Barry Naughton  
 • Joseph Fewsmith  
 • Odd Arne Westad  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–DENG v1.1
+END OF FILE — MEM–CHINA–PRC–DENG v1.2
 ────────────────────────────────────────────────────────────

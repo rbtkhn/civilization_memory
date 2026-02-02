@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: (pending CIV–ARC–CHINA establishment)
+ARC Reference: CIV–ARC–CHINA v1.0
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–CHINA
 Last Update: February 2026
 
@@ -121,7 +121,7 @@ XIII. CONTEXT LOADING PROTOCOLS
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIII)
 
-CIV–ARC–CHINA: (pending) Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
+CIV–ARC–CHINA: v1.0. Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT
@@ -137,13 +137,13 @@ XV. INITIAL STATE
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–CHINA files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (content/civilizations/CHINA):
+Source MEMs available (CIV–INDEX–CHINA v2.0):
 • DYNASTY: MEM–CHINA–DYNASTY–XIA, MEM–CHINA–DYNASTY–SHANG, MEM–CHINA–DYNASTY–ZHOU, MEM–CHINA–DYNASTY–QIN, MEM–CHINA–DYNASTY–HAN, MEM–CHINA–DYNASTY–JIN, MEM–CHINA–DYNASTY–LIAO, MEM–CHINA–DYNASTY–SUI, MEM–CHINA–DYNASTY–TANG, MEM–CHINA–DYNASTY–SONG, MEM–CHINA–DYNASTY–YUAN, MEM–CHINA–DYNASTY–MING, MEM–CHINA–DYNASTY–QING
-• GEO: MEM–CHINA–GEO–MANCHURIA, MEM–CHINA–GEO–MONGOLIA, MEM–CHINA–GEO–TAIWAN, MEM–CHINA–GEO–TIBET, MEM–CHINA–GEO–XINJIANG
-• LIFE: MEM–CHINA–LIFE–GENGHIS–KHAN, MEM–CHINA–LIFE–KUBLAI–KHAN, MEM–CHINA–LIFE–MARCO–POLO, MEM–CHINA–LIFE–ZHENGHE
+• GEO: MEM–CHINA–GEO–MANCHURIA, MEM–CHINA–GEO–MONGOLIA, MEM–CHINA–GEO–TAIWAN, MEM–CHINA–GEO–TIBET, MEM–CHINA–GEO–XINJIANG, MEM–CHINA–SILK–ROAD
+• LIFE: MEM–CHINA–LIFE–MARCO–POLO, MEM–CHINA–LIFE–ZHENGHE
 • LITERATURE: MEM–CHINA–LITERATURE–KONGZI, MEM–CHINA–LITERATURE–LAOZI, MEM–CHINA–LITERATURE–MENGZI, MEM–CHINA–LITERATURE–SUNZI
 • REGIME: MEM–CHINA–PRC, MEM–CHINA–PRC–MAO, MEM–CHINA–PRC–DENG, MEM–CHINA–ROC
-• OTHER: MEM–CHINA–MONGOL–EMPIRE, MEM–CHINA–XIONGNU
+• OTHER: MEM–CHINA–MONGOL–EMPIRE, MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA, MEM–CHINA–MONGOL–GENGHIS–KHAN, MEM–CHINA–MONGOL–KUBLAI–KHAN, MEM–CHINA–MONGOL–QUEENS, MEM–CHINA–WAR–BOXER–REBELLION, MEM–CHINA–WAR–MONGOL–JIN, MEM–CHINA–WAR–SONG–YUAN, MEM–CHINA–XIONGNU
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)

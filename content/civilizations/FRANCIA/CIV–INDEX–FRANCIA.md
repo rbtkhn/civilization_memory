@@ -13,7 +13,7 @@ Total MEM–FRANCIA Files: 139
 Word Count: ~2,050
 
 Template Alignment: CIV–CORE–TEMPLATE v1.5 (Index-Compatible)
-Governed by: CIV–MEM–CORE v1.5 (or higher)
+Governed by: CIV–MEM–CORE v2.9
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & GOVERNANCE (INDEX LAW)

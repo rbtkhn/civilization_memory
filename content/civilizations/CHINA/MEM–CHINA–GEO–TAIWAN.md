@@ -1,6 +1,6 @@
 Title: MEM–CHINA–GEO–TAIWAN
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Taiwan / Formosa (台湾)
 Dates: Antiquity–Present
@@ -166,7 +166,19 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension is managed, not eliminated.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+X. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011); *Diplomacy* (Simon & Schuster, 1994) (ARC–CHINA–T–MODERN):
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+— Kissinger on Taiwan as contested maritime node; strategic ambiguity in US–PRC relations; island as symbol and leverage. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Qing memorials on Taiwan  
@@ -174,6 +186,7 @@ Primary:
 • ROC legal and political documents  
 
 Secondary:
+• Henry Kissinger — On China; Diplomacy  
 • Tonio Andrade  
 • Shelley Rigger  
 • Richard Bush  
@@ -181,5 +194,5 @@ Secondary:
 • Rana Mitter  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–TAIWAN v1.1
+END OF FILE — MEM–CHINA–GEO–TAIWAN v1.2
 ────────────────────────────────────────────────────────────

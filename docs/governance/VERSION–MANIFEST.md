@@ -4,7 +4,7 @@ Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-01-31
+Last Updated: 2026-02-01
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -94,7 +94,7 @@ GERMANIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–GERMANIA        │ v2.12   │ Active        │
-│ CIV–INDEX–GERMANIA          │ v2.1    │ Active        │
+│ CIV–INDEX–GERMANIA          │ v2.2    │ Active        │
 │ CIV–CORE–GERMANIA           │ v1.9    │ Active        │
 │ CIV–DOCTRINE–GERMANIA       │ v1.4    │ Active        │
 │ CIV–ARC–GERMANIA            │ v2.1    │ Active        │
@@ -107,7 +107,7 @@ FRANCIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–FRANCIA         │ v2.1    │ Active        │
-│ CIV–INDEX–FRANCIA           │ v1.7    │ Active        │
+│ CIV–INDEX–FRANCIA           │ v2.0    │ Active        │
 │ CIV–CORE–FRANCIA            │ v2.0    │ Active        │
 │ CIV–DOCTRINE–FRANCIA        │ v1.1    │ Active        │
 │ CIV–ARC–FRANCIA             │ v1.8    │ Active        │
@@ -120,10 +120,10 @@ ANGLIA:
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v2.0    │ Active        │
-│ CIV–INDEX–ANGLIA            │ v2.8    │ Active        │
+│ CIV–INDEX–ANGLIA            │ v2.17   │ Active        │
 │ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
 │ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
-│ CIV–ARC–ANGLIA              │ v1.5    │ Active        │
+│ CIV–ARC–ANGLIA              │ v1.11   │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -131,7 +131,7 @@ PERSIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–PERSIA              │ v1.1    │ Active        │
+│ CIV–ARC–PERSIA              │ v1.3    │ Active        │
 │ CIV–CORE–PERSIA             │ v2.0    │ Active        │
 │ CIV–INDEX–PERSIA            │ v1.2    │ Active        │
 │ CIV–SCHOLAR–PERSIA          │ v1.0    │ Active        │
@@ -144,7 +144,7 @@ ISLAM:
 ├────────────────────────────────────────────────────────┤
 │ CIV–ARC–ISLAM               │ v1.3    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
-│ CIV–INDEX–ISLAM             │ v2.3    │ Active        │
+│ CIV–INDEX–ISLAM             │ v3.0    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -153,8 +153,10 @@ INDIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–INDEX–INDIA             │ v1.1    │ Active        │
-│ CIV–ARC–INDIA               │ v1.1    │ Active        │
+│ CIV–CORE–INDIA              │ v2.0    │ Active        │
+│ CIV–SCHOLAR–INDIA           │ v2.0    │ Active        │
+│ CIV–INDEX–INDIA             │ v1.6    │ Active        │
+│ CIV–ARC–INDIA               │ v1.2    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -162,7 +164,9 @@ CHINA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
+│ CIV–ARC–CHINA               │ v1.0    │ Active        │
 │ CIV–CORE–CHINA              │ v2.0    │ Active        │
+│ CIV–INDEX–CHINA             │ v2.0    │ Active        │
 │ CIV–SCHOLAR–CHINA           │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
@@ -170,6 +174,27 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-01 (AUDIT — GOVERNANCE & TEMPLATE ALIGNMENT FULL SCAN):
+• AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT–2026–02–01: Full scan; alignment fixes applied
+• CIV–MEM–CORE refs: ANGLIA CORE, FRANCIA CORE/SCHOLAR/INDEX, GERMANIA CORE/SCHOLAR → v2.9
+• Footers: CIV–INDEX–ISLAM v2.4→v3.0; CIV–INDEX–PERSIA v1.1→v1.2; CIV–INDEX–ANGLIA v2.16→v2.17; CIV–ARC–PERSIA v1.2→v1.3
+• Internal refs: FRANCIA CORE § XXI (INDEX v2.0, 139 files); SCHOLAR–ISLAM/INDIA Source MEMs (INDEX v3.0/v1.6); CIV–INDEX–GERMANIA template v2.1, SCHOLAR v2.10
+• CIV–INDEX–INDIA: GOVERNANAD→GOVERNANCE (§ I)
+• VERSION–MANIFEST: FRANCIA INDEX v2.0; ANGLIA INDEX v2.17, ARC v1.11; INDIA CORE v2.0, SCHOLAR v2.0, INDEX v1.6; GERMANIA INDEX v2.2; PERSIA ARC v1.3; ISLAM INDEX v3.0
+
+2026-02-01 (CIV–INDEX–CHINA v2.0 — SYNC & INITIAL ESTABLISHMENT):
+• CIV–INDEX–CHINA v2.0: Initial establishment per CIV–INDEX–TEMPLATE v2.1; synced with all 38 MEM–CHINA files
+• Sections: III Persons & Figures (4); IV Dynasties & Regimes (17); V Literature & Philosophy (4); VI Institutions (4); VII Wars (3); VIII Geography (6)
+• VERSION–MANIFEST: CHINA table — CIV–INDEX–CHINA v2.0 added
+
+2026-02-01 (CIV–ARC–CHINA v1.0 — INITIAL ESTABLISHMENT):
+• CIV–ARC–CHINA v1.0: Initial establishment per CIV–ARC–TEMPLATE v2.8
+• ARC-T-ANCIENT: Confucius, Laozi, Sunzi, Sima Qian, Ban Gu, etc.
+• ARC-T-MEDIEVAL: Sima Guang, Marco Polo, Ibn Battuta
+• ARC-T-EARLY-MOD: Matteo Ricci, James Legge, Du Halde
+• ARC-T-MODERN: Henry Kissinger (On China, Diplomacy, World Order); Fairbank; Spence; Pomeranz; Needham; Vogel; Dikötter; et al.
+• CIV–CORE–CHINA, CIV–SCHOLAR–CHINA: ARC Reference added
 
 2026-02-01 (CIV–SCHOLAR–CHINA v1.0 → v2.0 — AUDIT ALIGNMENT):
 • CIV–SCHOLAR–CHINA: v1.0 → v2.0 (audit alignment, version bump)
@@ -271,6 +296,28 @@ IV. VERSION HISTORY (RECENT)
 • MEM–INDIA–DYNASTY–MAURYA v2.0 → v2.1: inverse defection pattern (unity resists Plassey-type entry); new § VIII MEM CONNECTIONS (WAR–ALEXANDER, WAR–CLIVE); § VIII EVIDENCE → IX, § IX BIBLIOGRAPHY → X
 • Source: CIV–SCHOLAR–INDIA SYNTHESIS 0003, RLL–INDIA–0002; RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY.md; REPORT–SCHOLAR–INDIA–LEARN–SESSION–2026–02–01.md
 
+2026-02-01 (INDIA MEM — ISLAM, WAR–TIMUR, WAR–GHAZNAVID NEW; CIV–INDEX–INDIA UPDATE):
+• MEM–INDIA–ISLAM v1.0: NEW — India–Islam civilizational interface (c. 712–1947+); transmission, Sultanate, Mughal absorption, Partition rupture; MEM CONNECTIONS (DELHI–SULTANATE, MUGHAL, PARTITION, GANGES, INDUS, WAR–GHAZNAVID, WAR–TIMUR, MONGOL–EMPIRE, MEM–ISLAM–BAGHDAD, GANDHI)
+• MEM–INDIA–WAR–TIMUR v1.0: NEW — Timur's sack of Delhi (1398); shock without conquest; Sultanate survived but weakened; Weatherford attribution; MEM CONNECTIONS (MONGOL–EMPIRE, DELHI–SULTANATE, MUGHAL, WAR–ALEXANDER, WAR–GHAZNAVID, MEM–PERSIA–MONGOL–EMPIRE, GANGES, INDUS, ISLAM)
+• MEM–INDIA–WAR–GHAZNAVID v1.0: NEW — Ghaznavid campaigns in India (c. 1000–1027); force at distance / invader limit; return from Somnath (1026), only Punjab held; Al-Biruni, defection theory; MEM CONNECTIONS (WAR–ALEXANDER, MONGOL–EMPIRE, MONGOL–CHAGATAI, WAR–TIMUR, INDUS, GANGES, ISLAM, defection theory)
+• CIV–INDEX–INDIA v1.5 → v1.6: MEM–INDIA–ISLAM.md added to new § VII Civilizational interfaces; MEM–INDIA–WAR–TIMUR.md, MEM–INDIA–WAR–GHAZNAVID.md added to § VI War & external shocks; total MEM count 17 → 20
+• MEM–INDIA–MONGOL–EMPIRE, MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI, MEM–INDIA–DYNASTY–MUGHAL: MEM CONNECTIONS updated to link MEM–INDIA–ISLAM, MEM–INDIA–WAR–TIMUR, MEM–INDIA–WAR–GHAZNAVID as appropriate
+
+2026-02-01 (INDIA MEM — DELHI–SULTANATE NEW; CIV–INDEX–INDIA UPDATE):
+• MEM–INDIA–DELHI–SULTANATE v1.0: NEW — Delhi Sultanate (c. 1206–1526); first sustained Islamic sultanate in North India; deflected Chagatai, endured Timur 1398; fell to Mughals at Panipat (defender elites); Ibn Battuta, Amir Khusrau, Babur (ARC–INDIA v1.2); MEM CONNECTIONS (MUGHAL, MONGOL–EMPIRE, MONGOL–CHAGATAI, GANGES, INDUS, WAR–CLIVE, defection theory)
+• CIV–INDEX–INDIA v1.4 → v1.5: MEM–INDIA–DELHI–SULTANATE.md added to § II Dynasties & state formation; total MEM count 16 → 17
+• MEM–INDIA–MONGOL–EMPIRE, MEM–INDIA–MONGOL–CHAGATAI, MEM–INDIA–DYNASTY–MUGHAL: MEM CONNECTIONS updated to link MEM–INDIA–DELHI–SULTANATE
+
+2026-02-01 (INDIA MEM — MONGOL–CHAGATAI NEW; CIV–INDEX–INDIA UPDATE):
+• MEM–INDIA–MONGOL–CHAGATAI v1.0: NEW — Chagatai Khanate / Delhi Sultanate interface (c. 1220s–1350s); deflection (Chagatai raids, no conquest); northwest corridor; Weatherford attribution; MEM CONNECTIONS (MONGOL–EMPIRE, INDUS, GANGES, WAR–ALEXANDER, MUGHAL, MEM–PERSIA–MONGOL–EMPIRE, SILK–ROAD)
+• CIV–INDEX–INDIA v1.3 → v1.4: MEM–INDIA–MONGOL–CHAGATAI.md added to § VI War & external shocks; total MEM count 15 → 16
+• MEM–INDIA–MONGOL–EMPIRE: MEM CONNECTIONS updated to link MEM–INDIA–MONGOL–CHAGATAI
+
+2026-02-01 (INDIA MEM — MONGOL–EMPIRE NEW; CIV–INDEX–INDIA UPDATE):
+• MEM–INDIA–MONGOL–EMPIRE v1.0: NEW — India’s interaction with the Mongol Empire (c. 1221–1526); deflection (Delhi Sultanate vs. Mongol raids; Timur 1398); absorption (Mughal as Timurid–Mongol lineage); Weatherford, Babur (ARC–INDIA v1.2); MEM CONNECTIONS (MUGHAL, GANGES, INDUS, WAR–CLIVE, WAR–ALEXANDER, MEM–PERSIA–MONGOL–EMPIRE, defection theory)
+• CIV–INDEX–INDIA v1.2 → v1.3: MEM–INDIA–MONGOL–EMPIRE.md added to § VI War & external shocks; total MEM count 14 → 15
+• MEM–INDIA–DYNASTY–MUGHAL: MEM CONNECTIONS updated to link MEM–INDIA–MONGOL–EMPIRE
+
 2026-02-01 (INDIA MEM — WAR–1857 NEW; CIV–INDEX–INDIA UPDATE):
 • MEM–INDIA–WAR–1857 v1.0: NEW — Rebellion of 1857 (Sepoy Mutiny); invader’s-proxy-defection type; mechanism failure (sepoy army defects); jurisdiction shift Company→Crown; post-1857 reorganization; MEM CONNECTIONS (BRITISH–EMPIRE, WAR–CLIVE, WAR–ALEXANDER, defection theory)
 • CIV–INDEX–INDIA v1.1 → v1.2: MEM–INDIA–WAR–1857.md added to § VI War & external shocks; total MEM count 13 → 14
@@ -284,6 +331,11 @@ IV. VERSION HISTORY (RECENT)
 • MEM–INDIA–GANDHI v2.0 → v2.1: Ferguson *Empire* (nationalist resistance, costs of imperial control); ARC Reference v1.1
 • MEM–INDIA–NEHRU v2.0 → v2.1: Ferguson *Empire* (post-imperial institutional inheritance, procedural continuity); ARC Reference v1.1
 • Candidate passage from MEM–ANGLIA–INDIA; summary-only note: verify against published *Empire* (2003) for verbatim
+
+2026-02-01 (INDIA ARC — JACK WEATHERFORD ADDED TO ARC-T-MODERN):
+• CIV–ARC–INDIA: v1.1 → v1.2 (Jack Weatherford added to ARC-T-MODERN)
+• Weatherford *Genghis Khan and the Making of the Modern World* (2004): Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface
+• CIV–CORE–INDIA, CIV–SCHOLAR–INDIA: ARC Reference updated to CIV–ARC–INDIA v1.2
 
 2026-02-01 (INDIA ARC — FERGUSON ADDED TO ARC-T-MODERN):
 • CIV–ARC–INDIA: v1.0 → v1.1 (Niall Ferguson added to ARC-T-MODERN)

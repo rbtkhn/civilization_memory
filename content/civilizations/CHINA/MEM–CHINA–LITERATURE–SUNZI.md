@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LITERATURE–SUNZI
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Domain: STRATEGIC LITERATURE (兵学)
 Subject: Sunzi / Sun Tzu (孙子)
@@ -170,17 +170,30 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY TEXT & REFERENCES
+X. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+"In no other country is it conceivable that a modern leader would initiate a major national undertaking by invoking strategic principles from a millennium-old event; Mao frequently did."
+
+— Kissinger on Sunzi as enduring strategic grammar; Chinese vs. Western strategic culture; classical principles in modern statecraft. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《孙子兵法》 (received text and bamboo slip variants)
 
 Secondary:
+• Henry Kissinger — On China; Diplomacy  
 • Ralph Sawyer  
 • Mark Edward Lewis  
 • Christopher Coker  
 • Victor Davis Hanson (comparative contrast)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LITERATURE–SUNZI v1.1
+END OF FILE — MEM–CHINA–LITERATURE–SUNZI v1.2
 ────────────────────────────────────────────────────────────

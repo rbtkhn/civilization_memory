@@ -1,6 +1,6 @@
-MEM–CHINA–LIFE–KUBLAI–KHAN
+MEM–CHINA–MONGOL–KUBLAI–KHAN
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Kublai Khan (Khubilai Khan, variant; 忽必烈)
 Dates: 1215–1294 AD
@@ -50,7 +50,7 @@ Tibetan Buddhism functioned as a **supra-ethnic bridge**:
 This bypassed—but did not erase—Chinese literati resistance.
 
 Hybrid legitimacy remained unstable:
-> “杂而不化。”
+> "杂而不化。"
 (Mixed, but not fused.)
 
 ────────────────────────────────────────────────────────────
@@ -79,7 +79,7 @@ Key features:
 • Heavy reliance on non-Confucian intermediaries
 
 Chinese governance operated, but ownership was absent:
-> “有其名而失其实。”
+> "有其名而失其实。"
 (It had the name, but not the substance.)
 
 ────────────────────────────────────────────────────────────
@@ -98,7 +98,7 @@ Fiscal stressors:
 • Currency debasement and inflation
 
 Economic legitimacy eroded through overextension:
-> “钞多而民贫。”
+> "钞多而民贫。"
 (More currency, poorer people.)
 
 ────────────────────────────────────────────────────────────
@@ -122,7 +122,7 @@ Outcome:
 ────────────────────────────────────────────────────────────
 VIII. FAILURE MODES & LIMITS
 ────────────────────────────────────────────────────────────
-Kublai’s project failed structurally, not personally.
+Kublai's project failed structurally, not personally.
 
 Limits:
 • Conquest legitimacy does not transfer cleanly
@@ -142,7 +142,21 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY & SECONDARY SOURCES
+X. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004) (ARC–CHINA–T–MODERN):
+
+"Despite the initial reliance of commerce on routes created through military conquest, it soon became obvious that whereas armies moved quickest by horse across land, massive quantities of goods moved best by water. Mongols expanded and lengthened the Grand Canal that already connected the Yellow and Yangtze Rivers to transport grain and other agricultural products farther and more efficiently into the northern districts."
+
+"Khubilai Khan promoted the building of ever larger seagoing junks to carry heavy loads of cargo and ports to handle them."
+
+"The traditional Chinese kingdoms operated under centuries of constraints on commerce. The building of walls on their borders had been a way of limiting such trade and literally keeping the wealth of the nation intact and inside the walls. For such administrators, giving up trade goods was the same as paying tribute to their neighbors, and they sought to avoid it as much as they could. The Mongols directly attacked the Chinese cultural prejudice that ranked merchants as merely a step above robbers by officially elevating their status ahead of all religions and professions, second only to government officials. In a further degradation of Confucian scholars, the Mongols reduced them from the highest level of traditional Chinese society to the ninth level, just below prostitutes but above beggars."
+
+— Weatherford on Dadu-era infrastructure, maritime expansion, and Yuan administrative reordering; hybrid legitimacy and Confucian displacement. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《元史》
@@ -159,5 +173,5 @@ Secondary:
 • Jack Weatherford
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–KUBLAI–KHAN
+END OF FILE — MEM–CHINA–MONGOL–KUBLAI–KHAN
 ────────────────────────────────────────────────────────────

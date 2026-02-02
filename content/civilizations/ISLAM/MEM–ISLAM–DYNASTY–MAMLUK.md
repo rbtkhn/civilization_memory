@@ -48,6 +48,8 @@ Key actions:
 • Decisive victory over Mongols at Ayn Jalut (1260)
 • Restoration of Abbasid caliphate in Cairo (symbolic)
 
+Jack Weatherford, *Genghis Khan and the Making of the Modern World* (2004) (ARC–ISLAM–T–MODERN): Mongols sold Crimean captives to Egypt; the Sultan "used them in his slave army—eventually [they] defeated the Mongols at Ain Jalut." The Mamluk institution absorbed those the Mongols displaced and turned them against the conquerors.
+
 The Mamluks rule in the caliph’s shadow.
 
 They protect legitimacy rather than embody it.

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–QING
 Status: LOCKED
-Version: 1.0
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Qing Dynasty (清)
 Dates: 1644–1912 AD
@@ -153,7 +153,19 @@ X. CONTINUITY INSIGHTS (RAW)
 Tensions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+— Kissinger on Qing as final imperial synthesis; tribute system and collision with West; century of humiliation as lasting strategic frame. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《清史稿》 Draft History of Qing  
@@ -161,11 +173,12 @@ Primary:
 • Banner and fiscal records  
 
 Secondary:
+• Henry Kissinger — On China  
 • 钱穆  
 • 赵冈  
 • Mark Elliott  
 • Philip Kuhn  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–DYNASTY–QING
+END OF FILE — MEM–CHINA–DYNASTY–QING v1.1
 ────────────────────────────────────────────────────────────

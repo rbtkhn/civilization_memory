@@ -14,7 +14,7 @@ Last Update: January 2026
 Total Registered Files: 126 MEM–GERMANIA objects
 WORDCOUNT: ~1,250
 
-Derived from: CIV–INDEX–TEMPLATE v2.0
+Derived from: CIV–INDEX–TEMPLATE v2.1
 Governance Parity: CORE–GERMANIA v1.9 MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
@@ -93,9 +93,9 @@ II. CANONICAL GOVERNANCE FILES
   Lock Level: STRUCTURAL
   Template Version Used: CIV–CORE–TEMPLATE v2.0
 
-• CIV–SCHOLAR–GERMANIA — v2.7
+• CIV–SCHOLAR–GERMANIA — v2.12
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
-  Template Version Used: CIV–SCHOLAR–TEMPLATE v2.5
+  Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 
 • CIV–DOCTRINE–GERMANIA — v1.4
   Status: ACTIVE · CANONICAL · LOCKED

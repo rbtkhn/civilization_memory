@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–MAO
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Mao Zedong (毛泽东)
@@ -167,7 +167,19 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
+
+"Communism, advertised as bringing a classless society, tended to breed a privileged class of feudal proportions."
+
+"In no other country is it conceivable that a modern leader would initiate a major national undertaking by invoking strategic principles from a millennium-old event; Mao frequently did."
+
+— Kissinger on Maoist legitimacy, ideological rupture, and Mao's use of classical strategic thought; Nixon opening and Zhou Enlai diplomacy. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《毛泽东选集》 Selected Works of Mao  

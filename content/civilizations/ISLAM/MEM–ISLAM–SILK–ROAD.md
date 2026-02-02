@@ -104,6 +104,8 @@ VI. MONGOL DISRUPTION & RECOVERY
 ────────────────────────────────────────────────────────────
 The Mongol irruption (13th C) devastates Silk Road nodes.
 
+Jack Weatherford, *Genghis Khan and the Making of the Modern World* (2004) (ARC–ISLAM–T–MODERN): "In nearly every country touched by the Mongols, the initial destruction and shock of conquest by an unknown tribe yielded quickly to an unprecedented rise in cultural communication, expanded trade, and improved civilization."
+
 Consequences:
 • Sack of Bukhara, Samarkand, Merv, Nishapur
 • Temporary severance of east–west flow

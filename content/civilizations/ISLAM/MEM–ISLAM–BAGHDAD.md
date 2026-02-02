@@ -60,9 +60,11 @@ Baghdad falls in 1258 by **physical destruction**—the Mongol sack.
 The Abbasid caliph is executed; the caliphate becomes ceremonial,
 relocates to Cairo.
 
-Bernard Lewis, *What Went Wrong?* (2002) (ARC–ISLAM–T–MODERN):
+Jack Weatherford, *Genghis Khan and the Making of the Modern World* (2004) (ARC–ISLAM–T–MODERN): "The Mongol army had accomplished in a mere two years what the European Crusaders from the West and the Seljuk Turks from the East had failed to do in two centuries of sustained effort. They had conquered Baghdad, the heart of the Arab world."
 
-"Compared with Christendom, its rival for more than a millennium, the world of Islam had become poor, weak, and ignorant."
+Weatherford, "Restoring Order," *Asia-Pacific Journal* (2007): "The legal justification for the Mongol invasion of Iraq derived from the reluctance of the caliph of Baghdad to control the Shiite Cult of the Assassins, whom the Mongols accused of attempting to kill their khan." "The Mongols also immediately executed the caliph and his sons on charges that they spent too much money on their palaces and not enough defending their nation." "In Baghdad, Hulegu installed a government under Ata Malik Juvaini, a devout Persian Muslim, who governed for most of the next 20 years and whose writings survive as some of the great scholarly works of the Muslim world."
+
+Bernard Lewis, *What Went Wrong?* (2002) (ARC–ISLAM–T–MODERN): "Compared with Christendom, its rival for more than a millennium, the world of Islam had become poor, weak, and ignorant."
 
 Encoding: civilizational rupture. No continuity-through-transition here—
 annihilation precedes transfer. External conquest; no internal balance
@@ -100,7 +102,7 @@ V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Dependency:
 • MEM–ISLAM–DYNASTY–ABBASID — Baghdad as capital; civilizational consolidation
-• MEM–ISLAM–MONGOL–EMPIRE — 1258 destruction; caliphate relocation
+• MEM–ISLAM–MONGOL–EMPIRE; MEM–ISLAM–MONGOL–HULEGU — 1258 destruction; caliphate relocation
 • MEM–ISLAM–DYNASTY–MAMLUK — Cairo as successor; symbolic caliphate
 • MEM–ISLAM–SILK–ROAD — Baghdad, Merv, Nishapur as nodes
 
@@ -121,6 +123,8 @@ VII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 Cited:
 • Bernard Lewis, *What Went Wrong?* (2002) (ARC–ISLAM–T–MODERN)
+• Jack Weatherford, *Genghis Khan and the Making of the Modern World* (2004) (ARC–ISLAM–T–MODERN)
+• Jack Weatherford, "Restoring Order: Conquering Iraq in the 13th and 21st Centuries," *Asia-Pacific Journal* (2007)
 
 Unused (available): Hugh Kennedy, *When Baghdad Ruled the Muslim World*; Marshall Hodgson, *The Venture of Islam*
 

@@ -1,6 +1,6 @@
-MEM–CHINA–LIFE–GENGHIS–KHAN
+MEM–CHINA–MONGOL–GENGHIS–KHAN
 Status: LOCKED
-Version: 1.1
+Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: Genghis Khan (Chinggis Khan, scholarly variant; 成吉思汗)
 Dates: c. 1162–1227 AD
@@ -49,7 +49,7 @@ Authority rested on:
 • Fear as stabilizer
 
 Rule was kinetic, not ritualized:
-> “如风如火。”
+> "如风如火。"
 (Like wind, like fire.)
 
 No appeal was made to Heaven, Mandate, or Confucian moral language.
@@ -65,7 +65,7 @@ His campaigns collapsed frontier systems through:
 Northern Chinese states failed structurally, not tactically.
 
 Battlefield logic:
-> “射如飞电。”
+> "射如飞电。"
 (Arrows like flying lightning.)
 
 Defense failed before adaptation could occur.
@@ -130,7 +130,27 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY & SECONDARY SOURCES
+X. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004) (ARC–CHINA–T–MODERN):
+
+"The first key to leadership was self-control, particularly the mastery of pride, which was something more difficult, he explained, to subdue than a wild lion and anger, which was more difficult to defeat than the greatest wrestler. He warned them that 'if you can't swallow your pride, you can't lead.'"
+
+"Victory did not come to the one who played by the rules; it came to the one who made the rules and imposed them on his enemy."
+
+"In contrast to almost every major army in history, the Mongols traveled lightly, without a supply train. By waiting until the coldest months to make the desert crossing, men and horses required less water. Dew also formed during this season, thereby stimulating the growth of some grass that provided grazing for horses and attracted game that the men eagerly hunted for their own sustenance."
+
+"When informed that it was the house of God, not the sultan, he said nothing. For the Mongols, the one God was the Eternal Blue Sky that stretched from horizon to horizon in all four directions. God presided over the whole earth; he could not be cooped up in a house of stone like a prisoner or a caged animal, nor, as the city people claimed, could his words be captured and confined inside the covers of a book. In his own experience, Genghis Khan had often felt the presence and heard the voice of God speaking directly to him in the vast open air of the mountains in his homeland, and by following those words, he had become the conqueror of great cities and huge nations."
+
+"As the Mongol warriors withdrew from the cities of the Jurched, they had one final punishment to inflict upon the land where they had already driven out the people and burned their villages. Genghis Khan wanted to leave a large open land with ample pastures should his army need to return. The plowed fields, stone walls, and deep ditches had slowed the Mongol horses and hindered their ability to move across the landscape in any direction they wished. … When the Mongols left from their Jurched campaign, they churned up the land behind them by having their horses trample the farmland with their hooves and prepare it to return to open pasture. They wanted to ensure that the peasants never returned to their villages and fields. In this way, Inner Mongolia remained a grazing land, and the Mongols created a large buffer zone of pastures and forests between the tribal lands and the fields of the sedentary farmers."
+
+"For the Mongols, the lifestyle of the peasant seemed incomprehensible. The Jurched territory was filled with so many people and yet so few animals; this was a stark contrast to Mongolia, where there were normally five to ten animals for each human. To the Mongols, the farmers' fields were just grasslands, as were the gardens, and the peasants were like grazing animals rather than real humans who ate meat. The Mongols referred to these grass-eating people with the same terminology that they used for cows and goats. The masses of peasants were just so many herds, and when the soldiers went out to round up their people or to drive them away, they did so with the same terminology, precision, and emotion used in rounding up yaks."
+
+— Weatherford on formation, loyalty, and tempo dominance; leadership as self-control; mobility as force multiplier; governance by absence and steppe cosmology (Eternal Blue Sky; trample farmland, reversion to pasture); steppe/sedentary encoding (grass-eating people, herds, yaks). ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《元史》 (retrospective accounts)
@@ -145,5 +165,5 @@ Secondary:
 • Paleoclimate: Hessl, Pederson, Di Cosmo (2014–2025)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GENGHIS–KHAN
+END OF FILE — MEM–CHINA–MONGOL–GENGHIS–KHAN
 ────────────────────────────────────────────────────────────

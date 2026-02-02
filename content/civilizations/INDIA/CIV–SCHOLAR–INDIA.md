@@ -14,7 +14,7 @@ Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–INDIA
-ARC Reference: CIV–ARC–INDIA v1.1
+ARC Reference: CIV–ARC–INDIA v1.2
 Last Update: February 2026
 
 Upgrade Type: INITIAL ESTABLISHMENT
@@ -121,7 +121,7 @@ XIII. CONTEXT LOADING PROTOCOLS
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIII)
 
-CIV–ARC–INDIA v1.1: Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–INDIA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
+CIV–ARC–INDIA v1.2: Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–INDIA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT
@@ -137,7 +137,7 @@ XV. INITIAL STATE
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–INDIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (CIV–INDEX–INDIA v1.1):
+Source MEMs available (CIV–INDEX–INDIA v1.6):
 
 **II. Dynasties & state formation:** MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA, MEM–INDIA–DYNASTY–MUGHAL
 
@@ -193,11 +193,11 @@ Source:
 Ingest Type:
 • Research — Verbatim references for India MEM enhancement
 Primary Belief Extracted:
-• Durant supplies verbatim passages (≥25 words) usable for ARC-T-MODERN in India MEMs. CIV–ARC–INDIA v1.1: Durant and Niall Ferguson in ARC-T-MODERN (Our Oriental Heritage, The Case for India; Ferguson *Empire*). Verbatim refs: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; Ferguson British India: docs/governance/RESEARCH–FERGUSON–INDIA–EMPIRE–REFERENCES.md.
+• Durant supplies verbatim passages (≥25 words) usable for ARC-T-MODERN in India MEMs. CIV–ARC–INDIA v1.2: Durant, Ferguson, Weatherford in ARC-T-MODERN (Our Oriental Heritage, The Case for India; Ferguson *Empire*). Verbatim refs: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; Ferguson British India: docs/governance/RESEARCH–FERGUSON–INDIA–EMPIRE–REFERENCES.md.
 Belief Status:
 • UNFROZEN
 Note:
-• CIV–ARC–INDIA v1.1: Durant and Ferguson in ARC-T-MODERN. Canonical use in India MEMs permitted per ARC.
+• CIV–ARC–INDIA v1.2: Durant, Ferguson, Weatherford in ARC-T-MODERN. Canonical use in India MEMs permitted per ARC.
 
 ENTRY 0005
 Source:

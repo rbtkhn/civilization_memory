@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: People’s Republic of China (中华人民共和国)
 Dates: 1949–Present
@@ -176,7 +176,19 @@ X. CONTINUITY INSIGHTS (RAW)
 Power is preserved through adaptation, not rigidity.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+— Kissinger on PRC as civilizational reconstitution; continuity vs. rupture; strategic culture and performance legitimacy. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Mao Zedong writings  
@@ -185,6 +197,7 @@ Primary:
 • Xi Jinping reports  
 
 Secondary:
+• Henry Kissinger — On China; Diplomacy; World Order  
 • Elizabeth Perry  
 • Sebastian Heilmann  
 • David Shambaugh  
@@ -192,5 +205,5 @@ Secondary:
 • 汪晖  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC v1.1
+END OF FILE — MEM–CHINA–PRC v1.2
 ────────────────────────────────────────────────────────────

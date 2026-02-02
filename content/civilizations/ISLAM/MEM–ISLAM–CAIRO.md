@@ -56,9 +56,7 @@ Saladin abolishes the Fatimid caliphate (1171). Sunni alignment is
 restored. Cairo transitions without destruction.
 
 After Baghdad's fall (1258), the Mamluks restore the Abbasid caliphate
-in Cairo (1261)—**symbolic**, not temporal. The Cairo–Damascus axis
-becomes the sacred-zone defense core: Mecca, Medina, pilgrimage routes.
-The Nile and Levant replace Mesopotamia as the Islamic heartland.
+in Cairo (1261)—**symbolic**, not temporal. Jack Weatherford, *Genghis Khan and the Making of the Modern World* (2004) (ARC–ISLAM–T–MODERN): Mongol conquest brought "destruction and shock" followed by "unprecedented rise in cultural communication, expanded trade, and improved civilization" in many conquered lands—yet Baghdad lost the caliphate to Cairo; no institutional continuity in Mesopotamia. The Cairo–Damascus axis becomes the sacred-zone defense core: Mecca, Medina, pilgrimage routes. The Nile and Levant replace Mesopotamia as the Islamic heartland.
 
 Cairo falls by **institutional transfer** (1517)—the caliphate moves to
 Istanbul. The city is never conquered; power passes through Ottoman

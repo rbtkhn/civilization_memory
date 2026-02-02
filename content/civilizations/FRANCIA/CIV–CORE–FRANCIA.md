@@ -20,7 +20,7 @@ Civilization Phase: PHASE II (Development)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 Governed by:
-• CIV–MEM–CORE v2.7 (global system law)
+• CIV–MEM–CORE v2.9 (global system law)
 • CIV–CORE–TEMPLATE v2.0 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (interaction layer)
 • CIV–ARC–FRANCIA v1.7 (author admissibility canon)
@@ -475,7 +475,7 @@ XXI. MEM AUTHORING GOVERNANCE CLAUSE
 ────────────────────────────────────────────────────────────
 
 MEM scope and author admissibility:
-• Canonical MEM register: CIV–INDEX–FRANCIA v1.7 (115 MEMs); scope binding
+• Canonical MEM register: CIV–INDEX–FRANCIA v2.0 (139 files); scope binding
 • Permitted sources: CIV–ARC–FRANCIA v1.8 (author lists, temporal precedence)
 
 All MEM–FRANCIA files MUST comply with:

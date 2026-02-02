@@ -20,7 +20,7 @@ Word Count: ~13,500
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
-• CIV–MEM–CORE v2.6
+• CIV–MEM–CORE v2.9
 • CIV–ARC–GERMANIA v1.1 (Pinned)
 
 ────────────────────────────────────────────────────────────

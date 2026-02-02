@@ -1,135 +1,121 @@
-CIV–INDEX–ISLAM — v3.0
+CIV–INDEX–CHINA — v2.0
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–INDEX–ISLAM v2.9
-Upgrade Type: ADDITIVE (Hulegu, Ilkhanate, Assassins, Ayn Jalut, Khwarazm)
+Version: 2.0
+Supersedes: None (initial establishment)
+Upgrade Type: SYNC · TSP NOTATION
 Template Version Used: CIV–INDEX–TEMPLATE v2.1
-Civilization: ISLAM
+Civilization: CHINA (中华文明)
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v2.9
 Last Update: February 2026
 
-TOTAL REGISTERED MEM FILES: 53
+TOTAL REGISTERED MEM FILES: 38
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
 ────────────────────────────────────────────────────────────
 
-This file is the authoritative index of all MEM–ISLAM files and canonical governance files for the Islam civilization.
+This file is the authoritative index of all MEM–CHINA files and canonical governance files for the China civilization.
 
 INDEX ROLE:
-• Canonical registry for Islam memory objects and governance files
+• Canonical registry for China memory objects and governance files
 • Scholar-mode discovery spine
 • Naming and registration authority
 
 No interpretation, synthesis, or doctrine is permitted here.
 Entries are registrational only.
 
+Derived from CIV–INDEX–TEMPLATE v2.1
+
 ────────────────────────────────────────────────────────────
 II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 
-• CIV–CORE–ISLAM — v2.0 (Sacred-Zone · Exit-Primacy · Demographic–Chokepoint)
-• CIV–SCHOLAR–ISLAM — v1.0 (Phase I Accumulation)
-• CIV–ARC–ISLAM — v1.3 (Author Admissibility & Temporal Precedence)
+• CIV–CORE–CHINA — v2.0
+• CIV–SCHOLAR–CHINA — v2.0 (Phase I Accumulation)
+• CIV–ARC–CHINA — v1.0 (Author Admissibility & Temporal Precedence)
 
-CIV–DOCTRINE–ISLAM: Not present.
+CIV–DOCTRINE–CHINA: Not present.
 
 ────────────────────────────────────────────────────────────
 III. REGISTERED MEM FILES — PERSONS & FIGURES
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–MOHAMMAD.md
-• MEM–ISLAM–SALADIN.md
-• MEM–ISLAM–MONGOL–HULEGU.md
+• MEM–CHINA–LIFE–MARCO–POLO.md
+• MEM–CHINA–LIFE–ZHENGHE.md
+• MEM–CHINA–MONGOL–GENGHIS–KHAN.md
+• MEM–CHINA–MONGOL–KUBLAI–KHAN.md
 
 ────────────────────────────────────────────────────────────
-IV. REGISTERED MEM FILES — SECTARIAN & DOCTRINAL
+IV. REGISTERED MEM FILES — DYNASTIES & REGIMES
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–SUNNI.md
-• MEM–ISLAM–SHIA.md
-• MEM–ISLAM–ASSASSINS.md
+• MEM–CHINA–DYNASTY–XIA.md
+• MEM–CHINA–DYNASTY–SHANG.md
+• MEM–CHINA–DYNASTY–ZHOU.md
+• MEM–CHINA–DYNASTY–QIN.md
+• MEM–CHINA–DYNASTY–HAN.md
+• MEM–CHINA–DYNASTY–JIN.md
+• MEM–CHINA–DYNASTY–LIAO.md
+• MEM–CHINA–DYNASTY–SUI.md
+• MEM–CHINA–DYNASTY–TANG.md
+• MEM–CHINA–DYNASTY–SONG.md
+• MEM–CHINA–DYNASTY–YUAN.md
+• MEM–CHINA–DYNASTY–MING.md
+• MEM–CHINA–DYNASTY–QING.md
+• MEM–CHINA–PRC.md
+• MEM–CHINA–PRC–MAO.md
+• MEM–CHINA–PRC–DENG.md
+• MEM–CHINA–ROC.md
 
 ────────────────────────────────────────────────────────────
-V. REGISTERED MEM FILES — DYNASTIC & REGIME
+V. REGISTERED MEM FILES — LITERATURE & PHILOSOPHY
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–DYNASTY–RASHIDUN.md
-• MEM–ISLAM–DYNASTY–UMAYYAD.md
-• MEM–ISLAM–DYNASTY–ABBASID.md
-• MEM–ISLAM–DYNASTY–FATIMID.md
-• MEM–ISLAM–DYNASTY–SELJUK.md
-• MEM–ISLAM–DYNASTY–AYYUBID.md
-• MEM–ISLAM–MONGOL–ILKHANATE.md
-• MEM–ISLAM–DYNASTY–KHWARAZM.md
-• MEM–ISLAM–DYNASTY–MAMLUK.md
-• MEM–ISLAM–DYNASTY–OTTOMAN.md
-• MEM–ISLAM–DYNASTY–SAFAVID.md
-• MEM–ISLAM–DYNASTY–MUGHAL.md
+• MEM–CHINA–LITERATURE–KONGZI.md
+• MEM–CHINA–LITERATURE–LAOZI.md
+• MEM–CHINA–LITERATURE–MENGZI.md
+• MEM–CHINA–LITERATURE–SUNZI.md
 
 ────────────────────────────────────────────────────────────
-VI. REGISTERED MEM FILES — WARS & CIVILIZATIONAL SHOCKS
+VI. REGISTERED MEM FILES — INSTITUTIONS & CIVIL STRUCTURES
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–CRUSADES.md
-• MEM–ISLAM–WAR–AYN–JALUT.md
-• MEM–ISLAM–WAR–THIRD–CRUSADE.md
-• MEM–ISLAM–MONGOL–EMPIRE — v1.0.md
-• MEM–ISLAM–CALIPHATE–ABOLITION.md
+• MEM–CHINA–MONGOL–EMPIRE.md
+• MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA.md
+• MEM–CHINA–MONGOL–QUEENS.md
+• MEM–CHINA–XIONGNU.md
 
 ────────────────────────────────────────────────────────────
-VII. REGISTERED MEM FILES — IMPERIAL CAPITALS & SYMBOLIC CITIES
+VII. REGISTERED MEM FILES — WARS & CONFLICTS
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–MECCA.md
-• MEM–ISLAM–MEDINA.md
-• MEM–ISLAM–JERUSALEM.md
-• MEM–ISLAM–DAMASCUS.md
-• MEM–ISLAM–BAGHDAD.md
-• MEM–ISLAM–CAIRO.md
-• MEM–ISLAM–CORDOBA.md
-• MEM–ISLAM–CONSTANTINOPLE.md
+• MEM–CHINA–WAR–BOXER–REBELLION.md
+• MEM–CHINA–WAR–MONGOL–JIN.md
+• MEM–CHINA–WAR–SONG–YUAN.md
 
 ────────────────────────────────────────────────────────────
 VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–GEO–SICILY.md
-• MEM–ISLAM–GEO–KASHMIR
-• MEM–ISLAM–GEO–XINJIANG.md
-• MEM–ISLAM–GEO–ARABIA.md
-• MEM–ISLAM–GEO–PERSIAN–GULF.md
-• MEM–ISLAM–GEO–HORMUZ–STRAIT.md
-• MEM–ISLAM–GEO–INDIAN–OCEAN.md
-• MEM–ISLAM–GEO–RED–SEA.md
-• MEM–ISLAM–GEO–MEDITERRANEAN–SEA.md
-• MEM–ISLAM–GEO–BLACK–SEA.md
-• MEM–ISLAM–GEO–CAUCASUS.md
-• MEM–ISLAM–GEO–CASPIAN–SEA.md
-• MEM–ISLAM–GEO–LEVANT.md
-• MEM–ISLAM–GEO–BALKANS.md
-• MEM–ISLAM–GEO–IBERIA.md
-• MEM–ISLAM–GEO–MALACCA–STRAIT.md
-• MEM–ISLAM–GEO–NILE–RIVER.md
-• MEM–ISLAM–GEO–TIGRIS–RIVER.md
-• MEM–ISLAM–GEO–EUPHRATES–RIVER.md
-• MEM–ISLAM–GEO–INDUS–RIVER.md
-• MEM–ISLAM–GEO–PACIFIC–OCEAN.md
-• MEM–ISLAM–GEO–ATLANTIC–OCEAN.md
-• MEM–ISLAM–SILK–ROAD.md
+• MEM–CHINA–GEO–MANCHURIA.md
+• MEM–CHINA–GEO–MONGOLIA.md
+• MEM–CHINA–GEO–TAIWAN.md
+• MEM–CHINA–GEO–TIBET.md
+• MEM–CHINA–GEO–XINJIANG.md
+• MEM–CHINA–SILK–ROAD.md
 
 ────────────────────────────────────────────────────────────
 IX. INDEX STATUS & GOVERNANCE
 ────────────────────────────────────────────────────────────
 
-• This index must be updated whenever a new MEM–ISLAM file is added.
+• This index must be updated whenever a new MEM–CHINA file is added.
 • Filenames listed here are canonical.
 • Ordering reflects civilizational logic, not chronology.
-• Cross-civilization mirrors (ROME / FRANCIA / GERMANIA) are indexed separately.
+• Cross-civilization mirrors (e.g. TSP MEMs) are indexed in primary civilization; cross-refs in MEM CONNECTIONS.
 
 ────────────────────────────────────────────────────────────
 X. CANONICAL LOCK NOTICE
@@ -141,10 +127,10 @@ This index is LOCKED. Additive updates only. No deletions, reordering, or silent
 XI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
 
-• CIV–ARC–ISLAM — v1.3
+• CIV–ARC–CHINA — v1.0
 
-Governs author admissibility and temporal precedence for MEM–ISLAM files. See CIV–ARC–ISLAM for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
+Governs author admissibility and temporal precedence for MEM–CHINA files. See CIV–ARC–CHINA for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ISLAM — v3.0
+END OF FILE — CIV–INDEX–CHINA — v2.0
 ────────────────────────────────────────────────────────────

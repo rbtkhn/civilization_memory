@@ -1,6 +1,6 @@
 Title: MEM–CHINA–ROC
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Republic of China (中华民国)
 Dates: 1912–Present (fragmented sovereignty)
@@ -179,7 +179,19 @@ X. CONTINUITY INSIGHTS (RAW)
 Resolution is deferred, not denied.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Henry Kissinger, *On China* (Penguin Press, 2011); *Diplomacy* (Simon & Schuster, 1994) (ARC–CHINA–T–MODERN):
+
+"China is singular. No other country can claim so long a continuous civilization, or such an intimate link to its ancient past and classical principles of strategy and statesmanship."
+
+"The Chinese ideal stressed subtlety, indirection, and the patient accumulation of relative advantage. The Western tradition prized the decisive clash of forces."
+
+— Kissinger on ROC as displaced sovereignty; Taiwan in US–PRC diplomacy; strategic patience and cross-strait management. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • ROC Constitution  
@@ -187,6 +199,7 @@ Primary:
 • Chiang Kai-shek speeches and diaries  
 
 Secondary:
+• Henry Kissinger — On China; Diplomacy  
 • Rana Mitter  
 • Jay Taylor  
 • Joseph Fewsmith  
@@ -194,5 +207,5 @@ Secondary:
 • 王奇生  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–ROC v1.1
+END OF FILE — MEM–CHINA–ROC v1.2
 ────────────────────────────────────────────────────────────

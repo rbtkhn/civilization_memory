@@ -119,5 +119,5 @@ This file is referenced by version pointer in:
 • CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v1.0)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–PERSIA — v1.2
+END OF FILE — CIV–ARC–PERSIA — v1.3
 ────────────────────────────────────────────────────────────

@@ -1,11 +1,11 @@
-CIV–ARC–INDIA — v1.1
+CIV–ARC–INDIA — v1.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · INDIA
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE (Niall Ferguson in ARC-T-MODERN)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE (Jack Weatherford in ARC-T-MODERN)
 Civilization: INDIA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA
@@ -66,6 +66,7 @@ ARC-T-MODERN:
 • Upinder Singh (b. 1959) — A History of Ancient and Early Medieval India; Political Violence in Ancient India
 • Ramachandra Guha (b. 1958) — India After Gandhi; Gandhi Before India
 • Sunil Khilnani (b. 1960) — The Idea of India; Incarnations
+• Jack Weatherford (b. 1941) — Genghis Khan and the Making of the Modern World (2004); Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 
@@ -92,15 +93,16 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 VI. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–INDIA (ARC Reference: CIV–ARC–INDIA v1.1)
-• CIV–SCHOLAR–INDIA (ARC Reference: CIV–ARC–INDIA v1.1)
+• CIV–CORE–INDIA (ARC Reference: CIV–ARC–INDIA v1.2)
+• CIV–SCHOLAR–INDIA (ARC Reference: CIV–ARC–INDIA v1.2)
 
 ────────────────────────────────────────────────────────────
 VII. VERSION HISTORY (BRIEF)
 ────────────────────────────────────────────────────────────
 v1.0 — Initial establishment (Will Durant in ARC-T-MODERN). February 2026.
 v1.1 — Niall Ferguson added to ARC-T-MODERN (*Empire: How Britain Made the Modern World*; British Empire/India content). February 2026.
+v1.2 — Jack Weatherford added to ARC-T-MODERN (*Genghis Khan and the Making of the Modern World*; Mongol/Timurid/Mughal lineage, Silk Road, India interface). February 2026.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–INDIA — v1.1
+END OF FILE — CIV–ARC–INDIA — v1.2
 ────────────────────────────────────────────────────────────
