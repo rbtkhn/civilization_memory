@@ -23,7 +23,7 @@ Governed by:
 • CIV–MEM–CORE v2.9 (global system law)
 • CIV–CORE–TEMPLATE v2.0 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (interaction layer)
-• CIV–ARC–FRANCIA v1.7 (author admissibility canon)
+• CIV–ARC–FRANCIA v2.0 (author admissibility canon)
 • CIV–INDEX–FRANCIA v2.0 (MEM scope: 139 files)
 
 Last Update: January 2026
@@ -476,7 +476,7 @@ XXI. MEM AUTHORING GOVERNANCE CLAUSE
 
 MEM scope and author admissibility:
 • Canonical MEM register: CIV–INDEX–FRANCIA v2.0 (139 files); scope binding
-• Permitted sources: CIV–ARC–FRANCIA v1.8 (author lists, temporal precedence)
+• Permitted sources: CIV–ARC–FRANCIA v2.0 (author lists, temporal precedence)
 
 All MEM–FRANCIA files MUST comply with:
 

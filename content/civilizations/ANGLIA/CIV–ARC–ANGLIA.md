@@ -1,15 +1,15 @@
-CIV–ARC–ANGLIA — v1.11
+CIV–ARC–ANGLIA — v2.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ANGLIA
 
 Status: ACTIVE · CANONICAL
-Version: 1.11
-Supersedes: v1.10
-Upgrade Type: ADDITIVE (David McCullough added to ARC-T-MODERN)
+Version: 2.0
+Supersedes: v1.12
+Upgrade Type: VERSION MILESTONE (v2.0)
 Civilization: ANGLIA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–ANGLIA · CIV–SCHOLAR–ANGLIA
-Last Update: January 2026
+Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
@@ -75,14 +75,48 @@ Justification: [Why this source is necessary]"
 Expanded discovery does not add authors to this canon without an ARC version upgrade.
 
 ────────────────────────────────────────────────────────────
-V. MIRRORING / REFERENCE
+V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
-This file is referenced by version pointer in:
-• CIV–CORE–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v1.11)
-• CIV–SCHOLAR–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v1.11)
+Trans-Sovereign Pattern (TSP) MEMs may require sources from multiple
+civilizations' ARCs. Per CIV–MEM–CORE § XXIX.
+
+TSP PATTERN TYPES: TRANSMISSION, NETWORK, RECONSTITUTION
+
+CROSS-ARC CITATION RULES:
+1. Primary ARC (ARC–ANGLIA) governs MEMs filed under ANGLIA.
+2. TSP MEMs MAY cite sources from connected civilizations' ARCs.
+3. Cross-ARC citations MUST declare: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
+4. Temporal precedence applies within each ARC independently.
+5. Unlisted sources require standard discovery flag.
+
+TSP EXAMPLES (ANGLIA): MEM–ANGLIA–HAMILTON (RECONSTITUTION); MEM–ANGLIA–ROTHSCHILD
+(NETWORK — cross-ARC: GERMANIA, FRANCIA).
 
 ────────────────────────────────────────────────────────────
-VI. VERSION NOTE
+VI. ORTHOGONALITY WITH ERC
+────────────────────────────────────────────────────────────
+ARC-T (temporal) and ERC (evidence role) are ORTHOGONAL. A quotation
+has BOTH: e.g., Gibbon = ARC-T-EARLY-MOD + ERC-SECONDARY; Thucydides
+= ARC-T-ANCIENT + ERC-PRIMARY. See NAMESPACE–CLARIFICATION v1.0.
+
+────────────────────────────────────────────────────────────
+VII. WHAT ARC DOES NOT GOVERN
+────────────────────────────────────────────────────────────
+Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC:
+• 20% verbatim quote minimum • EQS • Analytical content floor
+• Quote word counting • ERC evidence-role classification
+
+ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
+
+────────────────────────────────────────────────────────────
+VIII. MIRRORING / REFERENCE
+────────────────────────────────────────────────────────────
+This file is referenced by version pointer in:
+• CIV–CORE–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v2.0)
+• CIV–SCHOLAR–ANGLIA (ARC Reference: CIV–ARC–ANGLIA v2.0)
+
+────────────────────────────────────────────────────────────
+IX. VERSION NOTE
 ────────────────────────────────────────────────────────────
 v1.0 — Initial establishment (CIV–ARC–TEMPLATE v2.7). Churchill, Ferguson, Chernow (per MEM usage).
 v1.1 — (Reserved.)
@@ -96,7 +130,9 @@ v1.8 — Alan Taylor (b. 1955) added to ARC-T-MODERN (*American Revolutions* [20
 v1.9 — John Murray added to ARC-T-MODERN (*Alfred the Great: The Man Who Made England* [London: John Murray, 2005]). 2026-01-31.
 v1.10 — Walter Isaacson (b. 1952) added to ARC-T-MODERN (*Benjamin Franklin: An American Life* [2003]; *Kissinger: A Biography* [2023]; other biographical works as applicable). 2026-01-31.
 v1.11 — David McCullough (1933–2022) added to ARC-T-MODERN (*John Adams* [2001]; *1776* [2005]; *Truman* [1992]; *Mornings on Horseback* [1981]; other biographical and historical works as applicable). 2026-01-31.
+v1.12 — Template alignment: V-A Cross-ARC Citation for TSP; VI Orthogonality with ERC; VII What ARC Does Not Govern. 2026-02-02.
+v2.0 — Version milestone. 2026-02-02.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ANGLIA — v1.11
+END OF FILE — CIV–ARC–ANGLIA — v2.0
 ────────────────────────────────────────────────────────────

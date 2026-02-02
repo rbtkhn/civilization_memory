@@ -1,13 +1,19 @@
-CIV–ARC–GERMANIA — v2.4
+CIV–ARC–GERMANIA — v2.5
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–GERMANIA v2.3
-Upgrade Type: AUTHOR EXPANSION (Hanseatic + Dutch interface scholars added)
+Supersedes: CIV–ARC–GERMANIA v2.4
+Upgrade Type: TEMPLATE ALIGNMENT (V-A TSP Cross-ARC; Compatibility v2.9)
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
-Last Updated: January 2026
+Compatibility: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9 · NAMESPACE–CLARIFICATION v1.0
+Last Updated: February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.5) — TEMPLATE ALIGNMENT
+────────────────────────────────────────────────────────────
+v2.5 adds V-A Cross-ARC Citation for TSP MEMs per CIV–ARC–TEMPLATE v2.8.
+Compatibility updated to CIV–MEM–CORE v2.9, CIV–MEM–TEMPLATE v2.9.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.4) — AUTHOR EXPANSION (HANSEATIC + DUTCH INTERFACE)
@@ -203,6 +209,24 @@ Expanded discovery does NOT:
 • Remove the requirement to flag
 
 ────────────────────────────────────────────────────────────
+V-A. CROSS-ARC CITATION FOR TSP MEMs
+────────────────────────────────────────────────────────────
+Trans-Sovereign Pattern (TSP) MEMs may require sources from multiple
+civilizations' ARCs. Per CIV–MEM–CORE § XXIX.
+
+TSP PATTERN TYPES: TRANSMISSION, NETWORK, RECONSTITUTION
+
+CROSS-ARC CITATION RULES:
+1. Primary ARC (ARC–GERMANIA) governs MEMs filed under GERMANIA.
+2. TSP MEMs MAY cite sources from connected civilizations' ARCs.
+3. Cross-ARC citations MUST declare: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
+4. Temporal precedence applies within each ARC independently.
+5. Unlisted sources require standard discovery flag.
+
+TSP EXAMPLES (GERMANIA): MEM–GERMANIA–ROTHSCHILD (NETWORK — cross-ARC: ANGLIA,
+FRANCIA); MEM–GERMANIA–HANSEATIC–LEAGUE (NETWORK — cross-ARC: ANGLIA, Baltic civs).
+
+────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
 ARC-T (temporal categories) and ERC (evidence role categories)
@@ -253,5 +277,5 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–GERMANIA v2.4
+END OF FILE — CIV–ARC–GERMANIA v2.5
 ────────────────────────────────────────────────────────────

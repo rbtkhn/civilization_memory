@@ -52,7 +52,7 @@ UPGRADE NOTE (v2.12) — MIND v2.6, CURSOR RULES, OGE/POST-BARNES
 This version syncs with MIND v2.6 propagation and new Cursor rules.
 
 v2.12 updates:
-• MIND bindings: MERCOURIS v2.6, MEARSHEIMER v2.6 (BARNES v2.5)
+• MIND bindings: MERCOURIS v2.6, MEARSHEIMER v2.6 (BARNES v2.6)
 • Mode-specific voice (III.L): LEARN/WRITE = academic prose; IMAGINE = spoken. M/M and Barnes same voice all modes.
 • New Cursor rules: cmc-blend-law (Proportional Blend), cmc-mode-contracts (WRITE/LEARN/IMAGINE)
 • OGE: required in all modes; POST-BARNES → Mercouris responds to Barnes, Mearsheimer responds to Barnes (mandatory)
@@ -158,7 +158,7 @@ CORE GOVERNANCE:
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.6 (ADVISORY)
-• CIV–MIND–BARNES: v2.5 (TERTIARY CATALYST)
+• CIV–MIND–BARNES: v2.6 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
@@ -378,7 +378,7 @@ OGE REQUIREMENTS (LEARN/IMAGINE):
 • 4 options topic/context-specific
 • When prior substantive turn was from Mercouris or Mearsheimer, include at least one **response** option: "[Other MIND] responds to [prior MIND]—reframe in [legitimacy/structural] terms" (cognitive interaction; see cmc-tri-frame-protocol, TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION)
 
-BARNES MODE AVAILABILITY (per CIV–MIND–BARNES v2.5):
+BARNES MODE AVAILABILITY (per CIV–MIND–BARNES v2.6):
 • WRITE MODE: OGE-required (1 option REQUIRED)
 • LEARN MODE: OGE-required (1 option REQUIRED)
 • IMAGINE MODE: OGE-required (1 option REQUIRED)

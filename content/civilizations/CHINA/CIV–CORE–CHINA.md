@@ -13,7 +13,7 @@ Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Governed by: CIV–MEM–CORE v2.9
 • CIV–INDEX–CHINA v2.0 (MEM scope: 38 files)
-ARC Reference: CIV–ARC–CHINA v1.0
+ARC Reference: CIV–ARC–CHINA v2.0
 Last Update: February 2026
 WORDCOUNT: ~2,800
 

@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: CIV–SCHOLAR–ISLAM v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–ISLAM v1.4
+ARC Reference: CIV–ARC–ISLAM v2.0
 Last Update: February 2026
 
 Upgrade Type: MAJOR UPGRADE (v2.0)
@@ -22,7 +22,7 @@ Scope: Phase I; expanded MEM corpus (Mongol cluster: Hulegu, Ilkhanate, Khwarazm
 ────────────────────────────────────────────────────────────
 VERSION NOTE (v2.0)
 ────────────────────────────────────────────────────────────
-v2.0 — Major upgrade. Expanded source MEM corpus: MEM–ISLAM–MONGOL–HULEGU, MEM–ISLAM–MONGOL–ILKHANATE, MEM–ISLAM–DYNASTY–KHWARAZM, MEM–ISLAM–ASSASSINS, MEM–ISLAM–WAR–AYN–JALUT. ARC alignment: CIV–ARC–ISLAM v1.4 (Weatherford). Index: CIV–INDEX–ISLAM v3.0 (54 MEMs). SYNTHESIS 0006 (Damascus–Baghdad–Cairo–Istanbul) with terminal-mode analysis and Mearsheimer cognition. Phase I structure preserved; no doctrine freeze.
+v2.0 — Major upgrade. Expanded source MEM corpus: MEM–ISLAM–MONGOL–HULEGU, MEM–ISLAM–MONGOL–ILKHANATE, MEM–ISLAM–DYNASTY–KHWARAZM, MEM–ISLAM–ASSASSINS, MEM–ISLAM–WAR–AYN–JALUT. ARC alignment: CIV–ARC–ISLAM v2.0 (Weatherford). Index: CIV–INDEX–ISLAM v3.0 (54 MEMs). SYNTHESIS 0006 (Damascus–Baghdad–Cairo–Istanbul) with terminal-mode analysis and Mearsheimer cognition. Phase I structure preserved; no doctrine freeze.
 
 Word Count: ~2,200
 

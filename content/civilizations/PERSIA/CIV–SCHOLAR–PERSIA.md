@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–PERSIA v1.3
+ARC Reference: CIV–ARC–PERSIA v2.0
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 

@@ -1,19 +1,21 @@
-CIV–ARC–ISLAM — v1.4
+CIV–ARC–ISLAM — v2.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ISLAM
 
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Supersedes: CIV–ARC–ISLAM v1.3
-Upgrade Type: ADDITIVE (Weatherford added to ARC-T-MODERN)
+Version: 2.0
+Supersedes: CIV–ARC–ISLAM v1.4
+Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (VI Orthogonality, VII What ARC Does Not Govern)
 Civilization: ISLAM
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–ISLAM · CIV–SCHOLAR–ISLAM
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
-VERSION NOTE (v1.4)
+VERSION NOTE (v2.0)
 ────────────────────────────────────────────────────────────
+v2.0 — Version milestone; template alignment (V-A, VI Orthogonality, VII What ARC Does Not Govern). February 2026.
+
 v1.4 — Jack Weatherford (b. 1946) added to ARC-T-MODERN. Genghis Khan and the Making of the Modern World (2004)—Mongol conquests, destruction of Baghdad 1258, Ilkhanate, conversion to Islam; civilizational encounter perspective. For MEM–ISLAM–MONGOL–EMPIRE and related Islam–Mongol interface MEMs.
 
 v1.3 — Henry Kissinger (b. 1923) added to ARC-T-MODERN. World Order (2014)—Islamic world order as one of four historical orders; Westphalian contrast; divinely ordained domestic principles; unitary Islamic entity vs equilibrium of competing parts; Ottoman–Westphalia contrast (Mehmed's "one empire, one faith, one sovereignty"); Iran 1979, contemporary jihadism. Civilization-contrast citation for world-order, caliphate, Westphalian interface MEMs. Per ARC–DISCOVERY PROPOSAL 0002 (CIV–SCHOLAR–ISLAM XVIII.C).
@@ -92,19 +94,32 @@ Justification: [Why this source is necessary]"
 Expanded discovery does not add authors to this canon without an ARC version upgrade.
 
 ────────────────────────────────────────────────────────────
-V. CROSS-ARC CITATION FOR TSP MEMs
+V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
 Per CIV–ARC–TEMPLATE v2.8 § V-A. Islam TSP MEMs (e.g., transmission to/from Persia, India, Rome) may cite sources from ARC–PERSIA, ARC–ROME, ARC–ANGLIA, etc., with explicit ARC declaration.
 
 Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 
 ────────────────────────────────────────────────────────────
-VI. MIRRORING / REFERENCE
+VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
-This file is referenced by version pointer in:
-• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.4)
-• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v1.4)
+ARC-T (temporal) and ERC (evidence role) are ORTHOGONAL. A quotation has BOTH.
+See NAMESPACE–CLARIFICATION v1.0.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–ISLAM — v1.4
+VII. WHAT ARC DOES NOT GOVERN
+────────────────────────────────────────────────────────────
+Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC: 20% verbatim quote minimum;
+EQS; analytical content floor; quote word counting; ERC classification.
+ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
+
+────────────────────────────────────────────────────────────
+VIII. MIRRORING / REFERENCE
+────────────────────────────────────────────────────────────
+This file is referenced by version pointer in:
+• CIV–CORE–ISLAM (ARC Reference: CIV–ARC–ISLAM v2.0)
+• CIV–SCHOLAR–ISLAM (ARC Reference: CIV–ARC–ISLAM v2.0)
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–ISLAM — v2.0
 ────────────────────────────────────────────────────────────

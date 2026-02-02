@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–CHINA v1.0
+ARC Reference: CIV–ARC–CHINA v2.0
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–CHINA
 Last Update: February 2026
 
@@ -121,7 +121,7 @@ XIII. CONTEXT LOADING PROTOCOLS
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIII)
 
-CIV–ARC–CHINA: v1.0. Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
+CIV–ARC–CHINA: v2.0. Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT

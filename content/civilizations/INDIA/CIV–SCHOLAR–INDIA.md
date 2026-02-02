@@ -14,7 +14,7 @@ Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–INDIA
-ARC Reference: CIV–ARC–INDIA v1.2
+ARC Reference: CIV–ARC–INDIA v2.0
 Last Update: February 2026
 
 Upgrade Type: INITIAL ESTABLISHMENT
@@ -121,7 +121,7 @@ XIII. CONTEXT LOADING PROTOCOLS
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIII)
 
-CIV–ARC–INDIA v1.2: Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–INDIA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
+CIV–ARC–INDIA v2.0: Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–INDIA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT
@@ -195,11 +195,11 @@ Source:
 Ingest Type:
 • Research — Verbatim references for India MEM enhancement
 Primary Belief Extracted:
-• Durant supplies verbatim passages (≥25 words) usable for ARC-T-MODERN in India MEMs. CIV–ARC–INDIA v1.2: Durant, Ferguson, Weatherford in ARC-T-MODERN (Our Oriental Heritage, The Case for India; Ferguson *Empire*). Verbatim refs: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; Ferguson British India: docs/governance/RESEARCH–FERGUSON–INDIA–EMPIRE–REFERENCES.md.
+• Durant supplies verbatim passages (≥25 words) usable for ARC-T-MODERN in India MEMs. CIV–ARC–INDIA v2.0: Durant, Ferguson, Weatherford in ARC-T-MODERN (Our Oriental Heritage, The Case for India; Ferguson *Empire*). Verbatim refs: docs/governance/RESEARCH–DURANT–INDIA–VERBATIM–REFERENCES.md; Ferguson British India: docs/governance/RESEARCH–FERGUSON–INDIA–EMPIRE–REFERENCES.md.
 Belief Status:
 • UNFROZEN
 Note:
-• CIV–ARC–INDIA v1.2: Durant, Ferguson, Weatherford in ARC-T-MODERN. Canonical use in India MEMs permitted per ARC.
+• CIV–ARC–INDIA v2.0: Durant, Ferguson, Weatherford in ARC-T-MODERN. Canonical use in India MEMs permitted per ARC.
 
 ENTRY 0005
 Source:

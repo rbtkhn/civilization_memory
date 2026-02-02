@@ -1,11 +1,11 @@
-CIV–ARC–CHINA — v1.0
+CIV–ARC–CHINA — v2.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · CHINA
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
-Supersedes: None (initial)
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 2.0
+Supersedes: v1.0
+Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (VI Orthogonality, VII What ARC Does Not Govern)
 Civilization: CHINA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–CHINA · CIV–SCHOLAR–CHINA
@@ -104,7 +104,7 @@ Justification: [Why this source is necessary]"
 Expanded discovery does not add authors to this canon without an ARC version upgrade.
 
 ────────────────────────────────────────────────────────────
-V. CROSS-ARC CITATION FOR TSP MEMs
+V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
 Per CIV–ARC–TEMPLATE v2.8 § V-A. China TSP MEMs may cite sources from other ARCs with explicit ARC declaration.
 
@@ -116,12 +116,25 @@ Examples:
 • MEM–CHINA–LIFE–MARCO–POLO may cite ARC–ROME, ARC–ISLAM for medieval travel accounts.
 
 ────────────────────────────────────────────────────────────
-VI. MIRRORING / REFERENCE
+VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
-This file is referenced by version pointer in:
-• CIV–CORE–CHINA (ARC Reference: CIV–ARC–CHINA v1.0)
-• CIV–SCHOLAR–CHINA (ARC Reference: CIV–ARC–CHINA v1.0)
+ARC-T (temporal) and ERC (evidence role) are ORTHOGONAL. A quotation has BOTH.
+See NAMESPACE–CLARIFICATION v1.0.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–CHINA — v1.0
+VII. WHAT ARC DOES NOT GOVERN
+────────────────────────────────────────────────────────────
+Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC: 20% verbatim quote minimum;
+EQS; analytical content floor; quote word counting; ERC classification.
+ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
+
+────────────────────────────────────────────────────────────
+VIII. MIRRORING / REFERENCE
+────────────────────────────────────────────────────────────
+This file is referenced by version pointer in:
+• CIV–CORE–CHINA (ARC Reference: CIV–ARC–CHINA v2.0)
+• CIV–SCHOLAR–CHINA (ARC Reference: CIV–ARC–CHINA v2.0)
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–CHINA — v2.0
 ────────────────────────────────────────────────────────────

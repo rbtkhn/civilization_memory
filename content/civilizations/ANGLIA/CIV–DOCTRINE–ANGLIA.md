@@ -1,4 +1,4 @@
-CIV–DOCTRINE–ANGLIA — v1.2
+CIV–DOCTRINE–ANGLIA — v2.0
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -6,8 +6,11 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: ANGLIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–ANGLIA (Explicit Acceptance Only)
-Compatibility: CIV–CORE–ANGLIA v1.x
-Last Update: January 2026
+Compatibility: CIV–CORE–ANGLIA v2.0+
+Derived from: CIV–DOCTRINE–TEMPLATE v2.1
+Supersedes: CIV–DOCTRINE–ANGLIA v1.2
+Upgrade Type: TEMPLATE ALIGNMENT · MANDATORY SECTIONS ADDED
+Last Update: February 2026
 Word Count: ~1,550
 
 ────────────────────────────────────────────────────────────
@@ -22,7 +25,7 @@ It contains:
 • Controlled illustrative material for training and sequencing clarity
 • No learning history
 • No beliefs
-• No provisional or rejected doctrines (see Section III)
+• No provisional or rejected doctrines (see Section IV)
 
 This file:
 • Does NOT learn
@@ -31,6 +34,13 @@ This file:
 
 Authority Flow:
 CIV–MEM–CORE → CIV–CORE–ANGLIA → DIB–ANGLIA → CIV–DOCTRINE–ANGLIA
+
+Doctrine Admissibility Rules (per Template § III):
+A doctrine MAY be entered here ONLY if: (1) it originates from a FROZEN SYNTHESIS
+in CIV–SCHOLAR–ANGLIA; (2) the synthesis was explicitly frozen by command; (3) the
+doctrine was explicitly accepted by DIB–ANGLIA; (4) a new doctrine version is assigned.
+Prohibited: draft doctrines, candidate beliefs, analytical hypotheses, scholar
+commentary, historical narration.
 
 Only doctrines listed here may be treated as **authoritative**.
 Illustrative and relational material is **non-authoritative and non-citable**.
@@ -285,13 +295,27 @@ Hard Constraints:
 • Narrative without enforcement accelerates decay
 
 ────────────────────────────────────────────────────────────
-IV. EXPLICITLY REJECTED DOCTRINES (NON-AUTHORITATIVE)
+IV. EXPLICITLY EXCLUDED MATERIAL (MANDATORY)
 ────────────────────────────────────────────────────────────
+The following doctrines have been explicitly rejected and are NOT in this registry:
 • PERMANENT MORAL SUPERIORITY — REJECTED
 • INEVITABLE PROGRESS — REJECTED
 
 ────────────────────────────────────────────────────────────
-V. CITATION RULES
+V. DOCTRINE MIRRORING REQUIREMENT (MANDATORY)
+────────────────────────────────────────────────────────────
+This doctrine registry MUST be mirrored verbatim into:
+• CIV–CORE–ANGLIA
+• CIV–SCHOLAR–ANGLIA
+
+Mirroring Rules:
+• Mirroring is declarative, not interpretive
+• All ACCEPTED doctrines must be mirrored (REJECTED doctrines are excluded)
+• Mirrored doctrines provide citation surface for CIV–CORE engines
+• CIV–DOCTRINE–ANGLIA remains the single source of truth for doctrine definitions
+
+────────────────────────────────────────────────────────────
+VI. CITATION RULES
 ────────────────────────────────────────────────────────────
 CIV–CORE–ANGLIA may cite:
 • Doctrine Name
@@ -303,7 +327,7 @@ Illustrative cases, relationships, and diagrams:
 • NON-AUTHORITATIVE
 
 ────────────────────────────────────────────────────────────
-VI. VERSIONING & LOCK
+VII. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 This file is LOCKED.
 
@@ -311,9 +335,6 @@ This file is LOCKED.
 • Structural enhancements require version bump
 • Deletions are forbidden
 
-Supersedes:
-• CIV–DOCTRINE–ANGLIA v1.1
-
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–ANGLIA v1.2
+END OF FILE — CIV–DOCTRINE–ANGLIA v2.0
 ────────────────────────────────────────────────────────────

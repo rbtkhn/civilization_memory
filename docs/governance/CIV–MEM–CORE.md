@@ -811,7 +811,7 @@ BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER by interjecting liability, defection, and
 mechanism-exposure dimensions.
 
-Mode Availability (BINDING — per CIV–MIND–BARNES v2.5):
+Mode Availability (BINDING — per CIV–MIND–BARNES v2.6):
 • WRITE MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
 • LEARN MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
 • IMAGINE MODE: Barnes OGE-required (1 option REQUIRED in OGE menu)
@@ -851,7 +851,7 @@ OGE SHOULD present Barnes option when:
 Barnes does NOT participate in Proportional Blend Law.
 Barnes is exploratory only — never used in MEM production.
 
-See: CIV–MIND–BARNES v2.5 for full tertiary catalyst specification.
+See: CIV–MIND–BARNES v2.6 for full tertiary catalyst specification.
 
 VP-1.g. PROPORTIONAL BLEND LAW (FILE TYPE RATIOS)
 ────────────────────────────────────────────────────────────

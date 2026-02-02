@@ -35,7 +35,7 @@ II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 • CIV–CORE–PERSIA — v2.0 (Primary civilizational engine)
 • CIV–SCHOLAR–PERSIA — v2.0 (Learning and synthesis)
-• CIV–ARC–PERSIA — v1.2 (Academic Reference Canon)
+• CIV–ARC–PERSIA — v2.0 (Academic Reference Canon)
 
 ────────────────────────────────────────────────────────────
 III. DYNASTIC MEMORY FILES

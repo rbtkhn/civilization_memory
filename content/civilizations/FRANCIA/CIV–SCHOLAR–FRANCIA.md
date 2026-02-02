@@ -22,7 +22,7 @@ Governed by:
 • CIV–MEM–CORE v2.9 (global system law)
 • CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
-• CIV–ARC–FRANCIA v1.8 (author admissibility canon)
+• CIV–ARC–FRANCIA v2.0 (author admissibility canon)
 
 Last Update: January 2026
 WORDCOUNT: ~8,700

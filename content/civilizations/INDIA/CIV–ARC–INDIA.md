@@ -1,11 +1,11 @@
-CIV–ARC–INDIA — v1.2
+CIV–ARC–INDIA — v2.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · INDIA
 
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE (Jack Weatherford in ARC-T-MODERN)
+Version: 2.0
+Supersedes: v1.2
+Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (VI Orthogonality, VII What ARC Does Not Govern)
 Civilization: INDIA
 Governed by: CIV–MEM–CORE v2.9 · CIV–ARC–TEMPLATE v2.8
 Referenced in: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA
@@ -83,26 +83,40 @@ Justification: [Why this source is necessary]"
 Expanded discovery does not add authors to this canon without an ARC version upgrade.
 
 ────────────────────────────────────────────────────────────
-V. CROSS-ARC CITATION FOR TSP MEMs
+V-A. CROSS-ARC CITATION FOR TSP MEMs
 ────────────────────────────────────────────────────────────
 Per CIV–ARC–TEMPLATE v2.8 § V-A. India TSP MEMs (e.g., transmission to/from Persia, Islam, Anglia; colonial and postcolonial interfaces) may cite sources from ARC–PERSIA, ARC–ISLAM, ARC–ANGLIA, etc., with explicit ARC declaration.
 
 Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 
 ────────────────────────────────────────────────────────────
-VI. MIRRORING / REFERENCE
+VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
-This file is referenced by version pointer in:
-• CIV–CORE–INDIA (ARC Reference: CIV–ARC–INDIA v1.2)
-• CIV–SCHOLAR–INDIA (ARC Reference: CIV–ARC–INDIA v1.2)
+ARC-T (temporal) and ERC (evidence role) are ORTHOGONAL. A quotation has BOTH.
+See NAMESPACE–CLARIFICATION v1.0.
 
 ────────────────────────────────────────────────────────────
-VII. VERSION HISTORY (BRIEF)
+VII. WHAT ARC DOES NOT GOVERN
+────────────────────────────────────────────────────────────
+Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC: 20% verbatim quote minimum;
+EQS; analytical content floor; quote word counting; ERC classification.
+ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
+
+────────────────────────────────────────────────────────────
+VIII. MIRRORING / REFERENCE
+────────────────────────────────────────────────────────────
+This file is referenced by version pointer in:
+• CIV–CORE–INDIA (ARC Reference: CIV–ARC–INDIA v2.0)
+• CIV–SCHOLAR–INDIA (ARC Reference: CIV–ARC–INDIA v2.0)
+
+────────────────────────────────────────────────────────────
+IX. VERSION HISTORY (BRIEF)
 ────────────────────────────────────────────────────────────
 v1.0 — Initial establishment (Will Durant in ARC-T-MODERN). February 2026.
 v1.1 — Niall Ferguson added to ARC-T-MODERN (*Empire: How Britain Made the Modern World*; British Empire/India content). February 2026.
 v1.2 — Jack Weatherford added to ARC-T-MODERN (*Genghis Khan and the Making of the Modern World*; Mongol/Timurid/Mughal lineage, Silk Road, India interface). February 2026.
+v2.0 — Version milestone; template alignment (V-A, VI Orthogonality, VII What ARC Does Not Govern). February 2026.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–INDIA — v1.2
+END OF FILE — CIV–ARC–INDIA — v2.0
 ────────────────────────────────────────────────────────────

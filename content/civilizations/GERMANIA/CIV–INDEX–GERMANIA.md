@@ -15,7 +15,7 @@ Total Registered Files: 126 MEM–GERMANIA objects
 WORDCOUNT: ~1,250
 
 Derived from: CIV–INDEX–TEMPLATE v2.1
-Governance Parity: CORE–GERMANIA v1.9 MATCH CONFIRMED
+Governance Parity: CORE–GERMANIA v2.0 MATCH CONFIRMED
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2) — NEW MEM REGISTRATION
@@ -73,7 +73,7 @@ v2.0 changes:
 • Added Section VII.A: REGISTERED MEM FILES — LAW (LAW subclass)
 • Added Section VIII.A: REGISTERED MEM FILES — URBAN NODES
 • Added Section VIII.B: REGISTERED MEM FILES — REGIONAL TERRITORIES
-• Updated CIV–CORE–GERMANIA reference: v1.8 → v1.9
+• Updated CIV–CORE–GERMANIA reference: v1.9 → v2.0
 • Fixed phantom entries (removed non-existent files)
 • Fixed filename mismatches (GEO–RHINE → GEO–RHINE–RIVER)
 • Registered all urban MEMs from recent sessions
@@ -88,7 +88,7 @@ within the Codex. Entries are registrational only.
 ────────────────────────────────────────────────────────────
 II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
-• CIV–CORE–GERMANIA — v1.9
+• CIV–CORE–GERMANIA — v2.0
   Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
   Lock Level: STRUCTURAL
   Template Version Used: CIV–CORE–TEMPLATE v2.0
@@ -97,7 +97,7 @@ II. CANONICAL GOVERNANCE FILES
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
   Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 
-• CIV–DOCTRINE–GERMANIA — v1.4
+• CIV–DOCTRINE–GERMANIA — v2.0
   Status: ACTIVE · CANONICAL · LOCKED
   Template Version Used: CIV–DOCTRINE–TEMPLATE v2.1
 
@@ -294,10 +294,10 @@ XIII. REGISTERED MEM FILES — AFTERLIFE / POST-CIVILIZATIONAL CONTINUITY
 XIV. INDEX PARITY & MIRROR STATUS
 ────────────────────────────────────────────────────────────
 Mirror Targets:
-• CIV–CORE–GERMANIA v1.9 — present
+• CIV–CORE–GERMANIA v2.0 — present
 • CIV–SCHOLAR–GERMANIA v2.7 — present
 • CIV–DOCTRINE–GERMANIA v1.4 — present
-• CIV–ARC–GERMANIA v2.1 — present
+• CIV–ARC–GERMANIA v2.5 — present
 
 ────────────────────────────────────────────────────────────
 XV. CANONICAL LOCK NOTICE
@@ -310,7 +310,7 @@ permitted by template governance.
 ────────────────────────────────────────────────────────────
 XVI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
-• CIV–ARC–GERMANIA — v2.1
+• CIV–ARC–GERMANIA — v2.5
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–INDEX–GERMANIA — v2.2

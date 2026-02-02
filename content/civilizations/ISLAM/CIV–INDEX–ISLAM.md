@@ -34,7 +34,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–CORE–ISLAM — v2.0 (Sacred-Zone · Exit-Primacy · Demographic–Chokepoint)
 • CIV–SCHOLAR–ISLAM — v2.0 (Phase I Accumulation)
-• CIV–ARC–ISLAM — v1.3 (Author Admissibility & Temporal Precedence)
+• CIV–ARC–ISLAM — v2.0 (Author Admissibility & Temporal Precedence)
 
 CIV–DOCTRINE–ISLAM: Not present.
 
@@ -141,7 +141,7 @@ This index is LOCKED. Additive updates only. No deletions, reordering, or silent
 XI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
 
-• CIV–ARC–ISLAM — v1.3
+• CIV–ARC–ISLAM — v2.0
 
 Governs author admissibility and temporal precedence for MEM–ISLAM files. See CIV–ARC–ISLAM for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 

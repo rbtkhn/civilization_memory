@@ -17,7 +17,7 @@ providing:
    Which authors anchor the corpus and with what frequency.
 
 2. ARC-T COMPLIANCE AUDIT
-   Confirms sources align with CIV–ARC–FRANCIA v1.8 approved author lists.
+   Confirms sources align with CIV–ARC–FRANCIA v2.0 approved author lists.
 
 3. DISCOVERY FLAG TRACKING
    Aggregates all ARC–DISCOVERY expansions for review.
@@ -335,7 +335,7 @@ It should be regenerated when:
 AUTHORITY:
 This ledger is DESCRIPTIVE, not PRESCRIPTIVE.
 It reports what IS cited, not what SHOULD BE cited.
-CIV–ARC–FRANCIA v1.8 remains the authority for admissibility.
+CIV–ARC–FRANCIA v2.0 remains the authority for admissibility.
 
 CONFLICT RESOLUTION:
 If ledger conflicts with MEM bibliography:

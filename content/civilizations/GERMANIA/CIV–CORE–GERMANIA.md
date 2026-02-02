@@ -1,16 +1,17 @@
-CIV–CORE–GERMANIA — v1.8
+CIV–CORE–GERMANIA — v2.0
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Replacement–Restraint Edition
 Full Title: Civilizational Strategy Codex · Civilization Core Engine
 Repository: [https://github.com/rbtkhn/civilization_memory](https://github.com/rbtkhn/civilization_memory)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
-Version: 1.9
-Supersedes: CIV–CORE–GERMANIA v1.8
-Upgrade Type: ADDITIVE · DOCTRINE MIRRORING COMPLIANCE
+Version: 2.0
+Supersedes: CIV–CORE–GERMANIA v1.9
+Upgrade Type: TEMPLATE ALIGNMENT · HEADER COMPLIANCE · VERSION REFERENCE FIXES
 Template Version Used: CIV–CORE–TEMPLATE v2.0
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
-Upgrade Type: ADDITIVE (ARC REFERENCE)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.9+)
+Governed by: CIV–MEM–CORE v2.9
+ARC Reference: CIV–ARC–GERMANIA v2.5
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Civilization Phase: PHASE II — DEVELOPMENT
 DIB Status: DEFINED · INACTIVE (Decision 0006)
@@ -18,8 +19,8 @@ Scholar Reference Mode: READ-ONLY / DIB-GATED
 Civilization: GERMANIA
 Class: CIV–CORE
 Conceptual Lineage: CIV–CORE–GERMANIA v1.5 ← v1.4 ← v1.3 ← v1.2 ← v1.1 ← SCE–CIV–GERMANIA v9.x
-Source Authority: CIV–MEM–CORE v2.9 · CIV–CORE–TEMPLATE v2.0 · DIB–GERMANIA Decision 0006
-Last Update: January 2026
+Source Authority: CIV–CORE–TEMPLATE v2.0 · DIB–GERMANIA Decision 0006
+Last Update: February 2026
 WORDCOUNT: 1173
 
 ────────────────────────────────────────────────────────────
@@ -306,7 +307,7 @@ Scholar doctrines remain epistemic unless DIB-accepted.
 ────────────────────────────────────────────────────────────
 XIX. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
-ARC–GERMANIA (CIV–ARC–GERMANIA v1.0) governs author admissibility
+ARC–GERMANIA (CIV–ARC–GERMANIA v2.5) governs author admissibility
 and temporal precedence for all MEM–GERMANIA files.
 
 ────────────────────────────────────────────────────────────
@@ -337,7 +338,7 @@ INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
 OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-XXII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANIA v1.3)
+XXII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANIA v2.0)
 ────────────────────────────────────────────────────────────
 Per CIV–DOCTRINE–TEMPLATE v2.1 Section VIII, this section mirrors
 verbatim the accepted doctrines from CIV–DOCTRINE–GERMANIA.
@@ -388,5 +389,5 @@ territorial depth. Alliance exit produces encirclement; alliance
 entrapment produces overextension.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–GERMANIA v1.9
+END OF FILE — CIV–CORE–GERMANIA v2.0
 ────────────────────────────────────────────────────────────

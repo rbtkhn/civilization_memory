@@ -1,10 +1,10 @@
-CIV–ARC–FRANCIA — v1.9
+CIV–ARC–FRANCIA — v2.0
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL
-Supersedes: CIV–ARC–FRANCIA v1.8
-Upgrade Type: AUTHOR EXPANSION (Seven Years' War specialist)
+Supersedes: CIV–ARC–FRANCIA v1.9
+Upgrade Type: VERSION MILESTONE · TEMPLATE ALIGNMENT (V-A TSP Cross-ARC)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–TEMPLATE v2.8+ · NAMESPACE–CLARIFICATION v1.0
 Last Updated: January 2026
@@ -409,6 +409,24 @@ Expanded discovery does NOT:
 • Remove the requirement to flag
 
 ────────────────────────────────────────────────────────────
+V-A. CROSS-ARC CITATION FOR TSP MEMs
+────────────────────────────────────────────────────────────
+Trans-Sovereign Pattern (TSP) MEMs may require sources from multiple
+civilizations' ARCs. Per CIV–MEM–CORE § XXIX.
+
+TSP PATTERN TYPES: TRANSMISSION, NETWORK, RECONSTITUTION
+
+CROSS-ARC CITATION RULES:
+1. Primary ARC (ARC–FRANCIA) governs MEMs filed under FRANCIA.
+2. TSP MEMs MAY cite sources from connected civilizations' ARCs.
+3. Cross-ARC citations MUST declare: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
+4. Temporal precedence applies within each ARC independently.
+5. Unlisted sources require standard discovery flag.
+
+TSP EXAMPLES (FRANCIA): MEM–FRANCIA–ROTHSCHILD (NETWORK — cross-ARC: GERMANIA,
+ANGLIA); MEM–FRANCIA–CAROLINGIAN (TRANSMISSION — cross-ARC: ROME, GERMANIA).
+
+────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────
 ARC-T (temporal categories) and ERC (evidence role categories)
@@ -471,5 +489,5 @@ Future versions may add:
 • Regional specialists (Provence, Brittany, Alsace)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–FRANCIA v1.9
+END OF FILE — CIV–ARC–FRANCIA v2.0
 ────────────────────────────────────────────────────────────

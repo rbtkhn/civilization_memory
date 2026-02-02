@@ -1,29 +1,30 @@
-CIV–CORE–ANGLIA — v1.6
+CIV–CORE–ANGLIA — v2.0
 Civilizational Strategy Codex · Civilization Core Engine
 Procedural–Maritime–Time-Conversion Edition
 (Feasibility–Liquidity–Exit Augmentation)
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
-Version: 1.6
-Supersedes: CIV–CORE–ANGLIA — v1.5
-Upgrade Type: ADDITIVE · GOVERNANCE INTERFACE (DIB, Scholar reference gating)
+Version: 2.0
+Supersedes: CIV–CORE–ANGLIA v1.6
+Upgrade Type: TEMPLATE ALIGNMENT · VERSION MILESTONE · REFERENCE FIXES
 Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Dynastic at VI; DIB at XIX; Verdict at XXI. Omitted: Technological/Compute Sovereignty as dedicated section.)
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.9+)
 Governed by: CIV–MEM–CORE v2.9
-ARC Reference: CIV–ARC–ANGLIA v1.11
-Conceptual Lineage:
-SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 → v1.5 (preserved verbatim)
+ARC Reference: CIV–ARC–ANGLIA v2.0
+Conceptual Lineage: SCE–CIV–ANGLIA V9.x → CIV–CORE–ANGLIA v1.3 → v1.4 → v1.5 → v1.6 (preserved verbatim)
 Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
-Last Update: January 2026
+DIB Status: DEFINED · DISABLED (HOLD default)
+Scholar Reference Mode: READ-ONLY / DIB-GATED
+Last Update: February 2026
 WORDCOUNT: ~1,640
 
 ────────────────────────────────────────────────────────────
-NOTE ON VERSIONING (V1.6)
+NOTE ON VERSIONING (V2.0)
 ────────────────────────────────────────────────────────────
-• All content from v1.5 is preserved without deletion, truncation,
+• All content from v1.6 is preserved without deletion, truncation,
   renumbering, or semantic alteration.
-• v1.6 introduces ADDITIVE governance interface clauses only.
+• v2.0 introduces TEMPLATE ALIGNMENT: compatibility bump, reference fixes, header enhancements.
 • No axioms, diagnostics, constraints, or verdict logic are weakened.
 • Scholar-derived material is formally gated via DIB (Doctrine Intake Buffer).
 • Heuristics are registered as NON-DOCTRINAL unless explicitly bound.
@@ -344,7 +345,7 @@ Germania’s execution capacity.
 [V1.5 — EXPLICIT LINKAGE]
 Anglia’s feasibility-governor function directly counters:
 DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENCE
-(CIV–DOCTRINE–FRANCIA v1.0)
+(CIV–DOCTRINE–FRANCIA v1.1)
 
 ────────────────────────────────────────────────────────────
 XIV. FAILURE PHYSICS
@@ -483,5 +484,5 @@ SYSTEMIC STRESS /
 NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ANGLIA v1.6
+END OF FILE — CIV–CORE–ANGLIA v2.0
 ────────────────────────────────────────────────────────────

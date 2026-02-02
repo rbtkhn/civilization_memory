@@ -9,10 +9,10 @@ Class: CIV–MIND–TEMPLATE (Mind Governance Law)
 Load Order: AFTER CIV–MEM–CORE
 Supersedes: CIV–MIND–TEMPLATE v1.1
 Compatibility:
-• CIV–MEM–CORE v2.6
+• CIV–MEM–CORE v2.9
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
-• CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
+• CIV–MIND–BARNES v2.6 (TERTIARY CATALYST)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
@@ -27,7 +27,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — TERTIARY CATALYST INTEGRATION
 ────────────────────────────────────────────────────────────
-This version integrates CIV–MIND–BARNES v2.5 as tertiary catalyst.
+This version integrates CIV–MIND–BARNES v2.6 as tertiary catalyst.
 
 v2.5 updates:
 • Added TERTIARY CATALYST layer to polyphony architecture
@@ -125,7 +125,7 @@ Section XI) invokes full Mearsheimer voice with binding requirements:
 
 III.C TERTIARY CATALYST
 ────────────────────────────────────────────────────────────
-Role: CIV–MIND–BARNES v2.5
+Role: CIV–MIND–BARNES v2.6
 Status: INACTIVE BY DEFAULT (OGE-required in all modes)
 Function: Triggers new insight in primary and advisory minds
 
@@ -169,6 +169,13 @@ REQUIRED SECTIONS:
 6. Relationship to Mind Layers
 7. Immutability & Curation Rules
 8. Canonical Status Declaration
+
+EPISTEMIC DISCIPLINE (Section 4):
+• PRIMARY MIND: Must have a dedicated Epistemic Discipline Rules section.
+• ADVISORY / CATALYST MINDS: Epistemic Discipline may be consolidated within
+  Linguistic Fingerprint or Structural Reasoning when the epistemic posture
+  (hedging stance, evidence handling, perspective-taking) is fully specified
+  there. No redundant section required.
 
 OPTIONAL SECTIONS (for primary mind):
 • Advisory Mind Relationship
@@ -256,7 +263,7 @@ ADVISORY MIND (MEARSHEIMER v2.6):
 • Persistence: Per-invocation only
 • Mutation: Forbidden without explicit human revision
 
-TERTIARY CATALYST (BARNES v2.5):
+TERTIARY CATALYST (BARNES v2.6):
 • Activation: OGE-required in all modes (1 option mandatory)
 • Deactivation: After POST-BARNES OGE complete
 • Persistence: Per-invocation only

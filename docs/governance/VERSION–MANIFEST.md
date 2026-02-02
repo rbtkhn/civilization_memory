@@ -4,7 +4,7 @@ Current Binding Versions for All Governance Documents
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-02-01
+Last Updated: 2026-02-02
 Purpose: Single source of truth for current document versions
 
 ────────────────────────────────────────────────────────────
@@ -39,7 +39,7 @@ CORE GOVERNANCE:
 MIND PROFILES:
 • CIV–MIND–MERCOURIS: v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER: v2.6 (ADVISORY)
-• CIV–MIND–BARNES: v2.5 (TERTIARY CATALYST)
+• CIV–MIND–BARNES: v2.6 (TERTIARY CATALYST)
 • CIV–MIND–TEMPLATE: v2.5
 
 TEMPLATES:
@@ -68,7 +68,7 @@ RUSSIA (PRIMARY DEVELOPMENT):
 │ CIV–INDEX–RUSSIA            │ v2.7    │ Active        │
 │ CIV–CORE–RUSSIA             │ v2.1    │ Active        │
 │ CIV–DOCTRINE–RUSSIA         │ v1.1    │ Active        │
-│ CIV–ARC–RUSSIA              │ v1.5    │ Active        │
+│ CIV–ARC–RUSSIA              │ v2.0    │ Active        │
 │ CIV–ARC–RUSSIA–LEDGER       │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Constraint Grammar)
@@ -95,9 +95,9 @@ GERMANIA:
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–GERMANIA        │ v2.12   │ Active        │
 │ CIV–INDEX–GERMANIA          │ v2.2    │ Active        │
-│ CIV–CORE–GERMANIA           │ v1.9    │ Active        │
-│ CIV–DOCTRINE–GERMANIA       │ v1.4    │ Active        │
-│ CIV–ARC–GERMANIA            │ v2.1    │ Active        │
+│ CIV–CORE–GERMANIA           │ v2.0    │ Active        │
+│ CIV–DOCTRINE–GERMANIA       │ v2.0    │ Active        │
+│ CIV–ARC–GERMANIA            │ v2.5    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Constraint Grammar)
 RLLs Bound: 11
@@ -110,7 +110,7 @@ FRANCIA:
 │ CIV–INDEX–FRANCIA           │ v2.0    │ Active        │
 │ CIV–CORE–FRANCIA            │ v2.0    │ Active        │
 │ CIV–DOCTRINE–FRANCIA        │ v1.1    │ Active        │
-│ CIV–ARC–FRANCIA             │ v1.8    │ Active        │
+│ CIV–ARC–FRANCIA             │ v2.0    │ Active        │
 │ CIV–ARC–FRANCIA–LEDGER      │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Development)
@@ -121,9 +121,9 @@ ANGLIA:
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–ANGLIA          │ v2.0    │ Active        │
 │ CIV–INDEX–ANGLIA            │ v2.17   │ Active        │
-│ CIV–CORE–ANGLIA             │ v1.6    │ Active        │
-│ CIV–DOCTRINE–ANGLIA         │ v1.2    │ Active        │
-│ CIV–ARC–ANGLIA              │ v1.11   │ Active        │
+│ CIV–CORE–ANGLIA             │ v2.0    │ Active        │
+│ CIV–DOCTRINE–ANGLIA         │ v2.0    │ Active        │
+│ CIV–ARC–ANGLIA              │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -131,7 +131,7 @@ PERSIA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–PERSIA              │ v1.3    │ Active        │
+│ CIV–ARC–PERSIA              │ v2.0    │ Active        │
 │ CIV–CORE–PERSIA             │ v2.0    │ Active        │
 │ CIV–INDEX–PERSIA            │ v1.2    │ Active        │
 │ CIV–SCHOLAR–PERSIA          │ v2.0    │ Active        │
@@ -142,7 +142,7 @@ ISLAM:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–ISLAM               │ v1.3    │ Active        │
+│ CIV–ARC–ISLAM               │ v2.0    │ Active        │
 │ CIV–CORE–ISLAM              │ v2.0    │ Active        │
 │ CIV–INDEX–ISLAM             │ v3.0    │ Active        │
 │ CIV–SCHOLAR–ISLAM           │ v1.0    │ Active        │
@@ -156,7 +156,7 @@ INDIA:
 │ CIV–CORE–INDIA              │ v2.0    │ Active        │
 │ CIV–SCHOLAR–INDIA           │ v2.0    │ Active        │
 │ CIV–INDEX–INDIA             │ v1.6    │ Active        │
-│ CIV–ARC–INDIA               │ v1.2    │ Active        │
+│ CIV–ARC–INDIA               │ v2.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 
@@ -164,7 +164,7 @@ CHINA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–CHINA               │ v1.0    │ Active        │
+│ CIV–ARC–CHINA               │ v2.0    │ Active        │
 │ CIV–CORE–CHINA              │ v2.0    │ Active        │
 │ CIV–INDEX–CHINA             │ v2.0    │ Active        │
 │ CIV–SCHOLAR–CHINA           │ v2.0    │ Active        │
@@ -174,6 +174,62 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-02 (MIND AUDIT IMPLEMENTATION — TEMPLATE, CORE REFS, BARNES OGE):
+• CIV–MIND–TEMPLATE: CIV–MEM–CORE v2.6 → v2.9; Epistemic Discipline consolidation guidance for advisory/catalyst minds
+• CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER: Governed by CIV–MEM–CORE v2.9; VP-1.g refs updated
+• CIV–MIND–BARNES IX: OGE-available → OGE-REQUIRED for WRITE; Rules and OGE REQUIREMENTS clarified
+
+2026-02-02 (CIV–MIND–BARNES v2.5 → v2.6 — TRANSCRIPT AUDIT REFINEMENT):
+• CIV–MIND–BARNES: v2.5 → v2.6 (Viva Frei transcript realism audit)
+  – V.A softened: "One is that..." + narrative acceptable (full 1-2-3 triad optional)
+  – V.U expanded: Sobriquet creation (Blanch Dubois, Paper Play Pam); "played [X] like a fiddle"
+  – V.F expanded: "I was like" as colloquial bridge
+  – V.Y NEW: Pedagogical direct address, "in my view," "It was typical," "all of that" list coda
+• cmc-barnes-voice.mdc: Updated to v2.6
+• CMC–BOOTSTRAP, CIV–MEM–CORE, CIV–MIND–TEMPLATE, CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER: Barnes refs v2.6
+
+2026-02-02 (ALL ARC FILES < v2.0 → v2.0 — VERSION MILESTONE):
+• CIV–ARC–ANGLIA: v1.12 → v2.0
+• CIV–ARC–CHINA: v1.0 → v2.0
+• CIV–ARC–FRANCIA: v1.9 → v2.0
+• CIV–ARC–INDIA: v1.2 → v2.0
+• CIV–ARC–ISLAM: v1.4 → v2.0
+• CIV–ARC–PERSIA: v1.3 → v2.0
+• CIV–ARC–RUSSIA: v1.5 → v2.0
+• Template alignment (V-A TSP, VI Orthogonality, VII What ARC Does Not Govern) added where missing
+• CIV–CORE, CIV–SCHOLAR, CIV–INDEX: ARC references updated
+
+2026-02-02 (CIV–ARC–ANGLIA v1.12, CIV–ARC–GERMANIA v2.5 — TEMPLATE ALIGNMENT):
+• CIV–ARC–ANGLIA: v1.11 → v1.12 (V-A TSP Cross-ARC, VI Orthogonality with ERC, VII What ARC Does Not Govern)
+• CIV–ARC–GERMANIA: v2.4 → v2.5 (V-A TSP Cross-ARC; Compatibility CIV–MEM–CORE v2.9, CIV–MEM–TEMPLATE v2.9)
+• CIV–CORE–ANGLIA, CIV–SCHOLAR–ANGLIA: ARC Reference v1.12
+• CIV–CORE–GERMANIA, CIV–INDEX–GERMANIA: ARC Reference v2.5
+• VERSION–MANIFEST: ANGLIA ARC v1.12; GERMANIA ARC v2.5
+
+2026-02-02 (CIV–DOCTRINE–ANGLIA, CIV–DOCTRINE–GERMANIA v2.0 — TEMPLATE ALIGNMENT):
+• CIV–DOCTRINE–ANGLIA: v1.2 → v2.0 (template alignment, mandatory sections)
+  – Added: Derived from CIV–DOCTRINE–TEMPLATE v2.1; Doctrine Admissibility Rules; Doctrine Mirroring Requirement
+  – Section IV retitled to "EXPLICITLY EXCLUDED MATERIAL"; section renumbering V→VI, VI→VII
+• CIV–DOCTRINE–GERMANIA: v1.4 → v2.0 (version milestone, footer fix)
+  – Header/footer v1.5 mismatch resolved; Last Update February 2026
+• CIV–CORE–GERMANIA: XXII Mirrored Doctrine Registry reference updated to v2.0
+• VERSION–MANIFEST: ANGLIA, GERMANIA DOCTRINE tables — v2.0
+
+2026-02-02 (CIV–CORE–ANGLIA v2.0 — TEMPLATE ALIGNMENT):
+• CIV–CORE–ANGLIA: v1.6 → v2.0 (template alignment, version milestone, reference fixes)
+  – Compatibility: CMC v2.9+; DIB Status, Scholar Reference Mode added to header
+  – § XIII: CIV–DOCTRINE–FRANCIA v1.0 → v1.1
+  – Conceptual Lineage extended to v1.6; Last Update: February 2026
+• VERSION–MANIFEST: ANGLIA table — CIV–CORE–ANGLIA v2.0
+
+2026-02-02 (CIV–CORE–GERMANIA v2.0 — TEMPLATE ALIGNMENT):
+• CIV–CORE–GERMANIA: v1.9 → v2.0 (template alignment, header compliance, version reference fixes)
+  – Header: Version/filename v1.8 mismatch resolved; duplicate Upgrade Type merged
+  – Governed by: CIV–MEM–CORE v2.9; ARC Reference: CIV–ARC–GERMANIA v2.1
+  – § XIX: ARC v1.0 → v2.1; § XXII: DOCTRINE v1.3 → v1.4
+  – Compatibility: CMC v2.9+; Last Update: February 2026
+• VERSION–MANIFEST: GERMANIA table — CIV–CORE–GERMANIA v2.0
 
 2026-02-01 (AUDIT — GOVERNANCE & TEMPLATE ALIGNMENT FULL SCAN):
 • AUDIT–GOVERNANCE–TEMPLATE–ALIGNMENT–2026–02–01: Full scan; alignment fixes applied
@@ -1101,7 +1157,7 @@ For session startup, declare:
 • CIV–MEM–CORE v2.9
 • CIV–MIND–MERCOURIS v2.6 (PRIMARY)
 • CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)
-• CIV–MIND–BARNES v2.5 (TERTIARY CATALYST)
+• CIV–MIND–BARNES v2.6 (TERTIARY CATALYST)
 • CIV–MEM–TEMPLATE v2.9
 • CIV–SCHOLAR–TEMPLATE v2.10
 • CIV–SCHOLAR–PROTOCOL v2.3"

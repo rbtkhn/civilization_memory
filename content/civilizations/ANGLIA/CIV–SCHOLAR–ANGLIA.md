@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–ANGLIA v1.11
+ARC Reference: CIV–ARC–ANGLIA v2.0
 Last Update: January 2026
 
 Upgrade Type: TEMPLATE COMPLIANCE (v1.0 → v2.0)

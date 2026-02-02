@@ -18,7 +18,7 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v2.6
+• CIV–MEM–CORE v2.9
 • CIV–MIND–TEMPLATE v2.5
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
@@ -56,7 +56,7 @@ All v2.5 content preserved.
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.5) — BARNES ALIGNMENT UPDATE
 ────────────────────────────────────────────────────────────
-This version aligns with CIV–MIND–BARNES v2.5.
+This version aligns with CIV–MIND–BARNES v2.6.
 
 v2.5 updates:
 • Barnes now OGE-REQUIRED in ALL modes (not just LEARN/IMAGINE)
@@ -755,7 +755,7 @@ proportions depending on file type:
 
 Neither voice is ever fully absent. File type determines emphasis.
 
-See: CIV–MEM–CORE v2.6, Section VP-1.g
+See: CIV–MEM–CORE v2.9, Section VP-1.g
 
 VI.F TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────
@@ -765,7 +765,7 @@ BARNES is NOT a third parallel voice.
 BARNES is a CATALYST that triggers new insight in MERCOURIS
 and MEARSHEIMER.
 
-Mode Availability (per CIV–MIND–BARNES v2.5):
+Mode Availability (per CIV–MIND–BARNES v2.6):
 • WRITE MODE: Barnes OGE-REQUIRED (1 option mandatory)
 • LEARN MODE: Barnes OGE-REQUIRED (1 option mandatory)
 • IMAGINE MODE: Barnes OGE-REQUIRED (1 option mandatory)
@@ -795,7 +795,7 @@ When Barnes is invoked:
 Barnes does NOT participate in Proportional Blend Law.
 Barnes triggers insight in primary/secondary minds in ALL modes.
 
-See: CIV–MIND–BARNES v2.5 for full tertiary catalyst specification.
+See: CIV–MIND–BARNES v2.6 for full tertiary catalyst specification.
 
 ────────────────────────────────────────────────────────────
 VII. RELATIONSHIP TO MIND LAYERS
