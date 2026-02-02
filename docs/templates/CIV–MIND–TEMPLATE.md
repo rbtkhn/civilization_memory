@@ -177,6 +177,13 @@ EPISTEMIC DISCIPLINE (Section 4):
   (hedging stance, evidence handling, perspective-taking) is fully specified
   there. No redundant section required.
 
+OGE OPTION SOURCE (BINDING):
+Each MIND profile is the **authoritative source** for OGE option phrasing when
+that MIND occupies slots A, B, or C. Option text is **derived from** the MIND
+file—its analytical posture, key questions, and lens. Options **guide** (not
+predict) the creation of the next response. Pipeline: MIND file → option text
+→ response. See OGE_ARCHITECTURE v1.3, cmc-oge-enforcement.
+
 OPTIONAL SECTIONS (for primary mind):
 • Advisory Mind Relationship
 • Invocation Format

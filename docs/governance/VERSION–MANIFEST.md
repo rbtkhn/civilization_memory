@@ -175,6 +175,62 @@ Phase: I (Accumulation)
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
 
+2026-02-02 (OGE FIVE FIXES — AUDIT PROPAGATION):
+• cmc-oge-enforcement: example options 6–10 words
+• chat route: WRITE response-length; LEARN/WRITE concrete-anchor; POST-BARNES all modes
+• ScholarInterface: fallback options ≤10 words
+• OGE_ARCHITECTURE: free-form command mapping
+• cmc-scholar-mode, cmc-mode-contracts, CMC–BOOTSTRAP: 6–10 words each
+• CIV–SCHOLAR–TEMPLATE: OGE format constraints block
+• FRANCIA Scholar: OPTION F = 6–10 word session recap
+• SCHOLAR files (ANGLIA, PERSIA, CHINA, INDIA, ISLAM, GERMANIA, RUSSIA): 6–10 words each, concrete anchor
+• AUDIT–OGE–LOGICAL–PROCEDURAL–CONSISTENCY: implementation status
+
+2026-02-02 (OGE — RESPONSE LENGTH BY INPUT TYPE):
+• OGE option selection (a-f): 100-200 words (reduces cognitive load, preserves context window, avoids truncation)
+• Free-form user input: 200-400 target, 500 max unchanged
+• cmc-scholar-mode, cmc-oge-enforcement, OGE_ARCHITECTURE, chat route
+
+2026-02-02 (OGE — GAME-THEORY LOW-RISK):
+• F formalized as optional stopping (user may cash out with synthesis at any point)
+• Self-check: "Could each option be someone's best choice?" (plausible best response)
+• cmc-oge-enforcement, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL
+
+2026-02-02 (OGE — SYNTHESIS OPTION = SESSION RECAP):
+• Option F = 6–10 word summary/recap/encapsulation of session so far
+• Session-specific; guides synthesis response
+• cmc-oge-enforcement, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL, ScholarInterface, chat route
+
+2026-02-02 (OGE — CONCRETE ANCHOR REQUIREMENT):
+• Each option MUST include at least one specific person, place, or event
+• Concrete anchors keep user engaged and guide/restrain system better
+• cmc-oge-enforcement, OGE_ARCHITECTURE, chat route
+
+2026-02-02 (OGE — USER MAY MANUALLY INTERJECT):
+• Options are scaffold, not cage; user may type any question/instruction
+• cmc-oge-enforcement, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL, ScholarInterface
+
+2026-02-02 (OGE ONTOLOGY — GUIDE NOT PREDICT, MIND-DERIVED):
+• Options guide (not predict) creation of next response; productive, not descriptive
+• Options A/B/C derived from MIND files; pipeline: MIND file → option text → response
+• cmc-oge-enforcement, OGE_ARCHITECTURE v1.3, CIV–MIND–TEMPLATE, CIV–SCHOLAR–PROTOCOL, chat route
+
+2026-02-02 (OGE STYLE — NAVIGATE TIME & SPACE):
+• 6–10 words per option; specific preview of next response; MIND-shaped
+• User navigates through time and space; minimize cognitive load; optimize optionality
+• cmc-oge-enforcement, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL, ScholarInterface, chat route
+
+2026-02-02 (OGE D/E/F SLOT SEMANTICS):
+• D, E = MEM connection–informed (trace, explore related MEM)
+• F = Synthesis / summary / return to original topic
+• cmc-oge-enforcement, ScholarInterface, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL, FRANCIA Scholar, chat route
+
+2026-02-02 (OGE SIMPLIFICATION — STANDARDIZED FIRST THREE):
+• OGE: A=Mercouris, B=Mearsheimer, C=Barnes always first; D/E/F context-specific
+• cmc-oge-enforcement.mdc: Refactored for fixed A/B/C; POST-BARNES semantic shift
+• ScholarInterface.tsx: getFixedMindOptions + generateContextOptions; merge preserves A/B/C
+• OGE_ARCHITECTURE v1.1 → v1.2; CIV–SCHOLAR–PROTOCOL OGE section; FRANCIA Scholar OGE format
+
 2026-02-02 (MIND AUDIT IMPLEMENTATION — TEMPLATE, CORE REFS, BARNES OGE):
 • CIV–MIND–TEMPLATE: CIV–MEM–CORE v2.6 → v2.9; Epistemic Discipline consolidation guidance for advisory/catalyst minds
 • CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER: Governed by CIV–MEM–CORE v2.9; VP-1.g refs updated

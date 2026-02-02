@@ -9,12 +9,19 @@ When operating in the Civilizational Memory Codex under SCHOLAR mode. This proto
 
 ## Response Length (COGNITIVE LOAD)
 
-- **Target**: 200-400 words per analytical response
-- **Maximum**: 500 words before OGE
-- **Principle**: Shorter is better; OGE continues the thought
-- **Chain of thought**: At least one OGE option MUST continue current analysis seamlessly
+**When user selects an OGE option (a–f):**
+- **Target**: 100-200 words
+- **Maximum**: 200 words before OGE
+- **Rationale**: Shorter response reduces cognitive load, preserves context window, and avoids truncation. User has already focused the choice.
 
-Shorter responses with good OGE options > long responses that exhaust attention.
+**When user types free-form question/instruction:**
+- **Target**: 200-400 words
+- **Maximum**: 500 words before OGE
+- **Principle**: Free-form may warrant deeper elaboration
+
+**Chain of thought**: At least one OGE option MUST continue current analysis seamlessly.
+
+Shorter OGE responses with better options > long responses that exhaust attention.
 
 ## Voice Requirements
 
@@ -29,7 +36,7 @@ Shorter responses with good OGE options > long responses that exhaust attention.
 After every substantive analytical turn:
 
 1. Provide **exactly 6 options** (A-F)
-2. **One line each** - respect cognitive load
+2. **6–10 words each, one line** — respect cognitive load
 3. Include **Mearsheimer perspective** where applicable
 4. Include **Barnes perspective** where applicable  
 5. Include **connection-derived option** when MEM under analysis

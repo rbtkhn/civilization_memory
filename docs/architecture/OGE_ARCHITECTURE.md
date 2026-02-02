@@ -1,11 +1,27 @@
-# Option Generation Engine (OGE) — Unified Architecture v1.1
+# Option Generation Engine (OGE) — Unified Architecture v1.3
 ## Multi-Mode Option Generation System
 
-**Version:** 1.1
-**Last Updated:** 2026-01-29
-**Upgrade:** COGNITIVE SKILLS REGISTRY
+**Version:** 1.3
+**Last Updated:** 2026-02-02
+**Upgrade:** OGE ONTOLOGY — GUIDE NOT PREDICT, MIND-DERIVED
 
 ---
+
+### Upgrade Note (v1.3)
+
+This version hardens the OGE ontology:
+- **Options guide, not predict** — Options direct the creation of the next response; they are productive, not descriptive
+- **Options A/B/C derived from MIND files** — CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES are the authoritative source for option phrasing
+- **Pipeline:** MIND file → option text → response
+- **Alignment:** Same source governs option phrasing and response content
+
+### Upgrade Note (v1.2)
+
+This version standardizes the first three OGE options across all modes:
+- **A** = Mercouris, **B** = Mearsheimer, **C** = Barnes (always)
+- D, E, F = context-specific
+- POST-BARNES: A and B shift to "responds to Barnes"
+- Simplifies MIND slot enforcement; eliminates variability in option order
 
 ### Upgrade Note (v1.1)
 
@@ -46,6 +62,35 @@ The Option Generation Engine (OGE) is a non-epistemic, non-authoritative interac
 - Adapts option types to mode-specific requirements
 
 OGE generates options, not conclusions.
+
+---
+
+## OGE Ontology (v1.3 — BINDING)
+
+**Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. When the user selects an option, that choice is a directive—the responder produces output that fulfills it. Options are productive; they shape the conversation.
+
+**Options A/B/C are derived from the relevant MIND file.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. Option text is generated *according to* each MIND profile—its analytical posture, key questions, and lens. The pipeline: **MIND file → option text → response**. The option is the bridge; it must be faithful to the MIND file.
+
+**Alignment.** The same source governs both option phrasing and response content. Options and responses are coherent because they share the MIND file as origin.
+
+**User may manually interject.** Options are a scaffold, not a cage. The user may type any question, instruction, or command instead of selecting A–F. The system MUST accept free-form input and respond to it as a directive. OGE optimizes optionality; it does not restrict it.
+
+### Free-Form Command Mapping
+
+Treat natural-language variants of option types as valid directives. Common mappings:
+
+| User says | Equivalent to | Notes |
+|-----------|---------------|-------|
+| "Apply Mearsheimer" / "Mearsheimer lens" / "Structural view" | Option B | Mearsheimer analysis |
+| "Barnes on this" / "Apply Barnes" / "Who's liable?" | Option C | Triggers POST-BARNES; next OGE includes M/M response options |
+| "Apply Mercouris" / "Legitimacy angle" | Option A | Mercouris analysis |
+| "Synthesize" / "Summarize the session" | Option F | 6–10 word recap |
+| "Load MEM–X" / "Open MEM–PERSIA–GEO–CASPIAN" | Navigation | Explicit file load |
+| "Compare to [civ/event]" | D or E | Cross-civilization or time/space navigation |
+| "Continue" / "Go deeper" / "Elaborate" | Extension | Continue current thread |
+| "Switch to LEARN/IMAGINE/WRITE" | Mode change | Mode transition |
+
+The system MUST accept these as directives and respond appropriately. OGE options are a scaffold; free-form input is always permitted.
 
 ---
 
@@ -160,11 +205,37 @@ OGE generates options, not conclusions.
 
 ---
 
+## Standardized First Three Options (v1.2)
+
+**A, B, C are fixed in every OGE menu:**
+- **A** — Mercouris (elaborate / continue / respond when another MIND just spoke)
+- **B** — Mearsheimer (structural sharpening / power analysis)
+- **C** — Barnes (liability catalyst / mechanism exposure)
+
+Options D, E, F (and beyond) are context-specific (continuation, connection-derived, synthesis, etc.).
+
+**POST-BARNES:** After Barnes interjection, A and B shift: "Mercouris responds to Barnes", "Mearsheimer responds to Barnes". Slots stay fixed; phrasing is contextual.
+
+**D, E, F standardized:**
+- **D, E** — MEM connection–informed; time/space navigation (trace connection, move to era or region)
+- **F** — 6–10 word summary/recap/encapsulation of the session up to that point; session-specific. Functions as optional stopping: user may "cash out" with synthesis at any point.
+
+**OGE response length:** When user selects an OGE option (a–f), response = 100-200 words. Shorter response reduces cognitive load, preserves context window, and avoids truncation. Free-form user input retains 200-400 target, 500 max.
+
+**OGE style:**
+- 6–10 words per option; specific preview of next response
+- MIND-shaped: A = legitimacy, B = structure/power, C = liability
+- Navigate through time and space — user feels movement, optionality
+- **At least one concrete anchor per option** — person, place, or event (e.g. Churchill, Caspian, 1945 election). Concrete anchors keep the user engaged and guide/restrain the system better.
+
+---
+
 ## Unified OGE Rules
 
 ### Common Constraints (All Modes)
 
 OGE-generated options MUST:
+- Always present A, B, C as Mercouris, Mearsheimer, Barnes (or M/M responds to Barnes when POST-BARNES)
 - Be clearly enumerated (a, b, c, d, etc.)
 - Be mutually distinct
 - Be contextually relevant
@@ -182,13 +253,15 @@ OGE-generated options MAY NOT:
 
 All options MUST follow this format:
 ```
-Options:
-a) [Option text]
-b) [Option text]
-c) [Option text]
-d) [Option text]
+Options (6–10 words each; specific preview; time/space navigation):
+a) [Mercouris: legitimacy/civilizational preview of next response]
+b) [Mearsheimer: structure/power preview]
+c) [Barnes: liability/mechanism preview]
+d) [Trace connection—move through MEM graph in time or space]
+e) [Another connection path—era, region, or corridor]
+f) [6–10 word session recap—summary of what has been covered]
 
-Select an option: Type a letter (a, b, c, etc.) in the input box below, or enter your own question.
+Type a letter (a–f) to select, or type any question/instruction—manual interjection always permitted.
 ```
 
 ### Persistence

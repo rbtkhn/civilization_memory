@@ -1026,6 +1026,13 @@ LEARN OGE CATEGORIES:
 5. TRANSITION OPTIONS
 6. OBSERVATION OPTIONS
 
+OGE FORMAT CONSTRAINTS (per OGE_ARCHITECTURE v1.3, cmc-oge-enforcement):
+• 6–10 words per option; specific preview of next response; MIND-shaped
+• A=Mercouris, B=Mearsheimer, C=Barnes (fixed); D/E = MEM connection–informed, time/space navigation; F = 6–10 word session recap
+• Each option MUST include at least one concrete anchor (person, place, or event)
+• Options guide (not predict) creation of next response; derived from MIND files
+• OGE option response: 100–200 words. Free-form: 200–400 target, 500 max. See cmc-oge-enforcement.
+
 LEARN OGE answers:
 “What would you like me to investigate next?”
 

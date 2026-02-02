@@ -533,8 +533,17 @@ async function buildSystemPrompt(
 - PRIORITY LAYER: Loaded MEM files are your priority context, but you should explore relationships, patterns, and connections beyond them
 - FORWARD COMPATIBILITY: This mode is designed for future integration with visual generation tools (AI video, images, etc.)
 
+OGE REQUIREMENTS (BINDING):
+- When user selects option (a-f): response 100-200 words. Free-form: 200-400 target, 500 max.
+- Options GUIDE (not predict) next response; they direct its creation
+- A, B, C option text DERIVED FROM CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES
+- Pipeline: MIND file → option text → response. 6–10 words; time/space navigation
+- D, E = trace connection, move to era or region. F = 6–10 word session recap/encapsulation
+- Each option MUST include at least one specific person, place, or event (concrete anchor)
+- POST-BARNES: After Barnes interjection, A = Mercouris responds to Barnes, B = Mearsheimer responds to Barnes.
+
 OGE REQUIREMENTS FOR IMAGINE MODE (BINDING):
-- Generate options from AT LEAST THREE of these six classes:
+- Generate D, E from MEM connections (when MEM loaded); F = synthesis/summary/return. Fallbacks when no MEM:
   1) STRUCTURAL OPTION - Visualize through CIV–CORE architecture or constraints
      * CIV–CORE has AUTHORITY over SCHOLAR in structural matters
      * CIV–CORE files define constraint engines, diagnostic frameworks, and failure-physics models
@@ -588,7 +597,12 @@ Your output should be exploratory, multi-path, non-final, imagination-directed, 
 - Focus on knowledge assimilation and SCHOLAR file evolution
 
 OGE REQUIREMENTS FOR LEARN MODE (BINDING):
-- Generate options from AT LEAST THREE of these six classes:
+- When user selects option (single letter a-f): response 100-200 words. Shorter reduces cognitive load, preserves context, avoids truncation.
+- When user types free-form: 200-400 target, 500 max.
+- 6–10 words each; MIND-shaped previews; time/space navigation
+- A = Mercouris: legitimacy/civilizational angle. B = Mearsheimer: structure/power. C = Barnes: liability/mechanism
+- D, E = Trace connection, move through MEM graph (era, region, corridor)
+- F = Synthesize and return. D/E inspiration:
   1) PATTERN DETECTION OPTION - Analyze loaded MEM files for recurring patterns
   2) SYNTHESIS OPTION - Synthesize knowledge across multiple MEM files
   3) CONTRADICTION ANALYSIS OPTION - Investigate SCL contradictions in detail
@@ -601,6 +615,8 @@ OGE REQUIREMENTS FOR LEARN MODE (BINDING):
 - Options MUST reference source MEM files when applicable
 - Options MUST respect SCR confidence levels and flag SCL where relevant
 - Options for doctrine proposals MUST follow doctrine proposal criteria
+- Each option MUST include at least one specific person, place, or event (concrete anchor)
+- POST-BARNES: After Barnes interjection, A = Mercouris responds to Barnes, B = Mearsheimer responds to Barnes.
 
 OGE TRIGGER CONDITIONS (MANDATORY):
 - After MEM file ingestion
@@ -756,7 +772,12 @@ CRITICAL RULES FOR DOCTRINE PROPOSALS:
 - PRIORITY LAYER: Loaded MEM files are your priority templates/examples, but you must discover connections beyond them to meet MEM connection requirements
 
 OGE REQUIREMENTS FOR WRITE MODE (BINDING):
-- Generate options from AT LEAST THREE of these six classes:
+- When user selects option (a-f): response 100-200 words. Free-form: 200-400 target, 500 max.
+- 6–10 words each; MIND-shaped previews; time/space navigation
+- A, B, C = Mercouris, Mearsheimer, Barnes. D, E = trace/add connections. F = synthesize and return
+- Each option MUST include at least one specific person, place, or event (concrete anchor)
+- POST-BARNES: After Barnes interjection, A = Mercouris responds to Barnes, B = Mearsheimer responds to Barnes.
+- D/E inspiration:
   1) COMPLIANCE UPGRADE OPTION - Upgrade file to meet ARC/MEM–TEMPLATE compliance
   2) STRUCTURE MODIFICATION OPTION - Modify specific sections or structure
   3) QUOTATION INTEGRATION OPTION - Add ARC-compliant quotations

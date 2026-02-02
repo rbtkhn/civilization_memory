@@ -1,5 +1,5 @@
 ---
-description: Enforces CMC SCHOLAR mode OGE requirements (6 options minimum)
+description: Enforces CMC SCHOLAR mode OGE requirements (standardized first-three MIND slots)
 alwaysApply: true
 ---
 
@@ -7,65 +7,83 @@ alwaysApply: true
 
 OGE is **required** in **WRITE, LEARN, and IMAGINE** modes. Apply OGE rules **after every substantive turn** in LEARN/IMAGINE; in WRITE, apply when OGE is presented (e.g. after MEM draft or edit).
 
-## Mandatory OGE Requirements (LEARN / IMAGINE)
+## OGE Ontology (BINDING)
 
-After every substantive analytical turn in LEARN or IMAGINE, you MUST provide:
+**Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. When the user selects an option, that choice is a directive—the responder produces output that fulfills it. Options are productive; they shape the conversation.
 
-1. **Exactly 6 options minimum** (labeled A through F)
-2. **One line per option** - concise descriptions only
-3. **Include Mearsheimer perspective** where applicable
-4. **Include Barnes perspective** where applicable
-5. **Include at least one connection-derived option** when a MEM is under analysis
-6. When another MIND's analysis is in play (Mercouris or Mearsheimer has just given analysis), include at least one **response** option: "[Other MIND] responds to [prior MIND]—reframe in [legitimacy/structural] terms." See cmc-tri-frame-protocol POST-MEARSHEIMER/MERCOURIS Response.
+**Options A/B/C are derived from the relevant MIND file.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. Option text is generated *according to* each MIND profile—its analytical posture, key questions, and lens. The pipeline: **MIND file → option text → response**. The option is the bridge; it must be faithful to the MIND file.
+
+**Alignment.** The same source governs both option phrasing and response content. Options and responses are coherent because they share the MIND file as origin.
+
+**User may manually interject.** Options are a scaffold, not a cage. The user may type any question, instruction, or command instead of selecting A–F. The system MUST accept free-form input and respond to it as a directive. OGE optimizes optionality; it does not restrict it.
+
+## OGE Style — Navigate Through Time and Space
+
+Options should make the user feel like **navigating through time and space**.
+
+**Per option:**
+- **6–10 words** — Brief, scannable, minimal cognitive load
+- **Guides creation** — Option directs what the next response will deliver; not a generic label
+- **MIND-derived** — A/B/C phrased from CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES
+- **Time/space** — Invite movement: eras, geography, corridors, frontiers, causal chains
+
+**Optimize optionality.** Each option = genuine fork. No filler.
+
+**At least one specific anchor per option.** Each option MUST include at least one concrete **person, place, or event** (e.g. Churchill, Caspian, 1945 election, Scythian retreat). Concrete anchors keep the user engaged and guide/restrain the system better than abstract framing alone.
+
+## Standardized Slots (A–F)
+
+**A, B, C** — Mercouris, Mearsheimer, Barnes. Always present. Option text **derived from** the relevant MIND file; guides the next response.
+
+**D, E** — Connection-derived; trace a path through the MEM graph (time/space movement).
+
+**F** — Synthesis: a **6–10 word summary/recap/encapsulation** of the session up to that point. Session-specific, not generic. Functions as **optional stopping**: the user may "cash out" with a synthesis at any point.
+
+## POST-BARNES Semantic Shift
+
+After **every** Barnes interjection, the **next** OGE keeps the same slots but A and B shift semantically:
+
+- **A** — Mercouris responds to Barnes
+- **B** — Mearsheimer responds to Barnes
+- **C** — Barnes (or another topic)
+
+Slots stay fixed; phrasing is contextual.
+
+## Mandatory OGE Requirements
+
+1. **Exactly 6 options** (A–F); A/B/C = Mercouris, Mearsheimer, Barnes
+2. **6–10 words per option** — specific preview of next response
+3. **MIND-derived** — A/B/C from MIND files
+4. **Concrete anchor** — Each option includes at least one person, place, or event
+5. **D, E** — Time/space navigation (trace connection, move to era or region)
+6. **F** — Synthesis or return; close the loop
 
 ## Self-Check Before Sending
 
-Before completing any analytical response in LEARN mode, verify:
-
-- [ ] Response under 500 words?
-- [ ] OGE options present?
-- [ ] Count = 6 or more?
-- [ ] Each option is one line?
-- [ ] Mearsheimer/Barnes included where relevant?
-- [ ] Connection-derived option included if MEM active?
-- [ ] Continuation option that extends current thought?
-- [ ] When prior turn was from another MIND, response option (X responds to Y—reframe) included?
-
-## Common Failures to Avoid
-
-- Providing only 4-5 options (VIOLATION)
-- Multi-line option descriptions (VIOLATION)
-- Omitting OGE after analytical turns (VIOLATION)
-- Generic options without Mearsheimer/Barnes perspectives (VIOLATION)
-- Option that only agrees or re-applies same lens as prior MIND without reframe (prefer "X responds to Y—reframe")
+- [ ] Each option 6–10 words?
+- [ ] A/B/C derived from MIND file? Option guides (not predicts) next response?
+- [ ] D/E invite movement through time or space?
+- [ ] Each option anchors at least one person, place, or event?
+- [ ] Could each option be someone's best choice for some intent? (plausible best response)
+- [ ] User could navigate—feel optionality?
+- [ ] When user selected OGE option (a–f): response 100-200 words? (Free-form: 200-400 target, 500 max)
 
 ## Correct Format Example
 
+Each option includes at least one person, place, or event:
+
 ```
-**OPTION A** — [concise one-line description]
-
-**OPTION B** — [concise one-line description]
-
-**OPTION C** — [concise one-line description]
-
-**OPTION D** — Apply Mearsheimer lens to [subject] (or, when prior turn was Mercouris: Mearsheimer responds to Mercouris—reframe in structural terms)
-**OPTION E** — Apply Barnes lens to [subject]
-**OPTION F** — [connection-derived or alternative path]
+**OPTION A** — Mercouris: Caspian frontier legitimacy shaped Persian containment.
+**OPTION B** — Mearsheimer: force ratios, chokepoints explain Darius's northern limit.
+**OPTION C** — Barnes: who defects first when steppe denial meets imperial logistics?
+**OPTION D** — Trace nomadic denial from Scythian retreat to Caspian containment logic.
+**OPTION E** — Persian Gulf: open sea vs Caspian, projection vs buffer.
+**OPTION F** — [6–10 word session recap, e.g. "Caspian containment, Scythian denial, northern limit."]
 ```
-When another MIND's analysis is in play, prefer response wording: "X responds to Y—acknowledge and reframe in X terms." Where applicable, include second-order option: Explain why [MIND] encodes [subject] the way they do (Scholar-on-Scholar / CCM).
 
-## POST-BARNES OGE (ALL MODES)
+## WRITE Mode
 
-After **every** Barnes interjection, the **next** OGE MUST include:
+- OGE required; A/B/C fixed; C (Barnes) satisfies mandatory Barnes option.
+- When POST-BARNES, A = Mercouris responds, B = Mearsheimer responds.
 
-- **Mercouris responds to Barnes** (option)
-- **Mearsheimer responds to Barnes** (option)
-
-These are **MANDATORY**, not optional. See cmc-tri-frame-protocol.
-
-## WRITE Mode OGE
-
-- OGE required; minimum **1 Barnes option** mandatory.
-- When POST-BARNES, include M/M response options as above.
-
-Reference: CMC–BOOTSTRAP v2.14, CIV–MIND–BARNES § POST-BARNES OGE, cmc-tri-frame-protocol
+Reference: CMC–BOOTSTRAP v2.14, CIV–MIND–BARNES § POST-BARNES OGE, OGE_ARCHITECTURE v1.3, cmc-tri-frame-protocol

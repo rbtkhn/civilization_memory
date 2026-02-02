@@ -70,6 +70,7 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
     
     // Multiple regex patterns to catch different formats
     const patterns = [
+      /^\*\*OPTION\s+([a-z])\*\*\s*[—\-–]\s*(.+)$/gmi,  // **OPTION A** — text
       /^([a-z])\)\s+(.+)$/gmi,           // a) Option
       /^([a-z])\.\s+(.+)$/gmi,           // a. Option
       /^\(([a-z])\)\s+(.+)$/gmi,         // (a) Option
@@ -95,141 +96,99 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
   }, []);
 
   /**
-   * Generate context-aware multiple choice options based on the conversation state
+   * Standardized A, B, C — Mercouris, Mearsheimer, Barnes. 6–10 words; MIND-shaped preview.
+   */
+  const getFixedMindOptions = useCallback((response: string): Array<{ letter: string; text: string }> => {
+    const responseLower = response.toLowerCase();
+    const postBarnes = responseLower.includes('barnes') && (
+      responseLower.includes('catalyst') || responseLower.includes('liability') ||
+      responseLower.includes('responds to') || responseLower.includes('interjection')
+    );
+    if (postBarnes) {
+      return [
+        { letter: 'a', text: 'Mercouris responds to Barnes—legitimacy reframe.' },
+        { letter: 'b', text: 'Mearsheimer responds to Barnes—structural reframe.' },
+        { letter: 'c', text: 'Barnes on another angle.' },
+      ];
+    }
+    return [
+      { letter: 'a', text: 'Mercouris: legitimacy and civilizational continuity in this frame.' },
+      { letter: 'b', text: 'Mearsheimer: structure, power distribution, geographic constraints.' },
+      { letter: 'c', text: 'Barnes: liability exposure and who defects first.' },
+    ];
+  }, []);
+
+  /**
+   * Generate context-aware options D, E, F (context-specific; A/B/C are fixed MIND slots)
+   */
+  const generateContextOptions = useCallback((
+    response: string,
+    loadedMemFiles: Array<{ path: string; content: string; lastUsed: number }>,
+    civilization: string | null,
+    mode: ScholarMode
+  ): Array<{ letter: string; text: string }> => {
+    const contextOptions: Array<{ letter: string; text: string }> = [];
+    const responseLower = response.toLowerCase();
+    const isAuditResponse = responseLower.includes('compliance') || responseLower.includes('audit') ||
+      responseLower.includes('preflight') || responseLower.includes('non-compliant') || responseLower.includes('compliant');
+    const isNonCompliant = responseLower.includes('non-compliant') || responseLower.includes('not compliant') ||
+      responseLower.includes('failed') || responseLower.includes('insufficient') || responseLower.includes('missing');
+    const memFile = loadedMemFiles.length > 0 ? loadedMemFiles[loadedMemFiles.length - 1] : null;
+    const memFileName = memFile ? memFile.path.split('/').pop() || memFile.path : null;
+    const add = (letter: string, text: string) => contextOptions.push({ letter, text });
+    // D, E = time/space navigation; F = 6–10 word session recap. 6–10 words for D, E.
+    if (mode === 'IMAGINE') {
+      if (memFile) {
+        add('d', 'Trace MEM graph to linked era or region.');
+        add('e', 'Another MEM path across time or space.');
+        add('f', 'Recap session in 6–10 words.');
+      } else {
+        add('d', 'Load a MEM file to visualize and navigate.');
+        add('e', 'List available MEM files across civilizations.');
+        add('f', 'Recap session in 6–10 words.');
+      }
+    } else if (mode === 'LEARN') {
+      if (isAuditResponse && isNonCompliant && memFile) {
+        add('d', `Trace ${memFileName} links to era or region.`);
+        add('e', 'Move to another era or region through the connection graph.');
+        add('f', 'Recap session in 6–10 words.');
+      } else if (memFile) {
+        add('d', `Trace ${memFileName} links to era or region.`);
+        add('e', 'Shift to another MEM along the connection graph.');
+        add('f', 'Recap session in 6–10 words.');
+      } else {
+        add('d', 'Load a MEM file to begin navigation.');
+        add('e', 'List MEM files across civilizations and eras.');
+        add('f', 'Recap session in 6–10 words.');
+      }
+    } else if (mode === 'WRITE') {
+      if (memFile) {
+        add('d', `Trace ${memFileName}—explore graph.`);
+        add('e', 'Add or refine MEM connections (≥10, ≥2 GEO).');
+        add('f', 'Recap session in 6–10 words.');
+      } else {
+        add('d', 'Load a MEM file to modify.');
+        add('e', 'Create a new MEM file.');
+        add('f', 'Recap session in 6–10 words.');
+      }
+    }
+    return contextOptions;
+  }, []);
+
+  /**
+   * Generate full OGE options: A/B/C fixed (Mercouris, Mearsheimer, Barnes) + D/E/F context-specific
    */
   const generateContextualOptions = useCallback((
     response: string,
     loadedMemFiles: Array<{ path: string; content: string; lastUsed: number }>,
     civilization: string | null,
     mode: ScholarMode,
-    isMemFileLocked: boolean
+    _isMemFileLocked: boolean
   ): Array<{ letter: string; text: string }> => {
-    const options: Array<{ letter: string; text: string }> = [];
-    const responseLower = response.toLowerCase();
-    
-    // Detect audit responses
-    const isAuditResponse = responseLower.includes('compliance') || 
-                            responseLower.includes('audit') ||
-                            responseLower.includes('preflight') ||
-                            responseLower.includes('non-compliant') ||
-                            responseLower.includes('not compliant') ||
-                            responseLower.includes('compliant');
-    
-    // Detect non-compliance - more comprehensive detection
-    const isNonCompliant = responseLower.includes('non-compliant') ||
-                           responseLower.includes('not compliant') ||
-                           responseLower.includes('non compliant') ||
-                           responseLower.includes('failed') ||
-                           responseLower.includes('insufficient') ||
-                           responseLower.includes('not declared') ||
-                           responseLower.includes('not met') ||
-                           responseLower.includes('missing') ||
-                           (responseLower.includes('compliance status') && responseLower.includes('not')) ||
-                           (responseLower.includes('compliance') && (
-                             responseLower.includes('✗') ||
-                             responseLower.includes('not met') ||
-                             responseLower.includes('missing') ||
-                             responseLower.includes('insufficient')
-                           ));
-    
-    // Detect pattern detection / synthesis responses (LEARN mode)
-    const hasPatterns = responseLower.includes('pattern') ||
-                        responseLower.includes('recurring') ||
-                        responseLower.includes('synthesis') ||
-                        responseLower.includes('extracted');
-    
-    // Detect contradictions (LEARN mode)
-    const hasContradictions = responseLower.includes('contradiction') ||
-                             responseLower.includes('scl') ||
-                             responseLower.includes('conflict');
-    
-    // Detect doctrine proposal opportunities (LEARN mode)
-    const hasDoctrineOpportunity = responseLower.includes('doctrine') ||
-                                   responseLower.includes('proposal') ||
-                                   (hasPatterns && loadedMemFiles.length >= 2);
-    
-    const memFile = loadedMemFiles.length > 0 ? loadedMemFiles[loadedMemFiles.length - 1] : null;
-    const memFileName = memFile ? memFile.path.split('/').pop() || memFile.path : null;
-    const civName = civilization?.toUpperCase() || 'CIV';
-    
-    // Mode-specific option generation (OGE - Option Generation Engine)
-    if (mode === 'IMAGINE') {
-      // IMAGINE Mode: Creative exploration options
-      if (memFile) {
-        options.push({ letter: 'a', text: `Visualize structural framework through CIV–CORE architecture` });
-        options.push({ letter: 'b', text: `Explore historical chronology through SCHOLAR-ingested timeline` });
-        options.push({ letter: 'c', text: `Compare with another civilization or regime` });
-        options.push({ letter: 'd', text: `Explore contradictions and unresolved tensions (SCL)` });
-        options.push({ letter: 'e', text: `Visualize how beliefs or doctrines formed procedurally` });
-        options.push({ letter: 'f', text: `Discover new connections and exploration pathways` });
-      } else {
-        options.push({ letter: 'a', text: 'Load a MEM file to visualize' });
-        options.push({ letter: 'b', text: 'Explore CIV–CORE structures' });
-        options.push({ letter: 'c', text: 'Discover cross-civilizational comparisons' });
-      }
-    } else if (mode === 'LEARN') {
-      // LEARN Mode: Pattern detection and synthesis options
-      if (isAuditResponse && isNonCompliant && memFile) {
-        // Non-compliant audit: focus on compliance upgrade
-        options.push({ letter: 'a', text: `Upgrade ${memFileName} to compliance` });
-        options.push({ letter: 'b', text: `View detailed compliance report for ${memFileName}` });
-        options.push({ letter: 'c', text: `Analyze patterns despite non-compliance` });
-      } else if (memFile) {
-        // Standard LEARN mode options
-        if (hasPatterns) {
-          options.push({ letter: 'a', text: `Verify pattern across related MEM files` });
-          options.push({ letter: 'b', text: `Synthesize patterns from multiple MEM files` });
-        } else {
-          options.push({ letter: 'a', text: `Detect patterns in ${memFileName}` });
-          options.push({ letter: 'b', text: `Load related MEM files for pattern analysis` });
-        }
-        
-        if (hasContradictions) {
-          options.push({ letter: 'c', text: `Investigate contradictions (SCL) in detail` });
-        } else {
-          options.push({ letter: 'c', text: `Analyze ${memFileName} for contradictions` });
-        }
-        
-        if (hasDoctrineOpportunity) {
-          options.push({ letter: 'd', text: `Evaluate pattern for doctrine proposal eligibility` });
-        } else {
-          options.push({ letter: 'd', text: `Synthesize knowledge from ${memFileName}` });
-        }
-        
-        options.push({ letter: 'e', text: `Load and analyze related MEM files` });
-        options.push({ letter: 'f', text: `Verify evidence across repository` });
-      } else {
-        options.push({ letter: 'a', text: 'Load a MEM file to analyze' });
-        options.push({ letter: 'b', text: 'List available MEM files' });
-        options.push({ letter: 'c', text: 'Explore patterns across multiple files' });
-      }
-    } else if (mode === 'WRITE') {
-      // WRITE Mode: File modification and compliance options
-      if (isAuditResponse && isNonCompliant && memFile) {
-        // Non-compliant: prioritize compliance upgrade
-        options.push({ letter: 'a', text: `Upgrade ${memFileName} to compliance` });
-        options.push({ letter: 'b', text: `Integrate specific source into ${memFileName} (ARC-compliant)` });
-        options.push({ letter: 'c', text: `Add ARC-compliant quotations to ${memFileName}` });
-        options.push({ letter: 'd', text: `Add MEM connections to ${memFileName}` });
-        options.push({ letter: 'e', text: `Update metadata and version for ${memFileName}` });
-      } else if (memFile) {
-        // Standard WRITE mode options
-        options.push({ letter: 'a', text: `Upgrade ${memFileName} to ARC–${civName} v1.9 compliance` });
-        options.push({ letter: 'b', text: `Integrate specific source into ${memFileName} (ARC-compliant)` });
-        options.push({ letter: 'c', text: `Add MEM connections (≥10 required, ≥2 GEO)` });
-        options.push({ letter: 'd', text: `Insert ARC-compliant quotations` });
-        options.push({ letter: 'e', text: `Modify structure or sections` });
-        options.push({ letter: 'f', text: `Update metadata: version, ARC pinning, wordcount` });
-        options.push({ letter: 'g', text: `Align with CIV–MEM–TEMPLATE v1.9 structure` });
-      } else {
-        options.push({ letter: 'a', text: 'Load a MEM file to modify' });
-        options.push({ letter: 'b', text: 'Create a new MEM file' });
-        options.push({ letter: 'c', text: 'List available MEM files' });
-      }
-    }
-    
-    return options;
-  }, []);
+    const fixed = getFixedMindOptions(response);
+    const context = generateContextOptions(response, loadedMemFiles, civilization, mode);
+    return [...fixed, ...context];
+  }, [getFixedMindOptions, generateContextOptions]);
 
   const addMessage = useCallback((type: 'user' | 'system' | 'error', content: string) => {
     // Extract options for system messages (works in any mode, not just IMAGINE)
@@ -813,26 +772,20 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
             isMemFileLocked
           );
           
-          // Use contextual options (they're context-aware and always relevant)
-          // If LLM provided options, merge them (prioritize LLM options for letters that match)
+          // A/B/C are always fixed (Mercouris, Mearsheimer, Barnes). D/E/F from contextual; LLM may override D/E/F.
+          const fixedSlots = new Set(['a', 'b', 'c']);
           const finalOptions: Array<{ letter: string; text: string }> = [];
-          const usedLetters = new Set<string>();
-          
-          // First, add LLM options
-          llmOptions.forEach(opt => {
-            finalOptions.push(opt);
-            usedLetters.add(opt.letter);
-          });
-          
-          // Then, add contextual options that don't conflict
+          const llmByLetter = Object.fromEntries(llmOptions.map(o => [o.letter.toLowerCase(), o]));
           contextualOptions.forEach(opt => {
-            if (!usedLetters.has(opt.letter)) {
+            const letter = opt.letter.toLowerCase();
+            if (fixedSlots.has(letter)) {
+              finalOptions.push(opt); // Always use our A/B/C
+            } else if (llmByLetter[letter]) {
+              finalOptions.push(llmByLetter[letter]); // Prefer LLM for D/E/F
+            } else {
               finalOptions.push(opt);
-              usedLetters.add(opt.letter);
             }
           });
-          
-          // Sort by letter
           finalOptions.sort((a, b) => a.letter.localeCompare(b.letter));
           
           // Format options text for display
@@ -955,14 +908,13 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
         let optionsMessage = `MEM file loaded: ${memFileName}\n\n`;
         
         if (mode === 'IMAGINE') {
-          optionsMessage += `What would you like to explore?\n\na) Visualize structural framework through CIV–CORE\nb) Explore historical chronology\nc) Compare with another civilization\nd) Explore contradictions and tensions\ne) Visualize procedural formation\nf) Discover new connections`;
+          optionsMessage += `Navigate through time and space:\n\na) Mercouris: legitimacy and civilizational continuity in this frame.\nb) Mearsheimer: structure, power distribution, geographic constraints.\nc) Barnes: liability exposure and who defects first.\nd) Trace connections—move through the MEM graph to a linked era or region.\ne) Follow another path to a related MEM across time or space.\nf) Session recap: 6–10 word summary.`;
         } else if (mode === 'LEARN') {
-          optionsMessage += `What would you like to analyze?\n\na) Detect patterns in ${memFileName}\nb) Load related MEM files for analysis\nc) Investigate contradictions (SCL)\nd) Synthesize knowledge\ne) Verify evidence across repository\nf) Evaluate for doctrine proposal`;
+          optionsMessage += `Navigate through time and space:\n\na) Mercouris: legitimacy and civilizational continuity in this frame.\nb) Mearsheimer: structure, power distribution, geographic constraints.\nc) Barnes: liability exposure and who defects first.\nd) Trace connections from ${memFileName}—follow a path through time or space.\ne) Shift to another MEM along the connection graph.\nf) Session recap: 6–10 word summary.`;
         } else if (mode === 'WRITE') {
-          optionsMessage += `What would you like to do?\n\na) Upgrade to ARC–${civName} compliance\nb) Add MEM connections\nc) Insert ARC-compliant quotations\nd) Modify structure or sections\ne) Update metadata\nf) Align with template`;
+          optionsMessage += `Navigate through time and space:\n\na) Mercouris: legitimacy and civilizational continuity in this frame.\nb) Mearsheimer: structure, power distribution, geographic constraints.\nc) Barnes: liability exposure and who defects first.\nd) Trace MEM connections from ${memFileName}; explore the graph.\ne) Add or refine MEM connections (≥10, ≥2 GEO).\nf) Session recap: 6–10 word summary.`;
         } else {
-          // Fallback (shouldn't happen)
-          optionsMessage += `What would you like to do?\n\na) Audit ARC–${civName} compliance\nb) Audit MEM–TEMPLATE compliance\nc) Analyze content and structure\nd) Find connections to other MEM files`;
+          optionsMessage += `Navigate through time and space:\n\na) Mercouris: legitimacy and civilizational continuity.\nb) Mearsheimer: structure and power distribution.\nc) Barnes: liability and who defects first.\nd) Audit ARC–${civName} compliance.\ne) Audit MEM–TEMPLATE compliance.\nf) Session recap: 6–10 word summary.`;
         }
         
         standardMemOptionsRef.current = optionsMessage;
@@ -1156,7 +1108,7 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
                         ? 'text-purple-800'
                         : 'text-green-800'
                     }`}>
-                      Type a letter (<strong>a</strong>, <strong>b</strong>, <strong>c</strong>, etc.) in the input box below, or enter your own question.
+                      Type a letter to select an option, or enter any question/instruction—manual interjection always permitted.
                     </p>
                   </div>
                 )}
@@ -1217,7 +1169,7 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
             onKeyDown={handleKeyDown}
             placeholder={
               mode === 'IMAGINE' 
-                ? 'Type a letter (a, b, c...) to select an option, or enter your question...'
+                ? 'Type a letter (a–f) to select, or enter any question/instruction'
                 : `Enter your ${mode.toLowerCase()} request...`
             }
             disabled={isProcessing}

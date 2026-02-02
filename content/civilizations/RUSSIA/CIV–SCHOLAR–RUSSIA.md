@@ -614,6 +614,8 @@ EPHEMERAL:
 ────────────────────────────────────────────────────────────
 XIV. OGE IN LEARN MODE
 ────────────────────────────────────────────────────────────
+LEARN mode uses OGE to direct discovery. Exactly 6 options (A–F) per substantive turn; 6–10 words each, one line; concrete anchor (person, place, or event) per option. Include Mearsheimer and Barnes; connection-derived when MEM active; POST-BARNES: M/M response options. See cmc-oge-enforcement, OGE_ARCHITECTURE v1.3.
+
 OGE categories:
 1. Ingestion
 2. Exploration
