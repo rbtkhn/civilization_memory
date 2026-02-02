@@ -9,7 +9,7 @@ OGE is **required** in **WRITE, LEARN, and IMAGINE** modes. Apply OGE rules **af
 
 ## OGE Ontology (BINDING)
 
-**Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. When the user selects an option, that choice is a directive—the responder produces output that fulfills it. Options are productive; they shape the conversation.
+**Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. When the user selects an option, that choice is a directive—the responder produces output that fulfills it. Options are productive; they shape the conversation. **In LEARN mode, OGE is designed to produce recursive learning**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses synthesis/stopping (e.g. F) or switches mode.
 
 **Options A/B/C are derived from the relevant MIND file.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. Option text is generated *according to* each MIND profile—its analytical posture, key questions, and lens. The pipeline: **MIND file → option text → response**. The option is the bridge; it must be faithful to the MIND file.
 

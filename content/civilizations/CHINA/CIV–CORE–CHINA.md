@@ -6,12 +6,12 @@ Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Version: 2.0
 Supersedes: V1.0
 Upgrade Type: TEMPLATE ALIGNMENT · HEADER COMPLIANCE · TYPO FIX
-Template Version Used: CIV–CORE–TEMPLATE v2.0
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Template Version Used: CIV–CORE–TEMPLATE v3.0
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Conceptual Lineage: SCE–CIV–CHINA V9.8 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (content expandable without renumbering)
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 • CIV–INDEX–CHINA v2.0 (MEM scope: 38 files)
 ARC Reference: CIV–ARC–CHINA v2.0
 Last Update: February 2026
@@ -160,7 +160,7 @@ MANDATORY OUTPUT:
 • Escalation Stability: STABLE / STRAINING / UNSTABLE
 
 ────────────────────────────────────────────────────────────
-IX. INTERNAL SECURITY & SOCIAL CONTROL
+IX. INTERNAL SECURITY & SOCIAL ORDER
 ────────────────────────────────────────────────────────────
 
 • Predictive policing

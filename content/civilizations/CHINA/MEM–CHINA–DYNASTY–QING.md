@@ -16,6 +16,8 @@ consolidation, cultural duality, and eventual systemic exhaustion**.
 The Qing represent both **peak imperial reach** and the point at which
 external pressures and internal rigidity converged irreversibly.
 
+This MEM aligns with CIV–SCHOLAR–CHINA DOCTRINE v0.1 (Non-Han Consolidation: Peak Then Exhaustion) and HEURISTIC CHINA–HW–01: peak reach through Sinicized administration and multi-ethnic framework; external pressure and internal rigidity converge irreversibly.
+
 ────────────────────────────────────────────────────────────
 II. DYNASTIC OVERVIEW (MEMORY)
 ────────────────────────────────────────────────────────────
@@ -129,7 +131,17 @@ Late Qing assessments captured the crisis:
 (Internal troubles and external threats.)
 
 ────────────────────────────────────────────────────────────
-IX. FAILURE, COLLAPSE, & ABSORPTION
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–CHINA–DYNASTY–YUAN — Dependency: Yuan as non-Han precedent; Qing as second non-Han consolidation. Breaks if removed: no precedent for Sinicized non-Han peak.
+• MEM–CHINA–MONGOL–KUBLAI–KHAN — Dependency: Kublai as legitimacy-translation precedent; hybrid authority. Breaks if removed: no figure-level precedent.
+• MEM–CHINA–WAR–BOXER–REBELLION — Dependency: Boxer as climactic defeat; humiliation narrative; Qing collapse. Breaks if removed: no terminus framing.
+• MEM–CHINA–ROC — Dependency: ROC as successor; Qing fall 1912. Breaks if removed: no successor framing.
+• MEM–CHINA–DYNASTY–MING — Dependency: Ming as pre-Qing imperial frame; Qing conquest of Ming. Breaks if removed: no dynastic context.
+• MEM–CHINA–WAR–SONG–YUAN — Dependency: Contrast—Mongol conquest vs Qing decline under foreign pressure. Breaks if removed: loss of conquest-type contrast.
+
+────────────────────────────────────────────────────────────
+X. FAILURE, COLLAPSE, & ABSORPTION
 ────────────────────────────────────────────────────────────
 The Qing collapsed under combined internal rebellion and external pressure.
 
@@ -143,7 +155,7 @@ A retrospective summary noted:
 (The Qing fell, and its system fractured.)
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Multi-ethnic empire can stabilize legitimacy through inclusion and ritual.  
 • Long peace can mask declining adaptive capacity.  
@@ -153,7 +165,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tensions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+XII. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
@@ -165,7 +177,7 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Qing as final imperial synthesis; tribute system and collision with West; century of humiliation as lasting strategic frame. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-XII. PRIMARY & SECONDARY SOURCES
+XIII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《清史稿》 Draft History of Qing  

@@ -154,7 +154,17 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — MARCO POLO (ARC–CHINA)
+────────────────────────────────────────────────────────────
+Marco Polo, *Il Milione* (trans. Henry Yule, 3rd ed. rev. Henri Cordier, 1903), Book Second, Part I, Chapter XXIV — paper currency (交钞) under Kublai:
+
+> "With these pieces of paper, made as I have described, he [Khubilai Khan] causes all payments on his own account to be made; and he makes them to pass current universally over all his kingdoms and provinces and territories, and whithersoever his power and sovereignty extends. And nobody, however important he may think himself, dares to refuse them on pain of death. And indeed everybody takes them readily, for wheresoever a person may go throughout the Great Kaan's dominions he shall find these pieces of paper current, and shall be able to transact all sales and purchases of goods by means of them just as well as if they were coins of pure gold."
+> — Marco Polo, *Il Milione*, Bk II Pt I Ch XXIV (trans. Yule). ARC–CHINA v1.0.
+
+Contemporary witness to Yuan fiscal practice; paper money as imperial instrument.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《元史》 History of Yuan  

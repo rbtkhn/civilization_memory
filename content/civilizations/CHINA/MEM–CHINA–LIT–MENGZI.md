@@ -1,4 +1,4 @@
-Title: MEM–CHINA–LITERATURE–MENGZI
+Title: MEM–CHINA–LIT–MENGZI
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
@@ -192,5 +192,5 @@ Secondary:
 • Mark Edward Lewis  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LITERATURE–MENGZI v1.1
+END OF FILE — MEM–CHINA–LIT–MENGZI v1.1
 ────────────────────────────────────────────────────────────

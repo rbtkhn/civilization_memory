@@ -1,4 +1,4 @@
-Title: MEM–CHINA–LITERATURE–KONGZI
+Title: MEM–CHINA–LIT–KONGZI
 Status: LOCKED
 Version: 1.2
 Civilization: CHINA (中华文明)
@@ -193,5 +193,5 @@ Secondary:
 • Yuri Pines  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LITERATURE–KONGZI v1.2
+END OF FILE — MEM–CHINA–LIT–KONGZI v1.2
 ────────────────────────────────────────────────────────────

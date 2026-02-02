@@ -178,7 +178,18 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 — Weatherford on empire formation, scale, succession (sons and grandsons), and multi-ethnic pragmatic integration. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-XIII. PRIMARY SOURCES & REFERENCES
+XIII. SOURCE EVIDENCE — MARCO POLO (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+Marco Polo — *Il Milione* (scale of empire and administration):
+
+> "With these pieces of paper, made as I have described, he [Khubilai Khan] causes all payments on his own account to be made; and he makes them to pass current universally over all his kingdoms and provinces and territories, and whithersoever his power and sovereignty extends. And nobody, however important he may think himself, dares to refuse them on pain of death. And indeed everybody takes them readily, for wheresoever a person may go throughout the Great Kaan's dominions he shall find these pieces of paper current, and shall be able to transact all sales and purchases of goods by means of them just as well as if they were coins of pure gold."
+> — Marco Polo, *Il Milione*, Bk II Pt I Ch XXIV (trans. Yule, 1903). ARC–CHINA v1.0.
+
+Contemporary witness to the extent of Mongol sovereignty and to Yuan administrative reach across kingdoms and provinces.
+
+────────────────────────────────────────────────────────────
+XIV. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《元史》 History of Yuan  

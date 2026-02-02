@@ -113,7 +113,7 @@ Format: [Author], [Work] (ARC–[CIV]-T-[PERIOD]) [ERC-ROLE]
 Examples:
 • MEM–CHINA–MONGOL–EMPIRE (TSP:NETWORK) may cite ARC–PERSIA, ARC–RUSSIA for Mongol transmission.
 • MEM–CHINA–SILK–ROAD may cite ARC–PERSIA, ARC–ROME for trade network sources.
-• MEM–CHINA–LIFE–MARCO–POLO may cite ARC–ROME, ARC–ISLAM for medieval travel accounts.
+• MEM–CHINA–MARCO–POLO may cite ARC–ROME, ARC–ISLAM for medieval travel accounts.
 
 ────────────────────────────────────────────────────────────
 VI. ORTHOGONALITY WITH ERC

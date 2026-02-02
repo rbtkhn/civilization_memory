@@ -1,4 +1,4 @@
-Title: MEM–CHINA–LIFE–MARCO–POLO
+Title: MEM–CHINA–MARCO–POLO
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
@@ -154,10 +154,18 @@ X. OPTIONAL TAGS (INDEXING)
 • EUROPEAN-IMAGINATION  
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — MARCO POLO (PRIMARY TEXT · VERBATIM)
+────────────────────────────────────────────────────────────
+Marco Polo and Rustichello of Pisa, *Il Milione* / *The Book of Ser Marco Polo* (trans. Henry Yule, 3rd ed. rev. Henri Cordier, London: John Murray, 1903), Book Second, Part I, Chapter XXIV — "How the Great Kaan Causeth the Bark of Trees, Made into Something Like Paper, to Pass for Money over All His Country":
+
+> "With these pieces of paper, made as I have described, he [Khubilai Khan] causes all payments on his own account to be made; and he makes them to pass current universally over all his kingdoms and provinces and territories, and whithersoever his power and sovereignty extends. And nobody, however important he may think himself, dares to refuse them on pain of death. And indeed everybody takes them readily, for wheresoever a person may go throughout the Great Kaan's dominions he shall find these pieces of paper current, and shall be able to transact all sales and purchases of goods by means of them just as well as if they were coins of pure gold."
+> — Marco Polo, *Il Milione*, Bk II Pt I Ch XXIV (trans. Yule). ARC–CHINA; primary source for Yuan paper currency (交钞).
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
-• *Il Milione* / 《马可·波罗行记》
+• *Il Milione* / 《马可·波罗行记》 (Yule–Cordier ed. 1903 for verbatim citation)
 
 Secondary:
 • Hans Ulrich Vogel, *Marco Polo Was in China* (2013)  

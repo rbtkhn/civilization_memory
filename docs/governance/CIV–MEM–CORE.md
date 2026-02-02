@@ -1297,10 +1297,16 @@ supplements but does not substitute for scholarly prose (Layer 1).
 ────────────────────────────────────────────────────────────
 XXIV.C ENFORCEMENT RULES
 ────────────────────────────────────────────────────────────
+VERSION RULE (BINDING — CORE v3.0+):
+• All new MEMs (and governance artifacts) created under CIV–MEM–CORE v3.0 MUST declare Version 3.0 or greater.
+• Header: "Version: 3.0" (or higher). Governed by: "CIV–MEM–CORE v3.0". END OF FILE stamp: "v3.0" (or higher).
+• No new file may be created with Version < 3.0 when governed by CORE v3.0. Existing files with Version < 3.0 remain valid until upgraded.
+
 NEW MEMs (created after v2.7 effective date):
 • Layer 1: MANDATORY (as before)
 • Layer 2: MANDATORY (type-specific fields required)
 • Layer 3: OPTIONAL (as applicable)
+• Version: 3.0 or greater (when created under CORE v3.0)
 
 EXISTING MEMs (created before v2.7):
 • Layer 1: MANDATORY (already present)
@@ -1308,7 +1314,8 @@ EXISTING MEMs (created before v2.7):
 • Layer 3: OPTIONAL (as applicable)
 
 Upgrade versioning: When Layer 2 fields are added to existing
-MEMs, version increments (e.g., v2.0 → v2.1).
+MEMs, version increments (e.g., v2.0 → v2.1). New files under
+CORE v3.0: Version 3.0 or greater.
 
 No migration deadline. Voluntary compliance encouraged.
 

@@ -155,6 +155,13 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 
 — Weatherford on Dadu-era infrastructure, maritime expansion, and Yuan administrative reordering; hybrid legitimacy and Confucian displacement. ARC–CHINA v1.0.
 
+**Marco Polo — *Il Milione*** (Cambaluc / Dadu as point of departure):
+
+> "When you leave the City of Cambaluc and have ridden ten miles, you come to a very large river which is called Pulisanghin, and flows into the ocean, so that merchants with their merchandise ascend it from the sea. Over this River there is a very fine stone bridge, so fine indeed, that it has very few equals."
+> — Marco Polo, *Il Milione*, Bk II Ch XXXV (trans. Yule, 1903). ARC–CHINA v1.0.
+
+Contemporary witness to Dadu (Khanbaliq) as imperial capital and to river/canal traffic linking capital to sea.
+
 ────────────────────────────────────────────────────────────
 XI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────

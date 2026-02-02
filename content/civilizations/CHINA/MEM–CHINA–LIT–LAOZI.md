@@ -1,4 +1,4 @@
-Title: MEM–CHINA–LITERATURE–LAOZI
+Title: MEM–CHINA–LIT–LAOZI
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)
@@ -176,5 +176,5 @@ Secondary:
 • Edward Slingerland  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LITERATURE–LAOZI v1.1
+END OF FILE — MEM–CHINA–LIT–LAOZI v1.1
 ────────────────────────────────────────────────────────────

@@ -7,6 +7,8 @@ alwaysApply: true
 
 When operating in the Civilizational Memory Codex under SCHOLAR mode. This protocol governs **LEARN** (and **IMAGINE** where noted); WRITE is governed by cmc-mode-contracts and cmc-blend-law.
 
+**Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses synthesis/stopping (e.g. F) or switches mode.
+
 ## Response Length (COGNITIVE LOAD)
 
 **When user selects an OGE option (a–f):**

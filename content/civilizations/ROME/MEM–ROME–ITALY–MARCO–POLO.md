@@ -191,7 +191,7 @@ Lessons:
 XII. PARALLEL ALIGNMENT NOTES
 ────────────────────────────────────────────────────────────
 Paired file:
-• MEM–CHINA–LIFE–MARCO–POLO
+• MEM–CHINA–MARCO–POLO
 
 Contrast axis:
 • China memory → Outsider observing empire

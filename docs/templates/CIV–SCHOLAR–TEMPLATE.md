@@ -1016,7 +1016,7 @@ but may NOT modify canonical SCHOLAR state.
 ────────────────────────────────────────────────────────────
 XI. OGE IN LEARN MODE (NEW · v2.1)
 ────────────────────────────────────────────────────────────
-LEARN mode uses OGE (Option Generation Engine) to direct discovery.
+LEARN mode uses OGE (Option Generation Engine) to direct discovery. **Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE; no single turn is intended to resolve the question—closure is deferred until the user chooses synthesis/stopping or switches mode.
 
 LEARN OGE CATEGORIES:
 1. INGESTION OPTIONS

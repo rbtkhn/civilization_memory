@@ -129,7 +129,7 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–GEO–MONGOLIA — Dependency: Steppe as seat of kurultai and regency. Breaks if removed: no geographic anchor.
 • MEM–CHINA–SILK–ROAD — Dependency: Routes and Yam under regency administration. Breaks if removed: no corridor continuity.
 • MEM–CHINA–XIONGNU — Dependency: Steppe precedent for confederation and succession. Breaks if removed: no steppe precedent.
-• MEM–CHINA–LITERATURE–KONGZI — Dependency: Contrast—Confucian gender norms vs Mongol regency. Breaks if removed: loss of civilizational contrast.
+• MEM–CHINA–LIT–KONGZI — Dependency: Contrast—Confucian gender norms vs Mongol regency. Breaks if removed: loss of civilizational contrast.
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES

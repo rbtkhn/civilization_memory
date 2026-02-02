@@ -1,4 +1,4 @@
-Title: MEM–CHINA–LIFE–ZHENGHE
+Title: MEM–CHINA–ZHENGHE
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)

@@ -26,6 +26,8 @@ violence against foreigners and Christians, then coalition
 retaliation that fixed the "century of humiliation" in
 Chinese strategic memory.
 
+CIV–SCHOLAR–CHINA SYNTHESIS 0005 encodes this outcome: late Qing external pressure and court vacillation produced defeat that fixed the "century of humiliation" narrative in strategic memory; DOCTRINE v0.2 (Rupture-to-Reconstitution) and SDI 0001/0002 (China ↔ Anglia defeat/authority) depend on Boxer as reference point.
+
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
@@ -152,11 +154,13 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–PRC — Dependency: PRC narrative of century of humiliation; Boxer in official memory. Breaks if removed: no contemporary encoding.
 • MEM–CHINA–PRC–MAO — Dependency: Mao-era use of humiliation narrative; anti-imperialism. Breaks if removed: no ideological continuity.
 • MEM–CHINA–GEO–MANCHURIA — Dependency: North China theater; Qing heartland. Breaks if removed: no geographic anchor.
-• MEM–CHINA–LITERATURE–KONGZI — Dependency: Contrast—Confucian order vs anti-foreign violence and coalition imposition. Breaks if removed: loss of civilizational contrast.
+• MEM–CHINA–LIT–KONGZI — Dependency: Contrast—Confucian order vs anti-foreign violence and coalition imposition. Breaks if removed: loss of civilizational contrast.
 • MEM–CHINA–WAR–SONG–YUAN — Dependency: Contrast—conquest by steppe vs humiliation by coalition. Breaks if removed: loss of war-type contrast.
 • MEM–CHINA–WAR–MONGOL–JIN — Dependency: Contrast—Mongol reversion vs foreign indemnity. Breaks if removed: loss of outcome contrast.
 • MEM–CHINA–DYNASTY–MING — Dependency: Pre-Qing imperial frame; tribute system precedent. Breaks if removed: no long-run context.
 • MEM–CHINA–XIONGNU — Dependency: Steppe/foreign pressure precedent; different resolution. Breaks if removed: loss of foreign-pressure pattern.
+
+Scholar: SYNTHESIS 0005, 0006; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES

@@ -17,6 +17,8 @@ coercive, administrative, and symbolic authority across a vast territory.
 The PRC is remembered as a **system of state reconstruction**, not merely a
 government.
 
+This MEM aligns with CIV–SCHOLAR–CHINA DOCTRINE v0.2 (Rupture-to-Reconstitution): fragmentation (ROC) reversed by party–state fusion and vertical penetration; authority consolidated before normalization.
+
 Contradictions are preserved without moral synthesis.
 
 ────────────────────────────────────────────────────────────
@@ -147,7 +149,16 @@ External pressure reinforces cohesion:
 (Development is the hard truth.)
 
 ────────────────────────────────────────────────────────────
-IX. CONTEMPORARY CONFIGURATION
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–CHINA–ROC — Dependency: PRC as revolutionary successor; fragmentation reversed by monopolization. Breaks if removed: no pre-reconstitution baseline.
+• MEM–CHINA–WAR–BOXER–REBELLION — Dependency: Century-of-humiliation narrative; Boxer as reference point in PRC official memory. Breaks if removed: no humiliation-frame encoding.
+• MEM–CHINA–DYNASTY–QING — Dependency: Qing as final imperial synthesis; PRC as post-imperial reconstitution. Breaks if removed: no imperial baseline.
+• MEM–CHINA–PRC–MAO — Dependency: Mao-era consolidation; radicalization and internal learning. Breaks if removed: no founding-phase framing.
+• MEM–CHINA–PRC–DENG — Dependency: Deng-era normalization; reform and opening. Breaks if removed: no post-Mao framing.
+
+────────────────────────────────────────────────────────────
+X. CONTEMPORARY CONFIGURATION
 ────────────────────────────────────────────────────────────
 The present PRC is characterized by:
 
@@ -164,7 +175,7 @@ The Party frames continuity as destiny:
 (The great rejuvenation of the Chinese nation.)
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • The PRC solved the 20th-century Chinese dilemma: building a state stronger than society.
 • Coercive consolidation precedes legitimacy normalization.
@@ -176,7 +187,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Power is preserved through adaptation, not rigidity.
 
 ────────────────────────────────────────────────────────────
-XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+XII. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
@@ -188,7 +199,7 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on PRC as civilizational reconstitution; continuity vs. rupture; strategic culture and performance legitimacy. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-XII. PRIMARY SOURCES & REFERENCES
+XIII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Mao Zedong writings  

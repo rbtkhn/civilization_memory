@@ -77,6 +77,13 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 
 — Weatherford on Song–Yuan conquest: land vs water logistics; Grand Canal; Yuan naval buildup; Zaytun–Hormuz. *Emperor of the Seas* (2024) to be added for maritime legitimacy and Xiangyang narrative when verbatim available. ARC–CHINA v1.0.
 
+**Marco Polo — *Il Milione*** (ships of Manzi / Yuan maritime capacity):
+
+> "The ships which sail in the Indian Seas are built of fir. They have but one deck, and above this deck there are in most cases more than sixty cabins, and in some cases more; and each of these cabins can accommodate one merchant very comfortably. They have one rudder and four masts, and often they have two masts more which can be shipped or unshipped at will. The larger vessels have thirteen divisions or bulkheads in the hold, made of strong planks fitted together, so that if the ship spring a leak in one place the hold is not flooded."
+> — Marco Polo, *Il Milione*, Bk III Ch I, "Of the Merchant Ships of Manzi that sail upon the Indian Seas" (trans. Yule, 1903). ARC–CHINA v1.0.
+
+Contemporary witness to Yuan-era shipping capacity; complements Weatherford on junks and Zaytun–Hormuz.
+
 ────────────────────────────────────────────────────────────
 V. OUTCOME & LEGITIMACY
 ────────────────────────────────────────────────────────────
@@ -146,7 +153,7 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–SILK–ROAD — Dependency: Post-war Zaytun–Hormuz, maritime routes. Breaks if removed: no connectivity legacy.
 • MEM–CHINA–GEO–TAIWAN — Dependency: Taiwan and coastal geography; Song flight, Yuan maritime reach. Breaks if removed: no maritime theater.
 • MEM–CHINA–DYNASTY–MING — Dependency: Ming as successor to Yuan; conquest lesson. Breaks if removed: no successor framing.
-• MEM–CHINA–LIFE–ZHENGHE — Dependency: Contrast—Ming maritime projection; Yuan naval precedent. Breaks if removed: loss of maritime continuity.
+• MEM–CHINA–ZHENGHE — Dependency: Contrast—Ming maritime projection; Yuan naval precedent. Breaks if removed: loss of maritime continuity.
 • MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA — Dependency: Pax and trade routes post-conquest. Breaks if removed: no connectivity framing.
 • MEM–CHINA–WAR–MONGOL–JIN — Dependency: Jin fall 1234; Mongol North China before Song campaign. Breaks if removed: no prior phase.
 

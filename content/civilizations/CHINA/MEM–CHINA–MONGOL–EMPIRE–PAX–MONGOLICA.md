@@ -70,6 +70,13 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 
 — Weatherford on Pax Mongolica: persistent universalism, "no system of their own," pragmatic solutions; nucleus of universal culture; paiza and trade. ARC–CHINA v1.0.
 
+**Marco Polo — *Il Milione*** (universal applicability across imperial corridors):
+
+> "With these pieces of paper, made as I have described, he [Khubilai Khan] causes all payments on his own account to be made; and he makes them to pass current universally over all his kingdoms and provinces and territories, and whithersoever his power and sovereignty extends. And nobody, however important he may think himself, dares to refuse them on pain of death. And indeed everybody takes them readily, for wheresoever a person may go throughout the Great Kaan's dominions he shall find these pieces of paper current, and shall be able to transact all sales and purchases of goods by means of them just as well as if they were coins of pure gold."
+> — Marco Polo, *Il Milione*, Bk II Pt I Ch XXIV (trans. Yule, 1903). ARC–CHINA v1.0.
+
+Contemporary witness to universal acceptability and movement across Mongol-ruled corridors under Pax; complements Weatherford on paiza and trade.
+
 ────────────────────────────────────────────────────────────
 V. LEGITIMACY & CIVILIZATIONAL ENCODING
 ────────────────────────────────────────────────────────────
@@ -123,8 +130,8 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–GEO–XINJIANG — Dependency: Western Regions as land segment. Breaks if removed: no node in corridor.
 • MEM–CHINA–DYNASTY–MING — Dependency: Post-Mongol inheritance of techniques. Breaks if removed: no successor framing.
 • MEM–CHINA–DYNASTY–SONG — Dependency: Song commercial context; Mongol conquest of Song. Breaks if removed: no pre-Pax commercial baseline.
-• MEM–CHINA–LIFE–MARCO–POLO — Dependency: Travel narrative under Pax. Breaks if removed: no contemporary witness.
-• MEM–CHINA–LITERATURE–KONGZI — Dependency: Contrast—Confucian order vs Mongol pragmatic universalism. Breaks if removed: loss of civilizational contrast.
+• MEM–CHINA–MARCO–POLO — Dependency: Travel narrative under Pax. Breaks if removed: no contemporary witness.
+• MEM–CHINA–LIT–KONGZI — Dependency: Contrast—Confucian order vs Mongol pragmatic universalism. Breaks if removed: loss of civilizational contrast.
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES

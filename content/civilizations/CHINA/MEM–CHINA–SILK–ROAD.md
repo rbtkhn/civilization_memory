@@ -104,6 +104,13 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 
 — Weatherford on Silk Road under Mongol rule: land vs water logistics, paiza (passport/credit), Grand Canal, Zaytun–Hormuz sea link. ARC–CHINA v1.0.
 
+**Marco Polo — *Il Milione*** (paper currency as corridor of flow):
+
+> "With these pieces of paper, made as I have described, he [Khubilai Khan] causes all payments on his own account to be made; and he makes them to pass current universally over all his kingdoms and provinces and territories, and whithersoever his power and sovereignty extends. And nobody, however important he may think himself, dares to refuse them on pain of death. And indeed everybody takes them readily, for wheresoever a person may go throughout the Great Kaan's dominions he shall find these pieces of paper current, and shall be able to transact all sales and purchases of goods by means of them just as well as if they were coins of pure gold."
+> — Marco Polo, *Il Milione*, Bk II Pt I Ch XXIV (trans. Yule, 1903). ARC–CHINA v1.0.
+
+Contemporary witness to universal acceptability of script across Mongol-ruled corridors; complements Weatherford on paiza and routes.
+
 ────────────────────────────────────────────────────────────
 VI. CONNECTIVITY OUTLASTING EMPIRE
 ────────────────────────────────────────────────────────────
@@ -139,7 +146,7 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–GEO–MONGOLIA — Dependency: Steppe as origin of Mongol corridor control. Breaks if removed: no territorial anchor.
 • MEM–CHINA–DYNASTY–HAN — Dependency: Early Western Regions, “open the Western Regions.” Breaks if removed: no pre-Mongol precedent.
 • MEM–CHINA–DYNASTY–TANG — Dependency: Tang corridor policy, Silk Road zenith pre-Mongol. Breaks if removed: no medieval continuity.
-• MEM–CHINA–LIFE–MARCO–POLO — Dependency: Travel narrative along Mongol-secured routes. Breaks if removed: no contemporary witness.
+• MEM–CHINA–MARCO–POLO — Dependency: Travel narrative along Mongol-secured routes. Breaks if removed: no contemporary witness.
 • MEM–CHINA–DYNASTY–MING — Dependency: Post-Mongol corridor policy, inward turn. Breaks if removed: no successor framing.
 
 ────────────────────────────────────────────────────────────

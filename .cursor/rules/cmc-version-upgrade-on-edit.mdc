@@ -1,0 +1,33 @@
+---
+description: When modifying a versioned file below v3.0, upgrade it to v3.0 in the same edit
+alwaysApply: true
+---
+
+# CMC Version Upgrade on Edit
+
+When you **modify** any file that declares a version **less than v3.0**, upgrade that file to **v3.0** in the **same edit**.
+
+## Scope
+
+- Applies to files that contain a version declaration (e.g. `Version: 2.0`, `v2.10`, `— v1.2`, `Template Version Used: … v2.0`, `Governed by: … v2.9`).
+- Typical locations: `content/civilizations/**/*.md`, `docs/**/*.md` (governance, templates), and any CIV–*, MEM–*, CIV–CORE–*, CIV–SCHOLAR–*, CIV–INDEX–*, CIV–ARC–*, CIV–DOCTRINE–* files.
+
+## What to update in the same edit
+
+1. **Version line** — Set to `v3.0` (or `Version: 3.0` as used in the file).
+2. **Supersedes** — Set to the previous version (e.g. `Supersedes: v2.0` or `Supersedes: CIV–SCHOLAR–TEMPLATE v2.10`).
+3. **Upgrade Type** — Add or set to reflect alignment (e.g. `Upgrade Type: ALIGNMENT · v3.0` or `AUDIT ALIGNMENT · VERSION BUMP`).
+4. **Compatibility / Governed by / Template Version Used** — If present and referring to CORE, TEMPLATE, or PROTOCOL, update to v3.0 (e.g. `CIV–MEM–CORE v3.0`, `CIV–SCHOLAR–TEMPLATE v3.0`, `CIV–SCHOLAR–PROTOCOL v3.0`).
+5. **END OF FILE line** — If the file has an `END OF FILE — … vX.Y` line, set it to `… v3.0`.
+
+## When not to upgrade
+
+- **New files** — Set version to v3.0 (or v1.0 if the project convention for new artifacts is v1.0); no “upgrade” from a lower version.
+- **Read-only or audit-only** — If the task is only to read or audit and you do not change content, do not change version.
+- **File already at v3.0** — No version change.
+
+## Summary
+
+**Edit + version < v3.0 → in the same edit, bump to v3.0 and update Supersedes, Upgrade Type, Compatibility/Governed by/Template Version Used, and END OF FILE as applicable.**
+
+Reference: CMC–BOOTSTRAP v3.0, CIV–MEM–CORE v3.0 version bindings.
