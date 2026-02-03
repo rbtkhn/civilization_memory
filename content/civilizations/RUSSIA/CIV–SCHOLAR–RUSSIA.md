@@ -1,13 +1,13 @@
-CIV–SCHOLAR–RUSSIA — v3.0
+CIV–SCHOLAR–RUSSIA — v3.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–SCHOLAR–RUSSIA v2.6
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: CIV–SCHOLAR–RUSSIA v3.0
+Upgrade Type: ALIGNMENT · CORPUS EXPANSION v3.1
 Last Update: February 2026
 Word Count: ~13,200
 
@@ -33,7 +33,7 @@ Lock Semantics:
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v3.0 is the **constraint grammar layer**
+CIV–SCHOLAR–RUSSIA v3.1 is the **constraint grammar layer**
 governing all Russian civilizational interpretation across MEM,
 CORE, DOCTRINE, GAME, and SIMULATION contexts.
 
@@ -409,6 +409,42 @@ RLL–RUSSIA–0024 — Chokepoint Permanence Law
   as basis for political authority; bypass as decline mechanism.
   **Template**: Venice post-1492, Hansa dissolution, Moscow continuity.
 
+RLL–RUSSIA–0027 — Mountain Function Gradient Law  
+→ The higher and more fragmented the range, the more it blocks and
+  absorbs; the lower and more permeable, the more it organises and
+  extends. Urals = hinge; Altai = junction; Caucasus = barrier;
+  Carpathians = external shaper.
+  **Recursive move**: When reading a mountain GEO–MEM, ask which
+  function applies (organise/extend vs channel vs absorb vs shape
+  approach) and bind to elevation and pass structure.
+  **Binding**: MEM–RUSSIA–GEO–URALS, MEM–RUSSIA–GEO–ALTAI,
+  MEM–RUSSIA–GEO–CAUCASUS, MEM–RUSSIA–GEO–CARPATHIANS.
+  **Template**: Pre-1600 (Bulgar 1236, Mongol Altai staging,
+  Jebe/Subutai Caucasus, 1241 Carpathians).
+
+RLL–RUSSIA–0028 — Gate Encoding Duality Law  
+→ Gate as limit (Daryal: between two spheres) vs gate as pivot
+  (Mongolian Gate: between multiple zones). Same pass-control logic;
+  two civilizational grammars.
+  **Recursive move**: When a pass or corridor is encoded as "gate,"
+  ask whether it functions as boundary between two encoded spheres or
+  as junction between multiple zones; legitimacy of pass-holders
+  differs accordingly.
+  **Binding**: MEM–RUSSIA–GEO–CAUCASUS, MEM–RUSSIA–GEO–ALTAI.
+  **Template**: Byzantine–Sasanian to "lands of Rus and Islam";
+  Daryal vs Mongolian Gate.
+
+RLL–RUSSIA–0029 — Volga–Ob Spine Duality Law  
+→ Volga = core spine (integration, exposure, Caspian/Don); Ob–Irtysh
+  = depth spine (interior, sanctuary, Arctic). Two spines, two
+  incentive structures.
+  **Recursive move**: When reading river GEO–MEMs or military/corridor
+  logic, ask whether the river functions as core (integration, exposure)
+  or depth (interior, sanctuary); incentive to hold follows.
+  **Binding**: MEM–RUSSIA–GEO–VOLGA–RIVER, MEM–RUSSIA–SIBERIA,
+  MEM–RUSSIA–WAR–SIBIR–KHANATE, MEM–RUSSIA–GEO–OB–RIVER (created 2026-02).
+  **Template**: Ob military history; Sibir campaign; Moscow waterway chain.
+
 All GEO RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
@@ -444,6 +480,53 @@ RLL–RUSSIA–0026 (PROPOSED) — Power Vacuum at Regime Hinge Law
   **Derivation**: LEARN session 2026-02-02; Mearsheimer sharpening on
   1917 (Provisional Government vs Soviet vs Bolshevik seizure).
   **Scope**: GENERAL. **Status**: PENDING BINDING.
+
+────────────────────────────────────────────────────────────
+V.E PROPOSED MEM GENERATION OPPORTUNITIES (FROM RECENT LEARNING)
+────────────────────────────────────────────────────────────
+The following three MEMs are suggested for creation based on the
+LEARN session (Russia GEO mountain MEMs, Ob military history,
+Volga–Ob spine duality, gate encoding, Rhipaean/Altai encoding).
+Binding requires user decision to create; Scholar may draft in WRITE mode.
+
+**1. MEM–RUSSIA–GEO–OB–RIVER** (GEO–MEM) — **CREATED 2026-02**  
+**Purpose:** Ob–Irtysh as **depth spine** (RLL–RUSSIA–0029); movement
+corridor; military history as corridor/conquest/depth (Sibir Khanate,
+Yermak, forts, yasak); link to Altai headwaters (Biya, Katun, Irtysh);
+contrast with Volga (core spine).  
+**Rationale:** RLL–0029 binding; MEM–RUSSIA–GEO–ALTAI references
+MEM–RUSSIA–GEO–OB–RIVER in connections. Fills structural gap and
+completes depth-spine encoding.  
+**Binding:** MEM–RUSSIA–GEO–ALTAI, MEM–RUSSIA–SIBERIA,
+MEM–RUSSIA–WAR–SIBIR–KHANATE, MEM–RUSSIA–GEO–VOLGA–RIVER (contrast).
+**Class:** GEO–MEM (MEARSHEIMER strategic cognition).
+
+**2. MEM–RUSSIA–ALTAI** (Subject MEM)  
+**Purpose:** Civilizational narrative for the Altai; complements
+MEM–RUSSIA–GEO–ALTAI. Ob headwaters as civilizational watershed
+("source" and legitimacy); Mongolian Gate as pivot (gate encoding,
+RLL–0028); quadruple junction as limit/source encoding; Rashid al-Din,
+Secret History, Lattimore; Turkic/Mongol staging and sacred heights.  
+**Rationale:** MEM–RUSSIA–GEO–ALTAI states "For civilizational analysis,
+see: MEM–RUSSIA–ALTAI" but no such Subject MEM exists. Completes
+GEO/Subject pair and captures Mercouris civilizational layer.  
+**Binding:** MEM–RUSSIA–GEO–ALTAI, MEM–RUSSIA–SIBERIA,
+MEM–RUSSIA–GEO–OB–RIVER (when created), MEM–RUSSIA–WAR–SIBIR–KHANATE.
+**Class:** Subject MEM (MERCOURIS civilizational cognition).
+
+**3. MEM–RUSSIA–ENCODING–NORTHERN–LIMIT** (Subject MEM / thematic)  
+**Purpose:** Rhipaean/Altai encoding of northern mountains as **limit**,
+**source**, and **pivot** across traditions. Herodotus "none can say
+what lies beyond"; Sima Qian "another world"; Rashid al-Din "centre
+from which all waters descend"; Lattimore Inner Asian frontier;
+non-closure at the limit. Cross-mountain civilizational pattern.  
+**Rationale:** Session traced encoding from Herodotus to Lattimore;
+pattern is distinct from any single GEO–MEM and supports RLL–0027/0028
+civilizational layer. Thematic MEM for limit/source encoding.  
+**Binding:** MEM–RUSSIA–GEO–URALS, MEM–RUSSIA–GEO–ALTAI,
+MEM–RUSSIA–GEO–CAUCASUS (as limit encodings); ARC Herodotus, Pliny,
+Sima Qian, Rashid al-Din, Lattimore.
+**Class:** Subject MEM (MERCOURIS civilizational cognition; thematic).
 
 ────────────────────────────────────────────────────────────
 VI. NEGATIVE CAPABILITY ZONE (v2.5 TEMPLATE FORMAT)
@@ -676,7 +759,7 @@ v3.0 changes (ALIGNMENT · v3.0):
 • All template/protocol/MEM-template refs updated to v3.0
 • Section XVIII: CONTEXT LOADING PROTOCOLS added (Template § XIII binding)
 • Section XIX: SYNTHESIS TRADECRAFT REQUIREMENTS added (Template § XIV binding)
-• No axioms, RLLs, or constraints changed
+• RLL–RUSSIA–0027, 0028, 0029 bound (user authorization); moved from V.D PROPOSED to V.C GEO MEM RLLs (Mountain Function Gradient, Gate Encoding Duality, Volga–Ob Spine Duality)
 
 Session 2026-02-02 (LEARN · recursive):
 • Section V.D PROPOSED RLLs (PENDING USER AUTHORIZATION) added
@@ -695,6 +778,9 @@ Session 2026-02-02 (LEARN · recursive):
 • Applied 0025 to 1703 and 1721; MEMs: 1703 — Petersburg, Peter Great, Arkhangelsk, Riga, Latvia; 1721 — Muscovy, Peter Great, War Great Northern Poltava, Sweden, Estonia, Latvia, Holy Synod
 • **Session recap:** RLL–RUSSIA–0025 applied to all earlier hinges (988, 1240, 1480, 1613, 1552, 1703, 1721); Earlier hinge moments table in § V.D complete with end/start lines; Mercouris/Mearsheimer readings on 988, 1240, 1552; 0025 and 0026 remain PENDING BINDING.
 • LEARN · GEO–Volga / GEO–Dnieper: contemplated MEM–RUSSIA–GEO–VOLGA–RIVER, MEM–RUSSIA–GEO–DNEIPER–RIVER; Moscow chain (Moskva–Oka–Volga–Caspian) closed; Volga two conditional outlets (south Volga–Don, north Volga–Baltic); Dnieper exposure corridor, sacral center (Kiev); RLL–0018, 0021; synthesis preserved; OGE vocabulary feedback noted (Barnes/Mearsheimer/Mercouris—vary jurisdiction, force ratio, legitimacy).
+• LEARN · GEO–Russia mountain MEMs: contemplated MEM–RUSSIA–GEO–URALS, ALTAI, CAUCASUS, CARPATHIANS; hinge/junction/barrier/external shaper gradient; Altai → Ob headwaters, Chuya Highway, Mongolian Gate; Rhipaean/Altai encoding (Herodotus to Lattimore); Daryal vs Mongolian Gate (gate as limit vs pivot); Byzantine–Sasanian to "lands of Rus and Islam"; Ob military history (corridor, Sibir, Yermak); Volga vs Ob (core spine vs depth spine). **RLLs 0027, 0028, 0029** proposed then **BOUND** (user authorization); moved from § V.D to § V.C (Mountain Function Gradient, Gate Encoding Duality, Volga–Ob Spine Duality).
+• WRITE · Proposed three new MEMs from recent learning (see below).
+• WRITE · Generated MEM–RUSSIA–GEO–OB–RIVER (GEO–MEM, v3.0); depth spine (RLL–0029); corridor/conquest/yasak; Altai headwaters; contrast Volga; ARC A–D; RLL binding; added to CIV–INDEX–RUSSIA; RLL–0029 binding updated.
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance
@@ -738,7 +824,7 @@ v2.2.1 changes:
 ────────────────────────────────────────────────────────────
 XVI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v3.0 is declared:
+CIV–SCHOLAR–RUSSIA v3.1 is declared:
 
 • CANONICAL
 • LOCKED
@@ -786,5 +872,5 @@ As per CIV–SCHOLAR–TEMPLATE v3.0 Section XIV:
 Frozen SYNTHESIS without Assumptions Box or (when applicable) ACH Record is INVALID.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v3.0
+END OF FILE — CIV–SCHOLAR–RUSSIA v3.1
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–RUSSIA–WAR–GREAT–PATRIOTIC–BERLIN — v2.0
+MEM–RUSSIA–WAR–GREAT–PATRIOTIC–BERLIN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · WAR MEM CALIBRATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KEEGAN VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Berlin (Битва за Берлин)
 Dates: April 16 – May 2, 1945
@@ -62,6 +63,19 @@ German position:
 • Collapse imminent
 
 The question was not *whether* Berlin would fall, but *who* would take it.
+
+John Keegan records the manpower calculus that made the 1945 offensive
+possible:
+
+> "The Stavka calculated that there were 16 million men of military age
+> in Russia and that the strength of the Red Army could be raised to 9
+> million in 1942; allowing for 3 million already taken prisoner and a
+> million dead, there would still be enough men to fill 400 divisions
+> and provide replacements."
+> — Keegan, *The Second World War* (1990)
+
+The drive to Berlin drew on that same depth—replenished and expanded
+by 1945.
 
 ────────────────────────────────────────────────────────────
 II.A REALIST SHARPENING: POLITICAL OBJECTIVE
@@ -303,6 +317,7 @@ XII. MEM BIBLIOGRAPHY
   London: Weidenfeld & Nicolson, 1983.
 • Ryan, Cornelius. *The Last Battle*.
   New York: Simon & Schuster, 1966.
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -321,5 +336,5 @@ G. Legitimacy harvest — arc completion
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–BERLIN v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–BERLIN v3.0
 ────────────────────────────────────────────────────────────

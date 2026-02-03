@@ -167,6 +167,12 @@ could react, and used morale as a force multiplier that allowed smaller
 Russian forces to defeat larger opponents."
 — Robert K. Massie, *Catherine the Great: Portrait of a Woman* (2011)
 
+**John Keegan — *The Face of Battle***:
+
+> "Military history from the battlefield: an imperishable account of the
+> direct experience of individuals at 'the point of maximum danger.'"
+> — Keegan, *The Face of Battle* (1976)
+
 • Suppression of Polish uprisings
 • Italian and Swiss campaigns against Revolutionary France
 

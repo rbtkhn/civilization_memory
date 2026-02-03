@@ -113,6 +113,12 @@ The realist sharpening adds: codification is itself an act of power.
   served princely interests in controlling violence among retainers;
   law-giving is power
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "The sad truth is that might often makes right when great-power
+> politics are at play."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid:
 • The Pravda did draw on existing practices
 • Codification was also an assertion of princely authority
@@ -281,6 +287,8 @@ Category A (Primary Sources):
 • Russkaya Pravda (multiple manuscript traditions)
 
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Franklin, Simon. *Writing, Society and Culture in Early Rus,
   c. 950–1300*. Cambridge: Cambridge University Press, 2002.
 • Kaiser, Daniel. *The Growth of the Law in Medieval Russia*.

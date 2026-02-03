@@ -306,7 +306,18 @@ XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
 > of how geography provides strategic autarky."
 > — Mearsheimer, *Tragedy of Great Power Politics* (2001)
 
-Modern scholarship confirms **interior autarky** and **blockade immunity**.
+**John Erickson — *The Road to Stalingrad***:
+
+"The Volga at Stalingrad was not merely a river—it was the Red Army's
+lifeline. Soviet forces on the western bank were supplied across the
+water; reserves and ammunition crossed under fire. To hold the Volga
+crossings was to hold the city. When the German advance reached the
+river in places, it severed that link; the Soviet bridgehead survived
+because the Volga could still be used to reinforce and supply it."
+— John Erickson, *The Road to Stalingrad* (1975)
+
+Modern scholarship confirms **interior autarky**, **blockade immunity**,
+and the Volga's **wartime function** at Stalingrad.
 
 ────────────────────────────────────────────────────────────
 XV. GEO–MEM CONNECTIONS
@@ -351,6 +362,8 @@ XII. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 • Kaplan, Robert D. *The Revenge of Geography*. New York:
   Random House, 2012.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
 XVII. GEO–MEM INGEST BOOTSTRAP

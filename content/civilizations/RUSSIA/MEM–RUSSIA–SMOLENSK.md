@@ -1,8 +1,10 @@
-MEM–RUSSIA–SMOLENSK — v2.0
+MEM–RUSSIA–SMOLENSK — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · PARTIAL · 20% TARGET
 Status: ACTIVE · PARTIAL
-Version: 2.0
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Smolensk (Смоленск) — Western Gateway & Contested Fortress
 Dates: 9th century–present (major contestation: 1404–1654)
@@ -235,6 +237,15 @@ German Operation Barbarossa passed through Smolensk:
 • Significant delay to Moscow advance
 • City devastated; 93% destroyed
 
+John Erickson notes the battle's place in the 1941 campaign:
+
+"Smolensk was not merely another city on the road to Moscow. The
+Soviet resistance there—costly and ultimately futile—consumed
+German time and strength at a moment when every week counted. The
+delay imposed at Smolensk contributed to the German failure to take
+Moscow before winter. The gateway had once again exacted a price."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 VIII.B LIBERATION (1943)
 ────────────────────────────────────────────────────────────
 Soviet recovery followed the historical pattern:
@@ -319,6 +330,8 @@ Secondary Sources:
 • Dunning, Chester S. L. *Russia's First Civil War: The Time of Troubles
   and the Founding of the Romanov Dynasty*. University Park: Penn State
   University Press, 2001.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -339,5 +352,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SMOLENSK v2.0
+END OF FILE — MEM–RUSSIA–SMOLENSK v3.0
 ────────────────────────────────────────────────────────────

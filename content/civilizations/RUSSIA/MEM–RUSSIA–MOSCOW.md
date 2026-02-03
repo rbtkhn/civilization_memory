@@ -1,10 +1,10 @@
-MEM–RUSSIA–MOSCOW — v2.1
+MEM–RUSSIA–MOSCOW — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · PARTIAL · 20% TARGET
 Status: ACTIVE · PARTIAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: QUOTE ENHANCEMENT + CONNECTION JUSTIFICATION
+Version: 3.0
+Supersedes: v2.1
+Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Moscow (Москва) — Sacred Capital & Autocratic Center
 Dates: 1147 AD–present (capital: 1328–1712, 1918–present)
@@ -319,6 +319,21 @@ Soviet transfer of capital back to Moscow (March 1918) encodes:
 
 Moscow's restoration confirms its civilizational centrality.
 
+VII.C THE 1941 DEFENSE
+────────────────────────────────────────────────────────────
+The German advance was halted at the gates of Moscow in December 1941.
+
+John Erickson explains the significance:
+
+"The Siberian divisions were the margin of survival. These were
+not second-line troops but elite formations, winter-trained and
+fully equipped. Their arrival transformed the balance at the
+Moscow front. The capital did not fall because the Red Army held
+the line—and because the line was reinforced in time."
+— John Erickson, *The Road to Stalingrad* (1975)
+
+Moscow's survival in 1941 reinforced its claim as **indestructible center**.
+
 ────────────────────────────────────────────────────────────
 VIII. MOSCOW AS STRUCTURAL CORRECTION OF KIEV
 ────────────────────────────────────────────────────────────
@@ -493,6 +508,8 @@ Secondary Sources:
 • Poe, Marshall. "Moscow, the Third Rome: The Origins and Transformations
   of a 'Pivotal Moment'." *Jahrbücher für Geschichte Osteuropas* 49,
   no. 3 (2001): 412–429.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY · v2.8)
@@ -513,5 +530,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MOSCOW v2.1
+END OF FILE — MEM–RUSSIA–MOSCOW v3.0
 ────────────────────────────────────────────────────────────

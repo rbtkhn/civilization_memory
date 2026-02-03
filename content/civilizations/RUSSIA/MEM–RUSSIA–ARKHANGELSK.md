@@ -102,6 +102,15 @@ The realist sharpening adds: the port demonstrated Russia's weakness.
   great powers require year-round oceanic access; seasonal ports
   are inadequate for genuine maritime power
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Arkhangelsk was genuine commercial achievement
 • Arkhangelsk was also symptom of Baltic exclusion
@@ -266,6 +275,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Bushkovitch, Paul. *Peter the Great: The Struggle for Power, 1671–1725*.
   Cambridge: Cambridge University Press, 2001.
 • Hughes, Lindsey. *Russia in the Age of Peter the Great*.

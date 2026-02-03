@@ -147,6 +147,12 @@ The polyphonic tension:
 • Mercouris: Third Rome as genuine civilizational identity
 • Mearsheimer: Third Rome as ideological instrument for power projection
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "The sad truth is that might often makes right when great-power
+> politics are at play."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid. The doctrine was BOTH belief AND tool.
 Sincerity and instrumentality are not mutually exclusive.
 
@@ -282,6 +288,8 @@ PRIMARY SOURCES:
 • Moscow Patriarchate founding documents (1589)
 
 SECONDARY SOURCES:
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Poe, Marshall. "Moscow, the Third Rome: The Origins and Transformations
   of a 'Pivotal Moment'." *Jahrbücher für Geschichte Osteuropas* 49,
   no. 3 (2001): 412–429.

@@ -296,9 +296,15 @@ XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
 ────────────────────────────────────────────────────────────
 **John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
 
-> "Ukraine's strategic significance derives from its geography.
-> The Dnieper divides the country and provides access to the
-> Black Sea—making it an object of great power competition."
+> "Putin's actions should be easy to comprehend. A huge expanse of
+> flat land that Napoleonic France, imperial Germany, and Nazi Germany
+> all crossed to strike at Russia itself, Ukraine serves as a buffer
+> state of enormous strategic importance to Russia."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Roughly 15 million people—one-third of Ukraine's population—live
+> between the Dnieper River, which bisects the country, and the Russian
+> border."
 > — Mearsheimer, *Foreign Affairs* (2014)
 
 **Robert Kaplan — *The Revenge of Geography***:
@@ -308,7 +314,8 @@ XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
 > commands Ukraine's economic and military destiny."
 > — Kaplan, *The Revenge of Geography* (2012)
 
-Modern scholarship confirms **contested strategic line**.
+Modern scholarship confirms **buffer logic**, **Dnieper as bisector**,
+and **contested strategic line**.
 
 ────────────────────────────────────────────────────────────
 XV. GEO–MEM CONNECTIONS
@@ -347,6 +354,8 @@ XII. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 • Kaplan, Robert D. *The Revenge of Geography*. New York:
   Random House, 2012.
+• Erickson, John. *The Road to Berlin: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1983.
 
 ────────────────────────────────────────────────────────────
 XVII. GEO–MEM INGEST BOOTSTRAP

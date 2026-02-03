@@ -308,6 +308,15 @@ XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
 > simultaneously."
 > — Mearsheimer, *Tragedy of Great Power Politics* (2001)
 
+**John Erickson — *The Road to Stalingrad***:
+
+"The Don bend was the gateway to Stalingrad. German forces crossing
+the Don in summer 1942 aimed at the Volga; the Soviet defense of the
+Don bridgeheads—costly and ultimately broken—delayed that advance
+and shaped the battle that followed. The river did not stop the
+invader; it defined the axis of the campaign."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 Modern scholarship confirms **bidirectional exposure** and **projection logic**.
 
 ────────────────────────────────────────────────────────────
@@ -345,6 +354,8 @@ XII. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 • Kaplan, Robert D. *The Revenge of Geography*. New York:
   Random House, 2012.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
 XVII. GEO–MEM INGEST BOOTSTRAP

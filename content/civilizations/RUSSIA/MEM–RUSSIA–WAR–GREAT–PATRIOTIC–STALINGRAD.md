@@ -86,6 +86,13 @@ only by destroying everything, and destruction favored the
 defender who knew every pile of rubble."
 — Antony Beevor, *Stalingrad: The Fateful Siege* (1998)
 
+**John Keegan — *The Second World War***:
+
+> "For every house, workshop, water-tower, railway embankment, wall,
+> cellar and every pile of ruins a bitter battle was waged, without
+> equal even in the First World War."
+> — Keegan, *The Second World War* (1990)
+
 Urban terrain inverted German advantages.
 
 ────────────────────────────────────────────────────────────
@@ -205,11 +212,24 @@ road to Berlin, heroism rewarded.
 
 The realist sharpening adds: the cost was staggering.
 
+**John Keegan — *The Second World War***:
+
+> "The kernel of his Stalingrad concentration, in short, was German; the
+> shell was not."
+> — Keegan, *The Second World War* (1990)
+
 • Mercouris: Stalingrad proved Soviet military capability,
   justified the system, honored the sacrifice
 • Mearsheimer: Soviet casualties exceeded German; victory
   came through mass and attrition, not operational brilliance;
   the 62nd Army was expendable
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • The victory was real and decisive
@@ -231,6 +251,13 @@ Effects:
 • Sacrifice = moral authority
 
 The battle became **the** symbol of Soviet determination.
+
+**John Keegan — *The Second World War***:
+
+> "There was no need for the fabrication of epic in Russia. On the news
+> of Paulus's surrender the bells of the Kremlin were rung to celebrate
+> the first undeniable Russian victory of the war."
+> — Keegan, *The Second World War* (1990)
 
 ────────────────────────────────────────────────────────────
 IX. CIVILIZATIONAL MEMORY FUNCTION
@@ -291,6 +318,9 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 • Beevor, Antony. *Stalingrad: The Fateful Siege, 1942–1943*.
   New York: Viking, 1998.
 • Glantz, David M., and Jonathan House. *When Titans Clashed*.

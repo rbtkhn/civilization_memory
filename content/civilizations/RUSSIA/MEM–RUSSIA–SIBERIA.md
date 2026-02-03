@@ -222,7 +222,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–GULAG — Soviet intensification of Siberian penal function
 • MEM–RUSSIA–PETER–GREAT — administrative systematization of Siberian extraction
 • MEM–RUSSIA–EXILE–SYSTEM — Siberia as punishment geography; political removal
-• MEM–RUSSIA–TRANS–SIBERIAN — infrastructure binding Siberia to core Russia
+• MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — infrastructure binding Siberia to core Russia
 • MEM–RUSSIA–DECEMBRISTS — exiles who shaped Siberian intellectual culture
 • MEM–RUSSIA–INDUSTRIALIZATION — Soviet megaprojects and resource extraction
 

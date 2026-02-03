@@ -1,10 +1,10 @@
-MEM–RUSSIA–SOVIET–UNION — v2.0
+MEM–RUSSIA–SOVIET–UNION — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · V3.0 COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KISSINGER K2/K3 DÉTENTE (EVENTS IN LIFETIME)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Soviet Union (Союз Советских Социалистических Республик)
 Dates: 1922–1991
@@ -113,6 +113,16 @@ The realist sharpening adds: terror exceeded any functional requirement.
   the Gulag was inefficient; collectivization killed productivity;
   mass murder cannot be justified by industrial output
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Industrialization was real and consequential
 • Terror exceeded any rational policy requirement
@@ -144,6 +154,16 @@ every sacrifice—collectivization, the purges, the labor camps. The war
 became the foundation of Soviet identity."
 — Richard Overy, *Russia's War* (1997)
 
+John Erickson describes how the Soviet system functioned under that stress:
+
+"The Soviet system of war operated under maximum pressure—mobilizing
+industry, moving armies, replacing catastrophic losses—through a
+command structure that learned by catastrophe. The Red Army that
+retreated to the Volga was not the same institution that crossed the
+Vistula. The war did not merely validate the system; it transformed
+it under fire."
+— John Erickson, *The Road to Berlin* (1983)
+
 The war was **retrospective justification for everything**.
 
 ────────────────────────────────────────────────────────────
@@ -169,6 +189,27 @@ support for decolonization movements. But the economic competition
 was slowly lost. By the 1980s, the Soviet system could not generate
 the wealth to sustain the contest."
 — Odd Arne Westad, *The Cold War: A World History* (2017)
+
+Henry Kissinger articulated the logic that underlay détente even amid competition:
+
+"The challenge of our time is to reconcile the reality of competition
+with the imperative of coexistence."
+— Henry Kissinger, statement on détente (1974); *Diplomacy* (1994)
+
+He framed the presidency's dual responsibility in that era:
+
+"A President thus has a dual responsibility: he must resist Soviet
+expansionism, and he must be conscious of the risks of global
+confrontation. His policy must embrace both deterrence and coexistence,
+both containment and an effort to relax tensions."
+— Henry Kissinger, *Years of Upheaval* (1982)
+
+The nuclear premise underlying détente was equally explicit:
+
+"Both major nuclear powers must base their policies on the premise
+that neither can expect to impose its will on the other without
+running an intolerable risk."
+— Henry Kissinger, détente-era formulation (1970s); *Diplomacy* (1994)
 
 The Cold War was **sustained competition ending in exhaustion**.
 
@@ -238,6 +279,13 @@ The realist sharpening adds: structural pressures made collapse likely.
 • Mearsheimer: The Soviet system could not compete economically with
   the West; military overextension drained resources; the command
   economy could not innovate; collapse was structurally determined
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "The taproot of the trouble is NATO enlargement, the central element
+> of a larger strategy to move Ukraine out of Russia's orbit and
+> integrate it into the West."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • Gorbachev's specific choices did accelerate dissolution
@@ -341,12 +389,18 @@ Each connection is structurally required.
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Brown, Archie. *The Gorbachev Factor*. Oxford: Oxford University
   Press, 1996.
 • Kotkin, Stephen. *Stalin: Volume II, Waiting for Hitler, 1929–1941*.
   New York: Penguin, 2017.
 • Overy, Richard. *Russia's War: A History of the Soviet War Effort,
   1941–1945*. New York: Penguin, 1997.
+• Erickson, John. *The Road to Berlin: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1983.
+• Kissinger, Henry. *Diplomacy*. New York: Simon & Schuster, 1994.
+• Kissinger, Henry. *Years of Upheaval*. Boston: Little, Brown, 1982.
 • Plokhy, Serhii. *The Last Empire: The Final Days of the Soviet Union*.
   New York: Basic Books, 2014.
 • Suny, Ronald Grigor. *The Soviet Experiment: Russia, the USSR, and
@@ -371,5 +425,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: WAR (recommended for central experience)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SOVIET–UNION v2.0
+END OF FILE — MEM–RUSSIA–SOVIET–UNION v3.0
 ────────────────────────────────────────────────────────────

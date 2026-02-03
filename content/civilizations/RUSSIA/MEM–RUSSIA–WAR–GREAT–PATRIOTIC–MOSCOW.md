@@ -194,6 +194,15 @@ The realist sharpening adds: Moscow was survival, not victory.
   the counteroffensive was limited; the war would continue
   for four more years at catastrophic cost
 
+**John Keegan — *The Second World War***:
+
+> "It is a paradox of campaigning in Russia that, though winter destroys
+> armies, it is the coming of spring that halts operations. The thaw,
+> saturating the suddenly unfrozen topsoil with thirty inches of snow
+> melt, turns the dirt roads liquid and the surface of the steppe to
+> swamp, the rasputitsa, 'internal seas' of mud which clog all movement."
+> — Keegan, *The Second World War* (1990)
+
 Both readings are valid:
 • The Wehrmacht was stopped and pushed back (achievement)
 • The war was not decided; Germany remained powerful (limitation)

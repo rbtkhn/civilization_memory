@@ -165,6 +165,15 @@ The realist sharpening adds: the system reflected structural necessity.
   the Soviet system converged on effective structures because
   alternatives meant defeat; structural pressure produced adaptation
 
+**John Keegan — *The Second World War***:
+
+> "The Stavka calculated that there were 16 million men of military age
+> in Russia and that the strength of the Red Army could be raised to 9
+> million in 1942; allowing for 3 million already taken prisoner and a
+> million dead, there would still be enough men to fill 400 divisions
+> and provide replacements."
+> — Keegan, *The Second World War* (1990)
+
 Both readings capture truth:
 • Individual learning was real (Stalin did change)
 • Structural pressure was also real (ineffective systems lose wars)
@@ -307,6 +316,7 @@ Category D (Modern Scholarship):
   Lawrence: University Press of Kansas, 2005.
 • Glantz, David. *Soviet Military Deception in World War II*.
   London: Frank Cass, 1989.
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 • Lieven, Dominic. *The End of Tsarist Russia: The March to World
   War I and Revolution*. New York: Viking, 2015.
 • Overy, Richard. *Russia's War: A History of the Soviet War Effort,

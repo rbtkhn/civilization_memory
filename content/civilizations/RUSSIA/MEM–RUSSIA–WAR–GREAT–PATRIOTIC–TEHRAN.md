@@ -1,9 +1,10 @@
-MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN — v2.0
+MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · WAR MEM CALIBRATION
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KISSINGER VERBATIM (GREAT-POWER SUMMITS)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Tehran Conference (Тегеранская конференция)
 Dates: November 28 – December 1, 1943
@@ -110,6 +111,15 @@ Churchill's position:
 • British influence declining relative to superpowers
 
 The structural insight: sacrifice translated to bargaining power.
+
+Henry Kissinger frames the nature of such summits in general:
+
+"At a great-power conference, diplomacy does not create the balance
+of power; it reflects it."
+— Henry Kissinger, *Diplomacy* (1994)
+
+At Tehran as later at Yalta, the negotiators were not free to ignore
+the distribution of forces on the ground.
 
 ────────────────────────────────────────────────────────────
 IV. SECOND FRONT COMMITMENT
@@ -308,6 +318,7 @@ XII. MEM BIBLIOGRAPHY
 • Miner, Steven Merritt. *Between Churchill and Stalin: The
   Soviet Union, Great Britain, and the Origins of the Grand
   Alliance*. Chapel Hill: University of North Carolina Press, 1988.
+• Kissinger, Henry. *Diplomacy*. New York: Simon & Schuster, 1994.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -326,5 +337,5 @@ G. Legitimacy harvest — recognition achieved
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN v3.0
 ────────────────────────────────────────────────────────────

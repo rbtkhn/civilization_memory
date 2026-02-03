@@ -331,6 +331,15 @@ XV. ARC CATEGORY D — MODERN SCHOLARSHIP
 > off; she had to swallow it."
 > — Khodarkovsky, *Russia's Steppe Frontier* (2002)
 
+**John Keegan — *The Second World War***:
+
+> "It is a paradox of campaigning in Russia that, though winter destroys
+> armies, it is the coming of spring that halts operations. The thaw,
+> saturating the suddenly unfrozen topsoil with thirty inches of snow
+> melt, turns the dirt roads liquid and the surface of the steppe to
+> swamp, the rasputitsa, 'internal seas' of mud which clog all movement."
+> — Keegan, *The Second World War* (1990)
+
 Modern scholarship confirms **frontier zone** and **expansion logic**.
 
 ────────────────────────────────────────────────────────────

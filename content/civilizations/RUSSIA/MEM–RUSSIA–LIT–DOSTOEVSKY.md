@@ -1,8 +1,10 @@
-MEM–RUSSIA–LIT–DOSTOEVSKY — v2.7
+MEM–RUSSIA–LIT–DOSTOEVSKY — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
+Version: 3.0
+Supersedes: v2.7
+Upgrade Type: ALIGNMENT · KISSINGER VERBATIM (K5)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Fyodor Dostoevsky (Фёдор Достоевский) — Psychological Memory Architect
 Dates: 1821–1881 AD (decisive works: 1866–1880)
@@ -178,6 +180,17 @@ Dostoevsky encodes durable Russian lessons:
 
 Dostoevsky becomes the **architect of psychological memory**.
 
+Strategic reception: Western statesmen have repeatedly turned to
+Dostoevsky when framing Russian conduct. Henry Kissinger framed the
+distinction between civilizational reading and ideological caricature:
+
+> "To understand Putin, one must read Dostoyevsky, not Mein Kampf."
+> — Henry Kissinger, *World Order* (2014) and interviews
+
+The formulation encodes the claim that Russian behaviour is legible
+through its literary and psychological tradition, not through the lens
+of a single comparandum.
+
 ────────────────────────────────────────────────────────────
 XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -270,5 +283,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–DOSTOEVSKY v2.7
+END OF FILE — MEM–RUSSIA–LIT–DOSTOEVSKY v3.0
 ────────────────────────────────────────────────────────────

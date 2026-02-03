@@ -1,9 +1,10 @@
-MEM–RUSSIA–MOSCOW–KREMLIN — v2.0
+MEM–RUSSIA–MOSCOW–KREMLIN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KEEGAN VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Moscow Kremlin (Московский Кремль)
 Dates: Founded ~1147; current walls 1485–1495 — present
@@ -163,6 +164,21 @@ Continuities:
 The Soviet Kremlin was **revolutionary content in autocratic form**.
 
 ────────────────────────────────────────────────────────────
+V.B WARTIME SYMBOL: STALINGRAD AND THE BELLS
+────────────────────────────────────────────────────────────
+The Kremlin's bells marked the war's turning point.
+
+John Keegan captures the moment of the first decisive Soviet victory:
+
+> "There was no need for the fabrication of epic in Russia. On the news
+> of Paulus's surrender the bells of the Kremlin were rung to celebrate
+> the first undeniable Russian victory of the war."
+> — Keegan, *The Second World War* (1990)
+
+The bells tied sacred space to military outcome: Stalingrad made
+legitimate in the same nucleus where tsars were crowned.
+
+────────────────────────────────────────────────────────────
 V.A POLYPHONIC TENSION: RUPTURE VS CONTINUITY
 ────────────────────────────────────────────────────────────
 The Mercouris reading frames the Soviet period as rupture—
@@ -292,6 +308,7 @@ XI. MEM BIBLIOGRAPHY
   Cambridge: Harvard University Press, 2001.
 • Cracraft, James. *The Petrine Revolution in Russian Architecture*.
   Chicago: University of Chicago Press, 1988.
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 
 ────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -310,5 +327,5 @@ G. Regime change within unchanged walls
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MOSCOW–KREMLIN v2.0
+END OF FILE — MEM–RUSSIA–MOSCOW–KREMLIN v3.0
 ────────────────────────────────────────────────────────────

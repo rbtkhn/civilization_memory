@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.0
+CIV–INDEX–RUSSIA — v3.2
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–INDEX–RUSSIA v2.7
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.2
+Supersedes: CIV–INDEX–RUSSIA v3.1
+Upgrade Type: NEW MEM REGISTRATION (FEDERATION, USSR–BERLIN–WALL, USSR–IRON–CURTAIN, USSR–CUBAN–MISSILE–CRISIS)
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,27 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.2) — NEW MEM REGISTRATION (single bump, four MEMs)
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–FEDERATION.md — I) OTHER (Russian Federation; post-Soviet state)
+• MEM–RUSSIA–USSR–BERLIN–WALL.md — I) OTHER (Berlin Wall 1961–1989)
+• MEM–RUSSIA–USSR–IRON–CURTAIN.md — I) OTHER (Iron Curtain metaphor and regime)
+• MEM–RUSSIA–USSR–CUBAN–MISSILE–CRISIS.md — I) OTHER (October 1962)
+Total: 181 → 185. I) OTHER: 53 → 57.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — NEW MEM REGISTRATION
+────────────────────────────────────────────────────────────
+Four new MEMs registered (February 2026):
+
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–POTSDAM.md — C) WAR (Big Three closure)
+• MEM–RUSSIA–USSR–COLD–WAR.md — I) OTHER (US–USSR conflict; Kissinger-anchored)
+• MEM–RUSSIA–GORBACHEV.md — G) PERSON (reformer; end of Cold War)
+• MEM–RUSSIA–PUTIN.md — G) PERSON (post-Soviet consolidator)
+
+Total: 177 → 181. C) WAR: 48 → 49. G) PERSON: 24 → 26. I) OTHER: 52 → 53.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.0) — FULL DIRECTORY SYNC
@@ -226,6 +247,7 @@ A) GEO
 • MEM–RUSSIA–GEO–LAKE–LADOGA.md
 • MEM–RUSSIA–GEO–MOSKVA–RIVER.md
 • MEM–RUSSIA–GEO–NEVA–RIVER.md
+• MEM–RUSSIA–GEO–OB–RIVER.md
 • MEM–RUSSIA–GEO–OKA–RIVER.md
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
 • MEM–RUSSIA–GEO–STEPPE.md
@@ -278,6 +300,7 @@ C) WAR
 • MEM–RUSSIA–WAR–PECHENEGS.md
 • MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE.md
 • MEM–RUSSIA–WAR–PUGACHEV–REBELLION.md
+• MEM–RUSSIA–WAR–RASPUTITSA.md
 • MEM–RUSSIA–WAR–RED–ARMY.md
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
 • MEM–RUSSIA–WAR–RUSSO–KAZAN.md
@@ -311,6 +334,7 @@ G) PERSON
 • MEM–RUSSIA–ALEXEI–ROMANOV.md
 • MEM–RUSSIA–CATHERINE–GREAT.md
 • MEM–RUSSIA–ELIZABETH.md
+• MEM–RUSSIA–GORBACHEV.md
 • MEM–RUSSIA–FYODOR–III.md
 • MEM–RUSSIA–IVAN–III.md
 • MEM–RUSSIA–IVAN–IV.md
@@ -349,6 +373,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–CRIMEA.md
 • MEM–RUSSIA–CYRILLIC–SCRIPT.md
 • MEM–RUSSIA–ESTONIA.md
+• MEM–RUSSIA–FEDERATION.md
 • MEM–RUSSIA–FINLAND.md
 • MEM–RUSSIA–GOLDEN–HORDE.md
 • MEM–RUSSIA–ISLAM.md
@@ -379,11 +404,17 @@ I) OTHER / MISC
 • MEM–RUSSIA–POLAND.md
 • MEM–RUSSIA–RIGA.md
 • MEM–RUSSIA–SIBERIA.md
+• MEM–RUSSIA–SEVASTOPOL.md
 • MEM–RUSSIA–SLAVS.md
 • MEM–RUSSIA–SOVIET–UNION.md
+• MEM–RUSSIA–USSR–BERLIN–WALL.md
+• MEM–RUSSIA–USSR–COLD–WAR.md
+• MEM–RUSSIA–USSR–CUBAN–MISSILE–CRISIS.md
+• MEM–RUSSIA–USSR–IRON–CURTAIN.md
 • MEM–RUSSIA–SMOLENSK.md
 • MEM–RUSSIA–SWEDEN.md
 • MEM–RUSSIA–TIME–TROUBLES.md
+• MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY.md
 • MEM–RUSSIA–UKRAINE.md
 • MEM–RUSSIA–VARANGIANS.md
 • MEM–RUSSIA–VILNIUS.md
@@ -440,19 +471,19 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,800
-TOTAL REGISTERED FILES: One hundred seventy-six (176) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred eighty-five (185) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 31 files
 • B) DYNASTY: 2 files
-• C) WAR: 47 files
+• C) WAR: 49 files
 • D) LAW: 6 files
 • E) ECON: 0 files
 • F) RELIGION: 2 files
-• G) PERSON: 24 files
+• G) PERSON: 26 files
 • H) HIST: 3 files
-• I) OTHER: 51 files
+• I) OTHER: 57 files
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v3.0
+END OF FILE — CIV–INDEX–RUSSIA — v3.2

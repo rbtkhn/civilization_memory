@@ -114,6 +114,13 @@ state.
   failing; the Bolsheviks were the most organized faction willing to
   act; any disciplined group could have seized power in October 1917
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The Bolsheviks did have genuine support in key constituencies
 • The seizure was also opportunistic exploitation of state collapse
@@ -212,6 +219,12 @@ The realist sharpening adds: structural patterns reasserted themselves.
   regime governing Russia's territory would face similar pressures;
   centralization, militarization, and territorial control are structural
   requirements, not ideological choices
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • The revolution did produce genuine social transformation
@@ -322,6 +335,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Figes, Orlando. *A People's Tragedy: The Russian Revolution, 1891–1924*.
   New York: Viking, 1996.
 • Fitzpatrick, Sheila. *The Russian Revolution*. 4th ed. Oxford:

@@ -1,10 +1,10 @@
-MEM–RUSSIA–ZHUKOV — v2.0
+MEM–RUSSIA–ZHUKOV — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · V3.0 COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KEEGAN VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Georgy Konstantinovich Zhukov (Георгий Константинович Жуков)
 Dates: 1896–1974 (lifespan); 1941–1945 (peak significance)
@@ -128,6 +128,13 @@ acceptable casualties.
   he was willing to accept casualties that would destroy Western
   commanders; mass and ruthlessness prevailed over finesse
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Zhukov was operationally competent
 • Zhukov also accepted staggering casualties
@@ -161,7 +168,18 @@ required someone Stalin trusted absolutely who could also command
 generals' respect. Only Zhukov filled both requirements."
 — Richard Overy, *Russia's War* (1997)
 
-Zhukov became **Stalin's military alter ego**.
+John Keegan records the manpower base that Zhukov and the Stavka
+deployed:
+
+> "The Stavka calculated that there were 16 million men of military age
+> in Russia and that the strength of the Red Army could be raised to 9
+> million in 1942; allowing for 3 million already taken prisoner and a
+> million dead, there would still be enough men to fill 400 divisions
+> and provide replacements."
+> — Keegan, *The Second World War* (1990)
+
+Zhukov became **Stalin's military alter ego**—coordinating the system
+that drew on that depth.
 
 ────────────────────────────────────────────────────────────
 VI. BERLIN: FINAL VICTORY
@@ -303,6 +321,8 @@ Each connection is structurally required.
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Beevor, Antony. *The Fall of Berlin 1945*. New York: Viking, 2002.
 • Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
   London: Weidenfeld & Nicolson, 1975.
@@ -330,5 +350,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: OPERATIONAL (recommended for understanding military role)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ZHUKOV v2.0
+END OF FILE — MEM–RUSSIA–ZHUKOV v3.0
 ────────────────────────────────────────────────────────────

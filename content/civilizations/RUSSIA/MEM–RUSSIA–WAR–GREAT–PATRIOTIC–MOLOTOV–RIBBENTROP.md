@@ -1,10 +1,10 @@
-MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOLOTOV–RIBBENTROP — v2.0
+MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOLOTOV–RIBBENTROP — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · WAR MEM CALIBRATION
+ACTIVE · CANONICAL · V3.0 COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KEEGAN VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Molotov–Ribbentrop Pact (Nazi-Soviet Non-Aggression Treaty)
 Dates: August 23, 1939 – June 22, 1941
@@ -117,6 +117,12 @@ The realist sharpening adds: the Pact was rational state behavior.
   territory westward, deferred German attack, and divided potential
   enemies; moral considerations are secondary to power calculations
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The strategic logic was real
 • The moral cost was also real
@@ -207,6 +213,30 @@ Pact was meant to buy more time. It bought twenty-two months."
 — Gabriel Gorodetsky, *Grand Delusion: Stalin and the German Invasion of Russia* (1999)
 
 The gamble failed: **time purchased was insufficient**.
+
+John Keegan records the Stavka's calculation that made recovery possible:
+
+> "The Stavka calculated that there were 16 million men of military age
+> in Russia and that the strength of the Red Army could be raised to 9
+> million in 1942; allowing for 3 million already taken prisoner and a
+> million dead, there would still be enough men to fill 400 divisions
+> and provide replacements."
+> — Keegan, *The Second World War* (1990)
+
+The Pact had bought time; when that time ran out, Soviet depth in
+manpower—not the forward border—enabled the war to continue.
+
+John Erickson frames the pre-invasion Soviet position:
+
+"The disaster of 1941 was not surprise alone. It was the culmination
+of a decade of self-inflicted wounds—the purges that destroyed the
+officer corps, the doctrine that demanded forward defense, the
+intelligence that was suppressed because Stalin would not hear it.
+The Wehrmacht did not merely catch the Red Army unprepared; it
+caught a system at war with itself."
+— John Erickson, *The Road to Stalingrad* (1975)
+
+The Pact had deferred the reckoning; it had not removed it.
 
 ────────────────────────────────────────────────────────────
 VII. MEMORY POLITICS: CONTESTED LEGACY
@@ -300,6 +330,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Gorodetsky, Gabriel. *Grand Delusion: Stalin and the German
   Invasion of Russia*. New Haven: Yale University Press, 1999.
 • Moorhouse, Roger. *The Devils' Alliance: Hitler's Pact with Stalin,
@@ -310,6 +342,9 @@ Category D (Modern Scholarship):
   New York: Basic Books, 2010.
 • Stahel, David. *Operation Barbarossa and Germany's Defeat in the
   East*. Cambridge: Cambridge University Press, 2009.
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (v2.8)
@@ -328,5 +363,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: STRATEGIC (recommended for understanding logic)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOLOTOV–RIBBENTROP v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOLOTOV–RIBBENTROP v3.0
 ────────────────────────────────────────────────────────────

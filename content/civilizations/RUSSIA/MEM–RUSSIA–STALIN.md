@@ -1,9 +1,10 @@
-MEM–RUSSIA–STALIN — v2.8
+MEM–RUSSIA–STALIN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: REVOLUTIONARY / INDUSTRIAL–SECURITY STATE (1924–1953)
 Subject: Joseph Vissarionovich Stalin
@@ -230,9 +231,26 @@ understood without reference to the decapitation of military
 leadership three years earlier."
 — Stephen Kotkin, *Stalin: Waiting for Hitler* (2017)
 
+John Erickson describes the same nexus:
+
+"The disaster of 1941 was not surprise alone. It was the culmination
+of a decade of self-inflicted wounds—the purges that destroyed the
+officer corps, the doctrine that demanded forward defense, the
+intelligence that was suppressed because Stalin would not hear it.
+The Wehrmacht did not merely catch the Red Army unprepared; it
+caught a system at war with itself."
+— John Erickson, *The Road to Stalingrad* (1975)
+
 The contradiction:
 • Mercouris: Purges eliminated factional threats and consolidated control
 • Mearsheimer: Purges created existential vulnerability exploited by Germany
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid. Stalin prioritized internal control over external
 defense—a choice that nearly destroyed the state he built.
@@ -278,6 +296,12 @@ The polyphonic tension:
 • Mercouris: WWII validated the Stalinist system after the fact
 • Mearsheimer: WWII was the goal—industrialization was preparation
   for hegemonic conflict
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Victory in 1945 did not merely validate terror—it confirmed that
 Stalin had correctly identified the structural requirement: military-
@@ -370,8 +394,12 @@ PRIMARY SOURCES:
 • Wartime directives
 
 SECONDARY SOURCES:
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Kotkin, Stephen. *Stalin: Paradoxes of Power*. New York: Penguin, 2014.
 • Kotkin, Stephen. *Stalin: Waiting for Hitler*. New York: Penguin, 2017.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 • Fitzpatrick, Sheila. *Everyday Stalinism*. Oxford: Oxford UP, 1999.
 • Figes, Orlando. *The Whisperers*. New York: Metropolitan, 2007.
 • Service, Robert. *Stalin: A Biography*. Cambridge: Harvard UP, 2004.
@@ -400,5 +428,5 @@ J) Compliance & integrity audit (v2.8)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–STALIN v2.9
+END OF FILE — MEM–RUSSIA–STALIN v3.0
 ────────────────────────────────────────────────────────────

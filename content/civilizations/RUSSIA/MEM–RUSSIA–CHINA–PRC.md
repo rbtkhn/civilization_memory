@@ -127,6 +127,16 @@ predictable regardless of doctrine.
   ideology masked but did not cause the underlying power competition;
   China's rise made conflict inevitable regardless of doctrine.
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Imagine the outrage in Washington if China built an impressive
+> military alliance and tried to include Canada and Mexico in it."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid. Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
@@ -271,6 +281,8 @@ Primary Sources Consulted:
 • Russian and Chinese official statements (2014–present)
 
 Secondary Sources (Category D — Modern):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Lo, Bobo. *Russia and the New World Disorder*. London: Chatham House, 2015.
 • Lüthi, Lorenz. *The Sino-Soviet Split: Cold War in the Communist World*. Princeton: Princeton University Press, 2008.
 • Lukin, Alexander. *China and Russia: The New Rapprochement*. Cambridge: Polity Press, 2018.

@@ -75,6 +75,13 @@ for arrangements he was already implementing. The conference ratified
 facts on the ground."
 — John Erickson, *The Road to Berlin* (1983)
 
+Henry Kissinger frames the same reality from the standpoint of diplomacy:
+
+"At a great-power conference, diplomacy does not create the balance
+of power; it reflects it. The negotiators at Yalta were not free
+to ignore the fact that Soviet armies occupied Eastern Europe."
+— Henry Kissinger, *Diplomacy* (1994)
+
 ────────────────────────────────────────────────────────────
 III. THE MEETING
 ────────────────────────────────────────────────────────────
@@ -329,6 +336,7 @@ XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Erickson, John. *The Road to Berlin: Stalin's War with Germany*.
   London: Weidenfeld & Nicolson, 1983.
+• Kissinger, Henry. *Diplomacy*. New York: Simon & Schuster, 1994.
 • Plokhy, Serhii. *Yalta: The Price of Peace*.
   New York: Viking, 2010.
 • Feis, Herbert. *Churchill, Roosevelt, Stalin*.

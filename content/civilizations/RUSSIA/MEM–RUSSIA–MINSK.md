@@ -2,7 +2,9 @@ MEM–RUSSIA–MINSK — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · PARTIAL · 20% TARGET
 Status: ACTIVE · PARTIAL
-Version: 2.0
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Minsk (Мінск / Минск) — Western Corridor Capital & Buffer Anchor
 Dates: 1067 AD–present (Russian incorporation: 1793)
@@ -196,6 +198,16 @@ The Great Patriotic War devastated Minsk:
 The destruction encoded Minsk in Soviet memory as **martyr city** —
 sacrifice on the western corridor.
 
+John Erickson situates Minsk in the war's arc:
+
+"Minsk fell in the first days of Barbarossa—a symbol of the
+catastrophic collapse on the frontiers. Three years later, Operation
+Bagration did not merely liberate the city; it annihilated Army Group
+Centre and opened the road to Warsaw and Berlin. The same corridor
+that had swallowed Soviet armies in 1941 carried the Red Army westward
+in 1944. Minsk marked both disaster and reversal."
+— John Erickson, *The Road to Berlin* (1983)
+
 ────────────────────────────────────────────────────────────
 VII. POST-SOVIET: UNION STATE ANCHOR
 ────────────────────────────────────────────────────────────
@@ -320,6 +332,8 @@ Secondary Sources:
   Harwood Academic Publishers, 1999.
 • Wilson, Andrew. *Belarus: The Last European Dictatorship*. New Haven:
   Yale University Press, 2011.
+• Erickson, John. *The Road to Berlin: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1983.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -340,5 +354,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MINSK v2.0
+END OF FILE — MEM–RUSSIA–MINSK v3.0
 ────────────────────────────────────────────────────────────

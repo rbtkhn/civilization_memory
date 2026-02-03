@@ -104,6 +104,12 @@ The realist sharpening adds: this was imperial conquest.
   Khanate was weak and divided; Moscow exploited power asymmetry
   as any great power would
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "The sad truth is that might often makes right when great-power
+> politics are at play."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The conquest carried profound civilizational meaning for Russians
 • The conquest was also ordinary imperial expansion
@@ -273,6 +279,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Halperin, Charles. *Ivan the Terrible: Free to Reward and Free to Punish*.
   Pittsburgh: University of Pittsburgh Press, 2019.
 • Khodarkovsky, Michael. *Russia's Steppe Frontier: The Making of a

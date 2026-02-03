@@ -1,9 +1,10 @@
-MEM–RUSSIA–ART–SHOSTAKOVICH — v2.0
+MEM–RUSSIA–ART–SHOSTAKOVICH — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dmitri Dmitriyevich Shostakovich (Дмитрий Дмитриевич Шостакович)
 Dates: 1906–1975 AD (decisive works: 1937–1962)
@@ -131,6 +132,18 @@ with time, accumulating readings that the composer could neither
 confirm nor deny."
 — Orlando Figes, *Natasha's Dance: A Cultural History of Russia* (2002)
 
+John Erickson describes the siege context in which the Seventh was performed:
+
+"Leningrad's defense was never purely military. Stalin understood
+that surrendering the city named for Lenin—the birthplace of the
+Revolution—would shatter Soviet morale beyond repair. The city
+had to hold at any cost. That cost was borne by civilians who
+starved while the Red Army fed. The strategic logic was sound.
+The human price was unprecedented."
+— John Erickson, *The Road to Stalingrad* (1975)
+
+The Seventh Symphony was performed in that city, under those conditions.
+
 Ambiguity as survival strategy.
 
 ────────────────────────────────────────────────────────────
@@ -235,6 +248,8 @@ IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*.
   New York: Metropolitan Books, 2002.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 • Volkov, Solomon. *Testimony: The Memoirs of Dmitri Shostakovich*.
   New York: Harper & Row, 1979. [contested authenticity]
 • Fay, Laurel. *Shostakovich: A Life*. Oxford: Oxford University Press, 2000.
@@ -259,5 +274,5 @@ G. *Testimony* controversy and legacy
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ART–SHOSTAKOVICH v2.0
+END OF FILE — MEM–RUSSIA–ART–SHOSTAKOVICH v3.0
 ────────────────────────────────────────────────────────────

@@ -130,6 +130,15 @@ The realist sharpening adds: the outcome was structurally determined.
   decisive naval force across oceanic distances against maritime powers;
   no leadership could have overcome the structural disadvantage
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The system was genuinely dysfunctional
 • The geography was genuinely constraining
@@ -282,6 +291,8 @@ Cross-Civilizational:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (V2.7)
 ────────────────────────────────────────────────────────────
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 Primary Military History Sources:
 
 1. Connaughton, R.M. *The War of the Rising Sun and Tumbling Bear:

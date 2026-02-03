@@ -123,6 +123,12 @@ replacement window to Europe.
   intermediaries; diversified port access; Riga remained important
   (ice-free longer) but was no longer sole gateway
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid:
 • Riga predates St. Petersburg as functional port
 • St. Petersburg was purpose-built for Russian control
@@ -201,6 +207,13 @@ The Baltic German intermediation model reveals competing frames:
   Germans were structurally loyal (no alternative patron); the
   model worked because power realities aligned; this was efficient
   imperialism, not civilizational partnership
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Putin's pushback should have come as no surprise. After all, the
+> West had been moving into Russia's backyard and threatening its core
+> strategic interests, a point Putin made emphatically and repeatedly."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings agree:
 • The model functioned effectively
@@ -317,6 +330,14 @@ VIII.A POLYPHONIC TENSION: MINORITY AS LEVERAGE
   rhetoric enables interference; demographic legacy serves strategic
   purpose; concern is instrumentalized regardless of sincerity
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Since the mid-1990s, Russian leaders have adamantly opposed NATO
+> enlargement, and in recent years, they have made it clear that they
+> would not stand by while their strategically important neighbor
+> turned into a Western bastion."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture partial truth:
 • Russian-speakers are real people with real concerns
 • Their presence creates real strategic leverage
@@ -394,6 +415,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Plakans, Andrejs. *A Concise History of the Baltic States*.
   Cambridge: Cambridge University Press, 2011.
 • Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*.

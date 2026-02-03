@@ -117,6 +117,12 @@ not enable, political development.
 • Mearsheimer: The zemstvos were carefully circumscribed to prevent
   political development; the ban on coordination, the weighted
   voting, the exclusion of political discussion—all were designed
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
   to provide services without creating a rival power center
 
 Both readings capture truth:
@@ -311,6 +317,8 @@ Category A (Primary Sources):
 • Zemstvo Statute of 1890 (Alexander III)
 
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Emmons, Terence. *The Russian Landed Gentry and the Peasant
   Emancipation of 1861*. Cambridge: Cambridge University Press, 1968.
 • Lincoln, W. Bruce. *The Great Reforms: Autocracy, Bureaucracy, and

@@ -1,11 +1,13 @@
-CIV–ARC–RUSSIA–LEDGER — v1.0
+CIV–ARC–RUSSIA–LEDGER — v3.0
 Civilizational Memory Codex · Source Registry & Citation Ledger
 Consolidated Bibliography with Citation Frequency
 
 Status: ACTIVE · CANONICAL · DERIVED
-Governance: CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8
+Governance: CIV–ARC–TEMPLATE v3.0 · CIV–MEM–TEMPLATE v3.0
 Scope: Aggregated source registry for RUSSIA corpus
-Last Generated: January 2026
+Last Generated: February 2026
+Supersedes: v1.0
+Upgrade Type: ALIGNMENT · KEEGAN VERBATIM REGISTRY
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & FUNCTION
@@ -487,5 +489,141 @@ RECOMMENDED ADDITIONS:
 • Central Asian perspective on Mongol period
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–RUSSIA–LEDGER v1.0
+XII. VERBATIM MEARSHEIMER (FA 2014) — Russia MEM Enhancement
+────────────────────────────────────────────────────────────
+Source: John J. Mearsheimer, "Why the Ukraine Crisis Is the West's
+Fault," *Foreign Affairs* 93, no. 5 (Sept/Oct 2014). Admissible per
+CIV–ARC–RUSSIA Category D (Strategic & Geographic Analysis).
+
+Verbatim quotes integrated into Russia MEMs (February 2026 — heavy
+presence pass):
+
+GEO–MEMs:
+• MEM–RUSSIA–GEO–DNEIPER–RIVER: buffer state; Dnieper bisects
+• MEM–RUSSIA–GEO–OB–RIVER: core strategic interests / punishment
+
+Subject MEMs (cities, ports, regions):
+• MEM–RUSSIA–VLADIVOSTOK: Geopolitics 101; Russia declining
+• MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY: Russia declining
+• MEM–RUSSIA–CHINA: Geopolitics 101; China/Canada/Mexico analogy
+• MEM–RUSSIA–CHINA–PRC: Geopolitics 101; China/Canada/Mexico
+• MEM–RUSSIA–RIGA: backyard/core interests; Russia declining;
+  core strategic interests; would not stand by (NATO)
+• MEM–RUSSIA–LATVIA: Geopolitics 101; backyard/core interests;
+  core strategic interests; would not stand by
+• MEM–RUSSIA–ARKHANGELSK: Geopolitics 101; Russia declining
+• MEM–RUSSIA–KAZAN: might makes right
+• MEM–RUSSIA–JAPAN: Geopolitics 101; China/Canada/Mexico;
+  core strategic interests
+• MEM–RUSSIA–PETERSBURG–HERMITAGE: core strategic interests
+
+Subject MEMs (revolution, state, leaders):
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION: core strategic interests;
+  Geopolitics 101
+• MEM–RUSSIA–SOVIET–UNION: Russia declining; core strategic
+  interests; NATO taproot
+• MEM–RUSSIA–STALIN: core strategic interests; Geopolitics 101
+
+WAR MEMs:
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE: Geopolitics 101; Russia declining
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA: core
+  strategic interests
+
+All above MEMs now include ≥1 verbatim Mearsheimer block (FA 2014)
+and FA 2014 in bibliography where applicable.
+
+Additional FA 2014 verbatim candidates for future MEM enhancement:
+• "The taproot of the trouble is NATO enlargement..."
+• "The United States and its allies should abandon their plan to
+  westernize Ukraine and instead aim to make it a neutral buffer
+  between NATO and Russia, akin to Austria's position during the
+  Cold War."
+• "The sad truth is that might often makes right..."
+• "Abstract rights such as self-determination are largely
+  meaningless when powerful states get into brawls with weaker states."
+
+────────────────────────────────────────────────────────────
+XIII. VERBATIM KEEGAN (SECOND WORLD WAR / FACE OF BATTLE) — Russia MEMs
+────────────────────────────────────────────────────────────
+Source: John Keegan, *The Second World War* (1990), chapter "Crimean
+Summer, Stalingrad Winter" unless noted; *The Face of Battle* (1976).
+Admissible per CIV–ARC–RUSSIA Category D (Military History, War, and
+Strategy).
+
+Verbatim quotes integrated (February 2026 — extended pass):
+
+K1 — Rasputitsa (Russia / seasons / steppe):
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOSCOW
+• MEM–RUSSIA–GEO–STEPPE
+
+K2 — Red Army / Stavka capacity (1942):
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC
+• MEM–RUSSIA–WAR–STAVKA
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOLOTOV–RIBBENTROP
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–BERLIN
+• MEM–RUSSIA–ZHUKOV
+
+K3 — Stalingrad: kernel and shell (German deployment):
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–STALINGRAD
+
+K4 — Stalingrad: first undeniable Russian victory / Kremlin bells:
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–STALINGRAD
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC
+• MEM–RUSSIA–MOSCOW–KREMLIN
+
+K5 — Stalingrad: street battle (scale):
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–STALINGRAD
+
+K6 — Face of Battle: point of maximum danger:
+• MEM–RUSSIA–SUVOROV
+
+All above MEMs include ≥1 Keegan verbatim block and *The Second World
+War* (or *The Face of Battle* where noted) in bibliography.
+
+────────────────────────────────────────────────────────────
+XIV. VERBATIM KISSINGER (DIPLOMACY / WORLD ORDER) — Russia MEMs
+────────────────────────────────────────────────────────────
+Source: Henry Kissinger, *Diplomacy* (1994), *World Order* (2014),
+public statements and interviews (détente 1974; Russia/Ukraine 2014+).
+Admissible per CIV–ARC–RUSSIA Category D (Strategic & Geographic
+Analysis — diplomacy, balance of power, Russia–West relations).
+
+Verbatim quotes integrated (February 2026 — extended: events in his
+lifetime):
+
+K1 — Détente / coexistence (Cold War):
+• MEM–RUSSIA–SOVIET–UNION
+
+K2 — Dual responsibility (containment and coexistence):
+• MEM–RUSSIA–SOVIET–UNION
+
+K3 — Neither power can impose its will (nuclear premise):
+• MEM–RUSSIA–SOVIET–UNION
+• MEM–RUSSIA–KALININGRAD
+
+K4 — Russia as great power (reconcile concerns):
+• MEM–RUSSIA–UKRAINE
+
+K5 — Understanding Russia (Dostoyevsky, not Mein Kampf):
+• MEM–RUSSIA–LIT–DOSTOEVSKY
+
+K6 — Yalta / great-power summits (power and diplomacy):
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–YALTA
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–TEHRAN (thematic: "diplomacy reflects
+  balance of power")
+
+All above MEMs include ≥1 Kissinger verbatim block and *Diplomacy*,
+*World Order*, and/or *Years of Upheaval* in bibliography where
+applicable.
+
+Future candidates (KISSINGER–VERBATIM–CANDIDATES–RUSSIA.md): Nixon–
+Brezhnev summits, Gorbachev/end of Cold War, triangular diplomacy,
+post-Soviet/Putin — to be sourced from *Years of Upheaval*, *On China*,
+*White House Years*.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–RUSSIA–LEDGER v3.0
 ────────────────────────────────────────────────────────────

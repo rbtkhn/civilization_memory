@@ -1,9 +1,10 @@
-MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD — v2.0
+MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · WAR MEM CALIBRATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · KEEGAN VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Siege of Leningrad (Блокада Ленинграда)
 Dates: September 8, 1941 – January 27, 1944
@@ -119,6 +120,18 @@ had to hold at any cost. That cost was borne by civilians who
 starved while the Red Army fed. The strategic logic was sound.
 The human price was unprecedented."
 — John Erickson, *The Road to Stalingrad* (1975)
+
+John Keegan records the manpower base that allowed the Red Army to
+hold multiple fronts, including Leningrad:
+
+> "The Stavka calculated that there were 16 million men of military age
+> in Russia and that the strength of the Red Army could be raised to 9
+> million in 1942; allowing for 3 million already taken prisoner and a
+> million dead, there would still be enough men to fill 400 divisions
+> and provide replacements."
+> — Keegan, *The Second World War* (1990)
+
+That calculus underlay the decision to hold the city at any cost.
 
 ────────────────────────────────────────────────────────────
 IV.A POLYPHONIC TENSION: HEROISM VS HORROR
@@ -309,6 +322,7 @@ XIII. MEM BIBLIOGRAPHY
   New York: Walker & Company, 2011.
 • Kirschenbaum, Lisa A. *The Legacy of the Siege of Leningrad*.
   Cambridge: Cambridge University Press, 2006.
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -327,5 +341,5 @@ G. Legitimacy harvest (RLL–0017)
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD v3.0
 ────────────────────────────────────────────────────────────

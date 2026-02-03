@@ -92,6 +92,16 @@ Before Russian conquest, Riga was paradox:
   was structural weakness; conquest was necessary to internalize
   benefits
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Putin's pushback should have come as no surprise. After all, the
+> West had been moving into Russia's backyard and threatening its core
+> strategic interests, a point Putin made emphatically and repeatedly."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid:
 • Riga did facilitate Russian trade
 • German merchants did profit from intermediation
@@ -174,6 +184,13 @@ The Riga-Petersburg relationship reveals competing frames:
   German intermediaries; diversified port access; both served
   Russian strategic interests; the choice between them was about
   control, not civilization
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings capture truth:
 • Petersburg was genuine achievement
@@ -398,6 +415,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY (v3.0)
 ────────────────────────────────────────────────────────────
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*.
   New Haven: Yale University Press, 2001.
 • Hosking, Geoffrey. *Russia and the Russians: A History*.

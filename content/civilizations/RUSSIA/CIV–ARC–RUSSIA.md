@@ -264,6 +264,12 @@ Imperial & Dynastic Russia:
 
 Military History, War, and Strategy:
 • John Erickson (1929–2002)
+• John Keegan (1934–2012) — *The Face of Battle*, *A History of
+  Warfare*, *The Second World War*, *Barbarossa: Invasion of Russia,
+  1941*; admissible for operational culture, comparative military
+  history, and Eastern Front / Soviet war narrative. May supplement
+  but not substitute for Russian-primary or Erickson-level specialist
+  scholarship.
 • Alexander Mikaberidze (b. 1978)
 
 Structural & Political History:
@@ -272,6 +278,30 @@ Structural & Political History:
 • Geoffrey Hosking (1945–2018)
 • Orlando Figes (b. 1959)
 • Stephen Kotkin (b. 1963)
+
+Strategic & Geographic Analysis (structural framing):
+• John Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*;
+  admissible for GEO–MEM strategic cognition, power distribution,
+  and structural constraint framing. External IR framing only;
+  may not substitute for Russian-historical primary scholarship.
+• Glenn Diesen (b. 1978) — *Russia's Geoeconomic Strategy for a
+  Greater Eurasia*, *The Ukraine Crisis and the Restructuring of
+  the West*; admissible for geoeconomic framing, Eurasian integration,
+  and structural analysis of Russia–West relations. IR/Eurasian
+  framing; may supplement but not substitute for Russian-historical
+  primary scholarship.
+• Henry Kissinger (1923–2023) — *Diplomacy*, *World Order*, *On China*;
+  admissible for great-power diplomacy, balance of power, détente and
+  Russia–West relations, and structural/diplomatic framing of Soviet
+  and Russian foreign policy. Diplomatic/IR framing only; may not
+  substitute for Russian-historical primary scholarship.
+
+Economic & Transition (reform, shock therapy, post-Soviet):
+• Jeffrey Sachs (b. 1954) — *The End of Poverty*, advisory role
+  Russia 1991–1994; admissible for 1990s transition narrative,
+  shock therapy debate, and reform failure/success framing. Economic
+  and policy analysis only; may not substitute for Russian-historical
+  primary scholarship.
 
 Rules (MANDATORY):
 • At least TWO distinct modern scholars REQUIRED per MEM file

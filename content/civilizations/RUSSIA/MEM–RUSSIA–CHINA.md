@@ -114,6 +114,16 @@ The realist sharpening adds: geography compelled the encounter.
   reaching the Pacific was structurally predictable; any Chinese
   regime would eventually face Russian pressure at the Amur
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Imagine the outrage in Washington if China built an impressive
+> military alliance and tried to include Canada and Mexico in it."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The specific timing was contingent on Chinese weakness
 • The general direction of expansion was structurally determined
@@ -185,6 +195,16 @@ The realist sharpening adds: the split was structurally predictable.
 • Mearsheimer: Two great powers cannot share a border without rivalry;
   ideology masked but did not cause the underlying power competition;
   China's rise made conflict inevitable regardless of doctrine
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • Ideological disputes were genuine and consequential
@@ -331,6 +351,8 @@ Contradictions are preserved without synthesis.
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Lo, Bobo. *Russia and the New World Disorder*. London: Chatham House, 2015.
 • Lüthi, Lorenz. *The Sino-Soviet Split: Cold War in the Communist World*. 
   Princeton: Princeton University Press, 2008.

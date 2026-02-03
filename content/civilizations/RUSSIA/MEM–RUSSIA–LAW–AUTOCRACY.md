@@ -121,6 +121,13 @@ The realist sharpening adds: autocracy served elite interests.
   benefited from the system they claimed was necessary; necessity
   arguments always favor those in power
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Autocracy did provide integration and defense
 • Autocracy also served elite extraction and control
@@ -236,6 +243,11 @@ The realist sharpening adds: structural patterns reassert themselves.
   ruler claims divine right or historical necessity, the structure
   of domination remains
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid:
 • Soviet rule did transform Russian society
 • Structural patterns of centralized authority persisted
@@ -308,6 +320,8 @@ Each connection is structurally required.
 X. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Figes, Orlando. *A People's Tragedy: The Russian Revolution,
   1891–1924*. New York: Viking, 1996.
 • Keenan, Edward. "Muscovite Political Folkways." *Russian Review*

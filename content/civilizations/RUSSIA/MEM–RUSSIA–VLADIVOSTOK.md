@@ -193,6 +193,15 @@ The realist sharpening adds: military function remains primary.
   economic development serves military sustainment; the commercial
   opening is secondary to strategic positioning
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 The city embodies both:
 • Genuine economic development aspirations
 • Permanent military-strategic function
@@ -259,7 +268,7 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–TRANS–SIBERIAN — railway terminus
+• MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — railway terminus
 • MEM–RUSSIA–PACIFIC–FLEET — headquarters
 • MEM–RUSSIA–SIBERIA — eastward expansion context
 • MEM–RUSSIA–ALEXANDER–II — treaty acquisition period
@@ -292,6 +301,8 @@ XI. MEM BIBLIOGRAPHY
 • Hill, Fiona, and Clifford G. Gaddy. *The Siberian Curse: How
   Communist Planners Left Russia Out in the Cold*. Washington:
   Brookings Institution Press, 2003.
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 
 ────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (MANDATORY)

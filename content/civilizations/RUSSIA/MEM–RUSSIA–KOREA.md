@@ -109,6 +109,12 @@ The realist sharpening adds: Russia could not have won regardless.
   oceanic distances against maritime powers on their home territory;
   Japan's local superiority was structurally insurmountable
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Russia did miscalculate Japanese resolve
 • Russia also faced structural disadvantages in Pacific power projection
@@ -181,6 +187,13 @@ The realist sharpening adds: the outcome served Soviet structural interests.
 • Mearsheimer: From structural perspective, the war succeeded: North Korea
   survived, American forces remained tied to Asia, and Japan remained
   inhibited from rearmament; partition served Soviet security
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • Stalin did miscalculate immediate American response
@@ -329,6 +342,8 @@ Contradictions are preserved without synthesis.
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Armstrong, Charles. *The North Korean Revolution, 1945–1950*. 
   Ithaca: Cornell University Press, 2003.
 • Lankov, Andrei. *The Real North Korea: Life and Politics in the 

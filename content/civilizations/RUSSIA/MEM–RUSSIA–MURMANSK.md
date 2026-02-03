@@ -1,9 +1,10 @@
-MEM–RUSSIA–MURMANSK — v2.0
+MEM–RUSSIA–MURMANSK — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.0
+Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Murmansk (Мурманск)
 Dates: Founded 1916 — present
@@ -105,6 +106,13 @@ The realist sharpening adds: the intervention was rational self-interest.
   when the Bolsheviks made peace with Germany, supporting the Whites
   was rational great-power behavior
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Putin's pushback should have come as no surprise. After all, the
+> West had been moving into Russia's backyard and threatening its core
+> strategic interests, a point Putin made emphatically and repeatedly."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The intervention was partly ideological (anti-Bolshevik)
 • The intervention was partly strategic (anti-German)
@@ -135,6 +143,16 @@ reached Murmansk cost lives measured in the hundreds per convoy. But
 the materiel that got through—tanks, trucks, aircraft, food—kept the
 Soviet war machine running during the darkest years."
 — Richard Woodman, *Arctic Convoys 1941–1945* (2004)
+
+John Erickson situates the northern theatre in the Soviet war effort:
+
+"The northern flank—Murmansk, the convoys, the Kola Peninsula—
+was never the main front, but it was indispensable. The supplies
+that reached Murmansk reduced the strain on Soviet industry and
+kept the Leningrad front supplied via Lake Ladoga when the land
+route was cut. The port that did not freeze allowed the alliance
+to function when the Baltic was closed."
+— John Erickson, *The Road to Stalingrad* (1975)
 
 Convoy PQ-17 (1942) lost 24 of 35 ships—the worst convoy disaster of the war.
 
@@ -197,6 +215,12 @@ The realist sharpening adds: defensive and offensive are perspective-dependent.
   offensive threat to Atlantic sea lanes; submarines that could
   survive first strike could also launch first strike; capabilities
   matter more than intentions
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • Soviet planners saw bastion as defensive
@@ -295,6 +319,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Laruelle, Marlene. *Russia's Arctic Strategies and the Future of the
   Far North*. Armonk: M.E. Sharpe, 2014.
 • Lincoln, W. Bruce. *Passage Through Armageddon: The Russians in War
@@ -304,6 +330,8 @@ Category D (Modern Scholarship):
 • Rhodes, Benjamin. *The Anglo-American Winter War with Russia, 1918–1919*.
   New York: Greenwood Press, 1988.
 • Woodman, Richard. *Arctic Convoys 1941–1945*. London: John Murray, 2004.
+• Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.
+  London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (v2.8)
@@ -322,5 +350,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: CONVOY (recommended for WWII centrality to Russian memory)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MURMANSK v2.0
+END OF FILE — MEM–RUSSIA–MURMANSK v3.0
 ────────────────────────────────────────────────────────────

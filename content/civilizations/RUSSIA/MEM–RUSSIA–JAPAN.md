@@ -93,6 +93,16 @@ The realist sharpening adds: divergence was structurally constrained.
   Russia's continental scale required land-army priority; no policy
   could have made Russia a Pacific naval power
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "This is Geopolitics 101: great powers are always sensitive to
+> potential threats near their home territory."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
+> "Imagine the outrage in Washington if China built an impressive
+> military alliance and tried to include Canada and Mexico in it."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Russia did make poor policy choices
 • Japan did have geographic advantages for naval development
@@ -161,6 +171,13 @@ The realist sharpening adds: the war was primarily about power.
 • Mearsheimer: Japan won because it had local superiority, shorter
   supply lines, and unified command; the war was about Manchuria
   and Korea, not civilizational validation; power determined outcome
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • Japan's victory did reshape global perceptions
@@ -282,6 +299,8 @@ Contradictions are preserved without synthesis.
 XIII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Connaughton, R.M. *The War of the Rising Sun and Tumbling Bear*
 • Jukes, Geoffrey. *The Russo-Japanese War 1904–1905*
 • Westwood, J.N. *Russia Against Japan, 1904–05*

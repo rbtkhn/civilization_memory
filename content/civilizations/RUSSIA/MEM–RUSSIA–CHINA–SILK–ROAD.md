@@ -116,6 +116,11 @@ but commercially marginal.
   trade had made overland transit obsolete; the conquest was power
   politics, not commercial strategy
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Russia is a declining power, and it will only get weaker with time."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • Russia did claim symbolic Silk Road inheritance
 • The conquest was driven by strategic, not commercial, logic
@@ -217,6 +222,12 @@ The realist sharpening adds: asymmetry is structural.
 • Mearsheimer: Power asymmetry determines outcomes; China's economy
   is ten times larger; BRI serves Chinese, not Russian, interests;
   partnership language masks growing dependency
+
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "Imagine the outrage in Washington if China built an impressive
+> military alliance and tried to include Canada and Mexico in it."
+> — Mearsheimer, *Foreign Affairs* (2014)
 
 Both readings are valid:
 • Partnership does provide mutual benefits
@@ -342,6 +353,8 @@ Each connection is structurally required.
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Frankopan, Peter. *The Silk Roads: A New History of the World*.
   London: Bloomsbury, 2015.
 • Gabuev, Alexander. "The Silk Road Trap." *Carnegie Moscow Center*, 2018.

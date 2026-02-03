@@ -128,6 +128,13 @@ In Russian memory:
 
 Ukraine is no longer buffer but exposure.
 
+Henry Kissinger framed the diplomatic imperative that follows:
+
+"If we treat Russia seriously as a great power, we need at an early
+stage to determine whether their concerns can be reconciled with
+our necessities."
+— Henry Kissinger, on Russia and Ukraine (2014); *World Order* (2014)
+
 ────────────────────────────────────────────────────────────
 VIII. CIVILIZATIONAL FUNCTION
 ────────────────────────────────────────────────────────────
@@ -180,6 +187,8 @@ XI. MEM BIBLIOGRAPHY (v2.7)
 • Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. New Haven: Yale University Press, 2001.
 • Hosking, Geoffrey. *Russia and the Russians: A History*. Cambridge: Harvard University Press, 2001.
 • Kappeler, Andreas. *The Russian Empire: A Multi-Ethnic History*. London: Longman, 2001.
+• Kissinger, Henry. *World Order*. New York: Penguin, 2014.
+• Kissinger, Henry. *Diplomacy*. New York: Simon & Schuster, 1994.
 
 ────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)

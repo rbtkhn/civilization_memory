@@ -195,6 +195,13 @@ were demonstrating that Russia would not surrender its civilizational
 claims even under starvation. This was not merely institutional
 survival—it was psychological warfare.
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings are valid:
 • Mercouris: institutional continuity as civilizational anchor
 • Mearsheimer: cultural preservation as strategic resistance
@@ -272,6 +279,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Massie, Robert K. *Catherine the Great: Portrait of a Woman*.
   New York: Random House, 2011.
 • Montefiore, Simon Sebag. *The Romanovs: 1613–1918*.

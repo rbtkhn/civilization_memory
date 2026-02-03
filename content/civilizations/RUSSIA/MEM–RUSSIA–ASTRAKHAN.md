@@ -105,6 +105,12 @@ The realist sharpening adds: this was straightforward imperial expansion.
   were weak and divided; Moscow exploited power vacuums just as
   any great power would
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "The sad truth is that might often makes right when great-power
+> politics are at play."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 Both readings capture truth:
 • The conquest did carry civilizational significance for Russian identity
 • The conquest was also ordinary imperial expansion at neighbors' expense
@@ -270,6 +276,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
 • Halperin, Charles. *Russia and the Golden Horde: The Mongol Impact
   on Medieval Russian History*. Bloomington: Indiana University Press, 1985.
 • Khodarkovsky, Michael. *Russia's Steppe Frontier: The Making of a

@@ -166,6 +166,15 @@ the products of relocated factories and the bodies of conscripts
 who knew they would probably not survive. It worked."
 — David Glantz, *When Titans Clashed* (1995)
 
+**John Keegan — *The Second World War***:
+
+> "The Stavka calculated that there were 16 million men of military age
+> in Russia and that the strength of the Red Army could be raised to 9
+> million in 1942; allowing for 3 million already taken prisoner and a
+> million dead, there would still be enough men to fill 400 divisions
+> and provide replacements."
+> — Keegan, *The Second World War* (1990)
+
 Attritional grammar over maneuver grammar (RLL–0015 validated).
 
 ────────────────────────────────────────────────────────────
@@ -301,6 +310,7 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 • Erickson, John. *The Road to Stalingrad*.
   London: Weidenfeld & Nicolson, 1975.
 • Erickson, John. *The Road to Berlin*.

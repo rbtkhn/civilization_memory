@@ -182,6 +182,13 @@ The realist sharpening adds: Germany nearly won.
   state nearly collapsed in October; survival was contingent
   on factors (weather, Japanese neutrality) outside Soviet control
 
+**John Mearsheimer — *Why the Ukraine Crisis Is the West's Fault***:
+
+> "History shows that countries will absorb enormous amounts of
+> punishment in order to protect their core strategic interests. There
+> is no reason to think Russia represents an exception to this rule."
+> — Mearsheimer, *Foreign Affairs* (2014)
+
 John Erickson notes:
 
 "In October 1941, the Soviet state came closer to destruction
@@ -191,6 +198,15 @@ all suggested that collapse was imminent. Survival was not
 inevitable. It was the product of specific decisions, favorable
 circumstances, and German overextension. The margin was narrow."
 — John Erickson, *The Road to Stalingrad* (1975)
+
+**John Keegan — *The Second World War***:
+
+> "It is a paradox of campaigning in Russia that, though winter destroys
+> armies, it is the coming of spring that halts operations. The thaw,
+> saturating the suddenly unfrozen topsoil with thirty inches of snow
+> melt, turns the dirt roads liquid and the surface of the steppe to
+> swamp, the rasputitsa, 'internal seas' of mud which clog all movement."
+> — Keegan, *The Second World War* (1990)
 
 Both readings are valid:
 • Soviet resistance was real
@@ -295,6 +311,9 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
+  *Foreign Affairs* 93, no. 5 (2014).
+• Keegan, John. *The Second World War*. New York: Viking, 1990.
 • Stahel, David. *Operation Barbarossa and Germany's Defeat
   in the East*. Cambridge: Cambridge University Press, 2009.
 • Glantz, David M., and Jonathan House. *When Titans Clashed*.

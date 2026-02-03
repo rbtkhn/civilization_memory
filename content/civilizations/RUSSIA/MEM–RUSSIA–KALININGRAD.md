@@ -119,6 +119,17 @@ V. SOVIET KALININGRAD: CLOSED MILITARY ZONE
 ────────────────────────────────────────────────────────────
 Cold War Kaliningrad was militarized and isolated.
 
+The nuclear premise that shaped superpower conduct in that era was
+stated clearly by the architect of détente:
+
+"Both major nuclear powers must base their policies on the premise
+that neither can expect to impose its will on the other without
+running an intolerable risk."
+— Henry Kissinger, détente-era formulation (1970s); *Diplomacy* (1994)
+
+Closed military zones and forward deployments—Kaliningrad among
+them—existed within that constraint: deterrence and coexistence at once.
+
 V.A STRATEGIC FUNCTION
 ────────────────────────────────────────────────────────────
 Soviet military significance:
@@ -290,6 +301,7 @@ Primary Sources Consulted:
 • Soviet decrees on Kaliningrad establishment (1946)
 
 Secondary Sources:
+• Kissinger, Henry. *Diplomacy*. New York: Simon & Schuster, 1994.
 • Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. New Haven:
   Yale University Press, 2001.
 • Hosking, Geoffrey. *Russia and the Russians: A History*. Cambridge:
@@ -318,5 +330,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KALININGRAD v2.0
+END OF FILE — MEM–RUSSIA–KALININGRAD v3.0
 ────────────────────────────────────────────────────────────
