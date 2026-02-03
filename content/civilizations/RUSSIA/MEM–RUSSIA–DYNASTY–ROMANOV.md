@@ -1,10 +1,10 @@
-MEM–RUSSIA–DYNASTY–ROMANOV — v2.7
+MEM–RUSSIA–DYNASTY–ROMANOV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.1
-Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
+Version: 3.0
+Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: AUTOCRATIC EMPIRE · POST-CRISIS RESTORATION → SYSTEMIC OVERLOAD
 Subject: Romanov Dynasty
@@ -14,13 +14,20 @@ Last Update: January 2026
 Word Count: ~3,550
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
 PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -90,7 +97,7 @@ This establishes the Romanovs as **repair dynasts**, not founders.
 ────────────────────────────────────────────────────────────
 III. LEGITIMACY SEQUENCING (POST-RURIKID REPAIR PHASE)
 ────────────────────────────────────────────────────────────
-Under CIV–MEM–TEMPLATE v2.5, the Romanovs clarify Russian legitimacy
+Under CIV–MEM–TEMPLATE v3.0, the Romanovs clarify Russian legitimacy
 sequencing:
 
 1. Sacral identity (Orthodoxy) survives collapse
@@ -375,10 +382,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Empire as buffer multiplication
 6) Romanovs → Soviet inheritance
 7) Counterfactual: constitutional Romanovs
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v3.0)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV v2.7
+END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV v3.0
 ────────────────────────────────────────────────────────────

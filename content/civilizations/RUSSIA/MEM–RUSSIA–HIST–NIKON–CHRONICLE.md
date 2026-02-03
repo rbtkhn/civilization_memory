@@ -1,10 +1,10 @@
-MEM–RUSSIA–HIST–NIKON–CHRONICLE — v2.7
+MEM–RUSSIA–HIST–NIKON–CHRONICLE — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · ARC-COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION
+Status: ACTIVE · CANONICAL · ARC-COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–HIST–NIKON–CHRONICLE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Muscovite Official Historiography · Imperial Synthesis Chronicle
 Subject: Nikon Chronicle (Никоновская летопись / Патриаршая летопись)
@@ -14,13 +14,20 @@ Last Update: January 2026
 Word Count: ~3,400
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• CIV–ARC–RUSSIA v1.5 (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–ARC–RUSSIA v3.1 (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -245,7 +252,7 @@ Supports inquiry into:
 • 16th-century Muscovite political theology
 
 ────────────────────────────────────────────────────────────
-XIII. MEM CONNECTIONS (v2.7 COMPLIANT)
+XIII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source absorbed and reframed
@@ -311,5 +318,5 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–HIST–NIKON–CHRONICLE v2.7
+END OF FILE — MEM–RUSSIA–HIST–NIKON–CHRONICLE v3.0
 ────────────────────────────────────────────────────────────

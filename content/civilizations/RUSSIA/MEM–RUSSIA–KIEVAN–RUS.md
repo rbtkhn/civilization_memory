@@ -1,9 +1,10 @@
-MEM–RUSSIA–KIEVAN–RUS — v2.7
+MEM–RUSSIA–KIEVAN–RUS — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Upgrade Type: TEMPLATE v2.2 COMPLIANCE + STRUCTURAL REFINEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–KIEVAN–RUS v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Early Rus’ · Trade-Networked Plural Civilization
 Subject: Kievan Rus’ (Киевская Русь)
@@ -13,12 +14,17 @@ Last Update: January 2026
 Word Count: ~2,900
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.7
-Compatibility: CIV–MEM–CORE v2.0+
-
-SUBJECT TYPE DECLARATION (v2.7):
+Governed by: CIV–MEM–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.0 SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -176,7 +182,7 @@ rather than structural explanation.
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with
-CIV–MEM–TEMPLATE v2.5, Category C quotations are replaced by additional
+CIV–MEM–TEMPLATE v3.0, Category C quotations are replaced by additional
 Category D sources. This substitution is explicit and disclosed.
 
 ────────────────────────────────────────────────────────────
@@ -211,7 +217,7 @@ What was replaced:
 Continuity flowed through transformation, not preservation.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (v2.7 COMPLIANT)
+XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–RURIK — founding dynasty
@@ -270,5 +276,5 @@ Exploration options available.
 (Exactly eight options presented on first ingest.)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KIEVAN–RUS v2.7
+END OF FILE — MEM–RUSSIA–KIEVAN–RUS v3.0
 ────────────────────────────────────────────────────────────

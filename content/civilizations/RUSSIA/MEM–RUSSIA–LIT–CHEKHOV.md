@@ -1,9 +1,10 @@
-MEM–RUSSIA–LIT–CHEKHOV — v2.7
+MEM–RUSSIA–LIT–CHEKHOV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v2.0 → v2.7)
+Version: 3.0
+Supersedes: MEM–RUSSIA–LIT–CHEKHOV v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,300
@@ -11,12 +12,18 @@ Civilization: RUSSIA (Русская цивилизация)
 Subject: Anton Chekhov — Everyday Suffering Architect
 Dates: 1860–1904 AD
 
-Governed by: CIV–MEM–TEMPLATE v2.7
-• CIV–MEM–CORE v2.0+
-• ARC–RUSSIA v1.5 (pinned)
+Governed by: CIV–MEM–TEMPLATE v3.0
+• CIV–MEM–CORE v3.0 • ARC–RUSSIA v3.1 (pinned)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a MODERN subject (19th-20th century).
 Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
@@ -295,5 +302,5 @@ Secondary Sources:
 • Pitcher, Harvey. *Chekhov's Leading Lady* (1979)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–CHEKHOV v2.7
+END OF FILE — MEM–RUSSIA–LIT–CHEKHOV v3.0
 ────────────────────────────────────────────────────────────

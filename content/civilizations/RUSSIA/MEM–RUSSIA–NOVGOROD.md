@@ -1,9 +1,10 @@
-MEM–RUSSIA–NOVGOROD — v2.7
+MEM–RUSSIA–NOVGOROD — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Upgrade Type: LEGACY v1.0 → TEMPLATE v2.7 COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–NOVGOROD v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Early Rus' · Commercial-Republican Alternative
 Subject: Novgorod the Great (Новгород Великий)
@@ -12,13 +13,18 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~1,800
 
-ARC Version Pinned: ARC–RUSSIA v1.5
-Governed by: CIV–MEM–TEMPLATE v2.7
-Compatibility: CIV–MEM–CORE v2.0+
-
-SUBJECT TYPE DECLARATION (v2.7):
+ARC Version Pinned: ARC–RUSSIA v3.1
+Governed by: CIV–MEM–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.0 SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -169,7 +175,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — parent civilizational system
@@ -207,7 +213,7 @@ SECONDARY SOURCES:
 • Yanin, Valentin L. "The Archaeology of Novgorod." *Scientific American* 262, no. 2 (1990): 84–91.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
+XIII. MEM INGEST BOOTSTRAP (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–NOVGOROD
 Status: ACTIVE
@@ -225,5 +231,5 @@ When ingested without CIV–MEM–CORE present, the system MUST issue:
 8. Examine archaeological evidence from birch bark documents
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–NOVGOROD v2.7
+END OF FILE — MEM–RUSSIA–NOVGOROD v3.0
 ────────────────────────────────────────────────────────────

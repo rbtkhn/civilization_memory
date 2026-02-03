@@ -1,11 +1,11 @@
-MEM–RUSSIA–OTTOMAN–EMPIRE — v2.7
+MEM–RUSSIA–OTTOMAN–EMPIRE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · v2.7 COMPLIANT
+ACTIVE · CANONICAL · v3.0 COMPLIANT
 
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0 (structural upgrade)
-Upgrade Type: ADDITIVE · v2.7 NORMALIZATION
+Version: 3.0
+Supersedes: MEM–RUSSIA–OTTOMAN–EMPIRE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Ottoman Empire (Османская империя) — Russian Civilizational Counterpart
 Dates: c. 1300–1922 AD (Russian interaction focus: 15th–19th c.)
@@ -13,10 +13,17 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,800
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 TYPE: CIVILIZATIONAL–COUNTERPART
 SUBTYPE: IMPERIAL–RIVAL
@@ -269,5 +276,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: STRATEGIC (recommended for first ingest)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–OTTOMAN–EMPIRE v2.7
+END OF FILE — MEM–RUSSIA–OTTOMAN–EMPIRE v3.0
 ────────────────────────────────────────────────────────────

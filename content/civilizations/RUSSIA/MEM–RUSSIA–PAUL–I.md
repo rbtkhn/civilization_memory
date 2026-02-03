@@ -1,9 +1,10 @@
-MEM–RUSSIA–PAUL–I — v2.7
+MEM–RUSSIA–PAUL–I — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: v2.7 COMPLIANCE UPGRADE
+Version: 3.0
+Supersedes: MEM–RUSSIA–PAUL–I v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Paul I (Павел I)
@@ -12,9 +13,16 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,500
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+SUBJECT TYPE DECLARATION (v3.0): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -112,7 +120,7 @@ X. MEM BIBLIOGRAPHY (v2.7)
 • Wortman, Richard. *Scenarios of Power: Myth and Ceremony in Russian Monarchy*. Princeton: Princeton University Press, 1995.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
 • MEM–RUSSIA–CATHERINE–GREAT — elite compact formation predecessor
@@ -166,5 +174,5 @@ H) Compliance & integrity audit (v2.7)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PAUL–I v2.7
+END OF FILE — MEM–RUSSIA–PAUL–I v3.0
 ────────────────────────────────────────────────────────────

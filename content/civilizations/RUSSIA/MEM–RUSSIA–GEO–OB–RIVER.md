@@ -14,7 +14,7 @@ Last Update: February 2026
 Word Count: ~2,200
 
 Governed by:
-• CIV–MEM–CORE v2.2+
+• CIV–MEM–CORE v3.0
 • CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
 • CIV–SCHOLAR–RUSSIA (RLL binding)

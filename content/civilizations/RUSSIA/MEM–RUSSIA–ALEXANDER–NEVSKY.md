@@ -1,9 +1,10 @@
-MEM–RUSSIA–ALEXANDER–NEVSKY — v2.7
+MEM–RUSSIA–ALEXANDER–NEVSKY — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
+Version: 3.0
+Supersedes: MEM–RUSSIA–ALEXANDER–NEVSKY v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Post-Kievan Collapse · Survival Under Asymmetry
 Subject: Alexander Nevsky (Александр Невский)
@@ -13,12 +14,17 @@ Last Update: January 2026
 Word Count: ~2,750
 
 ARC Version Pinned: ARC–RUSSIA v1.0
-Governed by: CIV–MEM–TEMPLATE v2.7
-Compatibility: CIV–MEM–CORE v2.0+
-
-SUBJECT TYPE DECLARATION (v2.7):
+Governed by: CIV–MEM–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.0 SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
 PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -136,7 +142,7 @@ moralized or descriptive framing rather than structural explanation.
 EARLY MODERN SUBSTITUTION DECLARATION:
 Required Early Modern historiographic sources were sought but failed to
 meet the ARC Quality Threshold Test. In accordance with
-CIV–MEM–TEMPLATE v2.5, Category C quotations are replaced by additional
+CIV–MEM–TEMPLATE v3.0, Category C quotations are replaced by additional
 Category D sources. This substitution is explicit and disclosed.
 
 ────────────────────────────────────────────────────────────
@@ -249,5 +255,5 @@ Exploration options available.
 (Exactly eight options presented on first ingest.)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–NEVSKY v2.7
+END OF FILE — MEM–RUSSIA–ALEXANDER–NEVSKY v3.0
 ────────────────────────────────────────────────────────────

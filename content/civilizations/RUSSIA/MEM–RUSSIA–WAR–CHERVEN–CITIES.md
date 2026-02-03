@@ -37,7 +37,7 @@ No synthesis introduced.
 Contradictions preserved without resolution.
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a SPARSE SOURCES subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1

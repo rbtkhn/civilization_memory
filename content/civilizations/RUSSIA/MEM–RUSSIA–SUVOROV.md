@@ -1,10 +1,10 @@
-MEM–RUSSIA–SUVOROV — v2.8
+MEM–RUSSIA–SUVOROV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS (OPERATIONAL QUARTET)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · MEM CONNECTION UPDATE (IZMAIL)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (Catherine II → Paul I)
 Subject: Alexander Suvorov (Александр Суворов)
@@ -14,13 +14,21 @@ Last Update: January 2026
 Word Count: ~3,050
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1 (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · MEM CONNECTION UPDATE
+────────────────────────────────────────────────────────────
+v3.0 (February 2026): MEM CONNECTION UPDATE. MEM–RUSSIA–WAR–IZMAIL
+→ MEM–RUSSIA–WAR–RUSSO–TURKISH–IZMAIL (file created). Governance
+refs → CIV–MEM–CORE v3.0, CIV–MEM–TEMPLATE v3.0, ARC–RUSSIA v3.1.
+Supersedes v2.8.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8)
@@ -348,7 +356,7 @@ Russian (≥10):
 • MEM–RUSSIA–CATHERINE–II — patron and strategic commander
 • MEM–RUSSIA–PAUL–I — tension with parade-ground militarism
 • MEM–RUSSIA–WAR–OTTOMAN — campaigns against Ottoman Empire
-• MEM–RUSSIA–WAR–IZMAIL — decisive siege victory
+• MEM–RUSSIA–WAR–RUSSO–TURKISH–IZMAIL — decisive assault victory (1790)
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic myth and military legitimacy
 • MEM–RUSSIA–ARMY–IMPERIAL — Russian military doctrine and training
 • MEM–RUSSIA–KUTUZOV — successor commander, Suvorov legacy
@@ -416,5 +424,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SUVOROV v2.7
+END OF FILE — MEM–RUSSIA–SUVOROV v3.0
 ────────────────────────────────────────────────────────────

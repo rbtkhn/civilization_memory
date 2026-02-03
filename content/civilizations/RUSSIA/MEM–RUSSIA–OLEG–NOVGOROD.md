@@ -1,9 +1,10 @@
-MEM–RUSSIA–OLEG–NOVGOROD — v2.7
+MEM–RUSSIA–OLEG–NOVGOROD — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v2.1 → v2.7)
+Version: 3.0
+Supersedes: MEM–RUSSIA–OLEG–NOVGOROD v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Oleg of Novgorod (Вещий Олег)
 Dates: c. 879–912 AD
@@ -11,12 +12,18 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,500
 
-Governed by: CIV–MEM–TEMPLATE v2.7
-• CIV–MEM–CORE v2.0+
-• ARC–RUSSIA v1.5 (pinned)
+Governed by: CIV–MEM–TEMPLATE v3.0
+• CIV–MEM–CORE v3.0 • ARC–RUSSIA v3.1 (pinned)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a SPARSE SOURCES subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
@@ -268,5 +275,5 @@ Secondary Sources:
 • Martin, Janet. *Medieval Russia, 980–1584* (2007)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–OLEG–NOVGOROD v2.7
+END OF FILE — MEM–RUSSIA–OLEG–NOVGOROD v3.0
 ────────────────────────────────────────────────────────────

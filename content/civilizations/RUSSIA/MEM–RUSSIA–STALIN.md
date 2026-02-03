@@ -1,7 +1,7 @@
 MEM–RUSSIA–STALIN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
 Supersedes: v2.8
 Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
@@ -14,12 +14,12 @@ Last Update: January 2026
 Word Count: ~3,400
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA v1.5 (pinned)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a MODERN subject (19th-20th century).
 Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3

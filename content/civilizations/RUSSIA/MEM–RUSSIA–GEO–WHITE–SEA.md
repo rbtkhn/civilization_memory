@@ -1,21 +1,28 @@
-MEM–RUSSIA–GEO–WHITE–SEA — v2.7
+MEM–RUSSIA–GEO–WHITE–SEA — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 Status: ACTIVE
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · FULL v2.7 COMPLIANCE · BIBLIOGRAPHY & SUBJECT TYPE
+Version: 3.0
+Supersedes: MEM–RUSSIA–GEO–WHITE–SEA v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: White Sea (Белое море)
 Dates: Medieval period–present
 Class: MEM (Civilizational Memory)
-ARC Version Pinned: CIV–ARC–RUSSIA v1.5
+ARC Version Pinned: CIV–ARC–RUSSIA v3.1
 Last Update: January 2026
 Word Count: ~2,650
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses an INTERPRETIVE subject.
 Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
@@ -242,5 +249,5 @@ ADDITIONAL SCHOLARLY SOURCES:
 • Shaw, Denis J.B. *Russia in the Modern World: A New Geography* (1999)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–WHITE–SEA v2.7
+END OF FILE — MEM–RUSSIA–GEO–WHITE–SEA v3.0
 ────────────────────────────────────────────────────────────

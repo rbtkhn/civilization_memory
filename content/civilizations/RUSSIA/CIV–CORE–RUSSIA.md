@@ -1,14 +1,14 @@
-CIV–CORE–RUSSIA — v3.1
+CIV–CORE–RUSSIA — v3.2
 Civilizational Strategy Codex · Constraint-Hardened Endurance Edition
 Phase-Aware Template v3.0 Compliance · Temporal Compression Doctrine · Scholar RLL Feed
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
 Activation State: ACTIVE
-Supersedes: CIV–CORE–RUSSIA v3.0
+Supersedes: CIV–CORE–RUSSIA v3.1
 Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governed by: CIV–MEM–CORE v3.0
-Upgrade Type: SCHOLAR FEED · RLL BINDING EXPANSION
+Upgrade Type: DOCTRINE CITATION · CIV–DOCTRINE–RUSSIA v3.2 LINKAGE
 Lock Level: STRUCTURAL
 Civilization Phase: PHASE III — MATURITY
 DIB Status: DEFINED · INACTIVE
@@ -20,6 +20,11 @@ Word Count: ~12,600
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
 ────────────────────────────────────────────────────────────
+v3.2 (February 2026): DOCTRINE CITATION · CIV–DOCTRINE–RUSSIA v3.2 LINKAGE.
+Added optional doctrine bindings: Section II (DOCTRINE 03 — institutional/territorial
+legitimacy modes); Section VI (DOCTRINE 05 — Fiscal Constraint and Restraint Preference).
+No axioms, diagnostics, or RLL bindings altered. Supersedes v3.1.
+
 v3.1 (February 2026): SCHOLAR FEED · RLL BINDING EXPANSION. RLL bindings expanded from CIV–SCHOLAR–RUSSIA v3.1: WAR RLLs 0012–0017 in Section VIII; GEO RLLs 0018, 0019, 0021, 0024, 0027, 0028, 0029 in Section IV; RLL–0017 (Sacrifice Generates Legitimacy) in Section II; RLL–0016 (War as Governance Compression) in Section XI. No axioms altered; no diagnostics modified; no gates weakened. Supersedes v3.0.
 
 v3.0 (February 2026): ALIGNMENT · v3.0. Template Version Used → CIV–CORE–TEMPLATE v3.0; CIV–MEM–CORE v3.0 alignment. No axioms, diagnostics, or constraints changed. Supersedes v2.1.
@@ -107,6 +112,9 @@ RLL Binding (Corrected Namespace):
 • RLL–RUSSIA–0002 (Symbolic legitimacy limits)
 • RLL–RUSSIA–0005 (Coercion-legitimacy inversion)
 • RLL–RUSSIA–0017 (Sacrifice Generates Legitimacy — catastrophic loss converted to regime legitimacy; incentive structure for cost/sacrifice under uncertainty)
+
+Doctrine Binding:
+• CIV–DOCTRINE–RUSSIA v3.2 DOCTRINE 03 (Symbolic Legitimacy with Structural Limits) — institutional vs territorial legitimacy modes; power distribution and control sustainability govern mode validity.
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
@@ -202,6 +210,9 @@ C) Social Hardship Absorption (SHA-RU)
 • HIGH / MED / LOW
 • Inflation Stress: LOW / MED / HIGH
 • Essentials: STABLE / FRAYING / BREAKING
+
+Doctrine Binding:
+• CIV–DOCTRINE–RUSSIA v3.2 DOCTRINE 05 (Fiscal Constraint and Restraint Preference) — under low per capita extraction and high war cost, alliance-based restraint favored; territorial expansion attractive when projected fiscal returns justify upfront cost.
 
 ────────────────────────────────────────────────────────────
 VII. TECHNOLOGICAL / COMPUTE SOVEREIGNTY
@@ -424,5 +435,5 @@ CANONICAL REFERENCE:
 Embedded legacy mirrors are archival only and non-operative.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–RUSSIA v3.1
+END OF FILE — CIV–CORE–RUSSIA v3.2
 ────────────────────────────────────────────────────────────

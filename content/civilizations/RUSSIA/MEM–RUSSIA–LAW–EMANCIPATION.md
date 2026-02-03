@@ -1,10 +1,10 @@
-MEM–RUSSIA–LAW–EMANCIPATION — v2.7
+MEM–RUSSIA–LAW–EMANCIPATION — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Supersedes: v1.0 (MEM–RUSSIA–EMANCIPATION)
-Upgrade Type: ADDITIVE · v2.0 COMPLIANCE + RENAME (v1.0 → v2.0)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–LAW–EMANCIPATION v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Emancipation of the Serfs (Освобождение крестьян)
 Dates: 1861 AD
@@ -13,19 +13,26 @@ Last Update: January 2026
 Word Count: ~1,800
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject (legal reform event).
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade brings the file into full v2.0 compliance with
-CIV–MEM–TEMPLATE v2.5 and renames from MEM–RUSSIA–EMANCIPATION to
+CIV–MEM–TEMPLATE v3.0 and renames from MEM–RUSSIA–EMANCIPATION to
 MEM–RUSSIA–LAW–EMANCIPATION to reflect legal system classification.
 
 CHANGES IMPLEMENTED:
@@ -203,5 +210,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–EMANCIPATION v2.7
+END OF FILE — MEM–RUSSIA–LAW–EMANCIPATION v3.0
 ────────────────────────────────────────────────────────────

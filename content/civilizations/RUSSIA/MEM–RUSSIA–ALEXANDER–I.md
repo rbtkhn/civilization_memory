@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXANDER–I — v2.9
+MEM–RUSSIA–ALEXANDER–I — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.9
-Supersedes: v2.8
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–ALEXANDER–I v2.9
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
 Subject: Alexander I (Александр I)
@@ -14,19 +14,26 @@ Last Update: January 2026
 Word Count: ~3,200
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • CIV–ARC–RUSSIA v2.7 (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.9.
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.9) — DUAL MIND AUDIT IMPLEMENTATION
 ────────────────────────────────────────────────────────────
-This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v2.2
-and CIV–MIND–MEARSHEIMER v2.2.
+This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v3.0
+and CIV–MIND–MEARSHEIMER v3.0.
 
 POLYPHONIC INSIGHTS ADDED:
 • Legitimacy → Power Distribution: Regicide burden as psychology
@@ -52,7 +59,7 @@ Contradictions preserved without synthesis.
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Lieven's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v3.0.
 
 CHANGES IMPLEMENTED:
 • Added 3 Lieven verbatim quotations from "Russia Against Napoleon" (2009)
@@ -444,5 +451,5 @@ Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–I v2.9
+END OF FILE — MEM–RUSSIA–ALEXANDER–I v3.0
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–RUSSIA–CATHERINE–GREAT — v2.8
+MEM–RUSSIA–CATHERINE–GREAT — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS (OPERATIONAL QUARTET)
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–CATHERINE–GREAT v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
 Subject: Catherine the Great (Екатерина II)
@@ -14,13 +14,20 @@ Last Update: January 2026
 Word Count: ~3,450
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8)
@@ -46,7 +53,7 @@ UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence through balanced
 integration of narrative and analytical quotations, while upgrading to
-v2.0 compliance with CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.5.
+v2.0 compliance with CIV–MEM–CORE v3.0 and CIV–MEM–TEMPLATE v3.0.
 
 CHANGES IMPLEMENTED:
 • Added 3 Massie verbatim quotations integrated into Sections III, V, VII
@@ -54,7 +61,7 @@ CHANGES IMPLEMENTED:
 • Quotations combine analytical depth with Catherine's governance context
 • Maintains QTT–ARC compliance (all quotations meet analytical threshold)
 • Preserves LMM symmetry (Lieven/Montefiore/Massie balance)
-• Upgraded governance references to CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.5
+• Upgraded governance references to CIV–MEM–CORE v3.0 and CIV–MEM–TEMPLATE v3.0
 • Ensures binary MEM connections compliance
 
 No analytical deletions.
@@ -374,7 +381,7 @@ X. ACADEMIC REFERENCES (ENGAGED · LMM-COMPLIANT)
 Secondary scholarship contextualizes but does not override primary sources.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–PETER–GREAT — rupture preceding normalization
@@ -407,7 +414,7 @@ XII. MEM BIBLIOGRAPHY (v2.7)
 • Alexander, John T. *Catherine the Great: Life and Legend*. Oxford: Oxford University Press, 1989.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
+XIII. MEM INGEST BOOTSTRAP (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–CATHERINE–GREAT
 Status: ACTIVE
@@ -425,5 +432,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v2.9
+END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v3.0
 ────────────────────────────────────────────────────────────

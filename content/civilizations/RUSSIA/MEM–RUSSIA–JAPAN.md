@@ -1,11 +1,11 @@
-MEM–RUSSIA–JAPAN — v2.8
+MEM–RUSSIA–JAPAN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · v2.8 COMPLIANT
 
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: POLYPHONIC ENHANCEMENT · VERBATIM QUOTE EXPANSION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–JAPAN v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russia–Japan Civilizational Encounter
 Dates: c. 1850s AD–present
@@ -13,10 +13,17 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 
-Governed by: CIV–MEM–TEMPLATE v2.8
+Governed by: CIV–MEM–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 TYPE: CIVILIZATIONAL–ENCOUNTER
 SUBTYPE: MIRROR–MODERNIZATION RIVAL
@@ -325,5 +332,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: MILITARY (recommended for first ingest)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–JAPAN v2.8
+END OF FILE — MEM–RUSSIA–JAPAN v3.0
 ────────────────────────────────────────────────────────────

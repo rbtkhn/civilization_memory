@@ -1,9 +1,10 @@
-MEM–RUSSIA–DYNASTY–RURIKID — v2.7
+MEM–RUSSIA–DYNASTY–RURIKID — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: V2.7 TEMPLATE COMPLIANCE (v2.0 → v2.7)
+Version: 3.0
+Supersedes: MEM–RUSSIA–DYNASTY–RURIKID v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Dynastic State Formation · Lineage Sovereignty
 Subject: Rurikid Dynasty
@@ -12,12 +13,18 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~4,200
 
-Governed by: CIV–MEM–TEMPLATE v2.7
-• CIV–MEM–CORE v2.0+
-• ARC–RUSSIA v1.5 (PINNED)
+Governed by: CIV–MEM–TEMPLATE v3.0
+• CIV–MEM–CORE v3.0 • ARC–RUSSIA v3.1 (PINNED)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
@@ -226,5 +233,5 @@ Secondary Sources:
 • Pipes, Richard. *Russia under the Old Regime* (1974)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–RURIKID v2.7
+END OF FILE — MEM–RUSSIA–DYNASTY–RURIKID v3.0
 ────────────────────────────────────────────────────────────

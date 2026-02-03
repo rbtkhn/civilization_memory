@@ -1,10 +1,10 @@
-MEM–RUSSIA–POTEMKIN — v2.7
+MEM–RUSSIA–POTEMKIN — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.3
-Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
+Version: 3.0
+Supersedes: MEM–RUSSIA–POTEMKIN v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (Catherine II)
 Subject: Grigory Potemkin (Григорий Потёмкин)
@@ -13,9 +13,17 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7):
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -309,5 +317,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Sebag Montefiore, Simon. *Prince of Princes: The Life of Potemkin*. London: Weidenfeld & Nicolson, 2000.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–POTEMKIN v2.7
+END OF FILE — MEM–RUSSIA–POTEMKIN v3.0
 ────────────────────────────────────────────────────────────

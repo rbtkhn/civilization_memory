@@ -1,22 +1,22 @@
-MEM–RUSSIA–SIBERIA — v2.8
+MEM–RUSSIA–SIBERIA — v3.0
 Civilizational Memory Codex · Subject Memory File
 ACTIVE · CANONICAL · MERCOURIS CIVILIZATIONAL COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: COGNITIVE LAYER CLARIFICATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–SIBERIA v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Siberia (Imperial Incorporation & Civilizational Process)
 Dates: c. 1580 AD–present
 Class: MEM (Subject Memory)
-Cognitive Layer: CIV–MIND–MERCOURIS v2.2
+Cognitive Layer: CIV–MIND–MERCOURIS v3.0
 Last Update: January 2026
 Word Count: ~2,900
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
-• CIV–MIND–MERCOURIS v2.2 (CIVILIZATIONAL COGNITION)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–MIND–MERCOURIS v3.0 (CIVILIZATIONAL COGNITION)
 • ARC–RUSSIA (pinned)
 
 Strategic/geographic dimensions are addressed in this MEM and in related GEO–MEMs (e.g. MEM–RUSSIA–GEO–URALS, MEM–RUSSIA–GEO–LAKE–BAIKAL, MEM–RUSSIA–GEO–BERING–STRAIT).
@@ -35,7 +35,14 @@ Subject MEMs preserve:
 Strategic depth, climate, and resource logic remain part of the polyphonic analysis within this MEM and in related GEO–MEMs.
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7):
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject (imperial territorial process).
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -266,5 +273,5 @@ H. Compliance & integrity audit (v2.7)
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SIBERIA v2.8
+END OF FILE — MEM–RUSSIA–SIBERIA v3.0
 ────────────────────────────────────────────────────────────

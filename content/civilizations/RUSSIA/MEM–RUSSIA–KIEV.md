@@ -1,10 +1,10 @@
-MEM–RUSSIA–KIEV — v2.8
+MEM–RUSSIA–KIEV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · PARTIAL · 20% TARGET
 Status: ACTIVE · PARTIAL
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: DUAL MIND AUDIT INTEGRATION
+Version: 3.0
+Supersedes: MEM–RUSSIA–KIEV v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Early Rus' · Sacred Capital and Civilizational Precursor
 Subject: Kiev (Киев) — Urban Core, Sacred Capital, and Civilizational Precursor
@@ -13,9 +13,14 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,100
 
-ARC Version Pinned: ARC–RUSSIA v1.5
-Governed by: CIV–MEM–TEMPLATE v2.7
-Compatibility: CIV–MEM–CORE v2.0+
+ARC Version Pinned: ARC–RUSSIA v3.1
+Governed by: CIV–MEM–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.0 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — DUAL MIND AUDIT INTEGRATION
@@ -39,7 +44,7 @@ No synthesis introduced.
 Contradictions preserved without resolution.
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 ────────────────────────────────────────────────────────────
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥3, SECONDARY ≥3, CRITICAL ≥2
@@ -389,5 +394,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KIEV v2.8
+END OF FILE — MEM–RUSSIA–KIEV v3.0
 ────────────────────────────────────────────────────────────

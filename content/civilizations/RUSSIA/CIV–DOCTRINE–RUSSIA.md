@@ -1,11 +1,11 @@
-CIV–DOCTRINE–RUSSIA — v3.1
+CIV–DOCTRINE–RUSSIA — v3.2
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.1
-Supersedes: CIV–DOCTRINE–RUSSIA v3.0
-Upgrade Type: REFINEMENT · SCHOLAR WRITE MODE
+Version: 3.2
+Supersedes: CIV–DOCTRINE–RUSSIA v3.1
+Upgrade Type: ADDITIVE · DOCTRINE 03 ADDENDUM + DOCTRINE 05 (SCHOLAR WRITE MODE)
 Civilization: RUSSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–RUSSIA (Explicit Acceptance Only) · Scholar WRITE (per CIV–SCHOLAR–RUSSIA § X)
@@ -14,6 +14,22 @@ Governance Authority: CIV–MEM–CORE v3.0
 Derived from: CIV–DOCTRINE–TEMPLATE v3.0
 Last Update: February 2026
 Word Count: ~1,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.2) — DOCTRINE 03 ADDENDUM + DOCTRINE 05
+────────────────────────────────────────────────────────────
+Scholar WRITE mode (LEARN session 2026-02, Panin–Potemkin analysis):
+
+• DOCTRINE 03: Addendum—institutional vs territorial legitimacy modes.
+  Operational Meaning and Hard Constraints expanded per Mercouris/Mearsheimer
+  refinement. Source: MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT,
+  MEM–RUSSIA–POTEMKIN; RLL–0002, RLL–0005.
+
+• DOCTRINE 05 (FISCAL CONSTRAINT AND RESTRAINT PREFERENCE): New doctrine.
+  Source: CIV–SCHOLAR–RUSSIA LEARN session 2026-02; MEM–RUSSIA–PANIN.
+  Status: ACCEPTED · LOCKED · CANONICAL (user authorization via option selection).
+
+Supersedes v3.1.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.1) — REFINEMENT PASS
@@ -154,12 +170,37 @@ Operational Meaning:
 • Myth stabilizes endurance but cannot create capacity
 • Narrative power delays collapse; it does not prevent it
 • Symbolic inheritance must map onto material control
+• **Institutional legitimacy mode:** Legitimacy through treaties,
+  alliances, and system participation. Structural condition: Russia's
+  relative power makes it rational for others to grant recognition.
+  Depends on systemic recognition and prior coercive credibility.
+  Fails when (a) power distribution no longer makes Russian
+  participation advantageous for others, (b) recognition erodes
+  (e.g. balancing coalition forms), or (c) coercive credibility
+  cannot be demonstrated.
+• **Territorial legitimacy mode:** Legitimacy through conquest and
+  spatial control. Structural condition: Control is militarily and
+  administratively sustainable and costly for others to reverse.
+  Depends on durable control and material throughput. Fails when
+  (a) control is contested and force ratios turn adverse,
+  (b) throughput or replacement depth break down, or (c) the cost
+  of holding exceeds the value gained.
+• **Mode tension:** Regimes may rely on either or both modes. Neither
+  substitutes for structural fundamentals (throughput, cohesion,
+  replacement depth per DOCTRINE 03 Hard Constraints). Institutional
+  legitimacy rests on power distribution and others' incentives to
+  cooperate; territorial legitimacy on enforceable control and
+  capacity to sustain it.
 
 Hard Constraints:
 • Symbolism fails if economic or military systems break
 • Myth without performance accelerates legitimacy shock
 • Narrative cannot override RB/CB/FB/SB constraints (replacement-burn,
   cohesion, force/friction, settlement-binding; CIV–CORE–RUSSIA VIII)
+• Institutional legitimacy fails when power distribution no longer
+  makes Russian participation advantageous for others
+• Territorial legitimacy fails when control cannot be sustained or
+  when the cost of sustaining it outweighs the benefit
 
 ────────────────────────────────────────────────────────────
 
@@ -189,6 +230,43 @@ Hard Constraints:
 • Suppression without survival framing risks rebellion
 • Elite claims must be subordinated to survival imperatives when
   cohesion is at risk (RLL–RUSSIA–0010)
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 05
+Name: FISCAL CONSTRAINT AND RESTRAINT PREFERENCE
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–RUSSIA (LEARN session 2026-02; Panin foreign policy
+  quantitative analysis)
+• MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT
+• DIB–RUSSIA (Approved via WRITE-mode implementation)
+
+Definition:
+When per capita extraction is low and war costs consume a large share
+of revenue, alliance-based restraint is structurally favored over
+unilateral conquest. Diplomacy conserves fiscal capacity; war exhausts
+it. Exceptions arise when territorial expansion promises clear,
+medium-term fiscal returns (e.g. trade, customs, tribute) that justify
+upfront cost.
+
+Operational Meaning:
+• Low per capita extraction favors restraint over war when war cost
+  is high relative to revenue
+• Alliance maintenance is cheaper than war; restraint is instrumentally
+  rational under fiscal constraint
+• Territorial expansion is attractive when projected returns
+  (e.g. Crimea model) offer calculable payback within a decade or so
+• Fiscal constraint favors restraint, but also makes fiscally
+  self-sustaining conquest attractive when available
+
+Hard Constraints:
+• Restraint preference fails when war is funded externally
+  (subsidies, plunder) or when fiscal structure changes
+• Expansion preference fails when conquest cost exceeds returns or
+  when payback horizon is too long
+• Neither preference overrides RB/CB/FB/SB constraints
+  (CIV–CORE–RUSSIA VIII)
 
 ────────────────────────────────────────────────────────────
 III. EXPLICITLY EXCLUDED MATERIAL
@@ -235,5 +313,5 @@ This file is LOCKED.
 Supersession is additive only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–RUSSIA — v3.1
+END OF FILE — CIV–DOCTRINE–RUSSIA — v3.2
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–RUSSIA–TIME–TROUBLES — v2.7
+MEM–RUSSIA–TIME–TROUBLES — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: MAJOR VERSION · v2.7 COMPLIANCE UPGRADE
+Version: 3.0
+Supersedes: MEM–RUSSIA–TIME–TROUBLES v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANAD
 Subject: Time of Troubles (Смутное время)
@@ -13,13 +14,20 @@ Last Update: January 2026
 Word Count: ~2,350
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
 PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2, CRITICAL ≥1
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -257,10 +265,10 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 5) Comparison: Roman interregna
 6) Comparison: Islamic succession crises
 7) Counterfactual: buffered succession
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v3.0)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–TIME–TROUBLES v2.7
+END OF FILE — MEM–RUSSIA–TIME–TROUBLES v3.0
 ────────────────────────────────────────────────────────────

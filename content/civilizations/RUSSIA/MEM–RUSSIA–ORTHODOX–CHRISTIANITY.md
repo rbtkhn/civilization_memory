@@ -1,9 +1,10 @@
-MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v2.7
+MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Upgrade Type: STRUCTURAL + EVIDENTIARY HARDENING · ARC COMPLIANCE SATISFIED
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
 Subject: Orthodox Christianity (Православие)
@@ -13,13 +14,20 @@ Last Update: January 2026
 Word Count: ~3,200
 
 Governed by:
-• CIV–MEM–CORE v2.0
-• CIV–MEM–TEMPLATE v2.7
-• CIV–ARC–RUSSIA v1.5 (PINNED)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–ARC–RUSSIA v3.1 (PINNED)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses an INTERPRETIVE subject (religious-civilizational substrate).
 Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -27,7 +35,7 @@ UPGRADE NOTE (v2.0)
 This version supersedes MEM–RUSSIA–ORTHODOX–CHRISTIANITY v1.0.
 
 v2.0 introduces:
-• Full ARC–RUSSIA v1.5 quotation compliance
+• Full ARC–RUSSIA v3.1 quotation compliance
 • Verified wordcount
 • Structural expansion to ≥8 analytical sections
 • Mandatory MEM connections (Russia + GEO)
@@ -259,5 +267,5 @@ Exploration options available:
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v2.7
+END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.0
 ────────────────────────────────────────────────────────────

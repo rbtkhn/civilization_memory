@@ -1,10 +1,10 @@
-MEM–RUSSIA–THIRD–ROME — v2.8
+MEM–RUSSIA–THIRD–ROME — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–THIRD–ROME v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IDEOLOGICAL–IMPERIAL DOCTRINE
 Subject: "Third Rome" (Третий Рим)
@@ -14,12 +14,19 @@ Last Update: January 2026
 Word Count: ~2,600
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses an INTERPRETIVE subject (ideological-doctrinal formation).
 Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
@@ -27,8 +34,8 @@ Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL �
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — DUAL MIND AUDIT IMPLEMENTATION
 ────────────────────────────────────────────────────────────
-This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v2.2
-and CIV–MIND–MEARSHEIMER v2.2.
+This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v3.0
+and CIV–MIND–MEARSHEIMER v3.0.
 
 POLYPHONIC INSIGHTS ADDED:
 • Ideology → Power: Third Rome as spiritual identity vs. structural
@@ -322,5 +329,5 @@ J) Compliance & integrity audit (v2.8)
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–THIRD–ROME v2.8
+END OF FILE — MEM–RUSSIA–THIRD–ROME v3.0
 ────────────────────────────────────────────────────────────

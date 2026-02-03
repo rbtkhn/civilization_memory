@@ -1,10 +1,10 @@
-MEM–RUSSIA–ELIZABETH — v2.7
+MEM–RUSSIA–ELIZABETH — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: v2.7 COMPLIANCE UPGRADE
+Version: 3.0
+Supersedes: MEM–RUSSIA–ELIZABETH v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Elizabeth Petrovna (Елизавета Петровна)
@@ -13,16 +13,23 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,000
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+SUBJECT TYPE DECLARATION (v3.0): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Massie's presence through balanced
 integration of narrative and analytical quotations, while upgrading to
-v2.0 compliance with CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.5.
+v2.0 compliance with CIV–MEM–CORE v3.0 and CIV–MEM–TEMPLATE v3.0.
 
 CHANGES IMPLEMENTED:
 • Added 3 Massie verbatim quotations integrated into Sections IV, V, VII
@@ -30,7 +37,7 @@ CHANGES IMPLEMENTED:
 • Quotations combine analytical depth with Elizabeth's governance context
 • Maintains QTT–ARC compliance (all quotations meet analytical threshold)
 • Preserves LMM symmetry (Lieven/Montefiore/Massie balance)
-• Upgraded governance references to CIV–MEM–CORE v2.0+ and CIV–MEM–TEMPLATE v2.5
+• Upgraded governance references to CIV–MEM–CORE v3.0 and CIV–MEM–TEMPLATE v3.0
 • Ensures binary MEM connections compliance
 
 No analytical deletions.
@@ -253,7 +260,7 @@ XI. MEM BIBLIOGRAPHY (v2.7)
 • de Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (v2.7 COMPLIANT)
+XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
 • MEM–RUSSIA–PETER–GREAT — rupture and acceleration predecessor
@@ -295,5 +302,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ELIZABETH v2.7
+END OF FILE — MEM–RUSSIA–ELIZABETH v3.0
 ────────────────────────────────────────────────────────────

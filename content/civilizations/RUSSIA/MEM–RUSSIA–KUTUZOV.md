@@ -1,10 +1,10 @@
-MEM–RUSSIA–KUTUZOV — v2.7
+MEM–RUSSIA–KUTUZOV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.2
-Upgrade Type: v2.7 TEMPLATE COMPLIANCE
+Version: 3.0
+Supersedes: MEM–RUSSIA–KUTUZOV v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Mikhail Illarionovich Kutuzov (Михаил Илларионович Кутузов)
 Dates: 1745–1813 AD (decisive role: 1812–1813)
@@ -13,13 +13,20 @@ Last Update: January 2026
 Word Count: ~2,200
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • CIV–ARC–RUSSIA v2.7 (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -46,7 +53,7 @@ Contradictions preserved without synthesis.
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 This additive upgrade enhances Lieven's presence and brings the file
-into full v2.0 compliance with CIV–MEM–TEMPLATE v2.5.
+into full v2.0 compliance with CIV–MEM–TEMPLATE v3.0.
 
 CHANGES IMPLEMENTED:
 • Added 3 Lieven verbatim quotations from "Russia Against Napoleon" (2009)
@@ -288,7 +295,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and endurance validation
@@ -366,5 +373,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–KUTUZOV v2.7
+END OF FILE — MEM–RUSSIA–KUTUZOV v3.0
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXANDER–II — v2.7
+MEM–RUSSIA–ALEXANDER–II — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.1
-Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
+Version: 3.0
+Supersedes: MEM–RUSSIA–ALEXANDER–II v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Alexander II (Александр II)
@@ -13,11 +13,18 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,000
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a MODERN subject.
 Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)
@@ -169,7 +176,7 @@ XI. ACADEMIC REFERENCES (ENGAGED)
 • Richard Pipes — state authority vs society
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–SERFDOM — structural constraints
@@ -208,5 +215,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Wcislo, Francis W. *Reforming Rural Russia: State, Local Society, and National Politics, 1855–1914*. Princeton: Princeton University Press, 1990.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–II v2.7
+END OF FILE — MEM–RUSSIA–ALEXANDER–II v3.0
 ────────────────────────────────────────────────────────────

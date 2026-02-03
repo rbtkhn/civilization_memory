@@ -13,11 +13,11 @@ Last Update: January 2026
 Word Count: ~2,900
 
 Governed by:
-• CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 

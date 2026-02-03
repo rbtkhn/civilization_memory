@@ -1,22 +1,22 @@
-MEM–RUSSIA–GEO–PACIFIC–OCEAN — v2.9
+MEM–RUSSIA–GEO–PACIFIC–OCEAN — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.9
-Supersedes: v2.8
-Upgrade Type: ARC QUOTE SECTIONS ADDED · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–GEO–PACIFIC–OCEAN v2.9
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pacific Ocean (Strategic–Geographic Eastern Terminus)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
-Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
+Cognitive Layer: CIV–MIND–MEARSHEIMER v3.0
 Last Update: January 2026
 Word Count: ~2,100
 
 Governed by:
-• CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
-• CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–MIND–MEARSHEIMER v3.0 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -345,5 +345,5 @@ E) Compare with other continental Pacific positions (China)
 For civilizational analysis, invoke: MEM–RUSSIA–PACIFIC–OCEAN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–PACIFIC–OCEAN v2.9
+END OF FILE — MEM–RUSSIA–GEO–PACIFIC–OCEAN v3.0
 ────────────────────────────────────────────────────────────

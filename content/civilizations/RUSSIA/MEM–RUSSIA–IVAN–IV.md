@@ -1,9 +1,10 @@
-MEM–RUSSIA–IVAN–IV — v2.7
+MEM–RUSSIA–IVAN–IV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Upgrade Type: TEMPLATE v2.2 COMPLIANCE + LEGITIMACY SEQUENCING REBIND + RLL INTEGRATION
+Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–IVAN–IV v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM · UNBUFFERED MUSCOVITE AUTOCRACY
 Subject: Ivan IV “the Terrible” (Иван IV Грозный)
@@ -13,13 +14,20 @@ Last Update: January 2026
 Word Count: ~2,750
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -186,7 +194,7 @@ He is neither aberration nor archetype.
 He is the limit case.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS (v2.7 COMPLIANT)
+X. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–IVAN–III — coercive absorption with buffers
@@ -258,10 +266,10 @@ MANDATORY EIGHT-OPTION SET:
 5) Sacral endurance vs institutional collapse
 6) Comparative terror regimes
 7) Counterfactual: buffered autocracy
-8) Compliance & integrity audit (CIV–MEM–TEMPLATE v2.7)
+8) Compliance & integrity audit (CIV–MEM–TEMPLATE v3.0)
 
 User selects ONE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–IV v2.7
+END OF FILE — MEM–RUSSIA–IVAN–IV v3.0
 ────────────────────────────────────────────────────────────

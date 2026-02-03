@@ -1,10 +1,10 @@
-MEM–RUSSIA–NICHOLAS–II — v2.7
+MEM–RUSSIA–NICHOLAS–II — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.2
-Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY ADDITION + BIBLIOGRAPHY ADDITION
+Version: 3.0
+Supersedes: MEM–RUSSIA–NICHOLAS–II v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas II (Николай II)
@@ -13,11 +13,18 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,500
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a MODERN subject.
 Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2)
@@ -258,7 +265,7 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–ALEXANDER–III — inherited autocratic rigidity
@@ -297,5 +304,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Service, Robert. *A History of Modern Russia*. Cambridge: Harvard University Press, 2005.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–NICHOLAS–II v2.7
+END OF FILE — MEM–RUSSIA–NICHOLAS–II v3.0
 ────────────────────────────────────────────────────────────

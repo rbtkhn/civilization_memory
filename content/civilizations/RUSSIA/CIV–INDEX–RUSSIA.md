@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.4
+CIV–INDEX–RUSSIA — v3.5
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.4
-Supersedes: CIV–INDEX–RUSSIA v3.3
-Upgrade Type: WAR MEM v3.0 UPGRADE · DE-LIST RUSSO–KAZAN (STUB)
+Version: 3.5
+Supersedes: CIV–INDEX–RUSSIA v3.4
+Upgrade Type: NEW MEM REGISTRATION · RUSSO–TURKISH IZMAIL & JASSY
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,13 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.5) — NEW MEM REGISTRATION
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–WAR–RUSSO–TURKISH–IZMAIL.md — C) WAR (Storming of Izmail 1790; Suvorov peak)
+• MEM–RUSSIA–WAR–RUSSO–TURKISH–JASSY.md — C) WAR (Treaty of Jassy 1792; war termination)
+Total: 185 → 187. C) WAR: 48 → 50.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.4) — WAR MEM v3.0 UPGRADE · DE-LIST STUB
@@ -317,6 +324,8 @@ C) WAR
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
 • MEM–RUSSIA–WAR–RUSSO–PERSIAN.md
 • MEM–RUSSIA–WAR–RUSSO–TURKISH.md
+• MEM–RUSSIA–WAR–RUSSO–TURKISH–IZMAIL.md
+• MEM–RUSSIA–WAR–RUSSO–TURKISH–JASSY.md
 • MEM–RUSSIA–WAR–SEVEN–YEARS.md
 • MEM–RUSSIA–WAR–SIBIR–KHANATE.md
 • MEM–RUSSIA–WAR–STAVKA.md
@@ -483,12 +492,12 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,800
-TOTAL REGISTERED FILES: One hundred eighty-five (185) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred eighty-seven (187) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 31 files
 • B) DYNASTY: 2 files
-• C) WAR: 48 files
+• C) WAR: 50 files
 • D) LAW: 6 files
 • E) ECON: 0 files
 • F) RELIGION: 2 files
@@ -498,4 +507,4 @@ Category Breakdown:
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v3.4
+END OF FILE — CIV–INDEX–RUSSIA — v3.5

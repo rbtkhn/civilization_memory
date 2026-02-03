@@ -1,22 +1,22 @@
-MEM–RUSSIA–GEO–CARPATHIANS — v2.8
+MEM–RUSSIA–GEO–CARPATHIANS — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.0
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–GEO–CARPATHIANS v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Carpathians (Strategic–Geographic External Barrier)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
-Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
+Cognitive Layer: CIV–MIND–MEARSHEIMER v3.0
 Last Update: January 2026
 Word Count: ~1,800
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
-• CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–MIND–MEARSHEIMER v3.0 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -231,5 +231,5 @@ E) Compare with other external barriers (Alps, Pyrenees)
 For civilizational analysis, invoke: MEM–RUSSIA–CARPATHIANS
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–CARPATHIANS v2.8
+END OF FILE — MEM–RUSSIA–GEO–CARPATHIANS v3.0
 ────────────────────────────────────────────────────────────

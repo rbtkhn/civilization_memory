@@ -1,9 +1,10 @@
-MEM–RUSSIA–RURIK — v2.7
+MEM–RUSSIA–RURIK — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: v2.7 COMPLIANCE UPGRADE
+Version: 3.0
+Supersedes: MEM–RUSSIA–RURIK v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Foundational Insertion Phase
 Subject: Rurik (Рюрик)
@@ -12,9 +13,16 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,400
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+SUBJECT TYPE DECLARATION (v3.0): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -159,7 +167,7 @@ Distinctive Russian feature:
 Russia begins with **external authority internalized**, not expelled.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (v2.7 COMPLIANT)
+IX. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Connected MEM files include:
 
@@ -235,5 +243,5 @@ H) Compliance & Integrity Audit (v1.6)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–RURIK v2.7
+END OF FILE — MEM–RUSSIA–RURIK v3.0
 ────────────────────────────────────────────────────────────

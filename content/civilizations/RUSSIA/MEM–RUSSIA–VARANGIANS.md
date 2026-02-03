@@ -1,28 +1,35 @@
-MEM–RUSSIA–VARANGIANS — v2.7
+MEM–RUSSIA–VARANGIANS — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: COMPLIANT · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · v2.7 COMPLIANCE · ARC QTT CLEARANCE
+Status: COMPLIANT · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–VARANGIANS v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY RUS’ · CORRIDOR–FOUNDED DYNASTIC FORMATION
 Subject: Varangians (Варяги)
 Dates: c. 750–1050 AD
 Class: MEM (Civilizational Memory)
-Template Version Used: CIV–MEM–TEMPLATE v2.7
+Template Version Used: CIV–MEM–TEMPLATE v3.0
 ARC Version Pinned: ARC–RUSSIA v1.9
 Last Update: January 2026
 Word Count: ~3,650
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA v1.9 (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a SPARSE SOURCES subject (early medieval formation).
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
@@ -30,7 +37,7 @@ UPGRADE NOTE (v2.0)
 This upgrade preserves ALL analytical content from v1.0.
 
 v2.0 introduces ADDITIVE compliance actions only:
-• Full CIV–MEM–TEMPLATE v2.5 alignment
+• Full CIV–MEM–TEMPLATE v3.0 alignment
 • ARC Quality Threshold Test (QTT–ARC) clearance
 • Category-balanced quotations (Ancient / Medieval / Modern)
 • Mandatory MEM connections expansion and justification
@@ -276,5 +283,5 @@ G. Counterfactual: failed Varangian localization
 H. Compliance & integrity audit (v2.7)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–VARANGIANS v2.7
+END OF FILE — MEM–RUSSIA–VARANGIANS v3.0
 ────────────────────────────────────────────────────────────

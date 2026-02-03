@@ -1,10 +1,10 @@
-MEM–RUSSIA–PANIN — v2.8  
+MEM–RUSSIA–PANIN — v3.0  
 Civilizational Memory Codex · Memory File  
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL  
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS (OPERATIONAL QUARTET)  
+Version: 3.0
+Supersedes: MEM–RUSSIA–PANIN v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)  
 Regime: IMPERIAL / ROMANOV (Elizabeth I → Catherine II)  
 Subject: Nikita Ivanovich Panin (Никита Иванович Панин)  
@@ -13,11 +13,18 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026  
 Word Count: ~2,650
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2  
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8)
@@ -315,7 +322,7 @@ Academic sources frame interpretation without overriding primary
 diplomatic evidence.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+IX. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–ELIZABETH — diplomatic inheritance
@@ -374,5 +381,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Schroeder, Paul W. *The Transformation of European Politics, 1763–1848*. Oxford: Clarendon Press, 1994.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PANIN v2.7
+END OF FILE — MEM–RUSSIA–PANIN v3.0
 ────────────────────────────────────────────────────────────

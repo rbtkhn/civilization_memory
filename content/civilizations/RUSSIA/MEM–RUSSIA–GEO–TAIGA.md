@@ -1,22 +1,22 @@
-MEM–RUSSIA–GEO–TAIGA — v2.8
+MEM–RUSSIA–GEO–TAIGA — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
-Supersedes: v2.0
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–GEO–TAIGA v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Taiga (Strategic–Geographic Endurance Basin)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
-Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
+Cognitive Layer: CIV–MIND–MEARSHEIMER v3.0
 Last Update: January 2026
 Word Count: ~2,600
 
 Governed by:
-• CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
-• CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–MIND–MEARSHEIMER v3.0 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -378,5 +378,5 @@ F) Compare with other boreal zones (Canada, Scandinavia)
 For civilizational analysis, invoke: MEM–RUSSIA–TAIGA
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–TAIGA v2.8
+END OF FILE — MEM–RUSSIA–GEO–TAIGA v3.0
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–RUSSIA–MICHAEL–ROMANOV — v2.7
+MEM–RUSSIA–MICHAEL–ROMANOV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · COMPLIANT
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + BIBLIOGRAPHY ADDITION
+Version: 3.0
+Supersedes: MEM–RUSSIA–MICHAEL–ROMANOV v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY ROMANOV · POST–TIME OF TROUBLES RESTORATION
 Subject: Michael Romanov (Михаил Фёдорович)
@@ -13,16 +13,23 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,900
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a SPARSE SOURCES subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -291,5 +298,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v2.7
+END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v3.0
 ────────────────────────────────────────────────────────────

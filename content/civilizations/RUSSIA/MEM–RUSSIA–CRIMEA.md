@@ -1,29 +1,36 @@
-MEM–RUSSIA–CRIMEA — v2.9
+MEM–RUSSIA–CRIMEA — v3.0
 Civilizational Memory Codex · Subject Memory File
 ACTIVE · CANONICAL · MERCOURIS CIVILIZATIONAL COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.9
-Supersedes: v2.8
-Upgrade Type: COGNITIVE LAYER CLARIFICATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–CRIMEA v2.9
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Imperial · Southern Expansion and Maritime Access
 Subject: Crimea (Imperial Incorporation, Contestation, Legitimacy)
 Dates: c. 1783 AD–present
 Class: MEM (Subject Memory)
-Cognitive Layer: CIV–MIND–MERCOURIS v2.2
+Cognitive Layer: CIV–MIND–MERCOURIS v3.0
 Last Update: January 2026
 Word Count: ~3,400
 
-ARC Version Pinned: ARC–RUSSIA v1.5
+ARC Version Pinned: ARC–RUSSIA v3.1
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
-• CIV–MIND–MERCOURIS v2.2 (CIVILIZATIONAL COGNITION)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–MIND–MERCOURIS v3.0 (CIVILIZATIONAL COGNITION)
 
 Strategic Geography: MEM–RUSSIA–GEO–CRIMEA (Mearsheimer cognition)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.9.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a MODERN subject (18th century–present).
 Applied requirements: PRIMARY N/A, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
@@ -49,8 +56,8 @@ The file structure IS the polyphony:
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — DUAL MIND AUDIT IMPLEMENTATION
 ────────────────────────────────────────────────────────────
-This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v2.2
-and CIV–MIND–MEARSHEIMER v2.2.
+This upgrade implements polyphonic analysis per CIV–MIND–MERCOURIS v3.0
+and CIV–MIND–MEARSHEIMER v3.0.
 
 POLYPHONIC INSIGHTS ADDED:
 • Window → Forward Base: Sevastopol as naval symbol vs. power
@@ -387,5 +394,5 @@ J) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CRIMEA v2.9
+END OF FILE — MEM–RUSSIA–CRIMEA v3.0
 ────────────────────────────────────────────────────────────

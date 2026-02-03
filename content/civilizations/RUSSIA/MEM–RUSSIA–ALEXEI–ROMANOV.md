@@ -1,10 +1,10 @@
-MEM–RUSSIA–ALEXEI–ROMANOV — v2.7
+MEM–RUSSIA–ALEXEI–ROMANOV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.1
-Upgrade Type: TEMPLATE v2.7 COMPLIANCE + SUBJECT TYPE DECLARATION + CONNECTIVITY EXPANSION + BIBLIOGRAPHY ADDITION
+Version: 3.0
+Supersedes: MEM–RUSSIA–ALEXEI–ROMANOV v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: TSARDOM / ROMANOV
 Subject: Alexei Mikhailovich “the Quietest” (Алексей Михайлович)
@@ -13,13 +13,20 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,500
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
 ARC VERSION PINNED: ARC–RUSSIA v2.0
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1)
@@ -45,7 +52,7 @@ UPGRADE NOTE (v2.0)
 This upgrade is strictly ADDITIVE and preserves all analytical claims,
 structure, and conclusions from v1.1.
 
-v2.0 implements mandatory CIV–MEM–TEMPLATE v2.5 compliance actions:
+v2.0 implements mandatory CIV–MEM–TEMPLATE v3.0 compliance actions:
 • Adds ≥2 GEO–MEM connections (hard requirement)
 • Resolves Early Modern QTT–ARC failure via explicit substitution
 • Declares substitution verbatim per Template v2.2
@@ -249,7 +256,7 @@ XII. CONTINUITY INSIGHTS (RAW)
 • Stability increases endurance while accumulating latent revolt.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–MICHAEL–ROMANOV — restoration without consolidation
@@ -304,5 +311,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Bushkovitch, Paul. *Religion and Society in Russia: The Sixteenth and Seventeenth Centuries*. Oxford: Oxford University Press, 1992.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXEI–ROMANOV v2.7
+END OF FILE — MEM–RUSSIA–ALEXEI–ROMANOV v3.0
 ────────────────────────────────────────────────────────────

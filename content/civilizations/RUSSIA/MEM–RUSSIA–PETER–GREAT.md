@@ -1,9 +1,10 @@
-MEM–RUSSIA–PETER–GREAT — v2.8
+MEM–RUSSIA–PETER–GREAT — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Upgrade Type: DUAL MIND AUDIT · BALTIC HEGEMONY · INSTITUTIONAL EXPANSION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–PETER–GREAT v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
 Subject: Peter the Great (Пётр I)
@@ -13,21 +14,28 @@ Last Update: January 2026
 Word Count: ~4,200
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 
 ARC Version Pinned:
 • ARC–RUSSIA (Modern hierarchy enforced)
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.8.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — DUAL MIND AUDIT IMPLEMENTATION
 ────────────────────────────────────────────────────────────
 This upgrade implements recommendations from DUAL MIND AUDIT
-(CIV–MIND–MERCOURIS v2.2 / CIV–MIND–MEARSHEIMER v2.2).
+(CIV–MIND–MERCOURIS v3.0 / CIV–MIND–MEARSHEIMER v3.0).
 
 CHANGES IMPLEMENTED:
 • Added Section V.A: TABLE OF RANKS — institutionalizes elite breaking
@@ -68,7 +76,7 @@ Contradictions preserved without synthesis.
 UPGRADE NOTE (v2.1)
 ────────────────────────────────────────────────────────────
 This revision enforces a single-primary modern authority hierarchy
-in accordance with CIV–MEM–TEMPLATE v2.5 interpretive discipline.
+in accordance with CIV–MEM–TEMPLATE v3.0 interpretive discipline.
 
 CHANGE IMPLEMENTED:
 • Robert K. Massie is now the PRIMARY modern analytical authority
@@ -475,7 +483,7 @@ All secondary sources are subordinated to Massie's causal frame unless
 explicitly marked as contrast.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (v2.7 COMPLIANT)
+XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–CATHERINE–GREAT — successor normalization of Petrine reform
@@ -530,5 +538,5 @@ K) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETER–GREAT v2.9
+END OF FILE — MEM–RUSSIA–PETER–GREAT v3.0
 ────────────────────────────────────────────────────────────

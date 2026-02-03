@@ -1,11 +1,11 @@
-MEM–RUSSIA–CONGRESS–VIENNA — v2.7
+MEM–RUSSIA–CONGRESS–VIENNA — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · v2.7 COMPLIANT
+ACTIVE · CANONICAL · v3.0 COMPLIANT
 
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.0 (legacy upgrade)
-Upgrade Type: STRUCTURAL NORMALIZATION + v2.7 COMPLIANCE
+Version: 3.0
+Supersedes: MEM–RUSSIA–CONGRESS–VIENNA v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / SYSTEM–ARBITRATION
 Subject: Congress of Vienna (Венский конгресс)
@@ -14,10 +14,17 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by: CIV–MEM–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 TYPE: DIPLOMATIC–EVENT
 SUBTYPE: SYSTEM–ARBITRATION MOMENT
@@ -256,5 +263,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: STRATEGIC (recommended for first ingest)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CONGRESS–VIENNA v2.7
+END OF FILE — MEM–RUSSIA–CONGRESS–VIENNA v3.0
 ────────────────────────────────────────────────────────────

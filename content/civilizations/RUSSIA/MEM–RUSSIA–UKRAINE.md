@@ -1,9 +1,10 @@
-MEM–RUSSIA–UKRAINE — v2.7
+MEM–RUSSIA–UKRAINE — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.7
-Upgrade Type: LEGACY v1.0 → TEMPLATE v2.7 COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–UKRAINE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Imperial–Soviet–Post-Soviet · Contested Borderland
 Subject: Ukraine (Borderland, Origin Core, and Contested Inheritance)
@@ -12,11 +13,19 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,100
 
-ARC Version Pinned: ARC–RUSSIA v1.5
-Governed by: CIV–MEM–TEMPLATE v2.7
-Compatibility: CIV–MEM–CORE v2.0+
+ARC Version Pinned: ARC–RUSSIA v3.1
+Governed by: CIV–MEM–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.0
 
-SUBJECT TYPE DECLARATION (v2.7):
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
+────────────────────────────────────────────────────────────
+Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
+Governance refs updated to v3.0. No analytical content changed.
+Supersedes v2.7.
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses an INTERPRETIVE/THEORETICAL subject.
 Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥5, CRITICAL ≥3
 
@@ -209,5 +218,5 @@ When ingested without CIV–MEM–CORE present, the system MUST issue:
 8. Examine the relationship between cultural kinship and sovereignty claims
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–UKRAINE v2.7
+END OF FILE — MEM–RUSSIA–UKRAINE v3.0
 ────────────────────────────────────────────────────────────
