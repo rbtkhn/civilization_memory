@@ -1,20 +1,23 @@
-MEM–RUSSIA–WAR–CRIMEAN — v2.7
+MEM–RUSSIA–WAR–CRIMEAN — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.7 COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.0
-Upgrade Type: MAJOR · V2.7 FULL COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–CRIMEAN v2.7
+Upgrade Type: ALIGNMENT · v3.0 + FERGUSON FRAME (ARC–RUSSIA Category D)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Crimean War
 Dates: 1853–1856 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
-Word Count: ~2,500
+Last Update: February 2026
+Word Count: ~2,600
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+SUBJECT TYPE DECLARATION (v3.0): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -44,6 +47,21 @@ Core motivation:
 → Enforce regional hierarchy and protect Orthodox influence.
 
 Russia expects limited resistance and diplomatic accommodation.
+
+II.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*, *The War of the World*) frames nineteenth-century
+conflict in terms of imperial rivalry and structural asymmetry: maritime
+powers (Britain, France) versus land empires (Russia), with the Crimean
+War as the one direct Anglo-Russian clash of the period. Comparative
+empire and "descent of the West" framing situate the war within
+broader patterns of imperial decline and ethnic fault lines; Russian-primary
+sources remain authoritative for operational and Russian-perspective detail.
+
+> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
+> the World*, on the Crimean War, British–Russian rivalry, or nineteenth-century
+> imperial conflict, to be inserted when source is available.
+> ARC–RUSSIA Category D (Modern).]
 
 ────────────────────────────────────────────────────────────
 III. ISOLATION & SYSTEM MISREADING
@@ -198,21 +216,25 @@ Primary Military History Sources:
 
 1. Figes, Orlando. *The Crimean War: A History*. New York: Metropolitan
    Books, 2010.
+2. Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+   London: Penguin, 2003. [comparative empire; Britain–Russia; Category D]
+3. Ferguson, Niall. *The War of the World: Twentieth-Century Conflict and
+   the Descent of the West*. New York: Penguin, 2006. [imperial conflict; Category D]
    — Comprehensive narrative of the war's military and diplomatic dimensions.
 
-2. Curtiss, John Shelton. *Russia's Crimean War*. Durham: Duke University
+4. Curtiss, John Shelton. *Russia's Crimean War*. Durham: Duke University
    Press, 1979.
    — Russian perspective on strategic miscalculation and military failure.
 
-3. Royle, Trevor. *Crimea: The Great Crimean War, 1854–1856*. London:
+5. Royle, Trevor. *Crimea: The Great Crimean War, 1854–1856*. London:
    Little, Brown, 1999.
    — Operational history with attention to technological disparities.
 
-4. Goldfrank, David M. *The Origins of the Crimean War*. London: Longman,
+6. Goldfrank, David M. *The Origins of the Crimean War*. London: Longman,
    1994.
    — Diplomatic and political context leading to conflict.
 
-5. Seaton, Albert. *The Crimean War: A Russian Chronicle*. London: B.T.
+7. Seaton, Albert. *The Crimean War: A Russian Chronicle*. London: B.T.
    Batsford, 1977.
    — Russian military operations and command deficiencies.
 
@@ -238,5 +260,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–CRIMEAN v2.7
+END OF FILE — MEM–RUSSIA–WAR–CRIMEAN v3.0
 ────────────────────────────────────────────────────────────

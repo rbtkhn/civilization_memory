@@ -1,10 +1,9 @@
-MEM–RUSSIA–BOLSHEVIK–REVOLUTION — v2.0
+MEM–RUSSIA–BOLSHEVIK–REVOLUTION — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–BOLSHEVIK–REVOLUTION v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Bolshevik Revolution (Октябрьская революция)
 Dates: October 25–26, 1917 (Julian) / November 7–8, 1917 (Gregorian)
@@ -12,9 +11,12 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,400
 
-Governed by: CIV–MEM–TEMPLATE v2.8
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -332,7 +334,7 @@ Cross-Civilizational:
 Each connection is structurally required.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (v2.8)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
@@ -349,7 +351,7 @@ Category D (Modern Scholarship):
   of 1917 in Petrograd*. New York: Norton, 1976.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (v2.8)
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingesting this MEM, select the appropriate entry vector:
 
@@ -365,5 +367,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: SEIZURE (recommended for event understanding)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–BOLSHEVIK–REVOLUTION v2.0
+END OF FILE — MEM–RUSSIA–BOLSHEVIK–REVOLUTION v3.0
 ────────────────────────────────────────────────────────────

@@ -1,24 +1,23 @@
-MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE — v2.7
+MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: INITIAL v2.7 CREATION
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russian Involvement in Prussian Crusade Context
 Dates: c. 1230–1283 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,100
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -206,5 +205,21 @@ Secondary Sources:
   Leiden: Brill, 2007.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE
+Status: ACTIVE
+Exploration options available.
+
+A. Prussian Crusade and Teutonic power base
+B. Russian peripheral observation and eastern threat
+C. Papal authorization and pagan conversion warfare
+D. Fortress-based territorial consolidation
+E. Compare with Teutonic Order and Livonian context
+F. Galicia-Volhynia and Polish-Teutonic rivalry
+G. Crusading methods and Russian response formation
+H. Trace consequences for western frontier logic
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–PRUSSIAN–CRUSADE v3.0
 ────────────────────────────────────────────────────────────

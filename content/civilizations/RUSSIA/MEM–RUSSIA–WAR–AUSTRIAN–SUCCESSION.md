@@ -1,24 +1,24 @@
-MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION — v2.0
+MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION — v3.0
 Civilizational Memory Codex · Memory File
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.0
-Supersedes: NONE
-Upgrade Type: FOUNDATIONAL INSTANTIATION
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: War of the Austrian Succession / Russian Intervention (Война за австрийское наследство)
 Dates: 1740–1748 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject.
+SUBJECT TYPE DECLARATION (v3.0): This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
-
-Additional Governance:
-• CIV–MEM–CORE v2.0+
-• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -310,7 +310,7 @@ XIII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XIV. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CORE, confirm:
 
@@ -329,5 +329,5 @@ G. Analyze constraint-to-advantage transformation
 H. Trace consequences for subsequent Russo-Prussian rivalry
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION v2.0
+END OF FILE — MEM–RUSSIA–WAR–AUSTRIAN–SUCCESSION v3.0
 ────────────────────────────────────────────────────────────

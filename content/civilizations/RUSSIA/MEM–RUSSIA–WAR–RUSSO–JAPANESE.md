@@ -1,20 +1,23 @@
-MEM–RUSSIA–WAR–RUSSO–JAPANESE — v2.8
+MEM–RUSSIA–WAR–RUSSO–JAPANESE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: WAR MEM CALIBRATION · RLL BINDING · POLYPHONIC ENHANCEMENT
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–RUSSO–JAPANESE v2.8
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russo–Japanese War
 Dates: 1904–1905 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,500
 
-Governed by: CIV–MEM–TEMPLATE v2.8
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -254,7 +257,7 @@ POLYPHONIC TENSIONS (v2.8):
 • MERCOURIS: Defeat as systemic failure → autocratic incompetence
 • MEARSHEIMER: Defeat as structural determination → continental vs maritime
 • MERCOURIS: 1905 Revolution as consequence of war mismanagement
-• MEARSHEIMER: Revolution as inevitable given elite overproduction under stress
+• MEARSHEIMER: Revolution as structurally likely given elite overproduction under stress
 • MERCOURIS: Reform was possible if leadership had acted
 • MEARSHEIMER: Reform was impossible under unfavorable structural conditions
 • Both: 1905 ends imperial illusion and prefigures 1917
@@ -338,5 +341,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–RUSSO–JAPANESE v2.8
+END OF FILE — MEM–RUSSIA–WAR–RUSSO–JAPANESE v3.0
 ────────────────────────────────────────────────────────────

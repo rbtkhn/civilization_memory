@@ -1,9 +1,9 @@
-MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION — v2.1
+MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION — v3.0
 Civilizational Memory Codex · Memory File
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION v2.1
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Muscovite Civil War / War of Succession (Междоусобная война в Московском княжестве)
 Dates: 1425–1453 AD
@@ -11,14 +11,14 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,800
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject.
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
-
-Additional Governance:
-• CIV–MEM–CORE v2.0+
-• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -272,7 +272,7 @@ with Vasily II as rightful heir defending legitimate order.
 
 > "The Muscovite succession conflict paralleled similar crises in
 > Western Europe—the Wars of the Roses, the Burgundian succession—
-> where emerging states had to choose between competing succession
+> where emerging states faced a choice between competing succession
 > principles."
 > — Geoffrey Hosking, *Russia: People and Empire*
 
@@ -396,7 +396,7 @@ XIV. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XV. MEM INGEST BOOTSTRAP
+XV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CORE, confirm:
 
@@ -415,5 +415,5 @@ G. Compare with contemporary European succession crises
 H. Trace consequences for Ivan III's consolidation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION v2.1
+END OF FILE — MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION v3.0
 ────────────────────────────────────────────────────────────

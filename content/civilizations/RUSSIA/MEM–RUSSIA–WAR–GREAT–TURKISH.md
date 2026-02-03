@@ -1,28 +1,27 @@
-MEM–RUSSIA–WAR–GREAT–TURKISH — v2.7
+MEM–RUSSIA–WAR–GREAT–TURKISH — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–GREAT–TURKISH v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Great Turkish War (Russia’s Entry into Coalition Warfare)
 Dates: 1683–1699 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,800
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -163,5 +162,21 @@ Secondary Sources:
   New York: Basic Books, 2005.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–TURKISH v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–GREAT–TURKISH
+Status: ACTIVE
+Exploration options available.
+
+A. Russia's first coalition warfare entry
+B. Ottoman decline exploitation without mastery
+C. Treaty of Karlowitz and Azov capture
+D. Control mechanisms and opportunity conversion
+E. Maritime terminals and recognition preceding domination
+F. Compare with later Russo-Turkish wars
+G. Coalitions revealing weakness not creating control
+H. Trace coalition participation structural lesson
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–GREAT–TURKISH v3.0
 ────────────────────────────────────────────────────────────

@@ -185,6 +185,15 @@ RLL–RUSSIA–0011 — Temporal Compression as Governance Accelerant
   not over legitimacy but over usefulness. Power becomes functional rather
   than moral.
 
+RLL–RUSSIA–0030 — Dual Strategic Centre Trade-Off Law  
+→ A state that tries to sustain two strategic centres of gravity at once
+  (e.g. land-empire logic and maritime-commercial logic) competes for the
+  same fiscal and institutional space. "Both" is possible only at the
+  margin, or by transforming the state; otherwise the system must
+  prioritise one centre, accept permanent tension, or overstretch and crack.
+  Interacts with RLL–0010 (second centre → second elite → more overproduction),
+  RLL–0011 (compression as tool to manage dual-centre pressure).
+
 All listed RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
@@ -781,6 +790,15 @@ Session 2026-02-02 (LEARN · recursive):
 • LEARN · GEO–Russia mountain MEMs: contemplated MEM–RUSSIA–GEO–URALS, ALTAI, CAUCASUS, CARPATHIANS; hinge/junction/barrier/external shaper gradient; Altai → Ob headwaters, Chuya Highway, Mongolian Gate; Rhipaean/Altai encoding (Herodotus to Lattimore); Daryal vs Mongolian Gate (gate as limit vs pivot); Byzantine–Sasanian to "lands of Rus and Islam"; Ob military history (corridor, Sibir, Yermak); Volga vs Ob (core spine vs depth spine). **RLLs 0027, 0028, 0029** proposed then **BOUND** (user authorization); moved from § V.D to § V.C (Mountain Function Gradient, Gate Encoding Duality, Volga–Ob Spine Duality).
 • WRITE · Proposed three new MEMs from recent learning (see below).
 • WRITE · Generated MEM–RUSSIA–GEO–OB–RIVER (GEO–MEM, v3.0); depth spine (RLL–0029); corridor/conquest/yasak; Altai headwaters; contrast Volga; ARC A–D; RLL binding; added to CIV–INDEX–RUSSIA; RLL–0029 binding updated.
+
+Session 2026-02-03 (LEARN · Ferguson, Britain–Russia, encoding, jurisdiction):
+• Research: Niall Ferguson (ARC–RUSSIA v3.1) on British Empire–Russia 1600–1900; economics/population (Britain small/rich per capita, Russia large/poor per capita); Great Game, 1907; Ferguson's three implied insights (maritime vs. land, midwife vs. coercive modernizer, imperial decline/ethnic fault lines).
+• Legitimacy encoding: "Midwife to modernity" (Britain) vs. "unity and security" (Russia); where each frays (Ireland/India/Amritsar vs. Poland/Baltics/Ukraine). RLL–0002, 0005, 0003 (corridor vs. sacral) applied to Great Game.
+• Structure vs. encoding: Mearsheimer—encoding epiphenomenal; Mercouris—path-dependent; Barnes—encoding as liability surface; jurisdiction and liability when story contested.
+• Alternate history: Russia "does both" (land + maritime); permanent insight—dual strategic centres compete for same fiscal/political space. **RLL–RUSSIA–0030 (PROPOSED)** drafted: Dual Strategic Centre Trade-Off Law; added to § V.D. Interaction with RLL–0010 (elite overproduction), RLL–0011 (temporal compression).
+• MEM–RUSSIA–UKRAINE: Jurisdiction over "one people" vs. "separate"; encoding as liability surface when contested; tension preserved.
+• Session synthesis: Ferguson, 0030/0010/0011, encoding, MEM–UKRAINE, jurisdiction, liability.
+• **RLL–RUSSIA–0030 BOUND** (user authorization 2026-02-03); moved from V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS. 0025, 0026 remain PENDING BINDING.
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance

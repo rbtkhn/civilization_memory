@@ -1,9 +1,9 @@
-MEM–RUSSIA–ART–MUSSORGSKY — v2.0
+MEM–RUSSIA–ART–MUSSORGSKY — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–ART–MUSSORGSKY v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Modest Petrovich Mussorgsky (Модест Петрович Мусоргский)
 Dates: 1839–1881 AD (decisive works: 1868–1874)
@@ -12,11 +12,11 @@ Last Update: January 2026
 Word Count: ~2,800
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.8
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -250,7 +250,7 @@ Cross-civilizational:
 • MEM–ITALIA–OPERA — tradition rejected and transcended
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*.
   New York: Metropolitan Books, 2002.
@@ -278,5 +278,5 @@ G. The Repin portrait and artist mythology
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ART–MUSSORGSKY v2.0
+END OF FILE — MEM–RUSSIA–ART–MUSSORGSKY v3.0
 ────────────────────────────────────────────────────────────

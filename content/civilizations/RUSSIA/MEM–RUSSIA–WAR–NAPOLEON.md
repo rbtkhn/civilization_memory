@@ -1,23 +1,23 @@
-MEM–RUSSIA–WAR–NAPOLEON — v2.7
+MEM–RUSSIA–WAR–NAPOLEON — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.1
-Upgrade Type: v2.7 TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–NAPOLEON v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: War with Napoleonic France (Отечественная война 1812 года)
 Dates: 1812–1814 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,400
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• CIV–ARC–RUSSIA v2.7 (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.7):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -292,5 +292,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v2.7
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v3.0
 ────────────────────────────────────────────────────────────

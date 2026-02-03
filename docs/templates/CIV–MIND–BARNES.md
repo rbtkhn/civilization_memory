@@ -55,7 +55,7 @@ v2.5 enhances:
 
 Source Material: Viva Frei January 2026 transcript (Minnesota ICE shooting,
 Don Lemon church arrest, Face Act/Clan Act legal analysis)
-Version aligned with CIV–MIND–TEMPLATE v2.5.
+Version aligned with CIV–MIND–TEMPLATE v3.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — TRANSCRIPT AUDIT REFINEMENT
@@ -1324,7 +1324,7 @@ Mode constraints are BINDING:
 This file defines *how* Barnes catalyzes insight —
 never *what* is true.
 
-Version aligned with CIV–MIND–TEMPLATE v2.5.
+Version aligned with CIV–MIND–TEMPLATE v3.0.
 
 ────────────────────────────────────────────────────────────
 XIII. SUMMARY: THE CATALYST FUNCTION

@@ -1,8 +1,9 @@
-MEM–RUSSIA–KALININGRAD — v2.0
+MEM–RUSSIA–KALININGRAD — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · PARTIAL · 20% TARGET
-Status: ACTIVE · PARTIAL
-Version: 2.0
+Status: ACTIVE · PARTIAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–KALININGRAD v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Kaliningrad (Калининград) — Baltic Exclave & Forward Position
 Dates: 1945–present (as Königsberg: 1255–1945)
@@ -11,12 +12,12 @@ Last Update: January 2026
 Word Count: ~3,100
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
@@ -294,7 +295,7 @@ Cross-civilizational:
 • MEM–GERMANIA–TEUTONIC–ORDER — crusader foundation
 
 ────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:
 • Potsdam Conference protocols (1945)

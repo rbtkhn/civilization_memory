@@ -1,25 +1,23 @@
-MEM–RUSSIA–WAR–SIBIR–KHANATE — v2.7
+MEM–RUSSIA–WAR–SIBIR–KHANATE — v3.0
 Civilizational Memory Codex · Memory File
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.7
-Supersedes: v2.1
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–SIBIR–KHANATE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Conquest of the Sibir Khanate
 Dates: c. 1555–1598 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,600
-ARC Version Pinned: CIV–ARC–RUSSIA v1.5
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -222,5 +220,21 @@ Secondary Sources:
   John Murray, 2000.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–SIBIR–KHANATE v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–SIBIR–KHANATE
+Status: ACTIVE
+Exploration options available.
+
+A. Stroganov and Yermak conquest narrative
+B. River corridors and Siberian expansion logic
+C. Tatar khanate and Russian colonial template
+D. Empire precedes borders and administrative arteries
+E. Compare with Caucasus and Central Asia expansion
+F. Fur trade and economic motivation
+G. Removal of European constraint pressure
+H. Trace legacy in Russian eastern frontier memory
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–SIBIR–KHANATE v3.0
 ────────────────────────────────────────────────────────────

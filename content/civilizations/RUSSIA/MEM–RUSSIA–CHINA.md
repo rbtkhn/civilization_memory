@@ -1,11 +1,9 @@
-MEM–RUSSIA–CHINA — v2.0
+MEM–RUSSIA–CHINA — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · v2.8 COMPLIANT
-
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–CHINA v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russia–China Civilizational Encounter
 Dates: c. 1600s AD–present
@@ -13,10 +11,13 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,200
 
-Governed by: CIV–MEM–TEMPLATE v2.8
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.8)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 TYPE: CIVILIZATIONAL–ENCOUNTER
 SUBTYPE: CONTINENTAL PEER · BOUNDARY NEIGHBOR
@@ -348,7 +349,7 @@ POLYPHONIC TENSIONS (v2.8):
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XII. MEM BIBLIOGRAPHY (v2.8)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
@@ -367,7 +368,7 @@ Category D (Modern Scholarship):
 • Westad, Odd Arne. *The Cold War: A World History*. New York: Basic Books, 2017.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (v2.8)
+XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingesting this MEM, select the appropriate entry vector:
 
@@ -383,5 +384,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: STRATEGIC (recommended for contemporary relevance)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CHINA v2.0
+END OF FILE — MEM–RUSSIA–CHINA v3.0
 ────────────────────────────────────────────────────────────

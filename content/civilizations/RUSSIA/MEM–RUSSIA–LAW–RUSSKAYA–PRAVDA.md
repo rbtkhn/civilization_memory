@@ -1,10 +1,9 @@
-MEM–RUSSIA–LAW–RUSSKAYA–PRAVDA — v2.0
+MEM–RUSSIA–LAW–RUSSKAYA–PRAVDA — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–LAW–RUSSKAYA–PRAVDA v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russkaya Pravda (Русская Правда / Russian Justice)
 Dates: c. 1016–1280s AD (compilation period)
@@ -12,9 +11,12 @@ Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,800
 
-Governed by: CIV–MEM–TEMPLATE v2.8
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject (legal code).
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -281,7 +283,7 @@ Cross-Civilizational:
 Each connection is structurally required.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (v2.8)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Category A (Primary Sources):
 • Russkaya Pravda (multiple manuscript traditions)
@@ -302,7 +304,7 @@ Category D (Modern Scholarship):
   Press, 1948.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (v2.8)
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingesting this MEM, select the appropriate entry vector:
 
@@ -318,5 +320,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: LIMITATION (recommended for civilizational significance)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–RUSSKAYA–PRAVDA v2.0
+END OF FILE — MEM–RUSSIA–LAW–RUSSKAYA–PRAVDA v3.0
 ────────────────────────────────────────────────────────────

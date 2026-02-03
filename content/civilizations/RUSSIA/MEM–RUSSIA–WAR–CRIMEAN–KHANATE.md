@@ -1,26 +1,23 @@
-MEM–RUSSIA–WAR–CRIMEAN–KHANATE — v2.7
+MEM–RUSSIA–WAR–CRIMEAN–KHANATE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–CRIMEAN–KHANATE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Wars & Raiding Conflict with the Crimean Khanate
 Dates: c. 1441–1783 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,500
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -200,5 +197,21 @@ Secondary Sources:
   John Murray, 2000.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–CRIMEAN–KHANATE v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–CRIMEAN–KHANATE
+Status: ACTIVE
+Exploration options available.
+
+A. Structural frontier war and raiding system
+B. Ottoman-aligned khanate and slave raiding economy
+C. Southern defense lines and gradual reversal
+D. Asymmetric threat and punitive expeditions
+E. Annexation of Crimea and closure
+F. Compare with Golden Horde and steppe legacy
+G. Black Sea and Don-Volga geography
+H. Trace southern security logic formation
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–CRIMEAN–KHANATE v3.0
 ────────────────────────────────────────────────────────────

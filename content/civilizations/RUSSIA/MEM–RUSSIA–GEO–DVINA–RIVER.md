@@ -1,9 +1,9 @@
-MEM–RUSSIA–GEO–DVINA–RIVER — v2.0
+MEM–RUSSIA–GEO–DVINA–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
-ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–GEO–DVINA–RIVER v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Northern Dvina River (Strategic–Geographic Arctic Artery)
 Dates: Permanent terrain logic (applies across all periods)
@@ -13,8 +13,9 @@ Last Update: January 2026
 Word Count: ~2,400
 
 Governed by:
-• CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
 
 ────────────────────────────────────────────────────────────
@@ -383,7 +384,7 @@ XVII. GEO–MEM BIBLIOGRAPHY
   War and Revolution, 1914–1918*. New York: Simon & Schuster, 1986.
 
 ────────────────────────────────────────────────────────────
-XVIII. GEO–MEM INGEST BOOTSTRAP
+XVIII. GEO–MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–DVINA–RIVER
 Status: ACTIVE
@@ -400,5 +401,5 @@ F) Compare with other Arctic rivers (Ob, Yenisei, Lena)
 For civilizational analysis, invoke: MEM–RUSSIA–NORTHERN–DVINA
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DVINA–RIVER v2.0
+END OF FILE — MEM–RUSSIA–GEO–DVINA–RIVER v3.0
 ────────────────────────────────────────────────────────────

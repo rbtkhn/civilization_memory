@@ -1,10 +1,9 @@
-MEM–RUSSIA–WAR–CHUD — v2.1
+MEM–RUSSIA–WAR–CHUD — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–CHUD v2.1
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Chud Wars (Чудские войны) — Northern Frontier Expansion
 Dates: 1030s–1220s AD (major conflicts: 1030–1190s)
@@ -13,9 +12,14 @@ Last Update: January 2026
 Word Count: ~3,100
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a SPARSE SOURCES subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -320,6 +324,11 @@ Secondary Sources:
 • Valerie Kivelson — *Cartographies of Tsardom* (2006)
 
 ────────────────────────────────────────────────────────────
+XI.B MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary: Novgorod First Chronicle; Livonian Rhymed Chronicle; Russian chronicles; Scandinavian sagas. Secondary: Manfred Hellmann, *The Livonian Crusade* (1990); Paul Johansen, *Novgorod and the Baltic* (1951); Robert Crummey, *The Formation of Muscovy* (1987); Valerie Kivelson, *Cartographies of Tsardom* (2006). Bibliography to be expanded per ARC–RUSSIA.
+
+────────────────────────────────────────────────────────────
 XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
@@ -357,7 +366,7 @@ XIII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XIV. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CORE, confirm:
 
@@ -402,5 +411,5 @@ v2.1 Upgrade:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–CHUD v2.1
+END OF FILE — MEM–RUSSIA–WAR–CHUD v3.0
 ────────────────────────────────────────────────────────────

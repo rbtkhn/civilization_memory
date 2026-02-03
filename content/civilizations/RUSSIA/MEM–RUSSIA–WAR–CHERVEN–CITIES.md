@@ -1,10 +1,9 @@
-MEM–RUSSIA–WAR–CHERVEN–CITIES — v2.1
+MEM–RUSSIA–WAR–CHERVEN–CITIES — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · PARTIAL · 20% TARGET
-Status: ACTIVE · PARTIAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: DUAL MIND AUDIT INTEGRATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–CHERVEN–CITIES v2.1
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Cherven Cities Wars (Грады Червенские) — Polish-Rus' Borderland Struggle
 Dates: 981–1366 AD (major conflicts: 981–1031)
@@ -13,9 +12,9 @@ Last Update: January 2026
 Word Count: ~3,600
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.1) — DUAL MIND AUDIT INTEGRATION
@@ -442,5 +441,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–CHERVEN–CITIES v2.1
+END OF FILE — MEM–RUSSIA–WAR–CHERVEN–CITIES v3.0
 ────────────────────────────────────────────────────────────

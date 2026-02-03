@@ -1,20 +1,23 @@
-MEM–RUSSIA–WAR–RED–ARMY — v2.0
+MEM–RUSSIA–WAR–RED–ARMY — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.8 COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · WAR MEM CALIBRATION
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–RED–ARMY v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Red Army (Рабоче-крестьянская Красная армия)
 Dates: 1918–1946 (renamed Soviet Army 1946)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
-Governed by: CIV–MEM–TEMPLATE v2.8
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -300,7 +303,7 @@ Category D (Modern Scholarship):
   Soviet Army, 1917–1991*. London: Routledge, 2000.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP (v2.8)
+XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingesting this MEM, select the appropriate entry vector:
 
@@ -316,5 +319,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: REGENERATION (recommended for understanding adaptation)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–RED–ARMY v2.0
+END OF FILE — MEM–RUSSIA–WAR–RED–ARMY v3.0
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,9 @@
-MEM–RUSSIA–ASTRAKHAN — v2.0
+MEM–RUSSIA–ASTRAKHAN — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: INITIAL CREATION · FULL TEMPLATE COMPLIANCE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–ASTRAKHAN v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Astrakhan (Астрахань)
 Dates: Conquered 1556 — present
@@ -12,11 +12,11 @@ Last Update: January 2026
 Word Count: ~2,800
 
 Governed by:
-• CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -273,7 +273,7 @@ Cross-Civilizational:
 Each connection is structurally required.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (v2.8)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
@@ -290,7 +290,7 @@ Category D (Modern Scholarship):
   of Russia, 1552–1671*. Madison: University of Wisconsin Press, 2012.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (v2.8)
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingesting this MEM, select the appropriate entry vector:
 
@@ -306,5 +306,5 @@ When ingesting this MEM, select the appropriate entry vector:
 Default: CONQUEST (recommended for foundational understanding)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ASTRAKHAN v2.0
+END OF FILE — MEM–RUSSIA–ASTRAKHAN v3.0
 ────────────────────────────────────────────────────────────

@@ -1,25 +1,23 @@
-MEM–RUSSIA–WAR–KHAZAR–KHAGANATE — v2.7
+MEM–RUSSIA–WAR–KHAZAR–KHAGANATE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–KHAZAR–KHAGANATE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Khazar Khaganate Wars (Хазарские войны) — Trade Empire Confrontation
 Dates: 830s–965 AD (major conflicts: 880s–965)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,600
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -293,5 +291,21 @@ Secondary Sources:
   2006.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–KHAZAR–KHAGANATE v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–KHAZAR–KHAGANATE
+Status: ACTIVE
+Exploration options available.
+
+A. Volga trade routes and Sviatoslav's campaign
+B. Khazar dual kingship and Jewish elite
+C. Trade empire confrontation and sovereignty
+D. Kievan Rus' and steppe corridor control
+E. Compare with Pecheneg and Cuman succession
+F. Multi-ethnic confederation and economic power
+G. Empire Russia needed to destroy to become empire
+H. Trace eastern orientation and political legacy
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–KHAZAR–KHAGANATE v3.0
 ────────────────────────────────────────────────────────────

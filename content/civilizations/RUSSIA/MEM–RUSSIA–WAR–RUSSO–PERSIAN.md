@@ -1,28 +1,23 @@
-MEM–RUSSIA–WAR–RUSSO–PERSIAN — v2.7
+MEM–RUSSIA–WAR–RUSSO–PERSIAN — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-
-Repository: https://github.com/rbtkhn/civilization_memory
-
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–RUSSO–PERSIAN v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russo–Persian Wars (Imperial Southern Frontier)
 Dates: 1722–1828 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -238,5 +233,21 @@ Secondary Sources:
   Press, 2017.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–RUSSO–PERSIAN v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–RUSSO–PERSIAN
+Status: ACTIVE
+Exploration options available.
+
+A. Caucasian pressure and imperial depth conversion
+B. Treaty of Gulistan and Turkmenchay outcomes
+C. Endurance and incremental advance doctrine
+D. Persian decline and Russian administrative depth
+E. Peter's campaign and coalition context
+F. Compare with Russo-Turkish southern frontier
+G. Steppe survival logic and coercive literacy
+H. Trace southern expansion structural confirmation
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–RUSSO–PERSIAN v3.0
 ────────────────────────────────────────────────────────────

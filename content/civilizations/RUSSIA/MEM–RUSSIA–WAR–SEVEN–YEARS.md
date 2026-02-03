@@ -13,6 +13,12 @@ Subject: Seven Years' War
 Dates: 1756–1763 AD
 Governed by: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–ARC–RUSSIA v3.0
 Compatibility: CMC v3.0
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
@@ -215,18 +221,11 @@ Cross-civilizational:
 • MEM–FRANCIA–WAR–SEVEN–YEARS — coalition dynamics
 
 ────────────────────────────────────────────────────────────
-XII. ACADEMIC REFERENCES (ENGAGED)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-Engaged scholarship includes:
-• **Robert K. Massie** — PRIMARY modern authority: Elizabeth-era court
-  politics and elite management during system participation
-• Dominic Lieven — endurance mechanics and strategic absorption
-
-Massie provides the primary analytical framework for understanding
-Elizabeth's approach to war and system participation.
-
-Secondary sources frame interpretation but do not override primary
-evidence or structural analysis.
+• Robert K. Massie — Elizabeth-era court politics and system participation (primary modern authority).
+• Dominic Lieven — endurance mechanics and strategic absorption.
+Bibliography to be expanded per ARC–RUSSIA.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)

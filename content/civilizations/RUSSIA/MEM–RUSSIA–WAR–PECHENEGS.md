@@ -1,21 +1,26 @@
-MEM–RUSSIA–WAR–PECHENEGS — v2.1
+MEM–RUSSIA–WAR–PECHENEGS — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–PECHENEGS v2.1
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pecheneg Wars (Печенежские войны) — Steppe Frontier Architecture
 Dates: 915–1036 AD (major conflicts: 968–1036)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,800
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -254,7 +259,12 @@ Secondary Sources:
 • Franklin & Shepard — *The Emergence of Rus 750-1200* (1996)
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary: Russian Primary Chronicle (Laurentian Codex); Byzantine historians (Leo the Deacon, Anna Comnena, Constantine Porphyrogenitus); John Skylitzes, *Synopsis Historion*; Novgorod First Chronicle. Secondary: George Vernadsky, *Kievan Russia* (1948); Simon Franklin & Jonathan Shepard, *The Emergence of Rus 750-1200* (1996). Bibliography to be expanded per ARC–RUSSIA.
+
+────────────────────────────────────────────────────────────
+XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
 • MEM–RUSSIA–VLADIMIR–GREAT — Baptism and military consolidation
@@ -277,7 +287,7 @@ Cross-civilizational:
 • MEM–BYZANTIUM–DIPLOMACY–BARBARIANS — Gold as security instrument
 
 ────────────────────────────────────────────────────────────
-XII. CONTINUITY INSIGHTS (RAW)
+XIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Identity and survival form simultaneously, not sequentially.
 • Civilizational boundaries are created through defense, not defended after creation.
@@ -291,7 +301,7 @@ XII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XIII. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CORE, confirm:
 
@@ -310,7 +320,7 @@ G. Compare with later steppe conflicts (Cumans, Mongols)
 H. Trace legacy in Russian security consciousness
 
 ────────────────────────────────────────────────────────────
-XIV. VERSION & EVOLUTION NOTES
+XV. VERSION & EVOLUTION NOTES
 ────────────────────────────────────────────────────────────
 v1.0 represented initial encoding of Pecheneg conflicts.
 
@@ -332,5 +342,5 @@ v2.1 Upgrade:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–PECHENEGS v2.1
+END OF FILE — MEM–RUSSIA–WAR–PECHENEGS v3.0
 ────────────────────────────────────────────────────────────

@@ -316,4 +316,4 @@ CEO files created under earlier versions remain valid but
 should be updated to current template when modified.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CEO–TEMPLATE v1.0
+END OF FILE — CIV–CEO–TEMPLATE v3.0

@@ -1,26 +1,23 @@
-MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE — v2.7
+MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Lithuanian–Muscovite Wars (Литовско-Московские войны)
 Dates: c. 1368–1537 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,500
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -172,7 +169,7 @@ X. MODERN SCHOLARSHIP (CATEGORY D)
 **Geoffrey Hosking**:
 
 > “Moscow’s victory over Lithuania was decisive not because it was
-> inevitable, but because it institutionalized a model of unity based on
+> preordained, but because it institutionalized a model of unity based on
 > domination rather than consent.”
 
 **Dominic Lieven**:
@@ -237,5 +234,5 @@ Secondary Sources:
   Oxford: Oxford University Press, 2015.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE v2.7
+END OF FILE — MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE v3.0
 ────────────────────────────────────────────────────────────

@@ -1,22 +1,23 @@
-MEM–RUSSIA–PETERSBURG — v2.0
+MEM–RUSSIA–PETERSBURG — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–PETERSBURG v2.0
+Upgrade Type: ALIGNMENT · v3.0 + FERGUSON FRAME (ARC–RUSSIA Category D)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Saint Petersburg (Санкт-Петербург)
 Dates: Founded 1703 — present
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
-Word Count: ~2,800
+Last Update: February 2026
+Word Count: ~2,900
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.8
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -81,6 +82,21 @@ European trade networks and naval mobility.
 
 The structural insight: Petersburg's location was strategic
 necessity given European form.
+
+II.B FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*, *The War of the World*) contrasts maritime
+empires (trade, navy, commercial centres) with land empires (territory,
+army, strategic depth). Petersburg represents Russia's attempt to add a
+maritime-commercial node to a land empire—a "window to the West" that
+could not replace the continental centre of gravity (RLL–RUSSIA–0030).
+Comparative framing situates the city within imperial logic without
+reducing it to structure alone.
+
+> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
+> the World*, on maritime vs. land empire, imperial cities, or Russia's
+> place in European system, to be inserted when source is available.
+> ARC–RUSSIA Category D (Modern).]
 
 ────────────────────────────────────────────────────────────
 III. IMPERIAL CAPITAL (1712–1918)
@@ -293,6 +309,10 @@ XII. MEM BIBLIOGRAPHY
   New York: Knopf, 1980.
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*.
   New York: Metropolitan Books, 2002.
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Penguin, 2003. [comparative empire; maritime vs. land; Category D]
+• Ferguson, Niall. *The War of the World: Twentieth-Century Conflict and
+  the Descent of the West*. New York: Penguin, 2006. [imperial framing; Category D]
 • Salisbury, Harrison E. *The 900 Days: The Siege of Leningrad*.
   New York: Harper & Row, 1969.
 • Volkov, Solomon. *St. Petersburg: A Cultural History*.
@@ -317,5 +337,5 @@ G. Post-Soviet restoration
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETERSBURG v2.0
+END OF FILE — MEM–RUSSIA–PETERSBURG v3.0
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,9 @@
-MEM–RUSSIA–ART–HERMITAGE — v2.0
+MEM–RUSSIA–ART–HERMITAGE — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · POLYPHONIC ENHANCEMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–ART–HERMITAGE v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: The State Hermitage Museum (Государственный Эрмитаж)
 Dates: Founded 1764 (Catherine II) — present
@@ -12,11 +12,11 @@ Last Update: January 2026
 Word Count: ~2,800
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.8
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -275,7 +275,7 @@ Cross-civilizational:
 • MEM–FRANCIA–PARIS–LOUVRE — structural peer and comparison
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY
+XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
   *Foreign Affairs* 93, no. 5 (2014).
@@ -325,5 +325,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ART–HERMITAGE v2.0
+END OF FILE — MEM–RUSSIA–ART–HERMITAGE v3.0
 ────────────────────────────────────────────────────────────

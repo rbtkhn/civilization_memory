@@ -1,20 +1,23 @@
-MEM–RUSSIA–WAR–RUSSO–TURKISH — v2.7
+MEM–RUSSIA–WAR–RUSSO–TURKISH — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · V2.7 COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v2.0
-Upgrade Type: MAJOR · V2.7 FULL COMPLIANCE
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–RUSSO–TURKISH v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Russo–Turkish Wars (Southern Maritime–Imperial Contest)
 Dates: 1568–1918 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,500
 
-Governed by: CIV–MEM–TEMPLATE v2.7
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.7): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+SUBJECT TYPE DECLARATION (v3.0): This MEM addresses a WELL-DOCUMENTED subject. Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -224,5 +227,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–RUSSO–TURKISH v2.7
+END OF FILE — MEM–RUSSIA–WAR–RUSSO–TURKISH v3.0
 ────────────────────────────────────────────────────────────

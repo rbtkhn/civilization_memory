@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.2
+CIV–INDEX–RUSSIA — v3.4
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.2
-Supersedes: CIV–INDEX–RUSSIA v3.1
-Upgrade Type: NEW MEM REGISTRATION (FEDERATION, USSR–BERLIN–WALL, USSR–IRON–CURTAIN, USSR–CUBAN–MISSILE–CRISIS)
+Version: 3.4
+Supersedes: CIV–INDEX–RUSSIA v3.3
+Upgrade Type: WAR MEM v3.0 UPGRADE · DE-LIST RUSSO–KAZAN (STUB)
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,18 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4) — WAR MEM v3.0 UPGRADE · DE-LIST STUB
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–WAR–RUSSO–KAZAN.md — removed from C) WAR (stub; not template-compliant; file retained as placeholder).
+Total: 186 → 185. C) WAR: 49 → 48.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.3) — NEW MEM REGISTRATION
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–GREAT–GAME.md — I) OTHER (Anglo-Russian rivalry, Central Asia; 1907 Entente)
+Total: 185 → 186. I) OTHER: 57 → 58.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.2) — NEW MEM REGISTRATION (single bump, four MEMs)
@@ -303,7 +315,6 @@ C) WAR
 • MEM–RUSSIA–WAR–RASPUTITSA.md
 • MEM–RUSSIA–WAR–RED–ARMY.md
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE.md
-• MEM–RUSSIA–WAR–RUSSO–KAZAN.md
 • MEM–RUSSIA–WAR–RUSSO–PERSIAN.md
 • MEM–RUSSIA–WAR–RUSSO–TURKISH.md
 • MEM–RUSSIA–WAR–SEVEN–YEARS.md
@@ -375,6 +386,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–ESTONIA.md
 • MEM–RUSSIA–FEDERATION.md
 • MEM–RUSSIA–FINLAND.md
+• MEM–RUSSIA–GREAT–GAME.md
 • MEM–RUSSIA–GOLDEN–HORDE.md
 • MEM–RUSSIA–ISLAM.md
 • MEM–RUSSIA–JAPAN.md
@@ -476,7 +488,7 @@ TOTAL REGISTERED FILES: One hundred eighty-five (185) MEM–RUSSIA OBJECTS
 Category Breakdown:
 • A) GEO: 31 files
 • B) DYNASTY: 2 files
-• C) WAR: 49 files
+• C) WAR: 48 files
 • D) LAW: 6 files
 • E) ECON: 0 files
 • F) RELIGION: 2 files
@@ -486,4 +498,4 @@ Category Breakdown:
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v3.2
+END OF FILE — CIV–INDEX–RUSSIA — v3.4

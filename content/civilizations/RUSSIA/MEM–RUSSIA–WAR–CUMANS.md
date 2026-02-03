@@ -1,21 +1,26 @@
-MEM–RUSSIA–WAR–CUMANS — v2.1
+MEM–RUSSIA–WAR–CUMANS — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–CUMANS v2.1
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Cuman Wars (Половецкие войны) — Steppe Alliance Complexity
 Dates: 1055–1239 AD (major conflicts: 1090s–1220s)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -304,6 +309,11 @@ Secondary Sources:
 • George Vernadsky — *Kievan Russia* (1948)
 
 ────────────────────────────────────────────────────────────
+XI.B MEM BIBLIOGRAPHY (MANDATORY)
+────────────────────────────────────────────────────────────
+Primary: Russian Primary Chronicle; Vladimir Monomakh's autobiography; Byzantine and Mongol sources. Secondary: Svetlana Pletneva, *Cuman Studies* (1974); Simon Franklin & Jonathan Shepard, *The Emergence of Rus 750-1200* (1996); George Vernadsky, *Kievan Russia* (1948). Bibliography to be expanded per ARC–RUSSIA.
+
+────────────────────────────────────────────────────────────
 XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
@@ -341,7 +351,7 @@ XIII. CONTINUITY INSIGHTS (RAW)
 Contradictions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XIV. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CORE, confirm:
 
@@ -384,5 +394,5 @@ v2.1 Upgrade:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–CUMANS v2.1
+END OF FILE — MEM–RUSSIA–WAR–CUMANS v3.0
 ────────────────────────────────────────────────────────────

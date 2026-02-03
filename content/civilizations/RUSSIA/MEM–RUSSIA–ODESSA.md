@@ -1,8 +1,9 @@
-MEM–RUSSIA–ODESSA — v2.0
+MEM–RUSSIA–ODESSA — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · PARTIAL · 20% TARGET
-Status: ACTIVE · PARTIAL
-Version: 2.0
+Status: ACTIVE · PARTIAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–ODESSA v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Odessa (Одесса) — Black Sea Gateway & Cosmopolitan Port
 Dates: 1794–present (Russian/Soviet control: 1794–1991)
@@ -11,12 +12,12 @@ Last Update: January 2026
 Word Count: ~3,200
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
@@ -297,7 +298,7 @@ Cross-civilizational:
 • MEM–JEWISH–ODESSA — diaspora significance
 
 ────────────────────────────────────────────────────────────
-XII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:
 • Catherine II decrees on Odessa foundation (1794)
@@ -334,5 +335,5 @@ J. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ODESSA v2.0
+END OF FILE — MEM–RUSSIA–ODESSA v3.0
 ────────────────────────────────────────────────────────────

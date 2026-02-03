@@ -116,6 +116,22 @@ Leo Tolstoy's *Sevastopol Sketches* (1855) fixed the siege in Russian letters.
 The Crimean War siege established Sevastopol as **site of sacrifice**
 before the Soviet period made it a Hero City.
 
+III.C FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*, *The War of the World*) frames the mid-nineteenth-century
+clash between Britain and Russia as a contest between maritime and land
+empires: the siege of Sevastopol was the one direct Anglo-Russian military
+confrontation of the period. Russia's Black Sea base represented the
+maritime margin of a land empire; its loss in 1855 exposed the limits of
+adding a second strategic centre without transforming the state (RLL–RUSSIA–0030).
+Ferguson's comparative-empire framing supplements Russian-primary and
+operational scholarship.
+
+> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
+> the World*, on the Crimean War, Sevastopol, or British–Russian imperial
+> rivalry, to be inserted when source is available.
+> ARC–RUSSIA Category D (Modern).]
+
 ────────────────────────────────────────────────────────────
 IV. GREAT PATRIOTIC WAR SIEGE (1941–1942)
 ────────────────────────────────────────────────────────────
@@ -250,6 +266,10 @@ Category D (Modern Scholarship):
   London: Weidenfeld & Nicolson, 1975.
 • Figes, Orlando. *The Crimean War: A History*. New York: Metropolitan
   Books, 2010.
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Penguin, 2003. [comparative empire; Britain–Russia; Category D]
+• Ferguson, Niall. *The War of the World: Twentieth-Century Conflict and
+  the Descent of the West*. New York: Penguin, 2006. [imperial conflict; Category D]
 
 Primary / literary:
 • Tolstoy, Leo. *Sevastopol Sketches* (1855). Trans. various.

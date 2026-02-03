@@ -1,4 +1,4 @@
-CIV–ARC–RUSSIA — v3.0
+CIV–ARC–RUSSIA — v3.1
 Civilizational Memory Codex · Academic Reference Canon
 
 Status: CANONICAL · STAND-ALONE · MIRRORED
@@ -7,9 +7,14 @@ Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Compatibility: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0 (legacy A/B/C/D structure)
 Last Updated: February 2026
 
-Supersedes: CIV–ARC–RUSSIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–ARC–RUSSIA v3.0
+Upgrade Type: ADDITIVE · AUTHOR EXPANSION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1)
+────────────────────────────────────────────────────────────
+v3.1 — ADDITIVE · AUTHOR EXPANSION. Niall Ferguson (b. 1964) added to Category D (MODERN), Structural & Political History. Supersedes v3.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.0)
@@ -278,6 +283,7 @@ Structural & Political History:
 • Geoffrey Hosking (1945–2018)
 • Orlando Figes (b. 1959)
 • Stephen Kotkin (b. 1963)
+• Niall Ferguson (b. 1964) — *The War of the World*, *Civilization: The West and the Rest*, *Empire*; admissible for comparative empire and twentieth-century conflict framing, Russia/USSR in descent-of-the-West narrative, and structural civilizational contrast. May supplement but not substitute for Russian-primary or specialist Russian-historical scholarship.
 
 Strategic & Geographic Analysis (structural framing):
 • John Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*;
@@ -375,12 +381,12 @@ Any divergence invalidates compliance.
 ────────────────────────────────────────────────────────────
 XI. CANON STATE
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–RUSSIA v3.0
+Version: CIV–ARC–RUSSIA v3.1
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–RUSSIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–ARC–RUSSIA v3.0
+Upgrade Type: ADDITIVE · AUTHOR EXPANSION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–RUSSIA — v3.0
+END OF FILE — CIV–ARC–RUSSIA — v3.1
 ────────────────────────────────────────────────────────────

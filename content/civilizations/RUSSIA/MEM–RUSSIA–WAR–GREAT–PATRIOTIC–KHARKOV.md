@@ -1,23 +1,23 @@
-MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KHARKOV — v2.0
+MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KHARKOV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.0
-Upgrade Type: DUAL MIND AUDIT · WAR MEM CALIBRATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KHARKOV v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battles of Kharkov (Харьковские сражения)
 Dates: 1941–1943 (multiple battles)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,100
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.8
-• CIV–SCHOLAR–RUSSIA v2.4 (WAR MEM calibration)
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -324,5 +324,5 @@ G. Cost and cumulative losses
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KHARKOV v2.0
+END OF FILE — MEM–RUSSIA–WAR–GREAT–PATRIOTIC–KHARKOV v3.0
 ────────────────────────────────────────────────────────────

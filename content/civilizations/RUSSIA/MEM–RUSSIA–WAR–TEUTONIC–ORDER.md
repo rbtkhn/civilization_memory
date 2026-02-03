@@ -183,5 +183,21 @@ Secondary Sources:
   Press, 1998.
 
 ────────────────────────────────────────────────────────────
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–TEUTONIC–ORDER
+Status: ACTIVE
+Exploration options available.
+
+A. Northern Crusades context and papal sanction
+B. Battle of the Neva and Alexander Nevsky emergence
+C. Battle on the Ice and defensive doctrine
+D. Mongol domination and western timing
+E. Civilizational boundary and existential defense
+F. Teutonic fortress expansion and Russian response
+G. Compare with Livonian and Prussian crusade context
+H. Trace legacy in Russian western frontier memory
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–WAR–TEUTONIC–ORDER v3.0
 ────────────────────────────────────────────────────────────

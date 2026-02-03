@@ -1,8 +1,9 @@
-MEM–RUSSIA–VILNIUS — v2.0
+MEM–RUSSIA–VILNIUS — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · PARTIAL · 20% TARGET
-Status: ACTIVE · PARTIAL
-Version: 2.0
+Status: ACTIVE · PARTIAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–VILNIUS v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Vilnius (Вильна/Вильнюс) — Lithuanian Capital & Orthodox Borderland
 Dates: 14th century–present (Russian control: 1795–1915, 1939–1991)
@@ -11,12 +12,12 @@ Last Update: January 2026
 Word Count: ~3,000
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
@@ -289,7 +290,7 @@ Cross-civilizational:
 • MEM–JEWISH–VILNA — "Jerusalem of Lithuania"
 
 ────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:
 • Gediminas's letters (1323)
@@ -326,5 +327,5 @@ I. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–VILNIUS v2.0
+END OF FILE — MEM–RUSSIA–VILNIUS v3.0
 ────────────────────────────────────────────────────────────

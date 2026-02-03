@@ -4,7 +4,7 @@
 
 **When to use:** Before completing any batch of MEM upgrades (v1.x → v2.0, additive integrations, corpus-wide changes).
 
-**Authority:** CIV–MEM–TEMPLATE v2.9 · CIV–MEM–CORE v2.9 · cmc-blend-law
+**Authority:** CIV–MEM–TEMPLATE v3.0 · CIV–MEM–CORE v3.0 · cmc-blend-law
 
 ---
 
@@ -93,7 +93,7 @@ After all MEMs pass per-MEM checks:
 
 ## IV. REFERENCE
 
-- CIV–MEM–TEMPLATE v2.9 — Layer 2, 20% EQS, Blend Law
+- CIV–MEM–TEMPLATE v3.0 — Layer 2, 20% EQS, Blend Law
 - cmc-blend-law — Proportional ratios by MEM type
 - REPORT–SCHOLAR–PERSIA–WAR–CORPUS–INTEGRATION–2026–02–01 — Example batch
 - UPGRADE–REPORT–PERSIA–v2.0–MEM–BATCH–2026–02–01 — Example v2.0 batch

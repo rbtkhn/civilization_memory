@@ -1,25 +1,27 @@
-CIV–CORE–RUSSIA — v3.0
+CIV–CORE–RUSSIA — v3.1
 Civilizational Strategy Codex · Constraint-Hardened Endurance Edition
-Phase-Aware Template v3.0 Compliance · Temporal Compression Doctrine
+Phase-Aware Template v3.0 Compliance · Temporal Compression Doctrine · Scholar RLL Feed
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
 Activation State: ACTIVE
-Supersedes: CIV–CORE–RUSSIA v2.1
+Supersedes: CIV–CORE–RUSSIA v3.0
 Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governed by: CIV–MEM–CORE v3.0
-Upgrade Type: ALIGNMENT · v3.0
+Upgrade Type: SCHOLAR FEED · RLL BINDING EXPANSION
 Lock Level: STRUCTURAL
 Civilization Phase: PHASE III — MATURITY
 DIB Status: DEFINED · INACTIVE
 Scholar Reference Mode: READ-ONLY / DIB-GATED
 Conceptual Lineage: SCE–CIV–RUSSIA v9.7.2 (doctrinal ancestry preserved; format-harmonized)
 Last Update: February 2026
-Word Count: ~12,500
+Word Count: ~12,600
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
 ────────────────────────────────────────────────────────────
+v3.1 (February 2026): SCHOLAR FEED · RLL BINDING EXPANSION. RLL bindings expanded from CIV–SCHOLAR–RUSSIA v3.1: WAR RLLs 0012–0017 in Section VIII; GEO RLLs 0018, 0019, 0021, 0024, 0027, 0028, 0029 in Section IV; RLL–0017 (Sacrifice Generates Legitimacy) in Section II; RLL–0016 (War as Governance Compression) in Section XI. No axioms altered; no diagnostics modified; no gates weakened. Supersedes v3.0.
+
 v3.0 (February 2026): ALIGNMENT · v3.0. Template Version Used → CIV–CORE–TEMPLATE v3.0; CIV–MEM–CORE v3.0 alignment. No axioms, diagnostics, or constraints changed. Supersedes v2.1.
 
 v2.1 (prior): This upgrade advanced CIV–CORE–RUSSIA from v2.0.1 to v2.1.
@@ -104,6 +106,7 @@ II. LEGITIMACY ACCOUNTING LAYER
 RLL Binding (Corrected Namespace):
 • RLL–RUSSIA–0002 (Symbolic legitimacy limits)
 • RLL–RUSSIA–0005 (Coercion-legitimacy inversion)
+• RLL–RUSSIA–0017 (Sacrifice Generates Legitimacy — catastrophic loss converted to regime legitimacy; incentive structure for cost/sacrifice under uncertainty)
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL–TEMPORAL CONTINUITY ENGINE
@@ -154,6 +157,16 @@ Mandatory Outputs:
 
 Rule:
 If Periphery Load = HIGH and FB ≥ MED, objectives must contract.
+
+RLL Binding (Spatial–Civilizational Geometry · from CIV–SCHOLAR–RUSSIA v3.1):
+• RLL–RUSSIA–0018 (River Corridor Hierarchy — interior/threshold/exposure/chokepoint priority)
+• RLL–RUSSIA–0019 (Threshold River Power Distribution — Oka as southern depth floor)
+• RLL–RUSSIA–0021 (Moscow Waterway Chain — Moskva/Oka/Volga/Caspian; attack hierarchy)
+• RLL–RUSSIA–0024 (Chokepoint Permanence — interior rivers structural, not contingent)
+• RLL–RUSSIA–0027 (Mountain Function Gradient — organise/extend vs channel vs absorb)
+• RLL–RUSSIA–0028 (Gate Encoding Duality — limit vs pivot)
+• RLL–RUSSIA–0029 (Volga–Ob Spine Duality — core spine vs depth spine)
+Spatial and corridor verdicts (DLI-RU, CST-RU, BFB-RU) must respect these RLLs where applicable.
 
 ────────────────────────────────────────────────────────────
 V. GOVERNANCE ARCHITECTURE
@@ -213,6 +226,15 @@ Mandatory Outputs:
 • CB: COHESIVE / STRESSED / FRACTURING
 • FB: LOW / MED / HIGH
 • SB: OPEN / CONSTRAINED / CHOKED
+
+RLL Binding (Military–Strategic · from CIV–SCHOLAR–RUSSIA v3.1):
+• RLL–RUSSIA–0012 (Strategic Depth as Primary Weapon — depth-for-time; Oka as depth floor)
+• RLL–RUSSIA–0013 (Defeat as Diagnostic Revelation — early failure → reform or collapse)
+• RLL–RUSSIA–0014 (Victory Requires Enemy Collapse — opponent system failure, not Russian triumph)
+• RLL–RUSSIA–0015 (Attritional Grammar Over Maneuver — replacement over preservation)
+• RLL–RUSSIA–0016 (War as Governance Compression — extends Temporal Compression; war compresses decision intervals)
+• RLL–RUSSIA–0017 (Sacrifice Generates Legitimacy — cost/suffering → moral authority claimed)
+Military-strategic verdicts must respect these RLLs where applicable.
 
 Hard Rules:
 • RB NEGATIVE → long-war advantage illegal.
@@ -287,6 +309,7 @@ RLL Binding:
 • RLL–RUSSIA–0009 (Peace Rejection as Endurance Strategy)
 • RLL–RUSSIA–0010 (Elite Overproduction → Instability Binding)
 • RLL–RUSSIA–0011 (Temporal Compression as Governance Accelerant)
+• RLL–RUSSIA–0016 (War as Governance Compression — war compresses decision intervals, subordinates elite claims to usefulness; extended war is governance, not aberration. Complements 0011.)
 
 ────────────────────────────────────────────────────────────
 XII. EXIT–BUILDING META-DOCTRINE
@@ -401,5 +424,5 @@ CANONICAL REFERENCE:
 Embedded legacy mirrors are archival only and non-operative.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–RUSSIA v3.0
+END OF FILE — CIV–CORE–RUSSIA v3.1
 ────────────────────────────────────────────────────────────

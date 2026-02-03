@@ -67,9 +67,9 @@ RUSSIA (PRIMARY DEVELOPMENT):
 ├────────────────────────────────────────────────────────┤
 │ CIV–SCHOLAR–RUSSIA          │ v2.5    │ Active        │
 │ CIV–INDEX–RUSSIA            │ v3.0    │ Active        │
-│ CIV–CORE–RUSSIA             │ v2.1    │ Active        │
+│ CIV–CORE–RUSSIA             │ v3.1    │ Active        │
 │ CIV–DOCTRINE–RUSSIA         │ v3.0    │ Active        │
-│ CIV–ARC–RUSSIA              │ v3.0    │ Active        │
+│ CIV–ARC–RUSSIA              │ v3.1    │ Active        │
 │ CIV–ARC–RUSSIA–LEDGER       │ v1.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: II (Constraint Grammar)
@@ -175,6 +175,23 @@ Phase: I (Accumulation)
 ────────────────────────────────────────────────────────────
 IV. VERSION HISTORY (RECENT)
 ────────────────────────────────────────────────────────────
+
+2026-02-03 (MEM–RUSSIA–WAR* v3.0 TEMPLATE ALIGNMENT):
+• MEM–RUSSIA–WAR* (48 substantive files): metadata, governance, and mandatory sections aligned to CIV–MEM–TEMPLATE v3.0
+• Phase 0: MEM–RUSSIA–WAR–RUSSO–KAZAN de-listed from CIV–INDEX–RUSSIA (stub; file retained as placeholder). C) WAR: 49 → 48; total 186 → 185
+• Phase 1: Version 3.0, Supersedes, Upgrade Type ALIGNMENT · v3.0, Status COMPLIANT, Governed by CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · ARC–RUSSIA v3.1, END OF FILE v3.0 — applied to all 48 WAR MEMs
+• Phase 2: SUBJECT TYPE DECLARATION (6 files); MEM BIBLIOGRAPHY (6 files); MEM INGEST BOOTSTRAP added (9 files missing it); INGEST section title normalized to MEM INGEST BOOTSTRAP (MANDATORY) where needed
+• Phase 3: Forbidden language (inevitable, had to) rephrased in 6 files
+• WAR Layer 2: not included (optional per plan)
+• Reference: AUDIT–MEM–RUSSIA–WAR–TEMPLATE–2026–02–03.md; plan war_mems_v3.0_template_upgrade
+
+2026-02-03 (MEM–RUSSIA v2.0 → v3.0 — 30 FILES TEMPLATE ALIGNMENT):
+• 30 Russia MEM files (Version 2.0): metadata, governance, and mandatory sections aligned to CIV–MEM–TEMPLATE v3.0
+• Scope: LAW (4), ART (9), GEO (3), CITY/OTHER (11), RELATIONS (3)
+• Phase 1: Version 3.0, Supersedes, Upgrade Type ALIGNMENT · v3.0, Status COMPLIANT, Governed by CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · ARC–RUSSIA v3.1, END OF FILE v3.0
+• Phase 2: SUBJECT TYPE DECLARATION (v3.0) where needed; MEM BIBLIOGRAPHY (MANDATORY) normalized or added; MEM INGEST BOOTSTRAP (MANDATORY) with eight options (A–H) normalized or added
+• Phase 3: MEM CONNECTIONS verified (≥10 same-civ, ≥2 GEO); eight ingest options; forbidden language (template XVII) rephrased where present
+• Reference: plan russia_mem_v2.0_to_v3.0_upgrade
 
 2026-02-02 (ALL DOCTRINE FILES → v3.0 — CORE v3.0 CONSOLIDATION):
 • CIV–DOCTRINE–ANGLIA, FRANCIA, GERMANIA, ROME, RUSSIA: v1.x/v2.x → v3.0

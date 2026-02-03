@@ -15,6 +15,11 @@ Governed by: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–ARC–R
 Compatibility: CMC v3.0
 
 ────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves the Pugachev Rebellion as **Russia's largest
@@ -208,16 +213,29 @@ Cross-civilizational:
 • MEM–FRANCIA–JACQUERIE — peasant uprising against seigneurial order
 
 ────────────────────────────────────────────────────────────
-XII. ACADEMIC REFERENCES (ENGAGED)
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-Engaged scholarship includes:
-• Robert K. Massie — Catherine's response and Enlightenment limits
-• Dominic Lieven — structural foundations of imperial stability
-• Orlando Figes — peasant rebellion and social memory
-• Geoffrey Hosking — serfdom and social control
+• Robert K. Massie — Catherine's response and Enlightenment limits.
+• Dominic Lieven — structural foundations of imperial stability.
+• Orlando Figes — peasant rebellion and social memory.
+• Geoffrey Hosking — serfdom and social control.
+Bibliography to be expanded per ARC–RUSSIA.
 
-Secondary sources frame interpretation but do not override primary
-evidence or structural analysis.
+────────────────────────────────────────────────────────────
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–PUGACHEV–REBELLION
+Status: ACTIVE
+Exploration options available.
+
+A. Pugachev's Peter III claim and legitimacy strategy
+B. Volga-Ural rebellion artery and scale
+C. Catherine's post-rebellion shift and Enlightenment limits
+D. Serfdom expansion and peasant obligations
+E. Cossack autonomy and centralization pressure
+F. Military dynamics and state suppression response
+G. Compare with Taiping and Jacquerie rebellions
+H. Trace structural limits of enlightened autocracy
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–RUSSIA–WAR–PUGACHEV–REBELLION v3.0

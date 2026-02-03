@@ -1,9 +1,9 @@
-MEM–RUSSIA–COSSACKS — v2.0
+MEM–RUSSIA–COSSACKS — v3.0
 Civilizational Memory Codex · Subject Memory File
-ACTIVE · CANONICAL · MERCOURIS CIVILIZATIONAL COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.0
-Upgrade Type: INITIAL CREATION · DUAL MIND ARCHITECTURE
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–COSSACKS v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Cossacks (Казаки) — Frontier Warriors and Imperial Instruments
 Dates: c. 15th century AD–present
@@ -13,13 +13,13 @@ Last Update: January 2026
 Word Count: ~3,400
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 • CIV–MIND–MERCOURIS v2.2 (CIVILIZATIONAL COGNITION)
-• ARC–RUSSIA (pinned)
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a WELL-DOCUMENTED subject (social-military formation).
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥5, SECONDARY ≥3, CRITICAL ≥2
@@ -324,7 +324,7 @@ Cross-civilizational:
 • MEM–POLAND–LITHUANIA — Zaporozhian political context
 
 ────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (v2.7)
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
 • Cossack host charters and privileges
@@ -344,7 +344,7 @@ SECONDARY SOURCES:
 • Boeck, Brian. *Imperial Boundaries: Cossack Communities and Empire-Building*. Cambridge UP, 2009.
 
 ────────────────────────────────────────────────────────────
-XIV. MEM INGEST BOOTSTRAP (v2.7 COMPLIANT)
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–COSSACKS
 Status: ACTIVE
@@ -364,5 +364,5 @@ J) Compliance & integrity audit (v2.7)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–COSSACKS v2.0
+END OF FILE — MEM–RUSSIA–COSSACKS v3.0
 ────────────────────────────────────────────────────────────

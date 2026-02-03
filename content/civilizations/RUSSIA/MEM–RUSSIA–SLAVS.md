@@ -1,8 +1,9 @@
-MEM–RUSSIA–SLAVS — v2.0
+MEM–RUSSIA–SLAVS — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · PARTIAL · 20% TARGET
-Status: ACTIVE · PARTIAL
-Version: 2.0
+Status: ACTIVE · PARTIAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–SLAVS v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: East Slavs (Восточные славяне) — Civilizational Substrate
 Dates: 5th–10th century AD (pre-state formation through Rurikid consolidation)
@@ -11,12 +12,12 @@ Last Update: January 2026
 Word Count: ~3,400
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
+SUBJECT TYPE DECLARATION (v3.0)
 ────────────────────────────────────────────────────────────
 This MEM addresses a SPARSE SOURCES subject.
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1
@@ -339,7 +340,7 @@ Cross-civilizational:
 • MEM–SCANDINAVIA–VARANGIANS — Rurikid origin
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (MANDATORY · v2.6+)
+XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:
 • Russian Primary Chronicle (Tale of Bygone Years), Laurentian Codex
@@ -380,5 +381,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SLAVS v2.0
+END OF FILE — MEM–RUSSIA–SLAVS v3.0
 ────────────────────────────────────────────────────────────

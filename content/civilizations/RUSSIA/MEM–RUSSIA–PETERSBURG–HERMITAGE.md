@@ -233,6 +233,22 @@ The Hermitage encodes durable Russian lessons:
 
 The Hermitage is **Russia's claim to eternal significance**.
 
+VIII.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*, *The War of the World*, *Civilization*) frames
+empires as modernizing or legitimacy-projecting forces; the British Empire
+as "midwife to modernity" contrasts with land empires that legitimize through
+unity and cultural accumulation rather than liberal institutional export.
+The Hermitage fits the latter pattern: Russia's claim to European parity
+through acquisition and preservation, not through maritime commerce or
+representative institutions. Comparative empire framing supplements but
+does not replace Russian-primary scholarship.
+
+> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
+> the World* or *Civilization*, on empire, cultural accumulation, or
+> land-empire legitimacy, to be inserted when source is available.
+> ARC–RUSSIA Category D (Modern).]
+
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -291,6 +307,11 @@ XI. MEM BIBLIOGRAPHY
   New York: Rizzoli, 2014.
 • Salisbury, Harrison E. *The 900 Days: The Siege of Leningrad*.
   New York: Harper & Row, 1969. [siege survival context]
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Penguin, 2003. [comparative empire; Category D]
+• Ferguson, Niall. *The War of the World: Twentieth-Century Conflict and
+  the Descent of the West*. New York: Penguin, 2006. [imperial decline;
+  Category D]
 
 ────────────────────────────────────────────────────────────
 XII. ACADEMIC REFERENCES (ENGAGED)
@@ -298,6 +319,7 @@ XII. ACADEMIC REFERENCES (ENGAGED)
 Engaged scholarship includes:
 • **Robert K. Massie** — Catherine's collecting as imperial project
 • **Simon Sebag Montefiore** — dynastic performance and cultural legitimacy
+• **Niall Ferguson** — comparative empire; land vs. maritime legitimacy (ARC–RUSSIA Category D)
 • Geraldine Norman — institutional history and collection development
 • Mikhail Piotrovsky — current directorship and post-Soviet adaptation
 • Harrison Salisbury — siege survival context

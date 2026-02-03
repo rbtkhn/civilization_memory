@@ -347,7 +347,7 @@ Category D (Modern Scholarship):
   London: Weidenfeld & Nicolson, 1975.
 
 ────────────────────────────────────────────────────────────
-XII. MEM INGEST BOOTSTRAP (v2.8)
+XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingesting this MEM, select the appropriate entry vector:
 

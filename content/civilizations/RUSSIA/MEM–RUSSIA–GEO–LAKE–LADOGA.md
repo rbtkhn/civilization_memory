@@ -1,17 +1,20 @@
-MEM–RUSSIA–GEO–LAKE–LADOGA — v2.0
+MEM–RUSSIA–GEO–LAKE–LADOGA — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE
-Version: 2.0
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · FULL ARC & TEMPLATE v2.3 COMPLIANAD
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–GEO–LAKE–LADOGA v2.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Lake Ladoga (Ладожское озеро)
 Dates: Prehistory–present
 Class: MEM (Civilizational Memory)
-ARC Version: ARC–RUSSIA v1.5
 Last Update: January 2026
 Word Count: ~2,600
+
+Governed by:
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -232,5 +235,5 @@ XV. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–LAKE–LADOGA v2.0
+END OF FILE — MEM–RUSSIA–GEO–LAKE–LADOGA v3.0
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,9 @@
-MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ — v2.1
+MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: STRUCTURAL EMERGENCE ANALYSIS
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ v2.1
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Battle of Austerlitz (Битва под Аустерлицем)
 Dates: 2 December 1805 AD
@@ -13,9 +12,14 @@ Last Update: January 2026
 Word Count: ~3,400
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
+
+────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
+This MEM addresses a WELL-DOCUMENTED subject.
+Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -351,26 +355,16 @@ Cross-civilizational:
 • MEM–AUSTRIA–WAR–AUSTERLITZ — shared defeat, different lessons
 
 ────────────────────────────────────────────────────────────
-XIII. ACADEMIC REFERENCES (ENGAGED)
+XIII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
-Engaged scholarship includes:
-• **Dominic Lieven** — PRIMARY modern authority: strategic learning,
-  evolution from decisive battle to endurance doctrine, contrast between
-  1805 and 1812 approaches (*Russia Against Napoleon: The True Story of
-  the Campaigns of War and Peace*, 2009)
-• David G. Chandler — operational analysis of Napoleonic tactics
-• Christopher Duffy — coalition warfare and coordination failures
-• Paul Schroeder — European system dynamics and coalition logic
-
-Lieven provides the primary analytical framework for understanding
-Austerlitz's role in Russian strategic evolution and the contrast with
-later endurance doctrine.
-
-Secondary sources frame interpretation but do not override primary
-evidence or structural analysis.
+• Dominic Lieven — *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009); primary authority on strategic learning and endurance doctrine.
+• David G. Chandler — operational analysis of Napoleonic tactics.
+• Christopher Duffy — coalition warfare and coordination failures.
+• Paul Schroeder — European system dynamics and coalition logic.
+Bibliography to be expanded per ARC–RUSSIA.
 
 ────────────────────────────────────────────────────────────
-XIV. MEM INGEST BOOTSTRAP
+XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
@@ -413,5 +407,5 @@ v2.1 Upgrade:
 Version upgrades require new primary evidence or significant reinterpretation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ v2.1
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ v3.0
 ────────────────────────────────────────────────────────────

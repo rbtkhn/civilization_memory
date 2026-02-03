@@ -1,24 +1,23 @@
-MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN — v2.7
+MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
-Status: ACTIVE · CANONICAL
-Version: 2.7
-Upgrade Type: INITIAL v2.7 CREATION
+ACTIVE · CANONICAL · COMPLIANT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN v2.7
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Swedish-Novgoradian Wars
 Dates: c. 1142–1323 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,200
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• ARC–RUSSIA v3.1
 
-────────────────────────────────────────────────────────────
-SUBJECT TYPE DECLARATION (v2.7)
-────────────────────────────────────────────────────────────
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -211,5 +210,21 @@ Secondary Sources:
   Longman, 1983.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN v2.7
+MEM INGEST BOOTSTRAP (MANDATORY)
+────────────────────────────────────────────────────────────
+MEM INGEST CONFIRMED — MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN
+Status: ACTIVE
+Exploration options available.
+
+A. Baltic and Finnish access contest
+B. Treaty of Nöteborg and border stabilization
+C. Novgorod republican structure and war conduct
+D. Orthodox-Catholic frontier and competition
+E. Trade routes and tributary population control
+F. Compare with Great Northern War continuation
+G. Varangian and Scandinavian-Russian connections
+H. Trace western frontier pressure persistence
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN v3.0
 ────────────────────────────────────────────────────────────
