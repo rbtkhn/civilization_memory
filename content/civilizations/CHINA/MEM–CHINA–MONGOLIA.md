@@ -1,4 +1,4 @@
-Title: MEM–CHINA–GEO–MONGOLIA
+Title: MEM–CHINA–MONGOLIA
 Status: LOCKED
 Version: 1.1
 Civilization: CHINA (中华文明)

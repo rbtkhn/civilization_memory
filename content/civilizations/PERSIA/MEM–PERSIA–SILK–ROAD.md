@@ -264,7 +264,7 @@ Status: ACTIVE
 
 **OPTION E** — Mearsheimer responds: refine transit power; closure-capacity of corridor
 
-**OPTION F** — Link to MEM–CHINA–DYNASTY–TANG or MEM–CHINA–GEO–XINJIANG (eastern terminus)
+**OPTION F** — Link to MEM–CHINA–DYNASTY–TANG or MEM–CHINA–XINJIANG (eastern terminus)
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–PERSIA–SILK–ROAD — v1.0

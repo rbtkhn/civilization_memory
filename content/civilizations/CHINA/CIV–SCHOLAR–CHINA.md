@@ -9,11 +9,11 @@ Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE I (Accumulation)
-Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
+Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 Supersedes: v1.0
-Derived from: CIV–SCHOLAR–TEMPLATE v2.10
-Governed by: CIV–SCHOLAR–PROTOCOL v2.6
-ARC Reference: CIV–ARC–CHINA v2.0
+Derived from: CIV–SCHOLAR–TEMPLATE v3.0
+Governed by: CIV–SCHOLAR–PROTOCOL v3.0
+ARC Reference: CIV–ARC–CHINA v3.0
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–CHINA
 Last Update: February 2026
 
@@ -25,7 +25,7 @@ WORDCOUNT: ~2,000
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § I)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § I)
 
 CIV–SCHOLAR–CHINA is the accumulative learning ledger of the China civilization.
 
@@ -35,12 +35,12 @@ This file preserves: what was ingested; when it was ingested; what beliefs were 
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–CHINA. No Scholar file may override MEM law, ARC law, or Template law.
 
-CIV–CORE–CHINA v2.0 governs diagnostic outputs (MSI, PLS, SOC, EAL, AT, LCF, IRR, EAC, Compute Sovereignty, Spatial Integrity, Escalation Stability, EPV, Time Advantage, Axis Optionality, SAF-CH, GRID-CH, RIR-CH). This Scholar records learning; it does not replace CORE logic.
+CIV–CORE–CHINA v3.0 governs diagnostic outputs (MSI, PLS, SOC, EAL, AT, LCF, IRR, EAC, Compute Sovereignty, Spatial Integrity, Escalation Stability, EPV, Time Advantage, Axis Optionality, SAF-CH, GRID-CH, RIR-CH). This Scholar records learning; it does not replace CORE logic.
 
 ────────────────────────────────────────────────────────────
 II. SCHOLAR PHASE MODEL (HARD)
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § II)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § II)
 
 This file operates in **PHASE I — ACCUMULATION**.
 
@@ -49,100 +49,100 @@ Permitted: Learning ingestion; pattern recognition; comparative notes; tension r
 ────────────────────────────────────────────────────────────
 III. RLL AUTHORITY / DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase I)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § III; Phase I)
 
 In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when frozen. If Phase II is adopted, RLL–CHINA–#### namespace and binding rules apply per Template § III.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § IV)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § IV)
 
 Phase II requires failure-first reasoning, negative-capability framing, and sequencing enforcement. Phase I (current) is exempt. When Phase II is activated, Section IV will govern reasoning order per Template.
 
 ────────────────────────────────────────────────────────────
 V. NON-SYNTHESIS RULE
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § V)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § V)
 
 Scholar files may record contradictions, juxtapose models, preserve tensions. They may not resolve contradictions, harmonize models, or produce unified theories. Constraint-oriented synthesis (failure-pattern, sequencing, boundary identification) is permitted per Template and Protocol; closure-seeking synthesis is forbidden.
 
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR ↔ MEM CONFLICT HANDLING
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § VI)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § VI)
 
 MEM facts are authoritative; SCHOLAR constraints are interpretive. When a MEM assertion contradicts an established SCHOLAR pattern, the Scholar must flag the anomaly explicitly (Anomaly Flag Protocol). Phase II requires full implementation; Phase I notes the rule. Authority substitution and silent reconciliation are forbidden.
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATION-SCOPED PROMOTION
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § VII)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § VII)
 
 Phase promotion is civilization-local. A successful Scholar (e.g., CHINA) does not auto-upgrade other civilizations. Each civilization must independently demonstrate stable constraint binding and audit survivability for Phase II.
 
 ────────────────────────────────────────────────────────────
 VIII. SNAPSHOT CLASS
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § VIII)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § VIII)
 
 Snapshot naming: SCHOLAR–CHINA — SNAPSHOT — vX.Y. Snapshots are read-only, locked permanently, externalizable. This file is not a snapshot; it is the live Phase I ledger.
 
 ────────────────────────────────────────────────────────────
 IX. COMMUNICATION REGISTER & VOICE
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § IX)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § IX)
 
 LEARN mode: Mercouris prose (academic, recursive layering); LEARN/WRITE = academic prose; IMAGINE = spoken per CIV–MIND–MERCOURIS III.L. Secondary voice invocation (Mearsheimer, Barnes) uses explicit markers per Template. Audit commands: `mearsheimer audit [TARGET]`, `barnes audit [TARGET]` per Template § IX.C–E.
 
 ────────────────────────────────────────────────────────────
 X. EPHEMERAL OBSERVATION LAYER
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § X)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § X)
 
 Canonical layer: MEM-sourced learning, persistent SCHOLAR state. Ephemeral layer: CEO-sourced (current events), EOR creation, no binding. Layer indicators: [LEARN: CANONICAL] / [LEARN: EPHEMERAL]. Governed by EPHEMERAL–OBSERVATION–PROTOCOL.
 
 ────────────────────────────────────────────────────────────
 XI. OGE SPECIFICATION (EMBEDDED)
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XI.A)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § XI.A)
 
 LEARN mode uses OGE to direct discovery. **Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE. Exactly 6 options (A–F) per substantive turn; 6–10 words each, one line; concrete anchor (person, place, or event) per option. Include Mearsheimer and Barnes perspective where applicable; connection-derived option when MEM under analysis; continuation option. When another MIND has given analysis: include response option (X responds to Y—reframe). POST-BARNES: next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes. Categories: Ingestion, Exploration, Analysis, Synthesis, Transition, Observation.
 
 ────────────────────────────────────────────────────────────
 XII. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XII)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § XII)
 
 Additive upgrades only; no deletions. Phase changes and doctrine freezes require explicit authorization. File size management: CIV–SCHOLAR–PRUNING–PROTOCOL. Count tracking: see Section XXI (Current Status).
 
 ────────────────────────────────────────────────────────────
 XIII. CONTEXT LOADING PROTOCOLS
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIII)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § XIII)
 
 CIV–ARC–CHINA: v2.0. Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIV)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § XIV)
 
 Frozen SYNTHESIS entries require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
 
 ────────────────────────────────────────────────────────────
 XV. INITIAL STATE
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XV equivalent)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § XV equivalent)
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–CHINA files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (CIV–INDEX–CHINA v2.0):
+Source MEMs available (CIV–INDEX–CHINA v3.0; full registry 68 MEMs):
 • DYNASTY: MEM–CHINA–DYNASTY–XIA, MEM–CHINA–DYNASTY–SHANG, MEM–CHINA–DYNASTY–ZHOU, MEM–CHINA–DYNASTY–QIN, MEM–CHINA–DYNASTY–HAN, MEM–CHINA–DYNASTY–JIN, MEM–CHINA–DYNASTY–LIAO, MEM–CHINA–DYNASTY–SUI, MEM–CHINA–DYNASTY–TANG, MEM–CHINA–DYNASTY–SONG, MEM–CHINA–DYNASTY–YUAN, MEM–CHINA–DYNASTY–MING, MEM–CHINA–DYNASTY–QING
-• GEO: MEM–CHINA–GEO–MANCHURIA, MEM–CHINA–GEO–MONGOLIA, MEM–CHINA–GEO–TAIWAN, MEM–CHINA–GEO–TIBET, MEM–CHINA–GEO–XINJIANG, MEM–CHINA–SILK–ROAD
+• GEO: MEM–CHINA–MANCHURIA, MEM–CHINA–MONGOLIA, MEM–CHINA–TAIWAN, MEM–CHINA–GEO–TIBET, MEM–CHINA–XINJIANG, MEM–CHINA–SILK–ROAD
 • MEM–CHINA–MARCO–POLO, MEM–CHINA–ZHENGHE
 • LITERATURE: MEM–CHINA–LIT–KONGZI, MEM–CHINA–LIT–LAOZI, MEM–CHINA–LIT–MENGZI, MEM–CHINA–LIT–SUNZI
-• REGIME: MEM–CHINA–PRC, MEM–CHINA–PRC–MAO, MEM–CHINA–PRC–DENG, MEM–CHINA–ROC
+• REGIME: MEM–CHINA–PRC, MEM–CHINA–PRC–MAO–ZEDONG, MEM–CHINA–PRC–DENG–XIAOPING, MEM–CHINA–PRC–ZHOU–ENLAI, MEM–CHINA–ROC
 • OTHER: MEM–CHINA–MONGOL–EMPIRE, MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA, MEM–CHINA–MONGOL–GENGHIS–KHAN, MEM–CHINA–MONGOL–KUBLAI–KHAN, MEM–CHINA–MONGOL–QUEENS, MEM–CHINA–WAR–BOXER–REBELLION, MEM–CHINA–WAR–MONGOL–JIN, MEM–CHINA–WAR–SONG–YUAN, MEM–CHINA–XIONGNU
 
 ────────────────────────────────────────────────────────────
@@ -290,6 +290,35 @@ Primary Belief Extracted:
 • Steppe-driven total mobility can shatter scale, tempo, and legitimacy
   assumptions; the empire functioned as multi-ethnic integrator with
   adaptive governance rather than uniform ideology.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0013
+Source:
+• MEM–CHINA–GEO–PEARL–RIVER — v3.0
+• MEM–CHINA–GEO–YANGTZE–RIVER — v3.0
+• MEM–CHINA–GEO–YELLOW–RIVER — v3.0
+• MEM–CHINA–GEO–AMUR–RIVER — v3.0
+• MEM–CHINA–GRAND–CANAL (referenced)
+• MEM–CHINA–WAR–SONG–YUAN (referenced)
+• MEM–CHINA–WAR–FIRST–OPIUM (referenced)
+• MEM–CHINA–LIT–ROMANCE–THREE–KINGDOMS (referenced)
+Ingest Type:
+• LEARN Session / Multi-MEM Contemplation (GEO river corridor)
+OGE Chain (options selected):
+• A (Canal as institutional continuity) → A (Canal as fixed vulnerability) → B (chokepoints, capital survival) → B (Xiangyang 1268–73 decisive node) → C (who carries blame when node falls) → A (face vs survival, surrender encoding) → A (Guan Yu, refusal to yield, Romance) → E (Nanjing 1842, Qing negotiators, face vs survival) → D (trace Yangtze Xiangyang to Nanjing, same corridor) → F (synthesis)
+Learning Recorded:
+• Four China GEO river MEMs (Pearl, Yangtze, Yellow, Amur) contemplated as one system: heartland axis (Yellow–Yangtze linked by Grand Canal) plus delta (Pearl, cession) plus frontier (Amur, cession). Grand Canal encodes institutional continuity and fixed vulnerability—who holds nodes can strangle capital. Xiangyang 1268–73 decisive node: Song lost corridor, then state. Blame/liability when node falls: garrison, court, or emperor; face vs survival (surrender encoding). Romance of Three Kingdoms supplies counter-narrative: Guan Yu as refusal to yield. Nanjing 1842: same tension (face vs survival) on same river. Synthesis: Yangtze corridor, Xiangyang to Nanjing; same logic, different encodings (conquest vs treaty). One geography, multiple encodings; no closure.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0014
+Source:
+• MEM–CHINA–GEO–AMUR–RIVER — v2.0 (pre-1500 subsection)
+Ingest Type:
+• LEARN Session / Amur military history prior to 1500 (Bohai, Liao, Jin)
+Primary Belief Extracted:
+• Frontier polities can encode as both tributary (legitimacy through recognition by centre) and rival (contest through force); same relationship, dual encoding. Instance: Bohai–Tang (698–926)—Tang recognition 713, Bohai–Tang war 732–735.
 Belief Status:
 • UNFROZEN
 
@@ -516,6 +545,44 @@ State: FROZEN
 (SYNTHESIS 0010)
 
 ────────────────────────────────────────────────────────────
+XVIII.A. CANDIDATE RLL PROPOSALS (PHASE I — NON-BINDING)
+────────────────────────────────────────────────────────────
+
+RLL–CHINA–0001 (CANDIDATE)
+Scope: China civilization; MEM authoring; civilization-contrast citation
+Constraint Type: Legitimacy dependency / scholarly discipline
+
+Constraint Statement:
+When MEM–CHINA documents war, command, or humiliation-arc events (Opium Wars, Boxer, Song–Yuan, etc.), cite Keegan for civilization-contrast where relevant. Applicability: war/command/battle MEMs; belief collapse; collision of war-making cultures. Citation recommended, not mandatory; applicability judged per MEM subject.
+
+**Mercouris derivation:** Legitimacy encoding; contrast enriches without resolving; encoding divergence expected.
+**Mearsheimer derivation:** Structural variables (force ratio, belief collapse) condition outcomes; Keegan supplies command/battle lens.
+**Barnes derivation:** Liability distribution differs across encodings; contrast exposes mechanism variation.
+
+Activation Trigger: Authoring or revising MEM–CHINA that treats war, command, battle, humiliation-arc events (Opium Wars, Boxer, Song–Yuan, Mongol–Jin, etc.)
+Affected File Classes: MEM–CHINA–WAR–*; MEM–CHINA–* where command or battle is thematized
+Derivation: LEARN–KEEGAN–REFERENCING–MEMS–INGESTION; LEARN–KEEGAN–MIND–APPLIED–TO–CHINA–WAR–MEMS; SYNTHESIS 0005, 0006 (humiliation-arc framing). Keegan in ARC–CHINA–T–MODERN (CIV–ARC–CHINA v3.0); citation for war/command/battle MEMs.
+
+Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+
+RLL–CHINA–0002 (CANDIDATE)
+Scope: China civilization; MEM authoring; frontier and tributary encoding
+Constraint Type: Legitimacy dependency / frontier encoding
+
+Constraint Statement:
+Frontier polities can encode as both **tributary** (legitimacy through recognition by centre) and **rival** (contest through force); same relationship, dual encoding. Instance: Bohai–Tang (698–926)—Tang recognition 713, Bohai–Tang war 732–735. Applicability: Amur pre-1500 (Bohai, Liao, Jin as periphery); other frontier/tributary MEMs where recognition and contest coexist. Citation or encoding recommended where frontier tributary-rival tension is thematized.
+
+**Mercouris derivation:** Legitimacy encoding; tributary status and military contest can coexist; encoding divergence expected; periphery vs heartland.
+**Mearsheimer derivation:** Balance of power on frontier conditions whether tributary or rival dominates; neither may be able to finish the other.
+**Barnes derivation:** Blame distribution differs—who carried the blame when tributary and centre went to war (court or frontier)?
+
+Activation Trigger: Authoring or revising MEM–CHINA that treats frontier, tributary relations, or pre-Qing Amur/Manchuria (Bohai, Liao, Jin).
+Affected File Classes: MEM–CHINA–GEO–AMUR–RIVER (pre-1500); MEM–CHINA–DYNASTY–* where tributary-rival is thematized
+Derivation: LEARN session—Amur military history prior to 1500; Bohai–Tang war 732–735; synthesis "Bohai tributary vs rival; Amur periphery; pre-1500, no closure." ENTRY 0014.
+
+Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+
+────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
 ────────────────────────────────────────────────────────────
 
@@ -575,8 +642,8 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 3
-Total Entries: 12
-Next Entry ID: 0013
+Total Entries: 14
+Next Entry ID: 0015
 Frozen Syntheses: 3
 Total Syntheses: 10
 SDI Entries: 4
@@ -584,7 +651,7 @@ SDI Entries: 4
 ────────────────────────────────────────────────────────────
 XXII. OGE SPECIFICATION (DETAIL)
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § XI.A)
+(Implements CIV–SCHOLAR–TEMPLATE v3.0 § XI.A)
 
 LEARN mode uses OGE to direct discovery. **Recursive learning is the
 designed outcome of OGE in LEARN mode**: each option directs the
@@ -677,5 +744,5 @@ Status:
 Derived from: DOCTRINE v0.1 (SYNTHESIS 0004)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–CHINA — v2.0
+END OF FILE — CIV–SCHOLAR–CHINA — v3.0
 ────────────────────────────────────────────────────────────

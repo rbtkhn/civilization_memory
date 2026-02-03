@@ -22,7 +22,7 @@ This version is a GOVERNANCE-ONLY compatibility reissue.
 
 Purpose:
 • Align CIV–DOCTRINE–RUSSIA with CIV–DOCTRINE–TEMPLATE v2.0
-• Update governance authority reference to CIV–MEM–CORE v2.0
+• Update governance authority reference to CIV–MEM–CORE v3.0
 • Preserve full doctrinal continuity
 
 Guarantees:

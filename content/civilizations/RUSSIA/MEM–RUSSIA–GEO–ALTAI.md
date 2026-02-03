@@ -282,7 +282,7 @@ Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–ALTAI — civilizational narrative
 
 Cross-civilizational GEO:
-• MEM–CHINA–GEO–XINJIANG — Chinese sector of Altai system
+• MEM–CHINA–XINJIANG — Chinese sector of Altai system
 • MEM–MONGOL–GEO–WESTERN — Mongolian Altai
 
 ────────────────────────────────────────────────────────────

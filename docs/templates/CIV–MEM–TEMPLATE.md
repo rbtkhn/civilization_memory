@@ -1233,5 +1233,5 @@ They may NOT:
 • Break backward compatibility with existing MEMs
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v2.9
+END OF FILE — CIV–MEM–TEMPLATE v3.0
 ────────────────────────────────────────────────────────────

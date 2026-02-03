@@ -1,4 +1,4 @@
-MEM–CHINA–GEO–XINJIANG
+Title: MEM–CHINA–XINJIANG
 Status: ACTIVE
 Version: 1.1
 Civilization: CHINA (中华文明)

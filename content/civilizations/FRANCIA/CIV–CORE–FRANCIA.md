@@ -20,7 +20,7 @@ Civilization Phase: PHASE II (Development)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 
 Governed by:
-• CIV–MEM–CORE v2.9 (global system law)
+• CIV–MEM–CORE v3.0 (global system law)
 • CIV–CORE–TEMPLATE v2.0 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (interaction layer)
 • CIV–ARC–FRANCIA v2.0 (author admissibility canon)

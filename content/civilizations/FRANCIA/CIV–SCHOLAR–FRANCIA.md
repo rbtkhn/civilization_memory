@@ -10,7 +10,7 @@ Supersedes: CIV–SCHOLAR–FRANCIA v2.0
 Upgrade Type: ADDITIVE · SCHOLAR ANALYSIS INSIGHTS INTEGRATION
 Civilization: FRANCIA
 Class: CIV–SCHOLAR
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.7+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Activation State: ACTIVE (LEARN MODE)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
@@ -19,7 +19,7 @@ Civilization Phase: PHASE I (Accumulation)
 
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by:
-• CIV–MEM–CORE v2.9 (global system law)
+• CIV–MEM–CORE v3.0 (global system law)
 • CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
 • CIV–ARC–FRANCIA v2.0 (author admissibility canon)
@@ -1663,7 +1663,7 @@ XIX. SCHOLAR GOVERNANCE BINDING LAW (MANDATORY)
 ────────────────────────────────────────────────────────────
 This file is irrevocably governed by:
 
-• CIV–MEM–CORE v2.9 (global system law)
+• CIV–MEM–CORE v3.0 (global system law)
 • CIV–SCHOLAR–TEMPLATE v2.10 (structural template)
 • CIV–SCHOLAR–PROTOCOL v2.2 (operating law)
 

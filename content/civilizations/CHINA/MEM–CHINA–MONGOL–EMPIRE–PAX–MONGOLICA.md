@@ -127,7 +127,7 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–DYNASTY–YUAN — Dependency: Yuan as China-facing Mongol polity; administration of routes. Breaks if removed: no dynasty-level framing.
 • MEM–CHINA–MONGOL–KUBLAI–KHAN — Dependency: Kublai’s canal, maritime, trade policy. Breaks if removed: no figure-level policy.
 • MEM–CHINA–MONGOL–GENGHIS–KHAN — Dependency: Genghis as founder; conquest created routes. Breaks if removed: no formation logic.
-• MEM–CHINA–GEO–XINJIANG — Dependency: Western Regions as land segment. Breaks if removed: no node in corridor.
+• MEM–CHINA–XINJIANG — Dependency: Western Regions as land segment. Breaks if removed: no node in corridor.
 • MEM–CHINA–DYNASTY–MING — Dependency: Post-Mongol inheritance of techniques. Breaks if removed: no successor framing.
 • MEM–CHINA–DYNASTY–SONG — Dependency: Song commercial context; Mongol conquest of Song. Breaks if removed: no pre-Pax commercial baseline.
 • MEM–CHINA–MARCO–POLO — Dependency: Travel narrative under Pax. Breaks if removed: no contemporary witness.

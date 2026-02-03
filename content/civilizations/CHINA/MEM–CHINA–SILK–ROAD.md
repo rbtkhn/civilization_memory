@@ -142,8 +142,8 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA — Dependency: Pax as connectivity phase. Breaks if removed: loss of “universal culture” and trade emphasis.
 • MEM–CHINA–DYNASTY–YUAN — Dependency: Yuan administration of routes, Grand Canal, maritime. Breaks if removed: no dynasty-level framing.
 • MEM–CHINA–MONGOL–KUBLAI–KHAN — Dependency: Kublai’s canal and maritime policy. Breaks if removed: no figure-level policy.
-• MEM–CHINA–GEO–XINJIANG — Dependency: Western Regions as land corridor segment. Breaks if removed: no geographic node.
-• MEM–CHINA–GEO–MONGOLIA — Dependency: Steppe as origin of Mongol corridor control. Breaks if removed: no territorial anchor.
+• MEM–CHINA–XINJIANG — Dependency: Western Regions as land corridor segment. Breaks if removed: no geographic node.
+• MEM–CHINA–MONGOLIA — Dependency: Steppe as origin of Mongol corridor control. Breaks if removed: no territorial anchor.
 • MEM–CHINA–DYNASTY–HAN — Dependency: Early Western Regions, “open the Western Regions.” Breaks if removed: no pre-Mongol precedent.
 • MEM–CHINA–DYNASTY–TANG — Dependency: Tang corridor policy, Silk Road zenith pre-Mongol. Breaks if removed: no medieval continuity.
 • MEM–CHINA–MARCO–POLO — Dependency: Travel narrative along Mongol-secured routes. Breaks if removed: no contemporary witness.

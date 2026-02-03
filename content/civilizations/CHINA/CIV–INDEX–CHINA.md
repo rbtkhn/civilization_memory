@@ -12,7 +12,7 @@ Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
 
-TOTAL REGISTERED MEM FILES: 54
+TOTAL REGISTERED MEM FILES: 68
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -34,9 +34,9 @@ Derived from CIV–INDEX–TEMPLATE v2.1
 II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 
-• CIV–CORE–CHINA — v2.0
-• CIV–SCHOLAR–CHINA — v2.0 (Phase I Accumulation)
-• CIV–ARC–CHINA — v2.0 (Author Admissibility & Temporal Precedence)
+• CIV–CORE–CHINA — v3.0
+• CIV–SCHOLAR–CHINA — v3.0 (Phase I Accumulation)
+• CIV–ARC–CHINA — v3.0 (Author Admissibility & Temporal Precedence)
 
 CIV–DOCTRINE–CHINA: Not present.
 
@@ -67,8 +67,8 @@ IV. REGISTERED MEM FILES — DYNASTIES & REGIMES
 • MEM–CHINA–DYNASTY–MING.md
 • MEM–CHINA–DYNASTY–QING.md
 • MEM–CHINA–PRC.md
-• MEM–CHINA–PRC–MAO.md
-• MEM–CHINA–PRC–DENG.md
+• MEM–CHINA–PRC–MAO–ZEDONG.md
+• MEM–CHINA–PRC–DENG–XIAOPING.md
 • MEM–CHINA–ROC.md
 
 ────────────────────────────────────────────────────────────
@@ -78,6 +78,7 @@ V. REGISTERED MEM FILES — LITERATURE & PHILOSOPHY
 • MEM–CHINA–LIT–KONGZI.md
 • MEM–CHINA–LIT–LAOZI.md
 • MEM–CHINA–LIT–MENGZI.md
+• MEM–CHINA–LIT–ROMANCE–THREE–KINGDOMS.md
 • MEM–CHINA–LIT–SUNZI.md
 
 ────────────────────────────────────────────────────────────
@@ -98,6 +99,7 @@ VII. REGISTERED MEM FILES — WARS & CONFLICTS
 • MEM–CHINA–WAR–MONGOL–JIN.md
 • MEM–CHINA–WAR–SECOND–OPIUM.md
 • MEM–CHINA–WAR–SONG–YUAN.md
+• MEM–CHINA–WAR–TAIPING–REBELLION.md
 
 ────────────────────────────────────────────────────────────
 VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
@@ -109,18 +111,24 @@ VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
 • MEM–CHINA–GUANGZHOU.md
 • MEM–CHINA–HANGZHOU.md
 • MEM–CHINA–HONG–KONG.md
-• MEM–CHINA–GEO–MANCHURIA.md
+• MEM–CHINA–MANCHURIA.md
 • MEM–CHINA–NANJING.md
-• MEM–CHINA–GEO–MONGOLIA.md
+• MEM–CHINA–MONGOLIA.md
 • MEM–CHINA–GEO–PEARL–RIVER.md
 • MEM–CHINA–GEO–SOUTH–CHINA–SEA.md
-• MEM–CHINA–GEO–TAIWAN.md
+• MEM–CHINA–TAIWAN.md
 • MEM–CHINA–GEO–TAIWAN–STRAIT.md
 • MEM–CHINA–GEO–TIBET.md
-• MEM–CHINA–GEO–XINJIANG.md
+• MEM–CHINA–XINJIANG.md
+• MEM–CHINA–GEO–AMUR–RIVER.md
+• MEM–CHINA–GEO–GOBI–DESERT.md
+• MEM–CHINA–GEO–HIMALAYAS.md
+• MEM–CHINA–GEO–YANGTZE–RIVER.md
+• MEM–CHINA–GEO–YELLOW–RIVER.md
 • MEM–CHINA–GRAND–CANAL.md
 • MEM–CHINA–SHANGHAI.md
 • MEM–CHINA–SHENZHEN.md
+• MEM–CHINA–TIANJIN.md
 • MEM–CHINA–SILK–ROAD.md
 • MEM–CHINA–XIAN.md
 
@@ -143,7 +151,7 @@ This index is LOCKED. Additive updates only. No deletions, reordering, or silent
 XI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
 
-• CIV–ARC–CHINA — v2.0
+• CIV–ARC–CHINA — v3.0
 
 Governs author admissibility and temporal precedence for MEM–CHINA files. See CIV–ARC–CHINA for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 

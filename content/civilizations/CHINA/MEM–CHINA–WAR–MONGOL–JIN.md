@@ -141,7 +141,7 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–MONGOL–EMPIRE — Dependency: Mongol Empire as expanding polity; formation phase. Breaks if removed: no empire framing.
 • MEM–CHINA–WAR–SONG–YUAN — Dependency: Jin fall 1234 precedes Song campaign; North China secured. Breaks if removed: no sequential framing.
 • MEM–CHINA–DYNASTY–YUAN — Dependency: Yuan later administers North China; Jin territory as legacy. Breaks if removed: no successor framing.
-• MEM–CHINA–GEO–MONGOLIA — Dependency: Steppe as Mongol base; buffer zone, Inner Mongolia. Breaks if removed: no geographic anchor.
+• MEM–CHINA–MONGOLIA — Dependency: Steppe as Mongol base; buffer zone, Inner Mongolia. Breaks if removed: no geographic anchor.
 • MEM–CHINA–DYNASTY–LIAO — Dependency: Liao precedent; Jin had overthrown Liao. Breaks if removed: no dynastic context.
 • MEM–CHINA–DYNASTY–SONG — Dependency: Song as surviving southern polity; Jin fall left Song as next Mongol target. Breaks if removed: no southern context.
 • MEM–CHINA–MONGOL–QUEENS — Dependency: Regency and succession after Genghis; Ögödei continues campaigns. Breaks if removed: no succession context.

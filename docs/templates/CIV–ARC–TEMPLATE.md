@@ -26,7 +26,7 @@ TSP CROSS-CITATION:
 
 COMPATIBILITY:
 • Updated to CIV–MEM–CORE v3.0
-• Updated to CIV–MEM–TEMPLATE v2.9
+• Updated to CIV–MEM–TEMPLATE v3.0
 
 Reference: CIV–MEM–CORE v3.0, Section XXIX (Trans-Sovereign Patterns)
 

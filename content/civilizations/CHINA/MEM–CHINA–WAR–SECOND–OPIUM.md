@@ -85,6 +85,20 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Qing collision with the West; Second Opium War and Summer Palace as deepening of "century of humiliation"; capital as symbol. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+────────────────────────────────────────────────────────────
+
+John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
+
+"The Thirty Years War... tore away the customary restraints on violence."
+
+John Keegan, *The Mask of Command* (Jonathan Cape, 1987) — applied insight (belief collapse):
+
+"When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
+
+— Keegan on restraint torn and belief collapse: the court's **flight to Rehe** when Anglo-French forces advanced on Beijing is the structural analogue—when the sovereign left, the capital was psychologically lost. The destruction of the Summer Palace was a deliberate tearing of **customary restraints** on what victors do to the seat of imperial authority. Belief collapse: the Qing army and bureaucracy "knew" the capital was lost when the court fled; legitimacy damage was irreversible. Encoding divergence: MEM encodes humiliation at the center; Keegan supplies military-historian lens (sovereign flight, restraint torn).
+
+────────────────────────────────────────────────────────────
 V. LEGITIMACY & STRATEGIC MEMORY
 ────────────────────────────────────────────────────────────
 The Second Opium War **deepened** the humiliation template: the
@@ -127,19 +141,20 @@ VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–DYNASTY–QING — Dependency: Qing as polity; capital struck, legitimacy damaged. Breaks if removed: no dynasty framing.
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: First Opium as precedent; unequal treaty template. Breaks if removed: no opener framing.
+• MEM–CHINA–WAR–TAIPING–REBELLION — Dependency: Taiping overlapped Second Opium; Qing weakened, could not concentrate; structural condition for Summer Palace and Convention of Beijing. Breaks if removed: no structural-condition framing.
 • MEM–CHINA–WAR–BOXER–REBELLION — Dependency: Boxer as later capital occupation; Second Opium as precedent. Breaks if removed: loss of capital-humiliation continuity.
 • MEM–CHINA–ROC — Dependency: Republican inheritance of humiliation narrative; Summer Palace in memory. Breaks if removed: no successor framing.
 • MEM–CHINA–PRC — Dependency: PRC encoding of century of humiliation; Summer Palace as symbol. Breaks if removed: no contemporary encoding.
 • MEM–CHINA–BEIJING — Dependency: Beijing as capital penetrated; legations; Summer Palace. Breaks if removed: no spatial framing.
 • MEM–CHINA–SHANGHAI — Dependency: Shanghai as treaty port extended in this phase. Breaks if removed: loss of port continuity.
 
-Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002.
+Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002; RLL–CHINA–0001 (Keegan civilization-contrast).
 
 ────────────────────────────────────────────────────────────
 VIII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing edicts; British and French diplomatic and military records.
-Secondary: Henry Kissinger — On China; Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
+Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────

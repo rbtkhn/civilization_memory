@@ -11,7 +11,7 @@ Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage: SCE–CIV–INDIA V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (sections fixed; content expandable without renumbering)
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 ARC Reference: CIV–ARC–INDIA v2.0
 Last Update: February 2026
 WORDCOUNT: ~2,600

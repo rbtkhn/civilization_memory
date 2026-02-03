@@ -239,7 +239,7 @@ Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–SIBERIA — civilizational narrative, exile, Gulag
 
 Cross-civilizational GEO:
-• MEM–CHINA–GEO–MANCHURIA — adjacent strategic zone
+• MEM–CHINA–MANCHURIA — adjacent strategic zone
 • MEM–MONGOLIA–GEO–STEPPE — southern approach
 
 ────────────────────────────────────────────────────────────

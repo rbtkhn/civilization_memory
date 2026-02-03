@@ -38,7 +38,7 @@
 | MEM | Note |
 |-----|------|
 | **MEM–CHINA–MONGOL–QUEENS** | Marco Polo period is post-regency; could cite him on Mongol court or women only if a specific passage fits. |
-| **MEM–CHINA–GEO–MONGOLIA** | Thematic (Mongol heartland); Marco Polo passed through; verbatim only if passage on geography/mobility fits. |
+| **MEM–CHINA–MONGOLIA** | Thematic (Mongol heartland); Marco Polo passed through; verbatim only if passage on geography/mobility fits. |
 
 ---
 

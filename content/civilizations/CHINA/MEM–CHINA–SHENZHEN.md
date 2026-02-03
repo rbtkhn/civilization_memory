@@ -92,7 +92,7 @@ reincorporated; Shenzhen was never lost.
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–PRC — Dependency: PRC SEZ policy; Deng reform and opening. Breaks if removed: no contemporary framing.
-• MEM–CHINA–PRC–DENG — Dependency: Deng-era SEZ creation; reform and opening. Breaks if removed: no policy framing.
+• MEM–CHINA–PRC–DENG–XIAOPING — Dependency: Deng-era SEZ creation; reform and opening. Breaks if removed: no policy framing.
 • MEM–CHINA–GUANGZHOU — Dependency: Contrast—Guangzhou treaty port vs Shenzhen SEZ; Pearl River delta pair. Breaks if removed: loss of node contrast.
 • MEM–CHINA–SHANGHAI — Dependency: Contrast—Shanghai treaty port past vs Shenzhen no treaty-port past. Breaks if removed: loss of reform-era contrast.
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: Contrast—Canton/Guangzhou opened by force; Shenzhen opened by policy. Breaks if removed: loss of sovereignty contrast.

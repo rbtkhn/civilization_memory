@@ -11,7 +11,7 @@ Word Count: ~1,200
 
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 GEO–MEMs contain: strategic analysis (~2/3); ARC verbatim quotes (~1/3).
-For full civilizational narrative, see subject MEMs (e.g. MEM–CHINA–GEO–TAIWAN, MEM–CHINA–GEO–PEARL–RIVER, MEM–CHINA–GEO–TAIWAN–STRAIT).
+For full civilizational narrative, see subject MEMs (e.g. MEM–CHINA–TAIWAN, MEM–CHINA–GEO–PEARL–RIVER, MEM–CHINA–TAIWAN–STRAIT).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -93,20 +93,21 @@ civilizational memory, the South China Sea is the
 **maritime extension** of the delta and strait—the
 space where humiliation (foreign navies, treaty ports)
 and reconstitution (PRC claims, naval modernization)
-are projected onto water. MEM–CHINA–GEO–TAIWAN and
-MEM–CHINA–GEO–TAIWAN–STRAIT are the **adjacent
+are projected onto water. MEM–CHINA–TAIWAN and
+MEM–CHINA–TAIWAN–STRAIT are the **adjacent
 geographic MEMs**; this file is the **maritime frame**.
 
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–GEO–PEARL–RIVER — Dependency: Pearl River delta opens onto South China Sea; Canton, Hong Kong, Shenzhen. Breaks if removed: no delta–sea framing.
-• MEM–CHINA–GEO–TAIWAN — Dependency: Taiwan as first-island-chain node; South China Sea east of Taiwan. Breaks if removed: no island-chain framing.
-• MEM–CHINA–GEO–TAIWAN–STRAIT — Dependency: Taiwan Strait connects to South China Sea; cross-strait and sea linked. Breaks if removed: no strait–sea framing.
+• MEM–CHINA–TAIWAN — Dependency: Taiwan as first-island-chain node; South China Sea east of Taiwan. Breaks if removed: no island-chain framing.
+• MEM–CHINA–TAIWAN–STRAIT — Dependency: Taiwan Strait connects to South China Sea; cross-strait and sea linked. Breaks if removed: no strait–sea framing.
+• MEM–CHINA–GEO–EAST–CHINA–SEA — Dependency: East China Sea north of Taiwan Strait; same maritime theatre and first-chain logic. Breaks if removed: no northern-sea framing.
 • MEM–CHINA–HONG–KONG — Dependency: Hong Kong at northern edge of South China Sea; cession and handover. Breaks if removed: no northern-node framing.
 • MEM–CHINA–GUANGZHOU — Dependency: Canton/Guangzhou as historic port facing South China Sea. Breaks if removed: no historic-trade framing.
 • MEM–CHINA–PRC — Dependency: PRC sovereignty claims; Nine-Dash Line; naval and coast guard presence. Breaks if removed: no contemporary framing.
-• MEM–CHINA–GEO–TAIWAN — Dependency: Taiwan and South China Sea disputes; ROC claims. Breaks if removed: no cross-claimant framing.
+• MEM–CHINA–TAIWAN — Dependency: Taiwan and South China Sea disputes; ROC claims. Breaks if removed: no cross-claimant framing.
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: Treaty-era naval access through South China Sea to Pearl River. Breaks if removed: no humiliation-era framing.
 
 Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.

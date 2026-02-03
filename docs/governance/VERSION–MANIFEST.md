@@ -165,10 +165,10 @@ CHINA:
 ┌────────────────────────────────────────────────────────┐
 │ Document                    │ Version │ Status        │
 ├────────────────────────────────────────────────────────┤
-│ CIV–ARC–CHINA               │ v2.0    │ Active        │
-│ CIV–CORE–CHINA              │ v2.0    │ Active        │
+│ CIV–ARC–CHINA               │ v3.0    │ Active        │
+│ CIV–CORE–CHINA              │ v3.0    │ Active        │
 │ CIV–INDEX–CHINA             │ v3.0    │ Active        │
-│ CIV–SCHOLAR–CHINA           │ v2.0    │ Active        │
+│ CIV–SCHOLAR–CHINA           │ v3.0    │ Active        │
 └────────────────────────────────────────────────────────┘
 Phase: I (Accumulation)
 

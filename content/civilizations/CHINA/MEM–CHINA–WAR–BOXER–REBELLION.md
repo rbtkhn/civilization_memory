@@ -86,6 +86,20 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Qing as final imperial synthesis; tribute system and collision with West; Boxer Rebellion and late Qing humiliation as part of the "century of humiliation" that shapes Chinese strategic memory and continuity. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+────────────────────────────────────────────────────────────
+
+John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
+
+"The Thirty Years War... tore away the customary restraints on violence."
+
+John Keegan, *The Mask of Command* (Jonathan Cape, 1987) — applied insight (belief collapse):
+
+"When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
+
+— Keegan on restraint torn and belief collapse: the court's **flight to Xi'an** when the Alliance relieved the legations and occupied Beijing is belief collapse at the level of the sovereign—when the court left, the capital was lost. The Boxer Protocol (indemnity, executions, foreign garrisons in the capital) **tore away customary restraints** on the inviolability of the sovereign seat. The 55-day siege of the legations encodes the "face of battle"—confinement, supply, relief—while court vacillation then flight encodes **mask failure**: no coherent command; the sovereign departed. Encoding divergence: MEM encodes humiliation and vacillation; Keegan supplies military-historian lens (belief collapse, restraint torn, siege as battle).
+
+────────────────────────────────────────────────────────────
 V. LEGITIMACY & STRATEGIC MEMORY
 ────────────────────────────────────────────────────────────
 The Boxer War **encoded** the humiliation narrative: China had
@@ -152,15 +166,15 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–DYNASTY–QING — Dependency: Qing as polity; late Qing collapse, external pressures. Breaks if removed: no dynasty framing.
 • MEM–CHINA–ROC — Dependency: Republican state inherited humiliation narrative; Boxer as reference point. Breaks if removed: no successor framing.
 • MEM–CHINA–PRC — Dependency: PRC narrative of century of humiliation; Boxer in official memory. Breaks if removed: no contemporary encoding.
-• MEM–CHINA–PRC–MAO — Dependency: Mao-era use of humiliation narrative; anti-imperialism. Breaks if removed: no ideological continuity.
-• MEM–CHINA–GEO–MANCHURIA — Dependency: North China theater; Qing heartland. Breaks if removed: no geographic anchor.
+• MEM–CHINA–PRC–MAO–ZEDONG — Dependency: Mao-era use of humiliation narrative; anti-imperialism. Breaks if removed: no ideological continuity.
+• MEM–CHINA–MANCHURIA — Dependency: North China theater; Qing heartland. Breaks if removed: no geographic anchor.
 • MEM–CHINA–LIT–KONGZI — Dependency: Contrast—Confucian order vs anti-foreign violence and coalition imposition. Breaks if removed: loss of civilizational contrast.
 • MEM–CHINA–WAR–SONG–YUAN — Dependency: Contrast—conquest by steppe vs humiliation by coalition. Breaks if removed: loss of war-type contrast.
 • MEM–CHINA–WAR–MONGOL–JIN — Dependency: Contrast—Mongol reversion vs foreign indemnity. Breaks if removed: loss of outcome contrast.
 • MEM–CHINA–DYNASTY–MING — Dependency: Pre-Qing imperial frame; tribute system precedent. Breaks if removed: no long-run context.
 • MEM–CHINA–XIONGNU — Dependency: Steppe/foreign pressure precedent; different resolution. Breaks if removed: loss of foreign-pressure pattern.
 
-Scholar: SYNTHESIS 0005, 0006; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
+Scholar: SYNTHESIS 0005, 0006; DOCTRINE v0.1, v0.2; SDI 0001, 0002; RLL–CHINA–0001 (Keegan civilization-contrast).
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES
@@ -172,6 +186,7 @@ Primary:
 
 Secondary:
 • Henry Kissinger — On China (strategic frame, humiliation)
+• John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN)
 • Jonathan Spence — The Search for Modern China (Boxer coverage)
 • John King Fairbank — The Great Chinese Revolution; Cambridge History of China
 • Julia Lovell — The Opium War (late Qing, foreign encroachment)

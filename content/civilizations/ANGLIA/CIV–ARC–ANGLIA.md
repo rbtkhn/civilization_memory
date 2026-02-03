@@ -102,7 +102,7 @@ has BOTH: e.g., Gibbon = ARC-T-EARLY-MOD + ERC-SECONDARY; Thucydides
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC:
+Governed by CIV–MEM–TEMPLATE v3.0, NOT by ARC:
 • 20% verbatim quote minimum • EQS • Analytical content floor
 • Quote word counting • ERC evidence-role classification
 

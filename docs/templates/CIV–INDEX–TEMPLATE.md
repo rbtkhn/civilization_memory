@@ -343,5 +343,5 @@ All CIV–INDEX files MUST declare:
 "Derived from CIV–INDEX–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–TEMPLATE v2.1
+END OF FILE — CIV–INDEX–TEMPLATE v3.0
 ────────────────────────────────────────────────────────────

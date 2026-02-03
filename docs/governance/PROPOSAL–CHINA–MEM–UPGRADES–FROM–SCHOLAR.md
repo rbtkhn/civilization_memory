@@ -20,8 +20,8 @@ Scholar-China now encodes: DOCTRINE v0.1 (non-Han consolidation: peak then exhau
   - MEM–CHINA–ROC — Dependency: PRC as revolutionary successor; fragmentation reversed by monopolization. Breaks if removed: no pre-reconstitution baseline.
   - MEM–CHINA–WAR–BOXER–REBELLION — Dependency: Century-of-humiliation narrative; Boxer as reference point in PRC official memory. Breaks if removed: no humiliation-frame encoding.
   - MEM–CHINA–DYNASTY–QING — Dependency: Qing as final imperial synthesis; PRC as post-imperial reconstitution. Breaks if removed: no imperial baseline.
-  - MEM–CHINA–PRC–MAO — Dependency: Mao-era consolidation; radicalization and internal learning. Breaks if removed: no founding-phase framing.
-  - MEM–CHINA–PRC–DENG — Dependency: Deng-era normalization; reform and opening. Breaks if removed: no post-Mao framing.
+  - MEM–CHINA–PRC–MAO–ZEDONG — Dependency: Mao-era consolidation; radicalization and internal learning. Breaks if removed: no founding-phase framing.
+  - MEM–CHINA–PRC–DENG–XIAOPING — Dependency: Deng-era normalization; reform and opening. Breaks if removed: no post-Mao framing.
 • **Add one sentence or short "Scholar alignment" line** in PURPOSE & SCOPE or after it: e.g. "This MEM aligns with CIV–SCHOLAR–CHINA DOCTRINE v0.2 (Rupture-to-Reconstitution): fragmentation (ROC) reversed by party–state fusion and vertical penetration."
 • **Optional:** Add verbatim ARC (Kissinger, On China) in a SOURCE EVIDENCE block if not already sufficient; § XXV emphasizes verbatim primary-source.
 
@@ -69,7 +69,7 @@ SUMMARY
 Execution: In WRITE mode, apply upgrades to each MEM per above; renumber sections where MEM CONNECTIONS is inserted; retain existing content; add only the new sections and lines specified.
 
 **EXECUTED (February 2026):**
-• MEM–CHINA–PRC: Scholar alignment (DOCTRINE v0.2) added to § I; § IX MEM CONNECTIONS added (ROC, Boxer, Qing, PRC–MAO, PRC–DENG); sections renumbered X–XIII.
+• MEM–CHINA–PRC: Scholar alignment (DOCTRINE v0.2) added to § I; § IX MEM CONNECTIONS added (ROC, Boxer, Qing, PRC–MAO, PRC–DENG–XIAOPING); sections renumbered X–XIII.
 • MEM–CHINA–DYNASTY–QING: Scholar alignment (DOCTRINE v0.1, HEURISTIC CHINA–HW–01) added to § I; § IX MEM CONNECTIONS added (Yuan, Kublai, Boxer, ROC, Ming, War Song–Yuan); sections renumbered X–XIII.
 • MEM–CHINA–WAR–BOXER–REBELLION: Scholar alignment (SYNTHESIS 0005, DOCTRINE v0.2, SDI 0001/0002) added to § I; Scholar cross-reference line added in § VIII MEM CONNECTIONS.
 

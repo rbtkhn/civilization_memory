@@ -126,7 +126,7 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA — Dependency: Pax continues under regency; connectivity and administration. Breaks if removed: no connectivity continuity.
 • MEM–CHINA–DYNASTY–YUAN — Dependency: Yuan founded by Kublai after succession struggles. Breaks if removed: no dynasty-level framing.
 • MEM–CHINA–DYNASTY–SONG — Dependency: Song still unconquered during regency; Mongol focus on succession. Breaks if removed: no external context.
-• MEM–CHINA–GEO–MONGOLIA — Dependency: Steppe as seat of kurultai and regency. Breaks if removed: no geographic anchor.
+• MEM–CHINA–MONGOLIA — Dependency: Steppe as seat of kurultai and regency. Breaks if removed: no geographic anchor.
 • MEM–CHINA–SILK–ROAD — Dependency: Routes and Yam under regency administration. Breaks if removed: no corridor continuity.
 • MEM–CHINA–XIONGNU — Dependency: Steppe precedent for confederation and succession. Breaks if removed: no steppe precedent.
 • MEM–CHINA–LIT–KONGZI — Dependency: Contrast—Confucian gender norms vs Mongol regency. Breaks if removed: loss of civilizational contrast.

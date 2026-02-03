@@ -154,8 +154,11 @@ IX. MEM CONNECTIONS
 • MEM–CHINA–ROC — Dependency: PRC as revolutionary successor; fragmentation reversed by monopolization. Breaks if removed: no pre-reconstitution baseline.
 • MEM–CHINA–WAR–BOXER–REBELLION — Dependency: Century-of-humiliation narrative; Boxer as reference point in PRC official memory. Breaks if removed: no humiliation-frame encoding.
 • MEM–CHINA–DYNASTY–QING — Dependency: Qing as final imperial synthesis; PRC as post-imperial reconstitution. Breaks if removed: no imperial baseline.
-• MEM–CHINA–PRC–MAO — Dependency: Mao-era consolidation; radicalization and internal learning. Breaks if removed: no founding-phase framing.
-• MEM–CHINA–PRC–DENG — Dependency: Deng-era normalization; reform and opening. Breaks if removed: no post-Mao framing.
+• MEM–CHINA–PRC–MAO–ZEDONG — Dependency: Mao-era consolidation; radicalization and internal learning. Breaks if removed: no founding-phase framing.
+• MEM–CHINA–PRC–DENG–XIAOPING — Dependency: Deng-era normalization; reform and opening. Breaks if removed: no post-Mao framing.
+• MEM–CHINA–PRC–ZHOU–ENLAI — Dependency: Zhou as Premier and institutional/diplomatic face of early PRC. Breaks if removed: no founding-phase stabilizer framing.
+• MEM–CHINA–PRC–NIXON — Dependency: Nixon visit (1972) as encoding event for PRC external legitimacy. Breaks if removed: no opening baseline.
+• MEM–CHINA–PRC–KISSINGER — Dependency: Kissinger as architect of opening; ARC encoding of Chinese strategic culture. Breaks if removed: no channel/ARC framing.
 
 ────────────────────────────────────────────────────────────
 X. CONTEMPORARY CONFIGURATION

@@ -12,7 +12,7 @@ Civilization Phase: PHASE I (Accumulation)
 Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
 Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
-Governed by: CIV–SCHOLAR–PROTOCOL v2.6
+Governed by: CIV–SCHOLAR–PROTOCOL v3.0
 ARC Reference: CIV–ARC–PERSIA v2.0
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026

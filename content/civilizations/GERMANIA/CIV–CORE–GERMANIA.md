@@ -10,7 +10,7 @@ Supersedes: CIV–CORE–GERMANIA v1.9
 Upgrade Type: TEMPLATE ALIGNMENT · HEADER COMPLIANCE · VERSION REFERENCE FIXES
 Template Version Used: CIV–CORE–TEMPLATE v2.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.9+)
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 ARC Reference: CIV–ARC–GERMANIA v2.5
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Civilization Phase: PHASE II — DEVELOPMENT

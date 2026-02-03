@@ -328,5 +328,5 @@ Future versions may NOT:
 • Permit autonomous mutation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–TEMPLATE v2.5
+END OF FILE — CIV–MIND–TEMPLATE v3.0
 ────────────────────────────────────────────────────────────

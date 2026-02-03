@@ -11,7 +11,7 @@ Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage: SCE–CIV–ISLAM V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I (Accumulation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 ARC Reference: CIV–ARC–ISLAM v2.0
 Temporal Boundaries (embedded): Ancient–4–476 / Medieval 476–1453 / Colonial 1453–1815 / Industrial–Modern 1815–present
 Last Update: February 2026

@@ -1,4 +1,4 @@
-Title: MEM–CHINA–GEO–TAIWAN
+Title: MEM–CHINA–TAIWAN
 Status: ACTIVE
 Version: 1.2
 Civilization: CHINA (中华文明)
@@ -33,7 +33,7 @@ Core geographic features:
 • Proximity without continuity  
 
 Strategic axiom:
-> “隔海而治，难以久控。”
+> "隔海而治，难以久控。"
 (Governance across the sea is difficult to sustain.)
 
 Water imposes discontinuity even at short distance.
@@ -51,7 +51,7 @@ Key features:
 • Localized, clan-based governance  
 
 Qing assessment was cautious:
-> “台湾者，海外荒服也。”
+> "台湾者，海外荒服也。"
 (Taiwan is an overseas, lightly governed land.)
 
 Incorporation followed migration, not policy.
@@ -68,7 +68,7 @@ Characteristics of Qing rule:
 • Perception as peripheral liability  
 
 Imperial maxim:
-> “得之不喜，失之不忧。”
+> "得之不喜，失之不忧。"
 (Gain brings no joy; loss brings no sorrow.)
 
 Taiwan was governed defensively, not embraced.
@@ -91,10 +91,10 @@ Institutional imprint endured beyond regime change:
 • Developmental governance templates  
 
 Colonial logic was extractive but effective:
-> “殖民以治。”
+> "殖民以治。"
 (Colonialism governs through administration.)
 
-This period introduced **non-Chinese modernity** into Taiwan’s institutional
+This period introduced **non-Chinese modernity** into Taiwan's institutional
 memory.
 
 ────────────────────────────────────────────────────────────
@@ -110,7 +110,7 @@ Key dynamics:
 • Cold War entrenchment  
 
 Political rupture hardened identity divergence:
-> “政权未定，认同先裂。”
+> "政权未定，认同先裂。"
 (When sovereignty is unsettled, identity fractures first.)
 
 Continuity was administrative, not civilizational.
@@ -129,7 +129,7 @@ Modern governance emphasizes:
 • Identity differentiation  
 
 Time functions as strategic asset:
-> “问题不在一时解决，而在持续管控。”
+> "问题不在一时解决，而在持续管控。"
 (The issue is not immediate resolution, but continuous management.)
 
 Prolonged ambiguity preserves equilibrium when balances hold.
@@ -149,10 +149,10 @@ Dual geostrategic function:
 • Enables reciprocal pressure on the littoral
 
 Geostrategic maxim:
-> “控岛即控海。”
+> "控岛即控海。"
 (Who controls the island controls the sea.)
 
-Taiwan’s value exceeds its material scale.
+Taiwan's value exceeds its material scale.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -194,5 +194,5 @@ Secondary:
 • Rana Mitter  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–TAIWAN v1.2
+END OF FILE — MEM–CHINA–TAIWAN v1.2
 ────────────────────────────────────────────────────────────

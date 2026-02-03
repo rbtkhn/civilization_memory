@@ -286,7 +286,7 @@ Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–AMUR–RIVER — civilizational narrative, Far East expansion
 
 Cross-civilizational GEO:
-• MEM–CHINA–GEO–MANCHURIA — adjacent Chinese territory
+• MEM–CHINA–MANCHURIA — adjacent Chinese territory
 • MEM–CHINA–GEO–AMUR — Chinese perspective on boundary
 
 ────────────────────────────────────────────────────────────

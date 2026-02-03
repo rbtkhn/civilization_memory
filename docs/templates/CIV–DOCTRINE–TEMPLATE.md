@@ -242,5 +242,5 @@ Derived files MUST include:
 "Derived from CIV–DOCTRINE–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–TEMPLATE v2.1
+END OF FILE — CIV–DOCTRINE–TEMPLATE v3.0
 ────────────────────────────────────────────────────────────

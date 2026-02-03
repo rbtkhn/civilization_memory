@@ -135,5 +135,5 @@ Reverse index: MEM file → sources cited.
 [MEM FILE]: [SOURCE 1], [SOURCE 2], ...
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION]–LEDGER v1.0
+END OF FILE — CIV–ARC–[CIVILIZATION]–LEDGER v3.0
 ────────────────────────────────────────────────────────────

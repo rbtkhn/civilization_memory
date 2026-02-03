@@ -13,7 +13,7 @@ Last Updated: February 2026
 UPGRADE NOTE (v2.5) — TEMPLATE ALIGNMENT
 ────────────────────────────────────────────────────────────
 v2.5 adds V-A Cross-ARC Citation for TSP MEMs per CIV–ARC–TEMPLATE v2.8.
-Compatibility updated to CIV–MEM–CORE v2.9, CIV–MEM–TEMPLATE v2.9.
+Compatibility updated to CIV–MEM–CORE v3.0, CIV–MEM–TEMPLATE v3.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.4) — AUTHOR EXPANSION (HANSEATIC + DUTCH INTERFACE)

@@ -85,6 +85,20 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 Contemporary witness to Yuan-era shipping capacity; complements Weatherford on junks and Zaytun–Hormuz.
 
 ────────────────────────────────────────────────────────────
+IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+────────────────────────────────────────────────────────────
+
+John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
+
+"Clausewitz is the most important writer on war... but his vision was formed by a particular historical moment. He knew nothing of primitive war, little of oriental war, and his theory rests on assumptions about the rationality of politics that history often contradicts."
+
+John Keegan, *The Mask of Command* (Jonathan Cape, 1987) — applied insight (belief collapse):
+
+"When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
+
+— Keegan on the limits of Clausewitzian theory: Song–Yuan conquest (steppe–maritime, dynastic unification) falls outside European rational-politics assumptions—"little of oriental war." Belief collapse: when Xiangyang fell (1273), Song resistance downstream lost its linchpin; the polity "knew" the southern barrier was broken. No single commander fled like Darius; the structural analogue is the fall of the key node and the fragmentation that followed. Encoding divergence: MEM encodes naval–riverine pivot; Keegan supplies military-historian lens (belief collapse, war-making culture).
+
+────────────────────────────────────────────────────────────
 V. OUTCOME & LEGITIMACY
 ────────────────────────────────────────────────────────────
 Yuan victory (1279) eliminated the Song and gave Kublai **unified**
@@ -151,11 +165,13 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–MONGOL–KUBLAI–KHAN — Dependency: Kublai’s canal, maritime, naval policy. Breaks if removed: no figure-level policy.
 • MEM–CHINA–MONGOL–EMPIRE — Dependency: Mongol Empire as parent structure; Yuan as successor khanate. Breaks if removed: no empire framing.
 • MEM–CHINA–SILK–ROAD — Dependency: Post-war Zaytun–Hormuz, maritime routes. Breaks if removed: no connectivity legacy.
-• MEM–CHINA–GEO–TAIWAN — Dependency: Taiwan and coastal geography; Song flight, Yuan maritime reach. Breaks if removed: no maritime theater.
+• MEM–CHINA–TAIWAN — Dependency: Taiwan and coastal geography; Song flight, Yuan maritime reach. Breaks if removed: no maritime theater.
 • MEM–CHINA–DYNASTY–MING — Dependency: Ming as successor to Yuan; conquest lesson. Breaks if removed: no successor framing.
 • MEM–CHINA–ZHENGHE — Dependency: Contrast—Ming maritime projection; Yuan naval precedent. Breaks if removed: loss of maritime continuity.
 • MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA — Dependency: Pax and trade routes post-conquest. Breaks if removed: no connectivity framing.
 • MEM–CHINA–WAR–MONGOL–JIN — Dependency: Jin fall 1234; Mongol North China before Song campaign. Breaks if removed: no prior phase.
+
+Scholar: RLL–CHINA–0001 (Keegan civilization-contrast).
 
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES
@@ -166,6 +182,7 @@ Primary:
 
 Secondary:
 • Jack Weatherford — Genghis Khan and the Making of the Modern World; Emperor of the Seas (2024, verbatim TBC)
+• John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN)
 • Morris Rossabi, Michal Biran
 • Patricia Buckley Ebrey, Peter Lorge (Song warfare)
 

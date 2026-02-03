@@ -13,7 +13,8 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
-• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
+• CIV–MEM–CORE v3.0
+• CIV–SCHOLAR–TEMPLATE v3.0 (CURRENT)
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
 • CIV–ARC–ROME v2.1 (EXTERNAL · MIRRORED)
 
@@ -1623,7 +1624,7 @@ Status: SUPERSEDED · SEE docs/templates/CIV–MEM–TEMPLATE.md
 Supersedes: CIV–MEM–TEMPLATE v2.4
 Upgrade Type: MAJOR · MANDATORY 20% EVIDENCE STANDARD
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v2.0+
+Compatibility: CIV–MEM–CORE v3.0
 Last Update: January 2026 [SUPERSEDED]
 Word Count: ~4,200
 

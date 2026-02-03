@@ -5,7 +5,8 @@ Phase-Aware Template v2.0 Compliance · Legitimacy-First Sovereignty
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
 Supersedes: CIV–CORE–ROME v1.9
 Template Version Used: CIV–CORE–TEMPLATE v2.0
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
+Governed by: CIV–MEM–CORE v3.0
 Upgrade Type: MAJOR · TEMPLATE ALIGNMENT + LEGACY MIRROR REMOVAL
 Civilization Phase: PHASE I — FOUNDATION
 Lock Level: STRUCTURAL

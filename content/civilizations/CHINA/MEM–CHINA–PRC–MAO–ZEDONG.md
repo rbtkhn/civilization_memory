@@ -1,4 +1,4 @@
-Title: MEM–CHINA–PRC–MAO
+Title: MEM–CHINA–PRC–MAO–ZEDONG
 Status: LOCKED
 Version: 1.2
 Civilization: CHINA (中华文明)
@@ -34,7 +34,7 @@ Key formative traits:
 • Belief in perpetual struggle  
 
 Revolutionary premise:
-> “枪杆子里面出政权。”
+> "枪杆子里面出政权。"
 (Political power grows out of the barrel of a gun.)
 
 Legitimacy derived from victory and mobilization, not institutions.
@@ -42,19 +42,19 @@ Legitimacy derived from victory and mobilization, not institutions.
 ────────────────────────────────────────────────────────────
 III. REVOLUTIONARY STRATEGY & POWER SEIZURE
 ────────────────────────────────────────────────────────────
-Mao’s path to power diverged from orthodox Marxism.
+Mao's path to power diverged from orthodox Marxism.
 
 Strategic innovations:
 • Peasant-centered revolution  
-• Protracted people’s war  
+• Protracted people's war  
 • Rural encirclement of cities  
 • Fusion of ideology and coercion  
 
 Operational logic:
-> “农村包围城市。”
+> "农村包围城市。"
 (The countryside surrounds the cities.)
 
-This strategy resolved China’s warlord–fragmentation problem by force.
+This strategy resolved China's warlord–fragmentation problem by force.
 
 ────────────────────────────────────────────────────────────
 IV. STATE RECONSTITUTION & MOBILIZATIONAL RULE
@@ -69,7 +69,7 @@ Core mechanisms:
 • Fusion of ideology and administration  
 
 Governance axiom:
-> “不断革命。”
+> "不断革命。"
 (Continuous revolution.)
 
 The state penetrated society through mobilization, not stability.
@@ -86,7 +86,7 @@ Key features:
 • Suppression of dissent as counter-revolution  
 
 Symbolic formulation:
-> “人民，只有人民，才是创造世界历史的动力。”
+> "人民，只有人民，才是创造世界历史的动力。"
 (The people, and the people alone, are the makers of world history.)
 
 Legitimacy required constant reaffirmation through struggle.
@@ -102,7 +102,7 @@ Major episodes:
 • Cultural Revolution (1966–76)  
 
 Governance logic remained ideological:
-> “破字当头。”
+> "破字当头。"
 (Destruction comes first.)
 
 Catastrophe functioned as both failure and internalized lesson for successors.
@@ -118,7 +118,7 @@ Key outcomes:
 • Restoration of territorial integrity  
 
 Security maxim:
-> “党指挥枪。”
+> "党指挥枪。"
 (The Party commands the gun.)
 
 This principle remains foundational.
@@ -134,7 +134,7 @@ Key dynamics:
 • Strategic isolation followed by opening  
 
 Strategic realism emerged late:
-> “以斗争求生存。”
+> "以斗争求生存。"
 (Survival through struggle.)
 
 External pressure reinforced internal cohesion.
@@ -142,7 +142,7 @@ External pressure reinforced internal cohesion.
 ────────────────────────────────────────────────────────────
 IX. FAILURE, DEATH, & ABSORPTION
 ────────────────────────────────────────────────────────────
-Mao’s death ended the era of permanent mobilization.
+Mao's death ended the era of permanent mobilization.
 
 Absorption dynamics:
 • Ideology partially abandoned  
@@ -150,7 +150,7 @@ Absorption dynamics:
 • Catastrophe internalized as cautionary memory  
 
 Retrospective judgment was controlled:
-> “功过七三。”
+> "功过七三。"
 (Achievements seventy percent, errors thirty.)
 
 The system survived by learning from excess.
@@ -193,5 +193,5 @@ Secondary:
 • Odd Arne Westad  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–MAO v1.1
+END OF FILE — MEM–CHINA–PRC–MAO–ZEDONG v1.2
 ────────────────────────────────────────────────────────────

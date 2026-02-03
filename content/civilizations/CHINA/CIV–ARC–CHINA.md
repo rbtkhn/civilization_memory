@@ -69,6 +69,8 @@ ARC-T-EARLY-MOD:
 
 ARC-T-MODERN:
 • Henry Kissinger (b. 1923) — On China (2011); Diplomacy (1994); World Order (2014). Strategic analysis of Chinese foreign policy, tribute system, century of humiliation, Mao–Nixon, Deng modernization; civilizational continuity as strategic variable.
+• John Mearsheimer (b. 1947) — The Tragedy of Great Power Politics (2001); The Great Delusion (2018); interviews and essays on US–China, Taiwan, balance of power. Offensive realism; structural incentives; great-power competition; incentive structure and misperception; applicable to GEO–MEM and regime MEMs for structural/power framing.
+• John Keegan (1934–2012) — The Face of Battle (1976); The Mask of Command (1987); A History of Warfare (1993). Military historiography: civilised warfare, institutional restraint, Clausewitz limits ("little of oriental war"); mask of command, belief collapse; face of battle (soldier experience). Applicable to MEM–CHINA–WAR–* for command, battle, and war-making-culture framing; RLL–CHINA–0001.
 • John King Fairbank (1907–1991) — The United States and China; Trade and Diplomacy on the China Coast; The Great Chinese Revolution; The Cambridge History of China (general editor)
 • Jonathan D. Spence (1936–2021) — The Search for Modern China; The Memory Palace of Matteo Ricci; God's Chinese Son; Emperor of China: Self-Portrait of K'ang-hsi
 • Kenneth Pomeranz (b. 1958) — The Great Divergence: China, Europe, and the Making of the Modern World Economy
@@ -80,6 +82,7 @@ ARC-T-MODERN:
 • Rana Mitter (b. 1969) — Forgotten Ally: China's World War II; China's Good War
 • Odd Arne Westad (b. 1960) — Restless Empire: China and the World Since 1750; The Cold War
 • Ezra Vogel (1930–2020) — Deng Xiaoping and the Transformation of China
+• Chen Jian (b. 1952) — Zhou Enlai: A Life (Harvard University Press, 2024). Definitive biography; Zhou as centrist operator and institutional stabilizer; never a committed Maoist; mitigated Mao's radicalism; revolutionary, diplomat, spymaster; Great Leap and Cultural Revolution; multi-archival (Chinese, English, Russian). Applicable to MEM–CHINA–PRC–ZHOU–ENLAI and early PRC regime framing.
 • Frank Dikötter (b. 1961) — Mao's Great Famine; The Cultural Revolution; China After Mao
 • Julia Lovell (b. 1975) — Maoism: A Global History; The Opium War
 • Pamela Crossley (b. 1955) — The Manchus; A Translucent Mirror; Orphan Warriors
@@ -124,7 +127,7 @@ See NAMESPACE–CLARIFICATION v1.0.
 ────────────────────────────────────────────────────────────
 VII. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-Governed by CIV–MEM–TEMPLATE v2.9, NOT by ARC: 20% verbatim quote minimum;
+Governed by CIV–MEM–TEMPLATE v3.0, NOT by ARC: 20% verbatim quote minimum;
 EQS; analytical content floor; quote word counting; ERC classification.
 ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WELL.
 

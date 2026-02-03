@@ -10,7 +10,7 @@ Supersedes: CIV–SCHOLAR–GERMANIA v2.11
 Upgrade Type: ADDITIVE · COLLAPSE-TO-CLOSURE FRAMEWORK (TRI-FRAME)
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
@@ -20,7 +20,7 @@ Word Count: ~13,500
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
-• CIV–MEM–CORE v2.9
+• CIV–MEM–CORE v3.0
 • CIV–ARC–GERMANIA v1.1 (Pinned)
 
 ────────────────────────────────────────────────────────────

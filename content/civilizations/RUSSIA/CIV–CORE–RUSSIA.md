@@ -5,7 +5,8 @@ Phase-Aware Template v2.0 Compliance · Temporal Compression Doctrine
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
 Supersedes: CIV–CORE–RUSSIA v2.0.1
 Template Version Used: CIV–CORE–TEMPLATE v2.0
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
+Governed by: CIV–MEM–CORE v3.0
 Upgrade Type: ADDITIVE · TECHNICAL COMPLIANCE FIX
 Lock Level: STRUCTURAL
 Civilization Phase: PHASE III — MATURITY

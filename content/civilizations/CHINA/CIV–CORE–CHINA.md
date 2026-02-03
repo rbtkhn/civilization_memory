@@ -1,19 +1,19 @@
-CIV–CORE–CHINA — v2.0
+CIV–CORE–CHINA — v3.0
 Civilizational Strategy Codex · Civilization Core Engine
 Continuity–Absorption–Mandate Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
-Version: 2.0
-Supersedes: V1.0
-Upgrade Type: TEMPLATE ALIGNMENT · HEADER COMPLIANCE · TYPO FIX
+Version: 3.0
+Supersedes: CIV–CORE–CHINA v2.0
+Upgrade Type: ALIGNMENT · v3.0 VERSION BUMP
 Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Conceptual Lineage: SCE–CIV–CHINA V9.8 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Governed by: CIV–MEM–CORE v3.0
-• CIV–INDEX–CHINA v2.0 (MEM scope: 38 files)
-ARC Reference: CIV–ARC–CHINA v2.0
+• CIV–INDEX–CHINA v3.0 (MEM scope: 68 files)
+ARC Reference: CIV–ARC–CHINA v3.0
 Last Update: February 2026
 WORDCOUNT: ~2,800
 
@@ -299,5 +299,5 @@ XX. MANDATORY VERDICT BLOCK
   CONTINUITY-DOMINANT / EXIT-ACCELERATING / SYSTEM-NEGATIVE / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–CHINA — v2.0
+END OF FILE — CIV–CORE–CHINA — v3.0
 ────────────────────────────────────────────────────────────

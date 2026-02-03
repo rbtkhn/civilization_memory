@@ -79,6 +79,18 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Qing collision with the West; Opium Wars and unequal treaties as opening phase of "century of humiliation" that shapes Chinese strategic memory. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+────────────────────────────────────────────────────────────
+
+John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
+
+"Our institutions and our laws, we tell ourselves, have set the human potentiality for violence about with such restraints that violence in everyday life will be punished as criminal by our laws, while its use by our institutions of state will take the particular form of 'civilised warfare.'"
+
+"Clausewitz is the most important writer on war... but his vision was formed by a particular historical moment. He knew nothing of primitive war, little of oriental war, and his theory rests on assumptions about the rationality of politics that history often contradicts."
+
+— Keegan on institutional restraint and "civilised warfare": the First Opium War was a **collision of war-making cultures**. British warfare was institutional, naval, industrial—state violence in Keegan's "civilised warfare" form. Qing warfare and diplomacy were shaped by tribute system and different assumptions about parity. Clausewitz "little of oriental war" applies directly: the Qing did not fight or negotiate within the European rational-politics frame. The Treaty of Nanjing was imposed because one side could project force and shared norms of restraint were absent. Encoding divergence: MEM encodes humiliation template; Keegan supplies Anglo-American military historiography lens.
+
+────────────────────────────────────────────────────────────
 V. LEGITIMACY & STRATEGIC MEMORY
 ────────────────────────────────────────────────────────────
 The First Opium War **encoded** the humiliation template: China had
@@ -126,13 +138,13 @@ VII. MEM CONNECTIONS
 • MEM–CHINA–SHANGHAI — Dependency: Shanghai as treaty port opened by Nanjing. Breaks if removed: no port-node framing.
 • MEM–CHINA–BEIJING — Dependency: Contrast—capital not directly struck in First Opium; coastal focus. Breaks if removed: loss of spatial contrast.
 
-Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002.
+Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002; RLL–CHINA–0001 (Keegan civilization-contrast).
 
 ────────────────────────────────────────────────────────────
 VIII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing edicts; British diplomatic and military records.
-Secondary: Henry Kissinger — On China; Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
+Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────

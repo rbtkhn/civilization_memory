@@ -1502,5 +1502,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v2.10
+END OF FILE — CIV–SCHOLAR–TEMPLATE v3.0
 ────────────────────────────────────────────────────────────

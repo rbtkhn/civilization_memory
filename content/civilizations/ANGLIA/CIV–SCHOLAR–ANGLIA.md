@@ -9,10 +9,10 @@ Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE I (Accumulation)
-Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
+Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 Supersedes: v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
-Governed by: CIV–SCHOLAR–PROTOCOL v2.6
+Governed by: CIV–SCHOLAR–PROTOCOL v3.0
 ARC Reference: CIV–ARC–ANGLIA v2.0
 Last Update: January 2026
 

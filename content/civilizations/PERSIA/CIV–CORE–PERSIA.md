@@ -8,7 +8,7 @@ Supersedes: CIV–CORE–PERSIA V1.0
 Upgrade Type: Template compliance · Header alignment · Typo correction
 Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
-Governed by: CIV–MEM–CORE v2.9
+Governed by: CIV–MEM–CORE v3.0
 ARC Reference: CIV–ARC–PERSIA v2.0
 Conceptual Lineage: SCE–CIV–PERSIA V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I (Accumulation)
