@@ -13,6 +13,9 @@ Supersedes: CIV–MEM–CORE v2.9
 Upgrade Type: CONSOLIDATION · INTEGRATED GOVERNANCE
 Last Update: February 2026
 
+LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
+CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
+
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.0) — CONSOLIDATION · INTEGRATED GOVERNANCE
 ────────────────────────────────────────────────────────────

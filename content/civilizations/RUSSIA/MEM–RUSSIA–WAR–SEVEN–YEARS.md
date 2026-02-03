@@ -1,16 +1,18 @@
-MEM–RUSSIA–WAR–SEVEN–YEARS — v1.0
+MEM–RUSSIA–WAR–SEVEN–YEARS — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–SEVEN–YEARS v1.0
+Upgrade Type: ALIGNMENT · v3.0
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,000
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Seven Years' War
 Dates: 1756–1763 AD
-Governed by: CIV–MEM–TEMPLATE v2.5, ARC–RUSSIA v1.5
-Compatibility: CMC v2.0+
+Governed by: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–ARC–RUSSIA v3.0
+Compatibility: CMC v3.0
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)
 ────────────────────────────────────────────────────────────
@@ -248,5 +250,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–SEVEN–YEARS v2.0
+END OF FILE — MEM–RUSSIA–WAR–SEVEN–YEARS v3.0
 ────────────────────────────────────────────────────────────

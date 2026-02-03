@@ -347,8 +347,8 @@ XI. CANON STATE
 ────────────────────────────────────────────────────────────
 Version: CIV–ARC–RUSSIA v3.0
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–RUSSIA v1.5
-Upgrade Type: VERSION MILESTONE
+Supersedes: CIV–ARC–RUSSIA v2.0
+Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────

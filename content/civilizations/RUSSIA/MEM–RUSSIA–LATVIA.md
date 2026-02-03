@@ -108,7 +108,7 @@ naval capabilities. Riga became Russia's window to Europe before
 St. Petersburg was built to replace it."
 — Dominic Lieven, *Empire: The Russian Empire and Its Rivals* (2001)
 
-See: MEM–RUSSIA–LATVIA–RIGA for detailed city treatment.
+See: MEM–RUSSIA–RIGA for detailed city treatment.
 
 ────────────────────────────────────────────────────────────
 III.A POLYPHONIC TENSION: RIGA VS ST. PETERSBURG
@@ -369,7 +369,7 @@ Tension preserved without verdict.
 XI. MEM CONNECTIONS (v2.8 COMPLIANT · BALTIC TRIAD)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–LATVIA–RIGA — capital city, window to Europe
+• MEM–RUSSIA–RIGA — capital city, window to Europe
 • MEM–RUSSIA–ESTONIA — neighboring Baltic state
 • MEM–RUSSIA–LITHUANIA — southern Baltic neighbor
 • MEM–RUSSIA–FINLAND — parallel NATO narrative

@@ -1,21 +1,21 @@
-MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — v2.7
+MEM–RUSSIA–WAR–TEUTONIC–ORDER — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.7
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · v2.7 TEMPLATE COMPLIANCE
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS v2.7
+Upgrade Type: RENAME · TEUTONIC–ORDER + ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
-Subject: Wars with the Teutonic Knights & Northern Crusades
+Subject: Wars with the Teutonic Order & Northern Crusades
 Dates: c. 1230–1242 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,400
 
 Governed by:
-• CIV–MEM–CORE v2.0+
-• CIV–MEM–TEMPLATE v2.7
-• ARC–RUSSIA (pinned)
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
+• CIV–ARC–RUSSIA v3.0
 
 ────────────────────────────────────────────────────────────
 SUBJECT TYPE DECLARATION (v2.7)
@@ -183,5 +183,5 @@ Secondary Sources:
   Press, 1998.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS v2.7
+END OF FILE — MEM–RUSSIA–WAR–TEUTONIC–ORDER v3.0
 ────────────────────────────────────────────────────────────

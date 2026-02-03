@@ -171,7 +171,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–ALEXANDER–NEVSKY — Defender and Battle of Neva commander
 • MEM–RUSSIA–NOVGOROD — Political and military center
 • MEM–RUSSIA–SWEDEN — Long-term strategic rivalry
-• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — Coordinated western pressure
+• MEM–RUSSIA–WAR–TEUTONIC–ORDER — Coordinated western pressure
 • MEM–RUSSIA–KIEVAN–RUS — Declining central authority context
 • MEM–RUSSIA–GOLDEN–HORDE — Mongol domination during Swedish conflicts
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious frontier defense

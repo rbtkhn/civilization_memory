@@ -9,7 +9,7 @@ Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Civilization: RUSSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–RUSSIA (Explicit Acceptance Only)
-Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–RUSSIA v2.x
+Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–RUSSIA v3.0
 Governance Authority: CIV–MEM–CORE v3.0
 Derived from: CIV–DOCTRINE–TEMPLATE v3.0
 Last Update: February 2026
@@ -164,7 +164,7 @@ Required citation format:
 • Doctrine number
 
 Example:
-“Per DOCTRINE 01 (ENDURANCE THROUGH COMPRESSION, CIV–DOCTRINE–RUSSIA v1.1),
+“Per DOCTRINE 01 (ENDURANCE THROUGH COMPRESSION, CIV–DOCTRINE–RUSSIA v3.0),
 endurance claims must clear replacement and cohesion gates.”
 
 Silent doctrine usage is prohibited.

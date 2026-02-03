@@ -199,7 +199,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–KIEVAN–RUS — Fragmented polity facing western pressure
 • MEM–RUSSIA–PSKOV — Western frontier target
 • MEM–RUSSIA–GOLDEN–HORDE — Eastern domination during crusade period
-• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — Direct confrontation with Order
+• MEM–RUSSIA–WAR–TEUTONIC–ORDER — Direct confrontation with Order
 • MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN — Coordinated western pressure
 
 GEO–MEM (REQUIRED ≥2):

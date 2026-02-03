@@ -1,14 +1,18 @@
-MEM–RUSSIA–WAR–PUGACHEV–REBELLION — v1.0
+MEM–RUSSIA–WAR–PUGACHEV–REBELLION — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 3.0
+Supersedes: MEM–RUSSIA–WAR–PUGACHEV–REBELLION v1.0
+Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pugachev Rebellion (Пугачёвское восстание)
 Dates: 1773–1775 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,200
+Governed by: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–ARC–RUSSIA v3.0
+Compatibility: CMC v3.0
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -216,5 +220,5 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–PUGACHEV–REBELLION v1.0
+END OF FILE — MEM–RUSSIA–WAR–PUGACHEV–REBELLION v3.0
 ────────────────────────────────────────────────────────────

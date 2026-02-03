@@ -166,7 +166,7 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10 same-civilization):
-• MEM–RUSSIA–WAR–TEUTONIC–KNIGHTS — Direct confrontation with Order
+• MEM–RUSSIA–WAR–TEUTONIC–ORDER — Direct confrontation with Order
 • MEM–RUSSIA–ALEXANDER–NEVSKY — Defensive response to crusading threat
 • MEM–RUSSIA–NOVGOROD — Target of post-Prussian expansion
 • MEM–RUSSIA–KIEVAN–RUS — Fragmented state facing western pressure

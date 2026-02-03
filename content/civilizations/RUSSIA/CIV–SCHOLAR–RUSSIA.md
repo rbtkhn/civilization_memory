@@ -1,14 +1,14 @@
-CIV–SCHOLAR–RUSSIA — v2.6
+CIV–SCHOLAR–RUSSIA — v3.0
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 2.6
-Supersedes: CIV–SCHOLAR–RUSSIA v2.5
-Upgrade Type: ADDITIVE · TEMPLATE v2.5 COMPLIANCE
-Last Update: January 2026
+Version: 3.0
+Supersedes: CIV–SCHOLAR–RUSSIA v2.6
+Upgrade Type: ALIGNMENT · v3.0
+Last Update: February 2026
 Word Count: ~13,200
 
 Governed by:
@@ -33,7 +33,7 @@ Lock Semantics:
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.5 is the **constraint grammar layer**
+CIV–SCHOLAR–RUSSIA v3.0 is the **constraint grammar layer**
 governing all Russian civilizational interpretation across MEM,
 CORE, DOCTRINE, GAME, and SIMULATION contexts.
 
@@ -85,10 +85,10 @@ III. SCHOLAR OPERATIONAL RULES (RUSSIA)
    • Closure-seeking synthesis
    • Doctrinal synthesis
 4. Scholar may propose new RLLs; only the user may authorize binding.
-5. Scholar may audit MEM compliance under v2.2 rules.
+5. Scholar may audit MEM compliance under v3.0 rules.
 
 All synthesis remains provisional and non-doctrinal per
-CIV–SCHOLAR–PROTOCOL v2.1.
+CIV–SCHOLAR–PROTOCOL v3.0.
 
 ────────────────────────────────────────────────────────────
 IV. RUSSIAN CIVILIZATIONAL AXIOMS (v2.5 TEMPLATE FORMAT)
@@ -486,7 +486,7 @@ Violations require anomaly handling via Section VI.A.
 VI.A ANOMALY FLAG PROTOCOL (REQUIRED · v2.5)
 ────────────────────────────────────────────────────────────
 When a MEM assertion contradicts an established SCHOLAR pattern,
-this section records the anomaly per CIV–SCHOLAR–TEMPLATE v2.5.
+this section records the anomaly per CIV–SCHOLAR–TEMPLATE v3.0.
 
 IMPLEMENTATION STATUS: ACTIVE
 
@@ -563,13 +563,13 @@ Simulation engines must penalize violations and surface instability.
 XI. SCHOLAR ↔ MEM CONFLICT HANDLING
 ────────────────────────────────────────────────────────────
 Governed by:
-• CIV–SCHOLAR–TEMPLATE v2.2
-• CIV–SCHOLAR–PROTOCOL v2.1
+• CIV–SCHOLAR–TEMPLATE v3.0
+• CIV–SCHOLAR–PROTOCOL v3.0
 
 This file enforces anomaly flagging but does not redefine protocol.
 
 ────────────────────────────────────────────────────────────
-XII. COMMUNICATION REGISTER (v2.5 TEMPLATE FORMAT)
+XII. COMMUNICATION REGISTER (v3.0 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
 LEARN mode uses the Mercouris voice register as primary.
 
@@ -578,7 +578,7 @@ PRIMARY VOICE:
 • Tone: exploratory, disciplined
 • Finality: provisional only
 
-SECONDARY VOICE INVOCATION (v2.5 FORMALIZED):
+SECONDARY VOICE INVOCATION (v3.0 FORMALIZED):
 All voice transitions MUST use standardized markers.
 Markers MUST appear on their own line, not inline with prose.
 
@@ -627,13 +627,20 @@ OGE categories:
 ────────────────────────────────────────────────────────────
 XV. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v3.0 changes (ALIGNMENT · v3.0):
+• Upgraded to CIV–SCHOLAR–TEMPLATE v3.0 alignment
+• All template/protocol/MEM-template refs updated to v3.0
+• Section XVIII: CONTEXT LOADING PROTOCOLS added (Template § XIII binding)
+• Section XIX: SYNTHESIS TRADECRAFT REQUIREMENTS added (Template § XIV binding)
+• No axioms, RLLs, or constraints changed
+
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance
 • Section IV: Axioms reformatted with formal derivation/scope/limits
 • Section VI: Negative Capability Zone expanded with formal NCZ format
 • Section VI.A: Anomaly Flag Protocol implementation ADDED (REQUIRED)
 • Section XII: Secondary Voice Invocation format FORMALIZED
-• All template v2.5 requirements now met
+• All template v2.5 requirements then met
 
 v2.5 changes:
 • Amended RLL–RUSSIA–0012 with Threshold Condition
@@ -666,32 +673,56 @@ v2.2.1 changes:
 • Section numbering repair
 • Protocol de-duplication
 
-v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
-
 ────────────────────────────────────────────────────────────
 XVI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v2.6 is declared:
+CIV–SCHOLAR–RUSSIA v3.0 is declared:
 
 • CANONICAL
 • LOCKED
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
-• TEMPLATE v2.5 COMPLIANT
+• TEMPLATE v3.0 COMPLIANT
 • WAR MEM CALIBRATED
 • GEO MEM CALIBRATED
 • ANOMALY FLAG PROTOCOL IMPLEMENTED
+• CONTEXT LOADING & SYNTHESIS TRADECRAFT BINDING
 
 ────────────────────────────────────────────────────────────
 XVII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
-• CIV–SCHOLAR–TEMPLATE v2.5 (CURRENT)
-• CIV–SCHOLAR–PROTOCOL v2.1
-• CIV–MEM–TEMPLATE v2.8
+• CIV–SCHOLAR–TEMPLATE v3.0 (CURRENT)
+• CIV–SCHOLAR–PROTOCOL v3.0
+• CIV–MEM–TEMPLATE v3.0
 
 Embedded legacy mirrors are quarantined.
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v2.6
+XVIII. CONTEXT LOADING PROTOCOLS (Template § XIII · MANDATORY)
+────────────────────────────────────────────────────────────
+Context Loading Protocols are BINDING for all SCHOLAR–RUSSIA sessions.
+
+As per CIV–SCHOLAR–TEMPLATE v3.0 Section XIII:
+• Doctrine Load Protocol: CIV–DOCTRINE–RUSSIA must be loaded when WRITE + analytical content, doctrine reference, CORE edit, synthesis drafting, or RLL binding references doctrine.
+• ARC Load Protocol: CIV–ARC–RUSSIA must be loaded when creating GEO–MEMs, writing civilizational grammar quotes, cross-temporal analysis, or blend compliance.
+• Session startup file sets: LEARN minimal = SCHOLAR + target MEMs; WRITE by tier per template XIII.C.
+• On-demand loading: Read required file, announce load, apply content; silent loading prohibited.
+
+────────────────────────────────────────────────────────────
+XIX. SYNTHESIS TRADECRAFT REQUIREMENTS (Template § XIV · MANDATORY)
+────────────────────────────────────────────────────────────
+Synthesis Tradecraft is BINDING for all frozen SYNTHESIS entries.
+
+As per CIV–SCHOLAR–TEMPLATE v3.0 Section XIV:
+• Assumptions Box: REQUIRED for all frozen SYNTHESIS (≥3 assumptions, linchpin status; incomplete blocks freeze).
+• ACH Record: REQUIRED when ≥2 competing hypotheses were evaluated.
+• Confidence tier: MUST be declared in SYNTHESIS status block (Tier 1–4).
+• POST-ACH revision: Document trigger, re-run ACH, update Assumptions Box, re-freeze with authorization.
+• Compliance checklist must be satisfied before freeze.
+
+Frozen SYNTHESIS without Assumptions Box or (when applicable) ACH Record is INVALID.
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–SCHOLAR–RUSSIA v3.0
 ────────────────────────────────────────────────────────────

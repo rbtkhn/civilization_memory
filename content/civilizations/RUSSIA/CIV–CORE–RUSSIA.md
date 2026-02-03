@@ -1,25 +1,28 @@
-CIV–CORE–RUSSIA — v2.1
+CIV–CORE–RUSSIA — v3.0
 Civilizational Strategy Codex · Constraint-Hardened Endurance Edition
-Phase-Aware Template v2.0 Compliance · Temporal Compression Doctrine
+Phase-Aware Template v3.0 Compliance · Temporal Compression Doctrine
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE · FULL INLINE
-Supersedes: CIV–CORE–RUSSIA v2.0.1
-Template Version Used: CIV–CORE–TEMPLATE v2.0
+Activation State: ACTIVE
+Supersedes: CIV–CORE–RUSSIA v2.1
+Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governed by: CIV–MEM–CORE v3.0
-Upgrade Type: ADDITIVE · TECHNICAL COMPLIANCE FIX
+Upgrade Type: ALIGNMENT · v3.0
 Lock Level: STRUCTURAL
 Civilization Phase: PHASE III — MATURITY
 DIB Status: DEFINED · INACTIVE
 Scholar Reference Mode: READ-ONLY / DIB-GATED
 Conceptual Lineage: SCE–CIV–RUSSIA v9.7.2 (doctrinal ancestry preserved; format-harmonized)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~12,500
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
 ────────────────────────────────────────────────────────────
-This upgrade advances CIV–CORE–RUSSIA from v2.0.1 to v2.1.
+v3.0 (February 2026): ALIGNMENT · v3.0. Template Version Used → CIV–CORE–TEMPLATE v3.0; CIV–MEM–CORE v3.0 alignment. No axioms, diagnostics, or constraints changed. Supersedes v2.1.
+
+v2.1 (prior): This upgrade advanced CIV–CORE–RUSSIA from v2.0.1 to v2.1.
 
 SCOPE OF CHANGE (EXHAUSTIVE):
 • Added Section XI.A: TEMPORAL COMPRESSION DOCTRINE
@@ -392,11 +395,11 @@ EEG-RU · FFG-RU · EECL-RU
 XXI. TEMPLATE REFERENCE (CANONICAL POINTER)
 ────────────────────────────────────────────────────────────
 CANONICAL REFERENCE:
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–TEMPLATE v3.0
 • Location: docs/templates/CIV–MEM–TEMPLATE.md
 
 Embedded legacy mirrors are archival only and non-operative.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–RUSSIA v2.1
+END OF FILE — CIV–CORE–RUSSIA v3.0
 ────────────────────────────────────────────────────────────

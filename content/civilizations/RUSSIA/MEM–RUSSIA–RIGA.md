@@ -1,23 +1,23 @@
-MEM–RUSSIA–LATVIA–RIGA — v2.8
+MEM–RUSSIA–RIGA — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
-Supersedes: v2.0
-Upgrade Type: DUAL MIND AUDIT · BALTIC TRIAD ALIGNMENT
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: RENAME · RIGA + ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Riga (Рига) — Original Window to Europe & Lost Gateway
 Dates: 1201–present (Russian control: 1710–1918, 1940–1991)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,400
 
 Governed by:
-• CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–CORE v3.0
+• CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
 
-SUBJECT TYPE DECLARATION (v2.8):
+SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
 
@@ -357,7 +357,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • NATO membership places alliance at former Russian gateway
 • Russian minority creates ongoing tension
 
-POLYPHONIC TENSIONS (v2.8):
+POLYPHONIC TENSIONS (v3.0):
 • MERCOURIS: Riga as gateway enabling Russian trade
 • MEARSHEIMER: Riga as intermediary capturing margins
 • MERCOURIS: St. Petersburg as Russian civilizational achievement
@@ -371,7 +371,7 @@ POLYPHONIC TENSIONS (v2.8):
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XII. MEM CONNECTIONS (v2.8 COMPLIANT)
+XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–LATVIA — national context
@@ -396,7 +396,7 @@ Cross-civilizational:
 • MEM–NATO–EXPANSION — 2004 accession (Latvia)
 
 ────────────────────────────────────────────────────────────
-XIII. MEM BIBLIOGRAPHY (v2.8)
+XIII. MEM BIBLIOGRAPHY (v3.0)
 ────────────────────────────────────────────────────────────
 • Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*.
   New Haven: Yale University Press, 2001.
@@ -410,7 +410,7 @@ XIII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–LATVIA–RIGA
+MEM INGEST CONFIRMED — MEM–RUSSIA–RIGA
 Status: ACTIVE
 Exploration options available.
 
@@ -426,5 +426,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LATVIA–RIGA v2.8
+END OF FILE — MEM–RUSSIA–RIGA v3.0
 ────────────────────────────────────────────────────────────
