@@ -1,22 +1,23 @@
-MEM–RUSSIA–GEO–NEVA–RIVER — v2.8
+MEM–RUSSIA–GEO–NEVA–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.1
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · SCHOLAR RLL BINDING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Neva River (Strategic–Geographic Chokepoint)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
-Last Update: January 2026
-Word Count: ~2,100
+Last Update: February 2026
+Word Count: ~2,200
 
 Governed by:
 • CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA (RLL binding)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -283,10 +284,10 @@ Modern scholarship confirms **exclusivity** as **strategic multiplier**.
 XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
+• MEM–RUSSIA–GEO–VOLGA–RIVER — conditional projection north (Volga–Baltic Waterway)
 • MEM–RUSSIA–GEO–GULF–FINLAND — corridor to Baltic
 • MEM–RUSSIA–GEO–BALTIC–SEA — destination basin
 • MEM–RUSSIA–GEO–LAKE–LADOGA — source lake
-• MEM–RUSSIA–GEO–VOLGA–RIVER — via Volga–Baltic Waterway
 • MEM–RUSSIA–GEO–WHITE–SEA — alternative northern access
 
 Subject MEM (Mercouris cognition):
@@ -295,6 +296,14 @@ Subject MEM (Mercouris cognition):
 Cross-civilizational GEO:
 • MEM–FINLAND–GEO–GULF — northern flank
 • MEM–ESTONIA–GEO–GULF — southern flank
+
+SCHOLAR RLL BINDING (CIV–SCHOLAR–RUSSIA):
+• RLL–RUSSIA–0018 — River Corridor Hierarchy Law: Neva is chokepoint;
+  concentrates existential access value; loss of chokepoint severs external
+  connectivity (Baltic).
+• RLL–RUSSIA–0021 — Moscow Waterway Chain / conditional projection: Neva is
+  Baltic gateway; Volga–Baltic Waterway links interior (Volga) to Neva;
+  conditional projection north from closed interior.
 
 ────────────────────────────────────────────────────────────
 XI. GEO–MEM BIBLIOGRAPHY
@@ -324,5 +333,5 @@ F) Compare with other strategic chokepoints (Suez, Panama, Bosphorus)
 For civilizational analysis, invoke: MEM–RUSSIA–NEVA–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–NEVA–RIVER v2.8
+END OF FILE — MEM–RUSSIA–GEO–NEVA–RIVER v3.0
 ────────────────────────────────────────────────────────────

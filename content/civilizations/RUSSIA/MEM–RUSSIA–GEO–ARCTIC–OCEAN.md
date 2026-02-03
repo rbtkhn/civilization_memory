@@ -219,8 +219,9 @@ XI. GEO–MEM CONNECTIONS
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–TUNDRA — Arctic littoral
 • MEM–RUSSIA–GEO–WHITE–SEA — western Arctic access
+• MEM–RUSSIA–GEO–BERING–STRAIT — sole Arctic–Pacific chokepoint
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — Bering Strait connection
-• MEM–RUSSIA–GEO–SIBERIA — northern coast territory
+• MEM–RUSSIA–SIBERIA — northern coast territory
 
 Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–ARCTIC–OCEAN — civilizational narrative

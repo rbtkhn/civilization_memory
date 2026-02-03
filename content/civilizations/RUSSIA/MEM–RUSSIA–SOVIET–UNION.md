@@ -327,7 +327,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–MOSCOW — capital
-• MEM–RUSSIA–GEO–SIBERIA — Gulag geography
+• MEM–RUSSIA–SIBERIA — Gulag geography
 • MEM–RUSSIA–GEO–EASTERN–EUROPE — empire zone
 
 Cross-Civilizational:

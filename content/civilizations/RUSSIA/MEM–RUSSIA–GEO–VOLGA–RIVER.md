@@ -1,22 +1,23 @@
-MEM–RUSSIA–GEO–VOLGA–RIVER — v2.8
+MEM–RUSSIA–GEO–VOLGA–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · SCHOLAR RLL BINDING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Volga River (Strategic–Geographic Artery)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
-Last Update: January 2026
-Word Count: ~2,300
+Last Update: February 2026
+Word Count: ~2,400
 
 Governed by:
 • CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA (RLL binding)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -311,11 +312,13 @@ Modern scholarship confirms **interior autarky** and **blockade immunity**.
 XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
-• MEM–RUSSIA–GEO–CASPIAN–SEA — terminus basin
-• MEM–RUSSIA–GEO–DON–RIVER — via Volga–Don Canal
+• MEM–RUSSIA–GEO–OKA–RIVER — chain predecessor (threshold, second link)
+• MEM–RUSSIA–GEO–MOSKVA–RIVER — chain predecessor (first link, via Oka)
+• MEM–RUSSIA–GEO–CASPIAN–SEA — terminus basin (enclosed)
+• MEM–RUSSIA–GEO–DON–RIVER — conditional projection south (Volga–Don Canal)
 • MEM–RUSSIA–GEO–AZOV–SEA — via canal system
 • MEM–RUSSIA–GEO–BLACK–SEA — via canal system
-• MEM–RUSSIA–GEO–BALTIC–SEA — via Volga–Baltic Waterway
+• MEM–RUSSIA–GEO–BALTIC–SEA — conditional projection north (Volga–Baltic Waterway)
 • MEM–RUSSIA–GEO–URALS — eastern boundary of Volga basin
 • MEM–RUSSIA–GEO–STEPPE — southern transition zone
 
@@ -324,6 +327,20 @@ Subject MEM (Mercouris cognition):
 
 Cross-civilizational GEO:
 • MEM–CENTRAL–ASIA–GEO–CASPIAN — trade connection
+
+Conditional projection: The Volga has two outlets—south (Volga–Don Canal to
+Azov/Black Sea) and north (Volga–Baltic Waterway to Baltic/Gulf of Finland).
+Both extend interior reach on Russian-controlled chokepoints; the Volga
+itself remains closed (Caspian terminus). Not exposure corridors.
+
+SCHOLAR RLL BINDING (CIV–SCHOLAR–RUSSIA):
+• RLL–RUSSIA–0018 — River Corridor Hierarchy Law: Volga is interior artery;
+  enables integration without external dependency; loss of interior
+  destabilizes all systems.
+• RLL–RUSSIA–0021 — Moscow Waterway Chain Dependency Law: Volga is hub
+  (third link) in Moskva → Oka → Volga → Caspian; arterial hub (interior
+  autarky backbone); Volga failure = systemic catastrophe; hub attacks
+  existential—must defend forward.
 
 ────────────────────────────────────────────────────────────
 XII. GEO–MEM BIBLIOGRAPHY
@@ -354,5 +371,5 @@ G) Compare with other interior rivers (Yangtze, Mississippi)
 For civilizational analysis, invoke: MEM–RUSSIA–VOLGA–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–VOLGA–RIVER v2.8
+END OF FILE — MEM–RUSSIA–GEO–VOLGA–RIVER v3.0
 ────────────────────────────────────────────────────────────

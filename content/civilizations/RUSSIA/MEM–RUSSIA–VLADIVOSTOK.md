@@ -273,7 +273,7 @@ Russian (≥10):
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — strategic access
-• MEM–RUSSIA–GEO–SIBERIA — continental connection
+• MEM–RUSSIA–SIBERIA — continental connection
 
 Cross-civilizational:
 • MEM–CHINA–QING — territorial cession

@@ -340,7 +340,7 @@ Related GEO–MEMs:
 • MEM–RUSSIA–GEO–STEPPE — contrasting frontier environment
 • MEM–RUSSIA–GEO–ARCTIC–OCEAN — northern maritime access
 • MEM–RUSSIA–GEO–WHITE–SEA — western Arctic inlet
-• MEM–RUSSIA–GEO–SIBERIA — territorial context
+• MEM–RUSSIA–SIBERIA — territorial context
 • MEM–RUSSIA–GEO–URALS — western anchor
 
 Subject MEM (Mercouris cognition):

@@ -1,19 +1,37 @@
-CIV–DOCTRINE–RUSSIA — v3.0
+CIV–DOCTRINE–RUSSIA — v3.1
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–DOCTRINE–RUSSIA v1.1
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.1
+Supersedes: CIV–DOCTRINE–RUSSIA v3.0
+Upgrade Type: REFINEMENT · SCHOLAR WRITE MODE
 Civilization: RUSSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
-Source Authority: DIB–RUSSIA (Explicit Acceptance Only)
+Source Authority: DIB–RUSSIA (Explicit Acceptance Only) · Scholar WRITE (per CIV–SCHOLAR–RUSSIA § X)
 Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–RUSSIA v3.0
 Governance Authority: CIV–MEM–CORE v3.0
 Derived from: CIV–DOCTRINE–TEMPLATE v3.0
 Last Update: February 2026
-Word Count: ~1,150
+Word Count: ~1,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — REFINEMENT PASS
+────────────────────────────────────────────────────────────
+Scholar WRITE mode analyzed DOCTRINE–RUSSIA against CIV–SCHOLAR–RUSSIA
+and CIV–CORE–RUSSIA. Refinements applied:
+
+• DOCTRINE 01: Scope added—applies under external pressure or crisis;
+  peacetime endurance claims require separate validation (RLL–RUSSIA–0009, 0011).
+• DOCTRINE 02: "Time-of-Troubles" → "Time of Troubles" (MEM naming).
+  Operational Meaning: buffers clarified to include corridor-control capacity (RLL–RUSSIA–0001).
+• DOCTRINE 03: RB/CB/FB/SB spelled out and tied to CIV–CORE–RUSSIA VIII.
+
+No doctrine numbers, names, or acceptance status changed. Definitions
+and Hard Constraints refined for alignment only.
+
+• DOCTRINE 04 (ELITE CAPACITY BOUND) proposed from RLL–RUSSIA–0010;
+  DIB–RUSSIA approved; Status: ACCEPTED · LOCKED · CANONICAL.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1)
@@ -78,6 +96,9 @@ compression under pressure. External coercion, invasion, or isolation
 forces internal consolidation, hierarchy tightening, and resource
 prioritization, enabling survival where more open systems fracture.
 
+Scope: Applies under external pressure or crisis; peacetime endurance
+claims require separate validation (CIV–SCHOLAR–RUSSIA RLL–RUSSIA–0009, 0011).
+
 Operational Meaning:
 • Pressure is metabolized, not avoided
 • Crisis strengthens central authority
@@ -106,10 +127,11 @@ failure.
 Operational Meaning:
 • Central authority is necessary but insufficient
 • Institutions absorb shocks the ruler cannot
+• Buffers include institutional, ritual, and corridor-control capacity (RLL–RUSSIA–0001)
 • Terror without buffers shortens regime lifespan
 
 Hard Constraints:
-• Personal rule without buffers triggers Time-of-Troubles dynamics
+• Personal rule without buffers triggers Time of Troubles dynamics
 • Excess coercion degrades replacement capacity
 • Autocracy must be structural, not charismatic
 
@@ -136,7 +158,37 @@ Operational Meaning:
 Hard Constraints:
 • Symbolism fails if economic or military systems break
 • Myth without performance accelerates legitimacy shock
-• Narrative cannot override RB / CB / FB / SB constraints
+• Narrative cannot override RB/CB/FB/SB constraints (replacement-burn,
+  cohesion, force/friction, settlement-binding; CIV–CORE–RUSSIA VIII)
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 04
+Name: ELITE CAPACITY BOUND
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–RUSSIA (RLL–RUSSIA–0010 — Elite Overproduction → Instability Binding)
+• DIB–RUSSIA (Approved)
+
+Definition:
+Russia consistently produces more elites than its political economy can
+absorb. Expanding legitimacy mechanisms without survival compression
+increases internal fragmentation; suppressing elites outright risks
+rebellion. Stability requires subordinating elite claims to survival
+imperatives through war or emergency.
+
+Operational Meaning:
+• Elite expansion must be bounded by absorption capacity
+• Legitimacy expansion increases fragmentation unless compressed by
+  survival imperative (RLL–RUSSIA–0011)
+• War or emergency subordinates elites to usefulness, not legitimacy
+
+Hard Constraints:
+• Unbounded elite expansion without survival compression triggers
+  fragmentation
+• Suppression without survival framing risks rebellion
+• Elite claims must be subordinated to survival imperatives when
+  cohesion is at risk (RLL–RUSSIA–0010)
 
 ────────────────────────────────────────────────────────────
 III. EXPLICITLY EXCLUDED MATERIAL
@@ -164,7 +216,7 @@ Required citation format:
 • Doctrine number
 
 Example:
-“Per DOCTRINE 01 (ENDURANCE THROUGH COMPRESSION, CIV–DOCTRINE–RUSSIA v3.0),
+“Per DOCTRINE 01 (ENDURANCE THROUGH COMPRESSION, CIV–DOCTRINE–RUSSIA v3.1),
 endurance claims must clear replacement and cohesion gates.”
 
 Silent doctrine usage is prohibited.
@@ -174,7 +226,8 @@ V. VERSIONING & LOCK
 ────────────────────────────────────────────────────────────
 This file is LOCKED.
 
-• Additions require DIB–RUSSIA approval
+• Additions require DIB–RUSSIA approval **or** may be made by Scholar
+  WRITE mode per CIV–SCHOLAR–RUSSIA Section X (doctrine proposal/create)
 • Modifications require a new version
 • Deletions are forbidden
 • Reordering is forbidden
@@ -182,5 +235,5 @@ This file is LOCKED.
 Supersession is additive only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–RUSSIA — v3.0
+END OF FILE — CIV–DOCTRINE–RUSSIA — v3.1
 ────────────────────────────────────────────────────────────

@@ -19,7 +19,7 @@ Governed by:
 • CIV–MIND–MERCOURIS v2.2 (CIVILIZATIONAL COGNITION)
 • ARC–RUSSIA (pinned)
 
-Strategic Geography: MEM–RUSSIA–GEO–SIBERIA (Mearsheimer cognition)
+Strategic/geographic dimensions are addressed in this MEM and in related GEO–MEMs (e.g. MEM–RUSSIA–GEO–URALS, MEM–RUSSIA–GEO–LAKE–BAIKAL, MEM–RUSSIA–GEO–BERING–STRAIT).
 
 ────────────────────────────────────────────────────────────
 COGNITIVE ARCHITECTURE NOTE (v2.8)
@@ -32,12 +32,7 @@ Subject MEMs preserve:
 • Named rulers and dated events
 • Imperial process and state formation
 
-For pure strategic geography (Mearsheimer cognition), see:
-→ MEM–RUSSIA–GEO–SIBERIA
-
-The file structure IS the polyphony:
-• GEO–MEM = Mearsheimer (strategic depth, climate, resources)
-• Subject MEM = Mercouris (conquest, exile, Gulag, national myth)
+Strategic depth, climate, and resource logic remain part of the polyphonic analysis within this MEM and in related GEO–MEMs.
 
 ────────────────────────────────────────────────────────────
 SUBJECT TYPE DECLARATION (v2.7):
@@ -231,9 +226,9 @@ RUSSIA (≥10):
 • MEM–RUSSIA–DECEMBRISTS — exiles who shaped Siberian intellectual culture
 • MEM–RUSSIA–INDUSTRIALIZATION — Soviet megaprojects and resource extraction
 
-GEO (≥2) — Mearsheimer Strategic Cognition:
-• MEM–RUSSIA–GEO–SIBERIA — strategic geography (Mearsheimer layer)
+GEO (≥2):
 • MEM–RUSSIA–GEO–URALS — geographic boundary marking Siberian entry
+• MEM–RUSSIA–GEO–LAKE–BAIKAL — central Siberian water body
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY

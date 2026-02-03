@@ -217,7 +217,7 @@ Geography is structure. Structure constrains behavior.
 XI. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
-• MEM–RUSSIA–GEO–SIBERIA — surrounding territory
+• MEM–RUSSIA–SIBERIA — surrounding territory
 • MEM–RUSSIA–GEO–AMUR–RIVER — eastern connection
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — ultimate eastern terminus
 • MEM–RUSSIA–GEO–TAIGA — surrounding biome

@@ -1,22 +1,23 @@
-MEM–RUSSIA–GEO–DON–RIVER — v2.8
+MEM–RUSSIA–GEO–DON–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · SCHOLAR RLL BINDING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Don River (Strategic–Geographic Corridor)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
-Last Update: January 2026
-Word Count: ~2,200
+Last Update: February 2026
+Word Count: ~2,300
 
 Governed by:
 • CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA (RLL binding)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -313,9 +314,9 @@ Modern scholarship confirms **bidirectional exposure** and **projection logic**.
 XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
+• MEM–RUSSIA–GEO–VOLGA–RIVER — conditional projection south (Volga–Don Canal)
 • MEM–RUSSIA–GEO–AZOV–SEA — maritime terminus
 • MEM–RUSSIA–GEO–BLACK–SEA — ultimate destination
-• MEM–RUSSIA–GEO–VOLGA–RIVER — via Volga–Don Canal
 • MEM–RUSSIA–GEO–STEPPE — exposure environment
 • MEM–RUSSIA–GEO–CRIMEA — Kerch control point
 • MEM–RUSSIA–GEO–CAUCASUS — southern flank
@@ -325,6 +326,15 @@ Subject MEM (Mercouris cognition):
 
 Cross-civilizational GEO:
 • MEM–UKRAINE–GEO–STEPPE — shared exposure zone
+
+Conditional projection: The Volga–Don Canal gives the interior (Volga basin)
+conditional access to the Don and thus to Azov/Black Sea. Control of the
+canal determines extension; the Don itself remains an exposure corridor.
+
+SCHOLAR RLL BINDING (CIV–SCHOLAR–RUSSIA):
+• RLL–RUSSIA–0018 — River Corridor Hierarchy Law: Don is exposure corridor;
+  provides projection but imports vulnerability; loss of exposure corridors
+  reduces reach but preserves core (interior remains intact).
 
 ────────────────────────────────────────────────────────────
 XII. GEO–MEM BIBLIOGRAPHY
@@ -355,5 +365,5 @@ G) Compare with other steppe rivers (Dnieper, Ural)
 For civilizational analysis, invoke: MEM–RUSSIA–DON–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DON–RIVER v2.8
+END OF FILE — MEM–RUSSIA–GEO–DON–RIVER v3.0
 ────────────────────────────────────────────────────────────

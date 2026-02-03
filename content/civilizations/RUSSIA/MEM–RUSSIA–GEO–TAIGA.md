@@ -337,7 +337,7 @@ Related GEO–MEMs:
 • MEM–RUSSIA–GEO–TUNDRA — extreme northern extension
 • MEM–RUSSIA–GEO–FOREST–ZONE — transition environment
 • MEM–RUSSIA–GEO–VOLGA–RIVER — interior artery
-• MEM–RUSSIA–GEO–SIBERIA — eastern depth continuation
+• MEM–RUSSIA–SIBERIA — eastern depth continuation
 • MEM–RUSSIA–GEO–URALS — western boundary
 
 Subject MEM (Mercouris cognition):

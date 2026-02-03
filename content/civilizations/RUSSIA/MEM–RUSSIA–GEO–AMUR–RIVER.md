@@ -278,7 +278,7 @@ XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — maritime terminus
-• MEM–RUSSIA–GEO–SIBERIA — approach corridor
+• MEM–RUSSIA–SIBERIA — approach corridor
 • MEM–RUSSIA–GEO–URALS — distant western boundary
 • MEM–RUSSIA–GEO–TAIGA — environmental context
 

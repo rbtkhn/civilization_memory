@@ -296,7 +296,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — eastern access acquired through Chinese treaties
 • MEM–RUSSIA–GEO–AMUR–RIVER — border river and acquisition context
-• MEM–RUSSIA–GEO–SIBERIA — continental expanse bordering China
+• MEM–RUSSIA–SIBERIA — continental expanse bordering China
 
 Cross-Civilizational:
 • MEM–CHINA–QING — treaty partner and territorial loss

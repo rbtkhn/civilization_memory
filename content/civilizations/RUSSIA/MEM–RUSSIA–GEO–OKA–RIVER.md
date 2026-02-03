@@ -1,20 +1,23 @@
-MEM–RUSSIA–GEO–OKA–RIVER — v2.8
+MEM–RUSSIA–GEO–OKA–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · SCHOLAR RLL BINDING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Oka River (Strategic–Geographic Defensive Frontier)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v2.3
-Last Update: January 2026
-Word Count: ~2,400
+Last Update: February 2026
+Word Count: ~2,450
 
 Governed by:
 • CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.3 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA (RLL binding)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -307,7 +310,8 @@ Modern scholarship confirms **dual function** as **barrier AND corridor**.
 XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
-• MEM–RUSSIA–GEO–VOLGA–RIVER — destination artery (confluence)
+• MEM–RUSSIA–GEO–MOSKVA–RIVER — chain predecessor (first link, Moscow lifeline)
+• MEM–RUSSIA–GEO–VOLGA–RIVER — destination artery (confluence); chain successor
 • MEM–RUSSIA–GEO–FOREST–ZONE — protected environment north of Oka
 • MEM–RUSSIA–GEO–STEPPE — threat environment south of Oka
 • MEM–RUSSIA–GEO–DON–RIVER — parallel steppe corridor
@@ -319,6 +323,16 @@ Subject MEM (Mercouris cognition):
 
 Cross-civilizational GEO:
 • MEM–MONGOL–GEO–STEPPE — threat origin
+
+SCHOLAR RLL BINDING (CIV–SCHOLAR–RUSSIA):
+• RLL–RUSSIA–0018 — River Corridor Hierarchy Law: Oka is threshold river; marks
+  defensive perimeter and biome transition; loss of threshold exposes interior.
+• RLL–RUSSIA–0019 — Threshold River Power Distribution Law: Oka is Russia's
+  southern threshold; steppe mobility halts, forest defense begins; crossing
+  transforms conditions of power.
+• RLL–RUSSIA–0021 — Moscow Waterway Chain Dependency Law: Oka is second link in
+  Moskva → Oka → Volga → Caspian; threshold crossing (defensive frontier +
+  integration); Oka failure = regional catastrophe (heartland fragmentation).
 
 ────────────────────────────────────────────────────────────
 XVI. GEO–MEM BIBLIOGRAPHY
@@ -360,5 +374,5 @@ G) Compare with other defensive rivers (Rhine, Danube limes)
 For civilizational analysis, invoke: MEM–RUSSIA–OKA–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–OKA–RIVER v2.8
+END OF FILE — MEM–RUSSIA–GEO–OKA–RIVER v3.0
 ────────────────────────────────────────────────────────────

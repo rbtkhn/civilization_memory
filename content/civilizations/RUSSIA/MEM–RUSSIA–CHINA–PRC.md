@@ -240,7 +240,7 @@ Same-Civilization (RUSSIA) — ≥10:
 GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–AMUR–RIVER — Border and Ussuri context
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN — Eastern terminus and maritime dimension
-• MEM–RUSSIA–GEO–SIBERIA — Continental expanse bordering China
+• MEM–RUSSIA–SIBERIA — Continental expanse bordering China
 
 Cross-Civilizational:
 • MEM–CHINA–PRC — PRC as civilizational subject (if present)

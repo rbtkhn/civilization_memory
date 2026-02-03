@@ -354,7 +354,7 @@ Same-civilization connections (≥10):
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — Command center and political gravity
-• MEM–RUSSIA–GEO–SIBERIA — Gulag geography and resource extraction
+• MEM–RUSSIA–SIBERIA — Gulag geography and resource extraction
 
 Cross-civilizational:
 • MEM–GERMANY–NAZI — Adversary and mirror totalitarianism

@@ -1,22 +1,23 @@
-MEM–RUSSIA–GEO–DNEIPER–RIVER — v2.8
+MEM–RUSSIA–GEO–DNEIPER–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.7)
-Version: 2.8
-Supersedes: v2.7
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION IMPLEMENTATION
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · SCHOLAR RLL BINDING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Dnieper River (Strategic–Geographic Corridor)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v2.2
-Last Update: January 2026
-Word Count: ~2,300
+Last Update: February 2026
+Word Count: ~2,400
 
 Governed by:
 • CIV–MEM–CORE v2.1+
-• CIV–MEM–TEMPLATE v2.7
+• CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.2 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA (RLL binding)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -313,6 +314,7 @@ Modern scholarship confirms **contested strategic line**.
 XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
+• MEM–RUSSIA–GEO–VOLGA–RIVER — contrast (interior artery vs exposure corridor; Dnieper not part of Moscow chain)
 • MEM–RUSSIA–GEO–BLACK–SEA — maritime terminus
 • MEM–RUSSIA–GEO–STEPPE — exposure environment
 • MEM–RUSSIA–GEO–CRIMEA — flanking position
@@ -324,6 +326,15 @@ Subject MEM (Mercouris cognition):
 
 Cross-civilizational GEO:
 • MEM–UKRAINE–GEO–DNIEPER — Ukrainian strategic context
+
+Chain contrast: The Dnieper is NOT part of the Moscow waterway chain
+(Moskva → Oka → Volga → Caspian). It is a separate exposure corridor;
+Volga is interior artery, Dnieper is exposure corridor (RLL–RUSSIA–0018).
+
+SCHOLAR RLL BINDING (CIV–SCHOLAR–RUSSIA):
+• RLL–RUSSIA–0018 — River Corridor Hierarchy Law: Dnieper is exposure
+  corridor; provides projection but imports vulnerability; trade–invasion
+  coupling; loss of exposure corridors reduces reach but preserves core.
 
 ────────────────────────────────────────────────────────────
 XII. GEO–MEM BIBLIOGRAPHY
@@ -356,5 +367,5 @@ G) Compare with other trade–invasion corridors (Rhine, Danube)
 For civilizational analysis, invoke: MEM–RUSSIA–DNEIPER–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–DNEIPER–RIVER v2.8
+END OF FILE — MEM–RUSSIA–GEO–DNEIPER–RIVER v3.0
 ────────────────────────────────────────────────────────────

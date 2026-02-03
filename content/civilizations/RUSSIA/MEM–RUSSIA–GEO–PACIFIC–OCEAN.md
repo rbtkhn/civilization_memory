@@ -304,8 +304,9 @@ XV. GEO–MEM CONNECTIONS
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–LAKE–BAIKAL — rail chokepoint to Pacific
 • MEM–RUSSIA–GEO–AMUR–RIVER — Far East drainage
+• MEM–RUSSIA–GEO–BERING–STRAIT — sole Pacific–Arctic chokepoint
 • MEM–RUSSIA–GEO–ARCTIC–OCEAN — Bering Strait connection
-• MEM–RUSSIA–GEO–SIBERIA — continental territory
+• MEM–RUSSIA–SIBERIA — continental territory
 
 Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–PACIFIC–OCEAN — civilizational narrative

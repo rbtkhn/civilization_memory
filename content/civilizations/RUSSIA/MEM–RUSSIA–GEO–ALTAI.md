@@ -273,7 +273,7 @@ Geography is structure. Structure constrains behavior.
 XIII. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
-• MEM–RUSSIA–GEO–SIBERIA — continental territory north of Altai
+• MEM–RUSSIA–SIBERIA — continental territory north of Altai
 • MEM–RUSSIA–GEO–OB–RIVER — major river originating in Altai
 • MEM–RUSSIA–GEO–STEPPE — grassland zone bordering Altai
 • MEM–RUSSIA–GEO–URAL–MOUNTAINS — parallel barrier system

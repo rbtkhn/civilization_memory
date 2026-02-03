@@ -1,20 +1,23 @@
-MEM–RUSSIA–GEO–MOSKVA–RIVER — v2.8
+MEM–RUSSIA–GEO–MOSKVA–RIVER — v3.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
-Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
-Version: 2.8
+Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
+Version: 3.0
+Supersedes: v2.8
+Upgrade Type: ALIGNMENT · SCHOLAR RLL BINDING
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Moskva River (Capital Lifeline · Interior Integration Artery)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v2.3
-Last Update: January 2026
-Word Count: ~2,200
+Last Update: February 2026
+Word Count: ~2,250
 
 Governed by:
 • CIV–MEM–CORE v2.2+
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v2.3 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA (RLL binding)
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION
@@ -368,5 +371,5 @@ F) Compare with other capital rivers (Thames, Seine, Tiber)
 For civilizational analysis, invoke: MEM–RUSSIA–MOSKVA–RIVER
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GEO–MOSKVA–RIVER v2.8
+END OF FILE — MEM–RUSSIA–GEO–MOSKVA–RIVER v3.0
 ────────────────────────────────────────────────────────────

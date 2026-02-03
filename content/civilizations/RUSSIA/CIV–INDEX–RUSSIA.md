@@ -22,6 +22,8 @@ UPGRADE NOTE (v3.0) — FULL DIRECTORY SYNC
 This version reconciles the index with actual MEM files in the directory.
 
 v3.0 sync changes:
+• Renamed MEM–RUSSIA–GEO–SIBERIA → MEM–RUSSIA–SIBERIA (canonical Siberia file; GEO–SIBERIA removed). Total: 178 → 177.
+• Added MEM–RUSSIA–GEO–BERING–STRAIT.md (A) GEO — Arctic–Pacific chokepoint. Total: 177 → 178.
 • Added MEM–RUSSIA–ISLAM.md (I) OTHER / MISC — Islam in Russian history. Total: 176 → 177.
 • Added MEM–RUSSIA–CHINA–PRC.md (I) OTHER / MISC — Russia and the PRC, 1949–present). Total: 175 → 176.
 • Previously added 15 missing files to register:
@@ -30,7 +32,7 @@ v3.0 sync changes:
   – D) LAW: LAW–AUTOCRACY, LAW–RUSSKAYA–PRAVDA, LAW–TABLE–RANKS, LAW–ZEMSTVO (4)
   – G) PERSON: ZHUKOV (1)
   – I) OTHER: BOLSHEVIK–REVOLUTION, CHINA–SILK–ROAD, SOVIET–UNION (3)
-• Updated total count: 160 → 177 files (includes MEM–RUSSIA–CHINA–PRC, MEM–RUSSIA–ISLAM)
+• Updated total count: 160 → 177 files (GEO–SIBERIA removed; MEM–RUSSIA–SIBERIA canonical)
 • Category breakdown updated
 
 All index entries now verified against actual MEM files in directory.
@@ -208,6 +210,7 @@ A) GEO
 • MEM–RUSSIA–GEO–ATLANTIC–OCEAN.md
 • MEM–RUSSIA–GEO–AZOV–SEA.md
 • MEM–RUSSIA–GEO–BALTIC–SEA.md
+• MEM–RUSSIA–GEO–BERING–STRAIT.md
 • MEM–RUSSIA–GEO–BLACK–SEA.md
 • MEM–RUSSIA–GEO–CARPATHIANS.md
 • MEM–RUSSIA–GEO–CASPIAN–SEA.md
@@ -225,7 +228,6 @@ A) GEO
 • MEM–RUSSIA–GEO–NEVA–RIVER.md
 • MEM–RUSSIA–GEO–OKA–RIVER.md
 • MEM–RUSSIA–GEO–PACIFIC–OCEAN.md
-• MEM–RUSSIA–GEO–SIBERIA.md
 • MEM–RUSSIA–GEO–STEPPE.md
 • MEM–RUSSIA–GEO–TAIGA.md
 • MEM–RUSSIA–GEO–TUNDRA.md

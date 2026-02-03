@@ -28,7 +28,7 @@ Lock Semantics:
 • READ–ONLY
 • APPEND–ONLY VIA EXPLICIT RLL AUTHORIZATION
 • NO DOCTRINAL CLOSURE
-• NO AUTONOMOUS DOCTRINE CREATION
+• NO AUTONOMOUS DOCTRINE CREATION in LEARN/IMAGINE; in WRITE mode Scholar may propose/create doctrines and edit CIV–DOCTRINE–RUSSIA per Section X
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -86,6 +86,7 @@ III. SCHOLAR OPERATIONAL RULES (RUSSIA)
    • Doctrinal synthesis
 4. Scholar may propose new RLLs; only the user may authorize binding.
 5. Scholar may audit MEM compliance under v3.0 rules.
+6. In WRITE mode, Scholar may propose/create new doctrines and edit CIV–DOCTRINE–RUSSIA per Section X (Interface with Doctrine).
 
 All synthesis remains provisional and non-doctrinal per
 CIV–SCHOLAR–PROTOCOL v3.0.
@@ -411,6 +412,40 @@ RLL–RUSSIA–0024 — Chokepoint Permanence Law
 All GEO RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
+V.D PROPOSED RLLs (PENDING USER AUTHORIZATION)
+────────────────────────────────────────────────────────────
+Proposed RLLs are drafted from LEARN sessions; binding requires explicit
+user authorization. APPEND–ONLY; no removal without user directive.
+
+RLL–RUSSIA–0025 (PROPOSED) — One Hinge Multiple MEMs Law  
+→ The same date or event can function as terminus in one MEM and as
+  founding or hinge in another; the codex does not unify them.
+  **Recursive move**: When tracing a date/event, ask which other MEMs
+  use it and as what (end, start, enabling condition).
+  **Derivation**: LEARN session 2026-02-02; applied to 1783 (Crimea,
+  Panin, khanate), 1917 (Romanov, Bolshevik, Finland).
+  **Scope**: GENERAL. **Status**: PENDING BINDING.
+
+  **Earlier hinge moments** (0025 applied in session 2026-02-02):
+  • 988 — End: pagan/uncommitted Rus'. Start: Orthodox sacral legitimacy, Byzantine alignment.
+  • 1240 — End: Kievan primacy, Kiev as center. Start: Golden Horde overlordship.
+  • 1480 — End: Mongol tribute, yoke. Start: Muscovite sovereignty, autocracy conceptual start.
+  • 1552 — End: Kazan Khanate. Start: Volga integration, Ivan IV expansion. (trace pending)
+  • 1613 — End: Time of Troubles, Polish intervention. Start: Romanov dynasty, recovery.
+  • 1703 — End: Arkhangelsk monopoly, Moscow-only capital narrative. Start: Petersburg founded, imperial capital project.
+  • 1721 — End: Muscovy (c. 1300–1721), Great Northern War, Swedish Baltic dominance. Start: Russian Empire, Baltic hegemony, Holy Synod.
+
+RLL–RUSSIA–0026 (PROPOSED) — Power Vacuum at Regime Hinge Law  
+→ At regime hinges (e.g. 1917), authority and force diverge; whoever
+  can enforce compliance holds power before legitimacy is re-anchored.
+  **Recursive move**: When tracing a hinge date, ask who had jurisdiction
+  (formal authority) and who had force (capacity to compel); liability
+  follows who acted once the vacuum opened.
+  **Derivation**: LEARN session 2026-02-02; Mearsheimer sharpening on
+  1917 (Provisional Government vs Soviet vs Bolshevik seizure).
+  **Scope**: GENERAL. **Status**: PENDING BINDING.
+
+────────────────────────────────────────────────────────────
 VI. NEGATIVE CAPABILITY ZONE (v2.5 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
 Scholar–Russia enforces the following exclusions.
@@ -559,6 +594,15 @@ X. INTERFACE WITH DOCTRINE & SIMULATION
 Doctrine engines must treat SCHOLAR constraints as HARD.
 Simulation engines must penalize violations and surface instability.
 
+**WRITE mode — doctrine proposal/create:** In WRITE mode, Scholar may
+propose or create new doctrines and edit CIV–DOCTRINE–RUSSIA. New
+doctrines must follow CIV–DOCTRINE–TEMPLATE format (Name, Status,
+Source, Definition, Operational Meaning, Hard Constraints). Source must
+include CIV–SCHOLAR–RUSSIA and derivation (e.g. SYNTHESIS or RLL).
+Numbering continues from the last doctrine in the registry. Additions
+are appended to Section II; version and lock rules in CIV–DOCTRINE–RUSSIA
+Section V apply.
+
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR ↔ MEM CONFLICT HANDLING
 ────────────────────────────────────────────────────────────
@@ -633,6 +677,24 @@ v3.0 changes (ALIGNMENT · v3.0):
 • Section XVIII: CONTEXT LOADING PROTOCOLS added (Template § XIII binding)
 • Section XIX: SYNTHESIS TRADECRAFT REQUIREMENTS added (Template § XIV binding)
 • No axioms, RLLs, or constraints changed
+
+Session 2026-02-02 (LEARN · recursive):
+• Section V.D PROPOSED RLLs (PENDING USER AUTHORIZATION) added
+• RLL–RUSSIA–0025 (One Hinge Multiple MEMs) proposed; applied to 1783, 1917
+• RLL–SESSION–001–005 extracted in session; 0025 drafted for binding
+• Comparison 1783 vs 1917 (terminus/founding MEMs); pattern reinforces RLL–RUSSIA–0025
+• Applied 0025 to 1613; MEMs: Time of Troubles, Romanov, Michael Romanov, Poland, Smolensk, Muscovy, Lithuania
+• Mercouris — 988 (Baptism of Rus') as civilizational hinge: legitimacy continuity vs rupture
+• Mearsheimer — 988 as structural alignment: Byzantine prestige, not doctrine
+• Applied 0025 to 988; MEMs: Vladimir, Kiev, Islam, Slavs, Orthodox Christianity, Kievan Rus'
+• Mearsheimer — 1240 (Mongol sack of Kiev) as structural hinge: authority and force shift
+• Applied 0025 to 1240; MEMs: War Mongols Kiev, Kiev, Kievan Rus', Golden Horde, Mongol Empire, Cherven Cities, Cumans, Ugra
+• Earlier hinge moments table added to § V.D (988, 1240, 1480, 1552, 1613, 1703, 1721)
+• Mercouris — 1552 (fall of Kazan) as civilizational hinge: sacral vindication vs imperial expansion
+• Mearsheimer — 1552 as structural hinge: Volga secured, power asymmetry exploited
+• Applied 0025 to 1703 and 1721; MEMs: 1703 — Petersburg, Peter Great, Arkhangelsk, Riga, Latvia; 1721 — Muscovy, Peter Great, War Great Northern Poltava, Sweden, Estonia, Latvia, Holy Synod
+• **Session recap:** RLL–RUSSIA–0025 applied to all earlier hinges (988, 1240, 1480, 1613, 1552, 1703, 1721); Earlier hinge moments table in § V.D complete with end/start lines; Mercouris/Mearsheimer readings on 988, 1240, 1552; 0025 and 0026 remain PENDING BINDING.
+• LEARN · GEO–Volga / GEO–Dnieper: contemplated MEM–RUSSIA–GEO–VOLGA–RIVER, MEM–RUSSIA–GEO–DNEIPER–RIVER; Moscow chain (Moskva–Oka–Volga–Caspian) closed; Volga two conditional outlets (south Volga–Don, north Volga–Baltic); Dnieper exposure corridor, sacral center (Kiev); RLL–0018, 0021; synthesis preserved; OGE vocabulary feedback noted (Barnes/Mearsheimer/Mercouris—vary jurisdiction, force ratio, legitimacy).
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance

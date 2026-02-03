@@ -311,7 +311,7 @@ Modern scholarship confirms **sanctuary logic** and **industrial dispersal**.
 XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
-• MEM–RUSSIA–GEO–SIBERIA — depth beyond Urals
+• MEM–RUSSIA–SIBERIA — depth beyond Urals
 • MEM–RUSSIA–GEO–VOLGA–RIVER — western approach
 • MEM–RUSSIA–GEO–STEPPE — southern transition zone
 • MEM–RUSSIA–GEO–TAIGA — northern environment

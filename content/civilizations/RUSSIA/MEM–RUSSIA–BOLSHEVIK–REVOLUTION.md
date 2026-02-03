@@ -309,7 +309,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–PETROGRAD — revolution location
 • MEM–RUSSIA–GEO–MOSCOW — new capital
-• MEM–RUSSIA–GEO–SIBERIA — Civil War theater
+• MEM–RUSSIA–SIBERIA — Civil War theater
 
 Cross-Civilizational:
 • MEM–GERMANIA–WWI — war context

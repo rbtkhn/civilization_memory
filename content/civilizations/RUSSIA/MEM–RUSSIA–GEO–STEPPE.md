@@ -344,7 +344,7 @@ Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BLACK–SEA — steppe maritime terminus
 • MEM–RUSSIA–GEO–CAUCASUS — steppe barrier
 • MEM–RUSSIA–GEO–URALS — steppe–Siberia transition
-• MEM–RUSSIA–GEO–SIBERIA — eastern depth
+• MEM–RUSSIA–SIBERIA — eastern depth
 
 Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–STEPPE — civilizational narrative, historical events
