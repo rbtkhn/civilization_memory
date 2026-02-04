@@ -118,7 +118,7 @@ This file is referenced by version pointer in:
 ────────────────────────────────────────────────────────────
 IX. VERSION NOTE
 ────────────────────────────────────────────────────────────
-v1.0 — Initial establishment (CIV–ARC–TEMPLATE v2.7). Churchill, Ferguson, Chernow (per MEM usage).
+v1.0 — Initial establishment (CIV–ARC–TEMPLATE v3.0). Churchill, Ferguson, Chernow (per MEM usage).
 v1.1 — (Reserved.)
 v1.2 — Fred Anderson added to ARC-T-MODERN (*Crucible of War*); Kissinger, Brands, Ambrose added (per MEM/proposal refs). 2026-01-30.
 v1.3 — Will Durant (1885–1981) added to ARC-T-MODERN (*The Story of Civilization*, *The Story of Philosophy*).

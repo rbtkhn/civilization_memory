@@ -236,7 +236,7 @@ IV. VERSION HISTORY (RECENT)
 • cmc-oge-enforcement, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL
 
 2026-02-02 (OGE — SYNTHESIS OPTION = SESSION RECAP):
-• Option F = 6–10 word summary/recap/encapsulation of session so far
+• Option H = 6–10 word summary/recap/encapsulation of session + synthesis + follow-on options (OGE v1.9: 8 options A–H)
 • Session-specific; guides synthesis response
 • cmc-oge-enforcement, OGE_ARCHITECTURE, CIV–SCHOLAR–PROTOCOL, ScholarInterface, chat route
 

@@ -8,7 +8,7 @@ Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
 Version: 2.0
 Supersedes: CIV–CORE–FRANCIA v1.7
 Upgrade Type: MAJOR · TEMPLATE v2.0 COMPLIANCE · STRUCTURAL ALIGNMENT
-Template Version Used: CIV–CORE–TEMPLATE v2.0
+Template Version Used: CIV–CORE–TEMPLATE v3.0
 Civilization: FRANCIA
 Class: CIV–CORE
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)

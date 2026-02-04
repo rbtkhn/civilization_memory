@@ -114,7 +114,7 @@ When creating CIV–SCHOLAR–INDIA, use this checklist to align with Template a
 - [ ] When RLLs are proposed: scope, constraint type, activation trigger, affected file classes
 
 **OGE**
-- [ ] OGE specification embedded (6 options; M+B where applicable; POST-BARNES M/M response options)
+- [ ] OGE specification embedded (8 options A–H; M+B where applicable; POST-BARNES M/M response options)
 - [ ] Entry addition format, synthesis drafting format, RLL proposal format (Template XI.B–D)
 
 **Voice & communication**

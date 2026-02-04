@@ -1,11 +1,52 @@
-# Option Generation Engine (OGE) — Unified Architecture v1.3
+# Option Generation Engine (OGE) — Unified Architecture v1.9
 ## Multi-Mode Option Generation System
 
-**Version:** 1.3
-**Last Updated:** 2026-02-02
-**Upgrade:** OGE ONTOLOGY — GUIDE NOT PREDICT, MIND-DERIVED
+**Version:** 1.9
+**Last Updated:** 2026-02-04
+**Upgrade:** 8 OPTIONS — E/F/G TRAVERSAL, H SYNTHESIS
 
 ---
+
+### Upgrade Note (v1.9)
+
+OGE expanded from 6 to **8 options**. A, B, C, D unchanged. New structure:
+- **E** — Traverse backward in time (build response on relevant same-civ MEM)
+- **F** — Traverse forward in time (build response on relevant same-civ MEM)
+- **G** — Traverse to different civilization (build response on relevant cross-civ MEM)
+- **H** — Synthesis (formerly F): recap + follow-on options; full execution rules
+
+E, F, G require response built on traversed-to MEM file. Historical anchor applies to A–G (not H).
+
+### Upgrade Note (v1.8)
+
+Options A, B, C now have **explicit response formats** and **MIND load requirement**. When A, B, or C is selected: (1) Load the designated MIND file; (2) Response MUST satisfy voice and lens requirements therein; (3) Length 100–200 words; (4) Frame per table below. See "Options A, B, C — Response Format (BINDING)" below.
+
+### Upgrade Note (v1.7)
+
+Option D is now a **standardized multi-mind response**. When D is selected, the response MUST follow the 4-part structure: Mercouris (1–2 sent) → Mearsheimer responds (1–2 sent) → Barnes responds (1–2 sent) → Mercouris wrap-up (1–2 sent). D option text remains 6–10 words, context-specific; the *response format* is fixed. E remains time/space navigation.
+
+### Upgrade Note (v1.6)
+
+Option F synthesis follow-on options are now **size/risk-based**:
+- **(a)** No change — recap only
+- **(b)** Small incremental — structured state, behavioral effect, elevation path
+- **(c)** Bigger change — SYNTHESIS block, RLL proposal, doctrine candidate
+
+Additions: escalation after (b), cross-session discovery of pending (b), return path clarification, advisory guidance, minimum (b) requirement, explicit feedback. Protocol specifies size; system designs implementation. See "Option F — Synthesis Implementation Options" below.
+
+### Upgrade Note (v1.5)
+
+Recursive scholar modification operations are now **canonical and standardized**.
+See Section "Recursive Modification Operations (BINDING)" below.
+Option F follow-on options use size/risk framing (v1.6 supersedes labels).
+
+### Upgrade Note (v1.4)
+
+Option F in LEARN mode now triggers SCHOLAR file integration pathways:
+- Response includes 6–10 word recap + fuller synthesis paragraph (<100 words)
+- Integration pathways presented as offers: draft SYNTHESIS entry, propose RLL, evaluate doctrine proposal
+- User must explicitly choose to proceed; no auto-execution
+- Omit integration pathways if session lacked substantive learning
 
 ### Upgrade Note (v1.3)
 
@@ -73,7 +114,7 @@ OGE generates options, not conclusions.
 
 **Alignment.** The same source governs both option phrasing and response content. Options and responses are coherent because they share the MIND file as origin.
 
-**User may manually interject.** Options are a scaffold, not a cage. The user may type any question, instruction, or command instead of selecting A–F. The system MUST accept free-form input and respond to it as a directive. OGE optimizes optionality; it does not restrict it.
+**User may manually interject.** Options are a scaffold, not a cage. The user may type any question, instruction, or command instead of selecting A–H. The system MUST accept free-form input and respond to it as a directive. OGE optimizes optionality; it does not restrict it.
 
 ### Free-Form Command Mapping
 
@@ -84,7 +125,7 @@ Treat natural-language variants of option types as valid directives. Common mapp
 | "Apply Mearsheimer" / "Mearsheimer lens" / "Structural view" | Option B | Mearsheimer analysis |
 | "Barnes on this" / "Apply Barnes" / "Who's liable?" | Option C | Triggers POST-BARNES; next OGE includes M/M response options |
 | "Apply Mercouris" / "Legitimacy angle" | Option A | Mercouris analysis |
-| "Synthesize" / "Summarize the session" | Option F | 6–10 word recap |
+| "Synthesize" / "Summarize the session" | Option H | 6–10 word recap + synthesis |
 | "Load MEM–X" / "Open MEM–PERSIA–GEO–CASPIAN" | Navigation | Explicit file load |
 | "Compare to [civ/event]" | D or E | Cross-civilization or time/space navigation |
 | "Continue" / "Go deeper" / "Elaborate" | Extension | Continue current thread |
@@ -208,19 +249,70 @@ The system MUST accept these as directives and respond appropriately. OGE option
 ## Standardized First Three Options (v1.2)
 
 **A, B, C are fixed in every OGE menu:**
-- **A** — Mercouris (elaborate / continue / respond when another MIND just spoke)
-- **B** — Mearsheimer (structural sharpening / power analysis)
-- **C** — Barnes (liability catalyst / mechanism exposure)
+- **A** — Mercouris (CIV–MIND–MERCOURIS)
+- **B** — Mearsheimer (CIV–MIND–MEARSHEIMER)
+- **C** — Barnes (CIV–MIND–BARNES)
 
-Options D, E, F (and beyond) are context-specific (continuation, connection-derived, synthesis, etc.).
+**Options A, B, C — Response Format (BINDING · v1.8):**
+When A, B, or C is selected: (1) **MIND load:** Load the designated MIND file; response MUST satisfy voice and lens requirements therein. (2) **Response format:**
+
+| Option | MIND | Response | Frame | Register |
+|--------|------|----------|-------|----------|
+| **A** | CIV–MIND–MERCOURIS | 100–200 words | Legitimacy/civilizational; institutional continuity | Hedged (It seems to me...; Perhaps...) |
+| **B** | CIV–MIND–MEARSHEIMER | 100–200 words | Structural/power; force ratios; incentive structure | Direct (The fact is...; minimal hedging) |
+| **C** | CIV–MIND–BARNES | 100–200 words | Liability/mechanism; constraint hierarchy; exposure | Blunt, sardonic; full Barnes fingerprint |
+
+Authority: MIND files are canonical. Governance references them; does not duplicate. Violation: voice bleed (e.g. Mercouris using "The fact is") or frame mismatch.
+
+**Historical anchor (A, B, C, D, E, F, G responses):** MUST cite at least one named person, place, or event. MEM preferred; web search when no related MEM. Minimal format: "(e.g. Peter/Petersburg 1703)". Exceptions: short confirmations, H recap, user skip, no source found. See cmc-scholar-mode.
+
+Options D, E, F, G, H are context-specific. **Exactly 8 options** (A–H) in LEARN mode.
 
 **POST-BARNES:** After Barnes interjection, A and B shift: "Mercouris responds to Barnes", "Mearsheimer responds to Barnes". Slots stay fixed; phrasing is contextual.
 
-**D, E, F standardized:**
-- **D, E** — MEM connection–informed; time/space navigation (trace connection, move to era or region)
-- **F** — 6–10 word summary/recap/encapsulation of the session up to that point; session-specific. Functions as optional stopping: user may "cash out" with synthesis at any point.
+**D, E, F, G, H standardized (v1.9):**
+- **D** — Multi-mind response (BINDING format · v1.7). Option text: 6–10 words, context-specific. **Response format when D selected:** (1) Mercouris 1–2 sentences; (2) Mearsheimer 1–2 sentences responding to Mercouris; (3) Barnes 1–2 sentences responding to either/both; (4) Mercouris 1–2 sentences wrap-up. Total: ~6–10 sentences.
+- **E** — Traverse backward in time. **Response format:** Build response on relevant same-civilization MEM file (earlier era). Load traversed-to MEM; response scaffolds from its content; 100–200 words; historical anchor from MEM.
+- **F** — Traverse forward in time. **Response format:** Build response on relevant same-civilization MEM file (later era). Load traversed-to MEM; response scaffolds from its content; 100–200 words; historical anchor from MEM.
+- **G** — Traverse to different civilization. **Response format:** Build response on relevant cross-civilization MEM file. Load traversed-to MEM; response scaffolds from its content; 100–200 words; historical anchor from MEM.
+- **H** — Synthesis (top-level). 6–10 word recap + synthesis paragraph + follow-on options (b, c, a). Functions as optional stopping: user may "cash out" with synthesis at any point.
 
-**OGE response length:** When user selects an OGE option (a–f), response = 100-200 words. Shorter response reduces cognitive load, preserves context window, and avoids truncation. Free-form user input retains 200-400 target, 500 max.
+**Option H — Synthesis (top-level):** Option H = Synthesis. Knowledge and understanding from the Scholar LEARN session are synthesized into the SCHOLAR file. The protocol specifies the **size of change**; the system designs the **optimal specific implementation** to meet the requirement.
+
+**Synthesis implementation options (size/risk-based · BINDING · v1.6):**
+
+| Option | Size | Protocol requirement | System designs |
+|--------|------|----------------------|----------------|
+| **(a)** | No change | Recap only; nothing written to Scholar | Return to standard OGE |
+| **(b)** | Small incremental (low-risk) | Creates structured state with behavioral effect. Minimum: at least one named draft item + explicit elevation path. | Session entry, draft synthesis/pending pattern, etc. Output must be discoverable in subsequent LEARN sessions |
+| **(c)** | Bigger change | Formal SYNTHESIS block, RLL proposal, doctrine candidate | Assumptions Box, ACH, Confidence; RLL in PROPOSED; doctrine candidate. RLL = always (c). (c) doctrine path may require WRITE mode |
+
+**Option order:** Present **(b), (c), (a)** — do-something options first, exit last.
+
+**H in LEARN mode — SCHOLAR file integration (v1.6, v1.9):**
+When user selects H in LEARN mode, the response MUST:
+1. Deliver the 6–10 word session recap
+2. Provide a fuller synthesis paragraph (<100 words) encapsulating patterns, tensions, and anchor points from the session
+3. **Advisory guidance (optional):** Scholar may suggest (b) vs (c) based on session: "Session suggests (b) — draft pattern ready" or "Session suggests (c) — RLL warranted"
+4. Present exactly **three follow-on options** in order **(b), (c), (a)**:
+   - **b)** Small incremental — Create structured state (named draft + elevation path)
+   - **c)** Bigger change — Formal SYNTHESIS, RLL proposal, or doctrine candidate
+   - **a)** No change — Recap only; return to standard OGE
+
+**Execution:**
+- **(a):** Return to standard 8-option OGE (A–H). Synthesis is a checkpoint, not session end.
+- **(b):** Execute; produce at least one named draft + explicit elevation path. **Explicit feedback:** Confirm what was created and elevation path ("Added draft [X]. Elevation path: propose as RLL in future (c)."). Return to standard OGE. **Escalation prompt:** Offer one-off "Elevate to (c) now?"
+- **(c):** For doctrine path, note WRITE mode may be required. **Confirmation (implementation):** System MAY preview before write ("I will add: RLL-0033 draft... Proceed?"). Execute; return to standard OGE.
+
+**Return path:** After (a), (b), or (c), user always returns to standard OGE. Synthesis is a checkpoint; session may continue.
+
+**Cross-session discovery (MANDATORY):** Pending (b) output MUST be discoverable in subsequent LEARN sessions. Context loading must include pending drafts; OGE MAY offer "Continue from pending draft [X]" or "Elevate draft to RLL" as options.
+
+If session lacked substantive learning, deliver recap only; omit or disable (b) and (c).
+
+**Legacy OP–RECURSE–* mapping (reference):** (a) = OP–RECURSE–NONE; (b) = small incremental structured state; (c) = OP–RECURSE–SYNTHESIS / OP–RECURSE–RLL / OP–RECURSE–DOCTRINE.
+
+**OGE response length:** When user selects an OGE option (a–h), response = 100-200 words. Shorter response reduces cognitive load, preserves context window, and avoids truncation. Exception: H in LEARN — 300–400 target. Free-form user input retains 200-400 target, 500 max.
 
 **OGE style:**
 - 6–10 words per option; specific preview of next response
@@ -251,17 +343,19 @@ OGE-generated options MAY NOT:
 
 ### Presentation Format
 
-All options MUST follow this format:
+All options MUST follow this format (8 options in LEARN mode):
 ```
 Options (6–10 words each; specific preview; time/space navigation):
 a) [Mercouris: legitimacy/civilizational preview of next response]
 b) [Mearsheimer: structure/power preview]
 c) [Barnes: liability/mechanism preview]
-d) [Trace connection—move through MEM graph in time or space]
-e) [Another connection path—era, region, or corridor]
-f) [6–10 word session recap—summary of what has been covered]
+d) [Multi-mind response on topic X—triggers 4-part format: M → M' → B → M wrap-up]
+e) [Traverse backward in time—build on earlier same-civ MEM]
+f) [Traverse forward in time—build on later same-civ MEM]
+g) [Traverse to different civilization—build on cross-civ MEM]
+h) [6–10 word session recap—synthesis + follow-on options]
 
-Type a letter (a–f) to select, or type any question/instruction—manual interjection always permitted.
+Type a letter (a–h) to select, or type any question/instruction—manual interjection always permitted.
 ```
 
 ### Persistence

@@ -4,7 +4,7 @@ Phase-Aware Template v2.0 Compliance · Legitimacy-First Sovereignty
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
 Supersedes: CIV–CORE–ROME v1.9
-Template Version Used: CIV–CORE–TEMPLATE v2.0
+Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governed by: CIV–MEM–CORE v3.0
 Upgrade Type: MAJOR · TEMPLATE ALIGNMENT + LEGACY MIRROR REMOVAL
@@ -29,7 +29,7 @@ STRUCTURAL CHANGES:
 • Added Civilization Phase declaration: PHASE I — FOUNDATION
 • Fixed typo: "GOVERNANAD" → "GOVERNANCE" (Section X)
 • Removed embedded CIV–MEM–TEMPLATE v2.5 mirror (374 lines)
-• Replaced with canonical pointer to CIV–MEM–TEMPLATE v2.8
+• Replaced with canonical pointer to CIV–MEM–TEMPLATE v3.0
 • Deprecated legacy OGE references (LOGE/TOGE → unified OGE)
 • Consolidated Pedagogical Interface section
 
@@ -680,7 +680,7 @@ This version is EXPORT-READY.
 XXVI. TEMPLATE REFERENCE (CANONICAL POINTER)
 ────────────────────────────────────────────────────────────
 CANONICAL REFERENCE:
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–TEMPLATE v3.0
 • Location: docs/templates/CIV–MEM–TEMPLATE.md
 
 Embedded legacy mirrors are archival only and non-operative.

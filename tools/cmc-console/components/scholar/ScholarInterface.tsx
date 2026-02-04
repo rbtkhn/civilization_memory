@@ -136,47 +136,61 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
     const memFile = loadedMemFiles.length > 0 ? loadedMemFiles[loadedMemFiles.length - 1] : null;
     const memFileName = memFile ? memFile.path.split('/').pop() || memFile.path : null;
     const add = (letter: string, text: string) => contextOptions.push({ letter, text });
-    // D, E = time/space navigation; F = 6–10 word session recap. 6–10 words for D, E.
+    // D = multi-mind; E = traverse backward; F = traverse forward; G = traverse cross-civ; H = synthesis recap. 8 options (A–H).
     if (mode === 'IMAGINE') {
       if (memFile) {
-        add('d', 'Trace MEM graph to linked era or region.');
-        add('e', 'Another MEM path across time or space.');
-        add('f', 'Recap session in 6–10 words.');
+        add('d', 'Multi-mind response on current topic.');
+        add('e', 'Traverse backward in time (earlier MEM).');
+        add('f', 'Traverse forward in time (later MEM).');
+        add('g', 'Traverse to different civilization.');
+        add('h', 'Recap session in 6–10 words.');
       } else {
-        add('d', 'Load a MEM file to visualize and navigate.');
-        add('e', 'List available MEM files across civilizations.');
-        add('f', 'Recap session in 6–10 words.');
+        add('d', 'Multi-mind response.');
+        add('e', 'Load a MEM file to traverse.');
+        add('f', 'Another MEM path.');
+        add('g', 'List MEM files across civilizations.');
+        add('h', 'Recap session in 6–10 words.');
       }
     } else if (mode === 'LEARN') {
       if (isAuditResponse && isNonCompliant && memFile) {
-        add('d', `Trace ${memFileName} links to era or region.`);
-        add('e', 'Move to another era or region through the connection graph.');
-        add('f', 'Recap session in 6–10 words.');
+        add('d', `Multi-mind on ${memFileName}.`);
+        add('e', `Traverse backward from ${memFileName} (earlier same-civ MEM).`);
+        add('f', `Traverse forward from ${memFileName} (later same-civ MEM).`);
+        add('g', `Traverse cross-civ from ${memFileName}.`);
+        add('h', 'Recap session in 6–10 words.');
       } else if (memFile) {
-        add('d', `Trace ${memFileName} links to era or region.`);
-        add('e', 'Shift to another MEM along the connection graph.');
-        add('f', 'Recap session in 6–10 words.');
+        add('d', `Multi-mind on ${memFileName}.`);
+        add('e', `Traverse backward from ${memFileName} (earlier same-civ MEM).`);
+        add('f', `Traverse forward from ${memFileName} (later same-civ MEM).`);
+        add('g', `Traverse cross-civ from ${memFileName}.`);
+        add('h', 'Recap session in 6–10 words.');
       } else {
-        add('d', 'Load a MEM file to begin navigation.');
-        add('e', 'List MEM files across civilizations and eras.');
-        add('f', 'Recap session in 6–10 words.');
+        add('d', 'Multi-mind response.');
+        add('e', 'Load a MEM file to begin traversal.');
+        add('f', 'Another MEM path.');
+        add('g', 'List MEM files across civilizations.');
+        add('h', 'Recap session in 6–10 words.');
       }
     } else if (mode === 'WRITE') {
       if (memFile) {
         add('d', `Trace ${memFileName}—explore graph.`);
         add('e', 'Add or refine MEM connections (≥10, ≥2 GEO).');
-        add('f', 'Recap session in 6–10 words.');
+        add('f', 'Another modification path.');
+        add('g', 'Create a new MEM file.');
+        add('h', 'Recap session in 6–10 words.');
       } else {
         add('d', 'Load a MEM file to modify.');
         add('e', 'Create a new MEM file.');
-        add('f', 'Recap session in 6–10 words.');
+        add('f', 'List available MEM files.');
+        add('g', 'Explore governance templates.');
+        add('h', 'Recap session in 6–10 words.');
       }
     }
     return contextOptions;
   }, []);
 
   /**
-   * Generate full OGE options: A/B/C fixed (Mercouris, Mearsheimer, Barnes) + D/E/F context-specific
+   * Generate full OGE options: A/B/C fixed (Mercouris, Mearsheimer, Barnes) + D/E/F/G/H context-specific (8 options)
    */
   const generateContextualOptions = useCallback((
     response: string,
@@ -1169,7 +1183,7 @@ export default function ScholarInterface({ mode, scholarContent, loadedMemFiles 
             onKeyDown={handleKeyDown}
             placeholder={
               mode === 'IMAGINE' 
-                ? 'Type a letter (a–f) to select, or enter any question/instruction'
+                ? 'Type a letter (a–h) to select, or enter any question/instruction'
                 : `Enter your ${mode.toLowerCase()} request...`
             }
             disabled={isProcessing}

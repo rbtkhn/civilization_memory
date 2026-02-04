@@ -135,7 +135,7 @@ Section XIII: CANONICAL vs EPHEMERAL layers defined. COMPLIANT.
 
 ### 2.9 OGE IN LEARN MODE (Template § XI · MANDATORY)
 
-Section XIV: 6 options, 6–10 words, Mearsheimer/Barnes, connection-derived, POST-BARNES. References cmc-oge-enforcement, OGE_ARCHITECTURE. COMPLIANT.
+Section XIV: 8 options (A–H), 6–10 words, Mearsheimer/Barnes, E/F/G traverse, H synthesis, POST-BARNES. References cmc-oge-enforcement, OGE_ARCHITECTURE. COMPLIANT.
 
 ### 2.10 CONTEXT LOADING PROTOCOLS (Template § XIII · MANDATORY)
 

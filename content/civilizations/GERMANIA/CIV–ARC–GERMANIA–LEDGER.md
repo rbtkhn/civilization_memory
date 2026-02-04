@@ -3,7 +3,7 @@ Civilizational Memory Codex · Source Registry & Citation Ledger
 Consolidated Bibliography with Citation Frequency
 
 Status: ACTIVE · CANONICAL · DERIVED
-Governance: CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8
+Governance: CIV–ARC–TEMPLATE v3.0 · CIV–MEM–TEMPLATE v3.0
 Scope: Aggregated source registry for GERMANIA corpus
 Last Generated: January 2026
 

@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
 Version: v2.0
 Supersedes: CIV–CORE–PERSIA V1.0
 Upgrade Type: Template compliance · Header alignment · Typo correction
-Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
+Template Version Used: CIV–CORE–TEMPLATE v3.0 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Governed by: CIV–MEM–CORE v3.0
 ARC Reference: CIV–ARC–PERSIA v2.0

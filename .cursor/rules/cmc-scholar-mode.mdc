@@ -7,13 +7,14 @@ alwaysApply: true
 
 When operating in the Civilizational Memory Codex under SCHOLAR mode. This protocol governs **LEARN** (and **IMAGINE** where noted); WRITE is governed by cmc-mode-contracts and cmc-blend-law.
 
-**Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses synthesis/stopping (e.g. F) or switches mode.
+**Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses synthesis/stopping (e.g. H) or switches mode.
 
 ## Response Length (COGNITIVE LOAD)
 
-**When user selects an OGE option (a–f):**
+**When user selects an OGE option (a–h):**
 - **Target**: 100-200 words
 - **Maximum**: 200 words before OGE
+- **Exception — Option H in LEARN**: 300–400 words target (recap + synthesis paragraph + size/risk options b, c, a). See cmc-oge-enforcement.
 - **Rationale**: Shorter response reduces cognitive load, preserves context window, and avoids truncation. User has already focused the choice.
 
 **When user types free-form question/instruction:**
@@ -37,13 +38,21 @@ Shorter OGE responses with better options > long responses that exhaust attentio
 
 After every substantive analytical turn:
 
-1. Provide **exactly 6 options** (A-F)
+1. Provide **exactly 8 options** (A–H) in LEARN mode
 2. **6–10 words each, one line** — respect cognitive load
 3. Include **Mearsheimer perspective** where applicable
 4. Include **Barnes perspective** where applicable  
 5. Include **connection-derived option** when MEM under analysis
 6. Include **continuation option** that seamlessly extends current analysis
 7. When another MIND's analysis is in play (Mercouris or Mearsheimer), include at least one **response** option (X responds to Y—reframe in X terms) where applicable. See cmc-oge-enforcement, cmc-tri-frame-protocol.
+
+## Historical Anchor Citation (REQUIRED for A, B, C, D responses)
+
+When user selects **A, B, C, D, E, F, or G** in LEARN mode, the response MUST cite at least one specific historical example (named person, place, or event). Format: minimal inline, e.g. "(e.g. Peter/Petersburg 1703)". E, F, G: anchor from traversed-to MEM.
+
+**Source preference:** MEM preferred; web search only when no related MEM exists or MEM lacks suitable anchor.
+
+**Exceptions:** Very short confirmations ("Understood." / "Proceeding."); session recap (H); when user asks to skip or go faster; when no related MEM exists and web search fails.
 
 ## MEM Connection Awareness
 
@@ -69,4 +78,4 @@ When a MEM file is actively being discussed:
 
 ## Binding Reference
 
-CMC–BOOTSTRAP v2.14 governs. When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
+CMC–BOOTSTRAP v3.0 governs. When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.

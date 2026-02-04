@@ -96,7 +96,7 @@ ANGLIA uses ledger-centric section order (I–XXI: Purpose, Initial State, Inges
 
 - **Rule:** "OGE specification MUST be embedded in every SCHOLAR file." "6-option format with content requirements."
 - **ANGLIA:** No embedded OGE specification (no 6-option format, no INGESTION/EXPLORATION/ANALYSIS/SYNTHESIS/TRANSITION/OBSERVATION categories or equivalent).
-- **Action:** Add an "OGE — LEARN MODE" (or equivalent) section embedding the 6-option OGE specification per Template XI and CMC–BOOTSTRAP (6 options, M+B, connection-derived when MEM active, continuation option).
+- **Action:** Add an "OGE — LEARN MODE" (or equivalent) section embedding the 8-option OGE specification per Template XI and CMC–BOOTSTRAP (8 options A–H, M+B, E/F/G traverse, H synthesis).
 
 **3. Confidence tier (Template XIV.C — MANDATORY for SYNTHESIS)**
 
@@ -122,7 +122,7 @@ ANGLIA uses ledger-centric section order (I–XXI: Purpose, Initial State, Inges
 
 ### CIV–SCHOLAR–ANGLIA
 1. **High:** Add Assumptions Box to SYNTHESIS 0002, 0003, 0010, 0013 (≥3 assumptions each; linchpin status; format per Template XIV.A).
-2. **High:** Embed OGE specification in SCHOLAR file (new section or subsection: 6 options, M+B, connection-derived option, continuation option; categories per Template XI).
+2. **High:** Embed OGE specification in SCHOLAR file (new section or subsection: 8 options A–H, M+B, E/F/G traverse, H synthesis; categories per Template XI).
 3. **High:** Add Confidence tier to status block of each frozen SYNTHESIS (TIER 1–4 per XIV.C).
 4. **Medium:** Extend VIII (Current Status) to full count-tracking format (learning entries, frozen syntheses, bound RLLs, proposed RLLs) if desired for Phase II readiness.
 5. **Conditional:** For any frozen SYNTHESIS where alternatives were evaluated, add ACH Record per Template XIV.B.

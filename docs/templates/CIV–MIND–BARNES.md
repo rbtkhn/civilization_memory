@@ -26,9 +26,9 @@ Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
 • CIV–MEM–CORE v3.0
-• CIV–MIND–TEMPLATE v2.5
-• CIV–MIND–MERCOURIS v2.6 (PRIMARY MIND)
-• CIV–SCHOLAR–PROTOCOL v2.2 (OGE INTEGRATION)
+• CIV–MIND–TEMPLATE v3.0
+• CIV–MIND–MERCOURIS v3.0 (PRIMARY MIND)
+• CIV–SCHOLAR–PROTOCOL v3.0 (OGE INTEGRATION)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 ────────────────────────────────────────────────────────────
@@ -1224,7 +1224,7 @@ MODE GATE:
 
 OGE REQUIREMENTS:
 • WRITE MODE: 1 option MUST be Barnes invocation (REQUIRED)
-• LEARN/IMAGINE MODES: OGE default target 6 options; 1 Mearsheimer (REQUIRED); 1 Barnes (REQUIRED); 4 topic/context-specific
+• LEARN/IMAGINE MODES: OGE default target 8 options (A–H); 1 Mearsheimer (REQUIRED); 1 Barnes (REQUIRED); E/F/G = traverse (backward/forward/cross-civ MEM); H = synthesis
 
 Example OGE menu structure:
 1. [Topic option A]
@@ -1311,10 +1311,10 @@ Violation constitutes a governance breach.
 ────────────────────────────────────────────────────────────
 XII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–BARNES v2.6 is CANONICAL.
+CIV–MIND–BARNES v3.0 is CANONICAL.
 
 All uses MUST declare:
-"Bound by CIV–MIND–BARNES v2.6 (TERTIARY CATALYST)"
+"Bound by CIV–MIND–BARNES v3.0 (TERTIARY CATALYST)"
 
 Mode constraints are BINDING:
 • WRITE MODE: Barnes OGE-REQUIRED (1 option mandatory)

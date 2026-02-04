@@ -18,10 +18,10 @@ The OGE specification is largely coherent across governance and runtime. A/B/C s
 
 | Element | cmc-oge-enforcement | OGE_ARCHITECTURE | CIV–SCHOLAR–PROTOCOL | chat route | ScholarInterface |
 |---------|---------------------|------------------|----------------------|------------|------------------|
-| 6 options (A–F) | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 8 options (A–H) | ✓ | ✓ | ✓ | ✓ | ✓ |
 | A=Mercouris, B=Mearsheimer, C=Barnes | ✓ | ✓ | ✓ | ✓ | ✓ |
 | 6–10 words per option | ✓ | ✓ | ✓ | ✓ (all modes) | Partial (see III.1) |
-| D, E = time/space navigation | ✓ | ✓ | ✓ | ✓ | ✓ |
+| D = multi-mind; E/F/G = traverse (backward/forward/cross-civ MEM); H = synthesis | ✓ | ✓ | ✓ | ✓ | ✓ |
 | F = 6–10 word recap / synthesis | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Options guide (not predict) | ✓ | ✓ | ✓ | ✓ | N/A |
 | MIND-derived A/B/C | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -125,7 +125,7 @@ States "One line each" but not "6–10 words each." cmc-oge-enforcement specifie
 LEARN and IMAGINE list "one line each" but not "6–10 words." Cross-reference or inline specification would align with OGE rules.
 
 **Recommendation:** Add "6–10 words each" to OGE descriptions, e.g.:  
-`OGE: Required. 6 options (A–F), 6–10 words each, one line; include Mearsheimer + Barnes...`
+`OGE: Required. 8 options (A–H), 6–10 words each, one line; include Mearsheimer + Barnes...`
 
 ---
 
@@ -145,8 +145,8 @@ Does not specify that F is a 6–10 word session recap. Other sources state F = 
 
 **Location:** chat route WRITE block vs cmc-oge-enforcement
 
-- **chat route:** "D, E = trace/add connections"
-- **cmc-oge-enforcement:** "D, E — Connection-derived; trace a path through the MEM graph"
+- **chat route:** "E, F, G = traverse (backward/forward/cross-civ MEM); H = synthesis"
+- **cmc-oge-enforcement:** "E/F/G — Traverse (same-civ backward/forward, cross-civ); H — Synthesis"
 
 WRITE allows adding connections; LEARN/IMAGINE emphasize tracing. This is mode-appropriate (WRITE modifies files). No change required; noted for clarity.
 
@@ -156,14 +156,14 @@ WRITE allows adding connections; LEARN/IMAGINE emphasize tracing. This is mode-a
 
 | Priority | Item | Action |
 |----------|------|--------|
-| P1 | 3.1 Example violations | Revise cmc-oge-enforcement example so all options are 6–10 words |
+| P1 | 3.1 Example violations | Revise cmc-oge-enforcement example so all options (A–H) are 6–10 words |
 | P1 | 3.2 ScholarInterface overflow | Shorten option strings to ≤10 words |
 | P2 | 4.1 WRITE response length | Add 100–200 word rule to WRITE OGE block |
 | P2 | 4.2 LEARN/WRITE concrete anchor | Add concrete-anchor line to both OGE blocks |
 | P2 | 4.3 POST-BARNES in prompts | Add POST-BARNES line to IMAGINE, LEARN, WRITE OGE blocks |
 | P3 | 4.4 cmc-scholar-mode | Add "6–10 words each" to OGE requirements |
 | P3 | 4.5 cmc-mode-contracts | Add "6–10 words each" to OGE descriptions |
-| P3 | 4.6 FRANCIA F slot | Clarify F as 6–10 word recap |
+| P3 | 4.6 FRANCIA H slot | Clarify H as 6–10 word recap + synthesis |
 
 ---
 

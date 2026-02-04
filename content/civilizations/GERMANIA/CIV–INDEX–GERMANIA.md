@@ -41,7 +41,7 @@ v2.2 changes:
 UPGRADE NOTE (v2.1) — LEGACY MEM TEMPLATE COMPLIANCE
 ────────────────────────────────────────────────────────────
 This version documents the upgrade of 9 legacy MEM–GERMANIA files
-to v2.0 with full CIV–MEM–TEMPLATE v2.8 compliance.
+to v2.0 with full CIV–MEM–TEMPLATE v3.0 compliance.
 
 v2.1 changes:
 • 9 MEM files upgraded to v2.0 (from v1.1–v1.6 range)
@@ -96,7 +96,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–SCHOLAR–GERMANIA — v2.12
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
-  Template Version Used: CIV–SCHOLAR–TEMPLATE v2.10
+  Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 
 • CIV–DOCTRINE–GERMANIA — v2.0
   Status: ACTIVE · CANONICAL · LOCKED

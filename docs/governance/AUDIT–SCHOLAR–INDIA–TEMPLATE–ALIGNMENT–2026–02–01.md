@@ -57,7 +57,7 @@
 | VIII | VIII | Snapshot Class | ✓ | Naming and properties stated |
 | IX | IX | Communication Register & Voice | ✓ | Mercouris primary; M+B invocation; audit commands § IX.C–E |
 | X | X | Ephemeral Observation Layer | ✓ | Canonical vs Ephemeral; layer indicators |
-| XI | XI | OGE Specification | ✓ | 6 options; M+B; POST-BARNES M/M; connection-derived; continuation |
+| XI | XI | OGE Specification | ✓ | 8 options (A–H); M+B; POST-BARNES M/M; E/F/G traverse; H synthesis |
 | XII | XII | Versioning & Governance | ✓ | Additive only; count tracking → § XXI |
 | XIII | XIII | Context Loading Protocols | ✓ | ARC, CORE, LEARN minimal; Template § XIII.A–D |
 | XIV | XIV | Synthesis Tradecraft | ✓ | Assumptions Box, Confidence tier, ACH when alternatives; applies at freeze |
@@ -106,7 +106,7 @@
 
 | Requirement | CIV–SCHOLAR–INDIA | Status |
 |-------------|--------------------|--------|
-| OGE specification embedded | § XI: "Exactly 6 options (A–F) per substantive turn; one line each" | ✓ |
+| OGE specification embedded | § XI: "Exactly 8 options (A–H) per substantive turn; one line each" | ✓ |
 | Mearsheimer perspective | "Include Mearsheimer and Barnes perspective where applicable" | ✓ |
 | Barnes perspective | Same | ✓ |
 | POST-BARNES response options | "POST-BARNES: next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes" | ✓ |

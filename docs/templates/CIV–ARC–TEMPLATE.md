@@ -39,7 +39,7 @@ This version simplifies ARC to focus on its UNIQUE governance functions:
 2. TEMPORAL PRECEDENCE — Ancient testimony overrides modern interpretation
 3. DISCOVERY FRAMEWORK — How to expand beyond listed authors
 
-REMOVED (now governed by CIV–MEM–TEMPLATE v2.8):
+REMOVED (now governed by CIV–MEM–TEMPLATE v3.0):
 • Quotation quantity requirements (see MEM-TEMPLATE VIII)
 • Quotation quality standards (see MEM-TEMPLATE VI: EQS)
 • Minimum word counts (see MEM-TEMPLATE VIII.A)

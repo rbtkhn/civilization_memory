@@ -311,10 +311,10 @@ MIND–[NAME] (e.g., MIND–MERCOURIS, CIV–MIND–MEARSHEIMER)
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–TEMPLATE v2.5 is CANONICAL.
+CIV–MIND–TEMPLATE v3.0 is CANONICAL.
 
 All MIND profiles MUST declare:
-"Governed by CIV–MIND–TEMPLATE v2.5"
+"Governed by CIV–MIND–TEMPLATE v3.0"
 
 Future versions may:
 • Add governance clarification

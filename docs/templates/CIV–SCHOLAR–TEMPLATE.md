@@ -1028,10 +1028,11 @@ LEARN OGE CATEGORIES:
 
 OGE FORMAT CONSTRAINTS (per OGE_ARCHITECTURE v1.3, cmc-oge-enforcement):
 • 6–10 words per option; specific preview of next response; MIND-shaped
-• A=Mercouris, B=Mearsheimer, C=Barnes (fixed); D/E = MEM connection–informed, time/space navigation; F = 6–10 word session recap
+• A=Mercouris, B=Mearsheimer, C=Barnes (fixed; when selected, load MIND; response 100–200 words, frame/voice per MIND); D = multi-mind (4-part: M→M'→B→M wrap-up); E = traverse backward (same-civ MEM); F = traverse forward (same-civ MEM); G = traverse cross-civ (cross-civ MEM); H = 6–10 word recap + synthesis + follow-on. 8 options (A–H) in LEARN mode.
 • Each option MUST include at least one concrete anchor (person, place, or event)
 • Options guide (not predict) creation of next response; derived from MIND files
 • OGE option response: 100–200 words. Free-form: 200–400 target, 500 max. See cmc-oge-enforcement.
+• Historical anchor (A/B/C/D/E/F/G responses): MUST cite at least one named person, place, or event; MEM preferred, web if no MEM; E/F/G: anchor from traversed-to MEM; minimal format "(e.g. Peter/Petersburg 1703)"; exceptions: short confirmations, H recap, user skip, no source found.
 
 LEARN OGE answers:
 “What would you like me to investigate next?”
@@ -1121,7 +1122,7 @@ CIV–ARC–[CIV] MUST be loaded (pre-loaded or on-demand) when:
 
 AUTOMATIC TRIGGERS:
 1. Creating GEO–MEM files
-   (4 ARC-T sections REQUIRED per CIV–MEM–TEMPLATE v2.8)
+   (4 ARC-T sections REQUIRED per CIV–MEM–TEMPLATE v3.0)
 2. Writing content requiring civilizational grammar quotes
    (ARC provides Mercouris voice anchors)
 3. Cross-temporal analysis spanning multiple historical periods
@@ -1144,6 +1145,29 @@ LEARN MODE (Minimal):
 • CIV–SCHOLAR–[CIV] only
 • Target MEM files as needed
 • On-demand access to all other files
+
+XIII.D PENDING SYNTHESIS DISCOVERY PROTOCOL (MANDATORY · OGE v1.6)
+──────────────────────────────────────────────────────────────────
+Pending (b) output — draft synthesis, pending patterns, or other structured state
+created by "small incremental" synthesis — MUST be discoverable in subsequent
+LEARN sessions.
+
+AUTOMATIC TRIGGERS:
+1. LEARN mode session startup
+   (Check VERSIONING & FUTURE UPGRADES, DRAFT/PENDING sections, PROPOSED RLLs
+   with draft status for unresolved drafts)
+2. When presenting OGE options in LEARN mode
+   (MAY offer "Continue from pending draft [X]" or "Elevate draft to RLL" as
+   D or E option when pending items exist)
+
+LOADING BEHAVIOR:
+• On session startup: Include pending drafts in context or announce availability
+• Pending items = Session entries with draft synthesis, PROPOSED RLLs not yet
+  bound, or other structured state with explicit elevation path
+
+CROSS-SESSION BEHAVIORAL EFFECT:
+Pending (b) output has behavioral effect when subsequent sessions can act on it.
+Failure to load or surface pending drafts violates OGE_ARCHITECTURE v1.6.
 
 WRITE MODE — Edit Existing MEM:
 • CIV–SCHOLAR–[CIV]
@@ -1171,7 +1195,7 @@ WRITE MODE — Full Governance:
 • CIV–DOCTRINE–[CIV]
 • CIV–CORE–[CIV] (if editing CORE)
 
-XIII.D ON-DEMAND LOADING BEHAVIOR (BINDING)
+XIII.E ON-DEMAND LOADING BEHAVIOR (BINDING)
 ────────────────────────────────────────────────────────────
 When a trigger condition is detected and the required file is
 not pre-loaded, the LLM MUST:

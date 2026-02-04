@@ -107,7 +107,7 @@ XI. OGE SPECIFICATION (EMBEDDED)
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § XI.A)
 
-LEARN mode uses OGE to direct discovery. **Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE. Exactly 6 options (A–F) per substantive turn; 6–10 words each, one line; concrete anchor (person, place, or event) per option. Include Mearsheimer and Barnes perspective where applicable; connection-derived option when MEM under analysis; continuation option. When another MIND has given analysis: include response option (X responds to Y—reframe). POST-BARNES: next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes. Categories: Ingestion, Exploration, Analysis, Synthesis, Transition, Observation.
+LEARN mode uses OGE to direct discovery. **Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE. Exactly 8 options (A–H) per substantive turn; 6–10 words each, one line; concrete anchor per option. A/B/C: load MIND when selected; response 100–200 words, frame/voice per MIND. D: multi-mind (M→M'→B→M wrap-up). E: traverse backward (same-civ MEM); F: traverse forward (same-civ MEM); G: traverse cross-civ (cross-civ MEM). H: synthesis + recap + follow-on (b)/(c)/(a). POST-BARNES: M/M response options. Categories: Ingestion, Exploration, Analysis, Synthesis, Transition, Observation.
 
 ────────────────────────────────────────────────────────────
 XII. VERSIONING & GOVERNANCE
@@ -668,7 +668,7 @@ LEARN OGE CATEGORIES:
 6. OBSERVATION OPTIONS — Ephemeral observation, anomaly flag, candidate RLL staging
 
 OGE REQUIREMENTS (per CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL):
-• Exactly 6 options (A–F) per substantive analytical turn; 6–10 words each; concrete anchor (person, place, or event) per option
+• Exactly 8 options (A–H) per substantive analytical turn; 6–10 words each; concrete anchor per option
 • Include Mearsheimer perspective where applicable (structural, force-ratio, chokepoint, power distribution)
 • Include Barnes perspective where applicable (liability, defection, mechanism exposure)
 • When a MEM is under analysis: ≥1 connection-derived option (traversal to connected MEM, gap if missing, comparison via connection)

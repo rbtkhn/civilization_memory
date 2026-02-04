@@ -73,7 +73,7 @@ constraints from CIV–INDEX–TEMPLATE v1.7.
 v1.8 introduces the following ADDITIVE alignment fixes:
 
 • Explicit compatibility declaration for current template versions
-  (CIV–MEM–TEMPLATE v2.8+, CIV–SCHOLAR–TEMPLATE v2.10)
+  (CIV–MEM–TEMPLATE v3.0, CIV–SCHOLAR–TEMPLATE v3.0)
 • Removed implicit governance law references (consolidated under CIV–MEM–CORE)
 • Clarified Section III: derived file structure vs. template structure
 • Removed stale "NEW" marker from ARC section (introduced in v1.6)

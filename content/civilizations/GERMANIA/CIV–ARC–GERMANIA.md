@@ -51,7 +51,7 @@ v2.2 changes:
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0) — STRUCTURAL ALIGNMENT
 ────────────────────────────────────────────────────────────
-This version aligns CIV–ARC–GERMANIA with CIV–ARC–TEMPLATE v2.7.
+This version aligns CIV–ARC–GERMANIA with CIV–ARC–TEMPLATE v3.0.
 
 v2.0 changes:
 • Added UPGRADE NOTE section per template structure

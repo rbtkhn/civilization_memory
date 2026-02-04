@@ -120,7 +120,7 @@ v1.0 establishes:
 • Core author admissibility lists across all four temporal periods
 • Temporal precedence rule (immutable)
 • Discovery framework for source expansion
-• Governance alignment with CIV–ARC–TEMPLATE v2.7
+• Governance alignment with CIV–ARC–TEMPLATE v3.0
 
 Creation context:
 • SCHOLAR–FRANCIA reached v2.0 with 11 entries, 6 syntheses, 5 doctrines

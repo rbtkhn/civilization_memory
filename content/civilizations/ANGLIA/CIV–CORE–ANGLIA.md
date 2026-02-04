@@ -7,7 +7,7 @@ Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
 Version: 2.0
 Supersedes: CIV–CORE–ANGLIA v1.6
 Upgrade Type: TEMPLATE ALIGNMENT · VERSION MILESTONE · REFERENCE FIXES
-Template Version Used: CIV–CORE–TEMPLATE v2.0 (civilization-specific structure: Dynastic at VI; DIB at XIX; Verdict at XXI. Omitted: Technological/Compute Sovereignty as dedicated section.)
+Template Version Used: CIV–CORE–TEMPLATE v3.0 (civilization-specific structure: Dynastic at VI; DIB at XIX; Verdict at XXI. Omitted: Technological/Compute Sovereignty as dedicated section.)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.9+)
 Governed by: CIV–MEM–CORE v3.0
 ARC Reference: CIV–ARC–ANGLIA v2.0

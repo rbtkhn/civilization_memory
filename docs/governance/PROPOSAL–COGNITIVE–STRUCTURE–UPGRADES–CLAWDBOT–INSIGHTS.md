@@ -35,7 +35,7 @@ II. CURRENT STATE (BEFORE UPGRADES)
 | **SCHOLAR layer** | Pattern discovery; LEARN/WRITE/IMAGINE modes; no epistemic authority | CIV–SCHOLAR–PROTOCOL, CIV–SCHOLAR–TEMPLATE |
 | **CORE layer** | Civilizational axioms; constraint binding | CIV–CORE–[CIV] |
 | **MINDs** | Mercouris (primary), Mearsheimer, Barnes (catalyst); voice rules, Blend Law | CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES; cmc-* rules |
-| **OGE** | Option Generation Engine; 6 options (LEARN/IMAGINE); POST–BARNES M/M response options | cmc-oge-enforcement, OGE_ARCHITECTURE |
+| **OGE** | Option Generation Engine; 8 options A–H (LEARN/IMAGINE); POST–BARNES M/M response options | cmc-oge-enforcement, OGE_ARCHITECTURE |
 | **Modes** | WRITE, LEARN, IMAGINE; AUDIT as function | cmc-mode-contracts, CMC–BOOTSTRAP |
 | **INDEX** | Canonical registry of MEM files per civilization | CIV–INDEX–[CIV] |
 | **ARC** | Academic Reference Canon; source eligibility, quotation hierarchy | CIV–ARC–[CIV] |
@@ -66,7 +66,7 @@ OpenClaw keeps one persistent memory whether the user talks via WhatsApp or Tele
    “The MEM graph (MEM files, MEM CONNECTIONS, INDEX, ARC) and the MIND protocol (voice rules, Blend Law, OGE, tri-frame) are **invariant** across modes. WRITE, LEARN, IMAGINE, and AUDIT are **interfaces** to this structure: they differ only in the **contract** (what may be written, what must be returned, what triggers OGE).”
 
 2. **Interface contract table** (new subsection or appendix):  
-   For each of LEARN, WRITE, IMAGINE, AUDIT: (a) permitted operations on MEM graph (read only / read+write); (b) return type (analysis + OGE / MEM text / scenario + OGE / pass-fail + recommendations); (c) OGE requirements (6 options + M+B / 1 Barnes min + POST–BARNES M/M when applicable); (d) voice (Mercouris prose / Mercouris spoken / etc.). No new behavior—only explicit tabulation of existing rules.
+   For each of LEARN, WRITE, IMAGINE, AUDIT: (a) permitted operations on MEM graph (read only / read+write); (b) return type (analysis + OGE / MEM text / scenario + OGE / pass-fail + recommendations); (c) OGE requirements (8 options A–H + M+B / 1 Barnes min + POST–BARNES M/M when applicable); (d) voice (Mercouris prose / Mercouris spoken / etc.). No new behavior—only explicit tabulation of existing rules.
 
 3. **No new files required** for Upgrade 1; only amendments to CMC–BOOTSTRAP and CIV–SCHOLAR–PROTOCOL (and optionally LAYER–INTERACTION–PROTOCOL if “interfaces” are considered part of the pipeline).
 

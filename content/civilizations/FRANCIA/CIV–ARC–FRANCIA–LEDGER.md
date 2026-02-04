@@ -3,7 +3,7 @@ Civilizational Memory Codex · Source Registry & Citation Ledger
 Consolidated Bibliography with Citation Frequency
 
 Status: ACTIVE · CANONICAL · DERIVED
-Governance: CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8
+Governance: CIV–ARC–TEMPLATE v3.0 · CIV–MEM–TEMPLATE v3.0
 Scope: Aggregated source registry for FRANCIA corpus
 Last Generated: January 2026
 
@@ -320,7 +320,7 @@ IX. SINGLE-CITATION SOURCES
 Sources appearing in only one MEM file.
 May indicate specialized topics or underutilization.
 
-Many MEM–FRANCIA files do not yet have explicit MEM BIBLIOGRAPHY sections (v1.0 or pre–template compliance). As the corpus is upgraded to CIV–MEM–TEMPLATE v2.9, single-citation and low-citation sources will be populated from those MEMs. Current single-citation entries are included in ARC–DISCOVERY (above) where flagged.
+Many MEM–FRANCIA files do not yet have explicit MEM BIBLIOGRAPHY sections (v1.0 or pre–template compliance). As the corpus is upgraded to CIV–MEM–TEMPLATE v3.0, single-citation and low-citation sources will be populated from those MEMs. Current single-citation entries are included in ARC–DISCOVERY (above) where flagged.
 
 ────────────────────────────────────────────────────────────
 X. GOVERNANCE & MAINTENANCE

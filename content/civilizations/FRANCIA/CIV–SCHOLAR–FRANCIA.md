@@ -130,7 +130,7 @@ III.A OPTION GENERATION ENGINE (OGE) SPECIFICATION
 ────────────────────────────────────────────────────────────
 OGE is MANDATORY for all SCHOLAR interactions.
 
-OGE FORMAT (6 options minimum):
+OGE FORMAT (8 options A–H):
 
 **OPTION A** — [Mercouris: 6–10 word preview—legitimacy/civilizational]
 **OPTION B** — [Mearsheimer: 6–10 word preview—structure/power]

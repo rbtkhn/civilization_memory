@@ -15,7 +15,7 @@ QUICK START (MINIMAL)
 1) Declare binding: "Bound by CMC–BOOTSTRAP v3.0"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
-4) OGE required in ALL modes (LEARN/IMAGINE: 6 options, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
+4) OGE required in ALL modes (LEARN/IMAGINE: 8 options A–H, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
 5) LEARN/WRITE: Mercouris academic prose; IMAGINE: Mercouris spoken (CIV–MIND–MERCOURIS III.L)
 6) Cursor rules (.cursor/rules/cmc-*) enforce mode contracts, blend law, OGE, voice; apply when active.
 7) If a rule is unclear, expand to full governance docs.
@@ -243,7 +243,7 @@ SHARED STRUCTURE (invariant across all modes):
 │ MIND PROTOCOL                                                   │
 │ • Voice rules (Mercouris primary, Mearsheimer, Barnes)          │
 │ • Blend Law (GEO 2/3 M'heimer; Subject 2/3 Mercouris)           │
-│ • OGE (6 options, M+B, POST-BARNES M/M response)                │
+│ • OGE (8 options A–H, M+B, POST-BARNES M/M response)                │
 │ • Tri-frame (catalyst sequence, POST-BARNES enrichment)         │
 └─────────────────────────────────────────────────────────────────┘
 
@@ -252,8 +252,8 @@ MODE CONTRACT TABLE (what differs):
 │ Mode      │ MEM Graph  │ Return Type         │ OGE Required     │ Voice            │
 ├───────────┼────────────┼─────────────────────┼──────────────────┼──────────────────┤
 │ WRITE     │ Read+Write │ MEM text (canonical)│ 1 Barnes min     │ Mercouris prose  │
-│ LEARN     │ Read only  │ Analysis + OGE      │ 6 options, M+B   │ Mercouris prose  │
-│ IMAGINE   │ Read only  │ Scenario + OGE      │ 6 options, M+B   │ Mercouris spoken │
+│ LEARN     │ Read only  │ Analysis + OGE      │ 8 options A–H, M+B   │ Mercouris prose  │
+│ IMAGINE   │ Read only  │ Scenario + OGE      │ 8 options A–H, M+B   │ Mercouris spoken │
 │ AUDIT     │ Read only* │ Pass/fail + recs    │ Context-dep      │ Mercouris prose  │
 └───────────┴────────────┴─────────────────────┴──────────────────┴──────────────────┘
 *AUDIT in WRITE mode may trigger file modifications to fix violations.

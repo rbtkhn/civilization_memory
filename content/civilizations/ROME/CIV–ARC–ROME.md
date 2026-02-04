@@ -292,7 +292,7 @@ See NAMESPACE–CLARIFICATION v1.0 for full disambiguation.
 ────────────────────────────────────────────────────────────
 IX. WHAT ARC DOES NOT GOVERN
 ────────────────────────────────────────────────────────────
-The following are governed by CIV–MEM–TEMPLATE v2.8, NOT by ARC:
+The following are governed by CIV–MEM–TEMPLATE v3.0, NOT by ARC:
 
 • 20% verbatim quote minimum (MEM-TEMPLATE VIII)
 • Evidence Quality Standards / EQS (MEM-TEMPLATE VI)

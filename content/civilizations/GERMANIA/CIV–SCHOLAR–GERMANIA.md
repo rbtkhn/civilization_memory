@@ -2404,7 +2404,7 @@ COMMUNICATION PROTOCOL (MANDATORY — v2.9+):
 • Output in flowing academic prose (Mercouris style)
 • Bullets and tables: only when user-requested or offered as OGE option
 • OGE required after every substantive analytical turn
-• OGE options: 6–10 words each, one line; six options minimum; concrete anchor per option
+• OGE options: 6–10 words each, one line; eight options (A–H); concrete anchor per option
 • OGE must include Mearsheimer and Barnes perspectives where applicable
 • Failure to maintain protocol requires acknowledgment and correction
 
@@ -2562,7 +2562,7 @@ XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 ────────────────────────────────────────────────────────────
 • CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2
-• CIV–MEM–TEMPLATE v2.8
+• CIV–MEM–TEMPLATE v3.0
 
 For governance, consult canonical templates only.
 

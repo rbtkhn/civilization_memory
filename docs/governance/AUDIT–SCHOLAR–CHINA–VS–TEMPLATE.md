@@ -49,7 +49,7 @@ China adds **XV–XXI** (Initial State; Ingested Learning Events; Belief Synthes
 
 ### 3.1 OGE embedding (Template § XI.A — MANDATORY)
 
-China § XI embeds OGE specification: 6 options (A–F), 6–10 words, concrete anchor, Mearsheimer/Barnes, connection-derived, continuation, POST-BARNES M/M response options. **PASS.**
+China § XI embeds OGE specification: 8 options (A–H), 6–10 words, concrete anchor, Mearsheimer/Barnes, E/F/G traverse, H synthesis, POST-BARNES M/M response options. **PASS.**
 
 ### 3.2 Communication Register & Voice (Template § IX)
 

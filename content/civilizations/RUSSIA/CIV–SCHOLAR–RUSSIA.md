@@ -490,6 +490,43 @@ RLL–RUSSIA–0026 (PROPOSED) — Power Vacuum at Regime Hinge Law
   1917 (Provisional Government vs Soviet vs Bolshevik seizure).
   **Scope**: GENERAL. **Status**: PENDING BINDING.
 
+RLL–RUSSIA–0031 (PROPOSED) — Corridor Headwater Redundancy Law  
+→ Basins or lakes at corridor headwaters provide storage and redundancy
+  that partly offset downstream chokepoint exposure.
+  **Recursive move**: When reading basin–outlet corridor geometry (lake
+  → river → sea), ask whether interior mass compensates for single-outlet
+  vulnerability; Road of Life logic (Ladoga under siege) exemplifies.
+  **Derivation**: LEARN session 2026-02-04; MEM–RUSSIA–GEO–LAKE–LADOGA;
+  Ladoga–Neva–Baltic chain.
+  **Evidence (research 2026-02-04)**: Road of Life (Nov 1941–1943): ice road
+  across Ladoga 27–32 km; first delivery Nov 22 1941; >1M tonnes cargo,
+  >1.3M evacuated; 361,000 tonnes 1941–42 winter; multiple routes (Kobona–
+  Vaganova); Ladoga flotilla; lake as alternative corridor when land cut.
+  Nöteborg/Shlisselburg (1702): fortress at Neva outlet from Ladoga;
+  Swedish control = held chokepoint; Peter's capture = outlet secured.
+  **Binding**: MEM–RUSSIA–GEO–LAKE–LADOGA, MEM–RUSSIA–GEO–NEVA–RIVER,
+  MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD. **Scope**: GEO. **Status**: PENDING BINDING.
+
+RLL–RUSSIA–0032 (PROPOSED) — Outlet Control Converts Corridor Law  
+→ Securing the maritime outlet converts interior corridors into usable
+  power projection; states replace or neutralise the power controlling
+  the exit.
+  **Recursive move**: When tracing corridor expansion (Peter Baltic,
+  Catherine Black Sea), ask whether outlet control was the objective;
+  interior depth becomes usable only when exit is secured.
+  **Derivation**: LEARN session 2026-02-04; 1703/1721 (Peter), 1768–1792
+  (Catherine); Moscow vs Ladoga chains; Peter vs Catherine parallel.
+  **Evidence (research 2026-02-04)**: Peter: Nöteborg Oct 1702 (Neva outlet
+  from Ladoga); Petersburg May 1703 (Neva delta); Nystad 1721 (Ingria,
+  Livonia, Estonia). Sequence: capture outlet fortress → found port →
+  corridor usable. Catherine: Kinburn 1787 (Crimea); Ochakov Dec 1788
+  (6-month siege, outlet fortress); Focsani, Rymnik 1789; Jassy 1792
+  (Özi, Bug–Dniester); Odesa 1794 (Khadjibey). Dnieper–Black Sea outlet
+  secured; parallels Peter's Baltic logic.
+  **Binding**: MEM–RUSSIA–GEO–LAKE–LADOGA, MEM–RUSSIA–GEO–DNEIPER–RIVER,
+  MEM–RUSSIA–PETER–GREAT, MEM–RUSSIA–CATHERINE–GREAT. **Scope**: GEO.
+  **Status**: PENDING BINDING.
+
 ────────────────────────────────────────────────────────────
 V.E PROPOSED MEM GENERATION OPPORTUNITIES (FROM RECENT LEARNING)
 ────────────────────────────────────────────────────────────
@@ -498,7 +535,7 @@ LEARN session (Russia GEO mountain MEMs, Ob military history,
 Volga–Ob spine duality, gate encoding, Rhipaean/Altai encoding).
 Binding requires user decision to create; Scholar may draft in WRITE mode.
 
-**1. MEM–RUSSIA–GEO–OB–RIVER** (GEO–MEM) — **CREATED 2026-02**  
+**1. MEM–RUSSIA–GEO–OB–RIVER** (GEO–MEM) — **CREATED 2026-02 · COMPLETED**  
 **Purpose:** Ob–Irtysh as **depth spine** (RLL–RUSSIA–0029); movement
 corridor; military history as corridor/conquest/depth (Sibir Khanate,
 Yermak, forts, yasak); link to Altai headwaters (Biya, Katun, Irtysh);
@@ -750,7 +787,7 @@ EPHEMERAL:
 ────────────────────────────────────────────────────────────
 XIV. OGE IN LEARN MODE
 ────────────────────────────────────────────────────────────
-LEARN mode uses OGE to direct discovery. Exactly 6 options (A–F) per substantive turn; 6–10 words each, one line; concrete anchor (person, place, or event) per option. Include Mearsheimer and Barnes; connection-derived when MEM active; POST-BARNES: M/M response options. See cmc-oge-enforcement, OGE_ARCHITECTURE v1.3.
+LEARN mode uses OGE to direct discovery. Exactly 8 options (A–H) per substantive turn; 6–10 words each, one line; concrete anchor per option. A/B/C: load MIND when selected; response 100–200 words, frame/voice per MIND. D: multi-mind (M→M'→B→M wrap-up). E: traverse backward (same-civ MEM); F: traverse forward (same-civ MEM); G: traverse cross-civ (cross-civ MEM). H: synthesis + recap + follow-on (b)/(c)/(a). POST-BARNES: M/M response options. See cmc-oge-enforcement, OGE_ARCHITECTURE v1.9.
 
 OGE categories:
 1. Ingestion
@@ -799,6 +836,14 @@ Session 2026-02-03 (LEARN · Ferguson, Britain–Russia, encoding, jurisdiction)
 • MEM–RUSSIA–UKRAINE: Jurisdiction over "one people" vs. "separate"; encoding as liability surface when contested; tension preserved.
 • Session synthesis: Ferguson, 0030/0010/0011, encoding, MEM–UKRAINE, jurisdiction, liability.
 • **RLL–RUSSIA–0030 BOUND** (user authorization 2026-02-03); moved from V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS. 0025, 0026 remain PENDING BINDING.
+
+Session 2026-02-04 (LEARN · GEO–Ladoga, corridor geometry, liability chain):
+• Ingested MEM–RUSSIA–GEO–LAKE–LADOGA. Tri-frame analysis: Mercouris (legitimacy through endurance, Road of Life as civilizational proof); Mearsheimer (Ladoga–Neva–Baltic corridor: interior depth → chokepoint → maritime exposure; redundancy offsets outlet vulnerability); Barnes (liability chain: Stavka → ice logistics → civilians; "geography failed" masks decision/execution liability).
+• SYNTHESIS (DRAFT): Ladoga as hinge basin—corridor geometry, legitimacy-through-endurance, liability chain under siege. Claim: Interior depth offsets Neva chokepoint exposure; Road of Life encodes legitimacy; liability runs Stavka → logistics → civilians. Assumptions Box: (1) Corridor geometry gradient—Ladoga/Neva/Baltic; (2) Legitimacy conversion—endurance under siege as civilizational proof; (3) Liability chain—strategic/operational/recipient distribution. Confidence: TIER 3 (50–70%). Status: DRAFT; validation pending across MEM–RUSSIA–GEO–NEVA–RIVER, MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD.
+• RLL PROPOSAL (CANDIDATE): Corridor headwater redundancy offsets downstream chokepoint exposure. Operational: Basins at corridor head provide storage; single outlet = chokepoint; interior mass sustains under siege until outlet closed. Failure: Lost outlet = trap. Related: RLL–0012 (Strategic Depth); distinct focus on geographic mechanism. Validation: GEO–NEVA, GEO–BALTIC–SEA, WAR–LENINGRAD. **Added to V.D as RLL–RUSSIA–0031 (PROPOSED).**
+• RLL PROPOSAL (CANDIDATE): Outlet control converts interior corridors into usable power projection. Operational: Securing maritime outlet; replacing power at exit; Peter Baltic (1703/1721), Catherine Black Sea (1768–1792). **Added to V.D as RLL–RUSSIA–0032 (PROPOSED).**
+• Session recap: Ladoga hinge lake, Neva chokepoint, Baltic exposure; legitimacy-through-endurance; liability chain; Moscow vs Ladoga chains; Peter vs Catherine parallel; corridor typology (enclosed, through-exposed, outlet-dependent); RLL–0031, 0032 added to V.D PROPOSED.
+• Research 2026-02-04: Russian military history examples for RLL–0031/0032. RLL–0031: Road of Life (1941–43)—ice road, >1M tonnes, Ladoga as headwater redundancy; Nöteborg 1702—outlet chokepoint. RLL–0032: Peter Nöteborg→Petersburg→Nystad; Catherine Kinburn→Ochakov→Jassy→Odesa. Evidence notes added to RLL entries in V.D.
 
 Session 2026-02-03 (LEARN · Panin, quartet, doctrine):
 • LEARN · Contemplated MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT; Catherine's operational quartet (Panin–Potemkin–Suvorov); mortality as arbiter's tool; Panin death 1783 / Crimea annexation 1783 structurally linked.

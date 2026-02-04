@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
 Version: 2.0
 Supersedes: CIV–CORE–INDIA V1.0
 Upgrade Type: Template alignment; structural reorder per CIV–CORE–TEMPLATE v2.0
-Template Version Used: CIV–CORE–TEMPLATE v2.0
+Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
 Conceptual Lineage: SCE–CIV–INDIA V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I

@@ -116,7 +116,7 @@ It should be regenerated when:
 AUTHORITY:
 This ledger is DESCRIPTIVE, not PRESCRIPTIVE.
 It reports what IS cited, not what SHOULD BE cited.
-ARC–TEMPLATE v2.7 remains the authority for admissibility.
+ARC–TEMPLATE v3.0 remains the authority for admissibility.
 
 CONFLICT RESOLUTION:
 If ledger conflicts with MEM bibliography:

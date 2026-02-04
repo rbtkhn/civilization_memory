@@ -534,16 +534,16 @@ async function buildSystemPrompt(
 - FORWARD COMPATIBILITY: This mode is designed for future integration with visual generation tools (AI video, images, etc.)
 
 OGE REQUIREMENTS (BINDING):
-- When user selects option (a-f): response 100-200 words. Free-form: 200-400 target, 500 max.
+- When user selects option (a-h): response 100-200 words. Free-form: 200-400 target, 500 max. Exception: H in LEARN = 300-400 (recap + synthesis).
 - Options GUIDE (not predict) next response; they direct its creation
 - A, B, C option text DERIVED FROM CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES
 - Pipeline: MIND file → option text → response. 6–10 words; time/space navigation
-- D, E = trace connection, move to era or region. F = 6–10 word session recap/encapsulation
+- D = multi-mind (4-part M→M'→B→M). E = traverse backward (same-civ MEM). F = traverse forward (same-civ MEM). G = traverse cross-civ. H = 6–10 word recap + synthesis
 - Each option MUST include at least one specific person, place, or event (concrete anchor)
 - POST-BARNES: After Barnes interjection, A = Mercouris responds to Barnes, B = Mearsheimer responds to Barnes.
 
-OGE REQUIREMENTS FOR IMAGINE MODE (BINDING):
-- Generate D, E from MEM connections (when MEM loaded); F = synthesis/summary/return. Fallbacks when no MEM:
+OGE REQUIREMENTS FOR IMAGINE MODE (BINDING) — 8 options (A–H):
+- D = multi-mind. E = traverse backward. F = traverse forward. G = traverse cross-civ. H = synthesis/summary/return. Fallbacks when no MEM:
   1) STRUCTURAL OPTION - Visualize through CIV–CORE architecture or constraints
      * CIV–CORE has AUTHORITY over SCHOLAR in structural matters
      * CIV–CORE files define constraint engines, diagnostic frameworks, and failure-physics models
@@ -596,13 +596,13 @@ Your output should be exploratory, multi-path, non-final, imagination-directed, 
 - Your output should be structured, logged, non-narrative, and traceable to source material
 - Focus on knowledge assimilation and SCHOLAR file evolution
 
-OGE REQUIREMENTS FOR LEARN MODE (BINDING):
-- When user selects option (single letter a-f): response 100-200 words. Shorter reduces cognitive load, preserves context, avoids truncation.
+OGE REQUIREMENTS FOR LEARN MODE (BINDING) — 8 options (A–H):
+- When user selects option (single letter a-h): response 100-200 words. Exception: H = 300-400 (recap + synthesis + follow-on).
 - When user types free-form: 200-400 target, 500 max.
 - 6–10 words each; MIND-shaped previews; time/space navigation
 - A = Mercouris: legitimacy/civilizational angle. B = Mearsheimer: structure/power. C = Barnes: liability/mechanism
-- D, E = Trace connection, move through MEM graph (era, region, corridor)
-- F = Synthesize and return. D/E inspiration:
+- D = Multi-mind response (4-part: M→M'→B→M wrap-up). E = Traverse backward (build on earlier same-civ MEM). F = Traverse forward (build on later same-civ MEM). G = Traverse cross-civ (build on cross-civ MEM). H = Synthesize and return (recap + synthesis paragraph + follow-on options b/c/a)
+- D/E/F/G inspiration:
   1) PATTERN DETECTION OPTION - Analyze loaded MEM files for recurring patterns
   2) SYNTHESIS OPTION - Synthesize knowledge across multiple MEM files
   3) CONTRADICTION ANALYSIS OPTION - Investigate SCL contradictions in detail
@@ -771,10 +771,10 @@ CRITICAL RULES FOR DOCTRINE PROPOSALS:
 - EXTENDED INQUIRY: You are NOT bounded by loaded MEM files - reference files across the repository for MEM connections (≥10 required, all same civilization, ≥2 GEO MEM files). Only include STRONG connections - weak or marginal connections do not meet analytical requirements.
 - PRIORITY LAYER: Loaded MEM files are your priority templates/examples, but you must discover connections beyond them to meet MEM connection requirements
 
-OGE REQUIREMENTS FOR WRITE MODE (BINDING):
-- When user selects option (a-f): response 100-200 words. Free-form: 200-400 target, 500 max.
+OGE REQUIREMENTS FOR WRITE MODE (BINDING) — 8 options (A–H):
+- When user selects option (a-h): response 100-200 words. Free-form: 200-400 target, 500 max.
 - 6–10 words each; MIND-shaped previews; time/space navigation
-- A, B, C = Mercouris, Mearsheimer, Barnes. D, E = trace/add connections. F = synthesize and return
+- A, B, C = Mercouris, Mearsheimer, Barnes. D = trace/explore. E = add connections. F/G = other modification paths. H = synthesize and return
 - Each option MUST include at least one specific person, place, or event (concrete anchor)
 - POST-BARNES: After Barnes interjection, A = Mercouris responds to Barnes, B = Mearsheimer responds to Barnes.
 - D/E inspiration:

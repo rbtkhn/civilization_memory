@@ -108,7 +108,7 @@ Per CIV–SCHOLAR–TEMPLATE v2.10, Phase I minimal structure:
 | VIII. Snapshot Class | VIII | ✓ |
 | IX. Communication Register & Voice | IX | ✓ (Mercouris primary; Mearsheimer, Barnes invocation; audit commands) |
 | X. Ephemeral Observation Layer | X | ✓ |
-| XI. OGE — Embedded Specification | XI, XI.A | ✓ **MANDATORY** — 6 options; M+B; POST-BARNES M/M response |
+| XI. OGE — Embedded Specification | XI, XI.A | ✓ **MANDATORY** — 8 options (A–H); M+B; POST-BARNES M/M response |
 | XII. Versioning | XII | ✓ |
 | XIII. Context Loading | XIII | ✓ (optional Phase I; note) |
 | XIV. Synthesis Tradecraft | XIV | ✓ (Assumptions Box, Confidence tier on frozen syntheses; ACH when alternatives evaluated) |
@@ -119,7 +119,7 @@ Ledger content (entries, syntheses, RLL proposals) follows section XV onward.
 
 OGE specification MUST be embedded:
 
-- 6 options (A–F), one line each
+- 8 options (A–H), one line each
 - Mearsheimer perspective where applicable
 - Barnes perspective where applicable
 - POST-BARNES: Mercouris responds to Barnes, Mearsheimer responds to Barnes (mandatory after Barnes interjection)

@@ -81,7 +81,7 @@ Template: ACH Record required **when** alternative frameworks were evaluated. AN
 | Protocol requirement | ANGLIA | Status |
 |----------------------|--------|--------|
 | Phase-aware operation | Phase I; WRITE-LOCKED; no autonomous learning | ✓ |
-| OGE exactly 6 options, M/M when prior MIND | Embedded OGE spec: 6 options; POST-BARNES M/M response | ✓ |
+| OGE exactly 8 options (A–H), M/M when prior MIND | Embedded OGE spec: 8 options; POST-BARNES M/M response | ✓ |
 | LEARN: no MEM write, no canonical output, no CORE modify | VII, XI: Permitted/Forbidden stated | ✓ |
 | Cognitive Interaction: response option when MIND in play | OGE spec references cmc-tri-frame-protocol | ✓ |
 | TRIG_STATE_002: Barnes spoke → next OGE must include M/M options | Embedded OGE: "POST-BARNES: next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes" | ✓ |
@@ -99,7 +99,7 @@ Protocol v2.6 is current; SCHOLAR–ANGLIA now references it.
 
 | Item | cmc-scholar-mode | Template / Protocol | Status |
 |------|-------------------|----------------------|--------|
-| OGE 6 options | Exactly 6 (A–F), one line each | Template XI, Protocol V | ✓ |
+| OGE 8 options | Exactly 8 (A–H), one line each | Template XI, Protocol V | ✓ |
 | Mearsheimer/Barnes | Include where applicable | Same | ✓ |
 | Connection-derived option | When MEM under analysis | Template XI, Protocol V (implied) | ✓ |
 | Continuation option | At least one extends current analysis | Same | ✓ |

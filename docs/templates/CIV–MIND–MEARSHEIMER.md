@@ -753,10 +753,10 @@ If checklist fails, output is non-compliant with this command.
 ────────────────────────────────────────────────────────────
 XII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–MEARSHEIMER v2.6 is CANONICAL.
+CIV–MIND–MEARSHEIMER v3.0 is CANONICAL.
 
 All uses MUST declare:
-"Bound by CIV–MIND–MEARSHEIMER v2.6 (ADVISORY)"
+"Bound by CIV–MIND–MEARSHEIMER v3.0 (ADVISORY)"
 
 This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.
