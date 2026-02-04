@@ -1,33 +1,66 @@
 ---
-description: When modifying a versioned file below v3.0, upgrade it to v3.0 in the same edit
+description: Version decoupling - content versions track content changes only
 alwaysApply: true
 ---
 
-# CMC Version Upgrade on Edit
+# CMC Version Decoupling (CMC 4.0)
 
-When you **modify** any file that declares a version **less than v3.0**, upgrade that file to **v3.0** in the **same edit**.
+Under CMC 4.0 Version Decoupling, **content versions track content changes only**.
 
-## Scope
+## Key Principle
 
-- Applies to files that contain a version declaration (e.g. `Version: 2.0`, `v2.10`, `— v1.2`, `Template Version Used: … v2.0`, `Governed by: … v2.9`).
-- Typical locations: `content/civilizations/**/*.md`, `docs/**/*.md` (governance, templates), and any CIV–*, MEM–*, CIV–CORE–*, CIV–SCHOLAR–*, CIV–INDEX–*, CIV–ARC–*, CIV–DOCTRINE–* files.
+- **Governance version** = CMC 4.0 (single source of truth in VERSION–MANIFEST)
+- **Content version** = MEM file version (tracks content changes only)
 
-## What to update in the same edit
+## When to increment MEM content version
 
-1. **Version line** — Set to `v3.0` (or `Version: 3.0` as used in the file).
-2. **Supersedes** — Set to the previous version (e.g. `Supersedes: v2.0` or `Supersedes: CIV–SCHOLAR–TEMPLATE v2.10`).
-3. **Upgrade Type** — Add or set to reflect alignment (e.g. `Upgrade Type: ALIGNMENT · v3.0` or `AUDIT ALIGNMENT · VERSION BUMP`).
-4. **Compatibility / Governed by / Template Version Used** — If present and referring to CORE, TEMPLATE, or PROTOCOL, update to v3.0 (e.g. `CIV–MEM–CORE v3.0`, `CIV–SCHOLAR–TEMPLATE v3.0`, `CIV–SCHOLAR–PROTOCOL v3.0`).
-5. **END OF FILE line** — If the file has an `END OF FILE — … vX.Y` line, set it to `… v3.0`.
+Increment version (e.g. v1.0 → v1.1) when:
+- Analytical content changes
+- Quotes added or modified
+- MEM CONNECTIONS updated
+- Structure revised
 
-## When not to upgrade
+**DO NOT increment version for:**
+- Governance changes (CMC 4.0 → 4.1)
+- Header format updates
+- Compliance status changes
 
-- **New files** — Set version to v3.0 (or v1.0 if the project convention for new artifacts is v1.0); no “upgrade” from a lower version.
-- **Read-only or audit-only** — If the task is only to read or audit and you do not change content, do not change version.
-- **File already at v3.0** — No version change.
+## New MEM files
+
+Use simplified header format:
+
+```
+MEM–[CIV]–[SUBJECT] — v1.0
+Civilizational Memory Codex · Memory File
+
+Status: ACTIVE · CANONICAL
+Version: 1.0
+Civilization: [CIVILIZATION]
+Subject: [SUBJECT]
+Dates: [DATE RANGE]
+Last Updated: [Month Year]
+Word Count: ~[N]
+```
+
+**Note:** No "Governed by", "Template Version Used", or "Compatibility" lines.
+These are legacy headers that remain valid in existing files but are not
+required in new files.
+
+## Existing MEM files
+
+Legacy headers (with Governed by, Template Version Used, etc.) remain valid.
+No upgrade required. When making content changes, increment content version only.
+
+## Governance files
+
+Governance files (CIV–MEM–CORE, templates, protocols) are governed by CMC 4.0.
+They no longer declare individual versions. The CMC Governance Version in
+VERSION–MANIFEST is the single binding reference.
 
 ## Summary
 
-**Edit + version < v3.0 → in the same edit, bump to v3.0 and update Supersedes, Upgrade Type, Compatibility/Governed by/Template Version Used, and END OF FILE as applicable.**
+**Content changes → increment content version**
+**Governance changes → logged in CHANGELOG.md, not in individual files**
+**Compliance status → tracked in COMPLIANCE–REGISTRY.md**
 
-Reference: CMC–BOOTSTRAP v3.0, CIV–MEM–CORE v3.0 version bindings.
+Reference: CMC 4.0, docs/governance/VERSION–MANIFEST.md, docs/governance/CHANGELOG.md

@@ -1,18 +1,28 @@
-CMC–BOOTSTRAP — v3.0
+CMC–BOOTSTRAP
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
+Governed by: CMC 4.0
+Last Update: February 2026
+
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v3.0) — ALIGNMENT WITH CORE v3.0
+UPGRADE NOTE (CMC 4.0) — VERSION DECOUPLING
 ────────────────────────────────────────────────────────────
-This version aligns with CIV–MEM–CORE v3.0 consolidation. All governance
-and template bindings advance to v3.0; QUICK START and constraints
-unchanged. Declare: "Bound by CMC–BOOTSTRAP v3.0."
+This version implements VERSION DECOUPLING per PROPOSAL–VERSION–DECOUPLING.
+
+KEY CHANGES:
+• Single CMC Governance Version (CMC 4.0)
+• MEM headers simplified (no governance declarations)
+• Compliance tracked in COMPLIANCE–REGISTRY.md
+• Version history in CHANGELOG.md
+• Binding declaration simplified: "Bound by CMC 4.0"
+
+See: docs/governance/VERSION–MANIFEST.md
 
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC–BOOTSTRAP v3.0"
+1) Declare binding: "Bound by CMC 4.0"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
 4) OGE required in ALL modes (LEARN/IMAGINE: 8 options A–H, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
@@ -157,23 +167,31 @@ This version corrects discrepancies identified in v1.0:
 • Added file naming convention
 
 ────────────────────────────────────────────────────────────
-VERSION BINDINGS (CURRENT)
+GOVERNANCE VERSION (CMC 4.0 — VERSION DECOUPLING)
 ────────────────────────────────────────────────────────────
+Under CMC 4.0 Version Decoupling, all governance documents are
+governed by a single version: CMC 4.0
+
 CORE GOVERNANCE:
-• CIV–MEM–CORE: v3.0
+• CIV–MEM–CORE (CMC 4.0)
 
 MIND PROFILES:
-• CIV–MIND–MERCOURIS: v3.0 (PRIMARY)
-• CIV–MIND–MEARSHEIMER: v3.0 (ADVISORY)
-• CIV–MIND–BARNES: v3.0 (TERTIARY CATALYST)
-• CIV–MIND–TEMPLATE: v3.0
+• CIV–MIND–MERCOURIS (PRIMARY)
+• CIV–MIND–MEARSHEIMER (ADVISORY)
+• CIV–MIND–BARNES (TERTIARY CATALYST)
+• CIV–MIND–TEMPLATE
 
 TEMPLATES:
-• CIV–MEM–TEMPLATE: v3.0
-• CIV–SCHOLAR–TEMPLATE: v3.0
-• CIV–SCHOLAR–PROTOCOL: v3.0
+• CIV–MEM–TEMPLATE
+• CIV–SCHOLAR–TEMPLATE
+• CIV–SCHOLAR–PROTOCOL
 
-Declare: "Bound by CMC–BOOTSTRAP v3.0"
+Individual governance documents no longer declare separate versions.
+The CMC Governance Version is the single binding reference.
+
+Declare: "Bound by CMC 4.0"
+
+See: docs/governance/VERSION–MANIFEST.md (Section I)
 
 ────────────────────────────────────────────────────────────
 SCHOLARLY AUTHORITY PROTOCOL (SAP v1.0 — NEW)
@@ -401,11 +419,12 @@ CROSS–CIVILIZATIONAL MISPERCEPTION (CCM — per CIV–MEM–CORE § XXVIII):
 • Treat as expected (emergent realism), not consistency break. Do not require correction to match the other's self-explanation.
 • First-order (capabilities/priorities) and second-order (encoding reasons) misperception are both recognized; preserve tension.
 
-VERSION RULE (BINDING — per CIV–MEM–CORE v3.0):
-• All new files created under CIV–MEM–CORE v3.0 MUST declare Version 3.0 or greater.
-• Applies to: MEM files (MEM–[CIV]–*), governance files created or upgraded under CORE v3.0, and any artifact that declares "Governed by: CIV–MEM–CORE v3.0".
-• Header: "Version: 3.0" (or higher; e.g. 3.1, 4.0). Footer END OF FILE: "v3.0" (or higher) in the version stamp.
-• Existing files with Version < 3.0 remain valid until upgraded; new creation must not use Version < 3.0.
+VERSION RULE (BINDING — per CMC 4.0 Version Decoupling):
+• MEM files declare CONTENT VERSION only (tracks content changes, not governance)
+• New MEMs use simplified header (no Template Version Used, Governed by, etc.)
+• Existing MEMs with legacy headers remain valid
+• Compliance tracked in COMPLIANCE–REGISTRY.md
+• Version history tracked in CHANGELOG.md
 
 ────────────────────────────────────────────────────────────
 CURRENT PHASES
@@ -519,5 +538,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP — v3.0
+END — CMC–BOOTSTRAP (CMC 4.0)
 ────────────────────────────────────────────────────────────

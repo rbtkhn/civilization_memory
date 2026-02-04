@@ -38,13 +38,18 @@ When user selects **Option D**, the response MUST follow this 4-part structure (
 
 Apply POST-MEARSHEIMER/MERCOURIS Response and Voice Maintenance rules. Total ~6–10 sentences.
 
-## POST-BARNES OGE Requirements
+## After Barnes Analysis (Stateless Design — CMC 4.0)
 
-After every Barnes interjection, next OGE MUST include:
+When Barnes has just spoken, OGE slots remain fixed:
+- A is still Mercouris (not "Mercouris responds to Barnes")
+- B is still Mearsheimer (not "Mearsheimer responds to Barnes")
 
-- Option for "Mercouris responds to Barnes"
-- Option for "Mearsheimer responds to Barnes"
-- These are MANDATORY, not optional
+**Contextual note instead of slot shift.** Add a note after options:
+```
+(Note: Barnes just analyzed [topic] — A or B will respond to his analysis if selected)
+```
+
+This preserves fixed slot semantics while acknowledging context. No state tracking required.
 
 ## POST-MEARSHEIMER/MERCOURIS Response
 

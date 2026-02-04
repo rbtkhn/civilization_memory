@@ -34,17 +34,29 @@ Shorter OGE responses with better options > long responses that exhaust attentio
 - **Forbidden by default**: Bullets, tables, numbered lists
 - **Exception**: User explicitly requests structured format, OR you offer it as OGE option
 
-## OGE Requirements (CRITICAL)
+## OGE Requirements (CMC 4.0 — Fixed Slots, Stateless)
 
-After every substantive analytical turn:
+After every substantive analytical turn, provide **exactly 8 options** (A–H):
 
-1. Provide **exactly 8 options** (A–H) in LEARN mode
-2. **6–10 words each, one line** — respect cognitive load
-3. Include **Mearsheimer perspective** where applicable
-4. Include **Barnes perspective** where applicable  
-5. Include **connection-derived option** when MEM under analysis
-6. Include **continuation option** that seamlessly extends current analysis
-7. When another MIND's analysis is in play (Mercouris or Mearsheimer), include at least one **response** option (X responds to Y—reframe in X terms) where applicable. See cmc-oge-enforcement, cmc-tri-frame-protocol.
+| Slot | Function | Always This |
+|------|----------|-------------|
+| A | Mercouris | Civilizational/legitimacy |
+| B | Mearsheimer | Structural/power |
+| C | Barnes | Liability/mechanism |
+| D | Multi-mind | Tri-frame synthesis |
+| E | Backward | Earlier era (same civ) |
+| F | Forward | Later era (same civ) |
+| G | Cross-civ | Other civilization |
+| H | Synthesis | Session closure |
+
+**Key principles:**
+- **Slots are fixed** — A is always Mercouris, B is always Mearsheimer, no semantic shifts
+- **10–20 words per option** — clear, complete prompts
+- **Concrete anchors** — Each option includes person, place, or event
+- **Typed connections** — E/F/G leverage MEM connections where available
+- **Contextual notes** — If prior MIND analysis is relevant, add note after options (not slot shift)
+
+See cmc-oge-enforcement for full specification.
 
 ## Historical Anchor Citation (REQUIRED for A, B, C, D responses)
 

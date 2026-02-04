@@ -66,21 +66,33 @@ INSERT OR IGNORE INTO scholar_mode_state (id, current_mode) VALUES (1, 'LEARN');
 -- HIGH-PRIORITY SCHEMA ADDITIONS FOR FUTURE ENHANCEMENTS
 -- ============================================================================
 
--- File Relationships: Track connections between files (MEM connections, CIV–CORE references, etc.)
+-- File Relationships: Track typed directional connections between files (CMC 4.0)
+-- Implements PROPOSAL–TYPED–CONNECTIONS
 CREATE TABLE IF NOT EXISTS file_relationships (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   source_file_id INTEGER NOT NULL,
   target_file_id INTEGER NOT NULL,
   relationship_type TEXT NOT NULL CHECK(relationship_type IN (
-    'mem_connection',      -- MEM file references another MEM
+    -- Typed MEM connections (CMC 4.0)
+    'depends_on',          -- Prerequisite: source cannot be understood without target
+    'enables',             -- Consequence: source is required to understand target
+    'contradicts',         -- Tension: source presents claims in tension with target
+    'parallels',           -- Similarity: source exhibits patterns similar to target
+    'temporal_before',     -- Chronological: source precedes target in time
+    'temporal_after',      -- Chronological: source follows target in time
+    'geographic',          -- Spatial: source operates within or is shaped by target
+    -- Reference connections
     'civ_core_reference',  -- MEM references CIV–CORE section
     'doctrine_reference',  -- MEM references doctrine
-    'contradiction',       -- SCL contradiction between files
-    'temporal_sequence',   -- Temporal relationship
-    'structural_similarity' -- Similar structural patterns
+    -- Legacy types (for backward compatibility)
+    'mem_connection',      -- Untyped MEM connection (legacy format)
+    'contradiction',       -- SCL contradiction (legacy)
+    'temporal_sequence',   -- Temporal relationship (legacy)
+    'structural_similarity' -- Similar structural patterns (legacy)
   )),
-  relationship_context TEXT, -- Description of relationship
-  strength REAL DEFAULT 1.0,  -- Relationship strength (0-1)
+  relationship_explanation TEXT, -- One-line explanation of WHY connected (required for typed)
+  relationship_context TEXT,     -- Legacy: Description of relationship
+  strength REAL DEFAULT 1.0,     -- Legacy: Relationship strength (0-1) - deprecated
   created_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now')),
   FOREIGN KEY (source_file_id) REFERENCES file_registry(id) ON DELETE CASCADE,
   FOREIGN KEY (target_file_id) REFERENCES file_registry(id) ON DELETE CASCADE,
@@ -112,6 +124,40 @@ CREATE INDEX IF NOT EXISTS idx_temporal_index_era ON temporal_index(era);
 -- Enhanced File Metadata: Add columns to file_registry for pre-computed counts and extracted data
 -- Note: SQLite doesn't support IF NOT EXISTS for ALTER TABLE, so we'll check and add conditionally
 -- These will be added via migration-safe approach in the database initialization
+
+-- ============================================================================
+-- CONCEPT INDEX SCHEMA (CMC 4.0)
+-- ============================================================================
+
+-- Concept definitions: Controlled vocabulary of analytical concepts
+CREATE TABLE IF NOT EXISTS concepts (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  concept_key TEXT UNIQUE NOT NULL,
+  display_name TEXT NOT NULL,
+  definition TEXT,
+  frame TEXT CHECK(frame IN ('mearsheimer', 'mercouris', 'barnes', 'cross_cutting')),
+  created_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now'))
+);
+
+CREATE INDEX IF NOT EXISTS idx_concepts_key ON concepts(concept_key);
+CREATE INDEX IF NOT EXISTS idx_concepts_frame ON concepts(frame);
+
+-- MEM-to-concept mappings: Which concepts apply to which MEMs
+CREATE TABLE IF NOT EXISTS mem_concepts (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  file_id INTEGER NOT NULL,
+  concept_id INTEGER NOT NULL,
+  relevance TEXT CHECK(relevance IN ('primary', 'secondary')),
+  explanation TEXT, -- One-line explanation of how concept applies to this MEM
+  created_at INTEGER NOT NULL DEFAULT (strftime('%s', 'now')),
+  FOREIGN KEY (file_id) REFERENCES file_registry(id) ON DELETE CASCADE,
+  FOREIGN KEY (concept_id) REFERENCES concepts(id) ON DELETE CASCADE,
+  UNIQUE(file_id, concept_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_mem_concepts_file ON mem_concepts(file_id);
+CREATE INDEX IF NOT EXISTS idx_mem_concepts_concept ON mem_concepts(concept_id);
+CREATE INDEX IF NOT EXISTS idx_mem_concepts_relevance ON mem_concepts(relevance);
 
 -- Migration: Add new columns to file_registry (run conditionally to avoid errors on existing databases)
 -- These columns support future enhancements without breaking existing functionality

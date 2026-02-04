@@ -1,20 +1,29 @@
-CIV–MEM–TEMPLATE — v3.0
+CIV–MEM–TEMPLATE
 Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–MEM–TEMPLATE v2.9
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Governed by: CMC 4.0
 Class: CIV–MEM–TEMPLATE (Authoring Law)
-Compatibility: CIV–MEM–CORE v3.0
 Last Update: February 2026
 WORDCOUNT: ~7,500
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (CMC 4.0) — VERSION DECOUPLING
+────────────────────────────────────────────────────────────
+This template now follows CMC 4.0 Version Decoupling:
+• MEM headers use simplified format (no governance declarations)
+• Content version tracks content changes only
+• Compliance tracked in COMPLIANCE–REGISTRY.md
+• History tracked in CHANGELOG.md
+
+See: docs/governance/VERSION–MANIFEST.md
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.9) — THREE-LAYER ARCHITECTURE · STRUCTURED DATA
 ────────────────────────────────────────────────────────────
 This version implements the Three-Layer MEM Architecture (TLA)
-from CIV–MEM–CORE v3.0 (Sections XXIV-XXVII), adding type-specific structured data
+from CIV–MEM–CORE (Sections XXIV-XXVII), adding type-specific structured data
 fields and optional analytical extensions.
 
 NEW REQUIREMENT — THREE-LAYER ARCHITECTURE:
@@ -140,15 +149,31 @@ applicable ARC–[CIV] canon at the time of locking.
 ────────────────────────────────────────────────────────────
 II. FILE IDENTITY & METADATA (MANDATORY)
 ────────────────────────────────────────────────────────────
-Every MEM file MUST begin with the following metadata block,
-in this exact order:
+Every MEM file MUST begin with the following metadata block.
 
+CMC 4.0 SIMPLIFIED HEADER (for new files):
+────────────────────────────────────────────────────────────
+MEM–[CIV]–[SUBJECT] — v[X.Y]
+Civilizational Memory Codex · Memory File
+
+Status: ACTIVE · CANONICAL
+Version: [X.Y]
+Civilization: [CIVILIZATION]
+Subject: [SUBJECT]
+Dates: [DATE RANGE]
+Last Updated: [Month Year]
+Word Count: ~[N]
+────────────────────────────────────────────────────────────
+
+LEGACY HEADER (remains valid for existing files):
 • Filename (canonical)
 • Repository reference
 • Status (ACTIVE / LOCKED / DRAFT)
 • Version (semantic)
 • Supersedes (if applicable)
 • Upgrade Type (if applicable)
+• Template Version Used (if applicable)
+• Governed by (if applicable)
 • Civilization
 • Regime / Mode (if applicable)
 • Subject
@@ -157,7 +182,11 @@ in this exact order:
 • Last Update
 • Wordcount (verified)
 
-Omission or mis-ordering INVALIDATES the MEM.
+MIGRATION:
+• New MEMs: Use simplified header (no governance declarations)
+• Existing MEMs: Legacy headers remain valid (no upgrade required)
+• Content version tracks content changes only (not governance changes)
+• Compliance tracked centrally in COMPLIANCE–REGISTRY.md
 
 ────────────────────────────────────────────────────────────
 III. MEMORY PURPOSE & SCOPE (REQUIRED)
@@ -439,44 +468,146 @@ Secondary quotations MUST be analytically integrated.
 Citation without analytical engagement is INVALID.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTION REQUIREMENTS (BINARY · HARD)
+X. MEM CONNECTIONS — TYPED DIRECTIONAL EDGES (CMC 4.0)
 ────────────────────────────────────────────────────────────
-Every MEM file MUST include a dedicated MEM CONNECTIONS section.
-
-Connection requirements:
-
-• ≥10 same-civilization MEM connections
-• ≥2 GEO MEM files required
-• Each listed connection MUST be structurally necessary
+Every MEM file MUST include a MEM CONNECTIONS section using
+typed directional edges. Connections are meaningful, not mechanical.
 
 ────────────────────────────────────────────────────────────
-X.A BINARY CONNECTION RULE
+X.A CONNECTION TYPES (EXHAUSTIVE)
 ────────────────────────────────────────────────────────────
-MEM Connections are binary.
 
-A connection is either:
-• Structurally required → INCLUDED
-• Not structurally required → EXCLUDED
+DEPENDS_ON — Prerequisite relationship
+• This MEM cannot be fully understood without the target
+• Example: MEM–RUSSIA–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
+• Traversal: Read dependencies first
 
-Weak, contextual, illustrative, or optional connections
-MUST NOT be listed.
+ENABLES — Consequent relationship
+• This MEM is required to understand the target
+• Inverse of DEPENDS_ON
+• Example: MEM–RUSSIA–PETER–GREAT ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
 
-Strength ratings, scoring, weighting, or gradation
-are explicitly PROHIBITED.
+CONTRADICTS — Tension relationship
+• This MEM presents claims in tension with the target
+• Polyphonic preservation marker
+• Example: MEM–RUSSIA–GORBACHEV CONTRADICTS MEM–RUSSIA–STALIN (on reform)
 
-Inclusion in the MEM Connections list itself constitutes
-affirmation of structural necessity.
+PARALLELS — Structural similarity
+• This MEM exhibits patterns similar to the target
+• Cross-civ comparison marker
+• Example: MEM–RUSSIA–PETER–GREAT PARALLELS MEM–ROME–AUGUSTUS (centralization)
+
+TEMPORAL_BEFORE — Chronological predecessor
+• This MEM's subject precedes the target in time
+• Example: MEM–RUSSIA–IVAN–IV TEMPORAL_BEFORE MEM–RUSSIA–TIME–OF–TROUBLES
+
+TEMPORAL_AFTER — Chronological successor
+• Inverse of TEMPORAL_BEFORE
+
+GEOGRAPHIC — Spatial relationship
+• This MEM's subject operates within or is shaped by the target geography
+• Example: MEM–RUSSIA–PETER–GREAT GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
 
 ────────────────────────────────────────────────────────────
-X.B CONNECTION JUSTIFICATION (REQUIRED)
+X.B MINIMUM REQUIREMENTS (TYPE COVERAGE)
 ────────────────────────────────────────────────────────────
-Each MEM Connection MUST include a concise justification explaining:
+Replace count-based requirements with type coverage.
 
-• What dependency exists
-• Why the connected MEM is necessary for intelligibility
-• What breaks if the connection is removed
+REQUIRED for all MEMs:
+• ≥1 DEPENDS_ON connection (prerequisite)
+• ≥1 ENABLES connection (consequence)
+• ≥1 GEOGRAPHIC connection (where applicable)
+• ≥1 TEMPORAL connection (BEFORE or AFTER)
 
-Justification is explanatory, not evaluative.
+REQUIRED for Subject MEMs:
+• ≥1 PARALLELS connection (cross-civ preferred)
+
+OPTIONAL:
+• CONTRADICTS (when genuine tension exists)
+
+Total connections may be fewer than legacy 10+, but each is meaningful
+and typed. Quality over quantity.
+
+────────────────────────────────────────────────────────────
+X.C FORMAT (TYPED CONNECTIONS)
+────────────────────────────────────────────────────────────
+MEM CONNECTIONS sections use the following format:
+
+```
+────────────────────────────────────────────────────────────
+MEM CONNECTIONS (TYPED)
+────────────────────────────────────────────────────────────
+
+DEPENDS_ON:
+• MEM–[CIV]–[SUBJECT] — [One-line explanation of dependency]
+• MEM–[CIV]–GEO–[LOCATION] — [Why this geography is prerequisite]
+
+ENABLES:
+• MEM–[CIV]–[SUBJECT] — [What this MEM makes possible]
+
+CONTRADICTS:
+• MEM–[CIV]–[SUBJECT] — [What tension exists]
+
+PARALLELS:
+• MEM–[OTHER-CIV]–[SUBJECT] — [What structural pattern is shared]
+
+GEOGRAPHIC:
+• MEM–[CIV]–GEO–[LOCATION] — [Spatial relationship]
+
+TEMPORAL_BEFORE:
+• MEM–[CIV]–[SUBJECT]
+
+TEMPORAL_AFTER:
+• MEM–[CIV]–[SUBJECT]
+```
+
+────────────────────────────────────────────────────────────
+X.D CONNECTION EXPLANATION (REQUIRED)
+────────────────────────────────────────────────────────────
+Each connection MUST include a one-line explanation:
+
+• For DEPENDS_ON: What understanding is prerequisite
+• For ENABLES: What this MEM makes possible
+• For CONTRADICTS: What tension or disagreement exists
+• For PARALLELS: What structural pattern is shared
+• For GEOGRAPHIC: What spatial relationship exists
+• For TEMPORAL: Explanation optional (relationship is self-evident)
+
+Explanation follows the MEM reference after a dash separator.
+
+────────────────────────────────────────────────────────────
+X.E TRAVERSAL AFFORDANCES
+────────────────────────────────────────────────────────────
+Typed connections enable intelligent traversal:
+
+• "What must I understand first?" → Follow DEPENDS_ON edges
+• "What are the consequences?" → Follow ENABLES edges forward
+• "What tensions exist?" → Follow CONTRADICTS edges
+• "What parallels exist in other civilizations?" → Follow PARALLELS edges
+• "Build a timeline" → Follow TEMPORAL edges to construct sequence
+
+OGE options SHOULD leverage connection types for navigation.
+
+────────────────────────────────────────────────────────────
+X.F LEGACY FORMAT (REMAINS VALID)
+────────────────────────────────────────────────────────────
+Existing MEMs with untyped connection lists remain valid.
+No forced migration required.
+
+When editing legacy MEMs for other reasons, consider converting
+to typed format. Tooling can assist with type inference.
+
+LEGACY FORMAT (still valid):
+```
+MEM CONNECTIONS
+Same-Civilization:
+• MEM–[CIV]–[SUBJECT]
+• ...
+
+GEO Connections:
+• MEM–[CIV]–GEO–[LOCATION]
+• ...
+```
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)
@@ -1074,7 +1205,7 @@ PURPOSE: Document alternative hypotheses considered and why
 the preferred interpretation was selected.
 
 Note: ACH Record is REQUIRED for SYNTHESIS entries where
-alternatives were evaluated (per CIV–MEM–CORE v3.0 Section XXVI).
+alternatives were evaluated (per CIV–MEM–CORE Section XXVI).
 For MEMs, it is optional.
 
 SECTION: ACH RECORD (LAYER 3)
@@ -1095,6 +1226,49 @@ SUBSECTION: VERDICT
 | PREFERRED_HYPOTHESIS | [ID] |
 | CONFIDENCE | [High/Medium/Low] |
 | KEY_DISCRIMINATOR | [Evidence that decided] |
+
+────────────────────────────────────────────────────────────
+XXV.E CONCEPTS — SEMANTIC INDEX (CMC 4.0)
+────────────────────────────────────────────────────────────
+Apply to: All MEMs (optional but recommended)
+
+PURPOSE: Enable semantic discovery across the corpus by tagging
+MEMs with analytical concepts from the controlled taxonomy.
+
+SECTION: CONCEPTS (SEMANTIC INDEX)
+
+```
+────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• [concept_key] — [One-line explanation of how concept applies]
+• [concept_key] — [One-line explanation]
+
+Secondary:
+• [concept_key] — [One-line explanation]
+• [concept_key] — [One-line explanation]
+```
+
+REQUIREMENTS:
+• 2-4 concepts per MEM (avoid over-tagging)
+• Each tag includes one-line explanation specific to this MEM
+• Primary = central to MEM's analysis
+• Secondary = relevant but not central
+• Use concept keys from CONCEPT–INDEX.md taxonomy
+
+CONCEPT CATEGORIES:
+• Structural (Mearsheimer): stopping_power_of_water, corridor_control, force_ratio...
+• Civilizational (Mercouris): legitimacy_through_suffering, institutional_absorption...
+• Mechanism (Barnes): defection_incentive, liability_chain, jurisdiction...
+• Cross-cutting: compression_under_pressure, reform_failure, succession_crisis...
+
+DISCOVERY BENEFIT:
+• Query "which MEMs discuss [concept]" returns tagged files
+• OGE can suggest traversal to MEMs sharing concepts
+• Cross-civ patterns become visible through shared tags
+
+See: docs/governance/CONCEPT–INDEX.md for full taxonomy.
 
 ────────────────────────────────────────────────────────────
 XXVI. STRUCTURED FIELD VALIDATION
@@ -1233,5 +1407,5 @@ They may NOT:
 • Break backward compatibility with existing MEMs
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE v3.0
+END OF FILE — CIV–MEM–TEMPLATE (CMC 4.0)
 ────────────────────────────────────────────────────────────

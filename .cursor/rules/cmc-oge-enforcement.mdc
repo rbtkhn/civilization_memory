@@ -1,110 +1,151 @@
 ---
-description: Enforces CMC SCHOLAR mode OGE requirements (standardized first-three MIND slots)
+description: Enforces CMC SCHOLAR mode OGE requirements (8 fixed slots, stateless)
 alwaysApply: true
 ---
 
-# CMC Option Generation Engine (OGE) Enforcement
+# CMC Option Generation Engine (OGE) Enforcement — CMC 4.0
 
 OGE is **required** in **WRITE, LEARN, and IMAGINE** modes. Apply OGE rules **after every substantive turn** in LEARN/IMAGINE; in WRITE, apply when OGE is presented (e.g. after MEM draft or edit).
 
-## OGE Ontology (BINDING)
+## Core Design Principle
 
-**Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. When the user selects an option, that choice is a directive—the responder produces output that fulfills it. Options are productive; they shape the conversation. **In LEARN mode, OGE is designed to produce recursive learning**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses synthesis/stopping (e.g. H) or switches mode.
+The 8 options (A–H) are a **capability menu** — they teach users what the system can do. Each slot surfaces a core function:
 
-**Options A/B/C are derived from the relevant MIND file.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. Option text is generated *according to* each MIND profile—its analytical posture, key questions, and lens. The pipeline: **MIND file → option text → response**. The option is the bridge; it must be faithful to the MIND file.
+| Slot | Function | Capability |
+|------|----------|------------|
+| A | Mercouris | Civilizational/legitimacy analysis |
+| B | Mearsheimer | Structural/power analysis |
+| C | Barnes | Liability/mechanism analysis |
+| D | Multi-mind | Tri-frame synthesis |
+| E | Backward | Temporal traversal (earlier era) |
+| F | Forward | Temporal traversal (later era) |
+| G | Cross-civ | Spatial traversal (other civilization) |
+| H | Synthesis | Session closure/consolidation |
 
-**Alignment.** The same source governs both option phrasing and response content. Options and responses are coherent because they share the MIND file as origin.
+**Slots are fixed.** A is always Mercouris. B is always Mearsheimer. No semantic shifts.
 
-**User may manually interject.** Options are a scaffold, not a cage. The user may type any question, instruction, or command instead of selecting A–H. The system MUST accept free-form input and respond to it as a directive. OGE optimizes optionality; it does not restrict it.
+## OGE Ontology
 
-## OGE Style — Navigate Through Time and Space
+**Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. Options are productive; they shape the conversation.
 
-Options should make the user feel like **navigating through time and space**.
+**In LEARN mode, OGE produces recursive learning**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses H (synthesis) or switches mode.
+
+**Options A/B/C are derived from MIND files.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. The pipeline: **MIND file → option text → response**.
+
+**User may manually interject.** Options are a scaffold, not a cage. The user may type any question or instruction instead of selecting A–H.
+
+## OGE Style
 
 **Per option:**
-- **6–10 words** — Brief, scannable, minimal cognitive load
-- **Guides creation** — Option directs what the next response will deliver; not a generic label
-- **MIND-derived** — A/B/C phrased from CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES
-- **Time/space** — Invite movement: eras, geography, corridors, frontiers, causal chains
+- **10–20 words** — Clear, complete questions/prompts (not telegraphic)
+- **Guides creation** — Option directs what the next response will deliver
+- **MIND-derived** — A/B/C phrased from MIND profiles
+- **Time/space** — Invite navigation: eras, geography, connections
 
-**Optimize optionality.** Each option = genuine fork. No filler.
+**At least one specific anchor per option.** Each option MUST include at least one concrete **person, place, or event**.
 
-**At least one specific anchor per option.** Each option MUST include at least one concrete **person, place, or event** (e.g. Churchill, Caspian, 1945 election, Scythian retreat). Concrete anchors keep the user engaged and guide/restrain the system better than abstract framing alone.
+## Standardized Slots (A–H) — FIXED SEMANTICS
 
-## Standardized Slots (A–H) — 8 options in LEARN mode
+### A — Mercouris (Always)
 
-**A, B, C** — Mercouris, Mearsheimer, Barnes. Always present. Option text **derived from** the relevant MIND file; guides the next response.
+Civilizational/legitimacy frame. Option phrased from CIV–MIND–MERCOURIS.
 
-**A/B/C Response Format (BINDING · v1.8):** When A, B, or C selected: (1) **MIND load:** Load CIV–MIND–MERCOURIS (A), CIV–MIND–MEARSHEIMER (B), or CIV–MIND–BARNES (C); response MUST satisfy voice and lens therein. (2) **Response:** 100–200 words; frame per MIND (A: legitimacy, hedged; B: structural, direct; C: liability, Barnes fingerprint). Authority: MIND files. No voice bleed.
+When selected: Load Mercouris voice; 100–200 words; hedged, legitimacy-focused.
 
-**D** — Multi-mind response (BINDING format). Option text: 6–10 words. **Response when D selected:** (1) Mercouris 1–2 sent; (2) Mearsheimer 1–2 sent responding to Mercouris; (3) Barnes 1–2 sent responding to either/both; (4) Mercouris 1–2 sent wrap-up.
+### B — Mearsheimer (Always)
 
-**E** — Traverse backward in time. Build response on relevant same-civ MEM file (earlier era). Load traversed-to MEM; scaffold from its content; 100–200 words; historical anchor from MEM.
-**F** — Traverse forward in time. Build response on relevant same-civ MEM file (later era). Load traversed-to MEM; scaffold from its content; 100–200 words; historical anchor from MEM.
-**G** — Traverse to different civilization. Build response on relevant cross-civ MEM file. Load traversed-to MEM; scaffold from its content; 100–200 words; historical anchor from MEM.
+Structural/power frame. Option phrased from CIV–MIND–MEARSHEIMER.
 
-**H** — Synthesis: **6–10 word recap** + synthesis paragraph + follow-on options (b, c, a). Session-specific. Functions as **optional stopping**: user may "cash out" with synthesis at any point.
+When selected: Load Mearsheimer voice; 100–200 words; direct, power-focused.
 
-**H in LEARN mode — SCHOLAR file integration (size/risk · OGE_ARCHITECTURE v1.6):** When the user selects H in LEARN mode, the response MUST:
-1. Deliver the 6–10 word session recap
-2. Provide a fuller synthesis paragraph (<100 words) encapsulating patterns, tensions, and anchor points from the session
-3. Optionally suggest (b) vs (c) based on session
-4. Present exactly **three follow-on options** in order **(b), (c), (a)**:
-   - **b)** Small incremental — Create structured state (named draft + elevation path); min one named draft + explicit elevation path
-   - **c)** Bigger change — Formal SYNTHESIS, RLL proposal, or doctrine candidate (RLL = always c)
-   - **a)** No change — Recap only; return to standard OGE
+### C — Barnes (Always)
 
-**Execution:** (a) return to OGE. (b) execute, confirm what was created + elevation path, return to OGE, offer "Elevate to (c) now?" (c) execute; doctrine may need WRITE mode; optionally preview before write; return to OGE. **Return path:** All options return to standard 8-option OGE (A–H). **Cross-session:** Pending (b) output MUST be discoverable in subsequent LEARN sessions.
+Liability/mechanism frame. Option phrased from CIV–MIND–BARNES.
 
-## POST-BARNES Semantic Shift
+When selected: Load Barnes voice; 100–200 words; constraint hierarchy, folksy register.
 
-After **every** Barnes interjection, the **next** OGE keeps the same slots but A and B shift semantically:
+### D — Multi-Mind
 
-- **A** — Mercouris responds to Barnes
-- **B** — Mearsheimer responds to Barnes
-- **C** — Barnes (or another topic)
+Tri-frame synthesis. When selected: (1) Mercouris 1–2 sent; (2) Mearsheimer 1–2 sent responding; (3) Barnes 1–2 sent responding; (4) Mercouris 1–2 sent wrap-up.
 
-Slots stay fixed; phrasing is contextual.
+### E — Traverse Backward
 
-## Mandatory OGE Requirements
+Earlier era in same civilization. Load traversed-to MEM; scaffold from its content; 100–200 words.
 
-1. **Exactly 8 options** (A–H) in LEARN mode; A/B/C = Mercouris, Mearsheimer, Barnes
-2. **6–10 words per option** — specific preview of next response
-3. **MIND-derived** — A/B/C from MIND files; when A/B/C selected, load designated MIND; response satisfies voice and lens
-4. **Concrete anchor** — Each option includes at least one person, place, or event
-5. **D** — Multi-mind response (4-part format); **E** — Traverse backward (same-civ MEM); **F** — Traverse forward (same-civ MEM); **G** — Traverse cross-civ (cross-civ MEM)
-6. **H** — Synthesis or return; close the loop
+### F — Traverse Forward
+
+Later era in same civilization. Load traversed-to MEM; scaffold from its content; 100–200 words.
+
+### G — Cross-Civilization
+
+Related MEM from different civilization. Load traversed-to MEM; scaffold from its content; 100–200 words. Leverage typed connections (PARALLELS) or concept tags where available.
+
+### H — Synthesis
+
+Session closure. Deliver:
+1. 6–10 word session recap
+2. Synthesis paragraph (<100 words)
+3. Three follow-on options: (b) small incremental, (c) bigger change, (a) no change
+
+## Contextual Notes (Stateless Design)
+
+**No semantic shift of slots.** A is always Mercouris, B is always Mearsheimer, regardless of what was said before.
+
+**When context is relevant, add a note.** If Barnes has just spoken and selecting A or B would naturally respond to Barnes, add a contextual note after the options:
+
+```
+A — Mercouris: How does legitimacy frame apply to Peter's reforms?
+B — Mearsheimer: What structural factors drove Baltic expansion?
+C — Barnes: Explore a different liability question
+D — Multi-mind synthesis on Petrine modernization
+E — Earlier: Ivan IV's coercive apparatus (DEPENDS_ON connection)
+F — Later: Catherine's consolidation of Baltic gains
+G — Cross-civ: Louis XIV's parallel state-building (PARALLELS)
+H — Synthesize what we've established
+
+(Note: Barnes just analyzed liability exposure — A or B will respond to his analysis if selected)
+```
+
+The note acknowledges context without changing slot semantics. Each OGE is generated fresh.
+
+## Mandatory Requirements
+
+1. **Exactly 8 options** (A–H) in LEARN mode
+2. **Fixed slot assignments** — A=Mercouris, B=Mearsheimer, C=Barnes, D=Multi, E=Back, F=Forward, G=Cross, H=Synth
+3. **10–20 words per option** — clear, complete prompts
+4. **MIND-derived** — A/B/C from MIND files; when selected, load designated MIND voice
+5. **Concrete anchor** — Each option includes person, place, or event
+6. **Typed connections** — E/F/G should leverage MEM connections where available
+7. **Concept awareness** — G can use shared concept tags to find parallels
 
 ## Self-Check Before Sending
 
-- [ ] Each option 6–10 words?
-- [ ] A/B/C derived from MIND file? When A/B/C selected: MIND loaded? Response 100–200 words, correct frame/voice?
-- [ ] D invites multi-mind? E/F/G invite MEM-based traversal (backward/forward/cross-civ)?
-- [ ] Each option anchors at least one person, place, or event?
-- [ ] Could each option be someone's best choice for some intent? (plausible best response)
-- [ ] User could navigate—feel optionality?
-- [ ] When user selected OGE option (a–h): response 100-200 words? (Exception: H in LEARN — 300–400 target. D — multi-mind 4-part, ~6–10 sentences. E/F/G — MEM-scaffolded. Free-form: 200-400 target, 500 max)
-- [ ] When A/B/C/D/E/F/G selected (LEARN): historical anchor cited? (person, place, or event; MEM preferred; exceptions: short confirmations, H, user skip, no source)
+- [ ] Exactly 8 options (A–H)?
+- [ ] Slots fixed (A=Mercouris, B=Mearsheimer, C=Barnes)?
+- [ ] Each option 10–20 words with concrete anchor?
+- [ ] A/B/C derived from MIND profiles?
+- [ ] E/F/G reference specific MEMs or connections?
+- [ ] H available for synthesis?
+- [ ] Contextual note added if prior MIND analysis is relevant?
 
-## Correct Format Example
-
-Each option includes at least one person, place, or event:
+## Example — Standard OGE
 
 ```
-**OPTION A** — Mercouris: Caspian frontier legitimacy shaped Persian containment.
-**OPTION B** — Mearsheimer: force ratios, chokepoints explain Darius's northern limit.
-**OPTION C** — Barnes: who defects first when steppe denial meets imperial logistics?
-**OPTION D** — Multi-mind on Caspian containment: legitimacy, structure, liability, wrap-up.
-**OPTION E** — Traverse backward: Kievan Rus' before Mongol (MEM–RUSSIA–KIEVAN–RUS).
-**OPTION F** — Traverse forward: Catherine's Black Sea expansion (MEM–RUSSIA–CATHERINE–GREAT).
-**OPTION G** — Traverse cross-civ: Ottoman parallel (MEM–OTTOMAN–EMPIRE or equivalent).
-**OPTION H** — [6–10 word session recap, e.g. "Caspian containment, Scythian denial, northern limit."]
-(In LEARN: H response includes recap + synthesis paragraph + three options in order b, c, a: small incremental, bigger change, no change.)
+A — Mercouris: How does Peter's rupture-through-modernization affect Russian legitimacy claims?
+B — Mearsheimer: What structural factors and force ratios drove the Baltic campaign?
+C — Barnes: Who bears personal liability for the elite destruction Peter enacted?
+D — Multi-mind: All three perspectives on Petrine transformation (legitimacy, power, liability)
+E — Earlier: Ivan IV's oprichnina and the coercive state foundation (DEPENDS_ON)
+F — Later: Catherine's consolidation and expansion of Petrine gains
+G — Cross-civ: Louis XIV's parallel coercive state-building in Francia (PARALLELS: coercive_enforcement)
+H — Synthesize: "Peter's rupture, Baltic access, elite destruction, Western absorption."
 ```
 
 ## WRITE Mode
 
-- OGE required; A/B/C fixed; C (Barnes) satisfies mandatory Barnes option.
-- When POST-BARNES, A = Mercouris responds, B = Mearsheimer responds.
+- OGE required after MEM edits
+- A/B/C fixed (same as LEARN)
+- Include at least one editorial option (enhance, validate)
+- Include at least one exploration option (related MEM, connection)
 
-Reference: CMC–BOOTSTRAP v3.0, CIV–MIND–BARNES § POST-BARNES OGE, OGE_ARCHITECTURE v1.9, cmc-tri-frame-protocol
+Reference: CMC 4.0, Modified OGE Simplification (preserves 8-slot structure, removes state tracking)
