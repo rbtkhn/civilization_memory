@@ -89,6 +89,7 @@ II.C CMC 4.0 — OGE SIMPLIFICATION (MODIFIED)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-04
 Type: STRUCTURAL
+CORE Version: CIV–MEM–CORE v3.1
 
 DECISION: MODIFY — Keep 8-slot structure, remove state tracking
 

@@ -1,20 +1,87 @@
-CIV–MEM–CORE — v3.0
+CIV–MEM–CORE — v3.1
 Civilizational Memory Codex · System Core
-CONSOLIDATION EDITION · INTEGRATED GOVERNANCE
+CMC 4.0 EDITION · STRUCTURAL IMPROVEMENTS
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 3.0
+Version: 3.1
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v2.9
-Upgrade Type: CONSOLIDATION · INTEGRATED GOVERNANCE
+Supersedes: CIV–MEM–CORE v3.0
+Upgrade Type: CMC 4.0 · STRUCTURAL IMPROVEMENTS
 Last Update: February 2026
 
 LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
 CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — CMC 4.0 · STRUCTURAL IMPROVEMENTS
+────────────────────────────────────────────────────────────
+This version implements structural improvements collectively designated
+CMC 4.0. Four major changes are introduced:
+
+VERSION DECOUPLING (CMC 4.0)
+
+Content versions are now independent of governance versions. MEMs track
+content changes only; governance binds via single CMC version.
+
+• Single governance version: CMC 4.0 (not per-document versions)
+• Simplified MEM headers: No governance declarations in content files
+• Centralized compliance: COMPLIANCE–REGISTRY.md tracks MEM status
+• Governance history: CHANGELOG.md consolidates all changes
+
+TYPED CONNECTIONS (CMC 4.0)
+
+MEM connections now use typed, directional edges:
+
+• DEPENDS_ON: Prerequisite relationship
+• ENABLES: Makes possible
+• CONTRADICTS: Creates tension
+• PARALLELS: Similar pattern, different context
+• TEMPORAL_BEFORE / TEMPORAL_AFTER: Time sequence
+• GEOGRAPHIC: Spatial relationship
+
+CONNECTION–TYPES.md provides authoritative reference.
+
+CONCEPT INDEX (CMC 4.0)
+
+Semantic discovery layer for cross-corpus queries:
+
+• ~40 analytical concepts organized by frame (Mearsheimer, Mercouris,
+  Barnes, Cross-cutting)
+• Optional CONCEPTS section in MEM files (2-4 tags with explanations)
+• Enables queries like "which MEMs discuss legitimacy through suffering?"
+
+CONCEPT–INDEX.md provides taxonomy; schema.sql includes concepts tables.
+
+OGE SIMPLIFICATION (CMC 4.0 — MODIFIED)
+
+Option Generation Engine simplified while preserving 8-slot structure:
+
+• Fixed slots preserved: A=Mercouris, B=Mearsheimer, C=Barnes, D=Multi,
+  E=Backward, F=Forward, G=Cross-civ, H=Synthesis
+• State tracking removed: No POST-BARNES semantic shift
+• Contextual notes replace slot shifts
+• Label length increased to 10-20 words for clarity
+
+The 8 slots function as a capability menu teaching users system functions.
+
+Effect:
+• All existing MEM files remain valid
+• New MEMs may use simplified headers, typed connections, concept tags
+• OGE remains 8 options but without state tracking
+• No migration deadline for existing content
+
+Backward Compatibility:
+• Legacy MEM headers remain valid (no batch upgrade required)
+• Untyped connections remain valid
+• Prior OGE rules superseded by CMC 4.0 stateless design
+
+Reference: PROPOSAL–VERSION–DECOUPLING, PROPOSAL–TYPED–CONNECTIONS,
+PROPOSAL–CONCEPT–INDEX, PROPOSAL–OGE–SIMPLIFICATION (all IMPLEMENTED);
+CHANGELOG.md; CMC–BOOTSTRAP; VERSION–MANIFEST
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.0) — CONSOLIDATION · INTEGRATED GOVERNANCE

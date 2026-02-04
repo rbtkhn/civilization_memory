@@ -55,7 +55,7 @@ These documents are governed by CMC 4.0.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE
+• CIV–MEM–CORE (v3.1 — CMC 4.0 structural improvements)
 • CMC–BOOTSTRAP
 • VERSION–MANIFEST (this file)
 
