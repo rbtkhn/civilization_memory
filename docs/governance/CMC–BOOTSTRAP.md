@@ -2,27 +2,27 @@ CMC–BOOTSTRAP
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
-Governed by: CMC 4.0
+Governed by: CMC 3.1
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (CMC 4.0) — VERSION DECOUPLING
+UPGRADE NOTE (CMC 3.1) — VERSION DECOUPLING
 ────────────────────────────────────────────────────────────
 This version implements VERSION DECOUPLING per PROPOSAL–VERSION–DECOUPLING.
 
 KEY CHANGES:
-• Single CMC Governance Version (CMC 4.0)
+• Single CMC Governance Version (CMC 3.1)
 • MEM headers simplified (no governance declarations)
 • Compliance tracked in COMPLIANCE–REGISTRY.md
 • Version history in CHANGELOG.md
-• Binding declaration simplified: "Bound by CMC 4.0"
+• Binding declaration simplified: "Bound by CMC 3.1"
 
 See: docs/governance/VERSION–MANIFEST.md
 
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC 4.0"
+1) Declare binding: "Bound by CMC 3.1"
 2) Select ONE SCHOLAR mode: WRITE, LEARN, or IMAGINE
 3) Apply mode rules before acting (WRITE = MEM edits; LEARN = no MEM edits)
 4) OGE required in ALL modes (LEARN/IMAGINE: 8 options A–H, M+B; WRITE: 1 Barnes min). POST-BARNES → M/M response options.
@@ -167,13 +167,13 @@ This version corrects discrepancies identified in v1.0:
 • Added file naming convention
 
 ────────────────────────────────────────────────────────────
-GOVERNANCE VERSION (CMC 4.0 — VERSION DECOUPLING)
+GOVERNANCE VERSION (CMC 3.1 — VERSION DECOUPLING)
 ────────────────────────────────────────────────────────────
-Under CMC 4.0 Version Decoupling, all governance documents are
-governed by a single version: CMC 4.0
+Under CMC 3.1 Version Decoupling, all governance documents are
+governed by a single version: CMC 3.1
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (CMC 4.0)
+• CIV–MEM–CORE (CMC 3.1)
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS (PRIMARY)
@@ -189,7 +189,7 @@ TEMPLATES:
 Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
-Declare: "Bound by CMC 4.0"
+Declare: "Bound by CMC 3.1"
 
 See: docs/governance/VERSION–MANIFEST.md (Section I)
 
@@ -419,7 +419,7 @@ CROSS–CIVILIZATIONAL MISPERCEPTION (CCM — per CIV–MEM–CORE § XXVIII):
 • Treat as expected (emergent realism), not consistency break. Do not require correction to match the other's self-explanation.
 • First-order (capabilities/priorities) and second-order (encoding reasons) misperception are both recognized; preserve tension.
 
-VERSION RULE (BINDING — per CMC 4.0 Version Decoupling):
+VERSION RULE (BINDING — per CMC 3.1 Version Decoupling):
 • MEM files declare CONTENT VERSION only (tracks content changes, not governance)
 • New MEMs use simplified header (no Template Version Used, Governed by, etc.)
 • Existing MEMs with legacy headers remain valid
@@ -538,5 +538,5 @@ For full specification, read:
 • docs/templates/CIV–MIND–BARNES.md
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP (CMC 4.0)
+END — CMC–BOOTSTRAP (CMC 3.1)
 ────────────────────────────────────────────────────────────

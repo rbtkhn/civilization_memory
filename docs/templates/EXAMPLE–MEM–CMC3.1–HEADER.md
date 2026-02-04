@@ -10,10 +10,10 @@ Last Updated: February 2026
 Word Count: ~500
 
 ────────────────────────────────────────────────────────────
-EXAMPLE: CMC 4.0 SIMPLIFIED HEADER
+EXAMPLE: CMC 3.1 SIMPLIFIED HEADER
 ────────────────────────────────────────────────────────────
 This file demonstrates the simplified MEM header format under
-CMC 4.0 Version Decoupling.
+CMC 3.1 Version Decoupling.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE
@@ -23,10 +23,10 @@ governance declarations from individual MEM files.
 
 REMOVED FROM HEADER (now centralized):
 • Template Version Used (tracked in COMPLIANCE–REGISTRY)
-• Governed by (all files governed by CMC 4.0)
+• Governed by (all files governed by CMC 3.1)
 • Supersedes (tracked in content version)
 • Upgrade Type (tracked in CHANGELOG)
-• Compatibility (all governed by CMC 4.0)
+• Compatibility (all governed by CMC 3.1)
 
 RETAINED IN HEADER:
 • Version (content version only)
@@ -93,7 +93,7 @@ VI. MEM INGEST BOOTSTRAP (MANDATORY)
 If ingested without context:
 
 "MEM–EXAMPLE–SIMPLIFIED–HEADER active. This MEM demonstrates
-the CMC 4.0 simplified header format for MEM files."
+the CMC 3.1 simplified header format for MEM files."
 
 EXPLORATION OPTIONS:
 A) Read VERSION–MANIFEST for governance details
@@ -103,7 +103,7 @@ D) Read CIV–MEM–TEMPLATE for full MEM requirements
 E) Compare with legacy header format
 F) Apply format to new MEM creation
 G) Review migration guidance
-H) Recap: CMC 4.0 decouples content from governance versions
+H) Recap: CMC 3.1 decouples content from governance versions
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–EXAMPLE–SIMPLIFIED–HEADER v1.0

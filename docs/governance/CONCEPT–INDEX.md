@@ -2,7 +2,7 @@ CONCEPT–INDEX
 Civilizational Memory Codex · Semantic Discovery Layer
 Analytical Concept Taxonomy and MEM Mappings
 
-Governed by: CMC 4.0
+Governed by: CMC 3.1
 Status: ACTIVE · CANONICAL
 Last Updated: February 2026
 
@@ -217,5 +217,5 @@ CONCEPT REVIEW:
 • Definitions may be refined based on usage
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CONCEPT–INDEX (CMC 4.0)
+END OF FILE — CONCEPT–INDEX (CMC 3.1)
 ────────────────────────────────────────────────────────────

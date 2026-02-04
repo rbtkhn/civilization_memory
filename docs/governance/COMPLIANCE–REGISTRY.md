@@ -3,7 +3,7 @@ Civilizational Memory Codex · Centralized Compliance Tracking
 MEM File Validation Status
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 4.0
+Governed by: CMC 3.1
 Last Updated: 2026-02-04
 Purpose: Track compliance status of all MEM files centrally
 
@@ -17,13 +17,13 @@ Previously, each MEM file declared its own compliance status in headers:
 • "COMPLIANT (CIV–MEM–TEMPLATE v3.0)"
 • etc.
 
-Under CMC 4.0 Version Decoupling:
+Under CMC 3.1 Version Decoupling:
 • Compliance status is tracked HERE, not in individual files
 • MEM headers are simplified (no governance declarations)
 • Validation results are centralized and queryable
 
 ────────────────────────────────────────────────────────────
-II. COMPLIANCE CRITERIA (CMC 4.0)
+II. COMPLIANCE CRITERIA (CMC 3.1)
 ────────────────────────────────────────────────────────────
 A MEM is COMPLIANT if:
 
@@ -45,7 +45,7 @@ CONNECTIONS:
 STATUS LEVELS:
 • COMPLIANT — Meets all criteria
 • PARTIAL — Meets most criteria, minor gaps
-• LEGACY — Pre-CMC 4.0 format, content valid
+• LEGACY — Pre-CMC 3.1 format, content valid
 • NEEDS_UPGRADE — Structural issues requiring attention
 
 ────────────────────────────────────────────────────────────

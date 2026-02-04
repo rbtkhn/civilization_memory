@@ -34,7 +34,7 @@ Shorter OGE responses with better options > long responses that exhaust attentio
 - **Forbidden by default**: Bullets, tables, numbered lists
 - **Exception**: User explicitly requests structured format, OR you offer it as OGE option
 
-## OGE Requirements (CMC 4.0 — Fixed Slots, Stateless)
+## OGE Requirements (CMC 3.1 — Fixed Slots, Stateless)
 
 After every substantive analytical turn, provide **exactly 8 options** (A–H):
 

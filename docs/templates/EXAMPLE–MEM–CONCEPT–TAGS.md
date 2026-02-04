@@ -10,10 +10,10 @@ Last Updated: February 2026
 Word Count: ~500
 
 ────────────────────────────────────────────────────────────
-EXAMPLE: CMC 4.0 CONCEPT TAGGING
+EXAMPLE: CMC 3.1 CONCEPT TAGGING
 ────────────────────────────────────────────────────────────
 This file demonstrates the optional CONCEPTS section introduced
-in CMC 4.0 (PROPOSAL–CONCEPT–INDEX).
+in CMC 3.1 (PROPOSAL–CONCEPT–INDEX).
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE
@@ -98,7 +98,7 @@ VI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • PROPOSAL–CONCEPT–INDEX.md (2026)
 • CONCEPT–INDEX.md (2026)
-• CIV–MEM–TEMPLATE (CMC 4.0)
+• CIV–MEM–TEMPLATE (CMC 3.1)
 
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS (TYPED)
@@ -115,7 +115,7 @@ VIII. MEM INGEST BOOTSTRAP (MANDATORY)
 If ingested without context:
 
 "MEM–EXAMPLE–CONCEPT–TAGS active. This MEM demonstrates
-the CMC 4.0 concept tagging format for semantic discovery."
+the CMC 3.1 concept tagging format for semantic discovery."
 
 EXPLORATION OPTIONS:
 A) Read CONCEPT–INDEX for full taxonomy

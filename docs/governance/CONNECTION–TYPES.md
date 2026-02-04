@@ -2,7 +2,7 @@ CONNECTION–TYPES
 Civilizational Memory Codex · Typed Connection Reference
 Directional Edge Semantics for MEM Connections
 
-Governed by: CMC 4.0
+Governed by: CMC 3.1
 Status: ACTIVE · CANONICAL
 Last Updated: February 2026
 
@@ -10,7 +10,7 @@ Last Updated: February 2026
 I. PURPOSE
 ────────────────────────────────────────────────────────────
 This document defines the typed connection system introduced
-in CMC 4.0 (PROPOSAL–TYPED–CONNECTIONS).
+in CMC 3.1 (PROPOSAL–TYPED–CONNECTIONS).
 
 Typed connections replace mechanical count-based requirements
 with meaningful directional edges that enable intelligent
@@ -270,5 +270,5 @@ MIGRATION:
 • Tooling can assist with type inference
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CONNECTION–TYPES (CMC 4.0)
+END OF FILE — CONNECTION–TYPES (CMC 3.1)
 ────────────────────────────────────────────────────────────

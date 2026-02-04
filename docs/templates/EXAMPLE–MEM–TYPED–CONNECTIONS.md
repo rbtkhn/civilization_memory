@@ -10,10 +10,10 @@ Last Updated: February 2026
 Word Count: ~600
 
 ────────────────────────────────────────────────────────────
-EXAMPLE: CMC 4.0 TYPED CONNECTIONS
+EXAMPLE: CMC 3.1 TYPED CONNECTIONS
 ────────────────────────────────────────────────────────────
 This file demonstrates the typed connection format introduced
-in CMC 4.0 (PROPOSAL–TYPED–CONNECTIONS).
+in CMC 3.1 (PROPOSAL–TYPED–CONNECTIONS).
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE
@@ -103,7 +103,7 @@ GEO Connections:
 • MEM–RUSSIA–GEO–NEVA–RIVER
 ```
 
-TYPED (CMC 4.0):
+TYPED (CMC 3.1):
 • Each connection categorized by relationship type
 • Each connection includes one-line explanation
 • Traversal semantics clear (DEPENDS_ON = read first)
@@ -132,7 +132,7 @@ VI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • PROPOSAL–TYPED–CONNECTIONS.md (2026)
 • CONNECTION–TYPES.md (2026)
-• CIV–MEM–TEMPLATE (CMC 4.0)
+• CIV–MEM–TEMPLATE (CMC 3.1)
 
 ────────────────────────────────────────────────────────────
 VII. MEM INGEST BOOTSTRAP (MANDATORY)
@@ -140,7 +140,7 @@ VII. MEM INGEST BOOTSTRAP (MANDATORY)
 If ingested without context:
 
 "MEM–EXAMPLE–TYPED–CONNECTIONS active. This MEM demonstrates
-the CMC 4.0 typed connection format for MEM files."
+the CMC 3.1 typed connection format for MEM files."
 
 EXPLORATION OPTIONS:
 A) Read CONNECTION–TYPES for type definitions

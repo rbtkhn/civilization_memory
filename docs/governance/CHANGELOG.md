@@ -3,7 +3,7 @@ Civilizational Memory Codex · Governance Change History
 Consolidated Version History
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 4.0
+Governed by: CMC 3.1
 Last Updated: 2026-02-04
 Purpose: Track all governance changes in one place
 
@@ -15,13 +15,13 @@ This file consolidates governance change history.
 Previously, upgrade notes were embedded in every governance file,
 accumulating hundreds of lines of version history across the repository.
 
-Under CMC 4.0 Version Decoupling:
+Under CMC 3.1 Version Decoupling:
 • Governance changes are logged HERE
 • Individual files no longer contain upgrade notes
 • History is centralized and searchable
 
 ────────────────────────────────────────────────────────────
-II. CMC 4.0 — VERSION DECOUPLING EDITION
+II. CMC 3.1 — VERSION DECOUPLING EDITION
 ────────────────────────────────────────────────────────────
 Date: 2026-02-04
 Type: STRUCTURAL
@@ -42,7 +42,7 @@ RATIONALE:
 
 IMPLEMENTATION:
 • PROPOSAL–VERSION–DECOUPLING.md (accepted)
-• VERSION–MANIFEST v3.0 → v4.0
+• VERSION–MANIFEST v3.0 → v3.1
 • New: COMPLIANCE–REGISTRY.md v1.0
 • New: CHANGELOG.md v1.0
 
@@ -52,7 +52,7 @@ MIGRATION:
 • No batch upgrade required
 
 ────────────────────────────────────────────────────────────
-II.B CMC 4.0 — TYPED CONNECTIONS
+II.B CMC 3.1 — TYPED CONNECTIONS
 ────────────────────────────────────────────────────────────
 Date: 2026-02-04
 Type: STRUCTURAL
@@ -85,7 +85,7 @@ MIGRATION:
 • No batch migration required
 
 ────────────────────────────────────────────────────────────
-II.C CMC 4.0 — OGE SIMPLIFICATION (MODIFIED)
+II.C CMC 3.1 — OGE SIMPLIFICATION (MODIFIED)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-04
 Type: STRUCTURAL
@@ -121,7 +121,7 @@ IMPLEMENTATION:
 • cmc-scholar-mode.mdc — Updated
 
 ────────────────────────────────────────────────────────────
-II.D CMC 4.0 — CONCEPT INDEX
+II.D CMC 3.1 — CONCEPT INDEX
 ────────────────────────────────────────────────────────────
 Date: 2026-02-04
 Type: ADDITIVE

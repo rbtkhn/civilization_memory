@@ -1,4 +1,4 @@
-VERSION–MANIFEST — v4.0
+VERSION–MANIFEST — v3.1
 Civilizational Memory Codex · Canonical Version Registry
 VERSION DECOUPLING EDITION
 
@@ -9,12 +9,12 @@ Supersedes: VERSION–MANIFEST v3.0
 Purpose: Single source of truth for governance version
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v4.0) — VERSION DECOUPLING
+UPGRADE NOTE (v3.1) — VERSION DECOUPLING
 ────────────────────────────────────────────────────────────
 This version implements PROPOSAL–VERSION–DECOUPLING.
 
 KEY CHANGES:
-• Single CMC Governance Version declared (CMC 4.0)
+• Single CMC Governance Version declared (CMC 3.1)
 • MEM files no longer declare governance version in headers
 • Compliance tracking centralized in COMPLIANCE–REGISTRY.md
 • Version history moved to CHANGELOG.md
@@ -31,7 +31,7 @@ I. CMC GOVERNANCE VERSION (SINGLE SOURCE OF TRUTH)
 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│              CMC GOVERNANCE VERSION: 4.0                    │
+│              CMC GOVERNANCE VERSION: 3.1                    │
 │                                                             │
 │  Effective: 2026-02-04                                      │
 │  Supersedes: CMC 3.0                                        │
@@ -49,13 +49,13 @@ Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
 ────────────────────────────────────────────────────────────
-II. GOVERNANCE DOCUMENTS (ALL CMC 4.0)
+II. GOVERNANCE DOCUMENTS (ALL CMC 3.1)
 ────────────────────────────────────────────────────────────
-These documents are governed by CMC 4.0.
+These documents are governed by CMC 3.1.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (v3.1 — CMC 4.0 structural improvements)
+• CIV–MEM–CORE (v3.1 — CMC 3.1 structural improvements)
 • CMC–BOOTSTRAP
 • VERSION–MANIFEST (this file)
 
@@ -92,7 +92,7 @@ Content version does NOT increment for:
 • Header format changes
 • Compliance status updates
 
-SIMPLIFIED MEM HEADER FORMAT (CMC 4.0):
+SIMPLIFIED MEM HEADER FORMAT (CMC 3.1):
 ```
 MEM–[CIV]–[SUBJECT] — v[X.Y]
 Civilizational Memory Codex · Memory File
@@ -137,7 +137,7 @@ For detailed changelog, see:
 • docs/governance/CHANGELOG.md
 
 MAJOR VERSIONS:
-• CMC 4.0 (2026-02-04): Version Decoupling Edition
+• CMC 3.1 (2026-02-04): Version Decoupling Edition
 • CMC 3.0 (2026-02-02): Consolidation Edition
 • CMC 2.x (2026-01): Development iterations
 • CMC 1.x (2025): Initial architecture
@@ -147,7 +147,7 @@ VI. QUICK BINDING DECLARATION
 ────────────────────────────────────────────────────────────
 For session startup, declare:
 
-"Bound by CMC Governance Version 4.0"
+"Bound by CMC Governance Version 3.1"
 
 This single declaration replaces all previous multi-line bindings.
 
@@ -156,10 +156,10 @@ VII. COMPLIANCE RULES
 ────────────────────────────────────────────────────────────
 1. New MEMs use simplified header format (Section III)
 2. Existing MEMs with old headers remain valid
-3. MIND profile references use "CMC 4.0" not individual versions
+3. MIND profile references use "CMC 3.1" not individual versions
 4. Compliance status tracked in COMPLIANCE–REGISTRY.md
 5. Version changes logged in CHANGELOG.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v4.0
+END OF FILE — VERSION–MANIFEST — v3.1
 ────────────────────────────────────────────────────────────

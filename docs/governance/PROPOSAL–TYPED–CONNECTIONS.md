@@ -2,7 +2,7 @@ PROPOSAL–TYPED–CONNECTIONS — v1.0
 Civilizational Memory Codex · Structural Improvement Proposal
 Replace Mechanical Connection Counts with Typed Directional Edges
 
-Status: IMPLEMENTED · CMC 4.0
+Status: IMPLEMENTED · CMC 3.1
 Author: System Analysis
 Date: February 2026
 Implemented: 2026-02-04

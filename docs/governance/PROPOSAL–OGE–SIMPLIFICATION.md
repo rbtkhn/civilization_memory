@@ -2,7 +2,7 @@ PROPOSAL–OGE–SIMPLIFICATION — v1.1
 Civilizational Memory Codex · Structural Improvement Proposal
 Simplify OGE to Stateless Option Generation (Modified)
 
-Status: IMPLEMENTED · CMC 4.0
+Status: IMPLEMENTED · CMC 3.1
 Author: System Analysis
 Date: February 2026
 Implemented: 2026-02-04

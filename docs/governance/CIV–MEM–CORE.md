@@ -1,6 +1,6 @@
 CIV–MEM–CORE — v3.1
 Civilizational Memory Codex · System Core
-CMC 4.0 EDITION · STRUCTURAL IMPROVEMENTS
+CMC 3.1 EDITION · STRUCTURAL IMPROVEMENTS
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
@@ -10,29 +10,29 @@ Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
 Supersedes: CIV–MEM–CORE v3.0
-Upgrade Type: CMC 4.0 · STRUCTURAL IMPROVEMENTS
+Upgrade Type: CMC 3.1 · STRUCTURAL IMPROVEMENTS
 Last Update: February 2026
 
 LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
 CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v3.1) — CMC 4.0 · STRUCTURAL IMPROVEMENTS
+UPGRADE NOTE (v3.1) — CMC 3.1 · STRUCTURAL IMPROVEMENTS
 ────────────────────────────────────────────────────────────
 This version implements structural improvements collectively designated
-CMC 4.0. Four major changes are introduced:
+CMC 3.1. Four major changes are introduced:
 
-VERSION DECOUPLING (CMC 4.0)
+VERSION DECOUPLING (CMC 3.1)
 
 Content versions are now independent of governance versions. MEMs track
 content changes only; governance binds via single CMC version.
 
-• Single governance version: CMC 4.0 (not per-document versions)
+• Single governance version: CMC 3.1 (not per-document versions)
 • Simplified MEM headers: No governance declarations in content files
 • Centralized compliance: COMPLIANCE–REGISTRY.md tracks MEM status
 • Governance history: CHANGELOG.md consolidates all changes
 
-TYPED CONNECTIONS (CMC 4.0)
+TYPED CONNECTIONS (CMC 3.1)
 
 MEM connections now use typed, directional edges:
 
@@ -45,7 +45,7 @@ MEM connections now use typed, directional edges:
 
 CONNECTION–TYPES.md provides authoritative reference.
 
-CONCEPT INDEX (CMC 4.0)
+CONCEPT INDEX (CMC 3.1)
 
 Semantic discovery layer for cross-corpus queries:
 
@@ -56,7 +56,7 @@ Semantic discovery layer for cross-corpus queries:
 
 CONCEPT–INDEX.md provides taxonomy; schema.sql includes concepts tables.
 
-OGE SIMPLIFICATION (CMC 4.0 — MODIFIED)
+OGE SIMPLIFICATION (CMC 3.1 — MODIFIED)
 
 Option Generation Engine simplified while preserving 8-slot structure:
 
@@ -77,7 +77,7 @@ Effect:
 Backward Compatibility:
 • Legacy MEM headers remain valid (no batch upgrade required)
 • Untyped connections remain valid
-• Prior OGE rules superseded by CMC 4.0 stateless design
+• Prior OGE rules superseded by CMC 3.1 stateless design
 
 Reference: PROPOSAL–VERSION–DECOUPLING, PROPOSAL–TYPED–CONNECTIONS,
 PROPOSAL–CONCEPT–INDEX, PROPOSAL–OGE–SIMPLIFICATION (all IMPLEMENTED);

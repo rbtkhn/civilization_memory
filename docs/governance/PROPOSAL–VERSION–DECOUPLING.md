@@ -2,7 +2,7 @@ PROPOSAL–VERSION–DECOUPLING — v1.0
 Civilizational Memory Codex · Structural Improvement Proposal
 Decouple Content Versions from Governance Versions
 
-Status: IMPLEMENTED · CMC 4.0
+Status: IMPLEMENTED · CMC 3.1
 Author: System Analysis
 Date: February 2026
 Implemented: 2026-02-04
@@ -181,13 +181,13 @@ VI. IMPLEMENTATION STATUS
 Decision: ACCEPT (Option A)
 
 IMPLEMENTATION ARTIFACTS:
-• VERSION–MANIFEST.md v4.0 — Single CMC Governance Version declared
+• VERSION–MANIFEST.md v3.1 — Single CMC Governance Version declared
 • COMPLIANCE–REGISTRY.md v1.0 — Centralized compliance tracking
 • CHANGELOG.md v1.0 — Consolidated version history
 • CIV–MEM–TEMPLATE — Updated with simplified header format
 • CMC–BOOTSTRAP — Updated with version decoupling references
 • cmc-version-upgrade-on-edit.mdc — Cursor rule updated
-• EXAMPLE–MEM–CMC4–HEADER.md — Example file with new format
+• EXAMPLE–MEM–CMC3.1–HEADER.md — Example file with new format
 
 MIGRATION STATUS:
 • Phase 1: COMPLETE — Governance consolidated

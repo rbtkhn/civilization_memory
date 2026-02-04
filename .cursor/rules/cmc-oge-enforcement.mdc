@@ -3,7 +3,7 @@ description: Enforces CMC SCHOLAR mode OGE requirements (8 fixed slots, stateles
 alwaysApply: true
 ---
 
-# CMC Option Generation Engine (OGE) Enforcement — CMC 4.0
+# CMC Option Generation Engine (OGE) Enforcement — CMC 3.1
 
 OGE is **required** in **WRITE, LEARN, and IMAGINE** modes. Apply OGE rules **after every substantive turn** in LEARN/IMAGINE; in WRITE, apply when OGE is presented (e.g. after MEM draft or edit).
 
@@ -148,4 +148,4 @@ H — Synthesize: "Peter's rupture, Baltic access, elite destruction, Western ab
 - Include at least one editorial option (enhance, validate)
 - Include at least one exploration option (related MEM, connection)
 
-Reference: CMC 4.0, Modified OGE Simplification (preserves 8-slot structure, removes state tracking)
+Reference: CMC 3.1, Modified OGE Simplification (preserves 8-slot structure, removes state tracking)

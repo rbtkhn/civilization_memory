@@ -3,15 +3,15 @@ Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
-Governed by: CMC 4.0
+Governed by: CMC 3.1
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Last Update: February 2026
 WORDCOUNT: ~7,500
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (CMC 4.0) — VERSION DECOUPLING
+UPGRADE NOTE (CMC 3.1) — VERSION DECOUPLING
 ────────────────────────────────────────────────────────────
-This template now follows CMC 4.0 Version Decoupling:
+This template now follows CMC 3.1 Version Decoupling:
 • MEM headers use simplified format (no governance declarations)
 • Content version tracks content changes only
 • Compliance tracked in COMPLIANCE–REGISTRY.md
@@ -151,7 +151,7 @@ II. FILE IDENTITY & METADATA (MANDATORY)
 ────────────────────────────────────────────────────────────
 Every MEM file MUST begin with the following metadata block.
 
-CMC 4.0 SIMPLIFIED HEADER (for new files):
+CMC 3.1 SIMPLIFIED HEADER (for new files):
 ────────────────────────────────────────────────────────────
 MEM–[CIV]–[SUBJECT] — v[X.Y]
 Civilizational Memory Codex · Memory File
@@ -468,7 +468,7 @@ Secondary quotations MUST be analytically integrated.
 Citation without analytical engagement is INVALID.
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS — TYPED DIRECTIONAL EDGES (CMC 4.0)
+X. MEM CONNECTIONS — TYPED DIRECTIONAL EDGES (CMC 3.1)
 ────────────────────────────────────────────────────────────
 Every MEM file MUST include a MEM CONNECTIONS section using
 typed directional edges. Connections are meaningful, not mechanical.
@@ -1228,7 +1228,7 @@ SUBSECTION: VERDICT
 | KEY_DISCRIMINATOR | [Evidence that decided] |
 
 ────────────────────────────────────────────────────────────
-XXV.E CONCEPTS — SEMANTIC INDEX (CMC 4.0)
+XXV.E CONCEPTS — SEMANTIC INDEX (CMC 3.1)
 ────────────────────────────────────────────────────────────
 Apply to: All MEMs (optional but recommended)
 
@@ -1407,5 +1407,5 @@ They may NOT:
 • Break backward compatibility with existing MEMs
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE (CMC 4.0)
+END OF FILE — CIV–MEM–TEMPLATE (CMC 3.1)
 ────────────────────────────────────────────────────────────

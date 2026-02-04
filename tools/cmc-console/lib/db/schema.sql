@@ -66,14 +66,14 @@ INSERT OR IGNORE INTO scholar_mode_state (id, current_mode) VALUES (1, 'LEARN');
 -- HIGH-PRIORITY SCHEMA ADDITIONS FOR FUTURE ENHANCEMENTS
 -- ============================================================================
 
--- File Relationships: Track typed directional connections between files (CMC 4.0)
+-- File Relationships: Track typed directional connections between files (CMC 3.1)
 -- Implements PROPOSAL–TYPED–CONNECTIONS
 CREATE TABLE IF NOT EXISTS file_relationships (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   source_file_id INTEGER NOT NULL,
   target_file_id INTEGER NOT NULL,
   relationship_type TEXT NOT NULL CHECK(relationship_type IN (
-    -- Typed MEM connections (CMC 4.0)
+    -- Typed MEM connections (CMC 3.1)
     'depends_on',          -- Prerequisite: source cannot be understood without target
     'enables',             -- Consequence: source is required to understand target
     'contradicts',         -- Tension: source presents claims in tension with target
@@ -126,7 +126,7 @@ CREATE INDEX IF NOT EXISTS idx_temporal_index_era ON temporal_index(era);
 -- These will be added via migration-safe approach in the database initialization
 
 -- ============================================================================
--- CONCEPT INDEX SCHEMA (CMC 4.0)
+-- CONCEPT INDEX SCHEMA (CMC 3.1)
 -- ============================================================================
 
 -- Concept definitions: Controlled vocabulary of analytical concepts
