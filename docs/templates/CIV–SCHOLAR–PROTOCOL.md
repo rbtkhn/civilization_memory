@@ -1,18 +1,45 @@
-CIV–SCHOLAR–PROTOCOL — v3.0
+CIV–SCHOLAR–PROTOCOL — v3.1
 Civilizational Strategy Codex · Scholar Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 3.0
+Version: 3.1
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
-Supersedes: CIV–SCHOLAR–PROTOCOL v2.6
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
-Compatibility: CIV–SCHOLAR–TEMPLATE v3.0 · CIV–CORE–TEMPLATE v3.0
+Supersedes: CIV–SCHOLAR–PROTOCOL v3.0
+Upgrade Type: ALIGNMENT · CMC 3.1 OGE SIMPLIFICATION
+Compatibility: CIV–SCHOLAR–TEMPLATE v3.1 · CIV–CORE–TEMPLATE v3.0
 Last Update: February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — OGE SIMPLIFICATION (CMC 3.1)
+────────────────────────────────────────────────────────────
+This version aligns with CMC 3.1 OGE Simplification (Modified).
+
+v3.1 changes:
+
+OGE STATELESS DESIGN (Section V UPDATED):
+• 8 slots (A–H) remain as capability menu
+• Slots are FIXED: A=Mercouris, B=Mearsheimer, C=Barnes always
+• No POST-BARNES semantic shift (removed)
+• 10-20 word labels (clearer than 6-10)
+• Contextual notes replace slot shifts
+• No state tracking required (barnes_just_spoke removed)
+
+COGNITIVE STATE SCHEMA (Section XIV-B UPDATED):
+• prior_mind_turn and barnes_just_spoke fields removed
+• State is simpler; no cross-turn tracking needed
+
+TRIGGERS (Section XIV-C UPDATED):
+• TRIG_STATE_002 (Barnes spoke without M/M options) removed
+• OGE is stateless; triggers simplified
+
+See: cmc-oge-enforcement.mdc, PROPOSAL–OGE–SIMPLIFICATION
+
+No authority is weakened. No phase boundary is relaxed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.6) — COGNITIVE MAINTENANCE TRIGGERS
@@ -384,25 +411,37 @@ selecting an option. Options are a scaffold, not a cage. The system
 MUST accept free-form input and respond. OGE optimizes optionality;
 it does not restrict it.
 
-OGE — STANDARDIZED FIRST THREE (v2.6 · A/B/C v1.8):
-The first three options are FIXED in every OGE menu:
-• **A** — Mercouris (CIV–MIND–MERCOURIS). When selected: load MIND; response 100–200 words; legitimacy frame; hedged register.
-• **B** — Mearsheimer (CIV–MIND–MEARSHEIMER). When selected: load MIND; response 100–200 words; structural frame; direct register.
-• **C** — Barnes (CIV–MIND–BARNES). When selected: load MIND; response 100–200 words; liability frame; full Barnes fingerprint.
+OGE — 8 FIXED SLOTS (CMC 3.1 · Stateless):
 
-D = multi-mind response (4-part: M→M'→B→M wrap-up). E = traverse backward in time (build on same-civ MEM). F = traverse forward in time (build on same-civ MEM). G = traverse to different civilization (build on cross-civ MEM). H = 6–10 word session recap + synthesis + follow-on options; optional stopping (user may cash out). 8 options (A–H) in LEARN mode. 6–10 words per option. Options A/B/C **derived from** MIND files; options **guide** (not predict) next response. Each option MUST include at least one specific person, place, or event. See OGE_ARCHITECTURE v1.9. After Barnes interjection,
-A and B shift to "Mercouris responds to Barnes" and "Mearsheimer
-responds to Barnes". See cmc-oge-enforcement, OGE_ARCHITECTURE v1.2.
+| Slot | Function | Always This |
+|------|----------|-------------|
+| A | Mercouris | Civilizational/legitimacy (load MIND; 100–200 words; hedged) |
+| B | Mearsheimer | Structural/power (load MIND; 100–200 words; direct) |
+| C | Barnes | Liability/mechanism (load MIND; 100–200 words; Barnes fingerprint) |
+| D | Multi-mind | Tri-frame synthesis (M→M'→B→M wrap-up) |
+| E | Backward | Earlier era (same-civ MEM; uses DEPENDS_ON connections) |
+| F | Forward | Later era (same-civ MEM; uses ENABLES connections) |
+| G | Cross-civ | Other civilization (uses PARALLELS, concept tags) |
+| H | Synthesis | 6–10 word recap + synthesis + follow-on (b, c, a) |
 
-OGE — COGNITIVE INTERACTION (v2.3):
-When another MIND (Mercouris or Mearsheimer) has just given analysis,
-include at least one **response** option: "[Other MIND] responds to
-[prior MIND]—reframe in [legitimacy/structural] terms." Prefer "X responds
-to Y" (acknowledge + reframe in own terms) over "Apply X lens" when prior
-MIND content is in play. Where applicable, include second-order option:
-Explain why [MIND] encodes [subject] the way they do (Scholar-on-Scholar
-/ CCM). See TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION,
-RUN–REPORT–M–M–01 through M–M–05.
+KEY PRINCIPLES:
+• **Slots are FIXED** — A is always Mercouris, B is always Mearsheimer
+• **No POST-BARNES shift** — Slots do not change meaning after Barnes speaks
+• **10–20 words per option** — Clear, complete prompts
+• **Stateless** — Each OGE generated fresh; no cross-turn tracking
+• **Contextual notes** — If prior MIND analysis is relevant, add note:
+  "(Note: Barnes just analyzed [topic] — A or B will respond if selected)"
+• Each option MUST include at least one specific person, place, or event
+• Options **guide** (not predict) next response; derived from MIND files
+
+See: cmc-oge-enforcement.mdc (CMC 3.1)
+
+OGE — COGNITIVE INTERACTION (CMC 3.1 · Stateless):
+When another MIND has given analysis, options remain fixed. Add contextual
+note if relevant. When Mercouris responds to Mearsheimer (or vice versa),
+the response must show genuine reframing, not repetition. Where applicable,
+include second-order option: Explain why [MIND] encodes [subject] the way
+they do (Scholar-on-Scholar / CCM). See TEST–DESIGN docs, RUN–REPORT–M–M–*.
 
 OGE PRECEDENCE LAW:
 • OGE operates as a pre-mode interface layer
@@ -778,13 +817,6 @@ STATE SCHEMA (what constitutes cognitive state):
 │ • focus_mem: string | null                                      │
 │   – Currently analyzed MEM file path                            │
 │                                                                 │
-│ • prior_mind_turn: string | null                                │
-│   – Which MIND gave last substantive analysis                   │
-│   – Triggers response-option requirement in OGE                 │
-│                                                                 │
-│ • barnes_just_spoke: boolean                                    │
-│   – If true, next OGE MUST include M/M response options         │
-│                                                                 │
 │ • pending_synthesis: array                                      │
 │   – Patterns identified but not yet formalized                  │
 └─────────────────────────────────────────────────────────────────┘
@@ -849,10 +881,7 @@ TRIGGER CATEGORIES:
 │   Operation: Warn and prompt OGE generation                     │
 │   Severity: WARN                                                │
 │                                                                 │
-│ TRIG_STATE_002: Barnes spoke without M/M response options       │
-│   Condition: barnes_just_spoke = true but OGE lacks M/M options │
-│   Operation: Block until M/M response options added             │
-│   Severity: BLOCK                                               │
+│ (TRIG_STATE_002 removed in CMC 3.1 — OGE is stateless)          │
 │                                                                 │
 │ TRIG_STATE_003: WRITE mode without civilization                 │
 │   Condition: active_mode = WRITE, active_civilization = null    │

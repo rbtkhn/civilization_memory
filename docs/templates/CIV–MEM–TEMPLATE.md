@@ -1,8 +1,10 @@
-CIV–MEM–TEMPLATE
+CIV–MEM–TEMPLATE — v3.1
 Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
+Version: 3.1
+Supersedes: CIV–MEM–TEMPLATE v3.0
 Governed by: CMC 3.1
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Last Update: February 2026

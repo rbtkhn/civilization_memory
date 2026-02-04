@@ -1,13 +1,42 @@
-CIV–SCHOLAR–TEMPLATE — v3.0
+CIV–SCHOLAR–TEMPLATE — v3.1
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–TEMPLATE v2.10
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–SCHOLAR–TEMPLATE v3.0
+Upgrade Type: ALIGNMENT · CMC 3.1 OGE SIMPLIFICATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–SCHOLAR–PROTOCOL v3.0
+Compatibility: CIV–MEM–CORE v3.1 · CIV–MEM–TEMPLATE v3.1 · CIV–SCHOLAR–PROTOCOL v3.1
 Last Update: February 2026
 WORDCOUNT: ~14,500
+
+────────────────────────────────────────────────────────────
+UPGRADE DECLARATION (v3.0 → v3.1 OGE SIMPLIFICATION)
+────────────────────────────────────────────────────────────
+This version aligns with CMC 3.1 OGE Simplification (Modified).
+
+v3.1 changes:
+
+• OGE STATELESS DESIGN (Section XI UPDATED)
+  – 8 slots (A–H) remain as capability menu
+  – Slots are FIXED: A=Mercouris, B=Mearsheimer, C=Barnes always
+  – No POST-BARNES semantic shift (slots do not change meaning)
+  – 10-20 word labels (clearer than 6-10)
+  – Contextual notes replace slot shifts
+
+• STATE TRACKING REMOVED
+  – No tracking of which MIND spoke last
+  – No barnes_just_spoke flag required
+  – Each OGE generated fresh from context
+
+• TYPED CONNECTIONS AND CONCEPT INDEX
+  – E/F/G traversal options leverage typed connections
+  – G (cross-civ) can use shared concept tags
+
+See: cmc-oge-enforcement.mdc, PROPOSAL–OGE–SIMPLIFICATION
+
+No authority is weakened.
+No phase boundary is relaxed.
+No governance rule is removed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (v2.9 → v2.10 SYNTHESIS TRADECRAFT)
@@ -1026,21 +1055,42 @@ LEARN OGE CATEGORIES:
 5. TRANSITION OPTIONS
 6. OBSERVATION OPTIONS
 
-OGE FORMAT CONSTRAINTS (per OGE_ARCHITECTURE v1.3, cmc-oge-enforcement):
-• 6–10 words per option; specific preview of next response; MIND-shaped
-• A=Mercouris, B=Mearsheimer, C=Barnes (fixed; when selected, load MIND; response 100–200 words, frame/voice per MIND); D = multi-mind (4-part: M→M'→B→M wrap-up); E = traverse backward (same-civ MEM); F = traverse forward (same-civ MEM); G = traverse cross-civ (cross-civ MEM); H = 6–10 word recap + synthesis + follow-on. 8 options (A–H) in LEARN mode.
+OGE FORMAT CONSTRAINTS (CMC 3.1 · Stateless Design):
+
+8 FIXED SLOTS (A–H) — Capability Menu:
+| Slot | Function | Always This |
+|------|----------|-------------|
+| A | Mercouris | Civilizational/legitimacy |
+| B | Mearsheimer | Structural/power |
+| C | Barnes | Liability/mechanism |
+| D | Multi-mind | Tri-frame synthesis (M→M'→B→M) |
+| E | Backward | Earlier era (same civ, uses DEPENDS_ON) |
+| F | Forward | Later era (same civ, uses ENABLES) |
+| G | Cross-civ | Other civilization (uses PARALLELS, concept tags) |
+| H | Synthesis | Session recap + follow-on |
+
+KEY PRINCIPLES:
+• **Slots are FIXED** — A is always Mercouris, B is always Mearsheimer, no semantic shifts
+• **10–20 words per option** — clear, complete prompts (not telegraphic)
+• **Stateless** — No tracking of which MIND spoke last; each OGE fresh
+• **Contextual notes** — If prior MIND analysis is relevant, add note after options
 • Each option MUST include at least one concrete anchor (person, place, or event)
 • Options guide (not predict) creation of next response; derived from MIND files
-• OGE option response: 100–200 words. Free-form: 200–400 target, 500 max. See cmc-oge-enforcement.
-• Historical anchor (A/B/C/D/E/F/G responses): MUST cite at least one named person, place, or event; MEM preferred, web if no MEM; E/F/G: anchor from traversed-to MEM; minimal format "(e.g. Peter/Petersburg 1703)"; exceptions: short confirmations, H recap, user skip, no source found.
+• OGE option response: 100–200 words. Free-form: 200–400 target, 500 max.
+• Historical anchor (A/B/C/D/E/F/G responses): MUST cite at least one named person, place, or event
+
+See: cmc-oge-enforcement.mdc (CMC 3.1)
 
 LEARN OGE answers:
 “What would you like me to investigate next?”
 
 ────────────────────────────────────────────────────────────
-OGE — COGNITIVE INTERACTION (NEW · M–M PROPAGATION):
-When another MIND (Mercouris or Mearsheimer) has just given analysis,
-include at least one **response** option: "[Other MIND] responds to
+OGE — COGNITIVE INTERACTION (CMC 3.1 · Stateless):
+When another MIND has given analysis, options remain fixed (A=Mercouris,
+B=Mearsheimer). Add contextual note if relevant: "(Note: [MIND] just
+analyzed [topic] — A or B will respond to that analysis if selected)"
+
+No slot shifts required. Each OGE is generated fresh. "[Other MIND] responds to
 [prior MIND]—reframe in [legitimacy/structural] terms." Prefer "X
 responds to Y" (acknowledge + reframe in own terms) over "Apply X lens"
 when prior MIND content is in play. Where applicable, include
