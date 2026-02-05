@@ -94,11 +94,31 @@ The system can:
 • Generate traversal based on conceptual similarity
 
 ────────────────────────────────────────────────────────────
+V-B. MIND AFFINITIES (CMC 3.2)
+────────────────────────────────────────────────────────────
+Per PROTOCOL–MIND–NAVIGATION, concept categories have MIND affinities:
+
+| Category | Primary MIND | Notes |
+|----------|--------------|-------|
+| Mearsheimer (Structural) | Mearsheimer | Power, balance, geography |
+| Mercouris (Civilizational) | Mercouris | Legitimacy, continuity |
+| Barnes (Mechanism) | Barnes | Liability, procedure |
+| Cross-cutting (Pattern) | Mercouris | Recurrence, parallels |
+
+When a MIND is active:
+• Related concepts are emphasized in analysis
+• OGE option G can find cross-civ MEMs with shared concepts
+• Concept-based traversal respects MIND affinity
+
+This is soft bias, not hard constraint. All concepts remain accessible.
+
+────────────────────────────────────────────────────────────
 VI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • PROPOSAL–CONCEPT–INDEX.md (2026)
-• CONCEPT–INDEX.md (2026)
+• CONCEPT–INDEX.md (CMC 3.2 — with MIND affinities)
 • CIV–MEM–TEMPLATE (CMC 3.1)
+• PROTOCOL–MIND–NAVIGATION.md (CMC 3.2)
 
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS (TYPED)

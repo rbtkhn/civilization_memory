@@ -108,6 +108,22 @@ H — Synthesize what we've established
 
 The note acknowledges context without changing slot semantics. Each OGE is generated fresh.
 
+## MIND-Influenced Traversal
+
+When generating E/F/G options, **rank available connections by affinity for the active MIND** per PROTOCOL–MIND–NAVIGATION.
+
+| Active MIND | Favored Connections |
+|-------------|---------------------|
+| Mercouris (default) | PARALLELS, TEMPORAL_BEFORE, TEMPORAL_AFTER |
+| Mearsheimer (Option B) | DEPENDS_ON, ENABLES, CONTRADICTS, GEOGRAPHIC |
+| Barnes (Option C) | DEPENDS_ON, CONTRADICTS |
+
+**Frame option text using the MIND's analytical vocabulary.**
+
+After each response, MIND reverts to Mercouris default (stateless). User can override via manual invocation ("use Mearsheimer lens for traversal").
+
+See PROTOCOL–MIND–NAVIGATION for full affinity matrices.
+
 ## Mandatory Requirements
 
 1. **Exactly 8 options** (A–H) in LEARN mode
@@ -117,6 +133,7 @@ The note acknowledges context without changing slot semantics. Each OGE is gener
 5. **Concrete anchor** — Each option includes person, place, or event
 6. **Typed connections** — E/F/G should leverage MEM connections where available
 7. **Concept awareness** — G can use shared concept tags to find parallels
+8. **MIND affinity** — E/F/G traversal respects active MIND connection preferences
 
 ## Self-Check Before Sending
 
@@ -148,4 +165,4 @@ H — Synthesize: "Peter's rupture, Baltic access, elite destruction, Western ab
 - Include at least one editorial option (enhance, validate)
 - Include at least one exploration option (related MEM, connection)
 
-Reference: CMC 3.1, Modified OGE Simplification (preserves 8-slot structure, removes state tracking)
+Reference: CMC 3.1, Modified OGE Simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION

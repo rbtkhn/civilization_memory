@@ -1100,6 +1100,35 @@ docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTIO
 RUN–REPORT–M–M–01 through M–M–05.
 
 ────────────────────────────────────────────────────────────
+OGE — MIND NAVIGATION (CMC 3.2):
+MIND influences navigation, not just voice. Per PROTOCOL–MIND–NAVIGATION:
+
+MIND ACTIVATION MODEL:
+• Default: Mercouris (always, unless overridden)
+• OGE Selection: A=Mercouris, B=Mearsheimer, C=Barnes
+• Manual: User types explicit invocation (e.g. "apply Mearsheimer lens")
+• Precedence: Manual > OGE Selection > Default
+• Stateless: After each response, reverts to Mercouris default
+
+CONNECTION AFFINITIES (for E/F/G traversal):
+• Mercouris: PARALLELS, TEMPORAL_BEFORE, TEMPORAL_AFTER
+• Mearsheimer: DEPENDS_ON, ENABLES, CONTRADICTS, GEOGRAPHIC
+• Barnes: DEPENDS_ON, CONTRADICTS
+
+SOURCE AFFINITIES (for ARC citation):
+• Mercouris: ACADEMIC, PRIMARY, ANALYST_CANONICAL
+• Mearsheimer: ACADEMIC, PRIMARY
+• Barnes: PRIMARY, LEGAL, INVESTIGATIVE
+
+CONCEPT AFFINITIES:
+• Mercouris: CIVILIZATIONAL, PATTERN
+• Mearsheimer: STRUCTURAL
+• Barnes: MECHANISM
+
+This is soft bias, not hard constraint. All connections, sources, and
+concepts remain accessible. See PROTOCOL–MIND–NAVIGATION for full matrices.
+
+────────────────────────────────────────────────────────────
 XII. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
 • Additive upgrades only

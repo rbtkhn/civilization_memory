@@ -137,10 +137,18 @@ For detailed changelog, see:
 • docs/governance/CHANGELOG.md
 
 MAJOR VERSIONS:
+• CMC 3.2 (Pending): Current Events, Tiered Retrieval, Living ARC, MIND Navigation
 • CMC 3.1 (2026-02-04): Version Decoupling Edition
 • CMC 3.0 (2026-02-02): Consolidation Edition
 • CMC 2.x (2026-01): Development iterations
 • CMC 1.x (2025): Initial architecture
+
+CMC 3.2 PROPOSALS (DRAFT):
+• PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
+• PROPOSAL–TIERED–RETRIEVAL.md
+• PROPOSAL–LIVING–ARC.md
+• PROTOCOL–MIND–NAVIGATION.md (ACTIVE)
+• ROADMAP–CMC–3.2.md
 
 ────────────────────────────────────────────────────────────
 VI. QUICK BINDING DECLARATION

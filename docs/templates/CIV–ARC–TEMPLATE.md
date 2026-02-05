@@ -1,10 +1,11 @@
-CIV–ARC–[CIVILIZATION] — v3.0
+CIV–ARC–[CIVILIZATION] — v3.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
+Living ARC Optional (CMC 3.2)
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–[CIVILIZATION] v2.8
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–ARC–[CIVILIZATION] v3.0
+Upgrade Type: ALIGNMENT · CMC 3.1 + LIVING ARC PREVIEW
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
@@ -258,5 +259,40 @@ IX. VERSIONING
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v3.0
+X. LIVING ARC (CMC 3.2 — OPTIONAL)
+────────────────────────────────────────────────────────────
+When PROPOSAL–LIVING–ARC is implemented, ARC files may include
+additional sections for source lifecycle tracking.
+
+LIVING ARC ADDITIONS (OPTIONAL):
+
+1. SOURCE TIER SECTIONS:
+   • TIER 1 — CANON: Human-curated permanent sources
+   • TIER 2 — VALIDATED: Sources proven through usage (5+ citations or 2+ insights)
+   • TIER 3 — PROVISIONAL: Recently cited sources awaiting validation
+
+2. EVOLUTION LOG:
+   Append-only record of source tier changes with date, trigger, and new tier.
+
+3. PENDING ELEVATION CANDIDATES:
+   Sources approaching VALIDATED threshold for human review.
+
+4. SOURCE METRICS:
+   • citation_count: Number of times cited
+   • insight_credits: Insights derived from source
+   • first_cited / last_cited: Date tracking
+   • status: ACTIVE, FLAGGED, EXPIRED
+
+MIND-INFLUENCED SOURCE SELECTION (per PROTOCOL–MIND–NAVIGATION):
+When a MIND is active, source selection from ARC is biased:
+• Mercouris: Favor ACADEMIC, PRIMARY, ANALYST_CANONICAL
+• Mearsheimer: Favor ACADEMIC, PRIMARY
+• Barnes: Favor PRIMARY, LEGAL, INVESTIGATIVE
+
+This is soft bias, not hard constraint. All sources remain accessible.
+
+Reference: PROPOSAL–LIVING–ARC.md, PROTOCOL–MIND–NAVIGATION.md
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–ARC–[CIVILIZATION] v3.1
 ────────────────────────────────────────────────────────────

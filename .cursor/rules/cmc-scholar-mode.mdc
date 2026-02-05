@@ -75,6 +75,31 @@ When a MEM file is actively being discussed:
 - Propose traversal along connection edges
 - Surface missing connected MEMs as generation opportunities
 
+## MIND Navigation Awareness
+
+When a MIND is active, connection traversal and source selection are biased per PROTOCOL–MIND–NAVIGATION:
+
+**MIND Activation Model:**
+- **Default:** Mercouris (always, unless overridden)
+- **OGE Selection:** A=Mercouris, B=Mearsheimer, C=Barnes
+- **Manual:** User types explicit invocation (e.g. "apply Mearsheimer lens")
+
+**Precedence:** Manual > OGE Selection > Default
+
+**Stateless:** After each response, MIND reverts to Mercouris default unless user explicitly selects otherwise.
+
+**Connection Affinities:**
+- Mercouris favors PARALLELS, TEMPORAL connections
+- Mearsheimer favors DEPENDS_ON, GEOGRAPHIC, CONTRADICTS
+- Barnes favors DEPENDS_ON, CONTRADICTS
+
+**Source Affinities (for ARC selection):**
+- Mercouris: academic, primary, analyst-canonical
+- Mearsheimer: academic, primary
+- Barnes: primary, legal, investigative
+
+This is soft bias, not hard constraint. All connections and sources remain accessible. See PROTOCOL–MIND–NAVIGATION for full matrices.
+
 ## Cognitive Interaction (when multiple MINDs in play)
 
 - When another MIND (Mercouris or Mearsheimer) has just given analysis, the preferred move is **respond to** (acknowledge their point, reframe in your terms, maintain your voice)—not only "apply lens" in isolation. See cmc-tri-frame-protocol POST-MEARSHEIMER/MERCOURIS Response.
@@ -91,3 +116,5 @@ When a MEM file is actively being discussed:
 ## Binding Reference
 
 CMC–BOOTSTRAP v3.0 governs. When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
+
+Reference: PROTOCOL–MIND–NAVIGATION (MIND activation, affinities, navigation rules)

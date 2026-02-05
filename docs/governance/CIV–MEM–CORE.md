@@ -79,6 +79,40 @@ Backward Compatibility:
 • Untyped connections remain valid
 • Prior OGE rules superseded by CMC 3.1 stateless design
 
+────────────────────────────────────────────────────────────
+CMC 3.2 PROPOSALS (DRAFT)
+────────────────────────────────────────────────────────────
+The following proposals extend CMC 3.1 and are documented pending approval:
+
+CURRENT EVENTS PROTOCOL (CEP):
+Bidirectional analysis of current events against historical MEMs.
+• Forward application: MEMs inform current events
+• Backward illumination: Current events reveal MEM insights
+See: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
+
+TIERED RETRIEVAL:
+MEM-first search with web fallback.
+• Query MEMs first using concepts, connections, semantic similarity
+• Web fallback only when MEM corpus insufficient
+See: PROPOSAL–TIERED–RETRIEVAL.md
+
+LIVING ARC:
+Automatic source lifecycle management in ARC files.
+• Three tiers: CANON (human), VALIDATED (earned), PROVISIONAL (new)
+• Usage-based elevation (5+ citations or 2+ insights)
+• 90-day expiration for unreused provisional sources
+See: PROPOSAL–LIVING–ARC.md
+
+MIND NAVIGATION:
+MIND influences navigation, not just voice.
+• Connection affinities by MIND (Mercouris/Mearsheimer/Barnes)
+• Source affinities for ARC selection
+• Concept category affinities
+• Stateless MIND activation model
+See: PROTOCOL–MIND–NAVIGATION.md (ACTIVE)
+
+Implementation: ROADMAP–CMC–3.2.md
+
 Reference: PROPOSAL–VERSION–DECOUPLING, PROPOSAL–TYPED–CONNECTIONS,
 PROPOSAL–CONCEPT–INDEX, PROPOSAL–OGE–SIMPLIFICATION (all IMPLEMENTED);
 CHANGELOG.md; CMC–BOOTSTRAP; VERSION–MANIFEST

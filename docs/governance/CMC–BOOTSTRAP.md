@@ -20,6 +20,25 @@ KEY CHANGES:
 See: docs/governance/VERSION–MANIFEST.md
 
 ────────────────────────────────────────────────────────────
+CMC 3.2 PROPOSALS (DRAFT)
+────────────────────────────────────────────────────────────
+The following proposals extend CMC 3.1 and are pending approval:
+
+• CURRENT EVENTS PROTOCOL (CEP): Bidirectional current events analysis
+• TIERED RETRIEVAL: MEM-first search with web fallback
+• LIVING ARC: Automatic source lifecycle (CANON/VALIDATED/PROVISIONAL)
+• MIND NAVIGATION: MIND influences navigation (connections, sources, concepts)
+
+Active protocols:
+• PROTOCOL–MIND–NAVIGATION.md — MIND activation model, affinity matrices
+• ROADMAP–CMC–3.2.md — Unified implementation plan
+
+Cursor rules updated:
+• cmc-oge-enforcement.mdc — MIND-influenced traversal
+• cmc-scholar-mode.mdc — MIND navigation awareness
+• cmc-blend-law.mdc — MIND-Navigation interaction
+
+────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
 1) Declare binding: "Bound by CMC 3.1"

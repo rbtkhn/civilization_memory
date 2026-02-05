@@ -217,5 +217,36 @@ CONCEPT REVIEW:
 • Definitions may be refined based on usage
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CONCEPT–INDEX (CMC 3.1)
+VIII. MIND AFFINITIES (CMC 3.2)
+────────────────────────────────────────────────────────────
+Concepts have affinity with MINDs per PROTOCOL–MIND–NAVIGATION.
+
+When a MIND is active, concepts from aligned categories are emphasized.
+
+CATEGORY → MIND AFFINITY:
+────────────────────────────────────────────────────────────
+| Category | Primary MIND | Affinity |
+|----------|--------------|----------|
+| STRUCTURAL | Mearsheimer | HIGH |
+| CIVILIZATIONAL | Mercouris | HIGH |
+| MECHANISM | Barnes | HIGH |
+| PATTERN | Mercouris | HIGH |
+
+APPLICATION:
+• When Mearsheimer active: emphasize STRUCTURAL concepts
+• When Mercouris active (default): emphasize CIVILIZATIONAL and PATTERN concepts
+• When Barnes active: emphasize MECHANISM concepts
+
+CROSS-CUTTING:
+Some concepts span multiple frames:
+• elite_overproduction — PATTERN (Mercouris), but also MECHANISM (Barnes)
+• corridor_control — STRUCTURAL (Mearsheimer), but also CIVILIZATIONAL (Mercouris)
+• legitimacy_rupture — CIVILIZATIONAL (Mercouris), but also MECHANISM (Barnes)
+
+When concepts span frames, both MINDs may surface them; emphasis differs.
+
+Reference: PROTOCOL–MIND–NAVIGATION Section IV
+
+────────────────────────────────────────────────────────────
+END OF FILE — CONCEPT–INDEX (CMC 3.2)
 ────────────────────────────────────────────────────────────

@@ -21,7 +21,114 @@ Under CMC 3.1 Version Decoupling:
 • History is centralized and searchable
 
 ────────────────────────────────────────────────────────────
-II. CMC 3.1 — VERSION DECOUPLING EDITION
+II. CMC 3.2 — PROPOSALS (DRAFT)
+────────────────────────────────────────────────────────────
+Date: 2026-02-03
+Status: DRAFT (Proposals pending approval)
+Type: STRUCTURAL
+
+The following proposals extend CMC 3.1 capabilities and are documented
+for Phase 1 implementation upon approval.
+
+────────────────────────────────────────────────────────────
+II.A CMC 3.2 — CURRENT EVENTS PROTOCOL (CEP)
+────────────────────────────────────────────────────────────
+Proposal: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
+Status: DRAFT
+
+CHANGES:
+• Bidirectional learning: Forward application (MEMs → events) and
+  backward illumination (events → MEM insights)
+• CEP source attribution format for current event sources
+• Integration with SCHOLAR files for insight capture
+• OGE options for CEP analysis (e.g. "Apply MIND to [event]")
+
+RATIONALE:
+• Enable structured analysis of current events against historical patterns
+• Bidirectional: current events reveal new insights about historical MEMs
+• Preserve ephemeral analysis while protecting canonical MEMs
+
+────────────────────────────────────────────────────────────
+II.B CMC 3.2 — TIERED RETRIEVAL
+────────────────────────────────────────────────────────────
+Proposal: PROPOSAL–TIERED–RETRIEVAL.md
+Status: DRAFT
+
+CHANGES:
+• MEM-first search hierarchy before web fallback
+• Gap identification from web fallback queries
+• Source attribution requirements for both sources
+• Mode-specific retrieval guidance (LEARN, WRITE, IMAGINE)
+
+RATIONALE:
+• Prioritize structured historical knowledge over ephemeral web content
+• Identify corpus gaps from unfulfilled MEM queries
+• Maintain analytical rigor when using external sources
+
+────────────────────────────────────────────────────────────
+II.C CMC 3.2 — LIVING ARC
+────────────────────────────────────────────────────────────
+Proposal: PROPOSAL–LIVING–ARC.md
+Status: DRAFT
+
+CHANGES:
+• Three-tier source lifecycle: CANON, VALIDATED, PROVISIONAL
+• Automatic elevation based on usage (5+ citations or 2+ insights)
+• 90-day expiration for unreused PROVISIONAL sources
+• EVOLUTION LOG for source lifecycle tracking
+• Human gate for CANON tier (no automatic permanence)
+
+RATIONALE:
+• Transform static bibliographies into adaptive source ecosystems
+• Let usage patterns reveal source quality
+• Integrate analyst sources (Mercouris, Mearsheimer transcripts) into canon
+• Maintain human oversight for permanent decisions
+
+────────────────────────────────────────────────────────────
+II.D CMC 3.2 — MIND NAVIGATION PROTOCOL
+────────────────────────────────────────────────────────────
+Protocol: PROTOCOL–MIND–NAVIGATION.md
+Status: ACTIVE
+
+CHANGES:
+• MIND influences navigation, not just voice
+• Connection affinity matrix: MIND × Connection Type → Weight
+• Source affinity matrix: MIND × Source Type → Weight
+• Concept category affinity matrix: MIND × Category → Weight
+• MIND activation model: Default (Mercouris), OGE Selection (B/C), Manual Command
+• Stateless activation: MIND determined fresh each turn
+• Blend Law / MIND-Navigation interaction clarified
+
+IMPLEMENTATION:
+• PROTOCOL–MIND–NAVIGATION.md created
+• MIND files updated with NAVIGATION PREFERENCES section
+• cmc-oge-enforcement.mdc updated with MIND-influenced traversal
+• cmc-scholar-mode.mdc updated with MIND navigation awareness
+• cmc-blend-law.mdc updated with MIND-Navigation interaction
+• CONCEPT–INDEX.md updated with MIND affinities
+• PROPOSAL–LIVING–ARC.md updated with MIND-Navigation integration
+
+RATIONALE:
+• Coherent sessions where perspective shapes what is surfaced
+• Connection traversal aligned with active MIND's analytical lens
+• Source selection prioritizes materials suited to MIND's mode
+• Concept emphasis aligned with MIND's focus
+
+────────────────────────────────────────────────────────────
+II.E CMC 3.2 — IMPLEMENTATION ROADMAP
+────────────────────────────────────────────────────────────
+Document: ROADMAP–CMC–3.2.md
+Status: ACTIVE
+
+CHANGES:
+• Unified implementation plan for all CMC 3.2 protocols
+• Four-phase implementation: Establishment, Automation, Integration, Optimization
+• Dependency graph showing protocol relationships
+• Schema updates for cmc-console
+• Success metrics per phase
+
+────────────────────────────────────────────────────────────
+III. CMC 3.1 — VERSION DECOUPLING EDITION
 ────────────────────────────────────────────────────────────
 Date: 2026-02-04
 Type: STRUCTURAL

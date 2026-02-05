@@ -24,6 +24,26 @@ When creating or editing MEM files (WRITE mode), apply the **Proportional Blend 
 - **Barnes does NOT participate** in the Proportional Blend Law.
 - Barnes is OGE-invoked (catalyst); he does not weight GEO vs Subject MEM content.
 
+## MIND-Navigation Interaction
+
+**Blend Law and MIND-Navigation govern different dimensions:**
+
+| Protocol | Governs | Scope |
+|----------|---------|-------|
+| **Blend Law** | Content proportions in MEM files | WRITE mode only |
+| **MIND-Navigation** | Analytical framing, connection/source surfacing | All modes |
+
+In WRITE mode, both apply without conflict:
+- **Blend Law** determines what goes into the MEM (2/3 primary, 1/3 secondary)
+- **MIND-Navigation** influences what is *surfaced* during composition
+
+**Example:** User invokes Barnes lens while writing a GEO–MEM.
+- Barnes influences which aspects are surfaced (liability, mechanism)
+- Blend Law still applies: final content is 2/3 Mearsheimer, 1/3 Mercouris
+- Barnes insights become *inputs* to the MEM, not governing proportions
+
+See PROTOCOL–MIND–NAVIGATION Section VI.D for detailed rules.
+
 ## Self-Check (MEM Production)
 
 - [ ] File type identified (GEO–MEM vs Subject MEM)?
@@ -31,4 +51,4 @@ When creating or editing MEM files (WRITE mode), apply the **Proportional Blend 
 - [ ] GEO–MEM: Mearsheimer primary, Mercouris evidence (ARC quotes)?
 - [ ] Subject MEM: Mercouris primary, Mearsheimer constraints?
 
-Reference: CIV–MEM–CORE VP-1.g, CMC–BOOTSTRAP ACTIVE CONSTRAINTS, CIV–MIND–MEARSHEIMER IV.B
+Reference: CIV–MEM–CORE VP-1.g, CMC–BOOTSTRAP ACTIVE CONSTRAINTS, CIV–MIND–MEARSHEIMER IV.B, PROTOCOL–MIND–NAVIGATION VI.D

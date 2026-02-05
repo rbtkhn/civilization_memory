@@ -751,9 +751,30 @@ REQUIRED ELEMENTS:
 If checklist fails, output is non-compliant with this command.
 
 ────────────────────────────────────────────────────────────
-XII. CANONICAL STATUS
+XII. NAVIGATION PREFERENCES (CMC 3.2)
 ────────────────────────────────────────────────────────────
-CIV–MIND–MEARSHEIMER v3.0 is CANONICAL.
+When Mearsheimer is active (via OGE Option B or manual invocation),
+navigation affinities apply per PROTOCOL–MIND–NAVIGATION.
+
+Connection Affinities (HIGH):
+• DEPENDS_ON — Causal chains in power distribution
+• ENABLES — Structural conditions creating outcomes
+• CONTRADICTS — Tensions in structural logic
+• GEOGRAPHIC — Terrain shapes force projection and security
+
+Source Affinities (HIGH):
+• ACADEMIC — Peer-reviewed, scholarly sources
+• PRIMARY — Original documents, treaties, force analysis
+
+Concept Category Affinities (HIGH):
+• STRUCTURAL — Power, balance, security, geography
+
+Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
+
+────────────────────────────────────────────────────────────
+XIII. CANONICAL STATUS
+────────────────────────────────────────────────────────────
+CIV–MIND–MEARSHEIMER v3.1 is CANONICAL.
 
 All uses MUST declare:
 "Bound by CIV–MIND–MEARSHEIMER v3.0 (ADVISORY)"
@@ -762,5 +783,5 @@ This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MEARSHEIMER — v3.0
+END OF FILE — CIV–MIND–MEARSHEIMER — v3.1
 ────────────────────────────────────────────────────────────
