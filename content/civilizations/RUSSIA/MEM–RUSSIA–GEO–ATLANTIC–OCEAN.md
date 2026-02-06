@@ -81,6 +81,25 @@ Geographic axiom:
 Use is episodic.
 Ownership is absent.
 
+III.A STRATEGIC GEOGRAPHY (MEARSHEIMER FRAME)
+────────────────────────────────────────────────────────────
+The fact is that Russia's Atlantic access depends on a **chokepoint
+chain**: Baltic (Danish Straits) or Arctic approaches, then North Sea,
+then Atlantic. Rival powers control the gates; Russia cannot contest
+Atlantic naval preponderance.
+
+**Chokepoint dependency:** Danish Straits, GIUK gap, and North Sea
+approaches are controlled by NATO members. Russia has no direct
+littoral on the Atlantic. **Force-ratio:** No Russian Atlantic naval
+preponderance is possible; force balance favors NATO in every approach
+corridor. **Incentive structure:** Russia is incentivized to rely on
+continental depth and alternative seas (Black Sea, Arctic, Caspian)
+and to pursue denial and deterrence rather than Atlantic command;
+Atlantic powers are incentivized to maintain straits and North Atlantic
+control and to limit Russian naval egress. Geography dictates indirect
+access and conditional use (RLL–RUSSIA–0024, RLL–RUSSIA–0032: outlet
+control—Russia lacks outlet control to Atlantic).
+
 ────────────────────────────────────────────────────────────
 IV. ATLANTIC SYSTEM AS ADVERSARIAL ORDER
 ────────────────────────────────────────────────────────────
@@ -115,7 +134,7 @@ Atlantic pressure reinforces inward orientation and siege logic.
 Maritime ambition is constrained by system reality.
 
 ────────────────────────────────────────────────────────────
-VI. MODERN MILITARY INTERFAAD
+VI. MODERN MILITARY INTERFACE
 ────────────────────────────────────────────────────────────
 In the modern era:
 • The Atlantic is NATO’s core theater

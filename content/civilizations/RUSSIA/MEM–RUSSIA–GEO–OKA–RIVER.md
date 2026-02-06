@@ -197,6 +197,12 @@ For interior integration:
 The structural reality is that the Oka is a **threshold river**
 that marks where strategic advantage shifts.
 
+**Incentive structure:** Russia is incentivized to hold the Oka as
+defensive anchor and Volga link; steppe powers must cross the Oka to
+threaten Moscow; crossing creates vulnerability. Force-posture: forest
+zone north of Oka favors defender; defensive advantage at the
+threshold.
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -225,6 +231,10 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Fortification follows geographic logic.
 • River control enables both defense and integration.
 • Threshold rivers are more valuable than projection corridors.
+• RLL–0018 (threshold), RLL–0019 (Oka as Russia's southern threshold),
+  RLL–0021 (second link in chain). Incentive structure: Russia to hold
+  Oka for defense and integration; attackers must cross at cost.
+  Defensive advantage north of river.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

@@ -104,6 +104,25 @@ sovereignty.
 
 The sea becomes an object lesson in access without leverage.
 
+V.A STRATEGIC GEOGRAPHY (MEARSHEIMER FRAME)
+────────────────────────────────────────────────────────────
+The fact is that the White Sea is an **enclosed Arctic-adjacent
+basin** with a single exit to the Barents Sea; Russia is the sole
+littoral. Terrain geometry: seasonal ice, one major port (Arkhangelsk),
+shallow and remote. No external power can project into the White Sea
+without Russian consent; the chokepoint is at the exit to the Barents.
+
+**Incentive structure:** Russia is incentivized to treat the White Sea
+as a **bypass corridor** when the Baltic is blocked (RLL–RUSSIA–0032:
+outlet control—White Sea as alternative outlet before Baltic secured)
+and to seek a primary outlet (Baltic, then Black Sea) rather than
+rely on marginal, seasonal access. Marginal access increases
+dependence on diplomatic tolerance (e.g. Muscovy Company); sovereign
+incentive is to replace conditional access with controlled outlet.
+**Power distribution:** Russia dominates the basin by default (sole
+littoral); force-ratio at the exit favors whoever holds the Barents
+approaches. The White Sea is strategic reserve, not primary corridor.
+
 ────────────────────────────────────────────────────────────
 VI. CIVILIZATIONAL EFFECTS ON STRATEGIC ORIENTATION
 ────────────────────────────────────────────────────────────
@@ -150,10 +169,11 @@ IX. CATEGORY A — ANCIENT & LATE ANTIQUE FRAMING
 ────────────────────────────────────────────────────────────
 Classical authors frame northern seas as spaces of constraint.
 
-Strabo — Geographica:
+**Strabo — *Geographica***:
 
-“The northern ocean is harsh and inhospitable, and those who approach
-it do so more from necessity than from advantage.”
+> “The northern ocean is harsh and inhospitable, and those who approach
+> it do so more from necessity than from advantage.”
+> — Strabo, *Geographica* (trans. H.L. Jones)
 
 This anticipates the White Sea’s role as access by compulsion.
 
@@ -162,9 +182,10 @@ X. CATEGORY B — MEDIEVAL SOURCES
 ────────────────────────────────────────────────────────────
 Medieval Rus’ sources note northern hardship.
 
-Novgorod Chronicles reference northern voyages as:
+**Novgorod Chronicles** (northern voyages):
 
-“long, perilous, and bound by seasons beyond man’s command.”
+> “Long, perilous, and bound by seasons beyond man’s command.”
+> — *Novgorod Chronicles* (trans. Michell & Forbes)
 
 The White Sea is encountered as risk-limited contact, not mastery.
 
@@ -173,10 +194,11 @@ XI. CATEGORY C — EARLY MODERN SOURCES
 ────────────────────────────────────────────────────────────
 Early modern observers emphasize Arkhangelsk’s constraints.
 
-Giles Fletcher the Elder:
+**Giles Fletcher the Elder — *Of the Russe Common Wealth***:
 
-“The port of the North is open but a little while, and all trade must
-bow to the ice and the time it allows.”
+> “The port of the North is open but a little while, and all trade must
+> bow to the ice and the time it allows.”
+> — Fletcher, *Of the Russe Common Wealth* (1591)
 
 Seasonality dominates strategy.
 
@@ -185,15 +207,17 @@ XII. CATEGORY D — MODERN SCHOLARSHIP
 ────────────────────────────────────────────────────────────
 Modern historians underline formative frustration.
 
-Geoffrey Hosking:
+**Geoffrey Hosking — *Russia: People and Empire***:
 
-“Russia’s first maritime window opened onto ice and isolation; it
-taught patience rather than power, and desire rather than command.”
+> “Russia’s first maritime window opened onto ice and isolation; it
+> taught patience rather than power, and desire rather than command.”
+> — Hosking, *Russia: People and Empire, 1552–1917* (1997)
 
-Dominic Lieven:
+**Dominic Lieven — *Empire***:
 
-“The White Sea was less a gateway than a lesson, demonstrating that
-access without reliability imposes dependence.”
+> “The White Sea was less a gateway than a lesson, demonstrating that
+> access without reliability imposes dependence.”
+> — Lieven, *Empire: The Russian Empire and Its Rivals* (2000)
 
 Modern analysis confirms the White Sea as preparatory, not decisive.
 

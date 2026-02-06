@@ -123,6 +123,16 @@ Implications:
 The defeat forces Alexander to confront the **limits of autocratic
 certainty**.
 
+Leo Tolstoy gives the battle as lived experience and loss:
+
+> "So the battle was lost by the allies at Austerlitz, a battle that is
+> considered by historians to have been great and that was lost despite
+> the bravery of the Russian soldiers and the desperation with which they
+> fought. The result of the battle was the flight of half the Russian army."
+> — Leo Tolstoy, *War and Peace* (1869), Book 3, Chapter 18 (trans. Maude)
+
+Literary memory fixes Austerlitz as **catastrophe witnessed**.
+
 Dominic Lieven frames the strategic learning that followed:
 
 "Alexander I's experience at Austerlitz—witnessing catastrophic defeat
@@ -327,6 +337,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Under sufficient pressure, learning and necessity become indistinguishable.
 • Sovereign presence amplifies both victory and defeat—a high-variance bet.
 • Survivors call their constraints "wisdom."
+• Austerlitz encodes the cost of rejecting restraint (decisive-battle gamble); the Panin-like corrective is endurance and system, as applied in 1812 (MEM–RUSSIA–PANIN).
 
 Contradictions preserved without verdict.
 

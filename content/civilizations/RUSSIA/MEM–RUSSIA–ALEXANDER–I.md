@@ -211,7 +211,7 @@ Strategic coherence, not improvisation.
 Russia prepares not to outmaneuver brilliance, but to outlast it.
 
 ────────────────────────────────────────────────────────────
-V. 1812: INVASION AS LEGITIMACY FURNAAD
+V. 1812: INVASION AS LEGITIMACY FURNACE
 ────────────────────────────────────────────────────────────
 The French invasion transforms the regime’s legitimacy substrate.
 Alexander reframes autocracy as guardianship, not command, as existential
@@ -223,6 +223,19 @@ regenerate,” encoding attrition and depth as moralized strategy.
 
 The war is remembered as survival through absorption, not victory
 through genius.
+
+Leo Tolstoy encodes Alexander's place in the movement of peoples:
+
+> "The movement of peoples from west to east was to be followed by a movement
+> from east to west. For this new war, a new figure was needed, having
+> qualities and standing in circumstances different from those of the former
+> figure. Alexander I was as necessary for the movement of peoples from east
+> to west and for the re-establishment of the frontiers of nations as Napoleon
+> had been necessary for the movement from west to east."
+> — Leo Tolstoy, *War and Peace* (1869), Book 14, Chapter 1 (trans. Maude)
+
+Literary memory places the Tsar within **historical necessity**, not sovereign
+choice alone.
 
 ────────────────────────────────────────────────────────────
 VI. VICTORY & THE CLAIM TO SYSTEM-ARBITRATION
@@ -363,6 +376,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Moral language can function as a system-control technology.
 • Reform rhetoric is constrained by cohesion and sovereignty.
 • External ideological exposure triggers internal consolidation.
+• Alexander's support for the endurance strategy and his role at Vienna exemplify a sovereign choosing system and equilibrium over glory—the inverse of Catherine's override of Panin (MEM–RUSSIA–PANIN).
 
 HOLY ALLIANCE AS FAILED PEACETIME LEGITIMACY (v2.8 — RLL–RUSSIA–0009):
 • Alexander's Holy Alliance attempted to encode peace through moralized

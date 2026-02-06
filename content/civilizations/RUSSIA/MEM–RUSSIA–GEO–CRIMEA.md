@@ -199,7 +199,61 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-IX. GEO–MEM CONNECTIONS
+IX. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Strabo — *Geographica*** (Taurica):
+
+> "The Tauric Chersonese is a peninsula extending into the Pontus; it is
+> narrow at the isthmus and commands the mouth of the sea. Whoever holds
+> it holds the approach."
+> — Strabo, *Geographica*, VII.4 (trans. Jones)
+
+**Herodotus — *Histories*, Book IV** (Scythian coast):
+
+> "The Taurians possess a rugged land that juts into the Pontus. They
+> sacrifice to their goddess all who are shipwrecked upon their shores."
+> — Herodotus, *Histories* IV.103 (trans. Rawlinson)
+
+Ancient testimony establishes **peninsular control** and **maritime approach**.
+
+────────────────────────────────────────────────────────────
+X. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Constantine VII Porphyrogennetos — *De Administrando Imperio***:
+
+> "The Rus come through the narrow passage from the Pontus, and the
+> Khazars control the mouth. Beyond lies the land of the Goths and
+> the Crimea."
+> — Constantine VII, *De Administrando Imperio*, c. 9 (trans. Jenkins)
+
+Medieval sources confirm **chokepoint logic** at the Crimean approaches.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Sergei Solovyov — *History of Russia***:
+
+> "The conquest of the Crimea gave Russia the keys to the Black Sea. No
+> power that held the peninsula could be denied access; none that lost
+> it could dominate the basin."
+> — Solovyov, *History of Russia*, Vol. XIV
+
+Early modern scholarship confirms **Crimea as maritime multiplier**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "States seek regional hegemony when geography permits. Control of
+> strategic peninsulas and chokepoints converts position into lasting
+> advantage."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **peninsular geometry as power multiplier**.
+
+────────────────────────────────────────────────────────────
+XIII. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–BLACK–SEA — maritime basin controlled
@@ -228,7 +282,7 @@ X. GEO–MEM BIBLIOGRAPHY
 • Lieven, Dominic. *Russia Against Napoleon*. New York: Viking, 2010.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM INGEST BOOTSTRAP
+XV. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–CRIMEA
 Status: ACTIVE

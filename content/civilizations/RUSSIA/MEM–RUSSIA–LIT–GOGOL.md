@@ -1,9 +1,10 @@
-MEM–RUSSIA–LIT–GOGOL — v3.0
+MEM–RUSSIA–LIT–GOGOL — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–LIT–GOGOL v2.7
+Version: 3.1
+Supersedes: MEM–RUSSIA–LIT–GOGOL v3.0
+Upgrade Type: CONTENT · GOGOL VERBATIM (Sections II, III, V: Dead Souls, The Nose, The Overcoat)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Nikolai Gogol (Николай Гоголь) — Absurdity Memory Architect
 Dates: 1809–1852 AD (decisive works: 1835–1842)
@@ -59,6 +60,13 @@ Framework:
 → Russian bureaucracy creates realities more real than reality itself.
 → Legal fictions become the foundation of social and economic life.
 
+> "The idea was most certainly a strange one. No one had ever doubted the
+> legality of the purchase of dead souls; but such a purchase had never
+> been attempted before. Chichikov was occupied with a most singular
+> subject: he was pondering the fact that the dead souls had all had
+> trades and callings in their lifetime."
+> — Nikolai Gogol, *Dead Souls* (1842), trans. Constance Garnett
+
 Evidence: Gogol's observations of Russian provincial administration and serfdom
 system, combined with his own experiences navigating bureaucratic Petersburg.
 
@@ -79,6 +87,12 @@ The story transforms **Russian rationality into a fragile construct**.
 Framework:
 → Russian civilization maintains order through collective delusion.
 → The supernatural is not exceptional but the natural state of affairs.
+
+> "On the 25th March there was a very strange occurrence in St. Petersburg.
+> The barber Ivan Yakovlevich woke up early and caught the smell of hot
+> bread. He sat up in bed and saw his wife, a rather respectable lady who
+> was very fond of coffee, taking fresh bread out of the oven."
+> — Nikolai Gogol, *The Nose* (1836), trans. Constance Garnett
 
 Historical Context: Gogol's fascination with Ukrainian folklore and Russian
 provincial life, where the boundaries between the natural and supernatural
@@ -122,6 +136,12 @@ The story transforms **social aspiration into metaphysical tragedy**.
 Framework:
 → Russian social mobility is both possible and impossible.
 → Material possessions become spiritual necessities.
+
+> "In the department of... but it is better not to mention the department.
+> Nothing is more touchy than a department, a regiment, a government
+> office—in fact any body of men. Nowadays every private individual
+> considers the whole of society insulted in his person."
+> — Nikolai Gogol, *The Overcoat* (1842), trans. Constance Garnett
 
 Historical Context: Gogol's Petersburg experiences and observations of the
 Russian "petty official" class, whose lives were defined by bureaucratic
@@ -257,6 +277,11 @@ Scholar Constraints:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+Primary texts (verbatim cited):
+• Gogol, Nikolai. *Dead Souls* (1842). Trans. Constance Garnett. London: Chatto & Windus, 1922.
+• Gogol, Nikolai. *The Nose* (1836). Trans. Constance Garnett. In *The Overcoat and Other Stories*. New York: Dover, 1992.
+• Gogol, Nikolai. *The Overcoat* (1842). Trans. Constance Garnett. In *The Overcoat and Other Stories*. New York: Dover, 1992.
+
 • Nabokov, Vladimir. *Nikolai Gogol*. New York: New Directions, 1944.
   [PRIMARY: definitive literary analysis]
 • Maguire, Robert A. *Exploring Gogol*. Stanford: Stanford University Press,

@@ -225,6 +225,13 @@ The structural reality is that the Gulf has become a **zone of
 mutual vulnerability** where defensive preparations by either
 side appear offensive to the other.
 
+**Incentive structure:** Russia is incentivized to hold the eastern
+head and deter approach; NATO/Finland/Estonia to monitor egress and
+maintain corridor pressure. **Force posture:** Russian A2/AD at the
+eastern head can deny approach; NATO surveillance and mining capability
+from both flanks create mutual vulnerability and stalemate logic
+(RLL–RUSSIA–0024: eastern head as chokepoint).
+
 ────────────────────────────────────────────────────────────
 X. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -246,8 +253,10 @@ controls the eastern head AND manages flank relations.
 ────────────────────────────────────────────────────────────
 XI. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• Corridor geography concentrates strategic value.
+• Corridor geography concentrates strategic value (RLL–0024: eastern head).
 • Eastern head control determines Baltic access.
+• Incentive structure: Russia to hold eastern head; NATO to monitor and pressure corridor.
+• Force posture: A2/AD vs flanking creates stalemate logic.
 • Flanking positions transform corridor into approach.
 • Shallow waters favor defensive operations.
 • NATO expansion transformed Gulf geometry.

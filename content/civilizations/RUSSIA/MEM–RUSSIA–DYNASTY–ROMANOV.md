@@ -1,10 +1,10 @@
-MEM–RUSSIA–DYNASTY–ROMANOV — v3.0
+MEM–RUSSIA–DYNASTY–ROMANOV — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV v2.7
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV v3.0
+Upgrade Type: CONTENT · LIEVEN TOWARDS THE FLAME VERBATIM (Section IX)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: AUTOCRATIC EMPIRE · POST-CRISIS RESTORATION → SYSTEMIC OVERLOAD
 Subject: Romanov Dynasty
@@ -269,6 +269,14 @@ RLL–0005 clarification:
 1917 is not a dynastic crisis.
 It is a **buffer exhaustion event**.
 
+Dominic Lieven specifies where failure occurred:
+
+"What doomed the Romanov monarchy was not mass hatred alone, but the
+withdrawal of support by those whose obedience sustained the state—
+senior officers, administrators, and political elites—once they lost
+faith in the regime's competence."
+— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist Russia* (2015)
+
 ────────────────────────────────────────────────────────────
 X. ABSORPTION & AFTERLIFE
 ────────────────────────────────────────────────────────────
@@ -319,6 +327,7 @@ XII. MEM BIBLIOGRAPHY
 • Massie, Robert K. *Catherine the Great: Portrait of a Woman*. Random House, 2011.
 • Bushkovitch, Paul. *A Concise History of Russia*. Cambridge University Press, 2012.
 • Lieven, Dominic. *Russia Against Napoleon: The True Story of the Campaigns of War and Peace*. Viking, 2010.
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
 • Figes, Orlando. *A People's Tragedy: The Russian Revolution, 1891–1924*. Penguin, 1996.
 
 ────────────────────────────────────────────────────────────

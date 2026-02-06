@@ -1,10 +1,10 @@
-MEM–RUSSIA–WAR–STAVKA — v3.0
+MEM–RUSSIA–WAR–STAVKA — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–WAR–STAVKA v2.0
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–WAR–STAVKA v3.0
+Upgrade Type: CONTENT · LIEVEN TOWARDS THE FLAME (attribution + second verbatim, Section II)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Stavka (Ставка Верховного Главнокомандования)
 Dates: 1941–1945 (WWII iteration); historical precedents 1914–1918
@@ -66,7 +66,15 @@ military affairs while the empire collapsed behind him. The tsarist
 Stavka demonstrated both the necessity of unified command and the
 danger of a ruler absorbed in military detail while political
 authority disintegrated."
-— Dominic Lieven, *The End of Tsarist Russia* (2015)
+— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist Russia* (2015)
+
+Lieven specifies why political authority crumbled while the tsar was at headquarters:
+
+"What doomed the Romanov monarchy was not mass hatred alone, but the
+withdrawal of support by those whose obedience sustained the state—
+senior officers, administrators, and political elites—once they lost
+faith in the regime's competence."
+— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist Russia* (2015)
 
 The tsarist precedent showed **the risks of supreme command**.
 
@@ -320,8 +328,8 @@ Category D (Modern Scholarship):
 • Glantz, David. *Soviet Military Deception in World War II*.
   London: Frank Cass, 1989.
 • Keegan, John. *The Second World War*. New York: Viking, 1990.
-• Lieven, Dominic. *The End of Tsarist Russia: The March to World
-  War I and Revolution*. New York: Viking, 2015.
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*.
+  London: Allen Lane, 2015.
 • Overy, Richard. *Russia's War: A History of the Soviet War Effort,
   1941–1945*. New York: Penguin, 1997.
 

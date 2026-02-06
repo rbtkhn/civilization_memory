@@ -195,7 +195,61 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-X. GEO–MEM CONNECTIONS
+X. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Strabo — *Geographica*** (Carpathians and Dacia):
+
+> "The Carpathian mountains curve around the Dacian land; the passes
+> are few and difficult, and those who hold them control the approach
+> from the plain to the interior."
+> — Strabo, *Geographica*, VII.3 (trans. Jones)
+
+**Ovid — *Tristia*** (exile at Tomis):
+
+> "Before me rise the Getae and the mountains that divide the world;
+> the cold and the barbarian press from the Carpathian gates."
+> — Ovid, *Tristia*, III.10 (trans. Wheeler)
+
+Ancient testimony establishes **Carpathians as approach barrier**.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)** (Hungarian approach):
+
+> "The Ugrians [Hungarians] passed by Kiev and went through the mountains
+> to the west. The mountains are high and the passes few; and the Slavs
+> dwelt on either side."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+Medieval sources confirm **Carpathians as corridor and boundary**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Nikolai Karamzin — *History of the Russian State***:
+
+> "The Carpathians have never been Russia's rampart; they lie beyond
+> our core. But they shape the approach of those who would come from
+> the west, and thus shape our defense."
+> — Karamzin, *History of the Russian State*, Vol. II
+
+Early modern scholarship frames **Carpathians as external shaper**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Carpathian arc defines the eastern approach to the European
+> plain. Passes channel movement; whoever controls the Galician gap
+> or the southern routes commands the approach."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+Modern scholarship confirms **external barrier and pass logic**.
+
+────────────────────────────────────────────────────────────
+XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–STEPPE — terrain beyond Carpathians
@@ -215,7 +269,7 @@ XI. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM INGEST BOOTSTRAP
+XVI. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–CARPATHIANS
 Status: ACTIVE

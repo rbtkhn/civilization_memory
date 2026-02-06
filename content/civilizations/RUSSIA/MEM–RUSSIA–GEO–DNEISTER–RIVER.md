@@ -180,6 +180,11 @@ For NATO/West:
 The structural reality is that the Dniester creates a
 **permanent boundary condition** between power spheres.
 
+**Incentive structure:** Holders of the eastern bank (Russia/Transnistria)
+are incentivized to preserve the frontier buffer; western-bank holders
+(Moldova/Ukraine) to limit eastern penetration; the Dniester functions
+as demarcation line.
+
 ────────────────────────────────────────────────────────────
 VIII. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -208,6 +213,8 @@ IX. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Mountain origins provide defensive anchors.
 • Maritime termini extend river significance.
 • Geography creates permanent boundary conditions.
+• Incentive structure: eastern bank to preserve frontier buffer; western
+  bank to limit eastern penetration; Dniester as demarcation.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

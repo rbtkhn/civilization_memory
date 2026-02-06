@@ -1,8 +1,8 @@
-MEM–RUSSIA–PUTIN — v3.0
+MEM–RUSSIA–PUTIN — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
+Version: 3.1
 Supersedes: (new file)
 Upgrade Type: ALIGNMENT · NEW MEM (PERSON)
 Civilization: RUSSIA (Русская цивилизация)
@@ -10,7 +10,7 @@ Regime: POST-SOVIET / VERTICAL OF POWER
 Subject: Vladimir Vladimirovich Putin (Владимир Владимирович Путин)
 Dates: 1952–present (President/PM 1999–2008, 2012–present)
 Class: MEM (Civilizational Memory)
-Last Update: February 2026
+Last Update: February 2026 (content v3.1: Mearsheimer structural frame)
 Word Count: ~2,700
 
 Governed by:
@@ -99,6 +99,24 @@ Western memory as **revisionism and aggression**. The MEM preserves
 both encodings without synthesis.
 
 ────────────────────────────────────────────────────────────
+IV.A STRUCTURAL FRAME (MEARSHEIMER COGNITION)
+────────────────────────────────────────────────────────────
+From a structural perspective, Putin's pushback is legible as a
+response to a shifting balance of power: NATO enlargement and EU
+association shifted the effective distribution of capability and
+alliance on Russia's western flank, reducing buffer and increasing
+threat perception. The incentive structure was clear—great powers
+do not tolerate military alliances advancing into their backyard—
+and the Russian response was predictable given the stakes. The
+April 2008 Bucharest summit, which committed NATO to eventual
+membership for Ukraine and Georgia, is the kind of fateful decision
+point that structural analysis treats as causally central; the
+episodes that followed (Georgia 2008, Crimea 2014, Ukraine 2022)
+flow from that shift in the balance. This framing does not replace
+the civilizational encoding above; it sharpens it with power-
+distribution logic. Tension preserved.
+
+────────────────────────────────────────────────────────────
 V. UNDERSTANDING RUSSIA: CIVILIZATIONAL FRAMING
 ────────────────────────────────────────────────────────────
 Kissinger also offered a hermeneutic for reading Russian conduct:
@@ -118,7 +136,9 @@ VI. KEY EPISODES (ENCODED, NOT ADJUDICATED)
 • Second Chechen War (1999–2000) — restoration of federal control
 • Khodorkovsky/Yukos (2003+) — reassertion of state over oligarchs
 • Munich speech (2007) — critique of unipolar world
-• Georgia (2008) — recognition of Abkhazia, South Ossetia
+• Georgia (2008) — recognition of Abkhazia, South Ossetia; structural
+  reading ties to April 2008 Bucharest (NATO commitment to Ukraine/
+  Georgia) as fateful hinge
 • Crimea (2014) — annexation; "return to homeland"
 • Ukraine (2014–) — Donbas; full-scale invasion (2022)
 • Syria (2015+) — Russian re-entry to Middle East
@@ -126,7 +146,10 @@ VI. KEY EPISODES (ENCODED, NOT ADJUDICATED)
 
 Each episode is contested. The MEM records that they occurred and
 that they encode **Russian reassertion** in one reading and **aggression**
-in another. Tension preserved.
+in another. Structural reading: April 2008 Bucharest commitment to
+Ukraine/Georgia NATO membership precedes and informs Georgia 2008,
+Crimea 2014, and Ukraine 2022 as a single incentive chain. Tension
+preserved.
 
 ────────────────────────────────────────────────────────────
 VII. POLYPHONIC TENSION
@@ -142,6 +165,11 @@ military and diplomatic weight. Mearsheimer's formulation (core
 strategic interests, backyard, Geopolitics 101) appears in MEM–RUSSIA–
 UKRAINE, MEM–RUSSIA–MURMANSK, MEM–RUSSIA–LATVIA, and others: Putin's
 pushback was predictable given the balance of power and the stakes.
+Geographic constraint is explicit: loss of Ukraine as buffer and of
+Baltic flank altered the strategic picture regardless of personality.
+Any Russian leader facing that shift would have confronted the same
+structural incentive to push back; agency matters, but the balance of
+power set the menu of rational choices.
 
 • Mercouris: Legitimacy and civilizational grammar matter; Dostoyevsky
   not Mein Kampf.
@@ -160,6 +188,9 @@ Putin encodes for Russian memory:
 • Russia is a great power whose concerns must be reconciled with
   others' necessities.
 • Security is territorial and strategic; buffer and sphere matter.
+• Structural reading: balance-of-power shift and loss of buffer made
+  counter-moves rational; Russian memory encodes "we had no choice" as
+  well as "we restored respect."
 • The West's failure to treat Russia seriously produced confrontation.
 
 ────────────────────────────────────────────────────────────
@@ -191,6 +222,7 @@ Russian (≥10):
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–DNEIPER–RIVER — Ukraine buffer
 • MEM–RUSSIA–GEO–STEPPE — southern corridor
+• MEM–RUSSIA–GEO–BLACK–SEA — Crimea, Sevastopol, southern flank
 
 Cross-civilizational:
 • MEM–RUSSIA–KOREA — Putin–Kim engagement
@@ -225,5 +257,5 @@ E. Polyphonic — civilizational vs. structural
 F. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PUTIN v3.0
+END OF FILE — MEM–RUSSIA–PUTIN v3.1
 ────────────────────────────────────────────────────────────

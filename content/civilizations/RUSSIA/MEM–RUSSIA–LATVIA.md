@@ -379,6 +379,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Russian minority creates ongoing strategic tension
 • NATO membership reverses three centuries of Russian strategic position
 • Loss represents contraction to pre-Petrine boundaries
+• Loss of Latvia is also loss of a corridor that Panin-style equilibrium (alliances, system) might have helped secure; Peter's path was control and replacement (Petersburg), not system-embedding (MEM–RUSSIA–PANIN).
 
 POLYPHONIC TENSIONS (v2.8):
 • MERCOURIS: Riga as German city made Russian

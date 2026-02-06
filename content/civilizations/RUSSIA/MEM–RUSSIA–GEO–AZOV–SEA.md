@@ -203,6 +203,11 @@ For Black Sea dynamics:
 The structural reality is that Azov has become a Russian
 logistical asset rather than a contested zone.
 
+**Incentive structure:** Russia is incentivized to hold Kerch and
+entire littoral to convert Azov into an interior sea and secure Don/
+Volga–Don and Crimean logistics; loss of Kerch would re-open contest
+for Don mouth and Black Sea access (RLL–RUSSIA–0024: Kerch as chokepoint).
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -224,9 +229,10 @@ controls both the littoral AND Kerch Strait.
 ────────────────────────────────────────────────────────────
 X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• Shallow seas reward territorial control over naval mass.
+• Shallow seas reward territorial control over naval mass (RLL–0024: Kerch).
 • Antechamber basins derive value from what they connect.
 • Chokepoint control = basin control.
+• Incentive structure: Russia to hold Kerch and full littoral; Ukraine (pre-2022) to retain Mariupol/Berdyansk.
 • River–sea fusion extends power from interior to maritime.
 • Littoral dominance substitutes for fleet operations.
 • Post-2022, Azov became Russian interior sea.

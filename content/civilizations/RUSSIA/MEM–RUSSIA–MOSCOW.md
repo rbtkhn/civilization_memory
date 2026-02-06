@@ -1,10 +1,10 @@
-MEM–RUSSIA–MOSCOW — v3.0
+MEM–RUSSIA–MOSCOW — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · PARTIAL · 20% TARGET
 Status: ACTIVE · PARTIAL
-Version: 3.0
-Supersedes: v2.1
-Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
+Version: 3.1
+Supersedes: MEM–RUSSIA–MOSCOW v3.0
+Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section II, Eugene Onegin)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Moscow (Москва) — Sacred Capital & Autocratic Center
 Dates: 1147 AD–present (capital: 1328–1712, 1918–present)
@@ -75,6 +75,14 @@ The Primary Chronicle tradition notes Moscow's first mention:
 
 "Come to me, brother, to Moscow."
 — Primary Chronicle, Entry for 1147 AD (Yuri Dolgorukiy to Sviatoslav)
+
+Pushkin encodes Moscow as the Russian heart:
+
+> "Moscow... how much in that sound has merged for the Russian heart! How
+> much has echoed there! Napoleon waited in vain for Moscow on its knees
+> with the keys of the old Kremlin—no, my Moscow did not go to him with
+> a penitent head."
+> — Alexander Pushkin, *Eugene Onegin* (1833), trans. Charles Johnston
 
 Initial characteristics:
 • Minor fortress in forest zone of Vladimir-Suzdal principality
@@ -489,6 +497,8 @@ Primary Sources Consulted:
 • Diplomatic correspondence, late 15th–16th century
 
 Secondary Sources:
+• Pushkin, Alexander. *Eugene Onegin* (1833). Trans. Charles Johnston.
+  London: Scolar Press, 1977. [Section II: Moscow as Russian heart]
 • Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia,
   1613–1689*. Princeton: Princeton University Press, 1983.
 • Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus 750–1200*.

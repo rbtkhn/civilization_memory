@@ -179,6 +179,11 @@ For Baltic trade:
 The structural reality is that the Neva creates a **concentrated
 vulnerability point** in an otherwise defensible position.
 
+**Incentive structure:** Russia is incentivized to defend the chokepoint
+continuously; NATO to surveil and pressure the corridor. Force-posture:
+Russian A2/AD at Gulf head vs NATO flanking from Finland/Estonia
+concentrates vulnerability at the Neva outlet.
+
 ────────────────────────────────────────────────────────────
 VIII. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -207,6 +212,10 @@ IX. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Flanking positions transform gateways into vulnerabilities.
 • Chokepoints require continuous defense investment.
 • Geography creates existential dependencies.
+• RLL–0018 (chokepoint), RLL–0021 (conditional Baltic link), RLL–0024
+  (no bypass). Incentive structure: Russia to hold Neva for Baltic
+  access; NATO to surveil and pressure corridor. Force-posture: A2/AD
+  at head vs flanking creates concentrated vulnerability.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

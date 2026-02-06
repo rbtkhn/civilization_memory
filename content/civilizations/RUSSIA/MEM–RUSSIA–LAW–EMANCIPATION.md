@@ -102,6 +102,18 @@ Bondage mutates rather than disappears.
 
 Legal freedom ≠ social autonomy.
 
+Leo Tolstoy, in *Anna Karenina* (1877), gives the post-emancipation
+estate as lived experience:
+
+> "He had thought that the emancipation had changed everything, but he
+> found that the peasants still looked on the land as the master's and
+> on themselves as belonging to the master. He felt that in spite of the
+> emancipation the peasants still looked on themselves as the master's
+> serfs, and he could not understand how they could be so blind."
+> — Leo Tolstoy, *Anna Karenina* (1877), Part 3, Chapter 5 (trans. Maude)
+
+Literary memory confirms **reform without dissolution** of the old relation.
+
 ────────────────────────────────────────────────────────────
 V. STATE PRIORITIES & LIMITS
 ────────────────────────────────────────────────────────────
@@ -178,6 +190,8 @@ GEO (≥2):
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
+• Tolstoy, Leo. *Anna Karenina* (1877). Trans. Louise and Aylmer Maude.
+  [Literary evidence: post-emancipation estate relations, Section IV]
 • Emancipation Manifesto of 19 February 1861 (Alexander II)
 • Redemption statutes and provincial implementation records
 

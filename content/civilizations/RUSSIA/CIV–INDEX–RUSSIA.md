@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.5
+CIV–INDEX–RUSSIA — v3.7
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.5
-Supersedes: CIV–INDEX–RUSSIA v3.4
-Upgrade Type: NEW MEM REGISTRATION · RUSSO–TURKISH IZMAIL & JASSY
+Version: 3.7
+Supersedes: CIV–INDEX–RUSSIA v3.6
+Upgrade Type: NEW MEM REGISTRATION · ALEXANDER–III
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,18 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.7) — NEW MEM REGISTRATION
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–ALEXANDER–III.md — G) PERSON (Alexander III 1881–1894; counter-reforms; restraint abroad, reaction at home; RLL–0033)
+Total: 188 → 189. G) PERSON: 26 → 27.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.6) — NEW MEM REGISTRATION
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–NICHOLAS–I.md — G) PERSON (Nicholas I 1825–1855; Official Nationality; Crimean War initiator; RLL–0033)
+Total: 187 → 188. G) PERSON: 25 → 26.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.5) — NEW MEM REGISTRATION
@@ -350,6 +362,7 @@ F) RELIGION
 G) PERSON
 • MEM–RUSSIA–ALEXANDER–I.md
 • MEM–RUSSIA–ALEXANDER–II.md
+• MEM–RUSSIA–ALEXANDER–III.md
 • MEM–RUSSIA–ALEXANDER–NEVSKY.md
 • MEM–RUSSIA–ALEXEI–ROMANOV.md
 • MEM–RUSSIA–CATHERINE–GREAT.md
@@ -361,6 +374,7 @@ G) PERSON
 • MEM–RUSSIA–KUTUZOV.md
 • MEM–RUSSIA–LENIN.md
 • MEM–RUSSIA–MICHAEL–ROMANOV.md
+• MEM–RUSSIA–NICHOLAS–I.md
 • MEM–RUSSIA–NICHOLAS–II.md
 • MEM–RUSSIA–OLEG–NOVGOROD.md
 • MEM–RUSSIA–PANIN.md

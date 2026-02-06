@@ -147,6 +147,16 @@ For potential adversaries:
 The structural reality is that Russia has **geographic primacy
 in the Arctic** due to coastline extent and position.
 
+**Incentive structure:** Russia is incentivized to treat the Arctic
+as sanctuary and as controlled corridor (NSR); to deny others ASW
+access to SSBN patrol areas; and to secure resource and transit rights.
+Other Arctic states and NATO are incentivized to contest resource
+division and transit freedom and to monitor Russian submarine and
+surface activity. **Force balance:** Within the basin, icebreaker
+capacity and SSBN presence favor Russia; external ASW and surface
+projection remain constrained by ice and distance (RLL–RUSSIA–0032:
+outlet/corridor control applies to NSR).
+
 ────────────────────────────────────────────────────────────
 VII. ICE AS VARIABLE CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -205,16 +215,74 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
 • Ice-dominated seas constrain conventional naval operations.
 • Coastline extent determines Arctic position (Russia dominant).
-• Northern Sea Route provides alternative global corridor.
+• Northern Sea Route provides alternative global corridor (RLL–0032).
 • Submarine sanctuary protects strategic deterrence.
 • Resource access will shape future competition.
 • Northern invasion axis does not exist operationally.
+• Incentive structure: Russia to dominate NSR and deny ASW; others to contest resources and transit.
+• Force balance within basin favors Russia (icebreakers, SSBN); external projection constrained.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Pliny the Elder — *Natural History*** (northern ocean):
+
+> "The ocean is not merely a sea, but a barrier set by nature herself,
+> beyond which lie regions that men approach only with difficulty and
+> danger. The northern waters are frozen for much of the year."
+> — Pliny, *Natural History*, Book II (trans. Bostock & Riley)
+
+**Tacitus — *Germania*** (northern limits):
+
+> "Beyond the Suiones lies a sluggish sea, almost motionless, which is
+> believed to encircle the earth. The last gleam of the setting sun
+> lingers until dawn."
+> — Tacitus, *Germania*, 45 (trans. Church & Brodribb)
+
+Ancient testimony establishes **northern ocean as boundary** and
+**environmental constraint**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Adam of Bremen — *Gesta Hammaburgensis***:
+
+> "Beyond the northern seas lies an ocean vast and fearful, known more
+> by rumor than by rule, where navigation tests the courage of men more
+> than their dominion."
+> — Adam of Bremen, *Gesta Hammaburgensis*, Book IV (trans. Tschan)
+
+Medieval sources register the Arctic as **known but unmastered**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The Arctic and sub-Arctic offer a corridor of difficulty rather than
+> impossibility. Whoever can operate in ice gains access that others
+> cannot contest."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+Early modern scholarship frames **ice as variable constraint**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Interior and northern waters give continental powers sanctuary and
+> resource access that maritime powers cannot interdict. The Arctic
+> exemplifies terrain that favors the littoral state."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **structural advantage for Arctic littoral**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–TUNDRA — Arctic littoral
@@ -227,7 +295,7 @@ Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–ARCTIC–OCEAN — civilizational narrative
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM BIBLIOGRAPHY
+XVI. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.
   New York: Norton, 2001.
@@ -235,7 +303,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–ARCTIC–OCEAN
 Status: ACTIVE

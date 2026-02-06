@@ -527,6 +527,124 @@ RLL–RUSSIA–0032 (PROPOSED) — Outlet Control Converts Corridor Law
   MEM–RUSSIA–PETER–GREAT, MEM–RUSSIA–CATHERINE–GREAT. **Scope**: GEO.
   **Status**: PENDING BINDING.
 
+RLL–RUSSIA–0033 (PROPOSED) — Sovereign Restraint vs Expansion Option Law  
+→ The sovereign repeatedly faces a choice between **restraint** (equilibrium,
+  system diplomacy, time/endurance) and **expansion/glory** (conquest,
+  territorial payoff). Advisors may articulate the restraint option; the
+  sovereign may adopt it or override it. When adopted (e.g. Alexander/
+  Kutuzov 1812, Congress of Vienna), system outcomes and legitimacy-through-
+  equilibrium; when overridden (e.g. Catherine over Panin, Peter's court
+  without equivalent), expansion or exhaustion follows.
+  **Recursive move**: When reading a sovereign or war MEM, ask whether a
+  restraint option was articulated, by whom, and whether the sovereign
+  adopted or overrode it; trace outcome (system vs expansion/exhaustion).
+  **Derivation**: LEARN session 2026-02 (Crooke–Diesen, wisdom for statesmen);
+  MEM–RUSSIA–PANIN as canonical articulation; implementation of Panin
+  insight across MEM–RUSSIA–PETER–GREAT, WAR–LIVONIAN, GEO–BALTIC–SEA,
+  LATVIA, ARKHANGELSK, CATHERINE–GREAT, POTEMKIN, CRIMEA, GREAT–GAME,
+  WAR–NAPOLEON, KUTUZOV, CONGRESS–VIENNA, ALEXANDER–I, BORODINO, AUSTERLITZ.
+  **Evidence**: Panin (restraint articulated, overridden by Catherine);
+  Peter (no Panin-equivalent, expansion path); Kutuzov/Alexander 1812
+  (restraint adopted, Vienna); Catherine/Potemkin/Crimea (override, southern
+  expansion); Austerlitz (rejection of restraint, cost).
+  **Related**: RLL–0009 (peace as destabilizing—tension: restraint often
+  implies diplomatic/equilibrium path); RLL–0012 (depth/time—restraint can
+  trade space for time); RLL–0014 (victory via enemy collapse—restraint can
+  wait for collapse).
+  **Scope**: GENERAL. **Status**: PENDING BINDING.
+
+  **Validation test (proposed) — RLL–0033 confidence:**
+  **Objective:** Increase confidence in 0033 by (1) coding holdout MEMs not
+  yet used as evidence, and (2) probing for falsifying or ambiguous cases.
+  **Coding protocol:** For each sovereign/war MEM, code: (a) Was a
+  restraint option articulated? (b) By whom (advisor, commander, faction)?
+  (c) Sovereign decision: adopted / overridden / absent (no clear option)?
+  (d) Outcome: system (equilibrium, legitimacy-through-diplomacy, no
+  territorial overreach) / expansion (territory gained, corridor secured) /
+  exhaustion (cost exceeded gain, collapse, or defeat). **Pass:** New cases
+  fit pattern (restraint adopted → system; overridden/absent → expansion or
+  exhaustion); no falsifying case. **Stress:** Ambiguous case (e.g. restraint
+  adopted but system collapsed for other reasons; or override but stable
+  outcome)—requires refinement or exception. **Fail:** Clear falsifier
+  (restraint adopted → exhaustion; override → sustained system outcome)
+  without plausible confound.
+  **Candidate MEMs (holdout):** MEM–RUSSIA–ALEXANDER–II (reform vs
+  expansion; Polish, Caucasus, Central Asia); MEM–RUSSIA–WAR–CRIMEAN
+  (Nicholas I decision to engage; restraint option?); MEM–RUSSIA–WAR–RUSSO–
+  JAPANESE (decision to fight; Witte/restraint vs war party); MEM–RUSSIA–
+  PAUL–I (restraint vs intervention; assassination as hinge). Optionally:
+  MEM–RUSSIA–LENIN (revolutionary expansion vs Brest-Litovsk restraint).
+  **Procedure:** In LEARN mode, for each candidate MEM: "Apply RLL–0033
+  coding (restraint articulated? by whom? adopted/overridden? outcome).
+  Cite specific passages. Does the case support, stress, or falsify 0033?"
+  Aggregate: if all support → raise confidence; any stress → document and
+  consider RLL corollary or exception; any fail → revise or narrow 0033.
+  **Binding:** Test design only; run and results to be appended to this
+  entry or to a RUN–REPORT when executed.
+
+  **Run 1 — MEM–RUSSIA–ALEXANDER–II (2026-02):**
+  (a) Restraint articulated? **No.** MEM frames Alexander as "reformer
+  under constraint"; focus is domestic reform (emancipation, judiciary,
+  zemstvos) and reform–radicalization–assassination. Foreign-policy
+  restraint (territorial/diplomatic) is not staged. (b) By whom? N/A.
+  (c) Sovereign decision: **Absent** (no adopt/override of territorial
+  restraint in MEM; historically expansion occurred—Central Asia,
+  1877–78—but not narrated here). (d) Outcome: **Exhaustion** (assassination
+  1881, "recoils toward control," reform unleashed forces that destroyed
+  him). **Verdict:** Support (weak). No articulated restraint in MEM;
+  outcome exhaustion. 0033 holds; MEM is domestic-focused so foreign
+  restraint/expansion not tested. Next: WAR–CRIMEAN for clearer
+  foreign-policy case.
+
+  **Research — Nicholas I and Crimean War (for RLL–0033 Run 2):**
+  Nicholas I (1825–1855): autocrat; "Official Nationality"; Eastern
+  Question—partition of Ottomans, Russian protectorate over Orthodox in
+  Balkans. **Early 1853:** Nicholas ordered preparation of military
+  operation to seize Bosporus and Constantinople (e.g. 16,000 troops).
+  **Restraint:** Russian diplomatic advisors (mindful of 1848 manifesto
+  scandal) dissuaded him from direct military adventure. Count Karl
+  Nesselrode (Foreign Minister 1816–1856) championed diplomatic
+  solutions, had avoided war in earlier confrontations with Britain in
+  Asia/Near East; European concert, cooperation. **Sovereign response:**
+  Partially adopted—no immediate assault. Overridden in substance: advisors
+  persuaded him to use diplomacy by resurrecting 1774 Kuchuk Kainarji as
+  basis for demands Turkey could not accept; Prince Menshikov sent to
+  Constantinople with ultimatum (holy places + Russian protectorate over
+  all Orthodox). When Ottomans refused, Russian troops occupied Danubian
+  Principalities (July 1853) → Ottoman declaration of war Oct 1853 →
+  Crimean War. **Outcome:** Defeat, Treaty of Paris 1856, Black Sea
+  neutralized, reform catalyst (Alexander II). Sources: Britannica
+  (Nesselrode); GlobalSecurity (Nicholas I policy); Origins of the
+  Crimean War; "Czar's Last Mistake" (IMR). **Note:** No MEM–RUSSIA–
+  NICHOLAS–I exists in corpus; WAR–CRIMEAN and connections reference it.
+
+  **Run 2 — MEM–RUSSIA–WAR–CRIMEAN / Nicholas I (2026-02):**
+  (a) Restraint articulated? **Yes** (per research). Diplomatic advisors,
+  including Nesselrode, argued against military adventure; dissuaded direct
+  seizure of Constantinople. (b) By whom? Russian diplomatic circles;
+  Count Karl Nesselrode (Foreign Minister). (c) Sovereign decision:
+  **Partially adopted, then overridden.** Adopted in form (no immediate
+  attack). Overridden in substance: ultimatum designed to be unacceptable;
+  occupation of Principalities → war. (d) Outcome: **Exhaustion** (defeat,
+  Black Sea neutralized, humiliation, reform forced—per MEM § VII, VIII).
+  **Verdict:** Strong support. Restraint articulated; sovereign chose path
+  guaranteeing escalation; outcome exhaustion. Fits 0033 override pattern.
+
+  **Run 3 — MEM–RUSSIA–ALEXANDER–III (2026-02):**
+  (a) Restraint articulated? **Yes (foreign policy).** MEM frames post-Crimea
+  and post-1877–78 cost of overreach as internalised; no single advisor named
+  (Nesselrode gone); "peacemaker tsar" = restraint as chosen path. (b) By
+  whom? Structural lesson (defeat, coalition); diplomatic/military caution
+  as default. (c) Sovereign decision: **Adopted** in foreign policy (no
+  ultimatum, no major war, Franco-Russian alignment for deterrence).
+  **Overrode** in domestic policy (counter-reforms, zemstvo 1890, repression—
+  override of reform logic). (d) Outcome: **System** abroad (no defeat, no
+  isolation); **stored pressure** at home (brittleness inherited by Nicholas
+  II). **Verdict:** Support with domain split. 0033 holds: restraint adopted
+  in external domain → system outcome; domestic override of reform → brittleness
+  (exhaustion deferred to successor). Refinement: 0033 applies per domain
+  (foreign vs domestic); same sovereign can adopt in one and override in other.
+
 ────────────────────────────────────────────────────────────
 V.E PROPOSED MEM GENERATION OPPORTUNITIES (FROM RECENT LEARNING)
 ────────────────────────────────────────────────────────────
@@ -863,6 +981,53 @@ Session 2026-02-03 (LEARN · Corridor sequence White Sea bypass → Baltic payof
 • RLL bindings: RLL–0007 (Petrine rupture on Muscovite foundations); RLL–0011 (temporal compression); RLL–0025 (1703/1721 as hinge moments); RLL–0032 (PROPOSED) (outlet control converts corridor)—corridor sequence reinforces 0032.
 • Source MEMs: MEM–RUSSIA–GEO–ARCTIC–OCEAN, MEM–RUSSIA–GEO–WHITE–SEA, MEM–RUSSIA–ARKHANGELSK, MEM–RUSSIA–IVAN–IV, MEM–RUSSIA–WAR–LIVONIAN, MEM–RUSSIA–GEO–BALTIC–SEA, MEM–RUSSIA–PETER–GREAT.
 • SYNTHESIS (DRAFT): Corridor sequence—White Sea bypass → Baltic payoff. Claim: Russian maritime corridor logic runs marginal northern hinge (White Sea/Arkhangelsk) as bypass when Baltic blocked (Livonian failure); sovereign grant to external actors (Muscovy Company) as licence, revocable (e.g. Alexis 1649); primary corridor secured when force ratio allows (Peter 1703/1721). Same sovereign grammar: corridor control as sovereign choice; liability and legitimacy follow who designates and who bears cost. Assumptions Box: (1) Bypass and payoff are structural descriptors (Mearsheimer), not only civilizational; (2) Ivan IV grant and Alexis 1649 revocation are same type of act (unbuffered sovereign designation of corridor); (3) 1703 (St Petersburg) and 1721 (Nystad) are commitment and consolidation, not reward-after-victory only. Confidence: TIER 3 (50–70%). Status: DRAFT; cross-check with RLL–0032 (Outlet Control), RLL–0025 (1703/1721 hinges), MEM–RUSSIA–ARCTIC–OCEAN (subject) if present. Linchpin: Assumption (2)—grant and revocation as same sovereign act type.
+
+Session 2026-02-03 (LEARN · Putin legitimacy and Dostoevsky grammar):
+• Ingested: MEM–RUSSIA–PUTIN v3.0; MEM–RUSSIA–LIT–DOSTOEVSKY v3.0.
+• Focus: Kissinger "Dostoyevsky not Mein Kampf" as legitimacy and legibility claim for Putin—encoding through civilizational continuity (suffering, redemption, siege) rather than imported ideology.
+• Mercouris (A): Formula directs who may authorise the story; Putin's vertical of power and great-power reassertion read as re-anchoring in recognisable Russian grammar, not as new legitimacy.
+• Mercouris (A): MEM–RUSSIA–LIT–DOSTOEVSKY deepens encoding—suffering as purpose, Russian soul as memory construct, faith vs Western rationalism, people as repository of essence. Putin's "recovery and revision" and sovereign democracy draw on this prior layer.
+• RLL link: RLL–0017 (Sacrifice Generates Legitimacy) fits same layer; Dostoevsky supplies civilizational grammar for that conversion.
+• Source MEMs: MEM–RUSSIA–PUTIN, MEM–RUSSIA–LIT–DOSTOEVSKY; optional: MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD, MEM–RUSSIA–THIRD–ROME.
+• SYNTHESIS (DRAFT): Putin legitimacy and Dostoevsky grammar. Claim: Putin's legitimacy in Russian civilizational narrative is deepened when read through Dostoevsky's grammar (suffering as purpose, Russian soul, rejection of Western rationalism, people as bearer of authentic identity). "Dostoyevsky not Mein Kampf" is the legibility rule—Putin encoded as continuous with that tradition. Assumptions Box: (1) Kissinger formula = hermeneutic for how Putin is read, not moral endorsement; (2) MEM–RUSSIA–LIT–DOSTOEVSKY is prior civilizational layer Putin's narrative invokes; (3) Legitimacy here = encoding (how story is authorised), not normative justification. Confidence: TIER 3 (50–70%). Status: DRAFT; cross-check RLL–0017, MEM–RUSSIA–UKRAINE, MEM–RUSSIA–THIRD–ROME. Linchpin: Assumption (2)—Dostoevsky as prior grammar.
+
+Session 2026-02-03 (LEARN · CEP Crooke–Diesen Iran/Russia):
+• Source: Analyst transcript — Alastair Crooke interview, Glenn Diesen (current events: Iran–U.S., Gulf, Hormuz, Russia/China role). CEP-eligible.
+• Themes: Iran deterrence and denial of U.S. escalation control; Gulf restraint (fatwa, Saudi turn); great-power entanglement (Russia/China off Hormuz). Russia: sovereign precedent ("don't let Iran be rolled over"), counter-penetration, nuclear-umbrella talk, joint exercises.
+• MEM traverses: MEM–RUSSIA–GREAT–GAME (Persia, 1907 suspended rivalry → Hormuz buffer parallel); MEM–RUSSIA–GEO–BALTIC–SEA (chokepoint logic → Hormuz); MEM–RUSSIA–GEO–VOLGA–RIVER (interior chokepoints, Astrakhan → contrast Hormuz contested legitimacy). Tri-frame on Volga vs. Hormuz legitimacy (unified vs. contested).
+• RLL/axiom links: Sovereign precedent (TIME–TROUBLES, GORBACHEV); counter-penetration (Great Game); chokepoint (Baltic, Volga). MEM–RUSSIA–PUTIN v3.1 (IV.A structural frame, Bucharest 2008) consistent with Russia encoding.
+• Tri-frame: Mercouris — Gulf/fatwa legitimacy, Russia sovereign precedent, Volga vs. Hormuz encoding. Mearsheimer — force balance, Russia structural incentive to entangle, chokepoint. Barnes — chokepoint liability (jurisdiction, who on hook).
+• Note: Disagreement points with Crooke (force balance, Russia/China weight, insurrection facts) logged; policy implications (avoid sovereignty precedent, no partner fragmentation) reinforced. No new RLL; session logged for CEP and Russia-relevance.
+
+Session 2026-02-03 (LEARN · Panin insight system effect; RLL draft):
+• Panin insight (restraint vs. expansion, sovereign adopt/override) implemented across MEMs: PETER–GREAT, WAR–LIVONIAN, GEO–BALTIC–SEA, LATVIA, ARKHANGELSK, CATHERINE–GREAT, POTEMKIN, CRIMEA, GREAT–GAME, WAR–NAPOLEON, KUTUZOV, CONGRESS–VIENNA, ALEXANDER–I, BORODINO, AUSTERLITZ. System effect: corpus-wide thread; richer traversal; distributed evidence for constraint/RLL; tension preserved (override vs. adoption); doctrine/CEP anchors.
+• RLL PROPOSAL (CANDIDATE): Sovereign restraint vs expansion option. Pattern: sovereign choice between restraint (equilibrium, system diplomacy, time/endurance) and expansion/glory; advisors articulate restraint; sovereign adopts or overrides; adoption → system outcomes; override → expansion or exhaustion. Evidence: Panin (overridden), Peter (no equivalent), Kutuzov/Alexander 1812 (adopted), Catherine/Crimea (override), Austerlitz (rejection cost). Related: RLL–0009, 0012, 0014. **Added to V.D as RLL–RUSSIA–0033 (PROPOSED).**
+• RLL–0033 validation test proposed: coding protocol (restraint articulated? by whom? adopted/overridden? outcome); holdout MEMs ALEXANDER–II, WAR–CRIMEAN, WAR–RUSSO–JAPANESE, PAUL–I (optional: LENIN); pass/stress/fail conditions; procedure for LEARN-mode runs. Appended to RLL–0033 entry in V.D.
+• RLL–0033 Run 1: MEM–RUSSIA–ALEXANDER–II. Coding: restraint not articulated (MEM domestic-focused); sovereign decision absent; outcome exhaustion. Verdict: Support (weak). Result appended to RLL–0033 in V.D.
+• Research: Nicholas I and Crimean War—Nesselrode and diplomatic advisors articulated restraint (no direct assault on Constantinople); Nicholas partially adopted (diplomatic track) then overrode (ultimatum Turkey could not accept, occupation of Principalities → war). Outcome exhaustion (defeat, Paris 1856). No MEM–RUSSIA–NICHOLAS–I in corpus. Research and Run 2 (WAR–CRIMEAN / Nicholas I) appended to RLL–0033 in V.D. Verdict: Strong support for 0033.
+• WRITE · Generated MEM–RUSSIA–NICHOLAS–I (v1.0). Subject MEM: Official Nationality; Eastern Question; restraint articulated (Nesselrode), sovereign partial adopt then override (ultimatum, Menshikov, occupation → war); Crimean defeat, death 1855; RLL–0033 pattern. Proportional blend 2/3 Mercouris, 1/3 Mearsheimer. Registered in CIV–INDEX–RUSSIA v3.6 (G) PERSON). Connections: WAR–CRIMEAN, ALEXANDER–II, DYNASTY–ROMANOV, ORTHODOX–CHRISTIANITY, LAW–AUTOCRACY, POLAND, etc.
+• WRITE · Generated MEM–RUSSIA–ALEXANDER–III (v1.0). Subject MEM: reactionary consolidator; recoil after 1881 assassination; counter-reforms (zemstvo 1890, Russification, repression); restraint abroad (peacemaker tsar, no overreach), reaction at home; Trans-Siberian 1891; RLL–0033 (restraint adopted in foreign policy). Proportional blend 2/3 Mercouris, 1/3 Mearsheimer. Registered in CIV–INDEX–RUSSIA v3.7 (G) PERSON). Connections: ALEXANDER–II, NICHOLAS–II, LAW–ZEMSTVO, TRANS–SIBERIAN–RAILWAY, etc.
+• RLL–0033 Run 3: MEM–RUSSIA–ALEXANDER–III. Coding: restraint articulated (foreign—structural lesson); adopted abroad, overrode at home (counter-reforms). Outcome: system abroad, stored pressure at home. Verdict: Support with domain split; 0033 applies per domain. Result appended to RLL–0033 in V.D. MEM–RUSSIA–NICHOLAS–II v3.1: added continuity bullet in § II (Alexander III's settlement inherited); upgrade note v3.1.
+• AUDIT: Russia GEO ocean/sea/strait files (10) through Mearsheimer cognition. Doc: docs/governance/AUDIT–RUSSIA–GEO–OCEAN–MEARSHEIMER–2026–02.md. Findings: 8 GEO–MEMs strong (Arctic, Baltic, Bering, Black, Caspian, Azov, Gulf Finland, Pacific); 2 classed as Subject MEM (ATLANTIC, WHITE–SEA) lack Mearsheimer layer. Recurring gaps: explicit incentive structure, force-ratio/posture; RLL–0024/0032 pointers. Recommendations: P1 typo fix (Atlantic § VI INTERFAAD→INTERFACE) done; P2 add incentive structure to all GEO–MEMs; P3 decide Atlantic/White Sea (subsection vs new GEO–MEM); P4–P5 force-ratio and RLL refs. Atlantic typo fixed in MEM–RUSSIA–GEO–ATLANTIC–OCEAN.
+• AUDIT IMPLEMENTATION: All P1–P5 implemented. P2: incentive structure + (where applicable) force-ratio/posture added to Arctic, Baltic, Bering, Black, Caspian, Azov, Gulf Finland, Pacific. P3: Mearsheimer subsection (III.A / V.A STRATEGIC GEOGRAPHY) added to Atlantic and White Sea. P4: force-ratio/posture in Arctic, Baltic, Black Sea, Gulf Finland. P5: RLL–0024/0032 pointers in Strategic Insights or body for all applicable GEO–MEMs. Audit doc §7 updated with implementation record.
+
+Session 2026-02 (LEARN · GEO ocean audit, Mearsheimer cognition):
+• **Scope:** All Russia GEO ocean/sea/strait files (10) audited through Mearsheimer strategic cognition: Arctic, Atlantic, Baltic, Bering, Black, White Sea, Caspian, Azov, Gulf of Finland, Pacific.
+• **Criteria applied:** Power distribution; chokepoint significance (RLL–0024); outlet/corridor control (RLL–0032); incentive structure (what balance of power tells actors to do); force-ratio or force-posture; direct structural thesis ("The fact is that"); GEO–MEM blend 2/3 Mearsheimer, 1/3 Mercouris/ARC.
+• **Learning:** Eight files declared GEO–MEM + MEARSHEIMER and showed strong chokepoint and power-distribution logic; recurring gap was **explicit incentive structure** and (in four files) **force-ratio/posture**. Two files (Atlantic, White Sea) classed as Subject MEM lacked Mearsheimer layer. RLL–0024 and 0032 were under-referenced in body/insights. Typo in Atlantic § VI (INTERFAAD) noted.
+• **Pattern confirmed:** Incentive structure is a core Mearsheimer variable; adding one sentence per GEO–MEM ("Russia is incentivized to X; others to Y") aligns ocean MEMs with CIV–MIND–MEARSHEIMER and makes RLL application explicit. Force-ratio/posture sharpens power-distribution sections where basin or approach is contested.
+• **Implementation as consolidation:** P1 (typo) fixed; P2 (incentive structure) added to all eight GEO–MEMs; P3 (Mearsheimer subsection) added to Atlantic (III.A) and White Sea (V.A); P4 (force-ratio/posture) added to Arctic, Baltic, Black Sea, Gulf Finland; P5 (RLL–0024/0032 pointers) added in Strategic Insights or body. Audit doc: docs/governance/AUDIT–RUSSIA–GEO–OCEAN–MEARSHEIMER–2026–02.md; §7 implementation record appended.
+• **Session recap:** GEO ocean corpus audited; Mearsheimer gaps (incentive structure, force-ratio, RLL refs) identified and closed; Atlantic and White Sea given strategic-geography subsection; RLL–0024 and 0032 now explicitly referenced across chokepoint and outlet-relevant MEMs. No new RLL; pattern reinforces existing GEO RLLs (0024, 0032) and MIND–MEARSHEIMER compliance.
+
+• AUDIT: Russia GEO river files (11) through Mearsheimer cognition. Doc: docs/governance/AUDIT–RUSSIA–GEO–RIVER–MEARSHEIMER–2026–02.md. Files: Volga, Dnieper, Don, Neva, Oka, Moskva, Dvina, Amur, Ob, Vistula, Dniester. All 11 GEO–MEM + MEARSHEIMER. Recurring gaps: explicit incentive structure (absent in 10/11; Ob has it); RLL pointers in Strategic Insights; optional force-ratio/posture. AUDIT IMPLEMENTATION: P1–P3 implemented. P1: incentive structure in all 11; P2: RLL refs in Strategic Insights in all 11; P3: force-posture in Neva, Oka, Dnieper. Audit doc §7 updated.
+
+Session 2026-02 (LEARN · GEO river audit, Mearsheimer cognition):
+• **Scope:** All Russia GEO river files (11) audited: Volga, Dnieper, Don, Neva, Oka, Moskva, Dvina, Amur, Ob, Vistula, Dniester.
+• **Criteria applied:** Power distribution; incentive structure; RLL–0018 (River Corridor Hierarchy), 0019 (Threshold River), 0021 (Moscow Waterway Chain), 0024 (Chokepoint Permanence), 0029 (Volga–Ob Spine Duality); direct thesis; GEO–MEM blend.
+• **Learning:** All 11 declared GEO–MEM + MEARSHEIMER; river typology (interior, threshold, chokepoint, exposure) strong. Ob is exemplar (RLL–0029 + incentive in body). Recurring gap: **explicit incentive structure** in body/Strategic Insights (10/11); RLLs in trailing binding section but not in Strategic Insights bullets.
+• **Pattern confirmed:** Same as ocean audit—incentive structure and RLL citations in insights align river MEMs with MIND–MEARSHEIMER and Scholar RLL binding. No new RLL; pattern reinforces 0018, 0019, 0021, 0024, 0029.
+• **Implementation:** Complete. P1: incentive structure added after Power Distribution in all 11. P2: RLL refs (0018, 0019, 0021, 0024, 0029, 0032 as applicable) and incentive-structure bullet added to Strategic Insights in all 11. P3: force-posture added to Neva (A2/AD vs NATO flanking), Oka (defensive advantage north of river), Dnieper (river as defensive line). Audit doc §7 implementation record appended.
+• **Session recap:** GEO river corpus audited; Mearsheimer gaps closed; incentive structure and RLL pointers now explicit across all 11 river MEMs; force-ratio/posture added for Neva, Oka, Dnieper.
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance

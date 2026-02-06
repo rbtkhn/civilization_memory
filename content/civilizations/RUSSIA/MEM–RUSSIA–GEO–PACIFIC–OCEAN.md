@@ -147,6 +147,12 @@ For potential adversaries:
 The structural reality is that Russia cannot be a
 **Pacific naval power** due to distance and competition.
 
+**Incentive structure:** Russia is incentivized to defend the Sea of
+Okhotsk bastion (SSBN) and avoid major Pacific projection; the US
+and Japan to control straits (La Pérouse, Tsugaru, etc.) and limit
+Russian Pacific reach (RLL–RUSSIA–0024: island chain as chokepoint
+constraint).
+
 ────────────────────────────────────────────────────────────
 VII. CONTINENTAL VS. MARITIME LOGIC
 ────────────────────────────────────────────────────────────
@@ -288,8 +294,9 @@ Modern scholarship confirms **structural maritime disadvantage** as permanent.
 ────────────────────────────────────────────────────────────
 XIV. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• Continental powers have structural maritime disadvantage.
+• Continental powers have structural maritime disadvantage (RLL–0024: island chain).
 • Pacific access is marginal due to distance and chokepoints.
+• Incentive structure: Russia to protect bastion; US/Japan to control straits and contain.
 • Vladivostok is distant anchor with supply vulnerabilities.
 • Sea of Okhotsk provides defensible bastion for deterrence.
 • Island chain constraint limits offensive projection.

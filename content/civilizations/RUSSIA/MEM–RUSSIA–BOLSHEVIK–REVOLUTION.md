@@ -1,9 +1,9 @@
-MEM–RUSSIA–BOLSHEVIK–REVOLUTION — v3.0
+MEM–RUSSIA–BOLSHEVIK–REVOLUTION — v3.1
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–BOLSHEVIK–REVOLUTION v2.0
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–BOLSHEVIK–REVOLUTION v3.0
+Upgrade Type: CONTENT · LIEVEN TOWARDS THE FLAME VERBATIM (Section II)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Bolshevik Revolution (Октябрьская революция)
 Dates: October 25–26, 1917 (Julian) / November 7–8, 1917 (Gregorian)
@@ -71,6 +71,16 @@ Nicholas abdicated not because revolutionaries defeated him but
 because no one would defend him. The Provisional Government inherited
 a state that had already ceased to function."
 — Orlando Figes, *A People's Tragedy* (1996)
+
+Dominic Lieven frames the collapse as system overload rather than
+revolutionary triumph:
+
+"The First World War placed intolerable demands on the Russian Empire's
+political and administrative system. The monarchy was not overthrown by
+revolutionaries alone, but by the cumulative failure of elite cohesion,
+logistical coordination, and confidence in the regime's capacity to
+manage total war."
+— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist Russia* (2015)
 
 The Bolsheviks inherited **not a functioning state but a vacuum**.
 
@@ -341,6 +351,8 @@ Category D (Modern Scholarship):
   *Foreign Affairs* 93, no. 5 (2014).
 • Figes, Orlando. *A People's Tragedy: The Russian Revolution, 1891–1924*.
   New York: Viking, 1996.
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*.
+  London: Allen Lane, 2015.
 • Fitzpatrick, Sheila. *The Russian Revolution*. 4th ed. Oxford:
   Oxford University Press, 2017.
 • Kotkin, Stephen. *Stalin: Volume I, Paradoxes of Power, 1878–1928*.

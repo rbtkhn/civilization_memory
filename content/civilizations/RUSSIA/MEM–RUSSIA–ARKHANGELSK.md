@@ -234,6 +234,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Ports deliberately marginalized can revive in crisis.
 • Northern geography constrains but does not eliminate commerce.
 • When main routes close, secondary routes become critical.
+• Arkhangelsk and then Baltic exemplify corridor-dependence without a system of restraint; Panin's later diplomacy (MEM–RUSSIA–PANIN) offered an alternative—equilibrium and alliances—rather than serial corridor capture.
 
 POLYPHONIC TENSIONS (v2.8):
 • MERCOURIS: Arkhangelsk as achievement → commercial ingenuity

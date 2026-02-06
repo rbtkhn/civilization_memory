@@ -70,6 +70,16 @@ Campaigns of War and Peace* (2009)
 
 Literary memory vs structural analysis.
 
+Tolstoy himself encodes the people's war as historical force:
+
+> "The cudgel of the people's war was raised with all its menacing and
+> majestic strength, and without consulting anyone's tastes or rules, with
+> stupid simplicity, but with fitness, without making out anything, it rose,
+> fell, and nailed the French until the whole invasion had perished."
+> — Leo Tolstoy, *War and Peace* (1869), Book 14, Chapter 1 (trans. Maude)
+
+The novel supplies the **primary literary evidence** for how 1812 is remembered.
+
 ────────────────────────────────────────────────────────────
 III. TOLSTOYAN DETERMINISM AS MEMORY FRAMEWORK
 ────────────────────────────────────────────────────────────
@@ -86,6 +96,18 @@ calculation**.
 
 The memory function:
 → War was won by accident, not by design.
+
+Tolstoy states the determinist thesis in the novel:
+
+> "The movement of peoples from west to east was to be followed by a movement
+> from east to west. For this new war, a new figure was needed, having
+> qualities and standing in circumstances different from those of the former
+> figure. Alexander I was as necessary for the movement of peoples from east
+> to west and for the re-establishment of the frontiers of nations as Napoleon
+> had been necessary for the movement from west to east."
+> — Leo Tolstoy, *War and Peace* (1869), Book 14, Chapter 1 (trans. Maude)
+
+Determinism is **encoded in the text**, not imposed by later criticism.
 
 ────────────────────────────────────────────────────────────
 IV. KUTUZOV AS LITERARY SYMBOL
@@ -132,7 +154,7 @@ The literary memory:
 This memory framework **prioritizes meaning over maneuver**.
 
 ────────────────────────────────────────────────────────────
-VI. THE PEOPLE AS HISTORICAL FORAD
+VI. THE PEOPLE AS HISTORICAL FORCE
 ────────────────────────────────────────────────────────────
 Tolstoy elevates popular experience to historical agency.
 
@@ -191,6 +213,15 @@ Themes:
 • Modernization vs tradition
 • Personal fulfillment vs collective duty
 • Western influence vs Russian essence
+
+Tolstoy opens with the novel's famous axiom:
+
+> "All happy families are alike; each unhappy family is unhappy in its own
+> way. Everything was in confusion in the Oblonskys' house. The wife had
+> discovered that the husband was carrying on an intrigue with a French
+> girl who had been a governess in their family, and she had announced to
+> her husband that she could not go on living in the same house with him."
+> — Leo Tolstoy, *Anna Karenina* (1877), Part 1, Chapter 1 (trans. Maude)
 
 The novel preserves **tension without resolution**.
 
@@ -260,6 +291,10 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Tolstoy, Leo. *War and Peace* (1869). Trans. Louise and Aylmer Maude.
+  [PRIMARY: verbatim passages in Sections II, III—people's war, determinism]
+• Tolstoy, Leo. *Anna Karenina* (1877). Trans. Louise and Aylmer Maude.
+  [PRIMARY: verbatim passage in Section VIII—civilizational tension, family]
 • Lieven, Dominic. *Russia Against Napoleon: The True Story of the Campaigns
   of War and Peace*. London: Allen Lane, 2009. [PRIMARY: literary memory vs
   structural analysis framework]

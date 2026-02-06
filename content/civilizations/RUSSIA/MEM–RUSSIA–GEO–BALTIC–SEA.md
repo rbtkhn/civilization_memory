@@ -228,6 +228,15 @@ For European Trade:
 The structural reality is that Baltic power distribution
 fundamentally shifted with NATO expansion.
 
+**Incentive structure:** Russia is incentivized to maintain Baltic
+access for trade and fleet egress while accepting a defensive
+posture; NATO littoral states are incentivized to deny Russian sea
+control and monitor movements. **Force balance:** In-basin force
+balance favors NATO (combined littoral and Danish Straits control);
+Russia holds the eastern head but cannot dominate the basin
+(RLL–RUSSIA–0024: chokepoint permanence at straits; RLL–RUSSIA–0032:
+outlet control converts corridor—Russia lacks straits control).
+
 ────────────────────────────────────────────────────────────
 X. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -249,13 +258,15 @@ controls both eastern position AND straits access.
 ────────────────────────────────────────────────────────────
 XI. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• The Baltic is a gateway, not a destination.
+• The Baltic is a gateway, not a destination (RLL–0024, RLL–0032).
 • Eastern access determines European integration capacity.
 • Chokepoint dependency limits power projection.
 • Shallow waters favor defensive, littoral warfare.
 • Encirclement transforms platform into pocket.
 • NATO expansion fundamentally altered Baltic geometry.
-• Geography forces competition for position and access.
+• Incentive structure: Russia to preserve access; NATO to deny sea control and monitor.
+• Force balance in basin favors NATO; Russia holds eastern head only.
+• Peter secured the Baltic as hegemon; Panin's system-diplomacy (MEM–RUSSIA–PANIN) later sought to stabilize the same theatre through equilibrium and alliances—control of the gate vs. embedding the gate in a balanced system.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

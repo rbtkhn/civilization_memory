@@ -246,6 +246,7 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Geography becomes power only when populated and governed.
 • Southern expansion permanently reorients Russia’s strategic axis.
 • Potemkin operationalizes Catherine’s imperial vision.
+• Potemkin's territorial irreversibility was the alternative to Panin's restraint; the same court held both—statesman's wisdom (equilibrium, mutual restraint) available but sovereign chose "glory over security" (MEM–RUSSIA–PANIN).
 
 ────────────────────────────────────────────────────────────
 IX. ACADEMIC REFERENCES (LMM-COMPLIANT)

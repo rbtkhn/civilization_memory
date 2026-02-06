@@ -1,10 +1,10 @@
-MEM–RUSSIA–TIME–TROUBLES — v3.0
+MEM–RUSSIA–TIME–TROUBLES — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–TIME–TROUBLES v2.7
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–TIME–TROUBLES v3.0
+Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section IX, Boris Godunov)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: INTERREGNUM · DYNASTIC EXTINCTION · SACRAL ENDURANAD
 Subject: Time of Troubles (Смутное время)
@@ -194,6 +194,13 @@ The Time of Troubles imprints durable constraints on Russian governance:
 
 Later autocracy is shaped by **memory of near-extinction**, not ideology.
 
+Pushkin's *Boris Godunov* gives the Troubles their most famous closing line:
+
+> "People! Maria Godunova and her son Feodor have poisoned themselves.
+> We saw their dead bodies. Why are you silent? Cry: Long live Tsar
+> Dmitry Ivanovich! The people are silent."
+> — Alexander Pushkin, *Boris Godunov* (1825, pub. 1831), trans. Alfred Hayes
+
 ────────────────────────────────────────────────────────────
 X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
@@ -247,6 +254,8 @@ XIII. MEM BIBLIOGRAPHY
 • Platonov, S. F. *The Time of Troubles: A Historical Study of the Internal Crisis and Social Struggle in Sixteenth- and Seventeenth-Century Muscovy*. University Press of Kansas, 1970.
 • Martin, Janet. *Medieval Russia, 980–1584*. Cambridge University Press, 1995.
 • Bushkovitch, Paul. *A Concise History of Russia*. Cambridge University Press, 2012.
+• Pushkin, Alexander. *Boris Godunov* (1825, pub. 1831). Trans. Alfred Hayes.
+  In *The Works of Alexander Pushkin*. New York: Random House, 1936.
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)

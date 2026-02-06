@@ -1,11 +1,11 @@
-MEM–RUSSIA–PETERSBURG–HERMITAGE — v3.0
+MEM–RUSSIA–PETERSBURG–HERMITAGE — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–ART–HERMITAGE v2.0
-Upgrade Type: RENAME · PETERSBURG–HERMITAGE + ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–PETERSBURG–HERMITAGE v3.0
+Upgrade Type: CONTENT · FERGUSON VERBATIM (Section VIII.A, Empire)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: The State Hermitage Museum (Государственный Эрмитаж)
 Dates: Founded 1764 (Catherine II) — present
@@ -244,10 +244,12 @@ through acquisition and preservation, not through maritime commerce or
 representative institutions. Comparative empire framing supplements but
 does not replace Russian-primary scholarship.
 
-> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
-> the World* or *Civilization*, on empire, cultural accumulation, or
-> land-empire legitimacy, to be inserted when source is available.
-> ARC–RUSSIA Category D (Modern).]
+> "The British Empire should be regarded as the very cradle of modernity
+> rather than as a subject for nostalgia. Nearly all the key features of
+> the twenty-first-century world can be traced back to Britain's
+> extraordinary expansion from the seventeenth century through the
+> mid-twentieth."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

@@ -290,7 +290,8 @@ X. CONTINUITY INSIGHTS (RAW)
 • Leadership may consist of restraint rather than action.
 • Political legitimacy can be preserved by delay.
 • Endurance requires commanders willing to disappoint elites.
-• Kutuzov operationalizes Russia’s refusal to break.
+• Kutuzov operationalizes Russia's refusal to break.
+• Kutuzov embodies operational restraint (endurance over decisive battle), analogous to Panin's diplomatic restraint (equilibrium over conquest); Alexander's support for that strategy is the case where the sovereign did not override the restraint option (MEM–RUSSIA–PANIN).
 
 Tension preserved without verdict.
 

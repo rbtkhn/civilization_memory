@@ -1,10 +1,10 @@
-MEM–RUSSIA–WAR–PUGACHEV–REBELLION — v3.0
+MEM–RUSSIA–WAR–PUGACHEV–REBELLION — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–WAR–PUGACHEV–REBELLION v1.0
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–WAR–PUGACHEV–REBELLION v3.0
+Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section IX, Captain's Daughter)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Pugachev Rebellion (Пугачёвское восстание)
 Dates: 1773–1775 AD
@@ -184,6 +184,14 @@ Encoded insights:
 
 The rebellion becomes a **warning template** for future rulers.
 
+Pushkin's verdict in *The Captain's Daughter*:
+
+> "God grant we never see such a rebellion, senseless and merciless. Those
+> who plan impossible revolutions among us are either young and do not
+> know our people, or are hard-hearted men who do not care about their
+> own necks or the welfare of their neighbours."
+> — Alexander Pushkin, *The Captain's Daughter* (1836), trans. Robert Chandler
+
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -219,6 +227,8 @@ XII. MEM BIBLIOGRAPHY (MANDATORY)
 • Dominic Lieven — structural foundations of imperial stability.
 • Orlando Figes — peasant rebellion and social memory.
 • Geoffrey Hosking — serfdom and social control.
+• Pushkin, Alexander. *The Captain's Daughter* (1836). Trans. Robert Chandler.
+  London: Penguin, 2007. [Section IX: literary memory of rebellion]
 Bibliography to be expanded per ARC–RUSSIA.
 
 ────────────────────────────────────────────────────────────

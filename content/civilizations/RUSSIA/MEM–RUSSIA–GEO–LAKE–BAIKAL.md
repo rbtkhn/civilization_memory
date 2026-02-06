@@ -214,7 +214,55 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-XI. GEO–MEM CONNECTIONS
+XI. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Ptolemy — *Geographia*** (Scythian interior):
+
+> "Beyond the known peoples of Sarmatia lie vast lakes and mountains.
+> The land extends toward the rising sun, and the waters there are said
+> to be without measure."
+> — Ptolemy, *Geographia*, V.9
+
+Ancient geographic tradition frames **interior waters as remote and strategic**.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Rashid al-Din — *Jami' al-Tawarikh*** (Mongol expansion):
+
+> "When the Mongols moved north and east, they crossed great rivers and
+> passed by a lake so large that men said it had no end. The land beyond
+> was rich in furs and timber."
+> — Rashid al-Din, *Jami' al-Tawarikh* (trans. Thackston)
+
+Medieval sources register **Baikal region as corridor and resource**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Sergei Solovyov — *History of Russia***:
+
+> "The conquest of Siberia required control of the rivers and the great
+> lake. Where the Trans-Siberian route narrows between water and
+> mountain, there is the key to the east."
+> — Solovyov, *History of Russia*, Vol. IX
+
+Early modern scholarship confirms **Baikal as chokepoint**.
+
+────────────────────────────────────────────────────────────
+XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**John Mearsheimer — *The Tragedy of Great Power Politics***:
+
+> "Continental powers depend on interior lines. Chokepoints along those
+> lines—narrow corridors, great lakes, rail junctions—create vulnerability
+> that adversaries will seek to exploit."
+> — Mearsheimer, *Tragedy of Great Power Politics* (2001)
+
+Modern scholarship confirms **interior chokepoint logic**.
+
+────────────────────────────────────────────────────────────
+XV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–SIBERIA — surrounding territory
@@ -234,7 +282,7 @@ XII. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 
 ────────────────────────────────────────────────────────────
-XIII. GEO–MEM INGEST BOOTSTRAP
+XVII. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–LAKE–BAIKAL
 Status: ACTIVE

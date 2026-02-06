@@ -215,6 +215,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Moral authority arises from survival.
 • Systems collapse before societies do.
 • Russia’s identity is forged in refusal to break.
+• The 1812 strategy (avoid decisive battle, exhaust then pursue) is the operational counterpart to Panin's system-diplomacy (restraint, equilibrium); success at Vienna then institutionalized that logic (MEM–RUSSIA–PANIN).
 
 Tension preserved without verdict.
 

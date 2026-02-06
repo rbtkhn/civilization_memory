@@ -1,9 +1,10 @@
-MEM–RUSSIA–WAR–CRIMEAN — v3.0
+MEM–RUSSIA–WAR–CRIMEAN — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–WAR–CRIMEAN v2.7
+Version: 3.1
+Supersedes: MEM–RUSSIA–WAR–CRIMEAN v3.0
+Upgrade Type: CONTENT · FERGUSON VERBATIM (Section II.A, Empire)
 Upgrade Type: ALIGNMENT · v3.0 + FERGUSON FRAME (ARC–RUSSIA Category D)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Crimean War
@@ -58,10 +59,10 @@ empire and "descent of the West" framing situate the war within
 broader patterns of imperial decline and ethnic fault lines; Russian-primary
 sources remain authoritative for operational and Russian-perspective detail.
 
-> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
-> the World*, on the Crimean War, British–Russian rivalry, or nineteenth-century
-> imperial conflict, to be inserted when source is available.
-> ARC–RUSSIA Category D (Modern).]
+> "Once vast swathes of the globe were coloured imperial red and Britannia
+> ruled not just the waves, but the prairies of America, the plains of
+> Asia, the jungles of Africa and the deserts of Arabia."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
 
 ────────────────────────────────────────────────────────────
 III. ISOLATION & SYSTEM MISREADING

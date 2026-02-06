@@ -201,6 +201,10 @@ For adjacent states:
 The structural reality is that the Dvina provides **marginal Arctic
 access**—useful in contingencies, secondary in normal conditions.
 
+**Incentive structure:** Russia is incentivized to retain the Dvina as
+contingency outlet when Baltic is blocked; when Baltic is open, Dvina
+value drops; strategic value fluctuates with primary-route availability.
+
 ────────────────────────────────────────────────────────────
 IX. COMPARISON WITH OTHER RUSSIAN RIVERS
 ────────────────────────────────────────────────────────────
@@ -252,6 +256,9 @@ XI. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Strategic value fluctuates with external circumstances.
 • The Dvina is contingency infrastructure, not primary artery.
 • Geography makes the Dvina a backup, never a foundation.
+• RLL–0018 (marginal outlet), RLL–0032 (bypass when primary outlet
+  blocked). Incentive structure: Russia to retain Dvina as contingency;
+  value fluctuates with Baltic access.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

@@ -48,6 +48,11 @@ Characteristics:
 
 The novel transforms **moral psychology into civilizational memory**.
 
+> "I did not kill a human being, but a principle! I killed the principle,
+> but I did not overstep, I remained on this side.… I only killed a
+> lousy flea."
+> — Raskolnikov, in Fyodor Dostoevsky, *Crime and Punishment* (1866), trans. Constance Garnett
+
 Framework:
 → Conscience cannot be rationalized away.
 
@@ -130,6 +135,11 @@ The novel preserves **the tragedy of Russian innocence**.
 VIII. NOTES FROM UNDERGROUND AS NIHILIST MEMORY
 ────────────────────────────────────────────────────────────
 *Notes from Underground* (1864) encodes nihilist consciousness.
+
+> "I am a sick man.... I am a spiteful man. I am an unattractive man.
+> I believe my liver is diseased. However, I don't know beans about my
+> disease, and do not know for certain what ails me."
+> — Fyodor Dostoevsky, *Notes from Underground* (1864), trans. Constance Garnett
 
 Elements:
 • Rejection of rational progress

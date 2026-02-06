@@ -200,6 +200,10 @@ For adjacent states:
 The structural reality is that the Volga makes Russia's interior
 **impervious to maritime coercion**.
 
+**Incentive structure:** Russia is incentivized to control the Volga
+for interior integration and autarky; adversaries cannot interdict from
+the sea; any challenge must be continental.
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -228,6 +232,9 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Canal networks extend interior reach conditionally.
 • Volga control = European Russia control.
 • Geography makes Russia's interior impervious to maritime coercion.
+• RLL–0018 (interior artery), RLL–0021 (chain hub), RLL–0024 (no bypass).
+  Incentive structure: Russia to hold Volga for interior autarky; others
+  cannot interdict; adversaries must confront continentally.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
@@ -308,13 +315,13 @@ XIV. ARC CATEGORY D — MODERN SCHOLARSHIP
 
 **John Erickson — *The Road to Stalingrad***:
 
-"The Volga at Stalingrad was not merely a river—it was the Red Army's
-lifeline. Soviet forces on the western bank were supplied across the
-water; reserves and ammunition crossed under fire. To hold the Volga
-crossings was to hold the city. When the German advance reached the
-river in places, it severed that link; the Soviet bridgehead survived
-because the Volga could still be used to reinforce and supply it."
-— John Erickson, *The Road to Stalingrad* (1975)
+> "The Volga at Stalingrad was not merely a river—it was the Red Army's
+> lifeline. Soviet forces on the western bank were supplied across the
+> water; reserves and ammunition crossed under fire. To hold the Volga
+> crossings was to hold the city. When the German advance reached the
+> river in places, it severed that link; the Soviet bridgehead survived
+> because the Volga could still be used to reinforce and supply it."
+> — John Erickson, *The Road to Stalingrad* (1975)
 
 Modern scholarship confirms **interior autarky**, **blockade immunity**,
 and the Volga's **wartime function** at Stalingrad.

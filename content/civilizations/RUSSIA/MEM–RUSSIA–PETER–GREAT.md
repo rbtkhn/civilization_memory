@@ -1,10 +1,10 @@
-MEM–RUSSIA–PETER–GREAT — v3.0
+MEM–RUSSIA–PETER–GREAT — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–PETER–GREAT v2.8
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–PETER–GREAT v3.0
+Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section IV, Bronze Horseman)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
 Subject: Peter the Great (Пётр I)
@@ -213,6 +213,15 @@ was geographically impossible."
 — Robert K. Massie, *Peter the Great: His Life and World* (1980)
 
 Geography becomes coercion technology.
+
+Pushkin's *The Bronze Horseman* fixes Peter in verse:
+
+> "Upon the shore of desolate waves he stood, full of great thoughts, and
+> gazed afar. Before him the broad river rushed; a humble skiff sped
+> solitary upon it. Along the marshy shores the blackened huts of wretched
+> churls were scattered—the refuge of the Finn. And he thought: from here
+> we shall strike at Sweden."
+> — Alexander Pushkin, *The Bronze Horseman* (1833), trans. Walter Arndt
 
 Jean Rousset de Missy's accounts remain illustrative confirmation,
 not analytical drivers.
@@ -450,6 +459,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Baltic hegemony was the goal, not merely the validation.
 • Survival logic can outpace dynastic absorption capacity.
 • Unstable succession becomes security vulnerability.
+• Peter's reign had no Panin-equivalent—no voice for system-restraint or equilibrium; the Petrine path is expansion and corridor control. Panin's later wisdom (MEM–RUSSIA–PANIN) offered an alternative (equilibrium, alliances) that Catherine would also override in the south; Peter thus anticipates the pattern of sovereign choosing expansion over restraint.
 
 TEMPORAL COMPRESSION INSIGHTS (v2.9 — RLL–RUSSIA–0009/0010/0011):
 • Peter's coercive modernization exemplifies temporal compression as
@@ -511,6 +521,8 @@ Cross-civilizational:
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 • Massie, Robert K. *Peter the Great: His Life and World*. New York: Knopf, 1980.
+• Pushkin, Alexander. *The Bronze Horseman* (1833). Trans. Walter Arndt.
+  In *Pushkin Threefold*. New York: E. P. Dutton, 1972.
 • Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
 • Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
 • Hughes, Lindsey. *Russia in the Age of Peter the Great*. New Haven: Yale University Press, 1998.

@@ -213,6 +213,10 @@ Structural constraint:
 The Moskva is a **vulnerability concentration point**:
 short, critical, and non-redundant.
 
+**Incentive structure:** Russia is incentivized to maintain chain
+integrity (Moskva → Oka → Volga); attack on the Moskva is attack on
+capital viability; disruption at any link severs the capital.
+
 ────────────────────────────────────────────────────────────
 X. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -239,6 +243,9 @@ XI. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Portage positions become natural transshipment nodes.
 • Infrastructure can supplement but not replace natural geography.
 • Defensive river value is secondary to logistics value.
+• RLL–0021 (first link: Moskva → Oka → Volga). Incentive structure:
+  Russia to maintain chain integrity; attack on Moskva = attack on
+  capital viability.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

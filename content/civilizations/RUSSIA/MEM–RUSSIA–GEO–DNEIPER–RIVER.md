@@ -202,6 +202,12 @@ The structural reality is that the Dnieper is a **contested
 strategic artery** whose control determines regional power
 distribution.
 
+**Incentive structure:** Russia is incentivized to secure the lower
+Dnieper and eastern bank for Black Sea access; Ukraine to hold the
+western bank and deny Russian monopoly; control of the river line
+determines regional power. River as defensive line concentrates
+crossing cost and favors the defender at prepared positions.
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -230,6 +236,11 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Upper river positions are more defensible than lower.
 • River control determines regional power distribution.
 • Geography forces competition for corridor control.
+• RLL–0018 (exposure corridor). Incentive structure: Russia to secure
+  lower Dnieper and Black Sea access; Ukraine to hold western bank and
+  river line; control of river determines regional power. Force-posture:
+  river as defensive line; crossing cost favors defender at prepared
+  positions.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

@@ -179,6 +179,11 @@ For Pacific dynamics:
 The structural reality is that the Amur creates a **managed
 boundary** between two great powers with asymmetric positions.
 
+**Incentive structure:** Both Russia and China are incentivized to
+manage the boundary and control crossing points; neither dominates the
+river alone; Amur defines the terminal limit of Russian continental
+expansion.
+
 ────────────────────────────────────────────────────────────
 VIII. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -207,6 +212,9 @@ IX. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Pacific access is valuable but costly to maintain.
 • Boundary stability serves both parties when power is balanced.
 • Geography creates managed boundaries between great powers.
+• Incentive structure: both sides to manage boundary and control
+  crossing points; Amur defines terminal limit of Russian continental
+  expansion.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

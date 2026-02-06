@@ -1,10 +1,11 @@
-MEM–RUSSIA–LIT–PUSHKIN — v3.0
+MEM–RUSSIA–LIT–PUSHKIN — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–LIT–PUSHKIN v2.7
+Version: 3.1
+Supersedes: MEM–RUSSIA–LIT–PUSHKIN v3.0
+Upgrade Type: CONTENT · PUSHKIN VERBATIM (Sections II–V: Captain's Daughter, Boris Godunov, Eugene Onegin, Bronze Horseman)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
@@ -59,6 +60,12 @@ Framework:
 → Freedom in Russia emerges through authority, not against it.
 → Rebellion succeeds only when blessed by legitimate power.
 
+> "God grant we never see such a rebellion, senseless and merciless. Those
+> who plan impossible revolutions among us are either young and do not
+> know our people, or are hard-hearted men who do not care about their
+> own necks or the welfare of their neighbours."
+> — Alexander Pushkin, *The Captain's Daughter* (1836), trans. Robert Chandler
+
 Historical Context: Pushkin's own aristocratic background (descended from
 African slave brought to Russia) informs the tension between inherited
 privilege and revolutionary ideals.
@@ -80,6 +87,10 @@ The play transforms **historical narrative into civilizational debate**.
 Framework:
 → Russian history is remembered through power, not despite it.
 → Memory serves authority even when authority destroys memory.
+
+> "Why are you silent? Cry: Long live Tsar Dmitry Ivanovich! The people
+> are silent."
+> — Alexander Pushkin, *Boris Godunov* (1825, pub. 1831), trans. Alfred Hayes
 
 Evidence: Pushkin's deep engagement with Russian chronicles and Karamzin's
 History of the Russian State, combined with his own experiences of political
@@ -103,6 +114,10 @@ Framework:
 → Russian identity forms through European imitation and rejection.
 → Individual alienation reflects civilizational displacement.
 
+> "Moscow... how much in that sound has merged for the Russian heart! How
+> much has echoed there!"
+> — Alexander Pushkin, *Eugene Onegin* (1833), trans. Charles Johnston
+
 Historical Context: Pushkin's own life as aristocrat-poet, educated in French
 but writing for Russian audiences, embodying the very contradiction he describes.
 
@@ -122,6 +137,11 @@ The poem transforms **imperial ambition into existential terror**.
 Framework:
 → Russian modernization requires violence against Russian nature.
 → Progress creates victims whose suffering undermines progress.
+
+> "I love thee, city of Peter's making; I love thy stern and comely look,
+> the sovereign flow of the Neva, her granite banks, the cast-iron
+> tracery of thy fences."
+> — Alexander Pushkin, *The Bronze Horseman* (1833), trans. Walter Arndt
 
 Evidence: Pushkin's fascination with Peter's legacy, combined with the 1824
 flood of St. Petersburg that destroyed lives for imperial symbolism.
@@ -270,6 +290,12 @@ Scholar Constraints:
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+Primary texts (verbatim cited):
+• Pushkin, Alexander. *The Captain's Daughter* (1836). Trans. Robert Chandler. London: Penguin, 2007.
+• Pushkin, Alexander. *Boris Godunov* (1825, pub. 1831). Trans. Alfred Hayes. In *The Works of Alexander Pushkin*. New York: Random House, 1936.
+• Pushkin, Alexander. *Eugene Onegin* (1833). Trans. Charles Johnston. London: Scolar Press, 1977.
+• Pushkin, Alexander. *The Bronze Horseman* (1833). Trans. Walter Arndt. In *Pushkin Threefold*. New York: E. P. Dutton, 1972.
+
 • Binyon, T.J. *Pushkin: A Biography*. London: HarperCollins, 2002. [PRIMARY:
   comprehensive modern biography]
 • Nabokov, Vladimir. *Commentary on Eugene Onegin*. 4 vols. New York:

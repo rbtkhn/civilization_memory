@@ -1,10 +1,10 @@
-MEM–RUSSIA–CATHERINE–GREAT — v3.0
+MEM–RUSSIA–CATHERINE–GREAT — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–CATHERINE–GREAT v2.8
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–CATHERINE–GREAT v3.0
+Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section VII, Captain's Daughter)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
 Subject: Catherine the Great (Екатерина II)
@@ -320,6 +320,14 @@ Force replaces reason.
 
 Reform must never empower the many.
 
+Pushkin's *The Captain's Daughter* gives Catherine the role of mercy and
+restoration of order:
+
+> "The Empress could not fail to reward zeal and merit. I am convinced of
+> your innocence. I have arranged everything with your sovereign. Your
+> father has been granted mercy for his services and his advanced years."
+> — The lady (Catherine II), in Alexander Pushkin, *The Captain's Daughter* (1836), trans. Robert Chandler
+
 ────────────────────────────────────────────────────────────
 VIII. EUROPEAN SYSTEM ENTRY & GREAT-POWER CONFIRMATION
 (LIEVEN FUNCTION)
@@ -354,6 +362,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Factional competition can generate loyalty if the ruler positions as arbiter.
 • Partnership models solve agency problems but cannot be institutionally reproduced.
 • Arbiters resolve commitment dilemmas through mortality, not decision.
+• Panin's system-diplomacy embodied statesman's wisdom (restraint, equilibrium, diplomacy over conquest); Catherine's southern commitment chose territory over that equilibrium—principle understood but overridden (MEM–RUSSIA–PANIN).
 • Post-partner phases (1791–1796) lack strategic drive—the machine loses its executor.
 
 ELITE OVERPRODUCTION & EXPANSION (v2.9 — RLL–RUSSIA–0010):
@@ -410,6 +419,8 @@ XII. MEM BIBLIOGRAPHY (v2.7)
 • Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.
 • Montefiore, Simon Sebag. *The Romanovs: 1613–1918*. London: Weidenfeld & Nicolson, 2016.
 • Lieven, Dominic. *Empire: The Russian Empire and Its Rivals*. London: John Murray, 2000.
+• Pushkin, Alexander. *The Captain's Daughter* (1836). Trans. Robert Chandler.
+  London: Penguin, 2007. [Section VII: Catherine as mercy and legitimacy]
 • De Madariaga, Isabel. *Russia in the Age of Catherine the Great*. New Haven: Yale University Press, 1981.
 • Alexander, John T. *Catherine the Great: Life and Legend*. Oxford: Oxford University Press, 1989.
 

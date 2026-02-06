@@ -326,6 +326,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Crimea fuses geography with legitimacy claims.
 • External pressure hardens internal resolve.
 • Crimea remains a permanent fault line, not a settled question.
+• The 1783 annexation exemplifies "territory over equilibrium"—Panin's death the same year removed the court's chief voice for restraint; principle understood, sovereign chose otherwise (MEM–RUSSIA–PANIN).
 
 POLYPHONIC TENSIONS (v2.8):
 • Sevastopol is gateway AND forward base.

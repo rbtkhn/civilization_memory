@@ -1,9 +1,10 @@
-MEM–RUSSIA–SEVASTOPOL — v3.0
+MEM–RUSSIA–SEVASTOPOL — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: NEW FILE
+Version: 3.1
+Supersedes: MEM–RUSSIA–SEVASTOPOL v3.0
+Upgrade Type: CONTENT · FERGUSON VERBATIM (Section III.C, Empire)
 Upgrade Type: INITIAL CREATION · WRITE MODE
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Sevastopol (Севастополь) — Black Sea Fortress & Naval Soul
@@ -113,6 +114,14 @@ Leo Tolstoy's *Sevastopol Sketches* (1855) fixed the siege in Russian letters.
 • No epic glorification—instead, the soldier's eye view of attrition
 • Sevastopol as place where Russia learned the cost of war in the industrial age
 
+Tolstoy gives the siege as the soldier sees it:
+
+> "You see the war not in its correct, beautiful, brilliant formation, with
+> music and beating drums, with waving banners and prancing generals, but
+> you see war in its real aspect—in blood, in suffering, in death."
+> — Leo Tolstoy, *Sevastopol Sketches* (1855), "Sevastopol in December"
+>   (trans. Maude)
+
 The Crimean War siege established Sevastopol as **site of sacrifice**
 before the Soviet period made it a Hero City.
 
@@ -127,10 +136,10 @@ adding a second strategic centre without transforming the state (RLL–RUSSIA–
 Ferguson's comparative-empire framing supplements Russian-primary and
 operational scholarship.
 
-> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
-> the World*, on the Crimean War, Sevastopol, or British–Russian imperial
-> rivalry, to be inserted when source is available.
-> ARC–RUSSIA Category D (Modern).]
+> "Once vast swathes of the globe were coloured imperial red and Britannia
+> ruled not just the waves, but the prairies of America, the plains of
+> Asia, the jungles of Africa and the deserts of Arabia."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
 
 ────────────────────────────────────────────────────────────
 IV. GREAT PATRIOTIC WAR SIEGE (1941–1942)

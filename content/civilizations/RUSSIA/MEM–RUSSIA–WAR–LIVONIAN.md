@@ -153,6 +153,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • System entry requires institutional timing.
 • The Baltic is unforgiving to premature power.
 • Livonian failure conditions later Russian patience.
+• Livonian overreach lacked what Panin would later advocate—restraint and system (alliances, equilibrium) instead of corridor-grab alone; Panin-style wisdom (MEM–RUSSIA–PANIN) is the missing alternative to both Livonian overreach and the later Petrine push that secured the Baltic.
 
 Tension preserved without verdict.
 

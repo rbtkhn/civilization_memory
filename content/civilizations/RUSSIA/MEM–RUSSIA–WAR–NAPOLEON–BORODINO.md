@@ -218,7 +218,8 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Survival under extreme loss confers legitimacy.
 • Endurance defeats brilliance when collapse is denied.
 • Battles may be fought to prove will, not to win ground.
-• Borodino is Russia’s refusal moment.
+• Borodino is Russia's refusal moment.
+• Borodino as containment rather than all-out decision aligns with restraint-over-glory; the same logic Panin applied in diplomacy (MEM–RUSSIA–PANIN) here appears in operational form.
 
 Tension preserved without verdict.
 

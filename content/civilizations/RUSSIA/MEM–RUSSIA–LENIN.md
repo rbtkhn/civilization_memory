@@ -1,10 +1,10 @@
-MEM–RUSSIA–LENIN — v3.0
+MEM–RUSSIA–LENIN — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–LENIN v2.7
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.2
+Supersedes: MEM–RUSSIA–LENIN v3.1
+Upgrade Type: CONTENT · FIGES VERBATIM (Section III, A People's Tragedy)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: REVOLUTIONARY / TRANSITIONAL (1917–1924)
 Subject: Vladimir Ilyich Lenin
@@ -78,6 +78,26 @@ Foundational axiom:
 Authority flows from control, not consent.
 
 Parliamentary legitimacy is permanently delegitimized.
+
+Dominic Lieven frames the collapse the Bolsheviks exploited:
+
+"The First World War placed intolerable demands on the Russian Empire's
+political and administrative system. The monarchy was not overthrown by
+revolutionaries alone, but by the cumulative failure of elite cohesion,
+logistical coordination, and confidence in the regime's capacity to
+manage total war."
+— Dominic Lieven, *Towards the Flame: Empire, War and the End of Tsarist Russia* (2015)
+
+Orlando Figes describes the state the Bolsheviks inherited:
+
+"The Russian Empire did not fall to revolution—it collapsed from
+exhaustion. Three years of war had broken the army, bankrupted the
+treasury, and shattered the tsar's authority. When the Petrograd
+garrison refused to fire on demonstrators, the regime was finished.
+Nicholas abdicated not because revolutionaries defeated him but
+because no one would defend him. The Provisional Government inherited
+a state that had already ceased to function."
+— Orlando Figes, *A People's Tragedy: The Russian Revolution, 1891–1924* (1996)
 
 ────────────────────────────────────────────────────────────
 IV. PARTY AS STATE SUBSTITUTION
@@ -231,6 +251,7 @@ Secondary Sources:
 • Pipes, Richard. *The Russian Revolution* (1990)
 • Pipes, Richard. *Russia Under the Bolshevik Regime* (1994)
 • Figes, Orlando. *A People's Tragedy* (1996)
+• Lieven, Dominic. *Towards the Flame: Empire, War and the End of Tsarist Russia*. London: Allen Lane, 2015.
 • Fitzpatrick, Sheila. *The Russian Revolution* (1982)
 • Kotkin, Stephen. *Stalin: Paradoxes of Power* (2014)
 • Lewin, Moshe. *Lenin's Last Struggle* (1968)

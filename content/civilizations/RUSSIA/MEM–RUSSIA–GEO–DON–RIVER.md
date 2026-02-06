@@ -202,6 +202,10 @@ For Black Sea dynamics:
 The structural reality is that the Don creates **bidirectional
 strategic exposure**.
 
+**Incentive structure:** Russia is incentivized to hold the Don and
+Azov for southern projection; Don's value is contingent on Azov/Kerch
+control; loss of outlet negates corridor utility.
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -230,6 +234,9 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Volga–Don connection creates integrated waterway system.
 • Frontier zones demand continuous security investment.
 • Geography creates bidirectional strategic exposure.
+• RLL–0018 (exposure corridor). Incentive structure: Russia to hold Don
+  and Azov for southern projection; Don value contingent on Azov/Kerch
+  control (RLL–0032).
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

@@ -1,10 +1,10 @@
-MEM–RUSSIA–LIT–CHEKHOV — v3.0
+MEM–RUSSIA–LIT–CHEKHOV — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–LIT–CHEKHOV v2.7
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–LIT–CHEKHOV v3.0
+Upgrade Type: CONTENT · CHEKHOV VERBATIM (Sections II, IV, VI: Cherry Orchard, Three Sisters, "The Lady with the Dog")
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~3,300
@@ -60,6 +60,12 @@ Framework:
 → Russian aristocracy cannot survive economic modernization.
 → Progress requires the destruction of cultural heritage.
 
+> "I bought the estate where my father and grandfather were slaves, where
+> they weren't even allowed into the kitchen. I'm asleep—it's only my
+> imagination... I'm dreaming. God in heaven, tell me it's only a dream!
+> I bought the cherry orchard!"
+> — Lopakhin, in Anton Chekhov, *The Cherry Orchard* (1904), trans. Constance Garnett
+
 Evidence: Chekhov's observations of the decline of Russian gentry class and
 his own family's economic struggles, combined with Russia's rapid industrialization
 under Witte's economic policies.
@@ -103,6 +109,12 @@ Framework:
 → Russian historical consciousness is defined by waiting and anticipation.
 → Time in Russia moves inexorably but without clear destination.
 
+> "We shall work! The time will come when everyone will know what all this
+> is for, why there is all this suffering. If we only knew, if we only
+> knew! We shall rest! We shall hear the angels, we shall see the whole
+> sky covered with stars like diamonds."
+> — Irina, in Anton Chekhov, *Three Sisters* (1901), trans. Constance Garnett
+
 Evidence: Chekhov's fascination with the psychological effects of time and
 his observations of Russian society's suspended state before revolutionary change.
 
@@ -136,6 +148,12 @@ Key Stories:
 • "Gooseberries": The cost of personal happiness in a suffering world
 • "The Student": Memory and tradition as both comfort and burden
 • "In the Ravine": Family corruption and moral decay
+
+> "It seemed to him that with a little more time a solution would be found,
+> and then a new and beautiful life would begin; and it was clear to both
+> of them that the end was still far off, and that the most complicated
+> and difficult part was only just beginning."
+> — Anton Chekhov, "The Lady with the Dog" (1899), trans. Constance Garnett
 
 Framework:
 → Russian life contains tragedy in its most ordinary moments.
@@ -289,7 +307,11 @@ Version upgrades require new primary evidence or significant reinterpretation.
 ────────────────────────────────────────────────────────────
 XIV. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-Primary Sources:
+Primary Sources (verbatim cited):
+• Chekhov, Anton. *The Cherry Orchard* (1904). Trans. Constance Garnett. In *Plays*. London: Chatto & Windus, 1916.
+• Chekhov, Anton. *Three Sisters* (1901). Trans. Constance Garnett. In *Plays*. London: Chatto & Windus, 1916.
+• Chekhov, Anton. "The Lady with the Dog" (1899). Trans. Constance Garnett. In *The Lady with the Dog and Other Stories*. New York: Macmillan, 1917.
+
 • Chekhov, Anton. Collected Plays and Short Stories
 • Chekhov, Anton. Letters and Notebooks
 

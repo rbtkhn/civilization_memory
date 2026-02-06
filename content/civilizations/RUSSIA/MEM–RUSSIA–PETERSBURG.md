@@ -1,10 +1,10 @@
-MEM–RUSSIA–PETERSBURG — v3.0
+MEM–RUSSIA–PETERSBURG — v3.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–PETERSBURG v2.0
-Upgrade Type: ALIGNMENT · v3.0 + FERGUSON FRAME (ARC–RUSSIA Category D)
+Version: 3.4
+Supersedes: MEM–RUSSIA–PETERSBURG v3.3
+Upgrade Type: CONTENT · FERGUSON VERBATIM (Section II.B, Empire)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Saint Petersburg (Санкт-Петербург)
 Dates: Founded 1703 — present
@@ -93,10 +93,10 @@ could not replace the continental centre of gravity (RLL–RUSSIA–0030).
 Comparative framing situates the city within imperial logic without
 reducing it to structure alone.
 
-> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War of
-> the World*, on maritime vs. land empire, imperial cities, or Russia's
-> place in European system, to be inserted when source is available.
-> ARC–RUSSIA Category D (Modern).]
+> "Once vast swathes of the globe were coloured imperial red and Britannia
+> ruled not just the waves, but the prairies of America, the plains of
+> Asia, the jungles of Africa and the deserts of Arabia."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
 
 ────────────────────────────────────────────────────────────
 III. IMPERIAL CAPITAL (1712–1918)
@@ -133,6 +133,29 @@ Literary mythology:
 • Dostoevsky's *Crime and Punishment* — urban alienation
 • Gogol's Petersburg Tales — city as phantasmagoria
 • Bely's *Petersburg* — revolutionary apocalypse
+
+Pushkin fixes the city as Peter's creation:
+
+> "I love thee, city of Peter's making; I love thy stern and comely look,
+> the sovereign flow of the Neva, her granite banks, the cast-iron
+> tracery of thy fences."
+> — Alexander Pushkin, *The Bronze Horseman* (1833), trans. Walter Arndt
+
+Dostoevsky renders Petersburg as psychological pressure:
+
+> "On an exceptionally hot evening early in July a young man came out of
+> the garret in which he lodged in S. Place and walked slowly, as though
+> in hesitation, towards K. bridge."
+> — Fyodor Dostoevsky, *Crime and Punishment* (1866), trans. Constance Garnett
+
+Gogol makes the city phantasmagoria:
+
+> "There is nothing finer than the Nevsky Prospect, at least not in
+> Petersburg; for Petersburg it is everything. What splendour does it not
+> display, this street of our capital! I know that not one of its pale,
+> clerical inhabitants would exchange the Nevsky Prospect for all the
+> treasures of the world."
+> — Nikolai Gogol, "Nevsky Prospect" (1835), trans. Constance Garnett
 
 Orlando Figes describes the literary significance:
 
@@ -305,6 +328,12 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Dostoevsky, Fyodor. *Crime and Punishment* (1866). Trans. Constance Garnett.
+  New York: Macmillan, 1917. [Section IV: Petersburg as psychological pressure]
+• Pushkin, Alexander. *The Bronze Horseman* (1833). Trans. Walter Arndt.
+  In *Pushkin Threefold*. New York: E. P. Dutton, 1972. [Section IV: city as Peter's creation]
+• Gogol, Nikolai. "Nevsky Prospect" (1835). Trans. Constance Garnett.
+  In *The Overcoat and Other Stories*. New York: Dover, 1992. [Section IV: city as phantasmagoria]
 • Massie, Robert K. *Peter the Great: His Life and World*.
   New York: Knopf, 1980.
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*.

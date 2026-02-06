@@ -227,6 +227,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Moral framing can extend coercive reach.
 • Vienna establishes Russia as a conservative system pillar.
 • The suppression of rupture becomes a standing strategic duty.
+• Vienna institutionalized the kind of equilibrium and system-restraint Panin had advocated for northern Europe; Russia's role as arbiter rested on 1812's restraint and translated into a Congress system rather than conquest-maximalism (MEM–RUSSIA–PANIN).
 
 Contradictions are preserved without synthesis.
 

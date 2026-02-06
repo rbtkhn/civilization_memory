@@ -197,6 +197,11 @@ For European dynamics:
 The structural reality is that the Vistula now defines
 **NATO's eastern defensive line**.
 
+**Incentive structure:** Russia is incentivized to hold the Vistula when
+able for maximum western projection; NATO/Poland to hold the Vistula as
+barrier to eastern influence; withdrawal from Vistula = strategic
+retreat.
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -225,6 +230,9 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • European plain enables maneuver; rivers organize defense.
 • Control of Vistula has shifted between powers.
 • Geography creates recurring competition for same positions.
+• Incentive structure: Russia to hold Vistula when able for western
+  projection; opposing powers to hold Vistula as barrier to eastern
+  influence.
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

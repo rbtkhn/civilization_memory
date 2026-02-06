@@ -188,6 +188,12 @@ Neither can close the strait without escalation; both have incentive
 to keep it open for own use while complicating adversary use in conflict.
 **Balance of presence, not dominance.**
 
+**Incentive structure:** In peacetime both are incentivized to keep
+the strait open for own transit; in conflict both have incentive to
+monitor and potentially deny adversary passage. Neither can close
+without escalation (RLL–RUSSIA–0024: chokepoint permanence—sole
+Arctic–Pacific maritime link).
+
 ────────────────────────────────────────────────────────────
 VIII. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -295,9 +301,10 @@ as permanent structural features.
 ────────────────────────────────────────────────────────────
 XIII. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• The Bering Strait is the only maritime link between the Arctic Ocean and the North Pacific.
+• The Bering Strait is the only maritime link between the Arctic Ocean and the North Pacific (RLL–0024).
 • It is a chokepoint: passage can be monitored and potentially denied.
 • Sovereignty is split (Russia–USA); neither controls the strait unilaterally.
+• Incentive structure: peacetime—keep open for own use; conflict—deny or complicate adversary transit.
 • Diomede Islands literalise the border; both sides have territorial presence.
 • Ice and distance constrain surface operations; submarines remain the primary military users.
 • The strait imposes permanent mutual salience on Russia and the USA at this location.

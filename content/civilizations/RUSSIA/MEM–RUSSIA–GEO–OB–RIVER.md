@@ -236,6 +236,8 @@ X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 • Headwater control (Altai) extends to basin control.
 • Sibir conquest established corridor template.
 • Geography makes Siberian depth controllable along the Ob–Irtysh.
+• RLL–0029 (Volga–Ob spine duality). Incentive structure: Russia to
+  hold both spines—Volga for core, Ob for depth (already in body).
 
 These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.

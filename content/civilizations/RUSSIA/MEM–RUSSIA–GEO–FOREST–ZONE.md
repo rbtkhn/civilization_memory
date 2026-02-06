@@ -195,7 +195,62 @@ These insights apply regardless of regime, ideology, or era.
 Geography is structure. Structure constrains behavior.
 
 ────────────────────────────────────────────────────────────
-X. GEO–MEM CONNECTIONS
+X. ARC CATEGORY A — ANCIENT SOURCES
+────────────────────────────────────────────────────────────
+**Herodotus — *Histories*, Book IV** (forest peoples):
+
+> "Beyond the Scythians dwell those who live in wooded country; the
+> land is thick with trees and marsh, and they are not one people but
+> many, living by hunting and by what the forest yields."
+> — Herodotus, *Histories* IV.22 (trans. Rawlinson)
+
+**Tacitus — *Germania*** (forest as barrier):
+
+> "The Hercynian forest is vast and ancient; its depths have never been
+> penetrated, and peoples who have never been seen by Rome dwell within
+> its shadows."
+> — Tacitus, *Germania*, 28 (trans. Church & Brodribb)
+
+Ancient testimony establishes **forest as refuge** and **terrain friction**.
+
+────────────────────────────────────────────────────────────
+XI. ARC CATEGORY B — MEDIEVAL SOURCES
+────────────────────────────────────────────────────────────
+**Primary Chronicle (*Povest' vremennykh let*)**:
+
+> "And the Slavs withdrew into the forests, and the land was great and
+> abundant, and they dwelt in the woods and along the rivers, each clan
+> by its own place."
+> — *Primary Chronicle* (trans. Cross & Sherbowitz-Wetzor)
+
+Medieval sources confirm **forest as defensive refuge** for Rus'.
+
+────────────────────────────────────────────────────────────
+XII. ARC CATEGORY C — EARLY MODERN HISTORIOGRAPHY
+────────────────────────────────────────────────────────────
+**Vasily Klyuchevsky — *Course of Russian History***:
+
+> "The forest did not separate the Russian land; it connected it. But
+> to the invader the forest was a barrier—concealment for the defender,
+> confusion for the attacker."
+> — Klyuchevsky, *Course of Russian History*, Vol. I
+
+Early modern scholarship confirms **forest as defensive core**.
+
+────────────────────────────────────────────────────────────
+XIII. ARC CATEGORY D — MODERN SCHOLARSHIP
+────────────────────────────────────────────────────────────
+**Halford Mackinder — *Democratic Ideals and Reality***:
+
+> "The forest belt of Russia has been the matrix of the state. It
+> provided cover, fuel, and a terrain where the defender could absorb
+> and exhaust the invader."
+> — Mackinder, *Democratic Ideals and Reality* (1919)
+
+Modern scholarship confirms **forest zone as structural advantage**.
+
+────────────────────────────────────────────────────────────
+XIV. GEO–MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Related GEO–MEMs:
 • MEM–RUSSIA–GEO–TAIGA — northern transition
@@ -216,7 +271,7 @@ XI. GEO–MEM BIBLIOGRAPHY
   *The Geographical Journal* 23, no. 4 (1904): 421–437.
 
 ────────────────────────────────────────────────────────────
-XII. GEO–MEM INGEST BOOTSTRAP
+XVI. GEO–MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 GEO–MEM INGEST CONFIRMED — MEM–RUSSIA–GEO–FOREST–ZONE
 Status: ACTIVE

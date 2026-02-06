@@ -211,6 +211,15 @@ For NATO/Turkey:
 The structural reality is that Black Sea power is zero-sum
 within the basin. Gains by one littoral state reduce others.
 
+**Incentive structure:** Russia is incentivized to hold Crimea and
+Kerch to secure Azov and basin dominance; Turkey to use straits as
+leverage and limit Russian Mediterranean egress; Ukraine to deny
+Russian monopoly and retain littoral. **Force balance:** Post-2022
+force balance in basin shifted toward Russia (littoral and Crimea
+control); straits remain Turkish; NATO presence limited by Montreux
+(RLL–RUSSIA–0024: chokepoint at Bosphorus–Dardanelles; RLL–RUSSIA–0032:
+outlet control—Crimea/Kerch secure basin access).
+
 ────────────────────────────────────────────────────────────
 IX. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -234,9 +243,11 @@ controls the basin's center (Crimea) and manages its gate
 ────────────────────────────────────────────────────────────
 X. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• Semi-enclosed seas concentrate strategic competition.
+• Semi-enclosed seas concentrate strategic competition (RLL–0024, RLL–0032).
 • Chokepoint dependency creates permanent vulnerability.
 • Basin dominance requires both fleet and coastal control.
+• Incentive structure: Russia to hold Crimea/Kerch; Turkey to manage straits; Ukraine to deny monopoly.
+• Force balance post-2022 favors Russia in basin; straits remain Turkish.
 • External powers cannot easily enter restricted waters.
 • Littoral states compete in zero-sum configuration.
 • Crimea is the basin's control node; straits are its gate.

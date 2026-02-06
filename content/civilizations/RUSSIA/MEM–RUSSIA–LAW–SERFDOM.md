@@ -140,6 +140,17 @@ Lessons:
 
 Serfdom is remembered as necessity, not virtue.
 
+Tolstoy, writing after 1861, encodes the system's **persistent shadow**
+in elite and peasant consciousness:
+
+> "The relation of the peasants to the land was not what he had imagined.
+> He had thought that the emancipation had changed everything, but he
+> found that the peasants still looked on the land as the master's and
+> on themselves as belonging to the master."
+> — Leo Tolstoy, *Anna Karenina* (1877), Part 3, Chapter 5 (trans. Maude)
+
+Literary memory places serfdom's **aftermath** in the post-reform world.
+
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -174,6 +185,8 @@ GEO (≥2):
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
+• Tolstoy, Leo. *Anna Karenina* (1877). Trans. Louise and Aylmer Maude.
+  [Literary evidence: serfdom's legacy in post-emancipation consciousness, Section VII]
 • *Ulozhenie* (Law Code of 1649), Chapter XI: On Peasants
 • Estate records and fugitive peasant registers (17th–19th c.)
 

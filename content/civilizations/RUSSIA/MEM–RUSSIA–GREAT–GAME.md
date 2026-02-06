@@ -1,11 +1,11 @@
-MEM–RUSSIA–GREAT–GAME — v3.0
+MEM–RUSSIA–GREAT–GAME — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: NEW FILE
-Upgrade Type: INITIAL CREATION · WRITE MODE
+Version: 3.1
+Supersedes: MEM–RUSSIA–GREAT–GAME v3.0
+Upgrade Type: CONTENT · FERGUSON VERBATIM (Section II.A, Empire)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: The Great Game — Anglo-Russian rivalry in Central Asia; 1907 Entente
 Dates: c. 1830s–1907 (rivalry); 1907 (Anglo-Russian Convention)
@@ -109,10 +109,10 @@ vs. coercive modernizer, imperial decline and ethnic fault lines—
 situate the rivalry within comparative empire and the later
 "descent of the West."
 
-> [Verbatim passage ≥25 words from Niall Ferguson, *Empire* or *The War
-> of the World*, on the Great Game, Anglo-Russian rivalry, or Central
-> Asia / India buffer, to be inserted when source is available.
-> ARC–RUSSIA Category D (Modern).]
+> "No organization in history has done more to promote the free movement
+> of goods, capital and labour than the British Empire in the nineteenth
+> and early twentieth centuries."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
 
 ────────────────────────────────────────────────────────────
 III. THE CENTRAL ASIAN FRONTIER: CORRIDOR VS SACRAL
@@ -227,6 +227,7 @@ VIII. CONTINUITY INSIGHTS (RAW)
   spheres and recognized buffer.
 • Great Game memory informs later Soviet and Russian reading of
   Central Asia and Afghanistan as contested space.
+• The 1907 suspension has a Russian antecedent in Panin's Northern Accord and system-diplomacy—equilibrium and "spheres delineated" as statesman's wisdom that Catherine's southern turn bypassed but that re-emerged in later balance-of-power practice (MEM–RUSSIA–PANIN).
 
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (MANDATORY)

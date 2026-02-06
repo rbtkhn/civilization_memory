@@ -228,6 +228,12 @@ For Central Asian states:
 The structural reality is that the Caspian is a Russo-Iranian
 managed space with Central Asian states as secondary actors.
 
+**Incentive structure:** Russia and Iran are incentivized to dominate
+the basin and resist external intervention; Central Asian littoral
+states are incentivized to secure pipeline alternatives and limit
+dependence on either. No ocean chokepoint (fully enclosed); RLL–0024
+does not apply; Volga–Caspian axis extends interior control.
+
 ────────────────────────────────────────────────────────────
 X. TERRAIN AS PERMANENT CONSTRAINT
 ────────────────────────────────────────────────────────────
@@ -249,9 +255,10 @@ controls the largest littoral AND the primary river access.
 ────────────────────────────────────────────────────────────
 XI. STRATEGIC INSIGHTS (MEARSHEIMER FRAME)
 ────────────────────────────────────────────────────────────
-• Enclosed basins are strategic sanctuaries.
+• Enclosed basins are strategic sanctuaries (no chokepoint; RLL–0024 N/A).
 • No external power can project into landlocked waters.
 • Littoral dominance = basin control.
+• Incentive structure: Russia/Iran to dominate and exclude externals; Central Asian states to diversify export routes.
 • River–basin integration extends maritime to continental.
 • Energy resources are primary economic value.
 • Legal ambiguity benefits dominant powers.

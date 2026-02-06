@@ -145,11 +145,11 @@ IX. CATEGORY A — ANCIENT SOURCES (STRUCTURAL PRECURSORS)
 Ancient geographic traditions emphasize northern waters as zones of
 difficulty and endurance rather than mastery.
 
-Tacitus — Germania (northern insecurity):
+**Tacitus — *Germania*** (northern insecurity):
 
-“The Ocean washes the remote regions, vast and unknown, where nature
-herself sets limits to ambition and movement.”
-— Tacitus, Germania
+> “The Ocean washes the remote regions, vast and unknown, where nature
+> herself sets limits to ambition and movement.”
+> — Tacitus, *Germania* (trans. Church & Brodribb)
 
 This frames northern waters as constraint environments, not prizes.
 
@@ -172,10 +172,11 @@ XI. CATEGORY C — EARLY MODERN SOURCES
 ────────────────────────────────────────────────────────────
 Early modern observers note Ladoga’s defensive importance.
 
-Adam Olearius:
+**Adam Olearius**:
 
-“The great lake north of Novgorod is wide and treacherous, and though
-inland, it belongs more to war than to peace.”
+> “The great lake north of Novgorod is wide and treacherous, and though
+> inland, it belongs more to war than to peace.”
+> — Olearius (trans. Samuel Baron)
 
 Ladoga is recognized as a militarized interior basin.
 
@@ -184,17 +185,19 @@ XII. CATEGORY D — MODERN SCHOLARSHIP
 ────────────────────────────────────────────────────────────
 Modern historians emphasize Ladoga’s survival function.
 
-John Erickson:
+**John Erickson**:
 
-“Ladoga was not merely a lake but the difference between annihilation
-and survival; its ice and water became arteries when the land had
-failed.”
+> “Ladoga was not merely a lake but the difference between annihilation
+> and survival; its ice and water became arteries when the land had
+> failed.”
+> — John Erickson, *The Road to Stalingrad* (1975)
 
-Geoffrey Hosking:
+**Geoffrey Hosking**:
 
-“Northern geography forced Russia to learn endurance early, and
-Ladoga stands as one of the clearest examples of how space substituted
-for maneuver.”
+> “Northern geography forced Russia to learn endurance early, and
+> Ladoga stands as one of the clearest examples of how space substituted
+> for maneuver.”
+> — Hosking, *Russia: People and Empire* (1997)
 
 Modern scholarship confirms Ladoga as redundant depth under siege.
 
