@@ -1018,5 +1018,5 @@ No section may be removed.
 No authority may be weakened.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PROTOCOL v3.0
+END OF FILE — CIV–SCHOLAR–PROTOCOL v3.1
 ────────────────────────────────────────────────────────────

@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.7
+CIV–INDEX–RUSSIA — v3.8
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.7
-Supersedes: CIV–INDEX–RUSSIA v3.6
-Upgrade Type: NEW MEM REGISTRATION · ALEXANDER–III
+Version: 3.8
+Supersedes: CIV–INDEX–RUSSIA v3.7
+Upgrade Type: FULL DIRECTORY SYNC
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,15 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.8) — FULL DIRECTORY SYNC
+────────────────────────────────────────────────────────────
+Reconciled index with actual MEM files in directory.
+
+• MEM–RUSSIA–LENINGRAD.md — I) OTHER (city; imperial/Soviet capital)
+• MEM–RUSSIA–PETERSBURG–HERMITAGE.md — I) OTHER (Petersburg site; Winter Palace / Hermitage)
+Total: 189 → 191. I) OTHER: 57 → 59.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.7) — NEW MEM REGISTRATION
@@ -418,6 +427,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–KIEV.md
 • MEM–RUSSIA–KIEVAN–RUS.md
 • MEM–RUSSIA–KOREA.md
+• MEM–RUSSIA–LENINGRAD.md
 • MEM–RUSSIA–LATVIA.md
 • MEM–RUSSIA–LIT–CHEKHOV.md
 • MEM–RUSSIA–LIT–DOSTOEVSKY.md
@@ -435,6 +445,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–ODESSA.md
 • MEM–RUSSIA–OTTOMAN–EMPIRE.md
 • MEM–RUSSIA–PETERSBURG.md
+• MEM–RUSSIA–PETERSBURG–HERMITAGE.md
 • MEM–RUSSIA–PETERSBURG–PETERHOF.md
 • MEM–RUSSIA–POLAND.md
 • MEM–RUSSIA–RIGA.md
@@ -506,7 +517,7 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,800
-TOTAL REGISTERED FILES: One hundred eighty-seven (187) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred ninety-one (191) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 31 files
@@ -517,8 +528,8 @@ Category Breakdown:
 • F) RELIGION: 2 files
 • G) PERSON: 26 files
 • H) HIST: 3 files
-• I) OTHER: 57 files
+• I) OTHER: 59 files
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v3.5
+END OF FILE — CIV–INDEX–RUSSIA — v3.8
