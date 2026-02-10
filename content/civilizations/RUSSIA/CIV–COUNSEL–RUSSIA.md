@@ -1,10 +1,10 @@
-CIV–COUNSEL–RUSSIA — v1.3
+CIV–COUNSEL–RUSSIA — v1.6
 Civilizational Memory Codex · Counsel File
 
 Status: ACTIVE
-Version: 1.3
-Supersedes: CIV–COUNSEL–RUSSIA v1.2
-Upgrade Type: OPERATIONAL TEST · DEFENCE PRODUCTION · CHINA ABSORPTION
+Version: 1.6
+Supersedes: CIV–COUNSEL–RUSSIA v1.5
+Upgrade Type: OPPONENT CONSTRAINT ASSESSMENT · RELATIVE BINDING CONSTRAINT
 Entity: Russia / Russian Federation
 Classification: CIVILIZATION-STATE
 Active: YES
@@ -203,6 +203,23 @@ Mechanism assessment:
   Unbuffered personalism amplifies short-term power but accelerates
   elite destruction and systemic failure.
   (Source: CIV–DOCTRINE–RUSSIA, Doctrine 02)
+• Decision-quality distortion under personalist constraint:
+  unbuffered personalism causes decisions to optimise for the
+  leader's survival horizon rather than the state's structural
+  interest. The divergence is invisible when leader and state
+  interests align (early consolidation, external threat) and
+  acute when they diverge (fiscal stress, partnership commitments,
+  settlement negotiations). The divergence widens as fiscal
+  constraint narrows the state's options while the leader's
+  personal exposure remains fixed. This is the operational
+  signature of unbuffered autocracy under resource constraint.
+  Precedents: Peter overriding Panin-type restraint; Catherine
+  overriding fiscal logic for Crimea; 1991 nomenklatura defecting
+  when personal advantage exceeded institutional loyalty; June 2025
+  Midnight Hammer response (leadership chose US relationship over
+  Iran partnership commitment).
+  (Source: Decision Points Sessions 001–002, February 2026;
+  CIV–DOCTRINE–RUSSIA, Doctrine 02)
 • Russia consistently produces more elites than its political economy
   can absorb. Stability requires subordinating elite claims to
   survival imperatives through war or emergency. Prolonged peace
@@ -227,6 +244,14 @@ The three perspectives produce genuinely different assessments:
    exposure, defection incentives, inner-circle dynamics. These can
    diverge: what is rational for the state may not be rational for the
    leadership, and vice versa.
+   Diagnostic: When this divergence is active, the revealed preference
+   hierarchy applies — what the leadership actually chose under
+   analogous constraint is the strongest predictor of what it will
+   choose now. Structural logic and legitimacy analysis remain
+   valuable for framing options but are subordinate to revealed
+   preference for prediction in personalist systems.
+   (Source: Decision Points Sessions 001–002; see Section VII,
+   Pattern: Revealed Preference Under Analogous Constraint)
 
 3. Legitimacy vs Liability: The legitimacy perspective sees governance
    through civilizational continuity — institutions outlast leaders.
@@ -259,11 +284,18 @@ OPTION A: Endurance Through Attrition
   • Sanctions impact remains manageable through alternative partnerships
     — Linchpin: NO
 
-  Confidence: MODERATE
+  Confidence: MODERATE-HIGH (upgraded from MODERATE — February 2026)
   Assessed against structural constraints and five historical precedents
-  (1812, 1905, 1917, 1941, 1991). Binding constraint: industrial
-  replacement rate relative to operational consumption — if production
-  falls below consumption, the endurance thesis collapses within months.
+  (1812, 1905, 1917, 1941, 1991). Binding constraint (REFRAMED):
+  the relative degradation rate — does Ukraine's capacity (manpower,
+  morale, Western support) degrade faster than Russia's fiscal base?
+  If yes, the attrition thesis produces a military outcome within the
+  fiscal window. If no, Russia exhausts its reserves before achieving
+  a decision. See Section VI-B (Opponent Constraint Assessment) for
+  the opponent's binding constraints and discriminating signals.
+  Previous framing (replacement vs. consumption) remains valid as a
+  sub-constraint but is insufficient alone — it tracks only Russia's
+  side of the attrition race.
 
   Risks: If replacement falls below burn-rate, endurance becomes
   self-consumption. If elite cohesion fractures under prolonged
@@ -332,6 +364,31 @@ OPTION A: Endurance Through Attrition
   Sources: EchoWarfare intelligence assessment (2025); Finabel
   comparative analysis (2025); Economist (May 2025); CEPA (2025);
   Jamestown Foundation; Reuters (Nov 2024).
+
+  EVIDENCE UPDATE 3 (February 2026 — new instruments assessment):
+  Four new instruments have emerged since 1 January 2026, all of
+  which strengthen Option A's near-term viability:
+  (1) Trump personal-diplomacy channel — reduces Western political
+  pressure, buys time; but creates June deadline expectation.
+  (2) Board of Peace proposal — provides diplomatic cover for
+  continued endurance without structural concessions.
+  (3) Reversible energy infrastructure pause — demonstrates
+  cooperation to Trump at zero structural cost; strengthens
+  the favourable diplomatic configuration.
+  (4) Sumy buffer zone — this WEAKENS Option A by requiring forces
+  that the labour deficit and stockpile depletion cannot support.
+  Net: three instruments extend the near-term runway; one
+  accelerates the medium-term binding constraint. The medium-term
+  ceiling (12-24 months) is unchanged — new instruments mask the
+  constraint without resolving it.
+  CONCENTRATION RISK: All three favourable instruments depend on
+  the Trump relationship. If that relationship fails (attention
+  shift, policy reversal, June deadline breach), all three
+  deteriorate simultaneously and Option A reverts to its pre-
+  January structural trajectory — unfavourable and time-limited.
+  Direction: STRENGTHENED NEAR-TERM; UNCHANGED MEDIUM-TERM.
+  Binding constraint masked, not resolved.
+  Sources: Decision Points Session 003 (retrospective Jan 1 2026).
 
 ────────────────────────────────────────────────────────────
 
@@ -589,6 +646,8 @@ V. COMPLETENESS AUDIT
 - [x] Key assumptions stated (≥3 per option, linchpins identified)
 - [x] Discriminating evidence documented per option
 - [x] Stability indicators assessed (Section VI)
+- [x] Opponent constraint assessment present (Section VI-B)
+- [x] Binding constraints framed as relative where applicable
 - [x] All prose in external-facing register
 - [x] Duty of competence declaration present in header
 
@@ -620,6 +679,120 @@ Threshold watch: Elite cohesion is the leading indicator. If elite
 cohesion moves to CRITICAL, the liability and mechanism perspective
 becomes the primary predictive frame — because personalist systems
 fail through elite defection before they fail through popular revolt.
+
+────────────────────────────────────────────────────────────
+VI-B. OPPONENT CONSTRAINT ASSESSMENT
+────────────────────────────────────────────────────────────
+Assessment of the principal opponent's binding constraints.
+Required for any Material Option whose success depends on the
+opponent's capacity degrading relative to the entity's own
+constraints. Without this section, the power perspective is
+applied to one side only — which is a structural analysis error.
+
+OPPONENT: Ukraine / Ukrainian Armed Forces
+
+BINDING CONSTRAINT 1: Manpower
+  Status: BINDING NOW
+  Evidence (February 2026):
+  • Brigades operating at 50-60% capacity
+  • 2 million draft evaders; 200,000 AWOL (new defence minister's
+    public acknowledgment, January 2026)
+  • Average soldier age: 40
+  • Rotation cycles extended from 3 days to 38 days on the line
+  • Systemic desertion: "Everybody is tired. The mood has changed"
+    (Guardian, January 2025); one company-level testimony: "almost
+    no one left except the injured; the others are dead" (BBC)
+  • Mobilisation system increasingly coercive; resistance growing
+  Assessment: This constraint is binding in real time. Manpower
+  is not a medium-term ceiling (like Russia's fiscal constraint);
+  it is an active, current limitation on Ukraine's capacity to
+  hold the front. No amount of Western equipment compensates for
+  infantry shortages — drones suppress, but soldiers hold ground.
+  Sources: Business Insider (Jan 2026, Fedorov interview); Kyiv
+  Independent (2026 analysis); Guardian (Jan 2025); BBC; Tactics
+  Institute analysis.
+
+BINDING CONSTRAINT 2: Western support trajectory
+  Status: DETERIORATING
+  Evidence (February 2026):
+  • US USAI allocation: $400 million (2026), down from $14 billion
+    (April 2024) — 97% reduction
+  • Trump administration explicitly de-escalating through diplomacy,
+    not sustained military commitment
+  • European compensation: Germany €11.5B, Norway $7B, EU €90B
+    concessional loans (2026-2027). Substantial but primarily
+    equipment and financial — does not solve the manpower problem
+  • Congressional oversight provisions (48-hour reporting on
+    intelligence restriction) suggest institutional resistance to
+    full withdrawal, but executive direction is clear
+  Assessment: US support is in structural decline under the current
+  administration. European compensation is real but partial — it
+  covers equipment, not manpower, and the pipeline operates on a
+  slower timeline than US drawdown authority. The support trajectory
+  is DETERIORATING but not collapsing; a sudden cutoff is unlikely
+  given congressional protections, but the trend is unambiguous.
+  Sources: Shafaq News (2026 USAI figures); Economic Times; Atlantic
+  Council (defence bill analysis); Frontliner.ua (2026 aid overview).
+
+BINDING CONSTRAINT 3: Morale and social cohesion
+  Status: STRESSED TO CRITICAL
+  Evidence (February 2026):
+  • Desertion crisis publicly acknowledged by military leadership
+  • Frontline soldiers describing exhaustion and mood change as
+    systemic, not individual
+  • Extended deployments (38 days) without adequate rest or rotation
+  • Draft resistance growing across society; recruitment increasingly
+    coercive
+  • New defence minister promising audit and reform — implicitly
+    acknowledging systemic failure
+  Assessment: Morale degradation is non-linear. Armies in attrition
+  warfare do not degrade linearly — they hold, and then they break.
+  The current signals (systemic desertion, public acknowledgment,
+  extended rotations, coercive mobilisation) are the signals that
+  precede non-linear degradation. The historical parallel from
+  Russia's own experience: the Imperial Russian Army in 1917 did
+  not run out of equipment; it ran out of willingness. This
+  pattern can apply to the opponent.
+  Sources: Guardian (Jan 2025, desertion crisis); BBC (frontline
+  exhaustion); Reuters (combat conditions); Guardian photo essay
+  (Jan 2026, rotation cycles).
+
+RELATIVE DEGRADATION ASSESSMENT:
+  Russia's primary binding constraint (fiscal base) is projected
+  to bind within 12-18 months (NWF liquid assets potentially
+  exhausted by year-end 2026; oil revenue 24% below 2025 levels).
+  Ukraine's primary binding constraint (manpower) is binding NOW.
+  The attrition race is between these two curves. If Ukrainian
+  capacity degrades non-linearly (morale break, cascade from
+  localised breakthroughs, desertion acceleration) before Russia's
+  fiscal base is exhausted, the "win on the battlefield" variant
+  of Option A becomes a real outcome, not just a narrative.
+  Current assessment: Ukraine's curve is steeper. Russia's fiscal
+  constraint is masked by new instruments (Trump channel, Board
+  of Peace, energy pause); Ukraine's manpower constraint has no
+  equivalent masking instrument.
+
+DISCRIMINATING SIGNALS — which curve is winning:
+  Russia's fiscal curve:
+  • NWF liquid asset level (monthly reporting)
+  • Oil price trajectory (Urals crude vs. budget assumption)
+  • Secondary sanctions activation (would accelerate depletion)
+  • Defence production output vs. targets (actual, not planned)
+
+  Ukraine's manpower curve:
+  • Brigade strength percentages (if reported or estimated)
+  • Desertion/AWOL rates (public acknowledgment = lagging indicator)
+  • Rotation cycle length (extending = worsening)
+  • Territorial loss rate (acceleration = capacity degrading)
+  • Mobilisation law changes (more coercive = more desperate)
+  • Western military assessment language (shift from "can hold"
+    to "under pressure" to "unsustainable")
+
+  Crossover indicator: If Russia's territorial advance rate
+  accelerates while its fiscal drawdown continues at current
+  pace, that suggests Ukraine's curve is breaking faster.
+  If advance rate stalls while fiscal drawdown accelerates,
+  Russia's curve is losing.
 
 ────────────────────────────────────────────────────────────
 VII. DECISION-RELEVANT HISTORY
@@ -689,6 +862,70 @@ PATTERN: Fiscal Constraint and Restraint Preference
   leadership's narrative demands continued strength. The Abu Dhabi
   talks may be partly explained by this fiscal dynamic.
 
+PATTERN: Fiscal-Temporal Compression Trap
+  Activation: HIGH (February 2026)
+  Source: Decision Points Sessions 001–002; MEM–RUSSIA–PANIN,
+          MEM–RUSSIA–CATHERINE–GREAT; CIV–DOCTRINE–RUSSIA
+          Doctrines 01, 05
+  Relevance: Fiscal constraint demands more time (resources running
+  out; the state needs to slow the burn). Temporal compression
+  demands less time (the governance model requires emergency to
+  suppress elite bargaining). When both pressures act simultaneously,
+  the system enters a specific trap: it cannot slow down (peace
+  destabilises) and cannot speed up (the fiscal base does not
+  support acceleration). The current configuration exhibits this
+  trap — the 2026 budget reduction signals fiscal constraint while
+  the wartime governance model depends on sustained emergency.
+  The leadership is caught between a fiscal trajectory that demands
+  adjustment and a governance model that requires tempo.
+
+PATTERN: Revealed Preference Under Analogous Constraint
+  Activation: HIGH (February 2026) — VALIDATED
+  Source: Decision Points Sessions 002–003; Operation Midnight Hammer
+          (June 2025); MEM–RUSSIA–GORBACHEV
+  Relevance: When this leadership has faced a structurally analogous
+  decision before, what it actually chose is a stronger predictor
+  of future behaviour than structural logic or legitimacy analysis.
+  Russia's response to Midnight Hammer (June 2025) — verbal
+  condemnation without hardware transfer, explicit compartmentalisation
+  of the US relationship — is the baseline predictor for how the
+  leadership will handle the current Iran defence decision. The
+  pattern: personalist systems under pressure resolve structural-
+  versus-personal divergence in favour of personal survival.
+  Diagnostic hierarchy for personalist systems: revealed preference
+  > structural logic > legitimacy analysis.
+  VALIDATION (Session 003, retrospective Jan 1 2026): The hierarchy
+  was tested against three decision points the leadership faced at
+  the turn of the year. On the two decisions where the three
+  analytical perspectives diverged (Oreshnik pricing, fiscal shock
+  response), the liability/personal-survival prediction matched the
+  actual outcome both times. Structural logic was partially
+  accommodated but subordinated; legitimacy was partially sacrificed.
+  The one decision where all three perspectives converged (Abu Dhabi
+  engagement) was overdetermined and untestable. The hierarchy holds:
+  liability > structural > legitimacy. This is now the strongest
+  predictive tool in the COUNSEL framework for this leadership.
+
+PATTERN: Partnership Credibility Decay
+  Activation: MODERATE (February 2026)
+  Source: Decision Points Session 002; Midnight Hammer precedent;
+          Soviet loss of Egypt (1970s Sadat pivot)
+  Relevance: Personalist systems systematically under-deliver on
+  alliance commitments because the leader's survival horizon is
+  shorter than the alliance's required commitment horizon. Each
+  iteration degrades credibility with accelerating damage. Russia's
+  response to Midnight Hammer (words without hardware despite a
+  five-month-old strategic partnership treaty) is the first data
+  point. A second floor-level response to a US strike on Iran
+  would confirm the pattern and effectively end the partnership's
+  operational content. Historical parallel: the Soviet loss of
+  Egypt followed a similar trajectory — Moscow's support was
+  calibrated to Soviet survival needs, not Egyptian security needs,
+  and Sadat pivoted to the US. Implication: Russia's partnership
+  value proposition (to Iran, India, Turkey, and others) is under
+  structural pressure from the personalist decision-quality
+  distortion documented above.
+
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
@@ -727,6 +964,25 @@ UNITED STATES:
   dynamic cuts both ways — the US electoral incentive may accelerate
   the timeline, but may also produce pressure for a deal that neither
   Russia nor Ukraine finds structurally stable.
+
+IRAN:
+  Dimension: Partnership credibility; defence interdependency
+  Key distinction: Russia–Iran strategic partnership (January 2025
+  treaty) is structurally asymmetric. Russia values Iran as a
+  geopolitical counterweight and drone/munition supplier; Iran values
+  Russia as a military-industrial guarantor and diplomatic shield.
+  The asymmetry becomes acute when US pressure forces Russia to
+  choose between the US relationship (on which settlement depends)
+  and the Iran partnership (on which regional influence depends).
+  Revealed preference (Midnight Hammer, June 2025): Russia chose
+  the US relationship. A second iteration would confirm the pattern
+  and trigger partnership credibility decay (see Section VII).
+  The Sadat pivot (Soviet loss of Egypt, 1970s) is the historical
+  parallel — Moscow calibrated support to its own survival needs,
+  not the partner's security needs, and lost the partner.
+  Update (February 2026): Active Decision Points engagement.
+  Iran defence decision is the current test of partnership
+  credibility.
 
 OTTOMAN EMPIRE (historical):
   Dimension: Decline pattern
@@ -858,6 +1114,84 @@ ENTRY 004 — 10 February 2026
   Next review: Q1 2026 Russia-China trade data; actual (not
   planned) defence production output; Abu Dhabi talks outcome.
 
+ENTRY 005 — 10 February 2026
+  Session: v1.4 cognitive integration — Decision Points harvest
+  Source: Decision Points Sessions 001–002 (ARC–RUSSIA–DECISION–POINTS)
+  Changes:
+  • Section III.C: Added decision-quality distortion mechanism —
+    personalist systems optimise for leader's survival horizon,
+    not state interest. Divergence widens under fiscal constraint.
+    Precedents: Peter/Panin, Catherine/Crimea, 1991 nomenklatura,
+    Midnight Hammer June 2025.
+  • Section III Tensions (Power vs Liability): Added diagnostic —
+    revealed preference hierarchy for personalist systems. What
+    leadership actually chose > structural logic > legitimacy analysis.
+  • Section VII: Three new patterns added:
+    - Fiscal-Temporal Compression Trap (HIGH) — cannot slow down,
+      cannot speed up; fiscal constraint vs governance-tempo conflict
+    - Revealed Preference Under Analogous Constraint (HIGH) —
+      Midnight Hammer as baseline predictor
+    - Partnership Credibility Decay (MODERATE) — personalist
+      under-delivery on alliance commitments; Sadat pivot parallel
+  • Section VIII: Iran cross-entity link added — partnership
+    credibility test, Midnight Hammer precedent, Sadat parallel.
+  Completeness audit: PASSED
+  Next review: Post next Iran-related news cycle; post Abu Dhabi
+  talks outcome.
+
+ENTRY 006 — 10 February 2026
+  Session: v1.5 — retrospective Decision Points (Jan 1 2026)
+  and revealed preference diagnostic validation
+  Source: Decision Points Session 003 (ARC–RUSSIA–DECISION–POINTS)
+  Changes:
+  • Option A: Evidence Update 3 added. Four new instruments since
+    Jan 1 assessed against all four Material Options. Three
+    instruments (Trump channel, Board of Peace, energy pause)
+    strengthen Option A near-term. One (Sumy buffer zone) weakens
+    it. Medium-term ceiling unchanged. Concentration risk flagged:
+    all three favourable instruments depend on Trump relationship.
+  • Section VII (Revealed Preference): VALIDATED status. Tested
+    against three retrospective Jan 1 decision points. On both
+    divergent decisions (Oreshnik pricing, fiscal shock), liability
+    prediction matched actual outcome. Hierarchy confirmed:
+    liability > structural > legitimacy. Now the strongest
+    predictive tool in the COUNSEL framework for this leadership.
+  Completeness audit: PASSED
+  Confidence changes: Option A near-term strengthened; medium-term
+  unchanged. Revealed preference pattern upgraded to VALIDATED.
+  Next review: June 2026 (Trump deadline); or if Trump relationship
+  shows strain before then.
+
+ENTRY 007 — 10 February 2026
+  Session: v1.6 — opponent constraint assessment and relative
+  binding constraint reframe
+  Source: Decision Points Session 004 (ARC–RUSSIA–DECISION–POINTS)
+  Changes:
+  • NEW SECTION VI-B: Opponent Constraint Assessment. Tracks
+    Ukraine's three binding constraints (manpower: BINDING NOW;
+    Western support: DETERIORATING; morale: STRESSED TO CRITICAL).
+    Includes relative degradation assessment and discriminating
+    signals for both curves.
+  • Option A: Binding constraint REFRAMED from absolute (Russia's
+    replacement vs consumption) to relative (does Ukraine's capacity
+    degrade faster than Russia's fiscal base?). Confidence upgraded
+    MODERATE → MODERATE-HIGH. The opponent's manpower curve is
+    steeper than Russia's fiscal curve — "win on the battlefield"
+    is assessed as a real variant, not only a narrative.
+  • Completeness audit: Added opponent constraint and relative
+    binding constraint checklist items. Previous audit status
+    retroactively identified as having a structural gap (power
+    perspective applied to one side only).
+  Methodological finding: Entity-oriented COUNSEL framework
+  systematically underweights opponent degradation. The three
+  perspectives (legitimacy, power, liability) all look inward.
+  Power perspective must be applied to relative position, not
+  entity position alone. This gap should be corrected in
+  CIV–COUNSEL–TEMPLATE for all civilisation files.
+  Completeness audit: PASSED (with new requirements)
+  Next review: When advance rate data (Q1 2026) and Ukrainian
+  brigade strength estimates become available.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–COUNSEL–RUSSIA v1.3
+END OF FILE — CIV–COUNSEL–RUSSIA v1.6
 ────────────────────────────────────────────────────────────

@@ -1,13 +1,120 @@
-CIV–COUNSEL–TEMPLATE — v1.2
+CIV–COUNSEL–TEMPLATE — v1.6
 Civilizational Memory Codex · Counsel File Template
 
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: CIV–COUNSEL–TEMPLATE v1.1
-Upgrade Type: SYNC PROTOCOL · SOURCE VERSIONS
+Version: 1.6
+Supersedes: CIV–COUNSEL–TEMPLATE v1.5
+Upgrade Type: OPPONENT CONSTRAINT ASSESSMENT · RELATIVE BINDING CONSTRAINT
 Class: CIV–COUNSEL–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
-Last Update: February 2026
+Last Update: 10 February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.6) — OPPONENT CONSTRAINT ASSESSMENT
+────────────────────────────────────────────────────────────
+Methodological fix: the COUNSEL framework's entity-orientation
+caused systematic underweighting of opponent degradation. The
+three analytical perspectives (legitimacy, power, liability)
+all looked inward — tracking the entity's own constraints but
+treating the opponent's capacity as a background condition.
+This is a structural analysis error: the power perspective
+requires relative assessment (both sides), not entity-only.
+
+Three changes:
+
+1. NEW MANDATORY SECTION VI-B: OPPONENT CONSTRAINT ASSESSMENT.
+   Required for any COUNSEL file whose material options depend
+   on a principal opponent or partner's capacity. Tracks the
+   opponent's binding constraints, degradation trajectory, and
+   relative position vs. the entity's own constraints.
+
+2. BINDING CONSTRAINT REFRAMING: Where a material option's
+   success depends on relative degradation (e.g. attrition war),
+   the binding constraint must be framed as a relative variable
+   ("does opponent X degrade faster than entity Y?"), not an
+   absolute one ("does entity replacement exceed entity
+   consumption?").
+
+3. COMPLETENESS AUDIT: Two new checklist items — opponent
+   constraint assessment present; binding constraints framed
+   as relative where applicable.
+
+Source: Decision Points Session 004, CIV–COUNSEL–RUSSIA.
+The "win on the battlefield" variant of Option A was
+systematically underweighted because Ukraine's manpower
+degradation curve was not tracked. This gap is now closed
+in the Russia file and prevented for all future COUNSEL files.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.5) — DECISION POINTS ENHANCEMENTS
+────────────────────────────────────────────────────────────
+Six enhancements to Section X-B based on creative review of the
+Decision Points activity after two live sessions:
+
+1. REVEALED PREFERENCE CHECK (new step 3): Before deepening,
+   check whether the entity has faced an analogous decision
+   before and what it actually chose. Revealed preferences beat
+   structural logic for predicting personalist systems.
+2. TIME-SENSITIVITY MARKER (step 5): Tag each decision point
+   DAYS / WEEKS / MONTHS. Tells user which decisions are most
+   perishable.
+3. DISCRIMINATING SIGNAL (step 5): One observable indicator per
+   decision point that reveals the decision has been made.
+   Turns analysis into monitoring.
+4. DECISION POINT INTERACTIONS (step 5): Note whether decisions
+   constrain, foreclose, or share constraints with each other.
+   Surfaces the decision architecture.
+5. PRE-MORTEM (step 7): After user selects action, always offer
+   "Assume this failed — what went wrong?" Reverses cognitive
+   direction to surface hidden failure modes.
+6. EXPIRY / RECURRENCE TRACKING (Activity Record): Decision
+   points tagged OPEN / RESOLVED / EXPIRED. Recurring decisions
+   noted across sessions. Recurrence = leadership deferral.
+
+Procedure renumbered (now 7 steps, was 6).
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.4) — DECISION POINTS AUDIT FIXES
+────────────────────────────────────────────────────────────
+Post-session audit of Decision Points activity (two sessions on
+CIV–COUNSEL–RUSSIA). Five fixes applied to Section X-B:
+
+1. Step 6 (OPTIONS): Replaced standard 8-slot recursive options
+   with Decision Points-specific option structure — numbered
+   decision-point options after initial presentation, lettered
+   action options after deepening, consequence-driven options
+   after action selection.
+2. Step 5 (DEEPEN): Added requirement that deepened options must
+   be specific actions the entity can take — concrete, entity-
+   oriented, mutually exclusive.
+3. SOURCE TRANSPARENCY: New binding clause in Grounding
+   Requirements — distinguish verified data, projections, and
+   anonymous/thin sourcing. Do not present projections as facts.
+4. ACTIVITY RECORD: Added 20-line ceiling per session entry.
+   ARC file is an index, not a summary.
+5. ARC–RUSSIA–DECISION–POINTS SESSION 002 trimmed to comply.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.3) — DECISION POINTS SESSION ACTIVITY
+────────────────────────────────────────────────────────────
+This version adds Decision Points as a named COUNSEL session
+activity (Section X-B).
+
+v1.3 additions:
+• Section X-B: DECISION POINTS (SESSION ACTIVITY)
+  — Entity-oriented: decisions identified from the entity's
+    leadership perspective, not an external observer's
+  — Distinct from Material Options: time-bound, concrete choices
+    vs broad strategic paths
+  — Seven-step procedure: search, identify, frame, analyse,
+    ground, assess, recurse
+  — Structural-versus-personal divergence as core analytical product
+  — Subject to Duty of Competence (three perspectives required)
+  — Outputs feed back to COUNSEL file via standard evidence-update
+    and assessment-closure mechanisms
+
+Derived from: COUNSEL session on CIV–COUNSEL–RUSSIA (February 2026)
+in which the activity pattern was first performed and recognized.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -156,6 +263,14 @@ SECTION VI: STABILITY INDICATORS
   • Current indicator status
   • Threshold rules for analytical weight shifts
 
+SECTION VI-B: OPPONENT CONSTRAINT ASSESSMENT (when applicable)
+  • Principal opponent or partner identification
+  • Opponent binding constraints (with same rigour as entity's own)
+  • Relative degradation assessment
+  • Discriminating signals for both curves
+  • Required when any material option's success depends on the
+    opponent's capacity degrading relative to the entity's
+
 SECTION VII: DECISION-RELEVANT HISTORY
   • Pattern activations linking historical content to current options
   • Source citations
@@ -278,6 +393,13 @@ RULES:
   indicators are qualitative assessments, not measurements.
 • The grounding line tells the reader: what evidence was assessed,
   what would flip the conclusion, and how fast
+• RELATIVE FRAMING (when applicable): When the option's success
+  depends on the opponent's capacity degrading relative to the
+  entity's (e.g. attrition, endurance, outlasting), the binding
+  constraint must be framed as a relative variable — tracking both
+  degradation curves. An entity-only binding constraint is
+  insufficient for options that are implicitly races. See Section
+  IX-B (Opponent Constraint Assessment) for the full requirement.
 
 RATIONALE:
 The decision-maker cannot monitor twenty assumptions simultaneously.
@@ -328,6 +450,85 @@ THRESHOLD RULE:
 When ≥3 indicators are STRESSED or any indicator is CRITICAL,
 the legitimacy and institutional continuity perspective carries
 elevated predictive weight in Section IV options.
+
+────────────────────────────────────────────────────────────
+IX-B. OPPONENT CONSTRAINT ASSESSMENT (MANDATORY WHEN APPLICABLE)
+────────────────────────────────────────────────────────────
+When any material option's success or failure depends on the
+capacity of a principal opponent (adversary, partner, or
+counterparty), the COUNSEL file MUST include an opponent
+constraint assessment in Section VI-B.
+
+APPLICABILITY:
+• Required when the entity is in an active conflict, negotiation,
+  or strategic competition where outcomes depend on relative
+  capacity, not absolute capacity alone
+• Required when any material option's binding constraint is
+  implicitly relative (e.g. "outlast the opponent" = the outcome
+  depends on which side's constraints bind first)
+• Not required for purely internal assessments (e.g. succession
+  planning, institutional reform) with no external opponent
+
+STRUCTURE:
+The opponent constraint assessment must include:
+
+1. OPPONENT IDENTIFICATION
+   • Named opponent or counterparty
+   • Classification of the relationship (adversary, partner,
+     mediator, competitor)
+
+2. OPPONENT BINDING CONSTRAINTS
+   • Minimum 2 binding constraints identified with the same
+     rigour applied to the entity's own constraints
+   • Each constraint must include: status (binding now / stressed /
+     deteriorating / stable), evidence, assessment, sources
+   • Apply the same criteria as entity binding constraints:
+     speed-of-collapse and least-controllable
+
+3. RELATIVE DEGRADATION ASSESSMENT
+   • Which side's primary binding constraint is binding sooner?
+   • What is the relationship between the two degradation curves?
+   • Is the race between the curves linear or subject to
+     non-linear dynamics (e.g. morale breaks, fiscal cliffs)?
+
+4. DISCRIMINATING SIGNALS
+   • Observable indicators for both the entity's curve and the
+     opponent's curve
+   • A crossover indicator: what observable evidence would reveal
+     which curve is winning?
+
+BINDING CONSTRAINT REFRAMING RULE:
+When a material option depends on relative degradation, its
+binding constraint MUST be framed as a relative variable:
+
+  INCORRECT: "Binding constraint: industrial replacement rate
+  relative to operational consumption"
+  (This tracks only the entity's side of the attrition race.)
+
+  CORRECT: "Binding constraint: the relative degradation rate —
+  does [opponent]'s capacity degrade faster than [entity]'s
+  fiscal/material base?"
+  (This tracks both sides and identifies the race.)
+
+The previous (entity-only) framing may be retained as a
+sub-constraint but is insufficient alone.
+
+SOURCE REQUIREMENT:
+Opponent constraint data must meet the same source transparency
+standards as entity data (see Section X-B, Source Transparency).
+Distinguish verified data, projections, and thin sourcing.
+Intelligence estimates of opponent capacity should be flagged
+as projections, not facts.
+
+RATIONALE:
+Entity-oriented frameworks systematically underweight opponent
+degradation because the three analytical perspectives
+(legitimacy, power, liability) are designed to look inward.
+The power perspective requires relative assessment by definition
+— structural analysis is analysis of relative position. Without
+an explicit opponent constraint section, the power perspective
+is applied with a structural bias that can cause material
+options to be systematically over- or under-weighted.
 
 ────────────────────────────────────────────────────────────
 X. REVISION PROTOCOL
@@ -433,6 +634,271 @@ DISTINCTION FROM SCHOLAR OPTIONS:
 • COUNSEL H produces actionable COUNSEL file update proposals
 
 ────────────────────────────────────────────────────────────
+X-B. DECISION POINTS (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Decision Points is a COUNSEL session activity that identifies and
+analyses the specific, time-bound choices facing the entity's
+leadership right now.
+
+ORIENTATION:
+Decision Points are entity-oriented. The analysis is conducted from
+the perspective of the entity's leadership — what must this leader
+choose? — not from the perspective of an external observer. The
+three analytical perspectives are applied as constraints the
+leadership faces, not as recommendations from outside.
+
+DISTINCTION FROM MATERIAL OPTIONS:
+Material Options (Section IV) are the broad strategic paths available
+to the entity, documented in the COUNSEL file and updated as evidence
+accumulates. Decision Points are concrete, time-sensitive choices that
+the leadership faces in a given week or period — they sit within and
+cut across Material Options. A single Decision Point may engage
+multiple Material Options simultaneously.
+
+| Material Options | Decision Points |
+|------------------|-----------------|
+| Broad strategic paths (endure, settle, diversify, escalate) | Specific binary/ternary choices ("signal flexibility at Abu Dhabi or hold position") |
+| Updated when evidence shifts binding constraints | Identified from current news, then assessed against existing framework |
+| Persist across sessions | Time-bound; may expire or resolve |
+| Documented in Section IV | Surface in sessions; feed back to Section IV via evidence updates |
+
+NUMBER OF DECISION POINTS:
+• Default: 3 decision points per activity invocation
+• Rare exception: More than 3 only when the decision landscape
+  genuinely requires it (e.g. simultaneous crises on independent
+  axes). The bar is high — most situations compress to 3.
+• Rationale: The decision-maker's attention is finite. Three
+  well-chosen decisions cover the decision space better than five
+  diluted ones. Breadth of decision-space coverage matters more
+  than exhaustive enumeration.
+
+PROCEDURE:
+1. SEARCH: Survey current news and observable developments affecting
+   the entity. Focus on the period since the last COUNSEL session or
+   evidence update.
+
+2. IDENTIFY: Select the 3 most important specific decisions the
+   entity's leadership faces. Each decision must be:
+   • A concrete choice between identifiable paths (not an abstract
+     strategic orientation)
+   • Time-sensitive (delay has consequences; the decision is arriving)
+   • Grounded in observable evidence (news, data, diplomatic signals)
+   • Selected to maximise coverage of the decision space — the 3
+     decisions should span different domains or constraints, not
+     cluster on a single axis
+
+3. REVEALED PREFERENCE CHECK: Before deepening, check whether
+   the entity has faced a structurally analogous decision before.
+   Consult the COUNSEL file (Material Options, evidence updates),
+   MEM corpus, and ARC–DECISION–POINTS record for precedents.
+   If a precedent exists, note what the leadership actually did —
+   not what structural logic predicted, but what was chosen.
+   Revealed preferences are more predictive than structural
+   analysis for personalist systems. Format: one line per
+   decision point where a precedent exists.
+   Example: "Precedent: After Midnight Hammer (June 2025),
+   leadership chose verbal condemnation without hardware transfer."
+   If no precedent exists, state "No analogous precedent found."
+
+4. FRAME: For each decision, name the specific choice in plain
+   language. Frame it as the leadership experiences it — with the
+   constraints they face, not the constraints an outside observer
+   would impose.
+
+5. ANALYSE: Apply all three analytical perspectives to each decision.
+   The initial presentation must be SHORT AND CONCISE — 2-3 sentences
+   per decision, identifying:
+   • The concrete choice
+   • What the three perspectives see (compressed — one key finding
+     per perspective, not full elaboration)
+   • Where the perspectives converge or diverge
+   • TIME-SENSITIVITY MARKER: Tag each decision point with its
+     urgency window — DAYS, WEEKS, or MONTHS. This tells the
+     user which decisions are most perishable and when to re-run
+     the activity.
+
+   DISCRIMINATING SIGNAL: Each decision point must include one
+   observable indicator that would reveal the decision has been
+   made. This turns analysis into monitoring — after a session,
+   the user knows what to watch in the news. Format: one line
+   per decision point.
+   Example: "Signal: Russian-flagged vessels carrying military
+   cargo transiting the Caspian."
+
+   The goal is low cognitive load and wide coverage. The user scans
+   3 decisions quickly and chooses where to go deeper.
+
+   DECISION POINT INTERACTIONS: After presenting all 3 decision
+   points, note any interactions between them. Some decisions are
+   sequential (can't do X until Y is resolved); some are competing
+   (doing X forecloses Y); some are reinforcing (X and Y share a
+   constraint). Use a simple notation:
+   • "DP1 constrains DP2" — resolving DP1 one way limits DP2's
+     options
+   • "DP2 forecloses DP3" — choosing action on DP2 eliminates DP3
+   • "DP1 ↔ DP3 share constraint" — same binding variable governs
+     both
+   This surfaces the decision architecture — not just three
+   independent choices but the structure connecting them.
+
+6. DEEPEN (user-driven): The user selects a decision point for
+   detailed analysis. Only then apply the full analytical treatment:
+   • Three perspectives elaborated (power, legitimacy, liability)
+   • Grounded in COUNSEL file: Material Options, binding constraints,
+     doctrines, stability indicators
+   • Structural-versus-personal divergence named explicitly
+   • Current news sources cited
+
+   After deepened analysis, present DECISION OPTIONS: specific
+   actions the entity's leadership can take. These must be:
+   • Concrete (nameable actions, not analytical frames)
+   • Entity-oriented (things this state can do, not things an
+     observer recommends)
+   • Mutually exclusive or at least meaningfully distinct
+   • Typically 3 options covering the decision space
+   The user selects an action; the system processes the choice
+   by mapping consequences, identifying what the state gains
+   and loses, and surfacing the structural-versus-personal
+   divergence for that specific action.
+
+   GROUNDING CHECKPOINT (BINDING): After presenting action
+   options, append a single parenthetical line naming which
+   MEM-derived pattern, doctrine, or historical precedent
+   shaped at least one option. Format:
+   "(Grounding: Option [X] shaped by [named pattern/doctrine/
+   precedent])"
+   This is a verification mechanism — it ensures the
+   civilizational memory corpus is influencing the generated
+   options, not just the upstream analysis. If no option can
+   be traced to a MEM-derived source, the options are
+   insufficiently grounded and must be revised.
+
+7. OPTIONS: Decision Points uses its own option structure, not the
+   standard 8-slot recursive options (Section X-A).
+
+   After INITIAL PRESENTATION (step 4):
+   • One option per decision point (matching the 3 identified) +
+     one session closure option
+   • Options are numbered (1, 2, 3, 4) not lettered
+   • Each option names the decision point in one line
+   • The user selects which decision point to deepen
+
+   After DEEPENED ANALYSIS (step 5):
+   • Options are specific actions the entity can take on this
+     decision point — concrete, mutually exclusive paths
+   • Typically 3 options (A, B, C) representing distinct choices
+   • Each option is one sentence naming the action and its
+     primary trade-off
+   • Always include session closure as a final option
+
+   After USER SELECTS AN ACTION:
+   • Present consequence analysis for the chosen action
+   • Follow-on options must always include:
+     - Proceed further into consequences
+     - PRE-MORTEM: "Assume this action was taken and failed —
+       what went wrong?" This reverses cognitive direction and
+       surfaces failure modes that forward-looking analysis
+       misses. When selected, identify the 2-3 most likely
+       failure causes and what the entity could not recover from.
+     - Reconsider (return to action options)
+     - Pivot to another decision point
+     - Session closure
+   • The user controls depth at every step; the system does not
+     front-load
+
+OUTPUT FORMAT:
+Decision Points are presented in the COUNSEL session, not stored
+directly in the COUNSEL file. They feed back to the file through
+the standard evidence-update and assessment-closure mechanisms
+(Option H). When a Decision Point produces evidence that shifts a
+binding constraint or stability indicator, it is recorded in the
+Counsel Log via the normal revision protocol (Section X).
+
+RESPONSE LENGTH:
+• Initial Decision Points presentation (steps 1-4): 2-3 sentences
+  per decision point. Total: ~200-300 words for all 3. Low cognitive
+  load; wide decision-space coverage.
+• Deepened analysis (step 5, user-selected): 200-400 words per
+  decision. Three perspectives applied, grounded in COUNSEL
+  framework, sources cited.
+• The user may always request deeper analysis of any decision point.
+  The system should not front-load depth — present the landscape
+  first, elaborate on request.
+
+GROUNDING REQUIREMENTS:
+• Every decision must cite at least one current news source or
+  observable data point
+• Every decision must reference at least one Material Option,
+  binding constraint, or doctrine from the COUNSEL file (in
+  deepened analysis; initial presentation may reference implicitly)
+• Every deepened three-perspective analysis must produce at least
+  one specific finding per perspective (not generic restatements of
+  each perspective's general orientation)
+
+SOURCE TRANSPARENCY (BINDING):
+When citing data that drives analytical conclusions, distinguish:
+• VERIFIED DATA — official statistics, published government data,
+  named-source reporting from credible outlets. State as fact.
+• PROJECTIONS — analyst forecasts, model outputs, conditional
+  estimates. State as projection and name the assumptions
+  (e.g. "at $52/barrel oil" or "if current draw-down continues").
+• ANONYMOUS / THIN SOURCING — unnamed officials, single-source
+  reports, unverifiable claims. Flag explicitly: name the outlet,
+  note the sourcing limitation, and do not build analytical weight
+  on it without corroboration.
+The system must not present projections as established facts or
+build consequence chains on thinly sourced claims without flagging
+the uncertainty. When challenged on a source, provide the full
+attribution chain (outlet, date, sourcing type, what is verified
+vs projected).
+
+ACTIVITY RECORD (ARC–[CIV]–DECISION–POINTS):
+Each civilization with a COUNSEL file maintains an activity record
+(e.g. ARC–RUSSIA–DECISION–POINTS) with brief entries per session.
+
+Entry format:
+• Date, COUNSEL version, news period, topic (if narrower than
+  general entity assessment)
+• Numbered decision points (one line each), each tagged with
+  time-sensitivity (DAYS / WEEKS / MONTHS) and status
+  (OPEN / RESOLVED / EXPIRED)
+• Historical anchors (minimum two)
+• Session finding (one sentence)
+
+Entry ceiling: **20 lines maximum per session entry.** The full
+analysis lives in the session, not in the record. The ARC file
+is an index, not a summary. If deepened analysis produced key
+findings, compress to one line (e.g. "Key finding: Midnight
+Hammer precedent predicts floor-level response again").
+
+• Each entry must include at least two specific historical
+  anchors (facts, events, people, or places) that were used in
+  the Decision Points analysis. This ensures the record preserves
+  the connection between current decisions and the historical
+  patterns that grounded them.
+
+EXPIRY AND RECURRENCE TRACKING:
+Decision points are tagged OPEN on creation. In subsequent
+sessions, update prior entries:
+• RESOLVED — the decision was made (note what was chosen if
+  observable) or the situation changed to eliminate the choice
+• EXPIRED — the decision window closed without observable action
+When a decision point recurs across sessions (same structural
+choice, new evidence), note the recurrence. Recurring decision
+points are analytically significant — they indicate the
+leadership is deferring the choice. Format in new entry:
+"(Recurs from SESSION [N], DP[X])"
+
+COMPLETENESS:
+Decision Points analysis is subject to the same Duty of Competence
+(Section III) as the COUNSEL file itself. All three analytical
+perspectives must be applied to each decision. Omission of a
+perspective constitutes a completeness violation. In the initial
+presentation, completeness may be achieved in compressed form
+(one finding per perspective); in deepened analysis, full
+elaboration is required.
+
+────────────────────────────────────────────────────────────
 XI. REGISTER RULES (BINDING)
 ────────────────────────────────────────────────────────────
 CIV–COUNSEL files are external-facing. The following terms MUST NOT
@@ -511,6 +977,9 @@ Before finalizing any CIV–COUNSEL file:
 - [ ] Linchpin assumptions identified?
 - [ ] Discriminating evidence documented for every option?
 - [ ] Stability indicators assessed?
+- [ ] Opponent constraint assessment present (when applicable)?
+- [ ] Binding constraints framed as relative where option success
+      depends on opponent's capacity degrading?
 - [ ] All prose in external-facing register (no system-internal terms)?
 - [ ] Duty of competence declaration present in header?
 - [ ] Source files cited where relevant?
