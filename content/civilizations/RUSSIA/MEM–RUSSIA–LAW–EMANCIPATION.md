@@ -187,6 +187,17 @@ GEO (≥2):
 • MEM–GEO–BLACK–SEA — Crimean defeat zone; strategic shock geography
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• reform_failure — Emancipation as preemptive top-down reform that released pressure without resolving structural weakness
+• mechanism_exposure — Crimean defeat exposing serfdom as the binding constraint on modernization
+
+Secondary:
+• institutional_absorption — Zemstvo and legal reforms as attempts to absorb Western institutional forms
+• defection_incentive — Intelligentsia radicalization when partial reform creates expectations without satisfaction
+
+────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:

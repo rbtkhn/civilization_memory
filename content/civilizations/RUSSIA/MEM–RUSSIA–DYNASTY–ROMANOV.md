@@ -321,6 +321,17 @@ Romanov buffer system and its role in dynastic endurance.
 All quotations meet QTT–ARC analytical threshold.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• legitimacy_through_continuity — 304-year dynasty deriving authority from institutional persistence after the Troubles
+• succession_crisis — Recurring vulnerability at each transition point from Michael to Nicholas II
+
+Secondary:
+• civilizational_grammar — Autocratic pattern preserved across Peter's rupture, Catherine's stabilization, and Alexander's reforms
+• elite_circulation — Service nobility rotation as the dynasty's buffering mechanism against autocratic overload
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Massie, Robert K. *Peter the Great: His Life and World*. Alfred A. Knopf, 1980.

@@ -385,6 +385,17 @@ Cross-civilizational:
 • MEM–EUROPA–COLD–WAR — Bipolar system created
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• coercive_enforcement — Terror, purges, and forced collectivization as state-building instruments
+• compression_under_pressure — Crash industrialization converting agrarian society into war capacity
+
+Secondary:
+• legitimacy_through_suffering — WWII victory harvested as foundational legitimacy claim
+• personal_exposure — Purges driven by personal paranoia with systemic state consequences
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:

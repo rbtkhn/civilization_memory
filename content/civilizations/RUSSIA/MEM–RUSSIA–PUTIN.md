@@ -229,6 +229,17 @@ Cross-civilizational:
 • MEM–RUSSIA–CHINA–SILK–ROAD — contemporary policy
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• regional_hegemony — Restoration of Russia as dominant power in post-Soviet space
+• authority_translation — Converting security-state control into legitimacy through stability
+
+Secondary:
+• personal_exposure — Personalist system where leader's survival horizon drives state policy
+• security_competition — NATO expansion and Ukraine as structural drivers of confrontation
+
+────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Kissinger, Henry. *World Order*. New York: Penguin, 2014.

@@ -363,6 +363,17 @@ Cross-civilizational GEO:
 • MEM–CENTRAL–ASIA–GEO–STEPPE — central steppe
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• steppe_denial — Open terrain forcing expansion or absorption of nomadic pressure
+• corridor_primacy — Flat grassland as the primary invasion and migration corridor across Eurasia
+
+Secondary:
+• expansion_ceiling — Terrain transition zones (forest, mountain) defining natural limits of steppe power
+• strategic_depth — Steppe vastness providing defensive depth through overextension of invaders
+
+────────────────────────────────────────────────────────────
 XVII. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.

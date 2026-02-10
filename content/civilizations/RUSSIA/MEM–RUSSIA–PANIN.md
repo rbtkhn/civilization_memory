@@ -309,6 +309,17 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Single-faction dependence (post-1783) increases vulnerability to partner failure.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• balance_of_power — Northern Accord as equilibrium-based diplomatic architecture
+• offshore_balancing — Panin's preference for alliance-managed restraint over unilateral expansion
+
+Secondary:
+• buck_passing — Shifting defensive burden to coalition partners in the northern system
+• elite_circulation — Panin's displacement by Potemkin as factional rotation in Catherine's court
+
+────────────────────────────────────────────────────────────
 VIII. ACADEMIC REFERENCES (LMM-COMPLIANT)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven — *Empire: The Russian Empire and Its Rivals* (2000)

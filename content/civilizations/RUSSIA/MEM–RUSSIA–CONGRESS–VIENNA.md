@@ -232,6 +232,17 @@ XI. CONTINUITY INSIGHTS (RAW)
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• authority_translation — Converting wartime sacrifice into recognized diplomatic authority
+• balance_of_power — Concert of Europe as codified equilibrium preventing renewed hegemony
+
+Secondary:
+• legitimacy_through_suffering — 1812 sacrifice as foundation for Russia's seat at the table
+• regional_hegemony — Russia as arbiter of post-revolutionary European order
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 Category B (Primary/Near-Primary):

@@ -1,13 +1,65 @@
-CIV–COUNSEL–TEMPLATE — v1.6
+CIV–COUNSEL–TEMPLATE — v1.8
 Civilizational Memory Codex · Counsel File Template
 
 Status: ACTIVE · CANONICAL
-Version: 1.6
-Supersedes: CIV–COUNSEL–TEMPLATE v1.5
-Upgrade Type: OPPONENT CONSTRAINT ASSESSMENT · RELATIVE BINDING CONSTRAINT
+Version: 1.8
+Supersedes: CIV–COUNSEL–TEMPLATE v1.7
+Upgrade Type: SIX NEW SESSION ACTIVITIES
 Class: CIV–COUNSEL–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
 Last Update: 10 February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8) — SIX NEW COUNSEL SESSION ACTIVITIES
+────────────────────────────────────────────────────────────
+COUNSEL mode previously had two session mechanisms: Recursive
+Analysis (X-A, the standard 8-slot options menu) and Decision
+Points (X-B, time-sensitive leadership choices). Decision Points
+exposed analytical gaps it could not fill — stability monitoring,
+assumption validation, consequence projection, behavioural
+prediction, relational dynamics, and pattern maintenance.
+
+Six new session activities fill these gaps:
+1. STABILITY WATCH (X-C): Periodic assessment of the 5 stability
+   indicators with 30/60/90-day directional forecasts. Produces
+   early warning signals. Updates Section VI.
+2. ASSUMPTION STRESS TEST (X-D): Deliberate falsification of
+   linchpin assumptions. Searches for disconfirming evidence.
+   Updates Key Assumptions and confidence levels in Section IV.
+3. SCENARIO TREE (X-E): Forward projection from trigger events
+   through branching consequences. Produces conditional forecasts
+   with probabilities. Creates monitoring frameworks.
+4. REVEALED PREFERENCE TRACKER (X-F): Accumulates behavioural
+   data points and generates predictions based on what the
+   leadership actually chose. Updates Section VII.
+5. CROSS-ENTITY PRESSURE TEST (X-G): Stress-tests relationships
+   between entities from both sides. Produces interaction dynamics.
+   Updates Section VIII.
+6. PATTERN AUDIT (X-H): Validates patterns in Decision-Relevant
+   History against current evidence. Prevents silent framework
+   degradation. Updates Section VII activation levels.
+
+Summary table and inter-activity triggers in Section X-I.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.7) — MEM SCAN STEP IN DECISION POINTS
+────────────────────────────────────────────────────────────
+Session 004 exposed a gap: the Decision Points procedure
+surveyed current news (step 1) but had no mechanism to
+consult the MEM corpus for relevant historical parallels
+before identifying decisions. The 1917 opponent morale
+collapse parallel was missed because no MEM scan preceded
+the analysis.
+
+Fix: New step 2 (MEM SCAN) in the Decision Points procedure
+requires consulting MEM–RELEVANCE–[CIV].md (or the COUNSEL
+file's Section VII as fallback) to load relevant MEMs before
+decision-point identification. This ensures the civilisational
+memory corpus informs the identification phase — not just the
+downstream grounding checkpoint.
+
+Procedure step numbers incremented: old steps 2–7 become 3–8.
+All internal references updated.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.6) — OPPONENT CONSTRAINT ASSESSMENT
@@ -51,20 +103,20 @@ UPGRADE NOTE (v1.5) — DECISION POINTS ENHANCEMENTS
 Six enhancements to Section X-B based on creative review of the
 Decision Points activity after two live sessions:
 
-1. REVEALED PREFERENCE CHECK (new step 3): Before deepening,
+1. REVEALED PREFERENCE CHECK (new step 4): Before deepening,
    check whether the entity has faced an analogous decision
    before and what it actually chose. Revealed preferences beat
    structural logic for predicting personalist systems.
-2. TIME-SENSITIVITY MARKER (step 5): Tag each decision point
+2. TIME-SENSITIVITY MARKER (step 6): Tag each decision point
    DAYS / WEEKS / MONTHS. Tells user which decisions are most
    perishable.
-3. DISCRIMINATING SIGNAL (step 5): One observable indicator per
+3. DISCRIMINATING SIGNAL (step 6): One observable indicator per
    decision point that reveals the decision has been made.
    Turns analysis into monitoring.
-4. DECISION POINT INTERACTIONS (step 5): Note whether decisions
+4. DECISION POINT INTERACTIONS (step 6): Note whether decisions
    constrain, foreclose, or share constraints with each other.
    Surfaces the decision architecture.
-5. PRE-MORTEM (step 7): After user selects action, always offer
+5. PRE-MORTEM (step 8): After user selects action, always offer
    "Assume this failed — what went wrong?" Reverses cognitive
    direction to surface hidden failure modes.
 6. EXPIRY / RECURRENCE TRACKING (Activity Record): Decision
@@ -633,6 +685,21 @@ DISTINCTION FROM SCHOLAR OPTIONS:
 • SCHOLAR H produces a learning synthesis
 • COUNSEL H produces actionable COUNSEL file update proposals
 
+ACTIVITY MENU (PERSISTENT):
+After the 8-slot options, append a single-line activity menu:
+
+"Activities: decision points | stability watch | stress test |
+scenario tree | revealed preference | pressure test | pattern audit"
+
+This line appears after EVERY substantive turn in standard recursive
+analysis. It is suppressed when an activity is active (the activity's
+own option structure replaces both the 8-slot menu and the activity
+menu). It reappears when the user exits the activity.
+
+The activity menu is FIXED — same text every turn. It is a capability
+reminder, not a context-dependent suggestion. The user invokes an
+activity by typing its name (or a recognisable abbreviation).
+
 ────────────────────────────────────────────────────────────
 X-B. DECISION POINTS (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
@@ -677,7 +744,19 @@ PROCEDURE:
    the entity. Focus on the period since the last COUNSEL session or
    evidence update.
 
-2. IDENTIFY: Select the 3 most important specific decisions the
+2. MEM SCAN: Before identifying decision points, consult the
+   MEM relevance index (MEM–RELEVANCE–[CIV].md) for the entity.
+   Based on the topics surfaced in step 1, identify which analytical
+   dimensions are in play (e.g. attrition/endurance, fiscal constraint,
+   morale collapse, settlement precedent, escalation, partnership).
+   Load the primary MEMs listed under those dimensions. This ensures
+   the civilizational memory corpus informs decision-point identification
+   — not just the downstream analysis.
+   If no MEM relevance index exists for the entity, consult the
+   COUNSEL file's Decision-Relevant History (Section VII) and
+   Material Options evidence updates as the minimum MEM scan.
+
+3. IDENTIFY: Select the 3 most important specific decisions the
    entity's leadership faces. Each decision must be:
    • A concrete choice between identifiable paths (not an abstract
      strategic orientation)
@@ -687,7 +766,7 @@ PROCEDURE:
      decisions should span different domains or constraints, not
      cluster on a single axis
 
-3. REVEALED PREFERENCE CHECK: Before deepening, check whether
+4. REVEALED PREFERENCE CHECK: Before deepening, check whether
    the entity has faced a structurally analogous decision before.
    Consult the COUNSEL file (Material Options, evidence updates),
    MEM corpus, and ARC–DECISION–POINTS record for precedents.
@@ -700,12 +779,12 @@ PROCEDURE:
    leadership chose verbal condemnation without hardware transfer."
    If no precedent exists, state "No analogous precedent found."
 
-4. FRAME: For each decision, name the specific choice in plain
+5. FRAME: For each decision, name the specific choice in plain
    language. Frame it as the leadership experiences it — with the
    constraints they face, not the constraints an outside observer
    would impose.
 
-5. ANALYSE: Apply all three analytical perspectives to each decision.
+6. ANALYSE: Apply all three analytical perspectives to each decision.
    The initial presentation must be SHORT AND CONCISE — 2-3 sentences
    per decision, identifying:
    • The concrete choice
@@ -741,7 +820,7 @@ PROCEDURE:
    This surfaces the decision architecture — not just three
    independent choices but the structure connecting them.
 
-6. DEEPEN (user-driven): The user selects a decision point for
+7. DEEPEN (user-driven): The user selects a decision point for
    detailed analysis. Only then apply the full analytical treatment:
    • Three perspectives elaborated (power, legitimacy, liability)
    • Grounded in COUNSEL file: Material Options, binding constraints,
@@ -773,17 +852,17 @@ PROCEDURE:
    be traced to a MEM-derived source, the options are
    insufficiently grounded and must be revised.
 
-7. OPTIONS: Decision Points uses its own option structure, not the
+8. OPTIONS: Decision Points uses its own option structure, not the
    standard 8-slot recursive options (Section X-A).
 
-   After INITIAL PRESENTATION (step 4):
+   After INITIAL PRESENTATION (step 5):
    • One option per decision point (matching the 3 identified) +
      one session closure option
    • Options are numbered (1, 2, 3, 4) not lettered
    • Each option names the decision point in one line
    • The user selects which decision point to deepen
 
-   After DEEPENED ANALYSIS (step 5):
+   After DEEPENED ANALYSIS (step 6):
    • Options are specific actions the entity can take on this
      decision point — concrete, mutually exclusive paths
    • Typically 3 options (A, B, C) representing distinct choices
@@ -818,7 +897,7 @@ RESPONSE LENGTH:
 • Initial Decision Points presentation (steps 1-4): 2-3 sentences
   per decision point. Total: ~200-300 words for all 3. Low cognitive
   load; wide decision-space coverage.
-• Deepened analysis (step 5, user-selected): 200-400 words per
+• Deepened analysis (step 7, user-selected): 200-400 words per
   decision. Three perspectives applied, grounded in COUNSEL
   framework, sources cited.
 • The user may always request deeper analysis of any decision point.
@@ -897,6 +976,680 @@ perspective constitutes a completeness violation. In the initial
 presentation, completeness may be achieved in compressed form
 (one finding per perspective); in deepened analysis, full
 elaboration is required.
+
+────────────────────────────────────────────────────────────
+X-C. STABILITY WATCH (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Stability Watch is a COUNSEL session activity that systematically
+assesses the entity's internal stability indicators against current
+evidence. It asks: how much stress is the system under?
+
+ORIENTATION:
+Stability Watch is system-oriented, not leadership-oriented. It
+tracks the structural health of the entity's governance system —
+ideological coherence, elite cohesion, popular legitimacy,
+institutional function, narrative control — regardless of what the
+leadership is currently deciding. Stress signals may exist even when
+no decision is pending.
+
+DISTINCTION FROM DECISION POINTS:
+Decision Points is event-driven and produces leadership choices.
+Stability Watch is periodic and produces early warning signals. A
+Stability Watch session may trigger a Decision Points session (if a
+stress signal reveals a choice the leadership must make), but it can
+also run independently when the decision landscape is quiet.
+
+| Decision Points | Stability Watch |
+|-----------------|-----------------|
+| "What must the leader choose?" | "How stressed is the system?" |
+| Event-driven (news triggers) | Periodic (weekly/fortnightly) |
+| Produces decisions and actions | Produces directional forecasts and threshold signals |
+| Feeds evidence to Material Options | Feeds updates to Stability Indicators (Section VI) |
+
+PROCEDURE:
+1. SCAN: Survey current news and observable developments for
+   indicators of internal stress. Focus on the five stability
+   indicators defined in the COUNSEL file's Section VI.
+
+2. MEM SCAN: Consult MEM–RELEVANCE–[CIV].md dimensions VIII
+   (Legitimacy / Civilizational Continuity) and III (Morale Collapse
+   / Defection Cascade) for relevant historical parallels to current
+   stress patterns.
+
+3. PRESENT: Display all 5 indicators with current status (STABLE /
+   STRESSED / CRITICAL), direction arrow (IMPROVING / STABLE /
+   DEGRADING), and one-line evidence summary. Format:
+
+   | Indicator | Status | Direction | Evidence |
+   |-----------|--------|-----------|----------|
+   | [Name] | [Status] | [Arrow] | [One-line summary] |
+
+   After the table, note any cross-indicator interactions (e.g. "if
+   elite cohesion degrades further, narrative control likely follows").
+
+4. FORECAST: For each indicator, provide a 30/60/90-day directional
+   forecast with the assumption that must hold:
+   "Elite cohesion: STABLE at 30 days IF defence budget reduction
+   does not trigger visible factional competition."
+   These forecasts are testable — the next Stability Watch session
+   validates or falsifies them.
+
+5. DEEPEN (user-driven): User selects one indicator for detailed
+   analysis. Apply all three analytical perspectives to that
+   indicator's trajectory:
+   • Legitimacy: How does this stress signal affect the regime's
+     self-justification?
+   • Power: Does this stress signal constrain the entity's material
+     capabilities?
+   • Liability: Does this stress signal change personal exposure
+     calculations for the leadership or inner circle?
+
+   After deepening, present:
+   • Threshold signal: what observable evidence would move this
+     indicator to the next level (e.g. STRESSED -> CRITICAL)?
+   • Cross-indicator cascade: if this indicator moves, which others
+     shift and in what direction?
+   • Historical parallel from MEM corpus (minimum one named example)
+
+6. OPTIONS: Stability Watch uses its own option structure:
+   After INITIAL PRESENTATION (step 3):
+   • One option per indicator (numbered 1-5) to deepen
+   • Option 6: Cross-indicator cascade analysis
+   • Option 7: Session closure
+
+   After DEEPENED ANALYSIS (step 5):
+   • Return to indicator menu
+   • Deepen a different indicator
+   • Compare this indicator to a historical parallel
+   • Session closure
+
+RESPONSE LENGTH:
+• Initial presentation (steps 1-4): ~200-300 words total (table +
+  forecasts + cross-indicator note)
+• Deepened analysis (step 5): 200-400 words per indicator
+• The user controls depth at every step
+
+SESSION CLOSURE:
+When user selects session closure, deliver:
+1. Session recap (6-10 words)
+2. Summary: which indicators changed direction since last session;
+   which forecasts from prior session were validated/falsified
+3. Proposed updates to Section VI of the COUNSEL file
+4. Any threshold signals that warrant a Decision Points session
+
+ACTIVITY RECORD (ARC–[CIV]–STABILITY–WATCH):
+Each civilization with a COUNSEL file maintains a Stability Watch
+record. Entry format:
+• Date, COUNSEL version, assessment period
+• 5-indicator status table (one line per indicator: name, status,
+  direction, change from prior session)
+• Forecasts validated/falsified from prior session (if applicable)
+• Session finding (one sentence)
+Entry ceiling: 15 lines maximum per session entry.
+
+────────────────────────────────────────────────────────────
+X-D. ASSUMPTION STRESS TEST (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Assumption Stress Test is a COUNSEL session activity that
+deliberately attacks the linchpin assumptions underlying Material
+Options. It asks: what are we wrong about?
+
+ORIENTATION:
+The activity is framework-oriented, not entity-oriented or event-
+oriented. It treats the COUNSEL file's own analytical structure as
+the object of analysis. The goal is to find where the framework is
+weakest — which assumption has the least evidentiary support, which
+is most vulnerable to falsification, which would cause the largest
+cascade if it broke.
+
+DISTINCTION FROM DECISION POINTS:
+Decision Points takes assumptions as given and works within them.
+Assumption Stress Test attacks the assumptions themselves. Decision
+Points is constructive (builds the decision space); Stress Test is
+destructive (breaks the framework to find weak points).
+
+| Decision Points | Assumption Stress Test |
+|-----------------|------------------------|
+| "What should the leader do?" | "What are we wrong about?" |
+| Works within assumptions | Attacks assumptions |
+| Produces decisions | Produces revised confidence levels |
+| Event-driven | Framework-driven (run when assumptions age) |
+
+PROCEDURE:
+1. EXTRACT: List all linchpin assumptions across all Material
+   Options. For each, note:
+   • Parent option (A, B, C, D...)
+   • Current evidence status (SUPPORTED / UNTESTED / STALE)
+   • Date of last evidence update
+   • How long since last test (staleness signal)
+
+2. RECOMMEND: Rank assumptions by vulnerability. The system
+   recommends the assumption with the weakest current evidence or
+   the longest time since last test. The user may override and
+   select any assumption.
+
+3. FALSIFY: For the selected assumption, conduct a deliberate
+   search for disconfirming evidence:
+   • News search for evidence that contradicts the assumption
+   • MEM scan for historical cases where the analogous assumption
+     failed
+   • Three-perspective falsification: what would each perspective
+     accept as proof this assumption is wrong?
+     - Legitimacy: What legitimacy development would falsify it?
+     - Power: What capability or structural shift would falsify it?
+     - Liability: What leadership behaviour would falsify it?
+
+4. PRE-MORTEM: "Assume this assumption was false 6 months ago — what
+   would the world look like? Does it look like that?" This reverses
+   cognitive direction: instead of asking "is the assumption still
+   true?" ask "if it were already false, would we have noticed?"
+
+5. ASSESS: Based on steps 3-4, classify the assumption:
+   • CONFIRMED — new evidence strengthens it
+   • HOLDS — no disconfirming evidence found, but no new support either
+   • WEAKENED — partial disconfirming evidence exists
+   • FALSIFIED — clear evidence that the assumption no longer holds
+
+   If WEAKENED or FALSIFIED: propose revised confidence level for
+   the parent Material Option and identify cascade effects on other
+   options that share the assumption or depend on it.
+
+6. OPTIONS: Assumption Stress Test uses its own option structure:
+   After INITIAL PRESENTATION (step 1):
+   • One option per linchpin assumption (numbered)
+   • System-recommended assumption flagged with "(recommended)"
+   • Final option: Session closure
+
+   After FALSIFICATION ANALYSIS (steps 3-5):
+   • Test another assumption
+   • Deepen: explore cascade effects if this assumption fails
+   • Pre-mortem: run step 4 on a different assumption
+   • Session closure
+
+RESPONSE LENGTH:
+• Initial extraction (step 1): ~200-300 words (table of assumptions)
+• Falsification analysis (steps 3-5): 200-400 words per assumption
+• Pre-mortem: 100-200 words
+
+SESSION CLOSURE:
+When user selects session closure, deliver:
+1. Session recap (6-10 words)
+2. Summary: which assumptions were tested, classification result
+3. Proposed updates to Key Assumptions and confidence levels in
+   the COUNSEL file's Material Options (Section IV)
+4. Discriminating signals: "assumption X will be falsified within
+   N months if Y occurs" — creates a monitoring checklist
+
+ACTIVITY RECORD:
+Assumption Stress Test does not require a separate ARC file. Its
+output feeds directly into the existing Evidence Update mechanism
+in Material Options. Session results are recorded in the Counsel
+Log (Section IX) with type tag "STRESS TEST."
+
+────────────────────────────────────────────────────────────
+X-E. SCENARIO TREE (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Scenario Tree is a COUNSEL session activity that projects forward
+from a trigger event or decision through branching consequences.
+It asks: if X happens, then what?
+
+ORIENTATION:
+Scenario Tree is consequence-oriented, not choice-oriented. Where
+Decision Points asks "what should the leader choose?", Scenario
+Tree follows a specific choice or event through its downstream
+effects across multiple time horizons. The output is conditional
+forecasts, not action recommendations.
+
+DISTINCTION FROM DECISION POINTS:
+
+| Decision Points | Scenario Tree |
+|-----------------|---------------|
+| "What should the leader choose?" | "If X happens, then what?" |
+| One time horizon (now) | Multiple horizons (30 days, 90 days, 12 months) |
+| Produces action options | Produces conditional forecasts |
+| Breadth (3 decisions) | Depth (2-3 branch levels from one trigger) |
+
+PROCEDURE:
+1. TRIGGER: User names a trigger event, decision, or binding
+   constraint shift. Examples:
+   • "Russia refuses settlement by June deadline"
+   • "Elite cohesion moves to CRITICAL"
+   • "Ukraine's manpower constraint produces front-line collapse"
+   The trigger must be specific and observable — not an abstract
+   trend but a concrete development.
+
+2. MEM SCAN: Consult MEM–RELEVANCE–[CIV].md for historical
+   parallels to the trigger event. Load primary MEMs that inform
+   how similar triggers played out historically.
+
+3. BRANCH (Level 1): Project 2-3 immediate consequences of the
+   trigger (30-day horizon). Each branch must be:
+   • Mutually exclusive or at least meaningfully distinct
+   • Grounded in at least one analytical perspective
+   • Assigned a conditional probability (HIGH / MODERATE / LOW)
+   • Named with a short label (e.g. "Escalation response",
+     "Diplomatic pivot", "Internal absorption")
+
+   Present branches as a compact list (one sentence each) with
+   probability and the perspective that most supports it.
+
+4. DEEPEN (user-driven): User selects a branch. System projects
+   2-3 second-order consequences (90-day horizon). Same format:
+   each sub-branch gets a label, conditional probability, and
+   grounding perspective.
+
+   At each node apply:
+   • Three-perspective assessment (compressed: one finding per
+     perspective)
+   • Revealed-preference check: does the leadership's behavioural
+     record predict this branch?
+   • Historical parallel from MEM corpus (minimum one)
+
+5. CONVERGE: After 2-3 levels of branching, identify convergence
+   points — different paths that lead to the same structural
+   outcome. This reveals which outcomes are overdetermined (multiple
+   paths lead there) versus fragile (only one path leads there).
+
+6. OPTIONS: Scenario Tree uses its own option structure:
+   After INITIAL BRANCHING (step 3):
+   • One option per branch (numbered) to deepen
+   • Option to add a branch the system missed
+   • Session closure
+
+   After DEEPENED BRANCH (step 4):
+   • Deepen further (third level, 12-month horizon)
+   • Return to Level 1 and deepen a different branch
+   • Convergence analysis (step 5)
+   • Session closure
+
+RESPONSE LENGTH:
+• Initial branching (step 3): ~200-300 words (trigger + 2-3
+  branches with probabilities)
+• Deepened branch (step 4): 200-400 words per branch level
+• Convergence analysis: 100-200 words
+
+SESSION CLOSURE:
+When user selects session closure, deliver:
+1. Session recap (6-10 words)
+2. Compact tree summary: trigger -> branches -> sub-branches, with
+   conditional probabilities at each node
+3. Convergence findings: which outcomes are overdetermined
+4. Monitoring framework: discriminating signal for each branch
+   ("watch for X; if it happens, branch A activates")
+5. Proposed COUNSEL file updates if any branch shifts a binding
+   constraint or Material Option confidence
+
+ACTIVITY RECORD (ARC–[CIV]–SCENARIO–TREES):
+Each civilization with a COUNSEL file maintains a Scenario Tree
+record. Entry format:
+• Date, COUNSEL version, trigger event
+• Tree summary: trigger -> branch labels with probabilities
+  (compact notation, e.g. "Trigger: June deadline breach ->
+  A: Escalation (MOD) / B: Pivot (LOW) / C: Freeze (HIGH)")
+• Key convergence point (one line)
+• Discriminating signal for highest-probability branch
+Entry ceiling: 15 lines maximum per session entry.
+
+────────────────────────────────────────────────────────────
+X-F. REVEALED PREFERENCE TRACKER (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Revealed Preference Tracker is a COUNSEL session activity that
+builds and maintains a behavioural profile of the entity's
+leadership based on what they actually chose. It asks: given what
+this leadership has done, what does the pattern predict next?
+
+ORIENTATION:
+The activity is behaviour-oriented. It treats the leadership's
+actual decisions — not structural logic, not legitimacy analysis —
+as the primary predictive input. The Revealed Preference pattern
+(documented in Decision-Relevant History, Section VII) established
+a diagnostic hierarchy for personalist systems: revealed preference
+> structural logic > legitimacy analysis. This activity
+operationalises that hierarchy by accumulating data points and
+generating predictions.
+
+DISTINCTION FROM DECISION POINTS:
+Decision Points uses revealed preference as one input among many.
+The Tracker makes it the central analytical product. Decision Points
+is forward-looking; the Tracker is retrospective accumulation that
+feeds forward prediction.
+
+| Decision Points | Revealed Preference Tracker |
+|-----------------|-----------------------------|
+| Uses revealed preference as one input | Revealed preference is the central product |
+| Forward-looking (what to choose) | Retrospective accumulation feeding prediction |
+| Produces action options | Produces behavioural predictions |
+| Event-driven | Data-point-driven (run when new decisions are observable) |
+
+PROCEDURE:
+1. PRESENT RECORD: Display the current revealed-preference record
+   from the COUNSEL file. For each prior data point, show:
+   • Decision (what was chosen)
+   • Date
+   • Structural prediction (what power logic predicted)
+   • Legitimacy prediction (what legitimacy logic predicted)
+   • Liability prediction (what personal-survival logic predicted)
+   • Actual outcome: which prediction matched
+   • Current hierarchy confidence (e.g. "liability > structural >
+     legitimacy, validated N/N times")
+
+2. ADD DATA POINT: User provides a new observable decision, or the
+   system identifies one from current news. For each new data point:
+   • Name the decision and date
+   • Classify: what did each analytical perspective predict?
+   • What did the leadership actually choose?
+   • Which perspective's prediction matched?
+   • Update the hierarchy score
+
+3. PREDICT: When a current Decision Point is active (from a Decision
+   Points session or from news), generate a revealed-preference
+   prediction separate from the standard three-perspective analysis:
+   "Based on [N] prior decisions where perspectives diverged, revealed
+   preference predicts the leadership will choose [X]. Confidence:
+   [level based on sample size and consistency]."
+
+   This prediction is stated as a standalone finding — not blended
+   with structural or legitimacy analysis. The three perspectives
+   remain available for context, but the behavioural prediction
+   stands alone.
+
+4. TEST: If a prior prediction can now be evaluated (the decision
+   was made and is observable), score it:
+   • CORRECT — prediction matched actual choice
+   • PARTIALLY CORRECT — prediction matched direction but not
+     magnitude or timing
+   • INCORRECT — prediction did not match
+   Update the hierarchy confidence accordingly.
+
+5. OPTIONS: Revealed Preference Tracker uses its own option structure:
+   After RECORD PRESENTATION (step 1):
+   • Add a new data point (step 2)
+   • Generate prediction for current Decision Point (step 3)
+   • Test a prior prediction (step 4)
+   • Examine an anomaly (a decision that broke the hierarchy)
+   • Session closure
+
+RESPONSE LENGTH:
+• Record presentation (step 1): ~200-300 words (table of data
+  points + hierarchy summary)
+• New data point (step 2): 100-200 words
+• Prediction (step 3): 100-200 words
+• Test (step 4): 100-200 words
+
+SESSION CLOSURE:
+When user selects session closure, deliver:
+1. Session recap (6-10 words)
+2. Updated hierarchy with confidence level
+3. Current prediction (if any active Decision Point exists)
+4. Proposed updates to Section VII (Revealed Preference pattern)
+
+ACTIVITY RECORD:
+Revealed Preference Tracker entries are recorded within
+ARC–[CIV]–DECISION–POINTS under a dedicated "REVEALED PREFERENCE
+LOG" section. Each entry is one line per data point:
+"[Date] | [Decision] | Predicted: [perspective] | Actual:
+[perspective] | Hierarchy: [current ranking]"
+This keeps the behavioural record co-located with the decision
+record it feeds into.
+
+────────────────────────────────────────────────────────────
+X-G. CROSS-ENTITY PRESSURE TEST (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Cross-Entity Pressure Test is a COUNSEL session activity that
+stress-tests a relationship between two entities by analysing how
+each side's constraint structure affects the other. It asks: how do
+these entities' decisions interact?
+
+ORIENTATION:
+The activity is relational — it analyses the dyad (or triad), not a
+single entity. Where Decision Points treats other entities as
+background, Pressure Test treats them as co-agents with their own
+constraint structures, Material Options, and revealed preferences.
+
+DISTINCTION FROM DECISION POINTS:
+
+| Decision Points | Cross-Entity Pressure Test |
+|-----------------|----------------------------|
+| Single-entity (what must this leader choose?) | Dyadic (how do two entities' choices interact?) |
+| Other entities as background | Other entities as co-agents |
+| Produces this entity's choices | Produces interaction dynamics |
+| Grounded in one COUNSEL file | Grounded in two COUNSEL files (or one + opponent model) |
+
+APPLICABILITY:
+Cross-Entity Pressure Test requires one of:
+• Two COUNSEL files (both entities have CIV–COUNSEL files)
+• One COUNSEL file + an Opponent Constraint Assessment (Section VI-B)
+  for the other entity
+• One COUNSEL file + a Cross-Entity Link (Section VIII) rich enough
+  to construct a constraint model for the other entity
+
+If insufficient data exists for the second entity, the system should
+flag this and propose constructing a minimal constraint model before
+proceeding.
+
+PROCEDURE:
+1. IDENTIFY: User names the relationship to pressure-test (e.g.
+   "Russia-China economic dependency", "Russia-Iran partnership
+   credibility", "Russia-Ukraine attrition race").
+
+2. LOAD: Load both entities' COUNSEL files (or construct opponent
+   model from Section VI-B and Section VIII). Extract:
+   • Each entity's relevant Material Options
+   • Each entity's binding constraints that involve the other
+   • The Cross-Entity Link description from Section VIII
+   • Any Revealed Preference data relevant to the relationship
+
+3. MAP: Present the relationship structure:
+   • What does each side need from the relationship?
+   • Where do incentives align? Where do they diverge?
+   • What is the power asymmetry? (who needs whom more?)
+   • What is the time horizon mismatch? (one side more urgent?)
+   This is the equilibrium state — what holds the relationship
+   together and what strains it.
+
+4. PRESSURE (user-driven): User names a pressure point — a
+   specific action or development that would stress the
+   relationship. Examples:
+   • "China reduces secondary sanctions evasion support"
+   • "Russia fails to deliver S-400 components to India"
+   • "Ukraine's Western support doubles unexpectedly"
+
+   System projects consequences for BOTH entities:
+   • How does this shift each entity's binding constraints?
+   • How does it affect each entity's Material Options?
+   • Three-perspective analysis from each entity's perspective
+   • Does this create a defection incentive for either side?
+
+5. SECOND-ORDER: After first-order consequences, identify:
+   • Does the pressure point trigger a cascade in the other
+     entity's constraint structure?
+   • Does it create a new Decision Point for either leadership?
+   • Does it shift the revealed-preference prediction for either?
+
+6. OPTIONS: Cross-Entity Pressure Test uses its own option structure:
+   After RELATIONSHIP MAP (step 3):
+   • Numbered pressure points (system suggests 2-3 + user may add)
+   • Session closure
+
+   After PRESSURE ANALYSIS (steps 4-5):
+   • Test a different pressure point
+   • Deepen: second-order cascade for this pressure point
+   • Reverse: same pressure point but from the other entity's view
+   • Session closure
+
+RESPONSE LENGTH:
+• Relationship map (step 3): ~200-300 words
+• Pressure analysis (steps 4-5): 200-400 words per pressure point
+• Second-order cascade: 100-200 words
+
+SESSION CLOSURE:
+When user selects session closure, deliver:
+1. Session recap (6-10 words)
+2. Key finding: the most consequential pressure point identified
+3. Proposed updates to Cross-Entity Links (Section VIII) for the
+   primary entity's COUNSEL file
+4. If a second COUNSEL file exists: proposed updates for that file
+5. Any new Decision Points surfaced by the pressure analysis
+
+ACTIVITY RECORD (ARC–[CIV]–PRESSURE–TESTS):
+Each civilization with a COUNSEL file maintains a Pressure Test
+record. Entry format:
+• Date, COUNSEL version, relationship tested, pressure point(s)
+• Key finding (one sentence)
+• Proposed COUNSEL file update (one line)
+Entry ceiling: 10 lines maximum per session entry.
+
+────────────────────────────────────────────────────────────
+X-H. PATTERN AUDIT (SESSION ACTIVITY)
+────────────────────────────────────────────────────────────
+Pattern Audit is a COUNSEL session activity that validates the
+patterns documented in the COUNSEL file's Decision-Relevant History
+(Section VII) against current evidence. It asks: are our patterns
+still valid?
+
+ORIENTATION:
+The activity is meta-analytical — it analyses the analytical
+framework itself, not the entity or its decisions. Patterns are the
+COUNSEL file's accumulated intelligence about how this entity
+behaves under specific constraint configurations. If a pattern is
+stale, weakened, or falsified, the framework's predictive power
+degrades silently. Pattern Audit prevents silent degradation.
+
+DISTINCTION FROM DECISION POINTS:
+Decision Points uses patterns as inputs. Pattern Audit validates the
+patterns themselves. Decision Points is forward-looking; Pattern
+Audit is retrospective-diagnostic.
+
+| Decision Points | Pattern Audit |
+|-----------------|---------------|
+| Uses patterns | Validates patterns |
+| Forward-looking | Retrospective-diagnostic |
+| Produces decisions | Produces confidence updates on the framework |
+| Event-driven | Framework-driven (run when patterns age) |
+
+PROCEDURE:
+1. EXTRACT: List all patterns from the COUNSEL file's Section VII
+   with current activation level (HIGH / MODERATE / LOW), date of
+   last evidence, and staleness assessment:
+   • FRESH — last evidence within 30 days
+   • AGING — last evidence 30-90 days old
+   • STALE — last evidence >90 days old
+
+2. RECOMMEND: Rank patterns by audit priority. Priority order:
+   (a) STALE patterns with HIGH activation (most dangerous: high
+       confidence with old evidence)
+   (b) Patterns with recent disconfirming evidence
+   (c) Patterns that have never been tested against a real outcome
+   The user may override and select any pattern.
+
+3. TEST: For the selected pattern, conduct a validation:
+   • What does the pattern predict for the current situation?
+   • Search for evidence that confirms or disconfirms the prediction
+   • Three-perspective assessment: does each perspective see the
+     pattern as confirmed, weakened, or falsified?
+   • Historical comparison: does the original MEM-derived evidence
+     still hold, or has the current situation diverged from the
+     historical parallel?
+
+4. CROSS-PATTERN: Assess whether validating or falsifying this
+   pattern affects others:
+   • Does this pattern share assumptions with another pattern?
+   • If this pattern is falsified, does it weaken a related pattern?
+   • Has a new pattern emerged from recent sessions that this audit
+     should formalise?
+
+5. CLASSIFY: Rate the pattern:
+   • CONFIRMED — new evidence strengthens activation
+   • HOLDS — no change in evidence
+   • WEAKENED — partial disconfirming evidence
+   • FALSIFIED — clear evidence that the pattern no longer applies
+
+   If WEAKENED or FALSIFIED: propose revised activation level and
+   assess impact on Material Options that depend on the pattern.
+   If a new pattern has emerged: propose formalisation with
+   activation level, source, and relevance statement.
+
+6. OPTIONS: Pattern Audit uses its own option structure:
+   After PATTERN LIST (step 1):
+   • One option per pattern (numbered), system-recommended flagged
+   • Option to propose a new pattern for formalisation
+   • Session closure
+
+   After VALIDATION (steps 3-5):
+   • Audit another pattern
+   • Deepen: cross-pattern cascade analysis
+   • Propose new pattern for formalisation
+   • Session closure
+
+RESPONSE LENGTH:
+• Pattern list (step 1): ~200-300 words (table of patterns)
+• Validation (steps 3-5): 200-400 words per pattern
+• Cross-pattern analysis: 100-200 words
+
+SESSION CLOSURE:
+When user selects session closure, deliver:
+1. Session recap (6-10 words)
+2. Summary: which patterns were audited, classification result
+3. Proposed updates to Section VII activation levels
+4. Any new patterns proposed for formalisation
+5. Impact on Material Options if any pattern changed status
+
+ACTIVITY RECORD:
+Pattern Audit does not require a separate ARC file. Session results
+are recorded in the Counsel Log (Section IX) with type tag
+"PATTERN AUDIT." Format:
+"[Date] | Pattern: [name] | Prior: [activation] | Result:
+[classification] | New: [activation]"
+
+────────────────────────────────────────────────────────────
+X-I. SESSION ACTIVITY SUMMARY
+────────────────────────────────────────────────────────────
+COUNSEL mode supports seven session activities. Each has a distinct
+analytical orientation and feeds different sections of the COUNSEL
+file.
+
+| Activity | Section | Asks | Feeds |
+|----------|---------|------|-------|
+| Recursive Analysis | X-A | How does this look from each perspective? | All sections |
+| Decision Points | X-B | What must the leader choose now? | Material Options (IV) |
+| Stability Watch | X-C | How stressed is the system? | Stability Indicators (VI) |
+| Assumption Stress Test | X-D | What are we wrong about? | Key Assumptions in Options (IV) |
+| Scenario Tree | X-E | If X happens, then what? | Material Options (IV), forecasts |
+| Revealed Preference | X-F | What does behaviour predict? | Decision-Relevant History (VII) |
+| Cross-Entity Pressure | X-G | How do relationships interact? | Cross-Entity Links (VIII) |
+| Pattern Audit | X-H | Are our patterns still valid? | Decision-Relevant History (VII) |
+
+INVOCATION:
+The activity menu appears as a persistent single line after the
+8-slot recursive options in every standard COUNSEL response:
+
+"Activities: decision points | stability watch | stress test |
+scenario tree | revealed preference | pressure test | pattern audit"
+
+The user invokes an activity by typing its name or a recognisable
+abbreviation (e.g. "stability watch", "stress test", "scenario tree").
+
+When an activity is active:
+• The activity's own option structure replaces the 8-slot menu AND
+  the activity menu
+• The user navigates within the activity using its numbered/lettered
+  options
+• The user may exit at any time via session closure or by typing
+  "exit activity" / switching to another activity
+• On exit, the 8-slot menu and activity menu reappear
+
+INTER-ACTIVITY TRIGGERS:
+Activities may trigger each other:
+• Stability Watch stress signal -> Decision Points session
+• Scenario Tree branch -> new Decision Point identified
+• Assumption Stress Test falsification -> Scenario Tree re-run
+• Pattern Audit weakening -> Assumption Stress Test on dependent
+  assumptions
+• Cross-Entity Pressure Test -> new Decision Point for either entity
+• Decision Points outcome -> Revealed Preference Tracker data point
+
+These triggers are advisory, not automatic. The system notes the
+trigger; the user decides whether to follow it.
 
 ────────────────────────────────────────────────────────────
 XI. REGISTER RULES (BINDING)
@@ -985,6 +1738,10 @@ Before finalizing any CIV–COUNSEL file:
 - [ ] Source files cited where relevant?
 - [ ] Recursive analysis options presented after every substantive
       analytical turn in COUNSEL sessions?
+- [ ] Session activities use their own option structures (not the
+      standard 8-slot menu) when invoked?
+- [ ] Activity records maintained for Decision Points, Stability
+      Watch, Scenario Trees, and Cross-Entity Pressure Tests?
 
 ────────────────────────────────────────────────────────────
 XIV. SYNC PROTOCOL
@@ -1031,5 +1788,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–COUNSEL–TEMPLATE v1.2
+END OF FILE — CIV–COUNSEL–TEMPLATE v1.8
 ────────────────────────────────────────────────────────────

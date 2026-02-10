@@ -211,6 +211,17 @@ Cross-Civilizational:
 • MEM–OTTOMAN–WAR–CRIMEAN — defensive survival
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• reform_failure — Systemic lag exposed by technological and organizational defeat
+• security_competition — Diplomatic isolation transforming local war into coalition defeat
+
+Secondary:
+• force_ratio — Naval inferiority and logistics failure despite manpower advantage
+• mechanism_exposure — Serfdom and institutional weakness revealed under wartime stress
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (V2.7)
 ────────────────────────────────────────────────────────────
 Primary Military History Sources:

@@ -318,6 +318,17 @@ Cross-civilizational:
 • MEM–FRANCIA–NAPOLEON — operational contrast: brilliance vs endurance
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• strategic_depth — Endurance doctrine trading space for time as Russia's natural advantage
+• force_ratio — Managing inferior operational capability through attrition rather than decisive battle
+
+Secondary:
+• steppe_denial — Using terrain and distance to deny the invader logistical sustainability
+• legitimacy_through_continuity — Kutuzov as institutional embodiment of patient Russian command tradition
+
+────────────────────────────────────────────────────────────
 XII. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 Engaged scholarship includes:

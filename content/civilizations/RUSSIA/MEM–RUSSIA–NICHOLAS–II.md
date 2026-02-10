@@ -254,6 +254,17 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• reform_failure — Autocratic rigidity preventing systemic adaptation under total-war pressure
+• succession_crisis — Romanov dynasty collapse through administrative overload and elite fracture
+
+Secondary:
+• defection_incentive — Elite, military, and Duma defection from autocratic compact during WWI
+• personal_exposure — Nicholas's personal decision-making directly accelerating regime collapse
+
+────────────────────────────────────────────────────────────
 XI. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:

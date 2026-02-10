@@ -518,6 +518,17 @@ Cross-civilizational:
 • MEM–SWEDEN–CHARLES–XII — hegemonic rival displaced
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• coercive_enforcement — Modernization achieved through state violence and forced Westernization
+• continuity_through_rupture — Radical transformation that preserves autocratic essence
+
+Secondary:
+• corridor_control — Baltic access as the strategic objective of the Great Northern War
+• elite_overproduction — Western-trained elites without absorption pathway in Russian society
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 • Massie, Robert K. *Peter the Great: His Life and World*. New York: Knopf, 1980.

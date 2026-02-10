@@ -167,6 +167,17 @@ X. CONTINUITY INSIGHTS (RAW)
 • The state survives by learning what reform it cannot absorb.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• reform_failure — Great Reforms exceed political tolerance; assassination exposes reform's liability
+• institutional_absorption — Emancipation and zemstvo as attempts to absorb Western institutional forms
+
+Secondary:
+• defection_incentive — Intelligentsia radicalization when reform opens but does not satisfy expectations
+• personal_exposure — Tsar as personal target when reform creates both hope and frustration
+
+────────────────────────────────────────────────────────────
 XI. ACADEMIC REFERENCES (ENGAGED)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven — reform and imperial survival

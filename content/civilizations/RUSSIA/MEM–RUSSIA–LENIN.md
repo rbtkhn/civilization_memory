@@ -222,6 +222,17 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — Capital relocation and command center
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• continuity_through_rupture — Revolutionary break that reproduces autocratic centralization under ideological cover
+• coercive_enforcement — Cheka, War Communism, and revolutionary tribunals as immediate instruments of power
+
+Secondary:
+• legitimacy_rupture — Ideological redefinition of authority from divine right to proletarian mandate
+• defection_cascade — Provisional Government collapse through sequential elite and military abandonment
+
+────────────────────────────────────────────────────────────
 XII. MEM INGEST BOOTSTRAP (v2.7)
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–RUSSIA–LENIN

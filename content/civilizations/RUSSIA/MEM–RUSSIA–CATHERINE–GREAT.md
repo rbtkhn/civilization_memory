@@ -414,6 +414,17 @@ Cross-civilizational:
 • MEM–OTTOMAN–DECLINE — southern expansion pressure
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• institutional_absorption — Stabilizing Petrine reforms into durable state structures
+• balance_of_power — Panin's northern equilibrium and alliance-based restraint preference
+
+Secondary:
+• expansion_ceiling — Fiscal constraint limiting unilateral conquest despite territorial ambition
+• elite_circulation — Elite compact with service nobility enabling reform normalization
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 • Massie, Robert K. *Catherine the Great: Portrait of a Woman*. New York: Random House, 2011.

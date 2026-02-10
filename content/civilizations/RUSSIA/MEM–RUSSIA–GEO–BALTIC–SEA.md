@@ -376,6 +376,17 @@ Cross-civilizational GEO:
 • MEM–POLAND–GEO–BALTIC — Vistula corridor
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• corridor_control — Baltic access as the gateway to European power systems and trade
+• stopping_power_of_water — Maritime barrier separating continental and naval power domains
+
+Secondary:
+• chokepoint — Gulf of Finland and Danish Straits controlling entry and exit
+• power_projection — Baltic naval presence enabling force application across Northern Europe
+
+────────────────────────────────────────────────────────────
 XIII. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.

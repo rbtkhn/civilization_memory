@@ -247,6 +247,17 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• succession_crisis — Dynastic extinction and contested authority producing near-state collapse
+• legitimacy_rupture — Rurikid exhaustion breaking the foundational legitimacy claim
+
+Secondary:
+• defection_cascade — Sequential abandonment of Muscovite institutions by elites and pretenders
+• sacral_legitimacy — Orthodox Church as the one institution preserving civilizational continuity through collapse
+
+────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Dunning, Chester S. L. *Russia's First Civil War: The Time of Troubles and the Founding of the Romanov Dynasty*. Penn State University Press, 2001.

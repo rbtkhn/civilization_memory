@@ -254,6 +254,17 @@ Cross-civilizational:
 Dependency: This MEM is a primary node for 19th/20th c. Anglo-Russian rivalry and 1907; WAR–CRIMEAN and CHINA–SILK–ROAD depend on it for Great Game context.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• security_competition — Anglo-Russian rivalry as sustained great-power competition over Central Asian buffer zones
+• power_projection — Russian southward expansion testing the limits of continental force application
+
+Secondary:
+• strategic_depth — Central Asia as buffer territory against British India
+• expansion_ceiling — 1907 Convention as recognition of mutual expansion limits
+
+────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Morrison, Alexander. *The Russian Conquest of Central Asia: A Study

@@ -310,6 +310,17 @@ Cross-civilizational:
 • MEM–FINLANDIA–CONTINUATION–WAR — northern encirclement
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• legitimacy_through_suffering — 900-day siege as civilizational martyrdom and endurance proof
+• compression_under_pressure — Civilian society compressed to bare survival maintaining resistance
+
+Secondary:
+• chokepoint — Lake Ladoga Road of Life as improvised supply chokepoint sustaining the city
+• institutional_survival — Cultural institutions (Hermitage, Shostakovich) preserving identity under siege
+
+────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Erickson, John. *The Road to Stalingrad: Stalin's War with Germany*.

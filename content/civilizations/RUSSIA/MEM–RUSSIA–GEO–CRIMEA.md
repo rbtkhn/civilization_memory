@@ -269,6 +269,17 @@ Cross-civilizational GEO:
 • MEM–UKRAINE–GEO–LITTORAL — contested maritime zone
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• strategic_depth — Peninsula geometry converting positional advantage into maritime dominance
+• corridor_control — Kerch Strait and Perekop isthmus as choke approaches controlling access
+
+Secondary:
+• regional_hegemony — Crimea as terminal control node for Black Sea basin dominance
+• chokepoint — Narrow land bridge making Crimea defensible but supply-dependent
+
+────────────────────────────────────────────────────────────
 X. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.

@@ -358,6 +358,17 @@ Cross-civilizational GEO:
 • MEM–TURKEY–GEO–STRAITS — gate to Mediterranean
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• chokepoint — Bosphorus/Dardanelles as the single exit controlling Mediterranean access
+• power_projection — Black Sea naval dominance enabling southern force application
+
+Secondary:
+• corridor_control — Don, Dnieper, and Danube rivers as littoral approach corridors
+• security_competition — Contested basin between Russia, Turkey, and NATO-aligned littoral states
+
+────────────────────────────────────────────────────────────
 XII. GEO–MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. *The Tragedy of Great Power Politics*.

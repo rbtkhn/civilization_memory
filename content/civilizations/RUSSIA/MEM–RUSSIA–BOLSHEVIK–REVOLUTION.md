@@ -344,6 +344,17 @@ Cross-Civilizational:
 Each connection is structurally required.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• legitimacy_rupture — Tsarist authority broken; Bolsheviks redefine legitimacy from sovereignty to ideology
+• defection_cascade — Elite, military, and institutional abandonment of the regime in sequence
+
+Secondary:
+• continuity_through_rupture — Soviet state inherits autocratic patterns despite revolutionary break
+• coercive_enforcement — Cheka and revolutionary tribunals as immediate instruments of new authority
+
+────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):

@@ -264,6 +264,17 @@ Secondary sources frame interpretation but do not override primary
 evidence or structural analysis.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• strategic_depth — Trading space for time as Russia's primary defensive mechanism
+• legitimacy_through_suffering — Patriotic War as foundational sacrifice-to-authority conversion
+
+Secondary:
+• force_ratio — Napoleon's initial numerical superiority eroded by attrition and logistics
+• compression_under_pressure — State and society consolidation during existential crisis
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)

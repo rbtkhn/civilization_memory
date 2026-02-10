@@ -363,6 +363,17 @@ Cross-civilizational:
 • MEM–NATO–EXPANSION — structural context for 2014
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• fragment_inheritance — Russia claiming Crimea as inherited imperial territory across regime changes
+• legitimacy_through_suffering — Crimean War and Sevastopol siege as enduring sacrifice narratives
+
+Secondary:
+• security_competition — 2014 annexation as structural response to NATO expansion toward the Black Sea
+• regional_hegemony — Crimea as non-negotiable asset for Black Sea basin dominance
+
+────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 • Figes, Orlando. *The Crimean War: A History*. New York: Metropolitan, 2010.

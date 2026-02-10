@@ -309,6 +309,17 @@ Cross-civilizational:
 • MEM–GERMANIA–HITLER — strategic decisions
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• strategic_depth — Trading space for time as survival mechanism against overwhelming initial assault
+• compression_under_pressure — Industrial relocation and Red Army recovery under existential threat
+
+Secondary:
+• force_ratio — Initial German numerical and operational superiority eroded by overextension
+• legitimacy_through_suffering — Barbarossa as the founding trauma of Soviet legitimacy narrative
+
+────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."

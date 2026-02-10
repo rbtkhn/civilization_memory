@@ -181,6 +181,17 @@ Cross-Civilizational:
 • MEM–FRANCIA–CRIMEAN–WAR — coalition opposition
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• corridor_control — Black Sea access as the strategic prize of 350 years of Russo-Turkish conflict
+• force_ratio — Repeated wars testing relative military capability between declining Ottoman and rising Russian power
+
+Secondary:
+• chokepoint — Bosphorus and Dardanelles as the unattained objective controlling Mediterranean exit
+• regional_hegemony — Southern expansion converting military victory into basin dominance
+
+────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (V2.7)
 ────────────────────────────────────────────────────────────
 Primary Military History Sources:

@@ -216,6 +216,17 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• authority_translation — Mongol tribute system training Muscovy in centralized extraction and obedience
+• civilizational_grammar — External suzerainty embedding autocratic governance patterns into Russian political DNA
+
+Secondary:
+• coercive_enforcement — Horde's selective violence enforcing compliance across vassal principalities
+• corridor_control — Volga and steppe corridors as the Horde's power-projection arteries
+
+────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Halperin, Charles J. *Russia and the Golden Horde: The Mongol Impact on Medieval Russian History*. Indiana University Press, 1985.

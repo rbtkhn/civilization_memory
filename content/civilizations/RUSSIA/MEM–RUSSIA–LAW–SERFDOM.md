@@ -182,6 +182,17 @@ GEO (≥2):
 • MEM–GEO–RUSSIAN–FOREST–ZONE — territorial control through bondage; peasant flight prevention
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• coercive_enforcement — Legal bondage as the state's mechanism for immobilizing labour and revenue
+• mechanism_exposure — Crimean War revealing serfdom as the structural weakness behind military failure
+
+Secondary:
+• institutional_absorption — Service nobility compact absorbing elite loyalty through guaranteed serf labour
+• reform_failure — Emancipation arriving too late and too incomplete to prevent radicalization
+
+────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:

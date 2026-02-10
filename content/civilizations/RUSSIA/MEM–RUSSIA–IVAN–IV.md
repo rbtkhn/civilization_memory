@@ -241,6 +241,17 @@ This MEM supports inquiry into:
 No evaluative conclusions imposed.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• coercive_enforcement — Oprichnina as unbuffered terror destroying elite opposition
+• personal_exposure — Autocrat's personal psychology directly shaping state policy
+
+Secondary:
+• succession_crisis — Dynastic extinction through Ivan's destruction of his own heirs
+• defection_cascade — Elite destruction triggering institutional collapse and Time of Troubles
+
+────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 • Madariaga, Isabel de. *Ivan the Terrible: First Tsar of Russia*. New Haven: Yale University Press, 2005.

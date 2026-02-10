@@ -488,6 +488,17 @@ Cross-civilizational:
   inheritance Moscow claims.
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• sacral_legitimacy — Third Rome doctrine grounding Moscow's authority in Orthodox spiritual inheritance
+• civilizational_grammar — Moscow as the autocratic center encoding durable governance patterns across centuries
+
+Secondary:
+• fragment_inheritance — Moscow claiming Kiev's spiritual mantle and gathering Rus' principalities under one authority
+• authority_translation — Muscovite princes converting tribute-system obedience into sovereign centralized power
+
+────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (MANDATORY · v2.8)
 ────────────────────────────────────────────────────────────
 Primary Sources Consulted:

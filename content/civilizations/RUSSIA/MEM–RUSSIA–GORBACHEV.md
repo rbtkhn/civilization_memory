@@ -195,6 +195,17 @@ Cross-civilizational:
 • MEM–RUSSIA–FINLAND — Western neighbour; comparison
 
 ────────────────────────────────────────────────────────────
+CONCEPTS (SEMANTIC INDEX)
+────────────────────────────────────────────────────────────
+Primary:
+• reform_failure — Glasnost and perestroika intended to save the system but accelerated its dissolution
+• legitimacy_rupture — Transparency revealing illegitimacy of Soviet institutions
+
+Secondary:
+• defection_cascade — Republics, elites, and military sequentially abandoning the Union
+• institutional_survival — Institutions choosing self-preservation over system loyalty during collapse
+
+────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Brown, Archie. *The Gorbachev Factor*. Oxford: Oxford University
