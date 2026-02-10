@@ -1,14 +1,14 @@
-CIV–COUNSEL–RUSSIA — v1.1
+CIV–COUNSEL–RUSSIA — v1.3
 Civilizational Memory Codex · Counsel File
 
 Status: ACTIVE
-Version: 1.1
-Supersedes: CIV–COUNSEL–RUSSIA v1.0
-Upgrade Type: GROUNDING LINES · BINDING CONSTRAINTS
+Version: 1.3
+Supersedes: CIV–COUNSEL–RUSSIA v1.2
+Upgrade Type: OPERATIONAL TEST · DEFENCE PRODUCTION · CHINA ABSORPTION
 Entity: Russia / Russian Federation
 Classification: CIVILIZATION-STATE
 Active: YES
-Last Updated: February 2026
+Last Updated: 10 February 2026
 
 This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
@@ -286,6 +286,53 @@ OPTION A: Endurance Through Attrition
   • Signal of failure: Senior officials moving assets offshore;
     replacement orders exceeding production capacity
 
+  EVIDENCE UPDATE 1 (February 2026 — Abu Dhabi / fiscal signals):
+  Russia's 2026 budget includes the first reduction in defence funding
+  since the invasion began. Oil and gas revenues have declined over 25%
+  under the combined effect of sanctions, rouble dynamics, and falling
+  export prices. The budget is projected to run a deficit, and government
+  reserves are shrinking. This is the first concrete baseline reading on
+  Option A's binding constraint (replacement rate vs consumption). The
+  direction is unfavourable for the endurance thesis — but it is not yet
+  clear that production has fallen below consumption. Budget pressure
+  constrains the rate of replacement without yet demonstrating that the
+  threshold has been crossed.
+  Direction: UNFAVOURABLE. Binding constraint under strain, not yet
+  falsified.
+  Sources: OSW Commentary (Dec 2025); NEST Centre analysis (2026);
+  CSIS sanctions assessment; CNA war economy report.
+
+  EVIDENCE UPDATE 2 (February 2026 — defence production / labour):
+  Production data provides a more granular reading of the binding
+  constraint. Near-term output remains substantial: planned 2025
+  targets include 250 T-90M tanks, 1,100 infantry fighting vehicles,
+  approximately 2,500 precision-guided missiles per year, and an
+  estimated 250,000 artillery shells per month. These figures suggest
+  that replacement currently meets or exceeds consumption in most
+  categories.
+  However, a structural ceiling is visible. Soviet-era stockpiles —
+  which have supplemented new production since 2022 — are projected
+  to be largely exhausted by mid-2025 if combat intensity continues
+  at current levels. After that point, Russia becomes entirely
+  dependent on new manufacturing. The defence sector faces a labour
+  deficit of approximately 160,000 workers, with the broader
+  manufacturing economy short 1.9 million. The workforce is aging
+  (16-18% over 60), skilled specialists are scarce, and defence
+  hiring is poaching from civilian sectors — compounding broader
+  economic strain.
+  This means the binding constraint has a time dimension that was
+  not previously visible: near-term replacement appears adequate,
+  but the structural capacity to sustain current rates is constrained
+  by labour, stockpile depletion, and fiscal pressure acting
+  simultaneously. The endurance thesis holds in the near term but
+  faces a convergence of constraints in the medium term (12-24
+  months).
+  Direction: MIXED. Near-term adequate; medium-term ceiling real.
+  Binding constraint not falsified but has a visible horizon.
+  Sources: EchoWarfare intelligence assessment (2025); Finabel
+  comparative analysis (2025); Economist (May 2025); CEPA (2025);
+  Jamestown Foundation; Reuters (Nov 2024).
+
 ────────────────────────────────────────────────────────────
 
 OPTION B: Negotiated Settlement With Minimum Viable Gains
@@ -338,6 +385,30 @@ OPTION B: Negotiated Settlement With Minimum Viable Gains
     rhetoric from maximalist to conditional framing
   • Signal of failure: Escalatory actions inconsistent with settlement
     preparation; public commitments that foreclose negotiating space
+
+  EVIDENCE UPDATE (February 2026):
+  The first trilateral talks between Russia, Ukraine, and the United
+  States took place in Abu Dhabi on 24-25 January 2026 — the first
+  such direct engagement since the 2022 invasion. Both sides described
+  talks as "constructive." A second round was scheduled for 1 February.
+  This is the first direct test of Option B's binding constraint (does
+  a mutually acceptable settlement formula exist?). The evidence is
+  mixed: territorial demands remain the principal obstacle, with Russia
+  occupying approximately 20% of Ukrainian territory and showing no
+  willingness to revise its positions on neutrality or territorial
+  control. The Kremlin cautioned against expecting "significant results
+  from initial contacts." However, the format itself — trilateral, with
+  US mediation — is new and represents a structural change in the
+  diplomatic landscape.
+  Simultaneously, Russia launched its largest aerial attack of 2026
+  and deployed the Oreshnik intermediate-range ballistic missile against
+  western Ukraine. Escalation alongside negotiation is consistent with
+  a "negotiate from strength" posture, not a settlement posture — but
+  it does not foreclose settlement.
+  Direction: SLIGHTLY MORE PLAUSIBLE than before, but binding constraint
+  still not met. The gap between positions remains very wide.
+  Sources: CNN (25 Jan 2026); Foreign Policy (23 Jan 2026); AP News
+  (Abu Dhabi); Kremlin press statement.
 
 ────────────────────────────────────────────────────────────
 
@@ -393,6 +464,41 @@ OPTION C: Strategic Diversification and Reorientation
   • Signal of failure: Russia accepting visibly unfavourable terms
     from China; continued dependence on single-commodity exports
 
+  EVIDENCE UPDATE (February 2026 — China absorption / trade plateau):
+  Russia-China bilateral trade declined 6.9% in 2025 to $228.1
+  billion, down from a record $244.8 billion in 2024. The decline
+  is structural, not political: the post-sanctions expansion model
+  (discounted energy, emergency substitution of Western imports,
+  Chinese vehicle and machinery exports) has reached a "structural
+  plateau" — its growth momentum largely exhausted by 2024.
+  Crucially, the decline was driven by Chinese demand dynamics,
+  not Russian supply choices. Crude oil imports from Russia fell
+  19.6% in value; Chinese car imports from Russia dropped 61%;
+  supplies of heavy distillates, coal, and LNG all decreased amid
+  declining Chinese demand. This is evidence that China's absorption
+  capacity — the binding constraint — has limits, and those limits
+  are now visible.
+  The asymmetric dependency is deepening. Russia has grown
+  progressively more dependent on Beijing, which leverages this
+  imbalance. China adjusts its support when it would entail
+  substantial economic costs — meaning absorption is conditional,
+  not guaranteed. Payment infrastructure remains fragile: Chinese
+  banks restrict transactions due to secondary sanctions risk,
+  commissions run as high as 12%, and trade increasingly relies
+  on workarounds (border-region banks, netting systems,
+  cryptocurrency) that are vulnerable to further sanctions pressure.
+  This is the specific failure signal identified in v1.1:
+  alternative markets unable to absorb Russian exports at comparable
+  volume, with China extracting asymmetric concessions. The signal
+  is not yet decisive — $228 billion in bilateral trade is still
+  substantial — but the direction is clear.
+  Direction: UNFAVOURABLE. Binding constraint showing its limits.
+  Confidence direction: trending toward LOW (from MODERATE).
+  Sources: Russia's Pivot to Asia (2025 structural analysis);
+  EU ISS dependence gap report; Reuters (China Track system,
+  Apr 2025; payment bottlenecks 2024); Chinese customs data
+  via Reuters (Jan 2025).
+
 ────────────────────────────────────────────────────────────
 
 OPTION D: Escalation to Force a Decision
@@ -447,6 +553,27 @@ OPTION D: Escalation to Force a Decision
   • Signal of failure: Coalition military commitments expanding
     in response to Russian escalation signals
 
+  EVIDENCE UPDATE (February 2026):
+  Russia deployed the Oreshnik intermediate-range ballistic missile
+  against western Ukraine in early 2026 and launched its largest
+  coordinated aerial attack of the year — both occurring alongside
+  the Abu Dhabi trilateral talks. This constitutes a form of limited
+  escalation. The opponent response has been coalition hardening, not
+  concession: France and the United Kingdom signalled readiness to
+  contribute troops to a multinational peacekeeping force, with the UK
+  allocating £200 million for potential deployment preparation.
+  This is negative discriminating evidence for Option D. Escalation
+  is producing the opposite of its intended effect (coalition expansion
+  rather than concession), which directly tests the binding constraint
+  (does escalation produce opponent concession or counter-escalation?).
+  The evidence so far points toward counter-escalation.
+  Direction: UNFAVOURABLE. Binding constraint trending toward
+  falsification. Coalition military commitments expanding in direct
+  response to escalation signals — this is the specific failure signal
+  identified in v1.1.
+  Sources: RCSGS analysis (2026); CNN (25 Jan 2026); UK defence
+  allocation reporting.
+
 ────────────────────────────────────────────────────────────
 V. COMPLETENESS AUDIT
 ────────────────────────────────────────────────────────────
@@ -477,14 +604,17 @@ during internal stress, a gap opens between what the state can do
 
 | Indicator | Status | Assessment |
 |-----------|--------|------------|
-| Ideological coherence | STABLE | Civilizational-sovereign narrative is functioning; no visible internal challenge to the regime's self-justification |
-| Elite cohesion | STRESSED | Cohesion holds while success narrative is maintained; prolonged stalemate increases defection calculation pressure |
-| Popular legitimacy | STABLE | Domestic support sustained through narrative control and war framing; economic deterioration is the primary risk |
-| Institutional function | STRESSED | Wartime strain on institutional capacity; mobilisation and economic adaptation create friction |
-| Narrative control | STABLE | Information environment remains largely controlled domestically; external narrative contested but not regime-threatening |
+| Ideological coherence | STABLE | Civilizational-sovereign narrative is functioning; no visible internal challenge to the regime's self-justification. The willingness to enter trilateral talks has not disrupted the domestic narrative — the leadership controls the framing. |
+| Elite cohesion | STRESSED | Cohesion holds while success narrative is maintained; prolonged stalemate increases defection calculation pressure. The first defence budget reduction since the invasion is a potential stress signal — if elites connected to the defence sector perceive declining resource allocation, defection calculation shifts. Not yet visible, but the structural condition for it has changed. |
+| Popular legitimacy | STABLE | Domestic support sustained through narrative control and war framing; economic deterioration is the primary risk. Budget deficit and declining reserves have not yet translated into visible public discontent, but the fiscal trajectory is unfavourable. |
+| Institutional function | STRESSED | Wartime strain on institutional capacity; mobilisation and economic adaptation create friction. The 2026 budget deficit, shrinking reserves, and 25%+ revenue decline from oil and gas exports compound institutional strain. Financing continued operations at current tempo becomes structurally more difficult. |
+| Narrative control | STABLE | Information environment remains largely controlled domestically; the Abu Dhabi talks have been framed domestically as Russia negotiating from a position of strength. Simultaneous military escalation reinforces this framing. External narrative contested but not regime-threatening. |
 
 Current assessment: 2 of 5 indicators STRESSED; none CRITICAL.
 Legitimacy perspective carries standard (not elevated) weight.
+Direction: Institutional function trending toward elevated strain;
+elite cohesion stable but underlying conditions have shifted
+unfavourably with the first defence budget reduction.
 
 Threshold watch: Elite cohesion is the leading indicator. If elite
 cohesion moves to CRITICAL, the liability and mechanism perspective
@@ -498,7 +628,7 @@ Historical patterns with current relevance, drawn from the Russia
 civilizational memory corpus.
 
 PATTERN: Endurance Through Compression
-  Activation: HIGH
+  Activation: HIGH (with medium-term structural ceiling — Feb 2026)
   Source: MEM–RUSSIA–MONGOL–YOKE, MEM–RUSSIA–WWII–SIEGE–LENINGRAD,
           MEM–RUSSIA–WAR–GREAT–PATRIOTIC series
   Relevance: Russia's historical pattern of absorbing pressure and
@@ -508,6 +638,16 @@ PATTERN: Endurance Through Compression
   and 1941–45; it failed in 1905 and 1917 (when military strain
   triggered domestic revolution) and in 1991 (when internal
   legitimacy collapsed despite intact military capability).
+  Update: Defence production data shows near-term replacement is
+  being maintained (250 tanks, 1,100 IFVs, ~2,500 missiles/year,
+  250k shells/month planned). However, Soviet-era stockpiles are
+  projected to be largely exhausted by mid-2025, after which Russia
+  depends entirely on new manufacturing — and the defence sector
+  faces a 160,000-worker deficit with an aging workforce. The
+  endurance pattern's historical lesson applies: it works until the
+  replacement-consumption equation inverts, and the structural
+  conditions for that inversion are now visible on a 12-24 month
+  horizon.
 
 PATTERN: Buffer Zone Imperative
   Activation: HIGH
@@ -531,7 +671,7 @@ PATTERN: Temporal Compression as Governance
   political space in which elite challenges can form.
 
 PATTERN: Fiscal Constraint and Restraint Preference
-  Activation: MODERATE
+  Activation: HIGH (upgraded from MODERATE — February 2026)
   Source: MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT
   Relevance: When per capita extraction is low and war costs
   consume a large share of revenue, alliance-based restraint is
@@ -540,24 +680,53 @@ PATTERN: Fiscal Constraint and Restraint Preference
   pressure toward diplomatic resolution — but only when the
   fiscal burden becomes unsustainable, and only when conquest
   does not promise clear fiscal returns.
+  Update: Russia's 2026 budget includes the first defence funding
+  reduction since the invasion, combined with a 25%+ drop in
+  hydrocarbon revenue and a projected deficit. This moves the
+  fiscal constraint pattern from moderate to high activation.
+  The Catherine-era precedent is directly relevant: fiscal exhaustion
+  creates structural pressure toward negotiation even when the
+  leadership's narrative demands continued strength. The Abu Dhabi
+  talks may be partly explained by this fiscal dynamic.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
 
 CHINA:
-  Dimension: Autocracy models
+  Dimension: Autocracy models; economic dependency
   Key distinction: Russian autocracy is personalist; Chinese is
   institutional. Russian autocracy can collapse with the leader;
   Chinese survives transitions. Implication: different pressure
   points, different vulnerability windows.
+  Update (February 2026): The economic dimension has become
+  primary. Russia-China trade declined 6.9% in 2025 after four
+  years of growth, revealing a structural plateau in China's
+  absorption capacity. The dependency is asymmetric and deepening:
+  Russia needs China more than China needs Russia, and Beijing
+  leverages this. Payment infrastructure remains fragile under
+  sanctions pressure. The autocracy-model distinction now has a
+  concrete economic implication: China's institutional autocracy
+  can calibrate its support to Russia based on cost-benefit
+  calculation; Russia's personalist autocracy cannot easily
+  diversify away from the dependency it has created.
 
 UNITED STATES:
-  Dimension: Strategic competition
+  Dimension: Strategic competition; trilateral mediator
   Key distinction: US strategic attention is constrained by
   electoral cycles and public opinion; Russian strategic attention
   is constrained by economic capacity and elite cohesion. Each
   side's vulnerability is the other's time horizon.
+  Update (February 2026): The US has entered the trilateral format
+  as an active mediator (Abu Dhabi, January 2026). This is a
+  structural shift — the US is now a party to the negotiating
+  process, not merely a support provider. The Trump administration's
+  envoy framing ("dedicated to bringing peace") introduces a new
+  variable: domestic US political incentive to produce a result,
+  which may increase pressure on both sides. The time-fragility
+  dynamic cuts both ways — the US electoral incentive may accelerate
+  the timeline, but may also produce pressure for a deal that neither
+  Russia nor Ukraine finds structurally stable.
 
 OTTOMAN EMPIRE (historical):
   Dimension: Decline pattern
@@ -617,6 +786,78 @@ ENTRY 002 — February 2026
   Completeness audit: PASSED (unchanged)
   Next review: When new evidence affects binding constraints
 
+ENTRY 003 — 10 February 2026
+  Session: v1.2 operational test — Abu Dhabi trilateral talks and
+  economic signals
+  Event: First trilateral Russia-Ukraine-US talks (Abu Dhabi,
+  24-25 January 2026); Russia's 2026 budget reduction in defence;
+  25%+ oil/gas revenue decline; Oreshnik IRBM deployment;
+  France/UK peacekeeping troop signals.
+  Changes:
+  • Option A: Evidence update added. Binding constraint (replacement
+    vs consumption) under strain from budget reduction and revenue
+    decline. Direction: UNFAVOURABLE but not yet falsified.
+  • Option B: Evidence update added. Binding constraint (settlement
+    formula) being actively tested via Abu Dhabi talks. Direction:
+    SLIGHTLY MORE PLAUSIBLE but gap remains very wide.
+  • Option C: No direct new evidence. Economic pressure increases
+    urgency of diversification (noted in fiscal pattern upgrade).
+  • Option D: Evidence update added. Binding constraint (opponent
+    concession vs counter-escalation) trending toward falsification.
+    Coalition hardening observed as direct response to escalation.
+    Direction: UNFAVOURABLE.
+  Stability indicators: No status changes. Institutional function
+  and elite cohesion assessments updated with specific fiscal
+  evidence. Directional note added.
+  Pattern upgrade: Fiscal Constraint and Restraint Preference
+  upgraded from MODERATE to HIGH activation.
+  Cross-entity update: US link updated to reflect trilateral
+  mediator role.
+  Completeness audit: PASSED (unchanged)
+  Confidence changes: None. Evidence directional, not yet
+  sufficient to revise confidence levels.
+  Next review: After February round of Abu Dhabi talks concludes;
+  or when defence production data (not budget data) becomes available.
+
+ENTRY 004 — 10 February 2026
+  Session: v1.3 operational test — defence production and China
+  absorption capacity
+  Events analysed: Russia defence production targets and labour
+  constraints (2025-2026 intelligence assessments); Russia-China
+  trade decline (6.9% in 2025 to $228.1B); China absorption
+  plateau; payment infrastructure fragility; workforce deficit
+  (160,000 defence sector, 1.9M manufacturing); Soviet stockpile
+  depletion timeline.
+  Changes:
+  • Option A: Evidence Update 2 added. Production data provides
+    granular reading: near-term replacement adequate (250 tanks,
+    1,100 IFVs, ~2,500 missiles/year, 250k shells/month). But
+    Soviet stockpiles projected exhausted mid-2025; labour deficit
+    160,000 in defence; workforce aging. Binding constraint has
+    a visible time horizon (12-24 months). Direction: MIXED.
+  • Option C: Evidence update added. Russia-China trade declined
+    6.9% in 2025 — structural plateau, not political choice.
+    China's absorption capacity showing limits. Dependency
+    asymmetric and deepening. Payment infrastructure fragile.
+    Binding constraint showing its limits. Direction: UNFAVOURABLE;
+    confidence trending toward LOW.
+  • Option B: No new evidence beyond v1.2.
+  • Option D: No new evidence beyond v1.2.
+  Pattern updates: Endurance Through Compression — medium-term
+  structural ceiling noted with production data.
+  Cross-entity updates: China link expanded to include economic
+  dependency dimension and structural plateau evidence.
+  Completeness audit: PASSED (unchanged)
+  Confidence changes: Option C direction noted (trending LOW);
+  formal downgrade deferred pending next quarter's trade data.
+  Cumulative binding constraint status (all four options):
+  • A (replacement vs consumption): UNDER STRAIN, time-limited
+  • B (settlement formula): BEING TESTED, not met
+  • C (China absorption): SHOWING LIMITS, trending unfavourable
+  • D (opponent response): TRENDING TOWARD FALSIFICATION
+  Next review: Q1 2026 Russia-China trade data; actual (not
+  planned) defence production output; Abu Dhabi talks outcome.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–COUNSEL–RUSSIA v1.1
+END OF FILE — CIV–COUNSEL–RUSSIA v1.3
 ────────────────────────────────────────────────────────────

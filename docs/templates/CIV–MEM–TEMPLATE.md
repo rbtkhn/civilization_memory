@@ -5,7 +5,7 @@ THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 Status: ACTIVE · CANONICAL · LOCKED
 Version: 3.1
 Supersedes: CIV–MEM–TEMPLATE v3.0
-Governed by: CMC 3.1
+Governed by: CMC 3.2
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Last Update: February 2026
 WORDCOUNT: ~7,500
@@ -54,12 +54,12 @@ ENFORCEMENT:
 
 Reference Implementation: MEM–GERMANIA–WAR–NAPOLEON v2.1
 
-See: CIV–MEM–CORE v3.0, Sections XXIV-XXVII
+See: CIV–MEM–CORE v3.2, Sections XXIV-XXVII
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.8) — PROPORTIONAL BLEND LAW · GEO–MEM REQUIREMENTS
+UPGRADE NOTE (v2.8) — CONTENT PROPORTION RULE · GEO–MEM REQUIREMENTS
 ────────────────────────────────────────────────────────────
-This version implements the Proportional Blend Law for polyphonic
+This version implements the content proportion rule for polyphonic
 architecture across file types.
 
 NEW REQUIREMENT — FILE TYPE BLEND RATIOS:
@@ -73,7 +73,7 @@ GEO–MEM SPECIFIC REQUIREMENTS (NEW):
 • Strategic analysis fulfills the 2/3 Mearsheimer requirement
 • Cognitive layer declaration required
 
-See: CIV–MEM–CORE v3.0, Section VP-1.g (Proportional Blend Law)
+See: CIV–MEM–CORE v3.2, Section VP-1.g (content proportion rule)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
@@ -588,7 +588,7 @@ Typed connections enable intelligent traversal:
 • "What parallels exist in other civilizations?" → Follow PARALLELS edges
 • "Build a timeline" → Follow TEMPORAL edges to construct sequence
 
-OGE options SHOULD leverage connection types for navigation.
+Options menu SHOULD leverage connection types for navigation.
 
 ────────────────────────────────────────────────────────────
 X.F LEGACY FORMAT (REMAINS VALID)
@@ -790,7 +790,7 @@ until reduced through revision or splitting.
 ────────────────────────────────────────────────────────────
 XXII. GEO–MEM FILE TYPE REQUIREMENTS (NEW · v2.8)
 ────────────────────────────────────────────────────────────
-GEO–MEM files follow the Proportional Blend Law with specific
+GEO–MEM files follow the content proportion rule with specific
 structural requirements.
 
 XXII.A BLEND RATIO
@@ -815,7 +815,7 @@ GEO–MEM files MUST contain:
 
 1. GEO–MEM COGNITIVE DECLARATION
    - Declares Mearsheimer strategic cognition
-   - References CIV–MEM–CORE v3.0 Proportional Blend Law
+   - References CIV–MEM–CORE v3.2 content proportion rule
 
 2. STRATEGIC ANALYSIS SECTIONS (≥6)
    - Terrain geometry
@@ -871,7 +871,7 @@ v2.9 ADDITIONS:
 • Version Transition Rules
 
 v2.8 ADDITIONS:
-• Proportional Blend Law implementation
+• Content proportion rule implementation
 • GEO–MEM File Type Requirements section
 
 v2.7 ADDITIONS:
@@ -1181,7 +1181,7 @@ Apply to: MEMs anchoring major analytical claims
 PURPOSE: Identify key assumptions underlying MEM analysis.
 
 Note: Assumptions Box is REQUIRED for SYNTHESIS entries
-(per CIV–MEM–CORE v3.0 Section XXVI). For MEMs, it is optional
+(per CIV–MEM–CORE v3.2 Section XXVI). For MEMs, it is optional
 but recommended for those making significant analytical claims.
 
 SECTION: ASSUMPTIONS BOX (LAYER 3)
@@ -1267,7 +1267,7 @@ CONCEPT CATEGORIES:
 
 DISCOVERY BENEFIT:
 • Query "which MEMs discuss [concept]" returns tagged files
-• OGE can suggest traversal to MEMs sharing concepts
+• Options menu can suggest traversal to MEMs sharing concepts
 • Cross-civ patterns become visible through shared tags
 
 See: docs/governance/CONCEPT–INDEX.md for full taxonomy.
@@ -1409,5 +1409,5 @@ They may NOT:
 • Break backward compatibility with existing MEMs
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE (CMC 3.1)
+END OF FILE — CIV–MEM–TEMPLATE (CMC 3.2)
 ────────────────────────────────────────────────────────────

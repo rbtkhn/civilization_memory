@@ -6,12 +6,12 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Supersedes: CIV–INDEX–TEMPLATE v2.1
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · CIV–SCHOLAR–TEMPLATE v3.0
+Compatibility: CIV–MEM–CORE v3.2 · CIV–MEM–TEMPLATE v3.1 · CIV–SCHOLAR–TEMPLATE v3.1
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v3.0 (global system law)
+• CIV–MEM–CORE v3.2 (global system law)
 
 Last Update: February 2026
 Word Count: ~2,800
@@ -206,7 +206,7 @@ TSP GOVERNANCE RULES:
 • Cross-civilizational connections are informational, not structural
 • TSP designation does not alter index governance rules
 
-Reference: CIV–MEM–CORE v3.0, Section XXIX
+Reference: CIV–MEM–CORE v3.2, Section XXIX
 
 ────────────────────────────────────────────────────────────
 IV. CANONICAL GOVERNANCE FILES REGISTRATION

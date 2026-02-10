@@ -1,11 +1,11 @@
 ---
-description: Enforces CMC SCHOLAR mode OGE requirements (8 fixed slots, stateless)
+description: Enforces CMC options requirements — SCHOLAR modes (8 fixed slots) and COUNSEL mode (8 analysis options)
 alwaysApply: true
 ---
 
-# CMC Option Generation Engine (OGE) Enforcement — CMC 3.1
+# CMC Options Menu Enforcement — CMC 3.2
 
-OGE is **required** in **WRITE, LEARN, and IMAGINE** modes. Apply OGE rules **after every substantive turn** in LEARN/IMAGINE; in WRITE, apply when OGE is presented (e.g. after MEM draft or edit).
+Options are **required** in **WRITE, LEARN, IMAGINE** (SCHOLAR) and **COUNSEL** modes. Apply after every substantive turn in LEARN/IMAGINE/COUNSEL; in WRITE, apply when options are presented (e.g. after MEM draft or edit).
 
 ## Core Design Principle
 
@@ -16,7 +16,7 @@ The 8 options (A–H) are a **capability menu** — they teach users what the sy
 | A | Mercouris | Civilizational/legitimacy analysis |
 | B | Mearsheimer | Structural/power analysis |
 | C | Barnes | Liability/mechanism analysis |
-| D | Multi-mind | Tri-frame synthesis |
+| D | Multi-mind | Three-perspective synthesis |
 | E | Backward | Temporal traversal (earlier era) |
 | F | Forward | Temporal traversal (later era) |
 | G | Cross-civ | Spatial traversal (other civilization) |
@@ -24,17 +24,17 @@ The 8 options (A–H) are a **capability menu** — they teach users what the sy
 
 **Slots are fixed.** A is always Mercouris. B is always Mearsheimer. No semantic shifts.
 
-## OGE Ontology
+## Options Menu Ontology
 
 **Options guide, not predict.** An option does not describe what will happen; it **guides the creation** of the next response. Options are productive; they shape the conversation.
 
-**In LEARN mode, OGE produces recursive learning**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses H (synthesis) or switches mode.
+**In LEARN mode, the options menu produces recursive learning**: each option directs the creation of the next response, which again ends with options; closure is deferred until the user chooses H (synthesis) or switches mode.
 
-**Options A/B/C are derived from MIND files.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. The pipeline: **MIND file → option text → response**.
+**Options A/B/C are derived from analytical profile files.** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, and CIV–MIND–BARNES are the **authoritative source** for how to phrase options A, B, C. The pipeline: **profile file → option text → response**.
 
 **User may manually interject.** Options are a scaffold, not a cage. The user may type any question or instruction instead of selecting A–H.
 
-## OGE Style
+## Options Menu Style
 
 **Per option:**
 - **10–20 words** — Clear, complete questions/prompts (not telegraphic)
@@ -66,7 +66,7 @@ When selected: Load Barnes voice; 100–200 words; constraint hierarchy, folksy 
 
 ### D — Multi-Mind
 
-Tri-frame synthesis. When selected: (1) Mercouris 1–2 sent; (2) Mearsheimer 1–2 sent responding; (3) Barnes 1–2 sent responding; (4) Mercouris 1–2 sent wrap-up.
+Three-perspective synthesis. When selected: (1) Mercouris 1–2 sent; (2) Mearsheimer 1–2 sent responding; (3) Barnes 1–2 sent responding; (4) Mercouris 1–2 sent wrap-up.
 
 ### E — Traverse Backward
 
@@ -106,7 +106,7 @@ H — Synthesize what we've established
 (Note: Barnes just analyzed liability exposure — A or B will respond to his analysis if selected)
 ```
 
-The note acknowledges context without changing slot semantics. Each OGE is generated fresh.
+The note acknowledges context without changing slot semantics. Each options menu is generated fresh.
 
 ## MIND-Influenced Traversal
 
@@ -145,7 +145,7 @@ See PROTOCOL–MIND–NAVIGATION for full affinity matrices.
 - [ ] H available for synthesis?
 - [ ] Contextual note added if prior MIND analysis is relevant?
 
-## Example — Standard OGE
+## Example — Standard Options Menu
 
 ```
 A — Mercouris: How does Peter's rupture-through-modernization affect Russian legitimacy claims?
@@ -160,9 +160,36 @@ H — Synthesize: "Peter's rupture, Baltic access, elite destruction, Western ab
 
 ## WRITE Mode
 
-- OGE required after MEM edits
+- Options menu required after MEM edits
 - A/B/C fixed (same as LEARN)
 - Include at least one editorial option (enhance, validate)
 - Include at least one exploration option (related MEM, connection)
 
-Reference: CMC 3.1, Modified OGE Simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION
+## COUNSEL Mode — Recursive Analysis Options
+
+COUNSEL uses the **same 8-slot recursive structure** as SCHOLAR, adapted for present-oriented decision support and external-facing register.
+
+| Slot | Function | Capability |
+|------|----------|------------|
+| A | Legitimacy/institutional continuity | Deepen this perspective on current situation |
+| B | Power/structural constraint | Deepen this perspective |
+| C | Leadership liability/mechanism | Deepen this perspective |
+| D | Three-perspective assessment | All three on a specific issue |
+| E | Historical precedent | MEM-grounded pattern illuminating the present |
+| F | Forward projection | What this suggests for a timeframe/scenario |
+| G | Cross-entity | How this affects a related entity |
+| H | Assessment closure | Synthesize + propose COUNSEL file updates |
+
+**Key differences from SCHOLAR options:**
+- **No MIND profile names** — A/B/C use content-based perspective names
+- **No MIND voice invocation** — selecting A does NOT invoke Mercouris linguistic fingerprint
+- **Present-oriented** — E illuminates present from history; F projects forward
+- **Decision-relevant** — options refine material options, not historical understanding
+- **Professional register throughout**
+- **H produces actionable output** — proposed COUNSEL file updates, not learning recap
+
+**Same principles apply:** Fixed slots, stateless, 10-20 words per option, concrete anchor per option.
+
+See: CIV–COUNSEL–TEMPLATE Section X-A
+
+Reference: CMC 3.2, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION

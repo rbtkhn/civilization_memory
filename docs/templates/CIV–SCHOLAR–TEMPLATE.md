@@ -5,7 +5,7 @@ Status: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–SCHOLAR–TEMPLATE v3.0
 Upgrade Type: ALIGNMENT · CMC 3.1 OGE SIMPLIFICATION
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v3.1 · CIV–MEM–TEMPLATE v3.1 · CIV–SCHOLAR–PROTOCOL v3.1
+Compatibility: CIV–MEM–CORE v3.2 · CIV–MEM–TEMPLATE v3.1 · CIV–SCHOLAR–PROTOCOL v3.1
 Last Update: February 2026
 WORDCOUNT: ~14,500
 
@@ -53,7 +53,7 @@ v2.10 introduces the following ADDITIVE enhancements:
   – POST-ACH revision documentation requirements
 
 This aligns SCHOLAR synthesis operations with Intelligence Tradecraft
-Integration (ITI) protocols from CIV–MEM–CORE v3.0 (Sections XXVI-XXVII).
+Integration (ITI) protocols from CIV–MEM–CORE v3.2 (Sections XXVI-XXVII).
 
 PURPOSE:
 • Force explicit assumption identification
@@ -66,7 +66,7 @@ ENFORCEMENT:
 • SYNTHESIS where alternatives were evaluated without ACH is INVALID
 • Confidence tier must be declared in SYNTHESIS status block
 
-See: CIV–MEM–CORE v3.0 Sections XXVI-XXVII (ITI specification)
+See: CIV–MEM–CORE v3.2 Sections XXVI-XXVII (ITI specification)
 
 No authority is weakened.
 No phase boundary is relaxed.
@@ -1295,7 +1295,7 @@ XIV. SYNTHESIS TRADECRAFT REQUIREMENTS (NEW · v2.10 · MANDATORY)
 ────────────────────────────────────────────────────────────
 This section establishes tradecraft requirements for SYNTHESIS entries,
 integrating Intelligence Tradecraft Integration (ITI) protocols from
-CIV–MEM–CORE v3.0.
+CIV–MEM–CORE v3.2.
 
 PURPOSE:
 • Force explicit identification of assumptions underlying syntheses

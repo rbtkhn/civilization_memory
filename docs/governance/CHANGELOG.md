@@ -3,8 +3,8 @@ Civilizational Memory Codex · Governance Change History
 Consolidated Version History
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.1
-Last Updated: 2026-02-04
+Governed by: CMC 3.2
+Last Updated: 2026-02-10
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
@@ -21,17 +21,59 @@ Under CMC 3.1 Version Decoupling:
 • History is centralized and searchable
 
 ────────────────────────────────────────────────────────────
-II. CMC 3.2 — PROPOSALS (DRAFT)
+II. CMC 3.2 — THREE-MODE ARCHITECTURE EDITION
 ────────────────────────────────────────────────────────────
-Date: 2026-02-03
+Date: 2026-02-10
+Type: STRUCTURAL
+
+CHANGES:
+• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM (peers)
+• CIV–COUNSEL file type: present-oriented decision support
+  with duty of competence and three-perspective completeness
+• CIV–COUNSEL–TEMPLATE v1.2 created
+• SYSTEM mode: governance maintenance, auditing, template
+  management separated from analytical work
+• CMC–BOOTSTRAP updated with three-mode Quick Start
+• TERMINOLOGY–REGISTRY created: load-bearing/decorative
+  classification, new-term gate protocol
+• Decorative term replacements across governance files:
+  OGE → options menu, Blend Law → content proportion rule,
+  TRI-FRAME → three-perspective analysis,
+  POST-BARNES → after liability analysis,
+  CCM → cross-civilizational misperception
+• Barnes reclassified: TERTIARY CATALYST →
+  LIABILITY/MECHANISM PERSPECTIVE
+• Previous CMC 3.2 proposals re-scoped to CMC 3.3
+• All governance files aligned to CMC 3.2
+
+IMPLEMENTATION:
+• CIV–COUNSEL–RUSSIA v1.3 created (pilot)
+• CMC–BOOTSTRAP restructured for three-mode architecture
+• TERMINOLOGY–REGISTRY.md created
+• VERSION–MANIFEST v3.1 → v3.2
+• CIV–MEM–CORE v3.1 → v3.2
+• All templates and MIND profiles: governance references updated
+
+RATIONALE:
+• Separated present-oriented analysis (COUNSEL) from
+  historical learning (SCHOLAR)
+• Separated system maintenance (SYSTEM) from analytical work
+• Reduced jargon: removed 10 decorative terms
+• Formal gate prevents future jargon creep
+
+────────────────────────────────────────────────────────────
+II-B. CMC 3.3 — PROPOSALS (re-scoped from 3.2)
+────────────────────────────────────────────────────────────
+Date: 2026-02-03 (original), 2026-02-10 (re-scoped)
 Status: DRAFT (Proposals pending approval)
 Type: STRUCTURAL
 
-The following proposals extend CMC 3.1 capabilities and are documented
-for Phase 1 implementation upon approval.
+The following proposals were originally designated CMC 3.2. They are
+re-scoped to CMC 3.3. COUNSEL partially absorbs the Current Events
+Protocol concept.
 
 ────────────────────────────────────────────────────────────
-II.A CMC 3.2 — CURRENT EVENTS PROTOCOL (CEP)
+II-B.A CMC 3.3 — CURRENT EVENTS PROTOCOL (CEP) — PARTIALLY ABSORBED
 ────────────────────────────────────────────────────────────
 Proposal: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
 Status: DRAFT
@@ -49,7 +91,7 @@ RATIONALE:
 • Preserve ephemeral analysis while protecting canonical MEMs
 
 ────────────────────────────────────────────────────────────
-II.B CMC 3.2 — TIERED RETRIEVAL
+II-B.B CMC 3.3 — TIERED RETRIEVAL
 ────────────────────────────────────────────────────────────
 Proposal: PROPOSAL–TIERED–RETRIEVAL.md
 Status: DRAFT
@@ -66,7 +108,7 @@ RATIONALE:
 • Maintain analytical rigor when using external sources
 
 ────────────────────────────────────────────────────────────
-II.C CMC 3.2 — LIVING ARC
+II-B.C CMC 3.3 — LIVING ARC
 ────────────────────────────────────────────────────────────
 Proposal: PROPOSAL–LIVING–ARC.md
 Status: DRAFT
@@ -85,7 +127,7 @@ RATIONALE:
 • Maintain human oversight for permanent decisions
 
 ────────────────────────────────────────────────────────────
-II.D CMC 3.2 — MIND NAVIGATION PROTOCOL
+II-B.D CMC 3.3 — MIND NAVIGATION PROTOCOL
 ────────────────────────────────────────────────────────────
 Protocol: PROTOCOL–MIND–NAVIGATION.md
 Status: ACTIVE
@@ -115,7 +157,7 @@ RATIONALE:
 • Concept emphasis aligned with MIND's focus
 
 ────────────────────────────────────────────────────────────
-II.E CMC 3.2 — IMPLEMENTATION ROADMAP
+II-B.E CMC 3.3 — IMPLEMENTATION ROADMAP
 ────────────────────────────────────────────────────────────
 Document: ROADMAP–CMC–3.2.md
 Status: ACTIVE

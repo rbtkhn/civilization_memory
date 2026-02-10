@@ -3,7 +3,7 @@ Civilizational Memory Codex · Centralized Compliance Tracking
 MEM File Validation Status
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.1
+Governed by: CMC 3.2
 Last Updated: 2026-02-04
 Purpose: Track compliance status of all MEM files centrally
 

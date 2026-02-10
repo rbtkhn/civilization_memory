@@ -11,7 +11,7 @@ Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
 Supersedes: CIV–SCHOLAR–PROTOCOL v3.0
 Upgrade Type: ALIGNMENT · CMC 3.1 OGE SIMPLIFICATION
-Compatibility: CIV–SCHOLAR–TEMPLATE v3.1 · CIV–CORE–TEMPLATE v3.0
+Compatibility: CIV–SCHOLAR–TEMPLATE v3.1 · CIV–CORE–TEMPLATE v3.0 · CMC 3.2
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
@@ -85,7 +85,7 @@ Effect:
 • Enables state-based testing and debugging
 
 Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 3, Upgrade 3)
-Cross-ref: Section XIV-A (READ/REASON LAYER), CMC–BOOTSTRAP v3.0
+Cross-ref: Section XIV-A (READ/REASON LAYER), CMC–BOOTSTRAP
 
 No authority is weakened. No phase boundary is relaxed.
 
@@ -111,7 +111,7 @@ Effect:
 • Foundation for loadable cognitive state (future upgrade)
 
 Reference: PROPOSAL–COGNITIVE–STRUCTURE–UPGRADES (Phase 2, Upgrade 4)
-Cross-ref: CMC–BOOTSTRAP v3.0 (COGNITIVE STRUCTURE)
+Cross-ref: CMC–BOOTSTRAP (COGNITIVE STRUCTURE)
 
 No authority is weakened. No phase boundary is relaxed.
 
@@ -811,7 +811,7 @@ STATE SCHEMA (what constitutes cognitive state):
 │ CORE STATE (required for valid session)                         │
 ├─────────────────────────────────────────────────────────────────┤
 │ • governance_binding: string                                    │
-│   – e.g., "CMC–BOOTSTRAP v3.0"                                 │
+│   – e.g., "CMC 3.2"                                             │
 │   – Determines which governance rules apply                     │
 │                                                                 │
 │ • active_mode: enum [LEARN, WRITE, IMAGINE]                     │
@@ -844,7 +844,7 @@ To resume from saved state, declare at session start:
 
 ```
 STATE LOAD:
-  governance_binding: "CMC–BOOTSTRAP v3.0"
+  governance_binding: "CMC 3.2"
   active_mode: LEARN
   active_civilization: ANGLIA
   active_phase: I
@@ -853,7 +853,7 @@ STATE LOAD:
 
 Alternatively, minimal declaration:
 ```
-Bound by CMC–BOOTSTRAP v3.0. LEARN mode. ANGLIA. Phase I.
+Bound by CMC 3.2. LEARN mode. ANGLIA. Phase I.
 ```
 
 STATE VALIDATION (invariants for valid state):

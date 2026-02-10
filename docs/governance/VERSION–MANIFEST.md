@@ -1,12 +1,32 @@
-VERSION–MANIFEST — v3.1
+VERSION–MANIFEST — v3.2
 Civilizational Memory Codex · Canonical Version Registry
-VERSION DECOUPLING EDITION
+THREE-MODE ARCHITECTURE EDITION
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-02-04
-Supersedes: VERSION–MANIFEST v3.0
+Last Updated: 2026-02-10
+Supersedes: VERSION–MANIFEST v3.1
 Purpose: Single source of truth for governance version
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.2) — THREE-MODE ARCHITECTURE
+────────────────────────────────────────────────────────────
+This version formalizes the three-mode architecture and
+supporting governance changes implemented in February 2026.
+
+KEY CHANGES:
+• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM
+• CIV–COUNSEL file type: present-oriented decision support
+• SYSTEM mode: governance maintenance and auditing
+• TERMINOLOGY–REGISTRY: load-bearing/decorative audit, new-term gate
+• Decorative term replacements across governance files
+• CIV–COUNSEL–TEMPLATE added to template registry
+
+PREVIOUS 3.2 PROPOSALS RE-SCOPED:
+The proposals previously designated for CMC 3.2 (Current Events
+Protocol, Tiered Retrieval, Living ARC, MIND Navigation) are
+re-scoped to CMC 3.3. COUNSEL partially absorbs the Current
+Events Protocol concept.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.1) — VERSION DECOUPLING
@@ -31,10 +51,10 @@ I. CMC GOVERNANCE VERSION (SINGLE SOURCE OF TRUTH)
 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│              CMC GOVERNANCE VERSION: 3.1                    │
+│              CMC GOVERNANCE VERSION: 3.2                    │
 │                                                             │
-│  Effective: 2026-02-04                                      │
-│  Supersedes: CMC 3.0                                        │
+│  Effective: 2026-02-10                                      │
+│  Supersedes: CMC 3.1                                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
@@ -49,20 +69,21 @@ Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
 ────────────────────────────────────────────────────────────
-II. GOVERNANCE DOCUMENTS (ALL CMC 3.1)
+II. GOVERNANCE DOCUMENTS (ALL CMC 3.2)
 ────────────────────────────────────────────────────────────
-These documents are governed by CMC 3.1.
+These documents are governed by CMC 3.2.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (v3.1 — CMC 3.1 structural improvements)
+• CIV–MEM–CORE (v3.2 — three-mode architecture)
 • CMC–BOOTSTRAP
 • VERSION–MANIFEST (this file)
+• TERMINOLOGY–REGISTRY
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS (PRIMARY)
 • CIV–MIND–MEARSHEIMER (ADVISORY)
-• CIV–MIND–BARNES (TERTIARY CATALYST)
+• CIV–MIND–BARNES (LIABILITY/MECHANISM PERSPECTIVE)
 • CIV–MIND–TEMPLATE
 
 TEMPLATES:
@@ -71,6 +92,7 @@ TEMPLATES:
 • CIV–INDEX–TEMPLATE
 • CIV–SCHOLAR–TEMPLATE
 • CIV–SCHOLAR–PROTOCOL
+• CIV–COUNSEL–TEMPLATE
 • CIV–DOCTRINE–TEMPLATE
 • CIV–ARC–TEMPLATE
 • CIV–ARC–LEDGER–TEMPLATE
@@ -92,7 +114,7 @@ Content version does NOT increment for:
 • Header format changes
 • Compliance status updates
 
-SIMPLIFIED MEM HEADER FORMAT (CMC 3.1):
+SIMPLIFIED MEM HEADER FORMAT (CMC 3.1+):
 ```
 MEM–[CIV]–[SUBJECT] — v[X.Y]
 Civilizational Memory Codex · Memory File
@@ -137,25 +159,28 @@ For detailed changelog, see:
 • docs/governance/CHANGELOG.md
 
 MAJOR VERSIONS:
-• CMC 3.2 (Pending): Current Events, Tiered Retrieval, Living ARC, MIND Navigation
+• CMC 3.3 (Pending): Tiered Retrieval, Living ARC, MIND Navigation (re-scoped from 3.2)
+• CMC 3.2 (2026-02-10): Three-Mode Architecture Edition (SCHOLAR/COUNSEL/SYSTEM)
 • CMC 3.1 (2026-02-04): Version Decoupling Edition
 • CMC 3.0 (2026-02-02): Consolidation Edition
 • CMC 2.x (2026-01): Development iterations
 • CMC 1.x (2025): Initial architecture
 
-CMC 3.2 PROPOSALS (DRAFT):
-• PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
+CMC 3.3 PROPOSALS (re-scoped from 3.2):
 • PROPOSAL–TIERED–RETRIEVAL.md
 • PROPOSAL–LIVING–ARC.md
 • PROTOCOL–MIND–NAVIGATION.md (ACTIVE)
-• ROADMAP–CMC–3.2.md
+• ROADMAP–CMC–3.2.md (to be updated to 3.3)
+
+Note: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md is partially absorbed
+by CIV–COUNSEL; remaining aspects may be included in 3.3.
 
 ────────────────────────────────────────────────────────────
 VI. QUICK BINDING DECLARATION
 ────────────────────────────────────────────────────────────
 For session startup, declare:
 
-"Bound by CMC Governance Version 3.1"
+"Bound by CMC Governance Version 3.2"
 
 This single declaration replaces all previous multi-line bindings.
 
@@ -164,10 +189,10 @@ VII. COMPLIANCE RULES
 ────────────────────────────────────────────────────────────
 1. New MEMs use simplified header format (Section III)
 2. Existing MEMs with old headers remain valid
-3. MIND profile references use "CMC 3.1" not individual versions
+3. MIND profile references use "CMC 3.2" not individual versions
 4. Compliance status tracked in COMPLIANCE–REGISTRY.md
 5. Version changes logged in CHANGELOG.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v3.1
+END OF FILE — VERSION–MANIFEST — v3.2
 ────────────────────────────────────────────────────────────

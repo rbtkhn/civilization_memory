@@ -2,7 +2,7 @@ CONCEPT–INDEX
 Civilizational Memory Codex · Semantic Discovery Layer
 Analytical Concept Taxonomy and MEM Mappings
 
-Governed by: CMC 3.1
+Governed by: CMC 3.2
 Status: ACTIVE · CANONICAL
 Last Updated: February 2026
 

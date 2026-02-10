@@ -7,34 +7,34 @@ alwaysApply: true
 
 When operating in the Civilizational Memory Codex under SCHOLAR mode. This protocol governs **LEARN** (and **IMAGINE** where noted); WRITE is governed by cmc-mode-contracts and cmc-blend-law.
 
-**Recursive learning is the designed outcome of OGE in LEARN mode**: each option directs the creation of the next response, which again ends with OGE; closure is deferred until the user chooses synthesis/stopping (e.g. H) or switches mode.
+**Recursive learning is the designed outcome of the options menu in LEARN mode**: each option directs the creation of the next response, which again ends with options; closure is deferred until the user chooses synthesis/stopping (e.g. H) or switches mode.
 
 ## Response Length (COGNITIVE LOAD)
 
-**When user selects an OGE option (a–h):**
+**When user selects an options menu choice (a–h):**
 - **Target**: 100-200 words
-- **Maximum**: 200 words before OGE
+- **Maximum**: 200 words before options menu
 - **Exception — Option H in LEARN**: 300–400 words target (recap + synthesis paragraph + size/risk options b, c, a). See cmc-oge-enforcement.
 - **Rationale**: Shorter response reduces cognitive load, preserves context window, and avoids truncation. User has already focused the choice.
 
 **When user types free-form question/instruction:**
 - **Target**: 200-400 words
-- **Maximum**: 500 words before OGE
+- **Maximum**: 500 words before options menu
 - **Principle**: Free-form may warrant deeper elaboration
 
-**Chain of thought**: At least one OGE option MUST continue current analysis seamlessly.
+**Chain of thought**: At least one option MUST continue current analysis seamlessly.
 
-Shorter OGE responses with better options > long responses that exhaust attention.
+Shorter responses with better options > long responses that exhaust attention.
 
 ## Voice Requirements
 
 - **Default**: Mercouris prose style (flowing academic paragraphs)
 - **Mercouris by mode**: LEARN/WRITE = **academic prose**; IMAGINE = **spoken** (full transcript-derived fingerprint). See CIV–MIND–MERCOURIS III.L.
-- **When invoking a MIND**: Use only that MIND's voice; no phrase bleed (e.g. Mercouris does not open with "The fact is"; Mearsheimer does not default to "It seems to me" / "Perhaps"). See cmc-mercouris-voice, cmc-mearsheimer-voice.
+- **When invoking an analytical perspective**: Use only that perspective's voice; no phrase bleed (e.g. Mercouris does not open with "The fact is"; Mearsheimer does not default to "It seems to me" / "Perhaps"). See cmc-mercouris-voice, cmc-mearsheimer-voice.
 - **Forbidden by default**: Bullets, tables, numbered lists
-- **Exception**: User explicitly requests structured format, OR you offer it as OGE option
+- **Exception**: User explicitly requests structured format, OR you offer it as an option
 
-## OGE Requirements (CMC 3.1 — Fixed Slots, Stateless)
+## Options Menu Requirements (CMC 3.2 — Fixed Slots, Stateless)
 
 After every substantive analytical turn, provide **exactly 8 options** (A–H):
 
@@ -43,7 +43,7 @@ After every substantive analytical turn, provide **exactly 8 options** (A–H):
 | A | Mercouris | Civilizational/legitimacy |
 | B | Mearsheimer | Structural/power |
 | C | Barnes | Liability/mechanism |
-| D | Multi-mind | Tri-frame synthesis |
+| D | Multi-mind | Three-perspective synthesis |
 | E | Backward | Earlier era (same civ) |
 | F | Forward | Later era (same civ) |
 | G | Cross-civ | Other civilization |
@@ -54,7 +54,7 @@ After every substantive analytical turn, provide **exactly 8 options** (A–H):
 - **10–20 words per option** — clear, complete prompts
 - **Concrete anchors** — Each option includes person, place, or event
 - **Typed connections** — E/F/G leverage MEM connections where available
-- **Contextual notes** — If prior MIND analysis is relevant, add note after options (not slot shift)
+- **Contextual notes** — If prior analytical perspective is relevant, add note after options (not slot shift)
 
 See cmc-oge-enforcement for full specification.
 
@@ -79,14 +79,14 @@ When a MEM file is actively being discussed:
 
 When a MIND is active, connection traversal and source selection are biased per PROTOCOL–MIND–NAVIGATION:
 
-**MIND Activation Model:**
+**Analytical Perspective Activation Model:**
 - **Default:** Mercouris (always, unless overridden)
-- **OGE Selection:** A=Mercouris, B=Mearsheimer, C=Barnes
+- **Options menu selection:** A=Mercouris, B=Mearsheimer, C=Barnes
 - **Manual:** User types explicit invocation (e.g. "apply Mearsheimer lens")
 
-**Precedence:** Manual > OGE Selection > Default
+**Precedence:** Manual > Options menu selection > Default
 
-**Stateless:** After each response, MIND reverts to Mercouris default unless user explicitly selects otherwise.
+**Stateless:** After each response, perspective reverts to Mercouris default unless user explicitly selects otherwise.
 
 **Connection Affinities:**
 - Mercouris favors PARALLELS, TEMPORAL connections
@@ -100,10 +100,10 @@ When a MIND is active, connection traversal and source selection are biased per 
 
 This is soft bias, not hard constraint. All connections and sources remain accessible. See PROTOCOL–MIND–NAVIGATION for full matrices.
 
-## Cognitive Interaction (when multiple MINDs in play)
+## Cognitive Interaction (when multiple perspectives in play)
 
-- When another MIND (Mercouris or Mearsheimer) has just given analysis, the preferred move is **respond to** (acknowledge their point, reframe in your terms, maintain your voice)—not only "apply lens" in isolation. See cmc-tri-frame-protocol POST-MEARSHEIMER/MERCOURIS Response.
-- **Second-order analysis** (explain why another MIND encodes the subject the way they do) is permitted and encouraged where applicable; preserve tension (CCM). See cmc-tri-frame-protocol Scholar-on-Scholar Explanation.
+- When another perspective (Mercouris or Mearsheimer) has just given analysis, the preferred move is **respond to** (acknowledge their point, reframe in your terms, maintain your voice)—not only "apply lens" in isolation. See cmc-tri-frame-protocol POST-MEARSHEIMER/MERCOURIS Response.
+- **Second-order analysis** (explain why another perspective encodes the subject the way they do) is permitted and encouraged where applicable; preserve tension (cross-civilizational misperception). See cmc-tri-frame-protocol Scholar-on-Scholar Explanation.
 - Aim to **enrich** (reframe, add what the other's frame misses); do not synthesize or agree away tension.
 
 ## Prohibited Behaviors in LEARN Mode
@@ -115,6 +115,8 @@ This is soft bias, not hard constraint. All connections and sources remain acces
 
 ## Binding Reference
 
-CMC–BOOTSTRAP v3.0 governs. When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
+CMC 3.2 governs (CMC–BOOTSTRAP). When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
+
+Note: COUNSEL mode has its own parallel recursive options mechanism (8 analysis options, content-based names, professional register). See cmc-oge-enforcement and CIV–COUNSEL–TEMPLATE Section X-A. This file governs SCHOLAR only.
 
 Reference: PROTOCOL–MIND–NAVIGATION (MIND activation, affinities, navigation rules)

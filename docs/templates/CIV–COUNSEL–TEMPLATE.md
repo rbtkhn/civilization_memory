@@ -6,7 +6,7 @@ Version: 1.2
 Supersedes: CIV–COUNSEL–TEMPLATE v1.1
 Upgrade Type: SYNC PROTOCOL · SOURCE VERSIONS
 Class: CIV–COUNSEL–TEMPLATE (Decision-Support Governance)
-Compatibility: CIV–MEM–CORE v3.0 · CMC 3.1
+Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
@@ -61,7 +61,7 @@ COUNSEL files are written for a **decision-maker** who has not studied
 the CMC's internal governance.
 
 The reader should be able to understand any COUNSEL file without
-knowing what a MEM, RLL, MIND profile, OGE, ARC, or tri-frame is.
+knowing what a MEM, RLL, analytical profile, options menu, ARC, or three-perspective analysis is.
 
 REGISTER RULES:
 • Use professional analytical language throughout
@@ -353,6 +353,86 @@ All revisions must be documented. Silent changes to options are
 prohibited.
 
 ────────────────────────────────────────────────────────────
+X-A. RECURSIVE ANALYSIS OPTIONS (CMC 3.2)
+────────────────────────────────────────────────────────────
+COUNSEL sessions are recursive. After every substantive analytical
+turn, the system presents 8 analysis options that guide the next
+response. Closure is deferred until the user selects assessment
+closure (H) or exits COUNSEL mode.
+
+Recursive analysis is the designed outcome: each option directs
+the creation of the next response, which again ends with options.
+This mirrors SCHOLAR LEARN's recursive options menu but uses
+COUNSEL's external-facing register and decision-support framing.
+
+ANALYSIS OPTIONS (8 FIXED SLOTS):
+
+  A — Legitimacy and institutional continuity: [deepen this
+       perspective on the current situation — 10-20 words]
+  B — Power distribution and structural constraint: [deepen
+       this perspective — 10-20 words]
+  C — Leadership liability and mechanism: [deepen this
+       perspective — 10-20 words]
+  D — Three-perspective assessment: [all three on a specific
+       issue — 10-20 words]
+  E — Historical precedent: [which MEM-grounded pattern
+       illuminates this? — 10-20 words]
+  F — Forward projection: [what does this suggest for a
+       specific timeframe or scenario? — 10-20 words]
+  G — Cross-entity: [how does this affect a related entity?
+       — 10-20 words]
+  H — Assessment closure: [synthesize findings, propose
+       COUNSEL file updates]
+
+SLOT RULES:
+• Slots are FIXED — A is always legitimacy/institutional
+  continuity, B is always power/structural, etc.
+• Slots are STATELESS — regenerated fresh each turn, no
+  semantic shifting based on prior selections
+• Each option 10-20 words with at least one concrete anchor
+  (person, place, event, date, entity)
+• Options guide the creation of the next response (productive,
+  not predictive)
+
+REGISTER RULES FOR OPTIONS:
+• Perspectives named by content, not by MIND profile name
+• No OGE, MIND, or system-internal terms
+• Professional analytical language throughout
+• Selecting A/B/C applies the analytical logic of that
+  perspective in professional register — it does NOT invoke
+  a MIND linguistic fingerprint
+
+RESPONSE LENGTH (when user selects an option):
+• Target: 100-200 words before next options
+• Maximum: 200 words before options
+• Exception — Option H: 300-400 words (session recap +
+  proposed COUNSEL file updates + follow-on options)
+
+RESPONSE LENGTH (free-form question/instruction):
+• Target: 200-400 words before options
+• Maximum: 500 words before options
+
+OPTION H — ASSESSMENT CLOSURE:
+When user selects H, deliver:
+1. Session recap (6-10 words)
+2. Synthesis paragraph (<100 words): key findings, tensions,
+   and decision-relevant shifts identified in this session
+3. Proposed COUNSEL file updates: specific changes to options,
+   assumptions, confidence levels, stability indicators, or
+   evidence updates — with section references
+4. Three follow-on options: (b) small incremental update,
+   (c) bigger structural revision, (a) no change needed
+
+DISTINCTION FROM SCHOLAR OPTIONS:
+• SCHOLAR options deepen historical understanding
+• COUNSEL options refine decision-relevant assessment
+• SCHOLAR E/F traverse to earlier/later historical eras
+• COUNSEL E draws historical precedent into the present;
+  COUNSEL F projects the analysis forward in time
+• SCHOLAR H produces a learning synthesis
+• COUNSEL H produces actionable COUNSEL file update proposals
+
+────────────────────────────────────────────────────────────
 XI. REGISTER RULES (BINDING)
 ────────────────────────────────────────────────────────────
 CIV–COUNSEL files are external-facing. The following terms MUST NOT
@@ -393,7 +473,7 @@ They are distinguished primarily by temporal orientation.
 
 | File Type | Temporal Orientation | Learns From | Audience | Writes To |
 |-----------|---------------------|-------------|----------|-----------|
-| CIV–SCHOLAR | Past (centuries) | Historical sources, MEMs | System | CIV–DOCTRINE (via DIB) |
+| CIV–SCHOLAR | Past (centuries) | Historical sources, MEMs | System | CIV–DOCTRINE (via doctrine gateway) |
 | CIV–COUNSEL | Present (weeks–years) | Current events, news, observable indicators | Decision-maker | — |
 | CIV–CORE | Persistent | — (constrained by SCHOLAR/DOCTRINE) | System | — |
 | CIV–DOCTRINE | Frozen | — (accepted from SCHOLAR) | System | CIV–CORE (citations) |
@@ -434,6 +514,8 @@ Before finalizing any CIV–COUNSEL file:
 - [ ] All prose in external-facing register (no system-internal terms)?
 - [ ] Duty of competence declaration present in header?
 - [ ] Source files cited where relevant?
+- [ ] Recursive analysis options presented after every substantive
+      analytical turn in COUNSEL sessions?
 
 ────────────────────────────────────────────────────────────
 XIV. SYNC PROTOCOL
@@ -473,7 +555,7 @@ SYNC PROCEDURE:
 ────────────────────────────────────────────────────────────
 XV. VERSIONING
 ────────────────────────────────────────────────────────────
-Per CMC 3.1 Version Decoupling:
+Per Version Decoupling (CMC 3.1+):
 • COUNSEL files declare content version only
 • Increment version when analytical content changes, options are
   revised, or new options are added

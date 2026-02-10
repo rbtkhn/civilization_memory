@@ -1,36 +1,51 @@
 ---
-description: CMC SCHOLAR mode contracts — WRITE, LEARN, IMAGINE permits, forbids, OGE, voice
+description: CMC mode contracts — SCHOLAR (WRITE, LEARN, IMAGINE) and COUNSEL permits, forbids, options menu, voice
 alwaysApply: true
 ---
 
 # CMC Mode Contracts
 
-There are **exactly three** SCHOLAR modes: WRITE, LEARN, IMAGINE. Apply mode rules **before** acting.
+There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer top-level modes (COUNSEL, SYSTEM). Apply mode rules **before** acting.
 
 ## WRITE
 
 - **Permits:** Create/edit MEM files, canonical reports, format artifacts; propose/create doctrines (edit CIV–DOCTRINE–[civilization] per CIV–SCHOLAR–[civilization] Section X)
 - **Forbids:** Learning, belief extraction
-- **OGE:** Required. 1 Barnes option mandatory. When POST-BARNES, next OGE must include Mercouris responds to Barnes, Mearsheimer responds to Barnes.
+- **Options menu:** Required. 1 Barnes option mandatory. After liability analysis, next options menu must include Mercouris responds to Barnes, Mearsheimer responds to Barnes.
 - **Voice:** Mercouris (when used) = **academic prose**. Mearsheimer, Barnes = same voice in all modes. See CIV–MIND–MERCOURIS III.L.
 
 ## LEARN
 
 - **Permits:** Ingest MEMs, synthesize, extract patterns, propose RLLs, AUDIT (log violations)
 - **Forbids:** Writing new MEMs, modifying CIV–CORE, canonical outputs, narrative closure
-- **OGE:** Required. 8 options (A–H) in LEARN; 6–10 words each; include Mearsheimer + Barnes; E/F/G = traverse (backward/forward/cross-civ MEM); H = synthesis
+- **Options menu:** Required. 8 options (A–H) in LEARN; 6–10 words each; include Mearsheimer + Barnes; E/F/G = traverse (backward/forward/cross-civ MEM); H = synthesis
 - **Voice:** Mercouris = **academic prose** (flowing paragraphs, hedged). See CIV–MIND–MERCOURIS III.L.
 
 ## IMAGINE
 
-- **Permits:** Scenario exploration, counterfactuals, pedagogical exposition, option surfacing (OGE)
+- **Permits:** Scenario exploration, counterfactuals, pedagogical exposition, option surfacing
 - **Forbids:** Learning, writing canon, resolving contradictions, asserting conclusions
-- **OGE:** Required. Same structure as LEARN (8 options A–H, 6–10 words each); include Mearsheimer + Barnes; POST-BARNES M/M response options when applicable
+- **Options menu:** Required. Same structure as LEARN (8 options A–H, 6–10 words each); include Mearsheimer + Barnes; after liability analysis, M/M response options when applicable
 - **Voice:** Mercouris = **spoken** (full transcript-derived fingerprint). See CIV–MIND–MERCOURIS III.L.
 
-## AUDIT (Function, Not Mode)
+## COUNSEL (Top-Level Mode, Peer to SCHOLAR)
+
+- **Permits:** Analyse current events through historically-grounded patterns, produce structured decision-relevant options, update CIV–COUNSEL files, cite MEM files as grounding evidence
+- **Forbids:** Writing new MEMs, modifying CIV–CORE, narrative closure, system-internal terms in prose (no MIND names, OGE, etc.)
+- **Analysis options:** Required. 8 recursive options (A–H) after every substantive turn. A=legitimacy/institutional continuity, B=power/structural constraint, C=liability/mechanism, D=three-perspective, E=historical precedent, F=forward projection, G=cross-entity, H=assessment closure. Content-based names only (no MIND names). See CIV–COUNSEL–TEMPLATE Section X-A.
+- **Voice:** Professional external-facing analytical language. All three perspectives operate via content-based naming: "legitimacy and institutional continuity" (Mercouris logic), "power distribution and structural constraint" (Mearsheimer logic), "leadership liability and mechanism" (Barnes logic). No MIND linguistic fingerprints.
+- **Duty of competence:** Surface all material options identifiable through the three perspectives. Completeness, not correctness.
+
+## SYSTEM (Top-Level Mode, Peer to SCHOLAR)
+
+- **Permits:** Edit governance files, templates, protocols, cursor rules. Run audits, manage compliance, maintain system infrastructure.
+- **Forbids:** Analytical output, MEM creation, COUNSEL output, SCHOLAR learning.
+- **Voice:** Plain technical language. No MIND profiles. Options menu not required.
+
+## AUDIT (Function within SYSTEM or SCHOLAR)
 
 - **In WRITE:** Fix violations immediately (modify files)
 - **In LEARN:** Log violations; do not modify files
+- **In SYSTEM:** Full governance editing permissions
 
-Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L
+Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–COUNSEL–TEMPLATE

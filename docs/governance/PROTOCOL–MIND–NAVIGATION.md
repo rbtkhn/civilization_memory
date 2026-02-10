@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Author:** CMC System  
 **Date:** 2026-02-03  
-**Governed by:** CMC 3.1  
+**Governed by:** CMC 3.2  
 **Dependencies:** CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES, PROPOSAL–LIVING–ARC, CONCEPT–INDEX
 
 ---

@@ -12,6 +12,7 @@ Mode Availability:
 • WRITE MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
 • LEARN MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
 • IMAGINE MODE: OGE-REQUIRED (1 option mandatory in OGE menu)
+• COUNSEL MODE: Via content-based naming (duty of competence)
 Compatibility:
 • CIV–MIND–TEMPLATE v3.0 (REQUIRED)
 • CIV–MIND–MERCOURIS v3.0 (PRIMARY — REQUIRED)
@@ -20,15 +21,16 @@ Compatibility:
 • CIV–SCHOLAR–PROTOCOL v3.0 (ALIGNED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
+• CIV–COUNSEL (via content-based naming; see III.A)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.0
+• CIV–MEM–CORE v3.2
 • CIV–MIND–TEMPLATE v3.0
-• CIV–MIND–MERCOURIS v3.0 (PRIMARY MIND)
-• CIV–SCHOLAR–PROTOCOL v3.0 (OGE INTEGRATION)
+• CIV–MIND–MERCOURIS v3.1 (PRIMARY MIND)
+• CIV–SCHOLAR–PROTOCOL v3.1 (OPTIONS MENU INTEGRATION)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 ────────────────────────────────────────────────────────────
@@ -262,9 +264,10 @@ This is the catalyst function — Barnes changes how the other
 minds see, not just what is said.
 
 ────────────────────────────────────────────────────────────
-III.A MODE AVAILABILITY (BINDING)
+III.A MODE AVAILABILITY (BINDING, updated CMC 3.2)
 ────────────────────────────────────────────────────────────
-All modes: Barnes OGE option REQUIRED (1 option mandatory in OGE menu)
+All SCHOLAR modes: Barnes OGE option REQUIRED (1 option mandatory in OGE menu)
+COUNSEL mode: Barnes perspective applied via duty of competence
 
 WRITE MODE:
 • Barnes: OGE-REQUIRED
@@ -292,6 +295,19 @@ IMAGINE MODE:
   - Exploring "what if X defected first?"
   - Testing mechanism beneath official narrative
   - Probing irreversibility thresholds
+
+COUNSEL MODE:
+• Barnes: Applied via duty of competence (all three perspectives required)
+• Purpose: Ensure leadership liability and mechanism dimension is surfaced
+  in decision-relevant options
+• Register: External-facing, professional. Named by content:
+  "leadership liability and mechanism perspective"
+• No Barnes linguistic fingerprint, OGE, or MIND profile names in prose
+• Same analytical logic: constraint hierarchy (jurisdiction → personal
+  liability → defection incentive → institutional survival → irreversibility)
+• Barnes insights appear as option-level binding constraints and risk
+  identification, not as Barnes-voiced interjections
+See: CIV–COUNSEL–TEMPLATE Section IV (Translation Table)
 
 ────────────────────────────────────────────────────────────
 III.A.i MODE-SPECIFIC INTERJECTION FRAMING (v1.5)
@@ -1252,6 +1268,8 @@ MODE GATE (BINDING):
 • WRITE MODE: Barnes REQUIRED in OGE (1 option mandatory)
 • LEARN MODE: Barnes REQUIRED in OGE (1 option mandatory)
 • IMAGINE MODE: Barnes REQUIRED in OGE (1 option mandatory)
+• COUNSEL MODE: Barnes perspective applied via duty of competence
+  (content-based naming; no OGE or MIND names in prose)
 
 OGE SHOULD PRESENT BARNES OPTION WHEN:
 
@@ -1331,10 +1349,9 @@ Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
 ────────────────────────────────────────────────────────────
 XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–BARNES v3.1 is CANONICAL.
+CIV–MIND–BARNES v3.0 is CANONICAL.
 
-All uses MUST declare:
-"Bound by CIV–MIND–BARNES v3.0 (TERTIARY CATALYST)"
+All uses governed by CMC 3.2.
 
 Mode constraints are BINDING:
 • WRITE MODE: Barnes OGE-REQUIRED (1 option mandatory)

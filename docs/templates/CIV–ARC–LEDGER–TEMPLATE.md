@@ -3,7 +3,7 @@ Civilizational Memory Codex · Source Registry & Citation Ledger
 Consolidated Bibliography with Citation Frequency
 
 Status: ACTIVE · CANONICAL · DERIVED
-Governance: CIV–ARC–TEMPLATE v3.0 · CIV–MEM–TEMPLATE v3.0
+Governance: CIV–ARC–TEMPLATE v3.1 · CIV–MEM–TEMPLATE v3.1
 Scope: Aggregated source registry for [CIVILIZATION] corpus
 Last Generated: [DATE]
 

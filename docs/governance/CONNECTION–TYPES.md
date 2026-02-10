@@ -2,7 +2,7 @@ CONNECTION–TYPES
 Civilizational Memory Codex · Typed Connection Reference
 Directional Edge Semantics for MEM Connections
 
-Governed by: CMC 3.1
+Governed by: CMC 3.2
 Status: ACTIVE · CANONICAL
 Last Updated: February 2026
 
@@ -270,5 +270,5 @@ MIGRATION:
 • Tooling can assist with type inference
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CONNECTION–TYPES (CMC 3.1)
+END OF FILE — CONNECTION–TYPES (CMC 3.2)
 ────────────────────────────────────────────────────────────

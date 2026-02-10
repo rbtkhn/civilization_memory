@@ -6,14 +6,14 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Supersedes: CIV–CORE–TEMPLATE v2.0
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
+Compatibility: CIV / MEM / SCHOLAR / COUNSEL Architecture (CMC v3.2)
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v3.0 (global system law)
+• CIV–MEM–CORE v3.2 (global system law)
 • CIV–CORE–GOVERNANCE–LAW v1.0 (implicit)
-• CIV–SCHOLAR–PROTOCOL v3.0 (interaction layer only)
+• CIV–SCHOLAR–PROTOCOL v3.1 (interaction layer only)
 
 Last Update: February 2026
 WORDCOUNT: ~4,000

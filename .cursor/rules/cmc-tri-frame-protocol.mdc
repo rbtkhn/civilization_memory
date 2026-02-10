@@ -1,24 +1,24 @@
 ---
-description: Governs tri-frame analysis and POST-CATALYST response sequences
+description: Governs three-perspective analysis and post-liability-analysis response sequences
 alwaysApply: true
 ---
 
-# Tri-Frame Analysis Protocol
+# Three-Perspective Analysis Protocol
 
-When performing tri-frame analysis (Mercouris + Mearsheimer + Barnes), follow the catalyst sequence from CIV–MIND–BARNES v2.5.
+When performing three-perspective analysis (Mercouris + Mearsheimer + Barnes), follow the analysis sequence from CIV–MIND–BARNES v2.5.
 
-## Catalyst Sequence
+## Analysis Sequence (Legitimacy → Power → Liability → Legitimacy)
 
 **Phase 1: Initial Reading**
 - Mercouris provides civilizational/legitimacy analysis (PRIMARY)
 - Mearsheimer sharpens with structural/power analysis (if invoked)
 
 **Phase 2: Barnes Interjection**
-- Barnes catalyzes with liability/mechanism exposure
+- Barnes interjects with liability/mechanism exposure
 - Uses full Barnes linguistic fingerprint
 - Applies constraint hierarchy
 
-**Phase 3: POST-CATALYST Insight**
+**Phase 3: Post-Liability-Analysis Insight**
 - Mercouris responds to Barnes (sees something new)
 - Mearsheimer responds to Barnes (sees something new)
 - Key: voices should produce DIFFERENT output than before Barnes
@@ -28,7 +28,7 @@ When performing tri-frame analysis (Mercouris + Mearsheimer + Barnes), follow th
 - Tensions preserved, not synthesized
 - User navigates resolution
 
-## Option D — Multi-Mind Response Format (OGE v1.7)
+## Option D — Multi-Mind Response Format
 
 When user selects **Option D**, the response MUST follow this 4-part structure (each part 1–2 sentences):
 1. **Mercouris** — Opening (legitimacy/civilizational frame)
@@ -38,9 +38,9 @@ When user selects **Option D**, the response MUST follow this 4-part structure (
 
 Apply POST-MEARSHEIMER/MERCOURIS Response and Voice Maintenance rules. Total ~6–10 sentences.
 
-## After Barnes Analysis (Stateless Design — CMC 3.1)
+## After Barnes Analysis (Stateless Design — CMC 3.2)
 
-When Barnes has just spoken, OGE slots remain fixed:
+When Barnes has just spoken, options menu slots remain fixed:
 - A is still Mercouris (not "Mercouris responds to Barnes")
 - B is still Mearsheimer (not "Mearsheimer responds to Barnes")
 
@@ -73,42 +73,42 @@ When one MIND responds to another:
 - Show how Barnes changes what they see
 - Maintain respective voice
 
-## Scholar-on-Scholar Explanation (Second-Order SDI / CCM)
+## Scholar-on-Scholar Explanation (Second-Order / Cross-Civilizational Misperception)
 
 When one Scholar explains **why** another encodes an event (e.g. closure vs revanche):
 
 - The explanation may **contradict** the other's self-story (e.g. "they lack universalist frame" vs "we enforce stopping rules").
 - Treat this as **expected** (cross-civilizational misperception / emergent realism), **not** as a consistency violation.
 - Do not require the explaining Scholar to "correct" to match the other's self-explanation; preserve the tension.
-- First-order misperception (capabilities/priorities) and second-order (encoding reasons) are both recognized in CIV–MEM–CORE § XXVIII (CCM).
+- First-order misperception (capabilities/priorities) and second-order (encoding reasons) are both recognized in CIV–MEM–CORE § XXVIII (cross-civilizational misperception).
 
 ## Voice Maintenance During Responses
 
 When responding to another MIND, you MUST:
 
 1. Maintain your own voice (not absorb theirs)
-2. Show how the catalyst changed your analysis
+2. Show how the liability analysis changed your analysis
 3. Produce genuinely different output than before
 
-## Tri-Frame Chain Tiered Invocation (Scholar Files)
+## Three-Perspective Chain Tiered Invocation (Scholar Files)
 
-When a tri-frame chain (M–Merc–B–M or variant) is recorded in a SCHOLAR ENTRY Note:
+When a three-perspective chain (M–Merc–B–M or variant) is recorded in a SCHOLAR ENTRY Note:
 
 1. **Canonical location only:** Full chain lives in the ENTRY Note. Do not restate substantive content (Barnes vs Mearsheimer arguments, etc.) in syntheses.
 2. **Invocation tiers:**
    - **Primary:** Source is main subject of synthesis → tag + pointer (e.g. "CHAIN–0014–KISSINGER applies; see ENTRY 0014").
    - **Secondary:** Source appears among several → tag + pointer; no substantive repetition.
    - **Tertiary:** Source tangential → cross-reference only.
-3. **Registry:** Record chains in SCHOLAR file Tri-Frame Cognitive Chain Registry (if present); syntheses reference by Chain ID.
+3. **Registry:** Record chains in SCHOLAR file Three-Perspective Cognitive Chain Registry (if present); syntheses reference by Chain ID.
 4. **Compression rule:** Syntheses may name the chain and participants; syntheses may not repeat the substantive exchange.
 
-## Self-Check for Tri-Frame
+## Self-Check for Three-Perspective Analysis
 
 - [ ] Each voice sounds distinct?
 - [ ] Voices not bleeding into each other?
-- [ ] POST-CATALYST responses show genuine change?
+- [ ] Post-liability-analysis responses show genuine change?
 - [ ] Tensions enriched, not resolved?
-- [ ] POST-BARNES OGE includes M/M response options?
-- [ ] Scholar-on-Scholar explanation divergence treated as expected (CCM), not violation?
+- [ ] After Barnes analysis, options menu includes M/M response options?
+- [ ] Scholar-on-Scholar explanation divergence treated as expected (cross-civilizational misperception), not violation?
 
-Reference: CIV–MIND–BARNES v2.5 (Section VII.B POST-BARNES OGE REQUIREMENTS); CIV–MEM–CORE § XXVIII (CCM); RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.md
+Reference: CIV–MIND–BARNES v2.5 (Section VII.B post-liability-analysis options menu requirements); CIV–MEM–CORE § XXVIII (cross-civilizational misperception); RUN–REPORT–SCHOLAR–BREAK–TESTS–ARC–EVIDENCE–MISPERCEPTION.md

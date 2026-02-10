@@ -1,20 +1,47 @@
-CIV–MEM–CORE — v3.1
+CIV–MEM–CORE — v3.2
 Civilizational Memory Codex · System Core
-CMC 3.1 EDITION · STRUCTURAL IMPROVEMENTS
+CMC 3.2 EDITION · THREE-MODE ARCHITECTURE
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 3.1
+Version: 3.2
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v3.0
-Upgrade Type: CMC 3.1 · STRUCTURAL IMPROVEMENTS
-Last Update: February 2026
+Supersedes: CIV–MEM–CORE v3.1
+Upgrade Type: CMC 3.2 · THREE-MODE ARCHITECTURE
+Last Update: 10 February 2026
 
 LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
 CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.2) — CMC 3.2 · THREE-MODE ARCHITECTURE
+────────────────────────────────────────────────────────────
+This version formalizes the three-mode architecture and
+supporting governance changes.
+
+KEY CHANGES:
+• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM (peers)
+• CIV–COUNSEL file type: present-oriented decision support
+  with duty of competence and three-perspective completeness
+• SYSTEM mode: governance maintenance, auditing, template
+  management separated from analytical work
+• TERMINOLOGY–REGISTRY: load-bearing/decorative classification,
+  new-term gate protocol (no new term without plain-English
+  justification)
+• Decorative term replacements: OGE → options menu,
+  Blend Law → content proportion rule, TRI-FRAME →
+  three-perspective analysis, POST-BARNES → after liability
+  analysis, CCM → cross-civilizational misperception (spelled out)
+• CIV–COUNSEL–TEMPLATE added to template registry
+• Barnes reclassified: "TERTIARY CATALYST" → "LIABILITY/MECHANISM
+  PERSPECTIVE" (per terminology audit)
+
+PREVIOUS CMC 3.2 PROPOSALS RE-SCOPED TO CMC 3.3:
+Current Events Protocol (partially absorbed by COUNSEL),
+Tiered Retrieval, Living ARC, MIND Navigation.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.1) — CMC 3.1 · STRUCTURAL IMPROVEMENTS
@@ -80,14 +107,16 @@ Backward Compatibility:
 • Prior OGE rules superseded by CMC 3.1 stateless design
 
 ────────────────────────────────────────────────────────────
-CMC 3.2 PROPOSALS (DRAFT)
+CMC 3.3 PROPOSALS (re-scoped from 3.2)
 ────────────────────────────────────────────────────────────
-The following proposals extend CMC 3.1 and are documented pending approval:
+The following proposals were originally designated CMC 3.2. They are
+re-scoped to CMC 3.3 because CMC 3.2 was used for the three-mode
+architecture. COUNSEL partially absorbs the Current Events Protocol.
 
-CURRENT EVENTS PROTOCOL (CEP):
+CURRENT EVENTS PROTOCOL (CEP) — PARTIALLY ABSORBED:
 Bidirectional analysis of current events against historical MEMs.
-• Forward application: MEMs inform current events
-• Backward illumination: Current events reveal MEM insights
+• Forward application: MEMs inform current events — ABSORBED by COUNSEL
+• Backward illumination: Current events reveal MEM insights — remaining
 See: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
 
 TIERED RETRIEVAL:
@@ -104,14 +133,14 @@ Automatic source lifecycle management in ARC files.
 See: PROPOSAL–LIVING–ARC.md
 
 MIND NAVIGATION:
-MIND influences navigation, not just voice.
-• Connection affinities by MIND (Mercouris/Mearsheimer/Barnes)
+Analytical perspective influences navigation, not just voice.
+• Connection affinities by perspective (Mercouris/Mearsheimer/Barnes)
 • Source affinities for ARC selection
 • Concept category affinities
-• Stateless MIND activation model
+• Stateless perspective activation model
 See: PROTOCOL–MIND–NAVIGATION.md (ACTIVE)
 
-Implementation: ROADMAP–CMC–3.2.md
+Implementation: ROADMAP–CMC–3.2.md (to be updated to 3.3)
 
 Reference: PROPOSAL–VERSION–DECOUPLING, PROPOSAL–TYPED–CONNECTIONS,
 PROPOSAL–CONCEPT–INDEX, PROPOSAL–OGE–SIMPLIFICATION (all IMPLEMENTED);
@@ -1406,7 +1435,7 @@ VERSION RULE (BINDING — CMC 3.1 VERSION DECOUPLING):
 • New MEMs use simplified header (no "Governed by", "Template Version Used", or "Compatibility"); see VERSION–MANIFEST.
 • Existing MEMs with legacy headers remain valid. No batch upgrade required.
 • Compliance tracked in COMPLIANCE–REGISTRY.md; version history in CHANGELOG.md.
-• Governance binding: single CMC version (CMC 3.1); see VERSION–MANIFEST Section I.
+• Governance binding: single CMC version (CMC 3.2); see VERSION–MANIFEST Section I.
 
 NEW MEMs (created after v2.7 effective date):
 • Layer 1: MANDATORY (as before)
@@ -1919,6 +1948,14 @@ XXX. CANONICAL STATUS (UPDATED)
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
+v3.2 ADDITIONS:
+• Three-mode architecture (SCHOLAR / COUNSEL / SYSTEM).
+• CIV–COUNSEL file type and CIV–COUNSEL–TEMPLATE.
+• SYSTEM mode for governance maintenance.
+• TERMINOLOGY–REGISTRY and new-term gate.
+• Decorative term replacements across governance files.
+• Previous CMC 3.2 proposals re-scoped to CMC 3.3.
+
 v3.1 ADDITIONS:
 • Version Decoupling; Typed Connections; Concept Index; OGE Simplification (Modified).
 • XXIV.C VERSION RULE updated to CMC 3.1 (content version only; simplified MEM headers).
@@ -1953,5 +1990,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v3.1
+END OF FILE — CIV–MEM–CORE v3.2
 ────────────────────────────────────────────────────────────
