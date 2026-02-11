@@ -134,5 +134,91 @@ v1.12 — Template alignment: V-A Cross-ARC Citation for TSP; VI Orthogonality w
 v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. 2026-02-02.
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Anglia. Covers both real-time news sources and longer-term
+official analysis and planning. STATE draws Layer 3 information
+through these sources first. Non-listed sources are permitted
+with ARC discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• UK Parliament — parliament.uk
+  Authoritative For: Legislation, Hansard debates, committee reports
+  Editorial Note: Official parliamentary record; primary authority on UK law
+
+• HM Government — gov.uk
+  Authoritative For: Policy papers, official statistics, departmental publications
+  Editorial Note: UK central government; primary authority on policy intent
+
+• Bank of England — bankofengland.co.uk
+  Authoritative For: Monetary policy, financial stability, economic forecasts
+  Editorial Note: UK central bank; independent within government framework
+
+• US Department of State — state.gov
+  Authoritative For: US foreign policy positions, bilateral relations
+  Editorial Note: US government; relevant as principal ally; reflects US framing
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• Chatham House (Royal Institute of International Affairs) — chathamhouse.org
+  Authoritative For: Foreign policy, international security, global governance
+  Editorial Note: Independent; UK establishment think tank; centrist-internationalist
+
+• IISS (International Institute for Strategic Studies) — iiss.org
+  Authoritative For: Military balance, defence spending, strategic assessment
+  Editorial Note: London-based; Western-aligned; industry-standard data
+
+• Policy Exchange — policyexchange.org.uk
+  Authoritative For: Domestic policy, constitutional reform, security
+  Editorial Note: Centre-right; influential with Conservative government
+
+• King's College London War Studies — kcl.ac.uk/warstudies
+  Authoritative For: Military history, strategic studies, intelligence studies
+  Editorial Note: University department; academic; leading UK war studies centre
+
+• British Museum / British Library — britishmuseum.org / bl.uk
+  Authoritative For: Historical archives, primary source collections
+  Editorial Note: National institutions; custodians of imperial-era records
+
+ARC-T-INSTITUTIONAL (NEWS):
+• BBC — bbc.co.uk
+  Authoritative For: Domestic and international news, analysis
+  Editorial Note: Publicly funded; charter obligation to impartiality;
+  institutional bias toward establishment consensus
+
+• The Times — thetimes.co.uk
+  Authoritative For: Political reporting, foreign affairs, establishment view
+  Editorial Note: Centre-right; Murdoch-owned; UK paper of record
+
+• The Guardian — theguardian.com
+  Authoritative For: Investigative journalism, civil liberties, international affairs
+  Editorial Note: Centre-left; Scott Trust ownership; no paywall
+
+• Financial Times — ft.com
+  Authoritative For: Economic policy, financial markets, international trade
+  Editorial Note: Centre-liberal; Nikkei-owned; global business perspective
+
+• The Economist — economist.com
+  Authoritative For: Global political economy, international affairs
+  Editorial Note: Liberal-internationalist; influential on policy class; paywalled
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• RUSI (Royal United Services Institute) — rusi.org
+  Authoritative For: Defence policy, military analysis, intelligence
+  Editorial Note: UK-based; oldest defence think tank; close to UK MOD
+
+• Janes — janes.com
+  Authoritative For: Military equipment, order of battle, defence procurement
+  Editorial Note: UK-based defence intelligence; subscription; data-driven
+
+• Institute for Fiscal Studies — ifs.org.uk
+  Authoritative For: Tax policy, public spending, economic inequality
+  Editorial Note: Independent; gold standard for UK fiscal analysis
+
+• Oxford Institute for Energy Studies — oxfordenergy.org
+  Authoritative For: Energy markets, oil/gas policy, energy transition
+  Editorial Note: University-affiliated; influential on energy policy
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–ANGLIA — v3.0
 ────────────────────────────────────────────────────────────

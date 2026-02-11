@@ -77,18 +77,21 @@ admissibility, quotation discipline, and interpretive weighting.
 ────────────────────────────────────────────────────────────
 II. SOURCE CATEGORIES (FIXED & EXHAUSTIVE)
 ────────────────────────────────────────────────────────────
-ARC sources are divided into four and only four categories:
+ARC sources are divided into five categories:
 
 A. ANCIENT
 B. MEDIEVAL
 C. EARLY MODERN
 D. MODERN
+E. INSTITUTIONAL (institutional sources for STATE mode)
 
-No other category exists.
 No category may be collapsed into another.
 Misclassification is a compliance failure.
 
-Categories are chronological and functional, not ideological.
+Categories A–D are chronological and functional, not ideological.
+Category E governs institutional sources — both real-time news
+and longer-term official analysis and planning. It does not
+participate in temporal precedence.
 
 ────────────────────────────────────────────────────────────
 III. CATEGORY A — ANCIENT (REQUIRED)
@@ -379,7 +382,115 @@ This file:
 Any divergence invalidates compliance.
 
 ────────────────────────────────────────────────────────────
-XI. CANON STATE
+XI. CATEGORY E — INSTITUTIONAL (STATE MODE SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Russia. Covers both real-time news sources and longer-term
+official analysis and planning. STATE draws Layer 3 information
+through these sources first. Non-listed sources are permitted
+with ARC discovery flag.
+
+Category E does NOT participate in temporal precedence.
+Categories A–D govern historical interpretation. Category E
+governs institutional sources — present events, official
+positions, and ongoing analytical reporting.
+
+CATEGORY E (OFFICIAL):
+• Kremlin — kremlin.ru (en.kremlin.ru for English)
+  Authoritative For: Presidential policy, decrees, official positions
+  Editorial Note: Russian state; primary authority on Kremlin intent;
+  treat as official position, not objective reporting
+
+• Russian MFA — mid.ru
+  Authoritative For: Foreign policy positions, diplomatic statements
+  Editorial Note: Russian state; diplomatic framing; Lavrov statements
+
+• State Duma — duma.gov.ru
+  Authoritative For: Legislation, parliamentary proceedings
+  Editorial Note: Russian parliament; controlled by United Russia
+
+• Central Bank of Russia — cbr.ru
+  Authoritative For: Monetary policy, inflation data, financial stability
+  Editorial Note: Russian state institution; technically independent;
+  data generally considered reliable
+
+• TASS — tass.com
+  Authoritative For: Official wire reporting, government announcements
+  Editorial Note: Russian state wire service; reflects official line;
+  useful for what the state wants published
+
+CATEGORY E (RESEARCH):
+• Valdai Discussion Club — valdaiclub.com
+  Authoritative For: Russian strategic thinking, foreign policy doctrine
+  Editorial Note: Kremlin-adjacent; signals official intellectual framing
+
+• RIAC (Russian International Affairs Council) — russiancouncil.ru
+  Authoritative For: Russian foreign policy analysis, multilateral issues
+  Editorial Note: MFA-linked think tank; moderate establishment voice
+
+• Carnegie Russia Eurasia Center — carnegieendowment.org/russia-eurasia
+  Authoritative For: Russian domestic politics, elite dynamics, economics
+  Editorial Note: US-funded; critical of Kremlin; high analytical quality;
+  some staff relocated from Moscow
+
+• PONARS Eurasia — ponarseurasia.org
+  Authoritative For: Post-Soviet politics, Russian security policy
+  Editorial Note: Academic network; US-university-based; policy-relevant
+
+• CSIS Russia Program — csis.org
+  Authoritative For: US-Russia relations, strategic competition, sanctions
+  Editorial Note: US think tank; Washington establishment; centrist-hawkish
+
+CATEGORY E (NEWS):
+• Reuters — reuters.com
+  Authoritative For: Breaking news, wire reporting, financial markets
+  Editorial Note: Global wire service; aims for neutrality; Western-headquartered
+
+• Kommersant — kommersant.ru
+  Authoritative For: Russian business, economic policy, elite signaling
+  Editorial Note: Owned by Usmanov; relatively independent within limits;
+  best Russian business paper
+
+• Meduza — meduza.io
+  Authoritative For: Russian domestic politics, investigative reporting
+  Editorial Note: Latvia-based independent outlet; critical of Kremlin;
+  designated "undesirable" in Russia; limited access inside Russia
+
+• RBC — rbc.ru
+  Authoritative For: Russian business, economic data, market analysis
+  Editorial Note: Russian business media; some editorial independence;
+  ownership close to state
+
+• Novaya Gazeta — novayagazeta.eu (European edition)
+  Authoritative For: Human rights, investigative reporting, domestic opposition
+  Editorial Note: Independent; Nobel laureate editor; suspended in Russia;
+  European edition continues; critical of state
+
+CATEGORY E (SPECIALIST):
+• IISS (International Institute for Strategic Studies) — iiss.org
+  Authoritative For: Military balance, Russian defence spending, strategic assessment
+  Editorial Note: London-based; Western-aligned; industry-standard data
+
+• Janes — janes.com
+  Authoritative For: Military equipment, order of battle, defence procurement
+  Editorial Note: UK-based defence intelligence; subscription; data-driven
+
+• OSW (Centre for Eastern Studies, Warsaw) — osw.waw.pl
+  Authoritative For: Russian politics, post-Soviet space, energy policy
+  Editorial Note: Polish government-funded; frontline-state perspective;
+  high-quality Russia analysis
+
+• ISW (Institute for the Study of War) — understandingwar.org
+  Authoritative For: Military operations, front-line assessment, order of battle
+  Editorial Note: US-based; Kagan family; pro-Ukraine framing; detailed
+  operational mapping
+
+• RUSI (Royal United Services Institute) — rusi.org
+  Authoritative For: Defence policy, intelligence, military analysis
+  Editorial Note: UK-based; oldest defence think tank; close to UK MOD
+
+────────────────────────────────────────────────────────────
+XII. CANON STATE
 ────────────────────────────────────────────────────────────
 Version: CIV–ARC–RUSSIA v3.1
 State: ACTIVE · CANONICAL · LOCKED

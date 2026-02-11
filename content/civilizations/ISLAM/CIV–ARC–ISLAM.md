@@ -130,5 +130,107 @@ IX. VERSIONING
 • Per CIV–ARC–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Islamic civilization. Because Islam spans many states, this
+section covers transnational Islamic institutions and the
+principal state actors of the Islamic world. STATE draws
+Layer 3 information through these sources first. Non-listed
+sources are permitted with ARC discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• Organisation of Islamic Cooperation (OIC) — oic-oci.org
+  Authoritative For: Collective Islamic world positions, inter-state coordination
+  Editorial Note: 57-member intergovernmental body; Saudi-headquartered;
+  represents institutional Islamic voice
+
+• Saudi Ministry of Foreign Affairs — mofa.gov.sa
+  Authoritative For: Saudi policy, custodianship of holy sites, Gulf strategy
+  Editorial Note: Saudi state; custodian of Mecca and Medina; heavyweight
+  in Sunni institutional Islam
+
+• Turkish Presidency / MFA — tccb.gov.tr / mfa.gov.tr
+  Authoritative For: Turkish policy, Ottoman successor-state positions, NATO member
+  Editorial Note: Turkish state; claims Ottoman civilizational continuity;
+  bridge between Islamic and Western institutional frameworks
+
+• Al-Azhar — azhar.eg
+  Authoritative For: Sunni theological authority, Islamic jurisprudence, fatwas
+  Editorial Note: Cairo-based; oldest Islamic university; quasi-official
+  religious authority; Egyptian state-linked
+
+• Iranian Supreme Leader's Office — leader.ir
+  Authoritative For: Shia institutional positions, velayat-e faqih doctrine
+  Editorial Note: Iranian state; see CIV–ARC–PERSIA for full Iran sources;
+  listed here for Shia civilizational dimension
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• International Islamic University Malaysia (IIUM) — iium.edu.my
+  Authoritative For: Islamic economics, shariah law, comparative civilizations
+  Editorial Note: OIC-sponsored; Malaysian-based; moderate institutional Islam
+
+• Al Jazeera Centre for Studies — studies.aljazeera.net
+  Authoritative For: Middle East politics, Islamic world analysis, conflict
+  Editorial Note: Qatar-funded; analytical arm of Al Jazeera network;
+  independent within Qatari framework
+
+• Brookings Doha Center — brookings.edu/centers/doha-center
+  Authoritative For: Gulf politics, Islamic governance, US-Muslim world relations
+  Editorial Note: US think tank Doha outpost; bridging Western and Gulf perspectives
+
+• Middle East Institute — mei.edu
+  Authoritative For: Regional politics, sectarian dynamics, energy, Islamic governance
+  Editorial Note: US-based; centrist; broad coverage of Islamic-majority states
+
+• King Faisal Center for Research and Islamic Studies — kfcris.com
+  Authoritative For: Saudi strategic thinking, Islamic heritage, Gulf security
+  Editorial Note: Saudi-funded; Riyadh-based; signals Saudi intellectual framing
+
+ARC-T-INSTITUTIONAL (NEWS):
+• Al Jazeera — aljazeera.com
+  Authoritative For: Middle East and Islamic world news, regional conflicts
+  Editorial Note: Qatar-funded; English and Arabic; most influential
+  pan-Islamic news outlet; Qatari editorial perspective
+
+• TRT World — trtworld.com
+  Authoritative For: Turkish perspective, Islamic world, Middle East affairs
+  Editorial Note: Turkish state broadcaster; English-language; reflects
+  Turkish government framing
+
+• Arab News — arabnews.com
+  Authoritative For: Saudi and Gulf affairs, Islamic finance, regional politics
+  Editorial Note: Saudi-owned; English-language; reflects Saudi establishment view
+
+• Middle East Eye — middleeasteye.net
+  Authoritative For: Middle East politics, human rights, Islamic world
+  Editorial Note: London-based; independent; editorial sympathy with
+  Muslim Brotherhood; critical of Saudi/UAE
+
+• Dawn — dawn.com
+  Authoritative For: Pakistani politics, South Asian Islam, security affairs
+  Editorial Note: Pakistan's oldest English-language paper; liberal-establishment;
+  Karachi-based
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• Islamic Development Bank (IsDB) — isdb.org
+  Authoritative For: Islamic finance, development economics, OIC member economies
+  Editorial Note: OIC development institution; Jeddah-based; data on
+  Islamic world economics
+
+• International Centre for the Study of Radicalisation (ICSR) — icsr.info
+  Authoritative For: Jihadism, radicalisation, counter-terrorism, deradicalisation
+  Editorial Note: King's College London-based; policy-relevant; Western security frame
+
+• Arab Barometer — arabbarometer.org
+  Authoritative For: Public opinion in Arab world, governance perceptions, social values
+  Editorial Note: Princeton-based survey project; data-driven;
+  largest source of Arab public opinion data
+
+• Gulf Research Center — grc.net
+  Authoritative For: Gulf security, energy, migration, GCC politics
+  Editorial Note: Jeddah/Geneva/Cambridge; independent; Gulf-specialist
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–ISLAM — v3.0
 ────────────────────────────────────────────────────────────

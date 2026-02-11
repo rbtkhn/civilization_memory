@@ -140,5 +140,97 @@ IX. VERSIONING
 • Per CIV–ARC–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Persia and its civilizational successor state (Islamic Republic
+of Iran). Covers both real-time news and longer-term official
+analysis. STATE draws Layer 3 information through these sources
+first. Non-listed sources are permitted with ARC discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• Office of the Supreme Leader — leader.ir
+  Authoritative For: Supreme Leader statements, regime doctrine, red lines
+  Editorial Note: Iranian state; highest authority; treat as official
+  position, not objective reporting
+
+• Iranian Presidency — president.ir
+  Authoritative For: Executive policy, economic plans, diplomatic positions
+  Editorial Note: Iranian state; subordinate to Supreme Leader on strategic matters
+
+• Iranian Ministry of Foreign Affairs — mfa.gov.ir
+  Authoritative For: Diplomatic positions, bilateral relations, JCPOA
+  Editorial Note: Iranian state; diplomatic framing
+
+• Central Bank of Iran — cbi.ir
+  Authoritative For: Monetary policy, sanctions impact, economic data
+  Editorial Note: Iranian state institution; data reliability variable
+  under sanctions pressure
+
+• IRNA (Islamic Republic News Agency) — irna.ir
+  Authoritative For: Official wire reporting, government announcements
+  Editorial Note: Iranian state wire service; reflects official line
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• International Crisis Group — crisisgroup.org (Iran/Middle East)
+  Authoritative For: Iranian domestic politics, regional conflicts, nuclear diplomacy
+  Editorial Note: Independent; Brussels-based; conflict-resolution orientation
+
+• Carnegie Middle East Center — carnegie-mec.org
+  Authoritative For: Iranian politics, Gulf security, sectarian dynamics
+  Editorial Note: US-funded; Beirut-based; high analytical quality
+
+• Brookings Doha Center / Iran Project — brookings.edu
+  Authoritative For: US-Iran relations, nuclear policy, sanctions
+  Editorial Note: US think tank; centrist-establishment; influential on US policy
+
+• Institute for Political and International Studies (IPIS) — ipis.ir
+  Authoritative For: Iranian foreign policy thinking, regional strategy
+  Editorial Note: Iranian MFA-linked; signals official intellectual framing
+
+• IISS (International Institute for Strategic Studies) — iiss.org
+  Authoritative For: Iranian military capabilities, nuclear programme assessment
+  Editorial Note: London-based; Western-aligned; industry-standard data
+
+ARC-T-INSTITUTIONAL (NEWS):
+• Reuters — reuters.com
+  Authoritative For: Breaking news, sanctions reporting, oil markets
+  Editorial Note: Global wire service; Western-headquartered
+
+• Al Jazeera — aljazeera.com
+  Authoritative For: Middle East regional reporting, Iranian affairs
+  Editorial Note: Qatar-funded; regional perspective; English and Arabic
+
+• Iran International — iranintl.com
+  Authoritative For: Iranian domestic politics, protests, diaspora view
+  Editorial Note: London-based; Saudi-linked funding; oppositional to regime
+
+• Tehran Times — tehrantimes.com
+  Authoritative For: Official Iranian perspective in English
+  Editorial Note: Semi-official; reflects regime framing for international audience
+
+• BBC Persian — bbc.com/persian
+  Authoritative For: Iranian domestic affairs, diaspora reporting
+  Editorial Note: BBC publicly funded; significant Iranian audience;
+  banned inside Iran but widely accessed
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• Arms Control Association — armscontrol.org
+  Authoritative For: Nuclear programme, JCPOA compliance, proliferation
+  Editorial Note: US-based; non-partisan; pro-arms-control orientation
+
+• IAEA (International Atomic Energy Agency) — iaea.org
+  Authoritative For: Nuclear safeguards, inspection reports, compliance data
+  Editorial Note: UN agency; authoritative on technical nuclear matters
+
+• Oxford Institute for Energy Studies — oxfordenergy.org
+  Authoritative For: Oil markets, OPEC dynamics, Iranian energy sector
+  Editorial Note: University-affiliated; influential on energy policy
+
+• Middle East Institute — mei.edu
+  Authoritative For: Iranian regional strategy, Gulf security, sectarian dynamics
+  Editorial Note: US-based; centrist; broad Middle East coverage
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–PERSIA — v3.0
 ────────────────────────────────────────────────────────────

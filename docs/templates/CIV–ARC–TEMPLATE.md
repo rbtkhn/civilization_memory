@@ -53,7 +53,7 @@ NAMESPACE ALIGNMENT:
 ────────────────────────────────────────────────────────────
 I. PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-ARC governs TWO and ONLY TWO things:
+ARC governs THREE things:
 
 1. AUTHOR ADMISSIBILITY
    Which historians, chroniclers, and scholars may be quoted
@@ -61,6 +61,11 @@ ARC governs TWO and ONLY TWO things:
 
 2. TEMPORAL PRECEDENCE
    When sources conflict, earlier testimony has priority.
+
+3. INSTITUTIONAL SOURCE ADMISSIBILITY
+   Which institutional sources (official, research, news,
+   specialist) are authorized for STATE mode analysis of a
+   given civilization. See Section IX-B.
 
 ARC does NOT govern:
 • How much to quote (see MEM-TEMPLATE)
@@ -87,6 +92,14 @@ Historiographic interpretation, typically out of copyright.
 ARC-T-MODERN
 Authors from contemporary scholarship (c. 1900–present).
 Current academic interpretation, under copyright.
+
+ARC-T-INSTITUTIONAL
+Institutional sources for STATE mode analysis.
+Government websites, research institutes, news outlets,
+specialist publications. Does not participate in temporal
+precedence (governs present events and ongoing institutional
+analysis, not historical interpretation).
+See Section IX-B for full structure and rules.
 
 ────────────────────────────────────────────────────────────
 III. TEMPORAL PRECEDENCE RULE (ABSOLUTE)
@@ -130,7 +143,13 @@ ARC-T-MODERN:
 • [Author Name] ([Birth year]) — [Major Work(s)]
 • [Author Name] ([Birth year]) — [Major Work(s)]
 
+ARC-T-INSTITUTIONAL:
+See Section IX-B for entry format (Name, URL, Type,
+Authoritative For, Editorial Note).
+
 RULE: Only listed authors may be quoted without discovery flag.
+For ARC-T-INSTITUTIONAL, only listed sources are preferred;
+non-listed sources are permitted with a discovery flag (Section V).
 
 ────────────────────────────────────────────────────────────
 V. ARC DISCOVERY FRAMEWORK
@@ -257,6 +276,79 @@ IX. VERSIONING
 • Temporal precedence rule is immutable
 • Discovery framework may be refined
 • Namespace alignment is permanent
+
+────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+ARC-T-INSTITUTIONAL lists authorized institutional sources for
+STATE mode analysis. This covers both real-time news sources and
+longer-term official analysis and planning. STATE draws its
+Layer 3 (general knowledge) information through
+ARC-T-INSTITUTIONAL first. If no listed source can provide a
+good answer, the search may go beyond — subject to the same
+ARC Discovery Framework (Section V): non-listed sources are
+permitted with a discovery flag.
+
+ARC-T-INSTITUTIONAL does NOT participate in temporal precedence.
+The precedence rule (Ancient > Medieval > Early-Mod > Modern)
+governs historical interpretation. ARC-T-INSTITUTIONAL governs
+a different domain: present events, official positions, and
+ongoing institutional analysis.
+
+SOURCE SUB-TYPES (four categories):
+
+OFFICIAL — Government websites, parliamentary archives, central
+bank publications, state wire services. Primary authority on
+policy, law, and official positions. Editorial note should state
+whether the source is the entity's own government or an external
+government.
+
+RESEARCH — Think tanks, research institutes, international
+organizations, cultural institutions. Analytical depth, data,
+and long-term planning. Editorial note should identify funding
+model and known analytical orientation.
+
+NEWS — Wire services, newspapers of record, broadcast outlets.
+Reporting on events. Editorial note should identify editorial
+position and ownership.
+
+SPECIALIST — Sector-specific sources (military, energy, economic,
+legal). Domain expertise. Editorial note should identify the
+domain and any known institutional bias.
+
+ENTRY FORMAT:
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• [Name] — [URL]
+  Authoritative For: [Topics]
+  Editorial Note: [Position, funding, known bias]
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• [Name] — [URL]
+  Authoritative For: [Topics]
+  Editorial Note: [Funding model, analytical orientation]
+
+ARC-T-INSTITUTIONAL (NEWS):
+• [Name] — [URL]
+  Authoritative For: [Topics]
+  Editorial Note: [Ownership, editorial position]
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• [Name] — [URL]
+  Authoritative For: [Topics]
+  Editorial Note: [Domain, institutional bias]
+
+RULES:
+• Sources must be publicly accessible. If the primary publication
+  is paywalled, a free alternative access point (archive, summary
+  feed, press release page) must be noted.
+• Each source entry must include an editorial note. No source is
+  treated as neutral — all have a position.
+• Minimum 2 sources per sub-type for any active STATE file.
+• Sources are reviewed when the STATE file is synced. Defunct or
+  discredited sources are removed; new relevant sources are added.
+• Non-listed sources remain permitted in STATE analysis but should
+  be flagged using the ARC Discovery Framework (Section V).
 
 ────────────────────────────────────────────────────────────
 X. LIVING ARC (CMC 3.2 — OPTIONAL)

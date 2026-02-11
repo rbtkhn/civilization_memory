@@ -119,5 +119,98 @@ v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. February 2026.
 v2.0 — Version milestone; template alignment (V-A, VI Orthogonality, VII What ARC Does Not Govern). February 2026.
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+India. Covers both real-time news and longer-term official
+analysis and planning. STATE draws Layer 3 information through
+these sources first. Non-listed sources are permitted with ARC
+discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• Government of India — india.gov.in
+  Authoritative For: Federal policy, ministerial statements, official data
+  Editorial Note: Indian central government; primary authority on policy intent
+
+• Ministry of External Affairs — mea.gov.in
+  Authoritative For: Foreign policy, bilateral relations, diaspora affairs
+  Editorial Note: Indian state; diplomatic framing; primary on India's
+  international positions
+
+• Reserve Bank of India — rbi.org.in
+  Authoritative For: Monetary policy, financial stability, economic data
+  Editorial Note: Indian central bank; independent within government framework
+
+• Parliament of India — sansad.in
+  Authoritative For: Legislation, parliamentary debates, committee reports
+  Editorial Note: Official legislative record; Lok Sabha and Rajya Sabha
+
+• NITI Aayog — niti.gov.in
+  Authoritative For: Economic planning, development strategy, policy research
+  Editorial Note: Government think tank; replaced Planning Commission;
+  signals strategic economic direction
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• Observer Research Foundation (ORF) — orfonline.org
+  Authoritative For: Indian foreign policy, strategic affairs, technology
+  Editorial Note: Independent; close to BJP government; influential;
+  hosts Raisina Dialogue
+
+• Carnegie India — carnegieindia.org
+  Authoritative For: India's foreign policy, nuclear policy, regional security
+  Editorial Note: US-funded; Delhi-based; high analytical quality
+
+• Institute for Defence Studies and Analyses (IDSA/MP-IDSA) — idsa.in
+  Authoritative For: Indian defence policy, strategic analysis, military affairs
+  Editorial Note: Government-funded; India's principal defence think tank
+
+• Centre for Policy Research (CPR) — cprindia.org
+  Authoritative For: Indian governance, law, urbanisation, environment
+  Editorial Note: Independent; Delhi-based; academic orientation
+
+• Ashoka University / Takshashila Institution — ashoka.edu.in / takshashila.org.in
+  Authoritative For: Policy research, strategic studies, liberal arts education
+  Editorial Note: Private institution(s); emerging influence on Indian
+  policy debate; Takshashila focuses on strategic affairs
+
+ARC-T-INSTITUTIONAL (NEWS):
+• The Hindu — thehindu.com
+  Authoritative For: National politics, foreign affairs, South Indian perspective
+  Editorial Note: Centre-left; Chennai-based; Indian paper of record
+
+• The Indian Express — indianexpress.com
+  Authoritative For: Investigative reporting, political analysis, governance
+  Editorial Note: Independent; critical-establishment; strong investigations
+
+• Hindustan Times — hindustantimes.com
+  Authoritative For: National politics, defence, foreign affairs
+  Editorial Note: Centre-establishment; Delhi-based; HT Media group
+
+• The Wire — thewire.in
+  Authoritative For: Investigative journalism, civil liberties, policy analysis
+  Editorial Note: Independent digital outlet; left-liberal; critical of government
+
+• PTI (Press Trust of India) — ptinews.com
+  Authoritative For: Wire reporting, domestic news, government announcements
+  Editorial Note: Indian national wire service; cooperative ownership
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• Stockholm International Peace Research Institute (SIPRI) — sipri.org
+  Authoritative For: Indian military expenditure, arms imports, nuclear arsenal
+  Editorial Note: Swedish government-funded; data-driven; pacifist orientation
+
+• International Institute for Strategic Studies (IISS) — iiss.org
+  Authoritative For: Military balance, India-China-Pakistan dynamics
+  Editorial Note: London-based; Western-aligned; industry-standard data
+
+• National Bureau of Asian Research (NBR) — nbr.org
+  Authoritative For: Indo-Pacific strategy, India-US relations, trade
+  Editorial Note: US-based; Asia-specialist; policy-relevant
+
+• Centre for Science and Environment (CSE) — cseindia.org
+  Authoritative For: Environmental policy, climate, industrial regulation
+  Editorial Note: Delhi-based; independent; influential on Indian environmental debate
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–INDIA — v3.0
 ────────────────────────────────────────────────────────────

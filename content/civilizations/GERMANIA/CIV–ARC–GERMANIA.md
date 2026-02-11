@@ -277,5 +277,89 @@ IX. VERSIONING
 • Discovery framework may be refined
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Germania. STATE draws Layer 3 information through these sources
+first. Non-listed sources are permitted with ARC discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• Bundesregierung — bundesregierung.de
+  Authoritative For: Federal policy, coalition positions, official statements
+  Editorial Note: German federal government; primary authority on policy intent
+
+• Bundestag — bundestag.de
+  Authoritative For: Legislation, committee proceedings, parliamentary debates
+  Editorial Note: German federal parliament; official record of legislative process
+
+• Deutsche Bundesbank — bundesbank.de
+  Authoritative For: Monetary policy, financial stability, economic data
+  Editorial Note: German central bank; conservative on fiscal matters
+
+• European Commission — ec.europa.eu
+  Authoritative For: EU regulation, trade policy, single market, fiscal rules
+  Editorial Note: EU executive; institutional bias toward integration
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• Max Planck Institute — mpg.de (public archive)
+  Authoritative For: Scientific research, international law, social sciences
+  Editorial Note: Publicly funded German research network; academic orientation
+
+• Goethe-Institut — goethe.de
+  Authoritative For: German cultural policy, language, international cultural presence
+  Editorial Note: German federal government-funded; cultural diplomacy arm;
+  reports on German soft power and cultural engagement worldwide
+
+• SWP (Stiftung Wissenschaft und Politik) — swp-berlin.org
+  Authoritative For: German foreign and security policy, European strategy
+  Editorial Note: Government-funded but editorially independent; centrist
+
+• DGAP (Deutsche Gesellschaft für Auswärtige Politik) — dgap.org
+  Authoritative For: German foreign policy, transatlantic relations
+  Editorial Note: Independent think tank; Atlanticist orientation
+
+• ifo Institute — ifo.de
+  Authoritative For: Economic forecasts, business climate, fiscal policy
+  Editorial Note: University-affiliated; influential on German economic debate
+
+• Kiel Institute for the World Economy — ifw-kiel.de
+  Authoritative For: Trade, international economics, Ukraine aid tracking
+  Editorial Note: Government-funded research institute; data-driven
+
+ARC-T-INSTITUTIONAL (NEWS):
+• DPA (Deutsche Presse-Agentur) — dpa.com
+  Authoritative For: German domestic news, political reporting
+  Editorial Note: German national wire service; cooperative ownership
+
+• Frankfurter Allgemeine Zeitung — faz.net
+  Authoritative For: Politics, economics, foreign affairs
+  Editorial Note: Centre-right; German establishment paper of record
+
+• Der Spiegel — spiegel.de
+  Authoritative For: Investigative reporting, political analysis
+  Editorial Note: Centre-left; Germany's largest newsweekly
+
+• Süddeutsche Zeitung — sueddeutsche.de
+  Authoritative For: Domestic politics, investigative journalism
+  Editorial Note: Centre-left; Munich-based broadsheet
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• IISS (International Institute for Strategic Studies) — iiss.org
+  Authoritative For: Military balance, defence spending, strategic assessment
+  Editorial Note: London-based; Western-aligned; industry-standard data
+
+• Bundeswehr Journal — bundeswehr-journal.de
+  Authoritative For: German defence procurement, military readiness, operations
+  Editorial Note: Independent defence journalism; specialist audience
+
+• SIPRI (Stockholm International Peace Research Institute) — sipri.org
+  Authoritative For: Arms transfers, military expenditure, arms control
+  Editorial Note: Swedish government-funded; data-driven; pacifist orientation
+
+• Bruegel — bruegel.org
+  Authoritative For: European economic policy, energy, fiscal integration
+  Editorial Note: Brussels-based; funded by EU member states; pro-integration
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–GERMANIA v3.0
 ────────────────────────────────────────────────────────────

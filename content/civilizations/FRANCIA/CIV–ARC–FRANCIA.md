@@ -489,5 +489,94 @@ Future versions may add:
 • Regional specialists (Provence, Brittany, Alsace)
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Francia. Covers both real-time news sources and longer-term
+official analysis and planning. STATE draws Layer 3 information
+through these sources first. Non-listed sources are permitted
+with ARC discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• Élysée — elysee.fr
+  Authoritative For: Presidential policy, foreign affairs, defence posture
+  Editorial Note: French presidency; primary authority on executive intent
+
+• Assemblée Nationale — assemblee-nationale.fr
+  Authoritative For: Legislation, parliamentary debates, committee reports
+  Editorial Note: French lower house; official legislative record
+
+• Sénat — senat.fr
+  Authoritative For: Legislation, territorial governance, foreign affairs reports
+  Editorial Note: French upper house; notable foreign affairs committee reports
+
+• Banque de France — banque-france.fr
+  Authoritative For: Monetary policy, eurozone economics, financial stability
+  Editorial Note: French central bank; ECB Governing Council member
+
+• Ministère des Armées — defense.gouv.fr
+  Authoritative For: Defence policy, nuclear doctrine, military operations
+  Editorial Note: French defence ministry; primary on force de frappe posture
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• IFRI (Institut Français des Relations Internationales) — ifri.org
+  Authoritative For: French foreign policy, European strategy, security
+  Editorial Note: Independent; France's leading foreign policy think tank
+
+• Sciences Po / CERI — sciencespo.fr
+  Authoritative For: Political science, international relations, European politics
+  Editorial Note: Elite university; academic; shapes French policy class
+
+• Institut Montaigne — institutmontaigne.org
+  Authoritative For: Economic reform, education, digital policy
+  Editorial Note: Business-funded; centre-liberal; pro-reform orientation
+
+• Fondation pour la Recherche Stratégique (FRS) — frstrategie.org
+  Authoritative For: Nuclear strategy, defence economics, arms control
+  Editorial Note: Government-linked; key source on French nuclear doctrine
+
+• Institut de France — institut-de-france.fr
+  Authoritative For: French cultural and intellectual heritage, national archives
+  Editorial Note: Five academies including Académie française; state-funded
+
+ARC-T-INSTITUTIONAL (NEWS):
+• Le Monde — lemonde.fr
+  Authoritative For: Politics, international affairs, investigative reporting
+  Editorial Note: Centre-left; French paper of record; reader-owned
+
+• Le Figaro — lefigaro.fr
+  Authoritative For: Politics, economics, foreign affairs
+  Editorial Note: Centre-right; Dassault-owned; French establishment
+
+• AFP (Agence France-Presse) — afp.com
+  Authoritative For: Wire reporting, breaking news, global coverage
+  Editorial Note: French national wire service; semi-public; aims for neutrality
+
+• France 24 — france24.com
+  Authoritative For: International news, francophone world, European affairs
+  Editorial Note: State-funded; English/French/Arabic; France's global voice
+
+• Mediapart — mediapart.fr
+  Authoritative For: Investigative journalism, political scandals, civil liberties
+  Editorial Note: Independent; subscription-funded; left-leaning; high-impact investigations
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• FRS (Fondation pour la Recherche Stratégique) — frstrategie.org
+  Authoritative For: Nuclear deterrence, defence technology, arms control
+  Editorial Note: See RESEARCH entry; listed here for specialist defence domain
+
+• IRSEM (Institut de Recherche Stratégique de l'École Militaire) — irsem.fr
+  Authoritative For: Military strategy, information warfare, geopolitics
+  Editorial Note: French MOD research institute; academic military analysis
+
+• Cour des Comptes — ccomptes.fr
+  Authoritative For: Public spending audits, fiscal oversight, institutional reform
+  Editorial Note: French supreme audit institution; independent; data-authoritative
+
+• INSEE (Institut national de la statistique) — insee.fr
+  Authoritative For: Economic statistics, demographics, social indicators
+  Editorial Note: National statistics office; official data source
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–FRANCIA v3.0
 ────────────────────────────────────────────────────────────

@@ -147,5 +147,104 @@ IX. VERSIONING
 • Per CIV–ARC–TEMPLATE v3.0
 
 ────────────────────────────────────────────────────────────
+IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+China. Covers both real-time news and longer-term official
+analysis and planning. STATE draws Layer 3 information through
+these sources first. Non-listed sources are permitted with ARC
+discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• State Council of the PRC — english.gov.cn
+  Authoritative For: Central government policy, economic plans, official statements
+  Editorial Note: PRC state; primary authority on policy intent; treat as
+  official position, not objective reporting
+
+• Ministry of Foreign Affairs — mfa.gov.cn
+  Authoritative For: Foreign policy positions, diplomatic statements, red lines
+  Editorial Note: PRC state; diplomatic framing; spokesperson statements
+
+• People's Bank of China — pbc.gov.cn
+  Authoritative For: Monetary policy, financial regulation, exchange rate
+  Editorial Note: PRC central bank; under State Council; data on China's
+  financial architecture
+
+• National People's Congress — npc.gov.cn
+  Authoritative For: Legislation, constitutional structure, Five-Year Plans
+  Editorial Note: PRC legislature; rubber-stamp but signals formal priorities
+
+• Xinhua News Agency — xinhuanet.com
+  Authoritative For: Official wire reporting, government announcements
+  Editorial Note: PRC state wire service; reflects official line; useful
+  for what the party-state wants published
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• Chinese Academy of Social Sciences (CASS) — cssn.cn
+  Authoritative For: PRC strategic thinking, economic research, social analysis
+  Editorial Note: State-funded; premier research academy; signals official
+  intellectual framing
+
+• Tsinghua University / Carnegie-Tsinghua Center — tsinghua.edu.cn
+  Authoritative For: International relations, US-China relations, technology policy
+  Editorial Note: Elite state university; Carnegie partnership provides
+  external-facing analysis
+
+• MERICS (Mercator Institute for China Studies) — merics.org
+  Authoritative For: Chinese politics, economy, technology, EU-China relations
+  Editorial Note: Berlin-based; European perspective; sanctioned by PRC
+  (indicates independence from Beijing)
+
+• Brookings China Center — brookings.edu
+  Authoritative For: US-China relations, trade policy, strategic competition
+  Editorial Note: US think tank; centrist-establishment; influential on US policy
+
+• Asia Society Policy Institute — asiasociety.org/policy-institute
+  Authoritative For: US-Asia relations, Chinese economy, cultural exchange
+  Editorial Note: US-based; engagement-oriented; broad Asia coverage
+
+ARC-T-INSTITUTIONAL (NEWS):
+• South China Morning Post — scmp.com
+  Authoritative For: Chinese politics, Hong Kong, business, regional affairs
+  Editorial Note: Alibaba-owned; Hong Kong-based; English-language;
+  more independent than mainland outlets but ownership noted
+
+• Caixin — caixinglobal.com
+  Authoritative For: Chinese economy, financial markets, business regulation
+  Editorial Note: Independent within PRC limits; best Chinese financial journalism;
+  occasionally censored
+
+• Reuters — reuters.com
+  Authoritative For: Breaking news, wire reporting, China-related financial data
+  Editorial Note: Global wire service; Western-headquartered
+
+• Global Times — globaltimes.cn
+  Authoritative For: PRC nationalist perspective, party-state signaling
+  Editorial Note: CPC-affiliated (People's Daily subsidiary); hawkish-nationalist;
+  useful for understanding regime messaging, not for factual reporting
+
+• NHK World-Japan — nhk.or.jp/nhkworld
+  Authoritative For: East Asian affairs, Japan-China relations, regional dynamics
+  Editorial Note: Japanese public broadcaster; regional perspective on China
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• IISS (International Institute for Strategic Studies) — iiss.org
+  Authoritative For: PLA military balance, Chinese defence spending, Indo-Pacific strategy
+  Editorial Note: London-based; Western-aligned; industry-standard data
+
+• CSIS China Power Project — chinapower.csis.org
+  Authoritative For: Chinese military capabilities, economic influence, technology
+  Editorial Note: US think tank; data-driven; interactive analysis
+
+• RAND Corporation — rand.org (China focus)
+  Authoritative For: US-China military scenarios, Taiwan contingencies, AI competition
+  Editorial Note: US government-funded; defence-oriented; scenario modelling
+
+• Australian Strategic Policy Institute (ASPI) — aspi.org.au
+  Authoritative For: Chinese military, technology transfers, influence operations
+  Editorial Note: Australian government-funded; hawkish on China; data-driven;
+  sanctioned by PRC
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–CHINA — v3.0
 ────────────────────────────────────────────────────────────

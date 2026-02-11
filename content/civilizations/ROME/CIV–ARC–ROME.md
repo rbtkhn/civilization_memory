@@ -384,5 +384,87 @@ Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 • Namespace alignment is permanent
 
 ────────────────────────────────────────────────────────────
+XIII-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+Authorized institutional sources for STATE mode analysis of
+Rome and its civilizational successor states (Italy, Vatican,
+Mediterranean successor polities). Covers both real-time news
+and longer-term official analysis. STATE draws Layer 3
+information through these sources first. Non-listed sources
+are permitted with ARC discovery flag.
+
+ARC-T-INSTITUTIONAL (OFFICIAL):
+• Italian Government — governo.it
+  Authoritative For: Italian policy, EU positions, Mediterranean strategy
+  Editorial Note: Italian executive; principal successor state of Roman
+  territorial core
+
+• Vatican — vatican.va
+  Authoritative For: Papal statements, canon law, Catholic institutional positions
+  Editorial Note: Holy See; direct institutional continuity from late Roman
+  ecclesiastical structure; authoritative on Catholic civilizational grammar
+
+• European Commission — ec.europa.eu
+  Authoritative For: EU regulation, Mediterranean policy, enlargement
+  Editorial Note: EU executive; relevant as framework governing Rome's
+  successor polities
+
+• Banca d'Italia — bancaditalia.it
+  Authoritative For: Italian monetary policy, eurozone economics, public debt
+  Editorial Note: Italian central bank; ECB member; data on Italy's fiscal position
+
+ARC-T-INSTITUTIONAL (RESEARCH):
+• Istituto Affari Internazionali (IAI) — affarinternazionali.it
+  Authoritative For: Italian foreign policy, Mediterranean security, EU integration
+  Editorial Note: Rome-based; Italy's leading foreign policy think tank
+
+• École Française de Rome — efrome.it
+  Authoritative For: Roman archaeology, medieval Mediterranean, papal history
+  Editorial Note: French government-funded; Rome-based; premier classical research
+
+• Deutsches Archäologisches Institut (DAI) — dainst.org
+  Authoritative For: Roman archaeology, excavation reports, material culture
+  Editorial Note: German federal institution; leading archaeological authority
+
+• Pontifical academies and Vatican Archives — vatican.va/archive
+  Authoritative For: Church history, manuscript collections, papal diplomacy
+  Editorial Note: Vatican institutions; restricted access; primary for
+  ecclesiastical continuity
+
+• ISPI (Istituto per gli Studi di Politica Internazionale) — ispionline.it
+  Authoritative For: Mediterranean geopolitics, migration, energy
+  Editorial Note: Milan-based; Italian foreign policy; moderate orientation
+
+ARC-T-INSTITUTIONAL (NEWS):
+• ANSA (Agenzia Nazionale Stampa Associata) — ansa.it
+  Authoritative For: Italian domestic news, political reporting
+  Editorial Note: Italian national wire service; cooperative ownership
+
+• Corriere della Sera — corriere.it
+  Authoritative For: Italian politics, economics, cultural affairs
+  Editorial Note: Centre-liberal; Italy's leading broadsheet; Milan-based
+
+• La Repubblica — repubblica.it
+  Authoritative For: Italian politics, investigative reporting
+  Editorial Note: Centre-left; Rome-based; GEDI Group ownership
+
+• Reuters — reuters.com
+  Authoritative For: Breaking news, wire reporting, Mediterranean region
+  Editorial Note: Global wire service; Western-headquartered
+
+ARC-T-INSTITUTIONAL (SPECIALIST):
+• NATO Defence College — ndc.nato.int
+  Authoritative For: Alliance strategy, Mediterranean security, burden-sharing
+  Editorial Note: Rome-based NATO institution; alliance perspective
+
+• Mediterranean Affairs — mediterraneanaffairs.com
+  Authoritative For: Mediterranean geopolitics, energy, migration routes
+  Editorial Note: Regional specialist; English-language Mediterranean focus
+
+• Istituto Nazionale di Statistica (ISTAT) — istat.it
+  Authoritative For: Italian demographics, economic statistics, social indicators
+  Editorial Note: Italian national statistics office; official data
+
+────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–ROME v3.0
 ────────────────────────────────────────────────────────────

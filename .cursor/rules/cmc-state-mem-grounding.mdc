@@ -67,6 +67,7 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 - [ ] Connection-discovered MEMs loaded (if relevant and not already covered)?
 - [ ] Specific details from all loaded MEMs appearing in analytical output?
 - [ ] Non-MEM parallels flagged as ungrounded where applicable?
+- [ ] ARC-T-INSTITUTIONAL sources consulted before non-listed sources?
 
 ## Fallback
 
@@ -80,6 +81,7 @@ If MEM–RELEVANCE–[CIV].md does not exist for the entity:
 
 Parallels from general knowledge (Korean armistice, Cuban Missile Crisis, etc.) are legitimate and expected — they provide breadth the MEM corpus cannot. Rules:
 
+- **Prefer ARC-T-INSTITUTIONAL sources.** When drawing on current-event information or institutional analysis, consult the entity's CIV–ARC file, ARC-T-INSTITUTIONAL section (or Category E for Russia) first. These are the authorized sources for present-day reporting, official positions, research analysis, and specialist data. If no listed source can provide a good answer, search may go beyond — but non-listed sources should be flagged using the ARC Discovery Framework (Section V of the ARC file).
 - **Layer 3 parallels do not replace layer 1.** Every analytical node must have at least one MEM-grounded parallel. Layer 3 parallels supplement, not substitute.
 - **Flag recurring layer 3 parallels as MEM generation candidates** at session closure — if a non-MEM parallel appears at multiple nodes, it has demonstrated analytical utility and may warrant a MEM file.
 - **Layer 3 is strongest for**: opponent behaviour, external-actor dynamics, cross-domain structural parallels, events outside the entity's civilisational memory.

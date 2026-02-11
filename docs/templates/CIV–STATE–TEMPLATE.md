@@ -1041,6 +1041,13 @@ the uncertainty. When challenged on a source, provide the full
 attribution chain (outlet, date, sourcing type, what is verified
 vs projected).
 
+INSTITUTIONAL SOURCES:
+When drawing on current-event information or institutional
+analysis for Layer 3, prefer sources listed in the entity's
+CIV–ARC file under ARC-T-INSTITUTIONAL (or Category E).
+Non-listed sources are permitted with an ARC discovery flag.
+See CIV–ARC–TEMPLATE Section IX-B.
+
 ACTIVITY RECORD (ARC–[CIV]–DECISION–POINTS):
 Each civilization with a STATE file maintains an activity record
 (e.g. ARC–RUSSIA–DECISION–POINTS) with brief entries per session.
@@ -1870,7 +1877,6 @@ Before finalizing any CIV–STATE file:
       standard 8-slot menu) when invoked?
 - [ ] Activity records maintained for Decision Points, Stability
       Watch, Scenario Trees, and Cross-Entity Pressure Tests?
-
 ────────────────────────────────────────────────────────────
 XIV. SYNC PROTOCOL
 ────────────────────────────────────────────────────────────
