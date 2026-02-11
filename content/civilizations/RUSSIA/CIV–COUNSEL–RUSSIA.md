@@ -390,6 +390,35 @@ OPTION A: Endurance Through Attrition
   Binding constraint masked, not resolved.
   Sources: Decision Points Session 003 (retrospective Jan 1 2026).
 
+  EVIDENCE UPDATE 4 (February 2026 — 2026 budget data):
+  The 2026 defence budget is 12.6 trillion roubles, down from
+  13.5 trillion in 2025 — the first cut since the war began.
+  However, security forces funding rises (3.5T → 3.9T) and
+  state propaganda spending increases 1.5 times, indicating
+  repackaging rather than genuine fiscal adjustment. Military
+  compensation for the deceased and wounded cut from 78 billion
+  to 58 billion roubles. The 2025 federal deficit hit a record
+  5.65 trillion roubles; 2026 projected at 3.8 trillion. VAT
+  increase from 20% to 22% proposed.
+  Assessment: The fiscal constraint is STEEPENING — the deficit
+  is structural, not cyclical. But the repackaging pattern confirms
+  the revealed-preference hierarchy prediction: the leadership
+  defers genuine adjustment and manages the headline. Deferral
+  buffers (NWF drawdown, debt capacity at ~20% of GDP, VAT
+  increase) remain available but are being consumed. The binding
+  constraint is not yet crossed but the buffer runway is shorter
+  than at the start of 2025.
+  Relative degradation assessment unchanged: Ukraine's manpower
+  curve remains steeper than Russia's fiscal curve. No identified
+  mechanism reverses this by Q2 2026. The advance rate is the
+  discriminating variable — fiscal strain with territorial
+  progress sustains the endurance thesis; fiscal strain without
+  progress breaks it.
+  Direction: UNFAVOURABLE AND STEEPENING. Binding constraint
+  approaching but not yet crossed; deferral buffers shrinking.
+  Sources: Decision Points Session 006; Finance Ministry budget
+  documents; ISW analysis; Moscow Times (Jan 2026).
+
 ────────────────────────────────────────────────────────────
 
 OPTION B: Negotiated Settlement With Minimum Viable Gains
@@ -926,6 +955,42 @@ PATTERN: Partnership Credibility Decay
   structural pressure from the personalist decision-quality
   distortion documented above.
 
+PATTERN: Engage to Outlast
+  Activation: HIGH (February 2026)
+  Source: Decision Points Session 006; MEM–RUSSIA–NICHOLAS–II
+          (Duma precedent); MEM–RUSSIA–CONGRESS–VIENNA; MEM–RUSSIA–
+          PANIN
+  Relevance: Diplomatic performance without structural commitment
+  as a distinct strategic mode. The leadership enters diplomatic
+  processes (Istanbul talks, Abu Dhabi trilateral), exchanges road
+  maps, signals willingness — while actual positions remain
+  unchanged. The Nicholas II Duma precedent (1905): "reform
+  conceded tactically, not integrated structurally," producing "a
+  legitimacy half-life rather than renewal." Validated across three
+  simultaneous decision points (budget repackaging, June deadline
+  participation without positional movement, Alekseyev diplomatic
+  instrumentalisation).
+  Discriminating signals for transition:
+  C→A (genuine engagement): territorial flexibility language,
+    delegation upgrade to principals, fiscal demobilisation signals,
+    ceasefire offer with specific terms.
+  C→B (open defiance): major offensive timed to diplomatic window,
+    third Oreshnik deployment, explicit rejection of June timeline,
+    Trump relationship rupture.
+  Binding question: not what the leadership chooses but what forces
+  a transition. Fiscal curve failure forces A; battlefield
+  breakthrough forces B.
+  Cross-entity reinforcement: Trump's revealed preferences (process
+  over outcome, avoid new costs, personal relationship as channel,
+  domestic calendar governs November 2026 midterms) converge with
+  Option C. The June deadline is a shared performance, not a forcing
+  function.
+  Historical pattern: Russia accepts externally-imposed deadlines
+  only after military defeat (1856 Paris, 1905 Portsmouth). From
+  a contested but favourable position, external timelines are
+  absorbed. The June deadline lacks the forcing mechanism that
+  made Paris and Portsmouth binding.
+
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
@@ -964,6 +1029,23 @@ UNITED STATES:
   dynamic cuts both ways — the US electoral incentive may accelerate
   the timeline, but may also produce pressure for a deal that neither
   Russia nor Ukraine finds structurally stable.
+  Update 2 (February 2026 — Trump revealed preferences on June
+  deadline): Observable evidence suggests four revealed preferences:
+  (1) Process over outcome — announcement is the product; June
+  deadline creates visible process regardless of result. (2) Avoid
+  new costs — US aid reduced 97%; enforcement requires reversing
+  this trajectory. (3) Personal relationship as channel — Trump-Putin
+  bilateral rapport tolerates deadline slippage; damaging the channel
+  to enforce the timeline is structurally unlikely. (4) Domestic
+  calendar — midterms November 2026; a "breakthrough" in September-
+  October serves better than enforcement in June.
+  Assessment: Trump's revealed preferences converge with Russia's
+  Option C (engage to outlast). June deadline is a shared performance,
+  not a forcing function. Risk case: visible humanitarian catastrophe
+  or domestic political shock making inaction costlier than
+  enforcement. Discriminating signal: whether Trump's rhetoric shifts
+  from "progress" to "consequences" in April–May 2026.
+  Source: Decision Points Session 006.
 
 IRAN:
   Dimension: Partnership credibility; defence interdependency
@@ -1191,6 +1273,48 @@ ENTRY 007 — 10 February 2026
   Completeness audit: PASSED (with new requirements)
   Next review: When advance rate data (Q1 2026) and Ukrainian
   brigade strength estimates become available.
+
+ENTRY 008 — 10 February 2026
+  Session: Scenario Tree — front-line collapse trigger (ungrounded)
+  Note: This session was identified as operating without direct
+  MEM file reading. Three MEMs cited by name but not read; eight
+  historical parallels from general knowledge ungrounded. Led to
+  three-source compositional principle (CIV–COUNSEL–TEMPLATE v1.9)
+  and MEM grounding enforcement (cmc-counsel-mem-grounding rule).
+
+ENTRY 009 — 10 February 2026
+  Session: Scenario Tree — front-line collapse trigger (grounded re-run)
+  Source: Three-source grounding test
+  Changes:
+  • Same trigger re-run with proper MEM SCAN: read MEM–RELEVANCE–
+    RUSSIA, loaded 5 primary MEMs (WAR–NAPOLEON, BOLSHEVIK–
+    REVOLUTION, BARBAROSSA, CONGRESS–VIENNA, CATHERINE–GREAT,
+    PANIN). Specific details from MEMs shaped branch analysis.
+  • Convergence analysis confirmed frozen conflict overdetermined;
+    MEM grounding strengthened the mechanism (Catherine lock-in,
+    Vienna sacrifice-to-authority, fiscal-temporal compression
+    all converge through independent causal paths).
+  • Layer 3 MEM generation candidates: Korean armistice 1953,
+    Cuban Missile Crisis 1962, Kyiv 2022 advance.
+  Completeness audit: PASSED (three-source grounding verified)
+
+ENTRY 010 — 11 February 2026
+  Session: Decision Points Session 006 (grounded)
+  Source: ARC–RUSSIA–DECISION–POINTS Session 006
+  Changes:
+  • Three decision points identified with three-source grounding
+    (8 MEMs loaded). DP2 deepened: three options mapped (A engage,
+    B outlast, C engage to outlast). Current policy assessed as
+    Option C based on observable evidence across all three DPs.
+  • New analytical product: Option C ("engage to outlast") as
+    distinct strategic mode with Nicholas II Duma precedent.
+    Discriminating signals mapped for C→A and C→B transitions.
+  • Binding question reframed: not what the leadership chooses
+    but what forces a transition from C.
+  Completeness audit: PASSED
+  Next review: March–April 2026 (Istanbul/Geneva round composition;
+  Q1 advance-rate data; Oreshnik deployment watch; Trump-Putin
+  direct contact)
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–COUNSEL–RUSSIA v1.6

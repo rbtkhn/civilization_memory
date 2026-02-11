@@ -1,10 +1,10 @@
-CIV–COUNSEL–TEMPLATE — v1.8
+CIV–COUNSEL–TEMPLATE — v1.9
 Civilizational Memory Codex · Counsel File Template
 
 Status: ACTIVE · CANONICAL
-Version: 1.8
-Supersedes: CIV–COUNSEL–TEMPLATE v1.7
-Upgrade Type: SIX NEW SESSION ACTIVITIES
+Version: 1.9
+Supersedes: CIV–COUNSEL–TEMPLATE v1.8
+Upgrade Type: MEM GROUNDING ENFORCEMENT
 Class: CIV–COUNSEL–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
 Last Update: 10 February 2026
@@ -40,6 +40,53 @@ Six new session activities fill these gaps:
    degradation. Updates Section VII activation levels.
 
 Summary table and inter-activity triggers in Section X-I.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.9) — MEM CONNECTION DISCOVERY IN COUNSEL
+────────────────────────────────────────────────────────────
+MEM SCAN previously accessed MEM files only through dimension-based
+lookup (MEM–RELEVANCE–[CIV].md). This missed structurally related
+MEMs that sat under different dimensions but were connected by
+dependency, contradiction, or parallel edges — information already
+present in each MEM file's CONNECTIONS section.
+
+Fix: MEM SCAN steps in Decision Points (X-B), Stability Watch
+(X-C), and Scenario Tree (X-E) now include a CONNECTION DISCOVERY
+sub-step: after reading primary MEMs, read their MEM CONNECTIONS
+section and load up to 2 additional MEMs from connection edges
+when relevant to the current topic. Three-Source Compositional
+Principle updated to note both discovery mechanisms (dimension-based
+and connection-based). Option E (Historical precedent) updated to
+use connection edges for graph-based precedent discovery. Cursor
+rule (cmc-counsel-mem-grounding) updated with Step 4 (connection
+discovery) and perspective-aware preferences for typed connections.
+
+Works with both untyped (legacy) and typed connection formats. No
+forced migration. Untyped connections use the one-line explanation
+for relevance assessment; typed connections additionally support
+perspective-aware filtering (legitimacy favours PARALLELS/TEMPORAL;
+power favours DEPENDS_ON/GEOGRAPHIC/CONTRADICTS; liability favours
+DEPENDS_ON/CONTRADICTS).
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.8) — MEM GROUNDING ENFORCEMENT
+────────────────────────────────────────────────────────────
+Scenario Tree Session 005 (ARC–RUSSIA–DECISION–POINTS) exposed
+an enforcement gap: MEM SCAN steps existed in Decision Points,
+Stability Watch, and Scenario Tree procedures, but "Load primary
+MEMs" was interpreted as "find file names" rather than "read file
+contents." The session cited three MEMs by name (BARBAROSSA,
+CATHERINE–GREAT, PANIN) without reading any of them, and used
+eight historical parallels from general knowledge with no MEM
+grounding at all.
+
+Fix: MEM SCAN steps in Decision Points (X-B step 2), Stability
+Watch (X-C step 2), and Scenario Tree (X-E step 2) now explicitly
+require reading MEM file contents and extracting specific details
+(dates, mechanisms, sequences, actors, outcomes). A parallel cited
+by name without MEM-derived detail is defined as a "label, not a
+grounded parallel." New cursor rule (cmc-counsel-mem-grounding)
+enforces this across all COUNSEL activities.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7) — MEM SCAN STEP IN DECISION POINTS
@@ -212,6 +259,58 @@ COUNSEL is derived from, and downstream of, CIV–CORE and CIV–SCHOLAR.
 No content in COUNSEL may contradict canonical CIV–CORE axioms or
 accepted doctrines. COUNSEL translates analytical depth into
 decision-relevant form; it does not generate new analysis independently.
+
+THREE-SOURCE COMPOSITIONAL PRINCIPLE:
+COUNSEL analytical output synthesises three source layers, each
+contributing what it is best at:
+
+1. MEM FILES — Civilizationally-specific depth. Historical
+   mechanisms, sequences, dates, actors, and outcomes drawn from
+   the civilizational memory corpus. This layer supplies the
+   specific detail that makes a historical parallel analytically
+   useful rather than decorative: not "Catherine converted military
+   gains to leverage" but the specific treaty terms, the timeline
+   from military peak to annexation, and why the mechanism worked.
+   MEM files are accessed through two discovery mechanisms:
+   (a) MEM–RELEVANCE–[CIV].md — dimension-based lookup (primary);
+   (b) MEM CONNECTIONS sections of loaded files — connection-based
+   discovery (secondary). Dimension lookup surfaces MEMs by topic;
+   connection discovery surfaces structurally related MEMs that
+   dimension indexing may have missed (e.g., loading Panin surfaces
+   Catherine via "expansion over equilibrium" — a tension relevant
+   to settlement analysis even if the two MEMs sit under different
+   dimensions). Both mechanisms are applied during the MEM SCAN
+   steps of session activities.
+
+2. COUNSEL INTERNAL STRUCTURE — Accumulated analytical context.
+   Material Options with evidence updates, stability indicators,
+   validated diagnostics (e.g. revealed-preference hierarchy),
+   identified patterns (e.g. fiscal-temporal compression trap),
+   decision-point history across sessions, and opponent constraint
+   assessments. This layer makes the analysis cumulative — each
+   session builds on what prior sessions established.
+
+3. GENERAL KNOWLEDGE — Breadth and external context. Cross-domain
+   historical parallels (e.g. Korean armistice, Cuban Missile
+   Crisis), opponent behaviour, external-actor dynamics, current
+   events, and factual knowledge that sits outside the entity's
+   civilizational memory corpus. This layer fills gaps — especially
+   for developments involving actors whose civilizational memory
+   has not yet been built.
+
+All three layers should be present in substantive analytical output.
+An output drawing only on layers 2 and 3 (COUNSEL structure +
+general knowledge) is analytically competent but historically thin.
+An output drawing only on layer 1 (MEM files) without COUNSEL
+context loses the cumulative analytical advantage. The synthesis
+of all three produces output that is historically grounded,
+analytically cumulative, and contextually broad.
+
+When a parallel is drawn from layer 3 (general knowledge) and
+recurs across multiple analytical nodes, it should be flagged as
+a MEM generation candidate at session closure — it has demonstrated
+analytical utility and may warrant inclusion in the civilizational
+memory corpus.
 
 ────────────────────────────────────────────────────────────
 II. AUDIENCE & REGISTER
@@ -629,7 +728,9 @@ ANALYSIS OPTIONS (8 FIXED SLOTS):
   D — Three-perspective assessment: [all three on a specific
        issue — 10-20 words]
   E — Historical precedent: [which MEM-grounded pattern
-       illuminates this? — 10-20 words]
+       illuminates this? — 10-20 words. Check connections
+       of loaded MEMs for structurally relevant predecessors;
+       graph-based discovery supplements dimension-based lookup]
   F — Forward projection: [what does this suggest for a
        specific timeframe or scenario? — 10-20 words]
   G — Cross-entity: [how does this affect a related entity?
@@ -744,14 +845,23 @@ PROCEDURE:
    the entity. Focus on the period since the last COUNSEL session or
    evidence update.
 
-2. MEM SCAN: Before identifying decision points, consult the
-   MEM relevance index (MEM–RELEVANCE–[CIV].md) for the entity.
-   Based on the topics surfaced in step 1, identify which analytical
-   dimensions are in play (e.g. attrition/endurance, fiscal constraint,
-   morale collapse, settlement precedent, escalation, partnership).
-   Load the primary MEMs listed under those dimensions. This ensures
-   the civilizational memory corpus informs decision-point identification
-   — not just the downstream analysis.
+2. MEM SCAN: Before identifying decision points, read
+   MEM–RELEVANCE–[CIV].md for the entity. Based on the topics
+   surfaced in step 1, identify which analytical dimensions are
+   in play (e.g. attrition/endurance, fiscal constraint, morale
+   collapse, settlement precedent, escalation, partnership).
+   Read the primary MEM files listed under those dimensions —
+   read the actual file contents, not just the file name.
+   Extract specific details (dates, mechanisms, sequences,
+   actors, outcomes) that will shape decision-point identification
+   and historical-anchor selection. A parallel cited by name
+   without MEM-derived detail is a label, not a grounded parallel.
+   CONNECTION DISCOVERY: Read the MEM CONNECTIONS section of each
+   loaded MEM. If connections surface additional MEMs relevant to
+   the current topic that were not already loaded, read up to 2
+   additional MEMs from connection edges. Assess relevance from
+   the connection's one-line explanation. Note which connection
+   led to the additional load.
    If no MEM relevance index exists for the entity, consult the
    COUNSEL file's Decision-Relevant History (Section VII) and
    Material Options evidence updates as the minimum MEM scan.
@@ -1011,10 +1121,18 @@ PROCEDURE:
    indicators of internal stress. Focus on the five stability
    indicators defined in the COUNSEL file's Section VI.
 
-2. MEM SCAN: Consult MEM–RELEVANCE–[CIV].md dimensions VIII
+2. MEM SCAN: Read MEM–RELEVANCE–[CIV].md dimensions VIII
    (Legitimacy / Civilizational Continuity) and III (Morale Collapse
-   / Defection Cascade) for relevant historical parallels to current
-   stress patterns.
+   / Defection Cascade). Read primary MEM files listed under those
+   dimensions. Extract specific historical details (dates, sequences,
+   actors, mechanisms) for use as grounded parallels in indicator
+   assessment. A parallel cited by name without MEM-derived detail
+   is a label, not a grounded parallel.
+   CONNECTION DISCOVERY: Read the MEM CONNECTIONS section of each
+   loaded MEM. If connections surface additional MEMs relevant to
+   stability assessment that were not already loaded, read up to 2
+   additional MEMs from connection edges. Assess relevance from
+   the connection's one-line explanation.
 
 3. PRESENT: Display all 5 indicators with current status (STABLE /
    STRESSED / CRITICAL), direction arrow (IMPROVING / STABLE /
@@ -1218,9 +1336,19 @@ PROCEDURE:
    The trigger must be specific and observable — not an abstract
    trend but a concrete development.
 
-2. MEM SCAN: Consult MEM–RELEVANCE–[CIV].md for historical
-   parallels to the trigger event. Load primary MEMs that inform
-   how similar triggers played out historically.
+2. MEM SCAN: Read MEM–RELEVANCE–[CIV].md. Identify the 2–4
+   analytical dimensions most relevant to the trigger event.
+   Read the primary MEM files listed under those dimensions —
+   read the actual file contents, not just the file name.
+   Extract specific details (dates, mechanisms, sequences,
+   actors, outcomes) that will shape the branch analysis.
+   A parallel cited by name without MEM-derived detail is a
+   label, not a grounded parallel.
+   CONNECTION DISCOVERY: Read the MEM CONNECTIONS section of each
+   loaded MEM. If connections surface additional MEMs relevant to
+   the trigger event that were not already loaded, read up to 2
+   additional MEMs from connection edges. Assess relevance from
+   the connection's one-line explanation.
 
 3. BRANCH (Level 1): Project 2-3 immediate consequences of the
    trigger (30-day horizon). Each branch must be:

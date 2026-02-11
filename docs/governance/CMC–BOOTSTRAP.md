@@ -556,13 +556,17 @@ Analytical profiles are LOCKED. No autonomous mutation.
 Human curator overrides all system output.
 
 OPTIONS MENU REQUIREMENTS (LEARN/IMAGINE):
-• 6 multiple choice options (default target)
-• 1 option MUST be Mearsheimer invocation
-• 1 option MUST be Barnes invocation
-• 4 options topic/context-specific
-• When prior substantive turn was from Mercouris or Mearsheimer, include at least one **response** option: "[Other perspective] responds to [prior perspective]—reframe in [legitimacy/structural] terms" (cognitive interaction; see cmc-tri-frame-protocol, TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION)
+• 8 options (A–H) as capability menu (fixed slots per CMC 3.1)
+• A=Mercouris, B=Mearsheimer, C=Barnes, D=Multi-mind,
+  E=Backward, F=Forward, G=Cross-civ, H=Synthesis
+• 10–20 words per option with concrete anchor
+• When prior substantive turn was from Mercouris or Mearsheimer,
+  include at least one **response** option: "[Other perspective]
+  responds to [prior perspective]—reframe in [legitimacy/structural]
+  terms" (cognitive interaction; see cmc-tri-frame-protocol,
+  TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION)
 
-BARNES AVAILABILITY (per CIV–MIND–BARNES v2.6):
+BARNES AVAILABILITY:
 • WRITE MODE: Options menu required (1 Barnes option REQUIRED)
 • LEARN MODE: Options menu required (1 Barnes option REQUIRED)
 • IMAGINE MODE: Options menu required (1 Barnes option REQUIRED)

@@ -3,7 +3,7 @@ Civilizational Memory Codex · Decision Points Activity Record
 Russia / Russian Federation
 
 Status: ACTIVE
-Version: 1.3
+Version: 1.5
 Entity: Russia / Russian Federation
 Source File: CIV–COUNSEL–RUSSIA
 Last Updated: 10 February 2026
@@ -169,7 +169,161 @@ relative binding constraint rule, and two new completeness
 audit items. Gap cannot recur in any civilisation's COUNSEL file.
 
 ────────────────────────────────────────────────────────────
-CUMULATIVE ARC — Sessions 001–004
+SESSION 005 — 10 February 2026
+────────────────────────────────────────────────────────────
+COUNSEL version: v1.6
+Activity: Scenario Tree
+Trigger: Ukrainian front-line collapse in a sector due to
+manpower exhaustion.
+
+Level 1 — 30-day horizon:
+  A — Exploitation advance (MODERATE-HIGH): Russia exploits
+    breach with available reserves, seeking to widen before
+    reconstitution. Revealed-preference hierarchy predicts
+    aggressive move. Parallel: Bagration 1944.
+  B — Negotiate from peak (MODERATE): Leadership converts
+    breakthrough to settlement leverage on maximalist terms.
+    Fiscal-temporal compression trap makes this rational.
+    Parallel: Catherine's diplomatic conversion under fiscal
+    exhaustion.
+  C — Overextension trap (LOW-MODERATE): Exploitation outpaces
+    logistical capacity, creating a vulnerable salient. Labour
+    deficit and stockpile constraints bind pace. Parallel:
+    Kharkov 1942; Kyiv advance 2022.
+
+Level 2 from A — 90-day horizon:
+  A1 — Cascading front-line collapse (MODERATE): Sector-level
+    breach triggers non-linear degradation across adjacent
+    sectors. Brittle Ukrainian units at 50-60% strength break
+    when front-line geometry changes. Parallel: Imperial Russian
+    Army 1917.
+  A2 — Consolidation ceiling (MODERATE-HIGH): Advance succeeds
+    but hits structural ceiling (labour deficit, stockpile
+    exhaustion, fiscal pressure). Gains limited to 30-50 km on
+    single axis. Most probable sub-branch.
+  A3 — Western intervention threshold (LOW): Visible collapse
+    triggers direct Western military involvement. Low probability,
+    high consequence. Parallel: Cuban Missile Crisis 1962.
+
+Level 3 from A3 — 12-month horizon:
+  A3.1 — Frozen intervention (MODERATE within branch): Western
+    forces deploy to stabilisation line further west. Korea 1953
+    template. Revealed-preference prediction: leadership takes
+    this if available. Converges with Branch B and A2.
+  A3.2 — Escalation spiral (LOW within branch): Deployment
+    interpreted as encroachment; nuclear signalling escalates.
+    Personal survival calculus may diverge from state survival.
+    Parallel: Cuban Missile Crisis 1962.
+  A3.3 — Intervention failure (LOW-MODERATE within branch):
+    European deployment present but ineffective — too small to
+    stabilise, too exposed to withdraw. Srebrenica/UNPROFOR
+    template. Gravitates toward frozen conflict regardless.
+
+CONVERGENCE ANALYSIS:
+  Overdetermined outcome: Frozen conflict with Russian
+  territorial gains. Appears across four independent paths
+  (B, A2, A3.1, A3.3). Does not depend on which Level 1
+  branch activates. Key variable: where the line freezes,
+  not whether it freezes.
+
+  Path-dependent outcomes (non-frozen):
+  • A1 (cascading collapse) — transformative; produces
+    territorial reconfiguration beyond frozen-conflict template
+  • A3.2 (escalation spiral) — catastrophic; doubly gated
+    (requires Western intervention + escalation management
+    failure between nuclear powers)
+
+  Decision-relevant finding: Assume frozen conflict as baseline.
+  Focus analytical resources on: (1) where the line freezes
+  (determines post-war territorial configuration), and
+  (2) early-warning indicators distinguishing gradual stall
+  (A2) from cascading collapse (A1) — adjacent-sector
+  degradation rate, Ukrainian reserve deployment patterns,
+  whether unit-level failures propagate or remain contained.
+
+Historical anchors: Bagration 1944 (exploitation of front-line
+breach); Imperial Russian Army 1917 (morale collapse / non-linear
+degradation); Korean armistice 1953 (frozen conflict by external
+stabilisation); Cuban Missile Crisis 1962 (escalation management
+between nuclear powers); Srebrenica / UNPROFOR (intervention
+failure); Catherine's fiscal restraint conversion (MEM–RUSSIA–
+CATHERINE–GREAT, MEM–RUSSIA–PANIN); Kharkov 1942 / Kyiv 2022
+(overextension).
+
+Session finding: The trigger (front-line collapse from manpower
+exhaustion) produces frozen conflict as an overdetermined outcome
+across most branches. Only cascading collapse (A1, transformative)
+and escalation spiral (A3.2, catastrophic) escape this attractor.
+The scenario tree confirms that the relative degradation race
+(Session 004 finding) is the governing variable — its pace and
+manner determine which frozen-conflict variant activates.
+
+────────────────────────────────────────────────────────────
+SESSION 006 — 11 February 2026
+────────────────────────────────────────────────────────────
+COUNSEL version: v1.6
+News period: 4–11 February 2026
+Activity: Decision Points (with three-source grounding)
+
+MEMs loaded: WAR–NAPOLEON, BOLSHEVIK–REVOLUTION, BARBAROSSA,
+CONGRESS–VIENNA, CATHERINE–GREAT, PANIN, WAR–CRIMEAN, NICHOLAS–II
+
+Decision points identified:
+1. Defence budget cut — real fiscal adjustment or repackaging?
+   13.5T → 12.6T roubles (first cut since war began); security
+   forces UP, propaganda UP 1.5x, military compensation DOWN.
+   Record 2025 deficit (5.65T). VAT increase proposed.
+   [WEEKS] [OPEN]
+2. June deadline — engage or outlast? Trump set deadline;
+   Istanbul talks exchanged road maps; Abu Dhabi showed no
+   compromise on territory. Three options mapped:
+   A — Engage (Panin logic: convert gains to treaty structure)
+   B — Outlast (Potemkin logic: keep taking territory)
+   C — Engage to outlast (Nicholas II Duma precedent: perform
+       engagement without structural commitment)
+   [WEEKS] [OPEN]
+3. Alekseyev shooting — intelligence matter or diplomatic
+   instrument? GRU deputy chief shot Feb 6, survived; suspects
+   identified; Russia blames Ukraine. Lavrov frames as
+   "disrupting peace." [DAYS] [OPEN]
+
+Deepened: DP2 (June deadline). Three options mapped. Current
+policy assessed as Option C (engage to outlast) based on:
+Istanbul participation without positional movement, budget
+repackaging, Alekseyev instrumentalisation. Revealed-preference
+hierarchy predicts C (minimises personal exposure on both flanks).
+Nicholas II Duma precedent: "reform conceded tactically, not
+integrated structurally" producing "legitimacy half-life."
+
+Discriminating signals mapped:
+  C → A (genuine engagement): territorial flexibility language,
+    delegation upgrade to principals, fiscal demobilisation
+    signals, ceasefire offer with specific terms
+  C → B (open defiance): major offensive escalation timed to
+    diplomatic window, third Oreshnik deployment, explicit
+    rejection of June timeline, Trump relationship rupture
+
+Historical anchors: Treaty of Paris 1856 (fiscal adjustment
+after defeat — MEM–RUSSIA–WAR–CRIMEAN); Congress of Vienna
+sacrifice-to-authority conversion (MEM–RUSSIA–CONGRESS–VIENNA);
+Panin's equilibrium diplomacy vs Catherine's territorial lock-in
+(MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT); Nicholas II
+Duma as tactical concession (MEM–RUSSIA–NICHOLAS–II); 1917
+non-linear morale collapse (MEM–RUSSIA–BOLSHEVIK–REVOLUTION).
+
+Session finding: Current policy fits Option C (diplomatic
+performance without commitment) across all three decision points.
+The defence budget repackages rather than adjusts; the June
+process is entered without positional movement; the Alekseyev
+shooting is instrumentalised for diplomatic framing. The
+revealed-preference hierarchy (liability > structural >
+legitimacy) predicts this configuration. The binding question
+is not what the leadership chooses but what forces a transition
+from C to A or B — fiscal curve failure forces A; battlefield
+breakthrough forces B.
+
+────────────────────────────────────────────────────────────
+CUMULATIVE ARC — Sessions 001–006
 ────────────────────────────────────────────────────────────
 Key analytical products across all sessions:
 
@@ -186,20 +340,41 @@ FRAMEWORK CORRECTIONS:
     Option A now tracks the race, not one side
   • Template fix (v1.6) — structural gap closed for all files
 
+SCENARIO TREE (Session 005):
+  Trigger: front-line collapse from manpower exhaustion.
+  Overdetermined outcome: frozen conflict with Russian
+  territorial gains (appears across 4 of 6 terminal branches).
+  Path-dependent exceptions: cascading collapse (transformative),
+  escalation spiral (catastrophic). Governing variable: relative
+  degradation race pace and manner. Confirms Session 004 finding
+  that the relative binding constraint is the primary analytical
+  frame.
+
 RECURRING DECISION POINTS:
   • Iran partnership activation — Sessions 002, 004 (DP3)
     (Recurs: leadership continues deferring)
-  • Fiscal adjustment — Sessions 001 (DP1), 003 (DP3), 004 (DP2)
-    (Recurs: same structural pressure, same deferral pattern)
+  • Fiscal adjustment — Sessions 001 (DP1), 003 (DP3), 004 (DP2),
+    006 (DP1) (Recurs: same structural pressure; now manifesting
+    in actual budget numbers; repackaging pattern confirmed)
+  • June deadline — Sessions 004 (DP2), 006 (DP2)
+    (Recurs: Option C assessed as current policy)
 
-OPEN DECISION POINTS (as of 10 February 2026):
+NEW ANALYTICAL PRODUCT (Session 006):
+  Option C identification: "engage to outlast" as a distinct
+  strategic mode — diplomatic performance without structural
+  commitment. Nicholas II Duma precedent. Discriminating signals
+  mapped for transitions C→A and C→B. Binding question reframed:
+  not what the leadership chooses but what forces a transition.
+
+OPEN DECISION POINTS (as of 11 February 2026):
   From Session 001: DP1 (fiscal cliff), DP2 (Abu Dhabi),
     DP3 (Syria bases) — all OPEN
   From Session 002: DP1 (S-400), DP2 (treaty activation),
     DP3 (uranium card) — all OPEN
-  From Session 004: DP1 (Alekseyev), DP2 (June deadline),
-    DP3 (Iran/US talks) — all OPEN
+  From Session 004: DP1 (Alekseyev), DP3 (Iran/US talks) — OPEN
+  From Session 006: DP1 (budget repackaging), DP2 (June deadline
+    — Option C), DP3 (Alekseyev instrumentalisation) — all OPEN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — ARC–RUSSIA–DECISION–POINTS v1.3
+END OF FILE — ARC–RUSSIA–DECISION–POINTS v1.5
 ────────────────────────────────────────────────────────────

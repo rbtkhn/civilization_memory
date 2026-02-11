@@ -1,0 +1,93 @@
+---
+description: COUNSEL mode source composition — three-source principle and MEM grounding enforcement
+alwaysApply: true
+---
+
+# COUNSEL Source Composition and MEM Grounding Rule
+
+## Three-Source Compositional Principle
+
+COUNSEL analytical output synthesises three source layers:
+
+1. **MEM files** — Civilizationally-specific depth. Mechanisms, sequences, dates, actors, outcomes from the memory corpus. Accessed via MEM–RELEVANCE–[CIV].md (dimension-based discovery) and via MEM CONNECTIONS sections of loaded files (connection-based discovery).
+2. **COUNSEL internal structure** — Accumulated analytical context. Material Options, evidence updates, stability indicators, validated diagnostics, patterns, decision-point history.
+3. **General knowledge** — Breadth and external context. Cross-domain parallels, opponent behaviour, external-actor dynamics, current events.
+
+All three layers should be present in substantive analytical output. Layer 1 (MEM) provides historically grounded specificity. Layer 2 (COUNSEL) provides cumulative analytical advantage. Layer 3 (general knowledge) provides breadth. An output missing any layer is incomplete:
+- Missing layer 1 = historically thin (labels without depth)
+- Missing layer 2 = analytically naive (ignores accumulated session findings)
+- Missing layer 3 = contextually narrow (blind to external dynamics)
+
+## MEM SCAN Procedure (MANDATORY)
+
+When executing a session activity (Decision Points, Stability Watch, Assumption Stress Test, Scenario Tree, Revealed Preference Tracker, Cross-Entity Pressure Test, Pattern Audit), you MUST ground analytical output in directly-read MEM files.
+
+## MEM SCAN Procedure (MANDATORY)
+
+Every COUNSEL session activity begins with a MEM SCAN. The procedure is:
+
+1. **Read MEM–RELEVANCE–[CIV].md** for the entity under analysis. This is the primary lookup tool. Do NOT substitute a filename search or subagent scan.
+
+2. **Identify relevant dimensions** based on the activity's topic. A single topic usually spans 2–4 dimensions (e.g. "front-line collapse" spans Attrition/Endurance, Morale Collapse/Defection Cascade, and Opponent Constraint).
+
+3. **Read primary MEM files** listed under each relevant dimension. Read the actual file — not just the file name. Load at minimum:
+   - 2 primary MEMs from the most relevant dimension
+   - 1 primary MEM from each additional relevant dimension
+   - More if the activity is deep (Scenario Tree with multiple levels, multi-decision-point session)
+
+4. **Read MEM CONNECTIONS of loaded files (connection discovery).** After reading each primary MEM, read its MEM CONNECTIONS section. Identify connected MEMs that are (a) not already loaded from MEM–RELEVANCE and (b) relevant to the current analytical topic — assess relevance from the connection's one-line explanation (e.g., "expansion over equilibrium" signals a tension relevant to settlement analysis). Load at most **1–2 additional MEMs** from connection edges per activity. Note which connection explanation led to loading the additional MEM (traceability). When connections are **typed** (DEPENDS_ON, CONTRADICTS, etc.), apply perspective-aware preferences: legitimacy analysis favours PARALLELS and TEMPORAL edges; power analysis favours DEPENDS_ON, GEOGRAPHIC, CONTRADICTS; liability analysis favours DEPENDS_ON, CONTRADICTS. When connections are **untyped** (legacy format), all edges are equally available — assess relevance from the explanation text.
+
+5. **Extract specific details** from all loaded MEMs (primary and connection-discovered) that will shape the analysis: dates, mechanisms, sequences, outcomes, quantities, named actors. These details must appear in the analytical output — not just the MEM's title or a one-line summary.
+
+## What "Grounded" Means
+
+A historical parallel is **grounded** when the analytical output includes specific details drawn from reading the MEM file. It is **ungrounded** (a label) when it references a MEM by name using only general knowledge.
+
+| Grounded | Ungrounded |
+|---|---|
+| "Catherine converted the 1774 Küçük Kaynarca gains into the 1783 Crimean annexation under fiscal pressure that forced Panin's equilibrium approach out — the same pattern of converting military peak into territorial lock-in" | "Catherine's conversion of military gains to diplomatic leverage under fiscal exhaustion" |
+| "The Imperial Russian Army held through 1916 and broke in February 1917 — the Brusilov Offensive's success in 1916 masked the non-linear morale degradation that produced the February mutinies" | "The 1917 parallel — morale degradation was non-linear" |
+
+The first version draws on MEM content (specific treaties, dates, named actors, mechanisms). The second version could be written without ever reading the MEM.
+
+## During the Activity
+
+At each analytical node (branch, sub-branch, decision point, indicator assessment), apply:
+
+- **At least one historical parallel must be MEM-grounded** (drawn from a file you have read in this session)
+- **Non-MEM parallels are permitted** (e.g. Korean armistice, Cuban Missile Crisis) but should be flagged as ungrounded if no corresponding MEM exists
+- **When a non-MEM parallel recurs across multiple nodes**, note it as a MEM generation candidate at session closure
+
+## Self-Check Before Each COUNSEL Activity Turn
+
+- [ ] MEM–RELEVANCE–[CIV].md read at session start?
+- [ ] Relevant dimensions identified (minimum 2)?
+- [ ] Primary MEMs from those dimensions actually read (not just named)?
+- [ ] MEM CONNECTIONS of loaded files reviewed for additional discovery?
+- [ ] Connection-discovered MEMs loaded (if relevant and not already covered)?
+- [ ] Specific details from all loaded MEMs appearing in analytical output?
+- [ ] Non-MEM parallels flagged as ungrounded where applicable?
+
+## Fallback
+
+If MEM–RELEVANCE–[CIV].md does not exist for the entity:
+1. Consult the COUNSEL file's Decision-Relevant History (Section VII)
+2. Identify MEM file references in that section
+3. Read those MEM files directly
+4. Note the missing relevance index as a system gap
+
+## General Knowledge (Layer 3)
+
+Parallels from general knowledge (Korean armistice, Cuban Missile Crisis, etc.) are legitimate and expected — they provide breadth the MEM corpus cannot. Rules:
+
+- **Layer 3 parallels do not replace layer 1.** Every analytical node must have at least one MEM-grounded parallel. Layer 3 parallels supplement, not substitute.
+- **Flag recurring layer 3 parallels as MEM generation candidates** at session closure — if a non-MEM parallel appears at multiple nodes, it has demonstrated analytical utility and may warrant a MEM file.
+- **Layer 3 is strongest for**: opponent behaviour, external-actor dynamics, cross-domain structural parallels, events outside the entity's civilisational memory.
+
+## Common Failure
+
+Dispatching a subagent to search for MEM filenames and then citing those filenames as historical parallels WITHOUT reading the files = VIOLATION. The MEM SCAN step requires reading, not finding.
+
+Operating entirely on layers 2 + 3 (COUNSEL structure + general knowledge) without reading any MEM files = VIOLATION. Output may be analytically competent but is historically ungrounded.
+
+Reference: CIV–COUNSEL–TEMPLATE Section I (Three-Source Compositional Principle), MEM SCAN steps in X-B, X-C, X-D, X-E; MEM–RELEVANCE–[CIV].md; CIV–MEM–TEMPLATE Section X (MEM CONNECTIONS); CONNECTION–TYPES.md
