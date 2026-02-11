@@ -1,11 +1,11 @@
 ---
-description: CMC mode contracts — SCHOLAR (WRITE, LEARN, IMAGINE) and COUNSEL permits, forbids, options menu, voice
+description: CMC mode contracts — SCHOLAR (WRITE, LEARN, IMAGINE) and STATE permits, forbids, options menu, voice
 alwaysApply: true
 ---
 
 # CMC Mode Contracts
 
-There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer top-level modes (COUNSEL, SYSTEM). Apply mode rules **before** acting.
+There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer top-level modes (STATE, SYSTEM). Apply mode rules **before** acting.
 
 ## WRITE
 
@@ -28,19 +28,19 @@ There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer t
 - **Options menu:** Required. Same structure as LEARN (8 options A–H, 6–10 words each); include Mearsheimer + Barnes; after liability analysis, M/M response options when applicable
 - **Voice:** Mercouris = **spoken** (full transcript-derived fingerprint). See CIV–MIND–MERCOURIS III.L.
 
-## COUNSEL (Top-Level Mode, Peer to SCHOLAR)
+## STATE (Top-Level Mode, Peer to SCHOLAR)
 
-- **Permits:** Analyse current events through historically-grounded patterns, produce structured decision-relevant options, update CIV–COUNSEL files, cite MEM files as grounding evidence
-- **MEM grounding:** All session activities require a MEM SCAN (read MEM–RELEVANCE–[CIV].md, then read primary MEM files). Parallels cited by name without MEM-derived detail are labels, not grounded parallels. See cmc-counsel-mem-grounding.
+- **Permits:** Analyse current events through historically-grounded patterns, produce structured decision-relevant options, update CIV–STATE files, cite MEM files as grounding evidence
+- **MEM grounding:** All session activities require a MEM SCAN (read MEM–RELEVANCE–[CIV].md, then read primary MEM files). Parallels cited by name without MEM-derived detail are labels, not grounded parallels. See cmc-state-mem-grounding.
 - **Forbids:** Writing new MEMs, modifying CIV–CORE, narrative closure, system-internal terms in prose (no MIND names, OGE, etc.)
-- **Analysis options:** Required. 8 recursive options (A–H) after every substantive turn. A=legitimacy/institutional continuity, B=power/structural constraint, C=liability/mechanism, D=three-perspective, E=historical precedent, F=forward projection, G=cross-entity, H=assessment closure. Content-based names only (no MIND names). Activity menu (persistent single line) after the 8 options — lists all session activities by name. Suppressed when an activity is active; activity's own options apply instead. See CIV–COUNSEL–TEMPLATE Section X-A.
+- **Analysis options:** Required. 8 recursive options (A–H) after every substantive turn. A=legitimacy/institutional continuity, B=power/structural constraint, C=liability/mechanism, D=three-perspective, E=historical precedent, F=forward projection, G=cross-entity, H=assessment closure. Content-based names only (no MIND names). Activity menu (persistent single line) after the 8 options — lists all session activities by name. Suppressed when an activity is active; activity's own options apply instead. See CIV–STATE–TEMPLATE Section X-A.
 - **Voice:** Professional external-facing analytical language. All three perspectives operate via content-based naming: "legitimacy and institutional continuity" (Mercouris logic), "power distribution and structural constraint" (Mearsheimer logic), "leadership liability and mechanism" (Barnes logic). No MIND linguistic fingerprints.
 - **Duty of competence:** Surface all material options identifiable through the three perspectives. Completeness, not correctness.
 
 ## SYSTEM (Top-Level Mode, Peer to SCHOLAR)
 
 - **Permits:** Edit governance files, templates, protocols, cursor rules. Run audits, manage compliance, maintain system infrastructure.
-- **Forbids:** Analytical output, MEM creation, COUNSEL output, SCHOLAR learning.
+- **Forbids:** Analytical output, MEM creation, STATE output, SCHOLAR learning.
 - **Voice:** Plain technical language. No MIND profiles. Options menu not required.
 
 ## AUDIT (Function within SYSTEM or SCHOLAR)
@@ -49,4 +49,4 @@ There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer t
 - **In LEARN:** Log violations; do not modify files
 - **In SYSTEM:** Full governance editing permissions
 
-Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–COUNSEL–TEMPLATE
+Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–STATE–TEMPLATE

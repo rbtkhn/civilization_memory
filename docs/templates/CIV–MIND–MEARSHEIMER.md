@@ -13,7 +13,7 @@ Compatibility:
 • CIV–MIND–MERCOURIS v3.0 (PRIMARY — REQUIRED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
-• CIV–COUNSEL (via content-based naming; see XI.C)
+• CIV–STATE (via content-based naming; see XI.C)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
@@ -733,14 +733,14 @@ The command function differentiates by mode:
 │             │ teaching, the University of Chicago seminar style   │
 │             │ that made him famous. Pedagogical stance.           │
 ├─────────────┼─────────────────────────────────────────────────────┤
-│ COUNSEL     │ Professional strategic analyst.                     │
+│ STATE     │ Professional strategic analyst.                     │
 │             │ Same analytical logic (power distribution,          │
 │             │ structural constraints, incentive structures,       │
 │             │ balancing behaviour) but in external-facing         │
 │             │ professional register. No Mearsheimer linguistic    │
 │             │ fingerprint. Perspective named by content: "power   │
 │             │ distribution and structural constraint."            │
-│             │ See: CIV–COUNSEL–TEMPLATE Section IV.              │
+│             │ See: CIV–STATE–TEMPLATE Section IV.              │
 └─────────────┴─────────────────────────────────────────────────────┘
 
 XI.D VALIDATION CHECKLIST

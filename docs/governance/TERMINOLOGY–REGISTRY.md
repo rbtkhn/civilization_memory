@@ -39,7 +39,7 @@ the system's terms of art.
 | CIV–CORE | Civilization core engine | Houses axioms, diagnostics, constraint gates. "Civilization file" doesn't capture that it's an engine, not a description. |
 | CIV–SCHOLAR | Scholar learning ledger | Learning ledger with structured entries, syntheses, RLL proposals, and confidence levels. "Learning file" undershoots the governance. |
 | CIV–DOCTRINE | Doctrine registry | Frozen synthesis registry with evidence gating. The frozen status and evidence requirement make this a specific governed object. |
-| CIV–COUNSEL | Counsel file | Decision-support file that learns from the present. Distinct temporal orientation, register, and audience from SCHOLAR. |
+| CIV–STATE | State file | Decision-support file that serves as cognitive exoskeleton for the head of state. Distinct temporal orientation (present), register, and audience from SCHOLAR. Renamed from CIV–COUNSEL (2026-02-11). |
 | CIV–INDEX | Index file | Registration file. Self-explanatory as file-type name. |
 | CIV–ARC | ARC file | Per-civilization academic reference canon. Self-explanatory as file-type name. |
 
@@ -88,14 +88,14 @@ B. SCOPE
 
 The replacement applies to:
 • Governance documents (BOOTSTRAP, CIV–MEM–CORE, VERSION–MANIFEST)
-• Templates (CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–COUNSEL–TEMPLATE)
+• Templates (CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–STATE–TEMPLATE)
 • Cursor rules (.cursor/rules/cmc-*)
 • Protocols and proposals
 
 The replacement does NOT apply to:
 • MEM content files (these use load-bearing file-type names, not
   procedural jargon)
-• CIV–COUNSEL files (already governed by external-facing register
+• CIV–STATE files (already governed by external-facing register
   rules that prohibit system-internal vocabulary)
 
 C. CURSOR RULE FILENAMES
@@ -132,13 +132,13 @@ are namespace identifiers governed by the FILE NAMING CONVENTION
 in CMC–BOOTSTRAP.
 
 ────────────────────────────────────────────────────────────
-VI. EXTERNAL-FACING REGISTER (COUNSEL)
+VI. EXTERNAL-FACING REGISTER (STATE)
 ────────────────────────────────────────────────────────────
-CIV–COUNSEL files are governed by a stricter standard: no
+CIV–STATE files are governed by a stricter standard: no
 system-internal terminology in analytical prose. This includes
 both load-bearing and decorative terms.
 
-In COUNSEL files, use:
+In STATE files, use:
 • "Legitimacy and institutional continuity" (not "Mercouris lens")
 • "Power distribution and structural constraint" (not "Mearsheimer lens")
 • "Leadership liability and mechanism" (not "Barnes lens")
@@ -151,7 +151,7 @@ Source citations may use file-type names:
 • "The MEM analysis suggests..." — PROHIBITED (use "The historical
   analysis suggests...")
 
-See CIV–COUNSEL–TEMPLATE Section XI for the full register rules
+See CIV–STATE–TEMPLATE Section XI for the full register rules
 and translation table.
 
 ────────────────────────────────────────────────────────────

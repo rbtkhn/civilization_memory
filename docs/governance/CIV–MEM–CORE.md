@@ -23,8 +23,8 @@ This version formalizes the three-mode architecture and
 supporting governance changes.
 
 KEY CHANGES:
-• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM (peers)
-• CIV–COUNSEL file type: present-oriented decision support
+• Three top-level modes: SCHOLAR / STATE / SYSTEM (peers)
+• CIV–STATE file type: present-oriented decision support
   with duty of competence and three-perspective completeness
 • SYSTEM mode: governance maintenance, auditing, template
   management separated from analytical work
@@ -35,12 +35,12 @@ KEY CHANGES:
   Blend Law → content proportion rule, TRI-FRAME →
   three-perspective analysis, POST-BARNES → after liability
   analysis, CCM → cross-civilizational misperception (spelled out)
-• CIV–COUNSEL–TEMPLATE added to template registry
+• CIV–STATE–TEMPLATE added to template registry
 • Barnes reclassified: "TERTIARY CATALYST" → "LIABILITY/MECHANISM
   PERSPECTIVE" (per terminology audit)
 
 PREVIOUS CMC 3.2 PROPOSALS RE-SCOPED TO CMC 3.3:
-Current Events Protocol (partially absorbed by COUNSEL),
+Current Events Protocol (partially absorbed by STATE),
 Tiered Retrieval, Living ARC, MIND Navigation.
 
 ────────────────────────────────────────────────────────────
@@ -111,11 +111,11 @@ CMC 3.3 PROPOSALS (re-scoped from 3.2)
 ────────────────────────────────────────────────────────────
 The following proposals were originally designated CMC 3.2. They are
 re-scoped to CMC 3.3 because CMC 3.2 was used for the three-mode
-architecture. COUNSEL partially absorbs the Current Events Protocol.
+architecture. STATE partially absorbs the Current Events Protocol.
 
 CURRENT EVENTS PROTOCOL (CEP) — PARTIALLY ABSORBED:
 Bidirectional analysis of current events against historical MEMs.
-• Forward application: MEMs inform current events — ABSORBED by COUNSEL
+• Forward application: MEMs inform current events — ABSORBED by STATE
 • Backward illumination: Current events reveal MEM insights — remaining
 See: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md
 
@@ -1951,8 +1951,8 @@ XXX. CANONICAL STATUS (UPDATED)
 This file is CANONICAL.
 
 v3.2 ADDITIONS:
-• Three-mode architecture (SCHOLAR / COUNSEL / SYSTEM).
-• CIV–COUNSEL file type and CIV–COUNSEL–TEMPLATE.
+• Three-mode architecture (SCHOLAR / STATE / SYSTEM).
+• CIV–STATE file type and CIV–STATE–TEMPLATE.
 • SYSTEM mode for governance maintenance.
 • TERMINOLOGY–REGISTRY and new-term gate.
 • Decorative term replacements across governance files.

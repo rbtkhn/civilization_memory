@@ -131,7 +131,7 @@ Function: Triggers new insight in primary and advisory minds
 
 The tertiary catalyst:
 • Is OGE-REQUIRED in ALL SCHOLAR modes (WRITE, LEARN, IMAGINE)
-• Operates in COUNSEL mode via content-based naming (see III.E)
+• Operates in STATE mode via content-based naming (see III.E)
 • Triggers insight in MERCOURIS and MEARSHEIMER
 • Does not replace or parallel — catalyzes
 • POST-BARNES OGE required after every interjection
@@ -140,7 +140,7 @@ Mode-Specific Framing:
 • WRITE MODE: Editorial advice (fix/enhance/create MEMs)
 • LEARN MODE: Exploratory expansion (optimize SCHOLAR)
 • IMAGINE MODE: Counterfactual probing
-• COUNSEL MODE: Leadership liability and mechanism perspective
+• STATE MODE: Leadership liability and mechanism perspective
   (external-facing register; no MIND profile names in prose)
 
 POST-BARNES OGE (ALL MODES):
@@ -169,7 +169,7 @@ SCHOLAR (WRITE / LEARN / IMAGINE):
 • OGE-based activation (A=Mercouris, B=Mearsheimer, C=Barnes)
 • Mode-specific voice posture (Mercouris varies; others constant)
 
-COUNSEL:
+STATE:
 • Same analytical framework, different register
 • Perspectives named by content, not by MIND profile name:
   Mercouris → "Legitimacy and institutional continuity"
@@ -183,8 +183,8 @@ The underlying analytical logic — what each perspective surfaces,
 what constraints it identifies, what it misses — is identical
 across modes. Only register and naming differ.
 
-See: CIV–COUNSEL–TEMPLATE Section IV (Translation Table)
-See: CMC–BOOTSTRAP (COUNSEL MODE section)
+See: CIV–STATE–TEMPLATE Section IV (Translation Table)
+See: CMC–BOOTSTRAP (STATE MODE section)
 
 ────────────────────────────────────────────────────────────
 IV. MIND PROFILE STRUCTURE
@@ -310,8 +310,8 @@ TERTIARY CATALYST (BARNES v2.6):
 
 No autonomous activation of advisory or catalyst minds is permitted.
 
-COUNSEL MODE ACTIVATION (CMC 3.2):
-All three perspectives operate in COUNSEL mode through the same
+STATE MODE ACTIVATION (CMC 3.2):
+All three perspectives operate in STATE mode through the same
 analytical framework, but invocation and output differ:
 • Activation: By analytical need (duty of competence requires all
   three perspectives to be applied for completeness)
@@ -323,7 +323,7 @@ analytical framework, but invocation and output differ:
   fingerprints. No OGE, no MIND names in prose
 • The underlying analytical logic (what each perspective surfaces)
   is identical to SCHOLAR mode; only register and naming differ
-See: CIV–COUNSEL–TEMPLATE, Section IV (Translation Table)
+See: CIV–STATE–TEMPLATE, Section IV (Translation Table)
 
 ────────────────────────────────────────────────────────────
 IX. INTERFACE PRECEDENCE

@@ -4,7 +4,7 @@ Consolidated Version History
 
 Status: ACTIVE · CANONICAL
 Governed by: CMC 3.2
-Last Updated: 2026-02-10
+Last Updated: 2026-02-11
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
@@ -21,16 +21,38 @@ Under CMC 3.1 Version Decoupling:
 • History is centralized and searchable
 
 ────────────────────────────────────────────────────────────
-II. CMC 3.2 — THREE-MODE ARCHITECTURE EDITION
+II. COUNSEL → STATE RENAME
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: STRUCTURAL
+
+CHANGES:
+• COUNSEL mode renamed to STATE mode system-wide
+• CIV–COUNSEL file type renamed to CIV–STATE
+• Conceptual shift: cognitive exoskeleton serves the head
+  of state directly, not through an advisor character
+• 4 files renamed: CIV–STATE–GERMANY, CIV–STATE–RUSSIA,
+  CIV–STATE–TEMPLATE, cmc-state-mem-grounding
+• ~148 content replacements across 24 files (governance,
+  templates, cursor rules, MIND files, content files)
+• TERMINOLOGY–REGISTRY entry updated with new description
+
+EXCLUSIONS:
+• ANGLIA MEM files using "counsel" as historical term
+  (MEM–ANGLIA–LAW–PARLIAMENT, MEM–ANGLIA–ELIZABETH–I)
+  were not modified
+
+────────────────────────────────────────────────────────────
+III. CMC 3.2 — THREE-MODE ARCHITECTURE EDITION
 ────────────────────────────────────────────────────────────
 Date: 2026-02-10
 Type: STRUCTURAL
 
 CHANGES:
-• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM (peers)
-• CIV–COUNSEL file type: present-oriented decision support
+• Three top-level modes: SCHOLAR / STATE / SYSTEM (peers)
+• CIV–STATE file type: present-oriented decision support
   with duty of competence and three-perspective completeness
-• CIV–COUNSEL–TEMPLATE v1.2 created
+• CIV–STATE–TEMPLATE v1.2 created
 • SYSTEM mode: governance maintenance, auditing, template
   management separated from analytical work
 • CMC–BOOTSTRAP updated with three-mode Quick Start
@@ -47,7 +69,7 @@ CHANGES:
 • All governance files aligned to CMC 3.2
 
 IMPLEMENTATION:
-• CIV–COUNSEL–RUSSIA v1.3 created (pilot)
+• CIV–STATE–RUSSIA v1.3 created (pilot)
 • CMC–BOOTSTRAP restructured for three-mode architecture
 • TERMINOLOGY–REGISTRY.md created
 • VERSION–MANIFEST v3.1 → v3.2
@@ -55,7 +77,7 @@ IMPLEMENTATION:
 • All templates and MIND profiles: governance references updated
 
 RATIONALE:
-• Separated present-oriented analysis (COUNSEL) from
+• Separated present-oriented analysis (STATE) from
   historical learning (SCHOLAR)
 • Separated system maintenance (SYSTEM) from analytical work
 • Reduced jargon: removed 10 decorative terms
@@ -69,7 +91,7 @@ Status: DRAFT (Proposals pending approval)
 Type: STRUCTURAL
 
 The following proposals were originally designated CMC 3.2. They are
-re-scoped to CMC 3.3. COUNSEL partially absorbs the Current Events
+re-scoped to CMC 3.3. STATE partially absorbs the Current Events
 Protocol concept.
 
 ────────────────────────────────────────────────────────────

@@ -15,17 +15,17 @@ This version formalizes the three-mode architecture and
 supporting governance changes implemented in February 2026.
 
 KEY CHANGES:
-• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM
-• CIV–COUNSEL file type: present-oriented decision support
+• Three top-level modes: SCHOLAR / STATE / SYSTEM
+• CIV–STATE file type: present-oriented decision support
 • SYSTEM mode: governance maintenance and auditing
 • TERMINOLOGY–REGISTRY: load-bearing/decorative audit, new-term gate
 • Decorative term replacements across governance files
-• CIV–COUNSEL–TEMPLATE added to template registry
+• CIV–STATE–TEMPLATE added to template registry
 
 PREVIOUS 3.2 PROPOSALS RE-SCOPED:
 The proposals previously designated for CMC 3.2 (Current Events
 Protocol, Tiered Retrieval, Living ARC, MIND Navigation) are
-re-scoped to CMC 3.3. COUNSEL partially absorbs the Current
+re-scoped to CMC 3.3. STATE partially absorbs the Current
 Events Protocol concept.
 
 ────────────────────────────────────────────────────────────
@@ -92,7 +92,7 @@ TEMPLATES:
 • CIV–INDEX–TEMPLATE
 • CIV–SCHOLAR–TEMPLATE
 • CIV–SCHOLAR–PROTOCOL
-• CIV–COUNSEL–TEMPLATE
+• CIV–STATE–TEMPLATE
 • CIV–DOCTRINE–TEMPLATE
 • CIV–ARC–TEMPLATE
 • CIV–ARC–LEDGER–TEMPLATE
@@ -160,7 +160,7 @@ For detailed changelog, see:
 
 MAJOR VERSIONS:
 • CMC 3.3 (Pending): Tiered Retrieval, Living ARC, MIND Navigation (re-scoped from 3.2)
-• CMC 3.2 (2026-02-10): Three-Mode Architecture Edition (SCHOLAR/COUNSEL/SYSTEM)
+• CMC 3.2 (2026-02-10): Three-Mode Architecture Edition (SCHOLAR/STATE/SYSTEM)
 • CMC 3.1 (2026-02-04): Version Decoupling Edition
 • CMC 3.0 (2026-02-02): Consolidation Edition
 • CMC 2.x (2026-01): Development iterations
@@ -173,7 +173,7 @@ CMC 3.3 PROPOSALS (re-scoped from 3.2):
 • ROADMAP–CMC–3.2.md (to be updated to 3.3)
 
 Note: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md is partially absorbed
-by CIV–COUNSEL; remaining aspects may be included in 3.3.
+by CIV–STATE; remaining aspects may be included in 3.3.
 
 ────────────────────────────────────────────────────────────
 VI. QUICK BINDING DECLARATION

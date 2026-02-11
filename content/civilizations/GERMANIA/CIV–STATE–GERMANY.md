@@ -1,13 +1,15 @@
-CIV–COUNSEL–GERMANY — v1.0
-Civilizational Memory Codex · Counsel File
+CIV–STATE–GERMANY — v1.1
+Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: CIV–STATE–GERMANY v1.0
+Upgrade Type: SESSION HARVEST — NUCLEAR DETERRENCE GAP, POST-WAR SETTLEMENT OPTION
 Entity: Germany / Federal Republic of Germany
 Classification: STANDARD-STATE
 Civilization: GERMANIA
 Active: YES
-Last Updated: February 2026
+Last Updated: 11 February 2026
 
 This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
@@ -110,7 +112,7 @@ From the Prussian Tradition:
 
 CONTESTED CLAIMS:
 • Austria shares the GERMANIA civilizational corpus but is a separate
-  state with its own COUNSEL trajectory (Habsburg successor, EU member,
+  state with its own STATE trajectory (Habsburg successor, EU member,
   neutral status until recently)
 • The Netherlands, Belgium, Switzerland, and Scandinavian states
   inherit partial GERMANIA patterns but have divergent state traditions
@@ -223,7 +225,7 @@ C) LEADERSHIP LIABILITY AND MECHANISM
 ────────────────────────────────────────
 
 Germany's governance structure is coalitional and institutional — the
-opposite of the personalist systems analysed in COUNSEL–RUSSIA. The
+opposite of the personalist systems analysed in STATE–RUSSIA. The
 chancellor governs within a coalition agreement, subject to
 parliamentary confidence, constitutional review, and federal-state
 negotiation. Personal liability exposure is correspondingly lower
@@ -547,14 +549,103 @@ OPTION D: Transatlantic Accommodation
     arrangements excluding Germany
 
 ────────────────────────────────────────────────────────────
+
+OPTION E: Post-War Settlement Architecture
+
+  Grounded in: Legitimacy and institutional continuity; power
+  distribution and structural constraint
+
+  Reasoning: After a Ukraine ceasefire, Germany leads the design
+  of European post-war architecture using the Congress of Vienna
+  model — inclusion of Russia as a stakeholder rather than
+  permanent exclusion. The mechanism is conditional economic
+  normalisation tied to verifiable security commitments: sanctions
+  relief in stages, each stage requiring concrete Russian action
+  (troop withdrawal, arms control agreement, institutional
+  participation). Germany is positioned to lead this because its
+  economic weight gives it leverage that did not exist before 2022
+  — Russia needs European markets, technology, and investment more
+  than Europe needs Russian energy, which Germany has already
+  replaced.
+
+  The historical logic is specific and tested. Vienna 1815:
+  after 23 years of war with France, the coalition invited
+  Talleyrand to the table, preserved French great-power status,
+  and produced a settlement that lasted a century. Versailles
+  1919: Germany was excluded, punished, and humiliated — the
+  settlement lasted 20 years before producing another war.
+  Bismarck's Reinsurance Treaty 1887–1890: when Wilhelm II
+  dropped the uncomfortable relationship with Russia, the result
+  within 24 years was the two-front encirclement Bismarck had
+  spent his career preventing. The pattern is consistent:
+  inclusion binds, exclusion radicalises.
+
+  Key Assumptions:
+  • The war ends in a ceasefire that permits diplomatic engagement
+    — Linchpin: YES
+  • Russia accepts conditional engagement rather than demanding
+    unconditional normalisation — Linchpin: YES
+  • European partners accept German-led engagement with Russia
+    — Linchpin: NO
+  • German public opinion permits rapprochement after 2022
+    — Linchpin: NO
+
+  Confidence: LOW
+  Assessed against three settlement precedents (Vienna 1815,
+  Versailles 1919, Bismarck's Reinsurance Treaty 1887–1890) and
+  current STATE–RUSSIA assessment (Russia running "engage to
+  outlast" strategy; fiscal base shrinking; China absorption
+  plateauing). Binding constraint: the war must end first, and
+  German public opinion after 2022 severely constrains the
+  political space for any engagement with Russia. Included because
+  permanent exclusion of Russia carries costs (permanent
+  militarisation, fiscal drain, alliance dependency) that may
+  exceed the costs of uncomfortable engagement — and its omission
+  would leave the decision-maker without the historically
+  validated alternative to confrontation.
+
+  Risks: Russia pockets early-stage engagement without delivering
+  later-stage commitments — the Munich risk. Ukraine and Eastern
+  Europe perceive any German-led engagement as betrayal,
+  fracturing the alliance Germany depends on. Engagement that
+  rewards aggression invites the next demand — if Russia gets
+  what it wants in Ukraine through force, the message to other
+  revisionist powers is that force works. The leadership that
+  pursues this option domestically risks being labelled an
+  appeaser.
+
+  Conditions for success: War ends in ceasefire; Russia is
+  fiscally exhausted and genuinely needs European economic
+  engagement; verification mechanisms are credible; Ukraine
+  and Eastern Europe are consulted and compensated; engagement
+  is conditional and staged, not front-loaded.
+
+  Conditions for failure: Russia treats engagement as breathing
+  space for rearmament; European partners defect from the
+  framework; German public opinion turns against rapprochement;
+  the next Russian demand follows within years; no verification
+  mechanism proves enforceable.
+
+  Discriminating evidence:
+  • Watch for: Ceasefire signals; Russian fiscal exhaustion data
+    (NWF depletion, budget trajectory); European political
+    appetite for post-war engagement; French and Polish reactions
+    to engagement proposals; Russian diplomatic language shifting
+    from maximalist to conditional
+  • Signal of failure: Russia resuming military operations after
+    ceasefire; European partners pursuing bilateral exclusion of
+    Russia without German participation; German public polling
+    showing sustained opposition to any engagement
+
+────────────────────────────────────────────────────────────
 V. COMPLETENESS AUDIT
 ────────────────────────────────────────────────────────────
 
 Three-perspective checklist:
-• [x] Legitimacy and institutional continuity: Options B, C primarily;
-  also shapes constraints on A and D
-• [x] Power distribution and structural constraint: Options A, C
-  primarily; defence capacity and alliance dynamics
+• [x] Legitimacy and institutional continuity: Options B, C, E
+  primarily; also shapes constraints on A and D
+• [x] Power distribution and structural constraint: Options A, C, E
+  primarily; defence capacity, alliance dynamics, settlement design
 • [x] Leadership liability and mechanism: Option D primarily;
   coalition constraint shapes all options
 
@@ -563,9 +654,19 @@ Material option coverage:
 • Economic consolidation path covered (Option B)
 • European integration path covered (Option C)
 • Transatlantic accommodation path covered (Option D)
+• Post-war settlement architecture covered (Option E — added v1.1)
+
+Nuclear deterrence gap: The nuclear coercion vulnerability was not
+previously surfaced as a distinct analytical finding. It is now
+documented as a pattern (Section VII, Deterrence Dependency) and
+addressed indirectly through Options A (defence buildup creates
+conventional leverage), C (European integration deepens defence
+cooperation), and E (settlement reduces the threat that makes
+deterrence necessary). The France cross-entity link (Section VIII)
+now documents the Franco-German nuclear dimension specifically.
 
 Identified gaps:
-• No dedicated COUNSEL file for France, Poland, or the EU as
+• No dedicated STATE file for France, Poland, or the EU as
   institution — cross-entity analysis depends on general knowledge
   for these actors
 • No MEM coverage of post-1945 Germany (Federal Republic, Adenauer,
@@ -576,6 +677,9 @@ Identified gaps:
 • Opponent/partner constraint assessment for the US not yet
   conducted — Trump administration revealed preferences, domestic
   constraints, and policy trajectory require systematic analysis.
+• No European nuclear deterrence architecture analysis conducted —
+  a France STATE file would enable deeper cross-entity assessment
+  of the Franco-German nuclear question (added v1.1)
 
 ────────────────────────────────────────────────────────────
 VI. STABILITY INDICATORS
@@ -627,7 +731,7 @@ VI. STABILITY INDICATORS
 VI-B. OPPONENT / PARTNER CONSTRAINT ASSESSMENT
 ────────────────────────────────────────────────────────────
 Germany's material options do not depend on a principal opponent's
-degradation in the manner of Russia's COUNSEL file. However, they
+degradation in the manner of Russia's STATE file. However, they
 depend critically on partner capacity and willingness:
 
 UNITED STATES (as alliance partner under recalibration):
@@ -707,6 +811,42 @@ PATTERN: Fragmentation Under Stress
   coalition formation in future elections, the Weimar parallel
   activates.
 
+PATTERN: Deterrence Dependency as Strategic Vulnerability
+  Activation: HIGH (February 2026)
+  Source: MEM–GERMANIA–BISMARCK (alliance dependency),
+          MEM–GERMANIA–WILHELM–II (alliance framework failure),
+          MEM–GERMANIA–WAR–TIRPITZ (military buildup triggering
+          encirclement)
+  Relevance: Germany has externalised nuclear deterrence to the
+  United States for 75 years. The primary threat is not invasion
+  but nuclear-backed coercion — Russia can constrain European
+  behaviour by threatening escalation that Germany has no
+  independent answer to. This dependency was manageable when the
+  US guarantee was firm; it becomes a strategic vulnerability as
+  US commitment to European defence structurally declines.
+  Three resolution paths assessed in session:
+  (1) French nuclear sharing — depends on French willingness to
+  extend sovereign deterrence. The Bismarckian model applies:
+  make Germany indispensable to France conventionally (forward
+  deployment, industrial base, €108B defence budget) so that
+  France extends nuclear coverage because the alternative is
+  worse. Most aligned with historical German success patterns.
+  (2) Independent German nuclear capability — triggers the
+  encirclement pattern. The Tirpitz precedent is specific:
+  military buildup intended to strengthen bargaining position
+  instead destroyed the alliance system ("each German naval law
+  produced not deterrence but counter-armament" — Steinberg).
+  Risk-reward assessed as negative: the encirclement risk may
+  exceed the dependency it resolves.
+  (3) Conventional deterrence alone — has a structural ceiling
+  against nuclear coercion. Conventional forces cannot answer
+  a nuclear threat; the ceiling is inherent, not a resource
+  constraint.
+  Current application: the Franco-German nuclear conversation is
+  the central unaddressed issue in European security. No German
+  politician is having it publicly. The longer it is deferred,
+  the fewer options remain if the US guarantee fails.
+
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
@@ -727,7 +867,7 @@ RUSSIA:
   — Congress of Vienna precedent (inclusion of defeated power)
   is analytically relevant from both the Russian and German
   civilisational memories.
-  (Source: MEM–GERMANIA–RUSSIA, CIV–COUNSEL–RUSSIA)
+  (Source: MEM–GERMANIA–RUSSIA, CIV–STATE–RUSSIA)
 
 FRANCE:
   Dimension: European integration co-leadership; defence cooperation
@@ -742,6 +882,23 @@ FRANCE:
   buildup may shift the balance within the partnership — historically,
   France led on defence and Germany on economics. Zeitenwende
   potentially alters this division.
+  Nuclear dimension (February 2026 session): France's approximately
+  290-warhead arsenal (sea-based and air-delivered) is the only
+  sovereign nuclear deterrent in the EU. If US extended deterrence
+  weakens, the Franco-German nuclear question becomes the central
+  European security issue. France built its deterrent for French
+  sovereignty (de Gaulle's design); whether it covers Warsaw or
+  Tallinn is a question no French president has answered. Session
+  assessed that Germany's conventional contribution — forward
+  deployment in Poland and the Baltics, €108B defence budget,
+  industrial base — is the leverage for extending French coverage.
+  The Bismarckian model: make Germany indispensable to France
+  conventionally, so that France extends nuclear coverage because
+  the alternative (French deterrence without German conventional
+  forces) is incomplete. Franco-German nuclear planning (short of
+  formal sharing) is the most plausible near-term path. The
+  conversation is not happening publicly; its absence is itself
+  a strategic vulnerability.
 
 UNITED STATES:
   Dimension: Extended deterrence; alliance burden-sharing; trade
@@ -775,18 +932,18 @@ CIV–DOCTRINE–GERMANIA — v2.0
 CIV–ARC–GERMANIA — v2.5
 MEM–RELEVANCE–GERMANY — v1.0
 
-Sync command: Compare COUNSEL file against source file versions.
+Sync command: Compare STATE file against source file versions.
 If any source has been updated since last sync, review for new
-patterns, doctrines, or corrections that should propagate to COUNSEL.
+patterns, doctrines, or corrections that should propagate to STATE.
 
 ────────────────────────────────────────────────────────────
-X. COUNSEL LOG
+X. STATE LOG
 ────────────────────────────────────────────────────────────
 
 ENTRY 001 — February 2026
   Session: File creation
   Source: Initial build from GERMANIA MEM corpus (163 files),
-  current events survey (February 2026), CIV–COUNSEL–TEMPLATE v1.9
+  current events survey (February 2026), CIV–STATE–TEMPLATE v1.9
   Changes:
   • All mandatory sections populated
   • Four material options identified:
@@ -802,7 +959,7 @@ ENTRY 001 — February 2026
   Identified gaps:
   • No post-1945 Germany MEMs (Federal Republic, Adenauer, Brandt,
     reunification) — MEM generation priority
-  • No COUNSEL files for France, Poland, US, or EU — limits
+  • No STATE files for France, Poland, US, or EU — limits
     cross-entity analysis depth
   • Opponent/partner constraint assessment preliminary — requires
     dedicated session
@@ -812,6 +969,50 @@ ENTRY 001 — February 2026
   Q1 economic data; Franco-German summit; US trade negotiations;
   Ukraine settlement architecture development)
 
+ENTRY 002 — 11 February 2026
+  Session: Recursive analysis — fiscal identity, defence procurement,
+  settlement architecture, nuclear deterrence, post-war engagement
+  Source: STATE recursive options session (LEARN-style traversal
+  through German state-action options)
+  MEMs loaded: MEM–GERMANIA–WEIMAR–HYPERINFLATION, MEM–GERMANIA–
+  CONGRESS–VIENNA, MEM–GERMANIA–BISMARCK, MEM–GERMANIA–WILHELM–II,
+  MEM–GERMANIA–WAR–TIRPITZ
+  Cross-entity source: CIV–STATE–RUSSIA v1.6 (fiscal trajectory,
+  "engage to outlast" strategy, revealed preference hierarchy)
+  Changes:
+  • New Material Option E added: Post-War Settlement Architecture
+    (LOW confidence). Congress of Vienna model — inclusion of Russia
+    as stakeholder rather than permanent exclusion. Conditional
+    economic normalisation tied to verifiable security commitments.
+    Binding constraint: war must end first; German public opinion
+    after 2022.
+  • New pattern added to Section VII: Deterrence Dependency as
+    Strategic Vulnerability (HIGH activation). Germany's nuclear
+    coercion gap identified as the primary unaddressed strategic
+    vulnerability. Three resolution paths assessed; Franco-German
+    nuclear arrangement via Bismarckian leverage assessed as most
+    aligned with historical German success patterns.
+  • France cross-entity link (Section VIII) deepened with nuclear
+    dimension: French arsenal as only EU sovereign deterrent;
+    conventional-for-nuclear leverage model; absence of Franco-
+    German nuclear conversation identified as strategic gap.
+  • Completeness audit updated: Option E added to coverage;
+    nuclear deterrence gap noted as newly surfaced finding;
+    France STATE file identified as gap for deeper analysis.
+  Session also surfaced STATE output format observations:
+  • 3–4 concrete state-action options per turn (not 8 analytical
+    perspectives) proved more effective for decision-relevant output
+  • Plain language accessible to non-specialist decision-makers
+  • Risk-reward parity required (not risk-only or reward-only)
+  These are observations for potential governance consideration,
+  not changes made in this file.
+  Completeness audit: PASSED (three perspectives applied; five
+  material options; tensions preserved; nuclear deterrence gap
+  now documented)
+  Next review: when ceasefire signals emerge; when Franco-German
+  summit addresses defence cooperation; when US alliance commitment
+  signals change; when Q1 2026 economic data available
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–COUNSEL–GERMANY v1.0
+END OF FILE — CIV–STATE–GERMANY v1.1
 ────────────────────────────────────────────────────────────

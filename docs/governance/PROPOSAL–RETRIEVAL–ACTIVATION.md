@@ -15,7 +15,7 @@ Option B of the MEM Selection plan has been implemented:
 • MEM–RELEVANCE–RUSSIA.md created (10 analytical dimensions,
   concept cross-reference)
 • MEM SCAN step added to Decision Points procedure (step 2 in
-  CIV–COUNSEL–TEMPLATE v1.7)
+  CIV–STATE–TEMPLATE v1.7)
 
 This proposal is the roadmap for Option C: activating the full
 concept-based retrieval system that has already been designed
@@ -35,7 +35,7 @@ II. CURRENT STATE OF INFRASTRUCTURE
 | Tiered retrieval design | DESIGNED | PROPOSAL–TIERED–RETRIEVAL |
 | Russia MEMs concept-tagged (30/191) | PARTIAL | MEM files |
 | MEM relevance index (Russia) | COMPLETE | MEM–RELEVANCE–RUSSIA.md |
-| MEM SCAN in Decision Points | COMPLETE | CIV–COUNSEL–TEMPLATE v1.7 |
+| MEM SCAN in Decision Points | COMPLETE | CIV–STATE–TEMPLATE v1.7 |
 | Concept query API endpoints | NOT BUILT | — |
 | MIND-influenced ranking | NOT BUILT | — |
 | Automated retrieval pipeline | NOT BUILT | — |
@@ -124,7 +124,7 @@ Tasks:
 4b. Integrate ranking into concept query endpoints (optional
     ?mind= parameter).
 4c. Integrate into Decision Points MEM SCAN step: when a
-    MIND is active during COUNSEL, the MEM scan ranks results
+    MIND is active during STATE, the MEM scan ranks results
     by MIND affinity.
 
 Estimated effort: ~1 session (affinity matrices already defined
@@ -165,7 +165,7 @@ activated:
    is operational — automated retrieval replaces manual index).
 3. Cross-civilisation concept queries become possible:
    "Which civilisations have MEMs tagged with defection_cascade?"
-4. COUNSEL G-slot (cross-entity) options gain concept-based
+4. STATE G-slot (cross-entity) options gain concept-based
    parallel discovery.
 
 ────────────────────────────────────────────────────────────

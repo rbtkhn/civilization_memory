@@ -4,14 +4,14 @@ Civilizational Memory Codex · MEM Relevance Index
 Status: ACTIVE
 Version: 1.0
 Entity: Russia / Russian Federation
-Purpose: Maps COUNSEL-relevant analytical dimensions to MEM files
+Purpose: Maps STATE-relevant analytical dimensions to MEM files
 Last Updated: February 2026
 
-This index enables the Decision Points activity and other COUNSEL
+This index enables the Decision Points activity and other STATE
 analyses to quickly identify which MEM files contain relevant historical
 parallels, patterns, and precedents for the current decision space.
 
-Organised by the analytical dimensions that recur in CIV–COUNSEL–RUSSIA.
+Organised by the analytical dimensions that recur in CIV–STATE–RUSSIA.
 Each dimension lists MEMs ranked by relevance (primary = central to the
 dimension; secondary = relevant context).
 
@@ -242,7 +242,7 @@ Secondary MEMs:
 X. OPPONENT CONSTRAINT (HISTORICAL PARALLELS)
 ────────────────────────────────────────────────────────────
 Relevant when: Opponent Constraint Assessment (Section VI-B of
-CIV–COUNSEL–RUSSIA) requires historical parallels for opponent
+CIV–STATE–RUSSIA) requires historical parallels for opponent
 degradation curves, morale collapse, or manpower exhaustion.
 
 Primary MEMs:
@@ -333,7 +333,7 @@ XII. MAINTENANCE
 ────────────────────────────────────────────────────────────
 This index is manually maintained. Update when:
 • A new MEM is tagged with concepts
-• A new COUNSEL dimension emerges from Decision Points sessions
+• A new STATE dimension emerges from Decision Points sessions
 • An analytical gap is discovered (as in Session 004's opponent
   constraint miss — leading to Section X above)
 

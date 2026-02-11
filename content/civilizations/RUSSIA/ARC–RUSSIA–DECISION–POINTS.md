@@ -5,15 +5,15 @@ Russia / Russian Federation
 Status: ACTIVE
 Version: 1.5
 Entity: Russia / Russian Federation
-Source File: CIV–COUNSEL–RUSSIA
+Source File: CIV–STATE–RUSSIA
 Last Updated: 10 February 2026
 
-Governed by: CIV–COUNSEL–TEMPLATE v1.6, Section X-B
+Governed by: CIV–STATE–TEMPLATE v1.6, Section X-B
 
 ────────────────────────────────────────────────────────────
 SESSION 001 — 10 February 2026
 ────────────────────────────────────────────────────────────
-COUNSEL version: v1.3
+STATE version: v1.3
 News period: 3–10 February 2026
 
 Decision points identified:
@@ -37,7 +37,7 @@ structurally rational choices estimated Q1–Q2 2026.
 ────────────────────────────────────────────────────────────
 SESSION 002 — 10 February 2026
 ────────────────────────────────────────────────────────────
-COUNSEL version: v1.3
+STATE version: v1.3
 News period: 3–10 February 2026
 Topic: Russia's perspective on Iran defence against US/Israel
 
@@ -66,7 +66,7 @@ it in favour of the US relationship over partnership credibility.
 ────────────────────────────────────────────────────────────
 SESSION 003 — 10 February 2026
 ────────────────────────────────────────────────────────────
-COUNSEL version: v1.4
+STATE version: v1.4
 News period: Retrospective — 1 January 2026
 Topic: Russia's critical decision points as of 1 January 2026
 
@@ -116,7 +116,7 @@ the medium-term fiscal-temporal compression trap.
 ────────────────────────────────────────────────────────────
 SESSION 004 — 10 February 2026
 ────────────────────────────────────────────────────────────
-COUNSEL version: v1.6
+STATE version: v1.6
 News period: 6–10 February 2026
 Topic: Current decision points + Iran deepening + "win on
 the battlefield" reassessment
@@ -152,10 +152,10 @@ collapse before material exhaustion — applicable to opponent);
 Alekseyev shooting (GRU deputy chief, Feb 6 — no precedent
 at this seniority since conflict began).
 
-Methodological finding: Entity-oriented COUNSEL framework
+Methodological finding: Entity-oriented STATE framework
 systematically underweights opponent degradation. Power
 perspective must track relative position. New Section VI-B
-added to CIV–COUNSEL–RUSSIA. Template fix recommended.
+added to CIV–STATE–RUSSIA. Template fix recommended.
 
 Session finding: "Win on the battlefield" is a real variant
 of Option A, not only a narrative — because the opponent's
@@ -163,15 +163,15 @@ binding constraint (manpower) is binding sooner than Russia's
 (fiscal base). The revealed preference hierarchy converges
 with structural logic on this option, making it overdetermined.
 
-Template fix applied: CIV–COUNSEL–TEMPLATE upgraded v1.5 → v1.6.
+Template fix applied: CIV–STATE–TEMPLATE upgraded v1.5 → v1.6.
 New mandatory Section IX-B (Opponent Constraint Assessment),
 relative binding constraint rule, and two new completeness
-audit items. Gap cannot recur in any civilisation's COUNSEL file.
+audit items. Gap cannot recur in any civilisation's STATE file.
 
 ────────────────────────────────────────────────────────────
 SESSION 005 — 10 February 2026
 ────────────────────────────────────────────────────────────
-COUNSEL version: v1.6
+STATE version: v1.6
 Activity: Scenario Tree
 Trigger: Ukrainian front-line collapse in a sector due to
 manpower exhaustion.
@@ -261,7 +261,7 @@ manner determine which frozen-conflict variant activates.
 ────────────────────────────────────────────────────────────
 SESSION 006 — 11 February 2026
 ────────────────────────────────────────────────────────────
-COUNSEL version: v1.6
+STATE version: v1.6
 News period: 4–11 February 2026
 Activity: Decision Points (with three-source grounding)
 

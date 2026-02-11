@@ -5,15 +5,15 @@ Status: ACTIVE
 Version: 1.0
 Entity: Germany / Federal Republic of Germany
 Civilization: GERMANIA
-Purpose: Maps COUNSEL-relevant analytical dimensions to MEM files
+Purpose: Maps STATE-relevant analytical dimensions to MEM files
 Last Updated: February 2026
 
-This index enables Decision Points, Scenario Tree, and other COUNSEL
+This index enables Decision Points, Scenario Tree, and other STATE
 activities to quickly identify which GERMANIA MEM files contain
 relevant historical parallels, patterns, and precedents for the
 current German decision space.
 
-Organised by the analytical dimensions that recur in CIV–COUNSEL–
+Organised by the analytical dimensions that recur in CIV–STATE–
 GERMANY. Each dimension lists MEMs ranked by relevance (primary =
 central to the dimension; secondary = relevant context).
 
@@ -340,7 +340,7 @@ XII. MAINTENANCE
 ────────────────────────────────────────────────────────────
 This index is manually maintained. Update when:
 • A new MEM is tagged with concepts
-• A new COUNSEL dimension emerges from Decision Points sessions
+• A new STATE dimension emerges from Decision Points sessions
 • An analytical gap is discovered
 
 When the full concept-based retrieval system is activated

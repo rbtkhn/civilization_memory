@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Supersedes: CIV–CORE–TEMPLATE v2.0
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV / MEM / SCHOLAR / COUNSEL Architecture (CMC v3.2)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.2)
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 

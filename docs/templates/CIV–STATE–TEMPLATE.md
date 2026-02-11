@@ -1,18 +1,18 @@
-CIV–COUNSEL–TEMPLATE — v1.9
-Civilizational Memory Codex · Counsel File Template
+CIV–STATE–TEMPLATE — v1.9
+Civilizational Memory Codex · State File Template
 
 Status: ACTIVE · CANONICAL
 Version: 1.9
-Supersedes: CIV–COUNSEL–TEMPLATE v1.8
+Supersedes: CIV–STATE–TEMPLATE v1.8
 Upgrade Type: MEM GROUNDING ENFORCEMENT
-Class: CIV–COUNSEL–TEMPLATE (Decision-Support Governance)
+Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
 Last Update: 10 February 2026
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.8) — SIX NEW COUNSEL SESSION ACTIVITIES
+UPGRADE NOTE (v1.8) — SIX NEW STATE SESSION ACTIVITIES
 ────────────────────────────────────────────────────────────
-COUNSEL mode previously had two session mechanisms: Recursive
+STATE mode previously had two session mechanisms: Recursive
 Analysis (X-A, the standard 8-slot options menu) and Decision
 Points (X-B, time-sensitive leadership choices). Decision Points
 exposed analytical gaps it could not fill — stability monitoring,
@@ -42,7 +42,7 @@ Six new session activities fill these gaps:
 Summary table and inter-activity triggers in Section X-I.
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.9) — MEM CONNECTION DISCOVERY IN COUNSEL
+UPGRADE NOTE (v1.9) — MEM CONNECTION DISCOVERY IN STATE
 ────────────────────────────────────────────────────────────
 MEM SCAN previously accessed MEM files only through dimension-based
 lookup (MEM–RELEVANCE–[CIV].md). This missed structurally related
@@ -58,7 +58,7 @@ when relevant to the current topic. Three-Source Compositional
 Principle updated to note both discovery mechanisms (dimension-based
 and connection-based). Option E (Historical precedent) updated to
 use connection edges for graph-based precedent discovery. Cursor
-rule (cmc-counsel-mem-grounding) updated with Step 4 (connection
+rule (cmc-state-mem-grounding) updated with Step 4 (connection
 discovery) and perspective-aware preferences for typed connections.
 
 Works with both untyped (legacy) and typed connection formats. No
@@ -85,8 +85,8 @@ Watch (X-C step 2), and Scenario Tree (X-E step 2) now explicitly
 require reading MEM file contents and extracting specific details
 (dates, mechanisms, sequences, actors, outcomes). A parallel cited
 by name without MEM-derived detail is defined as a "label, not a
-grounded parallel." New cursor rule (cmc-counsel-mem-grounding)
-enforces this across all COUNSEL activities.
+grounded parallel." New cursor rule (cmc-state-mem-grounding)
+enforces this across all STATE activities.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.7) — MEM SCAN STEP IN DECISION POINTS
@@ -99,7 +99,7 @@ collapse parallel was missed because no MEM scan preceded
 the analysis.
 
 Fix: New step 2 (MEM SCAN) in the Decision Points procedure
-requires consulting MEM–RELEVANCE–[CIV].md (or the COUNSEL
+requires consulting MEM–RELEVANCE–[CIV].md (or the STATE
 file's Section VII as fallback) to load relevant MEMs before
 decision-point identification. This ensures the civilisational
 memory corpus informs the identification phase — not just the
@@ -111,7 +111,7 @@ All internal references updated.
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.6) — OPPONENT CONSTRAINT ASSESSMENT
 ────────────────────────────────────────────────────────────
-Methodological fix: the COUNSEL framework's entity-orientation
+Methodological fix: the STATE framework's entity-orientation
 caused systematic underweighting of opponent degradation. The
 three analytical perspectives (legitimacy, power, liability)
 all looked inward — tracking the entity's own constraints but
@@ -122,7 +122,7 @@ requires relative assessment (both sides), not entity-only.
 Three changes:
 
 1. NEW MANDATORY SECTION VI-B: OPPONENT CONSTRAINT ASSESSMENT.
-   Required for any COUNSEL file whose material options depend
+   Required for any STATE file whose material options depend
    on a principal opponent or partner's capacity. Tracks the
    opponent's binding constraints, degradation trajectory, and
    relative position vs. the entity's own constraints.
@@ -138,11 +138,11 @@ Three changes:
    constraint assessment present; binding constraints framed
    as relative where applicable.
 
-Source: Decision Points Session 004, CIV–COUNSEL–RUSSIA.
+Source: Decision Points Session 004, CIV–STATE–RUSSIA.
 The "win on the battlefield" variant of Option A was
 systematically underweighted because Ukraine's manpower
 degradation curve was not tracked. This gap is now closed
-in the Russia file and prevented for all future COUNSEL files.
+in the Russia file and prevented for all future STATE files.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.5) — DECISION POINTS ENHANCEMENTS
@@ -176,7 +176,7 @@ Procedure renumbered (now 7 steps, was 6).
 UPGRADE NOTE (v1.4) — DECISION POINTS AUDIT FIXES
 ────────────────────────────────────────────────────────────
 Post-session audit of Decision Points activity (two sessions on
-CIV–COUNSEL–RUSSIA). Five fixes applied to Section X-B:
+CIV–STATE–RUSSIA). Five fixes applied to Section X-B:
 
 1. Step 6 (OPTIONS): Replaced standard 8-slot recursive options
    with Decision Points-specific option structure — numbered
@@ -196,7 +196,7 @@ CIV–COUNSEL–RUSSIA). Five fixes applied to Section X-B:
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.3) — DECISION POINTS SESSION ACTIVITY
 ────────────────────────────────────────────────────────────
-This version adds Decision Points as a named COUNSEL session
+This version adds Decision Points as a named STATE session
 activity (Section X-B).
 
 v1.3 additions:
@@ -209,17 +209,17 @@ v1.3 additions:
     ground, assess, recurse
   — Structural-versus-personal divergence as core analytical product
   — Subject to Duty of Competence (three perspectives required)
-  — Outputs feed back to COUNSEL file via standard evidence-update
+  — Outputs feed back to STATE file via standard evidence-update
     and assessment-closure mechanisms
 
-Derived from: COUNSEL session on CIV–COUNSEL–RUSSIA (February 2026)
+Derived from: STATE session on CIV–STATE–RUSSIA (February 2026)
 in which the activity pattern was first performed and recognized.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
 DEFINING STATEMENT:
-**COUNSEL learns from the present.** It analyses current events
+**STATE learns from the present.** It analyses current events
 through historically-grounded patterns. It serves the decision-maker's
 need for structured options.
 
@@ -227,7 +227,7 @@ need for structured options.
 from historical sources across civilizational time. It serves the
 system's accumulated understanding.)
 
-The temporal distinction is primary. SCHOLAR and COUNSEL have different
+The temporal distinction is primary. SCHOLAR and STATE have different
 inputs (historical sources vs current events), different temporal
 orientations (centuries vs weeks-to-years), different learning dynamics
 (pattern extraction vs situation tracking), and different update rhythms
@@ -241,27 +241,27 @@ The system presents structured options grounded in competing analytical
 perspectives. The decision-maker navigates; accountability lives with
 the choice, not the analysis.
 
-COUNSEL files:
+STATE files:
 • Present competing analytical perspectives without resolving them
 • Ground each option in explicit reasoning with stated assumptions
 • Signal when evidence strongly favors one outcome
 • Preserve contradictions between perspectives as decision-relevant
 • Use professional language throughout — no system-internal terminology
 
-COUNSEL files do NOT:
+STATE files do NOT:
 • Recommend a single course of action
 • Resolve tensions between analytical perspectives
 • Use system-internal vocabulary (see Section XI: Register Rules)
 • Replace CIV–SCHOLAR, CIV–CORE, or CIV–DOCTRINE files
 
 Authority:
-COUNSEL is derived from, and downstream of, CIV–CORE and CIV–SCHOLAR.
-No content in COUNSEL may contradict canonical CIV–CORE axioms or
-accepted doctrines. COUNSEL translates analytical depth into
+STATE is derived from, and downstream of, CIV–CORE and CIV–SCHOLAR.
+No content in STATE may contradict canonical CIV–CORE axioms or
+accepted doctrines. STATE translates analytical depth into
 decision-relevant form; it does not generate new analysis independently.
 
 THREE-SOURCE COMPOSITIONAL PRINCIPLE:
-COUNSEL analytical output synthesises three source layers, each
+STATE analytical output synthesises three source layers, each
 contributing what it is best at:
 
 1. MEM FILES — Civilizationally-specific depth. Historical
@@ -282,7 +282,7 @@ contributing what it is best at:
    dimensions). Both mechanisms are applied during the MEM SCAN
    steps of session activities.
 
-2. COUNSEL INTERNAL STRUCTURE — Accumulated analytical context.
+2. STATE INTERNAL STRUCTURE — Accumulated analytical context.
    Material Options with evidence updates, stability indicators,
    validated diagnostics (e.g. revealed-preference hierarchy),
    identified patterns (e.g. fiscal-temporal compression trap),
@@ -299,9 +299,9 @@ contributing what it is best at:
    has not yet been built.
 
 All three layers should be present in substantive analytical output.
-An output drawing only on layers 2 and 3 (COUNSEL structure +
+An output drawing only on layers 2 and 3 (STATE structure +
 general knowledge) is analytically competent but historically thin.
-An output drawing only on layer 1 (MEM files) without COUNSEL
+An output drawing only on layer 1 (MEM files) without STATE
 context loses the cumulative analytical advantage. The synthesis
 of all three produces output that is historically grounded,
 analytically cumulative, and contextually broad.
@@ -315,10 +315,10 @@ memory corpus.
 ────────────────────────────────────────────────────────────
 II. AUDIENCE & REGISTER
 ────────────────────────────────────────────────────────────
-COUNSEL files are written for a **decision-maker** who has not studied
+STATE files are written for a **decision-maker** who has not studied
 the CMC's internal governance.
 
-The reader should be able to understand any COUNSEL file without
+The reader should be able to understand any STATE file without
 knowing what a MEM, RLL, analytical profile, options menu, ARC, or three-perspective analysis is.
 
 REGISTER RULES:
@@ -347,7 +347,7 @@ TRANSLATION TABLE (for system use during file production):
 ────────────────────────────────────────────────────────────
 III. DUTY OF COMPETENCE (BINDING)
 ────────────────────────────────────────────────────────────
-Every CIV–COUNSEL file carries the following obligation:
+Every CIV–STATE file carries the following obligation:
 
 DUTY OF COMPETENCE DECLARATION (must appear in file header):
 
@@ -371,7 +371,7 @@ DEFINITIONS:
 ────────────────────────────────────────────────────────────
 IV. FILE STRUCTURE (MANDATORY SECTIONS)
 ────────────────────────────────────────────────────────────
-Every CIV–COUNSEL file MUST contain the following sections in order:
+Every CIV–STATE file MUST contain the following sections in order:
 
 HEADER
   • File name, version, status
@@ -432,17 +432,17 @@ SECTION VIII: CROSS-ENTITY LINKS
   • Relevant adversary or partner dynamics
 
 SECTION IX: SOURCE VERSIONS (SYNC REFERENCE)
-  • Version of each source file COUNSEL was last assessed against
+  • Version of each source file STATE was last assessed against
   • Sync command reference
 
-SECTION X: COUNSEL LOG
+SECTION X: STATE LOG
   • Accumulated entries from analytical sessions
   • Revision records when options change
 
 ────────────────────────────────────────────────────────────
 V. ENTITY CLASSIFICATION
 ────────────────────────────────────────────────────────────
-Every entity in a COUNSEL file must be classified as one of:
+Every entity in a STATE file must be classified as one of:
 
 | Classification | Definition | Examples |
 |----------------|------------|----------|
@@ -509,7 +509,7 @@ OPTION [LETTER]: [Title]
   Discriminating evidence: [What observable evidence would confirm
   or disconfirm this option's assumptions — 1-3 specific indicators]
 
-MINIMUM: 3 options per COUNSEL file.
+MINIMUM: 3 options per STATE file.
 MAXIMUM: No fixed limit, but each option must be material.
 
 VII.A GROUNDING LINES AND BINDING CONSTRAINTS (MANDATORY)
@@ -578,7 +578,7 @@ RULES:
 ────────────────────────────────────────────────────────────
 IX. STABILITY INDICATORS
 ────────────────────────────────────────────────────────────
-Section VI of each COUNSEL file must track indicators of internal
+Section VI of each STATE file must track indicators of internal
 legitimacy stress. When internal stress is elevated, the legitimacy
 and institutional continuity perspective carries elevated analytical
 weight — because during internal stress, a gap opens between what
@@ -607,7 +607,7 @@ IX-B. OPPONENT CONSTRAINT ASSESSMENT (MANDATORY WHEN APPLICABLE)
 ────────────────────────────────────────────────────────────
 When any material option's success or failure depends on the
 capacity of a principal opponent (adversary, partner, or
-counterparty), the COUNSEL file MUST include an opponent
+counterparty), the STATE file MUST include an opponent
 constraint assessment in Section VI-B.
 
 APPLICABILITY:
@@ -690,7 +690,7 @@ When new evidence falsifies a linchpin assumption in a material option:
 2. Document trigger: What evidence changed
 3. Re-assess assumptions: Update Key Assumptions
 4. Re-evaluate confidence: Adjust confidence level
-5. Record in Counsel Log (Section IX of COUNSEL file)
+5. Record in State Log (Section IX of STATE file)
 
 REVISION RECORD FORMAT:
   Option: [Letter]
@@ -707,15 +707,15 @@ prohibited.
 ────────────────────────────────────────────────────────────
 X-A. RECURSIVE ANALYSIS OPTIONS (CMC 3.2)
 ────────────────────────────────────────────────────────────
-COUNSEL sessions are recursive. After every substantive analytical
+STATE sessions are recursive. After every substantive analytical
 turn, the system presents 8 analysis options that guide the next
 response. Closure is deferred until the user selects assessment
-closure (H) or exits COUNSEL mode.
+closure (H) or exits STATE mode.
 
 Recursive analysis is the designed outcome: each option directs
 the creation of the next response, which again ends with options.
 This mirrors SCHOLAR LEARN's recursive options menu but uses
-COUNSEL's external-facing register and decision-support framing.
+STATE's external-facing register and decision-support framing.
 
 ANALYSIS OPTIONS (8 FIXED SLOTS):
 
@@ -736,7 +736,7 @@ ANALYSIS OPTIONS (8 FIXED SLOTS):
   G — Cross-entity: [how does this affect a related entity?
        — 10-20 words]
   H — Assessment closure: [synthesize findings, propose
-       COUNSEL file updates]
+       STATE file updates]
 
 SLOT RULES:
 • Slots are FIXED — A is always legitimacy/institutional
@@ -760,7 +760,7 @@ RESPONSE LENGTH (when user selects an option):
 • Target: 100-200 words before next options
 • Maximum: 200 words before options
 • Exception — Option H: 300-400 words (session recap +
-  proposed COUNSEL file updates + follow-on options)
+  proposed STATE file updates + follow-on options)
 
 RESPONSE LENGTH (free-form question/instruction):
 • Target: 200-400 words before options
@@ -771,7 +771,7 @@ When user selects H, deliver:
 1. Session recap (6-10 words)
 2. Synthesis paragraph (<100 words): key findings, tensions,
    and decision-relevant shifts identified in this session
-3. Proposed COUNSEL file updates: specific changes to options,
+3. Proposed STATE file updates: specific changes to options,
    assumptions, confidence levels, stability indicators, or
    evidence updates — with section references
 4. Three follow-on options: (b) small incremental update,
@@ -779,12 +779,12 @@ When user selects H, deliver:
 
 DISTINCTION FROM SCHOLAR OPTIONS:
 • SCHOLAR options deepen historical understanding
-• COUNSEL options refine decision-relevant assessment
+• STATE options refine decision-relevant assessment
 • SCHOLAR E/F traverse to earlier/later historical eras
-• COUNSEL E draws historical precedent into the present;
-  COUNSEL F projects the analysis forward in time
+• STATE E draws historical precedent into the present;
+  STATE F projects the analysis forward in time
 • SCHOLAR H produces a learning synthesis
-• COUNSEL H produces actionable COUNSEL file update proposals
+• STATE H produces actionable STATE file update proposals
 
 ACTIVITY MENU (PERSISTENT):
 After the 8-slot options, append a single-line activity menu:
@@ -804,7 +804,7 @@ activity by typing its name (or a recognisable abbreviation).
 ────────────────────────────────────────────────────────────
 X-B. DECISION POINTS (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Decision Points is a COUNSEL session activity that identifies and
+Decision Points is a STATE session activity that identifies and
 analyses the specific, time-bound choices facing the entity's
 leadership right now.
 
@@ -817,7 +817,7 @@ leadership faces, not as recommendations from outside.
 
 DISTINCTION FROM MATERIAL OPTIONS:
 Material Options (Section IV) are the broad strategic paths available
-to the entity, documented in the COUNSEL file and updated as evidence
+to the entity, documented in the STATE file and updated as evidence
 accumulates. Decision Points are concrete, time-sensitive choices that
 the leadership faces in a given week or period — they sit within and
 cut across Material Options. A single Decision Point may engage
@@ -842,7 +842,7 @@ NUMBER OF DECISION POINTS:
 
 PROCEDURE:
 1. SEARCH: Survey current news and observable developments affecting
-   the entity. Focus on the period since the last COUNSEL session or
+   the entity. Focus on the period since the last STATE session or
    evidence update.
 
 2. MEM SCAN: Before identifying decision points, read
@@ -863,7 +863,7 @@ PROCEDURE:
    the connection's one-line explanation. Note which connection
    led to the additional load.
    If no MEM relevance index exists for the entity, consult the
-   COUNSEL file's Decision-Relevant History (Section VII) and
+   STATE file's Decision-Relevant History (Section VII) and
    Material Options evidence updates as the minimum MEM scan.
 
 3. IDENTIFY: Select the 3 most important specific decisions the
@@ -878,7 +878,7 @@ PROCEDURE:
 
 4. REVEALED PREFERENCE CHECK: Before deepening, check whether
    the entity has faced a structurally analogous decision before.
-   Consult the COUNSEL file (Material Options, evidence updates),
+   Consult the STATE file (Material Options, evidence updates),
    MEM corpus, and ARC–DECISION–POINTS record for precedents.
    If a precedent exists, note what the leadership actually did —
    not what structural logic predicted, but what was chosen.
@@ -933,7 +933,7 @@ PROCEDURE:
 7. DEEPEN (user-driven): The user selects a decision point for
    detailed analysis. Only then apply the full analytical treatment:
    • Three perspectives elaborated (power, legitimacy, liability)
-   • Grounded in COUNSEL file: Material Options, binding constraints,
+   • Grounded in STATE file: Material Options, binding constraints,
      doctrines, stability indicators
    • Structural-versus-personal divergence named explicitly
    • Current news sources cited
@@ -996,19 +996,19 @@ PROCEDURE:
      front-load
 
 OUTPUT FORMAT:
-Decision Points are presented in the COUNSEL session, not stored
-directly in the COUNSEL file. They feed back to the file through
+Decision Points are presented in the STATE session, not stored
+directly in the STATE file. They feed back to the file through
 the standard evidence-update and assessment-closure mechanisms
 (Option H). When a Decision Point produces evidence that shifts a
 binding constraint or stability indicator, it is recorded in the
-Counsel Log via the normal revision protocol (Section X).
+State Log via the normal revision protocol (Section X).
 
 RESPONSE LENGTH:
 • Initial Decision Points presentation (steps 1-4): 2-3 sentences
   per decision point. Total: ~200-300 words for all 3. Low cognitive
   load; wide decision-space coverage.
 • Deepened analysis (step 7, user-selected): 200-400 words per
-  decision. Three perspectives applied, grounded in COUNSEL
+  decision. Three perspectives applied, grounded in STATE
   framework, sources cited.
 • The user may always request deeper analysis of any decision point.
   The system should not front-load depth — present the landscape
@@ -1018,7 +1018,7 @@ GROUNDING REQUIREMENTS:
 • Every decision must cite at least one current news source or
   observable data point
 • Every decision must reference at least one Material Option,
-  binding constraint, or doctrine from the COUNSEL file (in
+  binding constraint, or doctrine from the STATE file (in
   deepened analysis; initial presentation may reference implicitly)
 • Every deepened three-perspective analysis must produce at least
   one specific finding per perspective (not generic restatements of
@@ -1042,11 +1042,11 @@ attribution chain (outlet, date, sourcing type, what is verified
 vs projected).
 
 ACTIVITY RECORD (ARC–[CIV]–DECISION–POINTS):
-Each civilization with a COUNSEL file maintains an activity record
+Each civilization with a STATE file maintains an activity record
 (e.g. ARC–RUSSIA–DECISION–POINTS) with brief entries per session.
 
 Entry format:
-• Date, COUNSEL version, news period, topic (if narrower than
+• Date, STATE version, news period, topic (if narrower than
   general entity assessment)
 • Numbered decision points (one line each), each tagged with
   time-sensitivity (DAYS / WEEKS / MONTHS) and status
@@ -1080,7 +1080,7 @@ leadership is deferring the choice. Format in new entry:
 
 COMPLETENESS:
 Decision Points analysis is subject to the same Duty of Competence
-(Section III) as the COUNSEL file itself. All three analytical
+(Section III) as the STATE file itself. All three analytical
 perspectives must be applied to each decision. Omission of a
 perspective constitutes a completeness violation. In the initial
 presentation, completeness may be achieved in compressed form
@@ -1090,7 +1090,7 @@ elaboration is required.
 ────────────────────────────────────────────────────────────
 X-C. STABILITY WATCH (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Stability Watch is a COUNSEL session activity that systematically
+Stability Watch is a STATE session activity that systematically
 assesses the entity's internal stability indicators against current
 evidence. It asks: how much stress is the system under?
 
@@ -1119,7 +1119,7 @@ also run independently when the decision landscape is quiet.
 PROCEDURE:
 1. SCAN: Survey current news and observable developments for
    indicators of internal stress. Focus on the five stability
-   indicators defined in the COUNSEL file's Section VI.
+   indicators defined in the STATE file's Section VI.
 
 2. MEM SCAN: Read MEM–RELEVANCE–[CIV].md dimensions VIII
    (Legitimacy / Civilizational Continuity) and III (Morale Collapse
@@ -1192,13 +1192,13 @@ When user selects session closure, deliver:
 1. Session recap (6-10 words)
 2. Summary: which indicators changed direction since last session;
    which forecasts from prior session were validated/falsified
-3. Proposed updates to Section VI of the COUNSEL file
+3. Proposed updates to Section VI of the STATE file
 4. Any threshold signals that warrant a Decision Points session
 
 ACTIVITY RECORD (ARC–[CIV]–STABILITY–WATCH):
-Each civilization with a COUNSEL file maintains a Stability Watch
+Each civilization with a STATE file maintains a Stability Watch
 record. Entry format:
-• Date, COUNSEL version, assessment period
+• Date, STATE version, assessment period
 • 5-indicator status table (one line per indicator: name, status,
   direction, change from prior session)
 • Forecasts validated/falsified from prior session (if applicable)
@@ -1208,13 +1208,13 @@ Entry ceiling: 15 lines maximum per session entry.
 ────────────────────────────────────────────────────────────
 X-D. ASSUMPTION STRESS TEST (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Assumption Stress Test is a COUNSEL session activity that
+Assumption Stress Test is a STATE session activity that
 deliberately attacks the linchpin assumptions underlying Material
 Options. It asks: what are we wrong about?
 
 ORIENTATION:
 The activity is framework-oriented, not entity-oriented or event-
-oriented. It treats the COUNSEL file's own analytical structure as
+oriented. It treats the STATE file's own analytical structure as
 the object of analysis. The goal is to find where the framework is
 weakest — which assumption has the least evidentiary support, which
 is most vulnerable to falsification, which would cause the largest
@@ -1294,20 +1294,20 @@ When user selects session closure, deliver:
 1. Session recap (6-10 words)
 2. Summary: which assumptions were tested, classification result
 3. Proposed updates to Key Assumptions and confidence levels in
-   the COUNSEL file's Material Options (Section IV)
+   the STATE file's Material Options (Section IV)
 4. Discriminating signals: "assumption X will be falsified within
    N months if Y occurs" — creates a monitoring checklist
 
 ACTIVITY RECORD:
 Assumption Stress Test does not require a separate ARC file. Its
 output feeds directly into the existing Evidence Update mechanism
-in Material Options. Session results are recorded in the Counsel
+in Material Options. Session results are recorded in the State
 Log (Section IX) with type tag "STRESS TEST."
 
 ────────────────────────────────────────────────────────────
 X-E. SCENARIO TREE (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Scenario Tree is a COUNSEL session activity that projects forward
+Scenario Tree is a STATE session activity that projects forward
 from a trigger event or decision through branching consequences.
 It asks: if X happens, then what?
 
@@ -1404,13 +1404,13 @@ When user selects session closure, deliver:
 3. Convergence findings: which outcomes are overdetermined
 4. Monitoring framework: discriminating signal for each branch
    ("watch for X; if it happens, branch A activates")
-5. Proposed COUNSEL file updates if any branch shifts a binding
+5. Proposed STATE file updates if any branch shifts a binding
    constraint or Material Option confidence
 
 ACTIVITY RECORD (ARC–[CIV]–SCENARIO–TREES):
-Each civilization with a COUNSEL file maintains a Scenario Tree
+Each civilization with a STATE file maintains a Scenario Tree
 record. Entry format:
-• Date, COUNSEL version, trigger event
+• Date, STATE version, trigger event
 • Tree summary: trigger -> branch labels with probabilities
   (compact notation, e.g. "Trigger: June deadline breach ->
   A: Escalation (MOD) / B: Pivot (LOW) / C: Freeze (HIGH)")
@@ -1421,7 +1421,7 @@ Entry ceiling: 15 lines maximum per session entry.
 ────────────────────────────────────────────────────────────
 X-F. REVEALED PREFERENCE TRACKER (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Revealed Preference Tracker is a COUNSEL session activity that
+Revealed Preference Tracker is a STATE session activity that
 builds and maintains a behavioural profile of the entity's
 leadership based on what they actually chose. It asks: given what
 this leadership has done, what does the pattern predict next?
@@ -1451,7 +1451,7 @@ feeds forward prediction.
 
 PROCEDURE:
 1. PRESENT RECORD: Display the current revealed-preference record
-   from the COUNSEL file. For each prior data point, show:
+   from the STATE file. For each prior data point, show:
    • Decision (what was chosen)
    • Date
    • Structural prediction (what power logic predicted)
@@ -1523,7 +1523,7 @@ record it feeds into.
 ────────────────────────────────────────────────────────────
 X-G. CROSS-ENTITY PRESSURE TEST (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Cross-Entity Pressure Test is a COUNSEL session activity that
+Cross-Entity Pressure Test is a STATE session activity that
 stress-tests a relationship between two entities by analysing how
 each side's constraint structure affects the other. It asks: how do
 these entities' decisions interact?
@@ -1541,14 +1541,14 @@ DISTINCTION FROM DECISION POINTS:
 | Single-entity (what must this leader choose?) | Dyadic (how do two entities' choices interact?) |
 | Other entities as background | Other entities as co-agents |
 | Produces this entity's choices | Produces interaction dynamics |
-| Grounded in one COUNSEL file | Grounded in two COUNSEL files (or one + opponent model) |
+| Grounded in one STATE file | Grounded in two STATE files (or one + opponent model) |
 
 APPLICABILITY:
 Cross-Entity Pressure Test requires one of:
-• Two COUNSEL files (both entities have CIV–COUNSEL files)
-• One COUNSEL file + an Opponent Constraint Assessment (Section VI-B)
+• Two STATE files (both entities have CIV–STATE files)
+• One STATE file + an Opponent Constraint Assessment (Section VI-B)
   for the other entity
-• One COUNSEL file + a Cross-Entity Link (Section VIII) rich enough
+• One STATE file + a Cross-Entity Link (Section VIII) rich enough
   to construct a constraint model for the other entity
 
 If insufficient data exists for the second entity, the system should
@@ -1560,7 +1560,7 @@ PROCEDURE:
    "Russia-China economic dependency", "Russia-Iran partnership
    credibility", "Russia-Ukraine attrition race").
 
-2. LOAD: Load both entities' COUNSEL files (or construct opponent
+2. LOAD: Load both entities' STATE files (or construct opponent
    model from Section VI-B and Section VIII). Extract:
    • Each entity's relevant Material Options
    • Each entity's binding constraints that involve the other
@@ -1615,30 +1615,30 @@ When user selects session closure, deliver:
 1. Session recap (6-10 words)
 2. Key finding: the most consequential pressure point identified
 3. Proposed updates to Cross-Entity Links (Section VIII) for the
-   primary entity's COUNSEL file
-4. If a second COUNSEL file exists: proposed updates for that file
+   primary entity's STATE file
+4. If a second STATE file exists: proposed updates for that file
 5. Any new Decision Points surfaced by the pressure analysis
 
 ACTIVITY RECORD (ARC–[CIV]–PRESSURE–TESTS):
-Each civilization with a COUNSEL file maintains a Pressure Test
+Each civilization with a STATE file maintains a Pressure Test
 record. Entry format:
-• Date, COUNSEL version, relationship tested, pressure point(s)
+• Date, STATE version, relationship tested, pressure point(s)
 • Key finding (one sentence)
-• Proposed COUNSEL file update (one line)
+• Proposed STATE file update (one line)
 Entry ceiling: 10 lines maximum per session entry.
 
 ────────────────────────────────────────────────────────────
 X-H. PATTERN AUDIT (SESSION ACTIVITY)
 ────────────────────────────────────────────────────────────
-Pattern Audit is a COUNSEL session activity that validates the
-patterns documented in the COUNSEL file's Decision-Relevant History
+Pattern Audit is a STATE session activity that validates the
+patterns documented in the STATE file's Decision-Relevant History
 (Section VII) against current evidence. It asks: are our patterns
 still valid?
 
 ORIENTATION:
 The activity is meta-analytical — it analyses the analytical
 framework itself, not the entity or its decisions. Patterns are the
-COUNSEL file's accumulated intelligence about how this entity
+STATE file's accumulated intelligence about how this entity
 behaves under specific constraint configurations. If a pattern is
 stale, weakened, or falsified, the framework's predictive power
 degrades silently. Pattern Audit prevents silent degradation.
@@ -1656,7 +1656,7 @@ Audit is retrospective-diagnostic.
 | Event-driven | Framework-driven (run when patterns age) |
 
 PROCEDURE:
-1. EXTRACT: List all patterns from the COUNSEL file's Section VII
+1. EXTRACT: List all patterns from the STATE file's Section VII
    with current activation level (HIGH / MODERATE / LOW), date of
    last evidence, and staleness assessment:
    • FRESH — last evidence within 30 days
@@ -1724,7 +1724,7 @@ When user selects session closure, deliver:
 
 ACTIVITY RECORD:
 Pattern Audit does not require a separate ARC file. Session results
-are recorded in the Counsel Log (Section IX) with type tag
+are recorded in the State Log (Section IX) with type tag
 "PATTERN AUDIT." Format:
 "[Date] | Pattern: [name] | Prior: [activation] | Result:
 [classification] | New: [activation]"
@@ -1732,8 +1732,8 @@ are recorded in the Counsel Log (Section IX) with type tag
 ────────────────────────────────────────────────────────────
 X-I. SESSION ACTIVITY SUMMARY
 ────────────────────────────────────────────────────────────
-COUNSEL mode supports seven session activities. Each has a distinct
-analytical orientation and feeds different sections of the COUNSEL
+STATE mode supports seven session activities. Each has a distinct
+analytical orientation and feeds different sections of the STATE
 file.
 
 | Activity | Section | Asks | Feeds |
@@ -1749,7 +1749,7 @@ file.
 
 INVOCATION:
 The activity menu appears as a persistent single line after the
-8-slot recursive options in every standard COUNSEL response:
+8-slot recursive options in every standard STATE response:
 
 "Activities: decision points | stability watch | stress test |
 scenario tree | revealed preference | pressure test | pattern audit"
@@ -1782,8 +1782,8 @@ trigger; the user decides whether to follow it.
 ────────────────────────────────────────────────────────────
 XI. REGISTER RULES (BINDING)
 ────────────────────────────────────────────────────────────
-CIV–COUNSEL files are external-facing. The following terms MUST NOT
-appear in the analytical prose of any COUNSEL file:
+CIV–STATE files are external-facing. The following terms MUST NOT
+appear in the analytical prose of any STATE file:
 
 PROHIBITED IN PROSE:
 • MIND (as system term)
@@ -1815,31 +1815,31 @@ PERMITTED:
 ────────────────────────────────────────────────────────────
 XII. RELATIONSHIP TO OTHER FILE TYPES
 ────────────────────────────────────────────────────────────
-CIV–COUNSEL is PARALLEL to CIV–SCHOLAR, not subordinate to it.
+CIV–STATE is PARALLEL to CIV–SCHOLAR, not subordinate to it.
 They are distinguished primarily by temporal orientation.
 
 | File Type | Temporal Orientation | Learns From | Audience | Writes To |
 |-----------|---------------------|-------------|----------|-----------|
 | CIV–SCHOLAR | Past (centuries) | Historical sources, MEMs | System | CIV–DOCTRINE (via doctrine gateway) |
-| CIV–COUNSEL | Present (weeks–years) | Current events, news, observable indicators | Decision-maker | — |
+| CIV–STATE | Present (weeks–years) | Current events, news, observable indicators | Decision-maker | — |
 | CIV–CORE | Persistent | — (constrained by SCHOLAR/DOCTRINE) | System | — |
 | CIV–DOCTRINE | Frozen | — (accepted from SCHOLAR) | System | CIV–CORE (citations) |
 
 DIRECTIONALITY:
-• SCHOLAR's historical patterns inform COUNSEL's analytical framework
+• SCHOLAR's historical patterns inform STATE's analytical framework
   (via Decision-Relevant History and sync command)
-• COUNSEL's current-events analysis does NOT flow back into SCHOLAR
+• STATE's current-events analysis does NOT flow back into SCHOLAR
   (SCHOLAR only learns from historical analysis)
 • The present becomes history eventually, but SCHOLAR does not
   process it until it does
-• Sync is one-way: "sync counsel to scholar" updates COUNSEL's
+• Sync is one-way: "sync state to scholar" updates STATE's
   historical-pattern foundation; it never moves current-events
   learning backward into SCHOLAR
 
 ────────────────────────────────────────────────────────────
 XIII. COMPLETENESS AUDIT CHECKLIST
 ────────────────────────────────────────────────────────────
-Before finalizing any CIV–COUNSEL file:
+Before finalizing any CIV–STATE file:
 
 - [ ] Legitimacy and institutional continuity perspective applied?
 - [ ] Power distribution and structural constraint perspective applied?
@@ -1865,7 +1865,7 @@ Before finalizing any CIV–COUNSEL file:
 - [ ] Duty of competence declaration present in header?
 - [ ] Source files cited where relevant?
 - [ ] Recursive analysis options presented after every substantive
-      analytical turn in COUNSEL sessions?
+      analytical turn in STATE sessions?
 - [ ] Session activities use their own option structures (not the
       standard 8-slot menu) when invoked?
 - [ ] Activity records maintained for Decision Points, Stability
@@ -1874,27 +1874,27 @@ Before finalizing any CIV–COUNSEL file:
 ────────────────────────────────────────────────────────────
 XIV. SYNC PROTOCOL
 ────────────────────────────────────────────────────────────
-COUNSEL files are derived from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE,
-and MEM files. When these sources are updated, COUNSEL may become
+STATE files are derived from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE,
+and MEM files. When these sources are updated, STATE may become
 stale.
 
 SYNC MECHANISM:
 • No automatic triggers or flags
-• User manually issues "sync counsel to scholar" command
-• System compares current source versions to those in the COUNSEL
+• User manually issues "sync state to scholar" command
+• System compares current source versions to those in the STATE
   file's Source Versions block
 • System identifies changes since last sync that are relevant to
   material options, binding constraints, or stability indicators
 • System proposes updates for user approval
-• Approved changes are applied; Source Versions block and Counsel
+• Approved changes are applied; Source Versions block and State
   Log are updated
 
 SOURCE VERSIONS BLOCK (MANDATORY):
-Every COUNSEL file must include a Source Versions section listing
+Every STATE file must include a Source Versions section listing
 the version of each source file it was last assessed against.
 
 SYNC PROCEDURE:
-1. Read Source Versions from COUNSEL file
+1. Read Source Versions from STATE file
 2. Compare to current versions of CIV–CORE, CIV–SCHOLAR,
    CIV–DOCTRINE, and MEM corpus
 3. Identify substantive changes (new RLLs, new doctrines, revised
@@ -1904,17 +1904,17 @@ SYNC PROCEDURE:
    or cross-entity link
 5. Propose specific updates to affected sections
 6. Apply only with user approval
-7. Update Source Versions block and Counsel Log
+7. Update Source Versions block and State Log
 
 ────────────────────────────────────────────────────────────
 XV. VERSIONING
 ────────────────────────────────────────────────────────────
 Per Version Decoupling (CMC 3.1+):
-• COUNSEL files declare content version only
+• STATE files declare content version only
 • Increment version when analytical content changes, options are
   revised, or new options are added
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–COUNSEL–TEMPLATE v1.8
+END OF FILE — CIV–STATE–TEMPLATE v1.8
 ────────────────────────────────────────────────────────────

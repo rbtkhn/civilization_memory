@@ -12,15 +12,15 @@ This version formalizes the three-mode architecture and
 supporting governance changes.
 
 KEY CHANGES:
-• Three top-level modes: SCHOLAR / COUNSEL / SYSTEM (peers)
-• CIV–COUNSEL file type and CIV–COUNSEL–TEMPLATE
+• Three top-level modes: SCHOLAR / STATE / SYSTEM (peers)
+• CIV–STATE file type and CIV–STATE–TEMPLATE
 • SYSTEM mode for governance maintenance
 • TERMINOLOGY–REGISTRY and new-term gate
 • Decorative term replacements across governance files
 • Binding declaration: "Bound by CMC 3.2"
 
 PREVIOUS 3.2 PROPOSALS RE-SCOPED TO 3.3:
-Current Events Protocol (partially absorbed by COUNSEL),
+Current Events Protocol (partially absorbed by STATE),
 Tiered Retrieval, Living ARC, MIND Navigation.
 
 See: docs/governance/VERSION–MANIFEST.md
@@ -31,7 +31,7 @@ CMC 3.3 PROPOSALS (re-scoped from 3.2)
 • TIERED RETRIEVAL: MEM-first search with web fallback
 • LIVING ARC: Automatic source lifecycle (CANON/VALIDATED/PROVISIONAL)
 • MIND NAVIGATION: Perspective influences navigation (connections, sources, concepts)
-• Current Events Protocol: remaining aspects not absorbed by COUNSEL
+• Current Events Protocol: remaining aspects not absorbed by STATE
 
 Active protocols:
 • PROTOCOL–MIND–NAVIGATION.md — Perspective activation model, affinity matrices
@@ -52,7 +52,7 @@ QUICK START (MINIMAL)
       Sub-modes: WRITE (create/edit MEMs), LEARN (analyse, no edits),
       IMAGINE (counterfactuals, pedagogy).
 
-   B. COUNSEL — Learn from the present. Analyse current events through
+   B. STATE — Learn from the present. Analyse current events through
       historically-grounded patterns. Produce structured, decision-relevant
       options in external-facing language.
 
@@ -62,10 +62,10 @@ QUICK START (MINIMAL)
 
 3) Apply mode rules before acting:
    • SCHOLAR: See SCHOLAR MODE ARCHITECTURE below
-   • COUNSEL: See COUNSEL MODE below
+   • STATE: See STATE MODE below
    • SYSTEM: See SYSTEM MODE below
-4) Options menu required in SCHOLAR and COUNSEL modes (SCHOLAR LEARN/IMAGINE: 8 options A–H, M+B; SCHOLAR WRITE: 1 Barnes min; COUNSEL: 8 options A–H). After liability analysis → M/M response options. SYSTEM mode: options menu not required.
-5) SCHOLAR LEARN/WRITE: Mercouris academic prose; SCHOLAR IMAGINE: Mercouris spoken (CIV–MIND–MERCOURIS III.L); COUNSEL: professional analytical language, external-facing register; SYSTEM: plain technical language.
+4) Options menu required in SCHOLAR and STATE modes (SCHOLAR LEARN/IMAGINE: 8 options A–H, M+B; SCHOLAR WRITE: 1 Barnes min; STATE: 8 options A–H). After liability analysis → M/M response options. SYSTEM mode: options menu not required.
+5) SCHOLAR LEARN/WRITE: Mercouris academic prose; SCHOLAR IMAGINE: Mercouris spoken (CIV–MIND–MERCOURIS III.L); STATE: professional analytical language, external-facing register; SYSTEM: plain technical language.
 6) Cursor rules (.cursor/rules/cmc-*) enforce mode contracts, content proportion rule, options menu, voice; apply when active.
 7) If a rule is unclear, expand to full governance docs.
 8) Cross-civilizational misperception: Scholar-on-Scholar explanation divergence (why the other encodes X) is expected; treat as emergent realism, not consistency break (CIV–MEM–CORE § XXVIII).
@@ -224,7 +224,7 @@ TEMPLATES:
 • CIV–MEM–TEMPLATE
 • CIV–SCHOLAR–TEMPLATE
 • CIV–SCHOLAR–PROTOCOL
-• CIV–COUNSEL–TEMPLATE
+• CIV–STATE–TEMPLATE
 
 Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
@@ -274,8 +274,8 @@ SCHOLAR MODE ARCHITECTURE (HARD)
 SCHOLAR is a CONTAINER operating in exactly ONE sub-mode at a time.
 THREE SUB-MODES ONLY: WRITE, LEARN, IMAGINE.
 Sub-modes are MUTUALLY EXCLUSIVE. Leakage between sub-modes is a violation.
-SCHOLAR, COUNSEL, and SYSTEM are peer modes at the top level. Only one
-may be active at a time. COUNSEL and SYSTEM are not SCHOLAR sub-modes.
+SCHOLAR, STATE, and SYSTEM are peer modes at the top level. Only one
+may be active at a time. STATE and SYSTEM are not SCHOLAR sub-modes.
 
 MODE SWITCHING COMMANDS:
 • "switch to learn mode" or "scholar learn mode" → LEARN
@@ -289,7 +289,7 @@ CANONICAL STATEMENT:
 The MEM graph (MEM files, MEM CONNECTIONS, INDEX, ARC) and the
 analytical protocol (voice rules, content proportion rule, options
 menu, three-perspective analysis) are INVARIANT across modes. WRITE,
-LEARN, IMAGINE, COUNSEL, and AUDIT are interfaces to this shared
+LEARN, IMAGINE, STATE, and AUDIT are interfaces to this shared
 structure: they differ only in their contract (what may be written,
 what must be returned, what triggers the options menu).
 
@@ -316,13 +316,13 @@ MODE CONTRACT TABLE (what differs):
 │ LEARN     │ Read only  │ Analysis + options  │ 8 options A–H, M+B   │ Mercouris prose  │
 │ IMAGINE   │ Read only  │ Scenario + options  │ 8 options A–H, M+B   │ Mercouris spoken │
 │ AUDIT     │ Read only* │ Pass/fail + recs    │ Context-dep      │ Mercouris prose  │
-│ COUNSEL   │ Read only† │ Options + evidence  │ 8 options A–H    │ Professional     │
+│ STATE   │ Read only† │ Options + evidence  │ 8 options A–H    │ Professional     │
 │ SYSTEM    │ Governance‡│ Edits + audit logs  │ Not required     │ Technical        │
 └───────────┴────────────┴─────────────────────┴──────────────────┴──────────────────┘
 *AUDIT in WRITE mode may trigger file modifications to fix violations.
-†COUNSEL reads MEM graph as source; writes only to CIV–COUNSEL files.
+†STATE reads MEM graph as source; writes only to CIV–STATE files.
 ‡SYSTEM reads/writes governance files, templates, protocols, cursor rules.
- Does not modify MEM content or COUNSEL analytical prose.
+ Does not modify MEM content or STATE analytical prose.
 
 EXTENSION RULE (adding new modes):
 To add a new mode (e.g., COMPARE, CITATION_CHECK):
@@ -417,7 +417,7 @@ VOICE: Spoken Mercouris (CIV–MIND–MERCOURIS III.L). Exploratory, multi-path,
 learner-directed.
 
 ────────────────────────────────────────────────────────────
-COUNSEL MODE
+STATE MODE
 ────────────────────────────────────────────────────────────
 ROLE: Present-oriented decision support. Analyse current events
 through historically-grounded patterns. Produce structured options
@@ -425,7 +425,7 @@ for a decision-maker.
 
 DEFINING DISTINCTION:
 • SCHOLAR learns from the past (historical sources, civilizational time)
-• COUNSEL learns from the present (current events, weeks-to-years)
+• STATE learns from the present (current events, weeks-to-years)
 • The temporal distinction is primary; audience and register follow from it
 
 GOVERNING PRINCIPLE: Equip, don't advise.
@@ -434,7 +434,7 @@ The decision-maker navigates; accountability lives with the choice.
 
 MAY:
 • Analyse current events against MEM-derived historical patterns
-• Create and update CIV–COUNSEL–[CIV] files
+• Create and update CIV–STATE–[CIV] files
 • Assess binding constraints against new evidence
 • Update stability indicators with observable data
 • Cite MEM files and SCHOLAR/CORE/DOCTRINE as sources
@@ -452,34 +452,34 @@ REGISTER: External-facing, professional analytical language.
   continuity"; "power distribution and structural constraint";
   "leadership liability and mechanism"
 • No MIND profile names, OGE references, or system-internal terms
-  in prose (see CIV–COUNSEL–TEMPLATE Section XI)
+  in prose (see CIV–STATE–TEMPLATE Section XI)
 
 DUTY OF COMPETENCE: Surface all material options identifiable through
 the application of three analytical perspectives. Failure to apply any
 perspective constitutes a completeness violation.
 
-RECURSIVE ANALYSIS: COUNSEL sessions are recursive. After every
+RECURSIVE ANALYSIS: STATE sessions are recursive. After every
 substantive analytical turn, present 8 analysis options (A–H) that
 guide the next response. Closure deferred until user selects H
-(assessment closure) or exits COUNSEL mode.
+(assessment closure) or exits STATE mode.
 • A–C: Deepen one of the three perspectives (content-based names)
 • D: Three-perspective assessment on a specific issue
 • E: Historical precedent illuminating the present
 • F: Forward projection (timeframe or scenario)
 • G: Cross-entity analysis (related entity)
-• H: Assessment closure (synthesis + proposed COUNSEL file updates)
+• H: Assessment closure (synthesis + proposed STATE file updates)
 • Same recursive principle as SCHOLAR LEARN, adapted for present-
   oriented decision support and professional register
-See: CIV–COUNSEL–TEMPLATE Section X-A
+See: CIV–STATE–TEMPLATE Section X-A
 
-SYNC: COUNSEL reads from SCHOLAR/CORE/DOCTRINE/MEMs but does not
+SYNC: STATE reads from SCHOLAR/CORE/DOCTRINE/MEMs but does not
 write back. One-way dependency. User-initiated sync via
-"sync counsel to scholar" command.
+"sync state to scholar" command.
 
-TEMPLATE: docs/templates/CIV–COUNSEL–TEMPLATE.md (v1.2)
+TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (v1.2)
 
 MODE SWITCHING:
-• "switch to counsel mode" or "counsel mode" → COUNSEL
+• "switch to state mode" or "state mode" → STATE
 • "switch to scholar mode" or "scholar mode" → SCHOLAR (then select sub-mode)
 • "switch to system mode" or "system mode" → SYSTEM
 
@@ -491,7 +491,7 @@ templates, protocols, cursor rules, compliance, and infrastructure.
 
 DEFINING DISTINCTION:
 • SCHOLAR works in the system (content about the past)
-• COUNSEL works in the system (content about the present)
+• STATE works in the system (content about the present)
 • SYSTEM works on the system (governance, structure, rules)
 
 MAY:
@@ -509,8 +509,8 @@ MAY:
 
 MAY NOT:
 • Produce analytical content (SCHOLAR handles this)
-• Produce decision-support analysis (COUNSEL handles this)
-• Create MEM content or COUNSEL options
+• Produce decision-support analysis (STATE handles this)
+• Create MEM content or STATE options
 • Apply analytical voices or content proportion rule to output
 • Generate options menu
 
@@ -541,7 +541,7 @@ or logged for future correction, at the user's discretion.
 MODE SWITCHING:
 • "switch to system mode" or "system mode" → SYSTEM
 • "switch to scholar mode" or "scholar mode" → SCHOLAR (then select sub-mode)
-• "switch to counsel mode" or "counsel mode" → COUNSEL
+• "switch to state mode" or "state mode" → STATE
 
 ────────────────────────────────────────────────────────────
 ACTIVE CONSTRAINTS
@@ -622,7 +622,7 @@ MEM–[CIV]–GEO–[LOCATION] — Geographic memory
 CIV–CORE–[CIV] — Civilization continuity engine
 CIV–INDEX–[CIV] — Registration file (no interpretation)
 CIV–SCHOLAR–[CIV] — Learning ledger (learns from the past)
-CIV–COUNSEL–[CIV] — Decision-support file (learns from the present)
+CIV–STATE–[CIV] — Decision-support file (learns from the present)
 CIV–DOCTRINE–[CIV] — Frozen synthesis registry
 CIV–ARC–[CIV] — Academic reference canon
 CIV–ARC–[CIV]–LEDGER — Consolidated bibliography (derived)
@@ -699,7 +699,7 @@ For full specification, read:
 • docs/templates/CIV–MIND–MERCOURIS.md
 • docs/templates/CIV–MIND–MEARSHEIMER.md
 • docs/templates/CIV–MIND–BARNES.md
-• docs/templates/CIV–COUNSEL–TEMPLATE.md (COUNSEL mode governance)
+• docs/templates/CIV–STATE–TEMPLATE.md (STATE mode governance)
 
 ────────────────────────────────────────────────────────────
 END — CMC–BOOTSTRAP (CMC 3.2)

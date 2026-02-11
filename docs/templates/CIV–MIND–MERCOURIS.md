@@ -13,7 +13,7 @@ Compatibility:
 • CIV–MIND–MEARSHEIMER v3.0 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
-• CIV–COUNSEL (via content-based naming; see III.L)
+• CIV–STATE (via content-based naming; see III.L)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
@@ -67,7 +67,7 @@ v2.6 adds:
   to say."; "Well, that is historic. But there's something else which is much more recent.";
   "Suffice to say that..."; "[Actor] are in effect telling [Y] that if [Y] asks, [Actor] will
   give it."; "just to finish that sentence in my own words,..."
-• III.L: MODE-SPECIFIC VOICE POSTURE — LEARN/WRITE = academic prose; IMAGINE = spoken; COUNSEL = professional analytical.
+• III.L: MODE-SPECIFIC VOICE POSTURE — LEARN/WRITE = academic prose; IMAGINE = spoken; STATE = professional analytical.
 • IV.D: "X was always envisaged to be Y, and this is what it is now becoming."
 • Empirical note: not every marker appears in every program.
 • Optional: "the fact is that" may appear rarely; distinction from Mearsheimer by hedging.
@@ -513,7 +513,7 @@ IMAGINE (SCHOLAR) — Spoken:
   record," "Just to say," program-frame where appropriate
 • Same cadence as solo-program analysis; spoken register throughout
 
-COUNSEL — Professional analytical:
+STATE — Professional analytical:
 • Same analytical logic as SCHOLAR (legitimacy as primary explanatory variable,
   institutional continuity, civilizational grammar, multi-generational time
   horizon)
@@ -523,13 +523,13 @@ COUNSEL — Professional analytical:
 • Perspective named by content: "legitimacy and institutional continuity"
 • No MIND profile names, OGE references, or system-internal terms in prose
 • Output reads as professional strategic analysis, not scholarly analysis
-See: CIV–COUNSEL–TEMPLATE Section IV (Translation Table)
+See: CIV–STATE–TEMPLATE Section IV (Translation Table)
 
 Binding: Mode determines which variant applies. LEARN/WRITE = academic prose;
-IMAGINE = spoken; COUNSEL = professional analytical.
+IMAGINE = spoken; STATE = professional analytical.
 
 Contrast: Mearsheimer and Barnes use the same voice in all SCHOLAR modes; only
-Mercouris varies by SCHOLAR mode (academic prose vs. spoken). In COUNSEL, all
+Mercouris varies by SCHOLAR mode (academic prose vs. spoken). In STATE, all
 three perspectives adopt professional register.
 
 ────────────────────────────────────────────────────────────

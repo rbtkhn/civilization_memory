@@ -1,9 +1,9 @@
-CIV–COUNSEL–RUSSIA — v1.6
-Civilizational Memory Codex · Counsel File
+CIV–STATE–RUSSIA — v1.6
+Civilizational Memory Codex · State File
 
 Status: ACTIVE
 Version: 1.6
-Supersedes: CIV–COUNSEL–RUSSIA v1.5
+Supersedes: CIV–STATE–RUSSIA v1.5
 Upgrade Type: OPPONENT CONSTRAINT ASSESSMENT · RELATIVE BINDING CONSTRAINT
 Entity: Russia / Russian Federation
 Classification: CIVILIZATION-STATE
@@ -933,7 +933,7 @@ PATTERN: Revealed Preference Under Analogous Constraint
   The one decision where all three perspectives converged (Abu Dhabi
   engagement) was overdetermined and untestable. The hierarchy holds:
   liability > structural > legitimacy. This is now the strongest
-  predictive tool in the COUNSEL framework for this leadership.
+  predictive tool in the STATE framework for this leadership.
 
 PATTERN: Partnership Credibility Decay
   Activation: MODERATE (February 2026)
@@ -1091,16 +1091,16 @@ This file was last assessed against:
 • CIV–DOCTRINE–RUSSIA v3.2
 • Russia MEM corpus: 191 files (February 2026)
 
-To update: user issues "sync counsel to scholar" command.
+To update: user issues "sync state to scholar" command.
 The system compares current source versions to those listed here,
 identifies changes relevant to material options, binding constraints,
 or stability indicators, and proposes updates for user approval.
 
 ────────────────────────────────────────────────────────────
-X. COUNSEL LOG
+X. STATE LOG
 ────────────────────────────────────────────────────────────
 ENTRY 001 — February 2026
-  Session: Initial COUNSEL file creation
+  Session: Initial STATE file creation
   Sources analysed: CIV–CORE–RUSSIA v3.2, CIV–SCHOLAR–RUSSIA v3.1,
   CIV–DOCTRINE–RUSSIA v3.2, MEM–RUSSIA–PETERSBURG v3.4, and
   broader Russia MEM corpus (191 files)
@@ -1237,7 +1237,7 @@ ENTRY 006 — 10 February 2026
     divergent decisions (Oreshnik pricing, fiscal shock), liability
     prediction matched actual outcome. Hierarchy confirmed:
     liability > structural > legitimacy. Now the strongest
-    predictive tool in the COUNSEL framework for this leadership.
+    predictive tool in the STATE framework for this leadership.
   Completeness audit: PASSED
   Confidence changes: Option A near-term strengthened; medium-term
   unchanged. Revealed preference pattern upgraded to VALIDATED.
@@ -1264,12 +1264,12 @@ ENTRY 007 — 10 February 2026
     binding constraint checklist items. Previous audit status
     retroactively identified as having a structural gap (power
     perspective applied to one side only).
-  Methodological finding: Entity-oriented COUNSEL framework
+  Methodological finding: Entity-oriented STATE framework
   systematically underweights opponent degradation. The three
   perspectives (legitimacy, power, liability) all look inward.
   Power perspective must be applied to relative position, not
   entity position alone. This gap should be corrected in
-  CIV–COUNSEL–TEMPLATE for all civilisation files.
+  CIV–STATE–TEMPLATE for all civilisation files.
   Completeness audit: PASSED (with new requirements)
   Next review: When advance rate data (Q1 2026) and Ukrainian
   brigade strength estimates become available.
@@ -1279,8 +1279,8 @@ ENTRY 008 — 10 February 2026
   Note: This session was identified as operating without direct
   MEM file reading. Three MEMs cited by name but not read; eight
   historical parallels from general knowledge ungrounded. Led to
-  three-source compositional principle (CIV–COUNSEL–TEMPLATE v1.9)
-  and MEM grounding enforcement (cmc-counsel-mem-grounding rule).
+  three-source compositional principle (CIV–STATE–TEMPLATE v1.9)
+  and MEM grounding enforcement (cmc-state-mem-grounding rule).
 
 ENTRY 009 — 10 February 2026
   Session: Scenario Tree — front-line collapse trigger (grounded re-run)
@@ -1317,5 +1317,5 @@ ENTRY 010 — 11 February 2026
   direct contact)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–COUNSEL–RUSSIA v1.6
+END OF FILE — CIV–STATE–RUSSIA v1.6
 ────────────────────────────────────────────────────────────

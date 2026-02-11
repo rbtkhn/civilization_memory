@@ -1,19 +1,19 @@
 ---
-description: COUNSEL mode source composition — three-source principle and MEM grounding enforcement
+description: STATE mode source composition — three-source principle and MEM grounding enforcement
 alwaysApply: true
 ---
 
-# COUNSEL Source Composition and MEM Grounding Rule
+# STATE Source Composition and MEM Grounding Rule
 
 ## Three-Source Compositional Principle
 
-COUNSEL analytical output synthesises three source layers:
+STATE analytical output synthesises three source layers:
 
 1. **MEM files** — Civilizationally-specific depth. Mechanisms, sequences, dates, actors, outcomes from the memory corpus. Accessed via MEM–RELEVANCE–[CIV].md (dimension-based discovery) and via MEM CONNECTIONS sections of loaded files (connection-based discovery).
-2. **COUNSEL internal structure** — Accumulated analytical context. Material Options, evidence updates, stability indicators, validated diagnostics, patterns, decision-point history.
+2. **STATE internal structure** — Accumulated analytical context. Material Options, evidence updates, stability indicators, validated diagnostics, patterns, decision-point history.
 3. **General knowledge** — Breadth and external context. Cross-domain parallels, opponent behaviour, external-actor dynamics, current events.
 
-All three layers should be present in substantive analytical output. Layer 1 (MEM) provides historically grounded specificity. Layer 2 (COUNSEL) provides cumulative analytical advantage. Layer 3 (general knowledge) provides breadth. An output missing any layer is incomplete:
+All three layers should be present in substantive analytical output. Layer 1 (MEM) provides historically grounded specificity. Layer 2 (STATE) provides cumulative analytical advantage. Layer 3 (general knowledge) provides breadth. An output missing any layer is incomplete:
 - Missing layer 1 = historically thin (labels without depth)
 - Missing layer 2 = analytically naive (ignores accumulated session findings)
 - Missing layer 3 = contextually narrow (blind to external dynamics)
@@ -24,7 +24,7 @@ When executing a session activity (Decision Points, Stability Watch, Assumption 
 
 ## MEM SCAN Procedure (MANDATORY)
 
-Every COUNSEL session activity begins with a MEM SCAN. The procedure is:
+Every STATE session activity begins with a MEM SCAN. The procedure is:
 
 1. **Read MEM–RELEVANCE–[CIV].md** for the entity under analysis. This is the primary lookup tool. Do NOT substitute a filename search or subagent scan.
 
@@ -58,7 +58,7 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 - **Non-MEM parallels are permitted** (e.g. Korean armistice, Cuban Missile Crisis) but should be flagged as ungrounded if no corresponding MEM exists
 - **When a non-MEM parallel recurs across multiple nodes**, note it as a MEM generation candidate at session closure
 
-## Self-Check Before Each COUNSEL Activity Turn
+## Self-Check Before Each STATE Activity Turn
 
 - [ ] MEM–RELEVANCE–[CIV].md read at session start?
 - [ ] Relevant dimensions identified (minimum 2)?
@@ -71,7 +71,7 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 ## Fallback
 
 If MEM–RELEVANCE–[CIV].md does not exist for the entity:
-1. Consult the COUNSEL file's Decision-Relevant History (Section VII)
+1. Consult the STATE file's Decision-Relevant History (Section VII)
 2. Identify MEM file references in that section
 3. Read those MEM files directly
 4. Note the missing relevance index as a system gap
@@ -88,6 +88,6 @@ Parallels from general knowledge (Korean armistice, Cuban Missile Crisis, etc.) 
 
 Dispatching a subagent to search for MEM filenames and then citing those filenames as historical parallels WITHOUT reading the files = VIOLATION. The MEM SCAN step requires reading, not finding.
 
-Operating entirely on layers 2 + 3 (COUNSEL structure + general knowledge) without reading any MEM files = VIOLATION. Output may be analytically competent but is historically ungrounded.
+Operating entirely on layers 2 + 3 (STATE structure + general knowledge) without reading any MEM files = VIOLATION. Output may be analytically competent but is historically ungrounded.
 
-Reference: CIV–COUNSEL–TEMPLATE Section I (Three-Source Compositional Principle), MEM SCAN steps in X-B, X-C, X-D, X-E; MEM–RELEVANCE–[CIV].md; CIV–MEM–TEMPLATE Section X (MEM CONNECTIONS); CONNECTION–TYPES.md
+Reference: CIV–STATE–TEMPLATE Section I (Three-Source Compositional Principle), MEM SCAN steps in X-B, X-C, X-D, X-E; MEM–RELEVANCE–[CIV].md; CIV–MEM–TEMPLATE Section X (MEM CONNECTIONS); CONNECTION–TYPES.md
