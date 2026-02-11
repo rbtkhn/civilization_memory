@@ -351,6 +351,52 @@ RULES:
   be flagged using the ARC Discovery Framework (Section V).
 
 ────────────────────────────────────────────────────────────
+IX-C. CROSS-ENTITY INSTITUTIONAL SOURCE ACCESS
+────────────────────────────────────────────────────────────
+When STATE mode analysis of one entity requires assessing an
+adversary's or partner's behaviour, intent, or capabilities,
+the system MAY consult that other entity's ARC-T-INSTITUTIONAL
+sources. This extends the Cross-ARC Citation protocol (V-A)
+from historical sources to institutional sources.
+
+RULES:
+
+1. PRIMARY ARC GOVERNS:
+   The entity under analysis uses its own ARC-T-INSTITUTIONAL
+   as the default source list.
+
+2. CROSS-ENTITY ARC PERMITTED:
+   When assessing another entity's behaviour, intent, or
+   capabilities, the system may consult that entity's
+   ARC-T-INSTITUTIONAL sources directly.
+
+3. EXPLICIT CROSS-ENTITY DECLARATION REQUIRED:
+   Cross-entity sources must be attributed with the originating
+   ARC and sub-type.
+
+   Format: (Source: [name], ARC–[CIV]-T-INSTITUTIONAL/[SUB-TYPE])
+
+   Examples:
+   • (Source: kremlin.ru, ARC–RUSSIA-T-INSTITUTIONAL/OFFICIAL)
+   • (Source: Valdai Club, ARC–RUSSIA-T-INSTITUTIONAL/RESEARCH)
+   • (Source: ISW, ARC–RUSSIA-T-INSTITUTIONAL/SPECIALIST)
+
+4. EDITORIAL NOTES TRAVEL WITH THE SOURCE:
+   The editorial note from the originating ARC must be visible
+   in the analysis. The consuming entity does not rewrite or
+   suppress the editorial note.
+
+5. CONTEXTUAL NOTE PERMITTED:
+   The consuming entity may add a contextual note alongside the
+   editorial note — e.g. "adversary source — treat as official
+   position, not factual reporting" — but may not override the
+   original editorial note.
+
+6. DISCOVERY FLAG FOR UNLISTED:
+   If a cross-entity source is not in the other entity's ARC,
+   standard ARC Discovery Framework rules apply (Section V).
+
+────────────────────────────────────────────────────────────
 X. LIVING ARC (CMC 3.2 — OPTIONAL)
 ────────────────────────────────────────────────────────────
 When PROPOSAL–LIVING–ARC is implemented, ARC files may include

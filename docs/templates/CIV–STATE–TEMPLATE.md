@@ -1041,12 +1041,36 @@ the uncertainty. When challenged on a source, provide the full
 attribution chain (outlet, date, sourcing type, what is verified
 vs projected).
 
+SOURCE CONTRADICTION (BINDING):
+When two or more ARC-T-INSTITUTIONAL sources — from the same or
+different ARC files — produce conflicting claims on a question
+material to the analysis, the system MUST surface the
+contradiction. Rules:
+• PRESENT BOTH CLAIMS with source name, ARC origin (including
+  cross-entity if applicable), and editorial note. Do not silently
+  pick one source over another.
+• NO RESOLUTION REQUIRED. The decision-maker resolves the
+  contradiction, not the system. The system preserves the tension.
+• EVIDENTIARY QUALITY MAY BE NOTED. If the two claims differ in
+  sourcing tier (VERIFIED DATA vs PROJECTION vs ANONYMOUS/THIN),
+  the system may note the difference — but this is annotation,
+  not resolution.
+• APPLIES IN ALL SESSION ACTIVITIES. Decision Points, Stability
+  Watch, Scenario Tree, Assumption Stress Test, Cross-Entity
+  Pressure Test, Pattern Audit, and free-form analysis.
+• CROSS-ENTITY CONTRADICTIONS ARE EXPECTED. When an entity's own
+  sources contradict an adversary's sources (e.g. Russian MOD
+  casualty figures vs Western estimates), this is a structural
+  feature, not an error. Surface both with attribution.
+
 INSTITUTIONAL SOURCES:
 When drawing on current-event information or institutional
 analysis for Layer 3, prefer sources listed in the entity's
 CIV–ARC file under ARC-T-INSTITUTIONAL (or Category E).
 Non-listed sources are permitted with an ARC discovery flag.
-See CIV–ARC–TEMPLATE Section IX-B.
+When assessing an adversary or partner, consult that entity's
+ARC-T-INSTITUTIONAL with cross-entity declaration and visible
+editorial notes. See CIV–ARC–TEMPLATE Sections IX-B and IX-C.
 
 ACTIVITY RECORD (ARC–[CIV]–DECISION–POINTS):
 Each civilization with a STATE file maintains an activity record
@@ -1704,6 +1728,21 @@ PROCEDURE:
    If a new pattern has emerged: propose formalisation with
    activation level, source, and relevance statement.
 
+5b. DOCTRINE CHECK: For each doctrine in CIV–DOCTRINE whose Hard
+   Constraints reference patterns or conditions tested in this audit:
+   • State each Hard Constraint (the invalidation trigger)
+   • Assess against current evidence and audit findings:
+     HOLDS — Hard Constraint not triggered
+     WEAKENED — conditions approaching the trigger
+     FALSIFIED — Hard Constraint actively triggered
+   • If WEAKENED: flag in State Log; add to options menu
+     ("Deepen doctrine [name] — Hard Constraint may be failing")
+   • If FALSIFIED: escalate — "Doctrine [name] Hard Constraint
+     '[condition]' is actively triggered; doctrine review required"
+   • Doctrines are frozen syntheses. They do not change silently.
+     Any change in doctrine status requires explicit user approval
+     and a version bump in CIV–DOCTRINE.
+
 6. OPTIONS: Pattern Audit uses its own option structure:
    After PATTERN LIST (step 1):
    • One option per pattern (numbered), system-recommended flagged
@@ -1780,6 +1819,12 @@ Activities may trigger each other:
 • Assumption Stress Test falsification -> Scenario Tree re-run
 • Pattern Audit weakening -> Assumption Stress Test on dependent
   assumptions
+• Pattern Audit WEAKENED/FALSIFIED on a pattern -> flag doctrine
+  for Hard Constraint review if any doctrine depends on that pattern
+• Assumption Stress Test WEAKENED/FALSIFIED on an assumption that
+  maps to a doctrine Hard Constraint -> flag doctrine for review
+• Sync Protocol doctrine validity flag -> Pattern Audit or
+  Assumption Stress Test to validate the flagged Hard Constraint
 • Cross-Entity Pressure Test -> new Decision Point for either entity
 • Decision Points outcome -> Revealed Preference Tracker data point
 
@@ -1908,6 +1953,16 @@ SYNC PROCEDURE:
 4. Assess whether changes affect any: material option reasoning,
    linchpin assumption, binding constraint, stability indicator,
    or cross-entity link
+4b. DOCTRINE VALIDITY CHECK: For each active doctrine in
+   CIV–DOCTRINE, read its Hard Constraints and cross-reference
+   against current stability indicators (Section VI), evidence
+   updates (Section IV), and any patterns flagged STALE or
+   WEAKENED in Section VII. If any Hard Constraint's triggering
+   condition appears active or approaching, flag:
+   "Doctrine [name] Hard Constraint '[condition]' may be
+   activating — recommend Pattern Audit or Assumption Stress Test"
+   This is a flag, not a full test. Full validation happens in
+   Pattern Audit (X-H, Step 5b).
 5. Propose specific updates to affected sections
 6. Apply only with user approval
 7. Update Source Versions block and State Log
