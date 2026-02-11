@@ -1,16 +1,17 @@
-CIV–DOCTRINE–GERMANIA — v3.0
+CIV–DOCTRINE–GERMANY — v3.0
 
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Civilization: GERMANIA
+Entity: Germany (state)
+Civilization: GERMANIA (source corpus)
 Class: CIV–DOCTRINE
 Source Authority: DIB–GERMANIA
 Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–GERMANIA v2.0+
 Derived from: CIV–DOCTRINE–TEMPLATE v3.0
-Supersedes: CIV–DOCTRINE–GERMANIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–DOCTRINE–GERMANIA v2.0 (renamed: doctrine governs state action)
+Upgrade Type: ALIGNMENT · RENAME (GERMANIA→GERMANY) · CORE v3.0 CONSOLIDATION
 Last Update: February 2026
 Word Count: ~1,050
 
@@ -44,7 +45,13 @@ through territorial depth. These are opposite survival mechanisms.
 ────────────────────────────────────────────────────────────
 I. PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-This file is the exclusive registry of accepted Germanic doctrines.
+This file is the exclusive registry of doctrines that guide and
+govern the actions of the German state.
+
+Doctrine guides state action; civilizations are not unified actors
+and do not "follow" doctrine. The state (Germany) is the actor that
+is guided by these doctrines. The doctrines are derived from the
+GERMANIA civilizational corpus (CIV–SCHOLAR–GERMANIA, MEMs).
 
 It contains:
 • Doctrines explicitly accepted into CIV–CORE–GERMANIA
@@ -56,7 +63,8 @@ This file:
 • Does NOT synthesize
 • Does NOT evolve autonomously
 
-Only doctrines listed here may be treated as authoritative.
+Only doctrines listed here may be treated as authoritative for
+the German state.
 
 ────────────────────────────────────────────────────────────
 II. AUTHORITY CHAIN (MANDATORY)
@@ -64,7 +72,7 @@ II. AUTHORITY CHAIN (MANDATORY)
 CIV–MEM–CORE
 → CIV–CORE–GERMANIA
 → DIB–GERMANIA (Explicit Acceptance)
-→ CIV–DOCTRINE–GERMANIA
+→ CIV–DOCTRINE–GERMANY
 
 DIB CLARIFICATION:
 The Doctrine Intake Board (DIB) is a governance checkpoint, not a
@@ -224,7 +232,7 @@ Source:
 • CIV–SCHOLAR–GERMANIA (SYNTHESIS 0006)
 
 Definition:
-Germania’s stability requires concentrated corridor depth where
+Germania's stability requires concentrated corridor depth where
 authority and liability remain co-located. Dispersed corridor reach
 dilutes force density, externalizes liability, and creates exposure
 without commensurate authority.
@@ -325,7 +333,7 @@ Mirroring Rules:
 • All ACCEPTED doctrines must be mirrored (REJECTED doctrines are excluded)
 • Mirrored doctrines provide citation surface for CIV–CORE engines
 • Mirrored doctrines inform SCHOLAR learning without constraining it
-• CIV–DOCTRINE–GERMANIA remains the single source of truth for doctrine definitions
+• CIV–DOCTRINE–GERMANY remains the single source of truth for doctrine definitions
 
 ────────────────────────────────────────────────────────────
 VII. CITATION RULES
@@ -334,7 +342,7 @@ CIV–CORE–GERMANIA may reference doctrines from this file only.
 
 Required citation format:
 • Doctrine Name
-• CIV–DOCTRINE–GERMANIA version
+• CIV–DOCTRINE–GERMANY version
 • Doctrine number
 
 Silent doctrine usage is prohibited.
@@ -387,6 +395,8 @@ Future versions:
 • May NOT weaken authority chain
 • May NOT alter admissibility rules
 
-────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–GERMANIA — v3.0
+v3.0: Rename CIV–DOCTRINE–GERMANIA → CIV–DOCTRINE–GERMANY (doctrine governs state action; civilizations are not unified actors).
 
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–DOCTRINE–GERMANY — v3.0
+────────────────────────────────────────────────────────────

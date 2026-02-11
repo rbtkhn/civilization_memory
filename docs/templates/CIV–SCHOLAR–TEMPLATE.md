@@ -1165,6 +1165,14 @@ This section defines automatic loading triggers for governance files
 during SCHOLAR sessions. These protocols ensure correct context without
 requiring manual file specification for every session.
 
+ENTITY FOCUS: CORE, STATE, AND SCHOLAR RE-ANCHOR TOGETHER.
+When the civilization in focus changes, the previous entity's
+CIV–CORE, CIV–STATE, and CIV–SCHOLAR cease to govern. Load
+CIV–CORE–[CIV] and CIV–SCHOLAR–[CIV] for the entity in focus; load
+only what the mode needs (STATE mode: CORE + STATE file + MEMs;
+SCHOLAR mode: CORE + SCHOLAR file + MEMs as needed). See CMC–BOOTSTRAP;
+cursor rules cmc-state-mem-grounding, cmc-scholar-mode.
+
 XIII.A DOCTRINE LOAD PROTOCOL (MANDATORY)
 ────────────────────────────────────────────────────────────
 CIV–DOCTRINE–[CIV] MUST be loaded (pre-loaded or on-demand) when:
@@ -1281,7 +1289,7 @@ not pre-loaded, the LLM MUST:
 
 1. Read the required file from repository before proceeding
 2. Announce the load if it affects response structure
-   ("Loading DOCTRINE–GERMANIA for compliance check...")
+   ("Loading DOCTRINE–GERMANY for compliance check...")
 3. Apply loaded content to current operation
 4. Content remains in context for session duration
 

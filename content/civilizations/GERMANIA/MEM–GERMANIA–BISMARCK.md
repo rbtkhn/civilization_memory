@@ -2,16 +2,16 @@ MEM–GERMANIA–BISMARCK — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: MEM–GERMANIA–BISMARCK v2.0
-Upgrade Type: TEMPLATE v2.8 COMPLIANCE (STRUCTURAL)
+Version: 2.2
+Supersedes: MEM–GERMANIA–BISMARCK v2.1
+Upgrade Type: CONTENT · 1871 IMPOSITION VS PATH A; CONGRESS–VIENNA CONNECTION
 Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANIA
 Regime: Prussian / Imperial-Constitutional (1862–1890 AD)
 Subject: Otto von Bismarck
 Dates: 1815–1898 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
 ARC VERSION DECLARATION:
@@ -195,6 +195,16 @@ Primary source:
 > that it seeks peace, not further advantage."
 > — Otto von Bismarck, Reichstag address, 1888
 
+1871 AND PATH A: Bismarck's "stop" after the Franco-Prussian War was
+**closure by imposition**, not **inclusion of the defeated** (Path A).
+He did not offer France a Talleyrand role—no voice at the table, no
+stake in the new order. Terms were imposed (annexation, indemnity,
+proclamation at Versailles). "Knowing when to stop" preserved the
+victor's gains and avoided coalition risk; it did not give the defeated
+a legitimacy path. So 1871 achieved durable closure for Germany but
+encoded revanche for France. Contrast MEM–GERMANIA–CONGRESS–VIENNA
+(Path A: include the defeated); SYNTHESIS 0021. Source: ENTRY 0030.
+
 Katja Hoyer emphasizes that Bismarck's true achievement lay not in
 unification but in his obsessive effort to prevent Germany from becoming
 a **system destabilizer**.
@@ -365,6 +375,12 @@ Same-Civilization MEMs (GERMANIA):
   Breaks if removed: Rapid victories appear automatic; civil-military
   tension over war termination disappears.
 
+• MEM–GERMANIA–CONGRESS–VIENNA
+  Dependency: Vienna = Path A (inclusion of defeated); 1871 = imposition
+  despite restraint. Contrast between closure by inclusion and closure
+  by imposition. Breaks if removed: Why 1871 encoded revanche loses
+  settlement-design contrast.
+
 • MEM–GERMANIA–HITLER
   Dependency: Inversion case demonstrating competence without restraint.
   Bismarck's legacy requires contrast with successor catastrophe.
@@ -473,5 +489,5 @@ EXPLORATION OPTIONS:
 8. Contrast Bismarckian closure with Napoleonic momentum
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–BISMARCK — v2.0
+END OF FILE — MEM–GERMANIA–BISMARCK — v2.2
 ────────────────────────────────────────────────────────────

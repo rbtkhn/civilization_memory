@@ -1,17 +1,27 @@
-MEM–GERMANIA–CONGRESS–VIENNA — v2.0
+MEM–GERMANIA–CONGRESS–VIENNA — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–CONGRESS–VIENNA v2.0
+Upgrade Type: CONTENT · TALLEYRAND MECHANISM, 1871 NEGATIVE CASE, CROSS-CIV ENCODING
 Civilization: GERMANIA
 Subject: Congress of Vienna — Settlement Design and Closure Through Inclusion
 Dates: September 1814 – June 1815 AD
 Class: MEM (Civilizational Memory) · Diplomatic Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.2
-Last Update: January 2026
-Word Count: ~3,400
+Last Update: February 2026
+Word Count: ~3,550
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.0 → v2.1) — SCHOLAR SESSION 11 FEB 2026
+────────────────────────────────────────────────────────────
+Added: III.A Talleyrand mechanism (channel, narrative, incentive);
+VII.A 1871 as negative case (closure without Path A); cross-civilizational
+encoding (Russian arbiter-by-right vs German inclusion); MEM–RUSSIA–
+CONGRESS–VIENNA in connections. Source: CIV–SCHOLAR–GERMANIA ENTRY 0030.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -88,6 +98,22 @@ because French honor was preserved and French position maintained.
 This validates SYNTHESIS 0021's Path A conditions: leadership
 attribution (Napoleon was aberration, not France); restoration path
 (Bourbon dynasty); great-power retention; dignified acceptance possible.
+
+III.A. THE TALLEYRAND MECHANISM
+────────────────────────────────────────────────────────────
+Path A was made operational by three functions embodied in Talleyrand's
+role (channel, narrative, incentive). **Channel:** Invited to negotiations
+in October 1814, France had a voice from the start—defeated power as
+participant, not object. **Narrative:** His January 1815 formulation—
+"I speak in the name of Europe, whose interest is that France remain
+in equilibrium"—reframed France as stakeholder in the European order,
+enabling leadership attribution (Napoleon as aberration), restoration
+path, and dignified acceptance. **Incentive:** Talleyrand and French
+elites benefited from Bourbon restoration and the settlement; they had
+reason to own and defend it domestically. Versailles (1919) and 1871
+failed to replicate this: no Talleyrand equivalent for the defeated,
+no inclusion, no honorable acceptance path. Source: CIV–SCHOLAR–GERMANIA
+ENTRY 0030 (Session 11 Feb 2026).
 
 ────────────────────────────────────────────────────────────
 IV. GERMAN TERRITORIAL SETTLEMENT
@@ -222,6 +248,20 @@ Vienna principle, observed:
 Vienna bound France; Versailles crushed Germany.
 The outcomes followed structurally.
 
+VII.A. 1871 AS NEGATIVE CASE (CLOSURE WITHOUT PATH A)
+────────────────────────────────────────────────────────────
+The Franco-Prussian settlement (1871) achieved closure by **imposition**,
+not inclusion. France was defeated (Sedan, siege of Paris); terms were
+imposed (annexation, indemnity, proclamation in the Hall of Mirrors).
+There was no Talleyrand—no representative of the defeated at the table
+to reframe the outcome as equilibrium or to give French elites a stake
+in the new order. Bismarck's "knowing when to stop" was structural
+restraint (avoid overreach, coalition risk); it was not Path A. The
+result: French encoding as humiliation and revanche; German encoding
+as victory and restraint. Same event, divergent legitimacy stories;
+the settlement lacked an honorable acceptance path for France. Compare
+MEM–GERMANIA–WAR–FRANCO–PRUSSIAN; MEM–GERMANIA–FRANCE.
+
 ────────────────────────────────────────────────────────────
 VIII. HUNDRED DAYS AND SETTLEMENT RESILIENCE
 ────────────────────────────────────────────────────────────
@@ -291,6 +331,14 @@ For Germania, Vienna represents successful closure:
   restraint, not exhaustion
 • SYNTHESIS 0021 Path A: Inclusion of France produced stable closure
 
+Cross-civilizational encoding: Russian memory (MEM–RUSSIA–CONGRESS–VIENNA)
+encodes Vienna as **Russia as arbiter by right**—legitimacy from endurance,
+"rightful seat at the governing table." German memory encodes **inclusion
+of the defeated** (Path A). Same event, complementary lessons: settlement
+design that fits both requires inclusion and an outcome the other side
+need not narrate as defeat. Relevant for any settlement where both
+victor and defeated (or adversary) must accept the order.
+
 The lesson is also cautionary:
 • Bismarck applied Vienna principles (Nikolsburg 1866, Frankfurt 1871)
 • Wilhelmine Germany abandoned them (no closure mechanism 1914)
@@ -332,6 +380,8 @@ Cross-civilizational:
 • MEM–FRANCIA–TALLEYRAND — French perspective and inclusion mechanism
 • MEM–BRITANNIA–CASTLEREAGH — British perspective and continental balance
 • MEM–RUSSIA–ALEXANDER–I — Russian perspective and Polish question
+• MEM–RUSSIA–CONGRESS–VIENNA — Complementary encoding (arbiter by right
+  vs inclusion of defeated); settlement design for both legitimacy paths
 
 ────────────────────────────────────────────────────────────
 XIII. MEARSHEIMER STRATEGIC ASSESSMENT

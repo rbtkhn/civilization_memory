@@ -345,7 +345,7 @@ Germania’s execution capacity.
 [V1.5 — EXPLICIT LINKAGE]
 Anglia’s feasibility-governor function directly counters:
 DOCTRINE 02 — UNIVERSALISM–CAPACITY DIVERGENCE
-(CIV–DOCTRINE–FRANCIA v1.1)
+(CIV–DOCTRINE–FRANCE v1.1)
 
 ────────────────────────────────────────────────────────────
 XIV. FAILURE PHYSICS

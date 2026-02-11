@@ -18,6 +18,23 @@ All three layers should be present in substantive analytical output. Layer 1 (ME
 - Missing layer 2 = analytically naive (ignores accumulated session findings)
 - Missing layer 3 = contextually narrow (blind to external dynamics)
 
+## CORE Load (MANDATORY when analyzing an entity)
+
+STATE is downstream of CIV–CORE; output must not contradict CORE axioms (CIV–STATE–TEMPLATE). When analyzing entity [CIV], **read CIV–CORE–[CIV].md** for that civilization (if the file exists in that civ's folder). Use it for axiom and constraint awareness before and during the activity. If no CIV–CORE file exists for the entity, proceed without it; note the absence only if relevant to constraint claims.
+
+**On civilization/entity switch:** When the entity under analysis changes (e.g. user switches to a different STATE file or names a different civilization), treat the session as anchored to the **new** entity for CORE load and MEM SCAN. Read CIV–CORE–[CIV] and MEM–RELEVANCE–[CIV].md for the new entity; do not treat the previous entity's CORE or MEM set as governing the current activity. **CORE, STATE, and SCHOLAR re-anchor together:** on entity switch, the previous entity's CIV–CORE, CIV–STATE, and CIV–SCHOLAR all cease to govern; load the new entity's CORE and (per mode) STATE file or SCHOLAR file as needed.
+
+**Second CORE (rare):** Load a second civilization's CORE only when the user **explicitly** requests dual-entity or comparative analysis (e.g. "compare Russian and German constraints," "analyze from both Russia and China's perspective," "Option G: how does this affect Germania using their CORE"). Do not auto-load a second CORE on every Option G or mere mention of another entity; default remains single-entity CORE load.
+
+## SCHOLAR Load (STATE mode — one-way draw)
+
+STATE is downstream of CIV–SCHOLAR; historical patterns, RLLs, and syntheses in SCHOLAR inform STATE's analytical framework (CIV–STATE–TEMPLATE §XII). When in **STATE mode** for entity [CIV], **read CIV–SCHOLAR–[CIV]** (if present in that civilization's folder) at session start or when first needed. Use it for:
+- RLLs and syntheses relevant to material options, binding constraints, and Decision-Relevant History
+- Precedent and pattern language when grounding options or Section VII content
+- Consistency with SCHOLAR-encoded constraints (no STATE output that contradicts frozen syntheses or bound RLLs)
+
+This is **one-way**: STATE reads SCHOLAR; STATE does not write back to SCHOLAR. If no CIV–SCHOLAR file exists for the entity, proceed without it; note the absence only if relevant. On entity switch, load the new entity's SCHOLAR file (with CORE and STATE file); previous entity's SCHOLAR does not govern.
+
 ## MEM SCAN Procedure (MANDATORY)
 
 When executing a session activity (Decision Points, Stability Watch, Assumption Stress Test, Scenario Tree, Revealed Preference Tracker, Cross-Entity Pressure Test, Pattern Audit), you MUST ground analytical output in directly-read MEM files.
@@ -60,6 +77,8 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 
 ## Self-Check Before Each STATE Activity Turn
 
+- [ ] CIV–CORE–[CIV].md read for axiom/constraint awareness (if present for entity)?
+- [ ] CIV–SCHOLAR–[CIV] read for RLLs/syntheses/patterns (if present for entity)?
 - [ ] MEM–RELEVANCE–[CIV].md read at session start?
 - [ ] Relevant dimensions identified (minimum 2)?
 - [ ] Primary MEMs from those dimensions actually read (not just named)?

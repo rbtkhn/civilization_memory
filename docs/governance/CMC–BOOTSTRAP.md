@@ -472,11 +472,27 @@ guide the next response. Closure deferred until user selects H
   oriented decision support and professional register
 See: CIV–STATE–TEMPLATE Section X-A
 
-SYNC: STATE reads from SCHOLAR/CORE/DOCTRINE/MEMs but does not
-write back. One-way dependency. User-initiated sync via
-"sync state to scholar" command.
+SYNC: STATE reads from SCHOLAR/CORE/DOCTRINE/MEMs. Sync command
+updates STATE from those sources (one-way). **Harvest:** The only
+way to transfer information from STATE mode into SCHOLAR (learn
+mode) is the "harvest" or "harvest session" command; procedure in
+CIV–STATE–TEMPLATE §XIV-B and cmc-state-scholar-harvest. No other
+transfer into Scholar learn mode is permitted.
 
-TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (v1.2)
+CORE LOAD: When analyzing entity [CIV], read CIV–CORE–[CIV] (if
+present) for axiom and constraint compliance. STATE output must not
+contradict CORE axioms. On civilization/entity switch, re-anchor to
+the new entity (load that entity's CORE and MEM–RELEVANCE; previous
+entity's sources do not govern the current activity). A second CORE
+is loaded only when the user explicitly requests dual/comparative
+analysis (not automatically on Option G or opponent mention). CORE,
+STATE, and SCHOLAR re-anchor together on entity switch (previous
+entity's files do not govern); load per mode (STATE: CORE + STATE
+file + CIV–SCHOLAR–[CIV] (if present) + MEMs; SCHOLAR: CORE + SCHOLAR
+file + MEMs as needed). See cmc-state-mem-grounding, cmc-scholar-mode,
+cmc-state-scholar-sync.
+
+TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (current: v1.12)
 
 MODE SWITCHING:
 • "switch to state mode" or "state mode" → STATE

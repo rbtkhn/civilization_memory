@@ -81,6 +81,9 @@ It is NOT:
 • An interaction controller
 
 CIV–CORE encodes what a civilization can and cannot do under pressure.
+With CIV–STATE and CIV–SCHOLAR, CORE is part of the entity bundle that
+re-anchors on civilization switch; load per mode (CMC–BOOTSTRAP,
+cmc-state-mem-grounding, cmc-scholar-mode).
 
 ────────────────────────────────────────────────────────────
 II. CIVILIZATION PHASE MODEL (NEW · v2.0)

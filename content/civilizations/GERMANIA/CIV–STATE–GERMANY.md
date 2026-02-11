@@ -1,10 +1,10 @@
-CIV–STATE–GERMANY — v1.1
+CIV–STATE–GERMANY — v1.3
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.1
-Supersedes: CIV–STATE–GERMANY v1.0
-Upgrade Type: SESSION HARVEST — NUCLEAR DETERRENCE GAP, POST-WAR SETTLEMENT OPTION
+Version: 1.3
+Supersedes: CIV–STATE–GERMANY v1.2
+Upgrade Type: SESSION HARVEST REFINEMENT — VIENNA PRECEDENT (SCHOLAR–RUSSIA)
 Entity: Germany / Federal Republic of Germany
 Classification: STANDARD-STATE
 Civilization: GERMANIA
@@ -848,6 +848,33 @@ PATTERN: Deterrence Dependency as Strategic Vulnerability
   the fewer options remain if the US guarantee fails.
 
 ────────────────────────────────────────────────────────────
+VII.A. DOCTRINE AUDIT & SESSION OUTPUTS (11 Feb 2026)
+────────────────────────────────────────────────────────────
+Doctrine audit (11 Feb 2026, ARC-sourced) | No doctrine contradicted;
+01, 02, 05, 06, 07, 08 consistent with ARC evidence | File:
+STATE–GERMANY–DOCTRINE–AUDIT–ARC–2026–02–11.md | Sources: Bundesregierung,
+Bundestag, Bundesbank, European Commission, ifo, SWP, IISS (CIV–ARC–
+GERMANIA IX-B). Doctrines 03 (closure), 04 (discipline inversion)
+untested in window. Precedent used: MEM–GERMANIA–WEIMAR–HYPERINFLATION,
+MEM–GERMANIA–WEIMAR, MEM–GERMANIA–BISMARCK, MEM–GERMANIA–CONGRESS–VIENNA.
+Session also applied three-perspective assessment to coalition cohesion
+(legitimacy, power, liability).
+
+────────────────────────────────────────────────────────────
+VII.B. FORWARD PROJECTION — COALITION COHESION (6–12 months)
+────────────────────────────────────────────────────────────
+Horizon: 6–12 months. Variables: US extended deterrence (e.g. missile
+deployment in Germany), EU fiscal rule stability, German delivery on
+defence and fiscal commitments. Upside: trajectory holds → equilibrium
+holds (no single power can revise against coalition). Downside: US
+commitment or EU discipline weakens, or German delivery slips →
+coalition credibility and encirclement risk rise. Three perspectives:
+legitimacy (domestic acceptance of embedding), power (structure),
+liability (who is exposed if cohesion weakens). ARC-sourced baseline:
+Bundesbank/ifo growth and deficit path; SWP on NATO/Zeitenwende; Commission
+on DBP 2026.
+
+────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
 
@@ -866,8 +893,14 @@ RUSSIA:
   Any Ukraine settlement architecture requires Russian participation
   — Congress of Vienna precedent (inclusion of defeated power)
   is analytically relevant from both the Russian and German
-  civilisational memories.
-  (Source: MEM–GERMANIA–RUSSIA, CIV–STATE–RUSSIA)
+  civilisational memories. Shared reference, divergent lesson: German
+  memory encodes inclusion of the defeated (France as stakeholder) for
+  closure; Russian memory encodes Russia as arbiter by right (legitimacy
+  from endurance). Settlement design that fits both requires inclusion
+  and an outcome not frameable as defeat in Russian domestic terms.
+  (Source: MEM–GERMANIA–RUSSIA, CIV–STATE–RUSSIA; MEM–GERMANIA–CONGRESS–
+  VIENNA, MEM–RUSSIA–CONGRESS–VIENNA; Scholar–Russia harvest analysis
+  11 Feb 2026)
 
 FRANCE:
   Dimension: European integration co-leadership; defence cooperation
@@ -926,15 +959,20 @@ POLAND:
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA — v2.12
-CIV–CORE–GERMANIA — v2.0 (CMC 3.2)
-CIV–DOCTRINE–GERMANIA — v2.0
-CIV–ARC–GERMANIA — v2.5
-MEM–RELEVANCE–GERMANY — v1.0
+
+| Source | Version | Last assessed |
+|--------|---------|---------------|
+| CIV–SCHOLAR–GERMANIA | v2.13 | 2026-02-11 |
+| CIV–CORE–GERMANIA | v2.0 | 2026-02-11 |
+| CIV–DOCTRINE–GERMANY | v3.0 | 2026-02-11 |
+| CIV–ARC–GERMANIA | v2.5 | 2026-02-11 |
+| MEM–RELEVANCE–GERMANY | v1.0 | 2026-02-11 |
 
 Sync command: Compare STATE file against source file versions.
 If any source has been updated since last sync, review for new
 patterns, doctrines, or corrections that should propagate to STATE.
+Transfer into Scholar only via "harvest" or "harvest session"
+(CIV–STATE–TEMPLATE §XIV-B).
 
 ────────────────────────────────────────────────────────────
 X. STATE LOG
@@ -1012,6 +1050,23 @@ ENTRY 002 — 11 February 2026
   Next review: when ceasefire signals emerge; when Franco-German
   summit addresses defence cooperation; when US alliance commitment
   signals change; when Q1 2026 economic data available
+
+ENTRY 003 — 11 February 2026
+  Session: Sync verification
+  Change: Source Versions (Section IX) updated to current source
+  versions — CIV–SCHOLAR–GERMANIA v2.13 (was v2.12), CIV–DOCTRINE–
+  GERMANY v3.0 (was v2.0). Table format aligned with STATE template.
+  Harvest-only transfer note added. No substantive STATE content
+  changes; source versions now match actual files. Synced with
+  Scholar–Germania v2.13.
+
+ENTRY 004 — 11 February 2026
+  Session: Rename CIV–DOCTRINE–GERMANIA → CIV–DOCTRINE–GERMANY
+  Rationale: Doctrine guides state action; civilizations are not
+  unified actors. New file CIV–DOCTRINE–GERMANY.md created; all
+  references updated (STATE, Scholar, doctrine audit, CORE, Index,
+  template, governance report); CIV–DOCTRINE–GERMANIA.md removed.
+  Source Versions (Section IX): CIV–DOCTRINE–GERMANY v3.0.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–GERMANY v1.1

@@ -1,10 +1,10 @@
-MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v2.0
+MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: MEM–GERMANIA–WAR–FRANCO–PRUSSIAN v2.0
-Upgrade Type: TEMPLATE v2.8 COMPLIANCE (STRUCTURAL)
+Version: 2.2
+Supersedes: MEM–GERMANIA–WAR–FRANCO–PRUSSIAN v2.1
+Upgrade Type: CONTENT · VI.A CLOSURE WITHOUT PATH A; CONGRESS–VIENNA CONNECTION
 Template: CIV–MEM–TEMPLATE v2.8
 Civilization: GERMANIA
 Opposing Civilization: FRANCIA
@@ -204,6 +204,21 @@ Kissinger emphasizes Bismarck's understanding that victory required restraint:
 Bismarck's post-war strategy aimed to prevent the coalition that unlimited
 victory would have provoked.
 
+VI.A. CLOSURE WITHOUT INCLUSION (PATH A CONTRAST)
+────────────────────────────────────────────────────────────
+The 1871 settlement achieved closure by **imposition**, not by **inclusion**
+of the defeated. At the Congress of Vienna (1815), France was included
+as stakeholder (Path A—SYNTHESIS 0021): Talleyrand at the table, great-power
+status retained, settlement honorable to accept. In 1871 there was no
+Talleyrand equivalent: France was not given a voice in designing the
+peace; terms were imposed (annexation, indemnity, proclamation at
+Versailles). Bismarck's restraint was "knowing when to stop" (avoid
+overreach); it was not "including the defeated so they have a stake."
+Closure held—but without an honorable acceptance path for France, the
+settlement encoded revanche and long-term grievance. Compare
+MEM–GERMANIA–CONGRESS–VIENNA (Path A); MEM–GERMANIA–FRANCE (1871 encoding).
+Source: CIV–SCHOLAR–GERMANIA ENTRY 0030.
+
 ────────────────────────────────────────────────────────────
 VII. LEGITIMACY, PERCEPTION, & CIVILIAN RESTRAINT
 ────────────────────────────────────────────────────────────
@@ -329,6 +344,15 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   Breaks if removed: What Bismarck replaced has no documentation;
   Congress System precedent disappears.
 
+• MEM–GERMANIA–CONGRESS–VIENNA
+  Dependency: Path A (inclusion of defeated) as contrast. 1871 achieved
+  closure by imposition, not inclusion; no Talleyrand. Breaks if removed:
+  Settlement-design contrast (Vienna vs 1871) undocumented.
+
+• MEM–GERMANIA–BISMARCK
+  Dependency: Architect of war and post-1871 restraint; "saturated power."
+  Breaks if removed: Who enforced stopping rule and why has no agent.
+
 GEO MEM CONNECTIONS:
 
 • MEM–GERMANIA–GEO–RHINE–RIVER
@@ -427,5 +451,5 @@ When ingested without CORE, the system MUST:
 • Present exploration options based on Sections I–XI
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v2.0
+END OF FILE — MEM–GERMANIA–WAR–FRANCO–PRUSSIAN — v2.2
 ────────────────────────────────────────────────────────────

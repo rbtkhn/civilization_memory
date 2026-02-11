@@ -1,0 +1,35 @@
+---
+description: Harvest — only way to transfer STATE session output into Scholar learn mode
+alwaysApply: true
+---
+
+# STATE–SCHOLAR Harvest Rule
+
+## Exclusive Gate
+
+**Only** the **"harvest"** or **"harvest session"** command in STATE mode may transfer information from a STATE session into SCHOLAR (learn mode). No other mechanism may write STATE session output into CIV–SCHOLAR–[CIV]. State learns from Scholar; Scholar learns from the past and from harvest—never from STATE except via harvest.
+
+## Trigger
+
+When the user issues in STATE mode:
+- "harvest"
+- "harvest session"
+- "harvest this session"
+- Equivalent (e.g. "transfer session to scholar", "harvest to scholar")
+
+Use the entity currently in focus. If the user names an entity, harvest applies to that entity's Scholar file.
+
+## Harvest Procedure
+
+Follow **CIV–STATE–TEMPLATE §XIV-B (Harvest Protocol)**:
+
+1. **Identify** the STATE session output to be harvested (decision-point findings, pattern audit results, revealed-preference updates, doctrine-check insights, forward-projection summaries, or other session-derived content).
+2. **Propose** specific additions to CIV–SCHOLAR–[CIV] in a form appropriate to that file (ENTRY, synthesis candidate, RLL proposal, or pattern note per Scholar template).
+3. **Present** proposed additions to the user; apply only after approval.
+4. **Record** in the STATE file (State Log or session activity record) that a harvest was performed and what was transferred.
+
+## No Automatic Harvest
+
+Harvest runs only when the user explicitly requests it. STATE session output never flows into Scholar except via this command.
+
+Reference: CIV–STATE–TEMPLATE §XIV-B; CIV–STATE–TEMPLATE §XII (Directionality).

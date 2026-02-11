@@ -1,13 +1,44 @@
-CIV–STATE–TEMPLATE — v1.9
+CIV–STATE–TEMPLATE — v1.12
 Civilizational Memory Codex · State File Template
 
 Status: ACTIVE · CANONICAL
-Version: 1.9
-Supersedes: CIV–STATE–TEMPLATE v1.8
-Upgrade Type: MEM GROUNDING ENFORCEMENT
+Version: 1.12
+Supersedes: CIV–STATE–TEMPLATE v1.11
+Upgrade Type: XIV-B HARVEST PROTOCOL — EXCLUSIVE GATE FOR STATE → SCHOLAR
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
-Last Update: 10 February 2026
+Last Update: 11 February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.12) — HARVEST AS EXCLUSIVE GATE
+────────────────────────────────────────────────────────────
+Only "harvest" or "harvest session" in STATE mode may transfer
+information into SCHOLAR (learn mode). Section XIV-B (Harvest
+Protocol) added; directionality (§XII) updated. Cursor rule
+cmc-state-scholar-harvest created. CMC–BOOTSTRAP and sync rule
+updated.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.11) — COGNITIVE EXOSKELETON DESIGN OBJECTIVE
+────────────────────────────────────────────────────────────
+Section I (PURPOSE & AUTHORITY) now includes a named subsection
+"COGNITIVE EXOSKELETON: DESIGN OBJECTIVE AND CONSTRAINTS": beneficiary
+(principal and/or advisory institution), design objectives (blind-spot
+reduction, frame transparency, temporal compression), anti-goals, and
+duty-of-competence clarification (completeness across perspectives).
+TERMINOLOGY–REGISTRY CIV–STATE entry updated to state augmentation
+("extends cognitive reach without substituting for judgment").
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.10) — SECTION VII OPTIONAL SUBSECTIONS
+────────────────────────────────────────────────────────────
+Section VII (Decision-Relevant History) may include two optional
+subsections when the relevant session activities are performed:
+• Doctrine audit & session outputs: reference to standalone audit file
+  (if any), summary line, ARC sources and precedent MEMs used.
+• Forward projection: horizon, key variables, upside/downside in brief.
+Format and placement are specified in the Section VII bullet list.
+First implementation: CIV–STATE–GERMANY v1.2 (11 Feb 2026).
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8) — SIX NEW STATE SESSION ACTIVITIES
@@ -312,6 +343,54 @@ a MEM generation candidate at session closure — it has demonstrated
 analytical utility and may warrant inclusion in the civilizational
 memory corpus.
 
+ENTITY FOCUS: CORE, STATE, AND SCHOLAR RE-ANCHOR TOGETHER.
+When the entity under analysis changes, the session re-anchors to the
+new entity. The previous entity's CIV–CORE, CIV–STATE, and
+CIV–SCHOLAR cease to govern. Load the new entity's CORE and (per mode)
+STATE file or SCHOLAR file as needed. STATE mode: CORE + STATE file +
+MEM–RELEVANCE + MEMs. Load only what the mode needs. See CMC–BOOTSTRAP;
+cursor rules cmc-state-mem-grounding, cmc-scholar-mode.
+
+────────────────────────────────────────────────────────────
+COGNITIVE EXOSKELETON: DESIGN OBJECTIVE AND CONSTRAINTS
+────────────────────────────────────────────────────────────
+STATE and CIV–STATE files implement a **cognitive exoskeleton** for
+the head of state: they extend the decision-maker's cognitive reach
+(options, precedent, disconfirming evidence) without substituting
+for judgment or accountability. Augment, don't replace.
+
+BENEFICIARY: Serves the principal and/or the principal's designated
+advisory institution (e.g. NSC, cabinet secretariat), so that the
+office—not only the incumbent—can use historically-grounded option
+surfacing.
+
+DESIGN OBJECTIVES:
+• **Reduce predictable blind spots** — Doctrine-shaped framing,
+  single-perspective dominance, unsupported absence claims, and
+  single-source evidence are countered by Negative Claim Check,
+  ARC source coverage, three perspectives, and cross-civilization
+  traversal. Reducing such blind spots is an explicit design goal.
+• **Frame transparency** — Where analysis is doctrine- or MEM-shaped,
+  surface that dependency so the decision-maker can assess how much
+  the options depend on the current corpus and doctrines (see
+  gated-spiral awareness).
+• **Temporal compression** — Compress civilizational time (MEM corpus)
+  into present-relevant options and precedents without dropping
+  mechanism or sequence, so the decision-maker sees under what
+  conditions outcomes occurred and with what consequences.
+
+ANTI-GOALS (what the exoskeleton must NOT become):
+• Must not act as an oracle (single recommended course).
+• Must not hide contradiction between perspectives or sources.
+• Must not present doctrine-shaped findings as frame-independent truth.
+• Must not create single-point cognitive dependency — the principal
+  retains other advisers and sources.
+
+DUTY OF COMPETENCE (clarification): "Surface all material options"
+means completeness **across all three perspectives** (no perspective
+systematically under-represented), not an exhaustive list of every
+conceivable option. See Section III for the full binding declaration.
+
 ────────────────────────────────────────────────────────────
 II. AUDIENCE & REGISTER
 ────────────────────────────────────────────────────────────
@@ -425,6 +504,15 @@ SECTION VI-B: OPPONENT CONSTRAINT ASSESSMENT (when applicable)
 SECTION VII: DECISION-RELEVANT HISTORY
   • Pattern activations linking historical content to current options
   • Source citations
+  • Doctrine audit & session outputs (optional): when a doctrine audit
+    or session harvest is performed, record reference to audit file (if
+    standalone), 1–2 line summary, and precedent MEMs used; format
+    "Doctrine audit (date, ARC-sourced) | Result | File: [path] |
+    Precedent: [MEM list]"
+  • Forward projection (optional): when a forward projection is
+    recorded, add horizon (e.g. 6–12 months), key variables, upside/
+    downside in brief; format "Forward projection — [topic] (horizon) |
+    Variables: ... | Upside: ... | Downside: ..."
 
 SECTION VIII: CROSS-ENTITY LINKS
   • Comparison relationships
@@ -841,11 +929,15 @@ NUMBER OF DECISION POINTS:
   than exhaustive enumeration.
 
 PROCEDURE:
-1. SEARCH: Survey current news and observable developments affecting
+1. CORE LOAD: Read CIV–CORE–[CIV].md for the entity (if present).
+   Use for axiom and constraint awareness; STATE output must not
+   contradict CORE axioms.
+
+2. SEARCH: Survey current news and observable developments affecting
    the entity. Focus on the period since the last STATE session or
    evidence update.
 
-2. MEM SCAN: Before identifying decision points, read
+3. MEM SCAN: Before identifying decision points, read
    MEM–RELEVANCE–[CIV].md for the entity. Based on the topics
    surfaced in step 1, identify which analytical dimensions are
    in play (e.g. attrition/endurance, fiscal constraint, morale
@@ -866,7 +958,7 @@ PROCEDURE:
    STATE file's Decision-Relevant History (Section VII) and
    Material Options evidence updates as the minimum MEM scan.
 
-3. IDENTIFY: Select the 3 most important specific decisions the
+4. IDENTIFY: Select the 3 most important specific decisions the
    entity's leadership faces. Each decision must be:
    • A concrete choice between identifiable paths (not an abstract
      strategic orientation)
@@ -876,7 +968,7 @@ PROCEDURE:
      decisions should span different domains or constraints, not
      cluster on a single axis
 
-4. REVEALED PREFERENCE CHECK: Before deepening, check whether
+5. REVEALED PREFERENCE CHECK: Before deepening, check whether
    the entity has faced a structurally analogous decision before.
    Consult the STATE file (Material Options, evidence updates),
    MEM corpus, and ARC–DECISION–POINTS record for precedents.
@@ -889,12 +981,12 @@ PROCEDURE:
    leadership chose verbal condemnation without hardware transfer."
    If no precedent exists, state "No analogous precedent found."
 
-5. FRAME: For each decision, name the specific choice in plain
+6. FRAME: For each decision, name the specific choice in plain
    language. Frame it as the leadership experiences it — with the
    constraints they face, not the constraints an outside observer
    would impose.
 
-6. ANALYSE: Apply all three analytical perspectives to each decision.
+7. ANALYSE: Apply all three analytical perspectives to each decision.
    The initial presentation must be SHORT AND CONCISE — 2-3 sentences
    per decision, identifying:
    • The concrete choice
@@ -930,7 +1022,7 @@ PROCEDURE:
    This surfaces the decision architecture — not just three
    independent choices but the structure connecting them.
 
-7. DEEPEN (user-driven): The user selects a decision point for
+8. DEEPEN (user-driven): The user selects a decision point for
    detailed analysis. Only then apply the full analytical treatment:
    • Three perspectives elaborated (power, legitimacy, liability)
    • Grounded in STATE file: Material Options, binding constraints,
@@ -1881,12 +1973,15 @@ DIRECTIONALITY:
 • SCHOLAR's historical patterns inform STATE's analytical framework
   (via Decision-Relevant History and sync command)
 • STATE's current-events analysis does NOT flow back into SCHOLAR
-  (SCHOLAR only learns from historical analysis)
-• The present becomes history eventually, but SCHOLAR does not
-  process it until it does
-• Sync is one-way: "sync state to scholar" updates STATE's
-  historical-pattern foundation; it never moves current-events
-  learning backward into SCHOLAR
+  except via explicit **harvest** or **harvest session** command
+  (Section XIV-B). No other transfer into Scholar learn mode is
+  permitted.
+• The present becomes history eventually; harvest is the gate
+  through which STATE session output may enter Scholar as learning
+• Sync ("sync state to scholar") updates STATE from SCHOLAR/CORE/
+  DOCTRINE; harvest ("harvest" / "harvest session") is the only
+  command that transfers information from STATE session into
+  Scholar learn mode
 
 ────────────────────────────────────────────────────────────
 XIII. COMPLETENESS AUDIT CHECKLIST
@@ -1927,11 +2022,21 @@ XIV. SYNC PROTOCOL
 ────────────────────────────────────────────────────────────
 STATE files are derived from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE,
 and MEM files. When these sources are updated, STATE may become
-stale.
+stale. Sync is one-way: STATE is updated from these sources.
+
+**Transfer into Scholar:** The **only** way to transfer information from
+STATE mode into SCHOLAR (learn mode) is the **"harvest"** or **"harvest
+session"** command. STATE does not write back to SCHOLAR, CORE, or
+DOCTRINE except via explicit harvest. See Section XIV-B (Harvest
+Protocol). Cursor rule: cmc-state-scholar-harvest.
+
+Enforcement: When the user issues "sync state to scholar" (or
+equivalent), the system MUST follow the SYNC PROCEDURE below. Cursor
+rule: cmc-state-scholar-sync.
 
 SYNC MECHANISM:
 • No automatic triggers or flags
-• User manually issues "sync state to scholar" command
+• User manually issues "sync state to scholar" command (or equivalent)
 • System compares current source versions to those in the STATE
   file's Source Versions block
 • System identifies changes since last sync that are relevant to
@@ -1968,6 +2073,31 @@ SYNC PROCEDURE:
 7. Update Source Versions block and State Log
 
 ────────────────────────────────────────────────────────────
+XIV-B. HARVEST PROTOCOL (STATE → SCHOLAR LEARN)
+────────────────────────────────────────────────────────────
+**Exclusive gate:** Only the **"harvest"** or **"harvest session"**
+command in STATE mode may transfer information into SCHOLAR (learn
+mode). No other mechanism may write STATE session output into
+CIV–SCHOLAR. This preserves a single, user-controlled gate for
+present-oriented learning to enter the Scholar ledger.
+
+Trigger: User issues "harvest" or "harvest session" (or equivalent)
+while in STATE mode, for the entity in focus.
+
+Harvest procedure:
+1. Identify the STATE session output to be harvested (e.g. decision-
+   point findings, pattern audit results, revealed-preference
+   updates, doctrine-check insights, forward-projection summaries).
+2. Propose specific additions to CIV–SCHOLAR–[CIV] in a form
+   appropriate to that file (e.g. ENTRY, synthesis candidate, RLL
+   proposal, or pattern note per Scholar template structure).
+3. Present proposed additions to the user; apply only after approval.
+4. Record in the STATE file (e.g. State Log or session activity
+   record) that a harvest was performed and what was transferred.
+
+Cursor rule: cmc-state-scholar-harvest.
+
+────────────────────────────────────────────────────────────
 XV. VERSIONING
 ────────────────────────────────────────────────────────────
 Per Version Decoupling (CMC 3.1+):
@@ -1977,5 +2107,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–TEMPLATE v1.8
+END OF FILE — CIV–STATE–TEMPLATE v1.12
 ────────────────────────────────────────────────────────────

@@ -3,14 +3,16 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 
 Status: ACTIVE
-Version: 2.0
+Version: 2.1
+Supersedes: MEM–GERMANIA–WEIMAR v2.0
+Upgrade Type: CONTENT · SETTLEMENT-DESIGN INHERITANCE; CONGRESS–VIENNA CONNECTION
 Civilization: GERMANIA
 Subject: Weimar Republic (Democratic Experiment and Inflationary Collapse)
 Dates: 1918–1933 AD
 Class: MEM (Civilizational Memory) · REGIME Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v2.2
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,800
 
 ────────────────────────────────────────────────────────────
@@ -67,6 +69,16 @@ representation, and a strong presidency.
 > [ERC: SECONDARY]
 
 The Republic inherits defeat; it is blamed for causing it.
+
+SETTLEMENT-DESIGN INHERITANCE:
+Weimar was born from a peace that **excluded** Germany from the table—
+no Talleyrand equivalent, no inclusion of the defeated as stakeholder.
+The Treaty of Versailles imposed war guilt, reparations, and territorial
+loss without giving Germany a voice in designing the settlement or a
+narrative that made acceptance honorable. The "November criminals"
+bore domestic liability for a peace unnarratable as legitimate—the
+inverse of the Vienna principle (bind the defeated by including them).
+See MEM–GERMANIA–CONGRESS–VIENNA §VII (Versailles contrast); ENTRY 0030.
 
 ────────────────────────────────────────────────────────────
 III. WILHELMINE INSTITUTIONAL INHERITANCE
@@ -305,6 +317,11 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   Dependency: Anschluss prohibition; parallel crisis
   Breaks if removed: German-Austrian dimension missing
 
+• MEM–GERMANIA–CONGRESS–VIENNA
+  Dependency: Versailles as anti-Vienna—no Path A, no inclusion of
+  defeated Germany, no honorable acceptance path. Breaks if removed:
+  Why Weimar inherited illegitimate peace loses settlement-design precedent.
+
 GEO–MEM CONNECTIONS:
 
 • MEM–GERMANIA–GEO–RHINE
@@ -359,5 +376,5 @@ SECONDARY SOURCES (ARC-GERMANIA COMPLIANT):
   University Press, 1993.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–WEIMAR v2.0
+END OF FILE — MEM–GERMANIA–WEIMAR v2.1
 ────────────────────────────────────────────────────────────

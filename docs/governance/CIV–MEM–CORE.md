@@ -515,6 +515,12 @@ CIV–DOCTRINE–[NAME]
 • Frozen synthesis outputs
 • Must derive explicitly from SCHOLAR
 
+ENTITY FOCUS: CORE, CIV–STATE–[CIV], and CIV–SCHOLAR–[CIV] re-anchor
+together on civilization/entity switch. The previous entity's CORE,
+STATE file, and SCHOLAR file cease to govern when the entity under
+analysis changes. Load per mode (STATE: CORE + STATE file + MEMs;
+SCHOLAR: CORE + SCHOLAR file + MEMs as needed). See CMC–BOOTSTRAP.
+
 ────────────────────────────────────────────────────────────
 IV. GLOBAL GOVERNANCE RULES
 ────────────────────────────────────────────────────────────

@@ -8,6 +8,83 @@ Last Updated: 2026-02-11
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00003. HARVEST — EXCLUSIVE GATE FOR STATE → SCHOLAR LEARN
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: PROCEDURAL (STATE–SCHOLAR TRANSFER)
+
+CHANGES:
+• Only **"harvest"** or **"harvest session"** command in STATE mode
+  may transfer information into SCHOLAR (learn mode). No other
+  mechanism permitted.
+• CIV–STATE–TEMPLATE v1.11 → v1.12: Section XIV-B (Harvest Protocol)
+  added with trigger, procedure (identify → propose → approve →
+  record), and cursor-rule reference. Section XII (Directionality)
+  updated to state harvest as exclusive gate.
+• New cursor rule: cmc-state-scholar-harvest.mdc (trigger, procedure,
+  no automatic harvest).
+• cmc-state-scholar-sync.mdc: "One-Way Only" qualified — transfer
+  into Scholar only via harvest.
+• CMC–BOOTSTRAP: SYNC paragraph updated to add Harvest (only way
+  STATE → Scholar learn).
+• CIV–STATE–RUSSIA, CIV–SCHOLAR–RUSSIA: foundational perspective
+  text updated to cite harvest as sole transfer path.
+
+ORIGIN:
+User specified that only "harvest" / "harvest session" command in
+STATE mode can transfer information into Scholar learn mode.
+
+────────────────────────────────────────────────────────────
+00002. COGNITIVE EXOSKELETON — DESIGN OBJECTIVE AND CONSTRAINTS
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: GOVERNANCE (STATE PURPOSE, TERMINOLOGY)
+
+CHANGES:
+• CIV–STATE–TEMPLATE v1.10 → v1.11. Section I (PURPOSE & AUTHORITY)
+  now includes subsection "COGNITIVE EXOSKELETON: DESIGN OBJECTIVE
+  AND CONSTRAINTS": beneficiary (principal and/or advisory
+  institution), design objectives (blind-spot reduction, frame
+  transparency, temporal compression), anti-goals (no oracle, no
+  hiding contradiction, no frame-independent truth, no single-point
+  dependency), and duty-of-competence clarification (completeness
+  across three perspectives, not exhaustive option list).
+• TERMINOLOGY–REGISTRY: CIV–STATE entry updated to state that the
+  exoskeleton "extends the principal's cognitive reach (options,
+  precedent, disconfirming evidence) without substituting for
+  judgment."
+
+ORIGIN:
+User asked for ways to improve the "cognitive exoskeleton for head
+of state" design objective. System proposed seven sharpenings;
+user approved drafting. Implemented in template Section I and
+registry.
+
+────────────────────────────────────────────────────────────
+00001. CORE / STATE / SCHOLAR RE-ANCHOR TOGETHER (ENTITY SWITCH)
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: PROCEDURAL (ENTITY FOCUS, LOAD RULES)
+
+CHANGES:
+• CORE, STATE, and SCHOLAR re-anchor together on civilization/entity
+  switch. When the entity under analysis changes, the previous entity's
+  CIV–CORE, CIV–STATE, and CIV–SCHOLAR cease to govern; load the new
+  entity's CORE and (per mode) STATE file or SCHOLAR file as needed.
+• Load per mode: STATE mode → CORE + STATE file + MEMs; SCHOLAR mode →
+  CORE + SCHOLAR file + MEMs as needed. No automatic load of all three
+  file types every time.
+• Propagated to: CMC–BOOTSTRAP (STATE CORE LOAD), cmc-state-mem-grounding,
+  cmc-scholar-mode, CIV–STATE–TEMPLATE (Section I entity focus),
+  CIV–SCHOLAR–TEMPLATE (XIII entity focus), CIV–SCHOLAR–PROTOCOL (header),
+  CIV–MEM–CORE (Section III after file-type list), CIV–CORE–TEMPLATE (Section I).
+
+ORIGIN:
+User asked whether SCHOLAR, STATE, and CORE should always load/unload
+together. Design: same entity anchors all three; on switch all three
+re-anchor; load only what the current mode needs.
+
+────────────────────────────────────────────────────────────
 00000. GATED SPIRAL AWARENESS RULE
 ────────────────────────────────────────────────────────────
 Date: 2026-02-11

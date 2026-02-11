@@ -338,11 +338,11 @@ INDUSTRIAL STABILITY / DISCIPLINED CONSTRAINT /
 OVERREACH RISK / EXIT-DRIFT / NEEDS VERIFICATION
 
 ────────────────────────────────────────────────────────────
-XXII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANIA v2.0)
+XXII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANY v2.0)
 ────────────────────────────────────────────────────────────
 Per CIV–DOCTRINE–TEMPLATE v2.1 Section VIII, this section mirrors
-verbatim the accepted doctrines from CIV–DOCTRINE–GERMANIA.
-CIV–DOCTRINE–GERMANIA remains the single source of truth.
+verbatim the accepted doctrines from CIV–DOCTRINE–GERMANY.
+CIV–DOCTRINE–GERMANY remains the single source of truth.
 
 DOCTRINE 01: COMPETENCE-DERIVED LEGITIMACY
 Germanic authority persists only while institutions deliver

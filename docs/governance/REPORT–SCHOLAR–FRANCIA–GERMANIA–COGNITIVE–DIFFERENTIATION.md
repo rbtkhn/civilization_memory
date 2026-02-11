@@ -89,7 +89,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 > Starting Knowledge: **ACCUMULATED** (from CIV–SCHOLAR file content)  
 > Authoritative Data Sources: ACTIVE  
 > • CIV–CORE–GERMANIA: Structural constraints and operational logic  
-> • CIV–DOCTRINE–GERMANIA: Frozen learning and hard constraints  
+> • CIV–DOCTRINE–GERMANY: Frozen learning and hard constraints  
 > …
 > **Civilizational Grammar: PRELOADED** (from frozen syntheses)  
 > **CIV–CORE Influence: ENABLED** (authoritative for structural constraints)  

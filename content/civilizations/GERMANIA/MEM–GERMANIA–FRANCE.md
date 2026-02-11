@@ -5,13 +5,14 @@ ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
 Version: 2.1
 Supersedes: MEM–GERMANIA–FRANCE v2.0
+Upgrade Type: CONTENT · PATH A ABSENT (1871); CONGRESS–VIENNA CONNECTION
 Civilization: GERMANIA
 Subject: France (Germanic Relations and Rivalry)
 Dates: 843 AD–present
 Class: MEM (Civilizational Memory) · POLITY Subclass
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v2.1
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,000
 
 ────────────────────────────────────────────────────────────
@@ -242,6 +243,18 @@ Germany annexed Alsace and part of Lorraine. The loss became
 France's permanent grievance; revanche defined French policy
 for forty years.
 
+SETTLEMENT DESIGN (PATH A ABSENT):
+The 1871 peace did **not** give France a Path A (inclusion of the
+defeated as stakeholder). No Talleyrand equivalent: France was
+excluded from designing the settlement; terms were imposed. German
+memory encodes 1871 as victory and "knowing when to stop"; French
+memory encodes it as humiliation and revanche—same event, divergent
+legitimacy stories. Domestic liability fell on French signatories;
+the outcome was unnarratable as honorable. Contrast 1815 (Congress
+of Vienna): defeated France was included, given great-power status
+and a stake; settlement was honorable to accept. See MEM–GERMANIA–
+CONGRESS–VIENNA §III, III.A; CIV–SCHOLAR–GERMANIA ENTRY 0030.
+
 ────────────────────────────────────────────────────────────
 IX. WORLD WAR I
 ────────────────────────────────────────────────────────────
@@ -412,6 +425,12 @@ SAME-CIVILIZATION CONNECTIONS (GERMANIA):
   for millennium.
   Breaks if removed: Geographic object of rivalry disappears; what they
   fought over unintelligible.
+
+• MEM–GERMANIA–CONGRESS–VIENNA
+  Dependency: Path A (inclusion of defeated France, 1815) vs 1871
+  (imposition, no Path A). Settlement-design contrast; why 1871 encoded
+  as revanche. Breaks if removed: Contrast between honorable and
+  dishonorable settlement loses precedent.
 
 GEO–MEM CONNECTIONS:
 

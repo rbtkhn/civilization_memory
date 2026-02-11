@@ -1,0 +1,45 @@
+---
+description: STATE–SCHOLAR sync — user-triggered file update from SCHOLAR/CORE/DOCTRINE
+alwaysApply: true
+---
+
+# STATE–SCHOLAR Sync Rule
+
+## Trigger
+
+When the user issues a **sync** command that clearly requests updating the STATE file from SCHOLAR (or from sources that include SCHOLAR), run the Sync Procedure. Recognized phrasings include:
+- "sync state to scholar"
+- "sync STATE to SCHOLAR"
+- "sync state file to scholar"
+- "sync STATE–[entity] to Scholar–[entity]" (e.g. "sync STATE–Russia to Scholar–Russia")
+- "run sync protocol" (in STATE context)
+
+If the entity is named (e.g. Russia, Germany), sync applies to that entity's STATE file. If not named, use the entity currently in focus for the session.
+
+## One-Way Only (Sync)
+
+Sync is **one-way**: STATE file is updated from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE, and MEM corpus. No content is written back into SCHOLAR, CORE, or DOCTRINE by the sync command. **Transfer into Scholar:** The only way to transfer information from STATE mode into SCHOLAR (learn mode) is the **"harvest"** or **"harvest session"** command (CIV–STATE–TEMPLATE §XIV-B; cursor rule: cmc-state-scholar-harvest).
+
+## Sync Procedure (MANDATORY)
+
+Follow **CIV–STATE–TEMPLATE §XIV (Sync Protocol)** in full:
+
+1. **Read Source Versions** from the STATE file (the section listing version of each source file it was last assessed against). If the STATE file has no Source Versions block, note that and proceed by comparing to current versions of all sources.
+
+2. **Compare** current versions of CIV–CORE–[CIV], CIV–SCHOLAR–[CIV], CIV–DOCTRINE–[CIV], and (as needed) MEM corpus to the versions recorded in the STATE file.
+
+3. **Identify substantive changes** since last sync: new or updated RLLs, new or revised doctrines, revised syntheses, new MEMs with pattern relevance to material options or Decision-Relevant History.
+
+4. **Assess impact**: Do any changes affect material option reasoning, linchpin assumptions, binding constraints, stability indicators, or cross-entity links? If the template's Doctrine Validity Check (Step 4b) is specified, run it: for each active doctrine, cross-reference Hard Constraints against current stability indicators and evidence; flag any Hard Constraint that may be activating.
+
+5. **Propose specific updates**: List concrete edits to the STATE file (section, paragraph, or bullet; before/after or insert text). Do not apply edits without user approval.
+
+6. **Output to user**: Present (a) summary of source changes found, (b) impact assessment, (c) proposed STATE file updates with clear section references, (d) recommended updates to the Source Versions block and State Log. Ask for approval before modifying the STATE file.
+
+7. **Apply only after approval**: If the user approves, apply the approved updates and update the Source Versions block and State Log. If the user approves only some updates, apply only those.
+
+## No Automatic Sync
+
+Sync runs only when the user explicitly requests it. There are no automatic triggers or scheduled syncs.
+
+Reference: CIV–STATE–TEMPLATE §XIV (Sync Protocol); CMC–BOOTSTRAP (SYNC: STATE reads from SCHOLAR...); cmc-state-mem-grounding (SCHOLAR load in STATE mode).

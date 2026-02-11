@@ -4,7 +4,7 @@ Civilizational Memory Codex · Governance Document
 Governed by: CMC 3.2
 Status: ACTIVE · CANONICAL
 Created: February 2026
-Last Updated: 10 February 2026
+Last Updated: 11 February 2026
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE
@@ -39,7 +39,7 @@ the system's terms of art.
 | CIV–CORE | Civilization core engine | Houses axioms, diagnostics, constraint gates. "Civilization file" doesn't capture that it's an engine, not a description. |
 | CIV–SCHOLAR | Scholar learning ledger | Learning ledger with structured entries, syntheses, RLL proposals, and confidence levels. "Learning file" undershoots the governance. |
 | CIV–DOCTRINE | Doctrine registry | Frozen synthesis registry with evidence gating. The frozen status and evidence requirement make this a specific governed object. |
-| CIV–STATE | State file | Decision-support file that serves as cognitive exoskeleton for the head of state. Distinct temporal orientation (present), register, and audience from SCHOLAR. Renamed from CIV–COUNSEL (2026-02-11). |
+| CIV–STATE | State file | Decision-support file that serves as cognitive exoskeleton for the head of state: extends the principal's cognitive reach (options, precedent, disconfirming evidence) without substituting for judgment. Distinct temporal orientation (present), register, and audience from SCHOLAR. Renamed from CIV–COUNSEL (2026-02-11). |
 | CIV–INDEX | Index file | Registration file. Self-explanatory as file-type name. |
 | CIV–ARC | ARC file | Per-civilization academic reference canon. Self-explanatory as file-type name. |
 

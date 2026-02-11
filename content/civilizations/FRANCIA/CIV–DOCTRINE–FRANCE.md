@@ -1,23 +1,29 @@
-CIV–DOCTRINE–FRANCIA — v3.0
+CIV–DOCTRINE–FRANCE — v3.0
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Civilization: FRANCIA
+Entity: France (state)
+Civilization: FRANCIA (source corpus)
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–FRANCIA (Explicit Acceptance Only)
 Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–FRANCIA v2.0+
 Derived from: CIV–DOCTRINE–TEMPLATE v3.0
-Supersedes: CIV–DOCTRINE–FRANCIA v1.2
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–DOCTRINE–FRANCIA v1.2 (renamed: doctrine governs state action)
+Upgrade Type: ALIGNMENT · RENAME (FRANCIA→FRANCE) · CORE v3.0 CONSOLIDATION
 Last Update: February 2026
 Word Count: ~1,220
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-This file is the **exclusive registry of accepted French
-civilizational doctrines**.
+This file is the **exclusive registry of doctrines that guide and
+govern the actions of the French state**.
+
+Doctrine guides state action; civilizations are not unified actors
+and do not "follow" doctrine. The state (France) is the actor that
+is guided by these doctrines. The doctrines are derived from the
+FRANCIA civilizational corpus (CIV–SCHOLAR–FRANCIA, MEMs).
 
 It contains:
 • Doctrines explicitly frozen in CIV–SCHOLAR–FRANCIA
@@ -32,9 +38,10 @@ This file:
 • Does NOT evolve autonomously
 
 Authority Flow:
-CIV–MEM–CORE → CIV–CORE–FRANCIA → DIB–FRANCIA → CIV–DOCTRINE–FRANCIA
+CIV–MEM–CORE → CIV–CORE–FRANCIA → DIB–FRANCIA → CIV–DOCTRINE–FRANCE
 
-Only doctrines listed here may be treated as **authoritative**.
+Only doctrines listed here may be treated as **authoritative** for
+the French state.
 
 ────────────────────────────────────────────────────────────
 II. DOCTRINE REGISTRY (AUTHORITATIVE)
@@ -68,7 +75,7 @@ Status: ACCEPTED · LOCKED · CANONICAL
 Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0002)
 
 Definition:
-When Francia’s universal claims exceed its material, fiscal,
+When Francia's universal claims exceed its material, fiscal,
 or military capacity, legitimacy decays faster than territory
 or institutions.
 
@@ -164,12 +171,12 @@ CIV–CORE–FRANCIA may reference doctrines from this file only.
 
 Required citation format:
 • Doctrine Name
-• CIV–DOCTRINE–FRANCIA version
+• CIV–DOCTRINE–FRANCE version
 • Doctrine number
 
 Example:
-“Per DOCTRINE 05 (LEGITIMACY–CAPACITY OSCILLATOR),
-external conflict frequency increases as divergence widens.”
+"Per DOCTRINE 05 (LEGITIMACY–CAPACITY OSCILLATOR),
+external conflict frequency increases as divergence widens."
 
 Silent doctrine usage is prohibited.
 
@@ -183,11 +190,12 @@ This file is LOCKED.
 • Deletions are forbidden
 
 Supersedes:
-• CIV–DOCTRINE–FRANCIA v1.1
-• CIV–DOCTRINE–FRANCIA v1.0
+• CIV–DOCTRINE–FRANCIA v1.1 (pre-rename)
+• CIV–DOCTRINE–FRANCIA v1.0 (pre-rename)
 
 v1.2: Typo correction — DOCTRINE 02 name "DIVERGENAD" → "DIVERGENCE".
+v3.0: Rename CIV–DOCTRINE–FRANCIA → CIV–DOCTRINE–FRANCE (doctrine governs state action; civilizations are not unified actors).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–FRANCIA — v3.0
+END OF FILE — CIV–DOCTRINE–FRANCE — v3.0
 ────────────────────────────────────────────────────────────

@@ -66,6 +66,10 @@ When user selects **A, B, C, D, E, F, or G** in LEARN mode, the response MUST ci
 
 **Exceptions:** Very short confirmations ("Understood." / "Proceeding."); session recap (H); when user asks to skip or go faster; when no related MEM exists and web search fails.
 
+## Civilization in Focus (CORE, SCHOLAR, STATE re-anchor together)
+
+When the civilization in focus changes (e.g. user switches to a different civ's MEMs or names a different civilization), re-anchor to the **new** entity. **CORE, STATE, and SCHOLAR re-anchor together:** the previous entity's CIV–CORE, CIV–STATE, and CIV–SCHOLAR cease to govern the current activity. In SCHOLAR mode, load CIV–CORE–[CIV] (if present) and CIV–SCHOLAR–[CIV] for the entity in focus when analyzing or writing for that civilization; load only what the mode needs (no need to load the STATE file unless the user requests it). Same entity anchors all three file types; on switch, all three follow the new entity.
+
 ## MEM Connection Awareness
 
 When a MEM file is actively being discussed:

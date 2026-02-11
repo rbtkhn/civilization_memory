@@ -1,27 +1,37 @@
-CIV–SCHOLAR–GERMANIA — v2.12
+CIV–SCHOLAR–GERMANIA — v2.13
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
-Version: 2.12
-Supersedes: CIV–SCHOLAR–GERMANIA v2.11
-Upgrade Type: ADDITIVE · COLLAPSE-TO-CLOSURE FRAMEWORK (TRI-FRAME)
+Version: 2.13
+Supersedes: CIV–SCHOLAR–GERMANIA v2.12
+Upgrade Type: ADDITIVE · SESSION NOTE (HARVEST ANALYSIS, VIENNA/PATH A, TALLEYRAND)
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
 Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: WRITE-LOCKED (append-only via explicit authorization)
 
-Last Update: January 2026
-Word Count: ~13,500
+Last Update: February 2026
+Word Count: ~13,600
 
 Governed by:
 • CIV–SCHOLAR–TEMPLATE v2.9 (CURRENT)
 • CIV–SCHOLAR–PROTOCOL v2.2 (CURRENT)
 • CIV–MEM–CORE v3.0
 • CIV–ARC–GERMANIA v1.1 (Pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v2.12 → v2.13) — SESSION NOTE: CLOSURE/SETTLEMENT TRI-FRAME CHAIN
+────────────────────────────────────────────────────────────
+Session 11 Feb 2026 (Scholar–Germania LEARN). ENTRY 0030 added: harvest
+analysis (Germany session harvest), Vienna/Path A vs arbiter-by-right
+(complementary encodings), 1815–1856–1871 force ratio and encodings,
+Talleyrand mechanism (channel, narrative, incentive). Validates
+SYNTHESIS 0021; no new RLL. Tri-frame chain on closure/settlement
+design registered in ENTRY 0030. Entry count: 29 → 30.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.11 → v2.12) — COLLAPSE-TO-CLOSURE FRAMEWORK (TRI-FRAME)
@@ -800,7 +810,7 @@ The Scholar operates with accumulated knowledge from prior learning sessions.
 Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR file content)
 Authoritative Data Sources: ACTIVE
 • CIV–CORE–GERMANIA: Structural constraints and operational logic
-• CIV–DOCTRINE–GERMANIA: Frozen learning and hard constraints
+• CIV–DOCTRINE–GERMANY: Frozen learning and hard constraints
 • CIV–SCHOLAR–GERMANIA: Prior learning entries and synthesis history
 • Loaded MEM Files: Priority layer for new learning and analysis
 
@@ -1244,6 +1254,35 @@ Primary Beliefs Extracted:
 • Post-1945 Germany internalized this lesson: NATO membership provides
   collective maritime security without independent naval capacity.
 Belief Status: FROZEN (→ SYNTHESIS 0019)
+
+ENTRY 0030
+Source: Session 11 Feb 2026 (Scholar–Germania LEARN); CIV–STATE–GERMANY
+  VII.A–B, VIII RUSSIA link; MEM–GERMANIA–CONGRESS–VIENNA; MEM–RUSSIA–
+  CONGRESS–VIENNA; MEM–RUSSIA–WAR–CRIMEAN; MEM–GERMANIA–FRANCE
+Ingest Type: Session Note / Tri-Frame Closure-Settlement Chain
+Primary Beliefs Extracted:
+• Germany session harvest (doctrine audit, forward projection, Vienna
+  refinement in RUSSIA link) is consistent with SYNTHESIS 0021 (Path A)
+  and Germania doctrine set; Scholar–Russia reading corrected and extended
+  the harvest (shared reference, divergent lesson; inclusion + outcome
+  not frameable as defeat).
+• Vienna encodes complementarily: German memory = inclusion of defeated
+  (France as stakeholder) for closure; Russian memory = Russia as arbiter
+  by right. Both depend on force ratio that makes inclusion or
+  non-exclusion rational.
+• 1815: Path A and arbiter-by-right both possible (France residual power,
+  Russia victorious). 1856: Russia overridden (defeated, coalition imposed).
+  1871: France overridden, no Path A (imposition, no Talleyrand equivalent).
+• Talleyrand made Path A operational: channel (invited Oct 1814), narrative
+  ("I speak in the name of Europe"), incentive (personal stake in Bourbon
+  order). Versailles/1871 = no Talleyrand = no honorable acceptance path.
+• Encodings: 1856 Russia = reform catalyst; 1871 France = revanche;
+  1871 Germany = "knowing when to stop." Tri-frame (legitimacy, power,
+  liability) applied throughout.
+Belief Status: SESSION NOTE (validates SYNTHESIS 0021; no new RLL)
+Tri-Frame Chain: Closure/settlement design — Vienna, Path A, Talleyrand,
+  1815–1856–1871 force ratio, encodings. Participants: Mercouris, Mearsheimer,
+  Barnes. Canonical location: this ENTRY.
 
 ────────────────────────────────────────────────────────────
 V. BELIEF SYNTHESIS LOG
@@ -2248,7 +2287,7 @@ The following doctrines from v1.2 have been converted to RLLs:
 • DOCTRINE v0.4 (Trauma-Encoded Strategic Learning) → RLL–GERMANIA–0004
 • DOCTRINE v0.5 (Disciplined Restraint with Mandatory Closure) → RLL–GERMANIA–0005
 
-CIV–DOCTRINE–GERMANIA remains authoritative for doctrine storage.
+CIV–DOCTRINE–GERMANY remains authoritative for doctrine storage.
 RLLs are the binding constraint mechanism within SCHOLAR operations.
 
 ────────────────────────────────────────────────────────────
@@ -2356,13 +2395,14 @@ SDI Status: ACTIVE
 ────────────────────────────────────────────────────────────
 VII.A SYNTHESIS COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-All ingested learning events up to ENTRY 0029 have been either:
+All ingested learning events up to ENTRY 0030 have been either:
 • Individually frozen into doctrine, or
 • Incorporated into a frozen synthesis without contradiction, or
-• Converted to bound RLLs per v2.0+ upgrades
+• Converted to bound RLLs per v2.0+ upgrades, or
+• Recorded as session note (ENTRY 0030) validating existing synthesis
 
 Current counts:
-• Learning entries: 29 (ENTRY 0001–0029)
+• Learning entries: 30 (ENTRY 0001–0030)
 • Frozen syntheses: 21 (SYNTHESIS 0001–0021)
 • Bound RLLs: 11 (RLL–GERMANIA–0001–0011)
 • Proposed RLLs pending binding: 5 (RLL–GERMANIA–0009.a, 0006.a, 0006.b, 0012, 0013)
@@ -2411,6 +2451,16 @@ COMMUNICATION PROTOCOL (MANDATORY — v2.9+):
 ────────────────────────────────────────────────────────────
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
+v2.13 changes (ADDITIVE · SESSION NOTE — CLOSURE/SETTLEMENT TRI-FRAME CHAIN):
+• ENTRY 0030 added (Session 11 Feb 2026 — harvest analysis, Vienna/Path A,
+  1815–1856–1871 force ratio and encodings, Talleyrand mechanism)
+• Entry count: 29 → 30
+• No new synthesis; validates SYNTHESIS 0021
+• Tri-frame chain on closure/settlement design registered in ENTRY 0030
+• Source: Scholar–Germania LEARN; CIV–STATE–GERMANY; MEM–GERMANIA–CONGRESS–
+  VIENNA; MEM–RUSSIA–CONGRESS–VIENNA; MEM–RUSSIA–WAR–CRIMEAN; MEM–GERMANIA–
+  FRANCE
+
 v2.12 changes (ADDITIVE · COLLAPSE-TO-CLOSURE FRAMEWORK):
 • SYNTHESIS 0020 added (Imperial Collapse Mechanics — tri-frame derivation)
 • SYNTHESIS 0021 added (Closure Legitimacy Paths — inclusion vs rupture)
@@ -2555,7 +2605,7 @@ CIV–SCHOLAR–GERMANIA v2.12 is declared:
 • ENTRY/SYNTHESIS/RLL FORMATS EMBEDDED — Structural templates for additions
 • FAILURE-MODE TAXONOMY COMPLETE (exit / termination / rupture)
 • CORRIDOR ORIENTATION LAW INTEGRATED (hinge vs single-corridor)
-• DOCTRINE MIRRORING COMPLIANT (CIV–DOCTRINE–GERMANIA v1.3)
+• DOCTRINE MIRRORING COMPLIANT (CIV–DOCTRINE–GERMANY v1.3)
 
 ────────────────────────────────────────────────────────────
 XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
@@ -2567,11 +2617,11 @@ XII. TEMPLATE REFERENCES (CANONICAL POINTERS)
 For governance, consult canonical templates only.
 
 ────────────────────────────────────────────────────────────
-XIII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANIA v1.3)
+XIII. MIRRORED DOCTRINE REGISTRY (CIV–DOCTRINE–GERMANY v1.3)
 ────────────────────────────────────────────────────────────
 Per CIV–DOCTRINE–TEMPLATE v2.1 Section VIII, this section mirrors
-verbatim the accepted doctrines from CIV–DOCTRINE–GERMANIA.
-CIV–DOCTRINE–GERMANIA remains the single source of truth.
+verbatim the accepted doctrines from CIV–DOCTRINE–GERMANY.
+CIV–DOCTRINE–GERMANY remains the single source of truth.
 Mirrored doctrines inform SCHOLAR learning without constraining it.
 
 DOCTRINE 01: COMPETENCE-DERIVED LEGITIMACY

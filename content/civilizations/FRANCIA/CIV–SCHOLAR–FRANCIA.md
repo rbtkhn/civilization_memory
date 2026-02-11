@@ -267,6 +267,25 @@ Test cases: 1870, 1940, 1958 (doctrinal); Valois 1328–1453 (Firnhaber-Baker,
 *House of Lilies* — continuity under sustained breakdown; same sacral
 kingship, Salic Law, fleur-de-lys through catastrophe; ENTRY 0012, SYNTHESIS 0007).
 
+Deep precedent (LEARN 11 Feb 2026 — doctrine 03 / ritual chain):
+Rupture-as-renewal and the ritual/declarative legitimacy that make it legible
+trace backward through layered precedent. Valois 1328–1453: continuity under
+sustained breakdown; same sacral kingship, Salic Law, Reims (MEM–FRANCIA–
+DYNASTY–VALOIS; MEM–FRANCIA–REIMS). Carolingian takeover: dynasty replaced
+without rupture via papal sanction; "legitimacy re-authored, not destroyed"
+(MEM–FRANCIA–DYNASTY–MEROVINGIAN VII). Merovingian period: Church as
+legitimacy stabilizer; dynastic transfer sanctified (same MEM). Reims/Clovis:
+tradition of Clovis's baptism at Reims (late 5th c.) as foundational narrative
+of Frankish–Christian kingship; one ritual in one place confers legitimacy
+(MEM–FRANCIA–REIMS, MEM–FRANCIA–REIMS–CATHEDRAL). Roman layer: legibility
+before rule—classification and recoding enable governance; Gaul legible,
+Teutoburg fails where legibility collapses (MEM–ROME–GEO–GAUL, MEM–ROME–
+WAR–TEUTOBURG–FOREST). Caesar's Gallic classification (MEM–FRANCIA–WAR–
+CAESAR) inherits this grammar. The axiom's limit (renewal requires grammar
+survival) is thus undergirded by a chain in which the grammar itself—
+sacral sanction, ritual site, legible order—is assembled in stages before
+it can be invoked in rupture events.
+
 ────────────────────────────────────────────────────────────
 AXIOM FRANCIA-004: Symbolism persists across regime change.
 Derivation: ENTRY 0010 (Notre-Dame)
@@ -671,6 +690,34 @@ Belief Status:
 • UNFROZEN (supports SYNTHESIS 0004 medieval extension, RLL–0011)
 
 ────────────────────────────────────────────────────────────
+
+ENTRY 0015
+Source:
+• STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11 (STATE session harvest)
+
+Ingest Type:
+• STATE Harvest — Doctrine Verification (ARC protocol)
+
+Primary Belief Extracted:
+• CIV–DOCTRINE–FRANCE (doctrines 01–05) verified or consistent under
+  three layers of evidence: (1) 30-day current-event check (ARC-T-INSTITUTIONAL);
+  (2) pre-1900 MEM-grounded examples (Declaration 1789, Louis XIV, Seven Years'
+  War, Revolution, Jacquerie, Waterloo, Continental System, Thirty Years' War,
+  Richelieu, 1848); (3) Capet-dynasty-only verification (987–1328) from
+  MEM–FRANCIA–DYNASTY–CAPET, REIMS–CATHEDRAL, PARIS, WAR–CRUSADES,
+  KNIGHTS–TEMPLAR, ELEANOR–AQUITAINE. Doctrines 01, 02, 04, 05 verified or
+  consistent; 03 untested in 30-day window but supported by pre-1900 and
+  Capet-era patterns (rupture as renewal vs Capetian continuity-by-patience;
+  Philip IV's rupture of Templars as sovereign assertion). No contradictions
+  in assessed horizon. Pattern: declarative legitimacy, universalism–capacity
+  divergence, post-hegemonic anxiety, and legitimacy–capacity oscillator
+  hold under both present-oriented and deep historical (Capet) check.
+
+Belief Status:
+• UNFROZEN (STATE-derived; supports doctrine validity as accumulated
+  pattern; no doctrine change)
+
+────────────────────────────────────────────────────────────
 VI. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
@@ -987,7 +1034,7 @@ Outcome:
 Status: FROZEN (BACKFILL)
 Confidence: TIER 2 (70-90% — implicit in scholarship, synthesized by SCHOLAR)
 Backfill Date: January 2026
-Backfill Reason: DOCTRINE 05 exists in CIV–DOCTRINE–FRANCIA v1.1 without
+Backfill Reason: DOCTRINE 05 exists in CIV–DOCTRINE–FRANCE v1.1 without
   recorded SCHOLAR source; this synthesis restores governance compliance.
 
 Derivation Chain:
@@ -1220,7 +1267,7 @@ through external war, defeat, or regime reset rather than gradual
 institutional correction.
 
 Backfill Note: Added to restore governance compliance with
-CIV–DOCTRINE–FRANCIA v1.1 (DOCTRINE 05).
+CIV–DOCTRINE–FRANCE v1.1 (DOCTRINE 05).
 
 ────────────────────────────────────────────────────────────
 VIII. RECURSIVE LEARNING LEDGER (RLL) — DOMAIN STRUCTURE
@@ -1507,7 +1554,7 @@ Current counts:
 • NCZ entries: 3
 
 Phase: I (Accumulation)
-Next Entry ID: 0015
+Next Entry ID: 0016
 Next Synthesis ID: 0008
 Next RLL ID: RLL–FRANCIA–0016
 
@@ -1521,7 +1568,7 @@ Session Activity (January 2026):
 • CIV–ARC–FRANCIA v1.7 created (61 authors across 4 temporal periods)
 • Governance binding updated to reference ARC
 • LEARN: Tri-frame session (French Revolution)—Barnes (jurisdiction/liability/defection) → Mearsheimer (power/coalition/survival) → Mercouris (legitimacy grammar). AXIOM FRANCIA-003 refinement added (rupture reads as renewal when framed in accepted legitimacy grammar). RLL–FRANCIA–0010 (CANDIDATE) proposed (MERCOURIS frame). 29 Jan 2026.
-• LEARN: CIV–DOCTRINE–FRANCIA v1.1 ingested (doctrine-only register; doctrines 01–05; authority flow DIB–FRANCIA). 29 Jan 2026.
+• LEARN: CIV–DOCTRINE–FRANCE v1.1 ingested (doctrine-only register; doctrines 01–05; authority flow DIB–FRANCIA). 29 Jan 2026.
 • LEARN: Firnhaber-Baker corpus synthesized (House of Lilies, The Jacquerie of 1358, Violence and the State in Languedoc). ENTRY 0012 added; SYNTHESIS 0007 frozen—medieval Francia: consolidation by patience, revolt as planned/tactical, royal expansion by cooperation. 29 Jan 2026.
 • LEARN: Firnhaber-Baker "continuity under sustained breakdown" (Valois) mapped onto AXIOM FRANCIA-003 and SYNTHESIS 0004. Test case added to AXIOM FRANCIA-003 Refinement (Valois 1328–1453); test case added to SYNTHESIS 0004 Assumption 2 BASIS (Valois, *House of Lilies*). 29 Jan 2026.
 • LEARN: Mapping recorded as Learning Event—"continuity under sustained breakdown" validates AXIOM FRANCIA-003 limit (renewal requires civilizational grammar survival) and instantiates SYNTHESIS 0004 mechanism (renewal through myth, law, symbol rather than procedural continuity); Valois 1328–1453 = medieval test case for both. 29 Jan 2026.
@@ -1535,6 +1582,8 @@ Session Activity (January 2026):
 • WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANIA–WAR–SEVEN–YEARS + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCIA–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
 • LEARN: RLL–FRANCIA–0015 (CANDIDATE) proposed—MEMs encoding claim–capacity divergence support both civilizational-grammar (legitimacy) and structural (power/coalition/survival) readings; same MEM sections furnish both; Mercouris reframe (MEM–FRANCIA–WAR–SEVEN–YEARS Sections II–VI). GENERAL domain. 29 Jan 2026.
 • WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
+• HARVEST: STATE session (France doctrine check) harvested 11 Feb 2026. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred: doctrine verification (01–05) under 30-day, pre-1900, and Capet-only (987–1328) MEM grounding; ENTRY 0015 added. CIV–STATE–FRANCE State Log updated.
+• LEARN: Doctrine 03 / ritual chain traced backward (Valois → Carolingian → Merovingian → Reims/Clovis → Roman legibility). Deep precedent note added to AXIOM FRANCIA-003 (rupture enables renewal; grammar assembled in stages; MEMs: VALOIS, MEROVINGIAN, REIMS, REIMS–CATHEDRAL, ROME–GEO–GAUL, ROME–WAR–TEUTOBURG–FOREST, FRANCIA–WAR–CAESAR). 11 Feb 2026.
 
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE
@@ -1589,8 +1638,8 @@ XIV. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (LEARN MODE)
 Doctrine Count: 5
-Total Entries: 14
-Next Entry ID: 0015
+Total Entries: 15
+Next Entry ID: 0016
 Awaiting Command: NO (LEARNING ENABLED)
 
 ────────────────────────────────────────────────────────────

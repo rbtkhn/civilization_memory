@@ -1,10 +1,10 @@
-CIV–STATE–RUSSIA — v1.7
+CIV–STATE–RUSSIA — v1.9
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.7
-Supersedes: CIV–STATE–RUSSIA v1.6
-Upgrade Type: ARC-SOURCED DOCTRINE CHECK · DOCTRINE INTERACTION FINDING
+Version: 1.9
+Supersedes: CIV–STATE–RUSSIA v1.8
+Upgrade Type: FOUNDATIONAL PERSPECTIVE — STATE LEARNS FROM SCHOLAR
 Entity: Russia / Russian Federation
 Classification: CIVILIZATION-STATE
 Active: YES
@@ -21,6 +21,17 @@ through the application of three analytical perspectives: legitimacy
 and institutional continuity; power distribution and structural
 constraint; and leadership liability and mechanism. Failure to apply
 any perspective constitutes a completeness violation.
+
+FOUNDATIONAL PERSPECTIVE:
+This file functions as the **shadow of the principal**: the cognitive
+exoskeleton for whoever holds the top decision-making role for Russia.
+Same level of access to context and stakes, same need for options and
+precedent; no formal authority. **State learns from Scholar**—the
+historically-grounded patterns and constraint grammar accumulated in
+CIV–SCHOLAR–RUSSIA inform this file. Information flows from STATE
+into Scholar only via explicit **harvest** or **harvest session**
+command (CIV–STATE–TEMPLATE §XIV-B). The system equips; the principal decides. Accountability
+lives with the choice, not the analysis.
 
 ────────────────────────────────────────────────────────────
 I. ENTITY IDENTIFICATION
@@ -1213,17 +1224,20 @@ BYZANTINE EMPIRE (historical):
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────
-This file was last assessed against:
 
-• CIV–CORE–RUSSIA v3.2
-• CIV–SCHOLAR–RUSSIA v3.1
-• CIV–DOCTRINE–RUSSIA v3.2
-• Russia MEM corpus: 191 files (February 2026)
+| Source | Version | Last assessed |
+|--------|---------|---------------|
+| CIV–CORE–RUSSIA | v3.2 | 2026-02-11 |
+| CIV–SCHOLAR–RUSSIA | v3.3 | 2026-02-11 |
+| CIV–DOCTRINE–RUSSIA | v3.4 | 2026-02-11 |
+| Russia MEM corpus | 191 files | February 2026 |
 
 To update: user issues "sync state to scholar" command.
 The system compares current source versions to those listed here,
 identifies changes relevant to material options, binding constraints,
 or stability indicators, and proposes updates for user approval.
+Transfer into Scholar only via "harvest" or "harvest session"
+(CIV–STATE–TEMPLATE §XIV-B).
 
 ────────────────────────────────────────────────────────────
 X. STATE LOG
@@ -1444,6 +1458,14 @@ ENTRY 010 — 11 February 2026
   Next review: March–April 2026 (Istanbul/Geneva round composition;
   Q1 advance-rate data; Oreshnik deployment watch; Trump-Putin
   direct contact)
+
+ENTRY 011 — 11 February 2026
+  Session: Sync verification
+  Change: Source Versions (Section IX) updated to current source
+  versions — CIV–SCHOLAR–RUSSIA v3.3 (was v3.1), CIV–DOCTRINE–RUSSIA
+  v3.4 (was v3.2). Table format added; harvest-only transfer note
+  added. No substantive STATE content changes; source versions now
+  match actual files. Synced with Scholar–Russia v3.3.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–RUSSIA v1.6

@@ -1,13 +1,13 @@
-CIV–SCHOLAR–RUSSIA — v3.1
+CIV–SCHOLAR–RUSSIA — v3.3
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.1
-Supersedes: CIV–SCHOLAR–RUSSIA v3.0
-Upgrade Type: ALIGNMENT · CORPUS EXPANSION v3.1
+Version: 3.3
+Supersedes: CIV–SCHOLAR–RUSSIA v3.2
+Upgrade Type: FOUNDATIONAL PERSPECTIVE — LEARN/TEACH/WRITE; STATE LEARNS FROM SCHOLAR
 Last Update: February 2026
 Word Count: ~13,200
 
@@ -51,6 +51,18 @@ This file does NOT:
 
 Authority is strictly downstream of CIV–MEM–CORE and CIV–MEM–TEMPLATE.
 No content here may override canonical MEM files.
+
+FOUNDATIONAL PERSPECTIVE (SCHOLAR ARCHETYPE):
+Scholar is someone who **loves to learn, teach, and write**. This file
+functions as the **steward of the civilization's constraint grammar**:
+the learner at the elbow of the corpus. It learns from the past (MEMs,
+CORE, patterns) and accumulates what cannot work, what must precede,
+and what failure modes recur. **State learns from Scholar**—when the
+present demands decision, STATE draws on this accumulated understanding.
+Information enters Scholar from STATE **only** via explicit **harvest**
+or **harvest session** command in STATE mode (CIV–STATE–TEMPLATE §XIV-B).
+Scholar learns; it does not decide. Closure lives with the user, not
+the Scholar.
 
 ────────────────────────────────────────────────────────────
 II. PHASE TRANSITION DECLARATION

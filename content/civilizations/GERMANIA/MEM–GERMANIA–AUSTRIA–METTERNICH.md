@@ -2,9 +2,9 @@ MEM–GERMANIA–AUSTRIA–METTERNICH — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · ARC-COMPLIANT
 Status: ACTIVE
-Version: 2.2
-Supersedes: MEM–GERMANIA–AUSTRIA–METTERNICH v2.1
-Upgrade Type: SIEMANN INTEGRATION
+Version: 2.3
+Supersedes: MEM–GERMANIA–AUSTRIA–METTERNICH v2.2
+Upgrade Type: CONTENT · PATH A AND TALLEYRAND MECHANISM CROSS-REFERENCE
 Civilization: GERMANIA
 Regime: HABSBURG / RESTORATION-IMPERIAL (1809–1848)
 Subject: Klemens von Metternich
@@ -12,7 +12,7 @@ Dates: 1773–1819–1848 (effective power period)
 Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 ARC Compliance: CIV–ARC–GERMANIA v1.1
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -93,6 +93,14 @@ Key features:
 • Great-power consultation
 • Collective suppression of revolution
 • Legitimist restoration
+
+The Congress's core innovation was **Path A** (SYNTHESIS 0021): inclusion
+of the defeated (France) as stakeholder. Talleyrand's role—channel
+(invited October 1814), narrative ("I speak in the name of Europe"),
+incentive (stake in Bourbon order)—made that inclusion operational.
+Metternich's restraint architecture and Talleyrand's inclusion mechanism
+together produced durable closure. See MEM–GERMANIA–CONGRESS–VIENNA §III,
+III.A; CIV–SCHOLAR–GERMANIA ENTRY 0030.
 
 Victory principle:
 Peace through mutual restraint among elites.
@@ -213,5 +221,5 @@ Secondary (ARC-Compliant):
 • Paul Schroeder, *The Transformation of European Politics*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–GERMANIA–AUSTRIA–METTERNICH v2.2
+END OF FILE — MEM–GERMANIA–AUSTRIA–METTERNICH v2.3
 ────────────────────────────────────────────────────────────

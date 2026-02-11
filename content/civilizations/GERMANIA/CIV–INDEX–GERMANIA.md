@@ -48,7 +48,7 @@ v2.1 changes:
 • All upgraded files now include: Subject Type Declaration,
   MEM CONNECTIONS (≥10 same-civ + ≥2 GEO), MEM BIBLIOGRAPHY,
   20% quote minimum, ARC compliance declaration, MEM Ingest Bootstrap
-• Fixed CIV–DOCTRINE–GERMANIA version: v1.5 → v1.4
+• Fixed CIV–DOCTRINE–GERMANY version: v1.5 → v1.4
 • Fixed CIV–ARC–GERMANIA version: v1.0 → v1.1
 
 Upgraded files:
@@ -98,7 +98,7 @@ II. CANONICAL GOVERNANCE FILES
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
   Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 
-• CIV–DOCTRINE–GERMANIA — v2.0
+• CIV–DOCTRINE–GERMANY — v2.0
   Status: ACTIVE · CANONICAL · LOCKED
   Template Version Used: CIV–DOCTRINE–TEMPLATE v3.0
 
@@ -297,7 +297,7 @@ XIV. INDEX PARITY & MIRROR STATUS
 Mirror Targets:
 • CIV–CORE–GERMANIA v2.0 — present
 • CIV–SCHOLAR–GERMANIA v2.7 — present
-• CIV–DOCTRINE–GERMANIA v1.4 — present
+• CIV–DOCTRINE–GERMANY v1.4 — present
 • CIV–ARC–GERMANIA v2.5 — present
 
 ────────────────────────────────────────────────────────────
