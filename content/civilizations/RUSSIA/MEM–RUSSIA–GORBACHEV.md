@@ -1,10 +1,10 @@
-MEM–RUSSIA–GORBACHEV — v3.0
+MEM–RUSSIA–GORBACHEV — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: (new file)
-Upgrade Type: ALIGNMENT · NEW MEM (PERSON)
+Version: 3.1
+Supersedes: MEM–RUSSIA–GORBACHEV v3.0
+Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: SOVIET (REFORM / DISSOLUTION)
 Subject: Mikhail Sergeyevich Gorbachev (Михаил Сергеевич Горбачёв)
@@ -130,6 +130,29 @@ Sequence:
 Gorbachev **presided over** dissolution; he did not will it. The memory
 function: reform without control of consequences.
 
+DOCTRINE 07 APPLICATION (CORRECTION MECHANISM ABSENCE):
+The August 1991 coup attempt is the late-Soviet correction-mechanism
+failure. The GKChP (State Committee on the State of Emergency) —
+comprising the Vice President, Defence Minister, KGB Chairman, and
+Interior Minister — attempted to correct what they perceived as
+sovereign dysfunction: Gorbachev's reforms exceeding the system's
+absorptive capacity. This was the most institutionally powerful
+correction attempt in Russian history — the conspirators held formal
+positions of authority, unlike the Guards officers of 1762 or 1801.
+Yet the correction failed, and its failure *accelerated* the collapse it
+was meant to prevent. The republics walked away; the centre lost all
+remaining authority; Gorbachev returned but was already irrelevant.
+The pattern confirms DOCTRINE 07's deepest finding: Russian correction
+mechanisms fail not only because they are improvised, but because by
+the time the elite acts, the institutional depth beneath the sovereign
+has already been exhausted — correction and collapse arrive
+simultaneously rather than sequentially. The August coup is
+structurally parallel to February 1917: institutional men acting too
+late, in a system already past the point where correction could
+preserve the framework.
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–NICHOLAS–II
+— parallel correction-failure pattern)
+
 ────────────────────────────────────────────────────────────
 VI. POLYPHONIC TENSION: CONTINGENT VS STRUCTURAL
 ────────────────────────────────────────────────────────────
@@ -169,6 +192,10 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Federal structure became exit mechanism when the center weakened.
 • Voluntary retreat from empire is read as loss, not peace.
 • Personal authority without institutional renewal is insufficient.
+• Correction-mechanism absence (DOCTRINE 07): the August 1991 coup was
+  the most institutionally powerful correction attempt in Russian history
+  — and it failed because the institutional depth beneath the sovereign
+  was already exhausted; correction and collapse arrived simultaneously.
 
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS (MANDATORY)
@@ -234,5 +261,5 @@ E. Legacy — reformer or dismantler
 F. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GORBACHEV v3.0
+END OF FILE — MEM–RUSSIA–GORBACHEV v3.1
 ────────────────────────────────────────────────────────────

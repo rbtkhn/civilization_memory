@@ -1,14 +1,14 @@
-CIV–STATE–RUSSIA — v1.6
+CIV–STATE–RUSSIA — v1.7
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.6
-Supersedes: CIV–STATE–RUSSIA v1.5
-Upgrade Type: OPPONENT CONSTRAINT ASSESSMENT · RELATIVE BINDING CONSTRAINT
+Version: 1.7
+Supersedes: CIV–STATE–RUSSIA v1.6
+Upgrade Type: ARC-SOURCED DOCTRINE CHECK · DOCTRINE INTERACTION FINDING
 Entity: Russia / Russian Federation
 Classification: CIVILIZATION-STATE
 Active: YES
-Last Updated: 10 February 2026
+Last Updated: 11 February 2026
 
 This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
@@ -419,6 +419,53 @@ OPTION A: Endurance Through Attrition
   Sources: Decision Points Session 006; Finance Ministry budget
   documents; ISW analysis; Moscow Times (Jan 2026).
 
+  EVIDENCE UPDATE 5 (February 2026 — ARC-sourced doctrine check):
+  A full doctrine check against ARC-listed sources produced a
+  SOURCE CONTRADICTION on the replacement-burn constraint.
+  Russian official sources (TASS, citing Putin and Rostec CEO
+  Chemezov) report substantial production growth: tank output up
+  5x since 2022; armoured vehicles +2.2x; IFVs +3.7x; >4,000
+  armoured vehicles delivered in 2024. ARC E/OFFICIAL sources
+  report production in multipliers and absolute output but never
+  disclose loss data or net replacement rates.
+  Western specialist sources (RUSI, ARC E/SPECIALIST — UK-based,
+  close to UK MOD) identify structural vulnerabilities: reliance
+  on foreign microelectronics, concentrated production nodes,
+  supply-chain dependencies. OSW (ARC E/SPECIALIST — Polish
+  government-funded) reports the first defence funding reduction
+  since the war, shrinking reserves, and limited capacity for
+  further spending growth.
+  The net replacement rate — the actual binding constraint
+  variable — is not independently verifiable from open sources.
+  Russian official sources do not publish loss figures; Western
+  analysts do not have access to production line data.
+  Casualty data is equally contradicted: Russia publishes no
+  aggregate figure; Mediazona (Russian independent, name-by-name
+  verification) confirms 153,000 named dead by Dec 2025 — a
+  verified floor, not a ceiling; Ukrainian General Staff claims
+  ~1.2M personnel losses (widely considered inflated).
+  Fiscal data converges across sources: the Kremlin-signed 2026
+  budget (TASS, ARC E/OFFICIAL) projects revenues 40.3T roubles,
+  expenditures 44.1T, deficit 3.786T. January 2026 alone posted
+  a 1.7T rouble deficit ($22.1B — TASS). CBR (ARC E/OFFICIAL)
+  data confirms overheating: key rate 16%, inflation 5.6% against
+  4% target. OSW projects the deficit widening beyond the budgeted
+  figure to 5.0–5.5T roubles.
+  Assessment: DOCTRINE 01 status is INDETERMINATE on the military
+  replacement question (source contradiction, unresolvable from
+  open sources) but CONFIRMED on the fiscal dimension (convergent
+  data from Russian official and Western specialist sources).
+  The fiscal binding constraint is the stronger analytical signal
+  because it is verifiable from both sides.
+  Direction: INDETERMINATE (military); UNFAVOURABLE AND
+  STEEPENING (fiscal). Confidence in military assessment: LOW.
+  Confidence in fiscal assessment: HIGH.
+  Sources: TASS (ARC E/OFFICIAL — Putin, Chemezov statements);
+  RUSI (ARC E/SPECIALIST — defence production analysis Dec 2025);
+  OSW (ARC E/SPECIALIST — 2026 budget commentary Dec 2025); CBR
+  (ARC E/OFFICIAL — monetary policy data); Mediazona (non-ARC,
+  ARC discovery flag — name-verified casualties).
+
 ────────────────────────────────────────────────────────────
 
 OPTION B: Negotiated Settlement With Minimum Viable Gains
@@ -495,6 +542,55 @@ OPTION B: Negotiated Settlement With Minimum Viable Gains
   still not met. The gap between positions remains very wide.
   Sources: CNN (25 Jan 2026); Foreign Policy (23 Jan 2026); AP News
   (Abu Dhabi); Kremlin press statement.
+
+  EVIDENCE UPDATE 2 (February 2026 — doctrine interaction / June
+  projection):
+  A doctrine check revealed that DOCTRINE 05 (fiscal constraint
+  favours restraint/settlement) and DOCTRINE 02 (unbuffered
+  personalism resists settlement) are pulling in opposite
+  directions — producing a structurally incoherent negotiating
+  posture.
+  Fiscal logic (DOCTRINE 05, status: HOLDS, HIGH confidence):
+  The fiscal constraint is steepening and converges across Russian
+  official and Western sources (CBR 16% rate, 5.6% inflation;
+  OSW deficit projection 5.0–5.5T roubles; January 2026 deficit
+  1.7T roubles in one month). The structural incentive to settle
+  is intensifying.
+  Personalist logic (DOCTRINE 02, status: WEAKENED, MODERATE-HIGH
+  confidence): The Defence Ministry purge dismantled the Shoigu
+  institutional bloc (Carnegie, Meduza — both ARC-listed — confirm
+  independently). Presidential "auditors" bypass institutional
+  chains (Carnegie). The last senior war sceptic (Kozak) was
+  removed (Meduza). Competing voices that historically produced
+  Russia's best diplomatic outcomes (cf. Panin's restraint
+  function in Catherine's quartet — MEM–RUSSIA–PANIN) have been
+  eliminated. The decision circle is narrower and optimises for
+  the leader's survival horizon, not the state's structural
+  interest.
+  Projection for June deadline: The system will likely engage
+  diplomatically (to manage the Trump relationship and buy fiscal
+  time — DOCTRINE 05 logic) while making no binding commitments
+  (because any concession frameable as weakness is personally
+  dangerous — DOCTRINE 02 logic). This matches the "Engage to
+  Outlast" pattern (Section VII) already identified and validated.
+  The June deadline lacks the forcing mechanism (military defeat)
+  that historically made externally-imposed timelines binding
+  (1856 Paris, 1905 Portsmouth).
+  Risk scenario: If the June deadline produces a hard choice —
+  accept terms or lose the Trump channel — DOCTRINE 02 predicts
+  the leadership may sacrifice the diplomatic channel rather
+  than accept frameable defeat. Revealed-preference hierarchy
+  (liability > structural > legitimacy) applies.
+  Direction: STRUCTURALLY MORE PLAUSIBLE (fiscal pressure
+  increasing) but OPERATIONALLY LESS LIKELY to produce binding
+  outcome (personalist resistance to concession). Net assessment:
+  Option B's binding constraint (mutually acceptable formula)
+  remains unmet. The doctrine interaction explains why: the
+  system that most needs settlement is the system least able to
+  accept it.
+  Sources: ARC-sourced doctrine check (Feb 2026); Carnegie
+  Politika (ARC E/RESEARCH); Meduza (ARC E/NEWS); TASS/CBR
+  (ARC E/OFFICIAL); OSW (ARC E/SPECIALIST).
 
 ────────────────────────────────────────────────────────────
 
@@ -693,7 +789,7 @@ during internal stress, a gap opens between what the state can do
 | Indicator | Status | Assessment |
 |-----------|--------|------------|
 | Ideological coherence | STABLE | Civilizational-sovereign narrative is functioning; no visible internal challenge to the regime's self-justification. The willingness to enter trilateral talks has not disrupted the domestic narrative — the leadership controls the framing. |
-| Elite cohesion | STRESSED | Cohesion holds while success narrative is maintained; prolonged stalemate increases defection calculation pressure. The first defence budget reduction since the invasion is a potential stress signal — if elites connected to the defence sector perceive declining resource allocation, defection calculation shifts. Not yet visible, but the structural condition for it has changed. |
+| Elite cohesion | STRESSED | Cohesion holds while success narrative is maintained; prolonged stalemate increases defection calculation pressure. The first defence budget reduction since the invasion is a potential stress signal — if elites connected to the defence sector perceive declining resource allocation, defection calculation shifts. ARC-sourced update (Feb 2026): Defence Ministry purge confirmed by Carnegie (ARC E/RESEARCH) and Meduza (ARC E/NEWS) independently. Shoigu network dismantled; Kozak (last senior war sceptic) removed; presidential auditors bypass institutional chains. Factional jockeying for redistributed rents producing "perform loyalty / undermine rivals" dynamic. Structural condition for defection has shifted further — not yet visible as actual defection, but institutional buffers are thinner. |
 | Popular legitimacy | STABLE | Domestic support sustained through narrative control and war framing; economic deterioration is the primary risk. Budget deficit and declining reserves have not yet translated into visible public discontent, but the fiscal trajectory is unfavourable. |
 | Institutional function | STRESSED | Wartime strain on institutional capacity; mobilisation and economic adaptation create friction. The 2026 budget deficit, shrinking reserves, and 25%+ revenue decline from oil and gas exports compound institutional strain. Financing continued operations at current tempo becomes structurally more difficult. |
 | Narrative control | STABLE | Information environment remains largely controlled domestically; the Abu Dhabi talks have been framed domestically as Russia negotiating from a position of strength. Simultaneous military escalation reinforces this framing. External narrative contested but not regime-threatening. |
@@ -840,16 +936,23 @@ PATTERN: Endurance Through Compression
   and 1941–45; it failed in 1905 and 1917 (when military strain
   triggered domestic revolution) and in 1991 (when internal
   legitimacy collapsed despite intact military capability).
-  Update: Defence production data shows near-term replacement is
-  being maintained (250 tanks, 1,100 IFVs, ~2,500 missiles/year,
-  250k shells/month planned). However, Soviet-era stockpiles are
-  projected to be largely exhausted by mid-2025, after which Russia
-  depends entirely on new manufacturing — and the defence sector
-  faces a 160,000-worker deficit with an aging workforce. The
-  endurance pattern's historical lesson applies: it works until the
-  replacement-consumption equation inverts, and the structural
-  conditions for that inversion are now visible on a 12-24 month
-  horizon.
+  Update (Feb 2026, ARC-sourced): SOURCE CONTRADICTION on
+  replacement capacity. Russian official sources (TASS/ARC
+  E/OFFICIAL) report tank output up 5x, armoured vehicles +2.2x,
+  >4,000 armoured vehicles delivered in 2024. Western specialist
+  sources (RUSI, OSW/ARC E/SPECIALIST) identify structural
+  ceilings: supply-chain dependencies, labour deficits, first
+  defence funding reduction. Net replacement rate unknowable from
+  open sources — Russian officials do not disclose loss data;
+  Western analysts lack production line access. The fiscal
+  dimension is the stronger signal: convergent data from both
+  sides (CBR 16% rate, 5.6% inflation; budget deficit steepening)
+  confirms structural fiscal strain. DOCTRINE 01 status:
+  INDETERMINATE on military replacement; CONFIRMED on fiscal
+  constraint. The endurance pattern's historical lesson applies:
+  it works until the replacement-consumption equation inverts —
+  but whether that inversion is approaching or distant cannot be
+  determined from available evidence.
 
 PATTERN: Buffer Zone Imperative
   Activation: HIGH
@@ -954,6 +1057,32 @@ PATTERN: Partnership Credibility Decay
   value proposition (to Iran, India, Turkey, and others) is under
   structural pressure from the personalist decision-quality
   distortion documented above.
+
+PATTERN: Doctrine Interaction — Fiscal vs Personalist Incoherence
+  Activation: HIGH (February 2026)
+  Source: CIV–DOCTRINE–RUSSIA Doctrines 02, 05; ARC-sourced
+          doctrine check (Feb 2026)
+  Relevance: DOCTRINE 05 (fiscal constraint) and DOCTRINE 02
+  (buffered autocracy) generate opposing prescriptions under
+  current conditions. Fiscal pressure structurally favours
+  restraint and settlement — confirmed at HIGH confidence by
+  converging Russian official and Western specialist data. The
+  personalism trajectory structurally resists settlement — the
+  leader cannot accept any outcome frameable as personal failure,
+  and the elimination of competing voices (Kozak removal, Shoigu
+  network dismantled, auditor mechanism bypassing institutions)
+  narrows the decision circle to survival-optimising actors.
+  The interaction produces structurally incoherent behaviour:
+  diplomatic engagement without binding commitment. This is not
+  strategic ambiguity — it is the observable signature of two
+  doctrinal forces pulling in opposite directions within the same
+  system. The "Engage to Outlast" pattern (below) is the
+  behavioural expression of this incoherence.
+  Discriminating signal: If fiscal pressure forces a genuine
+  concession (territorial flexibility language, ceasefire with
+  specific terms), DOCTRINE 05 has overridden DOCTRINE 02. If
+  a diplomatic channel is sacrificed rather than accepting
+  frameable defeat, DOCTRINE 02 has overridden DOCTRINE 05.
 
 PATTERN: Engage to Outlast
   Activation: HIGH (February 2026)

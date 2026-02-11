@@ -8,6 +8,151 @@ Last Updated: 2026-02-11
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00000. GATED SPIRAL AWARENESS RULE
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: PROCEDURAL SAFEGUARD (EPISTEMIC)
+
+CHANGES:
+• New cursor rule: cmc-gated-spiral-awareness.mdc
+  Encodes system self-awareness of the recursive loop between DOCTRINE
+  (lens), LEARN/STATE (finding), and WRITE (modify DOCTRINE). The loop
+  is by design; the user checkpoint is the gate; ARC is outside the
+  loop. Rule includes self-awareness obligation: when proposing doctrine
+  modifications, the system must note which doctrines governed the
+  analysis that produced the finding, and whether the finding is
+  frame-consistent (higher confirmation-bias risk) or frame-challenging.
+
+ORIGIN:
+Session traversed the full loop in one sitting: STATE–RUSSIA doctrine
+check (v3.2 → v3.3) → SCHOLAR LEARN (DOCTRINE 06 through Nicholas II,
+Rome, Ottoman Empire) → SCHOLAR WRITE (DOCTRINE 07 encoded, six MEMs
+enhanced, v3.3 → v3.4). User identified the recursive architecture;
+system analysed it; both concluded: gated spiral, not vicious circle.
+The residual risk — that the lens shapes the learning and the learning
+shapes the lens — is inherent and cannot be fully eliminated, only
+mitigated through transparency and existing safeguards.
+
+────────────────────────────────────────────────────────────
+0000. CIV–DOCTRINE–RUSSIA v3.4 — DOCTRINE 07 (CORRECTION MECHANISM ABSENCE)
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: CONTENT UPDATE (ADDITIVE)
+
+CHANGES:
+• CIV–DOCTRINE–RUSSIA upgraded from v3.3 to v3.4.
+• DOCTRINE 07 (CORRECTION MECHANISM ABSENCE): New doctrine. Encodes the
+  finding that Russian autocracy lacks an institutionalised mechanism for
+  correcting sovereign dysfunction from within the elite. Buffers
+  (DOCTRINE 02) absorb external shocks but cannot remove or replace a
+  ruler whose personal behaviour degrades the system. Cross-civilisational
+  comparative evidence: Rome's Praetorian correction (Caligula, ad hoc,
+  succeeded), Ottoman Janissary corrections (institutionalised, succeeded
+  repeatedly 1622–1807), Russia (improvised, failed — Nicholas II 1917).
+
+ORIGIN:
+SCHOLAR LEARN session traced DOCTRINE 06 (Fiscal-Personalist Incoherence)
+through Nicholas II's Duma oscillation (1905–1917), then compared elite
+self-policing across three civilisations (Rome, Ottoman, Russia). The
+session found that DOCTRINE 02's buffer function is one-directional —
+it addresses external shocks but not sovereign-generated dysfunction. The
+correction-mechanism absence explains why Russian fiscal-personalist
+incoherence is terminal rather than recoverable: correction arrives only
+after institutional depth is already exhausted.
+
+────────────────────────────────────────────────────────────
+000. CIV–DOCTRINE–RUSSIA v3.3 — DOCTRINE 02/04 REFINEMENT + DOCTRINE 06
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: CONTENT UPDATE (ADDITIVE)
+
+CHANGES:
+• CIV–DOCTRINE–RUSSIA upgraded from v3.2 to v3.3.
+• DOCTRINE 02 (BUFFERED AUTOCRACY): Added decision-quality distortion
+  mechanism to Operational Meaning — unbuffered personalism causes
+  decisions to optimise for the leader's survival horizon. Added Hard
+  Constraint: elimination of competing advisory voices degrades decision
+  quality. Source: MEM–RUSSIA–PANIN, CIV–STATE–RUSSIA v1.7.
+• DOCTRINE 04 (ELITE CAPACITY BOUND): Added purge-redistribution failure
+  mode to Operational Meaning — dismantling an institutional bloc and
+  redistributing rents produces factional competition, not cohesion,
+  even under active survival framing. Added Hard Constraint: purge-
+  redistribution without institutional reabsorption triggers factional
+  competition. Source: ARC-sourced doctrine check Feb 2026; Carnegie
+  Politika (ARC E/RESEARCH); Meduza (ARC E/NEWS).
+• DOCTRINE 06 (FISCAL-PERSONALIST INCOHERENCE): New doctrine. Captures
+  the interaction between DOCTRINE 02 and DOCTRINE 05 — fiscal pressure
+  demands settlement while personalist structure resists it, producing
+  diplomatic engagement without binding commitment. Source: CIV–STATE–
+  RUSSIA v1.7 Section VII; ARC-sourced doctrine check Feb 2026.
+
+ORIGIN:
+ARC-sourced doctrine check session (February 2026) revealed three gaps
+between existing doctrine definitions and analytical findings derived
+from multi-source evidence. All changes are additive refinements or a
+new doctrine — no definitions replaced, no doctrines deleted, no
+acceptance statuses changed. Consistent with "Supersession is additive
+only" rule.
+
+────────────────────────────────────────────────────────────
+00. ARC SOURCE COVERAGE RULE + STATE-RUSSIA v1.7
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: PROCEDURAL SAFEGUARD + CONTENT UPDATE
+
+CHANGES:
+• New cursor rule: cmc-arc-source-coverage.mdc
+  Requires consultation of multiple ARC source categories
+  before presenting evidence in STATE mode or doctrine checks.
+  Prevents one-sided citation of Western specialist sources
+  without consulting entity's own official/institutional data.
+• CIV–STATE–RUSSIA upgraded to v1.7:
+  - Evidence Update 5 added to Option A (Endurance Through
+    Attrition) with ARC-sourced findings and source contradiction
+    on replacement-burn constraint
+  - Evidence Update 2 added to Option B (Negotiated Settlement)
+    with DOCTRINE 05/02 interaction finding and June projection
+  - New pattern added to Section VII: Doctrine Interaction —
+    Fiscal vs Personalist Incoherence
+  - Stability Indicator (Elite cohesion) updated with ARC-sourced
+    purge evidence from Carnegie and Meduza
+  - Endurance pattern in Section VII corrected with source
+    contradiction and ARC attribution
+
+ORIGIN:
+Doctrine check session found the system cited Western specialist
+estimates as settled fact without consulting Russian official
+sources (TASS, Kremlin, CBR). Violated the source contradiction
+rule built into CIV–STATE–TEMPLATE. Corrected assessment
+consulted ARC sources across all categories and preserved
+contradictions where sources disagreed.
+
+────────────────────────────────────────────────────────────
+0. NEGATIVE CLAIM CORPUS CHECK
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: PROCEDURAL SAFEGUARD
+
+CHANGES:
+• New cursor rule: cmc-negative-claim-check.mdc
+• Requires MEM corpus search before asserting that a
+  civilisation lacks a quality, trait, tradition, or pattern
+• Applies to all analytical modes (SCHOLAR, STATE)
+• Specific protection against divergence analysis bias:
+  contrast-seeking suppresses counter-evidence
+
+ORIGIN:
+Session finding — divergence analysis of STATE-RUSSIA and
+STATE-GERMANY claimed "Russia's civilisational grammar has
+no category for voluntary self-restraint as strength." The
+MEM corpus contained four strong counter-examples (Panin,
+Kutuzov, Vienna, Nevsky) that were not consulted. Same bias
+suppressed German assertiveness evidence (Bismarck, Teutonic
+Order, Hanseatic League). Washington (MEM-ANGLIA-WASHINGTON)
+was also missed — the strongest case of personal restraint
+becoming institutional norm.
+
+────────────────────────────────────────────────────────────
 I. PURPOSE
 ────────────────────────────────────────────────────────────
 This file consolidates governance change history.

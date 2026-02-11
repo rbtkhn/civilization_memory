@@ -1,10 +1,10 @@
-MEM–RUSSIA–CATHERINE–GREAT — v3.1
+MEM–RUSSIA–CATHERINE–GREAT — v3.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.1
-Supersedes: MEM–RUSSIA–CATHERINE–GREAT v3.0
-Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section VII, Captain's Daughter)
+Version: 3.2
+Supersedes: MEM–RUSSIA–CATHERINE–GREAT v3.1
+Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
 Subject: Catherine the Great (Екатерина II)
@@ -131,6 +131,28 @@ Catherine’s legitimacy therefore operates on two planes:
 • Court-theatrical dominance through proximity, patronage, and fear
 
 Usurped authority must **overperform** to endure.
+
+DOCTRINE 07 APPLICATION (CORRECTION MECHANISM ABSENCE):
+Catherine's 1762 coup against Peter III is the most structurally
+revealing correction event in Russian history. It *succeeded* — Peter III
+was removed, and Catherine governed effectively for thirty-four years.
+But the correction was only possible because Catherine herself became the
+replacement. The Russian system had no institutional channel — no
+Praetorian body, no Janissary procedure, no constitutional mechanism —
+through which elites could remove Peter III and install a competent
+ruler. The Guards regiments acted, but they acted for Catherine
+personally, not through any institutional procedure. Catherine then
+built the advisory quartet (Panin–Potemkin) that DOCTRINE 02 cites as
+the model buffer — but crucially, the quartet was a *buffer against
+external shocks*, not a *correction mechanism for sovereign dysfunction*.
+When Catherine herself made strategic errors (the southern overcommitment
+after Panin's death), no institutional body could correct her. The
+quartet solved the execution problem but not the correction problem.
+The partnership with Potemkin could not be institutionalised; when he
+died (1791), the system lost its execution layer and had no mechanism
+to replace it. Catherine's reign thus illustrates both the *possibility*
+of correction (1762) and the *impossibility* of institutionalising it.
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–PANIN)
 
 ────────────────────────────────────────────────────────────
 III. PETRINE INHERITANCE & GOVERNANCE NORMALIZATION
@@ -364,6 +386,10 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Arbiters resolve commitment dilemmas through mortality, not decision.
 • Panin's system-diplomacy embodied statesman's wisdom (restraint, equilibrium, diplomacy over conquest); Catherine's southern commitment chose territory over that equilibrium—principle understood but overridden (MEM–RUSSIA–PANIN).
 • Post-partner phases (1791–1796) lack strategic drive—the machine loses its executor.
+• Correction-mechanism absence (DOCTRINE 07): the 1762 coup succeeded
+  because Catherine *was* the replacement, not because an institutional
+  mechanism existed; the quartet solved execution, not correction — when
+  Catherine herself erred, no body could correct her.
 
 ELITE OVERPRODUCTION & EXPANSION (v2.9 — RLL–RUSSIA–0010):
 • Catherine's expansion solved elite overproduction: war and conquest
@@ -454,5 +480,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v3.0
+END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v3.2
 ────────────────────────────────────────────────────────────

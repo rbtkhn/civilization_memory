@@ -1,10 +1,10 @@
-MEM–RUSSIA–STALIN — v3.0
+MEM–RUSSIA–STALIN — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: v2.8
-Upgrade Type: ALIGNMENT · ERICKSON VERBATIM (ARC–RUSSIA)
+Version: 3.1
+Supersedes: MEM–RUSSIA–STALIN v3.0
+Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: REVOLUTIONARY / INDUSTRIAL–SECURITY STATE (1924–1953)
 Subject: Joseph Vissarionovich Stalin
@@ -331,6 +331,27 @@ Absorption dynamics:
 Stalin died.
 The structure he built constrained all successors.
 
+DOCTRINE 07 APPLICATION (CORRECTION MECHANISM ABSENCE):
+Stalin represents the supreme modern case of correction-mechanism absence.
+No institutional body possessed the standing or capacity to correct
+sovereign dysfunction during his rule. The Politburo was terrorised; the
+military was decapitated (1937–38); the security organs answered to
+Stalin personally; the Party was his instrument. Decision-quality
+distortion (DOCTRINE 02) reached its extreme: Stalin's suppression of
+intelligence before Barbarossa (1941) produced catastrophic military
+outcomes that no internal actor could prevent, because every competing
+advisory voice had been eliminated. The system waited for biological
+death (1953) — the only "correction" was mortality. Post-Stalin, the
+Khrushchev removal (1964) represents the sole Soviet case of bloodless
+elite correction: the Politburo collectively voted to remove the General
+Secretary. But even this was improvised, not institutionalised — it
+produced no reusable precedent, no constitutional mechanism, and no
+protection against the next instance of sovereign dysfunction (Brezhnev
+stagnation ran uncorrected for eighteen years). The pattern confirms
+DOCTRINE 07: Russian correction is always ad hoc, never procedural.
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; cross-civilisational
+comparative — MEM–ROME–EMPIRE–CALIGULA, MEM–ROME–OTTOMAN–EMPIRE)
+
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -339,6 +360,10 @@ X. CONTINUITY INSIGHTS (RAW)
 • Personal authority enables compression but poisons succession.
 • Victory can retroactively legitimize atrocity.
 • Russia learned endurance by separating Stalin's methods from his extremity.
+• Correction-mechanism absence (DOCTRINE 07): no institutional body could
+  correct Stalin's dysfunction; the system waited for biological death;
+  Khrushchev's removal (1964) was the sole bloodless correction but
+  produced no reusable institutional precedent.
 
 POLYPHONIC TENSIONS (v2.8):
 • Fear drove policy, but structural necessity made fear rational.
@@ -439,5 +464,5 @@ J) Compliance & integrity audit (v2.8)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–STALIN v3.0
+END OF FILE — MEM–RUSSIA–STALIN v3.1
 ────────────────────────────────────────────────────────────

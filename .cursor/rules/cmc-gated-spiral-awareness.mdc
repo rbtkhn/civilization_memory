@@ -1,0 +1,84 @@
+---
+description: Gated Spiral Awareness — system self-awareness of the recursive loop between DOCTRINE, LEARN/STATE, and WRITE modes
+alwaysApply: true
+---
+
+# Gated Spiral Awareness
+
+The system operates inside a recursive loop. This loop is by design, not a bug. This rule ensures the system is aware of the loop it is inside.
+
+## The Three-Phase Loop
+
+```
+DOCTRINE (lens) → LEARN / STATE (finding) → WRITE (modify DOCTRINE)
+                                                     ↓
+                                            [USER CHECKPOINT]
+                                                     ↓
+                                          Modified DOCTRINE (lens) → next cycle
+```
+
+1. **DOCTRINE as lens:** Doctrines shape what questions are asked during LEARN and STATE analysis. They determine what patterns are looked for, what evidence is sought, and what gaps are visible.
+2. **LEARN / STATE as finding:** Analysis produces findings — including findings that the existing doctrines do not capture. These findings are doctrine-shaped: the questions that generated them were framed by the doctrines.
+3. **WRITE as modification:** Findings may be encoded as new doctrines or doctrine refinements. This modifies the lens that will shape the next cycle.
+
+The loop is **gated**: every doctrine modification requires user authorisation. The system cannot close the loop autonomously.
+
+## ARC Is Outside the Loop
+
+ARC (Academic Reference Canon) sources govern what evidence STATE and SCHOLAR can cite. But ARC is **one-directional**: it governs the system; the system does not modify it. Only the user manually adds sources to ARC. The system may flag discovery candidates, but the source does not enter ARC until the user acts.
+
+ARC is therefore not part of the recursive loop. It is an external constraint.
+
+## The Residual Risk
+
+The lens shapes the learning. Findings are constrained by the vocabulary of the doctrines that generated them. The system discovers what its analytical frame makes visible. A different set of doctrines would produce different questions and potentially different findings.
+
+This is not a failure — it is an inherent property of any analytical framework. But the system should be aware of it.
+
+**What mitigates the risk (but does not eliminate it):**
+- Negative Claim Corpus Check — forces search for counter-evidence before asserting absence
+- ARC Source Coverage — forces multi-category source consultation and contradiction surfacing
+- Cross-civilisational traversal (Option G) — applies a different civilisation's doctrinal frame, potentially surfacing what the home frame misses
+- Three-perspective analysis (Option D) — Mercouris, Mearsheimer, Barnes see different things; what one frame misses, another may catch
+
+**What does not mitigate the risk:**
+- The safeguards improve the *input phase* (better evidence, more counter-evidence) but do not break the *epistemic frame* (the questions are still doctrine-shaped)
+- The human checkpoint ensures governance control but does not guarantee the human sees outside the frame — the analysis the human authorises was itself frame-shaped
+
+## Self-Awareness Obligation
+
+When the system proposes a doctrine modification that was produced by a doctrine-governed analysis, it should note this to the user. Not as a warning — as transparency.
+
+**Format (when proposing doctrine changes):**
+
+> This finding was produced by analysis governed by [DOCTRINE X / DOCTRINE Y]. The questions that generated it were shaped by those doctrines. The finding is consistent with the existing analytical frame; it does not challenge it.
+
+OR:
+
+> This finding was produced by analysis governed by [DOCTRINE X] but contradicts or complicates [DOCTRINE Y]. The finding may represent genuine discovery rather than frame-confirmation.
+
+The distinction matters: findings that *extend* the existing frame (frame-consistent) carry higher confirmation-bias risk than findings that *complicate* it (frame-challenging).
+
+## The Control Architecture
+
+| Component | Role | Who controls |
+|---|---|---|
+| DOCTRINE | Lens (input) and constraint (output) | System reads; user authorises changes |
+| LEARN / STATE | Analysis within doctrinal frame | System executes; user directs |
+| WRITE | Doctrine modification | System proposes; user authorises |
+| ARC | Source governance | User only; system reads |
+| Safeguards | Evidence quality within frame | System applies automatically |
+| Human checkpoint | Loop gate | User; cannot be bypassed |
+
+## Self-Check
+
+- [ ] Am I aware that my current analysis is doctrine-shaped?
+- [ ] If proposing a doctrine change: have I noted which doctrines governed the analysis that produced the finding?
+- [ ] Is this finding frame-consistent (extends existing doctrines) or frame-challenging (complicates them)?
+- [ ] Have I applied available mitigations (Negative Claim Check, ARC Source Coverage, cross-civ traversal) to reduce frame-confirmation risk?
+
+## Origin
+
+This rule was created after a session (February 2026) that traversed the full loop: STATE–RUSSIA doctrine check → SCHOLAR LEARN (DOCTRINE 06 traced through Nicholas II, Rome, Ottoman Empire) → SCHOLAR WRITE (DOCTRINE 07 encoded, six MEMs enhanced). The session demonstrated both the loop's productivity (seven doctrines from five in one session) and its epistemic constraint (all findings were generated by doctrine-shaped questions). The user identified the loop architecture; the system analysed it; both concluded it is a gated spiral, not a vicious circle — but the gate is the user, and the user sees what the frame shows.
+
+Reference: CIV–DOCTRINE–RUSSIA v3.4 (session that traversed the loop); cmc-negative-claim-check.mdc; cmc-arc-source-coverage.mdc

@@ -1,0 +1,69 @@
+---
+description: ARC Source Coverage — requires consultation of multiple ARC source categories before presenting evidence in STATE mode or doctrine checks
+alwaysApply: true
+---
+
+# ARC Source Coverage Rule
+
+When presenting evidence in STATE mode or conducting doctrine checks, the system MUST consult ARC-listed sources across multiple categories before delivering an assessment. Uncritically citing sources from a single category — particularly Western specialist sources without Russian official data, or vice versa — violates the source contradiction protocol.
+
+## Trigger
+
+Any STATE mode activity that presents current-event evidence to support an analytical claim, including:
+- Doctrine checks (Pattern Audit, Sync Protocol)
+- Evidence Updates to Material Options
+- Stability Indicator assessments
+- Decision Points analysis
+- Free-form analytical output in STATE mode
+
+## Required Action
+
+Before presenting evidence on any factual claim, the system MUST:
+
+1. **Consult at least two ARC source categories** from the entity's CIV–ARC file. For Russia, the categories are:
+   - E/OFFICIAL (Kremlin, TASS, CBR, MFA, Duma)
+   - E/RESEARCH (Valdai, RIAC, Carnegie, PONARS, CSIS)
+   - E/NEWS (Reuters, Kommersant, Meduza, RBC, Novaya Gazeta)
+   - E/SPECIALIST (IISS, Janes, OSW, ISW, RUSI)
+
+2. **Include at least one source from the entity's own official/institutional category** where available. For Russia, this means consulting E/OFFICIAL or E/RESEARCH (Kremlin-adjacent) sources, not only Western analytical sources.
+
+3. **Present source attribution with ARC origin and editorial note** for every factual claim. Format: "(Source: [name], ARC–[CIV]-E/[SUB-TYPE]; Editorial note: [note from ARC file])".
+
+4. **Surface contradictions when sources disagree.** Do not silently prefer one source category. Present both claims with attribution. The decision-maker resolves; the system preserves the tension.
+
+## What This Prevents
+
+This rule was created after the system conducted a doctrine check on CIV–DOCTRINE–RUSSIA (February 2026) and presented Western specialist estimates (production rates, casualty figures) as settled fact without consulting Russian official sources (TASS, Kremlin, CBR) or noting that the claims were contested. The result was an analytically confident but one-sided assessment that violated the system's own source contradiction rule.
+
+Specific failures:
+- Tank production cited at "250–300 per year" (Western estimate) without noting Russian official claims of 5x growth and >4,000 armoured vehicles delivered
+- Casualty figures cited from Western government estimates without noting that Russia publishes no aggregate figure and that the verified floor (Mediazona) differs significantly from all estimates
+- Fiscal data available from Russian official sources (CBR, budget law) was not consulted in the first pass despite being the most reliable data category
+
+## Source Quality Hierarchy (Annotation, Not Resolution)
+
+When sources conflict, the system may annotate evidentiary quality differences — but annotation is not resolution:
+
+- **VERIFIED DATA**: Independently auditable figures (e.g. CBR interest rates, signed budget law figures, Mediazona name-verified counts)
+- **OFFICIAL CLAIMS**: Government-published figures without independent audit (e.g. Rostec production multipliers, Kremlin GDP projections)
+- **ANALYST ESTIMATES**: Think-tank or specialist assessments based on modelling, OSINT, or intelligence sources (e.g. IISS loss estimates, OSW deficit projections)
+- **ADVOCACY FRAMING**: Claims from sources with explicit policy positions (e.g. ISW operational assessments — "pro-Ukraine framing" per ARC editorial note)
+
+The system may note these quality differences. It may NOT use them to silently exclude a source category.
+
+## Interaction with Existing Rules
+
+- **cmc-state-mem-grounding.mdc**: This rule governs source coverage for current-event evidence. The MEM grounding rule governs historical evidence. Both apply in STATE mode.
+- **Source Contradiction (BINDING) in CIV–STATE–TEMPLATE**: This rule operationalises the template's contradiction requirement at the source-consultation stage — ensuring contradictions are discovered before they can be suppressed.
+- **cmc-negative-claim-check.mdc**: When an absence claim is made about current conditions ("Russia is not producing enough tanks"), the ARC source coverage rule requires consulting Russian official claims before asserting absence.
+
+## Self-Check
+
+- [ ] At least two ARC source categories consulted?
+- [ ] Entity's own official/institutional sources included?
+- [ ] Every factual claim attributed with source name, ARC origin, and editorial note?
+- [ ] Source contradictions surfaced (not silently resolved)?
+- [ ] Evidentiary quality differences annotated where relevant?
+
+Reference: ARC-sourced doctrine check session, February 2026; CIV–ARC–RUSSIA Category E; CIV–STATE–TEMPLATE SOURCE CONTRADICTION (BINDING).

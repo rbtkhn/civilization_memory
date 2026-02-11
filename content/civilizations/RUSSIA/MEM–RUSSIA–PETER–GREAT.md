@@ -1,10 +1,10 @@
-MEM–RUSSIA–PETER–GREAT — v3.1
+MEM–RUSSIA–PETER–GREAT — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.1
-Supersedes: MEM–RUSSIA–PETER–GREAT v3.0
-Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section IV, Bronze Horseman)
+Version: 3.2
+Supersedes: MEM–RUSSIA–PETER–GREAT v3.1
+Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
 Subject: Peter the Great (Пётр I)
@@ -430,6 +430,26 @@ Peter's failure to establish stable succession mechanisms—including
 the execution of his own son Alexei (1718)—created structural
 vulnerability that European powers would repeatedly exploit.
 
+DOCTRINE 07 APPLICATION (CORRECTION MECHANISM ABSENCE):
+The post-Petrine succession chaos (five rulers in thirty-seven years,
+each installed by palace coup — 1725, 1727, 1730, 1741, 1762) is the
+extended proof of correction-mechanism absence. Peter eliminated every
+independent institutional counterweight — the boyar elite through the
+Table of Ranks, the Church through the Holy Synod, the Streltsy through
+physical destruction. He built a system that "only giants could rule"
+(Montefiore) but provided no mechanism for removing rulers who were not
+giants. Peter's reign had no Panin-equivalent — no voice for system-
+restraint. When he died without a clear succession, the system had no
+institutional procedure for selecting or correcting the next ruler.
+The Guards regiments became the *de facto* correction mechanism — but
+this was improvised military intervention, not institutional procedure.
+Each coup was treated as a singular emergency, not as a system operating
+normally. The pattern confirms DOCTRINE 07: Russian systems produce
+correction only through ad hoc elite violence, never through
+institutional channels, because the sovereigns who built the systems
+destroyed the institutional bodies that might have corrected them.
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–PAUL–I)
+
 VIII.B MERIT OVER BIRTH
 ────────────────────────────────────────────────────────────
 Massie describes how Peter's choice of Catherine as successor
@@ -460,6 +480,11 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Survival logic can outpace dynastic absorption capacity.
 • Unstable succession becomes security vulnerability.
 • Peter's reign had no Panin-equivalent—no voice for system-restraint or equilibrium; the Petrine path is expansion and corridor control. Panin's later wisdom (MEM–RUSSIA–PANIN) offered an alternative (equilibrium, alliances) that Catherine would also override in the south; Peter thus anticipates the pattern of sovereign choosing expansion over restraint.
+• Correction-mechanism absence (DOCTRINE 07): Peter destroyed every
+  independent institutional counterweight and provided no succession
+  mechanism; the post-Petrine palace coups (1725–1762) were improvised
+  Guards interventions, not institutional corrections — each treated as
+  unprecedented rather than procedural.
 
 TEMPORAL COMPRESSION INSIGHTS (v2.9 — RLL–RUSSIA–0009/0010/0011):
 • Peter's coercive modernization exemplifies temporal compression as
@@ -561,5 +586,5 @@ K) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETER–GREAT v3.0
+END OF FILE — MEM–RUSSIA–PETER–GREAT v3.2
 ────────────────────────────────────────────────────────────

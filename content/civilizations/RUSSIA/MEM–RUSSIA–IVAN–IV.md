@@ -1,10 +1,10 @@
-MEM–RUSSIA–IVAN–IV — v3.0
+MEM–RUSSIA–IVAN–IV — v3.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–IVAN–IV v2.7
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–IVAN–IV v3.0
+Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM · UNBUFFERED MUSCOVITE AUTOCRACY
 Subject: Ivan IV “the Terrible” (Иван IV Грозный)
@@ -164,6 +164,26 @@ becomes policy.
 
 Autocracy detaches from correction mechanisms.
 
+DOCTRINE 07 APPLICATION (CORRECTION MECHANISM ABSENCE):
+Ivan IV is the *origin case* for Russian correction-mechanism absence.
+The Oprichnina destroyed the boyar elite that was the only body capable
+of constraining or replacing a dysfunctional sovereign. After 1565, no
+institutional actor possessed both the standing and the capacity to
+correct Ivan's behaviour from within. The Boyar Duma was subjugated;
+the Church was intimidated; the service nobility owed its status to Ivan
+personally. This triple elimination created the structural condition
+that DOCTRINE 07 encodes: when the sovereign *is* the source of system
+dysfunction, no internal mechanism exists to correct course. The Time of
+Troubles (1598–1613) was the downstream consequence — not merely a
+succession crisis, but the system's delayed response to a dysfunction
+that ran uncorrected for two decades because no correction mechanism
+existed. Cross-civilisational contrast: Rome's Senate retained
+sufficient institutional standing to validate Praetorian corrections;
+the Ottoman ulema retained religious authority independent of the sultan.
+Ivan eliminated all Russian equivalents.
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; cross-civilisational
+comparative — MEM–ROME–EMPIRE–CALIGULA, MEM–ROME–OTTOMAN–EMPIRE)
+
 ────────────────────────────────────────────────────────────
 VIII. SUCCESSION FAILURE VS SACRAL ENDURANCE (RLL–0005)
 ────────────────────────────────────────────────────────────
@@ -225,6 +245,10 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Removing buffers converts sovereignty into pathology.
 • Sacral legitimacy preserves identity, not institutions.
 • Ivan IV defines the upper bound of Muscovite rule.
+• Correction-mechanism absence (DOCTRINE 07): Ivan destroyed the only
+  bodies capable of sovereign correction — boyar elite, Church
+  independence, institutional councils — creating the structural
+  condition that persists across Russian civilisational history.
 
 Contradictions preserved without synthesis.
 
@@ -282,5 +306,5 @@ MANDATORY EIGHT-OPTION SET:
 User selects ONE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–IV v3.0
+END OF FILE — MEM–RUSSIA–IVAN–IV v3.1
 ────────────────────────────────────────────────────────────

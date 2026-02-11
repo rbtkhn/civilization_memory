@@ -1,10 +1,10 @@
-MEM–RUSSIA–PAUL–I — v3.0
+MEM–RUSSIA–PAUL–I — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–PAUL–I v2.7
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–PAUL–I v3.0
+Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Paul I (Павел I)
@@ -91,6 +91,24 @@ It signals:
 
 The Romanov system removes the ruler to preserve itself.
 
+DOCTRINE 07 APPLICATION (CORRECTION MECHANISM ABSENCE):
+Paul's assassination is the clearest Russian case of elite correction
+that *succeeded operationally* — the sovereign was removed, Alexander I
+took power, the system continued. But the correction required regicide
+because no institutional channel existed. Russian civilisational grammar
+provided no Praetorian mechanism (Rome), no Janissary procedure (Ottoman
+Empire) — only ad hoc violence by conspirators who had no formal standing
+to act. The correction worked; but it traumatized the successor
+(Alexander I carried the regicide burden for life) and produced no
+institutional memory that could be invoked next time. Each subsequent
+correction event — the Decembrists (1825, failed), the generals in
+February 1917 (too late) — was treated as unprecedented rather than
+procedural. The Russian system corrects only through improvisation, and
+improvisation arrives only after dysfunction has already damaged the
+institutional framework it was meant to preserve.
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–ROME–EMPIRE–CALIGULA,
+MEM–ROME–OTTOMAN–EMPIRE — cross-civilisational comparative)
+
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY ROLE
 ────────────────────────────────────────────────────────────
@@ -109,6 +127,9 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Elite fear erodes faster than elite loyalty.
 • Personal command destabilizes institutional continuity.
 • Autocracy without mediation invites elite violence.
+• Correction-mechanism absence (DOCTRINE 07): Paul's removal succeeded
+  but required regicide — no institutional correction channel existed;
+  the trauma constrained Alexander I and produced no reusable precedent.
 
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (v2.7)
@@ -174,5 +195,5 @@ H) Compliance & integrity audit (v2.7)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PAUL–I v3.0
+END OF FILE — MEM–RUSSIA–PAUL–I v3.1
 ────────────────────────────────────────────────────────────

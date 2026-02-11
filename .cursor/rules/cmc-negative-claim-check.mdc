@@ -1,0 +1,67 @@
+---
+description: Negative Claim Corpus Check — requires MEM corpus search before asserting a civilisation lacks a quality, trait, or tradition
+alwaysApply: true
+---
+
+# Negative Claim Corpus Check
+
+Before asserting that a civilisation lacks a quality, trait, tradition, or pattern, the system MUST search the relevant MEM corpus for counter-evidence.
+
+## Trigger
+
+Any claim of the form:
+- "Civilisation X has no tradition/category/pattern of Y"
+- "X's grammar lacks Y"
+- "X has no concept of Y"
+- "X cannot [do Y]" (where Y is a civilisational capacity)
+
+This includes softer variants ("X has no real tradition of...", "X's grammar contains no category for...").
+
+## Required Action
+
+Before asserting the claim, the system MUST:
+
+1. **Query the civilisation's MEM files** for evidence of Y.
+2. **Search both institutions and persons** — systems, laws, treaties, AND leaders, statesmen, or thinkers associated with Y.
+3. **Report the search result** in the analytical output. If counter-evidence is found, it must be visible, not silently consumed.
+
+## Outcome
+
+- **No evidence found:** Assert the claim.
+- **Evidence found:** Reformulate. Do NOT assert absence. Instead, state what the evidence shows — e.g.:
+  - "contains the category but has not sustained it"
+  - "contains the category but it is subordinate to [other pattern]"
+  - "contains the category in [specific historical periods] but not as a dominant tradition"
+
+## Rationale
+
+Absence claims are the most dangerous kind of analytical assertion. A presence claim ("X has a restraint tradition") can be proved with one example. An absence claim ("X has no restraint tradition") can be disproved with one example. The check ensures the system looks for that one example before committing to the claim.
+
+## Scope
+
+This rule applies in ALL analytical modes:
+- SCHOLAR (LEARN, WRITE, IMAGINE)
+- STATE
+- Any mode that produces civilisational claims
+
+## Known Failure Pattern
+
+This rule was created after the system claimed "Russia's civilisational grammar has no category for voluntary self-restraint as strength" during a divergence analysis (February 2026). The MEM corpus contained four strong counter-examples (Panin, Kutuzov, Vienna, Nevsky) that the system had already loaded but did not consult before asserting absence. The same bias suppressed evidence of German assertiveness (Bismarck, Teutonic Order, Hanseatic League) on the other side of the same analysis.
+
+Root causes identified:
+1. **Contrast-seeking override** — divergence analysis rewards sharpness, which suppresses nuance
+2. **Frequency confused with grammar** — "rarely wins" is not the same as "does not exist"
+3. **Perspective adoption** — the system adopted one civilisation's encoding while claiming symmetry
+
+## Interaction with Divergence Analysis
+
+When producing any comparative or divergence analysis, apply this check to EACH divergence claim about EACH civilisation before delivery. Divergence analysis has a specific structural vulnerability to this error because it rewards clean binaries.
+
+## Self-Check
+
+- [ ] Does the output contain any absence claim about a civilisation?
+- [ ] If yes: was the MEM corpus searched for counter-evidence?
+- [ ] If counter-evidence found: was the claim reformulated (not merely softened)?
+- [ ] If divergence analysis: was the check applied to both/all sides?
+
+Reference: Session finding, February 2026 — divergence analysis of STATE-RUSSIA and STATE-GERMANY.
