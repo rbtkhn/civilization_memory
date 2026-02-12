@@ -1,6 +1,6 @@
-MEM–FRANCIA–DYNASTY–CAROLINGIAN
+MEM–FRANCIA–DYNASTY–CAROLINGIAN — v1.1
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: FRANCIA
 Regime: IMPERIAL / POST-ROMAN RESTORATIVE (c. 751–987)
 Subject: Carolingian Dynasty
@@ -86,8 +86,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Empire can be restored symbolically before institutionally.
 • Francia internalizes Roman continuity through Carolingian mediation.
 • Fragmentation does not erase imperial memory.
+• Peak territorial extent did not predict durability: Carolingian dynasty
+  reached maximum extent under Charlemagne, then fragmented (Verdun 843);
+  the dynasty remembered as having "made France" (Capetian) ranked third by
+  extent—consolidation by patience, not maximum reach.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–CAROLINGIAN v1.0
+END OF FILE — MEM–FRANCIA–DYNASTY–CAROLINGIAN v1.1

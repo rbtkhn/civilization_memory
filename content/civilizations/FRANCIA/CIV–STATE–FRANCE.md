@@ -366,6 +366,7 @@ X. STATE LOG
 | 2026-02-11 | Sync verification: Source Versions (Section IX) updated to exact versions — CIV–SCHOLAR–FRANCIA v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–CORE–FRANCIA v2.0. STATE content aligned with CORE (axioms, diagnostics); doctrines flow via CIV–DOCTRINE–FRANCE from Scholar. No substantive source changes since file creation. |
 | 2026-02-11 | Harvest (STATE → Scholar): STATE session doctrine check harvested. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred to CIV–SCHOLAR–FRANCIA: ENTRY 0015 (doctrine verification under 30-day, pre-1900, Capet-only MEM grounding); Session Activity line. No doctrine or STATE content modified; harvest records learning from present-oriented session. CIV–STATE–TEMPLATE §XIV-B. |
 | 2026-02-11 | Rename: CIV–DOCTRINE–FRANCIA → CIV–DOCTRINE–FRANCE. Rationale: doctrine guides state action; civilizations are not unified actors. New file CIV–DOCTRINE–FRANCE.md created; all references updated (Scholar, STATE, doctrine check, CIV–CORE–ANGLIA); CIV–DOCTRINE–FRANCIA.md removed. Source Versions (Section IX): CIV–DOCTRINE–FRANCE v3.0. |
+| 2026-02-11 | Sync and index update: CIV–INDEX–FRANCIA updated — Section II (CANONICAL GOVERNANCE FILES) added: CIV–CORE–FRANCIA v2.0, CIV–SCHOLAR–FRANCIA v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–STATE–FRANCE v1.0, CIV–ARC–FRANCIA v3.0. FILE REGISTER renumbered to III, INDEX LOCK to IV. Source Versions (Section IX) confirmed current; no substantive STATE content changes. |
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–FRANCE v1.0

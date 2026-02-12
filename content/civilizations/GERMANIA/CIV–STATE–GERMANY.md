@@ -1068,6 +1068,16 @@ ENTRY 004 — 11 February 2026
   template, governance report); CIV–DOCTRINE–GERMANIA.md removed.
   Source Versions (Section IX): CIV–DOCTRINE–GERMANY v3.0.
 
+ENTRY 005 — 11 February 2026
+  Session: Sync and index update
+  Source: User request to sync and update INDEX–GERMANIA / INDEX–FRANCIA
+  Changes: CIV–INDEX–GERMANIA updated — Section II (CIV–SCHOLAR–GERMANIA
+  v2.13, CIV–DOCTRINE–GERMANY v3.0, CIV–STATE–GERMANY v1.1); MEM–GERMANIA–
+  CONGRESS–PARIS, MEM–GERMANIA–CONGRESS–VIENNA added to Section VIII;
+  Section XIV Mirror Targets set to current versions; total 127 MEM
+  objects. Source Versions (Section IX) confirmed current; no
+  substantive STATE content changes.
+
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–GERMANY v1.1
 ────────────────────────────────────────────────────────────

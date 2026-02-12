@@ -12,7 +12,7 @@ Dates: Roman era–present
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
-Total Registered Files: 126 MEM–GERMANIA objects
+Total Registered Files: 127 MEM–GERMANIA objects
 WORDCOUNT: ~1,250
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
@@ -94,13 +94,17 @@ II. CANONICAL GOVERNANCE FILES
   Lock Level: STRUCTURAL
   Template Version Used: CIV–CORE–TEMPLATE v3.0
 
-• CIV–SCHOLAR–GERMANIA — v2.12
+• CIV–SCHOLAR–GERMANIA — v2.13
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
   Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 
-• CIV–DOCTRINE–GERMANY — v2.0
+• CIV–DOCTRINE–GERMANY — v3.0
   Status: ACTIVE · CANONICAL · LOCKED
   Template Version Used: CIV–DOCTRINE–TEMPLATE v3.0
+
+• CIV–STATE–GERMANY — v1.1
+  Status: ACTIVE
+  Entity: Germany (state); doctrine and Scholar inform STATE; harvest-only transfer to Scholar.
 
 ────────────────────────────────────────────────────────────
 III. REGISTERED MEM FILES — PERSONS & FIGURES
@@ -212,6 +216,8 @@ VIII. REGISTERED MEM FILES — INSTITUTIONS & CIVIL STRUCTURES
 • MEM–GERMANIA–KONIGSBERG.md
 • MEM–GERMANIA–PAPACY.md
 • MEM–GERMANIA–TEUTONIC–ORDER.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
+• MEM–GERMANIA–CONGRESS–PARIS.md
+• MEM–GERMANIA–CONGRESS–VIENNA.md
 
 ────────────────────────────────────────────────────────────
 VIII.A. REGISTERED MEM FILES — URBAN NODES
@@ -296,8 +302,9 @@ XIV. INDEX PARITY & MIRROR STATUS
 ────────────────────────────────────────────────────────────
 Mirror Targets:
 • CIV–CORE–GERMANIA v2.0 — present
-• CIV–SCHOLAR–GERMANIA v2.7 — present
-• CIV–DOCTRINE–GERMANY v1.4 — present
+• CIV–SCHOLAR–GERMANIA v2.13 — present
+• CIV–DOCTRINE–GERMANY v3.0 — present
+• CIV–STATE–GERMANY v1.1 — present
 • CIV–ARC–GERMANIA v2.5 — present
 
 ────────────────────────────────────────────────────────────

@@ -335,6 +335,9 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Restoration lacks legitimacy; anxiety is imprinted.
 • The Hundred Days proves rupture-renewal has limits.
 • Military genius cannot compensate for systemic exhaustion indefinitely.
+• Waterloo is the aftermath of structural defeat—the system (allies,
+  satellites, credit) had already collapsed by 1813–1814; the battle
+  executed a corpse.
 
 Contradictions preserved without verdict.
 

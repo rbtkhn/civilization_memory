@@ -1,4 +1,4 @@
-CIV–DOCTRINE–FRANCE — v3.0
+CIV–DOCTRINE–FRANCE — v3.3
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -9,10 +9,10 @@ Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–FRANCIA (Explicit Acceptance Only)
 Compatibility: CIV–MEM–CORE v3.0 · CIV–CORE–FRANCIA v2.0+
 Derived from: CIV–DOCTRINE–TEMPLATE v3.0
-Supersedes: CIV–DOCTRINE–FRANCIA v1.2 (renamed: doctrine governs state action)
-Upgrade Type: ALIGNMENT · RENAME (FRANCIA→FRANCE) · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–DOCTRINE–FRANCE v3.2
+Upgrade Type: ADDITIVE · DOCTRINE 04 operational meaning (Themistocles / structural reversal)
 Last Update: February 2026
-Word Count: ~1,220
+Word Count: ~1,250
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -83,6 +83,13 @@ Operational Meaning:
 • Universalism creates escalation pressure
 • Capacity shortfalls expose moral claims
 • Decline is reputational before territorial
+• Historical maximum territorial extent correlates with fragmentation or
+  revolution risk; in the Francia corpus, the dynasties with greatest peak
+  extent (Carolingian, Bourbon) ended in fragmentation or revolution; the
+  dynasty remembered as consolidator (Capetian) ranked third by extent.
+• The Napoleonic arc (1799–1815) is the canonical test: Continental System
+  and Trafalgar encode universalism without maritime capacity; maximum
+  continental extent preceded Leipzig defection and Waterloo.
 
 Hard Constraints:
 • Overextension produces elite fracture
@@ -127,6 +134,9 @@ Operational Meaning:
 • Strategy becomes loss-avoidant
 • Alliances substitute for sovereignty
 • Past defeat governs present posture
+• Napoleon/Themistocles encodes structural reversal: would-be hegemon
+  becomes supplicant to balancer; post-hegemonic anxiety is partly memory
+  of that reversal
 
 Hard Constraints:
 • Anxiety hardens doctrine
@@ -149,6 +159,8 @@ institutional correction.
 Operational Meaning:
 • War is used as legitimacy correction
 • Victory restores credibility; defeat enables reset
+• The Revolution → Consulate → Empire → defeat sequence (1799–1815) is the
+  canonical full oscillation; Leipzig and Waterloo as reset.
 • Conflict frequency rises independently of necessity
 
 Hard Constraints:
@@ -195,7 +207,10 @@ Supersedes:
 
 v1.2: Typo correction — DOCTRINE 02 name "DIVERGENAD" → "DIVERGENCE".
 v3.0: Rename CIV–DOCTRINE–FRANCIA → CIV–DOCTRINE–FRANCE (doctrine governs state action; civilizations are not unified actors).
+v3.1: DOCTRINE 02 — additive operational meaning: historical maximum territorial extent correlates with fragmentation or revolution risk; Carolingian/Bourbon (largest by extent) ended in fragmentation/revolution; Capetian (third) remembered as consolidator. Derivation: dynasty extent ordering, RLL–FRANCIA–0016 (CANDIDATE).
+v3.2: DOCTRINE 02 and 05 — additive operational meaning: Napoleonic arc (1799–1815) as canonical test (Continental System, Trafalgar, Leipzig, Waterloo; full oscillation). Derivation: ENTRY 0016, gated spiral session Napoleonic France.
+v3.3: DOCTRINE 04 — additive operational meaning: Napoleon/Themistocles encodes structural reversal (would-be hegemon becomes supplicant to balancer); post-hegemonic anxiety partly memory of that reversal. Derivation: Second-pass Mearsheimer, BENEFIT–NAPOLEONIC–STRUCTURAL–READINGS–2026–02–11.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–FRANCE — v3.0
+END OF FILE — CIV–DOCTRINE–FRANCE — v3.3
 ────────────────────────────────────────────────────────────

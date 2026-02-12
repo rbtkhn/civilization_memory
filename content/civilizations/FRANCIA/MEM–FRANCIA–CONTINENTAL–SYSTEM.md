@@ -175,6 +175,8 @@ Each connection preserves structural contrast or inheritance:
 
 FRANCIA:
 • MEM–FRANCIA–NAPOLEON — personal authority bound to enforcement of the system
+• MEM–FRANCIA–WAR–TRAFALGAR — origin condition: naval foreclosure; sea failure
+  produces continental coercion
 • MEM–FRANCIA–WAR–SEVEN–YEARS — earlier lesson in naval inferiority mislearned
 • MEM–FRANCIA–RICHELIEU — contrast between restrained realism and overreach
 • MEM–FRANCIA–LOUIS–XIV — universalism scaled beyond material capacity
@@ -214,6 +216,10 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Markets adapt faster than empires.
 • Coercion expands to fill enforcement gaps.
 • The Continental System is Francia’s strategic dead end.
+
+• Continental closure is structurally coalition-producing: the geometry of
+  enforcement (control every coastline) maximized the number of states
+  with incentive to balance or defect.
 
 No verdict imposed.
 

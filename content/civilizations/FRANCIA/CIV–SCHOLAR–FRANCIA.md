@@ -718,6 +718,55 @@ Belief Status:
   pattern; no doctrine change)
 
 ────────────────────────────────────────────────────────────
+
+ENTRY 0016
+Source:
+• MEM–FRANCIA–NAPOLEON; MEM–FRANCIA–CONTINENTAL–SYSTEM; MEM–FRANCIA–WAR–NAPOLEON–WATERLOO; MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG; MEM–FRANCIA–FRENCH–REVOLUTION; MEM–FRANCIA–LAW–NAPOLEONIC–CODE; MEM–FRANCIA–WAR–TRAFALGAR (doctrine trace – Napoleonic corpus)
+
+Ingest Type:
+• Doctrine trace – Napoleonic corpus (CIV–DOCTRINE–FRANCE 01–05 as lens)
+
+Primary Belief Extracted:
+• Napoleonic MEM set (1799–1815) systematically verifies doctrines 01–05.
+  Doctrine 01: Declaration precedes enforcement (Code, proclamations, victory
+  as legitimacy); collapse when enforcement lags (1812–1815). Doctrine 02:
+  Universal claims exceeded capacity (Continental System, overextension,
+  Trafalgar → continental substitute; RLL–0016 applies). Doctrine 03: Rupture
+  as renewal (Revolution → Brumaire; Waterloo as reset/Restoration). Doctrine 04:
+  Post-Trafalgar continental coercion; Waterloo as terminal rupture; universal
+  language without hegemonic capacity. Doctrine 05: Full oscillation
+  (Revolution → Consulate → Empire → defeat); war as legitimacy correction;
+  Leipzig defection cascade; Waterloo as last throw. No doctrine contradicted.
+  Complication: capacity was real 1805–1810; divergence widened after 1810.
+
+Doctrine-by-doctrine table (verify / complicate / contradict / gap):
+| Doctrine | Verify | Complicate | Contradict | Gap |
+|----------|--------|------------|------------|-----|
+| 01 Declarative | NAPOLEON, CODE, WATERLOO (AXIOM-005) | Enforcement followed declaration 1800–1810; lag after 1810 | None | None |
+| 02 Universalism–Capacity | NAPOLEON, CONTINENTAL–SYSTEM, WATERLOO, TRAFALGAR, FRENCH–REVOLUTION; RLL–0016 | Capacity real 1805–1810; divergence post-1810 | None | None |
+| 03 Rupture as Renewal | FRENCH–REVOLUTION, NAPOLEON (Brumaire), WATERLOO (reset) | Napoleonic "renewal" = coercive order; 1815 = different grammar (Bourbon) | None | None |
+| 04 Post-Hegemonic | CONTINENTAL–SYSTEM, WATERLOO | MEMs encode defeat; 04 describes post-defeat state (fit) | None | None |
+| 05 Oscillator | NAPOLEON, FRENCH–REVOLUTION, WATERLOO, LEIPZIG | Full arc; externalization vs internal reform (plunder/tribute) | None | None |
+
+Tri-frame note (Why did Napoleonic legitimacy collapse 1812–1815?):
+• Mercouris: Legitimacy was performance-based and declarative; once victories
+  stopped and the Continental System was seen as unenforceable, the moral claim
+  lost its anchor. Rupture-as-renewal grammar allowed 1815 to be encoded as
+  reset (Restoration) rather than mere defeat.
+• Mearsheimer: Force ratio and coalition logic. Russia 1812 destroyed the army;
+  defection of satellites (Leipzig) transferred force to coalition; no credit
+  or allies; Waterloo last throw with no margin. Overextension, coalition
+  formation, extraction system collapse.
+• Barnes: Liability became visible to satellite elites (German princes,
+  casualties); defection rational (destination: coalition). Napoleon
+  concentrated liability; declarative authority bound only while no
+  alternative destination existed (AXIOM FRANCIA-005).
+
+Belief Status:
+• UNFROZEN (LEARN-derived; doctrine trace; supports Napoleonic arc as
+  canonical test for doctrines 02, 04, 05; no doctrine change in this phase)
+
+────────────────────────────────────────────────────────────
 VI. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
@@ -1005,6 +1054,15 @@ ASSUMPTION 5: Cascade outpaces coercion
 | IF_WRONG | Sufficiently rapid coercion could halt cascade (Stalin model) |
 | LINCHPIN_STATUS | Medium |
 
+ASSUMPTION 6: Observable defection as common-knowledge generator
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Once one satellite defects, others learn that punishment is infeasible, accelerating cascade; defection is both force transfer and signal |
+| BASIS | Saxon defection at Leipzig; first defection reveals hegemon cannot enforce |
+| IF_WRONG | Cascade would not accelerate after first observable defection |
+| LINCHPIN_STATUS | Medium |
+
 ASSUMPTIONS SUMMARY
 
 | # | Assumption | Linchpin | Testable? |
@@ -1014,6 +1072,7 @@ ASSUMPTIONS SUMMARY
 | 3 | Satellite forces are paper divisions | H | Yes |
 | 4 | Defection = transfer (2x swing) | M | Yes |
 | 5 | Cascade outpaces coercion | M | Yes |
+| 6 | Observable defection = common-knowledge generator | M | Yes |
 
 ────────────────────────────────────────────────────────────
 
@@ -1396,6 +1455,51 @@ PROPOSED RLL CANDIDATES:
     multi-theater, maritime, continental, fiscal)
   Status: PROPOSED · NOT BOUND
 
+• RLL–FRANCIA–0016 (CANDIDATE): Peak territorial extent does not predict
+  durable legitimacy or stability; polities and dynasties at maximum
+  territorial extent have repeatedly fragmented or undergone revolution
+  rather than enduring as consolidated states.
+  Derivation: Dynasty extent ordering (Carolingian > Bourbon > Capetian ≥
+    Valois > Merovingian by peak extent); Carolingian and Bourbon (largest
+    two) ended in fragmentation (Verdun 843) or revolution (1789); Capetian
+    (third by extent) encoded as "dynasty that made France" (consolidation by
+    patience). Cross-civ: Alexander (Diadochi), Trajan (Hadrian's retreat),
+    Napoleon (coalition collapse), Nicholas I (Crimean defeat).
+  Frame: GENERAL (extent–stability decoupling)
+  Test cases: MEM–FRANCIA–DYNASTY–CAROLINGIAN, MEM–FRANCIA–DYNASTY–BOURBON,
+    MEM–FRANCIA–DYNASTY–CAPET; MEM–ROME–GREEK–ALEXANDER; MEM–ROME–EMPIRE–TRAJAN
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0017 (CANDIDATE): Performance-based legitimacy fails when
+  victory stops; authority that rests on continuous success collapses when
+  victories cease or enforcement lags (e.g. Napoleonic legitimacy 1812–1815;
+  Continental System unenforceable; Waterloo as terminal rupture).
+  Derivation: ENTRY 0016, doctrine trace Napoleonic corpus.
+  Frame: GENERAL
+  Test cases: MEM–FRANCIA–NAPOLEON, MEM–FRANCIA–CONTINENTAL–SYSTEM,
+    MEM–FRANCIA–WAR–NAPOLEON–WATERLOO
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0018 (CANDIDATE): Coalition persistence is a function of
+  balancer fiscal capacity; extraction-based hegemony is fiscally brittle.
+  When the hegemon cannot fund allies (only extract), defection follows
+  once a balancer offers subsidies and a destination.
+  Derivation: Second-pass Mearsheimer (Ferguson, WATERLOO, NAPOLEON,
+    CONTINENTAL–SYSTEM); BENEFIT–NAPOLEONIC–STRUCTURAL–READINGS–2026–02–11.
+  Frame: GENERAL
+  Test cases: Napoleonic coalition (Britain subsidies vs French plunder)
+  Status: PROPOSED · NOT BOUND
+
+• RLL–FRANCIA–0019 (CANDIDATE): Hegemonic overextension is often
+  undergirded by systematic misperception of balancer and satellite
+  incentive structures; the hegemon's model of "how they will behave"
+  is refuted by behavior.
+  Derivation: Second-pass Mearsheimer; link to CIV–MEM–CORE § XXVIII
+    (cross-civilizational misperception) as structural instance.
+  Frame: GENERAL
+  Test cases: Napoleonic (Continental System, coalition, Russia)
+  Status: PROPOSED · NOT BOUND
+
 DOMAIN: WAR (Conflict-specific constraints)
 ────────────────────────────────────────────────────────────
 [No bound RLLs — Phase I]
@@ -1547,16 +1651,16 @@ Current counts:
 • Frozen syntheses: 7
 • Draft syntheses pending: 0
 • Bound RLLs: 0 (Phase I)
-• Proposed RLLs pending: 11
+• Proposed RLLs pending: 12
 • Frozen doctrines: 5
 • SDI entries: 2
 • Axioms: 5
 • NCZ entries: 3
 
 Phase: I (Accumulation)
-Next Entry ID: 0016
+Next Entry ID: 0017
 Next Synthesis ID: 0008
-Next RLL ID: RLL–FRANCIA–0016
+Next RLL ID: RLL–FRANCIA–0020
 
 Session Activity (January 2026):
 • SYNTHESIS 0005 frozen (TRI-FRAME: extraction collapse mechanism)
@@ -1584,6 +1688,10 @@ Session Activity (January 2026):
 • WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
 • HARVEST: STATE session (France doctrine check) harvested 11 Feb 2026. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred: doctrine verification (01–05) under 30-day, pre-1900, and Capet-only (987–1328) MEM grounding; ENTRY 0015 added. CIV–STATE–FRANCE State Log updated.
 • LEARN: Doctrine 03 / ritual chain traced backward (Valois → Carolingian → Merovingian → Reims/Clovis → Roman legibility). Deep precedent note added to AXIOM FRANCIA-003 (rupture enables renewal; grammar assembled in stages; MEMs: VALOIS, MEROVINGIAN, REIMS, REIMS–CATHEDRAL, ROME–GEO–GAUL, ROME–WAR–TEUTOBURG–FOREST, FRANCIA–WAR–CAESAR). 11 Feb 2026.
+• LEARN: Extent–stability lesson formalized (Feb 2026). Dynasty ordering by maximum territorial extent (Carolingian > Bourbon > Capetian ≥ Valois > Merovingian) showed largest two fragmented or underwent revolution; Capetian (third) remembered as consolidator. RLL–FRANCIA–0016 (CANDIDATE) proposed—peak territorial extent does not predict durable legitimacy; DOCTRINE 02 (CIV–DOCTRINE–FRANCE) operational meaning augmented; continuity insights added to MEM–FRANCIA–DYNASTY–CAROLINGIAN, MEM–FRANCIA–DYNASTY–BOURBON, MEM–FRANCIA–DYNASTY–CAPET.
+• LEARN: Gated spiral session (Napoleonic France): doctrine trace (01–05) over Napoleonic MEM set; ENTRY 0016; Gate 1 A (proceed WRITE all). 11 Feb 2026.
+• WRITE: Gate 2 approved all. Doctrine: CIV–DOCTRINE–FRANCE v3.2 (02 and 05 operational meaning — Napoleonic arc canonical test). RLL–FRANCIA–0017 (CANDIDATE) added. MEM: NAPOLEON (continuity insight + CONNECTIONS WATERLOO, CONTINENTAL–SYSTEM, TRAFALGAR); LEIPZIG (continuity insight doctrine 05); CONTINENTAL–SYSTEM (CONNECTION TRAFALGAR). 11 Feb 2026.
+• WRITE: Second-pass Mearsheimer benefit implementation approved. RLL–FRANCIA–0018 (credit as coalition glue), 0019 (misperception) added. Continuity insights: TRAFALGAR (lock-in, bargaining space), CONTINENTAL–SYSTEM (coalition magnet), WATERLOO (aftermath of structural defeat). SYNTHESIS 0005 Assumption 6 (defection as common-knowledge). Doctrine 04 operational meaning (Themistocles). 11 Feb 2026.
 
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE
@@ -1638,8 +1746,8 @@ XIV. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (LEARN MODE)
 Doctrine Count: 5
-Total Entries: 15
-Next Entry ID: 0016
+Total Entries: 16
+Next Entry ID: 0017
 Awaiting Command: NO (LEARNING ENABLED)
 
 ────────────────────────────────────────────────────────────

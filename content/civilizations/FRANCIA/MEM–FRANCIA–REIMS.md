@@ -1,7 +1,7 @@
 MEM–FRANCIA–REIMS — v1.0
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: FRANCIA
 Subject: Reims (City: Coronation City, Champagne, Sacral Kingship)
 Dates: Antiquity–present (coronation tradition from 5th c.; Charles VII 1429)
@@ -60,7 +60,10 @@ Contradictions are preserved without synthesis.
 II. CONTEXT: REIMS AND SACRAL KINGSHIP
 ────────────────────────────────────────────────────────────
 Reims becomes the fixed site of French royal coronation through the
-fusion of Frankish baptismal tradition and Capetian consolidation.
+fusion of Frankish baptismal tradition and Capetian consolidation. A
+single ritual chain runs from Clovis's baptism (late 5th / early 6th c.)
+→ Pepin's anointing (751) → Charlemagne's coronation (800) → Capetian/
+Valois coronation at Reims: **one ritual in one place confers legitimacy**.
 
 Conditions:
 • Tradition of Clovis's baptism at Reims (late 5th c.)—foundational
@@ -135,6 +138,9 @@ FRANCIA:
 • MEM–FRANCIA–DYNASTY–VALOIS — Charles VII; coronation 1429; continuity under breakdown
 • MEM–FRANCIA–DYNASTY–CAPET — Coronation tradition; anointing fused with succession
 • MEM–FRANCIA–DYNASTY–CAROLINGIAN — Frankish/Reims baptism tradition
+• MEM–FRANCIA–DYNASTY–MEROVINGIAN — Church as legitimacy stabilizer; dynastic transfer sanctified
+• MEM–FRANCIA–CLOVIS — Clovis baptism at Reims; origin of ritual chain
+• MEM–FRANCIA–PEPIN — Pepin anointing 751; ritual chain link
 • MEM–FRANCIA–AQUITAINE — Hundred Years' War; territorial vs ritual stakes
 • MEM–FRANCIA–GEO–SEINE–RIVER — Paris–Reims axis; Île-de-France and Champagne
 • MEM–FRANCIA–GEO–RHINE–RIVER — Eastern approaches; Reims between Paris and Rhine
@@ -156,5 +162,5 @@ ADDITIONAL SCHOLARLY SOURCES:
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–REIMS v1.0
+END OF FILE — MEM–FRANCIA–REIMS v1.1
 ────────────────────────────────────────────────────────────

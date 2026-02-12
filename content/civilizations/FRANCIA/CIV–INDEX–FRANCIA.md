@@ -42,7 +42,26 @@ G.A. SCIENCE (SCI SUBCLASS)
 H. OTHER / MISC
 
 ────────────────────────────────────────────────────────────
-II. FILE REGISTER — FRANCIA (FULL REGISTRY)
+II. CANONICAL GOVERNANCE FILES
+────────────────────────────────────────────────────────────
+• CIV–CORE–FRANCIA — v2.0
+  Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-INTEGRATED
+
+• CIV–SCHOLAR–FRANCIA — v2.1
+  Status: ACTIVE · WRITE-LOCKED · CANONICAL
+
+• CIV–DOCTRINE–FRANCE — v3.0
+  Status: ACTIVE · CANONICAL · LOCKED (doctrine governs state action)
+
+• CIV–STATE–FRANCE — v1.0
+  Status: ACTIVE
+  Entity: France (state); doctrine and Scholar inform STATE; harvest-only transfer to Scholar.
+
+• CIV–ARC–FRANCIA — v3.0
+  Status: ACTIVE · CANONICAL
+
+────────────────────────────────────────────────────────────
+III. FILE REGISTER — FRANCIA (FULL REGISTRY)
 ────────────────────────────────────────────────────────────
 
 A) GEO
@@ -203,7 +222,7 @@ H) OTHER / MISC
 • MEM–FRANCIA–SWITZERLAND.md
 
 ────────────────────────────────────────────────────────────
-III. INDEX LOCK & PROPAGATION CLAUSE
+IV. INDEX LOCK & PROPAGATION CLAUSE
 ────────────────────────────────────────────────────────────
 This index is LOCKED.
 

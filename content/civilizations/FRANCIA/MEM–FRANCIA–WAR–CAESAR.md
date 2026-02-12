@@ -1,8 +1,8 @@
-MEM–FRANCIA–WAR–CAESAR — v1.0
+MEM–FRANCIA–WAR–CAESAR — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Upgrade Type: NEW FILE · COMPLIANCE-READY
 (CIV–MEM–TEMPLATE v1.1 + CIV–CORE–FRANCIA Distinguished Scholars Rule)
 Civilization: FRANCIA
@@ -207,6 +207,7 @@ X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Conquest becomes durable when it converts elites into intermediaries.
 • Legibility is the first act of incorporation.
+• **Legibility before rule**—classification/recoding then governance—inherited grammar; Gaul made legible and absorbed; Teutoburg (MEM–GERMANIA–WAR–TEUTOBURG–FOREST) as failure when legibility collapses.
 • Universal vocabulary can be inherited from prior domination.
 • Some frontiers impose costs that defeat absorption.
 • Francia’s later universalism contains an embedded conquest-origin paradox.
@@ -251,5 +252,5 @@ Secondary (≥4 total; ≥3 Distinguished Scholars embedded above):
 • Jeremy Popkin, *A Short History of France* (Distinguished Scholar)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–CAESAR — v1.0
+END OF FILE — MEM–FRANCIA–WAR–CAESAR — v1.1
 ────────────────────────────────────────────────────────────

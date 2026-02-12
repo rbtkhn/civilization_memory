@@ -1,8 +1,8 @@
-MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.1
+MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.2
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: v1.0 · Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), MEM BIBLIOGRAPHY
+Version: 1.2
+Supersedes: v1.1 · Upgrade: Doctrine 01/04 linkage, MEM CONNECTIONS
 Civilization: FRANCIA
 Subject: Knights Templar (Ordre du Temple)
 Dates: c. 1119–1314 AD
@@ -21,7 +21,10 @@ central coherence.
 
 The Templars are remembered not as martyrs, but as **authority without
 territory**, an intolerable configuration for an ascending continental
-state.
+state. Doctrine linkage: **doctrine 01** (Declarative legitimacy—trial as
+jurisdictional declaration); **doctrine 04** (Post-hegemonic anxiety—
+post-Acre [1291] consolidation; sacral authority without purpose becomes
+politically naked).
 
 Contradictions are preserved without synthesis.
 
@@ -203,7 +206,14 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY
+XI. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+FRANCIA:
+• MEM–FRANCIA–DYNASTY–CAPET — Philip IV; Capetian state coherence; sovereignty assertion
+• MEM–FRANCIA–WAR–CRUSADES — Order's origin and mission; post-1291 purpose erosion
+
+────────────────────────────────────────────────────────────
+XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES (verbatim in MEM):
 • Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
@@ -212,5 +222,5 @@ CITED SOURCES (verbatim in MEM):
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.1
+END OF FILE — MEM–FRANCIA–KNIGHTS–TEMPLAR — v1.2
 ────────────────────────────────────────────────────────────

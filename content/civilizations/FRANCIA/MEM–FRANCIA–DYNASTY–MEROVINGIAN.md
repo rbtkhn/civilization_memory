@@ -1,4 +1,4 @@
-MEM–FRANCIA–DYNASTY–MEROVINGIAN — v1.0
+MEM–FRANCIA–DYNASTY–MEROVINGIAN — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
 Civilization: FRANCIA
@@ -91,7 +91,10 @@ Outcome:
 • Continuity preserved through ritual
 • Dynasty replaced without rupture
 
-Legitimacy is re-authored, not destroyed.
+Legitimacy is re-authored, not destroyed. This is the **deep precedent**
+for AXIOM FRANCIA-003 and doctrine 03 (CIV–DOCTRINE–FRANCE): the ritual/
+sacral channel is reused for dynastic change; legitimacy is re-authored,
+not destroyed.
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
@@ -101,9 +104,22 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Church mediation enables dynastic continuity.
 • Universal vocabulary precedes imperial ambition.
 • Merovingians bridge Rome and Carolingian empire.
+• **Legitimacy re-authored, not destroyed**—ritual/sacral channel reused
+  for dynastic transfer; deep precedent for AXIOM FRANCIA-003 / doctrine 03.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–MEROVINGIAN — v1.0
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+FRANCIA:
+• MEM–FRANCIA–REIMS — Reims as coronation city; Clovis baptism tradition
+• MEM–FRANCIA–REIMS–CATHEDRAL — Cathedral on site; coronation ritual stage
+• MEM–FRANCIA–DYNASTY–CAROLINGIAN — Papal sanction; same sacral channel; dynasty replaced without rupture
+• MEM–FRANCIA–CHARLEMAGNE — Imperial coronation 800; extends Merovingian/Carolingian ritual chain
+• MEM–FRANCIA–CLOVIS — Baptism at Reims; origin of ritual-conferred legitimacy
+• MEM–FRANCIA–PEPIN — Anointing 751; dynastic transfer through same sacral channel
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–FRANCIA–DYNASTY–MEROVINGIAN — v1.1
 ────────────────────────────────────────────────────────────

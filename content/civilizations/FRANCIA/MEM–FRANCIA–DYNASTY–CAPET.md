@@ -1,9 +1,8 @@
-MEM–FRANCIA–DYNASTY–CAPET — v1.1
+MEM–FRANCIA–DYNASTY–CAPET — v1.3
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
-Version: 1.1
-Supersedes: v1.0
-Upgrade: Firnhaber-Baker verbatim (*House of Lilies*), MEM BIBLIOGRAPHY
+Version: 1.3
+Supersedes: v1.2 · Upgrade: Continuity insight (extent–stability lesson)
 Civilization: FRANCIA
 Subject: Capetian Dynasty
 Dates: 987–1328 AD
@@ -94,9 +93,25 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Sacral legitimacy delays fragmentation.
 • Francia’s strength lies in incremental centralization.
 • The Capetians made monarchy durable before it was powerful.
+• Peak territorial extent did not predict civilizational memory: Capetian
+  dynasty ranked third by maximum extent (Carolingian, Bourbon larger) but
+  is remembered as "the dynasty that made France"—consolidation by patience
+  and anointing, not by maximum territorial reach.
+
+Used in STATE–FRANCE doctrine check (Capet-only verification 987–1328).
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+FRANCIA:
+• MEM–FRANCIA–REIMS–CATHEDRAL — Coronation tradition; anointing and succession
+• MEM–FRANCIA–PARIS — Paris as symbolic and administrative core
+• MEM–FRANCIA–KNIGHTS–TEMPLAR — Philip IV; sovereignty assertion; trial as jurisdictional
+• MEM–FRANCIA–WAR–CRUSADES — Crusade context; Capetian alignment
+• MEM–FRANCIA–ELEANOR–AQUITAINE — Territorial loss; Aquitaine to Plantagenets
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES (verbatim in MEM):
 • Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
@@ -105,4 +120,4 @@ CITED SOURCES (verbatim in MEM):
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–CAPET v1.1
+END OF FILE — MEM–FRANCIA–DYNASTY–CAPET v1.3

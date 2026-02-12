@@ -1,8 +1,8 @@
-MEM–FRANCIA–DYNASTY–VALOIS — v1.2
+MEM–FRANCIA–DYNASTY–VALOIS — v1.3
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
-Version: 1.2
-Supersedes: v1.1 · Upgrade: SCHOLAR LINKAGE (LEARN 2026-01-29)
+Version: 1.3
+Supersedes: v1.2 · Upgrade: MEM CONNECTIONS, AXIOM FRANCIA-003 note (1328 continuity, 1429–1453 renewal)
 Civilization: FRANCIA
 Subject: Valois Dynasty
 Dates: 1328–1589 AD
@@ -182,6 +182,10 @@ generates extraction and alignment. ENTRY 0012, SYNTHESIS 0007, ENTRY
 0014; AXIOM FRANCIA-003 Refinement test cases; SYNTHESIS 0004 Assumption 2
 BASIS.
 
+1328 is **continuity, not rupture** (Valois inherit Capetian grammar).
+1429–1453 is **renewal** (Reims coronation → material conversion): test
+case for AXIOM FRANCIA-003 (rupture enables renewal when grammar survives).
+
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
@@ -195,7 +199,18 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY
+XI. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+FRANCIA:
+• MEM–FRANCIA–REIMS–CATHEDRAL — Charles VII coronation 1429; Reims as sacral stage
+• MEM–FRANCIA–WAR–HUNDRED–YEARS — Valois legitimacy collapse and recovery; Joan; Reims 1429
+• MEM–FRANCIA–WAR–AGINCOURT — Trauma and collapse; Joan as renewal catalyst
+• MEM–FRANCIA–AQUITAINE — Territorial stake; post-Reims reabsorption to 1453
+• MEM–FRANCIA–DYNASTY–CAPET — Legitimacy inheritance; 1328 continuity
+• MEM–FRANCIA–JOAN–ARC — Myth carrier; Reims 1429; doctrine 03 test case
+
+────────────────────────────────────────────────────────────
+XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 CITED SOURCES (verbatim in MEM):
 • Firnhaber-Baker, Justine. *House of Lilies: The Dynasty That Made
@@ -204,5 +219,5 @@ CITED SOURCES (verbatim in MEM):
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–VALOIS — v1.2
+END OF FILE — MEM–FRANCIA–DYNASTY–VALOIS — v1.3
 ────────────────────────────────────────────────────────────

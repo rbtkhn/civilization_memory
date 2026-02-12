@@ -308,6 +308,8 @@ X. CONTINUITY INSIGHTS (RAW)
 • Leipzig inverts Austerlitz structurally: same mechanism, opposite outcome.
 • Mid-battle defection (Saxony) demonstrates cascade timing.
 • The coalition's Trachenberg Plan represents organizational learning.
+• Defeat at Leipzig enables regime reset (Restoration); war-as-legitimacy-
+  correction cycle terminates here (doctrine 05).
 
 Contradictions preserved without verdict.
 

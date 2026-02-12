@@ -275,6 +275,10 @@ X. CONTINUITY INSIGHTS (RAW)
 • France is continental, not maritime—Trafalgar confirmed it.
 • Villeneuve's death remains mysterious (suicide or murder).
 • Nelson's death gave Britain martyrdom; France gained nothing.
+• Trafalgar constrained strategy space to continental options only; path
+  dependence made every subsequent move (Continental System, Peninsula,
+  Russia) increase overextension risk. Removing the invasion option also
+  removed British incentive to settle (bargaining space collapse).
 
 Contradictions preserved without verdict.
 

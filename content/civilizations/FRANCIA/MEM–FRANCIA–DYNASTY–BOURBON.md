@@ -1,9 +1,8 @@
-MEM–FRANCIA–DYNASTY–BOURBON — v1.1
+MEM–FRANCIA–DYNASTY–BOURBON — v1.2
 Civilizational Memory Codex · Memory File
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
+Version: 1.2
+Supersedes: v1.1 · Upgrade: Continuity insight (extent–stability lesson)
 Civilization: FRANCIA
 Subject: Bourbon Dynasty
 Dates: 1589–1792 AD (restored 1814–1830)
@@ -139,6 +138,10 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Fiscal opacity accelerates revolutionary rupture.
 • Bourbon failure created the conditions Napoleon absorbed.
 • Francia learned that legitimacy cannot be monopolized indefinitely.
+• Peak territorial extent did not predict durability: Bourbon dynasty
+  (second by maximum extent in the Francia corpus) ended in revolution;
+  extent and colonial reach did not substitute for fiscal and legitimacy
+  adaptation at the core.
 
 ────────────────────────────────────────────────────────────
 VIII. MEM BIBLIOGRAPHY
@@ -152,5 +155,5 @@ ADDITIONAL SCHOLARLY SOURCES: (as per MEM template; list if present)
 ARC version pinned: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–DYNASTY–BOURBON v1.1
+END OF FILE — MEM–FRANCIA–DYNASTY–BOURBON v1.2
 ────────────────────────────────────────────────────────────

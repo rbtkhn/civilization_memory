@@ -248,6 +248,9 @@ X. CONTINUITY INSIGHTS (RAW)
 • Performance-based authority consolidates rapidly but collapses fast.
 • War builds states faster than peace—but erodes margins of error.
 • Administrative legacy outlasts imperial ambition.
+• Napoleonic maximum continental extent (pre-1812) exemplifies the
+  extent–stability lesson: peak extent preceded defection cascade
+  (Leipzig) and Waterloo (doctrine 02; RLL–0016).
 • Francia learns durability by separating Napoleon’s methods from his scale.
 
 ────────────────────────────────────────────────────────────
@@ -259,6 +262,11 @@ FRANCIA:
 • MEM–FRANCIA–REVOLUTION–1789
 • MEM–FRANCIA–WAR–SEVEN–YEARS
 • MEM–FRANCIA–LAW–NAPOLEONIC–CODE
+• MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — terminal defeat; declarative
+  authority bound only while destinationless
+• MEM–FRANCIA–CONTINENTAL–SYSTEM — enforcement bound to figure;
+  universalism–capacity
+• MEM–FRANCIA–WAR–TRAFALGAR — naval foreclosure → continental substitute
 
 GERMANIA:
 • MEM–GERMANIA–BISMARCK

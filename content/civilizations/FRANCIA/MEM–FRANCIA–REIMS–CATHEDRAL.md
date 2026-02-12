@@ -1,7 +1,7 @@
 MEM–FRANCIA–REIMS–CATHEDRAL — v1.0
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: FRANCIA
 Subject: Notre-Dame de Reims (Cathedral: Coronation Church, Gothic, Sacral Kingship)
 Dates: 1211 AD–present (construction from 1211; coronations from 13th c.)
@@ -61,7 +61,9 @@ II. ORIGIN: GOTHIC AND CORONATION
 ────────────────────────────────────────────────────────────
 The present cathedral (Notre-Dame de Reims) is built from the early
 13th century on the site of earlier churches; Clovis's baptism is
-traditionally located here.
+traditionally located here. The same ritual chain (Clovis baptism →
+Pepin anointing → Charlemagne coronation → Capetian/Valois coronation)
+concentrates legitimacy in this place.
 
 Conditions:
 • Archbishopric of Reims as consecrator of French kings
@@ -149,6 +151,10 @@ FRANCIA:
 • MEM–FRANCIA–PARIS — Paris (capital) vs Reims (coronation); loss and recovery
 • MEM–FRANCIA–DYNASTY–VALOIS — Charles VII; coronation at Reims
 • MEM–FRANCIA–DYNASTY–CAPET — Coronation tradition; anointing and succession
+• MEM–FRANCIA–DYNASTY–MEROVINGIAN — Church as legitimacy stabilizer; ritual chain precedent
+• MEM–FRANCIA–CLOVIS — Clovis baptism (tradition on site); origin of ritual chain
+• MEM–FRANCIA–PEPIN — Pepin anointing 751; ritual chain link
+• MEM–FRANCIA–JOAN–ARC — Charles VII coronation 1429; myth carrier; Reims re-anchored
 • MEM–FRANCIA–AQUITAINE — Hundred Years' War context; territorial vs ritual
 • MEM–FRANCIA–GEO–SEINE–RIVER — Paris–Reims axis; Champagne and Île-de-France
 • MEM–FRANCIA–GEO–LOIRE–RIVER — Orléans–Reims route (Loire to Champagne)
@@ -170,5 +176,5 @@ ADDITIONAL SCHOLARLY SOURCES:
 Governed by: CIV–ARC–FRANCIA v1.8.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–REIMS–CATHEDRAL v1.0
+END OF FILE — MEM–FRANCIA–REIMS–CATHEDRAL v1.1
 ────────────────────────────────────────────────────────────
