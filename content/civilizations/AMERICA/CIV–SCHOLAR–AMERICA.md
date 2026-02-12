@@ -295,6 +295,24 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
+ENTRY 0007
+Source:
+• SCHOLAR–AMERICA LEARN session — Kennedy administration foreign policy
+  doctrine audit (February 2026); MEM–ANGLIA–MONROE, MEM–ANGLIA–WAR–
+  SPANISH–AMERICAN, MEM–RUSSIA–USSR–CUBAN–MISSILE–CRISIS (cross-civ)
+Ingest Type:
+• America-specific — Doctrine application and precedent
+Primary Belief Extracted:
+• Kennedy-era foreign policy (1961–1963) aligns with CIV–DOCTRINE–
+  AMERICA 03–07; procedure was bypassed at Bay of Pigs then restored
+  via ExComm and OAS (Doctrine 01). Quarantine (Oct 1962) fits
+  Doctrine 06 (denial) and 05 (coalition). Monroe and Spanish–
+  American War (MEM–ANGLIA–MONROE, MEM–ANGLIA–WAR–SPANISH–AMERICAN)
+  set precedent for legitimacy of U.S. coercion in the hemisphere;
+  humanitarian and reputational cost of blockade remains a tension.
+Belief Status:
+• UNFROZEN
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -329,6 +347,65 @@ SYNTHESIS 0001 (candidate — from LEARN session Mississippi sequence)
   Civil War, Options E traversal 1763 → 1795 → 1803; MEM–ANGLIA–
   GEO–MISSISSIPPI–RIVER constitutive). Do not treat as doctrine
   unless explicitly frozen per Template.
+
+SYNTHESIS 0002 (candidate — from LEARN session Kennedy doctrine audit)
+  Outcome: U.S. coercion in the hemisphere is legitimised by perimeter
+  declaration (Monroe) and liberation/procedural framing (Spanish–
+  American War, Cuban Missile Crisis). Humanitarian and reputational
+  cost of blockade or intervention is a persistent tension that the
+  legitimacy narrative does not remove.
+  Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
+  Confidence: TIER 2 (70–90% — pattern supported by MEM–ANGLIA–
+  MONROE, MEM–ANGLIA–WAR–SPANISH–AMERICAN, and doctrine audit session;
+  not yet independently stress-tested)
+
+  ASSUMPTIONS BOX:
+  • Assumption 1: Monroe and 1898 establish a reusable template for
+    legitimising coercion (perimeter + procedural/humanitarian framing)
+    — if falsified (e.g. later periods reject the template), the
+    synthesis is period-specific. Linchpin: Medium.
+  • Assumption 2: Humanitarian and reputational cost is a structural
+    tension, not eliminable by better framing — if falsified (e.g.
+    cases where cost is fully neutralised), the synthesis overstates
+    the tension. Linchpin: Medium.
+  • Assumption 3: The same precedent that enables legitimacy claims
+    (Monroe, 1898) also fuels counter-narratives (coercion, imperialism)
+    in other audiences — if falsified (e.g. no audience divergence),
+    the synthesis overstates the split. Linchpin: Low.
+
+  Source: SCHOLAR–AMERICA LEARN session (Kennedy doctrine audit;
+  options A, B, C, E, H; MEM–ANGLIA–MONROE, MEM–ANGLIA–WAR–SPANISH–
+  AMERICAN, MEM–RUSSIA–USSR–CUBAN–MISSILE–CRISIS). Do not treat as
+  doctrine unless explicitly frozen per Template.
+
+SYNTHESIS 0003 (candidate — from LEARN session doctrine violations)
+  Outcome: When CIV–DOCTRINE–AMERICA is blatantly violated, the
+  system sometimes corrects rather than compounds: procedure
+  reasserts (Bay of Pigs → ExComm; Watergate → oversight; Iran–
+  Contra → investigations), defeat is eventually processed (Vietnam
+  exit), myth-as-engine failure reduces future appetite (Iraq), or
+  the violation is later repudiated (Japanese internment, Civil
+  Liberties Act 1988). Violations do not always cascade; corrective
+  reassertion is a recurring pattern.
+  Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
+  Confidence: TIER 2 (70–90% — pattern supported by session
+  examples; not yet independently stress-tested)
+
+  ASSUMPTIONS BOX:
+  • Assumption 1: Corrective reassertion depends on procedure
+    remaining intact enough to be invoked — if procedure had
+    fully collapsed, correction would not occur. Linchpin: High.
+  • Assumption 2: The pattern is contingent on audience and
+    institution (Congress, press, courts) — if those are
+    neutered, violations may compound. Linchpin: Medium.
+  • Assumption 3: Repudiation (e.g. internment redress) is
+    slower and less guaranteed than procedure reassertion —
+    if falsified (e.g. all violations get formal redress), the
+    synthesis understates the gap. Linchpin: Low.
+
+  Source: SCHOLAR–AMERICA LEARN session (doctrine violations,
+  surprising results; Yorktown, Canada, Option C; options A, D, E,
+  H). Do not treat as doctrine unless explicitly frozen per Template.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY (AMERICA-SPECIFIC)
@@ -367,9 +444,9 @@ XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE
 Doctrine Count (America-specific): 7 in CIV–DOCTRINE–AMERICA (derived from CIV–DOCTRINE–ANGLIA)
-Total Entries: 6
-Total Syntheses: 1 (candidate — SYNTHESIS 0001, Mississippi mouth control)
-Next Entry ID: 0007
+Total Entries: 7
+Total Syntheses: 3 (candidate — SYNTHESIS 0001 Mississippi mouth control; SYNTHESIS 0002 Kennedy/legitimacy of coercion; SYNTHESIS 0003 violation → corrective reassertion)
+Next Entry ID: 0008
 Ingestion source: MEM–ANGLIA–* (constitutive); MEM–AMERICA–* (when present)
 
 ────────────────────────────────────────────────────────────

@@ -197,7 +197,7 @@ Structural constraints:
   HUNDRED–YEARS; Anglian doctrine 04 — time as weapon can favour or
   punish depending on fiscal and coalition durability).
 • Naval and maritime control remain the backbone of hemisphere dominance
-  (MEM–ANGLIA–GEO–ATLANTIC, MEM–ANGLIA–WAR–NELSON–TRAFALGAR). Loss of
+  (MEM–AMERICA–GEO–ATLANTIC, MEM–ANGLIA–WAR–NELSON–TRAFALGAR). Loss of
   maritime supremacy in the Atlantic or Pacific would structurally
   undermine the hegemony thesis; no such loss is currently in view.
 
@@ -272,7 +272,7 @@ OPTION A: Maintain Hegemony Through Procedural Order
   coalition durability extend the sustainability of hegemony and
   reduce the cost of maintaining it. Historical pattern: Monroe
   declared a perimeter before the U.S. had full capacity to enforce
-  it; Britain’s navy underwrote it (MEM–ANGLIA–MONROE). Procedure and
+  it; Britain’s navy underwrote it (MEM–AMERICA–MONROE). Procedure and
   declaration can substitute for constant application of force.
 
   Key Assumptions:
@@ -555,7 +555,7 @@ PATTERN: Defeat and Exit Without Legitimacy Collapse
 
 PATTERN: Declarative Perimeter Before Full Capacity
   Activation: MODERATE
-  Source: MEM–ANGLIA–MONROE
+  Source: MEM–AMERICA–MONROE
   Relevance: Monroe declared hemisphere perimeter when U.S. capacity
   was embryonic; Britain’s navy underwrote the order. Declaration
   and procedure can substitute for constant application of force.
@@ -579,7 +579,7 @@ PATTERN: Time as Strategic Weapon and Coalition Primacy
 
 PATTERN: Naval Denial as Existential Defence
   Activation: HIGH
-  Source: CIV–DOCTRINE–ANGLIA 06; MEM–ANGLIA–GEO–ATLANTIC;
+  Source: CIV–DOCTRINE–ANGLIA 06; MEM–AMERICA–GEO–ATLANTIC;
           MEM–ANGLIA–WAR–NELSON–TRAFALGAR
   Relevance: Sea control and denial of hostile movement underwrite
   hemisphere security. As long as maritime supremacy holds, structural
@@ -588,7 +588,7 @@ PATTERN: Naval Denial as Existential Defence
 
 PATTERN: Mississippi Sequence (Chokepoint and Continental Union)
   Activation: HIGH
-  Source: MEM–ANGLIA–GEO–MISSISSIPPI–RIVER; SCHOLAR–AMERICA LEARN
+  Source: MEM–AMERICA–GEO–MISSISSIPPI–RIVER; SCHOLAR–AMERICA LEARN
           session (Mearsheimer audit, multi-mind, traversal 1763–1863)
   Relevance: Control of the mouth of the Mississippi guarantees
   control of the interior; the river system cannot be partially owned.
@@ -602,6 +602,35 @@ PATTERN: Mississippi Sequence (Chokepoint and Continental Union)
   to Option A (order and legitimacy rest on control of key nodes) and
   to any scenario where hemisphere or continental integration depends
   on a single corridor or chokepoint.
+
+PATTERN: Quarantine as Denial and Legitimacy of Coercion (1962)
+  Activation: MODERATE
+  Source: SCHOLAR–AMERICA LEARN session (Kennedy doctrine audit,
+  Feb 2026); CIV–DOCTRINE–AMERICA 01, 05, 06; MEM–AMERICA–MONROE;
+  MEM–ANGLIA–WAR–SPANISH–AMERICAN; MEM–RUSSIA–USSR–CUBAN–MISSILE–CRISIS
+  Relevance: Cuban Missile Crisis quarantine (Oct 1962) illustrates
+  naval denial (Doctrine 06) and coalition-backed procedure (OAS,
+  Doctrine 05). Procedure was restored after Bay of Pigs (ExComm,
+  Doctrine 01). Monroe and Spanish–American War set precedent for
+  legitimising U.S. coercion in the hemisphere (perimeter declaration,
+  liberation/procedural framing). Humanitarian and reputational cost
+  of blockade remains a tension: legitimacy narrative and legal/soft-
+  power cost vary by audience. Relevant to Option A (procedural order,
+  coalition legitimacy) and Option B (footprint, legitimacy risk).
+
+PATTERN: Exit Without Rupture (Yorktown, Canada, Option C)
+  Activation: HIGH
+  Source: MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN; MEM–ANGLIA–
+  CANADA; SCHOLAR–AMERICA LEARN session (doctrine violations, Feb 2026)
+  Relevance: Yorktown = defeat then procedural exit (Parliament,
+  treaty); Canada = procedural autonomy without military defeat
+  (evolution, gradual self-rule). Both illustrate Doctrine 03 (defeat
+  or retreat without legitimacy collapse). For Option C (lighten
+  footprint), Canada is the precedent that recalibration can be
+  framed as evolution, not retreat—"order" sustained with reduced
+  direct control. Narrative must present recalibration, not exit from
+  order; liability falls on those who choose the move. Contrast:
+  Vietnam = violation of 04 then procedurally managed exit (messier).
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
@@ -675,9 +704,9 @@ ENTRY 001 — February 2026
   Session: Initial STATE file creation
   Sources analysed: CIV–SCHOLAR–ANGLIA v2.0, CIV–DOCTRINE–ANGLIA v3.0,
   CIV–CORE–ANGLIA v2.0 (optional), MEM–ANGLIA–UNITED–STATES–AMERICA,
-  MEM–ANGLIA–MONROE, MEM–ANGLIA–WAR–SPANISH–AMERICAN, MEM–ANGLIA–WAR–
+  MEM–AMERICA–MONROE, MEM–ANGLIA–WAR–SPANISH–AMERICAN, MEM–ANGLIA–WAR–
   MEXICAN–AMERICAN, MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN,
-  MEM–ANGLIA–CANADA, MEM–ANGLIA–GEO–ATLANTIC, MEM–ANGLIA–WAR–NELSON–
+  MEM–ANGLIA–CANADA, MEM–AMERICA–GEO–ATLANTIC, MEM–ANGLIA–WAR–NELSON–
   TRAFALGAR, and MEM–RELEVANCE–AMERICA v1.0
   Options established: A (Procedural order), B (Deepen footprint),
   C (Lighten footprint)
@@ -723,11 +752,32 @@ ENTRY 006 — February 2026
   Session: SCHOLAR–AMERICA LEARN — Mississippi sequence harvest
   Change: Section VII (Decision-Relevant History) — added PATTERN:
   Mississippi Sequence (Chokepoint and Continental Union). Source:
-  MEM–ANGLIA–GEO–MISSISSIPPI–RIVER and LEARN session (Mearsheimer
+  MEM–AMERICA–GEO–MISSISSIPPI–RIVER and LEARN session (Mearsheimer
   audit on five geographic features; multi-mind on Civil War; backward
   traversal 1763 → 1795 → 1803 → 1863). Pattern encodes "control of
   mouth guarantees control of interior" and sequence from Seven Years'
   War to Vicksburg. Activation: HIGH.
+
+ENTRY 007 — February 2026
+  Session: Harvest from SCHOLAR–AMERICA LEARN — Kennedy doctrine audit
+  Change: Harvest transferred (a) to CIV–SCHOLAR–AMERICA: ENTRY 0007
+  (Kennedy-era doctrine audit; procedure, quarantine, Monroe/1898
+  precedent; humanitarian tension) and SYNTHESIS 0002 candidate
+  (legitimacy of coercion; humanitarian/reputational tension).
+  (b) to CIV–STATE–AMERICA: Section VII — added PATTERN: Quarantine
+  as Denial and Legitimacy of Coercion (1962). Source: LEARN session
+  Kennedy doctrine audit; CIV–DOCTRINE–AMERICA 01, 05, 06; MEM–ANGLIA–
+  MONROE; MEM–ANGLIA–WAR–SPANISH–AMERICAN; MEM–RUSSIA–USSR–CUBAN–
+  MISSILE–CRISIS. Activation: MODERATE.
+
+ENTRY 008 — February 2026
+  Session: SCHOLAR LEARN synthesis (c) — doctrine violations, exit without rupture
+  Change: Section VII — added PATTERN: Exit Without Rupture (Yorktown,
+  Canada, Option C). Source: MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–
+  YORKTOWN; MEM–ANGLIA–CANADA; LEARN session (doctrine violations).
+  CIV–SCHOLAR–AMERICA: SYNTHESIS 0003 candidate (violation →
+  corrective reassertion). STATE–AMERICA–DOCTRINE–VIOLATIONS–NOTE–
+  2026–02–12.md created (session note, non-authoritative).
 
 ────────────────────────────────────────────────────────────
 END — CIV–STATE–AMERICA v1.0
