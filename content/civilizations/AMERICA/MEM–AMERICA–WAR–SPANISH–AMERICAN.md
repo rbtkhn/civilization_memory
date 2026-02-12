@@ -44,6 +44,21 @@ War is **justified as liberation** (Cuba) and **executed as
 access** (Philippines, Guam, Puerto Rico). Procedure (congressional
 declaration, Treaty of Paris 1898) legitimises outcome.
 
+John Keegan, in *A History of Warfare* (1993), on institutional
+restraint and the form of state violence:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
+
+The Spanish–American War is **framed** by declaration and **closed**
+by treaty; expansion takes the form of civilised warfare and
+procedure, not extra-institutional violence.
+
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CONDUCT: NAVAL DECISIVENESS
 ────────────────────────────────────────────────────────────

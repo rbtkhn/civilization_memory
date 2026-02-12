@@ -55,6 +55,43 @@ Primary MEMs:
   [concepts: union_preservation, procedural_termination]
 
 Secondary MEMs:
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Union total war; Atlanta,
+  March to the Sea; operational legacy; civilian subordination
+  [concepts: total_war_execution, procedural_termination]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — Union cavalry; Shenandoah
+  Valley 1864; capacity denial; Appomattox closure; Grant's eastern
+  instrument
+  [concepts: total_war_east, cavalry_closure]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Confederate commander;
+  Appomattox surrender; procedural defeat; subordinate-control failure
+  [concepts: procedural_surrender, leadership_limits]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–STONEWALL–JACKSON — Confederate
+  tactical brilliance; Valley, Chancellorsville; irreplaceable loss
+  [concepts: tactical_excellence, irreplaceability]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — War trigger; April
+  1861; first shot; federal authority contested; restoration frame
+  [concepts: war_trigger, legitimacy_claim]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — July 1863; Mississippi
+  chokepoint; Confederacy split; Grant; material turning
+  [concepts: strategic_severance, circulation_control]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — July 1863; legitimacy
+  inflection; Lincoln's Address; symbolic turning
+  [concepts: legitimacy_inflection, moralised_procedure]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — April 1865; procedural
+  termination; Grant's terms; surrender as restoration
+  [concepts: procedural_termination, reintegration]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–CHANCELLORSVILLE — May 1863; Lee's
+  greatest victory; Jackson's death; tactical peak and irreplaceable
+  loss; prelude to Gettysburg
+  [concepts: tactical_peak, irreplaceable_loss]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–BULL–RUN — First and Second Bull
+  Run; war's first major battle; Stonewall; Confederate victories;
+  scale and reality check
+  [concepts: war_scale, tactical_proof]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–CONFEDERACY — Secession polity;
+  compact theory; defeat and procedural reintegration; Appomattox;
+  Union vs Lost Cause memory
+  [concepts: secession_denied, procedural_absorption]
 • MEM–AMERICA–WAR–1812 — Sovereignty assertion; Ghent status quo;
   resilience without victory; second contest with Britain
   [concepts: sovereignty_assertion, stalemate]
@@ -65,6 +102,21 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–SEVEN–YEARS — Colonial phase; imperial strain;
   prelude to independence; Washington's first military lessons
   [concepts: imperial_strain, prelude_to_founding]
+• MEM–AMERICA–COLONIAL–JAMESTOWN — First permanent English
+  settlement; House of Burgesses 1619; assembly precedent
+  [concepts: colonial_assembly, founding_precedent]
+• MEM–AMERICA–COLONIAL–PLYMOUTH — Mayflower Compact; covenant and
+  consent; colonial origins
+  [concepts: compact_precedent, colonial_origins]
+• MEM–AMERICA–COLONIAL–BOSTON — Resistance hub; Massacre, Tea
+  Party; Siege of Boston; revolution trigger
+  [concepts: resistance_node, revolution_centre]
+• MEM–AMERICA–COLONIAL–PHILADELPHIA — Continental Congress;
+  Declaration 1776; Constitution 1787; procedural founding
+  [concepts: procedural_founding, assembly_seat]
+• MEM–AMERICA–COLONIAL–NEW–YORK — Dutch then English; port and
+  commerce; occupation and Evacuation Day 1783
+  [concepts: colonial_port, procedural_restoration]
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — First extra-hemispheric
   projection; naval and nodal; Cuba, Philippines; maritime pivot
   [concepts: maritime_expansion, nodal_access]
@@ -180,6 +232,35 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — Naval superiority; Manila Bay,
   Santiago; expeditionary and joint operations; maritime projection
   [concepts: naval_decisiveness, overseas_deployment]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Total war; deep-strike
+  campaigns; breaking enemy capacity and morale; force projection
+  [concepts: total_war, capacity_denial]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — Valley 1864; cavalry
+  pursuit and severance; Five Forks; closure of Lee's army
+  [concepts: mobility_closure, capacity_denial_east]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Army of Northern Virginia;
+  operational peak and exhaustion; surrender as choice
+  [concepts: force_ratio, procedural_termination]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–STONEWALL–JACKSON — Valley, shock,
+  Chancellorsville; tactical tempo; irreplaceable loss
+  [concepts: tactical_tempo, operational_brilliance]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — Siege and river control;
+  Grant; Confederacy split; logistics as weapon
+  [concepts: chokepoint_control, attrition]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — Three-day battle; Lee
+  halted; Union endurance; symbolic and operational turning
+  [concepts: defensive_victory, legitimacy_stabilisation]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — Surrender terms;
+  procedural termination; victory without annihilation
+  [concepts: war_termination, reintegration]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–CHANCELLORSVILLE — May 1863; flank
+  march; Jackson's death; Confederate tactical peak; prelude to
+  Gettysburg
+  [concepts: tactical_brilliance, irreplaceability]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–BULL–RUN — First and Second Bull
+  Run; first major battle; Stonewall; Confederate victories; eastern
+  theatre reality check
+  [concepts: first_battle, Confederate_tactical_victory]
 • MEM–AMERICA–GEO–PACIFIC–OCEAN — Second ocean; Pacific dimension of
   U.S. reach
 • MEM–AMERICA–GEO–GREAT–LAKES — Internal water and border
@@ -419,6 +500,16 @@ Secondary MEMs:
   [concepts: crisis_stewardship, succession_under_shock]
 • MEM–AMERICA–ADAMS — Institutional continuity and succession
 • MEM–AMERICA–GRANT — Post-war authority and corruption exposure
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Keegan: great soldier, failed
+  to control subordinates; surrender as governance choice; liability
+  of indulgent command
+  [concepts: subordinate_control, procedural_surrender]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–STONEWALL–JACKSON — Irreplaceable
+  commander; death removes capability; institutional depth limit
+  [concepts: irreplaceability, mechanism_exposure]
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Total war under civilian
+  control; execution without policy capture
+  [concepts: civilian_supremacy, execution_liability]
 • MEM–AMERICA–ROOSEVELT–THEODORE — Executive energy; bully pulpit;
   hemispheric assertion (Roosevelt Corollary, canal)
 • MEM–AMERICA–ROOSEVELT–FRANKLIN — Crisis stewardship; four terms;

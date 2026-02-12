@@ -96,6 +96,17 @@ Termination is **diplomatic and procedural**; no revolutionary
 purge of the defeated. Britain exits; America continues under
 inherited grammar.
 
+John Keegan, in *Fields of Battle: The Wars for North America* (1996),
+argues that American distinctiveness is shaped by geography and scale:
+
+SOURCE — Keegan, *Fields of Battle* (ARC-T-MODERN):
+> Americans "live in space, not time"—differing from Europeans in how
+> the vast spaces of the continent shape culture and war.
+> — John Keegan, *Fields of Battle: The Wars for North America* (New York: Alfred A. Knopf, 1996) (ARC-T-MODERN) [ERC-SECONDARY]. Theme as summarised in critical reception; verbatim phrase "live in space, not time" attributed to Keegan.
+
+The War of Independence is fought over that space; endurance and
+alliance prevail when imperial power cannot hold the distance.
+
 ────────────────────────────────────────────────────────────
 VI. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -123,6 +134,16 @@ VII. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–SEVEN–YEARS — Colonial phase; postwar imperial
   strain; prelude to independence; same generation, second war.
+• MEM–AMERICA–COLONIAL–JAMESTOWN — First permanent English
+  settlement; House of Burgesses; assembly precedent.
+• MEM–AMERICA–COLONIAL–PLYMOUTH — Mayflower Compact; covenant
+  precedent; colonial origins.
+• MEM–AMERICA–COLONIAL–BOSTON — Resistance hub; Siege of Boston;
+  revolution trigger.
+• MEM–AMERICA–COLONIAL–PHILADELPHIA — Continental Congress;
+  Declaration 1776; Constitutional Convention 1787.
+• MEM–AMERICA–COLONIAL–NEW–YORK — Port and occupation; Evacuation
+  Day 1783; procedural restoration.
 • MEM–AMERICA–WASHINGTON — Commander; restraint; deference to
   civilian authority; voluntary return of power; founding general.
 • MEM–AMERICA–ADAMS — Diplomat; Treaty of Paris negotiator;

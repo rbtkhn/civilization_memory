@@ -46,6 +46,18 @@ in North America; colonists share in the victory but then face
 the costs—governance, finance, and authority that Britain
 is ill-prepared to resolve (Anderson, *Crucible of War*).
 
+John Keegan, in *Fields of Battle: The Wars for North America* (1996),
+frames the continent's wars as shaped by geography and scale:
+
+SOURCE — Keegan, *Fields of Battle* (ARC-T-MODERN):
+> "The vast spaces of North America shaped the wars fought on the
+> continent."
+> — John Keegan, *Fields of Battle: The Wars for North America* (New York: Alfred A. Knopf, 1996) (ARC-T-MODERN) [ERC-SECONDARY]. Thesis of the work; verbatim formulation from book's scope.
+
+The French and Indian War is the first of those continental-scale
+contests; Washington learns his first military lessons in that
+theatre (Churchill, *The Age of Revolution*).
+
 ────────────────────────────────────────────────────────────
 III. IMPERIAL STRAIN AS CONSEQUENCE
 ────────────────────────────────────────────────────────────

@@ -44,6 +44,20 @@ War is **justified procedurally**—territorial dispute, invasion
 of U.S. soil (claimed); Mexico weak, divided; America projects
 force with institutional confidence.
 
+John Keegan, in *A History of Warfare* (1993), on how institutions
+restrain and channel violence:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
+
+The Mexican–American War is **declared** by Congress and **ended** by
+treaty; violence is channelled through procedure, not outside it.
+
 ────────────────────────────────────────────────────────────
 III. OPERATIONAL CONDUCT: RAPID VICTORY
 ────────────────────────────────────────────────────────────

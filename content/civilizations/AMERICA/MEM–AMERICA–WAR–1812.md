@@ -95,6 +95,21 @@ Sequence:
 • War ends without transformation; both sides exit; Canada
   British; America sovereign; maritime grievances deferred
 
+John Keegan, on institutional restraint and the use of force in
+*A History of Warfare* (1993), frames how states confine violence:
+
+SOURCE — Keegan, *A History of Warfare* (ARC-T-MODERN):
+> "Our institutions and our laws, we tell ourselves, have set the human
+> potentiality for violence about with such restraints that violence in
+> everyday life will be punished as criminal by our laws, while its use
+> by our institutions of state will take the particular form of
+> 'civilised warfare.'"
+> — John Keegan, *A History of Warfare* (New York: Alfred A. Knopf, 1993) (ARC-T-MODERN) [ERC-SECONDARY].
+
+The War of 1812 is **constrained** by choice on both sides—status quo
+at Ghent, no revolutionary escalation; procedure (treaty, continuity)
+holds.
+
 New Orleans becomes **symbolic closure**—victory in American
 memory despite strategic draw. Procedure (treaty) and battle
 (timing) diverge; memory compresses toward resilience.

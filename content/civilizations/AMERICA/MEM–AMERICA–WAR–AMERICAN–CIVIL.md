@@ -63,12 +63,29 @@ IV. SCALE: INDUSTRIAL WAR & ATTRITION
 The war transforms state capacity and military logic.
 
 Elements:
-• Mass mobilisation; continental distance (Keegan: "principal
-  problem ... is that of distance"); logistics and railways
+• Mass mobilisation; continental distance; logistics and railways
 • Grant's strategy—attrition, continuous engagement, denial of
   recovery; victory through exhaustion rather than single battle
 • Industrial and demographic superiority; river control (Mississippi,
   Vicksburg); Sherman's campaigns
+
+John Keegan, in *The American Civil War: A Military History* (2009),
+emphasises geography and scale:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "The principal problem confronting the Federal government in its
+> effort to restore the union is that of distance."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+On the leading Union commanders Keegan writes:
+
+SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
+> "Grant and William Tecumseh Sherman stood out among all commanders."
+> — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
+
+Sherman's "brutal and decisive" approach to war-making left "the more
+lasting" legacy; Grant's attrition and procedural surrender at
+Appomattox complete the Union's restoration of authority.
 
 The republic **scales** to total war; procedure (elections, civilian
 command) holds while capacity expands.
@@ -120,6 +137,36 @@ AMERICA:
 • MEM–AMERICA–GRANT — Union commander; attrition and surrender;
   Appomattox terms; general who accepted civilian control; later
   president.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Union total war; Atlanta,
+  March to the Sea, Carolinas; "more lasting" operational legacy;
+  Grant's partner.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — Union cavalry; Shenandoah
+  Valley 1864 (barren waste); Appomattox campaign; Grant's eastern
+  instrument; closure at Five Forks.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Army of Northern Virginia;
+  surrender at Appomattox; procedural termination; Keegan on
+  failure to control subordinates.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–STONEWALL–JACKSON — Confederate
+  tactical commander; Valley, Chancellorsville; death 1863; Lee's
+  principal strike arm.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — War trigger; April
+  1861; Confederate bombardment; federal authority contested; first
+  shot.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — July 1863; Mississippi
+  control; strategic severance; Confederacy split; Grant.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — July 1863; legitimacy
+  inflection; Lee's invasion halted; Lincoln's Address.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — Procedural termination;
+  April 1865; Grant's terms; surrender as restoration.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–CHANCELLORSVILLE — May 1863; Lee's
+  greatest victory; Jackson's flank march; Jackson's death (friendly
+  fire); prelude to Gettysburg.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–BULL–RUN — First Bull Run (July
+  1861) and Second (Aug 1862); war's first major battle; Stonewall
+  sobriquet; Confederate victories on same ground.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL–CONFEDERACY — Secession polity;
+  compact theory; defeat and procedural reintegration; Appomattox;
+  Union and Lost Cause memory.
 • MEM–AMERICA–WASHINGTON — Founding restraint; civilian control;
   Civil War reaffirms president over army; contrast: Washington
   voluntary exit, Lincoln death in office.
