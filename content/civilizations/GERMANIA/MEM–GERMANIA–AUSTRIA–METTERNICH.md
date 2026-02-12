@@ -100,7 +100,7 @@ of the defeated (France) as stakeholder. Talleyrand's role—channel
 incentive (stake in Bourbon order)—made that inclusion operational.
 Metternich's restraint architecture and Talleyrand's inclusion mechanism
 together produced durable closure. See MEM–GERMANIA–CONGRESS–VIENNA §III,
-III.A; CIV–SCHOLAR–GERMANIA ENTRY 0030.
+III.A; CIV–SCHOLAR–GERMANY ENTRY 0030.
 
 Victory principle:
 Peace through mutual restraint among elites.

@@ -21,7 +21,7 @@ UPGRADE NOTE (v2.0 → v2.1) — SCHOLAR SESSION 11 FEB 2026
 Added: III.A Talleyrand mechanism (channel, narrative, incentive);
 VII.A 1871 as negative case (closure without Path A); cross-civilizational
 encoding (Russian arbiter-by-right vs German inclusion); MEM–RUSSIA–
-CONGRESS–VIENNA in connections. Source: CIV–SCHOLAR–GERMANIA ENTRY 0030.
+CONGRESS–VIENNA in connections. Source: CIV–SCHOLAR–GERMANY ENTRY 0030.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -112,7 +112,7 @@ path, and dignified acceptance. **Incentive:** Talleyrand and French
 elites benefited from Bourbon restoration and the settlement; they had
 reason to own and defend it domestically. Versailles (1919) and 1871
 failed to replicate this: no Talleyrand equivalent for the defeated,
-no inclusion, no honorable acceptance path. Source: CIV–SCHOLAR–GERMANIA
+no inclusion, no honorable acceptance path. Source: CIV–SCHOLAR–GERMANY
 ENTRY 0030 (Session 11 Feb 2026).
 
 ────────────────────────────────────────────────────────────

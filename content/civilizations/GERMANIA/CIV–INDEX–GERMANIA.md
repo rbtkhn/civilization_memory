@@ -94,7 +94,7 @@ II. CANONICAL GOVERNANCE FILES
   Lock Level: STRUCTURAL
   Template Version Used: CIV–CORE–TEMPLATE v3.0
 
-• CIV–SCHOLAR–GERMANIA — v2.13
+• CIV–SCHOLAR–GERMANY — v2.13
   Status: ACTIVE · PHASE II (CONSTRAINT GRAMMAR)
   Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 
@@ -302,7 +302,7 @@ XIV. INDEX PARITY & MIRROR STATUS
 ────────────────────────────────────────────────────────────
 Mirror Targets:
 • CIV–CORE–GERMANIA v2.0 — present
-• CIV–SCHOLAR–GERMANIA v2.13 — present
+• CIV–SCHOLAR–GERMANY v2.13 — present
 • CIV–DOCTRINE–GERMANY v3.0 — present
 • CIV–STATE–GERMANY v1.1 — present
 • CIV–ARC–GERMANIA v2.5 — present

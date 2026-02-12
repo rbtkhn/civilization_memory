@@ -23,10 +23,10 @@ govern the actions of the French state**.
 Doctrine guides state action; civilizations are not unified actors
 and do not "follow" doctrine. The state (France) is the actor that
 is guided by these doctrines. The doctrines are derived from the
-FRANCIA civilizational corpus (CIV–SCHOLAR–FRANCIA, MEMs).
+FRANCIA civilizational corpus (CIV–SCHOLAR–FRANCE, MEMs).
 
 It contains:
-• Doctrines explicitly frozen in CIV–SCHOLAR–FRANCIA
+• Doctrines explicitly frozen in CIV–SCHOLAR–FRANCE
 • Definitions suitable for CIV–CORE citation
 • No learning chronology
 • No beliefs
@@ -50,7 +50,7 @@ II. DOCTRINE REGISTRY (AUTHORITATIVE)
 DOCTRINE 01
 Name: DECLARATIVE LEGITIMACY
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0001)
+Source: CIV–SCHOLAR–FRANCE (SYNTHESIS 0001)
 
 Definition:
 Francia generates authority through articulated universal claims,
@@ -72,7 +72,7 @@ Hard Constraints:
 DOCTRINE 02
 Name: UNIVERSALISM–CAPACITY DIVERGENCE
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0002)
+Source: CIV–SCHOLAR–FRANCE (SYNTHESIS 0002)
 
 Definition:
 When Francia's universal claims exceed its material, fiscal,
@@ -101,7 +101,7 @@ Hard Constraints:
 DOCTRINE 03
 Name: RUPTURE AS RENEWAL
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0001 / 0003)
+Source: CIV–SCHOLAR–FRANCE (SYNTHESIS 0001 / 0003)
 
 Definition:
 Francia treats regime collapse, revolution, or systemic rupture
@@ -123,7 +123,7 @@ Hard Constraints:
 DOCTRINE 04
 Name: POST-HEGEMONIC STRATEGIC ANXIETY
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0003)
+Source: CIV–SCHOLAR–FRANCE (SYNTHESIS 0003)
 
 Definition:
 After hegemonic defeat, Francia internalizes loss as civilizational
@@ -148,7 +148,7 @@ Hard Constraints:
 DOCTRINE 05
 Name: LEGITIMACY–CAPACITY OSCILLATOR
 Status: ACCEPTED · LOCKED · CANONICAL
-Source: CIV–SCHOLAR–FRANCIA (SYNTHESIS 0006)
+Source: CIV–SCHOLAR–FRANCE (SYNTHESIS 0006)
 
 Definition:
 Francia exhibits a recurrent oscillation between asserted legitimacy
@@ -173,7 +173,7 @@ III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
 No doctrines have been rejected.
 
-All frozen syntheses in CIV–SCHOLAR–FRANCIA
+All frozen syntheses in CIV–SCHOLAR–FRANCE
 through SYNTHESIS 0006 are represented.
 
 ────────────────────────────────────────────────────────────

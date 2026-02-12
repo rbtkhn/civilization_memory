@@ -962,7 +962,7 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 
 | Source | Version | Last assessed |
 |--------|---------|---------------|
-| CIV–SCHOLAR–GERMANIA | v2.13 | 2026-02-11 |
+| CIV–SCHOLAR–GERMANY | v2.13 | 2026-02-11 |
 | CIV–CORE–GERMANIA | v2.0 | 2026-02-11 |
 | CIV–DOCTRINE–GERMANY | v3.0 | 2026-02-11 |
 | CIV–ARC–GERMANIA | v2.5 | 2026-02-11 |
@@ -1054,7 +1054,7 @@ ENTRY 002 — 11 February 2026
 ENTRY 003 — 11 February 2026
   Session: Sync verification
   Change: Source Versions (Section IX) updated to current source
-  versions — CIV–SCHOLAR–GERMANIA v2.13 (was v2.12), CIV–DOCTRINE–
+  versions — CIV–SCHOLAR–GERMANY v2.13 (was v2.12), CIV–DOCTRINE–
   GERMANY v3.0 (was v2.0). Table format aligned with STATE template.
   Harvest-only transfer note added. No substantive STATE content
   changes; source versions now match actual files. Synced with
@@ -1071,12 +1071,19 @@ ENTRY 004 — 11 February 2026
 ENTRY 005 — 11 February 2026
   Session: Sync and index update
   Source: User request to sync and update INDEX–GERMANIA / INDEX–FRANCIA
-  Changes: CIV–INDEX–GERMANIA updated — Section II (CIV–SCHOLAR–GERMANIA
+  Changes: CIV–INDEX–GERMANIA updated — Section II (CIV–SCHOLAR–GERMANY
   v2.13, CIV–DOCTRINE–GERMANY v3.0, CIV–STATE–GERMANY v1.1); MEM–GERMANIA–
   CONGRESS–PARIS, MEM–GERMANIA–CONGRESS–VIENNA added to Section VIII;
   Section XIV Mirror Targets set to current versions; total 127 MEM
   objects. Source Versions (Section IX) confirmed current; no
   substantive STATE content changes.
+
+ENTRY 006 — 11 February 2026
+  Session: Rename Scholar file
+  Source: User request to align with STATE–GERMANY and present-tense entity
+  Changes: CIV–SCHOLAR–GERMANIA → CIV–SCHOLAR–GERMANY. File renamed; all
+  references updated across content and docs. Source Versions (Section IX):
+  CIV–SCHOLAR–GERMANY v2.13 unchanged.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–GERMANY v1.1

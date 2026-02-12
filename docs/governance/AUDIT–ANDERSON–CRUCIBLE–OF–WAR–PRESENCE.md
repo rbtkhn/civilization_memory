@@ -12,7 +12,7 @@
 |----------|--------|
 | **ARC registration** | FRANCIA ✓ · GERMANIA ✓ · **ANGLIA ✗ (gap)** |
 | **MEM usage** | 14 MEM files cite Anderson; 1 typo (CONSEQUENAD) |
-| **CORE / Scholar / Ledger** | CORE–FRANCIA, SCHOLAR–FRANCIA, ARC–FRANCIA–LEDGER, ARC–GERMANIA–LEDGER reference Anderson |
+| **CORE / Scholar / Ledger** | CORE–FRANCIA, SCHOLAR–FRANCE, ARC–FRANCIA–LEDGER, ARC–GERMANIA–LEDGER reference Anderson |
 | **Other “Anderson” / “Crucible”** | 4 false positives (M.S. Anderson, Emily Anderson, Herrin *Crucible of Europe*, Grimm) |
 
 **Summary:** Anderson / *Crucible of War* is present in **FRANCIA** and **GERMANIA** (ARC + MEM + Ledger) and is used heavily in MEMs for Seven Years' War, imperial fate, and Prussian/French contrast. **ANGLIA** uses Anderson in MEM–ANGLIA–WAR–SEVEN–YEARS (verbatim quotes, bibliography) but **Fred Anderson is not listed in CIV–ARC–ANGLIA** — an ARC compliance gap. Fix: add Fred Anderson to CIV–ARC–ANGLIA, or add an ARC–DISCOVERY flag to MEM–ANGLIA–WAR–SEVEN–YEARS. One typo: MEM–ANGLIA–WAR–SEVEN–YEARS line 93 "CONSEQUENAD" → CONSEQUENCE.
@@ -72,7 +72,7 @@
 | File | Presence |
 |------|----------|
 | CIV–CORE–FRANCIA | Author list: "9. Fred Anderson" |
-| CIV–SCHOLAR–FRANCIA | Synthesis/doctrine basis: MEM–FRANCIA–WAR–SEVEN–YEARS; Anderson "the Seven Years' War taught different lessons to different states" |
+| CIV–SCHOLAR–FRANCE | Synthesis/doctrine basis: MEM–FRANCIA–WAR–SEVEN–YEARS; Anderson "the Seven Years' War taught different lessons to different states" |
 | CIV–ARC–FRANCIA–LEDGER | Anderson (b. 1949), *Crucible of War* (2000); ARC–DISCOVERY note in one MEM; topical scope Seven Years' War, Quebec |
 | CIV–ARC–GERMANIA–LEDGER | Anderson, Fred (b. 1949), *Crucible of War: The Seven Years' War* (2000); listed with other modern sources |
 

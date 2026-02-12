@@ -99,7 +99,7 @@ Dynamics:
 • Legitimacy is ritually restored before material recovery (1431–1453)
 
 The building is thus the **stage** for the sequence identified in
-MEM–FRANCIA–WAR–HUNDRED–YEARS and CIV–SCHOLAR–FRANCIA: moral reversal
+MEM–FRANCIA–WAR–HUNDRED–YEARS and CIV–SCHOLAR–FRANCE: moral reversal
 (preceding material recovery). The cathedral does not win battles; it
 performs the act that makes Valois victory legible as restoration.
 

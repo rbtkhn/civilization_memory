@@ -82,7 +82,7 @@
 
 If you do **only one thing**:
 
-- **Add the “credit as coalition glue” RLL candidate** (RLL–FRANCIA–0018) to CIV–SCHOLAR–FRANCIA PROPOSED RLL CANDIDATES, and add **one continuity insight** to MEM–FRANCIA–WAR–TRAFALGAR (Trafalgar as strategy-space lock-in + bargaining-space collapse).  
+- **Add the “credit as coalition glue” RLL candidate** (RLL–FRANCIA–0018) to CIV–SCHOLAR–FRANCE PROPOSED RLL CANDIDATES, and add **one continuity insight** to MEM–FRANCIA–WAR–TRAFALGAR (Trafalgar as strategy-space lock-in + bargaining-space collapse).  
 
 That gives you one generalizable RLL and one MEM that explicitly encodes path dependence and diplomatic closure—both high leverage for future STATE and LEARN.
 
@@ -96,4 +96,4 @@ Any **write** (RLL candidate, continuity insight, doctrine note, SYNTHESIS refin
 
 **Implementation: 11 Feb 2026 — All approved items implemented.** RLL 0018/0019, continuity insights (TRAFALGAR, CONTINENTAL–SYSTEM, WATERLOO), SYNTHESIS 0005 Assumption 6, Doctrine 04 (Themistocles) v3.3, Session Activity.
 
-*Reference: AUDIT–MEARSHEIMER–NAPOLEONIC–CLUSTER–SECOND–PASS–2026–02–11; CIV–SCHOLAR–FRANCIA; CIV–DOCTRINE–FRANCE v3.3.*
+*Reference: AUDIT–MEARSHEIMER–NAPOLEONIC–CLUSTER–SECOND–PASS–2026–02–11; CIV–SCHOLAR–FRANCE; CIV–DOCTRINE–FRANCE v3.3.*

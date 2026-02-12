@@ -32,7 +32,7 @@ INFLUENCE:
 |-------|-------|
 | KEY_DECISIONS | Conversion to Catholic Christianity; baptism at Reims (tradition); unification of Frankish power under sacral sanction |
 | INFLUENCE_DOMAIN | Legitimacy, ritual geography, Church–crown fusion |
-| CITED_IN_MEMS | MEM–FRANCIA–REIMS; MEM–FRANCIA–REIMS–CATHEDRAL; MEM–FRANCIA–DYNASTY–MEROVINGIAN; MEM–FRANCIA–DYNASTY–CAROLINGIAN; CIV–SCHOLAR–FRANCIA (AXIOM FRANCIA-003 deep precedent) |
+| CITED_IN_MEMS | MEM–FRANCIA–REIMS; MEM–FRANCIA–REIMS–CATHEDRAL; MEM–FRANCIA–DYNASTY–MEROVINGIAN; MEM–FRANCIA–DYNASTY–CAROLINGIAN; CIV–SCHOLAR–FRANCE (AXIOM FRANCIA-003 deep precedent) |
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

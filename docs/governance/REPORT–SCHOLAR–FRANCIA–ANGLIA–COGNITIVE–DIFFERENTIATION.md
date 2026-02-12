@@ -1,7 +1,7 @@
-# Report: Cognitive-Spiritual Differentiation — SCHOLAR–FRANCIA vs SCHOLAR–ANGLIA
+# Report: Cognitive-Spiritual Differentiation — SCHOLAR–FRANCE vs SCHOLAR–ANGLIA
 
 **Classification:** Governance · Comparative Analysis  
-**Source:** CIV–SCHOLAR–FRANCIA v2.1, CIV–SCHOLAR–ANGLIA v0.7  
+**Source:** CIV–SCHOLAR–FRANCE v2.1, CIV–SCHOLAR–ANGLIA v0.7  
 **Date:** January 2026  
 **Scope:** Cognitive-spiritual differentiation of the two Scholar engines; demonstrations with verbatim examples.
 
@@ -17,9 +17,9 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Accumulation Engine (Phase I)
 
-**Verbatim (CIV–SCHOLAR–FRANCIA):**
+**Verbatim (CIV–SCHOLAR–FRANCE):**
 
-> CIV–SCHOLAR–FRANCIA is the accumulative learning ledger of the Francia civilization.
+> CIV–SCHOLAR–FRANCE is the accumulative learning ledger of the Francia civilization.
 >
 > It records learning events, not conclusions.
 >
@@ -68,7 +68,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Zero Priors, CORE Disabled
 
-**Verbatim (CIV–SCHOLAR–FRANCIA):**
+**Verbatim (CIV–SCHOLAR–FRANCE):**
 
 > Starting Knowledge: ZERO  
 > Assumed Priors: NONE  
@@ -110,7 +110,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Declaration, Universalism, Rupture, Symbol
 
-**Verbatim axioms (CIV–SCHOLAR–FRANCIA § IV.A):**
+**Verbatim axioms (CIV–SCHOLAR–FRANCE § IV.A):**
 
 > **AXIOM FRANCIA-001:** Authority flows from declaration.  
 > **AXIOM FRANCIA-002:** Universal claims generate legitimacy.  
@@ -154,7 +154,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Contested Gaps and Resolution Paths
 
-**Verbatim (CIV–SCHOLAR–FRANCIA § IV.B):**
+**Verbatim (CIV–SCHOLAR–FRANCE § IV.B):**
 
 > **[NCZ-001] Colonial Legitimacy Transfer** — Status: CONTESTED; Resolution Path: Ingest MEM–FRANCIA–EMPIRE–ALGERIA, MEM–FRANCIA–EMPIRE–INDOCHINA  
 > **[NCZ-002] Fifth Republic Rupture Status** — Status: CONTESTED; Resolution Path: Ingest MEM–FRANCIA–DE–GAULLE, MEM–FRANCIA–FIFTH–REPUBLIC  
@@ -265,7 +265,7 @@ Anglia’s Scholar (template v1.2) has **no MIND profile or tri-frame** section.
 
 ### Francia: Recovery Through Rupture and Symbol
 
-**Verbatim (CIV–SCHOLAR–FRANCIA):** ENTRY 0013 (MEM–WAR–HUNDRED–YEARS, MEM–NOTRE–DAME); SYNTHESIS 0004 medieval extension; ENTRY 0014 (MEM–FRANCIA–AQUITAINE). Post-Reims (1431–1453): **recovery through rupture** (Hundred Years’ War); **symbolic reassertion** (Reims, Joan, fleur-de-lys) before procedural continuity; Aquitaine reabsorption completes the sequence.
+**Verbatim (CIV–SCHOLAR–FRANCE):** ENTRY 0013 (MEM–WAR–HUNDRED–YEARS, MEM–NOTRE–DAME); SYNTHESIS 0004 medieval extension; ENTRY 0014 (MEM–FRANCIA–AQUITAINE). Post-Reims (1431–1453): **recovery through rupture** (Hundred Years’ War); **symbolic reassertion** (Reims, Joan, fleur-de-lys) before procedural continuity; Aquitaine reabsorption completes the sequence.
 
 **Cognitive character:** Hundred Years’ War = **rupture then symbolic renewal**; territorial recovery follows legitimacy reassertion. Francia **absorbs** the war into a narrative of renewal.
 
@@ -315,7 +315,7 @@ Anglia’s Scholar (template v1.2) has **no MIND profile or tri-frame** section.
 
 **Summary table**
 
-| Dimension           | SCHOLAR–FRANCIA v2.1           | SCHOLAR–ANGLIA v0.7                |
+| Dimension           | SCHOLAR–FRANCE v2.1           | SCHOLAR–ANGLIA v0.7                |
 |---------------------|---------------------------------|-------------------------------------|
 | Phase               | I (Accumulation)                | None (READ-ONLY locked)             |
 | Bound RLLs          | 0                               | N/A                                 |

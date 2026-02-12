@@ -62,8 +62,8 @@ Governance binding: Sovereignty–Compression–Exit-Building structure; DS, PAC
 | Civilization | CIV–SCHOLAR | Status |
 |--------------|-------------|--------|
 | ANGLIA | CIV–SCHOLAR–ANGLIA | Present |
-| FRANCIA | CIV–SCHOLAR–FRANCIA | Present |
-| GERMANIA | CIV–SCHOLAR–GERMANIA | Present |
+| FRANCIA | CIV–SCHOLAR–FRANCE | Present |
+| GERMANIA | CIV–SCHOLAR–GERMANY | Present |
 | ISLAM | CIV–SCHOLAR–ISLAM | Present |
 | ROME | CIV–SCHOLAR–ROME | Present |
 | RUSSIA | CIV–SCHOLAR–RUSSIA | Present |

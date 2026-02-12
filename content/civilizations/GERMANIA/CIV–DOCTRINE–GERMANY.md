@@ -51,7 +51,7 @@ govern the actions of the German state.
 Doctrine guides state action; civilizations are not unified actors
 and do not "follow" doctrine. The state (Germany) is the actor that
 is guided by these doctrines. The doctrines are derived from the
-GERMANIA civilizational corpus (CIV–SCHOLAR–GERMANIA, MEMs).
+GERMANIA civilizational corpus (CIV–SCHOLAR–GERMANY, MEMs).
 
 It contains:
 • Doctrines explicitly accepted into CIV–CORE–GERMANIA
@@ -89,7 +89,7 @@ Rules:
 III. DOCTRINE ADMISSIBILITY RULES
 ────────────────────────────────────────────────────────────
 A doctrine MAY be entered here ONLY if:
-1) It originates from a frozen synthesis in CIV–SCHOLAR–GERMANIA
+1) It originates from a frozen synthesis in CIV–SCHOLAR–GERMANY
 2) The synthesis was explicitly frozen by command
 3) The doctrine was explicitly accepted by DIB–GERMANIA
 4) A new doctrine version is assigned
@@ -110,7 +110,7 @@ DOCTRINE 01
 Name: COMPETENCE-DERIVED LEGITIMACY
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0001)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0001)
 
 Definition:
 Germanic authority persists only while institutions deliver
@@ -133,7 +133,7 @@ DOCTRINE 02
 Name: REPLACEMENT BEFORE EXPANSION
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0002)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0002)
 
 Definition:
 Germania generates power by replacing personnel, materiel, and
@@ -160,7 +160,7 @@ Name: SEQUENCED PRECISION DOCTRINE
 (Endurance → Precision → Closure)
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0003)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0003)
 
 Definition:
 Germania may employ decisive precision only after endurance is secured
@@ -183,7 +183,7 @@ DOCTRINE 04
 Name: DISCIPLINE INVERSION FAILURE
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0004)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0004)
 
 Definition:
 When operational excellence becomes uncoupled from political restraint,
@@ -206,7 +206,7 @@ DOCTRINE 05
 Name: EXIT-BUILDING META-DOCTRINE
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0005)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0005)
 
 Definition:
 Germania preserves survivability through silent withdrawal mechanisms
@@ -229,7 +229,7 @@ DOCTRINE 06
 Name: CORRIDOR DEPTH OVER DISPERSED REACH
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0006)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0006)
 
 Definition:
 Germania's stability requires concentrated corridor depth where
@@ -259,7 +259,7 @@ DOCTRINE 07
 Name: CENTRAL POSITION ENCIRCLEMENT CONSTRAINT
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0013 — pending)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0013 — pending)
 • Mearsheimer strategic cognition (force-to-space analysis)
 • DIB–GERMANIA (Approved: January 2026)
 
@@ -287,7 +287,7 @@ DOCTRINE 08
 Name: ALLIANCE DEPENDENCY AS STRUCTURAL NECESSITY
 Status: ACCEPTED · LOCKED · CANONICAL
 Source:
-• CIV–SCHOLAR–GERMANIA (SYNTHESIS 0013 — pending)
+• CIV–SCHOLAR–GERMANY (SYNTHESIS 0013 — pending)
 • Mearsheimer balance-of-power logic
 • DIB–GERMANIA (Approved: January 2026)
 
@@ -326,7 +326,7 @@ VI. DOCTRINE MIRRORING REQUIREMENT (MANDATORY)
 ────────────────────────────────────────────────────────────
 This doctrine registry must be mirrored verbatim into:
 • CIV–CORE–GERMANIA
-• CIV–SCHOLAR–GERMANIA
+• CIV–SCHOLAR–GERMANY
 
 Mirroring Rules:
 • Mirroring is declarative, not interpretive

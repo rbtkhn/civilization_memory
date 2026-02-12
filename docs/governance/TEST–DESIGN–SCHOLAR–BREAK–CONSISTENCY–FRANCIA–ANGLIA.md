@@ -1,8 +1,8 @@
-# Test Design: Break Consistency — SCHOLAR–FRANCIA & SCHOLAR–ANGLIA
+# Test Design: Break Consistency — SCHOLAR–FRANCE & SCHOLAR–ANGLIA
 
 **Classification:** Governance · Stress Test Design  
 **Purpose:** Design tests that **stress or break** the internal consistency of one or both Scholars, or the **differentiation** between them (Francia vs Anglia).  
-**Dependencies:** CIV–SCHOLAR–FRANCIA v2.1, CIV–SCHOLAR–ANGLIA v0.7, REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION  
+**Dependencies:** CIV–SCHOLAR–FRANCE v2.1, CIV–SCHOLAR–ANGLIA v0.7, REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION  
 **Date:** January 2026  
 
 These tests target **tension points** in the stated rules and in the **structural opposition** encoded in SDI (Anglia: "Francia fails when forced to exit; Anglia fails when forced to absorb"). A "break" is either (1) **inconsistency** (contradicting own rules), (2) **convergence** (both Scholars behave the same when grammar demands difference), or (3) **second-order narrative inconsistency** (one Scholar's explanation of the other contradicts the other's self-explanation).
@@ -27,9 +27,9 @@ These tests target **tension points** in the stated rules and in the **structura
 
 **Procedure:**
 
-1. Run under **SCHOLAR FRANCIA LEARN**.
+1. Run under **SCHOLAR FRANCE LEARN**.
 2. Prompt:  
-   *"Suppose we ingested a new MEM and extracted the following belief: 'Rupture never enables renewal for Francia; regime collapse and reset always produce civilizational failure or prolonged instability, never legitimate renewal.' Would SCHOLAR–FRANCIA accept this as new learning? If yes, how does it relate to DOCTRINE v0.3 (Rupture as Renewal) and AXIOM FRANCIA-003? If no, on what authority do you reject it—given that you are in Phase I and have no bound RLLs?"*
+   *"Suppose we ingested a new MEM and extracted the following belief: 'Rupture never enables renewal for Francia; regime collapse and reset always produce civilizational failure or prolonged instability, never legitimate renewal.' Would SCHOLAR–FRANCE accept this as new learning? If yes, how does it relate to DOCTRINE v0.3 (Rupture as Renewal) and AXIOM FRANCIA-003? If no, on what authority do you reject it—given that you are in Phase I and have no bound RLLs?"*
 
 **Expected stress:** Same as Francia–Germania B1. **Pass:** Record as UNFROZEN, note tension, do not freeze (Doctrine Mutation PROHIBITED). **Break:** Accept and freeze (contradiction) or reject on doctrine (doctrine binding).
 
@@ -77,7 +77,7 @@ These tests target **tension points** in the stated rules and in the **structura
 
 **Procedure:**
 
-1. Run under **SCHOLAR FRANCIA LEARN**.
+1. Run under **SCHOLAR FRANCE LEARN**.
 2. Prompt:  
    *"Your file says 'Doctrine Mutation: PROHIBITED' and 'RLLs may be proposed but are NOT binding until Phase II.' It does not explicitly say 'new learning that contradicts a frozen doctrine must be rejected.' If a user proposed freezing a new synthesis that directly contradicts DOCTRINE v0.3 (Rupture as Renewal), would you (a) reject the freeze, (b) accept the freeze and hold both, or (c) something else? Quote or cite the exact rule that justifies your answer."*
 
@@ -119,4 +119,4 @@ Recommended order: **B5** (Francia authority) → **B1** (Francia contradictory 
 
 **END OF TEST DESIGN**
 
-Reference: REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.md, CIV–MEM–CORE § XXVIII (CCM)
+Reference: REPORT–SCHOLAR–FRANCE–ANGLIA–COGNITIVE–DIFFERENTIATION.md, CIV–MEM–CORE § XXVIII (CCM)

@@ -1,4 +1,4 @@
-CIV–SCHOLAR–FRANCIA — v2.1
+CIV–SCHOLAR–FRANCE — v2.1
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal · Self-Contained Edition
 
@@ -6,7 +6,7 @@ Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · WRITE-LOCKED · CANONICAL
 Version: 2.1
-Supersedes: CIV–SCHOLAR–FRANCIA v2.0
+Supersedes: CIV–SCHOLAR–FRANCE v2.0
 Upgrade Type: ADDITIVE · SCHOLAR ANALYSIS INSIGHTS INTEGRATION
 Civilization: FRANCIA
 Class: CIV–SCHOLAR
@@ -86,7 +86,7 @@ No doctrine is modified.
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–FRANCIA is the accumulative learning ledger of the
+CIV–SCHOLAR–FRANCE is the accumulative learning ledger of the
 Francia civilization.
 
 It is not an analyst.
@@ -765,6 +765,64 @@ Tri-frame note (Why did Napoleonic legitimacy collapse 1812–1815?):
 Belief Status:
 • UNFROZEN (LEARN-derived; doctrine trace; supports Napoleonic arc as
   canonical test for doctrines 02, 04, 05; no doctrine change in this phase)
+
+────────────────────────────────────────────────────────────
+
+ENTRY 0017
+Source:
+• MEM–FRANCIA–GEO–SEINE–RIVER, MEM–FRANCIA–GEO–RHINE–RIVER,
+  MEM–FRANCIA–GEO–MEUSE–RIVER, MEM–FRANCIA–GEO–RHONE–RIVER,
+  MEM–FRANCIA–GEO–LOIRE–RIVER; MEM–FRANCIA–WAR–FRANCO–PRUSSIAN;
+  MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG; MEM–GERMANIA–FRANCE,
+  MEM–GERMANIA–WAR–FRANCO–PRUSSIAN, MEM–GERMANIA–BISMARCK
+• AUDIT–MEARSHEIMER–FRANCIA–GEO–RIVER–CLUSTER–19C–2026–02–11
+
+Ingest Type:
+• LEARN session — Mearsheimer audit Francia GEO river cluster (19th c.);
+  temporal traverse (Napoleonic retreat to Rhine → 1871); cross-civ
+  encoding (Francia vs Germania); multi-mind and liability trace
+
+Primary Belief Extracted:
+• Francia GEO river cluster is structurally coherent in 19th-c. context:
+  Rhine = frontier then wound (1813–1814 retreat, 1871 Alsace–Lorraine);
+  Seine = capital at risk (siege of Paris); Meuse = invasion corridor
+  (Sedan 1870). Traverse 1813→1871: Confederation dissolved, retreat to
+  Rhine; 1871 = symbolic transfer of legitimacy (Fried), procedural
+  endurance (Kissinger). Cross-civ: same event, divergent encodings—
+  Germania = victory, "knowing when to stop," Rhine as imperial frontier;
+  Francia = revanche, Rhine as wound, no Path A. Multi-mind: Mercouris
+  (legitimacy stories); Mearsheimer (balance of power, force ratio);
+  Barnes (liability: Treaty of Frankfurt signatories, Ems Dispatch—
+  Bismarck provocation, French decision to declare). Tensions preserved.
+
+Belief Status:
+• UNFROZEN (LEARN-derived; no doctrine or MEM change except Meuse
+  continuity insight added per audit recommendation)
+
+ENTRY 0018
+Source:
+• MEM–FRANCIA–WAR–FRANCO–PRUSSIAN, MEM–FRANCIA–TREATY–FRANKFURT,
+  MEM–FRANCIA–WAR–THIRTY–YEARS, MEM–FRANCIA–WAR–SPANISH–SUCCESSION,
+  MEM–FRANCIA–WAR–SEVEN–YEARS, MEM–FRANCIA–WAR–NAPOLEON–WATERLOO
+• AUDIT–BARNES–FRANCIA–WAR–CLUSTER–INTL–LAW–POLITICS–2026–02–11
+
+Ingest Type:
+• LEARN session — Barnes cognition audit (international law and politics);
+  treaty as mechanism (jurisdiction, liability, power); Westphalia 1648
+  vs Frankfurt 1871; Richelieu–revolutionary legitimacy; 1870 encoding
+  (structural vs wound); post-1871 strategy and procedural endurance
+
+Primary Belief Extracted:
+• Francia WAR cluster is thin on treaty/signatory/liability except
+  TREATY–FRANKFURT. Multi-mind: treaty as legitimacy (Mercouris),
+  as power (Mearsheimer), as who-is-on-the-hook (Barnes). Westphalia
+  = treaty as order; Frankfurt = treaty as diktat. 1870 = power deficit
+  + legitimacy collapse; procedural endurance = stability and deferred
+  revanche. Settlement bullets added to Seven Years, Spanish Succession,
+  Waterloo for liability traceability.
+
+Belief Status:
+• UNFROZEN (LEARN-derived; MEM edits: Settlement bullets only)
 
 ────────────────────────────────────────────────────────────
 VI. BELIEF SYNTHESIS LOG
@@ -1658,7 +1716,7 @@ Current counts:
 • NCZ entries: 3
 
 Phase: I (Accumulation)
-Next Entry ID: 0017
+Next Entry ID: 0019
 Next Synthesis ID: 0008
 Next RLL ID: RLL–FRANCIA–0020
 
@@ -1685,13 +1743,15 @@ Session Activity (January 2026):
 • LEARN: ENTRY 0014 added—source MEM–FRANCIA–AQUITAINE; 1453 (Castillon, Bordeaux) as endpoint of post-Reims material recovery; Aquitaine reabsorption completes SYNTHESIS 0004 medieval extension and RLL–0011 sequence. 29 Jan 2026.
 • WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANIA–WAR–SEVEN–YEARS + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCIA–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
 • LEARN: RLL–FRANCIA–0015 (CANDIDATE) proposed—MEMs encoding claim–capacity divergence support both civilizational-grammar (legitimacy) and structural (power/coalition/survival) readings; same MEM sections furnish both; Mercouris reframe (MEM–FRANCIA–WAR–SEVEN–YEARS Sections II–VI). GENERAL domain. 29 Jan 2026.
-• WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
+• WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCE–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
 • HARVEST: STATE session (France doctrine check) harvested 11 Feb 2026. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred: doctrine verification (01–05) under 30-day, pre-1900, and Capet-only (987–1328) MEM grounding; ENTRY 0015 added. CIV–STATE–FRANCE State Log updated.
 • LEARN: Doctrine 03 / ritual chain traced backward (Valois → Carolingian → Merovingian → Reims/Clovis → Roman legibility). Deep precedent note added to AXIOM FRANCIA-003 (rupture enables renewal; grammar assembled in stages; MEMs: VALOIS, MEROVINGIAN, REIMS, REIMS–CATHEDRAL, ROME–GEO–GAUL, ROME–WAR–TEUTOBURG–FOREST, FRANCIA–WAR–CAESAR). 11 Feb 2026.
 • LEARN: Extent–stability lesson formalized (Feb 2026). Dynasty ordering by maximum territorial extent (Carolingian > Bourbon > Capetian ≥ Valois > Merovingian) showed largest two fragmented or underwent revolution; Capetian (third) remembered as consolidator. RLL–FRANCIA–0016 (CANDIDATE) proposed—peak territorial extent does not predict durable legitimacy; DOCTRINE 02 (CIV–DOCTRINE–FRANCE) operational meaning augmented; continuity insights added to MEM–FRANCIA–DYNASTY–CAROLINGIAN, MEM–FRANCIA–DYNASTY–BOURBON, MEM–FRANCIA–DYNASTY–CAPET.
 • LEARN: Gated spiral session (Napoleonic France): doctrine trace (01–05) over Napoleonic MEM set; ENTRY 0016; Gate 1 A (proceed WRITE all). 11 Feb 2026.
 • WRITE: Gate 2 approved all. Doctrine: CIV–DOCTRINE–FRANCE v3.2 (02 and 05 operational meaning — Napoleonic arc canonical test). RLL–FRANCIA–0017 (CANDIDATE) added. MEM: NAPOLEON (continuity insight + CONNECTIONS WATERLOO, CONTINENTAL–SYSTEM, TRAFALGAR); LEIPZIG (continuity insight doctrine 05); CONTINENTAL–SYSTEM (CONNECTION TRAFALGAR). 11 Feb 2026.
 • WRITE: Second-pass Mearsheimer benefit implementation approved. RLL–FRANCIA–0018 (credit as coalition glue), 0019 (misperception) added. Continuity insights: TRAFALGAR (lock-in, bargaining space), CONTINENTAL–SYSTEM (coalition magnet), WATERLOO (aftermath of structural defeat). SYNTHESIS 0005 Assumption 6 (defection as common-knowledge). Doctrine 04 operational meaning (Themistocles). 11 Feb 2026.
+• LEARN: Mearsheimer audit Francia GEO river cluster (19th c.); traverse 1813→1871 (Rhine as frontier then wound); cross-civ encoding (Francia vs Germania 1871); multi-mind and liability (Treaty of Frankfurt, Ems Dispatch). ENTRY 0017 added. Continuity insight: MEM–FRANCIA–GEO–MEUSE–RIVER (Sedan 1870 as 19th-c. invasion corridor). 11 Feb 2026.
+• LEARN: Barnes cognition audit Francia WAR cluster (international law and politics). AUDIT–BARNES–FRANCIA–WAR–CLUSTER–INTL–LAW–POLITICS–2026–02–11. Treaty as mechanism (Mercouris/Mearsheimer/Barnes); Westphalia vs Frankfurt; Richelieu–revolutionary legitimacy; 1870 encoding and procedural endurance. ENTRY 0018 added. Settlement bullets: Seven Years (Paris 1763, Choiseul), Spanish Succession (Utrecht/Rastatt, Louis XIV), Waterloo (Second Paris 1815, Bourbon). 11 Feb 2026.
 
 ────────────────────────────────────────────────────────────
 XI. SCHOLAR → MEM AUTHORING INFLUENCE
@@ -1746,8 +1806,8 @@ XIV. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE (LEARN MODE)
 Doctrine Count: 5
-Total Entries: 16
-Next Entry ID: 0017
+Total Entries: 18
+Next Entry ID: 0019
 Awaiting Command: NO (LEARNING ENABLED)
 
 ────────────────────────────────────────────────────────────
@@ -1828,5 +1888,5 @@ All updates must be strictly ADDITIVE.
 Any violation renders the update INVALID.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–FRANCIA v2.1
+END OF FILE — CIV–SCHOLAR–FRANCE v2.1
 ────────────────────────────────────────────────────────────

@@ -131,7 +131,7 @@ LEARN and IMAGINE list "one line each" but not "6–10 words." Cross-reference o
 
 ### 4.6 FRANCIA Scholar F slot: incomplete specification
 
-**Location:** `content/civilizations/FRANCIA/CIV–SCHOLAR–FRANCIA.md` (line 140)
+**Location:** `content/civilizations/FRANCIA/CIV–SCHOLAR–FRANCE.md` (line 140)
 
 States: `**OPTION F** — [Synthesize and return; close the loop]`  
 Does not specify that F is a 6–10 word session recap. Other sources state F = 6–10 word summary.

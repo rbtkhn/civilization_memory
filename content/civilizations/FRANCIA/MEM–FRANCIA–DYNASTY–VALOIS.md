@@ -170,7 +170,7 @@ Positive:
 Trauma becomes instructional.
 
 ────────────────────────────────────────────────────────────
-SCHOLAR LINKAGE (CIV–SCHOLAR–FRANCIA v2.0 · LEARN 2026-01-29)
+SCHOLAR LINKAGE (CIV–SCHOLAR–FRANCE v2.0 · LEARN 2026-01-29)
 ────────────────────────────────────────────────────────────
 This MEM is the test case for RLL–FRANCIA–0011 (continuity under
 sustained breakdown) and for AXIOM FRANCIA-003 / SYNTHESIS 0004

@@ -116,7 +116,7 @@
 ### VI.D GERMANIA — GAPS
 - **CIV–CORE–GERMANIA:** Template Version Used: CIV–CORE–TEMPLATE v2.0 → update to v3.0
 - **CIV–INDEX–GERMANIA:** Line 44: "CIV–MEM–TEMPLATE v2.8" (historical); Line 99: "CIV–SCHOLAR–TEMPLATE v2.10" → update to v3.0 where active
-- **CIV–SCHOLAR–GERMANIA:** Line 2565: CIV–MEM–TEMPLATE v2.8 → update to v3.0
+- **CIV–SCHOLAR–GERMANY:** Line 2565: CIV–MEM–TEMPLATE v2.8 → update to v3.0
 - **CIV–ARC–GERMANIA–LEDGER:** Line 6: "CIV–ARC–TEMPLATE v2.7 · CIV–MEM–TEMPLATE v2.8" → update to v3.0
 
 ### VI.E FRANCIA — GAPS

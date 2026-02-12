@@ -1,4 +1,4 @@
-CIV–SCHOLAR–GERMANIA — v2.13
+CIV–SCHOLAR–GERMANY — v2.13
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Germania Civilization
 
@@ -6,7 +6,7 @@ Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · WRITE-LOCKED
 Version: 2.13
-Supersedes: CIV–SCHOLAR–GERMANIA v2.12
+Supersedes: CIV–SCHOLAR–GERMANY v2.12
 Upgrade Type: ADDITIVE · SESSION NOTE (HARVEST ANALYSIS, VIENNA/PATH A, TALLEYRAND)
 Activation State: ACTIVE (APPEND-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
@@ -221,7 +221,7 @@ adjacent polities produce annihilation when restraint fails.
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2 → v2.0) — TEMPLATE v2.5 COMPLIANCE
 ────────────────────────────────────────────────────────────
-This version upgrades CIV–SCHOLAR–GERMANIA to full CIV–SCHOLAR–TEMPLATE v2.5
+This version upgrades CIV–SCHOLAR–GERMANY to full CIV–SCHOLAR–TEMPLATE v2.5
 compliance. This is a MAJOR upgrade that restructures the file while preserving
 all previously frozen learning.
 
@@ -248,7 +248,7 @@ PHASE CLARIFICATION:
 ────────────────────────────────────────────────────────────
 I. SCHOLAR PURPOSE & ROLE
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA is the constraint grammar layer governing all
+CIV–SCHOLAR–GERMANY is the constraint grammar layer governing all
 Germanic civilizational interpretation across MEM, CORE, DOCTRINE,
 GAME, and SIMULATION contexts.
 
@@ -270,7 +270,7 @@ No content here may override canonical MEM files.
 ────────────────────────────────────────────────────────────
 II. PHASE TRANSITION DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA has exited **Learning Accumulation Phase**.
+CIV–SCHOLAR–GERMANY has exited **Learning Accumulation Phase**.
 
 Condition met:
 • Sufficient cross-MEM coherence (9 entries, 5 frozen syntheses)
@@ -811,7 +811,7 @@ Starting Knowledge: ACCUMULATED (from CIV–SCHOLAR file content)
 Authoritative Data Sources: ACTIVE
 • CIV–CORE–GERMANIA: Structural constraints and operational logic
 • CIV–DOCTRINE–GERMANY: Frozen learning and hard constraints
-• CIV–SCHOLAR–GERMANIA: Prior learning entries and synthesis history
+• CIV–SCHOLAR–GERMANY: Prior learning entries and synthesis history
 • Loaded MEM Files: Priority layer for new learning and analysis
 
 Civilizational Grammar: PRELOADED (from frozen syntheses)
@@ -2579,7 +2579,7 @@ v3.0 prohibited unless CIV–MEM–CORE undergoes major revision.
 ────────────────────────────────────────────────────────────
 XI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–GERMANIA v2.12 is declared:
+CIV–SCHOLAR–GERMANY v2.12 is declared:
 
 • CANONICAL
 • PHASE II (CONSTRAINT GRAMMAR)
@@ -2669,5 +2669,5 @@ territorial depth. Alliance exit produces encirclement; alliance
 entrapment produces overextension.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–GERMANIA v2.12 (PHASE II · TEMPLATE v2.9 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–GERMANY v2.12 (PHASE II · TEMPLATE v2.9 COMPLIANT)
 ────────────────────────────────────────────────────────────

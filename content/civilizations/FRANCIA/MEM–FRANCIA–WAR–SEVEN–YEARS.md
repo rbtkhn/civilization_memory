@@ -1,9 +1,9 @@
-MEM–FRANCIA–WAR–SEVEN–YEARS — v1.4
+MEM–FRANCIA–WAR–SEVEN–YEARS — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE · CANONICAL
-Version: 1.4
-Supersedes: v1.3
+Version: 1.5
+Supersedes: v1.4
 Upgrade Type: ADDITIVE · PEARSON VOLTAIRE ALMIGHTY INTEGRATION
 Civilization: FRANCIA
 Subject: Seven Years’ War
@@ -240,6 +240,9 @@ Each linkage preserves contrast without synthesis.
 ────────────────────────────────────────────────────────────
 X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
+• Settlement: Treaty of Paris (1763); France cedes Canada and French
+  India; Duc de Choiseul led French negotiation (AUDIT–BARNES–FRANCIA–
+  WAR–CLUSTER–INTL–LAW–POLITICS–2026–02–11).
 • Global war punishes symbolic empires first.
 • Universal ambition without naval dominance collapses outward.
 • Fiscal exhaustion precedes political rupture.
@@ -285,5 +288,5 @@ Secondary (≥4 total; ≥3 Distinguished Scholars embedded above):
 • Peter Wilson, *Heart of Europe* (Distinguished Scholar)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–SEVEN–YEARS — v1.4
+END OF FILE — MEM–FRANCIA–WAR–SEVEN–YEARS — v1.5
 ────────────────────────────────────────────────────────────

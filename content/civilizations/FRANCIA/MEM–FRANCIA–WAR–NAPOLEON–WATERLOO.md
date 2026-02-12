@@ -1,10 +1,10 @@
-MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — v2.0
+MEM–FRANCIA–WAR–NAPOLEON–WATERLOO — v2.1
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
 Status: ACTIVE · CANONICAL · 20% COMPLIANT
-Version: 2.0
-Supersedes: MEM–FRANCIA–WAR–NAPOLEON–WATERLOO v1.0
+Version: 2.1
+Supersedes: MEM–FRANCIA–WAR–NAPOLEON–WATERLOO v2.0
 Upgrade Type: MAJOR · THREE-LAYER COMPLIANCE · KEEGAN INTEGRATION
 Civilization: FRANCIA
 Subject: Battle of Waterloo
@@ -64,6 +64,10 @@ STRATEGIC CONSEQUENCE:
 • Congress system established
 • Napoleon exiled permanently
 • Demonstrates AXIOM FRANCIA-005 completion: no destinations remain
+
+Settlement (treaty): Second Treaty of Paris (November 1815); France
+(restored Bourbon monarchy) signed; Napoleon exiled to St. Helena
+(AUDIT–BARNES–FRANCIA–WAR–CLUSTER–INTL–LAW–POLITICS–2026–02–11).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -439,5 +443,5 @@ Future upgrades may:
 • Integrate Clausewitz's analysis
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–NAPOLEON–WATERLOO v2.0
+END OF FILE — MEM–FRANCIA–WAR–NAPOLEON–WATERLOO v2.1
 ────────────────────────────────────────────────────────────

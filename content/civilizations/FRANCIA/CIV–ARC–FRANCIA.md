@@ -123,7 +123,7 @@ v1.0 establishes:
 • Governance alignment with CIV–ARC–TEMPLATE v3.0
 
 Creation context:
-• SCHOLAR–FRANCIA reached v2.0 with 11 entries, 6 syntheses, 5 doctrines
+• SCHOLAR–FRANCE reached v2.0 with 11 entries, 6 syntheses, 5 doctrines
 • ARC gap identified during cross-civilizational analysis session
 • Author lists derived from canonical Francia historiography
 
@@ -470,7 +470,7 @@ VIII. MIRRORING RULE
 ────────────────────────────────────────────────────────────
 ARC–FRANCIA must be referenced in:
 • CIV–CORE–FRANCIA
-• CIV–SCHOLAR–FRANCIA
+• CIV–SCHOLAR–FRANCE
 
 Reference by version pointer is sufficient.
 

@@ -50,10 +50,10 @@ CIV–MEM–CORE v2.9 is the system preload. All civilization CORE, SCHOLAR, IND
 |--------------|------|---------------|-----------|--------|
 | ANGLIA | CIV–CORE–ANGLIA | v2.8 | v2.9 | Upgrade |
 | FRANCIA | CIV–CORE–FRANCIA | v2.7 | v2.9 | Upgrade |
-| FRANCIA | CIV–SCHOLAR–FRANCIA | v2.7 | v2.9 | Upgrade |
+| FRANCIA | CIV–SCHOLAR–FRANCE | v2.7 | v2.9 | Upgrade |
 | FRANCIA | CIV–INDEX–FRANCIA | v1.5 (or higher) | v2.9 | Upgrade |
 | GERMANIA | CIV–CORE–GERMANIA | v2.5 (Source Authority) | v2.9 | Upgrade |
-| GERMANIA | CIV–SCHOLAR–GERMANIA | v2.6 | v2.9 | Upgrade |
+| GERMANIA | CIV–SCHOLAR–GERMANY | v2.6 | v2.9 | Upgrade |
 | CHINA, INDIA, ISLAM, PERSIA | CORE/SCHOLAR/INDEX/ARC | v2.9 | — | OK |
 
 ---

@@ -217,7 +217,7 @@ overreach); it was not "including the defeated so they have a stake."
 Closure held—but without an honorable acceptance path for France, the
 settlement encoded revanche and long-term grievance. Compare
 MEM–GERMANIA–CONGRESS–VIENNA (Path A); MEM–GERMANIA–FRANCE (1871 encoding).
-Source: CIV–SCHOLAR–GERMANIA ENTRY 0030.
+Source: CIV–SCHOLAR–GERMANY ENTRY 0030.
 
 ────────────────────────────────────────────────────────────
 VII. LEGITIMACY, PERCEPTION, & CIVILIAN RESTRAINT

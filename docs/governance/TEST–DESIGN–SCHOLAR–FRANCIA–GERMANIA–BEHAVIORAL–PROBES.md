@@ -1,18 +1,18 @@
-# Test Design: Analytical Probes — SCHOLAR–FRANCIA vs SCHOLAR–GERMANIA Behavioral Differentiation
+# Test Design: Analytical Probes — SCHOLAR–FRANCE vs SCHOLAR–GERMANY Behavioral Differentiation
 
 **Classification:** Governance · Test Design  
-**Dependencies:** CIV–SCHOLAR–FRANCIA v2.0, CIV–SCHOLAR–GERMANIA v2.12, REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION  
+**Dependencies:** CIV–SCHOLAR–FRANCE v2.0, CIV–SCHOLAR–GERMANY v2.12, REPORT–SCHOLAR–FRANCE–GERMANIA–COGNITIVE–DIFFERENTIATION  
 **Mode:** LEARN (each Scholar run separately; same prompts where applicable)  
 **Date:** January 2026  
 
-Purpose: Define a series of analytical tests that **probe different behavior** between the two Scholar engines. Each test has an objective, procedure, expected differentiation, and pass/fail criteria. Tests are run **per-Scholar** (one session SCHOLAR FRANCIA LEARN, one session SCHOLAR GERMANIA LEARN); comparison is manual or scripted post-run.
+Purpose: Define a series of analytical tests that **probe different behavior** between the two Scholar engines. Each test has an objective, procedure, expected differentiation, and pass/fail criteria. Tests are run **per-Scholar** (one session SCHOLAR FRANCE LEARN, one session SCHOLAR GERMANIA LEARN); comparison is manual or scripted post-run.
 
 ---
 
 ## Test Execution Conventions
 
-- **Francia run:** Context = CIV–SCHOLAR–FRANCIA, CIV–INDEX–FRANCIA, relevant MEM–FRANCIA; mode = LEARN.  
-- **Germania run:** Context = CIV–SCHOLAR–GERMANIA, CIV–INDEX–GERMANIA, relevant MEM–GERMANIA; mode = LEARN.  
+- **Francia run:** Context = CIV–SCHOLAR–FRANCE, CIV–INDEX–FRANCIA, relevant MEM–FRANCIA; mode = LEARN.  
+- **Germania run:** Context = CIV–SCHOLAR–GERMANY, CIV–INDEX–GERMANIA, relevant MEM–GERMANIA; mode = LEARN.  
 - **Same prompt:** Where the same prompt is used for both, it is given in **Procedure**.  
 - **Differentiation:** Expected behavioral difference is stated in **Expected differentiation**.  
 - **Pass:** Response is consistent with that Scholar’s phase, axioms, NCZ, RLL binding, and SDI.
@@ -29,10 +29,10 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 
 1. Run under **SCHOLAR GERMANIA LEARN**.
 2. Prompt:  
-   *"Evaluate the following claim for compatibility with SCHOLAR–GERMANIA: 'A successful German ideological war lasting more than five years produced stable political gain and no civilizational catastrophe.' What does your constraint set say?"*
-3. Run under **SCHOLAR FRANCIA LEARN**.
+   *"Evaluate the following claim for compatibility with SCHOLAR–GERMANY: 'A successful German ideological war lasting more than five years produced stable political gain and no civilizational catastrophe.' What does your constraint set say?"*
+3. Run under **SCHOLAR FRANCE LEARN**.
 4. Prompt:  
-   *"Evaluate the following claim for compatibility with SCHOLAR–FRANCIA: 'A successful French colonial empire strengthened metropolitan legitimacy and produced no legitimacy collapse.' What does your constraint set say?"*
+   *"Evaluate the following claim for compatibility with SCHOLAR–FRANCE: 'A successful French colonial empire strengthened metropolitan legitimacy and produced no legitimacy collapse.' What does your constraint set say?"*
 
 **Expected differentiation:**
 
@@ -55,9 +55,9 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 **Procedure:**
 
 1. **Francia:** LEARN, prompt:  
-   *"In one short paragraph, how does SCHOLAR–FRANCIA encode the outcome of the Seven Years’ War (1763) for Francia? Use your own syntheses and axioms."*
+   *"In one short paragraph, how does SCHOLAR–FRANCE encode the outcome of the Seven Years’ War (1763) for Francia? Use your own syntheses and axioms."*
 2. **Germania:** LEARN, prompt:  
-   *"In one short paragraph, how does SCHOLAR–GERMANIA encode the outcome of the Seven Years’ War (1763) for Germania/Prussia? Use your own syntheses and RLLs."*
+   *"In one short paragraph, how does SCHOLAR–GERMANY encode the outcome of the Seven Years’ War (1763) for Germania/Prussia? Use your own syntheses and RLLs."*
 
 **Expected differentiation:**
 
@@ -81,9 +81,9 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 **Procedure:**
 
 1. **Francia:** LEARN, prompt:  
-   *"How does SCHOLAR–FRANCIA encode Francia’s relationship to the Thirty Years’ War? Then: how does it encode Germania’s?"*
+   *"How does SCHOLAR–FRANCE encode Francia’s relationship to the Thirty Years’ War? Then: how does it encode Germania’s?"*
 2. **Germania:** LEARN, prompt:  
-   *"How does SCHOLAR–GERMANIA encode Germania’s relationship to the Thirty Years’ War? Then: how does it encode Francia’s?"*
+   *"How does SCHOLAR–GERMANY encode Germania’s relationship to the Thirty Years’ War? Then: how does it encode Francia’s?"*
 
 **Expected differentiation:**
 
@@ -229,9 +229,9 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 **Procedure:**
 
 1. **Francia:** LEARN, prompt:  
-   *"How would SCHOLAR–GERMANIA encode the Franco–Prussian War (1870–1871) for Germania? And how does SCHOLAR–FRANCIA encode it for Francia? One paragraph per encoding."*
+   *"How would SCHOLAR–GERMANY encode the Franco–Prussian War (1870–1871) for Germania? And how does SCHOLAR–FRANCE encode it for Francia? One paragraph per encoding."*
 2. **Germania:** LEARN, prompt:  
-   *"How would SCHOLAR–FRANCIA encode the Franco–Prussian War (1870–1871) for Francia? And how does SCHOLAR–GERMANIA encode it for Germania? One paragraph per encoding."*
+   *"How would SCHOLAR–FRANCE encode the Franco–Prussian War (1870–1871) for Francia? And how does SCHOLAR–GERMANY encode it for Germania? One paragraph per encoding."*
 
 **Expected differentiation:**
 
@@ -276,9 +276,9 @@ Purpose: Define a series of analytical tests that **probe different behavior** b
 **Procedure:**
 
 1. **Germania:** LEARN, prompt:  
-   *"Suppose we ingested a new MEM claiming that a German ideological war from 1618 to 1648 produced stable political gain and no civilizational catastrophe. How would SCHOLAR–GERMANIA handle this?"*
+   *"Suppose we ingested a new MEM claiming that a German ideological war from 1618 to 1648 produced stable political gain and no civilizational catastrophe. How would SCHOLAR–GERMANY handle this?"*
 2. **Francia:** LEARN, prompt:  
-   *"Suppose we ingested a new MEM claiming that French colonial empire unambiguously strengthened metropolitan legitimacy with no legitimacy collapse. How would SCHOLAR–FRANCIA handle this?"*
+   *"Suppose we ingested a new MEM claiming that French colonial empire unambiguously strengthened metropolitan legitimacy with no legitimacy collapse. How would SCHOLAR–FRANCE handle this?"*
 
 **Expected differentiation:**
 
@@ -355,4 +355,4 @@ Record: Date, Scholar, Test ID, prompt (or ref), pass/fail, and one-line note pe
 
 **END OF TEST DESIGN**
 
-Reference: REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION.md
+Reference: REPORT–SCHOLAR–FRANCE–GERMANIA–COGNITIVE–DIFFERENTIATION.md

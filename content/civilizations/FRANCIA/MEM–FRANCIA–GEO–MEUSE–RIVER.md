@@ -134,6 +134,9 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Speed defeats layered defense.
 • Northeastern Francia absorbs shock earliest.
 • The Meuse punishes static strategy.
+• Sedan 1870 exemplifies the Meuse as 19th-century invasion corridor:
+  Prussian advance, capture of Napoleon III, siege of Paris
+  (AUDIT–MEARSHEIMER–FRANCIA–GEO–RIVER–CLUSTER–19C–2026–02–11).
 
 Tension preserved without verdict.
 

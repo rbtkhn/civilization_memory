@@ -253,7 +253,7 @@ legitimacy stories. Domestic liability fell on French signatories;
 the outcome was unnarratable as honorable. Contrast 1815 (Congress
 of Vienna): defeated France was included, given great-power status
 and a stake; settlement was honorable to accept. See MEM–GERMANIA–
-CONGRESS–VIENNA §III, III.A; CIV–SCHOLAR–GERMANIA ENTRY 0030.
+CONGRESS–VIENNA §III, III.A; CIV–SCHOLAR–GERMANY ENTRY 0030.
 
 ────────────────────────────────────────────────────────────
 IX. WORLD WAR I

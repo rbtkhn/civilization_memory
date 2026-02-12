@@ -27,7 +27,7 @@ exoskeleton for whoever holds the top decision-making role for France.
 Same level of access to context and stakes, same need for options and
 precedent; no formal authority. **State learns from Scholar**—the
 historically-grounded patterns and constraint grammar accumulated in
-CIV–SCHOLAR–FRANCIA inform this file. Information flows from STATE
+CIV–SCHOLAR–FRANCE inform this file. Information flows from STATE
 into Scholar only via explicit **harvest** or **harvest session**
 command (CIV–STATE–TEMPLATE §XIV-B). The system equips; the principal
 decides. Accountability lives with the choice, not the analysis.
@@ -348,8 +348,8 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 | Source | Version | Last assessed |
 |--------|---------|---------------|
 | CIV–CORE–FRANCIA | v2.0 | 2026-02-11 |
-| CIV–SCHOLAR–FRANCIA | v2.1 | 2026-02-11 |
-| CIV–DOCTRINE–FRANCE | v3.0 | 2026-02-11 |
+| CIV–SCHOLAR–FRANCE | v2.1 | 2026-02-11 |
+| CIV–DOCTRINE–FRANCE | v3.3 | 2026-02-11 |
 | MEM corpus (FRANCIA) | — | Not yet synced |
 
 To update: user issues "sync state to scholar" command (STATE file
@@ -363,10 +363,12 @@ X. STATE LOG
 | Date | Entry |
 |------|-------|
 | 2026-02-11 | File created (v1.0). Entity: France. Classification: STANDARD-STATE. Civilization: FRANCIA. Sections I–III populated from CIV–CORE–FRANCIA; Sections IV–X structure in place; Material options and stability indicators to be developed in STATE sessions. |
-| 2026-02-11 | Sync verification: Source Versions (Section IX) updated to exact versions — CIV–SCHOLAR–FRANCIA v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–CORE–FRANCIA v2.0. STATE content aligned with CORE (axioms, diagnostics); doctrines flow via CIV–DOCTRINE–FRANCE from Scholar. No substantive source changes since file creation. |
-| 2026-02-11 | Harvest (STATE → Scholar): STATE session doctrine check harvested. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred to CIV–SCHOLAR–FRANCIA: ENTRY 0015 (doctrine verification under 30-day, pre-1900, Capet-only MEM grounding); Session Activity line. No doctrine or STATE content modified; harvest records learning from present-oriented session. CIV–STATE–TEMPLATE §XIV-B. |
+| 2026-02-11 | Sync verification: Source Versions (Section IX) updated to exact versions — CIV–SCHOLAR–FRANCE v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–CORE–FRANCIA v2.0. STATE content aligned with CORE (axioms, diagnostics); doctrines flow via CIV–DOCTRINE–FRANCE from Scholar. No substantive source changes since file creation. |
+| 2026-02-11 | Harvest (STATE → Scholar): STATE session doctrine check harvested. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred to CIV–SCHOLAR–FRANCE: ENTRY 0015 (doctrine verification under 30-day, pre-1900, Capet-only MEM grounding); Session Activity line. No doctrine or STATE content modified; harvest records learning from present-oriented session. CIV–STATE–TEMPLATE §XIV-B. |
 | 2026-02-11 | Rename: CIV–DOCTRINE–FRANCIA → CIV–DOCTRINE–FRANCE. Rationale: doctrine guides state action; civilizations are not unified actors. New file CIV–DOCTRINE–FRANCE.md created; all references updated (Scholar, STATE, doctrine check, CIV–CORE–ANGLIA); CIV–DOCTRINE–FRANCIA.md removed. Source Versions (Section IX): CIV–DOCTRINE–FRANCE v3.0. |
-| 2026-02-11 | Sync and index update: CIV–INDEX–FRANCIA updated — Section II (CANONICAL GOVERNANCE FILES) added: CIV–CORE–FRANCIA v2.0, CIV–SCHOLAR–FRANCIA v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–STATE–FRANCE v1.0, CIV–ARC–FRANCIA v3.0. FILE REGISTER renumbered to III, INDEX LOCK to IV. Source Versions (Section IX) confirmed current; no substantive STATE content changes. |
+| 2026-02-11 | Sync and index update: CIV–INDEX–FRANCIA updated — Section II (CANONICAL GOVERNANCE FILES) added: CIV–CORE–FRANCIA v2.0, CIV–SCHOLAR–FRANCE v2.1, CIV–DOCTRINE–FRANCE v3.0, CIV–STATE–FRANCE v1.0, CIV–ARC–FRANCIA v3.0. FILE REGISTER renumbered to III, INDEX LOCK to IV. Source Versions (Section IX) confirmed current; no substantive STATE content changes. |
+| 2026-02-11 | Sync (STATE ← sources): Source Versions updated. CIV–DOCTRINE–FRANCE v3.0 → v3.3 (additive operational meanings: 02/05 Napoleonic canonical test; 04 Themistocles / structural reversal). CIV–SCHOLAR–FRANCE v2.1, CIV–CORE–FRANCIA v2.0 unchanged. No Hard Constraint changes; no updates to material options or stability indicators required. CIV–STATE–TEMPLATE §XIV. |
+| 2026-02-11 | Rename: CIV–SCHOLAR–FRANCIA → CIV–SCHOLAR–FRANCE. Rationale: aligned with CIV–STATE–FRANCE and present-tense entity (France). File renamed; all references updated across content and docs. Source Versions (Section IX): CIV–SCHOLAR–FRANCE v2.1 unchanged. |
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–FRANCE v1.0

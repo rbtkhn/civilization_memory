@@ -1,7 +1,7 @@
-# Report: Cognitive-Spiritual Differentiation — SCHOLAR–FRANCIA vs SCHOLAR–GERMANIA
+# Report: Cognitive-Spiritual Differentiation — SCHOLAR–FRANCE vs SCHOLAR–GERMANY
 
 **Classification:** Governance · Comparative Analysis  
-**Source:** CIV–SCHOLAR–FRANCIA v2.0, CIV–SCHOLAR–GERMANIA v2.12  
+**Source:** CIV–SCHOLAR–FRANCE v2.0, CIV–SCHOLAR–GERMANY v2.12  
 **Date:** January 2026  
 **Scope:** Cognitive-spiritual differentiation of the two Scholar engines; demonstrations with verbatim examples.
 
@@ -17,9 +17,9 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Accumulation Engine (Phase I)
 
-**Verbatim (CIV–SCHOLAR–FRANCIA):**
+**Verbatim (CIV–SCHOLAR–FRANCE):**
 
-> CIV–SCHOLAR–FRANCIA is the accumulative learning ledger of the Francia civilization.
+> CIV–SCHOLAR–FRANCE is the accumulative learning ledger of the Francia civilization.
 >
 > It is not an analyst. It is not a strategist. It is not predictive. It has no innate cognition.
 >
@@ -36,14 +36,14 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Germania: Constraint Grammar Engine (Phase II)
 
-**Verbatim (CIV–SCHOLAR–GERMANIA):**
+**Verbatim (CIV–SCHOLAR–GERMANY):**
 
-> CIV–SCHOLAR–GERMANIA is the constraint grammar layer governing all Germanic civilizational interpretation across MEM, DOCTRINE, GAME, and SIMULATION contexts.
+> CIV–SCHOLAR–GERMANY is the constraint grammar layer governing all Germanic civilizational interpretation across MEM, DOCTRINE, GAME, and SIMULATION contexts.
 >
 > This file records: Accumulated learning events; **Bound Recursive Learning Laws (RLLs)**; **Structural constraints discovered through ingestion**; **Negative capability limits (what Germania cannot stably do)**.
 >
 > …
-> CIV–SCHOLAR–GERMANIA has exited **Learning Accumulation Phase**. … The system now operates in **Constraint Grammar Phase (PHASE II)**.
+> CIV–SCHOLAR–GERMANY has exited **Learning Accumulation Phase**. … The system now operates in **Constraint Grammar Phase (PHASE II)**.
 >
 > Meaning: New learning is evaluated against existing constraints; novel claims are stress-tested for compatibility; apparent exceptions are treated as anomaly candidates, not refutations.
 
@@ -67,7 +67,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Zero Priors, CORE Disabled
 
-**Verbatim (CIV–SCHOLAR–FRANCIA):**
+**Verbatim (CIV–SCHOLAR–FRANCE):**
 
 > **II. INITIAL STATE**
 > Starting Knowledge: ZERO  
@@ -83,7 +83,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Germania: Accumulated State, CORE Enabled
 
-**Verbatim (CIV–SCHOLAR–GERMANIA):**
+**Verbatim (CIV–SCHOLAR–GERMANY):**
 
 > **III. ACCUMULATED STATE & AUTHORITATIVE SOURCES**
 > Starting Knowledge: **ACCUMULATED** (from CIV–SCHOLAR file content)  
@@ -114,7 +114,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Declaration, Universalism, Rupture, Symbol
 
-**Verbatim axioms (CIV–SCHOLAR–FRANCIA § IV.A):**
+**Verbatim axioms (CIV–SCHOLAR–FRANCE § IV.A):**
 
 > **AXIOM FRANCIA-001:** Authority flows from declaration.  
 > Derivation: ENTRY 0001 (Charlemagne), ENTRY 0009 (Napoleonic Code)
@@ -138,7 +138,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Germania: Discipline, Closure, Trauma, Precision
 
-**Verbatim axioms (CIV–SCHOLAR–GERMANIA § II.A):**
+**Verbatim axioms (CIV–SCHOLAR–GERMANY § II.A):**
 
 > **AXIOM GERMANIA-001:** Discipline precedes expansion.  
 > Derivation: MEM–GERMANIA–CHARLEMAGNE, MEM–GERMANIA–PRUSSIA–FREDERICK–II
@@ -178,7 +178,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Contested Gaps and Resolution Paths
 
-**Verbatim (CIV–SCHOLAR–FRANCIA § IV.B):**
+**Verbatim (CIV–SCHOLAR–FRANCE § IV.B):**
 
 > **[NCZ-001] Colonial Legitimacy Transfer:**  
 > Did colonial empire strengthen or weaken metropolitan legitimacy?  
@@ -201,7 +201,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Germania: Structural Exclusions — What Cannot Be Done
 
-**Verbatim (CIV–SCHOLAR–GERMANIA § II.B):**
+**Verbatim (CIV–SCHOLAR–GERMANY § II.B):**
 
 > **STRUCTURAL EXCLUSIONS:**
 > **[NCZ-GER-001]** Ideological war as sustainable policy  
@@ -240,7 +240,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia: Syntheses with Assumptions Boxes; Doctrines Frozen; RLLs Proposed
 
-**Example — SYNTHESIS 0004 (CIV–SCHOLAR–FRANCIA):**
+**Example — SYNTHESIS 0004 (CIV–SCHOLAR–FRANCE):**
 
 > **Outcome:**  
 > Francia repeatedly converts defeat and rupture into renewed authority by reasserting universal legitimacy through **myth, law, and symbol** rather than procedural continuity.
@@ -257,7 +257,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Germania: Syntheses → Bound RLLs; RLLs Enforced
 
-**Example — SYNTHESIS 0005 → RLL–GERMANIA–0005 (CIV–SCHOLAR–GERMANIA):**
+**Example — SYNTHESIS 0005 → RLL–GERMANIA–0005 (CIV–SCHOLAR–GERMANY):**
 
 > **SYNTHESIS 0005 (ENTRY 0008–0009)**  
 > Outcome: Authority is legitimate only when command capacity is permanently constrained by **restraint, closure, and administrative self-limitation**. Power that expands without enforced stopping rules reverts to catastrophe.  
@@ -289,7 +289,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Francia SDI: Two Entries (Francia ↔ Germania)
 
-**Verbatim (CIV–SCHOLAR–FRANCIA § IX):**
+**Verbatim (CIV–SCHOLAR–FRANCE § IX):**
 
 > **SDI ENTRY 0001:** Francia ↔ Germania — Thirty Years' War  
 > Result: **Francia reframes trauma as mission** | **Germania encodes trauma as restraint**  
@@ -305,7 +305,7 @@ The two Scholar files encode **distinct civilizational epistemes**: Francia’s 
 
 ### Germania SDI: Sixteen Entries (Germania ↔ Multiple Civilizations)
 
-**Verbatim excerpts (CIV–SCHOLAR–GERMANIA § VII):**
+**Verbatim excerpts (CIV–SCHOLAR–GERMANY § VII):**
 
 > **SDI–GER–001:** Thirty Years' War  
 > Germania: Encodes trauma as **permanent constraint**  
@@ -425,7 +425,7 @@ Primary **output** of tri-frame in Germania Scholar: **bound RLLs** that state w
 
 **Summary table**
 
-| Dimension           | SCHOLAR–FRANCIA v2.0           | SCHOLAR–GERMANIA v2.12                |
+| Dimension           | SCHOLAR–FRANCE v2.0           | SCHOLAR–GERMANY v2.12                |
 |--------------------|---------------------------------|----------------------------------------|
 | Phase              | I (Accumulation)                | II (Constraint Grammar)                |
 | Bound RLLs         | 0                               | 11                                     |

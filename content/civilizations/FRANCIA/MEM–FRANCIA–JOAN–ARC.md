@@ -33,7 +33,7 @@ INFLUENCE:
 |-------|-------|
 | KEY_DECISIONS | Insistence on Reims for coronation; sacral framing of Dauphin's legitimacy; military/symbolic leadership at Orléans and Reims |
 | INFLUENCE_DOMAIN | Legitimacy, myth, ritual geography (Reims), doctrine 03 / AXIOM FRANCIA-003 |
-| CITED_IN_MEMS | MEM–FRANCIA–WAR–HUNDRED–YEARS; MEM–FRANCIA–REIMS–CATHEDRAL; MEM–FRANCIA–ORLEANS; MEM–FRANCIA–DYNASTY–VALOIS; CIV–SCHOLAR–FRANCIA (RLL–0011 myth carrier; doctrine 03) |
+| CITED_IN_MEMS | MEM–FRANCIA–WAR–HUNDRED–YEARS; MEM–FRANCIA–REIMS–CATHEDRAL; MEM–FRANCIA–ORLEANS; MEM–FRANCIA–DYNASTY–VALOIS; CIV–SCHOLAR–FRANCE (RLL–0011 myth carrier; doctrine 03) |
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

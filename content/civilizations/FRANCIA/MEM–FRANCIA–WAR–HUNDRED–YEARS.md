@@ -166,7 +166,7 @@ fragment**, even at the cost of pluralism (*Diplomacy*).
 Universalism is later grafted onto recovered sovereignty.
 
 ────────────────────────────────────────────────────────────
-SCHOLAR LINKAGE (CIV–SCHOLAR–FRANCIA v2.0 · LEARN 2026-01-29)
+SCHOLAR LINKAGE (CIV–SCHOLAR–FRANCE v2.0 · LEARN 2026-01-29)
 ────────────────────────────────────────────────────────────
 This MEM grounds SYNTHESIS 0004 medieval extension and RLL–FRANCIA–0011
 (continuity under sustained breakdown). Sequence: legitimacy shift at

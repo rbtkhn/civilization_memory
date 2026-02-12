@@ -1,6 +1,6 @@
-# SCHOLAR FRANCIA LEARN SESSION REPORT — 29 January 2026
+# SCHOLAR FRANCE LEARN SESSION REPORT — 29 January 2026
 
-**Mode:** SCHOLAR FRANCIA LEARN  
+**Mode:** SCHOLAR FRANCE LEARN  
 **Scope:** Firnhaber-Baker corpus synthesis; medieval Francia (Capet → Valois); Joan of Arc, post-Reims, Aquitaine 1453; tri-frame (Barnes, Mearsheimer, Mercouris)
 
 ---
@@ -101,4 +101,4 @@ Tri-frame summary added to **RLL–FRANCIA–0011** and **ENTRY 0013**.
 
 **END OF REPORT**
 
-Governed by: CIV–SCHOLAR–FRANCIA v2.0, CIV–SCHOLAR–PROTOCOL v2.2.
+Governed by: CIV–SCHOLAR–FRANCE v2.0, CIV–SCHOLAR–PROTOCOL v2.2.

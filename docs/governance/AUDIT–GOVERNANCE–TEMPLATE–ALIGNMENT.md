@@ -86,7 +86,7 @@ All governance and template alignment is verified against these sections and the
 | OGE_ARCHITECTURE | v1.1 | v1.1 | ✓ Aligned |
 | CIV–MEM–TEMPLATE | v2.9 | v2.9 | ✓ Aligned |
 | CIV–SCHOLAR–TEMPLATE | v2.10 | v2.10 | ✓ Aligned |
-| CIV–SCHOLAR–GERMANIA | v2.12 | (content) v2.12 | ✓ Aligned |
+| CIV–SCHOLAR–GERMANY | v2.12 | (content) v2.12 | ✓ Aligned |
 | MIND / other templates | As listed | As above | ✓ Aligned |
 
 **Verdict:** Manifest Section II and III match current file versions. § VI Quick Binding declares CIV–MEM–CORE v2.8 — **aligned**.

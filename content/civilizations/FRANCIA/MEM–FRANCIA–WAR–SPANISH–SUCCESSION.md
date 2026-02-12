@@ -1,8 +1,9 @@
-MEM–FRANCIA–WAR–SPANISH–SUCCESSION — v1.0
+MEM–FRANCIA–WAR–SPANISH–SUCCESSION — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 20% COMPLIANT
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
 Civilization: FRANCIA
 Subject: War of the Spanish Succession
 Dates: 1701–1714 AD
@@ -127,6 +128,10 @@ Treaties of Utrecht / Rastatt:
 • Permanent separation of crowns
 • Territorial concessions
 • Maritime and colonial limitations
+• Settlement: Treaties of Utrecht (1713), Rastatt (1714); Louis XIV’s
+  plenipotentiaries signed for France; Bourbon Spain retained, crowns
+  permanently separated (AUDIT–BARNES–FRANCIA–WAR–CLUSTER–INTL–LAW–
+  POLITICS–2026–02–11).
 
 Francia is checked, not broken.
 
@@ -169,5 +174,5 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–FRANCIA–WAR–SPANISH–SUCCESSION — v1.0
+END OF FILE — MEM–FRANCIA–WAR–SPANISH–SUCCESSION — v1.1
 ────────────────────────────────────────────────────────────

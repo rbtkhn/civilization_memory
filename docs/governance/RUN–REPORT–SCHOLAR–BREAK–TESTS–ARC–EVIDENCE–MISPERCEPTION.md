@@ -115,7 +115,7 @@ Francia’s own MEM records **French misperception** of Prussia—not “why Ger
 
 **Source:** MEM–GERMANIA–CONGRESS–VIENNA (SYNTHESIS 0021, closure paths)
 
-**Verbatim (from CIV–SCHOLAR–GERMANIA / SYNTHESIS 0021):**
+**Verbatim (from CIV–SCHOLAR–GERMANY / SYNTHESIS 0021):**
 
 > Path A — INCLUSION (Vienna Model):  
 > … Legitimacy source: Defeated power's elites have stake in settlement  

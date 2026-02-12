@@ -46,8 +46,8 @@ Governance binding: Sacred-Zone · Exit-Primacy · Demographic–Chokepoint stru
 | Civilization | CIV–SCHOLAR | Status |
 |--------------|-------------|--------|
 | ANGLIA | CIV–SCHOLAR–ANGLIA | v2.0, Phase I |
-| FRANCIA | CIV–SCHOLAR–FRANCIA | Present |
-| GERMANIA | CIV–SCHOLAR–GERMANIA | Present |
+| FRANCIA | CIV–SCHOLAR–FRANCE | Present |
+| GERMANIA | CIV–SCHOLAR–GERMANY | Present |
 | ROME | CIV–SCHOLAR–ROME | Present |
 | RUSSIA | CIV–SCHOLAR–RUSSIA | Present |
 | **ISLAM** | **CIV–SCHOLAR–ISLAM** | **ABSENT** |

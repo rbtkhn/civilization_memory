@@ -26,7 +26,7 @@ v2.4 changes:
 • Added Jonathan Israel (b. 1946) — Dutch Republic specialist
 • Added Geoffrey Parker (b. 1943) — Dutch Revolt and Spanish military specialist
 • Supports ENTRY 0026 (city-state survival), ENTRY 0027 (maritime chokepoint),
-  SYNTHESIS 0016, SYNTHESIS 0017 in CIV–SCHOLAR–GERMANIA v2.9
+  SYNTHESIS 0016, SYNTHESIS 0017 in CIV–SCHOLAR–GERMANY v2.9
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.3) — AUTHOR EXPANSION
@@ -265,7 +265,7 @@ VIII. MIRRORING RULE
 ────────────────────────────────────────────────────────────
 ARC–GERMANIA must be referenced in:
 • CIV–CORE–GERMANIA
-• CIV–SCHOLAR–GERMANIA
+• CIV–SCHOLAR–GERMANY
 
 Reference by version pointer is sufficient.
 

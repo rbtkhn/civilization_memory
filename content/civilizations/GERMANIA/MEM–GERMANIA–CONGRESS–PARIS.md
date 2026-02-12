@@ -292,7 +292,7 @@ XI. MEM BIBLIOGRAPHY
 • Goldfrank, David M. *The Origins of the Crimean War*. London:
   Longman, 1994.
 • Treaty of Paris (1856) — primary document.
-• CIV–SCHOLAR–GERMANIA ENTRY 0030 (Session 11 Feb 2026) — settlement-
+• CIV–SCHOLAR–GERMANY ENTRY 0030 (Session 11 Feb 2026) — settlement-
   design arc, Path A contrast, force ratio.
 
 ────────────────────────────────────────────────────────────
