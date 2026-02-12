@@ -1,4 +1,4 @@
-PROPOSAL–CURRENT–EVENTS–PROTOCOL — v1.0
+PROPOSAL–CURRENT–EVENTS–PROTOCOL — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 Formalize Current Events Analysis for Bidirectional Learning
 

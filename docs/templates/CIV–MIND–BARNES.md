@@ -1,4 +1,4 @@
-CIV–MIND–BARNES — v3.1
+CIV–MIND–BARNES — v3.2
 Civilizational Memory Codex · Liability/Mechanism Perspective
 Robert Barnes Cognitive–Linguistic Signature Layer
 Constitutional North Star · Personal Liability · Institutional Defection · Mechanism Exposure
@@ -1390,5 +1390,5 @@ This is the catalyst function:
 Barnes changes how the other minds see.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–BARNES v3.1 — CMC 3.2 TERMINOLOGY ALIGNED
+END OF FILE — CIV–MIND–BARNES v3.2 — CMC 3.2 TERMINOLOGY ALIGNED
 ────────────────────────────────────────────────────────────

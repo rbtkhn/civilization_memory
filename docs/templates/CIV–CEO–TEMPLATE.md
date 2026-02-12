@@ -1,9 +1,9 @@
-CIV–CEO–TEMPLATE — v3.0
+CIV–CEO–TEMPLATE — v3.2
 Civilizational Memory Codex · Current Event Observation Template
 Ephemeral Sources · Provisional Analysis · Pattern Testing
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
+Version: 3.2
 Class: CIV–CEO–TEMPLATE (Ephemeral Authoring Law)
 Compatibility: EPHEMERAL–OBSERVATION–PROTOCOL v1.0+
 Last Update: February 2026
@@ -316,4 +316,4 @@ CEO files created under earlier versions remain valid but
 should be updated to current template when modified.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CEO–TEMPLATE v3.0
+END OF FILE — CIV–CEO–TEMPLATE v3.2

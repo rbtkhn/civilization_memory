@@ -1,9 +1,9 @@
-CIV–DOCTRINE–TEMPLATE — v3.0
+CIV–DOCTRINE–TEMPLATE — v3.2
 Civilizational Strategy Codex · Doctrine Registry Template
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Version: 3.0
+Version: 3.2
 Supersedes: CIV–DOCTRINE–TEMPLATE v2.1
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Class: CIV–DOCTRINE (Template)
@@ -242,5 +242,5 @@ Derived files MUST include:
 "Derived from CIV–DOCTRINE–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–TEMPLATE v3.0
+END OF FILE — CIV–DOCTRINE–TEMPLATE v3.2
 ────────────────────────────────────────────────────────────

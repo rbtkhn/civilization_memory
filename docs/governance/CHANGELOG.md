@@ -1,4 +1,4 @@
-CHANGELOG — v1.0
+CHANGELOG — v3.2
 Civilizational Memory Codex · Governance Change History
 Consolidated Version History
 
@@ -6,6 +6,28 @@ Status: ACTIVE · CANONICAL
 Governed by: CMC 3.2
 Last Updated: 2026-02-11
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00004. GOVERNANCE AND TEMPLATE VERSION ALIGNMENT TO v3.2
+────────────────────────────────────────────────────────────
+Date: 2026-02-11
+Type: VERSION (ALIGNMENT)
+
+CHANGES:
+• All governance and template files with declared version < 3.2
+  upgraded to v3.2 for alignment with CMC 3.2.
+• Governance: CHANGELOG, COMPLIANCE–REGISTRY, CIV–SCHOLAR–PRUNING–PROTOCOL,
+  NAMESPACE–CLARIFICATION, SESSION–LEDGER, and all PROPOSAL–* files.
+• Templates: CIV–STATE–TEMPLATE (v1.12→v3.2), CIV–CORE–TEMPLATE, CIV–INDEX–TEMPLATE,
+  CIV–ARC–TEMPLATE, CIV–ARC–LEDGER–TEMPLATE, CIV–DOCTRINE–TEMPLATE, CIV–CEO–TEMPLATE,
+  CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–SCHOLAR–PROTOCOL, CIV–MIND–TEMPLATE,
+  CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES, and EXAMPLE–MEM–* files.
+• CIV–SCHOLAR–PRUNING–PROTOCOL compatibility updated to CIV–MEM–CORE v3.2 ·
+  CIV–SCHOLAR–TEMPLATE v3.2.
+• END OF FILE markers and Version: lines updated to 3.2 in all upgraded files.
+
+ORIGIN:
+User requested upgrade of all governance and template files with version < 3.2.
 
 ────────────────────────────────────────────────────────────
 00003. HARVEST — EXCLUSIVE GATE FOR STATE → SCHOLAR LEARN

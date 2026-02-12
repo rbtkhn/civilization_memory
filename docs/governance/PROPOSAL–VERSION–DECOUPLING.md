@@ -1,4 +1,4 @@
-PROPOSAL–VERSION–DECOUPLING — v1.0
+PROPOSAL–VERSION–DECOUPLING — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 Decouple Content Versions from Governance Versions
 

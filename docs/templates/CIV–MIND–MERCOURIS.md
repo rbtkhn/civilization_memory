@@ -1,4 +1,4 @@
-CIV–MIND–MERCOURIS — v3.1
+CIV–MIND–MERCOURIS — v3.2
 Civilizational Memory Codex · Primary Mind
 Alexander Mercouris Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture · Proportional Blend Law
@@ -938,5 +938,5 @@ This file defines *how* Mercouris thinks —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MERCOURIS — v3.1
+END OF FILE — CIV–MIND–MERCOURIS — v3.2
 ────────────────────────────────────────────────────────────

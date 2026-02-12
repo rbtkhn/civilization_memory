@@ -1,9 +1,9 @@
-NAMESPACE–CLARIFICATION — v1.0
+NAMESPACE–CLARIFICATION — v3.2
 Civilizational Memory Codex · Category Namespace Resolution
 Defect Remediation · Errata
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 3.2
 Class: GOVERNANCE (Errata)
 Addresses: ARC namespace collision (CRITICAL defect)
 Last Update: January 2026

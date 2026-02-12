@@ -1,4 +1,4 @@
-PROPOSAL–TYPED–CONNECTIONS — v1.0
+PROPOSAL–TYPED–CONNECTIONS — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 Replace Mechanical Connection Counts with Typed Directional Edges
 

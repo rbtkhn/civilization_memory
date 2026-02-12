@@ -1,12 +1,12 @@
-CIV–SCHOLAR–PRUNING–PROTOCOL — v1.0
+CIV–SCHOLAR–PRUNING–PROTOCOL — v3.2
 Civilizational Strategy Codex · Scholar File Size Management
 Governance Protocol for SCHOLAR File Pruning
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 3.2
 Scope: ALL CIVILIZATIONS
 Class: GOVERNANCE–PROTOCOL
-Compatibility: CIV–MEM–CORE v2.2+ · CIV–SCHOLAR–TEMPLATE v2.10
+Compatibility: CIV–MEM–CORE v3.2 · CIV–SCHOLAR–TEMPLATE v3.2
 Last Update: January 2026
 
 ────────────────────────────────────────────────────────────

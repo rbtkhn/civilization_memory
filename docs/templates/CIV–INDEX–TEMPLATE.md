@@ -1,4 +1,4 @@
-CIV–INDEX–TEMPLATE — v3.0
+CIV–INDEX–TEMPLATE — v3.2
 Civilizational Memory Codex · Civilization Index Template
 Academic Reference Canon (ARC) Integration Edition · Trans-Sovereign Patterns (TSP)
 
@@ -343,5 +343,5 @@ All CIV–INDEX files MUST declare:
 "Derived from CIV–INDEX–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–TEMPLATE v3.0
+END OF FILE — CIV–INDEX–TEMPLATE v3.2
 ────────────────────────────────────────────────────────────

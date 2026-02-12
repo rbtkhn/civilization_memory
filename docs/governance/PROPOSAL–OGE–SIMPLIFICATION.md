@@ -1,4 +1,4 @@
-PROPOSAL–OGE–SIMPLIFICATION — v1.1
+PROPOSAL–OGE–SIMPLIFICATION — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 Simplify OGE to Stateless Option Generation (Modified)
 

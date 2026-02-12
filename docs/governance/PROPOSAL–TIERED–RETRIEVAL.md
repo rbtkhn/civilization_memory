@@ -1,4 +1,4 @@
-PROPOSAL–TIERED–RETRIEVAL — v1.0
+PROPOSAL–TIERED–RETRIEVAL — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 MEM-First Search with Web Fallback Infrastructure
 

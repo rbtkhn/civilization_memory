@@ -1,4 +1,4 @@
-CIV–ARC–[CIVILIZATION] — v3.1
+CIV–ARC–[CIVILIZATION] — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
 Living ARC Optional (CMC 3.3)
@@ -432,5 +432,5 @@ This is soft bias, not hard constraint. All sources remain accessible.
 Reference: PROPOSAL–LIVING–ARC.md, PROTOCOL–MIND–NAVIGATION.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v3.1
+END OF FILE — CIV–ARC–[CIVILIZATION] v3.2
 ────────────────────────────────────────────────────────────

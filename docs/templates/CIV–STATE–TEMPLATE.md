@@ -1,8 +1,8 @@
-CIV–STATE–TEMPLATE — v1.12
+CIV–STATE–TEMPLATE — v3.2
 Civilizational Memory Codex · State File Template
 
 Status: ACTIVE · CANONICAL
-Version: 1.12
+Version: 3.2
 Supersedes: CIV–STATE–TEMPLATE v1.11
 Upgrade Type: XIV-B HARVEST PROTOCOL — EXCLUSIVE GATE FOR STATE → SCHOLAR
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
@@ -2107,5 +2107,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–TEMPLATE v1.12
+END OF FILE — CIV–STATE–TEMPLATE v3.2
 ────────────────────────────────────────────────────────────

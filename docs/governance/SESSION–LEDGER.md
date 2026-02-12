@@ -1,10 +1,10 @@
-SESSION–LEDGER — v1.0
+SESSION–LEDGER — v3.2
 Civilizational Memory Codex · Session Continuity Protocol
 Current Session State and Cross-Session Context
 
 Status: ACTIVE · MUTABLE
 Class: LEDGER
-Last Updated: 2026-01-29
+Last Updated: 2026-02-11
 Purpose: Enable context resumption across sessions
 
 ────────────────────────────────────────────────────────────
@@ -121,6 +121,9 @@ Decisions Made:
 IV. PENDING TASKS
 ────────────────────────────────────────────────────────────
 
+NEXT SESSION OBJECTIVE (also in CMC–BOOTSTRAP for visibility):
+► Create STATE–AMERICA based on SCHOLAR–ANGLIA (source entity: ANGLIA; deliverable: CIV–STATE–AMERICA per CIV–STATE–TEMPLATE, grounded in CIV–SCHOLAR–ANGLIA and ANGLIA MEM corpus).
+
 HIGH PRIORITY:
 □ Commit all changes to GitHub
 □ Push to remote repository
@@ -191,5 +194,5 @@ Before ending a session:
 6. Commit changes to git
 
 ────────────────────────────────────────────────────────────
-END OF FILE — SESSION–LEDGER — v1.0
+END OF FILE — SESSION–LEDGER — v3.2
 ────────────────────────────────────────────────────────────

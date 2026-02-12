@@ -1,8 +1,8 @@
-MEM–EXAMPLE–CONCEPT–TAGS — v1.0
+MEM–EXAMPLE–CONCEPT–TAGS — v3.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 3.2
 Civilization: EXAMPLE
 Subject: Concept Tagging Format
 Dates: 2026 AD
@@ -145,5 +145,5 @@ D) Query MEMs by concept
 E) Synthesize what concept tagging enables
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–EXAMPLE–CONCEPT–TAGS v1.0
+END OF FILE — MEM–EXAMPLE–CONCEPT–TAGS v3.2
 ────────────────────────────────────────────────────────────

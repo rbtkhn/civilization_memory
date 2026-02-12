@@ -1,4 +1,4 @@
-PROPOSAL–RETRIEVAL–ACTIVATION — v1.0
+PROPOSAL–RETRIEVAL–ACTIVATION — v3.2
 Civilizational Memory Codex · Implementation Proposal
 Full Concept-Based Retrieval Activation Plan
 

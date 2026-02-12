@@ -1,4 +1,4 @@
-CIV–CORE–TEMPLATE — v3.0
+CIV–CORE–TEMPLATE — v3.2
 Civilizational Strategy Codex · Civilization Core Engine
 Global Structural Template · Phase-Aware Enhanced Scholarly Edition
 
@@ -326,5 +326,5 @@ All future CIV–CORE files MUST declare:
 “Template Version Used: CIV–CORE–TEMPLATE v3.0”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v3.0
+END OF FILE — CIV–CORE–TEMPLATE v3.2
 ────────────────────────────────────────────────────────────

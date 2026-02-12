@@ -1,4 +1,4 @@
-CIV–MIND–MEARSHEIMER — v3.0
+CIV–MIND–MEARSHEIMER — v3.2
 Civilizational Memory Codex · Advisory Mind
 John J. Mearsheimer Cognitive–Linguistic Signature Layer
 Simplified Polyphony Architecture
@@ -792,5 +792,5 @@ This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MEARSHEIMER — v3.1
+END OF FILE — CIV–MIND–MEARSHEIMER — v3.2
 ────────────────────────────────────────────────────────────

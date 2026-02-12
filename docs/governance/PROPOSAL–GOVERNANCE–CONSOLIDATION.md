@@ -1,4 +1,4 @@
-PROPOSAL–GOVERNANCE–CONSOLIDATION — v1.0
+PROPOSAL–GOVERNANCE–CONSOLIDATION — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 Consolidate Governance Documents into Two-Tier System
 

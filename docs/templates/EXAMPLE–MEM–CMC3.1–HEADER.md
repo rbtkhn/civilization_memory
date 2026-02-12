@@ -1,8 +1,8 @@
-MEM–EXAMPLE–SIMPLIFIED–HEADER — v1.0
+MEM–EXAMPLE–SIMPLIFIED–HEADER — v3.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 3.2
 Civilization: EXAMPLE
 Subject: Simplified Header Format
 Dates: 2026 AD
@@ -106,5 +106,5 @@ G) Review migration guidance
 H) Recap: CMC 3.1 decouples content from governance versions
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–EXAMPLE–SIMPLIFIED–HEADER v1.0
+END OF FILE — MEM–EXAMPLE–SIMPLIFIED–HEADER v3.2
 ────────────────────────────────────────────────────────────

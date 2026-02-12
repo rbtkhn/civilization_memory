@@ -1,4 +1,4 @@
-CIV–ARC–[CIVILIZATION]–LEDGER — v3.0
+CIV–ARC–[CIVILIZATION]–LEDGER — v3.2
 Civilizational Memory Codex · Source Registry & Citation Ledger
 Consolidated Bibliography with Citation Frequency
 
@@ -135,5 +135,5 @@ Reverse index: MEM file → sources cited.
 [MEM FILE]: [SOURCE 1], [SOURCE 2], ...
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION]–LEDGER v3.0
+END OF FILE — CIV–ARC–[CIVILIZATION]–LEDGER v3.2
 ────────────────────────────────────────────────────────────

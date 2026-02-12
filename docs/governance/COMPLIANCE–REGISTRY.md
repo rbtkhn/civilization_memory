@@ -1,4 +1,4 @@
-COMPLIANCE–REGISTRY — v1.0
+COMPLIANCE–REGISTRY — v3.2
 Civilizational Memory Codex · Centralized Compliance Tracking
 MEM File Validation Status
 

@@ -1,4 +1,4 @@
-PROPOSAL–CONCEPT–INDEX — v1.0
+PROPOSAL–CONCEPT–INDEX — v3.2
 Civilizational Memory Codex · Structural Improvement Proposal
 Add Semantic Concept Layer for Discovery and Search
 

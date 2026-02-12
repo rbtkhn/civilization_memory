@@ -1,8 +1,8 @@
-MEM–EXAMPLE–TYPED–CONNECTIONS — v1.0
+MEM–EXAMPLE–TYPED–CONNECTIONS — v3.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 3.2
 Civilization: EXAMPLE
 Subject: Typed Connections Format
 Dates: 2026 AD
@@ -153,5 +153,5 @@ G) Review minimum requirements
 H) Recap: Typed connections enable intelligent traversal
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–EXAMPLE–TYPED–CONNECTIONS v1.0
+END OF FILE — MEM–EXAMPLE–TYPED–CONNECTIONS v3.2
 ────────────────────────────────────────────────────────────

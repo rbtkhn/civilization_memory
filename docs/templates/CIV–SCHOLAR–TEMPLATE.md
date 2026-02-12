@@ -1,4 +1,4 @@
-CIV–SCHOLAR–TEMPLATE — v3.1
+CIV–SCHOLAR–TEMPLATE — v3.2
 Civilizational Memory Codex · Scholar Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
@@ -1613,5 +1613,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v3.1
+END OF FILE — CIV–SCHOLAR–TEMPLATE v3.2
 ────────────────────────────────────────────────────────────
