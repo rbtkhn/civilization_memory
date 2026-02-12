@@ -117,6 +117,36 @@ Secondary MEMs:
 • MEM–AMERICA–COLONIAL–NEW–YORK — Dutch then English; port and
   commerce; occupation and Evacuation Day 1783
   [concepts: colonial_port, procedural_restoration]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — Decisive siege;
+  Cornwallis surrender; Treaty of Paris
+  [concepts: nodal_victory, procedural_termination]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–TRENTON — Washington
+  crossing; morale reversal; ten crucial days
+  [concepts: symbolic_victory, endurance]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–VALLEY–FORGE — Winter
+  encampment; Steuben; French alliance; institutionalisation
+  [concepts: endurance, alliance_pivot]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–LEXINGTON–CONCORD — First
+  shots; war trigger; Siege of Boston
+  [concepts: war_trigger, revolution_opening]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–WASHINGTON — Commander
+  1775–1783; restraint; resignation
+  [concepts: civilian_subordination, founding_precedent]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–SARATOGA — Burgoyne
+  surrender; French alliance catalyst
+  [concepts: turning_point, alliance_catalyst]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–HOWE — British commander;
+  New York, Philadelphia; tactical wins, no closure
+  [concepts: imperial_reach_limits]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–CORNWALLIS — Southern
+  campaign; Yorktown surrender
+  [concepts: procedural_defeat]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–CHARLESTON — Fall 1780;
+  major American defeat; southern theatre
+  [concepts: defeat_and_endurance]
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–NEW–YORK — British capture
+  1776; occupation until 1783
+  [concepts: defeat_force_preservation]
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — First extra-hemispheric
   projection; naval and nodal; Cuba, Philippines; maritime pivot
   [concepts: maritime_expansion, nodal_access]

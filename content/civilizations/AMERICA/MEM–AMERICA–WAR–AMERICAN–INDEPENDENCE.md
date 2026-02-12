@@ -144,6 +144,26 @@ AMERICA:
   Declaration 1776; Constitutional Convention 1787.
 • MEM–AMERICA–COLONIAL–NEW–YORK — Port and occupation; Evacuation
   Day 1783; procedural restoration.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — Decisive siege;
+  Cornwallis surrender; Treaty of Paris.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–TRENTON — Washington
+  crossing; morale reversal; ten crucial days.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–VALLEY–FORGE — Winter
+  encampment; Steuben; French alliance news.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–LEXINGTON–CONCORD — First
+  shots; war trigger; Siege of Boston.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–WASHINGTON — Commander
+  throughout; restraint; resignation.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–SARATOGA — Burgoyne
+  surrender; French alliance catalyst.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–HOWE — British commander;
+  New York, Philadelphia; replaced 1778.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–CORNWALLIS — Southern
+  campaign; Yorktown surrender.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–CHARLESTON — Fall 1780;
+  major American defeat; southern theatre.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–NEW–YORK — British capture
+  1776; occupation until 1783.
 • MEM–AMERICA–WASHINGTON — Commander; restraint; deference to
   civilian authority; voluntary return of power; founding general.
 • MEM–AMERICA–ADAMS — Diplomat; Treaty of Paris negotiator;
