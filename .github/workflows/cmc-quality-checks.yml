@@ -1,0 +1,46 @@
+name: CMC Quality Checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  pr-governance-policy:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate PR body includes governance sections
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          test -n "$PR_BODY"
+          echo "$PR_BODY" | grep -q "## Governance Checklist"
+          echo "$PR_BODY" | grep -q "## Triage Classification"
+
+  governance-and-corpus:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Governance checks
+        run: |
+          chmod +x tools/cmc-governance-checks.sh
+          tools/cmc-governance-checks.sh .
+
+      - name: Corpus validation (changed files only)
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE_REF="${{ github.event.pull_request.base.sha }}"
+          else
+            BASE_REF="${{ github.event.before }}"
+          fi
+          python3 tools/cmc-validate-corpus.py --changed-only --base-ref "$BASE_REF" --head-ref "${{ github.sha }}"
