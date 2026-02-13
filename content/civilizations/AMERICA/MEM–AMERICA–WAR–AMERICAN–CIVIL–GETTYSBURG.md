@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Lincoln verbatim primary (Gettysburg Address)
 Civilization: AMERICA
 Subject: Gettysburg (Legitimacy Inflection, Union Endurance, Lincoln Address)
 Dates: July 1–3, 1863 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,100
+Word Count: ~1,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -43,6 +45,12 @@ SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
 > "to differentiate between the sacrifice of the North and the South."
 > — John Keegan, *The American Civil War: A Military History* (New York: Alfred A. Knopf, 2009) (ARC-T-MODERN) [ERC-SECONDARY]. Quote as cited in Gallagher, *Washington Post*, 10 Jan 2010.
 
+David Herbert Donald, in *Lincoln* (1995), on the Address and its place in memory:
+
+SOURCE — Donald, *Lincoln* (ARC-T-MODERN):
+> "Lincoln's Gettysburg Address was 272 words and he delivered it under three minutes. He labored on it for days. The 'featured speaker,' Edward Everett, rambled on for two hours. Most people don't even remember his name, never mind what he said."
+> — David Herbert Donald, *Lincoln* (New York: Simon & Schuster, 1995) (ARC-T-MODERN) [ERC-SECONDARY].
+
 Lincoln reframes sacrifice
 as defence of legitimacy itself; procedure augmented by universalist
 language, not replaced by it.
@@ -61,6 +69,12 @@ government of the people, by the people, for the people, shall not
 perish from the earth. Sacrifice is dedicated to unfinished work:
 union preservation and procedural continuity, elevated to moral claim
 without abandoning constitutional form.
+
+Lincoln, closing the Address (19 November 1863):
+
+SOURCE — Lincoln, Gettysburg Address (ARC-T-EARLY-MOD):
+> "That we here highly resolve that these dead shall not have died in vain — that this nation, under God, shall have a new birth of freedom — and that government of the people, by the people, for the people, shall not perish from the earth."
+> — Abraham Lincoln, Address at Gettysburg, 19 November 1863, in *Collected Works of Abraham Lincoln*, Vol. 7, ed. Roy P. Basler et al. (New Brunswick, NJ: Rutgers University Press, 1953) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 IV. CIVILIZATIONAL MEMORY FUNCTION
@@ -114,5 +128,5 @@ turning.
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — v1.2
 ────────────────────────────────────────────────────────────

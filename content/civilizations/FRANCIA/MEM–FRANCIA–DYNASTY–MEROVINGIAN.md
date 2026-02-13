@@ -1,6 +1,7 @@
 MEM–FRANCIA–DYNASTY–MEROVINGIAN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL
+Status: ACTIVE
 Civilization: FRANCIA
 Subject: Merovingian Dynasty
 Dates: c. 450–751 AD

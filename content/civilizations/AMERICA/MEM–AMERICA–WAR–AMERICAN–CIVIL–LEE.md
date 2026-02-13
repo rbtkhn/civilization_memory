@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Grant Memoirs verbatim (ARC-T-EARLY-MOD)
 Civilization: AMERICA
 Subject: Robert E. Lee (Army of Northern Virginia, Surrender at Appomattox)
 Dates: 1807–1870 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,200
+Word Count: ~1,300
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -67,6 +69,12 @@ Elements:
   again"; Farewell Address frames defeat as honourable lay-down of
   arms, not moral collapse
 
+Grant, in his *Personal Memoirs* (1885), on meeting Lee at Appomattox:
+
+SOURCE — Grant, *Personal Memoirs of U. S. Grant* (ARC-T-EARLY-MOD):
+> "I had known General Lee in the old army, and had served with him in the Mexican War; but did not suppose, owing to the difference in our age and rank, that he would remember me; while I would more naturally remember him distinctly, because he was the chief of staff of General Scott in the Mexican War."
+> — Ulysses S. Grant, *Personal Memoirs of U. S. Grant*, Vol. 2 (New York: Charles L. Webster, 1885), Ch. 67 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 Lee's choice to surrender **preserves procedural termination**—the
 Union gets submission without extermination; the South gets
 reintegration possibility.
@@ -124,5 +132,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 MEM–ANGLIA–ENGLAND — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.1
 Upgrade Type: ADDITIVE (Shakespeare *Richard II* — Gaunt, island identity)

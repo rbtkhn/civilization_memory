@@ -1,6 +1,6 @@
 MEM–FRANCIA–LOUIS–XV — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICALStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Louis XV
 Dates: 1710–1774 AD

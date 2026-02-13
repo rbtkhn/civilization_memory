@@ -1,6 +1,6 @@
 MEM–ROME–HIST–PLINY — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.0
 Upgrade Type: NEW FILE · ARC FOUNDATIONAL COMPLIANAD

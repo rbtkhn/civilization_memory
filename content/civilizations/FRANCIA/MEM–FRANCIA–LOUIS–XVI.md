@@ -1,6 +1,6 @@
 MEM–FRANCIA–LOUIS–XVI — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICALStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Louis XVI
 Dates: 1754–1793 AD

@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Grant Memoirs verbatim (ARC-T-EARLY-MOD)
 Civilization: AMERICA
 Subject: William Tecumseh Sherman (Union Total War, March to the Sea)
 Dates: 1820–1891 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,100
+Word Count: ~1,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -46,6 +48,13 @@ SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
 Sherman's "brutal and decisive" approach left "the more lasting"
 legacy—operational template for breaking Confederate capacity and
 morale beyond the Virginia theatre.
+
+Grant, in his *Personal Memoirs* (1885), on directing Sherman's next
+campaign after Atlanta:
+
+SOURCE — Grant, *Personal Memoirs of U. S. Grant* (ARC-T-EARLY-MOD):
+> "So soon as your men are sufficiently rested, and preparations can be made, it is desirable that another campaign should be commenced. We want to keep the enemy constantly pressed to the end of the war. If we give him no peace whilst the war lasts, the end cannot be distant."
+> — Ulysses S. Grant to Sherman, 10 Sept 1864, in *Personal Memoirs of U. S. Grant*, Vol. 2 (New York: Charles L. Webster, 1885), Ch. 59 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 III. TOTAL WAR: ATLANTA, MARCH TO THE SEA, CAROLINAS
@@ -112,5 +121,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — v1.1
 ────────────────────────────────────────────────────────────

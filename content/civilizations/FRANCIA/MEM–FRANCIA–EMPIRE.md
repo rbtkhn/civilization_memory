@@ -2,7 +2,7 @@ MEM–FRANCIA–EMPIRE — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: FRANCIA
 Subject: French Colonial Empire — Institutional Memory

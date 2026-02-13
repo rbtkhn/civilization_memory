@@ -1,6 +1,6 @@
 MEM–ANGLIA–LIT–SHAKESPEARE — v2.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 2.3
 Supersedes: v2.2

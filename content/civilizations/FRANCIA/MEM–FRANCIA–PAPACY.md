@@ -1,6 +1,6 @@
 MEM–FRANCIA–PAPACY — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICALStatus: ACTIVE
 Civilization: FRANCIA
 Subject: The Papacy (Roman Church Authority)
 Dates: Late Roman era–Early Modern

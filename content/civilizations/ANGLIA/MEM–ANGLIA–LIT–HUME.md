@@ -1,6 +1,6 @@
 MEM–ANGLIA–LIT–HUME — v2.4
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 2.4
 Supersedes: v2.3

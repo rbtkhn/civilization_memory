@@ -1,11 +1,11 @@
-CIV–ARC–AMERICA — v2.1
+CIV–ARC–AMERICA — v2.15
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · AMERICA
 
 Status: ACTIVE · CANONICAL
-Version: 2.1
-Supersedes: CIV–ARC–AMERICA v2.0
-Upgrade Type: DERIVATION ALIGNMENT · ARC–ANGLIA PARITY
+Version: 2.15
+Supersedes: CIV–ARC–AMERICA v2.14
+Upgrade Type: ADDITIVE · Benjamin Franklin (Autobiography, Albany Plan, Convention speech), ARC-T-EARLY-MOD
 Derived from: CIV–ARC–ANGLIA v3.0
 Entity: United States / America (Western Hemisphere hegemon)
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
@@ -72,7 +72,69 @@ ARC-T-MEDIEVAL:
   ARC–ANGLIA for pre-America Anglian medieval)
 
 ARC-T-EARLY-MOD:
-• (Placeholder — add when MEMs require early modern scholarship;
+• Ulysses S. Grant (1822–1885) — Personal Memoirs of U. S. Grant
+  (1885); primary source; as applicable for Civil War, Appomattox,
+  surrender terms, presidency.
+• Abraham Lincoln (1809–1865) — speeches, letters, state papers; as
+  in *The Collected Works of Abraham Lincoln*, ed. Roy P. Basler et al.,
+  9 vols. (New Brunswick, NJ: Rutgers University Press, 1953–1955), or
+  equivalent standard editions; as applicable for Civil War, union,
+  emancipation, Gettysburg, inaugurals.
+• Thomas Jefferson (1743–1826) — Autobiography (1821); Notes on the
+  State of Virginia; letters and state papers; as in *The Papers of
+  Thomas Jefferson* (Princeton) or *Autobiography of Thomas Jefferson*
+  (e.g. Paul Leicester Ford ed., 1914, or equivalent); as applicable
+  for founding, Declaration, presidency, slavery, territorial expansion.
+• Mark Twain (Samuel Langhorne Clemens, 1835–1910) — Life on the
+  Mississippi (1883); The Adventures of Tom Sawyer (1876); Adventures
+  of Huckleberry Finn (1884); The Gilded Age (1873, with Warner);
+  Autobiography; "To the Person Sitting in Darkness" (1901); letters;
+  as in standard editions; as applicable for Mississippi, Grant Memoirs,
+  Gilded Age, anti-imperialism, Jackson-era aftermath.
+• John L. O'Sullivan (1813–1895) — "Annexation," *United States
+  Magazine and Democratic Review* 17 (1845); coiner of "manifest
+  destiny"; as applicable for expansion ideology, Texas, California,
+  continental design.
+• Liliuokalani (1838–1917) — Queen of Hawaii; protest to McKinley
+  (June 1897) against annexation treaty; as applicable for Hawaii
+  annexation, overthrow, sovereignty.
+• Alexis de Tocqueville (1805–1859) — *De la démocratie en Amérique*
+  [Democracy in America], 2 vols. (Vol. I Paris: 1835; Vol. II Paris:
+  1840); standard English ed. e.g. Harvey C. Mansfield and Delba
+  Winthrop (Chicago: University of Chicago Press, 2000). External
+  observer of American democracy; federalism, associations, township,
+  equality of conditions, majority tyranny, soft despotism; as
+  applicable for Jacksonian-era America, American institutions and
+  mores, civil society, religion and democracy. Cross-civilizational
+  (Francia); cite as ARC–AMERICA–T-EARLY-MOD when used for American
+  content.
+• Ralph Waldo Emerson (1803–1882) — Essays: First Series (1841),
+  including "Self-Reliance"; Nature (1836); other essays and lectures;
+  as applicable for transcendentalism, individualism, American
+  literary voice, Concord circle.
+• Henry David Thoreau (1817–1862) — Walden (1854); "Civil Disobedience"
+  (1849); journals; as applicable for transcendentalism, civil
+  disobedience, simplicity, abolition, Concord.
+• Walt Whitman (1819–1892) — Leaves of Grass (1855; rev. eds.); "Song
+  of Myself"; Drum-Taps; as applicable for democracy, body, nation,
+  Civil War, American poetic voice.
+• Edgar Allan Poe (1809–1849) — "The Raven" (1845); tales; "The
+  Philosophy of Composition"; as applicable for gothic, horror,
+  Southern/marginal voice, literary criticism.
+• Nathaniel Hawthorne (1804–1864) — The Scarlet Letter (1850); "Young
+  Goodman Brown"; The House of the Seven Gables; as applicable for
+  Puritan legacy, sin, guilt, New England, custom-house.
+• Benjamin Franklin (1706–1790) — *Autobiography* (1771, 1784–88);
+  "Reasons and Motives for the Albany Plan of Union" (July 1754), in
+  *Papers of Benjamin Franklin* 5:399–417; closing speech at the
+  Constitutional Convention (17 Sept 1787), in Farrand, *Records of
+  the Federal Convention*, or standard eds.; *The Way to Wealth* (1757);
+  key letters and political essays in *Papers* (Yale) or *Works* (Sparks/
+  Bigelow). As applicable for colonial Philadelphia, Albany Plan, Seven
+  Years' War context, Declaration committee, Continental Congress,
+  French alliance, Constitutional Convention, civic and scientific
+  reputation. (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+• (Placeholder — add when MEMs require other early modern scholarship;
   ARC–ANGLIA EARLY-MOD when populated applies to colonial/founding
   period as constitutive)
 
@@ -86,7 +148,8 @@ and to constitutive Anglian-derived content):
 • Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and
   the Fate of Empire in British North America, 1754–1766
 • Ron Chernow (1949) — The House of Morgan; Titan: The Life of John D.
-  Rockefeller, Sr.; The Warburgs; Alexander Hamilton (as applicable)
+  Rockefeller, Sr.; The Warburgs; Alexander Hamilton; Grant (2017);
+  Mark Twain (2025) (as applicable)
 • Henry Kissinger (1923) — Diplomacy; A World Restored; World Order
   (as applicable)
 • H.W. Brands (1956) — biographical and imperial history (as applicable)
@@ -116,6 +179,27 @@ and to constitutive Anglian-derived content):
 • David McCullough (1933–2022) — John Adams (2001); 1776 (2005);
   Truman (1992); Mornings on Horseback (1981); other biographical and
   historical works (as applicable)
+• David Herbert Donald (1920–2009) — Lincoln (1995); Lincoln
+  Reconsidered (as applicable); Lincoln at Home (as applicable)
+• Edmund Morris (b. 1940) — The Rise of Theodore Roosevelt (1979);
+  Theodore Rex (2001); Colonel Roosevelt (2010) (as applicable)
+• Arthur M. Schlesinger Jr. (1917–2007) — The Age of Jackson (1945);
+  The Age of Roosevelt (The Crisis of the Old Order, 1919–1933 [1957];
+  The Coming of the New Deal [1958]; The Politics of Upheaval [1960]);
+  A Thousand Days: John F. Kennedy in the White House (1965);
+  The Imperial Presidency (1973; rev. 1989, 2004) (as applicable)
+• John B. Boles (b. 1943) — Jefferson: Architect of American Liberty
+  (New York: Basic Books, 2017) (as applicable for Jefferson, founding,
+  slavery, presidency, legacy)
+• Robert W. Merry (b. 1946) — A Country of Vast Designs: James K. Polk,
+  the Mexican War, and the Conquest of the American Continent (New York:
+  Simon & Schuster, 2009); President McKinley: Architect of the American
+  Century (New York: Simon & Schuster, 2017) (as applicable for Polk,
+  McKinley, expansion, Mexican–American War, Spanish–American War,
+  presidency; Tier 2 biography)
+• Tim McGrath — James Monroe: A Life (New York: Dutton, 2020) (as
+  applicable for Monroe, Monroe Doctrine, Louisiana Purchase, Revolutionary
+  War service, presidency, Era of Good Feelings; Tier 2 biography)
 
 Only listed authors may be quoted without ARC–DISCOVERY flag. For
 sources not listed here but listed in ARC–ANGLIA and used for

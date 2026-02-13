@@ -1,6 +1,6 @@
 MEM–ANGLIA–AMERICAN–REVOLUTION — v1.7
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.7
 Supersedes: v1.6

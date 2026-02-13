@@ -1,6 +1,6 @@
 MEM–ISLAM–GEO–SICILY — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: LOCKED
 Version: 1.0
 Civilization: ISLAM

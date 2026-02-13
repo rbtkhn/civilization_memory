@@ -1,6 +1,6 @@
 MEM–ANGLIA–LIT–BURKE — v2.5
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 2.5
 Supersedes: v2.4

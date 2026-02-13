@@ -1,6 +1,6 @@
 MEM–ROME–LIT–BOETHIUS — v2.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 2.1

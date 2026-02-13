@@ -1,6 +1,6 @@
 MEM–ANGLIA–LAW–MAGNA–CARTA — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.6
 Supersedes: v1.5

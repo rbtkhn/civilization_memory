@@ -1,6 +1,7 @@
 MEM–INDIA–GEO–SRI–LANKA — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICAL
+Status: ACTIVE
 Civilization: INDIA
 Subject: Sri Lanka (Ceylon) — Southern Maritime Interface
 Dates: Ancient era–present

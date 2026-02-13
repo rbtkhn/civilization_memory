@@ -1,6 +1,6 @@
 MEM–RUSSIA–GEO–WHITE–SEA — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Governed by: CIV–MEM–TEMPLATE v3.0
 Status: ACTIVE
 Version: 3.0

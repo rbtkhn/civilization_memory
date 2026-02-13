@@ -2,7 +2,7 @@ MEM–FRANCIA–WAR–HUNDRED–YEARS–CRECY — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: FRANCIA
 Subject: Battle of Crécy

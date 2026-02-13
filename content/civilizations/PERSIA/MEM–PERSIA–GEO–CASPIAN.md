@@ -1,6 +1,6 @@
 MEM–PERSIA–GEO–CASPIAN — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 2.0
 Upgrade Type: MAJOR · Scythian expedition integration, WAR–SCYTHIAN link, Layer 2

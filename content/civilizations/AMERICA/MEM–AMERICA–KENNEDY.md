@@ -1,14 +1,16 @@
-MEM–AMERICA–KENNEDY — v1.0
+MEM–AMERICA–KENNEDY — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (A Thousand Days)
 Civilization: AMERICA
 Subject: John F. Kennedy
 Dates: 1917–1963 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,800
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -43,6 +45,13 @@ Context:
 Authority is framed as **vigour and communication**—television,
 inaugural ("ask not"), presence. Procedure is accompanied by
 narrative and image.
+
+Arthur M. Schlesinger Jr., in *A Thousand Days* (1965), on the
+paradox of power that defined Kennedy's presidency:
+
+SOURCE — Schlesinger Jr., *A Thousand Days* (ARC-T-MODERN):
+> "What Mailer left out was the paradox of power—that the exercise of power is necessary to fulfill purpose, yet the world of power dooms many purposes to frustration."
+> — Arthur M. Schlesinger Jr., *A Thousand Days: John F. Kennedy in the White House* (Boston: Houghton Mifflin, 1965) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. CUBAN MISSILE CRISIS & PROCEDURAL ENFORCEMENT
@@ -167,5 +176,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–KENNEDY — v1.0
+END OF FILE — MEM–AMERICA–KENNEDY — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–VALLEY–FORGE — v1.0
+MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–VALLEY–FORGE — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Chernow verbatim (Washington: A Life)
 Civilization: AMERICA
 Subject: Valley Forge (Winter Encampment, Institutionalisation, French Alliance)
 Dates: December 1777–June 1778 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~950
+Word Count: ~1,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -37,8 +39,16 @@ III. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 Valley Forge encodes endurance as strategy; force preservation through
 hardship; institutionalisation and alliance as turning points;
-Washington leadership holding army together. Precedent for survival
-over glory; discipline as foundation for Yorktown.
+Washington leadership holding army together.
+
+Ron Chernow, in *Washington: A Life* (2010), on the army and its
+commander:
+
+SOURCE — Chernow, *Washington: A Life* (ARC-T-MODERN):
+> "His fortitude in keeping the impoverished Continental Army intact was a major historic accomplishment. It always stood on the brink of dissolution, and Washington was the one figure who kept it together, the spiritual and managerial genius of the whole enterprise."
+> — Ron Chernow, *Washington: A Life* (New York: Penguin, 2010) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Precedent for survival over glory; discipline as foundation for Yorktown.
 
 ────────────────────────────────────────────────────────────
 IV. MEM CONNECTIONS (MANDATORY)
@@ -64,5 +74,5 @@ function.
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–VALLEY–FORGE — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–VALLEY–FORGE — v1.1
 ────────────────────────────────────────────────────────────

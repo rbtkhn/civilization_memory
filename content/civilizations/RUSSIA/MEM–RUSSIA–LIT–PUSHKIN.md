@@ -1,6 +1,6 @@
 MEM–RUSSIA–LIT–PUSHKIN — v3.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE · CANONICAL
 Version: 3.1

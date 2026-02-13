@@ -1,14 +1,16 @@
-MEM–AMERICA–MORGAN — v1.0
+MEM–AMERICA–MORGAN — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Mark Twain verbatim primary (The Gilded Age)
 Civilization: AMERICA
 Subject: J. Pierpont Morgan (John Pierpont Morgan)
 Dates: 1837–1913 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,400
+Word Count: ~1,600
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -48,6 +50,12 @@ can rescue or restructure; the counterpart to Roosevelt's
 public assertion (TR trust-busts Northern Securities—a Morgan
 creation).
 
+Mark Twain and Charles Dudley Warner, in the Preface to *The Gilded Age* (1873), name the era the book satirises—the absence of which would leave "no materials" for their history:
+
+SOURCE — Twain and Warner, *The Gilded Age* (ARC-T-EARLY-MOD):
+> "In a State where there is no fever of speculation, no inflamed desire for sudden wealth, where the poor are all simple-minded and contented, and the rich are all honest and generous, where society is in a condition of primitive purity and politics is the occupation of only the capable and the patriotic, there are necessarily no materials for such a history as we have constructed out of an ideal commonwealth."
+> — Mark Twain and Charles Dudley Warner, *The Gilded Age: A Tale of To-Day* (Hartford: American Publishing Company, 1874), Preface (1873) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 ────────────────────────────────────────────────────────────
 III. U.S. STEEL, NORTHERN SECURITIES, CONCENTRATION
 ────────────────────────────────────────────────────────────
@@ -71,6 +79,13 @@ IV. PANIC OF 1907 & LENDER OF LAST RESORT
 ────────────────────────────────────────────────────────────
 Morgan acts as private central bank.
 
+Ron Chernow, in *The House of Morgan* (1990), on the structural
+weakness that made Morgan's role necessary:
+
+SOURCE — Chernow, *The House of Morgan* (ARC-T-MODERN):
+> "The panic was blamed on many factors—tight money, Roosevelt's Gridiron Club speech attacking the 'malefactors of great wealth,' and excessive speculation in copper, mining, and railroad stocks. The immediate weakness arose from the recklessness of the trust companies. In the early 1900s, national and most state-chartered banks couldn't take trust accounts (wills, estates, and so on) but directed customers to trusts. Traditionally, these had been synonymous with safe investment. By 1907, however, they had exploited enough legal loopholes to become highly speculative."
+> — Ron Chernow, *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance* (New York: Atlantic Monthly Press, 1990) (ARC-T-MODERN) [ERC-SECONDARY].
+
 Elements:
 • Panic of 1907—bank runs, liquidity crisis; no Federal Reserve
   (created 1913, after Morgan's death)
@@ -83,6 +98,14 @@ Elements:
 
 Morgan encodes **private stabilisation then public replacement**—
 the crisis that proves the need for a central bank.
+
+Arthur M. Schlesinger Jr., in *The Crisis of the Old Order* (1957),
+on the later collapse of the order that concentration had helped
+define:
+
+SOURCE — Schlesinger Jr., *The Crisis of the Old Order* (ARC-T-MODERN):
+> "For a season, prosperity seemed permanent, but the illusion came to an end when Wall Street crashed in October 1929. Public trust in the wisdom of business leadership crashed too."
+> — Arthur M. Schlesinger Jr., *The Crisis of the Old Order, 1919–1933*, in *The Age of Roosevelt* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 V. CIVILIZATIONAL MEMORY FUNCTION
@@ -138,5 +161,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MORGAN — v1.0
+END OF FILE — MEM–AMERICA–MORGAN — v1.3
 ────────────────────────────────────────────────────────────

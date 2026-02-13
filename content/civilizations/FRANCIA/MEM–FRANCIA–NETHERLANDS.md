@@ -1,6 +1,6 @@
 MEM–FRANCIA–NETHERLANDS — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.2
 Upgrade Type: ADDITIVE CLARIFICATION (Diffusive Buffer Precision)

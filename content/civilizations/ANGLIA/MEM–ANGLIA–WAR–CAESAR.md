@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–CAESAR — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.6
 Upgrade Type: INITIAL ISSUE (Template v1.6 Alignment)

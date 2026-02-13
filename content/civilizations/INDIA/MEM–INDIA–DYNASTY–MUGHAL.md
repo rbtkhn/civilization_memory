@@ -1,6 +1,6 @@
 MEM–INDIA–DYNASTY–MUGHAL — v2.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 2.1
 Supersedes: v2.0

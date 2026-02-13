@@ -1,14 +1,16 @@
-MEM–AMERICA–ROOSEVELT–FRANKLIN — v1.0
+MEM–AMERICA–ROOSEVELT–FRANKLIN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (The Age of Roosevelt)
 Civilization: AMERICA
 Subject: Franklin D. Roosevelt
 Dates: 1882–1945 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~2,000
+Word Count: ~2,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -42,6 +44,14 @@ Context:
 
 The state becomes **provider and regulator** on a new scale.
 Procedure is stretched; it is not discarded.
+
+Arthur M. Schlesinger Jr., in *The Crisis of the Old Order* (1957),
+first volume of *The Age of Roosevelt*, on the pre–New Deal erosion of
+constitutional salience:
+
+SOURCE — Schlesinger Jr., *The Crisis of the Old Order* (ARC-T-MODERN):
+> "For most Americans the Constitution had become a hazy document, cited like the Bible on ceremonial occasions but forgotten in the daily transactions of life."
+> — Arthur M. Schlesinger Jr., *The Crisis of the Old Order, 1919–1933*, in *The Age of Roosevelt* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. EXECUTIVE EXPANSION & FOUR TERMS
@@ -172,5 +182,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ROOSEVELT–FRANKLIN — v1.0
+END OF FILE — MEM–AMERICA–ROOSEVELT–FRANKLIN — v1.1
 ────────────────────────────────────────────────────────────

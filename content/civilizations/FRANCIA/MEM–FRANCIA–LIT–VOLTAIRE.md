@@ -1,6 +1,6 @@
 MEM–FRANCIA–LIT–VOLTAIRE — v1.1
 Civilizational Memory Codex · Memory File
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE · CANONICAL
 Version: 1.1
 Supersedes: v1.0
 Upgrade Type: ADDITIVE · PEARSON INTEGRATION (ARC-T-MODERN)

@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–1812 — v1.4
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.5
 Supersedes: v1.4

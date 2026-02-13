@@ -1,14 +1,16 @@
-MEM–AMERICA–TRUMAN — v1.0
+MEM–AMERICA–TRUMAN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (The Imperial Presidency)
 Civilization: AMERICA
 Subject: Harry S. Truman
 Dates: 1884–1972 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,800
+Word Count: ~1,900
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -46,6 +48,13 @@ Context:
 Authority is framed as **constitutional and accountable**: the
 president who did not choose the moment but who accepted the
 office and the decisions (atomic use, containment, Korea, MacArthur).
+
+Arthur M. Schlesinger Jr., in *The Imperial Presidency* (1973), on
+the shift of power that Truman's tenure exemplified:
+
+SOURCE — Schlesinger Jr., *The Imperial Presidency* (ARC-T-MODERN):
+> "The new American approach to world affairs, nurtured in the sense of omnipresent crisis, set new political objectives, developed new military capabilities, devised new diplomatic techniques, invented new instruments of foreign operations and instituted a new hierarchy of values. Every one of these innovations encouraged the displacement of power, both practical and constitutional, from an increasingly acquiescent Congress into an increasingly imperial Presidency."
+> — Arthur M. Schlesinger Jr., *The Imperial Presidency* (Boston: Houghton Mifflin, 1973) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. WAR TERMINATION: ATOMIC USE & SURRENDER
@@ -186,5 +195,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–TRUMAN — v1.0
+END OF FILE — MEM–AMERICA–TRUMAN — v1.1
 ────────────────────────────────────────────────────────────

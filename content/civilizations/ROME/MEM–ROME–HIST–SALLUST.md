@@ -1,6 +1,6 @@
 MEM–ROME–HIST–SALLUST — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE · CANONICAL (ROME–HIST)
 Version: 2.0

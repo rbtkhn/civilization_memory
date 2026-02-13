@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Lincoln verbatim primary (Second Inaugural)
 Civilization: AMERICA
 Subject: Appomattox (Procedural Termination, Surrender as Restoration)
 Dates: April 9, 1865 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,050
+Word Count: ~1,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -52,15 +54,34 @@ Grant's terms:
 • Soldiers paroled, not prosecuted
 • Cessation without humiliation ritual
 
+Ron Chernow, in *Grant* (2017), on the man who offered those terms:
+
+SOURCE — Chernow, *Grant* (ARC-T-MODERN):
+> "Grant deserves an honored place in American history, second only to Lincoln for what he did for the freed slaves. He got the big issues right during his presidency even if he bungled many of the small ones."
+> — Ron Chernow, *Grant* (New York: Penguin Press, 2017) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Grant's own account of the terms he offered Lee, in *Personal Memoirs*
+(1885):
+
+SOURCE — Grant, *Personal Memoirs of U. S. Grant* (ARC-T-EARLY-MOD):
+> "The terms upon which peace can be had are well understood. By the South laying down their arms they will hasten that most desirable event, save thousands of human lives, and hundreds of millions of property not yet destroyed. Sincerely hoping that all our difficulties may be settled without the loss of another life, I subscribe myself, etc.,"
+> — Ulysses S. Grant, *Personal Memoirs of U. S. Grant*, Vol. 2 (New York: Charles L. Webster, 1885), Ch. 67 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 Primary source anchors:
 • Grant (Memoirs): "The war is over; the rebels are our countrymen
   again."—encodes procedural instinct: authority restored through
-  reintegration.
+  reintegration (often cited; sentiment consistent with Memoirs Ch. 67–68).
 • Lee, Farewell to the Army of Northern Virginia (April 10, 1865):
   "After four years of arduous service… the Army of Northern Virginia
   has been compelled to yield to overwhelming numbers and resources."
   Lee accepts systemic defeat, not moral collapse; allows Confederate
   legitimacy to dissolve without revolutionary escalation.
+
+Mark Twain, who published the Memoirs (Charles L. Webster, 1885), on Grant's completion of the work while dying—the narrative of the war's end secured in text:
+
+SOURCE — Twain, letter to William Smith (ARC-T-EARLY-MOD):
+> "The last 2/3 of the second volume was dictated by the General, dying—passing slowly away in the pitiless agonies of cancer in the mouth; he revised his work with his pencil during the last three weeks of his life—after he had become entirely speechless. He made no braver fight in the field than he made on his deathbed."
+> — Mark Twain to William Smith, 3–4 Feb. 1887 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 IV. CIVILIZATIONAL MEMORY FUNCTION
@@ -68,6 +89,13 @@ IV. CIVILIZATIONAL MEMORY FUNCTION
 Appomattox encodes **victory without delegitimisation**—the manner
 of victory determines postwar stability. Force ends in procedure;
 mercy is structural; legitimacy survives restraint.
+
+Lincoln, in the Second Inaugural (4 March 1865), had already framed
+the spirit in which the war should end:
+
+SOURCE — Lincoln, Second Inaugural Address (ARC-T-EARLY-MOD):
+> "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan."
+> — Abraham Lincoln, Second Inaugural Address, 4 March 1865, in *Collected Works of Abraham Lincoln*, Vol. 8, ed. Roy P. Basler et al. (New Brunswick, NJ: Rutgers University Press, 1953) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Lessons:
 • Ending a war can be harder than winning it; procedural termination
@@ -114,5 +142,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.4
 ────────────────────────────────────────────────────────────

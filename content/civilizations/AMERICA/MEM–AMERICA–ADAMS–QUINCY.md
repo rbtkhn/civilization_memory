@@ -1,14 +1,16 @@
-MEM–AMERICA–ADAMS–QUINCY — v1.0
+MEM–AMERICA–ADAMS–QUINCY — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (The Age of Jackson)
 Civilization: AMERICA
 Subject: John Quincy Adams
 Dates: 1767–1848 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,600
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -58,6 +60,9 @@ Contributions:
 Adams converts offshore logic into text. The doctrine is signal
 before enforcement—Anglian practice in American script.
 
+INSERT POINT — McGrath verbatim (Monroe–Adams collaboration / doctrine drafting):
+Suggested theme: Monroe and Adams and the 1823 message; or Monroe's reliance on Adams for doctrine wording. Add SOURCE block when quote selected from McGrath, *James Monroe: A Life* (New York: Dutton, 2020) (ARC-T-MODERN) [ERC-SECONDARY]. Page ref from print copy.
+
 ────────────────────────────────────────────────────────────
 IV. PRESIDENCY: CONTESTED LEGITIMACY
 ────────────────────────────────────────────────────────────
@@ -75,6 +80,13 @@ The presidency is **procedure-bound**: the Constitution permits
 the outcome; legitimacy is contested. Adams governs as institutionalist—
 internal improvements, national observatory, restrained partisanship—
 but cannot escape the stain of procedural victory without broad consent.
+
+Arthur M. Schlesinger Jr., in *The Age of Jackson* (1945), frames
+Jackson's challenge to the order Adams represented:
+
+SOURCE — Schlesinger Jr., *The Age of Jackson* (ARC-T-MODERN):
+> "The challenge Jackson raised to the Virginia aristocracy and the patrons of the Adams dynasty who had controlled the White House through the life of the Republic."
+> — Arthur M. Schlesinger Jr., *The Age of Jackson* (Boston: Little, Brown, 1945) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 V. POST-PRESIDENCY: CONGRESS & PROCEDURAL DISSENT
@@ -149,5 +161,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ADAMS–QUINCY — v1.0
+END OF FILE — MEM–AMERICA–ADAMS–QUINCY — v1.1
 ────────────────────────────────────────────────────────────

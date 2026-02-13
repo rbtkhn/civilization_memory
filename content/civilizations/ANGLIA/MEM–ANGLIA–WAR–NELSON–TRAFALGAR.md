@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–NELSON–TRAFALGAR — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.6
 Supersedes: v1.5

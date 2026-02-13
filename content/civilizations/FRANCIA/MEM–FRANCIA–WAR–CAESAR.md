@@ -1,6 +1,6 @@
 MEM–FRANCIA–WAR–CAESAR — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.1
 Upgrade Type: NEW FILE · COMPLIANCE-READY

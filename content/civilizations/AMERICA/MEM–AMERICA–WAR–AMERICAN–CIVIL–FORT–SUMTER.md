@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Lincoln verbatim primary (July 4, 1861 message)
 Civilization: AMERICA
 Subject: Fort Sumter (War Trigger, Federal Authority Contested)
 Dates: April 12–14, 1861 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~950
+Word Count: ~1,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -52,6 +54,13 @@ Elements:
 • Surrender and evacuation; Union garrison leaves with honors
 • Lincoln's response: call for volunteers; blockade; war framed as
   suppression of rebellion to preserve the Union
+
+Lincoln, in his message to Congress (4 July 1861), framed the use of
+war power as duty to preserve the government:
+
+SOURCE — Lincoln, Message to Congress (ARC-T-EARLY-MOD):
+> "It was with the deepest regret that the Executive found the duty of employing the war-power, in defence of the government, forced upon him. He could but perform this duty, or surrender the existence of the government."
+> — Abraham Lincoln, Message to Congress in Special Session, 4 July 1861, in *Collected Works of Abraham Lincoln*, Vol. 4, ed. Roy P. Basler et al. (New Brunswick, NJ: Rutgers University Press, 1953) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Fort Sumter gives the Union **moral and legal clarity**: the other
 side initiated violence against federal authority. Procedure
@@ -103,5 +112,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — v1.1
 ────────────────────────────────────────────────────────────

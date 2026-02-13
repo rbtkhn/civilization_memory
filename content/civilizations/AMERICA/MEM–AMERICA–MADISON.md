@@ -1,8 +1,10 @@
-MEM–AMERICA–MADISON — v1.0
+MEM–AMERICA–MADISON — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Jefferson verbatim primary (people as depository)
 Civilization: AMERICA
 Subject: James Madison
 Dates: 1751–1836 AD
@@ -69,6 +71,13 @@ V. CONTRAST WITH JEFFERSON
 ────────────────────────────────────────────────────────────
 Madison diverges from Jefferson's abstraction.
 
+Jefferson, in a letter to William C. Jarvis (1820), on the people as the
+only safe depository of power—the formulation Madison's design qualifies:
+
+SOURCE — Jefferson, to William C. Jarvis (ARC-T-EARLY-MOD):
+> "I know no safe depository of the ultimate powers of the society, but the people themselves: and if we think them not enlightened enough to exercise their control with a wholesome discretion, the remedy is, not to take it from them, but to inform their discretion by education. This is the true corrective of abuses of constitutional power."
+> — Thomas Jefferson to William C. Jarvis, 28 Sept. 1820, in *The Papers of Thomas Jefferson*, Retirement Series (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 Differences:
 • Structure over rhetoric
 • Stability over ideal purity
@@ -117,5 +126,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MADISON — v1.0
+END OF FILE — MEM–AMERICA–MADISON — v1.1
 ────────────────────────────────────────────────────────────

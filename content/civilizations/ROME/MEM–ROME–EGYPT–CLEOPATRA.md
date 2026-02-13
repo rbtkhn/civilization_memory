@@ -1,6 +1,6 @@
 MEM–ROME–EGYPT–CLEOPATRA — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 2.0

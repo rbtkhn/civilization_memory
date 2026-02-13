@@ -1,10 +1,10 @@
-MEM–AMERICA–GRANT — v1.0
+MEM–AMERICA–GRANT — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Churchill Vol. 4 (*The Great Democracies*)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Mark Twain verbatim primary (on Grant Memoirs)
 Civilization: AMERICA
 Subject: Ulysses S. Grant
 Dates: 1822–1885 AD
@@ -52,6 +52,18 @@ SOURCE — Keegan, *The American Civil War* (ARC-T-MODERN):
 
 Grant's legitimacy derives from execution: he finishes the argument
 through attrition and procedural surrender at Appomattox.
+
+Ron Chernow, in *Grant* (2017), frames Grant's civilizational place:
+
+SOURCE — Chernow, *Grant* (ARC-T-MODERN):
+> "Grant deserves an honored place in American history, second only to Lincoln for what he did for the freed slaves. He got the big issues right during his presidency even if he bungled many of the small ones."
+> — Ron Chernow, *Grant* (New York: Penguin Press, 2017) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Mark Twain, who published Grant's *Personal Memoirs* (Charles L. Webster & Co., 1885), in a letter (1887) on the book and Grant's deathbed completion:
+
+SOURCE — Twain, letter to William Smith (ARC-T-EARLY-MOD):
+> "The autobiography of General Grant, which I think is the most admirably simple, direct, and unpretentious story that was ever put on paper by a supremely great man. I think it is a marvel of monumental modesty. Remember, the last 2/3 of the second volume was dictated by the General, dying—passing slowly away in the pitiless agonies of cancer in the mouth; he revised his work with his pencil during the last three weeks of his life—after he had become entirely speechless. He made no braver fight in the field than he made on his deathbed."
+> — Mark Twain to William Smith, 3–4 Feb. 1887, Charles L. Webster & Co. letterhead (Shapell Manuscript Collection; ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 III. WAR OF ATTRITION AS PROCEDURAL LOGIC
@@ -133,5 +145,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–GRANT — v1.1
+END OF FILE — MEM–AMERICA–GRANT — v1.3
 ────────────────────────────────────────────────────────────

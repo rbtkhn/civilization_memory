@@ -1,14 +1,16 @@
-MEM–AMERICA–ROOSEVELT–THEODORE — v1.0
+MEM–AMERICA–ROOSEVELT–THEODORE — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (The Age of Jackson)
 Civilization: AMERICA
 Subject: Theodore Roosevelt
 Dates: 1858–1919 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,800
+Word Count: ~2,200
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -39,6 +41,13 @@ Authority is framed as **energy and example**: the president as
 active steward, not passive executor. Strenuous life; moral and
 physical vigour as legitimacy signal.
 
+Edmund Morris, in *Theodore Rex* (2001), on Roosevelt's range and
+qualification for the presidency:
+
+SOURCE — Morris, *Theodore Rex* (ARC-T-MODERN):
+> "Yet there was no doubt that Theodore Roosevelt was peculiarly qualified to be President of all the people. Few, if any Americans could match the breadth of his intellect and the strength of his character. A random survey of his achievements might show him mastering German, French, and the contrasted dialects of Harvard and Dakota Territory; assembling fossil skeletons with paleontological skill; fighting for an amateur boxing championship; transcribing birdsong into a private system of phonetics; chasing boat thieves with a star on his breast and Tolstoy in his pocket; founding a finance club, a stockmen's association, and a hunting-conservation society; reading some twenty thousand books and writing fifteen of his own; climbing the Matterhorn; promulgating a flying machine; and becoming a world authority on North American game mammals."
+> — Edmund Morris, *Theodore Rex* (New York: Random House, 2001) (ARC-T-MODERN) [ERC-SECONDARY].
+
 ────────────────────────────────────────────────────────────
 III. DOMESTIC: SQUARE DEAL, TRUSTS, CONSERVATION
 ────────────────────────────────────────────────────────────
@@ -51,6 +60,20 @@ Policies:
 • Square Deal—fair play for capital, labour, and public
 • Conservation—national parks, forests, reclamation; state as
   permanent trustee of land and resources
+
+Edmund Morris, in *Theodore Rex* (2001), on Roosevelt's view of
+progress, nature, and foresight:
+
+SOURCE — Morris, *Theodore Rex* (ARC-T-MODERN):
+> "Roosevelt remarked on the anomaly whereby man, as he progressed from savagery to civilization, used up more and more of the world's resources, yet in doing so tended to move to the city, and lost his sense of dependence on nature. Lacking that, he also lost his foresight, and unwittingly depleted the inheritances of his children. 'We cannot, when the nation becomes fully civilized and very rich, continue to be civilized and rich unless the nation shows more foresight than we are showing at this moment.'"
+> — Edmund Morris, *Theodore Rex* (New York: Random House, 2001) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Ron Chernow, in *The House of Morgan* (1990), places Roosevelt's
+rhetoric in the run-up to the Panic of 1907:
+
+SOURCE — Chernow, *The House of Morgan* (ARC-T-MODERN):
+> "The panic was blamed on many factors—tight money, Roosevelt's Gridiron Club speech attacking the 'malefactors of great wealth,' and excessive speculation in copper, mining, and railroad stocks."
+> — Ron Chernow, *The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance* (New York: Atlantic Monthly Press, 1990) (ARC-T-MODERN) [ERC-SECONDARY].
 
 The executive **mediates** between concentrated private power and
 public interest. Procedure expands to absorb economic conflict.
@@ -116,6 +139,13 @@ Lessons:
 • Personal vigour and public example become legitimacy resources;
   they also create succession tension when the figure seeks return.
 
+Arthur M. Schlesinger Jr., in *The Age of Jackson* (1945), frames
+the liberal project in terms that embrace Roosevelt's Square Deal:
+
+SOURCE — Schlesinger Jr., *The Age of Jackson* (ARC-T-MODERN):
+> "But the object of liberalism has never been to destroy capitalism, as conservatism invariably claims — only to keep capitalists from destroying it."
+> — Arthur M. Schlesinger Jr., *The Age of Jackson* (Boston: Little, Brown, 1945) (ARC-T-MODERN) [ERC-SECONDARY].
+
 Roosevelt is America's **active steward**: same procedural frame,
 amplified executive role.
 
@@ -127,6 +157,8 @@ AMERICA:
   Corollary as extension; hemisphere as sphere of management.
 • MEM–AMERICA–ADAMS–QUINCY — Doctrine-drafting precedent;
   Roosevelt as doctrine-extender (corollary) and enforcer.
+• MEM–AMERICA–MCKINLEY — Predecessor; succession 1901; McKinley
+  as architect of extra-hemispheric turn, TR as energiser and heir.
 • MEM–AMERICA–JACKSON — Executive personalization; Roosevelt
   as energy without Jackson's anti-institutional hostility;
   contrast in style and institutional outcome.
@@ -156,5 +188,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ROOSEVELT–THEODORE — v1.0
+END OF FILE — MEM–AMERICA–ROOSEVELT–THEODORE — v1.3
 ────────────────────────────────────────────────────────────

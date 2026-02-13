@@ -1,6 +1,6 @@
 MEM–FRANCIA–ROUSSEAU — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICALStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Jean-Jacques Rousseau
 Dates: 1712–1778 AD

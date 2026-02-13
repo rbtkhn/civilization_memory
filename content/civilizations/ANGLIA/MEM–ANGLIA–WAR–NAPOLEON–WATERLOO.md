@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–NAPOLEON–WATERLOO — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.3
 Supersedes: v1.2

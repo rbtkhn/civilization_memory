@@ -1,6 +1,6 @@
 /// MEM–ANGLIA–HENRY–VIII — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.3
 Upgrade Type: ADDITIVE (Churchill Vol. 2 *The New World* — Break with Rome)

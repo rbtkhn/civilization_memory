@@ -1,7 +1,7 @@
 ```
 MEM–FRANCIA–WAR–HUNDRED–YEARS — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.2
 Supersedes: v1.1

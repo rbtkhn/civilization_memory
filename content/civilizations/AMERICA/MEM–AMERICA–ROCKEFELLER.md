@@ -1,14 +1,16 @@
-MEM–AMERICA–ROCKEFELLER — v1.0
+MEM–AMERICA–ROCKEFELLER — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Chernow verbatim (Titan)
 Civilization: AMERICA
 Subject: John D. Rockefeller Sr.
 Dates: 1839–1937 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,400
+Word Count: ~1,450
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -50,6 +52,13 @@ precedes state regulation and antitrust.
 III. STANDARD OIL & ANTITRUST
 ────────────────────────────────────────────────────────────
 The trust becomes the target of procedural response.
+
+Ron Chernow, in *Titan: The Life of John D. Rockefeller, Sr.* (1998),
+on public tolerance before antitrust:
+
+SOURCE — Chernow, *Titan* (ARC-T-MODERN):
+> "The public tolerated the trust's brawny tactics for a long time because it believed that it had, over the long run, cheapened kerosene and exercised a relatively benevolent dictatorship."
+> — Ron Chernow, *Titan: The Life of John D. Rockefeller, Sr.* (New York: Random House, 1998) (ARC-T-MODERN) [ERC-SECONDARY].
 
 Elements:
 • Standard Oil as dominant refiner; trust structure; state and
@@ -125,5 +134,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ROCKEFELLER — v1.0
+END OF FILE — MEM–AMERICA–ROCKEFELLER — v1.1
 ────────────────────────────────────────────────────────────

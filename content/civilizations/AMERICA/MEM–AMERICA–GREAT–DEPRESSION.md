@@ -1,14 +1,16 @@
-MEM–AMERICA–GREAT–DEPRESSION — v1.0
+MEM–AMERICA–GREAT–DEPRESSION — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (The Crisis of the Old Order)
 Civilization: AMERICA
 Subject: Great Depression (Economic Collapse, Legitimacy Stress, and Federal Response)
 Dates: 1929–c.1941 AD (nadir 1929–1933; recovery and New Deal through pre-war)
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,800
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -43,6 +45,13 @@ Legitimacy of **laissez-faire** and limited federal role is
 challenged by duration and depth of crisis. The question becomes:
 Can the republic survive economic catastrophe without redefining
 the state's responsibility?
+
+Arthur M. Schlesinger Jr., in *The Crisis of the Old Order* (1957),
+on the end of the illusion:
+
+SOURCE — Schlesinger Jr., *The Crisis of the Old Order* (ARC-T-MODERN):
+> "For a season, prosperity seemed permanent, but the illusion came to an end when Wall Street crashed in October 1929. Public trust in the wisdom of business leadership crashed too."
+> — Arthur M. Schlesinger Jr., *The Crisis of the Old Order, 1919–1933*, in *The Age of Roosevelt* (Boston: Houghton Mifflin, 1957) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. PROCEDURAL CHALLENGE
@@ -186,5 +195,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–GREAT–DEPRESSION — v1.0
+END OF FILE — MEM–AMERICA–GREAT–DEPRESSION — v1.1
 ────────────────────────────────────────────────────────────

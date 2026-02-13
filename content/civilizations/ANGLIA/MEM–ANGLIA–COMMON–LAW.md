@@ -1,6 +1,6 @@
 MEM–ANGLIA–COMMON–LAW — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.2
 Upgrade Type: ADDITIVE (Churchill, *History of the English-Speaking Peoples*, Vol. 1 — *The Birth of Britain*)

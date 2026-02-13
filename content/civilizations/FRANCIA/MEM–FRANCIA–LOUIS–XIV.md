@@ -1,6 +1,6 @@
 MEM–FRANCIA–LOUIS–XIV — v1.4
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.4
 Supersedes: v1.3

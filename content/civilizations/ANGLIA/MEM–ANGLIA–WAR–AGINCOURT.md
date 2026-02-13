@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–AGINCOURT — v1.5
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.5
 Upgrade Type: ADDITIVE (Shakespeare *Henry V* — St Crispin’s Day, literary evidence)

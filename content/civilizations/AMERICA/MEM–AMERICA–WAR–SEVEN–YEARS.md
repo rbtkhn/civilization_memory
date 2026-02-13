@@ -1,8 +1,10 @@
-MEM–AMERICA–WAR–SEVEN–YEARS — v1.0
+MEM–AMERICA–WAR–SEVEN–YEARS — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Franklin verbatim primary (Albany Plan)
 Civilization: AMERICA
 Subject: Seven Years' War (French and Indian War, Colonial Phase, Imperial Strain)
 Dates: 1754–1763 AD
@@ -56,7 +58,13 @@ SOURCE — Keegan, *Fields of Battle* (ARC-T-MODERN):
 
 The French and Indian War is the first of those continental-scale
 contests; Washington learns his first military lessons in that
-theatre (Churchill, *The Age of Revolution*).
+theatre (Churchill, *The Age of Revolution*). At Albany (1754),
+Franklin had already argued that colonial disunity encouraged the
+French and that union was the condition for preservation:
+
+SOURCE — Franklin, Albany Plan (ARC-T-EARLY-MOD):
+> "That an union of the colonies is absolutely necessary for their preservation."
+> — Benjamin Franklin, "Reasons and Motives for the Albany Plan of Union," July 1754, in *Papers of Benjamin Franklin* 5:399–417; The Founders' Constitution, 1:7:2 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 III. IMPERIAL STRAIN AS CONSEQUENCE

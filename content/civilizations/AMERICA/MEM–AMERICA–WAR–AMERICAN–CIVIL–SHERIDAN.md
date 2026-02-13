@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Grant Memoirs verbatim (ARC-T-EARLY-MOD)
 Civilization: AMERICA
 Subject: Philip Sheridan (Union Cavalry, Shenandoah Valley, Appomattox Campaign)
 Dates: 1831–1888 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,000
+Word Count: ~1,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -43,6 +45,13 @@ Context:
 Sheridan executes the same logic as Sherman—war against capacity and
 supply—but in the eastern theatre, directly supporting Grant's
 pressure on Lee.
+
+Grant, in his *Personal Memoirs* (1885), on his September 1864 meeting
+with Sheridan in the Valley and the campaign that followed:
+
+SOURCE — Grant, *Personal Memoirs of U. S. Grant* (ARC-T-EARLY-MOD):
+> "Now one of the main objects of the expedition began to be accomplished. Sheridan went to work with his command, gathering in the crops, cattle, and everything in the upper part of the valley required by our troops; and especially taking what might be of use to the enemy. What he could not take away he destroyed, so that the enemy would not be invited to come back there."
+> — Ulysses S. Grant, *Personal Memoirs of U. S. Grant*, Vol. 2 (New York: Charles L. Webster, 1885), Ch. 58 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 III. SHENANDOAH VALLEY 1864 & APPOMATTOX CAMPAIGN
@@ -122,5 +131,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERIDAN — v1.1
 ────────────────────────────────────────────────────────────

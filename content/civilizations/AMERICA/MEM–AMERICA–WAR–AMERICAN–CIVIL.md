@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Mark Twain verbatim (Grant Memoirs, closure narrative)
 Civilization: AMERICA
 Subject: American Civil War (Union Preservation, Procedural Continuity by Force)
 Dates: 1861–1865 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,900
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -38,6 +40,32 @@ Context:
   to restore authority and territory
 • Lincoln: preserve the Union; elections continue; civilian control
   of military; procedure survives even at total-war scale
+
+Jefferson, in his Autobiography (1821), encoded the founding tension
+that the war would later resolve by force:
+
+SOURCE — Jefferson, Autobiography (ARC-T-EARLY-MOD):
+> "Nothing is more certainly written in the book of fate than that these people are to be free. Nor is it less certain that the two races, equally free, cannot live in the same government. Nature, habit, opinion has drawn indelible lines of distinction between them."
+> — Thomas Jefferson, Autobiography (draft, 8 Feb. 1821), in *The Papers of Thomas Jefferson*, Retirement Series, or Ford ed. (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+John B. Boles, in *Jefferson: Architect of American Liberty* (2017),
+on the tragic encoding that deferred reckoning:
+
+SOURCE — Boles, *Jefferson: Architect of American Liberty* (ARC-T-MODERN):
+> "Jefferson emerges not as a hypocrite but as a tragic figure—a man who could not hold simultaneously to his views on abolition, democracy, and patriarchal responsibility."
+> — John B. Boles, *Jefferson: Architect of American Liberty* (New York: Basic Books, 2017) (ARC-T-MODERN) [ERC-SECONDARY].
+
+Mark Twain, who published Grant's *Personal Memoirs* (1885), in a letter (1887) on how the war's closure narrative was completed—Grant dictating and revising while dying:
+
+SOURCE — Twain, letter to William Smith (ARC-T-EARLY-MOD):
+> "Remember, the last 2/3 of the second volume was dictated by the General, dying—passing slowly away in the pitiless agonies of cancer in the mouth; he revised his work with his pencil during the last three weeks of his life—after he had become entirely speechless. He made no braver fight in the field than he made on his deathbed."
+> — Mark Twain to William Smith, 3–4 Feb. 1887 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+Lincoln, in the First Inaugural (4 March 1861):
+
+SOURCE — Lincoln, First Inaugural Address (ARC-T-EARLY-MOD):
+> "I hold that, in contemplation of universal law and of the Constitution, the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments."
+> — Abraham Lincoln, First Inaugural Address, 4 March 1861, in *Collected Works of Abraham Lincoln*, Vol. 4, ed. Roy P. Basler et al. (New Brunswick, NJ: Rutgers University Press, 1953) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Both sides claim legality. The Union prevails by force and
 legitimacy of federal authority.
@@ -128,6 +156,12 @@ Lessons:
 The war is America's **union-preservation precedent**: secession
 denied, procedure enforced, Appomattox as procedural end.
 
+Ron Chernow, in *Grant* (2017), on the war's aftermath:
+
+SOURCE — Chernow, *Grant* (ARC-T-MODERN):
+> "Reconstruction was a fine but ultimately doomed experiment in American life. The tragedy of this intractable issue was that there was finally no way for blacks to enjoy their rights without a prolonged military presence, and that became politically impossible."
+> — Ron Chernow, *Grant* (New York: Penguin Press, 2017) (ARC-T-MODERN) [ERC-SECONDARY].
+
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
@@ -201,5 +235,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL — v1.4
 ────────────────────────────────────────────────────────────

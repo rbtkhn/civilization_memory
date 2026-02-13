@@ -1,8 +1,10 @@
-MEM–AMERICA–MONROE — v1.0
+MEM–AMERICA–MONROE — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Jefferson verbatim primary (empire for liberty)
 Civilization: AMERICA
 Subject: James Monroe
 Dates: 1758–1831 AD
@@ -47,6 +49,9 @@ Power is signaled before it is possessed.
 
 This mirrors Anglian practice of early declaration backed by future capacity.
 
+INSERT POINT 1 — McGrath verbatim (doctrine in context / Monroe underappreciated):
+Suggested theme: Monroe as underappreciated; or the Doctrine as strategic signal before capacity. Add SOURCE block when quote selected from McGrath, *James Monroe: A Life* (New York: Dutton, 2020) (ARC-T-MODERN) [ERC-SECONDARY]. Page ref from print copy.
+
 ────────────────────────────────────────────────────────────
 IV. DEPENDENCE ON ANGLIAN SEA POWER
 ────────────────────────────────────────────────────────────
@@ -76,10 +81,20 @@ Stability precedes assertion.
 
 This is Anglian patience in republican form.
 
+INSERT POINT 2 — McGrath verbatim (Era of Good Feelings / bipartisan evolution):
+Suggested theme: Monroe's shift from partisan to bipartisan; Era of Good Feelings; or internal consolidation. Add SOURCE block when quote selected from McGrath, *James Monroe: A Life* (2020) (ARC-T-MODERN) [ERC-SECONDARY]. Page ref from print copy.
+
 ────────────────────────────────────────────────────────────
 VI. CONTRAST WITH JEFFERSON
 ────────────────────────────────────────────────────────────
 Monroe operationalizes what Jefferson theorizes.
+
+Jefferson, in a letter to James Madison (1809), on continental scale and
+republican empire—the vision Monroe later bounded by doctrine:
+
+SOURCE — Jefferson, to James Madison (ARC-T-EARLY-MOD):
+> "We should then have only to include the North in our confederacy, which would be of course in the first war, and we should have such an empire for liberty as she has never surveyed since the creation: and I am persuaded no constitution was ever before so well calculated as ours for extensive empire and self government."
+> — Thomas Jefferson to James Madison, 27 Apr. 1809, in *The Papers of Thomas Jefferson*, Retirement Series (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Differences:
 • Boundary setting over ideology
@@ -113,5 +128,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MONROE — v1.0
+END OF FILE — MEM–AMERICA–MONROE — v1.1
 ────────────────────────────────────────────────────────────

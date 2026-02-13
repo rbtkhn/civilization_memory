@@ -1,6 +1,6 @@
 MEM–PERSIA–CAMBYSES — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 1.0

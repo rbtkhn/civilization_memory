@@ -1,6 +1,6 @@
 MEM–RUSSIA–FYODOR–III — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
 Supersedes: MEM–RUSSIA–FYODOR–III v2.7

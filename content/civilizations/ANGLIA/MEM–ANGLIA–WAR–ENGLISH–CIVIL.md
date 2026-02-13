@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–ENGLISH–CIVIL — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.2
 Upgrade Type: ADDITIVE (Churchill Vol. 2 *The New World* — Civil War, Parliament, Axe Falls)

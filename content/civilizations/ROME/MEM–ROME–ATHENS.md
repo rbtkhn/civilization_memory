@@ -1,6 +1,6 @@
 MEM–ROME–ATHENS — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE · ARC–ROME COMPLIANT
 Version: 1.2

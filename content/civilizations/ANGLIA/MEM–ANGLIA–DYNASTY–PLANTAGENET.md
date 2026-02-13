@@ -1,6 +1,6 @@
 MEM–ANGLIA–DYNASTY–PLANTAGENET — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICALStatus: ACTIVE
 Version: 1.0
 Civilization: ANGLIA
 Regime Type: FEUDAL / IMPERIAL-OVERREACH

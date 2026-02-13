@@ -1,6 +1,6 @@
 MEM–ISLAM–CRUSADES — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: LOCKED
 Version: 1.3
 Civilization: ISLAM

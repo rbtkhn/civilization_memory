@@ -1,8 +1,10 @@
-MEM–AMERICA–WAR–MEXICAN–AMERICAN — v1.0
+MEM–AMERICA–WAR–MEXICAN–AMERICAN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Jefferson verbatim primary (Louisiana/territorial vision)
 Civilization: AMERICA
 Subject: Mexican–American War (Continental Expansion, Territorial Acquisition)
 Dates: 1846–1848 AD
@@ -36,13 +38,22 @@ Context:
 • Texas independence (1836); annexation (1845); Mexican refusal
   to recognise loss; border dispute (Nueces vs. Rio Grande)
 • Manifest Destiny—continental expansion as ideological frame;
-  Pacific access and western territory as objective
+  Pacific access and western territory as objective (see MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY)
 • Polk presidency; provocation and incident; Congress declares
   war (1846); procedural initiation—civilian authority, declaration
 
 War is **justified procedurally**—territorial dispute, invasion
 of U.S. soil (claimed); Mexico weak, divided; America projects
 force with institutional confidence.
+
+Jefferson, in his annual message to Congress (1803) on the Louisiana
+Purchase, had already framed Mississippi and western expansion as
+security and "blessings of freedom and equal laws"—ideological
+precedent for later continental expansion:
+
+SOURCE — Jefferson, Annual Message to Congress (ARC-T-EARLY-MOD):
+> "Whilst the property and sovereignty of the Mississippi and its waters secure an independent outlet for the produce of the Western states, and an uncontrolled navigation through their whole course, free from collision with other powers, the fertility of the country, its climate and extent, promise in due season important aids to our treasury, an ample provision for our posterity, and a wide spread for the blessings of freedom and equal laws."
+> — Thomas Jefferson, Annual Message to Congress, 17 Oct. 1803, in *The Papers of Thomas Jefferson*, vol. 41, ed. Barbara B. Oberg (Princeton: Princeton University Press, 2014) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 John Keegan, in *A History of Warfare* (1993), on how institutions
 restrain and channel violence:
@@ -122,10 +133,14 @@ procedure, and deferred moral cost.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
+• MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — Ideological frame
+  for expansion; O'Sullivan; legitimacy grammar for war and annexation.
 • MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana Purchase;
   Mexican–American War as continuation of continental expansion.
+• MEM–AMERICA–POLK — President and agent of the war; provocation,
+  message to Congress, declaration; territorial design executed.
 • MEM–AMERICA–JACKSON — Expansion and populist authority; Texas
-  and western pressure; precedent for assertive presidency.
+  and western pressure; precedent for assertive presidency; Polk as heir.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Slavery extension into
   acquired territory; sectional conflict; Civil War as deferred
   reckoning.
@@ -159,5 +174,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–MEXICAN–AMERICAN — v1.0
+END OF FILE — MEM–AMERICA–WAR–MEXICAN–AMERICAN — v1.1
 ────────────────────────────────────────────────────────────

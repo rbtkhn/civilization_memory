@@ -1,6 +1,6 @@
 MEM–ISLAM–MECCA — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · DRAFT · 20% COMPLIANT
+ACTIVE · DRAFT
 
 Status: ACTIVE
 Version: 1.0

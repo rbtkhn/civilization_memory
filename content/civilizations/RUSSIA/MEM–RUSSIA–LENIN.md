@@ -1,6 +1,6 @@
 MEM–RUSSIA–LENIN — v3.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.2
 Supersedes: MEM–RUSSIA–LENIN v3.1

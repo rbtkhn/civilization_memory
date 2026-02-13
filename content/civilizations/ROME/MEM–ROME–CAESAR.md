@@ -1,6 +1,6 @@
 MEM–ROME–CAESAR — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: LOCKED
 Version: 1.6
 Upgrade Type: ADDITIVE · CONNECTIVITY SPRINT (10 CONNECTIONS + GEO)

@@ -1,6 +1,6 @@
 MEM–ROME–CONSTANTINOPLE — v2.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: CANONICAL · LOCKED · FINAL
 Version: 2.1

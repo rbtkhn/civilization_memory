@@ -1,6 +1,6 @@
 MEM–RUSSIA–KUTUZOV — v3.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
 Supersedes: MEM–RUSSIA–KUTUZOV v2.7

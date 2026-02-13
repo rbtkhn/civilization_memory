@@ -1,6 +1,6 @@
 MEM–ANGLIA–WAR–SEVEN–YEARS — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 1.7
 Supersedes: v1.6

@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.0
+MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Chernow verbatim (Washington: A Life)
 Civilization: AMERICA
 Subject: Siege of Yorktown (Decisive Nodal Victory, Cornwallis Surrender)
 Dates: September–October 1781 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~950
+Word Count: ~1,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -31,6 +33,13 @@ Chesapeake; Washington and Rochambeau march south. British naval
 relief fails; Cornwallis trapped; surrender October 19, 1781.
 British political will collapses; North falls; negotiations;
 Treaty of Paris (1783) recognises American independence.
+
+Ron Chernow, in *Washington: A Life* (2010), on Yorktown and
+Washington's kind of war:
+
+SOURCE — Chernow, *Washington: A Life* (ARC-T-MODERN):
+> "He had won at Yorktown only with the indispensable aid of the French Army and fleet. But he was a different kind of general fighting a different kind of war, and his military prowess cannot be judged by the usual scorecard of battles won and lost."
+> — Ron Chernow, *Washington: A Life* (New York: Penguin, 2010) (ARC-T-MODERN) [ERC-SECONDARY].
 
 ────────────────────────────────────────────────────────────
 III. CIVILIZATIONAL MEMORY FUNCTION
@@ -65,5 +74,5 @@ Treaty of Paris. Victory through coalition and endurance.
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — v1.1
 ────────────────────────────────────────────────────────────

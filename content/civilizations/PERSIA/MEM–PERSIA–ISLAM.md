@@ -1,6 +1,6 @@
 MEM–PERSIA–ISLAM — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Civilization: PERSIA
 Subject: Islam in Persia

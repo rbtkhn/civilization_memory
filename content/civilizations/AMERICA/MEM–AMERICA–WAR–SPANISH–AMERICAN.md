@@ -1,8 +1,10 @@
-MEM–AMERICA–WAR–SPANISH–AMERICAN — v1.0
+MEM–AMERICA–WAR–SPANISH–AMERICAN — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Mark Twain verbatim primary (anti-imperialism)
 Civilization: AMERICA
 Subject: Spanish–American War (First Extra-Hemispheric Projection, Naval and Overseas Access)
 Dates: 1898 AD
@@ -43,6 +45,14 @@ Context:
 War is **justified as liberation** (Cuba) and **executed as
 access** (Philippines, Guam, Puerto Rico). Procedure (congressional
 declaration, Treaty of Paris 1898) legitimises outcome.
+
+Mark Twain, in "To the Person Sitting in Darkness" (1901), satirises
+the imperial rhetoric that framed such wars—"civilisation" as cover
+for commercial and territorial gain:
+
+SOURCE — Twain, "To the Person Sitting in Darkness" (ARC-T-EARLY-MOD):
+> "Extending the Blessings of Civilization to our Brother who Sits in Darkness has been a good trade and has paid well, on the whole; and there is money in it yet, if carefully worked. Privately and confidentially, it is merely an outside cover, gay and pretty and attractive, displaying the special patterns of our Civilization which we reserve for Home Consumption, while inside the bale is the Actual Thing that the Customer Sitting in Darkness buys with his blood and tears and land and liberty."
+> — Mark Twain, "To the Person Sitting in Darkness," *North American Review*, Feb. 1901 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 John Keegan, in *A History of Warfare* (1993), on institutional
 restraint and the form of state violence:
@@ -88,9 +98,10 @@ Results:
   indirect control, not annexation
 • Puerto Rico—annexed; U.S. territory
 • Philippines—ceded to U.S.; overseas possession; subsequent
-  insurrection and suppression; colonial governance and moral
-  tension
+  insurrection and suppression (see MEM–AMERICA–WAR–PHILIPPINE–AMERICAN)
 • Guam—naval node; Pacific access
+• Hawaii—annexed 1898 (see MEM–AMERICA–WAR–HAWAII–ANNEXATION);
+  Pacific node
 
 Territory is **instrumental**—control and access over settlement;
 liberation rhetoric (Cuba) coexists with colonial rule (Philippines).
@@ -123,9 +134,11 @@ naval dominance, and overseas footprint.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
+• MEM–AMERICA–MCKINLEY — President and architect of the war;
+  declaration, Treaty of Paris; incrementalism and nodal expansion.
 • MEM–AMERICA–ROOSEVELT–THEODORE — Rough Riders; naval and
   expeditionary; bully pulpit and hemispheric assertion; Spanish–
-  American War as formative.
+  American War as formative; successor to McKinley.
 • MEM–AMERICA–MONROE — Hemisphere doctrine; Cuba in hemisphere;
   extra-hemispheric extension (Philippines) as supplement to
   hemisphere perimeter.
@@ -139,6 +152,10 @@ AMERICA:
   Caribbean and Atlantic access.
 • MEM–AMERICA–GEO–PACIFIC–OCEAN — Philippines, Guam; Pacific
   dimension of U.S. reach secured by this war.
+• MEM–AMERICA–WAR–PHILIPPINE–AMERICAN — Colonial sequel;
+  insurrection and pacification after cession.
+• MEM–AMERICA–WAR–HAWAII–ANNEXATION — Annexation during same
+  period; Pacific node; McKinley.
 
 Cross-Civilizational:
 • MEM–ANGLIA–WAR–SPANISH–AMERICAN — Anglian encoding (maritime
@@ -162,5 +179,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–SPANISH–AMERICAN — v1.0
+END OF FILE — MEM–AMERICA–WAR–SPANISH–AMERICAN — v1.1
 ────────────────────────────────────────────────────────────

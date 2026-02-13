@@ -1,6 +1,6 @@
 MEM–FRANCIA–WAR–NAPOLEON–AUSTERLITZ — v1.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANTStatus: ACTIVE
+ACTIVE · CANONICALStatus: ACTIVE
 Civilization: FRANCIA
 Subject: Battle of Austerlitz
 Dates: 1805 AD

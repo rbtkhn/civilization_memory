@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.0
+MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.6
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Franklin verbatim primary (foreign aid letter)
 Civilization: AMERICA
 Subject: War of American Independence (Founding War, Procedural Secession)
 Dates: 1775–1783 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,900
+Word Count: ~2,000
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -40,6 +42,20 @@ Context:
   signal; secession as stated right; war as defence of procedure
   against imperial overreach
 
+Burke, in the same Parliament that rejected conciliation (March 1775),
+had already described the colonists in terms that match that self-understanding:
+
+SOURCE — Burke, Speech on Conciliation with the Colonies (ARC-T-EARLY-MOD):
+> "In this character of the Americans, a love of freedom is the predominating feature which marks and distinguishes the whole … This fierce spirit of liberty is stronger in the English colonies probably than in any other people of the earth … They are therefore not only devoted to liberty, but to liberty according to English ideas, and on English principles."
+> — Edmund Burke, Speech on Conciliation with the Colonies, 22 Mar. 1775, *Works* (Bohn 1854–56), 1:464–71; The Founders' Constitution, 1:1:2 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+Jefferson, in his Autobiography, on the committee and his drafting of
+the Declaration:
+
+SOURCE — Jefferson, Autobiography (ARC-T-EARLY-MOD):
+> "The committee for drawing the declaration of Independence desired me to do it. It was accordingly done, and being approved by them, I reported it to the house on Friday the 28th of June when it was read and ordered to lie on the table."
+> — Thomas Jefferson, Autobiography, in *The Works of Thomas Jefferson*, ed. Paul Leicester Ford, vol. 1 (New York: G. P. Putnam's Sons, 1904) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 The war is fought over **who governs and by what right**—not over
 rejection of law or representation. America claims continuity of
 Anglian grammar against Crown and Parliament.
@@ -61,6 +77,21 @@ Elements:
 Victory is framed as **survival and alliance**, not annihilation
 of the enemy. The republic-in-formation outlasts imperial will.
 
+Paine's *American Crisis* No. I (Dec. 1776) was read to the troops;
+it raised the moral cost of quitting and bound reader and soldier to
+endurance:
+
+SOURCE — Paine, *The American Crisis*, No. I (ARC-T-EARLY-MOD):
+> "These are the times that try men's souls. The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country; but he that stands it now, deserves the love and thanks of man and woman."
+> — Thomas Paine, *The American Crisis*, No. I (Dec. 1776), in *Writings of Thomas Paine*, ed. Moncure Daniel Conway (1894), or standard ed. (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+Ron Chernow, in *Washington: A Life* (2010), on the Continental Army
+and Washington's role:
+
+SOURCE — Chernow, *Washington: A Life* (ARC-T-MODERN):
+> "It always stood on the brink of dissolution, and Washington was the one figure who kept it together, the spiritual and managerial genius of the whole enterprise: he had been resilient in the face of every setback, courageous in the face of every danger."
+> — Ron Chernow, *Washington: A Life* (New York: Penguin, 2010) (ARC-T-MODERN) [ERC-SECONDARY].
+
 ────────────────────────────────────────────────────────────
 IV. FRENCH ALLIANCE AS SYSTEMIC SHIFT
 ────────────────────────────────────────────────────────────
@@ -77,7 +108,12 @@ Effects:
 
 The war ceases to be colonial rebellion and becomes **imperial
 contest**; American independence is sealed when Britain cannot
-hold the theatre.
+hold the theatre. Franklin, who would negotiate the French alliance,
+had already foreseen the need for foreign aid:
+
+SOURCE — Franklin, letter (ARC-T-EARLY-MOD):
+> "After another campaign, we may find it necessary to ask aid of some foreign power."
+> — Benjamin Franklin, Dec. 1775, in *The Papers of Benjamin Franklin* (Yale), or *Works*, ed. Sparks (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 V. YORKTOWN & TERMINATION
@@ -126,7 +162,13 @@ Lessons:
   founding, not civilizational rupture.
 
 The war is America's **institutional origin**: armed exit, French
-alliance, Yorktown, and Treaty of Paris.
+alliance, Yorktown, and Treaty of Paris. Tocqueville, a half-century
+later, described the republic that this war had secured—sovereignty
+divided, results visible in the states:
+
+SOURCE — Tocqueville, *Democracy in America*, Vol. I (ARC-T-EARLY-MOD):
+> "The sovereignty of the Union is an abstract thing which is connected with but few external objects. The sovereignty of the States is perceived by the senses, is understood without effort; every day it produces results which fall under every eye."
+> — Alexis de Tocqueville, *Democracy in America*, Vol. I (1835), ed. Mansfield and Winthrop (Chicago: University of Chicago Press, 2000) or equivalent (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS (MANDATORY)
@@ -197,5 +239,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.3
 ────────────────────────────────────────────────────────────

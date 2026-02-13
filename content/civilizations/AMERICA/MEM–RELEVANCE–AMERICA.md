@@ -53,6 +53,34 @@ Primary MEMs:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Union preservation by force;
   Appomattox; procedure survives; secession denied
   [concepts: union_preservation, procedural_termination]
+• MEM–AMERICA–LAW–CONSTITUTION — Founding law; separation of powers;
+  federal structure; jurisdictional anchor; Philadelphia 1787
+  [concepts: procedural_order, jurisdictional_anchor, separation_of_powers]
+• MEM–AMERICA–LAW–BILL–RIGHTS — Amendments I–X; limits on federal power;
+  rights as constraints; ratification bargain
+  [concepts: procedural_restraint, negative_jurisdiction]
+• MEM–AMERICA–LAW–SUPREME–COURT — Art. III; judicial review; Marbury;
+  constitutional exposition; enforcement dependence
+  [concepts: adjudicative_jurisdiction, judicial_review]
+• MEM–AMERICA–LAW–CONGRESS — Art. I; bicameralism; law, purse, war;
+  collective liability; first branch
+  [concepts: legislative_jurisdiction, bicameralism]
+• MEM–AMERICA–LAW–SLAVERY — Constitutional embedding (3/5, fugitive, trade);
+  state vs federal jurisdiction; Fugitive Slave Acts; 13th Amendment;
+  who was on the hook, irreversibility of abolition
+  [concepts: procedural_embedding, jurisdiction_over_persons, abolition_mechanism]
+• MEM–AMERICA–LAW–FEDERALISM — Dual sovereignty; enumerated vs reserved;
+  Supremacy Clause, Tenth Amendment; state–federal boundary; Court as arbiter
+  [concepts: dual_jurisdiction, reserved_powers, boundary_contestation]
+• MEM–AMERICA–REVOLUTION — Political rupture 1774–1783; Congress, Declaration, war, Treaty; jurisdiction and liability
+  [concepts: founding_rupture, coordination_without_sovereignty]
+• MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — Declaration 4 July 1776; signers' pledge; legitimacy encoding
+  [concepts: public_commitment, rupture_document]
+• MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — First and Second Congress; no formal sovereignty; Olive Branch; coordination
+  [concepts: voluntary_assembly, coordination_mechanism]
+• MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — Expansion ideology;
+  O'Sullivan 1845; Jefferson precedent; Polk and Mexican–American War
+  [concepts: expansion_legitimacy, ideological_frame]
 
 Secondary MEMs:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Union total war; Atlanta,
@@ -114,6 +142,24 @@ Secondary MEMs:
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Continental Congress;
   Declaration 1776; Constitution 1787; procedural founding
   [concepts: procedural_founding, assembly_seat]
+• MEM–AMERICA–LIT–PAINE — Common Sense (Philadelphia 1776), American Crisis;
+  mobilizer; lowers liability threshold for rupture; catalytic not constitutive
+  [concepts: founding_mobilization, delegitimization, simplification]
+• MEM–AMERICA–LIT–EMERSON — Self-reliance, transcendentalism, Concord;
+  individual as moral source; authorises refusal
+  [concepts: self_reliance, nonconformity, american_philosophical_voice]
+• MEM–AMERICA–LIT–THOREAU — Walden, civil disobedience; deliberate life,
+  conscience over law; Emerson's disciple in practice
+  [concepts: civil_disobedience, refusal, deliberate_life]
+• MEM–AMERICA–LIT–WHITMAN — Leaves of Grass, democratic self; Civil War
+  poet; nation as "I" and multitudes
+  [concepts: democratic_voice, civil_war_memory, poetic_canon]
+• MEM–AMERICA–LIT–POE — Gothic, The Raven; marginal, Southern; shadow
+  to transcendental and celebratory strands
+  [concepts: gothic_voice, marginal_voice, aesthetic_effect]
+• MEM–AMERICA–LIT–HAWTHORNE — Scarlet Letter, Puritan legacy; sin, guilt,
+  custom-house; moral burden of the past
+  [concepts: puritan_legacy, guilt, moral_grammar]
 • MEM–AMERICA–COLONIAL–NEW–YORK — Dutch then English; port and
   commerce; occupation and Evacuation Day 1783
   [concepts: colonial_port, procedural_restoration]
@@ -150,6 +196,18 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — First extra-hemispheric
   projection; naval and nodal; Cuba, Philippines; maritime pivot
   [concepts: maritime_expansion, nodal_access]
+• MEM–AMERICA–POLK — Single-term expansion president; Mexican–
+  American War as agent; procedure and territorial design; Jackson's heir
+  [concepts: expansion_by_procedure, presidential_agency]
+• MEM–AMERICA–MCKINLEY — Architect of extra-hemispheric turn;
+  Spanish–American War, Hawaii, Philippines; incrementalism; TR's predecessor
+  [concepts: maritime_expansion, presidential_agency]
+• MEM–AMERICA–WAR–PHILIPPINE–AMERICAN — Colonial pacification
+  after 1898 cession; liberation vs. colonial rule; counter-insurgency
+  [concepts: colonial_closure, legitimacy_tension]
+• MEM–AMERICA–WAR–HAWAII–ANNEXATION — Overthrow 1893, annexation
+  1898; Pacific node; McKinley; sovereignty and procedure
+  [concepts: nodal_acquisition, annexation_by_resolution]
 • MEM–AMERICA–MACARTHUR — Theatre commander relieved for defying
   policy; civilian supremacy reaffirmed by removal; procedure
   over hero-general
@@ -530,6 +588,9 @@ Secondary MEMs:
   [concepts: crisis_stewardship, succession_under_shock]
 • MEM–AMERICA–ADAMS — Institutional continuity and succession
 • MEM–AMERICA–GRANT — Post-war authority and corruption exposure
+• MEM–AMERICA–LAW–SLAVERY — Jurisdiction and liability over enslaved persons;
+  Congress, Court, President as enforcers; 13th Amendment flips exposure
+  [concepts: jurisdiction_over_persons, enforcement_liability]
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Keegan: great soldier, failed
   to control subordinates; surrender as governance choice; liability
   of indulgent command

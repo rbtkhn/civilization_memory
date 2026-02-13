@@ -1,6 +1,6 @@
 MEM–ROME–HIST–GIBBON — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.1
 Upgrade Type: ADD-ONLY · RENAMING · SOURCE DEPTH COMPLIANAD

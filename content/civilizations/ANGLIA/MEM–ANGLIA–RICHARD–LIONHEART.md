@@ -1,6 +1,6 @@
 MEM–ANGLIA–RICHARD–LIONHEART — v2.0
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 2.0
 Supersedes: v1.4

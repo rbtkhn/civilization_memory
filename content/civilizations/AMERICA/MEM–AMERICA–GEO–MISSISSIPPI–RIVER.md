@@ -1,8 +1,10 @@
-MEM–AMERICA–GEO–MISSISSIPPI–RIVER — v1.0
+MEM–AMERICA–GEO–MISSISSIPPI–RIVER — v1.2
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Mark Twain verbatim primary (Life on the Mississippi)
 Civilization: AMERICA
 Subject: Mississippi River System (Internal Ocean, Continental Spine, and Power Multiplier)
 Dates: 18th century–present
@@ -37,6 +39,14 @@ Distance collapses into connectivity.
 
 The river does for land what the Atlantic does for islands.
 
+Mark Twain, in *Life on the Mississippi* (1883), encodes the pilot's
+sovereignty—the cultural complement to Jefferson's political-strategic
+claim:
+
+SOURCE — Twain, *Life on the Mississippi* (ARC-T-EARLY-MOD):
+> "A pilot, in those days, was the only unfettered and entirely independent human being that lived in the earth. Kings are but the hampered servants of parliament and people; parliaments sit in chains forged by their constituency. In truth, every man and woman and child has a master, and worries and frets in servitude; but in the day I write of, the Mississippi pilot had none."
+> — Mark Twain, *Life on the Mississippi*, Ch. 14 "Rank and Dignity of Piloting" (1883) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 ────────────────────────────────────────────────────────────
 III. STRATEGIC ACQUISITION & CONTROL
 ────────────────────────────────────────────────────────────
@@ -46,6 +56,13 @@ Key moments:
 • Louisiana Purchase
 • Neutralization of European control
 • Securing New Orleans as chokepoint
+
+Jefferson, in his annual message to Congress (1803), on the strategic
+meaning of securing the Mississippi and Louisiana for the republic:
+
+SOURCE — Jefferson, Annual Message to Congress (ARC-T-EARLY-MOD):
+> "Whilst the property and sovereignty of the Mississippi and its waters secure an independent outlet for the produce of the Western states, and an uncontrolled navigation through their whole course, free from collision with other powers, the fertility of the country, its climate and extent, promise in due season important aids to our treasury, an ample provision for our posterity, and a wide spread for the blessings of freedom and equal laws."
+> — Thomas Jefferson, Annual Message to Congress, 17 Oct. 1803, in *The Papers of Thomas Jefferson*, vol. 41, ed. Barbara B. Oberg (Princeton: Princeton University Press, 2014) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Control of the mouth guarantees control of the interior.
 
@@ -132,5 +149,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–GEO–MISSISSIPPI–RIVER — v1.0
+END OF FILE — MEM–AMERICA–GEO–MISSISSIPPI–RIVER — v1.2
 ────────────────────────────────────────────────────────────

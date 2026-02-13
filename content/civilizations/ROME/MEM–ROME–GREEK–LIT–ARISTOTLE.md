@@ -1,6 +1,6 @@
 MEM–ROME–GREEK–LIT–ARISTOTLE — v1.3
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 1.3

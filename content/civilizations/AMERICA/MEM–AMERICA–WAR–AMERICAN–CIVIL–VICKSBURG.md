@@ -1,14 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — v1.0
+MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Grant Memoirs verbatim (ARC-T-EARLY-MOD)
 Civilization: AMERICA
 Subject: Vicksburg Campaign (Mississippi Control, Strategic Severance)
 Dates: May 18–July 4, 1863 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,000
+Word Count: ~1,100
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -62,6 +64,14 @@ Elements:
 Grant to James H. Wilson (July 1863): "The fall of Vicksburg is the
 severest blow that has yet been given the Confederacy. It will open
 the Mississippi River and permit supplies to be sent from the West."
+
+In his *Personal Memoirs* (1885), Grant describes the moment white flags
+appeared and the siege ended:
+
+SOURCE — Grant, *Personal Memoirs of U. S. Grant* (ARC-T-EARLY-MOD):
+> "It was a glorious sight to officers and soldiers on the line where these white flags were visible, and the news soon spread to all parts of the command. The troops felt that their long and weary marches, hard fighting, ceaseless watching by night and day, in a hot climate, exposure to all sorts of weather, to diseases and, worst of all, to the gibes of many Northern papers that came to them saying all their suffering was in vain, that Vicksburg would never be taken, were at last at an end and the Union sure to be saved."
+> — Ulysses S. Grant, *Personal Memoirs of U. S. Grant*, Vol. 1 (New York: Charles L. Webster, 1885), Ch. 38 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
 Outcome: Confederacy split east–west; western armies isolated;
 strategic initiative passes permanently to the Union. The war does not
 end, but its **outcome becomes constrained**.
@@ -115,5 +125,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–CIVIL–VICKSBURG — v1.1
 ────────────────────────────────────────────────────────────

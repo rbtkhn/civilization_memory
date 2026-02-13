@@ -1,6 +1,6 @@
 MEM–CHINA–DYNASTY–QIN — v1.0
 Civilizational Memory Codex · Memory File
-LOCKED · CANONICAL · 20% COMPLIANT
+LOCKED · CANONICAL
 
 Status: LOCKED
 Version: 1.0

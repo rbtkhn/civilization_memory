@@ -1,9 +1,10 @@
-MEM–AMERICA–ADAMS — v1.0
+MEM–AMERICA–ADAMS — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: ADDITIVE (Churchill Vol. 3 *The Age of Revolution* — person MEM)
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Jefferson verbatim primary (Autobiography, Declaration drafting)
 Civilization: AMERICA
 Subject: John Adams
 Dates: 1735–1826 AD
@@ -51,6 +52,13 @@ Context:
 • Defense of British soldiers (Boston Massacre, 1770)—procedure over faction
 • Continental Congress; independence as legal and diplomatic argument
 • Drafting and advocacy for the Declaration (with Jefferson and others)
+
+Jefferson, in his Autobiography, on the committee and his role in drafting
+the Declaration:
+
+SOURCE — Jefferson, Autobiography (ARC-T-EARLY-MOD):
+> "The committee for drawing the declaration of Independence desired me to do it. It was accordingly done, and being approved by them, I reported it to the house on Friday the 28th of June when it was read and ordered to lie on the table."
+> — Thomas Jefferson, Autobiography, in *The Works of Thomas Jefferson*, ed. Paul Leicester Ford, vol. 1 (New York: G. P. Putnam's Sons, 1904) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Resistance is framed as **rights and precedent**, not as rupture of form.
 Adams embodies the paradox: rebellion in the language of the realm.
@@ -107,5 +115,5 @@ VII. BIBLIOGRAPHY
 • MEM–AMERICA–WASHINGTON, MEM–AMERICA–JEFFERSON — First great generation triad.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ADAMS v1.0
+END OF FILE — MEM–AMERICA–ADAMS — v1.1
 ────────────────────────────────────────────────────────────

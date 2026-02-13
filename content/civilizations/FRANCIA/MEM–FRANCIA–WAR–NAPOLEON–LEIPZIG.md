@@ -2,7 +2,7 @@ MEM–FRANCIA–WAR–NAPOLEON–LEIPZIG — v2.0
 Civilizational Memory Codex · Memory File
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA COMPLIANT
 
-Status: ACTIVE · CANONICAL · 20% COMPLIANT
+Status: ACTIVE · CANONICAL
 Version: 2.0
 Civilization: FRANCIA
 Subject: Battle of Leipzig (Völkerschlacht / Battle of the Nations)

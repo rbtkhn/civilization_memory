@@ -1,8 +1,10 @@
-MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–TRENTON — v1.0
+MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–TRENTON — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Paine verbatim primary (American Crisis No. I)
 Civilization: AMERICA
 Subject: Trenton (Washington Crossing, Morale Victory, Ten Crucial Days)
 Dates: December 25–26, 1776 AD
@@ -32,6 +34,13 @@ on counterstroke: cross Delaware Dec 25, attack Trenton dawn Dec 26;
 Hessians surprised and captured. Follow-up Princeton Jan 3 1777;
 British reaction blunted. Army withdraws to winter quarters; morale
 and recruitment improve.
+
+Paine's *American Crisis* No. I appeared in December 1776—the same
+month as the crossing and Trenton; it named the moment and the stakes:
+
+SOURCE — Paine, *The American Crisis*, No. I (ARC-T-EARLY-MOD):
+> "These are the times that try men's souls. The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country; but he that stands it now, deserves the love and thanks of man and woman."
+> — Thomas Paine, *The American Crisis*, No. I (Dec. 1776), in *Writings of Thomas Paine*, ed. Moncure Daniel Conway (1894), or standard ed. (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 III. CIVILIZATIONAL MEMORY FUNCTION
@@ -63,5 +72,5 @@ Morale and endurance; symbolic victory as strategic function.
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–TRENTON — v1.0
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–TRENTON — v1.1
 ────────────────────────────────────────────────────────────

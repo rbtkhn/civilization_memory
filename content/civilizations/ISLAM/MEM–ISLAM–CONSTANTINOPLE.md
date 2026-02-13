@@ -1,6 +1,6 @@
 MEM–ISLAM–CONSTANTINOPLE — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 Status: LOCKED
 Version: 1.2
 Civilization: ISLAM

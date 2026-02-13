@@ -1,6 +1,6 @@
 MEM–ROME–CONSTANTINOPLE–THEODOSIAN–WALLS — v1.1
 Civilizational Memory Codex · Memory File
-ACTIVE · CANONICAL · 20% COMPLIANT
+ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 1.2
