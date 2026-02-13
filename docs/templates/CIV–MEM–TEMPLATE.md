@@ -190,6 +190,15 @@ MIGRATION:
 • Content version tracks content changes only (not governance changes)
 • Compliance tracked centrally in COMPLIANCE–REGISTRY.md
 
+TRACEABILITY FIELDS (RECOMMENDED FOR AUDITABILITY):
+• MEM Type: [GEO | SUBJECT]
+• Content Proportion Trace: [short note showing how 2/3 + 1/3 is met]
+• Footer/Header Version Parity: END OF FILE marker MUST match metadata Version
+  line in the same file.
+
+These fields are recommended to improve compliance auditing and do not change
+the mandatory blend ratios defined by CIV–MEM–CORE and cursor rules.
+
 ────────────────────────────────────────────────────────────
 III. MEMORY PURPOSE & SCOPE (REQUIRED)
 ────────────────────────────────────────────────────────────

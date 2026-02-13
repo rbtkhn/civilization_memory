@@ -128,7 +128,7 @@ Lessons:
 The Colorado is where Anglian (and Mexican) settlement **meets hydrologic limit** and where **allocation is fixed by law**—until the next shortage.
 
 ────────────────────────────────────────────────────────────
-IX. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–UNITED–STATES–AMERICA (Southwest settlement, federal reclamation)
 • MEM–ANGLIA–WAR–MEXICAN–AMERICAN (acquisition of Southwest; Treaty of Guadalupe Hidalgo)

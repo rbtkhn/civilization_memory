@@ -24,10 +24,10 @@ Source: STATE–AMERICA Taiwan decision-space session (Option 11
 one-China/peace omitted in first pass); user requested hardening.
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v1.12) — HARVEST AS EXCLUSIVE GATE
+UPGRADE NOTE (v1.12) — RELAY AS EXCLUSIVE GATE
 ────────────────────────────────────────────────────────────
-Only "harvest" or "harvest session" in STATE mode may transfer
-information into SCHOLAR (learn mode). Section XIV-B (Harvest
+Only "relay to scholar" command family in STATE mode may transfer
+information into SCHOLAR (learn mode). Section XIV-B (Relay
 Protocol) added; directionality (§XII) updated. Cursor rule
 cmc-state-scholar-harvest created. CMC–BOOTSTRAP and sync rule
 updated.
@@ -526,7 +526,7 @@ SECTION VII: DECISION-RELEVANT HISTORY
   • Pattern activations linking historical content to current options
   • Source citations
   • Doctrine audit & session outputs (optional): when a doctrine audit
-    or session harvest is performed, record reference to audit file (if
+    or session relay is performed, record reference to audit file (if
     standalone), 1–2 line summary, and precedent MEMs used; format
     "Doctrine audit (date, ARC-sourced) | Result | File: [path] |
     Precedent: [MEM list]"
@@ -874,6 +874,16 @@ RESPONSE LENGTH (when user selects an option):
 RESPONSE LENGTH (free-form question/instruction):
 • Target: 200-400 words before options
 • Maximum: 500 words before options
+
+SAFEGUARD TRACE BLOCK (RECOMMENDED; REQUIRED FOR AUDIT SESSIONS):
+After substantive analytical turns, include a compact trace line that records
+whether key safeguards were executed in this turn.
+
+Format example:
+`Checks: MEM scan=done | negative-claim check=done/na | ARC categories=E/OFFICIAL+E/SPECIALIST | contradictions surfaced=yes/no`
+
+Purpose: improve reviewability and make safeguard execution visible without
+changing analytical content.
 
 OPTION H — ASSESSMENT CLOSURE:
 When user selects H, deliver:
@@ -2003,13 +2013,13 @@ DIRECTIONALITY:
 • SCHOLAR's historical patterns inform STATE's analytical framework
   (via Decision-Relevant History and sync command)
 • STATE's current-events analysis does NOT flow back into SCHOLAR
-  except via explicit **harvest** or **harvest session** command
+  except via explicit **relay to scholar** command family
   (Section XIV-B). No other transfer into Scholar learn mode is
   permitted.
-• The present becomes history eventually; harvest is the gate
+• The present becomes history eventually; relay is the gate
   through which STATE session output may enter Scholar as learning
 • Sync ("sync state to scholar") updates STATE from SCHOLAR/CORE/
-  DOCTRINE; harvest ("harvest" / "harvest session") is the only
+  DOCTRINE; relay ("relay to scholar", "relay session to scholar") is the only
   command that transfers information from STATE session into
   Scholar learn mode
 
@@ -2045,6 +2055,8 @@ Before finalizing any CIV–STATE file:
 - [ ] Source files cited where relevant?
 - [ ] Recursive analysis options presented after every substantive
       analytical turn in STATE sessions?
+- [ ] Safeguard trace block present for substantive turns (or explicitly
+      marked N/A for the session)?
 - [ ] Session activities use their own option structures (not the
       standard 8-slot menu) when invoked?
 - [ ] Activity records maintained for Decision Points, Stability
@@ -2057,9 +2069,9 @@ and MEM files. When these sources are updated, STATE may become
 stale. Sync is one-way: STATE is updated from these sources.
 
 **Transfer into Scholar:** The **only** way to transfer information from
-STATE mode into SCHOLAR (learn mode) is the **"harvest"** or **"harvest
-session"** command. STATE does not write back to SCHOLAR, CORE, or
-DOCTRINE except via explicit harvest. See Section XIV-B (Harvest
+STATE mode into SCHOLAR (learn mode) is the **"relay to scholar"**
+command family. STATE does not write back to SCHOLAR, CORE, or
+DOCTRINE except via explicit relay. See Section XIV-B (Relay
 Protocol). Cursor rule: cmc-state-scholar-harvest.
 
 Enforcement: When the user issues "sync state to scholar" (or
@@ -2104,20 +2116,28 @@ SYNC PROCEDURE:
 6. Apply only with user approval
 7. Update Source Versions block and State Log
 
+LIGHTWEIGHT DRIFT CHECK (RECOMMENDED):
+At session start (or before closure), run a fast consistency check that
+compares Source Versions entries to current header versions of listed sources.
+If mismatched, flag for user approval in the sync proposal.
+
 ────────────────────────────────────────────────────────────
-XIV-B. HARVEST PROTOCOL (STATE → SCHOLAR LEARN)
+XIV-B. RELAY PROTOCOL (STATE → SCHOLAR LEARN)
 ────────────────────────────────────────────────────────────
-**Exclusive gate:** Only the **"harvest"** or **"harvest session"**
-command in STATE mode may transfer information into SCHOLAR (learn
+**Exclusive gate:** Only the **"relay to scholar"** command family
+in STATE mode may transfer information into SCHOLAR (learn
 mode). No other mechanism may write STATE session output into
 CIV–SCHOLAR. This preserves a single, user-controlled gate for
 present-oriented learning to enter the Scholar ledger.
 
-Trigger: User issues "harvest" or "harvest session" (or equivalent)
+Trigger: User issues "relay to scholar" or equivalent
+("relay session to scholar", "relay this session", "relay")
 while in STATE mode, for the entity in focus.
+Legacy aliases accepted for backward compatibility:
+"harvest", "harvest session", "harvest this session".
 
-Harvest procedure:
-1. Identify the STATE session output to be harvested (e.g. decision-
+Relay procedure:
+1. Identify the STATE session output to be relayed (e.g. decision-
    point findings, pattern audit results, revealed-preference
    updates, doctrine-check insights, forward-projection summaries).
 2. Propose specific additions to CIV–SCHOLAR–[CIV] in a form
@@ -2125,7 +2145,7 @@ Harvest procedure:
    proposal, or pattern note per Scholar template structure).
 3. Present proposed additions to the user; apply only after approval.
 4. Record in the STATE file (e.g. State Log or session activity
-   record) that a harvest was performed and what was transferred.
+   record) that a relay was performed and what was transferred.
 
 Cursor rule: cmc-state-scholar-harvest.
 

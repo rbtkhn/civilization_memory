@@ -18,7 +18,7 @@ If the entity is named (e.g. Russia, Germany), sync applies to that entity's STA
 
 ## One-Way Only (Sync)
 
-Sync is **one-way**: STATE file is updated from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE, and MEM corpus. No content is written back into SCHOLAR, CORE, or DOCTRINE by the sync command. **Transfer into Scholar:** The only way to transfer information from STATE mode into SCHOLAR (learn mode) is the **"harvest"** or **"harvest session"** command (CIV–STATE–TEMPLATE §XIV-B; cursor rule: cmc-state-scholar-harvest).
+Sync is **one-way**: STATE file is updated from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE, and MEM corpus. No content is written back into SCHOLAR, CORE, or DOCTRINE by the sync command. **Transfer into Scholar:** The only way to transfer information from STATE mode into SCHOLAR (learn mode) is the **"relay to scholar"** command family (CIV–STATE–TEMPLATE §XIV-B; cursor rule: cmc-state-scholar-harvest). Legacy aliases (`harvest`, `harvest session`) remain accepted.
 
 ## Sync Procedure (MANDATORY)
 

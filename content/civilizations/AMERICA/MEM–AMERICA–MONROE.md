@@ -1,14 +1,16 @@
-MEM–AMERICA–MONROE — v1.2
+MEM–AMERICA–MONROE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · Scholar perimeter/option-set note (ENTRY 0012)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: STRUCTURAL + ADDITIVE · MEM connections and traceability normalization
 Civilization: AMERICA
 Subject: James Monroe
 Dates: 1758–1831 AD
 Class: MEM (Civilizational Memory)
+MEM Type: SUBJECT
+Content Proportion Trace: Mercouris-primary civilizational framing with structural constraint layer
 Last Update: February 2026
 Word Count: ~2,050
 ────────────────────────────────────────────────────────────
@@ -122,7 +124,30 @@ Lessons:
 Monroe draws the map Anglia always implied.
 
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+VIII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–MONROE–DOCTRINE — Doctrine-level encoding of declarative
+  perimeter and anti-colonial signaling.
+• MEM–AMERICA–ADAMS — Diplomatic architecture and early republic
+  strategic grammar around hemispheric order.
+• MEM–AMERICA–WASHINGTON — Foundational restraint and procedural
+  legitimacy that Monroe later territorializes.
+• MEM–AMERICA–WAR–SPANISH–AMERICAN — Shift from declaration to expanded
+  hemispheric coercive capacity.
+• MEM–AMERICA–WAR–MEXICAN–AMERICAN — Continental expansion pressure
+  against perimeter-legitimacy narrative.
+
+Cross-Civilizational:
+• MEM–ANGLIA–MONROE–DOCTRINE — Anglian offshore balancing frame and
+  Atlantic enforcement context.
+• MEM–ANGLIA–WAR–NELSON–TRAFALGAR — Sea-power background condition that
+  made Monroe's declaration credible before U.S. enforcement capacity.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Strategic rules can precede enforcement.
 • Boundaries stabilize legitimacy.
@@ -133,5 +158,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MONROE — v1.1
+END OF FILE — MEM–AMERICA–MONROE — v1.3
 ────────────────────────────────────────────────────────────

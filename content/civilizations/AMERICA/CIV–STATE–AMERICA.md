@@ -678,7 +678,7 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 
 | Source | Version | Last assessed |
 |--------|---------|---------------|
-| CIV–SCHOLAR–AMERICA | v1.2 | 2026-02-12 (sync) |
+| CIV–SCHOLAR–AMERICA | v1.6 | 2026-02-13 (drift check; no material-option change) |
 | CIV–ARC–AMERICA | v2.15 | 2026-02-12 (sync; derived from ARC–ANGLIA) |
 | CIV–SCHOLAR–ANGLIA | v2.0 | 2026-02-12 (constitutive for SCHOLAR–AMERICA) |
 | CIV–DOCTRINE–ANGLIA | v3.0 | 2026-02-12 (source for derivation) |
@@ -831,6 +831,12 @@ ENTRY 012 — February 2026
   whether accommodation/reversal was briefed; cross-civ parallels. Link:
   ENTRY 0011 builds on ENTRY 0010; STATE file notes session for
   traceability.
+
+ENTRY 013 — February 2026
+  Session: Source-version drift check
+  Change: Section IX Source Versions updated for CIV–SCHOLAR–AMERICA
+  v1.2 → v1.6 after governance drift audit; no substantive change to
+  material options, assumptions, or indicators.
 
 ────────────────────────────────────────────────────────────
 END — CIV–STATE–AMERICA v1.0

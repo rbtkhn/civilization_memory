@@ -152,5 +152,22 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WASHINGTON — v1.3
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–WASHINGTON — War-command
+  subfile grounding strategic endurance and civil-military restraint.
+• MEM–AMERICA–MADISON — Constitutional framework that institutionalized
+  Washington's restraint and civilian supremacy precedent.
+• MEM–AMERICA–LINCOLN — Later crisis leadership measured against
+  Washingtonian restraint and continuity grammar.
+
+Cross-Civilizational:
+• MEM–ANGLIA–UNITED–STATES–AMERICA — Anglian procedural inheritance and
+  transformation into republican executive legitimacy.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–AMERICA–WASHINGTON — v1.5
 ────────────────────────────────────────────────────────────

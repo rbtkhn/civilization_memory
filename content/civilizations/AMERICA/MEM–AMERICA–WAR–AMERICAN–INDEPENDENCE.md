@@ -9,6 +9,8 @@ Civilization: AMERICA
 Subject: War of American Independence (Founding War, Procedural Secession)
 Dates: 1775–1783 AD
 Class: MEM (Civilizational Memory)
+MEM Type: SUBJECT
+Content Proportion Trace: Mercouris-primary institutional continuity with structural war constraints
 Last Update: February 2026
 Word Count: ~2,050
 
@@ -242,5 +244,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.3
+END OF FILE — MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.7
 ────────────────────────────────────────────────────────────

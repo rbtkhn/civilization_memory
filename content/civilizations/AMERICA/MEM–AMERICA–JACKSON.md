@@ -194,7 +194,7 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Same-civilization (Anglia):
 • MEM–ANGLIA–HAMILTON — First Bank, national bank logic; Jackson destroys Second Bank
@@ -208,5 +208,5 @@ Secondary / critical (ARC-T-MODERN):
 • **G. Edward Griffin**, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994) — Fed founding, Jekyll Island 1910, return of central banking after Bank War; ERC-CRITICAL (interpretive/polemical).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–JACKSON — v1.5
+END OF FILE — MEM–AMERICA–JACKSON — v1.6
 ────────────────────────────────────────────────────────────

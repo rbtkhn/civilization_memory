@@ -77,7 +77,7 @@ QUICK START (MINIMAL)
 4) Options menu required in SCHOLAR and STATE modes (SCHOLAR LEARN/IMAGINE: 8 options A–H, M+B; SCHOLAR WRITE: 1 Barnes min; STATE: 8 options A–H). After liability analysis → M/M response options. SYSTEM mode: options menu not required.
 5) SCHOLAR LEARN/WRITE: Mercouris academic prose; SCHOLAR IMAGINE: Mercouris spoken (CIV–MIND–MERCOURIS III.L); STATE: professional analytical language, external-facing register; SYSTEM: plain technical language.
 6) Cursor rules (.cursor/rules/cmc-*) enforce mode contracts, content proportion rule, options menu, voice; apply when active.
-7) If a rule is unclear, expand to full governance docs.
+7) If a rule is unclear, expand to full governance docs. For onboarding, use docs/governance/REVIEWER–BOOTSTRAP–MAP.md.
 8) Cross-civilizational misperception: Scholar-on-Scholar explanation divergence (why the other encodes X) is expected; treat as emergent realism, not consistency break (CIV–MEM–CORE § XXVIII).
 9) Trans-sovereign patterns: MEMs documenting TRANSMISSION, NETWORK, or RECONSTITUTION patterns require mandatory cross-civilizational connections and mechanism documentation (CIV–MEM–CORE § XXIX).
 
@@ -483,11 +483,12 @@ guide the next response. Closure deferred until user selects H
 See: CIV–STATE–TEMPLATE Section X-A
 
 SYNC: STATE reads from SCHOLAR/CORE/DOCTRINE/MEMs. Sync command
-updates STATE from those sources (one-way). **Harvest:** The only
-way to transfer information from STATE mode into SCHOLAR (learn
-mode) is the "harvest" or "harvest session" command; procedure in
+updates STATE from those sources (one-way). **Relay to Scholar:** The
+only way to transfer information from STATE mode into SCHOLAR (learn
+mode) is the "relay to scholar" command family; procedure in
 CIV–STATE–TEMPLATE §XIV-B and cmc-state-scholar-harvest. No other
-transfer into Scholar learn mode is permitted.
+transfer into Scholar learn mode is permitted. Legacy aliases
+"harvest" and "harvest session" remain accepted.
 
 CORE LOAD: When analyzing entity [CIV], read CIV–CORE–[CIV] (if
 present) for axiom and constraint compliance. STATE output must not

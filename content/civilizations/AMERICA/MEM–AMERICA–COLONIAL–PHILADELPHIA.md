@@ -135,5 +135,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–COLONIAL–PHILADELPHIA — v1.3
+END OF FILE — MEM–AMERICA–COLONIAL–PHILADELPHIA — v1.5
 ────────────────────────────────────────────────────────────

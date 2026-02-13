@@ -112,7 +112,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (TYPED)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:

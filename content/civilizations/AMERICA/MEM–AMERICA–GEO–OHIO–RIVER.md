@@ -111,7 +111,7 @@ stress that outlives victory; the Ohio encodes the former—deferred
 strain (post-1763) that Britain was ill-prepared to resolve.
 
 ────────────────────────────────────────────────────────────
-VI. CROSS-REFERENCED MEM FILES
+VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–WAR–SEVEN–YEARS (global war whose origin is the Ohio)
 • MEM–AMERICA–WASHINGTON (Washington in Ohio, 1754)

@@ -144,5 +144,22 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–LAW–CONSTITUTION — Madison as principal structural architect
+  of federal design and constrained sovereignty.
+• MEM–AMERICA–LAW–BILL–RIGHTS — Madison's role in drafting and adopting
+  amendments to secure ratification legitimacy.
+• MEM–AMERICA–JEFFERSON — Productive tension between abstract rights
+  language and institutional checks-and-balances design.
+
+Cross-Civilizational:
+• MEM–ANGLIA–LAW–PARLIAMENT — Shared assembly/procedure inheritance and
+  divergence into written constitutional architecture.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–MADISON — v1.2
 ────────────────────────────────────────────────────────────

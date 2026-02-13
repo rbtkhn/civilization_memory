@@ -200,5 +200,5 @@ Primary / verbatim cited:
   verbatim citation per CIV–ARC–AMERICA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–KISSINGER — v1.1
+END OF FILE — MEM–AMERICA–KISSINGER — v1.2
 ────────────────────────────────────────────────────────────

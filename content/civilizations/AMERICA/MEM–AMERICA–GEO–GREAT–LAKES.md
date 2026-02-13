@@ -132,5 +132,22 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–GEO–ATLANTIC — Great Lakes connect inland industry to
+  Atlantic maritime circulation through the St. Lawrence/Great Lakes system.
+• MEM–AMERICA–GEO–MISSISSIPPI–RIVER — Complementary inland transport
+  systems; lakes and river corridors co-produce continental logistics.
+• MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Great Lakes frontier as
+  northern strategic theater during founding conflict.
+
+Cross-Civilizational:
+• MEM–ANGLIA–GEO–ATLANTIC–OCEAN — Shared Atlantic logic; inland-water
+  systems feed the oceanic strategic core.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–GEO–GREAT–LAKES — v1.0
 ────────────────────────────────────────────────────────────

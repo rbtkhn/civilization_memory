@@ -156,7 +156,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (TYPED)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
@@ -186,5 +186,5 @@ IX. MEM BIBLIOGRAPHY
 • MEM–AMERICA–LAW–CONGRESS — Article I Congress as successor; enumerated powers.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — v1.1
+END OF FILE — MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — v1.4
 ────────────────────────────────────────────────────────────

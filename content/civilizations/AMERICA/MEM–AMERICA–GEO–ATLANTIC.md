@@ -166,7 +166,7 @@ primacy; the Atlantic is where legitimacy is invested, not merely
 where power is projected.
 
 ────────────────────────────────────────────────────────────
-XI. MEM CONNECTIONS (STRUCTURAL)
+XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ANGLIA:
 • MEM–ANGLIA–GEO–ENGLISH–CHANNEL — Core defensive node; Channel

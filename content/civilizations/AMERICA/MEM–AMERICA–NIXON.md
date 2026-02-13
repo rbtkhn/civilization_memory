@@ -180,5 +180,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–NIXON — v1.0
+END OF FILE — MEM–AMERICA–NIXON — v1.1
 ────────────────────────────────────────────────────────────

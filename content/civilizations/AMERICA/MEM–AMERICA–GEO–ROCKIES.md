@@ -131,7 +131,7 @@ Lessons:
 The Rockies are where Anglian westward expansion **meets its geographic limit** and where **boundary is fixed by treaty**—not erased.
 
 ────────────────────────────────────────────────────────────
-IX. CROSS-REFERENCED MEM FILES (MEM CONNECTIONS)
+IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–CANADA (British Columbia, CPR, 49th parallel north of Rockies)
 • MEM–ANGLIA–UNITED–STATES–AMERICA (westward expansion, Oregon, transcontinental integration)

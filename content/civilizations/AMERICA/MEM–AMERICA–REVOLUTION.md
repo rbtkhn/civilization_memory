@@ -125,7 +125,7 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VII. MEM CONNECTIONS (TYPED)
+VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
@@ -155,5 +155,5 @@ VIII. MEM BIBLIOGRAPHY
 • MEM–ANGLIA–AMERICAN–REVOLUTION — Anglian perspective; Olive Branch, Churchill.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–REVOLUTION — v1.1
+END OF FILE — MEM–AMERICA–REVOLUTION — v1.3
 ────────────────────────────────────────────────────────────

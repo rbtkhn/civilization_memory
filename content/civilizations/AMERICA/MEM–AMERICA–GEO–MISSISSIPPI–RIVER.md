@@ -149,5 +149,22 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–GEO–OHIO–RIVER — Ohio is the principal eastern feeder into
+  the Mississippi basin and a corridor for inland force movement.
+• MEM–AMERICA–GEO–GREAT–PLAINS — Plains agriculture depends on riverine
+  export pathways through the Mississippi system.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL — Control of Mississippi chokepoints
+  (especially Vicksburg) determined continental union durability.
+
+Cross-Civilizational:
+• MEM–ANGLIA–GEO–ATLANTIC–OCEAN — Mississippi functions as an inland
+  Atlantic, extending maritime strategic logic into continental space.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–GEO–MISSISSIPPI–RIVER — v1.2
 ────────────────────────────────────────────────────────────

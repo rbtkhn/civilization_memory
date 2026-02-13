@@ -207,5 +207,22 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–LINCOLN — v1.5
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–WAR–AMERICAN–CIVIL — War context for coercive preservation
+  of the union and emancipation as wartime transformation.
+• MEM–AMERICA–GRANT — Operational execution of attritional strategy under
+  civilian authority and constitutional continuity.
+• MEM–AMERICA–LAW–SLAVERY — Transition from embedded constitutional
+  contradiction to abolition and postwar legal reframing.
+
+Cross-Civilizational:
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — Comparative pattern of defeat,
+  procedural closure, and legitimacy continuity under stress.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–AMERICA–LINCOLN — v1.6
 ────────────────────────────────────────────────────────────

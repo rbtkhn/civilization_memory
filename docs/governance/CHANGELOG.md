@@ -4,8 +4,67 @@ Consolidated Version History
 
 Status: ACTIVE · CANONICAL
 Governed by: CMC 3.2
-Last Updated: 2026-02-12
+Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00009. TERMINOLOGY MIGRATION — HARVEST → RELAY TO SCHOLAR (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: TERMINOLOGY (STATE–SCHOLAR TRANSFER COMMAND)
+
+CHANGES:
+• Primary command term changed from "harvest" to "relay to scholar"
+  across active governance/runtime guidance.
+• cmc-state-scholar-harvest.mdc updated:
+  - Rule semantics now centered on relay command family.
+  - Trigger set includes "relay to scholar", "relay session to scholar",
+    "relay this session", and "relay".
+  - Legacy aliases retained for backward compatibility:
+    "harvest", "harvest session", "harvest this session".
+• cmc-state-scholar-sync.mdc updated to reference relay as exclusive
+  transfer gate, with legacy alias note.
+• CMC–BOOTSTRAP STATE sync paragraph updated to relay terminology.
+• CIV–STATE–TEMPLATE Section XII/XIV/XIV-B updated:
+  - XIV-B renamed to "RELAY PROTOCOL"
+  - Directionality and transfer clauses now use relay terminology
+  - Legacy harvest aliases explicitly accepted.
+
+RATIONALE:
+The system now conceptualizes SCHOLAR and STATE as peer cognitive
+hemispheres. "Relay to scholar" better represents directional transfer
+between peers than hierarchy-implying terminology.
+
+────────────────────────────────────────────────────────────
+00008. GOVERNANCE DRIFT HARDENING PACK (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: GOVERNANCE (RULE/TEMPLATE/AUDIT-TOOLING/CONTENT NORMALIZATION)
+
+CHANGES:
+• cmc-mode-contracts.mdc: LEARN and IMAGINE options menu wording aligned
+  to canonical 10–20 words per option (removed 6–10 drift).
+• CIV–MEM–TEMPLATE: added recommended auditability fields (MEM Type,
+  Content Proportion Trace, footer/header version parity check).
+• CIV–STATE–TEMPLATE: added recommended safeguard trace line format and
+  lightweight Source Versions drift check note in Sync protocol.
+• CMC–BOOTSTRAP: QUICK START references new reviewer orientation map.
+• New governance docs:
+  - REVIEWER–BOOTSTRAP–MAP.md
+  - LEGACY–HEADER–COMPATIBILITY.md
+  - CHECKLIST–QUARTERLY–GOVERNANCE–DRIFT.md
+• New tooling artifact:
+  - tools/cmc-governance-checks.sh (option policy, Source Versions drift,
+    MEM version parity, MEM CONNECTIONS presence checks)
+• Sample content normalization:
+  - MEM–AMERICA–MONROE v1.2 → v1.3 (added MEM CONNECTIONS section,
+    traceability fields, footer parity)
+  - MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE (footer parity + traceability
+    fields)
+
+RATIONALE:
+Implements post-audit high-value fixes to reduce rule drift, improve
+reviewer onboarding, and make compliance checks more directly auditable.
 
 ────────────────────────────────────────────────────────────
 00007. STATE TEMPLATE — ACCOMMODATION/REVERSAL OPTION IN DECISION POINTS (12 FEB 2026)

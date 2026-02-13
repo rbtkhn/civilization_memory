@@ -135,5 +135,22 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — Jefferson's core
+  authorship role in the declaration of rupture and legitimacy.
+• MEM–AMERICA–MADISON — Contrast between Jeffersonian abstraction and
+  Madisonian structural constitutional design.
+• MEM–AMERICA–LAW–CONSTITUTION — Institutional codification of ideas that
+  Jefferson articulated but did not architect alone.
+
+Cross-Civilizational:
+• MEM–ANGLIA–DECLARATION–INDEPENDENCE — Shared procedural-secession frame
+  and divergent encoding of legitimacy language.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–JEFFERSON — v1.4
 ────────────────────────────────────────────────────────────

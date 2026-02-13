@@ -4,7 +4,7 @@ THREE-MODE ARCHITECTURE EDITION
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-02-10
+Last Updated: 2026-02-13
 Supersedes: VERSION–MANIFEST v3.1
 Purpose: Single source of truth for governance version
 
@@ -130,6 +130,8 @@ Word Count: ~[N]
 
 Note: Existing MEMs with old headers (Template Version Used, Governed by, etc.)
 remain valid. No batch upgrade required.
+Classification and maintenance guidance for legacy patterns:
+• docs/governance/LEGACY–HEADER–COMPATIBILITY.md
 
 ────────────────────────────────────────────────────────────
 IV. CIVILIZATION CONTENT STATUS
@@ -157,6 +159,9 @@ V. VERSION HISTORY
 ────────────────────────────────────────────────────────────
 For detailed changelog, see:
 • docs/governance/CHANGELOG.md
+For recurring drift checks, see:
+• docs/governance/CHECKLIST–QUARTERLY–GOVERNANCE–DRIFT.md
+• tools/cmc-governance-checks.sh
 
 MAJOR VERSIONS:
 • CMC 3.3 (Pending): Tiered Retrieval, Living ARC, MIND Navigation (re-scoped from 3.2)

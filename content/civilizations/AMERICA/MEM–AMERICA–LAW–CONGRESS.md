@@ -138,7 +138,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (TYPED)
+VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
@@ -167,5 +167,5 @@ IX. MEM BIBLIOGRAPHY
 • MEM–AMERICA–WASHINGTON — First Congress; presidency and Congress in operation.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–LAW–CONGRESS — v1.1
+END OF FILE — MEM–AMERICA–LAW–CONGRESS — v1.3
 ────────────────────────────────────────────────────────────

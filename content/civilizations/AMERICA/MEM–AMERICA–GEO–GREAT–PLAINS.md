@@ -164,7 +164,7 @@ XI. PRIMARY SOURCES (SELECTED)
   Confidence: HIGH (administrative and scientific record)
 
 ────────────────────────────────────────────────────────────
-XII. CROSS-REFERENCED MEM FILES
+XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–GEO–GREAT–LAKES  
   (Water-based industrial circulation contrast)

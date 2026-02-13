@@ -160,5 +160,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WAR–SEVEN–YEARS — v1.0
+END OF FILE — MEM–AMERICA–WAR–SEVEN–YEARS — v1.1
 ────────────────────────────────────────────────────────────

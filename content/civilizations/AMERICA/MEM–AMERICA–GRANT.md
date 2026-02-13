@@ -145,5 +145,22 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–LINCOLN — Civilian authority, war aims, and emancipation
+  framing under which Grant's campaigns were executed.
+• MEM–AMERICA–WAR–AMERICAN–CIVIL — Operational and strategic context for
+  attritional victory and Union preservation.
+• MEM–AMERICA–WASHINGTON — Shared pattern of restraint, civilian
+  subordination, and postwar legitimacy management.
+
+Cross-Civilizational:
+• MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE — Comparative case for procedural
+  closure after military defeat.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–GRANT — v1.3
 ────────────────────────────────────────────────────────────

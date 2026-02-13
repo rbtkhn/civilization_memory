@@ -137,5 +137,22 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+AMERICA:
+• MEM–AMERICA–GEO–ROCKIES — Rockies shape Pacific access through passes,
+  corridors, and the cost of cross-continental projection.
+• MEM–AMERICA–MONROE — Hemispheric perimeter logic extends westward into
+  Pacific denial and maritime signaling.
+• MEM–AMERICA–WAR–SPANISH–AMERICAN — Pacific theater links maritime
+  control, overseas projection, and coalition-era U.S. strategy.
+
+Cross-Civilizational:
+• MEM–ANGLIA–GEO–ATLANTIC–OCEAN — Comparative oceanic grammar: Atlantic
+  core logic adapted to Pacific scale and alliance dependence.
+
+Cross-references denote lineage, not equivalence.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–GEO–PACIFIC–OCEAN — v1.0
 ────────────────────────────────────────────────────────────
