@@ -24,6 +24,28 @@ npm install
 npm run dev
 ```
 
+### Run in Docker
+
+```bash
+cd tools/cmc-console
+docker build -t cmc-console .
+docker run --rm -p 3000:3000 cmc-console
+```
+
+### Fast Content Search
+
+```bash
+python3 tools/cmc-index-search.py build
+python3 tools/cmc-index-search.py query "monroe doctrine"
+```
+
+### Validation Helpers
+
+```bash
+tools/cmc-governance-checks.sh .
+python3 tools/cmc-validate-corpus.py --changed-only
+```
+
 ### Modes
 
 1. **Write Mode**: File editing and drafting

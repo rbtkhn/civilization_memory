@@ -8,6 +8,37 @@ Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00010. PHASE 1+2 SCALING BASELINE (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: GOVERNANCE/TOOLING (QUALITY + COLLABORATION + RETRIEVAL + CONTAINER)
+
+CHANGES:
+• Added split licenses at repository root:
+  - LICENSE-CODE (MIT)
+  - LICENSE-CONTENT (CC BY-SA 4.0 default for content)
+• Added CONTRIBUTING.md with doctrinal eligibility checklist and
+  contributor workflow.
+• Added PR template:
+  - .github/pull_request_template.md
+• Added CI quality workflow:
+  - .github/workflows/cmc-quality-checks.yml
+  - runs governance checks and changed-file corpus validation.
+• Added corpus validator:
+  - tools/cmc-validate-corpus.py
+  - validates MEM header/footer parity and mandatory MEM connections label.
+• Added lightweight retrieval/index tool:
+  - tools/cmc-index-search.py (SQLite FTS5 build/query).
+• Added container surface for console:
+  - tools/cmc-console/Dockerfile
+• Updated root and tools READMEs for new checks, search, and Docker usage.
+
+RATIONALE:
+Implements Phase 1 (risk reduction and consistency automation) and
+Phase 2 baseline (retrieval and integration surfaces) without changing
+CMC's core file-first architecture.
+
+────────────────────────────────────────────────────────────
 00009. TERMINOLOGY MIGRATION — HARVEST → RELAY TO SCHOLAR (13 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-13

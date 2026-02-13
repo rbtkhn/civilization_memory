@@ -71,15 +71,21 @@ The CMC Console supports three distinct modes:
 1. **Setup**: Navigate to `tools/cmc-console/` and run `npm install`
 2. **Development**: Run `npm run dev` to start the development server
 3. **Repository Scan**: Use the web interface to scan and index content files
+4. **Quality Checks**:
+   - `tools/cmc-governance-checks.sh .`
+   - `python3 tools/cmc-validate-corpus.py --changed-only`
+5. **Fast Local Search**:
+   - `python3 tools/cmc-index-search.py build`
+   - `python3 tools/cmc-index-search.py query "your terms"`
 
 ## Contributing
 
-The CMC follows strict governance rules. All contributions must:
-- Follow the established file taxonomy
-- Adhere to ARC (Academic Reference Canon) compliance
-- Pass doctrinal eligibility filters
-- Preserve contradiction awareness
+See `CONTRIBUTING.md` for PR workflow, doctrinal eligibility checklist,
+and local validation commands.
 
 ## License
 
-This repository contains structured historical content optimized for LLM interaction. See individual files for specific licensing and attribution requirements. 
+This repository uses split licensing:
+
+- Code and tooling: `LICENSE-CODE` (MIT)
+- Historical content: `LICENSE-CONTENT` (CC BY-SA 4.0 unless overridden in-file)
