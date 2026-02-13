@@ -3,7 +3,7 @@ description: Enforces CMC options requirements — SCHOLAR modes (8 fixed slots)
 alwaysApply: true
 ---
 
-# CMC Options Menu Enforcement — CMC 3.2
+# CMC Options Menu Enforcement — CMC 3.3
 
 Options are **required** in **WRITE, LEARN, IMAGINE** (SCHOLAR) and **STATE** modes. Apply after every substantive turn in LEARN/IMAGINE/STATE; in WRITE, apply when options are presented (e.g. after MEM draft or edit).
 
@@ -196,4 +196,4 @@ STATE uses the **same 8-slot recursive structure** as SCHOLAR, adapted for prese
 
 See: CIV–STATE–TEMPLATE Section X-A
 
-Reference: CMC 3.2, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION
+Reference: CMC 3.3, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION

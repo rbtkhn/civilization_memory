@@ -1,20 +1,33 @@
-CIV–MEM–CORE — v3.2
+CIV–MEM–CORE — v3.3
 Civilizational Memory Codex · System Core
-CMC 3.2 EDITION · THREE-MODE ARCHITECTURE
+CMC 3.3 EDITION · THREE-MODE ARCHITECTURE + INTEGRATION PROGRAM
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 3.2
+Version: 3.3
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v3.1
-Upgrade Type: CMC 3.2 · THREE-MODE ARCHITECTURE
-Last Update: 10 February 2026
+Supersedes: CIV–MEM–CORE v3.2
+Upgrade Type: CMC 3.3 · INTEGRATION PROGRAM ACTIVATION
+Last Update: 13 February 2026
 
 LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
 CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.3) — CMC 3.3 · INTEGRATION PROGRAM ACTIVATION
+────────────────────────────────────────────────────────────
+This version activates the CMC 3.3 governance program streams that were
+previously re-scoped from 3.2.
+
+KEY CHANGES:
+• Tiered Retrieval active as governed retrieval hierarchy
+• Living ARC active as governed source lifecycle stream
+• MIND Navigation active as normative navigation protocol
+• Current Events Protocol residuals integrated into active 3.3 scope
+• Roadmap reference updated to ROADMAP–CMC–3.3
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.2) — CMC 3.2 · THREE-MODE ARCHITECTURE
@@ -39,8 +52,8 @@ KEY CHANGES:
 • Barnes reclassified: "TERTIARY CATALYST" → "LIABILITY/MECHANISM
   PERSPECTIVE" (per terminology audit)
 
-PREVIOUS CMC 3.2 PROPOSALS RE-SCOPED TO CMC 3.3:
-Current Events Protocol (partially absorbed by STATE),
+CMC 3.3 ACTIVE PROGRAM STREAMS:
+Current Events Protocol residuals (partially absorbed by STATE),
 Tiered Retrieval, Living ARC, MIND Navigation.
 
 ────────────────────────────────────────────────────────────
@@ -107,11 +120,10 @@ Backward Compatibility:
 • Prior OGE rules superseded by CMC 3.1 stateless design
 
 ────────────────────────────────────────────────────────────
-CMC 3.3 PROPOSALS (re-scoped from 3.2)
+CMC 3.3 ACTIVE PROGRAM STREAMS
 ────────────────────────────────────────────────────────────
-The following proposals were originally designated CMC 3.2. They are
-re-scoped to CMC 3.3 because CMC 3.2 was used for the three-mode
-architecture. STATE partially absorbs the Current Events Protocol.
+The following streams are active under CMC 3.3. STATE retains absorbed
+current-events functionality while CEP residuals remain governed here.
 
 CURRENT EVENTS PROTOCOL (CEP) — PARTIALLY ABSORBED:
 Bidirectional analysis of current events against historical MEMs.
@@ -140,7 +152,7 @@ Analytical perspective influences navigation, not just voice.
 • Stateless perspective activation model
 See: PROTOCOL–MIND–NAVIGATION.md (ACTIVE)
 
-Implementation: ROADMAP–CMC–3.2.md (to be updated to 3.3)
+Implementation: ROADMAP–CMC–3.3.md
 
 Reference: PROPOSAL–VERSION–DECOUPLING, PROPOSAL–TYPED–CONNECTIONS,
 PROPOSAL–CONCEPT–INDEX, PROPOSAL–OGE–SIMPLIFICATION (all IMPLEMENTED);
@@ -1075,7 +1087,7 @@ Rules:
 
 VP-1.h. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────
-All MIND profiles are governed by CIV–MIND–TEMPLATE (CMC 3.2).
+All MIND profiles are governed by CIV–MIND–TEMPLATE (CMC 3.3).
 
 Hierarchy (top → bottom):
 • HUMAN CURATOR
@@ -1442,7 +1454,7 @@ VERSION RULE (BINDING — CMC 3.1 VERSION DECOUPLING):
 • New MEMs use simplified header (no "Governed by", "Template Version Used", or "Compatibility"); see VERSION–MANIFEST.
 • Existing MEMs with legacy headers remain valid. No batch upgrade required.
 • Compliance tracked in COMPLIANCE–REGISTRY.md; version history in CHANGELOG.md.
-• Governance binding: single CMC version (CMC 3.2); see VERSION–MANIFEST Section I.
+• Governance binding: single CMC version (CMC 3.3); see VERSION–MANIFEST Section I.
 
 NEW MEMs (created after v2.7 effective date):
 • Layer 1: MANDATORY (as before)
@@ -1962,7 +1974,7 @@ v3.2 ADDITIONS:
 • SYSTEM mode for governance maintenance.
 • TERMINOLOGY–REGISTRY and new-term gate.
 • Decorative term replacements across governance files.
-• Previous CMC 3.2 proposals re-scoped to CMC 3.3.
+• CMC 3.3 integration streams activated from prior re-scoped proposals.
 
 v3.1 ADDITIONS:
 • Version Decoupling; Typed Connections; Concept Index; OGE Simplification (Modified).
@@ -1998,5 +2010,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v3.2
+END OF FILE — CIV–MEM–CORE v3.3
 ────────────────────────────────────────────────────────────

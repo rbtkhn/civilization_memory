@@ -1,11 +1,31 @@
-CHANGELOG — v3.2
+CHANGELOG — v3.3
 Civilizational Memory Codex · Governance Change History
 Consolidated Version History
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00012. CMC 3.3 GOVERNANCE UPGRADE ACTIVATION (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: VERSION (GOVERNANCE RELEASE)
+
+CHANGES:
+• Governance version activated: CMC 3.2 → CMC 3.3.
+• Version anchors updated in:
+  - VERSION–MANIFEST
+  - CMC–BOOTSTRAP
+  - CIV–MEM–CORE
+• 3.3 program status changed from re-scoped/pending to active integration
+  streams (Tiered Retrieval, Living ARC, MIND Navigation, CEP residuals).
+• Roadmap reference migrated to ROADMAP–CMC–3.3.
+
+RATIONALE:
+Completes governance release preparation for CMC 3.3 while preserving the
+three-mode architecture and version-decoupled content policy.
 
 ────────────────────────────────────────────────────────────
 00011. PHASE 3 ENFORCEMENT HARDENING (13 FEB 2026)

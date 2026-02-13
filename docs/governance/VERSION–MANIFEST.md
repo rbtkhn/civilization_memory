@@ -1,12 +1,26 @@
-VERSION–MANIFEST — v3.2
+VERSION–MANIFEST — v3.3
 Civilizational Memory Codex · Canonical Version Registry
-THREE-MODE ARCHITECTURE EDITION
+THREE-MODE ARCHITECTURE + INTEGRATION EDITION
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
 Last Updated: 2026-02-13
-Supersedes: VERSION–MANIFEST v3.1
+Supersedes: VERSION–MANIFEST v3.2
 Purpose: Single source of truth for governance version
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.3) — INTEGRATION PROGRAM ACTIVATION
+────────────────────────────────────────────────────────────
+This version activates the CMC 3.3 governance program that was re-scoped
+from earlier 3.2 proposal tracks.
+
+KEY CHANGES:
+• Tiered Retrieval moved from proposal track to active governance program
+• Living ARC moved from proposal track to active governance program
+• MIND Navigation remains ACTIVE and is now part of 3.3 normative scope
+• Current Events Protocol residuals integrated as a governed 3.3 program
+  stream (with STATE retaining already-absorbed functions)
+• ROADMAP–CMC–3.3 becomes active roadmap reference
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.2) — THREE-MODE ARCHITECTURE
@@ -51,10 +65,10 @@ I. CMC GOVERNANCE VERSION (SINGLE SOURCE OF TRUTH)
 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│              CMC GOVERNANCE VERSION: 3.2                    │
+│              CMC GOVERNANCE VERSION: 3.3                    │
 │                                                             │
-│  Effective: 2026-02-10                                      │
-│  Supersedes: CMC 3.1                                        │
+│  Effective: 2026-02-13                                      │
+│  Supersedes: CMC 3.2                                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
@@ -69,9 +83,9 @@ Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
 ────────────────────────────────────────────────────────────
-II. GOVERNANCE DOCUMENTS (ALL CMC 3.2)
+II. GOVERNANCE DOCUMENTS (ALL CMC 3.3)
 ────────────────────────────────────────────────────────────
-These documents are governed by CMC 3.2.
+These documents are governed by CMC 3.3.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
@@ -164,28 +178,30 @@ For recurring drift checks, see:
 • tools/cmc-governance-checks.sh
 
 MAJOR VERSIONS:
-• CMC 3.3 (Pending): Tiered Retrieval, Living ARC, MIND Navigation (re-scoped from 3.2)
+• CMC 3.4 (Planned): Optimization and refinement cycle
+• CMC 3.3 (2026-02-13): Integration Program Activation (Tiered Retrieval, Living ARC, MIND Navigation, CEP residual integration)
 • CMC 3.2 (2026-02-10): Three-Mode Architecture Edition (SCHOLAR/STATE/SYSTEM)
 • CMC 3.1 (2026-02-04): Version Decoupling Edition
 • CMC 3.0 (2026-02-02): Consolidation Edition
 • CMC 2.x (2026-01): Development iterations
 • CMC 1.x (2025): Initial architecture
 
-CMC 3.3 PROPOSALS (re-scoped from 3.2):
-• PROPOSAL–TIERED–RETRIEVAL.md
-• PROPOSAL–LIVING–ARC.md
+CMC 3.3 ACTIVE PROGRAM REFERENCES:
+• PROPOSAL–TIERED–RETRIEVAL.md (active program input)
+• PROPOSAL–LIVING–ARC.md (active program input)
 • PROTOCOL–MIND–NAVIGATION.md (ACTIVE)
-• ROADMAP–CMC–3.2.md (to be updated to 3.3)
+• PROPOSAL–CURRENT–EVENTS–PROTOCOL.md (residual stream)
+• ROADMAP–CMC–3.3.md
 
-Note: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md is partially absorbed
-by CIV–STATE; remaining aspects may be included in 3.3.
+Note: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md remains partially absorbed
+by CIV–STATE; residual aspects are part of active 3.3 integration scope.
 
 ────────────────────────────────────────────────────────────
 VI. QUICK BINDING DECLARATION
 ────────────────────────────────────────────────────────────
 For session startup, declare:
 
-"Bound by CMC Governance Version 3.2"
+"Bound by CMC Governance Version 3.3"
 
 This single declaration replaces all previous multi-line bindings.
 
@@ -194,10 +210,10 @@ VII. COMPLIANCE RULES
 ────────────────────────────────────────────────────────────
 1. New MEMs use simplified header format (Section III)
 2. Existing MEMs with old headers remain valid
-3. MIND profile references use "CMC 3.2" not individual versions
+3. MIND profile references use "CMC 3.3" not individual versions
 4. Compliance status tracked in COMPLIANCE–REGISTRY.md
 5. Version changes logged in CHANGELOG.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v3.2
+END OF FILE — VERSION–MANIFEST — v3.3
 ────────────────────────────────────────────────────────────

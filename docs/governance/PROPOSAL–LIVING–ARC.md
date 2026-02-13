@@ -1,10 +1,10 @@
 # PROPOSAL–LIVING–ARC
 
-**Status:** DRAFT · PROPOSAL  
-**Version:** 1.0  
+**Status:** ACTIVE · PROGRAM INPUT (CMC 3.3)  
+**Version:** 1.1  
 **Author:** CMC System  
-**Date:** 2026-02-03  
-**Governed by:** CMC 3.1  
+**Date:** 2026-02-13  
+**Governed by:** CMC 3.3  
 **Dependencies:** PROPOSAL–CURRENT–EVENTS–PROTOCOL, PROPOSAL–TIERED–RETRIEVAL, PROTOCOL–MIND–NAVIGATION
 
 ---

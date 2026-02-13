@@ -34,7 +34,7 @@ Shorter responses with better options > long responses that exhaust attention.
 - **Forbidden by default**: Bullets, tables, numbered lists
 - **Exception**: User explicitly requests structured format, OR you offer it as an option
 
-## Options Menu Requirements (CMC 3.2 — Fixed Slots, Stateless)
+## Options Menu Requirements (CMC 3.3 — Fixed Slots, Stateless)
 
 After every substantive analytical turn, provide **exactly 8 options** (A–H):
 
@@ -119,7 +119,7 @@ This is soft bias, not hard constraint. All connections and sources remain acces
 
 ## Binding Reference
 
-CMC 3.2 governs (CMC–BOOTSTRAP). When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
+CMC 3.3 governs (CMC–BOOTSTRAP). When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
 
 Note: STATE mode has its own parallel recursive options mechanism (8 analysis options, content-based names, professional register). See cmc-oge-enforcement and CIV–STATE–TEMPLATE Section X-A. This file governs SCHOLAR only.
 

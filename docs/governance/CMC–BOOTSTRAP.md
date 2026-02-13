@@ -2,7 +2,7 @@ CMC–BOOTSTRAP
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Last Update: 11 February 2026
 
 ────────────────────────────────────────────────────────────
@@ -16,6 +16,20 @@ ANGLIA MEM corpus.
 Next session: (To be set by user.)
 
 ────────────────────────────────────────────────────────────
+UPGRADE NOTE (CMC 3.3) — INTEGRATION PROGRAM ACTIVATION
+────────────────────────────────────────────────────────────
+This version activates the CMC 3.3 integration program across governance
+artifacts while preserving the CMC 3.2 three-mode architecture.
+
+KEY CHANGES:
+• Tiered Retrieval, Living ARC, and MIND Navigation are now active 3.3
+  governance program streams
+• Current Events Protocol residuals are integrated as an explicit 3.3
+  stream (with STATE retaining absorbed components)
+• Binding declaration updated to "Bound by CMC 3.3"
+• Roadmap reference updated to ROADMAP–CMC–3.3
+
+────────────────────────────────────────────────────────────
 UPGRADE NOTE (CMC 3.2) — THREE-MODE ARCHITECTURE
 ────────────────────────────────────────────────────────────
 This version formalizes the three-mode architecture and
@@ -27,10 +41,10 @@ KEY CHANGES:
 • SYSTEM mode for governance maintenance
 • TERMINOLOGY–REGISTRY and new-term gate
 • Decorative term replacements across governance files
-• Binding declaration: "Bound by CMC 3.2"
+• Binding declaration: "Bound by CMC 3.3"
 
-PREVIOUS 3.2 PROPOSALS RE-SCOPED TO 3.3:
-Current Events Protocol (partially absorbed by STATE),
+CMC 3.3 ACTIVE PROGRAM STREAMS:
+Current Events Protocol residuals (partially absorbed by STATE),
 Tiered Retrieval, Living ARC, MIND Navigation.
 
 See: docs/governance/VERSION–MANIFEST.md
@@ -54,7 +68,7 @@ Cursor rules updated:
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC 3.2"
+1) Declare binding: "Bound by CMC 3.3"
 2) Select operating mode:
 
    A. SCHOLAR — Learn from the past. Analyse historical sources,
@@ -216,13 +230,13 @@ This version corrects discrepancies identified in v1.0:
 • Added file naming convention
 
 ────────────────────────────────────────────────────────────
-GOVERNANCE VERSION (CMC 3.2 — THREE-MODE ARCHITECTURE)
+GOVERNANCE VERSION (CMC 3.3 — INTEGRATION PROGRAM ACTIVATION)
 ────────────────────────────────────────────────────────────
-Under CMC 3.2, all governance documents are
-governed by a single version: CMC 3.2
+Under CMC 3.3, all governance documents are
+governed by a single version: CMC 3.3
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (CMC 3.2)
+• CIV–MEM–CORE (CMC 3.3)
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS (PRIMARY)
@@ -239,7 +253,7 @@ TEMPLATES:
 Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
-Declare: "Bound by CMC 3.2"
+Declare: "Bound by CMC 3.3"
 
 See: docs/governance/VERSION–MANIFEST.md (Section I)
 
@@ -608,7 +622,7 @@ CROSS–CIVILIZATIONAL MISPERCEPTION (per CIV–MEM–CORE § XXVIII):
 • Treat as expected (emergent realism), not consistency break. Do not require correction to match the other's self-explanation.
 • First-order (capabilities/priorities) and second-order (encoding reasons) misperception are both recognized; preserve tension.
 
-VERSION RULE (BINDING — per CMC 3.2):
+VERSION RULE (BINDING — per CMC 3.3):
 • MEM files declare CONTENT VERSION only (tracks content changes, not governance)
 • New MEMs use simplified header (no Template Version Used, Governed by, etc.)
 • Existing MEMs with legacy headers remain valid
@@ -729,5 +743,5 @@ For full specification, read:
 • docs/templates/CIV–STATE–TEMPLATE.md (STATE mode governance)
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP (CMC 3.2)
+END — CMC–BOOTSTRAP (CMC 3.3)
 ────────────────────────────────────────────────────────────

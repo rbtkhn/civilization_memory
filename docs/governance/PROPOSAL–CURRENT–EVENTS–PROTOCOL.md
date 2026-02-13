@@ -1,10 +1,10 @@
-PROPOSAL–CURRENT–EVENTS–PROTOCOL — v3.2
+PROPOSAL–CURRENT–EVENTS–PROTOCOL — v3.3
 Civilizational Memory Codex · Structural Improvement Proposal
 Formalize Current Events Analysis for Bidirectional Learning
 
-Status: DRAFT · PROPOSAL
+Status: ACTIVE · PROGRAM INPUT (CMC 3.3 residual stream)
 Author: System Analysis
-Date: February 2026
+Date: February 2026 (residual stream activated in CMC 3.3)
 
 ────────────────────────────────────────────────────────────
 I. PROBLEM STATEMENT
