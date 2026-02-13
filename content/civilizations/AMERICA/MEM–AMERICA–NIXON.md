@@ -151,6 +151,9 @@ AMERICA:
 • MEM–AMERICA–MONROE — Hemisphere perimeter; Nixon's opening
   to China and détente extend U.S. engagement beyond hemisphere
   without abandoning Monroe; great-power management as supplement.
+• MEM–AMERICA–KISSINGER — NSA and Secretary of State; executor
+  of opening to China, détente, Vietnam exit; realpolitik as
+  operational design.
 
 Cross-references denote lineage, not equivalence.
 

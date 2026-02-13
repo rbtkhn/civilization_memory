@@ -142,9 +142,10 @@ ARC-T-MODERN (derived from ARC–ANGLIA v3.0; applicable to MEM–AMERICA
 and to constitutive Anglian-derived content):
 • Winston Churchill (1874) — The Second World War; A History of the
   English-Speaking Peoples (Vols. 1–4); The World Crisis (as applicable)
-• Niall Ferguson (1964) — Empire: How Britain Made the Modern World;
-  The House of Rothschild; The Pity of War; The Cash Nexus; Colossus
-  (as applicable)
+• Niall Ferguson (1964) — All works admissible for verbatim citation.
+  Includes: Empire: How Britain Made the Modern World (2003); The House
+  of Rothschild; The Pity of War; The Cash Nexus; Colossus; Kissinger:
+  1923–1968: The Idealist (2015); other titles as applicable.
 • Fred Anderson (b. 1949) — Crucible of War: The Seven Years' War and
   the Fate of Empire in British North America, 1754–1766
 • Ron Chernow (1949) — The House of Morgan; Titan: The Life of John D.

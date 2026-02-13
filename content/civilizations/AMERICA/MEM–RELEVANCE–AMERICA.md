@@ -160,6 +160,9 @@ Secondary MEMs:
 • MEM–AMERICA–LIT–HAWTHORNE — Scarlet Letter, Puritan legacy; sin, guilt,
   custom-house; moral burden of the past
   [concepts: puritan_legacy, guilt, moral_grammar]
+• MEM–AMERICA–KISSINGER — Détente, triangular diplomacy, opening to
+  China; NSA and Secretary of State; order and balance of power
+  [concepts: realpolitik, détente, great_power_management]
 • MEM–AMERICA–COLONIAL–NEW–YORK — Dutch then English; port and
   commerce; occupation and Evacuation Day 1783
   [concepts: colonial_port, procedural_restoration]
