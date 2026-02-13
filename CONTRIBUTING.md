@@ -12,6 +12,18 @@ so contributions are reviewed for structural compliance first, then content.
    - `python3 tools/cmc-validate-corpus.py --changed-only`
 4. Open a pull request using the PR template.
 
+## Enforcement Model (Phase 3)
+
+CMC now uses layered enforcement:
+
+- **Automated (CI):** governance drift checks + changed-file corpus validation
+- **Reviewer-gated (PR):** doctrinal eligibility checklist and scope declaration
+- **Policy-gated (maintainer):** provenance/signing and escalation decisions
+
+See:
+- `docs/governance/PROTOCOL–PROVENANCE–SIGNING.md`
+- `docs/governance/PROTOCOL–CONTRIBUTOR–TRIAGE.md`
+
 ## Contribution Standards
 
 - Preserve contradiction awareness; do not flatten tension into forced closure.
@@ -41,4 +53,5 @@ so contributions are reviewed for structural compliance first, then content.
 
 - Keep commits scoped to one logical change.
 - Use descriptive messages focused on intent and effect.
-- Signed commits are recommended for core maintainers.
+- Signed commits are required for core maintainers and release-significant changes
+  (policy details in `docs/governance/PROTOCOL–PROVENANCE–SIGNING.md`).

@@ -8,6 +8,33 @@ Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00011. PHASE 3 ENFORCEMENT HARDENING (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: GOVERNANCE/COLLABORATION (POLICY + TRIAGE + OWNERSHIP)
+
+CHANGES:
+• Added provenance/signing policy:
+  - docs/governance/PROTOCOL–PROVENANCE–SIGNING.md
+• Added contributor triage protocol:
+  - docs/governance/PROTOCOL–CONTRIBUTOR–TRIAGE.md
+• Tightened PR policy:
+  - .github/pull_request_template.md
+  - added provenance/signing checklist and required triage classification.
+• Added ownership model:
+  - .github/CODEOWNERS
+• Added quality/governance issue intake form:
+  - .github/ISSUE_TEMPLATE/quality-governance-report.yml
+• Hardened CI workflow:
+  - .github/workflows/cmc-quality-checks.yml
+  - PR body policy checks for governance/triage sections.
+• Updated CONTRIBUTING.md with layered enforcement model and policy links.
+
+RATIONALE:
+Implements Phase 3 by moving from advisory contribution guidance to
+enforceable collaboration controls and a concrete quality triage loop.
+
+────────────────────────────────────────────────────────────
 00010. PHASE 1+2 SCALING BASELINE (13 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-13

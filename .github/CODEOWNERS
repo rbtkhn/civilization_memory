@@ -1,0 +1,12 @@
+# CMC governance and enforcement ownership
+
+# Global default owner
+* @rbtkhn
+
+# Governance-critical paths
+docs/governance/ @rbtkhn
+docs/templates/ @rbtkhn
+.cursor/rules/ @rbtkhn
+.github/workflows/ @rbtkhn
+tools/cmc-validate-corpus.py @rbtkhn
+tools/cmc-governance-checks.sh @rbtkhn

@@ -1,0 +1,60 @@
+name: Quality/Governance Report
+description: Report schema drift, governance conflict, evidence issues, or behavioral risk
+title: "[Quality] <short title>"
+labels: ["quality", "governance"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Triage Category
+      options:
+        - T1 Structural Drift
+        - T2 Governance Conflict
+        - T3 Evidence Integrity
+        - T4 Behavioral Risk
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Minor
+        - Material
+        - Critical
+    validations:
+      required: true
+
+  - type: textarea
+    id: paths
+    attributes:
+      label: Affected Paths
+      description: List exact files/paths involved.
+      placeholder: docs/templates/CIV–STATE–TEMPLATE.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: observed
+    attributes:
+      label: Observed Behavior
+      description: What is currently happening?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen under current governance?
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / Reproduction
+      description: Include commands, output, screenshots, or snippets.
+    validations:
+      required: true
