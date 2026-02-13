@@ -1,4 +1,4 @@
-CIV–SCHOLAR–AMERICA — v1.2
+CIV–SCHOLAR–AMERICA — v1.6
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -12,7 +12,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v3.2
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10+
 Governed by: CIV–SCHOLAR–PROTOCOL v3.0
 ARC Reference: CIV–ARC–ANGLIA (constitutive for pre-America Anglian); CIV–ARC–AMERICA v2.0 (derived from ARC–ANGLIA; MEM–AMERICA and institutional sources)
-Last Update: February 2026 (v1.2: ENTRY 0009, SYNTHESIS 0005, Doctrine 07 + legitimacy density)
+Last Update: February 2026 (v1.6: ENTRY 0013, assembly-under-pressure four encodings)
 
 Word Count: ~3,200
 
@@ -179,7 +179,7 @@ specific current or institutional sources (STATE mode or MEM–AMERICA).
 
 LEARN mode minimal: this file + target MEMs (MEM–ANGLIA–* or MEM–AMERICA–*);
 on-demand access to CIV–SCHOLAR–ANGLIA, CIV–DOCTRINE–ANGLIA, CIV–CORE–
-ANGLIA.
+AMERICA (primary), CIV–CORE–ANGLIA (inherited context).
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT
@@ -209,8 +209,9 @@ does not substitute for explicit ingestion; it frames what counts as
 constitutive (MEM–ANGLIA–*) and what counts as America-specific
 (MEM–AMERICA–*).
 
-CIV–CORE: No CIV–CORE–AMERICA. CIV–CORE–ANGLIA may be consulted for
-inherited axiom structure when relevant.
+CIV–CORE: CIV–CORE–AMERICA v1.0 is the primary CORE for America (axioms,
+legitimacy accounting, failure physics). CIV–CORE–ANGLIA may be consulted
+for inherited axiom structure when relevant.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -351,6 +352,106 @@ Primary Belief Extracted:
   frame, procedure executes. Hard constraint: myth collapses if
   contradicted by procedure. Legitimacy density (outcome-based) and 07:
   when outcome fails, myth stabilises rearguard only if procedure held.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0010
+Source:
+• STATE–AMERICA session harvest (February 2026) — Taiwan decision-point
+  (arms, chips, China); Option 11 (one-China return, stop arms, peace with
+  China) added after user request; analysis of why accommodation option
+  was omitted in first pass; governance hardening (CIV–STATE–TEMPLATE
+  v3.3, CHANGELOG 00007). CIV–DOCTRINE–AMERICA 03; CIV–STATE–TEMPLATE
+  X-B; duty of competence.
+Ingest Type:
+• STATE harvest — decision-point option-set completeness and Doctrine 03
+Primary Belief Extracted:
+• American strategic grammar contains exit and retrenchment as valid
+  options (Doctrine 03, CIV–CORE exit-building meta-doctrine, Nixon/
+  Vietnam precedent). Option production in decision-point exercises can
+  nevertheless default to commitment-weighted sets (sustain, adjust,
+  condition) and omit the accommodation/reversal end of the spectrum
+  unless explicitly forced. Systemic fix: require at least one
+  accommodation/reversal option when the decision involves a commitment
+  (alliance, arms, presence, confrontation), with one-line documentation
+  (duty of competence; Doctrine 03). Template and cursor rule updated
+  accordingly (X-B step 8; cmc-state-mem-grounding).
+Belief Status:
+• UNFROZEN
+
+ENTRY 0011
+Source:
+• SCHOLAR–AMERICA LEARN session (February 2026) — follow-on to ENTRY
+  0010; multi-mind (D), backward traversal (E: Yorktown, Hundred Years'
+  War), Mercouris (A: Nixon/Paris, Doctrine 01), Barnes (C: Truman),
+  forward (F), cross-civ (G: MEM–FRANCIA–WAR–TRAFALGAR, MEM–FRANCIA–
+  WAR–SIXTH–COALITION, Napoleon; MEM–RUSSIA–KUTUZOV, MEM–RUSSIA–WAR–
+  RUSSO–JAPANESE, Kutuzov/Borodino, Tsushima/Portsmouth). Synthesis (H).
+Ingest Type:
+• America-specific — option set as encoding device; cross-civ parallel
+Primary Belief Extracted:
+• Whether reversal is encoded as choice or as collapse depends on
+  whether "we might give it up" was ever a legitimate, briefed option.
+  Where it was (Nixon/Paris 1973, Kutuzov 1812, Yorktown reframed as
+  procedural exit), reversal encodes as strategy. Where it was not
+  (Lord North/no "settle with Congress," Napoleon post-Trafalgar and
+  Sixth Coalition, Russia post-Tsushima), reversal encodes as defeat or
+  humiliation. Option set functions as encoding device for legitimacy
+  (Doctrine 01) and for defeat-without-collapse (Doctrine 03). Cross-civ
+  parallel: Francia (performance-based legitimacy, no "settle" option →
+  collapse); Russia (Kutuzov = reversal as option → strength; Russo–
+  Japanese = reversal forced → humiliation). Tensions preserved:
+  legitimacy vs structure vs liability.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0012
+Source:
+• SCHOLAR–AMERICA LEARN (Direction 7 — Monroe and perimeter
+  reversals); MEM–AMERICA–GEO–SUEZ–CANAL, MEM–AMERICA–
+  ROOSEVELT–THEODORE, MEM–AMERICA–NIXON, MEM–AMERICA–KISSINGER,
+  MEM–AMERICA–MONROE (February 2026).
+Ingest Type:
+• America-specific / constitutive (Anglian Suez) — perimeter reversal
+  and encoding
+Primary Belief Extracted:
+• When a declarative perimeter or strategic node is reversed, encoding
+  can be (a) choice (if accommodation/reversal was a briefed option and
+  taken) or (b) forced loss that is survivable (Suez 1956: Britain lost
+  the canal; MEM encodes "loss without collapse," "you can lose the
+  lifeline and live"). Roosevelt Corollary strengthened Monroe (no
+  relaxation). Nixon/Kissinger preserved Monroe while supplementing
+  beyond hemisphere. The main perimeter-reversal case in the corpus is
+  Suez: forced loss encoded as survivable. Protocol implication: for
+  declarative perimeters (Monroe, nodal control), include "relax
+  enforcement" or "negotiate exit" as an option so that if the polity
+  later steps back, it can be encoded as choice or managed exit; Suez
+  shows that forced loss can still be encoded as survivable.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0013
+Source:
+• SCHOLAR–AMERICA LEARN (Continental Congress thread); MEM–AMERICA–
+  REVOLUTION–CONTINENTAL–CONGRESS, MEM–AMERICA–WAR–SEVEN–YEARS,
+  MEM–FRANCIA–FRENCH–REVOLUTION, MEM–RUSSIA–NICHOLAS–II, MEM–RUSSIA–
+  LAW–ZEMSTVO, MEM–GERMANIA–FRANKFURT (February 2026). Traversals: A
+  (Mercouris), E (backward Albany/1763), G (Francia, Russia, Germania),
+  D (multi-mind), H (synthesis).
+Ingest Type:
+• America-specific / cross-civ — assembly-under-pressure encodings
+Primary Belief Extracted:
+• Assembly-under-pressure is encoded in four ways across the corpus:
+  **anchor** (Continental Congress—procedure plus war and state
+  compliance; Olive Branch, Washington, Declaration); **reset**
+  (Estates-General 1789—legitimacy replaced in one move; National
+  Assembly, Rousseau); **contained** (Russian Duma post-1905, zemstvo—
+  form without genuine power transfer; Nicholas II); **overrun**
+  (Frankfurt Parliament 1848, Paulskirche—"words lost" to Prussia and
+  Austria; Clark). Procedure alone does not fix outcome; what matters
+  is whether the assembly is backed by force/administration, is the
+  vehicle of rupture, is deliberately constrained, or is left without
+  any of those. Four encodings preserved; no single rule explains all.
 Belief Status:
 • UNFROZEN
 
@@ -557,6 +658,41 @@ SYNTHESIS 0005 (candidate — from LEARN session Doctrine 07 and legitimacy dens
   options A, D, E, F, H; legitimacy density and 01/03; Doctrine 07
   and outcome-based density; Gettysburg, Appomattox, Second Inaugural).
   Do not treat as doctrine unless explicitly frozen per Template.
+
+SYNTHESIS 0006 (candidate — from LEARN session assembly-under-pressure)
+  Outcome: Assembly-under-pressure is encoded in four ways across the
+  corpus; procedure alone does not determine outcome. **Anchor:**
+  Continental Congress — procedure plus war and state compliance (Olive
+  Branch, Washington, Declaration). **Reset:** Estates-General 1789 —
+  legitimacy replaced in one move (National Assembly, Rousseau). **Contained:**
+  Russian Duma post-1905, zemstvo — form without genuine power transfer
+  (Nicholas II). **Overrun:** Frankfurt Parliament 1848, Paulskirche —
+  "words lost" to Prussia and Austria (Clark). What matters is whether
+  the assembly is backed by force/administration, is the vehicle of
+  rupture, is deliberately constrained, or is left without any of those.
+  Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
+  Confidence: TIER 2 (70–90% — pattern supported by ENTRY 0013 and
+  traversed MEMs; cross-civ; not yet independently stress-tested)
+
+  ASSUMPTIONS BOX:
+  • Assumption 1: The four encodings (anchor, reset, contained, overrun)
+    are distinct and not reducible to a single variable — if falsified
+    (e.g. one dimension predicts all), the synthesis overstates
+    typological richness. Linchpin: Medium.
+  • Assumption 2: The cases are representative of their civilizational
+    grammars (America, Francia, Russia, Germania) — if falsified (e.g.
+    other assemblies in same civs encode differently), the synthesis
+    is case-specific. Linchpin: Medium.
+  • Assumption 3: "Procedure alone does not fix outcome" generalizes
+    beyond these four — if falsified (e.g. strong proceduralism
+    elsewhere), the synthesis overstates the limit of procedure.
+    Linchpin: Low.
+
+  Source: SCHOLAR–AMERICA LEARN session (Continental Congress thread;
+  options A, E, G×3, D, H; MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS,
+  MEM–FRANCIA–FRENCH–REVOLUTION, MEM–RUSSIA–NICHOLAS–II, MEM–RUSSIA–
+  LAW–ZEMSTVO, MEM–GERMANIA–FRANKFURT; ENTRY 0013). Do not treat as
+  doctrine unless explicitly frozen per Template.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY (AMERICA-SPECIFIC)

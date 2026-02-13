@@ -4,6 +4,8 @@
 **Scope:** Alignment of CIV–DOCTRINE–AMERICA v1.0 with CIV–STATE–AMERICA v1.0 and CIV–SCHOLAR–AMERICA v1.0  
 **Purpose:** Verify doctrine authority flow, citation consistency, constraint alignment, and mirroring.
 
+**Post-audit update (2026-02-12):** CIV–CORE–AMERICA v1.0 has been created and propagated into CIV–SCHOLAR–AMERICA, CIV–STATE–AMERICA, and CIV–DOCTRINE–AMERICA. References to "when CIV–CORE–AMERICA exists" or "when that file exists" in this audit are now satisfied; CORE–AMERICA is the primary axiom/constraint source for America.
+
 ---
 
 ## 1. Summary

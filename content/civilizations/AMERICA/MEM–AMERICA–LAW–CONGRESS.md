@@ -1,16 +1,16 @@
-MEM–AMERICA–LAW–CONGRESS — v1.1
+MEM–AMERICA–LAW–CONGRESS — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Tocqueville verbatim primary (Democracy in America I)
+Version: 1.3
+Supersedes: v1.2
+Upgrade Type: ADDITIVE · Adams verbatim primary (Thoughts, Defence)
 Civilization: AMERICA
 Subject: U.S. Congress (Article I) — bicameral legislature, lawmaking, war declaration, appropriations
 Dates: 1789–ongoing AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,600
+Word Count: ~1,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -60,6 +60,20 @@ passed it in both chambers and (unless overridden) the President
 who signed it. **Personal liability** is diluted across many
 members; no one person can be held to account for "Congress"
 as an institution.
+
+Madison, in Federalist 51, on why the legislature must be divided:
+
+SOURCE — Madison, Federalist 51 (ARC-T-EARLY-MOD):
+> "In republican government the legislative authority, necessarily, predominates. The remedy for this inconveniency is, to divide the legislature into different branches; and to render them by different modes of election, and different principles of action, as little connected with each other, as the nature of their common functions, and their common dependence on the society, will admit."
+> — James Madison (Publius), *The Federalist* No. 51, 6 Feb. 1788, in *The Federalist*, ed. Jacob E. Cooke (Middletown, CT: Wesleyan University Press, 1961), 349 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+Adams, in *Thoughts on Government* (1776), had argued that one assembly cannot hold all power and that a second body must mediate:
+
+SOURCE — Adams, *Thoughts on Government* (ARC-T-EARLY-MOD):
+> "A people cannot be long free, nor ever happy, whose government is one Assembly. … To avoid these dangers let a distant Assembly be constituted, as a mediator between the two extreme branches of the legislature, that which represents the people and that which is vested with the executive power."
+> — John Adams, *Thoughts on Government* (1776), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 198, 200 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+In the *Defence of the Constitutions* (1787–1788), Adams called American assemblies "the most adequate, proportional, and equitable representations of the people, that are known in the world" (*Works*, vol. 4, 581).
 
 Tocqueville observed that federal power—the sphere in which Congress
 acts—is experienced as abstract compared with the visible work of the

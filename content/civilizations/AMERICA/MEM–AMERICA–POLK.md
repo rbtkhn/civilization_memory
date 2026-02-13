@@ -167,7 +167,7 @@ Tension preserved without verdict.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — Ideological frame;
+• MEM–AMERICA–MANIFEST–DESTINY — Ideological frame;
   Polk's presidency in the shadow of Manifest Destiny; execution of design.
 • MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana and
   Mississippi; Polk as executor of continental expansion.

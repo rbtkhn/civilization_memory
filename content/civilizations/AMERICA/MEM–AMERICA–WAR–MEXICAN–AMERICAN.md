@@ -38,7 +38,7 @@ Context:
 • Texas independence (1836); annexation (1845); Mexican refusal
   to recognise loss; border dispute (Nueces vs. Rio Grande)
 • Manifest Destiny—continental expansion as ideological frame;
-  Pacific access and western territory as objective (see MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY)
+  Pacific access and western territory as objective (see MEM–AMERICA–MANIFEST–DESTINY)
 • Polk presidency; provocation and incident; Congress declares
   war (1846); procedural initiation—civilian authority, declaration
 
@@ -133,7 +133,7 @@ procedure, and deferred moral cost.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — Ideological frame
+• MEM–AMERICA–MANIFEST–DESTINY — Ideological frame
   for expansion; O'Sullivan; legitimacy grammar for war and annexation.
 • MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana Purchase;
   Mexican–American War as continuation of continental expansion.

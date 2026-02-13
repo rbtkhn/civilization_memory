@@ -1,4 +1,4 @@
-CIV–DOCTRINE–AMERICA — v1.0
+CIV–DOCTRINE–AMERICA — v1.1
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -9,7 +9,8 @@ Source Authority: DIB–AMERICA (Explicit Acceptance)
 Compatibility: CIV–MEM–CORE v3.0 · CIV–STATE–AMERICA v1.0 · CIV–SCHOLAR–AMERICA v1.0
 Derived from: CIV–DOCTRINE–ANGLIA v3.0 · CIV–DOCTRINE–TEMPLATE v3.2
 Last Update: February 2026
-Word Count: ~1,650
+Word Count: ~1,750
+Supersedes: v1.0 (v1.1 adds Section VI-A: Application, Contingency & Executive Use)
 
 **DERIVATION CLAUSE (BINDING):**
 This doctrine registry is **derived from CIV–DOCTRINE–ANGLIA**. America inherits
@@ -29,7 +30,7 @@ civilizational doctrines**.
 
 It contains:
 • Doctrines explicitly accepted via DIB–AMERICA
-• Definitions suitable for CIV–CORE citation (when CIV–CORE–AMERICA exists)
+• Definitions suitable for CIV–CORE citation (CIV–CORE–AMERICA v1.0)
 • Controlled illustrative material for training and sequencing clarity
 • No learning history
 • No beliefs
@@ -41,7 +42,7 @@ This file:
 • Does NOT evolve autonomously
 
 Authority Flow:
-CIV–MEM–CORE → CIV–CORE–AMERICA (when present) → DIB–AMERICA → CIV–DOCTRINE–AMERICA
+CIV–MEM–CORE → CIV–CORE–AMERICA → DIB–AMERICA → CIV–DOCTRINE–AMERICA
 For derived doctrines 01–07: CIV–DOCTRINE–ANGLIA → adaptation → DIB–AMERICA → CIV–DOCTRINE–AMERICA
 
 Doctrine Admissibility Rules (per Template § III):
@@ -341,7 +342,7 @@ CIV–DOCTRINE–ANGLIA and affirmed for America):
 V. DOCTRINE MIRRORING REQUIREMENT (MANDATORY)
 ────────────────────────────────────────────────────────────
 This doctrine registry MUST be mirrored verbatim into:
-• CIV–CORE–AMERICA (when that file exists)
+• CIV–CORE–AMERICA (v1.0; doctrine citation binding)
 • CIV–SCHOLAR–AMERICA
 
 Mirroring Rules:
@@ -353,7 +354,7 @@ Mirroring Rules:
 ────────────────────────────────────────────────────────────
 VI. CITATION RULES
 ────────────────────────────────────────────────────────────
-CIV–CORE–AMERICA (when present) and CIV–STATE–AMERICA may cite:
+CIV–CORE–AMERICA and CIV–STATE–AMERICA may cite:
 • Doctrine Name
 • Version
 • Doctrine Number
@@ -361,6 +362,46 @@ CIV–CORE–AMERICA (when present) and CIV–STATE–AMERICA may cite:
 Illustrative cases, relationships, and diagrams:
 • NON-CITABLE
 • NON-AUTHORITATIVE
+
+────────────────────────────────────────────────────────────
+VI-A. APPLICATION, CONTINGENCY & EXECUTIVE USE (NON-AUTHORITATIVE)
+────────────────────────────────────────────────────────────
+This section sharpens application of doctrines 01–07 based on
+executive-use and historical-audit insight. It does not add or
+modify binding doctrine; it clarifies how the registry should be
+understood and used.
+
+HEURISTIC STATUS:
+• Doctrines 01–07 are **risk-reducing heuristics**, not guarantees.
+  Compliance improves the expected distribution of outcomes across
+  many decisions and reduces fragility to bad contingency; it does
+  not ensure success in any single case.
+• Violation (e.g. bypassing process, acting without coalition or
+  exit path) has sometimes produced good results when contingency
+  (luck, opponent choices, events) favored the actor. The cost is
+  precedent and increased future fragility; the same violation in
+  another context may compound.
+• Single-case success or failure should not be read as proof that
+  doctrine is unnecessary or that violation is safe. The appropriate
+  question is whether structure (process, coalition, exit, narrative)
+  was used to reduce dependence on luck.
+
+CONTINGENCY:
+• Outcomes depend on **structure** (what the actor controls: process,
+  coalition, exit plan, narrative) and **contingency** (what the actor
+  does not fully control: opponent moves, events, luck). Doctrines
+  aim to maximise the share of outcomes explained by structure and
+  to reduce dependence on contingency. They do not eliminate
+  contingency.
+
+EXECUTIVE USE:
+• For presidential and senior-executive use, a derived one-page brief
+  exists: **DIB–AMERICA–PRESIDENTIAL–DOCTRINE–BRIEF**. It
+  translates doctrines 01–07 into plain-English principles and a
+  decision checklist. The registry (this file) remains the
+  authoritative source for doctrine definitions and for audit;
+  the Presidential Doctrine Brief is the recommended interface for
+  executive stress-testing of options.
 
 ────────────────────────────────────────────────────────────
 VII. VERSIONING & LOCK
@@ -372,5 +413,5 @@ This file is LOCKED.
 • Deletions are forbidden
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–AMERICA — v1.0
+END OF FILE — CIV–DOCTRINE–AMERICA — v1.1
 ────────────────────────────────────────────────────────────

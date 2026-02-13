@@ -1,14 +1,16 @@
-MEM–AMERICA–NIXON — v1.0
+MEM–AMERICA–NIXON — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Scholar perimeter note (ENTRY 0012)
 Civilization: AMERICA
 Subject: Richard Nixon
 Dates: 1913–1994 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,800
+Word Count: ~1,850
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -62,6 +64,9 @@ The opening is **realpolitik applied**: ideology subordinated to
 balance; procedure (summit, treaty, recognition) used to reshape
 alliance and threat. Hemisphere perimeter (Monroe) is not abandoned
 but supplemented by great-power management beyond the hemisphere.
+ENTRY 0012 (CIV–SCHOLAR–AMERICA) treats this preservation as the
+contrast to perimeter reversal (e.g. Suez: forced loss encoded as
+survivable).
 
 ────────────────────────────────────────────────────────────
 IV. VIETNAM: EXIT & "PEACE WITH HONOR"

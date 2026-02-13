@@ -874,7 +874,7 @@ Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
 ────────────────────────────────────────────────────────────
 XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–MEARSHEIMER v3.0 is CANONICAL.
+CIV–MIND–MEARSHEIMER v3.3 is CANONICAL.
 
 All uses governed by CMC 3.2.
 
@@ -882,5 +882,5 @@ This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MEARSHEIMER — v3.2
+END OF FILE — CIV–MIND–MEARSHEIMER — v3.3
 ────────────────────────────────────────────────────────────

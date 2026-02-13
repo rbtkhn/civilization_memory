@@ -1,16 +1,16 @@
-MEM–AMERICA–LINCOLN — v1.5
+MEM–AMERICA–LINCOLN — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.5
-Supersedes: v1.4
-Upgrade Type: ADDITIVE · Jefferson + Boles verbatim (slavery at founding)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Scholar scope note (option on table, declined)
 Civilization: AMERICA
 Subject: Abraham Lincoln
 Dates: 1809–1865 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
-Word Count: ~2,500
+Last Update: February 2026
+Word Count: ~2,550
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -103,6 +103,11 @@ Lincoln, in the First Inaugural Address (4 March 1861):
 SOURCE — Lincoln, First Inaugural Address (ARC-T-EARLY-MOD):
 > "I hold that, in contemplation of universal law and of the Constitution, the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments. It follows from these views that no State, upon its own mere motion, can lawfully get out of the Union, that resolves and ordinances to that effect are legally void."
 > — Abraham Lincoln, First Inaugural Address, 4 March 1861, in *Collected Works of Abraham Lincoln*, Vol. 4, ed. Roy P. Basler et al. (New Brunswick, NJ: Rutgers University Press, 1953) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+The option "negotiate separation" or "let them go" was present in some
+actors' minds (e.g. pre-1861 compromise efforts) but was **rejected**—so
+the option was on the table and declined, consistent with ENTRY 0010/0011
+(CIV–SCHOLAR–AMERICA) protocol that reversal be a briefed option.
 
 ────────────────────────────────────────────────────────────
 IV. WAR POWERS & CONSTITUTIONAL STRETCH

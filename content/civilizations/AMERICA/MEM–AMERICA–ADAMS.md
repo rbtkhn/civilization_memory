@@ -1,16 +1,16 @@
-MEM–AMERICA–ADAMS — v1.1
+MEM–AMERICA–ADAMS — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Jefferson verbatim primary (Autobiography, Declaration drafting)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Adams verbatim primary (Thoughts on Government, Defence Letter XXIII)
 Civilization: AMERICA
 Subject: John Adams
 Dates: 1735–1826 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
-Word Count: ~1,750
+Last Update: February 2026
+Word Count: ~2,150
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -25,7 +25,15 @@ presidential succession.
 Adams does not invent American legitimacy.
 He **translates** it—lawyer, diplomat, vice president, president—
 within the "first great generation" of American leaders alongside
-Washington and Jefferson.
+Washington and Jefferson. His constitutional theory—**empire of laws,
+not of men**; balanced government; separation of powers—pre-dates
+and parallels the Federalist.
+
+Adams, in *Thoughts on Government* (1776):
+
+SOURCE — Adams, *Thoughts on Government* (ARC-T-EARLY-MOD):
+> "There is no good government but what is Republican. The very definition of a Republic, is 'an Empire of Laws, and not of Men.' That, as a Republic is the best of governments, so that particular arrangement of the powers of society, or in other words that form of government, which is best contrived to secure an impartial and exact execution of the laws, is the best of Republics."
+> — John Adams, *Thoughts on Government* (1776), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 194–95 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Contradictions are preserved without synthesis.
 
@@ -62,6 +70,12 @@ SOURCE — Jefferson, Autobiography (ARC-T-EARLY-MOD):
 
 Resistance is framed as **rights and precedent**, not as rupture of form.
 Adams embodies the paradox: rebellion in the language of the realm.
+In the same year as the Declaration, Adams argued that structure
+matters—a single assembly is unfit to hold all power:
+
+SOURCE — Adams, *Thoughts on Government* (ARC-T-EARLY-MOD):
+> "A SINGLE Assembly is liable to all the vices, follies and frailties of an individual. — Subject to fits of humour, starts of passion, flights of enthusiasm, partialities of prejudice, and consequently productive of hasty results and absurd judgments. … A people cannot be long free, nor ever happy, whose government is one Assembly."
+> — John Adams, *Thoughts on Government* (1776), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 195, 198 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────
 IV. DIPLOMAT & RECOGNITION
@@ -83,6 +97,13 @@ office without crisis.
 V. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
 Adams encodes **legal-diplomatic continuity** in the American founding.
+In *A Defence of the Constitutions of Government of the United States*
+(1787–1788), written in London during the Convention, he recapitulates
+the case for balanced government and American practice:
+
+SOURCE — Adams, *Defence of the Constitutions*, Letter XXIII (ARC-T-EARLY-MOD):
+> "We may fairly conclude, that the body politic cannot subsist without one, any more than the animal body without a head. … In America, there are different orders of offices, but none of men; out of office all men are of the same species, and of one blood; there is neither a greater nor a lesser nobility. … The legislative, executive, and judicial powers are carefully separated from each other—the powers of the one, the few, and the many, are nicely balanced in their legislatures … and where all these circumstances take place, it is unnecessary to add, that the laws alone can govern."
+> — John Adams, *A Defence of the Constitutions of Government of the United States*, Letter XXIII (1787–1788), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 579–87 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 He teaches:
 • Rebellion can be articulated in the center's own legal language.
@@ -113,7 +134,8 @@ VII. BIBLIOGRAPHY
 • Churchill, Winston S. *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution*. New York: Dodd, Mead, 1956–1958. American Revolution, first great generation (Washington, Adams, Jefferson). (ARC-T-MODERN)
 • CIV–ARC–ANGLIA — Churchill in ARC-T-MODERN.
 • MEM–AMERICA–WASHINGTON, MEM–AMERICA–JEFFERSON — First great generation triad.
+• Adams, John. *Thoughts on Government* (1776), *A Defence of the Constitutions* (1787–1788), in *The Works of John Adams*, ed. Charles Francis Adams, 10 vols. (Boston: Little, Brown, 1850–1856). (ARC-T-EARLY-MOD)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ADAMS — v1.1
+END OF FILE — MEM–AMERICA–ADAMS — v1.2
 ────────────────────────────────────────────────────────────

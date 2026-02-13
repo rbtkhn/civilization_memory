@@ -8,6 +8,34 @@ Last Updated: 2026-02-12
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00007. STATE TEMPLATE — ACCOMMODATION/REVERSAL OPTION IN DECISION POINTS (12 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-12
+Type: GOVERNANCE (CIV–STATE–TEMPLATE / CURSOR RULE)
+
+CHANGES:
+• CIV–STATE–TEMPLATE v3.2 → v3.3: Decision Points (X-B) step 8 now requires
+  that when the decision involves a commitment (alliance, arms, presence,
+  confrontation), the option set MUST include at least one option at the
+  accommodation/reversal end of the spectrum, with one-line documentation
+  (duty of competence; Doctrine 03).
+• Section I (Duty of competence clarification): added explicit requirement
+  for decision-point option sets to include accommodation/reversal when
+  applicable; reference to X-B step 8.
+• Section X (Self-check): new checklist item for accommodation/reversal
+  option when Decision Points involve a commitment.
+• cmc-state-mem-grounding.mdc: new self-check bullet for Decision Points
+  accommodation/reversal option.
+
+RATIONALE:
+STATE–AMERICA Taiwan session omitted the "one-China return, stop arms,
+peace with China" option in the first pass; user identified this as a
+systemic bias (commitment-weighted default). American doctrine (03) and
+duty of competence already permit exit/retrenchment; the change makes
+that operational in option generation so accommodation is included in
+the first pass, not only when the user requests it.
+
+────────────────────────────────────────────────────────────
 00006. MEARSHEIMER COGNITIVE-LINGUISTIC AUDIT (12 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-12

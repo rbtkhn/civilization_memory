@@ -1,13 +1,15 @@
-MEM–AMERICA–KISSINGER — v1.1
+MEM–AMERICA–KISSINGER — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Scholar perimeter note (ENTRY 0012)
 Civilization: AMERICA
 Subject: Henry Kissinger (1923–2023)
 Dates: 1969–1977 AD (NSA, Secretary of State); influence through later writings
 Last Updated: February 2026
-Word Count: ~1,750
+Word Count: ~1,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -32,6 +34,9 @@ image: the idea of Kissinger as the ruthless arch-realist is a
 refugee-to-statesman—corrects when read as idealist in the
 Kantian, not Wilsonian, sense. Contradictions (idealist rhetoric
 vs. realist practice; procedure vs. back-channel) are preserved.
+Monroe was preserved while policy extended beyond the hemisphere;
+ENTRY 0012 (CIV–SCHOLAR–AMERICA) frames this as the no-reversal
+contrast to cases like Suez.
 
 Contradictions are preserved without synthesis.
 

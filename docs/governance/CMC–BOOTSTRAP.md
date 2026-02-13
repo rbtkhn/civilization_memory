@@ -502,7 +502,7 @@ file + CIV–SCHOLAR–[CIV] (if present) + MEMs; SCHOLAR: CORE + SCHOLAR
 file + MEMs as needed). See cmc-state-mem-grounding, cmc-scholar-mode,
 cmc-state-scholar-sync.
 
-TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (current: v1.12)
+TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (governance v3.2; internal rev v1.12)
 
 MODE SWITCHING:
 • "switch to state mode" or "state mode" → STATE

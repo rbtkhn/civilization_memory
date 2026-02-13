@@ -1,13 +1,15 @@
-MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — v1.0
+MEM–AMERICA–MANIFEST–DESTINY — v1.1
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: ADDITIVE · Scholar scope note (ENTRY 0010, 0011); rename from MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY
 Civilization: AMERICA
 Subject: Manifest Destiny (ideological frame for continental expansion)
 Dates: c. 1845–1848 AD (phrase coined; peak political use)
 Last Updated: February 2026
-Word Count: ~1,650
+Word Count: ~1,700
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -23,7 +25,10 @@ The phrase does not create expansion; it **legitimises** it. It
 translates territorial ambition into a grammar of right and
 inevitability—so that procedure (annexation, declaration, treaty)
 and ideology align. Contradictions (slavery extension, Mexican
-sovereignty, indigenous displacement) are deferred or reframed.
+sovereignty, indigenous displacement) are deferred or reframed. The
+ideology does not encode "don't expand" or "reverse course" as a
+**legitimate** briefed option; ENTRY 0010/0011 (CIV–SCHOLAR–AMERICA)
+would require that option set for operational expansion decisions.
 
 Contradictions are preserved without synthesis.
 
@@ -174,5 +179,5 @@ Primary / verbatim cited:
   (*The Papers of Thomas Jefferson*, vol. 41) — ARC-T-EARLY-MOD.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — v1.0
+END OF FILE — MEM–AMERICA–MANIFEST–DESTINY — v1.1
 ────────────────────────────────────────────────────────────

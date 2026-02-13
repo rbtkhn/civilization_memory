@@ -1,16 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.6
+MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — v1.7
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.6
-Supersedes: v1.5
-Upgrade Type: ADDITIVE · Franklin verbatim primary (foreign aid letter)
+Version: 1.7
+Supersedes: v1.6
+Upgrade Type: ADDITIVE · Scholar option-set note (Olive Branch, ENTRY 0010/0011)
 Civilization: AMERICA
 Subject: War of American Independence (Founding War, Procedural Secession)
 Dates: 1775–1783 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~2,000
+Word Count: ~2,050
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -38,6 +38,9 @@ Context:
   disputes; rights framed as inherited (English liberty), not invented
 • Continental Congress (1774–1775); coordination without central
   sovereignty; legitimacy through assembly and grievance
+• **Option set included accommodation:** Olive Branch Petition (July 1775)
+  before the Declaration—independence was chosen after accommodation
+  was effectively rejected (ENTRY 0010/0011, CIV–SCHOLAR–AMERICA).
 • Declaration of Independence (1776)—universalist register and alliance
   signal; secession as stated right; war as defence of procedure
   against imperial overreach

@@ -1,16 +1,16 @@
-MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.3
+MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · Lincoln verbatim primary (Second Inaugural)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Scholar option-set encoding (ENTRY 0010/0011, Doctrine 07)
 Civilization: AMERICA
 Subject: Appomattox (Procedural Termination, Surrender as Restoration)
 Dates: April 9, 1865 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,200
+Word Count: ~1,250
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -46,7 +46,10 @@ Legitimacy through **reintegration**; procedure absorbs the defeated.
 III. APPOMATTOX AS PROCEDURAL CHOICE
 ────────────────────────────────────────────────────────────
 The surrender represents a conscious choice to frame victory as
-restoration.
+restoration. Grant's terms were a **chosen option set**—magnanimity
+(parole, no imprisonment, "countrymen again") as a briefed alternative
+to punishment; links to CIV–DOCTRINE–AMERICA 07 and option-set encoding
+(ENTRY 0010/0011, CIV–SCHOLAR–AMERICA).
 
 Grant's terms:
 • No imprisonment of Confederate soldiers

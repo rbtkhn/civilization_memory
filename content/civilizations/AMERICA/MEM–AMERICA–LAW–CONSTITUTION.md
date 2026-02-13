@@ -1,16 +1,16 @@
-MEM–AMERICA–LAW–CONSTITUTION — v1.3
+MEM–AMERICA–LAW–CONSTITUTION — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · Franklin verbatim primary (Convention speech)
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: ADDITIVE · Adams verbatim primary (Thoughts, Defence)
 Civilization: AMERICA
 Subject: U.S. Constitution (1787) — founding law, separation of powers, federal structure
 Dates: 1787–ongoing AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,650
+Word Count: ~1,950
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -39,6 +39,12 @@ Madison's design assumes defection—ambition countering ambition.
 Institutional survival is secured by **making no single actor
 unilaterally decisive**.
 
+The Convention is a **second** assembly-under-pressure moment after the
+Continental Congress: not overrun, not contained—it produced the document
+that backs procedure. Contrast: Congress = coordination + war (anchor);
+Estates-General 1789 = reset; Duma/zemstvo = contained; Frankfurt 1848 =
+overrun. See CIV–SCHOLAR–AMERICA ENTRY 0013.
+
 ────────────────────────────────────────────────────────────
 III. SEPARATION OF POWERS AS LIABILITY PARTITION
 ────────────────────────────────────────────────────────────
@@ -55,6 +61,21 @@ No branch may complete the full cycle of coercion alone. Legislation
 requires both chambers and presentment; execution requires law;
 judgment requires a case. **Defection incentive** is reduced by
 interdependence.
+
+Madison, in Federalist 51, on why the interior structure must supply
+the defect of better motives:
+
+SOURCE — Madison, Federalist 51 (ARC-T-EARLY-MOD):
+> "The defect must be supplied, by so contriving the interior structure of the government, as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places. … Ambition must be made to counteract ambition. … If men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary. In framing a government which is to be administered by men over men, the great difficulty lies in this: You must first enable the government to control the governed; and in the next place, oblige it to control itself."
+> — James Madison (Publius), *The Federalist* No. 51, 6 Feb. 1788, in *The Federalist*, ed. Jacob E. Cooke (Middletown, CT: Wesleyan University Press, 1961), 349 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+Adams, in *Thoughts on Government* (1776), had already tied republican government to the execution of laws and an independent judiciary:
+
+SOURCE — Adams, *Thoughts on Government* (ARC-T-EARLY-MOD):
+> "The very definition of a Republic, is 'an Empire of Laws, and not of Men.' … The judicial power ought to be distinct from the legislative and executive, and independent upon both, that so it may be a check upon both, as both should be checks upon that."
+> — John Adams, *Thoughts on Government* (1776), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 194–95, 210 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
+
+In the *Defence of the Constitutions* (1787–1788), Adams recapitulates: "The legislative, executive, and judicial powers are carefully separated from each other … and where all these circumstances take place, it is unnecessary to add, that the laws alone can govern" (*Works*, vol. 4, 587).
 
 ────────────────────────────────────────────────────────────
 IV. FEDERALISM — DUAL JURISDICTION
@@ -145,6 +166,7 @@ ENABLES:
 • MEM–AMERICA–LAW–CONGRESS — Art. I; Congress as first branch.
 • MEM–AMERICA–LAW–FEDERALISM — Art. VI, Amendment X; dual jurisdiction as constitutional design.
 • MEM–AMERICA–LAW–SLAVERY — Art. I §2, I §9, IV §2; slavery embedded; amendment path to abolition.
+• MEM–AMERICA–FEDERALIST–PAPERS — Ratification argument; canonical gloss on structure, faction, separation of powers.
 
 PARALLELS:
 • MEM–ANGLIA–LAW–MAGNA–CARTA — Limitation of sovereign by text; procedural restraint (Anglian precedent).
@@ -160,5 +182,5 @@ X. MEM BIBLIOGRAPHY
 • MEM–AMERICA–JEFFERSON — Declaration; people as depository; contrast with Madison's structure.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–LAW–CONSTITUTION — v1.2
+END OF FILE — MEM–AMERICA–LAW–CONSTITUTION — v1.6
 ────────────────────────────────────────────────────────────

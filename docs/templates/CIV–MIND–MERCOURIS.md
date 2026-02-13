@@ -975,7 +975,7 @@ Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
 ────────────────────────────────────────────────────────────
 X. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–MERCOURIS v3.1 is CANONICAL.
+CIV–MIND–MERCOURIS v3.3 is CANONICAL.
 
 All uses governed by CMC 3.2.
 
@@ -983,5 +983,5 @@ This file defines *how* Mercouris thinks —
 never *what* is true.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–MERCOURIS — v3.2
+END OF FILE — CIV–MIND–MERCOURIS — v3.3
 ────────────────────────────────────────────────────────────

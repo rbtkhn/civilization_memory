@@ -678,11 +678,12 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 
 | Source | Version | Last assessed |
 |--------|---------|---------------|
-| CIV–SCHOLAR–AMERICA | v1.0 | 2026-02-12 |
-| CIV–ARC–AMERICA | v2.1 | 2026-02-12 (derived from ARC–ANGLIA) |
+| CIV–SCHOLAR–AMERICA | v1.2 | 2026-02-12 (sync) |
+| CIV–ARC–AMERICA | v2.15 | 2026-02-12 (sync; derived from ARC–ANGLIA) |
 | CIV–SCHOLAR–ANGLIA | v2.0 | 2026-02-12 (constitutive for SCHOLAR–AMERICA) |
 | CIV–DOCTRINE–ANGLIA | v3.0 | 2026-02-12 (source for derivation) |
-| CIV–DOCTRINE–AMERICA | v1.0 | 2026-02-12 (derived from ANGLIA; American doctrine authority) |
+| CIV–DOCTRINE–AMERICA | v1.1 | 2026-02-12 (sync; Section VI-A Application & Contingency) |
+| CIV–CORE–AMERICA | v1.0 | 2026-02-12 (primary; axiom/constraint load) |
 | CIV–CORE–ANGLIA | v2.0 | 2026-02-12 (optional; inherited context) |
 | ANGLIA MEM corpus | 150+ files | February 2026 |
 
@@ -724,6 +725,13 @@ ENTRY 002 — February 2026
   updated to reference CIV–SCHOLAR–AMERICA; harvest from STATE sessions
   transfers into SCHOLAR–AMERICA.
 
+ENTRY 004 — February 2026
+  Session: CIV–CORE–AMERICA created
+  Change: CIV–CORE–AMERICA v1.0 added (Constitutional–Federal–Electoral
+  Continuity Edition). STATE and SCHOLAR now load CORE–AMERICA for axiom
+  and constraint awareness when entity is AMERICA. Section IX Source
+  Versions updated; CIV–CORE–ANGLIA retained as optional inherited context.
+
 ENTRY 003 — February 2026
   Session: Canonical dates established
   Change: **1776** defined as date of establishment of STATE–AMERICA
@@ -753,7 +761,7 @@ ENTRY 006 — February 2026
   Change: Section VII (Decision-Relevant History) — added PATTERN:
   Mississippi Sequence (Chokepoint and Continental Union). Source:
   MEM–AMERICA–GEO–MISSISSIPPI–RIVER and LEARN session (Mearsheimer
-  audit on five geographic features; multi-mind on Civil War; backward
+aud  audit on five geographic features; multi-mind on Civil War; backward
   traversal 1763 → 1795 → 1803 → 1863). Pattern encodes "control of
   mouth guarantees control of interior" and sequence from Seven Years'
   War to Vicksburg. Activation: HIGH.
@@ -778,6 +786,51 @@ ENTRY 008 — February 2026
   CIV–SCHOLAR–AMERICA: SYNTHESIS 0003 candidate (violation →
   corrective reassertion). STATE–AMERICA–DOCTRINE–VIOLATIONS–NOTE–
   2026–02–12.md created (session note, non-authoritative).
+
+ENTRY 009 — February 2026
+  Session: Doctrine audit — current U.S. foreign policy vs CIV–DOCTRINE–AMERICA
+  Activity: STATE–AMERICA; audit of current U.S. foreign policy (2025 NSS,
+  administration posture) against doctrines 01–07; executive report.
+  Change: STATE–AMERICA–DOCTRINE–AUDIT–EXECUTIVE–REPORT–2026–02–12.md
+  created. Sources: CIV–CORE–AMERICA, CIV–DOCTRINE–AMERICA, CIV–STATE–
+  AMERICA; MEM–AMERICA–MONROE; MEM–RELEVANCE–AMERICA; White House 2025
+  NSS (ARC–AMERICA ARC-T-INSTITUTIONAL). Verdict: doctrines 01, 03, 06, 07
+  aligned; 04 and 05 partially aligned (coalition/conditionality risk); 02
+  N/A. CORE diagnostics (CAI, EL, FC, SPI, Spatial) intact for scope of
+  audit.
+
+ENTRY 010 — February 2026
+  Session: Sync (STATE updated from sources)
+  Change: Section IX Source Versions updated. CIV–SCHOLAR–AMERICA v1.0 →
+  v1.2; CIV–ARC–AMERICA v2.1 → v2.15; CIV–DOCTRINE–AMERICA v1.0 → v1.1.
+  No substantive change to material options or Decision-Relevant History;
+  DOCTRINE v1.1 adds Section VI-A (Application, Contingency & Executive
+  Use); SCHOLAR v1.2 includes ENTRY 0009, SYNTHESIS 0005. Sync one-way:
+  STATE reads from SCHOLAR/CORE/DOCTRINE; no content written back.
+
+ENTRY 011 — February 2026
+  Session: Harvest (STATE → SCHOLAR)
+  Activity: STATE–AMERICA Taiwan decision-point session; Option 11
+  (one-China return, stop arms, peace with China); analysis of
+  accommodation-option omission; governance hardening (CIV–STATE–
+  TEMPLATE v3.3 accommodation/reversal requirement).
+  Change: CIV–SCHOLAR–AMERICA — ENTRY 0010 added (STATE harvest).
+  Content transferred: pattern re commitment-weighted option production
+  and accommodation/reversal; Doctrine 03 operationalised in Decision
+  Points (X-B step 8). Harvest Protocol §XIV-B; one-way STATE → SCHOLAR.
+
+ENTRY 012 — February 2026
+  Session: SCHOLAR–AMERICA LEARN (follow-on to harvest)
+  Activity: LEARN session on ENTRY 0010; multi-mind, backward (Yorktown,
+  Hundred Years' War), Mercouris (Doctrine 01, Nixon/Paris), Barnes
+  (Truman/liability), forward (synthesis feed), cross-civ (Francia:
+  Trafalgar, Sixth Coalition; Russia: Kutuzov, Russo–Japanese);
+  synthesis (H).
+  Change: CIV–SCHOLAR–AMERICA — ENTRY 0011 added. Content: option set
+  as encoding device; reversal as choice vs collapse depending on
+  whether accommodation/reversal was briefed; cross-civ parallels. Link:
+  ENTRY 0011 builds on ENTRY 0010; STATE file notes session for
+  traceability.
 
 ────────────────────────────────────────────────────────────
 END — CIV–STATE–AMERICA v1.0

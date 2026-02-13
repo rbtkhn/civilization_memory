@@ -1,16 +1,16 @@
-MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — v1.3
+MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · Franklin verbatim primary (Albany Plan)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Scholar encoding type (ENTRY 0013, SYNTHESIS 0006)
 Civilization: AMERICA
 Subject: Continental Congress (First 1774, Second 1775–1781) — coordination, jurisdiction, no formal sovereignty
 Dates: 1774–1781 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,600
+Word Count: ~1,650
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -29,6 +29,13 @@ chose to participate. **Institutional survival** of the Congress
 depended on continued participation and on the war being fought—after
 the Articles of Confederation (1781), the Congress became the Confederation
 Congress with slightly more formal status, but still no power to enforce.
+
+**Encoding (assembly-under-pressure):** In the fourfold typology (anchor /
+reset / contained / overrun), the Continental Congress is the **anchor**
+type: procedure plus war and state compliance (Olive Branch, Washington,
+Declaration). Contrast: Estates-General 1789 = reset; Russian Duma/zemstvo
+= contained; Frankfurt 1848 = overrun. See CIV–SCHOLAR–AMERICA ENTRY 0013,
+SYNTHESIS 0006.
 
 Contradictions are preserved without synthesis.
 

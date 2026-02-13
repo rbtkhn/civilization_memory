@@ -56,6 +56,9 @@ Primary MEMs:
 • MEM–AMERICA–LAW–CONSTITUTION — Founding law; separation of powers;
   federal structure; jurisdictional anchor; Philadelphia 1787
   [concepts: procedural_order, jurisdictional_anchor, separation_of_powers]
+• MEM–AMERICA–FEDERALIST–PAPERS — Publius 1787–88; ratification argument;
+  Federalist 10 (faction, extended republic), 51 (ambition countering ambition); canonical gloss
+  [concepts: ratification_legitimacy, faction_management, structural_restraint]
 • MEM–AMERICA–LAW–BILL–RIGHTS — Amendments I–X; limits on federal power;
   rights as constraints; ratification bargain
   [concepts: procedural_restraint, negative_jurisdiction]
@@ -78,7 +81,7 @@ Primary MEMs:
   [concepts: public_commitment, rupture_document]
 • MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — First and Second Congress; no formal sovereignty; Olive Branch; coordination
   [concepts: voluntary_assembly, coordination_mechanism]
-• MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY — Expansion ideology;
+• MEM–AMERICA–MANIFEST–DESTINY — Expansion ideology;
   O'Sullivan 1845; Jefferson precedent; Polk and Mexican–American War
   [concepts: expansion_legitimacy, ideological_frame]
 

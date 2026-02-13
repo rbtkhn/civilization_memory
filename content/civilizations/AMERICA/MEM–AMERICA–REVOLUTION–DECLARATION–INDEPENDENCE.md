@@ -1,16 +1,16 @@
-MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — v1.2
+MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.2
-Supersedes: v1.1
-Upgrade Type: ADDITIVE · Franklin attributed (committee; signing)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · Adams verbatim (Mass. Const. Art. XXX — government of laws)
 Civilization: AMERICA
 Subject: Declaration of Independence (4 July 1776) — adoption, text, liability of signers, legitimacy encoding
 Dates: 1776 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,650
+Word Count: ~1,800
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -28,6 +28,20 @@ vote for independence. **Mechanism**: the text is a **public commitment**
 the pledge. **Institutional survival** of the new polity depends on
 the Declaration's legitimacy as the founding act and on the war
 securing what it declared.
+
+**Scholar scope:** For this **constitutive** commitment, reversal
+(defection) is encoded as betrayal; the option was at the moment of
+signing (sign or not sign). ENTRY 0010/0011 (CIV–SCHOLAR–AMERICA) apply
+to **operational** commitments, where accommodation/reversal can be a
+briefed, legitimate option.
+
+The republican principle Adams held while on the committee—**government
+of laws, not of men**—appears in his *Thoughts on Government* (1776)
+and later in the Massachusetts Constitution (1780), which he drafted:
+
+SOURCE — Adams, Massachusetts Constitution, Part I, Art. XXX (ARC-T-EARLY-MOD):
+> "In the government of this Commonwealth, the legislative department shall never exercise the executive and judicial powers, or either of them: The executive shall never exercise the legislative and judicial powers, or either of them: The judicial shall never exercise the legislative and executive powers, or either of them: to the end it may be a government of laws and not of men."
+> — Massachusetts Constitution, Part the First, Art. XXX (1780), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 259 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Contradictions are preserved without synthesis.
 
@@ -147,5 +161,5 @@ VIII. MEM BIBLIOGRAPHY
 • MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — Adopting body.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — v1.1
+END OF FILE — MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — v1.4
 ────────────────────────────────────────────────────────────

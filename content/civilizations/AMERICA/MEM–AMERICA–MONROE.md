@@ -1,16 +1,16 @@
-MEM–AMERICA–MONROE — v1.1
+MEM–AMERICA–MONROE — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Jefferson verbatim primary (empire for liberty)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Scholar perimeter/option-set note (ENTRY 0012)
 Civilization: AMERICA
 Subject: James Monroe
 Dates: 1758–1831 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
-Word Count: ~2,000
+Last Update: February 2026
+Word Count: ~2,050
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -48,6 +48,11 @@ Core claims:
 Power is signaled before it is possessed.
 
 This mirrors Anglian practice of early declaration backed by future capacity.
+The MEM encodes the **declarative perimeter**; it does not model the
+option set that would include "relax enforcement" or "negotiate exit."
+ENTRY 0012 (CIV–SCHOLAR–AMERICA) treats Suez as perimeter reversal
+(forced loss survivable) and recommends including a reversal option for
+future perimeter decisions.
 
 INSERT POINT 1 — McGrath verbatim (doctrine in context / Monroe underappreciated):
 Suggested theme: Monroe as underappreciated; or the Doctrine as strategic signal before capacity. Add SOURCE block when quote selected from McGrath, *James Monroe: A Life* (New York: Dutton, 2020) (ARC-T-MODERN) [ERC-SECONDARY]. Page ref from print copy.

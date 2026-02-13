@@ -1,16 +1,16 @@
-MEM–AMERICA–ADAMS–QUINCY — v1.1
+MEM–AMERICA–ADAMS–QUINCY — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Arthur M. Schlesinger Jr. verbatim (The Age of Jackson)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · John Adams verbatim (Thoughts — empire of laws, father's grammar)
 Civilization: AMERICA
 Subject: John Quincy Adams
 Dates: 1767–1848 AD
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~1,700
+Word Count: ~1,750
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -23,7 +23,12 @@ to Congress to oppose slavery within procedure rather than outside it.
 
 Quincy Adams does not found the republic.
 He **extends and then defends** its procedural logic across doctrine,
-diplomacy, and legislative dissent.
+diplomacy, and legislative dissent. His father's formulation—government
+as **empire of laws, not of men**—underwrites the grammar he applies:
+
+SOURCE — John Adams, *Thoughts on Government* (ARC-T-EARLY-MOD):
+> "There is no good government but what is Republican. The very definition of a Republic, is 'an Empire of Laws, and not of Men.'"
+> — John Adams, *Thoughts on Government* (1776), in *The Works of John Adams*, ed. Charles Francis Adams, vol. 4 (Boston: Little, Brown, 1851), 194 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 Contradictions are preserved without synthesis.
 
@@ -161,5 +166,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ADAMS–QUINCY — v1.1
+END OF FILE — MEM–AMERICA–ADAMS–QUINCY — v1.2
 ────────────────────────────────────────────────────────────

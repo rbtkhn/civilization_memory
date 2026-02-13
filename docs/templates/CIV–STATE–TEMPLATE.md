@@ -1,13 +1,27 @@
-CIV–STATE–TEMPLATE — v3.2
+CIV–STATE–TEMPLATE — v3.3
 Civilizational Memory Codex · State File Template
 
 Status: ACTIVE · CANONICAL
-Version: 3.2
-Supersedes: CIV–STATE–TEMPLATE v1.11
-Upgrade Type: XIV-B HARVEST PROTOCOL — EXCLUSIVE GATE FOR STATE → SCHOLAR
+Version: 3.3
+Supersedes: CIV–STATE–TEMPLATE v3.2
+Upgrade Type: X-B ACCOMMODATION/REVERSAL OPTION — DUTY OF COMPETENCE IN DECISION POINTS
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
-Last Update: 11 February 2026
+Last Update: 12 February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.3) — ACCOMMODATION/REVERSAL OPTION IN DECISION POINTS
+────────────────────────────────────────────────────────────
+When the decision involves a commitment (alliance, arms, presence,
+confrontation), the Decision Points option set (X-B step 8) MUST
+include at least one option at the accommodation/reversal end of the
+spectrum. This prevents commitment-weighted default option sets and
+operationalises Doctrine 03 (exit/retrenchment as strategic option).
+Duty of competence clarification (Section I) and self-check (Section
+X) updated; cursor rule cmc-state-mem-grounding updated.
+
+Source: STATE–AMERICA Taiwan decision-space session (Option 11
+one-China/peace omitted in first pass); user requested hardening.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.12) — HARVEST AS EXCLUSIVE GATE
@@ -389,7 +403,14 @@ ANTI-GOALS (what the exoskeleton must NOT become):
 DUTY OF COMPETENCE (clarification): "Surface all material options"
 means completeness **across all three perspectives** (no perspective
 systematically under-represented), not an exhaustive list of every
-conceivable option. See Section III for the full binding declaration.
+conceivable option. When generating **decision-point options** (X-B),
+the option set must include **at least one option at the
+accommodation/reversal end** of the spectrum when the decision
+involves sustaining vs reversing a commitment (e.g. alliance, arms,
+presence, confrontation); this prevents commitment-weighted default
+option sets and operationalises Doctrine 03. See Section III for the
+full binding declaration; see X-B step 8 for the Decision Points
+procedure.
 
 ────────────────────────────────────────────────────────────
 II. AUDIENCE & REGISTER
@@ -1037,6 +1058,15 @@ PROCEDURE:
      observer recommends)
    • Mutually exclusive or at least meaningfully distinct
    • Typically 3 options covering the decision space
+   • **Accommodation/reversal option (when applicable):** When the
+     decision involves a commitment (alliance support, arms transfer,
+     presence, or confrontation with a rival), the option set MUST
+     include at least one option at the accommodation/reversal end of
+     the spectrum (e.g. reduce or halt the commitment, seek negotiated
+     peace or modus vivendi with the counterpart). This implements the
+     duty of competence and Doctrine 03 (exit/retrenchment as strategic
+     option). Document in one line why it was included (e.g. "Included
+     per duty of competence; Doctrine 03.").
    The user selects an action; the system processes the choice
    by mapping consequences, identifying what the state gains
    and loses, and surfacing the structural-versus-personal
@@ -2001,6 +2031,8 @@ Before finalizing any CIV–STATE file:
 - [ ] Binding constraint identified per option using speed-of-collapse
       and least-controllable criteria?
 - [ ] No material option omitted that any perspective would surface?
+- [ ] When Decision Points options involve a commitment: at least one
+      accommodation/reversal option included (per X-B step 8; Doctrine 03)?
 - [ ] Key assumptions stated for every option (≥3 per option)?
 - [ ] Linchpin assumptions identified?
 - [ ] Discriminating evidence documented for every option?

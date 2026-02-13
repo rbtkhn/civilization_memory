@@ -90,6 +90,10 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 - [ ] Cross-entity sources declared with ARC origin and editorial note visible?
 - [ ] Source contradictions surfaced with both claims and attribution (not silently resolved)?
 - [ ] Doctrine Hard Constraints checked when running Pattern Audit or Sync?
+- [ ] Decision Points (X-B): when presenting action options for a decision
+      that involves a commitment (alliance, arms, presence, confrontation),
+      at least one accommodation/reversal option included and documented
+      (CIV–STATE–TEMPLATE X-B step 8; duty of competence; Doctrine 03)?
 
 ## Fallback
 
