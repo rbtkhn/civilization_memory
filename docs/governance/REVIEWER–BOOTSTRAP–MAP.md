@@ -2,7 +2,7 @@ REVIEWER–BOOTSTRAP–MAP
 Civilizational Memory Codex · Fast Orientation Map
 
 Status: ACTIVE
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Last Updated: 2026-02-13
 
 Purpose:

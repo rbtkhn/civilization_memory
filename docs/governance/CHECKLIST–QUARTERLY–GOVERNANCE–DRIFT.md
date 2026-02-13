@@ -2,7 +2,7 @@ CHECKLIST–QUARTERLY–GOVERNANCE–DRIFT
 Civilizational Memory Codex · Recurring Drift Audit
 
 Status: ACTIVE
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Last Updated: 2026-02-13
 
 Run quarterly or before major governance releases.

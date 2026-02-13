@@ -2,7 +2,7 @@ LEGACY–HEADER–COMPATIBILITY
 Civilizational Memory Codex · Legacy Normalization Rubric
 
 Status: ACTIVE
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Last Updated: 2026-02-13
 
 Purpose:
@@ -12,7 +12,7 @@ Decoupling and which patterns should be normalized during maintenance.
 ────────────────────────────────────────────────────────────
 I. PRINCIPLE
 ────────────────────────────────────────────────────────────
-CMC 3.2 permits legacy headers in existing content files. New files should use
+CMC 3.3 permits legacy headers in existing content files. New files should use
 simplified headers. Legacy presence is compatibility status, not automatic
 non-compliance.
 

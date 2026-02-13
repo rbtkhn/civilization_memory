@@ -1,11 +1,11 @@
-CIV–MEM–TEMPLATE — v3.2
+CIV–MEM–TEMPLATE — v3.3
 Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.2
+Version: 3.3
 Supersedes: CIV–MEM–TEMPLATE v3.0
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Last Update: February 2026
 WORDCOUNT: ~7,500
@@ -54,7 +54,7 @@ ENFORCEMENT:
 
 Reference Implementation: MEM–GERMANIA–WAR–NAPOLEON v2.1
 
-See: CIV–MEM–CORE v3.2, Sections XXIV-XXVII
+See: CIV–MEM–CORE v3.3, Sections XXIV-XXVII
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — CONTENT PROPORTION RULE · GEO–MEM REQUIREMENTS
@@ -73,7 +73,7 @@ GEO–MEM SPECIFIC REQUIREMENTS (NEW):
 • Strategic analysis fulfills the 2/3 Mearsheimer requirement
 • Cognitive layer declaration required
 
-See: CIV–MEM–CORE v3.2, Section VP-1.g (content proportion rule)
+See: CIV–MEM–CORE v3.3, Section VP-1.g (content proportion rule)
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
@@ -824,7 +824,7 @@ GEO–MEM files MUST contain:
 
 1. GEO–MEM COGNITIVE DECLARATION
    - Declares Mearsheimer strategic cognition
-   - References CIV–MEM–CORE v3.2 content proportion rule
+   - References CIV–MEM–CORE v3.3 content proportion rule
 
 2. STRATEGIC ANALYSIS SECTIONS (≥6)
    - Terrain geometry
@@ -1190,7 +1190,7 @@ Apply to: MEMs anchoring major analytical claims
 PURPOSE: Identify key assumptions underlying MEM analysis.
 
 Note: Assumptions Box is REQUIRED for SYNTHESIS entries
-(per CIV–MEM–CORE v3.2 Section XXVI). For MEMs, it is optional
+(per CIV–MEM–CORE v3.3 Section XXVI). For MEMs, it is optional
 but recommended for those making significant analytical claims.
 
 SECTION: ASSUMPTIONS BOX (LAYER 3)
@@ -1418,5 +1418,5 @@ They may NOT:
 • Break backward compatibility with existing MEMs
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–TEMPLATE (CMC 3.2)
+END OF FILE — CIV–MEM–TEMPLATE (CMC 3.3)
 ────────────────────────────────────────────────────────────

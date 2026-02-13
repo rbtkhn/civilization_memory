@@ -2,7 +2,7 @@ CONCEPT–INDEX
 Civilizational Memory Codex · Semantic Discovery Layer
 Analytical Concept Taxonomy and MEM Mappings
 
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Status: ACTIVE · CANONICAL
 Last Updated: February 2026
 
@@ -217,7 +217,7 @@ CONCEPT REVIEW:
 • Definitions may be refined based on usage
 
 ────────────────────────────────────────────────────────────
-VIII. MIND AFFINITIES (CMC 3.2)
+VIII. MIND AFFINITIES (CMC 3.3)
 ────────────────────────────────────────────────────────────
 Concepts have affinity with MINDs per PROTOCOL–MIND–NAVIGATION.
 
@@ -248,5 +248,5 @@ When concepts span frames, both MINDs may surface them; emphasis differs.
 Reference: PROTOCOL–MIND–NAVIGATION Section IV
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CONCEPT–INDEX (CMC 3.2)
+END OF FILE — CONCEPT–INDEX (CMC 3.3)
 ────────────────────────────────────────────────────────────

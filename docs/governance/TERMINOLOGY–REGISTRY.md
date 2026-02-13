@@ -1,7 +1,7 @@
 TERMINOLOGY–REGISTRY
 Civilizational Memory Codex · Governance Document
 
-Governed by: CMC 3.2
+Governed by: CMC 3.3
 Status: ACTIVE · CANONICAL
 Created: February 2026
 Last Updated: 11 February 2026
@@ -166,5 +166,5 @@ Decorative: 10 (9 clear + 1 borderline)
 New-term gate: Established
 
 ────────────────────────────────────────────────────────────
-END — TERMINOLOGY–REGISTRY (CMC 3.2)
+END — TERMINOLOGY–REGISTRY (CMC 3.3)
 ────────────────────────────────────────────────────────────
