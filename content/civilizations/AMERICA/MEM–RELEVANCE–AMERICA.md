@@ -554,6 +554,8 @@ Secondary MEMs:
 • MEM–AMERICA–GEO–GREAT–PLAINS — Interior expansion
 • MEM–AMERICA–GEO–OHIO–RIVER — Western expansion corridor
 • MEM–AMERICA–GEO–COLORADO–RIVER — US Southwest; allocation regime; US–Mexico boundary water
+• MEM–AMERICA–GOLD–RUSH — California 1848–1850s; largest migration; demand basin for Colorado and rail
+• MEM–AMERICA–TRANSCONTINENTAL–RAILROAD — First transcontinental 1869; infrastructure binding West to East
 
 ────────────────────────────────────────────────────────────
 IX. LEADERSHIP LIABILITY / MECHANISM EXPOSURE
@@ -612,6 +614,54 @@ Secondary MEMs:
 • MEM–AMERICA–ROOSEVELT–FRANKLIN — Crisis stewardship; four terms;
   New Deal and war; executive scale under emergency
 • MEM–ANGLIA–CHURCHILL — Coalition leadership and narrative
+
+────────────────────────────────────────────────────────────
+IX-B. CAPITAL CONCENTRATION / GILDED AGE / PROCEDURAL RESPONSE
+────────────────────────────────────────────────────────────
+Relevant when: Private authority vs. state procedure; concentration
+before regulation; legitimacy of capital; trust-busting, Fed, ICC.
+
+Primary MEMs:
+• MEM–AMERICA–GILDED–AGE — Period 1865–1900; capitalist revolution;
+  tycoons and resistance; procedure follows concentration
+  [concepts: legitimacy_of_capital, concentration_then_constraint]
+• MEM–AMERICA–VANDERBILT — Transport tycoon; pre-regulatory rail
+• MEM–AMERICA–MORGAN — Finance; 1907; Fed precursor
+• MEM–AMERICA–ROCKEFELLER — Trust and antitrust; Standard Oil breakup
+• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting; Square Deal
+
+Secondary MEMs:
+• MEM–AMERICA–CARNEGIE — Steel; U.S. Steel; Gilded Age peer
+• MEM–AMERICA–TRANSCONTINENTAL–RAILROAD — Federal enablement of private infrastructure; rail precedent
+• MEM–AMERICA–GREAT–DEPRESSION — Contrast: no single private rescuer; New Deal as procedural response
+
+────────────────────────────────────────────────────────────
+IX-C. HEIRS / SECOND GENERATION / SECTIONAL CONFLICT
+────────────────────────────────────────────────────────────
+Relevant when: Second generation after founding; Union preservation
+vs state sovereignty; compromise and sectional rivalry; slavery and
+territory; nullification.
+
+Primary MEMs:
+• MEM–AMERICA–CLAY — Compromise architect; Missouri, nullification
+  tariff, 1850; Great Triumvirate; West
+  [concepts: compromise_as_procedure, Union_delay]
+• MEM–AMERICA–CALHOUN — South's defender; nullification; slavery as
+  positive good; state sovereignty
+  [concepts: state_sovereignty, sectional_defence]
+• MEM–AMERICA–WEBSTER — Union's orator; Reply to Hayne; "Liberty and
+  Union"; 1850 compromise
+  [concepts: Union_doctrine, oratory_as_legitimacy]
+• MEM–AMERICA–ADAMS–QUINCY — Second-generation doctrine-draftsman;
+  Congress; anti-slavery within procedure; same era as triumvirate
+
+Secondary MEMs:
+• MEM–AMERICA–JACKSON — Nullification Crisis; Clay's compromise vs
+  Jackson's force; Bank War; era of Clay, Calhoun, Webster
+• MEM–AMERICA–LAW–SLAVERY — Slavery's constitutional place; Calhoun's
+  defence; fugitive law (1850)
+• MEM–AMERICA–WAR–AMERICAN–CIVIL — Outcome the heirs' compromises
+  delayed; rupture when procedure failed
 
 ────────────────────────────────────────────────────────────
 X. OPPONENT CONSTRAINT (HISTORICAL PARALLELS)

@@ -483,6 +483,8 @@ No file may contradict it.
 No interpretation may override it.
 No silence may weaken it.
 
+The Codex's accumulation of civilisational memory is oriented toward eventually informing the enduring philosophical questions of historiography (see REFERENCE–HISTORIOGRAPHICAL–QUESTIONS); it does not resolve them but contributes to the conditions for their continued inquiry.
+
 ────────────────────────────────────────────────────────────
 II. CIVILIZATION — SYSTEM DEFINITION
 ────────────────────────────────────────────────────────────

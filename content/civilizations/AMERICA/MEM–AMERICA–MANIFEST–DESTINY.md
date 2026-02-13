@@ -1,8 +1,8 @@
-MEM–AMERICA–MANIFEST–DESTINY — v1.1
+MEM–AMERICA–MANIFEST–DESTINY — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
+Version: 1.2
 Supersedes: v1.0
 Upgrade Type: ADDITIVE · Scholar scope note (ENTRY 0010, 0011); rename from MEM–AMERICA–REVOLUTION–MANIFEST–DESTINY
 Civilization: AMERICA
@@ -77,6 +77,12 @@ SOURCE — Jefferson, Annual Message to Congress (ARC-T-EARLY-MOD):
 O'Sullivan secularises and sharpens that vision into **destiny**—
 continental scale as providential allotment, not merely policy.
 The legitimacy grammar is continuous; the rhetoric is intensified.
+
+H.W. Brands (*Dreams of El Dorado* [2019]) on the West and the pursuit of opportunity:
+
+SOURCE — Brands, *Dreams of El Dorado* (ARC-T-MODERN):
+> "Three themes characterized the American West in the 19th century: 1. The headlong pursuit of opportunity (the Dreams of El Dorado of the title). 2. Chronic violence (among whites, indigenous peoples, blacks and foreign immigrants in nearly all possible combinations). 3. Irony and paradox (the dreams often blew up in the faces of the dreamers; the individualism of the frontier was made possible by the collective largesse of the American public; the least populated region of the country was also the most urbanized; among other examples)."
+> — H.W. Brands, Q&A re *Dreams of El Dorado: A History of the American West* (New York: Basic Books, 2019), Life and Letters (UT Austin), Oct. 2019 (ARC-T-MODERN) [ERC-SECONDARY]. (Book p. to be verified when corresponding passage located.)
 
 ────────────────────────────────────────────────────────────
 IV. AGENTS AND EXECUTION: JACKSON, POLK, WAR
@@ -179,5 +185,5 @@ Primary / verbatim cited:
   (*The Papers of Thomas Jefferson*, vol. 41) — ARC-T-EARLY-MOD.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MANIFEST–DESTINY — v1.1
+END OF FILE — MEM–AMERICA–MANIFEST–DESTINY — v1.2
 ────────────────────────────────────────────────────────────

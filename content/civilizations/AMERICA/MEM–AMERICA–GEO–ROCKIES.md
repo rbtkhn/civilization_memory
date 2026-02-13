@@ -1,8 +1,8 @@
-MEM–AMERICA–GEO–ROCKIES — v1.0
+MEM–AMERICA–GEO–ROCKIES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: AMERICA
 Subject: Rocky Mountains (Continental Divide, Westward-Expansion Theater, US–British Boundary)
 Dates: c. 1803–present (Anglian strategic relevance)
@@ -52,6 +52,12 @@ Ambrose frames the continental divide as the expedition's critical phase: the po
 > — Stephen Ambrose, *Undaunted Courage* (1996) (ARC-T-MODERN) [ERC-SECONDARY]
 
 The Rockies thus encode **terrain as procedural threshold**: who observes, who records, who projects across the divide.
+
+H.W. Brands (*Dreams of El Dorado* [2019]) on the American West and the pursuit of opportunity:
+
+SOURCE — Brands, *Dreams of El Dorado* (ARC-T-MODERN):
+> "Three themes characterized the American West in the 19th century: 1. The headlong pursuit of opportunity (the Dreams of El Dorado of the title). 2. Chronic violence (among whites, indigenous peoples, blacks and foreign immigrants in nearly all possible combinations). 3. Irony and paradox (the dreams often blew up in the faces of the dreamers; the individualism of the frontier was made possible by the collective largesse of the American public; the least populated region of the country was also the most urbanized; among other examples)."
+> — H.W. Brands, Q&A re *Dreams of El Dorado: A History of the American West* (New York: Basic Books, 2019), Life and Letters (UT Austin), Oct. 2019 (ARC-T-MODERN) [ERC-SECONDARY]. (Book p. to be verified when corresponding passage located.)
 
 ────────────────────────────────────────────────────────────
 III. GEO STRUCTURED DATA (LAYER 2)
@@ -159,9 +165,10 @@ Tension preserved without verdict.
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ambrose, Stephen. *Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West*. New York: Simon & Schuster, 1996. (ARC-T-MODERN) — Continental divide, Lewis & Clark, opening of the West.
-• Brands, H.W. *The Age of Gold: The California Gold Rush and the New American Dream*. New York: Doubleday, 2002. (ARC-T-MODERN) — Westward expansion, migration routes, Rockies as barrier/corridor. (Verbatim expansion to be added.)
+• Brands, H.W. *The Age of Gold: The California Gold Rush and the New American Dream*. New York: Doubleday, 2002. (ARC-T-MODERN) — Westward expansion, migration routes, Rockies as barrier/corridor.
+• Brands, H.W. *Dreams of El Dorado: A History of the American West*. New York: Basic Books, 2019. (ARC-T-MODERN) — American West, three themes (pursuit of opportunity, violence, irony); verbatim from author Q&A, Life and Letters Oct. 2019.
 • CIV–ARC–ANGLIA v1.2 — Author admissibility; Ambrose, Brands in ARC-T-MODERN.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–GEO–ROCKIES — v1.0
+END OF FILE — MEM–AMERICA–GEO–ROCKIES — v1.1
 ────────────────────────────────────────────────────────────

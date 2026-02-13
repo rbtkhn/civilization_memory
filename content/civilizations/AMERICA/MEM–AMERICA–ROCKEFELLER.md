@@ -1,10 +1,10 @@
-MEM–AMERICA–ROCKEFELLER — v1.1
+MEM–AMERICA–ROCKEFELLER — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Chernow verbatim (Titan)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · Brands *American Colossus* verbatim
 Civilization: AMERICA
 Subject: John D. Rockefeller Sr.
 Dates: 1839–1937 AD
@@ -59,6 +59,12 @@ on public tolerance before antitrust:
 SOURCE — Chernow, *Titan* (ARC-T-MODERN):
 > "The public tolerated the trust's brawny tactics for a long time because it believed that it had, over the long run, cheapened kerosene and exercised a relatively benevolent dictatorship."
 > — Ron Chernow, *Titan: The Life of John D. Rockefeller, Sr.* (New York: Random House, 1998) (ARC-T-MODERN) [ERC-SECONDARY].
+
+H.W. Brands (*American Colossus* [2010]) on the tycoons and the capitalist revolution:
+
+SOURCE — Brands, *American Colossus* (ARC-T-MODERN):
+> "The capitalist revolution spun off personal fortunes for John D. Rockefeller, the titan of oil; Andrew Carnegie, the sultan of steel; J. P. Morgan, the master of money; and a hundred lesser winners in the capitalist struggle for profit and dominance. It drew millions of immigrants from Europe and Asia, men and women who dreamed of achieving not the enormous wealth of Rockefeller and Carnegie but merely a modest piece of America's prosperity for themselves and their children."
+> — H.W. Brands, *American Colossus: The Triumph of Capitalism, 1865–1900* (New York: Doubleday, 2010) (ARC-T-MODERN) [ERC-SECONDARY]. (Author excerpt at Not Even Past; print p. to be verified.)
 
 Elements:
 • Standard Oil as dominant refiner; trust structure; state and
@@ -134,5 +140,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ROCKEFELLER — v1.1
+END OF FILE — MEM–AMERICA–ROCKEFELLER — v1.2
 ────────────────────────────────────────────────────────────

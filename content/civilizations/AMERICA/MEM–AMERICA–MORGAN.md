@@ -1,8 +1,8 @@
-MEM–AMERICA–MORGAN — v1.2
+MEM–AMERICA–MORGAN — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
 Supersedes: v1.2
 Upgrade Type: ADDITIVE · Mark Twain verbatim primary (The Gilded Age)
 Civilization: AMERICA
@@ -73,6 +73,12 @@ Elements:
 
 The tycoon who **builds** (U.S. Steel) is the same who **is
 broken** (Northern Securities); procedure absorbs and corrects.
+
+H.W. Brands (*American Colossus* [2010]) on finance and the Gilded Age:
+
+SOURCE — Brands, *American Colossus* (ARC-T-MODERN):
+> "Capitalism emerged later, during what Mark Twain derisively called the Gilded Age. But it burst forth with an energy and thoroughness that made the final third of the nineteenth century the era of America's capitalist revolution. The revolution transformed American finance, turning Wall Street into the hub of investment and speculation and New York the budding capital of world finance."
+> — H.W. Brands, *American Colossus: The Triumph of Capitalism, 1865–1900* (New York: Doubleday, 2010) (ARC-T-MODERN) [ERC-SECONDARY]. (Author excerpt at Not Even Past; print p. to be verified.)
 
 ────────────────────────────────────────────────────────────
 IV. PANIC OF 1907 & LENDER OF LAST RESORT
@@ -161,5 +167,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MORGAN — v1.3
+END OF FILE — MEM–AMERICA–MORGAN — v1.4
 ────────────────────────────────────────────────────────────

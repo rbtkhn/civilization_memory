@@ -1,8 +1,8 @@
-MEM–AMERICA–VANDERBILT — v1.0
+MEM–AMERICA–VANDERBILT — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: AMERICA
 Subject: Cornelius Vanderbilt (and dynasty)
 Dates: 1794–1877 AD
@@ -62,6 +62,14 @@ defined trust or monopoly; Vanderbilt encodes the **pre-regulatory**
 tycoon—success then provokes procedural response (ICC, antitrust)
 in later decades.
 
+H.W. Brands (*American Colossus* [2010]) frames the capitalist
+revolution as reshaping economy and geography—transport and rail
+at the centre (ARC-T-MODERN).
+
+SOURCE — Brands, *American Colossus* (ARC-T-MODERN):
+> "The capitalist revolution reshaped the larger economy, converting America from a nation of farmers into a country of urban workers, managers and professionals. It recast American geography, pulling the recently feudal South into the web of capitalist commerce and exploiting the natural resources of the West."
+> — H.W. Brands, *American Colossus: The Triumph of Capitalism, 1865–1900* (New York: Doubleday, 2010) (ARC-T-MODERN) [ERC-SECONDARY]. (Author excerpt at Not Even Past; print p. to be verified.)
+
 ────────────────────────────────────────────────────────────
 IV. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────
@@ -115,5 +123,5 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–VANDERBILT — v1.0
+END OF FILE — MEM–AMERICA–VANDERBILT — v1.1
 ────────────────────────────────────────────────────────────
