@@ -1,4 +1,4 @@
-CIV–SCHOLAR–AMERICA — v1.0
+CIV–SCHOLAR–AMERICA — v1.2
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -12,7 +12,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v3.2
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10+
 Governed by: CIV–SCHOLAR–PROTOCOL v3.0
 ARC Reference: CIV–ARC–ANGLIA (constitutive for pre-America Anglian); CIV–ARC–AMERICA v2.0 (derived from ARC–ANGLIA; MEM–AMERICA and institutional sources)
-Last Update: February 2026
+Last Update: February 2026 (v1.2: ENTRY 0009, SYNTHESIS 0005, Doctrine 07 + legitimacy density)
 
 Word Count: ~3,200
 
@@ -313,6 +313,47 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
+ENTRY 0008
+Source:
+• SCHOLAR–AMERICA LEARN session — Kissinger cluster, legitimacy density,
+  Fort Sumter–Appomattox (February 2026); MEM–AMERICA–KISSINGER, MEM–
+  AMERICA–NIXON, MEM–AMERICA–EISENHOWER, MEM–AMERICA–WASHINGTON, MEM–
+  AMERICA–JACKSON, MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER, MEM–
+  AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX
+Ingest Type:
+• America-specific — Pattern: legitimacy density
+Primary Belief Extracted:
+• Legitimacy density = where legitimacy is concentrated (institution,
+  person, doctrine, outcome) and how thick that claim is. Washington:
+  procedure and voluntary surrender. Jackson: person and popular will.
+  Nixon–Kissinger: order and outcome (summits, détente, Paris). Low
+  points: 1861–1865 (contested sovereignty); 1973–1974 (executive
+  collapse, procedure held). Fort Sumter = point of no return for
+  contested legitimacy; Appomattox = procedural termination and
+  reallocation (reintegration, "countrymen again").
+Belief Status:
+• UNFROZEN
+
+ENTRY 0009
+Source:
+• SCHOLAR–AMERICA LEARN session — CIV–DOCTRINE–AMERICA read; Doctrine 07
+  (myth as stabilizer) and legitimacy density; Gettysburg, Second
+  Inaugural, Appomattox, post-Vietnam (February 2026); CIV–DOCTRINE–
+  AMERICA; MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG, MEM–AMERICA–
+  WAR–AMERICAN–CIVIL–APPOMATTOX, MEM–AMERICA–LINCOLN
+Ingest Type:
+• America-specific — Doctrine 07 and legitimacy density
+Primary Belief Extracted:
+• Doctrine 07 (myth as stabilizer, not engine) operates in two modes:
+  myth during crisis (Gettysburg 1863—outcome in doubt) and myth after
+  outcome failure (post-Vietnam). At termination, Second Inaugural
+  ("malice toward none") and Grant's Appomattox terms align—myth sets
+  frame, procedure executes. Hard constraint: myth collapses if
+  contradicted by procedure. Legitimacy density (outcome-based) and 07:
+  when outcome fails, myth stabilises rearguard only if procedure held.
+Belief Status:
+• UNFROZEN
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -407,6 +448,116 @@ SYNTHESIS 0003 (candidate — from LEARN session doctrine violations)
   surprising results; Yorktown, Canada, Option C; options A, D, E,
   H). Do not treat as doctrine unless explicitly frozen per Template.
 
+SYNTHESIS 0004 (candidate — from LEARN session legitimacy density)
+  Outcome: Legitimacy density (where legitimacy is concentrated and how
+  thick the claim is) varies across American eras. Washington: dense in
+  procedure and voluntary surrender (Annapolis, term limits). Jackson:
+  dense in person and popular will (electoral mandate, veto, spoils).
+  Civil War: nadir at order level—contested sovereignty; Fort Sumter
+  fixes the split; Appomattox reallocates via procedural termination
+  (Grant's terms, reintegration, "countrymen again"). Nixon–Kissinger:
+  dense in order and outcome (summits, détente, Paris); outcome-
+  dependent, more contestable when outcomes fail (e.g. Saigon 1975).
+  1973–1974: nadir at executive level; procedure holds (resignation,
+  succession). Low legitimacy density is structurally dangerous when
+  the state cannot credibly commit resources or when "who is the
+  state" is contested (civil war vs contained rupture).
+  Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
+  Confidence: TIER 2 (70–90% — pattern supported by MEM–AMERICA–
+  WASHINGTON, MEM–AMERICA–JACKSON, MEM–AMERICA–KISSINGER, MEM–
+  AMERICA–NIXON, MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER, MEM–
+  AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX; 19th-century stress-test
+  applied Feb 2026 — loci hold, cases often composite)
+
+  ASSUMPTIONS BOX:
+  • Assumption 1: The four loci (procedure, person, doctrine, outcome)
+    are sufficiently distinct to track variation across eras — if
+    falsified (e.g. always composite), the synthesis overstates
+    clarity. Linchpin: Medium.
+  • Assumption 2: Outcome-based legitimacy is more contestable when
+    outcomes fail than procedure- or person-based — if falsified
+    (e.g. procedure equally fragile), the synthesis overstates the
+    contrast. Linchpin: Medium.
+  • Assumption 3: 1861–1865 and 1973–1974 are valid comparators for
+    "low" legitimacy density (order-level vs executive-level) — if
+    falsified (e.g. other nadirs dominate), the synthesis is
+    period-specific. Linchpin: Low.
+
+  Source: SCHOLAR–AMERICA LEARN session (Kissinger cluster; options
+  A, B, D, E, F, H; Mearsheimer primary then multi-mind; legitimacy
+  density unpacked; low points; Fort Sumter; Appomattox). Do not
+  treat as doctrine unless explicitly frozen per Template.
+
+  19th-century stress-test (February 2026): SYNTHESIS 0004 tested
+  against MEM–AMERICA–MONROE, MEM–AMERICA–WAR–1812, MEM–AMERICA–
+  WAR–MEXICAN–AMERICAN, MEM–AMERICA–LINCOLN, MEM–AMERICA–GRANT.
+  Result: four loci hold; cases often composite (two loci at once).
+  Monroe: doctrine + procedure. War of 1812: procedure (outcome
+  stalemate—procedure carries when outcome neutral). Mexican–
+  American: procedure channels outcome (conquest absorbed by
+  treaty). Lincoln: person + procedure. Grant: outcome + procedure
+  (Appomattox). Refinement: procedure can carry density when
+  outcome is neutral; empirical cases often hybrid.
+
+  Proposed RLL (Phase I — NOT BINDING): RLL–AMERICA–0001 (Legitimacy
+  Density Variation) — American legitimacy claims vary in locus
+  (procedure, person, doctrine, outcome); outcome-based density is
+  more vulnerable to outcome failure. Binding only if Phase II
+  adopted and synthesis frozen.
+
+CONCEPT REGISTRY (non-binding):
+• legitimacy density — Analytical concept: the concentration and
+  thickness of legitimacy claims; where they sit (institution, person,
+  doctrine, outcome) and how robust to failure. See SYNTHESIS 0004,
+  ENTRY 0008. Use for cross-era comparison (Washington, Jackson, Civil
+  War, Nixon–Kissinger).
+• Doctrine 07 (myth) and legitimacy density — Myth as stabilizer
+  operates during crisis (Gettysburg) or after outcome failure
+  (post-Vietnam); at termination myth and procedure can align (Second
+  Inaugural + Appomattox). Myth collapses if procedure contradicts.
+  See SYNTHESIS 0005, ENTRY 0009.
+
+SYNTHESIS 0005 (candidate — from LEARN session Doctrine 07 and legitimacy density)
+  Outcome: CIV–DOCTRINE–AMERICA Doctrine 07 (myth as stabilizer, not
+  engine) interacts with legitimacy density in two distinct modes.
+  (1) Myth during crisis: at Gettysburg (Nov 1863) Lincoln's Address
+  stabilises morale and legitimacy while outcome is still in doubt;
+  myth binds sacrifice to "government of the people" without creating
+  victory. (2) Myth after outcome failure: when legitimacy is
+  outcome-based (e.g. Nixon–Kissinger "peace with honor") and the
+  outcome fails (Saigon 1975), myth operates as rearguard—narratives
+  stabilise only if procedure (succession, Congress) already held.
+  (3) Myth and procedure aligned at termination: Second Inaugural
+  ("malice toward none," "bind up the nation's wounds") sets the
+  frame; Grant's Appomattox terms execute it (parole, no imprisonment,
+  "countrymen again"). Mutual validation: myth authorises procedure;
+  procedure validates myth. Hard constraint (Doctrine 07): myth
+  collapses if contradicted by procedure.
+  Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
+  Confidence: TIER 2 (70–90% — pattern supported by CIV–DOCTRINE–
+  AMERICA 07; MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG, MEM–
+  AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX, MEM–AMERICA–LINCOLN; not
+  yet independently stress-tested)
+
+  ASSUMPTIONS BOX:
+  • Assumption 1: The two modes (myth during crisis vs after outcome
+    failure) are sufficiently distinct to guide application — if
+    falsified (e.g. always same function), the synthesis overstates
+    the contrast. Linchpin: Medium.
+  • Assumption 2: Alignment at Appomattox (Second Inaugural + Grant's
+    terms) is generalizable as template for myth–procedure coherence
+    at war termination — if falsified (e.g. unique to Civil War),
+    the synthesis is period-specific. Linchpin: Low.
+  • Assumption 3: Doctrine 07's hard constraint (myth collapses if
+    procedure contradicts) holds across cases — if falsified (e.g.
+    myth sometimes survives procedure rupture), the synthesis
+    overstates the constraint. Linchpin: Medium.
+
+  Source: SCHOLAR–AMERICA LEARN session (CIV–DOCTRINE–AMERICA read;
+  options A, D, E, F, H; legitimacy density and 01/03; Doctrine 07
+  and outcome-based density; Gettysburg, Appomattox, Second Inaugural).
+  Do not treat as doctrine unless explicitly frozen per Template.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY (AMERICA-SPECIFIC)
 ────────────────────────────────────────────────────────────
@@ -444,9 +595,9 @@ XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE
 Doctrine Count (America-specific): 7 in CIV–DOCTRINE–AMERICA (derived from CIV–DOCTRINE–ANGLIA)
-Total Entries: 7
-Total Syntheses: 3 (candidate — SYNTHESIS 0001 Mississippi mouth control; SYNTHESIS 0002 Kennedy/legitimacy of coercion; SYNTHESIS 0003 violation → corrective reassertion)
-Next Entry ID: 0008
+Total Entries: 9
+Total Syntheses: 5 (candidate — SYNTHESIS 0001 Mississippi mouth control; SYNTHESIS 0002 Kennedy/legitimacy of coercion; SYNTHESIS 0003 violation → corrective reassertion; SYNTHESIS 0004 legitimacy density; SYNTHESIS 0005 Doctrine 07 and legitimacy density)
+Next Entry ID: 0010
 Ingestion source: MEM–ANGLIA–* (constitutive); MEM–AMERICA–* (when present)
 
 ────────────────────────────────────────────────────────────
@@ -468,10 +619,26 @@ INDEPENDENCE, MONROE, YORKTOWN). No America-specific doctrines.
 STATE–AMERICA and MEM–RELEVANCE–AMERICA updated to reference
 CIV–SCHOLAR–AMERICA.
 
+v1.1 (February 2026): ENTRY 0008 (LEARN session Kissinger cluster,
+legitimacy density, Fort Sumter–Appomattox). SYNTHESIS 0004
+(candidate): legitimacy density across eras (Washington, Jackson,
+Civil War, Nixon–Kissinger); low points; procedural termination.
+Proposed RLL–AMERICA–0001 (Phase I, not binding). CONCEPT REGISTRY
+(non-binding): legitimacy density.
+
+v1.2 (February 2026): ENTRY 0009 (LEARN session CIV–DOCTRINE–AMERICA
+read; Doctrine 07 and legitimacy density; Gettysburg, Appomattox,
+Second Inaugural, post-Vietnam). SYNTHESIS 0005 (candidate): Doctrine
+07 (myth as stabilizer) in two modes—myth during crisis (Gettysburg)
+and myth after outcome failure (post-Vietnam); alignment at
+termination (Second Inaugural + Appomattox terms); hard constraint
+when procedure contradicts myth. CONCEPT REGISTRY: Doctrine 07 and
+legitimacy density.
+
 Future versions may: Add entries; add syntheses; freeze doctrines.
 Future versions may NOT: Remove content; reorder sections; retroactively
 edit beliefs; weaken the America-as-Anglian-derivative principle.
 
 ────────────────────────────────────────────────────────────
-END — CIV–SCHOLAR–AMERICA v1.0
+END — CIV–SCHOLAR–AMERICA v1.2
 ────────────────────────────────────────────────────────────

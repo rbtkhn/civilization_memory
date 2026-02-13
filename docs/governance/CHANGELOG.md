@@ -4,8 +4,75 @@ Consolidated Version History
 
 Status: ACTIVE · CANONICAL
 Governed by: CMC 3.2
-Last Updated: 2026-02-11
+Last Updated: 2026-02-12
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00006. MEARSHEIMER COGNITIVE-LINGUISTIC AUDIT (12 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-12
+Type: GOVERNANCE (MIND / CURSOR RULE / AUDIT)
+
+CHANGES:
+• RUN–REPORT–AUDIT–MEARSHEIMER–COGNITIVE–LINGUISTIC–2026-02-12 created (audit of
+  Mearsheimer × Daniel Davis Deep Dive, February 2026 — Netanyahu meeting, Iran,
+  Ukraine, Kallas/Bremmer, Keane).
+• cmc-mearsheimer-voice.mdc: transcript-derived markers added (interview response
+  openers: "Well, just a couple points. One,... The second point I'd make...",
+  "Look, this is very simple," "that's my bottom line on this," "the $64,000
+  question"; transitions "switching gears," "Your point's right on the money";
+  demand for mechanism "Please explain to me how this is going to be done,"
+  "plausible story," "you never get any"; dismissal "This is nonsense," "detached
+  from reality," "blowing smoke," "pipe dream," "Is this guy serious?"; narrative
+  lock-in "nobody wants to be the first mover," "he'd be fired," public vs
+  private; moderate hedging "My sense is," "it is hard for me to see how"; version
+  reference v3.3).
+• CIV–MIND–MEARSHEIMER v3.2 → v3.3: UPGRADE NOTE for 12 Feb 2026 transcript; new
+  markers in V.A (interview openers), V.C (topic shift), V.D (hedging), V.I
+  (bottom line), V.K (dismissal/reality-detachment), V.N (I would note, by the
+  way); new V.O (Demand for mechanism / plausible story), V.P (Narrative lock-in
+  / public vs private).
+• Source Material updated to include Davis Deep Dive February 2026.
+
+ORIGIN:
+User-requested cognitive-linguistic authenticity audit of MIND–MEARSHEIMER using
+Daniel Davis Deep Dive transcript (Feb 2026); user requested application of
+recommended changes.
+
+────────────────────────────────────────────────────────────
+00005. MERCOURIS COGNITIVE-LINGUISTIC AUDIT (12 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-12
+Type: GOVERNANCE (MIND / CURSOR RULE / AUDIT)
+
+CHANGES:
+• RUN–REPORT–AUDIT–MERCOURIS–COGNITIVE–LINGUISTIC–2026-02-12 created (audit of
+  Mercouris program transcript 12 Feb 2026 — Middle East/Iran, Ukraine, Lavrov,
+  Epstein/Bondi, oil/Hormuz, F-35/gallium).
+• cmc-mercouris-voice.mdc: transcript-derived markers added (program opener;
+  "Just saying," "For the record," "I have to say," "My key point is, however";
+  epistemic variants "I believe—I may be wrong—but I believe that...", "To my
+  mind," "I get the impression," "I would have thought that...", "to me that
+  sounds..."; recursive/returning "To repeat again," "I go back to...", "What I do
+  want to turn attention to is..."; deferral "that's another story. I'm not going
+  to get into..."; hedged assessment "I find [X] completely incredible"; attribution
+  "[claim]—which does not come from this source, by the way"; self-correction
+  "[X]—no, wait, [Y]; I meant..."; non-closure "We have to be careful when
+  discussing all of this," "we can't be sure that we aren't seeing..."; self-check
+  IMAGINE bullet; reference to audit).
+• CIV–MIND–MERCOURIS v3.2 → v3.3: UPGRADE NOTE for 12 Feb 2026 transcript; new
+  markers added to III.A (program opener, returning pivots, self-correction,
+  "that's another story"), III.B (epistemic hedging, hedged assessment), III.C
+  (source qualification, "My key point is, however," scope/epistemic caution),
+  III.L (IMAGINE current-events program style: date/topic + difficulty and/or
+  attribution; scope limits and source qualification central).
+• cmc-mercouris-voice.mdc: version reference updated to CIV–MIND–MERCOURIS v3.3;
+  current-events program sub-note added under mode-specific voice.
+
+ORIGIN:
+User-requested cognitive-linguistic authenticity audit of MIND–MERCOURIS using
+12 Feb 2026 program transcript; user approved all follow-on recommendations
+(sync MIND profile, CHANGELOG, rule version, current-events sub-note).
 
 ────────────────────────────────────────────────────────────
 00004. GOVERNANCE AND TEMPLATE VERSION ALIGNMENT TO v3.2
