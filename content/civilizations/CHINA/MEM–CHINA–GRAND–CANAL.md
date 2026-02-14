@@ -1,6 +1,6 @@
 MEM–CHINA–GRAND–CANAL
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Grand Canal (大运河) — Yellow–Yangtze corridor, bulk logistics, conquest-as-connectivity
 Dates: Antiquity–Present (Yuan extension and military use c. 1260s–1270s)
@@ -105,6 +105,12 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 — Weatherford on land vs water; Grand Canal extension; Yuan naval and canal policy. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+V-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「大运河」「京杭大运河」— 大运河连通黄河与长江，元世祖延修至大都，漕运南粮北运。Standard authoritative Chinese-language reference for Grand Canal and Yuan extension; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–WAR–SONG–YUAN — Dependency: Canal extension for siege/logistics; naval–riverine pivot. Breaks if removed: no campaign framing.
@@ -114,6 +120,7 @@ VI. MEM CONNECTIONS
 • MEM–CHINA–SILK–ROAD — Dependency: River and canal links for bulk; corridor pair. Breaks if removed: loss of corridor contrast.
 • MEM–CHINA–DYNASTY–SONG — Dependency: Song commercial/maritime context; Canal as pre-Yuan asset. Breaks if removed: no defender context.
 • MEM–CHINA–BEIJING — Dependency: Canal extension to Dadu/Beijing (Yuan). Breaks if removed: no northern terminus.
+• MEM–CHINA–GEO–PEARL–RIVER — PARALLELS: River cluster (ENTRY 0015); Canal links Yellow–Yangtze bulk corridor; Pearl southern delta cession–return (no canal link). Breaks if removed: loss of river-cluster framing.
 
 Scholar: DOCTRINE v0.3; SYNTHESIS 0002, 0010.
 
@@ -121,9 +128,9 @@ Scholar: DOCTRINE v0.3; SYNTHESIS 0002, 0010.
 VII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Yuan administrative records; canal and grain transport documentation.
-Secondary: Jack Weatherford — Genghis Khan and the Making of the Modern World; Cambridge History of China.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「大运河」「京杭大运河」；Encyclopedia of China (ARC–CHINA–T–MODERN); Jack Weatherford — Genghis Khan and the Making of the Modern World; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GRAND–CANAL v3.0
+END OF FILE — MEM–CHINA–GRAND–CANAL v3.1
 ────────────────────────────────────────────────────────────

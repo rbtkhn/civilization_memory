@@ -1,6 +1,6 @@
 MEM–CHINA–GEO–AMUR–RIVER
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Amur River (黑龙江) — Sino-Russian frontier, outer Manchuria cession
 Dates: Antiquity–Present (Qing frontier; Treaty of Aigun 1858; Convention of Beijing 1860; contemporary border)
@@ -80,7 +80,8 @@ So pre-1500 the Amur encodes **frontier logic**—successive polities
 not as a **line of loss** to an external power. Contrast with post-1689
 (Nerchinsk first border) and post-1858 (Aigun, Beijing—cession). Same
 geography, different encoding: frontier vs border; periphery vs
-cession.
+cession. This **tributary–rival dual encoding** (same polity as both
+recognized and contestant) is required per RLL–CHINA–0002.
 
 ────────────────────────────────────────────────────────────
 III. AMUR AS FRONTIER AND QING MANCHURIA
@@ -119,7 +120,16 @@ MEM–CHINA–MANCHURIA is **diminished** by the cession—outer
 Manchuria lost. MEM–CHINA–HONG–KONG (cession to Britain) is the
 **southern counterpart**; MEM–CHINA–GEO–AMUR–RIVER is the **northern
 cession geography**. The PRC has not recovered outer Manchuria; the
-Amur remains the border.
+Amur remains the border. RLL–CHINA–0003 (cession–return–legitimacy):
+the **cession** limb applies (outer Manchuria ceded by treaty);
+**return** has not occurred—contrast with Hong Kong (1997). Same
+humiliation era; different outcome to date.
+
+────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「黑龙江」「瑷珲条约」「中俄北京条约」— 黑龙江为中俄界河；1858年瑷珲条约、1860年北京条约割让江北及乌苏里江以东。Standard authoritative Chinese-language reference for Amur River and Aigun/Beijing treaties; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
 
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
@@ -132,16 +142,17 @@ V. MEM CONNECTIONS
 • MEM–CHINA–PRC — Dependency: PRC Sino-Russian border; Amur as current border; no recovery of outer Manchuria. Breaks if removed: no contemporary framing.
 • MEM–CHINA–GEO–PEARL–RIVER — Dependency: Contrast—Pearl River delta (Hong Kong ceded); Amur (outer Manchuria ceded); south and north cession geographies. Breaks if removed: loss of delta–river contrast.
 • MEM–CHINA–ROC — Dependency: Republican inheritance of humiliation narrative; northern frontier. Breaks if removed: no successor framing.
+• MEM–CHINA–DYNASTY–TANG — Dependency: Bohai–Tang (713 recognition, 732–735 war); tributary–rival dual encoding; pre-1500 Amur periphery. Breaks if removed: loss of Tang-era frontier framing.
 
-Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
+Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002; RLL–CHINA–0002 (tributary–rival dual encoding); RLL–CHINA–0003 (cession limb; return not to date).
 
 ────────────────────────────────────────────────────────────
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Treaty of Aigun (1858); Convention of Beijing (1860); Qing and Russian diplomatic records.
-Secondary: Cambridge History of China; works on Manchuria, Sino-Russian relations, Amur frontier.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「黑龙江」「瑷珲条约」「中俄北京条约」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; works on Manchuria, Sino-Russian relations, Amur frontier.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–AMUR–RIVER v3.0
+END OF FILE — MEM–CHINA–GEO–AMUR–RIVER v3.1
 ────────────────────────────────────────────────────────────

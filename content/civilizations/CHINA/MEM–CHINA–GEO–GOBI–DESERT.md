@@ -1,6 +1,6 @@
 MEM–CHINA–GEO–GOBI–DESERT
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Gobi Desert (戈壁) — northern barrier and corridor, steppe–sedentary interface, Mongol heartland
 Dates: Antiquity–Present (Xiongnu, Mongol, Qing frontiers; Silk Road northern edge; Inner Mongolia)
@@ -100,6 +100,12 @@ is the **steppe counterpart**; this file is the **geographic frame**
 for the desert–steppe interface.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「戈壁」「蒙古」— 戈壁横亘漠北，为草原与农区界面，匈奴、蒙古经此南下；河西走廊与丝绸之路北道沿缘而行。Standard authoritative Chinese-language reference for Gobi and Mongolia; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–MONGOLIA — Dependency: Gobi as southern edge of Mongolian steppe; Mongolia north of desert. Breaks if removed: no steppe frontier framing.
@@ -119,9 +125,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.3; SDI 0003.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Imperial records; Silk Road and frontier documentation.
-Secondary: Jack Weatherford — Genghis Khan and the Making of the Modern World; Cambridge History of China; works on Gobi, steppe, Silk Road.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「戈壁」「蒙古」；Encyclopedia of China (ARC–CHINA–T–MODERN); Jack Weatherford — Genghis Khan and the Making of the Modern World; Cambridge History of China; works on Gobi, steppe, Silk Road.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–GOBI–DESERT v3.0
+END OF FILE — MEM–CHINA–GEO–GOBI–DESERT v3.1
 ────────────────────────────────────────────────────────────

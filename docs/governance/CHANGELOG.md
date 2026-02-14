@@ -8,6 +8,37 @@ Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00014. MEM–CHINA CORPUS — CHINESE-LANGUAGE SOURCE INTEGRATION, PHASE 1 (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: CONTENT (MEM–CHINA corpus upgrade)
+
+CHANGES:
+• MEM–CHINA corpus: Chinese-language source integration (ARC v3.3), Phase 1 completed.
+• Phase 1 — WAR (6): MEM–CHINA–WAR–MONGOL–JIN, WAR–SONG–YUAN, WAR–FIRST–OPIUM, WAR–SECOND–OPIUM, WAR–BOXER–REBELLION, WAR–TAIPING–REBELLION — added 中国大百科全书 (and where relevant 《元史》《金史》《宋史》) to Primary/Secondary; added SOURCE EVIDENCE block with citation and ARC attribution; content version bumped.
+• Phase 1 — GEO/cession (9): MEM–CHINA–GEO–PEARL–RIVER, GEO–YELLOW–RIVER, GEO–YANGTZE–RIVER, GEO–AMUR–RIVER, MEM–CHINA–GRAND–CANAL, MEM–CHINA–HONG–KONG, MEM–CHINA–MACAU, MEM–CHINA–SHENZHEN — added Encyclopedia of China (and for Hong Kong/Macau npc.gov.cn Basic Law) to Primary/Secondary; added SOURCE EVIDENCE block or citation with ARC attribution; content version bumped.
+• Created docs/governance/UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md — list of 30 LOCKED MEMs with note "When unlocked: integrate Chinese-language source per ARC v3.3 and MEM authoring note."
+• Created docs/governance/CHECKLIST–MEM–CHINA–CHINESE–LANGUAGE–INTEGRATION.md — one-page checklist (source-selection by type, attribution format, exception rule) for Phase 2/3 and new MEMs.
+
+RATIONALE:
+Plan *Major Upgrade: MEM–CHINA Corpus × Chinese-Language Sources*; audit AUDIT–SESSION–MEMS–CHINESE–LANGUAGE–SOURCES–2026–02–13; ARC–CHINA v3.3 MEM authoring note (IX-B). Additive only; no change to RLLs or existing English quotes.
+
+────────────────────────────────────────────────────────────
+00014-B. MEM–CHINA CHINESE-LANGUAGE SOURCE INTEGRATION — PHASE 2 (10 HIGH-PRIORITY MEMs) (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: CONTENT (MEM–CHINA corpus upgrade)
+
+CHANGES:
+• Ten high-priority MEM–CHINA files brought into compliance with ARC v3.3 Chinese-language source requirement.
+• **Polity:** MEM–CHINA–PRC (XII-B 中国大百科全书 中华人民共和国/中国共产党; Secondary + gov.cn; v1.3), MEM–CHINA–ROC (XI-B 中华民国; Secondary; v1.3), MEM–CHINA–TAIWAN (X-B 台湾/台湾海峡; Secondary; v1.3).
+• **Cities:** MEM–CHINA–BEIJING (IV-B 北京/圆明园; Secondary; v3.1), MEM–CHINA–NANJING (IV-B 南京/南京条约; Secondary; v3.1), MEM–CHINA–SHANGHAI (IV-B 上海; Secondary; v3.1), MEM–CHINA–GUANGZHOU (IV-B 广州; Secondary; v3.1).
+• **GEO:** MEM–CHINA–GEO–TAIWAN–STRAIT (IV-B 台湾海峡; Secondary; v3.1), MEM–CHINA–GEO–SOUTH–CHINA–SEA (IV-B 南海 + scio.gov.cn 白皮书; Secondary; v3.1), MEM–CHINA–BOHAI–TANG (II-B 渤海/唐朝; Secondary; v1.1).
+
+RATIONALE:
+User request to implement Chinese-language compliance for the ten high-priority MEMs identified after Phase 1. Same standard as Phase 1: at least one Chinese-language source in Primary/Secondary and one SOURCE EVIDENCE block with citation and ARC attribution.
+
+────────────────────────────────────────────────────────────
 00013. REFERENCE – QUANTITATIVE BENCHMARKS (13 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-13

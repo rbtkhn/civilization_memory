@@ -1,6 +1,6 @@
 MEM–CHINA–HANGZHOU
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Hangzhou (杭州) — Lin'an, Southern Song capital, Grand Canal terminus, West Lake
 Dates: Antiquity–Present (Southern Song capital Lin'an 1127–1276; treaty port 1895–; PRC provincial capital)
@@ -88,6 +88,12 @@ port) and Shenzhen (PRC-designed SEZ) is structural:
 Hangzhou is second-wave treaty port, then PRC hub.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「杭州」— 杭州即古临安，南宋都城（1127–1276），大运河南端，西湖；1895年开埠。Standard authoritative Chinese-language reference for Hangzhou; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–DYNASTY–SONG — Dependency: Southern Song capital Lin'an 1127–1276. Breaks if removed: no southern capital framing.
@@ -105,9 +111,9 @@ Scholar: SYNTHESIS 0005; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Southern Song and Yuan records; treaty texts (Shimonoseki 1895); PRC documentation.
-Secondary: Cambridge History of China; works on Southern Song and Grand Canal; treaty-port scholarship.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「杭州」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; works on Southern Song and Grand Canal; treaty-port scholarship.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–HANGZHOU v3.0
+END OF FILE — MEM–CHINA–HANGZHOU v3.1
 ────────────────────────────────────────────────────────────

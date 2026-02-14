@@ -1,6 +1,6 @@
 MEM–CHINA–TAIWAN–STRAIT
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Taiwan Strait (台湾海峡) — cross-strait corridor, barrier and connector
 Dates: Antiquity–Present (migration and trade; ROC/PRC divide 1949–; contemporary cross-strait)
@@ -102,6 +102,12 @@ MEM–CHINA–ROC are the **regime MEMs**; the strait
 is the **geographic condition** of their divide.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「台湾海峡」— 台湾海峡介于福建与台湾之间，南北连接东海与南海，1949年后为两岸分治之地理界线。Standard authoritative Chinese-language reference for Taiwan Strait; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–TAIWAN — Dependency: Taiwan Strait separates Taiwan from mainland; MEM–CHINA–TAIWAN cites strait. Breaks if removed: no island framing.
@@ -120,9 +126,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing and ROC records; PRC white papers on Taiwan; cross-strait agreements and crises documentation.
-Secondary: Cambridge History of China; Kissinger — On China; MEM–CHINA–TAIWAN; works on cross-strait relations.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「台湾海峡」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; Kissinger — On China; MEM–CHINA–TAIWAN; works on cross-strait relations.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–TAIWAN–STRAIT v3.0
+END OF FILE — MEM–CHINA–TAIWAN–STRAIT v3.1
 ────────────────────────────────────────────────────────────

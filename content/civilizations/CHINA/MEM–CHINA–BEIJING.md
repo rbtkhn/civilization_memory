@@ -1,6 +1,6 @@
 MEM–CHINA–BEIJING
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Beijing (北京) — imperial capital, legation quarter, PRC capital
 Dates: Antiquity–Present (Yuan Dadu; Ming–Qing capital; legations 1860–; PRC capital 1949–)
@@ -74,6 +74,12 @@ with Boxer-era Beijing is structural: then, foreign troops in
 the capital; now, Party–state monopoly.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「北京」「圆明园」— 北京为元明清及当代首都；1860年圆明园被焚，1900年义和团围攻使馆、八国联军入京。Standard authoritative Chinese-language reference for Beijing and Summer Palace; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–DYNASTY–QING — Dependency: Qing capital; court fled in Second Opium and Boxer. Breaks if removed: no dynasty framing.
@@ -91,9 +97,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.2; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Imperial and Republican records; PRC administrative documentation.
-Secondary: Henry Kissinger — On China; Jonathan Spence; Cambridge History of China.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「北京」「圆明园」；Encyclopedia of China (ARC–CHINA–T–MODERN); Henry Kissinger — On China; Jonathan Spence; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–BEIJING v3.0
+END OF FILE — MEM–CHINA–BEIJING v3.1
 ────────────────────────────────────────────────────────────

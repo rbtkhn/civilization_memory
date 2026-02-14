@@ -191,6 +191,12 @@ Henry Kissinger, *On China* (Penguin Press, 2011); *Diplomacy* (Simon & Schuster
 — Kissinger on ROC as displaced sovereignty; Taiwan in US–PRC diplomacy; strategic patience and cross-strait management. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+XI-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「中华民国」— 中华民国1912年成立，结束帝制；1949年后迁台，法统延续。Standard authoritative Chinese-language reference for Republic of China; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
@@ -199,6 +205,7 @@ Primary:
 • Chiang Kai-shek speeches and diaries  
 
 Secondary:
+• 中国大百科全书（第三版，zgbk.com）— 条目「中华民国」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Henry Kissinger — On China; Diplomacy  
 • Rana Mitter  
 • Jay Taylor  
@@ -207,5 +214,5 @@ Secondary:
 • 王奇生  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–ROC v1.2
+END OF FILE — MEM–CHINA–ROC v1.3
 ────────────────────────────────────────────────────────────

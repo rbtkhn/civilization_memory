@@ -1,6 +1,6 @@
 MEM–CHINA–GEO–SOUTH–CHINA–SEA
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: South China Sea (南海) — maritime corridor, disputed waters, first-island-chain logic
 Dates: Antiquity–Present (trade routes; sovereignty claims; Nine-Dash Line; contemporary disputes)
@@ -98,6 +98,12 @@ MEM–CHINA–TAIWAN–STRAIT are the **adjacent
 geographic MEMs**; this file is the **maritime frame**.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书、白皮书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「南海」— 南海为中国近海之一，岛屿与海域主权争议见诸官方表述。中国政府在南海问题上的立场见白皮书（scio.gov.cn）。Standard authoritative Chinese-language reference and White Papers for South China Sea; cite entry and scio.gov.cn when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN; White Papers scio.gov.cn, ARC–CHINA–T-INSTITUTIONAL/OFFICIAL.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–GEO–PEARL–RIVER — Dependency: Pearl River delta opens onto South China Sea; Canton, Hong Kong, Shenzhen. Breaks if removed: no delta–sea framing.
@@ -120,5 +126,5 @@ Secondary: Cambridge History of China; Kissinger — On China; works on South Ch
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–SOUTH–CHINA–SEA v3.0
+END OF FILE — MEM–CHINA–GEO–SOUTH–CHINA–SEA v3.1
 ────────────────────────────────────────────────────────────

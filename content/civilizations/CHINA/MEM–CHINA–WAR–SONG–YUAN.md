@@ -1,6 +1,6 @@
 MEM–CHINA–WAR–SONG–YUAN
 Status: DRAFT
-Version: 1.0
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Mongol/Yuan conquest of the Song (蒙元灭宋) — naval–riverine campaign and fall of Southern Song
 Dates: c. 1234–1279 (intensified from 1268; Xiangyang 1268–1273; fall 1279)
@@ -99,6 +99,12 @@ John Keegan, *The Mask of Command* (Jonathan Cape, 1987) — applied insight (be
 — Keegan on the limits of Clausewitzian theory: Song–Yuan conquest (steppe–maritime, dynastic unification) falls outside European rational-politics assumptions—"little of oriental war." Belief collapse: when Xiangyang fell (1273), Song resistance downstream lost its linchpin; the polity "knew" the southern barrier was broken. No single commander fled like Darius; the structural analogue is the fall of the key node and the fragmentation that followed. Encoding divergence: MEM encodes naval–riverine pivot; Keegan supplies military-historian lens (belief collapse, war-making culture).
 
 ────────────────────────────────────────────────────────────
+IV.C. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「宋史」「元史」「襄阳」— 宋元战争历时数十年，襄阳之战（1268–1273）为关键节点，元军水陆并进，宋亡于1279年。Standard authoritative Chinese-language reference for Song–Yuan conquest and Xiangyang siege; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. OUTCOME & LEGITIMACY
 ────────────────────────────────────────────────────────────
 Yuan victory (1279) eliminated the Song and gave Kublai **unified**
@@ -183,11 +189,12 @@ Primary:
 Secondary:
 • Jack Weatherford — Genghis Khan and the Making of the Modern World; Emperor of the Seas (2024, verbatim TBC)
 • John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN)
+• 中国大百科全书（第三版，zgbk.com）— 条目「宋史」「元史」「襄阳」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Morris Rossabi, Michal Biran
 • Patricia Buckley Ebrey, Peter Lorge (Song warfare)
 
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–SONG–YUAN v1.0
+END OF FILE — MEM–CHINA–WAR–SONG–YUAN v1.1
 ────────────────────────────────────────────────────────────

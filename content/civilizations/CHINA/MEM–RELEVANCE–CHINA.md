@@ -203,11 +203,12 @@ Primary MEMs:
   [concepts: territorial_integrity, reunification]
 
 Secondary MEMs:
-• MEM–CHINA–GEO–PEARL–RIVER — Delta; cession and Hong Kong context
+• MEM–CHINA–GEO–PEARL–RIVER — Delta; cession and Hong Kong/Macau context
 • MEM–CHINA–GEO–YELLOW–RIVER — Legitimacy basin; northern heartland
 • MEM–CHINA–GEO–AMUR–RIVER — Frontier; tributary–rival dual encoding (Bohai–Tang)
 • MEM–CHINA–GEO–EAST–CHINA–SEA — Maritime geometry
 • MEM–CHINA–HONG–KONG — Cession, return, one-country-two-systems
+• MEM–CHINA–MACAU — Cession–return; Portuguese presence; handover 1999; RLL–CHINA–0003
 • MEM–CHINA–NANJING — Treaty of Nanjing; Yangtze node
 • MEM–CHINA–ZHENGHE — Maritime projection precedent (Ming)
 
@@ -272,9 +273,11 @@ periphery–centre relations; Amur, Manchuria, Xinjiang, Tibet as
 buffer or contested zones.
 
 Primary MEMs:
-• MEM–CHINA–GEO–AMUR–RIVER — Bohai–Tang (698–926): tributary
-  (recognition 713) and rival (war 732–735); same relationship, dual
-  encoding (ENTRY 0014, RLL–CHINA–0002 candidate)
+• MEM–CHINA–BOHAI–TANG — Bohai–Tang (698–926): tributary (recognition 713)
+  and rival (war 732–735); same relationship, dual encoding (RLL–CHINA–0002)
+  [concepts: tributary_rival_dual_encoding, frontier_legitimacy]
+• MEM–CHINA–GEO–AMUR–RIVER — Amur pre-1500; Bohai–Tang in II-B; tributary–
+  rival dual encoding; Liao, Jin (ENTRY 0014, RLL–CHINA–0002)
   [concepts: tributary_rival_dual_encoding, frontier_legitimacy]
 • MEM–CHINA–MANCHURIA — Qing homeland; conquest dynasty origin;
   frontier-to-centre trajectory

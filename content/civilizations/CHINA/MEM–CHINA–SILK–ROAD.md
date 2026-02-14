@@ -1,6 +1,6 @@
 MEM–CHINA–SILK–ROAD
 Status: DRAFT
-Version: 1.0
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Silk Road (丝绸之路) — China-facing trade and connectivity corridor
 Dates: Antiquity–Present (Mongol apex c. 1220–1368)
@@ -112,6 +112,12 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 Contemporary witness to universal acceptability of script across Mongol-ruled corridors; complements Weatherford on paiza and routes.
 
 ────────────────────────────────────────────────────────────
+V-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「丝绸之路」— 丝绸之路为古代东西方交通要道，陆路经河西、西域至中亚西亚，蒙元时期驿道、海路（泉州—霍尔木兹）并兴。可参《汉书》《新唐书》西域传及钱穆《国史大纲》相关章节。Standard authoritative Chinese-language reference for Silk Road; dynastic histories and Qian Mu where relevant; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 VI. CONNECTIVITY OUTLASTING EMPIRE
 ────────────────────────────────────────────────────────────
 The Mongol Empire fragmented; the **corridor logic** did not. Ming and
@@ -153,10 +159,11 @@ VIII. MEM CONNECTIONS
 IX. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
-• Chinese dynastic histories (Western Regions, trade)
+• Chinese dynastic histories (Western Regions, trade); 《汉书》《新唐书》西域传
 • Marco Polo, Ibn Battuta (travel accounts)
 
 Secondary:
+• 中国大百科全书（第三版，zgbk.com）— 条目「丝绸之路」；Encyclopedia of China (ARC–CHINA–T–MODERN); 钱穆《国史大纲》相关章节（where relevant）
 • Jack Weatherford — Genghis Khan and the Making of the Modern World
 • Thomas Allsen (Mongol trade, culture)
 • Nicola Di Cosmo (steppe, frontier)
@@ -164,5 +171,5 @@ Secondary:
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–SILK–ROAD v1.0
+END OF FILE — MEM–CHINA–SILK–ROAD v1.1
 ────────────────────────────────────────────────────────────

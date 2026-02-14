@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC
 Status: ACTIVE
-Version: 1.2
+Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: People’s Republic of China (中华人民共和国)
 Dates: 1949–Present
@@ -202,6 +202,12 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on PRC as civilizational reconstitution; continuity vs. rupture; strategic culture and performance legitimacy. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+XII-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「中华人民共和国」「中国共产党」— 中华人民共和国1949年成立，中国共产党领导；党政军民学，党是领导一切的。Standard authoritative Chinese-language reference for PRC and CCP; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 XIII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
@@ -209,8 +215,10 @@ Primary:
 • CCP Party Constitutions  
 • Deng Xiaoping speeches  
 • Xi Jinping reports  
+• gov.cn, people.cn (PRC official narrative where cited)
 
 Secondary:
+• 中国大百科全书（第三版，zgbk.com）— 条目「中华人民共和国」「中国共产党」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Henry Kissinger — On China; Diplomacy; World Order  
 • Elizabeth Perry  
 • Sebastian Heilmann  
@@ -219,5 +227,5 @@ Secondary:
 • 汪晖  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC v1.2
+END OF FILE — MEM–CHINA–PRC v1.3
 ────────────────────────────────────────────────────────────

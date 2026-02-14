@@ -1,6 +1,6 @@
 MEM–CHINA–TIANJIN
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Tianjin (天津) — treaty port, concessions, route to Beijing, Boxer node
 Dates: 1860–Present (Treaty of Tianjin 1858; Convention of Beijing 1860; concessions; Boxer 1900; PRC municipality)
@@ -97,6 +97,12 @@ MEM–CHINA–WAR–SECOND–OPIUM, MEM–CHINA–WAR–BOXER–REBELLION
 depend on Tianjin as the route-to-capital node.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「天津」— 天津为海河与运河交汇处，1858年《天津条约》、1860年《北京条约》开埠设租界，1900年八国联军由此进京。Standard authoritative Chinese-language reference for Tianjin; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–WAR–SECOND–OPIUM — Dependency: Treaty of Tianjin (1858), Convention of Beijing (1860); Anglo-French advance from Tianjin to Beijing. Breaks if removed: no treaty framing.
@@ -115,9 +121,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Treaty of Tianjin (1858); Convention of Beijing (1860); Qing and Allied records; PRC documentation.
-Secondary: Henry Kissinger — On China; Julia Lovell — The Opium War; Cambridge History of China; works on Boxer, Tianjin.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「天津」；Encyclopedia of China (ARC–CHINA–T–MODERN); Henry Kissinger — On China; Julia Lovell — The Opium War; Cambridge History of China; works on Boxer, Tianjin.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–TIANJIN v3.0
+END OF FILE — MEM–CHINA–TIANJIN v3.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 MEM–CHINA–XIAN
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Xi'an (西安) — Chang'an, Silk Road terminus, refuge capital
 Dates: Antiquity–Present (Chang'an; Tang capital; Boxer court refuge 1900–1901; PRC provincial capital)
@@ -91,6 +91,12 @@ as a major interior node; no concession; continuity
 of civilizational memory.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「西安」「长安」— 西安古称长安，汉唐都城，丝绸之路东端；1900年慈禧西狩驻跸西安。Standard authoritative Chinese-language reference for Xi'an and Chang'an; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–SILK–ROAD — Dependency: Chang'an/Xi'an as Chinese terminus/nexus of Silk Road. Breaks if removed: no western-terminus framing.
@@ -108,9 +114,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Tang and imperial records; Qing court records (Boxer flight); PRC documentation.
-Secondary: Cambridge History of China; Silk Road scholarship; works on Boxer Rebellion.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「西安」「长安」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; Silk Road scholarship; works on Boxer Rebellion.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–XIAN v3.0
+END OF FILE — MEM–CHINA–XIAN v3.1
 ────────────────────────────────────────────────────────────

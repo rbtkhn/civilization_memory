@@ -1,6 +1,6 @@
 MEM–CHINA–WAR–SECOND–OPIUM
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Second Opium War (第二次鸦片战争) — Anglo-French expedition, Treaty of Tianjin, Summer Palace 1860
 Dates: 1856–1860 (Arrow incident 1856; Tianjin 1858; Beijing campaign and Summer Palace destruction 1860)
@@ -85,7 +85,13 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Qing collision with the West; Second Opium War and Summer Palace as deepening of "century of humiliation"; capital as symbol. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+IV.B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「第二次鸦片战争」「圆明园」— 英法联军进占北京，咸丰北狩热河，1860年圆明园被焚毁，《北京条约》签订，九龙割让。Standard authoritative Chinese-language reference for Second Opium War and Summer Palace destruction; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+IV.C. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
 ────────────────────────────────────────────────────────────
 
 John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
@@ -154,9 +160,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002; RLL–CHINA–0001 (Keeg
 VIII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing edicts; British and French diplomatic and military records.
-Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
+Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN); 中国大百科全书（第三版，zgbk.com）— 条目「第二次鸦片战争」「圆明园」；Encyclopedia of China (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–SECOND–OPIUM v3.0
+END OF FILE — MEM–CHINA–WAR–SECOND–OPIUM v3.1
 ────────────────────────────────────────────────────────────

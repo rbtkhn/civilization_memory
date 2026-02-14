@@ -1,6 +1,6 @@
 MEM–CHINA–WAR–BOXER–REBELLION
 Status: DRAFT
-Version: 1.0
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Boxer Rebellion (义和团运动) — anti-foreign uprising, siege of legations, Eight-Nation Alliance intervention
 Dates: 1899–1901 (uprising 1899–1900; siege summer 1900; Protocol September 1901)
@@ -86,7 +86,13 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Qing as final imperial synthesis; tribute system and collision with West; Boxer Rebellion and late Qing humiliation as part of the "century of humiliation" that shapes Chinese strategic memory and continuity. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+IV.B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「义和团运动」「庚子赔款」— 义和团反帝反教，进京围攻使馆，八国联军入京，慈禧西狩西安，《辛丑条约》赔款、惩办、驻军。Standard authoritative Chinese-language reference for Boxer Rebellion and Boxer Protocol; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+IV.C. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
 ────────────────────────────────────────────────────────────
 
 John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
@@ -187,6 +193,7 @@ Primary:
 Secondary:
 • Henry Kissinger — On China (strategic frame, humiliation)
 • John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN)
+• 中国大百科全书（第三版，zgbk.com）— 条目「义和团运动」「庚子赔款」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Jonathan Spence — The Search for Modern China (Boxer coverage)
 • John King Fairbank — The Great Chinese Revolution; Cambridge History of China
 • Julia Lovell — The Opium War (late Qing, foreign encroachment)
@@ -198,5 +205,5 @@ ARC Reference: CIV–ARC–CHINA v1.0
 Note: For Boxer-specific verbatim beyond Kissinger/Spence/Fairbank, consider ARC–DISCOVERY for Esherick, Cohen, or other specialists.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–BOXER–REBELLION v1.0
+END OF FILE — MEM–CHINA–WAR–BOXER–REBELLION v1.1
 ────────────────────────────────────────────────────────────

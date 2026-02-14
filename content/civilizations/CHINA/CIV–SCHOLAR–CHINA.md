@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 Supersedes: v1.0
 Derived from: CIV–SCHOLAR–TEMPLATE v3.0
 Governed by: CIV–SCHOLAR–PROTOCOL v3.0
-ARC Reference: CIV–ARC–CHINA v3.0
+ARC Reference: CIV–ARC–CHINA v3.3
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–CHINA
 Last Update: February 2026
 
@@ -54,6 +54,8 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § III; Phase I)
 
 In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when frozen. If Phase II is adopted, RLL–CHINA–#### namespace and binding rules apply per Template § III.
+
+**Exception — RLLs BINDING (0001, 0002, 0003):** By explicit user authorization (2026-02-13), the following RLLs are **BINDING** as of 2026-02-13: RLL–CHINA–0001 (Keegan / war–command–humiliation contrast), RLL–CHINA–0002 (frontier tributary–rival encoding), RLL–CHINA–0003 (cession–return–legitimacy). When authoring or revising MEM–CHINA within each RLL's Activation Trigger and Affected File Classes, the constraint **MUST** be applied per the Constraint Statement. See Section XVIII.A for full text.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
@@ -123,7 +125,7 @@ XIII. CONTEXT LOADING PROTOCOLS
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § XIII)
 
-CIV–ARC–CHINA: v2.0. Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
+CIV–ARC–CHINA: v3.3. Load when writing GEO–MEM or content requiring civilizational quotes. CIV–CORE–CHINA loaded when diagnostic or legitimacy logic required. LEARN mode minimal: this file + target MEMs; on-demand access to others. Full specification: Template § XIII.A–D.
 
 ────────────────────────────────────────────────────────────
 XIV. SYNTHESIS TRADECRAFT
@@ -321,6 +323,19 @@ Ingest Type:
 • LEARN Session / Amur military history prior to 1500 (Bohai, Liao, Jin)
 Primary Belief Extracted:
 • Frontier polities can encode as both tributary (legitimacy through recognition by centre) and rival (contest through force); same relationship, dual encoding. Instance: Bohai–Tang (698–926)—Tang recognition 713, Bohai–Tang war 732–735.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0015
+Source:
+• MEM–CHINA–GEO–PEARL–RIVER, MEM–CHINA–HONG–KONG, MEM–CHINA–SHENZHEN, MEM–CHINA–GRAND–CANAL, MEM–CHINA–GEO–YELLOW–RIVER, MEM–CHINA–GEO–YANGTZE–RIVER (China river cluster)
+• MEM–FRANCIA–ALSACE–LORRAINE, MEM–GERMANIA–ALSACE–LORRAINE (cross-civ)
+Ingest Type:
+• LEARN Session / River-cluster contemplation + Pearl delta + cross-civ cession–return
+OGE Chain (options selected):
+• F (Grand Canal, Yellow River under PRC) → D (multi-mind) → E (Yuan Kublai Canal extension) → H (synthesis) → c (bigger change: Pearl delta) → G (Alsace–Lorraine) → H (synthesis)
+Learning Recorded:
+• Heartland axis (Yellow–Yangtze–Grand Canal) plus Pearl as cession delta; PRC continuity (flood, capital supply) and Yuan precedent (conquest-as-connectivity). Pearl: Hong Kong ceded 1842, Shenzhen SEZ 1980 (opening by choice), handover 1997 (reconstitution); one delta, humiliation then return. Cross-civ: Alsace–Lorraine—Francia (loss 1871, delegitimation, recovery 1918 as conditional redemption), Germania (gain then legitimacy gap, return to France). Pattern: cession and return (or failed retention) as legitimacy test; one geography, multiple encodings; same grammar across civilisations.
 Belief Status:
 • UNFROZEN
 
@@ -557,6 +572,23 @@ Proposed doctrine change:
   docs/governance/DIB–CHINA–DOCTRINE–03–REFINEMENT–2026–02–13.md).
 Confidence: TIER 2 (pattern + observed behaviour; scope clarification)
 
+SYNTHESIS 0014 (0013 + ENTRY 0015 — pattern, not doctrine)
+Outcome:
+• Cession and return (or failed retention) function as a recurring
+  legitimacy grammar across civilisations. One geography—or one
+  territory—can hold multiple encodings (loss, recovery, overreach).
+  China: heartland rivers (flood, capital supply, humiliation/recovery);
+  Pearl delta (cession 1842, SEZ 1980, handover 1997). Francia/Germania:
+  Alsace–Lorraine (Francia = trauma and conditional recovery; Germania =
+  victory that proved unstable). Legitimacy turns on who lost, who
+  regained, who overreached; institutions (SAR, Reichsland, treaty
+  form) differ; the grammar travels.
+Status:
+• UNFROZEN
+Basis:
+• ENTRY 0015; MEM–CHINA–GEO–PEARL–RIVER, MEM–CHINA–HONG–KONG, MEM–CHINA–SHENZHEN, MEM–CHINA–GRAND–CANAL, MEM–CHINA–GEO–YELLOW–RIVER; MEM–FRANCIA–ALSACE–LORRAINE, MEM–GERMANIA–ALSACE–LORRAINE.
+Confidence: TIER 2 (pattern visible in MEM evidence; cross-civ comparison; no closure)
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
@@ -576,15 +608,15 @@ State: FROZEN
 Refinement: SYNTHESIS 0013 accepted (DIB–CHINA 2026-02-13); CIV–DOCTRINE–CHINA v1.1 (Scope and Contemporary Application)
 
 ────────────────────────────────────────────────────────────
-XVIII.A. CANDIDATE RLL PROPOSALS (PHASE I — NON-BINDING)
+XVIII.A. RLL REGISTRY (0001, 0002, 0003 BINDING per Section III)
 ────────────────────────────────────────────────────────────
 
-RLL–CHINA–0001 (CANDIDATE)
+RLL–CHINA–0001 (CONFIRMED)
 Scope: China civilization; MEM authoring; civilization-contrast citation
 Constraint Type: Legitimacy dependency / scholarly discipline
 
 Constraint Statement:
-When MEM–CHINA documents war, command, or humiliation-arc events (Opium Wars, Boxer, Song–Yuan, etc.), cite Keegan for civilization-contrast where relevant. Applicability: war/command/battle MEMs; belief collapse; collision of war-making cultures. Citation recommended, not mandatory; applicability judged per MEM subject.
+When MEM–CHINA documents war, command, or humiliation-arc events (Opium Wars, Boxer, Song–Yuan, Mongol–Jin, etc.), the author **MUST** cite or reference Keegan (ARC–CHINA–T–MODERN) for civilization-contrast where the subject involves command, battle, belief collapse, or collision of war-making cultures. Applicability: MEM–CHINA–WAR–*; any MEM–CHINA where command or battle is thematized. If no Keegan citation is used, the MEM **MUST** explicitly encode the civilization-contrast or war-making-culture dimension (e.g. belief collapse, institutional restraint, "little of oriental war") so that the contrast is visible. Omission is permitted only when the MEM's scope does not touch war, command, or humiliation-arc (document in MEM or leave contrast to other MEMs).
 
 **Mercouris derivation:** Legitimacy encoding; contrast enriches without resolving; encoding divergence expected.
 **Mearsheimer derivation:** Structural variables (force ratio, belief collapse) condition outcomes; Keegan supplies command/battle lens.
@@ -592,16 +624,16 @@ When MEM–CHINA documents war, command, or humiliation-arc events (Opium Wars, 
 
 Activation Trigger: Authoring or revising MEM–CHINA that treats war, command, battle, humiliation-arc events (Opium Wars, Boxer, Song–Yuan, Mongol–Jin, etc.)
 Affected File Classes: MEM–CHINA–WAR–*; MEM–CHINA–* where command or battle is thematized
-Derivation: LEARN–KEEGAN–REFERENCING–MEMS–INGESTION; LEARN–KEEGAN–MIND–APPLIED–TO–CHINA–WAR–MEMS; SYNTHESIS 0005, 0006 (humiliation-arc framing). Keegan in ARC–CHINA–T–MODERN (CIV–ARC–CHINA v3.0); citation for war/command/battle MEMs.
+Derivation: LEARN–KEEGAN–REFERENCING–MEMS–INGESTION; LEARN–KEEGAN–MIND–APPLIED–TO–CHINA–WAR–MEMS; SYNTHESIS 0005, 0006 (humiliation-arc framing). Keegan in ARC–CHINA–T–MODERN (CIV–ARC–CHINA v3.3).
 
-Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+Status: CONFIRMED — BINDING (activated 2026-02-13). See Section III RLL Authority exception.
 
-RLL–CHINA–0002 (CANDIDATE)
+RLL–CHINA–0002 (CONFIRMED)
 Scope: China civilization; MEM authoring; frontier and tributary encoding
 Constraint Type: Legitimacy dependency / frontier encoding
 
 Constraint Statement:
-Frontier polities can encode as both **tributary** (legitimacy through recognition by centre) and **rival** (contest through force); same relationship, dual encoding. Instance: Bohai–Tang (698–926)—Tang recognition 713, Bohai–Tang war 732–735. Applicability: Amur pre-1500 (Bohai, Liao, Jin as periphery); other frontier/tributary MEMs where recognition and contest coexist. Citation or encoding recommended where frontier tributary-rival tension is thematized.
+When MEM–CHINA documents frontier polities, tributary relations, or periphery–centre relations (e.g. Amur pre-1500, Bohai, Liao, Jin, or other frontier/tributary contexts), the author **MUST** encode the possibility of **dual encoding**: the same relationship can be **tributary** (legitimacy through recognition by centre) and **rival** (contest through force). Instance: Bohai–Tang (698–926)—Tang recognition 713, Bohai–Tang war 732–735. The MEM **MUST** not assert a single fixed role (e.g. "tributary only" or "rival only") without acknowledging that the same polity can hold both; where recognition and contest coexist, both dimensions **MUST** be visible. Omission permitted only when the MEM's scope does not touch frontier/tributary relations.
 
 **Mercouris derivation:** Legitimacy encoding; tributary status and military contest can coexist; encoding divergence expected; periphery vs heartland.
 **Mearsheimer derivation:** Balance of power on frontier conditions whether tributary or rival dominates; neither may be able to finish the other.
@@ -611,7 +643,33 @@ Activation Trigger: Authoring or revising MEM–CHINA that treats frontier, trib
 Affected File Classes: MEM–CHINA–GEO–AMUR–RIVER (pre-1500); MEM–CHINA–DYNASTY–* where tributary-rival is thematized
 Derivation: LEARN session—Amur military history prior to 1500; Bohai–Tang war 732–735; synthesis "Bohai tributary vs rival; Amur periphery; pre-1500, no closure." ENTRY 0014.
 
-Status: PROPOSED — Phase I; NOT BINDING. Requires explicit user authorization for Phase II binding.
+Status: CONFIRMED — BINDING (activated 2026-02-13). See Section III RLL Authority exception.
+
+RLL–CHINA–0003 (CONFIRMED)
+Scope: China civilization; MEM authoring; cession, return, reconstitution
+Constraint Type: Legitimacy dependency / territorial encoding
+
+Constraint Statement:
+When MEM–CHINA documents cession, return, or reconstitution of territory
+(Pearl delta, Hong Kong, treaty ports, humiliation/recovery), the
+pattern "cession–return–legitimacy" may apply: legitimacy turns on who
+lost, who regained, who overreached. Cross-civilisational comparison
+(e.g. Alsace–Lorraine, other loss/return cases) illustrates the same
+grammar. One geography can hold multiple encodings; no requirement to
+resolve tension.
+
+**Scope / limit:** Apply the pattern only when **legitimacy is materially at stake** through loss (defeat, humiliation, imposed cession) and/or return (recovery, reconstitution). Do **not** apply to voluntary, compensated transfers (e.g. purchase/sale) where neither party encodes the transfer as legitimacy crisis or recovery. Limit case: Alaska 1867 (sale; no defeat, no "return")—see TEST–RLL–CHINA–0003–NEGATIVE–ALASKA–1867.
+
+**Mercouris derivation:** Legitimacy encoding; recovery as conditional or reconstitution; institutional continuity across loss and return.
+**Mearsheimer derivation:** Structural incentive to reclaim or secure corridor; gain can prove unstable when legitimacy gap follows.
+**Barnes derivation:** Liability when return fails or is contested; irreversibility of loss or of overreach.
+
+Activation Trigger: Authoring or revising MEM–CHINA that treats territorial cession, handover, SEZ as reconstitution, or humiliation/recovery geography.
+Affected File Classes: MEM–CHINA–GEO–PEARL–RIVER; MEM–CHINA–HONG–KONG; MEM–CHINA–SHENZHEN; MEM–CHINA–* where cession/return/reconstitution is thematized
+Derivation: LEARN session 2026-02 (river cluster, Pearl delta, Alsace–Lorraine cross-civ); ENTRY 0015; SYNTHESIS 0014.
+Validation: TEST–RLL–CHINA–0003–14TH–CENTURY–ARC–EXPANDED (Yuan/Ming 1368); TEST–RLL–CHINA–0003–9TH–CENTURY–ARC–EXPANDED (Tang Xianzong 805–820); TEST–RLL–CHINA–0003–TREATY–CESSION–HONG–KONG–1842; TEST–RLL–CHINA–0003–NEGATIVE–ALASKA–1867 (scope limit). Promoted 2026-02-13.
+
+Status: CONFIRMED — BINDING (activated 2026-02-13). Scope limit: voluntary sale/transfer without legitimacy crisis excluded. See Section III RLL Authority exception.
 
 ────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
@@ -653,6 +711,18 @@ Result:
   transferred across replacement; "rupture survivable when procedure
   preserved."
 
+SDI ENTRY 0005
+• China ↔ Francia / Germania — Cession–Return–Legitimacy
+Result:
+• China: Pearl delta encodes cession (Hong Kong 1842) then reconstitution
+  (Shenzhen 1980, handover 1997); "opening by choice" vs treaty imposition;
+  heartland rivers encode humiliation/recovery (Nanjing 1842, Three Gorges).
+• Francia: Alsace–Lorraine encodes loss (1871), delegitimation, recovery
+  (1918) as conditional redemption; revanche as latent doctrine.
+• Germania: Same territory encodes victory that proved unstable; legitimacy
+  gap, return to France. Convergent pattern: cession and return (or failed
+  retention) as legitimacy test across civilisations.
+
 ────────────────────────────────────────────────────────────
 XX. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
@@ -673,11 +743,12 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 3
-Total Entries: 14
-Next Entry ID: 0015
+Total Entries: 15
+Next Entry ID: 0016
 Frozen Syntheses: 3
-Total Syntheses: 10
-SDI Entries: 4
+Total Syntheses: 14
+SDI Entries: 5
+RLLs Binding: 3 (RLL–CHINA–0001, 0002, 0003; activated 2026-02-13)
 
 ────────────────────────────────────────────────────────────
 XXII. OGE SPECIFICATION (DETAIL)

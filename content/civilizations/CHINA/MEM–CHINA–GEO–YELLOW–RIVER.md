@@ -1,6 +1,6 @@
 MEM–CHINA–GEO–YELLOW–RIVER
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Yellow River (黄河) — North China heartland, cradle corridor, flood and capital supply
 Dates: Antiquity–Present (cradle of Chinese civilization; Grand Canal link; capital supply; flood and course change)
@@ -89,6 +89,12 @@ is the **southern counterpart**—one axis, two rivers linked by the
 Canal.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「黄河」「大运河」— 黄河流域为北方文明摇篮，水患与改道频仍，大运河连通黄河与长江、北京。Standard authoritative Chinese-language reference for Yellow River and Grand Canal; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–GRAND–CANAL — Dependency: Grand Canal links Yellow River to Yangtze and Beijing; northern arm of corridor. Breaks if removed: no supply corridor framing.
@@ -99,6 +105,7 @@ V. MEM CONNECTIONS
 • MEM–CHINA–MONGOL–KUBLAI–KHAN — Dependency: Yuan extended Canal to Dadu; Yellow River segment. Breaks if removed: no Yuan corridor framing.
 • MEM–CHINA–WAR–SONG–YUAN — Dependency: North China secured (Jin fall); Canal and bulk logic. Breaks if removed: no conquest context.
 • MEM–CHINA–PRC — Dependency: PRC flood control; Yellow River governance. Breaks if removed: no contemporary framing.
+• MEM–CHINA–GEO–PEARL–RIVER — PARALLELS: River cluster (ENTRY 0015); Yellow north cradle/capital supply, Pearl south delta cession–return; humiliation/recovery, Yuan precedent, PRC continuity. Breaks if removed: loss of river-cluster framing.
 
 Scholar: SYNTHESIS 0005; DOCTRINE v0.3; SDI 0001, 0003.
 
@@ -106,9 +113,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.3; SDI 0001, 0003.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Imperial records; Grand Canal and Yellow River engineering documentation.
-Secondary: Cambridge History of China; works on Yellow River, North China Plain, and Grand Canal.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「黄河」「大运河」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; works on Yellow River, North China Plain, and Grand Canal.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–YELLOW–RIVER v3.0
+END OF FILE — MEM–CHINA–GEO–YELLOW–RIVER v3.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 MEM–CHINA–SHANGHAI
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Shanghai (上海) — treaty port, commercial node, PRC megacity
 Dates: Antiquity–Present (treaty port 1842–; concession era; PRC 1949–)
@@ -83,6 +83,12 @@ node remains central, but control shifted from foreign
 concession to party–state.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「上海」— 上海1842年开埠，五口之一，后成最大商埠与租界；1949年后收回，改革开放后复为金融中心。Standard authoritative Chinese-language reference for Shanghai; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: Shanghai opened by Treaty of Nanjing 1842. Breaks if removed: no opener framing.
@@ -100,9 +106,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Treaty texts; concession and municipal records; PRC documentation.
-Secondary: Henry Kissinger — On China; Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「上海」；Encyclopedia of China (ARC–CHINA–T–MODERN); Henry Kissinger — On China; Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–SHANGHAI v3.0
+END OF FILE — MEM–CHINA–SHANGHAI v3.1
 ────────────────────────────────────────────────────────────

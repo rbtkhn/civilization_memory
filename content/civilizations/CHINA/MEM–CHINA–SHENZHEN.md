@@ -1,6 +1,6 @@
 MEM–CHINA–SHENZHEN
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Shenzhen (深圳) — SEZ, reform-era gateway, PRC opening
 Dates: 1980–Present (SEZ established 1980; PRC direct-controlled city)
@@ -47,6 +47,12 @@ PRC did not cede sovereignty; it **created** a zone under
 PRC law where certain rules (tax, foreign ownership, labor)
 differed from the rest of the country. Control remained
 with the party–state.
+
+────────────────────────────────────────────────────────────
+II-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「深圳」「经济特区」— 深圳1980年设经济特区，毗邻香港，改革开放窗口。Standard authoritative Chinese-language reference for Shenzhen and SEZ; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
 
 Key structural features:
 • SEZ (from 1980): one of first four; export and foreign investment
@@ -99,15 +105,15 @@ V. MEM CONNECTIONS
 • MEM–CHINA–CHENGDU — Dependency: Contrast—Shenzhen coastal SEZ vs Chengdu interior. Breaks if removed: loss of interior/coast contrast.
 • MEM–CHINA–DYNASTY–QING — Dependency: Contrast—Qing lost control of coast (treaty ports); PRC designs opening (SEZ). Breaks if removed: no dynasty contrast.
 
-Scholar: DOCTRINE v0.2; SDI 0001, 0002.
+Scholar: DOCTRINE v0.2; SDI 0001, 0002; RLL–CHINA–0003 (cession–return–legitimacy; SEZ as reconstitution).
 
 ────────────────────────────────────────────────────────────
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: PRC SEZ and reform-era documentation; municipal records.
-Secondary: Cambridge History of China; works on Deng era and SEZs.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「深圳」「经济特区」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; works on Deng era and SEZs.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–SHENZHEN v3.0
+END OF FILE — MEM–CHINA–SHENZHEN v3.1
 ────────────────────────────────────────────────────────────

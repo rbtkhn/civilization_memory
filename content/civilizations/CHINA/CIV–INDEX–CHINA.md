@@ -36,7 +36,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–CORE–CHINA — v3.0
 • CIV–SCHOLAR–CHINA — v3.0 (Phase I Accumulation)
-• CIV–ARC–CHINA — v3.0 (Author Admissibility & Temporal Precedence)
+• CIV–ARC–CHINA — v3.3 (Author Admissibility & Temporal Precedence)
 • CIV–DOCTRINE–CHINA — v1.1 (doctrines 01–03; Doctrine 03 scope/contemporary application per DIB–CHINA 2026-02-13)
 • CIV–STATE–CHINA — v1.0 (State File; decision-relevant options)
 
@@ -158,7 +158,7 @@ This index is LOCKED. Additive updates only. No deletions, reordering, or silent
 XI. ACADEMIC REFERENCE CANON (ARC)
 ────────────────────────────────────────────────────────────
 
-• CIV–ARC–CHINA — v3.0
+• CIV–ARC–CHINA — v3.3
 
 Governs author admissibility and temporal precedence for MEM–CHINA files. See CIV–ARC–CHINA for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 

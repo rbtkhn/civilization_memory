@@ -1,6 +1,6 @@
 MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA
 Status: DRAFT
-Version: 1.0
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Pax Mongolica (蒙古治下的和平) — Mongol-era connectivity and universalism
 Dates: c. 1220–1368 (China-facing arc)
@@ -78,6 +78,12 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 Contemporary witness to universal acceptability and movement across Mongol-ruled corridors under Pax; complements Weatherford on paiza and trade.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书、《元史》(ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「元朝」「蒙古」「驿站」— 元朝驿传（站赤）遍及帝国，牌符（牌札）给驿；《元史》载站赤、通政。Standard authoritative Chinese-language reference for Yuan, Mongol, and Yam/relay; cite 《元史》by work name and chapter when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN; 《元史》ARC–CHINA named work.)
+
+────────────────────────────────────────────────────────────
 V. LEGITIMACY & CIVILIZATIONAL ENCODING
 ────────────────────────────────────────────────────────────
 It seems to me that the Pax Mongolica presents a **legitimacy puzzle**:
@@ -137,10 +143,11 @@ VIII. MEM CONNECTIONS
 IX. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
-• 《元史》 History of Yuan
+• 《元史》(Yuan Shi) — History of Yuan; cite by work name and chapter
 • Marco Polo, Ibn Battuta (travel accounts)
 
 Secondary:
+• 中国大百科全书（第三版，zgbk.com）— 条目「元朝」「蒙古」「驿站」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Jack Weatherford — Genghis Khan and the Making of the Modern World
 • Thomas Allsen — Culture and Conquest
 • Morris Rossabi, Nicola Di Cosmo
@@ -148,5 +155,5 @@ Secondary:
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA v1.0
+END OF FILE — MEM–CHINA–MONGOL–EMPIRE–PAX–MONGOLICA v1.1
 ────────────────────────────────────────────────────────────

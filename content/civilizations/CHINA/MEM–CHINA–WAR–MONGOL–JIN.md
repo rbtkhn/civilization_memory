@@ -1,6 +1,6 @@
 MEM–CHINA–WAR–MONGOL–JIN
 Status: DRAFT
-Version: 1.0
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Mongol conquest of the Jin (蒙灭金) — Jurchen campaign, North China, and steppe reversion
 Dates: c. 1211–1234 (major campaigns 1211–1220s; Jin fall 1234)
@@ -72,6 +72,24 @@ Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004
 "For the Mongols, the lifestyle of the peasant seemed incomprehensible. The Jurched territory was filled with so many people and yet so few animals; this was a stark contrast to Mongolia, where there were normally five to ten animals for each human. To the Mongols, the farmers' fields were just grasslands, as were the gardens, and the peasants were like grazing animals rather than real humans who ate meat. The Mongols referred to these grass-eating people with the same terminology that they used for cows and goats. The masses of peasants were just so many herds, and when the soldiers went out to round up their people or to drive them away, they did so with the same terminology, precision, and emotion used in rounding up yaks."
 
 — Weatherford on Mongol–Jin campaign: governance by absence; trample farmland, reversion to pasture; steppe/sedentary encoding (grass-eating people, herds, yaks). Overlap: same verbatim in MEM–CHINA–MONGOL–GENGHIS–KHAN. ARC–CHINA v1.0.
+
+────────────────────────────────────────────────────────────
+IV.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+────────────────────────────────────────────────────────────
+
+John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
+
+"The fact is that war is not the continuation of politics by other means… [Clausewitz] had little to say about oriental war."
+
+John Keegan, *The Mask of Command* (Jonathan Cape, 1987) — applied insight (belief collapse):
+
+— Keegan on collision of war-making cultures and belief collapse: the Mongol–Jin campaign was a **collision of war-making cultures**—steppe mobility and reversion to pasture vs sedentary defense and bureaucratic response. Clausewitz "little of oriental war" applies: Genghis did not fight or settle within a European rational-politics frame; he reverted conquered land to pasture and left. **Belief collapse**: when key Jin strongholds fell and the court was broken, the northern polity lost its linchpin; structural analogue to sovereign flight or fall of decisive node. Encoding divergence: MEM encodes tempo and reversion; Keegan supplies military-historian lens (war-making culture, belief collapse, institutional restraint absent). RLL–CHINA–0001 (Keegan civilization-contrast).
+
+────────────────────────────────────────────────────────────
+IV.C. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「金朝」「蒙金战争」— 金朝于1234年为蒙古所灭；蒙古军北撤后对华北实行毁农为牧之策，与《元史》《金史》及西文史籍相参。Standard authoritative Chinese-language reference for Jin dynasty and Mongol–Jin campaign; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
 
 ────────────────────────────────────────────────────────────
 V. OUTCOME & LEGACY
@@ -147,6 +165,8 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–MONGOL–QUEENS — Dependency: Regency and succession after Genghis; Ögödei continues campaigns. Breaks if removed: no succession context.
 • MEM–CHINA–XIONGNU — Dependency: Steppe precedent; nomadic vs sedentary. Breaks if removed: loss of steppe/sedentary pattern.
 
+Scholar: RLL–CHINA–0001 (Keegan civilization-contrast).
+
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
@@ -156,11 +176,13 @@ Primary:
 
 Secondary:
 • Jack Weatherford — Genghis Khan and the Making of the Modern World
+• John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN)
+• 中国大百科全书（第三版，zgbk.com）— 条目「金朝」「蒙金战争」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Nicola Di Cosmo (steppe, frontier)
 • Thomas Allsen, Morris Rossabi
 
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–MONGOL–JIN v1.0
+END OF FILE — MEM–CHINA–WAR–MONGOL–JIN v1.1
 ────────────────────────────────────────────────────────────

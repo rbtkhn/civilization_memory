@@ -1,6 +1,6 @@
 MEM–CHINA–GEO–PEARL–RIVER
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Pearl River (珠江) — Lingnan delta, Canton–Hong Kong–Shenzhen corridor
 Dates: Antiquity–Present (Canton system; treaty ports and cession; SEZ and SAR)
@@ -100,16 +100,26 @@ V. MEM CONNECTIONS
 • MEM–CHINA–PRC — Dependency: PRC reincorporation of Guangzhou; SEZ Shenzhen; handover Hong Kong/Macau. Breaks if removed: no reconstitution framing.
 • MEM–CHINA–DYNASTY–QING — Dependency: Canton system; Qing cession of Hong Kong. Breaks if removed: no dynasty framing.
 • MEM–CHINA–SHANGHAI — Dependency: Contrast—Yangtze delta (Shanghai treaty port, no cession) vs Pearl River delta (Guangzhou + Hong Kong ceded). Breaks if removed: loss of delta contrast.
+• MEM–CHINA–MACAU — Dependency: Macau as delta cession–return node; handover 1999; same reconstitution corridor as Hong Kong. Breaks if removed: loss of second SAR node.
+• MEM–CHINA–GEO–YELLOW–RIVER — PARALLELS: River cluster (ENTRY 0015); Yellow north cradle, Pearl south delta; humiliation/recovery, PRC continuity. Breaks if removed: loss of north–south river framing.
+• MEM–CHINA–GEO–YANGTZE–RIVER — PARALLELS: River cluster (ENTRY 0015); Yangtze conquest/humiliation corridor, Pearl cession–return corridor. Breaks if removed: loss of river-cluster framing.
+• MEM–CHINA–GRAND–CANAL — PARALLELS: River cluster (ENTRY 0015); Canal links Yellow–Yangtze; Pearl as southern delta cession–return, no canal link. Breaks if removed: loss of corridor contrast.
 
-Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
+Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002; RLL–CHINA–0003 (cession–return–legitimacy).
+
+────────────────────────────────────────────────────────────
+V-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「珠江」「香港」「澳门」— 珠江三角洲含广州、香港、澳门、深圳；香港1842年割让，1997年回归；澳门1999年回归；一国两制。Standard authoritative Chinese-language reference for Pearl River delta and SARs; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
 
 ────────────────────────────────────────────────────────────
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
-Primary: Treaty of Nanjing (1842); Convention of Beijing (1860); PRC documentation; Basic Law (Hong Kong).
-Secondary: Cambridge History of China; Julia Lovell — The Opium War; works on Lingnan and Pearl River delta.
+Primary: Treaty of Nanjing (1842); Convention of Beijing (1860); PRC documentation; Basic Law (Hong Kong) (npc.gov.cn, Chinese text).
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「珠江」「香港」「澳门」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; Julia Lovell — The Opium War; works on Lingnan and Pearl River delta.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–PEARL–RIVER v3.0
+END OF FILE — MEM–CHINA–GEO–PEARL–RIVER v3.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 MEM–CHINA–GEO–YANGTZE–RIVER
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Yangtze River (长江) — heartland corridor, bulk logistics, conquest and humiliation axis
 Dates: Antiquity–Present (Song–Yuan naval pivot; treaty port Shanghai; wartime Chongqing; Grand Canal link)
@@ -85,6 +85,12 @@ MEM–CHINA–SHANGHAI, MEM–CHINA–CHONGQING are the **node MEMs**; this
 file is the **geographic frame** for the Yangtze axis.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「长江」「南京」「上海」— 长江为南北交通与战略轴线，南京、上海为沿江要埠；大运河南端接长江。Standard authoritative Chinese-language reference for Yangtze River and key nodes; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–WAR–SONG–YUAN — Dependency: Yangtze and Han as theater; Xiangyang decisive node. Breaks if removed: no conquest corridor framing.
@@ -97,6 +103,7 @@ V. MEM CONNECTIONS
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: British advanced up Yangtze; Nanjing threatened; treaty ports included Shanghai. Breaks if removed: no humiliation-era framing.
 • MEM–CHINA–WAR–TAIPING–REBELLION — Dependency: Yangtze as Taiping theater; Nanjing as rebel capital 1853–1864; corridor logic. Breaks if removed: no civil-war corridor framing.
 • MEM–CHINA–PRC — Dependency: PRC control of Yangtze; Three Gorges; no concession. Breaks if removed: no contemporary framing.
+• MEM–CHINA–GEO–PEARL–RIVER — PARALLELS: River cluster (ENTRY 0015); Yangtze conquest/humiliation axis, Pearl delta cession–return; Yuan precedent, PRC continuity. Breaks if removed: loss of river-cluster framing.
 
 Scholar: SYNTHESIS 0005; DOCTRINE v0.2, v0.3; SDI 0001, 0002.
 
@@ -104,9 +111,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.2, v0.3; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Imperial and Republican records; Grand Canal and riverine documentation.
-Secondary: Jack Weatherford — Genghis Khan and the Making of the Modern World; Cambridge History of China; works on Yangtze and Grand Canal.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「长江」「南京」「上海」；Encyclopedia of China (ARC–CHINA–T–MODERN); Jack Weatherford — Genghis Khan and the Making of the Modern World; Cambridge History of China; works on Yangtze and Grand Canal.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–YANGTZE–RIVER v3.0
+END OF FILE — MEM–CHINA–GEO–YANGTZE–RIVER v3.1
 ────────────────────────────────────────────────────────────

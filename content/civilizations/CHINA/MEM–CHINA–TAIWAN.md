@@ -1,6 +1,6 @@
 Title: MEM–CHINA–TAIWAN
 Status: ACTIVE
-Version: 1.2
+Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: Taiwan / Formosa (台湾)
 Dates: Antiquity–Present
@@ -178,6 +178,12 @@ Henry Kissinger, *On China* (Penguin Press, 2011); *Diplomacy* (Simon & Schuster
 — Kissinger on Taiwan as contested maritime node; strategic ambiguity in US–PRC relations; island as symbol and leverage. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+X-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「台湾」「台湾海峡」— 台湾为中国第一大岛，与大陆隔台湾海峡；清设省，日据，1945年光复，1949年后两岸分治。Standard authoritative Chinese-language reference for Taiwan and Taiwan Strait; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 XI. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
@@ -186,6 +192,7 @@ Primary:
 • ROC legal and political documents  
 
 Secondary:
+• 中国大百科全书（第三版，zgbk.com）— 条目「台湾」「台湾海峡」；Encyclopedia of China (ARC–CHINA–T–MODERN)
 • Henry Kissinger — On China; Diplomacy  
 • Tonio Andrade  
 • Shelley Rigger  
@@ -194,5 +201,5 @@ Secondary:
 • Rana Mitter  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–TAIWAN v1.2
+END OF FILE — MEM–CHINA–TAIWAN v1.3
 ────────────────────────────────────────────────────────────

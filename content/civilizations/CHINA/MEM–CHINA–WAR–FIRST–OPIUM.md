@@ -1,6 +1,6 @@
 MEM–CHINA–WAR–FIRST–OPIUM
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: First Opium War (第一次鸦片战争) — Anglo-Qing conflict, Treaty of Nanjing
 Dates: 1839–1842 (Lin Zexu and Canton; British expedition; Nanjing 1842)
@@ -91,6 +91,12 @@ John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–M
 — Keegan on institutional restraint and "civilised warfare": the First Opium War was a **collision of war-making cultures**. British warfare was institutional, naval, industrial—state violence in Keegan's "civilised warfare" form. Qing warfare and diplomacy were shaped by tribute system and different assumptions about parity. Clausewitz "little of oriental war" applies directly: the Qing did not fight or negotiate within the European rational-politics frame. The Treaty of Nanjing was imposed because one side could project force and shared norms of restraint were absent. Encoding divergence: MEM encodes humiliation template; Keegan supplies Anglo-American military historiography lens.
 
 ────────────────────────────────────────────────────────────
+IV.C. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「鸦片战争」— 第一次鸦片战争（1840–1842），林则徐虎门销烟后英军沿海北上，清廷战败，《南京条约》割让香港、开五口、赔款、协定关税。Standard authoritative Chinese-language reference for First Opium War and Treaty of Nanjing; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. LEGITIMACY & STRATEGIC MEMORY
 ────────────────────────────────────────────────────────────
 The First Opium War **encoded** the humiliation template: China had
@@ -144,9 +150,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002; RLL–CHINA–0001 (Keeg
 VIII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing edicts; British diplomatic and military records.
-Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
+Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare (ARC–CHINA–T–MODERN); 中国大百科全书（第三版，zgbk.com）— 条目「鸦片战争」；Encyclopedia of China (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; John King Fairbank; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–FIRST–OPIUM v3.0
+END OF FILE — MEM–CHINA–WAR–FIRST–OPIUM v3.1
 ────────────────────────────────────────────────────────────

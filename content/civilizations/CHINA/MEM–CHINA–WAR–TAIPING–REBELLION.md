@@ -1,6 +1,6 @@
-Title: MEM–CHINA–WAR–TAIPING–REBELLION
-Status: LOCKED
-Version: 1.0
+MEM–CHINA–WAR–TAIPING–REBELLION
+Status: DRAFT
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Taiping Rebellion (太平天国运动) — civil war, Heavenly Kingdom, Qing vs Taiping
 Dates: 1850–1864 (uprising 1850; Nanjing capital 1853–1864; fall of Nanjing 1864)
@@ -117,6 +117,26 @@ VII. SOURCE EVIDENCE — ARC (CHINA)
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN)—on Qing collision with the West and late Qing weakness; the Taiping and Second Opium War as overlapping pressures that shaped the humiliation era. Jonathan Spence, *The Search for Modern China*; John King Fairbank—Taiping as civil war and structural condition for late Qing. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
+VII.A. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「太平天国」「洪秀全」「曾国藩」— 太平天国运动（1851–1864），定都天京（南京），湘军围城，1864年天京陷落。Standard authoritative Chinese-language reference for Taiping Rebellion and key figures; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+VII.B. SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST)
+────────────────────────────────────────────────────────────
+
+John Keegan, *A History of Warfare* (Alfred A. Knopf, 1993) (ARC–CHINA–T–MODERN):
+
+"[Clausewitz] had little to say about oriental war."
+
+John Keegan, *The Mask of Command* (Jonathan Cape, 1987) — applied insight (belief collapse):
+
+"When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed."
+
+— Keegan on collision of war-making cultures and belief collapse: the Taiping was a **legitimacy and symbolic war**—mandate vs millenarian kingship—not a European rational-politics clash. Clausewitz "little of oriental war" applies: the contest was who had the right to rule, decided by siege and corridor control. **Belief collapse**: when Nanjing fell (1864), the Taiping polity lost its linchpin; the Heavenly Kingdom "knew" the rebel capital was gone and resistance fragmented. The long siege of Nanjing encodes **mask of command** (Hong Xiuquan in the city, Zeng Guofan outside) and **face of battle** (siege, famine, devastation). Encoding divergence: MEM encodes civil war and weakened Qing; Keegan supplies military-historian lens (belief collapse, war-making culture, siege as decisive node). RLL–CHINA–0001 (Keegan civilization-contrast).
+
+────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–DYNASTY–QING — Dependency: Qing as polity; Taiping as civil war against Qing; Qing weakened. Breaks if removed: no dynasty framing.
@@ -128,13 +148,15 @@ VIII. MEM CONNECTIONS
 • MEM–CHINA–PRC — Dependency: PRC narrative sometimes claims Taiping as proto-revolutionary; humiliation era. Breaks if removed: no contemporary encoding.
 • MEM–CHINA–ROC — Dependency: Republican inheritance; anti-Manchu narrative; Taiping in Republican memory. Breaks if removed: no successor framing.
 
+Scholar: RLL–CHINA–0001 (Keegan civilization-contrast).
+
 ────────────────────────────────────────────────────────────
 IX. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing edicts and military reports; Taiping documents (where preserved).
-Secondary: Jonathan Spence — The Search for Modern China; John King Fairbank — The Great Chinese Revolution; Cambridge History of China; Henry Kissinger — On China; Philip Kuhn — Rebellion and Its Enemies; Stephen Platt — Autumn in the Heavenly Kingdom.
+Secondary: Jonathan Spence — The Search for Modern China; John King Fairbank — The Great Chinese Revolution; 中国大百科全书（第三版，zgbk.com）— 条目「太平天国」「洪秀全」「曾国藩」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; Henry Kissinger — On China; John Keegan — A History of Warfare; The Mask of Command (ARC–CHINA–T–MODERN); Philip Kuhn — Rebellion and Its Enemies; Stephen Platt — Autumn in the Heavenly Kingdom.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–TAIPING–REBELLION v1.0
+END OF FILE — MEM–CHINA–WAR–TAIPING–REBELLION v1.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 MEM–CHINA–NANJING
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Nanjing (南京) — treaty namesake, ROC capital, Yangtze humiliation node
 Dates: Antiquity–Present (Southern capitals; Treaty of Nanjing 1842; ROC capital 1927–1937, 1946–1949; fall 1937)
@@ -88,6 +88,12 @@ Nanjing is reincorporated; the memory of 1842 and
 1937 is preserved without foreign presence.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「南京」「南京条约」— 南京为六朝古都、明初都城；1842年《南京条约》签订，1937年沦陷。Standard authoritative Chinese-language reference for Nanjing and Treaty of Nanjing; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: Treaty of Nanjing 1842 signed at Nanjing; end of war; five ports. Breaks if removed: no treaty-namesake framing.
@@ -105,9 +111,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Treaty of Nanjing (1842); ROC wartime records; PRC documentation.
-Secondary: Julia Lovell — The Opium War; Cambridge History of China; works on Second Sino-Japanese War and Nanking.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「南京」「南京条约」；Encyclopedia of China (ARC–CHINA–T–MODERN); Julia Lovell — The Opium War; Cambridge History of China; works on Second Sino-Japanese War and Nanking.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–NANJING v3.0
+END OF FILE — MEM–CHINA–NANJING v3.1
 ────────────────────────────────────────────────────────────

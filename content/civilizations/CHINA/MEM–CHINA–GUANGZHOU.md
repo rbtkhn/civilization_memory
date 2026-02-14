@@ -1,6 +1,6 @@
 MEM–CHINA–GUANGZHOU
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Guangzhou (广州) — Canton, treaty port, Lingnan gateway
 Dates: Antiquity–Present (Canton system; treaty port 1842–; PRC megacity)
@@ -85,6 +85,12 @@ reform era; Guangzhou retains historical and administrative
 primacy in Lingnan.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「广州」— 广州即古之番禺、近代之 Canton；一口通商时期唯一口岸，1842年《南京条约》开五口之一。Standard authoritative Chinese-language reference for Guangzhou/Canton; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–WAR–FIRST–OPIUM — Dependency: Canton as trigger site (Lin Zexu 1839); one of five treaty ports (1842). Breaks if removed: no opener framing.
@@ -101,9 +107,9 @@ Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002.
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: Qing Canton records; treaty texts; PRC documentation.
-Secondary: Henry Kissinger — On China; Julia Lovell — The Opium War; Cambridge History of China.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「广州」；Encyclopedia of China (ARC–CHINA–T–MODERN); Henry Kissinger — On China; Julia Lovell — The Opium War; Cambridge History of China.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GUANGZHOU v3.0
+END OF FILE — MEM–CHINA–GUANGZHOU v3.1
 ────────────────────────────────────────────────────────────

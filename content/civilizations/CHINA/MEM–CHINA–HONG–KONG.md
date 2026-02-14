@@ -1,6 +1,6 @@
 MEM–CHINA–HONG–KONG
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Hong Kong (香港) — treaty cession, British colony, SAR
 Dates: 1842–Present (ceded Treaty of Nanjing 1842; British colony to 1997; PRC SAR 1997–)
@@ -84,12 +84,21 @@ were negotiated under the shadow of the expiring New
 Territories lease (1997). Hong Kong thus also encodes
 **reconstitution**: territory recovered; sovereignty
 asserted; the same delta that had been ceded was
-again under Chinese sovereignty. The contrast with
-Shenzhen (PRC-designed SEZ, never lost) is structural:
-Shenzhen was created by the PRC next to British Hong
-Kong; after 1997, both are PRC—one SAR, one direct-
-controlled city. MEM–CHINA–GEO–PEARL–RIVER frames the
-delta; Hong Kong is the cession node within it.
+again under Chinese sovereignty. **Return** is the
+legitimacy claim: territory restored, sovereignty
+reasserted—the same delta that was ceded is again
+Chinese. The contrast with Shenzhen (PRC-designed
+SEZ, never lost) is structural: Shenzhen was created
+by the PRC next to British Hong Kong; after 1997,
+both are PRC—one SAR, one direct-controlled city.
+MEM–CHINA–GEO–PEARL–RIVER frames the delta; Hong
+Kong is the cession node within it.
+
+────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书、基本法 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「香港」「一国两制」— 香港1842年割让，1997年回归，设特别行政区。香港特别行政区基本法（npc.gov.cn）规定「国家在对香港恢复行使主权时，设立中华人民共和国香港特别行政区」，「香港特别行政区不实行社会主义制度和政策，保持原有的资本主义制度和生活方式，五十年不变」。Standard authoritative Chinese-language reference and Basic Law (Chinese text); cite entry and npc.gov.cn when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN; Basic Law npc.gov.cn, ARC–CHINA–T-INSTITUTIONAL/OFFICIAL.)
 
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
@@ -103,15 +112,15 @@ V. MEM CONNECTIONS
 • MEM–CHINA–PRC — Dependency: Handover 1997; SAR; reconstitution. Breaks if removed: no contemporary framing.
 • MEM–CHINA–DYNASTY–QING — Dependency: Qing ceded Hong Kong 1842, Kowloon 1860. Breaks if removed: no dynasty framing.
 
-Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002.
+Scholar: SYNTHESIS 0005; DOCTRINE v0.1, v0.2; SDI 0001, 0002; RLL–CHINA–0003 (cession–return–legitimacy).
 
 ────────────────────────────────────────────────────────────
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
-Primary: Treaty of Nanjing (1842); Convention of Beijing (1860); Convention 1898; Sino-British Joint Declaration; Basic Law; PRC documentation.
-Secondary: Cambridge History of China; Julia Lovell — The Opium War; works on Hong Kong and handover.
+Primary: Treaty of Nanjing (1842); Convention of Beijing (1860); Convention 1898; Sino-British Joint Declaration; Basic Law (npc.gov.cn, Chinese text); PRC documentation.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「香港」「一国两制」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; Julia Lovell — The Opium War; works on Hong Kong and handover.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–HONG–KONG v3.0
+END OF FILE — MEM–CHINA–HONG–KONG v3.1
 ────────────────────────────────────────────────────────────

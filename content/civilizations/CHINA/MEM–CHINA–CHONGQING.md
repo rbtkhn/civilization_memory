@@ -1,6 +1,6 @@
 MEM–CHINA–CHONGQING
 Status: DRAFT
-Version: 3.0
+Version: 3.1
 Civilization: CHINA (中华文明)
 Subject: Chongqing (重庆) — wartime capital, Yangtze node, interior redoubt
 Dates: Antiquity–Present (ROC wartime capital 1937–1946; PRC municipality 1997–)
@@ -74,6 +74,12 @@ upriver node integrated into PRC growth and party–state
 control. No foreign concession; sovereignty uninterrupted.
 
 ────────────────────────────────────────────────────────────
+IV-B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「重庆」— 重庆为长江与嘉陵江交汇处，抗战时期国民政府陪都（1937–1946），1997年设为直辖市。Standard authoritative Chinese-language reference for Chongqing; cite entry and edition when quoting. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–CHINA–ROC — Dependency: ROC wartime capital 1937–1946; interior redoubt. Breaks if removed: no wartime framing.
@@ -88,9 +94,9 @@ V. MEM CONNECTIONS
 VI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary: ROC wartime records; PRC administrative documentation.
-Secondary: Cambridge History of China; works on Second Sino-Japanese War.
+Secondary: 中国大百科全书（第三版，zgbk.com）— 条目「重庆」；Encyclopedia of China (ARC–CHINA–T–MODERN); Cambridge History of China; works on Second Sino-Japanese War.
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–CHONGQING v3.0
+END OF FILE — MEM–CHINA–CHONGQING v3.1
 ────────────────────────────────────────────────────────────
