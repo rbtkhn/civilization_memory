@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–SONG
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Song Dynasty (宋)
 Dates: 960–1279 AD
@@ -160,7 +160,13 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension is preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「宋朝」「宋」— 北宋、南宋分期，科举与士大夫，岁币与边防，理学与朱熹等均有权威概述。Standard authoritative Chinese-language reference for Song dynasty, Northern/Southern Song, and institutions. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《宋史》  
@@ -168,6 +174,7 @@ Primary:
 • Song memorials and fiscal records  
 
 Secondary:
+• 中国大百科全书（宋朝、宋；zgbk.com）  
 • Mark Elvin  
 • Peter Bol  
 • Robert Hartwell  

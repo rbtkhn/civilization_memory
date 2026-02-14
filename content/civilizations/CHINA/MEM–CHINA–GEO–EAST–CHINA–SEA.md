@@ -1,6 +1,6 @@
 Title: MEM–CHINA–GEO–EAST–CHINA–SEA
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: East China Sea (东海) — maritime corridor, disputed waters, first-island-chain logic
 Dates: Antiquity–Present (trade and tribute; Senkaku/Diaoyu dispute; contemporary EEZ and projection)
@@ -122,12 +122,18 @@ VI. MEM CONNECTIONS
 • MEM–CHINA–HANGZHOU — Dependency: Hangzhou/Ningbo as historic port region facing East China Sea. Breaks if removed: no historic-trade framing.
 
 ────────────────────────────────────────────────────────────
-VII. PRIMARY & SECONDARY SOURCES
+VII. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
 ────────────────────────────────────────────────────────────
-Primary: PRC white papers and maritime claims; Japanese and ROC positions; UNCLOS and EEZ references.
-Secondary: Cambridge History of China; Kissinger — On China; works on East China Sea disputes, Senkaku/Diaoyu, first island chain.
-ARC Reference: CIV–ARC–CHINA v1.0
+
+中国大百科全书第三版（zgbk.com），条目「东海」「钓鱼岛」— 东海范围、沿岸与岛屿、钓鱼岛/尖阁诸岛争议及中国立场均有权威概述。Standard authoritative Chinese-language reference for East China Sea and Diaoyu/Senkaku. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–GEO–EAST–CHINA–SEA v1.0
+VIII. PRIMARY & SECONDARY SOURCES
+────────────────────────────────────────────────────────────
+Primary: PRC white papers and maritime claims; Japanese and ROC positions; UNCLOS and EEZ references.
+Secondary: 中国大百科全书（东海、钓鱼岛；zgbk.com）；Cambridge History of China; Kissinger — On China; works on East China Sea disputes, Senkaku/Diaoyu, first island chain.
+ARC Reference: CIV–ARC–CHINA v3.3
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–CHINA–GEO–EAST–CHINA–SEA v1.1
 ────────────────────────────────────────────────────────────

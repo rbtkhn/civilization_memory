@@ -1,6 +1,6 @@
 MEM–CHINA–WAR–FIRST–OPIUM
 Status: DRAFT
-Version: 3.1
+Version: 3.2
 Civilization: CHINA (中华文明)
 Subject: First Opium War (第一次鸦片战争) — Anglo-Qing conflict, Treaty of Nanjing
 Dates: 1839–1842 (Lin Zexu and Canton; British expedition; Nanjing 1842)
@@ -43,6 +43,14 @@ No single actor "chose" the war in isolation; structural pressures—
 trade imbalance, opium flows, Lin Zexu's seizure and destruction
 at Canton (1839), British retaliation—produced the conflict;
 British capability produced the outcome.
+
+The outcome also reflects **path dependence**: Ming had ended
+state-sponsored maritime projection (罢舟师，守内治); Qing
+prioritised continental order and northern frontiers. No sustained
+maritime constituency or naval institution had been built; when
+a sea-system power (Britain) demanded terms, the dynasty had
+no maritime lock-in to fall back on—continental lock-in met
+maritime lock-in at Nanjing.
 
 ────────────────────────────────────────────────────────────
 III. CAMPAIGN & SETTLEMENT
@@ -143,8 +151,9 @@ VII. MEM CONNECTIONS
 • MEM–CHINA–PRC — Dependency: PRC encoding of century of humiliation. Breaks if removed: no contemporary encoding.
 • MEM–CHINA–SHANGHAI — Dependency: Shanghai as treaty port opened by Nanjing. Breaks if removed: no port-node framing.
 • MEM–CHINA–BEIJING — Dependency: Contrast—capital not directly struck in First Opium; coastal focus. Breaks if removed: loss of spatial contrast.
+• MEM–CHINA–ZHENGHE — Path dependence: Ming cessation of voyages (罢舟师) and absence of maritime constituency; 1842 as collision of continental lock-in with maritime lock-in. Breaks if removed: loss of path-dependence framing (RLL–CHINA–0004).
 
-Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002; RLL–CHINA–0001 (Keegan civilization-contrast).
+Scholar: SYNTHESIS 0005; DOCTRINE v0.1; SDI 0001, 0002; RLL–CHINA–0001 (Keegan civilization-contrast); RLL–CHINA–0004 (continental vs. maritime lock-in).
 
 ────────────────────────────────────────────────────────────
 VIII. PRIMARY & SECONDARY SOURCES
@@ -154,5 +163,5 @@ Secondary: Henry Kissinger — On China; John Keegan — A History of Warfare (A
 ARC Reference: CIV–ARC–CHINA v1.0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–WAR–FIRST–OPIUM v3.1
+END OF FILE — MEM–CHINA–WAR–FIRST–OPIUM v3.2
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–QING
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Qing Dynasty (清)
 Dates: 1644–1912 AD
@@ -165,6 +165,12 @@ XI. CONTINUITY INSIGHTS (RAW)
 Tensions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+XI.B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「清朝」「清」— 满族入关、康雍乾、鸦片战争与近代条约及清亡均有权威概述。Standard authoritative Chinese-language reference for Qing dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 XII. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
@@ -185,6 +191,7 @@ Primary:
 • Banner and fiscal records  
 
 Secondary:
+• 中国大百科全书（清朝、清；zgbk.com）  
 • Henry Kissinger — On China  
 • 钱穆  
 • 赵冈  
@@ -192,5 +199,5 @@ Secondary:
 • Philip Kuhn  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–DYNASTY–QING v1.1
+END OF FILE — MEM–CHINA–DYNASTY–QING v1.2
 ────────────────────────────────────────────────────────────

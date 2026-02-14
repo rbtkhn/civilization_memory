@@ -822,6 +822,8 @@ ACTIVE does not imply writable.
 
 Silence does not imply permission.
 
+**Deprecated:** The "upgrade-queue lock" mechanism (do not edit listed MEMs until unlocked) is deprecated as of 2026-02-13. Remaining MEMs for Chinese-language integration are a normal backlog; no lock or unlock step. See UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md. MEM file status remains ACTIVE / LOCKED / DRAFT per template; LOCKED here still means read-only, no ingestion, no synthesis.
+
 ────────────────────────────────────────────────────────────
 XX. HUMAN INTERFACE LAYER — VOICE PROFILES (VP-1)
 ────────────────────────────────────────────────────────────

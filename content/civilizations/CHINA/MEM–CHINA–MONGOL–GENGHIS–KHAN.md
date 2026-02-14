@@ -1,5 +1,5 @@
 MEM–CHINA–MONGOL–GENGHIS–KHAN
-Status: LOCKED
+Status: ACTIVE
 Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: Genghis Khan (Chinggis Khan, scholarly variant; 成吉思汗)
@@ -130,7 +130,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
+X. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「成吉思汗」「蒙古」— 铁木真统一蒙古、大蒙古国建立及西征均有权威概述。Standard authoritative Chinese-language reference for Genghis Khan and Mongol formation. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+X.B. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004) (ARC–CHINA–T–MODERN):
@@ -157,6 +163,7 @@ Primary:
 • Persian and steppe chronicles
 
 Secondary:
+• 中国大百科全书（成吉思汗、蒙古；zgbk.com）  
 • Thomas Allsen  
 • Jack Weatherford  
 • Frank McLynn  

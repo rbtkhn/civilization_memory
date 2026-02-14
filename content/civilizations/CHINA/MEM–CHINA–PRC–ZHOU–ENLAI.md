@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–ZHOU–ENLAI
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Zhou Enlai (周恩来)
@@ -165,7 +165,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+X. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「周恩来」— 周恩来生平、外交与文革处境均有权威概述。Standard authoritative Chinese-language reference for Zhou Enlai. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+X.B. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
@@ -209,6 +215,7 @@ Primary:
 • Bandung Conference documents (1955)  
 
 Secondary:
+• 中国大百科全书（周恩来；zgbk.com）  
 • Chen Jian — Zhou Enlai: A Life (Harvard University Press, 2024)  
 • Henry Kissinger — On China; White House Years  
 • Barbara Barnouin & Yu Changgen — Zhou Enlai: A Political Life  
@@ -217,5 +224,5 @@ Secondary:
 • Odd Arne Westad  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–ZHOU–ENLAI v1.0
+END OF FILE — MEM–CHINA–PRC–ZHOU–ENLAI v1.1
 ────────────────────────────────────────────────────────────

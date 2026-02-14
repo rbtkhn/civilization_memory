@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–YUAN
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Yuan Dynasty (元)
 Dates: 1271–1368 AD
@@ -154,7 +154,13 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XI. SOURCE EVIDENCE — MARCO POLO (ARC–CHINA)
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「元朝」「元」— 忽必烈建元、蒙古色目汉人南人四等、交钞与财政、科举一度废止及元亡等均有权威概述；与《元史》相参。Standard authoritative Chinese-language reference for Yuan dynasty and institutions. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XI.B. SOURCE EVIDENCE — MARCO POLO (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 Marco Polo, *Il Milione* (trans. Henry Yule, 3rd ed. rev. Henri Cordier, 1903), Book Second, Part I, Chapter XXIV — paper currency (交钞) under Kublai:
 
@@ -171,7 +177,8 @@ Primary:
 • 元代诏令与财政文书  
 
 Secondary:
-• 钱穆  
+• 中国大百科全书（元朝、元；zgbk.com）  
+• 钱穆《国史大纲》  
 • 陈寅恪  
 • Herbert Franke  
 • Morris Rossabi  

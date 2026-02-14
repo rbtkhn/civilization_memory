@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LIT–ROMANCE–THREE–KINGDOMS
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Domain: NARRATIVE LITERATURE (演义)
 Subject: Romance of the Three Kingdoms (三国演义)
@@ -178,18 +178,25 @@ IX. MEM CONNECTIONS
 • CIV–ARC–CHINA — Dependency: Chen Shou (Sanguozhi) is ARC–CHINA–T–ANCIENT; Romance refashions his record. Breaks if removed: no historical-source framing.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY TEXT & REFERENCES
+X. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「三国演义」「三国志」— 《三国演义》成书、罗贯中与毛本及《三国志》史源均有权威概述。Standard authoritative Chinese-language reference for Romance of the Three Kingdoms and Sanguozhi. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《三国演义》 Luo Guanzhong (received Ming editions; Mao Zonggang 毛宗岗 revision)
 • 《三国志》 Chen Shou — Sanguozhi (Records of the Three Kingdoms) — ARC–CHINA–T–ANCIENT
 
 Secondary:
+• 中国大百科全书（三国演义、三国志；zgbk.com）  
 • Moss Roberts — Three Kingdoms (translation and introduction)
 • C.T. Hsia — The Classic Chinese Novel
 • Andrew Plaks — Four Masterworks of the Ming Novel
 • Christopher C. Rand — "Li Ch'üan and Chinese Military Thought"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LIT–ROMANCE–THREE–KINGDOMS v1.0
+END OF FILE — MEM–CHINA–LIT–ROMANCE–THREE–KINGDOMS v1.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–DENG–XIAOPING
-Status: LOCKED
-Version: 1.2
+Status: ACTIVE
+Version: 1.3
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Deng Xiaoping (邓小平)
@@ -163,7 +163,13 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「邓小平」— 邓小平生平、改革开放及南巡均有权威概述。Standard authoritative Chinese-language reference for Deng Xiaoping. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XI.B. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
@@ -182,6 +188,7 @@ Primary:
 • CCP reform-era documents  
 
 Secondary:
+• 中国大百科全书（邓小平；zgbk.com）  
 • Henry Kissinger — On China  
 • Ezra Vogel  
 • Barry Naughton  
@@ -189,5 +196,5 @@ Secondary:
 • Odd Arne Westad  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–DENG–XIAOPING v1.2
+END OF FILE — MEM–CHINA–PRC–DENG–XIAOPING v1.3
 ────────────────────────────────────────────────────────────

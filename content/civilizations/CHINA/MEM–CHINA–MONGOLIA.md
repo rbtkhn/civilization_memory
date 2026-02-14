@@ -1,6 +1,6 @@
 Title: MEM–CHINA–MONGOLIA
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Mongolia / Mongolian Plateau Interface Zone (蒙古高原)
 Dates: Ancient–Modern (continuity zone; rotating polities)
@@ -179,7 +179,13 @@ X. OPTIONAL TAGS (INDEXING)
 • FRONTIER-LEGITIMACY-STRESS
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「蒙古」「蒙古高原」— 蒙古地缘、游牧与历代北族政权均有权威概述。Standard authoritative Chinese-language reference for Mongolia and the steppe-interface zone. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary (Chinese, by era):
 • 《史记》 / 《汉书》
@@ -188,11 +194,12 @@ Primary (Chinese, by era):
 • Qing frontier edicts and records
 
 Secondary (indicative):
+• 中国大百科全书（蒙古、蒙古高原；zgbk.com）  
 • Thomas J. Barfield (frontier & shadow-empire models)
 • Nicola Di Cosmo (steppe–agrarian interaction)
 • 2022–2025 paleoclimate studies (tree-ring, lake sediment)
 • 2023–2025 archaeology and ancient DNA on steppe multi-ethnicity
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–MONGOLIA v1.1
+END OF FILE — MEM–CHINA–MONGOLIA v1.2
 ────────────────────────────────────────────────────────────

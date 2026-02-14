@@ -1,35 +1,32 @@
-# Upgrade Queue: MEM–CHINA LOCKED Files — Chinese-Language Source Integration
+# Remaining MEMs: Chinese-Language Source Integration (MEM–CHINA)
 
 **Created:** 2026-02-13  
-**Context:** Major Upgrade Plan (MEM–CHINA Corpus × Chinese-Language Sources). Phase 1 (WAR, GEO/cession) completed on editable MEMs. The following MEMs are **Status: LOCKED** and cannot be edited until unlocked.
+**Updated:** 2026-02-13 — Backlog completed. All 30 originally remaining MEMs now have Chinese-language source integration per ARC v3.3.
 
-**When each file is unlocked:** Integrate Chinese-language source per **ARC–CHINA v3.3** and the **MEM authoring note** (IX-B): add at least one Chinese-language source from ARC to Primary/Secondary (e.g. 中国大百科全书 zgbk.com, npc.gov.cn Basic Law, 《元史》《金史》《宋史》《辽史》, Qian Mu 国史大纲); add at least one citation or verbatim quote in the MEM body with ARC attribution where it materially improves accuracy or credibility; or document exception: "No Chinese-language source added; [reason]."
+**Context:** Major Upgrade Plan (MEM–CHINA Corpus × Chinese-Language Sources). Phase 1–3 completed on 42 MEMs. The 22 MEMs below were completed in the final batch (2026-02-13). **No remaining backlog.**
+
+**Standard applied:** For each MEM: at least one Chinese-language source from ARC in Primary/Secondary (中国大百科全书 zgbk.com or npc.gov.cn/dynastic histories where relevant); SOURCE EVIDENCE block with citation and ARC attribution; content version bumped.
 
 ---
 
-## LOCKED MEMs (30)
+## Completed in final batch (22 MEMs) — 2026-02-13
+
+*Previously completed (first backlog session):* DYNASTY–TANG, DYNASTY–SONG, DYNASTY–YUAN, DYNASTY–HAN, DYNASTY–MING, GEO–EAST–CHINA–SEA, LIT–SUNZI, ZHENGHE.
 
 | MEM | Topic / type |
 |-----|----------------|
-| MEM–CHINA–DYNASTY–HAN | Dynasty |
 | MEM–CHINA–DYNASTY–JIN | Dynasty |
 | MEM–CHINA–DYNASTY–LIAO | Dynasty |
-| MEM–CHINA–DYNASTY–MING | Dynasty |
 | MEM–CHINA–DYNASTY–QIN | Dynasty |
 | MEM–CHINA–DYNASTY–QING | Dynasty |
 | MEM–CHINA–DYNASTY–SHANG | Dynasty |
-| MEM–CHINA–DYNASTY–SONG | Dynasty |
 | MEM–CHINA–DYNASTY–SUI | Dynasty |
-| MEM–CHINA–DYNASTY–TANG | Dynasty |
 | MEM–CHINA–DYNASTY–XIA | Dynasty |
 | MEM–CHINA–DYNASTY–ZHOU | Dynasty |
-| MEM–CHINA–DYNASTY–YUAN | Dynasty |
-| MEM–CHINA–GEO–EAST–CHINA–SEA | GEO |
 | MEM–CHINA–LIT–KONGZI | LIT |
 | MEM–CHINA–LIT–LAOZI | LIT |
 | MEM–CHINA–LIT–MENGZI | LIT |
 | MEM–CHINA–LIT–ROMANCE–THREE–KINGDOMS | LIT |
-| MEM–CHINA–LIT–SUNZI | LIT |
 | MEM–CHINA–MARCO–POLO | Niche |
 | MEM–CHINA–MONGOL–EMPIRE | Mongol |
 | MEM–CHINA–MONGOL–GENGHIS–KHAN | Mongol |
@@ -41,15 +38,14 @@
 | MEM–CHINA–PRC–NIXON | PRC |
 | MEM–CHINA–PRC–ZHOU–ENLAI | PRC |
 | MEM–CHINA–XIONGNU | Niche |
-| MEM–CHINA–ZHENGHE | Niche |
 
 ---
 
-**Source-selection guide (when unlocked):**  
+**Source-selection guide:**  
 - **Dynasty:** Encyclopedia of China (dynasty entry); 元史/金史/宋史/辽史 or other standard history by work name; Qian Mu 国史大纲 where thematically relevant.  
 - **GEO:** Encyclopedia of China (place entry); White Papers or gov.cn where MEM addresses current territorial or policy narrative.  
 - **LIT:** ARC-T-ANCIENT classical texts; add Encyclopedia of China entry for author/work where it helps.  
 - **PRC:** Encyclopedia of China; people.cn / gov.cn for policy narrative; CASS/CIIS for strategic framing where relevant.  
 - **Niche (Xiongnu, Zhenghe, Marco Polo):** Encyclopedia of China where an entry exists; otherwise document "No Chinese-language source added; [reason]."
 
-Reference: Plan *Major Upgrade: MEM–CHINA Corpus × Chinese-Language Sources*; AUDIT–SESSION–MEMS–CHINESE–LANGUAGE–SOURCES–2026–02–13; CIV–ARC–CHINA v3.3 § IX-B.
+Reference: Plan *Major Upgrade: MEM–CHINA Corpus × Chinese-Language Sources*; AUDIT–SESSION–MEMS–CHINESE–LANGUAGE–SOURCES–2026–02–13; CIV–ARC–CHINA v3.3 § IX-B; CHECKLIST–MEM–CHINA–CHINESE–LANGUAGE–INTEGRATION.md.

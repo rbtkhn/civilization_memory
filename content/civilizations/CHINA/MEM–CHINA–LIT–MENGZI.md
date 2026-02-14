@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LIT–MENGZI
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.2
 Civilization: CHINA (中华文明)
 Domain: POLITICAL–ETHICAL LITERATURE (儒学)
 Subject: Mengzi / Mencius (孟子)
@@ -180,17 +180,24 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY TEXT & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「孟子」「孟子」— 孟子生平、性善论与仁政及《孟子》成书均有权威概述。Standard authoritative Chinese-language reference for Mengzi and the Mencius. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《孟子》 Mencius  
 
 Secondary:
+• 中国大百科全书（孟子；zgbk.com）  
 • Benjamin Schwartz  
 • Irene Bloom  
 • Bryan Van Norden  
 • Mark Edward Lewis  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LIT–MENGZI v1.1
+END OF FILE — MEM–CHINA–LIT–MENGZI v1.2
 ────────────────────────────────────────────────────────────

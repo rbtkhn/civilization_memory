@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–MAO–ZEDONG
-Status: LOCKED
-Version: 1.2
+Status: ACTIVE
+Version: 1.3
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Mao Zedong (毛泽东)
@@ -187,11 +187,12 @@ Primary:
 • Cultural Revolution materials  
 
 Secondary:
+• 中国大百科全书（毛泽东；zgbk.com）  
 • Roderick MacFarquhar  
 • Frederick Teiwes  
 • Maurice Meisner  
 • Odd Arne Westad  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–MAO–ZEDONG v1.2
+END OF FILE — MEM–CHINA–PRC–MAO–ZEDONG v1.3
 ────────────────────────────────────────────────────────────

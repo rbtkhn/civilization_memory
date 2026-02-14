@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LIT–LAOZI
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.2
 Civilization: CHINA (中华文明)
 Domain: PHILOSOPHICAL–STRATEGIC LITERATURE (道学)
 Subject: Laozi / Lao Tzu (老子)
@@ -164,17 +164,24 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY TEXT & REFERENCES
+X. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「老子」「道德经」— 老子与《道德经》成书、道家思想及影响均有权威概述。Standard authoritative Chinese-language reference for Laozi and Dao De Jing. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《道德经》 (received text; Mawangdui & Guodian manuscripts)
 
 Secondary:
+• 中国大百科全书（老子、道德经；zgbk.com）  
 • D.C. Lau  
 • Roger Ames  
 • Benjamin Schwartz  
 • Edward Slingerland  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LIT–LAOZI v1.1
+END OF FILE — MEM–CHINA–LIT–LAOZI v1.2
 ────────────────────────────────────────────────────────────

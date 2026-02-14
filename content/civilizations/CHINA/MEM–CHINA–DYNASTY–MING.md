@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–MING
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Ming Dynasty (明)
 Dates: 1368–1644 AD
@@ -151,13 +151,20 @@ X. CONTINUITY INSIGHTS (RAW)
 Tensions retained without resolution.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「明朝」「明」— 朱元璋建明、废相与内阁、卫所与边防、郑和下西洋及晚明危机等均有权威概述。Standard authoritative Chinese-language reference for Ming dynasty and institutions. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《明史》 History of Ming  
 • Ming imperial edicts and legal codes  
 
 Secondary:
+• 中国大百科全书（明朝、明；zgbk.com）  
 • 黄仁宇《万历十五年》  
 • 顾诚  
 • Ray Huang  

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–MARCO–POLO
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Marco Polo (马可·波罗)
 Dates: 1254–1324
@@ -154,7 +154,13 @@ X. OPTIONAL TAGS (INDEXING)
 • EUROPEAN-IMAGINATION  
 
 ────────────────────────────────────────────────────────────
-XI. SOURCE EVIDENCE — MARCO POLO (PRIMARY TEXT · VERBATIM)
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「马可·波罗」— 马可·波罗东来、《马可·波罗行记》及元大都见闻均有权威概述。Standard authoritative Chinese-language reference for Marco Polo and Il Milione in Chinese scholarship. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XI.B. SOURCE EVIDENCE — MARCO POLO (PRIMARY TEXT · VERBATIM)
 ────────────────────────────────────────────────────────────
 Marco Polo and Rustichello of Pisa, *Il Milione* / *The Book of Ser Marco Polo* (trans. Henry Yule, 3rd ed. rev. Henri Cordier, London: John Murray, 1903), Book Second, Part I, Chapter XXIV — "How the Great Kaan Causeth the Bark of Trees, Made into Something Like Paper, to Pass for Money over All His Country":
 
@@ -168,6 +174,7 @@ Primary:
 • *Il Milione* / 《马可·波罗行记》 (Yule–Cordier ed. 1903 for verbatim citation)
 
 Secondary:
+• 中国大百科全书（马可·波罗；zgbk.com）  
 • Hans Ulrich Vogel, *Marco Polo Was in China* (2013)  
 • Stephen G. Haw  
 • Sharon Kinoshita (2025)  
@@ -176,5 +183,5 @@ Secondary:
 • Morris Rossabi  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–MARCO–POLO v1.1
+END OF FILE — MEM–CHINA–MARCO–POLO v1.2
 ────────────────────────────────────────────────────────────

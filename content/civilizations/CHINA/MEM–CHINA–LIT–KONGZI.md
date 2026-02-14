@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LIT–KONGZI
-Status: LOCKED
-Version: 1.2
+Status: ACTIVE
+Version: 1.3
 Civilization: CHINA (中华文明)
 Domain: POLITICAL–ETHICAL LITERATURE (儒学)
 Subject: Kongzi / Confucius (孔子)
@@ -179,13 +179,20 @@ Henry Kissinger, *On China* (Penguin Press, 2011); *World Order* (Penguin Press,
 — Kissinger on Confucian order as civilizational grammar; hierarchy vs. Westphalian sovereignty; governance legitimacy through ritualized order. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY TEXT & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「孔子」「论语」— 孔子生平、儒家与《论语》成书及影响均有权威概述。Standard authoritative Chinese-language reference for Kongzi and the Analects. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《论语》 Analects  
 • 《礼记》 Book of Rites  
 
 Secondary:
+• 中国大百科全书（孔子、论语；zgbk.com）  
 • Henry Kissinger — On China; World Order  
 • Benjamin Schwartz  
 • Tu Weiming  
@@ -193,5 +200,5 @@ Secondary:
 • Yuri Pines  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LIT–KONGZI v1.2
+END OF FILE — MEM–CHINA–LIT–KONGZI v1.3
 ────────────────────────────────────────────────────────────

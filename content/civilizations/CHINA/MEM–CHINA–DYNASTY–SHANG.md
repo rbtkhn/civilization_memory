@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–SHANG
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Shang Dynasty (商)
 Dates: c. 1600–1046 BCAD
@@ -158,13 +158,20 @@ X. CONTINUITY INSIGHTS (RAW)
 Tensions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「商朝」「商」— 商代世系、甲骨文、都邑与制度均有权威概述。Standard authoritative Chinese-language reference for Shang dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Oracle bone inscriptions (甲骨文)  
 • 《尚书》 (early Shang references)  
 
 Secondary:
+• 中国大百科全书（商朝、商；zgbk.com）  
 • 李学勤  
 • 许倬云  
 • K.C. Chang  

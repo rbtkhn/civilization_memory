@@ -1,5 +1,5 @@
 Title: MEM–CHINA–MONGOL–EMPIRE
-Status: LOCKED
+Status: ACTIVE
 Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: Mongol Empire (蒙古帝国)
@@ -189,6 +189,12 @@ Marco Polo — *Il Milione* (scale of empire and administration):
 Contemporary witness to the extent of Mongol sovereignty and to Yuan administrative reach across kingdoms and provinces.
 
 ────────────────────────────────────────────────────────────
+XIII.B. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「蒙古」「元朝」「成吉思汗」— 蒙古帝国形成、西征与四大汗国、元朝建政及与《元史》相参均有权威概述。Standard authoritative Chinese-language reference for Mongol Empire and Yuan. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
 XIV. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
@@ -196,6 +202,7 @@ Primary:
 • Mongol legal and administrative records  
 
 Secondary:
+• 中国大百科全书（蒙古、元朝、成吉思汗；zgbk.com）  
 • Henry Kissinger — On China  
 • Jack Weatherford — Genghis Khan and the Making of the Modern World  
 • Thomas Allsen, *Culture and Conquest*  
@@ -206,5 +213,5 @@ Secondary:
 • Nancy Steinhardt (Yuan architecture, 2023)  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–MONGOL–EMPIRE v1.2
+END OF FILE — MEM–CHINA–MONGOL–EMPIRE v1.3
 ────────────────────────────────────────────────────────────

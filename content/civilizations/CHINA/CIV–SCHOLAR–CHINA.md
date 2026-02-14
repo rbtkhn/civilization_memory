@@ -608,7 +608,7 @@ State: FROZEN
 Refinement: SYNTHESIS 0013 accepted (DIB–CHINA 2026-02-13); CIV–DOCTRINE–CHINA v1.1 (Scope and Contemporary Application)
 
 ────────────────────────────────────────────────────────────
-XVIII.A. RLL REGISTRY (0001, 0002, 0003 BINDING per Section III)
+XVIII.A. RLL REGISTRY (0001, 0002, 0003 BINDING per Section III; 0004 STAGED)
 ────────────────────────────────────────────────────────────
 
 RLL–CHINA–0001 (CONFIRMED)
@@ -670,6 +670,25 @@ Derivation: LEARN session 2026-02 (river cluster, Pearl delta, Alsace–Lorraine
 Validation: TEST–RLL–CHINA–0003–14TH–CENTURY–ARC–EXPANDED (Yuan/Ming 1368); TEST–RLL–CHINA–0003–9TH–CENTURY–ARC–EXPANDED (Tang Xianzong 805–820); TEST–RLL–CHINA–0003–TREATY–CESSION–HONG–KONG–1842; TEST–RLL–CHINA–0003–NEGATIVE–ALASKA–1867 (scope limit). Promoted 2026-02-13.
 
 Status: CONFIRMED — BINDING (activated 2026-02-13). Scope limit: voluntary sale/transfer without legitimacy crisis excluded. See Section III RLL Authority exception.
+
+RLL–CHINA–0004 (STAGED)
+Scope: China civilization; MEM authoring; maritime vs. continental path dependence; treaty-cession and naval-defeat moments
+Constraint Type: Path-dependence / cross-civilisational encoding
+
+Constraint Statement:
+When MEM–CHINA documents Ming/Qing maritime policy, cessation of voyages (罢舟师), First Opium War, or treaty-cession moments (e.g. 1842), the author **MAY** encode the pattern **continental vs. maritime lock-in**: where a civilisation's survival and legitimacy are tied to continental order and frontiers, maritime capability remains optional and is not institutionalised; where they are tied to sea lanes and commerce, maritime–naval lock-in follows. Treaty-cession or naval-defeat moments can express prior path choice (continental lock-in meeting maritime lock-in), not only military or diplomatic failure. Cross-civilisational comparison (e.g. Anglia, Netherlands) may illustrate the contrast. No requirement to resolve tension; pattern is optional (MAY) for Phase I.
+
+**Scope / limit:** Apply when maritime deficit, path dependence, or collision with sea-system powers is thematized. Do not assert as single cause of cession; use as one lens among others (e.g. RLL–CHINA–0003 cession–return–legitimacy remains primary for legitimacy encoding).
+
+**Mercouris derivation:** Legitimacy and institutional continuity tied to inner order vs. sea; 罢舟师 as civilisational choice.
+**Mearsheimer derivation:** Structural incentive—where survival constraint bites (continent vs. sea) drives institutional lock-in.
+**Barnes derivation:** Who was on the hook for the maritime bet (or for doubling down on continent)?
+
+Activation Trigger: Authoring or revising MEM–CHINA that treats Ming/Qing maritime policy, treasure voyages' end, First Opium War, or treaty-cession in path-dependence context.
+Affected File Classes: MEM–CHINA–WAR–FIRST–OPIUM; MEM–CHINA–ZHENGHE; MEM–CHINA–DYNASTY–MING; MEM–CHINA–DYNASTY–QING; MEM–CHINA–* where maritime deficit or path dependence is thematized
+Derivation: LEARN session 2026-02 (Ming cessation, Qing continental path, Anglia/Netherlands maritime lock-in, Opium War as collision); synthesis H follow-on (c).
+
+Status: STAGED — Phase I candidate; not binding. To activate, add to Section III RLL Authority exception per user authorization.
 
 ────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
@@ -749,6 +768,7 @@ Frozen Syntheses: 3
 Total Syntheses: 14
 SDI Entries: 5
 RLLs Binding: 3 (RLL–CHINA–0001, 0002, 0003; activated 2026-02-13)
+RLLs Staged: 1 (RLL–CHINA–0004; continental vs. maritime lock-in; not binding)
 
 ────────────────────────────────────────────────────────────
 XXII. OGE SPECIFICATION (DETAIL)

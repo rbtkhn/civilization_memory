@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–TANG
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Tang Dynasty (唐)
 Dates: 618–907 AD
@@ -145,7 +145,13 @@ X. CONTINUITY INSIGHTS (RAW)
 • Later dynasties emulate Tang symbolism without Tang conditions.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「唐朝」「唐」— 唐立国618年，亡于907年；三省六部、均田、科举、安史之乱及藩镇割据等建制与变故均有权威概述。Standard authoritative Chinese-language reference for Tang dynasty, institutions, and decline. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《旧唐书》 Old Book of Tang  
@@ -153,8 +159,9 @@ Primary:
 • 《唐律》 Tang Code  
 
 Secondary:
-• 柳诒徵《国史大纲》  
-• 钱穆《国史新论》  
+• 中国大百科全书（唐朝、唐；zgbk.com）  
+• 钱穆《国史大纲》  
+• 柳诒徵、钱穆《国史新论》  
 • 陈寅恪《唐代政治史述论稿》  
 • Denis Twitchett  
 • Charles Benn  

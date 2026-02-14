@@ -1,6 +1,6 @@
 Title: MEM–CHINA–XIONGNU
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.2
 Last Update: December 2025
 Word Count: ~2,000Civilization: CHINA (中华文明)
 Subject: Xiongnu Confederation (匈奴)
@@ -161,17 +161,24 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Archaeology/genetics confirm a multi-ethnic confederation with elite lineages.
 
 ────────────────────────────────────────────────────────────
-XII. PRIMARY & SECONDARY SOURCES
+XII. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「匈奴」— 匈奴起源、与汉和战、南北匈奴及考古均有权威概述；与《史记》《汉书》相参。Standard authoritative Chinese-language reference for Xiongnu. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XIII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《史记·匈奴列传》  
 • 《汉书》  
 
 Secondary:
+• 中国大百科全书（匈奴；zgbk.com）  
 • Thomas Barfield — *The Perilous Frontier*  
 • Nicola Di Cosmo — *Ancient China and Its Enemies*  
 • Miller et al. — Xiongnu archaeology & elite genetics  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–XIONGNU v1.1
+END OF FILE — MEM–CHINA–XIONGNU v1.2
 ────────────────────────────────────────────────────────────

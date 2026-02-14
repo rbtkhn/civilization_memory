@@ -1,9 +1,9 @@
 MEM–CHINA–DYNASTY–QIN — v1.0
 Civilizational Memory Codex · Memory File
-LOCKED · CANONICAL
+ACTIVE · CANONICAL
 
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Class: MEM (Civilizational Memory)
 Word Count: ~2,000
 Civilization: CHINA (中华文明)
@@ -159,13 +159,20 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「秦朝」「秦」— 秦统一、郡县、律令及二世而亡均有权威概述。Standard authoritative Chinese-language reference for Qin dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《史记·秦始皇本纪》 Records of the Grand Historian  
 • Qin legal texts and inscriptions  
 
 Secondary:
+• 中国大百科全书（秦朝、秦；zgbk.com）  
 • 司马迁  
 • 钱穆  
 • 李零  

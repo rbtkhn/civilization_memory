@@ -1,8 +1,8 @@
 MEM–CHINA–DYNASTY–SUI
 China Memory · Sui Dynasty (隋朝)
 
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Class: MEM (Civilizational Memory)
 Word Count: ~2,000Civilization: CHINA (中华文明)
 Dynasty: SUI (隋)
@@ -164,20 +164,27 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「隋朝」「隋」— 隋统一、大运河、科举与制度及隋亡唐兴均有权威概述；与《隋书》相参。Standard authoritative Chinese-language reference for Sui dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《隋书》 Book of Sui  
 • Sui legal codes and edicts  
 
 Secondary:
+• 中国大百科全书（隋朝、隋；zgbk.com）  
 • 钱穆  
 • 陈寅恪  
 • Victor Cunrui Xiong  
 • Arthur Wright  
 
 ────────────────────────────────────────────────────────────
-XII. ELEVATION NOTES
+XIII. ELEVATION NOTES
 ────────────────────────────────────────────────────────────
 This MEM file satisfies:
 • Native-language proportion rule  
@@ -194,5 +201,5 @@ Evaluator Notes:
 [Pending]
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–DYNASTY–SUI v1.0
+END OF FILE — MEM–CHINA–DYNASTY–SUI v1.1
 ────────────────────────────────────────────────────────────

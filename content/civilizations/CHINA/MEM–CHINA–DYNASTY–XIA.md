@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–XIA
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Xia Dynasty (夏)
 Dates: c. 2070–1600 BCAD (traditional chronology)
@@ -151,13 +151,20 @@ X. CONTINUITY INSIGHTS (RAW)
 Tensions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY & SECONDARY SOURCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「夏朝」「夏」— 夏代传说与考古、世系及三代叙事均有权威概述。Standard authoritative Chinese-language reference for Xia dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary (later tradition):
 • 《尚书》 Book of Documents  
 • 《史记》 Records of the Grand Historian  
 
 Secondary:
+• 中国大百科全书（夏朝、夏；zgbk.com）  
 • 司马迁  
 • 李学勤  
 • 许倬云  

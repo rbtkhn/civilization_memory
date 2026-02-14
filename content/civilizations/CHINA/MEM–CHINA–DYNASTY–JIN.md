@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–JIN
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Jin Dynasty (金)
 Dates: 1115–1234 AD
@@ -155,18 +155,25 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension is preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「金朝」「金」— 女真建金、灭辽与北宋、双轨制与汉化及蒙灭金等均有权威概述；与《金史》相参。Standard authoritative Chinese-language reference for Jin dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《金史》  
 • Jin edicts and legal records  
 
 Secondary:
+• 中国大百科全书（金朝、金；zgbk.com）  
 • 陈寅恪  
 • 钱穆  
 • Herbert Franke  
 • Denis Twitchett  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–DYNASTY–JIN v1.0
+END OF FILE — MEM–CHINA–DYNASTY–JIN v1.1
 ────────────────────────────────────────────────────────────

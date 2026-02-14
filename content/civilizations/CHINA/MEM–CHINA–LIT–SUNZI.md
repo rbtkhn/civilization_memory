@@ -1,6 +1,6 @@
 Title: MEM–CHINA–LIT–SUNZI
-Status: LOCKED
-Version: 1.2
+Status: ACTIVE
+Version: 1.3
 Civilization: CHINA (中华文明)
 Domain: STRATEGIC LITERATURE (兵学)
 Subject: Sunzi / Sun Tzu (孙子)
@@ -182,12 +182,19 @@ Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
 — Kissinger on Sunzi as enduring strategic grammar; Chinese vs. Western strategic culture; classical principles in modern statecraft. ARC–CHINA v1.0.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY TEXT & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「孙子」「孙子兵法」— 孙武与《孙子兵法》成书、篇目、兵学地位及后世影响均有权威概述。Standard authoritative Chinese-language reference for Sunzi and The Art of War. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY TEXT & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《孙子兵法》 (received text and bamboo slip variants)
 
 Secondary:
+• 中国大百科全书（孙子、孙子兵法；zgbk.com）  
 • Henry Kissinger — On China; Diplomacy  
 • Ralph Sawyer  
 • Mark Edward Lewis  
@@ -195,5 +202,5 @@ Secondary:
 • Victor Davis Hanson (comparative contrast)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–LIT–SUNZI v1.2
+END OF FILE — MEM–CHINA–LIT–SUNZI v1.3
 ────────────────────────────────────────────────────────────

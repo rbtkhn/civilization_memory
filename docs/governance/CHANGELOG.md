@@ -8,6 +8,48 @@ Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00014-C. DEPRECATE LOCKED MEM MECHANISM (UPGRADE QUEUE) (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: GOVERNANCE (process deprecation)
+
+CHANGES:
+• Deprecated the "locked MEM" mechanism for the MEM–CHINA Chinese-language upgrade. MEMs on the upgrade queue are no longer "LOCKED" (do not edit until unlocked).
+• UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md rewritten: "Remaining MEMs" backlog only; when editing any listed MEM, apply checklist. No lock/unlock step.
+• CHECKLIST–MEM–CHINA–CHINESE–LANGUAGE–INTEGRATION.md §6: "LOCKED MEMs" replaced by "Remaining MEMs (backlog)."
+• CIV–MEM–CORE §XIX: added deprecation note for upgrade-queue lock; MEM status (ACTIVE/LOCKED/DRAFT) unchanged.
+• The 30 MEM–CHINA files that were Status: LOCKED set to Status: ACTIVE so they are editable and ingestible; remaining list is a normal backlog.
+
+RATIONALE:
+User request to deprecate the locked MEM mechanism. Lock was a workflow device for the upgrade; backlog without a gate is simpler and allows edits at any time.
+
+────────────────────────────────────────────────────────────
+00014-D. MEM–CHINA CHINESE-LANGUAGE BACKLOG — EIGHT MEMs COMPLETED (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: CONTENT (MEM–CHINA backlog)
+
+CHANGES:
+• Eight remaining MEMs brought into Chinese-language compliance (ARC v3.3): MEM–CHINA–DYNASTY–TANG, DYNASTY–SONG, DYNASTY–YUAN, DYNASTY–HAN, DYNASTY–MING — 中国大百科全书 (唐朝/宋/元/汉/明) in SOURCE EVIDENCE and Secondary; version 1.1. MEM–CHINA–GEO–EAST–CHINA–SEA — 东海、钓鱼岛; SOURCE EVIDENCE and Secondary; v1.1. MEM–CHINA–LIT–SUNZI — 孙子、孙子兵法; SOURCE EVIDENCE and Secondary; v1.3. MEM–CHINA–ZHENGHE — 郑和; SOURCE EVIDENCE and Secondary; v1.2.
+• UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md: completed MEMs removed from backlog; 22 remaining.
+
+RATIONALE:
+Continue working on the backlog per user request; same standard as Phase 1–3 (SOURCE EVIDENCE block, Primary/Secondary, ARC attribution).
+
+────────────────────────────────────────────────────────────
+00014-E. MEM–CHINA CHINESE-LANGUAGE BACKLOG — REMAINING 22 MEMs COMPLETED (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: CONTENT (MEM–CHINA backlog completion)
+
+CHANGES:
+• All 22 remaining MEMs brought into Chinese-language compliance (ARC v3.3). **Dynasty (8):** MEM–CHINA–DYNASTY–JIN, LIAO, QIN, QING, SHANG, SUI, XIA, ZHOU — 中国大百科全书 (金朝/辽朝/秦朝/清朝/商朝/隋朝/夏朝/周朝) in SOURCE EVIDENCE and Secondary; version bumps. **LIT (4):** MEM–CHINA–LIT–KONGZI, LAOZI, MENGZI, ROMANCE–THREE–KINGDOMS — 中国大百科全书 (孔子/老子/孟子/三国演义) in SOURCE EVIDENCE and Secondary; version bumps. **Mongol + Niche (6):** MEM–CHINA–MONGOL–EMPIRE, MONGOL–GENGHIS–KHAN, MONGOL–KUBLAI–KHAN, MONGOLIA, MARCO–POLO, XIONGNU — 中国大百科全书 (蒙古/成吉思汗/忽必烈/马可·波罗/匈奴) in SOURCE EVIDENCE and Secondary; version bumps. **PRC (5):** MEM–CHINA–PRC–DENG–XIAOPING, KISSINGER, MAO–ZEDONG, NIXON, ZHOU–ENLAI — 中国大百科全书 (邓小平/基辛格/毛泽东/尼克松访华/周恩来) in SOURCE EVIDENCE and Secondary; version bumps.
+• UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md: backlog marked complete; no remaining MEMs. CHECKLIST §6 updated.
+
+RATIONALE:
+User request to complete the other 22 MEMs. MEM–CHINA corpus Chinese-language integration backlog is now fully completed.
+
+────────────────────────────────────────────────────────────
 00014. MEM–CHINA CORPUS — CHINESE-LANGUAGE SOURCE INTEGRATION, PHASE 1 (13 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-13

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–LIAO
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Liao Dynasty (辽)
 Dates: 907–1125 AD
@@ -160,18 +160,25 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension is preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「辽朝」「辽」— 契丹建辽、南北面官、澶渊之盟及辽宋金关系均有权威概述；与《辽史》相参。Standard authoritative Chinese-language reference for Liao dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《辽史》  
 • Liao edicts and treaty records  
 
 Secondary:
+• 中国大百科全书（辽朝、辽；zgbk.com）  
 • 钱穆  
 • 陈寅恪  
 • Herbert Franke  
 • Denis Twitchett  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–DYNASTY–LIAO v1.0
+END OF FILE — MEM–CHINA–DYNASTY–LIAO v1.1
 ────────────────────────────────────────────────────────────

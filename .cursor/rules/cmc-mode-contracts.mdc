@@ -7,6 +7,16 @@ alwaysApply: true
 
 There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer top-level modes (STATE, SYSTEM). Apply mode rules **before** acting.
 
+## Mode inference (task → mode when user does not specify)
+
+When the user does **not** explicitly name a mode (e.g. "write mode", "STATE", "system mode"), infer mode from the **request**:
+
+- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "run sync protocol on STATE file", "upgrade templates to v3.3"). Operate in SYSTEM without requiring the user to say "system mode".
+- **STATE:** Decision support, MEM-grounded current-events analysis, CIV–STATE updates, entity-focused options. Requires MEM SCAN and CORE load when analyzing an entity.
+- **SCHOLAR (WRITE/LEARN/IMAGINE):** MEM authoring, LEARN traversal, doctrine/RLL proposals, historical synthesis, scenario exploration. Sub-mode can be inferred from action (edit MEM → WRITE; explore options → LEARN; "imagine" / scenario → IMAGINE).
+
+**Explicit override:** If the user names a mode ("system mode", "write mode", "STATE", "LEARN", etc.), that wins over inference.
+
 ## WRITE
 
 - **Permits:** Create/edit MEM files, canonical reports, format artifacts; propose/create doctrines (edit CIV–DOCTRINE–[civilization] per CIV–SCHOLAR–[civilization] Section X)
@@ -49,4 +59,4 @@ There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer t
 - **In LEARN:** Log violations; do not modify files
 - **In SYSTEM:** Full governance editing permissions
 
-Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–STATE–TEMPLATE
+Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–STATE–TEMPLATE, PROTOCOL–MODE–INFERENCE

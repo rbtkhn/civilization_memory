@@ -1,5 +1,5 @@
 MEM–CHINA–MONGOL–KUBLAI–KHAN
-Status: LOCKED
+Status: ACTIVE
 Version: 1.2
 Civilization: CHINA (中华文明)
 Subject: Kublai Khan (Khubilai Khan, variant; 忽必烈)
@@ -142,7 +142,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
+X. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「忽必烈」「元世祖」「元朝」— 忽必烈建元、定都大都、开运河与海运及元政均有权威概述。Standard authoritative Chinese-language reference for Kublai Khan and Yuan. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+X.B. SOURCE EVIDENCE — WEATHERFORD (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Jack Weatherford, *Genghis Khan and the Making of the Modern World* (Crown, 2004) (ARC–CHINA–T–MODERN):
@@ -171,6 +177,7 @@ Primary:
 • Tibetan court documents
 
 Secondary:
+• 中国大百科全书（忽必烈、元世祖、元朝；zgbk.com）  
 • Morris Rossabi (updated editions, 2023)
 • Michal Biran
 • Francesca Fiaschetti

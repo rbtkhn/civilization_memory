@@ -3,7 +3,7 @@ Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 Governed by: CMC 3.3
-Last Update: 11 February 2026
+Last Update: 13 February 2026
 
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
@@ -13,7 +13,12 @@ Deliverable: CIV–STATE–AMERICA, MEM–RELEVANCE–AMERICA, CIV–ARC–AMERI
 in content/civilizations/AMERICA/; grounded in CIV–SCHOLAR–ANGLIA and
 ANGLIA MEM corpus.
 
-Next session: (To be set by user.)
+CONTINUITY NOTE (2026-02-13): Next conversation focus — bring CIV–INDIA up
+to the standard of CHINA. Reference: CHINA’s current standard (CIV–SCHOLAR–CHINA,
+RLLs 0001–0004, MEM corpus with path-dependence/ARC/Chinese-language
+integration, doctrine mirror, template alignment). India: align Scholar, MEM
+corpus, ARC, and governance touchpoints to that benchmark; continue in a new
+conversation with this as the session priority.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (CMC 3.3) — INTEGRATION PROGRAM ACTIVATION
@@ -59,6 +64,7 @@ CMC 3.3 PROPOSALS (re-scoped from 3.2)
 
 Active protocols:
 • PROTOCOL–MIND–NAVIGATION.md — Perspective activation model, affinity matrices
+• PROTOCOL–MODE–INFERENCE.md — Task → mode when user does not specify; explicit override wins (binding: cmc-mode-contracts.mdc)
 
 Cursor rules updated:
 • cmc-oge-enforcement.mdc — Perspective-influenced traversal

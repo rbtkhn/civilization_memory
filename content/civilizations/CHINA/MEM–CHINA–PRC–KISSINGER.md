@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–KISSINGER
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Kissinger as architect of opening & ARC interlocutor (基辛格)
@@ -127,7 +127,13 @@ VI. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VII. SOURCE EVIDENCE — KISSINGER (ARC–CHINA) [SELF-REFERENCE]
+VII. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「基辛格」— 基辛格与中美关系、秘密访华及上海公报均有权威概述。Standard authoritative Chinese-language reference for Kissinger and Sino–US opening. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+VII.B. SOURCE EVIDENCE — KISSINGER (ARC–CHINA) [SELF-REFERENCE]
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
@@ -164,11 +170,12 @@ Primary:
 • Nixon–Kissinger memcons (where declassified)
 
 Secondary:
+• 中国大百科全书（基辛格；zgbk.com）  
 • Margaret MacMillan — Nixon in China
 • James Mann — About Face
 • Barbara Barnouin & Yu Changgen — Zhou Enlai
 • Odd Arne Westad
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–KISSINGER v1.0
+END OF FILE — MEM–CHINA–PRC–KISSINGER v1.1
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–ZHENGHE
-Status: LOCKED
-Version: 1.1
+Status: ACTIVE
+Version: 1.3
 Civilization: CHINA (中华文明)
 Subject: Zheng He (郑和)
 Dates: 1371–1433 AD
@@ -163,7 +163,21 @@ IX. CONTINUITY INSIGHTS (RAW)
 The memory endures as demonstration, not precedent.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY SOURCES & REFERENCES
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–CHINA–WAR–FIRST–OPIUM — Path dependence: cessation of voyages (罢舟师，守内治) and absence of maritime constituency prefigure Qing’s inability to resist naval coercion; 1842 as collision of continental lock-in with maritime lock-in. Breaks if removed: loss of forward link to treaty-cession moment (RLL–CHINA–0004).
+• MEM–CHINA–DYNASTY–MING — Dependency: Yongle context; post-Yongle reversal; court factionalism. Breaks if removed: no dynasty framing.
+
+Scholar: RLL–CHINA–0004 (continental vs. maritime lock-in).
+
+────────────────────────────────────────────────────────────
+XI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「郑和」— 郑和身世、七下西洋、宝船与航线及明廷罢航均有权威概述。Standard authoritative Chinese-language reference for Zheng He and the Ming voyages. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《明史》  
@@ -171,11 +185,12 @@ Primary:
 • Voyage inscriptions and stelae  
 
 Secondary:
+• 中国大百科全书（郑和；zgbk.com）  
 • Edward Dreyer  
 • Louise Levathes  
 • Geoff Wade  
 • Timothy Brook  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–ZHENGHE v1.1
+END OF FILE — MEM–CHINA–ZHENGHE v1.3
 ────────────────────────────────────────────────────────────

@@ -1,6 +1,6 @@
 Title: MEM–CHINA–PRC–NIXON
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Regime: PRC (中华人民共和国)
 Subject: Nixon visit / opening (理查德·尼克松访华)
@@ -101,7 +101,13 @@ V. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VI. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
+VI. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「尼克松访华」「中美联合公报」— 尼克松访华与上海公报均有权威概述。Standard authoritative Chinese-language reference for Nixon visit and Shanghai Communiqué. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+VI.B. SOURCE EVIDENCE — KISSINGER (ARC–CHINA)
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *On China* (Penguin Press, 2011) (ARC–CHINA–T–MODERN):
@@ -131,11 +137,12 @@ Primary:
 • PRC official statements and coverage
 
 Secondary:
+• 中国大百科全书（尼克松访华、中美联合公报；zgbk.com）  
 • Henry Kissinger — On China; White House Years
 • Margaret MacMillan — Nixon in China
 • James Mann — About Face
 • Odd Arne Westad
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–PRC–NIXON v1.0
+END OF FILE — MEM–CHINA–PRC–NIXON v1.1
 ────────────────────────────────────────────────────────────

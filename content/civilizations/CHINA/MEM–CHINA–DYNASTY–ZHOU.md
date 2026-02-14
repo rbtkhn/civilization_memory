@@ -1,6 +1,6 @@
 Title: MEM–CHINA–DYNASTY–ZHOU
-Status: LOCKED
-Version: 1.0
+Status: ACTIVE
+Version: 1.1
 Civilization: CHINA (中华文明)
 Subject: Zhou Dynasty (周)
 Dates: c. 1046–256 BC
@@ -140,7 +140,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tensions preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. PRIMARY & SECONDARY SOURCES
+X. SOURCE EVIDENCE — 中国大百科全书 (ARC–CHINA)
+────────────────────────────────────────────────────────────
+
+中国大百科全书第三版（zgbk.com），条目「周朝」「周」— 西周东周、分封礼乐、春秋战国均有权威概述。Standard authoritative Chinese-language reference for Zhou dynasty. (Source: Encyclopedia of China, 中国大百科全书, ARC–CHINA–T–MODERN.)
+
+────────────────────────────────────────────────────────────
+XI. PRIMARY & SECONDARY SOURCES
 ────────────────────────────────────────────────────────────
 Primary:
 • 《尚书》 Book of Documents  
@@ -149,11 +155,12 @@ Primary:
 • 《论语》 Analects  
 
 Secondary:
+• 中国大百科全书（周朝、周；zgbk.com）  
 • 钱穆  
 • 李泽厚  
 • Mark Edward Lewis  
 • Yuri Pines  
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–CHINA–DYNASTY–ZHOU v1.0
+END OF FILE — MEM–CHINA–DYNASTY–ZHOU v1.1
 ────────────────────────────────────────────────────────────

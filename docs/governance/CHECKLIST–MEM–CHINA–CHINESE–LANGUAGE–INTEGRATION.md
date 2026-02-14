@@ -68,6 +68,6 @@ If no suitable Chinese-language source exists for the MEM's scope (e.g. very nic
 
 ---
 
-## 6. LOCKED MEMs
+## 6. Remaining MEMs (backlog)
 
-MEMs with **Status: LOCKED** are not edited until unlocked. When unlocked, apply this checklist and add to the **upgrade queue** completion. See: UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md.
+As of 2026-02-13 the original backlog in **UPGRADE–QUEUE–MEM–CHINA–CHINESE–LANGUAGE–2026–02–13.md** is **complete** (all 30 MEMs upgraded). For any **new or future** MEM–CHINA edits, apply this checklist (sections 1–5).
