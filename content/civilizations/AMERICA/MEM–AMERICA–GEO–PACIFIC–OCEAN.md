@@ -142,7 +142,7 @@ X. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–GEO–ROCKIES — Rockies shape Pacific access through passes,
   corridors, and the cost of cross-continental projection.
-• MEM–AMERICA–MONROE — Hemispheric perimeter logic extends westward into
+• MEM–AMERICA–PRESIDENT–MONROE — Hemispheric perimeter logic extends westward into
   Pacific denial and maritime signaling.
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — Pacific theater links maritime
   control, overseas projection, and coalition-era U.S. strategy.

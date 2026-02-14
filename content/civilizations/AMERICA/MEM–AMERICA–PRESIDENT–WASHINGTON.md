@@ -1,4 +1,4 @@
-MEM–AMERICA–WASHINGTON — v1.5
+MEM–AMERICA–PRESIDENT–WASHINGTON — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -157,9 +157,9 @@ IX. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–WASHINGTON — War-command
   subfile grounding strategic endurance and civil-military restraint.
-• MEM–AMERICA–MADISON — Constitutional framework that institutionalized
+• MEM–AMERICA–PRESIDENT–MADISON — Constitutional framework that institutionalized
   Washington's restraint and civilian supremacy precedent.
-• MEM–AMERICA–LINCOLN — Later crisis leadership measured against
+• MEM–AMERICA–PRESIDENT–LINCOLN — Later crisis leadership measured against
   Washingtonian restraint and continuity grammar.
 
 Cross-Civilizational:
@@ -169,5 +169,5 @@ Cross-Civilizational:
 Cross-references denote lineage, not equivalence.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–WASHINGTON — v1.5
+END OF FILE — MEM–AMERICA–PRESIDENT–WASHINGTON — v1.5
 ────────────────────────────────────────────────────────────

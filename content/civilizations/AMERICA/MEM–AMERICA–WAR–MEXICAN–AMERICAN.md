@@ -135,18 +135,18 @@ VI. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–MANIFEST–DESTINY — Ideological frame
   for expansion; O'Sullivan; legitimacy grammar for war and annexation.
-• MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana Purchase;
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Territorial vision; Louisiana Purchase;
   Mexican–American War as continuation of continental expansion.
-• MEM–AMERICA–POLK — President and agent of the war; provocation,
+• MEM–AMERICA–PRESIDENT–POLK — President and agent of the war; provocation,
   message to Congress, declaration; territorial design executed.
-• MEM–AMERICA–JACKSON — Expansion and populist authority; Texas
+• MEM–AMERICA–PRESIDENT–JACKSON — Expansion and populist authority; Texas
   and western pressure; precedent for assertive presidency; Polk as heir.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Slavery extension into
   acquired territory; sectional conflict; Civil War as deferred
   reckoning.
-• MEM–AMERICA–LINCOLN — Opposition to war (as congressman);
+• MEM–AMERICA–PRESIDENT–LINCOLN — Opposition to war (as congressman);
   slavery and territory; moral and political tension.
-• MEM–AMERICA–MONROE — Hemisphere doctrine; expansion within
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere doctrine; expansion within
   hemisphere; no European power involved.
 • MEM–AMERICA–GEO–COLORADO–RIVER — Southwest geography; acquired
   territory; allocation and boundary water (US–Mexico).

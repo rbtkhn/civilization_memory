@@ -8,6 +8,26 @@ Last Updated: 2026-02-13
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00013. REFERENCE – QUANTITATIVE BENCHMARKS (13 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-13
+Type: REFERENCE (NEW)
+
+CHANGES:
+• Added docs/governance/REFERENCE–QUANTITATIVE–BENCHMARKS.md.
+• Defines quantitative benchmarks for system performance/quality
+  evaluation across MEM, SCHOLAR, STATE, voice/compliance, and
+  retrieval. Includes measurement method and suggested targets.
+• Supports audits and periodic review; does not replace qualitative
+  judgment.
+
+RATIONALE:
+User request (SYSTEM mode): establish/measure benchmarks to evaluate
+performance/quality of the system. Aligns with COMPLIANCE–REGISTRY
+criteria and cursor rules (template, state grounding, ARC coverage,
+options menu, voice, safeguards).
+
+────────────────────────────────────────────────────────────
 00012. CMC 3.3 GOVERNANCE UPGRADE ACTIVATION (13 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-13
@@ -135,7 +155,7 @@ CHANGES:
   - tools/cmc-governance-checks.sh (option policy, Source Versions drift,
     MEM version parity, MEM CONNECTIONS presence checks)
 • Sample content normalization:
-  - MEM–AMERICA–MONROE v1.2 → v1.3 (added MEM CONNECTIONS section,
+  - MEM–AMERICA–PRESIDENT–MONROE v1.2 → v1.3 (added MEM CONNECTIONS section,
     traceability fields, footer parity)
   - MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE (footer parity + traceability
     fields)

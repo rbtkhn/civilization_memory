@@ -39,10 +39,10 @@ Primary MEMs:
 • MEM–ANGLIA–UNITED–STATES–AMERICA — U.S. as Anglian procedural heir
   at continental scale; power without imperial form; procedure as memory
   [concepts: procedural_order, hegemony_without_empire, institutional_continuity]
-• MEM–AMERICA–MONROE — Hemispheric rule-set; declarative restraint;
+• MEM–AMERICA–PRESIDENT–MONROE — Hemispheric rule-set; declarative restraint;
   perimeter control; doctrine as signal before full capacity
   [concepts: hemisphere_perimeter, declarative_restraint, offshore_underwrite]
-• MEM–AMERICA–ADAMS–QUINCY — Monroe Doctrine as drafted product;
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Monroe Doctrine as drafted product;
   Secretary of State as doctrine-draftsman; second-generation procedural continuity
 • MEM–ANGLIA–DECLARATION–INDEPENDENCE — Secession as institutional
   continuity; break from Crown while preserving procedural grammar
@@ -84,6 +84,25 @@ Primary MEMs:
 • MEM–AMERICA–MANIFEST–DESTINY — Expansion ideology;
   O'Sullivan 1845; Jefferson precedent; Polk and Mexican–American War
   [concepts: expansion_legitimacy, ideological_frame]
+• MEM–AMERICA–DIPLOMACY–TREATY–PARIS — Treaty of Paris 1783; British
+  recognition; territorial closure; founding diplomatic terminus
+  [concepts: recognition, treaty_closure, sovereign_equality]
+• MEM–AMERICA–DIPLOMACY–MONROE–DOCTRINE — Monroe Doctrine as diplomatic
+  instrument; drafting, delivery, later invocation; hemisphere referent
+  [concepts: declarative_diplomacy, hemisphere_perimeter, diplomatic_referent]
+• MEM–AMERICA–DIPLOMACY–COLD–WAR — Containment, détente, bipolar structure;
+  NATO, SALT, triangular diplomacy; 1947–1991
+  [concepts: containment, détente, alliance_cohesion, negotiated_closure]
+• MEM–AMERICA–DIPLOMACY–KISSINGER — Opening to China, détente, Middle East
+  shuttle; Kissinger-era practice and outcomes
+  [concepts: triangular_diplomacy, realpolitik, back_channel]
+• MEM–AMERICA–DIPLOMACY–SEWARD — Seward as Secretary of State; Civil War
+  diplomacy (non-recognition); Alaska purchase; expansion by treaty
+  [concepts: union_preservation_diplomacy, expansion_by_purchase]
+• MEM–AMERICA–PRESIDENT–WILSON — Wilson presidency; progressive reform,
+  WWI, Fourteen Points, League; Versailles rejection, incapacity;
+  segregation, Sedition Act; contested legacy
+  [concepts: idealist_presidency, league_failure, contested_legacy, repression]
 
 Secondary MEMs:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Union total war; Atlanta,
@@ -111,6 +130,9 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — April 1865; procedural
   termination; Grant's terms; surrender as restoration
   [concepts: procedural_termination, reintegration]
+• MEM–AMERICA–WAR–GRANT — Grant as war figure; Vicksburg, General-in-Chief,
+  Overland, Appomattox; attrition and procedural surrender
+  [concepts: attrition, civilian_subordination, procedural_surrender]
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–CHANCELLORSVILLE — May 1863; Lee's
   greatest victory; Jackson's death; tactical peak and irreplaceable
   loss; prelude to Gettysburg
@@ -133,6 +155,12 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–SEVEN–YEARS — Colonial phase; imperial strain;
   prelude to independence; Washington's first military lessons
   [concepts: imperial_strain, prelude_to_founding]
+• MEM–AMERICA–WAR–WASHINGTON — Washington as war figure; Continental
+  command; restraint, endurance, surrender of command; founding war
+  [concepts: restraint, force_preservation, civilian_subordination]
+• MEM–AMERICA–WAR–JACKSON — Jackson as war figure; Creek War, New
+  Orleans, Florida; martial legitimacy; expansion by force
+  [concepts: martial_legitimacy, defensive_victory, expansion_by_force]
 • MEM–AMERICA–COLONIAL–JAMESTOWN — First permanent English
   settlement; House of Burgesses 1619; assembly precedent
   [concepts: colonial_assembly, founding_precedent]
@@ -163,6 +191,12 @@ Secondary MEMs:
 • MEM–AMERICA–LIT–HAWTHORNE — Scarlet Letter, Puritan legacy; sin, guilt,
   custom-house; moral burden of the past
   [concepts: puritan_legacy, guilt, moral_grammar]
+• MEM–AMERICA–LIT–HEMINGWAY — Lost Generation, grace under pressure;
+  expatriate code; individual when institutions fail
+  [concepts: individual_code, expatriate_voice, disillusion]
+• MEM–AMERICA–LIT–STEINBECK — Grapes of Wrath, Of Mice and Men;
+  Depression, migrant labor; claim on procedure
+  [concepts: collective_suffering, institutional_claim, displacement]
 • MEM–AMERICA–KISSINGER — Détente, triangular diplomacy, opening to
   China; NSA and Secretary of State; order and balance of power
   [concepts: realpolitik, détente, great_power_management]
@@ -202,10 +236,10 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — First extra-hemispheric
   projection; naval and nodal; Cuba, Philippines; maritime pivot
   [concepts: maritime_expansion, nodal_access]
-• MEM–AMERICA–POLK — Single-term expansion president; Mexican–
+• MEM–AMERICA–PRESIDENT–POLK — Single-term expansion president; Mexican–
   American War as agent; procedure and territorial design; Jackson's heir
   [concepts: expansion_by_procedure, presidential_agency]
-• MEM–AMERICA–MCKINLEY — Architect of extra-hemispheric turn;
+• MEM–AMERICA–PRESIDENT–MCKINLEY — Architect of extra-hemispheric turn;
   Spanish–American War, Hawaii, Philippines; incrementalism; TR's predecessor
   [concepts: maritime_expansion, presidential_agency]
 • MEM–AMERICA–WAR–PHILIPPINE–AMERICAN — Colonial pacification
@@ -218,18 +252,18 @@ Secondary MEMs:
   policy; civilian supremacy reaffirmed by removal; procedure
   over hero-general
   [concepts: civilian_supremacy, procedure_over_personality]
-• MEM–AMERICA–TRUMAN — Succession under shock (FDR death);
+• MEM–AMERICA–PRESIDENT–TRUMAN — Succession under shock (FDR death);
   containment launch (Truman Doctrine, Marshall Plan, NATO);
   declarative doctrine before full capacity
   [concepts: succession_under_shock, containment_foundation]
-• MEM–AMERICA–EISENHOWER — Institutional steward; Suez (1956)
+• MEM–AMERICA–PRESIDENT–EISENHOWER — Institutional steward; Suez (1956)
   restraint of allies; Atlantic primacy and procedural norm over
   imperial reassertion
   [concepts: alliance_discipline, procedural_arbiter]
-• MEM–AMERICA–NIXON — Procedure violated (Watergate) then reasserted
+• MEM–AMERICA–PRESIDENT–NIXON — Procedure violated (Watergate) then reasserted
   (resignation, oversight); authority in persons/covert action vs process
   [concepts: procedure_violation_reassertion, resignation_precedent]
-• MEM–AMERICA–KENNEDY — Crisis enforcement of hemisphere perimeter;
+• MEM–AMERICA–PRESIDENT–KENNEDY — Crisis enforcement of hemisphere perimeter;
   quarantine (Cuban Missile Crisis) as procedural measure short of war
   [concepts: procedural_enforcement, crisis_restraint]
 • MEM–AMERICA–VANDERBILT — Private transport empire; concentration
@@ -267,7 +301,7 @@ Primary MEMs:
 • MEM–ANGLIA–MEXICO — Relationship to southern neighbour; border,
   influence, and constraint
   [concepts: neighbour_relationship, influence_limits]
-• MEM–AMERICA–MONROE — No new European colonisation; non-interference
+• MEM–AMERICA–PRESIDENT–MONROE — No new European colonisation; non-interference
   norm; U.S. abstention from European struggles; perimeter definition
   [concepts: hemisphere_perimeter, declarative_doctrine]
 
@@ -275,10 +309,10 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Mexico; territorial conquest;
   Texas, California, Southwest; procedural war and treaty
   [concepts: continental_expansion, southern_neighbour]
-• MEM–AMERICA–KENNEDY — Cuba; Bay of Pigs failure; Cuban Missile Crisis
+• MEM–AMERICA–PRESIDENT–KENNEDY — Cuba; Bay of Pigs failure; Cuban Missile Crisis
   quarantine; enforcement of hemisphere perimeter without invasion
   [concepts: hemisphere_enforcement, crisis_restraint]
-• MEM–AMERICA–ROOSEVELT–THEODORE — Roosevelt Corollary; hemispheric
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Roosevelt Corollary; hemispheric
   intervention as preventive; canal; doctrine enforced with capacity
 • MEM–ANGLIA–BRITISH–EMPIRE–NORTH–AMERICA — Colonial precedent; then
   U.S. succession in hemisphere
@@ -310,16 +344,36 @@ Secondary MEMs:
   to Yalu, relief; limit of theatre command; limited war vs.
   expansion
   [concepts: theatre_command_limit, civilian_supremacy]
-• MEM–AMERICA–TRUMAN — Korea commitment; MacArthur removal;
+• MEM–AMERICA–WAR–MACARTHUR — MacArthur as war figure; Pacific
+  campaigns, Inchon, Korea advance and reversal; theatre command
+  and relief
+  [concepts: theatre_command, limited_war_clash, civilian_relief]
+• MEM–AMERICA–WAR–MARSHALL — Marshall as war figure; Chief of
+  Staff; mobilization, Europe-first, commander selection; civilian
+  subordination
+  [concepts: mobilization, europe_first, commander_selection]
+• MEM–AMERICA–WAR–NIMITZ — Nimitz as war figure; CINCPAC; Central
+  Pacific, carrier warfare, submarine campaign; shared surrender
+  [concepts: naval_theatre_command, carrier_warfare, island_hopping]
+• MEM–AMERICA–WAR–PATTON — Patton as war figure; Third Army;
+  Normandy breakout, Bulge, Bastogne; aggression and discipline
+  [concepts: armored_offensive, breakout_exploitation, subordinate_discipline]
+• MEM–AMERICA–PRESIDENT–TRUMAN — Korea commitment; MacArthur removal;
   civilian control of military; limited war without formal
   declaration
   [concepts: civilian_supremacy, limited_war]
-• MEM–AMERICA–EISENHOWER — NATO; massive retaliation; coalition
+• MEM–AMERICA–PRESIDENT–EISENHOWER — NATO; massive retaliation; coalition
   leadership; declarative deterrence; D-Day and Cold War structure
   [concepts: coalition_primacy, declarative_deterrence]
 • MEM–AMERICA–WAR–1812 — Naval duels; invasion of Canada fails;
   Washington burned; New Orleans; second war with Britain
   [concepts: naval_contest, resilience_without_victory]
+• MEM–AMERICA–WAR–ARMY — U.S. Army as institution; congressional
+  raise; civilian control; Washington, Lincoln, Truman–MacArthur
+  [concepts: land_force_institution, civilian_supremacy]
+• MEM–AMERICA–WAR–NAVY — U.S. Navy as institution; provide and
+  maintain; sea power and perimeter; blockade and projection
+  [concepts: sea_power_institution, maritime_projection]
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Continental expansion;
   rapid victory; force projection; territorial acquisition
   [concepts: force_ratio, expansion_war]
@@ -397,15 +451,15 @@ Secondary MEMs:
 • MEM–AMERICA–MORGAN — 1907 panic; private lender of last resort;
   Fed as institutional replacement; concentration and antitrust
   [concepts: private_stabilisation, procedure_replacement]
-• MEM–AMERICA–TRUMAN — Succession on FDR death; procedure holds;
+• MEM–AMERICA–PRESIDENT–TRUMAN — Succession on FDR death; procedure holds;
   institutional continuity through unprepared successor; "buck
   stops here" accountability
   [concepts: succession_under_shock, procedural_survival]
-• MEM–AMERICA–EISENHOWER — General-then-president; institutional
+• MEM–AMERICA–PRESIDENT–EISENHOWER — General-then-president; institutional
   legitimacy; Little Rock (federal enforcement); military-industrial
   complex warning; restraint and continuity
   [concepts: institutional_stewardship, restraint_precedent]
-• MEM–AMERICA–NIXON — Watergate; resignation; procedure survives
+• MEM–AMERICA–PRESIDENT–NIXON — Watergate; resignation; procedure survives
   rupture; oversight and succession reassert legitimacy
   [concepts: procedural_survival_after_rupture, resignation_precedent]
 • MEM–AMERICA–GREAT–DEPRESSION — Economic collapse as legitimacy
@@ -443,9 +497,9 @@ Primary MEMs:
   [concepts: institutional_design, founding_grammar]
 
 Secondary MEMs:
-• MEM–AMERICA–JEFFERSON — Republican and territorial vision
-• MEM–AMERICA–MADISON — Constitutional and federal design
-• MEM–AMERICA–WASHINGTON — Founding authority and restraint
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Republican and territorial vision
+• MEM–AMERICA–PRESIDENT–MADISON — Constitutional and federal design
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Founding authority and restraint
 
 ────────────────────────────────────────────────────────────
 VI. SETTLEMENT / EXIT / DEFEAT WITHOUT COLLAPSE
@@ -479,11 +533,14 @@ Primary MEMs:
   [concepts: overreach, exit_failure]
 
 Secondary MEMs:
-• MEM–AMERICA–TRUMAN — War termination (atomic use, surrender);
+• MEM–AMERICA–PRESIDENT–TRUMAN — War termination (atomic use, surrender);
   Korea under Truman; armistice under Eisenhower; procedural
   frame for ending and limiting war
   [concepts: war_termination, limited_war]
-• MEM–AMERICA–NIXON — Vietnam exit; "peace with honor"; Paris
+• MEM–AMERICA–PRESIDENT–JOHNSON — Vietnam escalation; Kennedy–Johnson
+  commitment; contrast with Nixon's exit
+  [concepts: war_escalation, inherited_commitment]
+• MEM–AMERICA–PRESIDENT–NIXON — Vietnam exit; "peace with honor"; Paris
   Accords, withdrawal, Vietnamisation; procedural exit from war
   [concepts: procedural_exit, peace_with_honor, withdrawal]
 • MEM–AMERICA–GEO–SUEZ–CANAL — Lose the canal, survive the loss;
@@ -498,7 +555,7 @@ Relevant when: Rivals or partners (e.g. China, Russia) in the
 hemisphere; balancing; coalition primacy; offshore logic.
 
 Primary MEMs:
-• MEM–AMERICA–MONROE — No new European colonisation; European
+• MEM–AMERICA–PRESIDENT–MONROE — No new European colonisation; European
   powers excluded from Americas; U.S. abstention from European
   struggles
   [concepts: exclusion_of_extra_hemispheric_powers, offshore_balance]
@@ -510,18 +567,18 @@ Primary MEMs:
   [concepts: coalition_primacy, naval_underwriting]
 
 Secondary MEMs:
-• MEM–AMERICA–TRUMAN — Truman Doctrine; Marshall Plan; NATO
+• MEM–AMERICA–PRESIDENT–TRUMAN — Truman Doctrine; Marshall Plan; NATO
   founding; Berlin Airlift; containment as declarative and
   institutional
   [concepts: containment_launch, declarative_doctrine]
-• MEM–AMERICA–EISENHOWER — NATO; Suez (1956) U.S. opposition to
+• MEM–AMERICA–PRESIDENT–EISENHOWER — NATO; Suez (1956) U.S. opposition to
   allies; Atlantic primacy; containment; restraining allies as
   procedural order
   [concepts: atlantic_primacy, alliance_restraint]
-• MEM–AMERICA–NIXON — Opening to China; détente with USSR;
+• MEM–AMERICA–PRESIDENT–NIXON — Opening to China; détente with USSR;
   triangular diplomacy; great-power management beyond hemisphere
   [concepts: realpolitik_extension, triangular_diplomacy]
-• MEM–AMERICA–KENNEDY — Soviet presence in Cuba; quarantine as
+• MEM–AMERICA–PRESIDENT–KENNEDY — Soviet presence in Cuba; quarantine as
   exclusion of extra-hemispheric deployment; crisis without war
   [concepts: exclusion_enforcement, crisis_management]
 • MEM–ANGLIA–WAR–NAPOLEON — Continental vs maritime; coalition
@@ -564,13 +621,13 @@ Relevant when: Who bears exposure for interventions; mechanism
 exposure; personal vs institutional liability.
 
 Primary MEMs:
-• MEM–AMERICA–JACKSON — Personal authority and institutional clash;
+• MEM–AMERICA–PRESIDENT–JACKSON — Personal authority and institutional clash;
   removal and precedent
   [concepts: personal_authority, mechanism_exposure]
-• MEM–AMERICA–LINCOLN — Crisis leadership; legitimacy under stress;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Crisis leadership; legitimacy under stress;
   war and union
   [concepts: crisis_leadership, legitimacy_stress]
-• MEM–AMERICA–WASHINGTON — Restraint and precedent; voluntary exit
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Restraint and precedent; voluntary exit
   from power
   [concepts: restraint_precedent, institutional_over_personal]
 
@@ -579,23 +636,27 @@ Secondary MEMs:
   mechanism exposure (theatre vs. civilian); removal as precedent;
   hero-general as limit-test
   [concepts: mechanism_exposure, removal_precedent]
-• MEM–AMERICA–TRUMAN — Succession president; MacArthur removal;
+• MEM–AMERICA–PRESIDENT–TRUMAN — Succession president; MacArthur removal;
   civilian supremacy; accountability ("buck stops here"); crisis
   decisions under inherited authority
   [concepts: succession_under_shock, civilian_supremacy]
-• MEM–AMERICA–EISENHOWER — General-then-president; restraint;
+• MEM–AMERICA–PRESIDENT–EISENHOWER — General-then-president; restraint;
   Washington/Grant parallel; military-industrial complex warning;
   institutional caution from inside
   [concepts: restraint_precedent, institutional_caution]
-• MEM–AMERICA–NIXON — Watergate; resignation; impeachment path;
+• MEM–AMERICA–PRESIDENT–NIXON — Watergate; resignation; impeachment path;
   personal and institutional liability; procedure reasserts through
   oversight and succession
   [concepts: mechanism_exposure, resignation_precedent, oversight_reassertion]
-• MEM–AMERICA–KENNEDY — Crisis leadership (Cuban Missile Crisis);
+• MEM–AMERICA–PRESIDENT–KENNEDY — Crisis leadership (Cuban Missile Crisis);
   assassination and succession; procedure holds; unfinished legacy
   [concepts: crisis_stewardship, succession_under_shock]
-• MEM–AMERICA–ADAMS — Institutional continuity and succession
-• MEM–AMERICA–GRANT — Post-war authority and corruption exposure
+• MEM–AMERICA–PRESIDENT–JOHNSON — Succession (1963); Great Society,
+  civil rights, legislative presidency; Vietnam escalation; procedure
+  holds; power reveals (Caro)
+  [concepts: succession_under_shock, legislative_presidency, legacy_cost]
+• MEM–AMERICA–PRESIDENT–ADAMS — Institutional continuity and succession
+• MEM–AMERICA–PRESIDENT–GRANT — Post-war authority and corruption exposure
 • MEM–AMERICA–LAW–SLAVERY — Jurisdiction and liability over enslaved persons;
   Congress, Court, President as enforcers; 13th Amendment flips exposure
   [concepts: jurisdiction_over_persons, enforcement_liability]
@@ -609,9 +670,9 @@ Secondary MEMs:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Total war under civilian
   control; execution without policy capture
   [concepts: civilian_supremacy, execution_liability]
-• MEM–AMERICA–ROOSEVELT–THEODORE — Executive energy; bully pulpit;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Executive energy; bully pulpit;
   hemispheric assertion (Roosevelt Corollary, canal)
-• MEM–AMERICA–ROOSEVELT–FRANKLIN — Crisis stewardship; four terms;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — Crisis stewardship; four terms;
   New Deal and war; executive scale under emergency
 • MEM–ANGLIA–CHURCHILL — Coalition leadership and narrative
 
@@ -627,8 +688,9 @@ Primary MEMs:
   [concepts: legitimacy_of_capital, concentration_then_constraint]
 • MEM–AMERICA–VANDERBILT — Transport tycoon; pre-regulatory rail
 • MEM–AMERICA–MORGAN — Finance; 1907; Fed precursor
+• MEM–AMERICA–FEDERAL–RESERVE — Central bank (1913); procedural replacement for private lender of last resort; Jekyll Island, Aldrich–Glass
 • MEM–AMERICA–ROCKEFELLER — Trust and antitrust; Standard Oil breakup
-• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting; Square Deal
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Trust-busting; Square Deal
 
 Secondary MEMs:
 • MEM–AMERICA–CARNEGIE — Steel; U.S. Steel; Gilded Age peer
@@ -652,11 +714,11 @@ Primary MEMs:
 • MEM–AMERICA–WEBSTER — Union's orator; Reply to Hayne; "Liberty and
   Union"; 1850 compromise
   [concepts: Union_doctrine, oratory_as_legitimacy]
-• MEM–AMERICA–ADAMS–QUINCY — Second-generation doctrine-draftsman;
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Second-generation doctrine-draftsman;
   Congress; anti-slavery within procedure; same era as triumvirate
 
 Secondary MEMs:
-• MEM–AMERICA–JACKSON — Nullification Crisis; Clay's compromise vs
+• MEM–AMERICA–PRESIDENT–JACKSON — Nullification Crisis; Clay's compromise vs
   Jackson's force; Bank War; era of Clay, Calhoun, Webster
 • MEM–AMERICA–LAW–SLAVERY — Slavery's constitutional place; Calhoun's
   defence; fugitive law (1850)

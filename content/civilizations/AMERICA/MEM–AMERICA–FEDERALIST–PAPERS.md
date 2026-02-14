@@ -120,7 +120,7 @@ The Papers thus encode **institutional continuity through design**:
 the Constitution does not rely on the virtue of rulers or the
 enlightenment of the people alone; it **assigns and limits exposure**
 by structure. This is the same logic that MEM–AMERICA–LAW–CONSTITUTION
-and MEM–AMERICA–MADISON preserve—the Federalist is their primary
+and MEM–AMERICA–PRESIDENT–MADISON preserve—the Federalist is their primary
 articulation.
 
 ────────────────────────────────────────────────────────────
@@ -198,9 +198,9 @@ DEPENDS_ON:
   Constitution; Convention produced the draft the Papers justify.
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Convention in Philadelphia;
   Papers written after the Convention for ratification elsewhere.
-• MEM–AMERICA–MADISON — Madison is principal author of Fed 10, 51,
+• MEM–AMERICA–PRESIDENT–MADISON — Madison is principal author of Fed 10, 51,
   and others; faction, extended republic, ambition countering ambition;
-  MEM–MADISON encodes the figure; this MEM encodes the text.
+  MEM–AMERICA–PRESIDENT–MADISON encodes the figure; this MEM encodes the text.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Post-war context; Articles
   failure; need for new frame that the Papers defend.
 

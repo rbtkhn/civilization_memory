@@ -288,7 +288,7 @@ Same-Civilization (≥10):
 
 Cross-civilizational:
 • MEM–AMERICA–WAR–YORKTOWN — American perspective
-• MEM–AMERICA–WASHINGTON — American commander
+• MEM–AMERICA–PRESIDENT–WASHINGTON — American commander
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — British defeat
 
 ────────────────────────────────────────────────────────────

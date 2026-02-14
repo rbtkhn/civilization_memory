@@ -106,11 +106,11 @@ AMERICA:
 • MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — Declaration adopted Philadelphia 4 July 1776.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Continental Congress;
   Declaration 1776; war authorised and framed in Philadelphia.
-• MEM–AMERICA–WASHINGTON — Appointed commander in Philadelphia;
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Appointed commander in Philadelphia;
   Constitutional Convention; presidency and capital elsewhere.
-• MEM–AMERICA–JEFFERSON — Declaration author; Philadelphia 1776;
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Declaration author; Philadelphia 1776;
   Virginian in Pennsylvanian seat.
-• MEM–AMERICA–ADAMS — Congress; Declaration; Massachusetts and
+• MEM–AMERICA–PRESIDENT–ADAMS — Congress; Declaration; Massachusetts and
   Philadelphia.
 • MEM–AMERICA–COLONIAL–BOSTON — Boston resistance; Philadelphia
   congress; two poles of revolution.

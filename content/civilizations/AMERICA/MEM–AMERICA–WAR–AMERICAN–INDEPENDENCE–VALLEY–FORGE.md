@@ -60,7 +60,7 @@ AMERICA:
   encampment and leadership.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — Valley Forge
   precedes; discipline and alliance enable Yorktown.
-• MEM–AMERICA–WASHINGTON — Full figure; Valley Forge as test.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Full figure; Valley Forge as test.
 
 Cross-references denote lineage, not equivalence.
 

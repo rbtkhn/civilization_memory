@@ -143,7 +143,7 @@ VIII. MEM CONNECTIONS (MANDATORY)
 
 DEPENDS_ON:
 • MEM–AMERICA–LAW–CONSTITUTION — Article I creates and limits Congress; enumerated powers.
-• MEM–AMERICA–MADISON — Bicameralism, faction, ambition countering ambition; first branch.
+• MEM–AMERICA–PRESIDENT–MADISON — Bicameralism, faction, ambition countering ambition; first branch.
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Continental Congress; founding context for representative assembly.
 
 ENABLES:
@@ -163,8 +163,8 @@ IX. MEM BIBLIOGRAPHY
 • U.S. Constitution, Article I (1787) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • Tocqueville, Alexis de. *Democracy in America*, Vol. I (1835) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • MEM–AMERICA–LAW–CONSTITUTION — Art. I; separation of powers.
-• MEM–AMERICA–MADISON — Design of Congress; Federalist logic.
-• MEM–AMERICA–WASHINGTON — First Congress; presidency and Congress in operation.
+• MEM–AMERICA–PRESIDENT–MADISON — Design of Congress; Federalist logic.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — First Congress; presidency and Congress in operation.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–LAW–CONGRESS — v1.3

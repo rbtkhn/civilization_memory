@@ -1,4 +1,4 @@
-MEM–AMERICA–JACKSON — v1.6
+MEM–AMERICA–PRESIDENT–JACKSON — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -199,7 +199,7 @@ XI. MEM CONNECTIONS (MANDATORY)
 Same-civilization (Anglia):
 • MEM–ANGLIA–HAMILTON — First Bank, national bank logic; Jackson destroys Second Bank
 • MEM–ANGLIA–BANK–ENGLAND — BoE as enduring British contrast; no US central bank after Jackson until Fed
-• MEM–ANGLIA–FEDERAL–RESERVE — Fed (1913) as return of central banking after Bank War; Jekyll Island
+• MEM–AMERICA–FEDERAL–RESERVE — Fed (1913) as return of central banking after Bank War; Jekyll Island
 
 ────────────────────────────────────────────────────────────
 XII. PRIMARY SOURCES & REFERENCES
@@ -208,5 +208,5 @@ Secondary / critical (ARC-T-MODERN):
 • **G. Edward Griffin**, *The Creature from Jekyll Island: A Second Look at the Federal Reserve* (Westlake Village, CA: American Media, 1994) — Fed founding, Jekyll Island 1910, return of central banking after Bank War; ERC-CRITICAL (interpretive/polemical).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–JACKSON — v1.6
+END OF FILE — MEM–AMERICA–PRESIDENT–JACKSON — v1.6
 ────────────────────────────────────────────────────────────

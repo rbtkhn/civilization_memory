@@ -117,7 +117,7 @@ VIII. MEM CONNECTIONS (MANDATORY)
 
 DEPENDS_ON:
 • MEM–AMERICA–LAW–CONSTITUTION — Bill of Rights are Amendments I–X to the Constitution; host text.
-• MEM–AMERICA–MADISON — Madison drafted and shepherded the amendments in the First Congress.
+• MEM–AMERICA–PRESIDENT–MADISON — Madison drafted and shepherded the amendments in the First Congress.
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Ratification context; Constitution and amendments as founding output.
 
 ENABLES:
@@ -134,7 +134,7 @@ IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • U.S. Constitution, Amendments I–X (Bill of Rights), 1791 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • MEM–AMERICA–LAW–CONSTITUTION — Host document; amendment process.
-• MEM–AMERICA–MADISON — Drafting and adoption of Bill of Rights.
+• MEM–AMERICA–PRESIDENT–MADISON — Drafting and adoption of Bill of Rights.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–LAW–BILL–RIGHTS — v1.0

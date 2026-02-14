@@ -58,7 +58,7 @@ AMERICA:
   march and siege.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–CORNWALLIS — Surrendering
   commander.
-• MEM–AMERICA–WASHINGTON — Full figure; Yorktown capstone.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Full figure; Yorktown capstone.
 
 Cross-Civilizational:
 • MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN — Anglian encoding.

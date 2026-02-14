@@ -123,27 +123,27 @@ reaffirmed by his firing.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–TRUMAN — President who relieved MacArthur (April 1951);
+• MEM–AMERICA–PRESIDENT–TRUMAN — President who relieved MacArthur (April 1951);
   limited war policy; civilian control enforced by removal;
   "buck stops here."
-• MEM–AMERICA–WASHINGTON — Civilian control and restraint;
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Civilian control and restraint;
   Washington's deference to civilian authority; MacArthur as
   inverse—general who did not defer and was removed; procedure
   over person.
-• MEM–AMERICA–JACKSON — Executive removal of defiant authority;
+• MEM–AMERICA–PRESIDENT–JACKSON — Executive removal of defiant authority;
   Jackson's confrontations and removals; Truman's firing of
   MacArthur—office over popular figure.
-• MEM–AMERICA–EISENHOWER — Fellow general; Supreme Commander
+• MEM–AMERICA–PRESIDENT–EISENHOWER — Fellow general; Supreme Commander
   Europe under civilian authority; Korea armistice under
   Eisenhower presidency after MacArthur's relief; contrast:
   Ike accepted limits, MacArthur did not.
-• MEM–AMERICA–GRANT — General who accepted civilian control;
+• MEM–AMERICA–PRESIDENT–GRANT — General who accepted civilian control;
   Grant as executor under Lincoln and Johnson; MacArthur as
   general who challenged and was relieved; precedent for
   subordination.
-• MEM–AMERICA–ROOSEVELT–FRANKLIN — MacArthur under FDR (Pacific);
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — MacArthur under FDR (Pacific);
   Truman succeeds FDR; MacArthur's relief under Truman, not FDR.
-• MEM–AMERICA–LINCOLN — Crisis presidency; civilian control of
+• MEM–AMERICA–PRESIDENT–LINCOLN — Crisis presidency; civilian control of
   military; Lincoln's management of generals; Truman's removal
   of MacArthur as parallel.
 

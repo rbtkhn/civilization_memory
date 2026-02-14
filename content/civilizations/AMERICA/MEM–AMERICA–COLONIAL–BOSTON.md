@@ -68,9 +68,9 @@ AMERICA:
   war; Lexington/Concord; Continental Army; founding war.
 • MEM–AMERICA–WAR–SEVEN–YEARS — Postwar imperial strain;
   taxation and resistance; Boston as resistance node.
-• MEM–AMERICA–WASHINGTON — Takes command at Boston; siege;
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Takes command at Boston; siege;
   Continental Army legitimacy.
-• MEM–AMERICA–ADAMS — Boston; defence of British soldiers
+• MEM–AMERICA–PRESIDENT–ADAMS — Boston; defence of British soldiers
   (Massacre); procedural legitimacy; founding generation.
 • MEM–AMERICA–COLONIAL–PLYMOUTH — Plymouth absorbed into
   Massachusetts; same regional lineage.

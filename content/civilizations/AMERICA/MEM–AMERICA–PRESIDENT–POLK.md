@@ -1,4 +1,4 @@
-MEM–AMERICA–POLK — v1.0
+MEM–AMERICA–PRESIDENT–POLK — v1.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
@@ -52,7 +52,7 @@ INFLUENCE (REQUIRED)
 | MAJOR_WORKS | (State papers; annual messages; war message 1846) |
 | KEY_DECISIONS | Texas annexation; Oregon settlement; Mexican–American War; tariff of 1846; Independent Treasury restored |
 | INFLUENCE_DOMAIN | Diplomatic, Military (via civilian direction) |
-| CITED_IN_MEMS | MEM–AMERICA–WAR–MEXICAN–AMERICAN; MEM–AMERICA–JACKSON; MEM–AMERICA–JEFFERSON; MEM–AMERICA–LINCOLN |
+| CITED_IN_MEMS | MEM–AMERICA–WAR–MEXICAN–AMERICAN; MEM–AMERICA–PRESIDENT–JACKSON; MEM–AMERICA–PRESIDENT–JEFFERSON; MEM–AMERICA–PRESIDENT–LINCOLN |
 
 ────────────────────────────────────────────────────────────
 III. ORIGIN: JACKSON'S HEIR, DARK HORSE
@@ -169,15 +169,15 @@ VIII. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–MANIFEST–DESTINY — Ideological frame;
   Polk's presidency in the shadow of Manifest Destiny; execution of design.
-• MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana and
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Territorial vision; Louisiana and
   Mississippi; Polk as executor of continental expansion.
-• MEM–AMERICA–JACKSON — Protégé relationship; expansion and
+• MEM–AMERICA–PRESIDENT–JACKSON — Protégé relationship; expansion and
   assertive presidency; Polk as institutional heir.
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Polk as agent; presidency,
   provocation, Congress declares war; Treaty of Guadalupe Hidalgo.
-• MEM–AMERICA–LINCOLN — Congressional opposition to the war;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Congressional opposition to the war;
   slavery and territory; moral tension.
-• MEM–AMERICA–MONROE — Hemisphere doctrine; expansion within
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere doctrine; expansion within
   hemisphere; no European belligerent.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Slavery extension into
   acquired territory; sectional conflict; Civil War as deferred
@@ -188,7 +188,7 @@ AMERICA:
   territory; water and boundary.
 • MEM–AMERICA–LAW–CONGRESS — Declaration of war; Art. I; Polk
   requests, Congress authorises.
-• MEM–AMERICA–WASHINGTON — Precedent of civilian control; Polk
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Precedent of civilian control; Polk
   as commander-in-chief through institutional form.
 
 Cross-Civilizational:
@@ -211,5 +211,5 @@ Secondary / cited (ARC-T-MODERN):
   war politics; verbatim cited above.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–POLK — v1.0
+END OF FILE — MEM–AMERICA–PRESIDENT–POLK — v1.0
 ────────────────────────────────────────────────────────────

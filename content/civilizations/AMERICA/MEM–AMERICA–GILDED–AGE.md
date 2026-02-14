@@ -127,11 +127,11 @@ VII. MEM CONNECTIONS (TYPED)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
-• MEM–AMERICA–LINCOLN — Civil War era; rail and commerce expansion; post-war consolidation.
+• MEM–AMERICA–PRESIDENT–LINCOLN — Civil War era; rail and commerce expansion; post-war consolidation.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Union victory; political and economic reintegration; Republican dominance.
 
 ENABLES:
-• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting, Square Deal; Gilded Age concentration provokes response.
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Trust-busting, Square Deal; Gilded Age concentration provokes response.
 • MEM–AMERICA–GREAT–DEPRESSION — Economic scale; contrast (1907 had Morgan; 1929 had no single private rescuer).
 
 GEOGRAPHIC:

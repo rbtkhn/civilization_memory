@@ -157,7 +157,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 
 DEPENDS_ON:
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Convention 1787; Constitution drafted and signed in Philadelphia.
-• MEM–AMERICA–MADISON — Structural design; separation of powers, faction, ambition countering ambition.
+• MEM–AMERICA–PRESIDENT–MADISON — Structural design; separation of powers, faction, ambition countering ambition.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Post-war context; Articles failure; need for new frame.
 
 ENABLES:
@@ -177,9 +177,9 @@ X. MEM BIBLIOGRAPHY
 • U.S. Constitution (1787), Preamble, Articles I–V, X (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • Franklin, Benjamin. Speech at the Constitutional Convention, 17 Sept 1787 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • Tocqueville, Alexis de. *Democracy in America*, Vol. I (1835) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
-• MEM–AMERICA–MADISON — Restraint-through-structure; Federalist logic.
-• MEM–AMERICA–WASHINGTON — Presidency; voluntary surrender; Constitution in operation.
-• MEM–AMERICA–JEFFERSON — Declaration; people as depository; contrast with Madison's structure.
+• MEM–AMERICA–PRESIDENT–MADISON — Restraint-through-structure; Federalist logic.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Presidency; voluntary surrender; Constitution in operation.
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Declaration; people as depository; contrast with Madison's structure.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–LAW–CONSTITUTION — v1.6

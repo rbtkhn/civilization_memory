@@ -110,7 +110,7 @@ INFLUENCE (REQUIRED)
 | MAJOR_WORKS | Reply to Hayne (1830); Seventh of March speech (1850); orations and legal arguments |
 | KEY_DECISIONS | Union defence vs Hayne; support for Compromise of 1850 and Fugitive Slave Law |
 | INFLUENCE_DOMAIN | Oratory; constitutional argument; diplomacy |
-| CITED_IN_MEMS | MEM–AMERICA–CALHOUN, MEM–AMERICA–CLAY, MEM–AMERICA–JACKSON, MEM–AMERICA–LAW–SLAVERY, MEM–AMERICA–WAR–AMERICAN–CIVIL |
+| CITED_IN_MEMS | MEM–AMERICA–CALHOUN, MEM–AMERICA–CLAY, MEM–AMERICA–PRESIDENT–JACKSON, MEM–AMERICA–LAW–SLAVERY, MEM–AMERICA–WAR–AMERICAN–CIVIL |
 
 ────────────────────────────────────────────────────────────
 V. CIVILIZATIONAL MEMORY FUNCTION
@@ -135,19 +135,19 @@ VI. MEM CONNECTIONS (TYPED)
 
 DEPENDS_ON:
 • MEM–AMERICA–LAW–CONSTITUTION — Union as supreme law; people's government.
-• MEM–AMERICA–JACKSON — Nullification Crisis; Webster and Jackson against South Carolina; Clay's compromise as alternative to force.
+• MEM–AMERICA–PRESIDENT–JACKSON — Nullification Crisis; Webster and Jackson against South Carolina; Clay's compromise as alternative to force.
 
 ENABLES:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Union doctrine; Lincoln's later appeal to perpetual Union.
-• MEM–AMERICA–LINCOLN — Gettysburg "government of the people, by the people" echoes Webster's "people's government."
+• MEM–AMERICA–PRESIDENT–LINCOLN — Gettysburg "government of the people, by the people" echoes Webster's "people's government."
 
 GEOGRAPHIC:
 • (Massachusetts; North—no dedicated GEO–MEM; link to section and to LAW–CONSTITUTION.)
 
 TEMPORAL_BEFORE:
-• MEM–AMERICA–MADISON — Founding; Union and federal supremacy.
+• MEM–AMERICA–PRESIDENT–MADISON — Founding; Union and federal supremacy.
 TEMPORAL_AFTER:
-• MEM–AMERICA–LINCOLN — War to preserve the Union Webster had defended.
+• MEM–AMERICA–PRESIDENT–LINCOLN — War to preserve the Union Webster had defended.
 
 CONTRADICTS:
 • MEM–AMERICA–CALHOUN — Union vs state sovereignty; Reply to Hayne vs nullification.

@@ -1,12 +1,12 @@
 # Schlesinger Verbatim Integration Opportunities — MEM–AMERICA
 
-**Purpose:** Identify additional MEM files where Arthur M. Schlesinger Jr. verbatim (≥25 words) would strengthen civilizational memory, with book/section fit and suggested placement. Already integrated: MEM–AMERICA–JACKSON (*The Age of Jackson*), MEM–AMERICA–ROOSEVELT–FRANKLIN (*The Crisis of the Old Order*).
+**Purpose:** Identify additional MEM files where Arthur M. Schlesinger Jr. verbatim (≥25 words) would strengthen civilizational memory, with book/section fit and suggested placement. Already integrated: MEM–AMERICA–PRESIDENT–JACKSON (*The Age of Jackson*), MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN (*The Crisis of the Old Order*).
 
 **ARC scope:** Schlesinger is in CIV–ARC–AMERICA under ARC-T-MODERN with *The Age of Jackson* and *The Age of Roosevelt* (3 vols). To cite *A Thousand Days* or *The Imperial Presidency*, add them to his ARC entry.
 
 ---
 
-## 1. MEM–AMERICA–KENNEDY
+## 1. MEM–AMERICA–PRESIDENT–KENNEDY
 
 **Book:** *A Thousand Days: John F. Kennedy in the White House* (1965).
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 3. MEM–AMERICA–TRUMAN
+## 3. MEM–AMERICA–PRESIDENT–TRUMAN
 
 **Book:** *The Imperial Presidency* (1973).
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 5. MEM–AMERICA–JEFFERSON
+## 5. MEM–AMERICA–PRESIDENT–JEFFERSON
 
 **Book:** *The Age of Jackson* (1945).
 
@@ -80,11 +80,11 @@
 
 **Candidate theme:** From the Goodreads review of *The Age of Jackson* (p. 520): “a century of bitter experience in the democratic fight finally led liberalism to uncover what Jeffersonians had buried: the need for strong government”; “it grew increasingly apparent that workingmen required protection from the mercies of their employers”; “this called for government to take a much more active role in economic life.” A single combined or two-sentence verbatim from that page would tie Jefferson (limited-government rhetoric) to the later Jacksonian/FDR “strong government” correction.
 
-**Action:** Verify exact wording on p. 520 (or nearby) of *The Age of Jackson*; add one SOURCE block to MEM–AMERICA–JEFFERSON in §V or at end of §III.
+**Action:** Verify exact wording on p. 520 (or nearby) of *The Age of Jackson*; add one SOURCE block to MEM–AMERICA–PRESIDENT–JEFFERSON in §V or at end of §III.
 
 ---
 
-## 6. MEM–AMERICA–ROOSEVELT–THEODORE
+## 6. MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE
 
 **Book:** *The Age of Jackson* (1945) or *The Age of Roosevelt* (1957).
 
@@ -110,13 +110,13 @@
 
 ---
 
-## 8. MEM–AMERICA–ADAMS–QUINCY or MEM–AMERICA–LINCOLN
+## 8. MEM–AMERICA–PRESIDENT–ADAMS–JQ or MEM–AMERICA–PRESIDENT–LINCOLN
 
 **Book:** *The Age of Jackson* (Adams as foil); *The Disuniting of America* or other (Lincoln on Know-Nothings, already in Goodreads as Schlesinger-cited Lincoln quote).
 
 **Thematic fit:** Adams–Jackson contest; Lincoln’s warning about nativism (Know-Nothings). Schlesinger in *Disuniting* quotes Lincoln on “all men are created equal, except Negroes, and foreigners, and Catholics” in the Know-Nothing context.
 
-**Suggested placement:** Adams–Quincy MEM if it discusses the 1820s–30s contest; Lincoln MEM only if adding a secondary-source citation of Lincoln’s words (redundant given we now have Lincoln primary verbatim in MEM–AMERICA–LINCOLN).
+**Suggested placement:** Adams–Quincy MEM if it discusses the 1820s–30s contest; Lincoln MEM only if adding a secondary-source citation of Lincoln’s words (redundant given we now have Lincoln primary verbatim in MEM–AMERICA–PRESIDENT–LINCOLN).
 
 **Action:** Optional. Prefer primary Lincoln in Lincoln MEM; use Schlesinger in Adams–Quincy only if MEM thematizes the Jacksonian overturn and a verbatim from *The Age of Jackson* on Adams/elites is found.
 
@@ -126,14 +126,14 @@
 
 | MEM | Schlesinger book | Section / theme | Priority |
 |-----|-------------------|------------------|----------|
-| MEM–AMERICA–KENNEDY | A Thousand Days | Cuba/Castro “betrayal” or paradox of power; §II or §III | High |
+| MEM–AMERICA–PRESIDENT–KENNEDY | A Thousand Days | Cuba/Castro “betrayal” or paradox of power; §II or §III | High |
 | MEM–AMERICA–GREAT–DEPRESSION | Crisis of the Old Order / Coming of the New Deal | Business legitimacy, crash, or New Deal response | High |
-| MEM–AMERICA–TRUMAN | The Imperial Presidency | Displacement of power into imperial Presidency; §II or §IV | High |
+| MEM–AMERICA–PRESIDENT–TRUMAN | The Imperial Presidency | Displacement of power into imperial Presidency; §II or §IV | High |
 | MEM–AMERICA–MACARTHUR | The Imperial Presidency | Civilian control / war powers (verify passage) | Medium |
-| MEM–AMERICA–JEFFERSON | The Age of Jackson | “What Jeffersonians had buried: strong government”; §V | Medium |
-| MEM–AMERICA–ROOSEVELT–THEODORE | Age of Roosevelt / Age of Jackson | TR in liberal cycle | Medium |
+| MEM–AMERICA–PRESIDENT–JEFFERSON | The Age of Jackson | “What Jeffersonians had buried: strong government”; §V | Medium |
+| MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE | Age of Roosevelt / Age of Jackson | TR in liberal cycle | Medium |
 | MEM–AMERICA–MORGAN / CARNEGIE / VANDERBILT | Crisis of the Old Order | Cult of business, 1929 | Low |
-| MEM–AMERICA–ADAMS–QUINCY | The Age of Jackson | Adams as foil to Jackson | Low |
+| MEM–AMERICA–PRESIDENT–ADAMS–JQ | The Age of Jackson | Adams as foil to Jackson | Low |
 
 ---
 
@@ -150,13 +150,13 @@ Then SOURCE blocks using those titles may use (ARC-T-MODERN) [ERC-SECONDARY] wit
 
 ## Implementation Note
 
-- **Kennedy:** Add A Thousand Days to ARC; insert Cuba “betrayal” or “paradox of power” quote in MEM–AMERICA–KENNEDY.
+- **Kennedy:** Add A Thousand Days to ARC; insert Cuba “betrayal” or “paradox of power” quote in MEM–AMERICA–PRESIDENT–KENNEDY.
 - **Great Depression:** Find one verbatim from *Crisis of the Old Order* or *Coming of the New Deal* (business cult, crash, or New Deal); insert in MEM–AMERICA–GREAT–DEPRESSION.
-- **Truman:** Add Imperial Presidency to ARC; insert “displacement of power… imperial Presidency” passage in MEM–AMERICA–TRUMAN (verify exact wording in book).
-- **Jefferson:** Verify p. 520 *Age of Jackson* wording; insert “what Jeffersonians had buried” or “strong government” sentence in MEM–AMERICA–JEFFERSON.
+- **Truman:** Add Imperial Presidency to ARC; insert “displacement of power… imperial Presidency” passage in MEM–AMERICA–PRESIDENT–TRUMAN (verify exact wording in book).
+- **Jefferson:** Verify p. 520 *Age of Jackson* wording; insert “what Jeffersonians had buried” or “strong government” sentence in MEM–AMERICA–PRESIDENT–JEFFERSON.
 
-Reference: CIV–ARC–AMERICA v2.6; existing Schlesinger blocks in MEM–AMERICA–JACKSON, MEM–AMERICA–ROOSEVELT–FRANKLIN.
+Reference: CIV–ARC–AMERICA v2.6; existing Schlesinger blocks in MEM–AMERICA–PRESIDENT–JACKSON, MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN.
 
 ---
 
-**Implementation (February 2026):** Items 1, 2, 3, 5, 6, 7, 8 implemented. MEM–AMERICA–KENNEDY (A Thousand Days, paradox of power); MEM–AMERICA–GREAT–DEPRESSION (Crisis of the Old Order, 1929); MEM–AMERICA–TRUMAN (Imperial Presidency, displacement of power); MEM–AMERICA–JEFFERSON (Age of Jackson, strong government); MEM–AMERICA–ROOSEVELT–THEODORE (Age of Jackson, liberalism/capitalism); MEM–AMERICA–MORGAN (Crisis of the Old Order, 1929); MEM–AMERICA–ADAMS–QUINCY (Age of Jackson, challenge to Adams dynasty). Item 4 (MacArthur) not implemented per user selection.
+**Implementation (February 2026):** Items 1, 2, 3, 5, 6, 7, 8 implemented. MEM–AMERICA–PRESIDENT–KENNEDY (A Thousand Days, paradox of power); MEM–AMERICA–GREAT–DEPRESSION (Crisis of the Old Order, 1929); MEM–AMERICA–PRESIDENT–TRUMAN (Imperial Presidency, displacement of power); MEM–AMERICA–PRESIDENT–JEFFERSON (Age of Jackson, strong government); MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE (Age of Jackson, liberalism/capitalism); MEM–AMERICA–MORGAN (Crisis of the Old Order, 1929); MEM–AMERICA–PRESIDENT–ADAMS–JQ (Age of Jackson, challenge to Adams dynasty). Item 4 (MacArthur) not implemented per user selection.

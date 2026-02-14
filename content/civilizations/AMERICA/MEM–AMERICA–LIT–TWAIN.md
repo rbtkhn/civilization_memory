@@ -143,10 +143,10 @@ Tension preserved without verdict.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–GRANT — Twain publishes Grant's *Personal Memoirs* (1885); Grant's post-war voice and family security; resolution-through-endurance encoded in text.
+• MEM–AMERICA–PRESIDENT–GRANT — Twain publishes Grant's *Personal Memoirs* (1885); Grant's post-war voice and family security; resolution-through-endurance encoded in text.
 • MEM–AMERICA–GEO–MISSISSIPPI–RIVER — Mississippi as freedom, pilot house, steamboat culture; *Life on the Mississippi*; river as internal ocean and cultural spine.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Post-war reckoning; Grant Memoirs as closure narrative; Twain's Missouri/Kentucky/Tennessee roots and slavery context (Chernow: family slaveholding).
-• MEM–AMERICA–JACKSON — Twain's father ruined by Jackson-era bank crisis (Chernow: 1834); frontier and downward mobility as childhood "mental weather."
+• MEM–AMERICA–PRESIDENT–JACKSON — Twain's father ruined by Jackson-era bank crisis (Chernow: 1834); frontier and downward mobility as childhood "mental weather."
 • MEM–AMERICA–MORGAN — *The Gilded Age* (1873) names the era; satire of speculation and concentration; Morgan as later archetype.
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — "To the Person Sitting in Darkness" (1901); anti-imperial satire of civilisation rhetoric.
 
@@ -158,7 +158,7 @@ IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Chernow, Ron. *Mark Twain*. New York: Penguin Press, 2025. Biography; Prelude "The Pilot House," Ch. 1 "Loveless Marriage"; Mississippi as freedom, paradox of fame and youth (ARC-T-MODERN) [ERC-SECONDARY].
 • CIV–ARC–AMERICA — Chernow (Grant, Mark Twain) in ARC-T-MODERN.
-• MEM–AMERICA–GRANT — Grant Memoirs; Twain as publisher; MEM–AMERICA–GEO–MISSISSIPPI–RIVER — river and pilot house.
+• MEM–AMERICA–PRESIDENT–GRANT — Grant Memoirs; Twain as publisher; MEM–AMERICA–GEO–MISSISSIPPI–RIVER — river and pilot house.
 • Twain, Mark. *Life on the Mississippi*. 1883. Ch. 14 (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Twain, Mark. *The Gilded Age* (with Charles Dudley Warner). 1873. Preface (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Twain, Mark. "To the Person Sitting in Darkness." *North American Review*, Feb. 1901 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 
 ────────────────────────────────────────────────────────────

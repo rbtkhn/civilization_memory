@@ -166,9 +166,9 @@ SOURCE — Chernow, *Grant* (ARC-T-MODERN):
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–LINCOLN — Crisis presidency; union preservation;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Crisis presidency; union preservation;
   emancipation; legitimacy under stress; assassination.
-• MEM–AMERICA–GRANT — Union commander; attrition and surrender;
+• MEM–AMERICA–PRESIDENT–GRANT — Union commander; attrition and surrender;
   Appomattox terms; general who accepted civilian control; later
   president.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Union total war; Atlanta,
@@ -201,10 +201,10 @@ AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–CONFEDERACY — Secession polity;
   compact theory; defeat and procedural reintegration; Appomattox;
   Union and Lost Cause memory.
-• MEM–AMERICA–WASHINGTON — Founding restraint; civilian control;
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Founding restraint; civilian control;
   Civil War reaffirms president over army; contrast: Washington
   voluntary exit, Lincoln death in office.
-• MEM–AMERICA–JEFFERSON — Republican and territorial vision;
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Republican and territorial vision;
   slavery deferred at founding; Civil War as deferred reckoning.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Founding war (exit from
   empire); Civil War as inverse (deny exit from union); same

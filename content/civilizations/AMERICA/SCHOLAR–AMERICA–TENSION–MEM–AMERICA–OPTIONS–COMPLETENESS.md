@@ -22,7 +22,7 @@
 
 ---
 
-## 3. MEM–AMERICA–MONROE
+## 3. MEM–AMERICA–PRESIDENT–MONROE
 
 **Tension:** The MEM encodes the Monroe Doctrine as **declarative perimeter**—"no new European colonization in the Americas," "U.S. abstains from European power struggles." The Doctrine is "strategic signal"; "form precedes force." The MEM does **not** present "we might relax the Monroe Doctrine" or "we might not enforce the perimeter" as an option. The perimeter is the commitment; the MEM models declaration and enforcement, not the contingency of reversal.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 4. MEM–AMERICA–LINCOLN
+## 4. MEM–AMERICA–PRESIDENT–LINCOLN
 
 **Tension:** The MEM encodes **"Procedure becomes non-negotiable"** and **Union as perpetual**—"no State, upon its own mere motion, can lawfully get out of the Union." Lincoln's First Inaugural frames secession as "legally void." So for Lincoln, the commitment (Union) is **non-negotiable**; the option "let the South go" or "negotiate separation" is constitutionally and morally off the table in the MEM's encoding.
 
@@ -68,10 +68,10 @@ DIRECTION 7 — LEARN PASS: MONROE AND PERIMETER REVERSALS
 1. **Suez (1956) — MEM–AMERICA–GEO–SUEZ–CANAL / MEM–ANGLIA–GEO–SUEZ–CANAL**  
    Britain’s commitment was declarative and operational: “Suez will not be closed”; control without sovereignty for 80 years. **Reversal:** Nasser nationalizes (July 1956); Britain tries to retake; U.S. opposition and financial pressure force withdrawal. Britain **loses** the canal. **Encoding:** Section VII is titled “LOSS WITHOUT COLLAPSE.” “You can lose the lifeline and live.” “Loss of Suez does not collapse Britain.” “Empire ends; state survives.” So the reversal is encoded as **forced loss** (Britain did not choose to leave; they tried to hold and were forced out), but the **outcome** is encoded as **survivable**—state survives, empire optional. The option “accept nationalization or negotiate exit” is not explicitly in the MEM as a briefed option before the crisis; the narrative is “tried to retake, failed, withdrew.” So this is **reversal of a declarative commitment** encoded as **forced loss + survival**, not as “we chose to give it up.” It still adds depth: when a perimeter/node is reversed by force, the MEM can encode it as survivable rather than civilizational collapse.
 
-2. **Roosevelt Corollary (1904) — MEM–AMERICA–ROOSEVELT–THEODORE**  
+2. **Roosevelt Corollary (1904) — MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE**  
    This is **reinterpretation** of Monroe, not relaxation. TR adds preventive intervention (“hemispheric policeman”); “Monroe can be upgraded to corollary.” The perimeter is **strengthened**, not relaxed. So no perimeter-reversal case here.
 
-3. **Nixon/Kissinger — MEM–AMERICA–NIXON, MEM–AMERICA–KISSINGER**  
+3. **Nixon/Kissinger — MEM–AMERICA–PRESIDENT–NIXON, MEM–AMERICA–KISSINGER**  
    “Hemisphere perimeter (Monroe) is **not abandoned** but **supplemented** by great-power management beyond the hemisphere.” Monroe is **preserved**; no relaxation of the declarative commitment.
 
 **Learning:**  

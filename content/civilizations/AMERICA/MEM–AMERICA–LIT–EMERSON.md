@@ -114,7 +114,7 @@ AMERICA:
   vs. Emerson's transcendental, Northern, establishment-adjacent.
 • MEM–AMERICA–LIT–PAINE — Earlier catalytic voice; Paine mobilises
   rupture, Emerson authorises individual refusal; both non-institutional.
-• MEM–AMERICA–JACKSON — Era of Emerson's rise; Jacksonian democracy
+• MEM–AMERICA–PRESIDENT–JACKSON — Era of Emerson's rise; Jacksonian democracy
   and Emersonian individualism as parallel (and sometimes tense) currents.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — "Shot heard round the world"
   (Emerson, "Concord Hymn"); Revolution as sacred American origin.

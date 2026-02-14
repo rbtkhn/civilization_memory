@@ -107,9 +107,9 @@ AMERICA:
   the American.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Drum-Taps; hospital visits;
   Lincoln elegy; war encoded in verse.
-• MEM–AMERICA–LINCOLN — "When Lilacs Last in the Dooryard Bloom'd";
+• MEM–AMERICA–PRESIDENT–LINCOLN — "When Lilacs Last in the Dooryard Bloom'd";
   Lincoln's death as national trauma in poetry.
-• MEM–AMERICA–JACKSON — Era of Whitman's youth; democratic
+• MEM–AMERICA–PRESIDENT–JACKSON — Era of Whitman's youth; democratic
   expansion and the "common man" as context for the democratic "I."
 
 Cross-references denote lineage, not equivalence.

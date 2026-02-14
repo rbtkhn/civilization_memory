@@ -1,4 +1,4 @@
-MEM–AMERICA–MCKINLEY — v1.0
+MEM–AMERICA–PRESIDENT–MCKINLEY — v1.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
@@ -53,7 +53,7 @@ INFLUENCE (REQUIRED)
 | MAJOR_WORKS | (State papers; war messages; tariff and monetary policy) |
 | KEY_DECISIONS | Gold standard; Spanish–American War; annexation Hawaii, Philippines, Puerto Rico, Guam; Open Door policy; reciprocal trade; special relationship with Britain; executive and press management |
 | INFLUENCE_DOMAIN | Diplomatic, Military (civilian direction), Economic |
-| CITED_IN_MEMS | MEM–AMERICA–WAR–SPANISH–AMERICAN; MEM–AMERICA–ROOSEVELT–THEODORE; MEM–AMERICA–MONROE |
+| CITED_IN_MEMS | MEM–AMERICA–WAR–SPANISH–AMERICAN; MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE; MEM–AMERICA–PRESIDENT–MONROE |
 
 ────────────────────────────────────────────────────────────
 III. ORIGIN: CIVIL WAR, CONGRESS, OHIO
@@ -167,14 +167,14 @@ AMERICA:
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — McKinley as agent;
   presidency, declaration, Treaty of Paris; Cuba, Philippines,
   Puerto Rico, Guam.
-• MEM–AMERICA–ROOSEVELT–THEODORE — Successor; inherits
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Successor; inherits
   McKinley's design; Rough Riders in same war; TR as energiser,
   McKinley as architect.
-• MEM–AMERICA–MONROE — Hemisphere doctrine; Cuba in hemisphere;
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere doctrine; Cuba in hemisphere;
   Philippines as extra-hemispheric extension.
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Contrast: continental
   annexation vs. maritime and nodal; Polk vs. McKinley.
-• MEM–AMERICA–ADAMS–QUINCY — Doctrine-drafting precedent;
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Doctrine-drafting precedent;
   McKinley extends through Open Door and war outcome.
 • MEM–AMERICA–GEO–PACIFIC–OCEAN — Philippines, Guam, Hawaii;
   Pacific dimension of U.S. reach secured under McKinley.
@@ -184,11 +184,11 @@ AMERICA:
   Pacific node; overthrow and resolution.
 • MEM–AMERICA–GEO–ATLANTIC — Maritime core; Caribbean (Cuba,
   Puerto Rico); naval projection.
-• MEM–AMERICA–KENNEDY — Cuba again (Bay of Pigs, Missile Crisis);
+• MEM–AMERICA–PRESIDENT–KENNEDY — Cuba again (Bay of Pigs, Missile Crisis);
   Spanish–American War as first U.S. stake in Cuba.
 • MEM–AMERICA–LAW–CONGRESS — Declaration of war; Art. I;
   McKinley requests, Congress authorises.
-• MEM–AMERICA–WASHINGTON — Civilian control; McKinley as
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Civilian control; McKinley as
   commander-in-chief through institutional form.
 
 Cross-Civilizational:
@@ -210,5 +210,5 @@ Secondary / cited (ARC-T-MODERN):
   presidency, imperial turn, incrementalism; verbatim cited above.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MCKINLEY — v1.0
+END OF FILE — MEM–AMERICA–PRESIDENT–MCKINLEY — v1.0
 ────────────────────────────────────────────────────────────

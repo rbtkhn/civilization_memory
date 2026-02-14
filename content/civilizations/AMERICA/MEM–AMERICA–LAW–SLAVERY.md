@@ -172,8 +172,8 @@ DEPENDS_ON:
 
 ENABLES:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Slavery as deferred contradiction; fugitive enforcement, Dred Scott, secession; war and 13th Amendment.
-• MEM–AMERICA–LINCOLN — Emancipation Proclamation; union first, then abolition; legitimacy reframed.
-• MEM–AMERICA–ADAMS–QUINCY — Congressional anti-slavery; gag rule; procedure vs moral rupture.
+• MEM–AMERICA–PRESIDENT–LINCOLN — Emancipation Proclamation; union first, then abolition; legitimacy reframed.
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Congressional anti-slavery; gag rule; procedure vs moral rupture.
 
 CONTRADICTS:
 • MEM–AMERICA–LAW–BILL–RIGHTS — Rights as limits on federal power; slavery was federal protection of state-defined status; tension preserved.
@@ -186,8 +186,8 @@ PARALLELS:
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • U.S. Constitution, Art. I §2 cl.3, Art. I §9 cl.1, Art. IV §2 cl.3 (1787); Amendment XIII (1865) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
-• MEM–AMERICA–LINCOLN — Emancipation Proclamation; union and abolition.
-• MEM–AMERICA–JEFFERSON — Founding tension; "book of fate"; slavery at Convention.
+• MEM–AMERICA–PRESIDENT–LINCOLN — Emancipation Proclamation; union and abolition.
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Founding tension; "book of fate"; slavery at Convention.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — War as resolution of slavery contradiction; 13th Amendment.
 
 ────────────────────────────────────────────────────────────

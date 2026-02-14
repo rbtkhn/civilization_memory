@@ -6,9 +6,9 @@
 
 ---
 
-## 1. MEM–AMERICA–JACKSON
+## 1. MEM–AMERICA–PRESIDENT–JACKSON
 
-**File:** `content/civilizations/AMERICA/MEM–AMERICA–JACKSON.md`  
+**File:** `content/civilizations/AMERICA/MEM–AMERICA–PRESIDENT–JACKSON.md`  
 **Why:** Tocqueville visited during the Jackson presidency (1831–1832); *Democracy in America* Vol. I (1835) is the classic external portrait of Jacksonian democracy—majority rule, equality of conditions, expansion of suffrage, and the risks of majority tyranny. The MEM already has Jefferson (people as depository) and Twain; Tocqueville adds the contemporary external diagnostician.
 
 **Suggested placement:** Section III (Populism as legitimacy claim) or Section V (Majority and institutional stress)—after the Jefferson SOURCE block, or in a new short paragraph on “external observer.”
@@ -72,9 +72,9 @@
 
 ---
 
-## 5. MEM–AMERICA–WASHINGTON
+## 5. MEM–AMERICA–PRESIDENT–WASHINGTON
 
-**File:** `content/civilizations/AMERICA/MEM–AMERICA–WASHINGTON.md`  
+**File:** `content/civilizations/AMERICA/MEM–AMERICA–PRESIDENT–WASHINGTON.md`  
 **Why:** Washington is “rupture in allegiance, continuity in form” and voluntary surrender of power. Tocqueville’s *Democracy in America* describes the American institutions and mores that emerged from that founding—federalism, restraint, civilian control. A short Tocqueville quote can frame the republic Tocqueville observed as the outcome of Washington’s kind of restraint.
 
 **Suggested placement:** Section IV (Voluntary power surrender) or Section V (Civilizational memory function)—“the structure Washington helped establish was still observable a half-century later.”
@@ -115,11 +115,11 @@
 
 | MEM | Section | Quote theme | ERC |
 |-----|---------|-------------|-----|
-| MEM–AMERICA–JACKSON | III or V | Federal structure and/or majority tyranny | PRIMARY / CONTEXTUAL |
+| MEM–AMERICA–PRESIDENT–JACKSON | III or V | Federal structure and/or majority tyranny | PRIMARY / CONTEXTUAL |
 | MEM–AMERICA–LAW–FEDERALISM | II or III | Union vs States sovereignty | PRIMARY |
 | MEM–AMERICA–LAW–CONSTITUTION | IV | Union vs States sovereignty | PRIMARY |
 | MEM–AMERICA–COLONIAL–PHILADELPHIA | IV or V | Associations and civilization | PRIMARY |
-| MEM–AMERICA–WASHINGTON | IV or V | Federalism or associations (outcome of restraint) | PRIMARY |
+| MEM–AMERICA–PRESIDENT–WASHINGTON | IV or V | Federalism or associations (outcome of restraint) | PRIMARY |
 | MEM–AMERICA–LAW–CONGRESS | III | Union vs States sovereignty | PRIMARY |
 | MEM–AMERICA–REVOLUTION or WAR–INDEPENDENCE | Memory function / Continuity | Federalism or associations (outcome) | PRIMARY |
 

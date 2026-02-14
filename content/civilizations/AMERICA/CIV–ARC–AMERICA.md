@@ -1,11 +1,11 @@
-CIV–ARC–AMERICA — v2.15
+CIV–ARC–AMERICA — v2.16
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · AMERICA
 
 Status: ACTIVE · CANONICAL
-Version: 2.15
-Supersedes: CIV–ARC–AMERICA v2.14
-Upgrade Type: ADDITIVE · Benjamin Franklin (Autobiography, Albany Plan, Convention speech), ARC-T-EARLY-MOD
+Version: 2.16
+Supersedes: CIV–ARC–AMERICA v2.15
+Upgrade Type: ADDITIVE · Robert Caro (The Years of Lyndon Johnson), ARC-T-MODERN
 Derived from: CIV–ARC–ANGLIA v3.0
 Entity: United States / America (Western Hemisphere hegemon)
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
@@ -201,6 +201,12 @@ and to constitutive Anglian-derived content):
 • Tim McGrath — James Monroe: A Life (New York: Dutton, 2020) (as
   applicable for Monroe, Monroe Doctrine, Louisiana Purchase, Revolutionary
   War service, presidency, Era of Good Feelings; Tier 2 biography)
+• Robert A. Caro (b. 1935) — The Years of Lyndon Johnson (New York: Knopf):
+  *The Path to Power* (1982), *Means of Ascent* (1990), *Master of the Senate*
+  (2002), *The Passage of Power* (2012); *The Power Broker: Robert Moses and
+  the Fall of New York* (1974). As applicable for LBJ, Senate, presidency,
+  Great Society, Vietnam, political power and procedure; primary biographical
+  and institutional source for Johnson era (ARC-T-MODERN).
 
 Only listed authors may be quoted without ARC–DISCOVERY flag. For
 sources not listed here but listed in ARC–ANGLIA and used for
@@ -299,6 +305,9 @@ v2.1 — Derivation alignment. Binding derivation clause added to
   citation, derived from ARC–ANGLIA § V-A). Section VIII wording
   aligned with ARC–ANGLIA ("referenced by version pointer"; single
   source of truth). February 2026.
+v2.16 — Robert A. Caro added to ARC-T-MODERN: The Years of Lyndon Johnson
+  (four volumes to date), The Power Broker; applicable for LBJ, Senate,
+  presidency, Great Society, political power. February 2026.
 
 ────────────────────────────────────────────────────────────
 IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)
@@ -400,5 +409,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   Editorial Note: U.S. federally funded R&D; close to DoD; analysis and modelling
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–AMERICA v2.1
+END OF FILE — CIV–ARC–AMERICA v2.16
 ────────────────────────────────────────────────────────────

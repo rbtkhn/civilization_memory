@@ -327,7 +327,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–CRIMEA — conference location
 
 Cross-civilizational:
-• MEM–AMERICA–ROOSEVELT — negotiating partner (last summit)
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — negotiating partner (last summit)
 • MEM–BRITANNIA–CHURCHILL — negotiating partner
 • MEM–POLONIA–YALTA — national trauma
 

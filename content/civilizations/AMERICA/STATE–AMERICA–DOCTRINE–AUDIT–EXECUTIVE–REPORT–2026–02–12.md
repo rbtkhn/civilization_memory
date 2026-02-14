@@ -15,7 +15,7 @@ This report audits **current U.S. foreign policy** (as reflected in the 2025 Nat
 **Sources used for current policy:**  
 White House 2025 National Security Strategy (December 2025); public statements and policy characterisations. Editorial note: Official strategy documents are the primary authority for administration position (ARC–AMERICA ARC-T-INSTITUTIONAL). Where no direct quote is cited, the characterisation is inferred from published strategy and open reporting.
 
-**Historical grounding:** MEM–AMERICA–MONROE (declarative perimeter, procedure before capacity); MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN / MEM–ANGLIA–CANADA (procedural exit, defeat without legitimacy collapse); CIV–STATE–AMERICA Section VII (Decision-Relevant History); MEM–RELEVANCE–AMERICA dimensions (hegemony maintenance, alliance/coalition, dual-ocean).
+**Historical grounding:** MEM–AMERICA–PRESIDENT–MONROE (declarative perimeter, procedure before capacity); MEM–ANGLIA–WAR–AMERICAN–INDEPENDENCE–YORKTOWN / MEM–ANGLIA–CANADA (procedural exit, defeat without legitimacy collapse); CIV–STATE–AMERICA Section VII (Decision-Relevant History); MEM–RELEVANCE–AMERICA dimensions (hegemony maintenance, alliance/coalition, dual-ocean).
 
 **Three perspectives applied:** legitimacy and institutional continuity; power distribution and structural constraint; leadership liability and mechanism. Tensions between perspectives are preserved; no single verdict is imposed.
 
@@ -34,7 +34,7 @@ The 2025 National Security Strategy frames U.S. interests in five vital areas: W
 **Definition (Doctrine 01):** Authority in process and precedent; continuity survives defeat if procedure remains intact; Constitution and congressional process anchor legitimacy.
 
 **Audit:**  
-Current policy is framed through executive strategy documents and existing statutory and treaty structures. Alliance commitments (NATO, bilateral) and congressional appropriations and war-powers practice remain the procedural backbone of engagement. **Alignment:** Strategy is articulated within the existing procedural frame; no overt bypass of constitutional or legislative process is asserted. **Risk:** Conditioning alliances on burden-sharing and prioritising “American prosperity” can be read as procedural (renegotiation, reciprocity) or as a drift toward unilateralism if consultation and treaty adherence are weakened. Precedent: Monroe declared perimeter when U.S. capacity was embryonic; procedure and declaration preceded force (MEM–AMERICA–MONROE).
+Current policy is framed through executive strategy documents and existing statutory and treaty structures. Alliance commitments (NATO, bilateral) and congressional appropriations and war-powers practice remain the procedural backbone of engagement. **Alignment:** Strategy is articulated within the existing procedural frame; no overt bypass of constitutional or legislative process is asserted. **Risk:** Conditioning alliances on burden-sharing and prioritising “American prosperity” can be read as procedural (renegotiation, reciprocity) or as a drift toward unilateralism if consultation and treaty adherence are weakened. Precedent: Monroe declared perimeter when U.S. capacity was embryonic; procedure and declaration preceded force (MEM–AMERICA–PRESIDENT–MONROE).
 
 **Verdict:** **ALIGNED** — provided alliance recalibration and conditionality remain within treaty and legislative process. **Watch:** Any sustained pattern of bypassing Congress or alliance consultation would stress Doctrine 01.
 
@@ -78,7 +78,7 @@ The strategy stresses deterrence, supply-chain resilience, and avoiding unnecess
 **Definition (Doctrine 05):** Legitimacy externalised through alliances and multilateral frameworks; allies absorb cost and share legitimacy; balance and alliance prioritised over unilateral dominance.
 
 **Audit:**  
-The 2025 strategy explicitly conditions alliances on greater burden-sharing and frames European and Indo-Pacific security in terms of allies. This is consistent with coalition primacy if the result is a more capable, shared order. **Tension:** If “conditioning” is read by partners as reduced U.S. commitment or as transactional withdrawal, legitimacy externalisation weakens and Doctrine 05 is stressed. Historical pattern: NATO and UN as legitimacy and burden-sharing frameworks (doctrine illustrations); Monroe relied on British naval underwriting (MEM–AMERICA–MONROE). The line between “stronger coalitions” and “weaker U.S. commitment” is perceptual and politically contested.
+The 2025 strategy explicitly conditions alliances on greater burden-sharing and frames European and Indo-Pacific security in terms of allies. This is consistent with coalition primacy if the result is a more capable, shared order. **Tension:** If “conditioning” is read by partners as reduced U.S. commitment or as transactional withdrawal, legitimacy externalisation weakens and Doctrine 05 is stressed. Historical pattern: NATO and UN as legitimacy and burden-sharing frameworks (doctrine illustrations); Monroe relied on British naval underwriting (MEM–AMERICA–PRESIDENT–MONROE). The line between “stronger coalitions” and “weaker U.S. commitment” is perceptual and politically contested.
 
 **Verdict:** **PARTIALLY ALIGNED** — coalition and burden-sharing are central; **risk** if partners interpret policy as unilateral retrenchment. **Watch:** Ally rhetoric and institutional commitment (NATO, Asian alliances).
 
@@ -157,7 +157,7 @@ Per CIV–CORE–AMERICA Section II (Legitimacy Accounting) and diagnostics:
 - CIV–CORE–AMERICA v1.0 (axioms, legitimacy accounting, doctrine citation)
 - CIV–DOCTRINE–AMERICA v1.0 (doctrines 01–07, definitions, hard constraints)
 - CIV–STATE–AMERICA v1.0 (Section III–VII; material options; decision-relevant history)
-- MEM–AMERICA–MONROE (declarative perimeter; procedure before capacity)
+- MEM–AMERICA–PRESIDENT–MONROE (declarative perimeter; procedure before capacity)
 - MEM–RELEVANCE–AMERICA (dimensions: hegemony maintenance, coalition, dual-ocean)
 - White House 2025 National Security Strategy (December 2025) — ARC–AMERICA ARC-T-INSTITUTIONAL (OFFICIAL)
 - Editorial: Current policy characterisation also informed by open reporting; contradictions between sources not identified for this report.

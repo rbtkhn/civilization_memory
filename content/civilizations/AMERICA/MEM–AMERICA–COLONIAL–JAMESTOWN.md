@@ -68,9 +68,9 @@ AMERICA:
   precedent; Virginia and Continental Congress; procedural secession.
 • MEM–AMERICA–WAR–SEVEN–YEARS — Colonial Virginia; Washington's
   early theatre; imperial strain after British victory.
-• MEM–AMERICA–WASHINGTON — Virginian; colonial officer; Jamestown
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Virginian; colonial officer; Jamestown
   and Virginia as cultural-political origin.
-• MEM–AMERICA–JEFFERSON — Virginian; founding; colonial assembly
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Virginian; founding; colonial assembly
   and rights tradition.
 • MEM–AMERICA–COLONIAL–PLYMOUTH — Contrast: Plymouth covenant
   (1620); Jamestown commercial and assembly; two colonial origins.

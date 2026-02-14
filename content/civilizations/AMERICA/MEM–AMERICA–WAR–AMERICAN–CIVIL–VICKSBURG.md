@@ -97,7 +97,7 @@ V. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Parent war; scale and attrition;
   river control; Vicksburg as strategic severance.
-• MEM–AMERICA–GRANT — Campaign commander; siege and surrender;
+• MEM–AMERICA–PRESIDENT–GRANT — Campaign commander; siege and surrender;
   attrition logic; civilian subordination.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Participant (Vicksburg
   with Grant); later Atlanta and March to the Sea; same western

@@ -129,7 +129,7 @@ VII. MEM CONNECTIONS (TYPED)
 
 DEPENDS_ON:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Union victory; Republican Congress; no Southern bloc to block Pacific railway.
-• MEM–AMERICA–LINCOLN — Rail and commerce; Republican expansion policy.
+• MEM–AMERICA–PRESIDENT–LINCOLN — Rail and commerce; Republican expansion policy.
 • MEM–AMERICA–GEO–ROCKIES — Terrain crossed; passes and corridor.
 
 ENABLES:

@@ -155,16 +155,16 @@ of state role as the survival response.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–ROOSEVELT–FRANKLIN — Crisis steward; New Deal;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — Crisis steward; New Deal;
   entry at nadir (1933); four terms; depression and war as
   dual emergency.
-• MEM–AMERICA–LINCOLN — Precedent for crisis presidency;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Precedent for crisis presidency;
   executive stretch to preserve union; Depression as non-military
   parallel—legitimacy under existential stress.
-• MEM–AMERICA–WASHINGTON — Restraint and limit; Depression
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Restraint and limit; Depression
   response expands state beyond founding expectation; contrast
   in scale of federal role.
-• MEM–AMERICA–JACKSON — Bank War; destruction of Second Bank;
+• MEM–AMERICA–PRESIDENT–JACKSON — Bank War; destruction of Second Bank;
   no central bank until Fed (1913). Depression-era bank failures
   and Fed response echo structural question of who stabilizes
   finance.

@@ -130,14 +130,14 @@ AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Postwar strain leads
   to revolution; Seven Years' War as cause of imperial crisis;
   same generation, second war.
-• MEM–AMERICA–WASHINGTON — First military lessons in this war;
+• MEM–AMERICA–PRESIDENT–WASHINGTON — First military lessons in this war;
   colonial officer; later commander of Continental Army; restraint
   and deference formed in imperial context.
 • MEM–AMERICA–GEO–OHIO–RIVER — Theatre of conflict; imperial
   competition; "Origin of Seven Years' War" (subject tag).
-• MEM–AMERICA–JEFFERSON — Founding generation; postwar strain
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Founding generation; postwar strain
   and grievance; Declaration logic.
-• MEM–AMERICA–ADAMS — Founding generation; postwar resistance
+• MEM–AMERICA–PRESIDENT–ADAMS — Founding generation; postwar resistance
   and independence.
 
 Cross-Civilizational:

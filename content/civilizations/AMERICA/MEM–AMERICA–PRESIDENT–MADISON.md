@@ -1,4 +1,4 @@
-MEM–AMERICA–MADISON — v1.2
+MEM–AMERICA–PRESIDENT–MADISON — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -151,7 +151,7 @@ AMERICA:
   of federal design and constrained sovereignty.
 • MEM–AMERICA–LAW–BILL–RIGHTS — Madison's role in drafting and adopting
   amendments to secure ratification legitimacy.
-• MEM–AMERICA–JEFFERSON — Productive tension between abstract rights
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Productive tension between abstract rights
   language and institutional checks-and-balances design.
 
 Cross-Civilizational:
@@ -161,5 +161,5 @@ Cross-Civilizational:
 Cross-references denote lineage, not equivalence.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MADISON — v1.2
+END OF FILE — MEM–AMERICA–PRESIDENT–MADISON — v1.2
 ────────────────────────────────────────────────────────────

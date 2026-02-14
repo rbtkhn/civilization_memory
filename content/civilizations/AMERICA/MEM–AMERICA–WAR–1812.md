@@ -145,13 +145,13 @@ AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — First war with Britain;
   independence won; 1812 as second contest; no territorial change
   either way at Ghent.
-• MEM–AMERICA–MADISON — War president; declaration of war;
+• MEM–AMERICA–PRESIDENT–MADISON — War president; declaration of war;
   procedural initiation; capital burned on his watch.
-• MEM–AMERICA–JACKSON — New Orleans (1815); defensive victory;
+• MEM–AMERICA–PRESIDENT–JACKSON — New Orleans (1815); defensive victory;
   martial legitimacy; later president.
-• MEM–AMERICA–WASHINGTON — Founding restraint; 1812 as post-founding
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Founding restraint; 1812 as post-founding
   assertion; contrast: no conquest of Canada.
-• MEM–AMERICA–MONROE — Post-war consolidation; era of good feelings;
+• MEM–AMERICA–PRESIDENT–MONROE — Post-war consolidation; era of good feelings;
   border and navy policy after 1815.
 
 Cross-Civilizational:

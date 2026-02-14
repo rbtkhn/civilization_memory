@@ -65,7 +65,7 @@ INFLUENCE (REQUIRED)
 | MAJOR_WORKS | A World Restored (1957); Diplomacy (1994); World Order (2014); On China (2011) |
 | KEY_DECISIONS | Opening to China (1971–1972); détente with USSR; Paris Accords / Vietnam exit; Middle East shuttle; SALT |
 | INFLUENCE_DOMAIN | Diplomatic, Intellectual |
-| CITED_IN_MEMS | MEM–AMERICA–NIXON |
+| CITED_IN_MEMS | MEM–AMERICA–PRESIDENT–NIXON |
 
 ────────────────────────────────────────────────────────────
 III. INTELLECTUAL FRAME: ORDER AND BALANCE
@@ -158,28 +158,28 @@ Tension preserved without verdict.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–NIXON — Principal; Kissinger as NSA and Secretary;
+• MEM–AMERICA–PRESIDENT–NIXON — Principal; Kissinger as NSA and Secretary;
   opening to China, détente, Vietnam exit; realpolitik executed.
-• MEM–AMERICA–MONROE — Hemisphere perimeter; Kissinger-era
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere perimeter; Kissinger-era
   policy extends beyond hemisphere (China, USSR); great-power
   management as supplement.
-• MEM–AMERICA–KENNEDY — Predecessor era; Vietnam commitment;
+• MEM–AMERICA–PRESIDENT–KENNEDY — Predecessor era; Vietnam commitment;
   Kissinger negotiates exit; contrast in approach (détente vs.
   confrontation).
-• MEM–AMERICA–EISENHOWER — Predecessor; Cold War management;
+• MEM–AMERICA–PRESIDENT–EISENHOWER — Predecessor; Cold War management;
   Kissinger's détente as later phase of containment and balance.
-• MEM–AMERICA–WASHINGTON — Restraint and precedent; Kissinger's
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Restraint and precedent; Kissinger's
   diplomacy as strategic engagement; contrast with Washington's
   neutrality.
-• MEM–AMERICA–ADAMS–QUINCY — Doctrine-draftsman precedent;
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Doctrine-draftsman precedent;
   Kissinger as intellectual and executor of doctrine (balance,
   order).
 • MEM–AMERICA–LAW–CONGRESS — Secret diplomacy and executive
   prerogative; Congress and oversight; Kissinger's back-channels
   as procedure-adjacent.
-• MEM–AMERICA–TRUMAN — Containment launch; Kissinger's détente
+• MEM–AMERICA–PRESIDENT–TRUMAN — Containment launch; Kissinger's détente
   as evolution of containment (engagement alongside competition).
-• MEM–AMERICA–NIXON (Watergate) — Kissinger not implicated in
+• MEM–AMERICA–PRESIDENT–NIXON (Watergate) — Kissinger not implicated in
   break-in; continuity of foreign policy under Ford; procedure
   rupture domestic, not in Kissinger's diplomatic domain.
 

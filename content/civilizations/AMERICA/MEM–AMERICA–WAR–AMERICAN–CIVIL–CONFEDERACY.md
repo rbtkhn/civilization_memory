@@ -128,9 +128,9 @@ AMERICA:
   material turning; western capacity severed.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG — Confederate offensive
   exhausted; legitimacy inflection for Union.
-• MEM–AMERICA–LINCOLN — Union president; preservation of Union;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Union president; preservation of Union;
   war against Confederacy as rebellion.
-• MEM–AMERICA–GRANT — Union commander; attrition and Appomattox
+• MEM–AMERICA–PRESIDENT–GRANT — Union commander; attrition and Appomattox
   terms; defeat of Confederacy without annihilation.
 
 Cross-Civilizational:

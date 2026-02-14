@@ -1,4 +1,4 @@
-CIV–DOCTRINE–AMERICA — v1.1
+CIV–DOCTRINE–AMERICA — v1.2
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
@@ -6,11 +6,11 @@ Status: ACTIVE · CANONICAL · LOCKED
 Civilization: AMERICA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–AMERICA (Explicit Acceptance)
-Compatibility: CIV–MEM–CORE v3.0 · CIV–STATE–AMERICA v1.0 · CIV–SCHOLAR–AMERICA v1.0
+Compatibility: CIV–MEM–CORE v3.0 · CIV–STATE–AMERICA v1.0 · CIV–SCHOLAR–AMERICA v1.7
 Derived from: CIV–DOCTRINE–ANGLIA v3.0 · CIV–DOCTRINE–TEMPLATE v3.2
 Last Update: February 2026
-Word Count: ~1,750
-Supersedes: v1.0 (v1.1 adds Section VI-A: Application, Contingency & Executive Use)
+Word Count: ~1,950
+Supersedes: v1.1 (v1.2 adds Doctrine 08 from SYNTHESIS 0007)
 
 **DERIVATION CLAUSE (BINDING):**
 This doctrine registry is **derived from CIV–DOCTRINE–ANGLIA**. America inherits
@@ -19,8 +19,9 @@ and federal structure; (b) Western Hemisphere hegemon role; (c) dual-ocean
 (Atlantic–Pacific) strategic posture; (d) 1945 inheritance of British Empire
 role and 1991 unipolar structural condition. Doctrines 01–07 are one-to-one
 adaptations of Anglian doctrines 01–07, accepted as the initial doctrine set
-via DIB–AMERICA. Subsequent doctrines must follow the standard admissibility
-chain (FROZEN SYNTHESIS in CIV–SCHOLAR–AMERICA → DIB–AMERICA).
+via DIB–AMERICA. Doctrine 08 derives from SYNTHESIS 0007 (CIV–SCHOLAR–AMERICA),
+frozen and accepted via DIB–AMERICA. Subsequent doctrines must follow the
+standard admissibility chain (FROZEN SYNTHESIS in CIV–SCHOLAR–AMERICA → DIB–AMERICA).
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -86,6 +87,10 @@ Key principle:
 • Reinforces morale and compliance
 • Does not generate power independently
 • Never substitutes for procedure or capacity
+
+[08 FIRST SUCCESSION AND EMPIRE OF LAWS]
+• Supports Doctrine 01 (procedure-over-person)
+• First succession (1801) and stress moments (Jackson, 1937, Nixon) as evidence
 
 Sequencing Note:
 Misapplication (e.g., invoking delay, coalition logic, or myth without
@@ -329,6 +334,45 @@ Hard Constraints:
 • Myth collapses if contradicted by procedure
 • Symbolism cannot override institutional failure
 • Narrative without enforcement accelerates decay
+
+────────────────────────────────────────────────────────────
+
+DOCTRINE 08
+Name: FIRST SUCCESSION AND EMPIRE OF LAWS
+Status: ACCEPTED · LOCKED · CANONICAL
+Source: CIV–SCHOLAR–AMERICA SYNTHESIS 0007 (Frozen) → DIB–AMERICA (Accepted)
+
+Definition:
+America encodes **procedure-over-person**: authority and succession
+reside in law, count, and oath, not in designation or person. The first
+peaceful succession (1801: Adams to Jefferson) established that the
+Constitution and electoral count, not personality or precedent alone,
+transfer power. "Empire of laws, not of men" (Adams 1776) names the
+norm; Madison's "ambition must counteract ambition" (Federalist 51)
+operationalises it—structure uses interest so that government obliges
+itself to control itself. Stress moments (Jackson, court-packing 1937,
+Nixon) have tested the Madisonian machine; procedure has reasserted
+after violation (e.g. Nixon resignation and succession).
+
+Operational Meaning:
+• Succession is lawful and countable, not discretionary
+• Ambition counteracting ambition: each branch has structural incentive
+  to resist overreach by others (e.g. court-packing resisted by Congress and public)
+• Rupture (e.g. Nixon) is contained by resignation and procedural succession
+
+Illustrative Cases (Non-Authoritative):
+• 1801 Adams–Jefferson succession (first under Constitution)
+• 1937 court-packing: Congress and public resistance as ambition counteracting ambition
+• Nixon: procedure reasserting after violation
+
+Related Doctrines (Contextual, Non-Authoritative):
+• Doctrine 01 (Procedure as Memory)
+
+Hard Constraints:
+• Doctrine assumes the frame has been stressed but ruptured only once (Nixon)
+  and then contained; repeated uncontained rupture would undermine the pattern
+• Procedure-over-person fails if lawful succession is replaced by force or
+  permanent emergency
 
 ────────────────────────────────────────────────────────────
 IV. EXPLICITLY EXCLUDED MATERIAL (MANDATORY)

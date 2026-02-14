@@ -1,4 +1,4 @@
-MEM–AMERICA–KENNEDY — v1.1
+MEM–AMERICA–PRESIDENT–KENNEDY — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -136,20 +136,23 @@ death and succession. Procedure survives the man.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–MONROE — Hemisphere perimeter; no new European
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere perimeter; no new European
   colonization; Kennedy's quarantine as enforcement of perimeter
   against Soviet presence in Cuba.
-• MEM–AMERICA–ROOSEVELT–THEODORE — Roosevelt Corollary;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Roosevelt Corollary;
   hemispheric intervention precedent; Kennedy as enforcer of
   perimeter rather than intervener in sovereign Cuba (quarantine
   of weapons, not regime change in 1962).
-• MEM–AMERICA–ROOSEVELT–FRANKLIN — Crisis presidency; FDR's
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — Crisis presidency; FDR's
   communication (fireside chats); Kennedy's television and
   rhetoric; contrast in duration—Kennedy's tenure cut short.
-• MEM–AMERICA–LINCOLN — Crisis leadership; assassination;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Crisis leadership; assassination;
   succession under shock; Lincoln's death in war, Kennedy's
   in peace; procedure holds in both.
-• MEM–AMERICA–WASHINGTON — Restraint; Kennedy's choice of
+• MEM–AMERICA–PRESIDENT–JOHNSON — Succession (1963); Johnson
+  assumes office; Kennedy's stalled legislation becomes Johnson's
+  mandate; procedure holds.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Restraint; Kennedy's choice of
   quarantine over strike as procedural and escalatory restraint.
 
 Cross-Civilizational:
@@ -176,5 +179,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–KENNEDY — v1.1
+END OF FILE — MEM–AMERICA–PRESIDENT–KENNEDY — v1.1
 ────────────────────────────────────────────────────────────

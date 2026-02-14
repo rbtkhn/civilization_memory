@@ -1,4 +1,4 @@
-MEM–AMERICA–MONROE — v1.3
+MEM–AMERICA–PRESIDENT–MONROE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -129,9 +129,9 @@ VIII. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–MONROE–DOCTRINE — Doctrine-level encoding of declarative
   perimeter and anti-colonial signaling.
-• MEM–AMERICA–ADAMS — Diplomatic architecture and early republic
+• MEM–AMERICA–PRESIDENT–ADAMS — Diplomatic architecture and early republic
   strategic grammar around hemispheric order.
-• MEM–AMERICA–WASHINGTON — Foundational restraint and procedural
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Foundational restraint and procedural
   legitimacy that Monroe later territorializes.
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — Shift from declaration to expanded
   hemispheric coercive capacity.
@@ -158,5 +158,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–MONROE — v1.3
+END OF FILE — MEM–AMERICA–PRESIDENT–MONROE — v1.3
 ────────────────────────────────────────────────────────────

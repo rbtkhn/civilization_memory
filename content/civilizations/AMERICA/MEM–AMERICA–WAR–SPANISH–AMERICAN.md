@@ -134,18 +134,18 @@ naval dominance, and overseas footprint.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–MCKINLEY — President and architect of the war;
+• MEM–AMERICA–PRESIDENT–MCKINLEY — President and architect of the war;
   declaration, Treaty of Paris; incrementalism and nodal expansion.
-• MEM–AMERICA–ROOSEVELT–THEODORE — Rough Riders; naval and
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Rough Riders; naval and
   expeditionary; bully pulpit and hemispheric assertion; Spanish–
   American War as formative; successor to McKinley.
-• MEM–AMERICA–MONROE — Hemisphere doctrine; Cuba in hemisphere;
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere doctrine; Cuba in hemisphere;
   extra-hemispheric extension (Philippines) as supplement to
   hemisphere perimeter.
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Contrast: continental
   annexation vs. maritime and nodal acquisition; territorial
   absorption vs. control and access.
-• MEM–AMERICA–KENNEDY — Cuba again (Bay of Pigs, Missile Crisis);
+• MEM–AMERICA–PRESIDENT–KENNEDY — Cuba again (Bay of Pigs, Missile Crisis);
   hemisphere perimeter; Spanish–American War as first U.S. stake
   in Cuba.
 • MEM–AMERICA–GEO–ATLANTIC — Maritime core; naval projection;

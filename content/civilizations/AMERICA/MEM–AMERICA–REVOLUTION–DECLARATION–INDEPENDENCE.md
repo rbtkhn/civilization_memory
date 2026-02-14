@@ -138,7 +138,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 DEPENDS_ON:
 • MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — Congress adopted the Declaration; Congress as adopting body.
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Declaration adopted in Philadelphia.
-• MEM–AMERICA–JEFFERSON — Jefferson drafted the Declaration; universal rights language.
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Jefferson drafted the Declaration; universal rights language.
 
 ENABLES:
 • MEM–AMERICA–REVOLUTION — Declaration as the rupture document within the revolution sequence.
@@ -157,7 +157,7 @@ VIII. MEM BIBLIOGRAPHY
 • Declaration of Independence, 4 July 1776 (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • Franklin, Benjamin. Attributed at signing ("We must all hang together…") (ARC-T-EARLY-MOD) [ERC-CONTEXTUAL].
 • Jefferson, Thomas. Autobiography. On drafting the Declaration (ARC-T-EARLY-MOD) [ERC-PRIMARY].
-• MEM–AMERICA–JEFFERSON — Author; universalization of rights.
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Author; universalization of rights.
 • MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS — Adopting body.
 
 ────────────────────────────────────────────────────────────

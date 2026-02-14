@@ -96,7 +96,7 @@ V. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Parent war; union preservation;
   scale and attrition; Gettysburg as legitimacy inflection.
-• MEM–AMERICA–LINCOLN — Gettysburg Address; legitimacy reframing;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Gettysburg Address; legitimacy reframing;
   procedure and moral claim; crisis presidency.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Confederate commander;
   invasion of Pennsylvania; Keegan on failure to control

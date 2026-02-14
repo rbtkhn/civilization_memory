@@ -104,7 +104,7 @@ INFLUENCE (REQUIRED)
 | MAJOR_WORKS | Nullification writings; concurrent majority; slavery as positive good |
 | KEY_DECISIONS | Nullification defence; break with Jackson; opposition to Compromise of 1850 (death before final passage) |
 | INFLUENCE_DOMAIN | Constitutional theory; sectional politics; slavery defence |
-| CITED_IN_MEMS | MEM–AMERICA–JACKSON, MEM–AMERICA–LAW–SLAVERY, MEM–AMERICA–WAR–AMERICAN–CIVIL, MEM–AMERICA–CLAY, MEM–AMERICA–WEBSTER |
+| CITED_IN_MEMS | MEM–AMERICA–PRESIDENT–JACKSON, MEM–AMERICA–LAW–SLAVERY, MEM–AMERICA–WAR–AMERICAN–CIVIL, MEM–AMERICA–CLAY, MEM–AMERICA–WEBSTER |
 
 ────────────────────────────────────────────────────────────
 V. CIVILIZATIONAL MEMORY FUNCTION
@@ -128,7 +128,7 @@ VI. MEM CONNECTIONS (TYPED)
 DEPENDS_ON:
 • MEM–AMERICA–LAW–CONSTITUTION — State vs federal ambiguity; Calhoun's nullification theory.
 • MEM–AMERICA–LAW–SLAVERY — Slavery's constitutional embedding; Calhoun's defence.
-• MEM–AMERICA–JACKSON — Nullification Crisis; Calhoun vs Jackson; break over tariff and force.
+• MEM–AMERICA–PRESIDENT–JACKSON — Nullification Crisis; Calhoun vs Jackson; break over tariff and force.
 
 ENABLES:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Sectional logic; secession as Calhoun's logic carried to exit.
@@ -138,9 +138,9 @@ GEOGRAPHIC:
 • (South Carolina; Southern section—no dedicated GEO–MEM for state; link to LAW–SLAVERY and CONFEDERACY.)
 
 TEMPORAL_BEFORE:
-• MEM–AMERICA–MADISON — Founding; state–nation ambiguity Calhoun pressed.
+• MEM–AMERICA–PRESIDENT–MADISON — Founding; state–nation ambiguity Calhoun pressed.
 TEMPORAL_AFTER:
-• MEM–AMERICA–LINCOLN — War that Calhoun's logic anticipated.
+• MEM–AMERICA–PRESIDENT–LINCOLN — War that Calhoun's logic anticipated.
 
 CONTRADICTS:
 • MEM–AMERICA–WEBSTER — Union vs state sovereignty; "Liberty and Union" vs nullification.

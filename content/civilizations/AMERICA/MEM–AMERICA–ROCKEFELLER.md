@@ -116,7 +116,7 @@ breakup, and foundation.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting; Standard Oil
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Trust-busting; Standard Oil
   trajectory; Square Deal; federal response to concentration.
 • MEM–AMERICA–VANDERBILT — Transport tycoon; Gilded Age peer;
   concentration before regulation.

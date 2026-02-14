@@ -1,4 +1,4 @@
-MEM–AMERICA–LINCOLN — v1.6
+MEM–AMERICA–PRESIDENT–LINCOLN — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -212,7 +212,7 @@ X. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — War context for coercive preservation
   of the union and emancipation as wartime transformation.
-• MEM–AMERICA–GRANT — Operational execution of attritional strategy under
+• MEM–AMERICA–PRESIDENT–GRANT — Operational execution of attritional strategy under
   civilian authority and constitutional continuity.
 • MEM–AMERICA–LAW–SLAVERY — Transition from embedded constitutional
   contradiction to abolition and postwar legal reframing.
@@ -224,5 +224,5 @@ Cross-Civilizational:
 Cross-references denote lineage, not equivalence.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–LINCOLN — v1.6
+END OF FILE — MEM–AMERICA–PRESIDENT–LINCOLN — v1.6
 ────────────────────────────────────────────────────────────

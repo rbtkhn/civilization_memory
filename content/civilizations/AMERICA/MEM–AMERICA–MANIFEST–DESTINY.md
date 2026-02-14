@@ -142,20 +142,20 @@ Tension preserved without verdict.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana and
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Territorial vision; Louisiana and
   Mississippi; "blessings of freedom and equal laws"; ideological
   precedent for Manifest Destiny.
-• MEM–AMERICA–JACKSON — Expansion pressure; populist authority;
+• MEM–AMERICA–PRESIDENT–JACKSON — Expansion pressure; populist authority;
   Texas and western settlement; political base for expansion.
-• MEM–AMERICA–POLK — Execution of continental design; Texas,
+• MEM–AMERICA–PRESIDENT–POLK — Execution of continental design; Texas,
   Oregon, Mexican–American War; presidency in the shadow of
   Manifest Destiny.
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — War justified within
   expansion frame; Manifest Destiny as ideological context;
   conquest absorbed by procedure.
-• MEM–AMERICA–LINCOLN — Opposition to the Mexican–American War;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Opposition to the Mexican–American War;
   dissent from expansion narrative; moral tension.
-• MEM–AMERICA–MONROE — Hemisphere doctrine; no European
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere doctrine; no European
   colonisation; expansion within hemisphere; O'Sullivan's
   "balance of power" dismissal.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Slavery extension into

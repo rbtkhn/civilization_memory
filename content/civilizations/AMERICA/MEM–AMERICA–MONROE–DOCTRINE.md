@@ -149,7 +149,7 @@ Soviet Union extended U.S. policy beyond the hemisphere, but Monroe
 was not relaxed—it was **supplemented** by great-power management.
 ENTRY 0012 (CIV–SCHOLAR–AMERICA) treats this preservation as the
 contrast to perimeter reversal (e.g. Suez: forced loss encoded as
-survivable). MEM–AMERICA–NIXON, MEM–AMERICA–KISSINGER.
+survivable). MEM–AMERICA–PRESIDENT–NIXON, MEM–AMERICA–KISSINGER.
 
 So the structural picture across time: the Doctrine is **declarative
 perimeter**; the option set for "relax enforcement" or "negotiate
@@ -198,7 +198,7 @@ Tension preserved without verdict.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 DEPENDS_ON:
-• MEM–AMERICA–MONROE — Figure who delivered the Doctrine; Monroe as
+• MEM–AMERICA–PRESIDENT–MONROE — Figure who delivered the Doctrine; Monroe as
   strategic boundary declarer; doctrine and figure are distinct (this
   file = doctrine as structural artifact).
 • MEM–AMERICA–LAW–CONSTITUTION — No explicit constitutional basis for
@@ -206,9 +206,9 @@ DEPENDS_ON:
   treaty or statute.
 
 ENABLES / TEMPORAL_AFTER:
-• MEM–AMERICA–ROOSEVELT–THEODORE — Roosevelt Corollary (1904);
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Roosevelt Corollary (1904);
   Doctrine strengthened by "hemispheric police" framing.
-• MEM–AMERICA–NIXON, MEM–AMERICA–KISSINGER — Monroe preserved while
+• MEM–AMERICA–PRESIDENT–NIXON, MEM–AMERICA–KISSINGER — Monroe preserved while
   policy extended beyond hemisphere; no perimeter reversal.
 
 PARALLELS:

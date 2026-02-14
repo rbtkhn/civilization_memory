@@ -133,9 +133,9 @@ A single sentence from Franklin on the importance of French aid or the treaty; e
 
 ---
 
-### 8. MEM–AMERICA–WASHINGTON
+### 8. MEM–AMERICA–PRESIDENT–WASHINGTON
 
-**File:** `content/civilizations/AMERICA/MEM–AMERICA–WASHINGTON.md`  
+**File:** `content/civilizations/AMERICA/MEM–AMERICA–PRESIDENT–WASHINGTON.md`  
 **Why:** Washington and Franklin overlapped at the Constitutional Convention; Franklin's closing speech (consent despite doubt) complements Washington's restraint and voluntary surrender of power.
 
 **Suggested placement:** Section IV (Voluntary power surrender) or Section VI (Civilizational export function). One short Franklin Convention quote (e.g. "I consent … because I expect no better, and because I am not sure, that it is not the best") to show another founder's posture of consent and doubt.
@@ -155,7 +155,7 @@ A single sentence from Franklin on the importance of French aid or the treaty; e
 | MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE | II | Anecdote / attributed | "Hang together" (if used) or committee role only |
 | MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS | III or IV | Albany Plan or delegate note | Union; Franklin as delegate |
 | MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE | IV | Papers / letters | French alliance (exact quote TBD) |
-| MEM–AMERICA–WASHINGTON | IV or VI | Convention speech | Consent despite doubt |
+| MEM–AMERICA–PRESIDENT–WASHINGTON | IV or VI | Convention speech | Consent despite doubt |
 
 ---
 

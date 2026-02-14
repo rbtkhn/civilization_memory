@@ -304,7 +304,7 @@ GEO–MEM (≥2):
 Cross-civilizational:
 • MEM–GERMANIA–THIRD–REICH — destroyed enemy
 • MEM–GERMANIA–HITLER — suicide in bunker
-• MEM–AMERICA–EISENHOWER — did not race to Berlin
+• MEM–AMERICA–PRESIDENT–EISENHOWER — did not race to Berlin
 
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY

@@ -1,4 +1,4 @@
-MEM–AMERICA–ADAMS — v1.2
+MEM–AMERICA–PRESIDENT–ADAMS — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -115,8 +115,8 @@ He teaches:
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–WASHINGTON — First great generation; military restraint, voluntary surrender of power.
-• MEM–AMERICA–JEFFERSON — First great generation; ideological articulation, Declaration.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — First great generation; military restraint, voluntary surrender of power.
+• MEM–AMERICA–PRESIDENT–JEFFERSON — First great generation; ideological articulation, Declaration.
 
 ANGLIA:
 • MEM–ANGLIA–AMERICAN–REVOLUTION — Procedural secession, Anglian grammar in rebellion.
@@ -133,9 +133,9 @@ VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Churchill, Winston S. *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution*. New York: Dodd, Mead, 1956–1958. American Revolution, first great generation (Washington, Adams, Jefferson). (ARC-T-MODERN)
 • CIV–ARC–ANGLIA — Churchill in ARC-T-MODERN.
-• MEM–AMERICA–WASHINGTON, MEM–AMERICA–JEFFERSON — First great generation triad.
+• MEM–AMERICA–PRESIDENT–WASHINGTON, MEM–AMERICA–PRESIDENT–JEFFERSON — First great generation triad.
 • Adams, John. *Thoughts on Government* (1776), *A Defence of the Constitutions* (1787–1788), in *The Works of John Adams*, ed. Charles Francis Adams, 10 vols. (Boston: Little, Brown, 1850–1856). (ARC-T-EARLY-MOD)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ADAMS — v1.2
+END OF FILE — MEM–AMERICA–PRESIDENT–ADAMS — v1.2
 ────────────────────────────────────────────────────────────

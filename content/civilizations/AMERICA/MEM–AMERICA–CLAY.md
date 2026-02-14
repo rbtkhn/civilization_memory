@@ -99,7 +99,7 @@ INFLUENCE (REQUIRED)
 | MAJOR_WORKS | Speeches; American System programme |
 | KEY_DECISIONS | Missouri Compromise; Compromise Tariff 1833; Compromise of 1850 |
 | INFLUENCE_DOMAIN | Legislative; diplomatic (Ghent commissioner); economic policy |
-| CITED_IN_MEMS | MEM–AMERICA–ADAMS–QUINCY, MEM–AMERICA–JACKSON, MEM–AMERICA–LAW–SLAVERY, MEM–AMERICA–WAR–AMERICAN–CIVIL |
+| CITED_IN_MEMS | MEM–AMERICA–PRESIDENT–ADAMS–JQ, MEM–AMERICA–PRESIDENT–JACKSON, MEM–AMERICA–LAW–SLAVERY, MEM–AMERICA–WAR–AMERICAN–CIVIL |
 
 ────────────────────────────────────────────────────────────
 V. CIVILIZATIONAL MEMORY FUNCTION
@@ -120,8 +120,8 @@ VI. MEM CONNECTIONS (TYPED)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
-• MEM–AMERICA–ADAMS–QUINCY — Same era; contested 1824 election; Clay in House, then Secretary under Adams.
-• MEM–AMERICA–JACKSON — Nullification Crisis; Clay's tariff compromise vs Jackson's force option; Bank War.
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Same era; contested 1824 election; Clay in House, then Secretary under Adams.
+• MEM–AMERICA–PRESIDENT–JACKSON — Nullification Crisis; Clay's tariff compromise vs Jackson's force option; Bank War.
 • MEM–AMERICA–LAW–CONSTITUTION — State vs nation; ambiguity Clay's compromises papered over.
 
 ENABLES:
@@ -132,9 +132,9 @@ GEOGRAPHIC:
 • MEM–AMERICA–GEO–OHIO–RIVER — Kentucky; Ohio Valley as West in the triad.
 
 TEMPORAL_BEFORE:
-• MEM–AMERICA–MADISON — Founding generation; Clay as heir.
+• MEM–AMERICA–PRESIDENT–MADISON — Founding generation; Clay as heir.
 TEMPORAL_AFTER:
-• MEM–AMERICA–LINCOLN — War Clay's compromises postponed.
+• MEM–AMERICA–PRESIDENT–LINCOLN — War Clay's compromises postponed.
 
 PARALLELS:
 • (Cross-civ: second-generation figures managing unresolved founding contradictions through compromise.)

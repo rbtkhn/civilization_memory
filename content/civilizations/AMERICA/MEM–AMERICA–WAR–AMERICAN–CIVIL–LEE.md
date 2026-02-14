@@ -106,9 +106,9 @@ AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–STONEWALL–JACKSON — Principal
   subordinate; Jackson's death weakens Lee; Gettysburg without
   Jackson.
-• MEM–AMERICA–GRANT — Opponent; Grant's attrition and surrender
+• MEM–AMERICA–PRESIDENT–GRANT — Opponent; Grant's attrition and surrender
   terms; Lee's acceptance completes procedural end.
-• MEM–AMERICA–LINCOLN — Opponent political authority; union
+• MEM–AMERICA–PRESIDENT–LINCOLN — Opponent political authority; union
   preservation; Lee's surrender affirms federal authority.
 
 Cross-Civilizational:

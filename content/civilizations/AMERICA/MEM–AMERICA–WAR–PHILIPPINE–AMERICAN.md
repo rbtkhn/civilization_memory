@@ -157,22 +157,22 @@ AMERICA:
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — Cession of Philippines
   (Treaty of Paris 1898); this war as sequel; liberation
   rhetoric vs. colonial outcome.
-• MEM–AMERICA–MCKINLEY — President; decision to retain
+• MEM–AMERICA–PRESIDENT–MCKINLEY — President; decision to retain
   Philippines; colonial turn; war begins under his term.
-• MEM–AMERICA–ROOSEVELT–THEODORE — Declares war ended Jul 1902;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Declares war ended Jul 1902;
   successor to McKinley; counter-insurgency under his presidency.
 • MEM–AMERICA–MACARTHUR — Philippines return 1944–1945;
   Japanese defeat; colonial territory becomes theatre of
   liberation then independence.
 • MEM–AMERICA–GEO–PACIFIC–OCEAN — Philippines as Pacific node;
   strategic and colonial significance.
-• MEM–AMERICA–MONROE — Extra-hemispheric extension; Philippines
+• MEM–AMERICA–PRESIDENT–MONROE — Extra-hemispheric extension; Philippines
   outside hemisphere; colonial precedent.
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Contrast: continental
   annexation vs. overseas colonial pacification.
 • MEM–AMERICA–LAW–CONGRESS — Appropriations and authority for
   colonial war; procedure and dissent.
-• MEM–AMERICA–WASHINGTON — Civilian control; president as
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Civilian control; president as
   commander-in-chief; colonial war under constitutional form.
 • MEM–AMERICA–LIT–TWAIN — Anti-imperial critique; "Person
   Sitting in Darkness"; moral tension.

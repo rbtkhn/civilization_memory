@@ -69,7 +69,7 @@ AMERICA:
   Plymouth covenant; two colonial origins.
 • MEM–AMERICA–COLONIAL–BOSTON — Massachusetts Bay and Plymouth
   absorbed; Boston as revolutionary centre; same regional lineage.
-• MEM–AMERICA–ADAMS — Massachusetts; colonial and founding
+• MEM–AMERICA–PRESIDENT–ADAMS — Massachusetts; colonial and founding
   generation; procedural defence (Boston Massacre).
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–CONFEDERACY — Compact theory
   (secession) invokes covenant/compact tradition; Union denies.

@@ -137,7 +137,7 @@ and the Fed's precursor.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting; Northern
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Trust-busting; Northern
   Securities; Square Deal; TR as public counter to Morgan's
   private concentration.
 • MEM–AMERICA–CARNEGIE — Sale of Carnegie Steel to Morgan
@@ -149,7 +149,7 @@ AMERICA:
 • MEM–AMERICA–GREAT–DEPRESSION — Economic crisis; contrast—
   1907 had Morgan; 1929 had no single private rescuer; Fed
   and New Deal as procedural response.
-• MEM–AMERICA–WASHINGTON — Restraint; contrast—Washington
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Restraint; contrast—Washington
   refused king; Morgan exercised quasi-sovereign financial
   power until procedure replaced it.
 

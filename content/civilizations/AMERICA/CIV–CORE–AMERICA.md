@@ -1,16 +1,16 @@
-CIV–CORE–AMERICA — v1.0
+CIV–CORE–AMERICA — v3.3
 Civilizational Strategy Codex · Civilization Core Engine
 Constitutional–Federal–Electoral Continuity Edition
 
 Status: ACTIVE · CANONICAL · STAND-ALONE READY · SCHOLAR-ENABLED
-Version: 1.0
-Supersedes: (none — initial instance)
+Version: 3.3
+Supersedes: v1.0
 Upgrade Type: INITIAL CREATION
 Template Version Used: CIV–CORE–TEMPLATE v3.0
 Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.2+)
 Governed by: CIV–MEM–CORE v3.2
 ARC Reference: CIV–ARC–AMERICA
-Doctrine Reference: CIV–DOCTRINE–AMERICA v1.0 (doctrines 01–07; mirror binding when cited)
+Doctrine Reference: CIV–DOCTRINE–AMERICA v1.2 (doctrines 01–08; mirror binding when cited). Doctrine 08: First succession and empire of laws (procedure-over-person; ambition counteracting ambition)—see CIV–DOCTRINE–AMERICA.
 Civilization Phase: PHASE I (Foundation)
 Lock Level: STRUCTURAL (content expandable without renumbering)
 Last Update: February 2026

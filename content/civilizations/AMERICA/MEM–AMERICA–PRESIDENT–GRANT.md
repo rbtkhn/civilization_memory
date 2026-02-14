@@ -1,4 +1,4 @@
-MEM–AMERICA–GRANT — v1.3
+MEM–AMERICA–PRESIDENT–GRANT — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -148,11 +148,11 @@ Tension preserved without verdict.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–LINCOLN — Civilian authority, war aims, and emancipation
+• MEM–AMERICA–PRESIDENT–LINCOLN — Civilian authority, war aims, and emancipation
   framing under which Grant's campaigns were executed.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Operational and strategic context for
   attritional victory and Union preservation.
-• MEM–AMERICA–WASHINGTON — Shared pattern of restraint, civilian
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Shared pattern of restraint, civilian
   subordination, and postwar legitimacy management.
 
 Cross-Civilizational:
@@ -162,5 +162,5 @@ Cross-Civilizational:
 Cross-references denote lineage, not equivalence.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–GRANT — v1.3
+END OF FILE — MEM–AMERICA–PRESIDENT–GRANT — v1.3
 ────────────────────────────────────────────────────────────

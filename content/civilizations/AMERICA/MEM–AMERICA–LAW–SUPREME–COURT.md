@@ -119,7 +119,7 @@ VIII. MEM CONNECTIONS (MANDATORY)
 DEPENDS_ON:
 • MEM–AMERICA–LAW–CONSTITUTION — Art. III creates the judiciary; Court expounds Constitution.
 • MEM–AMERICA–LAW–BILL–RIGHTS — Court enforces Bill of Rights against federal and (via incorporation) state action.
-• MEM–AMERICA–MADISON — Structural design; judiciary as one of three branches.
+• MEM–AMERICA–PRESIDENT–MADISON — Structural design; judiciary as one of three branches.
 
 ENABLES:
 • (Downstream) — Doctrine on federalism, rights, war powers; Court as expositor of constitutional meaning.
@@ -136,7 +136,7 @@ IX. MEM BIBLIOGRAPHY
 • *Marbury v. Madison*, 5 U.S. (1 Cranch) 137 (1803) (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • U.S. Constitution, Article III (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • MEM–AMERICA–LAW–CONSTITUTION — Art. III; separation of powers.
-• MEM–AMERICA–LINCOLN — Lincoln and Court (e.g. *Dred Scott*); executive and Court tension.
+• MEM–AMERICA–PRESIDENT–LINCOLN — Lincoln and Court (e.g. *Dred Scott*); executive and Court tension.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–LAW–SUPREME–COURT — v1.0

@@ -96,7 +96,7 @@ AMERICA:
   Carnegie sold, Rockefeller broken up; philanthropy in both.
 • MEM–AMERICA–VANDERBILT — Transport and rail; Gilded Age
   peer; concentration precedent.
-• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting; Square Deal;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Trust-busting; Square Deal;
   labour and capital; Homestead as backdrop to reform era.
 • MEM–AMERICA–GREAT–DEPRESSION — Economic scale; steel and
   industry; contrast in era.

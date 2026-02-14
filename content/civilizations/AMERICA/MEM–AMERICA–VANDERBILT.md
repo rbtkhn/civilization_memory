@@ -101,11 +101,11 @@ AMERICA:
 • MEM–AMERICA–MORGAN — Finance and rail reorganisation;
   U.S. Steel (Carnegie sold to Morgan); concentration of
   capital.
-• MEM–AMERICA–ROOSEVELT–THEODORE — Trust-busting; Square Deal;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — Trust-busting; Square Deal;
   federal response to concentration Vanderbilt helped define.
 • MEM–AMERICA–GREAT–DEPRESSION — Economic scale; private
   concentration and later federal role; contrast in era.
-• MEM–AMERICA–LINCOLN — Civil War era; rail and commerce
+• MEM–AMERICA–PRESIDENT–LINCOLN — Civil War era; rail and commerce
   expansion; Vanderbilt's rail consolidation post-war.
 • MEM–AMERICA–GEO–GREAT–LAKES — Transport and coal/steel
   circulation; rail and shipping corridors.

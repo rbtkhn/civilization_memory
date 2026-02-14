@@ -134,7 +134,7 @@ Tension preserved without verdict.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–MCKINLEY — President at annexation (1898);
+• MEM–AMERICA–PRESIDENT–MCKINLEY — President at annexation (1898);
   Pacific nodal design; incrementalism; Hawaii as territory.
 • MEM–AMERICA–WAR–SPANISH–AMERICAN — Annexation during same
   war; Pacific and Caribbean expansion in parallel; Treaty of
@@ -144,18 +144,18 @@ AMERICA:
   contrast in post-acquisition outcome.
 • MEM–AMERICA–GEO–PACIFIC–OCEAN — Hawaii as Pacific node;
   coaling, naval, strategic.
-• MEM–AMERICA–MONROE — Extra-hemispheric extension; Hawaii
+• MEM–AMERICA–PRESIDENT–MONROE — Extra-hemispheric extension; Hawaii
   as Pacific foothold.
-• MEM–AMERICA–ROOSEVELT–THEODORE — TR as McKinley's successor;
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — TR as McKinley's successor;
   Pacific policy continues; statehood later.
 • MEM–AMERICA–WAR–MEXICAN–AMERICAN — Contrast: continental
   annexation by war and treaty vs. overseas annexation by
   resolution after overthrow.
 • MEM–AMERICA–LAW–CONGRESS — Newlands Resolution; annexation
   by legislative act.
-• MEM–AMERICA–WASHINGTON — Civilian control; president and
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Civilian control; president and
   Congress; expansion under constitutional form.
-• MEM–AMERICA–ADAMS–QUINCY — Doctrine and territory;
+• MEM–AMERICA–PRESIDENT–ADAMS–JQ — Doctrine and territory;
   McKinley-era expansion as extension of precedent.
 • MEM–AMERICA–WAR–PHILIPPINE–AMERICAN — Contemporary Pacific
   acquisition; Philippines by war, Hawaii by resolution; McKinley.

@@ -2,13 +2,13 @@
 
 **Purpose:** Identify MEM files where Thomas Jefferson primary (ARC-T-EARLY-MOD) or John B. Boles secondary (*Jefferson: Architect of American Liberty*, ARC-T-MODERN) verbatim (≥25 words) would strengthen civilizational memory, with thematic fit and suggested placement.
 
-**Already integrated (pre-doc):** MEM–AMERICA–JEFFERSON (Jefferson Autobiography 1821 — slavery/fate; Boles p. 5 — full-scale biography scope).
+**Already integrated (pre-doc):** MEM–AMERICA–PRESIDENT–JEFFERSON (Jefferson Autobiography 1821 — slavery/fate; Boles p. 5 — full-scale biography scope).
 
 **Implementation status (Feb 2026):** All 11 opportunities below have been implemented. Summary: WASHINGTON (Jefferson to Jones 1814); ADAMS (Jefferson Autobiography, Declaration drafting); MADISON (Jefferson to Jarvis 1820, people as depository); MONROE (Jefferson to Madison 1809, empire for liberty); WAR–INDEPENDENCE (Jefferson Autobiography, Declaration); COLONIAL–PHILADELPHIA (Jefferson Autobiography, Declaration); JACKSON (Jefferson to Jarvis 1820); LINCOLN (Jefferson book of fate + Boles tragic figure); WAR–MEXICAN–AMERICAN (Jefferson 1803 message, Mississippi/Louisiana); WAR–AMERICAN–CIVIL (Jefferson book of fate + Boles tragic figure); GEO–MISSISSIPPI–RIVER (Jefferson 1803 message).
 
 ---
 
-## 1. MEM–AMERICA–WASHINGTON
+## 1. MEM–AMERICA–PRESIDENT–WASHINGTON
 
 **Thematic fit:** "First great generation" (Washington, Adams, Jefferson); Washington as restraint figure, Jefferson as ideological articulation; "Washington practices, Jefferson theorizes." No Jefferson voice yet in this MEM.
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 2. MEM–AMERICA–ADAMS
+## 2. MEM–AMERICA–PRESIDENT–ADAMS
 
 **Thematic fit:** Triad (Washington, Adams, Jefferson); "Jefferson as ideological articulation, Adams as legal and diplomatic executor"; Declaration drafting with Jefferson; first peaceful transfer Adams → Jefferson 1801.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 3. MEM–AMERICA–MADISON
+## 3. MEM–AMERICA–PRESIDENT–MADISON
 
 **Thematic fit:** "Madison engineers what Jefferson declares"; §V "CONTRAST WITH JEFFERSON" — structure over rhetoric, procedure over declaration. Ideal to ground the contrast in Jefferson's own words.
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 4. MEM–AMERICA–MONROE
+## 4. MEM–AMERICA–PRESIDENT–MONROE
 
 **Thematic fit:** "Monroe operationalizes what Jefferson theorizes"; §VI "CONTRAST WITH JEFFERSON" — boundary setting over ideology; MEM connections already tie to Jefferson.
 
@@ -66,7 +66,7 @@
 
 ## 5. MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE
 
-**Thematic fit:** Declaration 1776 — "universalist register and alliance signal"; MEM connections list MEM–AMERICA–JEFFERSON (Declaration of Independence; legitimacy). War as defence of procedure against imperial overreach.
+**Thematic fit:** Declaration 1776 — "universalist register and alliance signal"; MEM connections list MEM–AMERICA–PRESIDENT–JEFFERSON (Declaration of Independence; legitimacy). War as defence of procedure against imperial overreach.
 
 **Suggested placement:** §II (Strategic Entry: Grievance & Legitimacy Frame) — after the Declaration bullet; or new short subsection on Declaration authorship.
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 7. MEM–AMERICA–JACKSON
+## 7. MEM–AMERICA–PRESIDENT–JACKSON
 
 **Thematic fit:** Jackson as populist rupture; "the people" as moral source; Schlesinger already present (Age of Jackson). Jefferson as ideological precursor — rights language, popular sovereignty — that Jackson later weaponizes.
 
@@ -106,9 +106,9 @@
 
 ---
 
-## 8. MEM–AMERICA–LINCOLN
+## 8. MEM–AMERICA–PRESIDENT–LINCOLN
 
-**Thematic fit:** "Slavery unresolved at founding"; Lincoln reframes legitimacy; MEM–AMERICA–JEFFERSON already has "book of fate" — Lincoln MEM could cite founding contradiction explicitly via Jefferson.
+**Thematic fit:** "Slavery unresolved at founding"; Lincoln reframes legitimacy; MEM–AMERICA–PRESIDENT–JEFFERSON already has "book of fate" — Lincoln MEM could cite founding contradiction explicitly via Jefferson.
 
 **Suggested placement:** §II (Civilizational Position) — after or near "Slavery unresolved at founding"; one short Jefferson primary block as founding-era encoding of the tension Lincoln later resolves by force.
 
@@ -122,7 +122,7 @@
 
 ## 9. MEM–AMERICA–WAR–MEXICAN–AMERICAN
 
-**Thematic fit:** MEM connections already list "MEM–AMERICA–JEFFERSON — Territorial vision; Louisiana Purchase." Manifest Destiny and continental expansion; war as "conquest absorbed by procedure."
+**Thematic fit:** MEM connections already list "MEM–AMERICA–PRESIDENT–JEFFERSON — Territorial vision; Louisiana Purchase." Manifest Destiny and continental expansion; war as "conquest absorbed by procedure."
 
 **Suggested placement:** §II (Context: Texas, Border, Manifest Destiny) — before or after Keegan; Jefferson as ideological precedent for territorial expansion.
 

@@ -148,7 +148,7 @@ ENABLES:
 
 CONTRADICTS:
 • MEM–AMERICA–LAW–CONSTITUTION — Paine: government necessary evil, simplicity; Constitution: structure, checks, ambition countering ambition; tension preserved.
-• MEM–AMERICA–MADISON — Paine: simplification, moral immediacy; Madison: faction, structure, procedure; Federalists contain Paine.
+• MEM–AMERICA–PRESIDENT–MADISON — Paine: simplification, moral immediacy; Madison: faction, structure, procedure; Federalists contain Paine.
 
 PARALLELS:
 • MEM–ANGLIA–LIT–PAINE — Same figure; Anglian MEM encodes him as dissenter exported; American MEM encodes him as founding mobilizer on American soil.
@@ -159,7 +159,7 @@ IX. MEM BIBLIOGRAPHY
 • Paine, Thomas. *Common Sense*. Philadelphia: W. & T. Bradford, 14 Feb. 1776. Standard eds.: Conway, *Writings of Thomas Paine* (1894); Gutenberg EBook. (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • Paine, Thomas. *The American Crisis*, No. I. Dec. 1776. In *Writings of Thomas Paine*, ed. Moncure Daniel Conway, or standard ed. (ARC-T-EARLY-MOD) [ERC-PRIMARY].
 • MEM–ANGLIA–LIT–PAINE — Paine as Anglian dissenter; simplification, rupture; Russell, Grayling on mobilizational style.
-• MEM–AMERICA–JEFFERSON — Declaration author; Paine precedes and mobilizes; Jefferson declares.
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Declaration author; Paine precedes and mobilizes; Jefferson declares.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — MEM–AMERICA–LIT–PAINE — v1.0

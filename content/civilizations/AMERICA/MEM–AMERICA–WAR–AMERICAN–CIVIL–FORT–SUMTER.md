@@ -90,7 +90,7 @@ V. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Parent war; secession vs union;
   Fort Sumter as trigger; war framed as restoration.
-• MEM–AMERICA–LINCOLN — President at Sumter; decision to resupply;
+• MEM–AMERICA–PRESIDENT–LINCOLN — President at Sumter; decision to resupply;
   call for volunteers; union preservation as supreme objective.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX — War begins at Sumter,
   ends at Appomattox; procedural bookends (trigger and termination).

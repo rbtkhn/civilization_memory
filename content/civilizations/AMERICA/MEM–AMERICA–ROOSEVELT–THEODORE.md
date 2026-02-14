@@ -1,4 +1,4 @@
-MEM–AMERICA–ROOSEVELT–THEODORE — v1.3
+MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -153,16 +153,16 @@ amplified executive role.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–MONROE — Monroe Doctrine as baseline; Roosevelt
+• MEM–AMERICA–PRESIDENT–MONROE — Monroe Doctrine as baseline; Roosevelt
   Corollary as extension; hemisphere as sphere of management.
 • MEM–AMERICA–ADAMS–QUINCY — Doctrine-drafting precedent;
   Roosevelt as doctrine-extender (corollary) and enforcer.
 • MEM–AMERICA–MCKINLEY — Predecessor; succession 1901; McKinley
   as architect of extra-hemispheric turn, TR as energiser and heir.
-• MEM–AMERICA–JACKSON — Executive personalization; Roosevelt
+• MEM–AMERICA–PRESIDENT–JACKSON — Executive personalization; Roosevelt
   as energy without Jackson's anti-institutional hostility;
   contrast in style and institutional outcome.
-• MEM–AMERICA–LINCOLN — Crisis presidency; executive stretch;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Crisis presidency; executive stretch;
   Roosevelt in peacetime amplifies without Lincoln's existential
   emergency.
 
@@ -188,5 +188,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ROOSEVELT–THEODORE — v1.3
+END OF FILE — MEM–AMERICA–PRESIDENT–ROOSEVELT–THEODORE — v1.3
 ────────────────────────────────────────────────────────────

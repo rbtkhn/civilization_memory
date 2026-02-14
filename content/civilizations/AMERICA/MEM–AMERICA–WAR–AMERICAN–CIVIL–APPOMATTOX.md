@@ -114,11 +114,11 @@ V. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Parent war; procedural
   termination; Appomattox as closing precedent.
-• MEM–AMERICA–GRANT — Surrender architect; terms; civilian
+• MEM–AMERICA–PRESIDENT–GRANT — Surrender architect; terms; civilian
   subordination; exhaustion logic completed.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Surrendering commander;
   acceptance of terms; Farewell Address; procedural choice.
-• MEM–AMERICA–LINCOLN — Commander-in-chief; union preservation;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Commander-in-chief; union preservation;
   assassination shortly after; procedure survives.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER — War begins at
   Sumter, ends at Appomattox; trigger and termination bookends.

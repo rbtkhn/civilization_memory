@@ -299,7 +299,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–POLAND — territorial question
 
 Cross-civilizational:
-• MEM–AMERICA–ROOSEVELT — negotiating partner
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — negotiating partner
 • MEM–BRITANNIA–CHURCHILL — negotiating partner
 • MEM–AMERICA–OVERLORD — committed operation
 

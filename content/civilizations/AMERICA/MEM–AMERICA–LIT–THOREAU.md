@@ -108,7 +108,7 @@ AMERICA:
   in protest; civil disobedience in context of expansion war.
 • MEM–AMERICA–LAW–SLAVERY — Civil disobedience against slavery
   and fugitive law; conscience vs. statute.
-• MEM–AMERICA–JACKSON — Era of Thoreau's formation; Jacksonian
+• MEM–AMERICA–PRESIDENT–JACKSON — Era of Thoreau's formation; Jacksonian
   democracy and transcendental refusal as parallel currents.
 • MEM–AMERICA–REVOLUTION–LEXINGTON–CONCORD — Concord as site;
   Thoreau at Walden Pond; Revolution's landscape as place of

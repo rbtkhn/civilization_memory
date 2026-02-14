@@ -100,7 +100,7 @@ V. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Parent war; union preservation;
   attrition; Sheridan as Grant's eastern instrument.
-• MEM–AMERICA–GRANT — Superior and strategist; Sheridan executes
+• MEM–AMERICA–PRESIDENT–GRANT — Superior and strategist; Sheridan executes
   Valley and Appomattox campaign; Grant receives Lee's surrender.
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–SHERMAN — Parallel logic (total war
   against capacity); Sherman in South, Sheridan in Valley; same

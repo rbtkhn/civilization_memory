@@ -167,7 +167,7 @@ ENABLES:
 • MEM–AMERICA–REVOLUTION — Congress as coordinating body of the revolution.
 • MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — Congress adopted the Declaration.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — Congress appointed Washington; authorized war; directed conflict.
-• MEM–AMERICA–WASHINGTON — Congress appointed him commander-in-chief; authority derived from Congress.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Congress appointed him commander-in-chief; authority derived from Congress.
 
 CONTRADICTS:
 • (Tension) — Congress as petitioners (Olive Branch) vs. Congress as sovereign (after Declaration); tension until rupture complete.

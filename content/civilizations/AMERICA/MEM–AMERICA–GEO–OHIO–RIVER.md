@@ -114,7 +114,7 @@ strain (post-1763) that Britain was ill-prepared to resolve.
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 • MEM–ANGLIA–WAR–SEVEN–YEARS (global war whose origin is the Ohio)
-• MEM–AMERICA–WASHINGTON (Washington in Ohio, 1754)
+• MEM–AMERICA–PRESIDENT–WASHINGTON (Washington in Ohio, 1754)
 • MEM–ANGLIA–CANADA (conquest of Canada as climax; Ohio as prelude)
 • MEM–ANGLIA–BRITISH–EMPIRE (empire enlarged by victory; Ohio as one theater)
 • MEM–ANGLIA–NATIVE–AMERICANS (Iroquois, Tanaghrisson, native participation)

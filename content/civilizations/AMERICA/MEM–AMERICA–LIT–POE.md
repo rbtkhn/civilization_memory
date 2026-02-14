@@ -112,7 +112,7 @@ AMERICA:
   both non-institutional, marginal in different ways.
 • MEM–AMERICA–LIT–TWAIN — Later vernacular and satire; Twain's
   humour and river vs. Poe's horror; American voice in multiple keys.
-• MEM–AMERICA–JACKSON — Era of Poe's productivity; Jacksonian
+• MEM–AMERICA–PRESIDENT–JACKSON — Era of Poe's productivity; Jacksonian
   America and the marginal artist.
 
 Cross-references denote lineage, not equivalence.

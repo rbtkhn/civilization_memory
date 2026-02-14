@@ -1,4 +1,4 @@
-MEM–AMERICA–ADAMS–QUINCY — v1.2
+MEM–AMERICA–PRESIDENT–ADAMS–JQ — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -132,15 +132,15 @@ contradiction.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–ADAMS — Father; legal-diplomatic continuity; first
+• MEM–AMERICA–PRESIDENT–ADAMS — Father; legal-diplomatic continuity; first
   presidential succession; Quincy Adams as second-generation executor.
-• MEM–AMERICA–MONROE — President under whom Adams served as
+• MEM–AMERICA–PRESIDENT–MONROE — President under whom Adams served as
   Secretary of State; Monroe Doctrine as joint product (Monroe
   declares, Adams drafts).
-• MEM–AMERICA–JACKSON — Defeats Adams in 1828; populist rupture
+• MEM–AMERICA–PRESIDENT–JACKSON — Defeats Adams in 1828; populist rupture
   vs procedural institutionalism; contested 1824 outcome fuels
   Jacksonian narrative.
-• MEM–AMERICA–JEFFERSON — Ideological contrast; Adams's Federalist
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Ideological contrast; Adams's Federalist
   lineage and nationalist diplomacy vs Jeffersonian restraint;
   continuity of founding grammar in different key.
 
@@ -166,5 +166,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–ADAMS–QUINCY — v1.2
+END OF FILE — MEM–AMERICA–PRESIDENT–ADAMS–JQ — v1.2
 ────────────────────────────────────────────────────────────

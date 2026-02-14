@@ -59,7 +59,7 @@ AMERICA:
   crossing and attack.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–NEW–YORK — Precedent
   defeat; Trenton reverses momentum.
-• MEM–AMERICA–WASHINGTON — Full figure; Trenton defining moment.
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Full figure; Trenton defining moment.
 
 Cross-references denote lineage, not equivalence.
 

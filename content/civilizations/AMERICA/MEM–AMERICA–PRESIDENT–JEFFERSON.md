@@ -1,4 +1,4 @@
-MEM–AMERICA–JEFFERSON — v1.4
+MEM–AMERICA–PRESIDENT–JEFFERSON — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -14,7 +14,7 @@ Word Count: ~2,250
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Thomas Jefferson as **Anglia’s ideological
+This file preserves Thomas Jefferson as **Anglia's ideological
 translation figure**: the thinker who abstracted Anglian legal
 traditions into universal language, transforming inherited procedure
 into declarative philosophy.
@@ -36,14 +36,14 @@ Foundations:
 
 Innovation occurs through articulation, not invention.
 
-Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats Jefferson as part of the “first great generation” of American leaders—Washington, Adams, and Jefferson—who emerge from the American Revolution as founders of the republic within the English-speaking peoples’ story (ARC-T-MODERN) [ERC-SECONDARY].
+Winston Churchill, in *A History of the English-Speaking Peoples*, Vol. 3 (*The Age of Revolution* [1956–1958]), treats Jefferson as part of the "first great generation" of American leaders—Washington, Adams, and Jefferson—who emerge from the American Revolution as founders of the republic within the English-speaking peoples' story (ARC-T-MODERN) [ERC-SECONDARY].
 
 SOURCE — Churchill, *The Age of Revolution* (Vol. 3) (ARC-T-MODERN):
 > "The success of the new Federal Government depended largely upon the men chosen to fill these key offices: Alexander Hamilton, the great Federalist from New York; Thomas Jefferson, the Virginian democrat, now returned from Paris; and, to a lesser extent, General Knox of Massachusetts."
 > — Winston S. Churchill, *A History of the English-Speaking Peoples*, Vol. 3, *The Age of Revolution* (1956–1958), ch. 17 "The American Constitution" (ARC-T-MODERN) [ERC-SECONDARY].
 
 John B. Boles, in *Jefferson: Architect of American Liberty* (2017),
-frames the biography’s scope—Jefferson as many roles at once:
+frames the biography's scope—Jefferson as many roles at once:
 
 SOURCE — Boles, *Jefferson: Architect of American Liberty* (ARC-T-MODERN):
 > "My goal is to write a full-scale biography of Jefferson, depicting him as a philosopher, politician, farmer, musician, architect, inventor, family man, historian, connoisseur of fine wine, and botanist."
@@ -61,12 +61,12 @@ Mechanism:
 
 Local English traditions are reframed as global truths.
 
-This mirrors Francia’s universalism—but without codification.
+This mirrors Francia's universalism—but without codification.
 
 ────────────────────────────────────────────────────────────
 IV. DECLARATION OVER ADMINISTRATION
 ────────────────────────────────────────────────────────────
-Jefferson’s strength is expression, not governance.
+Jefferson's strength is expression, not governance.
 
 Patterns:
 • Philosophical clarity
@@ -140,7 +140,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–REVOLUTION–DECLARATION–INDEPENDENCE — Jefferson's core
   authorship role in the declaration of rupture and legitimacy.
-• MEM–AMERICA–MADISON — Contrast between Jeffersonian abstraction and
+• MEM–AMERICA–PRESIDENT–MADISON — Contrast between Jeffersonian abstraction and
   Madisonian structural constitutional design.
 • MEM–AMERICA–LAW–CONSTITUTION — Institutional codification of ideas that
   Jefferson articulated but did not architect alone.
@@ -152,5 +152,5 @@ Cross-Civilizational:
 Cross-references denote lineage, not equivalence.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–JEFFERSON — v1.4
+END OF FILE — MEM–AMERICA–PRESIDENT–JEFFERSON — v1.4
 ────────────────────────────────────────────────────────────

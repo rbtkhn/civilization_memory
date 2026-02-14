@@ -9,7 +9,7 @@ Cite as (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Use Basler *Collected Works* volume/pag
 
 ---
 
-## 1. MEM–AMERICA–LINCOLN — §II (Civilizational Position) or §III (Procedure over Consent)
+## 1. MEM–AMERICA–PRESIDENT–LINCOLN — §II (Civilizational Position) or §III (Procedure over Consent)
 
 **Theme:** Union crisis; house divided; government cannot endure half slave and half free.
 
@@ -21,7 +21,7 @@ Cite as (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Use Basler *Collected Works* volume/pag
 
 ---
 
-## 2. MEM–AMERICA–LINCOLN — §III (Procedure over Consent)
+## 2. MEM–AMERICA–PRESIDENT–LINCOLN — §III (Procedure over Consent)
 
 **Theme:** Perpetual union; no state can lawfully leave; secession legally void.
 
@@ -33,7 +33,7 @@ Cite as (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Use Basler *Collected Works* volume/pag
 
 ---
 
-## 3. MEM–AMERICA–LINCOLN — §V (Emancipation as Legitimacy Recoding)
+## 3. MEM–AMERICA–PRESIDENT–LINCOLN — §V (Emancipation as Legitimacy Recoding)
 
 **Theme:** Paramount object is to save the Union; emancipation as war measure.
 
@@ -45,7 +45,7 @@ Cite as (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Use Basler *Collected Works* volume/pag
 
 ---
 
-## 4. MEM–AMERICA–LINCOLN — §VI (Rhetorical Minimalism) or §VII (Death & Unfinished Reconciliation)
+## 4. MEM–AMERICA–PRESIDENT–LINCOLN — §VI (Rhetorical Minimalism) or §VII (Death & Unfinished Reconciliation)
 
 **Theme:** Reconciliation; malice toward none; charity for all; finish the work.
 
@@ -112,10 +112,10 @@ Cite as (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Use Basler *Collected Works* volume/pag
 
 | # | MEM | Section | Lincoln source (short) |
 |---|-----|---------|-------------------------|
-| 1 | MEM–AMERICA–LINCOLN | II or III | House Divided (1858) |
-| 2 | MEM–AMERICA–LINCOLN | III | First Inaugural — perpetuity / no lawful exit |
-| 3 | MEM–AMERICA–LINCOLN | V | Greeley letter — paramount object Union |
-| 4 | MEM–AMERICA–LINCOLN | VI or VII | Second Inaugural — malice toward none |
+| 1 | MEM–AMERICA–PRESIDENT–LINCOLN | II or III | House Divided (1858) |
+| 2 | MEM–AMERICA–PRESIDENT–LINCOLN | III | First Inaugural — perpetuity / no lawful exit |
+| 3 | MEM–AMERICA–PRESIDENT–LINCOLN | V | Greeley letter — paramount object Union |
+| 4 | MEM–AMERICA–PRESIDENT–LINCOLN | VI or VII | Second Inaugural — malice toward none |
 | 5 | MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG | II or III | Gettysburg Address closing |
 | 6 | MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER | II or III | July 4, 1861 message — war-power in defence |
 | 7 | MEM–AMERICA–WAR–AMERICAN–CIVIL | II or III | First Inaugural — perpetual union |
@@ -127,4 +127,4 @@ Cite as (ARC-T-EARLY-MOD) [ERC-PRIMARY]. Use Basler *Collected Works* volume/pag
 
 ---
 
-**Implementation (February 2026):** Lincoln added to CIV–ARC–AMERICA (ARC-T-EARLY-MOD). All eight opportunities implemented: MEM–AMERICA–LINCOLN (4 blocks), GETTYSBURG (1), FORT–SUMTER (1), WAR–AMERICAN–CIVIL (1), APPOMATTOX (1). MEM versions bumped per CMC version decoupling.
+**Implementation (February 2026):** Lincoln added to CIV–ARC–AMERICA (ARC-T-EARLY-MOD). All eight opportunities implemented: MEM–AMERICA–PRESIDENT–LINCOLN (4 blocks), GETTYSBURG (1), FORT–SUMTER (1), WAR–AMERICAN–CIVIL (1), APPOMATTOX (1). MEM versions bumped per CMC version decoupling.

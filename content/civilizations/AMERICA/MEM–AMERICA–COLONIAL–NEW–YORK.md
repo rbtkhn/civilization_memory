@@ -64,7 +64,7 @@ AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE — British occupation;
   Evacuation Day 1783; Treaty of Paris; restoration of American
   authority.
-• MEM–AMERICA–WASHINGTON — Enters New York on Evacuation Day;
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Enters New York on Evacuation Day;
   restoration of civil authority; farewell to officers (later).
 • MEM–AMERICA–COLONIAL–PHILADELPHIA — Congress in Philadelphia;
   New York as occupied port; temporary federal capital New York

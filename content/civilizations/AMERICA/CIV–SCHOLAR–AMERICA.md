@@ -1,4 +1,4 @@
-CIV–SCHOLAR–AMERICA — v1.6
+CIV–SCHOLAR–AMERICA — v1.7
 Civilizational Strategy Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -12,7 +12,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v3.2
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10+
 Governed by: CIV–SCHOLAR–PROTOCOL v3.0
 ARC Reference: CIV–ARC–ANGLIA (constitutive for pre-America Anglian); CIV–ARC–AMERICA v2.0 (derived from ARC–ANGLIA; MEM–AMERICA and institutional sources)
-Last Update: February 2026 (v1.6: ENTRY 0013, assembly-under-pressure four encodings)
+Last Update: February 2026 (v1.7: ENTRY 0014, SYNTHESIS 0007 — first succession, empire of laws, Madison, stress moments)
 
 Word Count: ~3,200
 
@@ -69,7 +69,7 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 
 In Phase I, RLLs are not binding. This file may reference CIV–DOCTRINE–
 AMERICA as **authoritative American doctrine** and CIV–DOCTRINE–ANGLIA as
-**inherited doctrinal context** (doctrines 01–07 apply as American-adapted frame). America-specific doctrine entries may be added
+**inherited doctrinal context** (doctrines 01–08 apply as American-adapted frame). America-specific doctrine entries may be added
 here only when a synthesis is explicitly frozen and accepted per
 Template. If Phase II is adopted, RLL–AMERICA–#### namespace and
 binding rules apply per Template.
@@ -318,7 +318,7 @@ ENTRY 0008
 Source:
 • SCHOLAR–AMERICA LEARN session — Kissinger cluster, legitimacy density,
   Fort Sumter–Appomattox (February 2026); MEM–AMERICA–KISSINGER, MEM–
-  AMERICA–NIXON, MEM–AMERICA–EISENHOWER, MEM–AMERICA–WASHINGTON, MEM–
+  AMERICA–NIXON, MEM–AMERICA–PRESIDENT–EISENHOWER, MEM–AMERICA–PRESIDENT–WASHINGTON, MEM–
   AMERICA–JACKSON, MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER, MEM–
   AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX
 Ingest Type:
@@ -341,7 +341,7 @@ Source:
   (myth as stabilizer) and legitimacy density; Gettysburg, Second
   Inaugural, Appomattox, post-Vietnam (February 2026); CIV–DOCTRINE–
   AMERICA; MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG, MEM–AMERICA–
-  WAR–AMERICAN–CIVIL–APPOMATTOX, MEM–AMERICA–LINCOLN
+  WAR–AMERICAN–CIVIL–APPOMATTOX, MEM–AMERICA–PRESIDENT–LINCOLN
 Ingest Type:
 • America-specific — Doctrine 07 and legitimacy density
 Primary Belief Extracted:
@@ -409,8 +409,8 @@ ENTRY 0012
 Source:
 • SCHOLAR–AMERICA LEARN (Direction 7 — Monroe and perimeter
   reversals); MEM–AMERICA–GEO–SUEZ–CANAL, MEM–AMERICA–
-  ROOSEVELT–THEODORE, MEM–AMERICA–NIXON, MEM–AMERICA–KISSINGER,
-  MEM–AMERICA–MONROE (February 2026).
+  PRESIDENT–ROOSEVELT–THEODORE, MEM–AMERICA–PRESIDENT–NIXON, MEM–AMERICA–KISSINGER,
+  MEM–AMERICA–PRESIDENT–MONROE (February 2026).
 Ingest Type:
 • America-specific / constitutive (Anglian Suez) — perimeter reversal
   and encoding
@@ -452,6 +452,37 @@ Primary Belief Extracted:
   is whether the assembly is backed by force/administration, is the
   vehicle of rupture, is deliberately constrained, or is left without
   any of those. Four encodings preserved; no single rule explains all.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0014
+Source:
+• SCHOLAR–AMERICA LEARN (president–emperor parallels, first succession,
+  empire of laws, Madison, stress moments); ESSAY–US–PRESIDENTS–
+  ROMAN–EMPERORS–PARALLELS; MEM–AMERICA–PRESIDENT–ADAMS, MEM–AMERICA–PRESIDENT–MADISON,
+  MEM–AMERICA–PRESIDENT–JACKSON, MEM–AMERICA–PRESIDENT–NIXON, MEM–ROME–AUGUSTUS, MEM–
+  ROME–EMPIRE–TIBERIUS (February 2026). Traversals: E (Roman first
+  succession), G (Adams 1801), A (empire of laws; Madison extension),
+  F (stress moments), B (1937 structural incentive), H (synthesis).
+Ingest Type:
+• America-specific / cross-civ — legitimacy encoding and first succession
+Primary Belief Extracted:
+• **First succession contrast:** Rome (AD 14): Augustus left no legal
+  succession machinery; Tiberius inherited by designation and
+  acclamation; Mommsen: "The Principate endured because Augustus
+  lived; it lacked the legal machinery to endure because he died."
+  America (1801): Adams to Jefferson encoded procedure over person—
+  Constitution, electoral count, oath. Succession lodged in law, not
+  in "discretion of those who survived." Same function (first peaceful
+  transfer, stability without affection); different encoding (law as
+  sovereign vs precedent and person). **Empire of laws:** Adams (1776)
+  names the norm; Madison (Federalist 51) operationalises it—"ambition
+  must counteract ambition," structure uses interest to oblige government
+  to control itself. **Stress moments:** Jackson pressed the frame;
+  FDR court-packing (1937) rebuffed—Congress and public resisted,
+  ambition counteracted ambition; Nixon violated procedure, resignation
+  and succession reasserted. Structural incentive to resist 1937: each
+  branch has an interest in the others remaining real players.
 Belief Status:
 • UNFROZEN
 
@@ -565,7 +596,7 @@ SYNTHESIS 0004 (candidate — from LEARN session legitimacy density)
   state" is contested (civil war vs contained rupture).
   Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
   Confidence: TIER 2 (70–90% — pattern supported by MEM–AMERICA–
-  WASHINGTON, MEM–AMERICA–JACKSON, MEM–AMERICA–KISSINGER, MEM–
+  WASHINGTON, MEM–AMERICA–PRESIDENT–JACKSON, MEM–AMERICA–KISSINGER, MEM–
   AMERICA–NIXON, MEM–AMERICA–WAR–AMERICAN–CIVIL–FORT–SUMTER, MEM–
   AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX; 19th-century stress-test
   applied Feb 2026 — loci hold, cases often composite)
@@ -590,8 +621,8 @@ SYNTHESIS 0004 (candidate — from LEARN session legitimacy density)
   treat as doctrine unless explicitly frozen per Template.
 
   19th-century stress-test (February 2026): SYNTHESIS 0004 tested
-  against MEM–AMERICA–MONROE, MEM–AMERICA–WAR–1812, MEM–AMERICA–
-  WAR–MEXICAN–AMERICAN, MEM–AMERICA–LINCOLN, MEM–AMERICA–GRANT.
+  against MEM–AMERICA–PRESIDENT–MONROE, MEM–AMERICA–WAR–1812, MEM–AMERICA–
+  WAR–MEXICAN–AMERICAN, MEM–AMERICA–PRESIDENT–LINCOLN, MEM–AMERICA–PRESIDENT–GRANT.
   Result: four loci hold; cases often composite (two loci at once).
   Monroe: doctrine + procedure. War of 1812: procedure (outcome
   stalemate—procedure carries when outcome neutral). Mexican–
@@ -637,7 +668,7 @@ SYNTHESIS 0005 (candidate — from LEARN session Doctrine 07 and legitimacy dens
   Status: UNFROZEN · CANDIDATE (hypothesis staging, Phase I)
   Confidence: TIER 2 (70–90% — pattern supported by CIV–DOCTRINE–
   AMERICA 07; MEM–AMERICA–WAR–AMERICAN–CIVIL–GETTYSBURG, MEM–
-  AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX, MEM–AMERICA–LINCOLN; not
+  AMERICA–WAR–AMERICAN–CIVIL–APPOMATTOX, MEM–AMERICA–PRESIDENT–LINCOLN; not
   yet independently stress-tested)
 
   ASSUMPTIONS BOX:
@@ -694,10 +725,55 @@ SYNTHESIS 0006 (candidate — from LEARN session assembly-under-pressure)
   LAW–ZEMSTVO, MEM–GERMANIA–FRANKFURT; ENTRY 0013). Do not treat as
   doctrine unless explicitly frozen per Template.
 
+SYNTHESIS 0007 (FROZEN · PROMOTED TO DOCTRINE 08 — from LEARN session president–emperor, first succession, empire of laws)
+  Outcome: First succession: America encodes procedure-over-person
+  (1801: Adams to Jefferson; Constitution, count, oath); Rome relied
+  on designation and precedent (AD 14: Augustus → Tiberius; no legal
+  machinery—Suetonius, Mommsen). "Empire of laws, not of men" (Adams
+  1776) names the norm; Madison's "ambition must counteract ambition"
+  (Federalist 51) operationalises it—structure uses interest so that
+  government obliges itself to control itself. Stress moments (Jackson,
+  FDR court-packing 1937, Nixon) test the Madisonian machine; 1937
+  shows Congress and public resisting so ambition counteracts ambition;
+  Nixon shows procedure reasserting after violation. Structural
+  incentive to resist court-packing: each branch has an interest in
+  the others remaining real players. The frame has been stressed
+  repeatedly but ruptured only once (Nixon), and then contained by
+  resignation and succession.
+  Status: FROZEN · PROMOTED TO DOCTRINE 08 (CIV–DOCTRINE–AMERICA v1.2; accepted via DIB–AMERICA)
+  Confidence: TIER 2 (70–90% — pattern supported by ENTRY 0014 and
+  traversed MEMs and essay; cross-civ Rome/America; not yet
+  independently stress-tested)
+
+  ASSUMPTIONS BOX:
+  • Assumption 1: The first-succession contrast (law as sovereign vs
+    precedent/person) generalises as civilisational encoding difference
+    — if falsified (e.g. Rome later developed equivalent machinery),
+    the synthesis is period-specific. Linchpin: Medium.
+  • Assumption 2: Madison's machine (ambition counteracting ambition)
+    is the operationalisation of "empire of laws" in the American
+    design — if falsified (e.g. other mechanisms do the work), the
+    synthesis overstates the link. Linchpin: Low.
+  • Assumption 3: Stress moments (Jackson, 1937, Nixon) are
+    representative of how the frame is tested — if falsified (e.g. more
+    rupture than contained), the synthesis overstates stability.
+    Linchpin: Medium.
+
+  Source: SCHOLAR–AMERICA LEARN session (president–emperor essay;
+  options E, G, A×2, F, B, H; ESSAY–US–PRESIDENTS–ROMAN–EMPERORS–
+  PARALLELS; MEM–AMERICA–PRESIDENT–ADAMS, MEM–AMERICA–PRESIDENT–MADISON, MEM–ROME–
+  AUGUSTUS, MEM–ROME–EMPIRE–TIBERIUS; ENTRY 0014). Frozen and
+  promoted to CIV–DOCTRINE–AMERICA as Doctrine 08 (v1.2).
+
+  RLL–AMERICA–0002 (First succession and empire of laws): reflected
+  in Doctrine 08; binding only if Phase II adopted; doctrine is
+  authoritative per CIV–DOCTRINE–AMERICA.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY (AMERICA-SPECIFIC)
 ────────────────────────────────────────────────────────────
-No America-specific doctrines frozen. Inherited context: CIV–
+Doctrine 08 (First succession and empire of laws): frozen from
+SYNTHESIS 0007, entered CIV–DOCTRINE–AMERICA v1.2. Inherited context: CIV–
 DOCTRINE–ANGLIA (Procedure as Memory, Rupture Absorption, Defeat
 Without Collapse, Time as Weapon, Coalition Primacy, Naval Denial,
 Myth as Stabilizer) applies as Anglian-derived frame. America-
@@ -731,9 +807,9 @@ XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE
 Doctrine Count (America-specific): 7 in CIV–DOCTRINE–AMERICA (derived from CIV–DOCTRINE–ANGLIA)
-Total Entries: 9
-Total Syntheses: 5 (candidate — SYNTHESIS 0001 Mississippi mouth control; SYNTHESIS 0002 Kennedy/legitimacy of coercion; SYNTHESIS 0003 violation → corrective reassertion; SYNTHESIS 0004 legitimacy density; SYNTHESIS 0005 Doctrine 07 and legitimacy density)
-Next Entry ID: 0010
+Total Entries: 14
+Total Syntheses: 7 (candidate — SYNTHESIS 0001 Mississippi; 0002 Kennedy/coercion; 0003 violation→reassertion; 0004 legitimacy density; 0005 Doctrine 07; 0006 assembly-under-pressure; 0007 first succession / empire of laws / Madison)
+Next Entry ID: 0015
 Ingestion source: MEM–ANGLIA–* (constitutive); MEM–AMERICA–* (when present)
 
 ────────────────────────────────────────────────────────────
@@ -771,10 +847,18 @@ termination (Second Inaugural + Appomattox terms); hard constraint
 when procedure contradicts myth. CONCEPT REGISTRY: Doctrine 07 and
 legitimacy density.
 
+v1.7 (February 2026): ENTRY 0014 (LEARN session president–emperor
+parallels, first succession Rome vs America, empire of laws, Madison
+extension, stress moments Jackson/1937/Nixon). SYNTHESIS 0007
+(candidate): first succession encoding contrast; empire of laws +
+Madison operationalisation; stress moments and structural incentive
+to resist court-packing. Proposed RLL–AMERICA–0002 (Phase I, not
+binding). First succession / empire of laws.
+
 Future versions may: Add entries; add syntheses; freeze doctrines.
 Future versions may NOT: Remove content; reorder sections; retroactively
 edit beliefs; weaken the America-as-Anglian-derivative principle.
 
 ────────────────────────────────────────────────────────────
-END — CIV–SCHOLAR–AMERICA v1.2
+END — CIV–SCHOLAR–AMERICA v1.7
 ────────────────────────────────────────────────────────────

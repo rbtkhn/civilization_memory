@@ -1,4 +1,4 @@
-MEM–AMERICA–TRUMAN — v1.1
+MEM–AMERICA–PRESIDENT–TRUMAN — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -150,30 +150,30 @@ the president who fired MacArthur.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–ROOSEVELT–FRANKLIN — Succession on FDR's death (1945);
+• MEM–AMERICA–PRESIDENT–ROOSEVELT–FRANKLIN — Succession on FDR's death (1945);
   Truman inherits war and coalition; procedure holds; contrast in
   tenure (FDR four terms, Truman elected once in own right).
-• MEM–AMERICA–EISENHOWER — Supreme Commander under Truman; Korea
+• MEM–AMERICA–PRESIDENT–EISENHOWER — Supreme Commander under Truman; Korea
   armistice under Eisenhower presidency; Ike as Truman's successor's
   successor; containment continuity.
-• MEM–AMERICA–KENNEDY — Containment continuity; Truman Doctrine
+• MEM–AMERICA–PRESIDENT–KENNEDY — Containment continuity; Truman Doctrine
   and NATO as foundation for Kennedy's crisis management.
-• MEM–AMERICA–WASHINGTON — Civilian control; Truman's MacArthur
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Civilian control; Truman's MacArthur
   removal as reaffirmation of president over general; precedent
   from founding.
-• MEM–AMERICA–JACKSON — Executive vs. defiant authority; Jackson's
+• MEM–AMERICA–PRESIDENT–JACKSON — Executive vs. defiant authority; Jackson's
   removals and confrontations; Truman's firing of MacArthur—procedure
   and office over popular figure.
 • MEM–AMERICA–MACARTHUR — Theatre commander relieved by Truman
   (April 1951); Korea policy clash; civilian supremacy; encoding
   from general's perspective.
-• MEM–AMERICA–MONROE — Doctrine as declarative; Monroe Doctrine
+• MEM–AMERICA–PRESIDENT–MONROE — Doctrine as declarative; Monroe Doctrine
   as hemisphere perimeter; Truman Doctrine as containment perimeter;
   declarative precedent.
-• MEM–AMERICA–LINCOLN — Crisis succession; Lincoln's war presidency;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Crisis succession; Lincoln's war presidency;
   Truman's inheritance of war and launch of Cold War; legitimacy
   under stress.
-• MEM–AMERICA–GRANT — War termination; Grant's Appomattox; Truman's
+• MEM–AMERICA–PRESIDENT–GRANT — War termination; Grant's Appomattox; Truman's
   surrender and occupation; procedure for ending war.
 
 Cross-references denote lineage, not equivalence.
@@ -195,5 +195,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–TRUMAN — v1.1
+END OF FILE — MEM–AMERICA–PRESIDENT–TRUMAN — v1.1
 ────────────────────────────────────────────────────────────

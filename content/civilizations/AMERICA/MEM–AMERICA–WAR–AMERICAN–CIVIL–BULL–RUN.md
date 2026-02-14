@@ -93,7 +93,7 @@ AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL–LEE — Second Bull Run: Lee's
   command; offensive template; prelude to Antietam and
   Chancellorsville.
-• MEM–AMERICA–LINCOLN — President; Union defeat at First Bull Run
+• MEM–AMERICA–PRESIDENT–LINCOLN — President; Union defeat at First Bull Run
   forces recalibration; war of attrition and procedure continues.
 
 Cross-Civilizational:

@@ -1,4 +1,4 @@
-MEM–AMERICA–EISENHOWER — v1.0
+MEM–AMERICA–PRESIDENT–EISENHOWER — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -137,23 +137,23 @@ and the warning that outlives his tenure.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 AMERICA:
-• MEM–AMERICA–WASHINGTON — General-then-president; voluntary
+• MEM–AMERICA–PRESIDENT–WASHINGTON — General-then-president; voluntary
   restraint; civilian supremacy; Eisenhower as twentieth-century
   parallel; institutional legitimacy over personal power.
-• MEM–AMERICA–GRANT — General-then-president; Grant as Union
+• MEM–AMERICA–PRESIDENT–GRANT — General-then-president; Grant as Union
   executor; Eisenhower as coalition executor then president;
   contrast in scandal (Grant era) vs institutional caution (Ike).
-• MEM–AMERICA–KENNEDY — Successor; contrast in style—Eisenhower
+• MEM–AMERICA–PRESIDENT–KENNEDY — Successor; contrast in style—Eisenhower
   elder, institutional; Kennedy youth, vigour, New Frontier;
   continuity of containment, change of tone.
-• MEM–AMERICA–NIXON — Vice President under Eisenhower; Nixon's
+• MEM–AMERICA–PRESIDENT–NIXON — Vice President under Eisenhower; Nixon's
   later realpolitik and rupture; Ike's restraint vs Nixon's
   extension and violation.
-• MEM–AMERICA–MONROE — Hemisphere and Atlantic order; Eisenhower's
+• MEM–AMERICA–PRESIDENT–MONROE — Hemisphere and Atlantic order; Eisenhower's
   NATO and Suez stance as Atlantic/ procedural primacy; no new
   European colonisation extended to restraining allies' imperial
   reassertion.
-• MEM–AMERICA–JACKSON — Federal enforcement; Jackson's confrontation
+• MEM–AMERICA–PRESIDENT–JACKSON — Federal enforcement; Jackson's confrontation
   with states; Eisenhower's Little Rock—federal authority and
   procedure over local defiance (different substantive cause, same
   structural pattern).
@@ -180,5 +180,5 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–AMERICA–EISENHOWER — v1.0
+END OF FILE — MEM–AMERICA–PRESIDENT–EISENHOWER — v1.0
 ────────────────────────────────────────────────────────────

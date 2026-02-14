@@ -96,9 +96,9 @@ V. MEM CONNECTIONS (MANDATORY)
 AMERICA:
 • MEM–AMERICA–WAR–AMERICAN–CIVIL — Parent war; union preservation;
   scale and attrition; Sherman as leading Union commander.
-• MEM–AMERICA–GRANT — Strategic partner; Grant–Sherman pairing;
+• MEM–AMERICA–PRESIDENT–GRANT — Strategic partner; Grant–Sherman pairing;
   attrition and procedural surrender; civilian subordination.
-• MEM–AMERICA–LINCOLN — Commander-in-chief; union preservation;
+• MEM–AMERICA–PRESIDENT–LINCOLN — Commander-in-chief; union preservation;
   elections 1864; authority over theatre commanders.
 
 Cross-Civilizational:

@@ -211,15 +211,15 @@ AMERICA:
   major American defeat; southern theatre.
 • MEM–AMERICA–WAR–AMERICAN–INDEPENDENCE–NEW–YORK — British capture
   1776; occupation until 1783.
-• MEM–AMERICA–WASHINGTON — Commander; restraint; deference to
+• MEM–AMERICA–PRESIDENT–WASHINGTON — Commander; restraint; deference to
   civilian authority; voluntary return of power; founding general.
-• MEM–AMERICA–ADAMS — Diplomat; Treaty of Paris negotiator;
+• MEM–AMERICA–PRESIDENT–ADAMS — Diplomat; Treaty of Paris negotiator;
   first generation.
-• MEM–AMERICA–JEFFERSON — Declaration of Independence; legitimacy
+• MEM–AMERICA–PRESIDENT–JEFFERSON — Declaration of Independence; legitimacy
   and alliance signal; republican vision.
-• MEM–AMERICA–MADISON — Constitutional design post-independence;
+• MEM–AMERICA–PRESIDENT–MADISON — Constitutional design post-independence;
   federal structure after war.
-• MEM–AMERICA–LINCOLN — Later crisis of union; Civil War as
+• MEM–AMERICA–PRESIDENT–LINCOLN — Later crisis of union; Civil War as
   inverse (preserve union vs. secure exit).
 
 Cross-Civilizational:

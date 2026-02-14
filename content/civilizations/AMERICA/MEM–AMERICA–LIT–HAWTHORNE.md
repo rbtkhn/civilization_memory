@@ -123,7 +123,7 @@ AMERICA:
   Salem and Boston as sites of the past.
 • MEM–AMERICA–REVOLUTION–LEXINGTON–CONCORD — Concord as site;
   Old Manse; Hawthorne's residence and the Revolution's landscape.
-• MEM–AMERICA–JACKSON — Era of Hawthorne's major work; Jacksonian
+• MEM–AMERICA–PRESIDENT–JACKSON — Era of Hawthorne's major work; Jacksonian
   America and the persistence of Puritan moral grammar.
 
 Cross-references denote lineage, not equivalence.
