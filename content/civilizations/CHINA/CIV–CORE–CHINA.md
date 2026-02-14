@@ -14,6 +14,7 @@ Lock Level: STRUCTURAL (content expandable without renumbering)
 Governed by: CIV–MEM–CORE v3.0
 • CIV–INDEX–CHINA v3.0 (MEM scope: 68 files)
 ARC Reference: CIV–ARC–CHINA v3.0
+Doctrine Reference: CIV–DOCTRINE–CHINA v1.1 (doctrines 01–03; mirror binding when cited). 01: Non-Han Consolidation — Peak Then Exhaustion; 02: Rupture-to-Reconstitution; 03: Conquest-as-Connectivity Condition (incl. Scope and Contemporary Application). See CIV–DOCTRINE–CHINA.
 Last Update: February 2026
 WORDCOUNT: ~2,800
 

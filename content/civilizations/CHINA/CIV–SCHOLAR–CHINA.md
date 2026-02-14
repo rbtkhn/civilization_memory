@@ -35,6 +35,8 @@ This file preserves: what was ingested; when it was ingested; what beliefs were 
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–CHINA. No Scholar file may override MEM law, ARC law, or Template law.
 
+**Doctrine mirror (CIV–MEM–CORE § XVII):** CIV–DOCTRINE–CHINA v1.0 exists and is mirrored into this file and into CIV–CORE–CHINA. Authoritative doctrine definitions are in CIV–DOCTRINE–CHINA; this file records the SCHOLAR-side freeze and source syntheses. Mirrored doctrines inform SCHOLAR learning without constraining it.
+
 CIV–CORE–CHINA v3.0 governs diagnostic outputs (MSI, PLS, SOC, EAL, AT, LCF, IRR, EAC, Compute Sovereignty, Spatial Integrity, Escalation Stability, EPV, Time Advantage, Axis Optionality, SAF-CH, GRID-CH, RIR-CH). This Scholar records learning; it does not replace CORE logic.
 
 ────────────────────────────────────────────────────────────
@@ -528,21 +530,50 @@ ASSUMPTIONS SUMMARY
 | 2 | Adaptive governance outlasts conquest | H | Yes |
 | 3 | Secure corridors = rational response to scale | M | Yes |
 
+SYNTHESIS 0013 (Doctrine 03 scope refinement — CANDIDATE)
+Outcome:
+• Doctrine 03 (Conquest-as-Connectivity) describes a historical pattern
+  (Mongol/Yuan); its Operational Meaning states that connectivity does
+  not routinely precede or exist independently of conquest in that
+  pattern. Contemporary official strategy (BRI) presents connectivity as
+  voluntary, non-coercive, and independent of conquest/coercion. A
+  scope refinement is warranted: the doctrine's pattern applies to the
+  historical cases it was derived from; contemporary connectivity
+  initiatives may be officially characterised as voluntary and
+  independent of coercion without invalidating the historical pattern.
+  Structural incentives (corridor security, route control) may persist
+  even when official rhetoric emphasises voluntary cooperation.
+Status:
+• FROZEN → Doctrine 03 refinement (CIV–DOCTRINE–CHINA v1.1); DIB–CHINA accepted 2026-02-13
+Basis:
+• STATE–CHINA doctrine audit addendum (30-day search), 2026-02-13;
+  SYNTHESIS 0010 (source of Doctrine 03); CIV–DOCTRINE–CHINA v1.0
+  Operational Meaning. Finding: BRI official rhetoric tensions with
+  phrase "connectivity does not routinely … exist independently of
+  conquest in this pattern"; refinement narrows scope to historical
+  pattern and adds contemporary-application note.
+Proposed doctrine change:
+• Add SCOPE / CONTEMPORARY APPLICATION to Doctrine 03 (see DIB package
+  docs/governance/DIB–CHINA–DOCTRINE–03–REFINEMENT–2026–02–13.md).
+Confidence: TIER 2 (pattern + observed behaviour; scope clarification)
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
+**Mirror:** Authoritative definitions and citation surface: CIV–DOCTRINE–CHINA v1.0 (doctrines 01–03). Below: SCHOLAR-side record of freeze and source synthesis only.
 
-DOCTRINE v0.1 — "NON-HAN CONSOLIDATION: PEAK THEN EXHAUSTION"
+DOCTRINE v0.1 → CIV–DOCTRINE–CHINA Doctrine 01 — "NON-HAN CONSOLIDATION: PEAK THEN EXHAUSTION"
 State: FROZEN
 (SYNTHESIS 0004)
 
-DOCTRINE v0.2 — "RUPTURE-TO-RECONSTITUTION"
+DOCTRINE v0.2 → CIV–DOCTRINE–CHINA Doctrine 02 — "RUPTURE-TO-RECONSTITUTION"
 State: FROZEN
 (SYNTHESIS 0007)
 
-DOCTRINE v0.3 — "CONQUEST-AS-CONNECTIVITY CONDITION"
+DOCTRINE v0.3 → CIV–DOCTRINE–CHINA Doctrine 03 — "CONQUEST-AS-CONNECTIVITY CONDITION"
 State: FROZEN
 (SYNTHESIS 0010)
+Refinement: SYNTHESIS 0013 accepted (DIB–CHINA 2026-02-13); CIV–DOCTRINE–CHINA v1.1 (Scope and Contemporary Application)
 
 ────────────────────────────────────────────────────────────
 XVIII.A. CANDIDATE RLL PROPOSALS (PHASE I — NON-BINDING)

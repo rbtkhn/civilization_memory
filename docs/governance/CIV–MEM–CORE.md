@@ -784,6 +784,18 @@ Mirroring is declarative only.
 Mirrored doctrines provide citation surface for CIV–CORE engines.
 Mirrored doctrines inform SCHOLAR learning without constraining it.
 
+XVII.A. CIVILIZATION AND DOCTRINE — CONCEPTUAL METAPHOR (GUIDANCE)
+────────────────────────────────────────────────────────────
+Civilization is like a hand-woven carpet continuously under construction: never finished, extended and repaired over time, the same object across generations.
+
+• **Pattern:** The pattern of the carpet is the MEM file corpus—the civilizational memory, the motifs and shapes that appear in the weave. MEMs are the visible design: the accumulated events, actors, and sequences that form the civilization's canonical fabric. The pattern is what has been woven; it connects past to present by being the record of what the civilization carries forward.
+
+• **Thread:** Strands that run through the carpet and link its stretches. Doctrine is a thread: it carries continuity (e.g. peak–exhaustion, rupture–reconstitution, conquest–connectivity) from earlier to later sections. ARC is another thread: it defines which sources and voices are admissible in the weave—author admissibility for MEM, institutional sources for STATE. Threads run through the pattern; they shape and constrain what can be woven. Scope and refinement clarify where a thread runs and how it appears in a given stretch; the same thread may present differently in different sections without breaking continuity.
+
+• **Viewers:** SCHOLAR and STATE are viewers of the carpet. They observe, interpret, and use the weave; they do not originate it. SCHOLAR learns from the past by viewing the pattern (MEM corpus) and the threads (doctrine, ARC); it synthesizes and may propose new doctrine, but the carpet is given. STATE learns from the present by viewing the same carpet in light of current events; it grounds options and assessments in the pattern and threads. Both are readers of the carpet, not weavers.
+
+This metaphor is guidance for interpretation and refinement, not a procedural rule. It reduces over-rigid reading of doctrine as a single snapshot and supports scope clarification when the same thread appears in a new stretch of the weave.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE FORMATION LAW
 ────────────────────────────────────────────────────────────
