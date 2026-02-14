@@ -1,10 +1,10 @@
-MEM–INDIA–NEHRU — v2.1
+MEM–INDIA–NEHRU — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 2.1
-Supersedes: v2.0
-Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
+Version: 2.2
+Supersedes: v2.1
+Upgrade Type: ALTERNATIVE ENCODINGS — IDEALISM TOWARD CHINA (SCHOLAR LEARN)
 Civilization: INDIA
 Subject: Jawaharlal Nehru
 Dates: 1889–1964 AD
@@ -59,7 +59,30 @@ Costs of Nehru’s model:
 Continuity preserved at the expense of speed.
 
 ────────────────────────────────────────────────────────────
-V. CIVILIZATIONAL CONSEQUENAD
+IV.A. ALTERNATIVE ENCODINGS: IDEALISM TOWARD CHINA
+────────────────────────────────────────────────────────────
+Nehru's idealism toward China (above: § IV, structural weakness) admits
+**alternative encodings**. The same behaviour can be stored under different
+labels, each yielding different implications for what India "learns" from 1962.
+
+Tension Record:
+| Encoding | Frame | Implication |
+|----------|-------|-------------|
+| Weakness | Character / misperception | Idealism invites correction; avoid naivety |
+| Strategic delay | Time-buying | Idealism extended "right to decide later"; 1962 = correction before delay paid off |
+| Legitimacy-building | Performance | Panchsheel, Bandung = civilizational maturity; 1962 = performance failed to constrain |
+| Inherited framework | Continuity | British buffer assumption; 1950–51 Tibet rupture = structural break, not personal flaw |
+| Cost of autonomy | Non-alignment | Idealism = price of refusing bloc subordination; available vocabulary when India would not align |
+
+Verdict: TENSION PRESERVED. Which encoding India keeps shapes what it learns
+from 1962—and whether the lesson is "don't be idealistic" or "don't defer
+without building capacity" or "autonomy has a price." No resolution—alternatives stand.
+
+See: MEM–INDIA–GEO–TIBET (buffer loss; 1950–51 rupture); CIV–SCHOLAR–INDIA
+ENTRY 0008, SYNTHESIS 0004.
+
+────────────────────────────────────────────────────────────
+V. CIVILIZATIONAL CONSEQUENCES
 ────────────────────────────────────────────────────────────
 Outcomes:
 • Durable republican framework
@@ -100,12 +123,17 @@ Ferguson frames post-imperial institutional inheritance and procedural continuit
 — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) [ARC–INDIA-T-MODERN]. Summary-only note: verify against published edition for verbatim.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–GEO–TIBET — Buffer loss (1950–51); inherited British buffer assumption; alternative encodings of idealism (§ IV.A).
+• MEM–INDIA–BRITISH–EMPIRE — Institutional inheritance; procedural continuity; extraction vs governance.
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–NEHRU — v2.1
+END OF FILE — MEM–INDIA–NEHRU — v2.2
 ────────────────────────────────────────────────────────────

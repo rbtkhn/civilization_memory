@@ -17,6 +17,14 @@ When the user does **not** explicitly name a mode (e.g. "write mode", "STATE", "
 
 **Explicit override:** If the user names a mode ("system mode", "write mode", "STATE", "LEARN", etc.), that wins over inference.
 
+## Session state across mode/entity switches (CONTINUITY)
+
+**Continuity of state is intended throughout the conversation.** Retain prior context across turns: which MEMs were loaded, which ENTRY or synthesis was last discussed, which mode and entity were active, and what was concluded. Compression (e.g. summarization) only when necessary (e.g. context window limits).
+
+**Re-anchor ≠ wipe.** On entity or mode switch, **re-anchor** means: *which* entity's CORE, MEM–RELEVANCE, SCHOLAR, and STATE files **govern the current turn**. It does **not** mean discarding session memory. When the user switches (e.g. scholar-india → STATE Russia → back to scholar-india), the system re-anchors to India's files for the new turn but may still refer to earlier turns (e.g. "Earlier we discussed Nehru's idealism encodings; in STATE Russia we examined…").
+
+**Stateless** applies to the **options menu** (fixed slots, no "prior MIND" tracking) and to **which files govern** (re-anchor on entity switch). It does **not** apply to conversation continuity: prior analysis, loaded MEMs, and session trajectory are retained unless compression is required.
+
 ## WRITE
 
 - **Permits:** Create/edit MEM files, canonical reports, format artifacts; propose/create doctrines (edit CIV–DOCTRINE–[civilization] per CIV–SCHOLAR–[civilization] Section X)

@@ -1,19 +1,19 @@
-CIV–INDEX–INDIA — v3.0
+CIV–INDEX–INDIA — v3.2
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: CIV–INDEX–INDIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.2
+Supersedes: CIV–INDEX–INDIA v3.1
+Upgrade Type: LITERATURE · V-A LIT section; 5 MEMs (Mahabharata, Ramayana, Kalidasa, Arthashastra, Tagore)
 Civilization: INDIA
 Class: CIV–INDEX
 Last Update: February 2026
-Total MEM–INDIA files indexed: 21
+Total MEM–INDIA files indexed: 26
 Word Count: ~1,100
 
-Template Alignment: CIV–INDEX–TEMPLATE v3.0 (structural parity)
-Governed by: CIV–MEM–CORE v3.0
+Template Alignment: CIV–INDEX–TEMPLATE v3.2 (structural parity)
+Governed by: CIV–MEM–CORE v3.3
 Referenced by: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA · CIV–ARC–INDIA
 
 ────────────────────────────────────────────────────────────
@@ -56,13 +56,22 @@ IV. KEY CIVILIZATIONAL FIGURES
 • MEM–INDIA–NEHRU.md
 
 ────────────────────────────────────────────────────────────
-V. GEOGRAPHY & CIVILIZATIONAL SPAAD
+V. GEOGRAPHY & CIVILIZATIONAL SPACE
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–GEO–KASHMIR.md
 • MEM–INDIA–GEO–TIBET.md
 • MEM–INDIA–GEO–SRI–LANKA.md
 • MEM–INDIA–GEO–INDUS.md
 • MEM–INDIA–GEO–GANGES.md
+
+────────────────────────────────────────────────────────────
+V-A. LITERATURE & CIVILIZATIONAL TRANSMISSION
+────────────────────────────────────────────────────────────
+• MEM–INDIA–LIT–MAHABHARATA.md
+• MEM–INDIA–LIT–RAMAYANA.md
+• MEM–INDIA–LIT–KALIDASA.md
+• MEM–INDIA–LIT–ARTHASHASTRA.md
+• MEM–INDIA–LIT–TAGORE.md
 
 ────────────────────────────────────────────────────────────
 VI. WAR & EXTERNAL SHOCKS
@@ -83,7 +92,7 @@ VII. CIVILIZATIONAL INTERFACES
 ────────────────────────────────────────────────────────────
 VIII. INDEX COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-Total MEM–INDIA files indexed: 21
+Total MEM–INDIA files indexed: 26
 
 Unindexed files: NONE
 Naming conflicts detected: NONE
@@ -97,10 +106,13 @@ Candidate future MEM domains (not commitments):
 • MEM–INDIA–WAR–1962–CHINA
 • MEM–INDIA–ECON–LIBERALIZATION
 • MEM–INDIA–IDEOLOGY–HINDUTVA
+• MEM–INDIA–LIT–PANCHATANTRA
+• MEM–INDIA–LIT–KABIR
+• MEM–INDIA–LIT–TULSIDAS
 
 Index does not imply prioritization.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–INDIA — v3.0
+END OF FILE — CIV–INDEX–INDIA — v3.2
 ────────────────────────────────────────────────────────────
 

@@ -132,6 +132,26 @@ V. RETRIEVAL & COVERAGE BENCHMARKS
 | SYNC_SOURCE_VERSIONS | % of STATE files with Source Versions block (or equivalent) for sync protocol | Block present | 100% for STATE files used in sync |
 
 ────────────────────────────────────────────────────────────
+V-A. SESSION CONTINUITY BENCHMARKS (cmc-mode-contracts)
+────────────────────────────────────────────
+
+Session continuity (retention of prior context across mode/entity switches) is intended to increase connection discovery and unique insights. The following benchmarks measure whether that is occurring.
+
+**Scope:** Sessions that include at least one **entity switch** (e.g. scholar-india → STATE Russia) or **mode switch** (e.g. LEARN → STATE). Single-entity, single-mode sessions are out of scope.
+
+| Benchmark | Definition | Measure | Target (suggested) |
+|-----------|------------|---------|--------------------|
+| CONTINUITY_CROSS_REFERENCE_RATE | In multi-entity/multi-mode sessions: count of substantive turns (after first switch) where the system explicitly references or connects to content from a **different** entity or from an **earlier** mode (e.g. "Earlier we…", "In India we had…", "The mechanism-failure pattern from scholar-india…") | Count such references; divide by number of substantive turns after first switch; express per 10 turns | ≥1 cross-reference per 10 turns (i.e. continuity is being used to link prior context to current turn) |
+| CONTINUITY_CONNECTION_DISCOVERIES | In such sessions: count of explicit **connection statements** that link content from two different entities or two different modes (e.g. India MEM ↔ Russia MEM; SCHOLAR ENTRY ↔ STATE material option; pattern transfer or contrast) | Count per session; sum over sessions; report mean per session | ≥1 cross-entity or cross-mode connection per session (when session has ≥1 switch); track mean and trend |
+| CONTINUITY_SPAN | In such sessions: number of distinct **entities** (or **modes**) that appear in any cross-reference or connection statement within the session | Max = entities (or modes) active in session; count how many are explicitly linked in one statement | When session has 2+ entities/modes, CONTINUITY_SPAN ≥ 2 in ≥50% of such sessions (at least one statement spans two entities or modes) |
+
+**Measurement:** Manual audit of session transcript or logged output. Identify: (1) entity/mode switches; (2) turns after first switch; (3) explicit cross-references (to earlier entity/mode); (4) explicit connection statements (linking two entities or two modes). Compute rate and counts per session; aggregate over N sessions.
+
+**Baseline (optional):** Before/after comparison: run the same multi-entity/multi-mode scenario with continuity rule applied vs. with instruction to "re-anchor and do not refer to prior entity/mode"; compare CONTINUITY_CROSS_REFERENCE_RATE and CONTINUITY_CONNECTION_DISCOVERIES. Expect higher values when continuity is retained.
+
+**Metric-gaming risk:** Optimizing for these counts can encourage superficial or forced references that satisfy the metric without adding insight. To mitigate: treat a cross-reference or connection as valid only when it **substantively links** prior context (from another entity or earlier mode) to the current question or analysis—not when it merely names the prior entity or repeats a label. Auditors should flag thin references (e.g. "As we saw in India…" with no analytical carry-forward) as non-counting. The goal is continuity that improves reasoning, not tally-building.
+
+────────────────────────────────────────────────────────────
 VI. MEASUREMENT METHOD AND FREQUENCY
 ────────────────────────────────────────────────────────────
 
@@ -159,6 +179,7 @@ VII. SUMMARY TABLE (QUICK REFERENCE)
 | Voice | Hedging (Mercouris), direct (Mearsheimer), fingerprint (Barnes), 8 slots fixed | 100% per mode |
 | Safeguards | Negative-claim check, gated-spiral note when proposing doctrine change | 100% |
 | Retrieval | MEM–RELEVANCE exists, MEMs listed, doctrine coverage | 100% active civs |
+| Session continuity | Cross-reference rate, connection discoveries, span (multi-entity/multi-mode sessions) | ≥1 cross-ref per 10 turns; ≥1 cross-entity/mode connection per session; span ≥2 in 50% |
 
 ────────────────────────────────────────────────────────────
 END OF REFERENCE

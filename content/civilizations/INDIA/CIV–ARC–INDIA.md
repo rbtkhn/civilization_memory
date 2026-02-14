@@ -1,11 +1,11 @@
-CIV–ARC–INDIA — v3.0
+CIV–ARC–INDIA — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · INDIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: CIV–ARC–INDIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.2
+Supersedes: CIV–ARC–INDIA v3.1
+Upgrade Type: ENGLISH REFERENCE WORKS — ARC-T-MODERN (ENGLISH REFERENCE)
 Civilization: INDIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA
@@ -68,6 +68,26 @@ ARC-T-MODERN:
 • Sunil Khilnani (b. 1960) — The Idea of India; Incarnations
 • Jack Weatherford (b. 1941) — Genghis Khan and the Making of the Modern World (2004); Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface
 
+ARC-T-MODERN (ENGLISH REFERENCE):
+• Encyclopaedia Britannica — India and South Asia entries; comprehensive English reference; editorial/collaborative
+• Cambridge History of India (1922–1937) / The New Cambridge History of India — multi-volume academic reference on Indian history; various editors
+• Encyclopedia of India (Charles Scribner's Sons/Gale, 2006) — 4-volume reference on Indian history, culture, society; Stanley Wolpert, editor-in-chief
+• Vincent Smith (1848–1920) — The Oxford History of India (1919); early modern and Mughal India; later editions by Percival Spear
+• Burton Stein (1926–1996) — A History of India (1998; 2nd ed. with David Arnold); standard textbook; pre-modern and modern India
+• Stanley Wolpert (b. 1927) — A New History of India; Encyclopedia of India (editor); modern India, nationalism, Partition
+• Percival Spear (1911–1982) — Oxford History of India (continuation/editing); Mughal and British India
+
+ARC-T-MODERN (HINDI REFERENCE):
+• Hindi Vishwakosh (हिन्दी विश्वकोश) — multi-volume Hindi encyclopedia; comprehensive reference on India; various editors/editions
+• Bharatkosh (भारतकोश) — Hindi encyclopedia of India; print and digital; India-focused reference
+• Bharatiya Sanskriti Kosh (भारतीय संस्कृति कोश) — Encyclopedia of Indian culture; Hindi reference on Indian civilization
+• Hindi Sahitya Kosh (हिंदी साहित्य कोश) — Encyclopedia of Hindi literature; Hindi literary reference
+
+Publishers of Hindi reference works (when citing editions):
+• Nagari Pracharini Sabha (नागरी प्रचारिणी सभा)
+• Bharatiya Jnanpith (भारतीय ज्ञानपीठ)
+• Rajpal & Sons (राजपाल एंड संस)
+
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 
 ────────────────────────────────────────────────────────────
@@ -116,6 +136,8 @@ v1.0 — Initial establishment (Will Durant in ARC-T-MODERN). February 2026.
 v1.1 — Niall Ferguson added to ARC-T-MODERN (*Empire: How Britain Made the Modern World*; British Empire/India content). February 2026.
 v1.2 — Jack Weatherford added to ARC-T-MODERN (*Genghis Khan and the Making of the Modern World*; Mongol/Timurid/Mughal lineage, Silk Road, India interface). February 2026.
 v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. February 2026.
+v3.1 — Hindi reference works added to ARC-T-MODERN (HINDI REFERENCE): Hindi Vishwakosh, Bharatkosh, Bharatiya Sanskriti Kosh, Hindi Sahitya Kosh; publishers noted. February 2026.
+v3.2 — English reference works added to ARC-T-MODERN (ENGLISH REFERENCE): Encyclopaedia Britannica, Cambridge History of India, Encyclopedia of India (Scribner's); Vincent Smith, Burton Stein, Stanley Wolpert, Percival Spear. February 2026.
 v2.0 — Version milestone; template alignment (V-A, VI Orthogonality, VII What ARC Does Not Govern). February 2026.
 
 ────────────────────────────────────────────────────────────
@@ -212,5 +234,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   Editorial Note: Delhi-based; independent; influential on Indian environmental debate
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–INDIA — v3.0
+END OF FILE — CIV–ARC–INDIA — v3.2
 ────────────────────────────────────────────────────────────
