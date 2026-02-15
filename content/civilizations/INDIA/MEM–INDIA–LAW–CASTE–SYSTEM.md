@@ -1,9 +1,9 @@
-MEM–INDIA–LAW–CASTE–SYSTEM — v1.0
+MEM–INDIA–LAW–CASTE–SYSTEM — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Subject: Caste System — Legal encoding, constraint, and reform across regimes
 Dates: Antiquity–Present
@@ -164,12 +164,20 @@ VIII. MEM CONNECTIONS
   Dalit Buddhism; protest against hierarchy.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप। कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः॥
+• **Transliteration:** brāhmaṇa-kṣatriya-viśāṃ śūdrāṇāṃ ca parantapa | karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ ||
+• **Translation:** The duties of Brahmins, Kshatriyas, Vaishyas, and Shudras, O scorcher of foes, are divided according to the qualities born of their nature (Gita 18.41).
+• **Source:** Bhagavad Gita 18.41 (varna by guṇa/karma); critical edition. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Dirks, Nicholas B. *Castes of Mind: Colonialism and the Making of Modern India*. Princeton: Princeton University Press, 2001.
 • Galanter, Marc. *Competing Equalities: Law and the Backward Classes in India*. Berkeley: University of California Press, 1984.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LAW–CASTE–SYSTEM — v1.0
+END OF FILE — MEM–INDIA–LAW–CASTE–SYSTEM — v1.1
 ────────────────────────────────────────────────────────────

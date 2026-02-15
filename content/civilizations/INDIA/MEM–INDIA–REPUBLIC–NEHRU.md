@@ -1,17 +1,17 @@
-MEM–INDIA–REPUBLIC–NEHRU — v2.2
+MEM–INDIA–REPUBLIC–NEHRU — v2.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 2.2
-Supersedes: v2.1
-Upgrade Type: ALTERNATIVE ENCODINGS — IDEALISM TOWARD CHINA (SCHOLAR LEARN)
+Version: 2.6
+Supersedes: v2.5
+Upgrade Type: I-B indigenous-language quote — "impose liberal democracy… fierce resistance" added (§ VII)
 Civilization: INDIA
 Subject: Jawaharlal Nehru
 Dates: 1889–1964 AD
 Class: MEM (Civilizational Memory)
 ARC Reference: CIV–ARC–INDIA v1.1
 Last Update: February 2026
-Word Count: ~2,500
+Word Count: ~2,650
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -122,6 +122,24 @@ Ferguson frames post-imperial institutional inheritance and procedural continuit
 
 — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) [ARC–INDIA-T-MODERN]. Summary-only note: verify against published edition for verbatim.
 
+**Structural-realist framing of Cold War order (supports § III, § IV.A — refusal of bloc subordination; cost of autonomy).**
+
+ARC–DISCOVERY: EXPANDED SEARCH  
+Source: John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019): 7–50. Author not on ARC–INDIA admissibility list; used with explicit disclosure per CIV–ARC–INDIA § IV.
+
+The Western bounded order that India refused to join is described in structural-realist terms as follows [ERC-SECONDARY]:
+
+> Although the liberal United States dominated this bounded order, which also included a number of other liberal democracies, it was a realist order from top to bottom. Its primary mission was to create a powerful West that could contain and ultimately defeat the Soviet Union and its allies.
+
+> But promoting democracy always yielded when it conflicted with the dictates of balance of power politics. The United States did not preclude non-democracies from joining NATO or throw out countries that abandoned democracy once they joined, as the cases of Greece, Portugal, and Turkey illustrate.
+
+— John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019) [ARC–DISCOVERY]. Passage on Cold War orders, 1945–89.
+
+This framing supports the MEM's encoding that the order India did not align with was security-led and that "refusal of bloc subordination" and "cost of autonomy" (§ IV.A) were choices made in a system where democracy yielded to balance-of-power—not a liberal order India spurned, but a realist one it stayed outside.
+
+**Sovereignty and self-determination (supports § III — refusal of bloc subordination).**  
+On why spreading liberal democracy meets resistance, Mearsheimer writes: "Nationalism, after all, is a remarkably powerful political force that places great emphasis on self-determination and sovereignty. Nation-states, in other words, do not want other nation-states telling them how they should order their political system." (John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 [Spring 2019] [ARC–INDIA-T-MODERN]. Passage "The Perils of Democracy Promotion.") He adds: "Trying to impose liberal democracy on a state that prefers an alternative form of government is almost certain to provoke fierce resistance." India's non-alignment and refusal of bloc subordination (§ III) encode the same claim: we decide how we order our political system; no external authority may impose it.
+
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
@@ -135,11 +153,21 @@ VIII. MEM CONNECTIONS
   civilizational assertion vs secular pluralism; alternative encodings.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** आराम हराम है।
+• **Transliteration:** Ārām harām hai.
+• **Translation:** Rest (ease) is forbidden—Nehru used this to urge industry and self-reliance.
+• **Source:** Jawaharlal Nehru, attested saying / parliamentary and public address; widely cited. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
+• Mearsheimer, John J. "Bound to Fail: The Rise and Fall of the Liberal International Order." *International Security* 43, no. 4 (Spring 2019): 7–50.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–REPUBLIC–NEHRU — v2.2
+END OF FILE — MEM–INDIA–REPUBLIC–NEHRU — v2.6
 ────────────────────────────────────────────────────────────

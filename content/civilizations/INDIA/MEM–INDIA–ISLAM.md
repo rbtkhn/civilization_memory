@@ -1,8 +1,8 @@
-MEM–INDIA–ISLAM — v1.0
+MEM–INDIA–ISLAM — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Supersedes: None (initial)
 Upgrade Type: INITIAL ESTABLISHMENT — INDIA–ISLAM CIVILIZATIONAL INTERFACE
 Civilization: INDIA
@@ -142,7 +142,15 @@ VIII. MEM CONNECTIONS
   India via land and sea.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** हिंदवी में कहूँ बात।
+• **Transliteration:** Hindavī meṃ kahūṃ bāt.
+• **Translation:** I speak in Hindavi (Amir Khusrau on Indian language).
+• **Source:** Amir Khusrau, attributed; Hindavi in Persianate India. [ARC–INDIA-T-MEDIEVAL]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ibn Battuta, Amir Khusrau, Babur (ARC–INDIA-T-MEDIEVAL).
 • MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–DYNASTY–MUGHAL,
@@ -150,5 +158,5 @@ IX. MEM BIBLIOGRAPHY
 • CIV–ARC–TEMPLATE § V-A (cross-ARC citation).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–ISLAM — v1.0
+END OF FILE — MEM–INDIA–ISLAM — v1.1
 ────────────────────────────────────────────────────────────

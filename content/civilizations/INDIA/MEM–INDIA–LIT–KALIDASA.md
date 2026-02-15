@@ -1,9 +1,9 @@
-MEM–INDIA–LIT–KALIDASA — v1.0
+MEM–INDIA–LIT–KALIDASA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: CLASSICAL LITERATURE (काव्य)
 Subject: Kalidasa (कालिदास)
@@ -107,7 +107,15 @@ Classical India and civilizational continuity are attested [ERC-SECONDARY]:
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** न जातु कामः कामानामुपभोगेन शाम्यति।
+• **Transliteration:** na jātu kāmaḥ kāmānām upabhogena śāmyati.
+• **Translation:** Desire is never quelled by the enjoyment of desired objects.
+• **Source:** Kalidasa, Abhijnanashakuntalam (Vikramorvasiya / Kumarasambhava tradition); widely attributed verse. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Kalidasa — Abhijñānaśākuntalam; Meghadūta; Raghuvamśa; Kumarasambhava
 • Romila Thapar — Early India; Shakuntala in epic
@@ -117,5 +125,5 @@ IX. MEM BIBLIOGRAPHY
 • Cambridge History of India — Gupta period; Sanskrit literature
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–KALIDASA v1.0
+END OF FILE — MEM–INDIA–LIT–KALIDASA — v1.1
 ────────────────────────────────────────────────────────────

@@ -67,6 +67,7 @@ ARC-T-MODERN:
 • Ramachandra Guha (b. 1958) — India After Gandhi; Gandhi Before India
 • Sunil Khilnani (b. 1960) — The Idea of India; Incarnations
 • Jack Weatherford (b. 1941) — Genghis Khan and the Making of the Modern World (2004); Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. Applicable to MEMs for structural/power framing and order-type analysis.
 
 ARC-T-MODERN (ENGLISH REFERENCE):
 • Encyclopaedia Britannica — India and South Asia entries; comprehensive English reference; editorial/collaborative

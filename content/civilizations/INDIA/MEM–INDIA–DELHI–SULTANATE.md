@@ -170,7 +170,15 @@ IX. MEM CONNECTIONS
   sustained Islamic sultanate in North India.
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** سلطان ظل الله فی الارض۔
+• **Transliteration:** Sulṭān ẓill Allāh fī al-arḍ.
+• **Translation:** The Sultan is the shadow of God on earth (Delhi Sultanate legitimacy formula).
+• **Source:** Persian / Arabic chronicle (Barani or contemporary); Delhi Sultanate. [ARC–INDIA-T-MEDIEVAL]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ibn Battuta. *Rihla* (travels in India). ARC–INDIA-T-MEDIEVAL.
 • Amir Khusrau. Persian chronicles; Indo-Persian court.

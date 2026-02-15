@@ -1,15 +1,15 @@
-CIV–INDEX–INDIA — v3.2
+CIV–INDEX–INDIA — v3.3
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 3.2
-Supersedes: CIV–INDEX–INDIA v3.1
-Upgrade Type: LITERATURE · V-A LIT section; 9 MEMs (Mahabharata, Ramayana, Kalidasa, Arthashastra, Bhagavad Gita, Sanskrit, Upanishads, Vedas, Tagore)
+Version: 3.3
+Supersedes: CIV–INDEX–INDIA v3.2
+Upgrade Type: AUTHORING · I-B MEM–INDIA indigenous-language quote recommendation (soft)
 Civilization: INDIA
 Class: CIV–INDEX
 Last Update: February 2026
-Total MEM–INDIA files indexed: 61
+Total MEM–INDIA files indexed: 64
 Word Count: ~1,100
 
 Template Alignment: CIV–INDEX–TEMPLATE v3.2 (structural parity)
@@ -43,12 +43,25 @@ Rules:
 • Index records existence, not interpretation
 
 ────────────────────────────────────────────────────────────
+I-B. MEM–INDIA AUTHORING RECOMMENDATION (NON-BINDING)
+────────────────────────────────────────────────────────────
+**Indigenous language quote (soft):** MEM–INDIA files SHOULD, where relevant and where a suitable source exists, include at least one quoted sentence in an Indian language (e.g. Hindi, Tamil, Bengali, Sanskrit) from a source in that language, with transliteration and English translation. This grounds the MEM in the civilisation’s own linguistic record and supports ARC-style source diversity. Not required when no suitable source exists for the topic.
+
+**Optional format** when including such a quote:
+• **Original:** [sentence in script]
+• **Transliteration:** [e.g. IAST for Sanskrit, ISO 15919 or ISO 15919 for Hindi]
+• **Translation:** [English]
+• **Source:** [citation; ARC attribution if applicable]
+
+────────────────────────────────────────────────────────────
 II. DYNASTIES & STATE FORMATION
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–DYNASTY–MAURYA.md
 • MEM–INDIA–DYNASTY–GUPTA.md
 • MEM–INDIA–DELHI–SULTANATE.md
 • MEM–INDIA–DYNASTY–MUGHAL.md
+• MEM–INDIA–MUGHAL–EMPIRE.md
+• MEM–INDIA–DYNASTY–MUGHAL–TAJ–MAHAL.md
 
 ────────────────────────────────────────────────────────────
 III. COLONIAL & IMPERIAL INTERACTION
@@ -74,6 +87,7 @@ IV. KEY CIVILIZATIONAL FIGURES
 • MEM–INDIA–GANDHI.md
 • MEM–INDIA–REPUBLIC–NEHRU.md
 • MEM–INDIA–REPUBLIC–MODI.md
+• MEM–INDIA–REPUBLIC–CONGRESS.md
 
 ────────────────────────────────────────────────────────────
 V. GEOGRAPHY & CIVILIZATIONAL SPACE
@@ -128,13 +142,14 @@ VII. CIVILIZATIONAL INTERFACES
 • MEM–INDIA–BUDDHISM.md
 • MEM–INDIA–PERSIA.md
 • MEM–INDIA–ARABIA.md
+• MEM–INDIA–AFRICA.md
 • MEM–INDIA–ISLAM.md
 • MEM–INDIA–LAW–CASTE–SYSTEM.md
 
 ────────────────────────────────────────────────────────────
 VIII. INDEX COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-Total MEM–INDIA files indexed: 61
+Total MEM–INDIA files indexed: 64
 
 Unindexed files: NONE
 Naming conflicts detected: NONE
@@ -155,6 +170,6 @@ Candidate future MEM domains (not commitments):
 Index does not imply prioritization.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–INDIA — v3.2
+END OF FILE — CIV–INDEX–INDIA — v3.3
 ────────────────────────────────────────────────────────────
 

@@ -1,8 +1,8 @@
-MEM–INDIA–LIT–SANSKRIT — v1.0
+MEM–INDIA–LIT–SANSKRIT — v1.1
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: LANGUAGE & TRANSMISSION (संस्कृत)
 Subject: Sanskrit (language layer—scripture, philosophy, law, kavya)
@@ -116,12 +116,20 @@ Sanskrit as mother of languages and transmission vector [ERC-SECONDARY]:
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।
+• **Transliteration:** yadā yadā hi dharmasya glānir bhavati bhārata.
+• **Translation:** Whenever dharma declines and adharma prevails, O Bharata (Krishna to Arjuna).
+• **Source:** Bhagavad Gita 4.7 (avatāra doctrine); critical edition. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • CIV–ARC–INDIA v3.2 — ARC-T-ANCIENT (Kautilya, Patanjali); ARC-T-MODERN (Durant, Thapar, Keay).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–SANSKRIT — v1.0
+END OF FILE — MEM–INDIA–LIT–SANSKRIT — v1.1
 ────────────────────────────────────────────────────────────

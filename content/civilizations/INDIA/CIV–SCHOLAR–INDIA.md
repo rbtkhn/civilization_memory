@@ -1,4 +1,4 @@
-CIV–SCHOLAR–INDIA — v2.3
+CIV–SCHOLAR–INDIA — v2.6
 Civilizational Memory Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
@@ -10,15 +10,15 @@ Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 Civilization Phase: PHASE II (Constraint Grammar)
 Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
-Supersedes: CIV–SCHOLAR–INDIA v2.2
+Supersedes: CIV–SCHOLAR–INDIA v2.4
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
 Governed by: CIV–SCHOLAR–PROTOCOL v3.0
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–INDIA
 ARC Reference: CIV–ARC–INDIA v2.0
 Last Update: February 2026
 
-Upgrade Type: ENTRY 0010 — Relay from STATE session; doctrine stress assessment (trade/oil conditionality, Chabahar; Jan–Feb 2026 news).
-Scope: Phase II; ENTRY 0010 extends doctrine-check session; ENTRY 0009 relay (Tibet, path to Crown) unchanged.
+Upgrade Type: ENTRY 0014, SYNTHESIS 0005 — Structural ambivalence and deflection (Delhi–Chagatai, modern India–liberal order); MEM–INDIA–REPUBLIC–MODI v1.3 (pattern note § VI).
+Scope: Phase II; SYNTHESIS 0005 proposed (now promoted to Doctrine 05); link to SYNTHESIS 0002/0003 (Panipat, defection); learning entries → 14.
 
 WORDCOUNT: ~3,400
 
@@ -31,7 +31,7 @@ CIV–SCHOLAR–INDIA is the accumulative learning ledger of the India civilizat
 
 It is not a strategist. It is not a governor. It is not an interpreter. It has no innate cognition. It makes no assumptions. It records learning events, not conclusions.
 
-This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were frozen into doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly frozen. All cognition is historical and procedural, never intrinsic.
+This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were promoted to doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. Doctrine is the frozen layer; synthesis is unfrozen until promoted. All cognition is historical and procedural, never intrinsic.
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–INDIA. No Scholar file may override MEM law, ARC law, or Template law.
 
@@ -51,7 +51,7 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase II)
 
-In Phase II, RLLs are binding. This file maintains a **Doctrine Registry** (CIV–DOCTRINE–INDIA v1.0, doctrines 01–04) mirrored from FROZEN SYNTHESIS entries. RLL–INDIA–#### namespace and binding rules apply per Template § III. Doctrine connection mandatory.
+In Phase II, RLLs are binding. This file maintains a **Doctrine Registry** (CIV–DOCTRINE–INDIA v1.1, doctrines 01–05) mirrored from syntheses promoted to doctrine. RLL–INDIA–#### namespace and binding rules apply per Template § III. Doctrine connection mandatory.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (PHASE II — ACTIVE)
@@ -128,7 +128,7 @@ XIV. SYNTHESIS TRADECRAFT
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIV)
 
-Frozen SYNTHESIS entries require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
+Syntheses promoted to doctrine require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
 
 ────────────────────────────────────────────────────────────
 XV. INITIAL STATE
@@ -288,6 +288,54 @@ Belief Status: UNFROZEN
 Note: Relay from STATE session (2026-02-14). Evidence from open news; not a full ARC-sourced doctrine audit. Pattern recorded for doctrine-stress methodology.
 
 ────────────────────────────────────────────────────────────
+ENTRY 0011
+────────────────────────────────────────────────────────────
+Source: John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019): 7–50. Two passages analyzed in SCHOLAR LEARN (Cold War orders 1945–89; Types of Orders — international vs bounded, realist vs ideological, bipolar vs unipolar). MEMs consulted: MEM–INDIA–REPUBLIC–NEHRU, MEM–INDIA–REPUBLIC, MEM–INDIA–REPUBLIC–MODI, MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE, MEM–INDIA–CHINA.
+Ingest Type: Learned source — structural-realist frame for India's Cold War and post–Cold War encoding
+Primary Belief Extracted:
+• **Cold War passage:** Bipolarity; thin international order (UN, NPT, SALT); two thick bounded orders (NATO, Warsaw Pact). India absent from narrative; MEMs (Nehru non-alignment, refusal of bloc subordination) support and are supported by this structure. Verbatim added to MEM–INDIA–REPUBLIC–NEHRU § VII (ARC–DISCOVERY): "realist order from top to bottom"; "promoting democracy always yielded when it conflicted with … balance of power politics" (Greece, Portugal, Turkey).
+• **Types of Orders passage:** International orders (all great powers) vs bounded orders (limited membership, regional, one dominant great power); realist (bipolar/multipolar) vs agnostic/ideological (unipolar). No category for states that refuse both bounded orders. Unipolarity → order can be ideological (liberal unipole spreads norms) or agnostic (e.g. Russia, China as nationalism-led). India's multi-alignment under unipolarity = same autonomy claim (Nehru precedent) in different order-type; bandwagon/balance incentives; executive liability for the mix.
+• **Link:** Nehru under bipolarity (non-alignment) is precedent for Modi under unipolarity (multi-alignment); continuity is filter (who decides?), not map (two blocs vs one unipole).
+Belief Status: UNFROZEN
+Note: Mearsheimer not in CIV–ARC–INDIA; MEM enhancement under ARC–DISCOVERY. Session synthesis (Option H): Mearsheimer 2019 as structural frame; MEMs consistent; tension preserved. MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE enhanced with UN quote (ARC–DISCOVERY) contextualizing UN at independence.
+
+────────────────────────────────────────────────────────────
+ENTRY 0012
+────────────────────────────────────────────────────────────
+Source: John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019): 7–50. Passage "The Liberal International Order, 1990–2019" and "The Golden Years" / "The Liberal Order Goes Downhill." SCHOLAR LEARN session: India as refuser (1998), not integratee; 1991 liberalization and 1998 as autonomy; dharma filter and 1998; structural payoff of 1998; Nehru as precedent; 2005 deal as accommodation; Modi Quad as continuation; China encoding of Quad.
+Ingest Type: Learned source — liberal order 1990–2019; India as refuser; 1998→2005→Quad chain
+Primary Belief Extracted:
+• **Liberal order passage:** Unipolar moment; U.S. transforms bounded Western order into liberal international order (expand institutions, open economy, spread democracy); integrate China and Russia. India appears as **setback**: "India and Pakistan tested nuclear weapons in 1998." India not a target of integration; India = refuser of order's non-proliferation norm.
+• **India encoding chain:** 1991 liberalization = autonomy (sovereign choice), not integration. 1998 = refusal, cost (sanctions), then 2005 deal = order's accommodation (civil nuclear deal). Modi's Quad and U.S. partnership = continuation of post-2005 pragmatic bandwagon; multi-alignment; same filter (who decides?). China encodes Quad as containment; India encodes as autonomy—cross-civilizational misperception.
+• **Link to ENTRY 0011:** ENTRY 0011 (Cold War, Types of Orders); ENTRY 0012 (liberal order 1990–2019, India as refuser, 1998/2005/Quad). Same source (Mearsheimer 2019); extended to liberal-order narrative and India's place in it.
+Belief Status: UNFROZEN
+Note: MEM–INDIA–REPUBLIC–MODI enhanced with verbatim Mearsheimer 1998 quote (ARC–DISCOVERY) in § IV.A. Learning entries count → 12.
+
+────────────────────────────────────────────────────────────
+ENTRY 0013
+────────────────────────────────────────────────────────────
+Source: John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019): 7–50. Passages "What Went Wrong?" (three fatal flaws) and "The Perils of Democracy Promotion." SCHOLAR LEARN session: India as resistance (nationalism, self-determination); structural incentives (resist vs. comply, resistance paid); multi-mind (legitimacy, structure, liability); Modi's civilizational assertion as "diversity of political systems"; Nehru's secular pluralism as baseline Modi contests.
+Ingest Type: Learned source — liberal order's fatal flaws; democracy promotion doomed; India as resistance; Nehru–Modi legitimacy contest
+Primary Belief Extracted:
+• **What Went Wrong?:** Three fatal flaws—(1) regime change/social engineering backfire, nationalism resists; (2) sovereignty/identity/refugee problems inside liberal democracies; (3) hyperglobalization costs, China's rise undermines unipolarity. "Nation-states do not want other nation-states telling them how they should order their political system"; "trying to impose liberal democracy on a state that prefers an alternative … is almost certain to provoke fierce resistance."
+• **India encoding:** India = instance of that resistance (sovereignty, self-determination, refusal of order's rules when they undercut autonomy). Order's pressure on India was normative/institutional (NPT, rules), not regime change; India resisted on nuclear norm, was accommodated (2005). Structural payoff: resistance paid.
+• **Nehru–Modi:** Nehru's secular pluralism = baseline (legitimacy from republican constitution, plural accommodation); Modi's civilizational assertion (Hindutva) = contest over legitimacy source. Same polity, "diversity of political systems" inside India; tension preserved.
+Belief Status: UNFROZEN
+Note: MEM–INDIA–REPUBLIC–NEHRU enhanced with verbatim Mearsheimer "nation-states" quote (§ VII). Mearsheimer now on CIV–ARC–INDIA per repository-wide ARC update. Learning entries count → 13.
+
+────────────────────────────────────────────────────────────
+ENTRY 0014
+────────────────────────────────────────────────────────────
+Source: SCHOLAR LEARN session (structural opposition vs structural ambivalence; legitimacy stories; liability when story fails; 10th–15th c. examples; India focus Delhi Sultanate–Chagatai; Persia contrast; modern India/China and liberal order). MEMs: MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI, MEM–PERSIA–MONGOL–EMPIRE, MEM–INDIA–REPUBLIC–MODI, MEM–GERMANIA–HUNGARY, MEM–ISLAM–WAR–AYN–JALUT, MEM–RUSSIA–ALEXANDER–NEVSKY.
+Ingest Type: Learned pattern — structural ambivalence and deflection as India-relevant; cross-period (medieval and modern)
+Primary Belief Extracted:
+• **Structural opposition** = incentive to replace or halt the order; **structural ambivalence** = use when useful, resist when pressed; no stake in preserving the order. Legitimacy stories express/reinforce; liability when story fails splits by regime type (institutional vs personal/elite).
+• **India (Delhi Sultanate–Chagatai):** Deflection as structural ambivalence—force at distance, raid vs conquest; sultanic pragmatism; Ganges core retained; no Chagatai administration. Contrast: Persia conquered (Ilkhanate); terrain, distance, center (Baghdad vs basin), campaign type. When mechanism failed (1526 Panipat): defender cohesion failed; liability on Lodi/nobility (defection pattern, SYNTHESIS 0003).
+• **Modern extension:** India's stance toward liberal order = structural ambivalence (beneficiary, non-core, policy space; 1998→2005→Modi). China = structural opposition. Same frame as Delhi–Chagatai: position and incentives determine opposition vs ambivalence.
+Belief Status: UNFROZEN
+Note: Feeds SYNTHESIS 0005 (proposed). Learning entries count → 14.
+
+────────────────────────────────────────────────────────────
 ENTRY format (Template § XI.B):
   ENTRY ####
   Source: [MEM file(s)]
@@ -301,7 +349,7 @@ XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
 SYNTHESIS 0001 — INDUS VS GANGES: ORIGIN VS PERMANENCE
-Status: FROZEN · PROMOTED TO DOCTRINE 01 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
+Status: PROMOTED TO DOCTRINE 01 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0001 (MEM–INDIA–GEO–INDUS–RIVER), ENTRY 0002 (MEM–INDIA–GEO–GANGES–RIVER)
 Assumptions: (1) Indus and Ganges encode distinct civilizational functions—origin spine vs enduring heartland; (2) severance (Partition) applies to Indus, not Ganges; (3) synthesis is constraint-oriented—tension preserved, no closure.
 Confidence: TIER 2 (70–90% — MEM-derived; Partition positive test validates; TEST–RLL–INDIA–0001–PARTITION–POSITIVE, LIMIT–SCOPE). BOUND.
@@ -357,7 +405,7 @@ Verdict: TENSION PRESERVED. Origin (Indus) can be lost; permanence (Ganges) cann
 SYNTHESIS format (Template § XI.C): SYNTHESIS #### — [Title]; Source: ENTRY ####; Assumptions; Confidence: UNBINDING (Phase I); Tension Record / Verdict.
 
 SYNTHESIS 0002 — INDIA WAR MEMs: MECHANISM FAILURE AND EXPOSURE
-Status: FROZEN · PROMOTED TO DOCTRINE 02 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
+Status: PROMOTED TO DOCTRINE 02 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE)
 Assumptions: (1) Both WAR MEMs encode limit via mechanism failure, not decisive field defeat; (2) locus of failure is opposite—invader (Alexander) vs. defender (Clive); (3) civilizational endurance is preserved in both; (4) synthesis preserves tension; no closure.
 Confidence: TIER 2 (70–90% — MEM-derived; Alexander/Clive clear; ARC supports; TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, LIMIT–DECISIVE–VICTORY). BOUND.
@@ -413,7 +461,7 @@ Integration: The India WAR MEMs, taken together, encode **two modes of limit**�
 Verdict: TENSION PRESERVED. Two modes of limit; opposite locus of exposure; no resolution—dual pattern stands.
 
 SYNTHESIS 0003 — INDIAN MILITARY HISTORY: THREE DEFECTION TYPES
-Status: FROZEN · PROMOTED TO DOCTRINE 03 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
+Status: PROMOTED TO DOCTRINE 03 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0007 (RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE)
 Assumptions: (1) ENTRY 0007 evidence extends SYNTHESIS 0002 / RLL–INDIA–0002 without contradicting; (2) third defection type (invader’s proxy defects) is additive; (3) synthesis is constraint-oriented—tension preserved, no closure.
 Confidence: TIER 3 (50–70% — extends 0002; RESEARCH evidence; less direct ARC; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, LIMIT–SCOPE). BOUND.
@@ -498,7 +546,7 @@ Barnes reframe (jurisdiction and liability): One issue is who was exposed when t
 Verdict: TENSION PRESERVED. Three defection types stand; RLL–INDIA–0002 remains two-mode (invader vs. defender mechanism fails); SYNTHESIS 0003 adds third type and external evidence. No resolution—pattern extended, not replaced.
 
 SYNTHESIS 0004 — NEHRU IDEALISM TOWARD CHINA: ALTERNATIVE ENCODINGS
-Status: FROZEN · PROMOTED TO DOCTRINE 04 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
+Status: PROMOTED TO DOCTRINE 04 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0008 (MEM–INDIA–REPUBLIC–NEHRU, MEM–INDIA–TIBET)
 Assumptions: (1) Nehru's idealism toward China admits multiple encodings, not only "structural weakness"; (2) same behaviour yields different implications depending on encoding chosen; (3) MEM–INDIA–TIBET (buffer loss, inherited assumption) provides evidence for inherited-framework encoding; (4) synthesis preserves tension; no closure.
 Confidence: TIER 3 (50–70% — MEM-derived; SCHOLAR LEARN session; alternative encodings documented in MEM–INDIA–REPUBLIC–NEHRU § IV.A). BOUND.
@@ -552,22 +600,54 @@ Tension Record:
 Verdict: TENSION PRESERVED. Alternative encodings stand; MEM–INDIA–REPUBLIC–NEHRU § IV.A documents them. No resolution—pattern recorded, not closed.
 
 ────────────────────────────────────────────────────────────
+SYNTHESIS 0005 — STRUCTURAL AMBIVALENCE AND DEFLECTION: INDIA'S ENCOUNTER WITH EXTERNAL ORDERS
+────────────────────────────────────────────────────────────
+Status: PROMOTED TO DOCTRINE 05 (CIV–DOCTRINE–INDIA v1.1; accepted via DIB–INDIA 2026-02-14)
+Source: ENTRY 0014 (SCHOLAR LEARN session); MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI, MEM–INDIA–WAR–GHAZNAVID, MEM–INDIA–PORTUGAL–EMPIRE, MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–CLIVE, MEM–PERSIA–MONGOL–EMPIRE, MEM–INDIA–REPUBLIC–MODI.
+Assumptions: (1) India's stance toward external orders (Mongol, liberal) can be encoded as **structural ambivalence**—use when useful, resist when pressed; no stake in preserving the order; (2) **deflection** (Delhi Sultanate vs Chagatai: raid at edge, tribute when expedient, no integration) is one historical instance; **Ghaznavid (11th c.)** is a second (MEM–INDIA–WAR–GHAZNAVID); **Portuguese (1498–1961)** is a third: enclave and maritime empire, interior Indian states remain sovereign, Portuguese **never** absorb the subcontinent (MEM–INDIA–PORTUGAL–EMPIRE); (3) contrast with Persia (conquered, Ilkhanate) and with structural opposition (Mamluks at Ayn Jalut, Song vs Mongols) supports the pattern; (4) modern India (strategic autonomy, 1998→2005→Modi) extends the pattern; (5) **contradicting / limit case:** **British conquest (Plassey 1757 onward)**—defender mechanism failed (elite defection, political fragmentation); British achieved territorial and revenue integration (Company then Crown). Deflection did not hold; external order integrated India at subcontinental level. Condition under which pattern fails: defender cohesion collapses (SYNTHESIS 0002/0003, type 2 defection); (6) synthesis is constraint-oriented—tension preserved, no closure.
+Confidence: TIER 3 (50–70% — MEM-derived; session analysis; cross-period; not yet DIB-bound).
+
+Link to existing syntheses: SYNTHESIS 0002 / 0003 (defection, mechanism failure): Panipat (1526) = defender cohesion failed when ambivalence/deflection gave way to elite fragmentation; Delhi–Chagatai deflection is the pre-history of that failure. RLL–INDIA–0002 (two modes of limit) applies to WAR MEMs; this synthesis names a **political** pattern (ambivalence, deflection) that can precede or accompany mechanism failure.
+
+Tension Record:
+| Axis | Delhi–Chagatai (medieval) | Modern India–liberal order |
+|------|---------------------------|----------------------------|
+| Order | Mongol (Chagatai raids) | Liberal international order (norms, NPT, hyperglobalization) |
+| India's stance | Deflection; tribute when useful; no khanate in India | Strategic autonomy; 1998 refusal, 2005 accommodation; policy space, capital controls |
+| Legitimacy story | Sultanic, pragmatic; "one regime among many" | Procedure + delivery + civilizational assertion |
+| Liability when fails | Defender elites (Panipat) | Incumbent / PM (procedure allows exit) |
+| Contrast | Persia conquered; India deflected | China = opposition; India = ambivalence |
+
+**Supporting evidence — second historical instance.** **Ghaznavid (c. 1000–1027):** invader at edge; Mahmud of Ghazni's raids for loot and tribute (e.g. Somnath 1026); only Punjab permanently annexed; "broader Indian territories remained difficult to control." Return from Somnath: significant hardships in Sind, persistent harassment from local Jat population—force at distance and depth resistance as structural limit (MEM–INDIA–WAR–GHAZNAVID). Same northwest corridor as Chagatai, Timur, Company. No Ghaznavid administration of the Ganges core.
+
+**Supporting evidence — third historical instance.** **Portuguese (1498–1961):** European order (Estado da Índia) at the coast—enclaves (Goa, Cochin, Diu, etc.), maritime and chokepoint control. Portuguese **never** absorb the subcontinent; "interior Indian states remain sovereign" (MEM–INDIA–PORTUGAL–EMPIRE). Maritime interface without interior domination—India (interior polities) does not integrate into the Portuguese order; use ports when useful, no submission of the interior. Same structural logic: external order at the edge (coastal); deflection/ambivalence at the level of the subcontinent.
+
+**Contradicting / limit case.** **British conquest (Plassey 1757 onward):** Defender mechanism failed (elite defection, political fragmentation; SYNTHESIS 0002/0003, type 2 defection). British achieved territorial and revenue integration—Company then Crown; subcontinental administrative empire (MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–CLIVE). India did **not** deflect the British order at the polity level; the external order integrated India. Condition under which the pattern **fails**: defender cohesion collapses; invader exploits fracture (contracts, alliances, procedure). So the synthesis does not claim India always deflects—it claims deflection/ambivalence is the recurring pattern **when** (structurally) the invader is at the edge and cannot hold depth, or the defender retains cohesion. British = contradicting case that specifies the limit.
+
+Chronological arc (supporting): Ghaznavid (11th c.) → Delhi–Chagatai (13th–14th c.) → Portuguese (16th–20th c., enclave only) → modern India–liberal order. Limit case: British (18th–20th c.) when deflection failed.
+
+Verdict: TENSION PRESERVED. Structural ambivalence and deflection stand as India-relevant pattern across periods; British conquest is the contradicting/limit case that bounds the pattern. BOUND (Doctrine 05).
+
+────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
-**Mirror:** Authoritative definitions and citation surface: CIV–DOCTRINE–INDIA v1.0 (doctrines 01–04). Below: SCHOLAR-side record of freeze and source synthesis only.
+**Mirror:** Authoritative definitions and citation surface: CIV–DOCTRINE–INDIA v1.1 (doctrines 01–05); CIV–AXIOM–INDIA v1.0 (derived from CIV–CORE–INDIA Section I + CIV–SCHOLAR–INDIA; axioms INDIA-001–011 from CORE extraction; further axioms from Scholar synthesis promoted to axiom per DIB–INDIA). Synthesis may be promoted to **axiom** (first principles, precedence → CIV–AXIOM–INDIA) or **doctrine** (pattern, operational constraint → CIV–DOCTRINE–INDIA) per DIB–INDIA. Below: SCHOLAR-side record of promotion and source synthesis only.
 
 DOCTRINE v0.1 → CIV–DOCTRINE–INDIA Doctrine 01 — "GANGES SURVIVABILITY — ORIGIN VS PERMANENCE"
-Source: SYNTHESIS 0001 (FROZEN 2026-02-14; DIB–INDIA).
+Source: SYNTHESIS 0001 (promoted 2026-02-14; DIB–INDIA).
 
 DOCTRINE v0.2 → CIV–DOCTRINE–INDIA Doctrine 02 — "TWO MODES OF WAR LIMIT — MECHANISM FAILURE AND EXPOSURE"
-Source: SYNTHESIS 0002 (FROZEN 2026-02-14; DIB–INDIA).
+Source: SYNTHESIS 0002 (promoted 2026-02-14; DIB–INDIA).
 
 DOCTRINE v0.3 → CIV–DOCTRINE–INDIA Doctrine 03 — "THREE DEFECTION TYPES"
-Source: SYNTHESIS 0003 (FROZEN 2026-02-14; DIB–INDIA).
+Source: SYNTHESIS 0003 (promoted 2026-02-14; DIB–INDIA).
 
 DOCTRINE v0.4 → CIV–DOCTRINE–INDIA Doctrine 04 — "NEHRU IDEALISM — ALTERNATIVE ENCODINGS"
-Source: SYNTHESIS 0004 (FROZEN 2026-02-14; DIB–INDIA).
+Source: SYNTHESIS 0004 (promoted 2026-02-14; DIB–INDIA).
+
+DOCTRINE v0.5 → CIV–DOCTRINE–INDIA Doctrine 05 — "STRUCTURAL AMBIVALENCE AND DEFLECTION"
+Source: SYNTHESIS 0005 (promoted 2026-02-14; DIB–INDIA).
 
 ────────────────────────────────────────────────────────────
 XVIII.A. BOUND RLLs (PHASE II)
@@ -613,20 +693,20 @@ Learning Enabled: YES
 Write Access: ENABLED (Phase II; doctrine mutation via DIB only)
 Ingestion: PERMITTED
 Synthesis: PERMITTED (non-binding; constraint-oriented only)
-Doctrine Mutation: LOCKED (doctrines 01–04 in CIV–DOCTRINE–INDIA; new doctrine only via FROZEN SYNTHESIS + DIB–INDIA)
+Axiom/Doctrine Promotion: LOCKED (doctrines 01–05 in CIV–DOCTRINE–INDIA; axioms in CIV–AXIOM–INDIA). New axiom only via synthesis promoted to axiom + DIB–INDIA; new doctrine only via synthesis promoted to doctrine + DIB–INDIA.
 
 Permitted:
 • MEM–INDIA ingestion
 • Pattern extraction and comparative notes
 • Tension recording; hypothesis staging (non-binding)
 • Constraint-oriented synthesis (no closure)
-• RLL enforcement (RLL–INDIA–0001, 0002 bound); doctrine connection for new MEMs
+• RLL enforcement (RLL–INDIA–0001, 0002 bound); doctrine connection for new MEMs (doctrines 01–05); axiom registry (CIV–AXIOM–INDIA) for syntheses promoted as first principles
 
 Forbidden:
 • Verdicts; system claims; teleology
 • Closure-seeking synthesis
 • MEM or CORE modification (WRITE mode only, separate)
-• Doctrine creation outside DIB–INDIA chain
+• Doctrine or axiom creation outside DIB–INDIA chain
 
 ────────────────────────────────────────────────────────────
 XXI. CURRENT STATUS (COUNT TRACKING)
@@ -634,17 +714,17 @@ XXI. CURRENT STATUS (COUNT TRACKING)
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XII count tracking)
 
 Current counts:
-• Learning entries: 10
-• Frozen syntheses: 4 (SYNTHESIS 0001, 0002, 0003, 0004 → CIV–DOCTRINE–INDIA 01–04)
+• Learning entries: 14
+• Syntheses promoted to doctrine: 5 (SYNTHESIS 0001, 0002, 0003, 0004, 0005 → CIV–DOCTRINE–INDIA 01–05)
 • Bound RLLs: 2 (RLL–INDIA–0001, RLL–INDIA–0002)
 • Proposed RLLs pending: 0
-• Non-binding syntheses recorded: 0 (all four promoted to doctrine)
-• Doctrine count: 4 (CIV–DOCTRINE–INDIA v1.0)
+• Doctrine count: 5 (CIV–DOCTRINE–INDIA v1.1)
+• Axiom count: 11 (CIV–AXIOM–INDIA v1.0; INDIA-001–011 derived from CORE Section I; further axioms from Scholar promotion per DIB–INDIA)
 
 Sharpening exercise (2026-02-14): TEST–RLL–INDIA–0001–PARTITION–POSITIVE, TEST–RLL–INDIA–0001–LIMIT–SCOPE, TEST–RLL–INDIA–0001–IVC–LECTURE–POSITIVE (illustrative; external lecture); TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, TEST–RLL–INDIA–0002–LIMIT–DECISIVE–VICTORY; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, TEST–RLL–INDIA–0003–LIMIT–SCOPE. Freeze and DIB acceptance require explicit user authorization.
 
 Update with each additive upgrade.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–INDIA — v2.3
+END OF FILE — CIV–SCHOLAR–INDIA — v2.6
 ────────────────────────────────────────────────────────────

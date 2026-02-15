@@ -1,9 +1,9 @@
-MEM–INDIA–PUNJAB — v1.0
+MEM–INDIA–PUNJAB — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Subject: Punjab — Five rivers, northwest, and Partition fracture
 Dates: Antiquity–Present
@@ -118,12 +118,20 @@ VII. MEM CONNECTIONS
   corridor.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** ਅੱਜ ਆਖਾਂ ਵਾਰਿਸ ਸ਼ਾਹ ਨੂੰ, ਕਿਥੋਂ ਵਬਰੇ ਓ ਯਾਰ।
+• **Transliteration:** Ajj ākhāṃ Vāris Shāh nū, kithōṃ vabre o yār.
+• **Translation:** Today I call to Waris Shah, where are you, O friend? (Amrita Pritam, Partition poem).
+• **Source:** Amrita Pritam, "Ajj akhaan Waris Shah nu" (1948); Punjabi (Gurmukhi). [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Talbot, Ian. *Divided Cities: Partition and Its Aftermath in Lahore and Amritsar*. Karachi: Oxford University Press, 2006.
 • Zamindar, Vazira Fazila-Yacoobali. *The Long Partition and the Making of Modern South Asia*. New York: Columbia University Press, 2007.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–PUNJAB — v1.0
+END OF FILE — MEM–INDIA–PUNJAB — v1.1
 ────────────────────────────────────────────────────────────

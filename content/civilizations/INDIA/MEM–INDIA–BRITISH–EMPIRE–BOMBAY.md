@@ -109,6 +109,7 @@ VII. MEM CONNECTIONS
 • MEM–INDIA–GEO–GANGES–RIVER — Calcutta on Ganges delta; Bombay outside Ganges heartland.
 • MEM–INDIA–BRITISH–EMPIRE–CEYLON — Southern maritime outpost; Ceylon Crown Colony; separate from Bombay Presidency.
 • MEM–INDIA–PARTITION — Sind severed to Pakistan; Bombay Presidency geography altered.
+• MEM–INDIA–AFRICA — Bombay as port of embarkation for Gulf and East Africa; colonial labour corridor.
 
 ────────────────────────────────────────────────────────────
 VIII. MEM BIBLIOGRAPHY

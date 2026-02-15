@@ -101,6 +101,10 @@ VIII. MEM CONNECTIONS
 • MEM–INDIA–ISLAM — India–Islam interface; Mughal absorbed as Indian; plural empire without civilizational rupture.
 • MEM–INDIA–PERSIA — Persianate–Indic synthesis; Mughal absorption
   of Persianate court culture.
+• MEM–INDIA–MUGHAL–EMPIRE — Empire as territorial/administrative unit;
+  extent, revenue, succession; same period, state-level lens.
+• MEM–INDIA–DYNASTY–MUGHAL–TAJ–MAHAL — Symbolic apex; Shah Jahan;
+  legitimacy through commemoration.
 
 ────────────────────────────────────────────────────────────
 IX. EVIDENCE — ARC-T-MODERN (VERBATIM)
@@ -116,7 +120,15 @@ Akbar, Mughal palaces, and the civilizational level destroyed by British conques
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** سلطنت بر عدل قائم است۔
+• **Transliteration:** Saltanat bar ʿadl qāʾim ast.
+• **Translation:** Kingship stands on justice (Persian court maxim; Mughal context).
+• **Source:** Persian court chronicle / Abul Fazl, Akbarnama tradition; Mughal India. [ARC–INDIA-T-MEDIEVAL]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.

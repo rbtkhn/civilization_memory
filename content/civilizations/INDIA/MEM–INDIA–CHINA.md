@@ -1,9 +1,11 @@
-MEM–INDIA–CHINA — v1.0
+MEM–INDIA–CHINA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Supersedes: v1.0
+Upgrade Type: MEARSHEIMER 2019 — structural context (China's rise, liberal order, unipolarity) § IV
 Civilization: INDIA
 Subject: China — Northern neighbour; Tibet buffer lost; territorial dispute; civilizational interface
 Dates: Antiquity–Present
@@ -85,6 +87,9 @@ encoding India keeps—"don't be idealistic" vs "don't defer without
 building capacity" vs "autonomy has a price"—shapes what it learns
 (MEM–INDIA–REPUBLIC–NEHRU § IV.A).
 
+**Structural context — liberal order and China's rise.**  
+Mearsheimer frames the post–Cold War order's decline in part around China: the liberal order sought to integrate China and spread liberal institutions; China's rise has undermined the unipolar moment and contributed to the return of great-power competition. (John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 [Spring 2019].) For India, the same order that pressed India (norms, NPT) also tried to integrate China; China's rise and India's refusal both sit inside that structural story—India's "neighbour, not ally" and Quad choices are made in a system where unipolarity has given way to competition.
+
 ────────────────────────────────────────────────────────────
 V. CIVILIZATIONAL ENCODING
 ────────────────────────────────────────────────────────────
@@ -154,8 +159,9 @@ IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Maxwell, Neville. *India's China War*. New York: Pantheon, 1970.
 • Garver, John W. *Protracted Contest: Sino-Indian Rivalry in the Twentieth Century*. Seattle: University of Washington Press, 2001.
+• Mearsheimer, John J. "Bound to Fail: The Rise and Fall of the Liberal International Order." *International Security* 43, no. 4 (Spring 2019): 7–50.
 • CIV–ARC–INDIA; CIV–SCHOLAR–INDIA SYNTHESIS 0004.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–CHINA — v1.0
+END OF FILE — MEM–INDIA–CHINA — v1.1
 ────────────────────────────────────────────────────────────

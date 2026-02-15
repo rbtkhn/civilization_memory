@@ -117,7 +117,15 @@ VII. MEM CONNECTIONS
   complementary nodes.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** दिल्ली अभी दूर है।
+• **Transliteration:** Dillī abhī dūr hai.
+• **Translation:** Delhi is still far (proverb: the goal is distant; persistence required).
+• **Source:** Attested Hindi proverb / saying. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Irving, Robert Grant. *Indian Summer: Lutyens, Baker, and Imperial Delhi*. New Haven: Yale University Press, 1981.
 • Spear, Percival. *Twilight of the Mughuls*. Cambridge: Cambridge University Press, 1951.

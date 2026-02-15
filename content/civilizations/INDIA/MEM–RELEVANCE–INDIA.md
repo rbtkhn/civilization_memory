@@ -54,6 +54,9 @@ Primary MEMs:
 • MEM–INDIA–REPUBLIC — Constitutional continuity; administrative spine
   retained; procedure as survival; Dominion→Republic transition
   [concepts: institutional_continuity, procedure_as_legitimacy]
+• MEM–INDIA–REPUBLIC–CONGRESS — Anti-colonial vehicle; dominant-party
+  legitimacy; Congress as legitimacy channel; decline and alternation
+  [concepts: legitimacy_channel, one_party_dominance, procedure_permits_alternation]
 • MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — Transfer of power; sovereignty
   acquired; Dominion; same moment as Partition, different encoding
   [concepts: sovereignty_transfer, negotiated_independence]
@@ -228,6 +231,8 @@ Primary MEMs:
   satrapy; Persianate Mughal synthesis
 • MEM–INDIA–ARABIA — Western maritime interface; Islamic origin;
   Indian Ocean trade; Red Sea, Persian Gulf
+• MEM–INDIA–AFRICA — Indian Ocean interface; East Africa trade,
+  indentured corridor, diaspora; Gulf–East Africa sea lines; south-south
 • MEM–INDIA–ISLAM — Civilizational interface; Indo-Islamic synthesis;
   pluralism and contestation
 • MEM–INDIA–LAW–CASTE–SYSTEM — Caste encoded through law; colonial

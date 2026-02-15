@@ -1,9 +1,9 @@
-MEM–INDIA–LIT–ARTHASHASTRA — v1.0
+MEM–INDIA–LIT–ARTHASHASTRA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: STRATEGIC–ADMINISTRATIVE LITERATURE (राजनीति)
 Subject: Arthashastra (अर्थशास्त्र)
@@ -128,7 +128,15 @@ Mauryan governance and Kautilyan realism are attested [ERC-SECONDARY]:
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN]. Ashoka overlays dharmic restraint on Mauryan structure; Arthashastra core persists.
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** प्रजासुखे सुखं राज्ञः प्रजानां च हिते हितम्।
+• **Transliteration:** prajāsukhe sukhaṃ rājñaḥ prajānāṃ ca hite hitam.
+• **Translation:** In the happiness of the subjects lies the happiness of the king; in their welfare, his welfare.
+• **Source:** Kautilya, Arthashastra 1.19.34 (R.P. Kangle ed.). [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Kautilya (attrib.) — Arthashastra (R.P. Kangle ed.)
 • R.P. Kangle — The Kautiliya Arthasastra (trans. and study)
@@ -138,5 +146,5 @@ X. MEM BIBLIOGRAPHY
 • Encyclopaedia Britannica — India; Arthashastra; Kautilya
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–ARTHASHASTRA v1.0
+END OF FILE — MEM–INDIA–LIT–ARTHASHASTRA — v1.1
 ────────────────────────────────────────────────────────────

@@ -289,10 +289,7 @@ Structural & Political History:
 • Niall Ferguson (b. 1964) — *The War of the World*, *Civilization: The West and the Rest*, *Empire*; admissible for comparative empire and twentieth-century conflict framing, Russia/USSR in descent-of-the-West narrative, and structural civilizational contrast. May supplement but not substitute for Russian-primary or specialist Russian-historical scholarship.
 
 Strategic & Geographic Analysis (structural framing):
-• John Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*;
-  admissible for GEO–MEM strategic cognition, power distribution,
-  and structural constraint framing. External IR framing only;
-  may not substitute for Russian-historical primary scholarship.
+• John J. Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*; "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); admissible for GEO–MEM strategic cognition, power distribution, international orders (Cold War, liberal order 1990–2019), and structural constraint framing. External IR framing only; may not substitute for Russian-historical primary scholarship.
 • Glenn Diesen (b. 1978) — *Russia's Geoeconomic Strategy for a
   Greater Eurasia*, *The Ukraine Crisis and the Restructuring of
   the West*; admissible for geoeconomic framing, Eurasian integration,

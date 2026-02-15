@@ -15,7 +15,8 @@ Governed by: CIV–MEM–CORE v3.3
 • CIV–INDEX–INDIA v3.2 (MEM scope: 51 files)
 ARC Reference: CIV–ARC–INDIA v3.2
 MEM–RELEVANCE–INDIA v1.0 (STATE dimension-to-MEM index; active when CIV–STATE–INDIA created)
-Doctrine Reference: CIV–DOCTRINE–INDIA v1.0 (doctrines 01–04; mirror binding when cited). 01: Ganges Survivability — Origin vs Permanence; 02: Two Modes of WAR Limit; 03: Three Defection Types; 04: Nehru Idealism — Alternative Encodings. See CIV–DOCTRINE–INDIA.
+Doctrine Reference: CIV–DOCTRINE–INDIA v1.1 (doctrines 01–05). See CIV–DOCTRINE–INDIA.
+Axiom Reference: CIV–AXIOM–INDIA v1.0 (axioms INDIA-001–011 derived from this file Section I; registry and citation surface). See CIV–AXIOM–INDIA.
 Last Update: February 2026
 WORDCOUNT: ~2,600
 

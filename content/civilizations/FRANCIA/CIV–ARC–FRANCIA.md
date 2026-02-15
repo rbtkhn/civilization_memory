@@ -304,6 +304,7 @@ ARC-T-MODERN:
 • Robert Gildea (b. 1952) — The Past in French History
   TOPICAL SCOPE:
   - French historical memory, uses of the past
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
 • Dominic Lieven (b. 1952) — Russia Against Napoleon
   TOPICAL SCOPE:
   - 1812 campaign from Russian perspective, Napoleonic defeat

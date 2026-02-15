@@ -1,9 +1,9 @@
-MEM–INDIA–LIT–RAMAYANA — v1.0
+MEM–INDIA–LIT–RAMAYANA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: EPIC LITERATURE
 Subject: Ramayana (Valmiki)
@@ -106,7 +106,15 @@ Epic tradition and civilizational continuity are attested [ERC-SECONDARY]:
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः।
+• **Transliteration:** mā niṣāda pratīṣṭhāṃ tvam agamaḥ śāśvatīḥ samāḥ.
+• **Translation:** O fowler, you shall not obtain lasting renown for endless years (Valmiki's first śloka, born from grief at the krauñca).
+• **Source:** Valmiki Ramayana 1.2.14 (first verse); critical edition. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Valmiki (attrib.) — Ramayana (critical ed.)
 • Robert P. Goldman (trans.) — Ramayana of Valmiki (Princeton)
@@ -116,5 +124,5 @@ IX. MEM BIBLIOGRAPHY
 • Encyclopaedia Britannica — India; Ramayana
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–RAMAYANA v1.0
+END OF FILE — MEM–INDIA–LIT–RAMAYANA — v1.1
 ────────────────────────────────────────────────────────────

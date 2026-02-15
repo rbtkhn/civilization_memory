@@ -79,6 +79,7 @@ ARC-T-MODERN:
 • Jonathan Phillips (b. 1961) — The Life and Legend of the Sultan Saladin (2019); Crusades scholarship, Saladin reception, paradox of Western admiration
 • Henry Kissinger (b. 1923) — World Order (2014); Islamic world order, Westphalian contrast, Ottoman–Europe interface; civilization-contrast for world-order MEMs
 • Jack Weatherford (b. 1946) — Genghis Khan and the Making of the Modern World (2004); "Restoring Order: Conquering Iraq in the 13th and 21st Centuries," Asia-Pacific Journal (2007); Mongol–Islam encounter, Baghdad 1258, Ilkhanate, conversion; MEM–ISLAM–MONGOL–EMPIRE and related MEMs
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 

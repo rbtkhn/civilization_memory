@@ -1,9 +1,9 @@
-MEM–INDIA–BANGLADESH — v1.0
+MEM–INDIA–BANGLADESH — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Subject: Bangladesh — East Bengal sovereign; 1971 emergence; cultural continuity, political separation
 Dates: 1947–Present (East Pakistan 1947–1971; Bangladesh 1971–)
@@ -119,12 +119,20 @@ VI. MEM CONNECTIONS
   Calcutta and Dhaka as delta capitals.
 
 ────────────────────────────────────────────────────────────
-VII. MEM BIBLIOGRAPHY
+VII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** আমার সোনার বাংলা, আমি তোমায় ভালোবাসি।
+• **Transliteration:** Amār sonār Bāṃlā, āmi tomāy bhālobāsi.
+• **Translation:** My golden Bengal, I love you (national anthem of Bangladesh).
+• **Source:** Rabindranath Tagore, "Amar Shonar Bangla" (1905); adopted Bangladesh national anthem 1971. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Schendel, Willem van. *A History of Bangladesh*. Cambridge: Cambridge University Press, 2009.
 • Sisson, Richard, and Leo E. Rose. *War and Secession: Pakistan, India, and the Creation of Bangladesh*. Berkeley: University of California Press, 1990.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–BANGLADESH — v1.0
+END OF FILE — MEM–INDIA–BANGLADESH — v1.1
 ────────────────────────────────────────────────────────────

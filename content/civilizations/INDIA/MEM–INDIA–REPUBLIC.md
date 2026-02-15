@@ -1,9 +1,11 @@
-MEM–INDIA–REPUBLIC — v1.0
+MEM–INDIA–REPUBLIC — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
+Supersedes: v1.0
+Upgrade Type: MEARSHEIMER 2019 VERBATIM — nation-states quote (§ IV); sovereignty over political order
 Civilization: INDIA
 Subject: Republic of India — constitutional continuity and institutional framework
 Dates: 1950–present (Constitution; republican era)
@@ -76,6 +78,9 @@ For India, the Republic encodes:
 • Strategic patience — "Right to decide later" embedded
   in institutions; delay as rational strategy
 
+**Structural frame — sovereignty over political order.**  
+Mearsheimer: "Nation-states, in other words, do not want other nation-states telling them how they should order their political system." (John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 [Spring 2019]. Passage "The Perils of Democracy Promotion.") The Republic's legitimacy-through-procedure and indigenous authority encode that claim—no external actor may dictate how India orders its polity.
+
 The Republic is remembered as **survival through continuity**—
 the mechanism through which India absorbs Partition without
 dissolving.
@@ -111,6 +116,8 @@ VII. MEM CONNECTIONS
   non-alignment; parliamentary democracy.
 • MEM–INDIA–REPUBLIC–MODI — Post-liberalization institutional translator;
   civilizational assertion; multi-alignment; institutional continuity.
+• MEM–INDIA–REPUBLIC–CONGRESS — Dominant-party legitimacy channel;
+  anti-colonial vehicle; procedure permits alternation; Congress then BJP.
 • MEM–INDIA–BRITISH–EMPIRE — Procedural inheritance; administrative
   overlay; India repurposes tools.
 • MEM–INDIA–GANDHI — Legitimacy pressure on imperial rule; moral
@@ -119,12 +126,21 @@ VII. MEM CONNECTIONS
   caste constrained and recognised through law.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** भारत एक संप्रभु लोकतंत्रात्मक गणराज्य है।
+• **Transliteration:** Bhārat ek samprabhū lokatantrātmak gaṇarājya hai.
+• **Translation:** India is a sovereign democratic republic (Constitution Preamble, Hindi).
+• **Source:** Constitution of India, Preamble (official Hindi). [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Austin, Granville. *The Indian Constitution: Cornerstone of a Nation*. Oxford: Clarendon Press, 1966.
 • Khilnani, Sunil. *The Idea of India*. London: Hamish Hamilton, 1997.
+• Mearsheimer, John J. "Bound to Fail: The Rise and Fall of the Liberal International Order." *International Security* 43, no. 4 (Spring 2019): 7–50.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–REPUBLIC — v1.0
+END OF FILE — MEM–INDIA–REPUBLIC — v1.3
 ────────────────────────────────────────────────────────────

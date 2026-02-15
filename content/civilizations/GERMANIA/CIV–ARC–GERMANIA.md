@@ -185,6 +185,7 @@ ARC-T-MODERN:
   - The Dutch Revolt (1977): 1568–1648 rebellion, Spanish response, independence
   - The Army of Flanders and the Spanish Road (1972): Habsburg logistics, force projection
   - Supports: MEM–GERMANIA–BELGIUM–ANTWERP, Habsburg military analysis
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
 
 RULE: Only listed authors may be quoted without discovery flag.
 

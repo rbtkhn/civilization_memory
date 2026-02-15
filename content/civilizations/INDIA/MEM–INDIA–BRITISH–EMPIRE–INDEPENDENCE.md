@@ -1,9 +1,11 @@
-MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — v1.0
+MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.3
+Supersedes: v1.1
+Upgrade Type: MEARSHEIMER 2019 — bounded vs liberal order (§ III); UN quote ARC-normalized
 Civilization: INDIA
 Subject: Independence — transfer of power and sovereignty acquired
 Dates: 1947 AD (15 August; Indian Independence Act)
@@ -59,6 +61,10 @@ India gains:
 • Administrative continuity — ICS, army, police; inherited intact;
   loyalty transfers to new sovereign
 • International personality — Recognized state; UN membership (1947)
+
+The UN India joined was the most visible institution of the Cold War international order but, in structural-realist terms, had limited sway. "The UN was probably the most visible institution in the Cold War international order, but it had little influence on the behavior of countries around the world, mainly because the rivalry between the superpowers made it almost impossible for that institution to adopt and enforce consequential policies." (John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 [Spring 2019].) Sovereignty and international personality were thus acquired in a system where the main multilateral forum was visible but weak—consistent with India's later encoding of autonomy and refusal of bloc subordination.
+
+Mearsheimer distinguishes that Cold War order—a **bounded order** limited mainly to the West, in which the United States did not seek to transform the rest of the world—from the post–Cold War **liberal international order**, which sought to expand institutions and spread liberal democracy globally. India gained sovereignty in the bounded era; the order that later pressed India (norms, NPT) was the expanding liberal one. India's resistance to that pressure fits the shift from bounded to liberal order.
 
 Independence is **sovereignty acquired**, not empire expelled.
 The mechanism is transfer; the outcome is sovereign continuity.
@@ -118,12 +124,21 @@ VII. MEM CONNECTIONS
   independence through nonviolent resistance.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** आजादी की रात बीत चुकी।
+• **Transliteration:** Āzādī kī rāt bīt cukī.
+• **Translation:** The night of freedom has passed (Independence-era Hindi).
+• **Source:** Nehru / Independence-era address; attested Hindi. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Brown, Judith M. *Modern India: The Origins of an Asian Democracy*. Oxford: Oxford University Press, 1994.
 • Mansergh, Nicholas, ed. *The Transfer of Power 1942–7*. London: HMSO, 1970–83.
+• Mearsheimer, John J. "Bound to Fail: The Rise and Fall of the Liberal International Order." *International Security* 43, no. 4 (Spring 2019): 7–50.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — v1.0
+END OF FILE — MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — v1.3
 ────────────────────────────────────────────────────────────

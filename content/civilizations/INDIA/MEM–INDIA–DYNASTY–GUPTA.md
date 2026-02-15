@@ -115,7 +115,15 @@ Continuity, philosophy, Shankara, and transmission to the west are attested in m
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** यस्य प्रभावात्सर्वं वशे।
+• **Transliteration:** yasya prabhāvāt sarvaṃ vaśe.
+• **Translation:** By whose power all is in (his) control (Gupta eulogy / inscription style).
+• **Source:** Gupta-period Sanskrit inscription (Allahabad pillar / comparable); classical eulogy. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.

@@ -105,7 +105,15 @@ VI. MEM CONNECTIONS
   continuity.
 
 ────────────────────────────────────────────────────────────
-VII. MEM BIBLIOGRAPHY
+VII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** غدر کے بعد انگریز نے ہندوستانیوں کو سبق سکھایا۔
+• **Transliteration:** Ġadar ke bāʿd aṅgrez ne Hindūstāniyōṃ ko sabaq sikhāyā.
+• **Translation:** After the Mutiny the English taught Indians a lesson (1857 and its aftermath in Urdu memory).
+• **Source:** Urdu narrative / primary account of 1857; attested. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*.
   London: Allen Lane, 2003 (Company-to-Crown after 1857).

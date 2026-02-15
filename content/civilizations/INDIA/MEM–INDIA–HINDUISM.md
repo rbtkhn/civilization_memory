@@ -1,9 +1,9 @@
-MEM–INDIA–HINDUISM — v1.0
+MEM–INDIA–HINDUISM — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Subject: Hinduism — Indigenous civilizational substrate; dharma, plurality, legitimacy
 Dates: Antiquity–Present
@@ -167,12 +167,20 @@ VIII. MEM CONNECTIONS
 • MEM–INDIA–DYNASTY–GUPTA — Brahminical revival; Hindu patronage.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते।
+• **Transliteration:** pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate.
+• **Translation:** That is full; this is full; from the full the full arises (Isha Upanishad, peace invocation).
+• **Source:** Isha Upanishad, opening (santi patha). [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Doniger, Wendy. *The Hindus: An Alternative History*. New York: Penguin, 2009.
 • Flood, Gavin. *An Introduction to Hinduism*. Cambridge: Cambridge University Press, 1996.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–HINDUISM — v1.0
+END OF FILE — MEM–INDIA–HINDUISM — v1.1
 ────────────────────────────────────────────────────────────

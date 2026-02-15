@@ -264,6 +264,9 @@ Renaissance Biography:
 • Walter Isaacson (b. 1952) — *Leonardo da Vinci* (2017)
   Function: Biographical synthesis, cross-disciplinary genius thesis
 
+Structural / International Orders (IR framing):
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+
 ────────────────────────────────────────────────────────────
 VIII. ORTHOGONALITY WITH ERC
 ────────────────────────────────────────────────────────────

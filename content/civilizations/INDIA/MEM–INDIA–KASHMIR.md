@@ -151,5 +151,13 @@ X. CONTINUITY INSIGHTS (RAW)
 Tension is permanent.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–KASHMIR — v1.0
+XI. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** शिव च सत्य। (Kashmiri Shaivism.)
+• **Transliteration:** Śiva ca satya (Sanskrit) / Shiv chhu satyas (Kashmiri).
+• **Translation:** Shiva alone is the truth (Lal Ded / Kashmiri mystic tradition).
+• **Source:** Lal Ded (Lalleshwari) vakh; Kashmiri Shaivism. [ARC–INDIA-T-MEDIEVAL]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–KASHMIR — v1.1
 ────────────────────────────────────────────────────────────

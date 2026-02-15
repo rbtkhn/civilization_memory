@@ -1,8 +1,8 @@
-MEM–INDIA–PARTITION — v2.1
+MEM–INDIA–PARTITION — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 2.1
+Version: 2.2
 Supersedes: v2.0
 Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
@@ -182,12 +182,20 @@ XI. MEM CONNECTIONS
 • MEM–INDIA–BRITISH–EMPIRE–CLIVE — Procedural entry; Partition as procedural exit; bookends.
 
 ────────────────────────────────────────────────────────────
-XII. MEM BIBLIOGRAPHY
+XII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** यह दाग़ दाग़ उजाला, यह शब-गज़ीदा सहर।
+• **Transliteration:** Yah dāġ dāġ ujālā, yah shab-gazīda sahar.
+• **Translation:** This stained, stained dawn, this night-bitten dawn (Faiz on Partition morning).
+• **Source:** Faiz Ahmed Faiz, "Subh-e Azadi" (August 1947); Urdu. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+XIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 • Wikiquote, Will Durant — The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–PARTITION — v2.1
+END OF FILE — MEM–INDIA–PARTITION — v2.2
 ────────────────────────────────────────────────────────────

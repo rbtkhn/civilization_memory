@@ -111,7 +111,15 @@ VII. MEM CONNECTIONS
   institutional continuity from colonial Bombay.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** मुंबई मेरी जान।
+• **Transliteration:** Mumbaī merī jān.
+• **Translation:** Mumbai is my life (colloquial; city as identity).
+• **Source:** Attested Marathi/Hindi saying; popular culture. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Patel, Sujata, and Alice Thorner, eds. *Bombay: Mosaic of Modern Culture*. Bombay: Oxford University Press, 1995.
 • Dwivedi, Sharada, and Rahul Mehrotra. *Bombay: The Cities Within*. Bombay: India Book House, 1995.

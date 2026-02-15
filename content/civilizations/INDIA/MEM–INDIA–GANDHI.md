@@ -1,8 +1,8 @@
-MEM–INDIA–GANDHI — v2.1
+MEM–INDIA–GANDHI — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 2.1
+Version: 2.2
 Supersedes: v2.0
 Upgrade Type: DURANT VERBATIM INTEGRATION (ARC-T-MODERN) · FERGUSON VERBATIM INTEGRATION (ARC-T-MODERN)
 Civilization: INDIA
@@ -101,12 +101,20 @@ Ferguson frames nationalist challenge and costs of maintaining imperial control 
 — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) [ARC–INDIA-T-MODERN]. Summary-only note: verify against published edition for verbatim.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** आराम हराम है।
+• **Transliteration:** Ārām harām hai.
+• **Translation:** Rest (ease) is forbidden—labour and duty are incumbent (Gandhi on work and self-reliance).
+• **Source:** Mahatma Gandhi, attested saying / Young India; widely cited. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 • Wikiquote, Will Durant — The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GANDHI — v2.1
+END OF FILE — MEM–INDIA–GANDHI — v2.2
 ────────────────────────────────────────────────────────────

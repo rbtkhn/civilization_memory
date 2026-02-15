@@ -157,6 +157,8 @@ VIII. MEM CONNECTIONS
   Afghanistan; Arabian origin, Persianate transmission.
 • MEM–INDIA–WAR–GHAZNAVID — Early Islamic pressure; Turkic
   transmission; Arabian origin of Islam.
+• MEM–INDIA–AFRICA — Same Indian Ocean circuit; East African
+  coast as way station; monsoon trade; colonial corridor.
 
 ────────────────────────────────────────────────────────────
 IX. MEM BIBLIOGRAPHY

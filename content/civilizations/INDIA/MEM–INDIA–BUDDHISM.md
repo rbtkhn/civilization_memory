@@ -163,7 +163,15 @@ VIII. MEM CONNECTIONS
   Gangetic plains.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** मनोपुब्बङ्गमा धम्मा मनोसेट्ठा मनोमयाः।
+• **Transliteration:** manopubbaṅgamā dhammā manoseṭṭhā manomayā.
+• **Translation:** Mind is the forerunner of all states; mind is chief; they are mind-made (Dhammapada 1.1).
+• **Source:** Dhammapada 1.1 (Pali); Buddhist canon. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Sen, Tansen. *Buddhism, Diplomacy, and Trade*. Honolulu: University of Hawai'i Press, 2003.
 • Strong, John. *The Experience of Buddhism*. Belmont: Wadsworth, 1995.

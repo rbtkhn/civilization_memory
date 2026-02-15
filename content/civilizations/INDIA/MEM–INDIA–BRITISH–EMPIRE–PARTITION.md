@@ -3,7 +3,7 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Subject: Partition — British imperial exit and boundary-making
 Dates: 1946–1948 AD (exit and handover)
@@ -120,12 +120,20 @@ VII. MEM CONNECTIONS
   settlement; constitutional frontier.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** आज लाखों बच्चे रोए, लाखों माँओं के आँसू।
+• **Transliteration:** Āj lākhoṃ bacche roe, lākhoṃ māōṃ ke āṃsū.
+• **Translation:** Today millions of children wept, millions of mothers' tears (Partition memory).
+• **Source:** Attested Hindi/Urdu Partition refrain; oral and literary tradition. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 • Moon, Penderel. *Divide and Quit*. Chatto & Windus, 1961.
 • Cambridge History of India; New Cambridge History of India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–BRITISH–EMPIRE–PARTITION — v1.0
+END OF FILE — MEM–INDIA–BRITISH–EMPIRE–PARTITION — v1.1
 ────────────────────────────────────────────────────────────

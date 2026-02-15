@@ -1,8 +1,8 @@
-MEM–INDIA–LIT–UPANISHADS — v1.0
+MEM–INDIA–LIT–UPANISHADS — v1.1
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: PHILOSOPHICAL SCRIPTURE (उपनिषद्)
 Subject: Upanishads (philosophical-soteriological core of shruti)
@@ -123,7 +123,15 @@ Philosophical continuity and Upanishadic range are attested [ERC-SECONDARY]:
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** तत्त्वमसि।
+• **Transliteration:** tat tvam asi.
+• **Translation:** You are that (the self is identical with brahman).
+• **Source:** Chāndogya Upanishad 6.8.7 (Śvetaketu dialogue). [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Principal Upanishads (Bṛhadāraṇyaka, Chāndogya, Taittirīya, Kaṭha, Īśa, Kena, Muṇḍaka, etc.)
 • Will Durant — *Our Oriental Heritage* (1935); *The Case for India* (1930)
@@ -132,5 +140,5 @@ X. MEM BIBLIOGRAPHY
 • Olivelle, Patrick — *Upanishads* (Oxford World's Classics)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–UPANISHADS — v1.0
+END OF FILE — MEM–INDIA–LIT–UPANISHADS — v1.1
 ────────────────────────────────────────────────────────────

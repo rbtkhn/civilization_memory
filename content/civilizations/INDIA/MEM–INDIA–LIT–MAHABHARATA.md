@@ -1,9 +1,9 @@
-MEM–INDIA–LIT–MAHABHARATA — v1.0
+MEM–INDIA–LIT–MAHABHARATA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: EPIC LITERATURE (इतिहास)
 Subject: Mahabharata (महाभारत)
@@ -132,7 +132,15 @@ Civilizational depth and epic tradition are attested in modern synthesis [ERC-SE
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः।
+• **Transliteration:** dharma eva hato hanti dharmo rakṣati rakṣitaḥ.
+• **Translation:** Dharma destroyed destroys (you); dharma protected protects (you).
+• **Source:** Mahabharata (Mahabharata 8.69.30 / Udyoga Parva); critical ed. BORI. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Vyasa (attrib.) — Mahabharata (critical ed., BORI)
 • Romila Thapar — Early India; cultural transmission
@@ -142,5 +150,5 @@ X. MEM BIBLIOGRAPHY
 • Encyclopaedia Britannica — India; Mahabharata
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–MAHABHARATA v1.0
+END OF FILE — MEM–INDIA–LIT–MAHABHARATA — v1.1
 ────────────────────────────────────────────────────────────

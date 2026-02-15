@@ -84,6 +84,7 @@ ARC-T-MODERN:
 • Shaul Bakhash (b. 1943) — The Reign of the Ayatollahs; Iran: Monarchy, Bureaucracy and Reform
 • Roy Mottahedeh (b. 1940) — The Mantle of the Prophet
 • Abbas Amanat (b. 1947) — Pivot of the Universe; Iran: A Modern History
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 

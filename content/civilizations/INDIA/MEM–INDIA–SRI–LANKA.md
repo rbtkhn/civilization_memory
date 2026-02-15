@@ -165,5 +165,13 @@ X. MEM CONNECTIONS
 • MEM–INDIA–LIT–RAMAYANA — Lanka; Ravana; southern interface.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–SRI–LANKA — v1.0
+XI. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** मनोपुब्बङ्गमा धम्मा। (Pali: mind-forerunner.)
+• **Transliteration:** manopubbaṅgamā dhammā.
+• **Translation:** Mind is the forerunner of all states (Dhammapada; Buddhist transmission to Lanka).
+• **Source:** Dhammapada 1.1 (Pali); Buddhist canon transmitted to Sri Lanka. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–SRI–LANKA — v1.1
 ────────────────────────────────────────────────────────────

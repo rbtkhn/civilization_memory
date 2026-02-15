@@ -1,9 +1,9 @@
-MEM–INDIA–LIT–TAGORE — v1.0
+MEM–INDIA–LIT–TAGORE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: MODERN LITERATURE (साहित्य)
 Subject: Rabindranath Tagore (1861–1941)
@@ -120,7 +120,15 @@ Civilizational continuity and modern India are attested [ERC-SECONDARY]:
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** আমি পথে পথে ফিরেছি হে চির-চঞ্চল।
+• **Transliteration:** Ami pathē pathē phirechi he chira-chañchal.
+• **Translation:** I have wandered from path to path, O ever-restless one (Gitanjali).
+• **Source:** Rabindranath Tagore, Gitanjali (Bengali 1910); poem 12. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Rabindranath Tagore — Gitanjali; Nationalism; The Home and the World
 • Ramachandra Guha — India After Gandhi; Tagore in nationalist context
@@ -130,5 +138,5 @@ X. MEM BIBLIOGRAPHY
 • Stanley Wolpert — A New History of India
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–TAGORE v1.0
+END OF FILE — MEM–INDIA–LIT–TAGORE — v1.1
 ────────────────────────────────────────────────────────────

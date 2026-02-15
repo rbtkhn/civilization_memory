@@ -134,7 +134,15 @@ Ashoka, village constitution, and civilizational continuity are attested in mode
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** धम्ममेव सो नयति महाराज।
+• **Transliteration:** dhammaṃ eva so nayati mahārāja.
+• **Translation:** The king leads by dharma alone (Ashoka, First Rock Edict).
+• **Source:** Ashoka, First Major Rock Edict (e.g. Girnar); Prakrit in Brahmi. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.

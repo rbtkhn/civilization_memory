@@ -1,9 +1,11 @@
-MEM–INDIA–REPUBLIC–MODI — v1.0
+MEM–INDIA–REPUBLIC–MODI — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.6
+Supersedes: v1.5
+Upgrade Type: PATTERN NOTE — Portuguese (supporting), British (limit case) (§ VI); MEM CONNECTIONS; SYNTHESIS 0005; I-B indigenous-language quote
 Civilization: INDIA
 Subject: Narendra Modi — Post-liberalization institutional translator; civilizational assertion
 Dates: 1950–present (b. 1950; PM 2014–)
@@ -66,6 +68,9 @@ For India, Modi encodes **which legitimacy source**—Nehruvian
 secular pluralism or civilizational assertion—remains contested.
 The Republic persists; the vocabulary shifts.
 
+**Evidence — democracy promotion and resistance (structural frame).**  
+Mearsheimer: "Trying to impose liberal democracy on a state that prefers an alternative form of government is almost certain to provoke fierce resistance." (John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 [Spring 2019]. Passage "The Perils of Democracy Promotion.") Modi's civilizational assertion and "diversity of political systems" encode that refusal—India orders its own political system; no external authority may impose it.
+
 ────────────────────────────────────────────────────────────
 IV. STRATEGIC AUTONOMY — CONTINUITY & REFRAME
 ────────────────────────────────────────────────────────────
@@ -88,6 +93,9 @@ Key elements:
 
 Modi preserves **right to decide later**—strategic autonomy
 continues; the vocabulary and performance shift.
+
+**IV.A. Evidence — India as refuser in liberal-order narrative**  
+The liberal order's architect describes India's 1998 tests as a setback for that order, not as integration: "The United States and its allies did face some setbacks during the 1990s. India and Pakistan tested nuclear weapons in 1998; the Balkans exploded in violence; and the United States fought a war against Iraq." (John J. Mearsheimer, "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 [Spring 2019].) India encodes 1998 as sovereign refusal and continuity of strategic autonomy (Nehru→1998→2005 deal→Modi Quad); the same act is order's "setback" and India's assertion of the right to decide.
 
 ────────────────────────────────────────────────────────────
 V. ECONOMIC TRAJECTORY — LIBERALIZATION & DELIVERY
@@ -125,6 +133,8 @@ For India, Modi encodes:
 Modi is remembered as **institutional translator with civilizational
 vocabulary**—the Republic continues; the legitimacy source shifts;
 tension endures.
+
+**Pattern note — structural ambivalence.** India's stance toward the liberal international order (refuse norms when they undercut autonomy; accept accommodation when it preserves policy space; 1998→2005→Quad) can be read as **structural ambivalence**—use when useful, resist when pressed; no stake in preserving the order. The same pattern appears in India's encounter with external orders at the edge: **Ghaznavid (11th c.)**—raids (e.g. Somnath 1026), only Punjab annexed; depth and local resistance limited invader hold (MEM–INDIA–WAR–GHAZNAVID). **Delhi Sultanate vs Chagatai (13th–14th c.)**—deflection (tribute when expedient, no integration); no Mongol khanate administered India (MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI). **Portuguese (1498–1961)**—enclaves only; interior Indian states remained sovereign; no Portuguese absorption of the subcontinent (MEM–INDIA–PORTUGAL–EMPIRE). **Limit case:** British conquest (Plassey 1757 onward)—defender cohesion failed; British achieved subcontinental integration (MEM–INDIA–BRITISH–EMPIRE–CLIVE). Deflection holds when invader is at the edge or defender retains cohesion; when defender mechanism fails, the external order can integrate. Contrast: Persia conquered (Ilkhanate); India deflected except when cohesion collapsed (British). SCHOLAR: SYNTHESIS 0005 (proposed).
 
 ────────────────────────────────────────────────────────────
 VII. RELATION TO NEHRU & REPUBLIC
@@ -170,14 +180,32 @@ IX. MEM CONNECTIONS
   procedure without consensus.
 • MEM–INDIA–LIT–ARTHASHASTRA — Realism as substrate; capacity-building
   when survival at stake.
+• MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–MONGOL–CHAGATAI — Historical
+  parallel: deflection (structural ambivalence) vs Mongol order; pattern
+  note § VI.
+• MEM–INDIA–WAR–GHAZNAVID — Earlier instance: Ghaznavid raids (11th c.);
+  only Punjab held; depth resistance; pattern note § VI.
+• MEM–INDIA–PORTUGAL–EMPIRE — Supporting: enclave only; interior sovereign;
+  pattern note § VI.
+• MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–CLIVE — Limit case:
+  British conquest when defender cohesion failed; pattern note § VI.
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** सबका साथ सबका विकास।
+• **Transliteration:** Sabka sāth sabka vikās.
+• **Translation:** With everyone, development for everyone (slogan of inclusive development).
+• **Source:** Narendra Modi, PMO / BJP manifesto; public address (2014 onward). [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Jaffrelot, Christophe. *Modi's India: Hindu Nationalism and the Rise of Ethnic Democracy*. Princeton: Princeton University Press, 2021.
 • Vaishnav, Milan (ed.). *The BJP in Power: Indian Democracy and Religious Nationalism*. Washington: Carnegie Endowment, 2019.
+• Mearsheimer, John J. "Bound to Fail: The Rise and Fall of the Liberal International Order." *International Security* 43, no. 4 (Spring 2019): 7–50.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–REPUBLIC–MODI — v1.0
+END OF FILE — MEM–INDIA–REPUBLIC–MODI — v1.6
 ────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
-MEM–INDIA–LIT–VEDAS — v1.0
+MEM–INDIA–LIT–VEDAS — v1.1
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: RITUAL SCRIPTURE (वेद)
 Subject: Vedas (foundational shruti—liturgy, sacrifice, mantra)
@@ -122,7 +122,15 @@ Continuity and the range of Indic faith (ritual to pantheism) are attested [ERC-
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN]. Vedic tradition is one phase of that continuity.
 
 ────────────────────────────────────────────────────────────
-X. MEM BIBLIOGRAPHY
+X. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** अग्निमीळे पुरोहितं यज्ञस्य देवं ऋत्विजम्।
+• **Transliteration:** agnim īḍe purohitaṃ yajñasya devaṃ ṛtvijam.
+• **Translation:** I praise Agni, the household priest, god of the sacrifice, the chaplain.
+• **Source:** Rgveda 1.1.1 (Agni sukta); Rgveda Samhita. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ṛgveda, Sāmaveda, Yajurveda, Atharvaveda (critical editions and translations)
 • Will Durant — *Our Oriental Heritage* (1935), Ch. XIV § I
@@ -131,5 +139,5 @@ X. MEM BIBLIOGRAPHY
 • Witzel, Michael — Vedic canon and transmission
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–VEDAS — v1.0
+END OF FILE — MEM–INDIA–LIT–VEDAS — v1.1
 ────────────────────────────────────────────────────────────

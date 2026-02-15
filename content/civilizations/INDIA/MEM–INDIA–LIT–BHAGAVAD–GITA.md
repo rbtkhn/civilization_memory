@@ -1,8 +1,8 @@
-MEM–INDIA–LIT–BHAGAVAD–GITA — v1.0
+MEM–INDIA–LIT–BHAGAVAD–GITA — v1.1
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Domain: PHILOSOPHICAL–DEVOTIONAL SCRIPTURE (भगवद्गीता)
 Subject: Bhagavad Gita (dialogue embedded in Mahabharata; karma, jnana, bhakti)
@@ -108,7 +108,15 @@ Epic and philosophical continuity are attested [ERC-SECONDARY]:
 — Will Durant, *Our Oriental Heritage*, Ch. XIV § I (1935) [ARC–INDIA-T-MODERN]. The Mahabharata (and the Gita within it) are part of that epic tradition.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+IX. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+• **Transliteration:** karmaṇy evādhikāras te mā phaleṣu kadācana.
+• **Translation:** You have the right to action only, never to its fruits.
+• **Source:** Bhagavad Gita 2.47 (karma yoga); critical edition / BORI Mahabharata. [ARC–INDIA-T-ANCIENT]
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Bhagavad Gita (critical editions; BORI Mahabharata; standalone recensions)
 • Will Durant — *Our Oriental Heritage* (1935), Ch. XIV
@@ -118,5 +126,5 @@ IX. MEM BIBLIOGRAPHY
 • J.A.B. van Buitenen (trans.) — *The Bhagavadgita in the Mahabharata*
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–LIT–BHAGAVAD–GITA — v1.0
+END OF FILE — MEM–INDIA–LIT–BHAGAVAD–GITA — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,9 @@
-MEM–INDIA–BENGAL — v1.0
+MEM–INDIA–BENGAL — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
 Civilization: INDIA
 Subject: Bengal — Ganges delta and Partition fracture
 Dates: Antiquity–Present
@@ -118,12 +118,20 @@ VII. MEM CONNECTIONS
   divided between India and Bangladesh; cultural continuity.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY
+VIII. INDIGENOUS LANGUAGE QUOTE (I-B)
+────────────────────────────────────────────────────────────
+• **Original:** আমার সোনার বাংলা, আমি তোমায় ভালোবাসি।
+• **Transliteration:** Āmār sōnār Bāṃlā, āmi tōmāy bhālōbāsi.
+• **Translation:** My golden Bengal, I love you (opening of "Amar Shonar Bangla").
+• **Source:** Rabindranath Tagore, "Amar Shonar Bangla" (1905); national anthem of Bangladesh. [ARC–INDIA-T-MODERN]
+
+────────────────────────────────────────────────────────────
+IX. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Chatterji, Joya. *Bengal Divided: Hindu Communalism and Partition*. Cambridge: Cambridge University Press, 1994.
 • Schendel, Willem van. *A History of Bangladesh*. Cambridge: Cambridge University Press, 2009.
 • CIV–ARC–INDIA.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–BENGAL — v1.0
+END OF FILE — MEM–INDIA–BENGAL — v1.1
 ────────────────────────────────────────────────────────────
