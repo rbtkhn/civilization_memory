@@ -1,10 +1,10 @@
-MEM–PERSIA–PALMYRA — v1.0
+MEM–PERSIA–PALMYRA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Regime: SASANIAN
 Subject: Palmyra as Post-Valerian Counterweight — Odaenathus, Zenobia, Persian Response
@@ -13,7 +13,6 @@ Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,200
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -45,7 +44,15 @@ Adrian Goldsworthy frames the structural consequence:
 > — Adrian Goldsworthy, *Rome and Persia*
 
 But validation is not consolidation. The eastern provinces are
-undefended—and Palmyra steps into the breach.
+undefended—and Palmyra steps into the breach. Al-Tabari's chronicle records the Roman–Persian pattern and the rise of third actors:
+
+> "The Persians and the Romans fought many wars. When the king of
+> kings was victorious he would take the Roman lands and cities; when
+> the Romans prevailed they would recover their territory. Thus it
+> continued until the rise of Islam."
+> — Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY); ARC–PERSIA-T-MEDIEVAL
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. ODAENATHUS — THE PALMYRENE RESPONSE
@@ -160,7 +167,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian founder; Shapur's father
 • MEM–PERSIA–ARMENIA — Eastern theater; Palmyrene reach
 • MEM–PERSIA–ZOROASTER — "King of Kings" title challenges sacral claims
-• MEM–PERSIA–CYRUS–I — Imperial model; Palmyra as local usurper
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Imperial model; Palmyra as local usurper
 • MEM–PERSIA–ISLAM — Later desert power filling imperial vacuum (parallel)
 
 Cross-civilization (≥3):
@@ -173,6 +180,7 @@ Breaks if removed: MEM–PERSIA–EMPIRE–SHAPUR–I (Shapur's triumph conteste
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; Roman–Persian wars
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* — Fragmentation; Aurelian
 • Adrian Goldsworthy, *Rome and Persia* — Valerian consequence; Palmyra context
 • Adrian Goldsworthy, *In the Name of Rome* — Aurelian's campaigns
@@ -186,5 +194,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–PALMYRA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–PALMYRA — v1.0
+END OF FILE — MEM–PERSIA–PALMYRA — v1.1
 ────────────────────────────────────────────────────────────

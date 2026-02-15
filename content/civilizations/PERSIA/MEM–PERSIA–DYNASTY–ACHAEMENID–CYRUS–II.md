@@ -1,12 +1,12 @@
-MEM–PERSIA–CYRUS–I — v1.1
+MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 1.2
-Upgrade Type: ADDITIVE · Herodotus integration
+Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
 Civilization: PERSIA
-Subject: Cyrus I / Cyrus II “the Great”
+Subject: Cyrus II “the Great” — Achaemenid Founder
 Dates: c. 600–530 BC
 Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
@@ -28,7 +28,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. PERSIAN POWER CONSOLIDATION
 ────────────────────────────────────────────────────────────
-Cyrus’ base rests in Anshan and the Iranian plateau, drawing on:
+Cyrus' base rests in Anshan and the Iranian plateau, drawing on:
 • Tribal loyalty
 • Kinship kingship
 • Mobile warfare
@@ -42,7 +42,7 @@ Conquest is selective; memory is conserved.
 ────────────────────────────────────────────────────────────
 III. IMPERIAL EXPANSION & INTEGRATIVE CONQUEST
 ────────────────────────────────────────────────────────────
-Cyrus’ campaigns against:
+Cyrus' campaigns against:
 • Media
 • Lydia
 • Babylon
@@ -83,7 +83,17 @@ success:
 ────────────────────────────────────────────────────────────
 IV. SOVEREIGNTY & LEGITIMACY
 ────────────────────────────────────────────────────────────
-Kingship is framed as restorative, not revolutionary.
+Kingship is framed as restorative, not revolutionary. The Cyrus Cylinder
+(Akkadian, 539 BCE) presents Cyrus in the same vein:
+
+> "I collected together all of their people and returned them to their
+> settlements, and the gods of the land of Sumer and Akkad which
+> Nabonidus had brought into Shuanna, at the command of Marduk, the
+> great lord, I returned them unharmed to their cells, in the sanctuaries
+> that make them happy."  
+> — Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum); ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 Core elements:
 • King as protector of order
@@ -144,8 +154,9 @@ Tension preserved without verdict.
 IX. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, I.87 — Cyrus and Croesus; integrative sovereignty
+• Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of gods and peoples
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Cyrus, propaganda, liberation rhetoric; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–CYRUS–I — v1.2
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.2
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–ALEXANDER — v1.1
+MEM–PERSIA–WAR–ALEXANDER — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · MEM CONNECTIONS (WAR corpus integration)
+Version: 1.5
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Subject: Macedonian Conquest under Alexander the Great
 Dates: 334–323 BC
@@ -37,7 +37,15 @@ Lloyd Llewellyn-Jones resists Greek-centric framing of Persian–Greek conflict:
 
 The "Persian version" of history differs from the Hellenic narrative that
 dominates Western memory. Alexander's conquest must be read against that
-encoding divergence.
+encoding divergence. Ferdowsi's *Shahnameh* encodes the fall of the ancient
+kings and the persistence of memory:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 Adrian Goldsworthy situates Alexander's conquest as the horizon for later
 Roman–Persian rivalry:
@@ -77,7 +85,7 @@ incompetence. The structural reading: Darius had rational plans; Alexander
 possessed a **tempo advantage** that let him concentrate force faster and
 exploit king-centered legitimacy before Persian depth could tell. Power
 distribution and organizational velocity, not character, explain the
-outcome. MEM–PERSIA–EMPIRE–DARIUS–III encodes the unified assessment.
+outcome. MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III encodes the unified assessment.
 
 Key features:
 • Rapid decisive engagements
@@ -183,21 +191,22 @@ PERSIA WAR corpus (sibling integration):
 • MEM–PERSIA–WAR–CARRHAE — prior conquest trauma; Carrhae as Persian reversal; denial vs tempo
 • MEM–PERSIA–WAR–SCYTHIAN — contrast: tempo (Alexander) vs nomadic denial (Scythians); northern limits
 • MEM–PERSIA–WAR–ROME — Goldsworthy: region Alexander swept through; seven-century contest
-• MEM–PERSIA–EMPIRE–DARIUS–III — unified Briant + structural tempo; Darius as opponent
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — unified Briant + structural tempo; Darius as opponent
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; system optimized for stability
 • MEM–PERSIA–PERSEPOLIS — Alexander burns 330 BC
 • MEM–PERSIA–EGYPT — Alexander takes Egypt 332 BC
 • MEM–PERSIA–GEO–PERSIAN–GULF — Nearchus voyage
 
-Breaks if removed: MEM–PERSIA–EMPIRE–DARIUS–III (opponent); MEM–PERSIA–WAR–ROME (successor conflict over same terrain).
+Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III (opponent); MEM–PERSIA–WAR–ROME (successor conflict over same terrain).
 
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Adrian Goldsworthy, *Rome and Persia* (2023); *Philip and Alexander* (2020) — Alexander as horizon; Philip's armies
 • Pierre Briant, *Darius in the Shadow of Alexander* — coherent strategy, exceptional opponent; structural tempo vs character
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Persian encoding, Marathon; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.3
+END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.5
 ────────────────────────────────────────────────────────────

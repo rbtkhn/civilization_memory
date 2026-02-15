@@ -1,10 +1,10 @@
-MEM–PERSIA–MEDES — v1.0
+MEM–PERSIA–MEDES — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: PRE-ACHAEMENID / MEDIAN
 Subject: The Medes — Pre-Imperial Supremacy and Persian Fusion
@@ -99,7 +99,15 @@ founding narrative centers Cyrus and the Persians; the Medes become
 the conquered, even though they were absorbed, not annihilated. This
 erasure is partial—Herodotus preserves the memory; the Behistun
 inscription lists Media as a satrapy—but the Median contribution to
-imperial formation is understated in royal propaganda.
+imperial formation is understated in royal propaganda. The Behistun
+inscription (Old Persian) names the lands under Darius:
+
+> "King Darius says: These are the countries which came to me; by the
+> favor of Ahuramazda I was king of them: Persia, Elam, Babylonia,
+> Assyria, Arabia, Egypt, Media, Armenia, Cappadocia, Sardis, Ionia..."
+> — Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 VII. CONTINUITY INSIGHTS (RAW)
@@ -128,10 +136,10 @@ VIII. INSTITUTION STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–CYRUS–I — overthrows Astyages; incorporates Medes
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — overthrows Astyages; incorporates Medes
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Median fusion creates dynastic base
-• MEM–PERSIA–DARIUS–I — Media as satrapy; Ecbatana royal residence
-• MEM–PERSIA–XERXES — Median forces in Greek campaign
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Media as satrapy; Ecbatana royal residence
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Median forces in Greek campaign
 • MEM–PERSIA–PERSEPOLIS — contrast with Ecbatana (summer capital)
 • MEM–PERSIA–WAR–CARRHAE — Parthian cavalry inherits Iranian tradition
 • MEM–PERSIA–WAR–ALEXANDER — Alexander takes Ecbatana
@@ -143,11 +151,12 @@ GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — plateau geography
 • MEM–PERSIA–ARMENIA — Armenian–Median interface
 
-Breaks if removed: MEM–PERSIA–CYRUS–I (overthrow); MEM–PERSIA–DYNASTY–ACHAEMENID (fusion).
+Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (overthrow); MEM–PERSIA–DYNASTY–ACHAEMENID (fusion).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT; lands/satrapies including Media
 • Herodotus, *Histories* — Median history, Cyrus, cultural adoption
 • Pierre Briant, *From Cyrus to Alexander* — Persian–Median fusion
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources*
@@ -161,5 +170,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–MEDES
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–MEDES — v1.0
+END OF FILE — MEM–PERSIA–MEDES — v1.1
 ────────────────────────────────────────────────────────────

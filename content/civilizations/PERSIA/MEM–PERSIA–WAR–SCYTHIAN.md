@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–SCYTHIAN — v2.0
+MEM–PERSIA–WAR–SCYTHIAN — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: MAJOR · Denial-doctrine lineage, Mearsheimer structural, Layer 2
+Version: 2.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Darius's Scythian Expedition — Northern Limits, Nomadic Denial
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~1,800
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -60,7 +59,17 @@ Scythian message:
 
 Darius cannot pin the Scythians down. He cannot live off the land.
 He retreats. The expedition achieves nothing—save the lesson that
-nomadic foes resist imperial logic.
+nomadic foes resist imperial logic. The king's own inscription
+records the Saka in the roster of peoples:
+
+> "Says Darius the King: The Saka who wear the pointed cap—beyond
+> the sea—I went after them. When I had reached them, they went to
+> meet me. I smote that host; I took captive their chief. Then they
+> became mine."
+> — Darius I, Behistun Inscription (Saka paragraph), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+(Herodotus and the inscription encode the campaign differently; the
+structural lesson is nomadic denial.) شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 IV. STRUCTURAL IMPLICATIONS
@@ -83,7 +92,7 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–CARRHAE — nomadic and Parthian denial; cavalry mobility; denial doctrine precedent
 • MEM–PERSIA–WAR–ALEXANDER — contrast: tempo defeats Persia vs Scythians defeat Darius
 Other:
-• MEM–PERSIA–DARIUS–I — expedition under Darius
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — expedition under Darius
 • MEM–PERSIA–GEO–CASPIAN — northern frontier; Scythian geography
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial limits
 
@@ -101,9 +110,10 @@ VII. WAR STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 VIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (Saka paragraph), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT
 • Herodotus, *Histories*, IV.1–144 — Scythian campaign
 • Pierre Briant, *From Cyrus to Alexander* — Darius's northern policy
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–SCYTHIAN — v2.0
+END OF FILE — MEM–PERSIA–WAR–SCYTHIAN — v2.1
 ────────────────────────────────────────────────────────────

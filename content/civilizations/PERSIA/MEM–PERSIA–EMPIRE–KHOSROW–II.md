@@ -1,10 +1,10 @@
-MEM–PERSIA–EMPIRE–KHOSROW–II — v1.0
+MEM–PERSIA–EMPIRE–KHOSROW–II — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Regime: SASANIAN (LATE)
 Subject: Khosrow II — Triumph, Overextension, and Terminal Exhaustion
@@ -13,7 +13,6 @@ Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,400
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -44,7 +43,15 @@ Edward Gibbon records the singular Roman–Persian alignment:
 > emperors, when the Parthians acknowledged Roman supremacy."  
 > — Edward Gibbon, *Decline and Fall*, Chapter XLVI
 
-This peace is the best in centuries—and Khosrow will shatter it.
+This peace is the best in centuries—and Khosrow will shatter it. Al-Tabari's chronicle encodes the rhythm of Roman–Persian war and the final exhaustion:
+
+> "The Persians and the Romans fought many wars. When the king of
+> kings was victorious he would take the Roman lands and cities; when
+> the Romans prevailed they would recover their territory. Thus it
+> continued until the rise of Islam."
+> — Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY); ARC–PERSIA-T-MEDIEVAL
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. THE INVASION — PERSIAN TRIUMPH (602–622)
@@ -162,7 +169,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–ZOROASTER — sacral kingship; legitimacy strain
 • MEM–PERSIA–ISLAM — post-exhaustion absorption
 • MEM–PERSIA–DYNASTY–ACHAEMENID — prior Levant control (contrast)
-• MEM–PERSIA–CYRUS–I — restraint Khosrow abandoned
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — restraint Khosrow abandoned
 • MEM–PERSIA–MONGOL–EMPIRE — later collapse (comparison)
 
 Cross-civilization (≥3):
@@ -184,6 +191,7 @@ XI. FIGURE STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; Roman–Persian wars
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* — Maurice–Khosrow peace; war narrative
 • Edward Gibbon, *Decline and Fall*, Chapter XLVI — Heraclius counteroffensive
 • Adrian Goldsworthy, *Rome and Persia* — War scale and reversal
@@ -198,5 +206,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–KHOSROW–II
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–KHOSROW–II — v1.0
+END OF FILE — MEM–PERSIA–EMPIRE–KHOSROW–II — v1.1
 ────────────────────────────────────────────────────────────

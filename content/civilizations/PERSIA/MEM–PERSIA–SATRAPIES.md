@@ -3,9 +3,9 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Supersedes: v1.0
-Upgrade Type: ADDITIVE · Herodotus India (III.94)
+Version: 1.2
+Supersedes: v1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Satrapal System — Provincial Governance, Tribute, Modular Imperial Control
@@ -15,7 +15,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~1,600
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -62,6 +61,15 @@ Lloyd Llewellyn-Jones contrasts Persian with Roman practice:
 > — Lloyd Llewellyn-Jones, FiveBooks interview (2020)
 
 The empire governs difference as a feature. Control is modular, not uniform.
+Behistun (Old Persian) records Darius's royal claim over the lands that
+would be administered as satrapies:
+
+> "King Darius says: These are the countries which came to me; by the
+> favor of Ahuramazda I was king of them: Persia, Elam, Babylonia,
+> Assyria, Arabia, Egypt, Media, Armenia, Cappadocia, Sardis, Ionia..."
+> — Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+فردوسی (شاهنامه، دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. CIVILIZATIONAL MEMORY FUNCTION
@@ -78,7 +86,7 @@ governance inherit satrapal patterns.
 ────────────────────────────────────────────────────────────
 IV. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–DARIUS–I — satrapy formalization; tribute
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — satrapy formalization; tribute
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial architecture
 • MEM–PERSIA–SILK–ROAD — satrapies along corridor
 • MEM–PERSIA–EGYPT — Egyptian satrapy
@@ -86,10 +94,11 @@ IV. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 V. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT; lands/satrapies
 • Herodotus, *Histories*, III.89–97 — satrapy list, tribute; III.94 India (gold dust)
 • Pierre Briant, *From Cyrus to Alexander* — administrative consolidation
 • Lloyd Llewellyn-Jones, FiveBooks interview (2020) — laisser-faire
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–SATRAPIES — v1.1
+END OF FILE — MEM–PERSIA–SATRAPIES — v1.2
 ────────────────────────────────────────────────────────────

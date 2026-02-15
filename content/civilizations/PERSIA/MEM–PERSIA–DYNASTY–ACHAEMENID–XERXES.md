@@ -1,10 +1,10 @@
-MEM–PERSIA–XERXES — v2.0
+MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: MAJOR · Greek wars arc, Alexander inversion, Herodotus expansion
+Version: 2.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Xerxes I — Persian Encoding of the Greek Wars
@@ -117,7 +117,15 @@ V. PERSIAN ENCODING — WHAT PERSIA REMEMBERS
 Persia has no Herodotus. The Persian "version" of the Greek wars
 survives in inscriptions, reliefs, and later transmission. Xerxes'
 failure to annex Greece does not rupture Achaemenid legitimacy; the
-court, the satrapies, and the Royal Road persist.
+court, the satrapies, and the Royal Road persist. Ferdowsi's *Shahnameh*
+encodes the durability of royal memory:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 Richard Frye observes that the Greek victories were defensive—they
 did not threaten the Persian heartland—and that Greek memory of the
@@ -169,12 +177,12 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ALEXANDER — Alexander inverts Xerxes; Greek penetrates Persia
 • MEM–PERSIA–IONIAN–REVOLT — causal chain; Greek question origin
 Other PERSIA:
-• MEM–PERSIA–DARIUS–I — father; inherits Greek frontier
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — father; inherits Greek frontier
 • MEM–PERSIA–PERSEPOLIS — Xerxes completes construction
 • MEM–PERSIA–EGYPT — revolt at accession; satrapy
-• MEM–PERSIA–CYRUS–I — integrative precedent (Xerxes departs at Greece)
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — integrative precedent (Xerxes departs at Greece)
 • MEM–PERSIA–ZOROASTER — arta/druj ideology
-• MEM–PERSIA–EMPIRE–DARIUS–III — terminal Achaemenid (contrast)
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — terminal Achaemenid (contrast)
 • MEM–PERSIA–MEDES — Persian–Median forces in Greek campaign
 • MEM–PERSIA–WAR–ROME — later Roman–Persian interface (different encoding)
 
@@ -182,11 +190,12 @@ GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — northern flank
 • MEM–PERSIA–ARMENIA — satrapy; army contingent
 
-Breaks if removed: MEM–PERSIA–DARIUS–I (succession); MEM–PERSIA–WAR–ALEXANDER (Greek–Persian encoding contrast).
+Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (succession); MEM–PERSIA–WAR–ALEXANDER (Greek–Persian encoding contrast).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL; royal memory
 • Herodotus, *Histories* — Xerxes, Thermopylae, Salamis
 • Aeschylus, *Persians* (472 BC) — contemporary Greek encoding
 • Pierre Briant, *From Cyrus to Alexander* — ideology, Greek campaigns
@@ -197,9 +206,9 @@ X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XI. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–XERXES
+MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–XERXES — v2.0
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — v2.1
 ────────────────────────────────────────────────────────────

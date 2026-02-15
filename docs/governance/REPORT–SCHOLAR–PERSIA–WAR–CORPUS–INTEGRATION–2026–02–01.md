@@ -48,8 +48,8 @@ The LEARN session identified that MEM–PERSIA–WAR–ALEXANDER and MEM–PERSI
 
 **Connections added:**
 - **PERSIA WAR corpus:** MARATHON, THERMOPYLAE, CARRHAE, SCYTHIAN, WAR–ROME
-- **Other:** EMPIRE–DARIUS–III, DYNASTY–ACHAEMENID, PERSEPOLIS, EGYPT, GEO–PERSIAN–GULF
-- **Breaks if removed:** DARIUS–III, WAR–ROME
+- **Other:** DYNASTY–ACHAEMENID–DARIUS–III, DYNASTY–ACHAEMENID, PERSEPOLIS, EGYPT, GEO–PERSIAN–GULF
+- **Breaks if removed:** DYNASTY–ACHAEMENID–DARIUS–III, WAR–ROME
 
 **Rationale:** Alexander MEM is the pivot between Greek wars (precedent) and Roman–Persian contest (terrain of ambition per Goldsworthy). SCYTHIAN contrast: tempo defeats Persia (Alexander) vs Scythians defeat Darius (nomadic denial).
 
@@ -88,7 +88,7 @@ The LEARN session identified that MEM–PERSIA–WAR–ALEXANDER and MEM–PERSI
 
 **Change:** Reorganized MEM CONNECTIONS; added "PERSIA WAR corpus" grouping; added WAR–SCYTHIAN.
 
-**Connections:** WAR–ROME, WAR–ALEXANDER, WAR–SCYTHIAN (corpus); DYNASTY–SASANIAN, DYNASTY–ACHAEMENID, ZOROASTER, CYRUS–I, EMPIRE–SHAPUR–I, EMPIRE–KHOSROW–II, ARMENIA, ISLAM (other).
+**Connections:** WAR–ROME, WAR–ALEXANDER, WAR–SCYTHIAN (corpus); DYNASTY–SASANIAN, DYNASTY–ACHAEMENID, ZOROASTER, DYNASTY–ACHAEMENID–CYRUS–II, EMPIRE–SHAPUR–I, EMPIRE–KHOSROW–II, ARMENIA, ISLAM (other).
 
 **Rationale:** Scythian expedition as denial precedent—nomadic resistance to imperial logic.
 

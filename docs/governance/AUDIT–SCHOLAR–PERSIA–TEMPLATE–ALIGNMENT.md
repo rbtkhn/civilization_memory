@@ -45,7 +45,7 @@ Governance binding: Sovereignty–Compression–Exit-Building structure; DS, PAC
 
 ### III.B MEM–PERSIA Files (Index Reference)
 
-- MEM–PERSIA–CYRUS–I
+- MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II
 - MEM–PERSIA–DYNASTY–ACHAEMENID
 - MEM–PERSIA–DYNASTY–SASANIAN
 - MEM–PERSIA–GEO–CASPIAN

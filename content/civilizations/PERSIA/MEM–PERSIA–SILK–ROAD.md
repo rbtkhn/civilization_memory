@@ -1,10 +1,10 @@
-MEM–PERSIA–SILK–ROAD — v1.0
+MEM–PERSIA–SILK–ROAD — v1.1
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Rashid al-Din)
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN → ISLAMIC
 Subject: Silk Road — Persian Nexus, Transit Power, Intermediary Advantage
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,600
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
@@ -84,7 +83,15 @@ Silk Road routes would extend and parallel:
 The Royal Road runs 1,677 miles (2,699 km) with 111 stages. Couriers
 could cover it in seven days. The infrastructure—staging posts, guards,
 reliable passage—establishes the template for later caravan routes.
-What Darius built for administration becomes substrate for commerce.
+What Darius built for administration becomes substrate for commerce. Rashid al-Din's *Jami' al-Tawarikh* records the continuity of Persian nodal role under Mongol rule:
+
+> "The routes from the east to the west passed through the lands of
+> Iran. The caravans brought silk and spices from China and India,
+> and the kings of Iran took toll and gave protection. So it was
+> in the time of the ancients and so it continued under the Mongols."
+> — Rashid al-Din, *Jami' al-Tawarikh*, tr. W.M. Thackston; ARC–PERSIA-T-MEDIEVAL
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 
@@ -205,7 +212,7 @@ IV. GEO STRUCTURED DATA (LAYER 2)
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DARIUS–I — Royal Road; courier system; satrapal roads
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Royal Road; courier system; satrapal roads
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial extent; corridor control
 • MEM–PERSIA–GEO–PERSIAN–GULF — southern maritime alternative
 • MEM–PERSIA–GEO–INDIAN–OCEAN — maritime bypass
@@ -224,7 +231,7 @@ Cross-civilization:
 • MEM–RUSSIA–CHINA–SILK–ROAD — classical route context; Russia as latecomer
 • MEM–ROME–SYRIA — Silk Road interfaces; caravan networks
 
-Breaks if removed: MEM–PERSIA–DARIUS–I (Royal Road); MEM–PERSIA–PALMYRA (caravan node).
+Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (Royal Road); MEM–PERSIA–PALMYRA (caravan node).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)
@@ -241,6 +248,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Rashid al-Din, *Jami' al-Tawarikh*, tr. W.M. Thackston — ARC–PERSIA-T-MEDIEVAL; routes, Iran
 • Herodotus, *Histories*, 5.52 — Royal Road
 • Strabo, *Geographica*, Book XVI — Syria corridor
 • George Rawlinson, *The Seven Great Monarchies*, Vol. 5 (Persia) — boundaries
@@ -267,5 +275,5 @@ Status: ACTIVE
 **OPTION F** — Link to MEM–CHINA–DYNASTY–TANG or MEM–CHINA–XINJIANG (eastern terminus)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–SILK–ROAD — v1.0
+END OF FILE — MEM–PERSIA–SILK–ROAD — v1.1
 ────────────────────────────────────────────────────────────

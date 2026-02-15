@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–MARATHON — v2.0
+MEM–PERSIA–WAR–MARATHON — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: MAJOR · Encoding divergence, Mearsheimer structural, Layer 2
+Version: 2.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Battle of Marathon — Persian Expedition, Greek Defense, Encoding Divergence
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~1,800
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 SUBJECT TYPE DECLARATION:
 This MEM addresses a WELL-DOCUMENTED subject (Herodotus, primary).
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥2.
@@ -94,7 +93,15 @@ V. PERSIAN ENCODING — MINOR SETBACK
 For Persia, Marathon is not catastrophic. The empire does not depend
 on Athenian submission. The satrapies remain; the Royal Road functions;
 Darius rules. The expedition is a punitive raid that failed—not a
-strategic defeat.
+strategic defeat. Persian royal memory, as preserved in epic, does not
+rest on a single battle:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 Pierre Briant situates Marathon within Persian imperial logic:
 
@@ -137,17 +144,18 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ALEXANDER — Llewellyn-Jones Marathon quote; Persian encoding
 • MEM–PERSIA–IONIAN–REVOLT — causal chain; Athens supported revolt
 Other:
-• MEM–PERSIA–XERXES — inherits Greek question; Thermopylae, Salamis
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — inherits Greek question; Thermopylae, Salamis
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; Darius's reign
-• MEM–PERSIA–DARIUS–I — expedition under Darius; Royal Road, administration
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — expedition under Darius; Royal Road, administration
 
 ────────────────────────────────────────────────────────────
 IX. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Herodotus, *Histories*, V.99–100, VI.94–95, VI.112 — primary account
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020) — Persian encoding
 • Pierre Briant, *From Cyrus to Alexander* — imperial logic, Greek wars
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–MARATHON — v2.0
+END OF FILE — MEM–PERSIA–WAR–MARATHON — v2.1
 ────────────────────────────────────────────────────────────

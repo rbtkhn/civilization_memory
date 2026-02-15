@@ -7,6 +7,7 @@ Dates: c. 1219–1353
 Class: MEM (Civilizational Memory)
 Last Update: December 2025
 Word Count: ~2,000
+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -79,6 +80,17 @@ into power structures.
 
 Outcome:
 → Mongols rule Persia through Persian systems, not over them
+
+Rashid al-Din's *Jami' al-Tawarikh* (Compendium of Chronicles), produced under the Ilkhans, encodes the Mongol–Persian encounter from the Persianate chancery:
+
+> "When the Mongols came to the lands of Iran they laid waste to
+> many cities and slew many people. Then they established their
+> rule and took into their service the scribes and administrators
+> of the Persians, and the land was governed according to the
+> custom of the Persians."
+> — Rashid al-Din, *Jami' al-Tawarikh*, tr. W.M. Thackston; ARC–PERSIA-T-MEDIEVAL
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 V. BAGHDAD 1258: SYMBOLIC CIVILIZATIONAL RUPTURE
@@ -160,9 +172,16 @@ With Persia:
 → Mongol rule becomes briefly imperial but unsustainable
 
 ────────────────────────────────────────────────────────────
+IX. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Rashid al-Din, *Jami' al-Tawarikh* (Compendium of Chronicles), tr. W.M. Thackston — ARC–PERSIA-T-MEDIEVAL
+
+────────────────────────────────────────────────────────────
 X. FILE STATUS & INTEGRATION NOTES
 ────────────────────────────────────────────────────────────
 Status: LOCKED
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Rashid al-Din)
 
 Canonical Role:
 • Persia Civilization Core feeder
@@ -174,5 +193,5 @@ Read before:
 • CIV–PERSIA (Core Engine)
 
 ────────────────────────────────────────────────────────────
-END OF FILE
+END OF FILE — MEM–PERSIA–MONGOL–EMPIRE — v1.1
 ────────────────────────────────────────────────────────────

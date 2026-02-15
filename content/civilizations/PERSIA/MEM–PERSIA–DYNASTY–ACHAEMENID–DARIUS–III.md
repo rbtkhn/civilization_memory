@@ -1,10 +1,10 @@
-MEM–PERSIA–EMPIRE–DARIUS–III — v1.0
+MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Briant coherent strategy + Mearsheimer structural tempo
+Version: 1.2
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Regime: ACHAEMENID (TERMINAL)
 Subject: Darius III — Last King of Kings; Persian Encoding of Defeat
@@ -53,7 +53,15 @@ Plutarch records the Macedonian view:
 > — Plutarch, *Life of Alexander*, 18
 
 The Greek sources encode Persian decadence; Persian sources are
-absent. Darius enters the record through his enemies.
+absent. Darius enters the record through his enemies. The *Shahnameh*
+preserves the fall of the ancient kings in epic memory:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 ────────────────────────────────────────────────────────────
 III. ISSUS (333 BC) — THE FIRST COLLISION
@@ -172,9 +180,9 @@ IX. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ALEXANDER — Alexander defeats Darius; conquest narrative; unified Briant + structural tempo assessment
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Darius as terminal ruler
-• MEM–PERSIA–DARIUS–I — contrast: systematizer vs terminal king
-• MEM–PERSIA–XERXES — high-empire contrast
-• MEM–PERSIA–CYRUS–I — founding vs ending
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — contrast: systematizer vs terminal king
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — high-empire contrast
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — founding vs ending
 • MEM–PERSIA–PERSEPOLIS — Alexander burns Persepolis after Darius's death
 • MEM–PERSIA–MEDES — Ecbatana; Darius retreats there
 • MEM–PERSIA–EGYPT — lost before Gaugamela
@@ -193,6 +201,7 @@ Breaks if removed: MEM–PERSIA–WAR–ALEXANDER (conquest); MEM–PERSIA–DYN
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Arrian, *Anabasis of Alexander* — Issus, Gaugamela, Darius's death
 • Plutarch, *Life of Alexander* — court, character
 • Diodorus Siculus, *Bibliotheca historica* — campaign narrative
@@ -203,9 +212,9 @@ X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XI. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–DARIUS–III
+MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–DARIUS–III — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — v1.2
 ────────────────────────────────────────────────────────────

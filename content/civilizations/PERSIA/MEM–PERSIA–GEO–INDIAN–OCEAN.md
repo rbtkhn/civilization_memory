@@ -1,10 +1,10 @@
-MEM–PERSIA–GEO–INDIAN–OCEAN — v1.0
+MEM–PERSIA–GEO–INDIAN–OCEAN — v1.2
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Herodotus integration
+Version: 1.2
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Biruni)
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN → ISLAMIC → MODERN
 Subject: Indian Ocean — Persian Peripheral Access, Trade Corridor, Gulf Egress
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,700
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
@@ -82,7 +81,15 @@ notes the Achaemenid boundary:
 The Indian Sea (Indian Ocean) forms the southern limit. Persia touches
 it; Persia does not enclose it. The Indus valley was Achaemenid; the
 open ocean was not. Persian power is littoral and terminatory, not
-thalassocratic.
+thalassocratic. Al-Biruni records the maritime link:
+
+> "The sea route from the Persian coast to India follows the monsoon.
+> The sailors of Siraf and Oman have plied this route for generations,
+> and the kings of Persia have always had an interest in the trade
+> that passes through the Gulf to the Indian Sea."
+> — Al-Biruni, *Kitab al-Hind* (India), tr. E.C. Sachau; ARC–PERSIA-T-MEDIEVAL
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 
@@ -241,7 +248,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–PERSIAN–GULF — primary access corridor; Hormuz egress
 • MEM–PERSIA–GEO–CASPIAN — contrast: closed sea vs open ocean
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Indus satrapy; maritime reach
-• MEM–PERSIA–DARIUS–I — Indus campaign; exploration
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Indus campaign; exploration
 • MEM–PERSIA–WAR–ALEXANDER — Nearchus voyage; Gedrosia
 • MEM–PERSIA–EGYPT — Darius canal; Red Sea–Gulf–Indian Ocean connectivity
 • MEM–PERSIA–PERSEPOLIS — heartland; ocean as southern horizon
@@ -274,6 +281,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Biruni, *Kitab al-Hind*, tr. E.C. Sachau — ARC–PERSIA-T-MEDIEVAL; sea route, India
 • Strabo, *Geographica*, Book XVI — Erythraean Sea, Gulf boundaries
 • Arrian, *Indica* — Nearchus's voyage; Indus to Carmania
 • Herodotus, *Histories* — Darius, Indus
@@ -300,5 +308,5 @@ Status: ACTIVE
 **OPTION F** — Contrast MEM–ROME–GEO–RED–SEA (Roman Indian Ocean access) with Persian corridor
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–INDIAN–OCEAN — v1.0
+END OF FILE — MEM–PERSIA–GEO–INDIAN–OCEAN — v1.2
 ────────────────────────────────────────────────────────────

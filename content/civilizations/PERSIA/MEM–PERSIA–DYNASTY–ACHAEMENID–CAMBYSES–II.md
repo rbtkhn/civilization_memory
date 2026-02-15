@@ -1,10 +1,10 @@
-MEM–PERSIA–CAMBYSES — v1.0
+MEM–PERSIA–DYNASTY–ACHAEMENID–CAMBYSES–II — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Cambyses II — Egyptian Conquest, Succession Crisis, Herodotean Encoding
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~1,700
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -68,24 +67,36 @@ IV. SUCCESSION CRISIS — GAUMATA AND DARIUS
 Cambyses dies (522 BC)—by accident or assassination, sources differ.
 A usurper (Gaumata, or the real Bardiya) claims the throne. Darius
 suppresses the revolt and establishes his legitimacy (Behistun).
-Cambyses' reign ends in fracture; Darius restores order. MEM–PERSIA–DARIUS–I
+The Behistun inscription (Old Persian) records the crisis:
+
+> "King Darius says: That Cambyses, son of Cyrus, was of our dynasty...
+> There was a man, a Magian, named Gaumata... He lied to the people
+> saying: I am Bardiya, son of Cyrus, brother of Cambyses. Then all the
+> people became rebellious from Cambyses and went over to him, both
+> Persia and Media and the other provinces."  
+> — Darius I, Behistun Inscription (DB §11), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+فردوسی (شاهنامه، دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — ARC–PERSIA-T-MEDIEVAL.
+
+Cambyses' reign ends in fracture; Darius restores order. MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I
 documents the consolidation.
 
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–PERSIA–EGYPT — Cambyses' conquest; Egyptian satrapy
-• MEM–PERSIA–DARIUS–I — succession; Behistun; Darius as "shopkeeper"
-• MEM–PERSIA–CYRUS–I — Cambyses as son; continuity
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — succession; Behistun; Darius as "shopkeeper"
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cambyses as son; continuity
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Cambyses as second king
 
 ────────────────────────────────────────────────────────────
 VI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (DB §11), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT; Gaumata, succession crisis
 • Herodotus, *Histories*, III.1–38 — Cambyses, Egypt, madness
 • Pierre Briant, *From Cyrus to Alexander* — succession crisis
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources* — Egyptian evidence
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–CAMBYSES — v1.0
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–CAMBYSES–II — v1.1
 ────────────────────────────────────────────────────────────

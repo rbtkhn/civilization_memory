@@ -1,11 +1,11 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID — v1.3
+MEM–PERSIA–DYNASTY–ACHAEMENID — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
-Supersedes: v1.2
-Upgrade Type: ADDITIVE · Herodotus integration · Herodotus India (III.94)
+Version: 1.4
+Supersedes: v1.3
+Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
 Dates: c. 550–330 BC
@@ -36,7 +36,17 @@ Key origin features:
 • Rapid incorporation of Babylonian, Anatolian, and Levantine cores
 • Legitimacy through liberation narratives
 
-Empire expands by **co-opting existing orders**, not destroying them.
+Empire expands by **co-opting existing orders**, not destroying them. The
+Cyrus Cylinder (Akkadian, 539 BCE) encodes the founding logic:
+
+> "I collected together all of their people and returned them to their
+> settlements, and the gods of the land of Sumer and Akkad which
+> Nabonidus had brought into Shuanna, at the command of Marduk, the
+> great lord, I returned them unharmed to their cells, in the sanctuaries
+> that make them happy."  
+> — Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum); ARC–PERSIA-T-ANCIENT
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. TERRITORIAL SCALE & SATRAPAL DESIGN
@@ -144,9 +154,10 @@ VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 VIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of peoples and gods
 • Herodotus, *Histories*, III.89, III.94 (India satrapy) — tribute, imperial extent
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — satrapal design, cavalry; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.3
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.4
 ────────────────────────────────────────────────────────────

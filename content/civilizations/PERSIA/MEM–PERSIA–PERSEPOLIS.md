@@ -1,10 +1,10 @@
-MEM–PERSIA–PERSEPOLIS — v1.0
+MEM–PERSIA–PERSEPOLIS — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Persepolis — Ceremonial Capital and Architectural Propaganda
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,300
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 SUBJECT TYPE DECLARATION:
 This MEM addresses a WELL-DOCUMENTED subject (inscriptions, reliefs, archaeology).
 Applied requirements: PRIMARY ≥2, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1.
@@ -29,7 +28,14 @@ is not merely a city but **constructed majesty**—the place where the
 King of Kings received tribute and displayed the order of the realm.
 
 For Persia, Persepolis represents legitimacy made visible. Alexander's
-burning (330 BC) ends the Achaemenid ritual center but not its memory.
+burning (330 BC) ends the Achaemenid ritual center but not its memory. Ferdowsi encodes the durability of royal memory:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 Contradictions are preserved without synthesis.
 
@@ -130,12 +136,12 @@ VIII. CITY STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DARIUS–I — founder of Persepolis construction
-• MEM–PERSIA–XERXES — extends complex; Gate of All Nations
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — founder of Persepolis construction
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — extends complex; Gate of All Nations
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Persepolis as dynastic seat
 • MEM–PERSIA–WAR–ALEXANDER — Alexander burns Persepolis 330 BC
-• MEM–PERSIA–EMPIRE–DARIUS–III — last king to hold Persepolis
-• MEM–PERSIA–CYRUS–I — Pasargadae contrast (Cyrus's capital)
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — last king to hold Persepolis
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Pasargadae contrast (Cyrus's capital)
 • MEM–PERSIA–MEDES — Ecbatana as alternate capital
 • MEM–PERSIA–EGYPT — tribute-bearers in Apadana reliefs
 • MEM–PERSIA–ZOROASTER — ritual, Nowruz
@@ -145,11 +151,12 @@ GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — regional context
 • MEM–PERSIA–ARMENIA — tribute delegation in reliefs
 
-Breaks if removed: MEM–PERSIA–DARIUS–I (foundation); MEM–PERSIA–WAR–ALEXANDER (destruction).
+Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (foundation); MEM–PERSIA–WAR–ALEXANDER (destruction).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Pierre Briant, *From Cyrus to Alexander* — ceremonial function
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
 • Matthew Canepa, *The Two Eyes of the Earth* — destruction, later reception
@@ -163,5 +170,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–PERSEPOLIS
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–PERSEPOLIS — v1.0
+END OF FILE — MEM–PERSIA–PERSEPOLIS — v1.1
 ────────────────────────────────────────────────────────────

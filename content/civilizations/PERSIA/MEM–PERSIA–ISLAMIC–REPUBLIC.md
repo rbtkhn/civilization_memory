@@ -1,7 +1,9 @@
-MEM–PERSIA–ISLAMIC–REPUBLIC — v1.0
+MEM–PERSIA–ISLAMIC–REPUBLIC — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Subject: Islamic Republic of Iran
 Dates: 1979 AD–present
@@ -29,6 +31,8 @@ Core features:
 • Fusion of clerical legitimacy with state power
 
 Ideology serves sovereignty, not the reverse.
+
+فردوسی (شاهنامه، دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. SHI’A GOVERNANCE ARCHITECTURE
@@ -98,5 +102,10 @@ VIII. CONTINUITY INSIGHTS (RAW)
 • Persia survives by redesigning the state under siege.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ISLAMIC–REPUBLIC — v1.0
+IX. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; rise of Islam
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–ISLAMIC–REPUBLIC — v1.1
 ────────────────────────────────────────────────────────────

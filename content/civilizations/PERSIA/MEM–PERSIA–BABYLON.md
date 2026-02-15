@@ -1,10 +1,10 @@
-MEM–PERSIA–BABYLON — v1.0
+MEM–PERSIA–BABYLON — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Herodotus verbatim integration
+Version: 1.2
+Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Cyrus's Conquest of Babylon — Liberation Narrative, Integrative Legitimacy
@@ -65,6 +65,17 @@ charter of tolerant kingship. The Cylinder encodes the **liberation
 narrative** that Persia will deploy across the empire: we restore
 order; we protect your gods; we govern through recognition.
 
+Cyrus speaks in the first person on the cylinder:
+
+> "I am Cyrus, king of the universe, the great king, the powerful king,
+> king of Babylon, king of Sumer and Akkad, king of the four quarters
+> of the world... When I went as harbinger of peace into Babylon I
+> founded my sovereign residence within the palace amid celebration
+> and rejoicing."  
+> — Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum); ARC–PERSIA-T-ANCIENT
+
+Ferdowsi's prologue: به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL.
+
 ────────────────────────────────────────────────────────────
 IV. INTEGRATIVE LEGITIMACY
 ────────────────────────────────────────────────────────────
@@ -77,18 +88,18 @@ satrapies.
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–CYRUS–I — Cyrus; integrative conquest; Llewellyn-Jones quote
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cyrus; integrative conquest; Llewellyn-Jones quote
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Mesopotamian incorporation
-• MEM–PERSIA–DARIUS–I — Babylon as satrapy; later administration
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Babylon as satrapy; later administration
 
 ────────────────────────────────────────────────────────────
 VI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
-• Cyrus Cylinder — liberation narrative; restoration
+• Cyrus Cylinder (539 BCE) — liberation narrative; restoration; tr. Irving Finkel (British Museum); ARC–PERSIA-T-ANCIENT
 • Herodotus, *Histories*, I.178–191 (I.190 verbatim) — conquest account
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources* — Nabonidus Chronicle
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–BABYLON — v1.1
+END OF FILE — MEM–PERSIA–BABYLON — v1.2
 ────────────────────────────────────────────────────────────

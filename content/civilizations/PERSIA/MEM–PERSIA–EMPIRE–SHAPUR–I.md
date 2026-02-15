@@ -1,10 +1,10 @@
-MEM–PERSIA–EMPIRE–SHAPUR–I — v1.0
+MEM–PERSIA–EMPIRE–SHAPUR–I — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Regime: SASANIAN
 Subject: Shapur I — King of Kings, Captor of Valerian
@@ -13,7 +13,6 @@ Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,400
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -66,7 +65,15 @@ records the triumph:
 
 The precision—"with our own hands"—is propaganda, but the capture is
 historical fact. No Roman emperor had ever been taken alive by a
-foreign enemy.
+foreign enemy. Al-Tabari's chronicle records the Persian triumph from the Persianate tradition:
+
+> "When Shapur the king of kings went forth against the Romans and
+> fought them at Edessa, he defeated them and took their emperor
+> captive. He led him in bonds through the lands and the Romans
+> sent envoys to ransom him, but Shapur would not release him."
+> — Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY); ARC–PERSIA-T-MEDIEVAL
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 Edward Gibbon records the civilizational shock:
 
@@ -152,7 +159,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–ZOROASTER — sacral kingship, khvarenah
 • MEM–PERSIA–EMPIRE–KHOSROW–II — later Sasanian overreach (contrast)
 • MEM–PERSIA–ARMENIA — contested buffer under Shapur
-• MEM–PERSIA–CYRUS–I — imperial continuity
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial continuity
 • MEM–PERSIA–DYNASTY–ACHAEMENID — restoration claims
 • MEM–PERSIA–ISLAM — post-Sasanian absorption
 • MEM–PERSIA–GEO–CASPIAN — heartland security
@@ -176,6 +183,7 @@ X. FIGURE STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; Shapur, Valerian
 • Res Gestae Divi Saporis (Naqsh-e Rostam) — Primary Persian source
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* — Roman humiliation
 • Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* — Modern synthesis
@@ -190,5 +198,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–SHAPUR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–SHAPUR–I — v1.0
+END OF FILE — MEM–PERSIA–EMPIRE–SHAPUR–I — v1.1
 ────────────────────────────────────────────────────────────

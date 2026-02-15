@@ -1,11 +1,11 @@
-CIV–ARC–PERSIA — v3.0
+CIV–ARC–PERSIA — v3.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: CIV–ARC–PERSIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.1
+Supersedes: CIV–ARC–PERSIA v3.0
+Upgrade Type: ADDITIVE · ARC-T-MODERN (PERSIAN REFERENCE)
 Civilization: PERSIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
@@ -17,6 +17,8 @@ I. PURPOSE & SCOPE
 ARC governs author admissibility and temporal precedence for
 MEM–PERSIA files only. Quotation quantity and quality are
 governed by CIV–MEM–TEMPLATE.
+
+**Indigenous-language quote requirement (MEM–PERSIA):** Each MEM–PERSIA file must contain at least one verbatim quote (≥25 words) from an indigenous-language source listed in ARC–PERSIA § III: Avesta/Gathas, Behistun (Darius I), Cyrus Cylinder, Shahnameh (Ferdowsi), Siyasatnama (Nizam al-Mulk), Jami' al-Tawarikh (Rashid al-Din), Al-Tabari (*Ta'rikh*), Al-Biruni, Ibn Khaldun, or ARC-T-MODERN Persian reference. English translation with clear source attribution is sufficient.
 
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
@@ -86,6 +88,16 @@ ARC-T-MODERN:
 • Abbas Amanat (b. 1947) — Pivot of the Universe; Iran: A Modern History
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
 
+ARC-T-MODERN (PERSIAN REFERENCE):
+• دایرةالمعارف فارسی — The Persian Encyclopedia; 3 vols, 43,000 entries (Iran, Islam, world); Persian-language; published 1966–1996; Amir Kabir reprint 2002. Comprehensive Persian reference.
+• دانشنامه ایران و اسلام — Encyclopedia of Iran and Islam; Persian-language; expanded from Encyclopaedia of Islam with Iran-focused articles; publication from 1975 (suspended 1980–1992). Iran and Islamic civilizational reference.
+• دانشنامه زبان و ادب فارسی — Encyclopaedia of Persian Language and Literature; 12 vols; Tehran; Persian-language. Reference on Persian language, literature, grammar, lexicography.
+• دایرةالمعارف بزرگ اسلامی — Great Islamic Encyclopaedia; multi-volume; Persian-language; Center for the Great Islamic Encyclopaedia (Iran). Islamic world including Persian history and culture.
+
+Publishers of Persian reference works (when citing editions):
+• امیرکبیر — Persian Encyclopedia and other reference editions
+• مرکز دایرةالمعارف بزرگ اسلامی — Great Islamic Encyclopaedia
+
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 
 ────────────────────────────────────────────────────────────
@@ -129,8 +141,8 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.0)
-• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.0)
+• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.1)
+• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.1)
 
 ────────────────────────────────────────────────────────────
 IX. VERSIONING
@@ -233,5 +245,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   Editorial Note: US-based; centrist; broad Middle East coverage
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–PERSIA — v3.0
+END OF FILE — CIV–ARC–PERSIA — v3.1
 ────────────────────────────────────────────────────────────

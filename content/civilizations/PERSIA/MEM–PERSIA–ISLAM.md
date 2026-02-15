@@ -1,7 +1,9 @@
-MEM–PERSIA–ISLAM — v1.0
+MEM–PERSIA–ISLAM — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Avesta/Gathas)
 Civilization: PERSIA
 Subject: Islam in Persia
 Dates: c. 650 AD–present
@@ -32,7 +34,15 @@ Key dynamics:
 • Persian language survives beneath Arabic liturgy
 • Zoroastrian state collapses; Persian identity does not
 
-Military defeat does not equal civilizational submission.
+Military defeat does not equal civilizational submission. The Gathas encode the pre-Islamic moral order that Persian Islam would later absorb and reframe:
+
+> "Now the two spirits have come together at the beginning, to
+> proclaim life and non-life, and how the world shall be at the end:
+> for the deceitful the worst existence, for the truthful the best
+> mind."
+> — Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975); ARC–PERSIA-T-ANCIENT
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. PERSIANIZATION OF ISLAM
@@ -92,5 +102,10 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Islam in Persia is a civilizational instrument, not a civilizational reset.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ISLAM — v1.0
+VIII. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Avesta, Yasna 30 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; pre-Islamic moral order
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–ISLAM — v1.1
 ────────────────────────────────────────────────────────────

@@ -1,10 +1,10 @@
-MEM–PERSIA–EGYPT — v1.0
+MEM–PERSIA–EGYPT — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Egypt as Persian Satrapy — Conquest, Incorporation, Revolt
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,300
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 SUBJECT TYPE DECLARATION:
 This MEM addresses a WELL-DOCUMENTED subject (Herodotus, inscriptions).
 Applied requirements: PRIMARY ≥3, CONTEXTUAL ≥2, SECONDARY ≥3, CRITICAL ≥1.
@@ -50,7 +49,15 @@ Herodotus records the campaign:
 
 The conquest is brutal but not annihilating. Cambyses assumes the
 Egyptian royal titulary; he presents himself as legitimate successor
-to the pharaohs. Persian propaganda adapts to local expectation.
+to the pharaohs. Persian propaganda adapts to local expectation. The Behistun inscription
+(Old Persian) lists Egypt among the lands under Darius:
+
+> "King Darius says: These are the countries which came to me; by the
+> favor of Ahuramazda I was king of them: Persia, Elam, Babylonia,
+> Assyria, Arabia, Egypt, Media, Armenia, Cappadocia, Sardis, Ionia..."
+> — Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. INCORPORATION — SATRAPY AND TEMPLE POLICY
@@ -139,9 +146,9 @@ VIII. GEO STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–CYRUS–I — Cambyses as son; integrative precedent
-• MEM–PERSIA–DARIUS–I — suppresses revolt; canal; satrapal consolidation
-• MEM–PERSIA–XERXES — Egyptian revolt at accession
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cambyses as son; integrative precedent
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — suppresses revolt; canal; satrapal consolidation
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Egyptian revolt at accession
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Egypt as key satrapy
 • MEM–PERSIA–WAR–ALEXANDER — Alexander takes Egypt 332 BC
 • MEM–PERSIA–PERSEPOLIS — Egyptian tribute-bearers in Apadana reliefs
@@ -158,11 +165,12 @@ Cross-civilization:
 • MEM–ROME–GEO–SYRIA — Levant corridor to Egypt
 • MEM–FRANCIA–EGYPT — Napoleon's Egypt (different civilizational encounter)
 
-Breaks if removed: MEM–PERSIA–CYRUS–I (Cambyses); MEM–PERSIA–DYNASTY–ACHAEMENID (satrapy context).
+Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (Cambyses); MEM–PERSIA–DYNASTY–ACHAEMENID (satrapy context).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT; Egypt among lands
 • Herodotus, *Histories* — Cambyses, Egyptian campaigns
 • Pierre Briant, *From Cyrus to Alexander* — satrapal administration
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
@@ -176,5 +184,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–EGYPT
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EGYPT — v1.0
+END OF FILE — MEM–PERSIA–EGYPT — v1.1
 ────────────────────────────────────────────────────────────

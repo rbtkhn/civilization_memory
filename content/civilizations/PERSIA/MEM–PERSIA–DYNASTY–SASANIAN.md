@@ -1,7 +1,9 @@
-MEM–PERSIA–DYNASTY–SASANIAN — v1.0
+MEM–PERSIA–DYNASTY–SASANIAN — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Subject: Sasanian Dynasty
 Dates: 224–651 AD
@@ -56,7 +58,14 @@ Sasanian kingship fused:
 
 The shahanshah embodied cosmic order.
 
-Political authority was inseparable from metaphysical legitimacy.
+Political authority was inseparable from metaphysical legitimacy. Ferdowsi's epic encodes the persistence of royal memory across dynasties:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 ────────────────────────────────────────────────────────────
 V. INSTITUTIONAL FOUNDATIONS
@@ -89,6 +98,13 @@ Sasanian administrative, fiscal, and court models were absorbed into:
 Empire fell; civilization persisted.
 
 ────────────────────────────────────────────────────────────
+VIII. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
+• Touraj Daryaee, *Sasanian Persia* — dynasty, ideology
+• Matthew Canepa, *The Two Eyes of the Earth* — sacral kingship
+
+────────────────────────────────────────────────────────────
 VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia restores itself through ideological revival.
@@ -98,5 +114,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 • The Sasanians made Persian sovereignty hard, formal, and transmissible.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.0
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.1
 ────────────────────────────────────────────────────────────

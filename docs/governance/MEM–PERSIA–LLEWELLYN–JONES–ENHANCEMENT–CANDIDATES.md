@@ -12,7 +12,7 @@
 
 ## HIGH-PRIORITY CANDIDATES
 
-### 1. MEM–PERSIA–CYRUS–I
+### 1. MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II
 
 **Thematic fit:** Cyrus as integrative conqueror; propaganda/liberation; Cyrus Cylinder; Babylonian conquest; tolerance rhetoric; tribal confederacy.
 
@@ -23,7 +23,7 @@
 
 **Book quote target:** *Persians* ch. on Babylon conquest, Cyrus Cylinder—liberation rhetoric, Marduk blessing. Extract verbatim from text.
 
-**Enhancement rationale:** MEM–PERSIA–CYRUS–I currently has no modern ARC quote; Llewellyn-Jones supplies "Persian version" framing for integrative conquest and propaganda.
+**Enhancement rationale:** MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II currently has no modern ARC quote; Llewellyn-Jones supplies "Persian version" framing for integrative conquest and propaganda.
 
 ---
 
@@ -117,7 +117,7 @@
 
 | MEM | Section | Quote Type | Priority |
 |-----|---------|------------|----------|
-| MEM–PERSIA–CYRUS–I | III or IV | Propaganda, Cylinder, liberation | HIGH |
+| MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II | III or IV | Propaganda, Cylinder, liberation | HIGH |
 | MEM–PERSIA–DYNASTY–ACHAEMENID | III or V | Satraps, *laisser-faire*, cavalry | HIGH |
 | MEM–PERSIA–WAR–ALEXANDER | I or II | Marathon minor; Persian encoding | HIGH |
 | MEM–PERSIA–WAR–CARRHAE | III | Parthian shot, cavalry tradition | HIGH |

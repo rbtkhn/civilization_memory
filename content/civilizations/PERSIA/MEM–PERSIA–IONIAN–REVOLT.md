@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: MAJOR · WAR corpus arc, Herodotus verbatim, satrapal vs imperial
+Version: 2.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Ionian Revolt — Satrapal Rebellion, Athenian Involvement, Marathon Causation
@@ -56,7 +56,15 @@ records the appeal and its consequence:
 
 Herodotus frames Athenian involvement as fateful. From Persia's view,
 external intervention transforms a satrapal rebellion into an affront
-requiring imperial response.
+requiring imperial response. Behistun (Old Persian) records the empire
+Darius held—including Ionia—and the royal claim rebels defied:
+
+> "King Darius says: These are the countries which came to me; by the
+> favor of Ahuramazda I was king of them: Persia, Elam, Babylonia,
+> Assyria, Arabia, Egypt, Media, Armenia, Cappadocia, Sardis, Ionia..."
+> — Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. SARDIS TAKEN AND BURNT
@@ -140,19 +148,20 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–THERMOPYLAE — Xerxes inherits; campaign sequence
 • MEM–PERSIA–WAR–ALEXANDER — Greek–Persian interface; encoding contrast
 Other:
-• MEM–PERSIA–XERXES — Greek question; Thermopylae, Salamis
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Greek question; Thermopylae, Salamis
 • MEM–PERSIA–LYDIA — Sardis sacked; Royal Road terminus
 • MEM–PERSIA–DYNASTY–ACHAEMENID — satrapal governance
-• MEM–PERSIA–DARIUS–I — expedition authority; Royal Road, administration
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — expedition authority; Royal Road, administration
 
 Breaks if removed: MEM–PERSIA–WAR–MARATHON (causal chain).
 
 ────────────────────────────────────────────────────────────
 IX. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT; lands including Ionia
 • Herodotus, *Histories*, V.97–126, VI.1–32 — Ionian Revolt, Sardis, Lade
 • Pierre Briant, *From Cyrus to Alexander* — satrapal administration, imperial response
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–IONIAN–REVOLT — v2.0
+END OF FILE — MEM–PERSIA–IONIAN–REVOLT — v2.1
 ────────────────────────────────────────────────────────────

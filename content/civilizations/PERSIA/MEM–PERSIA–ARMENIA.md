@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · Tacitus integration (cross-ARC)
+Version: 1.3
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID → PARTHIAN → SASANIAN
 Subject: Armenia as Persian Buffer, Client Kingdom, and Imperial Seam
@@ -50,6 +50,15 @@ Persia and Rome both seek influence, not occupation.
 III. IRANIAN SPHERE — DYNASTIC AND CULTURAL TIES
 ────────────────────────────────────────────────────────────
 Under the Achaemenids, Armenia is integrated into imperial geography.
+The Behistun inscription (Old Persian) names Armenia among the lands:
+
+> "King Darius says: These are the countries which came to me; by the
+> favor of Ahuramazda I was king of them: Persia, Elam, Babylonia,
+> Assyria, Arabia, Egypt, Media, Armenia, Cappadocia, Sardis, Ionia..."
+> — Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
+
 Herodotus records its place on the Royal Road:
 
 > "From the Halys to the border of Armenia there are twenty-eight
@@ -178,7 +187,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–CASPIAN — northern approach; Caucasian context
 • MEM–PERSIA–ZOROASTER — religious contest (Christian vs Zoroastrian)
 • MEM–PERSIA–ISLAM — post-conquest Armenian fate
-• MEM–PERSIA–CYRUS–I — imperial tolerance model
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial tolerance model
 
 Cross-civilization (≥3):
 • MEM–ROME–ARMENIA — Roman perspective; buffer logic
@@ -199,6 +208,7 @@ XI. GEO STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (DB §6), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT; Armenia among lands
 • Strabo, *Geographica*, Book XI — Geographic definition
 • Edward Gibbon, *Decline and Fall* — Perpetual contention; client oscillation
 • Theodor Mommsen, *The Provinces of the Roman Empire* — Roman restraint logic
@@ -213,5 +223,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–ARMENIA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ARMENIA — v1.2
+END OF FILE — MEM–PERSIA–ARMENIA — v1.3
 ────────────────────────────────────────────────────────────

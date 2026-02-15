@@ -13,7 +13,7 @@ Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 Supersedes: None (initial)
 Derived from: CIV–SCHOLAR–TEMPLATE v3.0
 Governed by: CIV–SCHOLAR–PROTOCOL v3.0
-ARC Reference: CIV–ARC–PERSIA v2.0
+ARC Reference: CIV–ARC–PERSIA v3.1
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 
@@ -108,7 +108,7 @@ XI. OGE SPECIFICATION (EMBEDDED)
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § XI.A)
 
-LEARN mode uses OGE to direct discovery. Exactly 8 options (A–H) per substantive turn; 6–10 words each, one line; concrete anchor per option. A/B/C: load MIND when selected; response 100–200 words, frame/voice per MIND. D: multi-mind (M→M'→B→M wrap-up). E: traverse backward (same-civ MEM); F: traverse forward (same-civ MEM); G: traverse cross-civ (cross-civ MEM). H: synthesis + recap + follow-on (b)/(c)/(a). POST-BARNES: M/M response options. Categories: Ingestion, Exploration, Analysis, Synthesis, Transition, Observation.
+LEARN mode uses OGE to direct discovery. Exactly 8 options (A–H) per substantive turn; 10–20 words each, one line; concrete anchor per option. A/B/C: load MIND when selected; response 100–200 words, frame/voice per MIND. D: multi-mind (M→M'→B→M wrap-up). E: traverse backward (same-civ MEM); F: traverse forward (same-civ MEM); G: traverse cross-civ (cross-civ MEM). H: synthesis + recap + follow-on (b)/(c)/(a). POST-BARNES: M/M response options. Categories: Ingestion, Exploration, Analysis, Synthesis, Transition, Observation.
 
 ────────────────────────────────────────────────────────────
 XII. VERSIONING & GOVERNANCE
@@ -138,7 +138,7 @@ XV. INITIAL STATE
 
 Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–PERSIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
-Source MEMs available (CIV–INDEX–PERSIA, 34 total): Cyrus-I, Dynasty–Achaemenid, Dynasty–Sasanian, Medes, Satrapies; Zoroaster, Darius-I; Islam, Islamic–Republic; GEO–Caspian, GEO–Persian–Gulf, GEO–Indian–Ocean, GEO–Levant, Silk–Road, Armenia, Persepolis, Egypt; Babylon, Lydia, Cambyses, Xerxes, Empire–Darius–III, Empire–Ardashir–I, Empire–Shapur–I, Empire–Khosrow–II; Ionian–Revolt, WAR–Marathon, WAR–Thermopylae, WAR–Scythian, WAR–Alexander, WAR–Carrhae, WAR–Rome; Mongol–Empire, Palmyra.
+Source MEMs available (CIV–INDEX–PERSIA, 34 total): Cyrus-I, Dynasty–Achaemenid, Dynasty–Sasanian, Medes, Satrapies; Zoroaster, Darius-I; Islam, Islamic–Republic; GEO–Caspian, GEO–Persian–Gulf, GEO–Indian–Ocean, GEO–Levant, Silk–Road, Armenia, Persepolis, Egypt; Babylon, Lydia, Dynasty–Achaemenid–Cambyses–II, Dynasty–Achaemenid–Xerxes, Dynasty–Achaemenid–Darius–III, Empire–Ardashir–I, Empire–Shapur–I, Empire–Khosrow–II; Ionian–Revolt, WAR–Marathon, WAR–Thermopylae, WAR–Scythian, WAR–Alexander, WAR–Carrhae, WAR–Rome; Mongol–Empire, Palmyra.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)

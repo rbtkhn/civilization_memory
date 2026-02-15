@@ -56,13 +56,13 @@ III. DYNASTIC MEMORY FILES
 ────────────────────────────────────────────────────────────
 IV. FOUNDATIONAL FIGURES & IDEOLOGICAL ORIGINS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–CYRUS–I.md  
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II.md  
   (Imperial founder, tolerance doctrine, sovereignty-with-restraint)
 
 • MEM–PERSIA–ZOROASTER.md  
   (Moral–cosmic legitimacy engine, endurance theology)
 
-• MEM–PERSIA–DARIUS–I.md  
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I.md  
   (Imperial systematizer; satrapal design; Royal Road; Behistun)
 
 ────────────────────────────────────────────────────────────
@@ -147,11 +147,11 @@ WAR–ROME at v2.0; GEO–CASPIAN v2.0 (Scythian integration).
 IX. IMPERIAL FIGURES
 ────────────────────────────────────────────────────────────
 Achaemenid:
-• MEM–PERSIA–CAMBYSES.md  
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CAMBYSES–II.md  
   (Egyptian conquest; succession crisis; Herodotean encoding)
-• MEM–PERSIA–XERXES.md  
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES.md  
   (Greek wars; Thermopylae, Salamis; Persian encoding)
-• MEM–PERSIA–EMPIRE–DARIUS–III.md  
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III.md  
   (Terminal Achaemenid; Issus, Gaugamela; legitimacy collapse)
 
 Sasanian:

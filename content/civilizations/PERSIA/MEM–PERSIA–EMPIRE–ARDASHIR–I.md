@@ -1,10 +1,10 @@
-MEM–PERSIA–EMPIRE–ARDASHIR–I — v1.1
+MEM–PERSIA–EMPIRE–ARDASHIR–I — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Llewellyn-Jones integration
+Version: 1.2
+Upgrade Type: ADDITIVE · indigenous-language quote (Avesta/Gathas)
 Civilization: PERSIA
 Regime: SASANIAN (FOUNDING)
 Subject: Ardashir I — Founder of Sasanian Dynasty, Restorer of Eranshahr
@@ -13,7 +13,6 @@ Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,200
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -45,7 +44,15 @@ Pierre Briant situates the ideological claim:
 > — Pierre Briant, *From Cyrus to Alexander*
 
 Ardashir claims descent from mythical Iranian shahs and portrays
-himself as worshipper of Ahura Mazda with divine royal glory (khvarenah).
+himself as worshipper of Ahura Mazda with divine royal glory (khvarenah). The Gathas frame the moral order the Sasanians claimed to restore:
+
+> "Now the two spirits have come together at the beginning, to
+> proclaim life and non-life, and how the world shall be at the end:
+> for the deceitful the worst existence, for the truthful the best
+> mind."
+> — Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975); ARC–PERSIA-T-ANCIENT
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 Lloyd Llewellyn-Jones notes the political charge of pre-Islamic reception:
 
@@ -157,7 +164,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–EMPIRE–SHAPUR–I — son; inherits consolidated state
 • MEM–PERSIA–DYNASTY–ACHAEMENID — restoration claims
 • MEM–PERSIA–ZOROASTER — sacral kingship, khvarenah
-• MEM–PERSIA–CYRUS–I — imperial continuity invoked
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial continuity invoked
 • MEM–PERSIA–WAR–ROME — Sasanian phase initiated
 • MEM–PERSIA–WAR–CARRHAE — Parthian precedent (Ardashir replaces Parthians)
 • MEM–PERSIA–ARMENIA — Arsacid dynastic ties severed
@@ -183,6 +190,7 @@ X. FIGURE STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Avesta, Yasna 30 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; truth vs deceit
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* — Restoration ideology
 • Pierre Briant, *From Cyrus to Alexander* — Achaemenid continuity claims
 • Touraj Daryaee, *Sasanian Persia: The Rise and Fall of an Empire* — Dynastic shift, consolidation
@@ -197,5 +205,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–ARDASHIR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–ARDASHIR–I — v1.1
+END OF FILE — MEM–PERSIA–EMPIRE–ARDASHIR–I — v1.2
 ────────────────────────────────────────────────────────────

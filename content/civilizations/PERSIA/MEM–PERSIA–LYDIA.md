@@ -1,10 +1,10 @@
-MEM–PERSIA–LYDIA — v1.0
+MEM–PERSIA–LYDIA — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
 Civilization: PERSIA
 Regime: ACHAEMENID (conquest)
 Subject: Lydia — Croesus, Cyrus's Western Conquest, Royal Road Origin
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~1,700
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -59,6 +58,15 @@ extinguishes the flames; Cyrus, moved, spares him:
 Cyrus does not execute the conquered king. He incorporates him. Croesus
 becomes counselor—the template for Persian integrative conquest. The
 pattern prefigures Babylon: conquer, then recognize; do not annihilate.
+The Cyrus Cylinder (539 BCE) expresses the same logic of restoration:
+
+> "When I went as harbinger of peace into Babylon I founded my sovereign
+> residence within the palace amid celebration and rejoicing. Marduk, the
+> great lord, bestowed on me as my destiny the great magnanimity of one
+> who loves Babylon, and I every day sought him out in awe."  
+> — Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum); ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 IV. SARDIS — ROYAL ROAD WESTERN TERMINUS
@@ -83,17 +91,18 @@ conquest that Persian memory preserves.
 ────────────────────────────────────────────────────────────
 VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–CYRUS–I — Cyrus and Croesus; integrative sovereignty
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cyrus and Croesus; integrative sovereignty
 • MEM–PERSIA–SILK–ROAD — Royal Road; Sardis–Susa
-• MEM–PERSIA–DARIUS–I — Royal Road formalization; courier system
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Royal Road formalization; courier system
 • MEM–PERSIA–IONIAN–REVOLT — Ionian Greeks under Lydian/Persian rule
 
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; peace, sovereignty
 • Herodotus, *Histories*, I.6, I.86–87 — Croesus, Cyrus, Sardis
 • Pierre Briant, *From Cyrus to Alexander* — western expansion
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–LYDIA — v1.0
+END OF FILE — MEM–PERSIA–LYDIA — v1.1
 ────────────────────────────────────────────────────────────

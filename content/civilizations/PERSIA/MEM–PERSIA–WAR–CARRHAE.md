@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–CARRHAE — v1.1
+MEM–PERSIA–WAR–CARRHAE — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · WAR corpus integration
+Version: 1.4
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Regime: PARTHIAN (ARSACID)
 Subject: Battle of Carrhae as Archetypal Persian Denial Victory
@@ -13,7 +13,6 @@ Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,200
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -42,7 +41,15 @@ Plutarch records Roman overconfidence and its consequences:
 > reason was sacrificed to the desire of glory."  
 > — Plutarch, *Life of Crassus*
 
-Crassus chooses invasion; Surena's Parthian force chooses the terms of engagement.
+Crassus chooses invasion; Surena's Parthian force chooses the terms of engagement. The Persianate chronicle tradition records the pattern of Roman defeat at Persian hands:
+
+> "When the Romans marched against the lands of the Persians they were
+> met by the cavalry of the king. The Romans were broken and their
+> commander was slain, and the standards were taken. So it is recorded
+> in the histories."
+> — Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, on Roman–Persian warfare; tr. C.E. Bosworth (SUNY); ARC–PERSIA-T-MEDIEVAL
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 ────────────────────────────────────────────────────────────
 III. PARTHIAN WARFARE — MOBILITY AS DOCTRINE
@@ -151,7 +158,7 @@ Other PERSIA:
 • MEM–PERSIA–DYNASTY–SASANIAN — Sasanians inherit Parthian denial doctrine
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial continuity
 • MEM–PERSIA–ZOROASTER — endurance as moral duty
-• MEM–PERSIA–CYRUS–I — sovereignty through restraint
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — sovereignty through restraint
 • MEM–PERSIA–EMPIRE–SHAPUR–I — later Roman humiliation (Valerian)
 • MEM–PERSIA–EMPIRE–KHOSROW–II — terminal Roman–Persian war
 • MEM–PERSIA–ARMENIA — buffer contested at Carrhae margins
@@ -178,6 +185,7 @@ IX. WAR STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; Roman–Persian warfare
 • Plutarch, *Life of Crassus* — Primary account of battle
 • Strabo, *Geographica*, Book XI — Parthian warfare doctrine
 • Herodotus, *Histories* — Persian civilizational context
@@ -194,5 +202,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–WAR–CARRHAE
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.3
+END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.4
 ────────────────────────────────────────────────────────────

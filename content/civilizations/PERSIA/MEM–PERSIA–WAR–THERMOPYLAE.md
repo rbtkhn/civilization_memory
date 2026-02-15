@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–THERMOPYLAE — v2.0
+MEM–PERSIA–WAR–THERMOPYLAE — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: MAJOR · Alexander-inversion theme, Layer 2
+Version: 2.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Thermopylae — Xerxes' Invasion, Greek Stand, Persian Victory, Encoding Divergence
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~1,700
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -68,7 +67,15 @@ Persia: Thermopylae = tactical success; pass forced; advance continues.
 Neither encoding is false. They serve different civilizational needs.
 Persian memory does not require Thermopylae's absorption—Salamis and
 Plataea will end the invasion; the Greek wars will remain unresolved.
-But at Thermopylae, Persia wins the battle.
+But at Thermopylae, Persia wins the battle. The *Shahnameh* preserves
+the Persian kings in epic memory:
+
+> "I shall not die, these seeds I've sown will save my name and
+> reputation from the grave, and men of sense and wisdom will proclaim,
+> when I have gone, my praises and my fame."
+> — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+>
+> **Original (Farsi):** توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL
 
 **Alexander inversion:** Xerxes forces the pass and advances—only to
 fail at Salamis and Plataea. A century and a half later, Alexander
@@ -97,16 +104,17 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–MARATHON — prior Persian setback; Greek confidence
 • MEM–PERSIA–WAR–ALEXANDER — Xerxes' failure; Alexander inverts Greek–Persian dynamic
 Other:
-• MEM–PERSIA–XERXES — Thermopylae under Xerxes; Greek campaigns
+• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Thermopylae under Xerxes; Greek campaigns
 • MEM–PERSIA–IONIAN–REVOLT — causal chain
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial campaign
 
 ────────────────────────────────────────────────────────────
 VI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Herodotus, *Histories*, VII.175–239 — Thermopylae
 • Pierre Briant, *From Cyrus to Alexander* — Xerxes' campaigns
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–THERMOPYLAE — v2.0
+END OF FILE — MEM–PERSIA–WAR–THERMOPYLAE — v2.1
 ────────────────────────────────────────────────────────────

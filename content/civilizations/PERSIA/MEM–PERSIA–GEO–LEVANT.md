@@ -1,10 +1,10 @@
-MEM–PERSIA–GEO–LEVANT — v1.0
+MEM–PERSIA–GEO–LEVANT — v1.2
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · Herodotus integration
+Version: 1.2
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN
 Subject: The Levant — Persian Western Frontier, Roman–Persian Collision Zone
@@ -14,7 +14,6 @@ Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
 WORDCOUNT: ~2,700
 ARC Reference: CIV–ARC–PERSIA v1.2
-
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
@@ -63,7 +62,15 @@ The Levant sits between:
 No natural barrier separates Persian and Roman spheres. The Euphrates
 marks a line, not a wall. The corridor runs both ways: Persian armies
 reach Antioch, Damascus, Jerusalem; Roman armies reach Ctesiphon. The
-terrain favors movement, not containment.
+terrain favors movement, not containment. Al-Tabari's chronicle encodes the rhythm of conquest and reversal:
+
+> "The Persians and the Romans fought many wars. When the king of
+> kings was victorious he would take the Roman lands and cities; when
+> the Romans prevailed they would recover their territory. Thus it
+> continued until the rise of Islam."
+> — Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY); ARC–PERSIA-T-MEDIEVAL
+
+فردوسی (شاهنامه، دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — ARC–PERSIA-T-MEDIEVAL.
 
 STRUCTURAL CONSEQUENCE:
 • Offense and counter-offense oscillate
@@ -262,6 +269,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; Roman–Persian wars
 • Strabo, *Geographica*, Book XVI — corridor geography
 • Herodotus, *Histories* — Achaemenid westward expansion
 • Edward Gibbon, *Decline and Fall* — Maurice, Khosrow, Heraclius
@@ -288,5 +296,5 @@ Status: ACTIVE
 **OPTION F** — Link to MEM–ISLAM (Levant as Islamic absorption from both empires)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–LEVANT — v1.0
+END OF FILE — MEM–PERSIA–GEO–LEVANT — v1.2
 ────────────────────────────────────────────────────────────

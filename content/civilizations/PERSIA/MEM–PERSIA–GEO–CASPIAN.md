@@ -1,15 +1,16 @@
-MEM–PERSIA–GEO–CASPIAN — v2.0
+MEM–PERSIA–GEO–CASPIAN — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 2.0
-Upgrade Type: MAJOR · Scythian expedition integration, WAR–SCYTHIAN link, Layer 2
+Version: 2.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Subject: Caspian Sea System
 Dates: Ancient era–present
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
 Word Count: ~2,000
+
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -35,7 +36,15 @@ Herodotus defines the Caspian as the northern boundary of Asia:
 > — Herodotus, *Histories*, IV.40
 
 The Caspian structures the limits of the known world. Persia's
-northern frontier runs along it; the sea is containment, not passage.
+northern frontier runs along it; the sea is containment, not passage. The Behistun inscription names the northern peoples in Darius's roster:
+
+> "Says Darius the King: The Saka who wear the pointed cap—beyond
+> the sea—I went after them. When I had reached them, they went to
+> meet me. I smote that host; I took captive their chief. Then they
+> became mine."
+> — Darius I, Behistun Inscription (Saka paragraph), tr. Roland G. Kent; ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 **Scythian expedition context:** Darius's campaign (c. 513–512 BC) against
 the Scythians—crossing the Bosporus and Danube—defines the northern limit
@@ -161,5 +170,11 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–CASPIAN — v1.1
+X. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Darius I, Behistun Inscription (Saka paragraph), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT
+• Herodotus, *Histories*, IV.40 — Caspian boundary
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–GEO–CASPIAN — v2.1
 ────────────────────────────────────────────────────────────

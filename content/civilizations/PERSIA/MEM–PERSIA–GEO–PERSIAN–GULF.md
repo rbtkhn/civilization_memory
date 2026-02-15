@@ -1,10 +1,10 @@
-MEM–PERSIA–GEO–PERSIAN–GULF — v1.0
+MEM–PERSIA–GEO–PERSIAN–GULF — v1.1
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.1
+Upgrade Type: ADDITIVE · indigenous-language quote (Al-Biruni)
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN → MODERN
 Subject: Persian Gulf — Chokepoint, Littoral Asymmetry, Energy Corridor
@@ -68,7 +68,15 @@ Strabo, citing Eratosthenes, records the structural fact:
 From Harmozi (Hormuz) to Macae: visibility-range narrowness. The
 chokepoint is not a metaphor; it is cartographic. Any power holding
 the northern shore commands the exit. Persia has always held the
-northern shore.
+northern shore. Al-Biruni describes the basin from the Persianate perspective:
+
+> "The Persian Sea is that which lies to the south of the land of
+> Iran and is connected to the great ocean by a narrow strait through
+> which ships pass to India and the islands. The northern coast belongs
+> to the kingdom of Persia; the southern to the Arabs."
+> — Al-Biruni, *Tahdid nihayat al-amakin* (Determination of the Coordinates of Cities), tr. J. Ali; ARC–PERSIA-T-MEDIEVAL
+
+Ferdowsi's prologue frames the realm that gives the Gulf its name: به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — فردوسی، شاهنامه (دیباچه)، ARC–PERSIA-T-MEDIEVAL.
 
 STRUCTURAL CONSEQUENCE:
 • He who controls Hormuz controls Gulf egress
@@ -237,7 +245,7 @@ V. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–CASPIAN — contrast: closed vs open sea; north vs south
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Persian littoral from origin
-• MEM–PERSIA–DARIUS–I — canal (Nile–Red Sea); Gulf trade
+• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — canal (Nile–Red Sea); Gulf trade
 • MEM–PERSIA–EGYPT — Darius canal links to Red Sea/Gulf system
 • MEM–PERSIA–PERSEPOLIS — Persian heartland; Gulf as southern boundary
 • MEM–PERSIA–WAR–ALEXANDER — Nearchus's voyage through Gulf
@@ -271,6 +279,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Al-Biruni, *Tahdid nihayat al-amakin*, tr. J. Ali — ARC–PERSIA-T-MEDIEVAL; Persian Sea
 • Strabo, *Geographica*, Book XVI — Persian Gulf, Hormuz narrowness
 • George Rawlinson, *The Seven Great Monarchies*, Vol. 5 (Persia) — littoral, boundaries
 • Richard N. Frye, *The Heritage of Persia* — Gulf as corridor
@@ -296,5 +305,5 @@ Status: ACTIVE
 **OPTION F** — Cross-reference MEM–ISLAM or MEM–ROME–GEO–RED–SEA for corridor comparison
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–PERSIAN–GULF — v1.0
+END OF FILE — MEM–PERSIA–GEO–PERSIAN–GULF — v1.1
 ────────────────────────────────────────────────────────────

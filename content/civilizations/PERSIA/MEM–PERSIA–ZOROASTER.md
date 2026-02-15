@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · Herodotus integration
+Version: 1.3
+Upgrade Type: ADDITIVE · indigenous-language quote (Avesta/Gathas)
 Civilization: PERSIA
 Subject: Zoroaster (Zarathustra)
 Dates: c. 1500–1000 BC (traditional range; uncertainty preserved)
@@ -28,7 +28,17 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. COSMIC DUALISM AS GOVERNANCE LOGIC
 ────────────────────────────────────────────────────────────
-Zoroastrianism introduces moral dualism as structural reality.
+Zoroastrianism introduces moral dualism as structural reality. The Gathas
+(Avestan) state the twin spirits at the root of choice:
+
+> "Truly there are two primal spirits, twins renowned to be in conflict.
+> In thought and word, in action they are two: the better and the bad.
+> And when these two spirits first came together they created life and
+> non-life, and that at the end the worst existence would be for the
+> deceitful, but the best dwelling for the truthful."  
+> — Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975); ARC–PERSIA-T-ANCIENT
+
+شاهنامه (دیباچه): توانا بود هر که دانا بود / ز دانش دل پیر برنا بود — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
 Core framework:
 • Asha (Truth, Order, Right)
@@ -169,11 +179,12 @@ IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; two spirits, moral dualism
 • Herodotus, *Histories*, I.131–132 — Persian religion, sacrifice, Magi, king's welfare
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — ch. "Also sprach Zarathustra"; oral tradition; FiveBooks interview (2020)
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ZOROASTER — v1.2
+END OF FILE — MEM–PERSIA–ZOROASTER — v1.3
 ────────────────────────────────────────────────────────────
