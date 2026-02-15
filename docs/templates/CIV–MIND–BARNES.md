@@ -490,7 +490,7 @@ III.E LAYER AWARENESS (v1.1)
 ────────────────────────────────────────────────────────────
 CIV–SCHOLAR–TEMPLATE v2.10 defines two layers:
 • CANONICAL LAYER: MEM-sourced, binding permitted
-• EPHEMERAL LAYER: CEO-sourced, no binding, provisional only
+• EPHEMERAL LAYER: current-events-sourced (CEV), no binding, provisional only
 
 Barnes catalyst operates in BOTH layers:
 

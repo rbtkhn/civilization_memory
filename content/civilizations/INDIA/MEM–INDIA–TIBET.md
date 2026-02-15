@@ -185,7 +185,7 @@ XI. MEM CONNECTIONS
 • MEM–INDIA–SILK–ROAD — Buddhist transmission; India → Tibet → China; Silk Road cultural vector.
 • MEM–INDIA–REPUBLIC–NEHRU — Buffer assumption; 1950–51 rupture; idealism
   encodings (§ IV.A).
-• MEM–INDIA–GEO–GANGES — Ganges rises in Himalayas; plains–plateau divide.
+• MEM–INDIA–GEO–GANGES–RIVER — Ganges rises in Himalayas; plains–plateau divide.
 • MEM–INDIA–CHINA — China fills Tibet (1950–51); buffer lost;
   India–China interface; border hardens.
 • MEM–INDIA–BUDDHISM — India as source; Tibet as preserver;

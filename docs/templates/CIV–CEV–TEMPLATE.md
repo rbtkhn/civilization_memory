@@ -1,10 +1,10 @@
-CIV–CEO–TEMPLATE — v3.2
+CIV–CEV–TEMPLATE — v3.2
 Civilizational Memory Codex · Current Event Observation Template
 Ephemeral Sources · Provisional Analysis · Pattern Testing
 
 Status: ACTIVE · CANONICAL
 Version: 3.2
-Class: CIV–CEO–TEMPLATE (Ephemeral Authoring Law)
+Class: CIV–CEV–TEMPLATE (Ephemeral Authoring Law)
 Compatibility: EPHEMERAL–OBSERVATION–PROTOCOL v1.0+
 Last Update: February 2026
 
@@ -12,9 +12,9 @@ Last Update: February 2026
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
 This template governs the structure and constraints for all
-Current Event Observation (CEO) files.
+current event observation (CEV) files.
 
-A CEO file is:
+A CEV file is:
 • An ephemeral observation record for current events
 • A provisional analysis document
 • A pattern-testing instrument
@@ -23,23 +23,23 @@ A CEO file is:
 • NOT capable of binding constraints
 
 Authority Flow:
-CIV–MEM–CORE → EPHEMERAL–OBSERVATION–PROTOCOL → CIV–CEO–TEMPLATE → CEO Files
+CIV–MEM–CORE → EPHEMERAL–OBSERVATION–PROTOCOL → CIV–CEV–TEMPLATE → CEV files
 
-CEO files exist in the EPHEMERAL LAYER, not the canonical layer.
+CEV files exist in the EPHEMERAL LAYER, not the canonical layer.
 They may inform future MEM curation but are never canonical themselves.
 
 ────────────────────────────────────────────────────────────
 II. FILE IDENTITY & METADATA (MANDATORY)
 ────────────────────────────────────────────────────────────
-Every CEO file MUST begin with the following metadata block:
+Every CEV file MUST begin with the following metadata block:
 
-CEO–[TOPIC]–[DATE]–[PRIMARY-SOURCE]
+CEV–[TOPIC]–[DATE]–[PRIMARY-SOURCE]
 
-Example: CEO–UKRAINE–2026-01-24–REUTERS
+Example: CEV–UKRAINE–2026-01-24–REUTERS
 
 REQUIRED FIELDS:
 
-• CEO-ID: CEO–[TOPIC]–[DATE]–[SOURCE]
+• CEV-ID: CEV–[TOPIC]–[DATE]–[SOURCE]
 • Date: [YYYY-MM-DD observation date]
 • Topic: [Subject area]
 • Civilization: [If applicable, e.g., RUSSIA, EU, USA]
@@ -50,7 +50,7 @@ REQUIRED FIELDS:
 ────────────────────────────────────────────────────────────
 III. PRIMARY SOURCES (MANDATORY)
 ────────────────────────────────────────────────────────────
-Every CEO file MUST list its primary news sources with
+Every CEV file MUST list its primary news sources with
 editorial position disclosure.
 
 REQUIRED FORMAT:
@@ -161,14 +161,14 @@ Would require: [What additional evidence would confirm]
 Confidence: PROVISIONAL (fixed)
 
 RULES:
-• Hypotheses from CEO files are NEVER binding
+• Hypotheses from current event observation files are NEVER binding
 • Hypotheses cannot be promoted without MEM curation
 • Label clearly as provisional throughout
 
 ────────────────────────────────────────────────────────────
 VIII. DECAY & PROMOTION STATUS (MANDATORY)
 ────────────────────────────────────────────────────────────
-Every CEO file must track its lifecycle status.
+Every CEV file must track its lifecycle status.
 
 LIFECYCLE STATUS:
 ────────────────────────────────────────────────────────────
@@ -184,20 +184,20 @@ Current Status: [ACTIVE / DECAYED / PROMOTED / ARCHIVED]
 IF PROMOTED:
 • Promoted To: [MEM file ID]
 • Promotion Date: [Date]
-• Provenance Note: "Promoted from ephemeral observation CEO-[ID]"
+• Provenance Note: "Promoted from ephemeral observation CEV-[ID]"
 
 ────────────────────────────────────────────────────────────
-IX. COMPLETE CEO FILE TEMPLATE
+IX. COMPLETE CEV FILE TEMPLATE
 ────────────────────────────────────────────────────────────
 
 ```markdown
-CEO–[TOPIC]–[DATE]–[SOURCE]
+CEV–[TOPIC]–[DATE]–[SOURCE]
 Current Event Observation · Civilizational Memory Codex
 
 ────────────────────────────────────────────────────────────
 METADATA
 ────────────────────────────────────────────────────────────
-CEO-ID: CEO–[TOPIC]–[DATE]–[SOURCE]
+CEV-ID: CEV–[TOPIC]–[DATE]–[SOURCE]
 Date: [YYYY-MM-DD]
 Topic: [Subject area]
 Civilization: [If applicable]
@@ -265,16 +265,16 @@ Current Status: ACTIVE
 ```
 
 ────────────────────────────────────────────────────────────
-X. CEO FILE CONSTRAINTS (ABSOLUTE)
+X. CEV FILE CONSTRAINTS (ABSOLUTE)
 ────────────────────────────────────────────────────────────
-CEO files may:
+CEV files may:
 • Record observations from news sources
 • Apply structural-civilizational analysis
 • Reference existing SCHOLAR patterns
 • Propose provisional hypotheses
 • Be flagged for future MEM promotion
 
-CEO files may NOT:
+CEV files may NOT:
 • Claim canonical status
 • Bind RLLs or constraints
 • Create patterns in canonical SCHOLAR
@@ -283,9 +283,9 @@ CEO files may NOT:
 • Have confidence above PROVISIONAL
 
 ────────────────────────────────────────────────────────────
-XI. CEO → MEM PROMOTION REQUIREMENTS
+XI. CEV → MEM PROMOTION REQUIREMENTS
 ────────────────────────────────────────────────────────────
-A CEO file may be promoted to MEM only when:
+A current event observation file may be promoted to MEM only when:
 
 1. TEMPORAL DISTANCE — Sufficient time has passed (minimum 6 months)
 2. SOURCE UPGRADE — Academic or deep journalism now available
@@ -293,27 +293,27 @@ A CEO file may be promoted to MEM only when:
 4. PATTERN VALUE — Observation extends civilizational understanding
 
 Promotion process:
-1. Flag CEO as PROMOTION_CANDIDATE
+1. Flag CEV as PROMOTION_CANDIDATE
 2. Wait for temporal distance
 3. Curate into proper MEM file using CIV–MEM–TEMPLATE
 4. Apply full EQS (20% quote) requirements
 5. Ingest MEM through standard LEARN pipeline
-6. Archive CEO with provenance link
+6. Archive CEV with provenance link
 
-The promoted MEM must note: "Promoted from ephemeral observation [CEO-ID]"
+The promoted MEM must note: "Promoted from ephemeral observation [CEV-ID]"
 
 ────────────────────────────────────────────────────────────
 XII. VERSIONING & GOVERNANCE
 ────────────────────────────────────────────────────────────
-This template is CANONICAL for all CEO files.
+This template is CANONICAL for all current event observation (CEV) files.
 
 Future versions must be:
 • Additive
 • Non-destructive
 • Explicitly versioned
 
-CEO files created under earlier versions remain valid but
+CEV files created under earlier versions remain valid but
 should be updated to current template when modified.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CEO–TEMPLATE v3.2
+END OF FILE — CIV–CEV–TEMPLATE v3.2

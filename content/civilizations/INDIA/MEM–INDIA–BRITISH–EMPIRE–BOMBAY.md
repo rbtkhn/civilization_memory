@@ -100,12 +100,13 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–PORTUGAL–EMPIRE — Bombay/Seven Islands Portuguese 1534–1661; ceded to England (Catherine of Braganza dowry); becomes British presidency.
 • MEM–INDIA–BRITISH–EMPIRE — Procedural–extractive overlay; presidency structure; Bombay as western node.
 • MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY — Company acquisition (1668); Bombay Presidency; western presidency seat.
 • MEM–INDIA–BRITISH–EMPIRE–CALCUTTA — Contrast: Calcutta imperial capital, Bombay maritime gateway; complementary colonial nodes.
 • MEM–INDIA–MUMBAI — Post-colonial continuity; Bombay becomes Mumbai; commercial capital.
 • MEM–INDIA–BRITISH–EMPIRE–CLIVE — Bengal entry (Plassey); Bombay develops later as western complement.
-• MEM–INDIA–GEO–GANGES — Calcutta on Ganges delta; Bombay outside Ganges heartland.
+• MEM–INDIA–GEO–GANGES–RIVER — Calcutta on Ganges delta; Bombay outside Ganges heartland.
 • MEM–INDIA–BRITISH–EMPIRE–CEYLON — Southern maritime outpost; Ceylon Crown Colony; separate from Bombay Presidency.
 • MEM–INDIA–PARTITION — Sind severed to Pakistan; Bombay Presidency geography altered.
 

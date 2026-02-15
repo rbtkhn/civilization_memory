@@ -31,8 +31,7 @@ II. CHAGATAI KHANATE — CONTEXT
 The Chagatai Khanate emerged after Genghis Khan’s death (1227) as
 the Mongol realm in Central Asia (Transoxiana, Turkestan). It
 bordered the Delhi Sultanate’s northwest frontier—the same axis
-used by Alexander, later by Timur and the Company (MEM–INDIA–
-GEO–INDUS).
+used by Alexander, later by Timur and the Company (MEM–INDIA–GEO–INDUS–RIVER).
 
 Structural condition:
 • Steppe cavalry and raid-based extraction
@@ -54,7 +53,7 @@ Sultanate responses:
 
 Key outcome: **Deflection**. Steppe pressure was real; conquest
 was not achieved. The Sultanate preserved a distinct political
-center on the Ganges (MEM–INDIA–GEO–GANGES)—one of the empires
+center on the Ganges (MEM–INDIA–GEO–GANGES–RIVER)—one of the empires
 that reconstitute along the basin. India was raided; India was
 not ruled by the Chagatai.
 
@@ -128,9 +127,9 @@ VIII. MEM CONNECTIONS
 • MEM–INDIA–MONGOL–EMPIRE — Chagatai is the deflection phase of
   India–Mongol interface; parent/sibling memory; Timur and Mughal
   follow.
-• MEM–INDIA–GEO–INDUS — Northwest corridor; same axis as Chagatai
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest corridor; same axis as Chagatai
   raids, Alexander, Timur, Company.
-• MEM–INDIA–GEO–GANGES — Delhi Sultanate among empires along the
+• MEM–INDIA–GEO–GANGES–RIVER — Delhi Sultanate among empires along the
   Ganges; core holds under Chagatai pressure.
 • MEM–INDIA–DELHI–SULTANATE — Sultanate is the polity that deflected
   Chagatai raids; regime memory.

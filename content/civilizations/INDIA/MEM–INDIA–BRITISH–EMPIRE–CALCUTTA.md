@@ -67,8 +67,7 @@ IV. CIVILIZATIONAL ENCODING
 ────────────────────────────────────────────────────────────
 For India, Calcutta under the Raj encodes:
 • Imperial capital—authority concentrated; legitimacy performed
-• Ganges heartland—Calcutta at Ganges delta; connects to MEM–INDIA–
-  GEO–GANGES; empires reconstitute along Ganges
+• Ganges heartland—Calcutta at Ganges delta; connects to MEM–INDIA–GEO–GANGES–RIVER; empires reconstitute along Ganges
 • Procedural core—contracts, courts, cash; Plassey and Clive as
   Bengal entry; Company-to-Crown transition
 • Partition legacy—1947 severs Bengal; Calcutta becomes West Bengal
@@ -111,7 +110,7 @@ VII. MEM CONNECTIONS
 • MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY — Company Bengal headquarters; Calcutta as Company capital (1773).
 • MEM–INDIA–BRITISH–EMPIRE–BOMBAY — Contrast: Calcutta imperial capital, Bombay maritime gateway; complementary colonial nodes.
 • MEM–INDIA–BRITISH–EMPIRE–CLIVE — Plassey and Bengal entry; Calcutta as Company Bengal headquarters; Fort William.
-• MEM–INDIA–GEO–GANGES — Calcutta at Ganges delta; heartland; empires reconstitute along Ganges.
+• MEM–INDIA–GEO–GANGES–RIVER — Calcutta at Ganges delta; heartland; empires reconstitute along Ganges.
 • MEM–INDIA–DELHI — 1911 transfer; Calcutta loses imperial primacy to Delhi.
 • MEM–INDIA–BENGAL — Bengal Presidency; Ganges delta; Partition fracture.
 • MEM–INDIA–PARTITION — Bengal partition; Calcutta retained by India; East Bengal severed; wound event.

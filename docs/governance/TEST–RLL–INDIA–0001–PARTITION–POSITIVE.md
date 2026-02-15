@@ -10,8 +10,8 @@
 ## I. SOURCES CONSULTED
 
 ### MEM corpus (primary)
-- **MEM–INDIA–GEO–INDUS:** Indus as "India's western civilizational origin spine"; "origins, not dominance"; "India can lose geography without losing civilization"; "Partition sever[s] Indus from India"; "India survives separation from its birthplace"; "memory outlasts territory."
-- **MEM–INDIA–GEO–GANGES:** Ganges as "India's enduring civilizational heartland"; "Where the Indus is origin, the Ganges is permanence"; "Control of the Ganges equals civilizational survivability"; "Regimes change; basin persists"; "Empires repeatedly reconstitute along the Ganges" (Mauryan through Republican India).
+- **MEM–INDIA–GEO–INDUS–RIVER:** Indus as "India's western civilizational origin spine"; "origins, not dominance"; "India can lose geography without losing civilization"; "Partition sever[s] Indus from India"; "India survives separation from its birthplace"; "memory outlasts territory."
+- **MEM–INDIA–GEO–GANGES–RIVER:** Ganges as "India's enduring civilizational heartland"; "Where the Indus is origin, the Ganges is permanence"; "Control of the Ganges equals civilizational survivability"; "Regimes change; basin persists"; "Empires repeatedly reconstitute along the Ganges" (Mauryan through Republican India).
 - **MEM–INDIA–PARTITION:** "Forced civilizational rupture event"; Radcliffe Line; "fractured demographic continuity without dissolving India's deeper civilizational substrate"; India "retains administrative spine"; "Preserves continuity through constitution-building"; Pakistan emerges with western (Indus) territory.
 
 ### ARC-listed sources (CIV–ARC–INDIA v3.0)
@@ -35,12 +35,12 @@ RLL applies when "assessing Indian civilizational survivability or when interpre
 ### 2. Pattern: "Origin can be lost; permanence cannot"
 
 **Indus severed, India survives**
-- **MEM (GEO–INDUS):** "Partition sever[s] Indus from India"; "Civilizational origin outside modern sovereignty"; "India survives separation from its birthplace"; "India can lose geography without losing civilization"; "Memory outlasts territory."
+- **MEM (GEO–INDUS–RIVER):** "Partition sever[s] Indus from India"; "Civilizational origin outside modern sovereignty"; "India survives separation from its birthplace"; "India can lose geography without losing civilization"; "Memory outlasts territory."
 - **MEM (PARTITION):** India "retains administrative spine"; "Preserves continuity through constitution-building"; "fractured demographic continuity without dissolving India's deeper civilizational substrate."
 - **Conclusion:** Indus (origin) was severed from Indian sovereignty in 1947. The Republic of India did not collapse; civilizational continuity was preserved. RLL's first limb holds: loss of origin basin is survivable.
 
 **Ganges retained**
-- **MEM (GEO–GANGES):** Ganges basin is "enduring civilizational heartland"; "Control of the Ganges equals civilizational survivability"; "Regimes change; basin persists"; core Indian state (UP, Bihar, Bengal portions) retains the Ganges.
+- **MEM (GEO–GANGES–RIVER):** Ganges basin is "enduring civilizational heartland"; "Control of the Ganges equals civilizational survivability"; "Regimes change; basin persists"; core Indian state (UP, Bihar, Bengal portions) retains the Ganges.
 - **Conclusion:** Partition did not sever the Ganges from India. The heartland basin remained under Indian sovereignty. RLL's second limb is not falsified—Ganges was not lost, so the counterfactual (loss of Ganges = civilizational redefinition) is not tested here; the positive case (Indus lost, Ganges retained, India survives) is consistent with the RLL.
 
 **Dual pattern**

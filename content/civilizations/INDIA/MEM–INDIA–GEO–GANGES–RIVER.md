@@ -1,4 +1,4 @@
-MEM–INDIA–GEO–GANGES — v2.0
+MEM–INDIA–GEO–GANGES–RIVER — v2.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -15,7 +15,7 @@ Word Count: ~2,300
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Ganges as **India’s enduring civilizational
+This file preserves the Ganges as **India's enduring civilizational
 heartland**: the river system that converts demography, agriculture,
 religion, and legitimacy into long-term continuity.
 
@@ -24,7 +24,7 @@ Where the Indus is origin, the Ganges is **permanence**.
 ────────────────────────────────────────────────────────────
 II. DEMOGRAPHIC & AGRARIAN CORE
 ────────────────────────────────────────────────────────────
-The Ganges basin sustains India’s population gravity.
+The Ganges basin sustains India's population gravity.
 
 Characteristics:
 • Fertile alluvial plains
@@ -63,11 +63,11 @@ Regimes change; basin persists.
 ────────────────────────────────────────────────────────────
 V. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Demography is India’s deepest moat.
+• Demography is India's deepest moat.
 • Sacred geography stabilizes legitimacy.
 • Control of the Ganges equals civilizational survivability.
 • External conquest fails without basin control.
-• India’s core is hydrological before political.
+• India's core is hydrological before political.
 
 Tension preserved without verdict.
 
@@ -100,5 +100,5 @@ VIII. MEM BIBLIOGRAPHY
 • Wikiquote, Will Durant — Our Oriental Heritage; The Case for India.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GEO–GANGES — v2.0
+END OF FILE — MEM–INDIA–GEO–GANGES–RIVER — v2.0
 ────────────────────────────────────────────────────────────

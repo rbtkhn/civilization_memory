@@ -61,7 +61,7 @@
 | CIV–CORE–TEMPLATE.md | v3.0 | CIV–MEM–CORE v3.0, CIV–SCHOLAR–PROTOCOL v3.0 | v3.0 | **SOFT GAP** → Optional v3.1 for consistency |
 | CIV–INDEX–TEMPLATE.md | v3.0 | CIV–MEM–CORE v3.0, MEM–TEMPLATE v3.0, SCHOLAR–TEMPLATE v3.0 | v3.0 | **SOFT GAP** → Optional v3.1 |
 | CIV–DOCTRINE–TEMPLATE.md | v3.0 | CIV–MEM–CORE v3.0 | v3.0 | **SOFT GAP** → Optional v3.1 |
-| CIV–CEO–TEMPLATE.md | v3.0 | EPHEMERAL–OBSERVATION–PROTOCOL | v3.0 | OK (protocol-bound) |
+| CIV–CEV–TEMPLATE.md | v3.0 | EPHEMERAL–OBSERVATION–PROTOCOL | v3.0 | OK (protocol-bound) |
 
 ---
 

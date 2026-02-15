@@ -39,10 +39,10 @@ and the northwest.
 
 Key features:
 • Islamic sultanate; Persianate administration and court culture
-• Ganges core (MEM–INDIA–GEO–GANGES)—Delhi among the empires
+• Ganges core (MEM–INDIA–GEO–GANGES–RIVER)—Delhi among the empires
   that reconstitute along the basin
 • Northwest frontier—the axis of Mongol (Chagatai) pressure and
-  later Mughal entry (MEM–INDIA–GEO–INDUS)
+  later Mughal entry (MEM–INDIA–GEO–INDUS–RIVER)
 
 ────────────────────────────────────────────────────────────
 III. GOVERNANCE & PLURAL SOCIETY
@@ -97,7 +97,7 @@ VI. CIVILIZATIONAL CONSEQUENCE
 ────────────────────────────────────────────────────────────
 Outcomes:
 • Delhi Sultanate is encoded as one of the empires along the
-  Ganges—regimes change, basin persists (MEM–INDIA–GEO–GANGES).
+  Ganges—regimes change, basin persists (MEM–INDIA–GEO–GANGES–RIVER).
 • It is the polity that deflected Mongol conquest and endured
   Timur’s sack; no Mongol khanate ruled India.
 • It is succeeded by the Mughals via defection/fragmentation
@@ -153,9 +153,9 @@ IX. MEM CONNECTIONS
   endured Timur 1398; Mughal entry as absorption phase.
 • MEM–INDIA–MONGOL–CHAGATAI — Sultanate is the polity that
   deflected Chagatai raids; no Chagatai India.
-• MEM–INDIA–GEO–GANGES — Delhi Sultanate among empires along the
+• MEM–INDIA–GEO–GANGES–RIVER — Delhi Sultanate among empires along the
   Ganges; regimes change, basin persists.
-• MEM–INDIA–GEO–INDUS — Northwest frontier; axis of Mongol
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest frontier; axis of Mongol
   pressure and Mughal entry.
 • MEM–INDIA–BRITISH–EMPIRE–CLIVE — Same defection type (defender elites,
   fragmentation) at opposite epoch; Sultanate end at Panipat,

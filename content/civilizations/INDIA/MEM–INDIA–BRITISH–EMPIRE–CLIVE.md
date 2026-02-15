@@ -85,11 +85,12 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–FRENCH–EMPIRE — French rival in same theatre; Dupleix vs Clive; Carnatic Wars; Seven Years' War; Durant "commercial pirates of England and France."
 • MEM–INDIA–WAR–ALEXANDER — Compare: opposite locus of mechanism failure. Alexander: invader's mechanism fails (army refusal at Hyphasis); exposure on commander. Clive: defender's mechanism fails (elite defection, political fragmentation); exposure on indigenous polity. Same question—who was exposed when the mechanism failed—opposite answers.
 • MEM–INDIA–BRITISH–EMPIRE — Company-to-Crown; procedural–extractive overlay; Durant, Ferguson on jewel in the crown, administrative laboratory.
 • MEM–INDIA–PARTITION — Exit dynamics; colonial legacy; cost externalized.
-• MEM–INDIA–GEO–INDUS — Northwest entry; Indus as origin spine; Herodotus, Durant.
-• MEM–INDIA–GEO–GANGES — Core not reached; depth, permanence.
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest entry; Indus as origin spine; Herodotus, Durant.
+• MEM–INDIA–GEO–GANGES–RIVER — Core not reached; depth, permanence.
 • MEM–INDIA–DYNASTY–MUGHAL — Mughal decline; regional rivalry; Company succession.
 • MEM–INDIA–GANDHI — Legitimacy attack on imperial rule; moral critique.
 • MEM–INDIA–REPUBLIC–NEHRU — Post-imperial institutional inheritance.

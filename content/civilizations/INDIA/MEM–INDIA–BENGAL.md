@@ -40,7 +40,7 @@ Core features:
   centre
 
 Bengal encodes **Ganges heartland**—demography, sacred geography,
-and imperial administrative legacy (MEM–INDIA–GEO–GANGES;
+and imperial administrative legacy (MEM–INDIA–GEO–GANGES–RIVER;
 MEM–INDIA–BRITISH–EMPIRE–CALCUTTA).
 
 ────────────────────────────────────────────────────────────
@@ -104,7 +104,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–GEO–GANGES — Bengal as Ganges delta; heartland;
+• MEM–INDIA–GEO–GANGES–RIVER — Bengal as Ganges delta; heartland;
   demography and sacred geography.
 • MEM–INDIA–BRITISH–EMPIRE–CALCUTTA — Bengal Presidency;
   Calcutta as imperial capital; Plassey and Clive.

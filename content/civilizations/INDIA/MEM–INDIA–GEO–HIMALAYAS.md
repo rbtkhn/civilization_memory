@@ -113,9 +113,9 @@ VIII. MEM CONNECTIONS
   1950–51; "when the highland fills, the border hardens."
 • MEM–INDIA–KASHMIR — Western Himalayan interface; constitutional
   frontier; contested.
-• MEM–INDIA–GEO–GANGES — Ganges rises in Himalayas; hydrological
+• MEM–INDIA–GEO–GANGES–RIVER — Ganges rises in Himalayas; hydrological
   headwater; plains–mountain divide.
-• MEM–INDIA–GEO–INDUS — Indus tributaries from Himalayas; western
+• MEM–INDIA–GEO–INDUS–RIVER — Indus tributaries from Himalayas; western
   watershed.
 • MEM–INDIA–REPUBLIC–NEHRU — Buffer assumption; 1950–51 Tibet rupture;
   inherited British view of Himalayan glacis.

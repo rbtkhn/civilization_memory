@@ -40,7 +40,7 @@ Key features:
 Structural outcome: **Shock without conquest**. The Sultanate
 survives but is weakened—legitimacy and capacity damaged
 (MEM–INDIA–DELHI–SULTANATE). The Ganges core holds; regimes
-reconstitute along the basin (MEM–INDIA–GEO–GANGES).
+reconstitute along the basin (MEM–INDIA–GEO–GANGES–RIVER).
 
 ────────────────────────────────────────────────────────────
 III. STRUCTURAL PARALLEL — SHOCK WITHOUT CONQUEST
@@ -116,9 +116,9 @@ VII. MEM CONNECTIONS
   return hardships; parallel to shock-without-conquest type.
 • MEM–PERSIA–MONGOL–EMPIRE — Persia: conquered (Ilkhanate);
   India: sacked (1398), survived. Cross-civilization contrast.
-• MEM–INDIA–GEO–GANGES — Sultanate among empires along the
+• MEM–INDIA–GEO–GANGES–RIVER — Sultanate among empires along the
   Ganges; core holds after 1398.
-• MEM–INDIA–GEO–INDUS — Northwest corridor; axis of Timur's entry.
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest corridor; axis of Timur's entry.
 • MEM–INDIA–ISLAM — India–Islam interface; Sultanate survival;
   shock and absorption.
 

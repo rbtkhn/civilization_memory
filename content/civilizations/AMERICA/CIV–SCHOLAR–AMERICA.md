@@ -135,8 +135,7 @@ X. EPHEMERAL OBSERVATION LAYER
 (Implements CIV–SCHOLAR–TEMPLATE § X)
 
 Canonical layer: MEM-sourced learning (MEM–ANGLIA–* constitutive,
-MEM–AMERICA–* when present). Ephemeral layer: CEO-sourced (current
-events), EOR creation, no binding. Layer indicators: [LEARN: CANONICAL] /
+MEM–AMERICA–* when present). Ephemeral layer: current-events-sourced (CEV files), EOR creation, no binding; accreted and compressed, retained. Layer indicators: [LEARN: CANONICAL] /
 [LEARN: EPHEMERAL].
 
 ────────────────────────────────────────────────────────────

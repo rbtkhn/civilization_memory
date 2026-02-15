@@ -43,7 +43,7 @@ Core features:
 
 Afghanistan encodes **invasion axis**—the corridor through which
 external force reaches India. Same geography serves trade and
-conquest (MEM–INDIA–GEO–INDUS; MEM–INDIA–PUNJAB).
+conquest (MEM–INDIA–GEO–INDUS–RIVER; MEM–INDIA–PUNJAB).
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL ENCODING — INVADERS & BUFFER
@@ -138,7 +138,7 @@ VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–SILK–ROAD — Afghanistan as overland node; Khyber,
   Kabul; India at eastern reach.
-• MEM–INDIA–GEO–INDUS — Indus corridor; same axis as invasion;
+• MEM–INDIA–GEO–INDUS–RIVER — Indus corridor; same axis as invasion;
   Afghanistan is approach.
 • MEM–INDIA–PUNJAB — Punjab as invasion target; Afghanistan
   is corridor to Punjab.

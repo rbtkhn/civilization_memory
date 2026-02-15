@@ -77,7 +77,7 @@ Outcomes:
   same binding constraint.
 • Northwest corridor is confirmed as the recurring axis of
   external pressure (Alexander, Ghaznavid, Chagatai, Timur,
-  Company) (MEM–INDIA–GEO–INDUS).
+  Company) (MEM–INDIA–GEO–INDUS–RIVER).
 
 Rule learned:
 India can limit invader hold through depth, logistics, and local
@@ -126,11 +126,11 @@ VII. MEM CONNECTIONS
   pre-Mongol invader limit (force at distance).
 • MEM–INDIA–WAR–TIMUR — Shock without conquest; Ghaznavid = limit
   without conquest (force at distance).
-• MEM–INDIA–GEO–INDUS — Northwest corridor; axis of Ghaznavid
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest corridor; axis of Ghaznavid
   entry and return.
 • MEM–INDIA–AFGHANISTAN — Ghaznavids from Ghazni (Afghanistan);
   invasion axis; Punjab raids.
-• MEM–INDIA–GEO–GANGES — Ganges core not held by Ghaznavids;
+• MEM–INDIA–GEO–GANGES–RIVER — Ganges core not held by Ghaznavids;
   depth as limit.
 • MEM–INDIA–ARABIA — Islamic origin; Ghaznavids transmit Islam
   of Arabian origin to India.

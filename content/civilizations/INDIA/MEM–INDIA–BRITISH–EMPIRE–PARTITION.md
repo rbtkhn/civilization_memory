@@ -114,7 +114,7 @@ VII. MEM CONNECTIONS
   divides Bengal; Calcutta retained by India.
 • MEM–INDIA–BENGAL — Bengal severed at Partition; Ganges delta.
 • MEM–INDIA–PUNJAB — Punjab severed at Partition; invasion corridor.
-• MEM–INDIA–GEO–INDUS — Indus severed at Partition; Radcliffe Line;
+• MEM–INDIA–GEO–INDUS–RIVER — Indus severed at Partition; Radcliffe Line;
   Pakistan; origin spine lost.
 • MEM–INDIA–KASHMIR — Kashmir unresolved; British exit before
   settlement; constitutional frontier.

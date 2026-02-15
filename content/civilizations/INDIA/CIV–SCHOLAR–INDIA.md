@@ -2,13 +2,13 @@ CIV–SCHOLAR–INDIA — v2.3
 Civilizational Memory Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
-Status: ACTIVE · PHASE I
-Activation State: ACCUMULATION (INGESTION PERMITTED)
+Status: ACTIVE · PHASE II
+Activation State: CONSTRAINT GRAMMAR (RLL BINDING ACTIVE; DOCTRINE CONNECTION MANDATORY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I)
+Compatibility: CIV / MEM / SCHOLAR Architecture (Phase II)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
-Civilization Phase: PHASE I (Accumulation)
+Civilization Phase: PHASE II (Constraint Grammar)
 Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
 Supersedes: CIV–SCHOLAR–INDIA v2.2
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
@@ -17,8 +17,8 @@ Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → C
 ARC Reference: CIV–ARC–INDIA v2.0
 Last Update: February 2026
 
-Upgrade Type: ENTRY 0009 — Relay from LEARN+STATE session; India–China Tibet encoding contrast, colonial entry contrast, Mughal precondition, path to Crown, STATE border implications.
-Scope: Phase I; ENTRY 0009 extends ENTRY 0008, SYNTHESIS 0004, SYNTHESIS 0003; relay approved (2026-02-14).
+Upgrade Type: ENTRY 0010 — Relay from STATE session; doctrine stress assessment (trade/oil conditionality, Chabahar; Jan–Feb 2026 news).
+Scope: Phase II; ENTRY 0010 extends doctrine-check session; ENTRY 0009 relay (Tibet, path to Crown) unchanged.
 
 WORDCOUNT: ~3,400
 
@@ -42,23 +42,23 @@ II. SCHOLAR PHASE MODEL (HARD)
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § II)
 
-This file operates in **PHASE I — ACCUMULATION**.
+This file operates in **PHASE II — CONSTRAINT GRAMMAR**.
 
-Permitted: Learning ingestion; pattern recognition; comparative notes; tension recording; hypothesis staging (non-binding). Forbidden: Doctrine creation; verdicts; system claims; teleology. RLLs may be drafted but are NOT binding in this phase. Phase II (Constraint Grammar) and Phase III (Snapshot) are activated only by explicit user authorization per Template.
+Permitted: Learning ingestion; pattern recognition; comparative notes; tension recording; RLL binding (RLL–INDIA–0001, 0002 bound); doctrine connection mandatory for new MEMs/analysis. Forbidden: Verdicts; system claims; teleology; closure-seeking synthesis. Phase III (Snapshot) activated only by explicit user authorization per Template.
 
 ────────────────────────────────────────────────────────────
 III. RLL AUTHORITY / DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
-(Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase I)
+(Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase II)
 
-In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when frozen. If Phase II is adopted, RLL–INDIA–#### namespace and binding rules apply per Template § III.
+In Phase II, RLLs are binding. This file maintains a **Doctrine Registry** (CIV–DOCTRINE–INDIA v1.0, doctrines 01–04) mirrored from FROZEN SYNTHESIS entries. RLL–INDIA–#### namespace and binding rules apply per Template § III. Doctrine connection mandatory.
 
 ────────────────────────────────────────────────────────────
-IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
+IV. FAILURE-FIRST STANDARD (PHASE II — ACTIVE)
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § IV)
 
-Phase II requires failure-first reasoning, negative-capability framing, and sequencing enforcement. Phase I (current) is exempt. When Phase II is activated, Section IV will govern reasoning order per Template.
+Phase II requires failure-first reasoning, negative-capability framing, and sequencing enforcement. **ACTIVE.** Section IV governs reasoning order per Template.
 
 ────────────────────────────────────────────────────────────
 V. NON-SYNTHESIS RULE
@@ -72,7 +72,7 @@ VI. SCHOLAR ↔ MEM CONFLICT HANDLING
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § VI)
 
-MEM facts are authoritative; SCHOLAR constraints are interpretive. When a MEM assertion contradicts an established SCHOLAR pattern, the Scholar must flag the anomaly explicitly (Anomaly Flag Protocol). Phase II requires full implementation; Phase I notes the rule. Authority substitution and silent reconciliation are forbidden.
+MEM facts are authoritative; SCHOLAR constraints are interpretive. When a MEM assertion contradicts an established SCHOLAR pattern, the Scholar must flag the anomaly explicitly (Anomaly Flag Protocol). **ACTIVE.** Authority substitution and silent reconciliation are forbidden.
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATION-SCOPED PROMOTION
@@ -86,7 +86,7 @@ VIII. SNAPSHOT CLASS
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § VIII)
 
-Snapshot naming: SCHOLAR–INDIA — SNAPSHOT — vX.Y. Snapshots are read-only, locked permanently, externalizable. This file is not a snapshot; it is the live Phase I ledger.
+Snapshot naming: SCHOLAR–INDIA — SNAPSHOT — vX.Y. Snapshots are read-only, locked permanently, externalizable. This file is not a snapshot; it is the live Phase II ledger.
 
 ────────────────────────────────────────────────────────────
 IX. COMMUNICATION REGISTER & VOICE
@@ -100,7 +100,7 @@ X. EPHEMERAL OBSERVATION LAYER
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § X)
 
-Canonical layer: MEM-sourced learning, persistent SCHOLAR state. Ephemeral layer: CEO-sourced (current events), EOR creation, no binding. Layer indicators: [LEARN: CANONICAL] / [LEARN: EPHEMERAL]. Governed by EPHEMERAL–OBSERVATION–PROTOCOL.
+Canonical layer: MEM-sourced learning, persistent SCHOLAR state. Ephemeral layer: current-events-sourced (CEV files), EOR creation, no binding; accreted and compressed, retained. Layer indicators: [LEARN: CANONICAL] / [LEARN: EPHEMERAL]. Governed by EPHEMERAL–OBSERVATION–PROTOCOL.
 
 ────────────────────────────────────────────────────────────
 XI. OGE SPECIFICATION (EMBEDDED)
@@ -145,7 +145,7 @@ Source MEMs available (CIV–INDEX–INDIA v3.2):
 
 **IV. Key civilizational figures:** MEM–INDIA–GANDHI, MEM–INDIA–REPUBLIC–NEHRU, MEM–INDIA–REPUBLIC–MODI
 
-**V. Geography & civilizational space:** MEM–INDIA–GEO–HIMALAYAS, MEM–INDIA–DELHI, MEM–INDIA–MUMBAI, MEM–INDIA–KASHMIR, MEM–INDIA–PAKISTAN, MEM–INDIA–AFGHANISTAN, MEM–INDIA–TIBET, MEM–INDIA–CHINA, MEM–INDIA–SRI–LANKA, MEM–INDIA–BENGAL, MEM–INDIA–BANGLADESH, MEM–INDIA–PUNJAB, MEM–INDIA–GEO–INDUS, MEM–INDIA–GEO–GANGES, MEM–INDIA–SILK–ROAD
+**V. Geography & civilizational space:** MEM–INDIA–GEO–HIMALAYAS, MEM–INDIA–DELHI, MEM–INDIA–MUMBAI, MEM–INDIA–KASHMIR, MEM–INDIA–PAKISTAN, MEM–INDIA–AFGHANISTAN, MEM–INDIA–TIBET, MEM–INDIA–CHINA, MEM–INDIA–SRI–LANKA, MEM–INDIA–BENGAL, MEM–INDIA–BANGLADESH, MEM–INDIA–PUNJAB, MEM–INDIA–GEO–INDUS–RIVER, MEM–INDIA–GEO–GANGES–RIVER, MEM–INDIA–SILK–ROAD
 
 **V-A. Literature & civilizational transmission:** MEM–INDIA–LIT–MAHABHARATA, MEM–INDIA–LIT–RAMAYANA, MEM–INDIA–LIT–KALIDASA, MEM–INDIA–LIT–ARTHASHASTRA, MEM–INDIA–LIT–TAGORE
 
@@ -161,7 +161,7 @@ XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 
 ENTRY 0001
 Source:
-• MEM–INDIA–GEO–INDUS — v1.0
+• MEM–INDIA–GEO–INDUS–RIVER — v1.0
 Ingest Type:
 • GEO Memory — Western civilizational origin spine
 Primary Belief Extracted:
@@ -173,7 +173,7 @@ Note:
 
 ENTRY 0002
 Source:
-• MEM–INDIA–GEO–GANGES — v1.0
+• MEM–INDIA–GEO–GANGES–RIVER — v1.0
 Ingest Type:
 • GEO Memory — Enduring civilizational heartland
 Primary Belief Extracted:
@@ -260,7 +260,7 @@ Note:
 
 ENTRY 0009
 Source:
-• LEARN session: MEM–INDIA–TIBET, MEM–INDIA–REPUBLIC–NEHRU, MEM–CHINA–GEO–TIBET, MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–CLIVE, MEM–CHINA–WAR–FIRST–OPIUM, MEM–PERSIA–GEO–CASPIAN, MEM–INDIA–GEO–GANGES, MEM–INDIA–DYNASTY–MUGHAL, MEM–INDIA–WAR–1857
+• LEARN session: MEM–INDIA–TIBET, MEM–INDIA–REPUBLIC–NEHRU, MEM–CHINA–GEO–TIBET, MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–CLIVE, MEM–CHINA–WAR–FIRST–OPIUM, MEM–PERSIA–GEO–CASPIAN, MEM–INDIA–GEO–GANGES–RIVER, MEM–INDIA–DYNASTY–MUGHAL, MEM–INDIA–WAR–1857
 • STATE analysis (simulated): India–China border management
 Ingest Type:
 • Cross-Civilization Encoding (China, Persia) + Session Relay
@@ -276,6 +276,18 @@ Note:
 • Relay from LEARN+STATE session (2026-02-14). Extends ENTRY 0008, SYNTHESIS 0004 (Nehru idealism), SYNTHESIS 0003 (three defection types). Cross-civ sources: MEM–CHINA–GEO–TIBET, MEM–CHINA–WAR–FIRST–OPIUM, MEM–PERSIA–GEO–CASPIAN.
 
 ────────────────────────────────────────────────────────────
+ENTRY 0010
+────────────────────────────────────────────────────────────
+Source: Session (STATE-mode doctrine stress assessment; open news, Jan–Feb 2026). No MEM ingestion; no ARC institutional audit.
+Ingest Type: Doctrine stress assessment (current events)
+Primary Belief Extracted:
+• **Trade/oil conditionality (US–India interim deal, Feb 2026):** US tariff relief on Indian goods is conditional on India not resuming Russian oil imports; Commerce can reimpose 25% if India does. Joint statement did not cite Russian oil; US administration tied relief to India "committing to stop directly or indirectly" importing Russian oil. MEA (5 Feb 2026) rejected the claim that India agreed to halt Russian oil; stated energy security for 1.4 billion remains "supreme priority" and decisions are "national interest," "diversifying sourcing," "objective market conditions." Refiners reduced Russian intake (e.g. Jan 2026 low in 3+ years); behavior aligns with US condition while narrative asserts sovereignty. **Doctrine relevance:** CORE Red Line (autonomy surrender "beyond India's chosen pace") and Civilizational Non-Alignment under stress; no formal violation because India refused the narrative of commitment; structural pressure (conditional tariff) rewards alignment.
+• **Chabahar (Budget 2026–27):** No fresh allocation for Chabahar port (from ₹400 cr to zero); reported amid US sanctions pressure on Iran. **Doctrine relevance:** Exit-Building and DOD-IND (corridor optionality); optionality reduced by external pressure.
+• **Doctrine 01 and 04:** No reported stress or violation (no Ganges/heartland risk; no single encoding of Nehru/1962 imposed).
+Belief Status: UNFROZEN
+Note: Relay from STATE session (2026-02-14). Evidence from open news; not a full ARC-sourced doctrine audit. Pattern recorded for doctrine-stress methodology.
+
+────────────────────────────────────────────────────────────
 ENTRY format (Template § XI.B):
   ENTRY ####
   Source: [MEM file(s)]
@@ -289,9 +301,10 @@ XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
 
 SYNTHESIS 0001 — INDUS VS GANGES: ORIGIN VS PERMANENCE
-Source: ENTRY 0001 (MEM–INDIA–GEO–INDUS), ENTRY 0002 (MEM–INDIA–GEO–GANGES)
+Status: FROZEN · PROMOTED TO DOCTRINE 01 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
+Source: ENTRY 0001 (MEM–INDIA–GEO–INDUS–RIVER), ENTRY 0002 (MEM–INDIA–GEO–GANGES–RIVER)
 Assumptions: (1) Indus and Ganges encode distinct civilizational functions—origin spine vs enduring heartland; (2) severance (Partition) applies to Indus, not Ganges; (3) synthesis is constraint-oriented—tension preserved, no closure.
-Confidence: UNBINDING (Phase I). Freeze-ready: TIER 2 (70–90% — MEM-derived; Partition positive test validates; TEST–RLL–INDIA–0001–PARTITION–POSITIVE, LIMIT–SCOPE).
+Confidence: TIER 2 (70–90% — MEM-derived; Partition positive test validates; TEST–RLL–INDIA–0001–PARTITION–POSITIVE, LIMIT–SCOPE). BOUND.
 
 ASSUMPTIONS BOX (freeze-ready)
 
@@ -300,7 +313,7 @@ ASSUMPTION 1: Indus encodes origin, Ganges encodes permanence
 | Field | Content |
 |-------|---------|
 | STATEMENT | Indus and Ganges encode distinct civilizational functions—origin spine vs enduring heartland. |
-| BASIS | MEM GEO–INDUS, GEO–GANGES; distinct functions in synthesis; "Where the Indus is origin, the Ganges is permanence." |
+| BASIS | MEM–INDIA–GEO–INDUS–RIVER, MEM–INDIA–GEO–GANGES–RIVER; distinct functions in synthesis; "Where the Indus is origin, the Ganges is permanence." |
 | IF_WRONG | If interchangeable, synthesis loses dual-pattern structure; RLL–INDIA–0001 collapses. |
 | LINCHPIN_STATUS | High |
 
@@ -309,7 +322,7 @@ ASSUMPTION 2: Partition severance applies to Indus, not Ganges
 | Field | Content |
 |-------|---------|
 | STATEMENT | The Radcliffe Line (1947) severs the Indus basin from Indian sovereignty; Ganges basin remains in India. |
-| BASIS | Geography of Partition; MEM–INDIA–PARTITION; MEM GEO–INDUS (severance), GEO–GANGES (retained). |
+| BASIS | Geography of Partition; MEM–INDIA–PARTITION; MEM–INDIA–GEO–INDUS–RIVER (severance), MEM–INDIA–GEO–GANGES–RIVER (retained). |
 | IF_WRONG | If Ganges were severed and India survived as India, synthesis would be falsified. |
 | LINCHPIN_STATUS | High |
 
@@ -318,7 +331,7 @@ ASSUMPTION 3: Loss of Ganges = civilizational redefinition
 | Field | Content |
 |-------|---------|
 | STATEMENT | Loss of the Ganges basin would constitute civilizational redefinition for India; control of Ganges equals civilizational survivability. |
-| BASIS | MEM GEO–GANGES; "Control of the Ganges equals civilizational survivability"; empires reconstitute along Ganges. |
+| BASIS | MEM–INDIA–GEO–GANGES–RIVER; "Control of the Ganges equals civilizational survivability"; empires reconstitute along Ganges. |
 | IF_WRONG | If India could lose Ganges and remain India without redefinition, synthesis weakens. |
 | LINCHPIN_STATUS | High |
 
@@ -344,9 +357,10 @@ Verdict: TENSION PRESERVED. Origin (Indus) can be lost; permanence (Ganges) cann
 SYNTHESIS format (Template § XI.C): SYNTHESIS #### — [Title]; Source: ENTRY ####; Assumptions; Confidence: UNBINDING (Phase I); Tension Record / Verdict.
 
 SYNTHESIS 0002 — INDIA WAR MEMs: MECHANISM FAILURE AND EXPOSURE
+Status: FROZEN · PROMOTED TO DOCTRINE 02 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE)
 Assumptions: (1) Both WAR MEMs encode limit via mechanism failure, not decisive field defeat; (2) locus of failure is opposite—invader (Alexander) vs. defender (Clive); (3) civilizational endurance is preserved in both; (4) synthesis preserves tension; no closure.
-Confidence: UNBINDING (Phase I). Freeze-ready: TIER 2 (70–90% — MEM-derived; Alexander/Clive clear; ARC supports; TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, LIMIT–DECISIVE–VICTORY).
+Confidence: TIER 2 (70–90% — MEM-derived; Alexander/Clive clear; ARC supports; TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, LIMIT–DECISIVE–VICTORY). BOUND.
 
 ASSUMPTIONS BOX (freeze-ready)
 
@@ -399,9 +413,10 @@ Integration: The India WAR MEMs, taken together, encode **two modes of limit**�
 Verdict: TENSION PRESERVED. Two modes of limit; opposite locus of exposure; no resolution—dual pattern stands.
 
 SYNTHESIS 0003 — INDIAN MILITARY HISTORY: THREE DEFECTION TYPES
+Status: FROZEN · PROMOTED TO DOCTRINE 03 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0007 (RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE)
 Assumptions: (1) ENTRY 0007 evidence extends SYNTHESIS 0002 / RLL–INDIA–0002 without contradicting; (2) third defection type (invader’s proxy defects) is additive; (3) synthesis is constraint-oriented—tension preserved, no closure.
-Confidence: UNBINDING (Phase I). Freeze-ready: TIER 3 (50–70% — extends 0002; RESEARCH evidence; less direct ARC; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, LIMIT–SCOPE).
+Confidence: TIER 3 (50–70% — extends 0002; RESEARCH evidence; less direct ARC; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, LIMIT–SCOPE). BOUND.
 
 ASSUMPTIONS BOX (freeze-ready)
 
@@ -483,9 +498,10 @@ Barnes reframe (jurisdiction and liability): One issue is who was exposed when t
 Verdict: TENSION PRESERVED. Three defection types stand; RLL–INDIA–0002 remains two-mode (invader vs. defender mechanism fails); SYNTHESIS 0003 adds third type and external evidence. No resolution—pattern extended, not replaced.
 
 SYNTHESIS 0004 — NEHRU IDEALISM TOWARD CHINA: ALTERNATIVE ENCODINGS
+Status: FROZEN · PROMOTED TO DOCTRINE 04 (CIV–DOCTRINE–INDIA v1.0; accepted via DIB–INDIA 2026-02-14)
 Source: ENTRY 0008 (MEM–INDIA–REPUBLIC–NEHRU, MEM–INDIA–TIBET)
 Assumptions: (1) Nehru's idealism toward China admits multiple encodings, not only "structural weakness"; (2) same behaviour yields different implications depending on encoding chosen; (3) MEM–INDIA–TIBET (buffer loss, inherited assumption) provides evidence for inherited-framework encoding; (4) synthesis preserves tension; no closure.
-Confidence: UNBINDING (Phase I). Freeze-ready: TIER 3 (50–70% — MEM-derived; SCHOLAR LEARN session; alternative encodings documented in MEM–INDIA–REPUBLIC–NEHRU § IV.A).
+Confidence: TIER 3 (50–70% — MEM-derived; SCHOLAR LEARN session; alternative encodings documented in MEM–INDIA–REPUBLIC–NEHRU § IV.A). BOUND.
 
 ASSUMPTIONS BOX (freeze-ready)
 
@@ -539,14 +555,26 @@ Verdict: TENSION PRESERVED. Alternative encodings stand; MEM–INDIA–REPUBLIC�
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
-(No doctrines frozen. Phase I accumulation.)
+**Mirror:** Authoritative definitions and citation surface: CIV–DOCTRINE–INDIA v1.0 (doctrines 01–04). Below: SCHOLAR-side record of freeze and source synthesis only.
+
+DOCTRINE v0.1 → CIV–DOCTRINE–INDIA Doctrine 01 — "GANGES SURVIVABILITY — ORIGIN VS PERMANENCE"
+Source: SYNTHESIS 0001 (FROZEN 2026-02-14; DIB–INDIA).
+
+DOCTRINE v0.2 → CIV–DOCTRINE–INDIA Doctrine 02 — "TWO MODES OF WAR LIMIT — MECHANISM FAILURE AND EXPOSURE"
+Source: SYNTHESIS 0002 (FROZEN 2026-02-14; DIB–INDIA).
+
+DOCTRINE v0.3 → CIV–DOCTRINE–INDIA Doctrine 03 — "THREE DEFECTION TYPES"
+Source: SYNTHESIS 0003 (FROZEN 2026-02-14; DIB–INDIA).
+
+DOCTRINE v0.4 → CIV–DOCTRINE–INDIA Doctrine 04 — "NEHRU IDEALISM — ALTERNATIVE ENCODINGS"
+Source: SYNTHESIS 0004 (FROZEN 2026-02-14; DIB–INDIA).
 
 ────────────────────────────────────────────────────────────
-XVIII.A. PROPOSED RLLs (PHASE I — NON-BINDING)
+XVIII.A. BOUND RLLs (PHASE II)
 ────────────────────────────────────────────────────────────
-Candidates drafted for future binding if Phase II is authorized. Not binding in Phase I.
+RLL–INDIA–0001 and RLL–INDIA–0002 are BOUND. Doctrine connection mandatory for new MEMs/analysis per Template § III.
 
-RLL–INDIA–0001 (PROPOSED; NOT BOUND)
+RLL–INDIA–0001 (BOUND · Phase II)
 Scope: INDIA; GEO–MEM and civilizational continuity analysis
 Constraint type: Structural impossibility
 Activation trigger: When assessing Indian civilizational survivability or when interpreting MEM–INDIA–GEO–* for continuity claims
@@ -554,12 +582,12 @@ Affected file classes: MEM–INDIA–GEO–*, CIV–CORE–INDIA (diagnostic con
 
 Statement: Loss of origin basin (Indus) is survivable without civilizational redefinition; loss of heartland basin (Ganges) is not—control of the Ganges equals civilizational survivability.
 
-Derivation: ENTRY 0001 (MEM–INDIA–GEO–INDUS), ENTRY 0002 (MEM–INDIA–GEO–GANGES), SYNTHESIS 0001; Mearsheimer sharpening (control, survivability chokepoint); Barnes catalyst (who pays for severance; who benefits from basin control).
+Derivation: ENTRY 0001 (MEM–INDIA–GEO–INDUS–RIVER), ENTRY 0002 (MEM–INDIA–GEO–GANGES–RIVER), SYNTHESIS 0001; Mearsheimer sharpening (control, survivability chokepoint); Barnes catalyst (who pays for severance; who benefits from basin control).
 **Cross-frame derivation**: Mercouris (origin vs permanence); Mearsheimer (strategic geometry, control); Barnes (liability chain).
 
-Binding: Requires explicit user authorization and Phase II activation. Not enforceable until bound.
+Binding: BOUND via DIB–INDIA 2026-02-14. Enforceable in Phase II.
 
-RLL–INDIA–0002 (PROPOSED; NOT BOUND)
+RLL–INDIA–0002 (BOUND · Phase II)
 Scope: INDIA; WAR MEMs and mechanism-failure / exposure analysis
 Constraint type: Structural pattern (two modes of limit)
 Activation trigger: When assessing India WAR MEMs or when interpreting "who was exposed when the mechanism failed" in external-probe or conquest narratives
@@ -570,7 +598,7 @@ Statement: India WAR limit encodes two modes—invader's mechanism fails (exposu
 Derivation: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE), SYNTHESIS 0002; ENTRY 0007, SYNTHESIS 0003 (three defection types; Indian military history evidence). Mearsheimer sharpening (structural limit, force at distance, defection incentive); Mercouris (legitimacy of withdrawal, civilizational encoding); Barnes catalyst (who is exposed when mechanism fails; jurisdiction, liability; 1857: jurisdiction shift, who was on the hook when proxy defected).
 **Cross-frame derivation**: Mercouris (two modes of limit; civilizational endurance); Mearsheimer (structural limit, incentive structure); Barnes (exposure, mechanism failure).
 
-Binding: Requires explicit user authorization and Phase II activation. Not enforceable until bound.
+Binding: BOUND via DIB–INDIA 2026-02-14. Enforceable in Phase II.
 
 ────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
@@ -582,23 +610,23 @@ XIX. SCHOLAR DIVERGENCE INDEX (SDI)
 XX. GOVERNANCE & LOCK STATE
 ────────────────────────────────────────────────────────────
 Learning Enabled: YES
-Write Access: ENABLED (Phase I accumulation)
+Write Access: ENABLED (Phase II; doctrine mutation via DIB only)
 Ingestion: PERMITTED
 Synthesis: PERMITTED (non-binding; constraint-oriented only)
-Doctrine Mutation: PROHIBITED (no freeze without explicit authorization)
+Doctrine Mutation: LOCKED (doctrines 01–04 in CIV–DOCTRINE–INDIA; new doctrine only via FROZEN SYNTHESIS + DIB–INDIA)
 
 Permitted:
 • MEM–INDIA ingestion
 • Pattern extraction and comparative notes
 • Tension recording; hypothesis staging (non-binding)
 • Constraint-oriented synthesis (no closure)
-• Candidate RLL drafting (RLL–INDIA–####; not binding)
+• RLL enforcement (RLL–INDIA–0001, 0002 bound); doctrine connection for new MEMs
 
 Forbidden:
-• Doctrine creation or freeze
 • Verdicts; system claims; teleology
 • Closure-seeking synthesis
 • MEM or CORE modification (WRITE mode only, separate)
+• Doctrine creation outside DIB–INDIA chain
 
 ────────────────────────────────────────────────────────────
 XXI. CURRENT STATUS (COUNT TRACKING)
@@ -606,17 +634,17 @@ XXI. CURRENT STATUS (COUNT TRACKING)
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XII count tracking)
 
 Current counts:
-• Learning entries: 9
-• Frozen syntheses: 0
-• Bound RLLs: 0
-• Proposed RLLs pending: 2 (RLL–INDIA–0001, RLL–INDIA–0002)
-• Non-binding syntheses recorded: 4
-• Freeze-ready syntheses: 4 (SYNTHESIS 0001, 0002, 0003, 0004 — Assumptions Box, Confidence tier, ACH for 0003; MEM–INDIA–REPUBLIC–NEHRU § IV.A for 0004)
+• Learning entries: 10
+• Frozen syntheses: 4 (SYNTHESIS 0001, 0002, 0003, 0004 → CIV–DOCTRINE–INDIA 01–04)
+• Bound RLLs: 2 (RLL–INDIA–0001, RLL–INDIA–0002)
+• Proposed RLLs pending: 0
+• Non-binding syntheses recorded: 0 (all four promoted to doctrine)
+• Doctrine count: 4 (CIV–DOCTRINE–INDIA v1.0)
 
-Sharpening exercise (2026-02-14): TEST–RLL–INDIA–0001–PARTITION–POSITIVE, TEST–RLL–INDIA–0001–LIMIT–SCOPE; TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, TEST–RLL–INDIA–0002–LIMIT–DECISIVE–VICTORY; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, TEST–RLL–INDIA–0003–LIMIT–SCOPE. Freeze and DIB acceptance require explicit user authorization.
+Sharpening exercise (2026-02-14): TEST–RLL–INDIA–0001–PARTITION–POSITIVE, TEST–RLL–INDIA–0001–LIMIT–SCOPE, TEST–RLL–INDIA–0001–IVC–LECTURE–POSITIVE (illustrative; external lecture); TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, TEST–RLL–INDIA–0002–LIMIT–DECISIVE–VICTORY; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, TEST–RLL–INDIA–0003–LIMIT–SCOPE. Freeze and DIB acceptance require explicit user authorization.
 
 Update with each additive upgrade.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–INDIA — v2.2
+END OF FILE — CIV–SCHOLAR–INDIA — v2.3
 ────────────────────────────────────────────────────────────

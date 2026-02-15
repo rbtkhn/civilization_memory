@@ -45,7 +45,7 @@ CIV–MEM–CORE v3.0 is the system preload. All civilization CORE, SCHOLAR, IND
 | CIV–CORE–TEMPLATE | v3.0 ✓ | END OF FILE v2.0 | Footer → v3.0 |
 | CIV–MIND–TEMPLATE | v3.0 ✓ | END OF FILE v2.5; line 317 example v2.5 | Footer → v3.0; example optional |
 | CIV–ARC–LEDGER–TEMPLATE | v3.0 ✓ | END OF FILE v1.0 | Footer → v3.0 (per manifest) |
-| CIV–CEO–TEMPLATE | v3.0 ✓ | END OF FILE v1.0 | No change (ephemeral; v1.0 acceptable) |
+| CIV–CEV–TEMPLATE | v3.0 ✓ | END OF FILE v1.0 | No change (ephemeral; v1.0 acceptable) |
 
 ---
 

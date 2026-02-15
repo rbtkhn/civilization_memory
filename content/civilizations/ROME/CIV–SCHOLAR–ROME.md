@@ -1607,7 +1607,7 @@ CANONICAL REFERENCE:
 • CIV–MEM–TEMPLATE v2.7 (CURRENT)
 • Location: docs/templates/CIV–MEM–TEMPLATE.md
 • Key additions since v2.5: ERC namespace, Quote-Analysis math,
-  CEO Promotion Provenance
+  CEV Promotion Provenance
 
 The embedded v2.5 content below is HISTORICAL REFERENCE ONLY.
 For governance, always consult the canonical template.

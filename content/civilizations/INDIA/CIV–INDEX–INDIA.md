@@ -5,26 +5,33 @@ Repository: https://github.com/rbtkhn/civilization_memory
 Status: ACTIVE · CANONICAL
 Version: 3.2
 Supersedes: CIV–INDEX–INDIA v3.1
-Upgrade Type: LITERATURE · V-A LIT section; 5 MEMs (Mahabharata, Ramayana, Kalidasa, Arthashastra, Tagore)
+Upgrade Type: LITERATURE · V-A LIT section; 9 MEMs (Mahabharata, Ramayana, Kalidasa, Arthashastra, Bhagavad Gita, Sanskrit, Upanishads, Vedas, Tagore)
 Civilization: INDIA
 Class: CIV–INDEX
 Last Update: February 2026
-Total MEM–INDIA files indexed: 51
+Total MEM–INDIA files indexed: 61
 Word Count: ~1,100
 
 Template Alignment: CIV–INDEX–TEMPLATE v3.2 (structural parity)
 Governed by: CIV–MEM–CORE v3.3
-Referenced by: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA · CIV–ARC–INDIA
+Referenced by: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA · CIV–ARC–INDIA · CIV–DOCTRINE–INDIA
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
 ────────────────────────────────────────────────────────────
-This index provides the authoritative registry of all MEM–INDIA files.
-It enforces structural comparability with other civilization indexes
-(ANGLIA, FRANCIA, GERMANIA, RUSSIA, CHINA).
+This index provides the authoritative registry of all MEM–INDIA files and canonical governance files for the India civilization.
+
+────────────────────────────────────────────────────────────
+I-A. CANONICAL GOVERNANCE FILES
+────────────────────────────────────────────────────────────
+• CIV–CORE–INDIA — v3.3
+• CIV–SCHOLAR–INDIA — v2.3 (Phase II; RLLs 0001–0002 bound)
+• CIV–STATE–INDIA — v1.0 (decision support; derived from SCHOLAR/CORE/DOCTRINE 2026-02-14)
+• CIV–ARC–INDIA — v2.0 / v3.2
+• CIV–DOCTRINE–INDIA — v1.0 (doctrines 01–04; DIB–INDIA 2026-02-14)
 
 INDEX ROLE (v2.0 CONTINUITY):
-• Canonical registry for India memory objects
+• Canonical registry for India memory objects and governance files
 • Parity enforcement surface (INDIA ↔ other civilizations)
 • Scholar-mode discovery anchor
 • Naming, pairing, and deprecation authority
@@ -46,6 +53,10 @@ II. DYNASTIES & STATE FORMATION
 ────────────────────────────────────────────────────────────
 III. COLONIAL & IMPERIAL INTERACTION
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–PORTUGAL–EMPIRE.md
+• MEM–INDIA–PORTUGAL–EMPIRE–GOA.md
+• MEM–INDIA–PORTUGAL–EMPIRE–CALICUT.md
+• MEM–INDIA–FRENCH–EMPIRE.md
 • MEM–INDIA–BRITISH–EMPIRE.md
 • MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY.md
 • MEM–INDIA–BRITISH–EMPIRE–CALCUTTA.md
@@ -79,8 +90,10 @@ V. GEOGRAPHY & CIVILIZATIONAL SPACE
 • MEM–INDIA–BENGAL.md
 • MEM–INDIA–BANGLADESH.md
 • MEM–INDIA–PUNJAB.md
-• MEM–INDIA–GEO–INDUS.md
-• MEM–INDIA–GEO–GANGES.md
+• MEM–INDIA–GEO–INDUS–RIVER.md
+• MEM–INDIA–INDUS–VALLEY–CIVILIZATION.md
+• MEM–INDIA–BRONZE–AGE.md
+• MEM–INDIA–GEO–GANGES–RIVER.md
 • MEM–INDIA–SILK–ROAD.md
 
 ────────────────────────────────────────────────────────────
@@ -90,6 +103,10 @@ V-A. LITERATURE & CIVILIZATIONAL TRANSMISSION
 • MEM–INDIA–LIT–RAMAYANA.md
 • MEM–INDIA–LIT–KALIDASA.md
 • MEM–INDIA–LIT–ARTHASHASTRA.md
+• MEM–INDIA–LIT–BHAGAVAD–GITA.md
+• MEM–INDIA–LIT–SANSKRIT.md
+• MEM–INDIA–LIT–UPANISHADS.md
+• MEM–INDIA–LIT–VEDAS.md
 • MEM–INDIA–LIT–TAGORE.md
 
 ────────────────────────────────────────────────────────────
@@ -117,7 +134,7 @@ VII. CIVILIZATIONAL INTERFACES
 ────────────────────────────────────────────────────────────
 VIII. INDEX COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-Total MEM–INDIA files indexed: 51
+Total MEM–INDIA files indexed: 61
 
 Unindexed files: NONE
 Naming conflicts detected: NONE

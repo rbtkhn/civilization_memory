@@ -15,6 +15,7 @@ Governed by: CIV–MEM–CORE v3.3
 • CIV–INDEX–INDIA v3.2 (MEM scope: 51 files)
 ARC Reference: CIV–ARC–INDIA v3.2
 MEM–RELEVANCE–INDIA v1.0 (STATE dimension-to-MEM index; active when CIV–STATE–INDIA created)
+Doctrine Reference: CIV–DOCTRINE–INDIA v1.0 (doctrines 01–04; mirror binding when cited). 01: Ganges Survivability — Origin vs Permanence; 02: Two Modes of WAR Limit; 03: Three Defection Types; 04: Nehru Idealism — Alternative Encodings. See CIV–DOCTRINE–INDIA.
 Last Update: February 2026
 WORDCOUNT: ~2,600
 
@@ -349,11 +350,10 @@ CIV–CORE–INDIA is SCHOLAR-ENABLED.
   OGE generates options, not conclusions; OGE is governed by CIV–SCHOLAR–PROTOCOL.
 • Learning ledger: CIV–SCHOLAR–INDIA (if present) accumulates patterns;
   CORE remains the supreme constraint surface for INDIA.
-• Scholar Reference: CIV–SCHOLAR–INDIA v2.3 (proposed RLLs 0001–0003, SYNTHESIS 0004;
-  not binding until Phase II).
+• Scholar Reference: CIV–SCHOLAR–INDIA v2.3 (Phase II; RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 frozen → CIV–DOCTRINE–INDIA 01–04).
 • STATE-readiness: MEM–RELEVANCE–INDIA v1.0 provides dimension-to-MEM mapping for
-  Decision Points and other STATE activities; CIV–STATE–INDIA (when created) will
-  load this CORE per entity-bundle re-anchor (cmc-state-mem-grounding).
+  Decision Points and other STATE activities; CIV–STATE–INDIA v1.0 created 2026-02-14,
+  loads this CORE per entity-bundle re-anchor (cmc-state-mem-grounding).
 
 ────────────────────────────────────────────────────────────
 XIX. SESSION HEADER (OPTIONAL)

@@ -114,7 +114,7 @@ VII. MEM CONNECTIONS
   consensus; stress-test of republican legitimacy.
 • MEM–INDIA–BRITISH–EMPIRE–PARTITION — British exit; cost externalized;
   boundary-making as handover mechanism; Kashmir left unresolved.
-• MEM–INDIA–GEO–INDUS — Indus severed at Partition; Pakistan holds
+• MEM–INDIA–GEO–INDUS–RIVER — Indus severed at Partition; Pakistan holds
   western basin; origin spine lost to India.
 • MEM–INDIA–ISLAM — Civilizational interface; secular India vs Islamic
   Pakistan; pluralism and contestation.

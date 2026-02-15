@@ -44,8 +44,7 @@ The Delhi Sultanate:
 Structural outcome: India **deflected** Mongol conquest. Steppe
 pressure was real; conquest was not achieved. The Sultanate’s
 survival preserved a distinct political center on the Ganges—
-one of the empires that reconstitute along the basin (MEM–INDIA–
-GEO–GANGES).
+one of the empires that reconstitute along the basin (MEM–INDIA–GEO–GANGES–RIVER).
 
 ────────────────────────────────────────────────────────────
 III. TIMUR’S SACK OF DELHI (1398) — SHOCK WITHOUT CONQUEST
@@ -147,9 +146,9 @@ VIII. MEM CONNECTIONS
   lineage; First Panipat (1526); defection theory (defender elites).
 • MEM–INDIA–DELHI–SULTANATE — Sultanate deflected Mongol pressure;
   endured Timur 1398; fell to Mughals at Panipat (defender elites).
-• MEM–INDIA–GEO–GANGES — Delhi Sultanate, Mughal among empires
+• MEM–INDIA–GEO–GANGES–RIVER — Delhi Sultanate, Mughal among empires
   reconstituting along the Ganges; core holds.
-• MEM–INDIA–GEO–INDUS — Northwest corridor; same axis as Mongol
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest corridor; same axis as Mongol
   raids, Timur, Company.
 • MEM–INDIA–BRITISH–EMPIRE–CLIVE — Same defection type (defender elites,
   fragmentation) at opposite epoch; Mughal entry at Panipat,

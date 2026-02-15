@@ -39,7 +39,7 @@ Core features:
 • Sikh majority (Indian Punjab); Muslim majority (pre-Partition
   western districts); Hindu–Sikh–Muslim plurality before 1947
 • Indus basin — Punjab drains to Indus; Partition severed Punjab
-  from Indus (MEM–INDIA–GEO–INDUS)
+  from Indus (MEM–INDIA–GEO–INDUS–RIVER)
 
 Punjab encodes **invasion corridor**—the northwestern entry axis
 into the subcontinent; and **Partition fracture**—the region most
@@ -74,7 +74,7 @@ For India, Punjab encodes:
 • Sikh heartland — Indian Punjab as Sikh-majority state; Khalistan
   tension; identity and territory
 • Indus severance — East Punjab cut off from Indus; India survives
-  separation; MEM–INDIA–GEO–INDUS
+  separation; MEM–INDIA–GEO–INDUS–RIVER
 
 Punjab is remembered as **corridor severed**—the northwest divided
 by boundary-making; invasion axis becomes Partition axis.
@@ -82,7 +82,7 @@ by boundary-making; invasion axis becomes Partition axis.
 ────────────────────────────────────────────────────────────
 V. RELATION TO INDUS & PARTITION
 ────────────────────────────────────────────────────────────
-MEM–INDIA–GEO–INDUS preserves Indus as origin spine; Partition
+MEM–INDIA–GEO–INDUS–RIVER preserves Indus as origin spine; Partition
 severs Punjab from Indus. MEM–INDIA–PARTITION preserves the wound
 event; MEM–INDIA–BRITISH–EMPIRE–PARTITION preserves Radcliffe.
 This MEM preserves **Punjab**—the five-rivers region; invasion
@@ -106,7 +106,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–GEO–INDUS — Punjab as Indus tributaries; severance
+• MEM–INDIA–GEO–INDUS–RIVER — Punjab as Indus tributaries; severance
   at Partition; origin spine lost.
 • MEM–INDIA–PARTITION — Punjab severed; Radcliffe Line; mass
   displacement; wound event.

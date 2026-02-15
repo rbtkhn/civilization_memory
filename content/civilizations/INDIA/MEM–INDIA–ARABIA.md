@@ -153,7 +153,7 @@ VIII. MEM CONNECTIONS
   Red Sea; India at eastern reach.
 • MEM–INDIA–PERSIA — Persian Gulf; Persia and Arabia as
   India's western interfaces; Gulf as shared space.
-• MEM–INDIA–GEO–INDUS — Northwest Islamic entry via Persia/
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest Islamic entry via Persia/
   Afghanistan; Arabian origin, Persianate transmission.
 • MEM–INDIA–WAR–GHAZNAVID — Early Islamic pressure; Turkic
   transmission; Arabian origin of Islam.

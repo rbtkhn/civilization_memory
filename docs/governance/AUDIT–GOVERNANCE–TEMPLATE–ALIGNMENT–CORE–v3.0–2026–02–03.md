@@ -45,7 +45,7 @@
 | CIV–MIND–MERCOURIS.md | — (Supersedes v2.6) | Governed by (header) | v3.0 | ALIGNED |
 | CIV–MIND–MEARSHEIMER.md | — (Supersedes v2.6) | Governed by (header) | v3.0 | ALIGNED |
 | CIV–MIND–BARNES.md | — (Supersedes v2.6) | Governed by (header) | v3.0 | **FIXED** (internal “Version aligned with CIV–MIND–TEMPLATE v2.5” → v3.0) |
-| CIV–CEO–TEMPLATE.md | v3.0 | Compatibility: EPHEMERAL–OBSERVATION–PROTOCOL | v1.0 (footer) | **FIXED** → footer v3.0 |
+| CIV–CEV–TEMPLATE.md | v3.0 | Compatibility: EPHEMERAL–OBSERVATION–PROTOCOL | v1.0 (footer) | **FIXED** → footer v3.0 |
 
 ---
 
@@ -58,15 +58,15 @@
 2. **CIV–MIND–BARNES.md**  
    - Section XII (or equivalent): “Version aligned with CIV–MIND–TEMPLATE v2.5.” → “Version aligned with CIV–MIND–TEMPLATE v3.0.” (both occurrences if present)
 
-3. **CIV–CEO–TEMPLATE.md**  
-   - END OF FILE: `CIV–CEO–TEMPLATE v1.0` → `CIV–CEO–TEMPLATE v3.0`
+3. **CIV–CEV–TEMPLATE.md**  
+   - END OF FILE: `CIV–CEO–TEMPLATE v1.0` → `CIV–CEV–TEMPLATE v3.0`
 
 ---
 
 ## V. SUMMARY
 
 - **Governance:** All core governance (CORE, BOOTSTRAP, VERSION–MANIFEST) at v3.0 and CORE-bound. MEM–UPGRADE–VERIFICATION–CHECKLIST authority/reference updated to v3.0.
-- **Templates:** All 13 templates declare v3.0 in header or compatibility; two internal inconsistencies corrected (BARNES alignment line, CEO footer).
+- **Templates:** All 13 templates declare v3.0 in header or compatibility; two internal inconsistencies corrected (BARNES alignment line, CEV footer).
 - **VERSION–MANIFEST:** Already lists all governance and template bindings at v3.0; no change required.
 
 **Audit complete.** Governance and template set are aligned to CIV–MEM–CORE v3.0.

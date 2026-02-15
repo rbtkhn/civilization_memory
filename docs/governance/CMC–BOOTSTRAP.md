@@ -3,7 +3,7 @@ Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 Governed by: CMC 3.3
-Last Update: 13 February 2026
+Last Update: 14 February 2026
 
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
@@ -19,6 +19,8 @@ RLLs 0001–0004, MEM corpus with path-dependence/ARC/Chinese-language
 integration, doctrine mirror, template alignment). India: align Scholar, MEM
 corpus, ARC, and governance touchpoints to that benchmark; continue in a new
 conversation with this as the session priority.
+
+UPDATE (2026-02-14): India Phase II activated; CIV–DOCTRINE–INDIA v1.0 created (doctrines 01–04); RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 frozen. Doctrine mirror and Scholar Phase II complete per CHECKLIST–INDIA–PHASE–II–READINESS–2026. CIV–STATE–INDIA v1.0 created (derived from SCHOLAR–INDIA, CORE, DOCTRINE, MEM–RELEVANCE). Remaining benchmark work: MEM corpus path-dependence/ARC depth, template alignment audit.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (CMC 3.3) — INTEGRATION PROGRAM ACTIVATION

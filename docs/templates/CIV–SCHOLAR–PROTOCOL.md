@@ -182,7 +182,7 @@ v2.1 introduces the following ADDITIVE changes:
 • CRITICAL FIX: LEARN MODE redefined as intellectual creative work
   (resolves contradiction with CIV–SCHOLAR–TEMPLATE v2.2)
 • Communication Register integration (Mercouris voice specification)
-• Ephemeral Observation Layer support (CEO/EOR handling)
+• Ephemeral Observation Layer support (CEV/EOR handling)
 • LEARN OGE Categories systematization (6 categories)
 • SCHOLAR ↔ MEM Conflict Handling enforcement alignment
 • Explicit phase/mode clarification (modes constrained by phases)
@@ -722,10 +722,11 @@ CANONICAL LAYER:
 • Persistent SCHOLAR state changes
 
 EPHEMERAL LAYER:
-• CEO-sourced (current events) learning
+• Current-events-sourced (CEV files) learning
 • EOR creation (not LER)
 • No binding permitted
 • Provisional observations only
+• Content accreted and compressed; retained, not discarded ("ephemeral" = non-binding + current-events source)
 
 Governed by: EPHEMERAL–OBSERVATION–PROTOCOL v1.0
 
@@ -736,7 +737,7 @@ LAYER INDICATOR:
 Ephemeral observations may reference canonical patterns
 but may NOT modify canonical SCHOLAR state.
 
-CEO files follow CIV–CEO–TEMPLATE.
+CEV files follow CIV–CEV–TEMPLATE.
 
 ────────────────────────────────────────────────────────────
 XIV-A. READ/REASON LAYER PROTOCOL (NEW · v2.4)

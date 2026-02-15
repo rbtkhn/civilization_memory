@@ -4,8 +4,57 @@ Consolidated Version History
 
 Status: ACTIVE · CANONICAL
 Governed by: CMC 3.3
-Last Updated: 2026-02-13
+Last Updated: 2026-02-14
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00015. INDIA PHASE II ACTIVATION & CIV–DOCTRINE–INDIA CREATION (14 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-14
+Type: GOVERNANCE + CONTENT (India Phase II; doctrine mirror)
+
+CHANGES:
+• CIV–SCHOLAR–INDIA: Phase I → Phase II (Constraint Grammar). SYNTHESIS 0001, 0002, 0003, 0004 FROZEN and promoted to doctrine. RLL–INDIA–0001 and RLL–INDIA–0002 BOUND via DIB–INDIA 2026-02-14. Doctrine Registry § XVIII updated with mirror to CIV–DOCTRINE–INDIA. Failure-first standard and Anomaly Flag Protocol active. Counts: 4 frozen syntheses, 2 bound RLLs.
+• CIV–DOCTRINE–INDIA v1.0 created (content/civilizations/INDIA/). Doctrines 01–04: Ganges Survivability — Origin vs Permanence; Two Modes of WAR Limit; Three Defection Types; Nehru Idealism — Alternative Encodings. Derived from CIV–SCHOLAR–INDIA SYNTHESIS 0001–0004 via DIB–INDIA.
+• CIV–CORE–INDIA: Doctrine Reference added (CIV–DOCTRINE–INDIA v1.0, doctrines 01–04); Scholar Reference updated to Phase II and bound RLLs.
+• CIV–INDEX–INDIA: I-A CANONICAL GOVERNANCE FILES added; CIV–DOCTRINE–INDIA v1.0 registered; Referenced by line updated.
+• CHECKLIST–INDIA–PHASE–II–READINESS–2026.md: Status set to APPROVED; execution applied.
+
+RATIONALE:
+User approval of Phase II readiness checklist (option c from India LEARN session synthesis). India brought toward CHINA benchmark: doctrine mirror, bound RLLs, Phase II active.
+
+────────────────────────────────────────────────────────────
+00017. CIV–STATE–INDIA CREATION (14 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-14
+Type: CONTENT (State file)
+
+CHANGES:
+• CIV–STATE–INDIA v1.0 created (content/civilizations/INDIA/). Derived from CIV–CORE–INDIA v3.3, CIV–SCHOLAR–INDIA v2.3, CIV–DOCTRINE–INDIA v1.0, MEM–RELEVANCE–INDIA v1.0. Sections I–X populated: Entity Identification, Succession, Strategic Position (three perspectives), Material Options (A–D: hold non-alignment line, accommodate where reversible, exit-building, accept conditionality), Completeness Audit, Stability Indicators, VI-B (not applicable for current options), Decision-Relevant History (doctrine patterns + ENTRY 0010), Cross-Entity Links, Source Versions, State Log.
+• CIV–INDEX–INDIA: CIV–STATE–INDIA v1.0 added to I-A CANONICAL GOVERNANCE FILES.
+• CIV–CORE–INDIA: STATE-readiness note updated — CIV–STATE–INDIA v1.0 created 2026-02-14.
+• CMC–BOOTSTRAP: CONTINUITY NOTE updated — STATE–INDIA created; optional checklist item 23 complete.
+
+RATIONALE:
+User request to proceed with deriving STATE–INDIA from SCHOLAR–INDIA. Prerequisites met (CORE, SCHOLAR, DOCTRINE, MEM–RELEVANCE). CHECKLIST–INDIA–PHASE–II–READINESS item 23 (optional STATE file when decision-support needed) satisfied.
+
+────────────────────────────────────────────────────────────
+00016. CEO → CEV RENAME (AVOID CORPORATE CONFUSION) (14 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-14
+Type: GOVERNANCE (terminology)
+
+CHANGES:
+• CIV–CEO–TEMPLATE renamed to CIV–CEV–TEMPLATE (CEV = Current EVent). Template file now docs/templates/CIV–CEV–TEMPLATE.md; old CIV–CEO–TEMPLATE.md removed.
+• EPHEMERAL–OBSERVATION–PROTOCOL: all "CEO" (Current Event Observation) replaced with "CEV" for file/record IDs and "current-events-sourced" / "CEV files" in prose. Glossary: CEO → CEV.
+• CIV–SCHOLAR–TEMPLATE, CIV–SCHOLAR–PROTOCOL: CEO/EOR → CEV/EOR; CEO-sourced → current-events-sourced (CEV files).
+• CIV–MEM–TEMPLATE: CEO → MEM promotion → CEV → MEM; CIV–CEO–TEMPLATE → CIV–CEV–TEMPLATE.
+• CIV–MIND–BARNES: EPHEMERAL LAYER "CEO-sourced" → "current-events-sourced (CEV)".
+• All CIV–SCHOLAR–[CIV] Section X: "CEO-sourced" → "current-events-sourced (CEV files)" (INDIA, CHINA, AMERICA, ANGLIA, PERSIA, ISLAM, RUSSIA, ROME).
+• Governance refs: VERSION–MANIFEST, CHANGELOG, AUDIT–* files updated to CIV–CEV–TEMPLATE. CIV–STATE–RUSSIA "Rostec CEO" (corporate title) unchanged.
+
+RATIONALE:
+User request: "CEO" abbreviation too confusing (collision with Chief Executive Officer). Option A: prose "current event observation" / "current-events-sourced"; ID prefix CEV–.
 
 ────────────────────────────────────────────────────────────
 00014-C. DEPRECATE LOCKED MEM MECHANISM (UPGRADE QUEUE) (13 FEB 2026)
@@ -344,7 +393,7 @@ CHANGES:
 • Governance: CHANGELOG, COMPLIANCE–REGISTRY, CIV–SCHOLAR–PRUNING–PROTOCOL,
   NAMESPACE–CLARIFICATION, SESSION–LEDGER, and all PROPOSAL–* files.
 • Templates: CIV–STATE–TEMPLATE (v1.12→v3.2), CIV–CORE–TEMPLATE, CIV–INDEX–TEMPLATE,
-  CIV–ARC–TEMPLATE, CIV–ARC–LEDGER–TEMPLATE, CIV–DOCTRINE–TEMPLATE, CIV–CEO–TEMPLATE,
+  CIV–ARC–TEMPLATE, CIV–ARC–LEDGER–TEMPLATE, CIV–DOCTRINE–TEMPLATE, CIV–CEV–TEMPLATE,
   CIV–MEM–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–SCHOLAR–PROTOCOL, CIV–MIND–TEMPLATE,
   CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES, and EXAMPLE–MEM–* files.
 • CIV–SCHOLAR–PRUNING–PROTOCOL compatibility updated to CIV–MEM–CORE v3.2 ·

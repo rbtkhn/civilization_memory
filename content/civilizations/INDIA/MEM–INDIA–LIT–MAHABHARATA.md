@@ -114,8 +114,9 @@ VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–DYNASTY–MAURYA — Arthashastra realism; Kautilya as post-epic statecraft
 • MEM–INDIA–LIT–ARTHASHASTRA — Statecraft as system management; epic precedes treatise
+• MEM–INDIA–LIT–BHAGAVAD–GITA — Gita embedded in epic (Bhīṣma Parva); does not resolve, intensifies question
 • MEM–INDIA–LIT–RAMAYANA — Ideal kingship (Rama) vs. contested dharma (Mahabharata)
-• MEM–INDIA–GEO–GANGES — Kurukshetra on Gangetic plain; epic geography
+• MEM–INDIA–GEO–GANGES–RIVER — Kurukshetra on Gangetic plain; epic geography
 • MEM–INDIA–LAW–CASTE–SYSTEM — Varna in epic; dharma contested;
   civilizational encoding of hierarchy
 • MEM–INDIA–HINDUISM — Dharma contested; epic encoding; Hindu

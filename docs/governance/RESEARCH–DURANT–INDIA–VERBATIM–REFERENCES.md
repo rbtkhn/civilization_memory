@@ -22,7 +22,7 @@
 
 ### A. Foundations of India — continuity and scale (Ch. XIV § I)
 
-**Suggested MEMs:** MEM–INDIA–GEO–INDUS, MEM–INDIA–GEO–GANGES, MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA, MEM–INDIA–DYNASTY–MUGHAL; any MEM requiring civilizational continuity or “India as intellectual continent.”
+**Suggested MEMs:** MEM–INDIA–GEO–INDUS–RIVER, MEM–INDIA–GEO–GANGES–RIVER, MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA, MEM–INDIA–DYNASTY–MUGHAL; any MEM requiring civilizational continuity or “India as intellectual continent.”
 
 > Nothing should more deeply shame the modern student than the recency and inadequacy of his acquaintance with India. Here is a vast peninsula of nearly two million square miles; two-thirds as large as the United States, and twenty times the size of its master, Great Britain; 320,000,000 souls, more than in all North and South America combined, or one-fifth of the population of the earth; an impressive continuity of development and civilization from Mohenjo-daro, 2900 B.C. or earlier, to Gandhi, Raman and Tagore; faiths compassing every stage from barbarous idolatry to the most subtle and spiritual pantheism; philosophers playing a thousand variations on one monistic theme from the Upanishads eight centuries before Christ to Shankara eight centuries after him; scientists developing astronomy three thousand years ago, and winning Nobel prizes in our own time; a democratic constitution of untraceable antiquity in the villages, and wise and beneficent rulers like Ashoka and Akbar in the capitals; minstrels singing great epics almost as old as Homer, and poets holding world audiences today; artists raising gigantic temples for Hindu gods from Tibet to Ceylon and from Cambodia to Java, or carving perfect palaces by the score for Mogul kings and queens — this is the India that patient scholarship is now opening up, like a new intellectual continent, to that Western mind which only yesterday thought civilization an exclusively European thing.
 
@@ -35,7 +35,7 @@
 
 ### B. Mother India — civilizational lineage
 
-**Suggested MEMs:** MEM–INDIA–GEO–INDUS, MEM–INDIA–GEO–GANGES, MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA; MEMs on philosophy, transmission, village community.
+**Suggested MEMs:** MEM–INDIA–GEO–INDUS–RIVER, MEM–INDIA–GEO–GANGES–RIVER, MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA; MEMs on philosophy, transmission, village community.
 
 > India was the motherland of our race, and Sanskrit the mother of Europe's languages: she was the mother of our philosophy; mother, through the Arabs, of much of our mathematics; mother, through the Buddha, of the ideals embodied in Christianity; mother, through the village community, of self-government and democracy. Mother India is in many ways the mother of us all.
 
@@ -53,7 +53,7 @@
 
 ### D. Himalayan barrier — gifts to the west
 
-**Suggested MEMs:** MEM–INDIA–GEO–INDUS, MEM–INDIA–DYNASTY–GUPTA; MEMs on transmission, numerals, logic.
+**Suggested MEMs:** MEM–INDIA–GEO–INDUS–RIVER, MEM–INDIA–DYNASTY–GUPTA; MEMs on transmission, numerals, logic.
 
 > It is true that even across the Himalayan barrier India has sent to the west, such gifts as grammar and logic, philosophy and fables, hypnotism and chess, and above all numerals and the decimal system.
 
@@ -120,8 +120,8 @@
 
 | MEM file | Suggested Durant passage(s) |
 |----------|----------------------------|
-| MEM–INDIA–GEO–INDUS | A (continuity, Mohenjo-daro to Gandhi); B, D (mother India, gifts) |
-| MEM–INDIA–GEO–GANGES | A (continuity, villages, Ashoka, Akbar); B |
+| MEM–INDIA–GEO–INDUS–RIVER | A (continuity, Mohenjo-daro to Gandhi); B, D (mother India, gifts) |
+| MEM–INDIA–GEO–GANGES–RIVER | A (continuity, villages, Ashoka, Akbar); B |
 | MEM–INDIA–DYNASTY–MAURYA | A (Ashoka, villages); B |
 | MEM–INDIA–DYNASTY–GUPTA | A (continuity, philosophy, Shankara); B, D |
 | MEM–INDIA–DYNASTY–MUGHAL | A (Akbar, palaces); G |

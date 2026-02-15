@@ -57,7 +57,7 @@ The CMC introduces a two-layer SCHOLAR architecture:
 ├─────────────────────────────────────────────────────────────┤
 │  EPHEMERAL OBSERVATION LAYER                                │
 │  ─────────────────────────────────────────────────────────  │
-│  • News/current-event sourced (CEO files)                   │
+│  • News/current-event sourced (CEV files)                    │
 │  • Always PROVISIONAL confidence                            │
 │  • Time-decaying (relevance fades)                          │
 │  • RLL binding NEVER permitted                              │
@@ -70,28 +70,33 @@ Ephemeral observations may REFERENCE canonical patterns.
 Ephemeral observations may NOT MODIFY canonical SCHOLAR state.
 Ephemeral observations may NOT BIND constraints.
 
+RETENTION:
+Content in this layer is accreted and compressed; it persists in the ledger
+and may be referenced or promoted. It is not discarded. "Ephemeral" denotes
+non-binding status and current-events source, not deletion.
+
 ────────────────────────────────────────────────────────────
-III. CURRENT EVENT OBSERVATION (CEO) FILES
+III. CURRENT EVENT OBSERVATION (CEV) FILES
 ────────────────────────────────────────────────────────────
-CEO files are the ephemeral equivalent of MEM files.
+CEV (current event observation) files are the ephemeral equivalent of MEM files.
 
 III.A FILE NAMING CONVENTION
 ────────────────────────────────────────────────────────────
-Format: CEO–[TOPIC]–[DATE]–[PRIMARY-SOURCE]
+Format: CEV–[TOPIC]–[DATE]–[PRIMARY-SOURCE]
 
 Examples:
-• CEO–UKRAINE–2026-01-23–REUTERS
-• CEO–CHINA-TAIWAN–2026-01-23–FT
-• CEO–RUSSIA-ECONOMY–2026-01-23–ECONOMIST
-• CEO–US-ELECTION–2026-01-23–AP
+• CEV–UKRAINE–2026-01-23–REUTERS
+• CEV–CHINA-TAIWAN–2026-01-23–FT
+• CEV–RUSSIA-ECONOMY–2026-01-23–ECONOMIST
+• CEV–US-ELECTION–2026-01-23–AP
 
-III.B CEO FILE STRUCTURE
+III.B CEV FILE STRUCTURE
 ────────────────────────────────────────────────────────────
 
 ┌─────────────────────────────────────────────────────────────┐
 │  CURRENT EVENT OBSERVATION                                  │
 ├─────────────────────────────────────────────────────────────┤
-│  CEO-ID:        CEO–[TOPIC]–[DATE]–[SOURCE]                 │
+│  CEV-ID:        CEV–[TOPIC]–[DATE]–[SOURCE]                 │
 │  Date:          [observation date]                          │
 │  Topic:         [subject area]                              │
 │  Civilization:  [if applicable]                             │
@@ -126,7 +131,7 @@ III.B CEO FILE STRUCTURE
 
 III.C SOURCE ATTRIBUTION REQUIREMENTS
 ────────────────────────────────────────────────────────────
-Every CEO must disclose:
+Every CEV file must disclose:
 
 1. PRIMARY SOURCES (minimum 2 for significant claims)
    • Publication name
@@ -147,15 +152,15 @@ Every CEO must disclose:
    • Conflicting reports: note the conflict explicitly
 
 ────────────────────────────────────────────────────────────
-IV. CEO INGESTION RULES
+IV. CEV INGESTION RULES
 ────────────────────────────────────────────────────────────
 How LEARN mode processes current events differs from MEM ingestion.
 
-IV.A COMPARISON: MEM VS CEO INGESTION
+IV.A COMPARISON: MEM VS CEV INGESTION
 ────────────────────────────────────────────────────────────
 
 ┌─────────────────────────────────────────────────────────────┐
-│  ASPECT              │  MEM FILES        │  CEO FILES       │
+│  ASPECT              │  MEM FILES        │  CEV FILES       │
 ├─────────────────────────────────────────────────────────────┤
 │  Confidence          │  Based on source  │  Always          │
 │                      │  tier (A-D)       │  PROVISIONAL     │
@@ -182,7 +187,7 @@ IV.A COMPARISON: MEM VS CEO INGESTION
 
 IV.B EPHEMERAL OBSERVATION RECORD (EOR)
 ────────────────────────────────────────────────────────────
-When LEARN mode processes a CEO, it creates an EOR (not LER).
+When LEARN mode processes a current event observation (CEV) file, it creates an EOR (not LER).
 
 EOR FORMAT:
 
@@ -190,7 +195,7 @@ EOR FORMAT:
 │  EPHEMERAL OBSERVATION RECORD                               │
 ├─────────────────────────────────────────────────────────────┤
 │  EOR-ID:           EOR–[CIV]–[TIMESTAMP]                    │
-│  CEO Source:       [CEO file ID]                            │
+│  CEV Source:       [CEV file ID]                            │
 │  Observation Date: [when observed]                          │
 │  Decay Date:       [when relevance expires]                 │
 │                                                             │
@@ -212,7 +217,7 @@ EOR FORMAT:
 │  Status: ACTIVE / DECAYED / PROMOTED                        │
 └─────────────────────────────────────────────────────────────┘
 
-IV.C WHAT CEO INGESTION MAY DO
+IV.C WHAT CEV INGESTION MAY DO
 ────────────────────────────────────────────────────────────
 • Reference existing canonical patterns
 • Test RLL predictions against current events
@@ -221,7 +226,7 @@ IV.C WHAT CEO INGESTION MAY DO
 • Flag observations for future MEM curation
 • Inform IMAGINE mode presentation of current events
 
-IV.D WHAT CEO INGESTION MAY NOT DO
+IV.D WHAT CEV INGESTION MAY NOT DO
 ────────────────────────────────────────────────────────────
 • Modify canonical SCHOLAR state
 • Create binding patterns
@@ -237,7 +242,7 @@ Protecting canonical SCHOLAR from news contamination.
 
 V.A CONFIDENCE CEILING
 ────────────────────────────────────────────────────────────
-All CEO-sourced observations are capped at PROVISIONAL.
+All current-events-sourced observations are capped at PROVISIONAL.
 
 No amount of news corroboration can elevate confidence.
 Only MEM curation (after temporal distance) can create
@@ -297,13 +302,13 @@ A claim from RT and a claim from BBC, if they agree, is stronger
 than either alone. Knowing positions enables evaluation.
 
 ────────────────────────────────────────────────────────────
-VI. CEO → MEM PROMOTION PATH
+VI. CEV → MEM PROMOTION PATH
 ────────────────────────────────────────────────────────────
 How ephemeral observations become canonical knowledge.
 
 VI.A PROMOTION CRITERIA
 ────────────────────────────────────────────────────────────
-A CEO observation is promotion-eligible when:
+A CEV observation is promotion-eligible when:
 
 1. TEMPORAL DISTANCE
    • Sufficient time has passed for facts to settle
@@ -331,7 +336,7 @@ VI.B PROMOTION PROCEDURE
 ────────────────────────────────────────────────────────────
 
 1. FLAG FOR PROMOTION
-   • Mark CEO observation as PROMOTION_CANDIDATE
+   • Mark CEV observation as PROMOTION_CANDIDATE
    • Note rationale for promotion
    • Identify required source upgrades
 
@@ -352,9 +357,9 @@ VI.B PROMOTION PROCEDURE
    • Canonical SCHOLAR updated
    • Patterns may now bind
 
-5. ARCHIVE CEO WITH PROVENANCE
-   • Original CEO archived (not deleted)
-   • Link CEO → MEM for provenance
+5. ARCHIVE CEV WITH PROVENANCE
+   • Original CEV archived (not deleted)
+   • Link CEV → MEM for provenance
    • Note "promoted from ephemeral observation"
 
 VI.C PROMOTION RESTRICTIONS
@@ -427,7 +432,7 @@ CANONICAL LEARN:
 • Standard LER creation
 
 EPHEMERAL LEARN:
-• Working with CEO files / news
+• Working with current event observation (CEV) files / news
 • Observation only
 • No binding permitted
 • EOR creation
@@ -471,7 +476,7 @@ K. Search for corroborating/conflicting reports
 L. Identify what this source can and cannot see
 
 ─── OBSERVATION ACTION ───
-M. Create provisional observation (CEO/EOR)
+M. Create provisional observation (CEV/EOR)
 N. Note this for future MEM curation
 O. Archive without formal observation
 
@@ -765,7 +770,7 @@ X.A DATABASE EXTENSIONS
 -- Current Event Observation files
 CREATE TABLE IF NOT EXISTS ceo_files (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
-  ceo_id TEXT UNIQUE NOT NULL,          -- CEO–[TOPIC]–[DATE]–[SOURCE]
+  cev_id TEXT UNIQUE NOT NULL,          -- CEV–[TOPIC]–[DATE]–[SOURCE]
   topic TEXT NOT NULL,
   observation_date TEXT NOT NULL,
   civilization TEXT,
@@ -830,22 +835,22 @@ X.B SERVICE LAYER
 ────────────────────────────────────────────────────────────
 New services required:
 
-• `ceo.service` — CEO file management
+• `cev.service` — CEV file management
 • `ephemeral-observation.service` — EOR creation and lifecycle
 • `decay.service` — Automatic decay processing
-• `promotion.service` (extended) — CEO → MEM promotion
+• `promotion.service` (extended) — CEV → MEM promotion
 
 X.C API ENDPOINTS
 ────────────────────────────────────────────────────────────
 
 ```
-POST   /api/ceo                    — Create CEO file
-GET    /api/ceo                    — List CEO files (with filters)
-GET    /api/ceo/:id                — Get CEO file
+POST   /api/cev                    — Create CEV file
+GET    /api/cev                    — List CEV files (with filters)
+GET    /api/cev/:id                — Get CEV file
 PATCH  /api/ceo/:id/status         — Update status
 POST   /api/ceo/:id/promote        — Initiate promotion
 
-POST   /api/eor                    — Create EOR from CEO
+POST   /api/eor                    — Create EOR from CEV
 GET    /api/eor                    — List EORs
 GET    /api/eor/active             — Get active (non-decayed) EORs
 POST   /api/eor/:id/decay          — Manually decay
@@ -873,7 +878,7 @@ The ephemeral layer may NOT:
 ────────────────────────────────────────────────────────────
 XII. GLOSSARY
 ────────────────────────────────────────────────────────────
-CEO — Current Event Observation (ephemeral source file)
+CEV — Current Event Observation (ephemeral source file; CEV = Current EVent)
 CORROBORATION — Multiple-source confirmation requirement
 DECAY — Loss of relevance over time
 EPHEMERAL VOICE REGISTER — Modulated Mercouris voice for provisional analysis

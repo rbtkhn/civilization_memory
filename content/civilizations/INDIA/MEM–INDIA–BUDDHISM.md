@@ -159,7 +159,7 @@ VIII. MEM CONNECTIONS
   expansion.
 • MEM–INDIA–LAW–CASTE–SYSTEM — Buddhism as alternative to varna;
   Dalit Buddhism; protest against hierarchy.
-• MEM–INDIA–GEO–GANGES — Bodh Gaya, Sarnath; Buddhism born on
+• MEM–INDIA–GEO–GANGES–RIVER — Bodh Gaya, Sarnath; Buddhism born on
   Gangetic plains.
 
 ────────────────────────────────────────────────────────────

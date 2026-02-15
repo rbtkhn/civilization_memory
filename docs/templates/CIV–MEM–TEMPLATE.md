@@ -76,18 +76,18 @@ GEO–MEM SPECIFIC REQUIREMENTS (NEW):
 See: CIV–MEM–CORE v3.3, Section VP-1.g (content proportion rule)
 
 ────────────────────────────────────────────────────────────
-UPGRADE NOTE (v2.7) — CEO PROMOTION PROVENANCE
+UPGRADE NOTE (v2.7) — CEV PROMOTION PROVENANCE
 ────────────────────────────────────────────────────────────
 This version added provenance tracking for MEMs promoted from
-Current Event Observations (CEOs).
+Current event observations (CEV files).
 
 NEW SECTION:
-• CEO → MEM Promotion Provenance (Section XX)
+• CEV → MEM Promotion Provenance (Section XX)
 • Documents observation-to-canonical pathway
 • Required only for MEMs promoted from ephemeral observations
-• Cross-references EPHEMERAL–OBSERVATION–PROTOCOL and CIV–CEO–TEMPLATE
+• Cross-references EPHEMERAL–OBSERVATION–PROTOCOL and CIV–CEV–TEMPLATE
 
-MEMs promoted from CEOs must include provenance block but still
+MEMs promoted from CEV files must include provenance block but still
 meet full template compliance including 20% EQS with upgraded sources.
 
 ────────────────────────────────────────────────────────────
@@ -697,22 +697,22 @@ This file MUST be mirrored verbatim into:
 Any divergence invalidates MEM compliance for that civilization.
 
 ────────────────────────────────────────────────────────────
-XX. CEO → MEM PROMOTION PROVENANCE (NEW · v2.7)
+XX. CEV → MEM PROMOTION PROVENANCE (NEW · v2.7)
 ────────────────────────────────────────────────────────────
-When a MEM file is created from a promoted Current Event Observation,
+When a MEM file is created from a promoted current event observation (CEV),
 it must include provenance information.
 
 PROMOTION PROVENANCE BLOCK (when applicable):
 
 PROMOTION PROVENANCE:
 ────────────────────────────────────────────────────────────
-• Promoted From: [CEO-ID, e.g., CEO–UKRAINE–2026-01-24–REUTERS]
-• Original Observation Date: [Date of CEO creation]
+• Promoted From: [CEV-ID, e.g., CEV–UKRAINE–2026-01-24–REUTERS]
+• Original Observation Date: [Date of CEV creation]
 • Promotion Date: [Date of MEM creation]
 • Temporal Distance: [Time between observation and promotion]
 • Source Upgrade: [What new sources enabled promotion]
 
-This block is OPTIONAL — only required for MEMs promoted from CEO files.
+This block is OPTIONAL — only required for MEMs promoted from CEV files.
 
 PURPOSE:
 • Maintains epistemic chain of custody
@@ -723,15 +723,15 @@ PURPOSE:
 REQUIREMENTS FOR PROMOTED MEMS:
 • Must meet full CIV–MEM–TEMPLATE compliance
 • Must achieve 20% EQS with upgraded sources
-• Original CEO sources alone are insufficient
+• Original CEV sources alone are insufficient
 • Provenance block does not reduce evidentiary standards
 
 ENFORCEMENT (BINDING):
-If a MEM is promoted from a CEO, omission of this provenance block
+If a MEM is promoted from a CEV file, omission of this provenance block
 INVALIDATES CANONICAL LOCK.
 
-See: EPHEMERAL–OBSERVATION–PROTOCOL VI (CEO → MEM Promotion Path)
-See: CIV–CEO–TEMPLATE XI (Promotion Requirements)
+See: EPHEMERAL–OBSERVATION–PROTOCOL VI (CEV → MEM Promotion Path)
+See: CIV–CEV–TEMPLATE XI (Promotion Requirements)
 
 ────────────────────────────────────────────────────────────
 XXI. WORD COUNT GOVERNANCE
@@ -884,7 +884,7 @@ v2.8 ADDITIONS:
 • GEO–MEM File Type Requirements section
 
 v2.7 ADDITIONS:
-• CEO → MEM Promotion Provenance section
+• CEV → MEM Promotion Provenance section
 • Word Count Governance section
 
 ────────────────────────────────────────────────────────────

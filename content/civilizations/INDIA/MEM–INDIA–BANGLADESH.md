@@ -60,7 +60,7 @@ For India, Bangladesh encodes:
 
 • **Ganges delta sovereign** — Same heartland substrate as West
   Bengal; sacred geography, demography, riverine agriculture;
-  now a neighbour, not a province (MEM–INDIA–GEO–GANGES)
+  now a neighbour, not a province (MEM–INDIA–GEO–GANGES–RIVER)
 • **1971 as decisive moment** — India's intervention; Pakistan's
   surrender; Bangladesh emergence; Shimla as procedural legacy
 • **Cultural continuity, political separation** — Bengal divided
@@ -113,7 +113,7 @@ VI. MEM CONNECTIONS
   Shimla Agreement; decisive moment.
 • MEM–INDIA–PAKISTAN — East Pakistan (1947–1971); Pakistan truncated
   by 1971; Bangladesh emergence.
-• MEM–INDIA–GEO–GANGES — Ganges delta; shared heartland substrate;
+• MEM–INDIA–GEO–GANGES–RIVER — Ganges delta; shared heartland substrate;
   sacred geography.
 • MEM–INDIA–BRITISH–EMPIRE–CALCUTTA — Bengal Presidency legacy;
   Calcutta and Dhaka as delta capitals.

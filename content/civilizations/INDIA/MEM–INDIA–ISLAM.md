@@ -32,7 +32,7 @@ not by erasure of the Islamic thread.
 II. TRANSMISSION & ENTRY
 ────────────────────────────────────────────────────────────
 Islam enters India via trade, conquest, and settlement—the
-northwest corridor (MEM–INDIA–GEO–INDUS) again the axis. Early
+northwest corridor (MEM–INDIA–GEO–INDUS–RIVER) again the axis. Early
 raids and Ghaznavid pressure (MEM–INDIA–WAR–GHAZNAVID); Delhi
 Sultanate (c. 1206–1526) as first sustained Islamic sultanate
 in North India (MEM–INDIA–DELHI–SULTANATE).
@@ -123,8 +123,8 @@ VIII. MEM CONNECTIONS
   plural empire without civilizational rupture.
 • MEM–INDIA–PARTITION — Exit and rupture; Pakistan; territorial
   severance; India–Islam reframed as two states.
-• MEM–INDIA–GEO–INDUS — Northwest corridor; axis of Islamic entry.
-• MEM–INDIA–GEO–GANGES — Sultanate, Mughal among empires along the
+• MEM–INDIA–GEO–INDUS–RIVER — Northwest corridor; axis of Islamic entry.
+• MEM–INDIA–GEO–GANGES–RIVER — Sultanate, Mughal among empires along the
   Ganges.
 • MEM–INDIA–WAR–GHAZNAVID — Early Islamic (Ghaznavid) pressure;
   force at distance limit.

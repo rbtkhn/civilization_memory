@@ -101,7 +101,7 @@ X. EPHEMERAL OBSERVATION LAYER
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § X)
 
-Canonical layer: MEM-sourced learning, persistent SCHOLAR state. Ephemeral layer: CEO-sourced (current events), EOR creation, no binding. Layer indicators: [LEARN: CANONICAL] / [LEARN: EPHEMERAL]. Governed by EPHEMERAL–OBSERVATION–PROTOCOL.
+Canonical layer: MEM-sourced learning, persistent SCHOLAR state. Ephemeral layer: current-events-sourced (CEV files), EOR creation, no binding; accreted and compressed, retained. Layer indicators: [LEARN: CANONICAL] / [LEARN: EPHEMERAL]. Governed by EPHEMERAL–OBSERVATION–PROTOCOL.
 
 ────────────────────────────────────────────────────────────
 XI. OGE SPECIFICATION (EMBEDDED)

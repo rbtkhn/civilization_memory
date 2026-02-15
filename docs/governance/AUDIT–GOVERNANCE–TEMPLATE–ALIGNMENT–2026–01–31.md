@@ -58,7 +58,7 @@ All governance and template alignment is verified against these sections and the
 | CIV–INDEX–TEMPLATE | v2.1 | docs/templates/CIV–INDEX–TEMPLATE.md |
 | CIV–ARC–TEMPLATE | v2.8 | docs/templates/CIV–ARC–TEMPLATE.md |
 | CIV–ARC–LEDGER–TEMPLATE | v1.0 | docs/templates/CIV–ARC–LEDGER–TEMPLATE.md |
-| CIV–CEO–TEMPLATE | v1.0 | docs/templates/CIV–CEO–TEMPLATE.md |
+| CIV–CEV–TEMPLATE | v1.0 | docs/templates/CIV–CEV–TEMPLATE.md |
 
 ---
 

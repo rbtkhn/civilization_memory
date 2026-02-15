@@ -74,16 +74,22 @@ Relevant when: Civilizational survivability, territorial integrity,
 origin vs permanence (Indus vs Ganges), or loss of geography is in play.
 
 Primary MEMs:
-• MEM–INDIA–GEO–GANGES — Enduring heartland; demography, sacred geography,
+• MEM–INDIA–GEO–GANGES–RIVER — Enduring heartland; demography, sacred geography,
   legitimacy; control of Ganges = civilizational survivability; empires
   reconstitute along Ganges
   [concepts: heartland, permanence, survivability_chokepoint]
 • MEM–INDIA–SILK–ROAD — India at eastern reach; overland northwest;
   maritime hinge; source of goods and ideas; maritime displacement
   [concepts: corridor_connection, source_not_controller]
-• MEM–INDIA–GEO–INDUS — Western origin spine; severed at Partition;
+• MEM–INDIA–GEO–INDUS–RIVER — Western origin spine; severed at Partition;
   India survives separation from birthplace; memory outlasts territory
   [concepts: origin, severance, survivable_loss]
+• MEM–INDIA–INDUS–VALLEY–CIVILIZATION — Antiquity urban layer in Indus
+  basin; trade-based, non-militarized; 4.2 ka decline, eastward migration;
+  positive instance for RLL–INDIA–0001 (origin lost, Ganges reconstitutes)
+  [concepts: origin_basin, relocation_not_collapse, administrative_before_coercive]
+• MEM–INDIA–BRONZE–AGE — India in Bronze Age world; IVC–Egypt–Mesopotamia
+  trade and demand; 4.2 ka collapse; comparative IVC distinctiveness
 • MEM–INDIA–PARTITION — Radcliffe Line; Indus severed, Ganges retained;
   cost of exit acceleration
 • MEM–INDIA–BENGAL — Bengal severed at Partition; Ganges delta;
@@ -169,6 +175,14 @@ Primary MEMs:
   Company → Crown
 
 Secondary MEMs:
+• MEM–INDIA–PORTUGAL–EMPIRE — First European colonial layer; enclave/maritime;
+  Cape route 1498; Estado da Índia; Bombay ceded 1661; Goa to 1961
+• MEM–INDIA–PORTUGAL–EMPIRE–GOA — Portuguese India capital 1510–1961;
+  annexation (Operation Vijay); contrast with British transfer
+• MEM–INDIA–PORTUGAL–EMPIRE–CALICUT — First landfall 1498; Zamorin; contact
+  and conflict; Portuguese base elsewhere (Goa)
+• MEM–INDIA–FRENCH–EMPIRE — Comptoirs (Pondicherry, Chandannagar, etc.);
+  Dupleix vs Clive; Seven Years' War; 1763 collapse; transfer 1954
 • MEM–INDIA–REPUBLIC–NEHRU — Post-imperial institutional inheritance; Ferguson
   framing
 • MEM–INDIA–GANDHI — Legitimacy collapse under moral pressure
@@ -273,6 +287,14 @@ Primary MEMs:
   [concepts: cultural_legitimacy, tradition_modernity]
 
 Secondary MEMs:
+• MEM–INDIA–LIT–SANSKRIT — Language layer (scripture, philosophy, law,
+  kavya); transmission without territory; memory outlasts territory
+• MEM–INDIA–LIT–UPANISHADS — Philosophical-soteriological core of
+  shruti; atman–brahman, moksha; continuity to Shankara; jnana vs ritual
+• MEM–INDIA–LIT–VEDAS — Ritual and liturgical foundation of shruti;
+  sacrifice, mantra, Brahminical authority; first storey of Vedic edifice
+• MEM–INDIA–LIT–BHAGAVAD–GITA — Synthesis of karma, jnana, bhakti;
+  nishkama karma, svadharma; portable ethic; embedded in Mahabharata
 • MEM–INDIA–LIT–KALIDASA — Classical peak; Gupta court; aesthetic
   legitimacy
 • MEM–INDIA–DYNASTY–MAURYA — Arthashastra encodes Mauryan logic

@@ -66,7 +66,7 @@ II. ACTIVITY SEQUENCE
 > G — Cross-civ: Persia's Caspian (MEM–PERSIA–GEO–CASPIAN) — how does it contrast with India's Ganges/Indus (RLL–INDIA–0001)?
 
 **Expected:**
-- Load MEM–PERSIA–GEO–CASPIAN; MEM–INDIA–GEO–GANGES or MEM–INDIA–GEO–INDUS
+- Load MEM–PERSIA–GEO–CASPIAN; MEM–INDIA–GEO–GANGES–RIVER or MEM–INDIA–GEO–INDUS–RIVER
 - **Connection statement:** "India: Ganges = survivability chokepoint, Indus = origin severable; Persia: Caspian = containment basin, denial/optionality. Different GEO constraint types." (CIV–SCHOLAR–INDIA ENTRY 0003 already documents this)
 - **Cross-reference:** "As we established in India, heartland vs origin; Persia has no equivalent to Ganges survivability—Caspian is defensive reservoir."
 

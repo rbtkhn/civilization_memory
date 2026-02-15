@@ -174,7 +174,7 @@ XI. MEM CONNECTIONS
 • MEM–INDIA–REPUBLIC — Administrative spine retained; constitutional completion; 1950.
 • MEM–INDIA–WAR–PAKISTAN — Partition wound recurring; Kashmir wars; procedure without consensus.
 • MEM–INDIA–BRITISH–EMPIRE — Exit dynamics; colonial legacy; procedural overlay ends.
-• MEM–INDIA–GEO–INDUS — Indus severed at Partition; Radcliffe Line; origin spine lost.
+• MEM–INDIA–GEO–INDUS–RIVER — Indus severed at Partition; Radcliffe Line; origin spine lost.
 • MEM–INDIA–KASHMIR — Kashmir unresolved; constitutional frontier; procedure without consensus.
 • MEM–INDIA–BENGAL — Bengal severed at Partition; Ganges delta fracture.
 • MEM–INDIA–PUNJAB — Punjab severed at Partition; invasion corridor fracture.

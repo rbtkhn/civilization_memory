@@ -1,4 +1,4 @@
-MEM–INDIA–GEO–INDUS — v2.1
+MEM–INDIA–GEO–INDUS–RIVER — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -105,6 +105,9 @@ Civilizational continuity and scale—Indus as origin spine—are attested in mo
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–INDUS–VALLEY–CIVILIZATION — IVC as the ancient urban
+  instantiation of the Indus origin spine; decline, eastward migration,
+  and legacy; positive instance for origin-versus-permanence (RLL–INDIA–0001).
 • MEM–INDIA–SILK–ROAD — Indus corridor; same axis for trade and
   invasion; India at eastern reach.
 • MEM–INDIA–PUNJAB — Punjab as Indus tributaries; Partition severed;
@@ -124,5 +127,5 @@ VIII. MEM BIBLIOGRAPHY
 • Wikiquote, Will Durant — Our Oriental Heritage; The Case for India. Internet Archive (Our Oriental Heritage).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GEO–INDUS — v2.1
+END OF FILE — MEM–INDIA–GEO–INDUS–RIVER — v2.1
 ────────────────────────────────────────────────────────────

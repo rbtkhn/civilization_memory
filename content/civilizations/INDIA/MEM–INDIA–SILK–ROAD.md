@@ -141,6 +141,10 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–PORTUGAL–EMPIRE — Cape route (1498); Portuguese bypass Silk Road;
+  reach India by sea; maritime displacement of overland trade.
+• MEM–INDIA–PORTUGAL–EMPIRE–CALICUT — First Portuguese landfall (1498);
+  Calicut as geographic point where Cape route completes.
 • MEM–PERSIA–SILK–ROAD — Persia as nexus; India at eastern reach;
   maritime displacement.
 • MEM–INDIA–PERSIA — India–Persia interface; Silk Road nexus;
@@ -151,7 +155,7 @@ IX. MEM CONNECTIONS
   conquest; connected via maritime axis during Pax Mongolica.
 • MEM–INDIA–MONGOL–CHAGATAI — Chagatai realm along Silk Road;
   northwest pressure on India.
-• MEM–INDIA–GEO–INDUS — Indus corridor; same axis for trade and
+• MEM–INDIA–GEO–INDUS–RIVER — Indus corridor; same axis for trade and
   invasion; origin spine.
 • MEM–INDIA–AFGHANISTAN — Afghanistan as overland node; Khyber,
   Kabul; India at eastern reach.

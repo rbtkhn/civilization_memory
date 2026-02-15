@@ -93,8 +93,8 @@ GEO–MEMs MUST have:
 
 | MEM | ARC sections | Layer 2 | 20% quotes | MEM CONNECTIONS | BIBLIOGRAPHY | Verdict |
 |-----|--------------|---------|------------|-----------------|--------------|---------|
-| MEM–INDIA–GEO–GANGES | 1 (MODERN only) | No | ~17% est. | No | Yes | **NON-COMPLIANT** |
-| MEM–INDIA–GEO–INDUS | 2 (ANCIENT, MODERN) | No | Unknown | No | Yes | **NON-COMPLIANT** |
+| MEM–INDIA–GEO–GANGES–RIVER–RIVER | 1 (MODERN only) | No | ~17% est. | No | Yes | **NON-COMPLIANT** |
+| MEM–INDIA–GEO–INDUS–RIVER–RIVER | 2 (ANCIENT, MODERN) | No | Unknown | No | Yes | **NON-COMPLIANT** |
 | MEM–INDIA–KASHMIR | 0 | No | No verbatim | No | **No** | **CRITICAL** |
 | MEM–INDIA–TIBET | 0 | No | No verbatim | No | **No** | **CRITICAL** |
 | MEM–INDIA–SRI–LANKA | 0 | No | No verbatim | No | **No** | **CRITICAL** |
@@ -141,7 +141,7 @@ WAR MEMs (new) MUST have:
 | MEM–INDIA–MONGOL–CHAGATAI | Yes | Yes | — | ✓ |
 | MEM–INDIA–ISLAM | Yes | Yes | — | ✓ |
 
-**MEMs lacking MEM CONNECTIONS:** GANDHI, NEHRU, PARTITION, DYNASTY–GUPTA, GEO–GANGES, GEO–INDUS. Template requires same-civ ≥3 (WAR/Subject); GEO–MEMs per template.
+**MEMs lacking MEM CONNECTIONS:** GANDHI, NEHRU, PARTITION, DYNASTY–GUPTA, GEO–GANGES–RIVER, GEO–INDUS–RIVER. Template requires same-civ ≥3 (WAR/Subject); GEO–MEMs per template.
 
 ---
 
@@ -163,7 +163,7 @@ Per CMC–BOOTSTRAP continuity note (2026-02-13): "Bring CIV–INDIA up to the s
 
 1. **MEM–INDIA–KASHMIR, TIBET, SRI–LANKA, GEO–HIMALAYAS:** Add MEM BIBLIOGRAPHY (mandatory).
 2. **MEM–INDIA–GEO–*:** Add 4 ARC sections (ANCIENT, MEDIEVAL, EARLY-MOD, MODERN) per GEO–MEM template.
-3. **MEM CONNECTIONS:** Add to GANDHI, NEHRU, PARTITION, DYNASTY–GUPTA, GEO–GANGES, GEO–INDUS (≥3 same-civ each).
+3. **MEM CONNECTIONS:** Add to GANDHI, NEHRU, PARTITION, DYNASTY–GUPTA, GEO–GANGES–RIVER, GEO–INDUS–RIVER (≥3 same-civ each).
 
 ### P1 — High (alignment)
 

@@ -910,7 +910,7 @@ CANONICAL:
 • Persistent SCHOLAR state
 
 EPHEMERAL:
-• CEO-sourced observations
+• Current-events-sourced (CEV) observations; accreted and compressed, retained
 • No binding
 • No state mutation
 

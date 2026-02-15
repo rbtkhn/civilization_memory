@@ -292,7 +292,7 @@ v2.2 introduced:
 v2.1 introduced integration with new architecture protocols:
 
 • Communication Register Protocol integration (LEARN mode prose style)
-• Ephemeral Observation Layer support (CEO/EOR handling)
+• Ephemeral Observation Layer support (CEV/EOR handling)
 • OGE systematization for LEARN mode
 • Cross-reference to EPHEMERAL–OBSERVATION–PROTOCOL
 
@@ -1028,10 +1028,11 @@ CANONICAL LAYER:
 • Persistent SCHOLAR state changes
 
 EPHEMERAL LAYER:
-• CEO-sourced learning
+• Current-events-sourced learning (CEV files)
 • EOR creation (not LER)
 • No binding permitted
 • Provisional observations only
+• Content is accreted and compressed; retained, not discarded ("ephemeral" = non-binding + current-events source)
 
 Governed by: EPHEMERAL–OBSERVATION–PROTOCOL v1.0
 

@@ -30,7 +30,7 @@ Contradictions are preserved without synthesis.
 II. ACHAEMENID SATRAPY — INDUS AS PERSIAN FRONTIER
 ────────────────────────────────────────────────────────────
 India enters recorded history as **Persian satrapy**—the twentieth
-province of the Achaemenid Empire (MEM–INDIA–GEO–INDUS; ARC–
+province of the Achaemenid Empire (MEM–INDIA–GEO–INDUS–RIVER; ARC–
 PERSIA-T-ANCIENT).
 
 Key elements:
@@ -116,7 +116,7 @@ VI. RELATION TO SILK ROAD, MUGHAL & INDUS
 MEM–INDIA–SILK–ROAD preserves India at eastern reach; Persia
 holds the nexus. MEM–INDIA–DYNASTY–MUGHAL preserves Mughal
 absorption of Persianate tradition; synthesis without replacement.
-MEM–INDIA–GEO–INDUS preserves Indus as origin spine; Achaemenid
+MEM–INDIA–GEO–INDUS–RIVER preserves Indus as origin spine; Achaemenid
 satrapy; Herodotus. This MEM preserves **Persia**—the interface;
 nexus; transmitter. Same corridor; different encoding. Tension
 preserved.
@@ -141,7 +141,7 @@ VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–SILK–ROAD — Persia as nexus; India at eastern reach;
   Silk Road corridor.
-• MEM–INDIA–GEO–INDUS — Achaemenid satrapy; Herodotus; Indus
+• MEM–INDIA–GEO–INDUS–RIVER — Achaemenid satrapy; Herodotus; Indus
   as Persian frontier.
 • MEM–INDIA–DYNASTY–MUGHAL — Persianate–Indic synthesis; Mughal
   absorption of Persianate tradition.

@@ -9,9 +9,9 @@
 ## I. SOURCES CONSULTED
 
 ### MEM corpus
-- **MEM–INDIA–GEO–INDUS:** Origin spine only; no claim that other basins are "origin."
-- **MEM–INDIA–GEO–GANGES:** Explicit "permanence"; "Control of the Ganges equals civilizational survivability"; no MEM–INDIA–GEO–BRAHMAPUTRA in index.
-- **CIV–INDEX–INDIA:** Geography section lists GEO–HIMALAYAS, KASHMIR, TIBET, SRI–LANKA, GEO–INDUS, GEO–GANGES. No Brahmaputra MEM. Ganges is the sole basin with "heartland/permanence" encoding in the corpus.
+- **MEM–INDIA–GEO–INDUS–RIVER–RIVER:** Origin spine only; no claim that other basins are "origin."
+- **MEM–INDIA–GEO–GANGES–RIVER–RIVER:** Explicit "permanence"; "Control of the Ganges equals civilizational survivability"; no MEM–INDIA–GEO–BRAHMAPUTRA in index.
+- **CIV–INDEX–INDIA:** Geography section lists GEO–HIMALAYAS, KASHMIR, TIBET, SRI–LANKA, GEO–INDUS–RIVER, GEO–GANGES–RIVER. No Brahmaputra MEM. Ganges is the sole basin with "heartland/permanence" encoding in the corpus.
 
 ### Supplementary
 - Standard geography: Brahmaputra (Assam, Bangladesh) has demography and sacred sites; Narmada, Godavari, Krishna, etc. have regional importance. None are encoded in the India MEM corpus as the civilizational "permanence" equivalent of the Ganges. The RLL was derived from Indus vs Ganges only.
@@ -52,7 +52,7 @@ Invoking the RLL for "loss of Brahmaputra" or "loss of any major Indian river" w
 
 RLL–INDIA–0001 applies when:
 
-1. **Geography:** The basins in question are **Indus** (origin) and **Ganges** (permanence) as encoded in MEM–INDIA–GEO–INDUS and MEM–INDIA–GEO–GANGES. Other basins (Brahmaputra, Narmada, etc.) may have distinct encodings and are **outside** the RLL unless a MEM or synthesis explicitly encodes them as origin- or permanence-equivalent.
+1. **Geography:** The basins in question are **Indus** (origin) and **Ganges** (permanence) as encoded in MEM–INDIA–GEO–INDUS–RIVER–RIVER and MEM–INDIA–GEO–GANGES–RIVER–RIVER. Other basins (Brahmaputra, Narmada, etc.) may have distinct encodings and are **outside** the RLL unless a MEM or synthesis explicitly encodes them as origin- or permanence-equivalent.
 2. **Civilization:** The RLL is **India-specific**. It was derived from India's dual-basin (origin vs permanence) grammar. Single-basin or other civilizational encodings (e.g. Egypt/Nile) are not governed by this RLL.
 3. **Loss of Ganges:** The RLL states that loss of the Ganges equals civilizational redefinition. This is a **counterfactual** (not observed in Partition); the positive test (Partition) validated "loss of Indus survivable." The scope limit does not weaken the Ganges claim but clarifies that "heartland" = Ganges in this RLL.
 

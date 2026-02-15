@@ -118,7 +118,7 @@ VII. MEM CONNECTIONS
   without consensus.
 • MEM–INDIA–KASHMIR — Constitutional frontier; contested accession;
   procedure freezes conflict.
-• MEM–INDIA–GEO–INDUS — Indus basin assigned to Pakistan; origin
+• MEM–INDIA–GEO–INDUS–RIVER — Indus basin assigned to Pakistan; origin
   spine severed from India.
 • MEM–INDIA–PUNJAB — Punjab severed; West Punjab to Pakistan.
 • MEM–INDIA–BENGAL — East Bengal to Pakistan (1947–1971); Bangladesh.

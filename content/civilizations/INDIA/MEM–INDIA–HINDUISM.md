@@ -45,7 +45,7 @@ Key features:
 • **Textual plurality** — Vedas, Upanishads, epics (Mahabharata,
   Ramayana), Puranas; no single canon
 • **Sacral geography** — Ganges, Kashi, Mathura, Rameshwaram;
-  pilgrimage encodes civilizational space (MEM–INDIA–GEO–GANGES)
+  pilgrimage encodes civilizational space (MEM–INDIA–GEO–GANGES–RIVER)
 
 Hinduism is **embedded**—in land, in hierarchy, in epic. It does
 not travel as a missionary faith; it absorbs and accommodates.
@@ -154,7 +154,7 @@ VIII. MEM CONNECTIONS
   coexistence; Sultanate and Mughal absorbed.
 • MEM–INDIA–LAW–CASTE–SYSTEM — Varna encoded in dharmashastra;
   Hinduism as civilizational hierarchy source.
-• MEM–INDIA–GEO–GANGES — Sacred geography; pilgrimage; Hinduism
+• MEM–INDIA–GEO–GANGES–RIVER — Sacred geography; pilgrimage; Hinduism
   embedded in land.
 • MEM–INDIA–LIT–MAHABHARATA — Dharma contested; epic encoding;
   civilizational grammar.
