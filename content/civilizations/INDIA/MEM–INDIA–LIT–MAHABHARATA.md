@@ -116,6 +116,10 @@ VIII. MEM CONNECTIONS
 • MEM–INDIA–LIT–ARTHASHASTRA — Statecraft as system management; epic precedes treatise
 • MEM–INDIA–LIT–RAMAYANA — Ideal kingship (Rama) vs. contested dharma (Mahabharata)
 • MEM–INDIA–GEO–GANGES — Kurukshetra on Gangetic plain; epic geography
+• MEM–INDIA–LAW–CASTE–SYSTEM — Varna in epic; dharma contested;
+  civilizational encoding of hierarchy
+• MEM–INDIA–HINDUISM — Dharma contested; epic encoding; Hindu
+  civilizational grammar
 
 ────────────────────────────────────────────────────────────
 IX. EVIDENCE — ARC-T-MODERN (VERBATIM)

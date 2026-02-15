@@ -9,7 +9,7 @@
 
 ## I. SESSION SUMMARY
 
-This session extended CIV–SCHOLAR–INDIA with (1) a Mearsheimer structural lens on the integrated India WAR pair (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE), (2) external Indian military history evidence for the defection theory, (3) a third defection type (invader’s proxy defects), (4) tri-frame reframes (Mercouris legitimacy encoding, Barnes jurisdiction/liability) inside SYNTHESIS 0003, and (5) an updated RLL–INDIA–0002 statement and derivation. No new MEMs were written; one research document and one synthesis were added; one RLL was extended.
+This session extended CIV–SCHOLAR–INDIA with (1) a Mearsheimer structural lens on the integrated India WAR pair (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE), (2) external Indian military history evidence for the defection theory, (3) a third defection type (invader’s proxy defects), (4) tri-frame reframes (Mercouris legitimacy encoding, Barnes jurisdiction/liability) inside SYNTHESIS 0003, and (5) an updated RLL–INDIA–0002 statement and derivation. No new MEMs were written; one research document and one synthesis were added; one RLL was extended.
 
 ---
 

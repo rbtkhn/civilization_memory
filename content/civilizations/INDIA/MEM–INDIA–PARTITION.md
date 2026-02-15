@@ -167,7 +167,22 @@ Ferguson frames exit and procedural withdrawal; imperial method limits [ERC-SECO
 — Niall Ferguson, *Empire: How Britain Made the Modern World* (London: Allen Lane, 2003) [ARC–INDIA-T-MODERN]. Summary-only note: verify against published edition for verbatim.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY
+XI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–BRITISH–EMPIRE–PARTITION — British exit; Radcliffe; cost externalized; handover mechanism.
+• MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — Same moment; sovereignty transfer; Dominion.
+• MEM–INDIA–REPUBLIC — Administrative spine retained; constitutional completion; 1950.
+• MEM–INDIA–WAR–PAKISTAN — Partition wound recurring; Kashmir wars; procedure without consensus.
+• MEM–INDIA–BRITISH–EMPIRE — Exit dynamics; colonial legacy; procedural overlay ends.
+• MEM–INDIA–GEO–INDUS — Indus severed at Partition; Radcliffe Line; origin spine lost.
+• MEM–INDIA–KASHMIR — Kashmir unresolved; constitutional frontier; procedure without consensus.
+• MEM–INDIA–BENGAL — Bengal severed at Partition; Ganges delta fracture.
+• MEM–INDIA–PUNJAB — Punjab severed at Partition; invasion corridor fracture.
+• MEM–INDIA–PAKISTAN — Partition twin; asymmetric emergence; wound's other half.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Procedural entry; Partition as procedural exit; bookends.
+
+────────────────────────────────────────────────────────────
+XII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.

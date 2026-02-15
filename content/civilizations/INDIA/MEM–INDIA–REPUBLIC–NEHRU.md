@@ -1,4 +1,4 @@
-MEM–INDIA–NEHRU — v2.2
+MEM–INDIA–REPUBLIC–NEHRU — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -15,7 +15,7 @@ Word Count: ~2,500
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Nehru as **India’s institutional translator**:
+This file preserves Nehru as **India's institutional translator**:
 the leader who converted civilizational independence into a
 modern republican state framework.
 
@@ -24,7 +24,7 @@ Nehru bridges ancient continuity and industrial modernity.
 ────────────────────────────────────────────────────────────
 II. STATE-BUILDING PROJECT
 ────────────────────────────────────────────────────────────
-Nehru’s priorities:
+Nehru's priorities:
 • Parliamentary democracy
 • Central planning
 • Scientific temper
@@ -37,7 +37,7 @@ India chooses capacity-building over alignment.
 ────────────────────────────────────────────────────────────
 III. NON-ALIGNMENT DOCTRINE
 ────────────────────────────────────────────────────────────
-Nehru formalizes India’s civilizational instinct into policy.
+Nehru formalizes India's civilizational instinct into policy.
 
 Key elements:
 • Strategic autonomy
@@ -50,7 +50,7 @@ Non-alignment is patience institutionalized.
 ────────────────────────────────────────────────────────────
 IV. STRUCTURAL WEAKNESSES
 ────────────────────────────────────────────────────────────
-Costs of Nehru’s model:
+Costs of Nehru's model:
 • Bureaucratic inertia
 • Defense underinvestment
 • Idealism toward China
@@ -78,7 +78,7 @@ Verdict: TENSION PRESERVED. Which encoding India keeps shapes what it learns
 from 1962—and whether the lesson is "don't be idealistic" or "don't defer
 without building capacity" or "autonomy has a price." No resolution—alternatives stand.
 
-See: MEM–INDIA–GEO–TIBET (buffer loss; 1950–51 rupture); CIV–SCHOLAR–INDIA
+See: MEM–INDIA–TIBET (buffer loss; 1950–51 rupture); CIV–SCHOLAR–INDIA
 ENTRY 0008, SYNTHESIS 0004.
 
 ────────────────────────────────────────────────────────────
@@ -90,7 +90,7 @@ Outcomes:
 • Global autonomy retained
 • Deferred strategic reckoning
 
-Nehru secures India’s **right to decide later**.
+Nehru secures India's **right to decide later**.
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)
@@ -99,7 +99,7 @@ VI. CONTINUITY INSIGHTS (RAW)
 • Institutions outlast leaders.
 • Delay can be a rational strategy.
 • Idealism without force invites correction later.
-• Nehru embeds India’s long game into the state.
+• Nehru embeds India's long game into the state.
 
 Tension preserved without verdict.
 
@@ -125,8 +125,14 @@ Ferguson frames post-imperial institutional inheritance and procedural continuit
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–GEO–TIBET — Buffer loss (1950–51); inherited British buffer assumption; alternative encodings of idealism (§ IV.A).
+• MEM–INDIA–TIBET — Buffer loss (1950–51); inherited British buffer assumption; alternative encodings of idealism (§ IV.A).
+• MEM–INDIA–CHINA — India–China interface; idealism toward China;
+  1962; what India learns from 1962 (§ IV.A).
 • MEM–INDIA–BRITISH–EMPIRE — Institutional inheritance; procedural continuity; extraction vs governance.
+• MEM–INDIA–REPUBLIC — Constitution-era architect; institutional translator; parliamentary democracy.
+• MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — First Prime Minister; independence-era architect.
+• MEM–INDIA–REPUBLIC–MODI — Contrast: post-liberalization institutional translator;
+  civilizational assertion vs secular pluralism; alternative encodings.
 
 ────────────────────────────────────────────────────────────
 IX. MEM BIBLIOGRAPHY
@@ -135,5 +141,5 @@ IX. MEM BIBLIOGRAPHY
 • Ferguson, Niall. *Empire: How Britain Made the Modern World*. London: Allen Lane, 2003.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–NEHRU — v2.2
+END OF FILE — MEM–INDIA–REPUBLIC–NEHRU — v2.2
 ────────────────────────────────────────────────────────────

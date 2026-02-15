@@ -44,7 +44,7 @@
 
 ### C. India will teach — tolerance and maturity
 
-**Suggested MEMs:** MEM–INDIA–GANDHI, MEM–INDIA–NEHRU; MEMs on plural cohesion, non-alignment, civilizational role.
+**Suggested MEMs:** MEM–INDIA–GANDHI, MEM–INDIA–REPUBLIC–NEHRU; MEMs on plural cohesion, non-alignment, civilizational role.
 
 > India will teach us the tolerance and gentleness of mature mind, understanding spirit and a unifying, pacifying love for all human beings.
 
@@ -71,7 +71,7 @@
 
 ### F. British rule — exploitation and high civilization destroyed
 
-**Suggested MEMs:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–PARTITION, MEM–INDIA–WAR–CLIVE.
+**Suggested MEMs:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–PARTITION, MEM–INDIA–BRITISH–EMPIRE–CLIVE.
 
 > British rule in India is the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not within any reasonable probability, have worse results than the present form of alien domination.
 
@@ -80,7 +80,7 @@
 
 ### G. High civilization destroyed by trading company
 
-**Suggested MEMs:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–DYNASTY–MUGHAL, MEM–INDIA–WAR–CLIVE.
+**Suggested MEMs:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–DYNASTY–MUGHAL, MEM–INDIA–BRITISH–EMPIRE–CLIVE.
 
 > This, evidently was not a minor civilization, produced by inferior people. It ranks with the highest civilizations of history, and some, like Keyserling, would place it at the head and summit of all. The British conquest of India was the invasion and destruction of a high civilization by a trading company utterly without scruple or principle, careless of art, greedy of gain, overrunning with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and "legal" plunder which has now gone on ruthlessly for one hundred and seventy-three years, and goes on at this moment while in our secure comfort we write and read. Those who have seen the unspeakable poverty and physiological weakness of the Hindus today will hardly believe that it was the wealth of eighteenth century India which attracted the commercial pirates of England and France.
 
@@ -128,8 +128,8 @@
 | MEM–INDIA–BRITISH–EMPIRE | E, F, G, H, I, J |
 | MEM–INDIA–PARTITION | E, F, J (colonial legacy, liability) |
 | MEM–INDIA–GANDHI | C, J |
-| MEM–INDIA–NEHRU | C, A |
-| MEM–INDIA–WAR–CLIVE | F, G |
+| MEM–INDIA–REPUBLIC–NEHRU | C, A |
+| MEM–INDIA–BRITISH–EMPIRE–CLIVE | F, G |
 
 ---
 

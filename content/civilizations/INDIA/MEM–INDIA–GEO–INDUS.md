@@ -103,7 +103,20 @@ Civilizational continuity and scale—Indus as origin spine—are attested in mo
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-VII. MEM BIBLIOGRAPHY
+VII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–SILK–ROAD — Indus corridor; same axis for trade and
+  invasion; India at eastern reach.
+• MEM–INDIA–PUNJAB — Punjab as Indus tributaries; Partition severed;
+  invasion corridor.
+• MEM–INDIA–PAKISTAN — Indus basin assigned to Pakistan; origin
+  spine severed from India.
+• MEM–INDIA–PARTITION — Indus severed; Radcliffe Line; wound event.
+• MEM–INDIA–PERSIA — Achaemenid satrapy; Indus as Persian frontier;
+  Herodotus; Darius, Scylax.
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, III.94, IV.44 (trans. A.D. Godley) — India satrapy, Scylax/Indus (ARC–PERSIA-T-ANCIENT)
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).

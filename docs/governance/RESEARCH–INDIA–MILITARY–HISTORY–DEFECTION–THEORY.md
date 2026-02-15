@@ -2,7 +2,7 @@
 
 **Date:** 2026-02-01  
 **Scope:** Indian military history episodes testing Mearsheimer structural theory (force at distance vs. fragmentation; defection locus)  
-**Anchor:** MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE; CIV–SCHOLAR–INDIA (Mearsheimer lens on WAR pair)  
+**Anchor:** MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE; CIV–SCHOLAR–INDIA (Mearsheimer lens on WAR pair)  
 **Theory under test:** Defection is structurally incentivized; locus varies. **Hyphasis:** force at distance hits limit → invader’s army defects. **Plassey:** fragmentation → defender’s elites defect. Same question (who was exposed when the mechanism failed), opposite answers.
 
 ---
@@ -63,7 +63,7 @@ MEM–INDIA–DYNASTY–MAURYA encodes “fragmentation following Achaemenid and
 
 ## VI. SUGGESTED USE
 
-- **MEM:** No new MEMs required. Existing MEM–INDIA–WAR–ALEXANDER and MEM–INDIA–WAR–CLIVE already encode the core pair. Optional: add one sentence to MEM–INDIA–WAR–CLIVE § VII (MEM CONNECTIONS) or to CIV–SCHOLAR–INDIA noting that Panipat (1526), Anglo-Maratha, Anglo-Sikh, and 1857 illustrate the same structural logic (defection locus / force at distance vs. fragmentation).
+- **MEM:** No new MEMs required. Existing MEM–INDIA–WAR–ALEXANDER and MEM–INDIA–BRITISH–EMPIRE–CLIVE already encode the core pair. Optional: add one sentence to MEM–INDIA–BRITISH–EMPIRE–CLIVE § VII (MEM CONNECTIONS) or to CIV–SCHOLAR–INDIA noting that Panipat (1526), Anglo-Maratha, Anglo-Sikh, and 1857 illustrate the same structural logic (defection locus / force at distance vs. fragmentation).
 - **CIV–SCHOLAR–INDIA:** Ingest this research as ENTRY (Indian military history evidence for defection theory) and optionally as SYNTHESIS (three defection types: invader army at edge, defender elites, invader’s proxy force). Reference in RLL–INDIA–0002 or successor rule if defection/structure is elevated to pattern.
 - **OGE / LEARN:** When analyzing other civilizations’ WAR MEMs, apply same template: who defected, when, under what structural condition (force at distance vs. fragmentation vs. proxy dependence)?
 

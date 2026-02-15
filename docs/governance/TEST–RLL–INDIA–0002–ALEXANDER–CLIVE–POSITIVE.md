@@ -1,7 +1,7 @@
 # Test: RLL–INDIA–0002 — Positive Case (Alexander and Clive)
 
 **RLL under test:** RLL–INDIA–0002 (PROPOSED) — Two modes of limit: invader's mechanism fails (exposure on commander) OR defender's mechanism fails (exposure on indigenous polity); same question (who was exposed when the mechanism failed), opposite answers. Civilizational endurance preserved in both (intact or delayed).  
-**Case:** MEM–INDIA–WAR–ALEXANDER (invader at Hyphasis); MEM–INDIA–WAR–CLIVE (defender at Plassey).  
+**Case:** MEM–INDIA–WAR–ALEXANDER (invader at Hyphasis); MEM–INDIA–BRITISH–EMPIRE–CLIVE (defender at Plassey).  
 **Scope:** MEM corpus + ARC source base (CIV–ARC–INDIA v3.0).  
 **Purpose:** Validate RLL–INDIA–0002 with MEM + ARC; confirm mechanism-failure encoding and three derivations.
 
@@ -11,7 +11,7 @@
 
 ### MEM corpus (primary)
 - **MEM–INDIA–WAR–ALEXANDER:** "India defeats invasion without decisive battle"; "at Hyphasis the invader's mechanism fails—force at distance binds; army defection exposes the commander"; "Victory occurs at edges, not core"; "Greek presence transient"; "Mauryan consolidation follows."
-- **MEM–INDIA–WAR–CLIVE:** "India's decisive loss to corporate–procedural conquest, not military defeat"; "Battle of Plassey is decisive psychologically, not militarily"; "defender's mechanism fails (elite defection, political fragmentation)"; "India collapses politically before collapsing militarily"; "Civilizational endurance delayed, not destroyed"; "India fell to contracts, not cannons."
+- **MEM–INDIA–BRITISH–EMPIRE–CLIVE:** "India's decisive loss to corporate–procedural conquest, not military defeat"; "Battle of Plassey is decisive psychologically, not militarily"; "defender's mechanism fails (elite defection, political fragmentation)"; "India collapses politically before collapsing militarily"; "Civilizational endurance delayed, not destroyed"; "India fell to contracts, not cannons."
 
 ### ARC-listed sources (CIV–ARC–INDIA v3.0)
 | ARC-T        | Author / Work | Use in test |

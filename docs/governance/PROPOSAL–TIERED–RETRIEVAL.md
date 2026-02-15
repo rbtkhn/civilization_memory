@@ -99,7 +99,7 @@ Query: "What happens when elites abandon a regime?"
 
 Semantic Match:
 • MEM–RUSSIA–WAR–1917 (elite defection from Tsar)
-• MEM–INDIA–WAR–CLIVE (Plassey defection mechanics)
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE (Plassey defection mechanics)
 • MEM–ROME–FALL (Gothic federate defection)
 
 Result: MEMs with similar themes
@@ -190,7 +190,7 @@ modern logistics failures share similar patterns...
 
 MIXED SOURCES:
 ```
-"The defection_incentive pattern (MEM–INDIA–WAR–CLIVE) appears
+"The defection_incentive pattern (MEM–INDIA–BRITISH–EMPIRE–CLIVE) appears
 to manifest in contemporary events [Web source: Reuters, 2026].
 Historical mechanism: first defector gains most; current case
 shows similar dynamics..."
@@ -217,7 +217,7 @@ Web Fallback Value:
 ```
 Query: "What patterns explain elite defection?"
 
-MEM Search → RLL–RUSSIA–0023, MEM–INDIA–WAR–CLIVE
+MEM Search → RLL–RUSSIA–0023, MEM–INDIA–BRITISH–EMPIRE–CLIVE
 Good fit? YES → Synthesize from MEMs
 
 Query: "Elite defection in Myanmar 2021?"

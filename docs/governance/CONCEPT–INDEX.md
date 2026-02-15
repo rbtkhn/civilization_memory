@@ -134,7 +134,7 @@ Frame: Barnes (mechanism)
 Definition: Benefit from exiting coalition or compliance first.
 
 Primary MEMs:
-• MEM–INDIA–WAR–CLIVE — Plassey defection mechanics
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Plassey defection mechanics
 • MEM–RUSSIA–WAR–1917 — Elite defection from Tsar
 
 Secondary MEMs:

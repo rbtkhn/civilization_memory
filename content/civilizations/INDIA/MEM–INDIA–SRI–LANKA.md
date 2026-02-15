@@ -1,4 +1,4 @@
-MEM–INDIA–GEO–SRI–LANKA — v1.0
+MEM–INDIA–SRI–LANKA — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -11,7 +11,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves Sri Lanka as **India’s southern maritime hinge**:
+This file preserves Sri Lanka as **India's southern maritime hinge**:
 the island interface where Indian Ocean trade, religion, security,
 and external penetration intersect most sharply.
 
@@ -24,7 +24,7 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. GEOGRAPHIC PROXIMITY & STRATEGIC FACT
 ────────────────────────────────────────────────────────────
-Sri Lanka sits astride India’s southern sea lanes.
+Sri Lanka sits astride India's southern sea lanes.
 
 Core facts:
 • Narrow Palk Strait separation
@@ -108,7 +108,7 @@ Risks:
 • Naval access concerns
 • Intelligence and ISR exposure
 
-India’s response:
+India's response:
 • Quiet pressure
 • Infrastructure counter-offers
 • Diplomatic saturation
@@ -117,7 +117,7 @@ India’s response:
 Delay substitutes for confrontation.
 
 ────────────────────────────────────────────────────────────
-VIII. ROLE IN INDIA’S INDIAN OCEAN DOCTRINE
+VIII. ROLE IN INDIA'S INDIAN OCEAN DOCTRINE
 ────────────────────────────────────────────────────────────
 Sri Lanka functions as:
 • Early-warning maritime node
@@ -126,7 +126,7 @@ Sri Lanka functions as:
 • Indicator of external encroachment depth
 
 Loss of Sri Lankan neutrality
-compresses India’s maritime buffer.
+compresses India's maritime buffer.
 
 Control is not required.
 Denial of hostile dominance is sufficient.
@@ -140,7 +140,7 @@ Sri Lanka encodes a persistent Indian lesson:
 • Cultural proximity does not guarantee alignment
 • Intervention produces backlash; patience preserves leverage
 • External powers exploit island interfaces first
-• India’s strength lies in **endurance and optionality**, not command
+• India's strength lies in **endurance and optionality**, not command
 
 Sri Lanka is a reminder:
 India must manage oceans the way it manages pluralism—
@@ -153,10 +153,17 @@ X. CONTINUITY INSIGHTS (RAW)
 • Maritime dominance begins with interface denial, not occupation.
 • Cultural influence survives where political force fails.
 • Delay is a maritime weapon when geography is fixed.
-• Sri Lanka tests India’s ability to absorb shocks without escalation.
+• Sri Lanka tests India's ability to absorb shocks without escalation.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GEO–SRI–LANKA — v1.0
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–BRITISH–EMPIRE–CEYLON — British Ceylon; administrative
+  separation; plantation economy; colonial severance.
+• MEM–INDIA–LIT–RAMAYANA — Lanka; Ravana; southern interface.
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–INDIA–SRI–LANKA — v1.0
 ────────────────────────────────────────────────────────────

@@ -11,7 +11,7 @@
 
 ### MEM corpus
 - **MEM–INDIA–WAR–ALEXANDER:** Type 1 (invader at edge; Hyphasis).
-- **MEM–INDIA–WAR–CLIVE:** Type 2 (defender elites; Plassey).
+- **MEM–INDIA–BRITISH–EMPIRE–CLIVE:** Type 2 (defender elites; Plassey).
 - **MEM–INDIA–WAR–1857:** Type 3 (invader's proxy; sepoy mutiny; jurisdiction shift).
 - **MEM–INDIA–DYNASTY–MUGHAL:** First Panipat (1526)—defender elite defection (Babur invited by Lodi nobles).
 - **MEM–INDIA–WAR–GHAZNAVID:** Force at distance / invader limit (Somnath return).

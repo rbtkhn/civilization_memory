@@ -93,7 +93,7 @@ VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–BRITISH–EMPIRE — Company-to-Crown; 1857 as structural
   rupture; jurisdiction shift; procedural–extractive overlay.
-• MEM–INDIA–WAR–CLIVE — Defender-elite defection (Plassey) vs.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Defender-elite defection (Plassey) vs.
   invader’s-proxy defection (1857); same defection theory, opposite
   locus.
 • MEM–INDIA–WAR–ALEXANDER — Invader at edge (Hyphasis); three

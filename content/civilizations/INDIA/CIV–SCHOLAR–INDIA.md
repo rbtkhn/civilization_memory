@@ -141,19 +141,19 @@ Source MEMs available (CIV–INDEX–INDIA v2.0):
 
 **II. Dynasties & state formation:** MEM–INDIA–DYNASTY–MAURYA, MEM–INDIA–DYNASTY–GUPTA, MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–DYNASTY–MUGHAL
 
-**III. Colonial & imperial interaction:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–PARTITION
+**III. Colonial & imperial interaction:** MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY, MEM–INDIA–BRITISH–EMPIRE–CALCUTTA, MEM–INDIA–BRITISH–EMPIRE–BOMBAY, MEM–INDIA–BRITISH–EMPIRE–CEYLON, MEM–INDIA–BRITISH–EMPIRE–PARTITION, MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE, MEM–INDIA–PARTITION, MEM–INDIA–REPUBLIC
 
-**IV. Key civilizational figures:** MEM–INDIA–GANDHI, MEM–INDIA–NEHRU
+**IV. Key civilizational figures:** MEM–INDIA–GANDHI, MEM–INDIA–REPUBLIC–NEHRU
 
-**V. Geography & civilizational space:** MEM–INDIA–GEO–KASHMIR, MEM–INDIA–GEO–TIBET, MEM–INDIA–GEO–SRI–LANKA, MEM–INDIA–GEO–INDUS, MEM–INDIA–GEO–GANGES
+**V. Geography & civilizational space:** MEM–INDIA–DELHI, MEM–INDIA–MUMBAI, MEM–INDIA–GEO–HIMALAYAS, MEM–INDIA–KASHMIR, MEM–INDIA–TIBET, MEM–INDIA–CHINA, MEM–INDIA–SRI–LANKA, MEM–INDIA–BENGAL, MEM–INDIA–BANGLADESH, MEM–INDIA–PUNJAB, MEM–INDIA–PAKISTAN, MEM–INDIA–AFGHANISTAN, MEM–INDIA–GEO–INDUS, MEM–INDIA–GEO–GANGES, MEM–INDIA–SILK–ROAD
 
 **V-A. Literature & civilizational transmission:** MEM–INDIA–LIT–MAHABHARATA, MEM–INDIA–LIT–RAMAYANA, MEM–INDIA–LIT–KALIDASA, MEM–INDIA–LIT–ARTHASHASTRA, MEM–INDIA–LIT–TAGORE
 
-**VI. War & external shocks:** MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE, MEM–INDIA–WAR–1857, MEM–INDIA–MONGOL–EMPIRE, MEM–INDIA–MONGOL–CHAGATAI, MEM–INDIA–WAR–TIMUR, MEM–INDIA–WAR–GHAZNAVID
+**VI. War & external shocks:** MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE, MEM–INDIA–WAR–1857, MEM–INDIA–MONGOL–EMPIRE, MEM–INDIA–MONGOL–CHAGATAI, MEM–INDIA–WAR–TIMUR, MEM–INDIA–WAR–GHAZNAVID, MEM–INDIA–WAR–PAKISTAN
 
 **VII. Civilizational interfaces:** MEM–INDIA–ISLAM
 
-Total MEM–INDIA files indexed: 26.
+Total MEM–INDIA files indexed: 51.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
@@ -217,7 +217,7 @@ Note:
 
 ENTRY 0006
 Source:
-• MEM–INDIA–WAR–ALEXANDER (v2.0), MEM–INDIA–WAR–CLIVE (v2.1)
+• MEM–INDIA–WAR–ALEXANDER (v2.0), MEM–INDIA–BRITISH–EMPIRE–CLIVE (v2.1)
 Ingest Type:
 • Integration — All India WAR MEMs (VI. War & external shocks)
 Primary Belief Extracted:
@@ -229,11 +229,11 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 Note:
-• MEM–INDIA–WAR–CLIVE already links to MEM–INDIA–WAR–ALEXANDER in MEM CONNECTIONS (opposite locus of mechanism failure). No other India WAR MEMs present; CIV–INDEX lists WAR–ALEXANDER, WAR–CLIVE; candidate WAR–1962–CHINA in Forward Extension.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE already links to MEM–INDIA–WAR–ALEXANDER in MEM CONNECTIONS (opposite locus of mechanism failure). No other India WAR MEMs present; CIV–INDEX lists WAR–ALEXANDER, BRITISH–EMPIRE–CLIVE; candidate WAR–1962–CHINA in Forward Extension.
 
 ENTRY 0007
 Source:
-• docs/governance/RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY.md; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE
+• docs/governance/RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY.md; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE
 Ingest Type:
 • Research — Indian military history evidence for defection theory (Mearsheimer structural lens)
 Primary Belief Extracted:
@@ -244,23 +244,23 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 Note:
-• Ref: RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY. Optional: add sentence to MEM–INDIA–WAR–CLIVE § VII or SYNTHESIS extending to Panipat, Anglo-Maratha, Anglo-Sikh, 1857; or propose MEM–INDIA–WAR–1857 (invader’s-proxy-defection type).
+• Ref: RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY. Optional: add sentence to MEM–INDIA–BRITISH–EMPIRE–CLIVE § VII or SYNTHESIS extending to Panipat, Anglo-Maratha, Anglo-Sikh, 1857; or propose MEM–INDIA–WAR–1857 (invader’s-proxy-defection type).
 
 ENTRY 0008
 Source:
-• MEM–INDIA–NEHRU (v2.2), MEM–INDIA–GEO–TIBET (v1.0)
+• MEM–INDIA–REPUBLIC–NEHRU (v2.2), MEM–INDIA–TIBET (v1.0), MEM–INDIA–GEO–HIMALAYAS (v1.0)
 Ingest Type:
 • Person Memory + GEO Memory — Alternative encodings of Nehru's idealism toward China
 Primary Belief Extracted:
-• Nehru's idealism toward China admits **alternative encodings** beyond "structural weakness." Same behaviour (Panchsheel, Bandung, posture toward Tibet/China) can be stored as: (1) weakness—character/misperception, invites correction; (2) strategic delay—time-buying, "right to decide later," 1962 = correction before delay paid off; (3) legitimacy-building—performance of civilizational maturity, 1962 = performance failed to constrain; (4) inherited framework—British buffer assumption, 1950–51 Tibet rupture = structural break, not personal flaw; (5) cost of autonomy—price of refusing bloc subordination, available vocabulary when India would not align. MEM–INDIA–GEO–TIBET: British India preferred Tibet as autonomous buffer; Nehru inherited buffer assumption; 1950–51 rupture = "Tibet ceased to absorb pressure and began transmitting it." Which encoding India keeps shapes what it learns from 1962.
+• Nehru's idealism toward China admits **alternative encodings** beyond "structural weakness." Same behaviour (Panchsheel, Bandung, posture toward Tibet/China) can be stored as: (1) weakness—character/misperception, invites correction; (2) strategic delay—time-buying, "right to decide later," 1962 = correction before delay paid off; (3) legitimacy-building—performance of civilizational maturity, 1962 = performance failed to constrain; (4) inherited framework—British buffer assumption, 1950–51 Tibet rupture = structural break, not personal flaw; (5) cost of autonomy—price of refusing bloc subordination, available vocabulary when India would not align. MEM–INDIA–TIBET: British India preferred Tibet as autonomous buffer; Nehru inherited buffer assumption; 1950–51 rupture = "Tibet ceased to absorb pressure and began transmitting it." Which encoding India keeps shapes what it learns from 1962.
 Belief Status:
 • UNFROZEN
 Note:
-• MEM–INDIA–NEHRU § IV.A documents tension record; SYNTHESIS 0004 proposed.
+• MEM–INDIA–REPUBLIC–NEHRU § IV.A documents tension record; SYNTHESIS 0004 proposed.
 
 ENTRY 0009
 Source:
-• LEARN session: MEM–INDIA–GEO–TIBET, MEM–INDIA–NEHRU, MEM–CHINA–GEO–TIBET, MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–WAR–CLIVE, MEM–CHINA–WAR–FIRST–OPIUM, MEM–PERSIA–GEO–CASPIAN, MEM–INDIA–GEO–GANGES, MEM–INDIA–DYNASTY–MUGHAL, MEM–INDIA–WAR–1857
+• LEARN session: MEM–INDIA–TIBET, MEM–INDIA–REPUBLIC–NEHRU, MEM–CHINA–GEO–TIBET, MEM–INDIA–BRITISH–EMPIRE, MEM–INDIA–BRITISH–EMPIRE–CLIVE, MEM–CHINA–WAR–FIRST–OPIUM, MEM–PERSIA–GEO–CASPIAN, MEM–INDIA–GEO–GANGES, MEM–INDIA–DYNASTY–MUGHAL, MEM–INDIA–WAR–1857
 • STATE analysis (simulated): India–China border management
 Ingest Type:
 • Cross-Civilization Encoding (China, Persia) + Session Relay
@@ -344,7 +344,7 @@ Verdict: TENSION PRESERVED. Origin (Indus) can be lost; permanence (Ganges) cann
 SYNTHESIS format (Template § XI.C): SYNTHESIS #### — [Title]; Source: ENTRY ####; Assumptions; Confidence: UNBINDING (Phase I); Tension Record / Verdict.
 
 SYNTHESIS 0002 — INDIA WAR MEMs: MECHANISM FAILURE AND EXPOSURE
-Source: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE)
+Source: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE)
 Assumptions: (1) Both WAR MEMs encode limit via mechanism failure, not decisive field defeat; (2) locus of failure is opposite—invader (Alexander) vs. defender (Clive); (3) civilizational endurance is preserved in both; (4) synthesis preserves tension; no closure.
 Confidence: UNBINDING (Phase I). Freeze-ready: TIER 2 (70–90% — MEM-derived; Alexander/Clive clear; ARC supports; TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, LIMIT–DECISIVE–VICTORY).
 
@@ -355,7 +355,7 @@ ASSUMPTION 1: Limit encodes via mechanism failure, not decisive defeat
 | Field | Content |
 |-------|---------|
 | STATEMENT | The limit or outcome in both Alexander and Clive cases is encoded primarily as mechanism failure (who was exposed when the mechanism failed), not as decisive field victory. |
-| BASIS | MEM WAR–ALEXANDER ("army defection exposes the commander"; "India defeats invasion without decisive battle"); MEM WAR–CLIVE ("decisive psychologically, not militarily"; "contracts, not cannons"). |
+| BASIS | MEM–INDIA–WAR–ALEXANDER ("army defection exposes the commander"; "India defeats invasion without decisive battle"); MEM–INDIA–BRITISH–EMPIRE–CLIVE ("decisive psychologically, not militarily"; "contracts, not cannons"). |
 | IF_WRONG | If decisive field defeat were primary encoding, synthesis mis-specified; RLL would not apply. |
 | LINCHPIN_STATUS | High |
 
@@ -386,7 +386,7 @@ ASSUMPTIONS SUMMARY
 | 3 | Civilizational endurance preserved | H | Yes (MEM) |
 
 Tension Record:
-| Axis | WAR–ALEXANDER | WAR–CLIVE |
+| Axis | WAR–ALEXANDER | BRITISH–EMPIRE–CLIVE |
 |------|----------------|-----------|
 | Mechanism that fails | Invader’s (army refusal at Hyphasis) | Defender’s (elite defection, political fragmentation) |
 | Who is exposed | Commander (Alexander) | Indigenous polity (Nawab, elites) |
@@ -399,7 +399,7 @@ Integration: The India WAR MEMs, taken together, encode **two modes of limit**�
 Verdict: TENSION PRESERVED. Two modes of limit; opposite locus of exposure; no resolution—dual pattern stands.
 
 SYNTHESIS 0003 — INDIAN MILITARY HISTORY: THREE DEFECTION TYPES
-Source: ENTRY 0007 (RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE)
+Source: ENTRY 0007 (RESEARCH–INDIA–MILITARY–HISTORY–DEFECTION–THEORY; MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE)
 Assumptions: (1) ENTRY 0007 evidence extends SYNTHESIS 0002 / RLL–INDIA–0002 without contradicting; (2) third defection type (invader’s proxy defects) is additive; (3) synthesis is constraint-oriented—tension preserved, no closure.
 Confidence: UNBINDING (Phase I). Freeze-ready: TIER 3 (50–70% — extends 0002; RESEARCH evidence; less direct ARC; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, LIMIT–SCOPE).
 
@@ -483,9 +483,9 @@ Barnes reframe (jurisdiction and liability): One issue is who was exposed when t
 Verdict: TENSION PRESERVED. Three defection types stand; RLL–INDIA–0002 remains two-mode (invader vs. defender mechanism fails); SYNTHESIS 0003 adds third type and external evidence. No resolution—pattern extended, not replaced.
 
 SYNTHESIS 0004 — NEHRU IDEALISM TOWARD CHINA: ALTERNATIVE ENCODINGS
-Source: ENTRY 0008 (MEM–INDIA–NEHRU, MEM–INDIA–GEO–TIBET)
-Assumptions: (1) Nehru's idealism toward China admits multiple encodings, not only "structural weakness"; (2) same behaviour yields different implications depending on encoding chosen; (3) MEM–INDIA–GEO–TIBET (buffer loss, inherited assumption) provides evidence for inherited-framework encoding; (4) synthesis preserves tension; no closure.
-Confidence: UNBINDING (Phase I). Freeze-ready: TIER 3 (50–70% — MEM-derived; SCHOLAR LEARN session; alternative encodings documented in MEM–INDIA–NEHRU § IV.A).
+Source: ENTRY 0008 (MEM–INDIA–REPUBLIC–NEHRU, MEM–INDIA–TIBET)
+Assumptions: (1) Nehru's idealism toward China admits multiple encodings, not only "structural weakness"; (2) same behaviour yields different implications depending on encoding chosen; (3) MEM–INDIA–TIBET (buffer loss, inherited assumption) provides evidence for inherited-framework encoding; (4) synthesis preserves tension; no closure.
+Confidence: UNBINDING (Phase I). Freeze-ready: TIER 3 (50–70% — MEM-derived; SCHOLAR LEARN session; alternative encodings documented in MEM–INDIA–REPUBLIC–NEHRU § IV.A).
 
 ASSUMPTIONS BOX (freeze-ready)
 
@@ -494,7 +494,7 @@ ASSUMPTION 1: Multiple encodings admissible
 | Field | Content |
 |-------|---------|
 | STATEMENT | Nehru's idealism toward China can be encoded as weakness, strategic delay, legitimacy-building, inherited framework, or cost of autonomy; "structural weakness" is one option, not the only option. |
-| BASIS | MEM–INDIA–NEHRU § IV.A; ENTRY 0008; SCHOLAR LEARN session (2026-02-14). |
+| BASIS | MEM–INDIA–REPUBLIC–NEHRU § IV.A; ENTRY 0008; SCHOLAR LEARN session (2026-02-14). |
 | IF_WRONG | If single encoding were mandatory, synthesis would be over-specified. |
 | LINCHPIN_STATUS | Medium |
 
@@ -503,17 +503,17 @@ ASSUMPTION 2: Encoding shapes what India learns from 1962
 | Field | Content |
 |-------|---------|
 | STATEMENT | Which encoding India keeps shapes what it learns from 1962—"don't be idealistic" vs "don't defer without building capacity" vs "autonomy has a price." |
-| BASIS | MEM–INDIA–NEHRU § IV.A; tension record; no resolution. |
+| BASIS | MEM–INDIA–REPUBLIC–NEHRU § IV.A; tension record; no resolution. |
 | IF_WRONG | If encoding had no consequence for learning, synthesis would be trivial. |
 | LINCHPIN_STATUS | Medium |
 
-ASSUMPTION 3: Inherited-framework encoding supported by GEO–TIBET
+ASSUMPTION 3: Inherited-framework encoding supported by MEM–INDIA–TIBET
 
 | Field | Content |
 |-------|---------|
-| STATEMENT | MEM–INDIA–GEO–TIBET (British buffer assumption, 1950–51 rupture) supports "inherited framework" encoding; Nehru inherited British view of Tibet as autonomous buffer. |
-| BASIS | MEM–INDIA–GEO–TIBET § VI–VII; "Tibet ceased to absorb pressure and began transmitting it." |
-| IF_WRONG | If GEO–TIBET contradicted inherited-framework encoding, synthesis would be inconsistent. |
+| STATEMENT | MEM–INDIA–TIBET (British buffer assumption, 1950–51 rupture) supports "inherited framework" encoding; Nehru inherited British view of Tibet as autonomous buffer. |
+| BASIS | MEM–INDIA–TIBET § VI–VII; "Tibet ceased to absorb pressure and began transmitting it." |
+| IF_WRONG | If MEM–INDIA–TIBET contradicted inherited-framework encoding, synthesis would be inconsistent. |
 | LINCHPIN_STATUS | High |
 
 ASSUMPTIONS SUMMARY
@@ -522,7 +522,7 @@ ASSUMPTIONS SUMMARY
 |---|------------|----------|-----------|
 | 1 | Multiple encodings admissible | M | Yes (MEM consistency) |
 | 2 | Encoding shapes learning | M | Yes (policy implications) |
-| 3 | GEO–TIBET supports inherited-framework | H | Yes (MEM) |
+| 3 | MEM–INDIA–TIBET supports inherited-framework | H | Yes (MEM) |
 
 Tension Record:
 | Encoding | Frame | Implication |
@@ -533,7 +533,7 @@ Tension Record:
 | Inherited framework | Continuity | British buffer assumption; 1950–51 rupture = structural break, not personal flaw |
 | Cost of autonomy | Non-alignment | Idealism = price of refusing bloc subordination |
 
-Verdict: TENSION PRESERVED. Alternative encodings stand; MEM–INDIA–NEHRU § IV.A documents them. No resolution—pattern recorded, not closed.
+Verdict: TENSION PRESERVED. Alternative encodings stand; MEM–INDIA–REPUBLIC–NEHRU § IV.A documents them. No resolution—pattern recorded, not closed.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
@@ -567,7 +567,7 @@ Affected file classes: MEM–INDIA–WAR–*, CIV–CORE–INDIA (diagnostic con
 
 Statement: India WAR limit encodes two modes—invader's mechanism fails (exposure on commander) or defender's mechanism fails (exposure on indigenous polity); same question (who was exposed when the mechanism failed), opposite answers. Invader's mechanism fails: army refusal, limit at Hyphasis; exposure on Alexander. Defender's mechanism fails: elite defection, political fragmentation; exposure on Nawab/elites. Civilizational endurance preserved in both (intact or delayed, not erased). Extension: invader's local proxy force may defect against the invader (e.g. 1857 Rebellion); exposure then falls on the imperial mechanism. Three defection types—invader at edge, defender elites, invader's proxy—see SYNTHESIS 0003.
 
-Derivation: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–WAR–CLIVE), SYNTHESIS 0002; ENTRY 0007, SYNTHESIS 0003 (three defection types; Indian military history evidence). Mearsheimer sharpening (structural limit, force at distance, defection incentive); Mercouris (legitimacy of withdrawal, civilizational encoding); Barnes catalyst (who is exposed when mechanism fails; jurisdiction, liability; 1857: jurisdiction shift, who was on the hook when proxy defected).
+Derivation: ENTRY 0006 (MEM–INDIA–WAR–ALEXANDER, MEM–INDIA–BRITISH–EMPIRE–CLIVE), SYNTHESIS 0002; ENTRY 0007, SYNTHESIS 0003 (three defection types; Indian military history evidence). Mearsheimer sharpening (structural limit, force at distance, defection incentive); Mercouris (legitimacy of withdrawal, civilizational encoding); Barnes catalyst (who is exposed when mechanism fails; jurisdiction, liability; 1857: jurisdiction shift, who was on the hook when proxy defected).
 **Cross-frame derivation**: Mercouris (two modes of limit; civilizational endurance); Mearsheimer (structural limit, incentive structure); Barnes (exposure, mechanism failure).
 
 Binding: Requires explicit user authorization and Phase II activation. Not enforceable until bound.
@@ -611,7 +611,7 @@ Current counts:
 • Bound RLLs: 0
 • Proposed RLLs pending: 2 (RLL–INDIA–0001, RLL–INDIA–0002)
 • Non-binding syntheses recorded: 4
-• Freeze-ready syntheses: 4 (SYNTHESIS 0001, 0002, 0003, 0004 — Assumptions Box, Confidence tier, ACH for 0003; MEM–INDIA–NEHRU § IV.A for 0004)
+• Freeze-ready syntheses: 4 (SYNTHESIS 0001, 0002, 0003, 0004 — Assumptions Box, Confidence tier, ACH for 0003; MEM–INDIA–REPUBLIC–NEHRU § IV.A for 0004)
 
 Sharpening exercise (2026-02-14): TEST–RLL–INDIA–0001–PARTITION–POSITIVE, TEST–RLL–INDIA–0001–LIMIT–SCOPE; TEST–RLL–INDIA–0002–ALEXANDER–CLIVE–POSITIVE, TEST–RLL–INDIA–0002–LIMIT–DECISIVE–VICTORY; TEST–RLL–INDIA–0003–THREE–TYPES–ARC, TEST–RLL–INDIA–0003–LIMIT–SCOPE. Freeze and DIB acceptance require explicit user authorization.
 

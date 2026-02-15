@@ -86,7 +86,7 @@
 **Current text:**
 - "Source MEMs available (CIV–INDEX–INDIA **v1.6**):"
 - "Total MEM–INDIA files indexed: **13**."
-- Listed categories: Dynasties (MAURYA, GUPTA, MUGHAL); Colonial (BRITISH–EMPIRE, PARTITION); Figures (GANDHI, NEHRU); Geography (5 GEO); War (WAR–ALEXANDER, WAR–CLIVE).
+- Listed categories: Dynasties (MAURYA, GUPTA, MUGHAL); Colonial (BRITISH–EMPIRE, PARTITION); Figures (GANDHI, NEHRU); Geography (5 GEO); War (WAR–ALEXANDER, BRITISH–EMPIRE–CLIVE).
 
 **Actual state (CIV–INDEX–INDIA v2.0):**
 - Index version: **v2.0**

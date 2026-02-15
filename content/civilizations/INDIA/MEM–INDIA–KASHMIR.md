@@ -1,4 +1,7 @@
-Title: MEM–INDIA–GEO–KASHMIR
+MEM–INDIA–KASHMIR — v1.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL
+
 Status: ACTIVE
 Version: 1.0
 Civilization: INDIA
@@ -33,7 +36,7 @@ Core features:
 Geography enforces **security density** disproportionate to population.
 
 Strategic axiom:
-> “险地必重。”
+> "险地必重。"
 (Difficult terrain demands weight.)
 
 Control requires permanence, not episodic presence.
@@ -83,7 +86,7 @@ The constitutional question was never socially closed.
 ────────────────────────────────────────────────────────────
 VI. REPUBLICAN INCORPORATION & PROCEDURAL STRAIN
 ────────────────────────────────────────────────────────────
-India’s approach emphasized:
+India's approach emphasized:
 • Legal accession
 • Electoral participation
 • Federal accommodation
@@ -112,7 +115,7 @@ Stability is maintained; resolution is deferred.
 ────────────────────────────────────────────────────────────
 VIII. LEGITIMACY TENSION (UNRESOLVED)
 ────────────────────────────────────────────────────────────
-India’s legitimacy languages:
+India's legitimacy languages:
 • Constitutional sovereignty
 • Democratic procedure
 • Territorial integrity
@@ -125,7 +128,19 @@ These coexist uneasily with:
 No single framework fully displaces the others.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–GEO–HIMALAYAS — Western Himalayan interface; mountain barrier; altitude as restraint.
+• MEM–INDIA–WAR–PAKISTAN — India–Pakistan wars; Kashmir locus; 1947–1999; procedure without consensus.
+• MEM–INDIA–PARTITION — Kashmir unresolved; Pakistan emergence; wound event.
+• MEM–INDIA–PAKISTAN — Pakistan claim; territorial locus; procedure
+  without consensus.
+• MEM–INDIA–BRITISH–EMPIRE–PARTITION — British exit; Kashmir left unresolved; cost externalized.
+• MEM–INDIA–CHINA — Ladakh sector; western India–China border
+  dispute; Aksai Chin; territorial strain.
+
+────────────────────────────────────────────────────────────
+X. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Procedure can govern without persuading.
 • Security can suppress without legitimizing.
@@ -136,5 +151,5 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension is permanent.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GEO–KASHMIR v1.0
+END OF FILE — MEM–INDIA–KASHMIR — v1.0
 ────────────────────────────────────────────────────────────

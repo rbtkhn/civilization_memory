@@ -95,10 +95,12 @@ Empire absorbed, not rejected.
 ────────────────────────────────────────────────────────────
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–WAR–CLIVE — Same defection type (defender elites, fragmentation) at opposite epoch; Mughal entry at Panipat, Company entry at Plassey. See CIV–SCHOLAR–INDIA SYNTHESIS 0003.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Same defection type (defender elites, fragmentation) at opposite epoch; Mughal entry at Panipat, Company entry at Plassey. See CIV–SCHOLAR–INDIA SYNTHESIS 0003.
 • MEM–INDIA–MONGOL–EMPIRE — Mughal as absorption of Mongol–Timurid lineage; deflection (Sultanate) then absorption (Mughal); Babur at Panipat.
 • MEM–INDIA–DELHI–SULTANATE — Predecessor regime; Sultanate fell at Panipat (defender elites); Mughal succession.
 • MEM–INDIA–ISLAM — India–Islam interface; Mughal absorbed as Indian; plural empire without civilizational rupture.
+• MEM–INDIA–PERSIA — Persianate–Indic synthesis; Mughal absorption
+  of Persianate court culture.
 
 ────────────────────────────────────────────────────────────
 IX. EVIDENCE — ARC-T-MODERN (VERBATIM)

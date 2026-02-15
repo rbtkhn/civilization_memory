@@ -37,8 +37,10 @@ Relevant when: Legitimacy of authority, institutional continuity,
 anti-imperial legitimacy, or state-building after rupture is in play.
 
 Primary MEMs:
-• MEM–INDIA–NEHRU — Institutional translator; non-alignment; strategic
+• MEM–INDIA–REPUBLIC–NEHRU — Institutional translator; non-alignment; strategic
   autonomy; "right to decide later"; idealism vs correction (e.g. China)
+• MEM–INDIA–REPUBLIC–MODI — Post-liberalization institutional translator;
+  civilizational assertion; multi-alignment; capacity-building; delivery politics
   [concepts: strategic_autonomy, institutional_continuity, time_as_asset]
 • MEM–INDIA–GANDHI — Moral–mobilizational reconstructor; legitimacy
   disruptor; nonviolent asymmetry; civilizational fit (ahimsa, dharma)
@@ -49,10 +51,18 @@ Primary MEMs:
 • MEM–INDIA–PARTITION — Exit-driven rupture; boundary-making substitutes
   for governance; India retains administrative spine; Kashmir unresolved
   [concepts: exit_precedes_stability, administrative_spine, wound_event]
+• MEM–INDIA–REPUBLIC — Constitutional continuity; administrative spine
+  retained; procedure as survival; Dominion→Republic transition
+  [concepts: institutional_continuity, procedure_as_legitimacy]
+• MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — Transfer of power; sovereignty
+  acquired; Dominion; same moment as Partition, different encoding
+  [concepts: sovereignty_transfer, negotiated_independence]
 
 Secondary MEMs:
 • MEM–INDIA–DYNASTY–MAURYA — Foundational coherence; Kautilyan realism;
   Ashokan dharmic overlay
+• MEM–INDIA–LAW–CASTE–SYSTEM — Caste through law; legitimacy contested;
+  reservations; civilizational encoding vs constitutional equality
 • MEM–INDIA–DYNASTY–GUPTA — Court legitimacy; Sanskrit cosmopolitanism
 • MEM–INDIA–LIT–ARTHASHASTRA — Statecraft as system; power precedes legitimacy
 • MEM–INDIA–LIT–TAGORE — Cultural legitimacy; civilizational self-assertion
@@ -68,19 +78,32 @@ Primary MEMs:
   legitimacy; control of Ganges = civilizational survivability; empires
   reconstitute along Ganges
   [concepts: heartland, permanence, survivability_chokepoint]
+• MEM–INDIA–SILK–ROAD — India at eastern reach; overland northwest;
+  maritime hinge; source of goods and ideas; maritime displacement
+  [concepts: corridor_connection, source_not_controller]
 • MEM–INDIA–GEO–INDUS — Western origin spine; severed at Partition;
   India survives separation from birthplace; memory outlasts territory
   [concepts: origin, severance, survivable_loss]
 • MEM–INDIA–PARTITION — Radcliffe Line; Indus severed, Ganges retained;
   cost of exit acceleration
+• MEM–INDIA–BENGAL — Bengal severed at Partition; Ganges delta;
+  East Bengal/Bangladesh; West Bengal retained
+• MEM–INDIA–BANGLADESH — East Bengal sovereign (1971); cultural
+  continuity, political separation; neighbour
+• MEM–INDIA–PUNJAB — Punjab severed at Partition; invasion corridor;
+  mass displacement; Indus tributaries
+• MEM–INDIA–AFGHANISTAN — Northwest corridor; Khyber, Kabul; invasion
+  axis; buffer and platform
   [concepts: severance_geography, administrative_spine_retained]
 
 Secondary MEMs:
-• MEM–INDIA–GEO–KASHMIR — Constitutional frontier; procedure without
+• MEM–INDIA–DELHI — Capital locus; 1911 transfer; administrative spine.
+• MEM–INDIA–MUMBAI — Commercial capital; Bombay continuity.
+• MEM–INDIA–KASHMIR — Constitutional frontier; procedure without
   consensus; managed, not resolved
-• MEM–INDIA–GEO–TIBET — Buffer loss; 1950–51 rupture; "when the highland
+• MEM–INDIA–TIBET — Buffer loss; 1950–51 rupture; "when the highland
   fills, the border hardens"
-• MEM–INDIA–GEO–SRI–LANKA — Neighbour interface; civilizational periphery
+• MEM–INDIA–SRI–LANKA — Neighbour interface; civilizational periphery
 
 ────────────────────────────────────────────────────────────
 III. WAR / MECHANISM FAILURE / DEFECTION (RLL–INDIA–0002; SYNTHESIS 0002, 0003)
@@ -94,7 +117,7 @@ Primary MEMs:
   Hyphasis); exposure on commander; India defeats invasion without
   decisive battle; civilizational endurance intact
   [concepts: invader_at_edge, force_at_distance, depth_defeats_speed]
-• MEM–INDIA–WAR–CLIVE — Defender's mechanism fails (elite defection,
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Defender's mechanism fails (elite defection,
   fragmentation); Plassey decisive psychologically, not militarily;
   contracts, not cannons; endurance delayed, not destroyed
   [concepts: defender_elite_defection, fragmentation, procedural_entry]
@@ -107,6 +130,8 @@ Secondary MEMs:
   defender unifies, Plassey-type entry harder
 • MEM–INDIA–MONGOL–EMPIRE, MEM–INDIA–WAR–TIMUR, MEM–INDIA–WAR–GHAZNAVID —
   External shocks; force at distance; depth resistance
+• MEM–INDIA–WAR–PAKISTAN — Partition wound recurring; Kashmir wars;
+  procedure without consensus; invader/defender asymmetry
 • MEM–INDIA–BRITISH–EMPIRE — Post-1857 reorganization; defection risk
   recognition
 
@@ -120,16 +145,31 @@ Primary MEMs:
 • MEM–INDIA–BRITISH–EMPIRE — Company to Crown; administrative overlay;
   extraction vs governance; India repurposes tools under own logic
   [concepts: procedural_overlay, extraction_vs_governance, administrative_laboratory]
+• MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY — Charter; commercial-to-territorial;
+  presidencies; 1857 jurisdiction shift; hybrid corporate–state actor
+• MEM–INDIA–BRITISH–EMPIRE–CALCUTTA — Imperial capital (1773–1911); Bengal
+  presidency seat; Ganges delta; administrative core
+• MEM–INDIA–BRITISH–EMPIRE–BOMBAY — Western maritime gateway; Bombay
+  Presidency; commercial node; complementary to Calcutta
+• MEM–INDIA–BRITISH–EMPIRE–CEYLON — Ceylon Crown Colony; separate from
+  British India; maritime outpost; plantation economy; labour linkage
+• MEM–INDIA–BRITISH–EMPIRE–PARTITION — British exit; Radcliffe; cost externalized; handover mechanism.
+• MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — Transfer of power; sovereignty acquired; Dominion.
+• MEM–INDIA–REPUBLIC — Constitutional completion; institutional continuity; administrative spine.
+• MEM–INDIA–BENGAL — Bengal Presidency; Partition fracture; Ganges delta.
+• MEM–INDIA–BANGLADESH — 1971 emergence; cultural continuity;
+  neighbour; India–Bangladesh cooperation
+• MEM–INDIA–PUNJAB — Punjab; Partition fracture; invasion corridor.
 • MEM–INDIA–PARTITION — Exit-driven; boundary-making; cost externalized;
   India retains administrative spine, Pakistan lacks depth
   [concepts: exit_precedes_stability, wound_event, unfinished_process]
-• MEM–INDIA–WAR–CLIVE — Mode of entry; contracts, courts, cash before
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Mode of entry; contracts, courts, cash before
   sovereignty
 • MEM–INDIA–WAR–1857 — Invader's proxy defection; jurisdiction shift
   Company → Crown
 
 Secondary MEMs:
-• MEM–INDIA–NEHRU — Post-imperial institutional inheritance; Ferguson
+• MEM–INDIA–REPUBLIC–NEHRU — Post-imperial institutional inheritance; Ferguson
   framing
 • MEM–INDIA–GANDHI — Legitimacy collapse under moral pressure
 • MEM–INDIA–LIT–TAGORE — Renunciation of knighthood; cultural resistance
@@ -141,21 +181,50 @@ Relevant when: India–Pakistan, India–China, India–Sri Lanka, or
 interface with Islamic / Himalayan / southern neighbours is in play.
 
 Primary MEMs:
-• MEM–INDIA–GEO–TIBET — Buffer lost (1950–51); Tibet as platform not
+• MEM–INDIA–TIBET — Buffer lost (1950–51); Tibet as platform not
   buffer; India–China interface; bilateral-only encoding
+• MEM–INDIA–CHINA — India–China interface; Tibet buffer lost;
+  1962 territorial dispute; civilizational transmission
   [concepts: buffer_loss, border_hardens, bilateral_management]
-• MEM–INDIA–GEO–KASHMIR — Constitutional frontier; procedure without
+• MEM–INDIA–GEO–HIMALAYAS — Northern mountain barrier; altitude as
+  restraint; civilizational brake; Kashmir, Tibet, Nepal, Bhutan interface
+  [concepts: mountain_as_boundary, altitude_restraint]
+• MEM–INDIA–DELHI — Capital locus; administrative spine; 1911 transfer; Republic capital.
+• MEM–INDIA–MUMBAI — Commercial/financial capital; maritime gateway; Bombay continuity.
+• MEM–INDIA–KASHMIR — Constitutional frontier; procedure without
   consensus; Pakistan claim; managed, not resolved
+• MEM–INDIA–PAKISTAN — Partition twin; asymmetric emergence;
+  recurring adversary; Kashmir locus
+• MEM–INDIA–AFGHANISTAN — Northwest corridor; buffer; invasion axis;
+  Khyber, Kabul; post-Partition no direct border
+• MEM–INDIA–WAR–PAKISTAN — India–Pakistan wars; Kashmir locus; 1947–1999;
+  procedure without consensus; Partition wound recurring
   [concepts: legitimacy_strain, procedure_substitutes_consensus]
-• MEM–INDIA–GEO–SRI–LANKA — Neighbour interface; civilizational
+• MEM–INDIA–SRI–LANKA — Neighbour interface; civilizational
   periphery; southern dimension
+• MEM–INDIA–BRITISH–EMPIRE–CEYLON — Ceylon under Britain; administrative
+  severance; plantation economy; labour linkage; MEM–INDIA–SRI–LANKA for post-independence
+• MEM–INDIA–BRITISH–EMPIRE–BURMA — Burma part of British India (1826–1937);
+  eastern frontier; administrative severance 1937; Burma independent 1948
+• MEM–INDIA–HINDUISM — Indigenous civilizational substrate; dharma,
+  plurality; legitimacy vocabulary; sacral geography
+• MEM–INDIA–BUDDHISM — Born in India, transmitted outward; source not
+  domicile; Silk Road, Tibet, China
+• MEM–INDIA–PERSIA — Northwestern interface; Silk Road nexus; Achaemenid
+  satrapy; Persianate Mughal synthesis
+• MEM–INDIA–ARABIA — Western maritime interface; Islamic origin;
+  Indian Ocean trade; Red Sea, Persian Gulf
 • MEM–INDIA–ISLAM — Civilizational interface; Indo-Islamic synthesis;
   pluralism and contestation
+• MEM–INDIA–LAW–CASTE–SYSTEM — Caste encoded through law; colonial
+  hardening; constitutional reform; reservations; internal hierarchy
 
 Secondary MEMs:
-• MEM–INDIA–NEHRU — Idealism toward China; alternative encodings;
+• MEM–INDIA–REPUBLIC–NEHRU — Idealism toward China; alternative encodings;
   bilateral-only (current policy)
 • MEM–INDIA–PARTITION — Kashmir unresolved; Pakistan emergence
+• MEM–INDIA–WAR–PAKISTAN — India–Pakistan wars; Kashmir wars; Shimla,
+  Lahore procedural legacy
 • MEM–INDIA–DELHI–SULTANATE, MEM–INDIA–DYNASTY–MUGHAL — Indo-Islamic
   state formation
 
@@ -172,7 +241,7 @@ Primary MEMs:
 • MEM–INDIA–PARTITION — Fracture at exit; India absorbs, Pakistan
   lacks depth; asymmetric emergence
   [concepts: administrative_spine, asymmetric_trajectory]
-• MEM–INDIA–WAR–CLIVE — Fragmentation as condition; Mughal decline,
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Fragmentation as condition; Mughal decline,
   regional rivalry; defender's cohesion fails
 • MEM–INDIA–BRITISH–EMPIRE — Nationalist resistance; exit dynamics;
   procedural legitimacy collapse
@@ -208,6 +277,9 @@ Secondary MEMs:
   legitimacy
 • MEM–INDIA–DYNASTY–MAURYA — Arthashastra encodes Mauryan logic
 • MEM–INDIA–GANDHI — Dharma, ahimsa as civilizational fit
+• MEM–INDIA–HINDUISM — Epic encoding; dharma; sacral geography
+• MEM–INDIA–BUDDHISM — Buddhist transmission; Silk Road; India as
+  source
 
 ────────────────────────────────────────────────────────────
 VIII. STRATEGIC AUTONOMY / NON-ALIGNMENT
@@ -216,7 +288,9 @@ Relevant when: Non-alignment, bloc refusal, capacity-building over
 alignment, or "right to decide later" is in play.
 
 Primary MEMs:
-• MEM–INDIA–NEHRU — Non-alignment doctrine; strategic autonomy; time
+• MEM–INDIA–REPUBLIC–MODI — Multi-alignment; capacity-building; strategic
+  autonomy reframed; delivery politics
+• MEM–INDIA–REPUBLIC–NEHRU — Non-alignment doctrine; strategic autonomy; time
   as strategic asset; capacity-building over alignment; idealism
   encodings (e.g. China)
   [concepts: strategic_autonomy, right_to_decide_later, cost_of_autonomy]
@@ -234,7 +308,7 @@ Secondary MEMs:
 ────────────────────────────────────────────────────────────
 IX. INDEX COVERAGE
 ────────────────────────────────────────────────────────────
-All 26 MEM–INDIA files are listed under at least one dimension above.
+All 51 MEM–INDIA files are listed under at least one dimension above.
 Dimensions align with CIV–SCHOLAR–INDIA (RLL–INDIA–0001, 0002;
 SYNTHESIS 0001, 0002, 0003, 0004) and with CIV–INDEX–INDIA categories.
 

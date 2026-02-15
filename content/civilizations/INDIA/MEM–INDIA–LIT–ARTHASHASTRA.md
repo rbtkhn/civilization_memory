@@ -110,7 +110,9 @@ VIII. MEM CONNECTIONS
 • MEM–INDIA–DYNASTY–MAURYA — Chandragupta; Kautilya as counsellor; Arthashastra encodes Mauryan logic
 • MEM–INDIA–LIT–MAHABHARATA — Epic precedes treatise; Krishna's instrumentalism prefigures Kautilya
 • MEM–INDIA–LIT–KALIDASA — Kalidasa beautifies; Kautilya calculates
-• MEM–INDIA–NEHRU — Nehruvian idealism vs. Kautilyan realism; tension in modern India
+• MEM–INDIA–REPUBLIC–NEHRU — Nehruvian idealism vs. Kautilyan realism; tension in modern India
+• MEM–INDIA–LAW–CASTE–SYSTEM — Arthashastra encodes caste in ancient
+  statecraft; law as administration; civilizational encoding
 
 ────────────────────────────────────────────────────────────
 IX. EVIDENCE — ARC-T-MODERN (VERBATIM)

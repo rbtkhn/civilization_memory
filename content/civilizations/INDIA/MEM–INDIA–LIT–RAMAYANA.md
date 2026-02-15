@@ -92,7 +92,9 @@ VII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–LIT–MAHABHARATA — Contested dharma vs. ideal kingship; epic pair
 • MEM–INDIA–GEO–GANGES — Ayodhya, Gangetic heartland; epic geography
-• MEM–INDIA–GEO–SRI–LANKA — Lanka; Ravana; southern interface
+• MEM–INDIA–SRI–LANKA — Lanka; Ravana; southern interface
+• MEM–INDIA–HINDUISM — Ideal kingship; Rama; Hindu legitimacy
+  vocabulary; sacral geography
 
 ────────────────────────────────────────────────────────────
 VIII. EVIDENCE — ARC-T-MODERN (VERBATIM)

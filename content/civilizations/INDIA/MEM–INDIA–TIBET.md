@@ -1,10 +1,15 @@
-Title: MEM–INDIA–GEO–TIBET
+MEM–INDIA–TIBET — v1.0
+Civilizational Memory Codex · Memory File
+ACTIVE · CANONICAL
+
 Status: ACTIVE
 Version: 1.0
 Civilization: INDIA (भारतीय सभ्यता)
 Subject: Tibet / Tibetan Plateau (བོད་ / 西藏高原)
 Dates: Antiquity–Present
 Class: MEM (Civilizational Memory)
+ARC Reference: CIV–ARC–INDIA v3.2
+Last Update: February 2026
 Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -34,7 +39,7 @@ Core features:
 • Physical separation between Gangetic plains and Inner Asia
 
 Geographic axiom:
-> “पर्वतः सीमा भवति।”
+> "पर्वतः सीमा भवति।"
 (The mountain becomes the boundary.)
 
 The Himalayas are not merely defensive terrain but **civilizational brakes**,
@@ -74,7 +79,7 @@ Key absences:
 • No tributary incorporation analogous to Southeast Asia
 
 Political axiom:
-> “धर्म गया, राज्य नहीं।”
+> "धर्म गया, राज्य नहीं।"
 (The religion went; the state did not.)
 
 This absence is not remembered as failure, but as **structural limit**.
@@ -88,7 +93,7 @@ Historically, Tibet functioned as:
 • A stabilizing highland separating plains from steppe
 
 Buffer logic:
-> “उच्चभूमि युद्ध को रोकती है।”
+> "उच्चभूमि युद्ध को रोकती है।"
 (Highlands restrain war.)
 
 Tibet reduced contact intensity rather than enabling domination.
@@ -106,10 +111,10 @@ Patterns:
 • Preference for Tibet as autonomous buffer against Qing and Russian power
 
 Colonial axiom:
-> “सीमा का स्थायित्व, शासन से अधिक महत्त्वपूर्ण।”
+> "सीमा का स्थायित्व, शासन से अधिक महत्त्वपूर्ण।"
 (Border stability outweighs governance.)
 
-British restraint reinforced India’s inherited view of Tibet as
+British restraint reinforced India's inherited view of Tibet as
 **strategically useful precisely because it was not ruled**.
 
 ────────────────────────────────────────────────────────────
@@ -139,7 +144,7 @@ In Indian strategic memory, Tibet now functions as:
 • A compression zone against the Himalayan frontier
 
 Security axiom:
-> “जब उच्चभूमि भरी जाती है, सीमा सख़्त हो जाती है।”
+> "जब उच्चभूमि भरी जाती है, सीमा सख़्त हो जाती है।"
 (When the highland fills, the border hardens.)
 
 The loss of Tibetan buffer autonomy is remembered as a **structural
@@ -167,13 +172,27 @@ X. CONTINUITY INSIGHTS (RAW)
 • Religious transmission did not generate political entitlement.
 • Altitude historically enforced restraint and buffering.
 • The loss of Tibetan autonomy removed a pressure-absorbing layer.
-• India’s Tibet memory is defensive, not incorporative.
-• Tibet is not “lost” in Indian memory; it is **displaced**.
+• India's Tibet memory is defensive, not incorporative.
+• Tibet is not "lost" in Indian memory; it is **displaced**.
 
 Tension persists without closure.
 
 ────────────────────────────────────────────────────────────
-XI. PRIMARY SOURCES & REFERENCES
+XI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–GEO–HIMALAYAS — Mountain barrier; Tibet lies north; altitude
+  as civilizational brake; "mountain becomes boundary."
+• MEM–INDIA–SILK–ROAD — Buddhist transmission; India → Tibet → China; Silk Road cultural vector.
+• MEM–INDIA–REPUBLIC–NEHRU — Buffer assumption; 1950–51 rupture; idealism
+  encodings (§ IV.A).
+• MEM–INDIA–GEO–GANGES — Ganges rises in Himalayas; plains–plateau divide.
+• MEM–INDIA–CHINA — China fills Tibet (1950–51); buffer lost;
+  India–China interface; border hardens.
+• MEM–INDIA–BUDDHISM — India as source; Tibet as preserver;
+  Buddhist transmission 7th–11th c.
+
+────────────────────────────────────────────────────────────
+XII. PRIMARY SOURCES & REFERENCES
 ────────────────────────────────────────────────────────────
 Primary:
 • Buddhist transmission records (Nalanda → Tibet)
@@ -181,12 +200,9 @@ Primary:
 • British India diplomatic archives
 
 Secondary:
-• B.N. Goswami
-• Tansen Sen
-• Ram Rahul
-• Claude Arpi
+• B.N. Goswami, Tansen Sen, Ram Rahul, Claude Arpi
 • Melvyn Goldstein (comparative)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–INDIA–GEO–TIBET v1.0
+END OF FILE — MEM–INDIA–TIBET — v1.0
 ────────────────────────────────────────────────────────────

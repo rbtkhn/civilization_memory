@@ -9,7 +9,7 @@ Upgrade Type: LITERATURE · V-A LIT section; 5 MEMs (Mahabharata, Ramayana, Kali
 Civilization: INDIA
 Class: CIV–INDEX
 Last Update: February 2026
-Total MEM–INDIA files indexed: 26
+Total MEM–INDIA files indexed: 51
 Word Count: ~1,100
 
 Template Alignment: CIV–INDEX–TEMPLATE v3.2 (structural parity)
@@ -47,22 +47,41 @@ II. DYNASTIES & STATE FORMATION
 III. COLONIAL & IMPERIAL INTERACTION
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–BRITISH–EMPIRE.md
+• MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY.md
+• MEM–INDIA–BRITISH–EMPIRE–CALCUTTA.md
+• MEM–INDIA–BRITISH–EMPIRE–BOMBAY.md
+• MEM–INDIA–BRITISH–EMPIRE–CEYLON.md
+• MEM–INDIA–BRITISH–EMPIRE–BURMA.md
+• MEM–INDIA–BRITISH–EMPIRE–PARTITION.md
+• MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE.md
 • MEM–INDIA–PARTITION.md
+• MEM–INDIA–REPUBLIC.md
 
 ────────────────────────────────────────────────────────────
 IV. KEY CIVILIZATIONAL FIGURES
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–GANDHI.md
-• MEM–INDIA–NEHRU.md
+• MEM–INDIA–REPUBLIC–NEHRU.md
+• MEM–INDIA–REPUBLIC–MODI.md
 
 ────────────────────────────────────────────────────────────
 V. GEOGRAPHY & CIVILIZATIONAL SPACE
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–GEO–KASHMIR.md
-• MEM–INDIA–GEO–TIBET.md
-• MEM–INDIA–GEO–SRI–LANKA.md
+• MEM–INDIA–GEO–HIMALAYAS.md
+• MEM–INDIA–DELHI.md
+• MEM–INDIA–MUMBAI.md
+• MEM–INDIA–KASHMIR.md
+• MEM–INDIA–PAKISTAN.md
+• MEM–INDIA–AFGHANISTAN.md
+• MEM–INDIA–TIBET.md
+• MEM–INDIA–CHINA.md
+• MEM–INDIA–SRI–LANKA.md
+• MEM–INDIA–BENGAL.md
+• MEM–INDIA–BANGLADESH.md
+• MEM–INDIA–PUNJAB.md
 • MEM–INDIA–GEO–INDUS.md
 • MEM–INDIA–GEO–GANGES.md
+• MEM–INDIA–SILK–ROAD.md
 
 ────────────────────────────────────────────────────────────
 V-A. LITERATURE & CIVILIZATIONAL TRANSMISSION
@@ -77,22 +96,28 @@ V-A. LITERATURE & CIVILIZATIONAL TRANSMISSION
 VI. WAR & EXTERNAL SHOCKS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–WAR–ALEXANDER.md
-• MEM–INDIA–WAR–CLIVE.md
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE.md
 • MEM–INDIA–WAR–1857.md
 • MEM–INDIA–MONGOL–EMPIRE.md
 • MEM–INDIA–MONGOL–CHAGATAI.md
 • MEM–INDIA–WAR–TIMUR.md
 • MEM–INDIA–WAR–GHAZNAVID.md
+• MEM–INDIA–WAR–PAKISTAN.md
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL INTERFACES
 ────────────────────────────────────────────────────────────
+• MEM–INDIA–HINDUISM.md
+• MEM–INDIA–BUDDHISM.md
+• MEM–INDIA–PERSIA.md
+• MEM–INDIA–ARABIA.md
 • MEM–INDIA–ISLAM.md
+• MEM–INDIA–LAW–CASTE–SYSTEM.md
 
 ────────────────────────────────────────────────────────────
 VIII. INDEX COMPLETENESS CHECK
 ────────────────────────────────────────────────────────────
-Total MEM–INDIA files indexed: 26
+Total MEM–INDIA files indexed: 51
 
 Unindexed files: NONE
 Naming conflicts detected: NONE

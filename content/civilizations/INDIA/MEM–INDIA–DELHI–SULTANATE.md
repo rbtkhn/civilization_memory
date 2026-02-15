@@ -157,7 +157,7 @@ IX. MEM CONNECTIONS
   Ganges; regimes change, basin persists.
 • MEM–INDIA–GEO–INDUS — Northwest frontier; axis of Mongol
   pressure and Mughal entry.
-• MEM–INDIA–WAR–CLIVE — Same defection type (defender elites,
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Same defection type (defender elites,
   fragmentation) at opposite epoch; Sultanate end at Panipat,
   Company entry at Plassey.
 • Defection theory — See CIV–SCHOLAR–INDIA SYNTHESIS 0003,

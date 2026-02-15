@@ -146,8 +146,17 @@ Foreign rule is remembered as constraint, not inheritance.
 ────────────────────────────────────────────────────────────
 X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–WAR–CLIVE — Company-to-Crown; Plassey as defender-elite defection; procedural–extractive overlay.
-• MEM–INDIA–PARTITION — Exit dynamics; colonial legacy; cost externalized.
+• MEM–INDIA–BRITISH–EMPIRE–EAST–INDIA–COMPANY — Commercial-to-territorial transition; charter, presidencies, 1857 jurisdiction shift.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Company-to-Crown; Plassey as defender-elite defection; procedural–extractive overlay.
+• MEM–INDIA–BRITISH–EMPIRE–CALCUTTA — Imperial capital (1773–1911); Bengal presidency seat; Ganges delta; administrative core.
+• MEM–INDIA–BRITISH–EMPIRE–BOMBAY — Western maritime gateway; Bombay Presidency; complementary colonial node.
+• MEM–INDIA–BRITISH–EMPIRE–CEYLON — Ceylon Crown Colony; separate from British India; maritime outpost; plantation economy.
+• MEM–INDIA–BRITISH–EMPIRE–PARTITION — British exit; Radcliffe; cost externalized; handover mechanism.
+• MEM–INDIA–BRITISH–EMPIRE–INDEPENDENCE — Transfer of power; sovereignty acquired; Dominion; 1947.
+• MEM–INDIA–PARTITION — Exit dynamics; colonial legacy; cost externalized; wound event.
+• MEM–INDIA–REPUBLIC — Constitutional completion; institutional continuity; 1950.
+• MEM–INDIA–LAW–CASTE–SYSTEM — Census; colonial classification;
+  imperial legibility hardening caste categories.
 • MEM–INDIA–WAR–ALEXANDER — Opposite locus of mechanism failure (invader at edge); India WAR pair.
 • MEM–INDIA–WAR–1857 — 1857 Rebellion; invader’s-proxy defection; jurisdiction shift Company→Crown; defection theory SYNTHESIS 0003.
 

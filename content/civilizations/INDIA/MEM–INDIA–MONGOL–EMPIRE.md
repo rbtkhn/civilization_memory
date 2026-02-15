@@ -151,7 +151,7 @@ VIII. MEM CONNECTIONS
   reconstituting along the Ganges; core holds.
 • MEM–INDIA–GEO–INDUS — Northwest corridor; same axis as Mongol
   raids, Timur, Company.
-• MEM–INDIA–WAR–CLIVE — Same defection type (defender elites,
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Same defection type (defender elites,
   fragmentation) at opposite epoch; Mughal entry at Panipat,
   Company entry at Plassey.
 • MEM–INDIA–WAR–ALEXANDER — Invader at edge (Hyphasis); contrast
@@ -161,6 +161,7 @@ VIII. MEM CONNECTIONS
   civilization contrast.
 • MEM–PERSIA–SILK–ROAD — Pax Mongolica; trade and transmission;
   maritime displacement. India at Silk Road’s eastern reach.
+• MEM–INDIA–SILK–ROAD — India at eastern reach; overland and maritime; source and way station; maritime displacement.
 • MEM–INDIA–MONGOL–CHAGATAI — Chagatai Khanate raids and Delhi
   Sultanate deflection; granular sibling to this file’s § II.
 • MEM–INDIA–WAR–TIMUR — 1398 shock without conquest; granular

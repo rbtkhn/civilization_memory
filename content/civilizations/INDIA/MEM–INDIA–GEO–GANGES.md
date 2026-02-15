@@ -85,7 +85,15 @@ Civilizational continuity along the Ganges—villages, Ashoka, Akbar—is attest
 — Will Durant, *The Case for India* (1930) [ARC–INDIA-T-MODERN].
 
 ────────────────────────────────────────────────────────────
-VII. MEM BIBLIOGRAPHY
+VII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–INDIA–BENGAL — Bengal as Ganges delta; Partition fracture;
+  heartland severed.
+• MEM–INDIA–HINDUISM — Sacred geography; pilgrimage; Hinduism
+  embedded in Ganges.
+
+────────────────────────────────────────────────────────────
+VIII. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Durant, Will. *Our Oriental Heritage*. New York: Simon and Schuster, 1935 (Ch. XIV § I).
 • Durant, Will. *The Case for India*. New York: Simon and Schuster, 1930.

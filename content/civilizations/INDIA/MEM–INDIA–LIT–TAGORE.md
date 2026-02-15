@@ -106,7 +106,7 @@ Tension preserved without verdict.
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–GANDHI — Tagore critiques Gandhi; both anti-colonial; different means
-• MEM–INDIA–NEHRU — Nehruvian synthesis; Tagore's civilizational framing
+• MEM–INDIA–REPUBLIC–NEHRU — Nehruvian synthesis; Tagore's civilizational framing
 • MEM–INDIA–PARTITION — Bengal partition; Tagore's Amar Shonar Bangla = Bangladesh anthem
 • MEM–INDIA–BRITISH–EMPIRE — Colonial reception; Tagore renounces knighthood 1919
 

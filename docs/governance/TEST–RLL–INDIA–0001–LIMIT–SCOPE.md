@@ -11,7 +11,7 @@
 ### MEM corpus
 - **MEM–INDIA–GEO–INDUS:** Origin spine only; no claim that other basins are "origin."
 - **MEM–INDIA–GEO–GANGES:** Explicit "permanence"; "Control of the Ganges equals civilizational survivability"; no MEM–INDIA–GEO–BRAHMAPUTRA in index.
-- **CIV–INDEX–INDIA:** Geography section lists GEO–KASHMIR, GEO–TIBET, GEO–SRI–LANKA, GEO–INDUS, GEO–GANGES. No Brahmaputra MEM. Ganges is the sole basin with "heartland/permanence" encoding in the corpus.
+- **CIV–INDEX–INDIA:** Geography section lists GEO–HIMALAYAS, KASHMIR, TIBET, SRI–LANKA, GEO–INDUS, GEO–GANGES. No Brahmaputra MEM. Ganges is the sole basin with "heartland/permanence" encoding in the corpus.
 
 ### Supplementary
 - Standard geography: Brahmaputra (Assam, Bangladesh) has demography and sacred sites; Narmada, Godavari, Krishna, etc. have regional importance. None are encoded in the India MEM corpus as the civilizational "permanence" equivalent of the Ganges. The RLL was derived from Indus vs Ganges only.

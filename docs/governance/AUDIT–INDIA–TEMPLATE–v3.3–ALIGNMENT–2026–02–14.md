@@ -95,9 +95,9 @@ GEO–MEMs MUST have:
 |-----|--------------|---------|------------|-----------------|--------------|---------|
 | MEM–INDIA–GEO–GANGES | 1 (MODERN only) | No | ~17% est. | No | Yes | **NON-COMPLIANT** |
 | MEM–INDIA–GEO–INDUS | 2 (ANCIENT, MODERN) | No | Unknown | No | Yes | **NON-COMPLIANT** |
-| MEM–INDIA–GEO–KASHMIR | 0 | No | No verbatim | No | **No** | **CRITICAL** |
-| MEM–INDIA–GEO–TIBET | 0 | No | No verbatim | No | **No** | **CRITICAL** |
-| MEM–INDIA–GEO–SRI–LANKA | 0 | No | No verbatim | No | **No** | **CRITICAL** |
+| MEM–INDIA–KASHMIR | 0 | No | No verbatim | No | **No** | **CRITICAL** |
+| MEM–INDIA–TIBET | 0 | No | No verbatim | No | **No** | **CRITICAL** |
+| MEM–INDIA–SRI–LANKA | 0 | No | No verbatim | No | **No** | **CRITICAL** |
 
 **All 5 GEO–MEMs fail the 4-ARC-section requirement.** Three (KASHMIR, TIBET, SRI–LANKA) lack BIBLIOGRAPHY—mandatory per CIV–MEM–TEMPLATE v2.6.
 
@@ -116,7 +116,7 @@ WAR MEMs (new) MUST have:
 | MEM | Layer 2 | MEM CONNECTIONS | BIBLIOGRAPHY | Verdict |
 |-----|---------|-----------------|--------------|---------|
 | MEM–INDIA–WAR–ALEXANDER | No | Yes (3) | Yes | **GAP** — no Layer 2 |
-| MEM–INDIA–WAR–CLIVE | No | Yes | Yes | **GAP** — no Layer 2 |
+| MEM–INDIA–BRITISH–EMPIRE–CLIVE | No | Yes | Yes | **GAP** — no Layer 2 |
 | MEM–INDIA–WAR–1857 | No | Yes | Yes | **GAP** — no Layer 2 |
 | MEM–INDIA–WAR–TIMUR | No | Yes | Yes | **GAP** — no Layer 2 |
 | MEM–INDIA–WAR–GHAZNAVID | No | Yes | Yes | **GAP** — no Layer 2 |
@@ -130,7 +130,7 @@ WAR MEMs (new) MUST have:
 | MEM | MEM CONNECTIONS | BIBLIOGRAPHY | Typos | Verdict |
 |-----|-----------------|--------------|-------|---------|
 | MEM–INDIA–GANDHI | No | Yes | "CONSEQUENAD" → CONSEQUENCES | **GAP** |
-| MEM–INDIA–NEHRU | No | Yes | — | **GAP** |
+| MEM–INDIA–REPUBLIC–NEHRU | No | Yes | — | **GAP** |
 | MEM–INDIA–PARTITION | No | Yes | "VIOLENAD" → VIOLENCE | **GAP** |
 | MEM–INDIA–DYNASTY–GUPTA | No | Yes | — | **GAP** |
 | MEM–INDIA–DYNASTY–MAURYA | Yes | Yes | — | ✓ |
@@ -161,7 +161,7 @@ Per CMC–BOOTSTRAP continuity note (2026-02-13): "Bring CIV–INDIA up to the s
 
 ### P0 — Critical (blocking compliance)
 
-1. **MEM–INDIA–GEO–KASHMIR, GEO–TIBET, GEO–SRI–LANKA:** Add MEM BIBLIOGRAPHY (mandatory).
+1. **MEM–INDIA–KASHMIR, TIBET, SRI–LANKA, GEO–HIMALAYAS:** Add MEM BIBLIOGRAPHY (mandatory).
 2. **MEM–INDIA–GEO–*:** Add 4 ARC sections (ANCIENT, MEDIEVAL, EARLY-MOD, MODERN) per GEO–MEM template.
 3. **MEM CONNECTIONS:** Add to GANDHI, NEHRU, PARTITION, DYNASTY–GUPTA, GEO–GANGES, GEO–INDUS (≥3 same-civ each).
 

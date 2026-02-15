@@ -68,7 +68,7 @@ Tension preserved without verdict.
 ────────────────────────────────────────────────────────────
 VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–INDIA–WAR–CLIVE — Compare: opposite locus of mechanism failure. Alexander: invader’s mechanism fails (army refusal at Hyphasis); Clive: defender’s mechanism fails (elite defection). Same question—who was exposed when the mechanism failed—opposite answers.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Compare: opposite locus of mechanism failure. Alexander: invader’s mechanism fails (army refusal at Hyphasis); Clive: defender’s mechanism fails (elite defection). Same question—who was exposed when the mechanism failed—opposite answers.
 • Defection theory — Force at distance / invader-at-edge type; see CIV–SCHOLAR–INDIA SYNTHESIS 0003, RLL–INDIA–0002.
 • Ghaznavid return (1026) — Parallel limit: force at distance, depth resistance; no army mutiny but same structural condition.
 

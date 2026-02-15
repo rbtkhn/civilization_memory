@@ -114,7 +114,11 @@ Foundation laid, not frozen.
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–INDIA–WAR–ALEXANDER — Limit of invader (force at distance, army refusal at Hyphasis); post-Alexander fragmentation enables Mauryan consolidation.
-• MEM–INDIA–WAR–CLIVE — Inverse: unity resists Plassey-type conquest; defection theory SYNTHESIS 0003.
+• MEM–INDIA–BRITISH–EMPIRE–CLIVE — Inverse: unity resists Plassey-type conquest; defection theory SYNTHESIS 0003.
+• MEM–INDIA–HINDUISM — Dharmic overlay; Mauryan legitimacy; Hindu
+  and Buddhist patronage.
+• MEM–INDIA–BUDDHISM — Ashoka; Buddhist patronage; missionary
+  expansion; Nalanda.
 
 ────────────────────────────────────────────────────────────
 IX. EVIDENCE — ARC-T-MODERN (VERBATIM)

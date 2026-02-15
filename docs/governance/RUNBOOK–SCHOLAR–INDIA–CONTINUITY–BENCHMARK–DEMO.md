@@ -28,10 +28,10 @@ II. ACTIVITY SEQUENCE
 ### Phase 1: Anchor in India (Turns 1–2)
 
 **User prompt (Turn 1):**
-> LEARN mode, India. How does the Tibet buffer-loss (MEM–INDIA–GEO–TIBET) connect to Nehru's idealism encodings toward China?
+> LEARN mode, India. How does the Tibet buffer-loss (MEM–INDIA–TIBET) connect to Nehru's idealism encodings toward China?
 
 **Expected system behavior:**
-- Load CIV–SCHOLAR–INDIA, MEM–INDIA–GEO–TIBET, MEM–INDIA–NEHRU
+- Load CIV–SCHOLAR–INDIA, MEM–INDIA–TIBET, MEM–INDIA–REPUBLIC–NEHRU
 - Mercouris-voiced response; reference SYNTHESIS 0004, ENTRY 0008
 - Options menu includes **G — Cross-civ: China's encoding of Tibet (MEM–CHINA–GEO–TIBET) — contrast with India's buffer-loss**
 
@@ -54,7 +54,7 @@ II. ACTIVITY SEQUENCE
 **Turn 5:** User selects **G — Cross-civ: Colonial parallel — Britain in India (Plassey, procedural overlay) vs Britain in China (First Opium War, maritime coercion)**
 
 **Expected:**
-- Load MEM–INDIA–BRITISH–EMPIRE or MEM–INDIA–WAR–CLIVE; MEM–CHINA–WAR–FIRST–OPIUM
+- Load MEM–INDIA–BRITISH–EMPIRE or MEM–INDIA–BRITISH–EMPIRE–CLIVE; MEM–CHINA–WAR–FIRST–OPIUM
 - **Connection statement:** Link India (Company-to-Crown, contracts/courts/cash, defender elite defection) with China (maritime coercion, Treaty of Nanjing, no procedural entry—decisive imposition)
 - **Cross-reference:** "In India, British entry was procedural and fragmented; in China, it was maritime and imposed."
 

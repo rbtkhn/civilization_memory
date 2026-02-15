@@ -136,6 +136,10 @@ VIII. MEM CONNECTIONS
   interface).
 • MEM–INDIA–GANDHI — Legitimacy attack on imperial rule; plural
   India.
+• MEM–INDIA–HINDUISM — Indigenous substrate; Hinduism persists
+  under Islamic rule; plural coexistence.
+• MEM–INDIA–ARABIA — Arabia as Islamic origin; Islam reaches
+  India via land and sea.
 
 ────────────────────────────────────────────────────────────
 IX. MEM BIBLIOGRAPHY

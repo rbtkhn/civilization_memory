@@ -128,8 +128,12 @@ VII. MEM CONNECTIONS
   without conquest (force at distance).
 • MEM–INDIA–GEO–INDUS — Northwest corridor; axis of Ghaznavid
   entry and return.
+• MEM–INDIA–AFGHANISTAN — Ghaznavids from Ghazni (Afghanistan);
+  invasion axis; Punjab raids.
 • MEM–INDIA–GEO–GANGES — Ganges core not held by Ghaznavids;
   depth as limit.
+• MEM–INDIA–ARABIA — Islamic origin; Ghaznavids transmit Islam
+  of Arabian origin to India.
 • MEM–INDIA–ISLAM — Early Islamic (Ghaznavid) pressure on India;
   force at distance limit.
 • Defection theory — See CIV–SCHOLAR–INDIA SYNTHESIS 0003,

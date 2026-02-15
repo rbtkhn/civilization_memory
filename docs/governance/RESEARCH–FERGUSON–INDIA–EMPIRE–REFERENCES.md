@@ -37,9 +37,9 @@ Ferguson frames India as:
 |----------|--------------------------------|
 | MEM–INDIA–BRITISH–EMPIRE | Jewel in the crown; administrative laboratory; Company-to-Crown; extraction vs governance; imperial method at scale |
 | MEM–INDIA–PARTITION | Exit, procedural withdrawal, cost externalized; imperial method limits |
-| MEM–INDIA–WAR–CLIVE | Company ascendancy; commerce-to-territory; Plassey/Buxar |
+| MEM–INDIA–BRITISH–EMPIRE–CLIVE | Company ascendancy; commerce-to-territory; Plassey/Buxar |
 | MEM–INDIA–GANDHI | Nationalist challenge to imperial logic; moral critique |
-| MEM–INDIA–NEHRU | Post-imperial institutional inheritance; procedural continuity |
+| MEM–INDIA–REPUBLIC–NEHRU | Post-imperial institutional inheritance; procedural continuity |
 
 Cross-ARC: MEM–INDIA files may cite Ferguson with dual declaration where relevant to Anglia–India interface, e.g. [ARC–INDIA-T-MODERN] or [ARC–ANGLIA-T-MODERN] per CIV–ARC–TEMPLATE § V-A.
 
@@ -50,10 +50,10 @@ Cross-ARC: MEM–INDIA files may cite Ferguson with dual declaration where relev
 | Priority | MEM file | EVIDENCE section | Where to add Ferguson | Thematic fit (Ferguson *Empire*) |
 |----------|----------|------------------|----------------------|----------------------------------|
 | **1** | **MEM–INDIA–BRITISH–EMPIRE** | X. EVIDENCE — ARC-T-MODERN (Durant already) | Append Ferguson block to same section; or new subsection "Ferguson (ARC-T-MODERN)" | Jewel in the crown; administrative laboratory; Company-to-Crown; extraction vs governance; imperial method at scale; "hardworking bureaucrats and patrician proconsuls" |
-| **1** | **MEM–INDIA–WAR–CLIVE** | V. EVIDENCE — ARC-T-MODERN (Durant F, G already) | Append Ferguson block to same section | Company ascendancy; commerce-to-territory; Plassey/Buxar as pivot; EIC as hybrid state; Clive and transition from trader to sovereign-like actor |
+| **1** | **MEM–INDIA–BRITISH–EMPIRE–CLIVE** | V. EVIDENCE — ARC-T-MODERN (Durant F, G already) | Append Ferguson block to same section | Company ascendancy; commerce-to-territory; Plassey/Buxar as pivot; EIC as hybrid state; Clive and transition from trader to sovereign-like actor |
 | **2** | **MEM–INDIA–PARTITION** | X. EVIDENCE — ARC-T-MODERN (Durant E, F, J already) | Append Ferguson block to same section | Exit and procedural withdrawal; cost externalized; imperial method limits; handover without civilizational transfer |
 | **2** | **MEM–INDIA–GANDHI** | VII. EVIDENCE — ARC-T-MODERN (Durant C, J already) | Append Ferguson block to same section | Nationalist challenge to imperial logic; moral critique; costs of maintaining imperial control; nationalist resistance mounted |
-| **2** | **MEM–INDIA–NEHRU** | VII. EVIDENCE — ARC-T-MODERN (Durant C, A already) | Append Ferguson block to same section | Post-imperial institutional inheritance; procedural continuity; India as republic after empire; institutional replication and adaptation |
+| **2** | **MEM–INDIA–REPUBLIC–NEHRU** | VII. EVIDENCE — ARC-T-MODERN (Durant C, A already) | Append Ferguson block to same section | Post-imperial institutional inheritance; procedural continuity; India as republic after empire; institutional replication and adaptation |
 
 **Implementation note:** Each of these MEMs already has an **EVIDENCE — ARC-T-MODERN (VERBATIM)** section with Durant. Add Ferguson as a second author block in the same section (e.g. "Ferguson, *Empire* (ARC-T-MODERN):" followed by blockquote). Update MEM BIBLIOGRAPHY to include Ferguson, *Empire* (2003). Bump MEM version (e.g. v2.0 → v2.1) and set Upgrade Type to include "Ferguson verbatim" or "FERGUSON EMPIRE INTEGRATION."
 
