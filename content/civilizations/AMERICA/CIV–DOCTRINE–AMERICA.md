@@ -20,7 +20,7 @@ and federal structure; (b) Western Hemisphere hegemon role; (c) dual-ocean
 role and 1991 unipolar structural condition. Doctrines 01–07 are one-to-one
 adaptations of Anglian doctrines 01–07, accepted as the initial doctrine set
 via DIB–AMERICA. Doctrine 08 derives from SYNTHESIS 0007 (CIV–SCHOLAR–AMERICA),
-frozen and accepted via DIB–AMERICA. Subsequent doctrines must follow the
+accepted via DIB–AMERICA. Subsequent doctrines must follow the
 standard admissibility chain (FROZEN SYNTHESIS in CIV–SCHOLAR–AMERICA → DIB–AMERICA).
 
 ────────────────────────────────────────────────────────────

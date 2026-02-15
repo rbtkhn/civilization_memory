@@ -1119,10 +1119,10 @@ As per CIV–SCHOLAR–TEMPLATE v3.0 Section XIII:
 ────────────────────────────────────────────────────────────
 XIX. SYNTHESIS TRADECRAFT REQUIREMENTS (Template § XIV · MANDATORY)
 ────────────────────────────────────────────────────────────
-Synthesis Tradecraft is BINDING for all frozen SYNTHESIS entries.
+Synthesis Tradecraft is BINDING for all SYNTHESIS entries accepted as doctrine.
 
 As per CIV–SCHOLAR–TEMPLATE v3.0 Section XIV:
-• Assumptions Box: REQUIRED for all frozen SYNTHESIS (≥3 assumptions, linchpin status; incomplete blocks freeze).
+• Assumptions Box: REQUIRED for all SYNTHESIS accepted as doctrine (≥3 assumptions, linchpin status; incomplete blocks acceptance as doctrine).
 • ACH Record: REQUIRED when ≥2 competing hypotheses were evaluated.
 • Confidence tier: MUST be declared in SYNTHESIS status block (Tier 1–4).
 • POST-ACH revision: Document trigger, re-run ACH, update Assumptions Box, re-freeze with authorization.

@@ -295,7 +295,7 @@ This version integrates intelligence analytic tradecraft standards
 for SYNTHESIS entries, requiring explicit assumption identification
 and competing hypothesis analysis.
 
-• Assumptions Box: Required for all frozen SYNTHESIS entries
+• Assumptions Box: Required for all SYNTHESIS entries accepted as doctrine
 • ACH Record: Required when alternative frameworks were evaluated
 • Calibrated Confidence: Tier 1-4 probability estimates
 • Linchpin Tracking: Identification of critical assumptions
@@ -646,7 +646,7 @@ Conflict disclosure is mandatory and non-optional.
 ────────────────────────────────────────────────────────────
 X. DOCTRINAL ELIGIBILITY FILTER (DEF)
 ────────────────────────────────────────────────────────────
-No doctrine may be frozen if unresolved Tier A or Tier B conflicts remain
+No doctrine may be accepted if unresolved Tier A or Tier B conflicts remain
 under the PSCRC.
 
 ADDITIVE CLARIFICATION (v1.8):
@@ -800,7 +800,7 @@ This metaphor is guidance for interpretation and refinement, not a procedural ru
 XVIII. DOCTRINE FORMATION LAW
 ────────────────────────────────────────────────────────────
 Doctrine:
-• Must derive from frozen synthesis
+• Must derive from synthesis accepted as doctrine
 • Requires explicit command
 • Requires versioning
 • Is irreversible once canonical
@@ -1564,7 +1564,7 @@ XXVI.A GROUNDING REQUIREMENTS
 SYNTHESIS entries must be grounded in MEM evidence:
 
 VALIDATION CASES:
-• Every frozen SYNTHESIS must cite ≥2 MEMs as validation cases
+• Every SYNTHESIS accepted as doctrine must cite ≥2 MEMs as validation cases
 • Validation cases must contain evidence supporting the SYNTHESIS
 • Cross-civilizational SYNTHESIS requires cases from ≥2 civilizations
 
@@ -1579,7 +1579,7 @@ GROUNDING CHAIN:
 ────────────────────────────────────────────────────────────
 XXVI.B ASSUMPTIONS BOX REQUIREMENT
 ────────────────────────────────────────────────────────────
-All frozen SYNTHESIS entries MUST include an Assumptions Box.
+All SYNTHESIS entries accepted as doctrine MUST include an Assumptions Box.
 
 PURPOSE: Identify key assumptions underlying the synthesis and
 assess their linchpin status.
@@ -1679,7 +1679,7 @@ ASSUMPTIONS SUMMARY
 ────────────────────────────────────────────────────────────
 
 APPLICATION:
-• Required for all frozen SYNTHESIS entries
+• Required for all SYNTHESIS entries accepted as doctrine
 • Optional for MEMs anchoring major analytical claims
 • Linchpin assumptions with HIGH status require special scrutiny
 

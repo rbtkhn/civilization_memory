@@ -19,8 +19,8 @@
 | 4 | Freeze SYNTHESIS 0004 (Nehru idealism: alternative encodings) | Freeze-ready; MEM–INDIA–REPUBLIC–NEHRU § IV.A | Explicit user authorization to freeze |
 | 5 | Bind RLL–INDIA–0001 (Ganges survivability) | Proposed in CIV–SCHOLAR–INDIA § XVIII.A | Phase II activation + user authorization |
 | 6 | Bind RLL–INDIA–0002 (Two modes of WAR limit / three defection types) | Proposed in CIV–SCHOLAR–INDIA § XVIII.A | Phase II activation + user authorization |
-| 7 | Update CIV–SCHOLAR–INDIA § XVIII (Doctrine Registry) | Currently: "No doctrines frozen" | After freeze: record frozen synthesis → doctrine mapping |
-| 8 | Update CIV–SCHOLAR–INDIA § XXI (Current Status) | 0 frozen, 0 bound | Set frozen syntheses = 4, bound RLLs = 2 |
+| 7 | Update CIV–SCHOLAR–INDIA § XVIII (Doctrine Registry) | Currently: "No doctrines accepted" | After acceptance: record synthesis accepted as doctrine → doctrine mapping |
+| 8 | Update CIV–SCHOLAR–INDIA § XXI (Current Status) | 0 accepted as doctrine, 0 bound | Set syntheses accepted as doctrine = 4, bound RLLs = 2 |
 
 **Note:** RLL–INDIA–0003 is not a separate RLL; SYNTHESIS 0003 extends RLL–0002 with a third defection type. Binding 0001 and 0002 suffices. If a distinct RLL–0003 (e.g. ARC three-types) is desired later, add as separate checklist item after Phase II is active.
 
@@ -30,7 +30,7 @@
 
 | # | Task | China benchmark | Gate |
 |---|------|-----------------|------|
-| 9 | Create CIV–DOCTRINE–INDIA | CIV–DOCTRINE–CHINA v1.1 exists; derived from FROZEN SYNTHESIS in CIV–SCHOLAR–CHINA via DIB–CHINA | DIB–INDIA: user authorization to create doctrine file and treat frozen syntheses as doctrine |
+| 9 | Create CIV–DOCTRINE–INDIA | CIV–DOCTRINE–CHINA v1.1 exists; derived from synthesis accepted as doctrine in CIV–SCHOLAR–CHINA via DIB–CHINA | DIB–INDIA: user authorization to create doctrine file and treat syntheses as doctrine |
 | 10 | Populate doctrine definitions | China: doctrines 01–03 (Non-Han Consolidation; Rupture-to-Reconstitution; Conquest-as-Connectivity) | Map SYNTHESIS 0001–0004 (or subset) to Doctrine 01, 02, … per user choice |
 | 11 | Mirror into CIV–CORE–INDIA | CIV–CORE–CHINA cites CIV–DOCTRINE–CHINA; mirror binding when cited | Add Doctrine Reference block to CIV–CORE–INDIA header/section |
 | 12 | Mirror into CIV–SCHOLAR–INDIA | CIV–SCHOLAR–CHINA § Doctrine Registry records mirror; SCHOLAR-side freeze and source synthesis only | Add doctrine mirror section to CIV–SCHOLAR–INDIA § XVIII; authoritative definitions remain in CIV–DOCTRINE–INDIA |
@@ -86,9 +86,9 @@
 ## VII. RECOMMENDED SEQUENCE
 
 1. **User authorizes** Phase II activation and doctrine path.
-2. **Freeze** SYNTHESIS 0001–0004 in CIV–SCHOLAR–INDIA (items 1–4).
+2. **Accept** SYNTHESIS 0001–0004 as doctrine in CIV–SCHOLAR–INDIA (items 1–4).
 3. **Bind** RLL–INDIA–0001 and RLL–INDIA–0002 (items 5–6).
-4. **DIB–INDIA:** User authorizes creation of CIV–DOCTRINE–INDIA and mapping of frozen syntheses to doctrines (items 9–10).
+4. **DIB–INDIA:** User authorizes creation of CIV–DOCTRINE–INDIA and mapping of syntheses accepted as doctrine to doctrines (items 9–10).
 5. **Create** CIV–DOCTRINE–INDIA; **mirror** into CORE and SCHOLAR; **update** INDEX (items 11–13).
 6. **Switch** CIV–SCHOLAR–INDIA to Phase II; enable failure-first, RLL binding, Anomaly Flag (items 14–18).
 7. **Verify** MEM–RELEVANCE, ARC, and governance touchpoints (items 19–28).

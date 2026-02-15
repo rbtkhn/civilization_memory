@@ -346,12 +346,12 @@ XVIII. SCHOLAR MODE
 CIV–CORE–INDIA is SCHOLAR-ENABLED.
 
 • SCHOLAR has read-only authority over this CORE; no SCHOLAR belief,
-  synthesis, or doctrine is binding unless explicitly frozen and accepted.
+  synthesis, or doctrine is binding unless explicitly accepted as doctrine.
 • OGE (Option Generation Engine) is mandatory for user–system interaction;
   OGE generates options, not conclusions; OGE is governed by CIV–SCHOLAR–PROTOCOL.
 • Learning ledger: CIV–SCHOLAR–INDIA (if present) accumulates patterns;
   CORE remains the supreme constraint surface for INDIA.
-• Scholar Reference: CIV–SCHOLAR–INDIA v2.3 (Phase II; RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 frozen → CIV–DOCTRINE–INDIA 01–04).
+• Scholar Reference: CIV–SCHOLAR–INDIA v2.3 (Phase II; RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 accepted as doctrine → CIV–DOCTRINE–INDIA 01–04).
 • STATE-readiness: MEM–RELEVANCE–INDIA v1.0 provides dimension-to-MEM mapping for
   Decision Points and other STATE activities; CIV–STATE–INDIA v1.0 created 2026-02-14,
   loads this CORE per entity-bundle re-anchor (cmc-state-mem-grounding).

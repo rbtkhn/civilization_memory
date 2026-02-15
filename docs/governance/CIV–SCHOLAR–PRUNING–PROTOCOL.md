@@ -65,7 +65,7 @@ C. PHASE I ENTRIES (in Phase II+ file)
    • Maintain entry numbering continuity
 
 D. FROZEN SYNTHESES (when count > 20)
-   • Archive older frozen syntheses
+   • Archive older syntheses (including those accepted as doctrine)
    • Replace with stub referencing archive location
 
 ────────────────────────────────────────────────────────────

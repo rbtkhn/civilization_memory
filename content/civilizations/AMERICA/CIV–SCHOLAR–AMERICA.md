@@ -70,7 +70,7 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 In Phase I, RLLs are not binding. This file may reference CIV–DOCTRINE–
 AMERICA as **authoritative American doctrine** and CIV–DOCTRINE–ANGLIA as
 **inherited doctrinal context** (doctrines 01–08 apply as American-adapted frame). America-specific doctrine entries may be added
-here only when a synthesis is explicitly frozen and accepted per
+here only when a synthesis is explicitly accepted as doctrine per
 Template. If Phase II is adopted, RLL–AMERICA–#### namespace and
 binding rules apply per Template.
 
@@ -518,7 +518,7 @@ SYNTHESIS 0001 (candidate — from LEARN session Mississippi sequence)
   Source: SCHOLAR–AMERICA LEARN session (Mearsheimer audit, multi-mind
   Civil War, Options E traversal 1763 → 1795 → 1803; MEM–ANGLIA–
   GEO–MISSISSIPPI–RIVER constitutive). Do not treat as doctrine
-  unless explicitly frozen per Template.
+  unless explicitly accepted as doctrine per Template.
 
 SYNTHESIS 0002 (candidate — from LEARN session Kennedy doctrine audit)
   Outcome: U.S. coercion in the hemisphere is legitimised by perimeter
@@ -548,7 +548,7 @@ SYNTHESIS 0002 (candidate — from LEARN session Kennedy doctrine audit)
   Source: SCHOLAR–AMERICA LEARN session (Kennedy doctrine audit;
   options A, B, C, E, H; MEM–ANGLIA–MONROE, MEM–ANGLIA–WAR–SPANISH–
   AMERICAN, MEM–RUSSIA–USSR–CUBAN–MISSILE–CRISIS). Do not treat as
-  doctrine unless explicitly frozen per Template.
+  doctrine unless explicitly accepted as doctrine per Template.
 
 SYNTHESIS 0003 (candidate — from LEARN session doctrine violations)
   Outcome: When CIV–DOCTRINE–AMERICA is blatantly violated, the
@@ -577,7 +577,7 @@ SYNTHESIS 0003 (candidate — from LEARN session doctrine violations)
 
   Source: SCHOLAR–AMERICA LEARN session (doctrine violations,
   surprising results; Yorktown, Canada, Option C; options A, D, E,
-  H). Do not treat as doctrine unless explicitly frozen per Template.
+  H). Do not treat as doctrine unless explicitly accepted as doctrine per Template.
 
 SYNTHESIS 0004 (candidate — from LEARN session legitimacy density)
   Outcome: Legitimacy density (where legitimacy is concentrated and how
@@ -617,7 +617,7 @@ SYNTHESIS 0004 (candidate — from LEARN session legitimacy density)
   Source: SCHOLAR–AMERICA LEARN session (Kissinger cluster; options
   A, B, D, E, F, H; Mearsheimer primary then multi-mind; legitimacy
   density unpacked; low points; Fort Sumter; Appomattox). Do not
-  treat as doctrine unless explicitly frozen per Template.
+  treat as doctrine unless explicitly accepted as doctrine per Template.
 
   19th-century stress-test (February 2026): SYNTHESIS 0004 tested
   against MEM–AMERICA–PRESIDENT–MONROE, MEM–AMERICA–WAR–1812, MEM–AMERICA–
@@ -634,7 +634,7 @@ SYNTHESIS 0004 (candidate — from LEARN session legitimacy density)
   Density Variation) — American legitimacy claims vary in locus
   (procedure, person, doctrine, outcome); outcome-based density is
   more vulnerable to outcome failure. Binding only if Phase II
-  adopted and synthesis frozen.
+  adopted and synthesis accepted as doctrine.
 
 CONCEPT REGISTRY (non-binding):
 • legitimacy density — Analytical concept: the concentration and
@@ -687,7 +687,7 @@ SYNTHESIS 0005 (candidate — from LEARN session Doctrine 07 and legitimacy dens
   Source: SCHOLAR–AMERICA LEARN session (CIV–DOCTRINE–AMERICA read;
   options A, D, E, F, H; legitimacy density and 01/03; Doctrine 07
   and outcome-based density; Gettysburg, Appomattox, Second Inaugural).
-  Do not treat as doctrine unless explicitly frozen per Template.
+  Do not treat as doctrine unless explicitly accepted as doctrine per Template.
 
 SYNTHESIS 0006 (candidate — from LEARN session assembly-under-pressure)
   Outcome: Assembly-under-pressure is encoded in four ways across the
@@ -722,7 +722,7 @@ SYNTHESIS 0006 (candidate — from LEARN session assembly-under-pressure)
   options A, E, G×3, D, H; MEM–AMERICA–REVOLUTION–CONTINENTAL–CONGRESS,
   MEM–FRANCIA–FRENCH–REVOLUTION, MEM–RUSSIA–NICHOLAS–II, MEM–RUSSIA–
   LAW–ZEMSTVO, MEM–GERMANIA–FRANKFURT; ENTRY 0013). Do not treat as
-  doctrine unless explicitly frozen per Template.
+  doctrine unless explicitly accepted as doctrine per Template.
 
 SYNTHESIS 0007 (FROZEN · PROMOTED TO DOCTRINE 08 — from LEARN session president–emperor, first succession, empire of laws)
   Outcome: First succession: America encodes procedure-over-person
@@ -771,7 +771,7 @@ SYNTHESIS 0007 (FROZEN · PROMOTED TO DOCTRINE 08 — from LEARN session preside
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY (AMERICA-SPECIFIC)
 ────────────────────────────────────────────────────────────
-Doctrine 08 (First succession and empire of laws): frozen from
+Doctrine 08 (First succession and empire of laws): accepted as doctrine from
 SYNTHESIS 0007, entered CIV–DOCTRINE–AMERICA v1.2. Inherited context: CIV–
 DOCTRINE–ANGLIA (Procedure as Memory, Rupture Absorption, Defeat
 Without Collapse, Time as Weapon, Coalition Primacy, Naval Denial,

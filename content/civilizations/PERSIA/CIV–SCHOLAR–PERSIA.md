@@ -17,9 +17,9 @@ ARC Reference: CIV–ARC–PERSIA v3.1
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 
-Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion.
+Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion; GEO four-zone + overextension liability (ENTRY 0006, SYNTHESIS 0005); STATE→Scholar relay (ENTRY 0007); SYNTHESIS 0005 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02).
 
-UPGRADE NOTE (v1.0 → v2.0): ENTRY 0004 (WAR corpus), 0005 (Persia–Islam); SYNTHESIS 0004 (Persia–Islam structural); Source MEMs expanded to 34; ARC v1.3.
+UPGRADE NOTE (v1.0 → v2.0): ENTRY 0004 (WAR corpus), 0005 (Persia–Islam); SYNTHESIS 0004 (Persia–Islam structural); Source MEMs expanded to 34; ARC v1.3. ADDITIVE: ENTRY 0006 (GEO cluster + Sasanian forward + Barnes liability); SYNTHESIS 0005 (GEO four-zone pattern + overextension liability; RLL candidate). RELAY: ENTRY 0007 (STATE session pending US–Iran escalation, week of 7 Feb 2026; application of GEO four-zone and Khosrow/Kavadh liability; Iran perspective).
 
 WORDCOUNT: ~2,500
 
@@ -32,7 +32,7 @@ CIV–SCHOLAR–PERSIA is the accumulative learning ledger of the Persia civiliz
 
 It is not a strategist. It is not a governor. It is not an interpreter. It has no innate cognition. It makes no assumptions. It records learning events, not conclusions.
 
-This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were frozen into doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly frozen. All cognition is historical and procedural, never intrinsic.
+This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were promoted to doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly accepted as doctrine. All cognition is historical and procedural, never intrinsic.
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA. No Scholar file may override MEM law, ARC law, or Template law.
 
@@ -52,7 +52,7 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § III; Phase I)
 
-In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when frozen. If Phase II is adopted, RLL–PERSIA–#### namespace and binding rules apply per Template § III.
+In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (syntheses accepted as doctrine) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when accepted as doctrine. If Phase II is adopted, RLL–PERSIA–#### namespace and binding rules apply per Template § III.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
@@ -129,7 +129,7 @@ XIV. SYNTHESIS TRADECRAFT
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § XIV)
 
-Frozen SYNTHESIS entries require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
+SYNTHESIS entries accepted as doctrine require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
 
 ────────────────────────────────────────────────────────────
 XV. INITIAL STATE
@@ -242,6 +242,26 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 
+ENTRY 0006
+Source:
+• LEARN session; Persia GEO cluster (MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT); forward traversal MEM–PERSIA–WAR–ROME, MEM–PERSIA–EMPIRE–KHOSROW–II; Barnes lens on liability
+Ingest Type:
+• Strategic-Historical Analysis — Mearsheimer (GEO cluster) → Forward (Sasanian) → Barnes (liability/irreversibility)
+Primary Belief Extracted:
+• Persia's geographic system forms four zones with distinct force ratios and incentives: (1) Caspian—containment, buffer, denial over projection; (2) Persian Gulf—asymmetric advantage, chokepoint, denial capability; (3) Indian Ocean—peripheral access, trade corridor, no dominion; (4) Levant—parity with Rome, reach without hold, conquest reversible. Sasanian instantiation: Khosrow II maximizes reach in Levant; Heraclius reverses; court (Kavadh II) defects; territories returned. Barnes: liability chain from Khosrow's decisions to collapse; defection (Kavadh, elites); irreversibility (fiscal/military exhaustion, Sasanian non-recovery, both empires exposed to Arab conquest within a decade). GEO logic and overextension/defection/irreversibility are consistent across MEMs.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0007
+Source:
+• STATE session (relay); pending US attack on Iran (news week of 7 Feb 2026); application of ENTRY 0006, SYNTHESIS 0003, 0005; MEM–PERSIA–GEO–PERSIAN–GULF
+Ingest Type:
+• Current-Event Application — GEO four-zone + overextension/liability to US–Iran escalation (STATE → Scholar relay)
+Primary Belief Extracted:
+• Scholar-Persia's GEO four-zone pattern (SYNTHESIS 0005, ENTRY 0006) and Khosrow/Kavadh liability pattern (SYNTHESIS 0003, 0005) were applied in STATE mode to reported US preparations for potentially weeks-long Iran operations (week of 7 Feb 2026: second carrier, Oman/Geneva talks, Iran enrichment posture). Structural reading: Gulf chokepoint favours Iranian denial; sustained US campaign faces closure-capacity deficit and exhaustion risk (reach without hold). From Iran's perspective: liability attaches to level of retaliation (Supreme Leader, IRGC); defection risk runs toward restraint or toward escalation; Khosrow precedent implies over-retaliation by Iran could trigger exhaustion and Kavadh-like defection, while calibrated denial aligns with Gulf MEM and preserves elite cohesion. Three-perspective assessment from Iran's perspective on Branch 1 (campaign ordered): legitimacy (resistance narrative vs over/under-response), power/structure (denial rational, escalation risky), liability (who owns retaliation choice and defection). Tensions preserved. No doctrine or forecast; application only.
+Belief Status:
+• UNFROZEN
+
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
 ────────────────────────────────────────────────────────────
@@ -292,11 +312,72 @@ Structural Record:
 
 Verdict: Structural transition; no synthesis with Mercouris/Barnes. Tension preserved.
 
+SYNTHESIS 0005 — PERSIA GEO FOUR-ZONE PATTERN + OVEREXTENSION LIABILITY
+Source: ENTRY 0006; MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT; MEM–PERSIA–WAR–ROME; MEM–PERSIA–EMPIRE–KHOSROW–II
+Status: ACCEPTED_AS_DOCTRINE → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02)
+Confidence: TIER 2 (70–90% — Strongly supported; cross-MEM pattern; Khosrow II confirming case)
+
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: Four GEO MEMs encode distinct structural incentives per zone
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | The four GEO MEMs (Caspian, Persian Gulf, Indian Ocean, Levant) accurately encode distinct structural incentives per zone; no single maritime hegemony applies across all. |
+| BASIS | MEM content and ENTRY 0006; Mearsheimer-voiced LEARN pass on four GEO MEMs. |
+| IF_WRONG | Zone differentiation would be overstated; single-hegemony or two-zone frame would replace four-zone. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: Levant is parity zone with reach-without-hold dynamic
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Levant zone is parity (not chokepoint); conquest does not imply consolidation; overextension invites reversal and exhaustion. |
+| BASIS | MEM–PERSIA–GEO–LEVANT; MEM–PERSIA–WAR–ROME; Khosrow II sequence (maximal reach → Heraclius → defection → return). |
+| IF_WRONG | Levant could be held with sufficient closure capacity; overextension would not predict reversal. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Khosrow II is confirming case for overextension liability
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Khosrow II's maximal Levant reach (Syria, Palestine, Jerusalem, Egypt), Heraclius counteroffensive, court defection (Kavadh II), and Sasanian non-recovery confirm the pattern. |
+| BASIS | MEM–PERSIA–EMPIRE–KHOSROW–II; ENTRY 0003, 0006. |
+| IF_WRONG | Khosrow's collapse would be explained by other factors (e.g. religion, logistics only); liability/defection layer would be secondary. |
+| LINCHPIN_STATUS | Medium |
+
+ASSUMPTION 4: Liability and irreversibility add explanatory layer
+
+| Field | Content |
+|-------|---------|
+| STATEMENT | Barnes-style liability (who on hook, who defected) and irreversibility (exhaustion, Arab conquest conditions) add explanatory layer to structural and legitimacy readings. |
+| BASIS | Three-perspective analysis in LEARN; Khosrow/Kavadh liability in ENTRY 0006, 0007. |
+| IF_WRONG | Pattern would hold with structure/legitimacy only; liability would be decorative. |
+| LINCHPIN_STATUS | Medium |
+
+ASSUMPTIONS SUMMARY
+
+| # | Assumption | Linchpin | Testable? |
+|---|------------|----------|-----------|
+| 1 | Four-zone distinct incentives | H | Yes (zone behaviour) |
+| 2 | Levant parity, reach without hold | H | Yes (historical cases) |
+| 3 | Khosrow II confirming case | M | Yes (narrative fit) |
+| 4 | Liability/irreversibility layer | M | Yes (comparative cases) |
+
+Content:
+• Four-zone pattern: Caspian (buffer/containment), Gulf (chokepoint advantage), Indian Ocean (periphery), Levant (parity). Each zone assigns different incentive; no single maritime hegemony.
+• Levant lesson: conquest does not imply consolidation; denial and punishment of overextension are equilibrium; exhaustion settles rounds.
+• Khosrow II: maximal Levant reach (Syria, Palestine, Jerusalem, Egypt); Heraclius counteroffensive; court defection (Kavadh II); territories returned; Sasanian state never recovers.
+• Liability/irreversibility: who was on the hook (Khosrow), who defected (Kavadh, elites), what was irreversible (exhaustion, Arab conquest conditions). Applicable to Rome as well (mutual collapse).
+• RLL candidate (non-binding Phase I): "In parity zones (e.g. Levant), Persian overextension invites reversal and court defection; exhaustion is more dangerous than defeat; liability and irreversibility attach to the overextending ruler and the defecting successor."
+
+Verdict: Pattern recorded; constraint-oriented; no closure. CCM applies. Accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01.
+
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
-(No doctrines frozen. Phase I accumulation.)
+SYNTHESIS 0005 → CIV–DOCTRINE–PERSIA DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY). Accepted via DIB–PERSIA 2026-02. Source: this file SYNTHESIS 0005; ENTRY 0006; MEMs GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT, WAR–ROME, EMPIRE–KHOSROW–II.
 
 ────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)
@@ -324,8 +405,8 @@ Permitted:
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Doctrine Count: 0
-Total Entries: 5
-Next Entry ID: 0006
+Total Entries: 7
+Next Entry ID: 0007
 Frozen Syntheses: 0
 Total Syntheses: 3
 SDI Entries: 0

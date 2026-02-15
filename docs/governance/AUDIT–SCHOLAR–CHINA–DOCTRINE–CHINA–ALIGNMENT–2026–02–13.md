@@ -15,7 +15,7 @@
 | Sole doctrine locus | CIV–SCHOLAR–CHINA § XVIII (Doctrine Registry) |
 | Internal contradictions (within SCHOLAR doctrines) | **NONE** |
 | Tensions (preserved, non-resolving) | **TWO** — documented below; both are sequencing/complementarity, not logical conflict |
-| Readiness for future CIV–DOCTRINE–CHINA | SCHOLAR is **source-ready**; three frozen doctrines available to mirror |
+| Readiness for future CIV–DOCTRINE–CHINA | SCHOLAR is **source-ready**; three doctrines (syntheses accepted as doctrine) available to mirror |
 
 **Verdict:** No contradictions between SCHOLAR–CHINA and DOCTRINE–CHINA because DOCTRINE–CHINA does not exist. SCHOLAR–CHINA’s three frozen doctrines are internally consistent. Two intentional tensions (peak/exhaustion vs reconstitution; conquest-as-connectivity vs non-Han peak-then-exhaustion) are sequencing/complementarity across time and domain; no governance violation. When CIV–DOCTRINE–CHINA is created, it must derive from this registry and mirror per CIV–MEM–CORE § XVII.
 
@@ -30,13 +30,13 @@
 
 **Current state:** CIV–DOCTRINE–CHINA is **not present** in the repository. CIV–INDEX–CHINA states: "CIV–DOCTRINE–CHINA: Not present."
 
-**Implication:** There is no second document to compare. All frozen doctrine for China lives in CIV–SCHOLAR–CHINA § XVIII (Doctrine Registry). Alignment audit therefore evaluates (1) internal consistency of SCHOLAR’s doctrine set, and (2) any tensions between those doctrines and other SCHOLAR content (syntheses, SDI, heuristics, candidate beliefs).
+**Implication:** There is no second document to compare. All accepted doctrine for China lives in CIV–SCHOLAR–CHINA § XVIII (Doctrine Registry). Alignment audit therefore evaluates (1) internal consistency of SCHOLAR’s doctrine set, and (2) any tensions between those doctrines and other SCHOLAR content (syntheses, SDI, heuristics, candidate beliefs).
 
 ---
 
 ## III. SCHOLAR–CHINA DOCTRINE REGISTRY (SOURCE OF TRUTH)
 
-Three doctrines are frozen in CIV–SCHOLAR–CHINA:
+Three doctrines are accepted in CIV–SCHOLAR–CHINA:
 
 | ID | Label | Source synthesis | One-line content |
 |----|--------|------------------|------------------|
@@ -85,7 +85,7 @@ v0.3 says conquest can create connectivity and institutional legacies; v0.1 says
 | CANDIDATE BELIEF 0002 | Derived from SYNTHESIS 0010 (doctrine v0.3). Conquest/connectivity/legacies. | No |
 | SDI 0001, 0002, 0004 | Reference legitimacy shift, defeat, rupture, reconstitution, non-Han peak/exhaustion. Align with v0.1, v0.2. | No |
 | SDI 0003 | China: Mongol conquest, Yuan/Qing consolidation, conquest-as-connectivity. Aligns with v0.1, v0.3. | No |
-| Unfrozen syntheses (0001–0003, 0005–0009) | Build toward or sit alongside the frozen three; no statement contradicts v0.1–v0.3. | No |
+| Syntheses not yet accepted as doctrine (0001–0003, 0005–0009) | Build toward or sit alongside the three accepted as doctrine; no statement contradicts v0.1–v0.3. | No |
 
 No internal contradictions between the Doctrine Registry and other SCHOLAR content.
 
@@ -101,10 +101,10 @@ CIV–CORE–CHINA does **not** reference CIV–DOCTRINE–CHINA or list mirrore
 
 ## VIII. RECOMMENDATIONS
 
-1. **No change required for alignment.** With DOCTRINE–CHINA absent, SCHOLAR–CHINA is the single source of frozen doctrine; it is consistent and tension-documented.
+1. **No change required for alignment.** With DOCTRINE–CHINA absent, SCHOLAR–CHINA is the single source of accepted doctrine; it is consistent and tension-documented.
 2. **If creating CIV–DOCTRINE–CHINA:**  
    - Populate it only with doctrines derived from SCHOLAR–CHINA § XVIII (v0.1, v0.2, v0.3).  
-   - Do not add doctrines that do not derive from a frozen synthesis in SCHOLAR.  
+   - Do not add doctrines that do not derive from a synthesis accepted as doctrine in SCHOLAR.  
    - After creation, mirror CIV–DOCTRINE–CHINA verbatim into CIV–CORE–CHINA and CIV–SCHOLAR–CHINA per § XVII; add a mirroring/mirrored-doctrine section to CORE if the template does not already provide one.
 3. **Optional:** In CIV–INDEX–CHINA or CIV–SCHOLAR–CHINA § II, keep the note that CIV–DOCTRINE–CHINA is not present and that the Doctrine Registry in SCHOLAR is the current authority for China doctrines.
 

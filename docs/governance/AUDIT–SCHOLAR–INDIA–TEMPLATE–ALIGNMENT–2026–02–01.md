@@ -125,11 +125,11 @@
 | RLL namespace | RLL–[CIV]–#### | RLL–INDIA–0001, RLL–INDIA–0002 | ✓ |
 | RLL scope / type / trigger / files | Required | Present in XVIII.A | ✓ |
 | Cognitive attribution | SHOULD declare (Mercouris/Mearsheimer/Barnes/Cross-frame) | **Cross-frame derivation** in both RLLs | ✓ |
-| Assumptions Box (frozen SYNTHESIS) | MANDATORY at freeze | § XIV states requirement; no frozen syntheses yet | ✓ |
+| Assumptions Box (SYNTHESIS accepted as doctrine) | MANDATORY at acceptance | § XIV states requirement; no syntheses yet accepted as doctrine | ✓ |
 | Confidence tier | In status block for SYNTHESIS | "Confidence: UNBINDING (Phase I)" per synthesis | ✓ |
-| ACH Record | When alternatives evaluated | Not yet required (no frozen synthesis with alternatives) | ✓ |
+| ACH Record | When alternatives evaluated | Not yet required (no synthesis accepted as doctrine with alternatives) | ✓ |
 
-**Verdict:** RLL format and synthesis tradecraft aligned; Phase I unfrozen state is correct.
+**Verdict:** RLL format and synthesis tradecraft aligned; Phase I evolving state (no syntheses yet accepted as doctrine) is correct.
 
 ---
 

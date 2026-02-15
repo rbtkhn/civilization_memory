@@ -75,7 +75,7 @@
 
 ### 3.4 Doctrine registry (Section XVIII)
 
-- Text says "No America-specific doctrines frozen. Inherited context: CIV–DOCTRINE–ANGLIA (Procedure as Memory…)." **Gap:** CIV–DOCTRINE–AMERICA now holds the authoritative American doctrine set (01–07). **Recommendation:** Replace or extend with: "Authoritative American doctrine: CIV–DOCTRINE–AMERICA (doctrines 01–07, derived from CIV–DOCTRINE–ANGLIA). No additional America-specific doctrines frozen beyond the derived set."
+- Text says "No America-specific doctrines accepted. Inherited context: CIV–DOCTRINE–ANGLIA (Procedure as Memory…)." **Gap:** CIV–DOCTRINE–AMERICA now holds the authoritative American doctrine set (01–07). **Recommendation:** Replace or extend with: "Authoritative American doctrine: CIV–DOCTRINE–AMERICA (doctrines 01–07, derived from CIV–DOCTRINE–ANGLIA). No additional America-specific doctrines accepted beyond the derived set."
 
 ### 3.5 Belief synthesis log (Section XVII)
 
@@ -120,7 +120,7 @@
 | CIV–SCHOLAR–AMERICA | § XIII | Add CIV–DOCTRINE–AMERICA to doctrine/context loading and on-demand list. |
 | CIV–SCHOLAR–AMERICA | § XV | Add "American formulation: CIV–DOCTRINE–AMERICA (derived from ANGLIA)." |
 | CIV–SCHOLAR–AMERICA | § XVII | Optionally add "American formulation: CIV–DOCTRINE–AMERICA." |
-| CIV–SCHOLAR–AMERICA | § XVIII | Replace "No America-specific doctrines frozen" with authoritative reference to CIV–DOCTRINE–AMERICA (doctrines 01–07). |
+| CIV–SCHOLAR–AMERICA | § XVIII | Replace "No America-specific doctrines accepted" with authoritative reference to CIV–DOCTRINE–AMERICA (doctrines 01–07). |
 | CIV–SCHOLAR–AMERICA | § XXIII | Update versioning note to state doctrines 01–07 in CIV–DOCTRINE–AMERICA. |
 | CIV–SCHOLAR–AMERICA | § XVIII (optional) | If verbatim mirror is required, add subsection with doctrine names and definitions from DOCTRINE–AMERICA. |
 

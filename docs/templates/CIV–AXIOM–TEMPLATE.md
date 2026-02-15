@@ -32,7 +32,7 @@ A CIV–AXIOM file is NOT:
 • A predictive or analytical system
 • An originator of axioms (it extracts or records only)
 
-Axioms are interpretive anchors and precedence rules (e.g. "X precedes Y"; "Civilization does Z"). Doctrines are pattern-constraints with definitions, operational meaning, and hard constraints (see CIV–DOCTRINE–TEMPLATE). Scholar synthesis may be promoted to **axiom** or **doctrine** per DIB; axioms belong in CIV–AXIOM, doctrines in CIV–DOCTRINE.
+Axioms are interpretive anchors and precedence rules (e.g. "X precedes Y"; "Civilization does Z"). They are typically more permanent, general, and spiritual/philosophical/psychological. An axiom labeled "HARD CONSTRAINT" in CORE is a non-negotiable frame, not a checkable operational trigger. Doctrines are pattern-constraints with definitions, operational meaning, and checkable Hard Constraints (see CIV–DOCTRINE–TEMPLATE). Scholar synthesis may be promoted to **axiom** or **doctrine** per DIB; axioms belong in CIV–AXIOM, doctrines in CIV–DOCTRINE. For conflict precedence and when to cite which in STATE, see CIV–STATE–TEMPLATE § I (Axiom vs Doctrine).
 
 ────────────────────────────────────────────────────────────
 II. AUTHORITY CHAIN (MANDATORY)

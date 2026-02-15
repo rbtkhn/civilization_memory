@@ -15,7 +15,7 @@ Word Count: ~1,400
 Supersedes: (Initial creation)
 
 **DERIVATION CLAUSE (BINDING):**
-This doctrine registry is **derived exclusively from CIV–SCHOLAR–CHINA**. All doctrines originate from FROZEN SYNTHESIS entries in that file and were accepted via DIB–CHINA (explicit user authorization to create this file and to treat the three frozen syntheses as doctrine). No doctrine originates in this file. Doctrines 01–03 correspond to SCHOLAR–CHINA Doctrine Registry v0.1, v0.2, v0.3 (SYNTHESIS 0004, 0007, 0010). Subsequent doctrines must follow the standard admissibility chain: FROZEN SYNTHESIS in CIV–SCHOLAR–CHINA → DIB–CHINA → CIV–DOCTRINE–CHINA.
+This doctrine registry is **derived exclusively from CIV–SCHOLAR–CHINA**. All doctrines originate from syntheses in that file that were accepted as doctrine via DIB–CHINA (explicit user authorization to create this file and to treat the three syntheses as doctrine). No doctrine originates in this file. Doctrines 01–03 correspond to SCHOLAR–CHINA Doctrine Registry v0.1, v0.2, v0.3 (SYNTHESIS 0004, 0007, 0010). Subsequent doctrines must follow the standard admissibility chain: synthesis in CIV–SCHOLAR–CHINA accepted as doctrine → DIB–CHINA → CIV–DOCTRINE–CHINA.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -31,10 +31,10 @@ This file does NOT learn, does NOT synthesize, does NOT evolve autonomously.
 
 Authority Flow:
 CIV–MEM–CORE → CIV–CORE–CHINA → DIB–CHINA → CIV–DOCTRINE–CHINA
-Source of doctrine content: CIV–SCHOLAR–CHINA (frozen syntheses only).
+Source of doctrine content: CIV–SCHOLAR–CHINA (syntheses accepted as doctrine only).
 
 Doctrine Admissibility Rules (per CIV–DOCTRINE–TEMPLATE § III):
-A doctrine MAY be entered here ONLY if: (1) it originates from a FROZEN SYNTHESIS in CIV–SCHOLAR–CHINA; (2) it was explicitly accepted by DIB–CHINA; (3) a doctrine number/version is assigned. Prohibited: draft doctrines, candidate beliefs, analytical hypotheses, scholar commentary, historical narration.
+A doctrine MAY be entered here ONLY if: (1) it originates from a synthesis in CIV–SCHOLAR–CHINA that was accepted as doctrine; (2) it was explicitly accepted by DIB–CHINA; (3) a doctrine number/version is assigned. Prohibited: draft doctrines, candidate beliefs, analytical hypotheses, scholar commentary, historical narration.
 
 Only doctrines listed here may be cited as **authoritative doctrine** by CIV–CORE engines.
 
@@ -128,7 +128,7 @@ Hard Constraints:
 ────────────────────────────────────────────────────────────
 IV. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
-No doctrines have been rejected at this stage. All doctrines in this registry were accepted from CIV–SCHOLAR–CHINA frozen syntheses via DIB–CHINA. Candidate beliefs, staged beliefs, and unfrozen syntheses in SCHOLAR–CHINA are not doctrine and are excluded from this file.
+No doctrines have been rejected at this stage. All doctrines in this registry were accepted from CIV–SCHOLAR–CHINA syntheses via DIB–CHINA. Candidate beliefs, staged beliefs, and syntheses not yet accepted as doctrine in SCHOLAR–CHINA are not doctrine and are excluded from this file.
 
 ────────────────────────────────────────────────────────────
 V. MIRRORING

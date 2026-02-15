@@ -20,7 +20,7 @@ integration, doctrine mirror, template alignment). India: align Scholar, MEM
 corpus, ARC, and governance touchpoints to that benchmark; continue in a new
 conversation with this as the session priority.
 
-UPDATE (2026-02-14): India Phase II activated; CIV–DOCTRINE–INDIA v1.0 created (doctrines 01–04); RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 frozen. Doctrine mirror and Scholar Phase II complete per CHECKLIST–INDIA–PHASE–II–READINESS–2026. CIV–STATE–INDIA v1.0 created (derived from SCHOLAR–INDIA, CORE, DOCTRINE, MEM–RELEVANCE). Remaining benchmark work: MEM corpus path-dependence/ARC depth, template alignment audit.
+UPDATE (2026-02-14): India Phase II activated; CIV–DOCTRINE–INDIA v1.0 created (doctrines 01–04); RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 accepted as doctrine. Doctrine mirror and Scholar Phase II complete per CHECKLIST–INDIA–PHASE–II–READINESS–2026. CIV–STATE–INDIA v1.0 created (derived from SCHOLAR–INDIA, CORE, DOCTRINE, MEM–RELEVANCE). Remaining benchmark work: MEM corpus path-dependence/ARC depth, template alignment audit.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (CMC 3.3) — INTEGRATION PROGRAM ACTIVATION

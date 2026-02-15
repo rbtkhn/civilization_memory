@@ -92,7 +92,7 @@ China § IX: Mercouris prose (LEARN/WRITE academic; IMAGINE spoken per III.L); s
 ## V. PHASE I–SPECIFIC NOTES
 
 - Phase I exemption: § IV (Failure-First), § VI (Anomaly Flag full implementation) correctly marked Phase II; Phase I exempt. **PASS.**
-- RLL/Doctrine: § III correctly states RLLs not binding in Phase I; Doctrine Registry as Phase I equivalent; frozen syntheses carry Assumptions Box and Confidence per § XIV. **PASS.**
+- RLL/Doctrine: § III correctly states RLLs not binding in Phase I; Doctrine Registry as Phase I equivalent; syntheses accepted as doctrine carry Assumptions Box and Confidence per § XIV. **PASS.**
 - Candidate RLLs (§ XVIII.A): RLL–CHINA–0001, RLL–CHINA–0002 marked PROPOSED, NOT BINDING. **PASS.**
 
 ---

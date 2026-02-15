@@ -35,7 +35,7 @@ CIV–SCHOLAR–ISLAM is the accumulative learning ledger of the Islam civilizat
 
 It is not a strategist. It is not a governor. It is not an interpreter. It has no innate cognition. It makes no assumptions. It records learning events, not conclusions.
 
-This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were frozen into doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly frozen. All cognition is historical and procedural, never intrinsic.
+This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were promoted to doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly accepted as doctrine. All cognition is historical and procedural, never intrinsic.
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–ISLAM. No Scholar file may override MEM law, ARC law, or Template law.
 
@@ -55,7 +55,7 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase I)
 
-In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when frozen. If Phase II is adopted, RLL–ISLAM–#### namespace and binding rules apply per Template § III.
+In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (syntheses accepted as doctrine) as the Phase I equivalent of recorded constraint objects. Doctrine entries will carry Assumptions Boxes and Confidence tier per Template § XIV when accepted as doctrine. If Phase II is adopted, RLL–ISLAM–#### namespace and binding rules apply per Template § III.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
@@ -516,7 +516,7 @@ Cross-reference: SYNTHESIS 0002 (Constantinople encoding); SYNTHESIS 0004 (Ottom
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
-(No doctrines frozen. Phase I accumulation.)
+(No syntheses yet accepted as doctrine. Phase I accumulation.)
 
 ────────────────────────────────────────────────────────────
 XVIII.A. CANDIDATE RLL PROPOSALS (PHASE I — NON-BINDING)

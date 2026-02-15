@@ -34,7 +34,7 @@ CIV–SCHOLAR–ANGLIA is the accumulative learning ledger of the Anglia civiliz
 
 It is not a strategist. It is not a governor. It is not an interpreter. It has no innate cognition. It makes no assumptions. It records learning events, not conclusions.
 
-This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were frozen into doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly frozen. All cognition is historical and procedural, never intrinsic.
+This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were promoted to doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. No doctrine exists here unless explicitly accepted as doctrine. All cognition is historical and procedural, never intrinsic.
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–ANGLIA. No Scholar file may override MEM law, ARC law, or Template law.
 
@@ -52,7 +52,7 @@ III. RLL AUTHORITY / DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § III; Phase I)
 
-In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (frozen synthesis outcomes) as the Phase I equivalent of recorded constraint objects. Doctrine entries (v0.1–v0.5) are frozen syntheses with Assumptions Boxes and Confidence tier per Template § XIV. If Phase II is adopted, RLL–ANGLIA–#### namespace and binding rules apply per Template § III.
+In Phase I, RLLs are not binding. This file uses a **Doctrine Registry** (syntheses accepted as doctrine) as the Phase I equivalent of recorded constraint objects. Doctrine entries (v0.1–v0.5) are syntheses accepted as doctrine with Assumptions Boxes and Confidence tier per Template § XIV. If Phase II is adopted, RLL–ANGLIA–#### namespace and binding rules apply per Template § III.
 
 ────────────────────────────────────────────────────────────
 IV. FAILURE-FIRST STANDARD (PHASE II; PHASE I EXEMPT)
@@ -129,7 +129,7 @@ XIV. SYNTHESIS TRADECRAFT
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XIV)
 
-Frozen SYNTHESIS entries require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. This file’s frozen syntheses (0002, 0003, 0010, 0013) comply. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
+SYNTHESIS entries accepted as doctrine require Assumptions Box (≥3 assumptions, linchpin status), Confidence tier in status block, and (when alternatives evaluated) ACH Record. This file’s syntheses accepted as doctrine (0002, 0003, 0010, 0013) comply. Post-ACH revision protocol applies when linchpin assumption or ACH verdict changes.
 
 ────────────────────────────────────────────────────────────
 XV. INITIAL STATE
@@ -508,12 +508,12 @@ XXVII. VERSIONING & CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This file is CANONICAL.
 
-v2.0 (2026-01-31): Template compliance; sections I–XIV added per CIV–SCHOLAR–TEMPLATE v2.10; ledger renumbered XV–XXXIV. Prior: Assumptions Boxes and Confidence tier on frozen syntheses; OGE embedded. See AUDIT–SCHOLAR–ANGLIA–TEMPLATE–PROTOCOL–2026–01–31.md.
+v2.0 (2026-01-31): Template compliance; sections I–XIV added per CIV–SCHOLAR–TEMPLATE v2.10; ledger renumbered XV–XXXIV. Prior: Assumptions Boxes and Confidence tier on syntheses accepted as doctrine; OGE embedded. See AUDIT–SCHOLAR–ANGLIA–TEMPLATE–PROTOCOL–2026–01–31.md.
 
 Future versions may:
 • Add entries
 • Add syntheses
-• Freeze doctrines
+• Accept doctrines (add to doctrine registry)
 
 Future versions may NOT:
 • Remove content

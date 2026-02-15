@@ -398,13 +398,13 @@ SCHOLAR integration with CIV–CORE–RUSSIA is governed by:
 
 DOCTRINE INTAKE BUFFER (DIB):
 • Status: Defined · Inactive · No data flow
-• Accepts frozen SCHOLAR doctrine only
+• Accepts SCHOLAR doctrine only (syntheses accepted as doctrine)
 • Decision states: ACCEPT / HOLD / REJECT
 
 SCHOLAR REFERENCE INDEX:
 • SCHOLAR is advisory only
 • Conflicts auto-resolve in favor of CORE
-• No SCHOLAR belief is binding unless explicitly frozen and DIB-accepted
+• No SCHOLAR belief is binding unless explicitly accepted as doctrine and DIB-accepted
 
 AUTHORITY SEPARATION:
 • SCHOLAR has ZERO authority inside CIV–CORE

@@ -110,7 +110,7 @@ Legitimacy / Mandate Stability • Fiscal / Industrial Pressure • Internal Ord
 **Objective:** Populate a minimal **Decision-Relevant History** (Section VII) for STATE–CHINA using patterns already in CIV–SCHOLAR–CHINA (syntheses, doctrines, SDI).
 
 **Steps:**
-1. From CIV–SCHOLAR–CHINA, list: the 3 doctrines (01–03), the 4 SDI entries (China–Anglia, China–Persia), and 2–3 unfrozen syntheses that are decision-relevant (e.g. humiliation narrative, rupture-reconstitution, conquest-connectivity).
+1. From CIV–SCHOLAR–CHINA, list: the 3 doctrines (01–03), the 4 SDI entries (China–Anglia, China–Persia), and 2–3 syntheses not yet accepted as doctrine that are decision-relevant (e.g. humiliation narrative, rupture-reconstitution, conquest-connectivity).
 2. For each, write one **pattern** in Section VII format: label, one-sentence summary, MEM/precedent reference, activation level (ACTIVE / STALE / WEAKENED), and “Relevance: [when this pattern applies to current decision].”
 3. Ensure at least one pattern is **failure** or **reversal** (e.g. peak then exhaustion; defeat fixing humiliation narrative) so that positive and negative precedents are both present.
 

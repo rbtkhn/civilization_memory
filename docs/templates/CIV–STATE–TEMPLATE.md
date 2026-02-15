@@ -305,6 +305,29 @@ No content in STATE may contradict canonical CIV–CORE axioms or
 accepted doctrines. STATE translates analytical depth into
 decision-relevant form; it does not generate new analysis independently.
 
+AXIOM VS DOCTRINE (DIFFERENTIATION):
+Axioms are more permanent, general, and spiritual/philosophical/psychological;
+doctrines are more specific, operational, and strategic — learned/evolved from
+history and adjustable to new eras and technologies. In STATE:
+
+• **Conflict precedence:** If a doctrine's operational meaning or Hard Constraint
+  clashes with an axiom, the axiom takes precedence. Surface the tension for
+  human resolution; do not silently resolve in favor of the doctrine.
+
+• **Hard constraint — operational vs frame:** Doctrine Hard Constraints are
+  operational failure conditions (checkable in Doctrine Validity Check and
+  Pattern Audit). Axiom "hard constraint" (e.g. in CORE Section I) is a
+  non-negotiable frame — options that violate it are out of frame; it is not
+  a checkable trigger. So: doctrine Hard Constraint = "if this condition
+  holds, doctrine review required"; axiom hard constraint = "this principle
+  is non-negotiable."
+
+• **When to cite which:** Cite axioms when framing options and ruling out
+  axiom-violating paths. Cite doctrines when assessing pattern validity and
+  when running Hard Constraint checks (Sync Step 4b, Pattern Audit, Assumption
+  Stress Test). STATE must not contradict axioms; STATE checks doctrine Hard
+  Constraints against evidence.
+
 THREE-SOURCE COMPOSITIONAL PRINCIPLE:
 STATE analytical output synthesises three source layers, each
 contributing what it is best at:
@@ -1871,7 +1894,7 @@ PROCEDURE:
      ("Deepen doctrine [name] — Hard Constraint may be failing")
    • If FALSIFIED: escalate — "Doctrine [name] Hard Constraint
      '[condition]' is actively triggered; doctrine review required"
-   • Doctrines are frozen syntheses. They do not change silently.
+   • Doctrines are permanent (accepted from syntheses). They do not change except when the user explicitly modifies them.
      Any change in doctrine status requires explicit user approval
      and a version bump in CIV–DOCTRINE.
 

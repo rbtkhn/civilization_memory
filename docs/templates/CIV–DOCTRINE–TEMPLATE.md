@@ -44,7 +44,7 @@ This template defines the **exclusive structure, authority model,
 and governance constraints** for all CIV–DOCTRINE files.
 
 A CIV–DOCTRINE file is:
-• A registry of **accepted, frozen doctrines only**
+• A registry of **accepted doctrines only** (permanent except when explicitly modified by the user)
 • A downstream extraction artifact
 • A citation surface for CIV–CORE engines
 
@@ -55,7 +55,7 @@ A CIV–DOCTRINE file is NOT:
 • A scholar file
 • A predictive or analytical system
 
-Doctrines exist here **only after explicit freezing** elsewhere.
+Doctrines exist here **only after explicit acceptance by DIB** (synthesis promoted to doctrine).
 
 ────────────────────────────────────────────────────────────
 II. AUTHORITY CHAIN (MANDATORY)
@@ -70,9 +70,9 @@ CIV–MEM–CORE
 
 DIB CLARIFICATION (v2.1):
 The Doctrine Intake Board (DIB) is a governance checkpoint, not a
-separate file. DIB approval = explicit user authorization to freeze
+separate file. DIB approval = explicit user authorization to accept
 a SCHOLAR synthesis as doctrine. The DIB function is exercised by
-any explicit user command to freeze and accept a doctrine candidate.
+any explicit user command to accept a doctrine candidate.
 
 Rules:
 • No doctrine may bypass this chain
@@ -84,10 +84,11 @@ III. DOCTRINE ADMISSIBILITY RULES
 ────────────────────────────────────────────────────────────
 A doctrine MAY be entered into a CIV–DOCTRINE file ONLY if:
 
-1. It originates from a **FROZEN SYNTHESIS** in CIV–SCHOLAR–[CIV]
-2. The synthesis was explicitly frozen by command
-3. The doctrine was explicitly accepted by DIB–[CIV]
-4. A new doctrine version number is assigned
+1. It originates from a **synthesis in CIV–SCHOLAR–[CIV] that was accepted as doctrine**
+2. The synthesis was explicitly accepted by DIB–[CIV]
+3. A new doctrine version number is assigned
+
+(Synthesis is by definition evolving; doctrine is permanent except when the user explicitly modifies it.)
 
 Prohibited:
 • Draft doctrines
@@ -134,6 +135,8 @@ Hard Constraints:
 • [Explicit failure condition]
 • [Non-negotiable limit]
 • [Invalidation trigger]
+
+Doctrine Hard Constraints are operational and checkable (Doctrine Validity Check, Pattern Audit); they are not interpretive frame like axiom "hard constraint" in CORE (see CIV–STATE–TEMPLATE § I Axiom vs Doctrine).
 
 Rules:
 • No narrative prose

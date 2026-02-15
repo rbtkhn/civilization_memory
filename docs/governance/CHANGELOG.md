@@ -4,8 +4,24 @@ Consolidated Version History
 
 Status: ACTIVE · CANONICAL
 Governed by: CMC 3.3
-Last Updated: 2026-02-14
+Last Updated: 2026-02-15
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00016. DEPRECATE "FROZEN" / "UNFROZEN" TERMINOLOGY (15 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-15
+Type: GOVERNANCE (terminology deprecation)
+
+CHANGES:
+• **Terminology:** "Frozen" and "unfrozen" removed from system language. Synthesis is by definition evolving; axiom and doctrine are permanent except when the user explicitly modifies them.
+• **Replacements:** "Frozen synthesis" → "synthesis accepted as doctrine"; "unfrozen synthesis" → "synthesis" (or "synthesis not yet accepted as doctrine"); "freeze" (verb) → "accept as doctrine"; doctrine/axiom described as "permanent" not "frozen."
+• **Status value:** SYNTHESIS status "FROZEN" → "ACCEPTED_AS_DOCTRINE"; "RE-FREEZE" → "RE-ACCEPT."
+• **Files updated:** CIV–DOCTRINE–TEMPLATE, CIV–STATE–TEMPLATE, CIV–SCHOLAR–TEMPLATE, CIV–SCHOLAR–PROTOCOL, CIV–MEM–CORE, TERMINOLOGY–REGISTRY (deprecation note + CIV–DOCTRINE row), CHANGELOG, CMC–BOOTSTRAP; CIV–DOCTRINE–PERSIA, CIV–STATE–PERSIA, CIV–SCHOLAR–PERSIA; CIV–CORE–INDIA, CIV–SCHOLAR–INDIA; CIV–SCHOLAR–CHINA, CIV–DOCTRINE–CHINA; CIV–SCHOLAR–AMERICA, CIV–DOCTRINE–AMERICA, STATE–AMERICA–... audit; CIV–SCHOLAR–RUSSIA, CIV–CORE–RUSSIA; CIV–SCHOLAR–ANGLIA, CIV–DOCTRINE–ANGLIA; CIV–SCHOLAR–ISLAM; CIV–SCHOLAR–ROME, CIV–DOCTRINE–ROME, CIV–CORE–ROME.
+• **Out of scope:** MEM narrative and domain terms (e.g. "frozen conflict," "frozen ground") unchanged.
+
+RATIONALE:
+User request: synthesis is by definition evolving; axiom and doctrine are permanent except when explicitly modified. "Frozen"/"unfrozen" implied the wrong mental model.
 
 ────────────────────────────────────────────────────────────
 00015. INDIA PHASE II ACTIVATION & CIV–DOCTRINE–INDIA CREATION (14 FEB 2026)
@@ -14,7 +30,7 @@ Date: 2026-02-14
 Type: GOVERNANCE + CONTENT (India Phase II; doctrine mirror)
 
 CHANGES:
-• CIV–SCHOLAR–INDIA: Phase I → Phase II (Constraint Grammar). SYNTHESIS 0001, 0002, 0003, 0004 FROZEN and promoted to doctrine. RLL–INDIA–0001 and RLL–INDIA–0002 BOUND via DIB–INDIA 2026-02-14. Doctrine Registry § XVIII updated with mirror to CIV–DOCTRINE–INDIA. Failure-first standard and Anomaly Flag Protocol active. Counts: 4 frozen syntheses, 2 bound RLLs.
+• CIV–SCHOLAR–INDIA: Phase I → Phase II (Constraint Grammar). SYNTHESIS 0001, 0002, 0003, 0004 accepted as doctrine and promoted. RLL–INDIA–0001 and RLL–INDIA–0002 BOUND via DIB–INDIA 2026-02-14. Doctrine Registry § XVIII updated with mirror to CIV–DOCTRINE–INDIA. Failure-first standard and Anomaly Flag Protocol active. Counts: 4 syntheses accepted as doctrine, 2 bound RLLs.
 • CIV–DOCTRINE–INDIA v1.0 created (content/civilizations/INDIA/). Doctrines 01–04: Ganges Survivability — Origin vs Permanence; Two Modes of WAR Limit; Three Defection Types; Nehru Idealism — Alternative Encodings. Derived from CIV–SCHOLAR–INDIA SYNTHESIS 0001–0004 via DIB–INDIA.
 • CIV–CORE–INDIA: Doctrine Reference added (CIV–DOCTRINE–INDIA v1.0, doctrines 01–04); Scholar Reference updated to Phase II and bound RLLs.
 • CIV–INDEX–INDIA: I-A CANONICAL GOVERNANCE FILES added; CIV–DOCTRINE–INDIA v1.0 registered; Referenced by line updated.

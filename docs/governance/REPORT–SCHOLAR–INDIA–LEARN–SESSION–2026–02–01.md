@@ -70,7 +70,7 @@ This session extended CIV–SCHOLAR–INDIA with (1) a Mearsheimer structural le
 
 - **Mode:** LEARN (analytical turns, ingestion, synthesis, reframes) with WRITE (this report only). No MEM files created or modified this session; no CIV–CORE or ARC changes.
 - **OGE:** Applied per turn; POST-BARNES not triggered (Barnes reframe added as content, not as catalyst sequence).
-- **Tension:** Preserved throughout. Three defection types extend the pattern; RLL–INDIA–0002 two-mode core unchanged; no doctrine frozen.
+- **Tension:** Preserved throughout. Three defection types extend the pattern; RLL–INDIA–0002 two-mode core unchanged; no doctrine accepted.
 
 ---
 

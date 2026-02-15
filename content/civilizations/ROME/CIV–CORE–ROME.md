@@ -228,7 +228,7 @@ Define the boundary between CIV–CORE authority and SCHOLAR cognition.
 Rules:
 • SCHOLAR has ZERO interpretive authority inside CIV–CORE.
 • SCHOLAR beliefs, syntheses, or doctrines are NON-BINDING unless:
-–Explicitly frozen in SCHOLAR
+–Explicitly accepted as doctrine in SCHOLAR
 –Explicitly accepted via a Doctrine Intake Buffer (DIB)
 • Silent bleed-through is forbidden.
 • CIV–CORE constraints override SCHOLAR output at all times.

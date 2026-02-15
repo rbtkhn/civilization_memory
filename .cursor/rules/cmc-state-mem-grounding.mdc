@@ -31,7 +31,7 @@ STATE is downstream of CIV–CORE; output must not contradict CORE axioms (CIV�
 STATE is downstream of CIV–SCHOLAR; historical patterns, RLLs, and syntheses in SCHOLAR inform STATE's analytical framework (CIV–STATE–TEMPLATE §XII). When in **STATE mode** for entity [CIV], **read CIV–SCHOLAR–[CIV]** (if present in that civilization's folder) at session start or when first needed. Use it for:
 - RLLs and syntheses relevant to material options, binding constraints, and Decision-Relevant History
 - Precedent and pattern language when grounding options or Section VII content
-- Consistency with SCHOLAR-encoded constraints (no STATE output that contradicts frozen syntheses or bound RLLs)
+- Consistency with SCHOLAR-encoded constraints (no STATE output that contradicts syntheses accepted as doctrine or bound RLLs)
 
 This is **one-way**: STATE reads SCHOLAR; STATE does not write back to SCHOLAR. If no CIV–SCHOLAR file exists for the entity, proceed without it; note the absence only if relevant. On entity switch, load the new entity's SCHOLAR file (with CORE and STATE file); previous entity's SCHOLAR does not govern.
 

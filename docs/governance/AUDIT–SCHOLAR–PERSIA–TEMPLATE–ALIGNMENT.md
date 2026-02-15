@@ -111,7 +111,7 @@ Per CIV–SCHOLAR–TEMPLATE v2.10, Phase I minimal structure:
 | XI. OGE — Embedded Specification | XI, XI.A | ✓ **MANDATORY** — 8 options (A–H); M+B; POST-BARNES M/M response |
 | XII. Versioning | XII | ✓ |
 | XIII. Context Loading | XIII | ✓ (optional Phase I; note) |
-| XIV. Synthesis Tradecraft | XIV | ✓ (Assumptions Box, Confidence tier on frozen syntheses; ACH when alternatives evaluated) |
+| XIV. Synthesis Tradecraft | XIV | ✓ (Assumptions Box, Confidence tier on syntheses accepted as doctrine; ACH when alternatives evaluated) |
 
 Ledger content (entries, syntheses, RLL proposals) follows section XV onward.
 

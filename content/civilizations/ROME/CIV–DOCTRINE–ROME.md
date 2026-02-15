@@ -34,7 +34,7 @@ This file is the **exclusive registry of accepted Roman
 civilizational doctrines**.
 
 It contains:
-• Doctrines explicitly frozen via CIV–SCHOLAR–ROME and accepted
+• Doctrines explicitly accepted via CIV–SCHOLAR–ROME and DIB
   through DIB–ROME
 • Definitions suitable for direct CIV–CORE citation
 • No learning chronology
@@ -371,7 +371,7 @@ Plato became metaphysical capital, not political code.
 III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
 The following are NOT included in this registry:
-• Unfrozen or experimental SCHOLAR outputs
+• Syntheses not yet accepted as doctrine or experimental SCHOLAR outputs
 • Analytical commentary or case discussion
 • Pending RLLs (RLL–ROME–0001, 0003, 0004, 0005)
 • Builder-Burner Sequence (case-specific, not yet generalized)

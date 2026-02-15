@@ -329,11 +329,11 @@ This file preserves:
 • When it was ingested
 • What beliefs were extracted
 • How beliefs were synthesized
-• Which beliefs were frozen into doctrine
+• Which beliefs were promoted to doctrine
 
 No belief exists here unless explicitly derived.
 No synthesis exists unless explicitly recorded.
-No doctrine exists unless explicitly frozen.
+No doctrine exists unless explicitly accepted as doctrine.
 
 All cognition is historical and procedural, never intrinsic.
 

@@ -1,18 +1,18 @@
-CIV–INDEX–PERSIA — v3.0
+CIV–INDEX–PERSIA — v3.3
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: CIV–INDEX–PERSIA v1.2
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.3
+Supersedes: CIV–INDEX–PERSIA v3.2
+Upgrade Type: ADDITIVE · MEM–PERSIA–GEO–IRANIAN–PLATEAU added
 Civilization: PERSIA
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Template: CIV–INDEX–TEMPLATE v3.0
 Last Update: February 2026
 
-MEM COUNT: 34 MEM–PERSIA files (reconciled 2026-02)
+MEM COUNT: 39 MEM–PERSIA files (reconciled 2026-02)
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
@@ -41,6 +41,9 @@ II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 III. DYNASTIC MEMORY FILES
 ────────────────────────────────────────────────────────────
+• MEM–PERSIA–EMPIRE.md  
+  (Empire as recurring institutional form; sacral kingship; parity and reconstitution; Achaemenid–Sasanian sequence)
+
 • MEM–PERSIA–DYNASTY–ACHAEMENID.md  
   (Imperial universalism, tolerance, administrative depth)
 
@@ -71,12 +74,24 @@ V. RELIGIOUS & REGIME TRANSFORMATION FILES
 • MEM–PERSIA–ISLAM.md  
   (Civilizational absorption of Islamic theology and law)
 
+• MEM–PERSIA–IRAN.md  
+  (Iran as modern state container; name, territory, constitutional sequence; 20th–21st c.)
+
+• MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION.md  
+  (1979 revolution; causes, sequence, outcome; sovereignty restoration encoding)
+
+• MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC.md  
+  (IRI regime 1979–present; dual structure, velayat-e faqih, siege adaptation)
+
 • MEM–PERSIA–ISLAMIC–REPUBLIC.md  
-  (Modern sovereignty–siege regime, clerical–state fusion)
+  (Modern sovereignty–siege regime, clerical–state fusion; complements IRAN–ISLAMIC–REPUBLIC)
 
 ────────────────────────────────────────────────────────────
 VI. GEOGRAPHIC & SPATIAL MEMORY FILES
 ────────────────────────────────────────────────────────────
+• MEM–PERSIA–GEO–IRANIAN–PLATEAU.md  
+  (Fortress core; elevated interior; ring of mountains; defense-dominant; CORE cyber–plateau)
+
 • MEM–PERSIA–GEO–CASPIAN.md  
   (Northern buffer, energy corridor, strategic depth modifier)
 
@@ -173,16 +188,16 @@ X. EXTERNAL ACTORS (ROMAN–PERSIAN THEATER)
 ────────────────────────────────────────────────────────────
 XI. CATEGORY BALANCE CHECK (v1.1)
 ────────────────────────────────────────────────────────────
-Dynasty:        PRESENT (4: Achaemenid, Sasanian, Medes, Satrapies)
+Dynasty:        PRESENT (5: Empire, Achaemenid, Sasanian, Medes, Satrapies)
 Foundational:   PRESENT (3: Cyrus, Zoroaster, Darius I)
-Geography:      PRESENT (10: Caspian, Persian Gulf, Indian Ocean, Levant, Silk Road, Armenia, Persepolis, Egypt, Lydia, Babylon)
-Religion:       PRESENT (2: Islam, Islamic Republic)
+Geography:      PRESENT (11: Iranian Plateau, Caspian, Persian Gulf, Indian Ocean, Levant, Silk Road, Armenia, Persepolis, Egypt, Lydia, Babylon)
+Religion/Regime: PRESENT (6: Islam, Iran, Iran–Revolution, Iran–IRI, Islamic Republic)
 Imperial Shock: PRESENT (1: Mongol)
 War/Conflict:   PRESENT (7: Alexander, Carrhae, Rome, Marathon, Scythian, Ionian Revolt, Thermopylae)
 Imperial Figs:  PRESENT (6: Cambyses, Xerxes, Darius III, Ardashir, Shapur, Khosrow II)
 External:       PRESENT (1: Palmyra)
 
-Total MEM–PERSIA: 34 | GEO–MEM: 5
+Total MEM–PERSIA: 39 | GEO–MEM: 6
 No critical category gaps detected.
 
 ────────────────────────────────────────────────────────────

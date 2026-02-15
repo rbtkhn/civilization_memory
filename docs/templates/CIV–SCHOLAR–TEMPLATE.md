@@ -47,7 +47,7 @@ lock semantics, and non-synthesis rules from CIV–SCHOLAR–TEMPLATE v2.9.
 v2.10 introduces the following ADDITIVE enhancements:
 
 • SYNTHESIS TRADECRAFT REQUIREMENTS (Section XIV NEW · MANDATORY)
-  – Assumptions Box REQUIRED for all frozen SYNTHESIS entries
+  – Assumptions Box REQUIRED for all SYNTHESIS entries accepted as doctrine
   – ACH Record REQUIRED when alternative frameworks evaluated
   – Calibrated confidence tiers (Tier 1-4)
   – POST-ACH revision documentation requirements
@@ -191,7 +191,7 @@ v2.6 introduces the following ADDITIVE enhancements:
   – >20 RLLs: Full reorganization REQUIRED
 
 • Count Tracking (Section XII NEW · RECOMMENDED)
-  – Learning entries, frozen syntheses, bound RLLs, proposed RLLs
+  – Learning entries, syntheses accepted as doctrine, bound RLLs, proposed RLLs
   – Completeness check section format
 
 • Cross-Reference Protocol (Section III NEW)
@@ -644,7 +644,7 @@ EXAMPLE:
   Uncertainty: MEDIUM (terrain-dependent variation)
   Frame: MEARSHEIMER
 
-Quantified thresholds MAY be incorporated into RLLs when frozen via synthesis.
+Quantified thresholds MAY be incorporated into RLLs when accepted via synthesis.
 
 ────────────────────────────────────────────────────────────
 V. NON-SYNTHESIS RULE (CLARIFIED · v2.3)
@@ -1315,12 +1315,12 @@ PURPOSE:
 ────────────────────────────────────────────────────────────
 XIV.A ASSUMPTIONS BOX REQUIREMENT (MANDATORY)
 ────────────────────────────────────────────────────────────
-All frozen SYNTHESIS entries MUST include an Assumptions Box.
+All SYNTHESIS entries that are accepted as doctrine MUST include an Assumptions Box.
 
 TRIGGER:
-• Applies to ALL frozen SYNTHESIS entries
-• Must be completed BEFORE freeze authorization
-• Incomplete Assumptions Box blocks freeze
+• Applies to ALL SYNTHESIS entries accepted as doctrine
+• Must be completed BEFORE DIB acceptance (promotion to doctrine)
+• Incomplete Assumptions Box blocks acceptance as doctrine
 
 REQUIRED CONTENT:
 For each key assumption:
@@ -1363,9 +1363,9 @@ ASSUMPTIONS SUMMARY
 ────────────────────────────────────────────────────────────
 
 GOVERNANCE:
-• Frozen SYNTHESIS without Assumptions Box is INVALID
+• SYNTHESIS accepted as doctrine without Assumptions Box is INVALID
 • Assumptions Box may be added retrospectively to pre-v2.10 syntheses
-• Adding Assumptions Box to existing synthesis does not require re-freeze
+• Adding Assumptions Box to existing synthesis does not require re-acceptance
 
 ────────────────────────────────────────────────────────────
 XIV.B ACH RECORD REQUIREMENT (CONDITIONAL)
@@ -1452,11 +1452,11 @@ DECLARATION REQUIREMENT:
 Confidence tier MUST appear in SYNTHESIS status block:
 
 FORMAT:
-  Status: FROZEN
+  Status: ACCEPTED_AS_DOCTRINE (or evolving)
   Confidence: TIER [1-4] ([percentage range])
 
 EXAMPLE:
-  Status: FROZEN
+  Status: ACCEPTED_AS_DOCTRINE
   Confidence: TIER 3 (50-70% — cross-case synthesis)
 
 GOVERNANCE:
@@ -1476,20 +1476,20 @@ REVISION TRIGGERS:
 • Discriminating evidence changes conclusion
 
 REVISION DOCUMENTATION:
-When revising a frozen SYNTHESIS:
+When revising a SYNTHESIS that was accepted as doctrine:
 
-1. CHANGE STATUS: FROZEN → UNDER_REVIEW
+1. CHANGE STATUS: ACCEPTED_AS_DOCTRINE → UNDER_REVIEW
 2. DOCUMENT TRIGGER: What caused revision
 3. RE-RUN ACH: Update with new evidence/hypotheses
 4. UPDATE ASSUMPTIONS: Revise Assumptions Box
-5. RE-FREEZE: Requires explicit user authorization
+5. RE-ACCEPT: Requires explicit user authorization (doctrine registry update)
 
 FORMAT:
 ────────────────────────────────────────────────────────────
 REVISION RECORD
 
 SYNTHESIS: [ID]
-PRIOR STATUS: FROZEN (v[X])
+PRIOR STATUS: ACCEPTED_AS_DOCTRINE (v[X])
 REVISION TRIGGER: [What changed]
 DATE: [YYYY-MM-DD]
 
@@ -1505,18 +1505,18 @@ REVISED VERDICT:
 NEW ASSUMPTIONS:
 [Updated Assumptions Box reference]
 
-RE-FREEZE: [AUTHORIZED / PENDING]
+RE-ACCEPT: [AUTHORIZED / PENDING]
 ────────────────────────────────────────────────────────────
 
 GOVERNANCE:
-• Revisions must not silently change frozen syntheses
+• Revisions must not silently change syntheses that are accepted as doctrine
 • All revisions require explicit documentation
 • Version history must be preserved
 
 ────────────────────────────────────────────────────────────
 XIV.E TRADECRAFT COMPLIANCE CHECKLIST
 ────────────────────────────────────────────────────────────
-Before freezing any SYNTHESIS:
+Before accepting any SYNTHESIS as doctrine:
 
 - [ ] Assumptions Box completed with ≥3 assumptions
 - [ ] Linchpin status assigned to all assumptions
@@ -1527,11 +1527,11 @@ Before freezing any SYNTHESIS:
 - [ ] All grounding MEMs identified
 - [ ] Synthesis Linkage added to grounding MEMs (Layer 3)
 
-SYNTHESIS failing checklist cannot be frozen.
+SYNTHESIS failing checklist cannot be accepted as doctrine.
 
 v2.10 ADDITIONS:
 • Synthesis Tradecraft Requirements (Section XIV) — MANDATORY
-  – Assumptions Box requirement for frozen SYNTHESIS
+  – Assumptions Box requirement for SYNTHESIS accepted as doctrine
   – ACH Record requirement when alternatives evaluated
   – Confidence tier classification (Tier 1-4)
   – POST-ACH revision protocol

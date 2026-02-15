@@ -15,7 +15,7 @@
 | **Section order (I–XIV)** | Aligned with template |
 | **OGE embedding (§ XI)** | One wording fix: 6–10 → 10–20 words per option |
 | **Ledger (XV–XXI)** | Present; ENTRY/SYNTHESIS/Doctrine/SDI/Status consistent |
-| **Phase I** | Correctly declared; RLLs non-binding; no frozen doctrine |
+| **Phase I** | Correctly declared; RLLs non-binding; no doctrine yet accepted |
 | **Source MEM count** | 34 (matches CIV–INDEX–PERSIA) |
 | **ARC** | CIV–ARC–PERSIA v2.0 referenced (present in repo) |
 
@@ -81,7 +81,7 @@ Ledger sections XV–XXI (Initial State, Ingested Learning Events, Belief Synthe
 
 ## V. SYNTHESIS TRADECRAFT (SECTION XIV)
 
-- **Phase I:** No syntheses are frozen; all marked UNBINDING / Phase I. Template Assumptions Box and ACH requirements apply **when freezing**; no violation for current state.
+- **Phase I:** No syntheses are yet accepted as doctrine; all marked UNBINDING / Phase I. Template Assumptions Box and ACH requirements apply **when accepting as doctrine**; no violation for current state.
 - **SYNTHESIS 0001, 0003, 0004:** Each has Assumptions (short form) and Confidence (UNBINDING). Full Assumptions Box format and confidence tier (TIER 1–4) required only at freeze.
 - **SYNTHESIS 0002:** Not present. ENTRY 0002 (Carrhae tri-frame) is covered by SYNTHESIS 0001. Numbering gap is acceptable (synthesis ID need not mirror entry ID).
 

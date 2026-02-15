@@ -1,11 +1,11 @@
-CIV–ARC–PERSIA — v3.1
+CIV–ARC–PERSIA — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.1
-Supersedes: CIV–ARC–PERSIA v3.0
-Upgrade Type: ADDITIVE · ARC-T-MODERN (PERSIAN REFERENCE)
+Version: 3.2
+Supersedes: CIV–ARC–PERSIA v3.1
+Upgrade Type: ADDITIVE · Will Durant (ARC-T-MODERN) added
 Civilization: PERSIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
@@ -68,6 +68,7 @@ ARC-T-EARLY-MOD:
 • James Morier (1780–1849) — The Adventures of Hajji Baba of Ispahan (1824); Second Series (1828)
 
 ARC-T-MODERN:
+• Will Durant (1885–1981) — The Story of Civilization: Our Oriental Heritage (Vol. 1, 1935; Persia, Mesopotamia, Egypt); The Life of Greece (Vol. 2); Caesar and Christ (Vol. 3; Roman–Persian context). Synthetic narrative history; accessible prose; broad civilizational coverage.
 • Adrian Goldsworthy (b. 1969) — Rome and Persia: The Seven Hundred Year Rivalry (2023); Philip and Alexander (2020); Caesar; Augustus; Pax Romana
 • Anthony Everitt (b. 1940) — Alexander the Great: His Life and His Mysterious Death (2019); Alexander-period coverage
 • John Keegan (1934–2012) — The Mask of Command (1987); A History of Warfare; Alexander as heroic leadership type
@@ -141,8 +142,8 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.1)
-• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.1)
+• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.2)
+• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.2)
 
 ────────────────────────────────────────────────────────────
 IX. VERSIONING
@@ -245,5 +246,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   Editorial Note: US-based; centrist; broad Middle East coverage
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–PERSIA — v3.1
+END OF FILE — CIV–ARC–PERSIA — v3.2
 ────────────────────────────────────────────────────────────

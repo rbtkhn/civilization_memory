@@ -37,7 +37,7 @@ CIV–MEM–CORE → CIV–CORE–ANGLIA → DIB–ANGLIA → CIV–DOCTRINE–A
 
 Doctrine Admissibility Rules (per Template § III):
 A doctrine MAY be entered here ONLY if: (1) it originates from a FROZEN SYNTHESIS
-in CIV–SCHOLAR–ANGLIA; (2) the synthesis was explicitly frozen by command; (3) the
+in CIV–SCHOLAR–ANGLIA; (2) the synthesis was explicitly accepted as doctrine by DIB; (3) the
 doctrine was explicitly accepted by DIB–ANGLIA; (4) a new doctrine version is assigned.
 Prohibited: draft doctrines, candidate beliefs, analytical hypotheses, scholar
 commentary, historical narration.

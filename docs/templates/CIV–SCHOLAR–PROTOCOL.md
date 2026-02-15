@@ -166,7 +166,7 @@ v2.2 introduces the following ADDITIVE changes:
 
 • Quantification in LEARN Mode (Section VII)
   – Quantified thresholds permitted as analytical outputs
-  – Provisional status until frozen via synthesis
+  – Provisional status until accepted via synthesis
 
 No authority is weakened.
 No phase boundary is relaxed.
@@ -590,7 +590,7 @@ per CIV–SCHOLAR–TEMPLATE v2.6 Section IV.D.
 
 QUANTIFICATION STATUS:
 • All quantified thresholds are PROVISIONAL
-• Thresholds become binding ONLY when incorporated into frozen synthesis
+• Thresholds become binding ONLY when incorporated into synthesis accepted as doctrine
 • Frozen synthesis MAY produce quantified RLLs if evidence base is cited
 • Uncertainty acknowledgment is REQUIRED for all quantification
 
@@ -646,7 +646,7 @@ X. DOCTRINE INTERFACE RESTRICTIONS
 ────────────────────────────────────────────────────────────
 A Scholar may:
 • Propose doctrine candidates
-• Reference frozen doctrine
+• Reference accepted doctrine (permanent except when user explicitly modifies)
 • Record doctrinal lineage
 
 A Scholar may NOT:
@@ -871,7 +871,7 @@ STATE PERSISTENCE RULES:
 • CORE STATE: Persists across sessions if explicitly saved
 • CONTEXT STATE: Ephemeral; reset at session start
 • RLLs and LERs: Persist in SCHOLAR file (not in session state)
-• Synthesis: Provisional until frozen (not in session state)
+• Synthesis: Evolving by definition; accepted as doctrine only when DIB promotes (not in session state)
 
 STATE MUTATION:
 • Mode changes mutate active_mode

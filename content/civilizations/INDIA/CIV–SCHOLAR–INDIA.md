@@ -31,7 +31,7 @@ CIV–SCHOLAR–INDIA is the accumulative learning ledger of the India civilizat
 
 It is not a strategist. It is not a governor. It is not an interpreter. It has no innate cognition. It makes no assumptions. It records learning events, not conclusions.
 
-This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were promoted to doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. Doctrine is the frozen layer; synthesis is unfrozen until promoted. All cognition is historical and procedural, never intrinsic.
+This file preserves: what was ingested; when it was ingested; what beliefs were extracted; how beliefs were synthesized; which beliefs were promoted to doctrine. No belief exists here unless explicitly derived. No synthesis exists here unless explicitly recorded. Doctrine is the permanent layer (accepted as doctrine); synthesis is evolving until promoted. All cognition is historical and procedural, never intrinsic.
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–INDIA. No Scholar file may override MEM law, ARC law, or Template law.
 
