@@ -1,18 +1,20 @@
-CIV–CORE–INDIA — v2.0
+CIV–CORE–INDIA — v3.3
 Civilizational Strategy Codex · Civilization Continuity Engine
 Delay–Optimization Doctrine · Ontological–Temporal–Exit-Building Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Version: 2.0
-Supersedes: CIV–CORE–INDIA V1.0
-Upgrade Type: Template alignment; structural reorder per CIV–CORE–TEMPLATE v2.0
-Template Version Used: CIV–CORE–TEMPLATE v3.0
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Version: 3.3
+Supersedes: CIV–CORE–INDIA v2.0
+Upgrade Type: ALIGNMENT · v3.3 VERSION BUMP · Scholar/State integration
+Template Version Used: CIV–CORE–TEMPLATE v3.2
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.3)
 Conceptual Lineage: SCE–CIV–INDIA V9.7.2 (doctrinal ancestry preserved)
 Civilization Phase: PHASE I
 Lock Level: STRUCTURAL (sections fixed; content expandable without renumbering)
-Governed by: CIV–MEM–CORE v3.0
-ARC Reference: CIV–ARC–INDIA v2.0
+Governed by: CIV–MEM–CORE v3.3
+• CIV–INDEX–INDIA v3.2 (MEM scope: 51 files)
+ARC Reference: CIV–ARC–INDIA v3.2
+MEM–RELEVANCE–INDIA v1.0 (STATE dimension-to-MEM index; active when CIV–STATE–INDIA created)
 Last Update: February 2026
 WORDCOUNT: ~2,600
 
@@ -347,6 +349,11 @@ CIV–CORE–INDIA is SCHOLAR-ENABLED.
   OGE generates options, not conclusions; OGE is governed by CIV–SCHOLAR–PROTOCOL.
 • Learning ledger: CIV–SCHOLAR–INDIA (if present) accumulates patterns;
   CORE remains the supreme constraint surface for INDIA.
+• Scholar Reference: CIV–SCHOLAR–INDIA v2.3 (proposed RLLs 0001–0003, SYNTHESIS 0004;
+  not binding until Phase II).
+• STATE-readiness: MEM–RELEVANCE–INDIA v1.0 provides dimension-to-MEM mapping for
+  Decision Points and other STATE activities; CIV–STATE–INDIA (when created) will
+  load this CORE per entity-bundle re-anchor (cmc-state-mem-grounding).
 
 ────────────────────────────────────────────────────────────
 XIX. SESSION HEADER (OPTIONAL)
@@ -441,5 +448,5 @@ MANDATORY OUTPUT:
 • EPL-IND: INACTIVE / ACTIVE / LOCKED
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–INDIA — v2.0
+END OF FILE — CIV–CORE–INDIA — v3.3
 ────────────────────────────────────────────────────────────
