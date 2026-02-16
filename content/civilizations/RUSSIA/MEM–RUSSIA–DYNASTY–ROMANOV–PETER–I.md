@@ -536,7 +536,7 @@ XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–CATHERINE–GREAT — successor normalization of Petrine reform
-• MEM–RUSSIA–IVAN–IV — autocracy precedent without buffers
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy precedent without buffers
 • MEM–RUSSIA–MUSCOVY — coercive state inheritance
 • MEM–RUSSIA–ROMANOV–DYNASTY — dynastic succession framework
 • MEM–RUSSIA–STRELTSY — elite resistance and suppression

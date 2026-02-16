@@ -269,7 +269,7 @@ VIII. MEM CONNECTIONS (v2.8 COMPLIANT)
 RUSSIA (≥10):
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious foundation
 • MEM–RUSSIA–MUSCOVY — political context; Moscow's rise enables claim
-• MEM–RUSSIA–IVAN–III — married Byzantine princess; dynastic basis
+• MEM–RUSSIA–MUSCOVY–IVAN–III — married Byzantine princess; dynastic basis
 • MEM–RUSSIA–IVAN–TERRIBLE — first tsar; Third Rome justifies title
 • MEM–RUSSIA–FILOFEI — monk who formulated doctrine
 • MEM–RUSSIA–BYZANTIUM–FALL — 1453 collapse creates vacancy

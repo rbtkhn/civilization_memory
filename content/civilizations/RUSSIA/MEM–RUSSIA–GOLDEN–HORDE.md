@@ -181,9 +181,9 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY — internalization of Horde logic
 • MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance
 • MEM–RUSSIA–TIME–TROUBLES — succession fragility persists
-• MEM–RUSSIA–VLADIMIR–GREAT — pre-Horde sacral substrate
-• MEM–RUSSIA–YAROSLAV–WISE — law-first model displaced
-• MEM–RUSSIA–IVAN–III — Horde liberation phase
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — pre-Horde sacral substrate
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — law-first model displaced
+• MEM–RUSSIA–MUSCOVY–IVAN–III — Horde liberation phase
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–VOLGA — tribute corridor

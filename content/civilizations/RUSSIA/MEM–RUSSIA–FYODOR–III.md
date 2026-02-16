@@ -211,7 +211,7 @@ XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 Russian:
 • MEM–RUSSIA–ALEXEI–ROMANOV — lock-in predecessor
 • MEM–RUSSIA–MICHAEL–ROMANOV — restoration baseline
-• MEM–RUSSIA–IVAN–IV — autocracy pathology boundary
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy pathology boundary
 • MEM–RUSSIA–TIME–TROUBLES — collapse constraint memory
 • MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture successor
 • MEM–RUSSIA–STRELTSY — succession instability signal

@@ -226,13 +226,13 @@ Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — pluralism and openness replaced
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic logic inherited and hardened
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival under asymmetry
-• MEM–RUSSIA–VLADIMIR–GREAT — sacral legitimacy substrate
-• MEM–RUSSIA–YAROSLAV–WISE — law-first model rejected
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral legitimacy substrate
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — law-first model rejected
 • MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
 • MEM–RUSSIA–GOLDEN–HORDE — compression training source
 • MEM–RUSSIA–DYNASTY–ROMANOV — successor scaling mechanism
-• MEM–RUSSIA–IVAN–IV — unbuffered autocracy precursor
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy precursor
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–VOLGA — corridor depth

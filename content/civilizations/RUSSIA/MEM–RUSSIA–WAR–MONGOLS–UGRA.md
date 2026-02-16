@@ -181,7 +181,7 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–MONGOLS–KALKA — recognition phase (1223)
 • MEM–RUSSIA–WAR–MONGOLS–KIEV — domination phase (1240)
 • MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — symbolic resistance (1380)
-• MEM–RUSSIA–IVAN–III — consolidation agent and sovereign actor
+• MEM–RUSSIA–MUSCOVY–IVAN–III — consolidation agent and sovereign actor
 • MEM–RUSSIA–GOLDEN–HORDE — declining overlord structure
 • MEM–RUSSIA–MOSCOW — centralized Muscovite power base
 • MEM–RUSSIA–CRIMEAN–KHANATE — alternative Mongol successor power

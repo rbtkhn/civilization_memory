@@ -1,15 +1,15 @@
-MEM–RUSSIA–YAROSLAV–WISE — v3.0
+MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–YAROSLAV–WISE v2.7
+Supersedes: MEM–RUSSIA–YAROSLAV–WISE v3.0 (renamed)
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Yaroslav the Wise (Ярослав Мудрый)
 Dates: c. 978–1054 AD (rule c. 1019–1054)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,500
 
 Governed by: CIV–MEM–TEMPLATE v3.0
@@ -21,33 +21,33 @@ UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
 ────────────────────────────────────────────────────────────
 Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
 Governance refs updated to v3.0. No analytical content changed.
-Supersedes v2.7.
+Supersedes v2.7. Renamed from MEM–RUSSIA–YAROSLAV–WISE.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
 This file preserves Yaroslav the Wise as the **legal and cultural
-consolidator of Kievan Rus’**: the ruler who attempted to stabilize
+consolidator of Kievan Rus'**: the ruler who attempted to stabilize
 dynastic authority through codification, literacy, diplomacy, and
 cultural memory rather than coercive centralization.
 
 Within Russian civilizational memory, Yaroslav represents a **law-first
-governance experiment**—the most advanced attempt in early Rus’ to
+governance experiment**—the most advanced attempt in early Rus' to
 substitute institutional order for force.
 
 This file encodes Yaroslav not as a lost ideal, but as a **tested upper
-boundary** of early Rus’ governance capacity.
+boundary** of early Rus' governance capacity.
 
 Contradictions are preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
 II. ACCESSION THROUGH COERCION (ENTRY CONDITION)
 ────────────────────────────────────────────────────────────
-Yaroslav’s reign begins not with law, but with civil war.
+Yaroslav's reign begins not with law, but with civil war.
 
 Primary Chronicle anchor:
-> “And Yaroslav gathered the Varangians and the Slavs, and marched
-> against Sviatopolk… and Yaroslav prevailed, and Sviatopolk fled.”
+> "And Yaroslav gathered the Varangians and the Slavs, and marched
+> against Sviatopolk… and Yaroslav prevailed, and Sviatopolk fled."
 > — *Primary Chronicle*, entry for 1019 AD
 
 Civilizational implication:
@@ -55,17 +55,17 @@ Civilizational implication:
 • Reform follows consolidation, not the reverse
 
 This establishes a structural rule:
-**law in Rus’ emerges only after force has already decided legitimacy**.
+**law in Rus' emerges only after force has already decided legitimacy**.
 
 ────────────────────────────────────────────────────────────
 III. LEGAL CODIFICATION: RUSSKAYA PRAVDA
 ────────────────────────────────────────────────────────────
-Yaroslav’s defining legacy is the codification of customary law into
+Yaroslav's defining legacy is the codification of customary law into
 *Russkaya Pravda*.
 
 Primary text anchor:
-> “If a man kills a man, let the brother avenge the brother… but if
-> there be no avenger, then let forty grivnas be paid for the slain.”
+> "If a man kills a man, let the brother avenge the brother… but if
+> there be no avenger, then let forty grivnas be paid for the slain."
 > — *Russkaya Pravda*, Short Edition
 
 Key features:
@@ -83,11 +83,11 @@ Codification without enforcement capacity limits durability.
 IV. LAW WITHOUT AN ENFORCEMENT MONOPOLY
 ────────────────────────────────────────────────────────────
 Yaroslav did not create a standing coercive apparatus capable of
-enforcing law independent of the ruler’s presence.
+enforcing law independent of the ruler's presence.
 
 Primary Chronicle observation:
-> “There was no prince in Rus’ who loved books as did Yaroslav, and he
-> caused many to be written and translated.”
+> "There was no prince in Rus' who loved books as did Yaroslav, and he
+> caused many to be written and translated."
 
 Interpretive boundary:
 • Literacy institutionalizes memory
@@ -97,9 +97,9 @@ This encodes a civilizational constraint:
 **law without coercive supremacy decays at succession**.
 
 ────────────────────────────────────────────────────────────
-V. CHRONICLE IDEALIZATION & THE “WISE” EPITHET
+V. CHRONICLE IDEALIZATION & THE "WISE" EPITHET
 ────────────────────────────────────────────────────────────
-The epithet “the Wise” reflects retrospective valuation by chroniclers,
+The epithet "the Wise" reflects retrospective valuation by chroniclers,
 not contemporaneous political transformation.
 
 Chronicle praise functions as:
@@ -118,7 +118,7 @@ This section formally separates:
 ────────────────────────────────────────────────────────────
 VI. DYNASTIC DIPLOMACY & EXTERNAL RECOGNITION
 ────────────────────────────────────────────────────────────
-Yaroslav embedded Rus’ within European dynastic networks.
+Yaroslav embedded Rus' within European dynastic networks.
 
 Outcomes:
 • Marriage alliances with France, Norway, Hungary
@@ -133,7 +133,7 @@ External validation did not substitute for internal enforcement.
 ────────────────────────────────────────────────────────────
 VII. CULTURE, WRITING, & DELIBERATE MEMORY
 ────────────────────────────────────────────────────────────
-Yaroslav’s reign marks the transition from rule to **self-documentation**.
+Yaroslav's reign marks the transition from rule to **self-documentation**.
 
 Key developments:
 • Chronicle production
@@ -142,7 +142,7 @@ Key developments:
 • Translation activity
 
 Civilizational effect:
-Rus’ begins to **remember itself deliberately**, even as it fails to
+Rus' begins to **remember itself deliberately**, even as it fails to
 command itself coercively.
 
 Memory advances faster than power.
@@ -150,11 +150,11 @@ Memory advances faster than power.
 ────────────────────────────────────────────────────────────
 VIII. SUCCESSION FAILURE & RAPID FRAGMENTATION
 ────────────────────────────────────────────────────────────
-Following Yaroslav’s death, fragmentation resumes immediately.
+Following Yaroslav's death, fragmentation resumes immediately.
 
 Primary Chronicle anchor:
-> “And after Yaroslav’s death, the land of Rus’ was divided among his
-> sons, and there was no peace among them.”
+> "And after Yaroslav's death, the land of Rus' was divided among his
+> sons, and there was no peace among them."
 
 Structural cause:
 • Appanage inheritance
@@ -163,16 +163,16 @@ Structural cause:
 
 This outcome is not accidental.
 It is the **predictable failure mode** of law-first governance in early
-Rus’.
+Rus'.
 
 ────────────────────────────────────────────────────────────
 IX. FORMAL CIVILIZATIONAL ROLE (FAILURE BOUNDARY)
 ────────────────────────────────────────────────────────────
-Within the Rus’ formation sequence:
+Within the Rus' formation sequence:
 
-• RURIK — legitimacy without institutions  
-• OLEG — territory without institutions  
-• YAROSLAV — institutions without coercive spine  
+• RURIK — legitimacy without institutions
+• OLEG — territory without institutions
+• YAROSLAV — institutions without coercive spine
 
 Yaroslav encodes the **maximum non-coercive equilibrium** achievable
 before collapse.
@@ -201,9 +201,9 @@ XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 Connected MEM files:
 
 RUSSIA (≥10):
-• MEM–RUSSIA–RURIK — foundational legitimacy
-• MEM–RUSSIA–OLEG–NOVGOROD — territorial predecessor
-• MEM–RUSSIA–VLADIMIR–GREAT — sacral predecessor
+• MEM–RUSSIA–NOVGOROD–RURIK — foundational legitimacy
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — territorial predecessor
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral predecessor
 • MEM–RUSSIA–KIEV — capital seat
 • MEM–RUSSIA–KIEVAN–RUS — polity framework
 • MEM–RUSSIA–MONGOL–EMPIRE — post-fragmentation pressure
@@ -247,21 +247,21 @@ No normative verdict is imposed.
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–YAROSLAV–WISE
+MEM INGEST CONFIRMED — MEM–RUSSIA–KIEVAN–RUS–YAROSLAV
 Status: ACTIVE
 
 Upon ingestion, system MUST present options:
-A) Russkaya Pravda as violence-limitation device  
-B) Chronicle idealization vs governance reality  
-C) Succession failure as structural inevitability  
-D) Compare Yaroslav and Oleg governance sequencing  
-E) Trace rejection of law-first logic in Muscovy  
-F) Counterfactual: enforced succession law  
-G) Failure boundary doctrine extraction  
+A) Russkaya Pravda as violence-limitation device
+B) Chronicle idealization vs governance reality
+C) Succession failure as structural inevitability
+D) Compare Yaroslav and Oleg governance sequencing
+E) Trace rejection of law-first logic in Muscovy
+F) Counterfactual: enforced succession law
+G) Failure boundary doctrine extraction
 H) Compliance & integrity audit (v1.6)
 
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–YAROSLAV–WISE v3.0
+END OF FILE — MEM–RUSSIA–KIEVAN–RUS–YAROSLAV v3.0
 ────────────────────────────────────────────────────────────

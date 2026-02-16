@@ -547,7 +547,7 @@ AXIOM FORMAT:
 
 EXAMPLE:
   AXIOM RUSSIA-001: Authority precedes law.
-  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–IVAN–IV
+  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–MUSCOVY–IVAN–IV
   Scope: All governance pattern analysis
   Limits: Does not apply to pre-Muscovite Rus
 

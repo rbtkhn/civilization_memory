@@ -226,9 +226,9 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral endurance layer preserved under domination
 • MEM–RUSSIA–TIME–TROUBLES — succession fragility persists from Mongol-era patterns
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source for early invasion memory
-• MEM–RUSSIA–VLADIMIR–GREAT — pre-Mongol legitimacy baseline
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — pre-Mongol legitimacy baseline
 • MEM–RUSSIA–CYRILLIC–SCRIPT — continuity through collapse
-• MEM–RUSSIA–IVAN–III — Ugra River and Horde termination
+• MEM–RUSSIA–MUSCOVY–IVAN–III — Ugra River and Horde termination
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–VOLGA — tribute corridor and Horde access route

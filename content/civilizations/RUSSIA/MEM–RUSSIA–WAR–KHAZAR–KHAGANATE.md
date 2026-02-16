@@ -229,8 +229,8 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–SVIATOSLAV — Imperial campaigns and military organization
 • MEM–RUSSIA–KIEVAN–RUS — State formation and territorial expansion
 • MEM–RUSSIA–VARANGIANS — Mercenary military tradition and trade networks
-• MEM–RUSSIA–OLEG–NOVGOROD — Early expansion and Khazar tributary relations
-• MEM–RUSSIA–RURIK — Dynastic foundation preceding Khazar confrontation
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — Early expansion and Khazar tributary relations
+• MEM–RUSSIA–NOVGOROD–RURIK — Dynastic foundation preceding Khazar confrontation
 • MEM–RUSSIA–DYNASTY–RURIKID — Rurikid hegemony through Khazar defeat
 • MEM–RUSSIA–KIEV — Political center of anti-Khazar campaigns
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — Source documentation of Khazar wars

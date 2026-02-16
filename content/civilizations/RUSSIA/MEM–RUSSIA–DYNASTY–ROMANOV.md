@@ -345,7 +345,7 @@ XII. MEM BIBLIOGRAPHY
 XIII. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–IVAN–IV — unbuffered autocracy
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy
 • MEM–RUSSIA–MUSCOVY — compression substrate
 • MEM–RUSSIA–TIME–TROUBLES — collapse baseline
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion

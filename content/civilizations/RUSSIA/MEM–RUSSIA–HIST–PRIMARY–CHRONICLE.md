@@ -252,10 +252,10 @@ XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — civilizational context
-• MEM–RUSSIA–RURIK — founding dynasty narrated
-• MEM–RUSSIA–VLADIMIR–GREAT — Christianization narrative
-• MEM–RUSSIA–YAROSLAV–WISE — chronicle patronage
-• MEM–RUSSIA–OLEG–NOVGOROD — early ruler accounts
+• MEM–RUSSIA–NOVGOROD–RURIK — founding dynasty narrated
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization narrative
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — chronicle patronage
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — early ruler accounts
 • MEM–RUSSIA–ORTHODOXY — sacred legitimacy framework
 • MEM–RUSSIA–NESTOR — traditional compiler attribution
 • MEM–RUSSIA–MUSCOVY — ideological inheritance

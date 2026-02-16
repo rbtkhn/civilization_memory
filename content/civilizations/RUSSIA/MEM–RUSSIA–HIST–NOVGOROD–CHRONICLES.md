@@ -273,7 +273,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — civilizational context
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — contrasting chronicle tradition
 • MEM–RUSSIA–MUSCOVY — absorbing power that silences Chronicle
-• MEM–RUSSIA–IVAN–III — architect of Novgorod's subjugation
+• MEM–RUSSIA–MUSCOVY–IVAN–III — architect of Novgorod's subjugation
 • MEM–RUSSIA–VARANGIANS — founding narrative shared with Primary Chronicle
 • MEM–RUSSIA–MONGOL–EMPIRE — external pressure recorded
 • MEM–RUSSIA–GOLDEN–HORDE — tribute relationship documented

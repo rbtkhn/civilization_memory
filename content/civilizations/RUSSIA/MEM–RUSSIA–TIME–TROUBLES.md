@@ -205,7 +205,7 @@ Pushkin's *Boris Godunov* gives the Troubles their most famous closing line:
 X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–IVAN–IV — unbuffered autocracy creates succession vacuum
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy creates succession vacuum
 • MEM–RUSSIA–DYNASTY–RURIKID — lineage exhaustion trigger
 • MEM–RUSSIA–MUSCOVY — sacral endurance ≠ succession stability
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic reset mechanism
@@ -214,7 +214,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–ALEXANDER–NEVSKY — endurance logic under asymmetry
 • MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
 • MEM–RUSSIA–GOLDEN–HORDE — legitimacy training source
-• MEM–RUSSIA–VLADIMIR–GREAT — sacral substrate origin
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral substrate origin
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — collapse epicenter

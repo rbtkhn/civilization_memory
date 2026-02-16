@@ -334,7 +334,7 @@ XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–RUSSIA–NOVGOROD — Republican expansion and commercial interests
 • MEM–RUSSIA–VARANGIANS — Military traditions in northern campaigns
-• MEM–RUSSIA–YAROSLAV–WISE — Campaign initiator and fortress builder
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — Campaign initiator and fortress builder
 • MEM–RUSSIA–BALTIC–TRADE — Economic motivations for expansion
 • MEM–RUSSIA–FINNO–UGRIC–PEOPLES — Tribal confederations and cultures
 • MEM–RUSSIA–WAR–LIVONIAN–ORDER — German colonial competition

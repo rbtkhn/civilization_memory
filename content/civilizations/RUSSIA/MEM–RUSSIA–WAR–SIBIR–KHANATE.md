@@ -171,7 +171,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–KAZAN — Volga consolidation precedent
 • MEM–RUSSIA–WAR–ASTRAKHAN — Southern hinge secured
 • MEM–RUSSIA–WAR–MONGOL–DOMINATION — Inherited steppe logic
-• MEM–RUSSIA–IVAN–IV — Tsar who authorized Siberian expansion
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — Tsar who authorized Siberian expansion
 • MEM–RUSSIA–MUSCOVY — State structure enabling eastward projection
 • MEM–RUSSIA–SIBERIA — Long-term consequence and territorial integration
 • MEM–RUSSIA–VARANGIANS — Riverine movement precedent

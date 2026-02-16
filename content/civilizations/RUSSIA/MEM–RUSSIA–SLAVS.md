@@ -318,9 +318,9 @@ These contradictions structure Russian identity memory without resolution.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10 same-civilization):
-• MEM–RUSSIA–RURIK — Varangian-Slavic dynastic fusion
+• MEM–RUSSIA–NOVGOROD–RURIK — Varangian-Slavic dynastic fusion
 • MEM–RUSSIA–KIEVAN–RUS — Slavic tribal unification
-• MEM–RUSSIA–VLADIMIR–GREAT — Conversion from Slavic paganism
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Conversion from Slavic paganism
 • MEM–RUSSIA–NOVGOROD — Veche tradition preservation
 • MEM–RUSSIA–VARANGIANS — External political organization
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious transformation

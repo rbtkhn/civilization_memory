@@ -140,8 +140,8 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — spiritual transmission
 • MEM–RUSSIA–OTTOMAN–EMPIRE — rival possessor of the center
 • MEM–RUSSIA–THIRD–ROME — doctrinal crystallization
-• MEM–RUSSIA–IVAN–III — dynastic marriage and symbol adoption
-• MEM–RUSSIA–IVAN–IV — tsarist title and imperial claim
+• MEM–RUSSIA–MUSCOVY–IVAN–III — dynastic marriage and symbol adoption
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — tsarist title and imperial claim
 • MEM–RUSSIA–MOSCOW — successor capital logic
 • MEM–RUSSIA–BYZANTIUM — civilizational inheritance
 • MEM–RUSSIA–CATHERINE–GREAT — strategic recovery aspiration

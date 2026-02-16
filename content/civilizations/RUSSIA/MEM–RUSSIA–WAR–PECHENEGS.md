@@ -267,8 +267,8 @@ Primary: Russian Primary Chronicle (Laurentian Codex); Byzantine historians (Leo
 XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
-• MEM–RUSSIA–VLADIMIR–GREAT — Baptism and military consolidation
-• MEM–RUSSIA–YAROSLAV–WISE — Military and administrative development
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Baptism and military consolidation
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — Military and administrative development
 • MEM–RUSSIA–KIEVAN–RUS — Southern frontier defense
 • MEM–RUSSIA–STEPPE–PEOPLES — Nomadic confederations
 • MEM–RUSSIA–BYZANTINE–RELATIONS — Diplomatic and mercenary connections

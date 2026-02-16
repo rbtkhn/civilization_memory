@@ -23,7 +23,7 @@ MEM CONNECTIONS
 Same-Civilization:
 • MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
 • MEM–RUSSIA–CATHERINE–GREAT
-• MEM–RUSSIA–IVAN–IV
+• MEM–RUSSIA–MUSCOVY–IVAN–IV
 ... (list of 10+ files)
 
 GEO Connections:
@@ -73,7 +73,7 @@ PARALLELS — Structural similarity
 
 TEMPORAL_BEFORE — Chronological predecessor
 • This MEM's subject precedes the target in time
-• Example: MEM–RUSSIA–IVAN–IV TEMPORAL_BEFORE MEM–RUSSIA–TIME–OF–TROUBLES
+• Example: MEM–RUSSIA–MUSCOVY–IVAN–IV TEMPORAL_BEFORE MEM–RUSSIA–TIME–OF–TROUBLES
 
 TEMPORAL_AFTER — Chronological successor
 • Inverse of TEMPORAL_BEFORE

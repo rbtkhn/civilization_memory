@@ -978,7 +978,7 @@ PATTERN: Buffer Zone Imperative
 
 PATTERN: Temporal Compression as Governance
   Activation: MODERATE
-  Source: MEM–RUSSIA–IVAN–IV, MEM–RUSSIA–STALIN, MEM–RUSSIA–PUTIN
+  Source: MEM–RUSSIA–MUSCOVY–IVAN–IV, MEM–RUSSIA–STALIN, MEM–RUSSIA–PUTIN
   Relevance: Russian authority has historically stabilised by
   shortening decision intervals. Peace extends time and enables
   elite bargaining; emergency compresses time and subordinates
@@ -1158,8 +1158,8 @@ PATTERN: Institutional Voice vs Sovereign Choice (Lavrov–Panin)
 PATTERN: Legitimacy Sequencing (Rurikid → Horde → Muscovite)
   Activation: MODERATE (diagnostic; when settlement or authority is in play)
   Source: SCHOLAR LEARN session (Rurikid cluster, Feb 2026); MEM–RUSSIA–
-          DYNASTY–RURIKID, MEM–RUSSIA–RURIK, MEM–RUSSIA–KIEVAN–RUS,
-          MEM–RUSSIA–GOLDEN–HORDE, MEM–RUSSIA–MUSCOVY, MEM–RUSSIA–IVAN–III
+          DYNASTY–RURIKID, MEM–RUSSIA–NOVGOROD–RURIK, MEM–RUSSIA–KIEVAN–RUS,
+          MEM–RUSSIA–GOLDEN–HORDE, MEM–RUSSIA–MUSCOVY, MEM–RUSSIA–MUSCOVY–IVAN–III
   Relevance: Russian legitimacy has historically followed a recurring
   sequence: (1) authority that restores order can be accepted regardless
   of origin ("invitation" grammar in Primary Chronicle and Rurik MEM);

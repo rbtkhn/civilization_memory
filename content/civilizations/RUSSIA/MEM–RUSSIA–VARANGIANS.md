@@ -213,7 +213,7 @@ mechanisms rather than narrating events.
 X. MEM CONNECTIONS (MANDATORY · JUSTIFIED)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA):
-• MEM–RUSSIA–RURIK — dynastic origin node
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic origin node
 • MEM–RUSSIA–KIEVAN–RUS — corridor polity maturation
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — legitimacy narrative compiler
 • MEM–RUSSIA–ORTHODOXY — authority–identity binding

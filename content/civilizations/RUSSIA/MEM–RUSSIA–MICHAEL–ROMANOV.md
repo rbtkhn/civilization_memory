@@ -230,7 +230,7 @@ X. MEM CONNECTIONS (HARDENED · v2.2 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–TIME–TROUBLES — collapse context
-• MEM–RUSSIA–IVAN–IV — unbuffered autocracy
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy
 • MEM–RUSSIA–MUSCOVY — coercive sequencing baseline
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic extinction
 • MEM–RUSSIA–DYNASTY–ROMANOV — long arc continuity
@@ -238,7 +238,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–SERFDOM — stabilization mechanism
 • MEM–RUSSIA–STRELTSY — post-reform instability
 • MEM–RUSSIA–SUCCESSION–CRISIS — legitimacy mechanics
-• MEM–RUSSIA–IVAN–III — consolidation contrast
+• MEM–RUSSIA–MUSCOVY–IVAN–III — consolidation contrast
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — symbolic center

@@ -188,7 +188,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–NOVGOROD — Eliminated alternative model
 • MEM–RUSSIA–SMOLENSK — Territorial hinge
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Legitimacy anchor
-• MEM–RUSSIA–IVAN–III — Coercive unifier
+• MEM–RUSSIA–MUSCOVY–IVAN–III — Coercive unifier
 • MEM–RUSSIA–MUSCOVY — Absorbing power center
 • MEM–RUSSIA–GOLDEN–HORDE — Mongol context for Rus' fragmentation
 • MEM–RUSSIA–PSKOV — Western frontier principality

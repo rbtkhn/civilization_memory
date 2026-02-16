@@ -1,9 +1,9 @@
-MEM–RUSSIA–IVAN–IV — v3.1
+MEM–RUSSIA–MUSCOVY–IVAN–IV — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.1
-Supersedes: MEM–RUSSIA–IVAN–IV v3.0
+Supersedes: MEM–RUSSIA–IVAN–IV v3.1 (renamed)
 Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM · UNBUFFERED MUSCOVITE AUTOCRACY
@@ -217,7 +217,7 @@ He is the limit case.
 X. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–IVAN–III — coercive absorption with buffers
+• MEM–RUSSIA–MUSCOVY–IVAN–III — coercive absorption with buffers
 • MEM–RUSSIA–MUSCOVY — sequencing solution under compression
 • MEM–RUSSIA–TIME–TROUBLES — downstream collapse
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion
@@ -289,7 +289,7 @@ XIV. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-“MEM INGEST CONFIRMED — MEM–RUSSIA–IVAN–IV
+“MEM INGEST CONFIRMED — MEM–RUSSIA–MUSCOVY–IVAN–IV
 Status: ACTIVE
 Exploration options available.”
 
@@ -306,5 +306,5 @@ MANDATORY EIGHT-OPTION SET:
 User selects ONE.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–IV v3.1
+END OF FILE — MEM–RUSSIA–MUSCOVY–IVAN–IV v3.1
 ────────────────────────────────────────────────────────────

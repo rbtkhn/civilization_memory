@@ -187,9 +187,9 @@ XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Same-civilization connections (≥10):
 
-• MEM–RUSSIA–RURIK — Dynastic founding and warlord origins
-• MEM–RUSSIA–OLEG–NOVGOROD — Regency and territorial anchoring
-• MEM–RUSSIA–VLADIMIR–GREAT — Sacral legitimacy transformation
+• MEM–RUSSIA–NOVGOROD–RURIK — Dynastic founding and warlord origins
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — Regency and territorial anchoring
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Sacral legitimacy transformation
 • MEM–RUSSIA–KIEVAN–RUS — Pre-fragmentation political apex
 • MEM–RUSSIA–MONGOL–EMPIRE — External domination and selection pressure
 • MEM–RUSSIA–MUSCOVY — Centralization and dynastic concentration

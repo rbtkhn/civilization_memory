@@ -333,9 +333,9 @@ XIII. MEM CONNECTIONS (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — parent civilizational system
-• MEM–RUSSIA–RURIK — founding dynasty
-• MEM–RUSSIA–VLADIMIR–GREAT — Christianization in Kiev
-• MEM–RUSSIA–YAROSLAV–WISE — legal and cultural flowering
+• MEM–RUSSIA–NOVGOROD–RURIK — founding dynasty
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization in Kiev
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — legal and cultural flowering
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — compiled in Kiev
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — baptism site
 • MEM–RUSSIA–WAR–MONGOLS–KIEV — destruction of Kiev (1240)

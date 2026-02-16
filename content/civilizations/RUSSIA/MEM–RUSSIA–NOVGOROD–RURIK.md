@@ -1,16 +1,16 @@
-MEM–RUSSIA–RURIK — v3.0
+MEM–RUSSIA–NOVGOROD–RURIK — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–RURIK v2.7
+Supersedes: MEM–RUSSIA–RURIK v3.0 (renamed)
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
-Regime / Mode: Foundational Insertion Phase
+Regime / Mode: Novgorod · Foundational Insertion Phase
 Subject: Rurik (Рюрик)
 Dates: c. 830–879 AD
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,400
 
 Governed by: CIV–MEM–TEMPLATE v3.0
@@ -22,7 +22,7 @@ UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
 ────────────────────────────────────────────────────────────
 Version bump to v3.0 per CMC–BOOTSTRAP and CIV–MEM–CORE v3.0.
 Governance refs updated to v3.0. No analytical content changed.
-Supersedes v2.7.
+Supersedes v2.7. Renamed from MEM–RUSSIA–RURIK.
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -30,7 +30,7 @@ I. MEMORY PURPOSE & SCOPE
 This file preserves Rurik as the **procedural founder** of Russian
 civilizational authority: the figure through whom coercive order,
 dynastic continuity, and external arbitration were first normalized as
-legitimate mechanisms of rule in the lands of Rus’.
+legitimate mechanisms of rule in the lands of Rus'.
 
 Rurik is not remembered as a lawgiver, institution-builder, or sacred
 founder. He is remembered as **the accepted outsider**—the authority
@@ -38,7 +38,7 @@ who resolves internal disorder by insertion rather than emergence.
 
 This file does NOT resolve:
 • Whether Rurik was a singular historical person or a composite figure
-• Whether the “invitation” narrative reflects fact or retroactive myth
+• Whether the "invitation" narrative reflects fact or retroactive myth
 • Whether legitimacy preceded coercion or rationalized it afterward
 
 Contradictions are preserved without synthesis.
@@ -46,14 +46,14 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. THE INVITATION NARRATIVE (CHRONICLE TRADITION)
 ────────────────────────────────────────────────────────────
-The foundational account of Rurik’s rise derives from the
+The foundational account of Rurik's rise derives from the
 *Primary Chronicle*, which frames his rule as the outcome of invitation
 by quarreling tribes:
 
-> “They said to themselves, ‘Let us seek a prince who may rule over us,
-> and judge us according to the Law.’ And they went overseas to the
-> Varangians, to the Rus’… and they said, ‘Our land is great and rich,
-> but there is no order in it. Come to rule and reign over us.’”
+> "They said to themselves, 'Let us seek a prince who may rule over us,
+> and judge us according to the Law.' And they went overseas to the
+> Varangians, to the Rus'… and they said, 'Our land is great and rich,
+> but there is no order in it. Come to rule and reign over us.'"
 > — *Primary Chronicle*, early 12th century
 
 The narrative emphasizes:
@@ -61,13 +61,13 @@ The narrative emphasizes:
 • Desire for order
 • Arbitration rather than conquest
 
-Within Rus’ memory, this episode functions as a **legitimacy grammar**:
+Within Rus' memory, this episode functions as a **legitimacy grammar**:
 authority is framed as accepted, not imposed—even when backed by force.
 
 ────────────────────────────────────────────────────────────
 III. HISTORICAL UNCERTAINTY & COMPOSITE THEORIES
 ────────────────────────────────────────────────────────────
-Modern scholarship treats Rurik’s historicity with caution.
+Modern scholarship treats Rurik's historicity with caution.
 
 Key uncertainties:
 • Absence of contemporaneous external corroboration
@@ -75,7 +75,7 @@ Key uncertainties:
 • Possible conflation of multiple Varangian leaders
 • Retrojection of later political norms onto earlier violence
 
-Simon Franklin and Jonathan Shepard note that early Rus’ leadership was
+Simon Franklin and Jonathan Shepard note that early Rus' leadership was
 likely **collective, mobile, and retinue-based**, later simplified into
 personalized founding figures.
 
@@ -89,7 +89,7 @@ This ambiguity is structural, not incidental.
 ────────────────────────────────────────────────────────────
 IV. COERCION BENEATH CONSENT
 ────────────────────────────────────────────────────────────
-Despite the invitation framing, the mechanics of Rurik’s rule align with
+Despite the invitation framing, the mechanics of Rurik's rule align with
 **armed insertion** rather than consensual governance.
 
 Observed features:
@@ -98,7 +98,7 @@ Observed features:
 • Retinue-based enforcement
 • Absence of participatory institutions
 
-The “invitation” functions less as evidence of civic consent than as a
+The "invitation" functions less as evidence of civic consent than as a
 **post hoc justification** for foreign domination that succeeded.
 
 Authority is remembered as accepted because resistance failed.
@@ -106,7 +106,7 @@ Authority is remembered as accepted because resistance failed.
 ────────────────────────────────────────────────────────────
 V. DYNASTY AS CONTINUITY SUBSTITUTE
 ────────────────────────────────────────────────────────────
-Rurik’s most enduring contribution is not territorial expansion but
+Rurik's most enduring contribution is not territorial expansion but
 **dynastic continuity**.
 
 Key outcome:
@@ -121,7 +121,7 @@ This establishes a lasting Russian pattern:
 → Stability derives from succession more than administration.
 
 ────────────────────────────────────────────────────────────
-VI. PROCEDURAL LEGITIMACY AS CIVILIZATIONAL INHERITANAD
+VI. PROCEDURAL LEGITIMACY AS CIVILIZATIONAL INHERITANCE
 ────────────────────────────────────────────────────────────
 Rurik introduces a crucial Russian legitimacy mechanism:
 **procedural acceptance of authority regardless of origin**.
@@ -140,7 +140,7 @@ from Varangians to Mongol khans to autocratic tsars.
 ────────────────────────────────────────────────────────────
 VII. RURIK → OLEG TRANSITION (SEQUENTIAL LOGIC)
 ────────────────────────────────────────────────────────────
-Rurik’s role is incomplete without Oleg.
+Rurik's role is incomplete without Oleg.
 
 Structural sequence:
 • Rurik = legitimacy insertion and dynastic seed
@@ -172,15 +172,15 @@ IX. MEM CONNECTIONS (v3.0 COMPLIANT)
 Connected MEM files include:
 
 RUSSIA (≥10):
-• MEM–RUSSIA–OLEG–NOVGOROD — territorial integrator
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — territorial integrator
 • MEM–RUSSIA–NOVGOROD — plural alternative center
 • MEM–RUSSIA–KIEV — prestige capital
 • MEM–RUSSIA–VARANGIANS — warrior elite substrate
 • MEM–RUSSIA–MONGOL–EMPIRE — later external sovereignty pattern
 • MEM–RUSSIA–KIEVAN–RUS — polity formation
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source tradition
-• MEM–RUSSIA–VLADIMIR–GREAT — sacral transformation successor
-• MEM–RUSSIA–YAROSLAV–WISE — institutional successor
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral transformation successor
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — institutional successor
 • MEM–RUSSIA–MUSCOVY — later state inheritor
 
 GEO (≥2):
@@ -228,21 +228,21 @@ No evaluative conclusions are imposed.
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–RURIK
+MEM INGEST CONFIRMED — MEM–RUSSIA–NOVGOROD–RURIK
 Status: ACTIVE
 Exploration options available.
 
-A) Invitation narrative as legitimacy grammar  
-B) Rurik vs Oleg: acceptance vs integration  
-C) Composite-founder theories in early states  
-D) Dynasty without institutions  
-E) Comparative foreign-founder cases  
-F) Counterfactual: endogenous Rus’ authority  
-G) Chronicle construction & memory stabilization  
+A) Invitation narrative as legitimacy grammar
+B) Rurik vs Oleg: acceptance vs integration
+C) Composite-founder theories in early states
+D) Dynasty without institutions
+E) Comparative foreign-founder cases
+F) Counterfactual: endogenous Rus' authority
+G) Chronicle construction & memory stabilization
 H) Compliance & Integrity Audit (v1.6)
 
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–RURIK v3.0
+END OF FILE — MEM–RUSSIA–NOVGOROD–RURIK v3.0
 ────────────────────────────────────────────────────────────

@@ -220,10 +220,10 @@ Continuity flowed through transformation, not preservation.
 XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–RURIK — founding dynasty
-• MEM–RUSSIA–OLEG–NOVGOROD — early consolidation
-• MEM–RUSSIA–VLADIMIR–GREAT — Christianization pivot
-• MEM–RUSSIA–YAROSLAV–WISE — legal codification
+• MEM–RUSSIA–NOVGOROD–RURIK — founding dynasty
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — early consolidation
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization pivot
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — legal codification
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival under Mongol rule
 • MEM–RUSSIA–MONGOL–EMPIRE — civilizational shock
 • MEM–RUSSIA–MUSCOVY — successor state formation

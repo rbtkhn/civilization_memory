@@ -161,7 +161,7 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY · V2.7)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 required:
-• MEM–RUSSIA–IVAN–IV — reign context and Oprichnina architect
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — reign context and Oprichnina architect
 • MEM–RUSSIA–WAR–POLTAVA — contrast: success after preparation
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — contrast: Baltic access achieved
 • MEM–RUSSIA–WAR–CRIMEAN — modernization failure parallel

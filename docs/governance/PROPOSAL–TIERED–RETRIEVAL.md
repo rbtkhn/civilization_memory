@@ -83,7 +83,7 @@ Follow connection edges from known MEMs:
 ```
 Starting: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
 
-DEPENDS_ON → MEM–RUSSIA–IVAN–IV (coercive apparatus)
+DEPENDS_ON → MEM–RUSSIA–MUSCOVY–IVAN–IV (coercive apparatus)
 ENABLES → MEM–RUSSIA–CATHERINE–GREAT (consolidation)
 PARALLELS → MEM–FRANCIA–LOUIS–XIV (state-building)
 

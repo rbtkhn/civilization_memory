@@ -242,7 +242,7 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — narrative encoded in script
 • MEM–RUSSIA–DYNASTY–RURIKID — dynastic legitimacy replication
 • MEM–RUSSIA–KIEVAN–RUS — early script adoption zone
-• MEM–RUSSIA–VLADIMIR–GREAT — baptismal hinge
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — baptismal hinge
 • MEM–RUSSIA–MONGOL–EMPIRE — collapse with script persistence
 • MEM–RUSSIA–MUSCOVY — script centralization
 • MEM–RUSSIA–ROMANOV — imperial standardization

@@ -252,7 +252,7 @@ Contradictions are preserved without synthesis.
 X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–IVAN–IV — conqueror of Kazan
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — conqueror of Kazan
 • MEM–RUSSIA–ASTRAKHAN — second khanate conquered (1556)
 • MEM–RUSSIA–GOLDEN–HORDE — predecessor state
 • MEM–RUSSIA–SIBERIA — expansion enabled by Kazan

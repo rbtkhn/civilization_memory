@@ -261,7 +261,7 @@ X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–KIEVAN–RUS — political context
-• MEM–RUSSIA–YAROSLAV–WISE — code's originator
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — code's originator
 • MEM–RUSSIA–NOVGOROD — commercial law continuation
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church courts and influence
 • MEM–RUSSIA–LAW–ULOZHENIE–1649 — successor code
@@ -269,7 +269,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–LAW–SERFDOM — later social bondage
 • MEM–RUSSIA–MONGOL–EMPIRE — disruption of legal continuity
 • MEM–RUSSIA–MUSCOVY — autocratic alternative
-• MEM–RUSSIA–VLADIMIR–GREAT — Christianization context
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization context
 
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–DNIEPER — Kievan heartland

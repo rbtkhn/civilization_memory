@@ -1,9 +1,9 @@
-MEM–RUSSIA–IVAN–III — v3.0
+MEM–RUSSIA–MUSCOVY–IVAN–III — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–IVAN–III v2.7
+Supersedes: MEM–RUSSIA–IVAN–III v3.0 (renamed)
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: MUSCOVITE / LATE RURIKID
@@ -217,7 +217,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
 • MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
 • MEM–RUSSIA–NOVGOROD — pluralism annihilated
-• MEM–RUSSIA–IVAN–IV — autocracy intensification
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy intensification
 • MEM–RUSSIA–SERFDOM — coercion substrate
 
 GEO MEMs (≥2):
@@ -256,7 +256,7 @@ XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.0)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-“MEM INGEST CONFIRMED — MEM–RUSSIA–IVAN–III
+“MEM INGEST CONFIRMED — MEM–RUSSIA–MUSCOVY–IVAN–III
 Status: ACTIVE
 Exploration options available.”
 
@@ -288,5 +288,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Klyuchevsky, Vasily. *A History of Russia*. Translated by C.J. Hogarth. New York: E.P. Dutton, 1911.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–IVAN–III v3.0
+END OF FILE — MEM–RUSSIA–MUSCOVY–IVAN–III v3.0
 ────────────────────────────────────────────────────────────

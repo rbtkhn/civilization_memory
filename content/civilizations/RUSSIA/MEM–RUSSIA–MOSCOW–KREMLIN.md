@@ -279,8 +279,8 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
 • MEM–RUSSIA–MOSCOW — city context
-• MEM–RUSSIA–IVAN–III — builder of current walls
-• MEM–RUSSIA–IVAN–IV — Muscovite power consolidation
+• MEM–RUSSIA–MUSCOVY–IVAN–III — builder of current walls
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — Muscovite power consolidation
 • MEM–RUSSIA–DYNASTY–ROMANOV — coronation site
 • MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — capital relocation contrast
 • MEM–RUSSIA–LENIN — Soviet occupation

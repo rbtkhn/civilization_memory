@@ -179,15 +179,15 @@ XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — parent civilizational system
-• MEM–RUSSIA–RURIK — founding dynasty shared
+• MEM–RUSSIA–NOVGOROD–RURIK — founding dynasty shared
 • MEM–RUSSIA–ALEXANDER–NEVSKY — Novgorod's defender against western crusaders
 • MEM–RUSSIA–MUSCOVY — absorbing power that ended Novgorod independence
-• MEM–RUSSIA–IVAN–III — architect of Novgorod's final subjugation
+• MEM–RUSSIA–MUSCOVY–IVAN–III — architect of Novgorod's final subjugation
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — records Novgorod's early history
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — shared religious identity
 • MEM–RUSSIA–KIEV — rival urban center in early Rus' system
-• MEM–RUSSIA–VLADIMIR–GREAT — Christianization context
-• MEM–RUSSIA–YAROSLAV–WISE — early legal frameworks shared
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization context
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — early legal frameworks shared
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–LAKE–ILMEN — Novgorod's geographic base

@@ -155,7 +155,7 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10 same-civilization):
 • MEM–RUSSIA–GOLDEN–HORDE — Origin of Crimean Khanate
-• MEM–RUSSIA–IVAN–IV — Campaign against successor khanates
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — Campaign against successor khanates
 • MEM–RUSSIA–MUSCOVY — State absorbing southern frontier
 • MEM–RUSSIA–CATHERINE–GREAT — Annexation of Crimea
 • MEM–RUSSIA–COSSACKS — Frontier defense force

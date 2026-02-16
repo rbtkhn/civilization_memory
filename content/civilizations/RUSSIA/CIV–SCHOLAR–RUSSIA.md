@@ -110,7 +110,7 @@ These are **structural axioms**, not doctrines.
 Axioms are interpretive anchors, not predictive claims.
 
 AXIOM RUSSIA-001: Authority precedes law.
-  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–IVAN–IV, MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+  Derivation: MEM–RUSSIA–MONGOL, MEM–RUSSIA–MUSCOVY–IVAN–IV, MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
   Scope: All governance pattern analysis
   Limits: Does not apply to pre-Muscovite Rus
 
@@ -125,7 +125,7 @@ AXIOM RUSSIA-003: Survival precedes legitimacy.
   Limits: Peacetime governance may require legitimacy restoration
 
 AXIOM RUSSIA-004: Coercion precedes reform.
-  Derivation: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I, MEM–RUSSIA–STALIN, MEM–RUSSIA–IVAN–IV
+  Derivation: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I, MEM–RUSSIA–STALIN, MEM–RUSSIA–MUSCOVY–IVAN–IV
   Scope: Modernization pattern analysis
   Limits: Does not predict reform success
 
@@ -1010,10 +1010,10 @@ Session 2026-02-03 (LEARN · Panin, quartet, doctrine):
 • WRITE · CIV–DOCTRINE–RUSSIA v3.2: DOCTRINE 03 addendum (institutional/territorial legitimacy modes); DOCTRINE 05 (FISCAL CONSTRAINT AND RESTRAINT PREFERENCE). User authorization via option selection.
 
 Session 2026-02-03 (LEARN · Corridor sequence White Sea bypass → Baltic payoff):
-• Traverse chain: MEM–RUSSIA–GEO–ARCTIC–OCEAN → MEM–RUSSIA–GEO–WHITE–SEA, MEM–RUSSIA–ARKHANGELSK → Muscovy Company (research: charter 1555, monopoly, Alexis 1649, 1698) → MEM–RUSSIA–IVAN–IV (grant as unbuffered sovereign act) → MEM–RUSSIA–WAR–LIVONIAN, MEM–RUSSIA–GEO–BALTIC–SEA (failure = ambition outrunning endurance; Baltic = corridor to European power) → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (1703 commitment, 1721 Nystad consolidation).
+• Traverse chain: MEM–RUSSIA–GEO–ARCTIC–OCEAN → MEM–RUSSIA–GEO–WHITE–SEA, MEM–RUSSIA–ARKHANGELSK → Muscovy Company (research: charter 1555, monopoly, Alexis 1649, 1698) → MEM–RUSSIA–MUSCOVY–IVAN–IV (grant as unbuffered sovereign act) → MEM–RUSSIA–WAR–LIVONIAN, MEM–RUSSIA–GEO–BALTIC–SEA (failure = ambition outrunning endurance; Baltic = corridor to European power) → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (1703 commitment, 1721 Nystad consolidation).
 • Tri-frame: Mercouris — legitimacy precedent (sovereign designates corridor; grant/revocation); Mearsheimer — structural incentive (White Sea bypass when Baltic closed; 1703 payoff when force ratio allowed); Barnes — jurisdiction and liability (who on hook for Arkhangelsk; who gained from decline after 1703).
 • RLL bindings: RLL–0007 (Petrine rupture on Muscovite foundations); RLL–0011 (temporal compression); RLL–0025 (1703/1721 as hinge moments); RLL–0032 (PROPOSED) (outlet control converts corridor)—corridor sequence reinforces 0032.
-• Source MEMs: MEM–RUSSIA–GEO–ARCTIC–OCEAN, MEM–RUSSIA–GEO–WHITE–SEA, MEM–RUSSIA–ARKHANGELSK, MEM–RUSSIA–IVAN–IV, MEM–RUSSIA–WAR–LIVONIAN, MEM–RUSSIA–GEO–BALTIC–SEA, MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I.
+• Source MEMs: MEM–RUSSIA–GEO–ARCTIC–OCEAN, MEM–RUSSIA–GEO–WHITE–SEA, MEM–RUSSIA–ARKHANGELSK, MEM–RUSSIA–MUSCOVY–IVAN–IV, MEM–RUSSIA–WAR–LIVONIAN, MEM–RUSSIA–GEO–BALTIC–SEA, MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I.
 • SYNTHESIS (DRAFT): Corridor sequence—White Sea bypass → Baltic payoff. Claim: Russian maritime corridor logic runs marginal northern hinge (White Sea/Arkhangelsk) as bypass when Baltic blocked (Livonian failure); sovereign grant to external actors (Muscovy Company) as licence, revocable (e.g. Alexis 1649); primary corridor secured when force ratio allows (Peter 1703/1721). Same sovereign grammar: corridor control as sovereign choice; liability and legitimacy follow who designates and who bears cost. Assumptions Box: (1) Bypass and payoff are structural descriptors (Mearsheimer), not only civilizational; (2) Ivan IV grant and Alexis 1649 revocation are same type of act (unbuffered sovereign designation of corridor); (3) 1703 (St Petersburg) and 1721 (Nystad) are commitment and consolidation, not reward-after-victory only. Confidence: TIER 3 (50–70%). Status: DRAFT; cross-check with RLL–0032 (Outlet Control), RLL–0025 (1703/1721 hinges), MEM–RUSSIA–ARCTIC–OCEAN (subject) if present. Linchpin: Assumption (2)—grant and revocation as same sovereign act type.
 
 Session 2026-02-03 (LEARN · Putin legitimacy and Dostoevsky grammar):

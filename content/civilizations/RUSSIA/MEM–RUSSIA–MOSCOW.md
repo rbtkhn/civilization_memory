@@ -413,12 +413,12 @@ Russian (≥10 same-civilization):
   the prior civilizational context. Moscow's gathering of lands was framed
   as Kievan Rus' reconstitution.
 
-• MEM–RUSSIA–IVAN–III — consolidation architect
+• MEM–RUSSIA–MUSCOVY–IVAN–III — consolidation architect
   Dependency: Ivan III completed Moscow's territorial consolidation and
   adopted imperial titles. Section III.A is incomprehensible without
   understanding Ivan III as the specific agent of transformation.
 
-• MEM–RUSSIA–IVAN–IV — autocratic intensification
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — autocratic intensification
   Dependency: Ivan IV's coronation and Oprichnina (Section VI) established
   the terroristic precedent central to Moscow's governance pattern.
   Without Ivan IV, Moscow's autocracy appears merely administrative.

@@ -24,12 +24,12 @@
 **Refinement:** Add RLL–0034 to a continuity insight or new "RLL binding" line; add one bullet in Continuity Insights (Raw) stating that the file illustrates the full four-step legitimacy sequence (order-restoration → ratification → licensed rule → internalisation).  
 **Step(s) of sequence:** All four (narrative spans Rurik → Horde → Muscovy).
 
-### 2. MEM–RUSSIA–RURIK
+### 2. MEM–RUSSIA–NOVGOROD–RURIK
 **Why:** Canonical "invitation" and order-restoration grammar; procedural acceptance of authority regardless of origin. No RLL references.  
 **Refinement:** Add RLL–0034 pointer (step 1: order-restoration). Optionally add to Continuity Insights (Raw): "Encodes step 1 of legitimacy sequence (RLL–0034); authority accepted if it restores order."  
 **Step(s) of sequence:** Step 1 (order-restoration, invitation grammar).
 
-### 3. MEM–RUSSIA–VLADIMIR–GREAT
+### 3. MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I
 **Why:** Baptism and sacralisation as ratification after coercive accession; prince as protector of faith. No RLL references.  
 **Refinement:** Add RLL–0034 pointer (step 2: sacral ratification of authority already achieved). Continuity Insights: note that sacral layer ratifies, does not originate, authority (aligns with 0034).  
 **Step(s) of sequence:** Step 2 (sacral ratification).
@@ -49,7 +49,7 @@
 **Refinement:** Add RLL–0034 (step 4: internalisation when overlordship fragments). In the legitimacy-sequencing or continuity section, state that Muscovy illustrates step 4 of 0034 (one centre internalises licensed machinery).  
 **Step(s) of sequence:** Step 4 (internalisation).
 
-### 7. MEM–RUSSIA–IVAN–III
+### 7. MEM–RUSSIA–MUSCOVY–IVAN–III
 **Why:** Sovereignty converter; Novgorod veche silenced, "one sovereign and not many lords"; tribute machinery internalised (Sofia First Chronicle). Already references RLL–0001, 0003, 0005.  
 **Refinement:** Add RLL–0034 (step 4: internalisation). In Legitimacy Sequencing or MEM Connections, add pointer that Ivan III is the decisive step-4 actor (elimination of plural centres, internalisation of licensed rule).  
 **Step(s) of sequence:** Step 4 (internalisation).
@@ -63,7 +63,7 @@
 
 ## Optional (lower priority)
 
-- **MEM–RUSSIA–YAROSLAV–WISE** — Law as ratification without enforcement monopoly (step 2). Add 0034 if expanding RLL coverage in early Rus’ MEMs.  
+- **MEM–RUSSIA–KIEVAN–RUS–YAROSLAV** — Law as ratification without enforcement monopoly (step 2). Add 0034 if expanding RLL coverage in early Rus’ MEMs.  
 - **MEM–RUSSIA–TIME–TROUBLES** — Succession failure then Assembly of the Land / election of Michael (order-restoration grammar recurrence). Add 0034 step 1 for "election after chaos."  
 - **MEM–RUSSIA–HIST–PRIMARY–CHRONICLE** — Source for invitation narrative (step 1). Add 0034 if adding an RLL line to this MEM.  
 - **MEM–RUSSIA–ALEXANDER–NEVSKY** — Accommodation under overlordship (licensed rule, step 3). Add 0034 if strengthening Horde-era MEM coverage.

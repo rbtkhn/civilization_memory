@@ -94,7 +94,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–LENIN — Provisional Government collapse through sequential abandonment
-• MEM–RUSSIA–IVAN–IV — Elite destruction creating cascading institutional failure
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — Elite destruction creating cascading institutional failure
 • MEM–RUSSIA–DYNASTY–ROMANOV — Recurring succession vulnerability across 304 years
 
 ────────────────────────────────────────────────────────────
@@ -133,7 +133,7 @@ Primary MEMs:
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA — Maximum
   escalation (existential invasion) and system survival through depth
   [concepts: strategic_depth, compression_under_pressure]
-• MEM–RUSSIA–IVAN–IV — Escalation without institutional restraint;
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — Escalation without institutional restraint;
   unbuffered sovereignty producing self-destructive overreach
   [concepts: coercive_enforcement, personal_exposure]
 
@@ -179,7 +179,7 @@ Primary MEMs:
 • MEM–RUSSIA–NICHOLAS–II — Personal decision-making accelerating regime
   collapse; autocrat unable to delegate or adapt
   [concepts: reform_failure, personal_exposure, defection_incentive]
-• MEM–RUSSIA–IVAN–IV — Limit case of unbuffered sovereignty; personal
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — Limit case of unbuffered sovereignty; personal
   psychology directly shaping state destruction
   [concepts: coercive_enforcement, personal_exposure, succession_crisis]
 • MEM–RUSSIA–STALIN — Personalist terror distorting military and

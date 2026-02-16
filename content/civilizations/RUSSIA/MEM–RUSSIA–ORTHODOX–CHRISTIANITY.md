@@ -211,8 +211,8 @@ X. MEM CONNECTIONS (MANDATORY)
 RUSSIA (≥10):
 • MEM–RUSSIA–VARANGIANS — pre-Christian substrate; conversion follows Varangian arrival
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source of Christianization narrative and legitimacy claims
-• MEM–RUSSIA–VLADIMIR–GREAT — architect of 988 baptism; establishes Orthodox foundation
-• MEM–RUSSIA–YAROSLAV–WISE — consolidates church-state symbiosis; builds Sophia cathedral
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — architect of 988 baptism; establishes Orthodox foundation
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — consolidates church-state symbiosis; builds Sophia cathedral
 • MEM–RUSSIA–ALEXANDER–NEVSKY — Orthodox defender against Latin pressure; saint-prince archetype
 • MEM–RUSSIA–MONGOL–EMPIRE — Orthodoxy survives Mongol domination as identity keeper
 • MEM–RUSSIA–GOLDEN–HORDE — church preservation under non-Christian overlordship

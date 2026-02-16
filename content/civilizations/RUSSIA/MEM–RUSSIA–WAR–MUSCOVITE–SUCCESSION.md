@@ -362,7 +362,7 @@ XIII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–RUSSIA–DMITRY–DONSKOY — testament creating ambiguity
 • MEM–RUSSIA–VASILY–II — central protagonist of the conflict
-• MEM–RUSSIA–IVAN–III — heir who inherited consolidated power
+• MEM–RUSSIA–MUSCOVY–IVAN–III — heir who inherited consolidated power
 • MEM–RUSSIA–GOLDEN–HORDE — arbiter of grand princely succession
 • MEM–RUSSIA–MOSCOW — prize of the conflict
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — legitimation through hierarchy

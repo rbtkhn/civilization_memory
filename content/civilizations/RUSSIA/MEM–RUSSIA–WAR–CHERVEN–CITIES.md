@@ -378,8 +378,8 @@ resolution.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10 same-civilization):
-• MEM–RUSSIA–VLADIMIR–GREAT — Conquest initiator and Orthodox conversion
-• MEM–RUSSIA–YAROSLAV–WISE — Reconquest and territorial consolidation
+• MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Conquest initiator and Orthodox conversion
+• MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — Reconquest and territorial consolidation
 • MEM–RUSSIA–KIEVAN–RUS — State structure enabling western expansion
 • MEM–RUSSIA–DYNASTY–RURIKID — Succession politics driving territorial change
 • MEM–RUSSIA–WAR–MONGOLS–KIEV — Disruption enabling western territorial loss
