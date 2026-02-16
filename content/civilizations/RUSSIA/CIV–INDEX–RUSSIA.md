@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.8
+CIV–INDEX–RUSSIA — v3.10
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.8
-Supersedes: CIV–INDEX–RUSSIA v3.7
-Upgrade Type: FULL DIRECTORY SYNC
+Version: 3.10
+Supersedes: CIV–INDEX–RUSSIA v3.9
+Upgrade Type: NEW MEM REGISTRATION (SCI SUBCLASS)
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,23 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.10) — NEW MEM REGISTRATION (SCI SUBCLASS)
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–SCI–KOROLEV.md — G) PERSON (SCI; space program; hidden architect)
+• MEM–RUSSIA–SCI–KURCHATOV.md — G) PERSON (SCI; nuclear project; compression)
+• MEM–RUSSIA–SCI–LOBACHEVSKY.md — G) PERSON (SCI; non-Euclidean; periphery)
+• MEM–RUSSIA–SCI–LOMONOSOV.md — G) PERSON (SCI; Moscow University; post-rupture)
+• MEM–RUSSIA–SCI–MENDELEEV.md — G) PERSON (SCI; periodic table; order/system)
+• MEM–RUSSIA–SCI–SAKHAROV.md — G) PERSON (SCI; restraint voice; RLL–0033)
+Total: 192 → 198. G) PERSON: 27 → 33.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.9) — NEW MEM REGISTRATION
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–LAVROV.md — G) PERSON (Sergei Lavrov; FM 2004–present; institutional voice vs sovereign choice; Lavrov–Panin diagnostic)
+Total: 191 → 192. G) PERSON: 26 → 27.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.8) — FULL DIRECTORY SYNC
@@ -380,8 +397,14 @@ G) PERSON
 • MEM–RUSSIA–FYODOR–III.md
 • MEM–RUSSIA–IVAN–III.md
 • MEM–RUSSIA–IVAN–IV.md
+• MEM–RUSSIA–KOROLEV.md
+• MEM–RUSSIA–KURCHATOV.md
 • MEM–RUSSIA–KUTUZOV.md
+• MEM–RUSSIA–LAVROV.md
 • MEM–RUSSIA–LENIN.md
+• MEM–RUSSIA–LOBACHEVSKY.md
+• MEM–RUSSIA–LOMONOSOV.md
+• MEM–RUSSIA–MENDELEEV.md
 • MEM–RUSSIA–MICHAEL–ROMANOV.md
 • MEM–RUSSIA–NICHOLAS–I.md
 • MEM–RUSSIA–NICHOLAS–II.md
@@ -391,6 +414,7 @@ G) PERSON
 • MEM–RUSSIA–PETER–GREAT.md
 • MEM–RUSSIA–POTEMKIN.md
 • MEM–RUSSIA–RURIK.md
+• MEM–RUSSIA–SAKHAROV.md
 • MEM–RUSSIA–STALIN.md
 • MEM–RUSSIA–SUVOROV.md
 • MEM–RUSSIA–VLADIMIR–GREAT.md
@@ -517,7 +541,7 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,800
-TOTAL REGISTERED FILES: One hundred ninety-one (191) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred ninety-eight (198) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 31 files
@@ -526,10 +550,10 @@ Category Breakdown:
 • D) LAW: 6 files
 • E) ECON: 0 files
 • F) RELIGION: 2 files
-• G) PERSON: 26 files
+• G) PERSON: 33 files
 • H) HIST: 3 files
 • I) OTHER: 59 files
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v3.8
+END OF FILE — CIV–INDEX–RUSSIA — v3.10

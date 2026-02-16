@@ -116,6 +116,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–PANIN — Equilibrium diplomacy as alternative to unilateral expansion
+• MEM–RUSSIA–LAVROV — Institutional voice vs sovereign choice; Lavrov–Panin diagnostic for reading MFA rhetoric and red lines
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — 350 years of war termination and resumption cycles
 • MEM–RUSSIA–CATHERINE–GREAT — Diplomatic balancing between expansion and coalition management
 
@@ -162,6 +163,7 @@ Primary MEMs:
 Secondary MEMs:
 • MEM–RUSSIA–GOLDEN–HORDE — Tributary partnership model; compliance under asymmetric power
 • MEM–RUSSIA–CATHERINE–GREAT — Operational quartet as internal elite partnership management
+• MEM–RUSSIA–LAVROV — MFA as institutional voice; Lavrov–Panin diagnostic for diplomatic rhetoric
 • MEM–RUSSIA–PUTIN — China/BRICS partnership as contemporary strategic diversification
 
 ────────────────────────────────────────────────────────────
@@ -327,6 +329,24 @@ chokepoint:
 
 regional_hegemony:
   CONGRESS–VIENNA, PUTIN, WAR–RUSSO–TURKISH, GEO–CRIMEA, CRIMEA (subject)
+
+science_under_compression:
+  SCI–KURCHATOV
+
+scientist_as_restraint_voice:
+  SCI–SAKHAROV, PANIN
+
+institutionalisation_after_rupture:
+  SCI–LOMONOSOV, PETER–GREAT
+
+order_and_system:
+  SCI–MENDELEEV
+
+rupture_from_periphery:
+  SCI–LOBACHEVSKY
+
+state_directed_breakthrough:
+  SCI–KURCHATOV, SCI–KOROLEV
 
 ────────────────────────────────────────────────────────────
 XII. MAINTENANCE

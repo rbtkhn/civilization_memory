@@ -225,7 +225,7 @@ Russian (≥10):
 • MEM–RUSSIA–FOLK–MUSIC — nationalist source material
 • MEM–RUSSIA–MONGOL–EMPIRE — Polovtsian/steppe themes
 • MEM–RUSSIA–KIEVAN–RUS — *Prince Igor* historical setting
-• MEM–RUSSIA–SCIENCE — chemistry career and identity
+• MEM–RUSSIA–SCI–MENDELEEV — chemistry career and identity; imperial science
 • MEM–RUSSIA–INTELLIGENTSIA — educated elite culture
 • MEM–RUSSIA–OPERA — national opera tradition
 

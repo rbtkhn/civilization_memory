@@ -33,7 +33,7 @@ Lock Semantics:
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v3.1 is the **constraint grammar layer**
+CIV–SCHOLAR–RUSSIA v3.3 is the **constraint grammar layer**
 governing all Russian civilizational interpretation across MEM,
 CORE, DOCTRINE, GAME, and SIMULATION contexts.
 
@@ -917,7 +917,7 @@ EPHEMERAL:
 ────────────────────────────────────────────────────────────
 XIV. OGE IN LEARN MODE
 ────────────────────────────────────────────────────────────
-LEARN mode uses OGE to direct discovery. Exactly 8 options (A–H) per substantive turn; 6–10 words each, one line; concrete anchor per option. A/B/C: load MIND when selected; response 100–200 words, frame/voice per MIND. D: multi-mind (M→M'→B→M wrap-up). E: traverse backward (same-civ MEM); F: traverse forward (same-civ MEM); G: traverse cross-civ (cross-civ MEM). H: synthesis + recap + follow-on (b)/(c)/(a). POST-BARNES: M/M response options. See cmc-oge-enforcement, OGE_ARCHITECTURE v1.9.
+LEARN mode uses OGE to direct discovery. Exactly 8 options (A–H) per substantive turn; 10–20 words per option, one line; concrete anchor per option. A/B/C: load MIND when selected; response 100–200 words, frame/voice per MIND. D: multi-mind (M→M'→B→M wrap-up). E: traverse backward (same-civ MEM); F: traverse forward (same-civ MEM); G: traverse cross-civ (cross-civ MEM). H: synthesis + recap + follow-on (b)/(c)/(a). POST-BARNES: M/M response options. See cmc-oge-enforcement, OGE_ARCHITECTURE v1.9.
 
 OGE categories:
 1. Ingestion
@@ -1083,7 +1083,7 @@ v2.2.1 changes:
 ────────────────────────────────────────────────────────────
 XVI. END-OF-FILE DECLARATION
 ────────────────────────────────────────────────────────────
-CIV–SCHOLAR–RUSSIA v3.1 is declared:
+CIV–SCHOLAR–RUSSIA v3.3 is declared:
 
 • CANONICAL
 • LOCKED
@@ -1131,5 +1131,5 @@ As per CIV–SCHOLAR–TEMPLATE v3.0 Section XIV:
 Frozen SYNTHESIS without Assumptions Box or (when applicable) ACH Record is INVALID.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–RUSSIA v3.1
+END OF FILE — CIV–SCHOLAR–RUSSIA v3.3
 ────────────────────────────────────────────────────────────

@@ -166,7 +166,21 @@ acquire them quickly."
 
 Observation becomes imperative.
 
-III.A REALIST SHARPENING: POWER DISTRIBUTION
+III.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*) frames British imperial expansion as the
+vector for liberal capitalism and the rule of law; Russian
+modernization under Peter took a coercive, state-led path. The
+contrast sharpens the MEM's theme: Peter did not emulate British
+commercial or institutional diffusion—he extracted and imposed.
+
+> "Without the spread of British rule around the world, it is hard to
+> believe that the structures of liberal capitalism would have been
+> so successfully established in so many different economies around
+> the world."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
+
+III.B REALIST SHARPENING: POWER DISTRIBUTION
 ────────────────────────────────────────────────────────────
 The fear framing captures psychology. The structural driver is
 power distribution.
@@ -556,6 +570,8 @@ Secondary:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Allen Lane, 2003. [ARC–RUSSIA Category D]
 • Massie, Robert K. *Peter the Great: His Life and World*. New York: Knopf, 1980.
 • Pushkin, Alexander. *The Bronze Horseman* (1833). Trans. Walter Arndt.
   In *Pushkin Threefold*. New York: E. P. Dutton, 1972.

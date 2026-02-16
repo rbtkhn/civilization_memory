@@ -1,14 +1,14 @@
-CIV–STATE–RUSSIA — v1.9
+CIV–STATE–RUSSIA — v2.0
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.9
-Supersedes: CIV–STATE–RUSSIA v1.8
-Upgrade Type: FOUNDATIONAL PERSPECTIVE — STATE LEARNS FROM SCHOLAR
+Version: 2.0
+Supersedes: CIV–STATE–RUSSIA v1.9
+Upgrade Type: CONTENT — DECISION-RELEVANT HISTORY
 Entity: Russia / Russian Federation
 Classification: CIVILIZATION-STATE
 Active: YES
-Last Updated: 11 February 2026
+Last Updated: 16 February 2026
 
 This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
@@ -1131,6 +1131,30 @@ PATTERN: Engage to Outlast
   absorbed. The June deadline lacks the forcing mechanism that
   made Paris and Portsmouth binding.
 
+PATTERN: Institutional Voice vs Sovereign Choice (Lavrov–Panin)
+  Activation: MODERATE (diagnostic)
+  Source: SCHOLAR LEARN session (Lavrov–Panin discussion, Feb 2026);
+          MEM–RUSSIA–PANIN
+  Relevance: When assessing Russian foreign policy or diplomatic
+  rhetoric, discriminate between (1) the FM as articulator of
+  restraint—system-diplomacy, equilibrium, negotiated order—whose
+  advice may be overridden by the sovereign (Panin under Catherine),
+  and (2) the FM as executor and public face of a sovereign choice
+  already made (expansion, confrontation, territorial lock-in).
+  In MEM–RUSSIA–PANIN, Catherine kept Panin's diplomatic
+  infrastructure but repurposed it: "The system Panin built would
+  be used to secure conquests, not to restrain them." Panin's late
+  letter to Golitsyn (c. 1778): "architecture restrains ambition
+  only so long as rulers value security above glory; when glory
+  becomes policy, systems yield to conquest." Liability sits with
+  the sovereign who chooses; the minister at the podium carries
+  exposure when he is executing, not restraining. Use this pattern
+  to interpret MFA statements (e.g. multipolarity, international
+  law): do they signal openness to restraint or legitimise a path
+  already chosen? Supports discrimination between genuine
+  diplomatic opening and diplomatic performance (see Engage to
+  Outlast).
+
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
@@ -1467,6 +1491,16 @@ ENTRY 011 — 11 February 2026
   added. No substantive STATE content changes; source versions now
   match actual files. Synced with Scholar–Russia v3.3.
 
+ENTRY 012 — 16 February 2026
+  Session: SCHOLAR LEARN (Lavrov–Panin discussion); follow-on (c)
+  Change: Section VII — new pattern "Institutional Voice vs
+  Sovereign Choice (Lavrov–Panin)" added. Diagnostic for reading
+  Russian FM/diplomatic rhetoric: Panin-type (restraint articulated,
+  potentially overridden) vs executor of sovereign choice (expansion/
+  confrontation). Source: MEM–RUSSIA–PANIN; LEARN session synthesis.
+  Supports discrimination between genuine diplomatic opening and
+  diplomatic performance (Engage to Outlast). Activation: MODERATE.
+
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–RUSSIA v1.6
+END OF FILE — CIV–STATE–RUSSIA v2.0
 ────────────────────────────────────────────────────────────

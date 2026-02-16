@@ -62,6 +62,21 @@ limited access was better than none."
 
 Arkhangelsk was **the bypass around Baltic exclusion**.
 
+II.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*) frames British expansion as demographic and
+commercial: millions left the British Isles to settle and trade
+abroad. Arkhangelsk was one node of that expansion—English discovery
+of the White Sea route and the Muscovy Company tied Russia into
+British overseas trade. Ferguson's comparative-empire lens
+supplements the Russian-primary narrative of "first window to the West."
+
+> "Between the early 1600s and the 1950s, more than 20 million people
+> left the British Isles to begin new lives across the seas. Only a
+> minority ever returned. No other country in the world came close to
+> exporting so many of its inhabitants."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
+
 ────────────────────────────────────────────────────────────
 III. GOLDEN AGE: MONOPOLY ON WESTERN TRADE (1584–1703)
 ────────────────────────────────────────────────────────────
@@ -276,6 +291,8 @@ Each connection is structurally required.
 XI. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 Category D (Modern Scholarship):
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Allen Lane, 2003. [ARC–RUSSIA Category D]
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
   *Foreign Affairs* 93, no. 5 (2014).
 • Bushkovitch, Paul. *Peter the Great: The Struggle for Power, 1671–1725*.

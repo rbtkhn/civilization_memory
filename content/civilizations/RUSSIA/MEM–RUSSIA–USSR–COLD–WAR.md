@@ -61,6 +61,20 @@ Key markers:
 The post-war order **divided at the Elbe**; the Cold War was the
 management of that division.
 
+II.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*, *The War of the World*) frames the
+transition from wartime alliance to Cold War in terms of imperial
+sacrifice: Britain's choice to spend its empire to defeat the Axis
+prefigured the bipolar order and the exhaustion of European imperial
+capacity. Comparative-empire framing situates the Cold War within
+the broader descent-of-the-West narrative.
+
+> "In the end, the British sacrificed her Empire to stop the Germans,
+> Japanese and Italians from keeping theirs. Did not that sacrifice
+> alone expunge all the Empire's other sins?"
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
+
 ────────────────────────────────────────────────────────────
 III. COMPETITION: IDEOLOGY AND SYSTEMS
 ────────────────────────────────────────────────────────────
@@ -217,6 +231,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Allen Lane, 2003. [ARC–RUSSIA Category D]
 • Kissinger, Henry. *Diplomacy*. New York: Simon & Schuster, 1994.
 • Kissinger, Henry. *Years of Upheaval*. Boston: Little, Brown, 1982.
 • Westad, Odd Arne. *The Cold War: A World History*. New York:

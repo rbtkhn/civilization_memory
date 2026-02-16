@@ -67,6 +67,23 @@ Errors:
 Japan fights as a modern system.
 Russia fights as an aging empire.
 
+III.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*The War of the World*) frames the Russo–Japanese
+War as a clash of modernization models: Japan had internalized
+European military and industrial discipline; Russia had not. The
+defeat was read at the time—including by Tolstoy—as the triumph of
+Western materialism. Ferguson's comparative-empire lens situates
+1905 within the descent-of-the-West and rise-of-Asia narrative.
+
+> "The Japanese had won by being more European than the Russians;
+> their ships were more modern, their troops better disciplined,
+> their artillery more effective. To Leo Tolstoy, the titan of Russian
+> letters, Japan's victory looked like a straightforward triumph of
+> Western materialism."
+> — Niall Ferguson, *The War of the World: Twentieth-Century
+> Conflict and the Descent of the West* (2006)
+
 ────────────────────────────────────────────────────────────
 IV. OPERATIONAL FAILURE & LOGISTICAL REALITY
 ────────────────────────────────────────────────────────────
@@ -294,6 +311,9 @@ Cross-Civilizational:
 ────────────────────────────────────────────────────────────
 XII. MEM BIBLIOGRAPHY (V2.7)
 ────────────────────────────────────────────────────────────
+• Ferguson, Niall. *The War of the World: Twentieth-Century Conflict
+  and the Descent of the West*. New York: Penguin, 2006.
+  [ARC–RUSSIA Category D]
 • Mearsheimer, John J. "Why the Ukraine Crisis Is the West's Fault."
   *Foreign Affairs* 93, no. 5 (2014).
 Primary Military History Sources:

@@ -62,6 +62,21 @@ produced Napoleon**.
 
 Vienna becomes the institutionalization of that fact.
 
+II.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*Empire*) frames the British Empire as an agency for
+imposing free markets, the rule of law, and investor protection across
+a quarter of the world. At Vienna, Russia and Britain both shaped the
+post-Napoleonic order; Britain's role rested on naval and commercial
+reach and institutional export. Ferguson's comparative lens
+illuminates the contrast between Russian legitimacy-by-sacrifice and
+British legitimacy-by-trade-and-governance.
+
+> "British Empire acted as an agency for imposing free markets, the
+> rule of law, investor protection and relatively incorrupt government
+> on roughly a quarter of the world."
+> — Niall Ferguson, *Empire: How Britain Made the Modern World* (2003)
+
 ────────────────────────────────────────────────────────────
 III. RUSSIAN OBJECTIVES AT VIENNA
 ────────────────────────────────────────────────────────────
@@ -251,6 +266,8 @@ Category B (Primary/Near-Primary):
 • Holy Alliance texts
 
 Category D (Modern Scholarship):
+• Ferguson, Niall. *Empire: How Britain Made the Modern World*.
+  London: Allen Lane, 2003. [ARC–RUSSIA Category D]
 • Schroeder, Paul. *The Transformation of European Politics 1763–1848*
 • Zamoyski, Adam. *Rites of Peace: The Fall of Napoleon and the Congress of Vienna*
 • Jarrett, Mark. *The Congress of Vienna and Its Legacy*

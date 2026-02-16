@@ -88,6 +88,22 @@ collapse quickly, but visibly failing."
 
 Gorbachev attempted to adapt; the attempt **destabilized** the structure.
 
+III.A FERGUSON FRAME (COMPARATIVE EMPIRE · ARC–RUSSIA CATEGORY D)
+────────────────────────────────────────────────────────────
+Niall Ferguson (*The War of the World*) frames twentieth-century
+imperial collapse in terms of ethnic mix, economic volatility, and
+imperial fault lines: when empires mutate into nation-states or lose
+coherence, violence follows. The Soviet Union's dissolution fits this
+pattern—multiethnic polity, economic crisis, and imperial boundaries
+becoming fault lines. Ferguson's comparative framing supplements
+Russian-primary scholarship on the collapse.
+
+> "Places that were ethnically very mixed, that experienced economic
+> volatility, and that were located on a sort of imperial fault line
+> were likely to experience extreme violence in the 20th century."
+> — Niall Ferguson, *The War of the World: Twentieth-Century Conflict
+> and the Descent of the West* (2006)
+
 ────────────────────────────────────────────────────────────
 IV. END OF THE COLD WAR
 ────────────────────────────────────────────────────────────
@@ -235,6 +251,9 @@ Secondary:
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Ferguson, Niall. *The War of the World: Twentieth-Century Conflict
+  and the Descent of the West*. New York: Penguin, 2006.
+  [ARC–RUSSIA Category D]
 • Brown, Archie. *The Gorbachev Factor*. Oxford: Oxford University
   Press, 1996.
 • Plokhy, Serhii. *The Last Empire: The Final Days of the Soviet
