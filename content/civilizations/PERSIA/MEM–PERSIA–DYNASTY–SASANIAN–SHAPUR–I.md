@@ -1,4 +1,4 @@
-MEM–PERSIA–EMPIRE–SHAPUR–I — v1.1
+MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -157,7 +157,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ROME — the conflict Shapur escalated
 • MEM–PERSIA–WAR–CARRHAE — Parthian precedent; denial doctrine
 • MEM–PERSIA–ZOROASTER — sacral kingship, khvarenah
-• MEM–PERSIA–EMPIRE–KHOSROW–II — later Sasanian overreach (contrast)
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — later Sasanian overreach (contrast)
 • MEM–PERSIA–ARMENIA — contested buffer under Shapur
 • MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial continuity
 • MEM–PERSIA–DYNASTY–ACHAEMENID — restoration claims
@@ -194,9 +194,9 @@ XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–SHAPUR–I
+MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–SHAPUR–I — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.1
 ────────────────────────────────────────────────────────────

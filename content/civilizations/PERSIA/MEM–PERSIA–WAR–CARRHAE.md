@@ -1,9 +1,9 @@
-MEM–PERSIA–WAR–CARRHAE — v1.4
+MEM–PERSIA–WAR–CARRHAE — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.4
+Version: 1.5
 Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Regime: PARTHIAN (ARSACID)
@@ -127,7 +127,14 @@ Edward Gibbon frames the structural consequence:
 > fear, was henceforth regarded as the natural limit of conquest."  
 > — Edward Gibbon, *Decline and Fall*, ch. I
 
-Persia does not conquer Rome. Persia **denies** Rome—and that is enough.
+Adrian Goldsworthy frames the seven-century relationship that Carrhae inaugurates: clash and trade, respect and limit.
+
+> "Despite their endless clashes, trade between the empires enriched
+> them both, and a mutual respect prevented both Rome and Persia from
+> permanently destroying the other."
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
+
+Persia does not conquer Rome. Persia **denies** Rome—and that is enough. The boundary Carrhae establishes becomes the condition for the long parity that follows.
 
 ────────────────────────────────────────────────────────────
 VI. MEARSHEIMER ASSESSMENT
@@ -155,12 +162,13 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ALEXANDER — prior conquest trauma; Carrhae as reversal
 • MEM–PERSIA–WAR–SCYTHIAN — denial precedent (Scythians vs Darius); nomadic resistance
 Other PERSIA:
+• MEM–PERSIA–DYNASTY–PARTHIAN — Parthian dynasty; denial doctrine; Carrhae as founding proof
 • MEM–PERSIA–DYNASTY–SASANIAN — Sasanians inherit Parthian denial doctrine
 • MEM–PERSIA–DYNASTY–ACHAEMENID — imperial continuity
 • MEM–PERSIA–ZOROASTER — endurance as moral duty
 • MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — sovereignty through restraint
-• MEM–PERSIA–EMPIRE–SHAPUR–I — later Roman humiliation (Valerian)
-• MEM–PERSIA–EMPIRE–KHOSROW–II — terminal Roman–Persian war
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — later Roman humiliation (Valerian)
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal Roman–Persian war
 • MEM–PERSIA–ARMENIA — buffer contested at Carrhae margins
 • MEM–PERSIA–ISLAM — post-exhaustion absorption
 
@@ -191,7 +199,7 @@ X. BIBLIOGRAPHY
 • Herodotus, *Histories* — Persian civilizational context
 • Cassius Dio, *Roman History*, Book XL — Roman shock
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* — Structural consequence
-• Adrian Goldsworthy, *Rome and Persia* — Modern synthesis
+• Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023) — parity, trade, boundary; Carrhae as founding moment; book description
 • Pierre Briant, *From Cyrus to Alexander* — Achaemenid/Parthian continuity
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — cavalry tradition, Parthian shot; FiveBooks interview (2020)
 
@@ -202,5 +210,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–WAR–CARRHAE
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.4
+END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.5
 ────────────────────────────────────────────────────────────

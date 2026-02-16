@@ -1,8 +1,8 @@
-MEM–PERSIA–DYNASTY–SASANIAN — v1.1
+MEM–PERSIA–DYNASTY–SASANIAN — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
+Version: 1.2
 Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
 Civilization: PERSIA
 Subject: Sasanian Dynasty
@@ -45,7 +45,15 @@ Sasanian strategy emphasized:
 
 Power was hardened inward before being projected outward.
 
-Incremental tightening replaced loose confederation.
+Adrian Goldsworthy contrasts Sasanian with Parthian strategy (full formulation in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I):
+
+> "The Sassanids were not the Parthians. Where the Arsacids had been
+> content to raid and negotiate, Shapur sought conquest and permanent
+> humiliation of Rome. He wanted not just victory but the destruction
+> of Roman pretensions to universal empire."
+> — Adrian Goldsworthy, *Rome and Persia*
+
+Incremental tightening replaced loose confederation. The Sasanians chose centralization and sacral authority over Parthian-style confederation and negotiation.
 
 ────────────────────────────────────────────────────────────
 IV. SACRAL & COSMOLOGICAL LEGITIMACY
@@ -101,6 +109,7 @@ Empire fell; civilization persisted.
 VIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
+• Adrian Goldsworthy, *Rome and Persia* (2023) — Sasanian vs Parthian; centralization vs raid/negotiate
 • Touraj Daryaee, *Sasanian Persia* — dynasty, ideology
 • Matthew Canepa, *The Two Eyes of the Earth* — sacral kingship
 
@@ -114,5 +123,5 @@ VII. CONTINUITY INSIGHTS (RAW)
 • The Sasanians made Persian sovereignty hard, formal, and transmissible.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.2
 ────────────────────────────────────────────────────────────

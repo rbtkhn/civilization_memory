@@ -145,7 +145,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ALEXANDER — Alexander takes Ecbatana
 • MEM–PERSIA–EGYPT — Median period precedes Persian Egypt
 • MEM–PERSIA–ZOROASTER — Median territory; possible Zoroastrian transmission
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Iranian kingship invokes pre-Achaemenid past
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Iranian kingship invokes pre-Achaemenid past
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — plateau geography

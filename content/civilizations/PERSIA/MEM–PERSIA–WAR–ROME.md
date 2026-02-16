@@ -1,9 +1,9 @@
-MEM–PERSIA–WAR–ROME — v2.1
+MEM–PERSIA–WAR–ROME — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.1
+Version: 2.2
 Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
@@ -40,8 +40,15 @@ Key asymmetry:
 Rome seeks expansion and finality.
 Persia seeks balance, denial, and endurance.
 
-The war has no terminal victory condition. Al-Tabari's chronicle
-encodes the enduring pattern from the Persianate perspective:
+The war has no terminal victory condition. Adrian Goldsworthy
+frames the seven-century outcome:
+
+> "Despite their endless clashes, trade between the empires enriched
+> them both, and a mutual respect prevented both Rome and Persia from
+> permanently destroying the other."
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
+
+Al-Tabari's chronicle encodes the enduring pattern from the Persianate perspective:
 
 > "The Persians and the Romans fought many wars. When the king of
 > kings was victorious he would take the Roman lands and cities; when
@@ -191,26 +198,28 @@ XI. MEM CONNECTIONS
 PERSIA WAR corpus (sibling integration):
 • MEM–PERSIA–WAR–CARRHAE — founding battle; denial doctrine; Parthian phase
 • MEM–PERSIA–WAR–ALEXANDER — Goldsworthy: region Alexander swept through; terrain of contest
-• MEM–PERSIA–EMPIRE–SHAPUR–I — Valerian; Sasanian phase
-• MEM–PERSIA–EMPIRE–KHOSROW–II — terminal war; overextension; exhaustion
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Valerian; Sasanian phase
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal war; overextension; exhaustion
 • MEM–PERSIA–GEO–LEVANT — parity theater; reach without hold
 • MEM–PERSIA–ARMENIA — buffer; Roman–Persian stakes
+• MEM–PERSIA–ROMAN–EMPIRE — Rome as parity rival in Persian memory; encoding of Rūm
 • MEM–PERSIA–PALMYRA — post-Valerian counterweight
 • MEM–PERSIA–DYNASTY–SASANIAN — Sasanian parity war
 • MEM–PERSIA–EGYPT — Khosrow's extension; Levant–Egypt axis
 • MEM–PERSIA–ISLAM — stacked exhaustion; both lose Levant
 
-Breaks if removed: MEM–PERSIA–WAR–CARRHAE (founding); MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–EMPIRE–KHOSROW–II (terminal phase).
+Breaks if removed: MEM–PERSIA–WAR–CARRHAE (founding); MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II (terminal phase).
 
 ────────────────────────────────────────────────────────────
 XIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth (SUNY) — ARC–PERSIA-T-MEDIEVAL; Roman–Persian wars
+• Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023) — parity outcome; neither permanently destroyed the other; ARC–PERSIA-T-MODERN
 • Tacitus, *Annals*, II.1–4 (ARC–ROME) — Parthian legitimacy; Vonones; parity as legitimacy contest
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — civilizational contrast, Orientalism; FiveBooks interview (2020)
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ROME — v2.1
+END OF FILE — MEM–PERSIA–WAR–ROME — v2.2
 ────────────────────────────────────────────────────────────

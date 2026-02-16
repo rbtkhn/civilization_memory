@@ -1,8 +1,8 @@
-MEM–PERSIA–EMPIRE — v1.0
+MEM–PERSIA–EMPIRE — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.2
 Civilization: PERSIA
 Subject: Empire as recurring institutional form (Achaemenid–Sasanian sequence)
 Dates: c. 550 BC – 651 AD (classical imperial sequence); form reconstitutes
@@ -84,12 +84,26 @@ Empire scales through **modular governance**: satrapies, local law preserved und
 > monarchs have levied tribute."
 > — Herodotus, *Histories*, III.89
 
-The Achaemenids govern **difference as a feature**; the Sasanians tighten centralization but retain the idea of a core (Iranian plateau, sacral center) and periphery (frontier, client, parity zones). Structural constraint: in **parity zones** (e.g. Levant), conquest does not imply consolidation—overextension invites reversal and exhaustion (see MEM–PERSIA–EMPIRE–KHOSROW–II, MEM–PERSIA–GEO–LEVANT). Empire therefore has **geographic grammar**: buffer, chokepoint, periphery, parity. Incentives differ by zone; no single hegemony rule applies everywhere.
+Will Durant frames the limit of imperial integration:
+
+> "In its two hundred years of empire Persia did nothing to lessen this
+> heterogeneity, these centrifugal forces; she was content to rule a mob
+> of nations, and never thought of making them into a state."
+> — Will Durant, *Our Oriental Heritage* (1935), Ch. IX (Decadence – Persia); ARC–PERSIA-T-MODERN
+
+The Achaemenids govern **difference as a feature**; the Sasanians tighten centralization but retain the idea of a core (Iranian plateau, sacral center) and periphery (frontier, client, parity zones). Structural constraint: in **parity zones** (e.g. Levant), conquest does not imply consolidation—overextension invites reversal and exhaustion (see MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II, MEM–PERSIA–GEO–LEVANT). Empire therefore has **geographic grammar**: buffer, chokepoint, periphery, parity. Incentives differ by zone; no single hegemony rule applies everywhere.
 
 ────────────────────────────────────────────────────────────
 V. PARITY WARFARE & EXHAUSTION
 ────────────────────────────────────────────────────────────
-Roman–Persian relations institutionalize **parity warfare** over centuries. Neither side achieves lasting closure; gains reverse. Al-Tabari's chronicle encodes the rhythm:
+Roman–Persian relations institutionalize **parity warfare** over centuries. Neither side achieves lasting closure; gains reverse. Goldsworthy summarizes the structural outcome:
+
+> "Despite their endless clashes, trade between the empires enriched
+> them both, and a mutual respect prevented both Rome and Persia from
+> permanently destroying the other."
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
+
+Al-Tabari's chronicle encodes the rhythm:
 
 > "The Persians and the Romans fought many wars. When the king of
 > kings was victorious he would take the Roman lands and cities; when
@@ -108,6 +122,18 @@ Persian empire **does not recover from shocks by returning to the prior state**;
 > reputation from the grave, and men of sense and wisdom will proclaim,
 > when I have gone, my praises and my fame."
 > — Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis; ARC–PERSIA-T-MEDIEVAL
+
+Durant compresses the Achaemenid trajectory and the structural cause of imperial disintegration:
+
+> "Cyrus and Darius created Persia, Xerxes inherited it, his successors
+> destroyed it."
+> — Will Durant, *Our Oriental Heritage* (1935), Ch. IX (Decadence – Persia); ARC–PERSIA-T-MODERN
+
+> "It is in the nature of an empire to disintegrate soon, for the energy
+> that created it disappears from those who inherit it, at the very time
+> that its subject peoples are gathering strength to fight for their
+> lost liberty."
+> — Will Durant, *Our Oriental Heritage* (1935), Ch. IX (Decadence – Persia); ARC–PERSIA-T-MODERN
 
 Empire falls; **civilization persists** through institutional and narrative transmission. The next reconstitution (e.g. Safavid) will again claim restoration, not invention. This recursion is the empire-memory engine.
 
@@ -128,14 +154,16 @@ VIII. MEM CONNECTIONS (TYPED)
 
 DEPENDS_ON:
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Foundational imperial architecture and satrapal design
+• MEM–PERSIA–DYNASTY–PARTHIAN — Confederal imperial link; denial warfare; Roman parity (247 BC–224 AD)
 • MEM–PERSIA–DYNASTY–SASANIAN — Restorative sacral consolidation and parity with Rome
 • MEM–PERSIA–ZOROASTER — Moral–cosmic legitimacy engine for kingship
 
 ENABLES:
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian restoration as empire re-founding
-• MEM–PERSIA–EMPIRE–SHAPUR–I — Triumphal Roman–Persian parity encoding
-• MEM–PERSIA–EMPIRE–KHOSROW–II — Terminal overextension and exhaustion pattern
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian restoration as empire re-founding
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Triumphal Roman–Persian parity encoding
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Terminal overextension and exhaustion pattern
 • MEM–PERSIA–WAR–ROME — Seven-century parity war as institutional outcome
+• MEM–PERSIA–ROMAN–EMPIRE — Persia's encoding of Rome as parity rival
 
 PARALLELS:
 • MEM–ROME–EMPIRE — Parity rival; mutual exhaustion; structural parallel (reach without hold in East)
@@ -159,9 +187,10 @@ IX. MEM BIBLIOGRAPHY
 • Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth — ARC–PERSIA-T-MEDIEVAL; Roman–Persian rhythm
 • Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL; kingship memory
 • Matthew Canepa, *The Two Eyes of the Earth* (2009) — sacral kingship, Sasanian ideology
+• Will Durant, *Our Oriental Heritage* (1935), Ch. IX — Achaemenid decadence, heterogeneity, empire disintegration; ARC–PERSIA-T-MODERN
 • Touraj Daryaee, *Sasanian Persia* — dynasty, restoration narrative
-• Adrian Goldsworthy, *Rome and Persia* — parity, Khosrow, exhaustion (cited in EMPIRE–KHOSROW–II)
+• Adrian Goldsworthy, *Rome and Persia* — parity, Khosrow, exhaustion (cited in DYNASTY–SASANIAN–KHOSROW–II)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE — v1.0
+END OF FILE — MEM–PERSIA–EMPIRE — v1.2
 ────────────────────────────────────────────────────────────

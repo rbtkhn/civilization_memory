@@ -125,27 +125,41 @@ IV. AUTHOR ADMISSIBILITY LISTS
 ────────────────────────────────────────────────────────────
 Each ARC–[CIV] instance MUST include approved author lists.
 
+VERBATIM CITATION COUNT (OPTIONAL):
+Each ARC–[CIV] instance MAY append a count [N] after each source
+indicating how many MEM–[CIV] files cite that source verbatim
+(block quote with attribution). Example:
+
+  • Ferdowsi (940–1020) — Shahnameh (Book of Kings) [27]
+
+Add a one-line note above the lists: "The number in brackets [N]
+is the count of MEM–[CIV] files that cite this source verbatim
+as of the last ARC update. Re-run count when the MEM corpus or
+ARC is updated." Counts are optional but recommended for
+governance visibility.
+
 FORMAT:
 
 ARC-T-ANCIENT:
-• [Author Name] — [Work(s)], [Date/Century]
-• [Author Name] — [Work(s)], [Date/Century]
+• [Author Name] — [Work(s)], [Date/Century] [N]
+• [Author Name] — [Work(s)], [Date/Century] [N]
 
 ARC-T-MEDIEVAL:
-• [Author Name] — [Work(s)], [Date/Century]
-• [Author Name] — [Work(s)], [Date/Century]
+• [Author Name] — [Work(s)], [Date/Century] [N]
+• [Author Name] — [Work(s)], [Date/Century] [N]
 
 ARC-T-EARLY-MOD:
-• [Author Name] ([Dates]) — [Major Work(s)]
-• [Author Name] ([Dates]) — [Major Work(s)]
+• [Author Name] ([Dates]) — [Major Work(s)] [N]
+• [Author Name] ([Dates]) — [Major Work(s)] [N]
 
 ARC-T-MODERN:
-• [Author Name] ([Birth year]) — [Major Work(s)]
-• [Author Name] ([Birth year]) — [Major Work(s)]
+• [Author Name] ([Birth year]) — [Major Work(s)] [N]
+• [Author Name] ([Birth year]) — [Major Work(s)] [N]
 
 ARC-T-INSTITUTIONAL:
 See Section IX-B for entry format (Name, URL, Type,
-Authoritative For, Editorial Note).
+Authoritative For, Editorial Note). Institutional entries
+do not require [N] (citation count applies to author lists).
 
 RULE: Only listed authors may be quoted without discovery flag.
 For ARC-T-INSTITUTIONAL, only listed sources are preferred;

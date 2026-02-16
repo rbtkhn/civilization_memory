@@ -103,7 +103,7 @@
 
 ---
 
-### 7. MEM–PERSIA–EMPIRE–ARDASHIR–I
+### 7. MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I
 
 **Thematic fit:** Achaemenid restoration ideology; Persian continuity; "Persian version" of dynastic overthrow.
 
@@ -123,7 +123,7 @@
 | MEM–PERSIA–WAR–CARRHAE | III | Parthian shot, cavalry tradition | HIGH |
 | MEM–PERSIA–ZOROASTER | II or V | Oral tradition; Zarathustra chapter | HIGH |
 | MEM–PERSIA–WAR–ROME | (general) | Orientalism, sophistication | MEDIUM |
-| MEM–PERSIA–EMPIRE–ARDASHIR–I | II or V | Restoration, reception | MEDIUM |
+| MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I | II or V | Restoration, reception | MEDIUM |
 
 ---
 

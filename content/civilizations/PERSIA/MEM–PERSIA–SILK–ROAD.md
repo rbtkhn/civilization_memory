@@ -1,10 +1,10 @@
-MEM–PERSIA–SILK–ROAD — v1.1
+MEM–PERSIA–SILK–ROAD — v1.2
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · indigenous-language quote (Rashid al-Din)
+Version: 1.2
+Upgrade Type: ADDITIVE · Goldsworthy verbatim (trade between empires)
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN → ISLAMIC
 Subject: Silk Road — Persian Nexus, Transit Power, Intermediary Advantage
@@ -123,6 +123,15 @@ embassies to China, maritime alternatives) reflect Roman desire to
 bypass Persian tolls. The incentive structure favors Persian
 intermediation: as long as overland transit is cheaper or safer than
 alternatives, Persia extracts value.
+
+Adrian Goldsworthy frames the commercial dimension of Roman–Persian relations:
+
+> "Despite their endless clashes, trade between the empires enriched
+> them both, and a mutual respect prevented both Rome and Persia from
+> permanently destroying the other."
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
+
+War and trade coexist; the overland corridor links the two empires as much as it divides them.
 
 Strabo describes the corridor function of Syria—the western terminus:
 
@@ -252,6 +261,7 @@ VII. BIBLIOGRAPHY
 • Herodotus, *Histories*, 5.52 — Royal Road
 • Strabo, *Geographica*, Book XVI — Syria corridor
 • George Rawlinson, *The Seven Great Monarchies*, Vol. 5 (Persia) — boundaries
+• Adrian Goldsworthy, *Rome and Persia* (2023) — trade between empires; commercial dimension; book description
 • Richard N. Frye, *The Heritage of Persia* — trade corridors
 • Pierre Briant, *From Cyrus to Alexander* — Royal Road, imperial roads
 • Touraj Daryaee, *Sasanian Persia* — eastern frontier, trade
@@ -275,5 +285,5 @@ Status: ACTIVE
 **OPTION F** — Link to MEM–CHINA–DYNASTY–TANG or MEM–CHINA–XINJIANG (eastern terminus)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–SILK–ROAD — v1.1
+END OF FILE — MEM–PERSIA–SILK–ROAD — v1.2
 ────────────────────────────────────────────────────────────

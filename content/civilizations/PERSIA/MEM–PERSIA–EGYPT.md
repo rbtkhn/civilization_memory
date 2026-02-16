@@ -153,7 +153,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ALEXANDER — Alexander takes Egypt 332 BC
 • MEM–PERSIA–PERSEPOLIS — Egyptian tribute-bearers in Apadana reliefs
 • MEM–PERSIA–MEDES — pre-Egypt conquest
-• MEM–PERSIA–EMPIRE–KHOSROW–II — later Persian occupation of Egypt (Sasanian)
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — later Persian occupation of Egypt (Sasanian)
 • MEM–PERSIA–WAR–ROME — Roman Egypt; Persian–Roman contest
 • MEM–PERSIA–PALMYRA — Zenobia's Egyptian campaign (post-Persian)
 

@@ -1,11 +1,11 @@
-CIV–ARC–INDIA — v3.2
+CIV–ARC–INDIA — v3.3
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · INDIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.2
-Supersedes: CIV–ARC–INDIA v3.1
-Upgrade Type: ENGLISH REFERENCE WORKS — ARC-T-MODERN (ENGLISH REFERENCE)
+Version: 3.3
+Supersedes: CIV–ARC–INDIA v3.2
+Upgrade Type: Verbatim citation count [N] per source
 Civilization: INDIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA
@@ -35,54 +35,58 @@ Later periods may clarify; they may not override earlier testimony.
 ────────────────────────────────────────────────────────────
 III. AUTHOR ADMISSIBILITY LISTS
 ────────────────────────────────────────────────────────────
+**Verbatim citation count:** The number in brackets [N] after each source
+is the count of MEM–INDIA files that cite that source verbatim (block
+quote with attribution) as of the last ARC update. Re-run count when
+MEM corpus or ARC is updated.
 
 ARC-T-ANCIENT:
-• Kautilya (4th–3rd c. BCE) — Arthashastra (statecraft, political economy)
-• Ashoka — Edicts (3rd c. BCE); rock and pillar edicts
-• Megasthenes (3rd c. BCE) — Indica (fragmentary; Greek account of Mauryan India)
-• Patanjali (2nd c. BCE) — Mahabhashya; Yoga Sutras (as applicable)
-• Strabo (64 BCE–c. 24 CE) — Geographica (India passages)
-• Arrian (c. 86–c. 146 CE) — Indica; Anabasis of Alexander (India campaigns)
+• Kautilya (4th–3rd c. BCE) — Arthashastra (statecraft, political economy) [9]
+• Ashoka — Edicts (3rd c. BCE); rock and pillar edicts [10]
+• Megasthenes (3rd c. BCE) — Indica (fragmentary; Greek account of Mauryan India) [0]
+• Patanjali (2nd c. BCE) — Mahabhashya; Yoga Sutras (as applicable) [0]
+• Strabo (64 BCE–c. 24 CE) — Geographica (India passages) [0]
+• Arrian (c. 86–c. 146 CE) — Indica; Anabasis of Alexander (India campaigns) [0]
 
 ARC-T-MEDIEVAL:
-• Al-Biruni (973–1048) — Kitab fi Tahqiq ma li-l-Hind (Alberuni's India)
-• Kalhana (12th c.) — Rajatarangini (River of Kings; Kashmir)
-• Amir Khusrau (1253–1325) — Persian chronicles; Indo-Persian court
-• Ibn Battuta (1304–1368/69) — Rihla (travels in India)
-• Babur (1483–1530) — Baburnama (Memoirs; Mughal founding)
+• Al-Biruni (973–1048) — Kitab fi Tahqiq ma li-l-Hind (Alberuni's India) [0]
+• Kalhana (12th c.) — Rajatarangini (River of Kings; Kashmir) [0]
+• Amir Khusrau (1253–1325) — Persian chronicles; Indo-Persian court [0]
+• Ibn Battuta (1304–1368/69) — Rihla (travels in India) [0]
+• Babur (1483–1530) — Baburnama (Memoirs; Mughal founding) [0]
 
 ARC-T-EARLY-MOD:
-• Abul Fazl (1551–1602) — Akbarnama; Ain-i-Akbari
-• François Bernier (1620–1688) — Travels in the Mogul Empire
-• James Mill (1773–1836) — The History of British India (1817)
-• Mountstuart Elphinstone (1779–1859) — The History of India (1841)
-• Alexander Cunningham (1814–1893) — Archaeological Survey of India; reports
+• Abul Fazl (1551–1602) — Akbarnama; Ain-i-Akbari [0]
+• François Bernier (1620–1688) — Travels in the Mogul Empire [0]
+• James Mill (1773–1836) — The History of British India (1817) [0]
+• Mountstuart Elphinstone (1779–1859) — The History of India (1841) [0]
+• Alexander Cunningham (1814–1893) — Archaeological Survey of India; reports [0]
 
 ARC-T-MODERN:
-• Will Durant (1885–1981) — The Story of Civilization, Vol. 1: Our Oriental Heritage (1935); The Case for India (1930); civilizational synthesis on India, continuity, British rule, village community, transmission
-• Niall Ferguson (b. 1964) — Empire: How Britain Made the Modern World (2003); British India as jewel in the crown, administrative laboratory, Company-to-Crown trajectory, extraction vs governance, imperial method at scale
-• John Keay (b. 1941) — India: A History; India Discovered
-• Romila Thapar (b. 1931) — Early India; Asoka and the Decline of the Mauryas; Somanatha
-• Upinder Singh (b. 1959) — A History of Ancient and Early Medieval India; Political Violence in Ancient India
-• Ramachandra Guha (b. 1958) — India After Gandhi; Gandhi Before India
-• Sunil Khilnani (b. 1960) — The Idea of India; Incarnations
-• Jack Weatherford (b. 1941) — Genghis Khan and the Making of the Modern World (2004); Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface
-• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. Applicable to MEMs for structural/power framing and order-type analysis.
+• Will Durant (1885–1981) — The Story of Civilization, Vol. 1: Our Oriental Heritage (1935); The Case for India (1930); civilizational synthesis on India, continuity, British rule, village community, transmission [24]
+• Niall Ferguson (b. 1964) — Empire: How Britain Made the Modern World (2003); British India as jewel in the crown, administrative laboratory, Company-to-Crown trajectory, extraction vs governance, imperial method at scale [10]
+• John Keay (b. 1941) — India: A History; India Discovered [0]
+• Romila Thapar (b. 1931) — Early India; Asoka and the Decline of the Mauryas; Somanatha [6]
+• Upinder Singh (b. 1959) — A History of Ancient and Early Medieval India; Political Violence in Ancient India [0]
+• Ramachandra Guha (b. 1958) — India After Gandhi; Gandhi Before India [1]
+• Sunil Khilnani (b. 1960) — The Idea of India; Incarnations [2]
+• Jack Weatherford (b. 1941) — Genghis Khan and the Making of the Modern World (2004); Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface [0]
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. Applicable to MEMs for structural/power framing and order-type analysis. [0]
 
 ARC-T-MODERN (ENGLISH REFERENCE):
-• Encyclopaedia Britannica — India and South Asia entries; comprehensive English reference; editorial/collaborative
-• Cambridge History of India (1922–1937) / The New Cambridge History of India — multi-volume academic reference on Indian history; various editors
-• Encyclopedia of India (Charles Scribner's Sons/Gale, 2006) — 4-volume reference on Indian history, culture, society; Stanley Wolpert, editor-in-chief
-• Vincent Smith (1848–1920) — The Oxford History of India (1919); early modern and Mughal India; later editions by Percival Spear
-• Burton Stein (1926–1996) — A History of India (1998; 2nd ed. with David Arnold); standard textbook; pre-modern and modern India
-• Stanley Wolpert (b. 1927) — A New History of India; Encyclopedia of India (editor); modern India, nationalism, Partition
-• Percival Spear (1911–1982) — Oxford History of India (continuation/editing); Mughal and British India
+• Encyclopaedia Britannica — India and South Asia entries; comprehensive English reference; editorial/collaborative [0]
+• Cambridge History of India (1922–1937) / The New Cambridge History of India — multi-volume academic reference on Indian history; various editors [0]
+• Encyclopedia of India (Charles Scribner's Sons/Gale, 2006) — 4-volume reference on Indian history, culture, society; Stanley Wolpert, editor-in-chief [0]
+• Vincent Smith (1848–1920) — The Oxford History of India (1919); early modern and Mughal India; later editions by Percival Spear [0]
+• Burton Stein (1926–1996) — A History of India (1998; 2nd ed. with David Arnold); standard textbook; pre-modern and modern India [0]
+• Stanley Wolpert (b. 1927) — A New History of India; Encyclopedia of India (editor); modern India, nationalism, Partition [0]
+• Percival Spear (1911–1982) — Oxford History of India (continuation/editing); Mughal and British India [0]
 
 ARC-T-MODERN (HINDI REFERENCE):
-• Hindi Vishwakosh (हिन्दी विश्वकोश) — multi-volume Hindi encyclopedia; comprehensive reference on India; various editors/editions
-• Bharatkosh (भारतकोश) — Hindi encyclopedia of India; print and digital; India-focused reference
-• Bharatiya Sanskriti Kosh (भारतीय संस्कृति कोश) — Encyclopedia of Indian culture; Hindi reference on Indian civilization
-• Hindi Sahitya Kosh (हिंदी साहित्य कोश) — Encyclopedia of Hindi literature; Hindi literary reference
+• Hindi Vishwakosh (हिन्दी विश्वकोश) — multi-volume Hindi encyclopedia; comprehensive reference on India; various editors/editions [0]
+• Bharatkosh (भारतकोश) — Hindi encyclopedia of India; print and digital; India-focused reference [0]
+• Bharatiya Sanskriti Kosh (भारतीय संस्कृति कोश) — Encyclopedia of Indian culture; Hindi reference on Indian civilization [0]
+• Hindi Sahitya Kosh (हिंदी साहित्य कोश) — Encyclopedia of Hindi literature; Hindi literary reference [0]
 
 Publishers of Hindi reference works (when citing editions):
 • Nagari Pracharini Sabha (नागरी प्रचारिणी सभा)
@@ -235,5 +239,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   Editorial Note: Delhi-based; independent; influential on Indian environmental debate
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–INDIA — v3.2
+END OF FILE — CIV–ARC–INDIA — v3.3
 ────────────────────────────────────────────────────────────

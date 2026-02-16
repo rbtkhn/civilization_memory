@@ -1,11 +1,11 @@
-CIV–ARC–CHINA — v3.3
+CIV–ARC–CHINA — v3.4
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · CHINA
 
 Status: ACTIVE · CANONICAL
-Version: 3.3
-Supersedes: CIV–ARC–CHINA v3.2
-Upgrade Type: ADDITIVE · White Papers, SIIS, dynastic histories, Qian Mu, changelog, MEM note (2026-02-13)
+Version: 3.4
+Supersedes: CIV–ARC–CHINA v3.3
+Upgrade Type: Verbatim citation count [N] per source
 Civilization: CHINA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–CHINA · CIV–SCHOLAR–CHINA
@@ -35,65 +35,69 @@ Later periods may clarify; they may not override earlier testimony.
 ────────────────────────────────────────────────────────────
 III. AUTHOR ADMISSIBILITY LISTS
 ────────────────────────────────────────────────────────────
+**Verbatim citation count:** The number in brackets [N] after each source
+is the count of MEM–CHINA files that cite that source verbatim (block
+quote with attribution) as of the last ARC update. Re-run count when
+MEM corpus or ARC is updated.
 
 ARC-T-ANCIENT:
-• Confucius / Kongzi (551–479 BCE) — Analects (Lunyu)
-• Laozi (6th–5th c. BCE) — Dao De Jing (Tao Te Ching)
-• Sunzi (5th c. BCE) — The Art of War (Bingfa)
-• Mencius / Mengzi (372–289 BCE) — Mencius
-• Zhuangzi (369–286 BCE) — Zhuangzi
-• Han Feizi (c. 280–233 BCE) — Han Feizi (Legalist corpus)
-• Sima Qian (145–86 BCE) — Shiji (Records of the Grand Historian)
-• Ban Gu (32–92 CE) — Hanshu (Book of Han)
-• Fan Ye (398–445 CE) — Hou Hanshu (Book of the Later Han)
-• Chen Shou (233–297 CE) — Sanguozhi (Records of the Three Kingdoms)
-• I Ching / Yijing — Book of Changes (traditional; Zhou period)
-• Book of Documents (Shujing) — Classical period
-• Book of Odes (Shijing) — Classical period
-• Spring and Autumn Annals (Chunqiu) — attributed to Confucius
+• Confucius / Kongzi (551–479 BCE) — Analects (Lunyu) [2]
+• Laozi (6th–5th c. BCE) — Dao De Jing (Tao Te Ching) [0]
+• Sunzi (5th c. BCE) — The Art of War (Bingfa) [0]
+• Mencius / Mengzi (372–289 BCE) — Mencius [0]
+• Zhuangzi (369–286 BCE) — Zhuangzi [0]
+• Han Feizi (c. 280–233 BCE) — Han Feizi (Legalist corpus) [0]
+• Sima Qian (145–86 BCE) — Shiji (Records of the Grand Historian) [0]
+• Ban Gu (32–92 CE) — Hanshu (Book of Han) [0]
+• Fan Ye (398–445 CE) — Hou Hanshu (Book of the Later Han) [0]
+• Chen Shou (233–297 CE) — Sanguozhi (Records of the Three Kingdoms) [0]
+• I Ching / Yijing — Book of Changes (traditional; Zhou period) [0]
+• Book of Documents (Shujing) — Classical period [0]
+• Book of Odes (Shijing) — Classical period [0]
+• Spring and Autumn Annals (Chunqiu) — attributed to Confucius [0]
 
 ARC-T-MEDIEVAL:
-• Sima Guang (1019–1086) — Zizhi Tongjian (Comprehensive Mirror for Aid in Government)
-• Ouyang Xiu (1007–1072) — New Book of Tang (Xin Tangshu); New History of the Five Dynasties
-• Tuotuo (1314–1355) — History of Song (Songshi); History of Liao; History of Jin
-• Yuan Shi (元史), Jin Shi (金史), Song Shi (宋史), Liao Shi (辽史) — Standard dynastic histories; may be cited by work name when MEM uses them as primary reference. Prefer Encyclopedia of China or scholarly translation when quoting; cite edition.
-• Marco Polo (1254–1324) — Il Milione (The Travels of Marco Polo)
-• Ibn Battuta (1304–1368/69) — Rihla (Travels; Yuan China sections)
-• Rashid al-Din (1247–1318) — Jami' al-Tawarikh (covers Mongol China)
+• Sima Guang (1019–1086) — Zizhi Tongjian (Comprehensive Mirror for Aid in Government) [0]
+• Ouyang Xiu (1007–1072) — New Book of Tang (Xin Tangshu); New History of the Five Dynasties [0]
+• Tuotuo (1314–1355) — History of Song (Songshi); History of Liao; History of Jin [0]
+• Yuan Shi (元史), Jin Shi (金史), Song Shi (宋史), Liao Shi (辽史) — Standard dynastic histories; may be cited by work name when MEM uses them as primary reference. Prefer Encyclopedia of China or scholarly translation when quoting; cite edition. [0]
+• Marco Polo (1254–1324) — Il Milione (The Travels of Marco Polo) [7]
+• Ibn Battuta (1304–1368/69) — Rihla (Travels; Yuan China sections) [0]
+• Rashid al-Din (1247–1318) — Jami' al-Tawarikh (covers Mongol China) [0]
 
 ARC-T-EARLY-MOD:
-• Matteo Ricci (1552–1610) — De Christiana expeditione apud Sinas; journals and letters
-• Jean-Baptiste Du Halde (1674–1743) — Description géographique, historique... de l'empire de la Chine (1735)
-• James Legge (1815–1897) — The Chinese Classics (translations of Confucian canon)
-• Samuel Wells Williams (1812–1884) — The Middle Kingdom (1848, rev. 1883)
-• Herbert Giles (1845–1935) — A Chinese Biographical Dictionary; Chinese-English Dictionary
+• Matteo Ricci (1552–1610) — De Christiana expeditione apud Sinas; journals and letters [0]
+• Jean-Baptiste Du Halde (1674–1743) — Description géographique, historique... de l'empire de la Chine (1735) [0]
+• James Legge (1815–1897) — The Chinese Classics (translations of Confucian canon) [0]
+• Samuel Wells Williams (1812–1884) — The Middle Kingdom (1848, rev. 1883) [0]
+• Herbert Giles (1845–1935) — A Chinese Biographical Dictionary; Chinese-English Dictionary [0]
 
 ARC-T-MODERN:
-• Henry Kissinger (b. 1923) — On China (2011); Diplomacy (1994); World Order (2014). Strategic analysis of Chinese foreign policy, tribute system, century of humiliation, Mao–Nixon, Deng modernization; civilizational continuity as strategic variable.
-• John J. Mearsheimer (b. 1947) — The Tragedy of Great Power Politics (2001); The Great Delusion (2018); "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); interviews and essays on US–China, Taiwan, balance of power. Offensive realism; structural incentives; great-power competition; international orders (Cold War, liberal order 1990–2019); incentive structure and misperception; applicable to GEO–MEM and regime MEMs for structural/power framing.
-• John Keegan (1934–2012) — The Face of Battle (1976); The Mask of Command (1987); A History of Warfare (1993). Military historiography: civilised warfare, institutional restraint, Clausewitz limits ("little of oriental war"); mask of command, belief collapse; face of battle (soldier experience). Applicable to MEM–CHINA–WAR–* for command, battle, and war-making-culture framing; RLL–CHINA–0001.
-• John King Fairbank (1907–1991) — The United States and China; Trade and Diplomacy on the China Coast; The Great Chinese Revolution; The Cambridge History of China (general editor)
-• Jonathan D. Spence (1936–2021) — The Search for Modern China; The Memory Palace of Matteo Ricci; God's Chinese Son; Emperor of China: Self-Portrait of K'ang-hsi
-• Kenneth Pomeranz (b. 1958) — The Great Divergence: China, Europe, and the Making of the Modern World Economy
-• Mark Elvin (b. 1938) — The Pattern of the Chinese Past; The Retreat of the Elephants
-• Joseph Needham (1900–1995) — Science and Civilisation in China (multi-volume)
-• Frederick Mote (1922–2005) — Imperial China 900–1800
-• Ray Huang (1918–2000) — 1587, A Year of No Significance; China: A Macro History
-• John Keay (b. 1941) — China: A History
-• Rana Mitter (b. 1969) — Forgotten Ally: China's World War II; China's Good War
-• Odd Arne Westad (b. 1960) — Restless Empire: China and the World Since 1750; The Cold War
-• Ezra Vogel (1930–2020) — Deng Xiaoping and the Transformation of China
-• Chen Jian (b. 1952) — Zhou Enlai: A Life (Harvard University Press, 2024). Definitive biography; Zhou as centrist operator and institutional stabilizer; never a committed Maoist; mitigated Mao's radicalism; revolutionary, diplomat, spymaster; Great Leap and Cultural Revolution; multi-archival (Chinese, English, Russian). Applicable to MEM–CHINA–PRC–ZHOU–ENLAI and early PRC regime framing.
-• Frank Dikötter (b. 1961) — Mao's Great Famine; The Cultural Revolution; China After Mao
-• Julia Lovell (b. 1975) — Maoism: A Global History; The Opium War
-• Pamela Crossley (b. 1955) — The Manchus; A Translucent Mirror; Orphan Warriors
-• William Kirby (b. 1954) — Germany and Republican China; State and Economy in Republican China
-• Timothy Brook (b. 1951) — The Troubled Empire: China in the Yuan and Ming Dynasties; Vermeer's Hat
-• Jack Weatherford (b. 1946) — Genghis Khan and the Making of the Modern World (2004); The Secret History of the Mongol Queens (2010); Emperor of the Seas: Kublai Khan and the Making of China (2024). Mongol Empire formation, steppe–sedentary interface, succession and administration; Kublai, Yuan dynasty, naval and maritime transformation; popular synthesis with scholarly reach.
-• Niall Ferguson (b. 1964) — Civilization: The West and the Rest (2011); Kissinger, 1923–1968: The Idealist (2015). Civilizational comparison, West vs China; Kissinger biography and strategic context; China: Triumph and Turmoil (2012). Strategic and economic history; China in global power dynamics.
-• Will Durant (1885–1981) — Our Oriental Heritage (1935), Volume I of The Story of Civilization. China, India, Japan, and Near East from origins; civilizational narrative; Chinese philosophy and dynastic history. Accessible synthesis; foundational for popular civilizational framing.
-• Encyclopedia of China (中国大百科全书) — 2nd ed. 2007 (32 vols.); 3rd ed. online zgbk.com (2018–). Authoritative general encyclopedia in Chinese; scholar-written; state-sponsored (Encyclopedia of China Publishing House); equivalent in scope and authority to Encyclopaedia Britannica. Authoritative For: Standard reference, definitions, Chinese scholarly consensus on history, institutions, geography, figures; factual and conceptual grounding when Chinese-language reference is needed. Applicable to all MEM–CHINA for accuracy and credibility; cite entry and edition when quoting. Chinese-language primary.
-• Qian Mu (钱穆, 1895–1990) — 国史大纲 (Outline of National History); 国学概论 (Introduction to Chinese Learning). Chinese-language historiography; traditional narrative and cultural continuity. Applicable when MEM addresses dynastic narrative or cultural identity from a Chinese scholarly perspective; cite translation or original with translation note.
+• Henry Kissinger (b. 1923) — On China (2011); Diplomacy (1994); World Order (2014). Strategic analysis of Chinese foreign policy, tribute system, century of humiliation, Mao–Nixon, Deng modernization; civilizational continuity as strategic variable. [22]
+• John J. Mearsheimer (b. 1947) — The Tragedy of Great Power Politics (2001); The Great Delusion (2018); "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); interviews and essays on US–China, Taiwan, balance of power. Offensive realism; structural incentives; great-power competition; international orders (Cold War, liberal order 1990–2019); incentive structure and misperception; applicable to GEO–MEM and regime MEMs for structural/power framing. [2]
+• John Keegan (1934–2012) — The Face of Battle (1976); The Mask of Command (1987); A History of Warfare (1993). Military historiography: civilised warfare, institutional restraint, Clausewitz limits ("little of oriental war"); mask of command, belief collapse; face of battle (soldier experience). Applicable to MEM–CHINA–WAR–* for command, battle, and war-making-culture framing; RLL–CHINA–0001. [0]
+• John King Fairbank (1907–1991) — The United States and China; Trade and Diplomacy on the China Coast; The Great Chinese Revolution; The Cambridge History of China (general editor) [5]
+• Jonathan D. Spence (1936–2021) — The Search for Modern China; The Memory Palace of Matteo Ricci; God's Chinese Son; Emperor of China: Self-Portrait of K'ang-hsi [3]
+• Kenneth Pomeranz (b. 1958) — The Great Divergence: China, Europe, and the Making of the Modern World Economy [0]
+• Mark Elvin (b. 1938) — The Pattern of the Chinese Past; The Retreat of the Elephants [0]
+• Joseph Needham (1900–1995) — Science and Civilisation in China (multi-volume) [0]
+• Frederick Mote (1922–2005) — Imperial China 900–1800 [0]
+• Ray Huang (1918–2000) — 1587, A Year of No Significance; China: A Macro History [0]
+• John Keay (b. 1941) — China: A History [0]
+• Rana Mitter (b. 1969) — Forgotten Ally: China's World War II; China's Good War [0]
+• Odd Arne Westad (b. 1960) — Restless Empire: China and the World Since 1750; The Cold War [0]
+• Ezra Vogel (1930–2020) — Deng Xiaoping and the Transformation of China [14]
+• Chen Jian (b. 1952) — Zhou Enlai: A Life (Harvard University Press, 2024). Definitive biography; Zhou as centrist operator and institutional stabilizer; never a committed Maoist; mitigated Mao's radicalism; revolutionary, diplomat, spymaster; Great Leap and Cultural Revolution; multi-archival (Chinese, English, Russian). Applicable to MEM–CHINA–PRC–ZHOU–ENLAI and early PRC regime framing. [3]
+• Frank Dikötter (b. 1961) — Mao's Great Famine; The Cultural Revolution; China After Mao [14]
+• Julia Lovell (b. 1975) — Maoism: A Global History; The Opium War [14]
+• Pamela Crossley (b. 1955) — The Manchus; A Translucent Mirror; Orphan Warriors [0]
+• William Kirby (b. 1954) — Germany and Republican China; State and Economy in Republican China [0]
+• Timothy Brook (b. 1951) — The Troubled Empire: China in the Yuan and Ming Dynasties; Vermeer's Hat [0]
+• Jack Weatherford (b. 1946) — Genghis Khan and the Making of the Modern World (2004); The Secret History of the Mongol Queens (2010); Emperor of the Seas: Kublai Khan and the Making of China (2024). Mongol Empire formation, steppe–sedentary interface, succession and administration; Kublai, Yuan dynasty, naval and maritime transformation; popular synthesis with scholarly reach. [11]
+• Niall Ferguson (b. 1964) — Civilization: The West and the Rest (2011); Kissinger, 1923–1968: The Idealist (2015). Civilizational comparison, West vs China; Kissinger biography and strategic context; China: Triumph and Turmoil (2012). Strategic and economic history; China in global power dynamics. [0]
+• Will Durant (1885–1981) — Our Oriental Heritage (1935), Volume I of The Story of Civilization. China, India, Japan, and Near East from origins; civilizational narrative; Chinese philosophy and dynastic history. Accessible synthesis; foundational for popular civilizational framing. [0]
+• Encyclopedia of China (中国大百科全书) — 2nd ed. 2007 (32 vols.); 3rd ed. online zgbk.com (2018–). Authoritative general encyclopedia in Chinese; scholar-written; state-sponsored (Encyclopedia of China Publishing House); equivalent in scope and authority to Encyclopaedia Britannica. Authoritative For: Standard reference, definitions, Chinese scholarly consensus on history, institutions, geography, figures; factual and conceptual grounding when Chinese-language reference is needed. Applicable to all MEM–CHINA for accuracy and credibility; cite entry and edition when quoting. Chinese-language primary. [0]
+• Qian Mu (钱穆, 1895–1990) — 国史大纲 (Outline of National History); 国学概论 (Introduction to Chinese Learning). Chinese-language historiography; traditional narrative and cultural continuity. Applicable when MEM addresses dynastic narrative or cultural identity from a Chinese scholarly perspective; cite translation or original with translation note. [0]
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 
@@ -297,5 +301,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   sanctioned by PRC
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–CHINA — v3.3
+END OF FILE — CIV–ARC–CHINA — v3.4
 ────────────────────────────────────────────────────────────

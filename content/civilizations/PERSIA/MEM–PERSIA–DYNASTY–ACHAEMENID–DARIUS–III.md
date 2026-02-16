@@ -186,8 +186,8 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–PERSEPOLIS — Alexander burns Persepolis after Darius's death
 • MEM–PERSIA–MEDES — Ecbatana; Darius retreats there
 • MEM–PERSIA–EGYPT — lost before Gaugamela
-• MEM–PERSIA–EMPIRE–KHOSROW–II — parallel: overextension, court betrayal
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian restoration invokes Achaemenid past
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — parallel: overextension, court betrayal
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian restoration invokes Achaemenid past
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — eastern satrapies; Bessus's domain

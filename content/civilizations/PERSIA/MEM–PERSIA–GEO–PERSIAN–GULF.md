@@ -249,8 +249,8 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–EGYPT — Darius canal links to Red Sea/Gulf system
 • MEM–PERSIA–PERSEPOLIS — Persian heartland; Gulf as southern boundary
 • MEM–PERSIA–WAR–ALEXANDER — Nearchus's voyage through Gulf
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian Gulf control
-• MEM–PERSIA–EMPIRE–KHOSROW–II — Sasanian extent; Gulf littoral
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian Gulf control
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Sasanian extent; Gulf littoral
 • MEM–PERSIA–WAR–ROME — Gulf as Persian flank (contrast land theater)
 • MEM–PERSIA–ISLAMIC–REPUBLIC — contemporary chokepoint posture
 

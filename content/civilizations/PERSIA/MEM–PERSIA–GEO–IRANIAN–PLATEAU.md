@@ -1,8 +1,8 @@
-MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.0
+MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.1
 Civilizational Memory Codex · Geographic Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: PERSIA
 Subject: Iranian Plateau — fortress core, elevated interior, ring of mountains
 Dates: Ancient era–present
@@ -188,6 +188,17 @@ the Iranian plateau as the enduring geographic and cultural core:
 > repeated invasions and to absorb conquerors into its own pattern."
 > — Richard N. Frye, *The Heritage of Persia* (1963); ARC–PERSIA-T-MODERN
 
+Will Durant, in *Our Oriental Heritage*, frames the civilizational cycle that the plateau has repeatedly staged:
+
+> "A nation is born stoic, and dies epicurean. At its cradle (to repeat
+> a thoughtful adage) religion stands, and philosophy accompanies it
+> to the grave."
+> — Will Durant, *Our Oriental Heritage* (1935); ARC–PERSIA-T-MODERN
+
+> "The Persians, like the Medes before them, passed from stoicism to
+> epicureanism in a few generations."
+> — Will Durant, *Our Oriental Heritage* (1935), Ch. IX (Decadence – Persia); ARC–PERSIA-T-MODERN
+
 Tehran as modern capital sits at the plateau's northern edge—Elburz
 foothills—retaining the logic of defensible core and Caspian buffer.
 CIV–CORE–PERSIA extends the plateau into "cyber–plateau" and
@@ -268,8 +279,9 @@ VII. MEM BIBLIOGRAPHY
 • Ferdowsi, *Shahnameh* (prologue) — ARC–PERSIA-T-MEDIEVAL; indigenous-language
 • George Rawlinson, *The Seven Great Monarchies*, Vol. 5 (Persia) — ARC–PERSIA-T-EARLY-MOD
 • Richard N. Frye, *The Heritage of Persia* (1963) — ARC–PERSIA-T-MODERN; plateau continuity
+• Will Durant, *Our Oriental Heritage* (1935) — ARC–PERSIA-T-MODERN; civilizational cycle (stoic/epicurean)
 • CIV–CORE–PERSIA v2.0 — Plateau–Fortress, cyber–plateau, compute sovereignty
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.0
+END OF FILE — MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.1
 ────────────────────────────────────────────────────────────

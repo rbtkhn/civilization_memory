@@ -1,4 +1,4 @@
-MEM–PERSIA–EMPIRE–KHOSROW–II — v1.1
+MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -163,7 +163,7 @@ X. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–DYNASTY–SASANIAN — Khosrow as terminal Sasanian
 • MEM–PERSIA–WAR–ROME — the war Khosrow escalated and lost
-• MEM–PERSIA–EMPIRE–SHAPUR–I — earlier triumph (contrast: Shapur held gains)
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — earlier triumph (contrast: Shapur held gains)
 • MEM–PERSIA–WAR–CARRHAE — denial doctrine Khosrow violated
 • MEM–PERSIA–ARMENIA — devastated by the war
 • MEM–PERSIA–ZOROASTER — sacral kingship; legitimacy strain
@@ -202,9 +202,9 @@ XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XIII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–EMPIRE–KHOSROW–II
+MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE–KHOSROW–II — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.1
 ────────────────────────────────────────────────────────────

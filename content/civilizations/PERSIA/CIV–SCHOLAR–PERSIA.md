@@ -198,7 +198,7 @@ KEEGAN VERBATIM QUOTES (absorbed from repository):
 PERSIA APPLICABILITY:
 • MEM–PERSIA–WAR–CARRHAE: Keegan's "little of oriental war" (Clausewitz) + cavalry vs unbroken infantry (Waterloo) contrast Parthian mobility with Roman legionary assumptions. "Civilised warfare" (institutional restraint) vs Persian denial doctrine.
 • MEM–PERSIA–WAR–ROME: Roman citizen-army vs Persian cataphract/sacral model; command coherence (Actium) vs Surena's elasticity.
-• MEM–PERSIA–EMPIRE–SHAPUR–I, ARDASHIR–I: "Mask of command" (leader as followers need) — Shapur's rock reliefs encode triumphal mask; Ardashir's restoration mask.
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I, MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I: "Mask of command" (leader as followers need) — Shapur's rock reliefs encode triumphal mask; Ardashir's restoration mask.
 • MEM–PERSIA–WAR–ALEXANDER: Caesar at Pharsalus (personal command) vs Alexander's charismatic conquest; "belief collapsed" (Waterloo) vs Persian court cohesion under invasion.
 • Cross-ARC: Keegan authorized in ARC–ANGLIA; citation requires ARC–DISCOVERY or cross-civilization declaration per CIV–ARC–TEMPLATE § V.
 
@@ -214,7 +214,7 @@ Belief Status:
 
 ENTRY 0003
 Source:
-• LEARN session; MEM–PERSIA–EMPIRE–KHOSROW–II; tri-frame application
+• LEARN session; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II; tri-frame application
 Ingest Type:
 • Tri-Frame Analytical Session — Keegan/Mearsheimer/Barnes/Mercouris on Khosrow II
 Primary Belief Extracted:
@@ -244,7 +244,7 @@ Belief Status:
 
 ENTRY 0006
 Source:
-• LEARN session; Persia GEO cluster (MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT); forward traversal MEM–PERSIA–WAR–ROME, MEM–PERSIA–EMPIRE–KHOSROW–II; Barnes lens on liability
+• LEARN session; Persia GEO cluster (MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT); forward traversal MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II; Barnes lens on liability
 Ingest Type:
 • Strategic-Historical Analysis — Mearsheimer (GEO cluster) → Forward (Sasanian) → Barnes (liability/irreversibility)
 Primary Belief Extracted:
@@ -282,7 +282,7 @@ Tension Record:
 Verdict: TENSION PRESERVED. No resolution. CCM applies: divergence expected.
 
 SYNTHESIS 0003 — TRI-FRAME TENSION: KHOSROW II
-Source: ENTRY 0003; MEM–PERSIA–EMPIRE–KHOSROW–II
+Source: ENTRY 0003; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
 Assumptions: (1) Khosrow II is analyzable through multiple frames; (2) frames converge on overextension; (3) contrast with Shapur (denial vs conquest) enriches; (4) synthesis forbidden—tension preserved.
 Confidence: UNBINDING (Phase I)
 
@@ -313,7 +313,7 @@ Structural Record:
 Verdict: Structural transition; no synthesis with Mercouris/Barnes. Tension preserved.
 
 SYNTHESIS 0005 — PERSIA GEO FOUR-ZONE PATTERN + OVEREXTENSION LIABILITY
-Source: ENTRY 0006; MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT; MEM–PERSIA–WAR–ROME; MEM–PERSIA–EMPIRE–KHOSROW–II
+Source: ENTRY 0006; MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT; MEM–PERSIA–WAR–ROME; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
 Status: ACCEPTED_AS_DOCTRINE → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02)
 Confidence: TIER 2 (70–90% — Strongly supported; cross-MEM pattern; Khosrow II confirming case)
 
@@ -342,7 +342,7 @@ ASSUMPTION 3: Khosrow II is confirming case for overextension liability
 | Field | Content |
 |-------|---------|
 | STATEMENT | Khosrow II's maximal Levant reach (Syria, Palestine, Jerusalem, Egypt), Heraclius counteroffensive, court defection (Kavadh II), and Sasanian non-recovery confirm the pattern. |
-| BASIS | MEM–PERSIA–EMPIRE–KHOSROW–II; ENTRY 0003, 0006. |
+| BASIS | MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II; ENTRY 0003, 0006. |
 | IF_WRONG | Khosrow's collapse would be explained by other factors (e.g. religion, logistics only); liability/defection layer would be secondary. |
 | LINCHPIN_STATUS | Medium |
 
@@ -377,7 +377,7 @@ Verdict: Pattern recorded; constraint-oriented; no closure. CCM applies. Accepte
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
-SYNTHESIS 0005 → CIV–DOCTRINE–PERSIA DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY). Accepted via DIB–PERSIA 2026-02. Source: this file SYNTHESIS 0005; ENTRY 0006; MEMs GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT, WAR–ROME, EMPIRE–KHOSROW–II.
+SYNTHESIS 0005 → CIV–DOCTRINE–PERSIA DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY). Accepted via DIB–PERSIA 2026-02. Source: this file SYNTHESIS 0005; ENTRY 0006; MEMs GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT, WAR–ROME, DYNASTY–SASANIAN–KHOSROW–II.
 
 ────────────────────────────────────────────────────────────
 XIX. SCHOLAR DIVERGENCE INDEX (SDI)

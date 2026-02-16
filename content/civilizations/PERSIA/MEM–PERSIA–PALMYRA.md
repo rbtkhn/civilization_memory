@@ -159,12 +159,12 @@ liability back to Rome—but the delay cost Persia time and resources.
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–EMPIRE–SHAPUR–I — Valerian's captor; Palmyra denies consolidation
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian founding context
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Valerian's captor; Palmyra denies consolidation
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian founding context
 • MEM–PERSIA–WAR–ROME — Palmyra as Roman-aligned actor in the conflict
 • MEM–PERSIA–WAR–CARRHAE — Carrhae recovered by Odaenathus
 • MEM–PERSIA–DYNASTY–SASANIAN — Sasanian phase; Shapur's reign
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian founder; Shapur's father
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian founder; Shapur's father
 • MEM–PERSIA–ARMENIA — Eastern theater; Palmyrene reach
 • MEM–PERSIA–ZOROASTER — "King of Kings" title challenges sacral claims
 • MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Imperial model; Palmyra as local usurper
@@ -175,7 +175,7 @@ Cross-civilization (≥3):
 • MEM–ROME–EMPIRE–AURELIAN — Destroys Palmyra; restores East
 • MEM–ROME–WAR–PERSIA — Roman–Persian conflict; Palmyra as eastern actor
 
-Breaks if removed: MEM–PERSIA–EMPIRE–SHAPUR–I (Shapur's triumph contested); MEM–ROME–EMPIRE–AURELIAN (counterpart).
+Breaks if removed: MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I (Shapur's triumph contested); MEM–ROME–EMPIRE–AURELIAN (counterpart).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY

@@ -1,9 +1,9 @@
-MEM–PERSIA–ARMENIA — v1.0
+MEM–PERSIA–ARMENIA — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
+Version: 1.4
 Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Regime: ACHAEMENID → PARTHIAN → SASANIAN
@@ -115,6 +115,15 @@ Armenia as "masterless land between" —the buffer in its pure form.
 Vonones flees Parthia; Rome and Parthia contest his refuge. Armenia
 is the terrain where neither empire holds definitive sway.
 
+Adrian Goldsworthy situates the broader Roman–Persian theater in which Armenia is contested:
+
+> "Despite their endless clashes, trade between the empires enriched
+> them both, and a mutual respect prevented both Rome and Persia from
+> permanently destroying the other."
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
+
+Contested ground coexists with trade and respect; proxy wars over Armenia do not preclude enrichment of both empires.
+
 ────────────────────────────────────────────────────────────
 V. SASANIAN PERIOD — HARDENED CONTEST
 ────────────────────────────────────────────────────────────
@@ -180,8 +189,8 @@ X. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ROME — Armenia as theater of Roman–Persian conflict
 • MEM–PERSIA–WAR–CARRHAE — Parthian phase; Armenian margins
-• MEM–PERSIA–EMPIRE–SHAPUR–I — Sasanian contest for Armenia
-• MEM–PERSIA–EMPIRE–KHOSROW–II — terminal Roman–Persian war over Armenia
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Sasanian contest for Armenia
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal Roman–Persian war over Armenia
 • MEM–PERSIA–DYNASTY–SASANIAN — Sasanian Armenia policy
 • MEM–PERSIA–DYNASTY–ACHAEMENID — earlier Iranian–Armenian contact
 • MEM–PERSIA–GEO–CASPIAN — northern approach; Caucasian context
@@ -212,6 +221,7 @@ XII. BIBLIOGRAPHY
 • Strabo, *Geographica*, Book XI — Geographic definition
 • Edward Gibbon, *Decline and Fall* — Perpetual contention; client oscillation
 • Theodor Mommsen, *The Provinces of the Roman Empire* — Roman restraint logic
+• Adrian Goldsworthy, *Rome and Persia* (2023) — contested ground; trade and mutual respect; book description
 • Anthony Kaldellis, *The New Roman Empire* — Buffer logic
 • Peter Heather, *Empires and Barbarians* — Structural limits
 • Touraj Daryaee, *Sasanian Persia* — Sasanian Armenia policy
@@ -223,5 +233,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–ARMENIA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ARMENIA — v1.3
+END OF FILE — MEM–PERSIA–ARMENIA — v1.4
 ────────────────────────────────────────────────────────────

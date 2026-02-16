@@ -252,7 +252,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ALEXANDER — Nearchus voyage; Gedrosia
 • MEM–PERSIA–EGYPT — Darius canal; Red Sea–Gulf–Indian Ocean connectivity
 • MEM–PERSIA–PERSEPOLIS — heartland; ocean as southern horizon
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian Gulf control
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian Gulf control
 • MEM–PERSIA–ISLAM — post-conquest trade networks
 • MEM–PERSIA–WAR–ROME — different theater (land)
 

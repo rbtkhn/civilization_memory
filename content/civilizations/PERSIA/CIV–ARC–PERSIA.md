@@ -1,11 +1,11 @@
-CIV–ARC–PERSIA — v3.2
+CIV–ARC–PERSIA — v3.3
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.2
-Supersedes: CIV–ARC–PERSIA v3.1
-Upgrade Type: ADDITIVE · Will Durant (ARC-T-MODERN) added
+Version: 3.3
+Supersedes: CIV–ARC–PERSIA v3.2
+Upgrade Type: ADDITIVE · Verbatim citation count [N] per source (MEM–PERSIA files citing each source)
 Civilization: PERSIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
@@ -37,63 +37,67 @@ Later periods may clarify; they may not override earlier testimony.
 ────────────────────────────────────────────────────────────
 III. AUTHOR ADMISSIBILITY LISTS
 ────────────────────────────────────────────────────────────
+**Verbatim citation count:** The number in brackets [N] after each source
+is the count of MEM–PERSIA files that cite that source verbatim (block
+quote with attribution) as of the last ARC update. Re-run count when
+MEM corpus or ARC is updated.
 
 ARC-T-ANCIENT:
-• Herodotus (5th c. BCE) — Histories (Persian Wars, Cyrus, Darius, Xerxes)
-• Xenophon (c. 430–354 BCE) — Cyropaedia, Anabasis
-• Ctesias (5th–4th c. BCE) — Persica (fragmentary)
-• Avesta / Gathas — Zoroastrian sacred texts (verbatim; handle per CIV–MEM–CORE)
-• Darius I — Behistun Inscription (522 BCE)
-• Cyrus Cylinder (539 BCE)
-• Plutarch (c. 46–c. 120 CE) — Life of Artaxerxes; Life of Alexander
-• Arrian (c. 86–c. 146 CE) — Anabasis of Alexander
-• Diodorus Siculus (1st c. BCE) — Bibliotheca historica
-• Strabo (64 BCE–c. 24 CE) — Geographica
-• Old Testament / Hebrew Bible — Ezra, Nehemiah, Isaiah (Persian period; Cyrus)
-• Ammianus Marcellinus (4th c. CE) — Res Gestae (Sasanian campaigns)
+• Herodotus (5th c. BCE) — Histories (Persian Wars, Cyrus, Darius, Xerxes) [22]
+• Xenophon (c. 430–354 BCE) — Cyropaedia, Anabasis [5]
+• Ctesias (5th–4th c. BCE) — Persica (fragmentary) [0]
+• Avesta / Gathas — Zoroastrian sacred texts (verbatim; handle per CIV–MEM–CORE) [0]
+• Darius I — Behistun Inscription (522 BCE) [12]
+• Cyrus Cylinder (539 BCE) [6]
+• Plutarch (c. 46–c. 120 CE) — Life of Artaxerxes; Life of Alexander [3]
+• Arrian (c. 86–c. 146 CE) — Anabasis of Alexander [5]
+• Diodorus Siculus (1st c. BCE) — Bibliotheca historica [0]
+• Strabo (64 BCE–c. 24 CE) — Geographica [13]
+• Old Testament / Hebrew Bible — Ezra, Nehemiah, Isaiah (Persian period; Cyrus) [0]
+• Ammianus Marcellinus (4th c. CE) — Res Gestae (Sasanian campaigns) [0]
 
 ARC-T-MEDIEVAL:
-• Ferdowsi (940–1020) — Shahnameh (Book of Kings)
-• Al-Tabari (839–923) — Tarikh al-Rusul wa al-Muluk (covers Sasanian period)
-• Al-Biruni (973–1048) — Chronology of Ancient Nations; India
-• Nizam al-Mulk (1018–1092) — Siyasatnama (Book of Government)
-• Rashid al-Din (1247–1318) — Jami' al-Tawarikh (Universal History)
-• Ibn Khaldun (1332–1406) — Muqaddimah; Kitab al-Ibar
+• Ferdowsi (940–1020) — Shahnameh (Book of Kings) [27]
+• Al-Tabari (839–923) — Tarikh al-Rusul wa al-Muluk (covers Sasanian period) [10]
+• Al-Biruni (973–1048) — Chronology of Ancient Nations; India [0]
+• Nizam al-Mulk (1018–1092) — Siyasatnama (Book of Government) [0]
+• Rashid al-Din (1247–1318) — Jami' al-Tawarikh (Universal History) [0]
+• Ibn Khaldun (1332–1406) — Muqaddimah; Kitab al-Ibar [0]
 
 ARC-T-EARLY-MOD:
-• Edward Gibbon (1737–1794) — The History of the Decline and Fall of the Roman Empire (Persia/Rome passages)
-• George Rawlinson (1812–1902) — The Five Great Monarchies of the Ancient Eastern World; The Seventh Great Oriental Monarchy
-• John Malcolm (1769–1833) — The History of Persia (1815)
-• Mountstuart Elphinstone (1779–1859) — An Account of the Kingdom of Caubul (1815)
-• James Morier (1780–1849) — The Adventures of Hajji Baba of Ispahan (1824); Second Series (1828)
+• Edward Gibbon (1737–1794) — The History of the Decline and Fall of the Roman Empire (Persia/Rome passages) [9]
+• George Rawlinson (1812–1902) — The Five Great Monarchies of the Ancient Eastern World; The Seventh Great Oriental Monarchy [0]
+• John Malcolm (1769–1833) — The History of Persia (1815) [0]
+• Mountstuart Elphinstone (1779–1859) — An Account of the Kingdom of Caubul (1815) [0]
+• James Morier (1780–1849) — The Adventures of Hajji Baba of Ispahan (1824); Second Series (1828) [0]
 
 ARC-T-MODERN:
-• Will Durant (1885–1981) — The Story of Civilization: Our Oriental Heritage (Vol. 1, 1935; Persia, Mesopotamia, Egypt); The Life of Greece (Vol. 2); Caesar and Christ (Vol. 3; Roman–Persian context). Synthetic narrative history; accessible prose; broad civilizational coverage.
-• Adrian Goldsworthy (b. 1969) — Rome and Persia: The Seven Hundred Year Rivalry (2023); Philip and Alexander (2020); Caesar; Augustus; Pax Romana
-• Anthony Everitt (b. 1940) — Alexander the Great: His Life and His Mysterious Death (2019); Alexander-period coverage
-• John Keegan (1934–2012) — The Mask of Command (1987); A History of Warfare; Alexander as heroic leadership type
-• Lloyd Llewellyn-Jones (b. 1968) — Persians: The Age of the Great Kings (2022); King and Court in Ancient Persia; Ctesias' History of Persia; Designs on the Past
-• A.T. Olmstead (1880–1945) — History of the Persian Empire (1948)
-• Richard N. Frye (1920–2014) — The Heritage of Persia; The Golden Age of Persia
-• Pierre Briant (b. 1940) — From Cyrus to Alexander: A History of the Persian Empire; Darius in the Shadow of Alexander
-• Amélie Kuhrt (b. 1944) — The Persian Empire: A Corpus of Sources from the Achaemenid Period
-• Maria Brosius (b. 1961) — The Persians; Women in Ancient Persia
-• Touraj Daryaee (b. 1967) — Sasanian Persia: The Rise and Fall of an Empire; Oxford Handbook of Iranian History
-• Matthew Canepa (b. 1975) — The Two Eyes of the Earth: Art and Ritual of Kingship between Rome and Sasanian Iran
-• Gene Garthwaite (b. 1936) — The Persians
-• Ervand Abrahamian (b. 1940) — A History of Modern Iran; The Coup
-• Nikki Keddie (1930–2021) — Modern Iran: Roots and Results of Revolution; Iran and the Muslim World
-• Homa Katouzian (b. 1942) — The Persians; State and Society in Iran
-• Shaul Bakhash (b. 1943) — The Reign of the Ayatollahs; Iran: Monarchy, Bureaucracy and Reform
-• Roy Mottahedeh (b. 1940) — The Mantle of the Prophet
-• Abbas Amanat (b. 1947) — Pivot of the Universe; Iran: A Modern History
-• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+• Will Durant (1885–1981) — The Story of Civilization: Our Oriental Heritage (Vol. 1, 1935; Persia, Mesopotamia, Egypt); The Life of Greece (Vol. 2); Caesar and Christ (Vol. 3; Roman–Persian context). Synthetic narrative history; accessible prose; broad civilizational coverage. [2]
+• Adrian Goldsworthy (b. 1969) — Rome and Persia: The Seven Hundred Year Rivalry (2023); Philip and Alexander (2020); Caesar; Augustus; Pax Romana [17]
+• Anthony Everitt (b. 1940) — Alexander the Great: His Life and His Mysterious Death (2019); Alexander-period coverage [0]
+• John Keegan (1934–2012) — The Mask of Command (1987); A History of Warfare; Alexander as heroic leadership type [0]
+• Lloyd Llewellyn-Jones (b. 1968) — Persians: The Age of the Great Kings (2022); King and Court in Ancient Persia; Ctesias' History of Persia; Designs on the Past [17]
+• A.T. Olmstead (1880–1945) — History of the Persian Empire (1948) [0]
+• Richard N. Frye (1920–2014) — The Heritage of Persia; The Golden Age of Persia [0]
+• Pierre Briant (b. 1940) — From Cyrus to Alexander: A History of the Persian Empire; Darius in the Shadow of Alexander [0]
+• Amélie Kuhrt (b. 1944) — The Persian Empire: A Corpus of Sources from the Achaemenid Period [0]
+• Maria Brosius (b. 1961) — The Persians; Women in Ancient Persia [0]
+• Touraj Daryaee (b. 1967) — Sasanian Persia: The Rise and Fall of an Empire; Oxford Handbook of Iranian History [14]
+• Matthew Canepa (b. 1975) — The Two Eyes of the Earth: Art and Ritual of Kingship between Rome and Sasanian Iran [5]
+• Gene Garthwaite (b. 1936) — The Persians [0]
+• Ervand Abrahamian (b. 1940) — A History of Modern Iran; The Coup [10]
+• Nikki Keddie (1930–2021) — Modern Iran: Roots and Results of Revolution; Iran and the Muslim World [0]
+• Homa Katouzian (b. 1942) — The Persians; State and Society in Iran [2]
+• Shaul Bakhash (b. 1943) — The Reign of the Ayatollahs; Iran: Monarchy, Bureaucracy and Reform [0]
+• Roy Mottahedeh (b. 1940) — The Mantle of the Prophet [4]
+• Abbas Amanat (b. 1947) — Pivot of the Universe; Iran: A Modern History [19]
+• John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis. [0]
 
 ARC-T-MODERN (PERSIAN REFERENCE):
-• دایرةالمعارف فارسی — The Persian Encyclopedia; 3 vols, 43,000 entries (Iran, Islam, world); Persian-language; published 1966–1996; Amir Kabir reprint 2002. Comprehensive Persian reference.
-• دانشنامه ایران و اسلام — Encyclopedia of Iran and Islam; Persian-language; expanded from Encyclopaedia of Islam with Iran-focused articles; publication from 1975 (suspended 1980–1992). Iran and Islamic civilizational reference.
-• دانشنامه زبان و ادب فارسی — Encyclopaedia of Persian Language and Literature; 12 vols; Tehran; Persian-language. Reference on Persian language, literature, grammar, lexicography.
-• دایرةالمعارف بزرگ اسلامی — Great Islamic Encyclopaedia; multi-volume; Persian-language; Center for the Great Islamic Encyclopaedia (Iran). Islamic world including Persian history and culture.
+• دایرةالمعارف فارسی — The Persian Encyclopedia; 3 vols, 43,000 entries (Iran, Islam, world); Persian-language; published 1966–1996; Amir Kabir reprint 2002. Comprehensive Persian reference. [0]
+• دانشنامه ایران و اسلام — Encyclopedia of Iran and Islam; Persian-language; expanded from Encyclopaedia of Islam with Iran-focused articles; publication from 1975 (suspended 1980–1992). Iran and Islamic civilizational reference. [0]
+• دانشنامه زبان و ادب فارسی — Encyclopaedia of Persian Language and Literature; 12 vols; Tehran; Persian-language. Reference on Persian language, literature, grammar, lexicography. [0]
+• دایرةالمعارف بزرگ اسلامی — Great Islamic Encyclopaedia; multi-volume; Persian-language; Center for the Great Islamic Encyclopaedia (Iran). Islamic world including Persian history and culture. [0]
 
 Publishers of Persian reference works (when citing editions):
 • امیرکبیر — Persian Encyclopedia and other reference editions
@@ -142,8 +146,8 @@ ARC determines WHO may be quoted. MEM–TEMPLATE determines HOW MUCH and HOW WEL
 VIII. MIRRORING / REFERENCE
 ────────────────────────────────────────────────────────────
 This file is referenced by version pointer in:
-• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.2)
-• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.2)
+• CIV–CORE–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.3)
+• CIV–SCHOLAR–PERSIA (ARC Reference: CIV–ARC–PERSIA v3.3)
 
 ────────────────────────────────────────────────────────────
 IX. VERSIONING
@@ -246,5 +250,5 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
   Editorial Note: US-based; centrist; broad Middle East coverage
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–PERSIA — v3.2
+END OF FILE — CIV–ARC–PERSIA — v3.3
 ────────────────────────────────────────────────────────────

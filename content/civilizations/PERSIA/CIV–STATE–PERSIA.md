@@ -84,7 +84,7 @@ From Achaemenid/Sasanian imperial experience:
   • Gulf littoral dominance and chokepoint logic (MEM–PERSIA–GEO–PERSIAN–GULF)
   • Four-zone geographic structure: Caspian buffer, Gulf advantage, Indian Ocean periphery, Levant parity (SCHOLAR SYNTHESIS 0005)
   • Denial and endurance over conquest (Carrhae, Roman–Persian parity; MEM–PERSIA–WAR–ROME)
-  • Overextension risk and court-defection precedent (Khosrow II, Kavadh II; MEM–PERSIA–EMPIRE–KHOSROW–II, SYNTHESIS 0003, 0005)
+  • Overextension risk and court-defection precedent (Khosrow II, Kavadh II; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II, SYNTHESIS 0003, 0005)
 
 From Shi'a clerical tradition:
   Type: IDEOLOGICAL_CLAIM
@@ -291,7 +291,7 @@ Pattern 1 — GEO four-zone (SCHOLAR SYNTHESIS 0005, ENTRY 0006)
 Activation: Any decision involving Gulf use, escalation level, or sustained campaign. Status: ACTIVE.
 
 Pattern 2 — Khosrow/Kavadh overextension and defection (SCHOLAR SYNTHESIS 0003, 0005)
-• Khosrow II maximised reach (Levant, Egypt); Heraclius reversed; court (Kavadh II) defected; territories returned; Sasanian state never recovered. Liability attached to overextending ruler; defection to successor and elites. Exhaustion more dangerous than defeat. MEM–PERSIA–EMPIRE–KHOSROW–II, MEM–PERSIA–WAR–ROME.
+• Khosrow II maximised reach (Levant, Egypt); Heraclius reversed; court (Kavadh II) defected; territories returned; Sasanian state never recovered. Liability attached to overextending ruler; defection to successor and elites. Exhaustion more dangerous than defeat. MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME.
 Activation: Decisions on retaliation level, escalation, or sustained external commitment. Status: ACTIVE.
 
 Pattern 3 — Denial and endurance (SCHOLAR, WAR corpus)

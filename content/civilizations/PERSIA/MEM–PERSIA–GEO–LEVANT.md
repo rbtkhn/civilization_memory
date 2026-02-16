@@ -1,10 +1,10 @@
-MEM–PERSIA–GEO–LEVANT — v1.2
+MEM–PERSIA–GEO–LEVANT — v1.3
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
+Version: 1.3
+Upgrade Type: ADDITIVE · Goldsworthy verbatim (trade, closure deficit)
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN
 Subject: The Levant — Persian Western Frontier, Roman–Persian Collision Zone
@@ -29,7 +29,7 @@ GEO–MEMs contain:
 • ARC verbatim quotes (~1/3): demonstrating permanent patterns through historical evidence
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
-For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–EMPIRE–KHOSROW–II).
+For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -146,9 +146,17 @@ II.F. CLOSURE CAPACITY DEFICIT
 Neither Rome nor Persia can close the Levantine frontier. Peace treaties
 restore borders; they do not eliminate the structural incentive for
 renewed conflict. The Levant is too valuable (trade, revenue, prestige)
-and too accessible. Denial—preventing the other from holding it—replaces
-permanent conquest as the equilibrium. MEM–PERSIA–WAR–ROME encodes this
-doctrine: parity conflict is survivable; exhaustion is fatal.
+and too accessible. Adrian Goldsworthy frames the dual character of
+Roman–Persian relations in the theater:
+
+> "Despite their endless clashes, trade between the empires enriched
+> them both, and a mutual respect prevented both Rome and Persia from
+> permanently destroying the other."
+> — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
+
+Denial—preventing the other from holding it—replaces permanent conquest
+as the equilibrium. MEM–PERSIA–WAR–ROME encodes this doctrine: parity
+conflict is survivable; exhaustion is fatal.
 
 ────────────────────────────────────────────────────────────
 III. ARC TIMELINE EVIDENCE
@@ -233,8 +241,8 @@ V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ROME — parity war; Levant as theater
-• MEM–PERSIA–EMPIRE–KHOSROW–II — Levant conquest 614; reversal
-• MEM–PERSIA–EMPIRE–SHAPUR–I — Antioch sacked; Valerian
+• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Levant conquest 614; reversal
+• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Antioch sacked; Valerian
 • MEM–PERSIA–PALMYRA — Levantine counterweight; post-Valerian
 • MEM–PERSIA–ARMENIA — northern Levant interface
 • MEM–PERSIA–EGYPT — Khosrow's southern extension
@@ -252,7 +260,7 @@ Cross-civilization:
 • MEM–ROME–GEO–SYRIA — Roman Syria; depth-exposure
 • MEM–ROME–ISLAM — Levant loss
 
-Breaks if removed: MEM–PERSIA–WAR–ROME (theater); MEM–PERSIA–EMPIRE–KHOSROW–II (conquest/reversal).
+Breaks if removed: MEM–PERSIA–WAR–ROME (theater); MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II (conquest/reversal).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)
@@ -274,7 +282,7 @@ VII. BIBLIOGRAPHY
 • Herodotus, *Histories* — Achaemenid westward expansion
 • Edward Gibbon, *Decline and Fall* — Maurice, Khosrow, Heraclius
 • George Rawlinson, *The Seven Great Monarchies*, Vol. 5 (Persia) — boundaries
-• Adrian Goldsworthy, *Rome and Persia* — Khosrow, Levant conquest
+• Adrian Goldsworthy, *Rome and Persia* (2023) — Khosrow, Levant conquest; trade and mutual respect in theater; book description
 • Touraj Daryaee, *Sasanian Persia* — western frontier
 
 ────────────────────────────────────────────────────────────
@@ -296,5 +304,5 @@ Status: ACTIVE
 **OPTION F** — Link to MEM–ISLAM (Levant as Islamic absorption from both empires)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–LEVANT — v1.2
+END OF FILE — MEM–PERSIA–GEO–LEVANT — v1.3
 ────────────────────────────────────────────────────────────

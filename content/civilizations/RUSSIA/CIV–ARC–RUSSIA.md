@@ -1,4 +1,4 @@
-CIV–ARC–RUSSIA — v3.1
+CIV–ARC–RUSSIA — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 
 Status: CANONICAL · STAND-ALONE · MIRRORED
@@ -7,9 +7,14 @@ Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Compatibility: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0 (legacy A/B/C/D structure)
 Last Updated: February 2026
 
-Supersedes: CIV–ARC–RUSSIA v3.0
-Upgrade Type: ADDITIVE · AUTHOR EXPANSION
+Supersedes: CIV–ARC–RUSSIA v3.1
+Upgrade Type: Verbatim citation count [N] per source
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.2)
+────────────────────────────────────────────────────────────
+v3.2 — Verbatim citation count [N] per source in Categories A–D. Re-run count when MEM corpus or ARC is updated. Category E (institutional) entries do not require [N]. Supersedes v3.1.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.1)
@@ -94,6 +99,14 @@ and longer-term official analysis and planning. It does not
 participate in temporal precedence.
 
 ────────────────────────────────────────────────────────────
+VERBATIM CITATION COUNT (A–D)
+────────────────────────────────────────────────────────────
+The number in brackets [N] after each source is the count of MEM–RUSSIA
+files that cite that source verbatim (block quote with attribution) as
+of the last ARC update. Re-run count when MEM corpus or ARC is updated.
+Category E (institutional) entries do not require [N].
+
+────────────────────────────────────────────────────────────
 III. CATEGORY A — ANCIENT (REQUIRED)
 ────────────────────────────────────────────────────────────
 Definition:
@@ -122,19 +135,19 @@ least one of the following:
 General Roman political history alone is insufficient.
 
 Approved Ancient Authors (RUSSIA — ADMISSIBLE):
-• Herodotus
-• Strabo
-• Tacitus
-• Pliny the Elder
-• Ptolemy
-• Ammianus Marcellinus
-• Priscus of Panium
-• Procopius
-• Jordanes
-• Menander Protector
-• Theophylact Simocatta
-• Theophanes the Confessor
-• Patriarch Nikephoros
+• Herodotus [17]
+• Strabo [14]
+• Tacitus [9]
+• Pliny the Elder [0]
+• Ptolemy [0]
+• Ammianus Marcellinus [0]
+• Priscus of Panium [0]
+• Procopius [2]
+• Jordanes [2]
+• Menander Protector [0]
+• Theophylact Simocatta [0]
+• Theophanes the Confessor [0]
+• Patriarch Nikephoros [0]
 
 CONDITIONAL AUTHORS (USAGE CONSTRAINT):
 • Tacitus is admissible only for ethnographic references to Venedi / northern peoples.
@@ -196,29 +209,29 @@ Absence of justification is a compliance failure.
 Approved Medieval Sources (RUSSIA):
 
 Rus’ and East Slavic Chronicles:
-• Primary Chronicle (Povest’ vremennykh let)
-• Novgorod First Chronicle
-• Laurentian Chronicle
-• Hypatian Chronicle
+• Primary Chronicle (Povest’ vremennykh let) [43]
+• Novgorod First Chronicle [12]
+• Laurentian Chronicle [0]
+• Hypatian Chronicle [0]
 
 Byzantine Sources Engaging Rus’:
-• Constantine VII Porphyrogenitus
-• John Skylitzes
-• Michael Psellos
-• Anna Komnene
-• Leo the Deacon
+• Constantine VII Porphyrogenitus [9]
+• John Skylitzes [0]
+• Michael Psellos [0]
+• Anna Komnene [0]
+• Leo the Deacon [0]
 
 Islamic Geographers / Historians Engaging Rus’:
-• Ibn Fadlan
-• al-Masʿudi
-• Ibn Khordadbeh
-• Ibn Hawqal
-• al-Gardizi
+• Ibn Fadlan [0]
+• al-Masʿudi [0]
+• Ibn Khordadbeh [0]
+• Ibn Hawqal [0]
+• al-Gardizi [0]
 
 Steppe / Mongol Context (when explicitly tied to Rus’ space):
-• Rashid al-Din
-• Plano Carpini
-• William of Rubruck
+• Rashid al-Din [16]
+• Plano Carpini [0]
+• William of Rubruck [0]
 
 Rules (MANDATORY):
 • Category B may NOT replace Category A when ancient evidence exists
@@ -239,11 +252,11 @@ Function:
 Interpretive framing, synthesis, and foundational historiography.
 
 Approved Early Modern Scholars (RUSSIA):
-• Nikolai Karamzin (1766–1826) — History of the Russian State
-• Sergei Solovyov (1820–1879) — History of Russia from the Earliest Times
-• Vasily Klyuchevsky (1841–1911) — Course of Russian History
-• August Ludwig von Schlözer (1735–1809)
-• Leopold von Ranke (1795–1886) — works on Eastern Europe
+• Nikolai Karamzin (1766–1826) — History of the Russian State [34]
+• Sergei Solovyov (1820–1879) — History of Russia from the Earliest Times [11]
+• Vasily Klyuchevsky (1841–1911) — Course of Russian History [11]
+• August Ludwig von Schlözer (1735–1809) [0]
+• Leopold von Ranke (1795–1886) — works on Eastern Europe [0]
 
 Rules (MANDATORY):
 • At least TWO early modern scholarly quotations REQUIRED per MEM file
@@ -268,46 +281,46 @@ Interpretive framing, historiographic contrast, and modern synthesis.
 Approved Modern Scholars (RUSSIA):
 
 Imperial & Dynastic Russia:
-• Robert K. Massie (1929–2019)
+• Robert K. Massie (1929–2019) [0]
 
 Military History, War, and Strategy:
-• John Erickson (1929–2002)
+• John Erickson (1929–2002) [31]
 • John Keegan (1934–2012) — *The Face of Battle*, *A History of
   Warfare*, *The Second World War*, *Barbarossa: Invasion of Russia,
   1941*; admissible for operational culture, comparative military
   history, and Eastern Front / Soviet war narrative. May supplement
   but not substitute for Russian-primary or Erickson-level specialist
-  scholarship.
-• Alexander Mikaberidze (b. 1978)
+  scholarship. [13]
+• Alexander Mikaberidze (b. 1978) [0]
 
 Structural & Political History:
-• Richard Pipes (1923–2018)
-• Dominic Lieven (b. 1952)
-• Geoffrey Hosking (1945–2018)
-• Orlando Figes (b. 1959)
-• Stephen Kotkin (b. 1963)
-• Niall Ferguson (b. 1964) — *The War of the World*, *Civilization: The West and the Rest*, *Empire*; admissible for comparative empire and twentieth-century conflict framing, Russia/USSR in descent-of-the-West narrative, and structural civilizational contrast. May supplement but not substitute for Russian-primary or specialist Russian-historical scholarship.
+• Richard Pipes (1923–2018) [12]
+• Dominic Lieven (b. 1952) [66]
+• Geoffrey Hosking (1945–2018) [0]
+• Orlando Figes (b. 1959) [27]
+• Stephen Kotkin (b. 1963) [7]
+• Niall Ferguson (b. 1964) — *The War of the World*, *Civilization: The West and the Rest*, *Empire*; admissible for comparative empire and twentieth-century conflict framing, Russia/USSR in descent-of-the-West narrative, and structural civilizational contrast. May supplement but not substitute for Russian-primary or specialist Russian-historical scholarship. [0]
 
 Strategic & Geographic Analysis (structural framing):
-• John J. Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*; "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); admissible for GEO–MEM strategic cognition, power distribution, international orders (Cold War, liberal order 1990–2019), and structural constraint framing. External IR framing only; may not substitute for Russian-historical primary scholarship.
+• John J. Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*; "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); admissible for GEO–MEM strategic cognition, power distribution, international orders (Cold War, liberal order 1990–2019), and structural constraint framing. External IR framing only; may not substitute for Russian-historical primary scholarship. [22]
 • Glenn Diesen (b. 1978) — *Russia's Geoeconomic Strategy for a
   Greater Eurasia*, *The Ukraine Crisis and the Restructuring of
   the West*; admissible for geoeconomic framing, Eurasian integration,
   and structural analysis of Russia–West relations. IR/Eurasian
   framing; may supplement but not substitute for Russian-historical
-  primary scholarship.
+  primary scholarship. [0]
 • Henry Kissinger (1923–2023) — *Diplomacy*, *World Order*, *On China*;
   admissible for great-power diplomacy, balance of power, détente and
   Russia–West relations, and structural/diplomatic framing of Soviet
   and Russian foreign policy. Diplomatic/IR framing only; may not
-  substitute for Russian-historical primary scholarship.
+  substitute for Russian-historical primary scholarship. [10]
 
 Economic & Transition (reform, shock therapy, post-Soviet):
 • Jeffrey Sachs (b. 1954) — *The End of Poverty*, advisory role
   Russia 1991–1994; admissible for 1990s transition narrative,
   shock therapy debate, and reform failure/success framing. Economic
   and policy analysis only; may not substitute for Russian-historical
-  primary scholarship.
+  primary scholarship. [0]
 
 Rules (MANDATORY):
 • At least TWO distinct modern scholars REQUIRED per MEM file
@@ -489,12 +502,12 @@ CATEGORY E (SPECIALIST):
 ────────────────────────────────────────────────────────────
 XII. CANON STATE
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–RUSSIA v3.1
+Version: CIV–ARC–RUSSIA v3.2
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–RUSSIA v3.0
-Upgrade Type: ADDITIVE · AUTHOR EXPANSION
+Supersedes: CIV–ARC–RUSSIA v3.1
+Upgrade Type: Verbatim citation count [N] per source
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–RUSSIA — v3.1
+END OF FILE — CIV–ARC–RUSSIA — v3.2
 ────────────────────────────────────────────────────────────

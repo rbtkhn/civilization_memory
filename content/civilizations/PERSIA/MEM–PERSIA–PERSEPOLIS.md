@@ -141,11 +141,12 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–DYNASTY–ACHAEMENID — Persepolis as dynastic seat
 • MEM–PERSIA–WAR–ALEXANDER — Alexander burns Persepolis 330 BC
 • MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — last king to hold Persepolis
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Pasargadae contrast (Cyrus's capital)
+• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — founder of Achaemenid line
+• MEM–PERSIA–PASARGADAE — Cyrus's capital and tomb; Persepolis continues the template
 • MEM–PERSIA–MEDES — Ecbatana as alternate capital
 • MEM–PERSIA–EGYPT — tribute-bearers in Apadana reliefs
 • MEM–PERSIA–ZOROASTER — ritual, Nowruz
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian invocation of Achaemenid sites
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian invocation of Achaemenid sites
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — regional context

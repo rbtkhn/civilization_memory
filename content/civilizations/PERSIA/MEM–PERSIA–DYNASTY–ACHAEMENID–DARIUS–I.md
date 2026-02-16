@@ -189,7 +189,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–MEDES — Darius consolidates Persian–Median fusion
 • MEM–PERSIA–EGYPT — Cambyses/Darius Egypt; satrapy
 • MEM–PERSIA–ZOROASTER — Ahura Mazda in Behistun ideology
-• MEM–PERSIA–EMPIRE–ARDASHIR–I — Sasanian restoration invokes Darius
+• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian restoration invokes Darius
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — northern frontier; Royal Road corridor

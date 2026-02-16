@@ -20,7 +20,7 @@ UPGRADE NOTE (v1.1) — DOCTRINE 01
 ────────────────────────────────────────────────────────────
 User requested promotion of SYNTHESIS 0005 to doctrine. DIB–PERSIA accepted.
 
-• DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY): New doctrine. Encodes Persian strategic geography as four zones (Caspian buffer, Gulf chokepoint, Indian Ocean periphery, Levant parity) with distinct structural incentives; in parity zones, conquest does not imply consolidation; overextension invites reversal, court defection, and exhaustion; liability and irreversibility attach to the overextending ruler and the defecting successor. Source: CIV–SCHOLAR–PERSIA SYNTHESIS 0005; ENTRY 0006; MEM–PERSIA–GEO–* , MEM–PERSIA–WAR–ROME, MEM–PERSIA–EMPIRE–KHOSROW–II.
+• DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY): New doctrine. Encodes Persian strategic geography as four zones (Caspian buffer, Gulf chokepoint, Indian Ocean periphery, Levant parity) with distinct structural incentives; in parity zones, conquest does not imply consolidation; overextension invites reversal, court defection, and exhaustion; liability and irreversibility attach to the overextending ruler and the defecting successor. Source: CIV–SCHOLAR–PERSIA SYNTHESIS 0005; ENTRY 0006; MEM–PERSIA–GEO–* , MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
