@@ -1,4 +1,4 @@
-CIV–ARC–[CIVILIZATION] — v3.2
+CIV–ARC–[CIVILIZATION] — v3.3
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
 Living ARC Optional (CMC 3.3)
@@ -7,7 +7,7 @@ Status: ACTIVE · CANONICAL · SIMPLIFIED
 Supersedes: CIV–ARC–[CIVILIZATION] v3.0
 Upgrade Type: ALIGNMENT · CMC 3.1 + LIVING ARC PREVIEW
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–CORE v3.2 · CIV–MEM–TEMPLATE v3.1 · NAMESPACE–CLARIFICATION v1.0
+Compatibility: CIV–MEM–CORE v3.3 · CIV–MEM–TEMPLATE v3.3 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────

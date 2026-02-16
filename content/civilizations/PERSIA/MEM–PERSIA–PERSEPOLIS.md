@@ -1,10 +1,10 @@
-MEM–PERSIA–PERSEPOLIS — v1.1
+MEM–PERSIA–PERSEPOLIS — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive); Barnes dimension (liability of ruler who lost the site; irreversibility). No numerical proportions.
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Persepolis — Ceremonial Capital and Architectural Propaganda
@@ -111,7 +111,17 @@ Sasanians, invoked the site as a link to the ancient kings (Canepa,
 it concentrates it.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Persepolis is ceremonial centre, not administrative capital—legitimacy is concentrated in ritual space and visual order. **Incentive structure:** The Achaemenid incentive was to display imperial unity (tribute processions, Apadana reliefs) and anchor kingship in Persis. **Structural outcome:** The site was reachable once the army was defeated (Alexander); ceremonial centrality made it a symbolic target. Burning ended use but not memory—later dynasties invoked the ruins. The plateau protected the heartland; Persepolis sat on it but was not defensible in isolation.
+
+────────────────────────────────────────────────────────────
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Barnes dimension:** The site itself does not bear liability; **rulers who lost it** do. Darius III bore liability for the loss of the ceremonial centre—his flight and defeat left Persepolis undefended. **Who paid:** The Achaemenid ritual order (ended); the king who failed to hold the field (Darius III). **Who benefited:** Alexander (performative destruction); later Persian dynasties (ruins as legitimacy anchor). **Irreversibility:** Persepolis was not rebuilt as living capital; it persisted as memory and later invocation (Sasanians, Canepa). Liability attached to the last king to hold it; the symbolic weight transferred.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persepolis encodes empire as visual and ritual order.
 • Architecture is propaganda; the Apadana reliefs are political theory.
@@ -122,7 +132,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. CITY STRUCTURED DATA (LAYER 2)
+X. CITY STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 | Field | Value |
 |-------|-------|
@@ -133,7 +143,7 @@ VIII. CITY STRUCTURED DATA (LAYER 2)
 | CONTROL_HISTORY | Achaemenid 518–330 BC; burned by Alexander 330; ruins thereafter |
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS
+XI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — founder of Persepolis construction
@@ -155,7 +165,7 @@ GEO (≥2):
 Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (foundation); MEM–PERSIA–WAR–ALEXANDER (destruction).
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Pierre Briant, *From Cyrus to Alexander* — ceremonial function
@@ -165,11 +175,11 @@ X. BIBLIOGRAPHY
 • A.T. Olmstead, *History of the Persian Empire* (1948)
 
 ────────────────────────────────────────────────────────────
-XI. INGEST BOOTSTRAP
+XIII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–PERSIA–PERSEPOLIS
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–PERSEPOLIS — v1.1
+END OF FILE — MEM–PERSIA–PERSEPOLIS — v1.2
 ────────────────────────────────────────────────────────────

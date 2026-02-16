@@ -6,7 +6,7 @@ Version: 3.3
 Supersedes: CIV–STATE–TEMPLATE v3.2
 Upgrade Type: X-B ACCOMMODATION/REVERSAL OPTION — DUTY OF COMPETENCE IN DECISION POINTS
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
-Compatibility: CIV–MEM–CORE v3.2 · CMC 3.2
+Compatibility: CIV–MEM–CORE v3.3 · CMC 3.3
 Last Update: 12 February 2026
 
 ────────────────────────────────────────────────────────────

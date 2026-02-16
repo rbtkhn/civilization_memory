@@ -392,13 +392,9 @@ Principle:
 • Neither mind is ever fully absent
 • The blend determines emphasis, not exclusion
 
-File Type Ratios:
-• GEO–MEM files: 2/3 MEARSHEIMER + 1/3 MERCOURIS
-  (Strategic terrain logic, evidenced by historical quotes)
-• Subject MEM files: 2/3 MERCOURIS + 1/3 MEARSHEIMER
-  (Civilizational narrative, framed by strategic constraints)
-
-See: Section VP-1.g (PROPORTIONAL BLEND LAW)
+File type determined primary/secondary voice (GEO: Mearsheimer primary;
+Subject: Mercouris primary). Numerical proportions (2/3, 1/3) were later
+removed; see current VP-1.g (CONTENT COMPOSITION RULE).
 
 Backward Compatibility:
 • All existing MEM files remain valid
@@ -1052,54 +1048,66 @@ Options menu SHOULD present Barnes option when:
 • Personal liability appears to be historical driver
 • "Why did they actually do that?" remains unanswered
 
-Barnes does NOT participate in the content proportion rule.
-Barnes is exploratory only — never used in MEM production.
+Barnes participates as a required third role in MEM content (see VP-1.g):
+every MEM must satisfy a Barnes dimension (or N/A). He is also exploratory
+via the options menu.
 
 See: CIV–MIND–BARNES for full liability/mechanism perspective specification.
 
-VP-1.g. CONTENT PROPORTION RULE (FILE TYPE RATIOS)
+VP-1.g. CONTENT COMPOSITION RULE (VOICE ROLES — NO NUMERICAL PROPORTIONS)
 ────────────────────────────────────────────────────────────
-The dual-mind polyphony manifests differently across file types.
-(NOTE: Barnes does NOT participate in the content proportion rule.)
+The three-mind polyphony manifests by **primary voice**, **secondary voice**,
+and **required Barnes dimension**. There are no numerical proportions
+(no 2/3, 1/3, or percentages). File type determines who leads.
 
 Principle:
-Both MERCOURIS and MEARSHEIMER cognition are ALWAYS present in every file.
-The proportion shifts based on file type. Neither mind is ever absent.
+• MERCOURIS and MEARSHEIMER are ALWAYS present in every file; one is
+  primary, one secondary, by file type. Neither may be entirely absent.
+• BARNES is a required third role: every MEM must satisfy a Barnes
+  dimension (framework applied, or N/A stated). See cmc-blend-law.
 
 ┌─────────────────┬────────────────────┬────────────────────┐
-│ FILE TYPE       │ PRIMARY VOICE      │ SECONDARY VOICE    │
+│ FILE TYPE       │ PRIMARY VOICE      │ SECONDARY VOICE     │
 ├─────────────────┼────────────────────┼────────────────────┤
-│ GEO–MEM         │ 2/3 MEARSHEIMER    │ 1/3 MERCOURIS      │
-│ Subject MEM     │ 2/3 MERCOURIS      │ 1/3 MEARSHEIMER    │
+│ GEO–MEM         │ MEARSHEIMER       │ MERCOURIS           │
+│ Subject MEM     │ MERCOURIS          │ MEARSHEIMER         │
 └─────────────────┴────────────────────┴────────────────────┘
 
-GEO–MEM Files (2/3 Mearsheimer + 1/3 Mercouris):
+GEO–MEM Files (Mearsheimer primary, Mercouris secondary):
 • Primary content: Strategic terrain logic, power distribution, structural
-  constraints (MEARSHEIMER)
-• Secondary content: ARC verbatim quotes from ancient, medieval, early modern,
-  and modern sources demonstrating permanent patterns (MERCOURIS evidence)
+  constraints (MEARSHEIMER). Leads strategic-context and structural sections.
+• Secondary content: ARC verbatim quotes and civilizational evidence
+  demonstrating permanent patterns (MERCOURIS evidence).
 • Question answered: "What does this terrain DO to actors within it?"
-• Quotes serve as evidence that patterns are permanent across all periods
+• Quotes serve as evidence that patterns are permanent across all periods.
 
-Subject MEM Files (2/3 Mercouris + 1/3 Mearsheimer):
+Subject MEM Files (Mercouris primary, Mearsheimer secondary):
 • Primary content: Civilizational narrative, institutional meaning, legitimacy
-  structures, historical evidence (MERCOURIS)
+  structures, historical evidence (MERCOURIS). Leads narrative and meaning.
 • Secondary content: Strategic framing, power-distribution context, geographic
-  constraints (MEARSHEIMER frame)
+  constraints (MEARSHEIMER frame).
 • Question answered: "What does this MEAN for the civilization?"
-• Strategic context grounds civilizational claims in structural reality
+• Strategic context grounds civilizational claims in structural reality.
+
+Barnes (required third role):
+• Every MEM must include at least one place that applies the Barnes
+  analytical framework (jurisdiction, liability, defection, institutional
+  survival, irreversibility) or states why that dimension is N/A.
+• Minimum presence; no numerical share. May be a dedicated subsection.
 
 Cross-Reference Logic:
 • GEO–MEM and subject MEM on the same topic (e.g., GEO–BALTIC–SEA vs
-  MEM–RUSSIA–BALTIC) are complementary lenses with inverted proportions
-• Neither file is complete without the other
-• Polyphony emerges from the file structure itself
+  MEM–RUSSIA–BALTIC) are complementary lenses with inverted primary/secondary.
+• Neither file is complete without the other.
+• Polyphony emerges from the file structure itself.
 
 Rules:
-• Proportions are approximate, not mechanical
-• Neither voice may be entirely absent from any file
-• File type determines emphasis, not exclusion
-• Violation of content proportions degrades polyphonic architecture
+• No numerical proportions. Emphasis is by primary vs secondary voice and
+  section role (see cmc-blend-law for section-role guidance).
+• Neither Mercouris nor Mearsheimer may be entirely absent from any file.
+• Barnes dimension must be satisfied (or N/A) in every file.
+• File type determines emphasis, not exclusion.
+• Violation of the composition rule degrades polyphonic architecture.
 
 VP-1.h. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────

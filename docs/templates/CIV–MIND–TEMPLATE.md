@@ -1,24 +1,24 @@
-CIV–MIND–TEMPLATE — v3.2
+CIV–MIND–TEMPLATE — v3.3
 Civilizational Memory Codex · Mind Profile Governance Template
-Polyphony Architecture Foundation · Proportional Blend Law
+Polyphony Architecture Foundation · Content Composition Rule
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.2
+Version: 3.3
 Scope: ALL MIND PROFILES
 Class: CIV–MIND–TEMPLATE (Mind Governance Law)
 Load Order: AFTER CIV–MEM–CORE
-Supersedes: CIV–MIND–TEMPLATE v2.5
+Supersedes: CIV–MIND–TEMPLATE v3.2
 Compatibility:
-• CIV–MEM–CORE v3.2
-• CIV–MIND–MERCOURIS v3.2 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v3.2 (ADVISORY)
-• CIV–MIND–BARNES v3.2 (LIABILITY/MECHANISM PERSPECTIVE)
+• CIV–MEM–CORE v3.3
+• CIV–MIND–MERCOURIS v3.3 (PRIMARY)
+• CIV–MIND–MEARSHEIMER v3.3 (ADVISORY)
+• CIV–MIND–BARNES v3.3 (LIABILITY/MECHANISM PERSPECTIVE)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.2
+• CIV–MEM–CORE v3.3
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Last Update: February 2026

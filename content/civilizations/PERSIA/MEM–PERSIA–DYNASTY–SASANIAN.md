@@ -1,9 +1,9 @@
-MEM–PERSIA–DYNASTY–SASANIAN — v1.2
+MEM–PERSIA–DYNASTY–SASANIAN — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
+Version: 1.3
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive); Barnes dimension (liability, defection, absorption). Section order fixed (VII–X). No numerical proportions.
 Civilization: PERSIA
 Subject: Sasanian Dynasty
 Dates: 224–651 AD
@@ -106,15 +106,17 @@ Sasanian administrative, fiscal, and court models were absorbed into:
 Empire fell; civilization persisted.
 
 ────────────────────────────────────────────────────────────
-VIII. BIBLIOGRAPHY
+VII. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
 ────────────────────────────────────────────────────────────
-• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
-• Adrian Goldsworthy, *Rome and Persia* (2023) — Sasanian vs Parthian; centralization vs raid/negotiate
-• Touraj Daryaee, *Sasanian Persia* — dynasty, ideology
-• Matthew Canepa, *The Two Eyes of the Earth* — sacral kingship
+**Power distribution:** Sasanian Persia reconstituted a centralized imperial core on the plateau and achieved near-parity with Rome. Incentive structure favoured centralization over Parthian confederation—the Arsacid model of raid and negotiate was replaced by conquest and permanent pressure. **Structural outcome:** The dynasty could deny Rome decisive victory and project into Mesopotamia and the Levant, but overextension (Khosrow II) aligned with the wrong incentive for a parity zone; exhaustion and defection followed. The balance of power permitted endurance, not terminal victory.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook:** Ardashir I and the early Sasanians bore liability for the rupture with the Arsacids—overthrow of the Parthian order, suppression of noble autonomy. **Overextension:** Khosrow II bears liability for reach into Levant and Egypt that exceeded hold; court and successor defected when cost of loyalty exceeded benefit (Kavadh II's coup and peace with Heraclius). **Institutional survival:** The dynasty ended; the administrative and sacral template was absorbed by the Abbasid Caliphate—bureaucracy and Persian bureaucratic culture persisted. **Irreversibility:** Collapse was not undone; the vacuum was filled by Islam. Liability attached to the overextending ruler and to the defecting successor; the civilizational layer was transferred, not erased.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia restores itself through ideological revival.
 • Centralization follows perceived civilizational humiliation.
@@ -123,5 +125,13 @@ VII. CONTINUITY INSIGHTS (RAW)
 • The Sasanians made Persian sovereignty hard, formal, and transmissible.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.2
+X. BIBLIOGRAPHY
+────────────────────────────────────────────────────────────
+• Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
+• Adrian Goldsworthy, *Rome and Persia* (2023) — Sasanian vs Parthian; centralization vs raid/negotiate
+• Touraj Daryaee, *Sasanian Persia* — dynasty, ideology
+• Matthew Canepa, *The Two Eyes of the Earth* — sacral kingship
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.3
 ────────────────────────────────────────────────────────────

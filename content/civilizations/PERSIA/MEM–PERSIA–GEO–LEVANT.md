@@ -1,10 +1,10 @@
-MEM–PERSIA–GEO–LEVANT — v1.3
+MEM–PERSIA–GEO–LEVANT — v1.4
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · Goldsworthy verbatim (trade, closure deficit)
+Version: 1.4
+Upgrade Type: Content composition rule (new MIND rule): removed numerical proportions; content-composition wording; Barnes dimension N/A with pointer to liability MEMs.
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN
 Subject: The Levant — Persian Western Frontier, Roman–Persian Collision Zone
@@ -19,14 +19,10 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Proportional Blend: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
+Content composition: Mearsheimer primary (strategic/terrain, power distribution, parity), Mercouris secondary (ARC evidence, civilizational encoding). Barnes dimension: N/A—terrain does not assign liability; liability attaches to actors who overextend in the corridor (e.g. Khosrow II; see MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
-
-GEO–MEMs contain:
-• Strategic analysis (~2/3): terrain logic, frontier dynamics, power distribution
-• ARC verbatim quotes (~1/3): demonstrating permanent patterns through historical evidence
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
 For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
@@ -304,5 +300,5 @@ Status: ACTIVE
 **OPTION F** — Link to MEM–ISLAM (Levant as Islamic absorption from both empires)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–LEVANT — v1.3
+END OF FILE — MEM–PERSIA–GEO–LEVANT — v1.4
 ────────────────────────────────────────────────────────────

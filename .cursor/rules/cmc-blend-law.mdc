@@ -1,56 +1,68 @@
 ---
-description: Enforces content proportion rule when creating or editing MEMs (GEO vs Subject)
+description: Enforces content composition rule when creating or editing MEMs (GEO vs Subject; three roles)
 alwaysApply: true
 ---
 
-# CMC Content Proportion Rule (formerly Proportional Blend Law)
+# CMC Content Composition Rule (formerly Proportional Blend Law)
 
-When creating or editing MEM files (WRITE mode), apply the **content proportion rule** per CIV–MEM–CORE and CMC–BOOTSTRAP:
+When creating or editing MEM files (WRITE mode), apply the **content composition rule** per CIV–MEM–CORE and CMC–BOOTSTRAP. There are **no numerical proportions** (no 2/3, 1/3, or percentages). Emphasis is determined by **primary vs secondary voice** and **section role**.
 
 ## GEO–MEM Files
 
-- **2/3 Mearsheimer** — structural/power logic, force-ratio, geographic constraints, strategic terrain
-- **1/3 Mercouris** — ARC quotes, civilizational evidence, institutional continuity
-- Mearsheimer is **primary voice**; Mercouris supplies evidence layer.
+- **Primary voice:** Mearsheimer — structural/power logic, force-ratio, geographic constraints, strategic terrain. Leads strategic-context and structural-assessment sections.
+- **Secondary voice:** Mercouris — ARC quotes, civilizational evidence, institutional continuity. Supplies evidence layer and supports primary.
+- Both voices must be present. Primary sets the analytical frame; secondary provides evidence and civilizational depth.
 
 ## Subject MEM Files
 
-- **2/3 Mercouris** — civilizational narrative, legitimacy, institutional continuity
-- **1/3 Mearsheimer** — strategic constraints, power distribution, survival incentives
-- Mercouris is **primary voice**; Mearsheimer frames constraints.
+- **Primary voice:** Mercouris — civilizational narrative, legitimacy, institutional continuity. Leads narrative, civilizational-function, and evidence sections.
+- **Secondary voice:** Mearsheimer — strategic constraints, power distribution, survival incentives. Frames constraints and structural context.
+- Both voices must be present. Primary sets the meaning frame; secondary grounds claims in structural reality.
 
-## Barnes
+## Barnes (Third Role — Required)
 
-- **Barnes does NOT participate** in the content proportion rule.
-- Barnes is invoked through the options menu; he does not weight GEO vs Subject MEM content.
+- **Every MEM must satisfy a Barnes dimension:** at least one subsection or clearly identifiable thread that applies the Barnes analytical framework (jurisdiction, personal liability, defection incentive, institutional survival, irreversibility) from CIV–MIND–BARNES, or that explicitly states why the liability/mechanism dimension is not applicable for this subject.
+- This is a **minimum presence**, not a numerical share. When substantive, it may sit in a dedicated "Liability / mechanism" or "Barnes assessment" section.
+- Barnes is also invoked through the options menu; in WRITE, his role is required in the MEM content.
+
+## Section Role (Guidance)
+
+| Section type | Primary voice | Secondary voice |
+|--------------|---------------|-----------------|
+| Strategic context / force ratio / terrain | Mearsheimer | Mercouris (evidence) |
+| Civilizational function / legitimacy / meaning | Mercouris | Mearsheimer (constraints) |
+| Evidence / ARC quotes / chronicle | Mercouris | — |
+| Structural assessment / incentive frame | Mearsheimer | — |
+| Liability / mechanism | Barnes | — |
+
+File type (GEO vs Subject) determines which voice **leads** the MEM overall; the table above guides which voice leads in which section type. Both Mercouris and Mearsheimer must appear in substantive form; Barnes dimension must be satisfied or N/A.
 
 ## MIND-Navigation Interaction
 
-**Content proportion rule and analytical navigation govern different dimensions:**
-
 | Protocol | Governs | Scope |
 |----------|---------|-------|
-| **Content proportion rule** | Content proportions in MEM files | WRITE mode only |
+| **Content composition rule** | Voice roles and section roles in MEM files | WRITE mode only |
 | **Analytical navigation** | Analytical framing, connection/source surfacing | All modes |
 
 In WRITE mode, both apply without conflict:
-- **Content proportion rule** determines what goes into the MEM (2/3 primary, 1/3 secondary)
-- **Analytical navigation** influences what is *surfaced* during composition
+- **Content composition rule** determines who leads which sections and that all three roles (Mercouris, Mearsheimer, Barnes) are satisfied.
+- **Analytical navigation** influences what is *surfaced* during composition. Apply analytical frameworks from CIV–MIND–MERCOURIS and CIV–MIND–MEARSHEIMER when producing primary and secondary content.
 
 **Example:** User invokes Barnes lens while writing a GEO–MEM.
-- Barnes influences which aspects are surfaced (liability, mechanism)
-- Content proportion rule still applies: final content is 2/3 Mearsheimer, 1/3 Mercouris
-- Barnes insights become *inputs* to the MEM, not governing proportions
+- Barnes influences which aspects are surfaced (liability, mechanism).
+- Content composition rule still applies: Mearsheimer primary, Mercouris secondary, Barnes dimension required.
+- Barnes insights become *inputs* and satisfy the required Barnes role.
 
 See PROTOCOL–MIND–NAVIGATION Section VI.D for detailed rules.
 
 ## Self-Check (MEM Production)
 
 - [ ] File type identified (GEO–MEM vs Subject MEM)?
-- [ ] Primary voice 2/3, secondary 1/3?
-- [ ] GEO–MEM: Mearsheimer primary, Mercouris evidence (ARC quotes)?
-- [ ] Subject MEM: Mercouris primary, Mearsheimer constraints?
+- [ ] Primary voice leads; secondary voice present in substantive form?
+- [ ] GEO–MEM: Mearsheimer leads (strategic/terrain); Mercouris supplies evidence (ARC quotes)?
+- [ ] Subject MEM: Mercouris leads (narrative/legitimacy); Mearsheimer supplies structural frame?
+- [ ] Barnes dimension satisfied (framework applied or N/A stated)?
 
-Reference: CIV–MEM–CORE VP-1.g, CMC–BOOTSTRAP ACTIVE CONSTRAINTS, CIV–MIND–MEARSHEIMER IV.B, PROTOCOL–MIND–NAVIGATION VI.D
+Reference: CIV–MEM–CORE VP-1.g, CMC–BOOTSTRAP ACTIVE CONSTRAINTS, CIV–MIND–MERCOURIS, CIV–MIND–MEARSHEIMER, CIV–MIND–BARNES, PROTOCOL–MIND–NAVIGATION VI.D
 
-Note: This rule was formerly called "Proportional Blend Law." See TERMINOLOGY–REGISTRY for the rename rationale.
+Note: Numerical proportions (2/3, 1/3) have been removed. This rule was formerly "Proportional Blend Law" / "Content proportion rule." See TERMINOLOGY–REGISTRY for the rename rationale.

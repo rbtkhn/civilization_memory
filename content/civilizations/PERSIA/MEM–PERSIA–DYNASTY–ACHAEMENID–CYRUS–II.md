@@ -1,10 +1,10 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.2
+MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
+Version: 1.3
+Upgrade Type: Content composition rule (new MIND rule): structural note (incentive: incorporation); Barnes dimension (who on the hook, who benefited, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Cyrus II “the Great” — Achaemenid Founder
 Dates: c. 600–530 BC
@@ -139,8 +139,15 @@ Cyrus becomes a normative memory, not a replicable ruler.
 
 His restraint is remembered even when later emperors abandon it.
 
+**Structural note:** The incentive structure favoured incorporation over annihilation—conquered elites retained local legitimacy in exchange for loyalty; the conqueror gained scale without the cost of occupation. What the balance of power and legitimacy allowed was integrative empire, not permanent garrison.
+
 ────────────────────────────────────────────────────────────
-VIII. CONTINUITY INSIGHTS (RAW)
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook:** Nabonidus (Babylon)—deposed for neglect of Marduk and provincial loyalty; his removal opened the gate for Cyrus's entry. Conquered elites (Lydia, Babylon) bore the cost of submission but gained continuity of law and cult. **Who benefited:** Cyrus as conqueror and legitimator—authority flowed to the centre; local elites retained standing in exchange for recognition. **Irreversibility:** The Achaemenid template (satrapies, tribute, plural legitimacy) was set; later overstretch (e.g. Xerxes) did not undo the precedent. Liability in the founding phase attached to the displaced ruler (Nabonidus) and to elites who resisted; those who accommodated were incorporated, not destroyed.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia forms through integrative conquest.
 • Legitimacy is preserved by respecting difference.
@@ -151,12 +158,12 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. BIBLIOGRAPHY
+X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, I.87 — Cyrus and Croesus; integrative sovereignty
 • Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of gods and peoples
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Cyrus, propaganda, liberation rhetoric; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.2
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.3
 ────────────────────────────────────────────────────────────

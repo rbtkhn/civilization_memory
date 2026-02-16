@@ -1,9 +1,9 @@
-MEM–PERSIA–ISLAM — v1.1
+MEM–PERSIA–ISLAM — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · indigenous-language quote (Avesta/Gathas)
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, absorption incentive); Barnes dimension (who paid, defection, institutional survival, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Islam in Persia
 Dates: c. 650 AD–present
@@ -93,7 +93,17 @@ Islam in Persia enables:
 Faith becomes strategic memory.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Post-conquest, Arab–Islamic authority held the sword; Persian administrative and cultural depth held the bureaucracy and high culture. Neither could replace the other at scale. **Incentive structure:** The conqueror's incentive was extraction and legitimacy through Persian administrative continuity; the Persian elite's was survival and influence within the new frame. Absorption (Persianization of Islam, Persian bureaucrats in the caliphate) reflected mutual incentive—conquest without erasure. **Structural outcome:** Islam becomes a Persian medium; empire as form is reconstituted under Islamic legitimacy. No terminal victory of one civilization over the other; layered persistence.
+
+────────────────────────────────────────────────────────────
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who paid:** The Sasanian court and dynasty—defeat, overthrow, no restoration. **Who defected:** Persian elites who accommodated the Caliphate; Zoroastrian state collapsed, administrative elites retained. **Who benefited:** Caliphate (administrative depth); Persian literati and bureaucrats (influence within Islamic frame). **Institutional survival:** Sasanian bureaucracy and court norms were absorbed into Abbasid governance; Persian identity and language persisted. **Irreversibility:** The Sasanian state was not restored; the civilizational layer was transferred into Islamic form. Liability attached to the fallen dynasty; the civilizational grammar (justice, endurance, sovereignty defense) was re-encoded in Shi'a and Persianate Islam.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia absorbs Islam without surrendering identity.
 • Shi’ism aligns religion with sovereignty defense.
@@ -102,10 +112,10 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Islam in Persia is a civilizational instrument, not a civilizational reset.
 
 ────────────────────────────────────────────────────────────
-VIII. BIBLIOGRAPHY
+X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Avesta, Yasna 30 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; pre-Islamic moral order
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ISLAM — v1.1
+END OF FILE — MEM–PERSIA–ISLAM — v1.2
 ────────────────────────────────────────────────────────────

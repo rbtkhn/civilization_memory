@@ -89,7 +89,7 @@ These documents are governed by CMC 3.3.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (v3.2 — three-mode architecture)
+• CIV–MEM–CORE (v3.3)
 • CMC–BOOTSTRAP
 • VERSION–MANIFEST (this file)
 • TERMINOLOGY–REGISTRY

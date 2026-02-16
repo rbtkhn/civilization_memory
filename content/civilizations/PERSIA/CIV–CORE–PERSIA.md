@@ -1,13 +1,13 @@
-CIV–CORE–PERSIA — v2.0
+CIV–CORE–PERSIA — v3.3
 Civilizational Memory Codex · Civilization Continuity Engine
 Sovereignty–Compression–Exit-Building Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Version: v2.0
-Supersedes: CIV–CORE–PERSIA V1.0
-Upgrade Type: Template compliance · Header alignment · Typo correction
+Version: v3.3
+Supersedes: CIV–CORE–PERSIA v2.0
+Upgrade Type: Alignment with CMC 3.3; propagation of MEM content-composition rule (CIV–MEM–CORE VP-1.g). Persia MEM corpus: 21 priority MEMs upgraded to structural context, Barnes dimension, no numerical proportions (2026-02). CORE substantive content unchanged; governance and MEM-corpus alignment recorded.
 Template Version Used: CIV–CORE–TEMPLATE v3.0 (civilization-specific structure: Siege–Compute at XIII; EPL at XVI; Hardening Layers at XIX; Verdict at XXI. Strategic Red Lines embedded in Hardening Layers; SCHOLAR Mode implicit in Status.)
-Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.2+)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.3)
 Governed by: CIV–MEM–CORE v3.3
 ARC Reference: CIV–ARC–PERSIA v3.1
 Conceptual Lineage: SCE–CIV–PERSIA V9.7.2 (doctrinal ancestry preserved)
@@ -320,5 +320,5 @@ Every Persia-engine conclusion MUST end with:
 No narrative output is valid without this block.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–PERSIA — v2.0
+END OF FILE — CIV–CORE–PERSIA — v3.3
 ────────────────────────────────────────────────────────────

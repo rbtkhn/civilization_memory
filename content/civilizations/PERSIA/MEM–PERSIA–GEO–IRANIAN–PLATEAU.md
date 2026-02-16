@@ -1,8 +1,9 @@
-MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.1
+MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.2
 Civilizational Memory Codex · Geographic Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): removed numerical proportions; content-composition wording; Barnes dimension N/A with pointer to liability MEMs.
 Civilization: PERSIA
 Subject: Iranian Plateau — fortress core, elevated interior, ring of mountains
 Dates: Ancient era–present
@@ -16,7 +17,7 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Proportional Blend: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
+Content composition: Mearsheimer primary (strategic/terrain analysis), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to actors who overextend off the plateau (see MEM–PERSIA–EMPIRE, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
@@ -283,5 +284,5 @@ VII. MEM BIBLIOGRAPHY
 • CIV–CORE–PERSIA v2.0 — Plateau–Fortress, cyber–plateau, compute sovereignty
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.1
+END OF FILE — MEM–PERSIA–GEO–IRANIAN–PLATEAU — v1.2
 ────────────────────────────────────────────────────────────

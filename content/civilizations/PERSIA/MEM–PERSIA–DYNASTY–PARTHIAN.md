@@ -1,8 +1,9 @@
-MEM–PERSIA–DYNASTY–PARTHIAN — v1.1
+MEM–PERSIA–DYNASTY–PARTHIAN — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive: denial); Barnes dimension (liability at overthrow, defection, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Parthian (Arsacid) Dynasty — confederal empire, denial warfare, Roman parity
 Dates: c. 247 BC – 224 AD
@@ -153,7 +154,17 @@ the next regime (Sasanian) chose centralization and sacral hardening.
 Empire persists; the institutional form changes.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Parthia held the plateau and Mesopotamia; Rome held the Mediterranean and Anatolia. The Levant was parity zone—neither could absorb it. **Incentive structure:** Parthian incentive was denial (raid, negotiate, hold the frontier), not conquest of Rome. Strabo and Carrhae encode this: mobility over mass, no decisive engagement. What the balance of power told Parthia to do was hold, not conquer. **Structural outcome:** Nearly five centuries of parity; no terminal victory for either side. When confederation and noble fragmentation made the model fragile, the Sasanians chose centralization—incentive shifted, geography did not.
+
+────────────────────────────────────────────────────────────
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook:** Artabanus IV (last Arsacid)—defeated at Hormozdgan (224); the King of Kings bore liability for dynastic overthrow. **Who defected:** Noble houses and regional magnates—confederal structure meant liability was distributed; when Ardashir won, the Arsacid court lost. **Who benefited:** Ardashir I and the Sasanian line—restoration narrative, centralization, sacral authority. **Institutional survival:** Parthian doctrine (denial warfare, mobility) was inherited by the Sasanians; Carrhae remained the founding proof. **Irreversibility:** The Arsacid dynasty ended; the Roman–Persian rivalry did not. Liability attached to the last Arsacid; the civilizational layer (denial, parity) transferred to the new regime.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Parthian rule is confederal; noble accommodation over centralization.
 • Denial warfare—mobility, retreat, no decisive engagement—validates against Rome (Carrhae).
@@ -163,7 +174,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Empire as form outlives dynasty; Parthian doctrine (denial) is inherited by Sasanians.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (TYPED)
+X. MEM CONNECTIONS (TYPED)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
@@ -193,7 +204,7 @@ TEMPORAL_AFTER:
 • MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Founding Sasanian; ends Arsacid line
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Al-Tabari, *Ta'rikh al-rusul wa'l-muluk*, tr. C.E. Bosworth — ARC–PERSIA-T-MEDIEVAL; Roman–Persian rhythm
 • Strabo, *Geographica*, Book XI — Parthian warfare; mobility doctrine
@@ -205,5 +216,5 @@ IX. MEM BIBLIOGRAPHY
 • MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Overthrow; restoration ideology
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–PARTHIAN — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–PARTHIAN — v1.2
 ────────────────────────────────────────────────────────────

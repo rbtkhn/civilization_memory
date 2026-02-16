@@ -1,10 +1,10 @@
-MEM–PERSIA–GEO–PERSIAN–GULF — v1.1
+MEM–PERSIA–GEO–PERSIAN–GULF — v1.2
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · indigenous-language quote (Al-Biruni)
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): removed numerical proportions; content-composition wording; Barnes dimension N/A with pointer to liability in chokepoint control/contest.
 Civilization: PERSIA
 Regime: ACHAEMENID → SASANIAN → MODERN
 Subject: Persian Gulf — Chokepoint, Littoral Asymmetry, Energy Corridor
@@ -20,14 +20,10 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Proportional Blend: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
+Content composition: Mearsheimer primary (strategic/terrain, chokepoint, power distribution), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to actors who control or contest the chokepoint (see subject MEMs for Gulf conflict and littoral states).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
-
-GEO–MEMs contain:
-• Strategic analysis (~2/3): terrain logic, power distribution, chokepoint implications
-• ARC verbatim quotes (~1/3): demonstrating permanent patterns through historical evidence
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
 For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–EGYPT, MEM–PERSIA–DYNASTY–ACHAEMENID).
@@ -305,5 +301,5 @@ Status: ACTIVE
 **OPTION F** — Cross-reference MEM–ISLAM or MEM–ROME–GEO–RED–SEA for corridor comparison
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–PERSIAN–GULF — v1.1
+END OF FILE — MEM–PERSIA–GEO–PERSIAN–GULF — v1.2
 ────────────────────────────────────────────────────────────

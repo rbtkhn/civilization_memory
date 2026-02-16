@@ -1,10 +1,10 @@
-MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.1
+MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): section labels aligned to Structural assessment / Liability (Barnes dimension); no numerical proportions.
 Civilization: PERSIA
 Regime: SASANIAN (LATE)
 Subject: Khosrow II — Triumph, Overextension, and Terminal Exhaustion
@@ -139,7 +139,7 @@ Khosrow's war did not cause the Islamic conquests—but it created
 the conditions. Exhaustion is more dangerous than defeat.
 
 ────────────────────────────────────────────────────────────
-VIII. MEARSHEIMER ASSESSMENT
+VIII. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
 ────────────────────────────────────────────────────────────
 Khosrow converted defensive parity into offensive overextension.
 The occupation of Syria, Palestine, and Egypt stretched Persian
@@ -149,7 +149,7 @@ undefended. Structural logic: conquest without closure capacity
 creates reversible gains. Persia won battles and lost the war.
 
 ────────────────────────────────────────────────────────────
-IX. BARNES ASSESSMENT
+IX. LIABILITY / MECHANISM (BARNES DIMENSION)
 ────────────────────────────────────────────────────────────
 Who paid for Khosrow's expansion? Persian peasants, Armenian
 auxiliaries, and eventually the Sasanian court itself—overthrown
@@ -206,5 +206,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.2
 ────────────────────────────────────────────────────────────

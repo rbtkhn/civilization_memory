@@ -1,10 +1,10 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — v1.1
+MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: INITIAL ESTABLISHMENT
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive); Barnes dimension (liability at accession, institutional survival). No numerical proportions.
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Darius I — Imperial Systematizer, Architect of Satrapal Order
@@ -153,6 +153,16 @@ inherited problem. Darius dies in 486 BC; Xerxes inherits empire and
 unfinished business.
 
 ────────────────────────────────────────────────────────────
+VII-A. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Darius inherited and extended an empire from the Indus to the Aegean; satrapal modularity and Royal Road enabled scale without central micromanagement. **Incentive structure:** Incentive favoured systematization—fixed tribute, civil–military separation, local elites co-opted under imperial oversight. What the empire needed was reproducible governance; Darius supplied it. **Structural outcome:** The Achaemenid template became durable; when Alexander conquered, he retained Persian administration. Darius's machinery outlived the dynasty.
+
+────────────────────────────────────────────────────────────
+VII-B. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook at accession:** The usurpers (Gaumata and others)—Darius suppressed them and inscribed legitimacy at Behistun. **Who benefited:** Darius and the Achaemenid line; local elites who retained standing under satrapal rule. **Institutional survival:** The system Darius built survived his death and Xerxes' reign; it fell to tempo and decapitation (Alexander), not to administrative failure. **Irreversibility:** The satrapal model was not undone by Darius's successors; it was inherited by Hellenistic and later Persian states. Liability at accession attached to the usurpers; Darius bore the cost of consolidation and left a template that transferred.
+
+────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Darius transforms Cyrus's precedent into reproducible system.
@@ -164,7 +174,7 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. FIGURE STRUCTURED DATA (LAYER 2)
+X. FIGURE STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 | Field | Value |
 |-------|-------|
@@ -177,7 +187,7 @@ IX. FIGURE STRUCTURED DATA (LAYER 2)
 | LEGACY_STATUS | Revered (Achaemenid template) |
 
 ────────────────────────────────────────────────────────────
-X. MEM CONNECTIONS
+XI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Darius systematizes Cyrus's precedent
@@ -198,7 +208,7 @@ GEO (≥2):
 Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (precedent); MEM–PERSIA–DYNASTY–ACHAEMENID (structural context).
 
 ────────────────────────────────────────────────────────────
-XI. BIBLIOGRAPHY
+XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Darius I, Behistun Inscription (522 BCE) — ERC-PRIMARY
 • Herodotus, *Histories* — satrapies (III.89, III.94 India), Royal Road, IV.44 Scylax/Indus, Marathon
@@ -208,11 +218,11 @@ XI. BIBLIOGRAPHY
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources*
 
 ────────────────────────────────────────────────────────────
-XII. INGEST BOOTSTRAP
+XIII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — v1.2
 ────────────────────────────────────────────────────────────

@@ -1,9 +1,10 @@
-MEM–PERSIA–GEO–MESOPOTAMIA — v1.0
+MEM–PERSIA–GEO–MESOPOTAMIA — v1.1
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.0
+Version: 1.1
+Upgrade Type: Content composition rule (new MIND rule): removed numerical proportions; content-composition wording; Barnes dimension N/A with pointer to liability MEMs.
 Civilization: PERSIA
 Regime: ACHAEMENID → PARTHIAN → SASANIAN
 Subject: Mesopotamia — Fluvial Corridor, Capital Seat, Western Lowland, Plateau Approach
@@ -19,14 +20,10 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Proportional Blend: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
+Content composition: Mearsheimer primary (strategic/terrain, corridor, capital vulnerability), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to rulers who place the capital in exposed lowland and to defenders when the corridor is breached (see MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
-
-GEO–MEMs contain:
-• Strategic analysis (~2/3): terrain logic, corridor dynamics, capital vulnerability
-• ARC verbatim quotes (~1/3): demonstrating permanent patterns through historical evidence
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
 For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–PARTHIAN, MEM–PERSIA–PALMYRA).
@@ -245,5 +242,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–GEO–MESOPOTAMIA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–MESOPOTAMIA — v1.0
+END OF FILE — MEM–PERSIA–GEO–MESOPOTAMIA — v1.1
 ────────────────────────────────────────────────────────────

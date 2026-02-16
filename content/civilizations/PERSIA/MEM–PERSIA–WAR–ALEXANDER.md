@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–ALEXANDER — v1.5
+MEM–PERSIA–WAR–ALEXANDER — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.5
-Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
+Version: 1.6
+Upgrade Type: Content composition rule (new MIND rule): structural assessment (power distribution, incentive, tempo); Barnes dimension (liability, defection, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Macedonian Conquest under Alexander the Great
 Dates: 334–323 BC
@@ -171,6 +171,16 @@ Doctrinal consequences:
 This event seeds Persia’s later siege–endurance doctrine.
 
 ────────────────────────────────────────────────────────────
+VIII-A. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Achaemenid Persia had scale, depth, and legitimacy; Macedonia had a compact, king-led army and tempo. The balance favoured Persia in the long run—but only if Persian depth could be brought to bear. **Incentive structure:** Alexander's incentive was concentration and decapitation; Darius's was full mobilization and set-piece victory. Alexander exploited the gap between Persian institutional strength (slow to activate) and king-centred legitimacy (vulnerable to shock). **Structural outcome:** Conquest without closure capacity; the empire was outpaced, not outmatched. No successor architecture; Diadochi fragmentation. The terrain of contest (the same region) later becomes the Roman–Persian battlefield for seven centuries.
+
+────────────────────────────────────────────────────────────
+VIII-B. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook:** Darius III—command decapitation and flight broke elite consensus; the king bore liability for legitimacy collapse. **Who defected:** Satraps and regional elites defected when royal authority was exposed; defection accelerated after Issus and Gaugamela. **Who benefited:** Alexander as conqueror; Macedonian and Greek elites; Persian administrators who were retained. **Institutional survival:** The Achaemenid state ended; its bureaucratic and cultural templates were inherited by Alexander and then by the Seleucids—empire as form persisted, dynasty did not. **Irreversibility:** The Achaemenid dynasty was not restored; reconstitution came through Parthian and Sasanian lines. Liability attached to the fleeing king and to the elite consensus that dissolved.
+
+────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Empires can fall to tempo without material defeat.
@@ -208,5 +218,5 @@ XI. BIBLIOGRAPHY
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Persian encoding, Marathon; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.5
+END OF FILE — MEM–PERSIA–WAR–ALEXANDER — v1.6
 ────────────────────────────────────────────────────────────

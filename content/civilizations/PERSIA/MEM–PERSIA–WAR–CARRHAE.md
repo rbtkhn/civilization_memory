@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–CARRHAE — v1.5
+MEM–PERSIA–WAR–CARRHAE — v1.6
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.5
-Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
+Version: 1.6
+Upgrade Type: Content proportion refined using CIV–MIND–MERCOURIS and CIV–MIND–MEARSHEIMER analytical frameworks (legitimacy, institutional continuity, civilizational grammar; power distribution, incentive structure, misperception).
 Civilization: PERSIA
 Regime: PARTHIAN (ARSACID)
 Subject: Battle of Carrhae as Archetypal Persian Denial Victory
@@ -12,7 +12,7 @@ Dates: 53 BC
 Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
 Last Update: February 2026
-WORDCOUNT: ~2,200
+WORDCOUNT: ~2,400
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
@@ -40,6 +40,8 @@ Plutarch records Roman overconfidence and its consequences:
 > dissuaded Crassus from the expedition; yet ambition prevailed, and
 > reason was sacrificed to the desire of glory."  
 > — Plutarch, *Life of Crassus*
+
+**Structural context.** On the frontier there was no arbiter: security competition drove both sides. Rome's incentive was expansion and prestige (Crassus balancing Caesar and Pompey); Parthia's was to deny without occupying. The balance of forces—legionary mass versus cavalry mobility and range—favoured denial. Roman overconfidence reflected a misperception of Parthian capacity; the outcome corrected it.
 
 Crassus chooses invasion; Surena's Parthian force chooses the terms of engagement. The Persianate chronicle tradition records the pattern of Roman defeat at Persian hands:
 
@@ -94,7 +96,7 @@ invoked prior victories:
 > — Tacitus, *Annals*, II.2
 
 Carrhae and Antony's retreat remain the measure of Parthian identity.
-Six decades later, Persian legitimacy still rests on having denied Rome.
+Six decades later, Parthian kingship still justifies itself by the fact of having denied Rome—legitimacy encoded in the refusal of a Roman-backed king and in the chronicle tradition that records "the Romans were broken and their commander was slain." The continuity is institutional: the doctrine of denial persists across regime changes (Arsacid to Sasanian), and the civilizational pattern—cavalry, adaptation, boundary—outlives any single state.
 
 ────────────────────────────────────────────────────────────
 IV. THE BATTLE — DENIAL ACHIEVED
@@ -134,16 +136,16 @@ Adrian Goldsworthy frames the seven-century relationship that Carrhae inaugurate
 > permanently destroying the other."
 > — Adrian Goldsworthy, *Rome and Persia: The Seven Hundred Year Rivalry* (2023); book description
 
-Persia does not conquer Rome. Persia **denies** Rome—and that is enough. The boundary Carrhae establishes becomes the condition for the long parity that follows.
+Persia does not conquer Rome. Persia **denies** Rome—and that is enough. The boundary Carrhae establishes becomes the condition for the long parity that follows. The rivalry was never settled by agreement; the limit held without formal closure, and that open-endedness is part of how both sides encoded the outcome.
 
 ────────────────────────────────────────────────────────────
-VI. MEARSHEIMER ASSESSMENT
+VI. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE FRAME)
 ────────────────────────────────────────────────────────────
-Force-ratio analysis: Roman infantry superiority is neutralized by
-Parthian cavalry mobility and range. The structural mismatch favors
-denial over decisive engagement. Carrhae demonstrates that peer
-empires can impose boundaries through asymmetric doctrine without
-seeking territorial expansion.
+**Power distribution:** Roman infantry superiority on the field was neutralized by Parthian cavalry mobility and range. The force ratio at Carrhae favoured the side that could choose when and where to engage; legionary mass could not close. On the frontier, the balance of power did not favour Roman conquest.
+
+**Incentive structure:** Crassus's incentive was domestic—prestige, parity with his triumviral rivals—not the structural logic of the border. Parthia's incentive was to deny invasion and preserve the realm without occupying Roman territory. What the balance of power told each side to do diverged: Rome had a vested interest in expansion; Parthia in denial. The outcome aligned with the latter.
+
+**Misperception:** Roman planning assumed Parthian capacity could be overrun. That picture was wrong; Carrhae corrected it. The structural lesson—peer empires can impose boundaries through asymmetric doctrine without seeking territorial expansion—follows from the force ratio and the incentives, not from culture alone.
 
 ────────────────────────────────────────────────────────────
 VII. BARNES ASSESSMENT
@@ -210,5 +212,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–WAR–CARRHAE
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.5
+END OF FILE — MEM–PERSIA–WAR–CARRHAE — v1.6
 ────────────────────────────────────────────────────────────

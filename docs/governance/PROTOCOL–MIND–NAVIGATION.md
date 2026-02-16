@@ -376,26 +376,26 @@ Topic relevance overrides MIND affinity.
 
 In WRITE mode, MEM files should include all relevant connections, sources, and concepts — not just those aligned with the composing MIND. MIND affinity applies to *surfacing and emphasis*, not to *inclusion*.
 
-### D. Blend Law Override (WRITE Mode)
+### D. Content Composition Rule (WRITE Mode)
 
-**MIND-Navigation and Blend Law govern different dimensions:**
+**MIND-Navigation and the content composition rule govern different dimensions:**
 
 | Protocol | Governs | Scope |
 |----------|---------|-------|
-| **Blend Law** | Content proportions in MEM files | WRITE mode only |
+| **Content composition rule** | Voice roles and section roles in MEM files; no numerical proportions | WRITE mode only |
 | **MIND-Navigation** | Analytical framing, connection/source surfacing | All modes |
 
 In WRITE mode:
-- **Blend Law determines content ratios:** GEO-MEM = 2/3 Mearsheimer, Subject MEM = 2/3 Mercouris
+- **Content composition rule:** GEO-MEM = Mearsheimer primary, Mercouris secondary; Subject MEM = Mercouris primary, Mearsheimer secondary; Barnes dimension required. No 2/3 or 1/3.
 - **MIND-Navigation influences what is surfaced** during composition
-- **User can invoke any MIND** for analytical framing, but final MEM still follows Blend Law
+- **User can invoke any MIND** for analytical framing; final MEM still satisfies primary/secondary roles and required Barnes dimension
 
 **Example:** User says "Write a MEM on Napoleon's invasion using Barnes lens."
 - Barnes lens influences *what aspects are surfaced* (liability, defection, mechanism)
-- Blend Law still applies: if GEO-MEM, final content is 2/3 structural (Mearsheimer), 1/3 civilizational (Mercouris)
-- Barnes insights become inputs to the MEM, not governing proportions
+- Content composition rule still applies: Mearsheimer primary in GEO-MEM, Mercouris secondary, Barnes dimension required
+- Barnes insights become inputs and satisfy the required Barnes role
 
-**Rationale:** Blend Law ensures MEM consistency. MIND-Navigation ensures analytical richness. Both apply; they don't conflict.
+**Rationale:** Content composition rule ensures MEM consistency (three roles, no numbers). MIND-Navigation ensures analytical richness. Both apply; they don't conflict.
 
 ---
 

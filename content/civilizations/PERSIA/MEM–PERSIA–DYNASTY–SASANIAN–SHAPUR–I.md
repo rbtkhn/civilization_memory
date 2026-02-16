@@ -1,10 +1,10 @@
-MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.1
+MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.1
-Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
+Version: 1.2
+Upgrade Type: Content composition rule (new MIND rule): section labels aligned to Structural assessment / Liability (Barnes dimension). No numerical proportions.
 Civilization: PERSIA
 Regime: SASANIAN
 Subject: Shapur I — King of Kings, Captor of Valerian
@@ -133,7 +133,7 @@ Goldsworthy frames the lesson:
 > — Adrian Goldsworthy, *Rome and Persia*
 
 ────────────────────────────────────────────────────────────
-VII. MEARSHEIMER ASSESSMENT
+VII. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
 ────────────────────────────────────────────────────────────
 Shapur exploited Roman third-century crisis—frontier pressure, plague,
 administrative fragmentation. The structural window for Persian
@@ -142,7 +142,7 @@ temporarily in Persia's favor; the capture was the logical outcome
 of Roman overextension and Persian concentration.
 
 ────────────────────────────────────────────────────────────
-VIII. BARNES ASSESSMENT
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
 ────────────────────────────────────────────────────────────
 Valerian took the East personally because subordinates had failed.
 Who was on the hook? The emperor. Who defected? Roman cohesion.
@@ -198,5 +198,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.1
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.2
 ────────────────────────────────────────────────────────────

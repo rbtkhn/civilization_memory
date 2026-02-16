@@ -1,11 +1,10 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID — v1.4
+MEM–PERSIA–DYNASTY–ACHAEMENID — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.4
-Supersedes: v1.3
-Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
+Version: 1.5
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive); Barnes dimension (liability at fall, defection, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
 Dates: c. 550–330 BC
@@ -127,7 +126,7 @@ Llewellyn-Jones cites Darius's tomb inscription on Persian military distinctiven
 ────────────────────────────────────────────────────────────
 VI. FRACTURE, CONQUEST & TRANSMISSION
 ────────────────────────────────────────────────────────────
-The dynasty falls to Alexander (330 BCAD) due to:
+The dynasty falls to Alexander (330 BC) due to:
 • Succession vulnerabilities
 • Court factionalism
 • Overextension at imperial margins
@@ -143,7 +142,17 @@ Achaemenid legacies absorbed into:
 The empire ends; the template endures.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Achaemenid Persia held scale—from the Indus to the Aegean—with modular satrapies and Royal Road logistics. Incentive structure favoured incorporation and tribute over homogenization; local elites retained standing in exchange for loyalty and fixed obligation. **Structural outcome:** The system was optimized for stability and depth, not for tempo or command decapitation; when Alexander exploited elite defection and king-centred legitimacy, the empire was outpaced (see MEM–PERSIA–WAR–ALEXANDER). The template (satrapal design, tolerance as technology) was absorbed by Hellenistic and later Persian dynasties.
+
+────────────────────────────────────────────────────────────
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook at fall:** Darius III—flight and legitimacy collapse; the king bore liability for elite consensus failure. **Who defected:** Satraps and regional elites defected when royal authority was exposed at Issus and Gaugamela. **Who benefited:** Alexander and the Diadochi; Persian administrators who were retained. **Institutional survival:** The Achaemenid state ended; its bureaucratic and legitimacy grammar endured in Seleucid administration and in later Persian dynastic memory (Sasanian restoration claims). **Irreversibility:** The dynasty was not restored; reconstitution came through Parthian and Sasanian lines. Liability attached to the fleeing king and to the fractured elite; the civilizational template transferred.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia’s first empire rules by administration, not erasure.
 • Tolerance is an imperial technology.
@@ -152,12 +161,12 @@ VII. CONTINUITY INSIGHTS (RAW)
 • The Achaemenids define Persia as a **system-builder civilization**.
 
 ────────────────────────────────────────────────────────────
-VIII. BIBLIOGRAPHY
+X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of peoples and gods
 • Herodotus, *Histories*, III.89, III.94 (India satrapy) — tribute, imperial extent
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — satrapal design, cavalry; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.4
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.5
 ────────────────────────────────────────────────────────────

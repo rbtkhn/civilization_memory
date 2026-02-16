@@ -320,12 +320,13 @@ VIII. CROSS-ENTITY LINKS
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────
 Last assessed against:
-• CIV–CORE–PERSIA: v2.0
+• CIV–CORE–PERSIA: v3.3
 • CIV–SCHOLAR–PERSIA: v2.0 (Entries 0001–0007; Syntheses 0001, 0003, 0004, 0005)
-• CIV–INDEX–PERSIA: v3.0
+• CIV–INDEX–PERSIA: v3.17
 • CIV–STATE–TEMPLATE: v3.3
 • CIV–DOCTRINE–PERSIA: v1.1 (DOCTRINE 01: Four-zone geo and Levant overextension liability)
 • CIV–AXIOM–PERSIA: v1.0
+• MEM corpus: 21 priority MEMs upgraded to content-composition rule (structural context, Barnes dimension) 2026-02; Section VII references unchanged.
 
 Sync command: Run per CIV–STATE–TEMPLATE §XIV when user requests "sync state to scholar" or equivalent. STATE reads from CORE, SCHOLAR, DOCTRINE; STATE does not write to them except via explicit relay.
 
@@ -335,6 +336,7 @@ X. STATE LOG
 • 2026-02 [initial]: CIV–STATE–PERSIA v1.0 created. Derived from CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA. Sections I–X populated. Material Options A (denial/endurance), B (exit-building/settlement), C (escalation/cost-imposition). Decision-Relevant History from SCHOLAR patterns (GEO four-zone, Khosrow/Kavadh, denial/endurance, ENTRY 0007). No prior session activity. MEM–RELEVANCE–PERSIA absent; discovery via Section VII and CIV–INDEX–PERSIA.
 • 2026-02 [derive]: CIV–DOCTRINE–PERSIA v1.0 and CIV–AXIOM–PERSIA v1.0 created.
 • 2026-02 [promotion]: SYNTHESIS 0005 promoted to doctrine via DIB–PERSIA. CIV–DOCTRINE–PERSIA v1.1: DOCTRINE 01 (Four-zone geo and Levant overextension liability). CIV–SCHOLAR–PERSIA: SYNTHESIS 0005 given full Assumptions Box, TIER 2 confidence, Status ACCEPTED_AS_DOCTRINE; Section XVIII Doctrine Registry updated. DOCTRINE: empty registry; authority chain and admissibility per template; doctrines to be added when SCHOLAR syntheses are accepted as doctrine by DIB–PERSIA. AXIOM: eight axioms extracted from CIV–CORE–PERSIA Section I (PERSIA-001–008). Section IX and V (completeness) updated.
+• 2026-02 [sync]: Sync run per §XIV. Source drift: CIV–INDEX–PERSIA v3.0→v3.17. MEM corpus: 21 MEMs upgraded to MIND rule (no new MEMs; no change to material options or doctrines). Section IX updated.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–PERSIA — v1.0

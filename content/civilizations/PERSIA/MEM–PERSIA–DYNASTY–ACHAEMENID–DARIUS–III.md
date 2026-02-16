@@ -3,8 +3,8 @@ Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · indigenous-language quote (Shahnameh)
+Version: 1.3
+Upgrade Type: Content composition rule (new MIND rule): structural assessment (power distribution, tempo vs depth); Barnes dimension (liability, defection, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Regime: ACHAEMENID (TERMINAL)
 Subject: Darius III — Last King of Kings; Persian Encoding of Defeat
@@ -149,6 +149,16 @@ consequence—but the Persian encoding is lost. We have Alexander's
 story. Darius is the foil.
 
 ────────────────────────────────────────────────────────────
+VI-A. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Persia had scale and depth; Macedonia had tempo and king-led concentration. The balance favoured Persia if mobilization could be completed and the centre held. **Incentive structure:** Darius's incentive was set-piece battle on favourable terrain (Gaugamela)—full imperial army, cavalry advantage. Alexander's was decapitation and speed. **Structural outcome:** Coherent strategy met an exceptional opponent; tempo advantage let Alexander strike the centre before Persian depth told. Flight was rational once the centre broke; staying meant capture. Power distribution (tempo vs depth) and king-centred legitimacy (collapse when king flees) explain the outcome—not character alone.
+
+────────────────────────────────────────────────────────────
+VI-B. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who was on the hook:** Darius III—the king bore liability for legitimacy collapse; his flight at Issus and Gaugamela triggered elite defection. **Who defected:** Satraps and commanders; Bessus's betrayal and usurpation are defection under collapse. **Who benefited:** Alexander (conqueror); Bessus (briefly, until Alexander eliminated him). **Institutional survival:** The Achaemenid dynasty ended; Persian administration was retained by Alexander. **Irreversibility:** Darius's death and Bessus's capture ended restoration; the dynasty was not restored. Liability attached to the fleeing king and to the fracturing elite consensus; the institutional template transferred to the conqueror.
+
+────────────────────────────────────────────────────────────
 VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Darius III inherits a divided court and an incoming invasion.
@@ -162,7 +172,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. FIGURE STRUCTURED DATA (LAYER 2)
+IX. FIGURE STRUCTURED DATA (LAYER 2)
 ────────────────────────────────────────────────────────────
 | Field | Value |
 |-------|-------|
@@ -175,7 +185,7 @@ VIII. FIGURE STRUCTURED DATA (LAYER 2)
 | LEGACY_STATUS | Reviled (Greek sources); foil to Alexander |
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS
+X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ALEXANDER — Alexander defeats Darius; conquest narrative; unified Briant + structural tempo assessment
@@ -199,7 +209,7 @@ Cross-civilization:
 Breaks if removed: MEM–PERSIA–WAR–ALEXANDER (conquest); MEM–PERSIA–DYNASTY–ACHAEMENID (terminal context).
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Arrian, *Anabasis of Alexander* — Issus, Gaugamela, Darius's death
@@ -210,11 +220,11 @@ X. BIBLIOGRAPHY
 • A.T. Olmstead, *History of the Persian Empire* (1948)
 
 ────────────────────────────────────────────────────────────
-XI. INGEST BOOTSTRAP
+XII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
 MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — v1.2
+END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — v1.3
 ────────────────────────────────────────────────────────────

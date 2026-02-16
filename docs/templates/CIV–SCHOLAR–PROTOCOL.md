@@ -1,20 +1,20 @@
-CIV–SCHOLAR–PROTOCOL — v3.2
+CIV–SCHOLAR–PROTOCOL — v3.3
 Civilizational Strategy Codex · Scholar Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 3.2
+Version: 3.3
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
 Entity focus: CORE, STATE, and SCHOLAR re-anchor together on
 civilization switch; load per mode (see CMC–BOOTSTRAP,
 cmc-state-mem-grounding, cmc-scholar-mode).
-Supersedes: CIV–SCHOLAR–PROTOCOL v3.0
-Upgrade Type: ALIGNMENT · CMC 3.1 OGE SIMPLIFICATION
-Compatibility: CIV–SCHOLAR–TEMPLATE v3.1 · CIV–CORE–TEMPLATE v3.0 · CMC 3.2
+Supersedes: CIV–SCHOLAR–PROTOCOL v3.2
+Upgrade Type: ALIGNMENT · CMC 3.3 VERSION ALIGNMENT
+Compatibility: CIV–SCHOLAR–TEMPLATE v3.3 · CIV–CORE–TEMPLATE v3.3 · CMC 3.3
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────

@@ -9,8 +9,8 @@ Supersedes: CIV–MIND–MEARSHEIMER v3.2
 Upgrade Type: CONTENT REFINEMENT · TRANSCRIPT AUDIT 12 FEB 2026
 Activation State: INACTIVE BY DEFAULT (OGE-INVOKED)
 Compatibility:
-• CIV–MIND–TEMPLATE v3.0 (REQUIRED)
-• CIV–MIND–MERCOURIS v3.0 (PRIMARY — REQUIRED)
+• CIV–MIND–TEMPLATE v3.3 (REQUIRED)
+• CIV–MIND–MERCOURIS v3.3 (PRIMARY — REQUIRED)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 • CIV–STATE (via content-based naming; see XI.C)
@@ -19,8 +19,8 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.2
-• CIV–MIND–TEMPLATE v3.0
+• CIV–MEM–CORE v3.3
+• CIV–MIND–TEMPLATE v3.3
 • CIV–MIND–MERCOURIS v3.3 (PRIMARY MIND)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
@@ -245,20 +245,20 @@ collapse into synthesis.
 Neither reading may override or synthesize the other.
 Tension between readings is preserved, not resolved.
 
-IV.B PROPORTIONAL BLEND LAW
+IV.B CONTENT COMPOSITION (NO NUMERICAL PROPORTIONS)
 ────────────────────────────────────────────────────────────
-MEARSHEIMER and MERCOURIS cognition manifest in different
-proportions depending on file type:
+MEARSHEIMER and MERCOURIS cognition manifest by primary vs secondary
+voice depending on file type. There are no numerical proportions (no 2/3, 1/3).
 
-• GEO–MEM: 2/3 Mearsheimer + 1/3 Mercouris
+• GEO–MEM: Mearsheimer primary, Mercouris secondary
   (Strategic terrain logic, evidenced by historical quotes)
-• Subject MEM: 2/3 Mercouris + 1/3 Mearsheimer
+• Subject MEM: Mercouris primary, Mearsheimer secondary
   (Civilizational narrative, framed by strategic constraints)
 
-MEARSHEIMER is primary voice in GEO–MEMs.
-MERCOURIS evidence (ARC quotes) provides the 1/3 secondary content.
+MEARSHEIMER is primary voice in GEO–MEMs. BARNES is a required third role
+in all MEMs (see CIV–MEM–CORE VP-1.g).
 
-See: CIV–MEM–CORE v3.2, Section VP-1.g
+See: CIV–MEM–CORE v3.2, Section VP-1.g; cmc-blend-law.mdc
 
 ────────────────────────────────────────────────────────────
 V. LINGUISTIC FINGERPRINT (EMPIRICALLY REFINED)

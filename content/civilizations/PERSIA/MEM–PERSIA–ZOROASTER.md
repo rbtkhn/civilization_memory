@@ -1,10 +1,10 @@
-MEM–PERSIA–ZOROASTER — v1.1
+MEM–PERSIA–ZOROASTER — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · indigenous-language quote (Avesta/Gathas)
+Version: 1.4
+Upgrade Type: Content composition rule (new MIND rule): structural context (legitimacy distribution, incentive); Barnes dimension (liability of kings who violate Asha; N/A for Zoroaster as figure). No numerical proportions.
 Civilization: PERSIA
 Subject: Zoroaster (Zarathustra)
 Dates: c. 1500–1000 BC (traditional range; uncertainty preserved)
@@ -167,7 +167,17 @@ This becomes a paradox:
 The conquerors inherit Persian time.
 
 ────────────────────────────────────────────────────────────
-IX. CONTINUITY INSIGHTS (RAW)
+IX. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Zoroastrianism does not distribute material power; it distributes **legitimacy**. Kingship is conditional on Asha; authority without righteousness is cosmically illegitimate. Incentive structure: rulers are incentivized to frame rule as guardianship of order and to punish druj (lie, chaos). **Structural outcome:** Endurance and siege tolerance gain moral meaning; Persian strategic patience is theological before tactical. The legitimacy engine outlives dynasties—Sasanian and Achaemenid both invoked it.
+
+────────────────────────────────────────────────────────────
+X. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Barnes dimension:** Zoroaster is an ideological founder, not a ruler; terrain does not apply. Liability in Zoroastrian logic attaches to **rulers who violate Asha**—corruption and druj invite cosmic judgment and loss of khvarenah (divine favor). Who is on the hook when order collapses? The king who failed to guard order (e.g. later Achaemenid or Sasanian rulers encoded as unjust). The theology disciplines rule; it does not assign liability to the prophet. N/A for personal liability of Zoroaster; applicable for liability of kings who claim his legacy.
+
+────────────────────────────────────────────────────────────
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Moral order can legitimize power without weakening it.
 • Endurance gains strength when framed as ethical duty.
@@ -177,7 +187,7 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Zoroaster teaches Persia to resist corruption more than defeat.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; two spirits, moral dualism
 • Herodotus, *Histories*, I.131–132 — Persian religion, sacrifice, Magi, king's welfare
@@ -186,5 +196,5 @@ X. BIBLIOGRAPHY
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ZOROASTER — v1.3
+END OF FILE — MEM–PERSIA–ZOROASTER — v1.4
 ────────────────────────────────────────────────────────────

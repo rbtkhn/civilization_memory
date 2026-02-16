@@ -1,10 +1,10 @@
-MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — v1.3
+MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: ADDITIVE · indigenous-language quote (Avesta/Gathas)
+Version: 1.4
+Upgrade Type: Content composition rule (new MIND rule): section labels aligned to Structural assessment / Liability (Barnes dimension). No numerical proportions.
 Civilization: PERSIA
 Regime: SASANIAN (FOUNDING)
 Subject: Ardashir I — Founder of Sasanian Dynasty, Restorer of Eranshahr
@@ -140,7 +140,7 @@ Ardashir establishes:
 The Sasanian project—centralized, sacral, expansionist—begins here.
 
 ────────────────────────────────────────────────────────────
-VII. MEARSHEIMER ASSESSMENT
+VII. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
 ────────────────────────────────────────────────────────────
 Ardashir exploits Parthian fragmentation: weak central authority,
 noble autonomy, Roman pressure. The structural window for rebellion
@@ -149,7 +149,7 @@ Persis, defeats the nominal suzerain, and replaces confederation
 with hierarchy. Power distribution shifts from dispersed to centralized.
 
 ────────────────────────────────────────────────────────────
-VIII. BARNES ASSESSMENT
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
 ────────────────────────────────────────────────────────────
 Who paid for Ardashir's rise? The Arsacid court and Parthian
 nobles who lost autonomy. Who defected? Artabanus's vassals who
@@ -207,5 +207,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — v1.3
+END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — v1.4
 ────────────────────────────────────────────────────────────

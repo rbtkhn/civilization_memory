@@ -1,10 +1,10 @@
-MEM–PERSIA–ARMENIA — v1.4
+MEM–PERSIA–ARMENIA — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
+Version: 1.5
+Upgrade Type: Content composition rule (new MIND rule): section labels aligned to Structural assessment / Liability (Barnes dimension). No numerical proportions.
 Civilization: PERSIA
 Regime: ACHAEMENID → PARTHIAN → SASANIAN
 Subject: Armenia as Persian Buffer, Client Kingdom, and Imperial Seam
@@ -166,7 +166,7 @@ The Arab conquests overrun the region after both empires exhaust
 themselves. Armenia ceases to buffer; it becomes exposed terrain.
 
 ────────────────────────────────────────────────────────────
-VIII. MEARSHEIMER ASSESSMENT
+VIII. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
 ────────────────────────────────────────────────────────────
 Armenia is a classic buffer zone: high cost to conquer, low marginal
 value to hold. Both empires maximize utility by maintaining client
@@ -175,7 +175,7 @@ harsh climate) raises the cost of projection for both sides; neither
 can afford permanent garrison at scale.
 
 ────────────────────────────────────────────────────────────
-IX. BARNES ASSESSMENT
+IX. LIABILITY / MECHANISM (BARNES DIMENSION)
 ────────────────────────────────────────────────────────────
 Who pays for Armenian kingship? Both empires, through subsidy and
 diplomatic investment. Who benefits from oscillation? Armenian
@@ -233,5 +233,5 @@ MEM INGEST CONFIRMED — MEM–PERSIA–ARMENIA
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ARMENIA — v1.4
+END OF FILE — MEM–PERSIA–ARMENIA — v1.5
 ────────────────────────────────────────────────────────────

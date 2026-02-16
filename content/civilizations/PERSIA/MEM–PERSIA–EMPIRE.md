@@ -1,13 +1,14 @@
-MEM–PERSIA–EMPIRE — v1.2
+MEM–PERSIA–EMPIRE — v1.3
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.2
+Version: 1.3
+Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive by zone); Barnes dimension (liability, defection, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Empire as recurring institutional form (Achaemenid–Sasanian sequence)
 Dates: c. 550 BC – 651 AD (classical imperial sequence); form reconstitutes
 Last Updated: February 2026
-Word Count: ~2,100
+Word Count: ~2,400
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -138,7 +139,19 @@ Durant compresses the Achaemenid trajectory and the structural cause of imperial
 Empire falls; **civilization persists** through institutional and narrative transmission. The next reconstitution (e.g. Safavid) will again claim restoration, not invention. This recursion is the empire-memory engine.
 
 ────────────────────────────────────────────────────────────
-VII. CONTINUITY INSIGHTS (RAW)
+VII. STRUCTURAL CONTEXT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Empire scales from a defensible core (plateau) with distinct zones—buffer (Caspian), chokepoint (Gulf), periphery (Indian Ocean), parity (Levant). Incentives differ by zone: in parity zones neither side can hold without closure capacity; conquest peaks reverse. The balance of power between Persia and Rome produced seven centuries of mutual denial, not absorption.
+
+**Incentive structure:** What the geography told each empire to do diverged—Rome sought expansion and finality; Persia sought denial and endurance. Overextension (e.g. Khosrow II into Levant/Egypt) aligned with the wrong incentive for a parity zone; defection and exhaustion followed. Structural lesson: exhaustion is more dangerous than defeat when closure capacity is absent.
+
+────────────────────────────────────────────────────────────
+VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who is on the hook:** The overextending ruler (e.g. Khosrow II) bears liability when reach exceeds hold; court and successor defect when the cost of loyalty exceeds the benefit. **Defection:** Kavadh II’s coup and peace with Heraclius are defection under exhaustion—the successor exits first. **Institutional survival:** The Sasanian court and bureaucracy are absorbed by the Abbasids; the dynasty ends, the administrative template persists. **Irreversibility:** Exhaustion and territorial reversal are not undone; the vacuum is filled by a third actor (Islam). Empire as institution survives only when legitimacy and depth are absorbed by the successor; when both rivals exhaust each other, liability has already been paid by both.
+
+────────────────────────────────────────────────────────────
+IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Empire is the default institutional form for Persian sovereignty at scale.
 • Legitimacy is sacral and restorative; conquest is framed as return to order.
@@ -149,7 +162,7 @@ VII. CONTINUITY INSIGHTS (RAW)
 • Empire memory outlives dynasty; civilization outlives empire.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (TYPED)
+X. MEM CONNECTIONS (TYPED)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
@@ -180,7 +193,7 @@ TEMPORAL_AFTER:
 • MEM–PERSIA–ISLAM — Absorption of imperial administration and legitimacy into Islamic frame
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY
+XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT
 • Herodotus, *Histories*, III.89 — ARC–PERSIA-T-ANCIENT; tribute, imperial design
@@ -192,5 +205,5 @@ IX. MEM BIBLIOGRAPHY
 • Adrian Goldsworthy, *Rome and Persia* — parity, Khosrow, exhaustion (cited in DYNASTY–SASANIAN–KHOSROW–II)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–EMPIRE — v1.2
+END OF FILE — MEM–PERSIA–EMPIRE — v1.3
 ────────────────────────────────────────────────────────────

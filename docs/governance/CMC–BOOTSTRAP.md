@@ -335,7 +335,7 @@ SHARED STRUCTURE (invariant across all modes):
 ├─────────────────────────────────────────────────────────────────┤
 │ ANALYTICAL PROTOCOL                                              │
 │ • Voice rules (Mercouris primary, Mearsheimer, Barnes)          │
-│ • Content proportion rule (GEO 2/3 M'heimer; Subject 2/3 Merc) │
+│ • Content composition rule (GEO M'heimer primary; Subject Merc primary; Barnes required) │
 │ • Options menu (8 options A–H, M+B, post-Barnes M/M response)  │
 │ • Three-perspective analysis (L→P→Li→L sequence, enrichment)    │
 └─────────────────────────────────────────────────────────────────┘
@@ -596,9 +596,8 @@ MODE SWITCHING:
 ACTIVE CONSTRAINTS
 ────────────────────────────────────────────────────────────
 
-CONTENT PROPORTION RULE (formerly Proportional Blend Law):
-• GEO–MEM: 2/3 Mearsheimer + 1/3 Mercouris (ARC quotes)
-• Subject MEM: 2/3 Mercouris + 1/3 Mearsheimer
+CONTENT COMPOSITION RULE (no numerical proportions):
+• GEO–MEM: Mearsheimer primary, Mercouris secondary; Subject MEM: Mercouris primary, Mearsheimer secondary; Barnes dimension required in every MEM. See cmc-blend-law.mdc and CIV–MEM–CORE VP-1.g.
 
 HUMAN CURATION SUPREMACY:
 Analytical profiles are LOCKED. No autonomous mutation.

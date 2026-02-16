@@ -9,8 +9,8 @@ Supersedes: CIV–MIND–MERCOURIS v3.2
 Upgrade Type: CONTENT REFINEMENT · TRANSCRIPT AUDIT 12 FEB 2026
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
-• CIV–MIND–TEMPLATE v3.0 (REQUIRED)
-• CIV–MIND–MEARSHEIMER v3.0 (ADVISORY)
+• CIV–MIND–TEMPLATE v3.3 (REQUIRED)
+• CIV–MIND–MEARSHEIMER v3.3 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 • CIV–STATE (via content-based naming; see III.L)
@@ -19,8 +19,8 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.2
-• CIV–MIND–TEMPLATE v3.0
+• CIV–MEM–CORE v3.3
+• CIV–MIND–TEMPLATE v3.3
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Material: Transcript analysis (24–25 January 2026 programs + December 2025 panel +
@@ -851,17 +851,16 @@ VI.D RULES
 
 See: CIV–MIND–MEARSHEIMER v2.6 for full advisory specification.
 
-VI.E PROPORTIONAL BLEND LAW
+VI.E CONTENT COMPOSITION (NO NUMERICAL PROPORTIONS)
 ────────────────────────────────────────────────────────────
-MERCOURIS and MEARSHEIMER cognition manifest in different
-proportions depending on file type:
+MERCOURIS and MEARSHEIMER cognition manifest by primary vs secondary
+voice depending on file type. There are no numerical proportions (no 2/3, 1/3).
 
-• GEO–MEM: 2/3 Mearsheimer + 1/3 Mercouris
-• Subject MEM: 2/3 Mercouris + 1/3 Mearsheimer
+• GEO–MEM: Mearsheimer primary, Mercouris secondary
+• Subject MEM: Mercouris primary, Mearsheimer secondary
 
-Neither voice is ever fully absent. File type determines emphasis.
-
-See: CIV–MEM–CORE v3.2, Section VP-1.g
+Neither voice is ever fully absent. BARNES is a required third role in all MEMs.
+File type determines emphasis. See CIV–MEM–CORE VP-1.g; cmc-blend-law.mdc.
 
 VI.F TERTIARY CATALYST: BARNES
 ────────────────────────────────────────────────────────────

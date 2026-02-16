@@ -1,10 +1,10 @@
-MEM–PERSIA–WAR–ROME — v2.2
+MEM–PERSIA–WAR–ROME — v2.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 2.2
-Upgrade Type: ADDITIVE · indigenous-language quote (Al-Tabari)
+Version: 2.3
+Upgrade Type: Content composition rule (new MIND rule): structural assessment (power distribution, incentive, no closure); Barnes dimension (who paid, defection, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Roman–Persian Wars (Parthian & Sasanian Phases)
 Dates: c. 53 BC–628 AD
@@ -183,6 +183,16 @@ Doctrinal lessons:
 Rome validates Persia’s defensive genius—and its limits.
 
 ────────────────────────────────────────────────────────────
+X-A. STRUCTURAL ASSESSMENT (POWER DISTRIBUTION & INCENTIVE)
+────────────────────────────────────────────────────────────
+**Power distribution:** Rome and Persia confronted each other as near-equals—imperial administration, professional armies, tax-based logistics. The force ratio on the Mesopotamian and Levant fronts did not favour decisive closure for either side; both could deny the other final victory. **Incentive structure:** Rome's incentive was expansion and finality; Persia's was denial and endurance. What the balance of power told each to do diverged; neither could impose a terminal outcome. **Structural outcome:** No arbiter; security competition for seven centuries; exhaustion, not defeat, ended the rivalry. The war had no terminal victory condition because the structural logic did not permit it.
+
+────────────────────────────────────────────────────────────
+X-B. LIABILITY / MECHANISM (BARNES DIMENSION)
+────────────────────────────────────────────────────────────
+**Who paid:** Both empires—soldiers, treasuries, legitimacy. Roman and Persian elites bore the cost of parity war; neither population "won." **Who defected:** Khosrow II's court (Kavadh II) defected when overextension and Heraclius's counterstrike made loyalty unsustainable; the successor exited first. **Institutional survival:** Both empires exhausted each other; neither institution survived the terminal war intact. Persia's administrative template was absorbed by the Caliphate; Rome lost the eastern provinces. **Irreversibility:** Mutual exhaustion is irreversible; the vacuum was filled by Islam. Liability attached to the overextending ruler (Khosrow) and to the defecting successor; the rivalry itself had no single agent "on the hook"—both paid.
+
+────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Persia survives Rome by refusing Rome’s war logic.
@@ -221,5 +231,5 @@ XIII. BIBLIOGRAPHY
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–WAR–ROME — v2.2
+END OF FILE — MEM–PERSIA–WAR–ROME — v2.3
 ────────────────────────────────────────────────────────────
