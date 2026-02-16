@@ -101,7 +101,7 @@ Primary MEMs:
 • MEM–RUSSIA–SIEGE–LENINGRAD — 900-day siege as legitimacy anchor
 
 Secondary MEMs:
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Reforms create suffering later harvested
+• MEM–RUSSIA–ROMANOV–PETER–I — Reforms create suffering later harvested
 • MEM–RUSSIA–STALIN — Industrialization suffering → WWII victory claim
 
 Related RLLs:
@@ -122,7 +122,7 @@ Primary MEMs:
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Mare nostrum control
 
 Secondary MEMs:
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Corridor acquisition as goal
+• MEM–RUSSIA–ROMANOV–PETER–I — Corridor acquisition as goal
 • MEM–ANGLIA–GEO–SUEZ–CANAL — Imperial lifeline
 
 Related Doctrines:

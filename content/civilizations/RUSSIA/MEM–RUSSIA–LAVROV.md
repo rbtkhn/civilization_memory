@@ -177,7 +177,7 @@ VIII. MEM CONNECTIONS (MANDATORY)
 Same-civilization (≥10):
 • MEM–RUSSIA–PANIN — institutional voice vs sovereign choice; system-diplomacy template
 • MEM–RUSSIA–PUTIN — sovereign under whom Lavrov has served as FM
-• MEM–RUSSIA–CATHERINE–GREAT — sovereign override of restraint advisor; quartet
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — sovereign override of restraint advisor; quartet
 • MEM–RUSSIA–POTEMKIN — expansion alternative to Panin's restraint
 • MEM–RUSSIA–USSR–COLD–WAR — superpower diplomatic tradition
 • MEM–RUSSIA–CONGRESS–VIENNA — Russian diplomacy at system level

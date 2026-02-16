@@ -36,7 +36,7 @@
 
 ---
 
-### 3. MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+### 3. MEM–RUSSIA–ROMANOV–PETER–I
 
 **Why:** Foundational for **coercive modernization** and DOCTRINE 07 (buffer-based shock absorption); primary for fiscal/structural and Baltic/outlet logic. Central to Rurikid→Petrine rupture and imperial grammar.
 
@@ -56,7 +56,7 @@
 
 ---
 
-### 5. MEM–RUSSIA–NICHOLAS–II
+### 5. MEM–RUSSIA–ROMANOV–NICHOLAS–II
 
 **Why:** Primary MEM for **Morale Collapse / Defection Cascade** (§ III) and **Leadership Liability / Personalist Constraint** (§ VII). Autocratic rigidity, elite defection, succession crisis; RLL–0033 (sovereign override / exhaustion). Core to 1917 and defection-incentive diagnostics.
 
@@ -72,9 +72,9 @@
 |---|-----|-----------------------------------|----------------------|
 | 1 | MEM–RUSSIA–CONGRESS–VIENNA | Settlement precedent (§ IV); Partnership (§ VI) | No indigenous-language quote; likely &lt;20% verbatim |
 | 2 | MEM–RUSSIA–WAR–NAPOLEON | Attrition/Endurance (§ I) | No indigenous-language quote |
-| 3 | MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I | Fiscal/structural; DOCTRINE 07; Baltic | No indigenous-language quote |
+| 3 | MEM–RUSSIA–ROMANOV–PETER–I | Fiscal/structural; DOCTRINE 07; Baltic | No indigenous-language quote |
 | 4 | MEM–RUSSIA–KUTUZOV | Attrition/Endurance (§ I); RLL–0033 | No indigenous-language quote |
-| 5 | MEM–RUSSIA–NICHOLAS–II | Defection cascade (§ III); Leadership liability (§ VII) | No indigenous-language quote |
+| 5 | MEM–RUSSIA–ROMANOV–NICHOLAS–II | Defection cascade (§ III); Leadership liability (§ VII) | No indigenous-language quote |
 
 ---
 

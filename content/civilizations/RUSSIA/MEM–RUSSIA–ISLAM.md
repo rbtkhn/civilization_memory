@@ -269,7 +269,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — wars with Ottoman Empire
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — confessional counterpoint
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — conqueror of Kazan
-• MEM–RUSSIA–CATHERINE–GREAT — Orenburg Assembly, Crimea
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Orenburg Assembly, Crimea
 • MEM–RUSSIA–SOVIET–UNION — SADUM, atheism, co-optation
 • MEM–RUSSIA–GEO–CAUCASUS — North Caucasus, contemporary Islam
 • MEM–RUSSIA–ASTRAKHAN — Muslim khanate conquered

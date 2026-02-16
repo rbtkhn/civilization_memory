@@ -321,7 +321,7 @@ X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–REVOLUTION–1905 — precedent revolution
-• MEM–RUSSIA–NICHOLAS–II — last tsar
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — last tsar
 • MEM–RUSSIA–WWI — immediate context
 • MEM–RUSSIA–LENIN — revolutionary leader
 • MEM–RUSSIA–CIVIL–WAR — consolidation struggle

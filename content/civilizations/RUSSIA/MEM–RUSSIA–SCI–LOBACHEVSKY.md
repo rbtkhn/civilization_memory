@@ -134,8 +134,8 @@ VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KAZAN — city and university; Lobachevsky's base
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — Kazan University founded 1804; reign
-• MEM–RUSSIA–NICHOLAS–I — reign during Lobachevsky's rectorate and publication
+• MEM–RUSSIA–ROMANOV–ALEXANDER–I — Kazan University founded 1804; reign
+• MEM–RUSSIA–ROMANOV–NICHOLAS–I — reign during Lobachevsky's rectorate and publication
 • MEM–RUSSIA–SCI–LOMONOSOV — centre (Moscow, Academy); contrast periphery
 • MEM–RUSSIA–SCI–MENDELEEV — Petersburg; centre recognition; contrast
 • MEM–RUSSIA–PETERSBURG — metropolitan centre; Academy

@@ -77,7 +77,7 @@ PIPELINE FLOW:
     │   │  MEM–RUSSIA–RURIKIDS                       │     │
     │   │  MEM–RUSSIA–MONGOL–YOKE                    │     │
     │   │  MEM–RUSSIA–IVAN–TERRIBLE                  │     │
-    │   │  MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I                    │     │
+    │   │  MEM–RUSSIA–ROMANOV–PETER–I                    │     │
     │   │  ... (N files)                             │     │
     │   └────────────────────────────────────────────┘     │
     │                       │                              │

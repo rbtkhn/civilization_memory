@@ -228,7 +228,7 @@ GEO (≥2):
 
 Cross-civilizational:
 • MEM–PERSIA–ACHAEMENID — target Philip identified; Alexander destroyed
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — parallel system-builder who transformed a
+• MEM–RUSSIA–ROMANOV–PETER–I — parallel system-builder who transformed a
   "backward" kingdom into a great power
 
 ────────────────────────────────────────────────────────────

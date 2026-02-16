@@ -172,9 +172,9 @@ IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
 • MEM–RUSSIA–LAW–SERFDOM — system being dissolved; emancipation unintelligible without it
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — tsar who decreed emancipation; reformer-autocrat
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — tsar who decreed emancipation; reformer-autocrat
 • MEM–RUSSIA–WAR–CRIMEAN — strategic shock catalyst; exposed serfdom as liability
-• MEM–RUSSIA–NICHOLAS–II — ultimate failure of incomplete reform trajectory
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — ultimate failure of incomplete reform trajectory
 • MEM–RUSSIA–DYNASTY–ROMANOV — autocratic reform from above pattern
 • MEM–RUSSIA–ZEMSTVO — local government reform paired with emancipation
 • MEM–RUSSIA–REVOLUTION–1905 — peasant grievances from incomplete emancipation

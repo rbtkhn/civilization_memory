@@ -341,7 +341,7 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–CATHERINE–GREAT — architect of annexation
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — architect of annexation
 • MEM–RUSSIA–WAR–CRIMEAN — defensive trauma and modernization trigger
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — context of Ottoman rivalry
 • MEM–RUSSIA–UKRAINE — modern contestation zone

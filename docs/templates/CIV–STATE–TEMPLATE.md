@@ -448,7 +448,7 @@ REGISTER RULES:
 • Use professional analytical language throughout
 • Translate all system-internal concepts into plain equivalents
 • Name analytical perspectives by their content, not their profile names
-• Citation of source files is permitted (e.g. "Source: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I")
+• Citation of source files is permitted (e.g. "Source: MEM–RUSSIA–ROMANOV–PETER–I")
   but internal governance terms must not appear in analytical prose
 
 TRANSLATION TABLE (for system use during file production):
@@ -2012,7 +2012,7 @@ PROHIBITED QUANTITATIVE PATTERNS:
   an assessment, unless the underlying data is genuinely quantitative
 
 PERMITTED:
-• File names as source citations (e.g. "Source: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I")
+• File names as source citations (e.g. "Source: MEM–RUSSIA–ROMANOV–PETER–I")
 • "CIV–CORE" and "CIV–SCHOLAR" as source references only
 • Entity classification terms (CIVILIZATION-STATE, etc.)
 • Succession link types (IDEOLOGICAL_CLAIM, etc.)

@@ -254,7 +254,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–GOLDEN–HORDE — predecessor state fragmented
 • MEM–RUSSIA–COSSACKS — frontier settlement and defense
 • MEM–RUSSIA–PUGACHEV — rebellion threatening region
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Persian campaign launched from Astrakhan
+• MEM–RUSSIA–ROMANOV–PETER–I — Persian campaign launched from Astrakhan
 • MEM–RUSSIA–CATHERINE–II — administrative reforms
 • MEM–RUSSIA–TRADE–ROUTES — commercial significance
 • MEM–RUSSIA–NAVY — Caspian Flotilla base

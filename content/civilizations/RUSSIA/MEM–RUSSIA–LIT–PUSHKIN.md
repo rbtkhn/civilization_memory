@@ -262,14 +262,14 @@ ARC Categories Applied (Modern Era MEM - 20% Compliance):
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Peter's legacy as both foundation and terror
+• MEM–RUSSIA–ROMANOV–PETER–I — Peter's legacy as both foundation and terror
 • MEM–RUSSIA–PUGACHEV–REBELLION — rebellion as freedom and chaos
 • MEM–RUSSIA–ARISTOCRACY — aristocratic identity contradictions
 • MEM–RUSSIA–LIT–GOGOL — direct literary successor, grotesque development
 • MEM–RUSSIA–LIT–TOLSTOY — literary language foundation for later novels
 • MEM–RUSSIA–LIT–DOSTOEVSKY — literary language foundation for psychological depth
 • MEM–RUSSIA–DYNASTY–ROMANOV — court politics and artistic censorship
-• MEM–RUSSIA–NICHOLAS–I — tsarist control over cultural production
+• MEM–RUSSIA–ROMANOV–NICHOLAS–I — tsarist control over cultural production
 • MEM–RUSSIA–DECEMBRIST–UPRISING — Pushkin's friends among rebels
 • MEM–RUSSIA–SERFDOM — social hierarchy in Eugene Onegin
 • MEM–RUSSIA–ORTHODOXY — Russian identity and cultural memory

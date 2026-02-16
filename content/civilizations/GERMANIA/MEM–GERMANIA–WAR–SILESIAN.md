@@ -272,7 +272,7 @@ GEO MEMs:
 
 Cross-Civilizational:
 
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH
+• MEM–RUSSIA–ROMANOV–ELIZABETH
   Dependency: Coalition member—Russian Empress Elizabeth committed to
   Prussian destruction; Russian armies invaded Prussia.
   Breaks if removed: Why coalition nearly succeeded disappears; Kunersdorf

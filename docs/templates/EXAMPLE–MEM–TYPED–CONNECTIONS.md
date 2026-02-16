@@ -44,7 +44,7 @@ II. CONNECTION TYPES SUMMARY
 ────────────────────────────────────────────────────────────
 III. FORMAT DEMONSTRATION
 ────────────────────────────────────────────────────────────
-Below is an example of how a real MEM (e.g., MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I)
+Below is an example of how a real MEM (e.g., MEM–RUSSIA–ROMANOV–PETER–I)
 would structure its connections:
 
 ────────────────────────────────────────────────────────────
@@ -54,10 +54,10 @@ MEM CONNECTIONS (TYPED)
 DEPENDS_ON:
 • MEM–RUSSIA–MUSCOVY — Peter inherits Muscovite coercive state apparatus
 • MEM–RUSSIA–GEO–BALTIC–SEA — Baltic access is the strategic objective
-• MEM–RUSSIA–ALEXEI–ROMANOV — Peter's father; institutional inheritance
+• MEM–RUSSIA–ROMANOV–ALEXEI — Peter's father; institutional inheritance
 
 ENABLES:
-• MEM–RUSSIA–CATHERINE–GREAT — Catherine extends Petrine modernization
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Catherine extends Petrine modernization
 • MEM–RUSSIA–BALTIC–HEGEMONY — Peter creates the Baltic position Catherine exploits
 • MEM–RUSSIA–PETERSBURG — Peter founds the city as new capital
 
@@ -76,13 +76,13 @@ GEOGRAPHIC:
 • MEM–RUSSIA–GEO–EUROPEAN–PLAIN — Shapes military strategy and expansion
 
 TEMPORAL_BEFORE:
-• MEM–RUSSIA–ALEXEI–ROMANOV
-• MEM–RUSSIA–FYODOR–III
+• MEM–RUSSIA–ROMANOV–ALEXEI
+• MEM–RUSSIA–ROMANOV–FYODOR–III
 • MEM–RUSSIA–SOPHIA–REGENT
 
 TEMPORAL_AFTER:
 • MEM–RUSSIA–ANNA
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH
+• MEM–RUSSIA–ROMANOV–ELIZABETH
 • MEM–RUSSIA–PETER–III
 
 ────────────────────────────────────────────────────────────
@@ -94,8 +94,8 @@ LEGACY (untyped — still valid):
 MEM CONNECTIONS
 Same-Civilization:
 • MEM–RUSSIA–MUSCOVY
-• MEM–RUSSIA–CATHERINE–GREAT
-• MEM–RUSSIA–ALEXEI–ROMANOV
+• MEM–RUSSIA–ROMANOV–CATHERINE–II
+• MEM–RUSSIA–ROMANOV–ALEXEI
 ... (list of 10+ files without explanation)
 
 GEO Connections:

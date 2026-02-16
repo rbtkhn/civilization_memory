@@ -38,7 +38,7 @@ CHANGES IMPLEMENTED:
 • Temporal solution: Panin's death (1783) enabling southern commitment
 • Crimean annexation timing analysis
 • Enhanced continuity insights with quartet patterns
-• Cross-references to upgraded MEM–RUSSIA–CATHERINE–GREAT and MEM–RUSSIA–SUVOROV
+• Cross-references to upgraded MEM–RUSSIA–ROMANOV–CATHERINE–II and MEM–RUSSIA–SUVOROV
 
 No analytical deletions.
 No synthesis introduced.
@@ -336,8 +336,8 @@ diplomatic evidence.
 IX. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — diplomatic inheritance
-• MEM–RUSSIA–CATHERINE–GREAT — expansion over equilibrium
+• MEM–RUSSIA–ROMANOV–ELIZABETH — diplomatic inheritance
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — expansion over equilibrium
 • MEM–RUSSIA–POTEMKIN — territorial counter-logic
 • MEM–RUSSIA–SEVEN–YEARS — system shock context
 • MEM–RUSSIA–PETER–III — succession transition

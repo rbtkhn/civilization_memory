@@ -260,7 +260,7 @@ XI. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE — traumatic defeat event (1904–05)
 • MEM–RUSSIA–REVOLUTION–1905 — domestic consequence
-• MEM–RUSSIA–NICHOLAS–II — tsar during defeat
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — tsar during defeat
 • MEM–RUSSIA–MANCHURIA — collision zone
 • MEM–RUSSIA–TRANS–SIBERIAN — logistical weakness
 • MEM–RUSSIA–NAVY — Port Arthur destruction

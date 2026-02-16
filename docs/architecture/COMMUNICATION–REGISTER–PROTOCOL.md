@@ -294,7 +294,7 @@ is untested.
 What would you like me to investigate next?
 
 [OGE OPTIONS]
-A. Ingest MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I to examine the sovereign's perspective
+A. Ingest MEM–RUSSIA–ROMANOV–ALEXANDER–I to examine the sovereign's perspective
 B. Look for similar patterns in other civil-military tensions (Russia)
 C. Compare with Napoleonic command structure for contrast
 D. Search for counter-examples where sovereign-executor alignment worked

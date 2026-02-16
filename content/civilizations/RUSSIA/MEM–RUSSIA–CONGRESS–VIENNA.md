@@ -212,7 +212,7 @@ X. MEM CONNECTIONS (v2.7 · STRUCTURAL)
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–NAPOLEON — invasion and defeat context
 • MEM–RUSSIA–WAR–1812 — sacrifice legitimacy source
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — Congress architect
+• MEM–RUSSIA–ROMANOV–ALEXANDER–I — Congress architect
 • MEM–RUSSIA–HOLY–ALLIANCE — ideological crystallization
 • MEM–RUSSIA–POLAND — glacis acquisition
 • MEM–RUSSIA–CONCERT–EUROPE — system role

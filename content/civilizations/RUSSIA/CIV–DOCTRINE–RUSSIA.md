@@ -29,7 +29,7 @@ comparative analysis):
   Rome's Praetorian correction (Caligula 41 AD — ad hoc, succeeded),
   Ottoman Janissary corrections (1622–1807 — institutionalised, succeeded
   repeatedly), Russian generals' abdication advice (Nicholas II 1917 —
-  improvised, failed). Source: MEM–RUSSIA–NICHOLAS–II,
+  improvised, failed). Source: MEM–RUSSIA–ROMANOV–NICHOLAS–II,
   MEM–ROME–EMPIRE–CALIGULA, MEM–ROME–OTTOMAN–EMPIRE; LEARN session
   2026-02.
 
@@ -70,7 +70,7 @@ Scholar WRITE mode (LEARN session 2026-02, Panin–Potemkin analysis):
 
 • DOCTRINE 03: Addendum—institutional vs territorial legitimacy modes.
   Operational Meaning and Hard Constraints expanded per Mercouris/Mearsheimer
-  refinement. Source: MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT,
+  refinement. Source: MEM–RUSSIA–PANIN, MEM–RUSSIA–ROMANOV–CATHERINE–II,
   MEM–RUSSIA–POTEMKIN; RLL–0002, RLL–0005.
 
 • DOCTRINE 05 (FISCAL CONSTRAINT AND RESTRAINT PREFERENCE): New doctrine.
@@ -314,7 +314,7 @@ Status: ACCEPTED · LOCKED · CANONICAL
 Source:
 • CIV–SCHOLAR–RUSSIA (LEARN session 2026-02; Panin foreign policy
   quantitative analysis)
-• MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT
+• MEM–RUSSIA–PANIN, MEM–RUSSIA–ROMANOV–CATHERINE–II
 • DIB–RUSSIA (Approved via WRITE-mode implementation)
 
 Definition:
@@ -400,7 +400,7 @@ Status: ACCEPTED · LOCKED · CANONICAL
 Source:
 • CIV–SCHOLAR–RUSSIA (LEARN session 2026-02; cross-civilisational
   comparative analysis — Rome, Ottoman, Russia)
-• MEM–RUSSIA–NICHOLAS–II, MEM–ROME–EMPIRE–CALIGULA,
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II, MEM–ROME–EMPIRE–CALIGULA,
   MEM–ROME–OTTOMAN–EMPIRE
 • DOCTRINE 02 (BUFFERED AUTOCRACY)
 • DIB–RUSSIA (Approved via WRITE-mode implementation)

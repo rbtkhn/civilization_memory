@@ -147,8 +147,8 @@ Same-civilization (≥10):
 • MEM–RUSSIA–STALIN — era of bomb project; Kurchatov's sovereign
 • MEM–RUSSIA–SOVIET–UNION — state form; dissent and punishment
 • MEM–RUSSIA–LAVROV — institutional voice (FM); contrast with scientist as voice
-• MEM–RUSSIA–CATHERINE–GREAT — sovereign override of Panin
-• MEM–RUSSIA–NICHOLAS–II — sovereign under pressure; no effective restraint
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — sovereign override of Panin
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — sovereign under pressure; no effective restraint
 • MEM–RUSSIA–INTELLIGENTSIA — educated elite; dissent tradition
 
 GEO MEMs (≥2):

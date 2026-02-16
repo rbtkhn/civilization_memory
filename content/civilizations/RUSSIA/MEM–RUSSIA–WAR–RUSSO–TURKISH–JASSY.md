@@ -182,7 +182,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–WAR–RUSSO–TURKISH–IZMAIL — tactical victory enabling termination
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — centuries-long rivalry
 • MEM–RUSSIA–CRIMEA — annexed 1783; confirmed at Jassy
-• MEM–RUSSIA–CATHERINE–GREAT — sovereign; southern project architect
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — sovereign; southern project architect
 • MEM–RUSSIA–POTEMKIN — southern vision; post-Panin ascendancy
 • MEM–RUSSIA–SUVOROV — Izmail commander; operational delivery
 • MEM–RUSSIA–PANIN — northern counterpole; died 1783

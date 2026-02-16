@@ -300,13 +300,13 @@ XI. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and endurance validation
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — strategic planning and legitimacy conversion
+• MEM–RUSSIA–ROMANOV–ALEXANDER–I — strategic planning and legitimacy conversion
 • MEM–RUSSIA–WAR–BORODINO — key battle and controlled sacrifice
 • MEM–RUSSIA–PAUL–I — contrast: strategic restraint vs personal impulse
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through endurance
 • MEM–RUSSIA–SUVOROV — contrast: offensive genius vs endurance doctrine
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — military modernization enabling 1812 capacity
-• MEM–RUSSIA–CATHERINE–GREAT — Russo-Turkish experience shaping Kutuzov
+• MEM–RUSSIA–ROMANOV–PETER–I — military modernization enabling 1812 capacity
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Russo-Turkish experience shaping Kutuzov
 • MEM–RUSSIA–MUSCOVY — coercive state formation as strategic foundation
 • MEM–RUSSIA–LIT–TOLSTOY — literary construction of Kutuzov in War and Peace
 

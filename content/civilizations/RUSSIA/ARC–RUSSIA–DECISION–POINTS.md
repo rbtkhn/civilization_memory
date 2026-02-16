@@ -307,8 +307,8 @@ Historical anchors: Treaty of Paris 1856 (fiscal adjustment
 after defeat — MEM–RUSSIA–WAR–CRIMEAN); Congress of Vienna
 sacrifice-to-authority conversion (MEM–RUSSIA–CONGRESS–VIENNA);
 Panin's equilibrium diplomacy vs Catherine's territorial lock-in
-(MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT); Nicholas II
-Duma as tactical concession (MEM–RUSSIA–NICHOLAS–II); 1917
+(MEM–RUSSIA–PANIN, MEM–RUSSIA–ROMANOV–CATHERINE–II); Nicholas II
+Duma as tactical concession (MEM–RUSSIA–ROMANOV–NICHOLAS–II); 1917
 non-linear morale collapse (MEM–RUSSIA–BOLSHEVIK–REVOLUTION).
 
 Session finding: Current policy fits Option C (diplomatic

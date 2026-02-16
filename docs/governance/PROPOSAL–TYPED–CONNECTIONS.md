@@ -21,8 +21,8 @@ CURRENT FORMAT (typical):
 ```
 MEM CONNECTIONS
 Same-Civilization:
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
-• MEM–RUSSIA–CATHERINE–GREAT
+• MEM–RUSSIA–ROMANOV–PETER–I
+• MEM–RUSSIA–ROMANOV–CATHERINE–II
 • MEM–RUSSIA–MUSCOVY–IVAN–IV
 ... (list of 10+ files)
 
@@ -53,13 +53,13 @@ A) CONNECTION TYPES (Exhaustive)
 
 DEPENDS_ON — Prerequisite relationship
 • This MEM cannot be fully understood without the target
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
+• Example: MEM–RUSSIA–ROMANOV–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
 • Traversal: Read dependencies first
 
 ENABLES — Consequent relationship
 • This MEM is required to understand the target
 • Inverse of DEPENDS_ON
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
+• Example: MEM–RUSSIA–ROMANOV–PETER–I ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
 
 CONTRADICTS — Tension relationship
 • This MEM presents claims in tension with the target
@@ -69,7 +69,7 @@ CONTRADICTS — Tension relationship
 PARALLELS — Structural similarity
 • This MEM exhibits patterns similar to the target
 • Cross-civ comparison marker
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I PARALLELS MEM–ROME–AUGUSTUS (centralization)
+• Example: MEM–RUSSIA–ROMANOV–PETER–I PARALLELS MEM–ROME–AUGUSTUS (centralization)
 
 TEMPORAL_BEFORE — Chronological predecessor
 • This MEM's subject precedes the target in time
@@ -80,7 +80,7 @@ TEMPORAL_AFTER — Chronological successor
 
 GEOGRAPHIC — Spatial relationship
 • This MEM's subject operates within or is shaped by the target geography
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
+• Example: MEM–RUSSIA–ROMANOV–PETER–I GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
 
 B) NEW FORMAT
 
@@ -94,7 +94,7 @@ DEPENDS_ON:
 • MEM–RUSSIA–GEO–BALTIC–SEA — Baltic access is the strategic objective
 
 ENABLES:
-• MEM–RUSSIA–CATHERINE–GREAT — Catherine extends Petrine modernization
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Catherine extends Petrine modernization
 • MEM–RUSSIA–BALTIC–HEGEMONY — Peter creates the Baltic position Catherine exploits
 
 CONTRADICTS:
@@ -109,12 +109,12 @@ GEOGRAPHIC:
 • MEM–RUSSIA–GEO–GULF–FINLAND — Strategic water space
 
 TEMPORAL_BEFORE:
-• MEM–RUSSIA–ALEXEI–ROMANOV
-• MEM–RUSSIA–FYODOR–III
+• MEM–RUSSIA–ROMANOV–ALEXEI
+• MEM–RUSSIA–ROMANOV–FYODOR–III
 
 TEMPORAL_AFTER:
 • MEM–RUSSIA–ANNA
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH
+• MEM–RUSSIA–ROMANOV–ELIZABETH
 ```
 
 C) MINIMUM REQUIREMENTS (Revised)
@@ -140,7 +140,7 @@ III. TRAVERSAL BENEFITS
 ────────────────────────────────────────────────────────────
 Typed connections enable intelligent traversal:
 
-QUERY: "What must I understand before reading MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I?"
+QUERY: "What must I understand before reading MEM–RUSSIA–ROMANOV–PETER–I?"
 ANSWER: Follow DEPENDS_ON edges recursively
 
 QUERY: "What are the consequences of Peter's reforms?"

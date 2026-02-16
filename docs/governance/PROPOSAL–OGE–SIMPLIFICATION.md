@@ -127,7 +127,7 @@ No semantic shift of slots required.
 ────────────────────────────────────────────────────────────
 III. EXAMPLES
 ────────────────────────────────────────────────────────────
-SCENARIO 1: User is exploring MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+SCENARIO 1: User is exploring MEM–RUSSIA–ROMANOV–PETER–I
 
 Current OGE (8 fixed options):
 ```

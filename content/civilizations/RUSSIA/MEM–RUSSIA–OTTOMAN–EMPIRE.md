@@ -214,9 +214,9 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–CONSTANTINOPLE — symbolic inheritance conflict
 • MEM–RUSSIA–WAR–OTTOMAN — kinetic iteration layer
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — legitimacy counterclaim
-• MEM–RUSSIA–CATHERINE–GREAT — southern breakthrough architect
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — southern breakthrough architect
 • MEM–RUSSIA–CRIMEA — terminal control inversion
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — maritime ambition precursor
+• MEM–RUSSIA–ROMANOV–PETER–I — maritime ambition precursor
 • MEM–RUSSIA–EXPANSION–SOUTH — directional logic
 • MEM–RUSSIA–NAVY — Black Sea fleet genesis
 • MEM–RUSSIA–CONGRESS–VIENNA — post-Ottoman order arbitration

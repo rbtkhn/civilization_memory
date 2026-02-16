@@ -307,8 +307,8 @@ Same-civilization (≥10):
 • MEM–RUSSIA–SIBERIA — territory opened by Cossack advance
 • MEM–RUSSIA–PUGACHEV — largest Cossack-led rebellion
 • MEM–RUSSIA–RAZIN — Don Cossack revolt
-• MEM–RUSSIA–CATHERINE–GREAT — post-Pugachev incorporation
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — early incorporation efforts
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — post-Pugachev incorporation
+• MEM–RUSSIA–ROMANOV–PETER–I — early incorporation efforts
 • MEM–RUSSIA–SERFDOM — institution Cossacks fled/enforced
 • MEM–RUSSIA–CIVIL–WAR — Cossack division and destruction
 • MEM–RUSSIA–CAUCASUS — Cossack conquest zone

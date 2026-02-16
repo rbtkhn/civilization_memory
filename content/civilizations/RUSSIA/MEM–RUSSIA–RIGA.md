@@ -393,7 +393,7 @@ XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–LATVIA — national context
 • MEM–RUSSIA–ESTONIA — parallel Baltic port (Tallinn)
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — 1710 conqueror
+• MEM–RUSSIA–ROMANOV–PETER–I — 1710 conqueror
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — conquest context
 • MEM–RUSSIA–ST–PETERSBURG — competing window to Europe
 • MEM–RUSSIA–TRADE–ROUTES — commercial function

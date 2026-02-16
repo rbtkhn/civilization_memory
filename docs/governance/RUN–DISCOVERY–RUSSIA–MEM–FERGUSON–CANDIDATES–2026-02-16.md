@@ -21,7 +21,7 @@
 - **Suggested placement:** Section on reform and dissolution (e.g. after III or IV) — Ferguson frame on imperial collapse, ethnic fault lines, or "reform as revelation of illegitimacy" in comparative perspective.
 - **Quote theme to source:** Collapse of empires; ethnic and nationalist resurgence; reform accelerating collapse. *The War of the World* or *Civilization* on 20th-century imperial endgames.
 
-### 3. MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+### 3. MEM–RUSSIA–ROMANOV–PETER–I
 - **Fit:** *Empire* and *Civilization* contrast "midwife to modernity" (Britain) vs coercive modernizer (Russia); maritime vs land empire; Peter as land empire adding a maritime node (already in MEM via RLL–0030).
 - **Suggested placement:** After strategic-context or Baltic section — "Ferguson frame" contrasting British maritime/commercial modernity with Russian coercive modernization and Baltic as second strategic centre.
 - **Quote theme to source:** Coercive vs liberal modernization; land empire adopting maritime elements; "midwife to modernity" vs other paths. *Empire* or *Civilization*.
@@ -31,7 +31,7 @@
 - **Suggested placement:** After Russian objectives or system-arbitration section — Ferguson frame on maritime (Britain) and land (Russia) empires co-shaping the European order.
 - **Quote theme to source:** 19th-century European order; Britain and Russia as different empire types; Concert of Europe or post-1815 balance. *Empire* (2003).
 
-### 5. MEM–RUSSIA–CATHERINE–GREAT
+### 5. MEM–RUSSIA–ROMANOV–CATHERINE–II
 - **Fit:** Land empire expansion; comparative empire (Catherine’s Russia vs British imperial logic); legitimacy through territorial and cultural accumulation vs liberal export.
 - **Suggested placement:** After operational quartet or territorial expansion section — Ferguson frame on land empire legitimacy and expansion vs British "midwife to modernity."
 - **Quote theme to source:** Land empires and legitimacy; territorial vs commercial empire; 18th-century imperial comparison. *Empire* or *Civilization*.
@@ -68,10 +68,10 @@
 |----------|-----|-------------------------|-----------|
 | 1 | MEM–RUSSIA–USSR–COLD–WAR | *The War of the World* | Core 20th-c. conflict; no Ferguson yet |
 | 2 | MEM–RUSSIA–GORBACHEV | *The War of the World* / *Civilization* | Collapse and imperial decline |
-| 3 | MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I | *Empire* / *Civilization* | Coercive vs midwife-to-modernity contrast |
+| 3 | MEM–RUSSIA–ROMANOV–PETER–I | *Empire* / *Civilization* | Coercive vs midwife-to-modernity contrast |
 | 4 | MEM–RUSSIA–WAR–RUSSO–JAPANESE | *The War of the World* | 20th-c. imperial shock |
 | 5 | MEM–RUSSIA–CONGRESS–VIENNA | *Empire* | 19th-c. order, maritime vs land |
-| 6 | MEM–RUSSIA–CATHERINE–GREAT | *Empire* | Land empire expansion, comparative |
+| 6 | MEM–RUSSIA–ROMANOV–CATHERINE–II | *Empire* | Land empire expansion, comparative |
 | 7 | MEM–RUSSIA–ARKHANGELSK | *Empire* | Trade, capital, labour; Britain–Russia commerce |
 | 8 | MEM–RUSSIA–SOVIET–UNION | *The War of the World* | USSR in comparative/descent narrative |
 

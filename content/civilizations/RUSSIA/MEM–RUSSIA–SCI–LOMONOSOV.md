@@ -123,9 +123,9 @@ VI. CONTINUITY INSIGHTS
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture that created demand for native science
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — sovereign under whom Moscow University founded
-• MEM–RUSSIA–CATHERINE–GREAT — successor; Academy and University continuity
+• MEM–RUSSIA–ROMANOV–PETER–I — rupture that created demand for native science
+• MEM–RUSSIA–ROMANOV–ELIZABETH — sovereign under whom Moscow University founded
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — successor; Academy and University continuity
 • MEM–RUSSIA–ARKHANGELSK — Lomonosov's origin; White Sea / northern route
 • MEM–RUSSIA–PETERSBURG — Academy of Sciences; career base
 • MEM–RUSSIA–MOSCOW — Moscow University (1755)

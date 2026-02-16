@@ -42,7 +42,7 @@ CHANGES IMPLEMENTED:
 • Transferability-vulnerability identity
 • Post-Potemkin vulnerability
 • Enhanced continuity insights with structural position patterns
-• Cross-references to upgraded MEM–RUSSIA–CATHERINE–GREAT and MEM–RUSSIA–PANIN
+• Cross-references to upgraded MEM–RUSSIA–ROMANOV–CATHERINE–II and MEM–RUSSIA–PANIN
 
 No analytical deletions.
 No synthesis introduced.

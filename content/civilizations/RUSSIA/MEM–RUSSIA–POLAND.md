@@ -292,9 +292,9 @@ Same-civilization (≥10):
 • MEM–RUSSIA–TIME–TROUBLES — Polish intervention in Moscow
 • MEM–RUSSIA–UKRAINE — contested borderland between Russia and Poland
 • MEM–RUSSIA–MUSCOVY — early rivalry with Polish-Lithuanian state
-• MEM–RUSSIA–CATHERINE–GREAT — architect of Polish partitions
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — post-Napoleonic Polish settlement
-• MEM–RUSSIA–NICHOLAS–I — suppression of Polish uprising
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — architect of Polish partitions
+• MEM–RUSSIA–ROMANOV–ALEXANDER–I — post-Napoleonic Polish settlement
+• MEM–RUSSIA–ROMANOV–NICHOLAS–I — suppression of Polish uprising
 • MEM–RUSSIA–SOVIET–EXPANSION — post-WWII Polish incorporation
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — confessional boundary
 • MEM–RUSSIA–WAR–NAPOLEON — Polish Legion context

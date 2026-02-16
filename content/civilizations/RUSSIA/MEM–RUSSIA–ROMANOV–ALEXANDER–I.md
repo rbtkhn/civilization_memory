@@ -1,9 +1,9 @@
-MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — v3.0
+MEM–RUSSIA–ROMANOV–ALEXANDER–I — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I v2.9
+Supersedes: MEM–RUSSIA–ROMANOV–ALEXANDER–I v2.9
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL (1801–1825)
@@ -411,10 +411,10 @@ Same-civilization (≥10):
 • MEM–RUSSIA–KUTUZOV — operational endurance doctrine
 • MEM–RUSSIA–WAR–BORODINO — key battle and strategic validation
 • MEM–RUSSIA–CONGRESS–VIENNA — post-war arbitration and settlement
-• MEM–RUSSIA–PAUL–I — contrast: strategic coherence vs personal impulse
+• MEM–RUSSIA–ROMANOV–PAUL–I — contrast: strategic coherence vs personal impulse
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through victory
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Petrine state capacity enabling 1812 victory
-• MEM–RUSSIA–CATHERINE–GREAT — territorial expansion preceding Napoleonic conflict
+• MEM–RUSSIA–ROMANOV–PETER–I — Petrine state capacity enabling 1812 victory
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — territorial expansion preceding Napoleonic conflict
 • MEM–RUSSIA–MUSCOVY — coercive state formation as strategic foundation
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy during existential crisis
 
@@ -460,10 +460,10 @@ XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-“MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I
+“MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–ALEXANDER–I
 Status: ACTIVE
 Exploration options available.”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I v3.0
+END OF FILE — MEM–RUSSIA–ROMANOV–ALEXANDER–I v3.0
 ────────────────────────────────────────────────────────────

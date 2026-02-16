@@ -277,7 +277,7 @@ These contradictions structure Russian memory of Odessa without resolution.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10 same-civilization):
-• MEM–RUSSIA–CATHERINE–GREAT — founder
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — founder
 • MEM–RUSSIA–NEW–RUSSIA — regional context (Novorossiya)
 • MEM–RUSSIA–POTEMKIN — associated with city development
 • MEM–RUSSIA–BLACK–SEA–FLEET — naval base

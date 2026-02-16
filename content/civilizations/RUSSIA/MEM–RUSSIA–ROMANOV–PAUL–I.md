@@ -1,9 +1,9 @@
-MEM–RUSSIA–PAUL–I — v3.1
+MEM–RUSSIA–ROMANOV–PAUL–I — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.1
-Supersedes: MEM–RUSSIA–PAUL–I v3.0
+Supersedes: MEM–RUSSIA–ROMANOV–PAUL–I v3.0
 Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
@@ -144,11 +144,11 @@ X. MEM BIBLIOGRAPHY (v2.7)
 XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
-• MEM–RUSSIA–CATHERINE–GREAT — elite compact formation predecessor
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — post-paternal stabilization successor
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — elite compact formation predecessor
+• MEM–RUSSIA–ROMANOV–ALEXANDER–I — post-paternal stabilization successor
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance limits
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — discipline model reference
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — restraint predecessor contrast
+• MEM–RUSSIA–ROMANOV–PETER–I — discipline model reference
+• MEM–RUSSIA–ROMANOV–ELIZABETH — restraint predecessor contrast
 • MEM–RUSSIA–GUARDS–COUPS — palace revolution mechanism
 • MEM–RUSSIA–NOBILITY — elite compact breach
 • MEM–RUSSIA–SERFDOM — compulsory service reassertion
@@ -179,7 +179,7 @@ No normative verdict is imposed.
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–PAUL–I
+MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–PAUL–I
 Status: ACTIVE
 Exploration options available.
 
@@ -195,5 +195,5 @@ H) Compliance & integrity audit (v2.7)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PAUL–I v3.1
+END OF FILE — MEM–RUSSIA–ROMANOV–PAUL–I v3.1
 ────────────────────────────────────────────────────────────

@@ -227,7 +227,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–KHANATE–SIBIR — conquered polity; entry point for Russian expansion
 • MEM–RUSSIA–IVAN–TERRIBLE — tsar who authorized Siberian conquest
 • MEM–RUSSIA–GULAG — Soviet intensification of Siberian penal function
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — administrative systematization of Siberian extraction
+• MEM–RUSSIA–ROMANOV–PETER–I — administrative systematization of Siberian extraction
 • MEM–RUSSIA–EXILE–SYSTEM — Siberia as punishment geography; political removal
 • MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — infrastructure binding Siberia to core Russia
 • MEM–RUSSIA–DECEMBRISTS — exiles who shaped Siberian intellectual culture

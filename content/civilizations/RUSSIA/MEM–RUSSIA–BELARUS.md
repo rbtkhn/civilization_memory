@@ -337,7 +337,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–USSR — administrative integration
 • MEM–RUSSIA–UNION–STATE — post-Soviet framework
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — confessional continuity
-• MEM–RUSSIA–CATHERINE–GREAT — partition architect
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — partition architect
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–WESTERN–FRONTIER — approach corridor

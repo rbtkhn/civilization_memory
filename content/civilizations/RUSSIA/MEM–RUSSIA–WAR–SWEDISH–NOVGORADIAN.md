@@ -174,7 +174,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–KIEVAN–RUS — Declining central authority context
 • MEM–RUSSIA–GOLDEN–HORDE — Mongol domination during Swedish conflicts
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious frontier defense
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Later Baltic ambitions
+• MEM–RUSSIA–ROMANOV–PETER–I — Later Baltic ambitions
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — Continuation of Swedish rivalry
 • MEM–RUSSIA–VARANGIANS — Earlier Scandinavian-Russian connections
 

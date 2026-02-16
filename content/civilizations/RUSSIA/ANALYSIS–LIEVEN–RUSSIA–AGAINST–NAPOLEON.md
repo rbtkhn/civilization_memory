@@ -243,7 +243,7 @@ Lieven provides detailed operational analysis:
 - Challenges myths and provides structural explanations
 - Extends coverage to 1813–1814 campaigns (currently file focuses on 1812)
 
-**MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I:**
+**MEM–RUSSIA–ROMANOV–ALEXANDER–I:**
 - Provides operational and strategic detail for Alexander's reign
 - Illuminates Alexander's role in strategic planning
 - Explains legitimacy conversion through victory
@@ -293,7 +293,7 @@ Lieven provides detailed operational analysis:
 
 **High Value for:**
 - MEM–RUSSIA–WAR–NAPOLEON (PRIMARY modern authority)
-- MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I (strategic and operational context)
+- MEM–RUSSIA–ROMANOV–ALEXANDER–I (strategic and operational context)
 - MEM–RUSSIA–KUTUZOV (endurance doctrine operationalization)
 - Endurance doctrine framework across multiple MEM files
 
@@ -315,7 +315,7 @@ Lieven provides detailed operational analysis:
    - Establish Lieven as PRIMARY modern authority
    - Upgrade to v2.0 with Lieven integration
 
-2. **MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I Enhancement:**
+2. **MEM–RUSSIA–ROMANOV–ALEXANDER–I Enhancement:**
    - Add Lieven quotations on strategic planning
    - Provide operational context for Alexander's legitimacy conversion
    - Integrate Lieven's analysis of Alexander's role

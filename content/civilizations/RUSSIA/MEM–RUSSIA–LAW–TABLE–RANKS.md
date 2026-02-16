@@ -287,11 +287,11 @@ Contradictions are preserved without synthesis.
 X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Table's creator
+• MEM–RUSSIA–ROMANOV–PETER–I — Table's creator
 • MEM–RUSSIA–LAW–AUTOCRACY — Table as autocratic instrument
 • MEM–RUSSIA–LAW–SERFDOM — peasant exclusion from Table
 • MEM–RUSSIA–LAW–EMANCIPATION — noble freedom's social context
-• MEM–RUSSIA–CATHERINE–GREAT — Charter to Nobility modifying Table
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Charter to Nobility modifying Table
 • MEM–RUSSIA–MENSHIKOV — exemplary Table advancement
 • MEM–RUSSIA–SERVICE–NOBILITY — class created by Table
 • MEM–RUSSIA–BUREAUCRACY — institution Table created

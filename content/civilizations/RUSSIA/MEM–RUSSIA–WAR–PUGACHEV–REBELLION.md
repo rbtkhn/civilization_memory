@@ -209,7 +209,7 @@ Tension preserved without verdict.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian:
-• MEM–RUSSIA–CATHERINE–GREAT — enlightened autocracy's limits
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — enlightened autocracy's limits
 • MEM–RUSSIA–SERFDOM — structural foundation of discontent
 • MEM–RUSSIA–EMANCIPATION — delayed reform response
 • MEM–RUSSIA–STENKA–RAZIN — earlier Volga rebellion pattern

@@ -252,19 +252,19 @@ When generating OGE options E (backward), F (forward), G (cross-civ):
 Available connections:
 - `PARALLELS` → MEM–FRANCE–NAPOLEON–SPAIN (guerrilla parallel)
 - `GEOGRAPHIC` → MEM–RUSSIA–STRATEGIC–DEPTH (terrain)
-- `TEMPORAL_BEFORE` → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (institutional foundation)
+- `TEMPORAL_BEFORE` → MEM–RUSSIA–ROMANOV–PETER–I (institutional foundation)
 
 Mearsheimer affinity ranking:
 1. `GEOGRAPHIC` (HIGH) → MEM–RUSSIA–STRATEGIC–DEPTH
 2. `PARALLELS` (MEDIUM) → MEM–FRANCE–NAPOLEON–SPAIN
-3. `TEMPORAL_BEFORE` (MEDIUM) → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+3. `TEMPORAL_BEFORE` (MEDIUM) → MEM–RUSSIA–ROMANOV–PETER–I
 
 OGE Option E (backward): "Strategic depth: how terrain shaped Napoleon's defeat."
 
 **Same MEM with Mercouris active**
 
 Mercouris affinity ranking:
-1. `TEMPORAL_BEFORE` (HIGH) → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+1. `TEMPORAL_BEFORE` (HIGH) → MEM–RUSSIA–ROMANOV–PETER–I
 2. `PARALLELS` (HIGH) → MEM–FRANCE–NAPOLEON–SPAIN
 3. `GEOGRAPHIC` (MEDIUM) → MEM–RUSSIA–STRATEGIC–DEPTH
 

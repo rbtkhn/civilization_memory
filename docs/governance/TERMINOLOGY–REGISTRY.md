@@ -158,7 +158,7 @@ In STATE files, use:
 • "Historical memory" (not "MEM") — except as source citation
 
 Source citations may use file-type names:
-• "Source: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I" — PERMITTED
+• "Source: MEM–RUSSIA–ROMANOV–PETER–I" — PERMITTED
 • "The MEM analysis suggests..." — PROHIBITED (use "The historical
   analysis suggests...")
 

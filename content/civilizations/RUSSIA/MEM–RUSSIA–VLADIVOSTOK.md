@@ -271,7 +271,7 @@ Russian (≥10):
 • MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — railway terminus
 • MEM–RUSSIA–PACIFIC–FLEET — headquarters
 • MEM–RUSSIA–SIBERIA — eastward expansion context
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — treaty acquisition period
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — treaty acquisition period
 • MEM–RUSSIA–COSSACKS — Far Eastern exploration
 • MEM–RUSSIA–JAPAN — regional rival
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE — Pacific Fleet destruction context (1904–05)

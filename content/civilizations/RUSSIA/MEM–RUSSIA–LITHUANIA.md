@@ -365,7 +365,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–SMOLENSK — contested city between rivals
 • MEM–RUSSIA–KIEV — both claimed Kievan inheritance
 • MEM–RUSSIA–MUSCOVY — rival successor state
-• MEM–RUSSIA–CATHERINE–GREAT — partition architect
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — partition architect
 • MEM–RUSSIA–TIME–TROUBLES — Commonwealth intervention
 • MEM–RUSSIA–KIEVAN–RUS — common inheritance claim
 • MEM–RUSSIA–SOVIET–EXPANSION — 1940 annexation

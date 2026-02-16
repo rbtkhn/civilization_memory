@@ -166,7 +166,7 @@ simultaneously rather than sequentially. The August coup is
 structurally parallel to February 1917: institutional men acting too
 late, in a system already past the point where correction could
 preserve the framework.
-(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–NICHOLAS–II
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–ROMANOV–NICHOLAS–II
 — parallel correction-failure pattern)
 
 ────────────────────────────────────────────────────────────

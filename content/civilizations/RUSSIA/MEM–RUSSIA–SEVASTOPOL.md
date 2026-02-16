@@ -250,7 +250,7 @@ IX. MEM CONNECTIONS (MANDATORY)
 Russian (≥10 same-civilization):
 • MEM–RUSSIA–CRIMEA — peninsula; Sevastopol as Crimean anchor
 • MEM–RUSSIA–GEO–CRIMEA — strategic geography
-• MEM–RUSSIA–CATHERINE–GREAT — founding context (1783)
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — founding context (1783)
 • MEM–RUSSIA–WAR–CRIMEAN — first siege (1854–55)
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–ODESSA — parallel Black Sea defense 1941
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD — parallel siege; Hero City template

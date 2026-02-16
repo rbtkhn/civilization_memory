@@ -207,9 +207,9 @@ Tension preserved without verdict.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian:
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — reign context and system participation
+• MEM–RUSSIA–ROMANOV–ELIZABETH — reign context and system participation
 • MEM–RUSSIA–PAUL–III — succession shock and policy reversal
-• MEM–RUSSIA–CATHERINE–GREAT — contrast with later expansion strategy
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — contrast with later expansion strategy
 • MEM–RUSSIA–SWEDEN — Baltic context
 
 GEO–MEM (REQUIRED):

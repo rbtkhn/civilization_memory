@@ -256,7 +256,7 @@ Russian (≥10):
 • MEM–RUSSIA–PROVINCIAL–LIFE — rural Russian reality
 • MEM–RUSSIA–UKRAINIAN–CULTURE — regional diversity and folk traditions
 • MEM–RUSSIA–SERFDOM — social hierarchy in Dead Souls
-• MEM–RUSSIA–NICHOLAS–I — tsarist censorship of Inspector General
+• MEM–RUSSIA–ROMANOV–NICHOLAS–I — tsarist censorship of Inspector General
 • MEM–RUSSIA–ORTHODOXY — late religious conversion and crisis
 • MEM–RUSSIA–ARISTOCRACY — elite corruption in satirical works
 • MEM–RUSSIA–INTELLIGENTSIA — Gogol's influence on Natural School

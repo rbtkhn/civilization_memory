@@ -68,8 +68,8 @@ Primary MEMs:
   [concepts: reform_failure, mechanism_exposure]
 
 Secondary MEMs:
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Coercive modernisation as fiscal state-building
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — Reform driven by military-fiscal shock
+• MEM–RUSSIA–ROMANOV–PETER–I — Coercive modernisation as fiscal state-building
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — Reform driven by military-fiscal shock
 • MEM–RUSSIA–GORBACHEV — Fiscal exhaustion contributing to systemic collapse
 
 ────────────────────────────────────────────────────────────
@@ -82,7 +82,7 @@ Primary MEMs:
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Sequential elite, military, and
   institutional defection from the regime under total-war pressure
   [concepts: legitimacy_rupture, defection_cascade]
-• MEM–RUSSIA–NICHOLAS–II — Autocratic rigidity preventing adaptation;
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — Autocratic rigidity preventing adaptation;
   elite defection when system cannot absorb war stress
   [concepts: reform_failure, succession_crisis, defection_incentive]
 • MEM–RUSSIA–TIME–TROUBLES — Near-state collapse through dynastic
@@ -118,7 +118,7 @@ Secondary MEMs:
 • MEM–RUSSIA–PANIN — Equilibrium diplomacy as alternative to unilateral expansion
 • MEM–RUSSIA–LAVROV — Institutional voice vs sovereign choice; Lavrov–Panin diagnostic for reading MFA rhetoric and red lines
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — 350 years of war termination and resumption cycles
-• MEM–RUSSIA–CATHERINE–GREAT — Diplomatic balancing between expansion and coalition management
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Diplomatic balancing between expansion and coalition management
 
 ────────────────────────────────────────────────────────────
 V. ESCALATION DYNAMICS
@@ -162,7 +162,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–GOLDEN–HORDE — Tributary partnership model; compliance under asymmetric power
-• MEM–RUSSIA–CATHERINE–GREAT — Operational quartet as internal elite partnership management
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Operational quartet as internal elite partnership management
 • MEM–RUSSIA–LAVROV — MFA as institutional voice; Lavrov–Panin diagnostic for diplomatic rhetoric
 • MEM–RUSSIA–PUTIN — China/BRICS partnership as contemporary strategic diversification
 
@@ -176,7 +176,7 @@ Primary MEMs:
 • MEM–RUSSIA–PUTIN — Personalist system where leader's survival horizon
   drives state policy; vertical of power concentrating decision risk
   [concepts: personal_exposure, regional_hegemony, authority_translation]
-• MEM–RUSSIA–NICHOLAS–II — Personal decision-making accelerating regime
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — Personal decision-making accelerating regime
   collapse; autocrat unable to delegate or adapt
   [concepts: reform_failure, personal_exposure, defection_incentive]
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — Limit case of unbuffered sovereignty; personal
@@ -188,7 +188,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–GORBACHEV — Personal reform initiative exceeding institutional absorptive capacity
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — Tsar as personal target when reform creates expectation gaps
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — Tsar as personal target when reform creates expectation gaps
 • MEM–RUSSIA–DYNASTY–ROMANOV — 304-year pattern of succession vulnerability at personalist transitions
 
 ────────────────────────────────────────────────────────────
@@ -212,7 +212,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–TIME–TROUBLES — Civilizational survival despite institutional collapse
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Coercive rupture that preserves autocratic essence
+• MEM–RUSSIA–ROMANOV–PETER–I — Coercive rupture that preserves autocratic essence
 • MEM–RUSSIA–CONGRESS–VIENNA — Sacrifice converted into international legitimacy
 
 ────────────────────────────────────────────────────────────
@@ -258,7 +258,7 @@ Primary MEMs:
 • MEM–RUSSIA–WAR–CRIMEAN — Russia as the side that lost the attrition
   race; systemic weakness exposed by coalition pressure
   [concepts: reform_failure, mechanism_exposure]
-• MEM–RUSSIA–NICHOLAS–II — Regime collapse under WWI attrition;
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — Regime collapse under WWI attrition;
   the case where Russia itself was the side that broke
   [concepts: reform_failure, defection_incentive, personal_exposure]
 

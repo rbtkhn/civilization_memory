@@ -117,13 +117,13 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — Continuation of Ottoman conflict
 • MEM–RUSSIA–WAR–CRIMEAN — Later Crimean war context
 • MEM–RUSSIA–WAR–CRIMEAN–KHANATE — Southern raiding pressure
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Initiator of Azov campaigns
+• MEM–RUSSIA–ROMANOV–PETER–I — Initiator of Azov campaigns
 • MEM–RUSSIA–WAR–OTTOMAN — Broader Ottoman rivalry
 • MEM–RUSSIA–MUSCOVY — Pre-imperial state transformation
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Coalition religious dimension
 • MEM–RUSSIA–COSSACKS — Southern frontier forces
 • MEM–RUSSIA–GOLDEN–HORDE — Tatar legacy and steppe threat
-• MEM–RUSSIA–CATHERINE–GREAT — Later realization of southern goals
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Later realization of southern goals
 
 GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–AZOV–SEA — Target of Azov campaign

@@ -220,8 +220,8 @@ XIII. MEM CONNECTIONS (MANDATORY)
 Russian (≥10):
 • MEM–RUSSIA–SERFDOM — suffering and redemption framework
 • MEM–RUSSIA–DYNASTY–ROMANOV — elite corruption vs popular faith
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — reform era and moral tension
-• MEM–RUSSIA–NICHOLAS–II — suffering and legitimacy collapse
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — reform era and moral tension
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — suffering and legitimacy collapse
 • MEM–RUSSIA–LIT–TOLSTOY — contrast: psychological vs historical memory
 • MEM–RUSSIA–LIT–PUSHKIN — literary language foundation preceding Dostoevsky
 • MEM–RUSSIA–LIT–GOGOL — grotesque predecessor to psychological depth

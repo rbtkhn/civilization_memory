@@ -967,7 +967,7 @@ PATTERN: Endurance Through Compression
 
 PATTERN: Buffer Zone Imperative
   Activation: HIGH
-  Source: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I, MEM–RUSSIA–PETERSBURG,
+  Source: MEM–RUSSIA–ROMANOV–PETER–I, MEM–RUSSIA–PETERSBURG,
           MEM–RUSSIA–GEO series (Baltic, Black Sea, Caucasus)
   Relevance: The western frontier has no natural barriers. Every
   Russian government since Muscovy has treated buffer zones as
@@ -988,7 +988,7 @@ PATTERN: Temporal Compression as Governance
 
 PATTERN: Fiscal Constraint and Restraint Preference
   Activation: HIGH (upgraded from MODERATE — February 2026)
-  Source: MEM–RUSSIA–PANIN, MEM–RUSSIA–CATHERINE–GREAT
+  Source: MEM–RUSSIA–PANIN, MEM–RUSSIA–ROMANOV–CATHERINE–II
   Relevance: When per capita extraction is low and war costs
   consume a large share of revenue, alliance-based restraint is
   structurally favoured over unilateral conquest. This pattern
@@ -1008,7 +1008,7 @@ PATTERN: Fiscal Constraint and Restraint Preference
 PATTERN: Fiscal-Temporal Compression Trap
   Activation: HIGH (February 2026)
   Source: Decision Points Sessions 001–002; MEM–RUSSIA–PANIN,
-          MEM–RUSSIA–CATHERINE–GREAT; CIV–DOCTRINE–RUSSIA
+          MEM–RUSSIA–ROMANOV–CATHERINE–II; CIV–DOCTRINE–RUSSIA
           Doctrines 01, 05
   Relevance: Fiscal constraint demands more time (resources running
   out; the state needs to slow the burn). Temporal compression
@@ -1097,7 +1097,7 @@ PATTERN: Doctrine Interaction — Fiscal vs Personalist Incoherence
 
 PATTERN: Engage to Outlast
   Activation: HIGH (February 2026)
-  Source: Decision Points Session 006; MEM–RUSSIA–NICHOLAS–II
+  Source: Decision Points Session 006; MEM–RUSSIA–ROMANOV–NICHOLAS–II
           (Duma precedent); MEM–RUSSIA–CONGRESS–VIENNA; MEM–RUSSIA–
           PANIN
   Relevance: Diplomatic performance without structural commitment

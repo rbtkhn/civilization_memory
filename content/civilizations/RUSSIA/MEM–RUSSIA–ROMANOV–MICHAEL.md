@@ -1,9 +1,9 @@
-MEM–RUSSIA–MICHAEL–ROMANOV — v3.0
+MEM–RUSSIA–ROMANOV–MICHAEL — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · COMPLIANT
 Version: 3.0
-Supersedes: MEM–RUSSIA–MICHAEL–ROMANOV v2.7
+Supersedes: MEM–RUSSIA–ROMANOV–MICHAEL v2.7
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: EARLY ROMANOV · POST–TIME OF TROUBLES RESTORATION
@@ -268,7 +268,7 @@ This MEM supports inquiry into:
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (v2.2)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–MICHAEL–ROMANOV
+MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–MICHAEL
 Status: ACTIVE
 Exploration options available.
 
@@ -298,5 +298,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–MICHAEL–ROMANOV v3.0
+END OF FILE — MEM–RUSSIA–ROMANOV–MICHAEL v3.0
 ────────────────────────────────────────────────────────────

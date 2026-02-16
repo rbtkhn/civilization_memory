@@ -296,7 +296,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–SMOLENSK — next corridor city toward Moscow
 • MEM–RUSSIA–MOSCOW — corridor terminus and capital
 • MEM–RUSSIA–POLAND — rival claimant for Belarusian lands
-• MEM–RUSSIA–CATHERINE–GREAT — partition architect
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — partition architect
 • MEM–RUSSIA–WAR–NAPOLEON — 1812 corridor passage
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC — 1941–1944 occupation
 • MEM–RUSSIA–SOVIET–EXPANSION — BSSR creation

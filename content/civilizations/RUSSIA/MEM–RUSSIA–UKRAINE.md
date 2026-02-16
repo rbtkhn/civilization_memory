@@ -173,7 +173,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–KIEV — contested sacred capital
 • MEM–RUSSIA–CRIMEA — territorial flashpoint
 • MEM–RUSSIA–COSSACKS — frontier autonomy model
-• MEM–RUSSIA–CATHERINE–GREAT — imperial integration
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — imperial integration
 • MEM–RUSSIA–SOVIET–NATIONALITIES — administrative boundaries
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — shared religious identity
 • MEM–RUSSIA–MUSCOVY — successor state that claimed Kievan legacy

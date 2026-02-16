@@ -289,7 +289,7 @@ Same-Civilization (RUSSIA) — ≥10 required:
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — long-term imperial rivalry context
 • MEM–RUSSIA–WAR–LIVONIAN — premature expansion precedent
 • MEM–RUSSIA–WAR–POLTAVA — endurance success contrast
-• MEM–RUSSIA–NICHOLAS–II — war initiator and regime architect
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — war initiator and regime architect
 • MEM–RUSSIA–REVOLUTION–1905 — direct revolutionary consequence
 • MEM–RUSSIA–REVOLUTION–1917 — long-term regime collapse
 • MEM–RUSSIA–NAVY — naval catastrophe and institutional failure

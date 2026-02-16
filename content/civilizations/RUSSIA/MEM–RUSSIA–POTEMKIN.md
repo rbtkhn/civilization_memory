@@ -263,9 +263,9 @@ Secondary scholarship contextualizes but does not override sources.
 X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–CATHERINE–GREAT — sovereign partnership
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — sovereign partnership
 • MEM–RUSSIA–PANIN — strategic rival
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — southern vision precedent
+• MEM–RUSSIA–ROMANOV–PETER–I — southern vision precedent
 • MEM–RUSSIA–CRIMEA — territorial absorption
 • MEM–RUSSIA–SUVOROV — military coordination
 • MEM–RUSSIA–RUSSO–TURKISH–WARS — war administration

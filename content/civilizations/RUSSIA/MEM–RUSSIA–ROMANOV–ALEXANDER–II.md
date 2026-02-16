@@ -1,9 +1,9 @@
-MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — v3.0
+MEM–RUSSIA–ROMANOV–ALEXANDER–II — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II v2.7
+Supersedes: MEM–RUSSIA–ROMANOV–ALEXANDER–II v2.7
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
@@ -192,9 +192,9 @@ XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–SERFDOM — structural constraints
 • MEM–RUSSIA–EMANCIPATION — post-reform dynamics
-• MEM–RUSSIA–ALEXANDER–III — recoil after reform failure
-• MEM–RUSSIA–NICHOLAS–I — pre-reform autocracy
-• MEM–RUSSIA–NICHOLAS–II — terminal collapse successor
+• MEM–RUSSIA–ROMANOV–ALEXANDER–III — recoil after reform failure
+• MEM–RUSSIA–ROMANOV–NICHOLAS–I — pre-reform autocracy
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — terminal collapse successor
 • MEM–RUSSIA–CRIMEAN–WAR — defeat catalyst
 • MEM–RUSSIA–INTELLIGENTSIA — radicalization vector
 • MEM–RUSSIA–POPULISM — revolutionary ideology
@@ -226,5 +226,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Wcislo, Francis W. *Reforming Rural Russia: State, Local Society, and National Politics, 1855–1914*. Princeton: Princeton University Press, 1990.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II v3.0
+END OF FILE — MEM–RUSSIA–ROMANOV–ALEXANDER–II v3.0
 ────────────────────────────────────────────────────────────

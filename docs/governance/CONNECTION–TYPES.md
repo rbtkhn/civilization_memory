@@ -64,7 +64,7 @@ USAGE:
 • Link to institutional MEMs that define structures
 
 EXAMPLE:
-MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I DEPENDS_ON:
+MEM–RUSSIA–ROMANOV–ALEXANDER–I DEPENDS_ON:
 • MEM–RUSSIA–NAPOLEON–1812 — Alexander's reign defined by this war
 • MEM–RUSSIA–GEO–EUROPEAN–PLAIN — Geography shapes military strategy
 
@@ -87,8 +87,8 @@ USAGE:
 • Link to figures/events that extend this MEM's patterns
 
 EXAMPLE:
-MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I ENABLES:
-• MEM–RUSSIA–CATHERINE–GREAT — Catherine extends Petrine reforms
+MEM–RUSSIA–ROMANOV–PETER–I ENABLES:
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Catherine extends Petrine reforms
 • MEM–RUSSIA–BALTIC–HEGEMONY — Peter creates the Baltic position
 
 TRAVERSAL:
@@ -145,7 +145,7 @@ USAGE:
 • Mark structural similarities, not surface resemblances
 
 EXAMPLE:
-MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I PARALLELS:
+MEM–RUSSIA–ROMANOV–PETER–I PARALLELS:
 • MEM–ROME–AUGUSTUS — Concentration of power while preserving forms
 • MEM–FRANCIA–LOUIS–XIV — Coercive state-building and elite subordination
 
@@ -173,8 +173,8 @@ USAGE:
 • Link to immediate predecessors/successors
 
 EXAMPLE:
-MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I:
-• TEMPORAL_BEFORE: MEM–RUSSIA–ALEXEI–ROMANOV (Peter's father)
+MEM–RUSSIA–ROMANOV–PETER–I:
+• TEMPORAL_BEFORE: MEM–RUSSIA–ROMANOV–ALEXEI (Peter's father)
 • TEMPORAL_AFTER: MEM–RUSSIA–ANNA (Peter's niece, later ruler)
 
 TRAVERSAL:
@@ -200,7 +200,7 @@ USAGE:
 • Link to corridors, chokepoints, or strategic spaces
 
 EXAMPLE:
-MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I GEOGRAPHIC:
+MEM–RUSSIA–ROMANOV–PETER–I GEOGRAPHIC:
 • MEM–RUSSIA–GEO–BALTIC–SEA — Baltic access is strategic objective
 • MEM–RUSSIA–GEO–NEVA–RIVER — Site of Petersburg
 

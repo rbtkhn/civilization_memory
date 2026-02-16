@@ -423,7 +423,7 @@ Russian (≥10 same-civilization):
   the terroristic precedent central to Moscow's governance pattern.
   Without Ivan IV, Moscow's autocracy appears merely administrative.
 
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — St. Petersburg displacement
+• MEM–RUSSIA–ROMANOV–PETER–I — St. Petersburg displacement
   Dependency: The Moscow-Petersburg tension (Section VII) requires Peter
   as the agent of displacement. Moscow's meaning as "authentic Russia"
   versus "European Russia" is constituted by Peter's rejection.

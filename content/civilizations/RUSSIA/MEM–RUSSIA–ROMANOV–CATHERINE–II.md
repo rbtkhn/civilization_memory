@@ -1,9 +1,9 @@
-MEM–RUSSIA–CATHERINE–GREAT — v3.2
+MEM–RUSSIA–ROMANOV–CATHERINE–II — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.2
-Supersedes: MEM–RUSSIA–CATHERINE–GREAT v3.1
+Supersedes: MEM–RUSSIA–ROMANOV–CATHERINE–II v3.1
 Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV (1762–1796)
@@ -419,7 +419,7 @@ Secondary scholarship contextualizes but does not override primary sources.
 XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture preceding normalization
+• MEM–RUSSIA–ROMANOV–PETER–I — rupture preceding normalization
 • MEM–RUSSIA–SERFDOM — social immobilization tradeoff
 • MEM–RUSSIA–POLAND — imperial absorption logic
 • MEM–RUSSIA–POTEMKIN — southern empire execution layer
@@ -464,7 +464,7 @@ XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–CATHERINE–GREAT
+MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–CATHERINE–II
 Status: ACTIVE
 Exploration options available.
 
@@ -480,5 +480,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–CATHERINE–GREAT v3.2
+END OF FILE — MEM–RUSSIA–ROMANOV–CATHERINE–II v3.2
 ────────────────────────────────────────────────────────────

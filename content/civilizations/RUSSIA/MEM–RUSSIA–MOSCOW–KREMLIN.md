@@ -282,7 +282,7 @@ Russian (≥10):
 • MEM–RUSSIA–MUSCOVY–IVAN–III — builder of current walls
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — Muscovite power consolidation
 • MEM–RUSSIA–DYNASTY–ROMANOV — coronation site
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — capital relocation contrast
+• MEM–RUSSIA–ROMANOV–PETER–I — capital relocation contrast
 • MEM–RUSSIA–LENIN — Soviet occupation
 • MEM–RUSSIA–STALIN — power concentration
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — cathedral function

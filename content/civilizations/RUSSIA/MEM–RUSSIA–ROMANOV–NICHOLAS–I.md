@@ -1,4 +1,4 @@
-MEM–RUSSIA–NICHOLAS–I — v1.0
+MEM–RUSSIA–ROMANOV–NICHOLAS–I — v1.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
@@ -158,7 +158,7 @@ X. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–CRIMEAN — war initiator; defeat and reform catalyst
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — successor; reform under constraint after defeat
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — successor; reform under constraint after defeat
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance and legitimacy
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Official Nationality, sacral claims
 • MEM–RUSSIA–LAW–AUTOCRACY — Official Nationality, Orthodoxy, Nationality
@@ -194,7 +194,7 @@ XII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-"MEM INGEST CONFIRMED — MEM–RUSSIA–NICHOLAS–I
+"MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–NICHOLAS–I
 Status: ACTIVE
 Exploration options available."
 
@@ -211,5 +211,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–NICHOLAS–I v1.0
+END OF FILE — MEM–RUSSIA–ROMANOV–NICHOLAS–I v1.0
 ────────────────────────────────────────────────────────────

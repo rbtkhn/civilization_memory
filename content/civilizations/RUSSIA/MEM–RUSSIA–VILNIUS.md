@@ -271,7 +271,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–LITHUANIA — national context
 • MEM–RUSSIA–WAR–LITHUANIAN–MUSCOVITE — medieval rivalry
 • MEM–RUSSIA–POLAND — Commonwealth partner; interwar claimant
-• MEM–RUSSIA–CATHERINE–GREAT — 1795 partition
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — 1795 partition
 • MEM–RUSSIA–JANUARY–UPRISING — 1863 repression
 • MEM–RUSSIA–SOVIET–EXPANSION — 1940 annexation
 • MEM–RUSSIA–JEWS — Vilna as Jewish center

@@ -290,12 +290,12 @@ Contradictions are preserved without synthesis.
 X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — zemstvo's creator
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — zemstvo's creator
 • MEM–RUSSIA–LAW–EMANCIPATION — reform context
 • MEM–RUSSIA–LAW–AUTOCRACY — limiting framework
 • MEM–RUSSIA–GREAT–REFORMS — reform package
 • MEM–RUSSIA–REVOLUTION–1905 — zemstvo congress and Duma
-• MEM–RUSSIA–NICHOLAS–II — final zemstvo era
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — final zemstvo era
 • MEM–RUSSIA–WWI — Zemgor and wartime expansion
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — zemstvo dissolution
 • MEM–RUSSIA–INTELLIGENTSIA — third element connection

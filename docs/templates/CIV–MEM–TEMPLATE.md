@@ -528,13 +528,13 @@ X.A CONNECTION TYPES (EXHAUSTIVE)
 
 DEPENDS_ON — Prerequisite relationship
 • This MEM cannot be fully understood without the target
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
+• Example: MEM–RUSSIA–ROMANOV–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
 • Traversal: Read dependencies first
 
 ENABLES — Consequent relationship
 • This MEM is required to understand the target
 • Inverse of DEPENDS_ON
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
+• Example: MEM–RUSSIA–ROMANOV–PETER–I ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
 
 CONTRADICTS — Tension relationship
 • This MEM presents claims in tension with the target
@@ -544,7 +544,7 @@ CONTRADICTS — Tension relationship
 PARALLELS — Structural similarity
 • This MEM exhibits patterns similar to the target
 • Cross-civ comparison marker
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I PARALLELS MEM–ROME–AUGUSTUS (centralization)
+• Example: MEM–RUSSIA–ROMANOV–PETER–I PARALLELS MEM–ROME–AUGUSTUS (centralization)
 
 TEMPORAL_BEFORE — Chronological predecessor
 • This MEM's subject precedes the target in time
@@ -555,7 +555,7 @@ TEMPORAL_AFTER — Chronological successor
 
 GEOGRAPHIC — Spatial relationship
 • This MEM's subject operates within or is shaped by the target geography
-• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
+• Example: MEM–RUSSIA–ROMANOV–PETER–I GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
 
 ────────────────────────────────────────────────────────────
 X.B MINIMUM REQUIREMENTS (TYPE COVERAGE)

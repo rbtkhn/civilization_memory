@@ -192,7 +192,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–WAR–RUSSO–TURKISH–JASSY — war termination (1792)
 • MEM–RUSSIA–SUVOROV — operational commander
 • MEM–RUSSIA–POTEMKIN — southern architect, strategic sponsor
-• MEM–RUSSIA–CATHERINE–GREAT — sovereign, operational quartet arbiter
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — sovereign, operational quartet arbiter
 • MEM–RUSSIA–PANIN — northern counterpole (died 1783; Izmail post-Panin)
 • MEM–RUSSIA–CRIMEA — annexed 1783; war context
 • MEM–RUSSIA–KAZAN — comparative: siege (Kazan) vs storm (Izmail)

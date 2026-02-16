@@ -1,9 +1,9 @@
-MEM–RUSSIA–FYODOR–III — v3.0
+MEM–RUSSIA–ROMANOV–FYODOR–III — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–FYODOR–III v2.7
+Supersedes: MEM–RUSSIA–ROMANOV–FYODOR–III v2.7
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: TSARDOM / ROMANOV (Late Muscovite)
@@ -209,11 +209,11 @@ X. CONTINUITY INSIGHTS (RAW)
 XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Russian:
-• MEM–RUSSIA–ALEXEI–ROMANOV — lock-in predecessor
-• MEM–RUSSIA–MICHAEL–ROMANOV — restoration baseline
+• MEM–RUSSIA–ROMANOV–ALEXEI — lock-in predecessor
+• MEM–RUSSIA–ROMANOV–MICHAEL — restoration baseline
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy pathology boundary
 • MEM–RUSSIA–TIME–TROUBLES — collapse constraint memory
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture successor
+• MEM–RUSSIA–ROMANOV–PETER–I — rupture successor
 • MEM–RUSSIA–STRELTSY — succession instability signal
 • MEM–RUSSIA–SERFDOM — immobilization substrate
 
@@ -241,7 +241,7 @@ No evaluation imposed.
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.2)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–FYODOR–III
+MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–FYODOR–III
 Status: ACTIVE
 Exploration options available.
 
@@ -276,5 +276,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Massie, Robert K. *Peter the Great: His Life and World*. New York: Alfred A. Knopf, 1980.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–FYODOR–III v3.0
+END OF FILE — MEM–RUSSIA–ROMANOV–FYODOR–III v3.0
 ────────────────────────────────────────────────────────────

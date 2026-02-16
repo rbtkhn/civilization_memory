@@ -1,9 +1,9 @@
-MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — v3.2
+MEM–RUSSIA–ROMANOV–PETER–I — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.2
-Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I v3.1
+Supersedes: MEM–RUSSIA–ROMANOV–PETER–I v3.1
 Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
@@ -462,7 +462,7 @@ normally. The pattern confirms DOCTRINE 07: Russian systems produce
 correction only through ad hoc elite violence, never through
 institutional channels, because the sovereigns who built the systems
 destroyed the institutional bodies that might have corrected them.
-(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–PAUL–I)
+(Source: CIV–DOCTRINE–RUSSIA v3.4, DOCTRINE 07; MEM–RUSSIA–ROMANOV–PAUL–I)
 
 VIII.B MERIT OVER BIRTH
 ────────────────────────────────────────────────────────────
@@ -535,7 +535,7 @@ explicitly marked as contrast.
 XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–CATHERINE–GREAT — successor normalization of Petrine reform
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — successor normalization of Petrine reform
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy precedent without buffers
 • MEM–RUSSIA–MUSCOVY — coercive state inheritance
 • MEM–RUSSIA–ROMANOV–DYNASTY — dynastic succession framework
@@ -583,7 +583,7 @@ XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–PETER–I
 Status: ACTIVE
 Exploration options available.
 
@@ -602,5 +602,5 @@ K) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I v3.2
+END OF FILE — MEM–RUSSIA–ROMANOV–PETER–I v3.2
 ────────────────────────────────────────────────────────────

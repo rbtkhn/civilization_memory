@@ -268,7 +268,7 @@ Cross-Civilizational:
   rhetorical support. Buck-passing enabled Prussian action.
   Breaks if removed: Why great powers didn't intervene unexplained.
 
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II
   Dependency: Non-intervention—Russia remained neutral; no Baltic power
   interference.
   Breaks if removed: Eastern flank security unexplained.

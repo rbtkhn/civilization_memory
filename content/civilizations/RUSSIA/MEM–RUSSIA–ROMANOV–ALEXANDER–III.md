@@ -1,4 +1,4 @@
-MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III — v1.2
+MEM–RUSSIA–ROMANOV–ALEXANDER–III — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
@@ -174,8 +174,8 @@ VIII. ACADEMIC REFERENCES (ENGAGED)
 IX. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — father; reform and assassination; recoil
-• MEM–RUSSIA–NICHOLAS–II — successor; inherited rigidity and terminal collapse
+• MEM–RUSSIA–ROMANOV–ALEXANDER–II — father; reform and assassination; recoil
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — successor; inherited rigidity and terminal collapse
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance and succession
 • MEM–RUSSIA–LAW–AUTOCRACY — reassertion of autocratic doctrine
 • MEM–RUSSIA–LAW–ZEMSTVO — zemstvo statute 1890, counter-reform
@@ -210,7 +210,7 @@ XI. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-"MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III
+"MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–ALEXANDER–III
 Status: ACTIVE
 Exploration options available."
 
@@ -227,5 +227,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III v1.0
+END OF FILE — MEM–RUSSIA–ROMANOV–ALEXANDER–III v1.0
 ────────────────────────────────────────────────────────────

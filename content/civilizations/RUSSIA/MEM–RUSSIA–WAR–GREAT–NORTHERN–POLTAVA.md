@@ -238,7 +238,7 @@ X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–NARVA — initial failure and diagnostic shock
 • MEM–RUSSIA–WAR–POLTAVA — decisive validation event
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — modernization project and reform validation
+• MEM–RUSSIA–ROMANOV–PETER–I — modernization project and reform validation
 • MEM–RUSSIA–SWEDEN — strategic rivalry and military challenge
 • MEM–RUSSIA–WAR–LIVONIAN — contrast: premature Baltic attempt
 • MEM–RUSSIA–SAINT–PETERSBURG — new capital as proof of transformation

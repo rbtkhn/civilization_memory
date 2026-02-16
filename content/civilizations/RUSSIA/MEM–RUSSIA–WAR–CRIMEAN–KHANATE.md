@@ -157,7 +157,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–GOLDEN–HORDE — Origin of Crimean Khanate
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — Campaign against successor khanates
 • MEM–RUSSIA–MUSCOVY — State absorbing southern frontier
-• MEM–RUSSIA–CATHERINE–GREAT — Annexation of Crimea
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — Annexation of Crimea
 • MEM–RUSSIA–COSSACKS — Frontier defense force
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — Ottoman connection
 • MEM–RUSSIA–WAR–KAZAN — Related successor khanate conflict

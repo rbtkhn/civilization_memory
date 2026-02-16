@@ -1,9 +1,9 @@
-MEM–RUSSIA–ALEXEI–ROMANOV — v3.0
+MEM–RUSSIA–ROMANOV–ALEXEI — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–ALEXEI–ROMANOV v2.7
+Supersedes: MEM–RUSSIA–ROMANOV–ALEXEI v2.7
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: TSARDOM / ROMANOV
@@ -259,9 +259,9 @@ XII. CONTINUITY INSIGHTS (RAW)
 XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–MICHAEL–ROMANOV — restoration without consolidation
-• MEM–RUSSIA–FYODOR–III — reform within lock
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture built atop locked society
+• MEM–RUSSIA–ROMANOV–MICHAEL — restoration without consolidation
+• MEM–RUSSIA–ROMANOV–FYODOR–III — reform within lock
+• MEM–RUSSIA–ROMANOV–PETER–I — rupture built atop locked society
 • MEM–RUSSIA–NIKON–SCHISM — faith as security doctrine
 • MEM–RUSSIA–STENKA–RAZIN — revolt beneath stability
 • MEM–RUSSIA–TIME–TROUBLES — collapse memory
@@ -282,7 +282,7 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–ALEXEI–ROMANOV
+MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–ALEXEI
 Status: ACTIVE
 Exploration options available.
 
@@ -311,5 +311,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Bushkovitch, Paul. *Religion and Society in Russia: The Sixteenth and Seventeenth Centuries*. Oxford: Oxford University Press, 1992.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXEI–ROMANOV v3.0
+END OF FILE — MEM–RUSSIA–ROMANOV–ALEXEI v3.0
 ────────────────────────────────────────────────────────────

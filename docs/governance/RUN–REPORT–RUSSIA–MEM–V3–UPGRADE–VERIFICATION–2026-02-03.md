@@ -32,9 +32,9 @@
 
 1. **SUBJECT TYPE DECLARATION:** 17 files had `(v2.7)` or `(v2.8)` — updated to `(v3.0)`.
 2. **END OF FILE:** 4 files had outdated v2.x in EOF line — updated to v3.0:
-   - MEM–RUSSIA–CATHERINE–GREAT
+   - MEM–RUSSIA–ROMANOV–CATHERINE–II
    - MEM–RUSSIA–PANIN
-   - MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
+   - MEM–RUSSIA–ROMANOV–PETER–I
    - MEM–RUSSIA–CYRILLIC–SCRIPT
 
 ---

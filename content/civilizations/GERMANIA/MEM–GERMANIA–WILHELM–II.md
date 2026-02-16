@@ -316,7 +316,7 @@ Cross-Civilizational:
   Entente that encircled Germany.
   Breaks if removed: Personal diplomacy dimension unexplained.
 
-• MEM–RUSSIA–NICHOLAS–II
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II
   Dependency: Cousin, fellow dynastic casualty—both cousins lost thrones
   in 1917-1918 revolutionary wave.
   Breaks if removed: Dynastic parallel disappears.

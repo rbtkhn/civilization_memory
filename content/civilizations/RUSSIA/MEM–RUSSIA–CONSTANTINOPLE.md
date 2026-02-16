@@ -144,7 +144,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — tsarist title and imperial claim
 • MEM–RUSSIA–MOSCOW — successor capital logic
 • MEM–RUSSIA–BYZANTIUM — civilizational inheritance
-• MEM–RUSSIA–CATHERINE–GREAT — strategic recovery aspiration
+• MEM–RUSSIA–ROMANOV–CATHERINE–II — strategic recovery aspiration
 • MEM–RUSSIA–WAR–OTTOMAN — kinetic recovery attempts
 • MEM–RUSSIA–CRIMEA — intermediate Black Sea control
 

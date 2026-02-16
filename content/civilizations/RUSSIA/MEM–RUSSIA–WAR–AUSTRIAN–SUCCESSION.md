@@ -275,12 +275,12 @@ Secondary Scholarship:
 XII. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-Civilization (≥10):
-• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — reign context and anti-Prussian orientation
+• MEM–RUSSIA–ROMANOV–ELIZABETH — reign context and anti-Prussian orientation
 • MEM–RUSSIA–ANNA — death triggering succession crisis
 • MEM–RUSSIA–IVAN–VI — brief reign and regency instability
 • MEM–RUSSIA–WAR–SEVEN–YEARS — subsequent continental intervention
 • MEM–RUSSIA–WAR–SWEDISH–NOVGORADIAN — Baltic security priority
-• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — alliance framework inheritance
+• MEM–RUSSIA–ROMANOV–PETER–I — alliance framework inheritance
 • MEM–RUSSIA–GUARDS–REGIMENTS — coup mechanism and political power
 • MEM–RUSSIA–AUSTRIA–ALLIANCE — diplomatic foundation
 • MEM–RUSSIA–PRUSSIA–RIVALRY — emerging great power competition
