@@ -190,19 +190,19 @@ XI. ACADEMIC REFERENCES (ENGAGED)
 XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–SERFDOM — structural constraints
-• MEM–RUSSIA–EMANCIPATION — post-reform dynamics
+• MEM–RUSSIA–LAW–SERFDOM — structural constraints
+• MEM–RUSSIA–LAW–EMANCIPATION — post-reform dynamics
 • MEM–RUSSIA–ROMANOV–ALEXANDER–III — recoil after reform failure
 • MEM–RUSSIA–ROMANOV–NICHOLAS–I — pre-reform autocracy
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — terminal collapse successor
-• MEM–RUSSIA–CRIMEAN–WAR — defeat catalyst
+• MEM–RUSSIA–WAR–CRIMEAN — defeat catalyst
 • MEM–RUSSIA–INTELLIGENTSIA — radicalization vector
 • MEM–RUSSIA–POPULISM — revolutionary ideology
-• MEM–RUSSIA–ZEMSTVO — local governance experiment
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic continuity
+• MEM–RUSSIA–LAW–ZEMSTVO — local governance experiment
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic continuity
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — administrative center
+• MEM–RUSSIA–PETERSBURG — administrative center
 • MEM–RUSSIA–GEO–BLACK–SEA — strategic vulnerability
 
 Cross-civilizational:

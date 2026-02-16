@@ -326,7 +326,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious transformation
 • MEM–RUSSIA–WAR–KHAZAR–KHAGANATE — Slavic tributary status
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — Source documentation
-• MEM–RUSSIA–DYNASTY–RURIKID — Varangian-Slavic ruling house
+• MEM–RUSSIA–NOVGOROD–RURIK — Varangian-Slavic ruling house (Rurikid arc)
 • MEM–RUSSIA–KIEV — Polianian core territory
 
 GEO–MEM (REQUIRED ≥2):

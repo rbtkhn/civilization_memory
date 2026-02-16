@@ -176,17 +176,17 @@ X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 Same-civilization (≥10):
 • MEM–RUSSIA–MONGOL–EMPIRE — imperial origin layer
 • MEM–RUSSIA–KIEVAN–RUS — pre-shock governance exposed
-• MEM–RUSSIA–DYNASTY–RURIKID — legitimacy detached from lineage
+• MEM–RUSSIA–NOVGOROD–RURIK — legitimacy detached from lineage (Rurikid arc)
 • MEM–RUSSIA–ALEXANDER–NEVSKY — accommodation under suzerainty
 • MEM–RUSSIA–MUSCOVY — internalization of Horde logic
-• MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral endurance
 • MEM–RUSSIA–TIME–TROUBLES — succession fragility persists
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — pre-Horde sacral substrate
 • MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — law-first model displaced
 • MEM–RUSSIA–MUSCOVY–IVAN–III — Horde liberation phase
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–VOLGA — tribute corridor
+• MEM–RUSSIA–GEO–VOLGA–RIVER — tribute corridor
 • MEM–RUSSIA–GEO–STEPPE — nomadic pressure zone
 
 Connections preserve sequence without inevitability.

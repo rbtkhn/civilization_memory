@@ -216,12 +216,12 @@ Same-Civilization (RUSSIA):
 • MEM–RUSSIA–NOVGOROD–RURIK — dynastic origin node
 • MEM–RUSSIA–KIEVAN–RUS — corridor polity maturation
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — legitimacy narrative compiler
-• MEM–RUSSIA–ORTHODOXY — authority–identity binding
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — authority–identity binding
 • MEM–RUSSIA–TRADE–CORRIDORS — circulation logic
-• MEM–RUSSIA–DYNASTY–RURIKID — succession normalization
+• MEM–RUSSIA–NOVGOROD–RURIK — succession normalization (Rurikid arc)
 • MEM–RUSSIA–INVITED–RULERSHIP — authority import pattern
 • MEM–RUSSIA–ELITE–ABSORPTION — foreign elite naturalization
-• MEM–RUSSIA–TIME–OF–TROUBLES — later collapse without neutral authority
+• MEM–RUSSIA–TIME–TROUBLES — later collapse without neutral authority
 • MEM–RUSSIA–MOSCOVY–RISE — consolidation after corridor phase
 
 GEO MEMs (≥2):

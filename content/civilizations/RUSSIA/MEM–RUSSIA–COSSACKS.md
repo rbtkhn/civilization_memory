@@ -309,8 +309,8 @@ Same-civilization (≥10):
 • MEM–RUSSIA–RAZIN — Don Cossack revolt
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — post-Pugachev incorporation
 • MEM–RUSSIA–ROMANOV–PETER–I — early incorporation efforts
-• MEM–RUSSIA–SERFDOM — institution Cossacks fled/enforced
-• MEM–RUSSIA–CIVIL–WAR — Cossack division and destruction
+• MEM–RUSSIA–LAW–SERFDOM — institution Cossacks fled/enforced
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Cossack division and destruction
 • MEM–RUSSIA–CAUCASUS — Cossack conquest zone
 • MEM–RUSSIA–UKRAINE — Zaporozhian origins and tensions
 • MEM–RUSSIA–IMPERIAL–ARMY — incorporated Cossack function

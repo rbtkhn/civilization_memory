@@ -310,7 +310,7 @@ Russian (≥10):
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — Hermitage founder, cultural expansion
 • MEM–RUSSIA–ART–HERMITAGE — institutional anchor
 • MEM–RUSSIA–ART–TCHAIKOVSKY — conservatory, premieres
-• MEM–RUSSIA–REVOLUTION–1917 — revolutionary birthplace
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — revolutionary birthplace
 • MEM–RUSSIA–WWII–SIEGE–LENINGRAD — existential test
 • MEM–RUSSIA–ART–SHOSTAKOVICH — Seventh Symphony during siege
 • MEM–RUSSIA–LIT–DOSTOEVSKY — literary mythology

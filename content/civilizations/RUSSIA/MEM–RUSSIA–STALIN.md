@@ -391,8 +391,8 @@ XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 Same-civilization connections (≥10):
 • MEM–RUSSIA–LENIN — Revolutionary predecessor and ideological foundation
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Regime origin and party seizure
-• MEM–RUSSIA–CIVIL–WAR — Violence institutionalization
-• MEM–RUSSIA–SOVIET–STATE — State structure consolidated
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Violence institutionalization
+• MEM–RUSSIA–SOVIET–UNION — State structure consolidated
 • MEM–RUSSIA–WWII — Victory legitimization of terror
 • MEM–RUSSIA–GULAG — Repression infrastructure
 • MEM–RUSSIA–INDUSTRIALIZATION — Forced modernization
@@ -402,7 +402,7 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–ROMANOV–PETER–I — Coercive modernization precedent
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–MOSCOW — Command center and political gravity
+• MEM–RUSSIA–MOSCOW — Command center and political gravity
 • MEM–RUSSIA–SIBERIA — Gulag geography and resource extraction
 
 Cross-civilizational:

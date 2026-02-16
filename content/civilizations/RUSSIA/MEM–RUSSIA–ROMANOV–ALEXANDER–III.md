@@ -176,19 +176,19 @@ IX. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — father; reform and assassination; recoil
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — successor; inherited rigidity and terminal collapse
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance and succession
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic performance and succession
 • MEM–RUSSIA–LAW–AUTOCRACY — reassertion of autocratic doctrine
 • MEM–RUSSIA–LAW–ZEMSTVO — zemstvo statute 1890, counter-reform
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Official Nationality, Pobedonostsev
 • MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — initiated under his reign (1891)
 • MEM–RUSSIA–INTELLIGENTSIA — repression and radicalisation
 • MEM–RUSSIA–POLAND — Russification pressure
-• MEM–RUSSIA–SERFDOM — post-emancipation; no rollback of 1861
+• MEM–RUSSIA–LAW–SERFDOM — post-emancipation; no rollback of 1861
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — revolutionary opposition context
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE — post-reign; Nicholas II's war
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — court and capital
+• MEM–RUSSIA–PETERSBURG — court and capital
 • MEM–RUSSIA–VLADIVOSTOK — Trans-Siberian ceremonial start 1891
 
 Cross-civilizational:

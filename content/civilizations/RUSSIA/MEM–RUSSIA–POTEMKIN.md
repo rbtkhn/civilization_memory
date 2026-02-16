@@ -271,7 +271,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–RUSSO–TURKISH–WARS — war administration
 • MEM–RUSSIA–NOVOROSSIYA — settlement project
 • MEM–RUSSIA–BLACK–SEA–FLEET — naval construction
-• MEM–RUSSIA–SERFDOM — settlement labor source
+• MEM–RUSSIA–LAW–SERFDOM — settlement labor source
 • MEM–RUSSIA–ENLIGHTENED–ABSOLUTISM — governance philosophy
 
 GEO MEMs (≥2):

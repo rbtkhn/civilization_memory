@@ -234,13 +234,13 @@ Russian (≥10):
 • MEM–RUSSIA–ART–TCHAIKOVSKY — contemporary, cosmopolitan contrast
 • MEM–RUSSIA–FOLK–MUSIC — nationalist source material
 • MEM–RUSSIA–CONSERVATORY — Saint Petersburg institution
-• MEM–RUSSIA–NAVY — early career, world travels
+• MEM–RUSSIA–PETERSBURG — early career, naval service, world travels
 • MEM–RUSSIA–OPERA — national opera as primary genre
 • MEM–RUSSIA–FAIRY–TALES — operatic sources (*Sadko*, *Snow Maiden*)
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SAINT–PETERSBURG — conservatory and career
-• MEM–RUSSIA–GEO–VOLGA — *Sadko* Novgorod setting
+• MEM–RUSSIA–GEO–VOLGA–RIVER — *Sadko* Novgorod setting
 
 Cross-civilizational:
 • MEM–GERMANIA–MUSIC–WAGNER — contrast: Russian vs German opera

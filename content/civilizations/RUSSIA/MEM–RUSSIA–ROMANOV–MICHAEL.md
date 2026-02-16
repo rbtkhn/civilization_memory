@@ -232,17 +232,17 @@ Same-civilization (≥10):
 • MEM–RUSSIA–TIME–TROUBLES — collapse context
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy
 • MEM–RUSSIA–MUSCOVY — coercive sequencing baseline
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic extinction
-• MEM–RUSSIA–DYNASTY–ROMANOV — long arc continuity
-• MEM–RUSSIA–ORTHODOX–CHURCH — sacral endurance
-• MEM–RUSSIA–SERFDOM — stabilization mechanism
-• MEM–RUSSIA–STRELTSY — post-reform instability
-• MEM–RUSSIA–SUCCESSION–CRISIS — legitimacy mechanics
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic extinction (Rurikid arc)
+• MEM–RUSSIA–ROMANOV–DYNASTY — long arc continuity
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral endurance
+• MEM–RUSSIA–LAW–SERFDOM — stabilization mechanism
+• MEM–RUSSIA–TIME–TROUBLES — post-reform instability (Streltsy revolts)
+• MEM–RUSSIA–WAR–MUSCOVITE–SUCCESSION — legitimacy mechanics
 • MEM–RUSSIA–MUSCOVY–IVAN–III — consolidation contrast
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–MOSCOW — symbolic center
-• MEM–RUSSIA–GEO–VOLGA — fiscal recovery axis
+• MEM–RUSSIA–MOSCOW — symbolic center
+• MEM–RUSSIA–GEO–VOLGA–RIVER — fiscal recovery axis
 
 Each link reinforces restoration logic without teleology.
 

@@ -220,8 +220,8 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY–IVAN–III — coercive absorption with buffers
 • MEM–RUSSIA–MUSCOVY — sequencing solution under compression
 • MEM–RUSSIA–TIME–TROUBLES — downstream collapse
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion
-• MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic exhaustion (Rurikid arc)
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — identity endurance layer
 • MEM–RUSSIA–OPRICHNINA — unbuffered terror system
 • MEM–RUSSIA–KURBSKY — sovereign psychology exposure
 • MEM–RUSSIA–KAZAN–CONQUEST — eastern expansion success

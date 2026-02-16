@@ -159,7 +159,7 @@ X. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–CRIMEAN — war initiator; defeat and reform catalyst
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — successor; reform under constraint after defeat
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance and legitimacy
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic performance and legitimacy
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Official Nationality, sacral claims
 • MEM–RUSSIA–LAW–AUTOCRACY — Official Nationality, Orthodoxy, Nationality
 • MEM–RUSSIA–POLAND — suppression of 1830–1831 uprising
@@ -167,11 +167,11 @@ Same-civilization (≥10):
 • MEM–RUSSIA–OTTOMAN–EMPIRE — Eastern Question, protectorate claims
 • MEM–RUSSIA–LIT–PUSHKIN — tsarist control over cultural production
 • MEM–RUSSIA–LIT–GOGOL — censorship, Inspector General
-• MEM–RUSSIA–SERFDOM — unreformed system exposed by Crimean defeat
-• MEM–RUSSIA–NAVY — naval inadequacy revealed in Crimea
+• MEM–RUSSIA–LAW–SERFDOM — unreformed system exposed by Crimean defeat
+• MEM–RUSSIA–SEVASTOPOL — naval inadequacy revealed in Crimea
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — court and capital
+• MEM–RUSSIA–PETERSBURG — court and capital
 • MEM–RUSSIA–GEO–BLACK–SEA — strategic objective lost at Paris 1856
 • MEM–RUSSIA–CRIMEA — war theatre and symbolic loss
 

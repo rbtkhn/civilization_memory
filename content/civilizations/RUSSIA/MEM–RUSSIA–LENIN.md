@@ -208,7 +208,7 @@ XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 Same-civilization connections (≥10):
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — October seizure and regime founding
 • MEM–RUSSIA–STALIN — Successor who completed Leninist compression
-• MEM–RUSSIA–CIVIL–WAR — Violence institutionalization during survival
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Violence institutionalization during survival
 • MEM–RUSSIA–CHEKA — Security state genesis
 • MEM–RUSSIA–ROMANOV — Imperial continuity terminated
 • MEM–RUSSIA–1905–REVOLUTION — Failed precursor and learning event
@@ -219,7 +219,7 @@ Same-civilization connections (≥10):
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–PETROGRAD — Revolutionary seizure point
-• MEM–RUSSIA–GEO–MOSCOW — Capital relocation and command center
+• MEM–RUSSIA–MOSCOW — Capital relocation and command center
 
 ────────────────────────────────────────────────────────────
 CONCEPTS (SEMANTIC INDEX)

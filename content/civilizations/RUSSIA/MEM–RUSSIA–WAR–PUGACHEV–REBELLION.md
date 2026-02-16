@@ -210,11 +210,11 @@ XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian:
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — enlightened autocracy's limits
-• MEM–RUSSIA–SERFDOM — structural foundation of discontent
-• MEM–RUSSIA–EMANCIPATION — delayed reform response
+• MEM–RUSSIA–LAW–SERFDOM — structural foundation of discontent
+• MEM–RUSSIA–LAW–EMANCIPATION — delayed reform response
 • MEM–RUSSIA–STENKA–RAZIN — earlier Volga rebellion pattern
 • MEM–RUSSIA–COSSACKS — autonomous military communities
-• MEM–RUSSIA–GEO–VOLGA — rebellion corridor and artery
+• MEM–RUSSIA–GEO–VOLGA–RIVER — rebellion corridor and artery
 
 Cross-civilizational:
 • MEM–CHINA–TAIPING — massive peasant rebellion with false legitimacy

@@ -257,7 +257,7 @@ Russian (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — 1812 parallel
 
 GEO–MEM (≥2):
-• MEM–RUSSIA–GEO–CENTRAL–RUSSIA — terrain
+• MEM–RUSSIA–MOSCOW — terrain and defensive locus
 • MEM–RUSSIA–GEO–FOREST–ZONE — defensive advantage
 
 Cross-civilizational:

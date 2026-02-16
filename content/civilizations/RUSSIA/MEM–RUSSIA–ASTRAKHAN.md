@@ -257,7 +257,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–ROMANOV–PETER–I — Persian campaign launched from Astrakhan
 • MEM–RUSSIA–CATHERINE–II — administrative reforms
 • MEM–RUSSIA–TRADE–ROUTES — commercial significance
-• MEM–RUSSIA–NAVY — Caspian Flotilla base
+• MEM–RUSSIA–GEO–CASPIAN–SEA — Caspian Flotilla base
 • MEM–RUSSIA–ENERGY — modern oil/gas transit
 
 GEO Connections — ≥2 Required:

@@ -272,7 +272,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization context
 
 GEO Connections — ≥2 Required:
-• MEM–RUSSIA–GEO–DNIEPER — Kievan heartland
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — Kievan heartland
 • MEM–RUSSIA–GEO–NOVGOROD — commercial law zone
 • MEM–RUSSIA–KIEV — code's origin city
 

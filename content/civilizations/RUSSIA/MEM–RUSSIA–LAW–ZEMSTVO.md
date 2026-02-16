@@ -293,17 +293,17 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — zemstvo's creator
 • MEM–RUSSIA–LAW–EMANCIPATION — reform context
 • MEM–RUSSIA–LAW–AUTOCRACY — limiting framework
-• MEM–RUSSIA–GREAT–REFORMS — reform package
-• MEM–RUSSIA–REVOLUTION–1905 — zemstvo congress and Duma
+• MEM–RUSSIA–LAW–EMANCIPATION — reform package
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — zemstvo congress and Duma (1905 context)
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — final zemstvo era
-• MEM–RUSSIA–WWI — Zemgor and wartime expansion
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — prior stress; Zemgor precedent
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — zemstvo dissolution
-• MEM–RUSSIA–INTELLIGENTSIA — third element connection
-• MEM–RUSSIA–DUMA — national representation attempt
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — third element dissolution
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — national representation attempt (Duma period)
 
 GEO Connections — ≥2 Required:
-• MEM–RUSSIA–GEO–CENTRAL–RUSSIA — zemstvo heartland
-• MEM–RUSSIA–GEO–PROVINCES — local governance geography
+• MEM–RUSSIA–MOSCOW — zemstvo heartland
+• MEM–RUSSIA–GEO–VOLGA–RIVER — local governance geography (provinces)
 
 Cross-Civilizational:
 • MEM–ANGLIA–LOCAL–GOVERNMENT — comparative decentralization

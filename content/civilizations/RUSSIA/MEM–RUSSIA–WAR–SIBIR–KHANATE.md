@@ -177,7 +177,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–VARANGIANS — Riverine movement precedent
 • MEM–RUSSIA–TIME–TROUBLES — Post-conquest instability period
 • MEM–RUSSIA–GOLDEN–HORDE — Successor khanate rivalry
-• MEM–RUSSIA–DYNASTY–RURIKID — Dynastic authorization of conquest
+• MEM–RUSSIA–NOVGOROD–RURIK — Dynastic authorization of conquest (Rurikid arc)
 
 GEO–MEM (REQUIRED ≥2):
 • MEM–RUSSIA–GEO–URALS — Threshold crossing

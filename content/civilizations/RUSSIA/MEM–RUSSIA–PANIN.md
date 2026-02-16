@@ -348,7 +348,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–FOREIGN–POLICY — strategic doctrine
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — diplomatic center
+• MEM–RUSSIA–PETERSBURG — diplomatic center
 • MEM–RUSSIA–GEO–BALTIC — northern system axis
 
 Cross-civilizational:

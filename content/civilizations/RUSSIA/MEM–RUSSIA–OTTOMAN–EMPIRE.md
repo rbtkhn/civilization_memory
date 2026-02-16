@@ -218,7 +218,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–CRIMEA — terminal control inversion
 • MEM–RUSSIA–ROMANOV–PETER–I — maritime ambition precursor
 • MEM–RUSSIA–EXPANSION–SOUTH — directional logic
-• MEM–RUSSIA–NAVY — Black Sea fleet genesis
+• MEM–RUSSIA–GEO–BLACK–SEA — Black Sea fleet genesis
 • MEM–RUSSIA–CONGRESS–VIENNA — post-Ottoman order arbitration
 • MEM–RUSSIA–BALKANS — Orthodox protectorate inheritance
 

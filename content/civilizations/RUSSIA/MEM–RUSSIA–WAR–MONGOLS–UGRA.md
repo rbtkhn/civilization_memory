@@ -187,7 +187,7 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–CRIMEAN–KHANATE — alternative Mongol successor power
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious continuity
 • MEM–RUSSIA–TRIBUTE–SYSTEMS — terminated fiscal subordination
-• MEM–RUSSIA–DYNASTY–RURIKID — Muscovite dynastic consolidation
+• MEM–RUSSIA–NOVGOROD–RURIK — Muscovite dynastic consolidation (Rurikid arc)
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–UGRA–RIVER — geographic barrier and strategic constraint

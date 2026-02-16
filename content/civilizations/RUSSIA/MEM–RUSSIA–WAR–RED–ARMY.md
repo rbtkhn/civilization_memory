@@ -270,14 +270,14 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–STALINGRAD — turning point
 • MEM–RUSSIA–STALIN — supreme commander
 • MEM–RUSSIA–TROTSKY — founder and first leader
-• MEM–RUSSIA–REVOLUTION–1917 — origin context
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — origin context
 • MEM–RUSSIA–PURGE–GREAT — leadership destruction
 • MEM–RUSSIA–LEND–LEASE — material support
 • MEM–RUSSIA–INDUSTRIALIZATION — armament base
 • MEM–RUSSIA–COLD–WAR — successor institution context
 
 GEO Connections — ≥2 Required:
-• MEM–RUSSIA–GEO–MOSCOW — defensive center
+• MEM–RUSSIA–MOSCOW — defensive center
 • MEM–RUSSIA–GEO–VOLGA–RIVER — 1942 defensive line
 • MEM–RUSSIA–GEO–URAL–MOUNTAINS — industrial relocation
 

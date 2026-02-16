@@ -234,12 +234,12 @@ XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — war context and validation framework
-• MEM–RUSSIA–WAR–POLTAVA — reversal and vindication
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — reversal and vindication
 • MEM–RUSSIA–ROMANOV–PETER–I — modernization project and reform acceleration
 • MEM–RUSSIA–SWEDEN — strategic rivalry and military challenge
 • MEM–RUSSIA–MUSCOVY — pre-reform state structure exposed at Narva
 • MEM–RUSSIA–TIME–TROUBLES — prior systemic collapse and recovery precedent
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic legitimacy tested by defeat
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic legitimacy tested by defeat
 • MEM–RUSSIA–NOVGOROD — historical Baltic connection and trade legacy
 • MEM–RUSSIA–SUVOROV — later military reform and professionalization
 • MEM–RUSSIA–KUTUZOV — endurance doctrine and strategic patience

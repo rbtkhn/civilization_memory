@@ -149,7 +149,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Faith defended against Latin crusade
 • MEM–RUSSIA–WAR–MONGOLS–KALKA — Prior Mongol defeat weakening resistance
 • MEM–RUSSIA–WAR–MONGOLS–KIEV — Concurrent eastern devastation
-• MEM–RUSSIA–DYNASTY–RURIKID — Dynastic continuity through crisis
+• MEM–RUSSIA–NOVGOROD–RURIK — Dynastic continuity through crisis (Rurikid arc)
 • MEM–RUSSIA–SWEDEN — Coordinated Swedish-Teutonic pressure
 • MEM–RUSSIA–PSKOV — Western frontier principality
 

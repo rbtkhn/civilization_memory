@@ -262,17 +262,17 @@ Same-civilization (≥10):
 • MEM–RUSSIA–ROMANOV–MICHAEL — restoration without consolidation
 • MEM–RUSSIA–ROMANOV–FYODOR–III — reform within lock
 • MEM–RUSSIA–ROMANOV–PETER–I — rupture built atop locked society
-• MEM–RUSSIA–NIKON–SCHISM — faith as security doctrine
+• MEM–RUSSIA–HIST–NIKON–CHRONICLE — faith as security doctrine
 • MEM–RUSSIA–STENKA–RAZIN — revolt beneath stability
 • MEM–RUSSIA–TIME–TROUBLES — collapse memory
-• MEM–RUSSIA–SERFDOM — codification substrate
-• MEM–RUSSIA–STRELTSY — military-political instability
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic continuity
+• MEM–RUSSIA–LAW–SERFDOM — codification substrate
+• MEM–RUSSIA–TIME–TROUBLES — military-political instability (Streltsy)
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic continuity
 • MEM–RUSSIA–MUSCOVY — state formation baseline
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–VOLGA — internal cohesion & rebellion corridor
-• MEM–RUSSIA–GEO–LEFT–BANK–UKRAINE — expansion, incorporation, strain
+• MEM–RUSSIA–GEO–VOLGA–RIVER — internal cohesion & rebellion corridor
+• MEM–RUSSIA–UKRAINE — expansion, incorporation, strain
 
 Cross-civilizational:
 • MEM–FRANCIA–ABSOLUTISM–LAW

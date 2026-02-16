@@ -196,7 +196,7 @@ Russian (≥10):
 • MEM–RUSSIA–ART–SHOSTAKOVICH — parallel 1948 condemnation
 • MEM–RUSSIA–ART–STRAVINSKY — contrast: exile vs return
 • MEM–RUSSIA–ART–RACHMANINOV — contrast: permanent exile
-• MEM–RUSSIA–SOVIET–STATE — institutional capture
+• MEM–RUSSIA–SOVIET–UNION — institutional capture
 • MEM–RUSSIA–EMIGRATION — return as counter-pattern
 • MEM–RUSSIA–EISENSTEIN — *Alexander Nevsky* collaboration
 • MEM–RUSSIA–LIT–TOLSTOY — *War and Peace* opera source
@@ -205,7 +205,7 @@ Russian (≥10):
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SAINT–PETERSBURG — conservatory formation
-• MEM–RUSSIA–GEO–MOSCOW — Soviet career center
+• MEM–RUSSIA–MOSCOW — Soviet career center
 
 Cross-civilizational:
 • MEM–AMERICA–MUSIC — exile career, Chicago opera

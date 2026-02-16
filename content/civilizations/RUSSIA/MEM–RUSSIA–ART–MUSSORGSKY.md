@@ -236,7 +236,7 @@ Russian (≥10):
 • MEM–RUSSIA–TSAR–BORIS — historical subject of opera
 • MEM–RUSSIA–TIME–TROUBLES — *Boris* and *Khovanshchina* settings
 • MEM–RUSSIA–FOLK–MUSIC — source of melodic language
-• MEM–RUSSIA–ORTHODOXY — choral traditions, *Khovanshchina*
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — choral traditions, *Khovanshchina*
 • MEM–RUSSIA–OPERA — national opera tradition
 • MEM–RUSSIA–REPIN — final portrait
 • MEM–RUSSIA–INTELLIGENTSIA — artistic circle

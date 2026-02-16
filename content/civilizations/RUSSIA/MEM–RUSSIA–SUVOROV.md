@@ -357,12 +357,12 @@ Russian (≥10):
 • MEM–RUSSIA–PAUL–I — tension with parade-ground militarism
 • MEM–RUSSIA–WAR–OTTOMAN — campaigns against Ottoman Empire
 • MEM–RUSSIA–WAR–RUSSO–TURKISH–IZMAIL — decisive assault victory (1790)
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic myth and military legitimacy
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic myth and military legitimacy
 • MEM–RUSSIA–ARMY–IMPERIAL — Russian military doctrine and training
 • MEM–RUSSIA–KUTUZOV — successor commander, Suvorov legacy
 • MEM–RUSSIA–WAR–NAPOLEON — doctrinal legacy in Napoleonic campaigns
 • MEM–RUSSIA–ARISTOCRACY — military aristocratic culture
-• MEM–RUSSIA–SERFDOM — serf soldiers in imperial army
+• MEM–RUSSIA–LAW–SERFDOM — serf soldiers in imperial army
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — terrain of mobility and endurance

@@ -214,12 +214,12 @@ Russian:
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy pathology boundary
 • MEM–RUSSIA–TIME–TROUBLES — collapse constraint memory
 • MEM–RUSSIA–ROMANOV–PETER–I — rupture successor
-• MEM–RUSSIA–STRELTSY — succession instability signal
-• MEM–RUSSIA–SERFDOM — immobilization substrate
+• MEM–RUSSIA–TIME–TROUBLES — succession instability signal (Streltsy)
+• MEM–RUSSIA–LAW–SERFDOM — immobilization substrate
 
 GEO (required):
-• MEM–RUSSIA–GEO–MOSCOW — administrative core
-• MEM–RUSSIA–GEO–VOLGA — service-mobilization corridor
+• MEM–RUSSIA–MOSCOW — administrative core
+• MEM–RUSSIA–GEO–VOLGA–RIVER — service-mobilization corridor
 • MEM–RUSSIA–GEO–OKA — military–logistical axis
 
 Cross-civilizational:

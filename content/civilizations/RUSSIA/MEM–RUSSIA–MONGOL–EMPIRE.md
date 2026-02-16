@@ -220,7 +220,7 @@ XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Same-civilization connections (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — vulnerability exposed by Mongol invasion
-• MEM–RUSSIA–DYNASTY–RURIKID — legitimacy detached from lineage under Horde rule
+• MEM–RUSSIA–NOVGOROD–RURIK — legitimacy detached from lineage under Horde rule (Rurikid arc)
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival logic under asymmetry
 • MEM–RUSSIA–MUSCOVY — internalization of Horde governance methods
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral endurance layer preserved under domination
@@ -231,7 +231,7 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–MUSCOVY–IVAN–III — Ugra River and Horde termination
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–VOLGA — tribute corridor and Horde access route
+• MEM–RUSSIA–GEO–VOLGA–RIVER — tribute corridor and Horde access route
 • MEM–RUSSIA–GEO–STEPPE — coercive exposure axis and invasion vector
 
 Connections enforce continuity without inevitability.

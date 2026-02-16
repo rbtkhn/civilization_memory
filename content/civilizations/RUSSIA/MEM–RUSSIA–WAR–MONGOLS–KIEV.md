@@ -186,7 +186,7 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — partial reversal attempt
 • MEM–RUSSIA–WAR–MONGOLS–UGRA — release from domination
 • MEM–RUSSIA–KIEVAN–RUS — collapsed civilizational core
-• MEM–RUSSIA–DYNASTY–RURIKID — fragmented political authority
+• MEM–RUSSIA–NOVGOROD–RURIK — fragmented political authority (Rurikid arc)
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — ecclesiastical displacement
 • MEM–RUSSIA–MOSCOW — emergent successor center
 • MEM–RUSSIA–VLADIMIR–SUZDAL — intermediate collapse

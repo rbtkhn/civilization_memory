@@ -224,18 +224,18 @@ X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — pluralism and openness replaced
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic logic inherited and hardened
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic logic inherited and hardened (Rurikid arc)
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival under asymmetry
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral legitimacy substrate
 • MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — law-first model rejected
 • MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
-• MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — identity endurance layer
 • MEM–RUSSIA–GOLDEN–HORDE — compression training source
-• MEM–RUSSIA–DYNASTY–ROMANOV — successor scaling mechanism
+• MEM–RUSSIA–ROMANOV–DYNASTY — successor scaling mechanism
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy precursor
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–VOLGA — corridor depth
+• MEM–RUSSIA–GEO–VOLGA–RIVER — corridor depth
 • MEM–RUSSIA–GEO–OKA — extraction axis
 
 These connections establish continuity without teleology.

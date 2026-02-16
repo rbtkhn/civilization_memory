@@ -227,7 +227,7 @@ Russian (≥10):
 • MEM–RUSSIA–STALIN — terror context, direct threat
 • MEM–RUSSIA–WWII–SIEGE–LENINGRAD — Seventh Symphony context
 • MEM–RUSSIA–GULAG — terror system that shaped survival strategies
-• MEM–RUSSIA–SOVIET–STATE — institutional constraint on art
+• MEM–RUSSIA–SOVIET–UNION — institutional constraint on art
 • MEM–RUSSIA–ART–PROKOFIEV — parallel Soviet composer trajectory
 • MEM–RUSSIA–ART–STRAVINSKY — contrast: exile vs remaining
 • MEM–RUSSIA–LIT–AKHMATOVA — parallel encoded dissent in poetry
@@ -237,7 +237,7 @@ Russian (≥10):
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–SAINT–PETERSBURG–LENINGRAD — siege and formation
-• MEM–RUSSIA–GEO–MOSCOW — career center and Soviet institutions
+• MEM–RUSSIA–MOSCOW — career center and Soviet institutions
 
 Cross-civilizational:
 • MEM–GERMANIA–HOLOCAUST — *Babi Yar* testimony

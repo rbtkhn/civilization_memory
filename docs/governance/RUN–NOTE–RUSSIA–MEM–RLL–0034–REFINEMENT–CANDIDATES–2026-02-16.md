@@ -19,7 +19,7 @@
 
 ## Selected MEMs (priority order)
 
-### 1. MEM–RUSSIA–DYNASTY–RURIKID
+### 1. MEM–RUSSIA–NOVGOROD–RURIK (Rurikid arc; absorbs former DYNASTY–RURIKID)
 **Why:** Core overview of the dynasty; encodes invitation (Primary Chronicle), fragmentation, sacralisation, Mongol selection, Muscovite centralisation, succession failure, Romanov inheritance. No RLL section at present.  
 **Refinement:** Add RLL–0034 to a continuity insight or new "RLL binding" line; add one bullet in Continuity Insights (Raw) stating that the file illustrates the full four-step legitimacy sequence (order-restoration → ratification → licensed rule → internalisation).  
 **Step(s) of sequence:** All four (narrative spans Rurik → Horde → Muscovy).

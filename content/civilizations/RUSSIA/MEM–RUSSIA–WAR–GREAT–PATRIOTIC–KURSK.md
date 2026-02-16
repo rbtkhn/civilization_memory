@@ -275,7 +275,7 @@ Russian (≥10):
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — operational terrain
-• MEM–RUSSIA–GEO–CENTRAL–RUSSIA — salient location
+• MEM–RUSSIA–MOSCOW — salient location (Central Russia)
 
 Cross-civilizational:
 • MEM–GERMANIA–WEHRMACHT — culminating force

@@ -299,7 +299,7 @@ Russian (≥10):
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–ODER–RIVER — jump-off point
-• MEM–RUSSIA–GEO–CENTRAL–EUROPE — operational terrain
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA — operational terrain (Central Europe)
 
 Cross-civilizational:
 • MEM–GERMANIA–THIRD–REICH — destroyed enemy

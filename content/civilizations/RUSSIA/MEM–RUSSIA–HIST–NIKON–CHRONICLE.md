@@ -267,7 +267,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy framework
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–MOSCOW — compilation center
+• MEM–RUSSIA–MOSCOW — compilation center
 • MEM–RUSSIA–GEO–KAZAN — conquest celebrated in later entries
 
 Cross-civilizational:

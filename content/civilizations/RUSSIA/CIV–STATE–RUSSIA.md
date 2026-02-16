@@ -95,7 +95,7 @@ From the Mongol Empire:
   • Communication and administrative systems
   • Autocratic submission culture (ruler's word as absolute law)
   • Deep strategic fear of steppe vulnerability and encirclement
-  Source: MEM–RUSSIA–MONGOL–YOKE
+  Source: MEM–RUSSIA–GOLDEN–HORDE
 
 CONTESTED CLAIMS:
 • Ukraine claims Kievan Rus heritage independently of Russia.
@@ -938,7 +938,7 @@ civilizational memory corpus.
 
 PATTERN: Endurance Through Compression
   Activation: HIGH (with medium-term structural ceiling — Feb 2026)
-  Source: MEM–RUSSIA–MONGOL–YOKE, MEM–RUSSIA–WWII–SIEGE–LENINGRAD,
+  Source: MEM–RUSSIA–GOLDEN–HORDE, MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD,
           MEM–RUSSIA–WAR–GREAT–PATRIOTIC series
   Relevance: Russia's historical pattern of absorbing pressure and
   outlasting opponents is currently active. The critical constraint
@@ -1158,7 +1158,7 @@ PATTERN: Institutional Voice vs Sovereign Choice (Lavrov–Panin)
 PATTERN: Legitimacy Sequencing (Rurikid → Horde → Muscovite)
   Activation: MODERATE (diagnostic; when settlement or authority is in play)
   Source: SCHOLAR LEARN session (Rurikid cluster, Feb 2026); MEM–RUSSIA–
-          DYNASTY–RURIKID, MEM–RUSSIA–NOVGOROD–RURIK, MEM–RUSSIA–KIEVAN–RUS,
+          MEM–RUSSIA–NOVGOROD–RURIK (Rurikid arc), MEM–RUSSIA–KIEVAN–RUS,
           MEM–RUSSIA–GOLDEN–HORDE, MEM–RUSSIA–MUSCOVY, MEM–RUSSIA–MUSCOVY–IVAN–III
   Relevance: Russian legitimacy has historically followed a recurring
   sequence: (1) authority that restores order can be accepted regardless
@@ -1528,7 +1528,7 @@ ENTRY 013 — 16 February 2026
   Session: SCHOLAR LEARN (Rurikid cluster contemplation); follow-on (c)
   Change: Section VII — new pattern "Legitimacy Sequencing
   (Rurikid → Horde → Muscovite)" added. For use when settlement or
-  authority is in play. Source: LEARN session (DYNASTY–RURIKID, RURIK,
+  authority is in play. Source: LEARN session (NOVGOROD–RURIK (Rurikid arc), RURIK,
   KIEVAN–RUS, GOLDEN–HORDE, MUSCOVY, IVAN–III). Encodes recurring
   sequence: invitation/order-restoration grammar → sacral/legal
   ratification of achieved authority → licensed rule under Horde →

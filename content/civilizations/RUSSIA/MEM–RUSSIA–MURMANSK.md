@@ -293,10 +293,10 @@ X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–WWI — founding context
-• MEM–RUSSIA–REVOLUTION–1917 — intervention context
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — intervention context
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC — convoy destination and Hero City
 • MEM–RUSSIA–COLD–WAR — Northern Fleet significance
-• MEM–RUSSIA–NAVY — fleet headquarters
+• MEM–RUSSIA–GEO–ARCTIC–OCEAN — fleet headquarters (Northern Fleet)
 • MEM–RUSSIA–NUCLEAR — SSBN basing
 • MEM–RUSSIA–LEND–LEASE — Allied supply route
 • MEM–RUSSIA–ARCHANGEL — alternate Arctic port

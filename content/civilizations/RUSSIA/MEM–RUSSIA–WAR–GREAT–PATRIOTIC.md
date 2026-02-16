@@ -300,7 +300,7 @@ Russian (≥10):
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth
 • MEM–RUSSIA–GEO–URALS — industrial refuge
-• MEM–RUSSIA–GEO–VOLGA — Stalingrad axis
+• MEM–RUSSIA–GEO–VOLGA–RIVER — Stalingrad axis
 
 Cross-civilizational:
 • MEM–GERMANIA–THIRD–REICH — existential enemy

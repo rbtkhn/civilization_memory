@@ -206,12 +206,12 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–VARANGIANS — external warrior elite integration
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — later sacral overlay
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — principal source for Oleg narrative
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity through regency
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic continuity through regency (Rurikid arc)
 • MEM–RUSSIA–TRADE–ROUTES — Byzantine commercial connections
 • MEM–RUSSIA–MONGOL–EMPIRE — later pattern of external projection
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–DNIEPER — corridor logic and Kievan anchoring
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — corridor logic and Kievan anchoring
 • MEM–RUSSIA–GEO–BLACK–SEA — Byzantine projection and trade routes
 
 Cross-civilization connections:

@@ -291,18 +291,18 @@ XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–ROMANOV–ALEXANDER–III — inherited autocratic rigidity
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — reform precedent
-• MEM–RUSSIA–DYNASTY–ROMANOV — terminal dynasty moment
-• MEM–RUSSIA–REVOLUTION–1905 — legitimacy erosion
-• MEM–RUSSIA–REVOLUTION–1917 — system collapse
-• MEM–RUSSIA–WITTE — modernization under constraint
-• MEM–RUSSIA–STOLYPIN — reform attempt within collapse
-• MEM–RUSSIA–DUMA — constitutional concession
-• MEM–RUSSIA–WORLD–WAR–I — system stress test
-• MEM–RUSSIA–BOLSHEVIK — successor regime
+• MEM–RUSSIA–ROMANOV–DYNASTY — terminal dynasty moment
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — legitimacy erosion (1905 trigger)
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — system collapse
+• MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — modernization under constraint
+• MEM–RUSSIA–LAW–EMANCIPATION — reform attempt within collapse
+• MEM–RUSSIA–LAW–ZEMSTVO — constitutional concession
+• MEM–RUSSIA–WAR–CRIMEAN — prior military-fiscal stress
+• MEM–RUSSIA–LENIN — successor regime
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — capital collapse
-• MEM–RUSSIA–GEO–EKATERINBURG — dynastic termination
+• MEM–RUSSIA–PETERSBURG — capital collapse
+• MEM–RUSSIA–GEO–URALS — dynastic termination site (Ekaterinburg)
 
 Cross-civilizational:
 • MEM–FRANCIA–LOUIS–XVI — comparative monarchical collapse

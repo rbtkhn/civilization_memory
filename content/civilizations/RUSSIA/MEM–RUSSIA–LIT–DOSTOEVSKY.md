@@ -218,14 +218,14 @@ Tension preserved without verdict.
 XIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–SERFDOM — suffering and redemption framework
-• MEM–RUSSIA–DYNASTY–ROMANOV — elite corruption vs popular faith
+• MEM–RUSSIA–LAW–SERFDOM — suffering and redemption framework
+• MEM–RUSSIA–ROMANOV–DYNASTY — elite corruption vs popular faith
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — reform era and moral tension
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — suffering and legitimacy collapse
 • MEM–RUSSIA–LIT–TOLSTOY — contrast: psychological vs historical memory
 • MEM–RUSSIA–LIT–PUSHKIN — literary language foundation preceding Dostoevsky
 • MEM–RUSSIA–LIT–GOGOL — grotesque predecessor to psychological depth
-• MEM–RUSSIA–ORTHODOXY — Orthodox Christianity as foundation of Russian identity
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Orthodox Christianity as foundation of Russian identity
 • MEM–RUSSIA–SIBERIA — exile experience shaping suffering narrative
 • MEM–RUSSIA–NIHILISM — intellectual movement critiqued in Dostoevsky's works
 • MEM–RUSSIA–INTELLIGENTSIA — tension between Western and Slavophile thought

@@ -204,7 +204,7 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–MONGOLS–KULIKOVO — adaptation and partial reversal
 • MEM–RUSSIA–WAR–MONGOLS–UGRA — release from domination
 • MEM–RUSSIA–KIEVAN–RUS — fragmented political structure
-• MEM–RUSSIA–DYNASTY–RURIKID — divided princely authority
+• MEM–RUSSIA–NOVGOROD–RURIK — divided princely authority (Rurikid arc)
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — ecclesiastical continuity amid defeat
 • MEM–RUSSIA–VLADIMIR–SUZDAL — subsequent target of Mongol invasion
 • MEM–RUSSIA–NOVGOROD — northern alternative surviving Kalka

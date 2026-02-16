@@ -113,11 +113,11 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–KIEVAN–RUS — polity framework
 • MEM–RUSSIA–KIEV — seat of rule
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — principal source
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic continuity (Rurikid arc)
 • MEM–RUSSIA–TRADE–ROUTES — Byzantine and Caspian commerce
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–DNIEPER — corridor and Kiev
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — corridor and Kiev
 • MEM–RUSSIA–GEO–BLACK–SEA — Byzantine projection
 
 ────────────────────────────────────────────────────────────

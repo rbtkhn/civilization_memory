@@ -268,11 +268,11 @@ Russian (≥10):
 • MEM–RUSSIA–LIT–GOGOL — direct literary successor, grotesque development
 • MEM–RUSSIA–LIT–TOLSTOY — literary language foundation for later novels
 • MEM–RUSSIA–LIT–DOSTOEVSKY — literary language foundation for psychological depth
-• MEM–RUSSIA–DYNASTY–ROMANOV — court politics and artistic censorship
+• MEM–RUSSIA–ROMANOV–DYNASTY — court politics and artistic censorship
 • MEM–RUSSIA–ROMANOV–NICHOLAS–I — tsarist control over cultural production
 • MEM–RUSSIA–DECEMBRIST–UPRISING — Pushkin's friends among rebels
-• MEM–RUSSIA–SERFDOM — social hierarchy in Eugene Onegin
-• MEM–RUSSIA–ORTHODOXY — Russian identity and cultural memory
+• MEM–RUSSIA–LAW–SERFDOM — social hierarchy in Eugene Onegin
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Russian identity and cultural memory
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — landscape in The Captain's Daughter

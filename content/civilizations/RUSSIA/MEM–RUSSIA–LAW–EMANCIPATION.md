@@ -175,10 +175,10 @@ RUSSIA (≥10):
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — tsar who decreed emancipation; reformer-autocrat
 • MEM–RUSSIA–WAR–CRIMEAN — strategic shock catalyst; exposed serfdom as liability
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — ultimate failure of incomplete reform trajectory
-• MEM–RUSSIA–DYNASTY–ROMANOV — autocratic reform from above pattern
-• MEM–RUSSIA–ZEMSTVO — local government reform paired with emancipation
-• MEM–RUSSIA–REVOLUTION–1905 — peasant grievances from incomplete emancipation
-• MEM–RUSSIA–REVOLUTION–1917 — land question unresolved; emancipation's terminal failure
+• MEM–RUSSIA–ROMANOV–DYNASTY — autocratic reform from above pattern
+• MEM–RUSSIA–LAW–ZEMSTVO — local government reform paired with emancipation
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — peasant grievances from incomplete emancipation (1905 trigger)
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — land question unresolved; emancipation's terminal failure
 • MEM–RUSSIA–SERVICE–NOBILITY — gentry compensation and resistance to reform
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church role in legitimizing social transformation
 

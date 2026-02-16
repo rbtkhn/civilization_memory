@@ -216,11 +216,11 @@ Tension preserved without verdict.
 IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–REVOLUTION–1917 — departure context
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — departure context
 • MEM–RUSSIA–ART–TCHAIKOVSKY — Romantic predecessor, influence
 • MEM–RUSSIA–ART–STRAVINSKY — contrast: modernist reinvention in exile
 • MEM–RUSSIA–ART–PROKOFIEV — contrast: return vs permanent exile
-• MEM–RUSSIA–ORTHODOXY — *All-Night Vigil*, liturgical influence
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — *All-Night Vigil*, liturgical influence
 • MEM–RUSSIA–ARISTOCRACY — old-regime world destroyed
 • MEM–RUSSIA–EMIGRATION — Russian diaspora experience
 • MEM–RUSSIA–LIT–CHEKHOV — parallel melancholy, pre-revolutionary world

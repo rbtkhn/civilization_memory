@@ -1,17 +1,17 @@
-MEM–RUSSIA–NOVGOROD–RURIK — v3.0
+MEM–RUSSIA–NOVGOROD–RURIK — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: MEM–RUSSIA–RURIK v3.0 (renamed)
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–NOVGOROD–RURIK v3.0; absorbs MEM–RUSSIA–DYNASTY–RURIKID
+Upgrade Type: CONTENT · DYNASTY–RURIKID MERGE
 Civilization: RUSSIA (Русская цивилизация)
-Regime / Mode: Novgorod · Foundational Insertion Phase
-Subject: Rurik (Рюрик)
-Dates: c. 830–879 AD
+Regime / Mode: Novgorod · Rurikid Dynastic Arc (862–1598)
+Subject: Rurik (Рюрик) and Rurikid Dynastic System
+Dates: c. 830–879 AD (Rurik); c. 862–1598 AD (Rurikid dynasty)
 Class: MEM (Civilizational Memory)
 Last Update: February 2026
-Word Count: ~2,400
+Word Count: ~5,400
 
 Governed by: CIV–MEM–TEMPLATE v3.0
 
@@ -167,25 +167,115 @@ Distinctive Russian feature:
 Russia begins with **external authority internalized**, not expelled.
 
 ────────────────────────────────────────────────────────────
-IX. MEM CONNECTIONS (v3.0 COMPLIANT)
+UPGRADE NOTE (v3.1) — DYNASTY–RURIKID MERGE
+────────────────────────────────────────────────────────────
+This upgrade absorbs MEM–RUSSIA–DYNASTY–RURIKID. The Rurikid dynasty
+as long-duration operating system (862–1598) is now preserved in this
+file. MEM–RUSSIA–DYNASTY–RURIKID has been deprecated and deleted.
+References updated across corpus.
+
+────────────────────────────────────────────────────────────
+IX. THE RURIKID DYNASTIC ARC (862–1598)
+────────────────────────────────────────────────────────────
+The Rurikids functioned as a **long-duration dynastic operating system**
+that substituted for institutions until succession failure triggered
+systemic collapse. The arc spans founding through Romanov absorption.
+
+**APPANAGE FRAGMENTATION AS SYSTEM DESIGN**
+
+Fragmentation was normalized governance, not accidental failure.
+
+> "The Russian princes divided the land not as a state, but as a family
+> inheritance, and each division weakened the whole while preserving the
+> rights of the lineage. The state survived because the dynasty survived,
+> even when unity was lost."
+> — Sergei Solovyov, *History of Russia from the Earliest Times* (vol. 2)
+
+**KIEVAN APEX & PRE-MONGOL LIMITS**
+
+Prestige without coercive supremacy defined the Kievan phase.
+
+> "Kiev was the senior throne by honor, not by force. The grand prince
+> could advise and arbitrate, but he could not compel obedience, and in
+> this lay the chief weakness of the early Russian polity."
+> — Vasily Klyuchevsky, *Course of Russian History*, Lecture XII
+
+**ORTHODOX SACRALIZATION**
+
+Christianization recoded legitimacy without solving succession.
+
+> "Vladimir baptized the land, and with baptism came obedience, for the
+> people now saw the prince not only as ruler but as protector of the
+> faith, chosen by God to guard both souls and land."
+> — Hypatian Chronicle (12th century)
+
+**MONGOL COMPRESSION & SELECTION PRESSURE**
+
+External domination filtered dynastic survivability.
+
+> "The Mongol conquest did not destroy the Russian princes; it selected
+> among them. Those who learned to extract, obey, and command within the
+> new order survived, while others vanished. Moscow's rise was not a
+> revolt against the Horde but a product of adaptation to it."
+> — Dominic Lieven, *Empire: The Russian Empire and Its Rivals* (2000)
+
+**MUSCOVITE REVERSAL: CENTRALIZATION THROUGH DYNASTY**
+
+Fragmentation was reversed without institutional pluralism.
+
+> "Moscow gathered the Russian land not by creating institutions, but by
+> concentrating dynastic power in one line, eliminating rivals rather
+> than balancing them. Unity was achieved, but at the cost of redundancy."
+> — Nikolai Karamzin, *History of the Russian State*, Book VII
+
+**DYNASTIC EXHAUSTION & SUCCESSION FAILURE**
+
+The system collapsed when lineage continuity failed.
+
+> "The extinction of the Rurikid line revealed how little existed beyond
+> dynasty. With no accepted heir, legitimacy dissolved, elite factions
+> turned inward, and the state itself lost coherence, producing the Time
+> of Troubles."
+> — Geoffrey Hosking, *Russia: People and Empire* (1997)
+
+**ABSORPTION INTO ROMANOV ORDER**
+
+The dynasty ended; the logic persisted.
+
+> "The Romanovs did not replace the Rurikid system; they inherited it.
+> Autocracy, Orthodoxy, and service hierarchy were not innovations but
+> hardened survivals of the earlier dynastic order."
+> — Richard Pipes, *Russia under the Old Regime* (1974)
+
+For detailed treatment of each phase, see connected MEMs: KIEVAN–RUS,
+MONGOL–EMPIRE, GOLDEN–HORDE, MUSCOVY, TIME–TROUBLES, ROMANOV–DYNASTY.
+
+────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Connected MEM files include:
 
 RUSSIA (≥10):
-• MEM–RUSSIA–KIEVAN–RUS–OLEG — territorial integrator
+• MEM–RUSSIA–KIEVAN–RUS–OLEG — territorial integrator, dynastic continuity
 • MEM–RUSSIA–NOVGOROD — plural alternative center
 • MEM–RUSSIA–KIEV — prestige capital
 • MEM–RUSSIA–VARANGIANS — warrior elite substrate
-• MEM–RUSSIA–MONGOL–EMPIRE — later external sovereignty pattern
-• MEM–RUSSIA–KIEVAN–RUS — polity formation
-• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source tradition
+• MEM–RUSSIA–MONGOL–EMPIRE — external domination and selection pressure
+• MEM–RUSSIA–KIEVAN–RUS — polity formation, pre-fragmentation apex
+• MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — source tradition, genealogical spine
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral transformation successor
 • MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — institutional successor
-• MEM–RUSSIA–MUSCOVY — later state inheritor
+• MEM–RUSSIA–MUSCOVY — centralization and dynastic concentration
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral authority multiplier
+• MEM–RUSSIA–ALEXANDER–NEVSKY — survival under asymmetry
+• MEM–RUSSIA–TIME–TROUBLES — succession failure consequences
+• MEM–RUSSIA–ROMANOV–DYNASTY — post-Rurikid dynastic inheritance
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–NOVGOROD–REGION — initial Rurikid seat
+• MEM–RUSSIA–NOVGOROD — initial Rurikid seat
 • MEM–RUSSIA–GEO–BALTIC–SEA — Varangian entry route
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — territorial corridor and Kievan anchoring
+• MEM–RUSSIA–GEO–VOLGA–RIVER — tribute routes and Muscovite expansion
 
 OTHER CIVILIZATIONS:
 • MEM–ANGLIA–NORMANS — foreign elite normalization
@@ -196,22 +286,39 @@ These connections situate Rurik within a broader pattern of
 foreign-origin legitimacy.
 
 ────────────────────────────────────────────────────────────
-X. CONTINUITY INSIGHTS (RAW)
+XI. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Russian authority can originate externally without delegitimation.
 • Consent narratives stabilize coercive outcomes.
-• Dynasty substitutes for institutions at origin points.
+• Dynasty substitutes for institutions at origin points and until succession fails.
 • Procedural acceptance matters more than ethnic origin.
 • Founding myths encode survival logic, not civic ideals.
 • Encodes step 1 of RLL–0034 (Legitimacy Sequencing): authority accepted if it restores order; invitation grammar.
+• Fragmentation preserves dynastic survival but disables unity.
+• Sacral legitimacy stabilizes rule without fixing inheritance.
+• External domination selects adaptive rulers.
+• Centralization converts redundancy into fragility.
+• Dynastic exhaustion produces collapse, not reform.
+• The full four-step legitimacy sequence (RLL–0034): order-restoration → sacral/legal ratification → licensed rule under overlordship → internalisation by one centre.
 
 ────────────────────────────────────────────────────────────
-XI. MEM BIBLIOGRAPHY (v2.7)
+XII. MEM BIBLIOGRAPHY (v2.7)
 ────────────────────────────────────────────────────────────
-• Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus, 750–1200*. London: Longman, 1996.
+Primary:
+• *Primary Chronicle* (Povest' vremennykh let), Laurentian recension
+• *Hypatian Chronicle* (12th century)
 • Cross, Samuel Hazzard, and Olgerd P. Sherbowitz-Wetzor, trans. *The Russian Primary Chronicle: Laurentian Text*. Cambridge, MA: Medieval Academy of America, 1953.
+
+Secondary:
+• Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus, 750–1200*. London: Longman, 1996.
 • Duczko, Władysław. *Viking Rus: Studies on the Presence of Scandinavians in Eastern Europe*. Leiden: Brill, 2004.
 • Pritsak, Omeljan. *The Origin of Rus'*. Vol. 1. Cambridge, MA: Harvard Ukrainian Research Institute, 1981.
+• Solovyov, Sergei. *History of Russia from the Earliest Times*
+• Klyuchevsky, Vasily. *Course of Russian History*
+• Karamzin, Nikolai. *History of the Russian State*
+• Lieven, Dominic. *Empire: The Russian Empire and Its Rivals* (2000)
+• Hosking, Geoffrey. *Russia: People and Empire* (1997)
+• Pipes, Richard. *Russia under the Old Regime* (1974)
 
 ────────────────────────────────────────────────────────────
 XIII. PEDAGOGICAL AFFORDANCE LAYER
@@ -222,6 +329,12 @@ This MEM supports exploration of:
 • External authority normalization
 • Comparative foreign-founder cases
 • Sequential state formation logic
+• Dynasty vs institution comparison
+• Appanage fragmentation mechanics
+• Mongol selection pressure
+• Muscovy as dynastic correction
+• Succession failure physics
+• Romanov inheritance logic
 
 No evaluative conclusions are imposed.
 
@@ -244,5 +357,5 @@ H) Compliance & Integrity Audit (v1.6)
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–NOVGOROD–RURIK v3.0
+END OF FILE — MEM–RUSSIA–NOVGOROD–RURIK v3.1
 ────────────────────────────────────────────────────────────

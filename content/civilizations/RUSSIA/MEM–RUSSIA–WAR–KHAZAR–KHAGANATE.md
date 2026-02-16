@@ -231,7 +231,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–VARANGIANS — Mercenary military tradition and trade networks
 • MEM–RUSSIA–KIEVAN–RUS–OLEG — Early expansion and Khazar tributary relations
 • MEM–RUSSIA–NOVGOROD–RURIK — Dynastic foundation preceding Khazar confrontation
-• MEM–RUSSIA–DYNASTY–RURIKID — Rurikid hegemony through Khazar defeat
+• MEM–RUSSIA–NOVGOROD–RURIK — Rurikid hegemony through Khazar defeat (Rurikid arc)
 • MEM–RUSSIA–KIEV — Political center of anti-Khazar campaigns
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — Source documentation of Khazar wars
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious identity vs. Khazar Judaism

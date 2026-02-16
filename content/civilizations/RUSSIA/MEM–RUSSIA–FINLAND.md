@@ -393,7 +393,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–BALTIC–SEA — maritime security axis
 • MEM–RUSSIA–BUFFER–ZONES — strategic doctrine
 • MEM–RUSSIA–RUSSIFICATION — policy failure case
-• MEM–RUSSIA–REVOLUTION–1917 — trigger for Finnish exit
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — trigger for Finnish exit
 • MEM–RUSSIA–WINTER–WAR — failed reabsorption attempt
 • MEM–RUSSIA–COLD–WAR — Finlandization context
 

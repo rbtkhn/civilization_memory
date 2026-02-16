@@ -121,10 +121,10 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–WAR–PECHENEGS — siege of Kiev (968); steppe threat
 • MEM–RUSSIA–WAR–KHAZAR–KHAGANATE — Khazar campaigns
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — principal source
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic continuity (Rurikid arc)
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–DNIEPER — corridor; rapids and death site
+• MEM–RUSSIA–GEO–DNEIPER–RIVER — corridor; rapids and death site
 • MEM–RUSSIA–GEO–BLACK–SEA — Byzantine and steppe interface
 
 ────────────────────────────────────────────────────────────

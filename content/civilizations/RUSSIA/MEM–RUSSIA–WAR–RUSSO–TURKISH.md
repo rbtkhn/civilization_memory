@@ -161,12 +161,12 @@ Same-Civilization (RUSSIA) — ≥10 required:
 • MEM–RUSSIA–WAR–CRIMEAN — strategic defeat within larger rivalry
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE — modernization failure parallel
 • MEM–RUSSIA–WAR–LIVONIAN — premature expansion contrast
-• MEM–RUSSIA–WAR–POLTAVA — endurance doctrine validation
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — endurance doctrine validation
 • MEM–RUSSIA–CATHERINE–II — Crimean annexation and southern strategy
 • MEM–RUSSIA–ROMANOV–PETER–I — naval modernization initiator
 • MEM–RUSSIA–ROMANOV–NICHOLAS–I — 19th-century war architect
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious legitimation of intervention
-• MEM–RUSSIA–NAVY — Black Sea fleet development
+• MEM–RUSSIA–GEO–BLACK–SEA — Black Sea fleet development
 • MEM–RUSSIA–SEVASTOPOL — naval base and symbolic fortress
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — post-Crimean reform architect
 

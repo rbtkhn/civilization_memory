@@ -206,10 +206,10 @@ X. MEM CONNECTIONS (MANDATORY · EXPLAINED)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy creates succession vacuum
-• MEM–RUSSIA–DYNASTY–RURIKID — lineage exhaustion trigger
+• MEM–RUSSIA–NOVGOROD–RURIK — lineage exhaustion trigger (Rurikid arc)
 • MEM–RUSSIA–MUSCOVY — sacral endurance ≠ succession stability
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic reset mechanism
-• MEM–RUSSIA–ORTHODOX–CHURCH — identity preservation layer
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic reset mechanism
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — identity preservation layer
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — moralized legitimacy grammar
 • MEM–RUSSIA–ALEXANDER–NEVSKY — endurance logic under asymmetry
 • MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
@@ -217,8 +217,8 @@ Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — sacral substrate origin
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–MOSCOW — collapse epicenter
-• MEM–RUSSIA–GEO–VOLGA — recovery corridor
+• MEM–RUSSIA–MOSCOW — collapse epicenter
+• MEM–RUSSIA–GEO–VOLGA–RIVER — recovery corridor
 
 These connections establish continuity without teleology.
 

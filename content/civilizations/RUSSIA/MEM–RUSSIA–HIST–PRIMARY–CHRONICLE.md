@@ -256,11 +256,11 @@ Same-civilization (≥10):
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Christianization narrative
 • MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — chronicle patronage
 • MEM–RUSSIA–KIEVAN–RUS–OLEG — early ruler accounts
-• MEM–RUSSIA–ORTHODOXY — sacred legitimacy framework
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacred legitimacy framework
 • MEM–RUSSIA–NESTOR — traditional compiler attribution
 • MEM–RUSSIA–MUSCOVY — ideological inheritance
-• MEM–RUSSIA–MONGOL–INVASION — terminus event
-• MEM–RUSSIA–DYNASTY–RURIKID — genealogical spine
+• MEM–RUSSIA–WAR–MONGOLS–KIEV — terminus event
+• MEM–RUSSIA–NOVGOROD–RURIK — genealogical spine (Rurikid arc)
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–KIEV — chronicle production center

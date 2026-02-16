@@ -420,12 +420,12 @@ XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–ROMANOV–PETER–I — rupture preceding normalization
-• MEM–RUSSIA–SERFDOM — social immobilization tradeoff
+• MEM–RUSSIA–LAW–SERFDOM — social immobilization tradeoff
 • MEM–RUSSIA–POLAND — imperial absorption logic
 • MEM–RUSSIA–POTEMKIN — southern empire execution layer
 • MEM–RUSSIA–PUGACHEV–REBELLION — Enlightenment limits exposed
 • MEM–RUSSIA–ROMANOV–DYNASTY — dynastic legitimacy framework
-• MEM–RUSSIA–ORTHODOX–CHURCH — ecclesiastical subordination maintained
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — ecclesiastical subordination maintained
 • MEM–RUSSIA–NOBILITY–CHARTER — elite compact formalization
 • MEM–RUSSIA–RUSSIAN–NAVY — Black Sea power projection
 • MEM–RUSSIA–PARTITION–POLAND — territorial expansion mechanism

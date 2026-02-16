@@ -267,13 +267,13 @@ Russian (≥10):
 • MEM–RUSSIA–ART–MUSSORGSKY — *Boris Godunov* productions
 • MEM–RUSSIA–ART–RIMSKY–KORSAKOV — opera premieres
 • MEM–RUSSIA–BALLET — tradition and technique
-• MEM–RUSSIA–SOVIET–STATE — Cold War cultural projection
-• MEM–RUSSIA–DYNASTY–ROMANOV — imperial patronage
+• MEM–RUSSIA–SOVIET–UNION — Cold War cultural projection
+• MEM–RUSSIA–ROMANOV–DYNASTY — imperial patronage
 • MEM–RUSSIA–OPERA — national opera tradition
 • MEM–RUSSIA–ARCHITECTURE — neoclassical cultural statement
 
 GEO–MEM (≥2):
-• MEM–RUSSIA–GEO–MOSCOW — Theatre Square location, Moscow identity
+• MEM–RUSSIA–MOSCOW — Theatre Square location, Moscow identity
 • MEM–RUSSIA–GEO–SAINT–PETERSBURG — Mariinsky rivalry/complement
 
 Cross-civilizational:

@@ -381,7 +381,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — Conquest initiator and Orthodox conversion
 • MEM–RUSSIA–KIEVAN–RUS–YAROSLAV — Reconquest and territorial consolidation
 • MEM–RUSSIA–KIEVAN–RUS — State structure enabling western expansion
-• MEM–RUSSIA–DYNASTY–RURIKID — Succession politics driving territorial change
+• MEM–RUSSIA–NOVGOROD–RURIK — Succession politics driving territorial change (Rurikid arc)
 • MEM–RUSSIA–WAR–MONGOLS–KIEV — Disruption enabling western territorial loss
 • MEM–RUSSIA–GALICIA–VOLHYNIA — Successor principality in borderland
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Religious dimension of territorial claims

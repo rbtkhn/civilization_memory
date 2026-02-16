@@ -353,8 +353,8 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON–BORODINO — endurance doctrine validated
 • MEM–RUSSIA–WAR–NAPOLEON–1812 — strategic depth and absorption
 • MEM–RUSSIA–KUTUZOV — strategic restraint as doctrine
-• MEM–RUSSIA–WAR–CRIMEA — negative exemplar persistence (excessive caution?)
-• MEM–RUSSIA–DYNASTY–ROMANOV — legitimacy shock and recovery
+• MEM–RUSSIA–WAR–CRIMEAN — negative exemplar persistence (excessive caution?)
+• MEM–RUSSIA–ROMANOV–DYNASTY — legitimacy shock and recovery
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth enabling later endurance

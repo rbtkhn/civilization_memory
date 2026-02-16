@@ -213,10 +213,10 @@ Russian (≥10):
 • MEM–RUSSIA–ART–TCHAIKOVSKY — predecessor, tradition transcended
 • MEM–RUSSIA–BALLET — Ballets Russes as cultural export
 • MEM–RUSSIA–DIAGHILEV — impresario, commissioning genius
-• MEM–RUSSIA–REVOLUTION–1917 — context for exile decision
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — context for exile decision
 • MEM–RUSSIA–EMIGRATION — Russian diaspora cultural production
 • MEM–RUSSIA–FOLK–MUSIC — source material transformed
-• MEM–RUSSIA–ORTHODOXY — *Symphony of Psalms* liturgical influence
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — *Symphony of Psalms* liturgical influence
 • MEM–RUSSIA–ART–PROKOFIEV — parallel emigré trajectory
 • MEM–RUSSIA–ART–RACHMANINOV — contrast: romantic vs modernist exile
 

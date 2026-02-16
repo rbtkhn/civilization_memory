@@ -320,11 +320,11 @@ Contradictions are preserved without synthesis.
 X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–REVOLUTION–1905 — precedent revolution
+• MEM–RUSSIA–WAR–RUSSO–JAPANESE — precedent defeat (1905 trigger)
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — last tsar
 • MEM–RUSSIA–WWI — immediate context
 • MEM–RUSSIA–LENIN — revolutionary leader
-• MEM–RUSSIA–CIVIL–WAR — consolidation struggle
+• MEM–RUSSIA–WAR–RED–ARMY — consolidation struggle
 • MEM–RUSSIA–SOVIET–UNION — successor state
 • MEM–RUSSIA–STALIN — successor leader
 • MEM–RUSSIA–TROTSKY — revolutionary leader
@@ -333,7 +333,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–PETROGRAD — revolution location
-• MEM–RUSSIA–GEO–MOSCOW — new capital
+• MEM–RUSSIA–MOSCOW — new capital
 • MEM–RUSSIA–SIBERIA — Civil War theater
 
 Cross-Civilizational:

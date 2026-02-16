@@ -341,7 +341,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–NOVGOROD — northern frontier defender
 • MEM–RUSSIA–ST–PETERSBURG — Baltic capital created against Sweden
 • MEM–RUSSIA–IMPERIAL–EXPANSION — northern dimension
-• MEM–RUSSIA–NAVY — Baltic fleet origins against Sweden
+• MEM–RUSSIA–GEO–BALTIC–SEA — Baltic fleet origins against Sweden
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–BALTIC–SEA — contested maritime basin

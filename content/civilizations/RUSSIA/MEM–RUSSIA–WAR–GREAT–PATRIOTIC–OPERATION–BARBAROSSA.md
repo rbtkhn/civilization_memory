@@ -296,7 +296,7 @@ Russian (≥10):
 • MEM–RUSSIA–INDUSTRIAL–RELOCATION — survival mechanism
 • MEM–RUSSIA–PURGES–1937 — command capability destroyed
 • MEM–RUSSIA–MOLOTOV–RIBBENTROP — diplomatic context
-• MEM–RUSSIA–1941–CATASTROPHE — summary category
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOSCOW — 1941 defence context
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — invasion terrain

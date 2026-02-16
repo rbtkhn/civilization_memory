@@ -213,16 +213,16 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MONGOL–EMPIRE — domination inheritance
 • MEM–RUSSIA–GOLDEN–HORDE — tribute-state mechanics
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival under asymmetry
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic continuity
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic continuity (Rurikid arc)
 • MEM–RUSSIA–TIME–TROUBLES — succession failure outcome
-• MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance layer
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — identity endurance layer
 • MEM–RUSSIA–NOVGOROD — pluralism annihilated
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy intensification
-• MEM–RUSSIA–SERFDOM — coercion substrate
+• MEM–RUSSIA–LAW–SERFDOM — coercion substrate
 
 GEO MEMs (≥2):
-• MEM–RUSSIA–GEO–VOLGA — corridor depth
-• MEM–RUSSIA–GEO–MOSCOW — administrative core
+• MEM–RUSSIA–GEO–VOLGA–RIVER — corridor depth
+• MEM–RUSSIA–MOSCOW — administrative core
 
 Comparative:
 • MEM–CHINA–MING–DYNASTY

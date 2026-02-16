@@ -409,10 +409,10 @@ XI. MEM CONNECTIONS (MANDATORY · v2.8 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary war context and validation framework
 • MEM–RUSSIA–KUTUZOV — operational endurance doctrine
-• MEM–RUSSIA–WAR–BORODINO — key battle and strategic validation
+• MEM–RUSSIA–WAR–NAPOLEON–BORODINO — key battle and strategic validation
 • MEM–RUSSIA–CONGRESS–VIENNA — post-war arbitration and settlement
 • MEM–RUSSIA–ROMANOV–PAUL–I — contrast: strategic coherence vs personal impulse
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through victory
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynasty validation through victory
 • MEM–RUSSIA–ROMANOV–PETER–I — Petrine state capacity enabling 1812 victory
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — territorial expansion preceding Napoleonic conflict
 • MEM–RUSSIA–MUSCOVY — coercive state formation as strategic foundation

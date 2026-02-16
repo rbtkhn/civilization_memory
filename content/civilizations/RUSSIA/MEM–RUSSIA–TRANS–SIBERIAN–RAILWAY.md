@@ -223,7 +223,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–SIBERIA — corridor binds Siberia to core; infrastructure of incorporation
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE — single-track constraint; logistical failure
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOSCOW — Siberian reserves via rail; depth trading
-• MEM–RUSSIA–WITTE — railway champion; imperial industrialization
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — railway champion period; imperial industrialization
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — reign during construction and completion
 • MEM–RUSSIA–ALEXANDER–III — reign at project initiation
 • MEM–RUSSIA–CHINA–SILK–ROAD — Trans-Siberian as Russia's corridor; bypass competition

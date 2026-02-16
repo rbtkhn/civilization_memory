@@ -256,11 +256,11 @@ X. MEM CONNECTIONS (MANDATORY)
 Russian (≥10):
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — founder, primary driver of acquisition
 • MEM–RUSSIA–ROMANOV–PETER–I — European integration impulse preceding Hermitage
-• MEM–RUSSIA–DYNASTY–ROMANOV — imperial patronage and collection growth
+• MEM–RUSSIA–ROMANOV–DYNASTY — imperial patronage and collection growth
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — final imperial patron
-• MEM–RUSSIA–REVOLUTION–1917 — nationalization and transformation
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — nationalization and transformation
 • MEM–RUSSIA–WWII–SIEGE–LENINGRAD — survival through blockade
-• MEM–RUSSIA–SOVIET–STATE — institutional preservation under socialism
+• MEM–RUSSIA–SOVIET–UNION — institutional preservation under socialism
 • MEM–RUSSIA–POTEMKIN — southern expansion enabling wealth for acquisitions
 • MEM–RUSSIA–ARISTOCRACY — private collections absorbed after 1917
 • MEM–RUSSIA–ENLIGHTENMENT — philosophical context for cultural project

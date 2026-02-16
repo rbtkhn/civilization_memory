@@ -267,15 +267,15 @@ RUSSIA (≥10):
 • MEM–RUSSIA–ANNA–IOANNOVNA — succession drift predecessor
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — renewed reform and expansion successor
 • MEM–RUSSIA–SEVEN–YEARS — imperial system engagement
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic continuity framework
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic continuity framework
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy infrastructure
 • MEM–RUSSIA–GUARDS–COUPS — palace revolution mechanism
 • MEM–RUSSIA–PAUL–I — succession consequence
-• MEM–RUSSIA–SERFDOM — social stasis preservation
+• MEM–RUSSIA–LAW–SERFDOM — social stasis preservation
 • MEM–RUSSIA–NOBILITY — elite compact maintenance
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — court and capital seat
+• MEM–RUSSIA–PETERSBURG — court and capital seat
 • MEM–RUSSIA–GEO–BALTIC–SEA — Petrine inheritance zone
 
 Cross-civilizational:

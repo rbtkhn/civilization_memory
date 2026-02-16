@@ -211,7 +211,7 @@ XIII. MEM CONNECTIONS (STRONG ONLY)
 • MEM–RUSSIA–GEO–TAIGA
 • MEM–RUSSIA–GEO–ARCTIC–OCEAN
 • MEM–RUSSIA–GEO–FINNISH–FRONTIER
-• MEM–RUSSIA–GEO–ST–PETERSBURG
+• MEM–RUSSIA–PETERSBURG
 
 These connections situate Ladoga as a hinge–buffer hybrid within
 Russia’s northern defense stack.

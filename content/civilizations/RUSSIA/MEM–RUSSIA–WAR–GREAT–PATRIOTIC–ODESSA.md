@@ -248,7 +248,7 @@ Russian (≥10):
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC — parent conflict
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC–SEVASTOPOL — garrison destination
 • MEM–RUSSIA–BLACK–SEA–FLEET — naval support
-• MEM–RUSSIA–1941–CATASTROPHE — strategic context
+• MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA — strategic context
 • MEM–RUSSIA–HERO–CITIES — legitimacy category
 • MEM–RUSSIA–COASTAL–ARMY — defending force
 • MEM–RUSSIA–NAVAL–INFANTRY — specialized troops

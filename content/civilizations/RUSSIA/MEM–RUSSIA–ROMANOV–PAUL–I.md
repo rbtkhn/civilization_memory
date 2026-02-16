@@ -146,18 +146,18 @@ XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 RUSSIA (≥10):
 • MEM–RUSSIA–ROMANOV–CATHERINE–II — elite compact formation predecessor
 • MEM–RUSSIA–ROMANOV–ALEXANDER–I — post-paternal stabilization successor
-• MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance limits
+• MEM–RUSSIA–ROMANOV–DYNASTY — dynastic performance limits
 • MEM–RUSSIA–ROMANOV–PETER–I — discipline model reference
 • MEM–RUSSIA–ROMANOV–ELIZABETH — restraint predecessor contrast
 • MEM–RUSSIA–GUARDS–COUPS — palace revolution mechanism
 • MEM–RUSSIA–NOBILITY — elite compact breach
-• MEM–RUSSIA–SERFDOM — compulsory service reassertion
+• MEM–RUSSIA–LAW–SERFDOM — compulsory service reassertion
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — sacral legitimacy claims
 • MEM–RUSSIA–NAPOLEONIC–WARS — foreign policy context
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–ST–PETERSBURG — court and assassination site
-• MEM–RUSSIA–GEO–GATCHINA — personal retreat and drill center
+• MEM–RUSSIA–PETERSBURG — court and assassination site
+• MEM–RUSSIA–PETERSBURG — court region; Gatchina retreat nearby
 
 Cross-civilizational:
 • MEM–FRANCIA–THERMIDOR — elite correction via violence

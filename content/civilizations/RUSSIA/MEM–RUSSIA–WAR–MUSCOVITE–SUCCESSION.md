@@ -369,11 +369,11 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–BOYAR–DUMA — emerging political class
 • MEM–RUSSIA–GALICH — base of the Shemyaka opposition
 • MEM–RUSSIA–TRINITY–MONASTERY — site of Vasily II's capture
-• MEM–RUSSIA–TIME–OF–TROUBLES — later succession crisis with echoes
+• MEM–RUSSIA–TIME–TROUBLES — later succession crisis with echoes
 
 GEO–MEM (≥2):
-• MEM–RUSSIA–GEO–MOSCOW–KREMLIN — seat of contested power
-• MEM–RUSSIA–GEO–VOLGA–REGION — Tatar political influence zone
+• MEM–RUSSIA–MOSCOW–KREMLIN — seat of contested power
+• MEM–RUSSIA–GEO–VOLGA–RIVER — Tatar political influence zone
 
 Cross-civilizational:
 • MEM–STEPPE–SUCCESSION–ARBITRATION — Horde role in Rus' politics

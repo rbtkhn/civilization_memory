@@ -95,7 +95,7 @@ Primary MEMs:
 Secondary MEMs:
 • MEM–RUSSIA–LENIN — Provisional Government collapse through sequential abandonment
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — Elite destruction creating cascading institutional failure
-• MEM–RUSSIA–DYNASTY–ROMANOV — Recurring succession vulnerability across 304 years
+• MEM–RUSSIA–ROMANOV–DYNASTY — Recurring succession vulnerability across 304 years
 
 ────────────────────────────────────────────────────────────
 IV. SETTLEMENT PRECEDENT / DIPLOMATIC NEGOTIATION
@@ -189,7 +189,7 @@ Primary MEMs:
 Secondary MEMs:
 • MEM–RUSSIA–GORBACHEV — Personal reform initiative exceeding institutional absorptive capacity
 • MEM–RUSSIA–ROMANOV–ALEXANDER–II — Tsar as personal target when reform creates expectation gaps
-• MEM–RUSSIA–DYNASTY–ROMANOV — 304-year pattern of succession vulnerability at personalist transitions
+• MEM–RUSSIA–ROMANOV–DYNASTY — 304-year pattern of succession vulnerability at personalist transitions
 
 ────────────────────────────────────────────────────────────
 VIII. LEGITIMACY / CIVILIZATIONAL CONTINUITY
@@ -201,7 +201,7 @@ Primary MEMs:
 • MEM–RUSSIA–MOSCOW — Third Rome doctrine; autocratic centre encoding
   durable governance patterns; sacral-political legitimacy
   [concepts: sacral_legitimacy, civilizational_grammar, fragment_inheritance]
-• MEM–RUSSIA–DYNASTY–ROMANOV — Legitimacy through institutional
+• MEM–RUSSIA–ROMANOV–DYNASTY — Legitimacy through institutional
   persistence; 304-year continuity claim across ruptures
   [concepts: legitimacy_through_continuity, succession_crisis, civilizational_grammar]
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — Legitimacy redefined from divine
@@ -282,7 +282,7 @@ legitimacy_through_suffering:
   WAR–NAPOLEON, LENINGRAD, BARBAROSSA, CRIMEA (subject), CONGRESS–VIENNA
 
 coercive_enforcement:
-  DYNASTY–ROMANOV–PETER–I, IVAN–IV, STALIN, GOLDEN–HORDE, LAW–SERFDOM, LENIN
+  ROMANOV–PETER–I, IVAN–IV, STALIN, GOLDEN–HORDE, LAW–SERFDOM, LENIN
 
 reform_failure:
   WAR–CRIMEAN, NICHOLAS–II, GORBACHEV, ALEXANDER–II, LAW–EMANCIPATION
@@ -294,10 +294,10 @@ personal_exposure:
   PUTIN, NICHOLAS–II, IVAN–IV, STALIN, ALEXANDER–II
 
 succession_crisis:
-  TIME–TROUBLES, IVAN–IV, NICHOLAS–II, DYNASTY–ROMANOV
+  TIME–TROUBLES, IVAN–IV, NICHOLAS–II, ROMANOV–DYNASTY
 
 corridor_control:
-  GEO–BALTIC–SEA, GEO–BLACK–SEA, GEO–CRIMEA, GOLDEN–HORDE, DYNASTY–ROMANOV–PETER–I,
+  GEO–BALTIC–SEA, GEO–BLACK–SEA, GEO–CRIMEA, GOLDEN–HORDE, ROMANOV–PETER–I,
   WAR–RUSSO–TURKISH
 
 balance_of_power:
@@ -310,7 +310,7 @@ compression_under_pressure:
   WAR–NAPOLEON, BARBAROSSA, LENINGRAD, STALIN
 
 continuity_through_rupture:
-  DYNASTY–ROMANOV–PETER–I, BOLSHEVIK–REVOLUTION, LENIN
+  ROMANOV–PETER–I, BOLSHEVIK–REVOLUTION, LENIN
 
 legitimacy_rupture:
   BOLSHEVIK–REVOLUTION, GORBACHEV, TIME–TROUBLES, LENIN
@@ -337,7 +337,7 @@ scientist_as_restraint_voice:
   SCI–SAKHAROV, PANIN
 
 institutionalisation_after_rupture:
-  SCI–LOMONOSOV, DYNASTY–ROMANOV–PETER–I
+  SCI–LOMONOSOV, ROMANOV–PETER–I
 
 order_and_system:
   SCI–MENDELEEV

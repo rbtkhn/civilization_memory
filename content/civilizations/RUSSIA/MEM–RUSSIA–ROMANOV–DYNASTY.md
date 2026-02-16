@@ -1,9 +1,9 @@
-MEM–RUSSIA–DYNASTY–ROMANOV — v3.1
+MEM–RUSSIA–ROMANOV–DYNASTY — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · 100% COMPLIANT
 Status: ACTIVE · CANONICAL
 Version: 3.1
-Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV v3.0
+Supersedes: MEM–RUSSIA–ROMANOV–DYNASTY v3.0
 Upgrade Type: CONTENT · LIEVEN TOWARDS THE FLAME VERBATIM (Section IX)
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: AUTOCRATIC EMPIRE · POST-CRISIS RESTORATION → SYSTEMIC OVERLOAD
@@ -348,17 +348,17 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — unbuffered autocracy
 • MEM–RUSSIA–MUSCOVY — compression substrate
 • MEM–RUSSIA–TIME–TROUBLES — collapse baseline
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic exhaustion
-• MEM–RUSSIA–ORTHODOX–CHURCH — identity endurance
-• MEM–RUSSIA–SOVIET–STATE — buffer inheritance without sacrality
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic exhaustion (Rurikid arc)
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — identity endurance
+• MEM–RUSSIA–SOVIET–UNION — buffer inheritance without sacrality
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival logic precursor
 • MEM–RUSSIA–GOLDEN–HORDE — coercive training substrate
 • MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
 • MEM–RUSSIA–ROMANOV–PETER–I — buffer stress test exemplar
 
 GEO (≥2):
-• MEM–RUSSIA–GEO–MOSCOW — administrative center
-• MEM–RUSSIA–GEO–ST–PETERSBURG — imperial projection capital
+• MEM–RUSSIA–MOSCOW — administrative center
+• MEM–RUSSIA–PETERSBURG — imperial projection capital
 
 These establish Romanovs as a repair-and-delay dynasty.
 
@@ -390,7 +390,7 @@ XVI. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
 ────────────────────────────────────────────────────────────
 When ingested without CIV–MEM–CORE present, the system MUST issue:
 
-“MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–ROMANOV
+“MEM INGEST CONFIRMED — MEM–RUSSIA–ROMANOV–DYNASTY
 Status: ACTIVE
 Exploration options available.”
 
@@ -407,5 +407,5 @@ MANDATORY EXPLORATION OPTIONS (EXACTLY 8):
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV v3.0
+END OF FILE — MEM–RUSSIA–ROMANOV–DYNASTY v3.1
 ────────────────────────────────────────────────────────────

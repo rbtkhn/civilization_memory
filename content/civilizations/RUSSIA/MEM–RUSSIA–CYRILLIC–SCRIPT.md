@@ -240,18 +240,18 @@ Same-civilization connections (≥10):
 
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — faith transmission layer
 • MEM–RUSSIA–HIST–PRIMARY–CHRONICLE — narrative encoded in script
-• MEM–RUSSIA–DYNASTY–RURIKID — dynastic legitimacy replication
+• MEM–RUSSIA–NOVGOROD–RURIK — dynastic legitimacy replication (Rurikid arc)
 • MEM–RUSSIA–KIEVAN–RUS — early script adoption zone
 • MEM–RUSSIA–KIEVAN–RUS–VLADIMIR–I — baptismal hinge
 • MEM–RUSSIA–MONGOL–EMPIRE — collapse with script persistence
 • MEM–RUSSIA–MUSCOVY — script centralization
 • MEM–RUSSIA–ROMANOV — imperial standardization
-• MEM–RUSSIA–SOVIET–STATE — ideological override failure
+• MEM–RUSSIA–SOVIET–UNION — ideological override failure
 • MEM–RUSSIA–LAW — textual authority logic
 
 GEO MEMs:
-• MEM–RUSSIA–GEO–DNIEPER
-• MEM–RUSSIA–GEO–VOLGA
+• MEM–RUSSIA–GEO–DNEIPER–RIVER
+• MEM–RUSSIA–GEO–VOLGA–RIVER
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

@@ -269,16 +269,16 @@ XII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary historical context encoded in literary memory
-• MEM–RUSSIA–WAR–BORODINO — battle transformed into literary symbol
+• MEM–RUSSIA–WAR–NAPOLEON–BORODINO — battle transformed into literary symbol
 • MEM–RUSSIA–KUTUZOV — commander transformed into literary archetype
 • MEM–RUSSIA–ROMANOV–ALEXANDER–I — tsar's role in literary vs operational memory
-• MEM–RUSSIA–WAR–AUSTERLITZ — contrast: literary memory of defeat
-• MEM–RUSSIA–DYNASTY–ROMANOV — elite culture vs popular experience
+• MEM–RUSSIA–WAR–NAPOLEON–AUSTERLITZ — contrast: literary memory of defeat
+• MEM–RUSSIA–ROMANOV–DYNASTY — elite culture vs popular experience
 • MEM–RUSSIA–LIT–DOSTOEVSKY — contrast: historical vs psychological memory architecture
 • MEM–RUSSIA–LIT–PUSHKIN — literary language foundation preceding Tolstoy
-• MEM–RUSSIA–SERFDOM — social structure encoded in War and Peace
+• MEM–RUSSIA–LAW–SERFDOM — social structure encoded in War and Peace
 • MEM–RUSSIA–ARISTOCRACY — elite culture and moral tension in Anna Karenina
-• MEM–RUSSIA–ORTHODOXY — late religious conversion and moral philosophy
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — late religious conversion and moral philosophy
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — landscape of endurance in literary memory

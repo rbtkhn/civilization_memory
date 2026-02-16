@@ -288,13 +288,13 @@ Same-Civilization (RUSSIA) — ≥10 required:
 • MEM–RUSSIA–WAR–CRIMEAN — earlier modernization failure parallel
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — long-term imperial rivalry context
 • MEM–RUSSIA–WAR–LIVONIAN — premature expansion precedent
-• MEM–RUSSIA–WAR–POLTAVA — endurance success contrast
+• MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — endurance success contrast
 • MEM–RUSSIA–ROMANOV–NICHOLAS–II — war initiator and regime architect
-• MEM–RUSSIA–REVOLUTION–1905 — direct revolutionary consequence
-• MEM–RUSSIA–REVOLUTION–1917 — long-term regime collapse
-• MEM–RUSSIA–NAVY — naval catastrophe and institutional failure
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — direct revolutionary precedent (1905 trigger)
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — long-term regime collapse
+• MEM–RUSSIA–SEVASTOPOL — naval catastrophe parallel; institutional failure
 • MEM–RUSSIA–TRANS–SIBERIAN — logistical constraint and infrastructure
-• MEM–RUSSIA–WITTE — diplomatic settlement and reform advocate
+• MEM–RUSSIA–ROMANOV–NICHOLAS–II — diplomatic settlement period; reform advocate context
 • MEM–RUSSIA–AUTOCRACY — legitimacy erosion mechanism
 
 GEO–MEM (REQUIRED) — ≥2 required:

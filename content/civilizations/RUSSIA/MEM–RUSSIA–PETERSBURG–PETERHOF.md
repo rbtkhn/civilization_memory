@@ -262,7 +262,7 @@ Russian (≥10):
 • MEM–RUSSIA–WWII–SIEGE–LENINGRAD — destruction context
 • MEM–RUSSIA–ART–HERMITAGE — parallel imperial collection
 • MEM–RUSSIA–IMPERIAL–NAVY — Baltic orientation
-• MEM–RUSSIA–DYNASTY–ROMANOV — court residence function
+• MEM–RUSSIA–ROMANOV–DYNASTY — court residence function
 • MEM–RUSSIA–RASTRELLI — architect (Elizabeth period)
 
 GEO–MEM (≥2):

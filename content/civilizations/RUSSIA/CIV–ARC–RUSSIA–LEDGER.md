@@ -81,8 +81,8 @@ LIEVEN, Dominic
   *Russia's Rulers Under the Old Regime* (1989)
   ARC-T: ARC-T-MODERN
   Citations: 47
-  MEMs: WAR–NAPOLEON, WAR–BORODINO, KUTUZOV, ALEXANDER–I, DYNASTY–ROMANOV,
-        DYNASTY–RURIKID, CRIMEA, GEO–URALS, GEO–DON–RIVER, GEO–CAUCASUS,
+  MEMs: WAR–NAPOLEON, WAR–BORODINO, KUTUZOV, ALEXANDER–I, ROMANOV–DYNASTY,
+        NOVGOROD–RURIK (Rurikid arc), CRIMEA, GEO–URALS, GEO–DON–RIVER, GEO–CAUCASUS,
         GEO–TUNDRA, GEO–WHITE–SEA, GEO–GULF–FINLAND, GEO–CARPATHIANS,
         GEO–AMUR–RIVER, GEO–VISTULA–RIVER, GEO–ATLANTIC–OCEAN, POLAND,
         UKRAINE, FINLAND, JAPAN, OTTOMAN–EMPIRE, BELARUS, WAR–RUSSO–PERSIAN,
@@ -94,7 +94,7 @@ HOSKING, Geoffrey
   *Russia and the Russians: A History* (2001)
   ARC-T: ARC-T-MODERN
   Citations: 32
-  MEMs: DYNASTY–RURIKID, THIRD–ROME, ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
+  MEMs: NOVGOROD–RURIK (Rurikid arc), THIRD–ROME, ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
         GEO–URALS, GEO–DON–RIVER, GEO–CAUCASUS, GEO–TUNDRA, GEO–WHITE–SEA,
         GEO–GULF–FINLAND, POLAND, UKRAINE, FINLAND, OTTOMAN–EMPIRE, BELARUS,
         WAR–GREAT–TURKISH, WAR–RUSSO–PERSIAN, WAR–SIBIR–KHANATE,
@@ -106,7 +106,7 @@ FIGES, Orlando
   *The Crimean War: A History* (2010)
   ARC-T: ARC-T-MODERN
   Citations: 18
-  MEMs: DYNASTY–ROMANOV, ORTHODOX–CHRISTIANITY, SIBERIA, CRIMEA,
+  MEMs: ROMANOV–DYNASTY, ORTHODOX–CHRISTIANITY, SIBERIA, CRIMEA,
         LENIN, STALIN, WAR–CRIMEAN, +11 others
 
 PIPES, Richard
@@ -114,15 +114,15 @@ PIPES, Richard
   *The Russian Revolution* (1990)
   ARC-T: ARC-T-MODERN
   Citations: 14
-  MEMs: DYNASTY–RURIKID, LAW–SERFDOM, LENIN, STALIN, MUSCOVY,
-        IVAN–IV, DYNASTY–ROMANOV–PETER–I, +7 others
+  MEMs: NOVGOROD–RURIK (Rurikid arc), LAW–SERFDOM, LENIN, STALIN, MUSCOVY,
+        IVAN–IV, ROMANOV–PETER–I, +7 others
 
 MASSIE, Robert K.
   *Peter the Great: His Life and World* (1980)
   *Catherine the Great: Portrait of a Woman* (2011)
   ARC-T: ARC-T-MODERN
   Citations: 13
-  MEMs: DYNASTY–ROMANOV, DYNASTY–ROMANOV–PETER–I, CATHERINE–GREAT, SWEDEN,
+  MEMs: ROMANOV–DYNASTY, ROMANOV–PETER–I, CATHERINE–GREAT, SWEDEN,
         WAR–RUSSO–PERSIAN, WAR–GREAT–NORTHERN–NARVA, OTTOMAN–EMPIRE,
         WAR–POLTAVA, +5 others
 
@@ -168,7 +168,7 @@ BUSHKOVITCH, Paul
   *Peter the Great: The Struggle for Power* (2001)
   ARC-T: ARC-T-MODERN
   Citations: 7
-  MEMs: DYNASTY–ROMANOV, SWEDEN, DYNASTY–ROMANOV–PETER–I, ALEXEI–ROMANOV,
+  MEMs: ROMANOV–DYNASTY, SWEDEN, ROMANOV–PETER–I, ALEXEI–ROMANOV,
         MICHAEL–ROMANOV, +2 others
 
 FRANKLIN, Simon & SHEPARD, Jonathan
@@ -188,7 +188,7 @@ HUGHES, Lindsey
   *Russia in the Age of Peter the Great* (1998)
   ARC-T: ARC-T-MODERN
   Citations: 6
-  MEMs: DYNASTY–ROMANOV–PETER–I, WAR–GREAT–NORTHERN–NARVA, WAR–GREAT–TURKISH,
+  MEMs: ROMANOV–PETER–I, WAR–GREAT–NORTHERN–NARVA, WAR–GREAT–TURKISH,
         SWEDEN, FYODOR–III, +1 other
 
 PLOKHY, Serhii
@@ -222,7 +222,7 @@ MONTEFIORE, Simon Sebag
   *Catherine the Great and Potemkin* (2000)
   ARC-T: ARC-T-MODERN
   Citations: 5
-  MEMs: NICHOLAS–II, POTEMKIN, DYNASTY–ROMANOV, +2 others
+  MEMs: NICHOLAS–II, POTEMKIN, ROMANOV–DYNASTY, +2 others
 
 APPLEBAUM, Anne
   *Gulag: A History* (2003)
@@ -296,9 +296,9 @@ KLYUCHEVSKY, Vasily (1841–1911)
   *Course of Russian History* (5 vols, 1904–1922)
   ARC-T: ARC-T-EARLY-MOD
   Citations: 12
-  MEMs: DYNASTY–RURIKID, ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
+  MEMs: NOVGOROD–RURIK (Rurikid arc), ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
         WAR–GREAT–TURKISH, WAR–RUSSO–PERSIAN, WAR–LITHUANIAN–MUSCOVITE,
-        WAR–LIVONIAN–CRUSADE, DYNASTY–ROMANOV–PETER–I, +4 others
+        WAR–LIVONIAN–CRUSADE, ROMANOV–PETER–I, +4 others
 
   PRECEDENCE NOTE: Klyuchevsky's interpretations have higher authority
   than ARC-T-MODERN scholars. Modern scholars may FRAME but not OVERRIDE
@@ -308,8 +308,8 @@ SOLOVYOV, Sergei (1820–1879)
   *History of Russia from the Earliest Times* (29 vols, 1851–1879)
   ARC-T: ARC-T-EARLY-MOD
   Citations: 10
-  MEMs: DYNASTY–RURIKID, ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
-        WAR–LITHUANIAN–MUSCOVITE, DYNASTY–ROMANOV–PETER–I, +5 others
+  MEMs: NOVGOROD–RURIK (Rurikid arc), ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
+        WAR–LITHUANIAN–MUSCOVITE, ROMANOV–PETER–I, +5 others
 
   PRECEDENCE NOTE: As foundational historiographer, Solovyov's documentary
   work anchors narrative structures even when modern interpretations diverge.
@@ -318,7 +318,7 @@ KARAMZIN, Nikolai (1766–1826)
   *History of the Russian State* (12 vols, 1818–1829)
   ARC-T: ARC-T-EARLY-MOD
   Citations: 6
-  MEMs: DYNASTY–RURIKID, IVAN–III, IVAN–IV, WAR–LIVONIAN–CRUSADE, +2 others
+  MEMs: NOVGOROD–RURIK (Rurikid arc), IVAN–III, IVAN–IV, WAR–LIVONIAN–CRUSADE, +2 others
 
   PRECEDENCE NOTE: First systematic Russian historiography. Literary style
   established narrative conventions still visible in Russian self-understanding.
@@ -350,7 +350,7 @@ THE RUSSIAN PRIMARY CHRONICLE (Повесть временных лет)
   Original: c. 1113 (Nestor, Sylvester)
   ARC-T: ARC-T-MEDIEVAL
   Citations: 4 (via Cross/Sherbowitz-Wetzor translation)
-  MEMs: VARANGIANS, OLEG–NOVGOROD, KIEV, DYNASTY–RURIKID
+  MEMs: VARANGIANS, OLEG–NOVGOROD, KIEV, NOVGOROD–RURIK (Rurikid arc)
 
   PRECEDENCE: HIGHEST for narrative of Rus' origins.
   Modern interpretations MUST defer to Chronicle account unless

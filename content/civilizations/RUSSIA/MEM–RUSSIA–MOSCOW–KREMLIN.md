@@ -281,17 +281,17 @@ Russian (≥10):
 • MEM–RUSSIA–MOSCOW — city context
 • MEM–RUSSIA–MUSCOVY–IVAN–III — builder of current walls
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — Muscovite power consolidation
-• MEM–RUSSIA–DYNASTY–ROMANOV — coronation site
+• MEM–RUSSIA–ROMANOV–DYNASTY — coronation site
 • MEM–RUSSIA–ROMANOV–PETER–I — capital relocation contrast
 • MEM–RUSSIA–LENIN — Soviet occupation
 • MEM–RUSSIA–STALIN — power concentration
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — cathedral function
-• MEM–RUSSIA–REVOLUTION–1917 — transition moment
+• MEM–RUSSIA–BOLSHEVIK–REVOLUTION — transition moment
 • MEM–RUSSIA–PETERSBURG — rival capital
 
 GEO–MEM (≥2):
-• MEM–RUSSIA–GEO–MOSCOW–RIVER — defensive position
-• MEM–RUSSIA–GEO–CENTRAL–RUSSIA — heartland location
+• MEM–RUSSIA–GEO–MOSKVA–RIVER — defensive position
+• MEM–RUSSIA–MOSCOW — heartland location
 
 Cross-civilizational:
 • MEM–ITALIA–RENAISSANCE–ARCHITECTURE — Italian architects

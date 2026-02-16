@@ -271,7 +271,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–WWI — wartime revival
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC — Lend-Lease destination
 • MEM–RUSSIA–LEND–LEASE — Allied supply route
-• MEM–RUSSIA–NAVY — shipbuilding center
+• MEM–RUSSIA–GEO–WHITE–SEA — shipbuilding center
 • MEM–RUSSIA–TRADE–ROUTES — commercial significance
 • MEM–RUSSIA–POMOR — northern cultural context
 

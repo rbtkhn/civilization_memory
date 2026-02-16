@@ -539,12 +539,12 @@ Same-civilization (≥10):
 • MEM–RUSSIA–MUSCOVY–IVAN–IV — autocracy precedent without buffers
 • MEM–RUSSIA–MUSCOVY — coercive state inheritance
 • MEM–RUSSIA–ROMANOV–DYNASTY — dynastic succession framework
-• MEM–RUSSIA–STRELTSY — elite resistance and suppression
+• MEM–RUSSIA–TIME–TROUBLES — elite resistance and suppression (Streltsy)
 • MEM–RUSSIA–GREAT–NORTHERN–WAR — military validation of reform
-• MEM–RUSSIA–ORTHODOX–CHURCH — subordination of ecclesiastical power
-• MEM–RUSSIA–SERFDOM — labor extraction for modernization
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — subordination of ecclesiastical power
+• MEM–RUSSIA–LAW–SERFDOM — labor extraction for modernization
 • MEM–RUSSIA–TABLE–RANKS — meritocratic service hierarchy
-• MEM–RUSSIA–NAVY — Baltic power projection
+• MEM–RUSSIA–GEO–BALTIC–SEA — Baltic power projection
 • MEM–RUSSIA–HOLY–SYNOD — ecclesiastical subordination (1721)
 
 GEO (≥2):

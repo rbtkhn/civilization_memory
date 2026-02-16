@@ -258,7 +258,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–SIBERIA — expansion enabled by Kazan
 • MEM–RUSSIA–YERMAK — Siberian conquest following Volga control
 • MEM–RUSSIA–MUSCOVY — pre-imperial state transformed
-• MEM–RUSSIA–ORTHODOXY — religious dimension of conquest
+• MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious dimension of conquest
 • MEM–RUSSIA–ST–BASIL — commemorative cathedral
 • MEM–RUSSIA–OPRICHNINA — subsequent phase of Ivan's reign
 • MEM–RUSSIA–TATARSTAN — contemporary federal entity
