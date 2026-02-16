@@ -116,7 +116,7 @@ Assumed Priors: NONE
 Civilizational Grammar: NOT PRELOADED
 CIV–CORE Influence: DISABLED
 
-The Scholar learns only from MEM files explicitly ingested.
+The SCHOLAR learns only from MEM files explicitly ingested.
 Absence of ingestion equals absence of belief.
 
 ────────────────────────────────────────────────────────────

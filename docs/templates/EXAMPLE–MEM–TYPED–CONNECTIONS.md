@@ -44,7 +44,7 @@ II. CONNECTION TYPES SUMMARY
 ────────────────────────────────────────────────────────────
 III. FORMAT DEMONSTRATION
 ────────────────────────────────────────────────────────────
-Below is an example of how a real MEM (e.g., MEM–RUSSIA–PETER–GREAT)
+Below is an example of how a real MEM (e.g., MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I)
 would structure its connections:
 
 ────────────────────────────────────────────────────────────
@@ -82,7 +82,7 @@ TEMPORAL_BEFORE:
 
 TEMPORAL_AFTER:
 • MEM–RUSSIA–ANNA
-• MEM–RUSSIA–ELIZABETH
+• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH
 • MEM–RUSSIA–PETER–III
 
 ────────────────────────────────────────────────────────────

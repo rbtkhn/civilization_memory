@@ -218,7 +218,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–GOLDEN–HORDE — church preservation under non-Christian overlordship
 • MEM–RUSSIA–MUSCOVY — Moscow as Orthodox center after Mongol period
 • MEM–RUSSIA–TIME–TROUBLES — church as continuity institution during dynastic collapse
-• MEM–RUSSIA–PETER–GREAT — state subordination of church; modernization tension
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — state subordination of church; modernization tension
 
 GEO (≥2):
 • MEM–GEO–CONSTANTINOPLE — source city of Orthodox legitimacy and sacral transfer

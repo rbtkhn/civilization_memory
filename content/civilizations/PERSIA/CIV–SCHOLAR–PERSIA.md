@@ -136,7 +136,7 @@ XV. INITIAL STATE
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § XV equivalent)
 
-Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–PERSIA files explicitly ingested. Absence of ingestion equals absence of belief.
+Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The SCHOLAR learns only from MEM–PERSIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
 Source MEMs available (CIV–INDEX–PERSIA, 34 total): Cyrus-I, Dynasty–Achaemenid, Dynasty–Sasanian, Medes, Satrapies; Zoroaster, Darius-I; Islam, Islamic–Republic; GEO–Caspian, GEO–Persian–Gulf, GEO–Indian–Ocean, GEO–Levant, Silk–Road, Armenia, Persepolis, Egypt; Babylon, Lydia, Dynasty–Achaemenid–Cambyses–II, Dynasty–Achaemenid–Xerxes, Dynasty–Achaemenid–Darius–III, Empire–Ardashir–I, Empire–Shapur–I, Empire–Khosrow–II; Ionian–Revolt, WAR–Marathon, WAR–Thermopylae, WAR–Scythian, WAR–Alexander, WAR–Carrhae, WAR–Rome; Mongol–Empire, Palmyra.
 

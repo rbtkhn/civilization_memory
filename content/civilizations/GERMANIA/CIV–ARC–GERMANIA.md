@@ -82,6 +82,16 @@ ARC does NOT govern:
 • How to evaluate quote quality (see EQS in MEM–TEMPLATE)
 • Evidence role classification (see ERC in MEM–TEMPLATE)
 
+**Indigenous-language quote requirement (MEM–GERMANIA):** Each
+MEM–GERMANIA file MUST contain at least one verbatim quote (≥25 words)
+from an indigenous-language source admissible for this requirement.
+Admissible sources: Einhard (Vita Karoli Magni), Widukind of Corvey,
+Thietmar of Merseburg, Adam of Bremen, Helmold of Bosau, Otto of
+Freising, Annals of Fulda (ARC-T-MEDIEVAL); Johann Gottfried Herder,
+Leopold von Ranke, Heinrich von Treitschke (ARC-T-EARLY-MOD). English
+translation with clear source attribution is sufficient. Per
+CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -360,6 +370,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • Bruegel — bruegel.org
   Authoritative For: European economic policy, energy, fiscal integration
   Editorial Note: Brussels-based; funded by EU member states; pro-integration
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Germania. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–GERMANIA v3.0

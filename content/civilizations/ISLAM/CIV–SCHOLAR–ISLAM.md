@@ -139,7 +139,7 @@ XV. INITIAL STATE
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XV equivalent)
 
-Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–ISLAM files explicitly ingested. Absence of ingestion equals absence of belief.
+Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The SCHOLAR learns only from MEM–ISLAM files explicitly ingested. Absence of ingestion equals absence of belief.
 
 Source MEMs available (CIV–INDEX–ISLAM v3.0): MEM–ISLAM–MOHAMMAD, MEM–ISLAM–SALADIN, MEM–ISLAM–SUNNI, MEM–ISLAM–SHIA; dynasties (Rashidun, Umayyad, Abbasid, Fatimid, Seljuk, Ayyubid, Mamluk, Ottoman, Safavid, Mughal); city MEMs (Mecca, Medina, Jerusalem, Damascus, Baghdad, Cairo, Cordoba, Constantinople); MEM–ISLAM–CRUSADES, MEM–ISLAM–WAR–AYN–JALUT, MEM–ISLAM–WAR–THIRD–CRUSADE, MEM–ISLAM–MONGOL–EMPIRE, MEM–ISLAM–CALIPHATE–ABOLITION, MEM–ISLAM–ASSASSINS, MEM–ISLAM–DYNASTY–KHWARAZM; GEO–MEMs (Sicily, Kashmir, Xinjiang, Persian–Gulf, Hormuz–Strait, Indian–Ocean, Red–Sea, Mediterranean–Sea, Black–Sea, Caspian–Sea, Levant, Balkans, Iberia, Malacca–Strait, Nile–River, Tigris–River, Euphrates–River, Indus–River, Arabia, Caucasus, Pacific–Ocean, Atlantic–Ocean); MEM–ISLAM–SILK–ROAD (transmission corridor).
 

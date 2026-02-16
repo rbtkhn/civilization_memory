@@ -139,7 +139,7 @@ XV. INITIAL STATE
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v3.0 § XV equivalent)
 
-Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–CHINA files explicitly ingested. Absence of ingestion equals absence of belief.
+Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The SCHOLAR learns only from MEM–CHINA files explicitly ingested. Absence of ingestion equals absence of belief.
 
 Source MEMs available (CIV–INDEX–CHINA v3.0; full registry 68 MEMs):
 • DYNASTY: MEM–CHINA–DYNASTY–XIA, MEM–CHINA–DYNASTY–SHANG, MEM–CHINA–DYNASTY–ZHOU, MEM–CHINA–DYNASTY–QIN, MEM–CHINA–DYNASTY–HAN, MEM–CHINA–DYNASTY–JIN, MEM–CHINA–DYNASTY–LIAO, MEM–CHINA–DYNASTY–SUI, MEM–CHINA–DYNASTY–TANG, MEM–CHINA–DYNASTY–SONG, MEM–CHINA–DYNASTY–YUAN, MEM–CHINA–DYNASTY–MING, MEM–CHINA–DYNASTY–QING

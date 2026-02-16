@@ -255,7 +255,7 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
 • MEM–RUSSIA–CATHERINE–GREAT — founder, primary driver of acquisition
-• MEM–RUSSIA–PETER–GREAT — European integration impulse preceding Hermitage
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — European integration impulse preceding Hermitage
 • MEM–RUSSIA–DYNASTY–ROMANOV — imperial patronage and collection growth
 • MEM–RUSSIA–NICHOLAS–II — final imperial patron
 • MEM–RUSSIA–REVOLUTION–1917 — nationalization and transformation

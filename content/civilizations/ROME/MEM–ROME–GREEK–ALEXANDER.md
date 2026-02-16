@@ -272,7 +272,7 @@ GEO (≥2):
 • MEM–ROME–GEO–ANATOLIA — Seleucid/Roman transition zone
 
 Cross-civilizational (≥2):
-• MEM–RUSSIA–PETER–GREAT — parallel "Great" transformer who used external
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — parallel "Great" transformer who used external
   archetypes to force civilizational rupture
 • MEM–PERSIA–WAR–ALEXANDER — Persian perspective on the same events
 

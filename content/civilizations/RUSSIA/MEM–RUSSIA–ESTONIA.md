@@ -425,7 +425,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–LATVIA — neighboring Baltic state
 • MEM–RUSSIA–LITHUANIA — Baltic NATO trio
 • MEM–RUSSIA–SWEDEN — Baltic rival, now NATO
-• MEM–RUSSIA–PETER–GREAT — 1710 conquest
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — 1710 conquest
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — strategic context
 • MEM–RUSSIA–ST–PETERSBURG — city defended by Estonian buffer
 • MEM–RUSSIA–NOVGOROD — medieval Chud/Estonian contacts

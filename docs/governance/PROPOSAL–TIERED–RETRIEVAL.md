@@ -81,7 +81,7 @@ B) TYPED CONNECTION TRAVERSAL
 Follow connection edges from known MEMs:
 
 ```
-Starting: MEM–RUSSIA–PETER–GREAT
+Starting: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
 
 DEPENDS_ON → MEM–RUSSIA–IVAN–IV (coercive apparatus)
 ENABLES → MEM–RUSSIA–CATHERINE–GREAT (consolidation)
@@ -268,7 +268,7 @@ Web Fallback Value:
 ```
 Scenario: "What if Peter pursued Baltic access diplomatically?"
 
-MEM Search → MEM–RUSSIA–PETER–GREAT (actual approach)
+MEM Search → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (actual approach)
              corridor_control concept
              
 Web Fallback → Current Baltic geopolitics

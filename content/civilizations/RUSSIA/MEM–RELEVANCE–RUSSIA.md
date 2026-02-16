@@ -68,8 +68,8 @@ Primary MEMs:
   [concepts: reform_failure, mechanism_exposure]
 
 Secondary MEMs:
-• MEM–RUSSIA–PETER–GREAT — Coercive modernisation as fiscal state-building
-• MEM–RUSSIA–ALEXANDER–II — Reform driven by military-fiscal shock
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Coercive modernisation as fiscal state-building
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — Reform driven by military-fiscal shock
 • MEM–RUSSIA–GORBACHEV — Fiscal exhaustion contributing to systemic collapse
 
 ────────────────────────────────────────────────────────────
@@ -188,7 +188,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–GORBACHEV — Personal reform initiative exceeding institutional absorptive capacity
-• MEM–RUSSIA–ALEXANDER–II — Tsar as personal target when reform creates expectation gaps
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — Tsar as personal target when reform creates expectation gaps
 • MEM–RUSSIA–DYNASTY–ROMANOV — 304-year pattern of succession vulnerability at personalist transitions
 
 ────────────────────────────────────────────────────────────
@@ -212,7 +212,7 @@ Primary MEMs:
 
 Secondary MEMs:
 • MEM–RUSSIA–TIME–TROUBLES — Civilizational survival despite institutional collapse
-• MEM–RUSSIA–PETER–GREAT — Coercive rupture that preserves autocratic essence
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Coercive rupture that preserves autocratic essence
 • MEM–RUSSIA–CONGRESS–VIENNA — Sacrifice converted into international legitimacy
 
 ────────────────────────────────────────────────────────────
@@ -282,7 +282,7 @@ legitimacy_through_suffering:
   WAR–NAPOLEON, LENINGRAD, BARBAROSSA, CRIMEA (subject), CONGRESS–VIENNA
 
 coercive_enforcement:
-  PETER–GREAT, IVAN–IV, STALIN, GOLDEN–HORDE, LAW–SERFDOM, LENIN
+  DYNASTY–ROMANOV–PETER–I, IVAN–IV, STALIN, GOLDEN–HORDE, LAW–SERFDOM, LENIN
 
 reform_failure:
   WAR–CRIMEAN, NICHOLAS–II, GORBACHEV, ALEXANDER–II, LAW–EMANCIPATION
@@ -297,7 +297,7 @@ succession_crisis:
   TIME–TROUBLES, IVAN–IV, NICHOLAS–II, DYNASTY–ROMANOV
 
 corridor_control:
-  GEO–BALTIC–SEA, GEO–BLACK–SEA, GEO–CRIMEA, GOLDEN–HORDE, PETER–GREAT,
+  GEO–BALTIC–SEA, GEO–BLACK–SEA, GEO–CRIMEA, GOLDEN–HORDE, DYNASTY–ROMANOV–PETER–I,
   WAR–RUSSO–TURKISH
 
 balance_of_power:
@@ -310,7 +310,7 @@ compression_under_pressure:
   WAR–NAPOLEON, BARBAROSSA, LENINGRAD, STALIN
 
 continuity_through_rupture:
-  PETER–GREAT, BOLSHEVIK–REVOLUTION, LENIN
+  DYNASTY–ROMANOV–PETER–I, BOLSHEVIK–REVOLUTION, LENIN
 
 legitimacy_rupture:
   BOLSHEVIK–REVOLUTION, GORBACHEV, TIME–TROUBLES, LENIN
@@ -337,7 +337,7 @@ scientist_as_restraint_voice:
   SCI–SAKHAROV, PANIN
 
 institutionalisation_after_rupture:
-  SCI–LOMONOSOV, PETER–GREAT
+  SCI–LOMONOSOV, DYNASTY–ROMANOV–PETER–I
 
 order_and_system:
   SCI–MENDELEEV

@@ -8,7 +8,7 @@
 **Awards:** Pulitzer Prize for Biography (1981)  
 **Length:** 909 pages  
 **Research Period:** 12 years  
-**Status in ARC–RUSSIA:** Approved Category D (Modern), Primary Authority for MEM–RUSSIA–PETER–GREAT
+**Status in ARC–RUSSIA:** Approved Category D (Modern), Primary Authority for MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
 
 **CMC Assessment:** This analysis evaluates Massie's work for its analytical depth, structural explanations, and alignment with QTT–ARC standards for Category D (Modern) sources in the Civilizational Memory Codex system.
 
@@ -199,7 +199,7 @@ Empire came to Peter almost as an afterthought—an acknowledgment forced upon E
 
 ## IV. CURRENT MEM FILE USAGE ANALYSIS
 
-### A. MEM–RUSSIA–PETER–GREAT v2.1
+### A. MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I v2.1
 
 **Status:** Massie is PRIMARY modern analytical authority
 
@@ -326,7 +326,7 @@ Empire came to Peter almost as an afterthought—an acknowledgment forced upon E
 ### A. Current Usage: APPROPRIATE
 
 **Primary Authority Status:**
-- ✅ Justified for MEM–RUSSIA–PETER–GREAT (biographical focus, analytical depth)
+- ✅ Justified for MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (biographical focus, analytical depth)
 - ✅ Appropriate for Peter-specific topics (Great Northern War, St. Petersburg, modernization)
 
 **Secondary Usage:**
@@ -381,7 +381,7 @@ Empire came to Peter almost as an afterthought—an acknowledgment forced upon E
 
 4. **Limitations (academic methodology, scope) are acknowledged** but do not invalidate Massie's analytical value or QTT–ARC compliance.
 
-5. **Primary authority status in MEM–RUSSIA–PETER–GREAT is justified** given Massie's specialization, analytical depth, and Pulitzer recognition.
+5. **Primary authority status in MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I is justified** given Massie's specialization, analytical depth, and Pulitzer recognition.
 
 ### C. Final Verdict
 

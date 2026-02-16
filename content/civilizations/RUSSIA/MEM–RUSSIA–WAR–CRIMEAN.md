@@ -192,8 +192,8 @@ Same-Civilization (RUSSIA) — ≥10 required:
 • MEM–RUSSIA–WAR–RUSSO–JAPANESE — modernization failure parallel
 • MEM–RUSSIA–WAR–LIVONIAN — premature ambition contrast
 • MEM–RUSSIA–WAR–POLTAVA — endurance success contrast
-• MEM–RUSSIA–ALEXANDER–II — reform tsar responding to defeat
-• MEM–RUSSIA–PETER–GREAT — modernization precedent
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — reform tsar responding to defeat
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — modernization precedent
 • MEM–RUSSIA–NICHOLAS–I — war initiator and system architect
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious pretext for intervention
 • MEM–RUSSIA–SERFDOM — system exposed and subsequently reformed

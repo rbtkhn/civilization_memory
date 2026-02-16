@@ -306,7 +306,7 @@ Tension preserved without verdict.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–PETER–GREAT — founder, architectural vision
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — founder, architectural vision
 • MEM–RUSSIA–CATHERINE–GREAT — Hermitage founder, cultural expansion
 • MEM–RUSSIA–ART–HERMITAGE — institutional anchor
 • MEM–RUSSIA–ART–TCHAIKOVSKY — conservatory, premieres

@@ -32,6 +32,14 @@ ARC governs author admissibility and temporal precedence for
 MEM–ISLAM files only. Quotation quantity and quality are
 governed by CIV–MEM–TEMPLATE.
 
+**Indigenous-language quote requirement (MEM–ISLAM):** Each MEM–ISLAM
+file MUST contain at least one verbatim quote (≥25 words) from an
+indigenous-language source admissible for this requirement. Admissible
+sources: Qur'an (handle sacred text per CIV–MEM–CORE), Ibn Ishaq,
+Al-Bukhari, Muslim ibn al-Hajjaj, Al-Tabari, Ibn al-Athir, Baha ad-Din
+ibn Shaddad, Ibn Khaldun, Ibn Battuta. English translation with clear
+source attribution is sufficient. Per CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -231,6 +239,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • Gulf Research Center — grc.net
   Authoritative For: Gulf security, energy, migration, GCC politics
   Editorial Note: Jeddah/Geneva/Cambridge; independent; Gulf-specialist
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Islam. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–ISLAM — v3.0

@@ -354,7 +354,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–ALEXANDER–NEVSKY — survival logic precursor
 • MEM–RUSSIA–GOLDEN–HORDE — coercive training substrate
 • MEM–RUSSIA–KIEVAN–RUS — pre-compression baseline
-• MEM–RUSSIA–PETER–GREAT — buffer stress test exemplar
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — buffer stress test exemplar
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — administrative center

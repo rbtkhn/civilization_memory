@@ -170,7 +170,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–OTTOMAN — Southern imperial rivalry
 • MEM–RUSSIA–WAR–MONGOL–DOMINATION — Endurance grammar
 • MEM–RUSSIA–WAR–KULIKOVO — Symbolic resistance logic
-• MEM–RUSSIA–PETER–GREAT — Initiator of Persian campaign
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Initiator of Persian campaign
 • MEM–RUSSIA–CATHERINE–GREAT — Expansion as stabilization
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Sacral legitimacy contrast
 • MEM–RUSSIA–STATE–IMPERIAL–EXPANSION — Non-maritime empire

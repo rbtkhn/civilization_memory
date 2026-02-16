@@ -34,7 +34,7 @@
 2. **END OF FILE:** 4 files had outdated v2.x in EOF line — updated to v3.0:
    - MEM–RUSSIA–CATHERINE–GREAT
    - MEM–RUSSIA–PANIN
-   - MEM–RUSSIA–PETER–GREAT
+   - MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
    - MEM–RUSSIA–CYRILLIC–SCRIPT
 
 ---

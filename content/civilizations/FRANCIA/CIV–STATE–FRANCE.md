@@ -25,7 +25,7 @@ FOUNDATIONAL PERSPECTIVE:
 This file functions as the **shadow of the principal**: the cognitive
 exoskeleton for whoever holds the top decision-making role for France.
 Same level of access to context and stakes, same need for options and
-precedent; no formal authority. **State learns from Scholar**—the
+precedent; no formal authority. **STATE learns from SCHOLAR**—the
 historically-grounded patterns and constraint grammar accumulated in
 CIV–SCHOLAR–FRANCE inform this file. Information flows from STATE
 into Scholar only via explicit **harvest** or **harvest session**

@@ -19,7 +19,7 @@ Governed by:
 • CIV–MEM–CORE v3.0
 • CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
-• Recursive Learning Ledger (RLL–0001, RLL–0003, RLL–0005)
+• Recursive Learning Ledger (RLL–0001, RLL–0003, RLL–0005, RLL–0034)
 
 SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a SPARSE SOURCES subject.
@@ -115,6 +115,11 @@ Critical clarification:
 RLL–0003 binding:
 → In Russian formation, corridor and coercion precede sacral and legal
    legitimacy.
+
+RLL–0034 (step 4): Ivan III is the decisive internalisation actor—
+elimination of plural centres (Novgorod veche silenced, "one sovereign
+and not many lords"); takeover of Horde-era tribute and census
+machinery (Sofia First Chronicle).
 
 ────────────────────────────────────────────────────────────
 V. THE END OF THE TATAR YOKE (OUTLASTING, NOT REVOLT)

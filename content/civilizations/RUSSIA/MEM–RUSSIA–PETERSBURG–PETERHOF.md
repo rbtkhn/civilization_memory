@@ -254,10 +254,10 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–PETER–GREAT — founder, vision
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — founder, vision
 • MEM–RUSSIA–PETERSBURG — capital context
 • MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — victory commemorated
-• MEM–RUSSIA–ELIZABETH — Baroque expansion
+• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — Baroque expansion
 • MEM–RUSSIA–CATHERINE–GREAT — further development
 • MEM–RUSSIA–WWII–SIEGE–LENINGRAD — destruction context
 • MEM–RUSSIA–ART–HERMITAGE — parallel imperial collection

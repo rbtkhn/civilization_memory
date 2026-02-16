@@ -200,6 +200,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Faith preserves identity under domination, not sovereignty.
 • Muscovy inherits Horde logic inwardly.
 • The Horde’s disappearance does not erase its institutional legacy.
+• Canonical step 3 of RLL–0034: licensed rule under external overlordship (yarlyk, tribute, compliance before recognition).
 
 Contradictions preserved without synthesis.
 

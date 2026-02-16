@@ -144,6 +144,17 @@ ARC does NOT govern:
 • How to evaluate quote quality (see EQS in MEM–TEMPLATE)
 • Evidence role classification (see ERC in MEM–TEMPLATE)
 
+**Indigenous-language quote requirement (MEM–FRANCIA):** Each
+MEM–FRANCIA file MUST contain at least one verbatim quote (≥25 words)
+from an indigenous-language source admissible for this requirement.
+Admissible sources: Gregory of Tours (Historia Francorum), Fredegar,
+Einhard, Nithard, Jean de Joinville, Jean Froissart, Philippe de
+Commines (ARC-T-MEDIEVAL); Montaigne, Descartes, Voltaire, Rousseau,
+Guizot, Michelet, Tocqueville (L'Ancien Régime), Taine, Sorel
+(ARC-T-EARLY-MOD); Marc Bloch, Fernand Braudel, Georges Lefebvre,
+Albert Soboul (ARC-T-MODERN). English translation with clear source
+attribution is sufficient. Per CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -577,6 +588,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • INSEE (Institut national de la statistique) — insee.fr
   Authoritative For: Economic statistics, demographics, social indicators
   Editorial Note: National statistics office; official data source
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Francia. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–FRANCIA v3.0

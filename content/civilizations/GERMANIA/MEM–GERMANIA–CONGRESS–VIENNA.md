@@ -379,7 +379,7 @@ GEO–MEM (≥2):
 Cross-civilizational:
 • MEM–FRANCIA–TALLEYRAND — French perspective and inclusion mechanism
 • MEM–BRITANNIA–CASTLEREAGH — British perspective and continental balance
-• MEM–RUSSIA–ALEXANDER–I — Russian perspective and Polish question
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — Russian perspective and Polish question
 • MEM–RUSSIA–CONGRESS–VIENNA — Complementary encoding (arbiter by right
   vs inclusion of defeated); settlement design for both legitimacy paths
 

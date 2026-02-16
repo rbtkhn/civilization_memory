@@ -216,7 +216,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — legitimacy counterclaim
 • MEM–RUSSIA–CATHERINE–GREAT — southern breakthrough architect
 • MEM–RUSSIA–CRIMEA — terminal control inversion
-• MEM–RUSSIA–PETER–GREAT — maritime ambition precursor
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — maritime ambition precursor
 • MEM–RUSSIA–EXPANSION–SOUTH — directional logic
 • MEM–RUSSIA–NAVY — Black Sea fleet genesis
 • MEM–RUSSIA–CONGRESS–VIENNA — post-Ottoman order arbitration

@@ -271,7 +271,7 @@ Russian (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — primary historical context encoded in literary memory
 • MEM–RUSSIA–WAR–BORODINO — battle transformed into literary symbol
 • MEM–RUSSIA–KUTUZOV — commander transformed into literary archetype
-• MEM–RUSSIA–ALEXANDER–I — tsar's role in literary vs operational memory
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — tsar's role in literary vs operational memory
 • MEM–RUSSIA–WAR–AUSTERLITZ — contrast: literary memory of defeat
 • MEM–RUSSIA–DYNASTY–ROMANOV — elite culture vs popular experience
 • MEM–RUSSIA–LIT–DOSTOEVSKY — contrast: historical vs psychological memory architecture

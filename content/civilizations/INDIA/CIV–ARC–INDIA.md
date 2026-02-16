@@ -18,6 +18,15 @@ ARC governs author admissibility and temporal precedence for
 MEM–INDIA files only. Quotation quantity and quality are
 governed by CIV–MEM–TEMPLATE.
 
+**Indigenous-language quote requirement (MEM–INDIA):** Each MEM–INDIA
+file MUST contain at least one verbatim quote (≥25 words) from an
+indigenous-language source admissible for this requirement. Admissible
+sources: Kautilya (Arthashastra), Ashoka (Edicts), Kalhana
+(Rajatarangini), Babur (Baburnama), Abul Fazl (Akbarnama, Ain-i-Akbari),
+or any ARC-T-MODERN Hindi reference (Hindi Vishwakosh, Bharatkosh,
+Bharatiya Sanskriti Kosh, Hindi Sahitya Kosh). English translation with
+clear source attribution is sufficient. Per CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -237,6 +246,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • Centre for Science and Environment (CSE) — cseindia.org
   Authoritative For: Environmental policy, climate, industrial regulation
   Editorial Note: Delhi-based; independent; influential on Indian environmental debate
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of India. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–INDIA — v3.3

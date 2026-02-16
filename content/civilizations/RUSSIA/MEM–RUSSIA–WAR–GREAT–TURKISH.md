@@ -117,7 +117,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–WAR–RUSSO–TURKISH — Continuation of Ottoman conflict
 • MEM–RUSSIA–WAR–CRIMEAN — Later Crimean war context
 • MEM–RUSSIA–WAR–CRIMEAN–KHANATE — Southern raiding pressure
-• MEM–RUSSIA–PETER–GREAT — Initiator of Azov campaigns
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Initiator of Azov campaigns
 • MEM–RUSSIA–WAR–OTTOMAN — Broader Ottoman rivalry
 • MEM–RUSSIA–MUSCOVY — Pre-imperial state transformation
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Coalition religious dimension

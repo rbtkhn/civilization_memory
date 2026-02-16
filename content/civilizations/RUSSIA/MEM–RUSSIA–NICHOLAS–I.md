@@ -158,7 +158,7 @@ X. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–CRIMEAN — war initiator; defeat and reform catalyst
-• MEM–RUSSIA–ALEXANDER–II — successor; reform under constraint after defeat
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — successor; reform under constraint after defeat
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance and legitimacy
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Official Nationality, sacral claims
 • MEM–RUSSIA–LAW–AUTOCRACY — Official Nationality, Orthodoxy, Nationality

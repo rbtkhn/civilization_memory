@@ -212,7 +212,7 @@ X. MEM CONNECTIONS (v2.7 · STRUCTURAL)
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–NAPOLEON — invasion and defeat context
 • MEM–RUSSIA–WAR–1812 — sacrifice legitimacy source
-• MEM–RUSSIA–ALEXANDER–I — Congress architect
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — Congress architect
 • MEM–RUSSIA–HOLY–ALLIANCE — ideological crystallization
 • MEM–RUSSIA–POLAND — glacis acquisition
 • MEM–RUSSIA–CONCERT–EUROPE — system role
@@ -243,6 +243,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Vienna establishes Russia as a conservative system pillar.
 • The suppression of rupture becomes a standing strategic duty.
 • Vienna institutionalized the kind of equilibrium and system-restraint Panin had advocated for northern Europe; Russia's role as arbiter rested on 1812's restraint and translated into a Congress system rather than conquest-maximalism (MEM–RUSSIA–PANIN).
+• Vienna encodes ratification of achieved order (RLL–0034 step 2); diplomatic recognition as sacral/legal ratification of authority already secured.
 
 Contradictions are preserved without synthesis.
 

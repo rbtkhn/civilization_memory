@@ -7,7 +7,7 @@ alwaysApply: true
 
 ## Exclusive Gate
 
-**Only** the **"relay to scholar"** command family in STATE mode may transfer information from a STATE session into SCHOLAR (learn mode). No other mechanism may write STATE session output into CIV–SCHOLAR–[CIV]. State learns from Scholar; Scholar learns from the past and from relayed STATE output—never from STATE except via relay.
+**Only** the **"relay to scholar"** command family in STATE mode may transfer information from a STATE session into SCHOLAR (learn mode). No other mechanism may write STATE session output into CIV–SCHOLAR–[CIV]. STATE learns from SCHOLAR; SCHOLAR learns from the past and from relayed STATE output—never from STATE except via relay.
 
 ## Trigger
 

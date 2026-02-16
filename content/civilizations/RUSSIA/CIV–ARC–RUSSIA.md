@@ -1,4 +1,4 @@
-CIV–ARC–RUSSIA — v3.2
+CIV–ARC–RUSSIA — v3.5
 Civilizational Memory Codex · Academic Reference Canon
 
 Status: CANONICAL · STAND-ALONE · MIRRORED
@@ -7,9 +7,24 @@ Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Compatibility: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0 (legacy A/B/C/D structure)
 Last Updated: February 2026
 
-Supersedes: CIV–ARC–RUSSIA v3.1
-Upgrade Type: Verbatim citation count [N] per source
+Supersedes: CIV–ARC–RUSSIA v3.4
+Upgrade Type: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.5)
+────────────────────────────────────────────────────────────
+v3.5 — INDIGENOUS-LANGUAGE QUOTE REQUIREMENT. Per CIV–ARC–TEMPLATE § IV-A, Section I now declares that each MEM–RUSSIA file must contain ≥1 verbatim quote (≥25 words) from an admissible indigenous-language source: Primary Chronicle, Novgorod First Chronicle, Laurentian Chronicle, Hypatian Chronicle (Category B), or Karamzin, Solovyov, Klyuchevsky (Category C). English translation with clear source attribution is sufficient. Supersedes v3.4.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4)
+────────────────────────────────────────────────────────────
+v3.4 — BLACKLIST. ISW (Institute for the Study of War) and Wikipedia (all language editions) added to Section XII. ISW removed from Category E (SPECIALIST). Reasons: ISW — advocacy framing (pro-Ukraine institutional stance); Wikipedia — not institutional/primary source, crowd-sourced, no editorial accountability. Do not cite for Russia STATE or SCHOLAR. Supersedes v3.3.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.3)
+────────────────────────────────────────────────────────────
+v3.3 — BLACKLIST. Section XII added: BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES). Levada Center (and CCGA–Levada joint surveys) blacklisted for Russia due to US military linkage (Minerva/DoD funding history; foreign agent designation 2016). Do not cite for Russian public opinion or institutional analysis. Supersedes v3.2.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.2)
@@ -78,6 +93,16 @@ They may not modify, reinterpret, or extend it.
 
 This file has authority over all MEM–RUSSIA files with respect to source
 admissibility, quotation discipline, and interpretive weighting.
+
+**Indigenous-language quote requirement (MEM–RUSSIA):** Each MEM–RUSSIA
+file MUST contain at least one verbatim quote (≥25 words) from an
+indigenous-language source admissible for this requirement. Admissible
+sources: Primary Chronicle (Povest' vremennykh let), Novgorod First
+Chronicle, Laurentian Chronicle, Hypatian Chronicle (Category B — Rus'
+and East Slavic chronicles); Nikolai Karamzin, Sergei Solovyov, Vasily
+Klyuchevsky (Category C — early modern Russian historiography). English
+translation with clear source attribution is sufficient. Per
+CIV–ARC–TEMPLATE § IV-A.
 
 ────────────────────────────────────────────────────────────
 II. SOURCE CATEGORIES (FIXED & EXHAUSTIVE)
@@ -490,24 +515,58 @@ CATEGORY E (SPECIALIST):
   Editorial Note: Polish government-funded; frontline-state perspective;
   high-quality Russia analysis
 
-• ISW (Institute for the Study of War) — understandingwar.org
-  Authoritative For: Military operations, front-line assessment, order of battle
-  Editorial Note: US-based; Kagan family; pro-Ukraine framing; detailed
-  operational mapping
-
 • RUSI (Royal United Services Institute) — rusi.org
   Authoritative For: Defence policy, intelligence, military analysis
   Editorial Note: UK-based; oldest defence think tank; close to UK MOD
 
 ────────────────────────────────────────────────────────────
-XII. CANON STATE
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
 ────────────────────────────────────────────────────────────
-Version: CIV–ARC–RUSSIA v3.2
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Russia. They are excluded from Category E
+and from ARC discovery. Do not treat Levada-originated or
+Levada-partner data (e.g. CCGA–Levada joint surveys) as admissible
+for Russia.
+
+BLACKLISTED:
+• Levada Center (Levada Analytical Center) — Levada Center / Levada.ru
+  Reason: US military linkage. Levada received funding from the US
+  Defense Department Minerva Research Initiative (via University of
+  Wisconsin–Madison) for sociological research; designated "foreign
+  agent" by Russian Justice Ministry (September 2016) on grounds of
+  foreign funding and political activity. CCGA–Levada joint surveys
+  (e.g. Chicago Council on Global Affairs–Levada polls) are
+  commissioned by a US institution with Levada conducting fieldwork;
+  data from such partnerships are blacklisted for Russia ARC.
+  Governance: Do not cite Levada or CCGA–Levada as evidence for
+  Russian public opinion or institutional analysis in STATE or
+  SCHOLAR.
+
+• ISW (Institute for the Study of War) — understandingwar.org
+  Reason: Advocacy framing. US-based; Kagan family; explicit pro-Ukraine
+  institutional stance. Per ARC source-coverage rule (cmc-arc-source-coverage),
+  ISW is annotated as "pro-Ukraine framing" and must not be used as
+  admissible evidence for Russia STATE or SCHOLAR analysis. Excluded
+  from Category E; do not cite for military operations, front-line
+  assessment, or order of battle for Russia.
+
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable quality
+  and sourcing; unsuitable for admissibility in Russia ARC. Do not
+  cite Wikipedia as evidence for Russia in STATE or SCHOLAR. Use
+  Category E listed sources or ARC discovery with justification
+  instead.
+
+────────────────────────────────────────────────────────────
+XIII. CANON STATE
+────────────────────────────────────────────────────────────
+Version: CIV–ARC–RUSSIA v3.5
 State: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–ARC–RUSSIA v3.1
-Upgrade Type: Verbatim citation count [N] per source
+Supersedes: CIV–ARC–RUSSIA v3.4
+Upgrade Type: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–RUSSIA — v3.2
+END OF FILE — CIV–ARC–RUSSIA — v3.5
 ────────────────────────────────────────────────────────────

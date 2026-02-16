@@ -316,7 +316,7 @@ Cross-Civilizational:
   Breaks if removed: Why France didn't intervene unexplained; 1870 war
   origin loses setup.
 
-• MEM–RUSSIA–ALEXANDER–II
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II
   Dependency: Benevolent neutrality—Russia's non-intervention (gratitude
   for 1863 Polish revolt support) enabled Prussian action.
   Breaks if removed: Why Russia didn't support Austria unexplained;

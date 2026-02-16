@@ -31,7 +31,7 @@ UPGRADE NOTE (v3.1) — ADDITIVE · ALEXANDER III INHERITANCE
 ────────────────────────────────────────────────────────────
 Section II (Inherited System): added bullet referencing Alexander III's
 settlement (counter-reforms, restraint abroad, no mechanism to absorb
-expectation); pointer to MEM–RUSSIA–ALEXANDER–III. Supersedes v3.0.
+expectation); pointer to MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III. Supersedes v3.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.2)
@@ -76,7 +76,7 @@ Key inherited conditions:
 • Autocracy legitimized through sacred tradition
 • Alexander III's settlement: counter-reforms (zemstvo 1890, Russification,
   repression), restraint abroad, reasserted Official Nationality—no mechanism
-  to absorb elite or social expectation (MEM–RUSSIA–ALEXANDER–III)
+  to absorb elite or social expectation (MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III)
 • Expanding bureaucracy without political accountability
 • Rapid industrialization without representative integration
 • A society increasingly exposed to European ideological currents
@@ -289,8 +289,8 @@ User selects ONE option only.
 XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–ALEXANDER–III — inherited autocratic rigidity
-• MEM–RUSSIA–ALEXANDER–II — reform precedent
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III — inherited autocratic rigidity
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — reform precedent
 • MEM–RUSSIA–DYNASTY–ROMANOV — terminal dynasty moment
 • MEM–RUSSIA–REVOLUTION–1905 — legitimacy erosion
 • MEM–RUSSIA–REVOLUTION–1917 — system collapse

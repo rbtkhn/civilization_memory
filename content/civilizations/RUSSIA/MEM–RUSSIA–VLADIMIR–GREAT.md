@@ -210,6 +210,7 @@ XII. CONTINUITY INSIGHTS (RAW)
 • Ritual creates durable identity without enforcement.
 • Christianization stabilizes memory more than power.
 • Succession conflict survives sacral unity.
+• Sacral layer ratifies authority already achieved; does not originate it (RLL–0034 step 2).
 
 ────────────────────────────────────────────────────────────
 XIII. PEDAGOGICAL AFFORDANCE LAYER

@@ -163,12 +163,12 @@ Same-Civilization (RUSSIA) — ≥10 required:
 • MEM–RUSSIA–WAR–LIVONIAN — premature expansion contrast
 • MEM–RUSSIA–WAR–POLTAVA — endurance doctrine validation
 • MEM–RUSSIA–CATHERINE–II — Crimean annexation and southern strategy
-• MEM–RUSSIA–PETER–GREAT — naval modernization initiator
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — naval modernization initiator
 • MEM–RUSSIA–NICHOLAS–I — 19th-century war architect
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious legitimation of intervention
 • MEM–RUSSIA–NAVY — Black Sea fleet development
 • MEM–RUSSIA–SEVASTOPOL — naval base and symbolic fortress
-• MEM–RUSSIA–ALEXANDER–II — post-Crimean reform architect
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — post-Crimean reform architect
 
 GEO–MEM (REQUIRED) — ≥2 required:
 • MEM–RUSSIA–GEO–BLACK–SEA — strategic objective and access corridor

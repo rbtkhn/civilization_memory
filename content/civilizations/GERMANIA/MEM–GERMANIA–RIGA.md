@@ -540,7 +540,7 @@ GEO MEMs (≥2):
 
 Cross-civilization (≥3):
 • MEM–RUSSIA–EMPIRE — imperial framework (1710–1918)
-• MEM–RUSSIA–PETER–GREAT — conqueror
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — conqueror
 • MEM–SCANDINAVIA–SWEDEN — Swedish period (1621–1710)
 
 ────────────────────────────────────────────────────────────

@@ -308,7 +308,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–PUGACHEV — largest Cossack-led rebellion
 • MEM–RUSSIA–RAZIN — Don Cossack revolt
 • MEM–RUSSIA–CATHERINE–GREAT — post-Pugachev incorporation
-• MEM–RUSSIA–PETER–GREAT — early incorporation efforts
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — early incorporation efforts
 • MEM–RUSSIA–SERFDOM — institution Cossacks fled/enforced
 • MEM–RUSSIA–CIVIL–WAR — Cossack division and destruction
 • MEM–RUSSIA–CAUCASUS — Cossack conquest zone

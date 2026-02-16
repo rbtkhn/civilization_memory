@@ -26,7 +26,7 @@ FOUNDATIONAL PERSPECTIVE:
 This file functions as the **shadow of the principal**: the cognitive
 exoskeleton for whoever holds the top decision-making role for Russia.
 Same level of access to context and stakes, same need for options and
-precedent; no formal authority. **State learns from Scholar**—the
+precedent; no formal authority. **STATE learns from SCHOLAR**—the
 historically-grounded patterns and constraint grammar accumulated in
 CIV–SCHOLAR–RUSSIA inform this file. Information flows from STATE
 into Scholar only via explicit **harvest** or **harvest session**
@@ -967,7 +967,7 @@ PATTERN: Endurance Through Compression
 
 PATTERN: Buffer Zone Imperative
   Activation: HIGH
-  Source: MEM–RUSSIA–PETER–GREAT, MEM–RUSSIA–PETERSBURG,
+  Source: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I, MEM–RUSSIA–PETERSBURG,
           MEM–RUSSIA–GEO series (Baltic, Black Sea, Caucasus)
   Relevance: The western frontier has no natural barriers. Every
   Russian government since Muscovy has treated buffer zones as
@@ -1154,6 +1154,29 @@ PATTERN: Institutional Voice vs Sovereign Choice (Lavrov–Panin)
   already chosen? Supports discrimination between genuine
   diplomatic opening and diplomatic performance (see Engage to
   Outlast).
+
+PATTERN: Legitimacy Sequencing (Rurikid → Horde → Muscovite)
+  Activation: MODERATE (diagnostic; when settlement or authority is in play)
+  Source: SCHOLAR LEARN session (Rurikid cluster, Feb 2026); MEM–RUSSIA–
+          DYNASTY–RURIKID, MEM–RUSSIA–RURIK, MEM–RUSSIA–KIEVAN–RUS,
+          MEM–RUSSIA–GOLDEN–HORDE, MEM–RUSSIA–MUSCOVY, MEM–RUSSIA–IVAN–III
+  Relevance: Russian legitimacy has historically followed a recurring
+  sequence: (1) authority that restores order can be accepted regardless
+  of origin ("invitation" grammar in Primary Chronicle and Rurik MEM);
+  (2) sacral and legal layers ratify authority already achieved, they do
+  not originate it; (3) under external overlordship (Horde), rule is
+  licensed (yarlyk, tribute, compliance before recognition), not
+  inherited; (4) when overlordship fragments, the licensed machinery is
+  internalised by one centre (Muscovy: corridor control, extraction,
+  elimination of plural centres—Novgorod's veche silenced, "one sovereign
+  and not many lords"). Use this pattern when assessing claims about
+  who can speak for "order," "stability," or "legitimate authority" in
+  settlement or post-conflict scenarios: the grammar of "restored order"
+  and "accepted authority" is deep; the sequence (coercion/corridor first,
+  sacral/legal ratification second) is binding. Complements RLL–0001,
+  RLL–0003, RLL–0004. Does not predict outcomes; it supplies a
+  diagnostic for how Russian-side legitimacy claims are likely to be
+  framed and what historical precedent they invoke.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
@@ -1500,6 +1523,18 @@ ENTRY 012 — 16 February 2026
   confrontation). Source: MEM–RUSSIA–PANIN; LEARN session synthesis.
   Supports discrimination between genuine diplomatic opening and
   diplomatic performance (Engage to Outlast). Activation: MODERATE.
+
+ENTRY 013 — 16 February 2026
+  Session: SCHOLAR LEARN (Rurikid cluster contemplation); follow-on (c)
+  Change: Section VII — new pattern "Legitimacy Sequencing
+  (Rurikid → Horde → Muscovite)" added. For use when settlement or
+  authority is in play. Source: LEARN session (DYNASTY–RURIKID, RURIK,
+  KIEVAN–RUS, GOLDEN–HORDE, MUSCOVY, IVAN–III). Encodes recurring
+  sequence: invitation/order-restoration grammar → sacral/legal
+  ratification of achieved authority → licensed rule under Horde →
+  internalisation by one centre (veche silenced, one sovereign).
+  Diagnostic only; complements RLL–0001, RLL–0003, RLL–0004.
+  Activation: MODERATE.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–RUSSIA v2.0

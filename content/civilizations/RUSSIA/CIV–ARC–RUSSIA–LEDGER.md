@@ -115,14 +115,14 @@ PIPES, Richard
   ARC-T: ARC-T-MODERN
   Citations: 14
   MEMs: DYNASTY–RURIKID, LAW–SERFDOM, LENIN, STALIN, MUSCOVY,
-        IVAN–IV, PETER–GREAT, +7 others
+        IVAN–IV, DYNASTY–ROMANOV–PETER–I, +7 others
 
 MASSIE, Robert K.
   *Peter the Great: His Life and World* (1980)
   *Catherine the Great: Portrait of a Woman* (2011)
   ARC-T: ARC-T-MODERN
   Citations: 13
-  MEMs: DYNASTY–ROMANOV, PETER–GREAT, CATHERINE–GREAT, SWEDEN,
+  MEMs: DYNASTY–ROMANOV, DYNASTY–ROMANOV–PETER–I, CATHERINE–GREAT, SWEDEN,
         WAR–RUSSO–PERSIAN, WAR–GREAT–NORTHERN–NARVA, OTTOMAN–EMPIRE,
         WAR–POLTAVA, +5 others
 
@@ -168,7 +168,7 @@ BUSHKOVITCH, Paul
   *Peter the Great: The Struggle for Power* (2001)
   ARC-T: ARC-T-MODERN
   Citations: 7
-  MEMs: DYNASTY–ROMANOV, SWEDEN, PETER–GREAT, ALEXEI–ROMANOV,
+  MEMs: DYNASTY–ROMANOV, SWEDEN, DYNASTY–ROMANOV–PETER–I, ALEXEI–ROMANOV,
         MICHAEL–ROMANOV, +2 others
 
 FRANKLIN, Simon & SHEPARD, Jonathan
@@ -188,7 +188,7 @@ HUGHES, Lindsey
   *Russia in the Age of Peter the Great* (1998)
   ARC-T: ARC-T-MODERN
   Citations: 6
-  MEMs: PETER–GREAT, WAR–GREAT–NORTHERN–NARVA, WAR–GREAT–TURKISH,
+  MEMs: DYNASTY–ROMANOV–PETER–I, WAR–GREAT–NORTHERN–NARVA, WAR–GREAT–TURKISH,
         SWEDEN, FYODOR–III, +1 other
 
 PLOKHY, Serhii
@@ -298,7 +298,7 @@ KLYUCHEVSKY, Vasily (1841–1911)
   Citations: 12
   MEMs: DYNASTY–RURIKID, ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
         WAR–GREAT–TURKISH, WAR–RUSSO–PERSIAN, WAR–LITHUANIAN–MUSCOVITE,
-        WAR–LIVONIAN–CRUSADE, PETER–GREAT, +4 others
+        WAR–LIVONIAN–CRUSADE, DYNASTY–ROMANOV–PETER–I, +4 others
 
   PRECEDENCE NOTE: Klyuchevsky's interpretations have higher authority
   than ARC-T-MODERN scholars. Modern scholars may FRAME but not OVERRIDE
@@ -309,7 +309,7 @@ SOLOVYOV, Sergei (1820–1879)
   ARC-T: ARC-T-EARLY-MOD
   Citations: 10
   MEMs: DYNASTY–RURIKID, ORTHODOX–CHRISTIANITY, CONSTANTINOPLE,
-        WAR–LITHUANIAN–MUSCOVITE, PETER–GREAT, +5 others
+        WAR–LITHUANIAN–MUSCOVITE, DYNASTY–ROMANOV–PETER–I, +5 others
 
   PRECEDENCE NOTE: As foundational historiographer, Solovyov's documentary
   work anchors narrative structures even when modern interpretations diverge.

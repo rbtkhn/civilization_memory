@@ -131,8 +131,8 @@ VI. CONTINUITY INSIGHTS
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–ALEXANDER–II — reform era; Emancipation; university expansion
-• MEM–RUSSIA–ALEXANDER–III — reign during Mendeleev's peak; reaction at home
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — reform era; Emancipation; university expansion
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–III — reign during Mendeleev's peak; reaction at home
 • MEM–RUSSIA–PETERSBURG — university and Academy base
 • MEM–RUSSIA–SCI–LOMONOSOV — state-sponsored science; institutional continuity
 • MEM–RUSSIA–WAR–CRIMEAN — defeat that spurred reform and institutional investment

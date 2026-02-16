@@ -213,7 +213,7 @@ Russian:
 • MEM–RUSSIA–MICHAEL–ROMANOV — restoration baseline
 • MEM–RUSSIA–IVAN–IV — autocracy pathology boundary
 • MEM–RUSSIA–TIME–TROUBLES — collapse constraint memory
-• MEM–RUSSIA–PETER–GREAT — rupture successor
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture successor
 • MEM–RUSSIA–STRELTSY — succession instability signal
 • MEM–RUSSIA–SERFDOM — immobilization substrate
 

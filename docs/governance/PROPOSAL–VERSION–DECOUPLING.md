@@ -86,7 +86,7 @@ Contains:
 Example:
 | MEM File | Content Version | Last Validated | Governance Version | Status |
 |----------|-----------------|----------------|-------------------|--------|
-| MEM–RUSSIA–PETER–GREAT | 3.0 | 2026-02 | CMC 3.0 | COMPLIANT |
+| MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I | 3.0 | 2026-02 | CMC 3.0 | COMPLIANT |
 | MEM–ROME–CAESAR | 1.6 | 2026-01 | CMC 2.0 | NEEDS_UPGRADE |
 
 D) UPGRADE NOTES — Centralized Changelog
@@ -119,13 +119,13 @@ IV. NEW MEM HEADER FORMAT
 ────────────────────────────────────────────────────────────
 BEFORE (current):
 ```
-MEM–RUSSIA–PETER–GREAT — v3.0
+MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–PETER–GREAT v2.9
+Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I v2.9
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA
 ...
@@ -136,7 +136,7 @@ ARC Version Pinned: CIV–ARC–RUSSIA v3.1
 
 AFTER (proposed):
 ```
-MEM–RUSSIA–PETER–GREAT — v3.0
+MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — v3.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL

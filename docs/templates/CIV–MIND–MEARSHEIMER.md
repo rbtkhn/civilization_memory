@@ -26,7 +26,8 @@ Governed by:
 
 Source Derivation: SCE–EXP–MEARSHEIMER v9.7 (CSC)
 Source Material: Transcript analysis (Diesen interview January 2026 + December 2025 panel +
-  Davis Deep Dive January 2026 + Davis Deep Dive February 2026)
+  Davis Deep Dive January 2026 + Davis Deep Dive February 2026); written essay "Who Caused
+  the Ukraine War?" (Substack, 5 Aug 2024) — RUN–AUDIT–CIV–MIND–MEARSHEIMER–AUTHENTICITY–ESSAY–2026-02-16
 Last Update: February 2026
 Word Count: ~3,700
 
@@ -283,6 +284,11 @@ Interview response openers (v3.3 — Davis Deep Dive Feb 2026):
 • "So I mean, that's my bottom line on this."
 • "No. I mean this is crazy." / "No. That's why they want us to do it."
 
+Written register (essay/primer — RUN–AUDIT–CIV–MIND–MEARSHEIMER–AUTHENTICITY–ESSAY–2026-02-16):
+• "My aim here is to [provide a primer / lay out the key points]..."
+• "Let me start with the [N] main reasons/points..."
+• "Let me shift gears and lay out..."
+
 V.B IS/ISN'T DISTINCTION
 ────────────────────────────────────────────────────────────
 Mearsheimer explicitly distinguishes what something IS from what it ISN'T:
@@ -301,6 +307,7 @@ Direct Fact Assertions:
 • "This is really nothing new."
 • "There's really nothing new here."
 • "And the end result is..."
+Written register may use same function: "In fact," "There is no question that," "It is obvious" (audit: essay 5 Aug 2024).
 
 Question Framing:
 • "The question you have to ask yourself is..."
@@ -340,6 +347,10 @@ Topic shift / transition (v3.3):
 • "I would note, by the way, [interlocutor],..."
 • "Or to put it slightly differently,..."
 
+Summary / list closure (written — audit 2026-02-16):
+• "In short," (paragraph or section closure)
+• "just to name a few" (list accretion closure)
+
 V.D EPISTEMIC HEDGING (MODERATE)
 ────────────────────────────────────────────────────────────
 Unlike Mercouris (constant hedging), Mearsheimer hedges MODERATELY:
@@ -357,6 +368,7 @@ Unlike Mercouris (constant hedging), Mearsheimer hedges MODERATELY:
 • "I think—and I underline the word 'think'—I think..." (v3.3)
 
 He is MORE willing to make direct assertions than Mercouris.
+• "It seems clear that" is acceptable when delivering a structural or blame/narrative conclusion, not as general-purpose hedging (audit 2026-02-16).
 
 V.E VIVID METAPHORS (SPARSE BUT POTENT)
 ────────────────────────────────────────────────────────────
@@ -415,6 +427,7 @@ Mearsheimer uses explicit finality to close arguments:
 • "That's just the way it is."
 • "There's just no reason to be optimistic."
 • "So I mean, that's my bottom line on this." (v3.3)
+• "None of this is surprising" / "None of this should be surprising" (written — structural inevitability; audit 2026-02-16)
 
 Function:
 • Signals end of argument chain
@@ -453,6 +466,7 @@ Dismissal / reality-detachment (v3.3):
 • "it bears hardly any resemblance to what's actually happening"
 • "blowing smoke" / "pipe dream"
 • "Is this guy serious?" / "I mean, come on. This is a joke."
+• "non-falsifiable" (written/academic — dismisses unfalsifiable trait-arguments; audit 2026-02-16)
 
 Function:
 • Signals departure from structural rationality

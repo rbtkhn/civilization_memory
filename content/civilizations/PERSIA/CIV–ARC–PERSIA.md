@@ -18,7 +18,7 @@ ARC governs author admissibility and temporal precedence for
 MEM–PERSIA files only. Quotation quantity and quality are
 governed by CIV–MEM–TEMPLATE.
 
-**Indigenous-language quote requirement (MEM–PERSIA):** Each MEM–PERSIA file must contain at least one verbatim quote (≥25 words) from an indigenous-language source listed in ARC–PERSIA § III: Avesta/Gathas, Behistun (Darius I), Cyrus Cylinder, Shahnameh (Ferdowsi), Siyasatnama (Nizam al-Mulk), Jami' al-Tawarikh (Rashid al-Din), Al-Tabari (*Ta'rikh*), Al-Biruni, Ibn Khaldun, or ARC-T-MODERN Persian reference. English translation with clear source attribution is sufficient.
+**Indigenous-language quote requirement (MEM–PERSIA):** Each MEM–PERSIA file MUST contain at least one verbatim quote (≥25 words) from an indigenous-language source listed in ARC–PERSIA § III: Avesta/Gathas, Behistun (Darius I), Cyrus Cylinder, Shahnameh (Ferdowsi), Siyasatnama (Nizam al-Mulk), Jami' al-Tawarikh (Rashid al-Din), Al-Tabari (*Ta'rikh*), Al-Biruni, Ibn Khaldun, or ARC-T-MODERN Persian reference. English translation with clear source attribution is sufficient. Per CIV–ARC–TEMPLATE § IV-A.
 
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
@@ -248,6 +248,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • Middle East Institute — mei.edu
   Authoritative For: Iranian regional strategy, Gulf security, sectarian dynamics
   Editorial Note: US-based; centrist; broad Middle East coverage
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Persia. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–PERSIA — v3.3

@@ -286,7 +286,7 @@ X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON — historical context for 1812 Overture
-• MEM–RUSSIA–ALEXANDER–II — reform era enabling artistic flowering
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — reform era enabling artistic flowering
 • MEM–RUSSIA–NICHOLAS–II — late imperial patronage
 • MEM–RUSSIA–LIT–TOLSTOY — parallel literary memory encoding
 • MEM–RUSSIA–LIT–PUSHKIN — Eugene Onegin opera source

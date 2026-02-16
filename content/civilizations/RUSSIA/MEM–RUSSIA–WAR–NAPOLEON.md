@@ -225,11 +225,11 @@ X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–WAR–BORODINO — key battle and endurance validation
 • MEM–RUSSIA–KUTUZOV — commander's strategic restraint and endurance doctrine
-• MEM–RUSSIA–ALEXANDER–I — strategic planning and legitimacy conversion
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — strategic planning and legitimacy conversion
 • MEM–RUSSIA–WAR–AUSTERLITZ — contrast: strategic education through defeat
 • MEM–RUSSIA–CONGRESS–VIENNA — post-war arbitration and settlement
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty validation through endurance
-• MEM–RUSSIA–PETER–GREAT — state capacity enabling 1812 victory
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — state capacity enabling 1812 victory
 • MEM–RUSSIA–SUVOROV — offensive doctrine contrast with endurance strategy
 • MEM–RUSSIA–MUSCOVY — coercive extraction as war-fighting foundation
 • MEM–RUSSIA–LIT–TOLSTOY — literary memory of the Patriotic War

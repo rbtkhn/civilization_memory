@@ -386,9 +386,9 @@ XI. MEM CONNECTIONS (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–SWEDEN — predecessor rival, NATO parallel
-• MEM–RUSSIA–PETER–GREAT — Baltic access architect
-• MEM–RUSSIA–ALEXANDER–I — incorporator of Finland
-• MEM–RUSSIA–ALEXANDER–II — autonomy preserver
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Baltic access architect
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — incorporator of Finland
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — autonomy preserver
 • MEM–RUSSIA–ST–PETERSBURG — proximate strategic center
 • MEM–RUSSIA–BALTIC–SEA — maritime security axis
 • MEM–RUSSIA–BUFFER–ZONES — strategic doctrine

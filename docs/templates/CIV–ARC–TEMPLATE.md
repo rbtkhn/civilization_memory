@@ -1,14 +1,32 @@
-CIV–ARC–[CIVILIZATION] — v3.3
+CIV–ARC–[CIVILIZATION] — v3.5
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
 Living ARC Optional (CMC 3.3)
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–[CIVILIZATION] v3.0
-Upgrade Type: ALIGNMENT · CMC 3.1 + LIVING ARC PREVIEW
+Supersedes: CIV–ARC–[CIVILIZATION] v3.4
+Upgrade Type: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (OPTIONAL PER ARC)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–CORE v3.3 · CIV–MEM–TEMPLATE v3.3 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.5) — INDIGENOUS-LANGUAGE QUOTE REQUIREMENT
+────────────────────────────────────────────────────────────
+New Section IV-A: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (OPTIONAL PER ARC).
+ARCs may declare that each MEM–[CIV] must contain ≥1 verbatim quote
+(≥25 words) from a listed indigenous-language source; translation with
+attribution is sufficient. ARCs that do not declare it are not bound.
+Supersedes v3.4.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4) — MANDATORY BLACKLIST
+────────────────────────────────────────────────────────────
+New Section IX-D: BLACKLIST (REQUIRED EXCLUSIONS — ALL ARCs).
+Every ARC–[CIV] MUST include a blacklist section. Wikipedia (all
+language editions) is a mandatory blacklist entry for every
+civilization; no ARC may omit it. Each ARC may add further
+civilization-specific blacklist entries. Supersedes v3.3.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.8) — TSP CROSS-CITATION GUIDANCE
@@ -164,6 +182,30 @@ do not require [N] (citation count applies to author lists).
 RULE: Only listed authors may be quoted without discovery flag.
 For ARC-T-INSTITUTIONAL, only listed sources are preferred;
 non-listed sources are permitted with a discovery flag (Section V).
+
+────────────────────────────────────────────────────────────
+IV-A. INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (OPTIONAL PER ARC)
+────────────────────────────────────────────────────────────
+An ARC–[CIV] instance MAY declare an indigenous-language quote
+requirement. If it does, the following applies.
+
+REQUIREMENT (when declared):
+Each MEM–[CIV] file MUST contain at least one verbatim quote
+(≥25 words) from a source listed in that ARC as an admissible
+indigenous-language source. The ARC MUST specify which of its
+approved authors/sources count toward this requirement (e.g. by
+naming them in a dedicated paragraph or by referencing a subset
+of its temporal categories).
+
+TRANSLATION:
+English (or other) translation with clear source attribution is
+sufficient. Original-script quotation may be included optionally
+but is not required.
+
+SCOPE:
+ARCs that do not declare an indigenous-language quote requirement
+are not bound by it. When declared, the requirement is binding for
+all MEM–[CIV] files governed by that ARC.
 
 ────────────────────────────────────────────────────────────
 V. ARC DISCOVERY FRAMEWORK
@@ -411,6 +453,31 @@ RULES:
    standard ARC Discovery Framework rules apply (Section V).
 
 ────────────────────────────────────────────────────────────
+IX-D. BLACKLIST (REQUIRED EXCLUSIONS — ALL ARCs)
+────────────────────────────────────────────────────────────
+Every ARC–[CIV] instance MUST include a BLACKLIST (or EXCLUDED
+INSTITUTIONAL SOURCES) section. Sources on the blacklist MUST NOT
+be cited or used as evidence for that civilization in STATE or
+SCHOLAR. They are excluded from ARC-T-INSTITUTIONAL and from
+ARC discovery.
+
+MANDATORY BLACKLIST ENTRY (SYSTEM-WIDE):
+
+The following source MUST appear on every civilization's ARC
+blacklist. No ARC may omit it.
+
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility in any
+  ARC. Do not cite Wikipedia as evidence in STATE or SCHOLAR for
+  any civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
+
+Each ARC–[CIV] MAY add further blacklist entries (civilization-
+specific exclusions). The Wikipedia entry is mandatory for all.
+
+────────────────────────────────────────────────────────────
 X. LIVING ARC (CMC 3.2 — OPTIONAL)
 ────────────────────────────────────────────────────────────
 When PROPOSAL–LIVING–ARC is implemented, ARC files may include
@@ -446,5 +513,5 @@ This is soft bias, not hard constraint. All sources remain accessible.
 Reference: PROPOSAL–LIVING–ARC.md, PROTOCOL–MIND–NAVIGATION.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–ARC–[CIVILIZATION] v3.2
+END OF FILE — CIV–ARC–[CIVILIZATION] v3.5
 ────────────────────────────────────────────────────────────

@@ -66,6 +66,16 @@ ARC does NOT govern:
 
 This file is governance infrastructure, not interpretation.
 
+**Indigenous-language quote requirement (MEM–ROME):** Each MEM–ROME
+file MUST contain at least one verbatim quote (≥25 words) from an
+indigenous-language source admissible for this requirement. Admissible
+sources: any ARC-T-ANCIENT Roman or Late Antique author listed in § IV
+(Latin/Greek — e.g. Caesar, Cicero, Livy, Tacitus, Sallust, Suetonius,
+Pliny the Elder, Velleius Paterculus; Josephus, Ammianus, Eusebius,
+Aurelius Victor, Eutropius, Orosius, Zosimus, Procopius, Jordanes).
+English translation with clear source attribution is sufficient. Per
+CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -467,6 +477,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • Istituto Nazionale di Statistica (ISTAT) — istat.it
   Authoritative For: Italian demographics, economic statistics, social indicators
   Editorial Note: Italian national statistics office; official data
+
+────────────────────────────────────────────────────────────
+XIII-C. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Rome. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–ROME v3.0

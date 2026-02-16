@@ -167,12 +167,12 @@ IX. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
 • MEM–RUSSIA–LAW–EMANCIPATION — abolition; understanding serfdom requires its termination context
-• MEM–RUSSIA–ALEXANDER–II — reformer who decreed abolition; successor state response
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — reformer who decreed abolition; successor state response
 • MEM–RUSSIA–WAR–PUGACHEV–REBELLION — largest peasant uprising; demonstrates coercive cost
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynasty that codified, maintained, and abolished serfdom
 • MEM–RUSSIA–ALEXEI–ROMANOV — 1649 Ulozhenie formalizes serfdom as legal institution
 • MEM–RUSSIA–CATHERINE–GREAT — expansion of serfdom to new territories; nobility charter
-• MEM–RUSSIA–PETER–GREAT — intensification of peasant obligations for state projects
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — intensification of peasant obligations for state projects
 • MEM–RUSSIA–SERVICE–NOBILITY — nobles receive serfs in exchange for state service
 • MEM–RUSSIA–CRIMEAN–WAR — strategic shock exposing serfdom as liability
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church legitimization of social hierarchy

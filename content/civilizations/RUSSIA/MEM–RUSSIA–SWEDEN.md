@@ -333,7 +333,7 @@ X. MEM CONNECTIONS (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
 • MEM–RUSSIA–FINLAND — buffer acquired from Sweden, NATO parallel
-• MEM–RUSSIA–PETER–GREAT — architect of Baltic breakthrough
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — architect of Baltic breakthrough
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — decisive conflict with Sweden
 • MEM–RUSSIA–WAR–GREAT–NORTHERN–NARVA — initial defeat and lesson
 • MEM–RUSSIA–WAR–GREAT–NORTHERN–POLTAVA — decisive victory

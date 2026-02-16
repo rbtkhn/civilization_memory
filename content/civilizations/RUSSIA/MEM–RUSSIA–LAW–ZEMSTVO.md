@@ -290,7 +290,7 @@ Contradictions are preserved without synthesis.
 X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–ALEXANDER–II — zemstvo's creator
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — zemstvo's creator
 • MEM–RUSSIA–LAW–EMANCIPATION — reform context
 • MEM–RUSSIA–LAW–AUTOCRACY — limiting framework
 • MEM–RUSSIA–GREAT–REFORMS — reform package

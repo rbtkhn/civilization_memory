@@ -399,7 +399,7 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–COLLECTIVIZATION — Agricultural transformation
 • MEM–RUSSIA–COLD–WAR — International confrontation system
 • MEM–RUSSIA–KHRUSHCHEV — De-Stalinization successor
-• MEM–RUSSIA–PETER–GREAT — Coercive modernization precedent
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Coercive modernization precedent
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — Command center and political gravity

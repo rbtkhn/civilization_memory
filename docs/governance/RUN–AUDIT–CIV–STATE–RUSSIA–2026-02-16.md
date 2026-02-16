@@ -20,7 +20,7 @@ CIV–STATE–RUSSIA satisfies the mandatory structure, content, and register re
 | Filename, version, status | ✓ | CIV–STATE–RUSSIA — v1.9; ACTIVE |
 | Entity name, classification | ✓ | Russia / Russian Federation; CIVILIZATION-STATE |
 | Duty of competence | ✓ | Declared: three perspectives required; failure to apply any = completeness violation |
-| Foundational perspective | ✓ | "State learns from Scholar"; harvest-only transfer to Scholar stated |
+| Foundational perspective | ✓ | "STATE learns from SCHOLAR"; harvest-only transfer to SCHOLAR stated |
 | Last updated | ✓ | 11 February 2026 |
 
 **Result:** Compliant.

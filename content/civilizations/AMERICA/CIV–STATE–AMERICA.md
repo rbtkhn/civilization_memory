@@ -23,7 +23,7 @@ and institutional continuity; power distribution and structural
 constraint; and leadership liability and mechanism. Failure to apply
 any perspective constitutes a completeness violation.
 
-State learns from Scholar: The historically-grounded patterns and
+STATE learns from SCHOLAR: The historically-grounded patterns and
 constraint grammar accumulated in CIV–SCHOLAR–AMERICA (and its
 constitutive sources, CIV–SCHOLAR–ANGLIA and CIV–DOCTRINE–ANGLIA)
 inform this file. American doctrinal authority: CIV–DOCTRINE–AMERICA

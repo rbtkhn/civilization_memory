@@ -24,7 +24,7 @@ any perspective constitutes a completeness violation.
 
 COGNITIVE EXOSKELETON: This file serves as the shadow of the principal —
 the cognitive exoskeleton for whoever holds the top decision-making role
-for Iran. State learns from Scholar. Information flows from STATE into
+for Iran. STATE learns from SCHOLAR. Information flows from STATE into
 Scholar only via explicit relay command. The system equips; the principal
 decides.
 

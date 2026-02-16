@@ -261,7 +261,7 @@ XII. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–MICHAEL–ROMANOV — restoration without consolidation
 • MEM–RUSSIA–FYODOR–III — reform within lock
-• MEM–RUSSIA–PETER–GREAT — rupture built atop locked society
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture built atop locked society
 • MEM–RUSSIA–NIKON–SCHISM — faith as security doctrine
 • MEM–RUSSIA–STENKA–RAZIN — revolt beneath stability
 • MEM–RUSSIA–TIME–TROUBLES — collapse memory

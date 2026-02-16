@@ -135,7 +135,7 @@ XV. INITIAL STATE
 ────────────────────────────────────────────────────────────
 (Implements CIV–SCHOLAR–TEMPLATE v2.10 § XV equivalent)
 
-Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The Scholar learns only from MEM–INDIA files explicitly ingested. Absence of ingestion equals absence of belief.
+Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED for cognition; CORE governs diagnostics only. The SCHOLAR learns only from MEM–INDIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
 Source MEMs available (CIV–INDEX–INDIA v3.2):
 

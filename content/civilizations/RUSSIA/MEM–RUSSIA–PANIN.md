@@ -336,7 +336,7 @@ diplomatic evidence.
 IX. MEM CONNECTIONS (MANDATORY · v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–ELIZABETH — diplomatic inheritance
+• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — diplomatic inheritance
 • MEM–RUSSIA–CATHERINE–GREAT — expansion over equilibrium
 • MEM–RUSSIA–POTEMKIN — territorial counter-logic
 • MEM–RUSSIA–SEVEN–YEARS — system shock context

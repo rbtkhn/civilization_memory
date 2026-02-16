@@ -1,9 +1,9 @@
-MEM–RUSSIA–PETER–GREAT — v3.2
+MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.2
-Supersedes: MEM–RUSSIA–PETER–GREAT v3.1
+Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I v3.1
 Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: IMPERIAL / ROMANOV · Coercive Modernization Pivot
@@ -583,7 +583,7 @@ XII. MEM BIBLIOGRAPHY (v2.8)
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (v2.8 COMPLIANT)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–PETER–GREAT
+MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I
 Status: ACTIVE
 Exploration options available.
 
@@ -602,5 +602,5 @@ K) Compliance & integrity audit (v2.8)
 User selects ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PETER–GREAT v3.2
+END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I v3.2
 ────────────────────────────────────────────────────────────

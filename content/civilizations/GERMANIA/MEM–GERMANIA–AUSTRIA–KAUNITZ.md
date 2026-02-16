@@ -206,7 +206,7 @@ GERMANIA (Same-Civilization):
 
 Cross-Civilizational:
 • MEM–FRANCIA–LOUIS–XV (alliance partner)
-• MEM–RUSSIA–ELIZABETH (coalition member)
+• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH (coalition member)
 • MEM–ANGLIA–PITT (opposing coalition architect)
 
 ────────────────────────────────────────────────────────────

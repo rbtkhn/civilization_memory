@@ -235,7 +235,7 @@ GERMANIA (Same-Civilization):
 • MEM–GERMANIA–GEO–ODER–RIVER (geographic spine)
 
 Cross-Civilizational:
-• MEM–RUSSIA–ELIZABETH (coalition member)
+• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH (coalition member)
 • MEM–FRANCIA–LOUIS–XV (coalition member)
 • MEM–ANGLIA–PITT (Prussian subsidizer)
 

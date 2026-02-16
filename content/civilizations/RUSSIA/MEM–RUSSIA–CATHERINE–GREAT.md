@@ -419,7 +419,7 @@ Secondary scholarship contextualizes but does not override primary sources.
 XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
-• MEM–RUSSIA–PETER–GREAT — rupture preceding normalization
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture preceding normalization
 • MEM–RUSSIA–SERFDOM — social immobilization tradeoff
 • MEM–RUSSIA–POLAND — imperial absorption logic
 • MEM–RUSSIA–POTEMKIN — southern empire execution layer

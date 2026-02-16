@@ -98,7 +98,7 @@
 | **Entity focus (re-anchor)** | CIV–MEM–CORE (518–522); CMC–BOOTSTRAP (CORE LOAD) | CIV–STATE–TEMPLATE §I; CIV–SCHOLAR–TEMPLATE XIII; CIV–SCHOLAR–PROTOCOL; CIV–CORE–TEMPLATE; cmc-state-mem-grounding; cmc-scholar-mode | **Yes** |
 | **STATE template version** | CIV–STATE–TEMPLATE (v1.12) | CMC–BOOTSTRAP: now "current: v1.12" (was v1.2 — fixed this audit) | **Yes** (fixed) |
 | **Cognitive exoskeleton / shadow principal** | TERMINOLOGY–REGISTRY (CIV–STATE); CIV–STATE–TEMPLATE §I (design objective) | CIV–STATE–RUSSIA (foundational perspective) | **Yes** |
-| **Scholar: steward, State learns from Scholar** | CIV–SCHOLAR–RUSSIA (archetype); CIV–STATE–RUSSIA | Harvest as only transfer path in both | **Yes** |
+| **SCHOLAR: steward, STATE learns from SCHOLAR** | CIV–SCHOLAR–RUSSIA (archetype); CIV–STATE–RUSSIA | Harvest as only transfer path in both | **Yes** |
 
 ---
 

@@ -111,7 +111,7 @@ Frame: Mercouris (civilizational)
 MEMs tagged:
 • MEM–RUSSIA–WAR–GREAT–PATRIOTIC (primary)
 • MEM–RUSSIA–WAR–NAPOLEON–1812 (primary)
-• MEM–RUSSIA–PETER–GREAT (secondary)
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (secondary)
 • MEM–RUSSIA–SIEGE–LENINGRAD (primary)
 
 Related RLLs:

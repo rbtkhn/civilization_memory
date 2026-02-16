@@ -17,7 +17,7 @@ Governed by:
 • CIV–MEM–CORE v3.0
 • CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
-• RLL–RUSSIA (0001, 0003, 0005 active)
+• RLL–RUSSIA (0001, 0003, 0005, 0034 active)
 
 SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject. Applied requirements:
@@ -248,6 +248,7 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Service binds elites more reliably than law.
 • Sacral legitimacy preserves identity, not succession stability.
 • Autocracy scales survival logic rather than resolving it.
+• Illustrates step 4 of RLL–0034: one centre internalises licensed machinery when overlordship fragments.
 
 Contradictions preserved without synthesis.
 

@@ -403,7 +403,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–LITHUANIA — southern Baltic neighbor
 • MEM–RUSSIA–FINLAND — parallel NATO narrative
 • MEM–RUSSIA–SWEDEN — Baltic rival, now NATO
-• MEM–RUSSIA–PETER–GREAT — 1710 conquest of Riga
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — 1710 conquest of Riga
 • MEM–RUSSIA–WAR–GREAT–NORTHERN — strategic context
 • MEM–RUSSIA–ST–PETERSBURG — competing window to Europe
 • MEM–RUSSIA–SOVIET–EXPANSION — 1940 annexation

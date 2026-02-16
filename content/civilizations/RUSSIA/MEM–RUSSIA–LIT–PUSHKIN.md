@@ -262,7 +262,7 @@ ARC Categories Applied (Modern Era MEM - 20% Compliance):
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 Russian (≥10):
-• MEM–RUSSIA–PETER–GREAT — Peter's legacy as both foundation and terror
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Peter's legacy as both foundation and terror
 • MEM–RUSSIA–PUGACHEV–REBELLION — rebellion as freedom and chaos
 • MEM–RUSSIA–ARISTOCRACY — aristocratic identity contradictions
 • MEM–RUSSIA–LIT–GOGOL — direct literary successor, grotesque development

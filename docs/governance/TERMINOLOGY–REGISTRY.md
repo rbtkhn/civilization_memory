@@ -37,9 +37,9 @@ the system's terms of art.
 | RLL | Recursive Learning Law | A pattern extracted from learning that becomes *binding*. "Learning rule" misses the recursion and the binding authority. No plain equivalent. |
 | ARC | Academic Reference Canon | Quotation hierarchy with era requirements (4 eras), minimum word counts, and doctrine-gating function. "Bibliography" misses all of this. |
 | CIV–CORE | Civilization core engine | Houses axioms, diagnostics, constraint gates. "Civilization file" doesn't capture that it's an engine, not a description. |
-| CIV–SCHOLAR | Scholar learning ledger | Learning ledger with structured entries, syntheses, RLL proposals, and confidence levels. "Learning file" undershoots the governance. |
+| CIV–SCHOLAR | SCHOLAR file | Learning ledger with structured entries, syntheses, RLL proposals, and confidence levels. "Learning file" undershoots the governance. |
 | CIV–DOCTRINE | Doctrine registry | Registry of accepted doctrines (permanent except when user explicitly modifies). Doctrines derive from syntheses accepted by DIB; evidence gating applies. Synthesis is by definition evolving; axiom and doctrine are permanent. **Deprecated:** "frozen"/"unfrozen" — use "accepted as doctrine" and "permanent" / "evolving" instead. |
-| CIV–STATE | State file | Decision-support file that serves as cognitive exoskeleton for the head of state: extends the principal's cognitive reach (options, precedent, disconfirming evidence) without substituting for judgment. Distinct temporal orientation (present), register, and audience from SCHOLAR. Renamed from CIV–COUNSEL (2026-02-11). |
+| CIV–STATE | STATE file | Decision-support file that serves as cognitive exoskeleton for the head of state: extends the principal's cognitive reach (options, precedent, disconfirming evidence) without substituting for judgment. Distinct temporal orientation (present), register, and audience from SCHOLAR. Renamed from CIV–COUNSEL (2026-02-11). |
 | CIV–INDEX | Index file | Registration file. Self-explanatory as file-type name. |
 | CIV–ARC | ARC file | Per-civilization academic reference canon. Self-explanatory as file-type name. |
 
@@ -47,6 +47,11 @@ NOTE: File-type names (MEM, GEO–MEM, CIV–CORE, CIV–SCHOLAR, etc.)
 are load-bearing by nature — they are namespace identifiers for
 governed objects. The audit focused on *conceptual* terms used in
 governance prose and analytical output.
+
+**Caps consistency:** When referring to the CIV–SCHOLAR–[CIV] and
+CIV–STATE–[CIV] files in prose, use **SCHOLAR** and **STATE** in all
+caps (e.g. "STATE learns from SCHOLAR"; "the SCHOLAR file"; "information
+enters SCHOLAR from STATE only via harvest").
 
 DEPRECATED (February 2026): **"Frozen" / "unfrozen"** — Removed from
 system terminology. Synthesis is by definition evolving; axiom and
@@ -153,7 +158,7 @@ In STATE files, use:
 • "Historical memory" (not "MEM") — except as source citation
 
 Source citations may use file-type names:
-• "Source: MEM–RUSSIA–PETER" — PERMITTED
+• "Source: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I" — PERMITTED
 • "The MEM analysis suggests..." — PROHIBITED (use "The historical
   analysis suggests...")
 

@@ -265,7 +265,7 @@ X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–IVAN–IV — founder's era
-• MEM–RUSSIA–PETER–I — deliberate relegation
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — deliberate relegation
 • MEM–RUSSIA–ST–PETERSBURG — replacement port
 • MEM–RUSSIA–MURMANSK — Arctic convoy partner
 • MEM–RUSSIA–WWI — wartime revival

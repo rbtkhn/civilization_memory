@@ -296,7 +296,7 @@ GEO–MEM (≥2):
 • MEM–GERMANIA–GEO–DANUBE — Austrian sphere and intervention zone
 
 Cross-civilizational:
-• MEM–RUSSIA–ALEXANDER–I — Alliance originator and mystic
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — Alliance originator and mystic
 • MEM–RUSSIA–NICHOLAS–I — Pragmatic successor, "Gendarme of Europe"
 • MEM–BRITANNIA–CASTLEREAGH — Refusal to join ideological alliance
 • MEM–FRANCIA–BOURBON–RESTORATION — Beneficiary of Alliance intervention

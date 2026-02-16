@@ -42,7 +42,7 @@ Concepts are organized by analytical frame:
 ────────────────────────────────────────────────────────────
 III. FORMAT DEMONSTRATION
 ────────────────────────────────────────────────────────────
-Below is how a real MEM (e.g., MEM–RUSSIA–PETER–GREAT) would
+Below is how a real MEM (e.g., MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I) would
 include the CONCEPTS section:
 
 ────────────────────────────────────────────────────────────
@@ -62,11 +62,11 @@ IV. QUERY EXAMPLES
 With concept tags, the system can answer:
 
 Q: "Which MEMs discuss legitimacy through suffering?"
-A: → MEM–RUSSIA–PETER–GREAT, MEM–RUSSIA–WAR–GREAT–PATRIOTIC,
+A: → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I, MEM–RUSSIA–WAR–GREAT–PATRIOTIC,
      MEM–RUSSIA–WAR–NAPOLEON–1812, MEM–ANGLIA–BLITZ...
 
 Q: "Find cross-civ parallels for coercive enforcement"
-A: → MEM–RUSSIA–PETER–GREAT (primary), MEM–FRANCIA–LOUIS–XIV (primary),
+A: → MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (primary), MEM–FRANCIA–LOUIS–XIV (primary),
      MEM–CHINA–QIN–SHI–HUANG (primary)...
 
 Q: "What Mearsheimer-frame concepts apply to Peter the Great?"

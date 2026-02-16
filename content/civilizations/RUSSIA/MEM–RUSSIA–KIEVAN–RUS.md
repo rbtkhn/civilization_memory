@@ -247,6 +247,7 @@ XIII. CONTINUITY INSIGHTS (RAW)
 • Faith can unify without institutions.
 • Fragmentation is survivable internally, lethal externally.
 • Kievan Rus’ explains both Russian origins and later corrections.
+• Illustrates steps 1–2 of RLL–0034 (prestige/order, sacral and legal ratification); pre-condition for licensed rule under overlordship.
 
 ────────────────────────────────────────────────────────────
 XIV. PEDAGOGICAL AFFORDANCE LAYER

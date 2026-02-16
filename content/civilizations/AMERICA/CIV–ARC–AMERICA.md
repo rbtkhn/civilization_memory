@@ -43,6 +43,15 @@ AMERICA carries forward the applicable ARC–ANGLIA author list below
 and adds America-specific institutional sources (ARC-T-INSTITUTIONAL)
 for STATE mode analysis of the U.S. and Western Hemisphere.
 
+**Indigenous-language quote requirement (MEM–AMERICA):** Each
+MEM–AMERICA file MUST contain at least one verbatim quote (≥25 words)
+from an indigenous-language source admissible for this requirement.
+Admissible sources: any ARC-T-EARLY-MOD American primary author listed
+in § III (e.g. Grant, Lincoln, Jefferson, Twain, O'Sullivan,
+Liliuokalani, Emerson, Thoreau, Whitman) or any ARC-T-MODERN author
+listed in § III when quoting American primary material. English with
+clear source attribution is sufficient. Per CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -408,6 +417,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • CNA — cna.org
   Authoritative For: Defence analysis, war gaming, force structure
   Editorial Note: U.S. federally funded R&D; close to DoD; analysis and modelling
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of America. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–AMERICA v2.16

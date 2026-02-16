@@ -1,9 +1,9 @@
-MEM–RUSSIA–ALEXANDER–II — v3.0
+MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–ALEXANDER–II v2.7
+Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II v2.7
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
@@ -226,5 +226,5 @@ SCHOLARLY SOURCES CONSULTED:
 • Wcislo, Francis W. *Reforming Rural Russia: State, Local Society, and National Politics, 1855–1914*. Princeton: Princeton University Press, 1990.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ALEXANDER–II v3.0
+END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II v3.0
 ────────────────────────────────────────────────────────────

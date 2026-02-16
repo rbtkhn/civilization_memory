@@ -442,7 +442,7 @@ GEO–MEM CONNECTIONS:
 
 CROSS-CIVILIZATIONAL CONNECTIONS:
 
-• MEM–RUSSIA–PETER–GREAT (if extant)
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I (if extant)
   Dependency: Adversary who ended Swedish Baltic dominance
   Breaks if removed: Decline narrative incomplete
 

@@ -287,7 +287,7 @@ Contradictions are preserved without synthesis.
 X. MEM CONNECTIONS (v2.8 · STRUCTURAL)
 ────────────────────────────────────────────────────────────
 Same-Civilization (RUSSIA) — ≥10 Required:
-• MEM–RUSSIA–PETER–GREAT — Table's creator
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — Table's creator
 • MEM–RUSSIA–LAW–AUTOCRACY — Table as autocratic instrument
 • MEM–RUSSIA–LAW–SERFDOM — peasant exclusion from Table
 • MEM–RUSSIA–LAW–EMANCIPATION — noble freedom's social context

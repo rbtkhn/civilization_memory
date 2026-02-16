@@ -156,7 +156,9 @@ No authority is changed.
 No catalyst function is altered.
 Barnes is now OGE-available in WRITE mode (passive until selected).
 
-Source Material: Transcript analysis (Viva Frei Jan 2026 + Barnes-Mercouris Nov 2025)
+Source Material: Transcript analysis (Viva Frei Jan 2026 + Barnes-Mercouris Nov 2025;
+  Law for the People Episode 303 — DOJ/Slater, Davis, Epstein, Bondi, antitrust, Paxton/Bowen —
+  RUN–AUDIT–CIV–MIND–BARNES–AUTHENTICITY–TRANSCRIPT–2026-02-16)
 Last Update: February 2026
 Word Count: ~5,300
 
@@ -558,6 +560,7 @@ Full triad is common but not mandatory; "One is that..." + narrative suffices.
 • "It depends. It's never open-and-shut."
 • "The short answer is..."
 • "So it's because [legal structure] that..."
+• "The broader context of this is..." / "The message was very simple." (narrative/simple-message openers — audit Episode 303, 2026-02-16)
 
 V.B RHETORICAL QUESTIONS AS STRUCTURAL DEVICES
 ────────────────────────────────────────────────────────────
@@ -573,6 +576,7 @@ V.C DECLARATIVE TRANSITIONS (TRANSCRIPT-DERIVED)
 Direct Fact Assertions:
 • "This is high crimes and misdemeanours."
 • "That's the reality of it."
+• "That's my point on that" (conclusion variant — audit Episode 303, 2026-02-16)
 • "Period."
 • "There's no question that..."
 
@@ -596,6 +600,7 @@ Barnes maintains a Tennessee/Southern flavor:
 • "wee little stick"
 • "for the rest of their natural-born days"
 • "who in the heck"
+• "Lord have mercy" (Southern folksy — audit Episode 303, 2026-02-16)
 • "God bless [X]" — ironic commendation (v1.2)
 • "I kid you not" — incredulity marker (v1.2)
 • "That gives you an idea" — evidence-to-conclusion bridge (v1.2)

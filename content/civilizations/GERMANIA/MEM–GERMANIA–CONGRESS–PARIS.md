@@ -266,7 +266,7 @@ Cross-civilizational:
 • MEM–RUSSIA–WAR–CRIMEAN — Preceding war; why Russia was defeated
 • MEM–RUSSIA–CONGRESS–VIENNA — Russian encoding of Vienna (arbiter
   by right); at Paris Russia is object, not arbiter
-• MEM–RUSSIA–ALEXANDER–II — Russian sovereign; reform catalyst
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–II — Russian sovereign; reform catalyst
   after 1856 defeat
 
 ────────────────────────────────────────────────────────────

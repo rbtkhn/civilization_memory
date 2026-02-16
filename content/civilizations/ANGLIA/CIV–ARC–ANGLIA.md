@@ -18,6 +18,15 @@ ARC governs author admissibility and temporal precedence for
 MEM–ANGLIA files only. Quotation quantity and quality are
 governed by CIV–MEM–TEMPLATE.
 
+**Indigenous-language quote requirement (MEM–ANGLIA):** Each
+MEM–ANGLIA file MUST contain at least one verbatim quote (≥25 words)
+from an indigenous-language source admissible for this requirement.
+Admissible sources: any author listed in ARC–ANGLIA § III (e.g. Churchill,
+Ferguson, Anderson, Chernow, Kissinger, Brands, Ambrose, Durant,
+Russell, Grayling, Sugden, Muir, Taylor, Murray, Isaacson, McCullough,
+Mearsheimer). English with clear source attribution is sufficient. Per
+CIV–ARC–TEMPLATE § IV-A.
+
 ────────────────────────────────────────────────────────────
 II. ARC-TEMPORAL CATEGORIES (ARC-T)
 ────────────────────────────────────────────────────────────
@@ -219,6 +228,23 @@ ARC-T-INSTITUTIONAL (SPECIALIST):
 • Oxford Institute for Energy Studies — oxfordenergy.org
   Authoritative For: Energy markets, oil/gas policy, energy transition
   Editorial Note: University-affiliated; influential on energy policy
+
+────────────────────────────────────────────────────────────
+XII. BLACKLIST (EXCLUDED INSTITUTIONAL SOURCES)
+────────────────────────────────────────────────────────────
+The following institutional sources MUST NOT be cited or used for
+STATE mode analysis of Anglia. They are excluded from ARC-T-INSTITUTIONAL
+and from ARC discovery. Per CIV–ARC–TEMPLATE § IX-D, the following
+entry is mandatory for all ARCs.
+
+BLACKLISTED:
+• Wikipedia — wikipedia.org (all language editions)
+  Reason: Not an institutional or primary source. Crowd-sourced;
+  no single authorship or editorial accountability; variable
+  quality and sourcing; unsuitable for admissibility. Do not
+  cite Wikipedia as evidence in STATE or SCHOLAR for this
+  civilization. Use listed institutional sources or ARC
+  discovery with justification instead.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–ARC–ANGLIA — v3.0

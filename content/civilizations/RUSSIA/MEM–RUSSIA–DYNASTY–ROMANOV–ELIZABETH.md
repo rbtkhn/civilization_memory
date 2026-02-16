@@ -1,9 +1,9 @@
-MEM–RUSSIA–ELIZABETH — v3.0
+MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — v3.0
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
 Version: 3.0
-Supersedes: MEM–RUSSIA–ELIZABETH v2.7
+Supersedes: MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH v2.7
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
@@ -263,7 +263,7 @@ XI. MEM BIBLIOGRAPHY (v2.7)
 XII. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
-• MEM–RUSSIA–PETER–GREAT — rupture and acceleration predecessor
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — rupture and acceleration predecessor
 • MEM–RUSSIA–ANNA–IOANNOVNA — succession drift predecessor
 • MEM–RUSSIA–CATHERINE–GREAT — renewed reform and expansion successor
 • MEM–RUSSIA–SEVEN–YEARS — imperial system engagement
@@ -286,7 +286,7 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (MANDATORY)
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–RUSSIA–ELIZABETH
+MEM INGEST CONFIRMED — MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH
 Status: ACTIVE
 Exploration options available.
 
@@ -302,5 +302,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ELIZABETH v3.0
+END OF FILE — MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH v3.0
 ────────────────────────────────────────────────────────────

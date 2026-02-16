@@ -169,7 +169,7 @@ Same-Civilization (RUSSIA) — ≥10 required:
 • MEM–RUSSIA–TIME–TROUBLES — preconditioning for state collapse
 • MEM–RUSSIA–SWEDEN — Baltic rivalry context
 • MEM–RUSSIA–POLAND — multi-front adversary
-• MEM–RUSSIA–PETER–GREAT — later successful Baltic campaign
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — later successful Baltic campaign
 • MEM–RUSSIA–OPRICHNINA — internal terror mechanism
 • MEM–RUSSIA–SERFDOM — fiscal and social strain context
 

@@ -265,7 +265,7 @@ X. MEM CONNECTIONS (MANDATORY · v2.7 COMPLIANT)
 Same-civilization (≥10):
 • MEM–RUSSIA–CATHERINE–GREAT — sovereign partnership
 • MEM–RUSSIA–PANIN — strategic rival
-• MEM–RUSSIA–PETER–GREAT — southern vision precedent
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — southern vision precedent
 • MEM–RUSSIA–CRIMEA — territorial absorption
 • MEM–RUSSIA–SUVOROV — military coordination
 • MEM–RUSSIA–RUSSO–TURKISH–WARS — war administration

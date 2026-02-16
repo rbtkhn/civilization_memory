@@ -25,7 +25,7 @@ involves a commitment (alliance, arms, presence, confrontation), the
 Decision Points option set (X-B step 8) MUST include at least one
 option at the accommodation/reversal end of the spectrum.
 
-State learns from Scholar: The historically-grounded patterns and
+STATE learns from SCHOLAR: The historically-grounded patterns and
 constraint grammar accumulated in CIV–SCHOLAR–CHINA inform this file.
 Doctrinal authority: CIV–DOCTRINE–CHINA (derived from CIV–SCHOLAR–
 CHINA). Information flows from STATE into Scholar only via explicit

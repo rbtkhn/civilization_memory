@@ -1,14 +1,24 @@
-CIV–MEM–TEMPLATE — v3.3
+CIV–MEM–TEMPLATE — v3.4
 Civilizational Memory Codex · Memory File Enforcement Template
 THREE-LAYER ARCHITECTURE · STRUCTURED DATA FIELDS · TRADECRAFT INTEGRATION
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.3
-Supersedes: CIV–MEM–TEMPLATE v3.0
+Version: 3.4
+Supersedes: CIV–MEM–TEMPLATE v3.3
 Governed by: CMC 3.3
 Class: CIV–MEM–TEMPLATE (Authoring Law)
 Last Update: February 2026
-WORDCOUNT: ~7,500
+WORDCOUNT: ~7,600
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4) — INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (ARC-DRIVEN)
+────────────────────────────────────────────────────────────
+New Section VIII.D.1: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (ARC-DRIVEN).
+When the governing ARC–[CIV] declares an indigenous-language quote
+requirement (per CIV–ARC–TEMPLATE § IV-A), the MEM must contain at
+least one verbatim quote (≥25 words) from a source listed in that ARC
+as admissible; translation with attribution is sufficient. Binding
+only when the ARC declares the requirement. Supersedes v3.3.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (CMC 3.1) — VERSION DECOUPLING
@@ -453,6 +463,34 @@ INTEGRATION CLARIFICATION:
 ENFORCEMENT: Automatic validation requires both Q ≥ 20% AND A ≥ 70%.
 
 ────────────────────────────────────────────────────────────
+VIII.D.1 INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (ARC-DRIVEN)
+────────────────────────────────────────────────────────────
+When the governing ARC–[CIV] declares an indigenous-language quote
+requirement per CIV–ARC–TEMPLATE § IV-A, the MEM MUST satisfy it.
+
+REQUIREMENT (when applicable):
+• At least one verbatim quote (≥25 words) MUST be from a source
+  listed in that ARC as admissible for the indigenous-language
+  requirement. The list of admissible sources is defined in the
+  ARC–[CIV] file (Section I or equivalent).
+• English (or other) translation with clear source attribution
+  is sufficient; original-script quotation is optional.
+• This requirement is additive to the 20% verbatim quote standard
+  and to adaptive quotation requirements (VIII, VIII.A). The same
+  quote may count toward both when it is from an admissible
+  indigenous-language source.
+
+APPLICABILITY:
+• Binding only when the civilization's ARC explicitly declares the
+  indigenous-language quote requirement. If the ARC does not
+  declare it, this subsection does not apply.
+• Check the governing ARC–[CIV] (e.g. CIV–ARC–RUSSIA, CIV–ARC–PERSIA)
+  for the requirement text and the list of admissible sources.
+
+Reference: CIV–ARC–TEMPLATE § IV-A; each ARC–[CIV] Section I (or
+equivalent) for admissible source lists.
+
+────────────────────────────────────────────────────────────
 VIII.E QUALITY SAFEGUARDS (ANTI-QUOTE-STUFFING)
 ────────────────────────────────────────────────────────────
 To ensure quote quality over quantity:
@@ -490,13 +528,13 @@ X.A CONNECTION TYPES (EXHAUSTIVE)
 
 DEPENDS_ON — Prerequisite relationship
 • This MEM cannot be fully understood without the target
-• Example: MEM–RUSSIA–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
+• Example: MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I DEPENDS_ON MEM–RUSSIA–NAPOLEON–1812
 • Traversal: Read dependencies first
 
 ENABLES — Consequent relationship
 • This MEM is required to understand the target
 • Inverse of DEPENDS_ON
-• Example: MEM–RUSSIA–PETER–GREAT ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
+• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I ENABLES MEM–RUSSIA–BALTIC–HEGEMONY
 
 CONTRADICTS — Tension relationship
 • This MEM presents claims in tension with the target
@@ -506,7 +544,7 @@ CONTRADICTS — Tension relationship
 PARALLELS — Structural similarity
 • This MEM exhibits patterns similar to the target
 • Cross-civ comparison marker
-• Example: MEM–RUSSIA–PETER–GREAT PARALLELS MEM–ROME–AUGUSTUS (centralization)
+• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I PARALLELS MEM–ROME–AUGUSTUS (centralization)
 
 TEMPORAL_BEFORE — Chronological predecessor
 • This MEM's subject precedes the target in time
@@ -517,7 +555,7 @@ TEMPORAL_AFTER — Chronological successor
 
 GEOGRAPHIC — Spatial relationship
 • This MEM's subject operates within or is shaped by the target geography
-• Example: MEM–RUSSIA–PETER–GREAT GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
+• Example: MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I GEOGRAPHIC MEM–RUSSIA–GEO–BALTIC–SEA
 
 ────────────────────────────────────────────────────────────
 X.B MINIMUM REQUIREMENTS (TYPE COVERAGE)

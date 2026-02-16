@@ -203,6 +203,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • Dynasty substitutes for institutions at origin points.
 • Procedural acceptance matters more than ethnic origin.
 • Founding myths encode survival logic, not civic ideals.
+• Encodes step 1 of RLL–0034 (Legitimacy Sequencing): authority accepted if it restores order; invitation grammar.
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (v2.7)

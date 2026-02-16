@@ -134,7 +134,7 @@ SYNTHESIS entries accepted as doctrine require Assumptions Box (≥3 assumptions
 ────────────────────────────────────────────────────────────
 XV. INITIAL STATE
 ────────────────────────────────────────────────────────────
-Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED. The Scholar learns only from MEM–ANGLIA files explicitly ingested. Absence of ingestion equals absence of belief.
+Starting Knowledge: ZERO. Assumed Priors: NONE. Civilizational Grammar: NOT PRELOADED. CIV–CORE Influence: DISABLED. The SCHOLAR learns only from MEM–ANGLIA files explicitly ingested. Absence of ingestion equals absence of belief.
 
 ────────────────────────────────────────────────────────────
 XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)

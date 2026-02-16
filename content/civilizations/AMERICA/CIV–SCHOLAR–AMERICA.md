@@ -196,7 +196,7 @@ America is derived from England. Pre-America Anglian culture and history
 are **core** to U.S. history and present: English and British institutions,
 law, political thought, colonial North American experience, and the
 civilizational grammar that preceded independence are constitutive, not
-external. The Scholar learns from MEM–ANGLIA files (constitutive for
+external. The SCHOLAR learns from MEM–ANGLIA files (constitutive for
 America) and MEM–AMERICA files (when present). Absence of ingestion
 equals absence of belief beyond this inherited frame.
 

@@ -349,7 +349,7 @@ Same-Civilization (≥10):
 • MEM–RUSSIA–WAR–NAPOLEON–EYLAU — accumulated defeats shaping doctrine
 • MEM–RUSSIA–WAR–NAPOLEON–FRIEDLAND — accumulated defeats shaping doctrine
 • MEM–RUSSIA–WAR–NAPOLEON–TILSIT — diplomatic consequences
-• MEM–RUSSIA–ALEXANDER–I — tsar's presence and strategic learning
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — tsar's presence and strategic learning
 • MEM–RUSSIA–WAR–NAPOLEON–BORODINO — endurance doctrine validated
 • MEM–RUSSIA–WAR–NAPOLEON–1812 — strategic depth and absorption
 • MEM–RUSSIA–KUTUZOV — strategic restraint as doctrine

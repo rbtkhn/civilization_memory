@@ -145,10 +145,10 @@ XI. MEM CONNECTIONS (v3.0 COMPLIANT)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
 • MEM–RUSSIA–CATHERINE–GREAT — elite compact formation predecessor
-• MEM–RUSSIA–ALEXANDER–I — post-paternal stabilization successor
+• MEM–RUSSIA–DYNASTY–ROMANOV–ALEXANDER–I — post-paternal stabilization successor
 • MEM–RUSSIA–DYNASTY–ROMANOV — dynastic performance limits
-• MEM–RUSSIA–PETER–GREAT — discipline model reference
-• MEM–RUSSIA–ELIZABETH — restraint predecessor contrast
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — discipline model reference
+• MEM–RUSSIA–DYNASTY–ROMANOV–ELIZABETH — restraint predecessor contrast
 • MEM–RUSSIA–GUARDS–COUPS — palace revolution mechanism
 • MEM–RUSSIA–NOBILITY — elite compact breach
 • MEM–RUSSIA–SERFDOM — compulsory service reassertion

@@ -26,7 +26,7 @@
 
 ### 2.1 Authority and source of doctrine
 
-- **Header / State learns from Scholar:** STATE correctly states that "American doctrinal authority: CIV–DOCTRINE–AMERICA (derived from CIV–DOCTRINE–ANGLIA)." **Aligned.**
+- **Header / STATE learns from SCHOLAR:** STATE correctly states that "American doctrinal authority: CIV–DOCTRINE–AMERICA (derived from CIV–DOCTRINE–ANGLIA)." **Aligned.**
 - **Section IX (Source Versions):** CIV–DOCTRINE–AMERICA v1.0 is listed as "derived from ANGLIA; American doctrine authority." **Aligned.**
 
 ### 2.2 Strategic position (Section III)

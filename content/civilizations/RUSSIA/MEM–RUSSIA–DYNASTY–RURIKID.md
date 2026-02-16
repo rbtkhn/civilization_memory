@@ -180,6 +180,7 @@ X. CONTINUITY INSIGHTS (RAW)
 • External domination selects adaptive rulers.
 • Centralization converts redundancy into fragility.
 • Dynastic exhaustion produces collapse, not reform.
+• The file illustrates the full four-step legitimacy sequence (RLL–0034): order-restoration → sacral/legal ratification → licensed rule under overlordship → internalisation by one centre.
 
 ────────────────────────────────────────────────────────────
 XI. MEM CONNECTIONS (MANDATORY · EXPLAINED)

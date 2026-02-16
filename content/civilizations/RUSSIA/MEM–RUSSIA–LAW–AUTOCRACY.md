@@ -300,7 +300,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–LAW–ULOZHENIE–1649 — autocratic codification
 • MEM–RUSSIA–LAW–TABLE–RANKS — bureaucratic autocracy
 • MEM–RUSSIA–IVAN–TERRIBLE — autocracy's theorist
-• MEM–RUSSIA–PETER–GREAT — modernizing autocracy
+• MEM–RUSSIA–DYNASTY–ROMANOV–PETER–I — modernizing autocracy
 • MEM–RUSSIA–CATHERINE–GREAT — enlightened absolutism
 • MEM–RUSSIA–NICHOLAS–I — official nationality
 • MEM–RUSSIA–STALIN — Soviet autocracy
