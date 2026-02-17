@@ -1,4 +1,4 @@
-MEM–RUSSIA–GEO–CAUCASUS — v3.0
+MEM–RUSSIA–GEO–CAUCASUS — v3.1
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
@@ -328,6 +328,20 @@ XV. ARC CATEGORY D — MODERN SCHOLARSHIP
 > packets that can be destroyed in detail."
 > — King, *The Ghost of Freedom* (2008)
 
+**Leo Tolstoy — *Hadji Murat* (1912)** (literary encoding of imperial encounter):
+
+> "The eyes of the two men met, and expressed to each other much that could
+> not have been put into words and that was not at all what the interpreter
+> said. Without words they told each other the whole truth. Vorontsov's eyes
+> said that he did not believe a single word Hajji Murad was saying, and
+> that he knew he was and always would be an enemy to everything Russian
+> and had surrendered only because he was obliged to."
+> — Leo Tolstoy, *Hadji Murat* (1912), Chapter 10 (trans. Maude)
+
+> "There was an official with a large roll of paper containing a new plan
+> for subjugating the Caucasus."
+> — Leo Tolstoy, *Hadji Murat* (1912), Chapter 10 (trans. Maude)
+
 Modern scholarship confirms **attrition dynamics** and **fragmentation logic**.
 
 ────────────────────────────────────────────────────────────
@@ -342,6 +356,7 @@ Related GEO–MEMs:
 
 Subject MEM (Mercouris cognition):
 • MEM–RUSSIA–CAUCASUS — civilizational narrative, historical events
+• MEM–RUSSIA–LIT–TOLSTOY — *Hadji Murat* (1912) literary encoding
 
 Cross-civilizational GEO:
 • MEM–TURKEY–GEO–CAUCASUS — southwestern influence

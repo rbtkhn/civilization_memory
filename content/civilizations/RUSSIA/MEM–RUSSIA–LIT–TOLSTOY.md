@@ -287,6 +287,7 @@ GEO–MEM (≥2):
 Cross-civilizational:
 • MEM–FRANCIA–NAPOLEON — enemy transformed into literary symbol
 • MEM–GERMANIA–PHILOSOPHY — Schopenhauer influence on Tolstoy's determinism
+• MEM–GERMANIA–HIST–RANKE — parallel legitimacy-encoding historiography (state-centered vs literary-memory)
 
 ────────────────────────────────────────────────────────────
 XIII. MEM BIBLIOGRAPHY

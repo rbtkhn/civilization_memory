@@ -1,9 +1,9 @@
-MEM–RUSSIA–WAR–NAPOLEON — v3.0
+MEM–RUSSIA–WAR–NAPOLEON — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–WAR–NAPOLEON v2.7
+Supersedes: MEM–RUSSIA–WAR–NAPOLEON v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: War with Napoleonic France (Отечественная война 1812 года)
@@ -233,6 +233,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–SUVOROV — offensive doctrine contrast with endurance strategy
 • MEM–RUSSIA–MUSCOVY — coercive extraction as war-fighting foundation
 • MEM–RUSSIA–LIT–TOLSTOY — literary memory of the Patriotic War
+• MEM–RUSSIA–LIT–PUSHKIN — *Eugene Onegin* generational memory of 1812
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — strategic depth enabling endurance
@@ -279,6 +280,7 @@ XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Dominic Lieven, *Russia Against Napoleon: The True Story of the Campaigns of War and Peace* (2009)
 • Leo Tolstoy, *War and Peace* (1869)
+• Alexander Pushkin, *Eugene Onegin* (1833). Trans. Charles Johnston.
 • Alexander Mikaberidze, *Kutuzov: A Life in War and Peace* (Oxford University Press, 2022) - Detailed analysis of Kutuzov's supreme command during the 1812 campaign and strategic decision-making
 • Adam Zamoyski, *1812: Napoleon's Fatal March on Moscow* (HarperCollins, 2004) - Comprehensive account of the campaign from multiple perspectives
 
@@ -304,5 +306,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v3.0
+END OF FILE — MEM–RUSSIA–WAR–NAPOLEON v3.1
 ────────────────────────────────────────────────────────────

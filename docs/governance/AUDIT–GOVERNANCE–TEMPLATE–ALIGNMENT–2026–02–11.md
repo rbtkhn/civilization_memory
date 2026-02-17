@@ -41,7 +41,7 @@
 | Template | Compatibility / Governed by | STATE/SCHOLAR/harvest/sync refs | Status |
 |----------|-----------------------------|----------------------------------|--------|
 | **CIV–STATE–TEMPLATE** | CIV–MEM–CORE v3.2 · CMC 3.2 | v1.12. §XII Directionality: harvest exclusive gate; §XIV sync; §XIV-B Harvest Protocol. | **ALIGNED** |
-| **CIV–SCHOLAR–TEMPLATE** | CIV–MEM–CORE v3.2 · MEM v3.1 · PROTOCOL v3.1 | Entity focus (XIII). No direct harvest ref (harvest target is Scholar file). | **ALIGNED** |
+| **CIV–SCHOLAR–TEMPLATE** | CIV–MEM–CORE v3.2 · MEM v3.1 · PROTOCOL v3.1 | Entity focus (XIII). No direct harvest ref (harvest target is SCHOLAR file). | **ALIGNED** |
 | **CIV–SCHOLAR–PROTOCOL** | CMC 3.2 · SCHOLAR–TEMPLATE v3.1 | Entity focus: CORE, STATE, SCHOLAR re-anchor. | **ALIGNED** |
 | **CIV–MEM–TEMPLATE** | CMC 3.2 | CIV–MEM–CORE v3.2 refs (proportion, XXIV–XXVII). | **ALIGNED** |
 | **CIV–CORE–TEMPLATE** | CIV–MEM–CORE v3.2 · CMC v3.2 | Re-anchor on civilization switch; load per mode. | **ALIGNED** |
@@ -59,8 +59,8 @@
 
 | Rule | Purpose | Template / Bootstrap ref | Status |
 |------|----------|---------------------------|--------|
-| cmc-state-scholar-sync | Sync: STATE updated from SCHOLAR/CORE/DOCTRINE | CIV–STATE–TEMPLATE §XIV; harvest as only transfer into Scholar | **ALIGNED** |
-| cmc-state-scholar-harvest | Harvest: only way STATE → Scholar learn | CIV–STATE–TEMPLATE §XIV-B | **ALIGNED** |
+| cmc-state-scholar-sync | Sync: STATE updated from SCHOLAR/CORE/DOCTRINE | CIV–STATE–TEMPLATE §XIV; harvest as only transfer into SCHOLAR | **ALIGNED** |
+| cmc-state-scholar-harvest | Harvest: only way STATE → SCHOLAR learn | CIV–STATE–TEMPLATE §XIV-B | **ALIGNED** |
 | cmc-state-mem-grounding | MEM SCAN; dimension + connection discovery | CIV–STATE–TEMPLATE; MEM–RELEVANCE | **ALIGNED** |
 | cmc-mode-contracts | WRITE/LEARN/IMAGINE/STATE/SYSTEM contracts | CMC–BOOTSTRAP; STATE template | **ALIGNED** |
 | cmc-oge-enforcement | 8-slot options; STATE 8 options; MIND-derived | CIV–STATE–TEMPLATE X-A; MIND profiles | **ALIGNED** |
@@ -93,7 +93,7 @@
 
 | Topic | Where defined | Where referenced | Consistent? |
 |-------|----------------|------------------|-------------|
-| **Harvest (STATE → Scholar)** | CIV–STATE–TEMPLATE §XIV-B; cmc-state-scholar-harvest | CMC–BOOTSTRAP (SYNC para); STATE template §XII; cmc-state-scholar-sync; CIV–STATE–RUSSIA; CIV–SCHOLAR–RUSSIA | **Yes** |
+| **Harvest (STATE → SCHOLAR)** | CIV–STATE–TEMPLATE §XIV-B; cmc-state-scholar-harvest | CMC–BOOTSTRAP (SYNC para); STATE template §XII; cmc-state-scholar-sync; CIV–STATE–RUSSIA; CIV–SCHOLAR–RUSSIA | **Yes** |
 | **Sync (update STATE from sources)** | CIV–STATE–TEMPLATE §XIV; cmc-state-scholar-sync | CMC–BOOTSTRAP; STATE template §XII | **Yes** |
 | **Entity focus (re-anchor)** | CIV–MEM–CORE (518–522); CMC–BOOTSTRAP (CORE LOAD) | CIV–STATE–TEMPLATE §I; CIV–SCHOLAR–TEMPLATE XIII; CIV–SCHOLAR–PROTOCOL; CIV–CORE–TEMPLATE; cmc-state-mem-grounding; cmc-scholar-mode | **Yes** |
 | **STATE template version** | CIV–STATE–TEMPLATE (v1.12) | CMC–BOOTSTRAP: now "current: v1.12" (was v1.2 — fixed this audit) | **Yes** (fixed) |

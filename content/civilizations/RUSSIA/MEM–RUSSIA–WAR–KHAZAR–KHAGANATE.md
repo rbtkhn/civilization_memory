@@ -246,7 +246,7 @@ Cross-civilizational:
 • MEM–BYZANTIUM–DIPLOMACY — Alliance against Khazar power
 • MEM–PERSIA–TRADE–ROUTES — Caspian economic context
 
-Scholar Constraints:
+SCHOLAR Constraints:
 • RLL–0001 (Corridor Primacy): Khazar control of Volga-Don corridor
 • RLL–0004 (Indirect Rule Absorption): Khazar administrative models in Russian governance
 • RLL–0007 (Rurikid Continuity): Establishment of Rurikid hegemony through Khazar defeat

@@ -279,7 +279,7 @@ GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–MOSCOW — Metropolitan aspiration in Three Sisters
 • MEM–RUSSIA–GEO–CRIMEA — Chekhov's final residence and health exile
 
-Scholar Constraints:
+SCHOLAR Constraints:
 • RLL–0002 (Sacral Ratification): Chekhov's canonization despite subtle style
 • RLL–0008 (Coercive Modernization): Economic necessity destroying cultural heritage
 • Failure-First Standard: Social change produces more suffering than progress

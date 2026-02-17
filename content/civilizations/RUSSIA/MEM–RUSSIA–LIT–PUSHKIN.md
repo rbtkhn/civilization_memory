@@ -1,11 +1,11 @@
-MEM–RUSSIA–LIT–PUSHKIN — v3.1
+MEM–RUSSIA–LIT–PUSHKIN — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE · CANONICAL
-Version: 3.1
-Supersedes: MEM–RUSSIA–LIT–PUSHKIN v3.0
-Upgrade Type: CONTENT · PUSHKIN VERBATIM (Sections II–V: Captain's Daughter, Boris Godunov, Eugene Onegin, Bronze Horseman)
+Version: 3.2
+Supersedes: MEM–RUSSIA–LIT–PUSHKIN v3.1
+Upgrade Type: CONTENT · PUSHKIN VERBATIM EXPANSION (Sections II–V + new works: Message to Siberia, Monument, Poltava, To the Slanderers, The Village)
 Class: MEM (Civilizational Memory)
 Last Update: January 2026
 Word Count: ~2,750
@@ -147,6 +147,60 @@ Evidence: Pushkin's fascination with Peter's legacy, combined with the 1824
 flood of St. Petersburg that destroyed lives for imperial symbolism.
 
 ────────────────────────────────────────────────────────────
+V.A. MESSAGE TO SIBERIA (1827) — EXILE AND SOLIDARITY
+────────────────────────────────────────────────────────────
+Pushkin's poem to the exiled Decembrists encodes Siberia as **political
+punishment** and literature as **solidarity across distance**.
+
+> "Deep in the Siberian mine, Keep your patience proud; The bitter toil
+> shall not be lost, The rebel thought unbowed... The heavy-hanging chains
+> will fall, The walls will crumble at a word; And Freedom greet you in
+> the light, And brothers give you back the sword."
+> — Alexander Pushkin, "Message to Siberia" (1827), trans. Babette Deutsch
+
+Pushkin handed the poem to the wife of a Decembrist traveling to join her
+husband in exile. Nicholas I's regime had purged the court; Pushkin's verse
+encodes defiance that predates Dostoevsky's *House of the Dead*.
+
+────────────────────────────────────────────────────────────
+V.B. MONUMENT (1836) — SELF-CANONIZATION
+────────────────────────────────────────────────────────────
+*Exegi monumentum* encodes the national poet as **sacral memory**.
+
+> "Through all great Russia's spaces shall my name be spoken. And every
+> living tongue of man my name shall tell; Proud breed of Slav, and Finn,
+> and Tungus still unbroken, And Kalmuck whom the steppe knows well."
+> — Alexander Pushkin, "Monument" (1836), trans. C.M. Bowra
+
+Pushkin claims immortality through art; the empire's peoples become the
+witnesses to his name. National poetry and civilizational scope merge.
+
+────────────────────────────────────────────────────────────
+V.C. POLTAVA (1829) AND TO THE SLANDERERS OF RUSSIA (1831)
+────────────────────────────────────────────────────────────
+*Poltava* (1829) encodes Mazepa's betrayal and Peter's victory—Ukraine as
+contested borderland in Russian memory. *To the Slanderers of Russia* (1831),
+written during the Polish uprising, frames Western criticism as slander and
+the conflict as a Slavic familial dispute Europeans should not meddle in.
+Pushkin's imperial-national framing anticipates later encodings of Russia
+versus the West.
+
+────────────────────────────────────────────────────────────
+V.D. THE VILLAGE (1819) — SERFDOM CRITIQUE
+────────────────────────────────────────────────────────────
+"The Village" encodes pre-emancipation moral dissent.
+
+> "Here gentility wild, no feelings, without law, / Have arrogated to
+> themselves the violent vine / Over labour, property, and the peasant's
+> time."
+> — Alexander Pushkin, "The Village" (1819), trans. James Falen (adapted)
+
+The poem contrasts pastoral beauty with the horrors of serfdom—slavery,
+exploitation, the "burdensome yoke." Pushkin asks whether "Liberty
+enlightened" might finally dawn. The work predates the Decembrist revolt
+and encodes elite conscience before 1861.
+
+────────────────────────────────────────────────────────────
 VI. PUSHKIN AS LANGUAGE ARCHITECT
 ────────────────────────────────────────────────────────────
 Pushkin's linguistic innovation encodes Russian identity formation.
@@ -273,6 +327,8 @@ Russian (≥10):
 • MEM–RUSSIA–DECEMBRIST–UPRISING — Pushkin's friends among rebels
 • MEM–RUSSIA–LAW–SERFDOM — social hierarchy in Eugene Onegin
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Russian identity and cultural memory
+• MEM–RUSSIA–SIBERIA — "Message to Siberia" (1827) exile encoding
+• MEM–RUSSIA–UKRAINE — Poltava, To the Slanderers of Russia (borderland framing)
 
 GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–STEPPE — landscape in The Captain's Daughter
@@ -282,7 +338,7 @@ Cross-civilizational:
 • MEM–FRANCIA–LITERATURE — French literary influence on Russian forms
 • MEM–EUROPA–ROMANTICISM — European Romantic movement context
 
-Scholar Constraints:
+SCHOLAR Constraints:
 • RLL–0002 (Sacral Ratification): Pushkin's canonization follows aristocratic death
 • RLL–0007 (Rurikid Continuity): Pushkin's work bridges Kievan literary traditions and modern Russian literature
 • Failure-First Standard: Pushkin's death becomes national martyrdom
@@ -295,6 +351,9 @@ Primary texts (verbatim cited):
 • Pushkin, Alexander. *Boris Godunov* (1825, pub. 1831). Trans. Alfred Hayes. In *The Works of Alexander Pushkin*. New York: Random House, 1936.
 • Pushkin, Alexander. *Eugene Onegin* (1833). Trans. Charles Johnston. London: Scolar Press, 1977.
 • Pushkin, Alexander. *The Bronze Horseman* (1833). Trans. Walter Arndt. In *Pushkin Threefold*. New York: E. P. Dutton, 1972.
+• Pushkin, Alexander. "Message to Siberia" (1827). Trans. Babette Deutsch. In *Alexander Pushkin: Collected Works*. RVB, 2024.
+• Pushkin, Alexander. "Monument" / *Exegi monumentum* (1836). Trans. C.M. Bowra. In *Alexander Pushkin: Collected Works*. RVB, 2024.
+• Pushkin, Alexander. "The Village" (1819). Trans. James Falen. In *The Complete Works of Alexander Pushkin*.
 
 • Binyon, T.J. *Pushkin: A Biography*. London: HarperCollins, 2002. [PRIMARY:
   comprehensive modern biography]
@@ -334,5 +393,19 @@ v1.1 implements CIV–MEM–TEMPLATE v3.0's mandatory 20% evidence standard:
 This upgrade achieves mandatory 20% compliance while preserving analytical depth.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–PUSHKIN v3.0
+VERSION NOTES (v3.2)
+────────────────────────────────────────────────────────────
+v3.2 implements Pushkin verbatim expansion (parallel to Dostoevsky expansion):
+
+• Added V.A: "Message to Siberia" (1827) — exile and solidarity
+• Added V.B: "Monument" (1836) — self-canonization
+• Added V.C: Poltava (1829), To the Slanderers of Russia (1831) — Ukraine/borderland
+• Added V.D: "The Village" (1819) — serfdom critique
+• MEM connections updated: SIBERIA, UKRAINE
+• Bibliography updated with new primary texts
+• Cross-MEM verbatim: NICHOLAS–I, SIBERIA, UKRAINE, ART–MUSSORGSKY, THIRD–ROME,
+  LAW–SERFDOM, LAW–EMANCIPATION, ORTHODOX–CHRISTIANITY, PUTIN, WAR–NAPOLEON
+
+────────────────────────────────────────────────────────────
+END OF FILE — MEM–RUSSIA–LIT–PUSHKIN v3.2
 ────────────────────────────────────────────────────────────

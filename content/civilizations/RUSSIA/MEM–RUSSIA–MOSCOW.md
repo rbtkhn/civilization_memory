@@ -1,10 +1,10 @@
-MEM–RUSSIA–MOSCOW — v3.1
+MEM–RUSSIA–MOSCOW — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · PARTIAL · 20% TARGET
 Status: ACTIVE · PARTIAL
 Version: 3.1
-Supersedes: MEM–RUSSIA–MOSCOW v3.0
-Upgrade Type: CONTENT · PUSHKIN VERBATIM (Section II, Eugene Onegin)
+Supersedes: MEM–RUSSIA–MOSCOW v3.1
+Upgrade Type: CONTENT · PUSHKIN + TOLSTOY VERBATIM (Section II)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Moscow (Москва) — Sacred Capital & Autocratic Center
 Dates: 1147 AD–present (capital: 1328–1712, 1918–present)
@@ -83,6 +83,19 @@ Pushkin encodes Moscow as the Russian heart:
 > with the keys of the old Kremlin—no, my Moscow did not go to him with
 > a penitent head."
 > — Alexander Pushkin, *Eugene Onegin* (1833), trans. Charles Johnston
+
+Tolstoy encodes Moscow's abandonment and Napoleon's empty triumph:
+
+> "Meanwhile an agitated consultation was being carried on in whispers among
+> his generals and marshals at the rear of his suite. Those sent to fetch
+> the deputation had returned with the news that Moscow was empty, that
+> everyone had left it."
+> — Leo Tolstoy, *War and Peace* (1869), Book 11, Chapter 19 (trans. Maude)
+
+> "Every Russian looking at Moscow feels her to be a mother; every foreigner
+> who sees her, even if ignorant of her significance as the mother city,
+> must feel her feminine character, and Napoleon felt it."
+> — Leo Tolstoy, *War and Peace* (1869), Book 11, Chapter 19 (trans. Maude)
 
 Initial characteristics:
 • Minor fortress in forest zone of Vladimir-Suzdal principality
@@ -453,6 +466,10 @@ Russian (≥10 same-civilization):
   Moscow cannot be understood as abstract capital; the Kremlin encodes
   the fusion of sacred and political authority in material form.
 
+• MEM–RUSSIA–LIT–TOLSTOY — literary encoding of Moscow's 1812 abandonment
+  Dependency: War and Peace encodes Moscow as mother-city, empty before
+  Napoleon; legitimacy-through-sacrifice; Section II Tolstoy verbatim.
+
 GEO–MEM (REQUIRED ≥2):
 
 • MEM–RUSSIA–GEO–MOSKVA–RIVER — city's river position
@@ -510,6 +527,8 @@ Primary Sources Consulted:
 Secondary Sources:
 • Pushkin, Alexander. *Eugene Onegin* (1833). Trans. Charles Johnston.
   London: Scolar Press, 1977. [Section II: Moscow as Russian heart]
+• Tolstoy, Leo. *War and Peace* (1869). Trans. Louise and Aylmer Maude.
+  [Section II: Moscow abandonment, Napoleon's empty triumph]
 • Crummey, Robert O. *Aristocrats and Servitors: The Boyar Elite in Russia,
   1613–1689*. Princeton: Princeton University Press, 1983.
 • Franklin, Simon, and Jonathan Shepard. *The Emergence of Rus 750–1200*.

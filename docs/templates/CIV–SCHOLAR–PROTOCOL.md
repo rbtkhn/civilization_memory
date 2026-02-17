@@ -1,5 +1,5 @@
 CIV–SCHOLAR–PROTOCOL — v3.3
-Civilizational Strategy Codex · Scholar Operating Law
+Civilizational Strategy Codex · SCHOLAR Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory

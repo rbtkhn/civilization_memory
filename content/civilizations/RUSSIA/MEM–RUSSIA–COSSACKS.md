@@ -1,8 +1,8 @@
-MEM–RUSSIA–COSSACKS — v3.0
+MEM–RUSSIA–COSSACKS — v3.1
 Civilizational Memory Codex · Subject Memory File
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–COSSACKS v2.0
+Version: 3.1
+Supersedes: MEM–RUSSIA–COSSACKS v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Cossacks (Казаки) — Frontier Warriors and Imperial Instruments
@@ -110,6 +110,20 @@ a voice in the council. The hosts governed themselves by
 traditions that predated and contradicted the autocratic
 principles of the tsarist state."
 — W. Bruce Lincoln, *The Conquest of a Continent* (1994)
+
+Leo Tolstoy encodes Cossack frontier life in *The Cossacks* (1863):
+
+> "It was one of those wonderful evenings that occur only in the Caucasus.
+> The sun had sunk behind the mountains but it was still light. At nightfall
+> people from fear of one another flock to their dwellings, and only birds
+> and beasts fearless of man prowl in those deserted spaces."
+> — Leo Tolstoy, *The Cossacks* (1863), Chapter 5 (trans. Maude)
+
+> "There an armed and mounted Cossack, on leave from the cordon, rides up
+> to a hut and, leaning towards the window, knocks. In answer to the knock
+> the handsome head of a young woman appears at the window and you can hear
+> caressing, laughing voices."
+> — Leo Tolstoy, *The Cossacks* (1863), Chapter 5 (trans. Maude)
 
 This autonomy would not survive incorporation.
 
@@ -319,6 +333,8 @@ GEO (≥2) — Mearsheimer Strategic Cognition:
 • MEM–RUSSIA–GEO–DON–RIVER — Don Cossack homeland
 • MEM–RUSSIA–GEO–STEPPE — frontier environment
 
+• MEM–RUSSIA–LIT–TOLSTOY — *The Cossacks* (1863) frontier encoding
+
 Cross-civilizational:
 • MEM–OTTOMAN–CRIMEAN–KHANATE — Cossack raiding target
 • MEM–POLAND–LITHUANIA — Zaporozhian political context
@@ -342,6 +358,7 @@ SECONDARY SOURCES:
 • O'Rourke, Shane. *Warriors and Peasants: The Don Cossacks*. Palgrave, 2000.
 • Kenez, Peter. *Civil War in South Russia*. University of California Press, 1977.
 • Boeck, Brian. *Imperial Boundaries: Cossack Communities and Empire-Building*. Cambridge UP, 2009.
+• Tolstoy, Leo. *The Cossacks* (1863). Trans. Louise and Aylmer Maude.
 
 ────────────────────────────────────────────────────────────
 XIV. MEM INGEST BOOTSTRAP (MANDATORY)

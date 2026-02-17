@@ -1,9 +1,9 @@
-MEM–RUSSIA–LAW–SERFDOM — v3.0
+MEM–RUSSIA–LAW–SERFDOM — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–LAW–SERFDOM v2.7
+Supersedes: MEM–RUSSIA–LAW–SERFDOM v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Serfdom (Крепостное право)
@@ -140,6 +140,17 @@ Lessons:
 
 Serfdom is remembered as necessity, not virtue.
 
+Pushkin, writing before emancipation, encodes elite conscience in "The
+Village" (1819):
+
+> "Here gentility wild, no feelings, without law, Have arrogated to
+> themselves the violent vine Over labour, property, and the peasant's
+> time... O, when will Liberty enlightened dawn?"
+> — Alexander Pushkin, "The Village" (1819), trans. James Falen (adapted)
+
+The poem contrasts pastoral beauty with serfdom's horrors—slavery, the
+"burdensome yoke," the denial of hope.
+
 Tolstoy, writing after 1861, encodes the system's **persistent shadow**
 in elite and peasant consciousness:
 
@@ -176,6 +187,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–SERVICE–NOBILITY — nobles receive serfs in exchange for state service
 • MEM–RUSSIA–WAR–CRIMEAN — strategic shock exposing serfdom as liability
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church legitimization of social hierarchy
+• MEM–RUSSIA–LIT–PUSHKIN — "The Village" (1819) serfdom critique
 
 GEO (≥2):
 • MEM–GEO–RUSSIAN–STEPPE — agricultural foundation; grain surplus extraction zone
@@ -196,6 +208,7 @@ Secondary:
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
+• Pushkin, Alexander. "The Village" (1819). Trans. James Falen.
 • Tolstoy, Leo. *Anna Karenina* (1877). Trans. Louise and Aylmer Maude.
   [Literary evidence: serfdom's legacy in post-emancipation consciousness, Section VII]
 • *Ulozhenie* (Law Code of 1649), Chapter XI: On Peasants
@@ -230,5 +243,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–SERFDOM v3.0
+END OF FILE — MEM–RUSSIA–LAW–SERFDOM v3.1
 ────────────────────────────────────────────────────────────

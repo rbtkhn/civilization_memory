@@ -13,7 +13,7 @@ This file learns from the present — analysing current events through
 historically-grounded patterns to provide structured decision-relevant
 options. It is informed by CIV–SCHOLAR–CHINA (which learns from the
 past) and by CIV–CORE–CHINA and CIV–DOCTRINE–CHINA. Information does
-not feed back into Scholar except via explicit harvest.
+not feed back into Scholar except via explicit relay.
 
 Duty of Competence: This file is subject to a completeness standard.
 The system's obligation is to surface all material options identifiable
@@ -29,7 +29,7 @@ STATE learns from SCHOLAR: The historically-grounded patterns and
 constraint grammar accumulated in CIV–SCHOLAR–CHINA inform this file.
 Doctrinal authority: CIV–DOCTRINE–CHINA (derived from CIV–SCHOLAR–
 CHINA). Information flows from STATE into Scholar only via explicit
-**harvest** or **harvest session** command (CIV–STATE–TEMPLATE §XIV-B).
+**relay** or **relay to scholar** command (CIV–STATE–TEMPLATE §XIV-B).
 The system equips; the principal decides. Accountability lives with
 the choice, not the analysis.
 
@@ -664,8 +664,8 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 
 To update: user issues "sync state to scholar" command. The system
 compares current source versions to those listed here and proposes
-updates for user approval. Transfer into Scholar only via "harvest"
-or "harvest session" (CIV–STATE–TEMPLATE §XIV-B).
+updates for user approval. Transfer into SCHOLAR only via "relay"
+or "relay to scholar" (CIV–STATE–TEMPLATE §XIV-B).
 
 ────────────────────────────────────────────────────────────
 X. STATE LOG

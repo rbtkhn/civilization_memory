@@ -1,5 +1,5 @@
 CIV–STATE–TEMPLATE — v3.3
-Civilizational Memory Codex · State File Template
+Civilizational Memory Codex · STATE File Template
 
 Status: ACTIVE · CANONICAL
 Version: 3.3
@@ -822,7 +822,7 @@ When new evidence falsifies a linchpin assumption in a material option:
 2. Document trigger: What evidence changed
 3. Re-assess assumptions: Update Key Assumptions
 4. Re-evaluate confidence: Adjust confidence level
-5. Record in State Log (Section IX of STATE file)
+5. Record in STATE Log (Section IX of STATE file)
 
 REVISION RECORD FORMAT:
   Option: [Letter]
@@ -1156,7 +1156,7 @@ directly in the STATE file. They feed back to the file through
 the standard evidence-update and assessment-closure mechanisms
 (Option H). When a Decision Point produces evidence that shifts a
 binding constraint or stability indicator, it is recorded in the
-State Log via the normal revision protocol (Section X).
+STATE Log via the normal revision protocol (Section X).
 
 RESPONSE LENGTH:
 • Initial Decision Points presentation (steps 1-4): 2-3 sentences
@@ -1487,7 +1487,7 @@ When user selects session closure, deliver:
 ACTIVITY RECORD:
 Assumption Stress Test does not require a separate ARC file. Its
 output feeds directly into the existing Evidence Update mechanism
-in Material Options. Session results are recorded in the State
+in Material Options. Session results are recorded in the STATE
 Log (Section IX) with type tag "STRESS TEST."
 
 ────────────────────────────────────────────────────────────
@@ -1890,7 +1890,7 @@ PROCEDURE:
      HOLDS — Hard Constraint not triggered
      WEAKENED — conditions approaching the trigger
      FALSIFIED — Hard Constraint actively triggered
-   • If WEAKENED: flag in State Log; add to options menu
+   • If WEAKENED: flag in STATE Log; add to options menu
      ("Deepen doctrine [name] — Hard Constraint may be failing")
    • If FALSIFIED: escalate — "Doctrine [name] Hard Constraint
      '[condition]' is actively triggered; doctrine review required"
@@ -1925,7 +1925,7 @@ When user selects session closure, deliver:
 
 ACTIVITY RECORD:
 Pattern Audit does not require a separate ARC file. Session results
-are recorded in the State Log (Section IX) with type tag
+are recorded in the STATE Log (Section IX) with type tag
 "PATTERN AUDIT." Format:
 "[Date] | Pattern: [name] | Prior: [activation] | Result:
 [classification] | New: [activation]"
@@ -2035,16 +2035,21 @@ They are distinguished primarily by temporal orientation.
 DIRECTIONALITY:
 • SCHOLAR's historical patterns inform STATE's analytical framework
   (via Decision-Relevant History and sync command)
+• **Bidirectional read (STATE side):** STATE re-reads SCHOLAR at each
+  analytical node (Material Options, Decision Points, Pattern Audit, etc.),
+  focusing on Sections IV–V (axioms, RLLs), VI (Negative Capability Zone),
+  and VII (Decision-Relevant History). Real-time re-consultation; no new
+  persistence layer.
 • STATE's current-events analysis does NOT flow back into SCHOLAR
   except via explicit **relay to scholar** command family
-  (Section XIV-B). No other transfer into Scholar learn mode is
+  (Section XIV-B). No other transfer into SCHOLAR learn mode is
   permitted.
 • The present becomes history eventually; relay is the gate
-  through which STATE session output may enter Scholar as learning
+  through which STATE session output may enter SCHOLAR as learning
 • Sync ("sync state to scholar") updates STATE from SCHOLAR/CORE/
   DOCTRINE; relay ("relay to scholar", "relay session to scholar") is the only
   command that transfers information from STATE session into
-  Scholar learn mode
+  SCHOLAR learn mode
 
 ────────────────────────────────────────────────────────────
 XIII. COMPLETENESS AUDIT CHECKLIST
@@ -2091,7 +2096,7 @@ STATE files are derived from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE,
 and MEM files. When these sources are updated, STATE may become
 stale. Sync is one-way: STATE is updated from these sources.
 
-**Transfer into Scholar:** The **only** way to transfer information from
+**Transfer into SCHOLAR:** The **only** way to transfer information from
 STATE mode into SCHOLAR (learn mode) is the **"relay to scholar"**
 command family. STATE does not write back to SCHOLAR, CORE, or
 DOCTRINE except via explicit relay. See Section XIV-B (Relay
@@ -2137,7 +2142,7 @@ SYNC PROCEDURE:
    Pattern Audit (X-H, Step 5b).
 5. Propose specific updates to affected sections
 6. Apply only with user approval
-7. Update Source Versions block and State Log
+7. Update Source Versions block and STATE Log
 
 LIGHTWEIGHT DRIFT CHECK (RECOMMENDED):
 At session start (or before closure), run a fast consistency check that
@@ -2151,13 +2156,12 @@ XIV-B. RELAY PROTOCOL (STATE → SCHOLAR LEARN)
 in STATE mode may transfer information into SCHOLAR (learn
 mode). No other mechanism may write STATE session output into
 CIV–SCHOLAR. This preserves a single, user-controlled gate for
-present-oriented learning to enter the Scholar ledger.
+present-oriented learning to enter the SCHOLAR ledger.
 
 Trigger: User issues "relay to scholar" or equivalent
 ("relay session to scholar", "relay this session", "relay")
 while in STATE mode, for the entity in focus.
-Legacy aliases accepted for backward compatibility:
-"harvest", "harvest session", "harvest this session".
+Deprecated (avoid; still accepted): "harvest", "harvest session".
 
 Relay procedure:
 1. Identify the STATE session output to be relayed (e.g. decision-
@@ -2165,9 +2169,9 @@ Relay procedure:
    updates, doctrine-check insights, forward-projection summaries).
 2. Propose specific additions to CIV–SCHOLAR–[CIV] in a form
    appropriate to that file (e.g. ENTRY, synthesis candidate, RLL
-   proposal, or pattern note per Scholar template structure).
+   proposal, or pattern note per SCHOLAR template structure).
 3. Present proposed additions to the user; apply only after approval.
-4. Record in the STATE file (e.g. State Log or session activity
+4. Record in the STATE file (e.g. STATE Log or session activity
    record) that a relay was performed and what was transferred.
 
 Cursor rule: cmc-state-scholar-harvest.

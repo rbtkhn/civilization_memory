@@ -2,7 +2,7 @@ MEM–RUSSIA–ROMANOV–NICHOLAS–I — v1.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.0
+Version: 1.1
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas I (Николай I)
@@ -68,6 +68,30 @@ monarchies protects the empire from liberal-national contagion. The cost is
 diplomatic: Russia is identified with reaction, and when Nicholas later
 needs accommodation over the Eastern Question, the powers that might have
 balanced against Britain and France have no incentive to side with him.
+
+Pushkin, whose friends were among the Decembrist rebels, wrote under
+Nicholas's censors and died in a duel in 1837. His "Message to Siberia"
+(1827), smuggled to the exiles, encodes defiance and solidarity:
+
+> "Deep in the Siberian mine, Keep your patience proud; The bitter toil
+> shall not be lost, The rebel thought unbowed... The heavy-hanging chains
+> will fall, The walls will crumble at a word; And Freedom greet you in
+> the light, And brothers give you back the sword."
+> — Alexander Pushkin, "Message to Siberia" (1827), trans. Babette Deutsch
+
+*The Bronze Horseman* (1833), published under Nicholas, encodes the little
+man crushed by Peter's legacy—Eugene, ruined by the flood, railing at the
+statue: individual suffering versus imperial glory.
+
+Dostoevsky's arrest (1849) for involvement in the Petrashevsky circle,
+mock execution, and four years in Siberian penal servitude encode Nicholas
+I's repression of intellectual dissent. *The House of the Dead* (1862)
+records the penal system Nicholas's regime enforced:
+
+> "Here there is a world apart... the house of the living dead—life as
+> nowhere else and a people apart."
+> — Fyodor Dostoevsky, *The House of the Dead* (1862), Part 1, Chapter 1
+>   (trans. Constance Garnett)
 
 ────────────────────────────────────────────────────────────
 V. EASTERN QUESTION & RESTRAINT ARTICULATED
@@ -169,6 +193,7 @@ Same-civilization (≥10):
 • MEM–RUSSIA–LIT–GOGOL — censorship, Inspector General
 • MEM–RUSSIA–LAW–SERFDOM — unreformed system exposed by Crimean defeat
 • MEM–RUSSIA–SEVASTOPOL — naval inadequacy revealed in Crimea
+• MEM–RUSSIA–LIT–DOSTOEVSKY — Petrashevsky arrest 1849, House of the Dead
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–PETERSBURG — court and capital
@@ -183,6 +208,7 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Pushkin, Alexander. "Message to Siberia" (1827). Trans. Babette Deutsch.
 • Figes, Orlando. *The Crimean War: A History*. New York: Metropolitan Books, 2010.
 • Goldfrank, David M. *The Origins of the Crimean War*. London: Longman, 1994.
 • Curtiss, John Shelton. *Russia's Crimean War*. Durham: Duke University Press, 1979.
@@ -211,5 +237,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ROMANOV–NICHOLAS–I v1.0
+END OF FILE — MEM–RUSSIA–ROMANOV–NICHOLAS–I v1.1
 ────────────────────────────────────────────────────────────

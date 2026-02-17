@@ -14,7 +14,7 @@ options. It is informed by CIV–SCHOLAR–AMERICA (which learns from the past
 and treats pre-America Anglian culture and history as core to U.S. history
 and present), and by CIV–SCHOLAR–ANGLIA and the ANGLIA MEM corpus as
 constitutive source. Information does not feed back into Scholar except
-via explicit harvest.
+via explicit relay.
 
 Duty of Competence: This file is subject to a completeness standard.
 The system's obligation is to surface all material options identifiable
@@ -28,7 +28,7 @@ constraint grammar accumulated in CIV–SCHOLAR–AMERICA (and its
 constitutive sources, CIV–SCHOLAR–ANGLIA and CIV–DOCTRINE–ANGLIA)
 inform this file. American doctrinal authority: CIV–DOCTRINE–AMERICA
 (derived from CIV–DOCTRINE–ANGLIA). Information flows from STATE into Scholar only via
-explicit **harvest** or **harvest session** command (CIV–STATE–TEMPLATE
+explicit **relay** or **relay to scholar** command (CIV–STATE–TEMPLATE
 §XIV-B). The system equips; the principal decides. Accountability
 lives with the choice, not the analysis.
 
@@ -694,8 +694,8 @@ for STATE session activities (Decision Points, Stability Watch, etc.).
 
 To update: user issues "sync state to scholar" command. The system
 compares current source versions to those listed here and proposes
-updates for user approval. Transfer into Scholar only via "harvest"
-or "harvest session" (CIV–STATE–TEMPLATE §XIV-B); harvest from STATE–
+updates for user approval. Transfer into SCHOLAR only via "relay"
+or "relay to scholar" (CIV–STATE–TEMPLATE §XIV-B); relay from STATE–
 AMERICA sessions transfers into CIV–SCHOLAR–AMERICA.
 
 ────────────────────────────────────────────────────────────
@@ -722,7 +722,7 @@ ENTRY 002 — February 2026
   America is derived from England and pre-America Anglian culture/history
   are core to U.S. history and present. MEM–ANGLIA–* constitutive for
   American learning. STATE–AMERICA header and Section IX (Source Versions)
-  updated to reference CIV–SCHOLAR–AMERICA; harvest from STATE sessions
+  updated to reference CIV–SCHOLAR–AMERICA; relay from STATE sessions
   transfers into SCHOLAR–AMERICA.
 
 ENTRY 004 — February 2026
@@ -757,7 +757,7 @@ ENTRY 005 — February 2026
   (1823–1898), beginning with Monroe Doctrine.
 
 ENTRY 006 — February 2026
-  Session: SCHOLAR–AMERICA LEARN — Mississippi sequence harvest
+  Session: SCHOLAR–AMERICA LEARN — Mississippi sequence relay
   Change: Section VII (Decision-Relevant History) — added PATTERN:
   Mississippi Sequence (Chokepoint and Continental Union). Source:
   MEM–AMERICA–GEO–MISSISSIPPI–RIVER and LEARN session (Mearsheimer
@@ -814,13 +814,13 @@ ENTRY 011 — February 2026
   (one-China return, stop arms, peace with China); analysis of
   accommodation-option omission; governance hardening (CIV–STATE–
   TEMPLATE v3.3 accommodation/reversal requirement).
-  Change: CIV–SCHOLAR–AMERICA — ENTRY 0010 added (STATE harvest).
+  Change: CIV–SCHOLAR–AMERICA — ENTRY 0010 added (STATE relay).
   Content transferred: pattern re commitment-weighted option production
   and accommodation/reversal; Doctrine 03 operationalised in Decision
   Points (X-B step 8). Harvest Protocol §XIV-B; one-way STATE → SCHOLAR.
 
 ENTRY 012 — February 2026
-  Session: SCHOLAR–AMERICA LEARN (follow-on to harvest)
+  Session: SCHOLAR–AMERICA LEARN (follow-on to relay)
   Activity: LEARN session on ENTRY 0010; multi-mind, backward (Yorktown,
   Hundred Years' War), Mercouris (Doctrine 01, Nixon/Paris), Barnes
   (Truman/liability), forward (synthesis feed), cross-civ (Francia:

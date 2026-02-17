@@ -356,14 +356,14 @@ Belief Status:
 
 ENTRY 0010
 Source:
-• STATE–AMERICA session harvest (February 2026) — Taiwan decision-point
+• STATE–AMERICA session relay (February 2026) — Taiwan decision-point
   (arms, chips, China); Option 11 (one-China return, stop arms, peace with
   China) added after user request; analysis of why accommodation option
   was omitted in first pass; governance hardening (CIV–STATE–TEMPLATE
   v3.3, CHANGELOG 00007). CIV–DOCTRINE–AMERICA 03; CIV–STATE–TEMPLATE
   X-B; duty of competence.
 Ingest Type:
-• STATE harvest — decision-point option-set completeness and Doctrine 03
+• STATE relay — decision-point option-set completeness and Doctrine 03
 Primary Belief Extracted:
 • American strategic grammar contains exit and retrenchment as valid
   options (Doctrine 03, CIV–CORE exit-building meta-doctrine, Nixon/

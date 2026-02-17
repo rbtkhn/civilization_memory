@@ -55,7 +55,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–STATE–FRANCE — v1.0
   Status: ACTIVE
-  Entity: France (state); doctrine and Scholar inform STATE; harvest-only transfer to Scholar.
+  Entity: France (state); doctrine and Scholar inform STATE; relay-only transfer to SCHOLAR.
 
 • CIV–ARC–FRANCIA — v3.0
   Status: ACTIVE · CANONICAL

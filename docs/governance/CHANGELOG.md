@@ -8,6 +8,57 @@ Last Updated: 2026-02-15
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00019. BIDIRECTIONAL READ PROTOCOL (STATE↔SCHOLAR) (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: GOVERNANCE (protocol addition)
+
+CHANGES:
+• **Bidirectional read (read-only):** STATE and SCHOLAR cross-read in
+  real time without new persistence or write-back.
+• **STATE side:** STATE re-reads SCHOLAR at each analytical node
+  (Material Options, Decision Points, Pattern Audit, etc.), focusing on
+  Sections IV–V (axioms, RLLs), VI (Negative Capability Zone), VII
+  (Decision-Relevant History). Cursor rule cmc-state-mem-grounding updated.
+• **SCHOLAR side:** During LEARN mode, SCHOLAR reads CIV–STATE Sections
+  IV, VI, VII before generating options or syntheses. Material Options,
+  Stability Indicators, Decision-Relevant History inform which patterns
+  and MEMs to surface. Cursor rule cmc-scholar-mode updated.
+• **Files updated:** cmc-state-mem-grounding.mdc (Structured SCHOLAR
+  Consultation section); cmc-scholar-mode.mdc (STATE Context Load section);
+  CIV–STATE–TEMPLATE §XII (DIRECTIONALITY); CIV–SCHOLAR–TEMPLATE §XIII.C.
+• **Relay unchanged:** Relay remains the sole path for STATE→SCHOLAR
+  persistence. Bidirectional read is consultation only.
+
+RATIONALE:
+User request: smallest change for bidirectional feel — STATE and SCHOLAR
+as two hemispheres with real-time cross-read. No new files, no persistence
+changes.
+
+────────────────────────────────────────────────────────────
+00018. DEPRECATE "HARVEST" — USE "RELAY" (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: GOVERNANCE (terminology deprecation)
+
+CHANGES:
+• **Primary term:** "Relay" replaces "harvest" for STATE→SCHOLAR transfer.
+  Use: "relay to scholar", "relay to scholar–[entity]", "relay to learn mode",
+  "relay session to scholar", "relay this session".
+• **Deprecated (avoid; still accepted):** "harvest", "harvest session",
+  "harvest this session", "harvest to scholar".
+• **Files updated:** Cursor rules (cmc-state-scholar-harvest, cmc-state-scholar-sync);
+  CIV–STATE–TEMPLATE §XIV-B; CIV–SCHOLAR–RUSSIA, CIV–STATE–RUSSIA; CIV–STATE–AMERICA,
+  CIV–STATE–CHINA, CIV–STATE–FRANCE, CIV–STATE–GERMANY; CIV–INDEX (America, Francia, Germania);
+  CMC–BOOTSTRAP; TERMINOLOGY–REGISTRY (deprecation note); SCHOLAR files (America, Francia, Germania).
+• **Note:** "Legitimacy harvest" (RLL term) and agricultural/figurative uses of
+  "harvest" in MEM content unchanged.
+
+RATIONALE:
+User request: deprecate "harvest" in favour of "relay" for the STATE→SCHOLAR
+transfer command family.
+
+────────────────────────────────────────────────────────────
 00016. DEPRECATE "FROZEN" / "UNFROZEN" TERMINOLOGY (15 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-15

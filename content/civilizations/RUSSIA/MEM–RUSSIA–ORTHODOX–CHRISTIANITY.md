@@ -1,9 +1,9 @@
-MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.0
+MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v2.7
+Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
@@ -177,6 +177,31 @@ Orlando Figes notes:
 Suppression does not erase.
 Dormancy preserves.
 
+Pushkin's *Boris Godunov* (1825, pub. 1831) encodes Orthodox historiography
+in the monk Pimen, the living chronicle:
+
+> "One more, the final record, and my annals Are ended, and fulfilled the
+> duty laid By God on me a sinner. Not in vain Hath God appointed me for
+> many years A witness, teaching me the art of letters... that posterity
+> The bygone fortunes of the orthodox Of their own land may learn."
+> — Alexander Pushkin, *Boris Godunov* (1825, pub. 1831), trans. Alfred Hayes
+
+Memory serves sacred authority; the chronicle preserves the orthodox past.
+
+Dostoevsky encodes the tension between faith and Western rationalism in
+*The Brothers Karamazov* (1880), through Ivan's Grand Inquisitor parable:
+
+> "Nothing has ever been more insupportable for a man and a human society
+> than freedom... Man prefers peace, and even death, to freedom of choice
+> in the knowledge of good and evil... Those three forces—miracle, mystery
+> and authority—alone are able to conquer and hold captive for ever the
+> conscience of these impotent rebels for their happiness."
+> — Fyodor Dostoevsky, *The Brothers Karamazov* (1880), Book V, Chapter 5
+>   "The Grand Inquisitor" (trans. Constance Garnett)
+
+The parable critiques Catholicism's substitution of authority for freedom;
+Orthodoxy, in Dostoevsky's encoding, preserves the burden of free faith.
+
 ────────────────────────────────────────────────────────────
 VIII. EVIDENTIARY CONSTRAINTS (HARD)
 ────────────────────────────────────────────────────────────
@@ -219,6 +244,8 @@ RUSSIA (≥10):
 • MEM–RUSSIA–MUSCOVY — Moscow as Orthodox center after Mongol period
 • MEM–RUSSIA–TIME–TROUBLES — church as continuity institution during dynastic collapse
 • MEM–RUSSIA–ROMANOV–PETER–I — state subordination of church; modernization tension
+• MEM–RUSSIA–LIT–DOSTOEVSKY — Grand Inquisitor, faith vs rationalism encoding
+• MEM–RUSSIA–LIT–PUSHKIN — *Boris Godunov* Pimen as Orthodox chronicler
 
 GEO (≥2):
 • MEM–GEO–CONSTANTINOPLE — source city of Orthodox legitimacy and sacral transfer
@@ -247,6 +274,8 @@ SECONDARY SOURCES:
 • Hosking, Geoffrey. *Russia and the Russians: A History*. Harvard UP, 2001.
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*. Metropolitan, 2002.
 • Billington, James H. *The Icon and the Axe: An Interpretive History of Russian Culture*. Knopf, 1966.
+• Pushkin, Alexander. *Boris Godunov* (1825, pub. 1831). Trans. Alfred Hayes.
+• Dostoevsky, Fyodor. *The Brothers Karamazov* (1880). Trans. Constance Garnett.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
@@ -267,5 +296,5 @@ Exploration options available:
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.0
+END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.1
 ────────────────────────────────────────────────────────────

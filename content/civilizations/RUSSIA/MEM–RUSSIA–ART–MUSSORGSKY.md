@@ -1,8 +1,8 @@
-MEM–RUSSIA–ART–MUSSORGSKY — v3.0
+MEM–RUSSIA–ART–MUSSORGSKY — v3.1
 Civilizational Memory Codex · Memory File
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–ART–MUSSORGSKY v2.0
+Supersedes: MEM–RUSSIA–ART–MUSSORGSKY v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Modest Petrovich Mussorgsky (Модест Петрович Мусоргский)
@@ -43,8 +43,19 @@ II. BORIS GODUNOV: THE RUSSIAN OPERA
 *Boris Godunov* (1869–1872) defined Russian national opera.
 
 Subject:
-• Based on Pushkin's play
+• Based on Pushkin's play *Boris Godunov* (1825, pub. 1831)
 • Depicts Tsar Boris's guilt over murdered tsarevich
+
+Pushkin's play supplies the source. Pimen, the monk-chronicler, encodes
+Orthodox historiography as sacred duty:
+
+> "One more, the final record, and my annals Are ended, and fulfilled the
+> duty laid By God on me a sinner. Not in vain Hath God appointed me for
+> many years A witness, teaching me the art of letters; A day will come when
+> some laborious monk Will bring to light my zealous, nameless toil...
+> that posterity The bygone fortunes of the orthodox Of their own land may
+> learn."
+> — Alexander Pushkin, *Boris Godunov* (1825, pub. 1831), trans. Alfred Hayes
 • Explores legitimacy, conscience, and popular revolt
 • Russian history as operatic subject
 
@@ -252,6 +263,8 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 X. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
+• Pushkin, Alexander. *Boris Godunov* (1825, pub. 1831). Trans. Alfred Hayes.
+  In *The Works of Alexander Pushkin*. New York: Random House, 1936.
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*.
   New York: Metropolitan Books, 2002.
 • Brown, David. *Musorgsky: His Life and Works*. Oxford:
@@ -278,5 +291,5 @@ G. The Repin portrait and artist mythology
 H. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ART–MUSSORGSKY v3.0
+END OF FILE — MEM–RUSSIA–ART–MUSSORGSKY v3.1
 ────────────────────────────────────────────────────────────

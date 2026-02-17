@@ -1,5 +1,5 @@
 CIV–STATE–RUSSIA — v2.0
-Civilizational Memory Codex · State File
+Civilizational Memory Codex · STATE File
 
 Status: ACTIVE
 Version: 2.0
@@ -29,7 +29,7 @@ Same level of access to context and stakes, same need for options and
 precedent; no formal authority. **STATE learns from SCHOLAR**—the
 historically-grounded patterns and constraint grammar accumulated in
 CIV–SCHOLAR–RUSSIA inform this file. Information flows from STATE
-into Scholar only via explicit **harvest** or **harvest session**
+into SCHOLAR only via explicit **relay** or **relay to scholar**
 command (CIV–STATE–TEMPLATE §XIV-B). The system equips; the principal decides. Accountability
 lives with the choice, not the analysis.
 
@@ -1283,7 +1283,7 @@ To update: user issues "sync state to scholar" command.
 The system compares current source versions to those listed here,
 identifies changes relevant to material options, binding constraints,
 or stability indicators, and proposes updates for user approval.
-Transfer into Scholar only via "harvest" or "harvest session"
+Transfer into SCHOLAR only via "relay" or "relay to scholar"
 (CIV–STATE–TEMPLATE §XIV-B).
 
 ────────────────────────────────────────────────────────────
@@ -1387,7 +1387,7 @@ ENTRY 004 — 10 February 2026
   planned) defence production output; Abu Dhabi talks outcome.
 
 ENTRY 005 — 10 February 2026
-  Session: v1.4 cognitive integration — Decision Points harvest
+  Session: v1.4 cognitive integration — Decision Points relay
   Source: Decision Points Sessions 001–002 (ARC–RUSSIA–DECISION–POINTS)
   Changes:
   • Section III.C: Added decision-quality distortion mechanism —
@@ -1510,9 +1510,9 @@ ENTRY 011 — 11 February 2026
   Session: Sync verification
   Change: Source Versions (Section IX) updated to current source
   versions — CIV–SCHOLAR–RUSSIA v3.3 (was v3.1), CIV–DOCTRINE–RUSSIA
-  v3.4 (was v3.2). Table format added; harvest-only transfer note
+  v3.4 (was v3.2). Table format added; relay-only transfer note
   added. No substantive STATE content changes; source versions now
-  match actual files. Synced with Scholar–Russia v3.3.
+  match actual files. Synced with SCHOLAR–Russia v3.3.
 
 ENTRY 012 — 16 February 2026
   Session: SCHOLAR LEARN (Lavrov–Panin discussion); follow-on (c)

@@ -51,13 +51,20 @@ governance prose and analytical output.
 **Caps consistency:** When referring to the CIV–SCHOLAR–[CIV] and
 CIV–STATE–[CIV] files in prose, use **SCHOLAR** and **STATE** in all
 caps (e.g. "STATE learns from SCHOLAR"; "the SCHOLAR file"; "information
-enters SCHOLAR from STATE only via harvest").
+enters SCHOLAR from STATE only via relay").
 
-DEPRECATED (February 2026): **"Frozen" / "unfrozen"** — Removed from
-system terminology. Synthesis is by definition evolving; axiom and
-doctrine are permanent except when the user explicitly modifies them.
-Use **"accepted as doctrine"** (synthesis promoted to doctrine by DIB),
-**"permanent"** (axiom/doctrine), and **"evolving"** (synthesis) instead.
+DEPRECATED (February 2026):
+
+**"Harvest"** — Removed from STATE→SCHOLAR transfer terminology. Use
+**"relay"**, **"relay to scholar"**, **"relay to scholar–[entity]"**, or
+**"relay to learn mode"** instead. Legacy aliases ("harvest", "harvest
+session") remain accepted for backward compatibility but avoid in new text.
+
+**"Frozen" / "unfrozen"** — Removed from synthesis/doctrine terminology.
+Synthesis is by definition evolving; axiom and doctrine are permanent
+except when the user explicitly modifies them. Use **"accepted as
+doctrine"** (synthesis promoted to doctrine by DIB), **"permanent"**
+(axiom/doctrine), and **"evolving"** (synthesis) instead.
 
 ────────────────────────────────────────────────────────────
 III. DECORATIVE TERMS (REPLACE)

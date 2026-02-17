@@ -93,6 +93,20 @@ Strategic axiom:
 
 Russia seeks a Europe that cannot regenerate systemic rupture.
 
+Tolstoy's *War and Peace* Epilogue encodes the post-1815 period as the
+seedbed of Decembrist discontent—the gap between Alexander's "pacifier of
+Europe" role and domestic stagnation:
+
+> "The cause of the event of 1812 and the preceding events is an insoluble
+> mystery. We can only suppose that they had to be so. The historians have
+> to describe the actions of millions of people... and they seize on the
+> first approximation to a cause that presents itself."
+> — Leo Tolstoy, *War and Peace* (1869), Second Epilogue, Chapter 1 (trans. Maude)
+
+The Epilogue traces how the patriotic generation of 1812 becomes the
+discontented generation of 1825—Vienna's legitimacy producing its own
+domestic contradiction.
+
 ────────────────────────────────────────────────────────────
 IV. POLAND & THE QUESTION OF IMPERIAL LIMITS
 ────────────────────────────────────────────────────────────

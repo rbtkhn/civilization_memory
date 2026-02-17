@@ -509,8 +509,8 @@ updates STATE from those sources (one-way). **Relay to Scholar:** The
 only way to transfer information from STATE mode into SCHOLAR (learn
 mode) is the "relay to scholar" command family; procedure in
 CIV–STATE–TEMPLATE §XIV-B and cmc-state-scholar-harvest. No other
-transfer into Scholar learn mode is permitted. Legacy aliases
-"harvest" and "harvest session" remain accepted.
+transfer into SCHOLAR learn mode is permitted. Legacy aliases
+"relay" is primary; deprecated "harvest"/"harvest session" still accepted.
 
 CORE LOAD: When analyzing entity [CIV], read CIV–CORE–[CIV] (if
 present) for axiom and constraint compliance. STATE output must not

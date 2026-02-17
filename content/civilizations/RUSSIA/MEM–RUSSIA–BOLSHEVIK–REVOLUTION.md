@@ -84,6 +84,18 @@ manage total war."
 
 The Bolsheviks inherited **not a functioning state but a vacuum**.
 
+Dostoevsky encoded revolutionary pathology a generation earlier in *Demons*
+(1872):
+
+> "If you have the guillotine in the foreground of your programme and are
+> so enthusiastic about it too, it's simply because nothing's easier than
+> cutting off heads, and nothing's harder than to have an idea."
+> — Fyodor Dostoevsky, *Demons* (1872), Part II, Chapter 1 (trans. Garnett)
+
+> "Socialism from its very nature bound to be atheism."
+> — Fyodor Dostoevsky, *Demons* (1872), Part II, Chapter 7 (Shatov)
+>   (trans. Garnett)
+
 ────────────────────────────────────────────────────────────
 III. THE SEIZURE OF POWER
 ────────────────────────────────────────────────────────────
@@ -330,6 +342,7 @@ Same-Civilization (RUSSIA) — ≥10 Required:
 • MEM–RUSSIA–TROTSKY — revolutionary leader
 • MEM–RUSSIA–CHEKA — coercive instrument
 • MEM–RUSSIA–BREST–LITOVSK — peace treaty
+• MEM–RUSSIA–LIT–DOSTOEVSKY — *Demons* (1872) prophetic encoding
 
 GEO Connections — ≥2 Required:
 • MEM–RUSSIA–GEO–PETROGRAD — revolution location

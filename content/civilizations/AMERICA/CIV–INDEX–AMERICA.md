@@ -44,7 +44,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–STATE–AMERICA — v1.0
   Status: ACTIVE
-  Entity: United States (state); doctrine and Scholar inform STATE; harvest-only transfer to Scholar.
+  Entity: United States (state); doctrine and Scholar inform STATE; relay-only transfer to SCHOLAR.
 
 • CIV–ARC–AMERICA — v2.15
   Status: ACTIVE · CANONICAL

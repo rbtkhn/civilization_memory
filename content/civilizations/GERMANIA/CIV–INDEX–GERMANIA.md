@@ -104,7 +104,7 @@ II. CANONICAL GOVERNANCE FILES
 
 • CIV–STATE–GERMANY — v1.1
   Status: ACTIVE
-  Entity: Germany (state); doctrine and Scholar inform STATE; harvest-only transfer to Scholar.
+  Entity: Germany (state); doctrine and Scholar inform STATE; relay-only transfer to SCHOLAR.
 
 ────────────────────────────────────────────────────────────
 III. REGISTERED MEM FILES — PERSONS & FIGURES

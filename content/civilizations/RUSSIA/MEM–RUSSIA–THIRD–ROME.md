@@ -1,9 +1,9 @@
-MEM–RUSSIA–THIRD–ROME — v3.0
+MEM–RUSSIA–THIRD–ROME — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–THIRD–ROME v2.8
+Supersedes: MEM–RUSSIA–THIRD–ROME v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IDEOLOGICAL–IMPERIAL DOCTRINE
@@ -111,6 +111,25 @@ authority that might weaken the defense of the faith."
 
 Pluralism becomes heresy.
 Unity becomes sacred obligation.
+
+Pushkin's "Monument" (1836) encodes the national poet as civilizational
+witness—his name spoken "through all great Russia's spaces" by "Slav, and
+Finn, and Tungus... and Kalmuck whom the steppe knows well." The empire's
+peoples become the audience for sacral self-canonization; poetry and
+civilizational scope merge.
+
+Dostoevsky articulates Russian messianic synthesis in *A Writer's Diary*
+and related writings:
+
+> "The Russian idea with time will become the synthesis of all those ideas
+> that Europe for so long and with such persistence produced in its
+> individual nationalities... The capability for high synthesis, a gift for
+> universal reconcilability and humanity."
+> — Fyodor Dostoevsky, *Vremya* (1861); echoed in *A Writer's Diary*
+>   (1876–1881)
+
+Dostoevsky frames Russia's mission as **universal reconciliation** through
+Orthodox Christianity—Third Rome as active synthesis, not mere conservation.
 
 ────────────────────────────────────────────────────────────
 IV. DEFENSIVE, NOT EXPANSIONIST, CORE
@@ -278,6 +297,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–ROMANOV–PETER–I — tension: westernization challenges doctrine
 • MEM–RUSSIA–SOVIET–MESSIANISM — secular transposition of finality
 • MEM–RUSSIA–PUTIN — post-Soviet civilizational rhetoric revival
+• MEM–RUSSIA–LIT–PUSHKIN — "Monument" (1836) national poet as civilizational witness
 
 GEO (≥2):
 • MEM–GEO–CONSTANTINOPLE — fallen Second Rome; legitimacy transfer
@@ -329,5 +349,5 @@ J) Compliance & integrity audit (v2.8)
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–THIRD–ROME v3.0
+END OF FILE — MEM–RUSSIA–THIRD–ROME v3.1
 ────────────────────────────────────────────────────────────

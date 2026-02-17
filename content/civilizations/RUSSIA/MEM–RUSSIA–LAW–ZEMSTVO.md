@@ -103,6 +103,20 @@ Limits:
 
 The zemstvo could **administer but not govern**.
 
+Tolstoy encodes zemstvo-era participation and its limits through Levin in
+*Anna Karenina* (1877):
+
+> "Levin had often noticed in discussions between the most intelligent
+> people that after enormous efforts, and an enormous expenditure of
+> logical subtleties and words, the disputants finally become aware that
+> what they had been so strenuously struggling to prove to one another had
+> long ago been known to both."
+> — Leo Tolstoy, *Anna Karenina* (1877), Part 3, Chapter 5 (trans. Maude)
+
+Levin's zemstvo involvement—productive in local terms yet politically
+circumscribed—embodies the reform-era tension: participation that expands
+capacity without shifting power.
+
 ────────────────────────────────────────────────────────────
 III.A POLYPHONIC TENSION: REFORM VS CONTROL
 ────────────────────────────────────────────────────────────

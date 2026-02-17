@@ -1,5 +1,5 @@
 CIV–SCHOLAR–TEMPLATE — v3.3
-Civilizational Memory Codex · Scholar Engine Governance Template
+Civilizational Memory Codex · SCHOLAR Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–SCHOLAR–TEMPLATE v3.2
@@ -1233,6 +1233,13 @@ LEARN MODE (Minimal):
 • CIV–SCHOLAR–[CIV] only
 • Target MEM files as needed
 • On-demand access to all other files
+
+BIDIRECTIONAL READ (SCHOLAR SIDE):
+• During LEARN mode, read CIV–STATE–[CIV] Sections IV, VI, VII before
+  generating options or syntheses. Use Material Options (IV), Stability
+  Indicators (VI), and Decision-Relevant History (VII) to shape which
+  patterns and MEMs to surface. Read-only; SCHOLAR does not write to STATE.
+  See cursor rule cmc-scholar-mode.
 
 XIII.D PENDING SYNTHESIS DISCOVERY PROTOCOL (MANDATORY · OGE v1.6)
 ──────────────────────────────────────────────────────────────────

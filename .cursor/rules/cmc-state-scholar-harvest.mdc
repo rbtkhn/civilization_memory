@@ -1,5 +1,5 @@
 ---
-description: Relay — only way to transfer STATE session output into Scholar learn mode
+description: Relay — only way to transfer STATE session output into SCHOLAR learn mode
 alwaysApply: true
 ---
 
@@ -16,22 +16,22 @@ When the user issues in STATE mode:
 - "relay session to scholar"
 - "relay this session"
 - "relay"
-- Legacy aliases (backward compatibility): "harvest", "harvest session",
+- Deprecated (avoid; still accepted): "harvest", "harvest session",
   "harvest this session", "harvest to scholar"
 
-Use the entity currently in focus. If the user names an entity, relay applies to that entity's Scholar file.
+Use the entity currently in focus. If the user names an entity, relay applies to that entity's SCHOLAR file.
 
 ## Relay Procedure
 
 Follow **CIV–STATE–TEMPLATE §XIV-B (Relay Protocol)**:
 
 1. **Identify** the STATE session output to be relayed (decision-point findings, pattern audit results, revealed-preference updates, doctrine-check insights, forward-projection summaries, or other session-derived content).
-2. **Propose** specific additions to CIV–SCHOLAR–[CIV] in a form appropriate to that file (ENTRY, synthesis candidate, RLL proposal, or pattern note per Scholar template).
+2. **Propose** specific additions to CIV–SCHOLAR–[CIV] in a form appropriate to that file (ENTRY, synthesis candidate, RLL proposal, or pattern note per SCHOLAR template).
 3. **Present** proposed additions to the user; apply only after approval.
-4. **Record** in the STATE file (State Log or session activity record) that a relay was performed and what was transferred.
+4. **Record** in the STATE file (STATE Log or session activity record) that a relay was performed and what was transferred.
 
 ## No Automatic Relay
 
-Relay runs only when the user explicitly requests it. STATE session output never flows into Scholar except via this command.
+Relay runs only when the user explicitly requests it. STATE session output never flows into SCHOLAR except via this command.
 
 Reference: CIV–STATE–TEMPLATE §XIV-B; CIV–STATE–TEMPLATE §XII (Directionality).

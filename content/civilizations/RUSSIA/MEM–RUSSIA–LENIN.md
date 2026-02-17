@@ -62,6 +62,17 @@ Authority is not persuaded into existence — it is imposed.
 
 Ideology functions as an instrument, not a moral horizon.
 
+Dostoevsky prefigures the revolutionary type in *Demons* (1872):
+
+> "If you have the guillotine in the foreground of your programme and are
+> so enthusiastic about it too, it's simply because nothing's easier than
+> cutting off heads, and nothing's harder than to have an idea."
+> — Fyodor Dostoevsky, *Demons* (1872), Part II, Chapter 1 (trans. Garnett)
+
+> "The convictions and the man are two very different things."
+> — Fyodor Dostoevsky, *Demons* (1872), Part III, Chapter 5 (Shatov)
+>   (trans. Garnett)
+
 ────────────────────────────────────────────────────────────
 III. SEIZURE OF POWER & DESTRUCTION OF LEGITIMACY
 ────────────────────────────────────────────────────────────
@@ -216,6 +227,7 @@ Same-civilization connections (≥10):
 • MEM–RUSSIA–WAR–COMMUNISM — Survival economics institutionalized
 • MEM–RUSSIA–NEP — Tactical retreat preserving monopoly
 • MEM–RUSSIA–INTELLIGENTSIA — Revolutionary intellectual tradition
+• MEM–RUSSIA–LIT–DOSTOEVSKY — *Demons* (1872) revolutionary type encoding
 
 GEO MEMs (≥2):
 • MEM–RUSSIA–GEO–PETROGRAD — Revolutionary seizure point

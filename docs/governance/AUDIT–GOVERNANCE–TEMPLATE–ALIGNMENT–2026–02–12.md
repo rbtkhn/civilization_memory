@@ -69,7 +69,7 @@
 | Rule | Purpose | Template / Bootstrap ref | Status |
 |------|----------|---------------------------|--------|
 | cmc-state-scholar-sync | Sync: STATE from SCHOLAR/CORE/DOCTRINE | CIV–STATE–TEMPLATE §XIV | **ALIGNED** |
-| cmc-state-scholar-harvest | Harvest: only STATE → Scholar | CIV–STATE–TEMPLATE §XIV-B | **ALIGNED** |
+| cmc-state-scholar-harvest | Harvest: only STATE → SCHOLAR | CIV–STATE–TEMPLATE §XIV-B | **ALIGNED** |
 | cmc-state-mem-grounding | MEM SCAN; CORE load; dimension + connection | CIV–STATE–TEMPLATE; MEM–RELEVANCE | **ALIGNED** |
 | cmc-mode-contracts | WRITE/LEARN/IMAGINE/STATE/SYSTEM | CMC–BOOTSTRAP; STATE template | **ALIGNED** |
 | cmc-oge-enforcement | 8-slot options; STATE 8 options; MIND-derived | CIV–STATE–TEMPLATE X-A; MIND profiles | **ALIGNED** |
@@ -103,7 +103,7 @@
 
 | Topic | Where defined | Where referenced | Consistent? |
 |-------|----------------|------------------|-------------|
-| **Harvest (STATE → Scholar)** | CIV–STATE–TEMPLATE §XIV-B; cmc-state-scholar-harvest | CMC–BOOTSTRAP; STATE template §XII; cmc-state-scholar-sync | **Yes** |
+| **Harvest (STATE → SCHOLAR)** | CIV–STATE–TEMPLATE §XIV-B; cmc-state-scholar-harvest | CMC–BOOTSTRAP; STATE template §XII; cmc-state-scholar-sync | **Yes** |
 | **Sync (update STATE from sources)** | CIV–STATE–TEMPLATE §XIV; cmc-state-scholar-sync | CMC–BOOTSTRAP; STATE template §XII | **Yes** |
 | **Entity focus (re-anchor)** | CIV–MEM–CORE (518–522); CMC–BOOTSTRAP | CIV–STATE–TEMPLATE §I; CIV–SCHOLAR–TEMPLATE XIII; CIV–SCHOLAR–PROTOCOL; cmc-state-mem-grounding; cmc-scholar-mode | **Yes** |
 | **STATE template version** | CIV–STATE–TEMPLATE header: v3.2 | CMC–BOOTSTRAP: "governance v3.2; internal rev v1.12" | **Yes** (fixed this audit) |

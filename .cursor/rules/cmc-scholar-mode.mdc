@@ -68,7 +68,16 @@ When user selects **A, B, C, D, E, F, or G** in LEARN mode, the response MUST ci
 
 ## Civilization in Focus (CORE, SCHOLAR, STATE re-anchor together)
 
-When the civilization in focus changes (e.g. user switches to a different civ's MEMs or names a different civilization), re-anchor to the **new** entity. **CORE, STATE, and SCHOLAR re-anchor together:** the previous entity's CIV–CORE, CIV–STATE, and CIV–SCHOLAR cease to govern the current activity. In SCHOLAR mode, load CIV–CORE–[CIV] (if present) and CIV–SCHOLAR–[CIV] for the entity in focus when analyzing or writing for that civilization; load only what the mode needs (no need to load the STATE file unless the user requests it). Same entity anchors all three file types; on switch, all three follow the new entity. **Session continuity:** Retain prior context (e.g. which MEMs were loaded, which ENTRY or synthesis was last discussed) across the conversation; re-anchor only determines which files govern *this* turn. Compression only when necessary (see cmc-mode-contracts § Session state across mode/entity switches).
+When the civilization in focus changes (e.g. user switches to a different civ's MEMs or names a different civilization), re-anchor to the **new** entity. **CORE, STATE, and SCHOLAR re-anchor together:** the previous entity's CIV–CORE, CIV–STATE, and CIV–SCHOLAR cease to govern the current activity. In SCHOLAR mode, load CIV–CORE–[CIV] (if present) and CIV–SCHOLAR–[CIV] for the entity in focus when analyzing or writing for that civilization. Same entity anchors all three file types; on switch, all three follow the new entity. **Session continuity:** Retain prior context (e.g. which MEMs were loaded, which ENTRY or synthesis was last discussed) across the conversation; re-anchor only determines which files govern *this* turn. Compression only when necessary (see cmc-mode-contracts § Session state across mode/entity switches).
+
+## STATE Context Load (Bidirectional Read — SCHOLAR side)
+
+When in **LEARN mode** for entity [CIV], **read CIV–STATE–[CIV] Sections IV, VI, VII** before generating options or syntheses. Use STATE's current focus to inform what SCHOLAR surfaces:
+- **Section IV** (Material Options) — which binding constraints and material options are live? Shape options to probe patterns relevant to current decision context.
+- **Section VI** (Stability Indicators) — which indicators are STRESSED or CRITICAL? Surface MEMs and RLLs that illuminate those stress points.
+- **Section VII** (Decision-Relevant History) — which patterns are active? Avoid redundancy; surface complementary patterns or MEMs that extend or challenge what STATE already holds.
+
+This is **read-only**: SCHOLAR reads STATE for context; SCHOLAR does not write to STATE. If no CIV–STATE file exists for the entity, proceed without it. STATE context load enables real-time cross-talk from STATE into SCHOLAR options and syntheses.
 
 ## MEM Connection Awareness
 
@@ -107,7 +116,7 @@ This is soft bias, not hard constraint. All connections and sources remain acces
 ## Cognitive Interaction (when multiple perspectives in play)
 
 - When another perspective (Mercouris or Mearsheimer) has just given analysis, the preferred move is **respond to** (acknowledge their point, reframe in your terms, maintain your voice)—not only "apply lens" in isolation. See cmc-tri-frame-protocol POST-MEARSHEIMER/MERCOURIS Response.
-- **Second-order analysis** (explain why another perspective encodes the subject the way they do) is permitted and encouraged where applicable; preserve tension (cross-civilizational misperception). See cmc-tri-frame-protocol Scholar-on-Scholar Explanation.
+- **Second-order analysis** (explain why another perspective encodes the subject the way they do) is permitted and encouraged where applicable; preserve tension (cross-civilizational misperception). See cmc-tri-frame-protocol SCHOLAR-on-SCHOLAR Explanation.
 - Aim to **enrich** (reframe, add what the other's frame misses); do not synthesize or agree away tension.
 
 ## Prohibited Behaviors in LEARN Mode

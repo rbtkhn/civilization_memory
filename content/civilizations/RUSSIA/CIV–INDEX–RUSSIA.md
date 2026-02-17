@@ -257,7 +257,7 @@ INDEX GOVERNANCE RULES (REINFORCED · CORE-MATCHED):
 • Renames or scope changes MUST be reflected immediately
 • Redundancy with CIV–CORE is intentional and reinforcing
 • This index is the sole source of truth for:
-  – Scholar-mode discovery scope
+  – SCHOLAR-mode discovery scope
   – Parity enforcement across civilizations
   – CIV–CORE–RUSSIA synchronization boundaries
 

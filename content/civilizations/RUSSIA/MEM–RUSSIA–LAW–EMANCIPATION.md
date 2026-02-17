@@ -1,9 +1,9 @@
-MEM–RUSSIA–LAW–EMANCIPATION — v3.0
+MEM–RUSSIA–LAW–EMANCIPATION — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–LAW–EMANCIPATION v2.7
+Supersedes: MEM–RUSSIA–LAW–EMANCIPATION v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Emancipation of the Serfs (Освобождение крестьян)
@@ -114,6 +114,17 @@ estate as lived experience:
 
 Literary memory confirms **reform without dissolution** of the old relation.
 
+Pushkin's *The Captain's Daughter* (1836) encodes rebellion and mercy:
+"God grant we never see such a rebellion, senseless and merciless." The
+pre-emancipation elite conscience—rebellion as chaos, authority as
+restraint—informs how reform was framed.
+
+Dostoevsky, who experienced Siberian exile under Nicholas I, encodes the
+people as moral reservoir in *The Brothers Karamazov* (1880)—contrasting
+with Tolstoy's Levin. Father Zosima teaches Alyosha: "You will see great
+sorrow, and in that sorrow you will be happy." The people's suffering
+retains redemptive meaning; emancipation does not erase that encoding.
+
 ────────────────────────────────────────────────────────────
 V. STATE PRIORITIES & LIMITS
 ────────────────────────────────────────────────────────────
@@ -181,6 +192,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–BOLSHEVIK–REVOLUTION — land question unresolved; emancipation's terminal failure
 • MEM–RUSSIA–SERVICE–NOBILITY — gentry compensation and resistance to reform
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church role in legitimizing social transformation
+• MEM–RUSSIA–LIT–PUSHKIN — *The Captain's Daughter* (1836) rebellion and authority encoding
 
 GEO (≥2):
 • MEM–GEO–RUSSIAN–STEPPE — rural foundation; grain-producing regions most affected
@@ -201,6 +213,8 @@ Secondary:
 X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
+• Pushkin, Alexander. *The Captain's Daughter* (1836). Trans. Robert Chandler.
+  [Literary evidence: rebellion and authority encoding, Section IV]
 • Tolstoy, Leo. *Anna Karenina* (1877). Trans. Louise and Aylmer Maude.
   [Literary evidence: post-emancipation estate relations, Section IV]
 • Emancipation Manifesto of 19 February 1861 (Alexander II)
@@ -235,5 +249,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–EMANCIPATION v3.0
+END OF FILE — MEM–RUSSIA–LAW–EMANCIPATION v3.1
 ────────────────────────────────────────────────────────────

@@ -899,7 +899,7 @@ RUSSIA:
   from endurance). Settlement design that fits both requires inclusion
   and an outcome not frameable as defeat in Russian domestic terms.
   (Source: MEM–GERMANIA–RUSSIA, CIV–STATE–RUSSIA; MEM–GERMANIA–CONGRESS–
-  VIENNA, MEM–RUSSIA–CONGRESS–VIENNA; Scholar–Russia harvest analysis
+  VIENNA, MEM–RUSSIA–CONGRESS–VIENNA; Scholar–Russia relay analysis
   11 Feb 2026)
 
 FRANCE:
@@ -971,7 +971,7 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 Sync command: Compare STATE file against source file versions.
 If any source has been updated since last sync, review for new
 patterns, doctrines, or corrections that should propagate to STATE.
-Transfer into Scholar only via "harvest" or "harvest session"
+Transfer into SCHOLAR only via "relay" or "relay to scholar"
 (CIV–STATE–TEMPLATE §XIV-B).
 
 ────────────────────────────────────────────────────────────

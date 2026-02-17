@@ -268,7 +268,7 @@ GEO–MEM (≥2):
 Cross-civilizational:
 • MEM–GERMANIA–ROMANTICISM — German Romantic influence on supernatural elements
 
-Scholar Constraints:
+SCHOLAR Constraints:
 • RLL–0001 (Corridor Primacy): Gogol's work spans multiple Russian regions
 • RLL–0004 (Indirect Rule Absorption): Ukrainian elements absorbed into Russian literature
 • RLL–0006 (Law as Immobilization): Bureaucratic absurdity in Dead Souls

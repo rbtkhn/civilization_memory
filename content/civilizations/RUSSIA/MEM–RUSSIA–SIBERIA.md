@@ -1,9 +1,9 @@
-MEM–RUSSIA–SIBERIA — v3.0
+MEM–RUSSIA–SIBERIA — v3.2
 Civilizational Memory Codex · Subject Memory File
 ACTIVE · CANONICAL · MERCOURIS CIVILIZATIONAL COGNITION
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–SIBERIA v2.8
+Version: 3.1
+Supersedes: MEM–RUSSIA–SIBERIA v3.1
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Siberia (Imperial Incorporation & Civilizational Process)
@@ -143,6 +143,50 @@ This normalizes:
 
 The state exports disorder to preserve core stability.
 
+Tolstoy encodes the convict journey to Siberia in *Resurrection* (1899):
+
+> "When Nekhludoff came to the station, the prisoners were all seated in
+> railway carriages with grated windows... On the way from the prison to
+> the station, besides the two Nekhludoff had seen, three other prisoners
+> had fallen and died of sunstroke."
+> — Leo Tolstoy, *Resurrection* (1899), Book 2, Chapter 38 (trans. Maude)
+
+> "When he approached his face to the window, he felt the hot air, filled
+> with the smell of perspiration, coming out of it... All the seats were
+> filled with red, perspiring, loudly-talking women, dressed in prison
+> cloaks and white jackets."
+> — Leo Tolstoy, *Resurrection* (1899), Book 2, Chapter 38 (trans. Maude)
+
+> "The convoy men were not troubled because five men who might have been
+> alive died while in their charge. This did not trouble them, but they
+> were concerned lest anything that the law required in such cases should
+> be omitted."
+> — Leo Tolstoy, *Resurrection* (1899), Book 2, Chapter 38 (trans. Maude)
+
+Pushkin encodes Siberian exile as political punishment before Dostoevsky.
+His "Message to Siberia" (1827), addressed to the Decembrist rebels,
+reaches across distance:
+
+> "Deep in the Siberian mine, Keep your patience proud; The bitter toil
+> shall not be lost, The rebel thought unbowed... The heavy-hanging chains
+> will fall, The walls will crumble at a word; And Freedom greet you in
+> the light, And brothers give you back the sword."
+> — Alexander Pushkin, "Message to Siberia" (1827), trans. Babette Deutsch
+
+Dostoevsky encodes Siberian penal exile from personal experience in *The
+House of the Dead* (1862):
+
+> "Here there is a world apart, unlike everything else, with laws of its
+> own, its own dress, its own manners and customs, and here is the house
+> of the living dead—life as nowhere else and a people apart."
+> — Fyodor Dostoevsky, *The House of the Dead* (1862), Part 1, Chapter 1
+>   (trans. Constance Garnett)
+
+> "Man is a creature that can get accustomed to anything, and I think that
+> is the best definition of him."
+> — Fyodor Dostoevsky, *The House of the Dead* (1862), Part 1, Chapter 1
+>   (trans. Constance Garnett)
+
 ────────────────────────────────────────────────────────────
 VI. SETTLEMENT, MYTH, & NATIONAL PSYCHOLOGY
 ────────────────────────────────────────────────────────────
@@ -232,6 +276,8 @@ RUSSIA (≥10):
 • MEM–RUSSIA–TRANS–SIBERIAN–RAILWAY — infrastructure binding Siberia to core Russia
 • MEM–RUSSIA–DECEMBRISTS — exiles who shaped Siberian intellectual culture
 • MEM–RUSSIA–INDUSTRIALIZATION — Soviet megaprojects and resource extraction
+• MEM–RUSSIA–LIT–DOSTOEVSKY — *The House of the Dead* (1862) penal exile encoding
+• MEM–RUSSIA–LIT–PUSHKIN — "Message to Siberia" (1827) Decembrist exile encoding
 
 GEO (≥2):
 • MEM–RUSSIA–GEO–URALS — geographic boundary marking Siberian entry
@@ -253,6 +299,8 @@ SECONDARY SOURCES:
 • Forsyth, James. *A History of the Peoples of Siberia: Russia's North Asian Colony 1581–1990*. Cambridge UP, 1992.
 • Lincoln, W. Bruce. *The Conquest of a Continent: Siberia and the Russians*. Random House, 1994.
 • Figes, Orlando. *Natasha's Dance: A Cultural History of Russia*. Metropolitan, 2002.
+• Dostoevsky, Fyodor. *The House of the Dead* (1862). Trans. Constance Garnett.
+• Pushkin, Alexander. "Message to Siberia" (1827). Trans. Babette Deutsch.
 
 ────────────────────────────────────────────────────────────
 XIII. MEM INGEST BOOTSTRAP (TEMPLATE v2.7)
@@ -273,5 +321,5 @@ H. Compliance & integrity audit (v2.7)
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–SIBERIA v3.0
+END OF FILE — MEM–RUSSIA–SIBERIA v3.2
 ────────────────────────────────────────────────────────────

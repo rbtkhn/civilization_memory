@@ -208,13 +208,21 @@ The battle (August 16–18, 1812) confirmed Smolensk's strategic position:
 • City largely destroyed in fighting
 • Confirms that whoever passes Smolensk threatens Moscow directly
 
-Leo Tolstoy, drawing on historical accounts, describes the aftermath:
+Leo Tolstoy encodes Napoleon's passage through captured towns—including
+Smolensk—as invasion logic:
 
-"Smolensk was burned down, left a smoking ruin through which the French
-army passed. The ancient walls had witnessed what every Russian knew:
-the road through Smolensk leads to Moscow, and the defense of Russia
-begins at Smolensk's gates."
-— Historical synthesis from 1812 campaign accounts
+> "A town captured by the enemy is like a maid who has lost her honor,'
+> thought he (he had said so to Túchkov at Smolénsk). From that point of
+> view he gazed at the Oriental beauty he had not seen before."
+> — Leo Tolstoy, *War and Peace* (1869), Book 11, Chapter 19 (trans. Maude)
+
+Tolstoy describes the retreat through Moscow that followed the Smolensk
+corridor: "At ten in the morning of the second of September... Moscow seen
+from the Poklónny Hill lay spaciously spread out... By the indefinite
+signs which, even at a distance, distinguish a living body from a dead one,
+Napoleon from the Poklónny Hill perceived the throb of life in the town."
+The French had passed through Smolensk to reach that moment—empty Moscow
+awaiting them.
 
 VII.B STRATEGIC LESSON CONFIRMED
 ────────────────────────────────────────────────────────────
@@ -293,6 +301,7 @@ Russian (≥10 same-civilization):
 • MEM–RUSSIA–MOSCOW — capital defended by Smolensk gateway
 • MEM–RUSSIA–TIME–TROUBLES — 1609–1611 siege context
 • MEM–RUSSIA–WAR–NAPOLEON — 1812 campaign
+• MEM–RUSSIA–LIT–TOLSTOY — War and Peace encoding of Smolensk corridor (1812)
 • MEM–RUSSIA–KIEVAN–RUS — Smolensk principality origin
 • MEM–RUSSIA–ALEXIS–I — 1654 recovery
 • MEM–RUSSIA–BORIS–GODUNOV — kremlin construction

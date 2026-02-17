@@ -190,6 +190,8 @@ Dostoevsky encodes durable Russian lessons:
 
 Dostoevsky becomes the **architect of psychological memory**.
 
+**Dostoevsky vs. Tolstoy (memory framework contrast):** Tolstoy encodes history as force—the people's war, inevitability, individual agency dissolving into historical flow (*War and Peace*). Dostoevsky encodes the psyche—conscience, guilt, redemption through suffering (*Crime and Punishment*, *The Brothers Karamazov*). Both shape Russian civilizational memory; Tolstoy supplies legitimacy-through-determinism and popular agency; Dostoevsky supplies legitimacy-through-suffering and the Russian soul. Neither synthesizes; both preserve tension.
+
 Strategic reception: Western statesmen have repeatedly turned to
 Dostoevsky when framing Russian conduct. Henry Kissinger framed the
 distinction between civilizational reading and ideological caricature:

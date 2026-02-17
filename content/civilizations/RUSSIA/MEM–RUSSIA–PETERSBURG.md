@@ -148,6 +148,13 @@ Dostoevsky renders Petersburg as psychological pressure:
 > in hesitation, towards K. bridge."
 > — Fyodor Dostoevsky, *Crime and Punishment* (1866), trans. Constance Garnett
 
+*Notes from Underground* (1864) encodes the city as alienation:
+
+> "I am a sick man.... I am a spiteful man. I am an unattractive man.
+> I believe my liver is diseased. However, I don't know beans about my
+> disease, and do not know for certain what ails me."
+> — Fyodor Dostoevsky, *Notes from Underground* (1864), trans. Constance Garnett
+
 Gogol makes the city phantasmagoria:
 
 > "There is nothing finer than the Nevsky Prospect, at least not in

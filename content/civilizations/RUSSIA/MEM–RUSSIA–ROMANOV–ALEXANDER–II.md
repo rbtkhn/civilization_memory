@@ -103,6 +103,20 @@ The state tolerates participation without conceding sovereignty.
 
 Participation expands capacity, not power.
 
+Tolstoy encodes post-emancipation reform contradictions through Levin in
+*Anna Karenina* (1877):
+
+> "Levin had often noticed in discussions between the most intelligent
+> people that after enormous efforts, and an enormous expenditure of
+> logical subtleties and words, the disputants finally become aware that
+> what they had been so strenuously struggling to prove to one another had
+> long ago been known to both."
+> — Leo Tolstoy, *Anna Karenina* (1877), Part 3, Chapter 5 (trans. Maude)
+
+Levin's wrestling with land reform, the muzhik, and the zemstvo embodies
+the reform era's unresolved tension—intellectual effort that cannot resolve
+the gap between emancipatory intention and structural reality.
+
 ────────────────────────────────────────────────────────────
 VI. MILITARY & EDUCATIONAL MODERNIZATION
 ────────────────────────────────────────────────────────────

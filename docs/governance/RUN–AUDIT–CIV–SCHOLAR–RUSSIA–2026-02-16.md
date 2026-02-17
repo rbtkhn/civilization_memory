@@ -194,7 +194,7 @@ CIV–SCHOLAR–RUSSIA satisfies the mandatory requirements of the SCHOLAR templ
 
 | Check | Status | Note |
 |-------|--------|------|
-| Authority | ✓ | Scholar does not override MEM/CORE; authority downstream |
+| Authority | ✓ | SCHOLAR does not override MEM/CORE; authority downstream |
 | No doctrine creation in LEARN/IMAGINE | ✓ | Lock semantics state no autonomous doctrine creation in LEARN/IMAGINE; WRITE may propose/create per Section X |
 | RLL binding | ✓ | User authorization required; explicit binding only |
 

@@ -20,7 +20,7 @@ CIV–STATE–RUSSIA satisfies the mandatory structure, content, and register re
 | Filename, version, status | ✓ | CIV–STATE–RUSSIA — v1.9; ACTIVE |
 | Entity name, classification | ✓ | Russia / Russian Federation; CIVILIZATION-STATE |
 | Duty of competence | ✓ | Declared: three perspectives required; failure to apply any = completeness violation |
-| Foundational perspective | ✓ | "STATE learns from SCHOLAR"; harvest-only transfer to SCHOLAR stated |
+| Foundational perspective | ✓ | "STATE learns from SCHOLAR"; relay-only transfer to SCHOLAR stated |
 | Last updated | ✓ | 11 February 2026 |
 
 **Result:** Compliant.
@@ -41,7 +41,7 @@ CIV–STATE–RUSSIA satisfies the mandatory structure, content, and register re
 | VII. Decision-Relevant History | ✓ | ✓ | Patterns, activations, sources; optional subsections available |
 | VIII. Cross-Entity Links | ✓ | ✓ | US, China, Ukraine, EU, etc. |
 | IX. Source Versions (Sync Reference) | ✓ | ✓ | Table: CORE, SCHOLAR, DOCTRINE, MEM corpus; sync/relay note |
-| X. State Log | ✓ | ✓ | Entries with session type, changes, next review |
+| X. STATE Log | ✓ | ✓ | Entries with session type, changes, next review |
 
 **Result:** Compliant. VI-B is required because Option A’s success depends on opponent (Ukraine) capacity degrading relative to Russia’s; it is present and substantive.
 
@@ -126,20 +126,20 @@ CIV–STATE–RUSSIA satisfies the mandatory structure, content, and register re
 | Check | Status | Note |
 |-------|--------|------|
 | Source Versions block | ✓ | Section IX: table with CORE, SCHOLAR, DOCTRINE, MEM corpus |
-| Sync command reference | ✓ | "sync state to scholar" for updates; relay/harvest for transfer to Scholar |
-| Directionality | ✓ | Transfer into Scholar only via harvest/relay stated |
+| Sync command reference | ✓ | "sync state to scholar" for updates; relay for transfer to SCHOLAR |
+| Directionality | ✓ | Transfer into SCHOLAR only via relay stated |
 
 **Result:** Compliant.
 
 ---
 
-## 9. Decision-Relevant History & State Log
+## 9. Decision-Relevant History & STATE Log
 
 | Check | Status | Note |
 |-------|--------|------|
 | Patterns with activation | ✓ | Endurance, Fiscal Constraint, Revealed Preference, etc. |
 | Source citations | ✓ | MEMs and doctrines cited |
-| State Log entries | ✓ | Numbered entries; session type, changes, next review |
+| STATE Log entries | ✓ | Numbered entries; session type, changes, next review |
 | Optional subsections | ○ | Doctrine audit / forward projection format available if used |
 
 **Result:** Compliant.
@@ -171,7 +171,7 @@ CIV–STATE–RUSSIA satisfies the mandatory structure, content, and register re
 | Stability indicators | PASS |
 | Register (no system-internal terms) | PASS |
 | Source Versions & sync/relay | PASS |
-| Decision-Relevant History & State Log | PASS |
+| Decision-Relevant History & STATE Log | PASS |
 | CORE/template alignment | PASS |
 
 **No remedial action required.**

@@ -693,7 +693,7 @@ Belief Status:
 
 ENTRY 0015
 Source:
-• STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11 (STATE session harvest)
+• STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11 (STATE session relay)
 
 Ingest Type:
 • STATE Harvest — Doctrine Verification (ARC protocol)
@@ -1744,7 +1744,7 @@ Session Activity (January 2026):
 • WRITE: SYNTHESIS 0008 frozen (ENTRY 0006 + cross-civ MEM–GERMANIA–WAR–SEVEN–YEARS + CORE + tri-frame). Three assumptions: (1) grammar blocked Anglia-style path, (2) 1763 as interval (demonstration failed, declaration not yet possible), (3) same war opposite demonstration outcome (Francia failed, Germania succeeded). RLL–FRANCIA–0012, 0013, 0014 (CANDIDATE) proposed—GENERAL domain; derivation ENTRY 0006, CORE, tri-frame session. 29 Jan 2026.
 • LEARN: RLL–FRANCIA–0015 (CANDIDATE) proposed—MEMs encoding claim–capacity divergence support both civilizational-grammar (legitimacy) and structural (power/coalition/survival) readings; same MEM sections furnish both; Mercouris reframe (MEM–FRANCIA–WAR–SEVEN–YEARS Sections II–VI). GENERAL domain. 29 Jan 2026.
 • WRITE: Scholar analysis insights integrated (REPORT–SCHOLAR–FRANCE–GERMANIA–COGNITIVE–DIFFERENTIATION, RUN–REPORT–SCHOLAR–BREAK–TESTS, CCM). SDI 0002 encoding rationale (1870 structural not moral); IX.A CCM awareness (second-order SDI, lack vs choice attribution); NCZ priority resolution MEM list; XIII procedural note (doctrine constrains freeze not record). Seven Years' War encoding (SYNTHESIS 0008, ENTRY 0006) confirmed canonical: interval, demonstration failed, rupture thinkable. 29 Jan 2026.
-• HARVEST: STATE session (France doctrine check) harvested 11 Feb 2026. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred: doctrine verification (01–05) under 30-day, pre-1900, and Capet-only (987–1328) MEM grounding; ENTRY 0015 added. CIV–STATE–FRANCE State Log updated.
+• RELAY: STATE session (France doctrine check) relayed 11 Feb 2026. Source: STATE–FRANCE–DOCTRINE–CHECK–ARC–2026–02–11. Transferred: doctrine verification (01–05) under 30-day, pre-1900, and Capet-only (987–1328) MEM grounding; ENTRY 0015 added. CIV–STATE–FRANCE State Log updated.
 • LEARN: Doctrine 03 / ritual chain traced backward (Valois → Carolingian → Merovingian → Reims/Clovis → Roman legibility). Deep precedent note added to AXIOM FRANCIA-003 (rupture enables renewal; grammar assembled in stages; MEMs: VALOIS, MEROVINGIAN, REIMS, REIMS–CATHEDRAL, ROME–GEO–GAUL, ROME–WAR–TEUTOBURG–FOREST, FRANCIA–WAR–CAESAR). 11 Feb 2026.
 • LEARN: Extent–stability lesson formalized (Feb 2026). Dynasty ordering by maximum territorial extent (Carolingian > Bourbon > Capetian ≥ Valois > Merovingian) showed largest two fragmented or underwent revolution; Capetian (third) remembered as consolidator. RLL–FRANCIA–0016 (CANDIDATE) proposed—peak territorial extent does not predict durable legitimacy; DOCTRINE 02 (CIV–DOCTRINE–FRANCE) operational meaning augmented; continuity insights added to MEM–FRANCIA–DYNASTY–CAROLINGIAN, MEM–FRANCIA–DYNASTY–BOURBON, MEM–FRANCIA–DYNASTY–CAPET.
 • LEARN: Gated spiral session (Napoleonic France): doctrine trace (01–05) over Napoleonic MEM set; ENTRY 0016; Gate 1 A (proceed WRITE all). 11 Feb 2026.

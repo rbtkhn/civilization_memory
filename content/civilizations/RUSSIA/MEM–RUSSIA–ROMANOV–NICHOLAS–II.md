@@ -86,6 +86,13 @@ reach—but lacked adaptive political mechanisms.
 
 Authority endured through habit and performance rather than consent.
 
+Tolstoy's late stance—excommunication (1901), critique of autocracy and
+Orthodoxy, moral authority opposed to regime—encoded a civilizational
+split: the regime's legitimacy contested by Russia's preeminent literary
+voice. "Bethink Yourselves!" (1904) addresses Nicholas directly: the Tsar
+"thanks and blesses the troops whom he calls his own for murder in defence
+of lands which with yet less right he also calls his own."
+
 ────────────────────────────────────────────────────────────
 III. PERSONAL RULE & GOVERNANCE STYLE
 ────────────────────────────────────────────────────────────

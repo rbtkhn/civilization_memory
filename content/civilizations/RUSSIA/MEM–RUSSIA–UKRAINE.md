@@ -1,9 +1,9 @@
-MEM–RUSSIA–UKRAINE — v3.0
+MEM–RUSSIA–UKRAINE — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.0
-Supersedes: MEM–RUSSIA–UKRAINE v2.7
+Supersedes: MEM–RUSSIA–UKRAINE v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
 Regime / Mode: Imperial–Soviet–Post-Soviet · Contested Borderland
@@ -64,6 +64,19 @@ Memory axiom:
 
 Loss of Kiev is remembered as historical fracture, not civilizational
 divorce.
+
+Pushkin encodes Ukraine as contested borderland in *Poltava* (1829)—Mazepa's
+betrayal, Peter's victory at Poltava—and in *To the Slanderers of Russia*
+(1831), written during the Polish uprising, frames Western criticism as
+slander and the conflict as a Slavic familial dispute. Imperial-national
+framing precedes Dostoevsky.
+
+Dostoevsky's Slavophile encoding (*A Writer's Diary*, 1876–1881) frames
+Russia as bearer of "universal reconcilability" and Orthodox synthesis—a
+grammar that informs how Russian memory encodes Ukraine as kin rather than
+foreign: "The Russian idea with time will become the synthesis of all those
+ideas that Europe for so long and with such persistence produced in its
+individual nationalities."
 
 ────────────────────────────────────────────────────────────
 III. BORDERLAND CONDITION
@@ -169,6 +182,7 @@ Tension preserved without verdict.
 X. MEM CONNECTIONS (v2.7 COMPLIANT)
 ────────────────────────────────────────────────────────────
 Same-civilization (≥10):
+• MEM–RUSSIA–LIT–PUSHKIN — *Poltava* (1829), *To the Slanderers of Russia* (1831) borderland encoding
 • MEM–RUSSIA–KIEVAN–RUS — shared origin civilization
 • MEM–RUSSIA–KIEV — contested sacred capital
 • MEM–RUSSIA–CRIMEA — territorial flashpoint
@@ -218,5 +232,5 @@ When ingested without CIV–MEM–CORE present, the system MUST issue:
 8. Examine the relationship between cultural kinship and sovereignty claims
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–UKRAINE v3.0
+END OF FILE — MEM–RUSSIA–UKRAINE v3.1
 ────────────────────────────────────────────────────────────

@@ -26,8 +26,8 @@ Governed by:
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.12 → v2.13) — SESSION NOTE: CLOSURE/SETTLEMENT TRI-FRAME CHAIN
 ────────────────────────────────────────────────────────────
-Session 11 Feb 2026 (Scholar–Germania LEARN). ENTRY 0030 added: harvest
-analysis (Germany session harvest), Vienna/Path A vs arbiter-by-right
+Session 11 Feb 2026 (Scholar–Germania LEARN). ENTRY 0030 added: relay
+analysis (Germany session relay), Vienna/Path A vs arbiter-by-right
 (complementary encodings), 1815–1856–1871 force ratio and encodings,
 Talleyrand mechanism (channel, narrative, incentive). Validates
 SYNTHESIS 0021; no new RLL. Tri-frame chain on closure/settlement
@@ -1261,10 +1261,10 @@ Source: Session 11 Feb 2026 (Scholar–Germania LEARN); CIV–STATE–GERMANY
   CONGRESS–VIENNA; MEM–RUSSIA–WAR–CRIMEAN; MEM–GERMANIA–FRANCE
 Ingest Type: Session Note / Tri-Frame Closure-Settlement Chain
 Primary Beliefs Extracted:
-• Germany session harvest (doctrine audit, forward projection, Vienna
+• Germany session relay (doctrine audit, forward projection, Vienna
   refinement in RUSSIA link) is consistent with SYNTHESIS 0021 (Path A)
   and Germania doctrine set; Scholar–Russia reading corrected and extended
-  the harvest (shared reference, divergent lesson; inclusion + outcome
+  the relay (shared reference, divergent lesson; inclusion + outcome
   not frameable as defeat).
 • Vienna encodes complementarily: German memory = inclusion of defeated
   (France as stakeholder) for closure; Russian memory = Russia as arbiter
@@ -2452,7 +2452,7 @@ COMMUNICATION PROTOCOL (MANDATORY — v2.9+):
 X. VERSIONING & FUTURE UPGRADES
 ────────────────────────────────────────────────────────────
 v2.13 changes (ADDITIVE · SESSION NOTE — CLOSURE/SETTLEMENT TRI-FRAME CHAIN):
-• ENTRY 0030 added (Session 11 Feb 2026 — harvest analysis, Vienna/Path A,
+• ENTRY 0030 added (Session 11 Feb 2026 — relay analysis, Vienna/Path A,
   1815–1856–1871 force ratio and encodings, Talleyrand mechanism)
 • Entry count: 29 → 30
 • No new synthesis; validates SYNTHESIS 0021

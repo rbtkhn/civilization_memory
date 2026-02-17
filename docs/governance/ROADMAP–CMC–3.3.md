@@ -45,7 +45,7 @@ Exit criteria:
 Deliverables:
 - Active rules reference 3.3 protocol status where relevant
 - No contradictory 3.2 pending-language in active enforcement paths
-- Backward-compatible aliases retained (e.g., relay/harvest)
+- Backward-compatible aliases retained (e.g., relay (deprecated: harvest))
 
 Exit criteria:
 - Rule-to-template references pass consistency checks

@@ -90,6 +90,8 @@ not safely release."
 
 Terminal control replaces episodic victory.
 
+Tolstoy served in the Russo-Turkish theatre during the Crimean War (Sevastopol, 1854–55) and encoded the soldier's experience in *Sevastopol Sketches* (1855)—attrition, boredom, and fleeting heroism without epic glorification. His literary memory of the siege shapes how Russians remember the southern wars: endurance under fire, then institutional exposure.
+
 ────────────────────────────────────────────────────────────
 V. CRIMEA AS CONTROL NODE
 ────────────────────────────────────────────────────────────

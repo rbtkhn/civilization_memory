@@ -11,14 +11,14 @@ When the user issues a **sync** command that clearly requests updating the STATE
 - "sync state to scholar"
 - "sync STATE to SCHOLAR"
 - "sync state file to scholar"
-- "sync STATE–[entity] to Scholar–[entity]" (e.g. "sync STATE–Russia to Scholar–Russia")
+- "sync STATE–[entity] to SCHOLAR–[entity]" (e.g. "sync STATE–Russia to SCHOLAR–Russia")
 - "run sync protocol" (in STATE context)
 
 If the entity is named (e.g. Russia, Germany), sync applies to that entity's STATE file. If not named, use the entity currently in focus for the session.
 
 ## One-Way Only (Sync)
 
-Sync is **one-way**: STATE file is updated from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE, and MEM corpus. No content is written back into SCHOLAR, CORE, or DOCTRINE by the sync command. **Transfer into Scholar:** The only way to transfer information from STATE mode into SCHOLAR (learn mode) is the **"relay to scholar"** command family (CIV–STATE–TEMPLATE §XIV-B; cursor rule: cmc-state-scholar-harvest). Legacy aliases (`harvest`, `harvest session`) remain accepted.
+Sync is **one-way**: STATE file is updated from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE, and MEM corpus. No content is written back into SCHOLAR, CORE, or DOCTRINE by the sync command. **Transfer into SCHOLAR:** The only way to transfer information from STATE mode into SCHOLAR (learn mode) is the **"relay to scholar"** command family (CIV–STATE–TEMPLATE §XIV-B; cursor rule: cmc-state-scholar-harvest). Deprecated aliases (`harvest`, `harvest session`) remain accepted but avoid in new text.
 
 ## Sync Procedure (MANDATORY)
 
@@ -34,9 +34,9 @@ Follow **CIV–STATE–TEMPLATE §XIV (Sync Protocol)** in full:
 
 5. **Propose specific updates**: List concrete edits to the STATE file (section, paragraph, or bullet; before/after or insert text). Do not apply edits without user approval.
 
-6. **Output to user**: Present (a) summary of source changes found, (b) impact assessment, (c) proposed STATE file updates with clear section references, (d) recommended updates to the Source Versions block and State Log. Ask for approval before modifying the STATE file.
+6. **Output to user**: Present (a) summary of source changes found, (b) impact assessment, (c) proposed STATE file updates with clear section references, (d) recommended updates to the Source Versions block and STATE Log. Ask for approval before modifying the STATE file.
 
-7. **Apply only after approval**: If the user approves, apply the approved updates and update the Source Versions block and State Log. If the user approves only some updates, apply only those.
+7. **Apply only after approval**: If the user approves, apply the approved updates and update the Source Versions block and STATE Log. If the user approves only some updates, apply only those.
 
 ## No Automatic Sync
 

@@ -84,6 +84,18 @@ Western materialism. Ferguson's comparative-empire lens situates
 > — Niall Ferguson, *The War of the World: Twentieth-Century
 > Conflict and the Descent of the West* (2006)
 
+Tolstoy's anti-war essay "Bethink Yourselves!" (1904) frames the conflict
+as moral collapse:
+
+> "Again war. Again sufferings, necessary to nobody, utterly uncalled for;
+> again fraud; again the universal stupefaction and brutalization of men.
+> Men who are separated from each other by thousands of miles, hundreds of
+> thousands of such men (on the one hand—Buddhists... on the other
+> hand—Christians, professing the law of brotherhood and love) like wild
+> beasts on land and on sea are seeking out each other, in order to kill,
+> torture, and mutilate each other in the most cruel way."
+> — Leo Tolstoy, "Bethink Yourselves!" (1904), trans. Tchertkoff
+
 ────────────────────────────────────────────────────────────
 IV. OPERATIONAL FAILURE & LOGISTICAL REALITY
 ────────────────────────────────────────────────────────────

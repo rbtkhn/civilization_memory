@@ -119,6 +119,13 @@ VI. SEVASTOPOL AS SYMBOLIC CORE
 ────────────────────────────────────────────────────────────
 The siege of Sevastopol dominates memory.
 
+Dostoevsky was in Siberian exile during the Crimean War; his penal
+servitude (1849–1854) overlapped with the conflict. *The House of the
+Dead* (1862) records the penal system of Nicholas I's regime—the same
+regime that entered and lost the war. Tolstoy, who served as artillery
+officer during the siege, encoded soldier experience in *Sevastopol
+Sketches* (1855): "You see the war not in its correct, beautiful, brilliant formation, with music and beating drums, with waving banners and prancing generals, but you see war in its real aspect—in blood, in suffering, in death." (trans. Maude). See MEM–RUSSIA–SEVASTOPOL for full literary treatment.
+
 Dynamics:
 • Prolonged resistance
 • High casualties

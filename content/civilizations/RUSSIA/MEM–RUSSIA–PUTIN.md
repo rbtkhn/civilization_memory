@@ -1,9 +1,9 @@
-MEM–RUSSIA–PUTIN — v3.1
+MEM–RUSSIA–PUTIN — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
 Version: 3.1
-Supersedes: (new file)
+Supersedes: MEM–RUSSIA–PUTIN v3.1
 Upgrade Type: ALIGNMENT · NEW MEM (PERSON)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: POST-SOVIET / VERTICAL OF POWER
@@ -130,6 +130,20 @@ identity, siege mentality—not through the lens of a single ideological
 comparandum. MEM–RUSSIA–LIT–DOSTOEVSKY holds the same quote; here it
 anchors the **leadership** dimension: how Putin is read by the West.
 
+Putin invokes Pushkin as national symbol—Russia's foundational poet, whose
+"Moscow... how much in that sound has merged for the Russian heart" and
+"Monument" encode civilizational identity. Pushkin and Dostoevsky form the
+literary axis through which Russian conduct is read; Kissinger's formula
+names Dostoevsky, but Pushkin precedes him as canonical witness.
+
+Dostoevsky supplies the grammar Kissinger invokes. From *The Brothers
+Karamazov* (1880), Dmitri on suffering and identity:
+
+> "I'm not afraid of it, even if it's numberless... And it seems to me
+> there's so much strength in me now that I can overcome everything, all
+> sufferings, only in order to say and tell myself every moment: I am!"
+> — Fyodor Dostoevsky, *The Brothers Karamazov* (1880), trans. Garnett
+
 ────────────────────────────────────────────────────────────
 VI. KEY EPISODES (ENCODED, NOT ADJUDICATED)
 ────────────────────────────────────────────────────────────
@@ -213,6 +227,7 @@ Russian (≥10):
 • MEM–RUSSIA–UKRAINE — central theatre of conflict
 • MEM–RUSSIA–CRIMEA — 2014 annexation
 • MEM–RUSSIA–LIT–DOSTOEVSKY — Kissinger framing (understanding Russia)
+• MEM–RUSSIA–LIT–PUSHKIN — national poet as civilizational symbol
 • MEM–RUSSIA–THIRD–ROME — civilizational rhetoric
 • MEM–RUSSIA–KALININGRAD — forward position; NATO context
 • MEM–RUSSIA–MURMANSK — Northern Fleet; strategic interests
@@ -268,5 +283,5 @@ E. Polyphonic — civilizational vs. structural
 F. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–PUTIN v3.1
+END OF FILE — MEM–RUSSIA–PUTIN v3.2
 ────────────────────────────────────────────────────────────

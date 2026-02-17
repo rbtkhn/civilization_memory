@@ -27,7 +27,7 @@ CIV–CORE–RUSSIA satisfies the mandatory structural, governance, and content 
 | Compatibility | ✓ | CMC v3.0 |
 | Conceptual Lineage | ✓ | SCE–CIV–RUSSIA v9.7.2 |
 | DIB Status | ✓ | DEFINED · INACTIVE |
-| Scholar Reference Mode | ✓ | READ-ONLY / DIB-GATED |
+| SCHOLAR Reference Mode | ✓ | READ-ONLY / DIB-GATED |
 | Civilization Phase | ✓ | PHASE III — MATURITY |
 | Lock Level | ✓ | STRUCTURAL |
 | Last Update | ✓ | February 2026 |

@@ -35,6 +35,16 @@ STATE is downstream of CIV–SCHOLAR; historical patterns, RLLs, and syntheses i
 
 This is **one-way**: STATE reads SCHOLAR; STATE does not write back to SCHOLAR. If no CIV–SCHOLAR file exists for the entity, proceed without it; note the absence only if relevant. On entity switch, load the new entity's SCHOLAR file (with CORE and STATE file); previous entity's SCHOLAR does not govern.
 
+## Structured SCHOLAR Consultation (Bidirectional Read — STATE side)
+
+At each **analytical node** (Material Option assessment, Decision Point, Pattern Audit, Assumption Stress Test, Stability Watch, Scenario Tree branch, etc.), **re-read the relevant sections of CIV–SCHOLAR–[CIV]** for the current topic. Do not rely solely on session-start load. Consult:
+- **Section V** (RLLs) — which RLLs apply to this node?
+- **Section IV** (Axioms) — which axioms constrain or illuminate?
+- **Section VII** (Decision-Relevant History, if present in SCHOLAR) or equivalent pattern sections
+- **Section VI** (Negative Capability Zone) — which exclusions are relevant?
+
+Read only the sections pertinent to the current analytical question. This enables real-time, topic-aware cross-talk from SCHOLAR into STATE output without changing persistence rules.
+
 ## MEM SCAN Procedure (MANDATORY)
 
 When executing a session activity (Decision Points, Stability Watch, Assumption Stress Test, Scenario Tree, Revealed Preference Tracker, Cross-Entity Pressure Test, Pattern Audit), you MUST ground analytical output in directly-read MEM files.
@@ -83,6 +93,7 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 
 - [ ] CIV–CORE–[CIV].md read for axiom/constraint awareness (if present for entity)?
 - [ ] CIV–SCHOLAR–[CIV] read for RLLs/syntheses/patterns (if present for entity)?
+- [ ] SCHOLAR re-consulted at this analytical node (relevant sections V, IV, VI, VII)?
 - [ ] MEM–RELEVANCE–[CIV].md read at session start?
 - [ ] Relevant dimensions identified (minimum 2)?
 - [ ] Primary MEMs from those dimensions actually read (not just named)?

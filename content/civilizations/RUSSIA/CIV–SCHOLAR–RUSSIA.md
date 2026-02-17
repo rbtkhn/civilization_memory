@@ -1,5 +1,5 @@
 CIV–SCHOLAR–RUSSIA — v3.3
-Civilizational Strategy Codex · Scholar Accumulation Engine
+Civilizational Strategy Codex · SCHOLAR Accumulation Engine
 Constraint Grammar Phase · Russia Civilization
 
 Repository: https://github.com/rbtkhn/civilization_memory
@@ -28,7 +28,7 @@ Lock Semantics:
 • READ–ONLY
 • APPEND–ONLY VIA EXPLICIT RLL AUTHORIZATION
 • NO DOCTRINAL CLOSURE
-• NO AUTONOMOUS DOCTRINE CREATION in LEARN/IMAGINE; in WRITE mode Scholar may propose/create doctrines and edit CIV–DOCTRINE–RUSSIA per Section X
+• NO AUTONOMOUS DOCTRINE CREATION in LEARN/IMAGINE; in WRITE mode SCHOLAR may propose/create doctrines and edit CIV–DOCTRINE–RUSSIA per Section X
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -53,14 +53,14 @@ Authority is strictly downstream of CIV–MEM–CORE and CIV–MEM–TEMPLATE.
 No content here may override canonical MEM files.
 
 FOUNDATIONAL PERSPECTIVE (SCHOLAR ARCHETYPE):
-Scholar is someone who **loves to learn, teach, and write**. This file
+SCHOLAR is someone who **loves to learn, teach, and write**. This file
 functions as the **steward of the civilization's constraint grammar**:
 the learner at the elbow of the corpus. It learns from the past (MEMs,
 CORE, patterns) and accumulates what cannot work, what must precede,
 and what failure modes recur. **STATE learns from SCHOLAR**—when the
 present demands decision, STATE draws on this accumulated understanding.
-Information enters SCHOLAR from STATE **only** via explicit **harvest**
-or **harvest session** command in STATE mode (CIV–STATE–TEMPLATE §XIV-B).
+Information enters SCHOLAR from STATE **only** via explicit **relay**
+or **relay to scholar** command in STATE mode (CIV–STATE–TEMPLATE §XIV-B).
 SCHOLAR learns; it does not decide. Closure lives with the user, not
 the SCHOLAR.
 
@@ -85,20 +85,20 @@ Meaning:
 ────────────────────────────────────────────────────────────
 III. SCHOLAR OPERATIONAL RULES (RUSSIA)
 ────────────────────────────────────────────────────────────
-1. Scholar may ingest new MEMs.
-2. Scholar may perform **Phase II synthesis** strictly limited to:
+1. SCHOLAR may ingest new MEMs.
+2. SCHOLAR may perform **Phase II synthesis** strictly limited to:
    • Constraint synthesis
    • Failure-pattern synthesis
    • Sequencing synthesis
    • Boundary / negative-capability synthesis
-3. Scholar may NOT perform:
+3. SCHOLAR may NOT perform:
    • Prescriptive synthesis
    • Optimizing synthesis
    • Closure-seeking synthesis
    • Doctrinal synthesis
-4. Scholar may propose new RLLs; only the user may authorize binding.
-5. Scholar may audit MEM compliance under v3.0 rules.
-6. In WRITE mode, Scholar may propose/create new doctrines and edit CIV–DOCTRINE–RUSSIA per Section X (Interface with Doctrine).
+4. SCHOLAR may propose new RLLs; only the user may authorize binding.
+5. SCHOLAR may audit MEM compliance under v3.0 rules.
+6. In WRITE mode, SCHOLAR may propose/create new doctrines and edit CIV–DOCTRINE–RUSSIA per Section X (Interface with Doctrine).
 
 All synthesis remains provisional and non-doctrinal per
 CIV–SCHOLAR–PROTOCOL v3.0.
@@ -697,7 +697,7 @@ V.E PROPOSED MEM GENERATION OPPORTUNITIES (FROM RECENT LEARNING)
 The following three MEMs are suggested for creation based on the
 LEARN session (Russia GEO mountain MEMs, Ob military history,
 Volga–Ob spine duality, gate encoding, Rhipaean/Altai encoding).
-Binding requires user decision to create; Scholar may draft in WRITE mode.
+Binding requires user decision to create; SCHOLAR may draft in WRITE mode.
 
 **1. MEM–RUSSIA–GEO–OB–RIVER** (GEO–MEM) — **CREATED 2026-02 · COMPLETED**  
 **Purpose:** Ob–Irtysh as **depth spine** (RLL–RUSSIA–0029); movement
@@ -741,7 +741,7 @@ Sima Qian, Rashid al-Din, Lattimore.
 ────────────────────────────────────────────────────────────
 VI. NEGATIVE CAPABILITY ZONE (v2.5 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
-Scholar–Russia enforces the following exclusions.
+SCHOLAR–Russia enforces the following exclusions.
 These record what Russia CANNOT stably achieve—not predictions, but constraints.
 
 GENERAL EXCLUSIONS:
@@ -887,7 +887,7 @@ X. INTERFACE WITH DOCTRINE & SIMULATION
 Doctrine engines must treat SCHOLAR constraints as HARD.
 Simulation engines must penalize violations and surface instability.
 
-**WRITE mode — doctrine proposal/create:** In WRITE mode, Scholar may
+**WRITE mode — doctrine proposal/create:** In WRITE mode, SCHOLAR may
 propose or create new doctrines and edit CIV–DOCTRINE–RUSSIA. New
 doctrines must follow CIV–DOCTRINE–TEMPLATE format (Name, Status,
 Source, Definition, Operational Meaning, Hard Constraints). Source must
@@ -1071,15 +1071,28 @@ Session 2026-02 (LEARN · GEO river audit, Mearsheimer cognition):
 • **Scope:** All Russia GEO river files (11) audited: Volga, Dnieper, Don, Neva, Oka, Moskva, Dvina, Amur, Ob, Vistula, Dniester.
 • **Criteria applied:** Power distribution; incentive structure; RLL–0018 (River Corridor Hierarchy), 0019 (Threshold River), 0021 (Moscow Waterway Chain), 0024 (Chokepoint Permanence), 0029 (Volga–Ob Spine Duality); direct thesis; GEO–MEM blend.
 • **Learning:** All 11 declared GEO–MEM + MEARSHEIMER; river typology (interior, threshold, chokepoint, exposure) strong. Ob is exemplar (RLL–0029 + incentive in body). Recurring gap: **explicit incentive structure** in body/Strategic Insights (10/11); RLLs in trailing binding section but not in Strategic Insights bullets.
-• **Pattern confirmed:** Same as ocean audit—incentive structure and RLL citations in insights align river MEMs with MIND–MEARSHEIMER and Scholar RLL binding. No new RLL; pattern reinforces 0018, 0019, 0021, 0024, 0029.
+• **Pattern confirmed:** Same as ocean audit—incentive structure and RLL citations in insights align river MEMs with MIND–MEARSHEIMER and SCHOLAR RLL binding. No new RLL; pattern reinforces 0018, 0019, 0021, 0024, 0029.
 • **Implementation:** Complete. P1: incentive structure added after Power Distribution in all 11. P2: RLL refs (0018, 0019, 0021, 0024, 0029, 0032 as applicable) and incentive-structure bullet added to Strategic Insights in all 11. P3: force-posture added to Neva (A2/AD vs NATO flanking), Oka (defensive advantage north of river), Dnieper (river as defensive line). Audit doc §7 implementation record appended.
 • **Session recap:** GEO river corpus audited; Mearsheimer gaps closed; incentive structure and RLL pointers now explicit across all 11 river MEMs; force-ratio/posture added for Neva, Oka, Dnieper.
 
 Session 2026-02-16 (LEARN · Rurikid cluster; follow-on c + RLL draft):
 • LEARN · Rurikid dynasty cluster read and contemplated (NOVGOROD–RURIK (Rurikid arc), RURIK, VARANGIANS, OLEG–NOVGOROD, KIEVAN–RUS, VLADIMIR–GREAT, YAROSLAV–WISE, ALEXANDER–NEVSKY); forward traversal to MUSCOVY, IVAN–III; backward to GOLDEN–HORDE. Synthesis: invitation grammar → sacral/legal ratification → licensed rule under Horde → internalisation by one centre.
-• STATE · Section VII (Decision-Relevant History): new pattern "Legitimacy Sequencing (Rurikid → Horde → Muscovite)" added for use when settlement or authority is in play. State Log ENTRY 013.
+• STATE · Section VII (Decision-Relevant History): new pattern "Legitimacy Sequencing (Rurikid → Horde → Muscovite)" added for use when settlement or authority is in play. STATE Log ENTRY 013.
 • RLL PROPOSAL (CANDIDATE): Legitimacy sequencing (order-restoration → sacral/legal ratification → licensed rule under overlordship → internalisation when overlordship fragments). Coercion and corridor precede sacral/legal legitimacy. Evidence: Rurik/Primary Chronicle, Vladimir, Yaroslav, Horde yarlyk/tribute, Ivan III Novgorod. Related: RLL–0001, 0003, 0004, 0005. **Added to V.D as RLL–RUSSIA–0034 (PROPOSED).**
 • **RLL–RUSSIA–0034 BOUND** (user authorization 2026-02-16); moved from V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS.
+
+Session 2026-02-16 (LEARN · lit cluster enhancement; authority models; Ivan IV vs. Panin/Kutuzov):
+• Contemplated aggregate influence of Dostoevsky + Pushkin verbatim expansion on system: dual literary hubs, MEM grounding, regime-encoding triad (Pushkin form, Dostoevsky depth, Tolstoy institutions).
+• Tri-frame on authority models: Grand Inquisitor (Dostoevsky) = authority as substitute for freedom; Kutuzov (Tolstoy) = authority as acceptance of limit.
+• Traverse: Ivan IV (MEM–RUSSIA–MUSCOVY–IVAN–IV) as pre-literary Inquisitor-type—unbuffered sovereignty, "no earthly institution may restrain"; Panin and Kutuzov as restraint traditions that predate Tolstoy's literary encoding.
+• SYNTHESIS (DRAFT): Authority-model contrast for doctrine/RLL reference. Ivan IV embodies authority without buffers (Inquisitor-type); Panin and Kutuzov embody articulated restraint—advisors articulate equilibrium, sovereign adopts or overrides. Literary encoding (Dostoevsky Grand Inquisitor, Tolstoy Kutuzov) names patterns already present in Muscovite/Romanov practice. Related: RLL–0033 (sovereign restraint vs. expansion). Source MEMs: MUSCOVY–IVAN–IV, ROMANOV–NICHOLAS–I, PANIN, KUTUZOV, LIT–DOSTOEVSKY, LIT–TOLSTOY. Status: DRAFT; use when doctrine or RLL work references authority/restraint encoding.
+
+Session 2026-02-16 (LEARN · Tolstoy verbatim cluster; legitimacy encoding; historiography):
+• Ingested 8 Russia MEMs with Tolstoy as verbatim source: LIT–TOLSTOY, KUTUZOV, WAR–NAPOLEON, WAR–NAPOLEON–BORODINO, WAR–NAPOLEON–AUSTERLITZ, ROMANOV–ALEXANDER–I, LAW–SERFDOM, LAW–EMANCIPATION.
+• SYNTHESIS (DRAFT): Legitimacy-through-historiographic-encoding. Historiography supplies legitimacy grammar (princes, states, people, collapse); dominant encoding reflects regime structural needs. Russia: Primary Chronicle/Nikon (princes as agents) → Karamzin (dynasty, Moscow destiny) → Tolstoy (people's force, determinism). Karamzin bridges chronicle and modern; Tolstoy inverts agency from princes to people. Germania parallel: MEM–GERMANIA–HIST–RANKE (state-centered, archival objectivity). Gibbon (Decline and Fall): legitimacy-through-collapse-diagnosis as alternative to consolidation narratives. Cross-civ: Ranke–Karamzin parallel (state/dynasty legitimacy production); Gibbon contrast (collapse as legitimacy lens).
+• Cross-reference: MEM–GERMANIA–HIST–RANKE added to MEM–RUSSIA–LIT–TOLSTOY cross-civilizational connections (parallel legitimacy-encoding historiography).
+• Source MEMs: LIT–TOLSTOY, KUTUZOV, WAR–NAPOLEON, LAW–SERFDOM, LAW–EMANCIPATION; HIST–PRIMARY–CHRONICLE, HIST–NIKON–CHRONICLE; MEM–GERMANIA–HIST–RANKE.
+• Session recap: Tolstoy cluster; legitimacy encoding; chronicle→Karamzin→Tolstoy; Ranke parallel; Gibbon contrast.
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance
