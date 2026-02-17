@@ -1,9 +1,9 @@
-MEM–PERSIA–ACHAEMENID–CYRUS–II — v1.4
+MEM–PERSIA–ACHAEMENID–CYRUS–II — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.4
+Version: 1.5
 Upgrade Type: ADDITIVE · Jiang Xueqin verbatim (divide and rule)
 Civilization: PERSIA
 Subject: Cyrus II "the Great" — Achaemenid Founder
@@ -170,7 +170,21 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–EMPIRE — founding imperial template; integrative sovereignty; sacral kingship
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — successor; systematizes Cyrus's precedent
+• MEM–PERSIA–ACHAEMENID–DYNASTY — dynasty founder; imperial architecture
+• MEM–PERSIA–PASARGADAE — Cyrus capital; tomb and ritual center
+• MEM–PERSIA–MEDES — Persian–Median fusion; Ecbatana
+• MEM–PERSIA–BABYLON — 539 conquest; Cyrus Cylinder; restoration of gods
+• MEM–PERSIA–ZOROASTER — legitimacy through order; king as enforcer of asha
+• MEM–PERSIA–LAW–MONARCHY — founding sovereign; integrative kingship
+• MEM–PERSIA–EGYPT — Cambyses succeeds Cyrus; Egyptian satrapy
+• MEM–PERSIA–LYDIA — Croesus; integrative conquest precedent
+
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Herodotus, *Histories*, I.87 — Cyrus and Croesus; integrative sovereignty
 • Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of gods and peoples
@@ -178,5 +192,5 @@ X. BIBLIOGRAPHY
 • Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube) — divide and rule as stability mechanism; ARC–PERSIA-T-MODERN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ACHAEMENID–CYRUS–II — v1.4
+END OF FILE — MEM–PERSIA–ACHAEMENID–CYRUS–II — v1.5
 ────────────────────────────────────────────────────────────

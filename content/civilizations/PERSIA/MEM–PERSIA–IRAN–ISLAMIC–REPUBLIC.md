@@ -12,7 +12,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the **Islamic Republic of Iran (IRI)** as the current regime of the state of Iran: its institutional design (velayat-e faqih, Guardian Council, elected and non-elected branches), legitimacy sources (Shi'a guardianship, revolution, resistance to foreign pressure), and adaptation under siege (sanctions, asymmetric doctrine, dignity–survival trade-off). It complements MEM–PERSIA–ISLAMIC–REPUBLIC (sovereignty and civilizational encoding) by emphasising **structure and sequence** and by linking explicitly to MEM–PERSIA–IRAN (state) and MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION (founding event).
+This file preserves the **Islamic Republic of Iran (IRI)** as the current regime of the state of Iran: its institutional design (velayat-e faqih, Guardian Council, elected and non-elected branches), legitimacy sources (Shi'a guardianship, revolution, resistance to foreign pressure), and adaptation under siege (sanctions, asymmetric doctrine, dignity–survival trade-off). It links explicitly to MEM–PERSIA–IRAN (state) and MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION (founding event).
 
 The IRI is **continuity through compression**: religion and revolution fused to defend autonomy; prosperity is optional, sovereignty and endurance mandatory (CIV–CORE–PERSIA).
 
@@ -92,7 +92,7 @@ VI. CONTINUITY INSIGHTS (RAW)
 • Siege adaptation: sanctions-resistant economy, asymmetric doctrine, proxy and denial.
 • Compression under pressure: regime densifies; contradictions managed, not resolved.
 • Shi'a memory engine and martyrdom reinforce endurance legitimacy.
-• Cross-reference: MEM–PERSIA–ISLAMIC–REPUBLIC (same regime, civilizational encoding); MEM–PERSIA–IRAN (state); MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION (founding).
+• Cross-reference: MEM–PERSIA–IRAN (state); MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION (founding).
 
 ────────────────────────────────────────────────────────────
 VII. MEM CONNECTIONS (TYPED)
@@ -102,10 +102,9 @@ DEPENDS_ON:
 • MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION — Founding event; revolution as mandate
 • MEM–PERSIA–IRAN — State container; territorial and constitutional continuity
 • MEM–PERSIA–ISLAM — Shi'a authority; clerical legitimacy
+• MEM–PERSIA–LAW–CONSTITUTION — 1979 constitution; velayat-e faqih; dual structure
 
 ENABLES:
-• MEM–PERSIA–ISLAMIC–REPUBLIC — Overlaps; civilizational and sovereignty encoding (complement)
-
 PARALLELS:
 • (Cross-civ parallels: siege states, theocratic republics—optional for future PARALLELS)
 

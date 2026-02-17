@@ -12,7 +12,7 @@ Word Count: ~1,900
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves **Iran** as the modern state and territorial container through which Persian civilization has been expressed since the early twentieth century. It does not replace dynasty or regime MEMs (e.g. MEM–PERSIA–ISLAMIC–REPUBLIC, MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION) but encodes **continuity of the state**: name (Persia → Iran), territorial integrity (Iranian Plateau), constitutional ruptures (1906, 1979), and the persistence of sovereignty as the central imperative across regime changes.
+This file preserves **Iran** as the modern state and territorial container through which Persian civilization has been expressed since the early twentieth century. It does not replace dynasty or regime MEMs (e.g. MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC, MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION) but encodes **continuity of the state**: name (Persia → Iran), territorial integrity (Iranian Plateau), constitutional ruptures (1906, 1979), and the persistence of sovereignty as the central imperative across regime changes.
 
 Iran is the **current name of the polity**; Persia is the civilizational and memory-codex designation. The state densifies after each shock rather than dissolving.
 
@@ -73,7 +73,7 @@ The Islamic Republic did not break that pattern; it re-encoded it in clerical–
 ────────────────────────────────────────────────────────────
 V. RELATION TO PERSIA (CIVILIZATION) AND OTHER MEMs
 ────────────────────────────────────────────────────────────
-Iran is the **sovereign state**; Persia is the **civilizational and memory designation** used in the Codex. The same population, territory, and continuity of institutional memory apply. MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION covers the 1979 rupture; MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC and MEM–PERSIA–ISLAMIC–REPUBLIC cover the current regime. This file is the **umbrella** for the modern state so that LEARN and STATE can reference "Iran" (state) vs "Persia" (civilization) without confusion.
+Iran is the **sovereign state**; Persia is the **civilizational and memory designation** used in the Codex. The same population, territory, and continuity of institutional memory apply. MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION covers the 1979 rupture; MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC covers the current regime. This file is the **umbrella** for the modern state so that LEARN and STATE can reference "Iran" (state) vs "Persia" (civilization) without confusion.
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)
@@ -96,10 +96,11 @@ DEPENDS_ON:
 ENABLES:
 • MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION — 1979 as rupture within the same state container
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — IRI as current regime of Iran
-• MEM–PERSIA–ISLAMIC–REPUBLIC — Regime identity and siege governance
 
 PARALLELS:
 • MEM–INDIA–REPUBLIC — Post-colonial state with civilizational depth; constitutional continuity and rupture
+
+• MEM–PERSIA–LAW–CONSTITUTION — 1906, 1979; constitutional sequence
 
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–PERSIAN–GULF — Southern littoral; chokepoint and energy

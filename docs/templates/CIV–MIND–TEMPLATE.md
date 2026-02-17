@@ -1,24 +1,24 @@
-CIV–MIND–TEMPLATE — v3.3
+CIV–MIND–TEMPLATE — v3.4
 Civilizational Memory Codex · Mind Profile Governance Template
 Polyphony Architecture Foundation · Content Composition Rule
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.3
+Version: 3.4
 Scope: ALL MIND PROFILES
 Class: CIV–MIND–TEMPLATE (Mind Governance Law)
 Load Order: AFTER CIV–MEM–CORE
 Supersedes: CIV–MIND–TEMPLATE v3.2
 Compatibility:
-• CIV–MEM–CORE v3.3
-• CIV–MIND–MERCOURIS v3.3 (PRIMARY)
-• CIV–MIND–MEARSHEIMER v3.3 (ADVISORY)
-• CIV–MIND–BARNES v3.3 (LIABILITY/MECHANISM PERSPECTIVE)
+• CIV–MEM–CORE v3.4
+• CIV–MIND–MERCOURIS v3.4 (PRIMARY)
+• CIV–MIND–MEARSHEIMER v3.4 (ADVISORY)
+• CIV–MIND–BARNES v3.4 (LIABILITY/MECHANISM PERSPECTIVE)
 
 Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.3
+• CIV–MEM–CORE v3.4
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Last Update: February 2026
@@ -159,7 +159,7 @@ III.D POLYPHONY RULES
 • Advisory and catalyst may be disengaged without residue
 
 ────────────────────────────────────────────────────────────
-III.E CROSS-MODE AVAILABILITY (CMC 3.3)
+III.E CROSS-MODE AVAILABILITY (CMC 3.4)
 ────────────────────────────────────────────────────────────
 The same three analytical perspectives operate in BOTH top-level modes:
 
@@ -310,7 +310,7 @@ TERTIARY CATALYST (BARNES v2.6):
 
 No autonomous activation of advisory or catalyst minds is permitted.
 
-STATE MODE ACTIVATION (CMC 3.3):
+STATE MODE ACTIVATION (CMC 3.4):
 All three perspectives operate in STATE mode through the same
 analytical framework, but invocation and output differ:
 • Activation: By analytical need (duty of competence requires all
@@ -357,9 +357,9 @@ MIND–[NAME] (e.g., MIND–MERCOURIS, CIV–MIND–MEARSHEIMER)
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–TEMPLATE v3.3 is CANONICAL.
+CIV–MIND–TEMPLATE v3.4 is CANONICAL.
 
-All MIND profiles governed by CMC 3.3.
+All MIND profiles governed by CMC 3.4.
 
 Future versions may:
 • Add governance clarification
@@ -373,5 +373,5 @@ Future versions may NOT:
 • Permit autonomous mutation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–TEMPLATE v3.3
+END OF FILE — CIV–MIND–TEMPLATE v3.4
 ────────────────────────────────────────────────────────────

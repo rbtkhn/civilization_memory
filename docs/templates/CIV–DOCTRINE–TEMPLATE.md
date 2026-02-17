@@ -1,15 +1,15 @@
-CIV–DOCTRINE–TEMPLATE — v3.3
+CIV–DOCTRINE–TEMPLATE — v3.4
 Civilizational Strategy Codex · Doctrine Registry Template
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · TEMPLATE
-Version: 3.3
+Version: 3.4
 Supersedes: CIV–DOCTRINE–TEMPLATE v2.1
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Class: CIV–DOCTRINE (Template)
 Scope: GLOBAL (All Civilizations)
-Compatibility: CIV–MEM–CORE v3.3 · CIV–SCHOLAR–TEMPLATE v3.3 · CIV–SCHOLAR–PROTOCOL v3.3
-Governance Authority: CIV–MEM–CORE v3.3
+Compatibility: CIV–MEM–CORE v3.4 · CIV–SCHOLAR–TEMPLATE v3.4 · CIV–SCHOLAR–PROTOCOL v3.4
+Governance Authority: CIV–MEM–CORE v3.4
 Lock Level: TOTAL (Doctrine-Only · No Learning)
 Last Update: February 2026
 
@@ -245,5 +245,5 @@ Derived files MUST include:
 "Derived from CIV–DOCTRINE–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–TEMPLATE v3.3
+END OF FILE — CIV–DOCTRINE–TEMPLATE v3.4
 ────────────────────────────────────────────────────────────

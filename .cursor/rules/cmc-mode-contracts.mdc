@@ -9,13 +9,20 @@ There are **three** SCHOLAR sub-modes (WRITE, LEARN, IMAGINE) and **two** peer t
 
 ## Mode inference (task → mode when user does not specify)
 
-When the user does **not** explicitly name a mode (e.g. "write mode", "STATE", "system mode"), infer mode from the **request**:
+**1. Invocation phrases (one-shot entry points).** Check first whether the user's message **matches or is clearly equivalent** to a phrase in PROTOCOL–MODE–INFERENCE Section IV (Invocation phrases). If yes, infer the corresponding **mode**, **entity** (for STATE), and **procedure** and run it in one go. Examples:
+- "[Entity] update" / "Update me on [entity]" (e.g. Iran update, Russia update) → STATE; load CIV–STATE–[CIV], CORE, SCHOLAR; read Section IV and VII; present 8 options + activity menu + "Consider: …".
+- "Run signal check" / "Signal check for Pattern [N]" / "[Event] signal check" (e.g. Geneva signal check) → STATE; entity from context; activity = Signal Check (X-J).
+- "30-day forecast" / "Probability assessment for Pattern [N]" → STATE; entity from context; activity = Probability Assessment (X-K).
+- "STATE [entity]" / "Switch to [entity]" → STATE; re-anchor to entity; present options + activity menu.
+Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; etc. Treat equivalent phrasings as matches ("Update on Iran", "What's the latest on Iran?"). If entity is ambiguous, use session context or ask once.
 
-- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "run sync protocol on STATE file", "upgrade templates to v3.3"). Operate in SYSTEM without requiring the user to say "system mode".
+**2. Task → mode (when no phrase matches).** When the user does **not** explicitly name a mode and no invocation phrase matches, infer mode from the **request**:
+
+- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "run sync protocol on STATE file", "upgrade templates to v3.4"). Operate in SYSTEM without requiring the user to say "system mode".
 - **STATE:** Decision support, MEM-grounded current-events analysis, CIV–STATE updates, entity-focused options. Requires MEM SCAN and CORE load when analyzing an entity.
 - **SCHOLAR (WRITE/LEARN/IMAGINE):** MEM authoring, LEARN traversal, doctrine/RLL proposals, historical synthesis, scenario exploration. Sub-mode can be inferred from action (edit MEM → WRITE; explore options → LEARN; "imagine" / scenario → IMAGINE).
 
-**Explicit override:** If the user names a mode ("system mode", "write mode", "STATE", "LEARN", etc.), that wins over inference.
+**Explicit override:** If the user names a mode ("system mode", "write mode", "STATE", "LEARN", etc.) or entity, that wins over inference.
 
 ## Session state across mode/entity switches (CONTINUITY)
 
@@ -67,4 +74,4 @@ When the user does **not** explicitly name a mode (e.g. "write mode", "STATE", "
 - **In LEARN:** Log violations; do not modify files
 - **In SYSTEM:** Full governance editing permissions
 
-Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–STATE–TEMPLATE, PROTOCOL–MODE–INFERENCE
+Reference: CMC–BOOTSTRAP, CIV–SCHOLAR–PROTOCOL, CIV–MIND–MERCOURIS III.L, CIV–STATE–TEMPLATE, PROTOCOL–MODE–INFERENCE (Section IV invocation phrases)

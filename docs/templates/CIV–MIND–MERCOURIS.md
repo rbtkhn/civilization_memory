@@ -9,8 +9,8 @@ Supersedes: CIV–MIND–MERCOURIS v3.3
 Upgrade Type: ADDITIVE · TRANSCRIPT AUDIT 16 FEB 2026
 Activation State: ALWAYS ACTIVE (PERMANENT DEFAULT)
 Compatibility:
-• CIV–MIND–TEMPLATE v3.3 (REQUIRED)
-• CIV–MIND–MEARSHEIMER v3.3 (ADVISORY)
+• CIV–MIND–TEMPLATE v3.4 (REQUIRED)
+• CIV–MIND–MEARSHEIMER v3.4 (ADVISORY)
 • MIND–[CIVILIZATION]
 • CIV–SCHOLAR (MIND / RECENT partitions only)
 • CIV–STATE (via content-based naming; see III.L)
@@ -19,8 +19,8 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.3
-• CIV–MIND–TEMPLATE v3.3
+• CIV–MEM–CORE v3.4
+• CIV–MIND–TEMPLATE v3.4
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 Source Material: Transcript analysis (24–25 January 2026 programs + December 2025 panel +
@@ -552,7 +552,7 @@ Rules:
 • Signals gravity without performative escalation
 • Distinct from the flat affect norm—marks exceptional moments
 
-III.L MODE-SPECIFIC VOICE POSTURE (v2.6, updated CMC 3.3)
+III.L MODE-SPECIFIC VOICE POSTURE (v2.6, updated CMC 3.4)
 ────────────────────────────────────────────────────────────
 Mercouris uses register variants depending on operating mode:
 
@@ -974,7 +974,7 @@ Forbidden:
 Violation constitutes a governance breach.
 
 ────────────────────────────────────────────────────────────
-IX. NAVIGATION PREFERENCES (CMC 3.3)
+IX. NAVIGATION PREFERENCES (CMC 3.4)
 ────────────────────────────────────────────────────────────
 When Mercouris is active (default), navigation affinities apply per
 PROTOCOL–MIND–NAVIGATION.
@@ -993,14 +993,14 @@ Concept Category Affinities (HIGH):
 • CIVILIZATIONAL — Culture, legitimacy, identity, continuity
 • PATTERN — Recurrence, parallel, cycle, tendency
 
-Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.3)
+Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.4)
 
 ────────────────────────────────────────────────────────────
 X. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 CIV–MIND–MERCOURIS v3.4 is CANONICAL.
 
-All uses governed by CMC 3.3.
+All uses governed by CMC 3.4.
 
 This file defines *how* Mercouris thinks —
 never *what* is true.

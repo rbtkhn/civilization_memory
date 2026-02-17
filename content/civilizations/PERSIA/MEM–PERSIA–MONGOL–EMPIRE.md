@@ -1,6 +1,6 @@
-MEM–PERSIA–MONGOL–EMPIRE
+MEM–PERSIA–MONGOL–EMPIRE — v1.2
 Status: LOCKED
-Version: 1.0
+Version: 1.2
 Civilization: PERSIA (ایران‌زمین)
 Subject: Mongol Empire — Ilkhanate Arc
 Dates: c. 1219–1353
@@ -172,15 +172,25 @@ With Persia:
 → Mongol rule becomes briefly imperial but unsustainable
 
 ────────────────────────────────────────────────────────────
-IX. BIBLIOGRAPHY
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–EMPIRE — Persianate template under Mongol rule; reconstitution
+• MEM–PERSIA–SCI–NASIR–AL–DIN–TUSI — Ilkhanid court; Maragheh observatory; rupture and reconstitution
+• MEM–PERSIA–GEO–IRANIAN–PLATEAU — Ilkhanid heartland; Hulagu base
+• MEM–PERSIA–ISLAM — Mongol–Islam interaction; Persian bureaucratic absorption
+• MEM–PERSIA–SAFAVID–DYNASTY — post-Mongol reconstitution; Shi'a state formation
+• MEM–PERSIA–SILK–ROAD — Mongol corridor; transmission
+
+────────────────────────────────────────────────────────────
+X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Rashid al-Din, *Jami' al-Tawarikh* (Compendium of Chronicles), tr. W.M. Thackston — ARC–PERSIA-T-MEDIEVAL
 
 ────────────────────────────────────────────────────────────
-X. FILE STATUS & INTEGRATION NOTES
+XI. FILE STATUS & INTEGRATION NOTES
 ────────────────────────────────────────────────────────────
 Status: LOCKED
-Version: 1.1
+Version: 1.2
 Upgrade Type: ADDITIVE · indigenous-language quote (Rashid al-Din)
 
 Canonical Role:
@@ -193,5 +203,5 @@ Read before:
 • CIV–PERSIA (Core Engine)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–MONGOL–EMPIRE — v1.1
+END OF FILE — MEM–PERSIA–MONGOL–EMPIRE — v1.2
 ────────────────────────────────────────────────────────────

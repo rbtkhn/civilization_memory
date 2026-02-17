@@ -1,13 +1,13 @@
 CIV–ARC–[CIVILIZATION] — v3.5
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · Trans-Sovereign Patterns (TSP)
-Living ARC Optional (CMC 3.3)
+Living ARC Optional (CMC 3.4)
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
 Supersedes: CIV–ARC–[CIVILIZATION] v3.4
 Upgrade Type: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT (OPTIONAL PER ARC)
 Scope: Author admissibility and temporal precedence ONLY
-Compatibility: CIV–MEM–CORE v3.3 · CIV–MEM–TEMPLATE v3.3 · NAMESPACE–CLARIFICATION v1.0
+Compatibility: CIV–MEM–CORE v3.4 · CIV–MEM–TEMPLATE v3.4 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
 
 ────────────────────────────────────────────────────────────
@@ -478,7 +478,7 @@ Each ARC–[CIV] MAY add further blacklist entries (civilization-
 specific exclusions). The Wikipedia entry is mandatory for all.
 
 ────────────────────────────────────────────────────────────
-X. LIVING ARC (CMC 3.3 — OPTIONAL)
+X. LIVING ARC (CMC 3.4 — OPTIONAL)
 ────────────────────────────────────────────────────────────
 When PROPOSAL–LIVING–ARC is implemented, ARC files may include
 additional sections for source lifecycle tracking.

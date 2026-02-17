@@ -104,10 +104,11 @@ VII. MEM CONNECTIONS (TYPED)
 DEPENDS_ON:
 • MEM–PERSIA–IRAN — State container and constitutional sequence; 1953 as precedent
 • MEM–PERSIA–ISLAM — Shi'a authority and clerical legitimacy
+• MEM–PERSIA–LAW–CONSTITUTION — 1979 founding; written limit on sovereignty
+• MEM–PERSIA–LAW–MONARCHY — revolution abolishes monarchy
 
 ENABLES:
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — IRI as outcome of revolution
-• MEM–PERSIA–ISLAMIC–REPUBLIC — Regime identity and siege governance
 
 TEMPORAL_BEFORE:
 • MEM–PERSIA–IRAN — Pre-revolution state and Pahlavi period

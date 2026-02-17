@@ -1,13 +1,85 @@
-CIV–STATE–TEMPLATE — v3.3
+CIV–STATE–TEMPLATE — v3.9
 Civilizational Memory Codex · STATE File Template
 
 Status: ACTIVE · CANONICAL
-Version: 3.3
-Supersedes: CIV–STATE–TEMPLATE v3.2
-Upgrade Type: X-B ACCOMMODATION/REVERSAL OPTION — DUTY OF COMPETENCE IN DECISION POINTS
+Version: 3.9
+Supersedes: CIV–STATE–TEMPLATE v3.8
+Upgrade Type: DOMESTIC POLITICS IMPACT / ADVICE — PROCEDURE X-O
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
-Compatibility: CIV–MEM–CORE v3.3 · CMC 3.3
-Last Update: 12 February 2026
+Compatibility: CIV–MEM–CORE v3.4 · CMC 3.4
+Last Update: 17 February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.9) — DOMESTIC POLITICS IMPACT / ADVICE
+────────────────────────────────────────────────────────────
+STATE gains a procedure to analyse how domestic politics (elite
+cohesion, factionalism, public opinion, institutional rivalry,
+succession, narrative/legitimacy) constrain or enable a material
+option, a decision, or an opponent's behaviour. Uses ARC for
+current reporting; MEM scan for domestic-political parallels
+(defection, succession, legitimacy crises). Three perspectives
+applied to the domestic dimension. Feeds options, stability
+indicators, or opponent assessment. Complements Stability Watch
+(which scans all indicators); this procedure focuses scope on
+domestic politics. Section X-O defines the procedure.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.8) — FINANCIAL / ECONOMIC ANALYSIS
+────────────────────────────────────────────────────────────
+STATE gains a procedure to analyse the financial or economic
+dimension of the entity, a material option, or an opponent/partner.
+Uses ARC-listed sources for data (fiscal, monetary, trade,
+sectoral); MEM scan for economic parallels (exhaustion, sanctions,
+fiscal crisis); three perspectives applied to the economic
+dimension. Output feeds binding constraints, stability indicators,
+or opponent assessment. Not a substitute for treasury or central
+bank; frames economic factors for decision-support. Section X-N
+defines the procedure.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.7) — CAUSATION / CORRELATION ANALYSIS
+────────────────────────────────────────────────────────────
+STATE gains a procedure to test whether an asserted or assumed
+relationship (X and Y) is better treated as correlation
+(association only) or causation (X causes Y, with mechanism and
+direction). Surfaces evidence for association, proposed causal
+mechanisms (per perspective), alternative explanations, and
+discriminating tests. Reduces risk of acting on correlational
+claims as if causal. Section X-M defines the procedure.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.6) — BEST CASE / WORST CASE
+────────────────────────────────────────────────────────────
+STATE gains a procedure to bound the outcome space with a plausible
+best case and worst case for a user-specified scope (option, event,
+timeframe). Each bound is grounded in stated assumptions, MEM
+parallels, and current evidence; discriminating signals indicate what
+would push trajectory toward either bound. Section X-L defines the
+procedure. Complements Scenario Tree (branching) and Probability
+Assessment (single-event likelihood).
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.5) — PROBABILITY ASSESSMENT
+────────────────────────────────────────────────────────────
+STATE gains a structured procedure for probabilistic prediction:
+user specifies an event (and optional timeframe); system returns
+probability band (LOW / MODERATE / HIGH), conditioning assumptions,
+evidence (MEM + ARC-attributed), perspective support, and
+discriminating signals. Ordinal bands avoid fabricated precision;
+numeric probabilities permitted only when user or cited source
+provides them. Section X-K defines the procedure; Register Rules
+(XI) clarify permitted vs prohibited quantification.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4) — POST-EVENT SIGNAL CHECK
+────────────────────────────────────────────────────────────
+When a key event (summit, round of talks, etc.) tests a material option
+or binding constraint and interpretation of counterpart/opponent intent
+is discriminating evidence, the STATE file may record a watch list of
+signals to monitor in news. Section VII (FILE STRUCTURE) gains an
+optional "Post-Event Signal Check" bullet; Section X-J defines the
+procedure for adding and running a signal check. First implementation:
+CIV–STATE–PERSIA Pattern 6 (Geneva round, Feb 2026).
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.3) — ACCOMMODATION/REVERSAL OPTION IN DECISION POINTS
@@ -46,13 +118,17 @@ TERMINOLOGY–REGISTRY CIV–STATE entry updated to state augmentation
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.10) — SECTION VII OPTIONAL SUBSECTIONS
 ────────────────────────────────────────────────────────────
-Section VII (Decision-Relevant History) may include two optional
+Section VII (Decision-Relevant History) may include optional
 subsections when the relevant session activities are performed:
 • Doctrine audit & session outputs: reference to standalone audit file
   (if any), summary line, ARC sources and precedent MEMs used.
 • Forward projection: horizon, key variables, upside/downside in brief.
+• Post-Event Signal Check (v3.4): when counterpart intent is
+  discriminating evidence after a key event, signal categories and
+  check window; run via Signal Check (X-J).
 Format and placement are specified in the Section VII bullet list.
-First implementation: CIV–STATE–GERMANY v1.2 (11 Feb 2026).
+First implementation (audit/projection): CIV–STATE–GERMANY v1.2 (11 Feb 2026).
+First implementation (signal check): CIV–STATE–PERSIA Pattern 6 (Feb 2026).
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.8) — SIX NEW STATE SESSION ACTIVITIES
@@ -558,6 +634,13 @@ SECTION VII: DECISION-RELEVANT HISTORY
     recorded, add horizon (e.g. 6–12 months), key variables, upside/
     downside in brief; format "Forward projection — [topic] (horizon) |
     Variables: ... | Upside: ... | Downside: ..."
+  • Post-Event Signal Check (optional): when a key event (e.g. summit,
+    round of talks) tests a material option or binding constraint and
+    counterpart/opponent intent is discriminating evidence, add under
+    the relevant pattern a bullet: event label and date; 3–5 signal
+    categories to monitor in news; interpretation rule (what supports
+    vs undermines which option); check window (e.g. 2–4 weeks). Run via
+    Signal Check procedure (Section X-J).
 
 SECTION VIII: CROSS-ENTITY LINKS
   • Comparison relationships
@@ -838,7 +921,7 @@ All revisions must be documented. Silent changes to options are
 prohibited.
 
 ────────────────────────────────────────────────────────────
-X-A. RECURSIVE ANALYSIS OPTIONS (CMC 3.3)
+X-A. RECURSIVE ANALYSIS OPTIONS (CMC 3.4)
 ────────────────────────────────────────────────────────────
 STATE sessions are recursive. After every substantive analytical
 turn, the system presents 8 analysis options that guide the next
@@ -917,8 +1000,9 @@ When user selects H, deliver:
 3. Proposed STATE file updates: specific changes to options,
    assumptions, confidence levels, stability indicators, or
    evidence updates — with section references
-4. Three follow-on options: (b) small incremental update,
-   (c) bigger structural revision, (a) no change needed
+4. Four follow-on options: (a) no change needed, (b) small
+   incremental update, (c) bigger structural revision, (d) relay
+   to scholar (transfer session to SCHOLAR per §XIV-B)
 
 DISTINCTION FROM SCHOLAR OPTIONS:
 • SCHOLAR options deepen historical understanding
@@ -1213,7 +1297,10 @@ contradiction. Rules:
   not resolution.
 • APPLIES IN ALL SESSION ACTIVITIES. Decision Points, Stability
   Watch, Scenario Tree, Assumption Stress Test, Cross-Entity
-  Pressure Test, Pattern Audit, and free-form analysis.
+  Pressure Test, Pattern Audit, Signal Check, Probability
+  Assessment, Best Case / Worst Case, Causation / Correlation
+  Analysis, Financial / Economic Analysis, Domestic Politics
+  Impact, and free-form analysis.
 • CROSS-ENTITY CONTRADICTIONS ARE EXPECTED. When an entity's own
   sources contradict an adversary's sources (e.g. Russian MOD
   casualty figures vs Western estimates), this is a structural
@@ -1934,9 +2021,9 @@ are recorded in the STATE Log (Section IX) with type tag
 ────────────────────────────────────────────────────────────
 X-I. SESSION ACTIVITY SUMMARY
 ────────────────────────────────────────────────────────────
-STATE mode supports seven session activities. Each has a distinct
-analytical orientation and feeds different sections of the STATE
-file.
+STATE mode supports multiple session activities and procedures.
+Each has a distinct analytical orientation and feeds different
+sections of the STATE file.
 
 | Activity | Section | Asks | Feeds |
 |----------|---------|------|-------|
@@ -1948,16 +2035,67 @@ file.
 | Revealed Preference | X-F | What does behaviour predict? | Decision-Relevant History (VII) |
 | Cross-Entity Pressure | X-G | How do relationships interact? | Cross-Entity Links (VIII) |
 | Pattern Audit | X-H | Are our patterns still valid? | Decision-Relevant History (VII) |
+| Signal Check | X-J | What do post-event signals say about counterpart intent? | Section VII, Material Options (IV) |
+| Probability Assessment | X-K | What is the probability that [event]? | Section VII, Material Options (IV) |
+| Best Case / Worst Case | X-L | What are the plausible best and worst outcomes? | Section VII, Material Options (IV) |
+| Causation / Correlation | X-M | Is the relationship causal or only correlational? | Section VII, Material Options (IV) |
+| Financial / Economic | X-N | What are the economic constraints or implications? | Section IV, VI, VI-B, VII |
+| Domestic Politics | X-O | How do domestic politics constrain or enable the option? | Section IV, VI, VI-B, VII |
 
 INVOCATION:
 The activity menu appears as a persistent single line after the
 8-slot recursive options in every standard STATE response:
 
 "Activities: decision points | stability watch | stress test |
-scenario tree | revealed preference | pressure test | pattern audit"
+scenario tree | revealed preference | pressure test | pattern audit |
+signal check | probability assessment | best case worst case |
+causation correlation | financial economic | domestic politics"
 
 The user invokes an activity by typing its name or a recognisable
 abbreviation (e.g. "stability watch", "stress test", "scenario tree").
+
+CONTEXTUAL RECOMMENDATION (REQUIRED):
+When presenting the 8-slot options (A–H) and the activity menu,
+the system MUST recommend 1–2 procedures by name when context
+clearly warrants it. Add one short line after the activity menu,
+e.g. "Consider: [procedure name]" or "Consider: [procedure 1];
+[procedure 2]". Use the following context → procedure mapping:
+• Key event just occurred or Section VII contains a post-event
+  signal check for current topic → Consider: signal check (if a check
+  already exists for this event/pattern, recommend running it; if a
+  key event just occurred and counterpart intent is discriminating
+  for an option but no signal check exists yet for this pattern,
+  recommend "Consider: add signal check for [event]" so the user can
+  add one)
+• User or analysis is assessing likelihood of a specific event →
+  Consider: probability assessment
+• Bounding outcomes or assessing range of plausible results →
+  Consider: best case worst case
+• A causal claim (X causes Y) is in play or was asserted →
+  Consider: causation correlation
+• Fiscal, sanctions, trade, or economic variable is binding for
+  an option or opponent → Consider: financial economic
+• Elite cohesion, legitimacy cost, factional risk, or domestic
+  politics is binding for an option or decision → Consider:
+  domestic politics
+Recommend at most two procedures per turn; if multiple apply,
+choose the 1–2 most salient to the current topic or option. When
+no procedure is clearly relevant, omit the recommendation line.
+Suppress the recommendation when an activity is active (that
+activity's options apply instead).
+
+SELECTABLE CONTEXTUAL OPTION (OPTIONAL):
+When the contextual recommendation is a specific, actionable
+procedure (e.g. "add signal check for [event]", "run probability
+assessment for Pattern [N]", "run stress test on [assumption]"),
+the system MAY add one line that makes that action selectable,
+e.g. "Or choose: Add signal check for [event]" or "Or choose: Run
+probability assessment for Pattern 6". The user can then type or
+select that phrase to invoke the procedure. At most one such line
+per turn. This does not create a ninth slot; it surfaces the
+recommended action as an explicit choice. Omit when the
+recommendation is generic (e.g. "Consider: signal check" with no
+specific event) or when no contextual recommendation was made.
 
 When an activity is active:
 • The activity's own option structure replaces the 8-slot menu AND
@@ -1983,9 +2121,476 @@ Activities may trigger each other:
   Assumption Stress Test to validate the flagged Hard Constraint
 • Cross-Entity Pressure Test -> new Decision Point for either entity
 • Decision Points outcome -> Revealed Preference Tracker data point
+• Session that identifies discriminating evidence for counterpart
+  intent after a key event -> add Post-Event Signal Check to Section VII
+  (run later via Signal Check); then Probability Assessment for at
+  least one signal over the check window (attach to same pattern)
+• Decision Point or Scenario Tree branch -> Probability Assessment
+  for "P(option succeeds)" or "P(branch occurs)"
+• Decision Point or Material Option -> Best Case / Worst Case to
+  bound plausible outcomes for that option or horizon
+• Material Option or narrative claim that assumes "X causes Y" ->
+  Causation / Correlation Analysis to test the claim
+• Material Option or opponent assessment where fiscal, sanctions,
+  or trade are binding -> Financial / Economic Analysis
+• Material Option or decision where elite cohesion, legitimacy
+  cost, or factional risk is binding -> Domestic Politics Impact
 
 These triggers are advisory, not automatic. The system notes the
 trigger; the user decides whether to follow it.
+
+────────────────────────────────────────────────────────────
+X-J. POST-EVENT SIGNAL CHECK (PROCEDURE)
+────────────────────────────────────────────────────────────
+Signal Check is a STATE procedure used when a key event (summit,
+round of talks, etc.) has occurred and the entity needs to interpret
+counterpart/opponent intent from observable behaviour in news. It
+relies on a watch list already recorded in Section VII under the
+relevant pattern.
+
+PREDICTION LINK (design principle):
+Every signal check inherently implies at least one testable
+prediction. A check without an expected outcome is only a watch
+list; a prediction makes it revisable (run result can be scored
+against the expectation). When adding a Post-Event Signal Check,
+include or add within the same session a probability assessment
+(X-K) for at least one of the signals (or a composite) over the
+check window — e.g. P(signal X observed) LOW/MODERATE/HIGH by [end
+of window]. Attach or link the assessment to the same pattern in
+Section VII so runs can be compared to the prediction and the
+assessment updated.
+
+MEASURABILITY AND FALSIFIABILITY (required):
+Signal categories and linked predictions must be measurable and
+falsifiable. (1) Each signal category must be defined so that by
+the end of the check window the system can determine from
+sources (news, official statements, ARC-attributed) whether the
+signal occurred or not — i.e. observable, not purely subjective.
+(2) Every linked probability assessment must be falsifiable: by
+the end of the timeframe it must be possible to tell whether the
+event occurred, so the prediction can be confirmed or revised.
+Avoid vague or unfalsifiable formulations (e.g. "US attitude
+improves"; prefer "US issues statement using reciprocal framing"
+or "third round scheduled by [date]").
+
+WHEN TO ADD A SIGNAL CHECK:
+When a session identifies that (a) a key event tests a material
+option or binding constraint, and (b) counterpart/opponent intent
+is discriminating evidence for that option, add a "Post-Event Signal
+Check" bullet under the relevant pattern in Section VII.
+
+FORMAT (Section VII bullets):
+• Post-[Event] signal check ([date]): Signals to monitor in news to
+  interpret [counterpart] intent — (1) [category]: [what to look for];
+  (2) [category]: ...; (3–5) as needed. Interpretation: [what supports
+  vs undermines which option]. Check window: [e.g. 2–4 weeks].
+• [Check-window] probability assessment ([date]): P([event]) [band]
+  [; further P(...) as needed]. Conditional on [assumptions]. Evidence:
+  [brief]. Discriminating: [signals that would shift band]. (At least
+  one such assessment per signal check; add when creating the check or
+  when user requests forecasts.)
+
+PROCEDURE (when user invokes "signal check", "run signal check", or
+"check post-[event] signals"):
+1. LOCATE: Read the STATE file's Section VII. Find the pattern that
+   contains a "Post-Event Signal Check" or "Post-[Event] signal check"
+   bullet. If none, report that no signal check is defined and offer
+   to add one after the next relevant session.
+2. SEARCH: Using the signal categories and check window in that
+   bullet, search news (ARC-T-INSTITUTIONAL or equivalent; multi-
+   category per ARC source coverage rule) for the relevant period.
+3. SCORE: For each signal category, report what was observed (with
+   source attribution and editorial note). Note contradictions between
+   sources; do not silently resolve.
+4. INTERPRET: Apply the interpretation rule from the bullet: which
+   option(s) are supported or undermined by the observed signals?
+   If a probability assessment is recorded for this pattern, compare
+   observed signals to the predicted bands; note confirmation or
+   revision need.
+5. PROPOSE: Suggest specific updates to Section VII (e.g. one-line
+   "Signal check run [date]: ...") or to Material Option evidence in
+   Section IV. Apply only after user approval.
+
+Signal Check does not have its own multi-step option menu. The user
+invokes it; the system runs steps 1–5 and presents results. Session
+closure may update the STATE Log (e.g. "Signal check run for Pattern
+[N] (post-[event])").
+
+────────────────────────────────────────────────────────────
+X-K. PROBABILITY ASSESSMENT (PROCEDURE)
+────────────────────────────────────────────────────────────
+Probability Assessment is a STATE procedure that produces a
+structured probabilistic prediction for a user-specified event. It
+asks: what is the probability that [event] (by [timeframe])?
+
+ORIENTATION:
+The procedure is prediction-oriented. It combines MEM-grounded
+historical parallels, current evidence (ARC-attributed), and the
+three analytical perspectives to assign a probability band and
+make the reasoning traceable. It does not invent numeric
+probabilities; it uses ordinal bands unless the user or a cited
+source provides a number.
+
+DISTINCTION FROM SCENARIO TREE:
+Scenario Tree branches from a trigger and assigns conditional
+probabilities to each branch. Probability Assessment focuses on
+a single target event and produces one assessment with full
+evidence and discriminating signals. Use Scenario Tree for
+"if X, then A or B or C"; use Probability Assessment for "how
+likely is E?".
+
+PROCEDURE (when user invokes "probability assessment", "assess
+probability", "what's the probability that [event]", "P([event])",
+or equivalent):
+1. DEFINE: With the user if needed, state the event in testable,
+   observable, and falsifiable form: "Event E: [observable
+   description]". By the end of the timeframe it must be possible
+   to determine from sources whether E occurred or not, so the
+   assessment can be confirmed or revised. Optional: "by [timeframe
+   T]" (e.g. "within 90 days", "by end of Q2"). Conditioning
+   assumptions (what is held constant) must be explicit (e.g.
+   "conditional on no major third-party intervention").
+2. MEM SCAN: Read MEM–RELEVANCE–[CIV].md (or Section VII as
+   fallback). Load 2–3 primary MEMs relevant to the event type.
+   Read file contents; extract specific parallels (dates,
+   mechanisms, outcomes). CONNECTION DISCOVERY: from MEM
+   CONNECTIONS, add up to 2 further MEMs if relevant.
+3. EVIDENCE: Gather current evidence (ARC-T-INSTITUTIONAL or
+   equivalent; multi-category per ARC source coverage rule).
+   Attribute each claim; surface contradictions. Do not present
+   projections as established facts (SOURCE TRANSPARENCY).
+4. ASSIGN BAND: Assign one of LOW / MODERATE / HIGH to P(E) (and
+   to P(E by T) if timeframe given). Justification must include:
+   • Which perspective(s) support the band and why
+   • At least one MEM-grounded parallel that informs the level
+   • Key current evidence (with attribution)
+   Numeric probabilities (e.g. "60%") are permitted only when
+   the user requests a number or a cited source provides one;
+   otherwise use ordinal bands to avoid fabricated precision.
+5. DISCRIMINATING SIGNALS: List 2–4 observable developments that
+   would shift the assessment up or down (e.g. "If X is observed,
+   move to HIGH"; "If Y, move to LOW").
+6. PROPOSE: Suggest recording the assessment in Section VII (e.g.
+   "Probability assessment [date]: P(E) [band] by [T] conditional
+   on [assumptions] | Evidence: [one line] | Discriminating: [one
+   line]") or as an evidence update to a Material Option in
+   Section IV. When the assessment is for a signal (or composite)
+   monitored by a Post-Event Signal Check, record it under the same
+   pattern so runs can be scored against it (X-J PREDICTION LINK).
+   Apply only after user approval.
+
+SESSION CLOSURE (optional):
+If the user requests closure after an assessment, deliver: event
+and band; conditioning; one-line evidence; discriminating signals;
+proposed STATE update. Log in STATE Log (Section X) with tag
+"PROBABILITY ASSESSMENT."
+
+────────────────────────────────────────────────────────────
+X-L. BEST CASE / WORST CASE (PROCEDURE)
+────────────────────────────────────────────────────────────
+Best Case / Worst Case is a STATE procedure that bounds the outcome
+space for a user-specified scope with a plausible optimistic and a
+plausible pessimistic scenario. It asks: what is the best plausible
+outcome and the worst plausible outcome (and what would need to hold
+for each)?
+
+ORIENTATION:
+The procedure is range-oriented. It does not assign probabilities to
+the bounds (use Probability Assessment for that) or branch from a
+trigger (use Scenario Tree for that). It identifies the ceiling and
+floor of plausible outcomes so the decision-maker sees the full
+range. Both bounds must be grounded — not fantasy best or
+apocalyptic worst, but outcomes that could plausibly occur given
+stated assumptions and evidence.
+
+DISTINCTION FROM OTHER ACTIVITIES:
+| Scenario Tree     | Branches from trigger; conditional probabilities per branch |
+| Probability Assessment | Single event; one probability band                    |
+| Best / Worst Case  | Two bounds (optimistic, pessimistic); no probabilities     |
+
+PROCEDURE (when user invokes "best case worst case", "bounds",
+"best and worst case for [scope]", "bound the outcomes", or
+equivalent):
+1. SCOPE: With the user if needed, define the scope. Examples:
+   "Best/worst case for [entity] over [timeframe]", "Best/worst
+   case for Option B (negotiated settlement)", "Best/worst case
+   for [crisis/negotiation] through [date]". Scope must be
+   specific enough to make the bounds testable.
+2. MEM SCAN: Read MEM–RELEVANCE–[CIV].md (or Section VII as
+   fallback). Load 2–3 primary MEMs relevant to the scope (e.g.
+   settlement, escalation, endurance). Read file contents; extract
+   parallels that illustrate upside resolution or downside
+   deterioration. CONNECTION DISCOVERY: from MEM CONNECTIONS, add
+   up to 2 further MEMs if relevant.
+3. BEST CASE: State a plausible optimistic bound. For each bound
+   provide:
+   • Outcome description (observable end-state or trajectory)
+   • Assumptions that must hold (e.g. "reciprocal framing
+     sustained", "no strike", "coalition holds")
+   • At least one MEM-grounded parallel that illustrates the
+     upside (with specific detail)
+   • Key current evidence that supports plausibility (ARC-
+     attributed); surface contradictions if relevant
+   Best case is "plausible best", not "everything goes perfectly"
+   — it must be defensible as within the realm of possibility.
+4. WORST CASE: State a plausible pessimistic bound. Same
+   structure:
+   • Outcome description (observable end-state or trajectory)
+   • Assumptions that would produce it (e.g. "strike occurs",
+     "mediation collapses", "counterpart frames as capitulation")
+   • At least one MEM-grounded parallel that illustrates the
+     downside (with specific detail)
+   • Key current evidence that supports plausibility
+   Worst case is "plausible worst", not inevitable catastrophe —
+   it must be defensible as a real risk, not a rhetorical floor.
+5. DISCRIMINATING SIGNALS: List 2–4 observable developments that
+   would move trajectory toward the best case, and 2–4 that would
+   move it toward the worst case. Enables monitoring and
+   follow-up (e.g. Signal Check or Probability Assessment).
+6. PROPOSE: Suggest recording the bounds in Section VII (e.g.
+   "Best/worst case [date]: Scope [X] | Best: [one line] if
+   [assumptions] | Worst: [one line] if [assumptions] |
+   Discriminating: [one line]") or as context for Material Options
+   in Section IV. Apply only after user approval.
+
+SESSION CLOSURE (optional):
+If the user requests closure, deliver: scope; best case (outcome +
+assumptions + one-line evidence); worst case (same); discriminating
+signals; proposed STATE update. Log in STATE Log (Section X) with
+tag "BEST/WORST CASE."
+
+────────────────────────────────────────────────────────────
+X-M. CAUSATION / CORRELATION ANALYSIS (PROCEDURE)
+────────────────────────────────────────────────────────────
+Causation / Correlation Analysis is a STATE procedure that
+examines whether a relationship between X and Y is better
+interpreted as correlation (they co-occur or co-vary) or
+causation (X causes Y, or Y causes X, with a mechanism). It
+asks: does the evidence support a causal claim, or only an
+association?
+
+ORIENTATION:
+Decision-makers and narratives often assume or assert causal
+claims ("if we do X, Y will follow"; "Y happened because of X").
+Many such claims are correlational — X and Y are associated but
+the direction, mechanism, or exclusivity of cause is unclear.
+Treating correlation as causation can misallocate levers (acting
+on X when X does not cause Y) or misattribute blame. This
+procedure makes the distinction explicit and testable.
+
+PROCEDURE (when user invokes "causation correlation analysis",
+"correlation vs causation", "is X causing Y", "test causal claim",
+or equivalent):
+1. STATE THE CLAIM: Identify the asserted or assumed relationship.
+   Form: "X → Y" (X causes Y) or "X ↔ Y" (X and Y associated;
+   direction unclear). Be specific: name X and Y in observable
+   terms (e.g. "reciprocal framing by US" and "Iran accepts
+   deal", not "diplomacy" and "success").
+2. EVIDENCE FOR ASSOCIATION: What evidence shows that X and Y
+   co-occur or co-vary? (ARC-attributed; multi-category per
+   source coverage rule; surface contradictions.) This
+   establishes that correlation exists. Do not assume causation
+   from correlation.
+3. CAUSAL MECHANISM: For the claim "X causes Y", what mechanism
+   would link X to Y? Apply each analytical perspective:
+   • Legitimacy: narrative, legitimacy, or institutional
+     channel (e.g. X enables Y by changing how Y is perceived
+     or justified).
+   • Power: structural incentive or constraint channel (e.g. X
+     changes payoffs or capabilities so Y becomes rational).
+   • Liability: exposure or defection channel (e.g. X changes
+     who is on the hook, so Y follows from liability calculus).
+   State which perspective(s) supply a plausible mechanism and
+   what that mechanism is. If no perspective supplies a
+   mechanism, the relationship is at best correlational.
+4. ALTERNATIVE EXPLANATIONS: What else could cause Y? Consider:
+   confounders (Z causes both X and Y), reverse causation (Y
+   causes X), selection (X and Y both caused by a third factor),
+   or coincidence. Reduces overconfidence in a single causal
+   story.
+5. DISCRIMINATING TESTS: What would need to be observed to
+   support or undermine the causal claim? (e.g. "If X is
+   withheld and Y still occurs, causation from X to Y is
+   weakened"; "If X changes and Y does not change, mechanism is
+   wrong.") Makes the claim falsifiable.
+6. ASSESSMENT: Classify the relationship as one of:
+   • CORRELATION ONLY — association observed; no clear
+     mechanism or direction; or alternatives are as plausible.
+   • PLAUSIBLE CAUSATION — mechanism(s) stated; evidence
+     consistent with causation but not discriminating; further
+     tests possible.
+   • STRONGER CAUSAL SUPPORT — mechanism + some discriminating
+     evidence (e.g. sequence, natural experiment); alternatives
+     considered and weaker.
+   Use ordinal assessment; do not invent strength scores.
+7. PROPOSE: Suggest recording the analysis in Section VII (e.g.
+   "Causation/correlation [date]: Claim X→Y | Association: [one
+   line] | Mechanism: [one line] | Assessment: [band] |
+   Discriminating test: [one line]") or as an assumption/evidence
+   note for a Material Option in Section IV. Apply only after
+   user approval.
+
+SESSION CLOSURE (optional):
+If the user requests closure, deliver: claim; association
+evidence; mechanism(s); alternatives; discriminating test;
+assessment band; proposed STATE update. Log in STATE Log
+(Section X) with tag "CAUSATION/CORRELATION."
+
+────────────────────────────────────────────────────────────
+X-N. FINANCIAL / ECONOMIC ANALYSIS (PROCEDURE)
+────────────────────────────────────────────────────────────
+Financial / Economic Analysis is a STATE procedure that focuses
+on the fiscal, monetary, trade, or sectoral dimension of the
+entity, a material option, or an opponent/partner. It asks: what
+are the economic constraints, risks, or opportunities that
+matter for this decision or this assessment?
+
+ORIENTATION:
+Economic and financial variables (budget, debt, sanctions,
+currency, terms of trade, sectoral stress) often bind material
+options, stability, or opponent behaviour. This procedure does
+not replace a treasury or central bank; it frames economic
+factors within the existing STATE structure (options, stability
+indicators, opponent constraints, MEM precedent) using
+ARC-attributed data and MEM-grounded parallels. SOURCE
+TRANSPARENCY applies: distinguish VERIFIED DATA (official
+statistics, published figures) from PROJECTIONS (analyst
+forecasts, model outputs) and flag sourcing limitations.
+
+PROCEDURE (when user invokes "financial analysis", "economic
+analysis", "economic dimension", "fiscal constraint", "sanctions
+impact", or equivalent):
+1. SCOPE: With the user if needed, define the economic question.
+   Examples: "Entity's fiscal position and binding constraint";
+   "Economic constraint on Option B (negotiated settlement)";
+   "Opponent's economic binding constraint (Section VI-B)";
+   "Impact of [sanctions / oil price / trade shock] on stability
+   or options." Scope determines which variables and which
+   STATE section the output will feed.
+2. VARIABLES: Identify the relevant economic variables (fiscal:
+   budget, debt, deficit; monetary: rates, liquidity, currency;
+   trade: balance, sanctions, terms of trade; sectoral: energy,
+   defence, critical imports). Prioritise 2–4 that are most
+   binding for the scope.
+3. DATA: Consult the entity's ARC-T-INSTITUTIONAL (or Category E)
+   for official or institutional economic data (e.g. central bank,
+   finance ministry, statistics office, budget law). Attribute each
+   figure; label VERIFIED DATA vs PROJECTION per SOURCE
+   TRANSPARENCY. Multi-category per ARC source coverage rule;
+   surface contradictions (e.g. official vs analyst estimates).
+   Do not invent or fabricate macro figures.
+4. MEM SCAN: Read MEM–RELEVANCE–[CIV].md (or Section VII as
+   fallback). Load MEMs that contain economic history relevant to
+   the scope (e.g. fiscal exhaustion, sanctions resilience,
+   currency collapse, resource windfall). Read file contents;
+   extract specific parallels (dates, magnitudes, mechanisms,
+   outcomes). CONNECTION DISCOVERY: add up to 2 MEMs from
+   CONNECTIONS if relevant.
+5. THREE PERSPECTIVES (economic dimension):
+   • Legitimacy: How does economic stress or benefit affect the
+     regime's narrative, legitimacy, or pain-absorption capacity?
+     (e.g. austerity vs "resistance economy" narrative.)
+   • Power: How do resources or costs constrain material options
+     or relative position? (e.g. fiscal space for escalation;
+     opponent's cost tolerance.)
+   • Liability: Who bears the economic cost? Who defects or
+     gains when budgets break, sanctions bite, or windfalls
+     flow? (e.g. elite vs population; institutional survival.)
+6. IMPLICATION: State the binding constraint, stability
+   implication, or precedent that follows. (e.g. "Fiscal
+   exhaustion within 12 months is a binding constraint on
+   Option C"; "Sanctions relief sequencing is discriminating
+   evidence for Option B"; "Opponent's reserve draw-down
+   supports relative degradation assessment in Section VI-B.")
+7. PROPOSE: Suggest updates to Section IV (Material Option
+   assumption or evidence), Section VI (Stability Indicator),
+   Section VI-B (Opponent economic constraint), or Section VII
+   (economic precedent). Apply only after user approval.
+
+SESSION CLOSURE (optional):
+If the user requests closure, deliver: scope; variables and
+key data (attributed); MEM parallel(s); perspective findings;
+implication; proposed STATE update. Log in STATE Log (Section X)
+with tag "FINANCIAL/ECONOMIC ANALYSIS."
+
+────────────────────────────────────────────────────────────
+X-O. DOMESTIC POLITICS IMPACT / ADVICE (PROCEDURE)
+────────────────────────────────────────────────────────────
+Domestic Politics Impact / Advice is a STATE procedure that
+focuses on how internal politics (elite cohesion, factionalism,
+public opinion, institutional rivalry, succession, narrative and
+legitimacy) constrain or enable a material option, a decision, or
+an opponent's behaviour. It asks: what is the domestic politics
+impact on this option or this assessment?
+
+ORIENTATION:
+Domestic politics often bind what leaders can do (coalition
+maintenance, elite defection risk, legitimacy cost of a concession
+or escalation). This procedure makes that dimension explicit and
+structured. It complements Stability Watch, which assesses all
+five stability indicators periodically; Domestic Politics Analysis
+is scope-specific (option, decision, or opponent) and on demand.
+Use ARC-attributed reporting and MEM-grounded parallels; surface
+contradictions. Not a substitute for internal political
+intelligence; frames domestic factors for decision-support within
+STATE structure.
+
+PROCEDURE (when user invokes "domestic politics", "domestic
+politics impact", "domestic constraint", "elite cohesion",
+"factional risk", "opponent domestic politics", or equivalent):
+1. SCOPE: With the user if needed, define the domestic politics
+   question. Examples: "Domestic constraint on Option B (accepting
+   a deal)"; "How does elite cohesion affect feasibility of
+   escalation?"; "Opponent's domestic politics as binding
+   constraint (Section VI-B)"; "Succession or factional risk over
+   [timeframe]." Scope determines which dimensions and which
+   STATE section the output will feed.
+2. DIMENSIONS: Identify the relevant domestic-political
+   dimensions (elite cohesion and factionalism; public opinion
+   and protest risk; institutional rivalry e.g. parliament vs
+   executive, military vs civilian; succession or leadership
+   consolidation; narrative and legitimacy — how a decision would
+   be framed and received). Prioritise 2–4 most binding for the
+   scope.
+3. EVIDENCE: Consult the entity's (or opponent's) ARC-T-INSTITUTIONAL
+   for current reporting on elites, factions, institutions,
+   public mood, succession. Attribute each claim; label sourcing
+   (VERIFIED vs PROJECTION vs ANONYMOUS/THIN per SOURCE
+   TRANSPARENCY). Multi-category per ARC source coverage; surface
+   contradictions.
+4. MEM SCAN: Read MEM–RELEVANCE–[CIV].md (or Section VII as
+   fallback). Load MEMs that contain domestic-political precedent
+   (elite defection, succession crises, legitimacy erosion,
+   factional tipping points, court or institutional rivalry).
+   Read file contents; extract specific parallels (actors,
+   sequences, triggers, outcomes). CONNECTION DISCOVERY: add up
+   to 2 MEMs from CONNECTIONS if relevant.
+5. THREE PERSPECTIVES (domestic dimension):
+   • Legitimacy: How would this decision or option affect the
+     regime's narrative and legitimacy? Who must be persuaded;
+     what is the legitimacy cost of concession or escalation?
+   • Power: How do domestic power balances (factions, institutions)
+     constrain or enable the option? Who can veto; who must be
+     bought off or balanced?
+   • Liability: Who is exposed if the option fails or succeeds?
+     Defection incentives; who "owns" the decision; institutional
+     survival of key bodies.
+6. IMPLICATION: State the domestic binding constraint, stability
+   implication, or precedent. (e.g. "Elite cohesion is a binding
+   constraint on accepting a deal unless framed as reciprocal";
+   "Opponent's coalition fragility limits their escalation
+   tolerance (Section VI-B)"; "Succession uncertainty raises
+   defection risk for Option C.")
+7. PROPOSE: Suggest updates to Section IV (Material Option
+   assumption or evidence), Section VI (Stability Indicator),
+   Section VI-B (Opponent domestic constraint), or Section VII
+   (domestic-political precedent). Apply only after user approval.
+
+SESSION CLOSURE (optional):
+If the user requests closure, deliver: scope; dimensions and
+key evidence (attributed); MEM parallel(s); perspective
+findings; implication; proposed STATE update. Log in STATE Log
+(Section X) with tag "DOMESTIC POLITICS."
 
 ────────────────────────────────────────────────────────────
 XI. REGISTER RULES (BINDING)
@@ -2019,6 +2624,12 @@ PERMITTED:
 • Succession link types (IDEOLOGICAL_CLAIM, etc.)
 • Named historical precedent counts (e.g. "five historical precedents")
   — naming them is verifiable; counting unnamed indicators is not
+• Explicit probability assessments: ordinal bands (LOW / MODERATE /
+  HIGH) or cited numeric probabilities, with stated event, timeframe,
+  conditioning assumptions, and evidence. The prohibition applies to
+  fabricated quantification of "evidence" (e.g. "85% of evidence
+  suggests"); Probability Assessment (X-K) uses bands or
+  user/source-provided numbers only.
 
 ────────────────────────────────────────────────────────────
 XII. RELATIONSHIP TO OTHER FILE TYPES
@@ -2194,5 +2805,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–TEMPLATE v3.3
+END OF FILE — CIV–STATE–TEMPLATE v3.9
 ────────────────────────────────────────────────────────────

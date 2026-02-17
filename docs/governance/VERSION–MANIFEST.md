@@ -1,12 +1,23 @@
-VERSION–MANIFEST — v3.3
+VERSION–MANIFEST — v3.4
 Civilizational Memory Codex · Canonical Version Registry
-THREE-MODE ARCHITECTURE + INTEGRATION EDITION
+STATE PROCEDURES AND INVOCATION EDITION
 
 Status: ACTIVE · CANONICAL
 Class: MANIFEST
-Last Updated: 2026-02-13
-Supersedes: VERSION–MANIFEST v3.2
+Last Updated: 2026-02-17
+Supersedes: VERSION–MANIFEST v3.3
 Purpose: Single source of truth for governance version
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4) — STATE PROCEDURES AND INVOCATION
+────────────────────────────────────────────────────────────
+This version formalizes the 17 February 2026 design principles as the
+CMC 3.4 governance milestone. All 3.3 governance remains in force.
+
+KEY CHANGES:
+• Signal check and prediction link; measurability and falsifiability (X-J, X-K)
+• Invocation phrases (one-shot entry points) per PROTOCOL–MODE–INFERENCE Section IV
+• Options menu flexibility: optional "Or choose:" line; E/F/G specific anchors
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.3) — INTEGRATION PROGRAM ACTIVATION
@@ -65,10 +76,10 @@ I. CMC GOVERNANCE VERSION (SINGLE SOURCE OF TRUTH)
 
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│              CMC GOVERNANCE VERSION: 3.3                    │
+│              CMC GOVERNANCE VERSION: 3.4                    │
 │                                                             │
-│  Effective: 2026-02-13                                      │
-│  Supersedes: CMC 3.2                                        │
+│  Effective: 2026-02-17                                      │
+│  Supersedes: CMC 3.3                                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 
@@ -83,13 +94,13 @@ Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
 ────────────────────────────────────────────────────────────
-II. GOVERNANCE DOCUMENTS (ALL CMC 3.3)
+II. GOVERNANCE DOCUMENTS (ALL CMC 3.4)
 ────────────────────────────────────────────────────────────
-These documents are governed by CMC 3.3.
+These documents are governed by CMC 3.4.
 They do not declare individual versions.
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (v3.3)
+• CIV–MEM–CORE (v3.4)
 • CMC–BOOTSTRAP
 • VERSION–MANIFEST (this file)
 • TERMINOLOGY–REGISTRY
@@ -178,7 +189,8 @@ For recurring drift checks, see:
 • tools/cmc-governance-checks.sh
 
 MAJOR VERSIONS:
-• CMC 3.4 (Planned): Optimization and refinement cycle
+• CMC 3.5 (Planned): Optimization and refinement cycle
+• CMC 3.4 (2026-02-17): STATE Procedures and Invocation (signal-check prediction link, measurability/falsifiability, invocation phrases, options flexibility)
 • CMC 3.3 (2026-02-13): Integration Program Activation (Tiered Retrieval, Living ARC, MIND Navigation, CEP residual integration)
 • CMC 3.2 (2026-02-10): Three-Mode Architecture Edition (SCHOLAR/STATE/SYSTEM)
 • CMC 3.1 (2026-02-04): Version Decoupling Edition
@@ -201,7 +213,7 @@ VI. QUICK BINDING DECLARATION
 ────────────────────────────────────────────────────────────
 For session startup, declare:
 
-"Bound by CMC Governance Version 3.3"
+"Bound by CMC Governance Version 3.4"
 
 This single declaration replaces all previous multi-line bindings.
 
@@ -210,10 +222,10 @@ VII. COMPLIANCE RULES
 ────────────────────────────────────────────────────────────
 1. New MEMs use simplified header format (Section III)
 2. Existing MEMs with old headers remain valid
-3. MIND profile references use "CMC 3.3" not individual versions
+3. MIND profile references use "CMC 3.4" not individual versions
 4. Compliance status tracked in COMPLIANCE–REGISTRY.md
 5. Version changes logged in CHANGELOG.md
 
 ────────────────────────────────────────────────────────────
-END OF FILE — VERSION–MANIFEST — v3.3
+END OF FILE — VERSION–MANIFEST — v3.4
 ────────────────────────────────────────────────────────────

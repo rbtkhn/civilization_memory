@@ -187,9 +187,6 @@ ENABLES:
 • MEM–PERSIA–WAR–CARRHAE — Parthian phase; denial doctrine
 • MEM–PERSIA–WAR–ROME — Parthian phase of seven-century parity
 
-PARALLELS:
-• MEM–ROME–EMPIRE — Parity rival; mutual denial; no terminal victory
-
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Heartland and capitals
 • MEM–PERSIA–GEO–LEVANT — Western frontier; Roman–Persian collision

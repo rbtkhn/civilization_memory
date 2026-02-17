@@ -120,13 +120,13 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–ISLAM — Shi'a authority; clerical legitimacy
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — Velayat-e faqih; Qom as source
 • MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION — Khomeini in Qom; ideological base
-• MEM–PERSIA–ISLAMIC–REPUBLIC — Sovereignty; clerical–state fusion
 • MEM–PERSIA–TEHRAN — Tehran–Qom axis; political vs religious center
 • MEM–PERSIA–IRAN — State containing Qom
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Qom on plateau; interior
 • MEM–PERSIA–PERSEPOLIS — Contrast: pre-Islamic ritual center vs Islamic holy city
 • MEM–PERSIA–ZOROASTER — Contrast: Zoroastrian vs Shi'a sacred geography
 • MEM–PERSIA–ISFAHAN — Safavid capital; Safavid patronage of Qom shrine
+• MEM–PERSIA–LAW–CONSTITUTION — velayat-e faqih; clerical authority to interpret law
 
 GEO (≥2):
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Interior holy city

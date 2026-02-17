@@ -111,6 +111,8 @@ VIII. MEM CONNECTIONS (TYPED)
 DEPENDS_ON:
 • MEM–PERSIA–EMPIRE — Kingship memory across rupture; civilization persists
 • MEM–PERSIA–SASANIAN–DYNASTY — Epic narrates Sasanian fall; sacral kingship encoded
+• MEM–PERSIA–LAW–SIYASATNAMA — contemporary; epic vs governance text; both ARC-T-MEDIEVAL
+• MEM–PERSIA–LAW–MONARCHY — epic encoding of kingship; legitimacy through narrative
 
 ENABLES:
 • All MEM–PERSIA files that cite Shahnameh for royal memory, durability, indigenous quote (e.g. EMPIRE, PERSEPOLIS, PASARGADAE, DYNASTY–SASANIAN, WAR–ALEXANDER, GEO–IRANIAN–PLATEAU, BABYLON, and many others)

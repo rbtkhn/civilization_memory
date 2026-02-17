@@ -1,11 +1,68 @@
-CHANGELOG — v3.3
+CHANGELOG — v3.4
 Civilizational Memory Codex · Governance Change History
 Consolidated Version History
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.3
-Last Updated: 2026-02-15
+Governed by: CMC 3.4
+Last Updated: 2026-02-17
 Purpose: Track all governance changes in one place
+
+────────────────────────────────────────────────────────────
+00025. SIGNAL CHECK – PREDICTION LINK, MEASURABILITY, OPTION FLEXIBILITY (17 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-17
+Type: TEMPLATE + CURSOR RULES + GOVERNANCE
+
+CHANGES:
+• **CIV–STATE–TEMPLATE X-J (Signal Check):** PREDICTION LINK — every signal check implies at least one testable prediction; when adding a check, include or add a probability assessment (X-K) for at least one signal over the check window, attached to same pattern. MEASURABILITY AND FALSIFIABILITY — signal categories and linked predictions must be observable and falsifiable (determinable from sources by end of window). FORMAT extended with optional probability-assessment bullet per check. INTERPRET step: compare run to recorded probability assessment. Inter-activity trigger: add signal check then probability assessment for at least one signal (attach to same pattern).
+• **CIV–STATE–TEMPLATE X-K (Probability Assessment):** DEFINE step now requires event in testable, observable, and falsifiable form; by end of timeframe it must be possible to determine whether E occurred. PROPOSE step: when assessment is for a signal monitored by a signal check, record under same pattern (X-J PREDICTION LINK).
+• **CIV–STATE–TEMPLATE X-I (Contextual recommendation):** Signal-check recommendation now distinguishes run existing check vs "Consider: add signal check for [event]" when key event and discriminating intent but no check defined. New SELECTABLE CONTEXTUAL OPTION (optional): when recommendation is a specific actionable procedure, system MAY add one line "Or choose: [action]" so user can select it; at most one per turn; no ninth slot.
+• **Cursor rule (new):** cmc-state-signal-check-measurability.mdc — signal checks and probability assessments must be measurable and falsifiable; self-check before proposing. Reference: template X-J, X-K.
+• **cmc-oge-enforcement.mdc:** Contextual recommendation add vs run signal check; selectable contextual option (STATE, optional); E/F/G wording flexibility (SCHOLAR: specific MEM/event/entity when obvious; STATE: specific precedent/entity/scenario when obvious), still 10–20 words and one anchor.
+
+RATIONALE:
+Signal checks should imply testable predictions and be revisable; predictions and signals must be observable/falsifiable. Option generation gains flexibility: contextual "add signal check" suggestion, optional selectable "Or choose:" line, and E/F/G tailored wording without changing 8-slot semantics. Propagation to CHANGELOG, CMC–BOOTSTRAP, CMC–SYSTEM–MAP.
+
+────────────────────────────────────────────────────────────
+00026. INVOCATION PHRASES (ONE-SHOT ENTRY POINTS) (17 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-17
+Type: PROTOCOL + CURSOR RULE
+
+CHANGES:
+• **PROTOCOL–MODE–INFERENCE:** New Section IV (Invocation phrases). When the user's message matches or is clearly equivalent to a listed phrasing, infer mode, entity (for STATE), and procedure and run in one go. Table: "[Entity] update" → STATE, load STATE/CORE/SCHOLAR, present options + activity menu; "Run signal check" / "Signal check for Pattern N" / "[Event] signal check" → STATE, activity Signal Check (X-J); "30-day forecast" / "Probability assessment for Pattern N" → STATE, activity Probability Assessment (X-K); "STATE [entity]" / "Switch to [entity]" → STATE, re-anchor, present options. Entity mapping examples: Iran/Persia → PERSIA, Russia → RUSSIA. Equivalence: slight wording changes, optional words, event names mapping to known patterns. Section V Maintenance: expand phrases as new entities/procedures become common.
+• **cmc-mode-contracts.mdc:** Mode inference now has step 1 (Invocation phrases) and step 2 (Task → mode). Step 1: check PROTOCOL–MODE–INFERENCE Section IV; if match, infer mode/entity/procedure and run. Step 2: when no phrase matches, infer from request as before. Reference updated to include Section IV.
+
+RATIONALE:
+Low-risk, high-reward: reduce invocation friction so users can say "Iran update", "Run signal check for Pattern 6", "Geneva signal check", "STATE Persia" and get the right procedure without remembering section numbers or activity names. No new infrastructure; phrase list can be extended over time.
+
+────────────────────────────────────────────────────────────
+00027. CIV–MEM–CORE AMENDMENT — STATE PROCEDURES AND INVOCATION (17 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-17
+Type: GOVERNANCE (CORE amendment)
+
+CHANGES:
+• **CIV–MEM–CORE:** Amendment (17 February 2026) added after v3.3 upgrade note. Design principles now canonical: (1) Signal check and prediction link — every signal check implies at least one testable prediction; probability assessment attached to same pattern; signals and predictions measurable and falsifiable. (2) Invocation phrases — user input may match phrases mapping to mode, entity, procedure per PROTOCOL–MODE–INFERENCE Section IV; phrase check applied first in mode inference. (3) Options menu flexibility — optional "Or choose:" line; E/F/G specific anchors when context warrants; 8-slot contract unchanged. Section XXX (Canonical status): "17 FEB 2026 ADDITIONS" bullet list. Last Update set to 17 February 2026. Version remains 3.3.
+
+RATIONALE:
+User: "Based on our progress over the past several sessions, would you like to upgrade civ-mem-core." CORE is the load-order-first system core; recording these principles there ensures they remain part of the canonical architecture and are not dropped by future template or rule changes.
+
+────────────────────────────────────────────────────────────
+00028. CMC 3.4 GOVERNANCE VERSION BUMP (17 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-17
+Type: GOVERNANCE (version bump)
+
+CHANGES:
+• **VERSION–MANIFEST:** CMC GOVERNANCE VERSION 3.3 → 3.4. Effective 2026-02-17. Supersedes 3.3. Section II "ALL CMC 3.3" → "ALL CMC 3.4". CIV–MEM–CORE (v3.4). MAJOR VERSIONS: CMC 3.4 (2026-02-17) STATE Procedures and Invocation; former "CMC 3.4 (Planned)" renumbered to 3.5. Quick binding: "Bound by CMC Governance Version 3.4". Compliance rule 3: CMC 3.4. END OF FILE v3.4.
+• **CIV–MEM–CORE:** Version 3.3 → 3.4. Supersedes v3.3. Upgrade Type CMC 3.4 · STATE PROCEDURES AND INVOCATION. UPGRADE NOTE (v3.4) added; Amendment text "CMC 3.3 scope" → "CMC 3.4". Section XXX "17 FEB 2026 ADDITIONS" → "v3.4 ADDITIONS". END OF FILE v3.4.
+• **CHANGELOG:** Governed by CMC 3.4.
+• **CMC–BOOTSTRAP:** Governed by CMC 3.4; "Bound by CMC 3.3" → "Bound by CMC 3.4" (all occurrences).
+• **CMC–SYSTEM–MAP, PROTOCOL–MODE–INFERENCE:** Governed by CMC 3.4.
+
+RATIONALE:
+User: "Implement your preference." Preference was to mark STATE procedures and invocation as a distinct governance milestone via version bump to 3.4 rather than amendment-only under 3.3.
 
 ────────────────────────────────────────────────────────────
 00024. PROPAGATION: MEM GENERATION CANDIDATES TO ALL SCHOLAR + GOVERNANCE (16 FEB 2026)

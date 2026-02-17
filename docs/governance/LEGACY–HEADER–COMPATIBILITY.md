@@ -2,7 +2,7 @@ LEGACY–HEADER–COMPATIBILITY
 Civilizational Memory Codex · Legacy Normalization Rubric
 
 Status: ACTIVE
-Governed by: CMC 3.3
+Governed by: CMC 3.4
 Last Updated: 2026-02-13
 
 Purpose:

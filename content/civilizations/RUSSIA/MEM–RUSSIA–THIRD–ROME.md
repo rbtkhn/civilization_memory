@@ -2,7 +2,7 @@ MEM–RUSSIA–THIRD–ROME — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
+Version: 3.1
 Supersedes: MEM–RUSSIA–THIRD–ROME v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
@@ -17,6 +17,16 @@ Governed by:
 • CIV–MEM–CORE v3.0
 • CIV–MEM–TEMPLATE v3.0
 • ARC–RUSSIA (pinned)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — CONNECTIONS REMEDIATION
+────────────────────────────────────────────────────────────
+Section VIII CONNECTIONS verified against CIV–INDEX–RUSSIA and file system.
+Replaced or removed references to non-existent MEMs: IVAN–TERRIBLE → MUSCOVY–IVAN–IV;
+FILOFEI (removed; see MEM–RUSSIA–CONSTANTINOPLE § VI); BYZANTIUM–FALL → CONSTANTINOPLE;
+AUTOCRACY → LAW–AUTOCRACY; SOVIET–MESSIANISM → SOVIET–UNION + note; GEO refs → RUSSIA
+city MEMs; MEM–BYZANTIUM–FALL → MEM–ROME–CONSTANTINOPLE; MEM–ROME–FALL → MEM–ROME–WAR–ODOACER.
+No analytical content changed.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.0) — ALIGNMENT · v3.0
@@ -283,29 +293,29 @@ POLYPHONIC TENSIONS (v2.8):
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM CONNECTIONS (v2.8 COMPLIANT)
+VIII. MEM CONNECTIONS (v3.1 — CONNECTIONS REMEDIATED)
 ────────────────────────────────────────────────────────────
 RUSSIA (≥10):
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — religious foundation
 • MEM–RUSSIA–MUSCOVY — political context; Moscow's rise enables claim
 • MEM–RUSSIA–MUSCOVY–IVAN–III — married Byzantine princess; dynastic basis
-• MEM–RUSSIA–IVAN–TERRIBLE — first tsar; Third Rome justifies title
-• MEM–RUSSIA–FILOFEI — monk who formulated doctrine
-• MEM–RUSSIA–BYZANTIUM–FALL — 1453 collapse creates vacancy
-• MEM–RUSSIA–AUTOCRACY — political form Third Rome sacralizes
+• MEM–RUSSIA–MUSCOVY–IVAN–IV — first tsar (Ivan the Terrible); Third Rome justifies title
+• MEM–RUSSIA–CONSTANTINOPLE — 1453 collapse creates vacancy; legitimacy transfer (doctrinal formulator Filofei of Pskov: see that MEM § VI)
+• MEM–RUSSIA–LAW–AUTOCRACY — political form Third Rome sacralizes
 • MEM–RUSSIA–MOSCOW–PATRIARCHATE — Moscow Patriarchate (1589) institutionalizes claim
 • MEM–RUSSIA–ROMANOV–PETER–I — tension: westernization challenges doctrine
-• MEM–RUSSIA–SOVIET–MESSIANISM — secular transposition of finality
+• MEM–RUSSIA–SOVIET–UNION — Soviet context; secular transposition of finality (no dedicated Soviet-messianism MEM; see Section V)
 • MEM–RUSSIA–PUTIN — post-Soviet civilizational rhetoric revival
 • MEM–RUSSIA–LIT–PUSHKIN — "Monument" (1836) national poet as civilizational witness
+• MEM–RUSSIA–MOSCOW — Third Rome city; sacral center claim
 
 GEO (≥2):
-• MEM–GEO–CONSTANTINOPLE — fallen Second Rome; legitimacy transfer
-• MEM–GEO–MOSCOW — Third Rome city; sacral center claim
+• MEM–RUSSIA–CONSTANTINOPLE — fallen Second Rome; legitimacy transfer (no MEM–GEO–* for this civ)
+• MEM–RUSSIA–MOSCOW — Third Rome city; sacral center claim
 
 Cross-civilizational:
-• MEM–BYZANTIUM–FALL — predecessor civilization's collapse
-• MEM–ROME–FALL — first Rome's failure narrative
+• MEM–ROME–CONSTANTINOPLE — Second Rome / Byzantine capital; fall narrative (Rome-civilization encoding)
+• MEM–ROME–WAR–ODOACER — first Rome's end (476); failure narrative (no MEM–ROME–FALL; MEM–ROME–WAR–ODOACER is closest)
 
 ────────────────────────────────────────────────────────────
 IX. MEM BIBLIOGRAPHY (v2.8)

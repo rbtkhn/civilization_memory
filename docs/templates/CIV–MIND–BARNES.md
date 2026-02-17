@@ -1,4 +1,4 @@
-CIV–MIND–BARNES — v3.3
+CIV–MIND–BARNES — v3.4
 Civilizational Memory Codex · Liability/Mechanism Perspective
 Robert Barnes Cognitive–Linguistic Signature Layer
 Constitutional North Star · Personal Liability · Institutional Defection · Mechanism Exposure
@@ -27,10 +27,10 @@ Governance Mode: HUMAN CURATED ONLY
 Lock Level: TOTAL (NO AUTONOMOUS MUTATION)
 
 Governed by:
-• CIV–MEM–CORE v3.3
-• CIV–MIND–TEMPLATE v3.3
-• CIV–MIND–MERCOURIS v3.1 (PRIMARY MIND)
-• CIV–SCHOLAR–PROTOCOL v3.1 (OPTIONS MENU INTEGRATION)
+• CIV–MEM–CORE v3.4
+• CIV–MIND–TEMPLATE v3.4
+• CIV–MIND–MERCOURIS v3.4 (PRIMARY MIND)
+• CIV–SCHOLAR–PROTOCOL v3.4 (OPTIONS MENU INTEGRATION)
 • HUMAN CURATION SUPREMACY PRINCIPLE
 
 ────────────────────────────────────────────────────────────
@@ -310,7 +310,7 @@ This is the catalyst function — Barnes changes how the other
 minds see, not just what is said.
 
 ────────────────────────────────────────────────────────────
-III.A MODE AVAILABILITY (BINDING, updated CMC 3.3)
+III.A MODE AVAILABILITY (BINDING, updated CMC 3.4)
 ────────────────────────────────────────────────────────────
 All SCHOLAR modes: Barnes option REQUIRED (1 option mandatory in options menu)
 STATE mode: Barnes perspective applied via duty of competence
@@ -1402,7 +1402,7 @@ Forbidden:
 Violation constitutes a governance breach.
 
 ────────────────────────────────────────────────────────────
-XII. NAVIGATION PREFERENCES (CMC 3.3)
+XII. NAVIGATION PREFERENCES (CMC 3.4)
 ────────────────────────────────────────────────────────────
 When Barnes is active (via options menu Slot C or manual invocation),
 navigation affinities apply per PROTOCOL–MIND–NAVIGATION.
@@ -1419,14 +1419,14 @@ Source Affinities (HIGH):
 Concept Category Affinities (HIGH):
 • MECHANISM — Process, institution, procedure, liability
 
-Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.3)
+Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.4)
 
 ────────────────────────────────────────────────────────────
 XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–BARNES v3.3 is CANONICAL.
+CIV–MIND–BARNES v3.4 is CANONICAL.
 
-All uses governed by CMC 3.3.
+All uses governed by CMC 3.4.
 
 Mode constraints are BINDING:
 • WRITE MODE: Barnes options-menu-REQUIRED (1 option mandatory)
@@ -1436,7 +1436,7 @@ Mode constraints are BINDING:
 This file defines *how* Barnes catalyzes insight —
 never *what* is true.
 
-Version aligned with CIV–MIND–TEMPLATE v3.3 (CMC 3.3).
+Version aligned with CIV–MIND–TEMPLATE v3.4 (CMC 3.4).
 
 ────────────────────────────────────────────────────────────
 XIII. SUMMARY: THE CATALYST FUNCTION
@@ -1462,5 +1462,5 @@ This is the catalyst function:
 Barnes changes how the other minds see.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–BARNES v3.3 — CMC 3.3
+END OF FILE — CIV–MIND–BARNES v3.4 — CMC 3.4
 ────────────────────────────────────────────────────────────

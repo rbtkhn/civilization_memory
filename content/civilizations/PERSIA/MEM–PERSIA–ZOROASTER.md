@@ -213,7 +213,12 @@ XI. CONTINUITY INSIGHTS (RAW)
 • Zoroaster teaches Persia to resist corruption more than defeat.
 
 ────────────────────────────────────────────────────────────
-XII. BIBLIOGRAPHY
+XII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–LAW–SASANIAN — asha, druj; disciplinary theology of rule; king as enforcer of order
+
+────────────────────────────────────────────────────────────
+XIII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; two spirits, moral dualism
 • Herodotus, *Histories*, I.131–132 — Persian religion, sacrifice, Magi, king's welfare
@@ -223,5 +228,5 @@ XII. BIBLIOGRAPHY
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ZOROASTER — v1.5
+END OF FILE — MEM–PERSIA–ZOROASTER — v1.6
 ────────────────────────────────────────────────────────────

@@ -2,7 +2,7 @@ CHECKLIST–PRE–OUTPUT–APPLICATION
 Civilizational Memory Codex · Consolidated Pre-Output Checks
 
 Status: ACTIVE
-Governed by: CMC 3.3
+Governed by: CMC 3.4
 Last Updated: February 2026
 
 Purpose:

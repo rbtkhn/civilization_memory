@@ -1,4 +1,4 @@
-MEM–PERSIA–SASANIAN–DYNASTY — v1.3
+MEM–PERSIA–SASANIAN–DYNASTY — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -125,7 +125,13 @@ IX. CONTINUITY INSIGHTS (RAW)
 • The Sasanians made Persian sovereignty hard, formal, and transmissible.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–LAW–SASANIAN — codified law as institutional foundation; cosmic order
+• MEM–PERSIA–LAW–MONARCHY — sacral kingship; succession crises
+
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Ferdowsi, *Shahnameh* (prologue), tr. Dick Davis — ARC–PERSIA-T-MEDIEVAL
 • Adrian Goldsworthy, *Rome and Persia* (2023) — Sasanian vs Parthian; centralization vs raid/negotiate
@@ -133,5 +139,5 @@ X. BIBLIOGRAPHY
 • Matthew Canepa, *The Two Eyes of the Earth* — sacral kingship
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–SASANIAN–DYNASTY — v1.3
+END OF FILE — MEM–PERSIA–SASANIAN–DYNASTY — v1.4
 ────────────────────────────────────────────────────────────

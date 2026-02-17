@@ -1,8 +1,8 @@
-MEM–PERSIA–ISLAM — v1.2
+MEM–PERSIA–ISLAM — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 1.2
+Version: 1.3
 Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, absorption incentive); Barnes dimension (who paid, defection, institutional survival, irreversibility). No numerical proportions.
 Civilization: PERSIA
 Subject: Islam in Persia
@@ -112,10 +112,26 @@ IX. CONTINUITY INSIGHTS (RAW)
 • Islam in Persia is a civilizational instrument, not a civilizational reset.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–EMPIRE — absorption of imperial administration and legitimacy into Islamic frame
+• MEM–PERSIA–IRAN — state container; Islamic-era continuity
+• MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — Shi'a regime; clerical legitimacy
+• MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION — 1979; Shi'a authority and revolution
+• MEM–PERSIA–ZOROASTER — contrast: pre-Islamic moral order; Islam as successor frame
+• MEM–PERSIA–LIT–FERDOWSI — Persian narrative restores pre-Islamic past; post-conquest
+• MEM–PERSIA–LAW–SIYASATNAMA — Islamic-era statecraft; Persian contribution
+• MEM–PERSIA–LAW–CONSTITUTION — 1979 constitution; Islamic republic
+• MEM–PERSIA–QOM — Shi'a authority; clerical center
+• MEM–PERSIA–SCI–AL–KHWARIZMI — Islamic science; Persianate origin
+• MEM–PERSIA–SCI–AVICENNA — Islamic rationalism; Persian contribution
+• MEM–PERSIA–GEO–IRANIAN–PLATEAU — heartland of Persian Islam
+
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Avesta, Yasna 30 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; pre-Islamic moral order
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ISLAM — v1.2
+END OF FILE — MEM–PERSIA–ISLAM — v1.3
 ────────────────────────────────────────────────────────────

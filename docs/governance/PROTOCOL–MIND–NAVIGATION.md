@@ -500,7 +500,7 @@ Concepts have affinity with MINDs per PROTOCOL–MIND–NAVIGATION:
 
 **Complexity:** Medium. Requires ARC source typing.
 
-### Phase 4 — Concept Integration (CMC 3.3)
+### Phase 4 — Concept Integration (CMC 3.4)
 
 1. Tag concepts with MIND affinities in CONCEPT–INDEX
 2. Implement concept emphasis by active MIND

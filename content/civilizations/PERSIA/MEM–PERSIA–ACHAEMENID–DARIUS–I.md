@@ -200,6 +200,8 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–EGYPT — Cambyses/Darius Egypt; satrapy
 • MEM–PERSIA–ZOROASTER — Ahura Mazda in Behistun ideology
 • MEM–PERSIA–SASANIAN–ARDASHIR–I — Sasanian restoration invokes Darius
+• MEM–PERSIA–LAW–MONARCHY — royal enactment; tribute and law
+• MEM–PERSIA–LAW–SASANIAN — Achaemenid precedent: local law under imperial ceiling
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — northern frontier; Royal Road corridor

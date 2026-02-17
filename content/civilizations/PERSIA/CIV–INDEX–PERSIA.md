@@ -1,18 +1,18 @@
-CIV–INDEX–PERSIA — v3.20
+CIV–INDEX–PERSIA — v3.21
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 3.20
-Supersedes: CIV–INDEX–PERSIA v3.19
-Upgrade Type: ADDITIVE · MEM–PERSIA–LAW–MONARCHY
+Version: 3.21
+Supersedes: CIV–INDEX–PERSIA v3.20
+Upgrade Type: REMOVAL · MEM–PERSIA–ISLAMIC–REPUBLIC deleted
 Civilization: PERSIA
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Template: CIV–INDEX–TEMPLATE v3.0
 Last Update: February 2026
 
-MEM COUNT: 76 MEM–PERSIA files (reconciled 2026-02)
+MEM COUNT: 75 MEM–PERSIA files (reconciled 2026-02)
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
@@ -112,9 +112,6 @@ V. RELIGIOUS & REGIME TRANSFORMATION FILES
 
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC.md  
   (IRI regime 1979–present; dual structure, velayat-e faqih, siege adaptation)
-
-• MEM–PERSIA–ISLAMIC–REPUBLIC.md  
-  (Modern sovereignty–siege regime, clerical–state fusion; complements IRAN–ISLAMIC–REPUBLIC)
 
 • MEM–PERSIA–IRAN–MOSSADEGH.md  
   (Prime minister; oil nationalization; 1953 coup; sovereignty rupture; memory fueled 1979)

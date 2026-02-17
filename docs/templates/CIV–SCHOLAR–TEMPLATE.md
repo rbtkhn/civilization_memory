@@ -1,11 +1,11 @@
-CIV–SCHOLAR–TEMPLATE — v3.3
+CIV–SCHOLAR–TEMPLATE — v3.4
 Civilizational Memory Codex · SCHOLAR Engine Governance Template
 
 Status: ACTIVE · CANONICAL · LOCKED
 Supersedes: CIV–SCHOLAR–TEMPLATE v3.2
-Upgrade Type: ALIGNMENT · CMC 3.3 VERSION ALIGNMENT
+Upgrade Type: ALIGNMENT · CMC 3.4 VERSION ALIGNMENT
 Class: CIV–SCHOLAR–TEMPLATE (Authoring & Learning Law)
-Compatibility: CIV–MEM–CORE v3.3 · CIV–MEM–TEMPLATE v3.3 · CIV–SCHOLAR–PROTOCOL v3.3
+Compatibility: CIV–MEM–CORE v3.4 · CIV–MEM–TEMPLATE v3.4 · CIV–SCHOLAR–PROTOCOL v3.4
 Last Update: February 2026
 WORDCOUNT: ~14,500
 
@@ -53,7 +53,7 @@ v2.10 introduces the following ADDITIVE enhancements:
   – POST-ACH revision documentation requirements
 
 This aligns SCHOLAR synthesis operations with Intelligence Tradecraft
-Integration (ITI) protocols from CIV–MEM–CORE v3.3 (Sections XXVI-XXVII).
+Integration (ITI) protocols from CIV–MEM–CORE v3.4 (Sections XXVI-XXVII).
 
 PURPOSE:
 • Force explicit assumption identification
@@ -66,7 +66,7 @@ ENFORCEMENT:
 • SYNTHESIS where alternatives were evaluated without ACH is INVALID
 • Confidence tier must be declared in SYNTHESIS status block
 
-See: CIV–MEM–CORE v3.3 Sections XXVI-XXVII (ITI specification)
+See: CIV–MEM–CORE v3.4 Sections XXVI-XXVII (ITI specification)
 
 No authority is weakened.
 No phase boundary is relaxed.
@@ -1123,7 +1123,7 @@ docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTIO
 RUN–REPORT–M–M–01 through M–M–05.
 
 ────────────────────────────────────────────────────────────
-OGE — MIND NAVIGATION (CMC 3.3):
+OGE — MIND NAVIGATION (CMC 3.4):
 MIND influences navigation, not just voice. Per PROTOCOL–MIND–NAVIGATION:
 
 MIND ACTIVATION MODEL:
@@ -1333,7 +1333,7 @@ XIV. SYNTHESIS TRADECRAFT REQUIREMENTS (NEW · v2.10 · MANDATORY)
 ────────────────────────────────────────────────────────────
 This section establishes tradecraft requirements for SYNTHESIS entries,
 integrating Intelligence Tradecraft Integration (ITI) protocols from
-CIV–MEM–CORE v3.3.
+CIV–MEM–CORE v3.4.
 
 PURPOSE:
 • Force explicit identification of assumptions underlying syntheses
@@ -1643,5 +1643,5 @@ v2.1 ADDITIONS:
 • OGE systematization for LEARN mode
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–TEMPLATE v3.3
+END OF FILE — CIV–SCHOLAR–TEMPLATE v3.4
 ────────────────────────────────────────────────────────────

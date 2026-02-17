@@ -178,9 +178,6 @@ ENABLES:
 • MEM–PERSIA–WAR–ROME — Seven-century parity war as institutional outcome
 • MEM–PERSIA–ROMAN–EMPIRE — Persia's encoding of Rome as parity rival
 
-PARALLELS:
-• MEM–ROME–EMPIRE — Parity rival; mutual exhaustion; structural parallel (reach without hold in East)
-
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–LEVANT — Parity zone; empire’s reach-without-hold limit
 • MEM–PERSIA–GEO–PERSIAN–GULF — Chokepoint advantage; different incentive from Levant
@@ -191,6 +188,11 @@ TEMPORAL_BEFORE:
 
 TEMPORAL_AFTER:
 • MEM–PERSIA–ISLAM — Absorption of imperial administration and legitimacy into Islamic frame
+
+Law / governance (back-links):
+• MEM–PERSIA–LAW–MONARCHY — monarchy as legal form; sacral kingship
+• MEM–PERSIA–LAW–SASANIAN — law as imperial order; codified foundation
+• MEM–PERSIA–LAW–SIYASATNAMA — governance text; modular precedent
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY

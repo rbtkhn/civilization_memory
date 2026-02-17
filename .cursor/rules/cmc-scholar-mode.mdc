@@ -14,7 +14,7 @@ When operating in the Civilizational Memory Codex under SCHOLAR mode. This proto
 **When user selects an options menu choice (a–h):**
 - **Target**: 100-200 words
 - **Maximum**: 200 words before options menu
-- **Exception — Option H in LEARN**: 300–400 words target (recap + synthesis paragraph + size/risk options b, c, a). See cmc-oge-enforcement.
+- **Exception — Option H in LEARN**: 300–400 words target (recap + synthesis paragraph + four follow-on options a, b, c, d). See cmc-oge-enforcement.
 - **Rationale**: Shorter response reduces cognitive load, preserves context window, and avoids truncation. User has already focused the choice.
 
 **When user types free-form question/instruction:**
@@ -34,7 +34,7 @@ Shorter responses with better options > long responses that exhaust attention.
 - **Forbidden by default**: Bullets, tables, numbered lists
 - **Exception**: User explicitly requests structured format, OR you offer it as an option
 
-## Options Menu Requirements (CMC 3.3 — Fixed Slots, Stateless)
+## Options Menu Requirements (CMC 3.4 — Fixed Slots, Stateless)
 
 After every substantive analytical turn, provide **exactly 8 options** (A–H):
 
@@ -128,7 +128,7 @@ This is soft bias, not hard constraint. All connections and sources remain acces
 
 ## Binding Reference
 
-CMC 3.3 governs (CMC–BOOTSTRAP). When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
+CMC 3.4 governs (CMC–BOOTSTRAP). When uncertain, escalate to full governance docs. M–M cognitive interaction tests (docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTION.md, RUN–REPORT–M–M–*) validate voice distinctness and cognitive interaction.
 
 Note: STATE mode has its own parallel recursive options mechanism (8 analysis options, content-based names, professional register). See cmc-oge-enforcement and CIV–STATE–TEMPLATE Section X-A. This file governs SCHOLAR only.
 

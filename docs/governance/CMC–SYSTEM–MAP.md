@@ -2,7 +2,7 @@ CMC–SYSTEM–MAP
 Civilizational Memory Codex · High-Level Architecture
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.3
+Governed by: CMC 3.4
 Last Updated: February 2026
 
 Purpose:
@@ -83,7 +83,9 @@ V. WHERE TO GO NEXT
 ────────────────────────────────────────────────────────────
 
 • Mode contracts, voice, options menu: CMC–BOOTSTRAP.md
+• One-shot entry points (invocation phrases): PROTOCOL–MODE–INFERENCE.md Section IV; cmc-mode-contracts.mdc (Mode inference step 1)
 • STATE sync/relay procedure: CIV–STATE–TEMPLATE Sections XII, XIV, XIV-B
+• STATE procedures (Signal Check X-J, Probability Assessment X-K, prediction link, measurability/falsifiability): CIV–STATE–TEMPLATE X-J, X-K; contextual recommendation and selectable option: Section X-I; cursor rule: cmc-state-signal-check-measurability
 • MEM grounding and discovery: cmc-state-mem-grounding (cursor rule); MEM–RELEVANCE–[CIV]
 • Governance version and content versioning: VERSION–MANIFEST.md
 • Reviewer/compliance orientation: REVIEWER–BOOTSTRAP–MAP.md

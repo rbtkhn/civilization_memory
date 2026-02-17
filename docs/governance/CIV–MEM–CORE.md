@@ -1,17 +1,17 @@
-CIV–MEM–CORE — v3.3
+CIV–MEM–CORE — v3.4
 Civilizational Memory Codex · System Core
-CMC 3.3 EDITION · THREE-MODE ARCHITECTURE + INTEGRATION PROGRAM
+CMC 3.4 EDITION · STATE PROCEDURES AND INVOCATION
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL PRELOAD
-Version: 3.3
+Version: 3.4
 Scope: ALL CIVILIZATIONS
 Class: CIV–MEM–CORE (System / Preload)
 Load Order: FIRST FILE IN EVERY NEW CONVERSATION
-Supersedes: CIV–MEM–CORE v3.2
-Upgrade Type: CMC 3.3 · INTEGRATION PROGRAM ACTIVATION
-Last Update: 13 February 2026
+Supersedes: CIV–MEM–CORE v3.3
+Upgrade Type: CMC 3.4 · STATE PROCEDURES AND INVOCATION
+Last Update: 17 February 2026
 
 LINEAGE NOTE — STRATEGIC COGNITION ENGINE (SCE)
 CIV–MEM does not define or govern the Strategic Cognition Engine (SCE). SCE is the prior/upstream system from which CIV–CORE civilization files and at least one MIND profile (CIV–MIND–MEARSHEIMER: Source Derivation SCE–EXP–MEARSHEIMER v9.7) derive; CIV–CORE instances declare Conceptual Lineage (e.g. SCE–CIV–CHINA V9.8, SCE–CIV–RUSSIA v9.7.2) with doctrinal ancestry preserved. SCE-specific roles (e.g. Supreme Chancellor, Chief of Staff) are not defined in CIV–MEM; only lineage references appear in this codebase.
@@ -28,6 +28,60 @@ KEY CHANGES:
 • MIND Navigation active as normative navigation protocol
 • Current Events Protocol residuals integrated into active 3.3 scope
 • Roadmap reference updated to ROADMAP–CMC–3.3
+
+────────────────────────────────────────────────────────────
+AMENDMENT (17 February 2026) — STATE PROCEDURES AND INVOCATION
+────────────────────────────────────────────────────────────
+The following design principles are formalized in CMC 3.4. They do not
+change the three-mode architecture or existing sections; they state
+normative constraints for STATE procedures and for how users invoke them.
+
+SIGNAL CHECK AND PREDICTION LINK:
+• Every post-event signal check (STATE procedure X-J) implies at least
+  one testable prediction. When adding a signal check, a probability
+  assessment (X-K) for at least one signal over the check window must
+  be attached to the same pattern so runs can be scored against it.
+• Signal categories and linked predictions must be measurable and
+  falsifiable: determinable from sources by end of the check window,
+  so assessments can be confirmed or revised.
+
+INVOCATION PHRASES (ONE-SHOT ENTRY POINTS):
+• User input may be matched to invocation phrases that map directly to
+  mode, entity (for STATE), and procedure. When a match is found, the
+  system infers and runs the corresponding procedure without requiring
+  the user to name sections or activity names.
+• Phrase list and mapping are maintained in PROTOCOL–MODE–INFERENCE
+  Section IV; mode inference applies phrase check first, then task→mode.
+
+OPTIONS MENU FLEXIBILITY (PRESERVING 8-SLOT CONTRACT):
+• The 8-slot options menu (A–H) remains fixed in semantics. Optional
+  refinements: one contextual "Or choose: [action]" line may surface a
+  recommended procedure as selectable (no ninth slot); E/F/G options may
+  be phrased with specific MEM, entity, or scenario when context makes
+  it obvious, within existing length and anchor rules.
+
+Reference: CIV–STATE–TEMPLATE X-J, X-K, X-I; PROTOCOL–MODE–INFERENCE
+Section IV; cmc-mode-contracts.mdc; cmc-oge-enforcement.mdc;
+cmc-state-signal-check-measurability.mdc. Logged: CHANGELOG 00025, 00026.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.4) — CMC 3.4 · STATE PROCEDURES AND INVOCATION
+────────────────────────────────────────────────────────────
+This version formalizes the 17 February 2026 amendment as the CMC 3.4
+governance milestone.
+
+KEY CHANGES:
+• Signal check and prediction link: every post-event signal check implies
+  at least one testable prediction; probability assessment attached to
+  same pattern; signals and predictions measurable and falsifiable.
+• Invocation phrases: user input may map to mode, entity, procedure per
+  PROTOCOL–MODE–INFERENCE Section IV (one-shot entry points); phrase
+  check applied first in mode inference.
+• Options menu flexibility: optional "Or choose: [action]" line; E/F/G
+  specific anchors when context warrants; 8-slot contract unchanged.
+
+Effect: All 3.3 governance remains in force; STATE procedures and
+invocation are now part of the canonical binding. No section removals.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.2) — CMC 3.2 · THREE-MODE ARCHITECTURE
@@ -52,7 +106,7 @@ KEY CHANGES:
 • Barnes reclassified: "TERTIARY CATALYST" → "LIABILITY/MECHANISM
   PERSPECTIVE" (per terminology audit)
 
-CMC 3.3 ACTIVE PROGRAM STREAMS:
+CMC 3.3 ACTIVE PROGRAM STREAMS (remain under 3.4):
 Current Events Protocol residuals (partially absorbed by STATE),
 Tiered Retrieval, Living ARC, MIND Navigation.
 
@@ -1111,7 +1165,7 @@ Rules:
 
 VP-1.h. MIND PROFILE GOVERNANCE
 ────────────────────────────────────────────────────────────
-All MIND profiles are governed by CIV–MIND–TEMPLATE (CMC 3.3).
+All MIND profiles are governed by CIV–MIND–TEMPLATE (CMC 3.4).
 
 Hierarchy (top → bottom):
 • HUMAN CURATOR
@@ -1478,7 +1532,7 @@ VERSION RULE (BINDING — CMC 3.1 VERSION DECOUPLING):
 • New MEMs use simplified header (no "Governed by", "Template Version Used", or "Compatibility"); see VERSION–MANIFEST.
 • Existing MEMs with legacy headers remain valid. No batch upgrade required.
 • Compliance tracked in COMPLIANCE–REGISTRY.md; version history in CHANGELOG.md.
-• Governance binding: single CMC version (CMC 3.3); see VERSION–MANIFEST Section I.
+• Governance binding: single CMC version (CMC 3.4); see VERSION–MANIFEST Section I.
 
 NEW MEMs (created after v2.7 effective date):
 • Layer 1: MANDATORY (as before)
@@ -1998,7 +2052,15 @@ v3.2 ADDITIONS:
 • SYSTEM mode for governance maintenance.
 • TERMINOLOGY–REGISTRY and new-term gate.
 • Decorative term replacements across governance files.
-• CMC 3.3 integration streams activated from prior re-scoped proposals.
+• CMC 3.3 integration streams activated from prior re-scoped proposals (remain under 3.4).
+
+v3.4 ADDITIONS (STATE PROCEDURES AND INVOCATION — 17 FEB 2026):
+• Signal checks imply at least one testable prediction; signals and
+  predictions measurable and falsifiable (X-J, X-K).
+• Invocation phrases: user input may map to mode, entity, procedure
+  per PROTOCOL–MODE–INFERENCE Section IV (one-shot entry points).
+• Options menu: optional "Or choose:" contextual line; E/F/G phrasing
+  with specific anchors when context warrants (8-slot contract unchanged).
 
 v3.1 ADDITIONS:
 • Version Decoupling; Typed Connections; Concept Index; OGE Simplification (Modified).
@@ -2034,5 +2096,5 @@ They may NOT:
 • Introduce interpretation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MEM–CORE v3.3
+END OF FILE — CIV–MEM–CORE v3.4
 ────────────────────────────────────────────────────────────

@@ -1,11 +1,11 @@
-CIV–SCHOLAR–PROTOCOL — v3.3
+CIV–SCHOLAR–PROTOCOL — v3.4
 Civilizational Strategy Codex · SCHOLAR Operating Law
 Intellectual Creative Cognition · Governance Discipline · Phase-Aware Constraint Grammar Edition
 
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · GLOBAL SCHOLAR LAW
-Version: 3.3
+Version: 3.4
 Scope: ALL CIV–SCHOLAR FILES
 Class: CIV–SCHOLAR–PROTOCOL (System Law)
 Load Order: AFTER CIV–MEM–CORE
@@ -13,8 +13,8 @@ Entity focus: CORE, STATE, and SCHOLAR re-anchor together on
 civilization switch; load per mode (see CMC–BOOTSTRAP,
 cmc-state-mem-grounding, cmc-scholar-mode).
 Supersedes: CIV–SCHOLAR–PROTOCOL v3.2
-Upgrade Type: ALIGNMENT · CMC 3.3 VERSION ALIGNMENT
-Compatibility: CIV–SCHOLAR–TEMPLATE v3.3 · CIV–CORE–TEMPLATE v3.3 · CMC 3.3
+Upgrade Type: ALIGNMENT · CMC 3.4 VERSION ALIGNMENT
+Compatibility: CIV–SCHOLAR–TEMPLATE v3.4 · CIV–CORE–TEMPLATE v3.4 · CMC 3.4
 Last Update: February 2026
 
 ────────────────────────────────────────────────────────────
@@ -446,7 +446,7 @@ the response must show genuine reframing, not repetition. Where applicable,
 include second-order option: Explain why [MIND] encodes [subject] the way
 they do (Scholar-on-Scholar / CCM). See TEST–DESIGN docs, RUN–REPORT–M–M–*.
 
-OGE — MIND NAVIGATION (CMC 3.3):
+OGE — MIND NAVIGATION (CMC 3.4):
 MIND influences navigation, not just voice. Per PROTOCOL–MIND–NAVIGATION:
 
 MIND ACTIVATION:
@@ -822,7 +822,7 @@ STATE SCHEMA (what constitutes cognitive state):
 │ CORE STATE (required for valid session)                         │
 ├─────────────────────────────────────────────────────────────────┤
 │ • governance_binding: string                                    │
-│   – e.g., "CMC 3.3"                                             │
+│   – e.g., "CMC 3.4"                                             │
 │   – Determines which governance rules apply                     │
 │                                                                 │
 │ • active_mode: enum [LEARN, WRITE, IMAGINE]                     │
@@ -855,7 +855,7 @@ To resume from saved state, declare at session start:
 
 ```
 STATE LOAD:
-  governance_binding: "CMC 3.3"
+  governance_binding: "CMC 3.4"
   active_mode: LEARN
   active_civilization: ANGLIA
   active_phase: I
@@ -864,7 +864,7 @@ STATE LOAD:
 
 Alternatively, minimal declaration:
 ```
-Bound by CMC 3.3. LEARN mode. ANGLIA. Phase I.
+Bound by CMC 3.4. LEARN mode. ANGLIA. Phase I.
 ```
 
 STATE VALIDATION (invariants for valid state):
@@ -1029,5 +1029,5 @@ No section may be removed.
 No authority may be weakened.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–PROTOCOL v3.3
+END OF FILE — CIV–SCHOLAR–PROTOCOL v3.4
 ────────────────────────────────────────────────────────────

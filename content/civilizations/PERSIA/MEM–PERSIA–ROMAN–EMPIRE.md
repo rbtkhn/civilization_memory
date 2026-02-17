@@ -140,9 +140,6 @@ ENABLES:
 • MEM–PERSIA–PALMYRA — Rome's eastern fragmentation; Palmyra as Roman-aligned counterweight
 • MEM–PERSIA–ARMENIA — Rome and Persia as dual suzerains; buffer logic
 
-PARALLELS:
-• MEM–ROME–EMPIRE — Parity rival; mutual exhaustion; structural parallel (if present in Rome corpus)
-
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–LEVANT — Shared theater; reach without hold for both
 • MEM–PERSIA–SILK–ROAD — Trade between empires; corridor linking Rome and Persia

@@ -111,13 +111,13 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–IRAN — State whose capital is Tehran
 • MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION — Revolution climax in Tehran
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — IRI institutions in Tehran
-• MEM–PERSIA–ISLAMIC–REPUBLIC — Sovereignty encoding; capital as locus
 • MEM–PERSIA–QOM — Clerical center; Tehran–Qom axis
 • MEM–PERSIA–ISLAM — Legitimacy contested in capital
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Tehran on plateau; defensible interior
 • MEM–PERSIA–PERSEPOLIS — Contrast: ancient ceremonial capital vs modern political capital
 • MEM–PERSIA–MEDES — Ecbatana as earlier interior capital (parallel)
 • MEM–PERSIA–EGYPT — No direct; contrast capital vs periphery
+• MEM–PERSIA–LAW–CONSTITUTION — capital; Majles; revolution locus
 
 GEO (≥2):
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Capital in heartland

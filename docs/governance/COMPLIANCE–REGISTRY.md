@@ -1,9 +1,9 @@
-COMPLIANCE–REGISTRY — v3.3
+COMPLIANCE–REGISTRY — v3.4
 Civilizational Memory Codex · Centralized Compliance Tracking
 MEM File Validation Status
 
 Status: ACTIVE · CANONICAL
-Governed by: CMC 3.3
+Governed by: CMC 3.4
 Last Updated: 2026-02-04
 Purpose: Track compliance status of all MEM files centrally
 

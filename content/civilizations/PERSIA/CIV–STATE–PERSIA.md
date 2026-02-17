@@ -1,10 +1,10 @@
-CIV–STATE–PERSIA — v1.0
+CIV–STATE–PERSIA — v1.1
 Civilizational Memory Codex · State File
 
 Status: ACTIVE
-Version: 1.0
-Supersedes: None (initial derivation from CORE + SCHOLAR)
-Upgrade Type: INITIAL CREATION — derived from CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA
+Version: 1.1
+Supersedes: CIV–STATE–PERSIA v1.0
+Upgrade Type: SOURCE VERSIONS — Section IX updated post-audit (INDEX v3.21, DOCTRINE v1.2)
 Entity: Iran / Islamic Republic of Iran (Persia)
 Classification: CIVILIZATION-STATE
 Active: YES
@@ -306,15 +306,33 @@ Activation: Long-horizon assessment of sustained conflict. Status: REFERENCE.
 Pattern 5 — STATE relay (ENTRY 0007): Pending US–Iran escalation (week of 7 Feb 2026)
 • Application of GEO four-zone and Khosrow/Kavadh liability to US preparations (weeks-long operations, second carrier, talks). Iran perspective: liability for retaliation level; defection risk; calibrated denial vs over-retaliation. Status: ACTIVE.
 
+Pattern 6 — Geneva round (Feb 2026): US–Iran indirect nuclear talks, Omani mediation
+• Option B (negotiated settlement) tested; Options A and C supported by parallel Hormuz activity and drills. Binding constraint for B: whether a dignity-preserving, reciprocal formula is achievable. Precedent: Maurice–Khosrow (reciprocal peace); Roman–Persian parity (negotiation amid denial). Discriminating evidence: US/Israeli framing (reciprocal vs one-sided); sanctions relief sequencing; Hormuz scope. If US refuses to frame deal as reciprocal, Iran’s ability to present outcome as dignified is undercut. Status: ACTIVE.
+• Post-Geneva signal check (Feb 2026): Signals to monitor in news to interpret US intent — (1) Framing: US/official language reciprocal (“mutual steps,” “both sides”) vs one-sided (“Iran complying,” “backing down”); (2) Sanctions sequencing: tied mutual steps vs unilateral “reward for compliance”; (3) Coalition: Israel, Gulf, Europe backing diplomacy vs pressure-only; (4) Posture: carrier, Hormuz rhetoric, strike signalling after Geneva (restraint supports B); (5) Process: next round scheduled, Omani channel retained vs vague or sidelined. Check 2–4 weeks post-Geneva.
+• Signal check run 1 (17 Feb 2026): Post-Geneva same-day. (1) Framing: US no post-conclusion statement; pre-talks pressure framing; reciprocal framing not observed. (2) Sanctions: no evidence yet. (3) Coalition: US diplomacy acknowledged (Rubio), coalition unclear. (4) Posture: no restraint; carrier (Lincoln confirmed, Ford en route) and strike rhetoric continue. (5) Process: third round indicated; Omani channel retained. Interpretation: Process supports B; framing and posture do not. Option B remains testable at next round. Re-run in 1–2 weeks.
+• Causation/correlation (17 Feb 2026): Claim “US military pressure → Iranian concessions” | Association: pressure and talks co-occur; Iranian sources stress sanctions relief and no unrealistic demands. Mechanism: none strong for pressure→concessions; legitimacy/liability point to reciprocal framing and sanctions. Assessment: CORRELATION ONLY. Discriminating test: post-Geneva framing and sanctions sequencing (see Post-Geneva signal check).
+• Structural constraint (Feb 2026): US domestic/coalition alignment (e.g. with Israel and related constituencies) can bind US policy set so that reciprocal framing or sanctions sequencing is unavailable even when both capitals might prefer a deal; escalation risk then follows from that constraint. Domestic scandal exposure can tighten that constraint by reducing political capital to defy coalition.
+• 30-day probability assessment (Feb 2026): P(US reciprocal framing in official statement) LOW; P(third round scheduled, Omani channel retained) HIGH; P(US posture restraint: no second carrier / no new "weeks of operations") MODERATE. Conditional on no US/Israeli strike, no Iranian attack. Evidence: Run 1 (framing/posture negative, process positive); structural constraint. Discriminating: White House/State reciprocal language → framing to MODERATE; second carrier or "weeks of operations" announced → posture to LOW.
+
+Pattern 7 — Russia–China–Iran axis (Feb 2026): Partner behaviour and exit options
+• Axis signal check (Feb 2026): Signals to monitor in news to interpret whether Russia–China–Iran military partnership is escalating or bounded — (1) Timing/scale: next trilateral or BRICS+ naval exercise same week as Geneva/key US–Iran moment = deliberate “we have options” signal; delayed or scaled down around talks = not tying axis to crisis. (2) Russian/Chinese rhetoric: “We stand with Iran” / “we will not leave Iran alone” = tighter axis (undermines B); “Regional stability,” “we are not a party to US–Iran,” “we support dialogue” = ceiling on commitment (supports B if Iran’s exit options limited). (3) Material support: new arms or significant tech transfer to Iran from Russia/China in 2–4 week window = deepening; no new transfers or public downgrade = bounded. (4) Observer list: more Gulf/regional states in next Russia–China–Iran exercise = normalization; shrinking or Gulf withdrawal under US pressure = limited club. Interpretation: Axis bounded supports Option B (Iran’s exit options limited); axis escalating supports Option A and weakens B. Run when trilateral/BRICS naval event or clear Russia/China statement or arms move. Status: ACTIVE.
+• Signal check run 1 (17 Feb 2026): Marine Security Belt exercise in Gulf of Oman same day as Geneva round. Russia: two corvettes + tanker (Pacific Fleet); China: guided-missile destroyer + supply ship; Iran: army + IRGC naval. Observers: Oman, Qatar, UAE, Pakistan, Iraq, Azerbaijan, Kazakhstan, South Africa, Sri Lanka. Russian/Chinese framing: “counter-piracy, maritime security, multilateral cooperation” — hedged, not “we stand with Iran.” AL-Monitor/Washington Institute: Russia, China unlikely to back Iran against US military threats. Interpretation: Timing signals axis optionality; rhetoric and analyst assessment suggest bounded. Option B not undercut by axis escalation this run. Re-run at next trilateral/BRICS naval event or arms announcement.
+• 30-day probability assessment (Feb 2026): P(Russia or China explicit "stand with Iran" statement) LOW; P(new major arms/tech transfer to Iran announced) LOW; P(no new trilateral/BRICS naval exercise in 30 days) HIGH. Conditional on no US strike on Iran. Evidence: Run 1 (Marine Security Belt 17 Feb; hedged rhetoric; analyst ceiling). Discriminating: Moscow/Beijing "stand with Iran" language → move to MODERATE; new trilateral/BRICS naval drill announced → re-assess axis activity.
+
+Pattern 8 — Iran in BRICS (Feb 2026): Political and economic integration, exit options
+• Iran in BRICS signal check (Feb 2026): Signals to monitor in news to interpret whether BRICS deepens Iran’s exit options or keeps them limited — (1) Summit/meeting outcome: BRICS statement on Iran (explicit support for sovereignty/dialogue, “grave concern” only, silence, or distance); Iran’s visibility (host country, keynote, agenda-setting). (2) Financial: Iran access to BRICS payment mechanisms, local-currency arrangements, or New Development Bank; de-dollarization progress that affects Iran. (3) Iran’s role: working groups, hosting, initiative ownership. (4) BRICS cohesion on Iran: Gulf members (UAE, Saudi if in) and others (India, Brazil) — back Iran or dilute/hedge; “limits of BRICS unity” (Middle East Monitor) vs unified front. Interpretation: Deeper integration + strong BRICS support = strengthens Option A (exit-building), reduces urgency for Option B; BRICS distance, fragmentation, or limited Iran role = Option B remains primary path. Run at BRICS summits, BRICS finance meetings, or major BRICS statement. Status: ACTIVE.
+• Signal check run 1 (Feb 2026 baseline): Iran full member (joined 2024 with UAE, Egypt, Ethiopia). 2025 Rio summit: BRICS “grave concern” on US/Israel strikes, breach of international law; stopped short of direct criticism of US/Israel; internal divisions (Russia “unprovoked aggression,” China “restraint,” Brazil condemned but avoided tension with US, India diverged). Analysts: “no alignment whatsoever on Iran”; Iran exposes limits of BRICS unity. Jan 2026: Iran in “Will for Peace” BRICS naval exercise (South Atlantic); UAE participated but low profile. Interpretation: BRICS gives Iran visibility and diplomatic cover but not unified backing; fragmentation supports Option B as primary path. Re-run at next BRICS summit or finance meeting.
+• 30-day probability assessment (Feb 2026): P(BRICS or member statement supporting Iran position on nuclear/sanctions) MODERATE; P(Iran concrete BRICS financial access announced) LOW; P(BRICS cohesion on Iran weakens further) MODERATE. Conditional on no BRICS summit in window. Evidence: Run 1 (2025 Rio divisions; fragmentation; Iran exposes limits of unity). Discriminating: Russia/China or chair explicit Iran support → first to HIGH; Iran–NDB/payment news → financial to MODERATE.
+
 Source versions (for sync): See Section IX.
 
 ────────────────────────────────────────────────────────────
 VIII. CROSS-ENTITY LINKS
 ────────────────────────────────────────────────────────────
-• United States: Principal enforcer of sanctions and potential military striker. Asymmetric objectives: US seeks non-proliferation and regional constraint; Iran seeks sovereignty and survival. Relative degradation and closure capacity (US) matter for Options A and C.
+• United States: Principal enforcer of sanctions and potential military striker. Asymmetric objectives: US seeks non-proliferation and regional constraint; Iran seeks sovereignty and survival. Relative degradation and closure capacity (US) matter for Options A and C. Session (Feb 2026): US willingness to frame a deal as reciprocal is discriminating evidence for Option B; refusal implies domestic/coalition priority over Iranian legitimacy or one-sided deal preference. US domestic/coalition constraint can narrow the policy set (no reciprocal framing); major domestic scandal exposure can tighten that constraint by reducing political capital to defy coalition.
 • Israel: Secondary opponent; unilateral strike risk; nuclear and proxy focus. Cross-entity pressure: Israeli action can trigger Iranian response and US posture.
 • Gulf Arab states: Fragmented southern Gulf littoral; dependent on US guarantee; oil producers. Iran's Gulf leverage affects them directly; their alignment with US shapes coalition.
-• Russia, China: Alternative partners; axis optionality (CORE). Economic and diplomatic exit-building; not primary for immediate escalation branch.
+• Russia, China: Alternative partners; axis optionality (CORE). Economic and diplomatic exit-building; not primary for immediate escalation branch. Axis signal check (Section VII Pattern 7): timing/rhetoric/arms/observers; bounded supports Option B, escalation supports Option A. Iran in BRICS (Section VII Pattern 8): political/financial integration and BRICS cohesion on Iran; fragmentation supports B, deeper integration supports A.
 
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
@@ -322,11 +340,11 @@ IX. SOURCE VERSIONS (SYNC REFERENCE)
 Last assessed against:
 • CIV–CORE–PERSIA: v3.3
 • CIV–SCHOLAR–PERSIA: v2.0 (Entries 0001–0007; Syntheses 0001, 0003, 0004, 0005)
-• CIV–INDEX–PERSIA: v3.17
+• CIV–INDEX–PERSIA: v3.21
 • CIV–STATE–TEMPLATE: v3.3
-• CIV–DOCTRINE–PERSIA: v1.1 (DOCTRINE 01: Four-zone geo and Levant overextension liability)
+• CIV–DOCTRINE–PERSIA: v1.2 (DOCTRINE 01: Four-zone geo and Levant overextension liability)
 • CIV–AXIOM–PERSIA: v1.0
-• MEM corpus: 21 priority MEMs upgraded to content-composition rule (structural context, Barnes dimension) 2026-02; Section VII references unchanged.
+• MEM corpus: 75 MEM–PERSIA files (2026-02); LAW MEMs and CONNECTIONS audit; MEM–PERSIA–ISLAMIC–REPUBLIC removed. Section VII references unchanged.
 
 Sync command: Run per CIV–STATE–TEMPLATE §XIV when user requests "sync state to scholar" or equivalent. STATE reads from CORE, SCHOLAR, DOCTRINE; STATE does not write to them except via explicit relay.
 
@@ -337,7 +355,15 @@ X. STATE LOG
 • 2026-02 [derive]: CIV–DOCTRINE–PERSIA v1.0 and CIV–AXIOM–PERSIA v1.0 created.
 • 2026-02 [promotion]: SYNTHESIS 0005 promoted to doctrine via DIB–PERSIA. CIV–DOCTRINE–PERSIA v1.1: DOCTRINE 01 (Four-zone geo and Levant overextension liability). CIV–SCHOLAR–PERSIA: SYNTHESIS 0005 given full Assumptions Box, TIER 2 confidence, Status ACCEPTED_AS_DOCTRINE; Section XVIII Doctrine Registry updated. DOCTRINE: empty registry; authority chain and admissibility per template; doctrines to be added when SCHOLAR syntheses are accepted as doctrine by DIB–PERSIA. AXIOM: eight axioms extracted from CIV–CORE–PERSIA Section I (PERSIA-001–008). Section IX and V (completeness) updated.
 • 2026-02 [sync]: Sync run per §XIV. Source drift: CIV–INDEX–PERSIA v3.0→v3.17. MEM corpus: 21 MEMs upgraded to MIND rule (no new MEMs; no change to material options or doctrines). Section IX updated.
+• 2026-02-17 [audit]: RUN–AUDIT–STATE–PERSIA–2026-02-17. Structurally compliant. Section IX updated: CIV–INDEX–PERSIA v3.17→v3.21, CIV–DOCTRINE–PERSIA v1.1→v1.2; MEM corpus note set to 75 files. No change to material options or Section VII.
+• 2026-02-17 [STATE session]: Geneva nuclear talks (second round, 17 Feb 2026). Topic: US–Iran indirect talks, Omani mediation; Option B tested; A/C supported by Hormuz activity. Session covered: legitimacy (dignified vs capitulation frame; Maurice–Khosrow as reciprocal precedent); power (carrier posture and Hormuz as “negotiating from strength”); historical precedent (WAR–ROME, SASANIAN–KHOSROW–II); cross-entity (US/Israeli framing as discriminating evidence for B); inference from US refusal to frame reciprocally; discriminating evidence for next round. Section VII: Pattern 6 (Geneva round) added. Section VIII: US cross-entity note on reciprocal framing. No change to material options or assumptions.
+• 2026-02-17 [watch list]: Post-Geneva signal check added under Pattern 6 (Section VII): five signal categories (framing, sanctions sequencing, coalition, posture, process) for news search to interpret US intent; check 2–4 weeks post-Geneva.
+• 2026-02-17 [STATE session]: Causation/correlation demo (pressure→concessions → CORRELATION ONLY); Option C (liability of narrative); Option B (structural constraint re US domestic/Israel); domestic scandal and negotiation psychology. Section VII: causation/correlation assessment + structural constraint note under Pattern 6. Section VIII: US cross-entity note on domestic/coalition constraint and scandal sensitivity.
+• 2026-02-17 [Signal check run]: Pattern 6 post-Geneva; run 1 (same-day). Framing/posture negative for B; process positive. See Section VII Signal check run 1.
+• 2026-02-17 [STATE session]: Russia–China–Iran military partnership (Mearsheimer analysis). Section VII: Pattern 7 (Axis signal check) added — four signals (timing/scale, rhetoric, material support, observer list); run 1 (17 Feb: Marine Security Belt same day as Geneva; bounded). Section VIII: Russia/China bullet updated with axis signal check reference.
+• 2026-02-17 [STATE session]: Iran in BRICS signal check added. Section VII: Pattern 8 (Iran in BRICS) — four signals (summit outcome, financial, Iran role, BRICS cohesion); run 1 (baseline: member since 2024; 2025 Rio divisions; fragmentation supports B). Section VIII: Russia/China bullet updated with BRICS signal check reference.
+• 2026-02-17 [PROBABILITY ASSESSMENT]: 30-day forecasts attached to Section VII signal checks. Pattern 6: P(reciprocal framing) LOW, P(third round scheduled) HIGH, P(posture restraint) MODERATE. Pattern 7: P("stand with Iran" statement) LOW, P(new arms/tech) LOW, P(no new naval exercise) HIGH. Pattern 8: P(BRICS supports Iran position) MODERATE, P(Iran BRICS financial access) LOW, P(cohesion weakens) MODERATE. Conditioning and discriminating signals recorded under each pattern.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–PERSIA — v1.0
+END OF FILE — CIV–STATE–PERSIA — v1.1
 ────────────────────────────────────────────────────────────

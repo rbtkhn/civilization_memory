@@ -2,9 +2,9 @@ PROPOSAL–TIERED–RETRIEVAL — v3.3
 Civilizational Memory Codex · Structural Improvement Proposal
 MEM-First Search with Web Fallback Infrastructure
 
-Status: ACTIVE · PROGRAM INPUT (CMC 3.3)
+Status: ACTIVE · PROGRAM INPUT (CMC 3.4)
 Author: System Analysis
-Date: February 2026 (activated in CMC 3.3)
+Date: February 2026 (activated in CMC 3.4)
 
 ────────────────────────────────────────────────────────────
 I. PROBLEM STATEMENT

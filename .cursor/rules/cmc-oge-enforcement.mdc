@@ -3,7 +3,7 @@ description: Enforces CMC options requirements — SCHOLAR modes (8 fixed slots)
 alwaysApply: true
 ---
 
-# CMC Options Menu Enforcement — CMC 3.3
+# CMC Options Menu Enforcement — CMC 3.4
 
 Options are **required** in **WRITE, LEARN, IMAGINE** (SCHOLAR) and **STATE** modes. Apply after every substantive turn in LEARN/IMAGINE/STATE; in WRITE, apply when options are presented (e.g. after MEM draft or edit).
 
@@ -89,7 +89,7 @@ Related MEM from different civilization. Load traversed-to MEM; scaffold from it
 Session closure. Deliver:
 1. 6–10 word session recap
 2. Synthesis paragraph (<100 words)
-3. Three follow-on options: (b) small incremental, (c) bigger change, (a) no change
+3. Four follow-on options: (a) no change, (b) small incremental, (c) bigger change, (d) relay to scholar (STATE) or defer and revisit later (LEARN)
 
 ## Contextual Notes (Stateless Design)
 
@@ -123,6 +123,8 @@ When generating E/F/G options, **rank available connections by affinity for the 
 | Barnes (Option C) | DEPENDS_ON, CONTRADICTS |
 
 **Frame option text using the MIND's analytical vocabulary.**
+
+**E/F/G wording flexibility:** Phrase E, F, and G with the **specific MEM, event, or entity** when obvious from context (e.g. "Earlier: Ivan IV's oprichnina and coercive state foundation (DEPENDS_ON)" or "Cross-civ: Louis XIV state-building in Francia (PARALLELS)"). Still within 10–20 words and at least one concrete anchor; slot semantics unchanged. Tailored wording makes options feel relevant without adding slots.
 
 After each response, MIND reverts to Mercouris default (stateless). User can override via manual invocation ("use Mearsheimer lens for traversal").
 
@@ -192,8 +194,12 @@ STATE uses the **same 8-slot recursive structure** as SCHOLAR, adapted for prese
 - **Professional register throughout**
 - **H produces actionable output** — proposed STATE file updates, not learning recap
 
-**Same principles apply:** Fixed slots, stateless, 10-20 words per option, concrete anchor per option.
+**Same principles apply:** Fixed slots, stateless, 10-20 words per option, concrete anchor per option. **E/F/G flexibility:** Phrase E (historical precedent), F (forward projection), and G (cross-entity) with the specific MEM, entity, or scenario when obvious from context, still within 10–20 words and one anchor.
 
-See: CIV–STATE–TEMPLATE Section X-A
+**Contextual procedure recommendation:** After the 8 options and the activity menu, add one short line recommending 1–2 procedures when context clearly warrants it. For signal check: after a key event, recommend running the check if one exists for this pattern, or "Consider: add signal check for [event]" if counterpart intent is discriminating but no check is defined yet. Other examples: "Consider: probability assessment" when assessing likelihood; "Consider: causation correlation" when a causal claim is in play; "Consider: financial economic" or "Consider: domestic politics" when those dimensions are binding. At most two per turn; omit when none are clearly relevant; suppress when an activity is active. Mapping and detail: CIV–STATE–TEMPLATE Section X-I (CONTEXTUAL RECOMMENDATION).
 
-Reference: CMC 3.3, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION
+**Selectable contextual option (STATE, optional):** When the recommendation is a specific action (e.g. "add signal check for [event]", "run probability assessment for Pattern 6"), the system MAY add one line making it selectable: "Or choose: Add signal check for [event]" or "Or choose: Run probability assessment for Pattern 6". User can type or select that phrase. At most one such line per turn; no ninth slot. Omit when the recommendation is generic or none was made. See CIV–STATE–TEMPLATE Section X-I (SELECTABLE CONTEXTUAL OPTION).
+
+See: CIV–STATE–TEMPLATE Section X-A, Section X-I
+
+Reference: CMC 3.4, Options menu simplification (preserves 8-slot structure, removes state tracking), PROTOCOL–MIND–NAVIGATION

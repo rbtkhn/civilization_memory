@@ -1,4 +1,4 @@
-CIV–INDEX–TEMPLATE — v3.3
+CIV–INDEX–TEMPLATE — v3.4
 Civilizational Memory Codex · Civilization Index Template
 Academic Reference Canon (ARC) Integration Edition · Trans-Sovereign Patterns (TSP)
 
@@ -6,12 +6,12 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Supersedes: CIV–INDEX–TEMPLATE v2.1
 Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
 Activation State: INACTIVE BY DEFAULT
-Compatibility: CIV–MEM–CORE v3.3 · CIV–MEM–TEMPLATE v3.3 · CIV–SCHOLAR–TEMPLATE v3.3
+Compatibility: CIV–MEM–CORE v3.4 · CIV–MEM–TEMPLATE v3.4 · CIV–SCHOLAR–TEMPLATE v3.4
 Governance Mode: STRUCTURAL LOCK
 Lock Level: TOTAL (no silent mutation)
 
 Governed by:
-• CIV–MEM–CORE v3.3 (global system law)
+• CIV–MEM–CORE v3.4 (global system law)
 
 Last Update: February 2026
 Word Count: ~2,800
@@ -206,7 +206,7 @@ TSP GOVERNANCE RULES:
 • Cross-civilizational connections are informational, not structural
 • TSP designation does not alter index governance rules
 
-Reference: CIV–MEM–CORE v3.3, Section XXIX
+Reference: CIV–MEM–CORE v3.4, Section XXIX
 
 ────────────────────────────────────────────────────────────
 IV. CANONICAL GOVERNANCE FILES REGISTRATION
@@ -343,5 +343,5 @@ All CIV–INDEX files MUST declare:
 "Derived from CIV–INDEX–TEMPLATE v2.1"
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–TEMPLATE v3.3
+END OF FILE — CIV–INDEX–TEMPLATE v3.4
 ────────────────────────────────────────────────────────────

@@ -1,0 +1,26 @@
+---
+description: STATE signal checks and probability assessments must be measurable and falsifiable
+alwaysApply: true
+---
+
+# Signal Check and Probability Assessment — Measurability and Falsifiability
+
+When generating or proposing **Post-Event Signal Checks** (X-J) or **Probability Assessments** (X-K) in STATE mode, the system MUST ensure that signals and predictions are **measurable** and **falsifiable**.
+
+## Signal checks (X-J)
+
+- **Each signal category** must be defined so that by the end of the check window the system can determine from sources (news, official statements, ARC-attributed) whether the signal occurred or not. Use **observable** criteria — not purely subjective or interpretive-only.
+- **Avoid:** vague categories ("US attitude improves", "relationship deteriorates"). **Prefer:** observable outcomes ("US issues statement using reciprocal framing", "third round of talks scheduled by [date]", "new trilateral naval exercise announced").
+
+## Probability assessments (X-K)
+
+- **Event E** must be stated in **testable, observable, and falsifiable** form. By the end of the timeframe it must be possible to determine from sources whether E occurred or not, so the assessment can be confirmed or revised.
+- **Avoid:** unfalsifiable events ("US becomes more willing to compromise"). **Prefer:** events that can be verified or refuted ("White House or State Dept. statement contains phrases X or Y by [date]").
+
+## Self-check before proposing
+
+- [ ] Can we determine from news/sources by end of window whether each signal occurred?
+- [ ] Can we tell by end of timeframe whether the predicted event occurred (so the prediction can be confirmed or revised)?
+- [ ] Have we avoided vague or purely subjective formulations?
+
+Reference: CIV–STATE–TEMPLATE X-J (MEASURABILITY AND FALSIFIABILITY), X-K step 1 (DEFINE).

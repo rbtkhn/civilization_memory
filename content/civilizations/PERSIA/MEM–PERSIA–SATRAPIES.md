@@ -90,6 +90,8 @@ IV. MEM CONNECTIONS
 • MEM–PERSIA–ACHAEMENID–DYNASTY — imperial architecture
 • MEM–PERSIA–SILK–ROAD — satrapies along corridor
 • MEM–PERSIA–EGYPT — Egyptian satrapy
+• MEM–PERSIA–LAW–SASANIAN — local law under imperial ceiling; Sasanian centralised further
+• MEM–PERSIA–LAW–SIYASATNAMA — later modular governance; administrative law
 
 ────────────────────────────────────────────────────────────
 V. BIBLIOGRAPHY

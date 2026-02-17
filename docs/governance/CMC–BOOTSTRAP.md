@@ -2,7 +2,7 @@ CMC–BOOTSTRAP
 Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
-Governed by: CMC 3.3
+Governed by: CMC 3.4
 Last Update: 14 February 2026
 
 ────────────────────────────────────────────────────────────
@@ -33,7 +33,7 @@ KEY CHANGES:
   governance program streams
 • Current Events Protocol residuals are integrated as an explicit 3.3
   stream (with STATE retaining absorbed components)
-• Binding declaration updated to "Bound by CMC 3.3"
+• Binding declaration updated to "Bound by CMC 3.4"
 • Roadmap reference updated to ROADMAP–CMC–3.3
 
 ────────────────────────────────────────────────────────────
@@ -48,7 +48,7 @@ KEY CHANGES:
 • SYSTEM mode for governance maintenance
 • TERMINOLOGY–REGISTRY and new-term gate
 • Decorative term replacements across governance files
-• Binding declaration: "Bound by CMC 3.3"
+• Binding declaration: "Bound by CMC 3.4"
 
 CMC 3.3 ACTIVE PROGRAM STREAMS:
 Current Events Protocol residuals (partially absorbed by STATE),
@@ -76,7 +76,7 @@ Cursor rules updated:
 ────────────────────────────────────────────────────────────
 QUICK START (MINIMAL)
 ────────────────────────────────────────────────────────────
-1) Declare binding: "Bound by CMC 3.3"
+1) Declare binding: "Bound by CMC 3.4"
 2) Select operating mode:
 
    A. SCHOLAR — Learn from the past. Analyse historical sources,
@@ -238,13 +238,13 @@ This version corrects discrepancies identified in v1.0:
 • Added file naming convention
 
 ────────────────────────────────────────────────────────────
-GOVERNANCE VERSION (CMC 3.3 — INTEGRATION PROGRAM ACTIVATION)
+GOVERNANCE VERSION (CMC 3.4 — STATE PROCEDURES AND INVOCATION)
 ────────────────────────────────────────────────────────────
-Under CMC 3.3, all governance documents are
-governed by a single version: CMC 3.3
+Under CMC 3.4, all governance documents are
+governed by a single version: CMC 3.4
 
 CORE GOVERNANCE:
-• CIV–MEM–CORE (CMC 3.3)
+• CIV–MEM–CORE (CMC 3.4)
 
 MIND PROFILES:
 • CIV–MIND–MERCOURIS (PRIMARY)
@@ -261,7 +261,7 @@ TEMPLATES:
 Individual governance documents no longer declare separate versions.
 The CMC Governance Version is the single binding reference.
 
-Declare: "Bound by CMC 3.3"
+Declare: "Bound by CMC 3.4"
 
 See: docs/governance/VERSION–MANIFEST.md (Section I)
 
@@ -525,7 +525,7 @@ file + CIV–SCHOLAR–[CIV] (if present) + MEMs; SCHOLAR: CORE + SCHOLAR
 file + MEMs as needed). See cmc-state-mem-grounding, cmc-scholar-mode,
 cmc-state-scholar-sync.
 
-TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (governance v3.3; internal rev v1.12)
+TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (governance v3.4; internal rev v1.12)
 
 MODE SWITCHING:
 • "switch to state mode" or "state mode" → STATE
@@ -629,7 +629,7 @@ CROSS–CIVILIZATIONAL MISPERCEPTION (per CIV–MEM–CORE § XXVIII):
 • Treat as expected (emergent realism), not consistency break. Do not require correction to match the other's self-explanation.
 • First-order (capabilities/priorities) and second-order (encoding reasons) misperception are both recognized; preserve tension.
 
-VERSION RULE (BINDING — per CMC 3.3):
+VERSION RULE (BINDING — per CMC 3.4):
 • MEM files declare CONTENT VERSION only (tracks content changes, not governance)
 • New MEMs use simplified header (no Template Version Used, Governed by, etc.)
 • Existing MEMs with legacy headers remain valid
@@ -730,10 +730,11 @@ When Cursor rules are active, they enforce BOOTSTRAP:
 
 • cmc-mode-contracts — WRITE / LEARN / IMAGINE permits, forbids, options menu, voice
 • cmc-blend-law — Content proportion rule (GEO vs Subject MEM) when creating/editing MEMs
-• cmc-oge-enforcement — Options menu structure, after-Barnes-analysis (M/M response options)
+• cmc-oge-enforcement — Options menu structure, after-Barnes-analysis (M/M response options), contextual recommendation, selectable option, E/F/G flexibility
 • cmc-scholar-mode — LEARN length, voice, options menu, MEM connections; III.L cross-ref
 • cmc-mercouris-voice, cmc-mearsheimer-voice, cmc-barnes-voice — Analytical voice fingerprints
 • cmc-tri-frame-protocol — Three-perspective analysis sequence, after-Barnes-analysis options
+• cmc-state-signal-check-measurability — Signal checks and probability assessments measurable and falsifiable (STATE; template X-J, X-K)
 
 Defer to these rules when active; they implement mode contracts, content proportions, options menu, and voice.
 
@@ -750,5 +751,5 @@ For full specification, read:
 • docs/templates/CIV–STATE–TEMPLATE.md (STATE mode governance)
 
 ────────────────────────────────────────────────────────────
-END — CMC–BOOTSTRAP (CMC 3.3)
+END — CMC–BOOTSTRAP (CMC 3.4)
 ────────────────────────────────────────────────────────────

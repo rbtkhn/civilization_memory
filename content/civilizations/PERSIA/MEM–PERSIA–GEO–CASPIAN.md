@@ -1,8 +1,8 @@
-MEM–PERSIA–GEO–CASPIAN — v2.1
+MEM–PERSIA–GEO–CASPIAN — v2.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
-Version: 2.1
+Version: 2.2
 Upgrade Type: ADDITIVE · indigenous-language quote (Behistun)
 Civilization: PERSIA
 Subject: Caspian Sea System
@@ -170,11 +170,22 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–EMPIRE — northern buffer; containment vs expansion
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — northern frontier; Royal Road corridor
+• MEM–PERSIA–QAJAR — northern rim; Golestan, Turkmanchay; shared with Russia after loss
+• MEM–PERSIA–TEHRAN — north of Tehran; regional context
+• MEM–PERSIA–RUSSIA — post-Qajar; Caspian shared/lost
+• MEM–PERSIA–GEO–CAUCASUS — northern territorial complex; cession
+• MEM–PERSIA–GEO–IRANIAN–PLATEAU — plateau edge; Caspian as boundary
+
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Darius I, Behistun Inscription (Saka paragraph), tr. Roland G. Kent — ARC–PERSIA-T-ANCIENT
 • Herodotus, *Histories*, IV.40 — Caspian boundary
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–GEO–CASPIAN — v2.1
+END OF FILE — MEM–PERSIA–GEO–CASPIAN — v2.2
 ────────────────────────────────────────────────────────────

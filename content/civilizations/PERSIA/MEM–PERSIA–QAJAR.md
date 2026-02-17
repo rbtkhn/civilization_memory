@@ -151,6 +151,8 @@ ENABLES:
 • MEM–PERSIA–OTTOMAN–EMPIRE — Qajar period: Ottoman and Russia as dual pressure
 • MEM–PERSIA–GEO–CAUCASUS — Territorial loss; Qajar cession
 • MEM–PERSIA–IRAN — Constitutional sequence; Qajar as pre-Pahlavi state
+• MEM–PERSIA–LAW–CONSTITUTION — 1906 context; dynasty under constraint
+• MEM–PERSIA–LAW–MONARCHY — Qajar as dynasty under later constitutional limit
 
 PARALLELS:
 • MEM–PERSIA–SAFAVID–DYNASTY — Predecessor dynasty; Isfahan; Qajar chose new center

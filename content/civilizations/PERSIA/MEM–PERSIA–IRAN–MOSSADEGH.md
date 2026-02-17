@@ -116,6 +116,7 @@ VII. MEM CONNECTIONS (TYPED)
 DEPENDS_ON:
 • MEM–PERSIA–IRAN — State container; constitutional sequence; 1953 as rupture
 • MEM–PERSIA–BRITISH–EMPIRE — Britain (with US) as agent of coup; colonial trauma
+• MEM–PERSIA–LAW–CONSTITUTION — 1906 legacy; oil nationalisation under constitutional frame
 
 ENABLES:
 • MEM–PERSIA–IRAN–ISLAMIC–REVOLUTION — 1953 memory fed revolution; anti-dependency narrative
