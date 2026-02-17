@@ -101,7 +101,7 @@ UPGRADE NOTE (v1.12) — RELAY AS EXCLUSIVE GATE
 Only "relay to scholar" command family in STATE mode may transfer
 information into SCHOLAR (learn mode). Section XIV-B (Relay
 Protocol) added; directionality (§XII) updated. Cursor rule
-cmc-state-scholar-harvest created. CMC–BOOTSTRAP and sync rule
+cmc-state-scholar-harvest created. CMC–BOOTSTRAP and relay-to-state rule
 updated.
 
 ────────────────────────────────────────────────────────────
@@ -400,7 +400,7 @@ history and adjustable to new eras and technologies. In STATE:
 
 • **When to cite which:** Cite axioms when framing options and ruling out
   axiom-violating paths. Cite doctrines when assessing pattern validity and
-  when running Hard Constraint checks (Sync Step 4b, Pattern Audit, Assumption
+  when running Hard Constraint checks (Relay to State Step 4b, Pattern Audit, Assumption
   Stress Test). STATE must not contradict axioms; STATE checks doctrine Hard
   Constraints against evidence.
 
@@ -647,9 +647,9 @@ SECTION VIII: CROSS-ENTITY LINKS
   • Key distinctions
   • Relevant adversary or partner dynamics
 
-SECTION IX: SOURCE VERSIONS (SYNC REFERENCE)
+SECTION IX: SOURCE VERSIONS (RELAY TO STATE REFERENCE)
   • Version of each source file STATE was last assessed against
-  • Sync command reference
+  • Relay to state command reference
 
 SECTION X: STATE LOG
   • Accumulated entries from analytical sessions
@@ -2117,7 +2117,7 @@ Activities may trigger each other:
   for Hard Constraint review if any doctrine depends on that pattern
 • Assumption Stress Test WEAKENED/FALSIFIED on an assumption that
   maps to a doctrine Hard Constraint -> flag doctrine for review
-• Sync Protocol doctrine validity flag -> Pattern Audit or
+• Relay to State protocol doctrine validity flag -> Pattern Audit or
   Assumption Stress Test to validate the flagged Hard Constraint
 • Cross-Entity Pressure Test -> new Decision Point for either entity
 • Decision Points outcome -> Revealed Preference Tracker data point
@@ -2646,7 +2646,7 @@ They are distinguished primarily by temporal orientation.
 
 DIRECTIONALITY:
 • SCHOLAR's historical patterns inform STATE's analytical framework
-  (via Decision-Relevant History and sync command)
+  (via Decision-Relevant History and relay to state command)
 • **Bidirectional read (STATE side):** STATE re-reads SCHOLAR at each
   analytical node (Material Options, Decision Points, Pattern Audit, etc.),
   focusing on Sections IV–V (axioms, RLLs), VI (Negative Capability Zone),
@@ -2658,10 +2658,12 @@ DIRECTIONALITY:
   permitted.
 • The present becomes history eventually; relay is the gate
   through which STATE session output may enter SCHOLAR as learning
-• Sync ("sync state to scholar") updates STATE from SCHOLAR/CORE/
-  DOCTRINE; relay ("relay to scholar", "relay session to scholar") is the only
+• Relay to state seeds the STATE session with current issues of
+  attention and proposes STATE file updates; it does not write to the
+  STATE file unless the user explicitly requests transfer to state.
+  Relay to scholar ("relay to scholar", "relay session to scholar") is the only
   command that transfers information from STATE session into
-  SCHOLAR learn mode
+  SCHOLAR learn mode (seed for LEARN; transfer on approval).
 
 ────────────────────────────────────────────────────────────
 XIII. COMPLETENESS AUDIT CHECKLIST
@@ -2702,38 +2704,51 @@ Before finalizing any CIV–STATE file:
 - [ ] Activity records maintained for Decision Points, Stability
       Watch, Scenario Trees, and Cross-Entity Pressure Tests?
 ────────────────────────────────────────────────────────────
-XIV. SYNC PROTOCOL
+XIV. RELAY TO STATE PROTOCOL (sources → STATE session; transfer = separate)
 ────────────────────────────────────────────────────────────
 STATE files are derived from CIV–CORE, CIV–SCHOLAR, CIV–DOCTRINE,
 and MEM files. When these sources are updated, STATE may become
-stale. Sync is one-way: STATE is updated from these sources.
+stale. **Relay to state** seeds the STATE session with the most
+recent issues of attention (compare sources, identify changes,
+assess impact, propose STATE file updates). It does **not**
+automatically write any changes to the STATE file. **Transfer to
+STATE** (actual write) is a separate step — only when the user
+explicitly requests it (e.g. "apply to state", "write to state",
+"transfer to state"). (Formerly named Sync Protocol.)
 
-**Transfer into SCHOLAR:** The **only** way to transfer information from
-STATE mode into SCHOLAR (learn mode) is the **"relay to scholar"**
-command family. STATE does not write back to SCHOLAR, CORE, or
-DOCTRINE except via explicit relay. See Section XIV-B (Relay
-Protocol). Cursor rule: cmc-state-scholar-harvest.
+**Two relay commands:**
+• **Relay to state** = seed STATE session with current issues of
+  attention; propose STATE file updates; no write. Trigger: "relay
+  to state", "relay state", etc. Deprecated: "sync state to scholar",
+  "run sync protocol". **Transfer to state** = separate (apply
+  proposed updates when user requests).
+• **Relay to scholar** = STATE session → seed for LEARN; transfer to
+  SCHOLAR only on user approval. See Section XIV-B. Cursor rule:
+  cmc-state-scholar-harvest.
 
-Enforcement: When the user issues "sync state to scholar" (or
-equivalent), the system MUST follow the SYNC PROCEDURE below. Cursor
-rule: cmc-state-scholar-sync.
+Enforcement: When the user issues "relay to state" (or equivalent),
+the system MUST follow the RELAY TO STATE PROCEDURE below. Cursor
+rule: cmc-relay-to-state.
 
-SYNC MECHANISM:
+RELAY TO STATE MECHANISM:
 • No automatic triggers or flags
-• User manually issues "sync state to scholar" command (or equivalent)
+• User issues "relay to state" (or deprecated "sync state to scholar"
+  / "run sync protocol")
 • System compares current source versions to those in the STATE
   file's Source Versions block
-• System identifies changes since last sync that are relevant to
+• System identifies changes since last relay that are relevant to
   material options, binding constraints, or stability indicators
-• System proposes updates for user approval
-• Approved changes are applied; Source Versions block and State
-  Log are updated
+• System proposes updates; does **not** write to the STATE file
+• Relay output seeds the STATE session: present 8 options (A–H) and
+  activity menu so the session is focused on the most recent issues
+  of attention. User may then request **transfer to state** to apply
+  proposed updates.
 
 SOURCE VERSIONS BLOCK (MANDATORY):
 Every STATE file must include a Source Versions section listing
 the version of each source file it was last assessed against.
 
-SYNC PROCEDURE:
+RELAY TO STATE PROCEDURE:
 1. Read Source Versions from STATE file
 2. Compare to current versions of CIV–CORE, CIV–SCHOLAR,
    CIV–DOCTRINE, and MEM corpus
@@ -2752,23 +2767,34 @@ SYNC PROCEDURE:
    activating — recommend Pattern Audit or Assumption Stress Test"
    This is a flag, not a full test. Full validation happens in
    Pattern Audit (X-H, Step 5b).
-5. Propose specific updates to affected sections
-6. Apply only with user approval
-7. Update Source Versions block and STATE Log
+5. Propose specific updates to affected sections (do not apply)
+6. Present proposal and seed STATE session (8 options + activity menu)
+7. TRANSFER TO STATE (separate step): Only when user explicitly
+   requests ("apply to state", "write to state", "transfer to state"),
+   apply approved updates and update Source Versions block and STATE Log
 
 LIGHTWEIGHT DRIFT CHECK (RECOMMENDED):
 At session start (or before closure), run a fast consistency check that
 compares Source Versions entries to current header versions of listed sources.
-If mismatched, flag for user approval in the sync proposal.
+If mismatched, flag for user approval in the relay-to-state proposal.
 
 ────────────────────────────────────────────────────────────
 XIV-B. RELAY PROTOCOL (STATE → SCHOLAR LEARN)
 ────────────────────────────────────────────────────────────
+**Relay vs transfer (two steps).**
+• **Relay** = use STATE session output as **seed for LEARN**. Propose
+  specific additions to CIV–SCHOLAR–[CIV]; present to user. No write
+  to SCHOLAR yet. User may explore in LEARN or approve transfer.
+• **Transfer to SCHOLAR** = separate step. Actual write to
+  CIV–SCHOLAR–[CIV] happens only when user explicitly approves
+  (e.g. "apply", "write to SCHOLAR", "transfer") or after LEARN
+  exploration and user requests transfer.
+
 **Exclusive gate:** Only the **"relay to scholar"** command family
-in STATE mode may transfer information into SCHOLAR (learn
-mode). No other mechanism may write STATE session output into
-CIV–SCHOLAR. This preserves a single, user-controlled gate for
-present-oriented learning to enter the SCHOLAR ledger.
+in STATE mode may initiate this flow. No other mechanism may write
+STATE session output into CIV–SCHOLAR. This preserves a single,
+user-controlled gate for present-oriented learning to enter the
+SCHOLAR ledger.
 
 Trigger: User issues "relay to scholar" or equivalent
 ("relay session to scholar", "relay this session", "relay")
@@ -2782,10 +2808,13 @@ Relay procedure:
 2. Propose specific additions to CIV–SCHOLAR–[CIV] in a form
    appropriate to that file (e.g. ENTRY, synthesis candidate, RLL
    proposal, pattern note, or MEM generation candidate per SCHOLAR
-   template Section X.A).
-3. Present proposed additions to the user; apply only after approval.
+   template Section X.A). This is the seed for LEARN — no write yet.
+3. Present proposed additions to the user. Transfer (actual write)
+   only when user explicitly approves or requests transfer after
+   LEARN.
 4. Record in the STATE file (e.g. STATE Log or session activity
-   record) that a relay was performed and what was transferred.
+   record) that a relay was performed and, if transfer was approved,
+   what was transferred.
 5. Transition options: After completing the relay, present 8 options
    (A–H) in LEARN format so the user can seamlessly continue in
    LEARN mode. Options reference the relayed content and offer

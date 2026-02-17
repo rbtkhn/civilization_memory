@@ -18,7 +18,7 @@ Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; etc. Treat equiv
 
 **2. Task → mode (when no phrase matches).** When the user does **not** explicitly name a mode and no invocation phrase matches, infer mode from the **request**:
 
-- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "run sync protocol on STATE file", "upgrade templates to v3.4"). Operate in SYSTEM without requiring the user to say "system mode".
+- **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "relay to state" or "run relay-to-state protocol on STATE file", "upgrade templates to v3.4"). Operate in SYSTEM without requiring the user to say "system mode".
 - **STATE:** Decision support, MEM-grounded current-events analysis, CIV–STATE updates, entity-focused options. Requires MEM SCAN and CORE load when analyzing an entity.
 - **SCHOLAR (WRITE/LEARN/IMAGINE):** MEM authoring, LEARN traversal, doctrine/RLL proposals, historical synthesis, scenario exploration. Sub-mode can be inferred from action (edit MEM → WRITE; explore options → LEARN; "imagine" / scenario → IMAGINE).
 
@@ -67,6 +67,7 @@ Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; etc. Treat equiv
 - **Permits:** Edit governance files, templates, protocols, cursor rules. Run audits, manage compliance, maintain system infrastructure.
 - **Forbids:** Analytical output, MEM creation, STATE output, SCHOLAR learning.
 - **Voice:** Plain technical language. No MIND profiles. Options menu not required.
+- **Audit/eval closure:** When an audit or evaluation produces numbered recommendations, end the output with: "Do you want to implement any of these? (1) [brief label]. (2) [brief label]. (3) [brief label]. (4) None."
 
 ## AUDIT (Function within SYSTEM or SCHOLAR)
 

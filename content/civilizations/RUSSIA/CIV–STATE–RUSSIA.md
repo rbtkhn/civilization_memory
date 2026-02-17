@@ -1153,6 +1153,72 @@ PATTERN: Geneva Round (Feb 2026) — Legitimacy and Leverage
   Historical parallel: Vienna (process accepted, leverage later faded); Nicholas II
   (tactical process, no structural integration, then rupture). Advance rate
   remains binding variable for 4–8 week projection.
+  Pre-Geneva external commentary (Davis/Macgregor transcript 16 Feb 2026):
+  aligns with consolidation/Novorossiya posture; not ARC-verified.
+  • Post-Geneva signal check (Feb 2026): Signals to monitor in news to
+    interpret Russian and US intent after the trilateral round — (1)
+    Russian framing: official (Kremlin, MFA) language on "negotiations,"
+    "settlement," "ceasefire," or "legitimate counterpart"; territorial-
+    flexibility vs maximalist; next round confirmed or deferred. (2) US
+    framing: White House/State language reciprocal ("mutual steps," "both
+    sides") vs one-sided ("Russia must withdraw"); next round scheduled;
+    aid or enforcement tied to process. (3) Ukrainian framing: Zelensky/
+    Kyiv official reaction; participation in next round; any "government
+    of national unity" or leadership rhetoric. (4) Process: next round
+    date and format; Omani-style channel retained or dropped; delegation
+    level (principals vs envoys). (5) Advance rate (same window): Russian
+    territorial gains on named axes (Zaporizhzhia, Kharkiv, etc.) or
+    stalemate; escalation (e.g. Oreshnik) or restraint. Interpretation:
+    C→A (genuine engagement) if territorial-flexibility language, next
+    round scheduled, no major offensive in window; C→B (open defiance) if
+    major offensive in window, format collapsed, or explicit rejection of
+    June timeline. Check window: 2–4 weeks post-Geneva round. Run via
+    Signal Check procedure (Section X-J).
+
+PATTERN: Zelensky presidency exit paths (Feb 2026)
+  Activation: MODERATE (when assessing settlement feasibility or Ukrainian
+  political stability)
+  Source: STATE session 2026-02-16 (Zelensky exit paths, actor leverage,
+  long-term stability)
+  Relevance: Full range of paths for Zelensky presidency to end: electoral,
+  resignation (voluntary or deal-linked), impeachment/constitutional,
+  military/SBU coup, street pressure, military defeat/fall of Kyiv,
+  death/incapacity, exile, external demand (US or Russia). For Moscow
+  optimizing long-term stability: pliant replacement who can sign >
+  Zelensky > chaotic replacement. Actors with leverage: parliament
+  (impeachment, unity government); military/SBU (coup, pressure);
+  oligarchs/factions (money, media, brokered deal); US (aid, political
+  cover, "need negotiator"); Russia (precondition "legitimate government,"
+  escalation). Discriminating signals by actor: parliament — impeachment/
+  unity bills, faction statements; military — senior criticism, refusal to
+  mobilise, closed-door meetings; US — rhetoric "political renewal," aid
+  conditional; Russia — "Zelensky must go," "legitimate counterpart" as
+  precondition. Run when: Ukrainian political crisis, post-Geneva format
+  shift, or US/Russia rhetoric on leadership.
+  Status: ACTIVE.
+  • Zelensky leadership stability signal check (Feb 2026): Signals to
+    monitor in news to interpret whether any actor is moving toward
+    triggering a presidency exit path — (1) Parliament: impeachment or
+    unity-government bills; committee activity; faction statements
+    calling for resignation or "political renewal"; Rada votes or
+    procedural moves. (2) Military/SBU: senior officer or SBU criticism
+    of leadership; refusal or foot-dragging on mobilisation; reports of
+    closed-door meetings on "political solution" or succession. (3) US:
+    official or leaked rhetoric linking aid or diplomacy to "leadership
+    that can negotiate," "inclusive government," or "political renewal";
+    shift from "support Ukraine" to "support Ukrainian people" or
+    conditional aid. (4) Russia: official or semi-official statements
+    that talks require "legitimate" or "representative" Ukrainian
+    leadership; "Zelensky must go" or regime-change precondition;
+    escalation framed as removing obstacle to peace. (5) Street/elite:
+    major protests, oligarch/faction pressure, or cabinet shake-up
+    tied to war policy or negotiations. Interpretation: parliament or
+    US signals → deal-linked or negotiated transition more plausible;
+    military/SBU signals → coup or forced transition risk; Russia
+    precondition → external-demand path; street/elite → resignation or
+    pressure path. Check window: 2–4 weeks; run when Ukrainian political
+    crisis, post-Geneva, or when US/Russia rhetoric on leadership
+    spikes. Run via Signal Check procedure (Section X-J).
 
 PATTERN: Institutional Voice vs Sovereign Choice (Lavrov–Panin)
   Activation: MODERATE (diagnostic)
@@ -1584,6 +1650,40 @@ ENTRY 014 — 16 February 2026
   Completeness audit: PASSED
   Next review: Post-Geneva round outcome; advance-rate data 4–8 weeks.
   **Relay to SCHOLAR (2026-02-16):** Session output relayed to CIV–SCHOLAR–RUSSIA per §XIV-B. Transfer: strategic analysis, Geneva round legitimacy/leverage pattern, C→A/C→B signals, forward projection, Vienna/Nicholas II precedent, DP-1–DP-6. Record: CIV–SCHOLAR–RUSSIA Session 2026-02-16 (STATE relay · strategic analysis, Geneva round, decision points).
+
+ENTRY 015 — 16 February 2026
+  Session: Strategic analysis (Davis/Macgregor transcript); Zelensky
+  presidency exit paths.
+  Coverage: Transcript mapping to Options A/B/D; power constraint
+  (relative degradation, advance rate); forward projection (C→A vs C→B
+  signals); historical precedent (Nicholas II, Vienna); three-perspective
+  pass (no odds change). Addendum: Moscow optimizes for long-term
+  stability → pliant replacement preferred over Zelensky or chaotic
+  replacement. Full range of exit paths enumerated (electoral,
+  resignation, deal-linked, impeachment, coup, street pressure, military
+  defeat, death/incapacity, exile, external demand). Liability: actors
+  with leverage (parliament, military/SBU, oligarchs, US, Russia) and
+  incentives. Forward projection: discriminating signals by actor for
+  each path family.
+  Changes:
+  • Section VII — Geneva Round pattern: one-line note added (Davis/
+    Macgregor transcript 16 Feb pre-Geneva aligns with consolidation;
+    not ARC-verified).
+  • Section VII — new pattern "Zelensky presidency exit paths (Feb
+    2026)" added. Activation: MODERATE. Paths, actor leverage,
+    discriminating signals; run when Ukrainian political crisis,
+    post-Geneva format shift, or US/Russia rhetoric on leadership.
+  No Section IV evidence updates (transcript is non-ARC commentary).
+  Recommendation on file: consider Post-Geneva signal check under
+  Geneva Round pattern (template X-J).
+  Next review: Post-Geneva round + 2–4 weeks; or Ukrainian political
+  crisis / US or Russia rhetoric on leadership.
+  **Relay (seed for LEARN):** STATE session ENTRY 015 content available
+  as seed for LEARN session. Relay = use this session as seed to begin
+  LEARN; no automatic write to SCHOLAR. Content: Zelensky exit paths,
+  actor leverage, discriminating signals, long-term stability (pliant
+  replacement preferred), signal-check design. Any SCHOLAR update
+  follows LEARN exploration and user approval.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–RUSSIA v2.0

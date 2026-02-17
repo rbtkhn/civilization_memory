@@ -26,6 +26,10 @@ STATE is downstream of CIV–CORE; output must not contradict CORE axioms (CIV�
 
 **Second CORE (rare):** Load a second civilization's CORE only when the user **explicitly** requests dual-entity or comparative analysis (e.g. "compare Russian and German constraints," "analyze from both Russia and China's perspective," "Option G: how does this affect Germania using their CORE"). Do not auto-load a second CORE on every Option G or mere mention of another entity; default remains single-entity CORE load.
 
+## STATE Session Start (MANDATORY before first analytical output)
+
+**Before** producing the first substantive analytical output in a STATE session, complete (1) **SCHOLAR load** — read CIV–SCHOLAR–[CIV] (if present) — and (2) **MEM SCAN** — read MEM–RELEVANCE–[CIV], then primary MEMs per the procedure below. Do not deliver analysis or options until both are done. On entity switch, re-run both for the new entity.
+
 ## SCHOLAR Load (STATE mode — one-way draw)
 
 STATE is downstream of CIV–SCHOLAR; historical patterns, RLLs, and syntheses in SCHOLAR inform STATE's analytical framework (CIV–STATE–TEMPLATE §XII). When in **STATE mode** for entity [CIV], **read CIV–SCHOLAR–[CIV]** (if present in that civilization's folder) at session start or when first needed. Use it for:
@@ -104,7 +108,7 @@ At each analytical node (branch, sub-branch, decision point, indicator assessmen
 - [ ] ARC-T-INSTITUTIONAL sources consulted before non-listed sources?
 - [ ] Cross-entity sources declared with ARC origin and editorial note visible?
 - [ ] Source contradictions surfaced with both claims and attribution (not silently resolved)?
-- [ ] Doctrine Hard Constraints checked when running Pattern Audit or Sync?
+- [ ] Doctrine Hard Constraints checked when running Pattern Audit or Relay to State?
 - [ ] Decision Points (X-B): when presenting action options for a decision
       that involves a commitment (alliance, arms, presence, confrontation),
       at least one accommodation/reversal option included and documented

@@ -504,13 +504,15 @@ guide the next response. Closure deferred until user selects H
   oriented decision support and professional register
 See: CIV–STATE–TEMPLATE Section X-A
 
-SYNC: STATE reads from SCHOLAR/CORE/DOCTRINE/MEMs. Sync command
-updates STATE from those sources (one-way). **Relay to Scholar:** The
-only way to transfer information from STATE mode into SCHOLAR (learn
-mode) is the "relay to scholar" command family; procedure in
-CIV–STATE–TEMPLATE §XIV-B and cmc-state-scholar-harvest. No other
-transfer into SCHOLAR learn mode is permitted. Legacy aliases
-"relay" is primary; deprecated "harvest"/"harvest session" still accepted.
+RELAY (two directions): **Relay to state** = seed the STATE session
+with the most recent issues of attention; propose STATE file updates;
+**no automatic write**. Transfer to STATE (write) only when user
+explicitly requests ("apply to state", "write to state"). Trigger:
+"relay to state", "relay state"; deprecated "sync state to scholar",
+"run sync protocol". Cursor rule: cmc-relay-to-state. **Relay to scholar** = STATE
+session → seed for LEARN; transfer to SCHOLAR only on user approval.
+Procedure in CIV–STATE–TEMPLATE §XIV-B and cmc-state-scholar-harvest.
+Deprecated aliases "harvest"/"harvest session" still accepted.
 
 CORE LOAD: When analyzing entity [CIV], read CIV–CORE–[CIV] (if
 present) for axiom and constraint compliance. STATE output must not
@@ -523,7 +525,7 @@ STATE, and SCHOLAR re-anchor together on entity switch (previous
 entity's files do not govern); load per mode (STATE: CORE + STATE
 file + CIV–SCHOLAR–[CIV] (if present) + MEMs; SCHOLAR: CORE + SCHOLAR
 file + MEMs as needed). See cmc-state-mem-grounding, cmc-scholar-mode,
-cmc-state-scholar-sync.
+cmc-relay-to-state.
 
 TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (governance v3.4; internal rev v1.12)
 

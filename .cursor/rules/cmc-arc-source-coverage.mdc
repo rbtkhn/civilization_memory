@@ -10,7 +10,7 @@ When presenting evidence in STATE mode or conducting doctrine checks, the system
 ## Trigger
 
 Any STATE mode activity that presents current-event evidence to support an analytical claim, including:
-- Doctrine checks (Pattern Audit, Sync Protocol)
+- Doctrine checks (Pattern Audit, Relay to State protocol)
 - Evidence Updates to Material Options
 - Stability Indicator assessments
 - Decision Points analysis

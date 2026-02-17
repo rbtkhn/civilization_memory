@@ -1,0 +1,46 @@
+---
+description: Relay to state — seed STATE session from sources; no automatic write to STATE file
+alwaysApply: true
+---
+
+# Relay to State Rule (sources → STATE session; transfer to STATE file is separate)
+
+**Relay to state** seeds the STATE session with the most recent issues of attention (what has changed in SCHOLAR/CORE/DOCTRINE/MEM, what doctrines and patterns are live, what the STATE file currently flags). It does **not** automatically write any changes to the STATE file. The system compares sources, identifies changes, assesses impact, and **proposes** STATE file updates; the user sees the proposal and the session is focused on those issues. **Transfer to STATE** (actual write to the STATE file) is a **separate step** — only when the user explicitly requests it (e.g. "apply to state", "write to state", "transfer to state"). The other direction is **relay to scholar** (STATE session → seed for LEARN; transfer to SCHOLAR only on approval). Cursor rule: cmc-state-scholar-harvest.
+
+When relay to state runs, use its output (summary of changes, impact, proposed updates) to **open or focus the STATE session** — present the 8 options (A–H) and activity menu anchored to those issues of attention. Do not modify the STATE file unless the user explicitly asks to apply/transfer.
+
+## Trigger
+
+When the user issues a **relay to state** command (or equivalent), run the Relay-to-State Procedure. Recognized phrasings:
+- "relay to state"
+- "relay state"
+- "relay session to state"
+- "relay to state file"
+- "relay STATE from SCHOLAR" (or "from scholar")
+Deprecated (avoid; still accepted): "sync state to scholar", "sync STATE to SCHOLAR", "sync state file to scholar", "run sync protocol"
+
+If the entity is named (e.g. Russia, Persia), relay applies to that entity's STATE file. If not named, use the entity currently in focus.
+
+## Relay-to-State Procedure (MANDATORY)
+
+Follow **CIV–STATE–TEMPLATE §XIV (Relay to State Protocol)** in full:
+
+1. **Read Source Versions** from the STATE file (the section listing version of each source file it was last assessed against). If the STATE file has no Source Versions block, note that and proceed by comparing to current versions of all sources.
+
+2. **Compare** current versions of CIV–CORE–[CIV], CIV–SCHOLAR–[CIV], CIV–DOCTRINE–[CIV], and (as needed) MEM corpus to the versions recorded in the STATE file.
+
+3. **Identify substantive changes** since last relay: new or updated RLLs, new or revised doctrines, revised syntheses, new MEMs with pattern relevance to material options or Decision-Relevant History.
+
+4. **Assess impact**: Do any changes affect material option reasoning, linchpin assumptions, binding constraints, stability indicators, or cross-entity links? If the template's Doctrine Validity Check (Step 4b) is specified, run it: for each active doctrine, cross-reference Hard Constraints against current stability indicators and evidence; flag any Hard Constraint that may be activating.
+
+5. **Propose specific updates**: List concrete edits to the STATE file (section, paragraph, or bullet; before/after or insert text). Do **not** apply any edits in this step.
+
+6. **Output to user**: Present (a) summary of source changes found, (b) impact assessment, (c) proposed STATE file updates with clear section references, (d) recommended updates to the Source Versions block and STATE Log. **Use this output as the seed for the STATE session**: present the 8 options (A–H) and activity menu so the session is focused on the most recent issues of attention. Tell the user they can request **transfer to state** (e.g. "apply to state", "write to state") if they want the proposed updates written to the STATE file.
+
+7. **Transfer to STATE (separate step)**: Only when the user explicitly requests transfer (e.g. "apply to state", "write to state", "transfer to state"), apply the proposed updates to the STATE file and update the Source Versions block and STATE Log. If the user approves only some updates, apply only those. Relay to state itself never writes to the STATE file.
+
+## No Automatic Relay to State
+
+Relay to state runs only when the user explicitly requests it. There are no automatic triggers or scheduled updates.
+
+Reference: CIV–STATE–TEMPLATE §XIV (Relay to State Protocol); CMC–BOOTSTRAP; cmc-state-mem-grounding (SCHOLAR load in STATE mode).
