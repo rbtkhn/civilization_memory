@@ -53,7 +53,7 @@ v2.10 introduces the following ADDITIVE enhancements:
   – POST-ACH revision documentation requirements
 
 This aligns SCHOLAR synthesis operations with Intelligence Tradecraft
-Integration (ITI) protocols from CIV–MEM–CORE v3.2 (Sections XXVI-XXVII).
+Integration (ITI) protocols from CIV–MEM–CORE v3.3 (Sections XXVI-XXVII).
 
 PURPOSE:
 • Force explicit assumption identification
@@ -66,7 +66,7 @@ ENFORCEMENT:
 • SYNTHESIS where alternatives were evaluated without ACH is INVALID
 • Confidence tier must be declared in SYNTHESIS status block
 
-See: CIV–MEM–CORE v3.2 Sections XXVI-XXVII (ITI specification)
+See: CIV–MEM–CORE v3.3 Sections XXVI-XXVII (ITI specification)
 
 No authority is weakened.
 No phase boundary is relaxed.
@@ -1123,7 +1123,7 @@ docs/governance/TEST–DESIGN–MERCOURIS–MEARSHEIMER–COGNITIVE–INTERACTIO
 RUN–REPORT–M–M–01 through M–M–05.
 
 ────────────────────────────────────────────────────────────
-OGE — MIND NAVIGATION (CMC 3.2):
+OGE — MIND NAVIGATION (CMC 3.3):
 MIND influences navigation, not just voice. Per PROTOCOL–MIND–NAVIGATION:
 
 MIND ACTIVATION MODEL:
@@ -1333,7 +1333,7 @@ XIV. SYNTHESIS TRADECRAFT REQUIREMENTS (NEW · v2.10 · MANDATORY)
 ────────────────────────────────────────────────────────────
 This section establishes tradecraft requirements for SYNTHESIS entries,
 integrating Intelligence Tradecraft Integration (ITI) protocols from
-CIV–MEM–CORE v3.2.
+CIV–MEM–CORE v3.3.
 
 PURPOSE:
 • Force explicit identification of assumptions underlying syntheses

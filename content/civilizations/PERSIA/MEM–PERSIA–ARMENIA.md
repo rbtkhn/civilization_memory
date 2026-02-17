@@ -189,14 +189,14 @@ X. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ROME — Armenia as theater of Roman–Persian conflict
 • MEM–PERSIA–WAR–CARRHAE — Parthian phase; Armenian margins
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Sasanian contest for Armenia
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal Roman–Persian war over Armenia
-• MEM–PERSIA–DYNASTY–SASANIAN — Sasanian Armenia policy
-• MEM–PERSIA–DYNASTY–ACHAEMENID — earlier Iranian–Armenian contact
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Sasanian contest for Armenia
+• MEM–PERSIA–SASANIAN–KHOSROW–II — terminal Roman–Persian war over Armenia
+• MEM–PERSIA–SASANIAN–DYNASTY — Sasanian Armenia policy
+• MEM–PERSIA–ACHAEMENID–DYNASTY — earlier Iranian–Armenian contact
 • MEM–PERSIA–GEO–CASPIAN — northern approach; Caucasian context
 • MEM–PERSIA–ZOROASTER — religious contest (Christian vs Zoroastrian)
 • MEM–PERSIA–ISLAM — post-conquest Armenian fate
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial tolerance model
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — imperial tolerance model
 
 Cross-civilization (≥3):
 • MEM–ROME–ARMENIA — Roman perspective; buffer logic

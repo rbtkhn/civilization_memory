@@ -8,13 +8,13 @@
 1. INTEGRATED (ALREADY IN MEMs)
 ────────────────────────────────────────────────────────────
 
-**Canonical formulation (Parthian vs Sasanian)** — Full version in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I; cross-referenced in DYNASTY–SASANIAN–ARDASHIR–I and DYNASTY–PARTHIAN:
+**Canonical formulation (Parthian vs Sasanian)** — Full version in MEM–PERSIA–SASANIAN–SHAPUR–I; cross-referenced in DYNASTY–SASANIAN–ARDASHIR–I and DYNASTY–PARTHIAN:
 
 "The Sassanids were not the Parthians. Where the Arsacids had been content to raid and negotiate, Shapur sought conquest and permanent humiliation of Rome. He wanted not just victory but the destruction of Roman pretensions to universal empire."
 
-- MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — consolidation vs confederation; father builds machine, son wields
-- MEM–PERSIA–DYNASTY–PARTHIAN — incentive distinction (deny vs conquer)
-- MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — full quote; Shapur’s transformation
+- MEM–PERSIA–SASANIAN–ARDASHIR–I — consolidation vs confederation; father builds machine, son wields
+- MEM–PERSIA–PARTHIAN — incentive distinction (deny vs conquer)
+- MEM–PERSIA–SASANIAN–SHAPUR–I — full quote; Shapur’s transformation
 
 **Parity / seven-century outcome** (book description):
 
@@ -32,13 +32,13 @@
 "Valerian's capture proved that Roman emperors were not invincible, that Roman armies could be destroyed, and that Rome's eastern rival could humiliate the empire in ways no barbarian tribe ever could. For the Sassanids, it was validation; for Rome, it was trauma that shaped policy for generations."
 
 - MEM–PERSIA–PALMYRA — validation vs consolidation; (shorter variant)
-- MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — full variant; structural consequences
+- MEM–PERSIA–SASANIAN–SHAPUR–I — full variant; structural consequences
 
 **Khosrow’s achievement:**
 
 "Khosrow's armies had achieved what no Persian force had done since the Achaemenids: they had conquered the Levant and Egypt, the economic heart of the Roman East. For a moment, it seemed that the Roman Empire might not survive."
 
-- MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — scale of expansion; reversal
+- MEM–PERSIA–SASANIAN–KHOSROW–II — scale of expansion; reversal
 - MEM–PERSIA–GEO–LEVANT — reach exceeds grip; conquest ≠ absorption
 
 **Alexander as horizon** (*Rome and Persia* 2023):
@@ -61,10 +61,10 @@
 |-----|-------------------------|--------------------------------------|
 | MEM–PERSIA–WAR–CARRHAE | Bibliography only | Carrhae as turning point; Parthian victory; Romans learn to respect power they could not subdue (or Goldsworthy’s equivalent). |
 | MEM–PERSIA–ARMENIA | None | Armenia as contested ground; proxy wars; lands of Armenia, Iraq, Syria as “contentious ground between two empires” (cf. review). |
-| MEM–PERSIA–DYNASTY–SASANIAN | None | Sasanian vs Parthian contrast; centralization; “restorers of Achaemenid legacy” if Goldsworthy phrases it. |
+| MEM–PERSIA–SASANIAN–DYNASTY | None | Sasanian vs Parthian contrast; centralization; “restorers of Achaemenid legacy” if Goldsworthy phrases it. |
 | MEM–PERSIA–SILK–ROAD | None | Trade between empires enriched both; overland routes; Roman–Persian commercial dimension. |
 | MEM–PERSIA–GEO–LEVANT | Khosrow quote only | Further on Levant as battlefield; “contentious ground”; closure deficit (if in book). |
-| MEM–PERSIA–DYNASTY–ACHAEMENID | None | Only if book addresses Achaemenid legacy as frame for Roman–Persian rivalry. |
+| MEM–PERSIA–ACHAEMENID–DYNASTY | None | Only if book addresses Achaemenid legacy as frame for Roman–Persian rivalry. |
 | MEM–PERSIA–MONGOL–EMPIRE | None | Low priority; book stops at Arab conquests. |
 
 **Verification:** For any new verbatim quote, confirm wording and page number in *Rome and Persia* (2023). Book-description wording is used for the “mutual respect / permanently destroying” sentence with attribution “book description.”
@@ -82,7 +82,7 @@
 4. USAGE NOTE
 ────────────────────────────────────────────────────────────
 
-- **Canonical Parthian vs Sasanian quote:** Use the **full** formulation (including “destruction of Roman pretensions to universal empire”) in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I; in DYNASTY–SASANIAN–ARDASHIR–I and DYNASTY–PARTHIAN add “(full formulation in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I)” so the triple use reads as intentional cross-reference.
+- **Canonical Parthian vs Sasanian quote:** Use the **full** formulation (including “destruction of Roman pretensions to universal empire”) in MEM–PERSIA–SASANIAN–SHAPUR–I; in DYNASTY–SASANIAN–ARDASHIR–I and DYNASTY–PARTHIAN add “(full formulation in MEM–PERSIA–SASANIAN–SHAPUR–I)” so the triple use reads as intentional cross-reference.
 - Block-quote format and BIBLIOGRAPHY entry as in other ARC–PERSIA-T-MODERN sources.
 
 Last updated: February 2026.

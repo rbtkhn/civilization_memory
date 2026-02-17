@@ -111,11 +111,11 @@ VII. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–ISLAM — Conquest from Arabia; Islam absorbed and Persianized
 • MEM–PERSIA–GEO–PERSIAN–GULF — Southern littoral Arab; north–south asymmetry
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Exhaustion before Arab conquest
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Exhaustion before Arab conquest
 • MEM–PERSIA–WAR–ROME — Mutual exhaustion; Arabs fill vacuum
 • MEM–PERSIA–ROMAN–EMPIRE — Both empires overrun from Arabia
 • MEM–PERSIA–EMPIRE — Sasanian collapse; 651 terminus
-• MEM–PERSIA–DYNASTY–SASANIAN — Lakhmid clients; southern frontier
+• MEM–PERSIA–SASANIAN–DYNASTY — Lakhmid clients; southern frontier
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — Contemporary Gulf posture
 • MEM–PERSIA–EGYPT — Behistun list; Arabia and Egypt in imperial geography
 • MEM–PERSIA–ARMENIA — Roman–Persian exhaustion; Arab conquest follows

@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — v1.4
+MEM–PERSIA–SASANIAN–ARDASHIR–I — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -117,7 +117,7 @@ Ardashir's early reign emphasizes:
 • Clear rupture with Hellenistic pluralism
 • Reintegration of frontier zones
 
-Adrian Goldsworthy contrasts the regimes (full formulation in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I):
+Adrian Goldsworthy contrasts the regimes (full formulation in MEM–PERSIA–SASANIAN–SHAPUR–I):
 
 > "The Sassanids were not the Parthians. Where the Arsacids had
 > been content to raid and negotiate, Shapur sought conquest and
@@ -161,16 +161,16 @@ captures the narrative before the battle is fully won.
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–SASANIAN — Ardashir as founder
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — son; inherits consolidated state
-• MEM–PERSIA–DYNASTY–ACHAEMENID — restoration claims
-• MEM–PERSIA–DYNASTY–PARTHIAN — Arsacid regime Ardashir overthrows; confederal vs centralized
+• MEM–PERSIA–SASANIAN–DYNASTY — Ardashir as founder
+• MEM–PERSIA–SASANIAN–SHAPUR–I — son; inherits consolidated state
+• MEM–PERSIA–ACHAEMENID–DYNASTY — restoration claims
+• MEM–PERSIA–PARTHIAN — Arsacid regime Ardashir overthrows; confederal vs centralized
 • MEM–PERSIA–ZOROASTER — sacral kingship, khvarenah
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial continuity invoked
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — imperial continuity invoked
 • MEM–PERSIA–WAR–ROME — Sasanian phase initiated
 • MEM–PERSIA–WAR–CARRHAE — Parthian precedent (Ardashir replaces Parthians)
 • MEM–PERSIA–ARMENIA — Arsacid dynastic ties severed
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal Sasanian (contrast)
+• MEM–PERSIA–SASANIAN–KHOSROW–II — terminal Sasanian (contrast)
 • MEM–PERSIA–ISLAM — post-Sasanian absorption
 
 Cross-civilization (≥3):
@@ -178,7 +178,7 @@ Cross-civilization (≥3):
 • MEM–ROME–WAR–PERSIA — regime change alters conflict character
 • MEM–ROME–EMPIRE–DIOCLETIAN — later Roman restorer (parallel to Ardashir's consolidation)
 
-Breaks if removed: MEM–PERSIA–DYNASTY–SASANIAN (founder context); MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I (succession).
+Breaks if removed: MEM–PERSIA–SASANIAN–DYNASTY (founder context); MEM–PERSIA–SASANIAN–SHAPUR–I (succession).
 
 ────────────────────────────────────────────────────────────
 X. FIGURE STRUCTURED DATA (LAYER 2)
@@ -203,9 +203,9 @@ XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I
+MEM INGEST CONFIRMED — MEM–PERSIA–SASANIAN–ARDASHIR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — v1.4
+END OF FILE — MEM–PERSIA–SASANIAN–ARDASHIR–I — v1.4
 ────────────────────────────────────────────────────────────

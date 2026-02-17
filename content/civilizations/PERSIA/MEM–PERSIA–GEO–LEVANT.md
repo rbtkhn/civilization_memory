@@ -19,13 +19,13 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Content composition: Mearsheimer primary (strategic/terrain, power distribution, parity), Mercouris secondary (ARC evidence, civilizational encoding). Barnes dimension: N/A—terrain does not assign liability; liability attaches to actors who overextend in the corridor (e.g. Khosrow II; see MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME).
+Content composition: Mearsheimer primary (strategic/terrain, power distribution, parity), Mercouris secondary (ARC evidence, civilizational encoding). Barnes dimension: N/A—terrain does not assign liability; liability attaches to actors who overextend in the corridor (e.g. Khosrow II; see MEM–PERSIA–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
-For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
+For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–SASANIAN–KHOSROW–II).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -237,13 +237,13 @@ V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ROME — parity war; Levant as theater
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Levant conquest 614; reversal
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Antioch sacked; Valerian
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Levant conquest 614; reversal
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Antioch sacked; Valerian
 • MEM–PERSIA–PALMYRA — Levantine counterweight; post-Valerian
 • MEM–PERSIA–ARMENIA — northern Levant interface
 • MEM–PERSIA–EGYPT — Khosrow's southern extension
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Levantine satrapies
-• MEM–PERSIA–DYNASTY–SASANIAN — western frontier
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Levantine satrapies
+• MEM–PERSIA–SASANIAN–DYNASTY — western frontier
 • MEM–PERSIA–GEO–PERSIAN–GULF — southern approach
 • MEM–PERSIA–ISLAM — Levant lost to both empires
 
@@ -256,7 +256,7 @@ Cross-civilization:
 • MEM–ROME–GEO–SYRIA — Roman Syria; depth-exposure
 • MEM–ROME–ISLAM — Levant loss
 
-Breaks if removed: MEM–PERSIA–WAR–ROME (theater); MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II (conquest/reversal).
+Breaks if removed: MEM–PERSIA–WAR–ROME (theater); MEM–PERSIA–SASANIAN–KHOSROW–II (conquest/reversal).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)

@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–QAJAR — v1.0
+MEM–PERSIA–QAJAR — v1.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
@@ -153,7 +153,7 @@ ENABLES:
 • MEM–PERSIA–IRAN — Constitutional sequence; Qajar as pre-Pahlavi state
 
 PARALLELS:
-• MEM–PERSIA–DYNASTY–SAFAVID — Predecessor dynasty; Isfahan; Qajar chose new center
+• MEM–PERSIA–SAFAVID–DYNASTY — Predecessor dynasty; Isfahan; Qajar chose new center
 
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Tehran on plateau edge; core preserved
@@ -161,7 +161,7 @@ GEOGRAPHIC:
 • MEM–PERSIA–GEO–CASPIAN — Northern rim; shared with Russia after loss
 
 TEMPORAL_BEFORE:
-• MEM–PERSIA–DYNASTY–SAFAVID — Safavid fall 1722; Afsharid/Zand; Qajar reunification
+• MEM–PERSIA–SAFAVID–DYNASTY — Safavid fall 1722; Afsharid/Zand; Qajar reunification
 
 TEMPORAL_AFTER:
 • MEM–PERSIA–IRAN — Pahlavi; Constitutional Revolution legacy; modern state
@@ -179,5 +179,5 @@ IX. BIBLIOGRAPHY
 • CIV–CORE–PERSIA — Colonial Trauma; continuity
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–QAJAR — v1.0
+END OF FILE — MEM–PERSIA–QAJAR — v1.0
 ────────────────────────────────────────────────────────────

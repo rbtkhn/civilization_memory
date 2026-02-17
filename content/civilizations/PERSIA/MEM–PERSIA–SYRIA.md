@@ -44,7 +44,7 @@ interior as satrapies. Strabo describes the corridor:
 
 Syria is **corridor**—armies and trade move both ways. Under the
 Sasanians, Shapur I sacked Antioch (252, 260); Valerian was
-captured in the same campaign (MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I).
+captured in the same campaign (MEM–PERSIA–SASANIAN–SHAPUR–I).
 Persian triumph was real but not permanent; Roman counterpressure
 and Palmyra (MEM–PERSIA–PALMYRA) denied consolidation. به نام خداوند جان و خرد — فردوسی، ARC–PERSIA-T-MEDIEVAL.
 
@@ -133,12 +133,12 @@ VIII. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–LEVANT — Syria as core of Levant; reach without hold
 • MEM–PERSIA–WAR–ROME — Parity war; Syria as theater
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Conquest of Syria 614; reversal
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Antioch sacked; Valerian campaign
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Conquest of Syria 614; reversal
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Antioch sacked; Valerian campaign
 • MEM–PERSIA–PALMYRA — Syrian desert; post-Valerian counterweight
 • MEM–PERSIA–ARMENIA — Northern Levant interface
 • MEM–PERSIA–EGYPT — Khosrow's extension (Syria–Palestine–Egypt axis)
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Levantine/Syrian satrapies
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Levantine/Syrian satrapies
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — Modern Syria alliance; axis of resistance
 • MEM–PERSIA–ISLAM — Levant lost to both empires; Damascus Umayyad
 
@@ -146,7 +146,7 @@ GEO (≥2):
 • MEM–PERSIA–GEO–LEVANT — Primary: Syria within Levant
 • MEM–PERSIA–GEO–PERSIAN–GULF — Southern approach contrast
 
-Breaks if removed: MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II (conquest/reversal).
+Breaks if removed: MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–SASANIAN–KHOSROW–II (conquest/reversal).
 
 ────────────────────────────────────────────────────────────
 IX. BIBLIOGRAPHY

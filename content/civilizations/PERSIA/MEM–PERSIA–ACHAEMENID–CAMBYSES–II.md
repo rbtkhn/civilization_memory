@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID–CAMBYSES–II — v1.1
+MEM–PERSIA–ACHAEMENID–CAMBYSES–II — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -78,16 +78,16 @@ The Behistun inscription (Old Persian) records the crisis:
 
 فردوسی (شاهنامه، دیباچه): به نام خداوند جان و خرد / کز این برتر اندیشه بر نگذرد — ARC–PERSIA-T-MEDIEVAL.
 
-Cambyses' reign ends in fracture; Darius restores order. MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I
+Cambyses' reign ends in fracture; Darius restores order. MEM–PERSIA–ACHAEMENID–DARIUS–I
 documents the consolidation.
 
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 • MEM–PERSIA–EGYPT — Cambyses' conquest; Egyptian satrapy
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — succession; Behistun; Darius as "shopkeeper"
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cambyses as son; continuity
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Cambyses as second king
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — succession; Behistun; Darius as "shopkeeper"
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Cambyses as son; continuity
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Cambyses as second king
 
 ────────────────────────────────────────────────────────────
 VI. BIBLIOGRAPHY
@@ -98,5 +98,5 @@ VI. BIBLIOGRAPHY
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources* — Egyptian evidence
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–CAMBYSES–II — v1.1
+END OF FILE — MEM–PERSIA–ACHAEMENID–CAMBYSES–II — v1.1
 ────────────────────────────────────────────────────────────

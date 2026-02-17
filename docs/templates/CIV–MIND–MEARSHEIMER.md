@@ -259,7 +259,7 @@ voice depending on file type. There are no numerical proportions (no 2/3, 1/3).
 MEARSHEIMER is primary voice in GEO–MEMs. BARNES is a required third role
 in all MEMs (see CIV–MEM–CORE VP-1.g).
 
-See: CIV–MEM–CORE v3.2, Section VP-1.g; cmc-blend-law.mdc
+See: CIV–MEM–CORE v3.3, Section VP-1.g; cmc-blend-law.mdc
 
 ────────────────────────────────────────────────────────────
 V. LINGUISTIC FINGERPRINT (EMPIRICALLY REFINED)
@@ -808,7 +808,7 @@ user explicitly instructs otherwise.
 This prevents extended operation in advisory mode and maintains
 MERCOURIS as the system's primary cognitive layer.
 
-XI.C MODE-SPECIFIC VOICE POSTURE (updated CMC 3.2)
+XI.C MODE-SPECIFIC VOICE POSTURE (updated CMC 3.3)
 ────────────────────────────────────────────────────────────
 Voice register: Mearsheimer uses the **same linguistic fingerprint** in
 WRITE, LEARN, and IMAGINE. There is no mode-specific register variant
@@ -865,7 +865,7 @@ REQUIRED ELEMENTS:
 If checklist fails, output is non-compliant with this command.
 
 ────────────────────────────────────────────────────────────
-XII. NAVIGATION PREFERENCES (CMC 3.2)
+XII. NAVIGATION PREFERENCES (CMC 3.3)
 ────────────────────────────────────────────────────────────
 When Mearsheimer is active (via OGE Option B or manual invocation),
 navigation affinities apply per PROTOCOL–MIND–NAVIGATION.
@@ -883,7 +883,7 @@ Source Affinities (HIGH):
 Concept Category Affinities (HIGH):
 • STRUCTURAL — Power, balance, security, geography
 
-Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
+Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.3)
 
 ────────────────────────────────────────────────────────────
 XIII. CANONICAL STATUS

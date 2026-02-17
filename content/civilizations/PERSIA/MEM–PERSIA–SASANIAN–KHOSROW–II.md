@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.2
+MEM–PERSIA–SASANIAN–KHOSROW–II — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -161,15 +161,15 @@ collapse; the emperor who overreached was eliminated by his own.
 X. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–SASANIAN — Khosrow as terminal Sasanian
+• MEM–PERSIA–SASANIAN–DYNASTY — Khosrow as terminal Sasanian
 • MEM–PERSIA–WAR–ROME — the war Khosrow escalated and lost
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — earlier triumph (contrast: Shapur held gains)
+• MEM–PERSIA–SASANIAN–SHAPUR–I — earlier triumph (contrast: Shapur held gains)
 • MEM–PERSIA–WAR–CARRHAE — denial doctrine Khosrow violated
 • MEM–PERSIA–ARMENIA — devastated by the war
 • MEM–PERSIA–ZOROASTER — sacral kingship; legitimacy strain
 • MEM–PERSIA–ISLAM — post-exhaustion absorption
-• MEM–PERSIA–DYNASTY–ACHAEMENID — prior Levant control (contrast)
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — restraint Khosrow abandoned
+• MEM–PERSIA–ACHAEMENID–DYNASTY — prior Levant control (contrast)
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — restraint Khosrow abandoned
 • MEM–PERSIA–MONGOL–EMPIRE — later collapse (comparison)
 
 Cross-civilization (≥3):
@@ -177,7 +177,7 @@ Cross-civilization (≥3):
 • MEM–ROME–WAR–PERSIA — the conflict
 • MEM–ROME–EMPIRE–MAURICE — Khosrow's restorer; peace shattered
 
-Breaks if removed: MEM–ROME–EMPIRE–HERACLIUS (counterpart); MEM–PERSIA–WAR–ROME (war context); MEM–PERSIA–DYNASTY–SASANIAN (dynasty context).
+Breaks if removed: MEM–ROME–EMPIRE–HERACLIUS (counterpart); MEM–PERSIA–WAR–ROME (war context); MEM–PERSIA–SASANIAN–DYNASTY (dynasty context).
 
 ────────────────────────────────────────────────────────────
 XI. FIGURE STRUCTURED DATA (LAYER 2)
@@ -202,9 +202,9 @@ XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XIII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
+MEM INGEST CONFIRMED — MEM–PERSIA–SASANIAN–KHOSROW–II
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — v1.2
+END OF FILE — MEM–PERSIA–SASANIAN–KHOSROW–II — v1.2
 ────────────────────────────────────────────────────────────

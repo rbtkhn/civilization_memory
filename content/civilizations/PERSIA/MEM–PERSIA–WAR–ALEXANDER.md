@@ -85,7 +85,7 @@ incompetence. The structural reading: Darius had rational plans; Alexander
 possessed a **tempo advantage** that let him concentrate force faster and
 exploit king-centered legitimacy before Persian depth could tell. Power
 distribution and organizational velocity, not character, explain the
-outcome. MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III encodes the unified assessment.
+outcome. MEM–PERSIA–ACHAEMENID–DARIUS–III encodes the unified assessment.
 
 Key features:
 • Rapid decisive engagements
@@ -201,13 +201,13 @@ PERSIA WAR corpus (sibling integration):
 • MEM–PERSIA–WAR–CARRHAE — prior conquest trauma; Carrhae as Persian reversal; denial vs tempo
 • MEM–PERSIA–WAR–SCYTHIAN — contrast: tempo (Alexander) vs nomadic denial (Scythians); northern limits
 • MEM–PERSIA–WAR–ROME — Goldsworthy: region Alexander swept through; seven-century contest
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — unified Briant + structural tempo; Darius as opponent
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; system optimized for stability
+• MEM–PERSIA–ACHAEMENID–DARIUS–III — unified Briant + structural tempo; Darius as opponent
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial baseline; system optimized for stability
 • MEM–PERSIA–PERSEPOLIS — Alexander burns 330 BC
 • MEM–PERSIA–EGYPT — Alexander takes Egypt 332 BC
 • MEM–PERSIA–GEO–PERSIAN–GULF — Nearchus voyage
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III (opponent); MEM–PERSIA–WAR–ROME (successor conflict over same terrain).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–DARIUS–III (opponent); MEM–PERSIA–WAR–ROME (successor conflict over same terrain).
 
 ────────────────────────────────────────────────────────────
 XI. BIBLIOGRAPHY

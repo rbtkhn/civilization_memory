@@ -297,7 +297,7 @@ GEO (≥2):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Justinianic reconquest
 
 Cross-civilizational:
-• MEM–PERSIA–DYNASTY–SASANIAN — contemporary rival
+• MEM–PERSIA–SASANIAN–DYNASTY — contemporary rival
 • MEM–CHINA–EMPRESS–WU — parallel: powerful empress
 
 ────────────────────────────────────────────────────────────

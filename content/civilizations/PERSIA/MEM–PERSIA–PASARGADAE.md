@@ -160,12 +160,12 @@ X. SITE STRUCTURED DATA (LAYER 2)
 XI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Founder; Pasargadae as his capital and tomb
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Founder; Pasargadae as his capital and tomb
 • MEM–PERSIA–PERSEPOLIS — Successor ceremonial capital; Darius builds on Cyrus's template
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Continues royal presence at Pasargadae; builds Persepolis
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Pasargadae as first dynastic seat
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Continues royal presence at Pasargadae; builds Persepolis
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Pasargadae as first dynastic seat
 • MEM–PERSIA–WAR–ALEXANDER — Alexander visits, restores tomb; contrast with burning of Persepolis
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian invocation of Achaemenid/Cyrus legacy
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Sasanian invocation of Achaemenid/Cyrus legacy
 • MEM–PERSIA–BABYLON — Cyrus's conquest; Cyrus Cylinder; legitimacy parallel
 • MEM–PERSIA–MEDES — Ecbatana; Cyrus's defeat of Astyages precedes Pasargadae consolidation
 • MEM–PERSIA–ZOROASTER — Sacral kingship; Cyrus's legitimacy frame
@@ -175,7 +175,7 @@ GEO (≥2):
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Pasargadae in Persis, heartland
 • MEM–PERSIA–GEO–PERSIAN–GULF — Persis borders Gulf; regional context
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (founder); MEM–PERSIA–PERSEPOLIS (successor capital).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–CYRUS–II (founder); MEM–PERSIA–PERSEPOLIS (successor capital).
 
 ────────────────────────────────────────────────────────────
 XII. BIBLIOGRAPHY

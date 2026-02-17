@@ -19,7 +19,7 @@ All seven recommended MEM upgrades have been implemented. The upgrades reflect l
 | File | From | To | Key Additions |
 |------|------|----|----------------|
 | MEM–PERSIA–IONIAN–REVOLT | v1.0 | v2.0 | Herodotus V.97, 99–100, 102, 105 verbatim; satrapal vs imperial (Mearsheimer); Greek wars arc |
-| MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES | v1.0 | v2.0 | Greek wars arc; Alexander inversion theme; MEM CONNECTIONS WAR corpus |
+| MEM–PERSIA–ACHAEMENID–XERXES | v1.0 | v2.0 | Greek wars arc; Alexander inversion theme; MEM CONNECTIONS WAR corpus |
 | MEM–PERSIA–WAR–SCYTHIAN | v1.1 | v2.0 | Denial-doctrine lineage; tempo contrast with Alexander; Mearsheimer; Layer 2 WAR |
 | MEM–PERSIA–WAR–MARATHON | v1.1 | v2.0 | Mearsheimer structural; Briant framing; Layer 2 WAR |
 | MEM–PERSIA–GEO–CASPIAN | v1.1 | v2.0 | Scythian expedition integration; WAR–SCYTHIAN link; Layer 2 GEO; MEM CONNECTIONS |

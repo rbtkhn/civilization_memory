@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–PARTHIAN — v1.2
+MEM–PERSIA–PARTHIAN — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
@@ -72,7 +72,7 @@ institutionalize:
 > sacral authority."
 > — Touraj Daryaee, *Sasanian Persia*
 
-Adrian Goldsworthy sharpens the military-political distinction (full formulation in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I):
+Adrian Goldsworthy sharpens the military-political distinction (full formulation in MEM–PERSIA–SASANIAN–SHAPUR–I):
 
 > "The Sassanids were not the Parthians. Where the Arsacids had
 > been content to raid and negotiate, Shapur sought conquest and
@@ -145,7 +145,7 @@ Ardashir frames his rise not as revolution but as **restoration of
 rightful Persian order**. Hellenistic and Parthian "dilution" is
 reversed; Iranian kingship is recentralized. The Arsacid court and
 Parthian legitimacy are the losers; Persian sacral authority is
-the winner (MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I).
+the winner (MEM–PERSIA–SASANIAN–ARDASHIR–I).
 
 The Parthian period thus encodes a **transition**: confederation
 and denial preserved Persian sovereignty for nearly five centuries;
@@ -178,12 +178,12 @@ X. MEM CONNECTIONS (TYPED)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Imperial template; satrapal precedent; Persian kingship
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Imperial template; satrapal precedent; Persian kingship
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Core territory; Ctesiphon and corridor
 
 ENABLES:
 • MEM–PERSIA–EMPIRE — Arsacid as member of imperial sequence (EMPIRE Layer 2)
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Overthrow of Arsacids; restoration narrative
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Overthrow of Arsacids; restoration narrative
 • MEM–PERSIA–WAR–CARRHAE — Parthian phase; denial doctrine
 • MEM–PERSIA–WAR–ROME — Parthian phase of seven-century parity
 
@@ -196,12 +196,13 @@ GEOGRAPHIC:
 • MEM–PERSIA–SILK–ROAD — Caravan intermediation; transit power
 
 TEMPORAL_BEFORE:
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Predecessor empire (Hellenistic interlude)
+• MEM–PERSIA–SELEUCID — Seleucid collapse; break from suzerainty c. 247 BC
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Predecessor empire (Hellenistic interlude)
 • MEM–PERSIA–MEDES — Pre-imperial; cavalry and mountain stronghold precedent
 
 TEMPORAL_AFTER:
-• MEM–PERSIA–DYNASTY–SASANIAN — Successor; centralization replaces confederation
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Founding Sasanian; ends Arsacid line
+• MEM–PERSIA–SASANIAN–DYNASTY — Successor; centralization replaces confederation
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Founding Sasanian; ends Arsacid line
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY
@@ -213,8 +214,8 @@ XI. MEM BIBLIOGRAPHY
 • Adrian Goldsworthy, *Rome and Persia* — Parthian vs Sasanian strategy; parity
 • Pierre Briant, *From Cyrus to Alexander* — Achaemenid/Parthian continuity
 • MEM–PERSIA–WAR–CARRHAE — Denial doctrine; Carrhae; Surena
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Overthrow; restoration ideology
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Overthrow; restoration ideology
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–PARTHIAN — v1.2
+END OF FILE — MEM–PERSIA–PARTHIAN — v1.2
 ────────────────────────────────────────────────────────────

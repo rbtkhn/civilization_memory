@@ -17,7 +17,7 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Content composition: Mearsheimer primary (strategic/terrain analysis), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to actors who overextend off the plateau (see MEM–PERSIA–EMPIRE, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
+Content composition: Mearsheimer primary (strategic/terrain analysis), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to actors who overextend off the plateau (see MEM–PERSIA–EMPIRE, MEM–PERSIA–SASANIAN–KHOSROW–II).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
@@ -241,7 +241,7 @@ V. MEM CONNECTIONS (TYPED)
 
 DEPENDS_ON:
 • MEM–PERSIA–MEDES — Ecbatana; plateau as Median seat
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Persepolis, Fars; plateau as Persian core
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Persepolis, Fars; plateau as Persian core
 
 ENABLES:
 • MEM–PERSIA–GEO–PERSIAN–GULF — Plateau's southern outlet; Gulf bears Persia's name

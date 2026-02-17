@@ -135,8 +135,8 @@ DEPENDS_ON:
 
 ENABLES:
 • MEM–PERSIA–WAR–CARRHAE — Rome as the invader denied; founding of parity
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Valerian; Roman humiliation as Sasanian validation
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Terminal overextension vs Rome/Byzantium
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Valerian; Roman humiliation as Sasanian validation
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Terminal overextension vs Rome/Byzantium
 • MEM–PERSIA–PALMYRA — Rome's eastern fragmentation; Palmyra as Roman-aligned counterweight
 • MEM–PERSIA–ARMENIA — Rome and Persia as dual suzerains; buffer logic
 

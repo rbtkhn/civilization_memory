@@ -159,7 +159,7 @@ III.D POLYPHONY RULES
 • Advisory and catalyst may be disengaged without residue
 
 ────────────────────────────────────────────────────────────
-III.E CROSS-MODE AVAILABILITY (CMC 3.2)
+III.E CROSS-MODE AVAILABILITY (CMC 3.3)
 ────────────────────────────────────────────────────────────
 The same three analytical perspectives operate in BOTH top-level modes:
 
@@ -310,7 +310,7 @@ TERTIARY CATALYST (BARNES v2.6):
 
 No autonomous activation of advisory or catalyst minds is permitted.
 
-STATE MODE ACTIVATION (CMC 3.2):
+STATE MODE ACTIVATION (CMC 3.3):
 All three perspectives operate in STATE mode through the same
 analytical framework, but invocation and output differ:
 • Activation: By analytical need (duty of competence requires all

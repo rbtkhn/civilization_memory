@@ -1,9 +1,9 @@
-MEM–PERSIA–DYNASTY–SASANIAN — v1.3
+MEM–PERSIA–SASANIAN–DYNASTY — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
 Version: 1.3
-Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive); Barnes dimension (liability, defection, absorption). Section order fixed (VII–X). No numerical proportions.
+Upgrade Type: RENAME · MEM–PERSIA–SASANIAN–DYNASTY → MEM–PERSIA–SASANIAN–DYNASTY (dynasty-level suffix).
 Civilization: PERSIA
 Subject: Sasanian Dynasty
 Dates: 224–651 AD
@@ -23,7 +23,7 @@ The Sasanians represent **continuity through compression and revival**.
 ────────────────────────────────────────────────────────────
 II. DYNASTIC ORIGIN & RESTORATION
 ────────────────────────────────────────────────────────────
-Ardashir I’s overthrow of the Arsacid Parthians (224 AD) is framed not as
+Ardashir I's overthrow of the Arsacid Parthians (224 AD) is framed not as
 a revolution but as a **return to rightful Persian order**.
 
 Early consolidation relied on:
@@ -45,7 +45,7 @@ Sasanian strategy emphasized:
 
 Power was hardened inward before being projected outward.
 
-Adrian Goldsworthy contrasts Sasanian with Parthian strategy (full formulation in MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I):
+Adrian Goldsworthy contrasts Sasanian with Parthian strategy (full formulation in MEM–PERSIA–SASANIAN–SHAPUR–I):
 
 > "The Sassanids were not the Parthians. Where the Arsacids had been
 > content to raid and negotiate, Shapur sought conquest and permanent
@@ -133,5 +133,5 @@ X. BIBLIOGRAPHY
 • Matthew Canepa, *The Two Eyes of the Earth* — sacral kingship
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN — v1.3
+END OF FILE — MEM–PERSIA–SASANIAN–DYNASTY — v1.3
 ────────────────────────────────────────────────────────────

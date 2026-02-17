@@ -552,7 +552,7 @@ Rules:
 • Signals gravity without performative escalation
 • Distinct from the flat affect norm—marks exceptional moments
 
-III.L MODE-SPECIFIC VOICE POSTURE (v2.6, updated CMC 3.2)
+III.L MODE-SPECIFIC VOICE POSTURE (v2.6, updated CMC 3.3)
 ────────────────────────────────────────────────────────────
 Mercouris uses register variants depending on operating mode:
 
@@ -974,7 +974,7 @@ Forbidden:
 Violation constitutes a governance breach.
 
 ────────────────────────────────────────────────────────────
-IX. NAVIGATION PREFERENCES (CMC 3.2)
+IX. NAVIGATION PREFERENCES (CMC 3.3)
 ────────────────────────────────────────────────────────────
 When Mercouris is active (default), navigation affinities apply per
 PROTOCOL–MIND–NAVIGATION.
@@ -993,7 +993,7 @@ Concept Category Affinities (HIGH):
 • CIVILIZATIONAL — Culture, legitimacy, identity, continuity
 • PATTERN — Recurrence, parallel, cycle, tendency
 
-Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
+Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.3)
 
 ────────────────────────────────────────────────────────────
 X. CANONICAL STATUS

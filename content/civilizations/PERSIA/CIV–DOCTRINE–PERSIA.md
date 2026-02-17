@@ -1,11 +1,11 @@
-CIV–DOCTRINE–PERSIA — v1.1
+CIV–DOCTRINE–PERSIA — v1.2
 Civilizational Strategy Codex · Doctrine Register
 Doctrine-Only Extraction Layer
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 1.1
-Supersedes: CIV–DOCTRINE–PERSIA v1.0
-Upgrade Type: ADDITIVE · DOCTRINE 01 (SYNTHESIS 0005 promoted via DIB–PERSIA)
+Version: 1.2
+Supersedes: CIV–DOCTRINE–PERSIA v1.1
+Upgrade Type: ADDITIVE · DOCTRINE 02 (SYNTHESIS 0004 promoted via DIB–PERSIA 2026-02-17)
 Civilization: PERSIA
 Class: CIV–DOCTRINE (Doctrine Registry)
 Source Authority: DIB–PERSIA (Explicit Acceptance Only) · Scholar WRITE (per CIV–SCHOLAR–PERSIA § X)
@@ -13,14 +13,21 @@ Compatibility: CIV–MEM–CORE · CIV–CORE–PERSIA v2.0 · CIV–SCHOLAR–P
 Governance Authority: CIV–MEM–CORE
 Derived from: CIV–DOCTRINE–TEMPLATE v3.2
 Last Update: February 2026
-Word Count: ~1,050
+Word Count: ~1,450
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v1.2) — DOCTRINE 02
+────────────────────────────────────────────────────────────
+User requested promotion of SYNTHESIS 0004 to doctrine. DIB–PERSIA accepted 2026-02-17.
+
+• DOCTRINE 02 (PERSIA–ISLAM STRUCTURAL TRANSITION): New doctrine. Power distribution and mutual exhaustion (Roman–Persian war) explain conditions for Arab conquest; Arabs enter vacuum created by exhausted empires. Persian "absorption" narrative and structural collapse (state vs civilization) are compatible. Doctrine optimized for peer conflict fails when conflict type shifts (new actor, different velocity, novel legitimacy). Source: CIV–SCHOLAR–PERSIA SYNTHESIS 0004; ENTRY 0005; RUN–EXERCISE–A 2026-02-17; MEM–PERSIA–ISLAM, MEM–PERSIA–SASANIAN–DYNASTY, MEM–PERSIA–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v1.1) — DOCTRINE 01
 ────────────────────────────────────────────────────────────
 User requested promotion of SYNTHESIS 0005 to doctrine. DIB–PERSIA accepted.
 
-• DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY): New doctrine. Encodes Persian strategic geography as four zones (Caspian buffer, Gulf chokepoint, Indian Ocean periphery, Levant parity) with distinct structural incentives; in parity zones, conquest does not imply consolidation; overextension invites reversal, court defection, and exhaustion; liability and irreversibility attach to the overextending ruler and the defecting successor. Source: CIV–SCHOLAR–PERSIA SYNTHESIS 0005; ENTRY 0006; MEM–PERSIA–GEO–* , MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II.
+• DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY): New doctrine. Encodes Persian strategic geography as four zones (Caspian buffer, Gulf chokepoint, Indian Ocean periphery, Levant parity) with distinct structural incentives; in parity zones, conquest does not imply consolidation; overextension invites reversal, court defection, and exhaustion; liability and irreversibility attach to the overextending ruler and the defecting successor. Source: CIV–SCHOLAR–PERSIA SYNTHESIS 0005; ENTRY 0006; MEM–PERSIA–GEO–* , MEM–PERSIA–WAR–ROME, MEM–PERSIA–SASANIAN–KHOSROW–II.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -73,6 +80,27 @@ Hard Constraints:
 
 ────────────────────────────────────────────────────────────
 
+DOCTRINE 02
+Name: PERSIA–ISLAM STRUCTURAL TRANSITION
+Status: ACCEPTED · LOCKED · CANONICAL
+Source:
+• CIV–SCHOLAR–PERSIA (SYNTHESIS 0004)
+• DIB–PERSIA (Accepted 2026-02-17)
+• RUN–EXERCISE–A 2026-02-17
+
+Definition:
+Power distribution and mutual exhaustion (Roman–Persian war) explain the conditions for Arab conquest; Arabs enter a vacuum created by exhausted empires. Persian "absorption" narrative (Islam absorbed; Persia endures) and structural reality (Sasanian state collapses; civilizational base persists) are compatible—state vs civilization. Doctrine optimized for one conflict type (peer parity, denial, endurance) fails when conflict type shifts (new actor, different velocity, novel legitimacy).
+
+Operational Meaning:
+• Conflict-type test: When assessing Persia (or peer-endurance states) vs a non-peer or post-exhaustion actor, ask whether the opponent is the same conflict type that existing doctrine is optimized for, or a new type (different velocity, legitimacy, or entry timing). If conflict type has shifted, treat denial/endurance optimised for peer conflict as potentially insufficient; consider exhaustion/vacuum and third-actor entry as structural possibilities.
+• Absorption vs collapse: State collapse and civilizational persistence can coexist; do not treat "we absorbed X; we endure" as contradicting structural "state collapsed; vacuum filled."
+• Liability layer unchanged: Who paid, who defected, what was irreversible still applies when state collapse and third-actor entry occur.
+
+Hard Constraints:
+• Doctrine is invalid or must be reviewed if: (1) evidence shows Arab (or analogous) conquest succeeded without prior exhaustion of both peer empires; (2) denial/endurance doctrine is shown to be effective against the same type of non-peer, post-vacuum actor across cases.
+
+────────────────────────────────────────────────────────────
+
 ────────────────────────────────────────────────────────────
 III. EXPLICITLY EXCLUDED MATERIAL
 ────────────────────────────────────────────────────────────
@@ -81,8 +109,8 @@ No doctrines have been rejected at this stage. Draft doctrines, candidate belief
 ────────────────────────────────────────────────────────────
 IV. MIRRORING
 ────────────────────────────────────────────────────────────
-Per CIV–DOCTRINE–TEMPLATE § VIII: CIV–DOCTRINE–PERSIA is mirrored verbatim into CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA. This file remains the single source of truth for doctrine definitions. DOCTRINE 01 is reflected in SCHOLAR Section XVIII (Doctrine Registry); mirror into CORE when governance provides.
+Per CIV–DOCTRINE–TEMPLATE § VIII: CIV–DOCTRINE–PERSIA is mirrored verbatim into CIV–CORE–PERSIA and CIV–SCHOLAR–PERSIA. This file remains the single source of truth for doctrine definitions. DOCTRINE 01 and DOCTRINE 02 are reflected in SCHOLAR Section XVIII (Doctrine Registry); mirror into CORE when governance provides.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–DOCTRINE–PERSIA — v1.1
+END OF FILE — CIV–DOCTRINE–PERSIA — v1.2
 ────────────────────────────────────────────────────────────

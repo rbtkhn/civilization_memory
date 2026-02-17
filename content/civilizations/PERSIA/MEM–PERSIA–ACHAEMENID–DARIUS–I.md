@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — v1.2
+MEM–PERSIA–ACHAEMENID–DARIUS–I — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -190,22 +190,22 @@ X. FIGURE STRUCTURED DATA (LAYER 2)
 XI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Darius systematizes Cyrus's precedent
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Darius as architect of imperial design
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — son; inherits empire and Greek frontier
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — distant successor; contrast systematic vs terminal reign
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Darius systematizes Cyrus's precedent
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Darius as architect of imperial design
+• MEM–PERSIA–ACHAEMENID–XERXES — son; inherits empire and Greek frontier
+• MEM–PERSIA–ACHAEMENID–DARIUS–III — distant successor; contrast systematic vs terminal reign
 • MEM–PERSIA–WAR–ALEXANDER — Achaemenid structure Darius built falls to Macedon
 • MEM–PERSIA–PERSEPOLIS — Darius initiates construction
 • MEM–PERSIA–MEDES — Darius consolidates Persian–Median fusion
 • MEM–PERSIA–EGYPT — Cambyses/Darius Egypt; satrapy
 • MEM–PERSIA–ZOROASTER — Ahura Mazda in Behistun ideology
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian restoration invokes Darius
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Sasanian restoration invokes Darius
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — northern frontier; Royal Road corridor
 • MEM–PERSIA–ARMENIA — satrapy; Behistun location
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (precedent); MEM–PERSIA–DYNASTY–ACHAEMENID (structural context).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–CYRUS–II (precedent); MEM–PERSIA–ACHAEMENID–DYNASTY (structural context).
 
 ────────────────────────────────────────────────────────────
 XII. BIBLIOGRAPHY
@@ -220,9 +220,9 @@ XII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XIII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I
+MEM INGEST CONFIRMED — MEM–PERSIA–ACHAEMENID–DARIUS–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — v1.2
+END OF FILE — MEM–PERSIA–ACHAEMENID–DARIUS–I — v1.2
 ────────────────────────────────────────────────────────────

@@ -310,7 +310,7 @@ This is the catalyst function — Barnes changes how the other
 minds see, not just what is said.
 
 ────────────────────────────────────────────────────────────
-III.A MODE AVAILABILITY (BINDING, updated CMC 3.2)
+III.A MODE AVAILABILITY (BINDING, updated CMC 3.3)
 ────────────────────────────────────────────────────────────
 All SCHOLAR modes: Barnes option REQUIRED (1 option mandatory in options menu)
 STATE mode: Barnes perspective applied via duty of competence
@@ -1402,7 +1402,7 @@ Forbidden:
 Violation constitutes a governance breach.
 
 ────────────────────────────────────────────────────────────
-XII. NAVIGATION PREFERENCES (CMC 3.2)
+XII. NAVIGATION PREFERENCES (CMC 3.3)
 ────────────────────────────────────────────────────────────
 When Barnes is active (via options menu Slot C or manual invocation),
 navigation affinities apply per PROTOCOL–MIND–NAVIGATION.
@@ -1419,7 +1419,7 @@ Source Affinities (HIGH):
 Concept Category Affinities (HIGH):
 • MECHANISM — Process, institution, procedure, liability
 
-Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.2)
+Reference: PROTOCOL–MIND–NAVIGATION (CMC 3.3)
 
 ────────────────────────────────────────────────────────────
 XIII. CANONICAL STATUS
@@ -1436,7 +1436,7 @@ Mode constraints are BINDING:
 This file defines *how* Barnes catalyzes insight —
 never *what* is true.
 
-Version aligned with CIV–MIND–TEMPLATE v3.0 (CMC 3.2).
+Version aligned with CIV–MIND–TEMPLATE v3.3 (CMC 3.3).
 
 ────────────────────────────────────────────────────────────
 XIII. SUMMARY: THE CATALYST FUNCTION

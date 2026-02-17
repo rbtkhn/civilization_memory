@@ -122,7 +122,7 @@ ENABLES:
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — IRI claim to have broken dependency; 1953 in CORE
 
 PARALLELS:
-• MEM–PERSIA–DYNASTY–QAJAR — Tobacco revolt; earlier resistance to concession erosion
+• MEM–PERSIA–QAJAR — Tobacco revolt; earlier resistance to concession erosion
 
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–PERSIAN–GULF — Oil; southern concessions; Anglo-Iranian

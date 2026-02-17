@@ -227,7 +227,7 @@ GEO (≥2):
 • MEM–ROME–GEO–AEGEAN–SEA — Greek world Philip unified
 
 Cross-civilizational:
-• MEM–PERSIA–ACHAEMENID — target Philip identified; Alexander destroyed
+• MEM–PERSIA–ACHAEMENID–DYNASTY — target Philip identified; Alexander destroyed
 • MEM–RUSSIA–ROMANOV–PETER–I — parallel system-builder who transformed a
   "backward" kingdom into a great power
 

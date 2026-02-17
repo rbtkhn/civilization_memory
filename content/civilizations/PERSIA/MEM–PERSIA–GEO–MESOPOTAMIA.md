@@ -20,13 +20,13 @@ GEO–MEM COGNITIVE DECLARATION (MANDATORY)
 ────────────────────────────────────────────────────────────
 This GEO–MEM expresses MEARSHEIMER STRATEGIC COGNITION.
 
-Content composition: Mearsheimer primary (strategic/terrain, corridor, capital vulnerability), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to rulers who place the capital in exposed lowland and to defenders when the corridor is breached (see MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II).
+Content composition: Mearsheimer primary (strategic/terrain, corridor, capital vulnerability), Mercouris secondary (ARC evidence, civilizational continuity). Barnes dimension: N/A—terrain does not assign liability to agents; liability attaches to rulers who place the capital in exposed lowland and to defenders when the corridor is breached (see MEM–PERSIA–WAR–ROME, MEM–PERSIA–SASANIAN–KHOSROW–II).
 
 GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
-For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–PARTHIAN, MEM–PERSIA–PALMYRA).
+For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–WAR–ROME, MEM–PERSIA–PARTHIAN, MEM–PERSIA–PALMYRA).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -197,9 +197,9 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–WAR–ROME — Roman armies reach Ctesiphon; Heraclius in Mesopotamia
 • MEM–PERSIA–WAR–CARRHAE — Euphrates as boundary; Crassus crosses and is destroyed
 • MEM–PERSIA–PALMYRA — Odaenathus besieges Ctesiphon; Mesopotamia undefended post-Valerian
-• MEM–PERSIA–DYNASTY–PARTHIAN — Capital at Ctesiphon (Mesopotamia)
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Valerian; capital at Ctesiphon
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Heraclius strikes Mesopotamia; reversal
+• MEM–PERSIA–PARTHIAN — Capital at Ctesiphon (Mesopotamia)
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Valerian; capital at Ctesiphon
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Heraclius strikes Mesopotamia; reversal
 • MEM–PERSIA–BABYLON — Babylon in Mesopotamia; Achaemenid incorporation
 • MEM–PERSIA–ARMENIA — Armenia between Anatolia and Mesopotamia
 • MEM–PERSIA–ROMAN–EMPIRE — Ctesiphon as symbol; parity contest
@@ -212,7 +212,7 @@ GEO (≥2):
 Cross-civilization:
 • MEM–ROME–GEO–SYRIA — Roman approach to Mesopotamia
 
-Breaks if removed: MEM–PERSIA–GEO–LEVANT (hinge); MEM–PERSIA–WAR–ROME (Ctesiphon reach); MEM–PERSIA–DYNASTY–PARTHIAN (capital).
+Breaks if removed: MEM–PERSIA–GEO–LEVANT (hinge); MEM–PERSIA–WAR–ROME (Ctesiphon reach); MEM–PERSIA–PARTHIAN (capital).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)

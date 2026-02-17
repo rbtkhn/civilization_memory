@@ -146,14 +146,14 @@ VIII. GEO STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cambyses as son; integrative precedent
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — suppresses revolt; canal; satrapal consolidation
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Egyptian revolt at accession
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Egypt as key satrapy
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Cambyses as son; integrative precedent
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — suppresses revolt; canal; satrapal consolidation
+• MEM–PERSIA–ACHAEMENID–XERXES — Egyptian revolt at accession
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Egypt as key satrapy
 • MEM–PERSIA–WAR–ALEXANDER — Alexander takes Egypt 332 BC
 • MEM–PERSIA–PERSEPOLIS — Egyptian tribute-bearers in Apadana reliefs
 • MEM–PERSIA–MEDES — pre-Egypt conquest
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — later Persian occupation of Egypt (Sasanian)
+• MEM–PERSIA–SASANIAN–KHOSROW–II — later Persian occupation of Egypt (Sasanian)
 • MEM–PERSIA–WAR–ROME — Roman Egypt; Persian–Roman contest
 • MEM–PERSIA–PALMYRA — Zenobia's Egyptian campaign (post-Persian)
 
@@ -165,7 +165,7 @@ Cross-civilization:
 • MEM–ROME–GEO–SYRIA — Levant corridor to Egypt
 • MEM–FRANCIA–EGYPT — Napoleon's Egypt (different civilizational encounter)
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (Cambyses); MEM–PERSIA–DYNASTY–ACHAEMENID (satrapy context).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–CYRUS–II (Cambyses); MEM–PERSIA–ACHAEMENID–DYNASTY (satrapy context).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY

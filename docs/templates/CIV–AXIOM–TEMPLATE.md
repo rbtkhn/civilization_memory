@@ -6,7 +6,7 @@ Status: ACTIVE · CANONICAL · TEMPLATE
 Version: 1.0
 Class: CIV–AXIOM (Template)
 Scope: GLOBAL (All Civilizations)
-Compatibility: CIV–MEM–CORE v3.3 · CIV–CORE–TEMPLATE v3.2 · CIV–DOCTRINE–TEMPLATE v3.2 · CIV–SCHOLAR–TEMPLATE
+Compatibility: CIV–MEM–CORE v3.3 · CIV–CORE–TEMPLATE v3.3 · CIV–DOCTRINE–TEMPLATE v3.3 · CIV–SCHOLAR–TEMPLATE
 Governance Authority: CIV–MEM–CORE v3.3
 Lock Level: TOTAL (Axiom-Only · No Learning)
 Last Update: February 2026

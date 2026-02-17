@@ -29,7 +29,7 @@ GEO–MEMs contain:
 • ARC verbatim quotes (~1/3): demonstrating permanent patterns through historical evidence
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
-For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–GEO–PERSIAN–GULF, MEM–PERSIA–DYNASTY–ACHAEMENID).
+For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–GEO–PERSIAN–GULF, MEM–PERSIA–ACHAEMENID–DYNASTY).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -247,12 +247,12 @@ V. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–PERSIAN–GULF — primary access corridor; Hormuz egress
 • MEM–PERSIA–GEO–CASPIAN — contrast: closed sea vs open ocean
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Indus satrapy; maritime reach
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Indus campaign; exploration
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Indus satrapy; maritime reach
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Indus campaign; exploration
 • MEM–PERSIA–WAR–ALEXANDER — Nearchus voyage; Gedrosia
 • MEM–PERSIA–EGYPT — Darius canal; Red Sea–Gulf–Indian Ocean connectivity
 • MEM–PERSIA–PERSEPOLIS — heartland; ocean as southern horizon
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian Gulf control
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Sasanian Gulf control
 • MEM–PERSIA–ISLAM — post-conquest trade networks
 • MEM–PERSIA–WAR–ROME — different theater (land)
 
@@ -264,7 +264,7 @@ Cross-civilization:
 • MEM–ROME–GEO–RED–SEA — Roman Indian Ocean access; Red Sea corridor
 • MEM–ROME–GREEK–ALEXANDER — Nearchus, Indica
 
-Breaks if removed: MEM–PERSIA–GEO–PERSIAN–GULF (access); MEM–PERSIA–DYNASTY–ACHAEMENID (Indus, extent).
+Breaks if removed: MEM–PERSIA–GEO–PERSIAN–GULF (access); MEM–PERSIA–ACHAEMENID–DYNASTY (Indus, extent).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)

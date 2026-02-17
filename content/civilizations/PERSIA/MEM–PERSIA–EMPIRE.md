@@ -92,7 +92,7 @@ Will Durant frames the limit of imperial integration:
 > of nations, and never thought of making them into a state."
 > — Will Durant, *Our Oriental Heritage* (1935), Ch. IX (Decadence – Persia); ARC–PERSIA-T-MODERN
 
-The Achaemenids govern **difference as a feature**; the Sasanians tighten centralization but retain the idea of a core (Iranian plateau, sacral center) and periphery (frontier, client, parity zones). Structural constraint: in **parity zones** (e.g. Levant), conquest does not imply consolidation—overextension invites reversal and exhaustion (see MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II, MEM–PERSIA–GEO–LEVANT). Empire therefore has **geographic grammar**: buffer, chokepoint, periphery, parity. Incentives differ by zone; no single hegemony rule applies everywhere.
+The Achaemenids govern **difference as a feature**; the Sasanians tighten centralization but retain the idea of a core (Iranian plateau, sacral center) and periphery (frontier, client, parity zones). Structural constraint: in **parity zones** (e.g. Levant), conquest does not imply consolidation—overextension invites reversal and exhaustion (see MEM–PERSIA–SASANIAN–KHOSROW–II, MEM–PERSIA–GEO–LEVANT). Empire therefore has **geographic grammar**: buffer, chokepoint, periphery, parity. Incentives differ by zone; no single hegemony rule applies everywhere.
 
 ────────────────────────────────────────────────────────────
 V. PARITY WARFARE & EXHAUSTION
@@ -166,15 +166,15 @@ X. MEM CONNECTIONS (TYPED)
 ────────────────────────────────────────────────────────────
 
 DEPENDS_ON:
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Foundational imperial architecture and satrapal design
-• MEM–PERSIA–DYNASTY–PARTHIAN — Confederal imperial link; denial warfare; Roman parity (247 BC–224 AD)
-• MEM–PERSIA–DYNASTY–SASANIAN — Restorative sacral consolidation and parity with Rome
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Foundational imperial architecture and satrapal design
+• MEM–PERSIA–PARTHIAN — Confederal imperial link; denial warfare; Roman parity (247 BC–224 AD)
+• MEM–PERSIA–SASANIAN–DYNASTY — Restorative sacral consolidation and parity with Rome
 • MEM–PERSIA–ZOROASTER — Moral–cosmic legitimacy engine for kingship
 
 ENABLES:
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian restoration as empire re-founding
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Triumphal Roman–Persian parity encoding
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Terminal overextension and exhaustion pattern
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Sasanian restoration as empire re-founding
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Triumphal Roman–Persian parity encoding
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Terminal overextension and exhaustion pattern
 • MEM–PERSIA–WAR–ROME — Seven-century parity war as institutional outcome
 • MEM–PERSIA–ROMAN–EMPIRE — Persia's encoding of Rome as parity rival
 

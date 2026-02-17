@@ -22,7 +22,7 @@ II. MEMs THAT REFERENCE KEEGAN (BY CIVILIZATION)
 • MEM–ISLAM–WAR–THIRD–CRUSADE — § V.B SOURCE EVIDENCE — KEEGAN (CIVILIZATION-CONTRAST). *The Mask of Command* (1987): mask of command, Napoleon (personal magnetism) vs Wellington (professional competence). Encoding: Richard (Napoleon-like) vs Saladin (Wellington-like); mutual admiration as recognition of leadership construction. Per RLL–ISLAM–0003, SYNTHESIS 0005.
 
 **PERSIA (applied insight; Keegan in ARC–PERSIA)**  
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — Applied insight: "The Persian center collapses when the king departs. Keegan's Waterloo insight applies: 'When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed.' Darius's flight is belief collapse." No SOURCE block; Keegan framing used to interpret Darius's flight.  
+• MEM–PERSIA–ACHAEMENID–DARIUS–III — Applied insight: "The Persian center collapses when the king departs. Keegan's Waterloo insight applies: 'When the Guard retreated, the army knew the battle was lost. The retreat became a rout not because of further combat but because belief had collapsed.' Darius's flight is belief collapse." No SOURCE block; Keegan framing used to interpret Darius's flight.  
 • MEM–PERSIA–WAR–CARRHAE — Cited in CIV–SCHOLAR–PERSIA (Keegan "little of oriental war" + cavalry vs unbroken infantry; Parthian mobility vs Roman legionary assumptions). MEM file itself may contain or reference Keegan; Scholar treats as civilization-contrast.
 
 **ANGLIA (ARC–ANGLIA; SOURCE / secondary)**  
@@ -68,7 +68,7 @@ V. FILES INGESTED (TRACEABILITY)
 | Civilization | File(s) | Keegan role |
 |--------------|--------|-------------|
 | ISLAM | MEM–ISLAM–CRUSADES, MEM–ISLAM–WAR–THIRD–CRUSADE | SOURCE block, civilization-contrast |
-| PERSIA | MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III | Applied insight (belief collapse) |
+| PERSIA | MEM–PERSIA–ACHAEMENID–DARIUS–III | Applied insight (belief collapse) |
 | PERSIA | CIV–SCHOLAR–PERSIA (MEM–PERSIA–WAR–CARRHAE) | Scholar citation, Keegan in ARC–PERSIA |
 | ANGLIA | MEM–ANGLIA–WAR–HASTINGS (+ many MEM–ANGLIA–*) | SOURCE/Secondary, ARC–ANGLIA |
 | FRANCIA | MEM–FRANCIA–* (multiple) | Per CIV–ARC–FRANCIA |

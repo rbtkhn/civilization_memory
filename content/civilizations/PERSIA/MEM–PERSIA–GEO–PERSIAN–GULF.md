@@ -26,7 +26,7 @@ GEO–MEMs preserve geography as permanent structural constraint.
 They answer: "What does this terrain DO to actors within it?"
 
 GEO–MEMs do NOT synthesize civilizational claims or polyphonic tension.
-For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–EGYPT, MEM–PERSIA–DYNASTY–ACHAEMENID).
+For full civilizational narrative, see subject MEMs (e.g. MEM–PERSIA–EGYPT, MEM–PERSIA–ACHAEMENID–DYNASTY).
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -240,13 +240,13 @@ V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–CASPIAN — contrast: closed vs open sea; north vs south
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Persian littoral from origin
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — canal (Nile–Red Sea); Gulf trade
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Persian littoral from origin
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — canal (Nile–Red Sea); Gulf trade
 • MEM–PERSIA–EGYPT — Darius canal links to Red Sea/Gulf system
 • MEM–PERSIA–PERSEPOLIS — Persian heartland; Gulf as southern boundary
 • MEM–PERSIA–WAR–ALEXANDER — Nearchus's voyage through Gulf
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Sasanian Gulf control
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — Sasanian extent; Gulf littoral
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Sasanian Gulf control
+• MEM–PERSIA–SASANIAN–KHOSROW–II — Sasanian extent; Gulf littoral
 • MEM–PERSIA–WAR–ROME — Gulf as Persian flank (contrast land theater)
 • MEM–PERSIA–ISLAMIC–REPUBLIC — contemporary chokepoint posture
 
@@ -258,7 +258,7 @@ Cross-civilization:
 • MEM–ROME–GEO–RED–SEA — parallel: chokepoint, trade corridor
 • MEM–ROME–GEO–EGYPT — Nile–Red Sea–Gulf connectivity
 
-Breaks if removed: MEM–PERSIA–GEO–CASPIAN (contrast); MEM–PERSIA–DYNASTY–ACHAEMENID (littoral origin).
+Breaks if removed: MEM–PERSIA–GEO–CASPIAN (contrast); MEM–PERSIA–ACHAEMENID–DYNASTY (littoral origin).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)

@@ -92,9 +92,9 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–CARRHAE — nomadic and Parthian denial; cavalry mobility; denial doctrine precedent
 • MEM–PERSIA–WAR–ALEXANDER — contrast: tempo defeats Persia vs Scythians defeat Darius
 Other:
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — expedition under Darius
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — expedition under Darius
 • MEM–PERSIA–GEO–CASPIAN — northern frontier; Scythian geography
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial limits
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial limits
 
 ────────────────────────────────────────────────────────────
 VII. WAR STRUCTURED DATA (LAYER 2)

@@ -12,7 +12,7 @@
 
 ## HIGH-PRIORITY CANDIDATES
 
-### 1. MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II
+### 1. MEM–PERSIA–ACHAEMENID–CYRUS–II
 
 **Thematic fit:** Cyrus as integrative conqueror; propaganda/liberation; Cyrus Cylinder; Babylonian conquest; tolerance rhetoric; tribal confederacy.
 
@@ -23,11 +23,11 @@
 
 **Book quote target:** *Persians* ch. on Babylon conquest, Cyrus Cylinder—liberation rhetoric, Marduk blessing. Extract verbatim from text.
 
-**Enhancement rationale:** MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II currently has no modern ARC quote; Llewellyn-Jones supplies "Persian version" framing for integrative conquest and propaganda.
+**Enhancement rationale:** MEM–PERSIA–ACHAEMENID–CYRUS–II currently has no modern ARC quote; Llewellyn-Jones supplies "Persian version" framing for integrative conquest and propaganda.
 
 ---
 
-### 2. MEM–PERSIA–DYNASTY–ACHAEMENID
+### 2. MEM–PERSIA–ACHAEMENID
 
 **Thematic fit:** Satrapal administration; *laisser-faire* governance; local systems preserved; tribute over homogenization; Persian vs Roman/British imperial model.
 
@@ -41,7 +41,7 @@
 
 **Book quote target:** *Persians* Part II "Being Persian" — bureaucracy, satraps; Part I — imperial administration. Extract verbatim.
 
-**Enhancement rationale:** MEM–PERSIA–DYNASTY–ACHAEMENID has no verbatim modern quotes; Llewellyn-Jones reinforces "modular governance" and Persian distinctiveness.
+**Enhancement rationale:** MEM–PERSIA–ACHAEMENID–DYNASTY has no verbatim modern quotes; Llewellyn-Jones reinforces "modular governance" and Persian distinctiveness.
 
 ---
 
@@ -103,7 +103,7 @@
 
 ---
 
-### 7. MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I
+### 7. MEM–PERSIA–SASANIAN–ARDASHIR–I
 
 **Thematic fit:** Achaemenid restoration ideology; Persian continuity; "Persian version" of dynastic overthrow.
 
@@ -117,13 +117,13 @@
 
 | MEM | Section | Quote Type | Priority |
 |-----|---------|------------|----------|
-| MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II | III or IV | Propaganda, Cylinder, liberation | HIGH |
-| MEM–PERSIA–DYNASTY–ACHAEMENID | III or V | Satraps, *laisser-faire*, cavalry | HIGH |
+| MEM–PERSIA–ACHAEMENID–CYRUS–II | III or IV | Propaganda, Cylinder, liberation | HIGH |
+| MEM–PERSIA–ACHAEMENID–DYNASTY | III or V | Satraps, *laisser-faire*, cavalry | HIGH |
 | MEM–PERSIA–WAR–ALEXANDER | I or II | Marathon minor; Persian encoding | HIGH |
 | MEM–PERSIA–WAR–CARRHAE | III | Parthian shot, cavalry tradition | HIGH |
 | MEM–PERSIA–ZOROASTER | II or V | Oral tradition; Zarathustra chapter | HIGH |
 | MEM–PERSIA–WAR–ROME | (general) | Orientalism, sophistication | MEDIUM |
-| MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I | II or V | Restoration, reception | MEDIUM |
+| MEM–PERSIA–SASANIAN–ARDASHIR–I | II or V | Restoration, reception | MEDIUM |
 
 ---
 

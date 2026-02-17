@@ -136,22 +136,22 @@ VIII. INSTITUTION STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — overthrows Astyages; incorporates Medes
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Median fusion creates dynastic base
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Media as satrapy; Ecbatana royal residence
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Median forces in Greek campaign
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — overthrows Astyages; incorporates Medes
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Median fusion creates dynastic base
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Media as satrapy; Ecbatana royal residence
+• MEM–PERSIA–ACHAEMENID–XERXES — Median forces in Greek campaign
 • MEM–PERSIA–PERSEPOLIS — contrast with Ecbatana (summer capital)
 • MEM–PERSIA–WAR–CARRHAE — Parthian cavalry inherits Iranian tradition
 • MEM–PERSIA–WAR–ALEXANDER — Alexander takes Ecbatana
 • MEM–PERSIA–EGYPT — Median period precedes Persian Egypt
 • MEM–PERSIA–ZOROASTER — Median territory; possible Zoroastrian transmission
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I — Iranian kingship invokes pre-Achaemenid past
+• MEM–PERSIA–SASANIAN–ARDASHIR–I — Iranian kingship invokes pre-Achaemenid past
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — plateau geography
 • MEM–PERSIA–ARMENIA — Armenian–Median interface
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II (overthrow); MEM–PERSIA–DYNASTY–ACHAEMENID (fusion).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–CYRUS–II (overthrow); MEM–PERSIA–ACHAEMENID–DYNASTY (fusion).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY

@@ -206,7 +206,7 @@ TSP GOVERNANCE RULES:
 • Cross-civilizational connections are informational, not structural
 • TSP designation does not alter index governance rules
 
-Reference: CIV–MEM–CORE v3.2, Section XXIX
+Reference: CIV–MEM–CORE v3.3, Section XXIX
 
 ────────────────────────────────────────────────────────────
 IV. CANONICAL GOVERNANCE FILES REGISTRATION

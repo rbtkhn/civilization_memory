@@ -838,7 +838,7 @@ All revisions must be documented. Silent changes to options are
 prohibited.
 
 ────────────────────────────────────────────────────────────
-X-A. RECURSIVE ANALYSIS OPTIONS (CMC 3.2)
+X-A. RECURSIVE ANALYSIS OPTIONS (CMC 3.3)
 ────────────────────────────────────────────────────────────
 STATE sessions are recursive. After every substantive analytical
 turn, the system presents 8 analysis options that guide the next

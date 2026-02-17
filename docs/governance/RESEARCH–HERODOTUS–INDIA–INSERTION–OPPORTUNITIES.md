@@ -29,8 +29,8 @@
 
 | Priority | MEM file | Section | Passage(s) | Rationale |
 |----------|----------|---------|------------|-----------|
-| **PERSIA** | MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I | III (Satrapal System) + new III.A | III.94, IV.44 | Darius formalized satrapies; commissioned Scylax; India as 20th satrapy |
-| **PERSIA** | MEM–PERSIA–DYNASTY–ACHAEMENID | III (tribute) | III.94 | India as largest tribute (gold dust); imperial extent |
+| **PERSIA** | MEM–PERSIA–ACHAEMENID–DARIUS–I | III (Satrapal System) + new III.A | III.94, IV.44 | Darius formalized satrapies; commissioned Scylax; India as 20th satrapy |
+| **PERSIA** | MEM–PERSIA–ACHAEMENID–DYNASTY | III (tribute) | III.94 | India as largest tribute (gold dust); imperial extent |
 | **PERSIA** | MEM–PERSIA–SATRAPIES | II (tribute structure) | III.94 | India as example of satrapy diversity (gold dust) |
 | **INDIA (cross-ARC)** | MEM–INDIA–GEO–INDUS–RIVER | New V.A before VI | III.94, IV.44 | Indus in Greek/Persian record; India as Persian satrapy; Scylax voyage (ARC–PERSIA-T-ANCIENT) |
 | **INDIA (cross-ARC)** | MEM–INDIA–WAR–ALEXANDER | New V (EVIDENCE) | III.94, IV.44 | Pre-Alexander northwest India under Persia; Indus as boundary (ARC–PERSIA-T-ANCIENT) |
@@ -42,7 +42,7 @@
 ## III. STATUS
 
 Insertions implemented February 2026. All five opportunities completed:
-• PERSIA: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (v1.1), MEM–PERSIA–DYNASTY–ACHAEMENID (v1.3), MEM–PERSIA–SATRAPIES (v1.1)
+• PERSIA: MEM–PERSIA–ACHAEMENID–DARIUS–I (v1.1), MEM–PERSIA–ACHAEMENID–DYNASTY (v1.3), MEM–PERSIA–SATRAPIES (v1.1)
 • INDIA (cross-ARC): MEM–INDIA–GEO–INDUS–RIVER (v2.1), MEM–INDIA–WAR–ALEXANDER (v2.0)
 See VERSION–MANIFEST entry "PERSIA / INDIA MEM — HERODOTUS INDIA INSERTION."
 

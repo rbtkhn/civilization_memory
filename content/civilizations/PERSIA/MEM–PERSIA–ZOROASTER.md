@@ -1,10 +1,10 @@
-MEM–PERSIA–ZOROASTER — v1.4
+MEM–PERSIA–ZOROASTER — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.4
-Upgrade Type: Content composition rule (new MIND rule): structural context (legitimacy distribution, incentive); Barnes dimension (liability of kings who violate Asha; N/A for Zoroaster as figure). No numerical proportions.
+Version: 1.5
+Upgrade Type: ADDITIVE · Jiang Xueqin verbatim (administrative filter, eschatological pressure)
 Civilization: PERSIA
 Subject: Zoroaster (Zarathustra)
 Dates: c. 1500–1000 BC (traditional range; uncertainty preserved)
@@ -116,6 +116,32 @@ Transmission channels:
 • Legal–moral codes embedded in administration
 
 Religion operates as **civilizational software**, not personal mysticism.
+It also functioned as an **administrative filter**: belief and ritual
+selected the cadre that would govern. Jiang Xueqin:
+
+> "If you want to be a bureaucrat within this system you have to believe
+> in Zoroastrianism, you have to participate in the rituals and the rites
+> of Zoroastrianism, and what made the system work is Zoroastrianism was
+> at this time—600 BC, 500 BC—the best religion in the world…. They're not
+> trying to promote their religion; they're trying to use their religion
+> to filter out the best and the brightest."  
+> — Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube); ARC–PERSIA-T-MODERN
+
+Eschatology—final judgment, eternal reward or punishment—placed
+administrators under moral pressure:
+
+> "If you are to be an administrator, if you are to work for the Empire
+> and you believe in Zoroastrianism, then you have a duty to fight for the
+> truth. We're here at most for 60, 80 years and what we do in the 60, 80
+> years will decide how we live our lives for all eternity—we either live
+> in Paradise or we will burn in hell depending on how we perform these
+> 60 to 80 years. So the Persians are under tremendous pressure to be a
+> good person."  
+> — Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube); ARC–PERSIA-T-MODERN
+
+The disciplinary theology of rule thus operated at the level of personnel:
+cosmic judgment made conscientiousness and incorruptibility the condition
+of imperial service.
 
 ────────────────────────────────────────────────────────────
 VI. ETHICS OF ENDURANCE
@@ -192,9 +218,10 @@ XII. BIBLIOGRAPHY
 • Avesta, Yasna 30.3–4 (Gathas), tr. Stanley Insler (1975) — ARC–PERSIA-T-ANCIENT; two spirits, moral dualism
 • Herodotus, *Histories*, I.131–132 — Persian religion, sacrifice, Magi, king's welfare
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — ch. "Also sprach Zarathustra"; oral tradition; FiveBooks interview (2020)
+• Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube) — Zoroastrianism as administrative filter, eschatological pressure on administrators; ARC–PERSIA-T-MODERN
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–ZOROASTER — v1.4
+END OF FILE — MEM–PERSIA–ZOROASTER — v1.5
 ────────────────────────────────────────────────────────────

@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — v2.1
+MEM–PERSIA–ACHAEMENID–XERXES — v2.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -177,12 +177,12 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ALEXANDER — Alexander inverts Xerxes; Greek penetrates Persia
 • MEM–PERSIA–IONIAN–REVOLT — causal chain; Greek question origin
 Other PERSIA:
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — father; inherits Greek frontier
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — father; inherits Greek frontier
 • MEM–PERSIA–PERSEPOLIS — Xerxes completes construction
 • MEM–PERSIA–EGYPT — revolt at accession; satrapy
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — integrative precedent (Xerxes departs at Greece)
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — integrative precedent (Xerxes departs at Greece)
 • MEM–PERSIA–ZOROASTER — arta/druj ideology
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — terminal Achaemenid (contrast)
+• MEM–PERSIA–ACHAEMENID–DARIUS–III — terminal Achaemenid (contrast)
 • MEM–PERSIA–MEDES — Persian–Median forces in Greek campaign
 • MEM–PERSIA–WAR–ROME — later Roman–Persian interface (different encoding)
 
@@ -190,7 +190,7 @@ GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — northern flank
 • MEM–PERSIA–ARMENIA — satrapy; army contingent
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (succession); MEM–PERSIA–WAR–ALEXANDER (Greek–Persian encoding contrast).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–DARIUS–I (succession); MEM–PERSIA–WAR–ALEXANDER (Greek–Persian encoding contrast).
 
 ────────────────────────────────────────────────────────────
 X. BIBLIOGRAPHY
@@ -206,9 +206,9 @@ X. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XI. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES
+MEM INGEST CONFIRMED — MEM–PERSIA–ACHAEMENID–XERXES
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — v2.1
+END OF FILE — MEM–PERSIA–ACHAEMENID–XERXES — v2.1
 ────────────────────────────────────────────────────────────

@@ -148,10 +148,10 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–THERMOPYLAE — Xerxes inherits; campaign sequence
 • MEM–PERSIA–WAR–ALEXANDER — Greek–Persian interface; encoding contrast
 Other:
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Greek question; Thermopylae, Salamis
+• MEM–PERSIA–ACHAEMENID–XERXES — Greek question; Thermopylae, Salamis
 • MEM–PERSIA–LYDIA — Sardis sacked; Royal Road terminus
-• MEM–PERSIA–DYNASTY–ACHAEMENID — satrapal governance
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — expedition authority; Royal Road, administration
+• MEM–PERSIA–ACHAEMENID–DYNASTY — satrapal governance
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — expedition authority; Royal Road, administration
 
 Breaks if removed: MEM–PERSIA–WAR–MARATHON (causal chain).
 

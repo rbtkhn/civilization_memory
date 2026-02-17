@@ -1,12 +1,12 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.3
+MEM–PERSIA–ACHAEMENID–CYRUS–II — v1.4
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.3
-Upgrade Type: Content composition rule (new MIND rule): structural note (incentive: incorporation); Barnes dimension (who on the hook, who benefited, irreversibility). No numerical proportions.
+Version: 1.4
+Upgrade Type: ADDITIVE · Jiang Xueqin verbatim (divide and rule)
 Civilization: PERSIA
-Subject: Cyrus II “the Great” — Achaemenid Founder
+Subject: Cyrus II "the Great" — Achaemenid Founder
 Dates: c. 600–530 BC
 Class: MEM (Civilizational Memory)
 Governance: CIV–MEM–CORE v2.9 · CIV–MEM–TEMPLATE v2.9
@@ -113,7 +113,19 @@ Though not fully systematized, Cyrus establishes templates for:
 • Long-distance logistical coordination
 • Legal pluralism under imperial ceiling
 
-Order is achieved through delegation, not micromanagement.
+Order is achieved through delegation, not micromanagement. Stability
+came not only from tolerance but from balancing local factions so that
+they depended on the centre. Jiang Xueqin:
+
+> "If you really want to control people you have to use a policy called
+> divide and rule. The idea is this: before these empires the Akkadians,
+> Assyrians, the Babylonians they believe that to use violence and fear to
+> control people—but when you do that all you do is you anger people, unite
+> them and force them to rebel against you. But if you realize that in each
+> society there are these natural factions who are in conflict with each
+> other and you're able to balance these factions then they're relying on
+> you for stability."  
+> — Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube); ARC–PERSIA-T-MODERN
 
 ────────────────────────────────────────────────────────────
 VI. IMPERIAL IDENTITY FORMATION
@@ -163,7 +175,8 @@ X. BIBLIOGRAPHY
 • Herodotus, *Histories*, I.87 — Cyrus and Croesus; integrative sovereignty
 • Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of gods and peoples
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — Cyrus, propaganda, liberation rhetoric; FiveBooks interview (2020)
+• Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube) — divide and rule as stability mechanism; ARC–PERSIA-T-MODERN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — v1.3
+END OF FILE — MEM–PERSIA–ACHAEMENID–CYRUS–II — v1.4
 ────────────────────────────────────────────────────────────

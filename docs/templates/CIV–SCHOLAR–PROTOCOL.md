@@ -446,7 +446,7 @@ the response must show genuine reframing, not repetition. Where applicable,
 include second-order option: Explain why [MIND] encodes [subject] the way
 they do (Scholar-on-Scholar / CCM). See TEST–DESIGN docs, RUN–REPORT–M–M–*.
 
-OGE — MIND NAVIGATION (CMC 3.2):
+OGE — MIND NAVIGATION (CMC 3.3):
 MIND influences navigation, not just voice. Per PROTOCOL–MIND–NAVIGATION:
 
 MIND ACTIVATION:
@@ -822,7 +822,7 @@ STATE SCHEMA (what constitutes cognitive state):
 │ CORE STATE (required for valid session)                         │
 ├─────────────────────────────────────────────────────────────────┤
 │ • governance_binding: string                                    │
-│   – e.g., "CMC 3.2"                                             │
+│   – e.g., "CMC 3.3"                                             │
 │   – Determines which governance rules apply                     │
 │                                                                 │
 │ • active_mode: enum [LEARN, WRITE, IMAGINE]                     │
@@ -855,7 +855,7 @@ To resume from saved state, declare at session start:
 
 ```
 STATE LOAD:
-  governance_binding: "CMC 3.2"
+  governance_binding: "CMC 3.3"
   active_mode: LEARN
   active_civilization: ANGLIA
   active_phase: I
@@ -864,7 +864,7 @@ STATE LOAD:
 
 Alternatively, minimal declaration:
 ```
-Bound by CMC 3.2. LEARN mode. ANGLIA. Phase I.
+Bound by CMC 3.3. LEARN mode. ANGLIA. Phase I.
 ```
 
 STATE VALIDATION (invariants for valid state):

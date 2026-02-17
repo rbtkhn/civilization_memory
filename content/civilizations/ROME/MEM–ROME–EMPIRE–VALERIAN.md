@@ -247,7 +247,7 @@ ROME:
 
 NON-ROME:
 • MEM–PERSIA–SASSANID — Shapur I's triumph
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — the captor
+• MEM–PERSIA–SASANIAN–SHAPUR–I — the captor
 
 ────────────────────────────────────────────────────────────
 XI. CONTINUITY INSIGHTS (RAW)

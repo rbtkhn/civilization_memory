@@ -260,7 +260,7 @@ ROME:
 • MEM–ROME–CONSTANTINOPLE — capital Maurice lost
 
 NON-ROME:
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — ally who became avenger
+• MEM–PERSIA–SASANIAN–KHOSROW–II — ally who became avenger
 • MEM–AVAR–KHAGANATE — Balkan enemy Maurice fought
 
 ────────────────────────────────────────────────────────────

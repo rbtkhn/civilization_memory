@@ -164,13 +164,13 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ALEXANDER — prior conquest trauma; Carrhae as reversal
 • MEM–PERSIA–WAR–SCYTHIAN — denial precedent (Scythians vs Darius); nomadic resistance
 Other PERSIA:
-• MEM–PERSIA–DYNASTY–PARTHIAN — Parthian dynasty; denial doctrine; Carrhae as founding proof
-• MEM–PERSIA–DYNASTY–SASANIAN — Sasanians inherit Parthian denial doctrine
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial continuity
+• MEM–PERSIA–PARTHIAN — Parthian dynasty; denial doctrine; Carrhae as founding proof
+• MEM–PERSIA–SASANIAN–DYNASTY — Sasanians inherit Parthian denial doctrine
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial continuity
 • MEM–PERSIA–ZOROASTER — endurance as moral duty
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — sovereignty through restraint
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — later Roman humiliation (Valerian)
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal Roman–Persian war
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — sovereignty through restraint
+• MEM–PERSIA–SASANIAN–SHAPUR–I — later Roman humiliation (Valerian)
+• MEM–PERSIA–SASANIAN–KHOSROW–II — terminal Roman–Persian war
 • MEM–PERSIA–ARMENIA — buffer contested at Carrhae margins
 • MEM–PERSIA–ISLAM — post-exhaustion absorption
 

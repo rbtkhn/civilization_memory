@@ -1,10 +1,10 @@
-MEM–PERSIA–BABYLON — v1.2
+MEM–PERSIA–BABYLON — v1.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
-Version: 1.2
-Upgrade Type: ADDITIVE · indigenous-language quote (Cyrus Cylinder)
+Version: 1.3
+Upgrade Type: ADDITIVE · Jiang Xueqin verbatim (divide and rule, Levant strategy)
 Civilization: PERSIA
 Regime: ACHAEMENID
 Subject: Cyrus's Conquest of Babylon — Liberation Narrative, Integrative Legitimacy
@@ -86,20 +86,53 @@ annihilation—the same pattern as Lydia (Croesus spared) and later
 satrapies.
 
 ────────────────────────────────────────────────────────────
-V. MEM CONNECTIONS
+V. DIVIDE AND RULE AND LEVANT STRATEGY
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cyrus; integrative conquest; Llewellyn-Jones quote
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Mesopotamian incorporation
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Babylon as satrapy; later administration
+The liberation narrative had an instrumental layer: stability through
+balanced factions rather than through terror. Jiang Xueqin articulates
+the mechanism:
+
+> "If you really want to control people you have to use a policy called
+> divide and rule and the idea is this: before these empires the
+> Akkadians, Assyrians, the Babylonians they believe that to use violence
+> and fear to control people but when you do that all you do is you anger
+> people, unite them and force them to rebel against you. But if you
+> realize that in each society there are these natural factions who are
+> in conflict with each other and you're able to balance these factions
+> then they're relying on you for stability."  
+> — Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube); ARC–PERSIA-T-MODERN
+
+The return of the Jews to Jerusalem fits that logic. Cyrus was not
+acting from pity alone:
+
+> "He's not doing it because he feels sorry for the Jews; he's doing it
+> because there's a certain strategic purpose in allowing them to return
+> to Jerusalem. The reason why is Jerusalem, the Levant—as we discussed
+> it is very important geographically, it marks access into Egypt which
+> is what Cyrus the great eventually wants to conquer—so he needs to bring
+> stability to the Levant and in the Persian worldview what creates
+> stability is the balancing of forces within the local area."  
+> — Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube); ARC–PERSIA-T-MODERN
+
+Same act, two encodings: legitimacy (Cylinder, restoration) and
+stability (Levant corridor, arbiter between factions).
 
 ────────────────────────────────────────────────────────────
-VI. BIBLIOGRAPHY
+VI. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Cyrus; integrative conquest; Llewellyn-Jones quote
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Mesopotamian incorporation
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Babylon as satrapy; later administration
+
+────────────────────────────────────────────────────────────
+VII. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Cyrus Cylinder (539 BCE) — liberation narrative; restoration; tr. Irving Finkel (British Museum); ARC–PERSIA-T-ANCIENT
 • Herodotus, *Histories*, I.178–191 (I.190 verbatim) — conquest account
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022); FiveBooks interview (2020)
 • Amélie Kuhrt, *The Persian Empire: A Corpus of Sources* — Nabonidus Chronicle
+• Jiang Xueqin, lecture "Civilization #23: Cyrus the Great as Messiah," Predictive History (YouTube) — divide and rule, Levant strategy; ARC–PERSIA-T-MODERN
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–BABYLON — v1.2
+END OF FILE — MEM–PERSIA–BABYLON — v1.3
 ────────────────────────────────────────────────────────────

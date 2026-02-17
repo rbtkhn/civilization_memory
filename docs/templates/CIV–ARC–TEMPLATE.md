@@ -478,7 +478,7 @@ Each ARC–[CIV] MAY add further blacklist entries (civilization-
 specific exclusions). The Wikipedia entry is mandatory for all.
 
 ────────────────────────────────────────────────────────────
-X. LIVING ARC (CMC 3.2 — OPTIONAL)
+X. LIVING ARC (CMC 3.3 — OPTIONAL)
 ────────────────────────────────────────────────────────────
 When PROPOSAL–LIVING–ARC is implemented, ARC files may include
 additional sections for source lifecycle tracking.

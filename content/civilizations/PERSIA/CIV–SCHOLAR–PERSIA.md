@@ -17,7 +17,7 @@ ARC Reference: CIV–ARC–PERSIA v3.1
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA
 Last Update: February 2026
 
-Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion; GEO four-zone + overextension liability (ENTRY 0006, SYNTHESIS 0005); STATE→Scholar relay (ENTRY 0007); SYNTHESIS 0005 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02).
+Upgrade Type: ADDITIVE · WAR corpus integration; v2.0 MEM batch; Persia–Islam overlap (Mearsheimer); Source MEM expansion; GEO four-zone + overextension liability (ENTRY 0006, SYNTHESIS 0005); STATE→Scholar relay (ENTRY 0007); SYNTHESIS 0005 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02). SYNTHESIS 0004 accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 02 (DIB–PERSIA 2026-02-17; RUN–EXERCISE–A). RELAY: ENTRY 0008 — binding-exercises summary (A–D) and outcomes relayed to LEARN session.
 
 UPGRADE NOTE (v1.0 → v2.0): ENTRY 0004 (WAR corpus), 0005 (Persia–Islam); SYNTHESIS 0004 (Persia–Islam structural); Source MEMs expanded to 34; ARC v1.3. ADDITIVE: ENTRY 0006 (GEO cluster + Sasanian forward + Barnes liability); SYNTHESIS 0005 (GEO four-zone pattern + overextension liability; RLL candidate). RELAY: ENTRY 0007 (STATE session pending US–Iran escalation, week of 7 Feb 2026; application of GEO four-zone and Khosrow/Kavadh liability; Iran perspective).
 
@@ -36,7 +36,7 @@ This file preserves: what was ingested; when it was ingested; what beliefs were 
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–PERSIA. No Scholar file may override MEM law, ARC law, or Template law.
 
-CIV–CORE–PERSIA v2.0 governs diagnostic outputs (DS, PAC, SGC, LHC, Fortress Integrity, Siege Clearance, Compute Sovereignty, Escalation Control, SAF-PE, THI-PE, DSP-PE, EVT-PE, EPL-1, GRID-PE, RIR-PE, Hardening Layers). This Scholar records learning; it does not replace CORE logic.
+CIV–CORE–PERSIA v3.3 governs diagnostic outputs (DS, PAC, SGC, LHC, Fortress Integrity, Siege Clearance, Compute Sovereignty, Escalation Control, SAF-PE, THI-PE, DSP-PE, EVT-PE, EPL-1, GRID-PE, RIR-PE, Hardening Layers). This Scholar records learning; it does not replace CORE logic.
 
 ────────────────────────────────────────────────────────────
 II. SCHOLAR PHASE MODEL (HARD)
@@ -204,7 +204,7 @@ KEEGAN VERBATIM QUOTES (absorbed from repository):
 PERSIA APPLICABILITY:
 • MEM–PERSIA–WAR–CARRHAE: Keegan's "little of oriental war" (Clausewitz) + cavalry vs unbroken infantry (Waterloo) contrast Parthian mobility with Roman legionary assumptions. "Civilised warfare" (institutional restraint) vs Persian denial doctrine.
 • MEM–PERSIA–WAR–ROME: Roman citizen-army vs Persian cataphract/sacral model; command coherence (Actium) vs Surena's elasticity.
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I, MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I: "Mask of command" (leader as followers need) — Shapur's rock reliefs encode triumphal mask; Ardashir's restoration mask.
+• MEM–PERSIA–SASANIAN–SHAPUR–I, MEM–PERSIA–SASANIAN–ARDASHIR–I: "Mask of command" (leader as followers need) — Shapur's rock reliefs encode triumphal mask; Ardashir's restoration mask.
 • MEM–PERSIA–WAR–ALEXANDER: Caesar at Pharsalus (personal command) vs Alexander's charismatic conquest; "belief collapsed" (Waterloo) vs Persian court cohesion under invasion.
 • Cross-ARC: Keegan authorized in ARC–ANGLIA; citation requires ARC–DISCOVERY or cross-civilization declaration per CIV–ARC–TEMPLATE § V.
 
@@ -220,7 +220,7 @@ Belief Status:
 
 ENTRY 0003
 Source:
-• LEARN session; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II; tri-frame application
+• LEARN session; MEM–PERSIA–SASANIAN–KHOSROW–II; tri-frame application
 Ingest Type:
 • Tri-Frame Analytical Session — Keegan/Mearsheimer/Barnes/Mercouris on Khosrow II
 Primary Belief Extracted:
@@ -250,7 +250,7 @@ Belief Status:
 
 ENTRY 0006
 Source:
-• LEARN session; Persia GEO cluster (MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT); forward traversal MEM–PERSIA–WAR–ROME, MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II; Barnes lens on liability
+• LEARN session; Persia GEO cluster (MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT); forward traversal MEM–PERSIA–WAR–ROME, MEM–PERSIA–SASANIAN–KHOSROW–II; Barnes lens on liability
 Ingest Type:
 • Strategic-Historical Analysis — Mearsheimer (GEO cluster) → Forward (Sasanian) → Barnes (liability/irreversibility)
 Primary Belief Extracted:
@@ -265,6 +265,22 @@ Ingest Type:
 • Current-Event Application — GEO four-zone + overextension/liability to US–Iran escalation (STATE → Scholar relay)
 Primary Belief Extracted:
 • Scholar-Persia's GEO four-zone pattern (SYNTHESIS 0005, ENTRY 0006) and Khosrow/Kavadh liability pattern (SYNTHESIS 0003, 0005) were applied in STATE mode to reported US preparations for potentially weeks-long Iran operations (week of 7 Feb 2026: second carrier, Oman/Geneva talks, Iran enrichment posture). Structural reading: Gulf chokepoint favours Iranian denial; sustained US campaign faces closure-capacity deficit and exhaustion risk (reach without hold). From Iran's perspective: liability attaches to level of retaliation (Supreme Leader, IRGC); defection risk runs toward restraint or toward escalation; Khosrow precedent implies over-retaliation by Iran could trigger exhaustion and Kavadh-like defection, while calibrated denial aligns with Gulf MEM and preserves elite cohesion. Three-perspective assessment from Iran's perspective on Branch 1 (campaign ordered): legitimacy (resistance narrative vs over/under-response), power/structure (denial rational, escalation risky), liability (who owns retaliation choice and defection). Tensions preserved. No doctrine or forecast; application only.
+Belief Status:
+• UNFROZEN
+
+ENTRY 0008
+Source:
+• LEARN session; PLAN–SCHOLAR–PERSIA–BINDING–EXERCISES–2026–02–17; RUN–EXERCISE–A/B/C/D 2026-02-17; DIB–PERSIA (SYNTHESIS 0004 → DOCTRINE 02)
+Ingest Type:
+• Session Relay — Binding-Readiness Tests (Exercises A–D) Summary
+Primary Belief Extracted:
+• **Exercise A (SYNTHESIS 0004 — Persia–Islam structural):** Counter-evidence scan (MEMs ISLAM, DYNASTY–SASANIAN, KHOSROW–II, WAR–ROME) found no counter-evidence; ACH favoured exhaustion/vacuum (H1). Assumptions Box and operational meaning drafted. Overlap check: 0004 distinct from DOCTRINE 01 (structural transition vs geography/liability). **Result: BOUND as DOCTRINE 02** (DIB–PERSIA 2026-02-17). CIV–DOCTRINE–PERSIA v1.2; CIV–SCHOLAR–PERSIA SYNTHESIS 0004 status and Section XVIII/XXI updated.
+• **Exercise B (SYNTHESIS 0003 — Khosrow II tri-frame):** Redundancy: 0003 adds procedural constraint (multi-frame for overextension) not new substantive content; DOCTRINE 01 already encodes Khosrow. Counter-case scan (Khosrow, Darius III): all four frames apply; no single-frame sufficiency. **Result: RETAIN UNBINDING** (light procedural constraint; overlaps non-synthesis and three-perspective practice).
+• **Exercise C (SYNTHESIS 0001 — Carrhae tri-frame):** Primarily descriptive; MEM supports repeatability as type (founding/archetypal events). No single-frame freeze; meta-rule only. **Result: RETAIN UNBINDING** (pedagogical/archival value; narrow meta-rule; consistent with 0003 retained).
+• **Exercise D (RLL candidate in DOCTRINE 01):** Phase II gate—RLL binding deferred until Phase II. Redundancy: RLL text = core of DOCTRINE 01. **Result: DEFERRED until Phase II; then recommend doctrine-only** (no RLL–PERSIA–0001 unless namespace consistency later requires it).
+
+Session continuation (LEARN): **Conflict-type test (DOCTRINE 02)** applied. Three structural thresholds for "no longer peer denial": (1) force ratio—one side or third actor gains closure capacity; (2) exhaustion—both peers depleted, third actor enters vacuum (cf. 628→630s); (3) velocity—sustained tempo/incentive shift so endurance is not the binding constraint. **Present-day case:** US–Iran / Gulf–Levant—multi-mind pass: Gulf as chokepoint (doctrine fits); risk if overextension in parity zone (Levant) or conflict type shifts. **Forward 1–5 years:** paths via force-ratio shift, mutual exhaustion + third-actor entry, or tempo change; doctrine identifies what to watch for, not forecast. Tensions preserved.
+
 Belief Status:
 • UNFROZEN
 
@@ -288,7 +304,7 @@ Tension Record:
 Verdict: TENSION PRESERVED. No resolution. CCM applies: divergence expected.
 
 SYNTHESIS 0003 — TRI-FRAME TENSION: KHOSROW II
-Source: ENTRY 0003; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
+Source: ENTRY 0003; MEM–PERSIA–SASANIAN–KHOSROW–II
 Assumptions: (1) Khosrow II is analyzable through multiple frames; (2) frames converge on overextension; (3) contrast with Shapur (denial vs conquest) enriches; (4) synthesis forbidden—tension preserved.
 Confidence: UNBINDING (Phase I)
 
@@ -303,9 +319,37 @@ Tension Record:
 Verdict: TENSION PRESERVED. Frames converge on overextension; emphasis diverges. CCM applies.
 
 SYNTHESIS 0004 — PERSIA–ISLAM STRUCTURAL TRANSITION (MEARSHEIMER)
-Source: ENTRY 0005; Persia–Islam overlap analysis
-Assumptions: (1) Power distribution and exhaustion explain Arab success; (2) Persian absorption narrative and structural collapse are compatible (state vs civilization); (3) doctrine optimized for one conflict type fails when type shifts.
-Confidence: UNBINDING (Phase I)
+Source: ENTRY 0005; Persia–Islam overlap analysis; MEM–PERSIA–ISLAM, MEM–PERSIA–SASANIAN–DYNASTY, MEM–PERSIA–SASANIAN–KHOSROW–II, MEM–PERSIA–WAR–ROME
+Status: ACCEPTED_AS_DOCTRINE → CIV–DOCTRINE–PERSIA DOCTRINE 02 (DIB–PERSIA 2026-02-17)
+Confidence: TIER 2 (70–90% — Strongly supported; MEM corpus; ACH favours exhaustion/vacuum)
+
+ASSUMPTIONS BOX
+
+ASSUMPTION 1: Power distribution and mutual exhaustion explain conditions for Arab conquest
+| Field | Content |
+|-------|---------|
+| STATEMENT | Power distribution and mutual exhaustion (Roman–Persian war) explain the conditions for Arab conquest; Arabs enter vacuum created by exhausted empires. |
+| BASIS | MEM–PERSIA–SASANIAN–DYNASTY "vacuum was filled by Islam"; Khosrow II MEM "exhausts both"; Al-Tabari "until the rise of Islam"; ENTRY 0005; RUN–EXERCISE–A 2026-02-17. |
+| IF_WRONG | Arab success would be explained by other causes (e.g. religious zeal alone, Persian institutional collapse alone); structural thesis weakened. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 2: Persian absorption narrative and structural collapse are compatible (state vs civilization)
+| Field | Content |
+|-------|---------|
+| STATEMENT | Persian "absorption" narrative (Islam absorbed; Persia endures) and structural reality (Sasanian state collapses; civilizational base persists) are compatible—state vs civilization. |
+| BASIS | MEM–PERSIA–ISLAM; ENTRY 0005; CCM. |
+| IF_WRONG | Persian encoding would contradict structural reading; CCM would not hold. |
+| LINCHPIN_STATUS | High |
+
+ASSUMPTION 3: Doctrine optimized for one conflict type fails when conflict type shifts
+| Field | Content |
+|-------|---------|
+| STATEMENT | Doctrine optimized for one conflict type (peer parity, denial, endurance) fails when conflict type shifts (new actor, different velocity, novel legitimacy). |
+| BASIS | ENTRY 0005; structural record. |
+| IF_WRONG | Denial/endurance would remain effective against non-peer or post-exhaustion actors; doctrine-failure claim invalid. |
+| LINCHPIN_STATUS | High |
+
+ACH RECORD (RUN–EXERCISE–A 2026-02-17): H1 (exhaustion/vacuum) favoured; H2 (religion + exhaustion), H3 (Persian failure alone) not supported as primary. Discriminating evidence: chronology 628→630s; MEM "vacuum was filled by Islam"; no MEM attributes victory to religion or internal failure alone.
 
 Structural Record:
 | Element | Mearsheimer Reading |
@@ -316,10 +360,10 @@ Structural Record:
 | Encoding | Persian "absorption" = civilizational continuity; Sasanian state = collapsed |
 | Tempo parallel | Alexander (tempo) defeats Persia; Arabs (timing) defeat exhausted Persia |
 
-Verdict: Structural transition; no synthesis with Mercouris/Barnes. Tension preserved.
+Verdict: Structural transition; no synthesis with Mercouris/Barnes. Tension preserved. Accepted as doctrine → CIV–DOCTRINE–PERSIA DOCTRINE 02.
 
 SYNTHESIS 0005 — PERSIA GEO FOUR-ZONE PATTERN + OVEREXTENSION LIABILITY
-Source: ENTRY 0006; MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT; MEM–PERSIA–WAR–ROME; MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II
+Source: ENTRY 0006; MEM–PERSIA–GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT; MEM–PERSIA–WAR–ROME; MEM–PERSIA–SASANIAN–KHOSROW–II
 Status: ACCEPTED_AS_DOCTRINE → CIV–DOCTRINE–PERSIA DOCTRINE 01 (DIB–PERSIA 2026-02)
 Confidence: TIER 2 (70–90% — Strongly supported; cross-MEM pattern; Khosrow II confirming case)
 
@@ -348,7 +392,7 @@ ASSUMPTION 3: Khosrow II is confirming case for overextension liability
 | Field | Content |
 |-------|---------|
 | STATEMENT | Khosrow II's maximal Levant reach (Syria, Palestine, Jerusalem, Egypt), Heraclius counteroffensive, court defection (Kavadh II), and Sasanian non-recovery confirm the pattern. |
-| BASIS | MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II; ENTRY 0003, 0006. |
+| BASIS | MEM–PERSIA–SASANIAN–KHOSROW–II; ENTRY 0003, 0006. |
 | IF_WRONG | Khosrow's collapse would be explained by other factors (e.g. religion, logistics only); liability/defection layer would be secondary. |
 | LINCHPIN_STATUS | Medium |
 
@@ -383,6 +427,8 @@ Verdict: Pattern recorded; constraint-oriented; no closure. CCM applies. Accepte
 XVIII. DOCTRINE REGISTRY
 ────────────────────────────────────────────────────────────
 
+SYNTHESIS 0004 → CIV–DOCTRINE–PERSIA DOCTRINE 02 (PERSIA–ISLAM STRUCTURAL TRANSITION). Accepted via DIB–PERSIA 2026-02-17. Source: this file SYNTHESIS 0004; ENTRY 0005; MEMs ISLAM, DYNASTY–SASANIAN, DYNASTY–SASANIAN–KHOSROW–II, WAR–ROME; RUN–EXERCISE–A 2026-02-17.
+
 SYNTHESIS 0005 → CIV–DOCTRINE–PERSIA DOCTRINE 01 (FOUR-ZONE GEO AND LEVANT OVEREXTENSION LIABILITY). Accepted via DIB–PERSIA 2026-02. Source: this file SYNTHESIS 0005; ENTRY 0006; MEMs GEO–CASPIAN, GEO–PERSIAN–GULF, GEO–INDIAN–OCEAN, GEO–LEVANT, WAR–ROME, DYNASTY–SASANIAN–KHOSROW–II.
 
 ────────────────────────────────────────────────────────────
@@ -410,10 +456,10 @@ Permitted:
 ────────────────────────────────────────────────────────────
 XXI. CURRENT STATUS
 ────────────────────────────────────────────────────────────
-Doctrine Count: 0
-Total Entries: 7
-Next Entry ID: 0007
-Frozen Syntheses: 0
+Doctrine Count: 2
+Total Entries: 8
+Next Entry ID: 0009
+Frozen Syntheses: 2
 Total Syntheses: 3
 SDI Entries: 0
 

@@ -133,8 +133,8 @@ IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–SILK–ROAD — China as eastern terminus; silk producer; Persia as intermediary
-• MEM–PERSIA–DYNASTY–PARTHIAN — Overland corridor; China/India and Mediterranean
-• MEM–PERSIA–DYNASTY–SASANIAN — Eastern diplomatic and commercial relations
+• MEM–PERSIA–PARTHIAN — Overland corridor; China/India and Mediterranean
+• MEM–PERSIA–SASANIAN–DYNASTY — Eastern diplomatic and commercial relations
 • MEM–PERSIA–MONGOL–EMPIRE — Pax Mongolica; Persia–Yuan link; Eurasian transmission
 • MEM–PERSIA–ROMAN–EMPIRE — Rome desired silk; Persia sat between Rome and China
 • MEM–PERSIA–INDIA — Contrast: India had satrapies; China remained beyond empire

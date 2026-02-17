@@ -1,8 +1,9 @@
-MEM–PERSIA–DYNASTY–SAFAVID — v1.0
+MEM–PERSIA–SAFAVID–DYNASTY — v1.0
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
 Version: 1.0
+Upgrade Type: RENAME · MEM–PERSIA–SAFAVID → MEM–PERSIA–SAFAVID–DYNASTY (dynasty-level suffix).
 Civilization: PERSIA
 Subject: Safavid dynasty — Shi'a state formation, Isfahan, Ottoman rivalry, post-Mongol reconstitution
 Dates: 1501–1722
@@ -115,7 +116,7 @@ The Afghan capture of Isfahan (1722) ended Safavid rule. The dynasty
 had weakened through succession crises, fiscal strain, and tribal
 pressure from the east. The fall was **decapitation at the center**:
 loss of the capital broke the regime (MEM–PERSIA–ISFAHAN). Afsharid
-and Zand interregna followed; the Qajars (MEM–PERSIA–DYNASTY–QAJAR)
+and Zand interregna followed; the Qajars (MEM–PERSIA–QAJAR)
 later reunified the realm from a new capital (Tehran). The Safavid
 legacy—Shi'a state, Isfahan as cultural reference, western border
 logic—outlasted the dynasty.
@@ -156,7 +157,7 @@ ENABLES:
 • MEM–PERSIA–OTTOMAN–EMPIRE — Sunni–Shi'a contest; Chaldiran; Mesopotamia
 
 PARALLELS:
-• MEM–PERSIA–DYNASTY–SASANIAN — Restorative dynasty; centralization; sacral kingship
+• MEM–PERSIA–SASANIAN–DYNASTY — Restorative dynasty; centralization; sacral kingship
 
 GEOGRAPHIC:
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Core; Isfahan on plateau
@@ -168,7 +169,7 @@ TEMPORAL_BEFORE:
 • MEM–PERSIA–MONGOL–EMPIRE — Rupture; Safavids as post-Mongol reconstitution
 
 TEMPORAL_AFTER:
-• MEM–PERSIA–DYNASTY–QAJAR — Next dynasty; Tehran capital; Great Game
+• MEM–PERSIA–QAJAR — Next dynasty; Tehran capital; Great Game
 
 Breaks if removed: MEM–PERSIA–ISFAHAN (capital); MEM–PERSIA–OTTOMAN–EMPIRE (western rival); MEM–PERSIA–EMPIRE (reconstitution).
 
@@ -183,5 +184,5 @@ X. BIBLIOGRAPHY
 • CIV–CORE–PERSIA — Continuity engine; Safavid node
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SAFAVID — v1.0
+END OF FILE — MEM–PERSIA–SAFAVID–DYNASTY — v1.0
 ────────────────────────────────────────────────────────────

@@ -130,7 +130,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–INDIAN–OCEAN — Gulf of Oman; maritime corridor; Siraf and Oman sailors
 • MEM–PERSIA–ARABIA — Oman as part of Arabian southern littoral; Gulf Arab state
 • MEM–PERSIA–IRAN–ISLAMIC–REPUBLIC — Contemporary posture; Oman as diplomatic channel
-• MEM–PERSIA–DYNASTY–SASANIAN — Southern shore interface; pre-Islamic
+• MEM–PERSIA–SASANIAN–DYNASTY — Southern shore interface; pre-Islamic
 • MEM–PERSIA–ISLAM — Oman Ibadi; post-conquest Arabian interface
 • MEM–PERSIA–INDIA — Trade route via Gulf of Oman; maritime link
 • MEM–PERSIA–SILK–ROAD — Maritime equivalent; Gulf–India corridor

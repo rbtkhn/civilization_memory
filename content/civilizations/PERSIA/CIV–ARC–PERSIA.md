@@ -93,7 +93,7 @@ ARC-T-MODERN:
 • Roy Mottahedeh (b. 1940) — The Mantle of the Prophet [4]
 • Abbas Amanat (b. 1947) — Pivot of the Universe; Iran: A Modern History [19]
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis. [0]
-• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. Persia/Iran-relevant and cross-civilizational episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative identity. May supplement but not substitute for Persia-primary or specialist scholarship. [0]
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. Persia/Iran-relevant and cross-civilizational episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative identity. May supplement but not substitute for Persia-primary or specialist scholarship. [3]
 
 ARC-T-MODERN (PERSIAN REFERENCE):
 • دایرةالمعارف فارسی — The Persian Encyclopedia; 3 vols, 43,000 entries (Iran, Islam, world); Persian-language; published 1966–1996; Amir Kabir reprint 2002. Comprehensive Persian reference. [0]

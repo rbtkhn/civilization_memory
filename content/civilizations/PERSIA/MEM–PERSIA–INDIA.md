@@ -50,7 +50,7 @@ east through corridors; it does not seek to conquer the subcontinent.
 III. TRADE CORRIDOR — SILK ROAD AND INDIAN OCEAN
 ────────────────────────────────────────────────────────────
 The Silk Road and Indian Ocean linked Persia to India. Parthian and
-Sasanian control of overland routes (MEM–PERSIA–DYNASTY–PARTHIAN;
+Sasanian control of overland routes (MEM–PERSIA–PARTHIAN;
 MEM–PERSIA–SILK–ROAD) made Persia the intermediary between Mediterranean
 and Indian markets. The Indian Ocean (MEM–PERSIA–GEO–INDIAN–OCEAN) is
 **peripheral access** for Persia—trade, not dominion. Al-Biruni
@@ -116,10 +116,10 @@ VIII. MEM CONNECTIONS
 PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–INDIAN–OCEAN — Trade corridor to India; peripheral access
 • MEM–PERSIA–SILK–ROAD — Overland link to Indian trade
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Eastern satrapies; Gandhara, Indus
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Eastern expansion; incorporation
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Behistun; eastern lands
-• MEM–PERSIA–DYNASTY–PARTHIAN — Overland corridor; India–Mediterranean
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Eastern satrapies; Gandhara, Indus
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Eastern expansion; incorporation
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Behistun; eastern lands
+• MEM–PERSIA–PARTHIAN — Overland corridor; India–Mediterranean
 • MEM–PERSIA–PERSEPOLIS — Apadana reliefs; Indian delegation in tribute
 • MEM–PERSIA–EMPIRE — Imperial extent east
 • MEM–PERSIA–IRAN — Modern state; India as neighbor
@@ -129,7 +129,7 @@ GEO (≥2):
 • MEM–PERSIA–GEO–INDIAN–OCEAN — Maritime corridor
 • MEM–PERSIA–SILK–ROAD — Overland corridor
 
-Breaks if removed: MEM–PERSIA–GEO–INDIAN–OCEAN (maritime link); MEM–PERSIA–DYNASTY–ACHAEMENID (satrapies).
+Breaks if removed: MEM–PERSIA–GEO–INDIAN–OCEAN (maritime link); MEM–PERSIA–ACHAEMENID–DYNASTY (satrapies).
 
 ────────────────────────────────────────────────────────────
 IX. BIBLIOGRAPHY

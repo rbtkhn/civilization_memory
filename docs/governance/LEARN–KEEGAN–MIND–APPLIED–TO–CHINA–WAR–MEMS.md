@@ -9,7 +9,7 @@
 I. DERIVED KEEGAN MILITARY-HISTORIAN MIND
 ────────────────────────────────────────────────────────────
 
-**Source:** MEM–ISLAM–CRUSADES (A History of Warfare 1993), MEM–ISLAM–WAR–THIRD–CRUSADE (The Mask of Command 1987), MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III (applied insight), RESEARCH–KEEGAN–ALEXANDER–INDIA–COMMAND–FRAMING, CIV–SCHOLAR–ISLAM SYNTHESIS 0005.
+**Source:** MEM–ISLAM–CRUSADES (A History of Warfare 1993), MEM–ISLAM–WAR–THIRD–CRUSADE (The Mask of Command 1987), MEM–PERSIA–ACHAEMENID–DARIUS–III (applied insight), RESEARCH–KEEGAN–ALEXANDER–INDIA–COMMAND–FRAMING, CIV–SCHOLAR–ISLAM SYNTHESIS 0005.
 
 **1. Civilised warfare and institutional restraint**  
 • Human violence is "set about with restraints" by institutions and laws; state violence takes the form of "civilised warfare."  

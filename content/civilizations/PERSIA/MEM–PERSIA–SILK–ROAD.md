@@ -221,14 +221,14 @@ IV. GEO STRUCTURED DATA (LAYER 2)
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Royal Road; courier system; satrapal roads
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial extent; corridor control
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Royal Road; courier system; satrapal roads
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial extent; corridor control
 • MEM–PERSIA–GEO–PERSIAN–GULF — southern maritime alternative
 • MEM–PERSIA–GEO–INDIAN–OCEAN — maritime bypass
 • MEM–PERSIA–GEO–LEVANT — western terminus; Syria corridor
 • MEM–PERSIA–PALMYRA — desert caravan node; Roman–Persian trade
 • MEM–PERSIA–WAR–ROME — Roman desire to bypass Persian intermediation
-• MEM–PERSIA–DYNASTY–SASANIAN — continued corridor control
+• MEM–PERSIA–SASANIAN–DYNASTY — continued corridor control
 • MEM–PERSIA–MONGOL–EMPIRE — Pax Mongolica; route security; then fragmentation
 • MEM–PERSIA–MEDES — Ecbatana as early node
 
@@ -240,7 +240,7 @@ Cross-civilization:
 • MEM–RUSSIA–CHINA–SILK–ROAD — classical route context; Russia as latecomer
 • MEM–ROME–SYRIA — Silk Road interfaces; caravan networks
 
-Breaks if removed: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I (Royal Road); MEM–PERSIA–PALMYRA (caravan node).
+Breaks if removed: MEM–PERSIA–ACHAEMENID–DARIUS–I (Royal Road); MEM–PERSIA–PALMYRA (caravan node).
 
 ────────────────────────────────────────────────────────────
 VI. CONTINUITY INSIGHTS (RAW)

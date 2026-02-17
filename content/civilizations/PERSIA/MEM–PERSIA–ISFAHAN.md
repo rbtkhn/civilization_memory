@@ -127,7 +127,7 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Isfahan on plateau; interior capital
 • MEM–PERSIA–IRAN — Modern state; Isfahan as heritage site
 • MEM–PERSIA–MEDES — Ecbatana as earlier interior capital (parallel)
-• MEM–PERSIA–DYNASTY–ACHAEMENID — Persepolis; architectural propaganda parallel
+• MEM–PERSIA–ACHAEMENID–DYNASTY — Persepolis; architectural propaganda parallel
 • MEM–PERSIA–MONGOL–EMPIRE — Post-Mongol recovery; Safavids as restorers
 
 GEO (≥2):

@@ -208,17 +208,17 @@ XI. MEM CONNECTIONS
 PERSIA WAR corpus (sibling integration):
 • MEM–PERSIA–WAR–CARRHAE — founding battle; denial doctrine; Parthian phase
 • MEM–PERSIA–WAR–ALEXANDER — Goldsworthy: region Alexander swept through; terrain of contest
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — Valerian; Sasanian phase
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — terminal war; overextension; exhaustion
+• MEM–PERSIA–SASANIAN–SHAPUR–I — Valerian; Sasanian phase
+• MEM–PERSIA–SASANIAN–KHOSROW–II — terminal war; overextension; exhaustion
 • MEM–PERSIA–GEO–LEVANT — parity theater; reach without hold
 • MEM–PERSIA–ARMENIA — buffer; Roman–Persian stakes
 • MEM–PERSIA–ROMAN–EMPIRE — Rome as parity rival in Persian memory; encoding of Rūm
 • MEM–PERSIA–PALMYRA — post-Valerian counterweight
-• MEM–PERSIA–DYNASTY–SASANIAN — Sasanian parity war
+• MEM–PERSIA–SASANIAN–DYNASTY — Sasanian parity war
 • MEM–PERSIA–EGYPT — Khosrow's extension; Levant–Egypt axis
 • MEM–PERSIA–ISLAM — stacked exhaustion; both lose Levant
 
-Breaks if removed: MEM–PERSIA–WAR–CARRHAE (founding); MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II (terminal phase).
+Breaks if removed: MEM–PERSIA–WAR–CARRHAE (founding); MEM–PERSIA–GEO–LEVANT (theater); MEM–PERSIA–SASANIAN–KHOSROW–II (terminal phase).
 
 ────────────────────────────────────────────────────────────
 XIII. BIBLIOGRAPHY

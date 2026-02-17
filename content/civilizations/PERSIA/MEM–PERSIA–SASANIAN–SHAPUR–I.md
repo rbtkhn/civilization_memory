@@ -1,4 +1,4 @@
-MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.2
+MEM–PERSIA–SASANIAN–SHAPUR–I — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
@@ -153,14 +153,14 @@ diplomacy. The "who pays?" answer: Roman legitimacy, for centuries.
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA (same-civilization ≥10):
-• MEM–PERSIA–DYNASTY–SASANIAN — Shapur as dynasty apex
+• MEM–PERSIA–SASANIAN–DYNASTY — Shapur as dynasty apex
 • MEM–PERSIA–WAR–ROME — the conflict Shapur escalated
 • MEM–PERSIA–WAR–CARRHAE — Parthian precedent; denial doctrine
 • MEM–PERSIA–ZOROASTER — sacral kingship, khvarenah
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II — later Sasanian overreach (contrast)
+• MEM–PERSIA–SASANIAN–KHOSROW–II — later Sasanian overreach (contrast)
 • MEM–PERSIA–ARMENIA — contested buffer under Shapur
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — imperial continuity
-• MEM–PERSIA–DYNASTY–ACHAEMENID — restoration claims
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — imperial continuity
+• MEM–PERSIA–ACHAEMENID–DYNASTY — restoration claims
 • MEM–PERSIA–ISLAM — post-Sasanian absorption
 • MEM–PERSIA–GEO–CASPIAN — heartland security
 
@@ -169,7 +169,7 @@ Cross-civilization (≥3):
 • MEM–ROME–WAR–PERSIA — the conflict
 • MEM–ROME–EMPIRE–AURELIAN — reunification after Shapur's triumph
 
-Breaks if removed: MEM–ROME–EMPIRE–VALERIAN (counterpart); MEM–PERSIA–DYNASTY–SASANIAN (dynasty context).
+Breaks if removed: MEM–ROME–EMPIRE–VALERIAN (counterpart); MEM–PERSIA–SASANIAN–DYNASTY (dynasty context).
 
 ────────────────────────────────────────────────────────────
 X. FIGURE STRUCTURED DATA (LAYER 2)
@@ -194,9 +194,9 @@ XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 XII. INGEST BOOTSTRAP
 ────────────────────────────────────────────────────────────
-MEM INGEST CONFIRMED — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I
+MEM INGEST CONFIRMED — MEM–PERSIA–SASANIAN–SHAPUR–I
 Status: ACTIVE
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I — v1.2
+END OF FILE — MEM–PERSIA–SASANIAN–SHAPUR–I — v1.2
 ────────────────────────────────────────────────────────────

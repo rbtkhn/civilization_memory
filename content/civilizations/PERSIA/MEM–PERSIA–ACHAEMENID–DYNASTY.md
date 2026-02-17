@@ -1,10 +1,10 @@
-MEM–PERSIA–DYNASTY–ACHAEMENID — v1.5
+MEM–PERSIA–ACHAEMENID–DYNASTY — v1.5
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 
 Status: ACTIVE
 Version: 1.5
-Upgrade Type: Content composition rule (new MIND rule): structural context (power distribution, incentive); Barnes dimension (liability at fall, defection, irreversibility). No numerical proportions.
+Upgrade Type: RENAME · MEM–PERSIA–ACHAEMENID–DYNASTY → MEM–PERSIA–ACHAEMENID–DYNASTY (dynasty-level suffix).
 Civilization: PERSIA
 Subject: Achaemenid Dynasty
 Dates: c. 550–330 BC
@@ -26,7 +26,7 @@ imperial design**, not homogenization.
 ────────────────────────────────────────────────────────────
 II. DYNASTIC ORIGIN & IMPERIAL BREAKOUT
 ────────────────────────────────────────────────────────────
-Founded by Cyrus II (“the Great”), the dynasty emerges from the Iranian
+Founded by Cyrus II ("the Great"), the dynasty emerges from the Iranian
 plateau and rapidly transcends regional kingship.
 
 Key origin features:
@@ -97,7 +97,7 @@ Achaemenid kingship fuses:
 • Justice as imperial obligation
 • Protection of cults and traditions
 
-Cyrus’ proclamations encode an ethic of **order without annihilation**.
+Cyrus' proclamations encode an ethic of **order without annihilation**.
 
 Authority rests on restraint as much as power.
 
@@ -154,19 +154,30 @@ VIII. LIABILITY / MECHANISM (BARNES DIMENSION)
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
-• Persia’s first empire rules by administration, not erasure.
+• Persia's first empire rules by administration, not erasure.
 • Tolerance is an imperial technology.
 • Scale requires modular governance.
 • Legitimacy can be exported without cultural annihilation.
 • The Achaemenids define Persia as a **system-builder civilization**.
 
 ────────────────────────────────────────────────────────────
-X. BIBLIOGRAPHY
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — founder; integrative conquest
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — systematizer; satrapal design; Royal Road
+• MEM–PERSIA–ACHAEMENID–DARIUS–III — terminal ruler; fall to Alexander
+• MEM–PERSIA–WAR–ALEXANDER — conquest; elite defection
+• MEM–PERSIA–SELEUCID — template transfer; Seleucid administration
+• MEM–PERSIA–PARTHIAN — successor regime; confederal adaptation
+• MEM–PERSIA–SASANIAN–DYNASTY — restoration claims; Achaemenid invoked
+
+────────────────────────────────────────────────────────────
+XI. BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Cyrus Cylinder (539 BCE), tr. Irving Finkel (British Museum) — ARC–PERSIA-T-ANCIENT; restoration of peoples and gods
 • Herodotus, *Histories*, III.89, III.94 (India satrapy) — tribute, imperial extent
 • Lloyd Llewellyn-Jones, *Persians: The Age of the Great Kings* (2022) — satrapal design, cavalry; FiveBooks interview (2020)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–PERSIA–DYNASTY–ACHAEMENID — v1.5
+END OF FILE — MEM–PERSIA–ACHAEMENID–DYNASTY — v1.5
 ────────────────────────────────────────────────────────────

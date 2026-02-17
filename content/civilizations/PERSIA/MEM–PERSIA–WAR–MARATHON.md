@@ -144,9 +144,9 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–ALEXANDER — Llewellyn-Jones Marathon quote; Persian encoding
 • MEM–PERSIA–IONIAN–REVOLT — causal chain; Athens supported revolt
 Other:
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — inherits Greek question; Thermopylae, Salamis
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial baseline; Darius's reign
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — expedition under Darius; Royal Road, administration
+• MEM–PERSIA–ACHAEMENID–XERXES — inherits Greek question; Thermopylae, Salamis
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial baseline; Darius's reign
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — expedition under Darius; Royal Road, administration
 
 ────────────────────────────────────────────────────────────
 IX. BIBLIOGRAPHY

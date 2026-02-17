@@ -91,9 +91,9 @@ conquest that Persian memory preserves.
 ────────────────────────────────────────────────────────────
 VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II — Cyrus and Croesus; integrative sovereignty
+• MEM–PERSIA–ACHAEMENID–CYRUS–II — Cyrus and Croesus; integrative sovereignty
 • MEM–PERSIA–SILK–ROAD — Royal Road; Sardis–Susa
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — Royal Road formalization; courier system
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — Royal Road formalization; courier system
 • MEM–PERSIA–IONIAN–REVOLT — Ionian Greeks under Lydian/Persian rule
 
 ────────────────────────────────────────────────────────────

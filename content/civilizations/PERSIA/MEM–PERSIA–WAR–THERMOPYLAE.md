@@ -104,9 +104,9 @@ PERSIA WAR corpus:
 • MEM–PERSIA–WAR–MARATHON — prior Persian setback; Greek confidence
 • MEM–PERSIA–WAR–ALEXANDER — Xerxes' failure; Alexander inverts Greek–Persian dynamic
 Other:
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES — Thermopylae under Xerxes; Greek campaigns
+• MEM–PERSIA–ACHAEMENID–XERXES — Thermopylae under Xerxes; Greek campaigns
 • MEM–PERSIA–IONIAN–REVOLT — causal chain
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial campaign
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial campaign
 
 ────────────────────────────────────────────────────────────
 VI. BIBLIOGRAPHY

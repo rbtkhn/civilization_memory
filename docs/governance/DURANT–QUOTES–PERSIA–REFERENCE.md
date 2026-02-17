@@ -22,12 +22,12 @@
 ────────────────────────────────────────────────────────────
 
 **Empire duration and moral decline (Ch. IX)**  
-*Suggested: MEM–PERSIA–EMPIRE, MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES*
+*Suggested: MEM–PERSIA–EMPIRE, MEM–PERSIA–ACHAEMENID–XERXES*
 
 "The empire of Darius lasted hardly a century. The moral as well as the physical backbone of Persia was broken by Marathon, Salamis and Plataea; the emperors exchanged Mars for Venus, and the nation descended into corruption and apathy."
 
 **Aristocracy and luxury (Ch. IX)**  
-*Suggested: MEM–PERSIA–EMPIRE (decadence), MEM–PERSIA–DYNASTY–ACHAEMENID*
+*Suggested: MEM–PERSIA–EMPIRE (decadence), MEM–PERSIA–ACHAEMENID–DYNASTY*
 
 "Eating became the principal occupation of the aristocracy: these men who had once made it a rule to eat but once a day now interpreted the rule to allow them one meal—prolonged from noon to night; they stocked their larders with a thousand delicacies, and often served entire animals to their guests; they stuffed themselves with rich rare meats, and spent their genius upon new sauces and desserts."
 
@@ -37,12 +37,12 @@
 "Nor is it natural that nations diverse in language, religion, morals and traditions should long remain united; there is nothing organic in such a union, and compulsion must repeatedly be applied to maintain the artificial bond."
 
 **Xerxes (Ch. IX)**  
-*Suggested: MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES*
+*Suggested: MEM–PERSIA–ACHAEMENID–XERXES*
 
 "Xerxes I was every inch a king—externally; tall and vigorous, he was by royal consent the handsomest man in his empire. But there was never yet a handsome man who was not vain, nor any physically vain man whom some woman has not led by the nose. Xerxes was divided by many mistresses, and became for his people an exemplar of sensuality. His defeat at Salamis was in the nature of things; for he was great only in his love of magnitude, not in his capacity to rise to a crisis or to be in fact and need a king."
 
 **Alexander and Persian collapse (Ch. IX)**  
-*Suggested: MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III, MEM–PERSIA–EMPIRE*
+*Suggested: MEM–PERSIA–ACHAEMENID–DARIUS–III, MEM–PERSIA–EMPIRE*
 
 "The frequency of revolt and war exhausted the vitality of little Persia; the braver stocks were slaughtered in battle after battle, until none but the cautious survived; and when these were conscripted to face Alexander they proved to be cowards almost to a man."
 

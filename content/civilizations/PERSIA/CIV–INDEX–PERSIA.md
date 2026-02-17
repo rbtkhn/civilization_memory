@@ -12,7 +12,7 @@ Governed by: CIV–MEM–CORE v3.0
 Template: CIV–INDEX–TEMPLATE v3.0
 Last Update: February 2026
 
-MEM COUNT: 63 MEM–PERSIA files (reconciled 2026-02)
+MEM COUNT: 64 MEM–PERSIA files (reconciled 2026-02)
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
@@ -34,7 +34,7 @@ Index rules:
 ────────────────────────────────────────────────────────────
 II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
-• CIV–CORE–PERSIA — v2.0 (Primary civilizational engine)
+• CIV–CORE–PERSIA — v3.3 (Primary civilizational engine)
 • CIV–SCHOLAR–PERSIA — v2.0 (Learning and synthesis)
 • CIV–ARC–PERSIA — v2.0 (Academic Reference Canon)
 
@@ -44,14 +44,17 @@ III. DYNASTIC MEMORY FILES
 • MEM–PERSIA–EMPIRE.md  
   (Empire as recurring institutional form; sacral kingship; parity and reconstitution; Achaemenid–Sasanian sequence)
 
-• MEM–PERSIA–DYNASTY–ACHAEMENID.md  
+• MEM–PERSIA–ACHAEMENID–DYNASTY.md  
   (Imperial universalism, tolerance, administrative depth)
 
-• MEM–PERSIA–DYNASTY–SASANIAN.md  
+• MEM–PERSIA–SASANIAN–DYNASTY.md  
   (Siege-state consolidation, sacral kingship, parity war)
 
-• MEM–PERSIA–DYNASTY–PARTHIAN.md  
+• MEM–PERSIA–PARTHIAN.md  
   (Arsacid; confederal governance; denial warfare; Roman parity; Carrhae; 247 BC–224 AD)
+
+• MEM–PERSIA–SELEUCID.md  
+  (Hellenistic interlude; Macedonian-Greek rule over plateau and Mesopotamia; 312–247 BC east; template transfer to Parthian)
 
 • MEM–PERSIA–MEDES.md  
   (Pre-imperial hegemony; Persian–Median fusion; Ecbatana)
@@ -59,22 +62,22 @@ III. DYNASTIC MEMORY FILES
 • MEM–PERSIA–SATRAPIES.md  
   (Satrapal system; tribute; modular imperial control)
 
-• MEM–PERSIA–DYNASTY–SAFAVID.md  
+• MEM–PERSIA–SAFAVID–DYNASTY.md  
   (Shi'a state formation; Isfahan; Ottoman rivalry; post-Mongol reconstitution; 1501–1722)
 
-• MEM–PERSIA–DYNASTY–QAJAR.md  
+• MEM–PERSIA–QAJAR.md  
   (Tehran capital; Russian and Ottoman pressure; territorial loss; Great Game; 1789–1925)
 
 ────────────────────────────────────────────────────────────
 IV. FOUNDATIONAL FIGURES & IDEOLOGICAL ORIGINS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CYRUS–II.md  
+• MEM–PERSIA–ACHAEMENID–CYRUS–II.md  
   (Imperial founder, tolerance doctrine, sovereignty-with-restraint)
 
 • MEM–PERSIA–ZOROASTER.md  
   (Moral–cosmic legitimacy engine, endurance theology)
 
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I.md  
+• MEM–PERSIA–ACHAEMENID–DARIUS–I.md  
   (Imperial systematizer; satrapal design; Royal Road; Behistun)
 
 ────────────────────────────────────────────────────────────
@@ -207,21 +210,21 @@ WAR–ROME at v2.0; GEO–CASPIAN v2.0 (Scythian integration).
 IX. IMPERIAL FIGURES
 ────────────────────────────────────────────────────────────
 Achaemenid:
-• MEM–PERSIA–DYNASTY–ACHAEMENID–CAMBYSES–II.md  
+• MEM–PERSIA–ACHAEMENID–CAMBYSES–II.md  
   (Egyptian conquest; succession crisis; Herodotean encoding)
-• MEM–PERSIA–DYNASTY–ACHAEMENID–XERXES.md  
+• MEM–PERSIA–ACHAEMENID–XERXES.md  
   (Greek wars; Thermopylae, Salamis; Persian encoding)
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III.md  
+• MEM–PERSIA–ACHAEMENID–DARIUS–III.md  
   (Terminal Achaemenid; Issus, Gaugamela; legitimacy collapse)
 
 Sasanian:
-• MEM–PERSIA–DYNASTY–SASANIAN–ARDASHIR–I.md  
+• MEM–PERSIA–SASANIAN–ARDASHIR–I.md  
   (Sasanian founder; restoration ideology; Hormozdgan)
 
-• MEM–PERSIA–DYNASTY–SASANIAN–SHAPUR–I.md  
+• MEM–PERSIA–SASANIAN–SHAPUR–I.md  
   (King of Kings; captor of Valerian; triumphal propaganda)
 
-• MEM–PERSIA–DYNASTY–SASANIAN–KHOSROW–II.md  
+• MEM–PERSIA–SASANIAN–KHOSROW–II.md  
   (Khosrow II; terminal Roman–Persian war; overextension; mutual exhaustion)
 
 ────────────────────────────────────────────────────────────

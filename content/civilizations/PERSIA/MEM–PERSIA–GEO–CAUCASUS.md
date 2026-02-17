@@ -186,12 +186,12 @@ PERSIA (same-civilization ≥10):
 • MEM–PERSIA–ARMENIA — Armenia between Anatolia, Mesopotamia, Caucasus, heartland; northern Armenia lost to Russia
 • MEM–PERSIA–GEO–MESOPOTAMIA — CORE buffers: Caspian–Caucasus–Mesopotamia
 • MEM–PERSIA–IRAN — State that lost Caucasian territory
-• MEM–PERSIA–DYNASTY–PARTHIAN — Caucasian clients (Armenia, Iberia)
-• MEM–PERSIA–DYNASTY–SASANIAN — Northern frontier; Armenia
+• MEM–PERSIA–PARTHIAN — Caucasian clients (Armenia, Iberia)
+• MEM–PERSIA–SASANIAN–DYNASTY — Northern frontier; Armenia
 • MEM–PERSIA–TEHRAN — Qajar capital; Russian pressure from Caucasus
 • MEM–PERSIA–EMPIRE — Northern buffer logic
 • MEM–PERSIA–WAR–SCYTHIAN — Northern frontier (steppe); Caucasus as eastern extent
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–III — Eastern satrapies; Bessus; Caucasus region
+• MEM–PERSIA–ACHAEMENID–DARIUS–III — Eastern satrapies; Bessus; Caucasus region
 
 GEO (≥2):
 • MEM–PERSIA–GEO–CASPIAN — Sea counterpart; northern rim

@@ -86,8 +86,8 @@ governance inherit satrapal patterns.
 ────────────────────────────────────────────────────────────
 IV. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
-• MEM–PERSIA–DYNASTY–ACHAEMENID–DARIUS–I — satrapy formalization; tribute
-• MEM–PERSIA–DYNASTY–ACHAEMENID — imperial architecture
+• MEM–PERSIA–ACHAEMENID–DARIUS–I — satrapy formalization; tribute
+• MEM–PERSIA–ACHAEMENID–DYNASTY — imperial architecture
 • MEM–PERSIA–SILK–ROAD — satrapies along corridor
 • MEM–PERSIA–EGYPT — Egyptian satrapy
 
