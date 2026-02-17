@@ -293,7 +293,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–FILOFEI — monk who formulated doctrine
 • MEM–RUSSIA–BYZANTIUM–FALL — 1453 collapse creates vacancy
 • MEM–RUSSIA–AUTOCRACY — political form Third Rome sacralizes
-• MEM–RUSSIA–PATRIARCH — Moscow patriarchate (1589) institutionalizes claim
+• MEM–RUSSIA–MOSCOW–PATRIARCHATE — Moscow Patriarchate (1589) institutionalizes claim
 • MEM–RUSSIA–ROMANOV–PETER–I — tension: westernization challenges doctrine
 • MEM–RUSSIA–SOVIET–MESSIANISM — secular transposition of finality
 • MEM–RUSSIA–PUTIN — post-Soviet civilizational rhetoric revival

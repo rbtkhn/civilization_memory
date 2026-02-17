@@ -209,6 +209,8 @@ Primary MEMs:
   [concepts: legitimacy_rupture, defection_cascade, continuity_through_rupture]
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — Sacral foundation of Russian
   authority; Church as legitimacy anchor across regime changes
+• MEM–RUSSIA–MOSCOW–PATRIARCHATE — Institutional primacy of Russian
+  Orthodox Church; 1589 elevation, 1721 Synod, 1917 restoration; church–state symbiosis
 
 Secondary MEMs:
 • MEM–RUSSIA–TIME–TROUBLES — Civilizational survival despite institutional collapse

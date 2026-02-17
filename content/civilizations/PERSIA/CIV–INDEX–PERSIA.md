@@ -1,18 +1,18 @@
-CIV–INDEX–PERSIA — v3.17
+CIV–INDEX–PERSIA — v3.18
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 3.17
-Supersedes: CIV–INDEX–PERSIA v3.16
-Upgrade Type: ADDITIVE · MEM–PERSIA–LIT–FERDOWSI, MEM–PERSIA–LIT–HEDAYAT, MEM–PERSIA–LIT–NIMA–YUSHIJ added
+Version: 3.18
+Supersedes: CIV–INDEX–PERSIA v3.17
+Upgrade Type: ADDITIVE · Section IV.A Science (SCI subclass); seven MEM–PERSIA–SCI–* files
 Civilization: PERSIA
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Template: CIV–INDEX–TEMPLATE v3.0
 Last Update: February 2026
 
-MEM COUNT: 64 MEM–PERSIA files (reconciled 2026-02)
+MEM COUNT: 72 MEM–PERSIA files (reconciled 2026-02)
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
@@ -79,6 +79,24 @@ IV. FOUNDATIONAL FIGURES & IDEOLOGICAL ORIGINS
 
 • MEM–PERSIA–ACHAEMENID–DARIUS–I.md  
   (Imperial systematizer; satrapal design; Royal Road; Behistun)
+
+────────────────────────────────────────────────────────────
+IV.A. SCIENCE (SCI SUBCLASS)
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–SCI–AL–BIRUNI.md  
+  (973–1048; geodesy, India; precision and cross-civilizational inquiry; ARC)
+• MEM–PERSIA–SCI–AVICENNA.md  
+  (980–1037; Canon, Healing; synthesis; Persianate court)
+• MEM–PERSIA–SCI–RAZI.md  
+  (854–925; Rey; medicine, smallpox/measles; empirical method)
+• MEM–PERSIA–SCI–OMAR–KHAYYAM.md  
+  (1048–1131; algebra, Jalali calendar, Rubaiyat; order and voice)
+• MEM–PERSIA–SCI–NASIR–AL–DIN–TUSI.md  
+  (1201–1274; Maragheh observatory; trigonometry; post-Mongol reconstitution)
+• MEM–PERSIA–SCI–AL–KHWARIZMI.md  
+  (c. 780–850; algebra, algorithms; Khwarezm, Baghdad)
+• MEM–PERSIA–SCI–MIRZAKHANI.md  
+  (1977–2017; Fields Medal; moduli spaces; modern, diaspora)
 
 ────────────────────────────────────────────────────────────
 V. RELIGIOUS & REGIME TRANSFORMATION FILES
@@ -176,7 +194,7 @@ VII. IMPERIAL SHOCK & FOREIGN RULE FILES
 ────────────────────────────────────────────────────────────
 VIII. WAR & CIVILIZATIONAL CONFLICT FILES
 ────────────────────────────────────────────────────────────
-WAR corpus (integrated, v2.0): Ionian Revolt → Marathon → Thermopylae (Greek
+WAR corpus (integrated, v2.0): Ionian Revolt → Marathon → Thermopylae → Salamis (Greek
 wars); Scythian (northern denial); Alexander (tempo/conquest); Carrhae
 (founding Roman–Persian); Rome (seven-century parity). Cross-refs in MEM
 CONNECTIONS. IONIAN–REVOLT, XERXES, WAR–SCYTHIAN, WAR–MARATHON, WAR–THERMOPYLAE,
@@ -202,6 +220,9 @@ WAR–ROME at v2.0; GEO–CASPIAN v2.0 (Scythian integration).
 
 • MEM–PERSIA–WAR–THERMOPYLAE.md  
   (480 BC; Xerxes; Greek stand; Persian tactical victory)
+
+• MEM–PERSIA–WAR–SALAMIS.md  
+  (480 BC; naval; Greek coalition victory; encoding divergence)
 
 • MEM–PERSIA–WAR–IRAN–IRAQ.md  
   (1980–1988; invasion, stalemate; martyrdom engine; CORE continuity node)

@@ -1,11 +1,11 @@
-CIV–ARC–PERSIA — v3.5
+CIV–ARC–PERSIA — v3.6
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.5
-Supersedes: CIV–ARC–PERSIA v3.4
-Upgrade Type: ADDITIVE · Niall Ferguson (ARC-T-MODERN)
+Version: 3.6
+Supersedes: CIV–ARC–PERSIA v3.5
+Upgrade Type: ADDITIVE · Thucydides (ARC-T-ANCIENT)
 Civilization: PERSIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
@@ -44,6 +44,7 @@ MEM corpus or ARC is updated.
 
 ARC-T-ANCIENT:
 • Herodotus (5th c. BCE) — Histories (Persian Wars, Cyrus, Darius, Xerxes) [22]
+• Thucydides (c. 460–c. 400 BCE) — History of the Peloponnesian War (Themistocles, Salamis, Pentekontaetia, Greek–Persian interface) [1]
 • Xenophon (c. 430–354 BCE) — Cyropaedia, Anabasis [5]
 • Ctesias (5th–4th c. BCE) — Persica (fragmentary) [0]
 • Avesta / Gathas — Zoroastrian sacred texts (verbatim; handle per CIV–MEM–CORE) [0]

@@ -141,6 +141,7 @@ VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA WAR corpus:
 • MEM–PERSIA–WAR–THERMOPYLAE — Xerxes inherits; campaign sequence
+• MEM–PERSIA–WAR–SALAMIS — campaign sequence; Greek naval victory
 • MEM–PERSIA–WAR–ALEXANDER — Llewellyn-Jones Marathon quote; Persian encoding
 • MEM–PERSIA–IONIAN–REVOLT — causal chain; Athens supported revolt
 Other:

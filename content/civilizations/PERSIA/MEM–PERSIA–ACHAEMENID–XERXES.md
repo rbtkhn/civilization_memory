@@ -174,6 +174,7 @@ IX. MEM CONNECTIONS
 PERSIA WAR corpus:
 • MEM–PERSIA–WAR–MARATHON — Darius's setback; Xerxes inherits
 • MEM–PERSIA–WAR–THERMOPYLAE — Xerxes' tactical victory; pass forced
+• MEM–PERSIA–WAR–SALAMIS — naval defeat; campaign reversal; encoding
 • MEM–PERSIA–WAR–ALEXANDER — Alexander inverts Xerxes; Greek penetrates Persia
 • MEM–PERSIA–IONIAN–REVOLT — causal chain; Greek question origin
 Other PERSIA:

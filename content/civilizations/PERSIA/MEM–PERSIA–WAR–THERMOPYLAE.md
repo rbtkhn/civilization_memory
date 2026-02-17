@@ -102,6 +102,7 @@ VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 PERSIA WAR corpus:
 • MEM–PERSIA–WAR–MARATHON — prior Persian setback; Greek confidence
+• MEM–PERSIA–WAR–SALAMIS — same campaign; naval reversal after Thermopylae
 • MEM–PERSIA–WAR–ALEXANDER — Xerxes' failure; Alexander inverts Greek–Persian dynamic
 Other:
 • MEM–PERSIA–ACHAEMENID–XERXES — Thermopylae under Xerxes; Greek campaigns

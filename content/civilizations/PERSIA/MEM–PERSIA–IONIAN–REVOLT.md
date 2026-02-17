@@ -146,6 +146,7 @@ VIII. MEM CONNECTIONS
 PERSIA WAR corpus:
 • MEM–PERSIA–WAR–MARATHON — Athenian punishment; causal chain; Darius's vow
 • MEM–PERSIA–WAR–THERMOPYLAE — Xerxes inherits; campaign sequence
+• MEM–PERSIA–WAR–SALAMIS — Xerxes' campaign; naval defeat
 • MEM–PERSIA–WAR–ALEXANDER — Greek–Persian interface; encoding contrast
 Other:
 • MEM–PERSIA–ACHAEMENID–XERXES — Greek question; Thermopylae, Salamis
