@@ -55,6 +55,7 @@ V. MINIMUM REVIEW CHECKS
 - Confirm STATE safeguards (MEM scan, ARC coverage, contradiction surfacing)
 - Confirm version-decoupling is respected (content vs governance version)
 - Confirm sampled MEM files meet mandatory section requirements
+- Confirm SCHOLAR files include MEM Generation Candidates (Template § X.A or local equivalent) for WRITE-mode candidate pickup
 
 ────────────────────────────────────────────────────────────
 END OF FILE — REVIEWER–BOOTSTRAP–MAP

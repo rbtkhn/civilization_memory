@@ -1,15 +1,15 @@
-MEM–RUSSIA–LIT–DOSTOEVSKY — v3.1
+MEM–RUSSIA–LIT–DOSTOEVSKY — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 3.1
-Supersedes: MEM–RUSSIA–LIT–DOSTOEVSKY v3.0
-Upgrade Type: CONTENT · GOGOL VERBATIM (Section II: The Overcoat as predecessor)
+Version: 3.2
+Supersedes: MEM–RUSSIA–LIT–DOSTOEVSKY v3.1
+Upgrade Type: CONTENT · JIANG XUEQIN VERBATIM (HEART VS REASON, RUSSIAN SOUL)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Fyodor Dostoevsky (Фёдор Достоевский) — Psychological Memory Architect
 Dates: 1821–1881 AD (decisive works: 1866–1880)
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,600
 
 Governed by:
@@ -92,6 +92,15 @@ Framework:
 • Russian identity is validated through endurance
 • The people's suffering encodes national character
 
+Jiang Xueqin on meaning under fatalism:
+
+> "Meaning is: with the knowledge that the world is ultimately headed
+> towards doom, you as a person are compelled to live your best life
+> nonetheless."
+> — Jiang Xueqin, "Civilization #53: Dostoevsky and the Soul of Russia"
+>   (YouTube lecture), ARC–RUSSIA Category D (Civilizational &
+>   Pedagogical Synthesis)
+
 This encodes **suffering as civilizational validation**.
 
 The memory function:
@@ -113,6 +122,14 @@ This encodes **the struggle for Russian soul**.
 The Grand Inquisitor:
 → Reason without faith produces tyranny.
 
+Jiang Xueqin glosses the parable's closing moment—the kiss as answer:
+
+> "We can't change someone's reason ever, but we can change his heart with
+> an act of mercy and forgiveness and love. That's the secret of humanity."
+> — Jiang Xueqin, "Civilization #53: Dostoevsky and the Soul of Russia"
+>   (YouTube lecture), ARC–RUSSIA Category D (Civilizational &
+>   Pedagogical Synthesis)
+
 ────────────────────────────────────────────────────────────
 VI. THE RUSSIAN SOUL AS MEMORY CONSTRUCT
 ────────────────────────────────────────────────────────────
@@ -123,6 +140,15 @@ Characteristics:
 • Simultaneous embrace of contradiction
 • Rejection of Western rationalism
 • Affirmation of spiritual truth over material logic
+
+Jiang Xueqin:
+
+> "For the Russians the greatest mystery, the most knowledge is within
+> the human heart… the essence of life is to understand the mystery,
+> miracle and authority of the human heart."
+> — Jiang Xueqin, "Civilization #53: Dostoevsky and the Soul of Russia"
+>   (YouTube lecture), ARC–RUSSIA Category D (Civilizational &
+>   Pedagogical Synthesis)
 
 This construct encodes **Russian exceptionalism through psychology**.
 

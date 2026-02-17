@@ -1,10 +1,10 @@
-CIV–ARC–FRANCIA — v3.0
+CIV–ARC–FRANCIA — v3.1
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL
-Supersedes: CIV–ARC–FRANCIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–ARC–FRANCIA v3.0
+Upgrade Type: ADDITIVE · Jiang Xueqin (Civilization series), ARC-T-MODERN
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
@@ -333,6 +333,7 @@ ARC-T-MODERN:
   - The War of the World: Twentieth-century conflict, Fall of France 1940
   - Empire: Comparative imperial history (Francia colonial context)
   - The House of Rothschild: French branch, Paris banking, Napoleonic finance
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. "Civilization #53: Dostoevsky and the Soul of Russia" and Francia-relevant episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative redemption/identity, Catholic vs Orthodox. May supplement but not substitute for Francia-primary or specialist scholarship. [0]
 • Will Durant (1885–1981) — The Story of Civilization (11 vols.)
   TOPICAL SCOPE:
   - Vol. 1 (Our Oriental Heritage): Pre-classical foundations

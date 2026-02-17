@@ -1,11 +1,11 @@
-CIV–ARC–PERSIA — v3.3
+CIV–ARC–PERSIA — v3.5
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · PERSIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.3
-Supersedes: CIV–ARC–PERSIA v3.2
-Upgrade Type: ADDITIVE · Verbatim citation count [N] per source (MEM–PERSIA files citing each source)
+Version: 3.5
+Supersedes: CIV–ARC–PERSIA v3.4
+Upgrade Type: ADDITIVE · Niall Ferguson (ARC-T-MODERN)
 Civilization: PERSIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–PERSIA · CIV–SCHOLAR–PERSIA
@@ -73,6 +73,7 @@ ARC-T-EARLY-MOD:
 
 ARC-T-MODERN:
 • Will Durant (1885–1981) — The Story of Civilization: Our Oriental Heritage (Vol. 1, 1935; Persia, Mesopotamia, Egypt); The Life of Greece (Vol. 2); Caesar and Christ (Vol. 3; Roman–Persian context). Synthetic narrative history; accessible prose; broad civilizational coverage. [2]
+• Niall Ferguson (b. 1964) — Civilization: The West and the Rest (2011); The War of the World (2006); Empire (2003). Comparative empire, civilizational contrast; Persia/Iran in global narrative; applicable for structural framing. [0]
 • Adrian Goldsworthy (b. 1969) — Rome and Persia: The Seven Hundred Year Rivalry (2023); Philip and Alexander (2020); Caesar; Augustus; Pax Romana [17]
 • Anthony Everitt (b. 1940) — Alexander the Great: His Life and His Mysterious Death (2019); Alexander-period coverage [0]
 • John Keegan (1934–2012) — The Mask of Command (1987); A History of Warfare; Alexander as heroic leadership type [0]
@@ -92,6 +93,7 @@ ARC-T-MODERN:
 • Roy Mottahedeh (b. 1940) — The Mantle of the Prophet [4]
 • Abbas Amanat (b. 1947) — Pivot of the Universe; Iran: A Modern History [19]
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis. [0]
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. Persia/Iran-relevant and cross-civilizational episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative identity. May supplement but not substitute for Persia-primary or specialist scholarship. [0]
 
 ARC-T-MODERN (PERSIAN REFERENCE):
 • دایرةالمعارف فارسی — The Persian Encyclopedia; 3 vols, 43,000 entries (Iran, Islam, world); Persian-language; published 1966–1996; Amir Kabir reprint 2002. Comprehensive Persian reference. [0]

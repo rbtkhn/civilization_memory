@@ -1,11 +1,11 @@
-CIV–ARC–ISLAM — v3.0
+CIV–ARC–ISLAM — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ISLAM
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: CIV–ARC–ISLAM v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.2
+Supersedes: CIV–ARC–ISLAM v3.1
+Upgrade Type: ADDITIVE · Niall Ferguson, John Keegan (ARC-T-MODERN)
 Civilization: ISLAM
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–ISLAM · CIV–SCHOLAR–ISLAM
@@ -14,6 +14,7 @@ Last Update: February 2026
 ────────────────────────────────────────────────────────────
 VERSION NOTE (v3.0)
 ────────────────────────────────────────────────────────────
+v3.2 — Niall Ferguson (b. 1964), John Keegan (1934–2012) added to ARC-T-MODERN. Ferguson: comparative empire, Islamic world in descent-of-the-West narrative. Keegan: military historiography, Crusades, Mongol–Islam. February 2026.
 v3.0 — ALIGNMENT · CORE v3.0 CONSOLIDATION. February 2026.
 v2.0 — Version milestone; template alignment (V-A, VI Orthogonality, VII What ARC Does Not Govern). February 2026.
 
@@ -75,6 +76,8 @@ ARC-T-EARLY-MOD:
 
 ARC-T-MODERN:
 • Will Durant (1885–1981) — The Story of Civilization, Vol. 4: The Age of Faith (1950); civilizational synthesis on medieval Islam, Crusades, transmission
+• Niall Ferguson (b. 1964) — Civilization: The West and the Rest (2011); The War of the World (2006); Empire (2003). Comparative empire, civilizational contrast, Islamic world in descent-of-the-West narrative; applicable for structural framing. [0]
+• John Keegan (1934–2012) — The Face of Battle; The Mask of Command; A History of Warfare. Military historiography; Crusades, Mongol–Islam encounter, command and battle culture; applicable to MEM–ISLAM–WAR–* and military framing. [0]
 • Marshall G.S. Hodgson (1922–1968) — The Venture of Islam (3 vols.)
 • Bernard Lewis (1916–2018) — The Arabs in History; The Political Language of Islam; What Went Wrong?
 • Patricia Crone (1945–2015) — Slaves on Horses; Meccan Trade and the Rise of Islam; God's Caliph
@@ -88,6 +91,7 @@ ARC-T-MODERN:
 • Henry Kissinger (b. 1923) — World Order (2014); Islamic world order, Westphalian contrast, Ottoman–Europe interface; civilization-contrast for world-order MEMs
 • Jack Weatherford (b. 1946) — Genghis Khan and the Making of the Modern World (2004); "Restoring Order: Conquering Iraq in the 13th and 21st Centuries," Asia-Pacific Journal (2007); Mongol–Islam encounter, Baghdad 1258, Ilkhanate, conversion; MEM–ISLAM–MONGOL–EMPIRE and related MEMs
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. Islam-relevant and cross-civilizational episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative identity, Islamic vs Western framing. May supplement but not substitute for Islam-primary or specialist scholarship. [0]
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 

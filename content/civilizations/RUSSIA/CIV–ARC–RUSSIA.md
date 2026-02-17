@@ -1,4 +1,4 @@
-CIV–ARC–RUSSIA — v3.5
+CIV–ARC–RUSSIA — v3.7
 Civilizational Memory Codex · Academic Reference Canon
 
 Status: CANONICAL · STAND-ALONE · MIRRORED
@@ -7,9 +7,19 @@ Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Compatibility: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0 (legacy A/B/C/D structure)
 Last Updated: February 2026
 
-Supersedes: CIV–ARC–RUSSIA v3.4
-Upgrade Type: INDIGENOUS-LANGUAGE QUOTE REQUIREMENT
+Supersedes: CIV–ARC–RUSSIA v3.6
+Upgrade Type: ADDITIVE · AUTHOR EXPANSION (WILL DURANT)
 Mutation Rule: ADDITIVE ONLY (explicit version bump required)
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.7)
+────────────────────────────────────────────────────────────
+v3.7 — ADDITIVE · AUTHOR EXPANSION. Will Durant (1885–1981) added to Category D (MODERN), Civilizational & Pedagogical Synthesis. *The Story of Civilization* (11 vols.); admissible for civilizational synthesis, Russia/USSR in comparative narrative. Supersedes v3.6.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.6)
+────────────────────────────────────────────────────────────
+v3.6 — ADDITIVE · AUTHOR EXPANSION. Jiang Xueqin (b. 1976) added to Category D (MODERN), Civilizational & Pedagogical Synthesis. Source: "Civilization #53: Dostoevsky and the Soul of Russia" (YouTube lecture); admissible for civilizational contrast (Anglo-American / German / Russian), Orthodox vs Protestant/Catholic redemption theology, heart vs reason encoding, Dostoevsky/Tolstoy as Russian soul. Pedagogical synthesis; may supplement but not substitute for Russian-primary or specialist Russian-historical scholarship. Supersedes v3.5.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.5)
@@ -325,6 +335,10 @@ Structural & Political History:
 • Orlando Figes (b. 1959) [27]
 • Stephen Kotkin (b. 1963) [7]
 • Niall Ferguson (b. 1964) — *The War of the World*, *Civilization: The West and the Rest*, *Empire*; admissible for comparative empire and twentieth-century conflict framing, Russia/USSR in descent-of-the-West narrative, and structural civilizational contrast. May supplement but not substitute for Russian-primary or specialist Russian-historical scholarship. [0]
+
+Civilizational & Pedagogical Synthesis:
+• Will Durant (1885–1981) — *The Story of Civilization* (11 vols.); *The Age of Faith*, *Rousseau and Revolution*, *The Age of Napoleon*; admissible for civilizational synthesis, Russia/USSR in comparative narrative. May supplement but not substitute for Russian-primary or specialist Russian-historical scholarship. [0]
+• Jiang Xueqin (b. 1976) — "Civilization #53: Dostoevsky and the Soul of Russia" (YouTube lecture); admissible for civilizational contrast (Anglo-American / German / Russian), Orthodox vs Protestant/Catholic redemption theology, heart vs reason encoding, Dostoevsky and Tolstoy as Russian soul, marginal power and vassalage as narrative drivers. Pedagogical synthesis; may supplement but not substitute for Russian-primary or specialist Russian-historical scholarship. [0]
 
 Strategic & Geographic Analysis (structural framing):
 • John J. Mearsheimer (b. 1947) — *The Tragedy of Great Power Politics*; "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); admissible for GEO–MEM strategic cognition, power distribution, international orders (Cold War, liberal order 1990–2019), and structural constraint framing. External IR framing only; may not substitute for Russian-historical primary scholarship. [22]

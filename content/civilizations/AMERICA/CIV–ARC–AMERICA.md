@@ -1,11 +1,11 @@
-CIV–ARC–AMERICA — v2.16
+CIV–ARC–AMERICA — v2.18
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · AMERICA
 
 Status: ACTIVE · CANONICAL
-Version: 2.16
-Supersedes: CIV–ARC–AMERICA v2.15
-Upgrade Type: ADDITIVE · Robert Caro (The Years of Lyndon Johnson), ARC-T-MODERN
+Version: 2.18
+Supersedes: CIV–ARC–AMERICA v2.17
+Upgrade Type: ADDITIVE · John Keegan (ARC-T-MODERN)
 Derived from: CIV–ARC–ANGLIA v3.0
 Entity: United States / America (Western Hemisphere hegemon)
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
@@ -167,6 +167,7 @@ and to constitutive Anglian-derived content):
   (as applicable)
 • Will Durant (1885–1981) — The Story of Civilization (with Ariel Durant);
   The Story of Philosophy (as applicable)
+• John Keegan (1934–2012) — The Face of Battle; The Mask of Command; A History of Warfare; Six Armies in Normandy; The First World War; The Second World War (as applicable for military/operational framing)
 • Bertrand Russell (1872–1970) — A History of Western Philosophy;
   A Critical Exposition of the Philosophy of Leibniz (as applicable)
 • A.C. Grayling (b. 1949) — The History of Philosophy (2019);
@@ -217,6 +218,7 @@ and to constitutive Anglian-derived content):
   Great Society, Vietnam, political power and procedure; primary biographical
   and institutional source for Johnson era (ARC-T-MODERN).
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. "Civilization #53: Dostoevsky and the Soul of Russia." Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative redemption/identity, heart vs reason. May supplement but not substitute for America-primary or specialist scholarship. [0]
 
 Only listed authors may be quoted without ARC–DISCOVERY flag. For
 sources not listed here but listed in ARC–ANGLIA and used for
@@ -318,6 +320,12 @@ v2.1 — Derivation alignment. Binding derivation clause added to
 v2.16 — Robert A. Caro added to ARC-T-MODERN: The Years of Lyndon Johnson
   (four volumes to date), The Power Broker; applicable for LBJ, Senate,
   presidency, Great Society, political power. February 2026.
+v2.17 — Jiang Xueqin (b. 1976) added to ARC-T-MODERN: "Civilization" series
+  (YouTube lectures); civilizational contrast, pedagogical synthesis;
+  admissible for cross-civilizational encoding. February 2026.
+v2.18 — John Keegan (1934–2012) added to ARC-T-MODERN: The Face of Battle,
+  The Mask of Command, A History of Warfare, Six Armies in Normandy, WWI/WWII
+  (as applicable for military/operational framing). February 2026.
 
 ────────────────────────────────────────────────────────────
 IX-B. ARC-T-INSTITUTIONAL (INSTITUTIONAL SOURCES)

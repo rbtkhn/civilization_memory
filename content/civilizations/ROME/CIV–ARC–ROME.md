@@ -1,13 +1,18 @@
-CIV–ARC–ROME — v3.0
+CIV–ARC–ROME — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–ROME v2.3
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–ARC–ROME v3.1
+Upgrade Type: ADDITIVE · Niall Ferguson, John Keegan (ARC-T-MODERN)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.2) — FERGUSON, KEEGAN
+────────────────────────────────────────────────────────────
+Niall Ferguson (b. 1964) and John Keegan (1934–2012) added to ARC-T-MODERN. Ferguson: comparative empire, civilizational contrast. Keegan: military historiography, Roman/medieval warfare framing.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.3) — ISAACSON REGISTRATION
@@ -253,6 +258,7 @@ Byzantine/Roman Continuity:
 
 Military History:
 • Richard Gabriel (b. 1942) — Works on Roman military history
+• John Keegan (1934–2012) — The Face of Battle (1976); The Mask of Command (1987); A History of Warfare (1993). Military historiography: command, battle culture, Roman/medieval warfare; applicable to MEM–ROME–WAR–* and Roman military framing. [0]
 
 Black Sea/Pontus:
 • Duane W. Roller — Empire of the Black Sea
@@ -262,6 +268,7 @@ Civilizational Synthesis:
   Relevant to ROME: *The Life of Greece* (1939), *Caesar and Christ* (1944),
   *The Age of Faith* (1950), *The Renaissance* (1953)
   Function: Narrative synthesis, interpretive framing, civilizational context
+• Niall Ferguson (b. 1964) — *Civilization: The West and the Rest* (2011); *The War of the World* (2006); *Empire* (2003). Comparative empire, civilizational contrast, Roman/Byzantine afterlife in Western narrative; applicable for structural and comparative framing. [0]
 
 Italian Renaissance / Roman Afterlife:
 • Paul Strathern (b. 1940) — The Medici: Godfathers of the Renaissance (2003),
@@ -276,6 +283,9 @@ Renaissance Biography:
 
 Structural / International Orders (IR framing):
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+
+Civilizational & Pedagogical Synthesis:
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. "Civilization #53: Dostoevsky and the Soul of Russia" and Rome/Byzantine-relevant episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative redemption/identity, Latin vs Orthodox. May supplement but not substitute for Rome-primary or specialist scholarship. [0]
 
 ────────────────────────────────────────────────────────────
 VIII. ORTHOGONALITY WITH ERC

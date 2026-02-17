@@ -375,10 +375,11 @@ of all three produces output that is historically grounded,
 analytically cumulative, and contextually broad.
 
 When a parallel is drawn from layer 3 (general knowledge) and
-recurs across multiple analytical nodes, it should be flagged as
-a MEM generation candidate at session closure — it has demonstrated
-analytical utility and may warrant inclusion in the civilizational
-memory corpus.
+recurs across multiple analytical nodes, record it as a MEM generation
+candidate in CIV–SCHOLAR–[CIV] Section X.A (MEM Generation Candidates)
+at session closure; relay may include the candidate list so it is added
+to the entity's SCHOLAR. It has demonstrated analytical utility and may
+warrant inclusion in the civilizational memory corpus.
 
 ENTITY FOCUS: CORE, STATE, AND SCHOLAR RE-ANCHOR TOGETHER.
 When the entity under analysis changes, the session re-anchors to the
@@ -2169,7 +2170,8 @@ Relay procedure:
    updates, doctrine-check insights, forward-projection summaries).
 2. Propose specific additions to CIV–SCHOLAR–[CIV] in a form
    appropriate to that file (e.g. ENTRY, synthesis candidate, RLL
-   proposal, or pattern note per SCHOLAR template structure).
+   proposal, pattern note, or MEM generation candidate per SCHOLAR
+   template Section X.A).
 3. Present proposed additions to the user; apply only after approval.
 4. Record in the STATE file (e.g. STATE Log or session activity
    record) that a relay was performed and what was transferred.

@@ -737,6 +737,13 @@ LAYER INDICATOR:
 Ephemeral observations may reference canonical patterns
 but may NOT modify canonical SCHOLAR state.
 
+**MEM Generation Candidates (Template § X.A):** Proposed new MEMs are
+recorded in CIV–SCHOLAR–[CIV] Section X.A (or local equivalent). Source:
+LEARN/IMAGINE (recurring ungrounded parallel or gap) or STATE via relay
+(non-MEM parallel recurring across nodes). Relay may propose MEM
+candidate table rows. Path to MEM: select in WRITE → propose
+scope/connections from INDEX → user approves → WRITE → register in INDEX.
+
 CEV files follow CIV–CEV–TEMPLATE.
 
 ────────────────────────────────────────────────────────────

@@ -1,11 +1,11 @@
-CIV–ARC–CHINA — v3.4
+CIV–ARC–CHINA — v3.5
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · CHINA
 
 Status: ACTIVE · CANONICAL
-Version: 3.4
-Supersedes: CIV–ARC–CHINA v3.3
-Upgrade Type: Verbatim citation count [N] per source
+Version: 3.5
+Supersedes: CIV–ARC–CHINA v3.4
+Upgrade Type: ADDITIVE · Jiang Xueqin (Civilization series), ARC-T-MODERN
 Civilization: CHINA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–CHINA · CIV–SCHOLAR–CHINA
@@ -109,6 +109,7 @@ ARC-T-MODERN:
 • Will Durant (1885–1981) — Our Oriental Heritage (1935), Volume I of The Story of Civilization. China, India, Japan, and Near East from origins; civilizational narrative; Chinese philosophy and dynastic history. Accessible synthesis; foundational for popular civilizational framing. [0]
 • Encyclopedia of China (中国大百科全书) — 2nd ed. 2007 (32 vols.); 3rd ed. online zgbk.com (2018–). Authoritative general encyclopedia in Chinese; scholar-written; state-sponsored (Encyclopedia of China Publishing House); equivalent in scope and authority to Encyclopaedia Britannica. Authoritative For: Standard reference, definitions, Chinese scholarly consensus on history, institutions, geography, figures; factual and conceptual grounding when Chinese-language reference is needed. Applicable to all MEM–CHINA for accuracy and credibility; cite entry and edition when quoting. Chinese-language primary. [0]
 • Qian Mu (钱穆, 1895–1990) — 国史大纲 (Outline of National History); 国学概论 (Introduction to Chinese Learning). Chinese-language historiography; traditional narrative and cultural continuity. Applicable when MEM addresses dynastic narrative or cultural identity from a Chinese scholarly perspective; cite translation or original with translation note. [0]
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. China-relevant and cross-civilizational episodes. Civilizational contrast, pedagogical synthesis; admissible for Confucian vs Western encoding, comparative identity, cross-civilizational framing. May supplement but not substitute for China-primary or specialist scholarship. [0]
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 

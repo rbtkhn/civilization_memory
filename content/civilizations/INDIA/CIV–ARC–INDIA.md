@@ -1,11 +1,11 @@
-CIV–ARC–INDIA — v3.3
+CIV–ARC–INDIA — v3.5
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · INDIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.3
-Supersedes: CIV–ARC–INDIA v3.2
-Upgrade Type: Verbatim citation count [N] per source
+Version: 3.5
+Supersedes: CIV–ARC–INDIA v3.4
+Upgrade Type: ADDITIVE · John Keegan (ARC-T-MODERN)
 Civilization: INDIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–INDIA · CIV–SCHOLAR–INDIA
@@ -74,6 +74,7 @@ ARC-T-EARLY-MOD:
 ARC-T-MODERN:
 • Will Durant (1885–1981) — The Story of Civilization, Vol. 1: Our Oriental Heritage (1935); The Case for India (1930); civilizational synthesis on India, continuity, British rule, village community, transmission [24]
 • Niall Ferguson (b. 1964) — Empire: How Britain Made the Modern World (2003); British India as jewel in the crown, administrative laboratory, Company-to-Crown trajectory, extraction vs governance, imperial method at scale [10]
+• John Keegan (1934–2012) — The Face of Battle (1976); The Mask of Command (1987); A History of Warfare (1993). Military historiography: command, battle culture; applicable to MEM–INDIA–WAR–* and military framing. [0]
 • John Keay (b. 1941) — India: A History; India Discovered [0]
 • Romila Thapar (b. 1931) — Early India; Asoka and the Decline of the Mauryas; Somanatha [6]
 • Upinder Singh (b. 1959) — A History of Ancient and Early Medieval India; Political Violence in Ancient India [0]
@@ -81,6 +82,7 @@ ARC-T-MODERN:
 • Sunil Khilnani (b. 1960) — The Idea of India; Incarnations [2]
 • Jack Weatherford (b. 1941) — Genghis Khan and the Making of the Modern World (2004); Mongol empire, Silk Road, Timurid/Mughal lineage; transmission and empire formation relevant to India’s medieval/early-modern interface [0]
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. Applicable to MEMs for structural/power framing and order-type analysis. [0]
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. India-relevant and cross-civilizational episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative identity. May supplement but not substitute for India-primary or specialist scholarship. [0]
 
 ARC-T-MODERN (ENGLISH REFERENCE):
 • Encyclopaedia Britannica — India and South Asia entries; comprehensive English reference; editorial/collaborative [0]

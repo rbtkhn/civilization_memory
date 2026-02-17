@@ -8,6 +8,75 @@ Last Updated: 2026-02-15
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00024. PROPAGATION: MEM GENERATION CANDIDATES TO ALL SCHOLAR + GOVERNANCE (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: PROPAGATION (templates, governance, all civilization SCHOLAR files)
+
+CHANGES:
+• **CIV–STATE–TEMPLATE § XIV-B:** Relay step 2 now includes "MEM generation candidate per SCHOLAR template Section X.A".
+• **CIV–SCHOLAR–PROTOCOL:** MEM Generation Candidates (Template § X.A) paragraph added after Ephemeral layer text (source, relay, path to MEM).
+• **REVIEWER–BOOTSTRAP–MAP:** Minimum review checks now include SCHOLAR Section X.A (MEM Generation Candidates) presence.
+• **CIV–SCHOLAR–[CIV]:** Section X.A (or equivalent) MEM Generation Candidates + table added to: AMERICA, INDIA, CHINA, ISLAM, ANGLIA, PERSIA, GERMANIA, ROME, FRANCIA (Russia already had XIII.A).
+
+RATIONALE:
+User: "Propagate changes to all relevant governance and template files."
+
+────────────────────────────────────────────────────────────
+00023. MEM GENERATION CANDIDATES IN SCHOLAR (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: TEMPLATE + CURSOR RULE + STATE TEMPLATE + SCHOLAR (Russia)
+
+CHANGES:
+• **CIV–SCHOLAR–TEMPLATE:** New Section X.A MEM Generation Candidates. Canonical location for proposed new MEMs; format table (Civ, Proposed subject, One-line rationale, Source, Status: open / in WRITE / created); path to MEM: select in WRITE → propose scope/connections from INDEX → user approves → WRITE → INDEX. Sources: LEARN/IMAGINE (recurring ungrounded parallel or gap) or STATE via relay.
+• **cmc-state-mem-grounding.mdc:** Recurring non-MEM parallels must be recorded in CIV–SCHOLAR–[CIV] Section X.A at session closure; relay from STATE may carry candidate list into SCHOLAR.
+• **CIV–STATE–TEMPLATE:** Same: record candidates in SCHOLAR Section X.A at session closure; relay may include candidate list.
+• **CIV–SCHOLAR–RUSSIA:** Section XIII.A MEM Generation Candidates added (Template § X.A) with empty table.
+• **CMC–SYSTEM–MAP:** Section V (Where to go next) now references MEM generation candidates (SCHOLAR Section X.A, path via WRITE → INDEX).
+
+RATIONALE:
+User: "MEM candidates should be in SCHOLAR." Single canonical place so WRITE mode can pick up candidates and the pipeline (candidate → propose → WRITE → INDEX) is explicit.
+
+────────────────────────────────────────────────────────────
+00022. CHECKLIST–PRE–OUTPUT–APPLICATION (CONSISTENT RULE APPLICATION) (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: GOVERNANCE (new reference document + cursor rule updates)
+
+CHANGES:
+• **New document:** docs/governance/CHECKLIST–PRE–OUTPUT–APPLICATION.md.
+  Consolidated pre-output checklists for three trigger contexts:
+  (I) STATE evidence / doctrine check — ARC source coverage (≥2 categories, entity source, attribution, contradictions);
+  (II) Absence claim — negative-claim corpus check (MEM search, reformulate if counter-evidence);
+  (III) Doctrine-change proposal — gated spiral note (which doctrines governed, frame-consistent vs frame-challenging).
+• **Cursor rules updated:** cmc-arc-source-coverage.mdc, cmc-negative-claim-check.mdc, cmc-gated-spiral-awareness.mdc — each Self-Check section now includes "Before delivering: run the applicable checklist in docs/governance/CHECKLIST–PRE–OUTPUT–APPLICATION.md" with section number.
+• **CMC–SYSTEM–MAP:** Section V (Where to go next) now references CHECKLIST–PRE–OUTPUT–APPLICATION.md.
+
+RATIONALE:
+Second-priority suggestion from reflection: consistent application of existing rules. One run point (the checklist) so ARC coverage, negative-claim check, and doctrine-shaped note are executed before delivery when the trigger applies.
+
+────────────────────────────────────────────────────────────
+00021. CMC–SYSTEM–MAP (HIGH-LEVEL ARCHITECTURE) (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: GOVERNANCE (new reference document)
+
+CHANGES:
+• **New document:** docs/governance/CMC–SYSTEM–MAP.md.
+• **Purpose:** Single high-level reference for how the system fits together:
+  modes (SCHOLAR/STATE/SYSTEM), file roles (MEM, CORE, INDEX, SCHOLAR, STATE,
+  DOCTRINE, ARC), data flows (past→learning, past→STATE, sync, relay,
+  doctrine loop), and gates (doctrine change, relay, sync, ARC, MEM).
+• **BOOTSTRAP:** Step 7 updated to point to CMC–SYSTEM–MAP for "system
+  architecture (modes, file roles, data flows, gates)."
+
+RATIONALE:
+Reflection session identified need for one concise map so that "where does
+X live?" and "how does Y get into Z?" are answerable in one place; supports
+onboarding, debugging, and placing new governance changes.
+
+────────────────────────────────────────────────────────────
 00020. PROTOCOL: CIV–SCHOLAR / CIV–STATE DIFFERENTIATION (16 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-16

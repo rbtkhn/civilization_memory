@@ -1,10 +1,10 @@
-CIV–ARC–GERMANIA — v3.0
+CIV–ARC–GERMANIA — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence
 
 Status: ACTIVE · CANONICAL · SIMPLIFIED
-Supersedes: CIV–ARC–GERMANIA v2.5
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Supersedes: CIV–ARC–GERMANIA v3.1
+Upgrade Type: ADDITIVE · John Keegan (ARC-T-MODERN)
 Scope: Author admissibility and temporal precedence ONLY
 Compatibility: CIV–MEM–CORE v3.0 · CIV–MEM–TEMPLATE v3.0 · NAMESPACE–CLARIFICATION v1.0
 Last Updated: February 2026
@@ -176,6 +176,9 @@ ARC-T-MODERN:
   - The House of Rothschild (2 vols.): Frankfurt banking, Metternich era, Jewish emancipation
   - The Pity of War: WWI from German perspective, military efficiency, British error
   - The War of the World: Twentieth-century conflict, Nazi era, descent of the West
+• John Keegan (1934–2012) — The Face of Battle; The Mask of Command; A History of Warfare; The First World War; The Second World War
+  TOPICAL SCOPE:
+  - Agincourt, Waterloo, Somme; Thirty Years' War context; WWI/WWII operational culture; command and battle framing for Germania MEMs
 • Robert K. Massie (1929–2019) — Dreadnought; Castles of Steel
   TOPICAL SCOPE:
   - Dreadnought (1991): Anglo-German naval rivalry 1890–1914, Tirpitz, Wilhelm II, Fisher
@@ -196,6 +199,7 @@ ARC-T-MODERN:
   - The Army of Flanders and the Spanish Road (1972): Habsburg logistics, force projection
   - Supports: MEM–GERMANIA–BELGIUM–ANTWERP, Habsburg military analysis
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. "Civilization #53: Dostoevsky and the Soul of Russia" and Germania-relevant episodes. Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, Protestant vs Orthodox/Catholic, comparative identity. May supplement but not substitute for Germania-primary or specialist scholarship. [0]
 
 RULE: Only listed authors may be quoted without discovery flag.
 

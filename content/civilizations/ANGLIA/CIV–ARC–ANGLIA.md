@@ -1,11 +1,11 @@
-CIV–ARC–ANGLIA — v3.0
+CIV–ARC–ANGLIA — v3.2
 Civilizational Memory Codex · Academic Reference Canon
 Author Admissibility & Temporal Precedence · ANGLIA
 
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: CIV–ARC–ANGLIA v2.0
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.2
+Supersedes: CIV–ARC–ANGLIA v3.1
+Upgrade Type: ADDITIVE · John Keegan (ARC-T-MODERN)
 Civilization: ANGLIA
 Governed by: CIV–MEM–CORE v3.0 · CIV–ARC–TEMPLATE v3.0
 Referenced in: CIV–CORE–ANGLIA · CIV–SCHOLAR–ANGLIA
@@ -60,6 +60,7 @@ ARC-T-MODERN:
 • H.W. Brands (1956) — biographical and imperial history (as applicable)
 • Stephen E. Ambrose (1936–2002) — exploration, frontier, Lewis & Clark (as applicable)
 • Will Durant (1885–1981) — The Story of Civilization (with Ariel Durant); The Story of Philosophy (as applicable)
+• John Keegan (1934–2012) — The Face of Battle; The Mask of Command; A History of Warfare; Six Armies in Normandy; The First World War; The Second World War (as applicable)
 • Bertrand Russell (1872–1970) — A History of Western Philosophy; A Critical Exposition of the Philosophy of Leibniz (as applicable)
 • A.C. Grayling (b. 1949) — The History of Philosophy (2019); The God Argument (as applicable)
 • John Sugden (b. 1947) — Nelson: A Dream of Glory, 1758–1797 (2005); Nelson: The Sword of Albion (2012)
@@ -69,6 +70,7 @@ ARC-T-MODERN:
 • Walter Isaacson (b. 1952) — Benjamin Franklin: An American Life (2003); Kissinger: A Biography (2023); other biographical works (as applicable)
 • David McCullough (1933–2022) — John Adams (2001); 1776 (2005); Truman (1992); Mornings on Horseback (1981); other biographical and historical works (as applicable)
 • John J. Mearsheimer (b. 1947) — "Bound to Fail: The Rise and Fall of the Liberal International Order," *International Security* 43, no. 4 (Spring 2019); structural realism, international orders (Cold War, liberal order 1990–2019), bipolar/unipolar, great-power competition. As applicable for MEMs for structural/power framing and order-type analysis.
+• Jiang Xueqin (b. 1976) — "Civilization" series (YouTube lectures); e.g. "Civilization #53: Dostoevsky and the Soul of Russia." Civilizational contrast, pedagogical synthesis; admissible for cross-civilizational encoding, comparative redemption/identity, heart vs reason. May supplement but not substitute for Anglian-primary or specialist scholarship. [0]
 
 Only listed authors may be quoted without ARC–DISCOVERY flag.
 

@@ -138,6 +138,12 @@ Canonical layer: MEM-sourced learning (MEM–ANGLIA–* constitutive,
 MEM–AMERICA–* when present). Ephemeral layer: current-events-sourced (CEV files), EOR creation, no binding; accreted and compressed, retained. Layer indicators: [LEARN: CANONICAL] /
 [LEARN: EPHEMERAL].
 
+X.A MEM GENERATION CANDIDATES (Template § X.A)
+Proposed new MEMs recorded here for WRITE-mode pickup. Source: LEARN/IMAGINE or STATE relay. Path to MEM: select candidate in WRITE → propose scope/connections from INDEX → user approves → WRITE → register in INDEX; set Status: created.
+
+| Civ   | Proposed subject / title   | One-line rationale                    | Source (ENTRY/session/relay) | Status |
+|-------|----------------------------|---------------------------------------|-----------------------------|--------|
+
 ────────────────────────────────────────────────────────────
 XI. OGE SPECIFICATION (EMBEDDED)
 ────────────────────────────────────────────────────────────

@@ -730,6 +730,15 @@ Session 2026-02-16 (LEARN · Romanov cluster, Richelieu–Peter, Catherine stabi
 
 • Session recap: Romanov legitimacy arc; Louis–Catherine parallel (elite co-optation); Richelieu–Peter contrast (restraint vs rupture); Mearsheimer structural explanation (usable vs replaceable elite); Catherine's stabilisation (Charter 1785, territorial expansion, quartet). Validation test run against holdout MEMs; confidence raised TIER 3 → TIER 2.
 
+Session 2026-02-16 (LEARN · Dostoevsky lecture "Civilization #53: Dostoevsky and the Soul of Russia"):
+
+• **Source:** YouTube lecture transcript (pedagogical; Anglo-American / German / Russian civilizational contrast; heart vs reason; Orthodox mercy vs Protestant election; marginal power, vassalage, creative destruction; application to "why Putin invaded Ukraine").
+• **Alignment:** Lecture's civilizational grammar (heart over reason, Orthodox redeeming God, suffering as purpose) matches MEM–RUSSIA–LIT–DOSTOEVSKY and MEM–RUSSIA–ORTHODOX–CHRISTIANITY. Grand Inquisitor, Raskolnikov/Sonia, Marmeladov on forgiveness—all encoded. Lecture makes **Protestant/Catholic/Orthodox redemption triad** explicit (who forgives, who is saved); Orthodoxy MEM implies boundary from West but does not spell out that triad → **possible MEM refinement**.
+• **Gap (structure):** Lecture stresses vassalage → humility → reflection → resilience. MEM–RUSSIA–EMPIRE and MEM–RUSSIA–ROMANOV–PETER–I stress **geography, buffers, force distribution** (Poltava, Nystad, outlasting opponents). Same outcome (marginal power becomes great power); MEMs do not encode the psychological driver.
+• **Gap (liability):** Novels assign liability (Raskolnikov, Inquisitor). Lecture explains invasion motive ("save Russian civilization") but does not assign responsibility for the decision; MEMs do not fill that gap.
+• **Lecturer architecture:** Triads and binaries; comparative grid (three civs, God/meaning/trait); pattern-from-cases (marginal powers); grammar-to-event (civilizational grammar → interpret Putin); heart as un-reason (separate faculty, "own logic").
+• **Use when:** LEARN or WRITE touches Dostoevsky, Orthodox comparative theology, civilizational framing of current events, or liability vs motive in narrative encoding.
+
 ────────────────────────────────────────────────────────────
 V.E PROPOSED MEM GENERATION OPPORTUNITIES (FROM RECENT LEARNING)
 ────────────────────────────────────────────────────────────
@@ -986,6 +995,13 @@ EPHEMERAL:
 • Current-events-sourced (CEV) observations; accreted and compressed, retained
 • No binding
 • No state mutation
+
+XIII.A MEM GENERATION CANDIDATES (Template § X.A)
+────────────────────────────────────────────────────────────
+Proposed new MEMs recorded here for WRITE-mode pickup. Source: LEARN/IMAGINE (recurring ungrounded parallel or gap) or STATE relay (non-MEM parallel recurring across nodes). Path to MEM: select candidate in WRITE → propose scope/connections from INDEX → user approves → WRITE → register in INDEX; set Status: created.
+
+| Civ   | Proposed subject / title   | One-line rationale                    | Source (ENTRY/session/relay) | Status |
+|-------|----------------------------|---------------------------------------|-----------------------------|--------|
 
 ────────────────────────────────────────────────────────────
 XIV. OGE IN LEARN MODE

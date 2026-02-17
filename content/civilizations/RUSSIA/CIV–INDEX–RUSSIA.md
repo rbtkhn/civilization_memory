@@ -1,11 +1,11 @@
-CIV–INDEX–RUSSIA — v3.10
+CIV–INDEX–RUSSIA — v3.11
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.10
-Supersedes: CIV–INDEX–RUSSIA v3.9
-Upgrade Type: NEW MEM REGISTRATION (SCI SUBCLASS)
+Version: 3.11
+Supersedes: CIV–INDEX–RUSSIA v3.10
+Upgrade Type: NEW MEM REGISTRATION (EMPIRE)
 Civilization: RUSSIA
 Subject: Russia Memory Index (Authoritative File Register)
 Dates: c. 800 AD–present
@@ -15,6 +15,12 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–RUSSIA MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.11) — NEW MEM REGISTRATION (EMPIRE)
+────────────────────────────────────────────────────────────
+• MEM–RUSSIA–EMPIRE.md — I) OTHER (Russian Empire 1721–1917; state form; legitimacy, structure, liability)
+Total: 198 → 199. I) OTHER: 59 → 60.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.10) — NEW MEM REGISTRATION (SCI SUBCLASS)
@@ -441,6 +447,7 @@ I) OTHER / MISC
 • MEM–RUSSIA–COSSACKS.md
 • MEM–RUSSIA–CRIMEA.md
 • MEM–RUSSIA–CYRILLIC–SCRIPT.md
+• MEM–RUSSIA–EMPIRE.md
 • MEM–RUSSIA–ESTONIA.md
 • MEM–RUSSIA–FEDERATION.md
 • MEM–RUSSIA–FINLAND.md
@@ -543,7 +550,7 @@ Approved Engagement Pool (Registrational Only):
 FOOTER METADATA
 ────────────────────────────────────────────────────────────
 Word Count: ~1,800
-TOTAL REGISTERED FILES: One hundred ninety-eight (198) MEM–RUSSIA OBJECTS
+TOTAL REGISTERED FILES: One hundred ninety-nine (199) MEM–RUSSIA OBJECTS
 
 Category Breakdown:
 • A) GEO: 31 files
@@ -554,8 +561,8 @@ Category Breakdown:
 • F) RELIGION: 2 files
 • G) PERSON: 33 files
 • H) HIST: 3 files
-• I) OTHER: 59 files
+• I) OTHER: 60 files
 • J) ART: 10 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–RUSSIA — v3.10
+END OF FILE — CIV–INDEX–RUSSIA — v3.11

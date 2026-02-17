@@ -1,10 +1,10 @@
-MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.2
+MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.3
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.2
-Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.1
-Upgrade Type: CONTENT · CONSTRAINT GRAMMAR NOTE (IDENTITY VS SUCCESSION; REVISABLE)
+Version: 3.3
+Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.2
+Upgrade Type: CONTENT · JIANG XUEQIN VERBATIM (REDEMPTION THEOLOGY)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
 Subject: Orthodox Christianity (Православие)
@@ -163,6 +163,17 @@ This produces:
 • mysticism over legalism
 • harmony over rights-based conflict
 • endurance over reformist rupture
+
+Jiang Xueqin frames the Orthodox position on redemption in contrast to
+Protestant and Catholic paths:
+
+> "The Orthodox believe we are beyond salvation and redemption. The human
+> heart is so dark, so mysterious that we are beyond salvation and
+> redemption. And that is why God is great—because only God can save and
+> redeem us even though we are beyond salvation and redemption."
+> — Jiang Xueqin, "Civilization #53: Dostoevsky and the Soul of Russia"
+>   (YouTube lecture), ARC–RUSSIA Category D (Civilizational &
+>   Pedagogical Synthesis)
 
 ────────────────────────────────────────────────────────────
 VII. MODERN ADAPTATION: EMPIRE, SOVIET SUPPRESSION, REVIVAL

@@ -1548,6 +1548,12 @@ This canon:
 No ARC content is embedded in this file.
 Any deviation from CIV–ARC–ROME v1.9 invalidates compliance.
 
+MEM GENERATION CANDIDATES (Template § X.A)
+Proposed new MEMs recorded here for WRITE-mode pickup. Source: LEARN/IMAGINE or STATE relay. Path to MEM: select candidate in WRITE → propose scope/connections from INDEX → user approves → WRITE → register in INDEX; set Status: created.
+
+| Civ   | Proposed subject / title   | One-line rationale                    | Source (ENTRY/session/relay) | Status |
+|-------|----------------------------|---------------------------------------|-----------------------------|--------|
+
 ────────────────────────────────────────────────────────────
 X. SCHOLAR ↔ CORE PARITY CHECKSUM
 ────────────────────────────────────────────────────────────

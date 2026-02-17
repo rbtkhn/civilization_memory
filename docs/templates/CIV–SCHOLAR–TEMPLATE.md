@@ -1043,6 +1043,28 @@ LAYER INDICATOR:
 Ephemeral observations may reference canonical patterns
 but may NOT modify canonical SCHOLAR state.
 
+X.A MEM GENERATION CANDIDATES (NEW · v3.3)
+────────────────────────────────────────────────────────────
+**Canonical location for proposed new MEMs.** Candidates are recorded here
+so they can be picked up in WRITE mode and turned into MEMs, then
+registered in CIV–INDEX.
+
+**Source of candidates:**
+- LEARN/IMAGINE: recurring ungrounded parallel or gap identified during
+  traversal; proposed new MEM subject.
+- STATE (via relay): non-MEM parallel that recurred across multiple
+  analytical nodes (per cmc-state-mem-grounding); relay may include
+  candidate list for the entity's SCHOLAR.
+
+**Format (append to this section):**
+| Civ   | Proposed subject / title   | One-line rationale                    | Source (ENTRY/session/relay) | Status        |
+|-------|----------------------------|---------------------------------------|-----------------------------|---------------|
+| RUSSIA| e.g. MEM–RUSSIA–WITTE      | Fiscal reform, railway; gap in 1890s  | ENTRY 0042 / relay 2026-02  | open / in WRITE / created |
+
+**Status:** open = not yet chosen for WRITE; in WRITE = currently being drafted; created = MEM file exists, INDEX updated.
+
+**Path to MEM:** When moving to WRITE mode, user or system may select from open candidates. System proposes scope and connections from CIV–INDEX; user approves → WRITE → register new MEM in CIV–INDEX and (if applicable) MEM–RELEVANCE. Update candidate row to Status: created and reference MEM–[CIV]–[ID].
+
 ────────────────────────────────────────────────────────────
 XI. OGE IN LEARN MODE (NEW · v2.1)
 ────────────────────────────────────────────────────────────

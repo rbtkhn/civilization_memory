@@ -231,6 +231,14 @@ MODE-SPECIFIC POSTURE:
 • IMAGINE: Counterfactual probing (alternative trajectories)
 
 ────────────────────────────────────────────────────────────
+III.E MEM GENERATION CANDIDATES (Template § X.A)
+────────────────────────────────────────────────────────────
+Proposed new MEMs recorded here for WRITE-mode pickup. Source: LEARN/IMAGINE or STATE relay. Path to MEM: select candidate in WRITE → propose scope/connections from INDEX → user approves → WRITE → register in INDEX; set Status: created.
+
+| Civ   | Proposed subject / title   | One-line rationale                    | Source (ENTRY/session/relay) | Status |
+|-------|----------------------------|---------------------------------------|-----------------------------|--------|
+
+────────────────────────────────────────────────────────────
 IV. CIVILIZATIONAL AXIOM SECTION (v2.0)
 ────────────────────────────────────────────────────────────
 Axioms are interpretive anchors derived from accumulated MEM evidence.
