@@ -1,18 +1,18 @@
-CIV–INDEX–PERSIA — v3.18
+CIV–INDEX–PERSIA — v3.20
 Civilizational Memory Codex · Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL
-Version: 3.18
-Supersedes: CIV–INDEX–PERSIA v3.17
-Upgrade Type: ADDITIVE · Section IV.A Science (SCI subclass); seven MEM–PERSIA–SCI–* files
+Version: 3.20
+Supersedes: CIV–INDEX–PERSIA v3.19
+Upgrade Type: ADDITIVE · MEM–PERSIA–LAW–MONARCHY
 Civilization: PERSIA
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Template: CIV–INDEX–TEMPLATE v3.0
 Last Update: February 2026
 
-MEM COUNT: 72 MEM–PERSIA files (reconciled 2026-02)
+MEM COUNT: 76 MEM–PERSIA files (reconciled 2026-02)
 
 ────────────────────────────────────────────────────────────
 I. INDEX PURPOSE & GOVERNANCE
@@ -130,6 +130,19 @@ V-A. LITERATURE & CIVILIZATIONAL TRANSMISSION
 
 • MEM–PERSIA–LIT–NIMA–YUSHIJ.md  
   (Founder of she'r-e now; new poetry; broke classical metre; bridge tradition and modernity)
+
+────────────────────────────────────────────────────────────
+V-B. LAW (LAW SUBCLASS)
+────────────────────────────────────────────────────────────
+• MEM–PERSIA–LAW–SIYASATNAMA.md  
+  (Nizam al-Mulk; Book of Government; Seljuk governance as law; ARC-T-MEDIEVAL)
+• MEM–PERSIA–LAW–CONSTITUTION.md  
+  (1906 Mashruta and 1979 IRI constitution; written constraint and dual structure)
+• MEM–PERSIA–LAW–SASANIAN.md  
+  (Sasanian/Zoroastrian codified law; asha; sacral kingship; Madigan)
+
+• MEM–PERSIA–LAW–MONARCHY.md  
+  (Monarchy as legal form; kingship, succession; 1906 limit; 1979 abolition)
 
 ────────────────────────────────────────────────────────────
 VI. GEOGRAPHIC & SPATIAL MEMORY FILES
