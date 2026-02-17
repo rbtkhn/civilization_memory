@@ -1,10 +1,10 @@
-MEM–RUSSIA–LAW–SERFDOM — v3.1
+MEM–RUSSIA–LAW–SERFDOM — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–LAW–SERFDOM v3.0
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.2
+Supersedes: MEM–RUSSIA–LAW–SERFDOM v3.1
+Upgrade Type: CONTENT · GOGOL VERBATIM (Section VII: Dead Souls)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Serfdom (Крепостное право)
 Dates: c. 1590s–1861 AD
@@ -151,6 +151,18 @@ Village" (1819):
 The poem contrasts pastoral beauty with serfdom's horrors—slavery, the
 "burdensome yoke," the denial of hope.
 
+Gogol, writing while the system still stood, encodes serfdom as **legal
+fiction**: in *Dead Souls* (1842) the trade in "dead souls" (deceased
+serfs still on the census) makes bureaucratic rationality itself the
+absurdity:
+
+> "The idea was most certainly a strange one. No one had ever doubted
+> the legality of the purchase of dead souls; but such a purchase had
+> never been attempted before. Chichikov was occupied with a most
+> singular subject: he was pondering the fact that the dead souls had
+> all had trades and callings in their lifetime."
+> — Nikolai Gogol, *Dead Souls* (1842), trans. Constance Garnett
+
 Tolstoy, writing after 1861, encodes the system's **persistent shadow**
 in elite and peasant consciousness:
 
@@ -188,6 +200,7 @@ RUSSIA (≥10):
 • MEM–RUSSIA–WAR–CRIMEAN — strategic shock exposing serfdom as liability
 • MEM–RUSSIA–ORTHODOX–CHRISTIANITY — church legitimization of social hierarchy
 • MEM–RUSSIA–LIT–PUSHKIN — "The Village" (1819) serfdom critique
+• MEM–RUSSIA–LIT–GOGOL — Dead Souls (1842) serfdom as legal fiction; Section VII verbatim
 
 GEO (≥2):
 • MEM–GEO–RUSSIAN–STEPPE — agricultural foundation; grain surplus extraction zone
@@ -209,6 +222,7 @@ X. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 PRIMARY SOURCES:
 • Pushkin, Alexander. "The Village" (1819). Trans. James Falen.
+• Gogol, Nikolai. *Dead Souls* (1842). Trans. Constance Garnett. London: Chatto & Windus, 1922. [Section VII: serfdom as legal fiction]
 • Tolstoy, Leo. *Anna Karenina* (1877). Trans. Louise and Aylmer Maude.
   [Literary evidence: serfdom's legacy in post-emancipation consciousness, Section VII]
 • *Ulozhenie* (Law Code of 1649), Chapter XI: On Peasants
@@ -243,5 +257,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LAW–SERFDOM v3.1
+END OF FILE — MEM–RUSSIA–LAW–SERFDOM v3.2
 ────────────────────────────────────────────────────────────

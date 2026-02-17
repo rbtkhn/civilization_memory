@@ -1,10 +1,10 @@
-MEM–RUSSIA–GORBACHEV — v3.1
+MEM–RUSSIA–GORBACHEV — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.1
-Supersedes: MEM–RUSSIA–GORBACHEV v3.0
-Upgrade Type: CONTENT · DOCTRINE 07 APPLICATION
+Version: 3.2
+Supersedes: MEM–RUSSIA–GORBACHEV v3.1
+Upgrade Type: CONTENT · CONSTRAINT GRAMMAR NOTE (REVISABLE UNDER EVIDENCE)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: SOVIET (REFORM / DISSOLUTION)
 Subject: Mikhail Sergeyevich Gorbachev (Михаил Сергеевич Горбачёв)
@@ -41,6 +41,8 @@ This MEM does NOT resolve:
 • Whether he was tragic reformer or naive dismantler
 
 Contradictions are preserved without synthesis.
+
+**Constraint grammar:** This MEM is a primary source for the civilizational constraint that reform without coercive backing destabilizes (SCHOLAR axiom and negative-capability exclusion). That constraint is an interpretive reading of this history, not a fact about the world; it remains revisable if evidence from this or other MEMs, or from comparative cases, warrants revision.
 
 ────────────────────────────────────────────────────────────
 II. ASCENT AND CONTEXT
@@ -280,5 +282,5 @@ E. Legacy — reformer or dismantler
 F. Compliance & integrity audit
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–GORBACHEV v3.1
+END OF FILE — MEM–RUSSIA–GORBACHEV v3.2
 ────────────────────────────────────────────────────────────

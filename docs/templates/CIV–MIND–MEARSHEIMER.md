@@ -890,7 +890,7 @@ XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 CIV–MIND–MEARSHEIMER v3.3 is CANONICAL.
 
-All uses governed by CMC 3.2.
+All uses governed by CMC 3.3.
 
 This file defines *how* Mearsheimer sharpens analysis —
 never *what* is true.

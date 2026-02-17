@@ -1,10 +1,10 @@
-MEM–RUSSIA–LIT–DOSTOEVSKY — v3.0
+MEM–RUSSIA–LIT–DOSTOEVSKY — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL
-Version: 3.0
-Supersedes: v2.7
-Upgrade Type: ALIGNMENT · KISSINGER VERBATIM (K5)
+Version: 3.1
+Supersedes: MEM–RUSSIA–LIT–DOSTOEVSKY v3.0
+Upgrade Type: CONTENT · GOGOL VERBATIM (Section II: The Overcoat as predecessor)
 Civilization: RUSSIA (Русская цивилизация)
 Subject: Fyodor Dostoevsky (Фёдор Достоевский) — Psychological Memory Architect
 Dates: 1821–1881 AD (decisive works: 1866–1880)
@@ -37,6 +37,17 @@ Contradictions are preserved without synthesis.
 ────────────────────────────────────────────────────────────
 II. CRIME AND PUNISHMENT AS CONSCIENCE ARCHITECTURE
 ────────────────────────────────────────────────────────────
+Dostoevsky's psychological depth builds on Gogol's grotesque. The
+"little man," the clerk, the department—Gogol's *The Overcoat* (1842)
+supplies the predecessor from which Dostoevsky's conscience-architecture
+extends:
+
+> "In the department of… but it is better not to mention the department.
+> Nothing is more touchy than a department, a regiment, a government
+> office—in fact any body of men. Nowadays every private individual
+> considers the whole of society insulted in his person."
+> — Nikolai Gogol, *The Overcoat* (1842), trans. Constance Garnett
+
 *Crime and Punishment* (1866) encodes the architecture of Russian
 conscience.
 
@@ -243,6 +254,7 @@ Cross-civilizational:
 ────────────────────────────────────────────────────────────
 XIV. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
+• Gogol, Nikolai. *The Overcoat* (1842). Trans. Constance Garnett. In *The Overcoat and Other Stories*. New York: Dover, 1992. [Section II: grotesque predecessor]
 • Frank, Joseph. *Dostoevsky: A Writer in His Time*. 5 vols. Princeton:
   Princeton University Press, 1976–2002. [PRIMARY: comprehensive biographical
   and literary analysis]
@@ -295,5 +307,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–LIT–DOSTOEVSKY v3.0
+END OF FILE — MEM–RUSSIA–LIT–DOSTOEVSKY v3.1
 ────────────────────────────────────────────────────────────

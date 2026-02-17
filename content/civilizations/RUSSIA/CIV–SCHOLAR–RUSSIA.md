@@ -217,6 +217,26 @@ RLL–RUSSIA–0034 — Legitimacy Sequencing Law (Rurikid → Horde → Muscovi
   legitimacy; sacral/legal layers ratify, they do not originate.
   Related: RLL–0001, 0003, 0004, 0005.
 
+RLL–RUSSIA–0035 — Legitimacy at Defeat Determines Encoding Law  
+→ Whether a defeat is encoded as **reform catalyst**, **survival (regime
+  intact)**, or **regime/revolution trigger** depends on whether sovereign
+  legitimacy survives the defeat. When legitimacy holds, defeat is
+  encoded as instructional or survivable; when it breaks, as regime
+  collapse or revolution. Related: RLL–0013, RLL–0017.
+  **Template**: Crimea 1856 (reform catalyst), 1905 (revolution trigger),
+  Narva→Poltava (survival); Germania 1806 (reform), 1918 (regime trigger);
+  Francia 1870 (regime trigger).
+
+RLL–RUSSIA–0036 — Sacral Centre Vacancy and Internalisation Law  
+→ When a sacral or imperial centre is lost or fragments (e.g. Constantinople
+  1453), a surviving periphery that had aligned with it can internalise
+  the centre's symbolism and role; doctrinal crystallisation (e.g. Third
+  Rome) then fixes the claim and obliges successors. Internalisation
+  follows consolidation (coercion, corridor); doctrine ratifies and binds,
+  does not create authority. Related: RLL–0034 (step 4), RLL–0003.
+  **Template**: 988 alignment → 1453 vacancy → Ivan III (marriage, eagle)
+  → Filofei (Third Rome).
+
 All listed RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
@@ -679,6 +699,25 @@ RLL–RUSSIA–0034 — BOUND (user authorization 2026-02-16); moved from
   or internalised overlord machinery; whether sacral/legal claims
   precede or follow coercive consolidation.
 
+RLL–RUSSIA–0035 — BOUND (user authorization 2026-02-16); moved from
+  V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS. Legitimacy at Defeat
+  Determines Encoding Law. Full derivation and evidence: LEARN session
+  2026-02-16; advance rate, degradation-driven settlement; Paris 1856 vs
+  Portsmouth 1905; cross-civ Germania (Waterloo/Silesian, 1918), Francia
+  1870; Narva→Poltava. Recursive move: When reading war-termination or
+  settlement MEM, ask whether defeated regime retained legitimacy to
+  narrate outcome; trace encoding (reform catalyst vs regime trigger vs
+  survival). Related: RLL–0013, RLL–0017.
+
+RLL–RUSSIA–0036 — BOUND (user authorization 2026-02-16); moved from
+  V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS. Sacral Centre Vacancy
+  and Internalisation Law. Full derivation and evidence: LEARN session
+  2026-02-16; MEM–RUSSIA–CONSTANTINOPLE, ORTHODOX–CHRISTIANITY, THIRD–ROME,
+  MUSCOVY–IVAN–III; 988 → 1453 → Ivan III → Filofei. Recursive move: When
+  reading "lost centre" or "inherited legitimacy" MEM, ask: What vacancy?
+  Who internalised after what consolidation? What doctrine crystallised?
+  Related: RLL–0034 (step 4), RLL–0003.
+
 Session 2026-02-16 (LEARN · Romanov cluster, Richelieu–Peter, Catherine stabilisation):
 
 • SYNTHESIS (DRAFT): The Art of Postponed Collapse — Romanov legitimacy sequencing and cross-civilisational parallel.
@@ -1093,6 +1132,28 @@ Session 2026-02-16 (LEARN · Tolstoy verbatim cluster; legitimacy encoding; hist
 • Cross-reference: MEM–GERMANIA–HIST–RANKE added to MEM–RUSSIA–LIT–TOLSTOY cross-civilizational connections (parallel legitimacy-encoding historiography).
 • Source MEMs: LIT–TOLSTOY, KUTUZOV, WAR–NAPOLEON, LAW–SERFDOM, LAW–EMANCIPATION; HIST–PRIMARY–CHRONICLE, HIST–NIKON–CHRONICLE; MEM–GERMANIA–HIST–RANKE.
 • Session recap: Tolstoy cluster; legitimacy encoding; chronicle→Karamzin→Tolstoy; Ranke parallel; Gibbon contrast.
+
+Session 2026-02-16 (STATE relay · strategic analysis, Geneva round, decision points):
+• **Relay from STATE** (CIV–STATE–TEMPLATE §XIV-B). Source: STATE session 16 Feb 2026; Mercouris podcast transcript 16 Feb 2026; CIV–STATE–RUSSIA ENTRY 014, Section VII, Option A Evidence Update 6.
+• **Content relayed:** Strategic analysis and critical decision point identification; three-perspective analysis (legitimacy, power, liability); Geneva round framed as continuation of Istanbul with Medinsky/Galuzin and full political agenda; C→A (genuine engagement) vs C→B (open defiance) discriminating signals; forward projection 4–8 weeks (continuity accepted vs rejected); historical precedent applied: Vienna (process accepted, leverage later faded), Nicholas II (tactical process, no structural integration, rupture). Decision points DP-1–DP-6 (agenda scope, strike timing, ceasefire, trusteeship signalling, US vs Iran, India).
+• **STATE file changes (already applied):** Section VII — new pattern "Geneva Round (Feb 2026) — Legitimacy and Leverage"; Option A — Evidence Update 6; State Log ENTRY 014 with DP-1–DP-6.
+• **Pattern note for SCHOLAR:** Diplomatic process continuity as legitimacy claim (Istanbul/Geneva framing, same team, "never cancelled") and advance rate as discriminating variable for engagement vs defiance are now in STATE Section VII. Vienna (MEM–RUSSIA–CONGRESS–VIENNA) and Nicholas II (MEM–RUSSIA–ROMANOV–NICHOLAS–II) were used as precedents for "process accepted then leverage faded" and "tactical process then rupture." Use when LEARN or WRITE touches settlement, negotiation, or decision-relevant history; cross-reference STATE Section VII and Engage to Outlast pattern.
+
+Session 2026-02-16 (LEARN · advance rate, degradation-driven settlement, legitimacy at defeat):
+• Trajectory: E (Backward) — MEMs where relative degradation drove settlement (Crimean/Paris 1856, Russo-Japanese/Portsmouth 1905, Brest-Litovsk); A (Mercouris) — legitimacy and encoding (Paris 1856 reform catalyst vs Portsmouth 1905 revolution trigger); G (Cross-civ) — Germania reform catalyst (Waterloo), Francia 1870 regime trigger, Weimar 1918; E (Backward) — Germania Silesian Wars (Kolin/Kunersdorf, survival without regime change); G (Cross-civ) — Russian Narva→Poltava parallel; H (Synthesis).
+• **RLL–RUSSIA–0035 (PROPOSED)** added to Section V.D: Legitimacy at Defeat Determines Encoding Law. Legitimacy at defeat shapes whether encoding is reform catalyst, survival (regime intact), or regime/revolution trigger. Evidence: Russia (1856, 1905, Narva→Poltava); Germania (Silesian, 1806, 1918); Francia (1870). Related: RLL–0013, RLL–0017. Cross-civ pattern: defeat absorbed vs regime trigger (use when settlement design or war termination in LEARN/STATE).
+
+Session 2026-02-16 (LEARN · Gogol cluster, legitimacy vs performance, Orthodox frame):
+• **Pattern note for SCHOLAR:** Gogol cluster (MEM–RUSSIA–LIT–GOGOL + Nicholas I, LAW–SERFDOM, LIT–DOSTOEVSKY, PETERSBURG, ORTHODOX–CHRISTIANITY) encodes **legitimacy-as-source** (Pushkin, Official Nationality) vs **legitimacy-as-performance** (Gogol's mirror: bureaucracy, Inspector General, dead souls, The Overcoat). Three Gogol verbatim integrations added (Nicholas I, LAW–SERFDOM, LIT–DOSTOEVSKY). Orthodox MEM frames sacral legitimacy (legitimacy compiler, suffering into meaning); Gogol's late religious crisis reads as either Inquisitor-like (authority as substitute for freedom) or Orthodox-burden (free faith and its judgment)—creative destruction the outcome. Grand Inquisitor (authority vs freedom) supplies categories for Gogol's late submission. **Tension preserved:** sacral vs performative encoding; no synthesis. Use when LEARN or WRITE touches literary encoding of authority, LIT cluster (Pushkin/Gogol/Dostoevsky), or Orthodox–literary intersection.
+
+Session 2026-02-16 (LEARN · Constantinople cluster, legitimacy migration, Third Rome crystallisation):
+• **Pattern note for SCHOLAR:** Constantinople cluster (MEM–RUSSIA–CONSTANTINOPLE, ORTHODOX–CHRISTIANITY, THIRD–ROME, MUSCOVY–IVAN–III) encodes **legitimacy migration sequence**: (1) **988** — alignment with sacral centre (Vladimir, aesthetic legitimacy; Orthodox MEM); (2) **1453** — vacancy (Byzantine centre falls); (3) **internalisation** — surviving periphery (Moscow) takes over symbols and role (Ivan III: marriage to Sophia, double eagle, "sacral symbolism after consolidation"); (4) **doctrinal crystallisation** — political theology fixes the claim (Filofei, Third Rome, "no fourth"). RLL–0034 step 4 (internalisation when overlordship fragments) and Orthodox "legitimacy compiler" apply. Coercion/corridor precede sacral ratification; doctrinal crystallisation then obliges successors. Use when LEARN or WRITE touches Byzantine inheritance, Third Rome, sacral legitimacy transfer, or legitimacy sequencing. **Cross-civ supplement:** MEM–ROME–CONSTANTINOPLE adds donor-side view and vacancy-as-process; see session below.
+• **RLL–RUSSIA–0035 and RLL–RUSSIA–0036 BOUND** (user authorization 2026-02-16); moved from V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS.
+
+Session 2026-02-16 (LEARN · Cross-civ · MEM–ROME–CONSTANTINOPLE, what SCHOLAR–RUSSIA learns):
+• **Source:** MEM–ROME–CONSTANTINOPLE (Rome’s encoding: Constantinople as survival through relocation; continuity, not rupture).
+• **Learnings for SCHOLAR–RUSSIA:** (1) **Dual legitimacy competition** — From 800, two Roman claimants (Eastern emperor at Constantinople, Western emperor/HRE to 1806). 1453 vacancy is Eastern only; Third Rome competed with defunct Eastern and living Western succession. RLL–0036 usage: “vacancy” sits in a field of multiple claimants. (2) **Donor view: unauthorized appropriation** — Rome MEM: Moscow’s continuity (Ivan III / Sophia) was “a claim Rome itself neither authorized nor could prevent.” Receiver (heir by default) vs donor (unauthorized): cross-civilisational misperception; preserve tension. (3) **Vacancy as process** — 1204 (Fourth Crusade) encoded as internal Christian fracture and defection; “internal fracture more fatal than external pressure.” 1453 is terminus of an already-weakened centre. RLL–0036: vacancy can be process (1204 + 1453), not only event; source civilisation may not authorise periphery’s internalisation. (4) **Defection equilibrium at 1453** — Venice, Genoa, Papacy, Hungary: “every potential rescuer defected.” Pattern for coalition behaviour when sacral centre is at risk. (5) **Structural complement** — Rome MEM reads 1453 as structural inevitability (balance of power, technology); Russian encoding (legitimacy migration) and structural reading are complementary.
+• **Use when:** LEARN or WRITE touches Third Rome, Byzantine inheritance, RLL–0036, legitimacy migration, or cross-civ Roman/Byzantine perspective. Cross-reference MEM–ROME–CONSTANTINOPLE for donor-side and dual-claimant framing.
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance

@@ -8,6 +8,31 @@ Last Updated: 2026-02-15
 Purpose: Track all governance changes in one place
 
 ────────────────────────────────────────────────────────────
+00020. PROTOCOL: CIV–SCHOLAR / CIV–STATE DIFFERENTIATION (16 FEB 2026)
+────────────────────────────────────────────────────────────
+Date: 2026-02-16
+Type: GOVERNANCE (protocol addition)
+
+CHANGES:
+• **New protocol:** PROTOCOL–CIV–SCHOLAR–STATE–DIFFERENTIATION.md (v1.0).
+• **Purpose:** Systematic observation and analysis of differentiation between
+  civilization SCHOLAR and STATE files.
+• **Content:** SCHOLAR observation dimensions (S1–S9: phase, authority, axioms,
+  NCZ, RLLs, synthesis→constraint, lock semantics, section coverage); STATE
+  observation dimensions (T1–T9: entity classification, strategic position,
+  material options, stability indicators, opponent constraint, decision-relevant
+  history, cross-entity links, source versions, state log); cross-file dimensions
+  (X1–X4) for same-entity SCHOLAR vs STATE; analysis types (pairwise, n-way,
+  gap, cross-file); procedure (scope, gather, extract, compare, synthesise,
+  report); output format and self-check.
+• **Exemplars:** REPORT–SCHOLAR–FRANCIA–GERMANIA–COGNITIVE–DIFFERENTIATION,
+  REPORT–SCHOLAR–FRANCIA–ANGLIA–COGNITIVE–DIFFERENTIATION.
+
+RATIONALE:
+User request: clear, systematic way to observe and analyze differentiation
+between different civilization SCHOLAR and STATE files.
+
+────────────────────────────────────────────────────────────
 00019. BIDIRECTIONAL READ PROTOCOL (STATE↔SCHOLAR) (16 FEB 2026)
 ────────────────────────────────────────────────────────────
 Date: 2026-02-16

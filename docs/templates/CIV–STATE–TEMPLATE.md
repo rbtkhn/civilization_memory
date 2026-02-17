@@ -2173,6 +2173,12 @@ Relay procedure:
 3. Present proposed additions to the user; apply only after approval.
 4. Record in the STATE file (e.g. STATE Log or session activity
    record) that a relay was performed and what was transferred.
+5. Transition options: After completing the relay, present 8 options
+   (A–H) in LEARN format so the user can seamlessly continue in
+   LEARN mode. Options reference the relayed content and offer
+   A=Mercouris, B=Mearsheimer, C=Barnes, D=Multi-mind, E=Backward,
+   F=Forward, G=Cross-civ, H=Synthesis. 10–20 words per option;
+   at least one concrete anchor per option. See cmc-oge-enforcement.
 
 Cursor rule: cmc-state-scholar-harvest.
 
@@ -2186,5 +2192,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–TEMPLATE v3.2
+END OF FILE — CIV–STATE–TEMPLATE v3.3
 ────────────────────────────────────────────────────────────

@@ -1,16 +1,16 @@
-MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.1
+MEM–RUSSIA–ORTHODOX–CHRISTIANITY — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
-Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.0
-Upgrade Type: ALIGNMENT · v3.0
+Version: 3.2
+Supersedes: MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.1
+Upgrade Type: CONTENT · CONSTRAINT GRAMMAR NOTE (IDENTITY VS SUCCESSION; REVISABLE)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: RELIGIOUS–CIVILIZATIONAL SUBSTRATE
 Subject: Orthodox Christianity (Православие)
 Dates: 988 AD–present
 Class: MEM (Civilizational Memory)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~3,200
 
 Governed by:
@@ -64,6 +64,8 @@ This file does NOT resolve:
 • sincerity vs instrumentality of belief
 
 Contradictions are preserved without synthesis.
+
+**Constraint grammar:** This MEM supports the axiom that sacral legitimacy preserves identity across regime change but does not secure political succession—a distinction that has become part of Russian self-understanding: what endures (identity, meaning) versus what does not (dynasty, state form). The constraint is interpretive and revisable under evidence.
 
 ────────────────────────────────────────────────────────────
 II. PRE-CHRISTIAN CONTEXT & CIVILIZATIONAL ORIENTATION
@@ -296,5 +298,5 @@ Exploration options available:
 User must select ONE option.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.1
+END OF FILE — MEM–RUSSIA–ORTHODOX–CHRISTIANITY v3.2
 ────────────────────────────────────────────────────────────

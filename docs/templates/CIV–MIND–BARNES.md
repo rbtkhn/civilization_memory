@@ -1426,7 +1426,7 @@ XIII. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 CIV–MIND–BARNES v3.3 is CANONICAL.
 
-All uses governed by CMC 3.2.
+All uses governed by CMC 3.3.
 
 Mode constraints are BINDING:
 • WRITE MODE: Barnes options-menu-REQUIRED (1 option mandatory)
@@ -1462,5 +1462,5 @@ This is the catalyst function:
 Barnes changes how the other minds see.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–BARNES v3.3 — CMC 3.2 TERMINOLOGY ALIGNED
+END OF FILE — CIV–MIND–BARNES v3.3 — CMC 3.3
 ────────────────────────────────────────────────────────────

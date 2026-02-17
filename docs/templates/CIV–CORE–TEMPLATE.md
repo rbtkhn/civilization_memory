@@ -326,5 +326,5 @@ All future CIV–CORE files MUST declare:
 “Template Version Used: CIV–CORE–TEMPLATE v3.0”
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–TEMPLATE v3.2
+END OF FILE — CIV–CORE–TEMPLATE v3.3
 ────────────────────────────────────────────────────────────

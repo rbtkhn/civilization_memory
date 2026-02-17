@@ -477,6 +477,15 @@ OPTION A: Endurance Through Attrition
   (ARC E/OFFICIAL — monetary policy data); Mediazona (non-ARC,
   ARC discovery flag — name-verified casualties).
 
+  EVIDENCE UPDATE 6 (February 2026 — Geneva / battlefield narrative):
+  Mercouris podcast (16 Feb 2026) reports Russian breakthrough at Kostyantynivka,
+  Zaporizhzhia counter-offensive stalling, and Geneva round framed as
+  continuation of Istanbul with Medinsky/Galuzin and full political agenda.
+  No ARC multi-source verification; treat as analyst narrative. Direction:
+  consistent with "battlefield breakthrough forces B" (Engage to Outlast);
+  advance rate as discriminating variable unchanged. Binding constraint
+  (relative degradation) not independently assessed in this update.
+
 ────────────────────────────────────────────────────────────
 
 OPTION B: Negotiated Settlement With Minimum Viable Gains
@@ -1131,6 +1140,20 @@ PATTERN: Engage to Outlast
   absorbed. The June deadline lacks the forcing mechanism that
   made Paris and Portsmouth binding.
 
+PATTERN: Geneva Round (Feb 2026) — Legitimacy and Leverage
+  Activation: HIGH (session-derived, 16 Feb 2026)
+  Source: STATE session (Mercouris podcast transcript, 16 Feb 2026); MEM–RUSSIA–CONGRESS–VIENNA;
+          MEM–RUSSIA–ROMANOV–NICHOLAS–II; MEM–RUSSIA–BOLSHEVIK–REVOLUTION
+  Relevance: Russian delegation upgrade (Medinsky chief, Galuzin; full political
+  agenda) frames Geneva as continuation of Istanbul and Russia as arbiter of
+  settlement and Ukraine's status. Legitimacy claim is conditional: holds if
+  continuity is accepted and advance rate sustains leverage; contested if
+  format is rejected or front stalls. C→A (genuine engagement) vs C→B (open
+  defiance) discriminating signals unchanged; current posture aligns with B.
+  Historical parallel: Vienna (process accepted, leverage later faded); Nicholas II
+  (tactical process, no structural integration, then rupture). Advance rate
+  remains binding variable for 4–8 week projection.
+
 PATTERN: Institutional Voice vs Sovereign Choice (Lavrov–Panin)
   Activation: MODERATE (diagnostic)
   Source: SCHOLAR LEARN session (Lavrov–Panin discussion, Feb 2026);
@@ -1535,6 +1558,32 @@ ENTRY 013 — 16 February 2026
   internalisation by one centre (veche silenced, one sovereign).
   Diagnostic only; complements RLL–0001, RLL–0003, RLL–0004.
   Activation: MODERATE.
+
+ENTRY 014 — 16 February 2026
+  Session: STATE strategic analysis and critical decision point identification
+  Source: Mercouris podcast transcript, 16 Feb 2026 (Geneva round, Kostyantynivka,
+  Medinsky/Galuzin, energy campaign); MEM–RUSSIA–CONGRESS–VIENNA, MEM–RUSSIA–WAR–NAPOLEON–BORODINO,
+  MEM–RUSSIA–BOLSHEVIK–REVOLUTION, MEM–RUSSIA–ROMANOV–NICHOLAS–II; Section VII
+  patterns (Engage to Outlast, Revealed Preference).
+  Changes:
+  • Section VII — new pattern "Geneva Round (Feb 2026) — Legitimacy and
+    Leverage" added. Medinsky/Istanbul continuity as legitimacy claim;
+    conditional on advance rate; C→A vs C→B discriminating signals;
+    Vienna and Nicholas II precedents. Activation: HIGH.
+  • Option A — Evidence Update 6 added. Reported situation (Kostyantynivka,
+    Geneva framing); no ARC verification; direction consistent with
+    "battlefield breakthrough forces B"; advance rate binding variable
+    unchanged.
+  Decision points identified (session log):
+  DP-1 Geneva agenda scope (full political vs narrow security)
+  DP-2 Timing of major strike (before/during/after Geneva)
+  DP-3 Ceasefire on current lines (accept vs insist temporary)
+  DP-4 Trusteeship/regime-change signalling (Galuzin)
+  DP-5 US relationship vs Iran commitment (Midnight Hammer precedent)
+  DP-6 India / "additional" oil (partnership credibility)
+  Completeness audit: PASSED
+  Next review: Post-Geneva round outcome; advance-rate data 4–8 weeks.
+  **Relay to SCHOLAR (2026-02-16):** Session output relayed to CIV–SCHOLAR–RUSSIA per §XIV-B. Transfer: strategic analysis, Geneva round legitimacy/leverage pattern, C→A/C→B signals, forward projection, Vienna/Nicholas II precedent, DP-1–DP-6. Record: CIV–SCHOLAR–RUSSIA Session 2026-02-16 (STATE relay · strategic analysis, Geneva round, decision points).
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–RUSSIA v2.0

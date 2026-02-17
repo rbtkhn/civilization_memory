@@ -357,9 +357,9 @@ MIND–[NAME] (e.g., MIND–MERCOURIS, CIV–MIND–MEARSHEIMER)
 ────────────────────────────────────────────────────────────
 XI. CANONICAL STATUS
 ────────────────────────────────────────────────────────────
-CIV–MIND–TEMPLATE v3.0 is CANONICAL.
+CIV–MIND–TEMPLATE v3.3 is CANONICAL.
 
-All MIND profiles governed by CMC 3.2.
+All MIND profiles governed by CMC 3.3.
 
 Future versions may:
 • Add governance clarification
@@ -373,5 +373,5 @@ Future versions may NOT:
 • Permit autonomous mutation
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–MIND–TEMPLATE v3.2
+END OF FILE — CIV–MIND–TEMPLATE v3.3
 ────────────────────────────────────────────────────────────

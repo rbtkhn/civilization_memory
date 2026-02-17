@@ -1,8 +1,10 @@
-MEM–RUSSIA–ROMANOV–NICHOLAS–I — v1.0
+MEM–RUSSIA–ROMANOV–NICHOLAS–I — v1.2
 Civilizational Memory Codex · Memory File
 
 Status: ACTIVE · CANONICAL
-Version: 1.1
+Version: 1.2
+Supersedes: MEM–RUSSIA–ROMANOV–NICHOLAS–I v1.1
+Upgrade Type: CONTENT · GOGOL VERBATIM (Section III: The Government Inspector)
 Civilization: RUSSIA (Русская цивилизация)
 Regime: IMPERIAL / ROMANOV
 Subject: Nicholas I (Николай I)
@@ -54,6 +56,17 @@ destabilising. It seems to many observers that Nicholas believes order
 itself can be made permanent if deviation is suppressed and doctrine
 repeated—a civilizational encoding that outlives his reign even as his
 strategic choices undermine it.
+
+Gogol's *The Government Inspector* (1836), staged under Nicholas,
+encodes the performative anxiety of provincial authority—officials
+mistaking a passing clerk for an inspector and performing compliance.
+Nicholas is said to have attended and remarked that everyone was
+targeted, "most of all myself." The play anchors the link between
+censorship and the satire that exposed it:
+
+> "I have invited you here, gentlemen, to give you a piece of very
+> unpleasant news. An inspector is coming from Petersburg."
+> — Nikolai Gogol, *The Government Inspector* (1836), Act I (Mayor)
 
 ────────────────────────────────────────────────────────────
 IV. PERIPHERAL SUPPRESSION
@@ -209,6 +222,7 @@ Cross-civilizational:
 XI. MEM BIBLIOGRAPHY
 ────────────────────────────────────────────────────────────
 • Pushkin, Alexander. "Message to Siberia" (1827). Trans. Babette Deutsch.
+• Gogol, Nikolai. *The Government Inspector* (1836). Act I. [Section III: censorship and performative authority]
 • Figes, Orlando. *The Crimean War: A History*. New York: Metropolitan Books, 2010.
 • Goldfrank, David M. *The Origins of the Crimean War*. London: Longman, 1994.
 • Curtiss, John Shelton. *Russia's Crimean War*. Durham: Duke University Press, 1979.
@@ -237,5 +251,5 @@ H. Compliance & integrity audit
 User selects ONE option only.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–RUSSIA–ROMANOV–NICHOLAS–I v1.1
+END OF FILE — MEM–RUSSIA–ROMANOV–NICHOLAS–I v1.2
 ────────────────────────────────────────────────────────────
