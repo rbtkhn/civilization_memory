@@ -529,6 +529,8 @@ cmc-relay-to-state.
 
 TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (governance v3.4; internal rev v1.12)
 
+EXTERNAL-FACING OUTPUT: For reports, teaching materials, or simplified UIs — content-based perspective names, no MIND/jargon, two argument principles (grounded parallel; counter-check before absence), minimal navigation set. See docs/governance/PRINCIPLES–EXTERNAL–INTERFACE.md.
+
 MODE SWITCHING:
 • "switch to state mode" or "state mode" → STATE
 • "switch to scholar mode" or "scholar mode" → SCHOLAR (then select sub-mode)

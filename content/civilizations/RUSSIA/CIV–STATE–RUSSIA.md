@@ -1174,6 +1174,11 @@ PATTERN: Geneva Round (Feb 2026) — Legitimacy and Leverage
     major offensive in window, format collapsed, or explicit rejection of
     June timeline. Check window: 2–4 weeks post-Geneva round. Run via
     Signal Check procedure (Section X-J).
+  • Seasonal constraint (rasputitsa): Spring mud (approx. March–May) and
+    autumn mud (October–November) limit major mechanized offensives;
+    main offensive window typically late May–September. Advance-rate
+    assessment is most informative after spring rasputitsa (e.g. late
+    May–July), not only in the first 4–8 weeks post-Geneva.
 
 PATTERN: Zelensky presidency exit paths (Feb 2026)
   Activation: MODERATE (when assessing settlement feasibility or Ukrainian

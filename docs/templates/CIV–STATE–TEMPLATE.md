@@ -971,6 +971,9 @@ REGISTER RULES FOR OPTIONS:
 • Selecting A/B/C applies the analytical logic of that
   perspective in professional register — it does NOT invoke
   a MIND linguistic fingerprint
+• For reports, teaching materials, or simplified UIs: see
+  PRINCIPLES–EXTERNAL–INTERFACE (content-based names, argument
+  principles, minimal navigation, tiered exposure)
 
 RESPONSE LENGTH (when user selects an option):
 • Target: 100-200 words before next options
