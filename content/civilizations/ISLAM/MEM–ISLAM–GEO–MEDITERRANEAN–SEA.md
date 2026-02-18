@@ -98,7 +98,7 @@ IV. CONTROL SEQUENCE (HISTORICAL)
 ────────────────────────────────────────────────────────────
 V. TRANSMISSION & SACRED-ZONE LINKAGE
 ────────────────────────────────────────────────────────────
-Sicily: Islamic transmission, then Norman absorption (MEM–ISLAM–GEO–SICILY).
+Sicily: Islamic transmission, then Norman absorption (MEM–ISLAM–SICILY).
 Levant: Jerusalem, Gaza—sacred zones on eastern littoral.
 Egypt: Nile delta; Cairo; Mediterranean–Red Sea corridor.
 
@@ -157,7 +157,7 @@ Dependency:
 • MEM–ISLAM–GEO–RED–SEA — Suez linkage
 • MEM–ISLAM–CRUSADES — Mediterranean as Crusades theater
 • MEM–ISLAM–CONSTANTINOPLE — Bosphorus; Ottoman capital
-• MEM–ISLAM–GEO–SICILY — Western transmission
+• MEM–ISLAM–SICILY — Western transmission
 • MEM–ISLAM–CAIRO — Nile–Mediterranean interface
 
 Breaks if removed:

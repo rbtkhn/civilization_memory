@@ -202,7 +202,7 @@ Dependency:
 • MEM–ISLAM–UMAYYAD–CALIPHATE — Early Arabian littoral expansion
 • MEM–ISLAM–DYNASTY–ABBASID — Basra, Gulf–Indian Ocean linkage
 • MEM–ISLAM–OTTOMAN–EMPIRE — Red Sea, Yemen, East African claims
-• MEM–ISLAM–GEO–SICILY — Maritime Islam pattern (transmission, not conquest)
+• MEM–ISLAM–SICILY — Maritime Islam pattern (transmission, not conquest)
 
 Breaks if removed:
 • CIV–CORE–ISLAM § IV (Bab el-Mandeb, Maritime Islam) — This MEM grounds those references.

@@ -229,7 +229,7 @@ ROME:
   defensive protection for the Italian core.
 • MEM–ROME–GEO–ADRIATIC–SEA — the eastern maritime exposure of the peninsula,
   regulating access to the Balkan and Greek basins.
-• MEM–ROME–GEO–SICILY — the immediate southern extension of the Italian
+• MEM–ROME–SICILY — the immediate southern extension of the Italian
   geography and the strategic hub of Mediterranean security.
 • MEM–ROME–PAPACY — the institutional survival of Roman Italy's administrative
   and sacral logic after the political fall of the empire.

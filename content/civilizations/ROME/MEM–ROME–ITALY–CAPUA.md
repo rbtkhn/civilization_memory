@@ -250,7 +250,7 @@ ROME (≥10):
 • MEM–ROME–SCIPIO–AFRICANUS — contemporary commander
 
 GEO (≥2):
-• MEM–ROME–GEO–SICILY — Mediterranean context
+• MEM–ROME–SICILY — Mediterranean context
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — strategic space
 
 ────────────────────────────────────────────────────────────

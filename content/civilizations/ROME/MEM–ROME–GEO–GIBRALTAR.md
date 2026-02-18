@@ -271,7 +271,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Parent basin
 • MEM–ROME–GEO–IBERIA — Adjacent territory
-• MEM–ROME–GEO–SICILY — Complementary chokepoint
+• MEM–ROME–SICILY — Complementary chokepoint
 • MEM–ROME–CARTHAGE — Rival for western Mediterranean
 • MEM–ROME–GADES — Nearby commercial center
 • MEM–ROME–AUGUSTUS — Imperial organization
@@ -282,7 +282,7 @@ ROME (Same-Civilization) — ≥10 Required:
 
 GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Parent basin
-• MEM–ROME–GEO–SICILY — Complementary central chokepoint
+• MEM–ROME–SICILY — Complementary central chokepoint
 
 CROSS-CIVILIZATIONAL:
 • MEM–ISLAM–UMAYYAD–CALIPHATE — Conquest of Iberia via strait

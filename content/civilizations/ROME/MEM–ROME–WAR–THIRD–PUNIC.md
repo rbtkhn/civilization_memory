@@ -335,7 +335,7 @@ ROME (≥10):
 • MEM–ROME–REPUBLIC — system that chose annihilation over absorption
 • MEM–ROME–LAW–CITIZENSHIP — absorption mechanism NOT applied to Carthage
 • MEM–ROME–CATO — author of delenda est doctrine
-• MEM–ROME–GEO–SICILY — hinge of Punic conflicts
+• MEM–ROME–SICILY — hinge of Punic conflicts
 • MEM–ROME–HIST–POLYBIUS — eyewitness to Scipio's tears
 
 GEO (≥2):

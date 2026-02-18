@@ -1200,11 +1200,11 @@ Belief Status:
 • UNFROZEN (CANDIDATE)
 
 ENTRY 0070
-Source: MEM–ROME–GEO–SICILY v2.0 + MEM–ISLAM–GEO–SICILY v1.0 (CONNECTOR PAIR)
+Source: MEM–ROME–SICILY v2.0 + MEM–ISLAM–SICILY v1.0 (CONNECTOR PAIR)
 Ingest Type: Synthesis / Connector Pairs (Sicily — Rome perspective)
 Primary Belief Extracted:
 • **Rome's encoding** (foreground): Sicily is Rome's first imperial classroom — Punic pivot, grain, central position in the Mediterranean; empire begins as defense; control need not equal assimilation. Connector pair: Islam encodes the same island as western laboratory, maritime entry (Aghlabid), influence without permanence, cultural transmission then Norman loss; different valence (Rome = acquisition and consolidation; Islam = entry then political exit, cultural residue).
-• MEM CONNECTIONS link MEM–ROME–GEO–SICILY and MEM–ISLAM–GEO–SICILY as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+• MEM CONNECTIONS link MEM–ROME–SICILY and MEM–ISLAM–SICILY as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 Belief Status:
 • UNFROZEN (CANDIDATE)
 

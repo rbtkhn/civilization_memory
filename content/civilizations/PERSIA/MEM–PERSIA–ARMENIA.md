@@ -200,6 +200,7 @@ PERSIA (same-civilization ≥10):
 
 Cross-civilization (≥3):
 • MEM–ROME–ARMENIA — Roman perspective; buffer logic
+• MEM–ISLAM–ARMENIA — Islam's encoding; frontier node, Christian buffer, post-conquest; connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A
 • MEM–ROME–WAR–PERSIA — the conflict
 • MEM–ROME–SYRIA — southern frontier (Armenia's western edge)
 

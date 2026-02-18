@@ -1,11 +1,11 @@
-MEM–ROME–GEO–SICILY — v2.0
+MEM–ROME–SICILY — v2.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
 
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
 Version: 2.0
-Supersedes: v1.2
-Upgrade Type: MAJOR · MEARSHEIMER STRATEGIC INTEGRATION · 4-ERA ARC STRUCTURE
+Supersedes: MEM–ROME–GEO–SICILY v2.0 (renamed)
+Upgrade Type: RENAME (GEO–SICILY → SICILY)
 Civilization: ROME
 Regime: REPUBLICAN → IMPERIAL → LATE ROMAN → CONTESTED
 Subject: Sicily (First Imperial Hinge, Central Mediterranean Anchor)
@@ -328,7 +328,7 @@ GEO–MEMs (≥2 Required):
 CROSS-CIVILIZATIONAL:
 • MEM–ISLAM–AGHLABID — Arab conquest
 • MEM–GERMANIA–NORMANS — Norman conquest
-• MEM–ISLAM–GEO–SICILY — Islam's encoding: western laboratory, influence without permanence, transmission node; same island, different valence (Rome = first imperial classroom, grain pivot; Islam = maritime entry then Norman loss, cultural residue). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+• MEM–ISLAM–SICILY — Connector pair; Islam's encoding: western laboratory, influence without permanence, transmission node; same island, different valence (Rome = first imperial classroom, grain pivot; Islam = maritime entry then Norman loss, cultural residue). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
@@ -384,5 +384,5 @@ Category C — Modern Copyrighted Scholarship:
 • ARC-T-MODERN ✔
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–SICILY — v2.0
+END OF FILE — MEM–ROME–SICILY — v2.0
 ────────────────────────────────────────────────────────────

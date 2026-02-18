@@ -356,7 +356,7 @@ ROME (≥10):
 
 GEO (≥2):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — contested space; thalassocratic competition
-• MEM–ROME–GEO–SICILY — primary theater of First Punic War
+• MEM–ROME–SICILY — primary theater of First Punic War
 • MEM–ROME–GEO–IBERIA — Barcid power base; resource extraction
 • MEM–ROME–GEO–AFRICA — Carthaginian heartland; province after destruction
 

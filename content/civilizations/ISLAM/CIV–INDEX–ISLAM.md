@@ -1,18 +1,27 @@
-CIV–INDEX–ISLAM — v3.0
-Civilizational Memory Codex · Index File
+CIV–INDEX–ISLAM — v3.1
+Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–INDEX–ISLAM v2.9
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
-Template Version Used: CIV–INDEX–TEMPLATE v3.0
+Version: 3.1
+Supersedes: CIV–INDEX–ISLAM v3.0
+Upgrade Type: SYNC · INDEX PARITY WITH ROME & TEMPLATE
 Civilization: ISLAM
+Subject: Islam Memory Index (Authoritative File Register)
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
 
-TOTAL REGISTERED MEM FILES: 60
+Derived from: CIV–INDEX–TEMPLATE v3.0
+
+TOTAL REGISTERED MEM FILES: 65
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — SYNC & TEMPLATE ALIGNMENT
+────────────────────────────────────────────────────────────
+v3.1 aligns with CIV–INDEX–ROME and CIV–INDEX–TEMPLATE:
+• Subtitle: "Civilization Index File" (was "Index File"); added Subject line; added Derived from.
+• Version set to 3.1; Supersedes v3.0.
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & INDEX GOVERNANCE
@@ -98,14 +107,18 @@ VII. REGISTERED MEM FILES — IMPERIAL CAPITALS & SYMBOLIC CITIES
 VII-A. REGISTERED MEM FILES — CIVILIZATIONAL INTERFACES
 ────────────────────────────────────────────────────────────
 
+• MEM–ISLAM–ARMENIA.md
+• MEM–ISLAM–HUNGARY.md
 • MEM–ISLAM–PERSIA.md
 • MEM–ISLAM–RUSSIA.md
+• MEM–ISLAM–SERBIA.md
+• MEM–ISLAM–WALLACHIA.md
 
 ────────────────────────────────────────────────────────────
 VIII. REGISTERED MEM FILES — GEOGRAPHY & SPATIAL CONTROL (GEO)
 ────────────────────────────────────────────────────────────
 
-• MEM–ISLAM–GEO–SICILY.md
+• MEM–ISLAM–SICILY.md
 • MEM–ISLAM–GEO–KASHMIR
 • MEM–ISLAM–GEO–XINJIANG.md
 • MEM–ISLAM–GEO–ARABIA.md
@@ -156,5 +169,5 @@ XI. ACADEMIC REFERENCE CANON (ARC)
 Governs author admissibility and temporal precedence for MEM–ISLAM files. See CIV–ARC–ISLAM for approved author lists (ARC-T-ANCIENT, MEDIEVAL, EARLY-MOD, MODERN).
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ISLAM — v3.0
+END OF FILE — CIV–INDEX–ISLAM — v3.1
 ────────────────────────────────────────────────────────────

@@ -305,7 +305,7 @@ The Mediterranean is Rome's silent constitution.
 VIII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME (Same-Civilization) — ≥10 Required:
-• MEM–ROME–GEO–SICILY — First Punic War; central position
+• MEM–ROME–SICILY — First Punic War; central position
 • MEM–ROME–GEO–CRETE — Eastern basin control
 • MEM–ROME–GEO–CYPRUS — Levantine projection
 • MEM–ROME–GEO–SARDINIA — Western buffer

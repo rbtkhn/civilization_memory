@@ -1,11 +1,11 @@
-CIV–INDEX–ROME — v3.0
+CIV–INDEX–ROME — v3.1
 Civilizational Memory Codex · Civilization Index File
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Version: 3.0
-Supersedes: CIV–INDEX–ROME v2.5
-Upgrade Type: ALIGNMENT · CORE v3.0 CONSOLIDATION
+Version: 3.1
+Supersedes: CIV–INDEX–ROME v3.0
+Upgrade Type: SYNC · INDEX PARITY WITH ISLAM & TEMPLATE
 Civilization: ROME
 Subject: Rome Memory Index (Authoritative File Register)
 Dates: c. 753 BC–1453 AD (with afterlife)
@@ -15,6 +15,13 @@ Last Update: February 2026
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
 Governance Parity: CORE–ROME MATCH CONFIRMED
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.1) — SYNC & TEMPLATE ALIGNMENT
+────────────────────────────────────────────────────────────
+v3.1 aligns with CIV–INDEX–ISLAM and CIV–INDEX–TEMPLATE:
+• Section II retitled: "Canonical Governance Files" (was "Canonical CIV–CORE Engine") per template II.
+• Version set to 3.1; Supersedes v3.0.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.2) — FULL DIRECTORY RECONCILIATION
@@ -75,7 +82,7 @@ L. ITALY & AFTERLIFE
 M. SPAIN & IBERIA
 
 ────────────────────────────────────────────────────────────
-II. CANONICAL CIV–CORE ENGINE
+II. CANONICAL GOVERNANCE FILES
 ────────────────────────────────────────────────────────────
 • CIV–CORE–ROME — v1.9
   Status: ACTIVE · CANONICAL · LOCKED
@@ -123,7 +130,7 @@ A) GEO
 • MEM–ROME–GEO–RHINE–RIVER.md
 • MEM–ROME–GEO–SARDINIA.md
 • MEM–ROME–GEO–SAHARA–DESERT.md
-• MEM–ROME–GEO–SICILY.md
+• MEM–ROME–SICILY.md
 • MEM–ROME–GEO–TIBER–RIVER.md
 
 B) EMPIRE / EMPERORS
@@ -282,12 +289,15 @@ J) RELIGION
 K) GEOGRAPHY & SPATIAL CONTROL (Non-GEO)
 • MEM–ROME–ARMENIA.md
 • MEM–ROME–HISPANIA.md
+• MEM–ROME–HUNGARY.md
 • MEM–ROME–PALESTINE.md
 • MEM–ROME–PALESTINE–JERUSALEM.md
 • MEM–ROME–PONTUS.md
 • MEM–ROME–PORTUGAL.md
+• MEM–ROME–SERBIA.md
 • MEM–ROME–SILK–ROAD.md
 • MEM–ROME–SYRIA.md
+• MEM–ROME–WALLACHIA.md
 
 L) ITALY & AFTERLIFE
 • MEM–ROME–CHARLEMAGNE.md
@@ -445,5 +455,5 @@ Category Breakdown:
 • N) SUCCESSOR CIVILIZATIONS & RIVALS: 7 files
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–INDEX–ROME — v3.0
+END OF FILE — CIV–INDEX–ROME — v3.1
 ────────────────────────────────────────────────────────────

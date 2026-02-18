@@ -314,7 +314,7 @@ ROME (Same-Civilization):
 • MEM–ROME–AUGUSTUS — Delayed personalization of power
 • MEM–ROME–REPUBLIC — Institutional framework
 • MEM–ROME–CATO — Delenda est advocate
-• MEM–ROME–GEO–SICILY — First Punic precedent
+• MEM–ROME–SICILY — First Punic precedent
 
 CROSS-CIVILIZATIONAL:
 • MEM–ROME–GREEK–ALEXANDER — Genius comparison (builder-burner contrast)

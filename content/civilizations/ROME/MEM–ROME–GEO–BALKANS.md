@@ -333,6 +333,9 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–JUSTINIAN — Recovery attempt
 • MEM–ROME–CHARLEMAGNE — Western fragment claim
 • MEM–ROME–HOLY–ROMAN–EMPIRE — Rival claim from north
+• MEM–ROME–HUNGARY — Northwestern frontier interface
+• MEM–ROME–SERBIA — Balkan rival and Orthodox competitor
+• MEM–ROME–WALLACHIA — Danubian buffer, lost to Ottoman sphere
 
 GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–DANUBE–RIVER — Northern invasion route
@@ -341,6 +344,7 @@ GEO–MEMs (≥2 Required):
 CROSS-CIVILIZATIONAL:
 • MEM–RUSSIA–BALKANS — Orthodox rivalry zone
 • MEM–ISLAM–OTTOMAN–EMPIRE — Successor occupation
+• MEM–ISLAM–GEO–BALKANS — Connector pair (same subject). MEM–ISLAM–HUNGARY, MEM–ISLAM–SERBIA — Balkan polity pairs per CONCEPT IV-A.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

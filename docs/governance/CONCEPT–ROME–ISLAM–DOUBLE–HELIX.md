@@ -137,7 +137,7 @@ transmission into Latin Europe via Andalusia, Sicily, and other nodes.
 One strand preserved and passed knowledge that the other (or the same
 space under different authority) later received. Sicily: Islamic rule
 then Norman absorption; "Islam leaves civilizational residue"
-(MEM–ISLAM–GEO–SICILY). Not only conflict—transmission is a base pair.
+(MEM–ISLAM–SICILY). Not only conflict—transmission is a base pair.
 
 **3. Competing universalist grammars**  
 Rome: law as procedure, consent, jurisdiction, mediation. Islam: Sharia
@@ -167,11 +167,12 @@ at that node: Roman and Islamic perspectives on the same referent.
 
 | Subject        | Rome (MEM–ROME–*)              | Islam (MEM–ISLAM–*)              |
 |----------------|----------------------------------|-----------------------------------|
+| Armenia        | MEM–ROME–ARMENIA                 | MEM–ISLAM–ARMENIA                 |
 | Atlantic Ocean | MEM–ROME–GEO–ATLANTIC–OCEAN     | MEM–ISLAM–GEO–ATLANTIC–OCEAN     |
 | Constantinople | MEM–ROME–CONSTANTINOPLE          | MEM–ISLAM–CONSTANTINOPLE          |
 | Crusades       | MEM–ROME–CRUSADES               | MEM–ISLAM–CRUSADES                |
 | Jerusalem      | MEM–ROME–PALESTINE–JERUSALEM    | MEM–ISLAM–PALESTINE–JERUSALEM     |
-| Sicily         | MEM–ROME–GEO–SICILY             | MEM–ISLAM–GEO–SICILY              |
+| Sicily         | MEM–ROME–SICILY                  | MEM–ISLAM–SICILY                  |
 | Mediterranean  | MEM–ROME–GEO–MEDITERRANEAN–SEA  | MEM–ISLAM–GEO–MEDITERRANEAN–SEA   |
 | Levant         | MEM–ROME–GEO–LEVANT             | MEM–ISLAM–GEO–LEVANT              |
 | Libya          | MEM–ROME–LIBYA                  | MEM–ISLAM–LIBYA                   |
@@ -181,10 +182,13 @@ at that node: Roman and Islamic perspectives on the same referent.
 | Caspian Sea    | MEM–ROME–GEO–CASPIAN–SEA        | MEM–ISLAM–GEO–CASPIAN–SEA         |
 | Red Sea        | MEM–ROME–GEO–RED–SEA            | MEM–ISLAM–GEO–RED–SEA             |
 | Egypt          | MEM–ROME–EGYPT                  | MEM–ISLAM–EGYPT                   |
+| Hungary        | MEM–ROME–HUNGARY                | MEM–ISLAM–HUNGARY                  |
 | Persia         | MEM–ROME–PERSIA                 | MEM–ISLAM–PERSIA                  |
 | Russia         | MEM–ROME–RUSSIA                 | MEM–ISLAM–RUSSIA                  |
 | Sahara Desert  | MEM–ROME–GEO–SAHARA–DESERT      | MEM–ISLAM–GEO–SAHARA–DESERT       |
+| Serbia         | MEM–ROME–SERBIA                 | MEM–ISLAM–SERBIA                  |
 | Silk Road      | MEM–ROME–SILK–ROAD             | MEM–ISLAM–SILK–ROAD               |
+| Wallachia      | MEM–ROME–WALLACHIA             | MEM–ISLAM–WALLACHIA               |
 
 **IV-B. Connector pairs (aligned and asymmetric naming)**  
 The following pairs encode the *same subject* (or tightly overlapping subject). Ottoman and Umayyad were renamed for alignment (MEM–ISLAM–OTTOMAN–EMPIRE, MEM–ISLAM–UMAYYAD–CALIPHATE). Syria/Damascus remains asymmetric (region vs city); document the asymmetry where syntheses or CONNECTIONS refer to it.

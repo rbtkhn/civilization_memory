@@ -208,7 +208,7 @@ V. MEM CONNECTIONS
 Same-Civilization MEMs (≥10):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA (maritime connection)
 • MEM–ROME–EGYPT (eastern neighbor)
-• MEM–ROME–GEO–SICILY (central Mediterranean link)
+• MEM–ROME–SICILY (central Mediterranean link)
 • MEM–ROME–GEO–MALTA (transit node)
 • MEM–ROME–GEO–ARABIA (desert frontier parallel)
 • MEM–ROME–AFRICA–PROCONSULARIS (adjacent grain province)

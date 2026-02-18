@@ -211,7 +211,14 @@ Lessons preserved:
 Armenia shows Rome how to rule without ruling.
 
 ────────────────────────────────────────────────────────────
-XI. CONTINUITY INSIGHTS (RAW)
+XI. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Same-civilization: MEM–ROME–PERSIA; MEM–ROME–GEO–CASPIAN–SEA; MEM–ROME–GEO–BLACK–SEA; MEM–ROME–GEO–ANATOLIA; MEM–ROME–EMPIRE–HERACLIUS; MEM–ROME–SYRIA; MEM–ROME–WAR–MANZIKERT.
+
+Cross-civilization (connector pair): MEM–ISLAM–ARMENIA — Islam's encoding: frontier node, Christian buffer, vassalage and millet, never absorbed; Ottoman–Safavid contest; loss to Russia. Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A. MEM–PERSIA–ARMENIA — Persian encoding; buffer and western seam.
+
+────────────────────────────────────────────────────────────
+XII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Mountains defeat administration.
 • Influence outperforms annexation at frontiers.

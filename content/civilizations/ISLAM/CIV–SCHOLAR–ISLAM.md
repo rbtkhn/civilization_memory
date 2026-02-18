@@ -167,7 +167,7 @@ XVI. INGESTED LEARNING EVENTS (CHRONOLOGICAL)
 
 ENTRY 0001
 Source:
-• MEM–ISLAM–GEO–SICILY — v1.0
+• MEM–ISLAM–SICILY — v1.0
 Ingest Type:
 • Maritime Frontier / Transmission Node Memory
 Primary Belief Extracted:
@@ -417,12 +417,12 @@ Note:
 
 ENTRY 0019
 Source:
-• MEM–ISLAM–GEO–SICILY v1.0 + MEM–ROME–GEO–SICILY v2.0 (CONNECTOR PAIR)
+• MEM–ISLAM–SICILY v1.0 + MEM–ROME–SICILY v2.0 (CONNECTOR PAIR)
 Ingest Type:
 • Synthesis-Derived LEARN Event — Connector pairs (Sicily, Islam perspective)
 Primary Belief Extracted:
 • **Islam's encoding** (foreground): Sicily as Islam's western laboratory — maritime entry (Aghlabid 827), influence without permanence, plural governance, cultural transmission; Norman conquest ends rule but not cultural residue. Connector pair: Rome encodes the same island as first imperial classroom, Punic pivot, grain and central position; different valence (Islam = entry then exit, cultural residue; Rome = acquisition and consolidation).
-• MEM CONNECTIONS link MEM–ISLAM–GEO–SICILY and MEM–ROME–GEO–SICILY as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+• MEM CONNECTIONS link MEM–ISLAM–SICILY and MEM–ROME–SICILY as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 Belief Status:
 • UNFROZEN
 Note:
@@ -465,7 +465,7 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 Note:
-• Complements SYNTHESIS 0001 (frontier nodes; Sicily = influence without permanence; Iberia = lost territory, complete reversal). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: al-Andalus, reversal, irrecuperable loss; Rome as other encoding (provincial success). Cross-reference MEM–ISLAM–CORDOBA, MEM–ISLAM–GEO–SICILY.
+• Complements SYNTHESIS 0001 (frontier nodes; Sicily = influence without permanence; Iberia = lost territory, complete reversal). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: al-Andalus, reversal, irrecuperable loss; Rome as other encoding (provincial success). Cross-reference MEM–ISLAM–CORDOBA, MEM–ISLAM–SICILY.
 
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
@@ -673,7 +673,7 @@ Tensions Preserved:
 • Cross-reference: SYNTHESIS 0003 (Jerusalem as Crusades moral fulcrum); ENTRY 0018; MEM–ISLAM–CRUSADES, MEM–ISLAM–SALADIN.
 
 SYNTHESIS 0010 (Connector Pairs — Sicily, Islam perspective)
-Derivation: MEM–ISLAM–GEO–SICILY, MEM–ROME–GEO–SICILY; ENTRY 0019.
+Derivation: MEM–ISLAM–SICILY, MEM–ROME–SICILY; ENTRY 0019.
 
 Outcome:
 • **Islam's encoding foregrounded:** Sicily as western laboratory — maritime entry, plural governance, cultural transmission; influence without permanence; Norman loss but cultural residue. Same island encoded two ways: Rome encodes first imperial classroom, Punic pivot, grain, central position. Connector pair (Rome/Islam) has different valence; no synthesis resolves. MEM CONNECTIONS link the two Sicily MEMs as same-subject encodings per CONCEPT IV-A.
@@ -738,7 +738,7 @@ Constraint-Oriented Frame:
 
 Tensions Preserved:
 • Islam: lost territory, reversal vs. Rome's success without centrality — same peninsula, different valence.
-• Cross-reference: SYNTHESIS 0001 (frontier nodes); ENTRY 0022; MEM–ISLAM–CORDOBA, MEM–ISLAM–GEO–SICILY.
+• Cross-reference: SYNTHESIS 0001 (frontier nodes); ENTRY 0022; MEM–ISLAM–CORDOBA, MEM–ISLAM–SICILY.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY

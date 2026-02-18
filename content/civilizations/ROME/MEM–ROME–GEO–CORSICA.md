@@ -117,12 +117,12 @@ Corsica is Rome's lesson in restraint.
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-ROME: MEM–ROME–GEO–SARDINIA, MEM–ROME–GEO–SICILY,
+ROME: MEM–ROME–GEO–SARDINIA, MEM–ROME–SICILY,
 MEM–ROME–GEO–MEDITERRANEAN–SEA, MEM–ROME–ITALY, MEM–ROME–GEO–ALPS,
 MEM–ROME–CARTHAGE, MEM–ROME–WAR–FIRST–PUNIC, MEM–ROME–AUGUSTUS,
 MEM–ROME–JUSTINIAN, MEM–ROME–CHARLEMAGNE
 
-GEO–MEMs: MEM–ROME–GEO–SARDINIA, MEM–ROME–GEO–SICILY
+GEO–MEMs: MEM–ROME–GEO–SARDINIA, MEM–ROME–SICILY
 
 ────────────────────────────────────────────────────────────
 VI. MEM BIBLIOGRAPHY

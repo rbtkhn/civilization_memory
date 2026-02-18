@@ -338,7 +338,7 @@ ROME (≥10):
 • MEM–ROME–REPUBLIC — institutional system that enabled adaptation
 • MEM–ROME–NAVY — naval capability first developed here
 • MEM–ROME–LAW–CITIZENSHIP — Italian alliance structure that provided manpower
-• MEM–ROME–GEO–SICILY — theater of war; first overseas province
+• MEM–ROME–SICILY — theater of war; first overseas province
 • MEM–ROME–HIST–POLYBIUS — primary historian of Punic Wars
 • MEM–ROME–SENATE — institution that managed 23-year war
 

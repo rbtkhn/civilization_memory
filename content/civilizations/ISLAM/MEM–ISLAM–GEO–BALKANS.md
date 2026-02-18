@@ -126,6 +126,9 @@ Dependency:
 • MEM–ISLAM–OTTOMAN–EMPIRE — Balkans as Ottoman core territory
 • MEM–ISLAM–CONSTANTINOPLE — Capital; Rumelia as European hinterland
 • MEM–ISLAM–CALIPHATE–ABOLITION — Empire's demise includes Balkan exit
+• MEM–ISLAM–HUNGARY — Ottoman Hungary (Mohács, Buda, Karlowitz)
+• MEM–ISLAM–SERBIA — Ottoman Serbia (Kosovo, millet, independence)
+• MEM–ISLAM–WALLACHIA — Ottoman vassal principality (Danubian buffer)
 
 Breaks if removed:
 • Baer thesis (Ottoman European integration) — Balkans as primary evidence.

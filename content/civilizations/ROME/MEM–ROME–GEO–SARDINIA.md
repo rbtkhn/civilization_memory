@@ -113,12 +113,12 @@ tolerates strain where necessary.
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-ROME: MEM–ROME–GEO–CORSICA, MEM–ROME–GEO–SICILY,
+ROME: MEM–ROME–GEO–CORSICA, MEM–ROME–SICILY,
 MEM–ROME–GEO–MEDITERRANEAN–SEA, MEM–ROME–ITALY, MEM–ROME–CARTHAGE,
 MEM–ROME–WAR–FIRST–PUNIC, MEM–ROME–AUGUSTUS, MEM–ROME–GEO–GIBRALTAR,
 MEM–ROME–GEO–IBERIA, MEM–ROME–JUSTINIAN
 
-GEO–MEMs: MEM–ROME–GEO–CORSICA, MEM–ROME–GEO–SICILY
+GEO–MEMs: MEM–ROME–GEO–CORSICA, MEM–ROME–SICILY
 
 ────────────────────────────────────────────────────────────
 VI. MEM BIBLIOGRAPHY

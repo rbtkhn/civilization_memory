@@ -227,7 +227,7 @@ ROME (≥10):
 • MEM–ROME–REPUBLIC — slavery scaled during republican expansion
 • MEM–ROME–AUGUSTUS — regulated manumission (Lex Fufia Caninia, Lex Aelia Sentia)
 • MEM–ROME–LATIN — language slaves learned and transmitted
-• MEM–ROME–GEO–SICILY — slave revolts (135–132 BC, 104–100 BC)
+• MEM–ROME–SICILY — slave revolts (135–132 BC, 104–100 BC)
 • MEM–ROME–WAR–PUNIC — major source of war captives
 • MEM–ROME–CAESAR — Gallic campaigns produced massive enslavement
 • MEM–ROME–EMPIRE–TRAJAN — Dacian wars and slave captures
