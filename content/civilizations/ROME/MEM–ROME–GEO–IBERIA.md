@@ -247,6 +247,9 @@ GEO–MEM Connections (≥2):
 • MEM–ROME–GEO–GAUL (adjacent province)
 • MEM–ROME–GEO–GIBRALTAR (strategic chokepoint)
 
+CROSS-CIVILIZATIONAL (connector pair):
+• MEM–ISLAM–GEO–IBERIA — Islam's encoding: al-Andalus, lost territory, 711–1492, reversal and expulsion; same peninsula, different valence (Rome = depth without centrality, success without strategic weight; Islam = western apex then irrecuperable loss, Reconquista as Christian recovery). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+
 ────────────────────────────────────────────────────────────
 VI. CIVILIZATIONAL MEMORY FUNCTION
 ────────────────────────────────────────────────────────────

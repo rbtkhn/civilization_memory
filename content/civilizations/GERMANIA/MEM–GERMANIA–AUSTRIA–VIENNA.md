@@ -320,7 +320,7 @@ GEO MEMs:
 
 Cross-Civilizational:
 
-• MEM–ISLAM–OTTOMAN
+• MEM–ISLAM–OTTOMAN–EMPIRE
   Dependency: Siege threat—Ottoman sieges (1529, 1683) forged Vienna's
   identity. Survival = Christendom's bulwark claim.
   Breaks if removed: Vienna's defining trauma disappears; 1683 relief

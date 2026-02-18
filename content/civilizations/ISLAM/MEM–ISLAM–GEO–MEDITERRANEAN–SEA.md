@@ -163,6 +163,8 @@ Dependency:
 Breaks if removed:
 • CIV–CORE–ISLAM § IV (Eastern Med corridors) — This MEM grounds that reference.
 
+Cross-civilization (connector pair): MEM–ROME–GEO–MEDITERRANEAN–SEA — Rome's encoding: Mare Nostrum, interior space of civilization, inverted stopping power of water; same basin, different valence (Islam = civilizational interface, conquest corridor, multi-polar, eastern heartland littoral). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────

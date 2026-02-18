@@ -117,7 +117,7 @@ The Levant itself is a corridor—the critical junction point for:
 • Land-sea interface linking continental and maritime power
 
 Critical nodes:
-• Antioch (northern anchor, Syrian gateway)
+• Antioch (northern anchor, Syrian gateway)—Syria (province) is the northern/eastern extension of this corridor; depth-exposure paradox applies (see MEM–ROME–SYRIA).
 • Damascus (interior junction)
 • Jerusalem (sacred center, administrative headache)
 • Gaza (Egyptian corridor entry)
@@ -248,7 +248,7 @@ Roman power now transmits Islamic civilization.
 VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-Civilization MEMs (≥10):
-• MEM–ROME–GEO–SYRIA (adjoining strategic exposure)
+• MEM–ROME–SYRIA (adjoining strategic exposure; province assimilated from former GEO–SYRIA)
 • MEM–ROME–GEO–EGYPT (connected via Gaza corridor)
 • MEM–ROME–GEO–ANATOLIA (northern strategic depth)
 • MEM–ROME–GEO–MEDITERRANEAN–SEA (maritime integration)
@@ -261,9 +261,12 @@ Same-Civilization MEMs (≥10):
 • MEM–ROME–TRAJAN (Kitos War)
 
 GEO–MEM Connections (≥2):
-• MEM–ROME–GEO–SYRIA (strategic depth zone)
+• MEM–ROME–SYRIA (strategic depth zone)
 • MEM–ROME–GEO–EGYPT (corridor terminus)
 • MEM–ROME–GEO–ARABIA (southern frontier)
+
+CROSS-CIVILIZATIONAL (connector pair):
+• MEM–ISLAM–GEO–LEVANT — Islam's encoding: sacred-zone corridor, legitimacy fulcrum, Jerusalem/Al-Aqsa, DPI escalation; same region, different valence (Rome = connection without consolidation, corridor paradox; Islam = sacred-zone anchor, violation triggers legitimacy rebinding). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 ────────────────────────────────────────────────────────────
 VII. CIVILIZATIONAL MEMORY FUNCTION

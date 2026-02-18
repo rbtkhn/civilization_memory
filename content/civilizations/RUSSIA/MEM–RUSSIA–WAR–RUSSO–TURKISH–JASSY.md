@@ -196,7 +196,7 @@ GEO–MEM (≥2):
 
 Cross-civilizational (≥3):
 • MEM–OTTOMAN–EMPIRE — signatory (if exists)
-• MEM–ISLAM–OTTOMAN — adversary context
+• MEM–ISLAM–OTTOMAN–EMPIRE — adversary context
 • MEM–FRANCIA–EASTERN–QUESTION — later diplomatic context
 
 ────────────────────────────────────────────────────────────

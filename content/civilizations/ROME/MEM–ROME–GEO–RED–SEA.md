@@ -297,7 +297,7 @@ GEO–MEMs (≥2 Required):
 
 CROSS-CIVILIZATIONAL:
 • MEM–INDIA–TRADE — Trade partner
-• MEM–ISLAM–UMAYYAD — Successor control
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Successor control
 
 ────────────────────────────────────────────────────────────
 VIII. CONTINUITY INSIGHTS (RAW)

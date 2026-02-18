@@ -155,6 +155,11 @@ IX. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+X. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Cross-civilization (connector pair): MEM–ISLAM–UMAYYAD–CALIPHATE — Same subject (Umayyad polity); Islam encoding: first imperial translation, Damascus; Rome encoding: war, territorial loss. Naming aligned (both CALIPHATE; Rome adds WAR–). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-B.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–ROME–WAR–UMAYYAD–CALIPHATE — v1.0
 ────────────────────────────────────────────────────────────
 

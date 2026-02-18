@@ -123,7 +123,7 @@ VII. GEO STRUCTURED DATA (LAYER 2)
 VIII. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Dependency:
-• MEM–ISLAM–DYNASTY–OTTOMAN — Balkans as Ottoman core territory
+• MEM–ISLAM–OTTOMAN–EMPIRE — Balkans as Ottoman core territory
 • MEM–ISLAM–CONSTANTINOPLE — Capital; Rumelia as European hinterland
 • MEM–ISLAM–CALIPHATE–ABOLITION — Empire's demise includes Balkan exit
 

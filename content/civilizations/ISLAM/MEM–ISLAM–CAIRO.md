@@ -98,7 +98,7 @@ Dependency:
 • MEM–ISLAM–DYNASTY–FATIMID — Cairo founding; rival caliphate
 • MEM–ISLAM–DYNASTY–AYYUBID — Saladin; Sunni restoration
 • MEM–ISLAM–DYNASTY–MAMLUK — Cairo–Damascus axis; symbolic caliphate
-• MEM–ISLAM–DYNASTY–OTTOMAN — 1517 transfer
+• MEM–ISLAM–OTTOMAN–EMPIRE — 1517 transfer
 • MEM–ISLAM–MONGOL–EMPIRE — Baghdad fall makes Cairo successor
 • MEM–ISLAM–SALADIN — Fatimid abolition
 

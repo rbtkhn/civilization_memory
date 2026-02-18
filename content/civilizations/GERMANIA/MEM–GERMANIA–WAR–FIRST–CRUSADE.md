@@ -303,7 +303,7 @@ CROSS-CIVILIZATION CONNECTIONS:
   Dependency: French contingent (primary force)
   Breaks if removed: Full crusade context missing
 
-• MEM–ISLAM–JERUSALEM
+• MEM–ISLAM–PALESTINE–JERUSALEM
   Dependency: Objective of crusade
   Breaks if removed: Target undocumented
 

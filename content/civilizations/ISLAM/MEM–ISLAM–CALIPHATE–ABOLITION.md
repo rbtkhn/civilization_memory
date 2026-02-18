@@ -83,7 +83,7 @@ Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021)
 VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Dependency:
-• MEM–ISLAM–DYNASTY–OTTOMAN — Abolition ends Ottoman authority
+• MEM–ISLAM–OTTOMAN–EMPIRE — Abolition ends Ottoman authority
 • MEM–ISLAM–CONSTANTINOPLE — Capital of abolished caliphate
 • MEM–ISLAM–SUNNI — Sunni legitimacy structure; no universal arbiter
 

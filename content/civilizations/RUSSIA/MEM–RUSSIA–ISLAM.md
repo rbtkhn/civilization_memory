@@ -280,7 +280,7 @@ GEO–MEM (≥2):
 • MEM–RUSSIA–GEO–CRIMEA — Crimean Khanate, Tatar population
 
 Cross-civilizational:
-• MEM–ISLAM–DYNASTY–OTTOMAN — Ottoman as Islamic civilizational subject
+• MEM–ISLAM–OTTOMAN–EMPIRE — Ottoman as Islamic civilizational subject
 • MEM–ISLAM–GEO–CAUCASUS — Caucasus in Islamic geography
 • MEM–ISLAM–GEO–BLACK–SEA — Black Sea, Crimea, Ottoman sphere
 

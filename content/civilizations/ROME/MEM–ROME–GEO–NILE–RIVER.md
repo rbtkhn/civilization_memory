@@ -370,7 +370,7 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–RED–SEA — Trade corridor
 
 CROSS-CIVILIZATIONAL:
-• MEM–ISLAM–UMAYYAD — Conquering power
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Conquering power
 • MEM–EGYPT–ANCIENT — Predecessor civilization
 
 ────────────────────────────────────────────────────────────

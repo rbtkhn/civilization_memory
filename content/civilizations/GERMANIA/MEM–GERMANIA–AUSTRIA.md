@@ -239,7 +239,7 @@ GEO MEMs:
 
 Cross-Civilizational:
 
-• MEM–ISLAM–OTTOMAN
+• MEM–ISLAM–OTTOMAN–EMPIRE
   Dependency: Eastern adversary—Ottoman sieges of Vienna define Austrian
   role as Christendom's bulwark.
   Breaks if removed: Austrian military purpose disappears; 1529/1683

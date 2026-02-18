@@ -121,7 +121,16 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Cross-civilization same-subject (connector pair + third pole):
+• MEM–ROME–CONSTANTINOPLE — Rome's encoding: continuity through
+  relocation; 1453 as termination of vessel (connector pair).
+• MEM–RUSSIA–CONSTANTINOPLE — Lost center, inheritance by default;
+  Third Rome. Same subject, three encodings.
+
+────────────────────────────────────────────────────────────
+X. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 
 Bernard Lewis, *What Went Wrong?* (2002); *Journal of Democracy* 7.2 (1996) (ARC–ISLAM–T–MODERN):
@@ -133,7 +142,7 @@ Bernard Lewis, *What Went Wrong?* (2002); *Journal of Democracy* 7.2 (1996) (ARC
 "As late as 1683, an Ottoman army was encamped before the very gates of Vienna."
 
 ────────────────────────────────────────────────────────────
-X. SOURCE EVIDENCE — BAER (ARC–ISLAM)
+XI. SOURCE EVIDENCE — BAER (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 
 Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021) (ARC–ISLAM–T–MODERN):

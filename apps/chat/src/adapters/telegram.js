@@ -5,6 +5,7 @@
 
 const TelegramBot = require('node-telegram-bot-api');
 const engine = require('../engine');
+const activityLog = require('../activity-log');
 
 const GROUP_TYPES = ['group', 'supergroup'];
 
@@ -62,7 +63,7 @@ function stripMention(text, botUsername) {
 async function handleMessage(bot, chatId, text, sessionKeyForEngine) {
   try {
     const reply = await bot.sendMessage(chatId, 'Thinking…', { parse_mode: 'HTML' });
-    const { text: responseText, options } = await engine.run(
+    const { text: responseText, options, entity, mode } = await engine.run(
       'telegram',
       sessionKeyForEngine,
       text
@@ -77,6 +78,17 @@ async function handleMessage(bot, chatId, text, sessionKeyForEngine) {
       message_id: reply.message_id,
       parse_mode: 'HTML',
       reply_markup: keyboard,
+    });
+    activityLog.append({
+      timestamp: new Date().toISOString(),
+      platform: 'telegram',
+      sessionKey: sessionKeyForEngine,
+      chatId,
+      userMessage: text,
+      responseText,
+      options: (options || []).map((o) => ({ letter: o.letter, id: o.id, label: o.label })),
+      entity: entity || null,
+      mode: mode || null,
     });
   } catch (err) {
     console.error('Engine or send error:', err);

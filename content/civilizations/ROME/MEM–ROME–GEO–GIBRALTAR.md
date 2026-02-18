@@ -285,7 +285,7 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–SICILY — Complementary central chokepoint
 
 CROSS-CIVILIZATIONAL:
-• MEM–ISLAM–UMAYYAD — Conquest of Iberia via strait
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Conquest of Iberia via strait
 • MEM–ANGLIA–GIBRALTAR — British succession
 
 ────────────────────────────────────────────────────────────

@@ -288,7 +288,7 @@ Same-Civilization (≥10):
 • MEM–FRANCIA–CHURCH — defender relationship
 
 Cross-civilizational:
-• MEM–ISLAM–UMAYYAD — attacking civilization
+• MEM–ISLAM–UMAYYAD–CALIPHATE — attacking civilization
 • MEM–ISLAM–IBERIA — prior conquest
 • MEM–ANGLIA–BEDE — contemporary chronicler
 • MEM–ROMA–PAPACY — later beneficiary

@@ -205,7 +205,7 @@ GEO–MEM (≥2):
 
 Cross-civilizational (≥3):
 • MEM–OTTOMAN–EMPIRE — defender (if exists)
-• MEM–ISLAM–OTTOMAN — adversary context
+• MEM–ISLAM–OTTOMAN–EMPIRE — adversary context
 • MEM–FRANCIA–NAPOLEON — Suvorov later faced Revolutionary France
 
 ────────────────────────────────────────────────────────────

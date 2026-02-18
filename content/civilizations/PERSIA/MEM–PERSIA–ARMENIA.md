@@ -201,7 +201,7 @@ PERSIA (same-civilization ≥10):
 Cross-civilization (≥3):
 • MEM–ROME–ARMENIA — Roman perspective; buffer logic
 • MEM–ROME–WAR–PERSIA — the conflict
-• MEM–ROME–GEO–SYRIA — southern frontier (Armenia's western edge)
+• MEM–ROME–SYRIA — southern frontier (Armenia's western edge)
 
 Breaks if removed: MEM–ROME–ARMENIA (counterpart); MEM–PERSIA–WAR–ROME (conflict context).
 

@@ -270,7 +270,7 @@ GEO Connections — ≥2 Required:
 
 Cross-Civilizational:
 • MEM–ISLAM–GOLDEN–HORDE — predecessor khanate
-• MEM–ISLAM–OTTOMAN — co-religionists of Tatars
+• MEM–ISLAM–OTTOMAN–EMPIRE — co-religionists of Tatars
 • MEM–MONGOL–EMPIRE — ultimate origin of Kazan Khanate
 
 Each connection is structurally required.

@@ -253,7 +253,7 @@ GEO (≥2):
 
 Cross-civilization:
 • MEM–ROME–GEO–LEVANT — Roman perspective; corridor paradox
-• MEM–ROME–GEO–SYRIA — Roman Syria; depth-exposure
+• MEM–ROME–SYRIA — Roman Syria; depth-exposure
 • MEM–ROME–ISLAM — Levant loss
 
 Breaks if removed: MEM–PERSIA–WAR–ROME (theater); MEM–PERSIA–SASANIAN–KHOSROW–II (conquest/reversal).

@@ -272,7 +272,7 @@ VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–GEO–BLACK–SEA — Nearest Roman maritime zone
-• MEM–ROME–GEO–SYRIA — Eastern frontier approach
+• MEM–ROME–SYRIA — Eastern frontier approach
 • MEM–ROME–GEO–ANATOLIA — Protected by buffer
 • MEM–ROME–PERSIA — Intervening power
 • MEM–ROME–ARMENIA — Closest Roman approach

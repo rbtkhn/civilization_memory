@@ -10,6 +10,9 @@ const getSystemPrompt = require('./prompts/system');
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
+/** Number of prior exchange pairs (user + assistant) to send to the LLM. 5 = last 5 turns = 10 messages. */
+const MAX_CONVERSATION_TURNS = 5;
+
 const OPTIONS_REGEX = /OPTIONS:\s*\n((?:\s*[A-H]\s*—\s*.+\n?)+)/i;
 
 const FALLBACK_OPTIONS_STATE = 'ABCDEFGH'.split('').map((letter) => ({
@@ -201,12 +204,17 @@ ${memRelevanceContent}
     }
   }
 
+  // Conversation history: last N turns so the model can refer to prior exchange
+  const history = sess.messages || [];
+  const apiMessages = [
+    { role: 'system', content: systemContent },
+    ...history,
+    { role: 'user', content: userContent },
+  ];
+
   const response = await openai.chat.completions.create({
     model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
-    messages: [
-      { role: 'system', content: systemContent },
-      { role: 'user', content: userContent },
-    ],
+    messages: apiMessages,
     max_tokens: 1600,
     temperature: 0.4,
   });
@@ -230,6 +238,15 @@ ${memRelevanceContent}
   if (options.length < 8 && text.length > 0) {
     options = mode === 'SCHOLAR' ? FALLBACK_OPTIONS_SCHOLAR : FALLBACK_OPTIONS_STATE;
   }
+
+  // Append this turn to session history; keep only last MAX_CONVERSATION_TURNS pairs (user + assistant)
+  const newHistory = [
+    ...history,
+    { role: 'user', content: userContent },
+    { role: 'assistant', content: raw },
+  ];
+  const trimmedHistory = newHistory.slice(-(MAX_CONVERSATION_TURNS * 2));
+  session.set(platform, userId, { messages: trimmedHistory });
 
   return { text, options, entity, mode };
 }

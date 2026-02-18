@@ -268,7 +268,7 @@ GEO Connections — ≥2 Required:
 Cross-Civilizational:
 • MEM–ISLAM–GOLDEN–HORDE — predecessor khanate
 • MEM–PERSIA–SAFAVID–DYNASTY — trade partner
-• MEM–ISLAM–OTTOMAN — rival power in Caspian basin
+• MEM–ISLAM–OTTOMAN–EMPIRE — rival power in Caspian basin
 
 Each connection is structurally required.
 

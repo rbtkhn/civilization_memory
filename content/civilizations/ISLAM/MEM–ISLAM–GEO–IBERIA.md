@@ -29,7 +29,7 @@ Umayyad forces cross Strait of Gibraltar; defeat Visigoths (Guadalete); rapid co
 
 "For the first thousand years of its history, Islamic civilization's relationship to Christendom was one of dominance."
 
-Iberia was the western apex. Cordoba becomes capital; Umayyad emirate, then caliphate (929). Al-Andalus = dar al-Islam's furthest west. MEM–ISLAM–DYNASTY–UMAYYAD: "Iberia to Central Asia"; "Andalusian Umayyad survival (Cordoba)" after Abbasid overthrow of Damascus line.
+Iberia was the western apex. Cordoba becomes capital; Umayyad emirate, then caliphate (929). Al-Andalus = dar al-Islam's furthest west. MEM–ISLAM–UMAYYAD–CALIPHATE: "Iberia to Central Asia"; "Andalusian Umayyad survival (Cordoba)" after Abbasid overthrow of Damascus line.
 
 IV. FRAGMENTATION & RECONQUISTA
 Taifa kingdoms (11th C): Fragmentation after Caliphate collapse; Christian kingdoms (Castile, León, Aragon) advance. Almoravid, Almohad interventions from Maghreb—temporary reversal, then retreat. Structural logic: Iberian geography enables Christian reconstitution in northern mountains; Islamic power depends on Maghreb reinforcement across Gibraltar. When Maghreb weakens, al-Andalus contracts.
@@ -47,7 +47,8 @@ VIII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: Iberian Peninsula; ~36–44N, 10W–5E. TERRAIN: Meseta; coastal; Pyrenees northern boundary. CHOKEPOINT: Gibraltar (entry/exit); see MEM–ISLAM–GEO–ATLANTIC–OCEAN, MEM–ISLAM–GEO–MEDITERRANEAN–SEA. KEY_FEATURES: Gibraltar; Cordoba; Granada; Guadalquivir.
 
 IX. MEM CONNECTIONS
-MEM–ISLAM–GEO–ATLANTIC–OCEAN; MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–CORDOBA; MEM–ISLAM–DYNASTY–UMAYYAD; MEM–ISLAM–DYNASTY–UMAYYAD (Andalusian survival). Cross-civilization: MEM–ROME–GEO–IBERIA (Rome's encoding: Reconquista as recovery); MEM–ROME–SPAIN–GRANADA.
+Same-civilization (ISLAM): MEM–ISLAM–GEO–ATLANTIC–OCEAN; MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–CORDOBA; MEM–ISLAM–UMAYYAD–CALIPHATE; MEM–ISLAM–UMAYYAD–CALIPHATE (Andalusian survival). Breaks if removed: CIV–CORE–ISLAM frontier/reversal encoding.
+Cross-civilization (connector pair): MEM–ROME–GEO–IBERIA — Rome's encoding: depth without centrality, success without strategic weight, provincial proof-of-concept; same peninsula, different valence (Islam = al-Andalus, lost territory, 711–1492 reversal, Reconquista as Christian recovery). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A. MEM–ROME–SPAIN–GRANADA (if exists).
 
 X. CONTINUITY INSIGHTS
 Iberia = lost territory; reversal encoded. 781 years of presence; complete exit. Gibraltar as single reinforcement route; terminal geography. Al-Andalus as civilizational achievement and irrecuperable loss.

@@ -44,7 +44,7 @@ VII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: ~38N–30N; Turkey, Syria, Iraq; ~2,800 km. TERRAIN: Riverine; Mesopotamian plain; irrigation. CHOKEPOINT: No—upstream (Turkey) can constrain flows. KEY_FEATURES: Karbala; Najaf; Kufa; Raqqa; Shatt al-Arab confluence.
 
 VIII. MEM CONNECTIONS
-MEM–ISLAM–GEO–TIGRIS–RIVER; MEM–ISLAM–SHIA; MEM–ISLAM–DYNASTY–UMAYYAD; MEM–ISLAM–DYNASTY–SAFAVID; MEM–ISLAM–GEO–PERSIAN–GULF; MEM–ISLAM–GEO–LEVANT. Breaks if removed: CIV–CORE § IV (Mesopotamia); Shi'a sacred geography.
+MEM–ISLAM–GEO–TIGRIS–RIVER; MEM–ISLAM–SHIA; MEM–ISLAM–UMAYYAD–CALIPHATE; MEM–ISLAM–DYNASTY–SAFAVID; MEM–ISLAM–GEO–PERSIAN–GULF; MEM–ISLAM–GEO–LEVANT. Breaks if removed: CIV–CORE § IV (Mesopotamia); Shi'a sacred geography.
 
 IX. CONTINUITY INSIGHTS
 Euphrates = Shi'a holy cities corridor; Karbala defines Shi'a time. Syria–Iraq axis; upstream (Turkey) = modern dependency. Tigris–Euphrates paired system.

@@ -1172,6 +1172,69 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN (DURANT RENAISSANCE INTEGRATION)
 
+ENTRY 0067
+Source: MEM–ROME–CONSTANTINOPLE v2.1 + MEM–ISLAM–CONSTANTINOPLE v1.2 + MEM–RUSSIA–CONSTANTINOPLE v3.0 (CONNECTOR PAIR + THIRD POLE)
+Ingest Type: Synthesis / Connector Pairs and Triple Encoding (Rome perspective)
+Primary Belief Extracted:
+• Constantinople is one place encoded three ways. **Rome's encoding** (foreground): continuity through relocation; 1453 as termination of the vessel; legitimacy bifurcated, then Eastern political authority vacated. Connector pair: Islam encodes the same city as arrival and imperial absorption (opposite valence). Third pole: Russia encodes as lost center and inheritance by default (Third Rome); claims legitimacy without territorial possession.
+• Structural reading: position and force ratios explain valence (who holds the city, who claims the vacancy). Liability reading: who is on the hook (papacy, Mehmed, occupiers) and what is irreversible (1453, succession claims) differs by encoding. MEM CONNECTIONS now link the three MEMs as same-subject encodings.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
+ENTRY 0068
+Source: MEM–ROME–CRUSADES v1.2 + MEM–ISLAM–CRUSADES v1.3 (CONNECTOR PAIR)
+Ingest Type: Synthesis / Connector Pairs (Crusades — Rome perspective)
+Primary Belief Extracted:
+• **Rome's encoding** (foreground): The Crusades are authority extended beyond capacity — papal universalism converted into delegated violence that Rome could not control. Spiritual authority degrades when militarized; delegated warfare erodes legitimacy; the Crusades mark the outer limit of Roman spiritual command. Connector pair: Islam encodes the same event as legitimacy crisis (sacred space violated 1099), then restorative recovery (unity, moral reframing, Saladin 1187); opposite valence (Rome = overreach; Islam = invasion then moral victory).
+• Same referent (1095–1291, Jerusalem, Levant): Rome = overreach and chastening; Islam = fragmentation exposed then consolidation. MEM CONNECTIONS link MEM–ROME–CRUSADES and MEM–ISLAM–CRUSADES as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
+ENTRY 0069
+Source: MEM–ROME–PALESTINE–JERUSALEM v1.1 + MEM–ISLAM–PALESTINE–JERUSALEM v1.0 (CONNECTOR PAIR)
+Ingest Type: Synthesis / Connector Pairs (Jerusalem — Rome perspective)
+Primary Belief Extracted:
+• **Rome's encoding** (foreground): Jerusalem is Rome's most dangerous city — non-administerable; sacred geography negates imperial neutrality. Destruction (70 AD) becomes transmission event (law/faith decoupled from place); Jerusalem defeats Rome without conquering it. Connector pair: Islam encodes the same city as third holiest site and legitimacy anchor; 1099 = ontological rupture, 1187 = recovery; sacred zone non-fungible. Same place, different valence (Rome = destruction/portability; Islam = violation then reanchoring).
+• MEM CONNECTIONS link MEM–ROME–PALESTINE–JERUSALEM and MEM–ISLAM–PALESTINE–JERUSALEM as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
+ENTRY 0070
+Source: MEM–ROME–GEO–SICILY v2.0 + MEM–ISLAM–GEO–SICILY v1.0 (CONNECTOR PAIR)
+Ingest Type: Synthesis / Connector Pairs (Sicily — Rome perspective)
+Primary Belief Extracted:
+• **Rome's encoding** (foreground): Sicily is Rome's first imperial classroom — Punic pivot, grain, central position in the Mediterranean; empire begins as defense; control need not equal assimilation. Connector pair: Islam encodes the same island as western laboratory, maritime entry (Aghlabid), influence without permanence, cultural transmission then Norman loss; different valence (Rome = acquisition and consolidation; Islam = entry then political exit, cultural residue).
+• MEM CONNECTIONS link MEM–ROME–GEO–SICILY and MEM–ISLAM–GEO–SICILY as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
+ENTRY 0071
+Source: MEM–ROME–GEO–MEDITERRANEAN–SEA v2.0 + MEM–ISLAM–GEO–MEDITERRANEAN–SEA v2.0 (CONNECTOR PAIR)
+Ingest Type: Synthesis / Connector Pairs (Mediterranean — Rome perspective)
+Primary Belief Extracted:
+• **Rome's encoding** (foreground): Mediterranean as Rome's constitutive medium — Mare Nostrum, interior space of civilization; inverted stopping power of water; when Rome loses the Mediterranean, Rome ceases to be Mediterranean Rome. Islamic partition permanent; fragmentation mirrors political fracture. Connector pair: Islam encodes the same basin as civilizational interface, conquest corridor, control sequence (Byzantine/Umayyad contested, multi-polar, Ottoman eastern lake); different valence (Rome = coherence; Islam = interface, eastern heartland littoral).
+• MEM CONNECTIONS link MEM–ROME–GEO–MEDITERRANEAN–SEA and MEM–ISLAM–GEO–MEDITERRANEAN–SEA as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
+ENTRY 0072
+Source: MEM–ROME–GEO–LEVANT v2.0 + MEM–ISLAM–GEO–LEVANT v1.2 (CONNECTOR PAIR)
+Ingest Type: Synthesis / Connector Pairs (Levant — Rome perspective)
+Primary Belief Extracted:
+• **Rome's encoding** (foreground): Levant as corridor paradox — connection without consolidation; transmission without absorption; corridor accelerates what basins contain; administrative success dissolves into theological fracture. Islamic absorption (7th c.) validates RLL–0006; fragments do not return. Connector pair: Islam encodes the same region as sacred-zone corridor, legitimacy fulcrum, Jerusalem/Al-Aqsa, DPI escalation; different valence (Rome = corridor paradox; Islam = sacred anchor, violation triggers rebinding).
+• MEM CONNECTIONS link MEM–ROME–GEO–LEVANT and MEM–ISLAM–GEO–LEVANT as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
+ENTRY 0073
+Source: MEM–ROME–GEO–IBERIA v2.0 + MEM–ISLAM–GEO–IBERIA v1.0 (CONNECTOR PAIR)
+Ingest Type: Synthesis / Connector Pairs (Iberia — Rome perspective)
+Primary Belief Extracted:
+• **Rome's encoding** (foreground): Iberia as peripheral proof-of-concept — depth without centrality, success without strategic weight; Romanization and quiet exit; empire could afford to lose Spain. Connector pair: Islam encodes the same peninsula as al-Andalus, lost territory (711–1492), reversal and expulsion; different valence (Rome = provincial success, exit grace; Islam = western apex then irrecuperable loss, Reconquista as Christian recovery).
+• MEM CONNECTIONS link MEM–ROME–GEO–IBERIA and MEM–ISLAM–GEO–IBERIA as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN (CANDIDATE)
+
 ────────────────────────────────────────────────────────────
 III.A ROMAN CIVILIZATIONAL AXIOMS (v2.5 TEMPLATE FORMAT)
 ────────────────────────────────────────────────────────────
@@ -1380,6 +1443,13 @@ SYNTHESIS 0048: Succession Filtering Thesis (Mearsheimer: enforcement through in
 SYNTHESIS 0049: Petrarch as Conscious Revival (Renaissance begins as mourning) → CANDIDATE
 SYNTHESIS 0050: Boccaccio as Vernacular Infrastructure (prose carries civilization) → CANDIDATE
 SYNTHESIS 0051: Savonarola as Counter-Renaissance (unarmed prophets fail) → CANDIDATE
+SYNTHESIS 0052: Connector Pairs and Triple Encoding (Constantinople — Rome perspective: continuity terminated; Islam arrival; Russia inheritance by default) → CANDIDATE
+SYNTHESIS 0053: Connector Pairs — Crusades (Rome perspective: papal overreach, delegated violence, authority beyond capacity; Islam = legitimacy crisis then recovery) → CANDIDATE
+SYNTHESIS 0054: Connector Pairs — Jerusalem (Rome perspective: non-administerable, destruction as transmission; Islam = third holiest site, 1099 rupture / 1187 recovery) → CANDIDATE
+SYNTHESIS 0055: Connector Pairs — Sicily (Rome perspective: first imperial classroom, Punic pivot; Islam = western laboratory, influence without permanence) → CANDIDATE
+SYNTHESIS 0056: Connector Pairs — Mediterranean (Rome perspective: Mare Nostrum, interior space; Islam = civilizational interface, multi-polar basin) → CANDIDATE
+SYNTHESIS 0057: Connector Pairs — Levant (Rome perspective: corridor paradox, connection without consolidation; Islam = sacred-zone corridor, legitimacy fulcrum) → CANDIDATE
+SYNTHESIS 0058: Connector Pairs — Iberia (Rome perspective: depth without centrality, success without strategic weight; Islam = al-Andalus, lost territory, Reconquista reversal) → CANDIDATE
 
 ────────────────────────────────────────────────────────────
 IV.A PROPOSED RECURSIVE LEARNING LAWS (RLLs) — PENDING AUTHORIZATION
@@ -1540,8 +1610,8 @@ RLL Count: 2 BOUND + 7 PENDING
   • RLL–ROME–0008: PENDING (Terminal Competence Law) — NEW
   • RLL–ROME–0009: PENDING (Tri-Level Failure Law) — NEW
   • RLL–ROME–0001, 0003, 0004, 0005: PENDING (reformulation/reclassification)
-Total Entries: 57
-Synthesis Count: 42 (23 FROZEN, 6 CANDIDATE, 13 UNFROZEN/AUTHORIZED)
+Total Entries: 64
+Synthesis Count: 49 (23 FROZEN, 13 CANDIDATE, 13 UNFROZEN/AUTHORIZED)
 Heuristic Count: 15
 MEMs Ingested This Session: 11 (WAR–ZAMA, WAR–MANZIKERT, NUMIDIA, MARIUS, LIT–BOETHIUS, EMPIRE–BASIL–II, CHRISTIANITY–AUGUSTINE, SCIPIO–AFRICANUS, WAR–THIRD–PUNIC, WAR–FIRST–PUNIC, WAR–ALARIC)
 Phase: PHASE II — CONSTRAINT GRAMMAR (AUTHORIZED January 2026)

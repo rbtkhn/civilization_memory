@@ -154,8 +154,10 @@ GEO Connections — ≥2 Required:
 
 Cross-Civilizational:
 • MEM–BYZANTIUM–FALL — civilizational collapse event
-• MEM–ISLAM–OTTOMAN–CONQUEST — possession transfer
+• MEM–ISLAM–OTTOMAN–EMPIRE — possession transfer
 • MEM–ORTHODOXY–ECUMENICAL — spiritual authority migration
+• MEM–ROME–CONSTANTINOPLE — Rome's encoding: continuity through relocation; 1453 as end of vessel (connector pair).
+• MEM–ISLAM–CONSTANTINOPLE — Islam's encoding: 1453 as arrival and imperial absorption (connector pair). Same subject, three encodings.
 
 Each connection is structurally required.
 

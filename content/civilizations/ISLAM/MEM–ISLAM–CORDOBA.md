@@ -22,7 +22,7 @@ Abd al-Rahman I, sole Umayyad survivor, establishes Emirate of Cordoba (756). Be
 
 "Thereafter the caliphate became hereditary in two successive dynasties."
 
-The Damascus line falls; Cordoba continues Umayyad rule. Al-Andalus = dar al-Islam's furthest west. Strategic constraint: Guadalquivir River; Cordoba as interior capital; Gibraltar as reinforcement route from Maghreb. MEM–ISLAM–DYNASTY–UMAYYAD: "Andalusian Umayyad survival (Cordoba)"—dynasty delegitimized in east, survives in west.
+The Damascus line falls; Cordoba continues Umayyad rule. Al-Andalus = dar al-Islam's furthest west. Strategic constraint: Guadalquivir River; Cordoba as interior capital; Gibraltar as reinforcement route from Maghreb. MEM–ISLAM–UMAYYAD–CALIPHATE: "Andalusian Umayyad survival (Cordoba)"—dynasty delegitimized in east, survives in west.
 
 III. CALIPHATE OF CORDOBA (929–1031)
 Abd al-Rahman III proclaims himself caliph (929)—challenging Abbasid Baghdad. Cordoba becomes **parallel caliphal capital**; no Abbasid recognition. Cultural zenith: philosophy, poetry, science; library; Great Mosque expansion. Lewis, *What Went Wrong?*: "For the first thousand years of its history, Islamic civilization's relationship to Christendom was one of dominance." Cordoba embodied that dominance in the west—largest city in Europe; multicultural; intellectual center.
@@ -34,7 +34,7 @@ V. CITY STRUCTURED DATA (LAYER 2)
 GEOGRAPHIC: 37.88N 4.77W; Guadalquivir River; Meseta edge. TERRAIN: Riverine; interior. KEY_FEATURES: Great Mosque (Mezquita); Alcazar; Roman bridge. ECONOMIC: Administrative; religious; trade (Guadalquivir). CONTROL HISTORY: Umayyad Emirate 756–929; Caliphate 929–1031; Taifa 1031–1236; Castilian 1236–present.
 
 VI. MEM CONNECTIONS
-MEM–ISLAM–GEO–IBERIA; MEM–ISLAM–DYNASTY–UMAYYAD; MEM–ISLAM–GEO–ATLANTIC–OCEAN; MEM–ISLAM–DAMASCUS (capital succession: Damascus falls, Cordoba continues). Cross-civilization: MEM–ROME–SPAIN–CASTILE; MEM–ROME–SPAIN–* (Reconquista).
+MEM–ISLAM–GEO–IBERIA; MEM–ISLAM–UMAYYAD–CALIPHATE; MEM–ISLAM–GEO–ATLANTIC–OCEAN; MEM–ISLAM–DAMASCUS (capital succession: Damascus falls, Cordoba continues). Cross-civilization: MEM–ROME–SPAIN–CASTILE; MEM–ROME–SPAIN–* (Reconquista).
 
 VII. CONTINUITY INSIGHTS
 Cordoba = lost caliphal capital; Umayyad survival; western apex. Fall by conquest (1236); encoding reversal. Great Mosque endures as palimpsest—Islamic architecture under Christian custody.

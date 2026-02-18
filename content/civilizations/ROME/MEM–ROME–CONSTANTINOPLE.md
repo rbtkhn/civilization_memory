@@ -344,6 +344,8 @@ NON-ROME:
   imperial center and source of symbolic inheritance.
 • MEM–RUSSIA–THIRD–ROME — the ideological and sacral inheritance of
   Constantinople's legitimacy by the Muscovite state.
+• MEM–ISLAM–CONSTANTINOPLE — Islam's encoding of 1453 as arrival and
+  imperial inheritance; same city, opposite valence to Rome's continuity-terminated (connector pair).
 
 ────────────────────────────────────────────────────────────
 XI. MEM BIBLIOGRAPHY (MANDATORY)

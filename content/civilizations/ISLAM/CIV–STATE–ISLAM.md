@@ -66,7 +66,7 @@ Phase history (summary):
   restoration (1261); fall by institutional transfer to Ottoman.
 • Ottoman (1517–1924): Istanbul; custodial capital; triple heritage
   (Khans/Caesars/Caliphs); fall by abolition — terminal; no successor
-  (MEM–ISLAM–DYNASTY–OTTOMAN; MEM–ISLAM–CALIPHATE–ABOLITION).
+  (MEM–ISLAM–OTTOMAN–EMPIRE; MEM–ISLAM–CALIPHATE–ABOLITION).
 
 The **caliphal state** as single universal custodian concluded in 1924. The
 **civilizational grammar** (Ummah identity, sacred zones, moral custodianship,
@@ -295,7 +295,7 @@ Last assessed against:
 • CIV–STATE–TEMPLATE: (current)
 • CIV–INDEX–ISLAM: (per repo; MEM corpus 54+ MEMs)
 • MEM–ISLAM–CALIPHATE–ABOLITION: v1.0
-• MEM–ISLAM–DYNASTY–OTTOMAN: v1.2
+• MEM–ISLAM–OTTOMAN–EMPIRE: v1.2
 • MEM–ISLAM–DYNASTY–RASHIDUN: v1.0
 • CONCEPT–STATE–INFLUENCE–FROM–CONCLUDED–ENTITIES: (Section VI, VII, VIII)
 

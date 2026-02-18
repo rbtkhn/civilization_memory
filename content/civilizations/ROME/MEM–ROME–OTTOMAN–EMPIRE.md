@@ -286,9 +286,10 @@ ROME (Same-Civilization):
 • MEM–ROME–EMPIRE–ALEXIOS–I–KOMNENOS — Seljuk pressure precedent
 
 CROSS-CIVILIZATIONAL:
+• MEM–ISLAM–OTTOMAN–EMPIRE — Connector pair (same subject: Ottoman polity; Islam encoding: custodianship, caliphal continuity; Rome encoding: functional successor, declination). Naming aligned (both EMPIRE). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-B.
 • MEM–RUSSIA–MOSCOW — Third Rome competitor
 • MEM–RUSSIA–CONSTANTINOPLE — Russian succession claim
-• MEM–ISLAM–CALIPHATE — Ottoman caliphal claim post-1517
+• MEM–ISLAM–CALIPHATE–ABOLITION — Ottoman caliphal claim post-1517; abolition 1924
 
 GEO–MEMs:
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Ottoman naval sphere

@@ -334,7 +334,7 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Grain circulation route
 • MEM–ROME–GEO–RED–SEA — Eastern trade access
 • MEM–ROME–GEO–NILE–RIVER — Internal circulation
-• MEM–ROME–GEO–SYRIA — Northern partner
+• MEM–ROME–SYRIA — Northern partner
 • MEM–ROME–CONSTANTINOPLE — Eastern grain destination
 • MEM–ROME–AUGUSTUS — System capture architect
 • MEM–ROME–ISLAM — Partition agent
@@ -346,7 +346,7 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–RED–SEA — Trade extension
 
 CROSS-CIVILIZATIONAL:
-• MEM–ISLAM–UMAYYAD — Conquering power
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Conquering power
 • MEM–EGYPT–ANCIENT — Predecessor civilization
 
 ────────────────────────────────────────────────────────────

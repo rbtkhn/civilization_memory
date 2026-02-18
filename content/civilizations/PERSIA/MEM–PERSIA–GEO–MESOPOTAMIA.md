@@ -210,7 +210,7 @@ GEO (≥2):
 • MEM–PERSIA–GEO–IRANIAN–PLATEAU — Eastern boundary; plateau approach
 
 Cross-civilization:
-• MEM–ROME–GEO–SYRIA — Roman approach to Mesopotamia
+• MEM–ROME–SYRIA — Roman approach to Mesopotamia
 
 Breaks if removed: MEM–PERSIA–GEO–LEVANT (hinge); MEM–PERSIA–WAR–ROME (Ctesiphon reach); MEM–PERSIA–PARTHIAN (capital).
 

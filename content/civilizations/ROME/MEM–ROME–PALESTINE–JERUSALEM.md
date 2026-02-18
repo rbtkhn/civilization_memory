@@ -138,7 +138,18 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. MEM BIBLIOGRAPHY (MANDATORY)
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ROME:
+• MEM–ROME–CRUSADES — Jerusalem as object of papal mobilization and delegated violence.
+• MEM–ROME–GEO–LEVANT — Roman and post-Roman theatre; sacred geography.
+• MEM–ROME–CONSTANTINOPLE — Eastern Roman continuity; Jerusalem in Byzantine piety.
+
+NON-ROME (connector pair):
+• MEM–ISLAM–PALESTINE–JERUSALEM — Islam's encoding: third holiest site, legitimacy anchor; 1099 rupture, 1187 recovery; sacred zone non-fungible. Same city, different valence (Rome = destruction/portability; Islam = violation then reanchoring). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+
+────────────────────────────────────────────────────────────
+X. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Josephus, *Jewish War* - Contemporary account of Roman siege and destruction of Jerusalem
 • Tacitus, *Histories* - Roman account of Jerusalem's destruction and Jewish-Roman relations

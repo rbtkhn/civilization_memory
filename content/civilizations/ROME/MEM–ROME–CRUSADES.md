@@ -196,7 +196,20 @@ Category D — Robert the Monk, Fulcher of Chartres, Niketas Choniates ✔
 Hierarchy preserved. No category substitution.
 
 ────────────────────────────────────────────────────────────
-VIII. MEM BIBLIOGRAPHY (MANDATORY)
+XI. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+ROME:
+• MEM–ROME–PAPACY — papal universalism that launched and could not control the Crusades.
+• MEM–ROME–WAR–FOURTH–CRUSADE — delegated violence turned against Constantinople.
+• MEM–ROME–CONSTANTINOPLE — Eastern Roman capital; Crusader diversion and 1204.
+• MEM–ROME–PALESTINE–JERUSALEM — sacred city as object of crusading ambition.
+• MEM–ROME–GEO–MEDITERRANEAN–SEA — logistical and ideological theatre.
+
+NON-ROME (connector pair):
+• MEM–ISLAM–CRUSADES — Islam's encoding: legitimacy crisis, sacred-space violation, restorative recovery; same event, opposite valence (Rome = overreach; Islam = invasion then moral victory). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+
+────────────────────────────────────────────────────────────
+XII. MEM BIBLIOGRAPHY (MANDATORY)
 ────────────────────────────────────────────────────────────
 • Eusebius, *Ecclesiastical History* - Early Christian account of Constantine and imperial Christianity
 • Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* - Analysis of crusading origins and papal authority

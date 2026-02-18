@@ -4,7 +4,7 @@ Chat backend and adapters so users can interact with the Civilizational Memory C
 
 ## Architecture
 
-- **Engine** (`src/engine.js`): Session state (entity + mode), load STATE or SCHOLAR + MEM–RELEVANCE by mode, build prompt, call OpenAI, parse response into the **canonical shape** `{ text, options, entity, mode }`. All channels consume only this shape; see [docs/RESPONSE–FORMAT.md](docs/RESPONSE–FORMAT.md).
+- **Engine** (`src/engine.js`): Session state (entity, mode, conversation history). Load STATE or SCHOLAR + MEM–RELEVANCE by mode; send last **5 turns** (10 messages) of the thread to the LLM so it can refer to prior exchange; parse response into `{ text, options, entity, mode }`. History is kept across entity and mode switches. All channels consume only this shape; see [docs/RESPONSE–FORMAT.md](docs/RESPONSE–FORMAT.md).
 - **Adapters**: Telegram bot (polling). Receives messages → engine → reply + inline keyboard (A–H). WeChat or other channels can be added as further consumers of the same output (text, voice, etc.).
 - **HTTP** (`POST /chat`): For webhooks or other clients. Body: `{ "platform": "telegram", "user_id": "123", "message": "Russia update" }`. Returns the canonical response as JSON.
 
@@ -72,6 +72,10 @@ Telegram can use a webhook instead of polling. Set `WEBHOOK_BASE_URL` and regist
 ## Next: Sessions 4–6
 
 After Session 3, run **Session 4** (entity switch + errors), **Session 5** (group @mention/reply), and **Session 6** (launch checklist). See [docs/LAUNCH–6–SESSIONS.md](docs/LAUNCH–6–SESSIONS.md).
+
+## Activity archive
+
+Each Telegram exchange (user message + bot response) is appended to an **activity log** (NDJSON: one JSON object per line). Default path: `apps/chat/logs/telegram-activity.ndjson`. Override with `TELEGRAM_ACTIVITY_LOG` in `.env`; set to empty to disable. The `logs/` directory is gitignored. Each record includes timestamp, sessionKey, chatId, userMessage, responseText, options, entity, mode.
 
 ## License / repo
 

@@ -314,7 +314,7 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–CONSTANTINOPLE — Capital dependent on Anatolian depth
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Coastal integration
 • MEM–ROME–GEO–BLACK–SEA — Northern maritime access
-• MEM–ROME–GEO–SYRIA — Southern frontier interface
+• MEM–ROME–SYRIA — Southern frontier interface
 • MEM–ROME–GEO–AEGEAN–SEA — Western maritime connection
 • MEM–ROME–GEO–CYPRUS — Eastern Mediterranean projection
 • MEM–ROME–AUGUSTUS — Provincial organization architect
@@ -327,7 +327,7 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–EGYPT — Complementary grain dependency
 
 CROSS-CIVILIZATIONAL:
-• MEM–ISLAM–UMAYYAD — Early Arab pressure
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Early Arab pressure
 • MEM–RUSSIA–CONSTANTINOPLE — Orthodox inheritance claim
 
 ────────────────────────────────────────────────────────────

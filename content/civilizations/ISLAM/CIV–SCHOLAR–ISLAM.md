@@ -263,7 +263,7 @@ Belief Status:
 
 ENTRY 0010
 Source:
-• MEM–ISLAM–DYNASTY–OTTOMAN — v1.0
+• MEM–ISLAM–OTTOMAN–EMPIRE — v1.0
 Ingest Type:
 • Dynasty Memory — Frontier-to-Imperial Custodianship
 Primary Belief Extracted:
@@ -329,7 +329,7 @@ Primary Belief Extracted:
 Belief Status:
 • UNFROZEN
 Note:
-• Complements MEM–ISLAM–DYNASTY–OTTOMAN (custodianship, pluralism); adds European integration, conversion-as-elite-making, late-Ottoman exclusivity trajectory. Tension: toleration + conversion-as-integration (dhimmi + devşirme) coexist without synthesis.
+• Complements MEM–ISLAM–OTTOMAN–EMPIRE (custodianship, pluralism); adds European integration, conversion-as-elite-making, late-Ottoman exclusivity trajectory. Tension: toleration + conversion-as-integration (dhimmi + devşirme) coexist without synthesis.
 
 ENTRY 0013
 Source:
@@ -365,7 +365,7 @@ Note:
 
 ENTRY 0015
 Source:
-• MEM–ISLAM–DYNASTY–UMAYYAD, MEM–ISLAM–DYNASTY–ABBASID, MEM–ISLAM–DYNASTY–FATIMID, MEM–ISLAM–DYNASTY–MAMLUK, MEM–ISLAM–DYNASTY–OTTOMAN; MEM–ISLAM–MONGOL–EMPIRE; MEM–ISLAM–CALIPHATE–ABOLITION; MEM–ISLAM–CONSTANTINOPLE; MEM–ISLAM–GEO–LEVANT; LEARN-mode synthesis (Damascus → Baghdad → Cairo → Istanbul)
+• MEM–ISLAM–UMAYYAD–CALIPHATE, MEM–ISLAM–DYNASTY–ABBASID, MEM–ISLAM–DYNASTY–FATIMID, MEM–ISLAM–DYNASTY–MAMLUK, MEM–ISLAM–OTTOMAN–EMPIRE; MEM–ISLAM–MONGOL–EMPIRE; MEM–ISLAM–CALIPHATE–ABOLITION; MEM–ISLAM–CONSTANTINOPLE; MEM–ISLAM–GEO–LEVANT; LEARN-mode synthesis (Damascus → Baghdad → Cairo → Istanbul)
 Ingest Type:
 • Synthesis-Derived LEARN Event — Caliphal capital succession; terminal-mode × memory-encoding comparison; Mearsheimer cognition integration
 Primary Belief Extracted:
@@ -376,6 +376,96 @@ Derivation:
 • SYNTHESIS 0006 (Damascus · Baghdad · Cairo · Istanbul — Caliphal Capital Succession); Terminal Modes × Civilizational Memory Encoding table; Mearsheimer cognition block. MEM–ISLAM–CAPITAL–SUCCESSION canonicalizes.
 Note:
 • Explicit derivation chain: dynasty MEMs + Mongol + Caliphate–Abolition + Constantinople + Levant → synthesis (four-capital sequence) → terminal-mode comparison → Mearsheimer integration → ENTRY 0015.
+
+ENTRY 0016
+Source:
+• MEM–ISLAM–CONSTANTINOPLE v1.2 + MEM–ROME–CONSTANTINOPLE v2.1 + MEM–RUSSIA–CONSTANTINOPLE v3.0 (CONNECTOR PAIR + THIRD POLE)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs and triple encoding (Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): 1453 as arrival and imperial inheritance; Istanbul as completion of the caliphal capital succession (Damascus → Baghdad → Cairo → Istanbul); Mehmed as Caesar/Caliph; legitimacy-through-conquest and custodianship. Same place, other encodings: Rome encodes as continuity terminated (vessel ended); Russia encodes as lost center (inheritance by default). Connector-pair logic (Rome/Islam) plus third pole (Russia) — no resolution of encodings; each civilization's perspective is distinct.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements SYNTHESIS 0002 (Constantinople in four registers). This ENTRY shapes the triple-encoding phenomenon to Islam's distinct perspective: arrival, imperial arc completion, custodianship; Rome and Russia as other encodings of the same city. MEM CONNECTIONS link MEM–ISLAM–CONSTANTINOPLE to MEM–ROME–CONSTANTINOPLE and MEM–RUSSIA–CONSTANTINOPLE.
+
+ENTRY 0017
+Source:
+• MEM–ISLAM–CRUSADES v1.3 + MEM–ROME–CRUSADES v1.2 (CONNECTOR PAIR)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs (Crusades, Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): The Crusades are legitimacy crisis and restorative recovery — sacred space violated (1099), fragmentation exposed, then unity and moral reframing (Saladin 1187); mercy versus massacre; occupation without legitimacy cannot endure. Connector pair: Rome encodes the same event as papal overreach, delegated violence, spiritual authority beyond capacity; opposite valence (Islam = invasion then moral victory; Rome = overreach and chastening).
+• Same referent (1095–1291, Jerusalem, Levant): Islam = legitimacy failure then consolidation; Rome = authority extended beyond capacity. MEM CONNECTIONS link MEM–ISLAM–CRUSADES and MEM–ROME–CRUSADES as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements SYNTHESIS 0003 (Crusades + Saladin encoding pair). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: legitimacy crisis, sacred violation, recovery through conduct; Rome as other encoding (overreach). Cross-reference MEM–ISLAM–PALESTINE–JERUSALEM, MEM–ISLAM–SALADIN.
+
+ENTRY 0018
+Source:
+• MEM–ISLAM–PALESTINE–JERUSALEM v1.0 + MEM–ROME–PALESTINE–JERUSALEM v1.1 (CONNECTOR PAIR)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs (Jerusalem, Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): Jerusalem (Al-Quds) as third holiest site and legitimacy anchor; Qur'anically sanctified; 1099 = ontological rupture, 1187 = recovery and reanchoring. Sacred zone non-fungible; occupation without legitimacy cannot endure. Connector pair: Rome encodes the same city as non-administerable, destruction as transmission event, sacred geography negating imperial neutrality; different valence (Islam = violation then recovery; Rome = destruction/portability).
+• MEM CONNECTIONS link MEM–ISLAM–PALESTINE–JERUSALEM and MEM–ROME–PALESTINE–JERUSALEM as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements SYNTHESIS 0003 (Crusades/Saladin; Jerusalem as moral fulcrum). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: sacred zone, rupture/recovery; Rome as other encoding (destruction, portability). Cross-reference MEM–ISLAM–CRUSADES, MEM–ISLAM–SALADIN.
+
+ENTRY 0019
+Source:
+• MEM–ISLAM–GEO–SICILY v1.0 + MEM–ROME–GEO–SICILY v2.0 (CONNECTOR PAIR)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs (Sicily, Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): Sicily as Islam's western laboratory — maritime entry (Aghlabid 827), influence without permanence, plural governance, cultural transmission; Norman conquest ends rule but not cultural residue. Connector pair: Rome encodes the same island as first imperial classroom, Punic pivot, grain and central position; different valence (Islam = entry then exit, cultural residue; Rome = acquisition and consolidation).
+• MEM CONNECTIONS link MEM–ISLAM–GEO–SICILY and MEM–ROME–GEO–SICILY as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements SYNTHESIS 0001 (frontier nodes, transmission without permanence). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: western laboratory, influence without permanence; Rome as other encoding (first imperial classroom). Cross-reference MEM–ISLAM–GEO–MEDITERRANEAN–SEA, MEM–ISLAM–CORDOBA.
+
+ENTRY 0020
+Source:
+• MEM–ISLAM–GEO–MEDITERRANEAN–SEA v2.0 + MEM–ROME–GEO–MEDITERRANEAN–SEA v2.0 (CONNECTOR PAIR)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs (Mediterranean, Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): Mediterranean as civilizational interface and conquest corridor — control sequence (Byzantine/Umayyad contested, multi-polar, Ottoman eastern lake); eastern Med = Islamic heartland littoral; Crusades theater; no single power holds full basin. Connector pair: Rome encodes the same basin as Mare Nostrum, interior space of civilization, inverted stopping power of water; different valence (Islam = interface, eastern heartland; Rome = coherence, then partition).
+• MEM CONNECTIONS link MEM–ISLAM–GEO–MEDITERRANEAN–SEA and MEM–ROME–GEO–MEDITERRANEAN–SEA as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements CONCEPT–ROME–ISLAM–DOUBLE–HELIX (control sequence for interval grounding). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: interface, conquest corridor, multi-polar; Rome as other encoding (Mare Nostrum, interior space). Cross-reference MEM–ISLAM–GEO–LEVANT, MEM–ISLAM–CRUSADES, MEM–ISLAM–CONSTANTINOPLE.
+
+ENTRY 0021
+Source:
+• MEM–ISLAM–GEO–LEVANT v1.2 + MEM–ROME–GEO–LEVANT v2.0 (CONNECTOR PAIR)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs (Levant, Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): Levant as sacred-zone corridor and legitimacy fulcrum — Jerusalem/Al-Aqsa, Gaza; violation triggers DPI escalation; sacred zones non-fungible. Connector pair: Rome encodes the same region as corridor paradox, connection without consolidation, transmission without absorption; different valence (Islam = sacred anchor; Rome = corridor that transmitted Roman power then Islamic civilization).
+• MEM CONNECTIONS link MEM–ISLAM–GEO–LEVANT and MEM–ROME–GEO–LEVANT as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements SYNTHESIS 0002, 0003 (Jerusalem, Crusades in Levant). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: sacred-zone corridor, legitimacy fulcrum; Rome as other encoding (corridor paradox). Cross-reference MEM–ISLAM–PALESTINE–JERUSALEM, MEM–ISLAM–CRUSADES.
+
+ENTRY 0022
+Source:
+• MEM–ISLAM–GEO–IBERIA v1.0 + MEM–ROME–GEO–IBERIA v2.0 (CONNECTOR PAIR)
+Ingest Type:
+• Synthesis-Derived LEARN Event — Connector pairs (Iberia, Islam perspective)
+Primary Belief Extracted:
+• **Islam's encoding** (foreground): Iberia as al-Andalus — lost territory, 711–1492, western apex then reversal; Reconquista and expulsion; 781 years of presence erased; irrecuperable loss. Connector pair: Rome encodes the same peninsula as depth without centrality, provincial success, quiet exit; different valence (Islam = reversal, expulsion; Rome = success without strategic weight).
+• MEM CONNECTIONS link MEM–ISLAM–GEO–IBERIA and MEM–ROME–GEO–IBERIA as connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+Belief Status:
+• UNFROZEN
+Note:
+• Complements SYNTHESIS 0001 (frontier nodes; Sicily = influence without permanence; Iberia = lost territory, complete reversal). This ENTRY shapes the connector-pair phenomenon to Islam's distinct perspective: al-Andalus, reversal, irrecuperable loss; Rome as other encoding (provincial success). Cross-reference MEM–ISLAM–CORDOBA, MEM–ISLAM–GEO–SICILY.
 
 ────────────────────────────────────────────────────────────
 XVII. BELIEF SYNTHESIS LOG
@@ -454,7 +544,7 @@ RLL–ISLAM–0002: Crusades + Saladin stress-test passed; legitimacy-divergence
 
 SYNTHESIS 0004 (0009–0010 + 0012 + 0014)
 Outcome:
-• MEM–ISLAM–DYNASTY–SELJUK and MEM–ISLAM–DYNASTY–OTTOMAN extend RLL–ISLAM–0001: power enters Islam through frontier nodes (steppe, Anatolia); legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law) and custodianship (caliphate, sacred zones). Frontier-to-imperial path operates through transmission logic—authority derived from conduct and service, then institutionalized. GEO frontiers (Sicily, Xinjiang, Kashmir) show Islam at edges; dynasty MEMs show power entering through peripheral nodes. Same node/transmission grammar; direction differs (inbound vs outbound). Baer (0012) enriches Ottoman encoding: Ottomans as integral to European history (not separate "East"); triple heritage (Khans/Caesars/Caliphs); pioneered religious toleration AND conversion-as-elite-making (converts staffed dynasty, military, administration); 19th C shift from inclusion → exclusivity → ethnic cleansing, genocide → collapse. Kissinger (0014) adds Ottoman–Westphalia contrast: Mehmed's "one empire, one faith, one sovereignty" vs European pluralism; Islamic world order as expansion-oriented, unitary-entity model vs equilibrium of competing sovereign parts; Ottomans aware of Europe's nascent interstate order but considering it "a source of division to be exploited for westward Ottoman expansion." MEM–ISLAM–DYNASTY–OTTOMAN emphasizes custodianship, pluralism, sacred-zone protection; Baer adds European integration, conversion mechanics, late-Ottoman exclusivity trajectory; Kissinger adds world-order / Westphalian interface—structural incompatibility as external encoding. Complementary encodings; Baer supplies reception and terminal-phase; Kissinger supplies civilization-contrast (realist/statecraft lens).
+• MEM–ISLAM–DYNASTY–SELJUK and MEM–ISLAM–OTTOMAN–EMPIRE extend RLL–ISLAM–0001: power enters Islam through frontier nodes (steppe, Anatolia); legitimacy remains Islamic; dual structure (Turkic force + Arab–Persian law) and custodianship (caliphate, sacred zones). Frontier-to-imperial path operates through transmission logic—authority derived from conduct and service, then institutionalized. GEO frontiers (Sicily, Xinjiang, Kashmir) show Islam at edges; dynasty MEMs show power entering through peripheral nodes. Same node/transmission grammar; direction differs (inbound vs outbound). Baer (0012) enriches Ottoman encoding: Ottomans as integral to European history (not separate "East"); triple heritage (Khans/Caesars/Caliphs); pioneered religious toleration AND conversion-as-elite-making (converts staffed dynasty, military, administration); 19th C shift from inclusion → exclusivity → ethnic cleansing, genocide → collapse. Kissinger (0014) adds Ottoman–Westphalia contrast: Mehmed's "one empire, one faith, one sovereignty" vs European pluralism; Islamic world order as expansion-oriented, unitary-entity model vs equilibrium of competing sovereign parts; Ottomans aware of Europe's nascent interstate order but considering it "a source of division to be exploited for westward Ottoman expansion." MEM–ISLAM–OTTOMAN–EMPIRE emphasizes custodianship, pluralism, sacred-zone protection; Baer adds European integration, conversion mechanics, late-Ottoman exclusivity trajectory; Kissinger adds world-order / Westphalian interface—structural incompatibility as external encoding. Complementary encodings; Baer supplies reception and terminal-phase; Kissinger supplies civilization-contrast (realist/statecraft lens).
 Status:
 • UNFROZEN
 
@@ -471,7 +561,7 @@ Tensions Preserved:
 • Kissinger vs MEM/Baer: Kissinger encodes Ottoman–Islamic order as structurally incompatible with Westphalian equilibrium; MEM and Baer encode Ottoman custodianship and European integration. Tension: unitary expansion vs plural custodianship—Kissinger's external statecraft lens; MEM/Baer internal and receptional.
 • Kissinger (0014): CHAIN–0014–KISSINGER; see ENTRY 0014. Cross-reference: SYNTHESIS 0002, 0005.
 
-RLL–ISLAM–0001: Seljuk + Ottoman stress-test passed; dynasty frontier pattern extends scope beyond GEO MEMs. Baer (0012) IMPLEMENTED in ARC. Kissinger (0014) IMPLEMENTED in ARC; supplies civilization-contrast for MEM–ISLAM–DYNASTY–OTTOMAN, MEM–ISLAM–CALIPHATE–ABOLITION, world-order MEMs.
+RLL–ISLAM–0001: Seljuk + Ottoman stress-test passed; dynasty frontier pattern extends scope beyond GEO MEMs. Baer (0012) IMPLEMENTED in ARC. Kissinger (0014) IMPLEMENTED in ARC; supplies civilization-contrast for MEM–ISLAM–OTTOMAN–EMPIRE, MEM–ISLAM–CALIPHATE–ABOLITION, world-order MEMs.
 
 SYNTHESIS 0005 (Gibbon + Lewis + Phillips + Kissinger + Keegan — External Encodings of Islamic World Order / Civilizational Interface)
 Outcome:
@@ -495,7 +585,7 @@ Tensions Preserved:
 RLL–ISLAM–0003: Five-pole civilization-contrast pool (Gibbon, Lewis, Phillips, Kissinger, Keegan) available for MEM authoring. Applicability: Gibbon (conquest, Sicily, Crusades, Constantinople); Lewis (jihad, Saladin, Crusades, dynasties); Phillips (Saladin, reception, mercy); Kissinger (world-order, caliphate, Westphalian interface, Ottoman); Keegan (war, command, battle, Crusades, military interface—repository corpus, not ARC–ISLAM).
 
 SYNTHESIS 0006 (Damascus · Baghdad · Cairo · Istanbul — Caliphal Capital Succession)
-Derivation: MEM–ISLAM–DYNASTY–UMAYYAD, MEM–ISLAM–DYNASTY–ABBASID, MEM–ISLAM–DYNASTY–FATIMID, MEM–ISLAM–DYNASTY–MAMLUK, MEM–ISLAM–DYNASTY–OTTOMAN; MEM–ISLAM–MONGOL–EMPIRE; MEM–ISLAM–CALIPHATE–ABOLITION; MEM–ISLAM–CONSTANTINOPLE; MEM–ISLAM–GEO–LEVANT.
+Derivation: MEM–ISLAM–UMAYYAD–CALIPHATE, MEM–ISLAM–DYNASTY–ABBASID, MEM–ISLAM–DYNASTY–FATIMID, MEM–ISLAM–DYNASTY–MAMLUK, MEM–ISLAM–OTTOMAN–EMPIRE; MEM–ISLAM–MONGOL–EMPIRE; MEM–ISLAM–CALIPHATE–ABOLITION; MEM–ISLAM–CONSTANTINOPLE; MEM–ISLAM–GEO–LEVANT.
 
 Outcome:
 • Damascus (661–750): first imperial caliphal capital; Umayyad shift from Medina; legitimacy as stability over consensus; scale before theology; fall by political overthrow (Abbasid revolution).
@@ -529,6 +619,126 @@ Structural logic: Overthrow and transfer preserve the institution (relocation); 
 **Mearsheimer cognition (integrated):** Capital succession tracks power-distribution logic. Damascus: Levantine crossroads for conquest projection; fall when Abbasid base (east) outweighs Umayyad base (Syria). Baghdad: Mesopotamia concentrates wealth; fall when external force (Mongols) achieves decisive superiority—no internal balance could have prevented it. Cairo: Nile chokepoint + sacred-zone defense; fall when Ottoman control of Bosphorus and Anatolia enables projection into Mamluk core—structural advantage shifts. Istanbul: Bosphorus chokepoint; fall by decree, not conquest—material defeat (WWI) precedes institutional abolition; Kemalist state eliminates caliphate as liability to sovereign consolidation. The fact is that each terminal mode reflects the structural configuration at the moment of change: internal revolution (balance shift), external conquest (force ratio), institutional absorption (consolidation), or successor-state elimination (sovereignty project).
 
 Cross-reference: SYNTHESIS 0002 (Constantinople encoding); SYNTHESIS 0004 (Ottoman); MEM–ISLAM–CALIPHATE–ABOLITION; MEM–ISLAM–CAPITAL–SUCCESSION.
+
+SYNTHESIS 0007 (Connector Pairs and Triple Encoding — Constantinople, Islam perspective)
+Derivation: MEM–ISLAM–CONSTANTINOPLE, MEM–ROME–CONSTANTINOPLE, MEM–RUSSIA–CONSTANTINOPLE; ENTRY 0016.
+
+Outcome:
+• **Islam's encoding foregrounded:** 1453 as arrival and imperial absorption; Istanbul completes the caliphal capital succession; Mehmed as Caesar/Caliph; legitimacy-through-conquest; custodianship and European-integrated imperial identity (Baer). Same place encoded three ways: Rome encodes continuity-through-relocation terminated in 1453; Russia encodes lost center and inheritance by default (Third Rome). Connector pair (Rome/Islam) has opposite valence (termination vs arrival); Russia adds a third pole claiming legitimacy without possession. No synthesis resolves the three; each civilization's perspective is distinct. MEM CONNECTIONS now link the three Constantinople MEMs as same-subject encodings.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = vessel ended; Islam = arrival and completion; Russia = origin taken, not given up; inheritance migrates without armies.
+• Sequencing: Islam — conquest precedes legitimacy; Rome — continuity precedes fall; Russia — loss precedes inheritance.
+• Boundary: Connector-pair logic (Rome/Islam) extended by third pole (Russia); divergence expected; citation enriches without resolving.
+
+Tensions Preserved:
+• Islam: arrival vs. Rome's termination — same event, opposite valence.
+• Russia: inheritance by default vs. Islam's possession — same city, different claim (symbolic vs territorial).
+• Cross-reference: SYNTHESIS 0002 (four registers + Gibbon); ENTRY 0016.
+
+SYNTHESIS 0008 (Connector Pairs — Crusades, Islam perspective)
+Derivation: MEM–ISLAM–CRUSADES, MEM–ROME–CRUSADES; ENTRY 0017.
+
+Outcome:
+• **Islam's encoding foregrounded:** The Crusades as legitimacy crisis (1099 sacred-space violation, fragmentation exposed) and restorative recovery (unity before victory, moral reframing, Saladin 1187 — mercy versus massacre; occupation without legitimacy cannot endure). Same event encoded two ways: Rome encodes papal overreach, delegated violence, spiritual authority beyond capacity, chastening. Connector pair (Rome/Islam) has opposite valence; no synthesis resolves. MEM CONNECTIONS link the two Crusades MEMs as same-subject encodings per CONCEPT IV-A.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = authority extended beyond capacity; spiritual authority degrades when militarized. Islam = fragmentation invited invasion; unity and conduct required for recovery.
+• Sequencing: Rome — papal mobilization → delegated violence → control failure → chastening. Islam — violation → exposure → consolidation → moral victory (Saladin).
+• Boundary: Connector-pair logic; divergence expected; each civ's perspective distinct.
+
+Tensions Preserved:
+• Islam: legitimacy crisis then recovery vs. Rome's overreach and chastening — same event, opposite valence.
+• Cross-reference: SYNTHESIS 0003 (Crusades + Saladin); ENTRY 0017; MEM–ISLAM–PALESTINE–JERUSALEM, MEM–ISLAM–SALADIN.
+
+SYNTHESIS 0009 (Connector Pairs — Jerusalem, Islam perspective)
+Derivation: MEM–ISLAM–PALESTINE–JERUSALEM, MEM–ROME–PALESTINE–JERUSALEM; ENTRY 0018.
+
+Outcome:
+• **Islam's encoding foregrounded:** Jerusalem (Al-Quds) as third holiest site and legitimacy anchor; 1099 = ontological rupture, 1187 = recovery; sacred zone non-fungible; mercy amplifies victory. Same city encoded two ways: Rome encodes non-administerable, destruction as transmission (70 AD), sacred geography negating imperial neutrality. Connector pair (Rome/Islam) has different valence; no synthesis resolves. MEM CONNECTIONS link the two Jerusalem MEMs as same-subject encodings per CONCEPT IV-A.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = control of streets does not equal control of meaning; destruction multiplies influence. Islam = sacred loss exposes legitimacy failure; occupation without legitimacy cannot endure.
+• Sequencing: Rome — occupation → revolt → destruction → transmission (portability). Islam — sanctification → 1099 rupture → 1187 recovery → reanchoring.
+• Boundary: Connector-pair logic; divergence expected; each civ's perspective distinct.
+
+Tensions Preserved:
+• Islam: third holiest site, rupture/recovery vs. Rome's destruction/portability — same city, different valence.
+• Cross-reference: SYNTHESIS 0003 (Jerusalem as Crusades moral fulcrum); ENTRY 0018; MEM–ISLAM–CRUSADES, MEM–ISLAM–SALADIN.
+
+SYNTHESIS 0010 (Connector Pairs — Sicily, Islam perspective)
+Derivation: MEM–ISLAM–GEO–SICILY, MEM–ROME–GEO–SICILY; ENTRY 0019.
+
+Outcome:
+• **Islam's encoding foregrounded:** Sicily as western laboratory — maritime entry, plural governance, cultural transmission; influence without permanence; Norman loss but cultural residue. Same island encoded two ways: Rome encodes first imperial classroom, Punic pivot, grain, central position. Connector pair (Rome/Islam) has different valence; no synthesis resolves. MEM CONNECTIONS link the two Sicily MEMs as same-subject encodings per CONCEPT IV-A.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = control need not equal assimilation; later Aghlabid then Norman. Islam = political exit, cultural persistence; transmission node.
+• Sequencing: Rome — Punic acquisition → consolidation → grain pivot. Islam — Aghlabid entry (827) → flourishing → Norman conquest (1061–1091) → cultural residue.
+• Boundary: Connector-pair logic; divergence expected; each civ's perspective distinct.
+
+Tensions Preserved:
+• Islam: influence without permanence vs. Rome's first imperial classroom — same island, different valence.
+• Cross-reference: SYNTHESIS 0001 (frontier nodes); ENTRY 0019; MEM–ISLAM–GEO–MEDITERRANEAN–SEA.
+
+SYNTHESIS 0011 (Connector Pairs — Mediterranean, Islam perspective)
+Derivation: MEM–ISLAM–GEO–MEDITERRANEAN–SEA, MEM–ROME–GEO–MEDITERRANEAN–SEA; ENTRY 0020.
+
+Outcome:
+• **Islam's encoding foregrounded:** Mediterranean as civilizational interface and conquest corridor; control sequence (Byzantine/Umayyad contested, multi-polar, Ottoman eastern lake); eastern Med = Islamic heartland littoral; no single power holds full basin. Same basin encoded two ways: Rome encodes Mare Nostrum, interior space, inverted stopping power; Islamic partition permanent. Connector pair (Rome/Islam) has different valence; no synthesis resolves. MEM CONNECTIONS link the two Mediterranean MEMs as same-subject encodings per CONCEPT IV-A.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = loss of Mediterranean = cease to be Mediterranean Rome; fragmentation mirrors fracture. Islam = multi-polar; eastern heartland, western contested/lost.
+• Sequencing: Rome — Mare Nostrum → partition (Islam) → no restoration. Islam — Umayyad expansion → contested → Crusades theater → Ottoman eastern lake → European/US hegemony.
+• Boundary: Connector-pair logic; control sequence used for double-helix interval grounding (CONCEPT IX). Each civ's perspective distinct.
+
+Tensions Preserved:
+• Islam: interface, eastern heartland vs. Rome's interior space, coherence — same basin, different valence.
+• Cross-reference: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section IX (control sequence); ENTRY 0020; MEM–ISLAM–GEO–LEVANT, MEM–ISLAM–CRUSADES.
+
+SYNTHESIS 0012 (Connector Pairs — Levant, Islam perspective)
+Derivation: MEM–ISLAM–GEO–LEVANT, MEM–ROME–GEO–LEVANT; ENTRY 0021.
+
+Outcome:
+• **Islam's encoding foregrounded:** Levant as sacred-zone corridor and legitimacy fulcrum; Jerusalem/Al-Aqsa, Gaza; violation triggers DPI escalation; sacred zones non-fungible. Same region encoded two ways: Rome encodes corridor paradox, connection without consolidation, transmission without absorption; Islamic absorption permanent (RLL–0006). Connector pair (Rome/Islam) has different valence; no synthesis resolves. MEM CONNECTIONS link the two Levant MEMs as same-subject encodings per CONCEPT IV-A.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = corridor transmits then absorbs absorber; sacred law outcompetes procedural in hinge zones. Islam = sacred-zone defense non-negotiable; Dignity Supremacy overrides.
+• Sequencing: Rome — provincial corridor → theological fracture → Islamic absorption (7th c.). Islam — Umayyad Damascus → Crusades theater → Jerusalem 1099/1187 → Ottoman custody.
+• Boundary: Connector-pair logic; each civ's perspective distinct.
+
+Tensions Preserved:
+• Islam: sacred-zone corridor, legitimacy fulcrum vs. Rome's corridor paradox — same region, different valence.
+• Cross-reference: SYNTHESIS 0002, 0003 (Jerusalem, Crusades); ENTRY 0021; MEM–ISLAM–PALESTINE–JERUSALEM, MEM–ISLAM–CRUSADES.
+
+SYNTHESIS 0013 (Connector Pairs — Iberia, Islam perspective)
+Derivation: MEM–ISLAM–GEO–IBERIA, MEM–ROME–GEO–IBERIA; ENTRY 0022.
+
+Outcome:
+• **Islam's encoding foregrounded:** Iberia as al-Andalus — lost territory (711–1492), western apex then reversal; Reconquista complete (1492 Granada); expulsion; 781 years erased; irrecuperable loss. Same peninsula encoded two ways: Rome encodes depth without centrality, success without strategic weight, provincial proof-of-concept, quiet exit. Connector pair (Rome/Islam) has different valence; no synthesis resolves. MEM CONNECTIONS link the two Iberia MEMs as same-subject encodings per CONCEPT IV-A.
+Status:
+• UNFROZEN
+
+Constraint-Oriented Frame:
+• Failure pattern: Rome = peripheral success, exit grace; cultural absorption outlasts political control. Islam = terminal geography; Gibraltar as single reinforcement route; loss structural when Christian recovery from north + Maghreb weakens.
+• Sequencing: Rome — conquest (218–19 BC) → Romanization → quiet exit (5th c.). Islam — 711 entry → Cordoba caliphate → Taifa fragmentation → Reconquista → 1492 Granada → expulsion.
+• Boundary: Connector-pair logic; each civ's perspective distinct.
+
+Tensions Preserved:
+• Islam: lost territory, reversal vs. Rome's success without centrality — same peninsula, different valence.
+• Cross-reference: SYNTHESIS 0001 (frontier nodes); ENTRY 0022; MEM–ISLAM–CORDOBA, MEM–ISLAM–GEO–SICILY.
 
 ────────────────────────────────────────────────────────────
 XVIII. DOCTRINE REGISTRY
@@ -618,7 +828,7 @@ ARC–DISCOVERY PROPOSAL 0001 — Baer & Phillips (Ottoman, Saladin)
 • Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021)
 
 **Justification:**
-Ottoman historiography; Ottomans as European-integrated; triple heritage (Khans/Caesars/Caliphs); conversion-as-elite-making; 19th C exclusivity → genocide → collapse. MEM–ISLAM–DYNASTY–OTTOMAN would gain: European integration thesis, late-Ottoman trajectory, conversion mechanics. ENTRY 0012; SYNTHESIS 0004.
+Ottoman historiography; Ottomans as European-integrated; triple heritage (Khans/Caesars/Caliphs); conversion-as-elite-making; 19th C exclusivity → genocide → collapse. MEM–ISLAM–OTTOMAN–EMPIRE would gain: European integration thesis, late-Ottoman trajectory, conversion mechanics. ENTRY 0012; SYNTHESIS 0004.
 
 **Source 2:**
 • Jonathan Phillips, *The Life and Legend of the Sultan Saladin* (Yale University Press, 2019)

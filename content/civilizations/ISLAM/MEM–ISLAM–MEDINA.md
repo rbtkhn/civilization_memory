@@ -116,10 +116,10 @@ VI. MEM CONNECTIONS
 Dependency:
 • MEM–ISLAM–MOHAMMAD — Hijra; Constitution of Medina; state formation
 • MEM–ISLAM–DYNASTY–RASHIDUN — Medina as first caliphal seat
-• MEM–ISLAM–DYNASTY–UMAYYAD — Capital shift to Damascus
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Capital shift to Damascus
 • MEM–ISLAM–MECCA — Hijaz dual anchor
 • MEM–ISLAM–DYNASTY–MAMLUK — Protection of holy cities
-• MEM–ISLAM–DYNASTY–OTTOMAN — Custodianship
+• MEM–ISLAM–OTTOMAN–EMPIRE — Custodianship
 • MEM–ISLAM–CALIPHATE–ABOLITION — Sacred custodianship stateless
 
 Breaks if removed:

@@ -193,9 +193,9 @@ VIII. GEO STRUCTURED DATA (LAYER 2)
 IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Dependency:
-• MEM–ISLAM–DYNASTY–UMAYYAD — Gulf littoral under early caliphate
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Gulf littoral under early caliphate
 • MEM–ISLAM–DYNASTY–ABBASID — Basra, Gulf–Mesopotamia linkage
-• MEM–ISLAM–DYNASTY–OTTOMAN — Ottoman–Safavid contest; Basra
+• MEM–ISLAM–OTTOMAN–EMPIRE — Ottoman–Safavid contest; Basra
 • MEM–ISLAM–DYNASTY–SAFAVID — Persian shore; Hormuz
 • MEM–ISLAM–SHIA — Bahrain, Eastern Province, Basra demography
 

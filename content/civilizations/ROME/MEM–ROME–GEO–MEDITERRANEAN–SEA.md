@@ -323,8 +323,9 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–RED–SEA — Eastern trade extension
 
 CROSS-CIVILIZATIONAL:
-• MEM–ISLAM–UMAYYAD — Conquest of southern littoral
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Conquest of southern littoral
 • MEM–RUSSIA–BLACK–SEA — Russian Mediterranean ambitions
+• MEM–ISLAM–GEO–MEDITERRANEAN–SEA — Islam's encoding: civilizational interface, conquest corridor, control sequence (Byzantine/Umayyad contested, multi-polar, Ottoman eastern lake); same basin, different valence (Rome = Mare Nostrum, interior space; Islam = interface, eastern heartland littoral). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 ────────────────────────────────────────────────────────────
 IX. CONTINUITY INSIGHTS (RAW)

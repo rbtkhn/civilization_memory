@@ -159,7 +159,7 @@ VIII. MEM CONNECTIONS
 Dependency:
 • MEM–ISLAM–GEO–XINJIANG — Eastern terminus; oasis logic; flow-space
 • MEM–ISLAM–DYNASTY–ABBASID — Baghdad, Merv, Nishapur as nodes
-• MEM–ISLAM–DYNASTY–UMAYYAD — Early Central Asian expansion
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Early Central Asian expansion
 • MEM–ISLAM–MONGOL–EMPIRE — Disruption and absorption
 • MEM–ISLAM–GEO–INDIAN–OCEAN — Maritime parallel; trader-and-preacher
 

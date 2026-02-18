@@ -112,7 +112,7 @@ VI. MEM CONNECTIONS
 Dependency:
 • MEM–ISLAM–MOHAMMAD — Revelation; pre-Islamic Mecca; conquest (630)
 • MEM–ISLAM–DYNASTY–MAMLUK — Protection of Mecca and Medina
-• MEM–ISLAM–DYNASTY–OTTOMAN — Custodianship; 1517–1924
+• MEM–ISLAM–OTTOMAN–EMPIRE — Custodianship; 1517–1924
 • MEM–ISLAM–CALIPHATE–ABOLITION — Sacred custodianship becomes stateless
 • MEM–ISLAM–GEO–INDIAN–OCEAN — Pilgrimage from East Africa, India, Southeast Asia
 • MEM–ISLAM–SALADIN — Lewis: Hijaz violation triggered counter-crusade

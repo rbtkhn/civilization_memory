@@ -1555,8 +1555,44 @@ Before accepting any SYNTHESIS as doctrine:
 - [ ] Confidence tier declared in status block
 - [ ] All grounding MEMs identified
 - [ ] Synthesis Linkage added to grounding MEMs (Layer 3)
+- [ ] If connector-pair or same-subject synthesis in multiple SCHOLARs: text in each CIV–SCHOLAR–[CIV] foregrounds that civ's encoding (Section XIV.F)
 
 SYNTHESIS failing checklist cannot be accepted as doctrine.
+
+────────────────────────────────────────────────────────────
+XIV.F CONNECTOR-PAIR AND SAME-SUBJECT SYNTHESIS SHAPING (MANDATORY)
+────────────────────────────────────────────────────────────
+When a synthesis concerns a **connector pair** (same subject in two
+civilizations' MEMs; see CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section IV-A)
+or **same-subject encodings** across three or more civilizations (e.g.
+Constantinople in Rome, Islam, Russia), the synthesis MUST be **shaped
+to each civilization's distinct perspective** when recorded in that
+civilization's SCHOLAR file.
+
+**Rule:** When the same synthesis is recorded in more than one
+CIV–SCHOLAR–[CIV], the text in each file MUST foreground that **host
+civilization's encoding** and present the other civilization(s) as
+complementary encodings of the same referent. Do not use a single
+neutral formulation across all SCHOLAR files.
+
+**Examples:**
+- In CIV–SCHOLAR–ROME: lead with Rome's encoding (e.g. continuity
+  through relocation terminated; 1453 as end of vessel); Islam and
+  Russia as other encodings (arrival; lost center / inheritance by
+  default).
+- In CIV–SCHOLAR–ISLAM: lead with Islam's encoding (e.g. 1453 as
+  arrival and imperial absorption; Istanbul as completion of caliphal
+  arc); Rome and Russia as other encodings.
+- In CIV–SCHOLAR–RUSSIA: lead with Russia's encoding (e.g. lost
+  center; origin taken not given up; inheritance by default); Rome and
+  Islam as other encodings.
+
+**Scope:** Applies when adding ENTRY, synthesis candidate, or pattern
+note to multiple SCHOLAR files about the same connector pair or
+same-subject node. Single-civilization syntheses are unchanged.
+
+Reference: CONCEPT–ROME–ISLAM–DOUBLE–HELIX Section X; .cursor/rules/
+cmc-scholar-connector-perspective.mdc.
 
 v2.10 ADDITIONS:
 • Synthesis Tradecraft Requirements (Section XIV) — MANDATORY

@@ -44,7 +44,7 @@ VII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: ~41N–47N; 28E–42E; ~436,000 km². TERRAIN: Maritime; enclosed. CHOKEPOINT: Yes—Bosphorus (single exit). KEY_FEATURES: Bosphorus; Crimea; Caucasus coast; Danube delta.
 
 VIII. MEM CONNECTIONS
-MEM–ISLAM–CONSTANTINOPLE; MEM–ISLAM–DYNASTY–OTTOMAN; MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–CONSTANTINOPLE. Cross-civilization: MEM–RUSSIA–* (Crimea, warm-water ports).
+MEM–ISLAM–CONSTANTINOPLE; MEM–ISLAM–OTTOMAN–EMPIRE; MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–CONSTANTINOPLE. Cross-civilization: MEM–RUSSIA–* (Crimea, warm-water ports).
 
 IX. CONTINUITY INSIGHTS
 Bosphorus = single choke; controls entire basin. Ottoman lake gave way to Russian encroachment. Istanbul's strategic value is Bosphorus command.

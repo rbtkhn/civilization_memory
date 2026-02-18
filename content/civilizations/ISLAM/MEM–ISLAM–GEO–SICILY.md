@@ -125,5 +125,12 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+IX. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Same-civilization (ISLAM): MEM–ISLAM–DYNASTY–AGHLABID (or MEM–ISLAM–AGHLABID); MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–GEO–LEVANT; MEM–ISLAM–CORDOBA (Andalusian parallel). Breaks if removed: CIV–CORE–ISLAM frontier-node logic.
+
+Cross-civilization (connector pair): MEM–ROME–GEO–SICILY — Rome's encoding: first imperial classroom, Punic pivot, grain and central position; control need not equal assimilation; same island, different valence (Islam = western laboratory, influence without permanence, Norman loss, cultural residue). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+
+────────────────────────────────────────────────────────────
 END OF FILE — MEM–ISLAM–GEO–SICILY — v1.0
 ────────────────────────────────────────────────────────────

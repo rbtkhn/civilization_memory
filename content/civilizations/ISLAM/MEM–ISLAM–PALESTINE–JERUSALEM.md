@@ -1,4 +1,4 @@
-MEM–ISLAM–JERUSALEM — v1.0
+MEM–ISLAM–PALESTINE–JERUSALEM — v1.0
 Civilizational Memory Codex · Memory File
 ACTIVE · DRAFT
 
@@ -28,7 +28,8 @@ ECONOMIC: Religious; Symbolic; Pilgrimage. Legitimacy anchor.
 CONTROL HISTORY: Umayyad/Abbasid 638-1099; Crusader 1099-1187; Ayyubid-Mamluk-Ottoman 1187-1917; Contested 1948-Present.
 
 V. MEM CONNECTIONS
-MEM–ISLAM–CRUSADES; MEM–ISLAM–SALADIN; MEM–ISLAM–WAR–THIRD–CRUSADE; MEM–ISLAM–GEO–LEVANT; MEM–ISLAM–DYNASTY–OTTOMAN; MEM–ISLAM–DYNASTY–AYYUBID. Breaks if removed: CIV–CORE–ISLAM § IV.
+Same-civilization (ISLAM): MEM–ISLAM–CRUSADES; MEM–ISLAM–SALADIN; MEM–ISLAM–WAR–THIRD–CRUSADE; MEM–ISLAM–GEO–LEVANT; MEM–ISLAM–OTTOMAN–EMPIRE; MEM–ISLAM–DYNASTY–AYYUBID. Breaks if removed: CIV–CORE–ISLAM § IV.
+Cross-civilization (connector pair): MEM–ROME–PALESTINE–JERUSALEM — Rome's encoding: city as non-administerable, destruction as transmission event, sacred geography negates imperial neutrality; same city, different valence (Islam = third holiest site, 1099 rupture / 1187 recovery). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 VI. CONTINUITY INSIGHTS
 Sacred zones NON-FUNGIBLE. Occupation without legitimacy cannot endure. Mercy amplifies victory.
@@ -36,4 +37,4 @@ Sacred zones NON-FUNGIBLE. Occupation without legitimacy cannot endure. Mercy am
 VII. MEM BIBLIOGRAPHY
 Cited: Qur'an 17:1; Bernard Lewis, The Crisis of Islam; Jonathan Phillips, The Life and Legend of the Sultan Saladin. Unused: Carole Hillenbrand.
 
-END OF FILE — MEM–ISLAM–JERUSALEM — v1.0
+END OF FILE — MEM–ISLAM–PALESTINE–JERUSALEM — v1.0

@@ -199,9 +199,9 @@ IX. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Dependency:
 • MEM–ISLAM–GEO–PERSIAN–GULF — Gulf as Indian Ocean arm; Hormuz
-• MEM–ISLAM–DYNASTY–UMAYYAD — Early Arabian littoral expansion
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Early Arabian littoral expansion
 • MEM–ISLAM–DYNASTY–ABBASID — Basra, Gulf–Indian Ocean linkage
-• MEM–ISLAM–DYNASTY–OTTOMAN — Red Sea, Yemen, East African claims
+• MEM–ISLAM–OTTOMAN–EMPIRE — Red Sea, Yemen, East African claims
 • MEM–ISLAM–GEO–SICILY — Maritime Islam pattern (transmission, not conquest)
 
 Breaks if removed:

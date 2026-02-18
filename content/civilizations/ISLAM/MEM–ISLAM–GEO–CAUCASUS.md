@@ -43,7 +43,7 @@ VIII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: ~41N–44N; 40E–50E; ~1,200 km. TERRAIN: Mountain barrier; passes; coastal strips. CHOKEPOINT: Passes (Daryal, Mamison, Roki); coastal corridors. KEY_FEATURES: North Caucasus (Dagestan, Chechnya); South Caucasus (Azerbaijan); Daryal Pass; Baku.
 
 IX. MEM CONNECTIONS
-MEM–ISLAM–GEO–BLACK–SEA; MEM–ISLAM–GEO–CASPIAN–SEA; MEM–ISLAM–DYNASTY–OTTOMAN; MEM–ISLAM–DYNASTY–SAFAVID; MEM–ISLAM–DYNASTY–ABBASID. Cross-civilization: MEM–RUSSIA–GEO–CAUCASUS (Russia lens); MEM–PERSIA–ARMENIA. Breaks if removed: Islam's northern frontier encoding; Islam–Russia interface.
+MEM–ISLAM–GEO–BLACK–SEA; MEM–ISLAM–GEO–CASPIAN–SEA; MEM–ISLAM–OTTOMAN–EMPIRE; MEM–ISLAM–DYNASTY–SAFAVID; MEM–ISLAM–DYNASTY–ABBASID. Cross-civilization: MEM–RUSSIA–GEO–CAUCASUS (Russia lens); MEM–PERSIA–ARMENIA. Breaks if removed: Islam's northern frontier encoding; Islam–Russia interface.
 
 X. CONTINUITY INSIGHTS
 Caucasus = northern frontier; never under unified Islamic control. Ottoman–Safavid contest; Russian conquest; Muslim populations under Russian hegemony. Grievance anchor (Chechnya, occupation).

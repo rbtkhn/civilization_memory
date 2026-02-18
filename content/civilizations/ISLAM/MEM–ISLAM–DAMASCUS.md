@@ -24,7 +24,7 @@ For Islam, Damascus represents legitimacy as stability over consensus;
 scale before theology. It falls by political overthrow, not conquest—
 encoding **continuity-through-transition**.
 
-Grounds: CIV–SCHOLAR–ISLAM SYNTHESIS 0006; MEM–ISLAM–DYNASTY–UMAYYAD.
+Grounds: CIV–SCHOLAR–ISLAM SYNTHESIS 0006; MEM–ISLAM–UMAYYAD–CALIPHATE.
 
 Contradictions are preserved without synthesis.
 
@@ -87,8 +87,10 @@ SUBSECTION: CONTROL HISTORY
 ────────────────────────────────────────────────────────────
 V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
+Cross-civilization (connector pair): MEM–ROME–SYRIA — Rome's encoding: region, eastern lung, loss to Arab conquest; same space, different granularity (city vs region). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-B.
+
 Dependency:
-• MEM–ISLAM–DYNASTY–UMAYYAD — Damascus as first caliphal capital
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Damascus as first caliphal capital
 • MEM–ISLAM–DYNASTY–ABBASID — Overthrow; capital shift to Baghdad
 • MEM–ISLAM–GEO–LEVANT — Damascus as key Levant city; Cairo–Damascus axis
 • MEM–ISLAM–DYNASTY–MAMLUK — Cairo–Damascus axis; sacred-zone defense

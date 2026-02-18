@@ -1,4 +1,4 @@
-MEM–ISLAM–DYNASTY–UMAYYAD — v1.1
+MEM–ISLAM–UMAYYAD–CALIPHATE — v1.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -13,7 +13,7 @@ Word Count: ~2,000
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
 ────────────────────────────────────────────────────────────
-This file preserves the Umayyad dynasty as **Islam’s first imperial
+This file preserves the Umayyad dynasty as **Islam's first imperial
 translation**: the regime that converted prophetic community and
 Rashidun precedent into a territorially continuous, administratively
 coherent empire spanning three continents.
@@ -30,7 +30,7 @@ The Umayyads emerge from Qurayshi aristocracy amid civil war.
 
 Key transitions:
 • End of Rashidun elective precedent
-• Consolidation under Mu‘awiya I
+• Consolidation under Mu'awiya I
 • Capital shift to Damascus
 • Hereditary succession normalized
 
@@ -40,7 +40,7 @@ Order is prioritized over unanimity.
 ────────────────────────────────────────────────────────────
 III. IMPERIAL APEX & TERRITORIAL LOGIC
 ────────────────────────────────────────────────────────────
-The Umayyads preside over Islam’s fastest expansion.
+The Umayyads preside over Islam's fastest expansion.
 
 Characteristics:
 • Iberia to Central Asia
@@ -72,7 +72,7 @@ Structural tensions accumulate.
 
 Sources of strain:
 • Arab privilege over converts
-• Shi‘a moral opposition
+• Shi'a moral opposition
 • Kharijite rebellion
 • Perception of dynastic secularization
 
@@ -99,13 +99,18 @@ VII. CONTINUITY INSIGHTS (RAW)
 ────────────────────────────────────────────────────────────
 • Imperial scale can precede institutional legitimacy.
 • Stability can substitute for consensus—but only temporarily.
-• Islam’s first empire exposes succession as unresolved doctrine.
+• Islam's first empire exposes succession as unresolved doctrine.
 • Administrative success does not guarantee moral authority.
 
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-VIII. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+VIII. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Cross-civilization (connector pair): MEM–ROME–WAR–UMAYYAD–CALIPHATE, MEM–ROME–WAR–ARAB–CONQUEST — Same subject: Umayyad expansion; Rome encoding: war, territorial loss; Islam encoding: first imperial translation, Damascus. Naming aligned (both CALIPHATE; Rome adds WAR–). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A / IV-B.
+
+────────────────────────────────────────────────────────────
+IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 
 Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC–ISLAM–T–MODERN):
@@ -117,5 +122,5 @@ Bernard Lewis, "The Shi'a," *The New York Review of Books* (15 August 1985) (ARC
 "In time, those who accepted the legitimacy of the early caliphs came to be known as Sunni, from 'sunna,' an Arabic word meaning usage or custom... Those opponents who followed Ali and his descendants came to be known by another Arabic word, Shi'a, meaning party or following."
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–UMAYYAD — v1.1
+END OF FILE — MEM–ISLAM–UMAYYAD–CALIPHATE — v1.1
 ────────────────────────────────────────────────────────────

@@ -360,7 +360,7 @@ Cross-Civilizational:
   Breaks if removed: "Holy Roman Empire" title becomes meaningless;
   legitimacy claims lose classical anchor.
 
-• MEM–ISLAM–OTTOMAN
+• MEM–ISLAM–OTTOMAN–EMPIRE
   Dependency: Eastern pressure—Ottoman sieges of Vienna (1529, 1683)
   tested imperial defensive capacity; Habsburg imperial role = Christendom
   defense.

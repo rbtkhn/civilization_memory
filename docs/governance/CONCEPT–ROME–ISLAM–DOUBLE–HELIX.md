@@ -169,11 +169,24 @@ at that node: Roman and Islamic perspectives on the same referent.
 |----------------|----------------------------------|-----------------------------------|
 | Constantinople | MEM–ROME–CONSTANTINOPLE          | MEM–ISLAM–CONSTANTINOPLE          |
 | Crusades       | MEM–ROME–CRUSADES               | MEM–ISLAM–CRUSADES                |
-| Jerusalem      | MEM–ROME–PALESTINE–JERUSALEM    | MEM–ISLAM–JERUSALEM               |
+| Jerusalem      | MEM–ROME–PALESTINE–JERUSALEM    | MEM–ISLAM–PALESTINE–JERUSALEM     |
 | Sicily         | MEM–ROME–GEO–SICILY             | MEM–ISLAM–GEO–SICILY              |
 | Mediterranean  | MEM–ROME–GEO–MEDITERRANEAN–SEA  | MEM–ISLAM–GEO–MEDITERRANEAN–SEA   |
 | Levant         | MEM–ROME–GEO–LEVANT             | MEM–ISLAM–GEO–LEVANT              |
 | Iberia         | MEM–ROME–GEO–IBERIA             | MEM–ISLAM–GEO–IBERIA              |
+
+**IV-B. Connector pairs (aligned and asymmetric naming)**  
+The following pairs encode the *same subject* (or tightly overlapping subject). Ottoman and Umayyad were renamed for alignment (MEM–ISLAM–OTTOMAN–EMPIRE, MEM–ISLAM–UMAYYAD–CALIPHATE). Syria/Damascus remains asymmetric (region vs city); document the asymmetry where syntheses or CONNECTIONS refer to it.
+
+| Subject     | Rome (MEM–ROME–*)              | Islam (MEM–ISLAM–*)           | Note                                      |
+|-------------|--------------------------------|-------------------------------|-------------------------------------------|
+| Ottoman     | MEM–ROME–OTTOMAN–EMPIRE        | MEM–ISLAM–OTTOMAN–EMPIRE      | Naming aligned (both EMPIRE). Same polity. |
+| Umayyad     | MEM–ROME–WAR–UMAYYAD–CALIPHATE | MEM–ISLAM–UMAYYAD–CALIPHATE   | Naming aligned (both CALIPHATE; Rome adds WAR–). Same polity. |
+| Syria / Damascus | MEM–ROME–SYRIA | MEM–ISLAM–DAMASCUS        | Naming asymmetric: Rome region; Islam first caliphal city. Overlap. (GEO–SYRIA assimilated into MEM–ROME–SYRIA and MEM–ROME–GEO–LEVANT.) |
+
+**Reference convention:** Use canonical IDs: MEM–ISLAM–OTTOMAN–EMPIRE, MEM–ISLAM–UMAYYAD–CALIPHATE (renamed from DYNASTY–* for Rome–Islam naming alignment).
+
+**Complementary encodings (not same-subject):** MEM–ROME–SPAIN–GRANADA (end of al-Andalus, 1238–1492) and MEM–ISLAM–CORDOBA (Umayyad survival, 756–1236) treat different time slices and places; they are complementary Iberian-Islamic encodings, not a same-subject pair. MEM–ISLAM–GEO–IBERIA already pairs with MEM–ROME–GEO–IBERIA.
 
 **Use:** When analysing a node that appears in both corpora (e.g.
 Constantinople, Crusades, Mediterranean structure), load the **pair**
@@ -312,3 +325,37 @@ Reference: CIV–CORE–ROME, CIV–CORE–ISLAM; CIV–STATE–ROME, CIV–STAT
 ISLAM; MEM–ROME–ISLAM; MEM–ROME–CRUSADES; MEM–ISLAM–CRUSADES; MEM–
 ISLAM–GEO–MEDITERRANEAN–SEA; CONCEPT–STATE–INFLUENCE–FROM–
 CONCLUDED–ENTITIES.
+
+────────────────────────────────────────────────────────────
+X. SCHOLAR SYNTHESIS SHAPING (CONNECTOR PAIRS AND SAME-SUBJECT ENCODINGS)
+────────────────────────────────────────────────────────────
+When a synthesis concerns a **connector pair** (same subject in two
+civilizations' MEMs, e.g. MEM–ROME–CONSTANTINOPLE ↔ MEM–ISLAM–
+CONSTANTINOPLE) or **same-subject encodings** across more than two
+civilizations (e.g. Rome, Islam, Russia on Constantinople), the
+synthesis must be **shaped to each civilization's distinct perspective**
+when recorded in that civilization's SCHOLAR file.
+
+**Requirement:** When the same synthesis is recorded in more than one
+CIV–SCHOLAR–[CIV] (e.g. CIV–SCHOLAR–ROME, CIV–SCHOLAR–ISLAM,
+CIV–SCHOLAR–RUSSIA), the text in each file MUST foreground that
+**host civilization's encoding** and present the other civilization(s)
+as complementary encodings of the same referent. Do not use a single
+neutral formulation across all SCHOLAR files.
+
+**Rationale:** Each SCHOLAR file is the steward of that civilization's
+constraint grammar. Connector-pair and same-subject syntheses describe
+one place or event encoded differently; the version in SCHOLAR–ROME
+should lead with Rome's encoding (e.g. continuity terminated, vessel
+ended), the version in SCHOLAR–ISLAM with Islam's (e.g. arrival,
+imperial absorption), the version in SCHOLAR–RUSSIA with Russia's
+(e.g. lost center, inheritance by default). Encodings are preserved
+without resolution; no single perspective overrides.
+
+**Scope:** Applies when adding ENTRY, synthesis candidate, or pattern
+note to multiple SCHOLAR files about the same connector pair or
+same-subject node (including triple or N-way encoding, e.g.
+Constantinople in Rome, Islam, Russia).
+
+Reference: CIV–SCHOLAR–TEMPLATE Section XIV.F; .cursor/rules/
+cmc-scholar-connector-perspective.mdc.

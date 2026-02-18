@@ -108,6 +108,19 @@ VII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
+VIII. MEM CONNECTIONS (MANDATORY)
+────────────────────────────────────────────────────────────
+Same-civilization (ISLAM):
+• MEM–ISLAM–PALESTINE–JERUSALEM — sacred zone violated 1099, recovered 1187.
+• MEM–ISLAM–SALADIN — exemplar of legitimacy-through-conduct; mercy versus massacre.
+• MEM–ISLAM–WAR–THIRD–CRUSADE — Richard–Saladin; moral reframing of victory.
+• MEM–ISLAM–GEO–LEVANT — theatre of Crusader occupation and recovery.
+• MEM–ISLAM–DYNASTY–AYYUBID — Saladin's house; Sunni consolidation.
+
+Cross-civilization (connector pair):
+• MEM–ROME–CRUSADES — Rome's encoding: papal overreach, delegated violence, spiritual authority beyond capacity; same event, opposite valence (Islam = legitimacy crisis then recovery). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
+
+────────────────────────────────────────────────────────────
 IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 

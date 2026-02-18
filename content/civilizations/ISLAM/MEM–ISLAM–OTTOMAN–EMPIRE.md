@@ -1,4 +1,4 @@
-MEM–ISLAM–DYNASTY–OTTOMAN — v1.2
+MEM–ISLAM–OTTOMAN–EMPIRE — v1.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL
 Status: ACTIVE
@@ -129,7 +129,12 @@ VIII. CONTINUITY INSIGHTS (RAW)
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-IX. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
+IX. MEM CONNECTIONS
+────────────────────────────────────────────────────────────
+Cross-civilization (connector pair): MEM–ROME–OTTOMAN–EMPIRE — Same subject: Ottoman polity; Rome encoding: functional successor, declination; Islam encoding: custodianship, caliphal continuity. Naming aligned (both EMPIRE). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A / IV-B.
+
+────────────────────────────────────────────────────────────
+X. SOURCE EVIDENCE — LEWIS (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 
 Bernard Lewis, *What Went Wrong? Western Impact and Middle Eastern Response* (2002) (ARC–ISLAM–T–MODERN):
@@ -145,7 +150,7 @@ Bernard Lewis, *What Went Wrong? Western Impact and Middle Eastern Response* (20
 "So, too, did the Ottoman Empire—the most recent and by far the most enduring of all the Islamic empires." — Lewis on dynastic principle in Islamic political culture (*Journal of Democracy* 7.2, 1996).
 
 ────────────────────────────────────────────────────────────
-X. SOURCE EVIDENCE — BAER (ARC–ISLAM)
+XI. SOURCE EVIDENCE — BAER (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 
 Marc David Baer, *The Ottomans: Khans, Caesars, and Caliphs* (Basic Books, 2021) (ARC–ISLAM–T–MODERN):
@@ -161,7 +166,7 @@ Uniquely among world empires, the Ottomans relied on converts to staff the rulin
 — Baer on European integration, toleration-and-conversion dialectic, conversion-as-elite-making (devşirme, Janissaries), and late-Ottoman exclusivity trajectory.
 
 ────────────────────────────────────────────────────────────
-XI. SOURCE EVIDENCE — KISSINGER (ARC–ISLAM)
+XII. SOURCE EVIDENCE — KISSINGER (ARC–ISLAM)
 ────────────────────────────────────────────────────────────
 
 Henry Kissinger, *World Order* (Penguin Press, 2014) (ARC–ISLAM–T–MODERN):
@@ -173,5 +178,5 @@ As Sultan Mehmed the Conqueror admonished the Italian city-states practicing an 
 — Kissinger on Ottoman–Westphalia contrast; Islamic world order as expansion-oriented; unitary entity vs equilibrium of competing sovereign parts; civilization-contrast for MEM encoding.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ISLAM–DYNASTY–OTTOMAN — v1.3
+END OF FILE — MEM–ISLAM–OTTOMAN–EMPIRE — v1.3
 ────────────────────────────────────────────────────────────

@@ -197,16 +197,15 @@ IX. MEM CONNECTIONS
 Dependency:
 • MEM–ISLAM–CRUSADES — Levant as Crusades theater; Jerusalem 1099/1187
 • MEM–ISLAM–SALADIN — Jerusalem recovery; moral exemplar
-• MEM–ISLAM–DYNASTY–UMAYYAD — Damascus as first caliphal capital
+• MEM–ISLAM–UMAYYAD–CALIPHATE — Damascus as first caliphal capital
 • MEM–ISLAM–DYNASTY–AYYUBID — Post-Saladin Levant
 • MEM–ISLAM–DYNASTY–MAMLUK — Mamluk expulsion of Crusaders
-• MEM–ISLAM–DYNASTY–OTTOMAN — Ottoman custody of sacred zones
+• MEM–ISLAM–OTTOMAN–EMPIRE — Ottoman custody of sacred zones
 
 Breaks if removed:
 • CIV–CORE–ISLAM § IV (Jerusalem, Gaza, Levantine corridor) — This MEM grounds those references.
 
-Cross-civilization:
-• MEM–ROME–* — Eastern provinces; Byzantine Syria
+Cross-civilization (connector pair): MEM–ROME–GEO–LEVANT — Rome's encoding: corridor paradox, connection without consolidation, transmission without absorption; same region, different valence (Islam = sacred-zone corridor, legitimacy fulcrum, Jerusalem/Al-Aqsa). Connector pair per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–FRANCIA–* / MEM–GERMANIA–* — Crusades encoding from Christian perspective
 
 ────────────────────────────────────────────────────────────
