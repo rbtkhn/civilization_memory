@@ -1,5 +1,5 @@
-MEM–ROME–GEO–EGYPT — v2.0
-Civilizational Memory Codex · Geographic Memory File
+MEM–ROME–EGYPT — v2.0
+Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
 
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v2.8)
@@ -10,7 +10,7 @@ Civilization: ROME
 Regime: IMPERIAL DEPENDENCY → EASTERN CONTINUITY → ISLAMIC LOSS
 Subject: Egypt (Grain Engine, Legitimacy Lever, Strategic Keystone)
 Dates: 30 BC–642 AD (Roman incorporation to Islamic conquest)
-Class: MEM (Civilizational Memory) · GEO Subclass
+Class: MEM (Civilizational Memory)
 Template: CIV–MEM–TEMPLATE v2.8
 Last Update: January 2026
 Word Count: ~3,700
@@ -338,7 +338,7 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–CONSTANTINOPLE — Eastern grain destination
 • MEM–ROME–AUGUSTUS — System capture architect
 • MEM–ROME–ISLAM — Partition agent
-• MEM–ROME–CLEOPATRA — Final Ptolemaic ruler
+• MEM–ROME–EGYPT–CLEOPATRA — Final Ptolemaic ruler
 • MEM–ROME–LAW–CITIZENSHIP — Integration mechanism
 
 GEO–MEMs (≥2 Required):
@@ -346,6 +346,7 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–RED–SEA — Trade extension
 
 CROSS-CIVILIZATIONAL:
+• MEM–ISLAM–EGYPT — Connector pair (same subject; Islam encoding: caliphal heartland, Nile chokepoint, sacred-zone corridor). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–ISLAM–UMAYYAD–CALIPHATE — Conquering power
 • MEM–EGYPT–ANCIENT — Predecessor civilization
 
@@ -406,5 +407,5 @@ Category C — Modern Copyrighted Scholarship:
 • ARC-T-MODERN ✔
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–EGYPT — v2.0
+END OF FILE — MEM–ROME–EGYPT — v2.0
 ────────────────────────────────────────────────────────────

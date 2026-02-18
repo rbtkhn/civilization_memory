@@ -228,6 +228,7 @@ Contradictions are preserved without synthesis.
 XI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME:
+• MEM–ROME–PERSIA (subject MEM; civilizational rival encoding)
 • MEM–ROME–TRAJAN
 • MEM–ROME–HADRIAN
 • MEM–ROME–HERACLIUS

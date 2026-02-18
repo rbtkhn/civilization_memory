@@ -214,7 +214,7 @@ ROME (≥10):
 • MEM–ROME–CAESAR — Roman who imitated Alexander but might have governed
   like Philip had he lived
 • MEM–ROME–REPUBLIC — institutional depth Rome developed beyond Philip's model
-• MEM–ROME–GEO–EGYPT — prize Philip planned to conquer; Alexander took
+• MEM–ROME–EGYPT — prize Philip planned to conquer; Alexander took
 • MEM–ROME–GEO–ANATOLIA — Persian territory Philip targeted
 • MEM–ROME–WAR–PARTHIA — successor to Persia; the target Philip identified
 • MEM–ROME–HIST–THUCYDIDES — chronicler of Greek exhaustion Philip exploited

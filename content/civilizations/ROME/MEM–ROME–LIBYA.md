@@ -1,4 +1,4 @@
-MEM–ROME–GEO–LIBYA — v2.0
+MEM–ROME–LIBYA — v2.0
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · PHASE II COMPLIANT
 
@@ -7,8 +7,8 @@ GOVERNANCE HEADER
 ────────────────────────────────────────────────────────────
 Status: CANONICAL
 Version: 2.0
-Supersedes: v1.1
-Upgrade Type: MEARSHEIMER STRATEGIC COGNITION INTEGRATION
+Supersedes: MEM–ROME–GEO–LIBYA v2.0 (renamed)
+Upgrade Type: RENAME (GEO–LIBYA → LIBYA)
 Civilization: ROME
 Regime: IMPERIAL FRONTIER (DESERT PROVINCE)
 Subject: Libya (Tripolitania and Cyrenaica)
@@ -16,7 +16,7 @@ Dates: Republican era – Late Antiquity
 Class: GEO–MEM (Geographic Memory)
 Binding: CIV–DOCTRINE–ROME v2.0 (DOCTRINE 10)
 CIV–MIND Integration: MEARSHEIMER (primary), MERCOURIS (ARC quotes)
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,700
 
 ────────────────────────────────────────────────────────────
@@ -207,7 +207,7 @@ V. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-Civilization MEMs (≥10):
 • MEM–ROME–GEO–MEDITERRANEAN–SEA (maritime connection)
-• MEM–ROME–GEO–EGYPT (eastern neighbor)
+• MEM–ROME–EGYPT (eastern neighbor)
 • MEM–ROME–GEO–SICILY (central Mediterranean link)
 • MEM–ROME–GEO–MALTA (transit node)
 • MEM–ROME–GEO–ARABIA (desert frontier parallel)
@@ -218,9 +218,12 @@ Same-Civilization MEMs (≥10):
 • MEM–ROME–CARTHAGE (predecessor control)
 
 GEO–MEM Connections (≥2):
-• MEM–ROME–GEO–EGYPT (connected frontier)
+• MEM–ROME–EGYPT (connected frontier)
 • MEM–ROME–GEO–ARABIA (desert governance parallel)
 • MEM–ROME–GEO–MEDITERRANEAN–SEA (coastal integration)
+• MEM–ROME–GEO–SAHARA–DESERT (southern limit; desert barrier)
+
+Cross-civilization (connector pair): MEM–ISLAM–LIBYA — Same subject; Islam encoding: Ifriqiya coast, Ottoman regency, Maghreb–Sahara edge. Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 ────────────────────────────────────────────────────────────
 VI. CIVILIZATIONAL MEMORY FUNCTION
@@ -250,5 +253,5 @@ VII. CONTINUITY INSIGHTS
 Tension preserved without verdict.
 
 ────────────────────────────────────────────────────────────
-END OF FILE — MEM–ROME–GEO–LIBYA — v2.0
+END OF FILE — MEM–ROME–LIBYA — v2.0
 ────────────────────────────────────────────────────────────

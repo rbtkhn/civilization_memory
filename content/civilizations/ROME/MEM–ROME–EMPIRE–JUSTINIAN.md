@@ -312,7 +312,7 @@ ROME:
   logistical core of the universalist project.
 • MEM–ROME–GEO–ITALY — the symbolic heartland reclaimed at immense cost,
   demonstrating the mismatch between ambition and resources.
-• MEM–ROME–GEO–EGYPT — the fiscal and demographic engine of the Eastern
+• MEM–ROME–EGYPT — the fiscal and demographic engine of the Eastern
   Empire that funded the Western restoration.
 • MEM–ROME–PAPACY — the Western institutional survival of the theological-legal
   synthesis Justinian attempted to unify.

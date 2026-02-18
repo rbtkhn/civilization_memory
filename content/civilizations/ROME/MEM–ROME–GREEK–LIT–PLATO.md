@@ -327,7 +327,7 @@ ROME (≥10):
 
 GEO (≥2):
 • MEM–ROME–GEO–GREECE — origin of Platonic tradition
-• MEM–ROME–GEO–EGYPT — Alexandria as Platonic center
+• MEM–ROME–EGYPT — Alexandria as Platonic center
 
 Cross-civilizational (≥2):
 • MEM–GERMANIA–KANT — moral law abstracted from politics

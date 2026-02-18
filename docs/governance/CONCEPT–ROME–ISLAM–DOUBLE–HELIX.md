@@ -167,13 +167,24 @@ at that node: Roman and Islamic perspectives on the same referent.
 
 | Subject        | Rome (MEM–ROME–*)              | Islam (MEM–ISLAM–*)              |
 |----------------|----------------------------------|-----------------------------------|
+| Atlantic Ocean | MEM–ROME–GEO–ATLANTIC–OCEAN     | MEM–ISLAM–GEO–ATLANTIC–OCEAN     |
 | Constantinople | MEM–ROME–CONSTANTINOPLE          | MEM–ISLAM–CONSTANTINOPLE          |
 | Crusades       | MEM–ROME–CRUSADES               | MEM–ISLAM–CRUSADES                |
 | Jerusalem      | MEM–ROME–PALESTINE–JERUSALEM    | MEM–ISLAM–PALESTINE–JERUSALEM     |
 | Sicily         | MEM–ROME–GEO–SICILY             | MEM–ISLAM–GEO–SICILY              |
 | Mediterranean  | MEM–ROME–GEO–MEDITERRANEAN–SEA  | MEM–ISLAM–GEO–MEDITERRANEAN–SEA   |
 | Levant         | MEM–ROME–GEO–LEVANT             | MEM–ISLAM–GEO–LEVANT              |
+| Libya          | MEM–ROME–LIBYA                  | MEM–ISLAM–LIBYA                   |
 | Iberia         | MEM–ROME–GEO–IBERIA             | MEM–ISLAM–GEO–IBERIA              |
+| Black Sea      | MEM–ROME–GEO–BLACK–SEA          | MEM–ISLAM–GEO–BLACK–SEA           |
+| Nile River     | MEM–ROME–GEO–NILE–RIVER         | MEM–ISLAM–GEO–NILE–RIVER          |
+| Caspian Sea    | MEM–ROME–GEO–CASPIAN–SEA        | MEM–ISLAM–GEO–CASPIAN–SEA         |
+| Red Sea        | MEM–ROME–GEO–RED–SEA            | MEM–ISLAM–GEO–RED–SEA             |
+| Egypt          | MEM–ROME–EGYPT                  | MEM–ISLAM–EGYPT                   |
+| Persia         | MEM–ROME–PERSIA                 | MEM–ISLAM–PERSIA                  |
+| Russia         | MEM–ROME–RUSSIA                 | MEM–ISLAM–RUSSIA                  |
+| Sahara Desert  | MEM–ROME–GEO–SAHARA–DESERT      | MEM–ISLAM–GEO–SAHARA–DESERT       |
+| Silk Road      | MEM–ROME–SILK–ROAD             | MEM–ISLAM–SILK–ROAD               |
 
 **IV-B. Connector pairs (aligned and asymmetric naming)**  
 The following pairs encode the *same subject* (or tightly overlapping subject). Ottoman and Umayyad were renamed for alignment (MEM–ISLAM–OTTOMAN–EMPIRE, MEM–ISLAM–UMAYYAD–CALIPHATE). Syria/Damascus remains asymmetric (region vs city); document the asymmetry where syntheses or CONNECTIONS refer to it.

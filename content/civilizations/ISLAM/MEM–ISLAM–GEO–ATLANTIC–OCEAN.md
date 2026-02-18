@@ -47,7 +47,9 @@ VIII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: Eastern Atlantic rim; Maghreb ~28–37N; West Africa ~10–20N. TERRAIN: Maritime; coastal; Strait of Gibraltar. CHOKEPOINT: Gibraltar (Mediterranean–Atlantic); see MEM–ISLAM–GEO–MEDITERRANEAN–SEA. KEY_FEATURES: Strait of Gibraltar; Maghreb coast; West African littoral.
 
 IX. MEM CONNECTIONS
-MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–GEO–IBERIA; MEM–ISLAM–UMAYYAD–CALIPHATE; CIV–CORE–ISLAM § IV (Maghreb). Breaks if removed: CIV–CORE Maghreb; western frontier encoding.
+Same-civilization: MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–GEO–IBERIA; MEM–ISLAM–UMAYYAD–CALIPHATE; CIV–CORE–ISLAM § IV (Maghreb). Breaks if removed: CIV–CORE Maghreb; western frontier encoding.
+
+Cross-civilization (connector pair): MEM–ROME–GEO–ATLANTIC–OCEAN — Same subject; Rome encoding: western limit, mare nostrum = Mediterranean not Atlantic, littoral edge only. Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 
 X. CONTINUITY INSIGHTS
 Atlantic = western limit of historic dar al-Islam. Al-Andalus lost; Maghreb remains. Gibraltar governs Mediterranean–Atlantic; no Islamic control. Reversal encoded (1492) not expansion.

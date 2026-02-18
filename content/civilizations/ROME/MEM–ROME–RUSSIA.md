@@ -348,6 +348,7 @@ ROME (Same-Civilization):
 • MEM–ROME–GREEK — Cultural source for Orthodox tradition
 
 CROSS-CIVILIZATIONAL:
+• MEM–ISLAM–RUSSIA — Connector pair (same subject; Islam encoding: Golden Horde sovereign, khanate conquest, Ottoman rival, Caucasus loss). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–RUSSIA–THIRD–ROME — Reciprocal perspective (Russia's view)
 • MEM–RUSSIA–MOSCOW — Third Rome capital
 • MEM–RUSSIA–CONSTANTINOPLE — Russian strategic objective

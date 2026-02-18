@@ -192,6 +192,7 @@ ROME (Same-Civilization):
   posture in Black Sea approaches.
 
 Cross-Civilizational:
+• MEM–ISLAM–GEO–BLACK–SEA — Connector pair (same subject; Islam encoding: Bosphorus choke, Ottoman lake). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–RUSSIA–GEO–BLACK–SEA — Russian strategic perspective on the same basin;
   demonstrates permanent terrain logic across civilizational succession.
 

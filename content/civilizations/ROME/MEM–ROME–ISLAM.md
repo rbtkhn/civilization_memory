@@ -266,7 +266,7 @@ XI. MEM CONNECTIONS (MANDATORY)
 ROME (Same-Civilization):
 • MEM–ROME–CONSTANTINOPLE — Survived sieges; defined post-Islamic Rome
 • MEM–ROME–EMPIRE–HERACLIUS — Pyrrhic victory over Persia
-• MEM–ROME–GEO–EGYPT — Lost province
+• MEM–ROME–EGYPT — Lost province
 • MEM–ROME–SYRIA — Lost province
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Partitioned
 • MEM–ROME–WAR–ARAB–CONQUEST — Military details

@@ -38,7 +38,7 @@ GEO–MEMs contain:
 This file applies:
 • DOCTRINE 03: Maritime Coherence as Imperial Stability (trade route control)
 • RLL–ROME–0006: Fragment Inheritance (Red Sea access lost to Islam)
-• MEM–ROME–GEO–EGYPT (port dependency)
+• MEM–ROME–EGYPT (port dependency)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -280,7 +280,7 @@ Rome succeeds here by knowing where not to rule.
 VII. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME (Same-Civilization) — ≥10 Required:
-• MEM–ROME–GEO–EGYPT — Port dependency
+• MEM–ROME–EGYPT — Port dependency
 • MEM–ROME–GEO–NILE–RIVER — Trade route access
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Destination for goods
 • MEM–ROME–ALEXANDRIA — Commercial hub
@@ -292,10 +292,11 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–PERSIA — Rival trade routes
 
 GEO–MEMs (≥2 Required):
-• MEM–ROME–GEO–EGYPT — Port access
+• MEM–ROME–EGYPT — Port access
 • MEM–ROME–GEO–CASPIAN–SEA — Contrast (horizon vs corridor)
 
 CROSS-CIVILIZATIONAL:
+• MEM–ISLAM–GEO–RED–SEA — Connector pair (same subject; Islam encoding: sacred-zone corridor, dual choke). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–INDIA–TRADE — Trade partner
 • MEM–ISLAM–UMAYYAD–CALIPHATE — Successor control
 

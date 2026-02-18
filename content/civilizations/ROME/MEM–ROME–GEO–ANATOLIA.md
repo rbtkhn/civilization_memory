@@ -324,7 +324,7 @@ ROME (Same-Civilization) — ≥10 Required:
 
 GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–BALKANS — European exposure zone
-• MEM–ROME–GEO–EGYPT — Complementary grain dependency
+• MEM–ROME–EGYPT — Complementary grain dependency
 
 CROSS-CIVILIZATIONAL:
 • MEM–ISLAM–UMAYYAD–CALIPHATE — Early Arab pressure

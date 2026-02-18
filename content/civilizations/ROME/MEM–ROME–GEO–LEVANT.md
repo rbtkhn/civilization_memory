@@ -249,7 +249,7 @@ VI. MEM CONNECTIONS
 ────────────────────────────────────────────────────────────
 Same-Civilization MEMs (≥10):
 • MEM–ROME–SYRIA (adjoining strategic exposure; province assimilated from former GEO–SYRIA)
-• MEM–ROME–GEO–EGYPT (connected via Gaza corridor)
+• MEM–ROME–EGYPT (connected via Gaza corridor)
 • MEM–ROME–GEO–ANATOLIA (northern strategic depth)
 • MEM–ROME–GEO–MEDITERRANEAN–SEA (maritime integration)
 • MEM–ROME–GEO–CYPRUS (eastern Mediterranean node)
@@ -262,7 +262,7 @@ Same-Civilization MEMs (≥10):
 
 GEO–MEM Connections (≥2):
 • MEM–ROME–SYRIA (strategic depth zone)
-• MEM–ROME–GEO–EGYPT (corridor terminus)
+• MEM–ROME–EGYPT (corridor terminus)
 • MEM–ROME–GEO–ARABIA (southern frontier)
 
 CROSS-CIVILIZATIONAL (connector pair):

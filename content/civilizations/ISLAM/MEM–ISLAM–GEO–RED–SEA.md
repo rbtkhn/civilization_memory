@@ -40,7 +40,7 @@ VII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: ~12N–30N; 32E–44E; ~438,000 km². TERRAIN: Maritime corridor. CHOKEPOINT: Yes—Bab el-Mandeb, Suez. KEY_FEATURES: Bab el-Mandeb; Suez; Jidda; Massawa; Hodeidah.
 
 VIII. MEM CONNECTIONS
-MEM–ISLAM–GEO–INDIAN–OCEAN; MEM–ISLAM–MECCA; MEM–ISLAM–DYNASTY–MAMLUK; MEM–ISLAM–OTTOMAN–EMPIRE. Breaks if removed: CIV–CORE–ISLAM § IV.
+MEM–ISLAM–GEO–INDIAN–OCEAN; MEM–ISLAM–MECCA; MEM–ISLAM–DYNASTY–MAMLUK; MEM–ISLAM–OTTOMAN–EMPIRE. Cross-civilization (connector pair): MEM–ROME–GEO–RED–SEA — Same subject; Rome encoding: trade corridor, restraint. Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A. Breaks if removed: CIV–CORE–ISLAM § IV.
 
 IX. CONTINUITY INSIGHTS
 Bab el-Mandeb + Suez = dual choke. Sacred-zone adjacency couples with import physics. No single Islamic state controlled full corridor.

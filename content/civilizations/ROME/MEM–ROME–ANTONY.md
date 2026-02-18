@@ -296,7 +296,7 @@ ROME:
 • MEM–ROME–WAR–ACTIUM — the decisive engagement
 • MEM–ROME–EGYPT–CLEOPATRA — Antony's partner and liability
 • MEM–ROME–REPUBLIC — the system Antony helped destroy
-• MEM–ROME–GEO–EGYPT — the territory Antony's loss delivered to Octavian
+• MEM–ROME–EGYPT — the territory Antony's loss delivered to Octavian
 
 NON-ROME:
 • MEM–PERSIA–PARTHIA — Antony's failed campaign target

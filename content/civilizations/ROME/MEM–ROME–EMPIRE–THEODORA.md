@@ -290,7 +290,7 @@ ROME (≥10):
 • MEM–ROME–HIST–PROCOPIUS — hostile but essential source
 • MEM–ROME–EMPIRE–IRENE — later powerful empress
 • MEM–ROME–PAPACY — Western Church relations
-• MEM–ROME–GEO–EGYPT — Monophysite stronghold she protected
+• MEM–ROME–EGYPT — Monophysite stronghold she protected
 
 GEO (≥2):
 • MEM–ROME–GEO–ANATOLIA — Byzantine heartland

@@ -256,7 +256,7 @@ GEO (≥2):
 
 Cross-civilization:
 • MEM–ROME–GEO–RED–SEA — parallel: chokepoint, trade corridor
-• MEM–ROME–GEO–EGYPT — Nile–Red Sea–Gulf connectivity
+• MEM–ROME–EGYPT — Nile–Red Sea–Gulf connectivity
 
 Breaks if removed: MEM–PERSIA–GEO–CASPIAN (contrast); MEM–PERSIA–ACHAEMENID–DYNASTY (littoral origin).
 

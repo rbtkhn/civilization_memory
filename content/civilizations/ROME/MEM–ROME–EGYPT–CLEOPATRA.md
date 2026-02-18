@@ -273,7 +273,7 @@ Anthony Everitt captures Cleopatra's calculation:
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME:
-• MEM–ROME–GEO–EGYPT — the territory Cleopatra ruled and Rome absorbed
+• MEM–ROME–EGYPT — the territory Cleopatra ruled and Rome absorbed
 • MEM–ROME–CAESAR — first Roman patron
 • MEM–ROME–AUGUSTUS — the victor who absorbed Egypt
 • MEM–ROME–REPUBLIC — the system Cleopatra's alliances destabilized

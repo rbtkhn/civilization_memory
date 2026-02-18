@@ -37,7 +37,7 @@ VI. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: ~4N–31N; White Nile, Blue Nile, delta. TERRAIN: Riverine; irrigation-dependent. CHOKEPOINT: Yes—single river sustains Egypt. KEY_FEATURES: Cairo; Aswan; Delta; Khartoum.
 
 VII. MEM CONNECTIONS
-MEM–ISLAM–CAIRO; MEM–ISLAM–DYNASTY–FATIMID; MEM–ISLAM–DYNASTY–MAMLUK; MEM–ISLAM–GEO–RED–SEA; MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–GEO–LEVANT. Breaks if removed: CIV–CORE § IV (Nile basin).
+MEM–ISLAM–CAIRO; MEM–ISLAM–DYNASTY–FATIMID; MEM–ISLAM–DYNASTY–MAMLUK; MEM–ISLAM–GEO–RED–SEA; MEM–ISLAM–GEO–MEDITERRANEAN–SEA; MEM–ISLAM–GEO–LEVANT. Cross-civilization (connector pair): MEM–ROME–GEO–NILE–RIVER — Same subject; Rome encoding: grain capital, loss. Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A. Breaks if removed: CIV–CORE § IV (Nile basin).
 
 VIII. CONTINUITY INSIGHTS
 Nile = single chokepoint. Post-1258 heartland. Sacred-zone corridor.

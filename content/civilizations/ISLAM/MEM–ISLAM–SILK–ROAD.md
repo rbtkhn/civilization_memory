@@ -167,7 +167,8 @@ Breaks if removed:
 • MEM–ISLAM–GEO–XINJIANG § V (Silk Road Memory) — This MEM elaborates
   the Islamic Silk Road encoding.
 
-Cross-civilization:
+Cross-civilization (connector pair):
+• MEM–ROME–SILK–ROAD — Connector pair (same subject; Rome encoding: demand terminus, intermediary dependency, loss of Syria/Egypt). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–PERSIA–* — Persian segment; Sogdian–Persian–Islamic synthesis
 • MEM–CHINA–* (if exists) — Eastern terminus; TSP
 

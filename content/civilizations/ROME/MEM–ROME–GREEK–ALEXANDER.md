@@ -268,7 +268,7 @@ ROME (≥10):
 • MEM–ROME–HIST–HERODOTUS — the historian of the Persian plurality
 
 GEO (≥2):
-• MEM–ROME–GEO–EGYPT — Ptolemaic fragment; later Roman core province
+• MEM–ROME–EGYPT — Ptolemaic fragment; later Roman core province
 • MEM–ROME–GEO–ANATOLIA — Seleucid/Roman transition zone
 
 Cross-civilizational (≥2):

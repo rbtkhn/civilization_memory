@@ -135,7 +135,7 @@ Rome survives by respecting deserts.
 ────────────────────────────────────────────────────────────
 VI. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
-ROME: MEM–ROME–GEO–RED–SEA, MEM–ROME–SYRIA, MEM–ROME–GEO–EGYPT,
+ROME: MEM–ROME–GEO–RED–SEA, MEM–ROME–SYRIA, MEM–ROME–EGYPT,
 MEM–ROME–GEO–LEVANT, MEM–ROME–ISLAM, MEM–ROME–TRAJAN, MEM–ROME–PERSIA,
 MEM–ROME–CONSTANTINOPLE, MEM–ROME–PETRA, MEM–ROME–AUGUSTUS
 

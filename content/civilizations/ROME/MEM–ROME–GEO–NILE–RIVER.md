@@ -39,7 +39,7 @@ This file applies:
 • DOCTRINE 03: Maritime Coherence as Imperial Stability (grain circulation)
 • DOCTRINE 08: Absorption Prevents Fragmentation (Ptolemaic system capture)
 • RLL–ROME–0006: Fragment Inheritance (Nile permanently lost to Islam)
-• MEM–ROME–GEO–EGYPT (parent GEO–MEM relationship)
+• MEM–ROME–EGYPT (parent GEO–MEM relationship)
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -354,7 +354,7 @@ The Nile is Rome's true capital.
 X. MEM CONNECTIONS (MANDATORY)
 ────────────────────────────────────────────────────────────
 ROME (Same-Civilization) — ≥10 Required:
-• MEM–ROME–GEO–EGYPT — Parent geographic context
+• MEM–ROME–EGYPT — Parent geographic context
 • MEM–ROME–GEO–MEDITERRANEAN–SEA — Grain delivery route
 • MEM–ROME–GEO–RED–SEA — Trade extension
 • MEM–ROME–ALEXANDRIA — Port and capital
@@ -366,10 +366,11 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–JUSTINIAN — Late Roman management
 
 GEO–MEMs (≥2 Required):
-• MEM–ROME–GEO–EGYPT — Parent context
+• MEM–ROME–EGYPT — Parent context
 • MEM–ROME–GEO–RED–SEA — Trade corridor
 
 CROSS-CIVILIZATIONAL:
+• MEM–ISLAM–GEO–NILE–RIVER — Connector pair (same subject; Islam encoding: caliphal hearth, Cairo chokepoint). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–ISLAM–UMAYYAD–CALIPHATE — Conquering power
 • MEM–EGYPT–ANCIENT — Predecessor civilization
 

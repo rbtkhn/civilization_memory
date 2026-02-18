@@ -318,7 +318,7 @@ ROME (Same-Civilization) — ≥10 Required:
 • MEM–ROME–CARTHAGE — Rival for Sicily
 • MEM–ROME–WAR–FIRST–PUNIC — Acquisition war
 • MEM–ROME–WAR–SECOND–PUNIC — Consolidation war
-• MEM–ROME–GEO–EGYPT — Later grain dependency parallel
+• MEM–ROME–EGYPT — Later grain dependency parallel
 • MEM–ROME–SYRACUSE — Principal Sicilian city
 
 GEO–MEMs (≥2 Required):

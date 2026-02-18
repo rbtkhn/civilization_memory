@@ -203,7 +203,9 @@ Breaks if removed:
 • CIV–CORE–ISLAM § IV (Hormuz, chokepoint) — This MEM grounds that reference.
 
 Cross-civilization:
-• MEM–PERSIA–* (if exists) — Gulf as Persia–Islam interface
+• MEM–ROME–PERSIA — Connector pair (Rome encoding of Persia); see CONCEPT IV-A.
+• MEM–ISLAM–PERSIA — Subject MEM; Gulf as Islam–Persia interface.
+• MEM–PERSIA–* — Gulf as Persia–Islam interface (Persia corpus).
 • ARC–PERSIA — Cross-ARC citation for Persian littoral sources (TSP)
 
 ────────────────────────────────────────────────────────────

@@ -287,6 +287,7 @@ GEO–MEMs (≥2 Required):
 • MEM–ROME–GEO–RED–SEA — Contrast (commerce vs threat)
 
 CROSS-CIVILIZATIONAL:
+• MEM–ISLAM–GEO–CASPIAN–SEA — Connector pair (same subject; Islam encoding: closed basin, Islam–Persia interface). Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A.
 • MEM–RUSSIA–CASPIAN — Later Russian domain
 • MEM–PERSIA–SASSANID — Intervening empire
 

@@ -40,7 +40,7 @@ VII. GEO STRUCTURED DATA (LAYER 2)
 REGION_BOUNDS: ~36N–47N; 46E–54E; ~371,000 km². TERRAIN: Maritime; closed; inland. CHOKEPOINT: No—closed basin; no oceanic exit. KEY_FEATURES: Southern littoral (Iran, Azerbaijan); Volga delta; hydrocarbon zones.
 
 VIII. MEM CONNECTIONS
-MEM–PERSIA–GEO–CASPIAN (Persia lens; cross-civilization); MEM–ISLAM–DYNASTY–ABBASID; MEM–ISLAM–DYNASTY–SELJUK; MEM–ISLAM–DYNASTY–SAFAVID; MEM–ISLAM–SILK–ROAD (northern route). Cross-civilization: MEM–RUSSIA–*, MEM–PERSIA–*.
+MEM–PERSIA–GEO–CASPIAN (Persia lens); MEM–ISLAM–DYNASTY–ABBASID; MEM–ISLAM–DYNASTY–SELJUK; MEM–ISLAM–DYNASTY–SAFAVID; MEM–ISLAM–SILK–ROAD (northern route). Cross-civilization (connector pair): MEM–ROME–GEO–CASPIAN–SEA — Same subject; Rome encoding: horizon, non-extension. Per CONCEPT–ROME–ISLAM–DOUBLE–HELIX IV-A. MEM–RUSSIA–*, MEM–PERSIA–*.
 
 IX. CONTINUITY INSIGHTS
 Closed sea rewards containment; no projection to open ocean. Islam–Persia interface on southern littoral. Legal ambiguity as strategic space.
