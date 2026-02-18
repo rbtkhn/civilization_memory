@@ -63,7 +63,7 @@ Every STATE session activity begins with a MEM SCAN. The procedure is:
 
 1. **Read MEM–RELEVANCE–[CIV].md** for the entity under analysis. This is the primary lookup tool. Do NOT substitute a filename search or subagent scan.
 
-2. **Identify relevant dimensions** based on the activity's topic. A single topic usually spans 2–4 dimensions (e.g. "front-line collapse" spans Attrition/Endurance, Morale Collapse/Defection Cascade, and Opponent Constraint).
+2. **Identify relevant dimensions** based on the activity's topic. A single topic usually spans 2–4 dimensions (e.g. "front-line collapse" spans Attrition/Endurance, Morale Collapse/Defection Cascade, and Opponent Constraint). When the activity is tied to a specific **region** or **time period**, consult MEM–RELEVANCE geography or period dimensions if the index includes them (e.g. "Geography: Black Sea", "Period: 1800–1900"); this supports "what does the corpus say about this place or period?" as a standard query (see CONCEPT–GOVERNING–RULES–VS–EVIDENCE).
 
 3. **Read primary MEM files** listed under each relevant dimension. Read the actual file — not just the file name. Load at minimum:
    - 2 primary MEMs from the most relevant dimension

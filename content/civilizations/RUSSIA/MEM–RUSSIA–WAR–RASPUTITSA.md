@@ -1,8 +1,8 @@
-MEM–RUSSIA–WAR–RASPUTITSA — v3.0
+MEM–RUSSIA–WAR–RASPUTITSA — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
+Version: 3.2
 Supersedes: NEW FILE
 Upgrade Type: INITIAL CREATION · WRITE MODE
 Civilization: RUSSIA (Русская цивилизация)
@@ -30,6 +30,7 @@ WAR MEM LAYER 2 FIELDS:
 
 WAR MEM RLL BINDING:
 • RLL–RUSSIA–0012 (Strategic Depth as Primary Weapon) — rasputitsa multiplies effective depth by halting offensives
+• RLL–RUSSIA–0037 (Seasonal Constraint on Campaigning Calendar) — campaigning calendar (attack in summer or not at all); advance-rate legibility after spring rasputitsa; liability for calendar/preparation
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE
@@ -117,8 +118,9 @@ III.D SPRING 1942
 • The rasputitsa thus defined the campaigning calendar: attack in summer, or not at all
 
 ────────────────────────────────────────────────────────────
-IV. SCHOLARLY ANCHOR: KEEGAN
+IV. SCHOLARLY ANCHORS
 ────────────────────────────────────────────────────────────
+IV.A KEEGAN — THE PARADOX
 John Keegan captures the paradox that defines the rasputitsa in military memory:
 
 > "It is a paradox of campaigning in Russia that, though winter destroys
@@ -127,6 +129,19 @@ John Keegan captures the paradox that defines the rasputitsa in military memory:
 > melt, turns the dirt roads liquid and the surface of the steppe to
 > swamp, the rasputitsa, 'internal seas' of mud which clog all movement."
 > — John Keegan, *The Second World War* (1990)
+
+IV.B ERICKSON — OCTOBER 1941 AND THE NARROW MARGIN
+John Erickson, in *The Road to Stalingrad*, frames the October 1941 crisis in terms that align with the rasputitsa as one of the "favorable circumstances" that bought time:
+
+> "In October 1941, the Soviet state came closer to destruction
+> than at any point in its history. The Moscow panic, the
+> evacuation of government, the breakdown of order in the capital—
+> all suggested that collapse was imminent. Survival was not
+> preordained. It was the product of specific decisions, favorable
+> circumstances, and German overextension. The margin was narrow."
+> — John Erickson, *The Road to Stalingrad* (1975)
+
+Erickson does not name the rasputitsa in this passage; his "favorable circumstances" and "narrow margin" are consistent with the autumn mud and deteriorating roads halting the German advance and granting the Red Army critical weeks. A dedicated Erickson verbatim on mud, thaw, or the campaigning calendar from *The Road to Stalingrad* (e.g. Operation Typhoon or spring 1942 chapters) may be added when the source is at hand.
 
 The structural insight: **time** is the resource the rasputitsa grants. The defender with strategic depth can trade space for time and then receive a second gift—weeks when the attacker cannot move. The invader who has not won before the mud has lost the campaign's tempo.
 
@@ -151,7 +166,7 @@ Russian geography and a general constraint that happens to favor
 the defender of Russian terrain. Tension preserved without synthesis.
 
 ────────────────────────────────────────────────────────────
-VI. RLL BINDING: STRATEGIC DEPTH
+VI. RLL BINDING: STRATEGIC DEPTH AND SEASONAL CALENDAR
 ────────────────────────────────────────────────────────────
 RLL–RUSSIA–0012 (Strategic Depth as Primary Weapon): Russia survives
 because it can trade space for time—retreat, regroup, counterattack.
@@ -159,6 +174,13 @@ The rasputitsa **multiplies** that logic: it converts time into
 weeks when the enemy cannot advance. Depth plus rasputitsa equals
 recovery. The invader who has not reached decisive objectives before
 the mud has lost the race.
+
+RLL–RUSSIA–0037 (Seasonal Constraint on Campaigning Calendar): Weather
+and season create operational windows that reward or punish regardless
+of identity. Advance-rate and territorial momentum are most legible
+after spring rasputitsa (e.g. late May–July). Liability for campaign
+failure due to weather rests with whoever had authority over the
+calendar and over preparation. This MEM is the primary binding for 0037.
 
 ────────────────────────────────────────────────────────────
 VII. CONTINUITY INSIGHTS (RAW)

@@ -1,8 +1,8 @@
-MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA — v3.0
+MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA — v3.1
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
+Version: 3.1
 Supersedes: MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA v2.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
@@ -26,6 +26,7 @@ WAR MEM RLL BINDING:
 • RLL–RUSSIA–0013 (Defeat as Diagnostic Revelation)
 • RLL–RUSSIA–0014 (Victory Requires Enemy Collapse)
 • RLL–RUSSIA–0015 (Attritional Grammar Over Maneuver)
+• RLL–RUSSIA–0037 (Seasonal Constraint on Campaigning Calendar) — October 1941 rasputitsa; advance-rate legibility; liability for calendar/preparation
 
 ────────────────────────────────────────────────────────────
 I. MEMORY PURPOSE & SCOPE

@@ -1,8 +1,8 @@
-MEM–RUSSIA–GEO–TAIGA — v3.0
+MEM–RUSSIA–GEO–TAIGA — v3.1
 Civilizational Memory Codex · Geographic Memory File
 ACTIVE · CANONICAL · MEARSHEIMER STRATEGIC COGNITION
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
+Version: 3.1
 Supersedes: MEM–RUSSIA–GEO–TAIGA v2.8
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
@@ -10,13 +10,14 @@ Subject: Taiga (Strategic–Geographic Endurance Basin)
 Dates: Permanent terrain logic (applies across all periods)
 Class: GEO–MEM (Geographic Memory)
 Cognitive Layer: CIV–MIND–MEARSHEIMER v3.0
-Last Update: January 2026
+Last Update: February 2026
 Word Count: ~2,600
 
 Governed by:
 • CIV–MEM–CORE v3.0
 • CIV–MEM–TEMPLATE v3.0
 • CIV–MIND–MEARSHEIMER v3.0 (STRATEGIC COGNITION)
+• CIV–SCHOLAR–RUSSIA · RLL–0037 (Seasonal Constraint on Campaigning Calendar) applies
 
 ────────────────────────────────────────────────────────────
 GEO–MEM COGNITIVE DECLARATION

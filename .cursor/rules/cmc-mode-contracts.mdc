@@ -20,7 +20,7 @@ Entity name mapping: Iran/Persia → PERSIA; Russia → RUSSIA; etc. Treat equiv
 
 - **SYSTEM:** Governance/template/audit/compliance/cursor-rules work (e.g. "audit alignment of governance files", "add a cursor rule", "relay to state" or "run relay-to-state protocol on STATE file", "upgrade templates to v3.4"). Operate in SYSTEM without requiring the user to say "system mode".
 - **STATE:** Decision support, MEM-grounded current-events analysis, CIV–STATE updates, entity-focused options. Requires MEM SCAN and CORE load when analyzing an entity.
-- **SCHOLAR (WRITE/LEARN/IMAGINE):** MEM authoring, LEARN traversal, doctrine/RLL proposals, historical synthesis, scenario exploration. Sub-mode can be inferred from action (edit MEM → WRITE; explore options → LEARN; "imagine" / scenario → IMAGINE).
+- **SCHOLAR (WRITE/LEARN/IMAGINE):** MEM authoring, LEARN traversal, doctrine/RLL proposals, historical synthesis, scenario exploration. Sub-mode inferred from action: edit MEM → WRITE; explore options / historical question with entity → LEARN. **Do not infer IMAGINE** from open-ended phrases like "imagine..." or "what if..." when no mode or entity is specified; treat as general conversation. IMAGINE is entered only when the user is already in SCHOLAR and explicitly invokes scenario/exploration (e.g. "imagine mode", "IMAGINE", or an option that leads to IMAGINE), or when the user explicitly requests IMAGINE with an entity.
 
 **Explicit override:** If the user names a mode ("system mode", "write mode", "STATE", "LEARN", etc.) or entity, that wins over inference.
 

@@ -1,13 +1,35 @@
-CIV–STATE–TEMPLATE — v3.9
+CIV–STATE–TEMPLATE — v3.11
 Civilizational Memory Codex · STATE File Template
 
 Status: ACTIVE · CANONICAL
-Version: 3.9
-Supersedes: CIV–STATE–TEMPLATE v3.8
-Upgrade Type: DOMESTIC POLITICS IMPACT / ADVICE — PROCEDURE X-O
+Version: 3.11
+Supersedes: CIV–STATE–TEMPLATE v3.10
+Upgrade Type: POLITY VS ACTOR · SIGNALS AS TRIGGERS
 Class: CIV–STATE–TEMPLATE (Decision-Support Governance)
 Compatibility: CIV–MEM–CORE v3.4 · CMC 3.4
 Last Update: 17 February 2026
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.11) — POLITY VS ACTOR · SIGNALS AS TRIGGERS
+────────────────────────────────────────────────────────────
+Decision Points (X-B): when presenting decision options, surface
+polity vs actor in one line where both doctrine/RLL and revealed
+preference apply (CONCEPT–GOVERNING–RULES–VS–EVIDENCE IV). Signal
+Check (X-J): discriminating signals and signal checks defined as the
+STATE analogue of event triggers — when to update options, re-run
+activities, or flag doctrine stress.
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (v3.10) — CONSTRAINT BACKBONE / DOCTRINE–RLL STRESS
+────────────────────────────────────────────────────────────
+One constraint backbone: material options and scenario branches must
+not assume violation of doctrine Hard Constraints or bound RLLs.
+Relay adds step 4c (material options vs doctrine/RLL). Scenario Tree
+closure adds item 6 (doctrine/RLL stress). Assumption Stress Test
+closure adds item 5 (flag doctrine/RLL if falsified assumption maps).
+Completeness checklist (XIII) adds bullet: material options checked
+against doctrine/RLL; flag stress. Reference: CONCEPT–GOVERNING–
+RULES–VS–EVIDENCE.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v3.9) — DOMESTIC POLITICS IMPACT / ADVICE
@@ -1179,6 +1201,10 @@ PROCEDURE:
      observer recommends)
    • Mutually exclusive or at least meaningfully distinct
    • Typically 3 options covering the decision space
+   • **Polity vs actor (when both known):** Where doctrine/RLL and
+     revealed preference both apply, surface in one line, e.g.
+     "Option B is doctrine-consistent; revealed preference has
+     favoured Option A." See CONCEPT–GOVERNING–RULES–VS–EVIDENCE IV.
    • **Accommodation/reversal option (when applicable):** When the
      decision involves a commitment (alliance support, arms transfer,
      presence, or confrontation with a rival), the option set MUST
@@ -1574,6 +1600,10 @@ When user selects session closure, deliver:
    the STATE file's Material Options (Section IV)
 4. Discriminating signals: "assumption X will be falsified within
    N months if Y occurs" — creates a monitoring checklist
+5. Doctrine/RLL stress: If the falsified or weakened assumption
+   maps to a doctrine Hard Constraint or a bound RLL for this
+   entity, state which and flag for doctrine/RLL review (e.g. add
+   to relay proposal or Pattern Audit).
 
 ACTIVITY RECORD:
 Assumption Stress Test does not require a separate ARC file. Its
@@ -1683,6 +1713,11 @@ When user selects session closure, deliver:
    ("watch for X; if it happens, branch A activates")
 5. Proposed STATE file updates if any branch shifts a binding
    constraint or Material Option confidence
+6. Doctrine/RLL stress: If any branch assumed or implied an
+   outcome that contradicts a doctrine Hard Constraint or a
+   bound RLL for this entity, state which branch and which
+   constraint/RLL and flag for doctrine review (e.g. add to
+   relay proposal or Pattern Audit).
 
 ACTIVITY RECORD (ARC–[CIV]–SCENARIO–TREES):
 Each civilization with a STATE file maintains a Scenario Tree
@@ -2145,6 +2180,11 @@ trigger; the user decides whether to follow it.
 ────────────────────────────────────────────────────────────
 X-J. POST-EVENT SIGNAL CHECK (PROCEDURE)
 ────────────────────────────────────────────────────────────
+Discriminating signals and signal checks are the STATE analogue of
+event triggers: they define when to update material options, re-run
+an activity, or flag doctrine stress. When a signal fires or a check
+completes, the system knows "update now."
+
 Signal Check is a STATE procedure used when a key event (summit,
 round of talks, etc.) has occurred and the entity needs to interpret
 counterpart/opponent intent from observable behaviour in news. It
@@ -2706,6 +2746,9 @@ Before finalizing any CIV–STATE file:
       standard 8-slot menu) when invoked?
 - [ ] Activity records maintained for Decision Points, Stability
       Watch, Scenario Trees, and Cross-Entity Pressure Tests?
+- [ ] Material options checked against doctrine Hard Constraints
+      and bound RLLs — no option assumes their violation; if one
+      does, flagged as doctrine/RLL stress?
 ────────────────────────────────────────────────────────────
 XIV. RELAY TO STATE PROTOCOL (sources → STATE session; transfer = separate)
 ────────────────────────────────────────────────────────────
@@ -2770,6 +2813,13 @@ RELAY TO STATE PROCEDURE:
    activating — recommend Pattern Audit or Assumption Stress Test"
    This is a flag, not a full test. Full validation happens in
    Pattern Audit (X-H, Step 5b).
+4c. MATERIAL OPTIONS VS DOCTRINE/RLL: For each material option
+   in Section IV, confirm it does not assume or rely on violation
+   of a doctrine Hard Constraint or a bound RLL for this entity.
+   If any option does, list it in the relay output as a proposed
+   doctrine-stress or RLL-stress finding (for Pattern Audit or
+   doctrine review). This keeps "what can happen" aligned with one
+   constraint backbone (see CONCEPT–GOVERNING–RULES–VS–EVIDENCE).
 5. Propose specific updates to affected sections (do not apply)
 6. Present proposal and seed STATE session (8 options + activity menu)
 7. TRANSFER TO STATE (separate step): Only when user explicitly
@@ -2837,5 +2887,5 @@ Per Version Decoupling (CMC 3.1+):
 • Do not increment for governance changes
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–STATE–TEMPLATE v3.9
+END OF FILE — CIV–STATE–TEMPLATE v3.11
 ────────────────────────────────────────────────────────────

@@ -230,7 +230,22 @@ FORBIDS
 • Predictive usage
 
 ────────────────────────────────────────────────────────────
-XII. VERSIONING & CANONICAL STATUS
+XII. CONSTRAINT QUICK-REFERENCE (OPTIONAL)
+────────────────────────────────────────────────────────────
+Derived CIV–DOCTRINE files MAY include a short block that lists each
+active doctrine Hard Constraint and each bound RLL in one line. This
+supports fast consistency checks (relay 4c, Scenario Tree closure,
+Stress Test closure) without re-parsing full doctrine prose.
+
+Format (one line per doctrine Hard Constraint and per bound RLL):
+• Doctrine [name]: If [condition X] then doctrine review.
+• RLL–[ID]: [One-line pattern.]
+
+Update the block when doctrines or RLLs change. Reference:
+CONCEPT–GOVERNING–RULES–VS–EVIDENCE Section VI.
+
+────────────────────────────────────────────────────────────
+XIII. VERSIONING & CANONICAL STATUS
 ────────────────────────────────────────────────────────────
 This template is CANONICAL.
 

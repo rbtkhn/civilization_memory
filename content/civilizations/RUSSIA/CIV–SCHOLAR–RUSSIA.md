@@ -237,6 +237,17 @@ RLL–RUSSIA–0036 — Sacral Centre Vacancy and Internalisation Law
   **Template**: 988 alignment → 1453 vacancy → Ivan III (marriage, eagle)
   → Filofei (Third Rome).
 
+RLL–RUSSIA–0037 — Seasonal Constraint on Campaigning Calendar Law  
+→ Weather and season (rasputitsa, winter, thaw) create operational windows
+  that reward or punish regardless of identity. The side that depends on
+  continuous momentum loses when mud or cold hits; the side with depth and
+  the ability to wait gains. Advance-rate and territorial momentum are most
+  legible after spring rasputitsa (e.g. late May–July). Liability for
+  campaign failure due to weather rests with whoever had authority over the
+  calendar and over preparation. Related: RLL–0012 (Strategic Depth).
+  **Template**: 1812 (autumn mud, winter); Barbarossa (October 1941);
+  STATE advance-rate assessment timing.
+
 All listed RLLs are ACTIVE and BOUND.
 
 ────────────────────────────────────────────────────────────
@@ -687,6 +698,19 @@ RLL–RUSSIA–0033 (PROPOSED) — Sovereign Restraint vs Expansion Option Law
   in external domain → system outcome; domestic override of reform → brittleness
   (exhaustion deferred to successor). Refinement: 0033 applies per domain
   (foreign vs domestic); same sovereign can adopt in one and override in other.
+
+RLL–RUSSIA–0037 — BOUND (user authorization 2026-02-17); moved from
+  V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS. Seasonal Constraint on
+  Campaigning Calendar Law. Full derivation and evidence: LEARN session
+  2026-02 (weather in Russia GEO; Erickson in RASPUTITSA; Mearsheimer weather
+  analysis; Barnes liability; multi-mind; 1812, Germania cross-civ; STATE–
+  RUSSIA seasonal note). Synthesis (H) follow-on (c). Recursive move: When
+  reading WAR or GEO MEMs, ask what seasonal window applied; when assessing
+  current operations (STATE), ask whether advance-rate is being read in or
+  out of the informative window. **Binding**: MEM–RUSSIA–WAR–RASPUTITSA,
+  MEM–RUSSIA–GEO–FOREST–ZONE, MEM–RUSSIA–GEO–TUNDRA, MEM–RUSSIA–GEO–TAIGA,
+  MEM–RUSSIA–WAR–NAPOLEON, MEM–RUSSIA–WAR–GREAT–PATRIOTIC–OPERATION–BARBAROSSA,
+  MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOSCOW. **Scope**: WAR, GEO, STATE.
 
 RLL–RUSSIA–0034 — BOUND (user authorization 2026-02-16); moved from
   V.D PROPOSED to V. BOUND RECURSIVE LEARNING LAWS. Full derivation and
@@ -1175,6 +1199,11 @@ Session 2026-02-16 (LEARN · STATE relay seed · legitimate counterpart, exit pa
 • **Source:** STATE session ENTRY 015 used as seed for LEARN (relay = seed; no automatic write). Content: Zelensky presidency exit paths, actor leverage, discriminating signals, Moscow optimizes for long-term stability → pliant replacement preferred.
 • **LEARN coverage:** Mercouris (legitimacy/ratification grammar — Vienna, Third Rome/Constantinople); Mearsheimer (structural lock-in, signed settlement as reference point, Brest-Litovsk caveat); Barnes (liability on signatory); Backward (1856, 1905 incumbent signs; 1918 replacement signs, later repudiated); Multi-mind (all three on pliant replacement vs Zelensky vs chaos).
 • **Pattern note for SCHOLAR:** "Legitimate counterpart who can sign" fits Russian legitimacy grammar as **ratification** — authority recognized or accepted, not only imposed (Vienna as arbiter among sovereigns; Third Rome/Constantinople as transfer of legitimacy). For settlement or regime transition: pliant replacement who can sign > incumbent who cannot (Zelensky) > chaos (no signatory). Use when LEARN or WRITE touches settlement design, war termination, counterpart legitimacy, or regime transition; cross-reference STATE Section VII Zelensky exit paths pattern. Historical anchors: MEM–RUSSIA–CONGRESS–VIENNA, MEM–RUSSIA–THIRD–ROME, MEM–RUSSIA–CONSTANTINOPLE, MEM–RUSSIA–WAR–CRIMEAN (1856), MEM–RUSSIA–WAR–RUSSO–JAPANESE (1905), MEM–RUSSIA–BOLSHEVIK–REVOLUTION (1918).
+
+Session 2026-03 (STATE relay · seasonal and rhetorical constraints on settlement):
+• **Relay from STATE** (CIV–STATE–TEMPLATE §XIV-B). Source: STATE session 17 Feb–March 2026; CIV–STATE–RUSSIA ENTRY 016; Mercouris 17 Feb 2026 transcript; Geneva day-one, Kartapolov/Galuzin, Konstantinovka evidence, rasputitsa, signal check, probability assessments.
+• **SYNTHESIS (DRAFT): Seasonal and rhetorical constraints on settlement.** Claim: Rasputitsa (spring mud March–May) delays when advance rate is most visible; maximal rhetoric (Kartapolov/Galuzin) raises the bar for what counts as "success" and narrows Russian and Western/Ukrainian room for negotiation. The two interact: assessment of "relative degradation" is most informative after spring rasputitsa; by then, public annexation/trusteeship framing may have further reduced scope for a face-saving deal. Assumptions Box: (1) Rasputitsa materially constrains major mechanized offensives so that advance-rate signal is stronger late May–September; (2) Maximal public rhetoric (annexation, trusteeship) raises the domestically acceptable "success" bar and narrows exit ramps for both Russia and counterparts; (3) The two constraints are temporally sequenced (rhetoric already raised by 17 Feb 2026; rasputitsa delays the window when advance rate is most discriminative). Confidence: TIER 3 (50–70%). Status: DRAFT; validate against post–spring rasputitsa advance-rate data and next negotiation rounds. Linchpin: Assumption (2)—rhetoric as constraint on settlement space. Source MEMs: MEM–RUSSIA–ROMANOV–NICHOLAS–II (maximal rhetoric narrowing space), MEM–RUSSIA–CONGRESS–VIENNA (concede form, retain substance); STATE Section VII Geneva Round pattern, rasputitsa bullet, Kartapolov/Galuzin evidence. Use when LEARN or STATE assesses settlement feasibility, advance-rate timing, or interaction of seasonal and rhetorical constraints.
+• **Validation test (Russia MEM corpus):** Assumption 1 (rasputitsa constrains offensives; advance-rate signal stronger late May–Sept): **SUPPORT.** MEM–RUSSIA–WAR–RASPUTITSA — spring rasputitsa March–April (variable), autumn Oct–Nov; "spring halts operations"; "The rasputitsa thus defined the campaigning calendar: attack in summer, or not at all" (III.D Spring 1942); Keegan paradox (winter destroys, spring halts); scope includes Ukraine (European Russia, Belarus, Ukraine; MEM–RUSSIA–UKRAINE same mud belt). MEM–RUSSIA–GEO–FOREST–ZONE — seasonal windows constrain operations; rasputitsa halts movement. MEM–RUSSIA–WAR–GREAT–PATRIOTIC–MOSCOW, BARBAROSSA — October 1941 rasputitsa, spring 1942 thaw halted operations. No MEM contradicts. Assumption 2 (maximal rhetoric raises bar, narrows exit ramps): **SUPPORT.** MEM–RUSSIA–ROMANOV–NICHOLAS–II — "To yield an inch of this heritage would be to betray"; reform conceded tactically (1905 Duma), not structurally → "legitimacy half-life rather than renewal." Direct fit: maximal commitment narrowed space for structural concession. MEM–RUSSIA–CONGRESS–VIENNA — "Russia concedes form, retains substance" on Poland; when bar is negotiable, exit ramp exists. Contrast supports synthesis (Vienna = bar negotiable; Nicholas = bar maximal). MEM–RUSSIA–PANIN — restraint articulated vs sovereign override; when sovereign chooses expansion over equilibrium, rhetoric/position narrows or opens exit; Catherine's override = purpose shifted "from equilibrium to expansion." Assumption 3 (temporal sequence): Not directly testable from MEMs (current-events claim); MEMs support (a) rhetoric can narrow space and (b) rasputitsa delays tempo; interaction structurally plausible. **Stress:** MEM–RUSSIA–WAR–CRIMEAN — Paris 1856 settlement after military defeat. Settlement can occur when defeat overrides prior position; synthesis applies in "no defeat yet" / attrition phase; once defeat is clear, settlement may be forced despite prior rhetoric. Boundary: synthesis holds until defeat or regime change forces a new game. **Verdict:** DRAFT validated against corpus; Assumptions 1 and 2 supported; Assumption 3 plausible; boundary (defeat overrides rhetoric) noted. Confidence TIER 3 (50–70%) unchanged.
 
 v2.6 changes (TEMPLATE v2.5 COMPLIANCE):
 • Upgraded to CIV–SCHOLAR–TEMPLATE v2.5 compliance

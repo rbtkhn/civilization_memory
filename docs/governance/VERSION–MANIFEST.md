@@ -209,6 +209,13 @@ Note: PROPOSAL–CURRENT–EVENTS–PROTOCOL.md remains partially absorbed
 by CIV–STATE; residual aspects are part of active 3.3 integration scope.
 
 ────────────────────────────────────────────────────────────
+V.1. PRECONDITION FOR CMC 4.0 (UPGRADE GATE)
+────────────────────────────────────────────────────────────
+Upgrade to CMC 4.0 is gated on: **Telegram bot integration implemented**
+(see CMC–BOOTSTRAP, block "PRECONDITION FOR CMC 4.0"). When that gate
+is satisfied, version 4.0 may be released.
+
+────────────────────────────────────────────────────────────
 VI. QUICK BINDING DECLARATION
 ────────────────────────────────────────────────────────────
 For session startup, declare:

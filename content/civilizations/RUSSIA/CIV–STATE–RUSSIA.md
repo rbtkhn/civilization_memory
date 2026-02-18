@@ -486,6 +486,17 @@ OPTION A: Endurance Through Attrition
   advance rate as discriminating variable unchanged. Binding constraint
   (relative degradation) not independently assessed in this update.
 
+  EVIDENCE UPDATE 7 (March 2026 — Konstantinovka Russian entry):
+  Russian forces have entered the southwest and southern parts of
+  Konstantinovka (residential areas); assaults on southeastern
+  outskirts (Santurinovka, Staraya Derevnya); supply routes cut in
+  western part of city (Pushilin/DPR 16 Feb). Sources: TASS (Russian
+  Politics & Diplomacy), Voennoedelo, ISW (Feb 2026). Direction:
+  favourable to Option A (advance rate as discriminating variable);
+  P(Konstantinovka under Russian control by end of May 2026) under
+  review, may be revised toward HIGH (Section VII Geneva Round
+  pattern).
+
 ────────────────────────────────────────────────────────────
 
 OPTION B: Negotiated Settlement With Minimum Viable Gains
@@ -1179,6 +1190,54 @@ PATTERN: Geneva Round (Feb 2026) — Legitimacy and Leverage
     main offensive window typically late May–September. Advance-rate
     assessment is most informative after spring rasputitsa (e.g. late
     May–July), not only in the first 4–8 weeks post-Geneva.
+  • Probability assessment (2026-03): P(Next trilateral round
+    scheduled and held by end of March 2026) MODERATE-HIGH. Conditional
+    on no format collapse (no party publicly withdrawing from format)
+    before end of March. Evidence: Kremlin "more talks await" (Moscow
+    Times 17 Feb); next round indicated post–17 Feb Geneva; process
+    continued in first 2–4 weeks. MEM parallel: multi-round negotiation
+    persistence (Vietnam Paris, Congress of Vienna) supports process
+    continuation even without substantive movement. Discriminating: move
+    to HIGH if date/venue announced by mid-March; move to LOW if Russia
+    or Ukraine publicly withdraws from trilateral format or US drops
+    convening role. Linked to Post-Geneva signal check (X-J PREDICTION
+    LINK).
+  • Probability assessment (2026-03): P(Konstantinovka under Russian
+    control by end of May 2026) MODERATE-HIGH. Event: Russian forces
+    (or Russian-backed DPR) hold effective control of Konstantinovka
+    (e.g. Ukrainian government no longer administers or defends the
+    town; ISW or equivalent assesses Russian control). Conditional on
+    no major external change (e.g. ceasefire, large-scale Western
+    intervention). Evidence: Russian forces cutting supply lines west
+    of Konstantinovka (Pushilin/DPR, Voennoedelo, ISW Feb 2026);
+    Kostyantynivka–Druzhkivka area Russian advances (ISW 10 Feb, 16
+    Feb); Mercouris 17 Feb "turning point," "resistance starting to
+    fall apart," "probably some weeks of heavy fighting." Rasputitsa
+    (March–May mud) may slow final mechanized push; end of May is
+    start of dry offensive window—assessment horizon allows for
+    fall during or just after mud season. MEM parallel: Leningrad
+    (MEM–RUSSIA–WAR–GREAT–PATRIOTIC–LENINGRAD) is counter-case (city
+    held 872 days); Konstantinovka is smaller node, supply already
+    cut, resistance described as fragmenting—outcome distribution
+    distinct.     Discriminating: move to HIGH if Russian entry to
+    center or Ukrainian withdrawal announced, or adjacent axis
+    (e.g. Druzhkivka) falls; move to LOW if Ukrainian reinforcement
+    confirmed and Russian advance stalls, or prolonged stalemate
+    in sector. Linked to advance-rate discriminating variable
+    (Post-Geneva signal check category 5).
+  • Evidence update (2026-03): Russian forces have entered the
+    southwest and southern parts of Konstantinovka (residential
+    areas); assaults also on southeastern outskirts (Santurinovka,
+    Staraya Derevnya). Supply routes cut in western part of city
+    (Pushilin/DPR 16 Feb). Sources: TASS (Russian Politics &
+    Diplomacy), Voennoedelo, ISW (Feb 2026). Confirms Russian
+    presence inside city, not only on approaches.
+  • Probability assessment revision note (2026-03): P(Konstantinovka
+    by end of May 2026) under review. Russian entry into
+    southwest/south of city is a discriminating signal toward
+    HIGH; assessment may be revised upward pending further
+    advance-rate data (center control or full Ukrainian
+    withdrawal).
 
 PATTERN: Zelensky presidency exit paths (Feb 2026)
   Activation: MODERATE (when assessing settlement feasibility or Ukrainian
@@ -1689,6 +1748,33 @@ ENTRY 015 — 16 February 2026
   actor leverage, discriminating signals, long-term stability (pliant
   replacement preferred), signal-check design. Any SCHOLAR update
   follows LEARN exploration and user approval.
+
+ENTRY 016 — 17 February–March 2026
+  Session: STATE analysis (Mercouris 17 Feb transcript); signal check;
+  probability assessments; evidence updates; relay to scholar.
+  Source: Mercouris program transcript 17 Feb 2026 (Geneva day-one,
+  Kartapolov annexation, Galuzin trusteeship, Ryabkov, Konstantinovka/
+  Kupiansk/Zaporizhzhia, Nabiullina); MEM–RUSSIA–ROMANOV–NICHOLAS–II,
+  MEM–RUSSIA–CONGRESS–VIENNA; web-sourced signal-check run; TASS/
+  Voennoedelo/ISW (Konstantinovka Russian entry).
+  Changes:
+  • Section VII — rasputitsa seasonal constraint added to Geneva Round
+    pattern; probability assessments (next trilateral round by end March,
+    Konstantinovka under Russian control by end May) added and linked to
+    signal check; evidence update (Russian entry southwest/south
+    Konstantinovka) and revision note (P toward HIGH).
+  • Section IV Option A — Evidence Update 7 (Konstantinovka Russian entry;
+    TASS, Voennoedelo, ISW); direction favourable to advance-rate thesis.
+  • Post-Geneva signal check run (X-J): five categories scored; process
+    C→A, substance C→B; tension preserved.
+  • SYSTEM: RUN–AUDIT–CIV–MIND–MERCOURIS–AUTHENTICITY–TRANSCRIPT–
+    2026-02-17 (Mercouris 17 Feb transcript); profile authenticated.
+  Learning-relevant: Nicholas II vs Vienna precedent (maximal rhetoric
+  narrowing settlement space); Kartapolov/Galuzin as first senior
+  annexation/trusteeship framing; falsifiable predictions from
+  transcript; cross-entity (Ukrainian military reading of Kartapolov).
+  **Relay to SCHOLAR (2026-03):** Session output relayed per §XIV-B.
+  Proposed SCHOLAR additions below; no transfer until user approves.
 
 ────────────────────────────────────────────────────────────
 END OF FILE — CIV–STATE–RUSSIA v2.0

@@ -1,8 +1,8 @@
-MEM–RUSSIA–WAR–NAPOLEON — v3.1
+MEM–RUSSIA–WAR–NAPOLEON — v3.2
 Civilizational Memory Codex · Memory File
 ACTIVE · CANONICAL · COMPLIANT
 Status: ACTIVE · CANONICAL · COMPLIANT (CIV–MEM–TEMPLATE v3.0)
-Version: 3.0
+Version: 3.2
 Supersedes: MEM–RUSSIA–WAR–NAPOLEON v3.0
 Upgrade Type: ALIGNMENT · v3.0
 Civilization: RUSSIA (Русская цивилизация)
@@ -20,6 +20,11 @@ Governed by:
 SUBJECT TYPE DECLARATION (v3.0):
 This MEM addresses a WELL-DOCUMENTED subject.
 Applied requirements: PRIMARY ≥4, CONTEXTUAL ≥3, SECONDARY ≥4, CRITICAL ≥2
+
+WAR MEM RLL BINDING:
+• RLL–RUSSIA–0012 (Strategic Depth as Primary Weapon) — withdrawal, depth, time
+• RLL–RUSSIA–0014 (Victory Requires Enemy Collapse) — French system collapse
+• RLL–RUSSIA–0037 (Seasonal Constraint on Campaigning Calendar) — autumn 1812 mud, winter; climatic exposure; liability for calendar/preparation
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.0)

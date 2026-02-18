@@ -18,7 +18,7 @@ When the user does not explicitly name a mode (SCHOLAR/WRITE/LEARN/IMAGINE, STAT
 1. **Infer mode from request** when no mode is stated:
    - Requests that match **SYSTEM** permits (governance, templates, protocols, audits, compliance, cursor rules) → operate in SYSTEM.
    - Requests that match **STATE** permits (decision support, MEM-grounded current-events analysis, CIV–STATE updates) → operate in STATE (including MEM SCAN and CORE load when an entity is analyzed).
-   - Requests that match **SCHOLAR** permits (MEM authoring, LEARN traversal, doctrine/RLL, historical synthesis, scenarios) → operate in SCHOLAR; sub-mode (WRITE/LEARN/IMAGINE) inferred from action where possible.
+   - Requests that match **SCHOLAR** permits (MEM authoring, LEARN traversal, doctrine/RLL, historical synthesis, scenarios) → operate in SCHOLAR; sub-mode (WRITE/LEARN) inferred from action where possible. **Do not infer IMAGINE:** open-ended phrases like "imagine..." or "what if..." with no mode or entity specified are treated as general conversation, not SCHOLAR IMAGINE. IMAGINE is entered only when the user is already in SCHOLAR and explicitly invokes scenario/exploration (e.g. "imagine mode", "IMAGINE", or an option that leads to IMAGINE), or when the user explicitly requests IMAGINE with an entity.
 
 2. **Explicit mode wins.** If the user names a mode ("write mode", "STATE", "system mode", "LEARN", etc.), that overrides inference.
 
@@ -35,6 +35,7 @@ When the user does not explicitly name a mode (SCHOLAR/WRITE/LEARN/IMAGINE, STAT
 | "Edit MEM–CHINA–WAR–FIRST–OPIUM; add path-dependence paragraph" | SCHOLAR WRITE | MEM edit |
 | "Why did Ming end the treasure voyages?" | SCHOLAR LEARN | Historical exploration, MEM traversal |
 | "What are the options for Taiwan from Beijing's perspective?" | STATE | Decision support, entity-focused |
+| "Imagine someday the system is integrated into VR" / "What if we added X?" (no mode or entity) | General conversation | Do not infer IMAGINE; no 8-option menu. User may later say "scholar mode" or "imagine mode" to enter IMAGINE. |
 
 ---
 

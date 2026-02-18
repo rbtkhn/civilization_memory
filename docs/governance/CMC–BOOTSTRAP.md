@@ -3,7 +3,7 @@ Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 Governed by: CMC 3.4
-Last Update: 14 February 2026
+Last Update: 17 February 2026
 
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
@@ -21,6 +21,34 @@ corpus, ARC, and governance touchpoints to that benchmark; continue in a new
 conversation with this as the session priority.
 
 UPDATE (2026-02-14): India Phase II activated; CIV–DOCTRINE–INDIA v1.0 created (doctrines 01–04); RLL–INDIA–0001, 0002 bound; SYNTHESIS 0001–0004 accepted as doctrine. Doctrine mirror and Scholar Phase II complete per CHECKLIST–INDIA–PHASE–II–READINESS–2026. CIV–STATE–INDIA v1.0 created (derived from SCHOLAR–INDIA, CORE, DOCTRINE, MEM–RELEVANCE). Remaining benchmark work: MEM corpus path-dependence/ARC depth, template alignment audit.
+
+────────────────────────────────────────────────────────────
+PRECONDITION FOR CMC 4.0 (UPGRADE GATE)
+────────────────────────────────────────────────────────────
+**Goal:** Implement Telegram bot integration before upgrading to CMC 4.0.
+
+Telegram bot integration is the designated first consumer of the CIV–MEM
+engine. The upgrade to governance version 4.0 is gated on this integration
+being implemented (completed, documented, and usable).
+
+Scope:
+• apps/chat (engine, session, load-content, prompts)
+• Telegram adapter: polling, A–H inline keyboard, group @mention/reply
+• Canonical response format (docs/RESPONSE–FORMAT.md)
+• Option labels readable alone (accessibility/voice)
+
+"Implemented" means: bot runs against the repo's content (STATE,
+MEM–RELEVANCE for entity); user can interact via Telegram and receive
+responses with options; behaviour is documented and stable enough to
+treat as the first proof-of-consumer before v4.0.
+
+When complete: update this block to "Completed (date): Telegram bot
+integration implemented. Gate satisfied for CMC 4.0." Then version
+upgrade may proceed.
+
+NEXT CONVERSATION (user intent): Commence **Session 1** of the Telegram
+bot launch plan (apps/chat/docs/LAUNCH–6–SESSIONS.md): env, install,
+first run. Goal: .env set, npm install, npm start, /health OK.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (CMC 3.3) — INTEGRATION PROGRAM ACTIVATION
@@ -530,6 +558,8 @@ cmc-relay-to-state.
 TEMPLATE: docs/templates/CIV–STATE–TEMPLATE.md (governance v3.4; internal rev v1.12)
 
 EXTERNAL-FACING OUTPUT: For reports, teaching materials, or simplified UIs — content-based perspective names, no MIND/jargon, two argument principles (grounded parallel; counter-check before absence), minimal navigation set. See docs/governance/PRINCIPLES–EXTERNAL–INTERFACE.md.
+
+CONTENT QUALITY VALIDATION: To prove the system consistently generates engaging and insightful content before seeking consumers, use the protocol, definitions, and checklist in docs/governance/CONCEPT–CONTENT–QUALITY–VALIDATION.md.
 
 MODE SWITCHING:
 • "switch to state mode" or "state mode" → STATE
