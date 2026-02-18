@@ -10,6 +10,14 @@ const GROUP_TYPES = ['group', 'supergroup'];
 
 function buildOptionsKeyboard(options) {
   if (!options || options.length === 0) return undefined;
+  // Mode/entity choice: options have .id and .label, optionally .letter — show "A — Label" on button
+  if (options[0].id !== undefined) {
+    const buttonText = (o) => (o.letter ? `${o.letter} — ${o.label}` : o.label);
+    return {
+      inline_keyboard: [options.map((o) => ({ text: buttonText(o), callback_data: o.id }))],
+    };
+  }
+  // A–H options: .letter and .label; two rows of letter buttons
   const row1 = options.slice(0, 4).map((o) => ({ text: o.letter, callback_data: o.letter }));
   const row2 = options.slice(4, 8).map((o) => ({ text: o.letter, callback_data: o.letter }));
   return {
@@ -19,6 +27,9 @@ function buildOptionsKeyboard(options) {
 
 function formatOptionsList(options) {
   if (!options || options.length === 0) return '';
+  if (options[0].id !== undefined) {
+    return options.map((o) => (o.letter ? `${o.letter} — ${o.label}` : `• ${o.label}`)).join('\n');
+  }
   return options.map((o) => `${o.letter} — ${o.label}`).join('\n');
 }
 

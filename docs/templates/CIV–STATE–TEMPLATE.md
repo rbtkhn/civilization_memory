@@ -669,6 +669,22 @@ SECTION VIII: CROSS-ENTITY LINKS
   • Key distinctions
   • Relevant adversary or partner dynamics
 
+SECTION VIII-A: INFLUENCE FROM CONCLUDED ENTITIES (OPTIONAL)
+  When this entity has been historically influenced by or claims succession
+  from a FRAGMENTED-SOURCE (or reference) entity, add this subsection.
+  List per concluded file: concluded STATE file; influence type (SUCCESSION_
+  CLAIM, PARITY_LEGACY, CULTURAL_GRAMMAR, INSTITUTIONAL_TRANSFER, CONQUEST_
+  LEGACY); **Weight** (HIGH | MEDIUM | LOW) — when to apply (HIGH: whenever
+  type is relevant; MEDIUM: when topic touches influence domain; LOW: when
+  explicitly invoked or pattern crosses in); patterns and doctrines from that
+  file that apply; one-line application note. Omit Weight for legacy entries
+  (treated as HIGH). The system loads the concluded file's Section II and
+  Section VII and applies them as influence inputs per weight. **Design
+  scope:** Only two concluded entities are in scope for this mechanism:
+  CIV–STATE–ROME and CIV–STATE–ISLAM (no other concluded states are treated
+  as having comparable modern influence). See CONCEPT–STATE–INFLUENCE–
+  FROM–CONCLUDED–ENTITIES.
+
 SECTION IX: SOURCE VERSIONS (RELAY TO STATE REFERENCE)
   • Version of each source file STATE was last assessed against
   • Relay to state command reference

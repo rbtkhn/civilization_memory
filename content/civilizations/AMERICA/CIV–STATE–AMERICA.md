@@ -672,6 +672,23 @@ RUSSIA:
   Option C (prioritisation of extra-hemispheric competition may
   include Russia in Europe/Ukraine context).
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ROME (concluded 1453; FRAGMENTED-SOURCE)
+Influence type: CULTURAL_GRAMMAR (republican model, mixed constitution, virtue/duty; founders' Roman references — no succession claim)
+Patterns that apply: Pattern 6 (institutional absorption of shock), Pattern 7 (systems defeat genius)
+Doctrines/RLLs that apply: CIV–DOCTRINE–ROME 01 (institutional absorption), 04 (administration precedes ideology), 09 (systems defeat genius)
+Application note: Applies when analysing U.S. republican legitimacy, institutional continuity across crises, or procedural order as strength. Founders invoked Roman republic (Senate, virtue, mixed constitution); STATE–ROME patterns on institutional depth and absorption inform comparison. No claim to Roman succession; cultural and conceptual reference only.
+MEMs to prefer when topic touches this influence: MEM–ROME–REPUBLIC, MEM–ANGLIA–* (where Roman republican references appear in Anglian/American founding)
+
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY (20th-c. engagement with post-caliphal order; Middle East policy)
+Weight: LOW
+Patterns that apply: Pattern 1 (vacancy by abolition), 3 (polycentric legitimacy)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Apply when user or session explicitly invokes Islam/caliphal legacy or when decision clearly implicates post-1924 order or U.S. Middle East posture. Parity precedent as secondary lens.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–* (U.S.-relevant)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────

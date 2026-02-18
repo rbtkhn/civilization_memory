@@ -1,17 +1,17 @@
-CIV–CORE–ISLAM — v2.0
+CIV–CORE–ISLAM — v3.0
 Civilizational Memory Codex · Civilization Continuity Engine
 Sacred-Zone · Exit-Primacy · Demographic–Chokepoint Supremacy Edition
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Version: 2.0
-Supersedes: CIV–CORE–ISLAM V1.1
-Upgrade Type: TEMPLATE COMPLIANCE · HEADER HARDENING · TYPO CORRECTION
-Template Version Used: CIV–CORE–TEMPLATE v3.0 (civilization-specific structure: Demographic at VII; Technology at VIII; Military at IX; EPL at XVI; Verdict at XXI. Time Orientation embedded in III.)
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v2.2+)
+Version: 3.0
+Supersedes: CIV–CORE–ISLAM v2.0
+Upgrade Type: CMC 3.4 ALIGNMENT · OGE RECOGNITION · VERSION BUMP
+Template Version Used: CIV–CORE–TEMPLATE v3.4 (civilization-specific structure: Demographic at VII; Technology at VIII; Military at IX; EPL at XVI; Verdict at XXI. Time Orientation embedded in III.)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
 Conceptual Lineage: SCE–CIV–ISLAM V9.7.2 (doctrinal ancestry preserved)
-Civilization Phase: PHASE I (Accumulation)
+Civilization Phase: PHASE I — FOUNDATION
 Lock Level: STRUCTURAL (content expandable without renumbering)
-Governed by: CIV–MEM–CORE v3.0
+Governed by: CIV–MEM–CORE v3.4
 ARC Reference: CIV–ARC–ISLAM v2.0
 Temporal Boundaries (embedded): Ancient–4–476 / Medieval 476–1453 / Colonial 1453–1815 / Industrial–Modern 1815–present
 Last Update: February 2026
@@ -381,6 +381,20 @@ XVIII. STRATEGIC RED LINES
 Violations escalate non-linearly.
 
 ────────────────────────────────────────────────────────────
+XVIII.a OGE — CORE RECOGNITION
+────────────────────────────────────────────────────────────
+OGE is recognized as SYSTEM-LEVEL INTERACTION INFRASTRUCTURE.
+
+Binding Clarifications:
+• OGE is mandatory for all user-system interaction
+• OGE executes FIRST upon any mode entry or session start
+• OGE generates options, not conclusions
+• OGE introduces no belief, doctrine, or analysis
+
+OGE is NOT cognition, NOT authority, NOT a decision engine, NOT part of CIV–CORE logic.
+CIV–CORE does NOT implement OGE. CIV–CORE merely acknowledges its mandatory presence.
+
+────────────────────────────────────────────────────────────
 XIX. SCHOLAR MODE (ENABLED)
 ────────────────────────────────────────────────────────────
 
@@ -453,7 +467,18 @@ v2.0 updates:
 Reference: AUDIT–CORE–ISLAM–TEMPLATE–ALIGNMENT (2026-02-01)
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ISLAM — v2.0
+UPGRADE NOTE (v3.0) — CMC 3.4 ALIGNMENT · OGE RECOGNITION (2026-02-18)
+────────────────────────────────────────────────────────────
+• Content version: v2.0 → v3.0; Supersedes set to v2.0.
+• Template Version Used: v3.0 → v3.4; Compatibility: CMC v2.2+ → CIV / MEM / SCHOLAR / STATE (CMC v3.4); Governed by: v3.0 → v3.4.
+• Civilization Phase: PHASE I (Accumulation) → PHASE I — FOUNDATION (template parity).
+• Section XVIII.a added: OGE — CORE RECOGNITION (template § XV compliance).
+No axiom, diagnostic, or verdict logic changed.
+
+Reference: RUN–AUDIT–CORE–ROME–ISLAM–2026-02-18
+
+────────────────────────────────────────────────────────────
+END OF FILE — CIV–CORE–ISLAM — v3.0
 ────────────────────────────────────────────────────────────
 
 WORDCOUNT: ~2,400

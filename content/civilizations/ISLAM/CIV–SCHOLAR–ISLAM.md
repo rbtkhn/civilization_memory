@@ -1,30 +1,42 @@
-CIV–SCHOLAR–ISLAM — v2.0
+CIV–SCHOLAR–ISLAM — v3.0
 Civilizational Memory Codex · Scholar Accumulation Engine
 Learning–Chronology–Doctrine Journal
 
 Status: ACTIVE · PHASE I
 Activation State: ACCUMULATION (INGESTION PERMITTED)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: CIV / MEM / SCHOLAR Architecture (Phase I)
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
-Civilization Phase: PHASE I (Accumulation)
-Template Version Used: CIV–SCHOLAR–TEMPLATE v3.0
-Supersedes: CIV–SCHOLAR–ISLAM v1.0
+Civilization Phase: PHASE I — FOUNDATION
+Template Version Used: CIV–SCHOLAR–TEMPLATE v3.4
+Supersedes: CIV–SCHOLAR–ISLAM v2.0
 Derived from: CIV–SCHOLAR–TEMPLATE v2.10
-Governed by: CIV–SCHOLAR–PROTOCOL v3.0
-ARC Reference: CIV–ARC–ISLAM v2.0
+Governed by:
+• CIV–MEM–CORE v3.4
+• CIV–SCHOLAR–TEMPLATE v3.4
+• CIV–SCHOLAR–PROTOCOL v3.0
+• CIV–ARC–ISLAM v3.2 (EXTERNAL · MIRRORED)
+ARC Reference: CIV–ARC–ISLAM v3.2
 Last Update: February 2026
 
-Upgrade Type: MAJOR UPGRADE (v2.0)
-Scope: Phase I; expanded MEM corpus (Mongol cluster: Hulegu, Ilkhanate, Khwarazm, Assassins, Ayn Jalut); CIV–INDEX–ISLAM v3.0; ARC v1.4 (Weatherford); SYNTHESIS 0006 (caliphal capital succession).
+Upgrade Type: CMC 3.4 ALIGNMENT · VERSION BUMP (v3.0)
+Scope: Phase I; header and refs aligned to template v3.4, CORE v3.0, ARC v3.2. No doctrine or learning content changed.
 
 ────────────────────────────────────────────────────────────
 VERSION NOTE (v2.0)
 ────────────────────────────────────────────────────────────
 v2.0 — Major upgrade. Expanded source MEM corpus: MEM–ISLAM–MONGOL–HULEGU, MEM–ISLAM–MONGOL–ILKHANATE, MEM–ISLAM–DYNASTY–KHWARAZM, MEM–ISLAM–ASSASSINS, MEM–ISLAM–WAR–AYN–JALUT. ARC alignment: CIV–ARC–ISLAM v2.0 (Weatherford). Index: CIV–INDEX–ISLAM v3.0 (54 MEMs). SYNTHESIS 0006 (Damascus–Baghdad–Cairo–Istanbul) with terminal-mode analysis and Mearsheimer cognition. Phase I structure preserved; no doctrine freeze.
 
-Word Count: ~2,200
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (2026-02-18) — v3.0 VERSION BUMP · CMC 3.4 ALIGNMENT
+────────────────────────────────────────────────────────────
+• Content version: v2.0 → v3.0; Supersedes set to v2.0.
+• Header: Template Version Used → v3.4; Governed by → CIV–MEM–CORE v3.4, CIV–SCHOLAR–TEMPLATE v3.4, CIV–ARC–ISLAM v3.2; ARC Reference → v3.2; Compatibility → CIV / MEM / SCHOLAR / STATE (CMC v3.4); Civilization Phase → PHASE I — FOUNDATION.
+• Section I: CIV–CORE–ISLAM v2.0 → v3.0.
+• WORDCOUNT standardized. No doctrine, entries, or syntheses changed. Reference: RUN–AUDIT–SCHOLAR–ROME–ISLAM–2026-02-18.
+
+WORDCOUNT: ~2,200
 
 ────────────────────────────────────────────────────────────
 I. PURPOSE & AUTHORITY
@@ -39,7 +51,7 @@ This file preserves: what was ingested; when it was ingested; what beliefs were 
 
 Authority Flow (NON-REVERSIBLE): CIV–MEM–CORE → CIV–MEM–TEMPLATE → CIV–SCHOLAR–TEMPLATE → CIV–SCHOLAR–ISLAM. No Scholar file may override MEM law, ARC law, or Template law.
 
-CIV–CORE–ISLAM v2.0 governs diagnostic outputs (DPI, FRG, RCM, CAS, Sacred-Zone Status, FFG-ISLAM, GRID-ISLAM, EPL-ISLAM, RIR-ISLAM). This Scholar records learning; it does not replace CORE logic.
+CIV–CORE–ISLAM v3.0 governs diagnostic outputs (DPI, FRG, RCM, CAS, Sacred-Zone Status, FFG-ISLAM, GRID-ISLAM, EPL-ISLAM, RIR-ISLAM). This Scholar records learning; it does not replace CORE logic.
 
 ────────────────────────────────────────────────────────────
 II. SCHOLAR PHASE MODEL (HARD)
@@ -669,5 +681,5 @@ Candidate Beliefs: 1 (Gibbon tri-frame applicability)
 SDI Entries: 0
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ISLAM — v2.0
+END OF FILE — CIV–SCHOLAR–ISLAM — v3.0
 ────────────────────────────────────────────────────────────

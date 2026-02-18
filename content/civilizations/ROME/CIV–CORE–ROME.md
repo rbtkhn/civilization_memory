@@ -1,20 +1,20 @@
-CIV–CORE–ROME — v2.0
+CIV–CORE–ROME — v3.0
 Civilizational Strategy Codex · Civilization Continuity Engine
-Phase-Aware Template v2.0 Compliance · Legitimacy-First Sovereignty
+Phase-Aware Template v3.4 Compliance · Legitimacy-First Sovereignty
 
 Status: ACTIVE · CANONICAL · SCHOLAR-ENABLED · STAND-ALONE
-Supersedes: CIV–CORE–ROME v1.9
-Template Version Used: CIV–CORE–TEMPLATE v3.0
-Compatibility: CIV / MEM / SCHOLAR Architecture (CMC v3.0)
-Governed by: CIV–MEM–CORE v3.0
-Upgrade Type: MAJOR · TEMPLATE ALIGNMENT + LEGACY MIRROR REMOVAL
-Civilization Phase: PHASE I — FOUNDATION
+Supersedes: CIV–CORE–ROME v2.0
+Template Version Used: CIV–CORE–TEMPLATE v3.4
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
+Governed by: CIV–MEM–CORE v3.4
+Upgrade Type: VERSION BUMP · v3.0 (governance already at v3.4)
+Civilization Phase: PHASE II — DEVELOPMENT
 Lock Level: STRUCTURAL
 DIB Status: DEFINED · INACTIVE
 Scholar Reference Mode: READ-ONLY / DIB-GATED
 Conceptual Lineage: SCE–CIV–ROME V9.x (doctrinal ancestry preserved; format-harmonized)
-Last Update: January 2026
-Word Count: ~2,000
+Last Update: February 2026
+WORDCOUNT: ~2,000
 
 ────────────────────────────────────────────────────────────
 UPGRADE DECLARATION (BINDING)
@@ -45,6 +45,18 @@ HISTORICAL UPGRADE TRAIL:
 • v1.8: LOGE → TOGE rename propagation
 • v1.9: DOCTRINE MIRROR section added
 • v2.0: Template v2.0 alignment + legacy mirror removal
+
+UPGRADE NOTE (2026-02-17) — VERSION & PHASE ALIGNMENT (AUDIT REMEDIATION):
+• Template/Compatibility/Governed by: v3.0 → v3.4 (CMC 3.4 alignment)
+• Civilization Phase: PHASE I — FOUNDATION → PHASE II — DEVELOPMENT (BOOTSTRAP/SCHOLAR parity)
+• Doctrine mirror reference: v2.0 → v3.0 (Section XXIV)
+• Header: Word Count → WORDCOUNT (template parity)
+No axioms, diagnostics, or constraint logic changed.
+
+UPGRADE NOTE (2026-02-18) — v3.0 VERSION BUMP:
+• Content version: v2.0 → v3.0; Supersedes set to v2.0.
+• Compatibility line extended to include STATE (CIV / MEM / SCHOLAR / STATE).
+• No axiom, diagnostic, or constraint changes.
 
 ────────────────────────────────────────────────────────────
 I. CIVILIZATIONAL IDENTITY & PRIME AXIOMS (LOCKED)
@@ -378,7 +390,7 @@ C. COPYRIGHTED AUTHORS (CANONICAL — CLOSED LIST)
 XXIV. DOCTRINE MIRROR — ROME (DECLARATIVE MIRROR)
 ────────────────────────────────────────────────────────────
 CIV–DOCTRINE–ROME doctrines are mirrored verbatim from
-CIV–DOCTRINE–ROME v2.0 for citation and reference.
+CIV–DOCTRINE–ROME v3.0 for citation and reference.
 
 Mirroring Rules:
 • Mirroring is declarative, not interpretive
@@ -688,5 +700,5 @@ For governance, always consult the canonical template.
 
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–CORE–ROME — v2.0
+END OF FILE — CIV–CORE–ROME — v3.0
 ────────────────────────────────────────────────────────────

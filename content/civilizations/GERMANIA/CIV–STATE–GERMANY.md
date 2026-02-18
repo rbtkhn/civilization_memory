@@ -956,6 +956,23 @@ POLAND:
   Current: Poland is both a partner (EU, NATO) and a competitor
   for US attention and Eastern European leadership.
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ROME (concluded 1453; FRAGMENTED-SOURCE)
+Influence type: CULTURAL_GRAMMAR + INSTITUTIONAL_TRANSFER (Holy Roman Empire as Western fragment; Roman law reception; Carolingian federated template)
+Patterns that apply: Pattern 1 (fragment inheritance — HRE was fragment claimant), Pattern 3 (prior fragmentation 800), Pattern 6 (institutional absorption of shock)
+Doctrines/RLLs that apply: CIV–DOCTRINE–ROME 04 (administration precedes ideology), 06, 07 (fragment/vacancy for HRE context — Germany as HRE successor territory, not claiming Roman title)
+Application note: Applies to federated governance, subsidiarity, and consensus-based order (HRE legacy); fragmentation as default and unity as institutional achievement. Germany does not claim Roman succession; STATE–ROME informs analysis when assessing German institutional grammar (subsidiarity, EU as consensus framework) or historical HRE references. Voltaire's "neither holy, nor Roman, nor an empire" (STATE–ROME Section II) frames the fragment thesis for German institutional inheritance.
+MEMs to prefer when topic touches this influence: MEM–ROME–HOLY–ROMAN–EMPIRE, MEM–ROME–CHARLEMAGNE, MEM–GERMANIA–CHARLEMAGNE
+
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY (WWI Ottoman alliance; historical engagement only)
+Weight: LOW
+Patterns that apply: Pattern 1 (vacancy by abolition), 3 (polycentric legitimacy)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Apply when user or session explicitly invokes Islam/caliphal legacy or when decision implicates post-1924 order or German–Turkey/Islamicate interface. Parity as secondary lens.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–* (Germany-relevant)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────

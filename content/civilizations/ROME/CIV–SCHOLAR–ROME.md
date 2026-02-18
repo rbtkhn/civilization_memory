@@ -1,25 +1,40 @@
-CIV–SCHOLAR–ROME — v2.7
+CIV–SCHOLAR–ROME — v3.0
 Civilizational Strategy Codex · Scholar Constraint Grammar Engine
 Constraint Grammar Phase · Rome Civilization
 Repository: https://github.com/rbtkhn/civilization_memory
 
 Status: ACTIVE · CANONICAL · LOCKED
-Supersedes: CIV–SCHOLAR–ROME v2.6
-Upgrade Type: ADDITIVE · TEMPLATE v2.5 COMPLIANCE
+Supersedes: CIV–SCHOLAR–ROME v2.7
+Upgrade Type: VERSION BUMP · CMC 3.4 ALIGNMENT
 Activation State: ACTIVE (READ-ONLY)
 Sync State: UNSYNCED FROM CIV–CORE (BY DESIGN)
-Compatibility: MEM Architecture Only
+Compatibility: CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4)
 Governance Mode: MANUAL INGEST · EXPLICIT FREEZE REQUIRED
 Lock Level: TOTAL (no autonomous learning)
 
 Governed by:
-• CIV–MEM–CORE v3.0
-• CIV–SCHOLAR–TEMPLATE v3.0 (CURRENT)
+• CIV–MEM–CORE v3.4
+• CIV–SCHOLAR–TEMPLATE v3.4 (CURRENT)
 • CIV–SCHOLAR–GOVERNANCE–LAW v1.3 (or higher)
-• CIV–ARC–ROME v2.1 (EXTERNAL · MIRRORED)
+• CIV–ARC–ROME v3.2 (EXTERNAL · MIRRORED)
 
-Last Update: January 2026
-Word Count: ~8,200
+Last Update: February 2026
+WORDCOUNT: ~8,200
+
+────────────────────────────────────────────────────────────
+UPGRADE NOTE (2026-02-17) — VERSION ALIGNMENT (AUDIT REMEDIATION)
+────────────────────────────────────────────────────────────
+RUN–AUDIT–CORE–SCHOLAR–ROME–2026-02-17 remediation applied.
+• Governed by: CIV–MEM–CORE v3.4, CIV–SCHOLAR–TEMPLATE v3.4, CIV–ARC–ROME v3.2
+• Doctrine reference (Sections V, VIII): CIV–DOCTRINE–ROME v2.0 → v3.0
+• Section IX (ARC pointer): CIV–ARC–ROME v1.9 → v3.2; compliance sentence updated
+No learning entries, syntheses, or RLLs changed.
+
+UPGRADE NOTE (2026-02-18) — v3.0 VERSION BUMP · CMC 3.4 ALIGNMENT:
+• Content version: v2.7 → v3.0; Supersedes set to v2.7.
+• Compatibility: MEM Architecture Only → CIV / MEM / SCHOLAR / STATE Architecture (CMC v3.4).
+• Header: Word Count → WORDCOUNT (template parity).
+No learning entries, syntheses, or RLLs changed. Reference: RUN–AUDIT–SCHOLAR–ROME–ISLAM–2026-02-18.
 
 ────────────────────────────────────────────────────────────
 UPGRADE NOTE (v2.7) — TEMPLATE v2.5 COMPLIANCE
@@ -1477,7 +1492,7 @@ Verbatim doctrine mirroring deprecated per CIV–SCHOLAR–PRUNING–PROTOCOL v1
 CIV–DOCTRINE–ROME is the single source of truth for all doctrine definitions.
 
 DOCTRINE REFERENCE:
-→ CIV–DOCTRINE–ROME v2.0 (12 doctrines)
+→ CIV–DOCTRINE–ROME v3.0 (12 doctrines)
 → Location: content/civilizations/ROME/CIV–DOCTRINE–ROME.md
 
 DOCTRINE SUMMARY (Reference Only):
@@ -1495,7 +1510,7 @@ DOCTRINE SUMMARY (Reference Only):
 12. SELECTIVE ABSORPTION (SYNTHESIS 0035)
 
 For full doctrine definitions, operational meanings, and hard constraints,
-consult CIV–DOCTRINE–ROME v2.0 directly.
+consult CIV–DOCTRINE–ROME v3.0 directly.
 
 ────────────────────────────────────────────────────────────
 VI. SCHOLAR DIVERGENCE INDEX
@@ -1515,7 +1530,7 @@ VIII. CURRENT STATUS
 ────────────────────────────────────────────────────────────
 Scholar State: ACTIVE — PHASE II (CONSTRAINT GRAMMAR)
 Doctrine Count: 12 (FROZEN) + 1 REFINEMENT CANDIDATE + 1 NEW CANDIDATE
-  • See CIV–DOCTRINE–ROME v2.0
+  • See CIV–DOCTRINE–ROME v3.0
   • DOCTRINE 01 REFINEMENT: "Captured institutions cannot absorb" (CANDIDATE)
   • DOCTRINE 13 CANDIDATE: Defense Capacity Destruction
 RLL Count: 2 BOUND + 7 PENDING
@@ -1537,7 +1552,7 @@ IX. ACADEMIC REFERENCE CANON POINTER (ARC–ROME)
 The Academic Reference Canon governing all ROME materials is defined
 exclusively in the following file:
 
-• CIV–ARC–ROME — v1.9
+• CIV–ARC–ROME — v3.2
 
 This canon:
 • Is stored externally
@@ -1546,7 +1561,7 @@ This canon:
 • Is authoritative for all MEM–ROME authoring and audits
 
 No ARC content is embedded in this file.
-Any deviation from CIV–ARC–ROME v1.9 invalidates compliance.
+Any deviation from CIV–ARC–ROME v3.2 invalidates compliance.
 
 MEM GENERATION CANDIDATES (Template § X.A)
 Proposed new MEMs recorded here for WRITE-mode pickup. Source: LEARN/IMAGINE or STATE relay. Path to MEM: select candidate in WRITE → propose scope/connections from INDEX → user approves → WRITE → register in INDEX; set Status: created.
@@ -1619,10 +1634,10 @@ The embedded v2.5 content below is HISTORICAL REFERENCE ONLY.
 For governance, always consult the canonical template.
 
 ────────────────────────────────────────────────────────────
-[LEGACY MIRROR - CIV–MEM–TEMPLATE v2.5 - SUPERSEDED BY v2.7]
+[LEGACY MIRROR - CIV–MEM–TEMPLATE v2.5 - SUPERSEDED — SEE docs/templates/CIV–MEM–TEMPLATE.md]
 ────────────────────────────────────────────────────────────
 
-CIV–MEM–TEMPLATE — v2.5 [SUPERSEDED - SEE v2.7]
+CIV–MEM–TEMPLATE — v2.5 [SUPERSEDED — SEE docs/templates/CIV–MEM–TEMPLATE.md]
 Civilizational Memory Codex · Memory File Enforcement Template
 20% Evidence Standard · Enhanced Scholarly Rigor · Analytical Protection
 
@@ -2001,16 +2016,16 @@ END OF FILE — CIV–MEM–TEMPLATE v2.5
 [ENDS MIRRORED CONTENT - CIV–MEM–TEMPLATE v2.5]
 
 ────────────────────────────────────────────────────────────
-END OF FILE — CIV–SCHOLAR–ROME — v2.7 (PHASE II · TEMPLATE v2.5 COMPLIANT)
+END OF FILE — CIV–SCHOLAR–ROME — v3.0 (PHASE II · CMC 3.4)
 ────────────────────────────────────────────────────────────
 
-CIV–SCHOLAR–ROME v2.7 is declared:
+CIV–SCHOLAR–ROME v3.0 is declared:
 
 • CANONICAL
 • LOCKED
 • CONSTRAINT-ENFORCING
 • NON-DOCTRINAL
-• TEMPLATE v2.5 COMPLIANT
+• CMC 3.4 COMPLIANT
 • PHASE II (CONSTRAINT GRAMMAR)
 • AXIOM SECTION IMPLEMENTED
 • NEGATIVE CAPABILITY ZONE IMPLEMENTED

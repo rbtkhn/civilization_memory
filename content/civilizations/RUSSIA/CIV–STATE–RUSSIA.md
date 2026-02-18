@@ -1421,6 +1421,23 @@ BYZANTINE EMPIRE (historical):
   Byzantine inheritance is not merely historical; it is an active
   component of the legitimacy narrative.
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ROME (concluded 1453; FRAGMENTED-SOURCE)
+Influence type: SUCCESSION_CLAIM (Third Rome; Moscow as fragment claimant)
+Patterns that apply: Pattern 1 (fragment inheritance), Pattern 2 (vacancy by declination)
+Doctrines/RLLs that apply: RLL–ROME–0002 (vacancy by declination), RLL–ROME–0006 (fragment inheritance); CIV–DOCTRINE–ROME 06, 07
+Application note: Applies to legitimacy rhetoric, expansion narrative, and civilizational self-conception. Russia's Third Rome claim places it as one fragment claimant among others (Papacy, HRE-gone, Ottoman declination); fragment inheritance and vacancy doctrines inform how to assess the claim and its limits. When analysing Russian legitimacy or civilizational framing, apply STATE–ROME Section II (succession, fragment claimants) and Section VII patterns as influence inputs.
+MEMs to prefer when topic touches this influence: MEM–RUSSIA–THIRD–ROME, MEM–ROME–CONSTANTINOPLE, MEM–ROME–WAR–MEHMED–II
+
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY, CONQUEST_LEGACY (Ottoman wars; Caucasus, Crimea, Central Asia; post-caliphal territory)
+Weight: HIGH
+Patterns that apply: Pattern 1 (vacancy by abolition), 2 (caliphal capital succession), 3 (polycentric legitimacy), 4 (custodianship without title)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Applies to legitimacy and strategy when Russia's interface with Islamicate regions, Ottoman successor states, or post-1924 caliphal legacy is in play. Parity and conquest precedent inform settlement and overextension assessment.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–* (Russia-relevant), MEM–RUSSIA–* (Islam/Ottoman interface)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────

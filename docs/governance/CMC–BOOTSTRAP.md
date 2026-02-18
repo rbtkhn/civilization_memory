@@ -8,6 +8,17 @@ Last Update: 17 February 2026
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
 ────────────────────────────────────────────────────────────
+**NEXT SESSION (user intent):** Continue refining the **linkage between Islam and Rome** (double-helix concept, connector MEMs, STATE/SCHOLAR/LEARN integration). Resume in a new conversation with this as the session priority.
+
+**Current state — Rome–Islam linkage (February 2026):**
+• **CONCEPT–ROME–ISLAM–DOUBLE–HELIX** (docs/governance/): Axis, base pairs, III-A structural conditions (prolonged parity → transmission; no single actor controls axis). **IV-A Connector MEMs:** paired same-subject files = main connectors between strands (Constantinople, Crusades, Jerusalem, Sicily, Mediterranean, Levant, Iberia). **Section IX:** STATE/LEARN citation rule — control sequence (MEM–ISLAM–GEO–MEDITERRANEAN–SEA) primary; paired MEMs for 1099–1291 (MEM–ROME–CRUSADES + MEM–ISLAM–CRUSADES; France → add MEM–FRANCIA–WAR–CRUSADES) and 650–1050.
+• **CONCEPT–STATE–INFLUENCE–FROM–CONCLUDED–ENTITIES:** Only STATE–ROME and STATE–ISLAM in scope; weight HIGH/MEDIUM/LOW; STATE–ISLAM influences all living STATE files; design scope + double-helix reference.
+• **CIV–STATE–ISLAM** (content/civilizations/ISLAM/): Monument 622–1924; Section VIII = all seven living STATE files with type and weight; design scope and metaphor line.
+• **cmc-state-mem-grounding.mdc:** Subsection "Double-helix interval citation" + self-check when both Rome and Islam influence and topic touches Mediterranean or intervals 650–1050 / 1099–1291.
+• **RUN–DISCUSSION–THREE–MIND–DOUBLE–HELIX–CONCEPT:** Three-mind discussion; III-A added; Mercouris/Barnes/Mearsheimer tensions preserved.
+
+**Possible next refinements:** Add connector pairs (e.g. Baghdad, Cairo, Damascus) if MEMs exist; add CONNECTIONS between paired connector MEMs; optional pointer in STATE template or STATE–ROME/STATE–ISLAM VIII; LEARN/STATE prompt to load pair when topic touches connector subject (CONCEPT IV-A table).
+
 Completed (February 2026): STATE–AMERICA created from SCHOLAR–ANGLIA.
 Deliverable: CIV–STATE–AMERICA, MEM–RELEVANCE–AMERICA, CIV–ARC–AMERICA (stub)
 in content/civilizations/AMERICA/; grounded in CIV–SCHOLAR–ANGLIA and

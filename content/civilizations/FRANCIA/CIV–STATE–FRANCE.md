@@ -341,6 +341,23 @@ Key distinctions: France is STANDARD-STATE (no civilizational
 identity claim); Germany same. Both depend on EU and transatlantic
 alliance; France retains sovereign nuclear deterrent and UNSC seat.
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ROME (concluded 1453; FRAGMENTED-SOURCE)
+Influence type: CULTURAL_GRAMMAR (Latin civilizational grammar; legal codification, universalist claims, Charlemagne/Carolingian inheritance)
+Patterns that apply: Pattern 4 (bifurcation — political vs religious authority), Pattern 6 (institutional absorption of shock), Pattern 7 (systems defeat genius)
+Doctrines/RLLs that apply: CIV–DOCTRINE–ROME 01 (institutional absorption), 02 (authority translation), 04 (administration precedes ideology)
+Application note: Applies to legitimacy structure (declarative authority, law as coherence), rupture-and-reconstitution (authority translation across regime change), and centralisation-as-coherence. France inherits Roman–Latin legal and administrative patterns and Carolingian universalist template; STATE–ROME Section II (succession, fragment claimants) and Section VII inform comparison when analysing French universalism or EU as institutional inheritance. No succession claim; cultural and institutional grammar only.
+MEMs to prefer when topic touches this influence: MEM–ROME–CHARLEMAGNE, MEM–ROME–WAR–FRANKS, MEM–FRANCIA–* (where Roman inheritance is relevant)
+
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY, CONQUEST_LEGACY (colonial North Africa, Levant; Ottoman successor territories)
+Weight: MEDIUM
+Patterns that apply: Pattern 1 (vacancy by abolition), 2 (caliphal capital succession), 3 (polycentric legitimacy)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Apply when topic touches Maghreb, Levant, post-Ottoman order, or French engagement with Islamicate regions. Parity and conquest precedent inform intervention and legitimacy framing.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–* (France-relevant), MEM–FRANCIA–* (North Africa, Levant)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────

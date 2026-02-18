@@ -437,6 +437,16 @@ is tested by Anglia/US conditionality and by corridor pressure
 (Persia/Chabahar). China and Russia are hedging partners, not
 principal opponents for current option set.
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: CULTURAL_GRAMMAR, CONQUEST_LEGACY (Mughal/Indo-Islamic; British India as successor territory)
+Weight: HIGH
+Patterns that apply: Pattern 1 (vacancy by abolition), 2 (caliphal capital succession), 3 (polycentric legitimacy)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Applies to legitimacy and demography when India's Islamicate interface, Indo-Islamic institutions, or sacred adjacency (CORE XIII) is in play. STATE–ISLAM patterns inform Mughal legacy and post-1924 caliphal vacancy as context.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–*, MEM–INDIA–* (Islamicate/Mughal)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────

@@ -43,4 +43,23 @@ function inferEntityFromMessage(text) {
   return null;
 }
 
-module.exports = { get, set, inferEntityFromMessage, ENTITY_MAP };
+/** Resolve "Russia", "russia", "Persia" etc. to canonical entity (RUSSIA, PERSIA) or null. */
+function resolveEntityName(input) {
+  if (!input || typeof input !== 'string') return null;
+  const lower = input.trim().toLowerCase();
+  for (const [keyword, civ] of Object.entries(ENTITY_MAP)) {
+    if (lower === keyword || lower === civ.toLowerCase()) return civ;
+  }
+  return null;
+}
+
+/** Parse mode switch: "state", "scholar", "/state", "/scholar", "switch to state", "switch to scholar" → 'STATE' | 'SCHOLAR' | null */
+function parseModeSwitch(text) {
+  if (!text || typeof text !== 'string') return null;
+  const lower = text.trim().toLowerCase();
+  if (/^(?:\/)?state\s*$/.test(lower) || /^switch\s+to\s+state\s*$/.test(lower)) return 'STATE';
+  if (/^(?:\/)?scholar\s*$/.test(lower) || /^switch\s+to\s+scholar\s*$/.test(lower)) return 'SCHOLAR';
+  return null;
+}
+
+module.exports = { get, set, inferEntityFromMessage, resolveEntityName, parseModeSwitch, ENTITY_MAP };

@@ -648,6 +648,16 @@ EUROPE / GERMANIA:
   Key distinction: Affects compute, trade, and narrative alignment;
   secondary to US for Strait and containment.
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY (frontier — Xinjiang, Hui; parity at Islamicate frontier)
+Weight: MEDIUM
+Patterns that apply: Pattern 2 (caliphal capital succession), 3 (polycentric legitimacy), 4 (custodianship without title)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Apply when topic touches Xinjiang, Hui, Central Asia, or China's interface with Islamicate regions. Parity precedent informs stability and integration framing.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–*, MEM–CHINA–* (frontier, Hui, Xinjiang)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────

@@ -2,6 +2,8 @@
 
 Use Cursor (and the repo) for all steps. Each session is ~30 minutes. Goal: bot runs, responds in Telegram with STATE-style answers and A–H options, and you have a repeatable launch checklist.
 
+**Scope:** Telegram is a read-only control surface (no modification of STATE/SCHOLAR/MEM). See [CONTROL-SURFACE.md](CONTROL-SURFACE.md).
+
 ---
 
 ## Session 1 — Env, install, first run

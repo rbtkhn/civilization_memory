@@ -355,6 +355,23 @@ VIII. CROSS-ENTITY LINKS
 • Gulf Arab states: Fragmented southern Gulf littoral; dependent on US guarantee; oil producers. Iran's Gulf leverage affects them directly; their alignment with US shapes coalition.
 • Russia, China: Alternative partners; axis optionality (CORE). Economic and diplomatic exit-building; not primary for immediate escalation branch. Axis signal check (Section VII Pattern 7): timing/rhetoric/arms/observers; bounded supports Option B, escalation supports Option A. Iran in BRICS (Section VII Pattern 8): political/financial integration and BRICS cohesion on Iran; fragmentation supports B, deeper integration supports A. Russia–Iran forced choice (Feb 2026): Russia's settlement path runs through the US (Ukraine); Iran values Russia as guarantor and shield. No inherent irreconcilable conflict; tension becomes irreconcilable only when a third party forces a binary (e.g. "Russia: Ukraine deal only if you abandon Iran"). Revealed preference (June 2025 Midnight Hammer): Russia chose US relationship over Iran partnership when forced. Equilibrium logic (Pattern 10): Russia has incentive to avoid the binary (preserve both relationships); US/West forcing the choice destroys partnership credibility and can harden blocs. Discriminating: whether Ukraine/sanctions settlement is linked to Russian abandonment of Iran (forced choice) or tracks remain compartmentalised.
 
+VIII-A. INFLUENCE FROM CONCLUDED ENTITIES
+────────────────────────────────────────────────────────────
+CIV–STATE–ROME (concluded 1453; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY (Roman–Persian parity, exhaustion, negotiation; no succession claim)
+Patterns that apply: Pattern 5 (absorption vs annihilation), Pattern 6 (institutional absorption of shock), Pattern 7 (systems defeat genius)
+Doctrines/RLLs that apply: CIV–DOCTRINE–ROME 01 (institutional absorption), 09 (systems defeat genius), 11 (absorption vs annihilation)
+Application note: Applies to parity dynamics, negotiation precedent (Maurice–Khosrow, reciprocal peace), and exhaustion/settlement. Roman–Persian wars and mutual exhaustion inform Option B (settlement) and overextension risk (Khosrow precedent). When analysing Iran's settlement room or US–Iran negotiation, STATE–ROME patterns on absorption, systems vs genius, and parity apply as influence inputs. Section VII Pattern 11 (Maurice/Phocas) already draws on MEM–PERSIA–WAR–ROME; STATE–ROME Section II and VII add the Roman-side fragment/vacancy lens for comparison.
+MEMs to prefer when topic touches this influence: MEM–PERSIA–WAR–ROME, MEM–ROME–WAR–PERSIA, MEM–PERSIA–SASANIAN–KHOSROW–II
+
+CIV–STATE–ISLAM (concluded 622–1924; FRAGMENTED-SOURCE)
+Influence type: PARITY_LEGACY, CULTURAL_GRAMMAR (caliphal parity, Persianate/Shi'a grammar; no caliphate claim)
+Weight: HIGH
+Patterns that apply: Pattern 1 (vacancy by abolition), 2 (caliphal capital succession), 3 (polycentric legitimacy), 4 (custodianship without title)
+Doctrines/RLLs that apply: CIV–STATE–ISLAM Section VII (no bound RLLs; Phase I SCHOLAR)
+Application note: Applies to legitimacy structure, sectarian/caliphal framing, and negotiation precedent when Iran's Islamicate or Persianate interface is in play. STATE–ISLAM patterns inform comparison with Sunni caliphal legacy and post-1924 vacancy.
+MEMs to prefer when topic touches this influence: MEM–ISLAM–*, MEM–PERSIA–* (Islamicate/Safavid/caliphal)
+
 ────────────────────────────────────────────────────────────
 IX. SOURCE VERSIONS (SYNC REFERENCE)
 ────────────────────────────────────────────────────────────
