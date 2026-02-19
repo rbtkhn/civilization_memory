@@ -18,6 +18,7 @@ Chat backend and adapters so users can interact with the Civilizational Memory C
    - `OPENAI_API_KEY` — required for the engine.
    - `TELEGRAM_BOT_TOKEN` — from [@BotFather](https://t.me/BotFather).
    - `CIVMEM_CONTENT_ROOT` — optional; default is parent of `apps/chat` (repo root if run from `apps/chat`).
+   - `CHAT_MODE=1` — optional; enables **chat-optimized mode**: short replies (40–60 words), 4 options (A–D: More / Other angle / Switch entity / Done), slim context, and a one-time framing line after the first substantive reply. Set to `0` or omit for Cursor-style (8 options, 60–100 words). See [docs/CHAT–MODE–CONTRACT.md](docs/CHAT–MODE–CONTRACT.md).
 
 3. **Install and run**
    ```bash
@@ -28,7 +29,7 @@ Chat backend and adapters so users can interact with the Civilizational Memory C
    Or `npm run dev` for restart on file change.
 
 4. **Telegram**  
-   Open your bot in Telegram. Send **hi** (or hello, hey, etc.) to choose **mode** (STATE or SCHOLAR) and then **entity** (Russia, Persia, China) via multiple-choice buttons. After that, send e.g. `Russia update` or `Learn about Russia`; you get a reply and 8 option buttons (A–H). Tapping a button runs that option and returns the next reply + options.
+   Open your bot in Telegram. Send **hi** (or hello, hey, etc.) to choose **mode** (STATE or SCHOLAR) and then **entity** (Russia, Persia, China) via multiple-choice buttons. After that, send e.g. `Russia update` or `Learn about Russia`; you get a reply and option buttons. With **CHAT_MODE=1** you get 4 options (A–D); otherwise 8 (A–H). Tapping a button runs that option and returns the next reply + options.
 
    **Group chats:** Add the bot to a group. In groups the bot only replies when:
    - someone **@mentions** it (e.g. `@YourBotName Russia update`), or

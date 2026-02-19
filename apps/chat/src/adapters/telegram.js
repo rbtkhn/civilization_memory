@@ -18,11 +18,12 @@ function buildOptionsKeyboard(options) {
       inline_keyboard: [options.map((o) => ({ text: buttonText(o), callback_data: o.id }))],
     };
   }
-  // A–H options: .letter and .label; two rows of letter buttons
+  // A–H or A–D options: .letter and .label. One row if 4 or fewer, else two rows.
   const row1 = options.slice(0, 4).map((o) => ({ text: o.letter, callback_data: o.letter }));
   const row2 = options.slice(4, 8).map((o) => ({ text: o.letter, callback_data: o.letter }));
+  const rows = row2.length > 0 ? [row1, row2] : [row1];
   return {
-    inline_keyboard: [row1, row2],
+    inline_keyboard: rows,
   };
 }
 
