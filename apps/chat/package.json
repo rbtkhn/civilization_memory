@@ -8,7 +8,8 @@
     "start": "node src/index.js",
     "dev": "node --watch src/index.js",
     "telegram": "node src/index.js",
-    "eval": "node scripts/eval-engine.js"
+    "eval": "node scripts/eval-engine.js",
+    "eval:rotate": "EVAL_ROTATE=1 node scripts/eval-engine.js"
   },
   "engines": {
     "node": ">=18"

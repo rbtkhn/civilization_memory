@@ -4,6 +4,7 @@
  * Requires OPENAI_API_KEY and CIVMEM_CONTENT_ROOT (or run from repo root).
  *
  * Usage: node scripts/eval-engine.js
+ * EVAL_ROTATE=1: randomly sample a subset of cases each run (reduces data leakage, prospective).
  * Exit: 0 on pass, 1 on fail.
  */
 
@@ -13,6 +14,7 @@ const engine = require('../src/engine');
 
 const CHAT_MODE = process.env.CHAT_MODE === '1';
 const EXPECTED_OPTIONS = CHAT_MODE ? 4 : 8;
+const ROTATE = process.env.EVAL_ROTATE === '1';
 
 async function runEval(name, platform, userId, message, checks = {}) {
   const result = await engine.run(platform, userId, message);
@@ -48,18 +50,25 @@ async function main() {
     process.exit(1);
   }
 
-  const sessionId = `eval-${Date.now()}`;
-  const cases = [
-    {
-      name: 'Russia update (STATE)',
-      platform: 'eval',
-      userId: sessionId,
-      message: 'Russia update',
-      checks: { entity: 'RUSSIA', mode: 'STATE' },
-    },
+  const baseId = `eval-${Date.now()}`;
+  const entityCases = [
+    { name: 'Russia update (STATE)', platform: 'eval', userId: `${baseId}-russia`, message: 'Russia update', checks: { entity: 'RUSSIA', mode: 'STATE' } },
+    { name: 'Persia update (STATE)', platform: 'eval', userId: `${baseId}-persia`, message: 'Persia update', checks: { entity: 'PERSIA', mode: 'STATE' } },
+    { name: 'Iran update (STATE)', platform: 'eval', userId: `${baseId}-iran`, message: 'Iran update', checks: { entity: 'PERSIA', mode: 'STATE' } },
+    { name: 'France update (STATE)', platform: 'eval', userId: `${baseId}-france`, message: 'France update', checks: { entity: 'FRANCE', mode: 'STATE' } },
   ];
+  const modeCase = { name: 'Switch to scholar (mode)', platform: 'eval', userId: `${baseId}-mode`, message: 'switch to scholar', checks: { mode: 'SCHOLAR' } };
 
-  console.log('Engine eval: running', cases.length, 'case(s)...');
+  let cases;
+  if (ROTATE) {
+    const shuffled = [...entityCases].sort(() => Math.random() - 0.5);
+    const sampleSize = Math.min(3, entityCases.length);
+    cases = [...shuffled.slice(0, sampleSize), modeCase].sort(() => Math.random() - 0.5);
+    console.log('Engine eval (rotate): running', cases.length, 'case(s)...');
+  } else {
+    cases = [...entityCases, modeCase];
+    console.log('Engine eval: running', cases.length, 'case(s)...');
+  }
   const results = [];
   for (const c of cases) {
     const r = await runEval(c.name, c.platform, c.userId, c.message, c.checks);

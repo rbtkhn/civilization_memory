@@ -85,7 +85,49 @@ Reward "I don't know" over guessing. *CIV–MEM:* Mercouris hedging and scope li
 
 ---
 
-## 5. Reference
+## 5. Bulk-Solving a Domain (Essay Ch. 7)
 
-- Essay: Ch. 3 (The Mechanics), Ch. 6 (The Engine); Industrial Intelligence Stack, L0–L5, targeting systems, flywheel, failure modes.
+Ch. 7 describes how to "bulk-solve" a domain: Legibility → Tractability → Bulk-Solution → Automation. The prize is the first hard target; the spillover is the tools built to solve everything else in the field. CIV–MEM instantiates a lighter version of this pipeline.
+
+| Step | Essay | CIV–MEM |
+|------|-------|---------|
+| **Legibility** | Ingest the domain (papers, patents, datasets). | MEM corpus, ARC, CORE, SCHOLAR; domain = civilizations and their history. |
+| **Tractability** | Map vague "cure aging" into benchmarked sub-problems. | Task taxonomy in STATE template (Decision Points, Pattern Audit, Signal Check, etc.); MEM–RELEVANCE for dimension-based lookup; doctrines/RLLs as constraints. |
+| **Bulk-Solution** | AI agents explore solution space; cost of trying ideas collapses. | AI-assisted analysis with three MINDs; human-directed sessions; each entity/pattern/option is a sub-problem. |
+| **Automation** | Digital pipeline connects to Action Networks. | Actuation via Cursor, Telegram, future channels; evals as partial automation; relay gate as human-in-the-loop. |
+
+**Prize and spillover**  
+- **Prize:** Grounded, doctrine-compliant analysis that surfaces material options and patterns.  
+- **Spillover:** The rails (doctrines, RLLs, MEM–RELEVANCE, relay, evals) that make every future session cheaper and more repeatable. We optimize the spillover; the prize is the first use case that justifies building it.
+
+---
+
+## 6. Governance and Rails (Essay Ch. 8–9, Epilogue)
+
+Ch. 8–9 describe the transition from "The Muddle" to "The Machine": new metrics (ACI, Capability Accounts), new roles (Explorer of Purpose, Ethical Anchor, Creator of Meaning), and the **Ten Gears** that form the Abundance Engine. CIV–MEM instantiates a subset.
+
+**Ten Gears → CIV–MEM mapping** (where applicable):
+
+| Gear | CIV–MEM |
+|------|---------|
+| Build the Targeting System | Doctrines, RLLs, MEM–RELEVANCE; evals |
+| Pay for Results | User gate on transfer (payment on clear) |
+| Demand Logs | Transfer log, activity log, STATE Log; decision record per relay |
+| Two-Source Rule | Three MINDs; ARC multi-category sources; no single truth |
+| Fairness by Design | Negative-claim check, ARC source coverage, doctrine equity floors where relevant |
+| Teach the Rules | Cursor rules, templates, this doc |
+
+*Not applicable (or only aspirational):* Pre-commit Compute, Action Networks, Pool Data (data trusts), Co-locate Power & Intelligence. CIV–MEM is a decision-support system, not an energy or physical-infrastructure stack.
+
+**Additional failure modes** (Ch. 8; extend §4):  
+- **Coverage drift:** Gains pool at the top; some entities or patterns get bespoke analysis while others get generic. *Counter:* MEM–RELEVANCE ensures all entities are discoverable; rotate eval inputs across entities.  
+- **Outcome gaming:** Actor manufactures a problem to get paid for "solving" it. *Counter:* Gated spiral awareness (name doctrines that shaped the finding); user authorizes transfer—no automatic "clear."
+
+**Aiming** (Epilogue): Once the rails are in place, the scarce resource shifts from intelligence to *aiming*—choosing purposes worthy of the power and holding accountable to safety floors. CIV–MEM: doctrines and RLLs encode what we aim at; the user is the final aimer.
+
+---
+
+## 7. Reference
+
+- Essay: Ch. 3 (Mechanics), Ch. 6 (Engine), Ch. 7 (Moonshots), Ch. 8 (Muddle vs Machine), Ch. 9 (Build the Rails), Epilogue; Industrial Intelligence Stack, L0–L5, targeting, flywheel, failure modes, bulk-solve logic, Ten Gears.
 - CIV–MEM: CIV–STATE–TEMPLATE, CMC–BOOTSTRAP, cmc-state-mem-grounding, cmc-gated-spiral-awareness, TRANSFER-LOG.md, apps/chat (engine, eval, activity log).
