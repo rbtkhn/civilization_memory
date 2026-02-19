@@ -1,10 +1,11 @@
 /**
- * CIV–MEM Chat: entry point. Starts HTTP server (health) and Telegram bot if configured.
+ * CIV–MEM Chat: entry point. Starts HTTP server (health, /chat, optional Telegram webhook) and Telegram bot (polling or webhook).
  */
 
 require('dotenv').config();
 
 const express = require('express');
+const TelegramBot = require('node-telegram-bot-api');
 const telegram = require('./adapters/telegram');
 
 const PORT = process.env.PORT || 3000;
@@ -31,11 +32,35 @@ app.post('/chat', async (req, res) => {
   }
 });
 
+const useWebhook = !!(process.env.TELEGRAM_BOT_TOKEN && process.env.WEBHOOK_BASE_URL);
+
+if (process.env.TELEGRAM_BOT_TOKEN && useWebhook) {
+  const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, { polling: false });
+  const webhookUrl = process.env.WEBHOOK_BASE_URL.replace(/\/$/, '') + '/telegram-webhook';
+  bot.setWebHook(webhookUrl).then(() => {
+    console.log('Telegram webhook set:', webhookUrl);
+  }).catch((err) => {
+    console.error('Telegram setWebHook failed:', err);
+  });
+  app.post('/telegram-webhook', (req, res) => {
+    telegram.handleWebhookUpdate(bot, req.body)
+      .then(() => res.sendStatus(200))
+      .catch((err) => {
+        console.error('Webhook handler error:', err);
+        res.status(500).send('Error');
+      });
+  });
+}
+
 app.listen(PORT, async () => {
   console.log(`CIV–MEM Chat listening on port ${PORT}`);
   if (process.env.TELEGRAM_BOT_TOKEN) {
-    await telegram.start(process.env.TELEGRAM_BOT_TOKEN);
-    console.log('Telegram bot started (polling). In groups: reply to the bot or @mention to use.');
+    if (useWebhook) {
+      console.log('Telegram: webhook mode. In groups: reply to the bot or @mention to use.');
+    } else {
+      await telegram.start(process.env.TELEGRAM_BOT_TOKEN);
+      console.log('Telegram bot started (polling). In groups: reply to the bot or @mention to use.');
+    }
   } else {
     console.log('TELEGRAM_BOT_TOKEN not set; Telegram bot disabled.');
   }

@@ -12,7 +12,7 @@ Dates: Roman era–present
 Class: CIV–INDEX
 Governed by: CIV–MEM–CORE v3.0
 Last Update: February 2026
-Total Registered Files: 127 MEM–GERMANY objects
+Total Registered Files: 128 MEM–GERMANY objects
 WORDCOUNT: ~1,250
 
 Derived from: CIV–INDEX–TEMPLATE v3.0
@@ -243,6 +243,7 @@ VIII.A. REGISTERED MEM FILES — URBAN NODES
 ────────────────────────────────────────────────────────────
 IX. REGISTERED MEM FILES — SUB-EPOCHS / TRANSFORMATIONS
 ────────────────────────────────────────────────────────────
+• MEM–GERMANY–GERMANIA.md — v1.0 (civilizational precursor: what Germania was, how it birthed Germany)
 • MEM–GERMANY–CAROLINGIAN–PARTITION.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANY–LOTHARINGIA.md — v2.0 (TEMPLATE v2.8 COMPLIANT)
 • MEM–GERMANY–WEIMAR.md — v2.0 (TEMPLATE v2.8 COMPLIANT)

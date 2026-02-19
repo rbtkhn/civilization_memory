@@ -3,14 +3,16 @@ Civilizational Memory Codex · Minimal Startup Payload
 Fast Coherence Without Full Governance Ingest
 
 Governed by: CMC 3.4
-Last Update: 18 February 2026
+Last Update: 19 February 2026
 
 ────────────────────────────────────────────────────────────
 SESSION PRIORITY OBJECTIVE (MUTABLE — UPDATE WHEN DONE OR SUPERSEDED)
 ────────────────────────────────────────────────────────────
 **EXPLORATION (next session):** Explore the idea of **forking the project** while keeping only (1) **file structure** (which MEMs exist, paths, INDEX) and (2) **MEM CONNECTIONS** (the connection graph); **clearing** all other content from MEM files; then **regenerating** content from an **entirely new curated corpus**. Goal: assess plausibility, identify what to preserve (CONNECTIONS, CONCEPT IV-A connector tables, template section layout), what to strip, and what a regeneration pipeline would need (corpus interface, connection-aware generation, governance alignment). See prior session discussion: skeleton = structure + CONNECTIONS; new corpus drives narrative; connector pairs and same-subject encodings stay invariant.
 
-**NEXT SESSION (user intent):** Continue refining the **linkage between Islam and Rome** (double-helix concept, connector MEMs, STATE/SCHOLAR/LEARN integration). Resume in a new conversation with this as the session priority.
+**NEXT SESSION (user intent):** Refine a **double-helix relationship between France and Germany**. Mirror the Rome–Islam double-helix pattern (CONCEPT–ROME–ISLAM–DOUBLE–HELIX): two strands from shared Carolingian origin (Verdun 843), connector MEMs (same subjects from both perspectives: Charlemagne, Rhine, Alsace-Lorraine, Franco-Prussian War, Congress of Vienna, EU core), control sequence (who dominates the axis when), citation rules when both FRANCE and GERMANY influence an entity. Base already in place: MEM–FRANCE–FRANCIA and MEM–GERMANY–GERMANIA (what Francia/Germania were, how they birthed France/Germany). Create or adapt CONCEPT–FRANCE–GERMANY–DOUBLE–HELIX (or equivalent); define connector-pair tables; integrate with STATE/SCHOLAR/LEARN and cmc-state-mem-grounding if both entities influence. Resume in a new conversation with this as the session priority.
+
+**Other (later):** Continue refining the **linkage between Islam and Rome** (double-helix concept, connector MEMs, STATE/SCHOLAR/LEARN integration).
 
 **Current state — Rome–Islam linkage (February 2026):**
 • **CONCEPT–ROME–ISLAM–DOUBLE–HELIX** (docs/governance/): Axis, base pairs, III-A structural conditions (prolonged parity → transmission; no single actor controls axis). **IV-A Connector MEMs:** paired same-subject files = main connectors between strands (Constantinople, Crusades, Jerusalem, Sicily, Mediterranean, Levant, Iberia). **Section IX:** STATE/LEARN citation rule — control sequence (MEM–ISLAM–GEO–MEDITERRANEAN–SEA) primary; paired MEMs for 1099–1291 (MEM–ROME–CRUSADES + MEM–ISLAM–CRUSADES; France → add MEM–FRANCE–WAR–CRUSADES) and 650–1050.

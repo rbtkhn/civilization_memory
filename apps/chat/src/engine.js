@@ -235,6 +235,18 @@ async function run(platform, userId, message) {
         };
       }
     }
+    // Chat mode: option D "Done / Summarize" → session closure, one button to start again (no LLM)
+    if (trimmed === 'd' && sess.lastOptions && sess.lastOptions[3]) {
+      const labelD = (sess.lastOptions[3].label || '').toLowerCase();
+      if (/done|summarize/.test(labelD)) {
+        return {
+          text: 'Session closed. Tap below to start a new conversation.',
+          options: [{ letter: 'A', id: '__start', label: 'Start again — choose mode and entity' }],
+          entity,
+          mode,
+        };
+      }
+    }
   }
 
   const inferredEntity = session.inferEntityFromMessage(message);

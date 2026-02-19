@@ -100,12 +100,20 @@ async function handleMessage(bot, chatId, text, sessionKeyForEngine) {
   }
 }
 
+let cachedBotUserId = null;
+let cachedBotUsername = null;
+async function getBotIdentity(bot) {
+  if (cachedBotUserId != null) return { botUserId: cachedBotUserId, botUsername: cachedBotUsername || '' };
+  const me = await bot.getMe();
+  cachedBotUserId = me.id;
+  cachedBotUsername = me.username || '';
+  return { botUserId: cachedBotUserId, botUsername: cachedBotUsername };
+}
+
 /** Process one Telegram update (for webhook). Returns { chatId, sessionKey, text } or null if nothing to handle. */
 async function parseWebhookUpdate(bot, update) {
   if (!update) return null;
-  const me = await bot.getMe();
-  const botUserId = me.id;
-  const botUsername = me.username || '';
+  const { botUserId, botUsername } = await getBotIdentity(bot);
 
   if (update.callback_query) {
     const q = update.callback_query;
